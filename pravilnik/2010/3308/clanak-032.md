@@ -1,0 +1,3 @@
+# Članak 32.
+Konačno rješenje kojim je osoba ocijenjena nesposobnom za službu u Oružanim snagama, odnosno za obavljanje poslova službene osobe (državni službenici) VSOA-e zdravstvena komisija uz cjelokupnu medicinsku i drugu dokumentaciju dostavlja Upravi za ljudske resurse odnosno za službene osobe (državne službenike) VSOA-e Hrvatskom zavodu za mirovinsko osiguranje.
+Zdravstvena dokumentacija na temelju koje je djelatnik ocijenjen nesposobnim za službu u Oružanim snagama, odnosno za obavljanje poslova službene osobe (državni službenici) VSOA-e, dostavlja se u skladu s propisima o zaštiti stručne odnosno liječničke tajne.

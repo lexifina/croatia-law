@@ -1,0 +1,3 @@
+# Članak 17.
+Zdravstvenu sposobnost kandidata i pripadnika Oružanih snaga utvrđuju specijalisti medicine rada, zdravstvena komisija za zrakoplovno osoblje, prvostupanjska zdravstvena komisija i Viša zdravstvena komisija Ministarstva obrane.
+Specijalisti medicine rada, članovi zdravstvenih komisija, specijalisti iz drugih područja medicine i stručnjaci pozvani od Ministarstva obrane koji ocjenjuju zdravstvenu sposobnost zrakoplovnog osoblja i stalno ukrcanih osoba na ratnim brodovima i brodovima Obalne straže moraju imati i odgovarajuću stručnu osposobljenost propisanu općim propisima za utvrđivanje zdravstvene sposobnosti zrakoplovnog i pomorskog osoblja.

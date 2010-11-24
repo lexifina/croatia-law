@@ -1,0 +1,3 @@
+# Članak 27.
+Ako prvostupanjska zdravstvena komisija utvrdi da dostavljena medicinska odnosno druga relevantna dokumentacija nije potpuna, zatražit će dopunu od izabranog doktora medicine ili od osobe koja se ocjenjuje ili od ustrojstvene jedinice kojoj djelatnik pripada odnosno od njezina ustrojbenog slijednika.
+Ako se zatražena dopuna dokumentacije ne dostavi u roku od 15 dana osoba se obvezno poziva na pregled. U slučaju neodazivanja na pregled prvostupanjska zdravstvena komisija donijet će rješenje o zdravstvenoj sposobnosti temeljem postojeće dokumentacije. O neodazivanju na pregled obvezno se obavještava ustrojstvena jedinica djelatnika.

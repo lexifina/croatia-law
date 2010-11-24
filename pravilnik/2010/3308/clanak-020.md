@@ -1,0 +1,4 @@
+# Članak 20.
+Specijalist medicine rada na temelju utvrđene ocjene zdravstvene sposobnosti izdaje uvjerenje o zdravstvenoj sposobnosti kandidata na tiskanici UZS-1 odnosno pripadnika Oružanih snaga na tiskanici UZS -2.
+Članovi zdravstvene komisije za zrakoplovno osoblje tijekom pregleda ispunjavaju Karton zdravstvenog pregleda zrakoplovnog osoblja na tiskanici ZP-ZO i donose nalaz i mišljenje na tiskanici NM-ZO koji su temelj za izdavanje uvjerenja o zdravstvenoj sposobnosti zrakoplovnog osoblja na tiskanicama UZS-ZO i UZS-PD. Valjanost uvjerenja o zdravstvenoj sposobnosti u skladu je s rokovima propisanim u članku 7. ovog Pravilnika.
+Tiskanice UZS-1, UZS-2, ZP-ZO, NM-ZO, UZS-ZO i UZS-PD nalaze se u prilogu i sastavni su dio ovoga Pravilnika (Prilog br. 7, Prilog br. 8, Prilog br. 9, Prilog br. 10, Prilog br. 11 i Prilog br. 12).

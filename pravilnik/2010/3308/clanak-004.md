@@ -1,0 +1,4 @@
+# Članak 4.
+Zdravstvene preglede kandidata i pripadnika Oružanih snaga provode specijalisti medicine rada i specijalisti pojedinih grana medicine u pravilu u Vojnom zdravstvenom središtu, a iznimno izvan Ministarstva obrane i Oružanih snaga u zdravstvenim ustanovama, trgovačkim društvima koja u svojem sastavu imaju djelatnost medicine rada te u privatnim ordinacijama medicine rada.
+Za obavljanje zdravstvenih pregleda iz stavka 1. ovoga članka zdravstvene ustanove, trgovačka društva i privatne ordinacije moraju imati sklopljen ugovor s Hrvatskim zavodom za zdravstveno osiguranje zaštite zdravlja na radu.
+Planiranje, organizaciju, evidenciju i nadzor nad provedbom zdravstvenih pregleda kandidata i pripadnika Oružanih snaga obavljaju nadležne strukovne ustrojstvene jedinice Ministarstva obrane i Oružanih snaga.
