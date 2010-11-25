@@ -1,0 +1,2 @@
+# Članak 13.
+Uredi državne uprave u županiji, odnosno upravno tijelo Grada Zagreba, dostavljaju presliku licencije i potvrde o prijavi prijevoza za vlastite potrebe ministarstvu nadležnom za promet (Uprava cestovnog prometa i Uprava inspekcijskih poslova) i Državnom inspektoratu Republike Hrvatske, najkasnije u roku od osam dana od dana izdavanja licencije, odnosno potvrde o prijavi prijevoza za vlastite potrebe.

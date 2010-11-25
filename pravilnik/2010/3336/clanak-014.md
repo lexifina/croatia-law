@@ -1,0 +1,3 @@
+# Članak 14.
+Prijevoznik, posrednik u cestovnom prijevozu, odnosno pravna ili fizička osoba koja obavlja prijevoz za vlastite potrebe dužni su gubitak, krađu ili uništenje licencije, izvoda licencije, potvrde o prijevozu za vlastite potrebe, ili izvoda potvrde objaviti u »Narodnim novinama«.
+Nadležno tijelo izdat će duplikat licencije, izvoda licencije, potvrde o prijevozu za vlastite potrebe, ili izvoda potvrde nakon što prijevoznik, posrednik u cestovnom prijevozu, odnosno pravna ili fizička osoba koja obavlja prijevoz za vlastite potrebe dokaže da je nestanak isprave objavila u »Narodnim novinama«.

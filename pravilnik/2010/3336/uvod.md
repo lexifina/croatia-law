@@ -1,0 +1,1 @@
+Na temelju članka 7. stavka 7., članka 13. stavka 11. i članka 86.a stavka 10. Zakona o prijevozu u cestovnom prometu (»Narodne novine« br. 178/04, 48/05, 111/06, 63/08, 124/09, 91/10 i 112/10) ministar mora, prometa i infrastrukture donosi
