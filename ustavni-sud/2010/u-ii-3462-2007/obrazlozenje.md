@@ -1,0 +1,53 @@
+O b r a z l o ž e n j e
+1. Berica d.o.o. iz Nerežišća, Otok Brač (u daljnjem tekstu: predlagatelj), podnio je prijedlog za pokretanje postupka za ocjenu suglasnosti s Ustavom i zakonom Prostornog plana uređenja Općine Nerežišća ("Službeni glasnik Općine Nerežišća" broj 4/07., u daljnjem tekstu: PPU), u dijelu koji se odnosi na kartografske prikaze eksploatacijskog polja kamena "Župa".
+Predlagatelj u bitnome ističe:
+"(...) Istim planom iako je u njegovom tekstualnom dijelu u čl. 72. st. 1. toč. 3. naznačeno eksploatacijsko polje 'Župa', te iako iz samog članka proizlazi da se granice polja utvrđuju vršnim točkama sukladno rješenjima o eksploatacijskim poljima, u njegovom kartografskom prikazu 1a, Korištenje i namjena površina, eksploatacijsko polje tehničko građevnog kamena 'ŽUPA', ucrtano je u granicama, koje su u suprotnosti sa konačnim i pravomoćnim rješenjem Ureda državne uprave u Splitsko-dalmatinskoj županiji, Službe za gospodarstvo, Klasa: UP-I-310-01/04-01/10, Ur. broj: 2181-01-01-8-AV od 03. studenog 2004.g., dakle ucrtane su granice nepostojećeg polja, čime se podnositelju prijedloga krše njegova stečena prava zagarantirana Ustavom RH i Zakonom o rudarstvu (NN 190/03), te se krše odredbe Zakona o prostornom uređenju (NN 100/04), te Prostorni plan Splitsko Dalmatinske županije (Službeni glasnik Splitsko dalmatinske županije br. 1/03), te onemogućuje daljnje ishođenje dokumentacije potrebite za nastavak njegove registrirane djelatnosti. (...)
+Podnositelj ovog prijedloga bez ucrtanog polja sukladno koordinatama izdanog mu rješenja po Uredu državne uprave u Splitsko dalmatinskoj županiji, ne može realizirati odnosno nastaviti sa eksploatacijom tehničko građevinskog kamena na eksploatacijskom polju 'Župa', budući da ne može ishoditi lokacijsku dozvolu temeljem donesenog PPUO Nerežišća."
+Predlagatelj stoga smatra da je osporeni PPU Općine Nerežišća u nesuglasnosti s člankom 3. (u dijelu vladavine prava), 5. stavkom 1., 14. stavkom 2., 49. stavcima 1., 2. i 4., 50. stavkom 2. i 52. (u dijelu koji se odnosi na rudno blago). Oni glase:
+"Članak 3.
+... vladavina prava, ... najviše su vrednote ustavnog poretka Republike Hrvatske i temelj za tumačenje Ustava."
+"Članak 5.
+U Republici Hrvatskoj zakoni moraju biti u suglasnosti s Ustavom, a ostali propisi s Ustavom i sa zakonom.
+(...)"
+"Članak 14.
+(...)
+Svi su pred zakonom jednaki."
+"Članak 49.
+Poduzetnička i tržišna sloboda temelj su gospodarskog ustroja Republike Hrvatske.
+Država osigurava svim poduzetnicima jednak pravni položaj na tržištu.(...)
+(...)
+Prava stečena ulaganjem kapitala ne mogu se umanjiti zakonom niti drugim pravnim aktom.
+(...)"
+"Članak 50.
+(...)
+Poduzetnička se sloboda i vlasnička prava mogu iznimno ograničiti zakonom radi zaštite interesa i sigurnosti Republike Hrvatske, prirode, ljudskog okoliša i zdravlja ljudi."
+"Članak 52.
+... rudno blago i druga prirodna bogatstva ... za koje je zakonom određeno da su od interesa za Republiku Hrvatsku, imaju njezinu osobitu zaštitu.
+Zakonom se određuje način na koji dobra od interesa za Republiku Hrvatsku mogu upotrebljavati i iskorištavati ovlaštenici prava na njima i vlasnici, te naknada za ograničenje kojima su podvrgnuti."
+2. Na temelju članka 42. stavka 1. Ustavnog zakona o Ustavnom sudu Republike Hrvatske ("Narodne novine" broj 99/99., 29/02. i 49/02. - pročišćeni tekst), od Općinskog vijeća Općine Nerežišća zatraženo je i dobiveno očitovanje o prijedlogu.
+Prijedlog nije osnovan.
+3. Za ocjenu suglasnosti osporenog PPU Općine Nerežišća s Ustavom i zakonom mjerodavni su članci 24. stavak 1. i 30. stavak 1. Zakona o prostornom uređenju ("Narodne novine" broj 30/94., 68/98., 61/00., 32/02. i 100/04.), koji je bio na snazi u vrijeme donošenja osporenog propisa. Oni glase:
+"Članak 24.
+Prostorni plan uređenja općine ili grada donosi općinsko, odnosno gradsko vijeće, po pribavljenoj suglasnosti županijskog zavoda o njegovoj usklađenosti sa prostornim planom županije.
+(...)"
+"Članak 30.
+Prostorni plan užeg područja mora biti usuglašen s prostornim planom šireg područja, a u slučaju njihove neusuglašenosti primjenjuje se plan šireg područja.
+(...)"
+4. Zakon o prostornom uređenju (u daljnjem tekstu: ZPU), koji je bio na snazi u vrijeme donošenja osporenog propisa, uređivao je sustav prostornog uređenja, uvjete i način izrade, donošenja i provođenja dokumenata prostornog uređenja te nadležnost tijela državne uprave i tijela jedinica lokalne i područne (regionalne) samouprave u provedbi mjera i aktivnosti kojima se osigurava planiranje i uređivanje prostora Republike Hrvatske.
+Dokumentima prostornog uređenja određuje se svrhovita organizacija, korištenje i namjena prostora te mjerila i smjernice za uređenje i zaštitu prostora Države, županija, Grada Zagreba, općina i gradova; dokumenti prostornog uređenja imaju snagu i pravnu prirodu podzakonskog propisa.
+5. Prostorni plan uređenja općine ili grada je dokument prostornog uređenja koji utvrđuje uvjete za uređenje općinskog i gradskog područja, određuje svrhovito korištenje, namjenu, oblikovanje, obnovu i sanaciju građevinskog i drugog zemljišta, zaštitu okoliša te zaštitu spomenika kulture i osobito vrijednih dijelova prirode u općini, odnosno gradu.
+Prostorni plan uređenja općine ili grada sadrži osnove razvitka u prostoru, ciljeve prostornog uređenja, namjenu prostora, mjerila, smjernice, mjere i uvjete za korištenje, zaštitu i uređivanje prostora, te druge elemente od važnosti za područje općine, odnosno grada.
+6. PPU Općine Nerežišća donijelo je Općinsko vijeće Općine Nerežišća 27. srpnja 2007. na temelju članka 24. ZPU-a i članka 26. Statuta Općine Nerežišće ("Službeni glasnik Općine Nerežišća" broj 4/06.), uz prethodno mišljenje Splitsko-dalmatinske županije, Županijskog zavoda za prostorno uređenje od 11. lipnja 2007. te uz suglasnost Ureda državne uprave u Splitsko-dalmatinskoj županiji, Službe za prostorno uređenje, zaštitu okoliša, graditeljstvo i imovinskopravne poslove, Odsjeka za prostorno uređenje i zaštitu okoliša od 21. lipnja 2007. i suglasnost Ministarstva zaštite okoliša, prostornog uređenja i graditeljstva (u daljnjem tekstu: Ministarstvo), Uprave za prostorno planiranje od 10. srpnja 2007.
+Na inicijativu predlagatelja, urbanistička inspekcija Ministarstva, Uprave za inspekcijske poslove izvršila je 10. srpnja 2007. i nadzor prostorno planske dokumentacije PPU Općine Nerežišća. Međutim, u nalazu urbanističke inspekcije Ministarstva utvrđeno je sljedeće:
+"(...) U Konačnom prijedlogu Prostornog uređenja Općine Nerežišća kojeg je Općinsko poglavarstvo utvrdilo 9. srpnja 2004. godine - (u daljnjem tekstu: KP PPUO), na kartografskom prikazu 1a Korištenje i namjena površina, uz postojeće eksploatacijsko polje 'Župa' označeno E3, ucrtan je istražni prostor i označen kao 'Ex'. Međutim, postupak donošenja PPUO Nerežišća nije nastavljen, budući da je stupanjem na snagu Uredbe o uređenju i zaštiti obalnog područja mora ('Narodne novine' broj 128/04, ... ), općina bila u obvezi uskladiti ga s tom Uredbom.
+U postupku usklađenja ponovljena je javna rasprava u trajanju od 15 dana koja je održana od 17. prosinca 2005. godine do 5. siječnja 2006. godine. U tom Prijedlogu PPUO za ponovljenu javnu raspravu na Kartografskom prikazu 1a, Korištenje i namjena površina, eksploatacijsko polje E3 - Župa ucrtano je u postojećim granicama, bez istražnog prostora Ex-Župa II koji je temeljem primjedbe na javnoj raspravi bio ucrtan u KP PPUO iz 2004. godine. Također, u tom Prijedlogu nisu ucrtani niti istražni prostori na području bazena Donji Humac ... .
+Na takvo rješenje je Berica d.o.o. dao primjedbu kojom traži ucrtavanje istražnog polja prema koordinatama vršnih točaka, pozivajući se na okolnost da je tvrtka Berica d.o.o. od Ureda državne uprave u Splitsko-dalmatinskoj županiji, Službe za gospodarstvo, dobila rješenje za odobrenje proširenja eksploatacijskog polja 'Župa', ... od 3. studenog 2004. godine.
+U pripremi Konačnog prijedloga PPUO Nerežišća. Općinsko poglavarstvo je na sjednici održanoj 30. ožujka i 2. svibnja 2006. godine donijelo konačan stav prema prijedlozima i primjedbama pristiglima u ponovljenoj javnoj raspravi, te izrađivaču plana uputilo dopis ... od 4. svibnja 2006. godine, kojim je ... zaključeno da se ucrtavanje eksploatacijskog polja tehničko-građevnog kamena 'Župa' u vlasništvu trgovačkog društva Berica d.o.o. odobrava prema postojećim granicama, odnosno ne odobrava se ucrtavanje proširenog eksploatacijskog polja, a sve u cilju baziranja buduće eksploatacije na bazenu Donji Humac.
+Uvidom u rješenje Ureda državne uprave u Splitsko-dalmatinskoj županiji, Službe za gospodarstvo, od srpnja 2005. godine, kojim se trgovačkom društvu Berica d.o.o. dodjeljuje rudarska koncesija za izvođenje rudarskih radova eksploatacije tehničko-građevnog kamena na eksploatacijskom polju 'Župa', utvrđeno je da je ta koncesija dodijeljena na katastarskim česticama koje se nalaze u granicama postojećeg eksploatacijskog polja, odnosno unutar obuhvata određenog lokacijskom dozvolom koju je izdala Splitsko-dalmatinska županija ... Ispostava Supetar ... od 28. srpnja 1998. godine. U Konačnom prijedlogu prostornog plana uređenja Općine Nerežišća, na kartografskom prikazu broj 1 Korištenje i namjena površina, predmetno eksploatacijsko polje E3 Župa ucrtano je upravo u tom obuhvatu.
+Slijedom toga, okolnost da je 3. studenog 2004. godine izdano rješenje za odobrenje proširenja eksploatacijskog polja 'Župa' ... nije od utjecaja na zakonitost Konačnog prijedloga PPUO, a pri tome valja konstatirati da je to rješenje izdano premda u Prostornom planu (bivše) Općine Brač proširenje tog eksploatacijskog polja nije bilo planirano."
+7. Ocjenjujući osnovanost prijedloga u svjetlu mjerodavnih članaka ZPU-a i relevantnih činjenica koje su razvidne iz dokumentacije u spisu predmeta, Ustavni sud utvrđuje da je osporeni PPU Općine Nerežišća donesen na temelju i u granicama zakonske ovlasti radi usklađenja s Uredbom o uređenju i zaštiti zaštićenog obalnog područja mora ("Narodne novine" broj 128/04.), uz zakonom propisane suglasnosti i pozitivno mišljenje.
+Razmatrajući predlagateljeve razloge u odnosu na činjenice utvrđene po nadležnim tijelima (položaj predlagateljevog eksploatacijskog polja unutar PPU-a Općine Nerežišća) i posebno nalaz urbanističke inspekcije Ministarstva, Ustavni sud utvrđuje da prijedlog nije osnovan, s napomenom da pitanja vezana uz svrsishodnost uređenja konkretnog prostora nisu u nadležnosti Ustavnog suda.
+8. Slijedom iznijetog, na temelju članka 43. stavka 1. Ustavnog zakona o Ustavnom sudu Republike Hrvatske, riješeno je kao u izreci.
+USTAVNI SUD REPUBLIKE HRVATSKE
+Broj: U-II-3462/2007
+Zagreb, 25. studenoga 2010.
