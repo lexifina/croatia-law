@@ -1,0 +1,3 @@
+# Članak 4.
+(1) Društvo za osiguranje, odnosno društvo za reosiguranje dužno je nakon isteka svake poslovne godine sastaviti nadzorne izvještaje iz članka 3. stavka 1. ovoga Pravilnika sa stanjem na dan 31. prosinca (dalje u tekstu: godišnji nadzorni izvještaji).
+(2) Društvo za osiguranje, odnosno društvo za reosiguranje dužno je sastaviti nadzorne izvještaje iz članka 3. stavka 1. točke 1. do 6. ovoga Pravilnika sa stanjem na dan 31. ožujka, sa stanjem na dan 30. lipnja, sa stanjem na dan 30. rujna i sa stanjem na dan 31. prosinca poslovne godine (dalje u tekstu: tromjesečni nadzorni izvještaji).
