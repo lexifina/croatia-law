@@ -1,0 +1,7 @@
+## Dodatni kriteriji za umanjenje upravno-kaznene mjere
+# Članak 19.
+(1) Pojam dodatnih valjanih dokaza iz članka 17. stavka 2. točke 2. ove Uredbe, podrazumijeva dodatnu vrijednost svakog dokaza dostavljenog Agenciji za utvrđivanje kartela koji se bez tog dokaza ne bi mogao utvrditi ili bi Agencija kartel u konkretnom slučaju mogla utvrditi vremenski znatno kasnije.
+(2) Agencija je obvezna nakon dostave prijave, procijeniti svaki dostavljeni dokaz. Neposredni dokazi koji potkrepljuju određene činjenice koje se utvrđuju u postupku kao što su pisane izjave, dopisi, izravna elektronička prepiska među sudionicima kartela i druga pisana dokumentacija relevantna za utvrđenje činjenica i okolnosti postojanja i trajanja kartela u pravilu će imati veću dodatnu vrijednost od posrednih dokaza kao što su izjave sudionika kartela bez dodatnih dokaza koji te izjave potvrđuju.
+(3) Iznos umanjenja upravno-kaznene mjere za prvog poduzetnika koji je dostavio dokaze sa značajnom dodanom vrijednosti Agencija je obvezna odrediti, u pravilu, u rasponu od 30% do 50%.
+(4) Iznos umanjenja upravno-kaznene mjere za drugog poduzetnika koji je dostavio dokaze sa značajnom dodanom vrijednosti Agencija je obvezna odrediti, u pravilu, u rasponu od 20% do 30%.
+(5) Iznos umanjenja upravno-kaznene mjere za svakog sljedećeg poduzetnika koji je dostavio dokaze sa značajnom dodanom vrijednosti Agencija će odrediti u pravilu do najviše 20%.

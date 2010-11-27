@@ -1,0 +1,6 @@
+## Pravo uvida u Izjavu poduzetnika
+# Članak 7.
+(1) Agencija će odobriti uvid u Izjavu poduzetnika samo strankama u postupku, i to nakon dostave Obavijesti iz članka 48. Zakona.
+(2) Uvid iz stavka 1. ovoga članka Agencija će odobriti samo pod uvjetom da se stranke u postupku, odnosno njihovi punomoćnici obvežu Agenciji kako će sadržaj Izjave poduzetnika, u koju im je Agencija dala uvid, uporabiti isključivo u postupku utvrđivanja postojanja kartela u kojem je Izjava poduzetnika dana ili u upravnom sporu pokrenutom protiv odluke Agencije kojom se taj postupak okončava, odnosno da njen sadržaj neće kopirati ni u mehaničkom niti u elektroničkom obliku.
+(3) Ako se stranke u postupku ili njihovi punomoćnici ne pridržavaju obveze o ograničenoj uporabi sadržaja Izjave poduzetnika u smislu stavka 2. ovoga članka, Agencija takvo postupanje može, ovisno o okolnostima konkretnog slučaja, ocijeniti ometanjem Agencije tijekom postupka u smislu članka 64. stavka 5. točke 2. Zakona.
+(4) Ako podnositelj prijave ili njegovi punomoćnici otkriju sadržaj Izjave poduzetnika iz članka 5. ove Uredbe trećima, obveza stranaka u postupku o ograničenoj uporabi sadržaja Izjave poduzetnika u koju su izvršili uvid u smislu stavka 2. ovoga članka prestaje.

@@ -1,0 +1,6 @@
+## Uvjetno umanjenje upravno-kaznene mjere
+# Članak 20.
+(1) Ukoliko Agencija preliminarno ocijeni, u smislu članka 19. stavaka 1. i 2. ove Uredbe da dostavljeni dokazi iz članka 17. stavka 2. točke 2. ove Uredbe imaju značajnu dodanu vrijednost, te da je poduzetnik koji je podnio prijavu za umanjenje upravno-kaznene mjere ispunio kriterije iz članka 3. ove Uredbe, o tome je obvezna žurno, pisanim putem obavijestiti poduzetnika, odnosno dati mu uvjetno umanjenje upravno-kaznene mjere.
+(2) Ukoliko Agencija preliminarno ocijeni, u smislu članka 19. stavaka 1. i 2. ove Uredbe da dostavljeni dokazi iz članka 17. stavka 2. točke 2. ove Uredbe nemaju značajnu dodanu vrijednost ili utvrdi da poduzetnik nije ispunio kriterije iz članka 3. ove Uredbe, o tome je obvezna žurno, pisanim putem obavijestiti poduzetnika.
+(3) U slučaju iz stavka 2. ovoga članka, poduzetnik može povući sve dokaze iz članka 17. stavka 2. točke 2. ove Uredbe koje je dostavio Agenciji u privitku prijave za umanjenje upravno-kaznene mjere.
+(4) Povučenim dokazima iz stavka 3. ovoga članka Agencija se ne smije izravno koristiti, ali to ne sprječava Agenciju u pribavljanju tih dokaza, temeljem drugih radnji u provedbi postupka, radi utvrđivanja narušavanja tržišnog natjecanja, odnosno u prikupljanju drugih relevantnih činjenica i okolnosti tijekom ispitnog postupka.

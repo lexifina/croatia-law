@@ -1,0 +1,4 @@
+# Članak 16.
+(1) Pod uvjetom da se poduzetnik kojemu je Agencija dala uvjetno oslobođenje od plaćanja upravno-kaznene mjere iz članka 14. ove Uredbe tijekom cijelog postupka u nadležnosti Agencije pridržavao svih kriterija iz članka 3. stavaka 4. i 5. ove Uredbe, Agencija je obvezna u rješenju kojim okončava postupak osloboditi poduzetnika od plaćanja upravno-kaznene mjere.
+(2) Ukoliko poduzetnik ne postupi u smislu stavka 1. ovoga članka, odnosno ukoliko se nakon postupanja Agencije u smislu članka 14. ove Uredbe u bilo kojem trenutku tijekom postupka utvrdi da poduzetnik ne ispunjava kriterije iz članka 3. stavaka 4. i 5. ove Uredbe, Agencija je obvezna ukinuti prethodno dano uvjetno oslobođenje od plaćanja upravno-kaznene mjere i o tome žurno, pisanim putem, obavijestiti poduzetnika.
+(3) U slučaju iz stavka 2. ovoga članka, Agencija ne može na tog poduzetnika primijeniti niti umanjenje upravno-kaznene mjere u smislu ove Uredbe.

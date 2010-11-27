@@ -1,0 +1,4 @@
+## Odluka o umanjenju upravno-kaznene mjere
+# Članak 21.
+(1) Ako se poduzetnik kojemu je Agencija dala uvjetno umanjenje upravno-kaznene mjere iz članka 20. ove Uredbe tijekom cijelog postupka u nadležnosti Agencije pridržavao svih kriterija iz članka 3. stavaka 4. i 5. ove Uredbe, Agencija je obvezna u rješenju kojim okončava konkretni postupak utvrditi postotni iznos umanjenja upravno-kaznene mjere u smislu članka 17. stavka 7. i članka 19. stavka 3. do 5. ove Uredbe.
+(2) Ako poduzetnik postupi protivno stavku 1. ovoga članka, odnosno ako Agencija nakon što mu je dala uvjetno umanjenje upravno-kaznene mjere iz članka 20. ove Uredbe, u bilo kojem trenutku tijekom postupka, utvrdi da poduzetnik ne ispunjava kriterije iz članka 3. stavaka 4. i 5. ove Uredbe, obvezna je u tom slučaju poduzetniku ukinuti prethodno dano uvjetno umanjenje upravno-kaznene mjere i o tome ga, žurno, pisanim putem obavijestiti.
