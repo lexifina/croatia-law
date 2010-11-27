@@ -1,0 +1,6 @@
+## Izračun prihoda poduzetnika
+# Članak 5.
+(1) Prihod utvrđen člankom 2. točkom c) ove Uredbe smatra se prihodom iz članka 4. ove Uredbe.
+(2) Agencija će u pravilu izračun prihoda ostvarenog od obavljanja djelatnosti na mjerodavnom tržištu na kojem je utvrđena povreda Zakona, u smislu stavka 1. ovoga članka, temeljiti na podacima o vrijednosti prodaje robe i/ili usluga tijekom posljednje poslovne godine u kojoj je poduzetnik povrijedio Zakon, odnosno posljednje godine za koju postoje zaključena financijska izvješća. U vrijednost prodaje robe i/ili usluga Agencija neće uračunavati porez na dodanu vrijednost, kao niti druge poreze izravno vezane uz prodaju.
+(3) Ako Agencija utvrdi da je udruženje poduzetnika povrijedilo Zakon, pri utvrđivanju osnovnog iznosa upravno-kaznene mjere iz članka 4. stavka 1. ove Uredbe, prihodom udruženja poduzetnika smatrat će se zbroj pojedinačnih prihoda njegovih članova.
+(4) Podatke o prihodu iz stavka 1. ovoga članka Agenciji je obvezan dostaviti poduzetnik za kojeg je utvrđeno da je povrijedio Zakon. Ako Agencija procijeni da su dostavljeni podatci nepotpuni ili netočni, Agencija će relevantne podatke o prihodu poduzetnika utvrditi temeljem članka 41. stavka 6. Zakona, odnosno prihod poduzetnika će utvrditi temeljem djelomičnih podataka koje je pribavila i/ili temeljem bilo kakvih drugih podataka koje smatra primjerenim.

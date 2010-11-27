@@ -1,0 +1,5 @@
+## Utvrđivanje težine povrede Zakona
+# Članak 6.
+(1) U cilju primjerenog utvrđivanja osnovnog iznosa upravno-kaznene mjere, Agencija, u smislu članka 4. stavka 2. ove Uredbe, u svakom pojedinačnom slučaju utvrđuje težinu povrede Zakona.
+(2) Agencija, u smislu članka 4. stavka 3. ove Uredbe, u svakom pojedinačnom slučaju utvrđuje treba li postotak od prihoda biti određen u gornjem ili donjem dijelu raspona. Pri tome je Agencija obvezna uzimati u obzir niz čimbenika, kao što su primjerice, vrsta povrede Zakona, tržišni udjel poduzetnika-sudionika povrede Zakona, zemljopisno područje na kojem povreda Zakona ima ili može imati učinak, te je li povreda Zakona u praksi izvršena ili je samo ostavljena otvorena mogućnost za izvršenje povrede.
+(3) Karteli iz članka 2. točke g) ove Uredbe smatraju se po svojoj vrsti najtežim oblicima ograničavanja tržišnog natjecanja, odnosno najtežim povredama Zakona. U tim slučajevima Agencija će udio od prihoda poduzetnika iz članka 4. stavka 3. ove Uredbe odrediti u pravilu u gornjem dijelu raspona, uzimajući u obzir sve čimbenike iz stavka 2. ovoga članka.
