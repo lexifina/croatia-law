@@ -1,0 +1,6 @@
+# Članak 8.
+Program i financijski plan Festivala koji usvoji Festivalsko vijeće, ravnatelj upućuje radi osiguravanja sredstava na natječaj Ministarstvu kulture te na natječaj za financiranje javnih potreba u kulturi Istarske županije i Grada Pule.
+O ostvarivanju programa Festivala ravnatelj podnosi financijsko izvješće Festivalskom vijeću, ministru kulture, županu Istarske županije, gradonačelniku Grada Pule te Upravnom vijeću Javne ustanove Pula Film Festival. O ostvarivanju filmskog programa umjetnički ravnatelj podnosi izvješće Festivalskom vijeću, ministru kulture, županu Istarske županije, gradonačelniku Grada Pule te Upravnom vijeću Javne ustanove Pula Film Festival.
+Izvješća se podnose u roku od 60 dana od dana završetka Festivala.
+Ako Festivalsko vijeće, ministar kulture odnosno župan Istarske županije ili gradonačelnik Grada Pule ne prihvate izvješće u dijelu koji se odnosi na filmski program, ministar kulture može razriješiti umjetničkog ravnatelja Festivala.
+Ako Festivalsko vijeće, ministar kulture odnosno župan Istarske županije, gradonačelnik Grada Pule ili Upravno vijeće Javne ustanove Pula Film Festival ne prihvate financijsko izvješće ravnatelja, mogu predložiti Gradskom vijeću Grada Pule razrješenje ravnatelja.
