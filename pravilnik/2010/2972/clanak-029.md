@@ -1,0 +1,6 @@
+# Članak 29.
+Promjena individualnog referentnog udjela mliječne masti
+(1) Ukoliko se proizvođaču dodijeli individualna kvota iz nacionalne pričuve, njegov individualni referentni udio mliječne masti ostaje nepromijenjen.
+(2) Ukoliko se proizvođaču individualna kvota B pretvori u kvotu A, a još nema dodijeljenu individualnu kvotu A s individualnim referentnim udjelom mliječne masti, za količinu koja je predmet pretvorbe uzima se u obzir udio mliječne masti u visini od 3,8 %.
+(3) Ukoliko se proizvođaču individualna kvota B pretvori u kvotu A, a već ima dodijeljenu individualnu kvotu A s individualnim referentnim udjelom mliječne masti, individualni referentni udio mliječne masti ostaje nepromijenjen ukoliko prosječni udio mliječne masti za tekuću kvotnu godinu nije niži za više od 1 g/kg od ranije dodijeljenog individualnog referentnog udjela mliječne masti.
+(4) Ukoliko je prosječni udio iz prethodnog stavka niži za više od 1 g/kg, udio mliječne masti koji se odnosi na količinu koja je predmet pretvorbe iznosi 3,8%. Novi individualni referentni udio mliječne masti predstavlja prosječnu vrijednost udjela mliječne masti izračunat na temelju podataka o dotadašnjem udjelu i udjelu količine dobivene pretvorbom.

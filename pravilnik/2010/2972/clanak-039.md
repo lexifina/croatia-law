@@ -1,0 +1,3 @@
+# Članak 39.
+(1) Pristojba za prekoračenje količine raspodjeljuje se onim proizvođačima koji su izravno prodali veću količinu mlijeka i/ili mliječnih proizvoda od dodijeljene im individualne kvote B prema njihovom doprinosu prekoračenju kvote B.
+(2) Izračunati iznos pristojbe za prekoračenje kvote B za svakog proizvođača temelji se na stvarno utvrđenoj razlici između njegove izravno prodane količine mlijeka i/ili mliječnih proizvoda i njegove individualne kvote B, ispravljene vrijednošću koja se dobije kada se sveukupna kvota B stavi u odnos sa sveukupno izravno prodanom količinom mlijeka i/ili mliječnih proizvoda.
