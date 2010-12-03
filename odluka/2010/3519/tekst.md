@@ -1,0 +1,184 @@
+I.
+Vlada Republike Hrvatske preraspodjeljuje sredstva unutar Financijskog plana Hrvatskih cesta za 2010. godinu (»Narodne novine«, broj 151/2009).
+II.
+Sredstva iz točke I. ove Odluke preraspodijelit će se prema sljedećem rasporedu:
+Šifra
+Naziv
+Plan 2010.
+Povećanje
+Smanjenje
+Novi plan 2010.
+03
+HRVATSKE CESTE
+1.583.640.000
+208.814.000
+208.814.000
+1.583.640.000
+103
+ULAGANJE U DRŽAVNE CESTE PO PROGRAMIMA
+1.133.640.000
+158.814.000
+208.814.000
+1.083.640.000
+K2003
+SPOJEVI NA AUTOCESTE
+59.200.000
+28.492.000
+0
+87.692.000
+411
+Materijalna imovina - prirodna bogatstva
+5.000.000
+2.115.000
+7.115.000
+421
+Građevinski objekti
+54.200.000
+26.377.000
+80.577.000
+K2004
+PROGRAM GRADNJE I REKONSTRUKCIJA BRZIH CESTA
+345.400.000
+112.293.000
+0
+457.693.000
+411
+Materijalna imovina - prirodna bogatstva
+25.000.000
+43.553.000
+68.553.000
+421
+Građevinski objekti
+320.400.000
+68.740.000
+389.140.000
+K2005
+OSTALI PROGRAMI ZAHVATA NA DRŽAVNIM CESTAMA
+411.460.000
+3.772.000
+91.426.000
+323.806.000
+411
+Materijalna imovina - prirodna bogatstva
+50.000.000
+3.772.000
+53.772.000
+421
+Građevinski objekti
+361.460.000
+91.426.000
+270.034.000
+K2006
+REKONSTRUKCIJA I UREĐENJE CESTA NA OTOCIMA
+122.500.000
+0
+78.834.000
+43.666.000
+411
+Materijalna imovina - prirodna bogatstva
+5.000.000
+3.310.000
+1.690.000
+421
+Građevinski objekti
+117.500.000
+75.524.000
+41.976.000
+K2007
+REKONSTRUKCIJA I UREĐENJE CESTA I MOSTOVA UZ GRANICU
+18.000.000
+0
+3.000.000
+15.000.000
+411
+Materijalna imovina - prirodna bogatstva
+3.000.000
+0
+3.000.000
+0
+421
+Građevinski objekti
+15.000.000
+15.000.000
+K2008
+PROGRAM DENIVELACIJE I OSIGURANJA CEST.-ŽELJ. PRIJELAZA
+5.800.000
+0
+5.000.000
+800.000
+411
+Materijalna imovina - prirodna bogatstva
+0
+0
+0
+0
+421
+Građevinski objekti
+5.800.000
+5.000.000
+800.000
+K2009
+OSTALI INTERVENTNI PROJEKTI
+12.000.000
+1.257.000
+1.000.000
+12.257.000
+411
+Materijalna imovina - prirodna bogatstva
+5.000.000
+1.000.000
+4.000.000
+421
+Građevinski objekti
+7.000.000
+1.257.000
+0
+8.257.000
+K2010
+BETTERMENT
+159.280.000
+13.000.000
+29.554.000
+142.726.000
+411
+Materijalna imovina - prirodna bogatstva
+7.000.000
+13.000.000
+20.000.000
+421
+Građevinski objekti
+152.280.000
+29.554.000
+122.726.000
+104
+PROGRAM ODRŽAVANJA I UPRAVLJANJA DRŽAVNIH CESTA
+450.000.000
+50.000.000
+0
+500.000.000
+A1003
+REDOVNO ODRŽAVANJE
+300.000.000
+30.000.000
+0
+330.000.000
+323
+Rashodi za usluge
+300.000.000
+30.000.000
+330.000.000
+A1004
+IZVANREDNO ODRŽAVANJE
+150.000.000
+20.000.000
+0
+170.000.000
+323
+Rashodi za usluge
+150.000.000
+20.000.000
+170.000.000
+III.
+Ova Odluka je sastavni dio Financijskog plana Hrvatskih cesta za 2010. godinu.
+IV.
+Ova Odluka stupa na snagu danom donošenja, a objavit će se u »Narodnim novinama«.

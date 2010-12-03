@@ -1,0 +1,1 @@
+Na temelju članka 7. stavka 1. Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 2010. godinu (»Narodne novine«, br. 151/2009 i 103/2010), a u vezi s člankom 46. Zakona o proračunu (»Narodne novine«, broj 87/2008), Vlada Republike Hrvatske je na sjednici održanoj 3. prosinca 2010. godine donijela
