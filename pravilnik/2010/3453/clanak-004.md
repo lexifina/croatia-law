@@ -1,0 +1,6 @@
+# Članak 4.
+(1) Društvo za osiguranje, odnosno društvo za reosiguranje dužno je sastavljati financijske izvještaje navedene u članku 3. stavku 1. alinejama 1. do 4. ovoga Pravilnika sukladno strukturi i sadržaju koji su definirani obrascima - Financijski izvještaji društva za osiguranje, odnosno društva za reosiguranje, a koji se nalaze u Prilogu 1 ovoga Pravilnika i čine njegov sastavni dio (dalje u tekstu: Prilog 1).
+(2) Bilješke uz financijske izvještaje iz članka 3. stavka 1. alineje 5. ovoga Pravilnika sastavljaju se u skladu s odredbama Međunarodnih standarda financijskog izvještavanja (dalje u tekstu: MSFI) na način da pružaju:
+- informacije o osnovi za sastavljanje financijskih izvještaja i određenim računovodstvenim politikama primijenjenim u skladu s točkama 117. do 124. Međunarodnog računovodstvenog standarda 1 (dalje u tekstu: MRS 1),
+- informacije prema zahtjevima MSFI-a koje nisu prezentirane u Izvještaju o financijskom položaju (Bilanci), Izvještaju o sveobuhvatnoj dobiti (Računu dobiti i gubitka), Izvještaju o promjenama kapitala ili Izvještaju o novčanim tokovima,
+- informacije o dodatnim podacima koji nisu prezentirani drugdje u financijskim izvještajima, ali su potrebni za razumijevanje bilo kojeg sastavnog dijela financijskih izvještaja, a obuhvaćaju najmanje podatke navedene u Prilogu 2 ovoga Pravilnika (dalje u tekstu: Prilog 2).
