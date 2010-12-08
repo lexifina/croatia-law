@@ -1,0 +1,2 @@
+# Članak 56.
+Do sklapanja privremenog Ugovora iz članka 55. ovoga Zakona, mjesečna pristojba iz članka 35. ovoga Zakona iznosit će 1,5% prosječne neto mjesečne plaće zaposlenih u Republici Hrvatskoj, na temelju statističkih podataka za prethodnu godinu. Nakon sklapanja privremenog Ugovora iz članka 55. ovoga Zakona visinu mjesečne pristojbe za svaku godinu u razdoblju trajanja privremenog Ugovora utvrđuje Vlada Republike Hrvatske vodeći računa da se osiguraju sredstva za provedbu privremenog Ugovora iz članka 55. ovoga Zakona.

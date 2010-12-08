@@ -1,0 +1,5 @@
+# Članak 55.
+(1) Privremeni glavni ravnatelj HRT-a dužan je utvrditi prijedlog privremenog Ugovora koji sadrži programske obveze HRT-a i druge odredbe propisane člankom 13. stavkom 1. i člankom 14. ovoga Zakona, te ga uz pribavljeno mišljenje Vijeća HRT-a u roku od 45 dana od dana stupanja na snagu ovoga Zakona dostaviti Vladi Republike Hrvatske. Privremeni Ugovor mora biti potpisan u roku od 30 dana od dostave prijedloga privremenog Ugovora Vladi Republike Hrvatske.
+(2) Ako se Vijeće HRT-a na zahtjev privremenog glavnog ravnatelja HRT-a ne očituje o prijedlogu privremenog Ugovora iz stavka 1. ovoga članka u roku od 10 dana od dana traženja, privremeni glavni ravnatelj HRT-a dostavit će prijedlog privremenog Ugovora Vladi Republike Hrvatske bez mišljenja Vijeća HRT-a.
+(3) Na pregovore o sadržaju i sklapanju privremenog Ugovora iz stavka 1. ovoga članka primjenjuju se propisi kojima se uređuju obvezni odnosi.
+(4) Iznimno od odredbe članka 13. stavka 1. ovog Zakona, privremeni Ugovor iz stavka 1. ovoga članka sklopit će se za prijelazno razdoblje do 1. siječnja 2013., odnosno do sklapanja Ugovora prema članku 13. ovoga Zakona.

@@ -1,0 +1,2 @@
+# Članak 57.
+Iznimno od odredbe članka 37. stavka 2. ovoga Zakona trajanje promidžbenih poruka u vremenu od 18 do 22 sata u svakom programu HRT-a u općim televizijskim programskim kanalima u razdoblju od godinu dana od dana stupanja na snagu ovoga Zakona ne smije biti dulje od 6 minuta u jednom satu programa, a potom se smanjuje za dvije minute tako da ne može biti dulje od 4 minute u jednom satu programa.

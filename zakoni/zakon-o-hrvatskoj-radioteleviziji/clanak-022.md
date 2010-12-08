@@ -1,0 +1,19 @@
+## Nadzorni odbor HRT-a
+# Članak 22.
+(1) Nadzorni odbor HRT-a ima pet članova. Jedan član je predstavnik radničkog vijeća HRT-a, a predsjednika i tri člana po prethodno provedenom javnom natječaju na prijedlog Odbora za informiranje, informatizaciju i medije Hrvatskog sabora imenuje i razrješava Hrvatski sabor. Najmanje jedan član bira se na prijedlog parlamentarne manjine.
+(2) Odbor za informiranje, informatizaciju i medije Hrvatskog sabora dužan je najkasnije devedeset dana prije isteka mandata članova Nadzornog odbora HRT-a objaviti javni natječaj za imenovanje članova Nadzornog odbora HRT-a koji traje petnaest dana, a Odbor je dužan u roku od trideset dana od zatvaranja javnog natječaja utvrditi prijedlog kandidata za članove Nadzornog odbora HRT-a i proslijediti ga Hrvatskom saboru. Hrvatski sabor dužan je u roku od trideset dana od primitka prijedloga Odbora imenovati članove Nadzornog odbora HRT-a. Radničko vijeće HRT-a dužno je imenovati člana Nadzornog odbora HRT-a najkasnije trideset dana prije isteka mandata članova Nadzornog odbora HRT-a.
+(3) Članovi Nadzornog odbora HRT-a biraju se po istoj proceduri po kojoj se biraju i članovi Programskog vijeća HRT-a, kako je to propisano u članku 25. stavku 4., 5. i 7., s time da u slučaju ukoliko ne dođe do usuglašavanja klubova zastupnika predsjednika Nadzornog odbora HRT-a predlažu klubovi saborske većine.
+(4) Članovi Nadzornog odbora HRT-a imenuju se na razdoblje od četiri godine i mogu biti ponovno imenovani. Predsjednik i članovi Nadzornog odbora HRT-a imaju pravo na nagradu za svoj rad koja se utvrđuje Statutom HRT-a sukladno odluci Vlade Republike Hrvatske o visini naknade članovima nadzornih odbora, upravnih vijeća i drugih tijela upravljanja ustanova kojima je osnivač Republika Hrvatska.
+(5) Za člana Nadzornog odbora HRT-a može biti imenovan hrvatski državljanin s prebivalištem u Republici Hrvatskoj, koji ima završen diplomski sveučilišni studij ili specijalistički diplomski stručni studij iz područja ekonomije, prava, elektroničkih komunikacija ili medija, odgovarajuće radno iskustvo i aktivno znanje najmanje jednog svjetskog jezika. Najmanje po jedan član Nadzornog odbora HRT-a mora imati završen diplomski sveučilišni studij ili specijalistički diplomski stručni studij iz područja ekonomije, prava ili medija, pri čemu dva člana Nadzornog odbora HRT-a moraju imati najmanje po deset godina radnog iskustva iz područja financija, a jedan član Nadzornog odbora HRT-a mora imati najmanje deset godina radnog iskustva iz područja djelatnosti pružanja medijskih usluga televizije i/ili radija.
+(6) Nadzorni odbor HRT-a može se konstituirati kada je imenovana većina članova Nadzornog odbora HRT-a.
+(7) Na članove Nadzornog odbora odgovarajuće se primjenjuju odredbe članka 25. stavka 10., 11., 12. i 13. ovoga Zakona.
+(8) Nadzorni odbor HRT-a najmanje jedanput godišnje podnosi izvješće o svojem radu Hrvatskome saboru te izvješće o provedenom nadzoru iz članka 23. stavka 1. podstavka 1. ovoga Zakona Vijeću za elektroničke medije i Programskom vijeću HRT-a.
+(9) U radu Nadzornog odbora HRT-a sudjeluju bez prava glasa predsjednik Programskog vijeća HRT-a i predsjednik Uprave HRT-a te druge osobe koje pozove predsjednik Nadzornog odbora HRT-a.
+(10) Poslove interne revizije, administrativne i druge stručne poslove za potrebe Nadzornog odbora HRT-a obavlja stručna služba ustrojena Statutom HRT-a.
+(11) Hrvatski sabor će razriješiti dužnosti člana Nadzornog odbora HRT-a prije isteka mandata u slučaju:
+– ako podnese zahtjev za razrješenje,
+– ako svojim djelovanjem postupa protivno zakonu i drugim propisima kojima se uređuje obavljanje djelatnosti HRT-a,
+– ako neopravdano ne prisustvuje sjednicama Nadzornog odbora HRT-a u razdoblju duljem od 6 mjeseci,
+– ako svojim zahtjevima nastoji utjecati na objavljivanje određenih programa,
+– ako postupa suprotno općim aktima HRT-a,
+– ako svojim djelovanjem ili ponašanjem narušava ugled HRT-a.
