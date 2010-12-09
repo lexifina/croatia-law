@@ -1,0 +1,3 @@
+# Članak 1.
+U Pravilniku o sadržaju izvješća o statusnim promjenama, promjenama u temeljnom kapitalu i ulaganjima leasing društva te načinu i rokovima izvješćivanja Hrvatske agencije za nadzor financijskih usluga (»Narodne novine« 71/08, dalje u tekstu: Pravilnik) mijenja se odredba članka 3. točke 1. Pravilnika tako da sada glasi:
+1. upisu i promjenama podataka koji se upisuju u sudski registar, dostavljanjem prijave s prilozima uz prijavu, odnosno zahtjeva sa svim prilozima u roku od tri dana od dana dostave registarskom sudu i rješenja o upisu u sudski registar u roku od osam dana od dana njegova primitka.
