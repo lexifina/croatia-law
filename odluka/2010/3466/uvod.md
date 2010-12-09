@@ -1,0 +1,1 @@
+Na temelju članka 45. stavka 2. Zakona o deviznom poslovanju (»Narodne novine«, br. 96/2003., 140/2005., 132/2006. i 153/2009.) i članka 43. stavka 2. točke 9. Zakona o Hrvatskoj narodnoj banci (»Narodne novine«, br. 75/2008.) guverner Hrvatske narodne banke donio je 24. studenoga 2010.
