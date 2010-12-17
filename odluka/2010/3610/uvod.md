@@ -1,0 +1,1 @@
+Na temelju članka 14. Zakona o Hrvatskoj poljoprivrednoj komori (»Narodne novine« br. 30/09 i 127/10) i članka 15. Statuta Hrvatske poljoprivredne komore (»Narodne novine« br. 24/10 i 31/10) Skupština Hrvatske poljoprivredne komore na 3. sjednici održanoj 10. prosinca 2010. donosi
