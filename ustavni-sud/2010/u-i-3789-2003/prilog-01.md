@@ -1,0 +1,9 @@
+U-I-5025/2008
+U-I-5376/2008
+U-I-5544/2008
+U-I-543/2010
+U-I-972/2010
+Zagreb, 8. prosinca 2010.
+USTAVNI SUD REPUBLIKE HRVATSKE
+Predsjednica
+dr. sc. Jasna Omejec, v. r.

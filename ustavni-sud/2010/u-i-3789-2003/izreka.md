@@ -1,0 +1,6 @@
+RJEŠENJE
+I. Ne prihvaćaju se prijedlozi za pokretanje postupka za ocjenu suglasnosti s Ustavom članka 2. stavka 2., članka 7. stavka 1., članka 10. stavka 1. točaka 1., 2. i 3., članka 18. stavka 1., članka 20., članka 30., članka 38. i članka 80. stavka 2. Zakona o izborima zastupnika u Hrvatski sabor (»Narodne novine« broj 116/99., 109/00., 53/03., 69/03. - pročišćeni tekst, 167/03., 44/06., 19/07. i 20/09.).
+II. Ne prihvaća se prijedlog za pokretanje postupka za ocjenu suglasnosti s Ustavom članka 2. Zakona o izmjenama i dopuni Zakona o izborima zastupnika u Hrvatski sabor (»Narodne novine« broj 19/07.).
+III. Odbacuju se prijedlozi za pokretanje postupka za ocjenu suglasnosti s Ustavom članaka 4., 9., 20., 29., 31., 32., 35., 43., 44., 56., 58., 60., 61., 68., 69. i 95. Zakona o izborima zastupnika u Hrvatski sabor (»Narodne novine« broj 116/99., 109/00., 53/03., 69/03. - pročišćeni tekst, 167/03., 44/06., 19/07. i 20/09.).
+IV. Obustavlja se postupak u povodu prijedloga za pokretanje postupka za ocjenu suglasnosti s Ustavom članka 34., 53., 54., 55. Zakona o izborima zastupnika u Hrvatski sabor (»Narodne novine« broj 116/99., 109/00., 53/03., 69/03. - pročišćeni tekst, 167/03. i 44/06.).
+V. Ovo rješenje objavit će se u »Narodnim novinama«.
