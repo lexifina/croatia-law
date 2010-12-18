@@ -1,0 +1,3 @@
+# Članak 1.
+U Zakonu o privatnoj zaštiti (»Narodne novine«, br. 68/03. i 31/10.) u članku 4. iza stavka 2. dodaje se stavak 3. koji glasi:
+»Djelatnost privatne zaštite, sukladno odredbama ovoga Zakona, osim pravnih osoba i obrtnika iz stavka 1. i 2. ovoga članka, mogu obavljati pravne osobe i obrtnici država članica Europske unije i država potpisnica Ugovora o Europskom gospodarskom prostoru koji imaju odobrenje za obavljanje djelatnosti privatne zaštite izdano od države članice Europske unije, odnosno države potpisnice Ugovora o Europskom gospodarskom prostoru, sukladno važećim propisima u Republici Hrvatskoj.«.
