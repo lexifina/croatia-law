@@ -1,0 +1,2 @@
+# Članak 12.
+U slučaju prestanka rada svih zdravstvenih radnika koji su obavljali ljekarničku djelatnost u jedinici zakupa doma zdravlja na temelju Pravilnika o uvjetima za davanje u zakup zdravstvenih ustanova primarne zdravstvene zaštite i lječilišta (»Narodne novine«, br. 6/96., 29/97., 1/98., 45/99., 121/99., 112/00., 87/02., 150/02. i 7/03.) i Pravilnika o uvjetima i postupku za davanje u zakup dijelova domova zdravlja i ljekarničkih zdravstvenih ustanova (»Narodne novine«, br. 80/07.), ljekarničku djelatnost nastavlja obavljati dom zdravlja.

@@ -1,0 +1,4 @@
+# Članak 11.
+U članku 210. iza stavka 2. dodaju se stavci 3. i 4. koji glase:
+»Zavodi za hitnu medicinu jedinica područne (regionalne) samouprave danom početka rada preuzet će radnike koji obavljaju djelatnost hitne medicinske pomoći ili druge poslove u svrhu obavljanja ove djelatnosti u domovima zdravlja na području jedinica područne (regionalne) samouprave.
+Uvjete, način korištenja i raspolaganja prostorom i opremom koja se koristi za obavljanje djelatnosti hitne medicinske pomoći te ostala prava i obveze koja proizlaze iz obavljanja djelatnosti hitne medicinske pomoći u domovima zdravlja na području jedinica područne (regionalne) samouprave, sporazumno će utvrditi zavodi za hitnu medicinu jedinica područne (regionalne) samouprave i domovi zdravlja jedinica područne (regionalne) samouprave uz suglasnost nadležnog tijela jedinice područne (regionalne) samouprave.«.
