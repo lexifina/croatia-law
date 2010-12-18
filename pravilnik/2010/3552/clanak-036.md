@@ -1,0 +1,3 @@
+# Članak 36.
+(1) Na istaknutom mjestu na objektu koji se fumigira mora biti istaknuta najmanje jedna oznaka o fumigaciji u tijeku u dimenzijama ne manjim od 594 x 420 mm (A2), na kojoj crnim slovima na žutoj podlozi piše: »POZOR! OPREZ! OTROVNI PLIN! NE OTVARAJ (VRATA, FOLIJU, PROZORE) JER PRIJETI SMRTNA OPASNOST!«.
+(2) Veličina slova u riječima »POZOR! OPREZ!« te »SMRTNA OPASNOST!« mora biti najmanje 80 mm. Na oznaci mora biti mrtvačka glava te mora biti istaknut naziv veterinarske organizacije ili druge pravne ili fizičke osobe, trgovački naziv sredstva (fumiganta), datum fumigacije i dežurni telefon. Noću oznake moraju biti uočljive i osvijetljene, a prilazni put do ulaza u objekt mora biti prepriječen.
