@@ -1,0 +1,5 @@
+## Oslobođenje od plaćanja troškova
+# Članak 39.
+(1) Ako stranka ima pravo na oslobođenje od plaćanja troškova postupka po pravilima Zakona o parničnom postupku, može zatražiti od suda na području kojega se nalazi sjedište javnog ovršitelja od kojega se traži poduzimanje službene radnje, da je oslobodi od dužnosti plaćanja troškova za obavljanje te radnje, osim ako posebnim zakonom nije drugačije propisano.
+(2) U skladu s pravilima javnoovršiteljske tarife zakonom određeni sud može osloboditi stranku od plaćanja i naknade troškova javnom ovršitelju. U tom slučaju javni ovršitelj, u skladu s pravilima javnoovršiteljske tarife, ima pravo tražiti od države plaćanje nagrade i naknade troškova. O zahtjevu za isplatu nagrade i naknade odlučuje nadležni općinski sud. Određena naknada i nagrada isplaćuju se iz sredstava suda.
+(3) Stranka može biti, nezavisno od odredaba stavka 1. i 2. ovoga članka, oslobođena od plaćanja određenih troškova pružanja javnoovršiteljskih usluga u skladu s općim aktima Komore.

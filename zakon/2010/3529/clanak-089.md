@@ -1,0 +1,7 @@
+## Ovlasti Komore
+# Članak 89.
+(1) Nadzor nad radom i ponašanjem javnih ovršitelja, vršitelja dužnosti te javnoovršiteljskih zamjenika, javnoovršiteljskih pomoćnika, javnoovršiteljskih službenika i javnoovršiteljskih vježbenika obavljaju i Upravni odbor i predsjednik Komore. Statutom Komore može se odrediti postojanje i način rada tijela za nadzor javnoovršiteljske službe.
+(2) Upravni odbor i predsjednik Komore ovlašteni su davati upute i stavljati primjedbe na rad javnoovršiteljskih zamjenika, javnoovršiteljskih pomoćnika, javnoovršiteljskih službenika i javnoovršiteljskih vježbenika. Ako je ustrojeno, tijelo za unutarnji nadzor o svome radu podnosi tromjesečno izvješće Predsjedniku Komore i Upravnom odboru te tijelima Komore daje prijedloge za postupanje u skladu s rezultatima nadzora.
+(3) Upravni odbor Komore će najmanje jednom godišnje obaviti pregled ureda javnih ovršitelja radi provjere njihova poslovanja. Pregled obuhvaća cjelokupnu djelatnost javnog ovršitelja. Radi obavljanja pregleda Upravni odbor može odrediti jednog ili više svojih članova. Upravni odbor može odrediti da nadzor iz ovoga članka obavlja tijelo za nadzor u nazočnosti predsjednika ili zamjenika Predsjednika Zbora na čijem području javni ovršitelj ima sjedište.
+(4) Ako se utvrde nepravilnosti u radu javnog ovršitelja, protiv njega će se poduzeti mjere utvrđene ovim Zakonom i statutom Komore.
+(5) Pri provedbi svojih nadzornih ovlasti Komora nije ovlaštena upuštati se u ispitivanje sadržajne pravilnosti obavljanja javnoovršiteljskih poslova.

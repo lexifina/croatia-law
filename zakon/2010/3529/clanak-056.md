@@ -1,0 +1,7 @@
+## Zaštita ovršenika
+# Članak 56.
+(1) Javni ovršitelj je dužan prigodom pretrage ovršenikova stana ili odjeće koju nosi na sebi i poduzimanja drugih ovršnih radnji postupati s dužnim obzirom prema osobi ovršenika i članovima njegova kućanstva. Za poduzimanje ovršnih radnji u ovršenikovom stanu potrebno je odobrenje općinskog suda na čijem se području provodi ovrha, ali bez navođenja datuma kada će se te radnje provesti.
+(2) Ovršnim radnjama u ovršenikovu stanu kojima nije nazočan ovršenik, njegov zakonski zastupnik, opunomoćenik ili odrasli član njegova kućanstva moraju biti nazočna dva punoljetna svjedoka.
+(3) Ovrha u prostoriji pravne osobe provodi se tako da javni ovršitelj prije obavljanja ovršne radnje zatraži od zastupnika pravne osobe da on sam ili osoba koju on odredi bude nazočna njezinu obavljanju. Ako zastupnik pravne osobe odbije postupiti u skladu sa zahtjevom javnog ovršitelja ili ako javni ovršitelj ne zatekne zastupnika pravne osobe, odnosno osobu koju je on odredio u prostoriji pravne osobe prigodom poduzimanja ovršne radnje, radnju će provesti u nazočnosti dvaju punoljetnih svjedoka.
+(4) Kad ovršnu radnju treba provesti u prostoriji koja je zaključana, a ovršenik ili njegov zastupnik nije nazočan ili neće prostoriju otvoriti, javni ovršitelj otvorit će prostoriju u nazočnosti policije i dvaju punoljetnih svjedoka.
+(5) O obavljanju ovršnih radnji prema odredbama stavka 2. do 4. ovoga članka javni ovršitelj sastavit će zapisnik koji će potpisati pozvani svjedoci i policija.

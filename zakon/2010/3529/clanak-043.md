@@ -1,0 +1,5 @@
+## Potpisivanje javnoovršiteljskih isprava
+# Članak 43.
+(1) Javni ovršitelj je dužan javnoovršiteljsku ispravu vlastoručno potpisati na njezinom kraju. Pokraj potpisa stavit će svoj službeni pečat. Na kraj isprave, ali iznad potpisa javnog ovršitelja, stavljaju se i potpisi stranaka i sudionika ako su sudjelovali u sastavljanju isprave.
+(2) Ako sudionik ne zna pisati, to će se u ispravi naznačiti. Ako sudionik ne može pisati, u ispravi će se naznačiti i razlog tome.
+(3) Ako stranka ne zna ili ne može pisati, pozvat će se, na njezin zahtjev, dva svjedoka ili još jedan javni ovršitelj, pred kojima će ona svojeručno staviti na ispravu svoj rukoznak, dok će njezino ime potpisati jedan od svjedoka ili drugi javni ovršitelj, označavajući sebe kao potpisnika imena stranke. Javni ovršitelj je dužan upozoriti stranku na pravo da potpisivanju isprave budu nazočni svjedoci, odnosno drugi javni ovršitelj i to će upozorenje unijeti u ispravu. Ako stranka ne zatraži sudjelovanje svjedoka ili drugog javnog ovršitelja, stavit će, ako to može, na ispravu svoj rukoznak, dok će njezino ime potpisati javni ovršitelj označavajući sebe kao potpisnika imena stranke.

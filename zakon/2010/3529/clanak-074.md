@@ -1,0 +1,3 @@
+## Zaštita prava
+# Članak 74.
+Protiv odluke Ministarstva o izboru javnoovršiteljskog zamjenika, protiv odluke Komore kojom se odbija molba javnoovršiteljskog pomoćnika, javnoovršiteljskog službenika i javnoovršiteljskog vježbenika za upis, protiv odluke Komore kojom uskraćuje potvrdu javnoovršiteljske vježbe te protiv odluke kojom se određuje brisanje javnoovršiteljskog zamjenika, javnoovršiteljskog pomoćnika, javnoovršiteljskog službenika odnosno javnoovršiteljskog vježbenika iz upisnika, javnoovršiteljski zamjenik, javnoovršiteljski pomoćnik, javnoovršiteljski službenik odnosno javnoovršiteljski vježbenik imaju pravo pokrenuti upravni spor, osim ako odluka o brisanju iz upisnika nije donesena na temelju odluke stegovnog tijela.
