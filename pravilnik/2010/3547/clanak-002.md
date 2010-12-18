@@ -1,0 +1,11 @@
+# Članak 2.
+Članak 9. mijenja se i glasi:
+»Članak 9.
+(1) Veliki i srednji poduzetnici (članak 3. stavci 3., 4. i 5. Zakona) Financijskoj agenciji dostavljaju godišnji financijski izvještaj, izvješće revizora za obveznike iz članka 6. Zakona o reviziji, godišnje izvješće i odluku o prijedlogu raspodjele dobiti ili pokriću gubitka (osim ako je ona sastavni dio godišnjega financijskog izvještaja ili godišnjeg izvješća), te odluku o utvrđivanju godišnjega financijskog izvještaja (ako je to propisano posebnim propisom ili osnivačkim aktom).
+(2) Mali poduzetnici (članak 3. stavak 2. Zakona) Financijskoj agenciji dostavljaju bilancu, račun dobiti i gubitka, bilješke uz financijske izvještaje, izvješće revizora za obveznike iz članka 6. Zakona o reviziji, odluku o prijedlogu raspodjele dobiti ili pokriću gubitka (osim ako je ona sastavni dio godišnjega financijskog izvještaja), odluku o utvrđivanju godišnjega financijskog izvještaja (ako je to propisano posebnim propisom ili osnivačkim aktom).
+(3) Poduzetnik obveznik primjene MSFI-a dužan je za potrebe javne objave dostaviti godišnji financijski izvještaj iz članka 3. stavka 3. točke 7. ovoga Pravilnika, uz koji je dužan dostaviti i standardnu dokumentaciju iz članka 3. stavka 2. točke 1., 2. i 3. ovoga Pravilnika.
+(4) Ako je poduzetnik iz stavka 3. ovog članka obveznik revizije u tom slučaju godišnji financijski izvještaj iz članka 3. stavka 3. točke 7. ovoga Pravilnika prilaže uz izvješće revizora i njegov je sastavni dio.
+(5) Poduzetnik obveznik primjene HSFI-a, ako je obveznik revizije, uz standardnu dokumentaciju iz članka 3. stavka 2. točke 1., 2. i 3. ovoga Pravilnika dostavlja i godišnji financijski izvještaj sukladno HSFI-u kao prilog izvješću revizora.
+(6) Poduzetnici obveznici konsolidacije Financijskoj agenciji dostavljaju dokumentaciju navedenu u stavku 1. i 3. ovoga članka osim odluke o prijedlogu raspodjele dobiti ili pokriću gubitka.
+(7) Poduzetnici iz stavka 1. i 6. ovoga članka svu dokumentaciju za javnu objavu, osim one iz članka 3. stavka 2. točke 1., 2 i 3., mogu dostaviti kao sastavni dio godišnjega izvješća.
+(8) Poduzetnici koji tijekom poslovne godine nisu imali poslovnih događaja i u poslovnim knjigama nemaju podatke o imovini i obvezama Financijskoj agenciji dostavljaju izjavu o neaktivnosti.«.
