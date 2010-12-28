@@ -1,0 +1,5 @@
+# Članak 16.
+1) Ovlaštene osobe iz članka 2. stavka 2. ovog Pravilnika izdaju uvjerenje o položenom ispitu.
+2) Ministarstvo će, sukladno Zakonu o javnoj nabavi, povjeriti tiskanje obrazaca uvjerenja iz stavka 1. ovog članka pravnoj ili fizičkoj osobi koja može jamčiti njihovu zaštitu. Ministarstvo će tiskane obrasce uvjerenja dostavljati ovlaštenim osobama iz članka 2. stavka 2. ovog Pravilnika na njihov zahtjev. Obrasci uvjerenja i njihovi opisi tiskani su u Prilogu 2. ovog Pravilnika.
+3) Ovlaštene osobe iz članka 2. stavka 2. ovog Pravilnika o izdanim uvjerenjima iz stavka 1. ovog članka, kao i o prikupljenim i utrošenim financijskim sredstvima podnose izvještaj Ministarstvu, najkasnije do 31. svibnja za proteklu lovnu godinu.
+4) Za lovačke pse koji su položili IPO i/ili radni ispit na krvnom tragu u skladu s propisima Međunarodne kinološke organizacije te propisima države iz koje dolaze ovlaštene osobe iz članka 2. stavka 2. ovog Pravilnika izdat će, na zahtjev vlasnika psa, uvjerenje o položenom IPO-u i/ili radnom ispitu na krvnom tragu u skladu s odredbama ovog Pravilnika.
