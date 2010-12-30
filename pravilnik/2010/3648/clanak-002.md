@@ -1,0 +1,7 @@
+# Članak 2.
+Poslodavac može dati odobrenje samo za obavljanje zdravstvene djelatnosti za koju je u prethodnoj godini ostvario najmanje prosječno izvršenje na razini Republike Hrvatske po zdravstvenom radniku doktoru medicine specijalisti, unutar ugovorene djelatnosti s Hrvatskim zavodom za zdravstveno osiguranje (u daljnjem tekstu: Zavod).
+Prosječno izvršenje iz stavka 1. ovoga članka računa se prema kategorijama bolnica, a utvrđuje se prema evidenciji Zavoda, i to za broj prvih pregleda u specijalističko-konzilijarnoj zdravstvenoj zaštiti, broj specifičnih dijagnostičkih postupaka u specijalističko-konzilijarnoj zdravstvenoj zaštiti sa specijalističkom dijagnostikom s obzirom na vrstu djelatnosti (endoskopski pregledi, invazivni dijagnostički postupci).
+Osim kriterija iz stavka 2. ovoga članka za medicinske (nekirurške) djelatnosti prosječno izvršenje utvrđuje se za broj hospitalizacija, a za kirurške djelatnosti za broj operacija, ukupni zbroj DTS koeficijenata za provedene operacije te prosječnu kliničku složenost (case-mix indeks) operiranih pacijenata.
+Uz uvjet iz stavka 1. ovoga članka odobrenje se može dati najviše za 50% zdravstvenih radnika po djelatnosti.
+U 2011. godini, prosječno izvršenje utvrđivat će se prema evidenciji Zavoda za pojedinu ugovorenu djelatnost, a poslodavac će utvrđivati kojim će zdravstvenim radnicima doktorima medicine specijalistima unutar ugovorene djelatnosti dati odobrenje.
+U 2012. godini, prosječno izvršenje utvrđivat će se prema evidenciji Zavoda za svakog doktora medicine specijalista pojedinačno.
