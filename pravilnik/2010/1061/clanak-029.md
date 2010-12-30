@@ -1,0 +1,22 @@
+# Članak 29.
+Za proizvodnju, čuvanje i izdavanje krvnih pripravaka, subregionalni transfuzijski centar mora imati najmanje:
+- centrifuge sa priborom za centrifugiranje doza krvi - 2,
+- automatski sustav za razdvajanje krvnih sastojaka - 4,
+- agitator za koncentrate trombocita - 1,
+- stalak za leukofiltraciju - 2,
+- vagu za tariranje - 1,
+- vagu za vaganje krvnih pripravaka - 1,
+- hladnjak za čuvanje i izdavanje pripravaka na +4°C - 2,
+- zamrzivač za čuvanje i svježe smrznute plazme na -30°C - 2,
+- zamrzivač za brzo zamrzavanje plazme na -40°C - 1,
+- karantensko skladište pripravaka na +4°C - 1,
+- karantensko skladište pripravaka na - 30°C - 1,
+- aparat za sterilno spajanje plastičnih sistema - 2,
+- zavarivače plastičnih sistema - 2,
+- kolica za prijevoz krvi i krvnih sastojaka - 2,
+- osobno računalo - 1,
+- računalni terminal za unos proizvodnje krvnih pripravaka - 1,
+- računalni terminal za finalizaciju i obilježavanje krvnih pripravaka - 1,
+- računalni terminal za prijam narudžbi za krvne pripravke - 1,
+- računalni terminal za izdavanje krvnih pripravaka - 1,
+- pisač naljepnica za obilježavanje krvnih pripravaka i laboratorijskih brojeva - 3.

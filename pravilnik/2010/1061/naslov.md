@@ -1,0 +1,1 @@
+Pravilnik o prostoru, stručnim radnicima i medicinsko--tehničkoj opremi za obavljanja djelatnosti planiranja, prikupljanja i testiranja krvi te proizvodnje, čuvanja, raspodjele, odnosno izdavanja krvnih pripravaka
