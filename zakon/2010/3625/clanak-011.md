@@ -1,0 +1,2 @@
+# Članak 11.
+Spajanje općinskih sudova provest će se sukladno Pravilniku o utvrđivanju rokova za osiguranje radnih, prostornih, tehničkih i drugih uvjeta u sjedištima sudova nastalih spajanjem (»Narodne novine«, br. 112/08. i 119/08.) i Odluci o osnivanju stalnih službi u općinskim sudovima donesene na temelju članka 8. Zakona o područjima i sjedištima sudova (»Narodne novine«, br. 85/08.) koji ostaju na snazi do utvrđenih rokova za spajanje općinskih sudova.
