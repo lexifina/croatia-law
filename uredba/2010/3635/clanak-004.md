@@ -1,0 +1,5 @@
+## II. DJELATNOST
+# Članak 4.
+Djelatnost Državne škole je stručno osposobljavanje i usavršavanje (u daljnjem tekstu: izobrazba) državnih službenika, kao i službenika u tijelima lokalne i područne (regionalne) samouprave, te u pravnim osobama s javnim ovlastima, a s ciljem trajnog podizanja razine i kvalitete njihovog znanja, vještina i sposobnosti, radi oblikovanja profesionalnog, djelotvornog i učinkovitog javnog sektora koji će pružati pravodobne i kvalitetne javne usluge, u skladu s najboljim općeprihvaćenim standardima.
+Izobrazba iz stavka 1. ovoga članka provodi se angažiranjem javnih službenika, te drugih domaćih i javnih stručnjaka koji za to imaju potrebna znanja, vještine i sposobnosti.
+U obavljanju poslova iz svoje djelatnosti Državna škola surađuje s domaćim i stranim tijelima državne uprave, javnim i privatnim, prosvjetnim, znanstvenim ili drugim organizacijama, institucijama ili tvrtkama koje se bave izobrazbom, strukovnim organizacijama, drugim obrazovnim ustanovama te međunarodnim organizacijama i tijelima.
