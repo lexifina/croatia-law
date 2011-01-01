@@ -1,0 +1,57 @@
+## Proglašavam Državni proračun Republike Hrvatske za 2011. godinu i projekcije za 2012. i 2013. godinu, koji je Hrvatski sabor donio na sjednici 23. studenoga 2010. godine.
+## Klasa: 011-01/10-01/126
+## Urbroj: 71-05-03/1-10-2
+## Zagreb, 26. studenoga 2010.
+## Predsjednik
+## Republike Hrvatske
+## prof. dr. sc. Ivo Josipović, v. r.
+## DRŽAVNI PRORAČUN REPUBLIKE HRVATSKE ZA 2011. GODINU I PROJEKCIJE ZA 2012. I 2013. GODINU
+## I. OPĆI DIO
+# Članak 1.
+Državni proračun Republike Hrvatske za 2011. godinu (dalje u tekstu: Proračun) i projekcije za 2012. i 2013. godinu obuhvaćaju:
+A. RAČUN PRIHODA I RASHODA
+Proračun za 2011.
+Projekcija proračuna za 2012.
+Projekcija proračuna za 2013.
+PRIHODI POSLOVANJA
+107.074.216.187
+113.827.286.261
+118.771.046.852
+PRIHODI OD PRODAJE NEFINANCIJSKE IMOVINE
+351.270.025
+311.470.025
+323.570.025
+RASHODI POSLOVANJA
+120.235.859.447
+122.707.113.774
+123.627.780.852
+RASHODI ZA NABAVU NEFINANCIJSKE IMOVINE
+2.075.437.624
+2.044.443.576
+1.892.989.724
+RAZLIKA - VIŠAK/MANJAK
+-14.885.810.859
+-10.612.801.064
+-6.426.153.699
+B. RAČUN FINANCIRANJA
+Proračun za 2011.
+Projekcija proračuna za 2012.
+Projekcija proračuna za 2013.
+PRIMICI OD FINANCIJSKE IMOVINE I ZADUŽIVANJA
+24.474.903.903
+20.734.962.231
+21.132.017.647
+IZDACI ZA FINANCIJSKU IMOVINU I OTPLATE ZAJMOVA
+11.741.093.044
+10.122.161.167
+14.705.863.948
+NOVČANA SREDSTVA NA POČETKU FISKALNE GODINE
+2.152.000.000
+NETO FINANCIRANJE
+14.885.810.859
+10.612.801.064
+6.426.153.699
+VIŠAK/MANJAK + NETO FINANCIRANJE
+0
+0
+0
