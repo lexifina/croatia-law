@@ -1,0 +1,2 @@
+# Članak 54.
+Ako prijašnji vlasnik, sukladno Zakonu o naknadi za imovinu oduzetu za vrijeme jugoslavenske komunističke vladavine (»Narodne novine«, br. 92/96., 39/99., 42/99., 92/99., 43/00., 131/00., 27/01., 65/01., 118/01., 80/02. i 81/02.), ostvaruje pravo na naknadu za oduzetu imovinu u dionicama ili poslovnim udjelima trgovačkog društva, Agencija će tu obvezu izvršiti samo dionicama ili poslovnim udjelima trgovačkog društva čiji je imatelj Republika Hrvatska, a koje je Republika Hrvatska stekla od Hrvatskog fonda za privatizaciju na temelju ovoga Zakona.

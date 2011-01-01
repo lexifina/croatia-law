@@ -1,0 +1,4 @@
+## I. OPĆE ODREDBE
+# Članak 1.
+(1) Ovim se Zakonom uređuju načela upravljanja državnom imovinom, dokumenti upravljanja državnom imovinom, način i uvjeti raspolaganja dionicama i poslovnim udjelima u trgovačkim društvima, kao i nekretninama, osnivanje i ustrojstvo Agencije za upravljanje državnom imovinom (u daljnjem tekstu: Agencija), ovlast upravljanja Agencije državnom imovinom, javne ovlasti Agencije, te uspostava i vođenje Registra državne imovine (u daljnjem tekstu: Registar).
+(2) Ovim se Zakonom uređuju i prijenos poslova, prava, obveza i imovine Hrvatskog fonda za privatizaciju i Središnjeg državnog ureda za upravljane državnom imovinom na Agenciju, osim imovine Hrvatskog fonda za privatizaciju u obliku dionica i poslovnih udjela u trgovačkim društvima, te u obliku nekretnina koje se prenose na Republiku Hrvatsku, te pravila postupanja s imovinom neprocijenjenom u postupku pretvorbe društvenih poduzeća za koju pravila nisu uređena posebnim zakonom.

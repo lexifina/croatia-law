@@ -1,0 +1,4 @@
+## Načelo javnosti
+# Članak 4.
+(1) Načelo javnosti upravljanja državnom imovinom osigurava se propisivanjem preglednih pravila i kriterija upravljanja državnom imovinom u propisima i drugim aktima koji se donose na temelju ovoga Zakona, te njihovom javnom objavom, određivanjem ciljeva upravljanja državnom imovinom u Strategiji upravljanja državnom imovinom (u daljnjem tekstu: Strategija) i Planu upravljanja državnom imovinom (u daljnjem tekstu: Plan upravljanja), redovitim upoznavanjem javnosti s aktivnostima Agencije, javnom objavom najvažnijih odluka o upravljanju državnom imovinom i vođenjem registra državne imovine.
+(2) Pravilnici, odluke i drugi akti Agencije značajni za javnost i podaci o postignutim ciljevima i učincima upravljanja državnom imovinom objavljuju se na internetskim stranicama Agencije.

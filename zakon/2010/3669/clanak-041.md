@@ -1,0 +1,11 @@
+## Načini raspolaganja nekretninama
+# Članak 41.
+(1) Raspolaganje nekretninama provodi se na jedan od sljedećih načina ili njihovom kombinacijom:
+- javno nadmetanje, koje se provodi kao javno raspolaganje prema unaprijed objavljenim uvjetima, pri čemu se ugovor sklapa s ponuditeljem koji ispunjava uvjete i ponudi najvišu cijenu iznad početne cijene,
+- javno prikupljanje ponuda, koje se provodi kao poziv na predaju ponuda, koji je upućeno neodređenom ili određenom krugu osoba, i to prema unaprijed određenim uvjetima.
+(2) Razvrgnuće suvlasničke zajednice i osnivanje prava služnosti u skladu s prostornim planom provodi se izravnim pregovorima, povodom prijedloga zainteresirane osobe ili Agencije.
+(3) Agencija može, iznimno od odredbe stavka 1. ovoga članka, raspolagati nekretninama bez javnog nadmetanja ili bez javnog prikupljanja ponuda, po tržišnoj vrijednosti, kad pravo vlasništva na nekretninama kojima upravlja Agencija stječu Republika Hrvatska i jedinice lokalne i područne (regionalne) samouprave, te pravne osobe u vlasništvu ili pretežitom vlasništvu Republike Hrvatske, odnosno pravne osobe u vlasništvu ili pretežitom vlasništvu jedinice lokalne i područne (regionalne) samouprave, ako je to u interesu i cilju općega gospodarskog i socijalnog napretka njezinih građana.
+(4) Agencija može, iznimno od odredbe stavka 1. ovoga članka, prodati nekretnine bez javnog nadmetanja ili bez javnog prikupljanja ponuda, po tržišnoj vrijednosti:
+- osobi kojoj je dio tog zemljišta potreban za formiranje neizgrađene građevne čestice u skladu s lokacijskom dozvolom ili detaljnim planom uređenja, ako taj dio ne prelazi 20 % površine planirane građevne čestice i
+- osobi koja je na zemljištu u svom vlasništvu, bez građevinske dozvole ili drugog odgovarajućeg akta nadležnog tijela državne uprave, izgradila građevinu u skladu s detaljnim planom uređenja ili lokacijskom dozvolom, a nedostaje joj do 20% površine planirane građevne čestice, pod uvjetom da se obveže da će u roku od jedne godine od dana sklapanja kupoprodajnog ugovora ishoditi građevinsku dozvolu.
+(5) Raspolaganje nekretninama, osim načinima propisanim stavkom 1. ovoga članka, provodi se i na načine propisane posebnim propisima.

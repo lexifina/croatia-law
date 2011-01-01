@@ -1,0 +1,6 @@
+## Uredba o raspolaganju dionicama i poslovnim udjelima
+# Članak 34.
+(1) Načine prodaje dionica i poslovnih udjela u trgovačkim društvima, način određivanja početne cijene dionica i poslovnih udjela u trgovačkim društvima prilikom prodaje, postupak i uvjete odabira ponuda, način određivanja vrijednosti dionica i poslovnih udjela u trgovačkim društvima prilikom raspolaganja, te posebne uvijete prilikom prodaje dionica i poslovnih udjela u trgovačkim društvima propisat će uredbom Vlada Republike Hrvatske.
+(2) Posebni uvjeti iz stavka 1. ovoga članka primjenjuju se na prodaju dionica ili poslovnih udjela trgovačkih društava u poteškoćama, čija prodaja zbog financijskog položaja trgovačkog društva nije moguća, propisanim postupkom.
+(3) Pod posebnim uvjetima iz stavka 1. ovoga članka smatra se prodaja dionica ili poslovnih udjela u trgovačkom društvu u poteškoćama po početnoj cijeni u iznosu od 1,00 kune, uz mogućnost otpisa potraživanja korisnika državnog proračuna prema trgovačkom društvu u dijelu ili u cijelosti, te obveza ulaganja stjecatelja u trgovačko društvo.
+(4) Iznimno od odredbi članka 33. ovoga Zakona, odluku o prodaji dionica i poslovnih udjela trgovačkih društava u poteškoćama pod posebnim uvjetima donosi Vlada Republike Hrvatske na prijedlog Upravnog vijeća Agencije bez obzira na nominalnu vrijednost dionica i udjela u trgovačkom društvu.
