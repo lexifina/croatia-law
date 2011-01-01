@@ -1,0 +1,4 @@
+# Članak 1.
+U Zakonu o obveznom zdravstvenom nadzoru radnika profesionalno izloženih azbestu (»Narodne novine«, br. 79/07.) u članku 5. stavak 1. mijenja se i glasi:
+»Praćenje zdravstvenog stanja radnika profesionalno izloženih azbestu, radnika koji imaju priznatu profesionalnu bolest izazvanu azbestom, kao i dijagnostičke postupke kod sumnje na postojanje profesionalne bolesti provode doktori specijalisti medicine rada u zdravstvenoj ustanovi ili specijalisti medicine rada u privatnoj praksi uključeni u mrežu ugovornih subjekata medicine rada.«.
+U stavku 3. riječi: »Hrvatskog zavoda za medicinu rada« zamjenjuju se riječima: »Hrvatskog zavoda za zaštitu zdravlja i sigurnost na radu«, a riječi: »Hrvatskog zavoda za zdravstveno osiguranje zaštite zdravlja na radu« zamjenjuju se riječima: »Hrvatskog zavoda za zdravstveno osiguranje.«.
