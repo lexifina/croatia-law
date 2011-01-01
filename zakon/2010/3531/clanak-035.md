@@ -1,0 +1,7 @@
+# Članak 35.
+(1) Hrvatska narodna banka i nadležna tijela druge države članice međusobno surađuju u nadzoru nad institucijama za elektronički novac koje na području Republike Hrvatske, odnosno na području te druge države članice, neposredno ili preko podružnice, izdaju elektronički novac i pružaju platne usluge ili pružaju platne usluge preko zastupnika.
+(2) Hrvatska narodna banka i nadležna tijela druge države članice međusobno surađuju u nadzoru nad institucijama za elektronički novac koje, preko treće fizičke ili pravne osobe, distribuiraju i iskupljuju elektronički novac na području te druge države članice.
+(3) Hrvatska narodna banka surađivat će s nadležnim tijelima drugih država članica i dostavljat će im informacije koje se odnose na nadzor nad institucijom za elektronički novac, a osobito one koje se odnose na počinjenu nezakonitost ili sumnju na počinjenu nezakonitost. U tom smislu Hrvatska narodna banka drugom će nadležnom tijelu:
+1) na njegov zahtjev dostaviti sve informacije koje se odnose na nadzor koji obavlja to nadležno tijelo, a
+2) na vlastitu inicijativu dostaviti sve informacije koje su bitne za obavljanje nadzora od strane toga nadležnog tijela.
+(4) Odredbe ovog članka ne utječu na obveze Hrvatske narodne banke propisane propisima kojima se uređuje sprječavanje pranja novca i financiranja terorizma, a osobito ne na obveze u vezi s nadzorom i kontrolom primjene tih propisa.

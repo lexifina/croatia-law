@@ -1,0 +1,12 @@
+## Poglavlje 4.
+## Nadzor nad institucijama za elektronički novac
+## Nadzor nad institucijama za elektronički novac
+# Članak 56.
+(1) Hrvatska narodna banka obavlja nadzor nad institucijama za elektronički novac.
+(2) Nadzor iz stavka 1. ovog članka jest provjera posluje li institucija za elektronički novac u skladu s odredbama ovog Zakona i propisa donesenih na temelju ovog Zakona te zakona kojim se uređuje platni promet i propisa donesenih na temelju tog zakona, a vezano uz izdavanje elektroničkog novca i pružanje platnih usluga, kao i obavljanje djelatnosti iz članka 11. stavka 5. točke 1. i 2. ovog Zakona.
+(3) Hrvatska narodna banka može u sklopu nadzora iz stavka 1. ovog članka provjeravati da li dio poslovanja institucije za elektronički novac iz članka 11. stavka 5. točke 4. ovog Zakona utječe ili bi mogao utjecati na njezinu financijsku stabilnost ili otežava obavljanje nadzora.
+(4) Hrvatska narodna banka rukovodit će se pri utvrđivanju učestalosti i obuhvata nadzora iz stavka 1. ovog članka za pojedine institucije za elektronički novac vrstom, opsegom i složenošću poslova koje institucija za elektronički novac obavlja te rizičnošću njezina poslovanja.
+(5) Nadzor nad poslovanjem institucija za elektronički novac mogu obavljati i druga nadzorna tijela u skladu s ovlaštenjima na temelju zakona, a u okviru svoje nadležnosti.
+(6) Ako je za nadzor nad pojedinom institucijom za elektronički novac nadležno drugo nadzorno tijelo, Hrvatska narodna banka može sudjelovati u nadzoru nad poslovanjem uz to nadzorno tijelo ili može od nadzornog tijela zatražiti da joj pribavi potrebne podatke u svrhu nadzora nad institucijom za elektronički novac.
+(7) Hrvatska narodna banka može pobliže propisati uvjete i način provedbe nadzora, izricanja mjera te obveze tijela institucije za elektronički novac tijekom i nakon nadzora.
+(8) Za obavljanje nadzora institucije za elektronički novac plaćaju Hrvatskoj narodnoj banci naknadu za nadzor, čiju osnovicu za izračun, visinu, način izračuna i način plaćanja propisuje Hrvatska narodna banka. Kriterij pri utvrđivanju visine naknada može biti vrsta platnih usluga koju institucija za elektronički novac pruža, minimalni jamstveni kapital koji institucija za elektronički novac mora održavati, volumen izdanog elektroničkog novca, volumen izvršenih platnih transakcija, broj zastupnika preko kojih institucija za elektronički novac pruža platne usluge ili broj trećih fizičkih ili pravnih osoba preko kojih obavlja iskup i distribuciju elektroničkog novca ili kombinacija dvaju ili više tih kriterija.

@@ -1,0 +1,9 @@
+## Poslovanje institucije za elektronički novac iz druge države članice na području Republike Hrvatske
+# Članak 32.
+(1) Institucija za elektronički novac iz druge države članice jest pravna osoba sa sjedištem u drugoj državi članici koja je dobila odobrenje nadležnog tijela za izdavanje elektroničkog novca.
+(2) Institucija za elektronički novac iz druge države članice može, pod uvjetima iz ovog Zakona, na području Republike Hrvatske preko podružnice izdavati elektronički novac i pružati platne usluge koje je ovlaštena pružati na području matične države članice.
+(3) Institucija za elektronički novac iz druge države članice može, pod uvjetima iz ovog Zakona, na području Republike Hrvatske izdavati elektronički novac i pružati platne usluge koje je ovlaštena pružati na području matične države članice i neposredno, pod uvjetom da ih pruža privremeno.
+(4) U smislu stavka 3. ovog članka smatra se da institucija za elektronički novac privremeno neposredno izdaje elektronički novac i pruža platne usluge na području Republike Hrvatske ako te usluge ne pruža redovito, učestalo ili kontinuirano.
+(5) Institucija za elektronički novac iz druge države članice može na području Republike Hrvatske, pod uvjetima iz ovog Zakona, preko treće fizičke ili pravne osobe obavljati distribuciju i iskup elektroničkog novca, a ne može obavljati izdavanje elektroničkog novca.
+(6) Institucija za elektronički novac iz druge države članice može, pod uvjetima iz zakona kojim je reguliran platni promet, na području Republike Hrvatske preko zastupnika pružati platne usluge koje nisu povezane s izdavanjem elektroničkog novca, a koje je ovlaštena pružati na području matične države članice.
+Izdavanje elektroničkog novca i pružanje platnih usluga od strane institucije za elektronički novac iz druge države članice na području Republike Hrvatske preko podružnice ili neposredno

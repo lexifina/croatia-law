@@ -1,0 +1,3 @@
+## Stupanje na snagu
+# Članak 105.
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2011., osim članka 4. stavka 1. točke 5., 6. i 9. i stavka 6., članka 9. stavka 7. i 8., članka 28., članka 29., članka 30., članka 32., članka 33., članka 34., članka 35., članka 47. stavka 1. točke 2., članka 48. stavka 5. točke 2., članka 56. stavka 8., članka 67., članka 68., članka 72., članka 73. stavka 2. točke 5., članka 74., članka 76. stavka 2., članka 79. stavka 2., članka 90., članka 91., članka 94. stavka 1. točke 4., 5., 6. i 7. i članka 96. stavka 1. točke 1. ovog Zakona, koje stupaju na snagu danom pristupanja Republike Hrvatske Europskoj uniji.

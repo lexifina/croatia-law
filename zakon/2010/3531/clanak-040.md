@@ -1,0 +1,5 @@
+## Primjena drugih odredbi ovog Zakona na podružnicu institucije za elektronički novac iz treće države
+# Članak 40.
+(1) Na podružnicu institucije za elektronički novac iz treće države na odgovarajući način primjenjuju se odredbe Poglavlja 3. i 4. ove Glave.
+(2) Iznimno od stavka 1. ovog članka, podružnica institucije za elektronički novac iz treće države dužna je umjesto obveze izvješćivanja iz članka 70. stavka 3. točke 3. ovog Zakona bez odgađanja obavijestiti Hrvatsku narodnu banku o svakoj izvršenoj promjeni kvalificiranog imatelja institucije za elektronički novac iz treće države za koje je uprava institucije za elektronički novac iz treće države ili osoba odgovorna za vođenje poslova podružnice znala ili morala znati.
+(3) Hrvatska narodna banka može pobliže propisati odredbe o osnivanju, poslovanju, izvješćivanju Hrvatske narodne banke i prestanku važenja odobrenja za osnivanje podružnice institucije za elektronički novac iz treće države, kao i način primjene odredbi iz stavka 1. ovog članka na podružnicu institucije za elektronički novac iz treće države.

@@ -1,0 +1,18 @@
+## Pretvaranje institucije za elektronički novac pod izuzećem u instituciju za elektronički novac
+# Članak 79.
+(1) Institucija za elektronički novac pod izuzećem koja namjerava obavljati drugu djelatnost osim djelatnosti navedene u članku 76. stavku 3. ovog Zakona ili koja namjerava povećati iznos pohranjenoga elektroničkog novca iznad iznosa iz članka 76. stavka 5. ovog Zakona ili koja poveća ili namjerava povećati iznos prosječnoga neiskorištenoga elektroničkog novca iznad iznosa propisanog člankom 77. ovog Zakona, dužna je Hrvatskoj narodnoj banci podnijeti zahtjev za izdavanje odobrenja za izdavanje elektroničkog novca kao institucija za elektronički novac.
+(2) Stavak 1. ovog članka primjenjuje se i na instituciju za elektronički novac pod izuzećem koja namjerava izdavati elektronički novac u državi članici.
+(3) Institucija za elektronički novac pod izuzećem dužna je u slučaju povećanja iznosa prosječnog neiskorištenog elektroničkog novca iznad iznosa propisanog člankom 77. ovog Zakona zahtjev iz stavka 1. ovog članka podnijeti u roku od 30 dana od takvog povećanja.
+(4) Institucija za elektronički novac pod izuzećem iz stavka 1. ovog članka dužna je u zahtjevu iz stavka 1. i 2. ovog članka navesti razlog za njegovo podnošenje i dostaviti uz zahtjev sve podatke i dokumentaciju iz članka 12. ovog Zakona.
+(5) Iznimno od stavka 4. ovog članka, institucija za elektronički novac pod izuzećem ne mora dostaviti one podatke i dokumentaciju koji su već dostavljeni Hrvatskoj narodnoj banci, a koji su relevantni u trenutku podnošenja zahtjeva.
+(6) Povodom zahtjeva iz stavka 1. i 2. ovog članka Hrvatska narodna banka ovlaštena je zatražiti i drugu dokumentaciju prema odredbama članka 12. ovog Zakona.
+(7) Hrvatska narodna banka može odbiti zahtjev iz stavka 1. ovog članka ako u postupku povodom zahtjeva utvrdi:
+1) da su nastupile okolnosti zbog kojih bi obavljanje nadzora nad poslovanjem te institucije moglo biti otežano ili onemogućeno zbog uske povezanosti te institucije s drugim pravnim ili fizičkim osobama,
+2) da su nastupile okolnosti zbog kojih bi obavljanje nadzora nad poslovanjem te institucije moglo biti otežano ili onemogućeno zbog uske povezanosti te institucije s drugim pravnim ili fizičkim osobama sa sjedištem, odnosno prebivalištem ili uobičajenim boravištem u trećoj državi čiji propisi onemogućuju provedbu nadzora ili ako postoje drugi razlozi zbog kojih bi provođenje nadzora bilo otežano ili onemogućeno,
+3) da je institucija za elektronički novac pod izuzećem dobila odobrenje na temelju neistinite ili netočne dokumentacije, odnosno neistinito prezentiranih podataka koji su bitni za njezino poslovanje,
+4) da institucija za elektronički novac pod izuzećem ne ispunjava uvjete za dobivanje odobrenja za izdavanje elektroničkog novca i/ili pružanje platnih usluga kao institucija za elektronički novac,
+5) da su nastupile okolnosti zbog kojih bi ta institucija nastavljajući izdavanje elektroničkog novca ili pružajući platne usluge ugrožavala stabilnost platnog prometa,
+6) da ta institucija na bilo koji način onemogućuje obavljanje nadzora nad svojim poslovanjem ili
+7) da ta institucija ne izvršava nadzorne mjere koje je naložila Hrvatska narodna banka.
+(8) Odobrenje za izdavanje elektroničkog novca pod izuzećem prestaje važiti sljedećeg dana od dana primitka odobrenja za izdavanje elektroničkog novca kao institucija za elektronički novac.
+(9) Ako u slučaju iz stavka 3. ovog članka institucija za elektronički novac pod izuzećem ne podnese zahtjev u propisanom roku, Hrvatska narodna banka oduzet će joj odobrenje za izdavanje elektroničkog novca kao institucija za elektronički novac pod izuzećem.
