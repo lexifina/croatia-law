@@ -1,0 +1,2 @@
+# Članak 1.
+Ovim Pravilnikom uređuju se uvjeti, rokovi i način postupanja ovršenika, Financijske agencije (u daljnjem tekstu: Agencija), banke i drugih subjekata iz članka 122. Ovršnog zakona (Narodne novine, broj 139/10, u daljnjem tekstu: Zakon), uključujući sadržaj ovršenikove obavijesti iz članka 122. stavka 1. Zakona te način otvaranja, vođenja i zatvaranja posebnog računa ovršenika iz članka 122. stavka 3. Zakona.
