@@ -1,0 +1,3 @@
+# Članak 5.
+Na zahtjev obveznika, naknada za uređenje voda neće se obračunati na nekretninu koju obveznik ne može koristiti zbog miniranosti, te na nekretninu za koju je doneseno konačno rješenje o zabrani korištenja ili konačno rješenje o rušenju, za razdoblje dok se ta nekretnina ne može koristiti.
+Hrvatske vode su ovlaštene izuzeti od plaćanja naknade za uređenje voda nekretnine iz tarifnih razreda 1. do 4. u slučaju elementarne nepogode (požar, poplava i dr.), odnosno dok traje sanacija stanja na njima izazvanoga elementarnom nepogodom. Izuzeće se ostvaruje na zahtjev obveznika ili po službenoj dužnosti.

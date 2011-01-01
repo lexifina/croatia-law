@@ -1,0 +1,2 @@
+# Članak 9.
+Prijenos podataka, vođenje očevidnika naknade za uređenje voda, dostavljanje izvješća o obračunatoj i naplaćenoj naknadi, snošenje materijalnih troškova nastalih pri obračunu i naplati, kao i druga pitanja u vezi s obavljanjem poslova obračuna i naplate naknade za uređenje voda, kada ih obavlja jedinica lokalne samouprave uz komunalnu naknadu uređuju se ugovorom između Hrvatskih voda i te jedinice lokalne samouprave, odnosno pravne osobe kojoj je jedinica lokalne samouprave povjerila obračun komunalne naknade.

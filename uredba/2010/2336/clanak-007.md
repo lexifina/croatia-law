@@ -1,0 +1,4 @@
+# Članak 7.
+Jedinice lokalne samouprave koje obračunavaju komunalnu naknadu, a čiji broj stanovnika prema važećem Popisu stanovnika ne prelazi 2000 nisu dužne obračunavati i naplaćivati naknadu za uređenje voda uz komunalnu naknadu na način uređen odredbom članka 17. Zakona o financiranju vodnoga gospodarstva. Za obveznike na području tih jedinica lokalne samouprave obračun i naplatu naknade za uređenje voda obavljaju Hrvatske vode.
+Iznimno od stavka 1. ovoga članka, jedinice lokalne samouprave koje obračunavaju komunalnu naknadu, a čiji broj stanovnika prema važećem Popisu stanovnika ne prelazi 2000 mogu zatražiti preuzimanje poslova obračuna i naplate naknade za uređenje voda od Hrvatskih voda, ako se ocijeni da su sposobne uredno izvršavati te poslove.
+O preuzimanju poslova iz stavka 2. ovoga članka Hrvatske vode donose odluku koja se obvezatno dostavlja jedinici lokalne samouprave.
