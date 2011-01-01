@@ -1,0 +1,8 @@
+# Članak 22.
+Članak 22. mijenja se i glasi:
+»(1) Zahtjev za isplatu novčanog poticaja za proizvodnju biogoriva podnosi se Operatoru tržišta u skladu s pravilnikom o uvjetima i postupku za ostvarivanje poticaja za proizvodnju biogoriva za prijevoz. Kontrolu ispravnosti zahtjeva provodi Operator tržišta.
+(2) Operator tržišta odobrava zahtjev za isplatu novčanog poticaja odlukom koja nije upravni akt. Protiv odluke kojom se odbija zahtjev za isplatu novčanog poticaja podnositelj zahtjeva može podnijeti žalbu Ministarstvu u roku od 15 dana od zaprimanja odluke. Protiv odluke Ministarstva žalba nije dopuštena, ali stranka može pokrenuti upravni spor.
+(3) Proizvođač biogoriva koji je tijekom godine započeo proizvodnju biogoriva ostvaruje pravo na poticaj tek kada stavi i isporuči na tržište Republike Hrvatske minimalnu poticanu količinu biogoriva utvrđenu za prethodnu godinu.
+(4) Povlašteni proizvođač dužan je vratiti novčana sredstva poticaja na zahtjev Operatora tržišta u slučaju administrativne pogreške nastale prilikom kontrole zahtjeva za isplatu ili isplate i/ili izvršnosti rješenja nadležnog inspektora o vraćanju novčanog poticaja u slučaju izvoza biogoriva za čiju proizvodnju je povlašteni proizvođač primio poticaj ili kad je ostvario pravo na poticaj protivno zakonu ili provedbenim propisima. Sredstva poticaja se vraćaju na račun Operatora tržišta.
+(5) Povlašteni proizvođač je dužan čuvati isprave na temelju kojih je ostvario pravo na poticaj za proizvodnju biogoriva za prijevoz četiri godine od dana isplate novčanog poticaja.
+(6) Ministarstvo ustrojava i vodi registar povlaštenih proizvođača radi upravljanja sustavom poticaja.«

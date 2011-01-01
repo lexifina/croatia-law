@@ -1,0 +1,3 @@
+# Članak 2.
+Članak 3. mijenja se i glasi:
+»Na odnose koji nisu uređeni ovim Zakonom supsidijarno se primjenjuju posebni propisi koji uređuju: energetiku, zaštitu okoliša, zaštitu zraka, zaštitu prirode, zaštitu od opasnih kemikalija, gospodarenje otpadom, Fond za zaštitu okoliša i energetsku učinkovitost, tehničke zahtjeve za proizvode i ocjenjivanje sukladnosti, prijevoz u cestovnom prometu i obalnom pomorskom prijevozu, poljoprivredu, šumarstvo, državnu potporu, državnu potporu u poljoprivredi i ruralnom razvoju, državni inspektorat, državnu upravu, lokalnu i područnu (regionalnu) samoupravu, proračun, poreze i trošarine, opći upravni postupak i drugi propisi u vezi s proizvodnjom i korištenjem goriva za pogon motornih vozila i brodova.«
