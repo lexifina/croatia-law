@@ -1,0 +1,3 @@
+# Članak 1.
+U članku 15. Odluke o porezima Grada Crikvenice (»Narodne novine« broj 2/03. i 57/07.), dodaje se stavak 2. koji glasi:
+»U postupku dokazivanja statusa kuće za odmor u smislu članka 12. ove Odluke, vlasnik kuće za odmor dužan je pored osobne iskaznice predočiti naročito sljedeće dokaze: putovnicu, mjesto i visinu utroška električne energije, vode, telefona, pretplate na TV i radio prijemnike, mjesto podnošenja porezne prijave, ugovor o najmu, rješenje o kategorizaciji objekta za iznajmljivanje, porezno rješenje o utvrđivanju poreza od iznajmljivanja i najma, potvrdu o zasnovanom radnom odnosu, izjavu o izabranom liječniku kao i druge dokaze podobne za ocjenu i utvrđivanje vremena korištenja kuće ili stana u smislu članka 12. i 13. ove Odluke.«
