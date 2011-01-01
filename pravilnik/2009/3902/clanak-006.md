@@ -1,0 +1,5 @@
+## Ograničenja i zabrane
+# Članak 6.
+1) Hrana za životinje ne smije sadržavati niti se sastojati od tvari čije je stavljanje na tržište ili korištenje u hranidbi životinja zabranjeno ili ograničeno. Popis navedenih tvari utvrđen je u Prilogu III. ovoga Pravilnika.
+2) Europska komisija mijenja i dopunjuje popis tvari čije je stavljanje na tržište ili korištenje u hranidbi životinja zabranjeno ili ograničeno, uzimajući u obzir znanstvene dokaze, tehnološki napredak, te obavješćivanje putem Sustava brzog uzbunjivanja za hranu i hranu za životinje (eng. Rapid Alert System for Food and Feed - RASFF) ili rezultate službenih kontrola u skladu s odredbama Pravilnika o službenim kontrolama koje se provode radi verifikacije postupanja u skladu s odredbama propisa o hrani i hrani za životinje, te propisa o zdravlju i zaštiti životinja (»Narodne novine«, broj 99/07)[17].
+3) Do dana pristupanja Republike Hrvatske u članstvo Europske unije nadležno tijelo mijenja i dopunjuje popis tvari iz ovoga članka.
