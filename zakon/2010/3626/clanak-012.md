@@ -1,0 +1,2 @@
+# Članak 12.
+Spajanje općinskih državnih odvjetništava nastavit će se sukladno Pravilniku o utvrđivanju rokova za osiguranje radnih, prostornih, tehničkih i drugih uvjeta u sjedištima državnih odvjetništava nastalih spajanjem (»Narodne novine«, br. 4/09.) i Odluci o osnivanju stalnih službi u općinskim državnim odvjetništvima donesenoj na temelju članka 8. Zakona o područjima i sjedištima državnih odvjetništava (»Narodne novine«, br. 146/08.).
