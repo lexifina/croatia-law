@@ -1,0 +1,2 @@
+# Članak 11.
+Ukoliko način na koji se smije obavljati športski ili rekreacijski ribolov i/ili rabiti ribolovni alati i oprema kod obavljanja športskog i rekreacijskog ribolova na moru nije propisan ovim Pravilnikom, primjenjuju se odredbe Zakona o morskom ribarstvu i propisa donesenih na temelju njega koji se odnose na način uporabe i namjenu ribolovnih alata i opreme koja se smije rabiti kod obavljanja gospodarskog ribolova na moru.

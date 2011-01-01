@@ -1,0 +1,1 @@
+Na temelju članka 23. stavka 1., članka 44. stavka 2. i 4., članka 48. stavka 4., članka 49. stavka 7. i članka 51. stavka 4. Zakona o morskom ribarstvu (»Narodne novine«, br. 56/10 i 127/10), ministar poljoprivrede, ribarstva i ruralnog razvoja donosi
