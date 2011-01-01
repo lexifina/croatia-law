@@ -1,0 +1,4 @@
+# Članak 36.
+(1) Otprema i prodaja goveđeg mesa iz skladišta može započeti po isteku razdoblja skladištenja određenog ugovorom.
+(2) Ugovor iz članka 29. ove Uredbe može se sporazumno i ranije raskinuti ako postoje opravdani razlozi. U tom slučaju proporcionalno se umanjuje i ugovorena potpora za skladištenje goveđeg mesa.
+(3) Korisnik je dužan unaprijed obavijestiti Agenciju o namjeri otpreme goveđeg mesa iz skladišta. Ako korisnik ne obavijesti Agenciju, ali u roku od 30 dana od dana otpreme iz skladišta dostavi Agenciji dostatan dokaz o planiranom datumu otpreme iz skladišta i količini goveđeg mesa, potpora će se umanjiti za 15% te isplatiti samo za stvarno razdoblje skladištenja. Ako korisnik ne obavijesti Agenciju i u roku od 30 dana od dana otpreme goveđeg mesa iz skladišta ne dostavi Agenciji dokaz o planiranom datumu otpreme iz skladišta i količini goveđeg mesa, ugovorena potpora se neće isplatiti te se ukupan iznos jamstva zadržava.

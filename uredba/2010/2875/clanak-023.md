@@ -1,0 +1,3 @@
+# Članak 23.
+(1) Ozbiljni poremećaj na tržištu iz članka 22. ove Uredbe nastaje kada prosječna tržišna cijena mesa trupova, polovica ili četvrti standardne kakvoće iznosi manje od 103% referentne cijene i postoji vjerojatnost da će takva i ostati. U tom slučaju, Vlada može donijeti odluku o dodjeli potpore privatnom skladištenju putem javnog natječaja za svježe ili rashlađeno goveđe meso u obliku trupova, polovica, četvrti ili kompenziranih četvrti standardne kakvoće.
+(2) Goveđe meso iz stavka 1. ovoga članka mora potjecati od životinja koje su starije od 6 mjeseci i zaklane kao zdrave do 10 dana prije skladištenja.

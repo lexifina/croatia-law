@@ -1,0 +1,2 @@
+# Članak 26.
+Ponude na natječaj za dodjelu potpore skladištenju goveđeg mesa (u daljnjem tekstu: ponuda na natječaj) iz članka 23. ove Uredbe mogu podnijeti pravne i fizičke osobe (u daljnjem tekstu: korisnik) koje imaju objekte prikladne za skladištenje goveđeg mesa, upisane u Upisnik odobrenih objekata u poslovanju s hranom životinjskog podrijetla pri Ministarstvu, za djelatnost klanja goveda i/ili rasijecanja goveđeg mesa, kao i uskladištenja hrane životinjskog podrijetla u uvjetima kontrolirane temperature.
