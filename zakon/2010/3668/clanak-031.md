@@ -1,0 +1,3 @@
+# Članak 31.
+(1) Postupci u predmetima osiguranja oduzimanja i donošenja odluka o oduzimanju imovinske koristi ostvarene kaznenim djelom u kojima je do dana stupanja ovog Zakona na snagu donesena prvostupanjska odluka, nastavit će se prema odredbama propisa koji su bili na snazi u vrijeme pokretanja tih postupaka.
+(2) Ako na dan stupanja ovog Zakona na snagu nije donesena odluka o osiguranju oduzimanja ili oduzimanju imovinske koristi ostvarene kaznenim djelom ili ako je prvostupanjska odluka iz stavka 1. ovog članka ukinuta i predmet upućen prvostupanjskom sudu na ponovno suđenje i odlučivanje primijenit će se odredbe ovog Zakona.

@@ -1,0 +1,3 @@
+# Članak 34.
+(1) Ovaj Zakon se primjenjuje u postupku za kaznena djela iz članka 21. Zakona o Uredu za suzbijanje korupcije i organiziranog kriminaliteta (»Narodne novine«, br. 76/09. i 116/10.), ako drukčije nije propisano tim zakonom.
+(2) Na dan stupanja na snagu ovog Zakona, u Zakonu o Uredu za suzbijanje korupcije i organiziranog kriminaliteta (»Narodne novine«, br. 76/09. i 116/10.) prestaju važiti odredbe članka 50. stavka 3., članka 51. točke 3. i 5. - 7., članka 52. stavka 1., u stavku 3. druga rečenica, te stavak 4., članka 53. stavka 3. i 4., članka 54. stavka 2., članka 55. stavka 1. točke 4. i stavka 2. - 5., članka 56. stavka 1. točke 5. i stavka 5., članka 57. stavka 6. i 7., članka 58. i članka 60. stavka 1.
