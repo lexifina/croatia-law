@@ -1,0 +1,9 @@
+# Članak 9.
+Do roka određenog člankom 95. stavkom 1. vezano za odredbe iz članka 95. stavka 2. Zakona o financiranju vodnoga gospodarstva, visina naknade za korištenje voda isporučenih korisnicima putem komunalnih vodnih građevina za javnu vodoopskrbu, iznosi 0,8 kuna za prostorni metar (1 m3) isporučene vode.
+Nakon proteka roka iz stavka 1. ovoga članka naknada za korištenje voda isporučenih korisnicima putem komunalnih vodnih građevina za javnu vodoopskrbu, iznosi kako je određeno člankom 2. ove Uredbe.
+Iznimno od stavka 1. ovoga članka, od 1. siječnja 2013. do roka određenog člankom 95. stavkom 1. Zakona o financiranju vodnoga gospodarstva, naknada za korištenje voda za vodu koju isporučuje isporučitelj vodne usluge javne vodoopskrbe obračunava se prema članku 95. stavku 2. Zakona o financiranju vodnoga gospodarstva, a visina naknade za korištenje voda iznosi:
+- 0,80 kuna za prostorni metar (1 m3) isporučene vode, ako je omjer stvarnih i tehnički prihvatljivih gubitaka (u daljnjem tekstu: koeficijent gubitka) u sustavu javne vodoopskrbe na tom području veći od 8;
+- 0,76 kuna za prostorni metar (1 m3) isporučene vode, ako je koeficijent gubitka u sustavu javne vodoopskrbe na tom području od 4 do 8;
+- 0,72 kuna za prostorni metar (1 m3) isporučene vode, ako je koeficijent gubitka u sustavu javne vodoopskrbe na tom području od 2 do 4;
+- 0,64 kuna za prostorni metar (1 m3) isporučene vode, ako je koeficijent gubitka u sustavu javne vodoopskrbe na tom području ispod 2,
+pod uvjetom da odnosni isporučitelj vodnih usluga javne vodoopskrbe ima ugrađenu opremu za nadzor, prikupljanje, kontrolu i registraciju obračunskih podataka koja je u funkcionalnom stanju, i to propisanu propisom iz članka 80. stavka 2. Zakona o vodama, te da se koeficijent gubitka iz stavka 3. ovoga članka utvrđuje sukladno metodologiji propisanoj propisom iz članka 203. stavka 2. Zakona o vodama.
