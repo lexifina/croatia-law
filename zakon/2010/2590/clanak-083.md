@@ -1,0 +1,3 @@
+# Članak 83.
+(1) Stupanjem na snagu ovoga Zakona prestaje važiti Zakon o državnoj potpori u poljoprivredi i ruralnom razvoju (»Narodne novine«, br. 83/09., 153/09. i 60/10.), osim odredbi koje se odnose na ribarstvo iz članka 1., članka 2. stavak 4., 5. i 6., članka 3. stavak 4., članka 17. stavka 3., 4., 5. i 6., članka 18.a, nove glave 2.a iza članka 52., članka 52.a, 52.b, 52.c, 52.d, te Dodatka 3.3. i Dodatka 3.4., koje ostaju na snazi do pristupanja Republike Hrvatske u punopravno članstvo Europske unije.
+(2) Danom stupanja na snagu ovoga Zakona prestaje važiti Pravilnik o provedbi mjere potpore dohotku poljoprivrednih gospodarstava (»Narodne novine«, br. 34/10.) i Pravilnik o izravnim plaćanjima u poljoprivredi (»Narodne novine«, br. 33/10. i 63/10.).
