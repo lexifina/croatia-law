@@ -1,0 +1,2 @@
+# Članak 18.
+U cijelom tekstu Zakona o deviznom poslovanju (»Narodne novine«, br. 96/03., 140/05., 132/06. i 153/09.) riječi: »Devizni inspektorat« zamjenjuju se riječima: »Financijski inspektorat«, riječi: »Komisija za vrijednosne papire Republike Hrvatske« riječima: »Hrvatska agencija za nadzor financijskih usluga«, riječi: »Središnja depozitarna agencija« riječima: »Središnje klirinško depozitarno društvo« i riječi: »Zakon o tržištu vrijednosnih papira« riječima: »Zakon o tržištu kapitala«, u odgovarajućem padežu.
