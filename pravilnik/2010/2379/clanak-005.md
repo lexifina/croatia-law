@@ -1,0 +1,6 @@
+## III. USTANOVLJENJE I VOĐENJE OČEVIDNIKA, NAČIN OSTVARENJA PRAVA NA POVRAT PREPLAĆENIH SREDSTAVA
+# Članak 5.
+Očevidnik naknade za uređenje voda (u daljnjem tekstu: Očevidnik) ustanovljava se na temelju podataka iz evidencija obveznika i osnovica za obračun komunalne naknade, katastra, zemljišnih knjiga, evidencija isporučitelja električne energije, evidencija Ministarstva financija - Porezne uprave, Ministarstva unutarnjih poslova, organizacija koje obavljaju platni promet, te drugih upisnika koje vode tijela državne uprave, tijela jedinica područne (regionalne) i lokalne samouprave.
+Jedinice lokalne samouprave koje ne obavljaju poslove obračuna i naplate naknade za uređenje voda uz komunalnu naknadu, do 15. ožujka tekuće godine dostavljaju Hrvatskim vodama u digitalnom obliku sve promjene nastale u prethodnoj godini za obračun komunalne naknade.
+Jedinice lokalne samouprave na traženje Hrvatskih voda dostavljaju promjene nastale u tekućoj godini i prije roka iz stavka 2. ovoga članka.
+Tijela odnosno pravne osobe iz stavka 1. ovog članka dostavljaju na traženje Hrvatskih voda u digitalnom obliku podatke koje vode u svojim očevidnicima a bitne su za ustanovljenje podataka o obvezniku ili osnovici naknade za uređenje voda.
