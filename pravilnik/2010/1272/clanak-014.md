@@ -1,0 +1,6 @@
+# Članak 14.
+(1) Za vrijednosti nabave navedene u članku 6. stavku 3. ovoga Pravilnika, Povjerenstvo priprema tekst poziva na nadmetanje (u daljnjem tekstu: PNN, Prilog III ovoga Pravilnika) koji će biti objavljen.
+(2) PNN minimalno sadrži: Naziv DMKU, kratak opis predmeta nabave, rok za dostavu ponude (datum i vrijeme), uvjete i zahtjeve koje ponuditelji trebaju ispuniti, način dostavljanja ponuda, adresu na kojoj se može preuzeti dodatna dokumentacija ako je potrebno, adresu na koju se ponude dostavljaju, ime i prezime kontakt osobe, broj telefona i elektroničku adresu.
+(3) Povjerenstvo je dužno objaviti PNN u dnevnom ili specijaliziranom tisku ili nacionalnom oglasniku zemlje primateljice, odnosno na drugi odgovarajući način, a objavljeni oglas u originalu ili preslici sačuvati u spisu kao dokaz objave. Dodatno, preporuča se objaviti oglas na web-stranicama DMKU.
+(4) Ako nakon proteka roka za dostavu ponuda ne pristigne niti jedna ponuda, odnosno niti jedna prihvatljiva ponuda, Povjerenstvo je dužno ponoviti objavu PNN iz stavka 3. ovoga članka.
+(5) Ako nakon ponovljene objave PNN iz stavka 4. ovoga članka ne pristigne niti jedna ponuda, odnosno niti jedna prihvatljiva ponuda, DMKU će potreban predmet nabave osigurati slanjem PDP ponuditelju koji je u mogućnosti isporučiti traženi predmet nabave.

@@ -1,0 +1,8 @@
+# Članak 16.
+(1) Po isteku roka određenog za dostavu ponuda, Povjerenstvo otvara pristigle ponude, provjerava njihov sadržaj, uspoređuje specifikacije ponuđenog predmeta nabave, utvrđuje sve bitne uvjete ponude (rokove, cijene i sl.).
+(2) O postupku otvaranja i procjene ponuda sastavlja se Zapisnik o otvaranju i ocjeni ponuda (u daljnjem tekstu: Zapisnik, Prilog IV ovoga Pravilnika).
+(3) Zapisnik minimalno mora sadržavati: Podatke o ponuditeljima (naziv, adresa, kontakt), konstataciju da ponuda odgovara opisu predmeta nabave ili navode svih elemenata u kojima ponuda odstupa od traženog, cijenu svake ponude, rokove i ostale bitne uvjete navedene u ponudi te odabranog ponuditelja kao i razloge odabira odnosno poništenja.
+(4) Kao najpovoljnija ponuda može se izabrati samo ponuda ponuditelja koji je ispunio sve uvjete iz PDP-a odnosno PNN-a i dodatne dokumentacije ako je bila potrebna, čija je cijena najniža ali u granicama planirane vrijednosti nabave određene u IOP-u.
+(5) U slučaju da je najpovoljnija ponuda cijenom viša od osiguranih proračunskih sredstava za konkretan predmet nabave, Povjerenstvo je dužno poništiti postupak.
+(6) U slučaju da otvaranju i ocjeni ponude ne nazoče svi članovi Povjerenstva odnosno u slučaju da svi članovi Povjerenstva nemaju isto mišljenje, isto se obvezno unosi u Zapisnik, a odabranom se smatra ponuda koju podržava natpolovična većina ukupnog broja članova povjerenstva.
+(7) Zapisnik potpisuju svi članovi Povjerenstva, a ovjerava ga svojim potpisom Odgovorna osoba. Zapisnik se sastavlja u dva primjerka, oba se čuvaju u spisu, a kopija se šalje u nadležnu upravu MVPEI-a.
