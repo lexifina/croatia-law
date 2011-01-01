@@ -1,0 +1,3 @@
+# Članak 27.
+Osigurane osobe koje su započele ostvarivati prava na zdravstvenu zaštitu i druga prava koja proizlaze iz Zakona o zdravstvenom osiguranju zaštite zdravlja na radu (»Narodne novine«, br. 85/06. i 60/08.) prije stupanja na snagu ovoga Zakona, od dana njegovog stupanja na snagu ostvaruju ta prava prema njegovim odredbama.
+Osobe iz stavka 1. ovoga članka koje prema odredbama ovoga Zakona ne ispunjavaju propisane uvjete za korištenje prava priznatog prema Zakonu o zdravstvenom osiguranju zaštite zdravlja na radu koji je važio do dana stupanja na snagu ovoga Zakona, nastavljaju započeto korištenje tim pravom prema odredbama ovoga Zakona kao da ispunjavaju uvjete propisane ovim Zakonom, odnosno na temelju ovoga Zakona.
