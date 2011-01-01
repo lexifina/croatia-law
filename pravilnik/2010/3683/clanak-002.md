@@ -1,0 +1,4 @@
+# Članak 2.
+(1) U okviru svojih razvojnih programa jedinice lokalne i područne (regionalne) samouprave mogu dodjeljivati potpore u sklopu mjera strukturne politike i potpore u posebnom statusu, sukladno odredbama Zakona o strukturnoj potpori i uređenju tržišta u ribarstvu (»Narodne novine«, br. 153/09 i 127/10) (u daljnjem tekstu: Zakon) i ovoga Pravilnika.
+(2) Jedinice lokalne i područne (regionalne) samouprave dužne su prije raspisivanja Natječaja za dodjelu potpore ribarstvu podnijeti Ministarstvu poljoprivrede, ribarstva i ruralnog razvoja (u daljnjem tekstu: Ministarstvo) Zahtjev za odobrenje mjera potpore ribarstvu (u daljnjem tekstu: Zahtjev).
+(3) Ministarstvo će na temelju podnesenog Zahtjeva jedinicama lokalne i područne (regionalne) samouprave izdati rješenje o odobrenju mjera ili rješenje o odbijanju Zahtjeva.
