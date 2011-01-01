@@ -1,0 +1,5 @@
+## Prekršaji pri neposrednom pružanju platnih usluga u drugoj državi članici
+# Članak 147.
+(1) Pružatelj platnih usluga iz članka 5. stavka 1. točaka 1., 2. i 3. ovog Zakona kaznit će se za prekršaj iz članka 145. stavka 1. ovog Zakona počinjen pri neposrednom pružanju platnih usluga u drugoj državi članici ako je djelo kažnjivo i po pravu države članice u kojoj je djelo učinjeno.
+(2) Ako je ispunjena pretpostavka iz stavka 1. ovog članka, za prekršaj iz članka 145. stavka 1. ovog Zakona kaznit će se i odgovorna osoba iz uprave pružatelja platnih usluga odnosno, ako pružatelj platnih usluga iz članka 5. stavka 1. točke 2. i 3. ovog Zakona osim platnih usluga obavlja i drugu djelatnost, direktor odgovoran za platne usluge, prema članku 145. stavku 3. ovog Zakona.
+(3) Iznimno od članka 145., neće se kazniti pružatelj platnih usluga iz članka 5. stavka 1. točaka 6., 7. i 8. ovog Zakona koji počini prekršaj iz članka 145. stavka 1. ovog Zakona pri neposrednom pružanju platnih usluga u Republici Hrvatskoj, već će Hrvatska narodna banka o učinjenom djelu obavijestiti nadležno tijelo matične države članice radi pokretanja odgovarajućeg postupka.

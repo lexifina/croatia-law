@@ -1,0 +1,6 @@
+## Dokaz o autentičnosti i izvršenju platnih transakcija
+# Članak 34.
+(1) Ako korisnik platnih usluga osporava da je autorizirao izvršenu platnu transakciju ili tvrdi da platna transakcija nije uredno izvršena, njegov pružatelj platnih usluga dužan je dokazati da je autentifikacija platne transakcije bila provedena, da je platna transakcija bila pravilno zabilježena i proknjižena te da na izvršenje platne transakcije nije utjecao tehnički kvar ili neki drugi nedostatak.
+(2) Autentifikacija u smislu stavka 1. ovog članka jest postupak koji pružatelju platnih usluga omogućuje provjeru korištenja određenoga platnog instrumenta uključujući provjeru njegovih personaliziranih sigurnosnih obilježja.
+(3) Ako korisnik platnih usluga osporava da je autorizirao izvršenu platnu transakciju, sama činjenica da je pružatelj platnih usluga zabilježio korištenje platnog instrumenta nije nužno dovoljna kako bi se dokazalo da je platitelj autorizirao tu platnu transakciju ili da je postupio prijevarno ili da namjerno ili zbog krajnje nepažnje nije ispunio jednu ili više svojih obveza iz članka 31. ovog Zakona.
+(4) Pružatelj platnih usluga i korisnik platnih usluga koji nije potrošač mogu ugovorom urediti teret dokaza drugačije nego što je uređeno odredbama stavka 1. i 3. ovog članka.

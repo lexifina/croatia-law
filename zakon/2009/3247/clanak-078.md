@@ -1,0 +1,13 @@
+## Pružanje platnih usluga na području druge države članice preko podružnice ili neposredno
+# Članak 78.
+(1) Institucija za platni promet koja namjerava na području druge države članice pružati platne usluge preko podružnice ili neposredno, dužna je o tome prethodno obavijestiti Hrvatsku narodnu banku i navesti državu u kojoj namjerava pružati platne usluge. Ova obavijest smatra se zahtjevom za upis podružnice u registar.
+(2) Obavijesti iz stavka 1. ovog članka institucija za platni promet dužna je priložiti:
+1) popis platnih usluga koje namjerava pružati u državi članici domaćinu,
+2) ako se platne usluge namjeravaju pružati preko podružnice, organizacijsku strukturu podružnice te
+3) ako se platne usluge namjeravaju pružati preko podružnice, i popis imena, prezimena i adresa osoba koje će biti odgovorne za vođenje poslova te podružnice i adresu podružnice u državi članici domaćinu.
+(3) Hrvatska narodna banka proslijedit će obavijesti i dokumentaciju iz stavka 2. ovog članka u roku od mjesec dana od njihove dostave nadležnom tijelu države članice domaćina, te o tome obavijestiti instituciju za platni promet. Ako institucija za platni promet namjerava na području druge države članice pružati platne usluge preko podružnice, Hrvatska narodna banka upisat će podružnicu u registar.
+(4) Iznimno od stavka 3. ovog članka, Hrvatska narodna banka neće proslijediti obavijest o namjeri pružanja platne usluge u drugoj državi članici preko podružnice i odbit će upis podružnice u registar te o tome obavijestiti instituciju za platni promet ako ocijeni da postoji osnovana sumnja da se radi o činu ili pokušaju pranja novca ili financiranja terorizma ili da bi rad podružnice institucije za platni promet povećao ili bi mogao povećati rizik od pranja novca ili financiranja terorizma.
+(5) Institucija za platni promet može započeti pružati platne usluge:
+(1) preko podružnice od dana kada nadležno tijelo države članice domaćina zaprimi obavijest i dokumentaciju iz stavka 2. ovog članka i kada Hrvatska narodna banka upiše podružnicu u registar,
+(2) neposredno od dana kada nadležno tijelo države članice domaćina zaprimi obavijest i dokumentaciju iz stavka 2. ovog članka.
+(6) Ako institucija za platni promet pruža platne usluge u drugoj državi članici preko podružnice, Hrvatska narodna banka može donijeti odluku o brisanju podružnice institucije za platni promet iz registra ako ju nadležno tijelo države članice domaćina obavijesti o osnovanoj sumnji da se radi o činu ili pokušaju pranja novca ili financiranja terorizma ili da rad podružnice institucije za platni promet povećava ili može povećati rizik od pranja novca ili financiranja terorizma.

@@ -1,0 +1,15 @@
+## Zaštita novčanih sredstava korisnika platnih usluga
+# Članak 87.
+(1) Institucija za platni promet dužna je zaštititi novčana sredstva primljena od korisnika platnih usluga ili preko drugog pružatelja platnih usluga za izvršenje platnih transakcija, i to na način propisan stavcima 2., 3. i 4. ovog članka ili na način propisan stavkom 5. ovog članka.
+(2) Institucija za platni promet dužna je novčana sredstva svih korisnika platnih usluga iz stavka 1. ovog članka u čije ime se ta sredstva drže, voditi odvojeno od novčanih sredstava drugih fizičkih ili pravnih osoba.
+(3) Ako institucija za platni promet drži sredstva iz stavka 2. ovog članka, a ona još nisu predana primatelju plaćanja niti su prenesena drugom pružatelju platnih usluga do kraja radnog dana koji slijedi nakon dana primitka sredstava, dužna ih je:
+1) položiti na poseban račun kod kreditne institucije sa sjedištem u Republici Hrvatskoj, ili
+2) položiti na poseban račun kod kreditne institucije sa sjedištem u državi članici ili
+3) uložiti u niskorizične i visokolikvidne oblike imovine, i to:
+- nerizičnu visokolikvidnu imovinu,
+- depozite po viđenju kod kreditne institucije odgovarajućeg rejtinga ili
+- dužničke vrijednosne papire izdane od izdavatelja odgovarajućeg rejtinga.
+(4) Novčana sredstva korisnika platnih usluga iz stavka 3. ovog članka nisu vlasništvo institucije za platni promet, ne ulaze u njezinu imovinu, ni u likvidacijsku ili stečajnu masu, niti mogu biti predmetom ovrhe u vezi s potraživanjima od institucije za platni promet.
+(5) Novčana sredstva korisnika platnih usluga iz stavka 1. ovog članka institucija za platni promet dužna je pokriti policom osiguranja društva za osiguranje ili garancijom kreditne institucije, pod uvjetom da to društvo za osiguranje ili kreditna institucija ne pripadaju istoj grupi kao i institucija za platni promet. Ugovorena polica osiguranja ili bankovna garancija mora biti naplativa ako institucija za platni promet nije sposobna ispunjavati svoje financijske obveze koje proizlaze iz obavljanja usluga izvršenja platnih transakcija.
+(6) Ako institucija za platni promet osim platnih usluga obavlja i djelatnost iz članka 68. točke 3. ovog Zakona i pritom zaprima od korisnika platnih usluga novčana sredstva koja su jednim dijelom namijenjena za izvršenje budućih platnih transakcija, a drugim dijelom za druge usluge koje obavlja, a koje nisu platne usluge, dužna je zaštititi dio sredstava namijenjen za izvršenje budućih platnih transakcija na način iz stavka 3. ili 5. ovog članka. Ako je udjel tih sredstava promjenjiv ili nije unaprijed poznat, institucija za platni promet može odrediti udjel sredstava namijenjenih za izvršenje budućih platnih transakcija na osnovi reprezentativnog dijela za koji se pretpostavlja da će biti upotrijebljen za te potrebe, pod uvjetom da se takav reprezentativni dio može realno procijeniti na osnovi povijesnih podataka.
+(7) Hrvatska narodna banka može pobliže propisati zaštitu novčanih sredstava korisnika platnih usluga uključujući i karakteristike koje moraju imati pojedini oblici imovine iz stavka 3. ovog članka.

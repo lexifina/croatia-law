@@ -1,0 +1,4 @@
+## Iznimke od minimalno propisanog iznosa jamstvenoga kapitala
+# Članak 107.
+(1) Hrvatska narodna banka može, na osnovi ocjene procesa upravljanja rizicima, baze podataka o rizicima ili mehanizama unutarnje kontrole institucije za platni promet, naložiti, odnosno dopustiti instituciji za platni promet da održava minimalni iznos jamstvenoga kapitala u iznosu koji je do 20% veći ili manji od iznosa koji je izračunat u skladu s propisima donesenim na temelju ovog Zakona.
+(2) Kod institucija za platni promet koje se koriste metodom uz primjenu fiksnih troškova iz prethodne godine za izračun minimalnog iznosa jamstvenoga kapitala, Hrvatska narodna banka može u slučaju značajne promjene u poslovanju institucije za platni promet u odnosu na prethodnu godinu naložiti, odnosno dopustiti pojedinoj instituciji za platni promet održavanje većeg ili manjeg iznosa jamstvenoga kapitala.
