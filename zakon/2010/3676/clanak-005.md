@@ -1,0 +1,3 @@
+# Članak 5.
+Članak 9. mijenja se i glasi:
+»Upravni odbor donosi Statut Zaklade, Poslovnik o radu, Pravilnik o vrstama, uvjetima i postupku za dodjelu potpora iz članka 3. stavka 2. ovoga Zakona, financijski plan Zaklade, odluke o dodjeli potpora sukladno ovom Zakonu i općim aktima Zaklade, odluke o sufinanciranju ili financiranju programa iz članka 4.a ovoga Zakona, odlučuje o povećanju ili opterećenju imovine Zaklade, razmatra i prihvaća izvješća o radu upravitelja i stručne službe Zaklade ukoliko je ona osnovana, podnosi izvješće o radu Zaklade te obavlja druge poslove sukladno zakonu i Statutu Zaklade te drugim propisima.«
