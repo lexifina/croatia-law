@@ -1,0 +1,8 @@
+## II. ZDRAVSTVENI STANDARD I OSNOVE UGOVARANJA
+# Članak 2.
+Standardi i normativi prava na zdravstvenu zaštitu iz obveznog zdravstvenog osiguranja za slučaj priznate ozljede na radu i profesionalne bolesti kao i specifične zdravstvene zaštite radnika utvrđeni su ovom Odlukom, Pravilnikom o standardima i normativima prava na zdravstvenu zaštitu iz obveznog zdravstvenog osiguranja, Odlukom o osnovama za sklapanje ugovora o provođenju zdravstvene zaštite iz obveznog zdravstvenog osiguranja, drugim općim aktima Zavoda, Zakonom, Zakonom o zdravstvenoj zaštiti, te propisima donijetim osnovom tih zakona i čine standard prava na zdravstvenu zaštitu iz obveznog zdravstvenog osiguranja u Republici Hrvatskoj (u daljnjem tekstu: standard), koji se pod jednakim uvjetima osigurava osiguranicima iz članaka 6. stavka 1. točke 1. do 6. i točke 8., 18. i 24. Zakona i osiguranim osobama iz članka 13.a i 13.b Zakona.
+Standardi i normativi prava iz stavka 1. ovog članka obuhvaćaju:
+1. pravo na specifičnu zdravstvenu zaštitu
+2. pravo na zdravstvenu zaštitu za slučaj priznate ozljede na radu, odnosno profesionalne bolesti.
+Standard je uvjetovan strukturom zaposlenih, epidemiološkim pokazateljima, pobolom u pojedinoj grani gospodarstvene ili neke druge djelatnosti, veličinom trgovačkog društva, druge pravne osobe i fizičke osobe, odnosno tijela državne vlasti (u daljnjem tekstu: poslovni subjekti), raspoloživim zdravstvenim kapacitetima u mreži ugovornih subjekata javne zdravstvene službe, odnosno u mreži ugovornih subjekata medicine rada i osiguranim financijskim sredstvima za taj dio zdravstvene zaštite iz obveznog zdravstvenog osiguranja.
+1. Pravo na specifičnu zdravstvenu zaštitu

@@ -1,0 +1,7 @@
+## IV. UVJETI I NAČIN SKLAPANJA UGOVORA ZA PROVOĐENJE SPECIFIČNE ZDRAVSTVENE ZAŠTITE
+# Članak 13.
+U skladu s odredbama Zakona Zavod za potrebe popune mreže ugovornih subjekata medicine rada (u daljnjem tekstu: mreža) na osnovi odredaba ove Odluke raspisuje natječaj za sklapanje ugovora za provođenje specifične zdravstvene zaštite za razdoblje od 3 godine (u daljnjem tekstu: ugovorno razdoblje), ako posebnim propisom nije drugačije određeno.
+S odabranim ponuditeljem iz stavka 1. ovog članka Zavod sklapa ugovor o provođenju specifične zdravstvene zaštite radnika za ugovorno razdoblje.
+Sa ugovornim specijalistima medicine rada u mreži koji su se javili na natječaj iz stavka 1. ovog članka, a koji će tijekom ugovornog razdoblja navršiti 65 godina života i 20 godina staža osiguranja Zavod će sklopiti ugovore o provođenju zdravstvene zaštite najduže do zadnjeg dana kalendarske godine u kojoj navršavaju 65 godina života i 20 godina staža osiguranja.
+Iznimno od stavka 3. ovog članka Zavod može u slučaju ugroženosti pružanja zdravstvene zaštite, na osnovi odobrenja ministra nadležnog za zdravstvo o produljenju obavljanja privatne prakse i posebne odluke Upravnog vijeća Zavoda, sklopiti ugovore o provođenju zdravstvene zaštite sa specijalistima medicine rada koji su navršili 65 godina života i 20 godina staža osiguranja, a najduže do popunjena mreže, odnosno do navršenih 70 godina života doktora specijalista medicine rada.
+Ugovorna zdravstvena ustanova i ugovorni privatni zdravstveni radnik obvezni su istaknuti naziv da su ugovorni subjekt Zavoda.

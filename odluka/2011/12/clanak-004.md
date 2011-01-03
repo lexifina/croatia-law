@@ -1,0 +1,2 @@
+# Članak 4.
+Osiguranici iz članka 6. stavka 1. točke 1. do 6. i točke 8., 18. i 24. Zakona te osigurane osobe iz članka 13.a i 13.b Zakona ostvaruju zdravstvenu zaštitu iz obveznog zdravstvenog osiguranja za slučaj priznate ozljede na radu, odnosno profesionalne bolesti na način i pod uvjetima utvrđenim Zakonom, Pravilnikom o pravima, uvjetima i načinu ostvarivanja prava iz obveznog zdravstvenog osiguranja u slučaju ozljede na radu i profesionalne bolesti i drugim općim aktima Zavoda.

@@ -1,0 +1,3 @@
+# Članak 11.
+Sadržaj mjera specifične zdravstvene zaštite radnika i način njihovog provođenja u skladu s člankom 20. stavkom 2. Zakona o zdravstvenoj zaštiti propisuje pravilnikom ministar nadležan za zdravstvo na prijedlog Hrvatskog zavoda za zaštitu zdravlja i sigurnost na radu, a uz suglasnost ministra nadležnog za rad.
+U skladu s člankom 20. stavkom 3. Zakona o zdravstvenoj zaštiti sadržaj mjera specifične zdravstvene zaštite policijskih službenika Ministarstva unutarnjih poslova, odnosno pripadnika Ministarstva obrane i Oružanih snaga Republike Hrvatske propisuje pravilnikom ministar nadležan za unutarnje poslove, odnosno ministar nadležan za obranu uz suglasnost ministra nadležnog za zdravstvo.
