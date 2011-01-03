@@ -1,0 +1,4 @@
+# Članak 10.
+(1) Naknada plaće za vrijeme privremene nesposobnosti za rad uzrokovane priznatom ozljedom na radu, odnosno profesionalnom bolešću (u daljnjem tekstu: naknada plaće) pripada osiguranicima iz članka 6. stavka 1. točke 1. do 4. i točke 6., 8., 18. i 24. Zakona od prvog dana privremene nesposobnosti za rad na teret sredstava obveznoga zdravstvenog osiguranja.
+(2) Naknada plaće iz stavka 1. ovog članka osiguraniku pripada samo za dane, odnosno sate za koje bi osiguranik ostvario pravo na plaću, odnosno naknadu plaće u skladu s propisima o radu.
+(3) Osiguranik ima pravo na naknadu plaće sve dok izabrani doktor medicine primarne zdravstvene zaštite, odnosno ovlašteni doktor Zavoda ne utvrde da je sposoban za rad ili dok nije konačnim rješenjem nadležnog tijela mirovinskog osiguranja utvrđena invalidnost osiguranika.

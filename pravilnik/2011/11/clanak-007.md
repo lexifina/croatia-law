@@ -1,0 +1,2 @@
+# Članak 7.
+Osigurane osobe iz članka 6. stavka 1. točke 1. do 6. i točke 8., 18. i 24., te članka 13.a i 13.b Zakona ostvaruju pravo na zdravstvenu zaštitu iz obveznoga zdravstvenog osiguranja za slučaj priznate ozljede na radu, odnosno profesionalne bolesti utvrđenu člankom 15. Zakona u opsegu, na način i pod uvjetima propisanim Zakonom, ovim Pravilnikom i drugim općim aktima Zavoda, u cijelosti na teret sredstava obveznoga zdravstvenog osiguranja u skladu sa člankom 16. stavkom 2. točkom 7.a Zakona.

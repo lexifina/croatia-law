@@ -1,0 +1,4 @@
+# Članak 46.
+(1) O priznavanju ozljede na radu, odnosno profesionalne bolesti Zavod odlučuje, u pravilu, bez donošenja pisanog rješenja, ovjerom zaprimljene tiskanice prijave o ozljedi na radu, odnosno profesionalnoj bolesti.
+(2) Iznimno od stavka 1. ovog članka, Zavod obvezno donosi rješenje u slučaju nepriznavanja ozljede, odnosno bolesti kao ozljede na radu, odnosno profesionalne bolesti, te kada odlučuje o priznavanju ozljede na radu odnosno profesionalne bolesti na osnovi zahtjeva osigurane osobe odnosno člana obitelji osigurane osobe u slučaju smrti osigurane osobe.
+(3) Kad se o ozljedi na radu, odnosno o profesionalnoj bolesti odlučuje rješenjem, izrekom rješenja mora se odlučiti o konkretnoj ozljedi, odnosno bolesti, uz naznaku datuma njezinog nastanka, šifre prema MKB i broja evidencije priznate ozljede na radu, odnosno profesionalne bolesti.

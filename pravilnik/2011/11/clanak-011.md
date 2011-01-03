@@ -1,0 +1,5 @@
+# Članak 11.
+(1) Naknadu plaće obračunava i isplaćuje osiguraniku iz svojih sredstava pravna, odnosno fizička osoba - poslodavac u skladu s člankom 28. stavkom 4. Zakona.
+(2) Sredstva koja je poslodavac isplatio u skladu sa stavkom 1. ovog članka Zavod je obvezan vratiti poslodavcu u roku od dana 45 dana od dana primitka zahtjeva za povrat.
+(3) Uz zahtjev iz stavka 2. ovog članka poslodavac je obvezan priložiti tiskanicu - Potvrda o plaći i tiskanicu - Izvješće o bolovanju, koje tiskanice su propisane Pravilnikom o pravima, te dokumentaciju o izvršenim isplatama naknada plaće.
+(4) Iznimno, od stavka 1. ovog članka u slučaju stečajnog postupka poslodavaca ili prestanka postojanja poslodavca, odnosno kada poslodavac nije u mogućnosti zbog nelikvidnosti isplatiti plaću, odnosno naknadu plaće za najmanje tri kalendarska mjeseca, kao i u slučaju kada poslodavac ne izvrši isplatu naknade plaće koja tereti sredstva Zavoda u propisanom roku od 30 dana prema obračunu Zavoda iz članka 31. stavka 2. Zakona, isplatu će izvršiti Zavod neposredno osiguraniku.

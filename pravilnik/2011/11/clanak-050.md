@@ -1,0 +1,2 @@
+# Članak 50.
+Prava s osnove ozljede na radu i profesionalne bolesti utvrđene u skladu sa Zakonom i ovim Pravilnikom ostvaruju i osigurane osobe kojima je ozljeda na radu, odnosno profesionalna bolest priznata od strane Hrvatskog zavoda za zdravstveno osiguranje zaštite zdravlja na radu, odnosno njegovog prednika bez obzira na godinu u kojoj je priznata ozljeda na radu odnosno profesionalna bolest.
