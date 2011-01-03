@@ -1,0 +1,3 @@
+# Članak 1.
+U Odluci o osnovama za sklapaje ugovora o provođenju zdravstvene zaštite iz obveznog zdravstvenog osiguraja (»Narodne novine« broj 43/10., 71/10., 88/10. i 124/10.) u članku 17. stavak 1. mijenja se i glasi:
+»Osnova za sklapanje ugovora o provođenju primarne zdravstvene zaštite iz djelatnosti opće/obiteljske medicine, zdravstvene zaštite predškolske djece, zdravstvene zaštite žena, stomatološke zdravstvene zaštite (polivalentne), laboratorijske dijagnostike i zdravstvene njege je ugovor o koncesiji za obavljanje javne zdravstvene službe uz odgovarajuće rješenje Ministarstva zdravstva i socijalne skrbi o odobrenju za rad.«
