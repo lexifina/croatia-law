@@ -1,0 +1,2 @@
+# Članak 8.
+Od dana stupanja na snagu ovog Pravilnika, uz tiskanicu »Zahtjev i prijedlog za upućivanje na liječenje u inozemstvo« iz članka 3. ovog Pravilnika primjenjuje se i tiskanica prijedloga za upućivanje na liječenje u inozemstvo iz članka 1. Pravilnika o izmjenama i dopunama Pravilnika o pravima, uvjetima i načinu korištenja zdravstvene zaštite u inozemstvu (»Narodne novine« broj 14/10.), a najduže do 28. veljače 2011. godine.

@@ -1,0 +1,5 @@
+# Članak 1.
+U Pravilniku o pravima, uvjetima i načinu korištenja zdravstvene zaštite u inozemstvu (»Narodne novine« broj 50/09., 118/09., 4/10., 13/10. i 14/10.) u članku 15. iza stavka 4. dodaju se novi stavci 5. i 6. koji glase:
+»(5) Kada ovlašteni doktor Zavoda iz stavka 4. ovog članka prilikom utvrđivanja potrebe premještaja osigurane osobe u Republiku Hrvatsku utvrdi potrebu sanitetskog prijevoza zahtjev za sanitetski prijevoz daje područni ured Zavoda ugovornom subjektu koji sa Zavodom ima ugovorenu djelatnost sanitetskog prijevoza prema mjestu prebivališta, odnosno boravka osigurane osobe u slučajevima kada se osiguranu osobu sa liječenja u inozemstvu premješta u mjesto prebivališta, odnosno boravka.
+(6) Kada se osiguranu osobu premješta iz inozemne zdravstvene ustanove u ugovornu zdravstvenu ustanovu u Republici Hrvatskoj čije sjedište nije u mjestu prebivališta ili boravka osigurane osobe, zahtjev za sanitetski prijevoz daje područni ured Zavoda ugovornom subjektu koji sa Zavodom ima ugovorenu djelatnost sanitetskog prijevoza prema sjedištu ugovorne zdravstvene ustanove u koju se osoba premješta.«
+Dosadašnji stavak 5. postaje stavak 7.
