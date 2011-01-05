@@ -1,0 +1,2 @@
+# Članak 14.
+Danom stupanja na snagu ove Odluke prestaju važiti Odluka o konstrukciji računa u banci, vodećem broju banke, uvjetima i načinu otvaranja računa u banci i sadržaju registra računa poslovnih subjekata u banci (»Narodne novine«, br. 150/2002., 115/2003., 162/2004., 189/2004. i 141/2009.) i Odluka o konstrukciji i upotrebi međunarodnog broja bankovnog računa (IBAN) (»Narodne novine«, br. 162/2004.).

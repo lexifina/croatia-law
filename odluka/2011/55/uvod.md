@@ -1,0 +1,1 @@
+Na temelju članka 58. stavaka 3. i 4., članka 60. stavka 3. i članka 62. stavka 4. Zakona o platnom prometu (»Narodne novine«, br. 133/2009.) i članka 43. stavka 2. točke 9. Zakona o Hrvatskoj narodnoj banci (»Narodne novine«, br. 75/2008.) guverner Hrvatske narodne banke donosi
