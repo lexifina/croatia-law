@@ -1,0 +1,4 @@
+## Neotplaćeni iznos kredita za stjecanje dionica institucije za platni promet
+# Članak 14.
+(1) Neotplaćeni iznos kredita za stjecanje dionica institucije za platni promet jest neotplaćeni iznos kredita koji je institucija za platni promet, neposredno ili posredno, odobrila za stjecanje dionica te institucije za platni promet, osim kumulativnih povlaštenih dionica.
+(2) Neotplaćenim iznosom kredita iz stavka 1. ovog članka smatra se i iznos proizašao iz svakog drugog pravnog posla koji je po svojoj ekonomskoj namjeni jednak kreditu, kao i iznos izdanih garancija ili drugih jamstava za takve kredite. Ako je kod tih kredita provedeno umanjenje vrijednosti, institucija za platni promet dužna je iskazati procijenjeni nadoknadivi iznos kredita. Ako su za iskazane garancije ili druga jamstva formirane rezervacije, institucija za platni promet dužna je iskazati iznos umanjen za rezervacije.

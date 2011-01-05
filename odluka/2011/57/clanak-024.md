@@ -1,0 +1,3 @@
+## Neotplaćeni iznos kredita za stjecanje kumulativnih povlaštenih dionica institucije za platni promet
+# Članak 24.
+Neotplaćenim iznosom kredita koji je institucija za platni promet, neposredno ili posredno, odobrila za stjecanje kumulativnih povlaštenih dionica te institucije za platni promet, smatra se i iznos proizašao iz svakog drugog pravnog posla koji je po svojoj ekonomskoj namjeni jednak kreditu, kao i iznos izdanih garancija ili drugih jamstava za takve kredite. Ako je kod navedenih kredita provedeno umanjenje vrijednosti, institucija za platni promet dužna je iskazati procijenjeni nadoknadivi iznos kredita. Ako su za navedene garancije ili druga jamstva formirane rezervacije, institucija za platni promet dužna je iskazati iznos umanjen za rezervacije.

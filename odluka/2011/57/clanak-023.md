@@ -1,0 +1,3 @@
+## Potraživanja i potencijalne obveze osigurani hibridnim ili podređenim instrumentima
+# Članak 23.
+Potraživanjima i potencijalnim obvezama osiguranima hibridnim ili podređenim instrumentima institucije za platni promet smatraju se potraživanja i potencijalne obveze osigurani hibridnim ili podređenim instrumentima koji su sastavni dio dopunskoga kapitala institucije za platni promet, ali najviše do iznosa u kojem se ti instrumenti uključuju u jamstveni kapital institucije za platni promet. Ako je kod navedenih potraživanja provedeno umanjenje vrijednosti, institucija za platni promet dužna je iskazati procijenjeni nadoknadivi iznos. Ako su za navedene potencijalne obveze formirane rezervacije, institucija za platni promet dužna je iskazati iznos umanjen za rezervacije.
