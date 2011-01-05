@@ -1,0 +1,4 @@
+## Neotplaćeni iznos kredita za stjecanje dionica institucije za elektronički novac
+# Članak 14.
+(1) Neotplaćeni iznos kredita za stjecanje dionica institucije za elektronički novac jest neotplaćeni iznos kredita koji je institucija za elektronički novac, neposredno ili posredno, odobrila za stjecanje dionica te institucije za elektronički novac osim kumulativnih povlaštenih dionica.
+(2) Neotplaćenim iznosom kredita iz stavka 1. ovog članka smatra se i iznos proizašao iz svakog drugog pravnog posla koji je po svojoj ekonomskoj namjeni jednak kreditu, kao i iznos izdanih garancija ili drugih jamstava za takve kredite. Ako je kod tih kredita provedeno umanjenje vrijednosti, institucija za elektronički novac dužna je iskazati procijenjeni nadoknadivi iznos kredita. Ako su za iskazane garancije ili druga jamstva formirane rezervacije, institucija za elektronički novac dužna je iskazati iznos umanjen za rezervacije.

@@ -1,0 +1,18 @@
+## Rezerve i zadržana dobit institucije za elektronički novac koja je osnovana kao društvo s ograničenom odgovornošću
+# Članak 10.
+(1) Ako je institucija za elektronički novac osnovana kao društvo s ograničenom odgovornošću, iznos rezervi iz članka 6. točke 2. ove Odluke odnosi se na sve vrste rezervi koje su formirane na teret dobiti nakon oporezivanja, što uključuje:
+1) rezerve predviđene društvenim ugovorom odnosno izjavom o osnivanju, a koje su određene na način propisan Zakonom o trgovačkim društvima,
+2) rezerve za vlastite poslovne udjele, pri čemu se iskazuju ukupne formirane rezerve za vlastite poslovne udjele koje je institucija za elektronički novac sama stekla, vlastite poslovne udjele koje je stekla preko trećih osoba i vlastite poslovne udjele koje ima u zalogu; institucija za elektronički novac dužna je rezerve za vlastite poslovne udjele koje je sama stekla te za vlastite poslovne udjele koje je stekla preko trećih osoba formirati u visini iznosa isplaćenog za stjecanje vlastitih poslovnih udjela, a rezerve za vlastite poslovne udjele koje izravno ili neizravno ima u zalogu formirati u visini nominalnog iznosa poslovnih udjela i
+3) ostale rezerve, određene na način propisan Zakonom o trgovačkim društvima.
+(2) U iznos rezervi uključuje se i kapitalna dobit ostvarena na osnovi stjecanja i prodaje vlastitih poslovnih udjela institucije za elektronički novac, odnosno od iznosa rezervi oduzima se kapitalni gubitak ostvaren na osnovi stjecanja i prodaje vlastitih poslovnih udjela institucije za elektronički novac.
+(3) Iznos zadržane dobiti iz članka 6. točke 2. ove Odluke odnosi se na onaj dio zadržane dobiti prethodnih godina koji je utvrdila skupština institucije za elektronički novac, koji je prikazan u bilanci stanja i koji ne uključuje rezervacije za buduće obveze.
+(4) Ako se izračun jamstvenoga kapitala obavlja na temelju privremenih financijskih izvještaja, u stavku zadržane dobiti institucija za elektronički novac može uključiti dobit tekuće godine u ostvarenom ili manjem iznosu ako su ispunjeni svi sljedeći uvjeti:
+1) skupština je odlučila da se dobit tekuće godine u ostvarenom ili manjem iznosu rasporedi u rezerve ili zadržanu dobit ili u povećanje temeljnoga kapitala ili za pokriće gubitka proteklih godina, odnosno ako je takvu odluku o raspodjeli dobiti tekuće godine donijela uprava,
+2) iznos dobiti tekuće godine umanjen je za obračunati porez na dobit i druge očekivane troškove,
+3) tu je dobit potvrdio vanjski revizor,
+4) iz poslovanja institucije za elektronički novac u proteklom razdoblju vidljivo je da se pridržavala standarda sigurnog i stabilnog poslovanja i
+5) institucija za elektronički novac dobila je prethodnu suglasnost Hrvatske narodne banke.
+(5) Ako se izračun jamstvenoga kapitala obavlja na temelju revidiranih financijskih izvještaja, u stavku zadržane dobiti institucija za elektronički novac može uključiti dobit tekuće godine u ostvarenom ili manjem iznosu ako su ispunjeni svi sljedeći uvjeti:
+1) skupština je odlučila da se dobit tekuće godine u ostvarenom ili manjem iznosu rasporedi u rezerve ili zadržanu dobit ili u povećanje temeljnoga kapitala ili za pokriće gubitka proteklih godina, odnosno ako je takvu odluku o raspodjeli dobiti tekuće godine donijela uprava i
+2) iznos dobiti tekuće godine umanjen je za obračunati porez na dobit i druge očekivane troškove.
+(6) Skupština, odnosno uprava dužna je pri donošenju odluka iz stavka 4. točke 1. i stavka 5. točke 1. ovog članka iznos dobiti tekuće godine koji će se rasporediti u rezerve ili u zadržanu dobit ili u povećanje temeljnoga kapitala, iskazati kao postotni udio u ostvarenoj dobiti tekuće godine.
