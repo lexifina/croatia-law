@@ -1,0 +1,8 @@
+SPORAZUM IZMEĐU VLADE REPUBLIKE HRVATSKE I VLADE MALTE O BORBI PROTIV NEZAKONITE TRGOVINE OPOJNIM DROGAMA I PSIHOTROPNIM TVARIMA, ORGANIZIRANOG KRIMINALA I MEĐUNARODNOG TERORIZMA
+Vlada Republike Hrvatske i Vlada Malte (u daljnjem tekstu: »ugovorne stranke«),
+UVJERENE da je međunarodna suradnja neophodna za učinkovito sprječavanje i suzbijanje nezakonite trgovine opojnim drogama i psihotropnim tvarima te za borbu protiv organiziranog kriminala,
+SVJESNE da nezakonita trgovina opojnim drogama i psihotropnim tvarima, kao i njihova proizvodnja i širenje, predstavlja ozbiljnu prijetnju pravilnom društvenom i gospodarskom razvoju i psihološkoj i fizičkoj dobrobiti njihovih građana,
+S OBZIROM na odredbe Jedinstvene konvencije o opojnim drogama (New York, 30. ožujka 1961.), Konvencije o psihotropskim supstancama (Beč, 21. veljače 1971.), Konvencije Ujedinjenih naroda protiv nedozvoljenog prometa drogama i psihotropskim supstancama (Beč, 20. prosinca 1988.) »Sveobuhvatnog akcijskog plana« (New York, 23. veljače 1990.), sastavljenog pod pokroviteljstvom Ujedinjenih naroda, te Konvencije Ujedinjenih naroda protiv transnacionalnog organiziranog kriminaliteta (New York, 15. studenoga 2000.),
+SVJESNE da su zločinačke organizacije koje djeluju na međunarodnoj razini sve više uključene u takvu nezakonitu trgovinu,
+UZIMAJUĆI U OBZIR potrebu jačanja dvostrane suradnje u borbi protiv nezakonite trgovine opojnim drogama i psihotropnim tvarima te vjerujući da bi takva suradnja trebala biti dio institucionalnih i stalnih aktivnosti svih nadležnih službi dviju država, posebice, Ministarstva unutarnjih poslova Republike Hrvatske i Ministarstva pravosuđa i unutarnjih poslova Malte,
+SPORAZUMJELE SU SE KAKO SLIJEDI:
