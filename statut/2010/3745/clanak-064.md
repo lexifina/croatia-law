@@ -1,0 +1,2 @@
+# Članak 64.
+Višak prihoda nad rashodima zajednice koristi se u svrhu promicanja i unapređenja turističkog područja zajednice.

@@ -1,0 +1,5 @@
+# Članak 59.
+Skupština Zajednice dužna je svake godine do kraja ožujka tekuće godine donijeti godišnje financijsko izvješće za prethodnu godinu.
+Prijedlog godišnjeg financijskog izvješća za prethodnu godinu turističko vijeće podnosi skupštini Zajednice i Nadzornom odboru do kraja veljače tekuće godine.
+Godišnje financijsko izvješće obvezno sadržava podatke o izvršenju programom rada pojedinačno utvrđenih zadataka, izdacima njihovog izvršenja, izdacima za poslovanje turističkog ureda i rad tijela turističke zajednice, ostvarenju prihoda po izvorima, financijskom rezultatu poslovanja, usporedbu financijskog plana i njegovog ostvarenja s obrazloženjem odstupanja, analizu i ocjenu izvršenja programa, te procjenu učinka poduzetih aktivnosti na razvoj turizma.
+Prijedlog godišnjeg financijskog izvješća mora se staviti na uvid članovima skupštine Zajednice osam dana prije razmatranja na Skupštini Zajednice.
