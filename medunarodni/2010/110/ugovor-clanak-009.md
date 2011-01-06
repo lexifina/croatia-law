@@ -1,0 +1,10 @@
+# Članak 9.
+(1) Mađarska ugovorna stranka sukladno važećim pravnim propisima u Republici Mađarskoj, na svom državnom području, osigurava mogućnost za građenje, korištenje, održavanje, rekonstrukciju i otklanjanje pogonskih smetnji sljedećih cjevovoda:
+a) visokotlačni cjevovod za transport prirodnog plina između Városföld - Drávaszerdahely - Donji Miholjac (Alsómiholjac) - Slobodnica na dionici Városföld - državna granica, koji prema projektima presijeca državnu granicu između graničnih oznaka broj C248 i C249;
+b) dionica proizvodnog cjevovoda Berzence - Gola između naselja Berzence i državne granice. Hrvatska i mađarska dionica cjevovoda presijecaju državnu granicu između graničnih oznaka broj B289 i B290 i spajaju se jedna s drugom;
+c) cjevovod za transport nafte - Jadranski naftovod na dionici Százhalombatta - Omišalj, na dionici Százhalombatta - državna granica koji presijeca državnu granicu između graničnih točaka broj B289 i B290.
+(2) Hrvatska ugovorna stranka sukladno važećim pravnim propisima u Republici Hrvatskoj, na svom državnom području, osigurava mogućnost za građenje, korištenje, održavanje, rekonstrukciju i otklanjanje pogonskih smetnji sljedećih cjevovoda:
+a) visokotlačni cjevovod za transport prirodnog plina Slobodnica - Donji Miholjac (Alsómiholjac) - Drávaszerdahely - Városföld na dionici Slobodnica - državna granica, koji prema projektima presijeca državnu granicu između graničnih oznaka broj C248 i C249;
+b) dionica proizvodnog cjevovoda Gola - Berzence između naselja Gola i državne granice. Mađarska i hrvatska dionica cjevovoda presijecaju državnu granicu između graničnih oznaka broj B289 i B290 i spajaju se jedna s drugom;
+c) cjevovod za transport nafte - Jadranski naftovod na dionici Omišalj - Százhalombatta, na dionici Omišalj - državna granica koji presijeca državnu granicu između graničnih oznaka broj B289 i B290.
+(3) Djelatnosti u vezi pripreme, projektiranja i izvođenja građenja, stručnog nadzora, korištenja, održavanja, rekonstrukcije i otklanjanje pogonskih smetnji na cjevovodima iz stavaka 1. i 2. ovog članka ostvaruju se u suradnji između društava.

@@ -1,0 +1,1 @@
+Uredba o objavi Sporazuma između Vlade Republike Hrvatske i Vlade Republike Mađarske o suradnji u vezi građenja, korištenja, održavanja, rekonstrukcije i otklanjanja pogonskih smetnji na cjevovodima za transport ugljikovodika koji prelaze preko zajedničke državne granice
