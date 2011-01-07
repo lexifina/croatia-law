@@ -1,0 +1,2 @@
+# Članak 4.
+Kao nadležna tijela za provedbu ovog Ugovora Vlada Republike Hrvatske određuje Ministarstvo znanosti i tehnologije Republike Hrvatske, a Vijeće ministara Bosne i Hercegovine određuje Ministarstvo vanjskih poslova - Odjel za međunarodnu znanstvenu, tehničku, obrazovnu, kulturnu i sportsku suradnju, kao i Ministarstvo za znanost i kulturu Republike Srpske i Ministarstvo za obrazovanje, znanost, kulturu i sport Federacije Bosne i Hercegovine.
