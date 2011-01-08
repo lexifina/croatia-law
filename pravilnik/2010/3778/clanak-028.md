@@ -1,0 +1,2 @@
+# Članak 28.
+Elaborat prostornog plana, osim tekstualnog i grafičkog dijela, sadrži izvod iz sudskog registra za obavljanje djelatnosti stručnih poslova prostornog uređenja stručnog izrađivača i suglasnost o tome Ministarstva zaštite okoliša, prostornog uređenja i graditeljstva, te rješenje o upisu odgovornog voditelja izrade nacrta prijedloga plana u Imenik ovlaštenih arhitekata Hrvatske komore arhitekata.
