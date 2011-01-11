@@ -1,0 +1,18 @@
+## Prilozi uz zahtjev
+# Članak 6.
+Uz zahtjev za izdavanje certifikacijskog rješenja prilaže se:
+1. izvadak iz sudskog registra ne stariji od 30 dana; u izvorniku ili javnobilježnički ovjerenom presliku,
+2. izjava da nad pravnom osobom nije otvoren postupak stečaja ili likvidacije, odnosno da je otvoren stečajni postupak, ali da postoji pravomoćno rješenje o potvrdi stečajnog plana; u izvorniku na kojem je javnobilježnički ovjeren potpis zakonskog zastupnika pravne osobe,
+3. potvrda Porezne uprave o stanju duga ne starija od 30 dana od dana podnošenja zahtjeva za izdavanje rješenja o ispunjenju posebnih uvjeta ili tekst nagodbe o podmirenju dospjelih poreznih obveza i obveza za mirovinsko i zdravstveno osiguranje, i drugih državnih davanja; u izvorniku ili javnobilježnički ovjerenom presliku,
+4. isprava izdana od bankarskih ili drugih financijskih institucija kojom se dokazuje solventnost stranke ne starija od 30 dana od dana podnošenja zahtjeva za izdavanje rješenja o ispunjenju posebnih uvjeta; u izvorniku ili javnobilježnički ovjerenom presliku,
+5. popis zaposlenih sa sljedećim podacima: imenom, prezimenom, datumom i mjestom rođenja, prebivalištem, stručnom spremom, stručnim zvanjem i radnim iskustvom u poslovima koji odgovaraju stručnom zvanju, radi dokaza postojanja posebnih uvjeta iz članka 2. točaka 5., 6. i 7. ovoga Pravilnika; u izvorniku potpisanom od zakonskog zastupnika pravne osobe,
+6. radni životopis osoba iz članka 2. točaka 5., 6. i 7. ovoga Pravilnika uz naznaku poslodavaca/poslodavca kod kojih je traženo radno iskustvo i oznaku osobe nadležne za kontakt radi dokaza postojanja posebnih uvjeta iz tih odredaba; u izvorniku potpisanom od strane osobe/a iz članka 2. točaka 5., 6. i 7. ovoga Pravilnika,
+7. radne knjižice za osobe s popisa iz točke 6. ovoga stavka; preslike stranica iz kojih su vidljivi podaci iz točke 6. ovoga stavka,
+8. osobne iskaznice osoba s popisa iz točke 6. ovoga stavka, u presliku,
+9. izjavu o mogućnosti organizacije 24 satnog dežurstva i žurnog pristupa do mjesta izvođenja radova; u izvorniku potpisanom od zakonskog zastupnika pravne osobe,
+10. popis opreme s oznakom pravne osnove za posjed na istima uz svaku od navedenih stavki (vlasništvo ili leasing) radi dokaza postojanja posebnih uvjeta iz članka 2. točke 9. ovoga Pravilnika; u izvorniku potpisanom od zakonskog zastupnika pravne osobe,
+11. dozvolu za obavljanje djelatnosti skupljanja i prijevoza te privremenog skladištenja i obrade opasnog otpada, izdane od ministarstva nadležnog za zaštitu okoliša; dozvolu za obavljanje djelatnosti skupljanja, prijevoza, privremenog skladištenja, sortiranja i obrade neopasnog otpada, izdane od nadležnog Upravnog tijela županije odnosno Grada Zagreba; potvrdu za posredovanje u organiziranju oporabe i/ili zbrinjavanja otpada, izdane od ministarstva nadležnog za zaštitu okoliša; potvrdu za prijevoz svih vrsta neopasnog i opasnog otpada, izdane od ministarstva nadležnog za zaštitu okoliša,
+12. potvrda o ispunjavanju standarda ISO 9001 izdana od certifikacijskog zastupnika akreditiranog pri Hrvatskoj akreditacijskoj agenciji; u javnobilježnički ovjerenom presliku,
+13. ADR potvrde i dokazi o osposobljavanjima iz članka 2. točaka 5., 6. i 7. ovoga Pravilnika; u javnobilježnički ovjerenom presliku i
+14. propisana upravna pristojba.
+Uz zahtjev za izdavanje certifikacijskog rješenja prilaže se i izjava pod kaznenom i materijalnom odgovornošću da su isprave iz točaka 5., 7. i 8. stavka 1. ovoga članka vjerodostojne i sadržajno istinite; u izvorniku na kojem je javnobilježnički ovjeren potpis zakonskog zastupnika pravne osobe.

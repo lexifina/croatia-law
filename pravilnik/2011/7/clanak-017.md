@@ -1,0 +1,3 @@
+## VII. PRIJELAZNE I ZAVRŠNE ODREDBE
+# Članak 17.
+Osobe koje su popisima objavljenima u »Narodnim novinama« temeljem točke XI. Državnog plana za zaštitu voda (»Narodne novine« broj 8/99) označene kao stručno i tehnički osposobljene pravne i fizičke osobe za otklanjanje posljedica nastalih u slučajevima iznenadnog onečišćenja odnosno zagađenja dužne su se uskladiti s odredbama ovoga Pravilnika u roku od 6 mjeseci od njegovog stupanja na snagu. U protivnom, istekom tog roka, smatrat će se da ne ispunjavaju posebne uvjeti za obavljanje djelatnosti sprječavanja širenja i otklanjanja posljedica izvanrednih i iznenadnih onečišćenja voda i vodnoga dobra u smislu ovoga Pravilnika.
