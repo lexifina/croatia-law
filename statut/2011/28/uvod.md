@@ -1,0 +1,1 @@
+Na temelju članka 12. i 15. Zakona o turističkim zajednicama i promicanju hrvatskog turizma (»Narodne novine« broj 152/08), Skupština Turističke zajednice Virovitičko-podravske županije na sjednici održanoj 15. prosinca 2010. godine, uz prethodnu suglasnost Ministarstva turizma Republike Hrvatske donijela je
