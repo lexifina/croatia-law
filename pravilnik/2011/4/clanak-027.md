@@ -1,0 +1,2 @@
+# Članak 27.
+Danom stupanja na snagu ovoga Pravilnika prestaju važiti rješenja kojima je ministar nadležan za zdravstvo ovlastio zdravstvene ustanove i trgovačka društva koja u svom sastavu imaju djelatnost medicine rada ili privatne ordinacije medicine rada za obavljanje zdravstvenih pregleda vozača kojima je upravljanje vozilom osnovno zanimanje i vozača kojima upravljanje vozilom nije osnovno zanimanje, osim izdanih ovlaštenja za obavljanje izvanrednih nadzornih zdravstvenih pregleda vozača.

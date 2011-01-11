@@ -1,0 +1,3 @@
+# Članak 26.
+Zdravstvene preglede vozača i kandidata za vozače iz članka 4. točke 1. i 2. ovoga Pravilnika i članka 19. točke 1. i 2. ovoga Pravilnika mogu obavljati zdravstvene ustanove, trgovačka društva, specijalisti medicine rada u privatnoj praksi i izabrani liječnici bez posebnog ovlaštenja ministra nadležnog za zdravstvo.
+Izvanredne nadzorne zdravstvene preglede vozača i kandidata za vozače iz članka 4. točke 3. i članka 19. točke 3. ovoga Pravilnika obavljaju zdravstvene ustanove, trgovačka društva i specijalisti medicine rada u privatnoj praksi koje za to ovlasti ministar nadležan za zdravstvo.
