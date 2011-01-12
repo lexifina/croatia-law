@@ -1,0 +1,1 @@
+Na temelju članka 43. stavka 2. točke 9. Zakona o Hrvatskoj narodnoj banci (»Narodne novine«, br. 75/2008.) i točke XIII. Odluke o obveznoj pričuvi (»Narodne novine«, br. 133/2010.) guverner Hrvatske narodne banke donio je 2. prosinca 2010.
