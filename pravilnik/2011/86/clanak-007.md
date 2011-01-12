@@ -1,0 +1,47 @@
+# Članak 7.
+Sastavni dio ovog Pravilnika su posebne karte koje prikazuju:
+- KARTA 1. - Podjela ribolovnog mora Republike Hrvatske,
+- KARTA 2. - Granice ribolovnih zona A i H,
+- KARTA 3. - Granice ribolovnih zona B i I,
+- KARTA 4. - Granice ribolovnih zona C i J,
+- KARTA 5. - Granice ribolovnih zona D i K,
+- KARTA 6. - Granica ribolovne zone E,
+- KARTA 7. - Granica ribolovne zone F,
+- KARTA 8. - Granica ribolovne zone G.
+- KARTA 9. - Granica ribolovne podzone A1
+- KARTA 10. - Granica ribolovne podzone A2
+- KARTA 11. - Granica ribolovne podzone A3
+- KARTA 12. - Granica ribolovne podzone A4
+- KARTA 13. - Granica ribolovne podzone B1
+- KARTA 14. - Granica ribolovne podzone B2
+- KARTA 15. - Granica ribolovne podzone B3
+- KARTA 16. - Granica ribolovne podzone C1
+- KARTA 17. - Granica ribolovne podzone C2
+- KARTA 18. - Granica ribolovne podzone C3
+- KARTA 19. - Granica ribolovne podzone C4
+- KARTA 20. - Granica ribolovne podzone C5
+- KARTA 21. - Granica ribolovne podzone C6
+- KARTA 22. - Granica ribolovne podzone D1
+- KARTA 23. - Granica ribolovne podzone D2
+- KARTA 24. - Granica ribolovne podzone D3
+- KARTA 25. - Granica ribolovne podzone D4
+- KARTA 26. - Granica ribolovne podzone E1
+- KARTA 27. - Granica ribolovne podzone E2
+- KARTA 28 - Granica ribolovne podzone E3
+- KARTA 29. - Granica ribolovne podzone E4
+- KARTA 30. - Granica ribolovne podzone E5
+- KARTA 31. - Granica ribolovne podzone E6
+- KARTA 32. - Granica ribolovne podzone E7
+- KARTA 33. - Granica ribolovne podzone F1
+- KARTA 34. - Granica ribolovne podzone F2
+- KARTA 35. - Granica ribolovne podzone G1
+- KARTA 36. - Granica ribolovne podzone G2
+- KARTA 37. - Granica ribolovne podzone G3
+- KARTA 38. - Granica ribolovne podzone G4
+- KARTA 39. - Granica ribolovne podzone G5
+- KARTA 40. - Granica ribolovne podzone G6
+- KARTA 41. - Granica ribolovne podzone G7
+- KARTA 42. - Granica ribolovne podzone G8
+- KARTA 43. - Granica ribolovne podzone G9
+- KARTA 44. - Granica ribolovne podzone J1
+- KARTA 45. - Granica ribolovne podzone J2
