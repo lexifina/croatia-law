@@ -1,0 +1,1 @@
+Na temelju članka 14. i članka 42. stavka 3. točke 7. Zakona o Hrvatskoj narodnoj banci (»Narodne novine«, br. 75/2008.) Savjet Hrvatske narodne banke na sjednici održanoj 24. studenoga 2010. donio je
