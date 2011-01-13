@@ -1,0 +1,3 @@
+# Članak 7.
+Za površinske vode, Plan sadrži podatke o prirodnim značajkama vodnog područja, i to opis prirodnih značajki uključujući kartu s ucrtanim položajima i granicama vodnih tijela površinskih voda, s opisom korištenih kriterija za njihovo određivanje, prikazom ekoregija i tipova vodnih tijela površinskih voda i opisom tipova karakterističnih referentnih značajki te prikazom lokacija i granica umjetnih i znatno promijenjenih vodnih tijela.
+Za podzemne vode, Plan sadrži opis prirodnih značajki uključujući prikaz početnog određenja vodnih tijela podzemnih voda, s kartom u kojoj su ucrtani položaji i granice vodnih tijela podzemnih voda.

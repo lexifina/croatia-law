@@ -1,0 +1,5 @@
+# Članak 12.
+Radi osiguranja ostvarenja ciljeva zaštite vodnog okoliša voda u Planu se navodi:
+- za površinske vode - zaštita i poboljšanje vodnih tijela površinskih voda u cilju postizanja dobrog ekološkog i kemijskog stanja površinskih voda, dobrog ekološkog potencijala i dobrog kemijskog stanja znatno promijenjenih vodnih tijela, postupno smanjenje onečišćenja prioritetnim tvarima te prekid ili postupno zaustavljanje emisija prioritetnih tvari,
+- za podzemne vode - zaštita, poboljšanje i obnavljanje vodnih tijela podzemnih voda te ravnoteža između zahvaćanja i obnavljanja tijela podzemnih voda u cilju postizanja njihovog dobrog kemijskog i količinskog stanja, kao i promjenu svakog znatnog i trajno rastućeg trenda porasta koncentracije bilo koje onečišćujuće tvari, postupno smanjenje onečišćenja prioritetnim tvarima, prekid ili postupno zaustavljanje emisija prioritetnih tvari u tijelima podzemnih voda.
+Pri određivanju ciljeva zaštite vodnog okoliša u Planu se određuju i iznimke i odstupanja, sukladno članku 54. Zakona o vodama, koje se trebaju, na temelju provedenih analiza, detaljno obrazložiti.
