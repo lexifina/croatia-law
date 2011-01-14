@@ -1,0 +1,73 @@
+# Članak 2.
+Iza članka 8. dodaje se novi članak 8.a koji glasi:
+»Članak 8.a
+U djelatnosti medicine rada utvrđuje se broj timova po županiji/Gradu Zagrebu kako slijedi:
+Redni broj
+Naziv županije
+Potreban broj timova
+1
+BJELOVARSKO-BILOGORSKA
+5
+2
+BRODSKO-POSAVSKA
+6
+3
+DUBROVAČKO-NERETVANSKA
+5
+4
+GRAD ZAGREB
+50
+5
+ISTARSKA
+11
+6
+KARLOVAČKA
+5
+7
+KOPRIVNIČKO-KRIŽEVAČKA
+5
+8
+KRAPINSKO-ZAGORSKA
+6
+9
+LIČKO-SENJSKA
+2
+10
+MEĐIMURSKA
+5
+11
+OSJEČKO-BARANJSKA
+13
+12
+POŽEŠKO-SLAVONSKA
+3
+13
+PRIMORSKO-GORANSKA
+16
+14
+SISAČKO-MOSLAVAČKA
+7
+15
+SPLITSKO-DALMATINSKA
+19
+16
+ŠIBENSKO-KNINSKA
+4
+17
+VARAŽDINSKA
+8
+18
+VIROVITIČKO-PODRAVSKA
+3
+19
+VUKOVARSKO-SRIJEMSKA
+6
+20
+ZADARSKA
+7
+21
+ZAGREBAČKA ŽUPANIJA
+6
+UKUPNO
+192
+«
