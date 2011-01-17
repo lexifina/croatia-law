@@ -1,0 +1,1 @@
+Na temelju članka 81. stavka 4. i 5. te članka 82. stavka 4. Zakona o hrani (»Narodne novine« broj 46/2007) ministar poljoprivrede, ribarstva i ruralnog razvoja uz suglasnost ministra nadležnog za zdravstvo donosi
