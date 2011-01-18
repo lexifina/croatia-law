@@ -1,0 +1,4 @@
+# Članak 22.
+(1) Testovi za odobrenje šumskog reprodukcijskog materijala u kategoriji »testiran« moraju biti pripremljeni, raspoređeni, provedeni te rezultati testiranja objašnjeni u skladu s međunarodno priznatim postupcima.
+(2) Kod usporednih testova, šumski reprodukcijski materijal koji se testira mora se usporediti s jednim ili, po mogućnosti, s nekoliko odobrenih ili unaprijed izabranih standarda.
+(3) Za svaki test moraju biti određena svojstva koja se testiraju te stoga testovi moraju biti dizajnirani na način da omoguće ocjenu tih određenih svojstva. Posebnu pozornost treba posvetiti svojstvima prilagođenosti bitnijim biotskim i abiotskim činiteljima, te rasta. Dodatno se, u odnosu na ekološke prilike područja u kojemu se provode testovi, mogu ocijeniti i druga svojstva za koja se smatra da su od značaja u aspektu namjene šumskog reprodukcijskog materijala.

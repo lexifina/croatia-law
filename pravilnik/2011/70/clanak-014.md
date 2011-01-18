@@ -1,0 +1,2 @@
+# Članak 14.
+Tip šumskog sjemenskog objekta, cilj podizanja, dizajn križanja, sistem oprašivanja, raspored na terenu, sastavni dijelovi šumskog sjemenskog objekta, identitet sastavnih dijelova, broj i udio roditeljskih stabala u smjesi ili broj i udio pojedinačnih klonova u klonskoj smjesi, metoda i izvor odabira, način identificiranja klonova prema specifičnim svojstvima, način izolacije i lokacija moraju biti odobreni od Službenog tijela.

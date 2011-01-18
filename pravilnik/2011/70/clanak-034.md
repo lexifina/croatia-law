@@ -1,0 +1,2 @@
+# Članak 34.
+Postupci upisa u Upisnik proizvođača šumskog sjemena započeti prema odredbama Pravilnika o načinu i uvjetima upisa u upisnike iz šumskog sjemenarstva i rasadničarstva (»Narodne novine« br. 82/99) do dana stupanja na snagu ovoga Pravilnika, dovršit će se prema odredbama Pravilnika o načinu i uvjetima upisa u upisnike iz šumskog sjemenarstva i rasadničarstva (»Narodne novine« br. 82/99).
