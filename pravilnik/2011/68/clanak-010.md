@@ -1,0 +1,3 @@
+# Članak 10.
+(1) Pravne i fizičke osobe upisane u Upisnik dorađivača šumskog sjemena, Upisnik uvoznika šumskog sjemena i šumskih sadnica i Upisnik proizvođača šumskih sadnica na temelju Pravilnika o načinu i uvjetima upisa u upisnike iz šumskog sjemenarstva i rasadničarstva (»Narodne novine« br. 82/99) upisuju se u Upisnik po službenoj dužnosti i ostaju upisani 12 mjeseci od dana stupanja na snagu ovoga Pravilnika.
+(2) Pravne i fizičke osobe upisane u Upisnik sukladno stavku 1. ovog članka, a koje se ne usklade s odredbama ovog Pravilnika do isteka roka iz stavka 1. ovoga članka brisat će se po službenoj dužnosti iz Upisnika.
