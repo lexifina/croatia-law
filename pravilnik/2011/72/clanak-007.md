@@ -1,0 +1,4 @@
+# Članak 7.
+(1) Za šumski reprodukcijski materijal sakupljen u šumskim sjemenskim objektima prije 1. siječnja 2007. godine i sav sadni materijal uzgojen iz takvog šumskog reprodukcijskog materijala, Uvjerenje o porijeklu sjemena smatra se jednakovrijednim dokumentom kao i glavna svjedodžba.
+(2) Dobavljači su u obvezi podatke o mjestu gdje se trenutno nalazi, šumskoj svojti, količini i kategoriji šumskog reprodukcijskog materijala i sadnog materijala iz stavka 1. ovog članka, s preslikom pripadajućeg Uvjerenja o porijeklu sjemena dostaviti Službenome tijelu i Ministarstvu u roku od 30 dana od dana stupanja na snagu ovog Pravilnika.
+(3) Samo šumski reprodukcijski materijal i sadni materijal iz stavka 1. ovog članka prijavljen sukladno stavku 2. ovog članka, uz uvjet da ispunjava sve preostale propisane zahtjeve može se koristiti za upotrebu u šumarstvu i stavljati na tržište Republike Hrvatske zaključno do dana pristupanja Republike Hrvatske Europskoj uniji.
