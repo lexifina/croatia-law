@@ -1,0 +1,1 @@
+Na temelju članka 26. stavka 4. Zakona o tržištu električne energije (»Narodne novine«, br. 177/2004, 76/2007 i 152/2008), Vlada Republike Hrvatske je na sjednici održanoj 7. siječnja 2011. godine donijela
