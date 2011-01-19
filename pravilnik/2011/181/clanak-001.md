@@ -1,0 +1,3 @@
+## I. OPĆE ODREDBE
+# Članak 1.
+Ovim Pravilnikom utvrđuje se visina nagrade i naknade troškova javnog bilježnika u provođenju radnji u ovršnom postupku (članak 58. stavak 1. OZ-a), za potvrdu - solemnizaciju: izjave o suglasnosti dužnika po pristanku dužnika radi naplate tražbine vjerovnika na plaći odnosno drugim novčanim primanjima (članak 124. OZ-a), izjave o suglasnosti dužnika radi naplate tražbine određenog vjerovnika zapljenom svih računa kod banaka (zadužnica - članak 125. OZ-a) i izjave o suglasnosti radi naplate tražbine čiji će iznos biti naknadno upisan u ispravi zapljene svih njegovih računa kod banaka (bjanko zadužnica - članak 126. OZ-a), te način njihova obračuna i naplate od strane javnog bilježnika.
