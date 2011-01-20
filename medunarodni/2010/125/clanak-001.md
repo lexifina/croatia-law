@@ -1,0 +1,2 @@
+# Članak 1.
+Potvrđuje se Sporazum između stranaka Sjevernoatlantskog ugovora o suradnji vezano uz atomske podatke s Tajnim tehničkim dodatkom Sporazumu između stranaka Sjevernoatlantskog ugovora o suradnji vezano uz atomske podatke i Povjerljivim sigurnosnim dodatkom Sporazumu između stranaka Sjevernoatlantskog ugovora o suradnji vezano uz atomske podatke, sastavljen u Parizu 18. lipnja 1964., u izvorniku na engleskom i francuskom jeziku, a koji je Republika Hrvatska potpisala 16. travnja 2010.
