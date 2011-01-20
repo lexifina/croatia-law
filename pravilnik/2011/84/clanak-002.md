@@ -1,0 +1,3 @@
+## Svrha
+# Članak 2.
+Svrha ovog Pravilnika je provedba Zakonom propisane obveze javnog sektora, velikog potrošača, potrošača energije koji ima status korisnika sredstava Fonda za zaštitu okoliša i energetsku učinkovitost (u daljnjem tekstu: Fond) te drugog potrošača da upravlja neposrednom potrošnjom energije na učinkovit način te stvaranje uvjeta za isplativu primjenu mjera poboljšanja energetske učinkovitosti i ostvarivanje ciljeva ušteda energije u neposrednoj potrošnji utvrđenih u Strategiji energetskog razvoja Republike Hrvatske, Nacionalnom programu energetske učinkovitosti i Nacionalnom akcijskom planu energetske učinkovitosti u skladu s Direktivom 2006/32/EZ o energetskoj učinkovitosti i energetskim uslugama.

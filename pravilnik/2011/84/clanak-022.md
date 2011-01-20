@@ -1,0 +1,7 @@
+## VI. INSPEKCIJSKI NADZOR
+# Članak 22.
+(1) Nadzor nad provedbom odredbi ovoga Pravilnika obavlja Državni inspektorat.
+(2) Inspektor Državnog inspektorata provodi inspekcijski nadzor ispunjavanja obveze provođenja energetskih pregleda građevine i kontrolnih pregleda sustava grijanja i klimatizacije za obveznike za koje je to propisano ovim Pravilnikom.
+(3) Inspektor Državnog inspektorata provodi inspekcijski nadzor usklađenosti provedenih energetskih pregleda građevine i kontrolnih pregleda sustava grijanja i klimatizacije s ovim Pravilnikom. Državni inspektorat dužan je provesti kontrolu sadržaja izvješća o provedenom energetskom ili kontrolnom pregledu na osnovi statistički značajnog uzorka.
+(4) Inspektor Državnog inspektorata ovlašten je rješenjem narediti obvezniku provođenja energetskog pregleda građevine odnosno kontrolnog pregleda sustava grijanja i klimatizacije da u primjerenom roku provede energetski pregled građevine ili kontrolni pregled sustava grijanja i klimatizacije, odnosno da otkloni nedostatke koji su utvrđeni takvim pregledom.
+(5) Inspektor Državnog inspektorata ovlašten je rješenjem narediti ovlaštenoj osobi za provođenje energetskog pregleda da sadržaj izvješća o provedenom energetskom pregledu ili provedenom kontrolnom pregledu uskladi s ovim Pravilnikom i provede sve potrebne radnje za uklanjanje uočenih nedostataka u izvješću u primjerenom roku. Rješenje se dostavlja Ministarstvu.

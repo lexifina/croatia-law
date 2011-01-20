@@ -1,0 +1,1 @@
+Na temelju članka 19. stavak 6., članka 20., stavak 2. i članka 21. stavak 2. Zakona o učinkovitom korištenju energije u neposrednoj potrošnji (»Narodne novine« broj 152/08), ministar gospodarstva, rada i poduzetništva donosi
