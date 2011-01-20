@@ -1,0 +1,2 @@
+# Članak 2.
+Svrha zaštitne mjere obveznog liječenja od ovisnosti je da se njenom provedbom spriječi nasilje u obitelji otklanjanjem okolnosti koje pogoduju ili poticajno djeluju na počinjenje novog nasilja u obitelji koje se čini pod djelovanjem ovisnosti o alkoholu ili opojnih droga u cilju poboljšanja općeg zdravstvenog stanja počinitelja nasilja u obitelji koji je nasilje počinio pod djelovanjem ovisnosti o alkoholu ili opojnim drogama (u daljnjem tekstu: počinitelj nasilja u obitelji) i njegove socijalne rehabilitacije i reintegracije.

@@ -1,0 +1,3 @@
+# Članak 10.
+Liječnik, odnosno terapijski tim zdravstvene ustanove obvezan je izvijestiti sud o datumu kada se počinitelj nasilja u obitelji javio na liječenje, datumu početka liječenja te mjestu liječenja.
+Ako se počinitelj nasilja koji je nasilje počinio pod djelovanjem ovisnosti o alkoholu ili opojnim drogama nije javio u nadležnu zdravstvenu ustanovu sukladno člancima 3. i 4. ovoga Pravilnika u roku određenom odlukom suda radi provođenja zaštitne mjere obveznog liječenja od ovisnosti, terapijski tim obvezan je u roku od 14 dana od isteka roka koji je odlukom suda određen za javljanje u nadležnu zdravstvenu ustanovu sukladno člancima 3. i 4. ovoga Pravilnika, izvijestiti sud o tome.

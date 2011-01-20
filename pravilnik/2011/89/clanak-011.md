@@ -1,0 +1,2 @@
+# Članak 11.
+Ako počinitelj nasilja u obitelji ne dolazi na liječenje sukladno individualnom programu liječenja ili kad terapijski tim koji provodi liječenje procijeni da redovito liječenje neće dovesti do promjene u ponašanju počinitelja liječnik, odnosno terapijski tim zdravstvene ustanove obvezan je izvijestiti nadležno tijelo sukladno članku 22. stavku 3. Zakona o zaštiti od nasilja u obitelji.
