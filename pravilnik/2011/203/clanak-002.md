@@ -1,0 +1,2 @@
+# Članak 2.
+U postupcima izrade i donošenja prostornih planova na odgovarajući način primjenjuju se pravna pravila Pravilnika o sadržaju, mjerilima kartografskih prikaza, obveznim prostornim pokazateljima i standardu elaborata prostornih planova (»Narodne novine« br. 106/98., 39/04. i 45/04. - ispravak) koja nisu u suprotnosti s Zakonom o prostornom uređenju i gradnji (»Narodne novine« broj 76/2007 i 38/2009).
