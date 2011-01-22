@@ -1,0 +1,1 @@
+Pravilnik o sadržaju i trajanju obrazovnog programa, uvjetima za pristup ispitu, postupku provođenja ispita za stjecanje zvanja ovlaštenog upravitelja mirovinskih fondova i uvjetima za dobivanje licence i važenje licence ovlaštenog upravitelja mirovinskih fondova
