@@ -1,0 +1,2 @@
+# Članak 21.
+Danom primjene ove odluke prestaje važiti Odluka o gradskim porezima i o prirezu porezu na dohodak od 28. 11. 2001. g. (»Službeni vjesnik Šibensko-kninske županije«, br. 19/01), Odluka o izmjenama i dopunama Odluke o gradskim porezima i o prirezu poreza na dohodak od 9. 3. 2007. g. (»Službeni vjesnik Šibensko-kninske županije«, br. 5/07) i Odluka o izmjeni i dopuni Odluke o gradskim porezima i o prirezu poreza na dohodak od 16. 4. 2010. g. (»Službeni vjesnik Šibensko-kninske županije«, br. 6/10).
