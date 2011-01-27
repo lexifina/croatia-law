@@ -1,0 +1,1 @@
+Na temelju članka 30. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 101/98, 15/2000, 117/2001, 199/2003, 30/2004 i 77/2009) i članka 3. stavka 2. Zakona o zaštiti na radu (»Narodne novine«, br. 59/96, 94/96, 114/2003, 100/2004, 86/2008, 116/2008 i 75/2009), Vlada Republike Hrvatske je na sjednici održanoj 27. siječnja 2011. godine donijela
