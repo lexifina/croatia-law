@@ -1,0 +1,1 @@
+Na temelju odredbi članka 15. točke 1. Zakona o Hrvatskoj agenciji za nadzor financijskih usluga (»Narodne novine« br. 140/05) te članaka 20. i 21. stavka 5. Zakona o obveznim i dobrovoljnim mirovinskim fondovima (»Narodne novine« br. 49/99, 63/00, 103/03, 177/04, 71/07 i 124/10) Hrvatska agencija za nadzor financijskih usluga na sjednici održanoj 13. siječnja 2011. godine donosi
