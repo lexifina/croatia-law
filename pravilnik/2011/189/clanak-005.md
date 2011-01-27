@@ -1,0 +1,2 @@
+# Članak 5.
+Agencija će prilikom odlučivanja o zahtjevu za izdavanje suglasnosti za obavljanje funkcije člana uprave i člana nadzornog odbora mirovinskog društva uzeti u obzir sve elemente koji mogu utjecati na ocjenu ispunjava li osoba postavljene uvjete, a u cilju osiguranja aktivnosti mirovinskog društva u svim okolnostima i zaštite članova mirovinskih fondova kojima to mirovinsko društvo upravlja.

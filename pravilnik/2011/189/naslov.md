@@ -1,0 +1,1 @@
+Pravilnik o uvjetima kojima članovi uprave i nadzornog odbora mirovinskog društva moraju udovoljavati, sadržaju zahtjeva i dokumentaciji koja se prilaže uz zahtjev za izdavanje suglasnosti za obavljanje funkcije člana uprave i nadzornog odbora mirovinskog društva
