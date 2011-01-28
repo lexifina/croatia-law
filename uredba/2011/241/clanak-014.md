@@ -1,0 +1,2 @@
+# Članak 14.
+Vrijeme trajanja koncesije na zahtjev, računa se od dana podnošenja zahtjeva.

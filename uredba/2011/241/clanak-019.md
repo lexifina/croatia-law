@@ -1,0 +1,5 @@
+## PRIJELAZNE I ZAVRŠNE ODREDBE
+# Članak 19.
+(1) Do okončanja postupka davanja koncesije na zahtjev trgovačkog društva na turističkom zemljištu u suvlasništvu Republike Hrvatske, u kampu, trgovačko društvo je u obvezi plaćanja koncesijske naknade od dana podnošenja zahtjeva. Nakon okončanja postupka dodjele koncesije trgovačko društvo je obvezno zajedno sa sljedećim obrokom naknade doplatiti razliku, ili je ovlašteno umanjiti iznos naknade za preplaćeni iznos koncesijske naknade.
+(2) Visina naknade iz stavka 1. ovoga članka određuje se na način propisan ovom Uredbom, a trgovačko društvo dužno je ½ dijela te naknade, kao zajednički prihod državnog, županijskog i gradskog/općinskog proračuna, uplatiti po ispostavljenom računu, i to u iznosu od 60% u Fond za turizam, a preostalih 40% u proračun županije i grada/općine na čijem se području nalazi kamp, svakome u jednakim dijelovima.
+(3) Ministarstvo turizma dužno je račun za uplatu stalnog dijela koncesijske naknade ispostaviti trgovačkom društvu do 30. lipnja, a za uplatu promjenjivog dijela koncesijske naknade do posljednjeg dana veljače iduće godine.
