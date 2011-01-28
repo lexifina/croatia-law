@@ -1,0 +1,2 @@
+# Članak 3.
+Tržišna vrijednost preostalog turističkog zemljišta u vlasništvu jedinice lokalne samouprave na kojem je društveno poduzeće imalo pravo korištenja, upravljanja i raspolaganja, koje nije procijenjeno u vrijednosti društvenoga kapitala, a za koje je na temelju posebnog propisa utvrđeno da služi za redovitu uporabu građevine, utvrđuje se na temelju elaborata ovlaštenog sudskog vještaka izrađenog primjenom usporedne metode (komparativna metoda, metoda tržišnoga uspoređivanja, metoda uspoređivanja vrijednosti), po odabiru jedinice lokalne samouprave.

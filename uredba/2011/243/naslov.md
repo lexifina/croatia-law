@@ -1,0 +1,1 @@
+Uredba o načinu, postupku i uvjetima procjene vrijednosti i prodaje turističkog zemljišta u vlasništvu jedinice lokalne samouprave te načinu, postupku i uvjetima za dobivanje koncesije na preostalom turističkom zemljištu u vlasništvu jedinice lokalne samouprave

@@ -1,0 +1,5 @@
+## PRIJELAZNE I ZAVRŠNE ODREDBE
+# Članak 24.
+(1) Do okončanja postupka davanja koncesije na zahtjev trgovačkog društva na preostalom turističkom zemljištu u vlasništvu jedinice lokalne samouprave, trgovačko društvo u obvezi je plaćanja koncesijske naknade od dana podnošenja zahtjeva. Nakon okončanja postupka dodjele koncesije trgovačko je društvo obvezno zajedno sa sljedećim obrokom naknade doplatiti razliku, ili ovlašteno umanjiti iznos plaćene naknade za preplaćeni iznos koncesijske naknade.
+(2) Visina naknade iz stavka 1. ovoga članka određuje se na način propisan ovom Uredbom, a trgovačko društvo dužno je ½ dijela te naknade, kao zajednički prihod državnog, županijskog i gradskog/općinskog proračuna, uplatiti po ispostavljenom računu, u iznosu od 60% u Fond za turizam, a preostalih 40% u proračun županije i grada/općine na čijem se području nalazi zemljište, svakome u jednakim dijelovima.
+(3) Jedinica lokalne samouprave dužna je račun za uplatu stalnog dijela koncesijske naknade ispostaviti trgovačkom društvu do 30. lipnja, a za uplatu promjenjivog dijela koncesijske naknade do posljednjeg dana veljače iduće godine.

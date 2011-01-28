@@ -1,0 +1,2 @@
+# Članak 14.
+U slučaju da se za vrijeme trajanja ugovora o koncesiji promijeni srednji devizni tečaj Hrvatske narodne banke, za kunu u odnosu na euro i to za +/- 3%, mijenja se i iznos stalnog dijela koncesijske naknade sukladno promjeni tečaja. Davatelj koncesije pridržava pravo, jednom godišnje, izmijeniti visinu stalnog dijela koncesijske naknade u svrhu usklađivanja naknade sa službenim indeksima promjene vrijednosti novca.

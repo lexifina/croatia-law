@@ -1,0 +1,4 @@
+# Članak 23.
+(1) Kad Povjerenstvo iz članka 20. ove Uredbe izvijesti davatelja koncesije, sukladno članku 22. ove Uredbe, davatelj koncesije pozvat će koncesionara da se u roku od 30 dana od dana dostave poziva, ako u odluci i ugovoru o koncesiji nije određen drugi rok, izjasni o razlozima zbog kojih mu se može oduzeti koncesija, te uskladi svoje postupanje s ugovorom o koncesiji.
+(2) Ako ovlaštenik koncesije u ostavljenom roku ne otkloni uočene nedostatke i uspostavi stanje kakvo odgovara ugovornim odredbama i Zakonu, davatelj koncesije ima pravo otkazati ugovor o koncesiji.
+(3) Odluka o otkazu ugovora o koncesiji mora biti u pisanom obliku i dostavljena koncesionaru te obavezno mora sadržavati rok za napuštanje zemljišta. Rok za napuštanje zemljišta ne može biti kraći od 90 dana od dana stupanja na snagu odluke o otkazu koncesije.
