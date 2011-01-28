@@ -1,0 +1,1 @@
+Uredba o načinu i postupku procjene vrijednosti turističkog zemljišta, odnosno građevina u kampovima, načinu isplate kod civilne diobe, načinu utvrđivanja tržišne cijene ostalog građevinskog zemljišta za koje je na temelju posebnog propisa utvrđeno da služi za redovitu uporabu građevine

@@ -1,0 +1,2 @@
+# Članak 1.
+Ovom Uredbom propisuje se način i postupak procjene vrijednosti turističkog zemljišta, odnosno građevina u kampovima, način utvrđivanja tržišne vrijednosti suvlasničkog dijela turističkog zemljišta i građevina u kampovima i isplate toga dijela kod razvrgnuća suvlasničke zajednice i način utvrđivanja tržišne cijene zemljišta za koje je na temelju posebnog propisa utvrđeno da služi za redovitu uporabu građevine.

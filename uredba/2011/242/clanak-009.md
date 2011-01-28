@@ -1,0 +1,2 @@
+# Članak 9.
+Tržišna vrijednost ostalog građevinskog zemljišta u vlasništvu Republike Hrvatske za koje je na temelju posebnog propisa utvrđeno da služi za redovitu uporabu građevine utvrđuje se na temelju elaborata ovlaštenog sudskog vještaka izrađenog primjenom usporedne metode (komparativna metoda, metoda tržišnoga uspoređivanja, metoda uspoređivanja vrijednosti), po odabiru onog suvlasnika koji predloži postupak diobe.
