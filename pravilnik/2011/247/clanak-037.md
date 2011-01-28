@@ -1,0 +1,10 @@
+## Kontrola na terenu potpora vezano za stoku
+# Članak 37.
+(1) Kontrole na terenu obuhvaćaju kontrolu svih životinja za koje su podneseni zahtjevi za potporu u sklopu vrste potpore koje treba provjeriti, a kod provjere vrste potpore za goveda kontrole obuhvaćaju i goveda za koja nisu podneseni zahtjevi. Kontrole na terenu posebno obuhvaćaju provjeru kojom se potvrđuje da broj životinja prisutnih na gospodarstvu za koje su podneseni zahtjevi odgovara broju životinja upisanih u odgovarajući registar životinja na gospodarstvu i broju životinja prijavljenih u JRDŽ.
+(2) Kontrole na terenu u vezi s vrstama potpore za goveda također mogu obuhvaćati provjeru:
+- pravilnosti upisa u Registar goveda na gospodarstvu i prijavu u JRDŽ pregledom popratnih dokumenata, poput računa o kupnji i prodaji, potvrda o klanju, veterinarskih svjedodžbi i, prema potrebi, putnih listova za životinje, u vezi sa životinjama za koje su podneseni zahtjevi za potporu u razdoblju od šest mjeseci prije kontrole na terenu; međutim, ako se utvrde nepravilnosti, provjere se mogu produljiti na 12 mjeseci prije kontrole na terenu;
+- da podaci za goveda u Registru goveda na gospodarstvu odgovaraju podacima prijavljenim u JRDŽ za koja su podneseni zahtjevi za potporu u razdoblju od šest mjeseci prije kontrole na terenu; međutim, ako se utvrde nepravilnosti, provjera se produljuje na 12 mjeseci prije kontrole na terenu;
+- da su sve životinje koje se nalaze na gospodarstvu i drže se u obveznom uzgoju prihvatljive za potporu za koju je podnesen zahtjev;
+- da su sva goveda koja se nalaze na gospodarstvu identificirana ušnim markicama i, prema potrebi, putnim listovima za životinje, da su upisana u Registar goveda na gospodarstvu i pravilno prijavljena u JRDŽ.
+- provjeru na temelju Registra goveda na gospodarstvu, da su sve životinja za koje su podneseni zahtjevi za potporu držane na gospodarstvu u čitavom razdoblju obveznog uzgoja.
+(3) Sve kontrole iz stavaka 1. i 2. ovoga članka na pojedinom gospodarstvu obavljaju se na temelju uzorka od ukupnog broja životinja.

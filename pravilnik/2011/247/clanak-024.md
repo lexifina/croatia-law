@@ -1,0 +1,15 @@
+## 3. POSEBNI UVJETI ZA MJERE RURALNOG RAZVOJA
+## Ekološka poljoprivredna proizvodnja - oranice, povrće, višegodišnji nasadi, livade i pašnjaci
+# Članak 24.
+(1) Korisnik podnosi Zahtjev za potporu za ekološku poljoprivrednu proizvodnju - oranice, povrće, višegodišnji nasadi, livade i pašnjaci - na listu A i prijavljuje površine pod oranicama, povrćem, višegodišnjim nasadima, livadama i pašnjacima na listu B iz Priloga 2. ovoga Pravilnika za površine prijavljene u ARKOD sustav kao ekološke.
+(2) Korisnik potpore za ekološku proizvodnju je poljoprivredno gospodarstvo koje je u trenutku podnošenja Zahtjeva upisano u Upisnik subjekata u ekološkoj proizvodnji pri Ministarstvu.
+(3) Korisnik koji do trenutka podnošenja Zahtjeva nije upisan u Upisnik iz prethodnog stavka ovoga članka, obavezan je ekološku proizvodnju podvrgnuti stručnoj kontroli najkasnije do 15. lipnja 2011. godine i upisati se u Upisnik subjekata u ekološkoj proizvodnji pri Ministarstvu najkasnije do 15. srpnja 2011. godine.
+(4) Odredba stavka 3. ovoga članka ne odnosi se na ekološku proizvodnju poljoprivrednih kultura koje su zasijane u 2010. godini.
+(5) Ovlaštena kontrolna tijela za ekološku poljoprivrednu proizvodnju dužna su do 31. prosinca tekuće godine u elektroničkom obliku dostaviti Agenciji za plaćanja podatke o površini i kulturi unutar ARKOD parcela na kojima je potvrđena ekološka proizvodnja.
+(6) Pravo na potporu za ekološku poljoprivrednu proizvodnju u tekućoj godini ne ostvaruje Korisnik na čijim ARKOD parcelama nije potvrđena ekološka proizvodnja i Korisnik koji ne ispunjava uvjete iz stavka 2. i 3. ovoga članka.
+(7) Korisnik potpore za ekološku proizvodnju dužan je površine ARKOD parcela za koje je podnio zahtjev za potporu za ekološku poljoprivrednu proizvodnju u 2011. godini držati u sustavu ekološke poljoprivredne proizvodnje najmanje još iduće četiri godine.
+(8) U slučaju da Korisnik površine ARKOD parcele iz stavka 7. ovoga članka ne drži u sustavu ekološke proizvodnje još iduće četiri godine od podnošenja zahtjeva za potporu za ekološku poljoprivrednu proizvodnju u 2011. godini, dužan je na zahtjev Agencije za plaćanja vratiti sva sredstva potpore za ekološku proizvodnju koja su mu isplaćena za te parcele po osnovi ostvarenog prava od 2011. godine, osim u slučaju više sile.
+(9) Viša sila iz stavka 8. ovoga članka je vanjski nepovoljni utjecaj koji nije bilo moguće predvidjeti, spriječiti niti ukloniti, nastao zbog elementarne nepogode, smrti Korisnika, privremene ili trajne nesposobnosti Korisnika za rad. U slučaju više sile Korisnik je dužan u pisanom obliku izvijestiti Agenciju za plaćanja uz prilaganje odgovarajućeg dokaza.
+(10) U smislu ovoga Pravilnika višegodišnji nasadi su trajni nasadi definirani Zakonom.
+(11) Korisnik potpore iz stavka 1. ovoga članka kojem poljoprivredni inspektor rješenjem zabrani proizvodnju odnosno naredi usklađivanje sa Zakonom o ekološkoj proizvodnji i označavanju ekoloških proizvoda ne ostvaruje pravo na potporu za tu vrstu proizvodnje do usklađenja proizvodnje s tim Zakonom.
+(12) Jedan primjerak rješenja iz stavka 7. ovoga članka dostavlja se Agenciji za plaćanja.

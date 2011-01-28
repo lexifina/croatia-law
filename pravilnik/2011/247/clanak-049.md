@@ -1,0 +1,3 @@
+## Umanjenja i isključenja plaćanja u slučaju nepravilnosti vezano uz višestruku sukladnost
+# Članak 49.
+Ako se kontrolom na terenu i/ili inspekcijskim nadzorom u bilo kojem trenutku u kalendarskoj godini utvrdi da nisu poštivani uvjeti višestruke sukladnosti, te je takvo neispunjavanje uvjeta posljedica djelovanja ili propusta za koje je izravno odgovoran Korisnik koji je u toj kalendarskoj godini podnio zahtjev za potporu, ukupni iznos izravnih plaćanja, koja su dodijeljena ili koja se trebaju dodijeliti tome Korisniku Agencija za plaćanja smanjuje ovisno o namjeri ili nemarnosti, opsegu, trajanju i ponavljanju utvrđene nesukladnosti u skladu s pravilima utvrđenim u Pravilniku o uvjetima višestruke sukladnosti u poljoprivrednoj proizvodnji.
