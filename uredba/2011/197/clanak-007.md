@@ -1,0 +1,8 @@
+## Mjerodavno tržište u posebnim slučajevima
+# Članak 7.
+(1) Mjerodavno tržište u proizvodnom smislu u posebnim slučajevima može se utvrditi za jedan proizvod ili za skupinu proizvoda, ovisno o strukturi tržišta i navikama potrošača.
+(2) Pri utvrđivanju mjerodavnog tržišta, u smislu stavka 1. ovoga članka, treba voditi računa i o drugim posebnim okolnostima i uvjetima na nekom tržištu. To se, u pravilu, odnosi na komplementarne proizvode, naročito ako se povećanje cijene bilo kojeg proizvoda (sekundarni proizvod, odnosno sekundarno tržište) koji je sastavni dio komplementarnog proizvoda izravno odražava na povećanje cijene mjerodavnog proizvoda (primarni proizvod, odnosno primarno tržište).
+(3) Iznimno od članka 6. stavka 1. ove Uredbe, mjerodavno tržište u zemljopisnom smislu može biti utvrđeno na međunarodnoj razini.
+(4) Pod određenim uvjetima, uzimajući u obzir sve konkretne okolnosti i činjenice, mjerodavno tržište u zemljopisnom smislu, može biti, u smislu stavka 3. ovoga članka, utvrđeno na međunarodnoj ili svjetskoj razini, a naročito u slučajevima:
+a) ako je riječ o proizvodima koje određene skupine kupaca, odnosno poduzetnika s prebivalištem ili sjedištem u Republici Hrvatskoj kupuju od fizičkih ili pravnih osoba ili njihovih udruženja, odnosno poduzetnika s prebivalištem ili sjedištem izvan Republike Hrvatske (primjerice kada zbog troškova prijevoza mjerodavni proizvodi na krajnjim točkama tržišta utvrđenima člankom 6. stavkom 1. ove Uredbe nisu međusobno zamjenjivi), i/ili
+b) ako je riječ o proizvodima koje hrvatski poduzetnici prodaju kupcima s prebivalištem ili sjedištem izvan Republike Hrvatske (primjerice kada se hrvatski poduzetnici javljaju kao ponuditelji na međunarodnim javnim nadmetanjima).
