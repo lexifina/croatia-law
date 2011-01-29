@@ -1,0 +1,9 @@
+## II. UVJETI KOJE SPORAZUM MORA SADRŽAVATI I OSTALI UVJETI KOJI SE MORAJU ISPUNITI
+## Tržišni udjel
+# Članak 5.
+(1) Skupno izuzeće za sporazume iz članka 3. ove Uredbe primjenjuje se pod uvjetom da ukupan tržišni udjel sudionika sporazuma na utvrđenom mjerodavnom tržištu tehnologije i mjerodavnom tržištu proizvoda nije veći od 20% u slučaju da je riječ o sporazumu sklopljenom između konkurenata.
+(2) Skupno izuzeće za sporazume iz članka 3. ove Uredbe primjenjuje se pod uvjetom da tržišni udjel svakog sudionika sporazuma na utvrđenom mjerodavnom tržištu tehnologije i mjerodavnom tržištu proizvoda nije veći od 30% u slučaju da je riječ o sporazumu sklopljenom između poduzetnika koji nisu konkurenti.
+(3) Tržišni udjel sudionika sporazuma na mjerodavnom tržištu tehnologije, u smislu stavaka 1. i 2. ovoga članka, utvrđuje se kao zastupljenost te licencirane tehnologije na mjerodavnom tržištu proizvoda.
+(4) Poduzetnici se smatraju stvarnim konkurentima na mjerodavnom tržištu tehnologija, u smislu stavka 1. ovoga članka, ako se natječu na mjerodavnom tržištu tehnologija ustupajući licencije za zamjenske tehnologije i pritom ne krše prava intelektualnog vlasništva drugih poduzetnika.
+(5) Poduzetnici se smatraju stvarnim konkurentima na mjerodavnom tržištu proizvoda, u smislu stavka 1. ovoga članka, ako su oba aktivna na tom tržištu, u proizvodnom i zemljopisnom smislu, na kojem se prodaju proizvodi koji su predmet sporazuma i pritom ne krše međusobno prava intelektualnog vlasništva.
+(6) Potencijalni konkurenti na mjerodavnom tržištu tehnologija i mjerodavnom tržištu proizvoda, u smislu stavka 1. ovoga članka, su poduzetnici koji bi u razumnom roku mogli poduzeti dodatna ulaganja ili druge potrebne promjene strukture troškova nužne za pristup tom mjerodavnom tržištu, kao odgovor na malo, ali stalno povećanje cijena, pod uvjetom da pritom ne krše međusobno prava intelektualnog vlasništva.

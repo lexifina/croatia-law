@@ -1,0 +1,8 @@
+## Ostala ograničenja, odnosno zabranjene obveze u sporazumima
+# Članak 10.
+(1) Skupno izuzeće ne može se primijeniti na sljedeće obveze sadržane u sporazumima o prijenosu tehnologije:
+a) neposredne ili posredne obveze stjecatelja licencije da davatelju licencije ili trećoj strani koju odredi davatelj licencije ustupi isključivu licenciju koja se odnosi na njegova vlastita dodatna poboljšanja ili na njegove vlastite nove aplikacije licencirane tehnologije,
+b) neposredne ili posredne obveze stjecatelja licencije da na davatelja licencije ili trećoj strani koju odredi davatelj licencije, u cijelosti ili djelomično, prenese prava koja se odnose na njegova vlastita dodatna poboljšanja ili na njegove vlastite nove aplikacije licencirane tehnologije,
+c) neposredne ili posredne obveze stjecatelja licencije da ne osporava valjanost prava intelektualnog vlasništva koja davatelj licencije ima na mjerodavnom tržištu, ne isključujući mogućnost raskida ugovora o prijenosu tehnologije u slučaju da stjecatelj licencije osporava valjanost jednog ili više licenciranih prava intelektualnog vlasništva.
+(2) U slučaju da sudionici sporazuma nisu konkurenti na mjerodavnom tržištu, skupno izuzeće se neće primjenjivati na sporazume o prijenosu tehnologije koji sadrže neposredne ili posredne obveze kojima se ograničavaju prava stjecatelja licencije na iskorištavanje njegove vlastite tehnologije ili ograničavaju prava bilo koje ugovorne strane na provođenje istraživanja i razvoja, osim ako je takvo ograničenje neophodno za sprječavanje otkrivanja licenciranog know-how trećoj strani.
+(3) Dodatna poboljšanja iz stavka 1. točaka a) i b) ovoga članka su ona poboljšanja koja se mogu koristiti a da se time ne krše prava obuhvaćena licenciranom tehnologijom.
