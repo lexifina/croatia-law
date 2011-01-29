@@ -1,0 +1,5 @@
+## Tržišni udjel kod paralelne mreže sporazuma
+# Članak 4.
+(1) Iznimno od članka 3. stavka 2. ove Uredbe, u slučaju postojanja paralelne mreže sporazuma koje su sklopili različiti dobavljači ili distributeri, a koje imaju kumulativni učinak na narušavanje tržišnog natjecanja, neznatnim tržišnim udjelom za sudionike takvih sporazuma i poduzetnike pod njihovom kontrolom smatra se tržišni udjel od 5%, kako za sporazume sklopljene između stvarnih ili potencijalnih konkurenata, tako i za sporazume sklopljene između poduzetnika koji nisu stvarni ili potencijalni konkurenti.
+(2) Smatra se da pojedini dobavljači ili distributeri s tržišnim udjelom koji nije veći od 5% na mjerodavnom tržištu ne doprinose značajno kumulativnom učinku sprječavanja, ograničavanja ili narušavanja tržišnog natjecanja (u daljnjem tekstu: narušavanje tržišnog natjecanja) u smislu stavka 1. ovoga članka.
+(3) Smatra se da nije vjerojatno postojanje značajnog narušavanja tržišnog natjecanja na mjerodavnom tržištu ako je manje od 30% mjerodavnog tržišta obuhvaćeno paralelnom mrežom sporazuma iz stavka 1. ovoga članka.
