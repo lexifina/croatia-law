@@ -1,0 +1,1 @@
+Na temelju članka 12. stavka 5. Zakona o sigurnosti prometa na cestama (»Narodne novine«, br. 67/08. i 48/10.) ministar mora, prometa i infrastrukture u suglasnosti s ministrom unutarnjih poslova donosi
