@@ -1,0 +1,2 @@
+# Članak 1.
+Naziv projekta određen u članku 1. stavcima 1. i 2. Ugovora između Vlade Republike Hrvatske i Vlade Savezne Republike Njemačke o financijskoj suradnji (2002. godina), mijenja se tako da umjesto »Lokalna opskrba vodom i zbrinjavanje otpadnih voda na južnoj obali Jadrana« ab initio glasi »Vodoopskrba i zbrinjavanje otpadnih voda u Republici Hrvatskoj, faza II«. Time se projekt odnosi na cijelo državno područje Republike Hrvatske.
