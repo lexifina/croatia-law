@@ -1,0 +1,1 @@
+Na temelju članka 116. stavka 4. Zakona o platnom prometu (»Narodne novine«, br. 133/2009.), članka 75. stavka 4. Zakona o elektroničkom novcu (»Narodne novine«, br. 139/2010.) i članka 43. stavka 2. točke 9. Zakona o Hrvatskoj narodnoj banci (»Narodne novine«, br. 75/2008.) guverner Hrvatske narodne banke donosi
