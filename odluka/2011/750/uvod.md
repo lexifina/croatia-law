@@ -1,0 +1,1 @@
+Na temelju članka 8. Zakona o prihvaćanju članstva Republike Hrvatske u Europskoj banci za obnovu i razvoj (»Narodne novine«, broj 25/93), te članka 4. stavka 3. i članka 5. stavka 3. Sporazuma o osnivanju Europske banke za obnovu i razvoj (»Narodne novine - Međunarodni ugovori«, broj 4/93), Vlada Republike Hrvatske je na sjednici održanoj 3. veljače 2011. godine donijela
