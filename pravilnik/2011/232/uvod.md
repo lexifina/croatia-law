@@ -1,0 +1,1 @@
+Na temelju članka 15. točke 5. i 8. Zakona o Hrvatskoj agenciji za nadzor financijskih usluga (»Narodne novine« br. 140/05) i članka 22. stavka 2. i članka 30. stavka 2. Zakona o investicijskim fondovima (»Narodne novine« br. 150/05, dalje: Zakon), Hrvatska agencija za nadzor financijskih usluga (dalje: Agencija) donijela je na sjednici održanoj 20. siječnja 2011. godine
