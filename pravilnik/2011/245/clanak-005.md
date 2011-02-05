@@ -1,0 +1,4 @@
+# Članak 5.
+(1) Potpora osiguranju proizvodnje se ostvaruje nakon cjelovite isplate ugovorene ukupne premije osiguranja po pojedinoj polici osiguranja, odnosno plaćene premije po skupnoj polici osiguranja i iznosi 25% troška zaračunate ukupne premije osiguranja, odnosno premije po skupnoj polici osiguranja, bez obzira na osigurani rizik za koji je sklopljena polica osiguranja.
+(2) Maksimalni iznos potpore iz stavka 1. ovoga članka za osiguranje proizvodnje u tijeku jedne godine po pojedinoj pravnoj ili fizičkoj osobi kada je ona osiguranik ili ugovaratelj osiguranja po skupnoj polici iznosi 500.000,00 kuna.
+(3) Pri osiguranju proizvodnje na višegodišnje trajanje, osiguranik ima pravo na pokriće troška premije za pojedino jednogodišnje osiguravateljsko razdoblje i uz prilaganje za to odgovarajuće police osiguranja.
