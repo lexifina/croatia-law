@@ -1,0 +1,7 @@
+## Izdavanje odobrenja za obavljanje prijevoza
+# Članak 13.
+(1) Uprava za veterinarstvo može ograničiti područje koje obuhvaća odobrenje iz članka 10. stavka 1. ili, za duga putovanja, članka 11. stavka 1. ovoga Pravilnika, prema kriterijima koji se mogu provjeriti tijekom prijevoza.
+(2) Uprava za veterinarstvo svakom odobrenju iz članka 10. stavka 1. ili, za duga putovanja, članka 11. stavka 1. i stavka 3. ovoga Pravilnika dodjeljuje jedinstveni broj. Odobrenje se sastavlja na hrvatskom te na engleskom jeziku kad postoji mogućnost da prijevoznik obavlja prijevoz u drugim zemljama.
+(3) Uprava za veterinarstvo označava odobrenje iz članka 10. stavka 1. ili članka 11. stavka 1. i 3. ovoga Pravilnika na način koji će omogućiti brzo identificiranje prijevoznika, osobito u slučaju postupanja protivno odredbama ovoga Pravilnika.
+(4) Uprava za veterinarstvo vodi evidenciju o odobrenjima izdanima na temelju članka 11. stavka 1. i 3. ovoga Pravilnika u elektroničkoj bazi podataka. Naziv prijevoznika i broj odobrenja javno su dostupni dok je odobrenje važeće. Pristup javnosti drugim podacima koji se odnose na odobrenja o obavljanju prijevoza odobrava se u skladu s posebnim propisima o zaštiti privatnosti. U bazu podataka trebaju biti uključene i odluke iz članka 26. stavka 4. točke (c) i članka 26. stavka 6. ovoga Pravilnika.
+Pregledi i druge mjere koje se odnose na dnevnik puta koje provodi veterinarski inspektor/službeni veterinar prije dugih putovanja

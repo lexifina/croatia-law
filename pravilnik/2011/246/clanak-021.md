@@ -1,0 +1,11 @@
+## Pregledi na izlaznim točkama i graničnim inspekcijskim postajama
+# Članak 21.
+(1) Ne isključujući provedbu pregleda određenih posebnim propisima[8] kad životinje dođu na izlazne točke ili granične inspekcijske postaje, granični veterinarski inspektor mora provjeriti da se životinje prevoze u skladu s ovim Pravilnikom, a posebno:
+(a) da su prijevoznici dali na uvid valjano odobrenje iz članka 10. stavka 1. odnosno za duga putovanja iz članka 11. stavka 1. ili 3. ovoga Pravilnika;
+(b) da su vozači cestovnih vozila koji prevoze domaće kopitare, domaće životinje goveđih, ovčjih, kozjih i svinjskih vrsta ili perad i pratitelji dali na uvid valjanu svjedodžbu o osposobljenosti propisanu člankom 17. stavkom 2. ovoga Pravilnika;
+(c) da su životinje sposobne nastaviti putovanje;
+(d) da prijevozna sredstva kojima životinje nastavljaju putovanje udovoljavaju odredbama iz Poglavlja II. i, gdje je to primjenjivo, Poglavlja VI. Dodatka I. ili Dodatka VII. ovoga Pravilnika;
+(e) da su u slučaju izvoza prijevoznici osigurali dokaz da je putovanje iz mjesta polaska do prvog mjesta istovara na konačnom odredištu u skladu s odredbama iz Dodatka V. ovoga Pravilnika;
+(f) jesu li domaći kopitari i domaće životinje vrste goveda, ovaca, koza ili svinja prevezene ili će se prevoziti na dugim putovanjima.
+(2) U slučaju dugih putovanja na kojima se prevoze domaći kopitari i domaće životinje vrste goveda, ovaca, koza ili svinja, granični veterinarski inspektor na izlaznim točkama i graničnim inspekcijskim postajama obavlja i evidentira preglede/kontrole navedene u Dijelu 3. dnevnika puta iz Dodatka II. ovoga Pravilnika. Evidenciju o tim pregledima i pregledu iz stavka 1. ovoga članka čuva granična veterinarska postaja tijekom razdoblja od najmanje tri godine od datuma pregleda, uključujući primjerak evidencijske liste ili ispisa u skladu sa Zakonom o radnom vremenu, obveznim odmorima mobilnih radnika i uređajima za bilježenje u cestovnom prijevozu (»Narodne novine«, broj 60/08, 124/10) i Pravilnikom o tahografu i ograničivaču brzine (»Narodne novine«, broj 89/08 i 48/09)7, ako je vozilo obuhvaćeno navedenim propisima.
+(3) Kad veterinarski inspektor/službeni veterinar smatra da životinje nisu sposobne završiti svoje putovanje, naređuje njihov istovar, napajanje, hranjenje i odmor.
