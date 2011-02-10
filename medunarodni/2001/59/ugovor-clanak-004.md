@@ -1,0 +1,3 @@
+# Članak 4.
+Obveza prihvata neće se primjenjivati na državljane ugovornih stranaka koje su u drugoj ugovornoj stranci dobili status privremene zaštite, bez obzira da li su u međuvremenu do stupanja na snagu ovoga Sporazuma izgubili taj status ili će im taj status biti oduzet nakon njegova stupanja na snagu, osim onih koji su dobrovoljno napustili područje ugovornih stranaka.
+Odredba iz stavka 1. ovoga članka neće se primjenjivati na osobe koje su za vrijeme boravka na području ugovornih stranaka uživali status privremene zaštite, počinili neko kazneno djelo i ako o tome postoji pravomoćna odluka.
