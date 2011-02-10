@@ -1,0 +1,4 @@
+# Članak 19.
+Odredbe članka 6. - 15. ovoga Ugovora o pravilima o radu službenih osoba primjenjivat će se na odgovarajući način i na službenike nadležnih državnih tijela (graničnu policiju, carinu, graničnu inspekciju) koji obavljaju kontrolu graničnoga željezničkog prometa prema Sporazumu između Republike Hrvatske i Bosne i Hercegovine o uređenju graničnoga željezničkog prometa.
+Radi provedbe ovoga članka, zonom zajedničke lokacije smatraju se zajednički granični kolodvor i granični željeznički pružni odsjek kako su definirani u članku 2. točki (g) i (k) Sporazuma između Republike Hrvatske i Bosne i Hercegovine o uređenju graničnoga željezničkog prometa.
+Republika Hrvatska dozvoljava nazočnost službenika i časnika IPTF-a u skladu s člankom 18. ovoga Ugovora i u zonama zajedničke lokacije iz stavka 2. ovoga članka na teritoriju Republike Hrvatske.
