@@ -1,0 +1,1 @@
+Na temelju članka 8. Zakona o prihvaćanju članstva Republike Hrvatske u Inter-američkoj banci za razvoj (»Narodne novine«, broj 94/93), te članka II. i članka IV. Sporazuma o osnivanju Inter-američke banke za razvoj (»Narodne novine - Međunarodni ugovori«, broj 14/93), Vlada Republike Hrvatske je na sjednici održanoj 27. siječnja 2011. godine donijela
