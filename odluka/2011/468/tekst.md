@@ -1,0 +1,2 @@
+U Odluci o osnivanju Stalne misije Republike Hrvatske pri Europskoj zajednici, sa sjedištem u Bruxellesu (»Narodne novine«, broj 45/92), riječ: »Stalne« se briše, a riječi: »misija Republike Hrvatske pri Europskoj zajednici« zamjenjuju se riječima »Misija Republike Hrvatske pri Europskoj uniji i pri Europskoj zajednici za atomsku energiju« u odgovarajućim padežima.
+Ova Odluka stupa na snagu danom donošenja.
