@@ -1,0 +1,3 @@
+R J E Š E N J E
+I. Odbacuje se prijedlog za pokretanje postupka za ocjenu suglasnosti s Ustavom članaka 160. do 167. Zakona o mirovinskom osiguranju ("Narodne novine" broj 102/98., 127/00., 59/01., 109/01., 147/02., 117/03., 30/04., 177/04., 92/05., 43/07.-odluka Ustavnog suda, 79/07., 35/08., 40/10.-odluka Ustavnog suda i 121/10.).
+II. Obustavlja se postupak u povodu prijedloga za ocjenu suglasnosti s Ustavom članka 184. Zakona o mirovinskom osiguranju ("Narodne novine" broj 102/98., 127/00., 59/01., 109/01., 147/02., 117/03., 30/04., 177/04., 92/05., 43/07.-odluka Ustavnog suda, 79/07., 35/08., 40/10.-odluka Ustavnog suda i 121/10.).
