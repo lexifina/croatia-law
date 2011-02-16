@@ -1,0 +1,6 @@
+# Članak 25.
+POSTUPAK ZAJEDNIČKOG DOGOVARANJA
+1. Ako osoba smatra da postupci jedne ili obiju država ugovornica kao posljedicu imaju ili će imati oporezivanje koje nije u skladu s odredbama ovog Ugovora, ona može, neovisno o pravnomu lijeku predviđenom unutarnjim pravom tih država, iznijeti svoj slučaj pred nadležno tijelo države ugovornice čiji je rezident ili, ako je njezin slučaj obuhvaćen člankom 24. stavak 1., pred tijelo države ugovornice čiji je državljanin. Slučaj se mora prijaviti u roku od dvije godine od prve obavijesti o postupku koji je doveo do oporezivanja protivnog odredbama ovog Ugovora.
+2. Ako nadležno tijelo smatra da je prigovor opravdan i ako ga samostalno ne bude moglo riješiti na zadovoljavajući način, nastojat će riješiti slučaj zajedničkim dogovorom s nadležnim tijelom druge države ugovornice, radi izbjegavanja oporezivanja koje nije u skladu s ovim Ugovorom. Postignuti dogovor provest će se bez obzira na rokove predviđene unutarnjim pravom država ugovornica.
+3. Nadležna tijela država ugovornica nastojat će zajedničkim dogovorom riješiti sve teškoće ili nejasnoće koje se pojave pri tumačenju ili primjeni ovog Ugovora.
+4. Nadležna tijela država ugovornica mogu međusobno komunicirati izravno, u svrhu postizanja dogovora u smislu prethodnih stavaka.
