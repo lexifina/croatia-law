@@ -1,0 +1,2 @@
+# Članak 1.
+Ovim se Zakonom određuje tijelo nadležno za obavljanje poslova Nacionalnog preventivnog mehanizma za sprečavanje mučenja i drugih okrutnih, neljudskih ili ponižavajućih postupaka ili kažnjavanja (u daljnjem tekstu: Nacionalni preventivni mehanizam) sukladno Fakultativnom protokolu uz Konvenciju protiv mučenja i drugih okrutnih, neljudskih ili ponižavajućih postupaka ili kažnjavanja (»Narodne novine – Međunarodni ugovori«, br. 2/05. u daljnjem tekstu: Fakultativni protokol).
