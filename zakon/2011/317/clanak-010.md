@@ -1,0 +1,12 @@
+# Članak 10.
+Iza članka 12. dodaje se članak 12.a koji glasi:
+»Članak 12.a
+(1) Obvezne zalihe nafte i naftnih derivata skladište se u carinskim i trošarinskim skladištima koja, u pravilu, koriste i drugi uvoznici ili trgovci na veliko naftnim derivatima. Sa zalihama Agencije za obvezne zalihe ne smije se postupati bez prethodne pisane suglasnosti Agencije za obvezne zalihe.
+(2) Nafta i naftni derivati u vlasništvu Agencije za obvezne zalihe ne mogu biti predmetom ovrhe.
+(3) Energetski subjekt koji obavlja djelatnost skladištenja nafte i naftnih derivata i koji je preuzeo na skladištenje zalihe u vlasništvu Agencije za obvezne zalihe nema pravo pridržaja, ni založno pravo nad naftom i naftnim derivatima koje skladišti kao obvezne zalihe.
+(4) Energetski subjekt iz stavka 3. ovoga članka dužan je na zahtjev Agencije za obvezne zalihe izdati skladišnicu za obvezne zalihe koje je primio na skladištenje.
+(5) Energetski subjekt iz stavka 3. ovoga članka dužan je ovlaštenom predstavniku Agencije za obvezne zalihe osigurati slobodan pristup skladištu te stavljanje na uvid cjelokupne dokumentacije iz koje je nedvojbeno vidljivo dnevno stanje skladišta i stanje obveznih zaliha. Ovlašteni predstavnik Agencije za obvezne zalihe nije dužan najaviti svoj dolazak skladištaru.
+(6) Ministarstvo, Agencija za obvezne zalihe i energetski subjekti koji za Agenciju za obvezne zalihe skladište zalihe, dužni su omogućiti ovlaštenim predstavnicima Europske komisije pregled obveznih zaliha. Pregled uključuje uvid u dokumente vezane za obvezne zalihe i pravo pristupa mjestima na kojima se zalihe drže.
+(7) Ministarstvo, Agencija za obvezne zalihe i energetski subjekti koji za Agenciju za obvezne zalihe skladište zalihe, dužni su čuvati sve dokumente, podatke i statističke sažetke koji se odnose na vrstu, količinu, kakvoću i razmještaj obveznih zaliha, najmanje 5 godina od dana njihova nastanka.
+(8) Obvezne zalihe nafte i naftnih derivata Republike Hrvatske mogu se čuvati na državnom području država s kojima je prethodno sklopljen međudržavni sporazum o čuvanju obveznih zaliha.
+(9) Obvezne zalihe drugih država koje se na temelju međudržavnih sporazuma čuvaju na državnom području Republike Hrvatske ili su u provozu preko državnog područja Republike Hrvatske, ne mogu biti predmetom nikakvih mjera kojima bi se ograničilo raspolaganje takvim zalihama i njihova otprema s državnog područja Republike Hrvatske.«

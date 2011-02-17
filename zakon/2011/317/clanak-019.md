@@ -1,0 +1,2 @@
+# Članak 19.
+Energetski subjekti koji su do dana stupanja na snagu ovoga Zakona obveznici osiguranja obveznih zaliha nafte i naftnih derivata na temelju Odluke o količini i strukturi obveznih zaliha nafte i naftnih derivata za 2010. godinu (»Narodne novine«, br. 41/10.), dužni su čuvati obvezne zalihe nafte i naftnih derivata do 1. kolovoza 2011. u količini koju im je, prije stupanja na snagu ovoga Zakona, za 2010. godinu utvrdilo Ministarstvo.
