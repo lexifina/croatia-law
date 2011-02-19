@@ -1,0 +1,4 @@
+1. Ovim naputkom utvrđuje se način i vrijeme uništavanja osnovne popisne građe popisa stanovništva, kućanstava i stanova 2011. (dalje u tekstu: Popis 2011.).
+2. Nakon završetka unosa popisnih podataka na računalni medij te obavljenih kontrola, odnosno osnovne faze obrade Popisa 2011., upućuje se Hrvatskom državnom arhivu prijedlog za pokretanje postupka za odabiranje dijela popisne građe, odnosno reprezentativnog uzorka za trajno čuvanje i odobrenje za uništavanje preostalog dijela popisnog gradiva.
+3. Nakon dobivenog odobrenja za djelomično izlučivanje izvornih materijala iz Popisa 2011. od strane Hrvatskog državnog arhiva, uništenje preostalog dijela osnovne popisne građe obavit će za to ovlaštena pravna osoba u skladu s pozitivnim propisima kojima se uređuje navedeno područje i uz stručni nadzor arhivara Državnog zavoda za statistiku.
+4. Ovaj naputak stupa na snagu osmog dana od dana objave u »Narodnim novinama«.

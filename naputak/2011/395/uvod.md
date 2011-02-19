@@ -1,0 +1,1 @@
+Na temelju članka 49. stavka 2. Zakona o popisu stanovništva, kućanstava i stanova u Republici Hrvatskoj 2011. godine (»Narodne novine«, br. 92/10., u nastavku teksta: Zakon) ravnatelj Državnog zavoda za statistiku donosi
