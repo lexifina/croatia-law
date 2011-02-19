@@ -1,0 +1,4 @@
+# Članak 6.
+U članku 17. stavci 2. i 3. mijenjaju se i glase:
+»Zapovjednik odnosno čelnik ustrojstvene jedinice određene za nositelja aktivnosti na temelju zaprimljenog izvješća o nastanku ozljede na radu odnosno sumnje na profesionalnu bolest dužan je u skladu s propisanim postupkom nadležnoj ustanovi - zavodu koji obavlja poslove zdravstvenog osiguranja zaštite zdravlja na radu podnijeti prijavu ozljede na radu za sudionika koji je ozlijeđen u mirovnoj operaciji odnosno drugoj aktivnosti u inozemstvu.
+Troškove propisane specifične terapije ili zdravstvene usluge za ozljedu koju ustanova - zavod iz stavka 2. ovoga članka ne prizna kao ozljedu na radu i/ili ne snosi troškove, snosit će Ministarstvo obrane ako Uprava za ljudske resurse utvrdi da se dogodila u izravnoj svezi s obavljanjem poslova na kojima je sudionik bio angažiran.«

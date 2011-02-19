@@ -1,0 +1,3 @@
+# Članak 1.
+U Pravilniku o sudjelovanju pripadnika Oružanih snaga Republike Hrvatske i državnih službenika i namještenika Ministarstva obrane u mirovnim operacijama i drugim aktivnostima u inozemstvu (»Narodne novine«, broj 8/06) u članku 1. stavak 1. mijenja se i glasi:
+»Ovim Pravilnikom propisuju se opći uvjeti sudjelovanja pripadnika Oružanih snaga Republike Hrvatske te državnih službenika i namještenika Ministarstva obrane u mirovnim operacijama i drugim aktivnostima u inozemstvu, definiraju se ovlasti ustrojstvenih jedinica u pripremi za sudjelovanje, prava, obveze i odgovornosti tijekom sudjelovanja u aktivnosti u inozemstvu kao i po povratku u Republiku Hrvatsku te prava, obveze i odgovornosti čelnika kontingenata i skupina.«
