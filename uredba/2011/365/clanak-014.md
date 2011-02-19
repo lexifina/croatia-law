@@ -1,0 +1,4 @@
+# Članak 14.
+Kuću ili stan najmoprimac može kupiti i prije isteka 10 godina neprekidnog prebivanja u toj kući ili stanu, pod uvjetom da prodajnu cijenu plaća jednokratno ili na obročnu otplatu uz prvi obrok u visini od najmanje 15% prodajne cijene stana.
+U slučaju iz stavka 1. ovoga članka, uz ograničenje otuđenja iz članka 13. ove Uredbe, vlasnik ne može prodati ili na drugi način otuđiti kupljenu nekretninu prije isteka 10 godina od sklapanja ugovora o najmu, odnosno njegovog neprekidnog prebivanja u toj kući ili stanu, koji rok zabrane otuđenja se utvrđuje ugovorom o kupoprodaji. Uknjižba tereta zabrane otuđenja i opterećenja nekretnine izvršit će se istodobno s uknjižbom prava vlasništva na toj nekretnini.
+Zemljišnoknjižni odjel nadležnog općinskog suda izvršit će, po službenoj dužnosti, zabilježbu zabrane otuđenja nekretnine iz stavka 2. ovoga članka u zemljišnim knjigama.
