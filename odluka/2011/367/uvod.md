@@ -1,0 +1,1 @@
+Na temelju članka 335.g stavka 2. Stečajnog zakona (»Narodne novine«, br. 44/96, 29/99, 129/2000, 123/2003, 82/2006 i 116/2010), Vlada Republike Hrvatske je na sjednici održanoj 3. veljače 2011. godine donijela
