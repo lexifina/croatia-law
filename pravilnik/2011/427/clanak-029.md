@@ -1,0 +1,5 @@
+# Članak 29.
+Na ovlaštene laboratorije kojima važe rješenja izdana sukladno odredbama Pravilnika o posebnim uvjetima koje moraju ispunjavati ovlašteni laboratoriji (»Narodne novine«, broj 78/97 i 65/05) primjenjuju se odredbe članaka 15. stavci 2. i 3., 20., 21., 22., 23. i 24. ovoga Pravilnika koje se odnose na certificirane laboratorije te stavaka 2., 3. i 4. ovoga članka.
+Ovlašteni laboratorij dužan je sudjelovati i uspješno provesti međulaboratorijska poredbena ispitivanja na pokazatelje iz članka 4. ovoga Pravilnika, za koja postoje relevantna međulaboratorijska poredbena ispitivanja.
+Obvezu iz stavka 2. ovoga članka ovlašteni laboratorij dužan je provoditi jednom u pet godina, a rezultate dostavljati referentnom laboratoriju radi davanja nalaza i mišljenja.
+Ovlašteni laboratorij dužan je odabrati programe međulaboratorijskih poredbenih ispitivanja na fizikalno-kemijske i kemijske pokazatelje u koncentracijskim područjima sukladno propisu o standardu kakvoće voda i/ili propisu o graničnim vrijednostima emisija otpadnih voda.

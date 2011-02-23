@@ -1,0 +1,8 @@
+## Obveze glede metodologije i dodatne opreme
+# Članak 22.
+Pri uzorkovanju i ispitivanju voda i kemikalija koje nakon uporabe dospjevaju u vode certificirani laboratorij mora primijenjivati metode koje su validirane i dokumentirane prema normi na koju upućuje članak 8. ovoga Pravilnika.
+Pri uzorkovanju i ispitivanju voda i kemikalija koje nakon uporabe dospjevaju u vode na pokazatelje iz članka 4. ovoga Pravilnika certificirani laboratorij mora koristiti normirane metode (HRN, EN, ISO) ili druge metode za koje je uspješno proveo međulaboratorijska poredbena ispitivanja.
+Sve metode za ispitivanje fizikalno-kemijskih i kemijskih pokazatelja u površinskim i podzemnim vodama moraju ispunjavati minimalne izvedbene zahtjeve, uključujući pravila o mjernoj nesigurnosti i o granici kvantifikacije.
+Minimalni izvedbeni zahtjevi za metode iz stavka 3. ovoga članka su: mjerna nesigurnost od 50% ili manja i granica kvantifikacije od 30% ili manja od vrijednosti odgovarajućeg standarda kakvoće vodnog okoliša, propisane propisom o standardu kakvoće voda.
+Certificirani laboratorij koji obavlja ispitivanja fizikalno-kemijskih, kemijskih, bioloških i mikrobioloških pokazatelja i ispitivanja sedimenta i biote u površinskim vodama, mora za potrebe uzimanja uzoraka osigurati dodatnu opremu za uzorkovanje i odgovarajuću plovnu jedinicu.
+Certificirani laboratorij koji obavlja ispitivanja fizikalno-kemijskih, kemijskih i mikrobioloških pokazatelja u podzemnim vodama mora za potrebe uzimanja uzoraka osigurati dodatnu opremu za uzimanje uzoraka podzemne vode (agregat, pumpa, mjerač razine podzemne vode).
