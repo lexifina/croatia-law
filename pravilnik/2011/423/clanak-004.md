@@ -1,0 +1,7 @@
+## III. RAZRADA KRITERIJA ZA ODREĐIVANJE STUPNJEVA TAJNOSTI PODATAKA IZ DJELOKRUGA MINISTARSTVA
+# Članak 4.
+Ministarstvo klasificira podatke iz svog djelokruga stupnjevima tajnosti:
+- VRLO TAJNO
+- TAJNO
+- POVJERLJIVO
+- OGRANIČENO

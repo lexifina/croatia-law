@@ -1,0 +1,3 @@
+# Članak 13.
+Oznake stupnja tajnosti moraju biti jasno i vidljivo otisnute, strojno ili ručno upisane u slučajevima pisane dokumentacije, odnosno pripojene kao privjesak ili naljepnica u slučajevima kada se radi o predmetima koji se moraju označiti, a nisu pisani dokument.
+Službeni dokument pripremljen za dostavu, uz oznake propisane Uredbom o načinu označavanja klasificiranih podataka, sadržaju i izgledu uvjerenja o obavljenoj sigurnosnoj provjeri i izjave o postupanju s klasificiranim podacima, na prvoj stranici mora imati upisanu odgovarajuću oznaku načina dostave (dostavljačem, telefaksom, e-poštom, brzojavno, intranetom ili poštanskom službom).

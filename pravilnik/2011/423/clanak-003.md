@@ -1,0 +1,4 @@
+# Članak 3.
+Podatak u bilo kojem izražajnom obliku koji je na temelju zakona ili podzakonskih propisa određen kao tajni podatak mora se označiti potpunom oznakom stupnja tajnosti.
+Oznakama stupnja tajnosti označavaju se i svi izvori tajnog podatka kao što su službeni dokumenti, zbirke podataka, nacrti, crteži, skice, pokretne skice (filmovi i videozapisi), zvukovni zapisi, izvješća, obavijest i identitet osobe koja je dala obavijest, obrade i analize prikupljenih saznanja, te spisi o poduzetim mjerama i radnjama, službene zabilješke, izjave, isprave, prijave, planovi operativnih akcija, sigurnosne procjene i rješenja, pomoćne uredske i poslovne knjige i drugi izvori podataka bilo u elektroničkom, elektromagnetskom ili drugom obliku.
+Kada se radi o kombinaciji klasificiranih podataka, prilikom označavanja koristi se klasifikacijska oznaka podataka s najvišim stupnjem tajnosti.

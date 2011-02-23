@@ -1,0 +1,3 @@
+# Članak 9.
+Pristup klasificiranim podacima stupnja tajnosti VRLO TAJNO, TAJNO i POVJERLJIVO u Ministarstvu mogu ostvariti službenici, koji imaju odgovarajući certifikat, koji su upoznati s načinom postupanja s klasificiranim podacima (sigurnosno informiran) i kojima je to nužno za obavljanje poslova iz njihovog djelokruga.
+Pristup klasificiranim podacima stupnja tajnosti OGRANIČENO u Ministarstvu mogu ostvariti službenici, koji su upoznati s načinom postupanja s klasificiranim podacima (sigurnosno informiran) i kojima je to nužno za obavljanje poslova iz njihovog djelokruga, a temeljem ovlasti Ministra za pristup klasificiranim podacima.
