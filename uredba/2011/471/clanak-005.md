@@ -1,0 +1,3 @@
+# Članak 5.
+Regionalnim parkom upravljaju Javna ustanova za upravljanje zaštićenim prirodnim vrijednostima na području Međimurske županije, Javna ustanova za upravljanje zaštićenim prirodnim vrijednostima Varaždinske županije, Javna ustanova za upravljanje zaštićenim prirodnim vrijednostima Koprivničko-križevačke županije, Javna ustanova za upravljanje zaštićenim prirodnim vrijednostima Virovitičko-podravske županije, te Javna ustanova Agencija za upravljanje zaštićenim prirodnim vrijednostima na području Osječko-baranjske županije, svaka na području svoje županije.
+Javne ustanove iz stavka 1. ovoga članka zaključuju međusobni sporazum kojim pobliže uređuju međusobnu suradnju pri upravljanju zaštićenim područjem.
