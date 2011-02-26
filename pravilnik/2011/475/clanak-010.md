@@ -1,0 +1,3 @@
+# Članak 10.
+Ministar kulture će imenovati četiri člana Vijeća u roku od 30 dana od dana stupanja na snagu ovoga Pravilnika.
+Zatečeni ravnatelj danom stupanja na snagu ovoga Pravilnika nastavlja obavljati svoje poslove i zadaće do imenovanja ravnatelja sukladno odredbama ovoga Pravilnika.
