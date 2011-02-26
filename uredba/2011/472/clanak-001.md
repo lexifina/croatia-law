@@ -1,0 +1,18 @@
+# Članak 1.
+U Uredbi o nazivima radnih mjesta i koeficijentima složenosti poslova u državnoj službi (»Narodne novine«, br. 37/2001, 38/2001 - ispravak, 71/2001, 89/2001, 112/2001, 7/2002 - ispravak, 17/2003, 197/2003, 21/2004, 25/2004 - ispravak, 66/2005, 131/2005, 11/2007, 47/2007, 109/2007, 58/2008, 32/2009, 140/2009, 21/2010, 38/2010, 77/2010 i 113/2010), iza članka 26. dodaju se članci 26a. i 26b. koji glase:
+»Članak 26a.
+(1) Posebni nazivi radnih mjesta državnih službenika koji rade u strukturi tijela koja su dobila dozvolu za rad od Europske komisije za upravljanje sredstvima Europske unije i koeficijenti složenosti poslova su:
+a) Položaji I. vrste
+1. načelnik sektora ili službe (programiranje i strateško planiranje, financijsko upravljanje i kontrola, računovodstvo Nacionalnog fonda, suzbijanje nepravilnosti i prijevara u Ministarstvu financija, ugovaranje i provedba projekata, praćenje provedbe i vrednovanje programa Europske unije) 3,25
+2. načelnik odjela (programiranje i strateško planiranje, financijsko upravljanje i kontrola, računovodstvo Nacionalnog fonda, suzbijanje nepravilnosti i prijevara u Ministarstvu financija, ugovaranje i provedba projekata, praćenje provedbe i vrednovanje programa Europske unije) 2,65
+3. voditelj odsjeka (programiranje i strateško planiranje, financijsko upravljanje i kontrola, računovodstvo Nacionalnog fonda, suzbijanje nepravilnosti i prijevara u Ministarstvu financija, ugovaranje i provedba projekata, praćenje provedbe i vrednovanje programa Europske unije) 2,21
+b) Radna mjesta I. vrste
+1. viši stručni savjetnik (programiranje i strateško planiranje, financijsko upravljanje i kontrola, računovodstvo Nacionalnog fonda, suzbijanje nepravilnosti i prijevara u Ministarstvu financija, ugovaranje i provedba projekata, praćenje provedbe i vrednovanje programa Europske unije) 2,04
+2. stručni savjetnik (programiranje i strateško planiranje, financijsko upravljanje i kontrola, računovodstvo Nacionalnog fonda, suzbijanje nepravilnosti i prijevara u Ministarstvu financija, ugovaranje i provedba projekata, praćenje provedbe i vrednovanje programa Europske unije) 1,65
+3. stručni suradnik (programiranje i strateško planiranje, financijsko upravljanje i kontrola, računovodstvo Nacionalnog fonda, suzbijanje nepravilnosti i prijevara u Ministarstvu financija, ugovaranje i provedba projekata, praćenje provedbe projekata i vrednovanje programa Europske unije) 1,50
+(2) Tijela koja su dobila dozvolu za rad od Europske komisije u smislu stavka 1. ovoga članku su: tijelo nadležno za koordinaciju, tijelo nadležno za financijsko upravljanje, tijelo nadležno za zaštitu financijskih interesa Europske unije, utvrđivanja nepravilnosti i izvještavanje o nepravilnostima, tijelo nadležno za Operativni program, tijelo nadležno za prioritet/mjeru, provedbeno tijelo i ustrojstvene jedinice za provedbu projekata.
+(3) Broj državnih službenika u tijelima iz stavka 2. ovoga članka na koje se odnosi ova Uredba utvrdit će odlukom Vlada Republike Hrvatske na prijedlog Ministarstva financija.
+Članak 26b.
+(1) Osnovni elementi opisa radnih mjesta iz članka 26a. stavka 1. ove Uredbe i uvjeti za raspored utvrđuju se u tablici koja je sastavni dio ove Uredbe.
+(2) U pravilniku o unutarnjem redu obvezno se navode osnovni elementi opisa radnog mjesta i uvjeti za raspored iz stavka 1. ovoga članka, te drugi elementi opisa radnog mjesta i uvjeti za raspored, ovisno o posebnostima svakog radnog mjesta.
+(3) Posebni nazivi radnih mjesta i koeficijenti složenosti poslova državnih službenika koji rade u strukturi tijela koja su dobila dozvolu za rad od Europske komisije za upravljanje sredstvima Europske unije iz članka 26a. ove Uredbe, preduvjet su za povrat troškova plaća od Europske komisije.«.
