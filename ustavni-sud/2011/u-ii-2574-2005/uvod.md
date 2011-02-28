@@ -1,0 +1,1 @@
+Ustavni sud Republike Hrvatske, u sastavu Jasna Omejec, predsjednica Suda, te suci Mato Arlović, Marko Babić, Snježana Bagić, Slavica Banić, Mario Jelušić, Davor Krapac, Ivan Matija, Aldo Radolović, Duška Šarin i Miroslav Šeparović, rješavajući o zahtjevu za ocjenu suglasnosti drugog propisa s Ustavom i zakonom, na sjednici održanoj 15. veljače 2011. donio je
