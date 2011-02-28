@@ -1,0 +1,2 @@
+# Članak 1.
+U Pravilniku o doprinosima (»Narodne novine«, broj 2/09, 9/09 - ispravak i 97/09) riječi: »doprinos za zdravstveno osiguranje zaštite zdravlja na radu« zamjenjuju se riječima: »doprinos za zaštitu zdravlja na radu« a riječi: »posebni doprinos za zdravstveno osiguranje zaštite zdravlja na radu« i riječi: »posebni za zdravstveno osiguranje zaštite zdravlja na radu« zamjenjuju se riječima: »posebni doprinos za zaštitu zdravlja na radu«.

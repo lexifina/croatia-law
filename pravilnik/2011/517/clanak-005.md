@@ -1,0 +1,5 @@
+# Članak 5.
+U članku 31. stavak 2. riječi: »po osnovi rada ili obavljanja samostalne djelatnosti« brišu se.
+Iza stavka 2. dodaju se stavci 3. i 4. koji glase:
+»(3) Za osobu koja se prvi put zapošljava - stranca poslodavac je dužan o tome osigurati dokaz. Dokaz je pisana isprava nositelja obveznog mirovinskog osiguranja države stranca izdan u skladu s međudržavnim ugovorom o socijalnom osiguranju iz kojega je vidljivo da je riječ o osobi koja do početka osiguranja po prijavi tog poslodavca, nema evidentiran staž u obveznom mirovinskom osiguranju.
+(4) Za osobu koja se prvi put zaposlila a za vrijeme trajanja prve godine zaposlenja: ostvaruje pravo iz obveznog zdravstvenog osiguranja na naknadu plaće na teret državnog proračuna ili mu radni odnos miruje radi dragovoljnog služenja vojnog roka u oružanim snagama Republike Hrvatske, produžuje se tijek prve godine zaposlenja kod istog poslodavca, razmjerno broju dana za koje je ostvarivao pravo na naknadu plaće odnosno u kojima je radni odnos mirovao.«
