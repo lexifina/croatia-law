@@ -1,0 +1,1 @@
+Na temelju članka 9. stavka 6. Zakona o sigurnosti u željezničkom prometu (»Narodne novine«, broj 40/07), ministar mora, prometa i infrastrukture u suglasnosti s ministricom zaštite okoliša, prostornog uređenja i graditeljstva donosi
