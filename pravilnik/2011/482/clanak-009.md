@@ -1,0 +1,8 @@
+## Oznaka sukladnosti i način označivanja uređaja
+# Članak 9.
+(1) Proizvođač ili njegov ovlašteni zastupnik obvezni su na uređaj ili njegovu natpisnu pločicu staviti oznaku sukladnosti u skladu s odredbama ovoga članka, a ako to nije moguće zbog prirode samog uređaja, oznaka sukladnosti mora se staviti na omot za pakiranje (ako postoji) ili pripadajuću dokumentaciju koja prati uređaj.
+(2) Uređaj, koji je u skladu sa svim zahtjevima propisanima ovim Pravilnikom, prije stavljanja na tržište mora biti označen oznakom sukladnosti u skladu s posebnim propisom kojim se uređuje oblik, sadržaj i izgled oznake sukladnosti proizvoda s propisanim tehničkim zahtjevima.
+(3) Iznimno od odredbe stavka 2. ovoga članka, uređaj koji udovoljava bitnim zahtjevima elektromagnetske kompatibilnosti iz članka 5. ovoga Pravilnika i koji je označen europskom oznakom sukladnosti »CE«, ne mora se dodatno označivati oznakom sukladnosti iz stavka 2. ovoga članka.
+(4) Na svakom uređaju moraju se nalaziti podaci o tipu, seriji i serijskom broju ili bilo koji drugi podaci koji omogućuju prepoznavanje uređaja.
+(5) Svaki uređaj mora biti popraćen dokumentacijom u kojoj se moraju nalaziti podaci o nazivu i adresi proizvođača ili njegova ovlaštenog zastupnika ili druge osobe odgovorne za stavljanje uređaja na tržište Republike Hrvatske, upute za uporabu na hrvatskom jeziku i latiničnom pismu, te obavijesti o svim posebnim mjerama opreza koje se moraju poduzeti prigodom sklapanja, instaliranja, održavanja ili uporabe uređaja.
+(6) Uređaj koji nije u skladu sa zaštitnim zahtjevima iz članka 5. točke 1. ovoga Pravilnika za stambena područja, mora imati jasnu oznaku ograničenja uporabe u tim područjima, a gdje je to moguće, oznaka se mora istaknuti i na samom pakiranju.

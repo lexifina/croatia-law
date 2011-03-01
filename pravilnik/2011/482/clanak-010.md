@@ -1,0 +1,8 @@
+## IV. NEPOKRETNE INSTALACIJE
+# Članak 10.
+(1) Primjena odredaba članaka 5., 7. i 9. ovoga Pravilnika nije obvezna za uređaj namijenjen ugradnji u određenu nepokretnu instalaciju, a koji inače nije dostupan na slobodnom tržištu.
+(2) Uređaj iz stavka 1. ovoga članka mora biti popraćen dokumentacijom koja opisuje nepokretnu instalaciju i značajke njezine elektromagnetske kompatibilnosti te ukazuje na zaštitne mjere koje se moraju poduzeti prigodom ugradnje uređaja u tu nepokretnu instalaciju, kako se ne bi ugrozila usklađenost te instalacije sa zahtjevima elektromagnetske kompatibilnosti, te s podacima iz članka 9. stavka 4. i 5. ovoga Pravilnika.
+(3) U slučaju postojanja naznaka o neusklađenosti nepokretne instalacije sa zahtjevima elektromagnetske kompatibilnosti ili prigovora na smetnje uzrokovane nepokretnom instalacijom, nadležni inspektor može zatražiti dokaz o sukladnosti nepokretne instalacije s bitnim zahtjevima iz članka 5. točke 2. ovoga Pravilnika, i/ili zatražiti ispitivanje sukladnosti nepokretne instalacije sa zahtjevima elektromagnetske kompatibilnosti.
+(4) U slučaju iz stavka 3. ovoga članka vlasnik ili korisnik nepokretne instalacije obvezan je dokazati usklađenost nepokretne instalacije s bitnim zahtjevima iz članka 5. točke 2. ovoga Pravilnika.
+(5) Ako nadležni inspektor utvrdi da nepokretna instalacija nije usklađena sa zahtjevima elektromagnetske kompatibilnosti, rješenjem će narediti uklanjanje utvrđenih nedostataka u za to primjerenom roku.
+(6) U slučaju nepostupanja po rješenju nadležnog inspektora iz stavka 5. ovoga članka u za to određenom roku, nadležni inspektor će rješenjem zabraniti rad nepokretne instalacije, do uklanjanja utvrđenih nedostataka.

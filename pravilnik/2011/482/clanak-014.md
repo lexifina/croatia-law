@@ -1,0 +1,9 @@
+## VII. PRIJELAZNE I ZAVRŠNE ODREDBE
+## Prijelazne odredbe
+# Članak 14.
+(1) Danom pristupanja Republike Hrvatske Europskoj uniji ili danom stupanja na snagu međunarodnog sporazuma o ocjeni sukladnosti i prihvaćanju industrijskih proizvoda (ACAA sporazum) u svim odredbama ovoga Pravilnika i njegovih Dodataka riječi: »ovlašteno tijelo za ocjenjivanje sukladnosti« u određenom broju i padežu zamjenjuju se riječima: »prijavljeno tijelo« u odgovarajućem broju i padežu.
+(2) Danom pristupanja Republike Hrvatske Europskoj uniji ili danom stupanja na snagu međunarodnog sporazuma o ocjeni sukladnosti i prihvaćanju industrijskih proizvoda (ACAA sporazum) u svim odredbama ovoga Pravilnika i njegovih Dodataka riječi: »Izjava o sukladnosti« u određenom broju i padežu zamjenjuju se riječima: »EU Izjava o sukladnosti« u odgovarajućem broju i padežu.
+(3) Danom pristupanja Republike Hrvatske Europskoj uniji ili danom stupanja na snagu međunarodnog sporazuma o ocjeni sukladnosti i prihvaćanju industrijskih proizvoda (ACAA sporazum) u Dodatku 1. točki 7. ovoga Pravilnika riječi: »Republika Hrvatska« u određenom padežu zamjenjuju se riječima »Europska unija« u odgovarajućem padežu.
+(4) Naputak o utvrđivanju osposobljenosti tijela za ocjenjivanje sukladnosti u području elektromagnetske kompatibilnosti (»Narodne novine«, broj 36/10.) ostaje na snazi u dijelu u kojem nije u suprotnosti s odredbama ovoga Pravilnika, do donošenja Naputka iz članka 8. stavka 1. ovoga Pravilnika.
+(5) Odredbe ovoga Pravilnika ne utječu na opremu koja je stavljena na tržište Republike Hrvatske prema propisima koji su važili do dana stupanja na snagu ovoga Pravilnika.
+(6) Ovlasti izdane tijelima za ocjenjivanje sukladnosti, na temelju propisa koji su važili do dana stupanja na snagu ovoga Pravilnika, važe do isteka roka na koji su izdane ili do ukidanja.
