@@ -1,0 +1,6 @@
+SPORAZUM IZMEĐU VLADE REPUBLIKE HRVATSKE I VLADE SAVEZNE REPUBLIKE NJEMAČKE O URAČUNAVANJU U OBVEZNE ZALIHE REPUBLIKE HRVATSKE, ZALIHA SIROVE NAFTE I NAFTNIH DERIVATA REPUBLIKE HRVATSKE U SAVEZNOJ REPUBLICI NJEMAČKOJ
+VLADA REPUBLIKE HRVATSKE
+I
+VLADA SAVEZNE REPUBLIKE NJEMAČKE
+sukladno članku 7. Direktive Vijeća 2006/67/EC od 24. srpnja 2006., koja obvezuje države članice Europske unije na formiranje i čuvanje obveznih zaliha nafte i/ili naftnih derivata,
+sporazumjele su se kako slijedi:
