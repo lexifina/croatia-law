@@ -1,0 +1,1 @@
+Na temelju članka 86. i članka 129. stavka 1. podstavka 5. Zakona o policiji (»Narodne novine«, br. 129/2000 i 41/2008), Vlada Republike Hrvatske je na sjednici održanoj 17. prosinca 2010. godine donijela
