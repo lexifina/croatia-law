@@ -1,0 +1,3 @@
+# Članak 11.
+(1) Nakon što Ministarstvo, na temelju dostavljenih podataka o ulovu tuna, utvrdi da je izlovljena dopuštena godišnja izlovna kvota tuna za plivarice tunolovke i/ili udičarske alate, ministar donosi odluku o zabrani daljnjeg ribolova tuna za tekuću godinu uz uporabu određenih ribolovnih alata.
+(2) Nakon što Ministarstvo, na temelju dostavljenih podataka o ulovu tuna, utvrdi da je izlovljena dopuštena godišnja izlovna kvota tuna za plivarice tunolovke sukladno podjeli po ovlaštenicima povlastice iz članka 4. stavka 2. ovoga Pravilnika, ministar donosi odluku o zabrani daljnjeg ribolova tuna za tekuću godinu za pojedinog ovlaštenika povlastice za plivarice tunolovke.
