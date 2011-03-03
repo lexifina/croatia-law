@@ -1,0 +1,1 @@
+[1](*) Pravilnik preuzima sadržaj Direktive Vijeća 76/763/EEZ od 27. srpnja 1976. o usklađivanju zakonodavstva država članica koje se odnosi na putnička sjedala za traktore na kotačima za poljoprivredu ili šumarstvo, s uključenim izmjenama i dopunama u direktivama 82/890/EEZ, 97/54/EZ, 1999/86/EZ i 2010/52/EU.
