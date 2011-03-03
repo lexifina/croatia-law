@@ -1,0 +1,3 @@
+# Članak 23.
+(1) Ako nadležno inspekcijsko tijelo ne raspolaže potrebnim stručnim znanjem ili opremom za provedbu pregleda ili ispitivanja ploča, provedbu pojedinih radnji u okviru inspekcijskog nadzora može povjeriti stručnoj ustanovi koja nije bila uključena u ocjenjivanje sukladnosti istog proizvoda prije stavljanja na tržište i/ili u uporabu.
+(2) Troškove inspekcijskoga postupka (troškovi ispitivanja i provjere sukladnosti proizvoda i drugi troškovi u vezi s inspekcijskim nadzorom) koji su nastali pri provedbi nadzora snosi pravna ili fizička osoba koja je proizvod stavila na tržište i/ili u uporabu ako se pokaže da proizvod nije bio sukladan s tehničkim zahtjevima.

@@ -1,0 +1,1 @@
+Na temelju članka 1. stavka 1. i članka 4. Zakona o tehničkim zahtjevima za proizvode i ocjenjivanje sukladnosti (»Narodne novine«, broj 20/10) ministar regionalnog razvoja, šumarstva i vodnoga gospodarstva donosi
