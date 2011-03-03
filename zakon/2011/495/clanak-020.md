@@ -1,0 +1,7 @@
+# Članak 20.
+Naknada troškova izborne promidžbe kandidatima i nezavisnim listama isplaćuje se na poseban račun kandidata, odnosno nositelja nezavisne liste, otvoren za financiranje troškova izborne promidžbe.
+Naknada troškova izborne promidžbe političkim strankama isplaćuje se na poseban račun političke stranke otvoren za financiranje troškova izborne promidžbe.
+Sredstva za naknadu troškova izborne promidžbe za izbor zastupnika u Hrvatski sabor raspoređuju se političkim strankama, nezavisnim listama i kandidatima za zastupnike pripadnika nacionalnih manjina, razmjerno broju osvojenih zastupničkih mjesta.
+Sredstva za naknadu troškova izborne promidžbe za izbor članova predstavničkih tijela jedinica lokalne i područne (regionalne) samouprave raspoređuju se političkim strankama i nezavisnim listama, razmjerno broju članova predstavničkog tijela koje je dobila pojedina politička stranka, odnosno nezavisna lista.
+Sredstva za naknadu troškova izborne promidžbe za izbor Predsjednika Republike Hrvatske te za izbor općinskih načelnika, gradonačelnika, župana i gradonačelnika Grada Zagreba raspoređuju se razmjerno dobivenim glasovima.
+Sredstva za naknadu troškova izborne promidžbe isplaćena na poseban račun nositelja nezavisne liste, odnosno na poseban račun kandidata za župana, gradonačelnika i općinskog načelnika, raspoređuju se između kandidata na neovisnoj listi, odnosno između kandidata za župana, gradonačelnika i općinskog načelnika i kandidate za njihove zamjenike sukladno njihovom sporazumu, a ako sporazum nije zaključen, na jednake dijelove.

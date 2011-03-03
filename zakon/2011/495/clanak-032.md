@@ -1,0 +1,4 @@
+## Izvješća o reviziji
+# Članak 32.
+Izvješće o provedenoj reviziji godišnjih financijskih izvještaja i poslovanja političkih stranaka koje prema odredbama ovoga Zakona imaju pravo financiranja iz državnog proračuna i proračuna jedinice lokalne i područne (regionalne) samouprave te nezavisnih zastupnika u Hrvatskom saboru, zastupnika nacionalnih manjina i nezavisnih članova predstavničkih tijela jedinica lokalne i područne (regionalne) samouprave, Državni ured za reviziju dostavlja Hrvatskom saboru do kraja tekuće godine za prethodnu godinu.
+Izvješće o provedenoj reviziji godišnjih financijskih izvještaja političkih stranaka, nezavisnih zastupnika, zastupnika nacionalnih manjina i nezavisnih članova predstavničkih tijela jedinica lokalne i područne (regionalne) samouprave objavljuju se na web-stranici Državnog ureda za reviziju.

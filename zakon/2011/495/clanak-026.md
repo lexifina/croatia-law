@@ -1,0 +1,5 @@
+## Objavljivanje podataka o donacijama tijekom godine
+# Članak 26.
+Izvješće o donacijama koje političke stranke, nezavisni zastupnici, zastupnici nacionalnih manjina, nezavisni članovi predstavničkog tijela jedinice lokalne i područne (regionalne) samouprave prime tijekom godine za potporu njihovoga političkog djelovanja, sa specificiranim podacima prema članku 24. stavku 3. ovoga Zakona, političke stranke, nezavisni zastupnici, zastupnici nacionalnih manjina i nezavisni članovi predstavničkih tijela jedinica lokalne i područne (regionalne) samouprave, dužni su redovito svakih šest mjeseci, za proteklo šestomjesečno razdoblje, javno objaviti na svojim web-stranicama, najkasnije u roku od 15 dana po isteku šestomjesečnog razdoblja.
+Pod objavom na web-stranici iz stavka 1. ovoga članka smatra se objava u trajanju od najmanje 30 dana.
+VII. NADZOR NAD FINANCIJSKIM POSLOVANJEM POLITIČKIH STRANAKA, NEZAVISNIH ZASTUPNIKA, ZASTUPNIKA NACIONALNIH MANJINA, NEZAVISNIH ČLANOVA PREDSTAVNIČKIH TIJELA JEDINICA LOKALNE I PODRUČNE (REGIONALNE) SAMOUPRAVE, NEZAVISNIH LISTA I KANDIDATA TE REVIZIJA FINANCIJSKIH IZVJEŠTAJA

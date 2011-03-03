@@ -1,0 +1,4 @@
+## Financiranje iz sredstava državnog proračuna i proračuna jedinica lokalne i područne (regionalne) samouprave
+# Članak 3.
+Sredstva za redovito godišnje financiranje političkih stranaka, nezavisnih zastupnika i zastupnika nacionalnih manjina osiguravaju se u državnom proračunu Republike Hrvatske, u iznosu od 0,05% ostvarenih rashoda poslovanja iz prethodno objavljenog godišnjeg izvještaja o izvršenju proračuna.
+Sredstva za redovito godišnje financiranje političkih stranaka i nezavisnih članova predstavničkih tijela jedinica lokalne i područne (regionalne) samouprave, iz proračuna jedinica lokalne i područne (regionalne) samouprave, dužna je osigurati jedinica lokalne i područne (regionalne) samouprave, u iznosu koji se određuje u proračunu jedinice lokalne i područne (regionalne) samouprave za svaku godinu za koju se proračun donosi.

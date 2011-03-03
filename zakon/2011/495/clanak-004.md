@@ -1,0 +1,3 @@
+# Članak 4.
+Pravo na redovito godišnje financiranje iz sredstava državnog proračuna imaju političke stranke koje imaju zastupnika u Hrvatskom saboru, nezavisni zastupnici koji su izabrani s nezavisnih lista i zastupnici nacionalnih manjina.
+Pravo na redovito godišnje financiranje iz sredstava proračuna jedinice lokalne i područne regionalne samouprave imaju političke stranke koje imaju člana u predstavničkom tijelu jedinice lokalne i područne (regionalne) samouprave i nezavisni članovi predstavničkih tijela jedinica lokalne i područne (regionalne) samouprave koji su izabrani s nezavisnih lista.

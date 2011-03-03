@@ -1,0 +1,5 @@
+## Provedba revizije
+# Članak 31.
+Revizija godišnjih financijskih izvještaja i financijskog poslovanja političkih stranaka, nezavisnih zastupnika, zastupnika nacionalnih manjina i nezavisnih članova predstavničkih tijela jedinica lokalne i područne (regionalne) samouprave, provodi se svake kalendarske godine za prethodnu godinu.
+Reviziju financijskog poslovanja političkih stranaka, nezavisnih zastupnika, zastupnika nacionalnih manjina i nezavisnih članova predstavničkih tijela jedinica lokalne i područne (regionalne) samouprave koji sukladno propisima o vođenju računovodstva neprofitnih organizacija nisu obvezni sastavljati financijske izvještaje, Državni ured za reviziju nije obvezan provoditi, a može je provoditi sukladno svojem planu i programu rada.
+Političke stranke, nezavisni zastupnici, zastupnici nacionalnih manjina i nezavisni članovi predstavničkih tijela jedinica lokalne i područne (regionalne) samouprave iz stavka 2. ovoga članka dužni su Državnom uredu za reviziju dostaviti svu traženu dokumentaciju na njegov zahtjev.

@@ -1,0 +1,7 @@
+## II. IZVORI FINANCIRANJA
+# Članak 2.
+Političke stranke mogu radi ostvarivanja svojih političkih ciljeva stjecati prihode od imovine u svojem vlasništvu, članarine, izdavačke djelatnosti, dobrovoljnih priloga (donacija), prodaje propagandnog materijala, organiziranja stranačkih manifestacija te iz drugih zakonom dopuštenih izvora.
+Prihode iz izvora utvrđenih stavkom 1. ovoga članka, osim prihoda iz članarine i organiziranja stranačkih manifestacija, mogu stjecati i nezavisni zastupnici, zastupnici nacionalnih manjina, odnosno nezavisni članovi predstavničkih tijela jedinica lokalne i područne (regionalne) samouprave.
+Političke stranke, nezavisni zastupnici, zastupnici nacionalnih manjina i nezavisni članovi predstavničkih tijela jedinica lokalne i područne (regionalne) samouprave mogu se financirati iz sredstava državnog proračuna, kao i proračuna jedinica lokalne i područne (regionalne) samouprave, na način i pod uvjetima utvrđenima ovim Zakonom.
+Financijska sredstva iz stavka 1., 2. i 3. ovoga članka, politička stranka, odnosno nezavisni zastupnik, zastupnik nacionalnih manjina i nezavisni član predstavničkog tijela jedinice lokalne i područne (regionalne) samouprave, može koristiti isključivo za ostvarenje ciljeva utvrđenih programom i statutom političke stranke, odnosno programom rada i godišnjim financijskim planom.
+Zabranjuje se trošenje financijskih sredstava iz stavka 1., 2. i 3. ovoga članka za osobne potrebe.

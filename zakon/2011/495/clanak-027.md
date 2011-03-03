@@ -1,0 +1,9 @@
+## Tijela nadležna za provedbu nadzora i revizije
+# Članak 27.
+Državno izborno povjerenstvo u suradnji s nadležnim izbornim povjerenstvima, nadzire poštivanje odredbi ovoga Zakona koje se odnose na izbornu promidžbu, financijske račune koji se odnose na financiranje izborne promidžbe, prikupljanje donacija i troškove izborne promidžbe, izvještavanje o financiranju izborne promidžbe te ostale aktivnosti vezane uz financiranje izborne promidžbe političkih stranaka, nezavisnih lista i kandidata.
+Nadzor financiranja izborne promidžbe, Državno izborno povjerenstvo provodi od dana otvaranja posebnih računa za financiranje izborne promidžbe do završetka transakcija na tim računima.
+Državni ured za reviziju provodi reviziju godišnjeg financijskog poslovanja i godišnjih financijskih izvještaja političkih stranaka, nezavisnih zastupnika, zastupnika nacionalnih manjina i nezavisnih članova predstavničkih tijela jedinica lokalne i područne (regionalne) samouprave te provodi i druge poslove iz svoje nadležnosti.
+Državni ured za reviziju provodi reviziju na temelju ovoga Zakona na način kako je to propisano zakonom kojim se uređuje rad Državnog ureda za reviziju i međunarodnim revizorskim standardima.
+U provedbi nadzora, Državno izborno povjerenstvo može zatražiti potrebne informacije od Državnog ureda za reviziju.
+Državno izborno povjerenstvo provodi nadzor putem drugih nadležnih tijela te može zatražiti potrebne podatke i poduzimanje potrebnih radnji od tih tijela. Nadležna tijela dužna su u zatraženom roku dostaviti Državnom izbornom povjerenstvu sve podatke i nalaze, sukladno odredbama ovoga Zakona.
+Po zahtjevu Državnog izbornog povjerenstva, Ministarstvo financija provjerava financiranje aktivnosti vezanih uz financiranje izborne promidžbe političkih stranaka, nezavisnih lista i kandidata.
