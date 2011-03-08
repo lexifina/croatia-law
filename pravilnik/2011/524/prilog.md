@@ -1,0 +1,1 @@
+[1] Pravilnikom se preuzimaju odredbe Direktive Vijeća 2000/29/EZ od 8. svibnja 2000. godine o mjerama zaštite od unošenja u Zajednicu organizama štetnih za bilje ili biljne proizvode i njihova širenja unutar Zajednice, s njezinim izmjenama i dopunama
