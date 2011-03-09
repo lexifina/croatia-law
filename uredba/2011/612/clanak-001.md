@@ -1,0 +1,2 @@
+# Članak 1.
+Ovom Uredbom utvrđuje se način izračuna iznosa pomoći izravnanja za decentralizirane funkcije jedinica lokalne i područne (regionalne) samouprave za 2011. godinu iz Državnog proračuna Republike Hrvatske za 2011. godinu prema posebnim zakonima i odlukama o kriterijima i mjerilima za osiguravanje minimalnoga financijskog standarda javnih potreba u djelatnostima osnovnog i srednjeg školstva, socijalne skrbi, zdravstva i vatrogastva.

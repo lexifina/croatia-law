@@ -1,0 +1,7 @@
+# Članak 4.
+(1) Bilančna prava grada, županije i Grada Zagreba za osnovno školstvo za 2011. godinu utvrđena su Odlukom o kriterijima i mjerilima za utvrđivanje bilančnih prava za financiranje minimalnog financijskog standarda javnih potreba osnovnog školstva u 2011. godini.
+(2) Bilančna prava županije i Grada Zagreba za srednje školstvo za 2011. godinu utvrđena su Odlukom o kriterijima i mjerilima za utvrđivanje bilančnih prava za financiranje minimalnog financijskog standarda javnih potreba srednjih škola i učeničkih domova u 2011. godini.
+(3) Bilančna prava županije i Grada Zagreba za 2011. godinu utvrđena su Odlukom o minimalnim financijskim standardima materijalnih i financijskih rashoda centara za socijalnu skrb i pomoći za podmirenje troškova stanovanja korisnicima koji se griju na drva u 2011. godini.
+(4) Bilančna prava županije i Grada Zagreba za 2011. godinu utvrđena su Odlukom o minimalnim financijskim standardima za decentralizirano financiranje domova za starije i nemoćne osobe u 2011. godini.
+(5) Bilančna prava županije i Grada Zagreba za financiranje zdravstvenih ustanova na području županije i Grada Zagreba za 2011. godinu utvrđena su Odlukom o minimalnim financijskim standardima za decentralizirane funkcije za zdravstvene ustanove u 2011. godini.
+(6) Bilančna prava općine, grada i Grada Zagreba za financiranje javnih vatrogasnih postrojbi za 2011. godinu utvrđena su Odlukom o minimalnim financijskim standardima za decentralizirano financiranje redovite djelatnosti javnih vatrogasnih postrojbi u 2011. godini.
