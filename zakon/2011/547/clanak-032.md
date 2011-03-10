@@ -1,0 +1,12 @@
+## POSTUPAK IZBORA KANDIDATA
+# Članak 32.
+(1) Šest mjeseci prije isteka mandata predsjednika, odnosno članova Povjerenstva, Odbor pokreće postupak za izbor novog predsjednika, odnosno člana Povjerenstva.
+(2) Odbor će objaviti javni poziv za kandidate za predsjednika, odnosno članove Povjerenstva. Rok za prijavu kandidata na objavljeni poziv je 15 dana.
+(3) Javni poziv se objavljuje u »Narodnim novinama«, internetskoj stranici Hrvatskoga sabora i jednim dnevnim novinama koje se prodaju na cjelokupnom području Republike Hrvatske. U javnom pozivu se navode uvjeti za izbor predsjednika i članova Povjerenstva određeni ovim Zakonom, rok za podnošenje prijedloga kandidata te prilozi koji moraju biti dostavljeni uz prijedlog.
+(4) Na temelju zaprimljenih prijava, Odbor će bez odgađanja utvrditi liste kandidata koji udovoljavaju uvjetima za predsjednika, odnosno članove Povjerenstva. Liste se objavljuju na službenim internetskim stranicama Hrvatskoga sabora.
+(5) Odbor će obaviti razgovore sa svakim od kandidata s liste iz stavka 4. ovog članka u roku od 15 dana od dana objave lista. Javnost ima pravo nazočiti održavanju razgovora s kandidatima. Za kandidate se provodi temeljna sigurnosna provjera.
+(6) Na temelju održanih razgovora, Odbor će sastaviti jedinstvenu završnu listu sastavljenu u pravilu od dvostruko više kandidata za predsjednika te jedinstvenu završnu listu sastavljenu u pravilu od dvostruko više kandidata za članove Povjerenstva. Kandidati sa jedinstvene završne liste dužni su po pozivu podnijeti Odboru izvješće o imovinskom stanju iz članka 8. i 9. ovog Zakona.
+(7) Jedinstvene završne liste se objavljuju na sjednici Odbora s navođenjem kratkog obrazloženja za uvrštavanje pojedinog kandidata na listu. Posebno se navodi je li neki kandidat uvršten na listu na temelju jednoglasne odluke Odbora.
+(8) Jedinstvene završne liste dostavljaju se Hrvatskome saboru, koji će sukladno dostavljenim listama provesti izbor predsjednika i članova Povjerenstva.
+(9) Hrvatski sabor će tajnim glasovanjem provesti izbor predsjednika i članova Povjerenstva između predloženih kandidata. Za predsjednika Povjerenstva izabrat će se onaj kandidat koji dobije većinu glasova svih zastupnika. Za članove Povjerenstva izabrat će se četiri kandidata koji dobiju većinu glasova svih zastupnika.
+(10) Nakon izbora predsjednika i članova Povjerenstva Odbor će na internetskim stranicama Hrvatskoga sabora objaviti njihova izvješća o imovinskom stanju iz stavka 6. ovog članka.

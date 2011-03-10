@@ -1,0 +1,2 @@
+# Članak 27.
+Ako dužnosnik ne dostavi Povjerenstvu pisano očitovanje iz članka 26. ovog Zakona u roku od 15 dana ili ne opravda utvrđeni nesklad ili nerazmjer ili pak ne priloži odgovarajuće dokaze potrebne za usklađivanje prijavljene imovine s utvrđenom imovinom u postupku provjere s pribavljenim podacima o imovini dužnosnika, Povjerenstvo će pokrenuti postupak protiv dužnosnika zbog kršenja odredbi iz članka 8. i 9. ovog Zakona te će o tom obavijestiti nadležna državna tijela.

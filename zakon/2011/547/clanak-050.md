@@ -1,0 +1,4 @@
+# Članak 50.
+(1) Novčanom kaznom u iznosu od 50.000,00 do 1.000.000,00 kuna kaznit će se za prekršaj pravna osoba koja protivno odredbama članka 20. ovog Zakona imenuje ili izabere na dužnost dužnosnika ili s njim sklopi ugovor kojim dužnosnik stupa u radni odnos u roku od jedne godine od prestanka dužnosti.
+(2) Novčanom kaznom u iznosu od 50.000,00 do 500.000,00 kuna kaznit će se za prekršaj pravna osoba iz članka 16. stavka 1. ovog Zakona koja ne obavijesti Povjerenstvo o svom stupanju u poslovni odnos putem javnog natječaja ili na drugi način s državnim tijelima ili s jedinicama lokalne, odnosno područne (regionalne) samouprave ili s trgovačkim društvima u kojima Republika Hrvatska ili jedinica lokalne, odnosno područne (regionalne) samouprave ima upravljački udio. (članak 16. stavak 3.).
+(3) Za prekršaje iz stavka 1. i 2. ovog članka kaznit će se i odgovorna osoba u pravnoj osobi novčanom kaznom u iznosu od 5.000,00 od 50.000,00 kuna.
