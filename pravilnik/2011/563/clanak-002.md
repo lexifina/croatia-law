@@ -1,0 +1,3 @@
+# Članak 2.
+U članku 7. stavak 1. mijenja se i glasi:
+»(1) Ne dovodeći u pitanje odredbe članka 27. stavka 2. i članka 28. stavka 2. Pravilnika o označavanju, reklamiranju i prezentiranju hrane (»Narodne novine« br. 41/08), pri označavanju mješavina voćnog soka i voćnog soka od koncentriranog voćnog soka te voćnog nektara proizvedenog u potpunosti ili djelomično od jednog ili više koncentriranih proizvoda, mora biti navedeno »proizvedeno od koncentriranog...« ili »od koncentriranog...« odnosno »djelomično proizvedeno od koncentriranog...« ili »djelomično od koncentriranog...«. Ovaj podatak se mora nalaziti u blizini naziva proizvoda, istaknut u odnosu na pozadinu i jasno vidljiv.«
