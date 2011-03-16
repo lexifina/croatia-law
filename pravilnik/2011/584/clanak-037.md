@@ -1,0 +1,3 @@
+## VI. POLAGANJE DOPUNSKOG STRUČNOG ISPITA I PRIZNAVANJE INOZEMNE STRUČNE KVALIFIKACIJE
+# Članak 37.
+Dopunski stručni ispit može polagati osoba koja je već položila stručni ispit u knjižničarskoj struci za pomoćnog knjižničara, odnosno knjižničara i koja, nakon stjecanja propisanog obrazovanja želi steći stručno zvanje knjižničara, odnosno diplomiranog knjižničara kao i osoba koja je položila stručni ispit za stručnog suradnika knjižničara prema Pravilniku o polaganju stručnog ispita učitelja i stručnih suradnika u osnovnom školstvu i nastavnika u srednjem školstvu (»Narodne novine«, broj 88/03).
