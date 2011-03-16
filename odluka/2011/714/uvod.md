@@ -1,0 +1,1 @@
+Na osnovi članka 68. Zakona o obveznom zdravstvenom osiguranju (»Narodne novine« broj 150/08., 94/09., 158/09., 71/10. i 139/10.) Upravno vijeće Hrvatskog zavoda za zdravstveno osiguranje na 19. sjednici održanoj 28. veljače 2011. godine uz prethodno pribavljeno mišljenje nadležnih komora i suglasnost ministra nadležnog za zdravstvo donijelo je

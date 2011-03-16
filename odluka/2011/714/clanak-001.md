@@ -1,0 +1,4 @@
+# Članak 1.
+U Odluci o standardima i normativima prava na zdravstvenu zaštitu iz obveznog zdravstvenog osiguranja za slučaj ozljede na radu i profesionalne bolesti s osnovama za sklapanje ugovora (»Narodne novine« 1/11. i 6/11.) u članku 7. dodaju se novi stavci 3. i 4. koji glase:
+»Ako je, u okviru specifične zdravstvene zaštite iz stavka 1. ovog članka, potrebno uputiti osiguranika na provođenje određenih postupaka laboratorijske dijagnostike na primarnoj razini, doktor specijalist medicine rada izdaje uputnicu za primarni laboratorij u skladu s odredbama Pravilnika iz stavka 2. ovog članka.
+Iznimno, ako je u okviru specifične zdravstvene zaštite iz stavka 1. ovog članka potrebno uputiti osiguranika na provođenja određenih dijagnostičkih postupaka koje ne obavljaju ugovorne zdravstvene ustanove/ugovorni privatni zdravstveni radnici, Zavod će omogućiti plaćanje takvih usluga putem suradne ustanove.«
