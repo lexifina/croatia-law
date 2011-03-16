@@ -1,0 +1,5 @@
+# Članak 16.
+Specijalističko usavršavanje može se provoditi u zdravstvenim ustanovama čiji osnivač je Republika Hrvatska, jedinica područne (regionalne) samouprave i grad, koje ispunjavaju sljedeće uvjete u odnosu na prostor, radnike i medicinsko-tehničku opremu:
+- u zdravstvenoj ustanovi obavljaju se stručni poslovi propisani Planom i programom specijalizacije,
+- zdravstvena ustanova ima odgovarajući prostor i opremu za izvanbolničku djelatnost sukladno Prilogu VI. koji je sastavni dio ovoga Pravilnika,
+- u zdravstvenoj ustanovi u radnom odnosu s punim radnim vremenom zaposlene najmanje dvije medicinske sestre - specijalisti hitne medicinske pomoći te dva specijalista određene grane specijalizacije ili uže specijalizacije koje su sastavni dio obveznih obilazaka iz Priloga I. ovoga Pravilnika, a sastavni su dio specijalizacije te najmanje jednog liječnika specijalista odgovarajuće specijalizacije za edukaciju specijalizanata hitne medicinske pomoći u toj specijalističkoj grani i liječnika specijalista hitne medicine ili liječnika koji radi na poslovima hitne medicine u toj zdravstvenoj ustanovi.

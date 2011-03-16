@@ -1,0 +1,5 @@
+# Članak 8.
+Zdravstvena ustanova čiji je osnivač Republika Hrvatska, jedinica područne (regionalne) samouprave i grad sa specijalizantom sklapa ugovor o međusobnim pravima i obvezama.
+Pri sklapanju ugovora iz stavka 1. ovoga članka obveza rada u radnom odnosu na neodređeno vrijeme nakon završetka specijalističkog usavršavanja i položenog specijalističkog ispita ne smije biti ugovorena u trajanju duljem od vremena trajanja specijalizacije.
+U ugovoru iz stavka 1. ovoga članka potrebno je ugovoriti i iznos naknade štete koju je medicinska sestra, u slučaju kad otkazuje ugovor o radu prije isteka ugovorene obveze rada iz stavka 2. ovoga članka, obvezna isplatiti zdravstvenoj ustanovi iz stavka 1. ovoga članka, a koji ne može biti veći od 2/3 iznosa troškova specijalizacije iz članka 19. stavka 1. ovoga Pravilnika.
+Iznimno od stavka 3. ovoga članka, ako medicinska sestra otkaže ugovor o radu i uz pribavljenu suglasnost ministra zasnuje radni odnos u drugoj zdravstvenoj ustanovi čiji je osnivač Republika Hrvatska, jedinica područne (regionalne) samouprave i grad, obveza rada iz stavka 2. ovoga članka nastavlja se u toj zdravstvenoj ustanovi.

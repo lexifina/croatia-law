@@ -1,0 +1,4 @@
+# Članak 31.
+Kandidat koji ne položi specijalistički ispit prvi puta, može ga ponoviti u roku koji zapisnički utvrdi ispitna komisija, a koji ne može biti kraći od mjesec dana, niti dulji od tri mjeseca od dana polaganja ispita. Ako kandidat ne položi ispit drugi puta, može ga još jednom ponoviti kroz daljnja tri mjeseca.
+Ako niti nakon ponovljenog roka kandidat ne položi ispit, upućuje se na ponovno obavljanje specijalističkog usavršavanja u trajanju koje odredi ispitna komisija, a koje ne može biti kraće od tri mjeseca. Troškove specijalističkog usavršavanja u tom slučaju kandidat snosi sam.
+Ako kandidat ne pristupi polaganju ispita ili odustane od započetog ispita bez opravdanog razloga, smatra se da ispit taj puta nije položio i mora ga ponoviti u roku koji odredi ispitna komisija, a koji ne smije biti dulji od tri mjeseca. Troškove ispita u tim slučajevima kandidat snosi sam.

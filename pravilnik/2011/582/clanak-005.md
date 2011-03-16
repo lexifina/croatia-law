@@ -1,0 +1,3 @@
+# Članak 5.
+Specijalizacija se može odobriti medicinskoj sestri koja je u radnom odnosu u zdravstvenoj ustanovi ili u trgovačkom društvu koje obavlja zdravstvenu djelatnost ili ima privatnu praksu ili radi kod zdravstvenog radnika privatne prakse te kojoj je izdano odobrenje za samostalan rad (licenca).
+Medicinskoj sestri iz stavka 1. ovoga članka koja nije u radnom odnosu u zdravstvenoj ustanovi niti u trgovačkom društvu koje obavlja zdravstvenu djelatnost niti ima privatnu praksu, odnosno ne radi kod zdravstvenog radnika privatne prakse, ministar može odobriti specijalizaciju za potrebe tijela ili osoba iz članka 140. stavka 2. Zakona o zdravstvenoj zaštiti.
