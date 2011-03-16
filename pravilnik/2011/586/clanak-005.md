@@ -1,0 +1,4 @@
+# Članak 5.
+Javni isporučitelj mora osigurati redovito uzorkovanje i ispitivanje sastava i mjerenje količine otpadnih voda sukladno Zakonu o vodama i na temelju njega donesenih provedbenih propisa.
+Javni isporučitelj koji upravlja građevinama za javnu odvodnju i/ili uređajem za pročišćavanje otpadnih voda s prihvatnim opterećenjem većim od 100 000 ES mora imati vlastiti laboratorij koji je ovlašten za obavljanje djelatnosti uzimanja uzoraka i ispitivanje otpadnih voda.
+Javni isporučitelj koji upravlja građevinama za javnu odvodnju i/ili uređajem za pročišćavanje otpadnih voda s prihvatnim opterećenjem manjim od 100 000 ES može obavljati uzorkovanje i ispitivanje otpadnih voda putem vlastitog laboratorija ili drugog laboratorija koji je ovlašten za obavljanje djelatnosti uzimanja uzoraka i ispitivanje otpadnih voda.
