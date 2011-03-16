@@ -1,0 +1,2 @@
+# Članak 1.
+Ovim Pravilnikom propisuje se oblik i sadržaj obrasca službene iskaznice, oblik i sadržaj značke kao i vođenje upisnika o izdanim službenim iskaznicama i značkama glavnog sanitarnog inspektora, zamjenika glavnog sanitarnog inspektora, državnih sanitarnih inspektora, viših državnih sanitarnih inspektora, sanitarnih inspektora, viših sanitarnih inspektora Ministarstva zdravstva i socijalne skrbi (u daljnjem tekstu: sanitarni inspektor).
