@@ -1,0 +1,3 @@
+# Članak 23.
+Ako korisnik kredita prestane s otplatom subvencioniranog kredita, uslijed čega odabrana poslovna banka proglasi kredit dospjelim prema odredbi članka 25. ovoga Zakona u cijelosti ili stan proda tijekom otplate kredita, banka je dužna sredstva uplaćena na ime subvencioniranja kredita prenijeti na račun APN-a u roku od mjesec dana od nastupa takvog događaja, a koji ta sredstva uplaćuje u proračun Republike Hrvatske.
+Stavak 1. ovoga članka ne primjenjuje se ako se kredit proglašava dospjelim, odnosno ako se stan prodaje po proteku šest godina njegove otplate niti ako se stan prodaje radi kupnje novog stana.

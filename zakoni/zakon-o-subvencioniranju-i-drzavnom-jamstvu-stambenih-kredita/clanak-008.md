@@ -1,0 +1,2 @@
+# Članak 8.
+Subvencioniranje kredita se odobrava samo za kupnju novog stana u zgradi koja je izgrađena na temelju akta za građenje i ima akt za uporabu građevine, čija prodajna cijena s porezom na dodanu vrijednost nije veća od 1.900,00 eura u kunskoj protuvrijednosti prema srednjem deviznom tečaju Hrvatske narodne banke po m² neto korisne površine stana i ako se taj stan kupuje izravno od investitora ili izvođača.
