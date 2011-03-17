@@ -1,0 +1,5 @@
+# Članak 22.
+(1) Operativna organizacija dužna je najkasnije u roku 12 mjeseci od dana stupanja na snagu ovoga Pravilnika uspostaviti i staviti u funkciju Organizaciju za osposobljavanje zrakoplovno-tehničkog osoblja.
+(2) Operativna organizacija dužna je najkasnije 12 mjeseci od dana stupanja na snagu ovoga Pravilnika uspostaviti i staviti u funkciju sustav izdavanja dozvola i ovlaštenja iz Dijela trećeg ovoga Pravilnika.
+(3) Operativna organizacija dužna je najkasnije 24 mjeseca od dana stupanja na snagu ovoga Pravilnika uspostaviti i učinkovito primijeniti sustav internog auditiranja kvalitete udovoljavanja zahtjevima ovoga Pravilnika.
+(4) Operativna organizacija dužna je najkasnije u roku od tri godine od dana stupanja na snagu ovoga Pravilnika provesti potrebna osposobljavanja i uskladiti dozvole i ovlaštenja za upravljanje i održavanje zrakoplovno-tehničkih sustava i uređaja, izdane temeljem ranijih propisa, s odredbama ovoga Pravilnika, na način da svake godine tijekom te tri godine provede potrebna osposobljavanja i provjere za najmanje jednu trećinu od ukupnog broja zaposlenog zrakoplovno-tehničkog osoblja.

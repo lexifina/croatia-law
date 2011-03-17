@@ -1,0 +1,1 @@
+Pravilnik o uvjetima i načinu izdavanja, produžavanja i obnavljanja dozvola i ovlaštenja pomoćnom zrakoplovnom osoblju koje obavlja poslove upravljanja i održavanja ATM opreme odobrene za operativno korištenje
