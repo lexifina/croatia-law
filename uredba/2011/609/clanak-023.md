@@ -1,0 +1,5 @@
+## Kabinet
+# Članak 23.
+Kabinet ministra, odnosno kabinet ravnatelja državne uprave organizacije, te kabinet državnog tajnika središnjeg državnog ureda je posebna unutarnja ustrojstvena jedinica koja za ministra i državne tajnike u ministarstvu, odnosno za ravnatelja državne upravne organizacije i njegovog zamjenika, te za državnog tajnika središnjeg državnog ureda i njegove zamjenike obavlja poslove u vezi predstavki i pritužbi građana, protokolarne poslove, poslove u vezi odnosa sa sredstvima javnog priopćavanja, poslove koji se odnose na jačanje vertikalne i horizontalne koordinacije unutar tijela, te druge stručne i administrativne poslove za službene potrebe čelnika tijela.
+Ukoliko središnje tijelo državne uprave ima manje od 50 zaposlenih, obavljanje poslova kabineta može se organizirati u okviru neke od ustrojstvenih jedinica unutar tog tijela.
+Uz kabinet čelnika središnjeg tijela državne uprave mogu se predvidjeti i samostalni izvršitelji (savjetnici) za posebne službene potrebe središnjeg tijela državne uprave.
