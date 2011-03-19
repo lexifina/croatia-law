@@ -1,0 +1,1 @@
+Na temelju članka 47. Odluke o općinskim porezima Općine Vrhovine (»Narodne novine« 132/06 i članka 18. Statuta Općine Vrhovine (»Županijski glasnik« Ličko-senjske županije 17/01.) Općinsko vijeće na 16. redovnoj sjednici donijelo je
