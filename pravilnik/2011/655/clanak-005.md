@@ -1,0 +1,2 @@
+# Članak 5.
+Za mjerenje obujma tople vode, u svrhu ovjeravanja, vaga se smije zamijeniti poredbenim mjerilom protoka (ili s nekoliko poredbenih mjerila protoka), ako je to mjerilo konstruirano tako da očekivana promjena mjerne pogreške obujma u čitavom mjernom području nije veća od ±0,2% na godinu i ako se točnost poredbenog mjerila protoka provjerava pomoću vage barem jedanput mjesečno i o tome se vodi evidencija. Mjerna područja poredbenog (ili poredbenih) mjerila protoka utvrđuju se u izvještaju o odobravanju ispitnog mjesta.
