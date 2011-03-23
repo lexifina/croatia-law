@@ -1,0 +1,2 @@
+# Članak 1.
+Ovim se Zakonom uređuju jamstveni fond za poticaj gospodarskom razvitku (u daljnjem tekstu: jamstveni fond), postupak dodjele jamstvenih kvota i davanja jamstava Republike Hrvatske poduzetnicima za jačanje njihove sposobnosti osiguranja izvora financiranja za održive investicijske projekte, razdoblje u kojem se daju jamstva, ovlasti i obveze Hrvatske banke za obnovu i razvitak te druga pitanja vezana uz jamstveni fond.
