@@ -1,0 +1,1 @@
+Na temelju članka 27. Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 2011. godinu (»Narodne novine«, broj 140/2010) i članka 77. Zakona o proračunu (»Narodne novine«, broj 87/2008), Vlada Republike Hrvatske je na sjednici održanoj 23. ožujka 2011. godine donijela
