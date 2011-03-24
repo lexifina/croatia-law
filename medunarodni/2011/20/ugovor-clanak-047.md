@@ -1,0 +1,4 @@
+# Članak 47.
+PRIHVATLJIVI IZDACI ZA IZVRŠAVANJE UGOVORA O NABAVI
+USLUGA, RADOVA I ROBA
+Ugovori o nabavi usluga, radova i roba kojima se provode operacije, projekti i aktivnosti predviđeni programom mogu pokrivati sav potreban materijalan poticaj koji čini dio uobičajenog izvršavanja ugovora, u skladu s relevantnim profesionalnim standardima i praksom, pod uvjetom da su izravno povezani i strogo potrebni za provedbu ugovora. Poticaj može uključivati između ostalog troškove pripreme lokacije, pribavljanja uredskog prostora, pogona i opreme koji su u vlasništvu izvođača ili koji su kupljeni za izvršenje ugovora.

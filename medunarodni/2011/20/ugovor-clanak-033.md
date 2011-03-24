@@ -1,0 +1,5 @@
+# Članak 33.
+IZVJEŠĆA I MIŠLJENJA TIJELA NADLEŽNOG ZA REVIZIJU
+Izvješća i mišljenja tijela nadležnog za reviziju pripremaju se u skladu sa zahtjevima iz članka 18. Okvirnog sporazuma.
+Poglavlje VI.
+PRIHVATLJIVOST IZDATAKA

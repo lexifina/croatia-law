@@ -1,0 +1,11 @@
+# Članak 79.
+VERIFIKACIJE UPRAVLJANJA
+1. Sustavi upravljanja i kontrole uključuju postupke za verifi - kaciju načina korištenja imovine koja pripada određenoj operaciji, kao i aktivnosti u okviru operacije odnosno da li se koristi u skladu s ciljevima programa, zatim za provjeru da li su prijavljeni izdaci uistinu nastali u skladu s primjenjivim pravilima, da li su robe i usluge isporučeni u skladu s odlukom o odobrenju i da li su zahtjevi za plaćanjem krajnjeg korisnika ispravni. Verifi kacije pokrivaju administrativne, fi nancijske, tehničke i fi zičke vidove operacija, kao i one vezane za izvedbu, ovisno o slučaju.
+2. Postupci iziskuju evidentiranje terenskih verifi kacija. U evidenciji se navodi obavljeni posao, rezultati verifi kacije i mjere koje su poduzete u odnosu na odstupanja. Ako fi zičke ili administrativne verifi kacije nisu iscrpne, već su obavljene na uzorku radova ili transakcija, u evidenciji će se navesti odabrani radovi ili transakcije i opisati način uzorkovanja.
+STRANICA 34 - BROJ 3
+PETAK, 11. OŽUJKA 2011.
+dodatak MEĐUNARODNI UGOVORI
+NARODNE NOVINE
+SLUŽBENI LIST REPUBLIKE HR VA TSKE
+3. U provjerama je potrebno utvrditi da li su problemi na koje se naišlo (a) jednokratne prirode, ili (b) sustavni, u kojem slučaju postoji rizik za ostale ili sve mjere koje obavljaju ista provedbena tijela u državi korisnici. Također je potrebno identifi cirati uzroke navedenih situacija, daljnje preglede koji su eventualno potrebni i potrebne korektivne i preventivne radnje.
+4. Službe Komisije mogu zatražiti od Korisnika da obavi terensku provjeru, da provjeri točnost jedne ili više operacija i zakonitost i pravilnost povezanih transakcija.

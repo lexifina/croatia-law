@@ -1,0 +1,2 @@
+# Članak 1.
+Potvrđuje se Sporazum između Vlade Republike Hrvatske i Europske komisije kojim se mijenja Sporazum o financiranju između Vlade Republike Hrvatske i Europske komisije za višegodišnji Operativni program »Regionalna konkurentnost« za pomoć Zajednice iz Instrumenta pretpristupne pomoći u sklopu komponente »Regionalni razvoj« u Hrvatskoj, potpisan u Bruxellesu 27. listopada 2010., i u Zagrebu 17. prosinca 2010., u izvorniku na engleskom jeziku.
