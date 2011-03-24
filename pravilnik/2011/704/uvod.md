@@ -1,0 +1,1 @@
+Na temelju članka 16. Zakona o kvaliteti zdravstvene zaštite (»Narodne novine« br. 107/07), na prijedlog Agencije za kvalitetu i akreditaciju u zdravstvu, uz prethodno pribavljeno mišljenje nadležnih komora ministar zdravstva i socijalne skrbi donosi
