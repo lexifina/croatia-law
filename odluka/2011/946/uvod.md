@@ -1,0 +1,1 @@
+Na temelju članka 30. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 101/98, 15/2002, 117/2001, 199/2003, 30/2004 i 77/2009) u vezi sa Zakonom o fiskalnoj odgovornosti (»Narodne novine«, broj 139/2010), Vlada Republike Hrvatske je na sjednici održanoj 25. ožujka 2011. godine donijela
