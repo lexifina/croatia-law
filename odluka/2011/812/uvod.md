@@ -1,0 +1,1 @@
+Na temelju Ustavnog zakona o pravima nacionalnih manjina (»Narodne novine« br. 155/2002, 47/2010 i 80/2010), članka 35. stavka 4. i članka 36. stavka 11., Savjet za nacionalne manjine na sjednici održanoj 17. ožujka 2011. godine donio je
