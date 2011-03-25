@@ -1,0 +1,11 @@
+# Članak 34.
+RAZDOBLJE PRIHVATLJIVOSTI
+1. Bez obzira na članak 19. Okvirnog sporazuma, potpisani ugovori i dodaci, nastali troškovi i plaćanja izvršena od strane nacionalnih tijela od 1. prosinca 2008. do 31. prosinca 2017. godine prihvatljivi su za sufi nanciranje od strane Zajednice u sklopu programa.
+2. Tehnička pomoć za podršku kod uspostave sustava upravljanja i kontrole može biti prihvatljiva i prije početnog prijenosa upravljanja za izdatke nastale nakon 1. siječnja 2007. godine.
+PETAK, 11. OŽUJKA 2011.
+BROJ 3 - STRANICA 275 dodatak MEĐUNARODNI UGOVORI
+NARODNE NOVINE
+SLUŽBENI LIST REPUBLIKE HR VA TSKE
+3. Izdaci vezani za poziv na dostavu prijedloga projekata ili poziv na nadmetanje mogu biti prihvatljivi i prije početnog prijenosa upravljanja i nakon 1. siječnja 2007., pod uvjetom da je početni prijenos upravljanja uspostavljen unutar rokova određenim u rezervnoj klauzuli koja se unosi u odnosne operacije ili pozive, i također sukladno prethodnom odobrenju dokumentacije od strane
+Komisije. Pozivi na dostavu prijedloga projekata ili pozivi na nadmetanje mogu biti poništeni ili izmijenjeni ovisno o odluci o prijenosu upravljanja.
+4. Potpisani ugovori i dodaci, kao i nastali troškovi i plaćanja izvršena od strane nacionalnih tijela izvan rokova iz stavaka 1 do 3 nisu prihvatljivi za sufi nanciranje od strane Zajednice u sklopu programa.

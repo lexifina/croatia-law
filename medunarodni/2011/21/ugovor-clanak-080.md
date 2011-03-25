@@ -1,0 +1,21 @@
+# Članak 80.
+PROVJERE KOJE PROVODI KOMISIJA
+1. Komisija će s osnova svoje odgovornosti za izvršenje proračuna Zajednice provjeriti ima li Korisnik uredno funkcionirajuće sustave upravljanja i kontrole, a čime se omogućava učinkovito i efi kasno korištenje fondova Zajednice.
+U tu svrhu, ne dovodeći u pitanje provjere koje obavlja Korisnik, zaposlenici ili službenici Komisije mogu izvršiti terenske provjere sustava upravljanja i kontrole i operacija koje fi nancira IPA.
+STRANICA 290 - BROJ 3
+PETAK, 11. OŽUJKA 2011.
+dodatak MEĐUNARODNI UGOVORI
+NARODNE NOVINE
+SLUŽBENI LIST REPUBLIKE HR VA TSKE
+2. Službe Komisije pokušat će u najvećoj mogućoj mjeri osigurati da se provjere koje obavljaju izvršavaju na koordinirani način kako bi se izbjeglo ponavljanje provjera u odnosu na isti predmet kroz isto vremensko razdoblje. Korisnik i službe Komisije razmijenit će sve potrebne informacije o rezultatima izvršenih provjera.
+3. Terenske provjere koje se obavljaju kako bi se zaštitili fi nancijski interesi Zajednice od nepravilnosti mogu pripremati i provoditi službe Komisije ili Europski revizorski sud, u bliskoj suradnji s nadležnim tijelima države korisnice, a koja će biti na vrijeme obaviještena o predmetu i svrsi provjera kako bi mogla pružiti svu potrebnu pomoć.
+4. Ako Korisnik želi, terenske provjere i inspekcije mogu se obavljati zajednički, uz prethodni pristanak nadležnog kontrolnog tijela EK.
+5. Službenici Komisije moraju imati pristup, pod istim uvjetima kao nacionalni upravni inspektori i u skladu s nacionalnim zakonodavstvom, svim informacijama i dokumentaciji o operacijama, a koji su potrebni za pravilno provođenje terenskih provjera i inspekcija.
+Oni se mogu poslužiti istim inspekcijskim alatima kao i nacionalni upravni inspektori, a to se posebno odnosi na umnožavanje odgovarajuće dokumentacije.
+6. U izvršavanju terenskih provjera, službe Komisije mogu pozvati vanjske stručnjake i tijela, a za koje će biti odgovorne službe
+Komisije, za pružanje tehničke pomoći. Komisija će osigurati da spomenuti službenici i tijela podnesu jamstva u odnosu na vlastitu tehničku kompetentnost, neovisnost i poštivanje pravila o tajnosti podataka.
+7. Korisnik će Komisiji staviti na raspolaganje sva odgovarajuća nacionalna kontrolna izvješća o programu i projektima.
+8. Službe Komisije mogu također obavljati terenske provjere i inspekcije u odnosu na gospodarske subjekte. Kako bi se službama
+Komisije olakšalo obavljanje spomenutih provjera i inspekcija, gospodarski subjekti dužni su odobriti pristup svojim poslovnim prostorijama, zemljištu, prijevoznim sredstvima ili drugim područjima koja koriste u poslovne svrhe.
+9. Ukoliko se neki gospodarski subjekt usprotivi terenskoj provjeri ili inspekciji, Korisnik će postupajući u skladu s nacionalnim pravilima pružiti pomoć službenicima Komisije kako bi im se omogućilo obavljanje njihove dužnosti u izvršavanju terenske provjere ili inspekcije. Korisnik je dužan poduzeti sve potrebne mjere u skladu s nacionalnim pravom.
+10. Službe Komisije će što je prije moguće izvijestiti Korisnika o svakoj činjenici ili sumnji u odnosu na nepravilnost uočenu za vrijeme terenske provjere ili inspekcije.
