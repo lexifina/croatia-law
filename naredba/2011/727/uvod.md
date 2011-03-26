@@ -1,0 +1,1 @@
+Temeljem članka 44. stavak 1. Zakona o pomorskom dobru i morskim lukama (»Narodne novine«, br. 158/03, 141/06 i 38/09) u svezi s Odlukom o mjerilima za razvrstaj luka otvorenih za javni promet (»Narodne novine«, br. 31/96), ministar mora, prometa i infrastrukture, donosi
