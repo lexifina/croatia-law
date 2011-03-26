@@ -1,0 +1,1 @@
+Odluka o troškovima mirenja pred Centrom za mirenje pri Hrvatskoj gospodarskoj komori, u sporovima u vezi s primjenom Zakona o potrošačkom kreditiranju, Zakona o platnom prometu i Zakona o kreditnim institucijama
