@@ -1,0 +1,2 @@
+# Članak 2.
+Prosječne energijske vrijednosti goriva utvrđene u Prilogu I. ovog Pravilnika služe za određivanje nacionalnog cilja stavljanja biogoriva na tržište za potrebe prijevoza u Republici Hrvatskoj odnosno za utvrđivanje postotka energijskog udjela biogoriva na tržištu u jednoj godini primjenom metodologije za izračun udjela biogoriva u sektoru prijevoza, u skladu s Pravilnikom o mjerama za poticanje korištenja biogoriva u prijevozu.
