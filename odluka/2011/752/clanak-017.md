@@ -1,0 +1,3 @@
+# Članak 17.
+(1) Obveznici dostavljanja Agregatnog izvješća o izravnim i ostalim vlasničkim ulaganjima jesu skrbnici kod kojih rezidenti drže dionice i udjele u kapitalu nerezidentnih izdavatelja i/ili kod kojih nerezidenti drže dionice i udjele u kapitalu rezidentnih izdavatelja.
+(2) Obveznik je dostavljanja Agregatnog izvješća o izravnim i ostalim vlasničkim ulaganjima i Središnje klirinško depozitarno društvo d.d., koje izvještava o ulaganjima rezidenata u dionice i udjele u kapitalu nerezidentnih izdavatelja koji kotiraju na hrvatskim burzama i/ili ulaganjima nerezidenata u dionice i udjele u kapitalu rezidentnih izdavatelja koji kotiraju na hrvatskim burzama.

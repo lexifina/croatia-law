@@ -1,0 +1,2 @@
+# Članak 53.
+Obveznici izvješćivanja o depozitnim poslovima s inozemstvom, odnosno obveznici dostavljanja Izvješća o depozitnim poslovima s inozemstvom jesu svi rezidenti, osim kreditnih institucija i Hrvatske banke za obnovu i razvitak, koji imaju sklopljene ugovore o depozitu ili tekućem/transakcijskom računu kod nerezidentne financijske institucije pod uvjetima utvrđenima u članku 54. i 55. ove Odluke.

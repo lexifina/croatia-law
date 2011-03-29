@@ -1,0 +1,3 @@
+# Članak 27.
+(1) Obveznici dostavljanja Agregatnog izvješća o ulaganjima u dužničke vrijednosne papire jesu skrbnici kod kojih rezidenti drže dužničke vrijednosne papire nerezidentnih izdavatelja i/ili kod kojih nerezidenti drže dužničke vrijednosne papire rezidentnih izdavatelja.
+(2) Obveznik je dostavljanja Agregatnog izvješća o ulaganjima u dužničke vrijednosne papire i Središnje klirinško depozitarno društvo d.d., koje raspolaže podacima o ulaganjima rezidenata u dužničke vrijednosne papire nerezidentnih izdavatelja koji kotiraju na hrvatskim burzama i/ili ulaganjima nerezidenata u dužničke vrijednosne papire rezidentnih izdavatelja koji kotiraju na hrvatskim burzama.

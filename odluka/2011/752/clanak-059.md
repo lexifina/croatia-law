@@ -1,0 +1,5 @@
+# Članak 59.
+(1) Obrasci izvješćivanja IU-IP, IU-IPP, IU-T2, IU-P, IU-N, IU-NI, IU-DIV, PU-UDP, KD-ZO, KZ2, KO2, K3, GOD-INOK i FIZ-DEP, njihov oblik, sadržaj i metodološke upute za popunjavanje propisuju se Uputom za sastavljanje izvješća propisanih Odlukom o prikupljanju podataka za potrebe sastavljanja platne bilance, stanja inozemnog duga i stanja međunarodnih ulaganja koja se Hrvatskoj narodnoj banci dostavljaju u papirnatom obliku.
+(2) Izvještajne tablice izvješća IU-MI, PU-MI i INOK-DEP, njihov oblik, sadržaj, način dostavljanja i metodološke upute za popunjavanje propisuju se Uputom za sastavljanje izvješća propisanih Odlukom o prikupljanju podataka za potrebe sastavljanja platne bilance, stanja inozemnog duga i stanja međunarodnih ulaganja koja se Hrvatskoj narodnoj banci dostavljaju u elektroničkom obliku.
+(3) Upute iz stavka 1. i 2. ovog članka sastavni su dio ove Odluke.
+(4) Obveznici izvješćivanja mogu sami kreirati izvještajne tablice obrazaca koji se Hrvatskoj narodnoj banci dostavljaju u papirnatom obliku, pri čemu su dužni poštivati sve elemente propisane Uputom iz stavka 1. ovog članka.
