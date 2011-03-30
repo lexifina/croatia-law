@@ -1,0 +1,2 @@
+# Članak 1.
+Potvrđuje se Sporazum o financiranju između Vlade Republike Hrvatske i Europske komisije o programu financiranja sudjelovanja Hrvatske u transnacionalnim programima Europske teritorijalne suradnje Europskog fonda za regionalni razvoj »Jugoistočna Europa« i »Mediteran« u okviru komponente Prekogranična suradnja Instrumenta za pretpristupnu pomoć (IPA) za 2009. godine, potpisan u Bruxellesu 27. rujna 2010. i u Zagrebu, 27. prosinca 2010., u izvorniku na engleskom jeziku.

@@ -1,0 +1,1 @@
+Zakon o potvrđivanju Sporazuma o financiranju između Vlade Republike Hrvatske u transnacionalnim programima Europske teritorijalne suradnje Europskog fonda za regionalni razvoj "Jugoistočna Europa" i "Mediteran" u okviru komponente Prekogranična suradnja Instrumenta za pretpristupnu pomoć (IPA), za 2009. godinu
