@@ -1,0 +1,1 @@
+Zakon o potvrđivanju Memoranduma o razumijevanju između Europske unije i Republike Hrvatske o sudjelovanju Republike Hrvatske u programu Mladi na djelu i akcijskom programu u području cjeloživotnog učenja (2007. - 2013.)

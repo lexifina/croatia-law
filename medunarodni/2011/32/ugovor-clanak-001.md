@@ -1,0 +1,2 @@
+# Članak 1.
+Hrvatska sudjeluje u programima Mladi na djelu i akcijskom programu u području cjeloživotnog učenja (u daljnjem tekstu: »programi«) u skladu s uvjetima utvrđenima u Okvirnom sporazumu od 22. studenoga 2004. između Europske zajednice i Republike Hrvatske, o općim načelima za sudjelovanje Republike Hrvatske u programima Zajednice, te u skladu s uvjetima i odredbama navedenima u dodacima I., II. i III. ovoga Memoranduma o razumijevanju.
