@@ -1,0 +1,7 @@
+# Članak 20.
+VLASNIŠTVO NAD KAMATOM
+Kamata zarađena na bilo kojem od računa u eurima koji se odnose na pojedinu komponentu, ostaje u vlasništvu Korisnika. Kamata nastala fi nanciranjem programa od strane Zajednice knjiži se iskljua)
+PONEDJELJAK, 21. OŽUJKA 2011.
+BROJ 4 - STRANICA 255 dodatak MEĐUNARODNI UGOVORI
+NARODNE NOVINE
+SLUŽBENI LIST REPUBLIKE HR VA TSKE čivo na taj program, a smatra se kao sredstvo za Korisnika u obliku nacionalnog javnog doprinosa te se prikazuje Komisiji u trenutku završnog zatvaranja programa.

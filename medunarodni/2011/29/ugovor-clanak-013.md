@@ -1,0 +1,20 @@
+# Članak 13.
+POVLAČENJE ILI ODUZIMANJE AKREDITACIJE
+NACIONALNOG DUŽNOSNIKA ZA OVJERAVANJE I
+NACIONALNOG FONDA (1) Nakon prijenosa ovlasti upravljanja sa Komisije, dužnosnik nadležan za akreditaciju odgovoran je za nadzor trajnog ispunjenja svih zahtjeva da bi se ova akreditacija zadržala te je dužan obavijestiti Komisiju o svim značajnim promjenama s njom u vezi.
+(2) Ukoliko bilo koji od važećih zahtjeva iz članka 11. Provedbene uredbe o programu IPA nije, ili više nije, ispunjen, dužnosnik nadležan za akreditaciju dužan je ili oduzeti ili povući akreditaciju nacionalnog dužnosnika za ovjeravanje te smjesta izvijestiti. Komisiju o svojoj odluci i razlozima za tu odluku.
+Dužnosnik nadležan za akreditaciju dužan je osobno se uvjeriti da su ti zahtjevi ponovno ispunjeni prije vraćanja akreditacije.
+Potvrdu prati revizijsko mišljenje kako je navedeno u prethodnom članku 10. stavku 1.
+(3) U slučaju da dužnosnik nadležan za akreditaciju povuče ili oduzme akreditaciju nacionalnog dužnosnika za ovjeravanje, primjenjuju se sljedeće odredbe:
+■
+Komisija prestaje prebacivati sredstva Korisniku za vrijeme razdoblja kada akreditacija nije na snazi;
+■
+Tijekom razdoblja u kojem akreditacija nije na snazi, svi računi u eurima ili računi u eurima za predmetne komponente bit će blokirani, a isplate koje je Nacionalni fond izvršio s tih blokiranih računa u eurima neće se smatrati prihvatljivima za fi nanciranje Zajednice;
+■
+Ne dovodeći u pitanje bilo koje druge fi nancijske ispravke, Komisija može provoditi fi nancijske ispravke kako je navedeno u donjem članku 30. protiv Korisnika u vezi s prošlim nepoštivanjem zahtjeva za prijenos ovlasti upravljanja.
+Article 12
+STRANICA 252 - BROJ 4
+PONEDJELJAK, 21. OŽUJKA 2011.
+dodatak MEĐUNARODNI UGOVORI
+NARODNE NOVINE
+SLUŽBENI LIST REPUBLIKE HR VA TSKE
