@@ -1,0 +1,25 @@
+# Članak 5.
+NAČINI PROVEDBE (1) Za provedbu pomoći u okviru programa IPA u Republici Hrvatskoj, utvrđeno je decentralizirano upravljanje, čime Komisija prenosi upravljanje određenim mjerama na Korisnika,
+29 SL L 248, 16. rujna 2002., str.1., prema izmjenama Uredbom br. 1995/2006 od 13. prosinca 2006. (SL L 390, 30. prosinca 2006., str.1.)
+30 Uredba Komisije (EZ, Euroatom) 2342/2002 od 23. prosinca 2002. kojom se uređuju detaljna pravila provedbe Uredbe Vijeća (EZ, Euroatom)
+1605/2002 (SL L 357, 31. 12. 2002, str.1) izmijenjena Uredbom Komisije
+478/2007 od 23. travnja 2007 (SL : 111, 28. 4. 2007.) b)
+PONEDJELJAK, 21. OŽUJKA 2011.
+BROJ 4 - STRANICA 361 dodatak MEĐUNARODNI UGOVORI
+NARODNE NOVINE
+SLUŽBENI LIST REPUBLIKE HR VA TSKE dok zadržava ukupnu krajnju odgovornost za izvršenje općeg proračuna sukladno članku 53c Financijske uredbe i povezanih odredbi iz Ugovora o osnivanju EZ, primjenjuje se kao pravilo. Decentralizirano upravljanje mora pokriti najmanje provođenje natječaja, ugovaranje i isplate od strane državne uprave Korisnika. Operacije se provode u skladu s odredbama iz članka 53c Financijske uredbe i onim navedenim u ovom članku.
+(2) No ugovorne stranke mogu se sporazumjeti da će koristiti a) centralizirano upravljanje kako je određeno u članku 53a Financijske uredbe u okviru komponente Pomoći u tranziciji i jačanju institucija, posebno za regionalne i horizontalne programe, i u okviru komponente Prekogranične suradnje. Ono također može biti korišteno za tehničku pomoć unutar bilo koje komponente programa IPA Operacije se provode u skladu s odredbama iz članaka 53. točka (a), 53.a i 54. do 57. Financijske uredbe.
+b) zajedničko upravljanje kako je utvrđeno u članku 53.d Financijske uredbe za komponentu Pomoći u tranziciji i jačanje institucija, posebno za regionalne i horizontalne programe, i za programe koji uključuju međunarodne organizacije. Operacije se provode u skladu s odredbama iz članaka 53. točka (c) i 53.d
+Financijske uredbe.
+c) podijeljeno upravljanje kako je utvrđeno u članku 53b Financijske uredbe u okviru komponente Prekogranične suradnje, za prekogranične programe koji uključuju države članice Europske unije. Operacije se provode u skladu s odredbama iz članaka 53. točka (b), 53.b i Glave II. Drugog dijela Financijske uredbe. Sljedeća posebna odredba uzima se u obzir pri provedbi prekograničnih programa s državama članicama.
+U slučaju kada jedna ili više država članica Europske unije i Korisnik sudjeluju u prekograničnom programu a nisu još spremne za provedbu cijelog programa pod podijeljenim upravljanjem, onaj dio programa koji se odnosi na državu(e) članicu(e) provodi se u skladu s Glavom II. (Komponenta prekogranične suradnje), Poglavljem III., Odjeljkom 2. Provedbene uredbe o programu IPA (članci 101. i 138.), a onaj dio programa koji se odnosi na Korisnika provodi se u skladu s
+Glavom II., Poglavljem III., Odjeljkom 3. Provedbene uredbe o programu IPA. (članci 139. do 146. Provedbene uredbe o programu IPA, osim članka 142., Primjenjuju se odredbe iz članka 110. koje se odnose na zajednički nadzorni odbor).
+(3) Ukoliko to zahtijeva odnosna Odluka o fi nanciranju, Komisija i Korisnik sklapaju Sporazum o fi nanciranju u skladu sa člankom 8. Provedbene uredbe o programu IPA o višegodišnjim ili godišnjim programima. Sporazumi o fi nanciranju mogu se sklapati između Komisije i nekoliko država korisnica u okviru programa IPA uključujući Korisnika za pomoć za programe koji se odnose na više država i horizontalne inicijative.
+(4) Ovaj Okvirni sporazum primjenjuje se na sve Sporazume o fi - nanciranju sklopljene između ugovornih stranaka radi fi nancijske pomoći u okviru programa IPA. Tamo gdje postoje, Sektorski sporazumi u vezi s odnosnom komponentom primjenjuju se na sve Sporazume o fi nanciranju sklopljene u okviru te komponente. Ukoliko Sporazum o fi nanciranju ne postoji, pravila sadržana u ovom Okvirnom sporazumu primjenjuju se zajedno sa Sektorskim sporazumima, ako ih bude.
+STRANICA 362 - BROJ 4
+PONEDJELJAK, 21. OŽUJKA 2011.
+dodatak MEĐUNARODNI UGOVORI
+NARODNE NOVINE
+SLUŽBENI LIST REPUBLIKE HR VA TSKE
+Odjeljak II.
+UPRAVNE STRUKTURE I TIJELA

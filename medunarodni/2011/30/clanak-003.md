@@ -1,0 +1,2 @@
+# Članak 3.
+Sredstva za financijske obveze, u iznosu od 131.413,83 kuna (17.647,06 eura), koje nastaju za Republiku Hrvatsku na temelju Sporazuma iz članka 1. ovoga Zakona osigurana su u okviru proračunskih sredstava na poziciji središnjeg tijela državne uprave nadležnog za poslove regionalnog razvoja za 2011. godinu.
