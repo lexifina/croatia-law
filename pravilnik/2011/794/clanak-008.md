@@ -1,0 +1,3 @@
+# Članak 8.
+Županija, s ostalim osnivačima školskih ustanova na svojem području, može drugačije planirati početak nastave u prvom polugodištu i trajanje zimskog odmora, o čemu odlučuje Ministarstvo znanosti, obrazovanja i športa na prijedlog ureda državne uprave u županiji, odnosno Gradskog ureda Grada Zagreba nadležnog za poslove obrazovanja.
+Zahtjev iz stavka 1. ovoga članka županija je u ime svih osnivača školskih ustanova na svojem području dužna podnijeti uredu državne uprave u županiji, a Gradski ured Grada Zagreba nadležan za poslove obrazovanja Ministarstvu znanosti, obrazovanja i športa najkasnije do 15. lipnja 2011. godine.

@@ -1,0 +1,3 @@
+# Članak 3.
+Nastava se organizira i izvodi u najmanje 175 nastavnih dana, odnosno 35 nastavnih tjedana, a za učenike/ce završnih razreda srednje škole u najmanje 160 nastavnih dana, odnosno najmanje 32 nastavna tjedna.
+Ako škola ne ostvari propisani nastavni plan i program/strukovni kurikulum i propisani broj nastavnih tjedana, nastavna se godina može produljiti odlukom ureda državne uprave u županiji, nadležnog za obrazovanje, odnosno ureda Grada Zagreba, nadležnog za poslove obrazovanja, uz prethodnu suglasnost Ministarstva znanosti, obrazovanja i športa i nakon 15. lipnja 2012. godine, odnosno nakon 18. svibnja 2012. godine za završne razrede srednje škole.
