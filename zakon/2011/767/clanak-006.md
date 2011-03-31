@@ -1,0 +1,9 @@
+# Članak 6.
+Članak 12. mijenja se i glasi:
+»(1) Zaposlena ili samozaposlena trudnica, odnosno zaposlena ili samozaposlena majka za vrijeme trudnoće, poroda i njege novorođenog djeteta, ima pravo na rodiljni dopust u trajanju od 28 dana prije dana očekivanog poroda do navršenih 6 mjeseci života djeteta, koji se sastoji od obveznog i dodatnog rodiljnog dopusta.
+(2) Zaposlena ili samozaposlena trudnica, odnosno zaposlena ili samozaposlena majka pravo na obvezni rodiljni dopust koristi u neprekidnom trajanju od 98 dana, od kojih 28 dana prije dana očekivanog poroda te 70 dana nakon rođenja djeteta.
+(3) Dan očekivanoga poroda utvrđuje izabrani doktor opće ili obiteljske medicine prema nalazu izabranog doktora ginekologa iz obveznoga zdravstvenog osiguranja.
+(4) Iznimno, zaposlena ili samozaposlena trudnica, odnosno zaposlena ili samozaposlena majka, ovisno o stanju trudnoće i zdravstvenom stanju zaposlene ili samozaposlene trudnice, može početi koristiti rodiljni dopust iz stavka 2. ovoga članka i 45 dana prije dana očekivanog poroda, što utvrđuje izabrani doktor opće ili obiteljske medicine, a prema nalazu izabranog doktora ginekologa iz stavka 3. ovoga članka.
+(5) Nakon proteka obveznog rodiljnog dopusta iz stavka 2. ovoga članka zaposlena ili samozaposlena majka ima pravo na dodatni rodiljni dopust do navršenih 6 mjeseci života djeteta, koji može svojom pisanom izjavom prenijeti na oca djeteta, uz njegovu prethodnu suglasnost, u cijelosti ili u vremenski ograničenom trajanju.
+(6) Ako je dijete prerano rođeno, obvezni rodiljni dopust iz stavka 2. ovoga članka ili dodatni rodiljni dopust iz stavka 5. ovoga članka produžuje se za onoliko dana za koliko je dijete prerano rođeno.
+(7) Pod prerano rođenim djetetom u smislu stavka 6. ovoga članka smatra se dijete rođeno prije navršenog 37. tjedna, odnosno 259. dana trudnoće, u skladu s ocjenom nadležnog tijela Zavoda na temelju vještačenja na osnovi medicinske dokumentacije.«.

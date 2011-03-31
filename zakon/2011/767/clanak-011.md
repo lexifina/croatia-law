@@ -1,0 +1,11 @@
+# Članak 11.
+Naslov iznad članka 18. mijenja se i glasi: »6. Prijenos prava na jednog roditelja«.
+Članak 18. mijenja se i glasi:
+»(1) Ako jedan od zaposlenih ili samozaposlenih roditelja umre ili ako je iz bilo kojeg drugog opravdanog razloga spriječen započeti ili koristiti pripadajuće pravo, pravo korištenja po osnovi ovoga Zakona prenosi se na drugog roditelja.
+(2) Pod opravdanim razlozima iz stavka 1. ovoga članka podrazumijeva se:
+- kad je jedan roditelj lišen roditeljske skrbi; kad je jednom roditelju oduzeto pravo života sa svojim djetetom; kad je jedan roditelj potpuno lišen poslovne sposobnosti, djelomice lišen poslovne sposobnosti u odnosu na roditeljsku skrb, proglašen nestalim, nepoznat, nepoznatog prebivališta ili boravka ili je prema nalazu nadležnog centra za socijalnu skrb grubo zanemario skrb o djetetu napuštanjem djeteta,
+- kad su radi zaštite dobrobiti djeteta susreti i druženje djeteta s jednim od roditelja zabranjeni ili ograničeni ili je jednom od roditelja, prema posebnim propisima, izrečena mjera za zaštitu prava i dobrobiti djeteta, zabrana približavanja djetetu ili udaljenja iz stana, kuće ili nekog drugog stambenog prostora u kojem dijete živi,
+- kad je jedan od roditelja teško bolestan ili je ovisan o pomoći druge osobe radi čega je na duže vrijeme spriječen ili u znatnoj mjeri ograničen u obavljanju svoje roditeljske skrbi prema ocjeni nadležnog tijela vještačenja Zavoda,
+- kad je jedan od roditelja kao djelatna vojna osoba u vojnoj misiji izvan Republike Hrvatske ili na izdržavanju kazne zatvora u trajanju dužem od jedne godine neprekidno, a sve pod uvjetom da se taj roditelj, pisanom izjavom, odrekao prava na korištenje roditeljskog dopusta u korist drugog roditelja.
+(3) Korištenje prava od strane jednog roditelja u smislu stavka 1. i 2. ovoga članka primijenit će se i na sve ostale korisnike prava iz ovoga Zakona, bez obzira na njihov međusobni radnopravni status, pod uvjetom da roditelj, odnosno korisnik na kojeg se prenosi pravo korištenja tog prava, ispunjava uvjete prema ovom Zakonu.
+(4) Za slučaj iz stavka 3. ovoga članka, roditelj, odnosno korisnik na kojeg je preneseno pravo korištenja pripadajućeg prava drugog roditelja, odnosno korisnika ostvaruje sva prava propisana ovim Zakonom, ovisno o svom radnopravnom statusu.«.
