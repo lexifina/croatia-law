@@ -1,0 +1,3 @@
+# Članak 126.
+Policijski službenici Ministarstva, zatečeni u službi na dan stupanja na snagu ovoga Zakona, nastavljaju s radom na svojim dosadašnjim radnim mjestima i zadržavaju zvanja i plaće prema dosadašnjim propisima, do donošenja rješenja o rasporedu na radna mjesta prema Pravilniku o unutarnjem redu Ministarstva, usklađenom s odredbama ovoga Zakona.
+Policijski službenici Ministarstva, zatečeni u službi na dan stupanja na snagu ovoga Zakona, koji su članovi političke stranke dužni su u roku od 3 mjeseca od dana stupanja na snagu ovoga Zakona, podnijeti zahtjev za brisanje iz članstva političke stranke.

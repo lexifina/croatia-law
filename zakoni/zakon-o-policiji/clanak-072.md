@@ -1,0 +1,5 @@
+# Članak 72.
+Policijskog službenika može se po potrebi službe premjestiti na slobodno radno mjesto u okviru stečenog stupnja obrazovanja i osobnog policijskog zvanja, u istoj ili drugoj ustrojstvenoj jedinici, u istom ili drugom mjestu rada.
+Premještaj po potrebi službe temelji se na slobodnoj ocjeni o potrebi da se policijskog službenika premjesti na drugo radno mjesto zbog potrebe popunjavanja radnog mjesta na kojem se poslovi moraju obavljati u kontinuitetu ili zbog povećanja broja izvršitelja radi povećanog opsega posla, zbog bolje organizacije rada ili potrebe za angažiranjem drugog policijskog službenika na određenom radnom mjestu radi pravovremenog ili efikasnijeg obavljanja određenih poslova i zadataka.
+Iznimno od stavka 1. ovoga članka, policijskog službenika može se, uz pisani pristanak, premjestiti na radno mjesto nižeg policijskog zvanja od osobnog.
+U slučaju iz stavka 1. ovoga članka, policijski službenik ima pravo na osnovnu plaću ostvarenu na radnom mjestu s kojeg je premješten, ako je to za njega povoljnije.

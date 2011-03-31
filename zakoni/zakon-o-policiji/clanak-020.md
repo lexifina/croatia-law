@@ -1,0 +1,3 @@
+# Članak 20.
+Policijski službenik, koji je odlukom zdravstvene komisije Ministarstva proglašen nesposobnim za obavljanje poslova policijskog službenika zbog oboljenja ili ozljede koja je nastupila u obavljanju policijskih poslova ili povodom obavljanja policijskih poslova, zadržava plaću u visini prosječne neto mjesečne plaće isplaćene u posljednja 3 mjeseca prije nastupa nesposobnosti za rad i druga prava iz radnopravnog odnosa, i to od dana donošenja odluke o nesposobnosti do dana izvršnosti rješenja nadležne službe koja odlučuje o pravu na mirovinu.
+Sastav i način rada zdravstvene komisije iz stavka 1. ovoga članka propisuje ministar pravilnikom.

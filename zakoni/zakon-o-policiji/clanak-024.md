@@ -1,0 +1,3 @@
+# Članak 24.
+Osoba koja pruži pomoć policijskom službeniku u obavljanju policijskih poslova i tim povodom bude ozlijeđena, razboli se ili je spriječena za rad, a nije osigurana po drugoj osnovi, za vrijeme liječenja ima prava iz zdravstvenog osiguranja, a za slučaj invalidnosti i tjelesnog oštećenja prouzročenog ozljedom ili bolešću ima prava iz mirovinskog osiguranja na teret Ministarstva jednako kao i policijski službenici.
+Obitelji osobe koja prilikom pružanja pomoći policijskom službeniku u obavljanju policijskih poslova izgubi život pripadaju troškovi utvrđeni člankom 22. stavkom 2. ovoga Zakona te jednokratna novčana pomoć u visini 12 prosječnih neto plaća svih zaposlenih u Republici Hrvatskoj u posljednja 3 mjeseca.

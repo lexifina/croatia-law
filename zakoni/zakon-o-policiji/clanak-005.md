@@ -1,0 +1,6 @@
+# Članak 5.
+Kad fizička ili pravna osoba podnese predstavku ili pritužbu na rad policijskog službenika ili drugog zaposlenika Ministarstva, odnosno ustrojstvene jedinice policije ili druge ustrojstvene jedinice Ministarstva, smatrajući da su njoj ili nekome drugom nezakonitom ili nepravilnom radnjom policijskog službenika ili drugog zaposlenika Ministarstva povrijeđena prava ili prekršen zakon, obveza je rukovoditelja mjerodavne ustrojstvene jedinice obavijestiti podnositelja predstavke ili pritužbe o utvrđenom činjeničnom stanju i poduzetim mjerama u roku od 30 dana od dana primitka predstavke, odnosno pritužbe.
+Ako je podnositelj pritužbe nezadovoljan odgovorom i provedenim postupkom provjere navoda, spis predmeta se bez odgode dostavlja na daljnje postupanje i rješavanje povjerenstvu za rad po pritužbama u Ministarstvu.
+Povjerenstvo iz stavka 2. ovoga članka čine tri člana: policijski službenik Ministarstva te dva predstavnika javnosti koje imenuje saborski Odbor za ljudska prava i prava nacionalnih manjina na prijedlog organizacija civilnog društva, organizacija stručne javnosti i nevladinih organizacija.
+Ministarstvo vodi evidenciju predstavki i pritužbi.
+O načinu rada i postupanja po predstavkama i pritužbama, vođenju evidencije iz stavka 4. ovoga članka te o radu povjerenstva ministar donosi pravilnik.
