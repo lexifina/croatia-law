@@ -1,0 +1,11 @@
+# Članak 2.
+(1) Zadruga se temelji na zadružnim vrednotama: samopomoći, odgovornosti, demokratičnosti, ravnopravnosti, pravičnosti i solidarnosti te moralnim vrednotama poštenja, otvorenosti, društvene odgovornosti i skrbi za druge.
+(2) Odnose među svojim članovima zadruga uređuje na zadružnim načelima:
+– dragovoljno i otvoreno članstvo – članstvo u zadruzi je dragovoljno i otvoreno prema svim osobama koje koriste njezine proizvode, usluge i koje su spremne prihvatiti odgovornosti članstva, bez ikakve spolne, rasne, socijalne, političke, vjerske ili bilo koje druge diskriminacije,
+– nadzor poslovanja od strane članova – zadruga je demokratsko društvo čiji rad nadziru njezini članovi i koji aktivno sudjeluju u stvaranju poslovne politike i donošenju odluka. Izabrani predstavnici članova odgovaraju članstvu. Članovi imaju jednaka glasačka prava (jedan član – jedan glas),
+– gospodarsko sudjelovanje članova zadruge i raspodjela – dužnost članova zadruge je, prema svojim interesima i mogućnostima, sudjelovanje u radu i doprinos razvoju zadruge. Članovi raspoređuju dobit zadruge za jednu ili više sljedećih namjena: razvitak zadruge, porast pričuva, članovima – razmjerno poslovanju sa zadrugom i kao potpora drugim aktivnostima zadruge,
+– samostalnost i neovisnost – kao samostalna i neovisna pravna osoba zadruga se u pravnom prometu s drugim pravnim osobama i državnim tijelima oslanja na rad svojih članova i zadružne resurse, pod neposrednim nadzorom svojih članova,
+– obrazovanje, stručno usavršavanje i informiranje članova zadruge – zadruga provodi obrazovanje i stručno usavršavanje svojih članova, izabranih predstavnika, upravitelja i zaposlenika kako bi pridonijeli razvitku svoje zadruge. Ona izvješćuje svoje članove i javnost, posebice mlade ljude o naravi, koristima i prednostima zadrugarstva,
+– suradnja među zadrugama – zadruge najučinkovitije služe svojim članovima i jačanju zadružnog sustava povezivanjem i suradnjom na lokalnoj, regionalnoj, nacionalnoj i međunarodnoj razini,
+– briga za zajednicu – zadruga posluje na način koji pridonosi održivom razvoju okruženja i lokalne zajednice.
+(3) U svome radu zadruga je dužna pridržavati se zadružnih načela iz stavka 2. ovoga članka i dobrih poslovnih običaja.

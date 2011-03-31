@@ -1,0 +1,3 @@
+# Članak 62.
+(1) Član zadruge može, na temelju ugovora, u zadrugu unijeti građevinsko zemljište, građevinske strojeve i materijal, stan, kuću ili drugu imovinu te osobni rad na svim poslovima zadruge.
+(2) Državna tijela, jedinice lokalne i područne (regionalne) samouprave, trgovačka društva, udruge, sindikati i drugi mogu zajedno sa stambenom zadrugom biti sudionici u poslu izgradnje stanova za svoje radnike koji su članovi zadruge i u tu svrhu stambenoj zadruzi mogu, na temelju ugovora, ustupiti građevinsko zemljište, dati novčana sredstva i ovlaštenje za izradu i financiranje izrade dokumenata prostornog uređenja ili provedbenih dokumenata prostornog uređenja i zadrugu ovlastiti da za njih obavi druge poslove.

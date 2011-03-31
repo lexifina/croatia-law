@@ -1,0 +1,4 @@
+# Članak 47.
+(1) U slučaju likvidacije, odnosno stečaja zadruge, nakon podmirenja obveza prema vjerovnicima i povrata uloga članovima zadruge, preostala imovina zadruge prenosi se jedinicama lokalne samouprave na čijem području je zadruga.
+(2) Jedinica lokalne samouprave je dužna imovinu iz stavka 1. ovoga članka prenijeti postojećoj ili novoosnovanoj zadruzi iste djelatnosti na tom području putem natječaja i uz suglasnost nadležnog državnog tijela s obzirom na djelatnost zadruge.
+(3) Ukoliko se u roku od jedne godine računajući od dana prenošenja u vlasništvo jedinici lokalne samouprave, imovina iz stavka 1. ovoga članka ne prenese u vlasništvo postojećoj ili novoosnovanoj zadruzi iste djelatnosti na tom području, jedinica lokalne samouprave dužna ju je upotrijebiti za razvoj zadrugarstva.
