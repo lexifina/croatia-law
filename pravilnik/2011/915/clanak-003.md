@@ -1,0 +1,2 @@
+# Članak 3.
+Pravo iz članka 2. ovoga Pravilnika korisnik stambenog kredita ostvaruje dostavom APN-u kopije radne knjižice, kopije prijave Hrvatskom zavodu za zapošljavanje i kopije obrasca koji se podnosi Hrvatskom zavodu za mirovinsko osiguranje iz kojih je vidljiv datum prestanka radnog odnosa, te dostavom kopije potvrde o prijavi na Hrvatski zavod za zapošljavanje svaki mjesec za vrijeme trajanja nezaposlenosti, prije dospijeća svakog pojedinog obroka kredita za koji kamatu na dospjele obroke plaća Republika Hrvatska.

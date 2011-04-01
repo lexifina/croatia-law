@@ -1,0 +1,3 @@
+# Članak 2.
+Pravo na otplatu kamata od strane Republike Hrvatske za koje je dano jamstvo na temelju Zakona može ostvariti korisnik kredita koji nije u mogućnosti poslovnoj banci otplaćivati stambeni kredit zbog prestanka radnog odnosa do kojeg je došlo radi stečaja ili prestanka postojanja poslodavca ili zato jer je prilikom restrukturiranja poslodavca postao tehnološki višak (poslovno uvjetovani otkaz), ako je u evidenciji Hrvatskog zavoda za zapošljavanje evidentiran kao nezaposlena osoba.
+O nastupu okolnosti iz stavka 1. ovoga Pravilnika APN bez odlaganja obavještava poslovnu banku i dostavlja joj kopije dokumentacije na temelju koje je korisnik kredita ostvario pravo na otplatu kamata od strane Republike Hrvatske.
