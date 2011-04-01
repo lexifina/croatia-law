@@ -1,0 +1,15 @@
+Prilog Naputku o načinu rada Agencije za pravni promet i posredovanje nekretninama u provedbi Zakona o subvencioniranju i državnom jamstvu stambenih kredita
+Klasa:
+Urbroj:
+Zagreb,
+Na temelju članka 35. stavka 1. Zakona o subvencioniranju i državnom jamstvu stambenih kredita (»Narodne novine«, br. 31/11)), Odluke ___________ banke o ispunjavanju uvjeta za davanje kredita, od _________ godine te Odluke Agencije za pravni promet i posredovanje nekretninama (dalje u tekstu: APN) o odobravanju subvencioniranog kredita, klasa: ___________, urbroj: ___________, od _________, OIB: 69331375926, Savska 41/VI, Zagreb, APN, zastupan po direktoru ___________ u ime Republike Hrvatske, daje
+IZJAVU O JAMSTVU ZA OTPLATU KAMATA NA STAMBENI KREDIT
+kojom APN u ime Republike Hrvatske jamči za korisnika kredita _______________, iz _______________, OIB: _____________, otplatu kamata na stambeni kredit u slučaju da korisnik kredita nije u mogućnosti poslovnoj banci otplaćivati stambeni kredit zbog prestanka radnog odnosa do kojeg je došlo radi stečaja ili prestanka postojanja poslodavca ili zato jer je prilikom restrukturiranja poslodavca postao tehnološki višak (poslovno uvjetovani otkaz), ako je u evidenciji Hrvatskog zavoda za zapošljavanje evidentiran kao nezaposlena osoba.
+Iznos kredita za čiju otplatu kamata APN u ime Republike Hrvatske jamči iznosi ___________ €, u protuvrijednosti u kunama prema srednjem deviznom tečaju Hrvatske narodne banke na dan podnošenja Zahtjeva za jamstvo za otplatu kamata.
+Iznos kamate do kojega se daje jamstvo ne može biti veći od 4,95% od ukupnog iznosa kredita, odnosno dijela kredita za koji se jamči, a koji ne može biti veći od Zakonom propisanog iznosa.
+Ovom Izjavom APN u ime Republike Hrvatske daje jamstvo za otplatu kamata na stambeni kredit u ukupnom iznosu od __________€ prema srednjem deviznom tečaju Hrvatske narodne banke.
+APN u ime Republike Hrvatske će otplatu kamata na stambeni kredit za koji je dano jamstvo isplaćivati na dan dospijeća svakog pojedinog obroka kredita za koji kamatu na dospjele obroke plaća APN u ime Republike Hrvatske, uplatom na račun _________, otvoren u ________ banci.
+U slučaju pokretanja postupka prisilne naplate dospjelih obveza korisnika kredita koji postupak je pokrenula poslovna banka koja je odobrila stambeni kredit, danom pokretanja postupka prisilne naplate, ova izjava prestaje vrijediti.
+Obveze APN-a u ime Republike Hrvatske po ovoj Izjavi prestaju vrijediti godinu dana od dana nemogućnosti otplate kredita, a najkasnije 31. prosinca 2012. godine. Po isteku navedenog roka bezuvjetno prestaje obveza Republike Hrvatske po ovoj Izjavi.
+Na sve što nije određeno ovom Izjavom primjenjuju se odredbe Zakona o subvencioniranju i državnom jamstvu stambenih kredita, Pravilnika o utvrđivanju uvjeta za ostvarivanje prava na jamstvo Republike Hrvatske za otplatu kamata na stambene kredite, Naputka o načinu rada APN-a u provedbi Zakona o subvencioniranju i državnom jamstvu stambenih kredita te ostalih propisa kojima se reguliraju obvezni odnosi.
+Direktor

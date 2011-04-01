@@ -1,0 +1,2 @@
+# Članak 7.
+U slučaju u kojem podnositelj zahtjeva za subvencioniranje kredita podnosi zahtjev za subvencioniranje kredita čiji iznos prelazi maksimalni iznos kredita koji se subvencionira prema Zakonu, APN je od odabrane poslovne banke dužan zatražiti da u odluci kojom utvrđuje ispunjavanje uvjeta za davanje zatraženog iznosa kredita, iskaže iznos kredita, kamata na isti i iznos mjesečnih obroka koji se subvencioniraju, posebno za maksimalnu visinu kredita sukladno odredbama Zakona.

@@ -1,0 +1,2 @@
+# Članak 9.
+U slučaju u kojem podnositelj zahtjeva za odobravanje jamstva za otplatu kamata podiže kredit u većem iznosu ili po većoj efektivnoj kamatnoj stopi (EKS) od onih određenih Zakonom, APN je od poslovne banke dužan zatražiti da u odluci kojom utvrđuje ispunjavanje uvjeta za davanje zatraženog iznosa kredita, iskaže iznos kredita, kamata na kredit i posebno iznos mjesečnih obroka i kamata za koje prema Zakonu jamči Republika Hrvatska.

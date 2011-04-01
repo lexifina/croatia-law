@@ -1,0 +1,3 @@
+# Članak 6.
+U slučaju u kojem podnositelj zahtjeva za subvencioniranje kredita ili njegov bračni drug u vlasništvu ima samo jedan stan, odnosno kuću kojeg prodaje radi kupnje većeg stana zbog potreba vlastitog stanovanja, APN je od podnositelja zahtjeva dužan zatražiti predugovor, odnosno ugovor o kupoprodaji tog stana, odnosno kuće kojim je ugovorena kupoprodaja istog najkasnije u roku od godine dana od dana sklapanja ugovora o subvencioniranom kreditu.
+Obveza izvršenja predugovora, odnosno ugovora iz stavka 1. ovoga članka i obveza korisnika kredita da dokaz o izvršenju te obveze bez odgađanja dostavi APN-u ugovara se kao uvjet ugovora o subvencioniranom kreditu, a njezino neizvršenje kao razlog za proglašavanje kredita dospjelim u cijelosti.
