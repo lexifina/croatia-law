@@ -1,0 +1,6 @@
+# Članak 16.
+(1) Inspekcijski nadzor nad primjenom ovoga Zakona u dijelu koji se odnosi na evidentiranje, označavanje i stavljanje kave u promet na područje Republike Hrvatske obavljaju gospodarski inspektori Državnog inspektorata, odnosno ovlaštene osobe za obavljanje nadzora, sukladno posebnom propisu.
+(2) Kada inspektor ili ovlaštena osoba iz stavka 1. ovoga članka na licu mjesta utvrdi da je stavljanjem u promet, prijevozom, preradom i proizvodnjom kave bez obilježavajućih markica počinjen prekršaj, do donošenja rješenja o izvršenom prekršaju privremeno će oduzeti kavu koja se stavlja u promet, prevozi, prerađuje ili proizvodi na području Republike Hrvatske bez obilježavajućih markica i o tome izdati usmeno rješenje, a najkasnije u roku od 30 dana donijeti pisano rješenje.
+(3) O oduzetoj kavi iz stavka 2. ovoga članka s točno navedenom količinom i vrstom, nadziranoj pravnoj ili fizičkoj osobi inspektor će izdati potvrdu.
+(4) O izvršenom privremenom oduzimanju kave inspektor je dužan odmah izvijestiti nadležno tijelo kojem je podnio optužni prijedlog zbog počinjenog prekršaja, radi daljnjeg postupanja s privremeno oduzetom robom.
+(5) Žalba protiv rješenja iz stavka 2. ovoga članka ne odgađa izvršenja rješenja.

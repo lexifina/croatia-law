@@ -1,0 +1,8 @@
+## III. POREZNI OBVEZNIK
+# Članak 4.
+(1) Obveznik posebnog poreza na kavu je pravna i fizička osoba koja proizvodi ili za svoj račun daje proizvoditi kavu (u daljnjem tekstu: proizvođač), uvozi, unosi ili prima kavu na području Republike Hrvatske.
+(2) Obveznik posebnog poreza na kavu je i osoba koja nezakonito proizvede, preradi, prži, uveze, unese, stekne, preveze, posjeduje, proda, kupi ili izveze kavu, odnosno nezakonito pusti u potrošnju, sudjeluje u nezakonitoj proizvodnji, uvozu, unosu ili izvozu, odnosno čuva nezakonito proizvedenu, uvezenu ili unesenu kavu.
+(3) Fizička osoba koja u okviru putničkog i poštanskog prometa uvozi, unosi ili prima kavu u količinama koje su prema carinskim propisima oslobođene od plaćanja carine ne smatra se poreznim obveznikom u smislu stavka 1. ovoga članka.
+(4) Pogonom proizvođača iz stavka 1. ovoga članka smatraju se pogoni i postrojenja za proizvodnju, preradu, prženje, pakiranje i skladištenje kave, skladišta za sastojke namijenjene proizvodnji, preradi i prženju kave, radionice za održavanje pogona i upravu, prostorije i površine za manipulaciju i transport te druge s njima povezane površine i uređaji ako se koriste u svrhu proizvodnje kave.
+(5) Porezni obveznik iz stavka 1. ovoga članka dužan je carinarnici nadležnoj prema sjedištu, odnosno prebivalištu (u daljnjem tekstu: nadležna carinarnica) najkasnije 8 dana prije početka obavljanja registrirane djelatnosti ili prometa kavom iz članka 9. stavka 3. ovoga Zakona podnijeti prijavu za upis u registar obveznika posebnog poreza.
+(6) Ministar financija pravilnikom propisuje način prijavljivanja u registar te oblik i sadržaj prijave za upis u registar obveznika posebnog poreza.
