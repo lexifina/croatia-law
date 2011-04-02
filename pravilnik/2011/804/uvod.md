@@ -1,0 +1,1 @@
+Na temelju članka 17. Zakona o sustavu državne uprave (»Narodne novine« br. 75/93, 92/96, 48/99, 15/00, 127/00, 59/01, 199/03 i 79/07) i članka 33. Zakona o otocima (»Narodne novine« br. 34/99, 32/02 i 33/06) ministar mora, prometa i infrastrukture donosi

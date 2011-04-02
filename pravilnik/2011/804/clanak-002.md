@@ -1,0 +1,3 @@
+# Članak 2.
+(1) Isporuku pitke vode organizira jedinica lokalne samouprave na otoku na jedan od načina utvrđenih člankom 4. Zakona o komunalnom gospodarstvu (»Narodne novine« br. 36/95, 70/97, 128/99, 57/00, 129/00, 59/01, 82/04, 10/04, 178/04, 38/09 i 79/09), odnosno županija na čijem se području nalazi jedinica lokalne samouprave ukoliko ta jedinica lokalne samouprave nije organizirala obavljanje djelatnosti isporuke pitkom vodom.
+(2) Jedinice lokalne ili područne (regionalne) samouprave na otoku dostavljaju podatke o Isporučitelju pitke vode na njenom području Ministarstvu mora, prometa i infrastrukture (u daljnjem tekstu: Ministarstvo).
