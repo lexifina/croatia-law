@@ -1,0 +1,1 @@
+Na temelju članaka 12. i 15. Zakona o turističkim zajednicama i promicanju hrvatskog turizma (»Narodne novine«, broj 152/08), Skupština Turističke zajednice Vukovarsko-srijemske županije na sjednici održanoj 11. ožujka 2011. godine, uz prethodnu suglasnost Ministarstva turizma Republike Hrvatske donijela je
