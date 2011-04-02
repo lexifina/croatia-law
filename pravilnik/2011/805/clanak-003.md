@@ -1,0 +1,3 @@
+# Članak 3.
+(1) Radi utvrđivanja prava na naknadu javni operator mora izraditi financijske obračune prihoda i troškova od obavljanja univerzalnih poštanskih usluga, prema vrstama usluga, te projekcije prihoda i troškova za razdoblje ostvarivanja prava na naknadu.
+(2) Sastavni dio financijskih obračuna iz stavka 1. ovoga članka čine odvojeni financijski obračuni za rezervirane i nerezervirane univerzalne poštanske usluge, na temelju kojih se utvrđuju poslovni rezultati, i to odvojeno za rezervirane usluge od nerezerviranih univerzalnih poštanskih usluga, prema vrstama usluga, uz obrazloženje primijenjenih metoda obračuna prihoda i troškova.
