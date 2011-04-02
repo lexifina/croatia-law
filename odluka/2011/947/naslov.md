@@ -1,0 +1,1 @@
+Odluka o postupanju članova nadzornih odbora i članova skupština vezano za uplatu dijela dobiti trgovačkih društava u kojima Republika Hrvatska ima dionice ili udjele u državni proračun Republike Hrvatske
