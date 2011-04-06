@@ -1,0 +1,2 @@
+# Članak 3.
+Godišnja minimalna visina novčane naknade za istraživanje energetskih mineralnih sirovina iz članka 5. točke 1. Zakona o rudarstvu i to za ugljen, asfalt, uljne škriljavce i radioaktivne rude iznosi 600,00 kn/ha površine odobrenog istražnog prostora za prvu godinu istraživanja, 800,00 kn/ha površine odobrenog istražnog prostora za drugu godinu istraživanja i 1.000,00 kn/ha površne odobrenog istražnog prostora za treću godinu istraživanja mineralnih sirovina.
