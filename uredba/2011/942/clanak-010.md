@@ -1,0 +1,4 @@
+# Članak 10.
+(1) Varijabilni dio naknade iz članka 3. stavka 3. točke 4. ove Uredbe za pridobivenu količinu ugljikovodika na eksploatacijskim poljima energetskih mineralnih sirovina koja su odobrena do 31. prosinca 2009. godine, iznosi 5,00% od tržišne vrijednosti pridobivenih ugljikovodika.
+(2) Varijabilni dio naknade iz članka 3. stavka 3. točke 4. ove Uredbe za pridobivenu količinu ugljikovodika na eksploatacijskim poljima energetskih mineralnih sirovina koja su odobrena poslije 31. prosinca 2009. godine, iznosi 10,00% od tržišne vrijednosti pridobivenih ugljikovodika.
+(3) Iskazana tržišna vrijednost pridobivenih ugljikovodika ne može biti manja od tržišne vrijednosti mineralne sirovine utvrđene na temelju tehno-ekonomske ocjene iz Elaborata o rezervama ugljikovodika na eksploatacijskom polju na kojem su oni pridobiveni.

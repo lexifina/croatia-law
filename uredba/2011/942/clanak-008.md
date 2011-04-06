@@ -1,0 +1,5 @@
+# Članak 8.
+(1) Varijabilni dio naknade iz članka 3. stavka 1. točke 2. i stavka 3. točke 2. ove Uredbe iznosi 5,0% od tržišne vrijednosti otkopane mineralne sirovine.
+(2) Iznimno od odredbi stavka 1. ovoga članka varijabilni dio naknade za pridobivenu količinu morske soli iznosi 3,0% od tržišne vrijednosti pridobivene morske soli.
+(3) Varijabilni dio naknade iz članka 3. stavka 3. točke 4. ove Uredbe za pridobivenu količinu mineralne i geotermalne vode iz kojih se mogu pridobivati mineralne sirovine ili koristiti akumulirana toplina u energetske svrhe iznosi 3,0% od tržišne vrijednosti pridobivene mineralne i geotermalne vode iz kojih se mogu pridobivati mineralne sirovine ili koristiti akumulirana toplina u energetske svrhe.
+(4) Iskazana tržišna vrijednost otkopane/pridobivene mineralne sirovine ne može biti manja od tržišne vrijednosti mineralne sirovine utvrđene na temelju tehno-ekonomske ocjene iz Elaborata o rezervama mineralne sirovine na eksploatacijskom polju na kojem je ona otkopana/pridobivena.

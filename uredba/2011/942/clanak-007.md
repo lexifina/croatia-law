@@ -1,0 +1,4 @@
+# Članak 7.
+(1) Iznimno od odredbi članka 3. stavka 1. točke 1. ove Uredbe fiksni dio naknade ne plaća se za površinu odobrenog eksploatacijskog polja mineralnih sirovina koja nije predviđena važećom prostorno-planskom dokumentacijom jedinica područne (regionalne) samouprave i/ili jedinica lokalne samouprave.
+(2) Nositelj odobrenja eksploatacijskog polja mineralnih sirovina dužan je zatražiti izuzeće od plaćanja fiksnog dijela naknade iz članka 3. stavka 1. točke 1. ove Uredbe najkasnije trideset dana prije kraja četvrtog kvartala i dostaviti nadležnom tijelu za rudarstvo dokaznice za površinu odobrenog eksploatacijskog polja mineralnih sirovina koja nije predviđena važećom prostorno-planskom dokumentacijom jedinica područne (regionalne) samouprave i/ili jedinica lokalne samouprave.
+(3) Iznimno od odredbi članka 3. stavka 1. točke 1. ove Uredbe, ne plaća se fiksni dio naknade za eksploatacijska polja morske soli.
