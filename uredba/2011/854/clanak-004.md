@@ -1,0 +1,3 @@
+# Članak 4.
+Članak 5. mijenja se i glasi:
+»Skladištem za obavljanje djelatnosti iz članka 2. stavka 1. ove Uredbe mora upravljati energetski subjekt koji posjeduje dozvolu za obavljanje energetske djelatnosti skladištenja nafte i naftnih derivata, odnosno koji posjeduje dozvolu za obavljanje energetske djelatnosti skladištenja biogoriva, ili trgovac ako ima pravo korištenja skladišta na temelju ugovora o skladištenju, sklopljenog s energetskim subjektom koji posjeduje dozvolu za obavljanje energetske djelatnosti skladištenja nafte i naftnih derivata, odnosno koji posjeduje dozvolu za obavljanje energetske djelatnosti skladištenja biogoriva.«.
