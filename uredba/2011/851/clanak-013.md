@@ -1,0 +1,7 @@
+## Primjena ove Uredbe i na vertikalne sporazume u sektoru distribucije i servisiranja motornih vozila
+# Članak 13.
+(1) Ova Uredba primjenjuje se na vertikalne sporazume o prodaji rezervnih dijelova za motorna vozila te vertikalne sporazume o pružanju usluga popravka i održavanja motornih vozila, a koji su sklopljeni nakon njenog stupanja na snagu, pod uvjetom da takvi sporazumi ispunjavaju i posebne uvjete za skupno izuzeće tih sporazuma, određene Uredbom o skupnom izuzeću sporazuma o distribuciji i servisiranju motornih vozila.
+(2) Iznimno od stavka 1. ovoga članka, na vertikalne sporazume o prodaji rezervnih dijelova za motorna vozila, te vertikalne sporazume o pružanju usluga popravka i održavanja motornih vozila, koji su sklopljeni prije stupanja na snagu ove Uredbe, a koji su ispunjavali uvjete za skupno izuzeće iz Uredbe o skupnom izuzeću sporazuma o distribuciji i servisiranju motornih vozila (»Narodne novine«, broj 105/2004), nastavlja se primjena te Uredbe do isteka trajanja tih sporazuma, i to najkasnije do 31. svibnja 2013. godine.
+(3) Počevši od 1. lipnja 2013. godine, sporazumi iz stavka 2. ovoga članka moraju biti u cijelosti usklađeni na način uređen stavkom 1. ovoga članka.
+(4) Ova Uredba primjenjivat će se počevši od 1. lipnja 2013. godine i na vertikalne sporazume o distribuciji novih motornih vozila.
+(5) Do 31. svibnja 2013. godine na vertikalne sporazume iz stavka 4. ovoga članka primjenjivat će se Uredba o skupnom izuzeću sporazuma o distribuciji i servisiranju motornih vozila (»Narodne novine«, broj 105/2004).

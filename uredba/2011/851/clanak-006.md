@@ -1,0 +1,11 @@
+## Izračun tržišnog udjela
+# Članak 6.
+(1) Tržišni udjel dobavljača na mjerodavnom tržištu, u smislu članka 5. stavka 1. ove Uredbe, izračunava se na temelju podataka iz prethodne kalendarske godine o udjelu dobavljača u ukupnoj vrijednosti svih prodanih proizvoda koji su predmet sporazuma.
+(2) Tržišni udjel kupca na mjerodavnom tržištu, u smislu članka 5. stavka 1. ove Uredbe, izračunava se na temelju podataka iz prethodne kalendarske godine o udjelu kupca u ukupnoj vrijednosti svih kupljenih proizvoda koji su predmet sporazuma.
+(3) Tržišnom udjelu iz stavaka 1. i 2. ovoga članka pribraja se ukupan iznos vrijednosti kupljenih i/ili prodanih proizvoda njegovih povezanih poduzetnika koji su oni, u prethodnoj kalendarskoj godini, ostvarili na tržištu proizvoda koji su predmet sporazuma.
+(4) Iznosi iz stavaka 1., 2. i 3. ovoga članka umanjuju se za iznose pristojbi i poreza.
+(5) U slučaju da udio dobavljača i/ili kupca u ukupnoj vrijednosti prodanih i/ili kupljenih proizvoda koji su predmet proizvoda iz ovoga članka nije poznat, za utvrđivanje njihovog tržišnog udjela mogu se koristiti i drugi raspoloživi tržišni podaci, uključujući i količinu prodanih, odnosno kupljenih proizvoda na tržištu, osim ako poduzetnik nije obavljao djelatnost na mjerodavnom tržištu u financijskoj godini koja prethodi sklapanju sporazuma.
+(6) Ako tržišni udjel poduzetnika u trenutku sklapanja sporazuma nije veći od 30%, a naknadno se poveća iznad tog iznosa, ne više od 35%, skupno izuzeće će se primjenjivati tijekom razdoblja od dvije uzastopne kalendarske godine koje slijede godinu u kojoj je prvi put povećan iznos tržišnog udjela iznad 30%.
+(7) Ako tržišni udjel u trenutku sklapanja sporazuma nije veći od 30% ali se naknadno poveća na više od 35%, skupno izuzeće će se nastaviti primjenjivati u razdoblju od jedne kalendarske godine koja slijedi godinu u kojoj je tržišni udjel prvi put povećan iznad 35%.
+(8) Skupno izuzeće u smislu stavaka 7. i 8. ovoga članka ne može se kumulirati u svrhu produljenja vremenskog razdoblja skupnog izuzeća na više od dvije kalendarske godine.
+(9) Tržišni udjel povezanih poduzetnika iz stavka 3. ovoga članka podijelit će se na jednake dijelove između tih poduzetnika.
