@@ -1,0 +1,6 @@
+# Članak 21.
+(1) Nakon provedenog završnog odabira djelatnih vojnika i djelatnih dočasnika za izdvajanje odnosno utvrđivanja potreba za zadržavanjem u službi, s djelatnim vojnicima odabranim za izdvajanje te sa svim djelatnim dočasnicima s popisa kandidata za izdvajanje provodi se personalno savjetovanje.
+(2) Tijekom personalnog savjetovanja djelatni vojnici i djelatni dočasnici upoznaju se s razlozima stavljanja na popis za izdvajanje, mogućnostima prestanka službe, nadnevkom prestanka službe te s mogućnošću korištenja programa tranzicije. Dočasnici koji se zadržavaju u službi upoznaju se s razlozima i vremenu zadržavanja te nadnevku prestanka službe.
+(3) O personalnom savjetovanju sastavlja se zapisnik čiji se primjerak koristi pri izradi rješenja o prestanku službe, a jedan se primjerak uručuje savjetovanom djelatnom vojniku odnosno djelatnom dočasniku.
+(4) Personalno savjetovanje u suradnji s Personalnom službom Uprave za ljudske resurse Ministarstva obrane i Upravom za personalne poslove Glavnog stožera Oružanih snaga provode djelatnici Središnjice za upravljanje osobljem.
+(5) S vojnicima koji se zadržavaju u službi u skladu s člankom 18. stavkom 3. ovoga Pravilnika ne provodi se personalno savjetovanje.
