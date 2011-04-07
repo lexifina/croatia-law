@@ -1,0 +1,3 @@
+# Članak 27.
+(1) HBOR prima i pregledava pozive banaka na plaćanje po jamstvima, provjerava osnovanost poziva na plaćanje, provjerava izračune u pozivima na plaćanje, daje potvrde poziva na plaćanje i upućuje potvrđene pozive Ministarstvu financija na plaćanje.
+(2) Plaćanje po jamstvu Ministarstvo financija izvršava najkasnije u roku od 15 radnih dana od primanja potvrđenog poziva na plaćanje po jamstvu, pod uvjetom da su ispunjene pretpostavke utvrđene Zakonom i ovom Uredbom. Nakon izvršenog plaćanja, Ministarstvo financija šalje presliku dokaza o plaćanju HBOR-u, te zahtjev za povrat sredstava na osnovi naplaćenog jamstva od korisnika kredita, odnosno iz instrumenata osiguranja.

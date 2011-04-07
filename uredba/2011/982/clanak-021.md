@@ -1,0 +1,4 @@
+# Članak 21.
+(1) Ako korisnik kredita sklopi ugovor o kreditu s drugom bankom u svrhu refinanciranja kredita za koje je izdano jamstvo na temelju Zakona i podzakonskih akata donesenih na temelju Zakona, a pod povoljnijim uvjetima (duži rok otplate kredita i niža kamatna stopa), izdano se jamstvo može prenijeti na tu drugu banku ako novi ugovor o kreditu ispunjava uvjete sukladno Zakonu i podzakonskim aktima donesenim na temelju Zakona.
+(2) Jamstvo iz stavka 1. ovoga članka prenosi se u opsegu i sadržaju, uključujući nominalni iznos prema stanju zatečenom u trenutku prijenosa s tim da sveukupna ročnost jamstva ne može biti duža od 15 godina, sukladno članku 8. stavku 2. Zakona.
+(3) Naknada za prijevremenu otplatu kredita refinanciranjem i prijenosom jamstva ne može biti viša od jedan posto (1%) preostale glavnice kredita.

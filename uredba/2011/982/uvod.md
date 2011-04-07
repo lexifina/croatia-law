@@ -1,0 +1,1 @@
+Na temelju članaka 8., 11., 13., 14., 15. i 16. Zakona o jamstvenom fondu za poticaj gospodarskom razvitku (»Narodne novine«, broj 34/2011) i članka 10. stavka 4. Zakona o Hrvatskoj banci za obnovu i razvitak (»Narodne novine«, broj 138/2006), Vlada Republike Hrvatske je na sjednici održanoj 2. travnja 2011. godine donijela

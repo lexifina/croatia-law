@@ -1,0 +1,4 @@
+# Članak 3.
+(1) Kredit za koji se izdaje jamstvo sukladno Zakonu i podzakonskim aktima donesenim na temelju Zakona ne smije biti odobren, isplaćen ili prenamijenjen na način da njegova glavnica sadrži više od dvadeset i pet posto (25%) sredstava namijenjenih financiranju obrtnih sredstava za izvršenje investicijskog projekta (investicije).
+(2) Jamstva se izdaju za kredite odobrene u kunama uz valutnu klauzulu vezanu uz euro, te kamatnu stopu vezanu uz tromjesečnu europsku međubankovnu kamatnu stopu (EURIBOR), uvećanu za kamatnu maržu banke.
+(3) Sukladno odredbi članka 8. stavka 3. Zakona, banka nakon dodjele jamstvene kvote može, ukoliko ona i korisnik kredita to ocijene povoljnim, za financiranje projekta koristiti i sredstva HBOR-a, i to do pedeset posto (50%) ukupnog iznosa kredita za pojedinu investiciju. U tom slučaju na dio kredita koji banka financira iz sredstava HBOR-a primjenjuju se uvjeti programa kreditiranja HBOR-a.
