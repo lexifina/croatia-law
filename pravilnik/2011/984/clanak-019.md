@@ -1,0 +1,3 @@
+# Članak 19.
+(1) Na temelju popisa kandidata za izdvajanje iz članka 18. ovoga Pravilnika provodi se završni odabir djelatnih časnika za izdvajanje u skladu s planom izdvajanja za kalendarsku godinu odnosno odabir djelatnih časnika za zadržavanje u službi u skladu s potrebama službe.
+(2) Završni odabir djelatnih časnika za izdvajanje odnosno odabir djelatnih časnika za zadržavanje u službi u skladu s potrebama službe provodi Središnjica za upravljanje osobljem za djelatne časnike do čina pukovnika odnosno kapetana fregate, a Glavni stožer Oružanih snaga za djelatne časnike čina brigadira odnosno kapetana bojnog broda i generala odnosno admirala.

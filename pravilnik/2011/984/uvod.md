@@ -1,0 +1,1 @@
+Na temelju članka 11.a stavka 4. Zakona o službi u Oružanim snagama Republike Hrvatske (»Narodne novine«, broj 33/02, 58/02, 175/03, 136/04, 76/07, 88/09 i 124/09), a u svezi s člankom 6.a Zakona o pravima iz mirovinskog osiguranja djelatnih vojnih osoba, policijskih službenika i ovlaštenih službenih osoba (»Narodne novine«, broj 128/99, 129/00, 16/01, 22/02 i 41/08) donosim

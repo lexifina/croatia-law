@@ -1,0 +1,6 @@
+# Članak 22.
+(1) Nakon provedenog završnog odabira djelatnih časnika za izdvajanje odnosno utvrđivanja potreba za zadržavanjem u službi sa svim djelatnim časnicima s popisa kandidata za izdvajanje provodi se personalno savjetovanje.
+(2) Tijekom personalnog savjetovanja djelatni časnici se upoznaju s razlozima stavljanja na popis za izdvajanje, mogućnostima prestanka službe, nadnevkom prestanka službe te s mogućnošću korištenja programa tranzicije. Djelatni časnici koji se zadržavaju u službi upoznaju se s razlozima i vremenu zadržavanja te nadnevku prestanka službe.
+(3) O personalnom savjetovanju sastavlja se zapisnik čiji se primjerak koristi pri izradi rješenja o prestanku službe, a jedan se primjerak uručuje savjetovanom djelatnom časniku.
+(4) Personalno savjetovanje u suradnji s Personalnom službom Uprave za ljudske resurse Ministarstva obrane provode djelatnici Središnjice za upravljanje osobljem za djelatne časnike do čina pukovnika odnosno kapetana fregate odnosno djelatnici Uprave za personalne poslove Glavnog stožera Oružanih snaga za djelatne časnike čina brigadira odnosno kapetana bojnog broda.
+(5) S generalima i admiralima personalno savjetovanje provodi načelnik Glavnog stožera Oružanih snaga ili osoba koju on ovlasti.

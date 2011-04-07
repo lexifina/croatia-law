@@ -1,0 +1,5 @@
+# Članak 20.
+Ustrojstvena jedinica iz članka 19. ovoga Pravilnika, koja provodi odabir djelatnih časnika za izdvajanje, na prijedlog odnosno preporuku zapovjednika grane, zapovjednika Zapovjedništva za potporu, ravnatelja Hrvatskog vojnog učilišta odnosno zapovjednika i čelnika ustrojstvene jedinice Glavnog stožera Oružanih snaga odnosno Ministarstva obrane utvrdit će potrebu za zadržavanje djelatnog časnika u skladu s potrebama službe ako su ispunjeni sljedeći uvjeti:
+- ako mu zbog deficitarnosti u pripadajućem rodu, službi ili struci nije moguće osigurati odgovarajuću zamjenu - do osposobljavanja odgovarajuće zamjene, a najdulje do dvije godine
+- ako bi se njegovim izdvajanjem dovela u pitanje realizacija zadaće ili projekta od interesa za Oružane snage - do završetka zadaće ili projekta, a najdulje do jedne godine
+- ako ima određenu specijalizaciju, licencu odnosno certifikat, znanje stranog jezika od interesa za Oružane snage razine STANAG 3232 odnosno ekvivalenta iste ili više razine ili posjeduje druge sposobnosti, znanje i iskustvo u obnašanju dužnosti od posebnog interesa za Oružane snage - najdulje do dvije godine.

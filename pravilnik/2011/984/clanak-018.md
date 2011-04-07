@@ -1,0 +1,5 @@
+# Članak 18.
+(1) Na temelju raščlambe iz članka 13. ovoga Pravilnika Uprava za ljudske resurse Ministarstva obrane izrađuje popis djelatnih časnika kandidata za izdvajanje u kalendarskoj godini i dostavlja ga Upravi za personalne poslove Glavnog stožera Oružanih snaga i Središnjici za upravljanje osobljem.
+(2) Na popis kandidata za izdvajanje stavljaju se oni djelatni časnici kojima je utvrđena nemogućnost daljnjeg profesionalnog razvoja, koji u kalendarskoj godini navršavaju ili su ranije navršili 20 i više godina staža osiguranja.
+(3) Djelatnom časniku koji je sudjelovao u mirovnoj misiji ili operaciji stavljanje na popis kandidata za izdvajanje odgađa se po jednu godinu za svako sudjelovanje u mirovnoj misiji ili operaciji, ali najviše do dvije godine.
+(4) Djelatnom časniku koji se na temelju ugovora sklopljenoga s Ministarstvom obrane školuje za stjecanje stručne spreme ili vojne izobrazbe propisane ovim Pravilnikom odnosno djelatnom časniku kojemu je utvrđena vremenska obveza ostanka u službi na temelju školovanja za potrebe Ministarstva obrane i Oružanih snaga stavljanje na popis kandidata za izdvajanje odgađa se do ispunjenja obveza utvrđenih ugovorom.
