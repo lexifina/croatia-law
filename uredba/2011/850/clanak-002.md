@@ -1,0 +1,16 @@
+## Značenje pojmova
+# Članak 2.
+U smislu ove Uredbe, pojedini pojmovi imaju sljedeće značenje:
+a) vertikalni sporazum u sektoru distribucije i servisiranja motornih vozila je ugovor, pojedina odredba ugovora, usmeni ili pisani dogovor, te usklađena praksa koja je posljedica takvih dogovora, odluke poduzetnika ili udruženja poduzetnika, opći uvjeti poslovanja i drugi akti poduzetnika koji jesu ili mogu biti sastavni dio ugovora i slično, sklopljeni između poduzetnika koji ne djeluju na istoj razini proizvodnje, odnosno distribucije, a kojima se uređuju uvjeti pod kojima sudionici sporazuma mogu kupovati, prodavati ili preprodavati nova motorna vozila, rezervne dijelove za motorna vozila ili pružati usluge popravka i održavanja motornih vozila;
+b) vertikalno ograničenje je ograničenje tržišnog natjecanja sadržano u vertikalnom sporazumu o distribuciji i servisiranju motornih vozila koje je obuhvaćeno člankom 8. stavkom 1. Zakona;
+c) poduzetnik je osoba iz članka 3. Zakona;
+d) poduzetnik pod kontrolom drugog poduzetnika ili povezani poduzetnici koji se smatraju jednim gospodarskim subjektom, poduzetnici su iz članka 4. Zakona;
+e) proizvod je pravnotehnički izraz za robe i/ili usluge;
+f) zamjenski proizvod (supstitut) je proizvod koji s obzirom na svoje bitne značajke, cijenu ili način uporabe, odnosno navike potrošača može zamijeniti drugi (mjerodavni) proizvod i na taj način zadovoljiti istorodnu potrebu kupca i/ili potrošača;
+g) ovlašteni distributer novih motornih vozila je distributer koji djeluje unutar sustava kojeg je uspostavio dobavljač novih motornih vozila;
+h) ovlašteni distributer rezervnih dijelova za motorna vozila je distributer koji djeluje unutar distribucijskog sustava što ga je uspostavio dobavljač motornih vozila;
+i) neovisni distributer je distributer rezervnih dijelova za motorna vozila koji ne djeluje unutar sustava distribucije što ga je uspostavio dobavljač tih motornih vozila, te ovlašteni distributer unutar sustava distribucije pojedinog dobavljača motornih vozila, u onoj mjeri u kojoj obavlja i distribuciju rezervnih dijelova za motorna vozila koji nisu obuhvaćeni sustavom distribucije navedenog dobavljača;
+j) ovlašteni serviser je davatelj usluga popravka i održavanja motornih vozila koji djeluje unutar distribucijskog sustava što ga je uspostavio dobavljač motornih vozila;
+k) neovisni serviser je davatelj usluga popravka i održavanja motornih vozila koji ne djeluje u okviru sustava distribucije što ga je uspostavio dobavljač motornih vozila, a za koje on pruža usluge popravka ili održavanja. Ovlašteni serviser unutar sustava distribucije pojedinog dobavljača smatra se neovisnim serviserom, za potrebe ove Uredbe, u onoj mjeri u kojoj on pruža i usluge popravka ili održavanja motornih vozila koje nisu obuhvaćeni sustavom distribucije navedenog dobavljača;
+l) rezervni dijelovi su roba koju treba ugraditi u ili na motorno vozilo, kako bi se zamijenili dijelovi toga vozila, uključujući robu, poput maziva, koja je neophodna za uporabu motornoga vozila, uz iznimku goriva;
+m) mjerodavno tržište određuje se kao tržište određene robe i/ili usluga koje su predmet obavljanja djelatnosti poduzetnika na određenom zemljopisnom području, u smislu članka 7. stavka 1. Zakona i odredaba Uredbe o načinu i kriterijima utvrđivanja mjerodavnog tržišta.

@@ -1,0 +1,5 @@
+## VI. PRIJELAZNE I ZAVRŠNE ODREDBE
+# Članak 18.
+(1) Na vertikalne sporazume o prodaji rezervnih dijelova za motorna vozila te vertikalne sporazume o pružanju usluga popravka i održavanja motornih vozila koji su sklopljeni prije stupanja na snagu ove Uredbe, a koji su ispunjavali uvjete za skupno izuzeće iz Uredbe o skupnom izuzeću sporazuma o distribuciji i servisiranju motornih vozila (»Narodne novine«, broj 105/2004), nastavlja se primjena te Uredbe do isteka trajanja tih sporazuma, a najkasnije do 31. svibnja 2013. godine.
+(2) Počevši od 1. lipnja 2013. godine sporazumi iz stavka 1. ovoga članka moraju biti usklađeni s ovom Uredbom i s Uredbom o skupnom izuzeću vertikalnih sporazuma, sukladno odredbi članka 13. ove Uredbe.
+(3) Sporazumi o prodaji rezervnih dijelova za motorna vozila te sporazumi o pružanju usluga popravka i održavanja motornih vozila, koji su sklopljeni nakon stupanja na snagu ove Uredbe, danom stupanja na snagu ove Uredbe, odnosno od dana njihova sklapanja, moraju biti usklađeni s odredbama ove Uredbe i s odredbama Uredbe o skupnom izuzeću vertikalnih sporazuma, sukladno odredbi članka 13. ove Uredbe.

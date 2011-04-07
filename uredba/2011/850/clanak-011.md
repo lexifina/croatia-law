@@ -1,0 +1,4 @@
+## Ostala teška ograničenja tržišnog natjecanja u sporazumima distribuciji novih motornih vozila
+# Članak 11.
+(1) Skupno izuzeće iz ove Uredbe ne može se primijeniti u slučajevima kada dobavljač novih motornih vozila uskrati neovisnim poduzetnicima pristup tehničkim informacijama, dijagnostičkoj i drugoj opremi, alatima, uključujući relevantne računalne programe, odnosno uskrati obuku potrebnu za popravke i održavanje tih motornih vozila ili za provedbu mjera zaštite okoliša.
+(2) Neovisnim poduzetnicima iz stavka 1. ovoga članka smatraju se poduzetnici koji su neposredno ili posredno uključeni u poslove servisiranja i održavanja motornih vozila, posebno neovisni serviseri, proizvođači opreme ili alata za popravke, neovisni distributeri rezervnih dijelova, izdavači tehničkih informacija, automobilski klubovi, operateri za pomoć na cesti, operateri koji pružaju usluge pregleda i testiranja, te operateri koji pružaju obuku serviserima.

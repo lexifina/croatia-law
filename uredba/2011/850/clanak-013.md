@@ -1,0 +1,4 @@
+## IV. POSEBNI UVJETI ZA SKUPNO IZUZEĆE VERTIKALNIH SPORAZUMA O SERVISIRANJU MOTORNIH VOZILA
+# Članak 13.
+Vertikalni sporazumi o servisiranju motornih vozila, kojima se razumijevaju sporazumi o prodaji rezervnih dijelova za motorna vozila, te sporazumi o pružanju usluga popravka i održavanja motornih vozila, a koji su sklopljeni nakon stupanja na snagu ove Uredbe, mogu se skupno izuzeti od opće zabrane iz članka 8. stavka 1. Zakona ako su u cijelosti usklađeni s odredbama Uredbe o skupnom izuzeću vertikalnih sporazuma između poduzetnika, i ako ne sadrže teška ograničenja tržišnog natjecanja, posebno određena za te sporazume ovom Uredbom.
+Teška ograničenja tržišnog natjecanja u sporazumima koji se odnose na prodaju rezervnih dijelova, te pružanje usluge popravka i održavanja motornih vozila
