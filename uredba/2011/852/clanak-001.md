@@ -1,0 +1,5 @@
+# Članak 1.
+U Uredbi o osnivanju Akademije lokalne demokracije (»Narodne novine«, br. 33/2006 i 17/2007) u članku 2. stavak 1. mijenja se i glasi:
+»Djelatnost Akademije je trajno stručno usavršavanje izabranih lokalnih dužnosnika te službenika u jedinicama lokalne i područne (regionalne) samouprave, s ciljem unaprjeđenja profesionalnosti u lokalnoj i područnoj (regionalnoj) samoupravi radi dosezanja standarda koji će omogućiti primjenu pozitivnog nacionalnog zakonodavstva kao i dosezanja standarda primjene pravnih propisa u skladu s najboljom praksom i pravnom stečevinom Europske unije.«.
+U stavku 2. iza alineje 6. dodaje se nova alineja 7. koja glasi:
+»- provođenje organiziranih programa izobrazbe za dužnosnike i službenike u jedinicama lokalne i područne (regionalne) samouprave na osnovi nacionalne strategije za obuku dužnosnika i službenika u jedinicama lokalne i područne (regionalne) samouprave i plana trajnog osposobljavanja i usavršavanja službenika koje donosi Vlada Republike Hrvatske sukladno propisima o službenicima u lokalnoj i područnoj (regionalnoj) samoupravi.«.
