@@ -1,0 +1,4 @@
+## Područje primjene
+# Članak 1.
+(1) Ovim Pravilnikom utvrđuju se zahtjevi za procedure za planove leta u fazi prije polijetanja i obveze subjekata koji raspolažu podacima iz planova leta. Ti zahtjevi i obveze detaljno su propisani u Uredbi 1033/2006 od 4. srpnja 2006. kojom se propisuju zahtjevi za procedure za planove leta u fazi prije polijetanja za jedinstveno europsko nebo objavljenoj u Dodatku 1 ovoga Pravilnika (u daljnjem tekstu: Uredba iz Dodatka 1 ovoga Pravilnika).
+(2) Ovaj Pravilnik se primjenjuje na operatore zrakoplova i zastupnike koji djeluju u njihovo ime, pilote zrakoplova i zastupnike koji djeluju u njihovo ime, i jedinice koje pružaju operativne usluge kontrole zračnog prometa (ATS Units) kada pružaju usluge u općem zračnom prometu (GAT) u skladu sa pravilima instrumentalnog letenja unutar zračnog prostora Republike Hrvatske.
