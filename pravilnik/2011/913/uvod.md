@@ -1,0 +1,1 @@
+Na temelju članka 194. stavka 2. Ovršnog zakona (»Narodne novine« broj 139/10) ministar gospodarstva, rada i poduzetništva uz suglasnost ministra zaštite okoliša, prostornog uređenja i graditeljstva donosi
