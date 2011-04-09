@@ -1,0 +1,4 @@
+## Oznaka tajnosti podataka
+# Članak 9.
+(1) Podnositelj prijave je obvezan, u smislu članka 41. stavka 4. Zakona, uz svaki podatak u prijavi i njezinim privitcima jasno i uočljivo označiti je li riječ o podatku koji se smatra poslovnom tajnom iz članka 53. Zakona.
+(2) Ako podnositelj prijave ne postupi u smislu stavka 1. ovoga članka, Agencija može objaviti sve podatke koji u prijavi nisu označeni na način uređen stavkom 1. ovoga članka, kao i sve one podatke koje je Agenciji prijavio podnositelj prijave sukladno stavku 1. ovoga članka, u slučaju neprihvaćanja obrazloženja podnositelja prijave da je riječ o podatcima koji se mogu smatrati poslovnom tajnom iz članka 53. stavka 2. točke 2. Zakona, ili ako Agencija utvrdi da je riječ o podatcima iz članka 53. stavka 5. Zakona koji se ne smatraju poslovnom tajnom.

@@ -1,0 +1,5 @@
+## Zabrana provedbe nakon podnošenja prijave koncentracije
+# Članak 7.
+(1) Prijavom namjere koncentracije stupa na snagu zabrana njezine provedbe.
+(2) Provedba prijavljene koncentracije dopuštena je tek istekom roka iz članka 22. stavka 1. Zakona, ako Agencija ne donese zaključak o pokretanju postupka jer smatra da je koncentracija dopuštena, odnosno donošenjem rješenja Agencije kojim se koncentracija ocjenjuje dopuštenom ili uvjetno dopuštenom u smislu članka 22. stavka 7. točaka 1. i 2. Zakona.
+(3) Iznimno od stavka 2. ovoga članka, u opravdanim slučajevima, a na zahtjev sudionika koncentracije, Agencija može dopustiti provedbu određenih radnji provedbe prijavljene koncentracije i prije isteka roka, odnosno dostave rješenja iz stavka 2. ovoga članka. Pri ocjeni opravdanosti takvog zahtjeva, Agencija uzima u obzir sve okolnosti slučaja, a osobito prirodu i težinu štete koja bi mogla nastupiti sudionicima koncentracije ili trećim stranama, te učinke na tržišno natjecanje koji bi mogli nastati provedbom koncentracije.

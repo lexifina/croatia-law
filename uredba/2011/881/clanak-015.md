@@ -1,0 +1,5 @@
+## V. KRITERIJI ZA OCJENU DOPUŠTENOSTI KONCENTRACIJE
+## Ocjena koncentracije na 1. razini
+# Članak 15.
+(1) Ako Agencija, na temelju potpune prijave koncentracije iz članka 5. stavka 4. ove Uredbe i drugih raspoloživih podataka i saznanja Agencije ocijeni da se može razumno pretpostaviti kako nije riječ o zabranjenoj koncentraciji iz članka 16. Zakona, odnosno da takva koncentracija nema značajni učinak na mjerodavnom tržištu, uzimajući pritom u obzir kriterije iz članka 16. ove Uredbe koje Agencija smatra dostatnim za takvu ocjenu, ne donosi zaključak o pokretanju postupka iz članka 39. Zakona jer se takva koncentracija, u smislu članka 22. stavka 1. Zakona, smatra dopuštenom na 1. razini istekom roka 30 dana od dana primanja potpune prijave koncentracije.
+(2) Agencija će bez odgode obavijestiti javnost o dopuštenosti koncentracije na 1. razini iz stavka 1. ovoga članka na svojoj internet stranici, a na pisani zahtjev podnositelja prijave ili bilo kojeg sudionika koncentracije Agencija će tom podnositelju zahtjeva dati potvrdu o dopuštenosti koncentracije u smislu članka 22. stavka 2. Zakona.
