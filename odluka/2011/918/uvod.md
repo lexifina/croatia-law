@@ -1,0 +1,1 @@
+Na temelju članka 46. Zakona o sustavu državne uprave (»Narodne novine« broj 190/2003 - pročišćeni tekst, 199/2003 i 79/2007) i članka 21. stavka 6. Zakona o mjeriteljstvu (»Narodne novine« broj 63/03, 64/04 i 111/07), ravnatelj Državnog zavoda za mjeriteljstvo donosi
