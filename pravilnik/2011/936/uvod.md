@@ -1,0 +1,1 @@
+Na temelju članka 69. stavka 2. Zakona o humanitarnom razminiranju (»Narodne novine« broj 153/05, 63/07 i 152/08) ravnatelj Hrvatskog centra za razminiranje, uz prethodno pribavljeno mišljenje ravnatelja Državnog zavoda za mjeriteljstvo klasa: 011-01/10-01/18, urbroj: 558-02/1-1-6-11-2 od dana 12. siječnja 2011. godine donosi
