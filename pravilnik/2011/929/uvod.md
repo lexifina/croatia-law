@@ -1,0 +1,1 @@
+Na temelju članka 63. stavka 4. Zakona o javnim cestama (»Narodne novine«, broj 180/04., 82/06., 138/06., 146/08., 152/08., 38/09., 124/09., 153/09. i 73/10.), ministar mora, prometa i infrastrukture donosi
