@@ -1,0 +1,3 @@
+# Članak 21.
+OČITOVANJA U SLUČAJU NAMJERAVANOG ODBIJANJA
+Ured ne smije odbiti prijavu prema članku 3. ili zahtjev prema članku 7., člancima od 10. do 14., članku 17. i članku 18. u cijelosti ili djelomično, ako podnositelju prijave ili stranci koja je podnijela zahtjev, ovisno o slučaju, nije dao mogućnost da se u razumnom roku očituje o namjeravanom odbijanju. Ni od jednog Ureda ne zahtijeva se da u pogledu članka 14. da mogućnost za očitovanje kad je osobi koja podnosi zahtjev za mjeru za ublažavanje posljedica propuštanja roka već dana mogućnost za očitovanje o činjenicama na kojima će se temeljiti odluka.
