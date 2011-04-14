@@ -1,0 +1,1 @@
+Na temelju članka članka 19. st. 4. Zakona o znanstvenoj djelatnosti i visokom obrazovanju (»Narodne novine« br. 123/03, 105/04, 174/04, 02/07 - Odluka USRH, 46/07 i 45/09) Nacionalno vijeće za znanost RH je na svojoj 65. sjednici, održanoj 28. ožujka 2011. godine, donijelo
