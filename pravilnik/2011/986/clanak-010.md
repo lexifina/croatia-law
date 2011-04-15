@@ -1,0 +1,2 @@
+# Članak 10.
+Ako prostor i oprema za javnoovršiteljski ured ne odgovara kriterijima utvrđenim ovim Pravilnikom, Komisija će u zapisniku o pregledu prostora iz prethodnog članka, utvrditi nedostatke predloženog prostora i opreme i naložiti javnom ovršitelju da u roku od 30 dana od izvršenog pregleda osigura drugi odgovarajući prostor i opremu, odnosno da otkloni nedostatke predloženog prostora i opreme.
