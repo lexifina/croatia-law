@@ -1,0 +1,6 @@
+# Članak 4.
+(1) Ako se privremena mjera koju je odredio sud odnosi na oduzimanje pokretnine i njeno povjeravanje na čuvanje i upravu Agenciji, odgovorna osoba će od predlagatelja osiguranja ili tijela nadležnog za provedbu privremene mjere pribaviti sljedeće:
+1. podatke o pokretnini koji su upisani u Upisnik sudskih i javnobilježničkih osiguranja na pokretnim stvarima i pravima odnosno drugih javnih upisnika ili podatke na temelju kojih se ona može pouzdano identificirati; i
+2. zapisnik ili drugu ispravu sačinjenu prilikom provedbe privremene mjere u kojoj je opisano stanje pokretnine koja se povjerava na čuvanje i upravu Agenciji.
+(2) U slučaju da isprave iz prethodnog stavka nisu dostupne, ili ne sadrže sve podatke pomoću kojih se privremeno oduzeta pokretnina može pouzdano identificirati, ili podatke pomoću kojih se može utvrditi njeno stanje, ili ako se posumnja da opis u ispravi iz točke 2. tog stavka ne odgovara stanju koje je zatečeno prilikom preuzimanja pokretnine na čuvanje i upravu, odgovorna osoba će prilikom preuzimanja sačiniti službenu bilješku u kojoj će opisati stanje pokretnine.
+(3) Odredbe članka 2. stavaka 3. i 4. ovog Pravilnika primijenit se na odgovarajući način.

@@ -1,0 +1,2 @@
+# Članak 8.
+Ako se privremena mjera koju je odredio sud odnosi na povjeravanje uprave Agenciji s dionicama, udjelima ili poslovnim udjelima, odgovorna osoba će od predlagatelja osiguranja ili tijela nadležnog za provedbu privremene mjere pribaviti podatke o tim dionicama, udjelima ili poslovnim udjelima te poduzeti radnje potrebne za upis činjenica od značaja za pravni promet u odgovarajuće javne ili druge registre.

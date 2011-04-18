@@ -1,0 +1,4 @@
+# Članak 6.
+(1) Ako se privremena mjera koju je odredio sud odnosi na oduzimanje gotovog novca ili vrijednosnih papira i njihovu predaju Agenciji, odgovorna osoba će od predlagatelja osiguranja ili tijela nadležnog za provedbu privremene mjere pribaviti zapisnik ili drugu ispravu sačinjenu prilikom provedbe privremene mjere u kojoj su gotov novac ili vrijednosni papiri opisani na odgovarajući način (vrsta, serijski broj i sl.).
+(2) U slučaju da isprava iz prethodnog stavka nije dostupna, ili u njoj nisu navedeni svi potrebni podaci za identifikaciju gotovog novca ili vrijednosnih papira odgovorna osoba će prilikom preuzimanja tih stvari sačiniti službenu bilješku u koju će unijeti potrebne podatke.
+(3) Ako odgovorna osoba posumnja da je gotov novac ili vrijednosni papir krivotvoren, odredbe članka 2. stavaka 3. i 4. ovog Pravilnika primijenit se na odgovarajući način.

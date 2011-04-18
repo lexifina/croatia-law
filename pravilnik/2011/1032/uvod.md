@@ -1,0 +1,1 @@
+Na temelju članka 20. stavka 3. Zakona o postupku oduzimanja imovinske koristi ostvarene kaznenim djelom i prekršajem (»Narodne novine«, broj 145/10) ministar pravosuđa, uz prethodnu suglasnost ministrice financija, donosi
