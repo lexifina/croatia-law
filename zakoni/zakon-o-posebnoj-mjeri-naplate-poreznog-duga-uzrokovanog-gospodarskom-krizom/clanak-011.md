@@ -1,0 +1,3 @@
+## STUPANJE NA SNAGU ZAKONA
+# Članak 11.
+Ovaj Zakon stupa na snagu danom objave u »Narodnim novinama«.
