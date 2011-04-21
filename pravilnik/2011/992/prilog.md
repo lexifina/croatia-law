@@ -1,0 +1,61 @@
+POPIS ODORE INSPEKTORA S KOLIČINAMA ZADUŽENJA PO DJELATNIKU
+Red. br.
+Naziv
+Kom.
+Rok uporabe
+1.
+KAPA SA ŠILTOM
+2
+3 g.
+2.
+JAKNA
+1
+5 g.
+3.
+ZIMSKA JAKNA S KAPULJAČOM
+1
+5 g.
+4.
+LJETNE HLAČE
+2
+3 g.
+5.
+ZIMSKE HLAČE
+2
+3 g.
+6.
+KOŠULJA DUGIH RUKAVA
+2
+2 g.
+7.
+KOŠULJA KRATKIH RUKAVA
+2
+2 g.
+8.
+KOMBINEZON
+1
+3 g.
+9.
+MAJICA KRATKIH RUKAVA
+3
+2 g.
+10.
+PULOVER
+1
+3 g.
+11.
+ČARAPE (ljetne/zimske)
+5+3
+1 g.
+12.
+REMEN
+1
+3g.
+1.3
+NISKE CIPELE
+1
+3 g.
+14.
+VISOKE CIPELE (gležnjače)
+1
+3 g.
