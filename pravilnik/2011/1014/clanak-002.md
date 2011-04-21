@@ -1,0 +1,2 @@
+# Članak 2.
+Iza članka 7. dodaje se članak 7a. koji glasi: »Iznimno od članka 7. ovog Pravilnika, mirovinsko društvo dužno je dodatne izvještaje uz financijske izvještaje mirovinskog fonda pod brojem 05. Izvještaj o transakcijama s povezanim/relevantnim osobama fonda i brojem 06. Izvještaj o pozicijama iz odnosa s povezanim/relevantnim osobama fonda sastavljati za mjesečna razdoblja i dostavljati Agenciji mjesečno u roku od 5 radnih dana po proteku mjeseca na koji se izvještaj odnosi.«
