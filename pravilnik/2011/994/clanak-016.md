@@ -1,0 +1,2 @@
+# Članak 16.
+Danom stupanja na snagu ovoga Pravilnika prestaju važiti članci 4. - 18., članci 22. - 23., članci 32. - 33., te Prilozi 6., 7. i 8. Pravilnika o uvjetima, organizaciji i načinu rada izvanbolničke hitne medicinske pomoći (»Narodne novine«, broj 146/03) i Pravilnik o minimalnim uvjetima u pogledu prostora, radnika i medicinsko-tehničke opreme za obavljanje djelatnosti hitne medicine (»Narodne novine«, broj 58/10).
