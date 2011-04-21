@@ -1,0 +1,7 @@
+# Članak 4.
+Iza članka 11. dodaje se podnaslov i članak 11.a koji glase:
+»Postupak uklanjanja fluorida iz prirodne mineralne i prirodne izvorske vode aktivnim aluminijevim oksidom
+Članak 11.a
+(1) Otpuštanje rezidua, nastalih uslijed uklanjanja fluorida iz vode, mora se svesti na najmanju moguću razinu i u skladu s najboljom proizvođačkom praksom te ne smije predstavljati opasnost za ljudsko zdravlje. Kako bi se to osiguralo, subjekt u poslovanju s hranom mora uspostaviti i pratiti kritične procesne postupke iz Dodatka 6. koji je tiskan uz ovaj Pravilnik i njegov je sastavni dio.
+(2) U slučaju primjene postupka uklanjanja fluorida aktivnim aluminijevim oksidom iz prirodne mineralne i prirodne izvorske vode, sukladno stavku 1. ovog članka i Dodatku 6. ovoga Pravilnika, Povjerenstvo mora biti obaviješteno o primjeni postupka uklanjanja fluorida najmanje tri mjeseca prije njegovog korištenja.
+(3) Subjekt u poslovanju s hranom mora uz obavijest Povjerenstvu dostaviti sve bitne informacije, dokumentaciju i analitička izvješća o postupku obrade vode aktivnim aluminijevim oksidom koji dokazuju da je obrada sukladna Dodatku 6. ovog Pravilnika.«
