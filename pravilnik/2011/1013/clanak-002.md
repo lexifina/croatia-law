@@ -1,0 +1,2 @@
+# Članak 2.
+U članku 3. iza stavka 3. dodaje se stavak 4. koji glasi: »(4) Iznimno od stavka 2. ovog članka, društvo za upravljanje je dužno dodatne izvještaje uz financijske izvještaje investicijskih fondova pod brojem 05. Izvještaj o transakcijama s povezanim/relevantnim osobama fonda i brojem 06. Izvještaj o pozicijama iz odnosa s povezanim/relevantnim osobama fonda sastavljati za mjesečna razdoblja i dostavljati Agenciji mjesečno u roku od 5 radnih dana po proteku mjeseca na koji se izvještaj odnosi.«
