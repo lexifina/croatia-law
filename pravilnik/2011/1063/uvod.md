@@ -1,0 +1,1 @@
+Na temelju članka 38. stavka 9. Zakona o oznakama izvornosti, oznakama zemljopisnog podrijetla i oznakama tradicionalnog ugleda poljoprivrednih i prehrambenih proizvoda (»Narodne novine« broj 84/08; 75/09; 20/10), ministar poljoprivrede, ribarstva i ruralnog razvoja donosi
