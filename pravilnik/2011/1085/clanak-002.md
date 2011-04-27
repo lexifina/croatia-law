@@ -1,0 +1,2 @@
+# Članak 2.
+Odredbe ovoga Pravilnika odnose se na proračunske korisnike državnog proračuna utvrđene Registrom proračunskih i izvanproračunskih korisnika donesenim u skladu s Pravilnikom o utvrđivanju proračunskih i izvanproračunskih korisnika državnog proračuna i proračunskih i izvanproračunskih korisnika proračuna jedinica lokalne i područne (regionalne) samouprave te o načinu vođenja Registra proračunskih i izvanproračunskih korisnika.
