@@ -1,0 +1,2 @@
+# Članak 2.
+Mirovina u visini najniže mirovine, koja se priznaje hrvatskom branitelju iz Domovinskog rata kada ispuni uvjet godina života, a ne ispunjava uvjete mirovinskog staža za priznavanje prava na starosnu mirovinu, prema Zakonu o mirovinskom osiguranju (»Narodne novine«, broj 102/98., 127/00., 59/01., 109/01., 147/02., 117/03., 30/04., 177/04., 92/05., 79/07., 35/08., 40/09. i 121/10.) od 1. siječnja 2011. iznosi 2.404,35 kn mjesečno.
