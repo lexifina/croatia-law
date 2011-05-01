@@ -1,0 +1,2 @@
+# Članak 7.
+Ako inspektor u provedbi inspekcijskog nadzora utvrdi da poslodavac u propisanom roku radniku nije dostavio obračun iz kojeg je vidljivo kako je utvrđen iznos isplaćene plaće, naknade plaće ili otpremnine ili utvrdi da poslodavac radniku nije u propisanom roku dostavio obračun dospjele, a neisplaćene plaće, naknade plaće ili otpremnine ili utvrdi da ti obračuni nemaju propisani sadržaj, rješenjem će poslodavcu naložiti dostavu obračuna sa svim propisanim podacima.

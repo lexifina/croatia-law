@@ -1,0 +1,2 @@
+# Članak 8.
+Poslodavac je obračunske isprave, čiji je sadržaj propisan ovim Pravilnikom, dužan čuvati najmanje četiri godine, a u slučaju kada poslodavac ima saznanja da je pokrenut radni spor u pogledu ostvarenja prava iz radnog odnosa ili u svezi s radnim odnosom, pri čemu bi za ostvarenje tih prava mogle biti relevantne i obračunske isprave, iste je dužan čuvati do pravomoćnog okončanja toga spora.
