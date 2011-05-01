@@ -1,0 +1,6 @@
+# Članak 15.
+Ugovorne stranke odriču se svakog zahtjeva za naknadu štete na opremi za zaštitu i spašavanje, ukoliko je štetu prouzročila postrojba (pojedinac) za zaštitu i spašavanje koja pomaže tijekom spašavanja i pružanja pomoći na temelju ovog Sporazuma, i ako šteta nije prouzročena namjerno.
+Ugovorne se stranke odriču svih prava na naknadu štete u slučaju tjelesne ozljede i trajnih posljedica na zdravlje te u slučaju smrti sudionika u spašavanju i pružanju pomoći ako do toga dođe tijekom spašavanja i pružanja pomoći na temelju ovog Sporazuma, osim ako nisu prouzrokovane namjerno.
+Ukoliko se prilikom spašavanja i pružanja pomoći iz ovog Sporazuma prouzroči šteta trećoj osobi, odgovornost preuzima ugovorna stranka koja traži pomoć kao da su štetu prouzročile njezine postrojbe (pojedinci) za zaštitu i spašavanje koji sudjeluju u pružanju pomoći, osim ukoliko su štetu namjerno prouzročile postrojbe (pojedinci) za zaštitu i spašavanje ugovorne stranke koja pruža pomoć.
+Odgovornost za naknadu štete iz stavaka 1. i 2. ovog članka, nastaje u trenutku dolaska na državno područje ugovorne stranke koja traži pomoć i traje do napuštanja njezinog državnog područja.
+ZBRINJAVANJE I PRUŽANJE POMOĆI EVAKUIRANIM OSOBAMA

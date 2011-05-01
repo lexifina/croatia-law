@@ -1,0 +1,13 @@
+# Članak 3.
+Za potrebe ovog Sporazuma koriste se sljedeći izrazi:
+1. »Ugovorna stranka koja traži pomoć« je ona ugovorna stranka čije nadležno tijelo navedeno u članku 4. ovog Sporazuma upućuje zamolbu drugoj ugovornoj stranci za pružanje pomoći;
+2. »Ugovorna stranka koja pruža pomoć« je ona ugovorna stranka čije nadležno tijelo navedeno u članku 4. ovog Sporazuma udovoljava zamolbi druge ugovorne stranke za pružanjem pomoći;
+3. »Tranzitna država« je država preko čijeg državnog područja trebaju proći postrojbe za zaštitu i spašavanje i oprema za zaštitu i spašavanje za potrebe ugovornih stranaka ili za potrebe neke treće države;
+4. »Prirodne i tehničko-tehnološke katastrofe« su događaji koji su već nastupili ili prijete da će se dogoditi, koji su djelomično ili sasvim izmakli kontroli, vremenski i prostorno su ograničeni, te koji nastaju u vezi s radom nekog tehničkog postrojenja, razarajućim prirodnim silama, postupanjem s opasnim tvarima ili njihovim prijevozom i mogu dovesti do opasnosti za život i zdravlje ljudi i životinja, opasnosti za prirodni okoliš, ugrožavanja imovine, značajnih privrednih gubitaka ili ekoloških šteta, a za čije savladavanje nisu dovoljne vlastite snage pogođene ugovorne stranke;
+5. »Obavijesti i podaci o događaju« su podaci o prirodnim i tehničko-tehnološkim katastrofama koji se priopćavaju kako bi se stanovništvo pravodobno obavijestilo o opasnosti u svrhu poduzimanja zaštitnih mjera za zaštitu života, materijalnih dobara i prirodnog okoliša;
+6. »Zaštitne mjere« su preventivne i zaštitne mjere odnosno aktivnosti za sprječavanje, ublažavanje i otklanjanje opasnosti koje ugrožavaju stanovništvo, mjere za očuvanje materijalnih dobara i prirodnog okoliša;
+7. »Spašavanje i pružanje pomoći« su aktivnosti postrojbi (pojedinaca) za zaštitu i spašavanje s ciljem uklanjanja direktnih i indirektnih posljedica prirodnih i tehničko-tehnoloških katastrofa;
+8. »Postrojbe (pojedinci) za zaštitu i spašavanje« su specijalizirane postrojbe (odnosno jedna ili više osoba) s odgovarajućom opremom za zaštitu i spašavanje i materijalnim dobrima za pružanje pomoći, koje je odredila ugovorna stranka koja pruža pomoć;
+9. »Oprema za zaštitu i spašavanje« je materijal, posebice tehnički uređaji, prometna sredstva i službeni psi za spašavanje, te dobra za vlastite potrebe koja upotrebljavaju postrojbe (pojedinci) za zaštitu i spašavanje prilikom spašavanja i pružanja pomoći;
+10. »Materijalna dobra pomoći« su materijali, predmeti, sredstva, namirnice, pitka voda, lijekovi i sanitetski materijali namijenjeni besplatnoj raspodjeli ugroženom, odnosno stradalom stanovništvu u svrhu ublažavanja štetnih posljedica prirodnih i tehničko-tehnoloških katastrofa.
+NADLEŽNA TIJELA
