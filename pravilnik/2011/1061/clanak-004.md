@@ -1,0 +1,3 @@
+# Članak 4.
+U članku 5. iza stavka 2. dodaje se stavak 3. koji glasi:
+»Naknada za izvršeni veterinarski pregled pošiljaka uvećava se za 100% u odnosu na propisanu odredbama ovoga Pravilnika ukoliko osoba odgovorna za pošiljku ne najavi pošiljku prije dolaska na područje Republike Hrvatske u skladu s člankom 2. stavkom 1. Pravilnika o dokumentu za prijavljivanje veterinarsko zdravstvenog pregleda životinja koje ulaze u Republiku Hrvatsku (»Narodne novine«, broj 82/06, 139/06 i 75/07) i člankom 3. stavkom 1. Pravilnika o dokumentu za prijavljivanje veterinarsko zdravstvenog pregleda pošiljaka životinjskog podrijetla koje ulaze u Republiku Hrvatsku (»Narodne novine«, broj 129/06, 139/06, 75/07 i 116/07).«
