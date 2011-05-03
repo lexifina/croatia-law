@@ -1,0 +1,4 @@
+# Članak 1.
+U Pravilniku o sadržaju i obliku svjedodžbi i drugih javnih isprava te pedagoškoj dokumentaciji i evidenciji u školskim ustanovama (»Narodne novine«, broj 32/10) u članku 5. stavku 2. točki 5. iza riječi: »isprave« briše se točka-zarez i riječi: »klasa, urudžbeni broj i datum izdavanja rješenja o primjerenome obliku školovanja, vrsta programa uz mogućnost upisa i promjene rješenja tijekom školovanja«.
+U članku 5. stavak 4. mijenja se i glasi:
+»(4) Matična knjiga grafički se oblikuje za ove vrste škola i obrazovnih programa: osnovne škole, posebne odgojno-obrazovne ustanove, osnovne glazbene škole, gimnazije, srednje glazbene škole, strukovne programe, program za stjecanje strukovne kvalifikacije/zanimanja medicinska sestra/tehničar opće zdravstvene njege te programe obrazovanja za zanimanja za vezane obrte.«
