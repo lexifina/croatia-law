@@ -1,0 +1,6 @@
+## Službene kontrole
+# Članak 6.
+(1) Osoba ovlaštena za provođenje službene kontrole na graničnom prijelazu mora provesti dokumentacijski i identifikacijski pregled svih pošiljaka hrane i hrane za životinje iz članka 2. ovoga Pravilnika.
+(2) Osoba ovlaštena za provođenje službene kontrole na graničnom prijelazu mora provesti fizički pregled pošiljaka hrane i hrane za životinje iz članka 2. ovoga Pravilnika uključujući i laboratorijsko ispitivanje na prisutnost joda-131, cezija-134 i cezija-137 na najmanje 10% pošiljaka iz članka 3. stavka 4. treće alineje i na najmanje 20% pošiljaka iz članka 3. stavka 4. druge alineje ovoga Pravilnika.
+(3) Do dobivanja rezultata laboratorijskih ispitivanja pošiljke mogu biti zadržane pod službenom kontrolom najviše pet radnih dana.
+(4) U svrhu puštanja pošiljke u slobodni promet, subjekt u poslovanju s hranom ili hranom za životinje ili njegov predstavnik mora carinskoj službi predočiti Izjavu potvrđenu od strane osobe ovlaštene za provođenje službene kontrole na graničnom prijelazu da su završene sve službene kontrole iz stavka 1. i 2. ovoga članka i da su dobiveni zadovoljavajući rezultati fizičkih pregleda, ukoliko su takvi pregledi bili zahtijevani.
