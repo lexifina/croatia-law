@@ -1,0 +1,4 @@
+# Članak 4.
+Stranke će podupirati zapošljavanje stručno osposobljenih djelatnika koji dolaze iz redova pripadajuće manjine na svim razinama i oblicima obrazovanja.
+Stranke će poticati suradnju i razmjenu u području obrazovanja u dijelu koji se odnosi na obrazovanje manjina, posebno razmjenom prosvjetnih stručnjaka, školskih programa, udžbenika i drugih nastavnih materijala, omogućiti dodjele stipendija i sudjelovanje na seminarima stručnog usavršavanja manjinskih učitelja te poticati izravnu suradnju škola, odnosno stvaranje uvjeta za uzajamne posjete učenika i učitelja.
+Na području gdje je organizirano njegovanje jezika i kulture pripadnika hrvatske manjine u Crnoj Gori i crnogorske manjine u Republici Hrvatskoj, stranke će poticati učenje jezika, kulture i povijesti manjina i njihovih matičnih naroda i za pripadnike većinskog naroda.
