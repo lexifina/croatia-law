@@ -1,0 +1,1 @@
+Na temelju članka 11. stavak 3. Zakona o regulaciji energetskih djelatnosti (»Narodne novine«, broj 177/04 i 76/07), te članka 8. stavak 1. i članka 29. stavak 2. Tarifnog sustava za transport nafte naftovodom (»Narodne novine«, broj 39/07), Hrvatska energetska regulatorna agencija je na 8. sjednici Upravnog vijeća održanoj 3. svibnja 2011. godine donijela
