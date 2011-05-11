@@ -1,0 +1,2 @@
+# Članak 1.
+U Pravilniku o posebnim uvjetima za proizvodnju, smještaj i promet oružja i streljiva, popravljanje i prepravljanje oružja te vođenje civilnih strelišta (»Narodne novine« broj: 69/2008 i 88/2009), podnaslov iznad članka 19.: »1.1. Civilna strelišta otvorenog tipa za malokalibarske puške kalibra 22 l.r. s rubnim paljenjem« mijenja se i glasi: »1.1. Civilna strelišta otvorenog tipa za malokalibarske puške kalibra 22 l.r. s rubnim paljenjem i malokalibarske pištolje kalibra 22 l.r. s rubnim paljenjem«.
