@@ -1,0 +1,1 @@
+Na temelju članka 12. Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 2011. godinu (»Narodne novine«, broj 140/2010), a u vezi s člankom 58. Zakona o proračunu (»Narodne novine«, broj 87/2008), Vlada Republike Hrvatske je na sjednici održanoj 12. svibnja 2011. godine donijela
