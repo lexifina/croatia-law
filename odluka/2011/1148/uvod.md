@@ -1,0 +1,1 @@
+Na temelju članka 63. stavka 8. Zakona o javnim cestama (»Narodne novine«, br. 180/2004, 82/2006, 138/2006, 146/2008, 152/2008, 38/2009, 124/2009, 153/2009 i 73/2010), Vlada Republike Hrvatske je na sjednici održanoj 28. travnja 2011. godine donijela
