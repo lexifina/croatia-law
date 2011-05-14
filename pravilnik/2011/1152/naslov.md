@@ -1,0 +1,1 @@
+Pravilnik o početnoj cijeni poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na natječaju za prodaju i zakup, početnoj visini naknade na natječaju za dugogodišnji zakup i koncesiju za ribnjake

@@ -1,0 +1,1 @@
+Na temelju članka 39., 57. stavak 4. i članka 66. stavak 4. Zakona o poljoprivrednom zemljištu (»Narodne novine«, broj 152/08 i 21/10) ministar poljoprivrede, ribarstva i ruralnog razvoja uz suglasnost ministra nadležnog za financije, donosi
