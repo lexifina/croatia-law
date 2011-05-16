@@ -1,0 +1,3 @@
+# Članak 25.
+(1) Uz zahtjev za izdavanje Svjedodžbe o stručnoj i/ili dopunskoj osposobljenosti podnositelj zahtjeva dužan je priložiti dvije fotografije primjerene veličine koje ga vjerno prikazuju, bez pokrivala za glavu i vlastoručni potpis te ostale isprave kojima se dokazuje ispunjavanje uvjeta za izdavanje Svjedodžbe o stručnoj i/ili dopunskoj osposobljenosti.
+(2) Iznimno, od podnositelja zahtjeva iz stavka 1. ovoga članka mogu se uzeti fotografije na kojoj je fotografiran s pokrivalom za glavu, ako pokrivalo nosi radi vjerskih ili medicinskih razloga, pod uvjetom da pokrivalo ne prekriva obraze, bradu i čelo.
