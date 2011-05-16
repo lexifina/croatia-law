@@ -1,0 +1,5 @@
+# Članak 19.
+(1) Ako se protiv osobe čije se izručenje traži u zamoljenoj državi vodi kazneni postupak ili je u toj državi osuđena zbog nekog drugog kaznenog djela, a ne onog koje je predmet izručenja, izručenje se može odgoditi dok se taj postupak ne okonča, a u slučaju osude - dok se kaznena sankcija ne izvrši.
+(2) Ako bi zbog odgode izručenja u državi moliteljici mogla nastupiti zastara kaznenog progona, ili bi njegov tijek bio ozbiljno ometan, može se, na obrazloženi zahtjev države moliteljice, dopustiti privremeno izručenje radi vođenja kaznenog postupka. Država moliteljica mora u tom slučaju izručenu osobu vratiti odmah nakon što se obave nužne procesne radnje zbog kojih je bilo dopušteno privremeno izručenje.
+(3) Država moliteljica mora privremeno izručenu osobu, za vrijeme boravka na njezinom državnom području, držati u pritvoru. Vrijeme provedeno u pritvoru, od datuma kad privremeno izručena osoba napusti državno područje zamoljene države do datuma kada se vrati na njezino državno područje, uračunava se u kaznenu sankciju koja će biti izrečena ili izvršena u zamoljenoj državi.
+POSTOJANJE VIŠE ZAHTJEVA ZA IZRUČENJE
