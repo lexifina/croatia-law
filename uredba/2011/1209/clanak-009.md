@@ -1,0 +1,9 @@
+## Čuvanje podataka
+# Članak 9.
+(1) Podaci sadržani u Registru čuvaju se trajno.
+(2) Iznimno od stavka 1. ovoga članka, danom prestanka državne službe, odnosno radnog odnosa zaposlenog u državnom tijelu ili javnoj službi, iz Registra se brišu osobni podaci zaposlenog: ime i prezime, OIB, JMBG, te ostali podaci koji ukazuju na mogućnost identifikacije zaposlenog nakon prestanka službe odnosno radnog odnosa.
+(3) Ako zaposlenom prestaje služba, odnosno radni odnos u državnom tijelu ili javnoj službi zbog odlaska u mirovinu, smrti ili zapošljavanja kod poslodavca na čije zaposlenike se ne odnose odredbe propisa o zaposlenima u javnom sektoru, ili mu služba, odnosno radni odnos miruje, Osobni dosje se pohranjuje u tom državnom tijelu.
+(4) Ako se zaposleni zapošljava u državnom tijelu ili javnoj službi, a prethodno je već bio zaposlen u državnom tijelu, odnosno javnoj službi, ovlaštena osoba državnoga tijela, odnosno javne službe pisanim putem zatražit će dostavu Osobnog dosjea od državnoga tijela, odnosno javne službe u kojoj je bio zaposlen i odobrenje pristupa podacima u Registru koji se odnose na toga zaposlenoga.
+(5) Iznimno od stavka 4. ovoga članka, neće se dostaviti podaci iz Osobnog dosjea, odnosno odobriti pristup podacima u Registru za koje je utvrđen stupanj tajnosti sukladno posebnim propisima.
+(6) Odobrenje iz stavka 4. ovoga članka izdaje čelnik državnog tijela ili javne službe u kojem je zaposlenom prestala služba, odnosno radni odnos, a pristup podacima omogućava izvršitelj obrade podataka na zahtjev čelnika državnog tijela ili javne službe u kojoj se zaposleni zapošljava.
+(7) Isprave i podaci sadržani u Osobnim dosjeima čuvaju se 60 godina od zasnivanja dosjea, odnosno 20 godina od zadnje izmjene u dosjeu ili Registru, ukoliko na temelju propisa koji uređuju čuvanje arhivskoga gradiva nije određen dulji rok čuvanja.
