@@ -1,0 +1,1 @@
+Na temelju članka 20. stavka 4. i članka 21. stavka 1. Zakona o odgoju i obrazovanju u osnovnoj i srednjoj školi (»Narodne novine«, broj 87/08., 86/09., 92/10. i 105/10. - ispr.) ministar znanosti, obrazovanja i športa (u daljnjem tekstu: ministar), uz prethodnu suglasnost ministra nadležnog za poslove zdravstva, donosi
