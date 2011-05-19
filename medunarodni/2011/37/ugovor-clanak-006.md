@@ -1,0 +1,9 @@
+# Članak 6.
+UVJETI PRELASKA DRŽAVNE GRANICE OD STRANE JEDINICA ZA PRUŽANJE POMOĆI I REŽIM NJIHOVOG BORAVKA NA DRŽAVNOM PODRUČJU DRŽAVE STRANKE KOJA TRAŽI POMOĆ
+1. Svaka će stranka poduzeti sve moguće mjere za pojednostavljenje postupka pri prelasku državne granice jedinicama za pružanje pomoći.
+2. Pripadnici jedinica za pružanje pomoći prelaze državnu granicu države stranke koja traži pomoć na graničnim prijelazima koji su otvoreni za međunarodni promet, uz predočenje odgovarajuće identifikacijske isprave potrebne za ulazak na državno područje države stranke koja traži pomoć, a koju stranka koja traži pomoć prihvaća kao takvu.
+3. Voditelj jedinice za pružanje pomoći mora posjedovati i na zahtjev nadležnih tijela stranke koja traži pomoć predočiti ispravu izdanu od nadležnog tijela stranke koja pruža pomoć, a koja potvrđuje ovlasti i zadaću u pružanju pomoći, kao i popis pripadnika njegove jedinice za pružanje pomoći, pri čemu obje isprave moraju biti na engleskom jeziku.
+4. Prelazak preko državne granice države stranke koja traži pomoć timova sa potražnim psima koji su kao takvi u sastavu jedinica za pružanje pomoći te njihov boravak na državnom području države stranke koja traži pomoć ostvaruje se u skladu s pravilima karantene koja važe na državnom području te države.
+5. Pripadnici jedinica za pružanje pomoći tijekom boravka na državnom području države stranke koja traži pomoć dužni su poštovati zakonodavstvo te države. Oni su istovremeno pod nadležnosti države stranke koja traži pomoć vezano uz radno zakonodavstvo.
+6. Pripadnici jedinice za pružanje pomoći imaju pravo na državnom području države stranke koja traži pomoć nositi propisanu odoru.
+7. Odredbe ovoga članka primjenjuju se i za vrijeme zajedničkih vježbi tijekom kojih se jedinice za pružanje pomoći jedne stranke nalaze na državnom području države druge stranke.
