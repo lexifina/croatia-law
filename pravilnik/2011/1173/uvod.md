@@ -1,0 +1,1 @@
+Na temelju članka 79. Zakona o zdravstvenoj zaštiti (»Narodne novine«, br. 150/2008, 71/2010, 139/2010 i 22/2011), uz prethodno pribavljeno mišljenje Hrvatskog zavoda za hitnu medicinu, ministar zdravstva i socijalne skrbi donosi
