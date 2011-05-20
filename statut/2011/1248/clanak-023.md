@@ -1,0 +1,9 @@
+# Članak 23.
+(1) Nadzorni odbor HRT-a ima pet članova. Jedan član je predstavnik radničkog vijeća HRT-a, a predsjednika i tri člana imenuje i razrješava Hrvatski sabor na način i prema postupku utvrđenim Zakonom o HRT-u.
+(2) Za člana Nadzornog odbora HRT-a koji je predstavnik radničkog vijeća HRT-a može biti imenovan hrvatski državljanin s prebivalištem u Republici Hrvatskoj, koji ima završen diplomski sveučilišni studij ili specijalistički diplomski stručni studij iz područja ekonomije, prava, elektroničkih komunikacija ili medija, odgovarajuće radno iskustvo i aktivno znanje najmanje jednog svjetskog jezika.
+(3) Na članove Nadzornog odbora HRT-a odgovarajuće se primjenjuju odredbe članka 19. stavaka 3., 4., 5., 6. i 7. te članka 20. ovoga Statuta.
+(4) Članovi Nadzornog odbora HRT-a imenuju se na vrijeme od četiri godine i mogu biti ponovo imenovani.
+(5) Članovi Nadzornog odbora imaju pravo na nagradu za svoj rad u najvećem dopuštenom iznosu utvrđenom odlukom Vlade RH o visini naknade članovima nadzornog odbora, upravnih vijeća i drugih tijela upravljanja ustanovama kojima je osnivač Republika Hrvatska.
+(6) Članovi Nadzornog odbora HRT-a s prebivalištem izvan Zagreba imaju pravo na naknadu putnih troškova i troškova smještaja kada prisustvuju sjednicama Nadzornog odbora i zajedničkim sjednicama Nadzornog odbora HRT-a i Vijeća HRT-a, a ako predsjednik Nadzornog odbora HRT-a ima prebivalište izvan Zagreba ima navedena prava i kada prisustvuje sjednicama Vijeća HRT-a.
+(7) Nadzorni odbor HRT-a donosi odluke većinom glasova ukupnog broja članova Nadzornog odbora, osim u slučaju kada u sklopu zajedničkog djelokruga na zajedničkoj sjednici Vijeća HRT-a i Nadzornog odbora HRT-a kao jedno tijelo donosi odluke dvotrećinskom većinom glasova svih članova.
+(8) Način rada Nadzornog odbora HRT-a uređuje se Poslovnikom o radu Nadzornog odbora HRT-a.

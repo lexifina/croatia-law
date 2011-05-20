@@ -1,0 +1,3 @@
+# Članak 2.
+(1) HRT kao javna radiotelevizija za svoje djelovanje odgovara javnosti te u svojem djelovanju promiče javne vrijednosti i interese.
+(2) HRT u svojim programima mora zadovoljiti interese javnosti na državnoj, regionalnoj i lokalnoj razini te osigurati odgovarajuću zastupljenost informativnoga, umjetničkog, kulturnog, dramskog, dokumentarnog, filmskog, glazbenog, znanstvenog, obrazovnog, dječjeg, zabavnog, športskog i drugog sadržaja koji je u interesu javnosti. U programima HRT-a moraju se poštovati najviša stručna mjerila i etička načela te profesionalno priznati standardi neovisnog novinarstva. HRT je dužan poštovati i sva druga programska načela i obveze utvrđene Zakonom o HRT-u i drugim propisima.

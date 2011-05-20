@@ -1,0 +1,1 @@
+Na temelju članka 18. stavka 3. alineje 3. Zakona o Hrvatskoj radioteleviziji (»Narodne novine«, br. 137/10.) - (u daljnjem tekstu: Zakon o HRT-u), Programsko vijeće HRT-a i Nadzorni odbor HRT-a na 3. zajedničkoj sjednici održanoj 9. svibnja 2011. donijeli su

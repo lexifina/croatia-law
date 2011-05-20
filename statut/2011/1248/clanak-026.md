@@ -1,0 +1,9 @@
+# Članak 26.
+(1) U skladu sa Zakonom o HRT-u, Programsko vijeće HRT-a (u daljnjem tekstu: Vijeće HRT-a) zastupa i štiti interes javnosti nadzorom programa i unapređenjem radijskog i audiovizualnog programa te drugih audio i audiovizualnih te multimedijskih usluga, kao i sudjelovanjem u postupku izbora Uprave HRT-a i glavnih urednika HRT-a.
+(2) Prema odredbama Zakona o HRT-u, Vijeće HRT-a ima 11 članova koje bira i razrješava Hrvatski sabor na način i prema postupku utvrđenim Zakonom o HRT-u.
+(3) Mandat predsjednika i članova Vijeća HRT-a traje četiri godine, tako da se svake dvije godine imenuje polovina članova Vijeća HRT-a. Ista osoba može biti najviše dva puta izabrana za člana Vijeća HRT-a.
+(4) Vijeće HRT-a imenuje i razrješava predsjednika Vijeća HRT-a.
+(5) Članovi Vijeća HRT-a imaju pravo na naknadu za svoj rad u najvećem dopuštenom iznosu utvrđenom odlukom Vlade RH o visini naknade članovima nadzornog odbora, upravnih vijeća i drugih tijela upravljanja ustanova kojima je osnivač Republika Hrvatska.
+(6) Članovi Vijeća HRT-a s prebivalištem izvan Zagreba imaju pravo na naknadu putnih troškova i troškova smještaja kada prisustvuju sjednicama Vijeća HRT-a i zajedničkim sjednicama Nadzornog odbora HRT-a i Vijeća HRT-a, a predsjednik Vijeća HRT-a s prebivalištem izvan Zagreba ima navedena prava i kada prisustvuje sjednicama Nadzornog odbora HRT-a.
+(7) Vijeće HRT-a pravovaljano donosi odluke većinom glasova ukupnog broja članova Vijeća, osim odluka za koje je Zakonom o HRT-u propisano da se donose dvotrećinskom većinom glasova, te u slučaju kada u sklopu zajedničkog djelokruga na zajedničkoj sjednici Vijeće HRT-a i Nadzorni odbor HRT-a kao jedno tijelo donosi odluke dvotrećinskom većinom glasova svih članova.
+(8) Način rada Vijeća HRT-a uređuje se Poslovnikom o radu Programskog vijeća HRT-a.
