@@ -1,0 +1,4 @@
+# Članak 1.
+U Pravilniku o provedbi mjere 301. »Poboljšanje i razvoj ruralne infrastrukture« unutar IPARD programa (»Narodne novine« br. 61/10 i 127/10), članak 12. mijenja se i glasi:
+»(1) Investicijska studija/poslovni plan treba biti izrađena u skladu s predloškom i pojašnjenjima u Prilogu III. ovoga Pravilnika (obrazac I-OEA-6).
+(2) Ukoliko podnositelj posjeduje Investicijsku studiju/ poslovni plan ili neki drugi dokument odgovarajućeg sadržaja, koji je izrađen za potrebe banke u svrhu odobravanja kredita, a služi za ocjenu ekonomske održivosti ulaganja koja je osnova za dobivanje sredstava iz Mjere 301 IPARD programa, te ako isti dokument, pored ostalog, sadrži podatke navedene u obrascu I-OEA-6, bez obzira na poredak, takav dokument može biti prihvatljiv. Ukoliko navedeni dokument ne sadrži sve podatke u skladu s obrascem I-OEA-6, podaci i tablice koje nedostaju mogu se priložiti postojećem dokumentu.«
