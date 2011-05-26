@@ -1,0 +1,1 @@
+Na temelju članka 72. stavka 2. Zakona o zaštiti prirode (»Narodne novine«, br. 70/2005 i 139/2008) i članka 12. stavka 2. Zakona o ustanovama (»Narodne novine«, br. 76/93, 29/97, 47/99 i 35/2008), Vlada Republike Hrvatske je na sjednici održanoj 8. travnja 2011. godine donijela
