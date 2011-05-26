@@ -1,0 +1,3 @@
+# Članak 14.
+Članak 126. mijenja se i glasi:
+»Činjenica o uzroku i postotku oštećenja organizma, činjenica postojanja oštećenja organizma radi priznavanja prava na doplatak za njegu i pomoć druge osobe, činjenica postojanja oštećenja organizma radi priznavanja prava na ortopedski doplatak, činjenica postojanja oštećenja organizma radi priznavanja prava za pripomoć u kući, činjenica nesposobnosti za privređivanje, činjenica je li smrt ili samoubojstvo hrvatskog branitelja iz Domovinskog rata u uzročno-posljedičnoj vezi s izravnim sudjelovanjem hrvatskog branitelja u obrani suvereniteta Republike Hrvatske utvrđuju se na temelju nalaza i mišljenja vijeća liječničkog povjerenstva.«.
