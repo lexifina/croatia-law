@@ -1,0 +1,2 @@
+# Članak 9.
+Oglas o javnom nadmetanju, odnosno javnom prikupljanju ponuda objavit će se u jednom od visokotiražnih dnevnih listova, u lokalnom listu, na web-stranici Agencije i na web-stranici Hrvatske gospodarske komore. Rok za podnošenje prijave, odnosno ponude, računa se od dana objave oglasa u dnevnom listu, a to će se naznačiti u oglasima koji se objavljuju u lokalnom listu i na web-stranicama.
