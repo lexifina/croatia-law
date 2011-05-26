@@ -1,0 +1,4 @@
+# Članak 2.
+U Prilogu 2., odjeljku V., točki 1., briše se tekst:
+»Na tržište Republike Hrvatske može se stavljati samo ono toplinski obrađeno kravlje mlijeko namijenjeno za prehranu ljudi koje udovoljava zahtjevu da mu je točka smrzavanja najviše - 0,520 °C i masa najmanje 1028 grama po litri, ako se određuje u punomasnom mlijeku pri 20 °C ili ekvivalentne vrijednosti ako se određuje u potpuno obranom mlijeku pri 20 °C, te da sadrži najmanje 28 grama proteina po litri, izračunato množenjem udjela ukupnog dušika u mlijeku sa 6,38, a udio bezmasne suhe tvari najmanje 8,50%.
+Točka smrzavanja veća od -0,520 °C bit će prihvatljiva pod uvjetom da službene kontrole pokazuju da u mlijeku nema dodane vode odnosno da sirovo mlijeko udovoljava odredbama Pravilnika o kakvoći svježeg sirovog mlijeka (»Narodne novine« br. 102/2000).«
