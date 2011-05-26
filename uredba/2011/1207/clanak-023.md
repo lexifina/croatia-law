@@ -1,0 +1,2 @@
+# Članak 23.
+Za potrebe vođenja Registra, Agencija će uspostaviti elektroničku vezu s bazom podataka Hrvatskih šuma d.o.o., a ako to nije moguće, odnosno do uspostavljanja takve veze, Hrvatske šume d.o.o. jednom će mjesečno, na odgovarajućem elektroničkom mediju dostavljati Agenciji podatke o šumama i šumskom zemljištu čiji je vlasnik, suvlasnik, odnosno zajednički vlasnik Republika Hrvatska, odnosno zavodi i druge pravne osobe kojih je osnivač Republika Hrvatska, iz svoje baze podataka.

@@ -1,0 +1,3 @@
+# Članak 25.
+1) Tijela državne uprave, zavodi i pravne osobe kojima je osnivač Republika Hrvatska, kao i drugi korisnici državnog proračuna, dužni su do 31. siječnja svake godine Agenciji dostaviti podatke, sa stanjem na 31. prosinca prethodne godine, o nekretninama u vlasništvu Republike Hrvatske koje koriste, o nekretninama u svome vlasništvu, kao i o svim drugim nekretninama koje koriste na temelju ugovora o zakupu, ugovora o najmu ili ugovora o korištenju.
+2) Sve podatke o promjenama u stjecanju i raspolaganju nekretninama iz stavka 1. ovoga članka navedene osobe dužne su dostaviti najkasnije u roku 30 dana od svake promjene.

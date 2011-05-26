@@ -1,0 +1,22 @@
+# Članak 16.
+Popis nekretnina sadržavat će podatke o nekretninama čiji je vlasnik, suvlasnik ili zajednički vlasnik, odnosno vanknjižni vlasnik Republika Hrvatska, odnosno zavodi i druge pravne osobe kojih je osnivač Republika Hrvatska, a osobito:
+- broj zemljišnoknjižne čestice nekretnine,
+- broj zemljišnoknjižnog uloška u koji je nekretnina upisana, te broj poduloška ako postoji,
+- naziv katastarske općine gdje se zemljišnoknjižna čestica nalazi,
+- površinu zemljišnoknjižne čestice,
+- kulturu zemljišnoknjižne čestice,
+- vrstu vlasništva na nekretnini - isključivo vlasništvo, suvlasništvo, zajedničko vlasništvo ili vanknjižno vlasništvo, udio u vlasništvu u slučaju suvlasništva ili zajedničkog vlasništva, drugi suvlasnici ili zajednički vlasnici u slučaju suvlasništva ili zajedničkog vlasništva,
+- titulara vlasništva,
+- podatke o teretima na nekretnini,
+- podatke o sudskim sporovima koji se vode vezano za nekretninu,
+- broj posjedovnog lista,
+- broj katastarske čestice iz posjedovnog lista,
+- naziv katastarske općine iz posjedovnog lista,
+- površinu katastarske čestice iz posjedovnog lista,
+- nositelja prava i udio,
+- broj katastarskog plana i katastarski plan za katastarsku česticu,
+- adresu katastarske čestice,
+- prostorno-plansku namjenu nekretnine i prostorni plan,
+- korisnika nekretnine i pravnu osnovu korištenja nekretnine,
+- vrijednost nekretnine,
+- druge podatke.

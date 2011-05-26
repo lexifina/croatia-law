@@ -1,0 +1,2 @@
+# Članak 24.
+Za potrebe vođenja Registra, Agencija će uspostaviti elektroničku vezu s bazom podataka Hrvatskih voda, a ako to nije moguće, odnosno do uspostavljanja takve veze, Hrvatske vode će jednom mjesečno, na odgovarajućem elektroničkom mediju dostavljati Agenciji podatke o vodnom dobru, javnom vodnom dobru i vodnim građevinama čiji je vlasnik, suvlasnik, odnosno zajednički vlasnik Republika Hrvatska, odnosno zavodi i druge pravne osobe kojih je osnivač Republika Hrvatska, iz svoje baze podataka.
