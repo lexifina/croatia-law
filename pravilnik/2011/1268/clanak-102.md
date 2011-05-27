@@ -1,0 +1,9 @@
+# Članak 102.
+(1) Oznaka Ministarstva obrane, oznaka Glavnog stožera Oružanih snaga, oznaka grane Oružanih snaga i zapovjedništva iste razine, oznaka zapovjedništva, postrojbe i ustanove Oružanih snaga i Ministarstva obrane te oznaka cjelina izvan Oružanih snaga u koje su raspoređene djelatne vojne osobe u tekstilnoj se izvedbi nose na nadlaktici desnog rukava jakne ili košulje 130 mm ispod gornjeg ramenog šava u ravnini naramenice.
+(2) Oznake iz stavka 1. ovoga članka izrađuju se i nose u tamnim, prikrivnim nijansama usklađenim s bojama prikrivne vojne odore.
+(3) Oznaku Ministarstva obrane nose djelatne vojne osobe raspoređene na ustrojbena mjesta u Ministarstvu obrane u ustrojstvenim jedinicama koje nemaju svoje posebne oznake.
+(4) Oznaku Glavnog stožera Oružanih snaga, oznake grane Oružanih snaga ili zapovjedništva iste razine nose djelatne vojne osobe raspoređene ili imenovane na ustrojbena mjesta u Glavnom stožeru Oružanih snaga, granama ili zapovjedništvima iste razine u ustrojstvenim jedinicama koje nemaju svoje posebne oznake.
+(5) Oznaku zapovjedništava, postrojbi ili ustanova Oružanih snaga i Ministarstva obrane koja imaju svoje posebne oznake nose vojne osobe raspoređene u te ustrojstvene jedinice.
+(6) Pripadnici gardijskih brigada, osim oznake gardijske brigade, nose i povijesne oznake gardijskih brigada čiji su sljednik. Povijesne oznake se nose 30 mm ispod gornjeg ramenog šava u ravnini naramenice odnosno iznad oznake gardijske brigade.
+(7) Pripadnici specijalnih postrojbi osim oznake postrojbe nose i posebnu oznaku specijalnih postrojbi. Posebna oznaka specijalnih postrojbi nosi se 30 mm ispod gornjeg ramenog šava u ravnini naramenice odnosno iznad oznake postrojbe.
+(8) Oznaku Vojnog kabineta Predsjednika Republike nose vojne osobe imenovane na dužnosti u Vojnom kabinetu Predsjednika Republike.

@@ -1,0 +1,1 @@
+Na temelju članka 37. stavka 2. Zakona o službi u Oružanim snagama Republike Hrvatske (»Narodne novine«, broj 33/02, 58/02, 175/03, 136/04, 76/07, 88/09 i 124/09) i članka 116. stavka 2. Zakona o obrani (»Narodne novine«, broj 33/02, 58/02, 76/07 i 153/09), na prijedlog načelnika Glavnog stožera Oružanih snaga Republike Hrvatske, donosim

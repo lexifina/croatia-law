@@ -1,0 +1,2 @@
+# Članak 4.
+Predsjednik Republike i ministar obrane mogu nositi dijelove vojne odore i na njima isticati značku ili oznaku s propisanim znakom Predsjednika Republike ili ministra obrane u prigodama posjeta zapovjedništvima, postrojbama i ustanovama Oružanih snaga, za vrijeme vojnih vježbi u zemlji, kao i tijekom službenih posjeta pripadnicima Oružanih snaga u mirovnim operacijama i drugim aktivnostima u inozemstvu.

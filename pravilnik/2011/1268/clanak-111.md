@@ -1,0 +1,9 @@
+# Članak 111.
+(1) Oznaka Ministarstva obrane, oznaka Glavnog stožera Oružanih snaga, oznaka grane Oružanih snaga ili zapovjedništva iste razine, oznaka zapovjedništva, postrojbe i ustanove Oružanih snaga i Ministarstva obrane te oznaka cjelina izvan Oružanih snaga u koje su raspoređene djelatne vojne osobe nosi se na nadlaktici desnog rukava jakne ili košulje službene vojne odore 70 mm ispod gornjeg ramenog šava u ravnini naramenice.
+(2) Pripadnici gardijskih brigada osim oznake gardijske brigade nose i povijesne oznake gardijskih brigada čiji su sljednik. Povijesne oznake se nose 20 mm ispod gornjeg ramenog šava u ravnini naramenice odnosno 10 mm iznad oznake gardijske brigade koja se nosi 85 mm ispod gornjeg ramenog šava u ravnini naramenice.
+(3) Pripadnici specijalnih postrojbi osim oznake postrojbe nose i posebnu oznaku specijalnih postrojbi. Posebna oznaka specijalnih postrojbi nosi se 30 mm ispod gornjeg ramenog šava u ravnini naramenice odnosno iznad oznake postrojbe.
+(4) Oznake iz stavaka 1. 2. i 3. ovoga članka izrađuju se od tekstila u više boja.
+(5) Oznaku Ministarstva obrane nose djelatne vojne osobe raspoređene na ustrojbena mjesta u Ministarstvu obrane u ustrojstvenim jedinicama koje nemaju svoje posebne oznake.
+(6) Oznaku Glavnog stožera Oružanih snaga, oznaku grane Oružanih snaga i zapovjedništva iste razine nose djelatne vojne osobe raspoređene ili imenovane na ustrojbena mjesta u Glavnom stožeru Oružanih snaga, granama i zapovjedništvima iste razine u ustrojstvenim jedinicama koje nemaju svoje posebne oznake.
+(7) Oznaku zapovjedništva, postrojbe i ustanove Oružanih snaga i Ministarstva obrane koji imaju svoje posebne oznake nose vojne osobe raspoređene u te ustrojstvene jedinice.
+(8) Oznaku Vojnog kabineta Predsjednika Republike nose vojne osobe imenovane na dužnosti u Vojnom kabinetu Predsjednika Republike.
