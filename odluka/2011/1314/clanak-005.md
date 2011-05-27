@@ -1,0 +1,5 @@
+# Članak 5.
+U Međunarodnom standardu financijskog izvještavanja 7 - Financijski instrumenti: objavljivanje, točka 44B. mijenja se i dodaje točka 44K. koje glase:
+»DATUM STUPANJA NA SNAGU I PRIJELAZNE ODREDBE
+44B. MSFI-jem 3, prerađenim 2008. godine, brisana je točka 3.(c). Subjekt je izmjenu dužan primijeniti na godišnja razdoblja koja započinju na dan ili nakon 1. srpnja 2009. godine. Subjekt koji primijeni MSFI 3 prerađen 2008. godine na neko ranije razdoblje, dužan je na to razdoblje primijeniti i ovu izmjenu. Međutim, izmjene se ne primjenjuju na nepredviđenu naknadu iz poslovnog spajanja kod kojeg datum preuzimanja prethodi datumu primjene MSFI-ja 3 iz 2008. godine, već se takva naknada obračunava sukladno točkama 65A.-65E. MSFI-ja 3 izmijenjenog i dopunjenog 2010. godine.
+44K. Točka 44B. izmijenjena je u sklopu »Dorade MSFI-jeva« iz svibnja 2010. godine. Subjekt je izmjenu dužan primijeniti na godišnja razdoblja koja započinju na dan ili nakon 1. srpnja 2010. godine. Dopuštena je ranija primjena.«.

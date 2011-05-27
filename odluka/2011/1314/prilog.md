@@ -1,0 +1,1 @@
+[1] Izraz »dodijeljena plaćanja temeljena na dionicama« se u točkama B56. - B62. odnosi na one transakcije plaćanja temeljenih na dionicama kod kojih su uvjeti stečeni i kod kojih uvjeti nisu stečeni.

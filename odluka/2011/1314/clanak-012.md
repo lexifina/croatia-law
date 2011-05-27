@@ -1,0 +1,5 @@
+# Članak 12.
+U Međunarodnom računovodstvenom standardu 31 - Udjeli u zajedničkim pothvatima, mijenja se točka 58A. i dodaje točka 58D. koje glase:
+»DATUM STUPANJA NA SNAGU I PRIJELAZNE ODREDBE
+58A. MRS-om 27, s izmjenama i dopunama iz 2008. godine, izmijenjene su točke 45. i 46. te su dodane točke 45A. i 45B. Subjekt je dužan izmjene i dopune točke 46. primijeniti retroaktivno, a izmjene i dopune točke 45. te točku 45A. i 45B. prospektivno na godišnja razdoblja koja započinju na dan ili nakon 1. srpnja 2009. godine. Subjekt koji primijeni MRS 27, izmijenjen i dopunjen 2008. godine, na neko ranije razdoblje, dužan je na to razdoblje primijeniti i ove izmjene i dopune.
+58D. Točka 58A. izmijenjena je u sklopu »Dorade MSFI-jeva« iz svibnja 2010. godine. Subjekt je izmjenu dužan primijeniti na godišnja razdoblja koja započinju na dan ili nakon 1. srpnja 2010. godine. Dopuštena je ranija primjena. Ako subjekt izmjenu i dopunu primijeni prije 1. srpnja 2010. godine, dužan je tu činjenicu objaviti.«.

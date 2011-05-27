@@ -1,0 +1,5 @@
+# Članak 6.
+U Međunarodnom računovodstvenom standardu 32 - Financijski instrumenti: prezentiranje, točka 97B. mijenja se i dodaje točka 97G. koje glase:
+»DATUM STUPANJA NA SNAGU I PRIJELAZNE ODREDBE
+97B. MSFI-jem 3, prerađenim 2008. godine, brisana je točka 4.(c). Subjekt je izmjenu dužan primijeniti na godišnja razdoblja koja započinju na dan ili nakon 1. srpnja 2009. godine. Subjekt koji primijeni IFRS 3 prerađen 2008. godine na neko ranije razdoblje, dužan je na to razdoblje primijeniti i ovu izmjenu. Međutim, izmjene se ne primjenjuju na nepredviđenu naknadu iz poslovnog spajanja kod kojeg datum preuzimanja prethodi datumu primjene MSFI-ja 3 iz 2008. godine, već se takva naknada obračunava sukladno točkama 65A. - 65E. MSFI-ja 3 izmijenjenog i dopunjenog 2010. godine.
+97G. Točka 97B. je izmijenjena u sklopu »Dorade MSFI-jeva« iz svibnja 2010. godine. Subjekt je izmjenu dužan primijeniti na godišnja razdoblja koja započinju na dan ili nakon 1. srpnja 2010. godine. Dopuštena je ranija primjena.«.

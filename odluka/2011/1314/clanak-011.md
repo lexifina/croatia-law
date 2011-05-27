@@ -1,0 +1,5 @@
+# Članak 11.
+U Međunarodnom računovodstvenom standardu 28 - Ulaganje u pridružene subjekte, mijenja se točka 41B. i dodaje točka 41E. koje glase:
+»DATUM STUPANJA NA SNAGU I PRIJELAZNE ODREDBE
+41B. MRS-om 27, s izmjenama i dopunama iz 2008. godine, su izmijenjene točke 18., 19. i 35. te je dodana je točka 19.A. Subjekt je dužan izmjene i dopune točke 35. primijeniti retroaktivno, a izmjene i dopune točaka 18. i 19, te točku 19A. prospektivno na godišnja razdoblja koja započinju na dan ili nakon 1. srpnja 2009. godine. Subjekt koji primijeni MRS 27, izmijenjen i dopunjen 2008. godine, na neko ranije razdoblje, dužan je na to razdoblje primijeniti i ove izmjene i dopune.
+41E. Točka 41B. izmijenjena je u sklopu »Dorade MSFI-jeva« iz svibnja 2010. godine. Subjekt je izmjenu dužan primijeniti na godišnja razdoblja koja započinju na dan ili nakon 1. srpnja 2010. godine. Dopuštena je ranija primjena. Subjekt koji izmjenu primijeni prije 1. srpnja 2010. godine, dužan je tu činjenicu objaviti.«.
