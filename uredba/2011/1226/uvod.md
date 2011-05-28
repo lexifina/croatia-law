@@ -1,0 +1,1 @@
+Na temelju članka 105. stavka 2., a u svezi s člankom 212. stavkom 2. Zakona o prostornom uređenju i gradnji (»Narodne novine«, br. 76/2007 i 38/2009), Vlada Republike Hrvatske je na sjednici održanoj 14. travnja 2011. godine donijela
