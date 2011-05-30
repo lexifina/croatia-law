@@ -1,0 +1,1 @@
+Na temelju članka 18. stavka 3., članka 18.b stavka 3. i članka 34. Zakona o uređenju tržišta poljoprivrednih proizvoda (»Narodne novine« broj 149/09 i 22/11), ministar poljoprivrede, ribarstva i ruralnog razvoja donosi
