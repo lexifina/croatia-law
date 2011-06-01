@@ -1,0 +1,1 @@
+Na temelju članka 120. stavka 2. Zakona o platnom prometu (»Narodne novine«, br. 133/2009.) i članka 42. stavka 3. točke 13. Zakona o Hrvatskoj narodnoj banci (»Narodne novine«, br. 75/2008.) Savjet Hrvatske narodne banke na sjednici održanoj 11. svibnja 2011. donio je

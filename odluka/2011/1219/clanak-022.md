@@ -1,0 +1,6 @@
+## Prijelazne i završne odredbe
+# Članak 22.
+(1) Danom stupanja na snagu ove Odluke prestaje važiti Odluka o Nacionalnom klirinškom sustavu (»Narodne novine«, br. 14/2002., 150/2002. i 18/2009.) i Odluka o određivanju limita na obračunskim računima banaka i štedionica u Nacionalnom klirinškom sustavu (O. br. 138-100/12-00/ŽR od 27. prosinca 2000.), osim članka 14. Odluke o Nacionalnom klirinškom sustavu (»Narodne novine«, br. 14/2002., 150/2002. i 18/2009.) te na osnovi tog članka donesenih Tehničko-tehnoloških uputa za obračun platnih transakcija preko NKS-a i Cjenika usluga Nacionalnog klirinškog sustava, koji prestaju važiti 30. lipnja 2011.
+(2) Danom stupanja na snagu ove Odluke svi sudionici koji sudjeluju u obračunu u NKS-u u skladu s odlukom iz stavka 1. ovoga članka nastavljaju sudjelovati u obračunu u NKS-u kao neposredni sudionici.
+(3) Fina će sudionicima iz stavka 2. ovog članka ponuditi ugovor iz članka 7. stavka 1. ove Odluke i isključiti iz NKS-a sudionike iz stavka 2. ovog članka koji do 31. prosinca 2011. s njom ne sklope ugovor ili je ne obavijeste da su sklopili ugovor iz članka 7. stavka 2. ove Odluke.
+(4) Fina je dužna sastaviti terminski plan iz članka 20. ove Odluke i zatražiti od HNB-a suglasnost za taj plan najkasnije do 10. lipnja 2011.
