@@ -1,0 +1,5 @@
+# Članak 3.
+Ministarstvo poljoprivrede, ribarstava i ruralnog razvoja, Uprava za veterinarske inspekcije osigurava da pošiljke životinjskih crijeva namijenjene prehrani ljudi, unesene na područje Republike Hrvatske, a koje nisu namijenjene uvozu u Republiku Hrvatsku već trećoj zemlji bilo izravnim provozom ili nakon skladištenja, u skladu s člankom 12. stavkom 4. ili člankom 13. Pravilnika o načinu obavljanja veterinarskih pregleda i kontrola proizvoda životinjskog podrijetla u prometu preko granice Republike Hrvatske (»Narodne novine«, broj 132/08 i 153/09)[2], i nisu namijenjene uvozu u Republiku Hrvatsku ispunjavaju sljedeće zahtjeve:
+(a) udovoljavaju posebnim uvjetima zdravlja životinja navedenim u obrascu veterinarskog certifikata iz Dodatka I.A ovoga Pravilnika;
+(b) prati ih veterinarski certifikat izdan u skladu s obrascem propisanim u Dodatku I.B ovoga Pravilnika, potpisan od strane službenog veterinara nadležnih veterinarskih službi treće zemlje izvoznice;
+(c) granični veterinarski inspektor granične veterinarske postaje ulaska potvrđuje na zajedničkom veterinarskom dokumentu o ulasku da odobrava provoz ili skladištenje (po potrebi).
