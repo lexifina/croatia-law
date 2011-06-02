@@ -1,0 +1,3 @@
+# Članak 7.
+(1) Kaznenim djelima ratnog profiterstva smatraju se kaznena djela navedena u članku 2., 3., 4., 5. i 6. ovoga Zakona, ako je njima ostvarena nesrazmjerna imovinska korist podizanjem cijena robe koja je u nestašici, prodajom državne imovine znatno ispod njezine vrijednosti ili na drugi način iskorištavanjem ratnog stanja i neposredne ugroženosti neovisnosti i teritorijalne cjelovitosti države.
+(2) Kaznenim djelima ratnog profiterstva smatraju se i druga kaznena djela iz Osnovnog Krivičnog zakona Republike Hrvatske, Krivičnog zakona Republike Hrvatske i Kaznenog zakona, ako su počinjena pod okolnostima iz stavka 1. ovoga članka.

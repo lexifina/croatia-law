@@ -1,0 +1,20 @@
+# Članak 5.
+Kaznenim djelima iz članka 1. smatraju se sljedeća kaznena djela iz Kaznenog zakona (»Narodne novine«, br. 110/97., 27/98. – ispravak, 50/00. – Odluka Ustavnog suda Republike Hrvatske, 129/00., 51/01., 11/03., 190/03. – Odluka Ustavnog suda Republike Hrvatske, 105/04., 84/05. – ispravak, 71/06., 110/07. i 152/08.), ako su počinjena pod okolnostima navedenim u tom članku:
+1. prijevara iz članka 224.,
+2. prikrivanje protuzakonito dobivenog novca odnosno pranje novca iz članka 279. ako se prikriva korist ostvarena kaznenim djelima iz ovoga Zakona.,
+3. zlouporaba stečaja iz članka 282.,
+4. utaja poreza i drugih davanja iz članka 286.,
+5. nesavjesno gospodarsko poslovanje iz članka 291.,
+6. zlouporaba ovlasti u gospodarskom poslovanju iz članka 292.,
+7. prijevara u gospodarskom poslovanju iz članka 293.,
+8. sklapanje štetnog ugovora iz članka 294.,
+9. nedozvoljena trgovina iz članka 297.,
+10. izbjegavanje carinskog nadzora iz članka 298.,
+11. krivotvorenje isprave iz članka 311.,
+12. krivotvorenje službene isprave iz članka 312.,
+13. zlouporaba položaja i ovlasti iz članka 337.,
+14. nesavjestan rad u službi iz članka 339.,
+15. prijevara u službi iz članka 344.,
+16. pronevjera iz članka 345.,
+17. primanje mita iz članka 347.,
+18. davanje mita iz članka 348.

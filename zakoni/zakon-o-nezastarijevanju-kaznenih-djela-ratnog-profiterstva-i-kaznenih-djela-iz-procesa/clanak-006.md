@@ -1,0 +1,2 @@
+# Članak 6.
+Kaznenim djelima iz članka 1. smatraju se i kaznena djela iz članka 101. do 104. Zakona o izdavanju i prometu vrijednosnim papirima (»Narodne novine«, br. 107/95., 142/98. i 87/00.), iz članka 149. do 154. Zakona o tržištu vrijednosnih papira (»Narodne novine«, br. 84/02. i 138/06.) te iz članka 3. do 6. Zakona o kaznenim djelima protiv tržišta kapitala (»Narodne novine«, br. 152/08.) ako su počinjena pod okolnostima navedenim u članku 1. ovoga Zakona.
