@@ -1,0 +1,2 @@
+# Članak 4.
+Iznimno od odredbe članka 3. stavka 2. ovoga Pravilnika, osiguranicima koji su s Ministarstvom financija - Poreznom upravom sklopili ugovor o nagodbi iz članka 10. Zakona o naplati dospjelih a nenaplaćenih poreza, carina, doprinosa i državnih jamstava (»Narodne novine«, broj 117/2001, 95/2002 i 19/2003), razdoblje osiguranja obuhvaćeno važećim ugovorom o nagodbi računa se kao staž osiguranja tek nakon ispunjenja obveze iz ugovora o nagodbi u cijelosti.

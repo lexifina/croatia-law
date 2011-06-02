@@ -1,0 +1,2 @@
+# Članak 9.
+Na temelju pravomoćnog rješenja Ministarstva financija - Porezne uprave kojim je djelomično ili u cijelosti utvrđen nastup zastare prava na naplatu duga po osnovi kamata na glavnicu duga doprinosa za mirovinsko osiguranje, a ne i glavnice, izračun pokrivenosti staža osiguranja uplatama obavlja se samo kada se pokrene postupak za priznanje prava na mirovinu ili ako na temelju uplate neotpisane glavnice duga doprinosa, na koju se odnose kamate otpisane zbog zastare, osiguranik podnese zahtjev za upis staža osiguranja u radnu knjižicu.

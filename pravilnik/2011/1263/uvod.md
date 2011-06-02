@@ -1,0 +1,1 @@
+Na temelju članka 24. stavka 3. Zakona o mirovinskom osiguranju (»Narodne novine«, broj 102/98, 127/2000, 59/2001, 109/2001, 147/2002, 117/2003, 30/2004, 177/2004, 92/2005, 43/2007, 79/2007, 35/2008, 40/2010, 121/2010 i 130/2010), ministar gospodarstva, rada i poduzetništva, uz prethodnu suglasnost ministra financija, donosi

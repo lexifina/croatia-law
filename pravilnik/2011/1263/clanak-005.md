@@ -1,0 +1,3 @@
+# Članak 5.
+Utvrđivanju staža osiguranja prethodi kontrola pravilnosti primjene zakonskih propisa i drugih podzakonskih akata koji se odnose na uspostavu prijavno-odjavnih podataka i osnovica za obračun doprinosa koje služe za ostvarivanje prava iz mirovinskog osiguranja, te na kontrolu zaduženja i uplata doprinosa.
+Kontrola se obavlja uvidom u prijavno-odjavne podatke, druge podatke i dokumentaciju Zavoda, uvidom u podatke i dokumentaciju Porezne uprave, Središnjeg registra osiguranika, Hrvatskog zavoda za zdravstveno osiguranje i centara za socijalnu skrb, te uvidom u druge evidencije vezane uz status osiguranika.

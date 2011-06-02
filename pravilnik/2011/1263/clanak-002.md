@@ -1,0 +1,3 @@
+# Članak 2.
+Osiguranicima iz članka 1. ovoga pravilnika smatraju se osiguranici iz članka 10. stavka 1. točke 7., članka 11. do 14. i članka 16. i 17. Zakona o mirovinskom osiguranju (»Narodne novine«, broj 102/98, 127/2000, 59/2001, 109/2001, 147/2002, 117/2003, 30/2004, 177/2004., 92/2005, 43/2007, 79/2007, 35/2008, 40/2010, 121/2010 i 130/2010 - u daljnjem tekstu: Zakon).
+Iznimno od stavka 1. ovoga članka bračni drug profesionalnog, odnosno ugovornog diplomata koji je počevši od 1. siječnja 2009. osiguran na produženo osiguranje na temelju okolnosti iz članka 17. stavka 2. točke 7. Zakona te osobe osigurane prema članku 17. stavku 4. Zakona ne smatraju se osiguranicima iz članka 1. ovoga Pravilnika.

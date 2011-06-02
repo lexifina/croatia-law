@@ -1,0 +1,2 @@
+# Članak 12.
+Pri izračunu pokrivenosti staža osiguranja za umrlog osiguranika nakon kojeg je ostalo više nasljednika na koje je prenesen dug po osnovi doprinosa za mirovinsko osiguranje i obveza koje proizlaze iz neuplaćenih doprinosa, u postupku koji prethodi priznanju prava na obiteljsku mirovinu ili otpisu duga doprinosa zbog zastare ili nenaplativosti, podaci o zaduženju i uplatama svih nasljednika se objedinjuju.
