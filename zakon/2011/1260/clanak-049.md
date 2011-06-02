@@ -1,0 +1,34 @@
+# Članak 49.
+Iza članka 502. dodaje se glava tridesetdruga - a »Tužba za zaštitu kolektivnih interesa i prava« i članci 502.a, 502.b, 502.c, 502.d, 502.e, 502.f, 502.g i 502.h koji glase:
+»Glava tridesetdruga - a
+TUŽBA ZA ZAŠTITU KOLEKTIVNIH INTERESA I PRAVA
+Članak 502.a
+Udruge, tijela, ustanove ili druge organizacije koje su osnovane u skladu sa zakonom, koje se u sklopu svoje registrirane ili propisom određene djelatnosti bave zaštitom zakonom utvrđenih kolektivnih interesa i prava građana, mogu, kad je takvo ovlaštenje posebnim zakonom izrijekom predviđeno i uz uvjete predviđene tim zakonom, podnijeti tužbu (tužba za zaštitu kolektivnih interesa i prava) protiv fizičke ili pravne osobe koja obavljanjem određene djelatnosti ili općenito radom, postupanjem, uključujući i propuštanjem, teže povređuje ili ozbiljno ugrožava takve kolektivne interese i prava.
+Interesi iz stavka 1. ovoga članka mogu biti interesi koji se tiču čovjekova okoliša i životne sredine, zatim moralni, etnički, potrošački, antidiskriminacijski i drugi interesi, koji su zakonski zajamčeni i koji moraju biti teže povrijeđeni ili ozbiljno ugroženi djelatnošću, odnosno općenito postupanjem osobe protiv koje se tužba podnosi.
+Ako u ovoj glavi ne postoje posebne odredbe, u parnicama u povodu tužbe iz stavka 1. ovoga članka primjenjivat će se ostale odredbe ovoga Zakona.
+Odredbe ove glave, odnosno ovoga Zakona neće se primjenjivati u slučajevima za koje je posebnim zakonom za postupak u povodu tužbe iz stavka 1. ovoga članka predviđeno nešto drugo.
+Članak 502.b
+Podnositelj tužbe iz članka 502.a stavka 1. ovoga Zakona može, ako posebnim zakonom nije drukčije propisano, zatražiti:
+1. da se utvrdi da su određenim postupanjem, uključujući i propuštanjem tuženika, povrijeđeni ili ugroženi zakonom zaštićeni kolektivni interesi i prava osoba koje je tužitelj ovlašten štititi,
+2. da se zabrani poduzimanje radnji kojima se povređuju ili ugrožavaju interesi ili prava osoba koje je tužitelj ovlašten štititi, uključujući i korištenje određenih ugovornih odredaba ili poslovne prakse,
+3. da se tuženiku naloži poduzimanje radnji radi otklanjanja nastupjelih ili mogućih općih štetnih posljedica nedopuštenih postupanja tuženika, uključujući i uspostavu prijašnjeg stanja ili stanja koje će po mogućnosti najviše odgovarati tom stanju ili stanju u kojemu moguća povreda zaštićenih kolektivnih interesa ili prava ne bi mogla nastupiti,
+4. da se presuda kojom će biti prihvaćen koji od zahtjeva iz prethodnih točaka ovoga stavka objavi na trošak tuženika u medijima.
+Postupanja tuženika iz točke 1. stavka 1. ovoga članka kojima mogu biti povrijeđeni ili ugroženi interesi i prava osoba koje je tužitelj ovlašten štititi mogu biti i donošenje određenih pravila o uvjetima i načinu obavljanja djelatnosti tuženika ili odgovarajuća njegova praksa, izgradnja određenih objekata, propuštanje ugradnje propisanih zaštitnih ili drugih uređaja, imisije itd.
+Članak 502.c
+Fizičke i pravne osobe mogu se u posebnim parnicama za naknadu štete pozvati na pravno utvrđenje iz presude kojom će biti prihvaćeni zahtjevi iz tužbe iz članka 502.a stavka 1. ovoga Zakona da su određenim postupanjem, uključujući i propuštanjem tuženika, povrijeđeni ili ugroženi zakonom zaštićeni kolektivni interesi i prava osoba koje je tužitelj ovlašten štititi. U tom će slučaju sud biti vezan za ta utvrđenja u parnici u kojoj će se ta osoba na njih pozvati.
+Članak 502.d
+U postupku koji je pokrenut određenom tužbom iz članka 502.a stavka 1. ovoga Zakona mogu se kao umješači s položajem jedinstvenog suparničara (članak 209.) na strani tužitelja, ako se on s time suglasi, umiješati i drugi ovlašteni podnositelji takve tužbe. U taj se postupak mogu umiješati kao umješači iz članka 206. ovoga Zakona i fizičke i pravne osobe radi zaštite čijih je kolektivnih interesa tužba iz članka 502.a stavka 1. ovoga Zakona podnesena.
+Članak 502.e
+O tužbi iz članka 502.a stavka 1. ovoga Zakona prema odredbama ove glave u prvom stupnju odlučuje sud opće mjesno nadležan za tuženika ili mjesta na kojem je počinjena radnja kojom se povređuju kolektivni interesi ili prava radi zaštite kojih je ta tužba podnesena, ako posebnim propisom nije drugačije određeno.
+Članak 502.f
+U presudi kojom prihvaća zahtjeve iz tužbe iz članka 502.a stavka 1. ovoga Zakona sud može odlučiti da žalba ne zadržava ovrhu ili odrediti kraći rok od propisanog za ispunjenje činidbi koje su naložene tuženiku.
+Članak 502.g
+Prije pokretanja ili tijekom postupka pokrenutog tužbom iz članka 502.a stavka 1. ovoga Zakona sud može, na prijedlog tužitelja, odrediti privremene mjere predviđene Ovršnim zakonom, ako tužitelj učini vjerojatnim:
+1. da je tuženik postupao na način kojim je povrijedio ili ozbiljno ugrozio kolektivne interese ili prava zaštita kojih se tužbom traži te
+2. da je određivanje mjere potrebno radi otklanjanja opasnosti nastupanja nenadoknadive štete ili sprječavanja nasilja.
+Privremenom mjerom iz stavka 1. ovoga članka može se zatražiti od suda da privremeno utvrdi pravila po kojima će tuženik u obavljanju svoje djelatnosti postupati, u skladu sa zatraženom izmjenom, odnosno dopunom njegovih pravila ili prakse.
+Članak 502.h
+Fizička ili pravna osoba koja obavlja određenu djelatnost u vezi s kojom ovlaštenici na podnošenje tužbe iz članka 502.a stavka 1. ovoga Zakona iznose tvrdnje da se njome povređuju ili ugrožavaju kolektivni interesi ili prava osoba koje je taj podnositelj ovlašten štititi takvom tužbom, ovlaštena je podnijeti tužbu kojom će zatražiti da se utvrdi da određenim postupanjem, uključujući i propuštanjima ne povređuje odnosno da ne ugrožava te kolektivne interese ili prava, odnosno da ih ne povređuje ili ugrožava na nedopušteni način. Tužitelj u toj parnici može zatražiti da se ovlašteniku na podnošenje tužbe iz članka 502.a stavka 1. ovoga Zakona zabrani određeno ponašanje, osobito određeno istupanje u javnosti, naknadu štete te objavu presude, na trošak tuženika, u sredstvima javnog priopćavanja.
+Tužbom iz stavka 1. ovoga članka tužitelj može obuhvatiti kao tuženike i osobe koje su ovlaštene zastupati ovlaštenika za podnošenje tužbe iz članka 502.a stavka 1. ovoga Zakona ili su članovi njegovih tijela, ali i možebitne njegove članove koji u njegovo ime istupaju u javnosti.
+Tužitelj iz stavka 1. ovoga članka može zahtjeve iz stavka 1. i 2. ovoga članka istaknuti i protutužbom u parnici pokrenutoj protiv njega tužbom iz članka 502.a stavka 1. ovoga Zakona.
+Tužitelj iz stavka 1. ovoga članka može zatražiti da se podnositelj tužbe iz članka 502.a stavka 1. ovoga Zakona i osobe koje su ga ovlaštene zastupati osude na naknadu posebne štete visinu koje će sud utvrditi po slobodnoj ocjeni (članak 223.) ako se pokaže da je tužba iz članka 502.a stavka 1. ovoga Zakona bila očito neosnovana i da su vođenjem parnice u povodu te tužbe, a osobito njezinim praćenjem u sredstvima javnog priopćavanja teže povrijeđeni ugled i poslovni interesi toga tužitelja.«.

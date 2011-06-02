@@ -1,0 +1,8 @@
+# Članak 37.
+Iza članka 392.a dodaje se članak 392.b koji glasi:
+»Članak 392.b
+Vijeće sastavljeno od pet sudaca revizijskog suda odbacit će nepotpunu i nedopuštenu reviziju iz članka 382. stavka 2. ovoga Zakona, a i nepravodobnu ako je to propustio učiniti prvostupanjski sud. Takvo rješenje treba biti obrazloženo.
+Vijeće iz stavka 1. ovoga članka će reviziju iz članka 382. stavka 2. ovoga Zakona rješenjem odbaciti kao nedopuštenu i ako u reviziji ne bude određeno naznačeno pravno pitanje zbog kojega se podnosi uz određeno navođenje propisa i drugih važećih izvora prava koji se na njega odnose kao i zato što u njoj nisu određeno izloženi razlozi zbog kojih podnositelj smatra da je to pitanje važno za osiguranje jedinstvene primjene prava i ravnopravnosti svih u njegovoj primjeni.
+Vijeće iz stavka 1. ovoga članka će reviziju iz članka 382. stavka 2. ovoga Zakona odbaciti i ako ocijeni da pravno pitanje zbog kojega je ona izjavljena nije važno za osiguranje jedinstvene primjene prava i ravnopravnosti svih u njegovoj primjeni.
+U obrazloženju rješenja iz stavka 2. i 3. ovoga članka treba se samo pozvati na odredbe stavka 2., odnosno 3. ovoga članka koje predviđaju odbacivanje takve revizije zbog tamo navedenih razloga. Ako ocijeni da bi to bilo svrhovito, vijeće može odlučiti i da se posebno obrazlože razlozi zbog kojih je donijelo takvo rješenje.
+Ako vijeće u slučaju iz stavka 3. ovoga članka nađe da samo neko od više istaknutih pravnih pitanja nije važno za osiguranje jedinstvene primjene prava i ravnopravnosti svih u njegovoj primjeni, revizija će se odbaciti samo glede toga pitanja.«.
