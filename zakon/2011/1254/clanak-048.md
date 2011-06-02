@@ -1,0 +1,3 @@
+# Članak 48.
+(1) Poljoprivredniku i članu njegove obitelji, koji obavlja poljoprivrednu djelatnost kao jedino ili glavno zanimanje, prosječni mjesečni prihod s te osnove utvrđuje se prema rješenju porezne uprave, potvrdi agencije nadležne za plaćanja u poljoprivredi i ruralnom razvoju o isplaćenim potporama sukladno poreznim propisima i na temelju drugih relevantnih podataka.
+(2) Prosječni mjesečni prihod iz stavka 1. ovoga članka ne utvrđuje se poljoprivredniku samcu starijem od 65 godina i obitelji koja obavlja poljoprivrednu djelatnost kao jedino ili glavno zanimanje, a svi članovi obitelji su stariji od 65 godina ili neovisno o dobi ukoliko imaju utvrđen invaliditet.

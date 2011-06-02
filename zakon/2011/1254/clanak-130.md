@@ -1,0 +1,8 @@
+## Zahtjev za ostvarivanje novčanih naknada i drugih pomoći
+# Članak 130.
+(1) Zahtjev za ostvarivanje prava na novčanu naknadu ili drugog oblika materijalne pomoći osoba iz članka 30. ovoga Zakona podnosi Zavodu na propisanom obrascu uz koji se prilaže pisana izjava podnositelja zahtjeva i članova njegova kućanstva o imovini te pisana izjava podnositelja zahtjeva i punoljetnih članova njegova kućanstva o dopuštenju Zavodu da izvrši uvid u sve podatke o njihovoj imovini i dohotku te ostalim ostvarenim prihodima.
+(2) Azilanti i članovi njihove obitelji koji zakonito borave u Republici Hrvatskoj, stranci, stranci pod supsidijarnom zaštitom i žrtve trgovanja ljudima, uz zahtjev prilažu potvrdu nadležnog tijela o svom statusu.
+(3) Iznimno, ako je to u interesu stranke i pridonosi ekonomičnosti postupanja, podnositelj zahtjeva uz propisani obrazac prilaže potvrdu porezne uprave o visini dohotka podnositelja zahtjeva i članova kućanstva kao i izjave podnositelja zahtjeva i članova njegova kućanstva o imovini.
+(4) Pravne osobe koje obavljaju poslove platnog prometa obvezne su, na temelju izjave podnositelja zahtjeva iz stavka 1. ovoga članka, dostaviti Zavodu, na njegov zahtjev, podatke o računima i stanju na računima te imovini podnositelja zahtjeva i članova kućanstva.
+(5) Zavod po službenoj dužnosti provjerava činjenice navedene u obrascu o imovinskom stanju podnositelja zahtjeva i pribavlja potrebne dokaze u postupku.
+(6) Zavodi su obvezni međusobno surađivati i razmjenjivati podatke o obiteljskim prilikama i ostvarenim pravima samca ili članova obitelji, kao i o drugim važnim činjenicama i okolnostima važnim za ostvarivanje prava.

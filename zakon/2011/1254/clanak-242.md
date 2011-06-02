@@ -1,0 +1,12 @@
+## G) UDRUGE, VJERSKE ZAJEDNICE I DRUGE PRAVNE OSOBE KOJE PRUŽAJU USLUGE SOCIJALNE SKRBI
+# Članak 242.
+(1) Vjerska zajednica i udruga čiji je cilj zbrinjavanje socijalno osjetljivih osoba može pružati socijalne usluge bez osnivanja doma pod uvjetima i na način propisan ovim Zakonom.
+(2) Jedinica područne (regionalne) i lokalne samouprave, trgovačko društvo, udruga i druga domaća i strana pravna osoba može pružati usluge terapijske zajednice za ovisnike o opojnim drogama i povremene uzimatelje opojnih droga, bez osnivanja doma, pod uvjetima propisanim ovim Zakonom.
+(3) Jedinica lokalne samouprave, trgovačko društvo, ili druga domaća i strana pravna osoba može pružati usluge smještaja i boravka do 20 korisnika bez osnivanja doma, pod uvjetima propisanim ovim Zakonom.
+(4) Pravne osobe iz stavka 1., 2. i 3. ovoga članka obvezne su zatražiti izdavanje rješenja prije početka rada kojim se, na temelju nalaza povjerenstva, utvrđuje da su ispunjeni uvjeti prostora, opreme, stručnih i drugih radnika, propisani pravilnikom iz članka 218. ovoga Zakona.
+(5) Postupak utvrđivanja ispunjenosti uvjeta za pružanje usluga pravnih osoba iz stavka 1., 2. i 3. ovoga članka, provodi stručno povjerenstvo koje imenuje Ministar, osim za pružanje usluga starijim osobama za koje postupak provodi povjerenstvo jedinice područne (regionalne) samouprave.
+(6) Način rada povjerenstva i postupak utvrđivanja uvjeta za početak rada pravne osobe propisuje ministar pravilnikom iz članka 221. stavka 3. ovoga Zakona.
+(7) Rješenje kojim se utvrđuje da pravne osobe iz stavka 1., 2. i 3. ovoga članka ispunjavaju uvjete iz članka 218. ovoga Zakona donosi Ministarstvo, osim za pružanje usluga starijim osobama za koji rješenje donosi upravni odjel jedinice područne (regionalne) samouprave.
+(8) Nadležno tijelo iz stavka 7. ovoga članka rješenjem utvrđuje prestanak rada pravnoj osobi iz stavka 1., 2. i 3. ovoga članka, koja donese odluku o prestanku rada ili više ne ispunjava Zakonom propisane uvjete za obavljanje djelatnosti socijalne skrbi
+(9) Na pravne osobe koje pružaju usluge u djelatnosti socijalne skrbi primjenjuje se odredba članka 232. ovoga Zakona u slučaju prestanka obavljanja djelatnosti.
+(10) Vođenje evidencije i dokumentacije udruga vjerskih zajednica i drugih pravnih osoba iz stavka 1., 2. i 3. ovoga članka o korisnicima usluga, propisano je pravilnikom iz članka 231. stavka 2. ovoga Zakona.

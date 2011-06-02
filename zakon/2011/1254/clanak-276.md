@@ -1,0 +1,5 @@
+## Obrada podataka
+# Članak 276.
+(1) Ministarstvo i Zavodi mogu osobne podatke o kojima vode zbirke podataka i podatke koje dobivaju od drugih voditelja zbirki osobnih podataka iz prethodnog članka obrađivati samo za potrebe postupka odlučivanja, obavljanja djelatnosti i vođenja evidencija prema ovom zakonu, a Ministarstvo i za obavljanje centralnih isplata, izvršavanje nadzora, praćenje stanja, analize te u znanstvenoistraživačke i statističke namjere.
+(2) Ministarstvo kao voditelj centralne zbirke podataka o novčanim naknadama može podatke iz te zbirke usporediti s podacima iz zbirki voditelja iz članka 275. ovoga Zakona i dostaviti ih nadležnom Zavodu, koji po službenoj dužnosti u skladu s ovim Zakonom pokreće postupak preispitivanja prava.
+(3) Druge pravne i fizičke osobe koje obavljaju djelatnost socijalne skrbi prema ovom Zakonu osobne podatke o kojima vode zbirke osobnih podataka obrađuju za obavljanje djelatnosti za koje su ovlaštenim zakonom i aktom o osnivanju, odnosno za koju im je dodijeljena koncesija, odnosno izdano odobrenje za rad.

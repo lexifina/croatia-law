@@ -1,0 +1,27 @@
+# Članak 2.
+U smislu ovoga Zakona pojedini izrazi imaju sljedeća značenja:
+1. Korisnik je samac ili obitelj koji u sustavu socijalne skrbi ostvaruje prava na novčane naknade, potpore i druge oblike pomoći te socijalne usluge, propisane ovim Zakonom.
+2. Samac je osoba koja nije u bračnoj ili izvanbračnoj zajednici odnosno nema užu obitelj i živi sama.
+3. Obitelj je zajednica koju čine bračni drugovi, izvanbračni drugovi, djeca i srodnici, koji zajedno žive.
+Obitelj čine i sljedeće osobe:
+- punoljetna djeca osobe koja koristi pravo na pomoć za uzdržavanje dok ih je ta osoba dužna uzdržavati u skladu s propisima koji reguliraju obiteljske odnose,
+- pastorci osobe koja koristi pravo na pomoć za uzdržavanje dok ta osoba ima s jednim od roditelja pastorka, koji je dužan uzdržavati svoje dijete, sklopljenu bračnu zajednicu ili živi u izvanbračnoj zajednici,
+- maloljetni unuci, nećaci i braća, odnosno sestre osobe koja koristi pravo na pomoć za uzdržavanje, ako ta osoba uzdržava svoje maloljetne unuke, nećake ili braću, odnosno sestre koji su bez roditelja.
+4. Jednoroditeljska obitelj je obitelj koju čine dijete/djeca i jedan roditelj.
+5. Kućanstvo je svaka obiteljska ili druga zajednica osoba bez obzira na srodstvo koje zajedno stanuju i zajedno podmiruju troškove života.
+6. Dijete je osoba do navršenih osamnaest godina života. Odredbe ovoga Zakona koje se odnose na dijete primjenjuju se i na osobu nad kojom roditelji ostvaruju roditeljsku skrb nakon punoljetnosti po propisima o obiteljskim odnosima.
+7. Mlađa punoljetna osoba je osoba koja je navršila osamnaest, a nije navršila dvadeset i jednu godinu života.
+8. Starija osoba je osoba u dobi od 65 i više godina.
+9. Osoba s invaliditetom je osoba koja ima dugotrajna tjelesna, mentalna, intelektualna ili osjetilna oštećenja, koja u međudjelovanju s različitim preprekama mogu sprječavati njezino puno i učinkovito sudjelovanje u društvu na ravnopravnoj osnovi s osobama bez invaliditeta.
+10. Dijete s teškoćama u razvoju je dijete koje zbog tjelesnih, senzoričkih, komunikacijskih ili intelektualnih teškoća treba dodatnu potporu za učenje i razvoj kako bi ostvarilo najbolji mogući razvojni ishod i socijalnu uključenost.
+11. Beskućnik je osoba koja nema mjesto stanovanja niti sredstava kojima bi mogla namiriti potrebu stanovanja te je privremeno smještena u prihvatilištu, ili boravi na javnim ili drugim mjestima koja nisu namijenjena za stanovanje.
+12. Osnovne životne potrebe su prehrana, smještaj, odjeća i druge stvari za osobne potrebe, osobna njega, kućanske potrepštine, grijanje i zdravstvene potrebe, a obuhvaćaju i sudjelovanje u životu zajednice. Kod djece i mladeži osnovne životne potrebe obuhvaćaju i potrebe koje prvenstveno proizlaze iz njihovog razvoja i odrastanja te odgoja i obrazovanja. Kod djece s teškoćama u razvoju i odraslih osoba s invaliditetom osim osnovnih životnih potreba postoje dodatne potrebe koje proizlaze iz njihovog oštećenja zdravlja/invaliditeta za aktivno uključivanje u svakodnevni život zajednice.
+13. Zadovoljavajući stambeni prostor je stan ili kuća veličine 35 m² korisne površine za jednu osobu, a za osobe s invaliditetom 20% veći (42 m2), uvećane za 10 m2 za svaku daljnju osobu, s mogućim odstupanjem do 10 m², koji služi samcu, obitelji ili članovima kućanstva za podmirenje osnovnih stambenih potreba.
+14. Prihodima se smatraju ukupni primici, ukupni dohodak i sva materijalna sredstva koja samac ili obitelj, odnosno članovi kućanstva ostvare po osnovi rada, mirovine, prihoda od imovine, naknada ili primitaka prema drugim propisima, sredstvima obveznika uzdržavanja ili prihodima ostvarenim na drugi način. Iz prihoda po ovom Zakonu izuzimaju se sredstva obveznog mirovinskog osiguranja za starost na temelju individualne kapitalizirane štednje (drugi stup).
+15. Ukupni dohodak je ukupni iznos dohotka samca, članova obitelji ili članova kućanstva, ostvaren u tuzemstvu i u inozemstvu, sukladno propisima o oporezivanju dohotka, umanjen za iznos uplaćenog poreza i prireza.
+16. Imovina samca, obitelji ili članova kućanstva su sve pokretnine, nekretnine, imovinska prava, iznos gotovine u domaćoj i stranoj valuti, štednja odnosno novčana sredstva na osobnim računima ili štednim knjižicama, vrijednosni papiri, udjeli u kapitalu i ostala imovina u tuzemstvu i u inozemstvu samca, odnosno punoljetnih članova obitelji/kućanstva. Imovinsko stanje samca, obitelji ili članova kućanstva čine njihovi prihodi, ukupni dohodak i imovina.
+17. Uputnica je javna isprava kojom se korisnik na temelju rješenja zavoda za socijalnu skrb u županiji upućuje na korištenje socijalne usluge, određuje pružatelj i opseg usluge te ujedno predstavlja osnovu za obračun troškova pružene usluge. Uputnicom se korisnik upućuje i od strane nadležne službe za socijalnu skrb u jedinici lokalne i područne/regionalne samouprave na korištenje jednokratne pomoći u novcu ili u naravi i prehrane u pučkoj kuhinji te ujedno predstavlja osnovu za obračun troškova pružene novčane ili druge pomoći.
+18. Individualni plan je plan promjena životne situacije ili/i ponašanja korisnika utvrđen na temelju sveobuhvatne procjene potreba, poteškoća i resursa, u dogovoru s korisnikom, usmjeren prema odabranim ciljevima, a u svrhu prevladavanja nepovoljnih životnih okolnosti te se provodi, prati i preispituje zajedno s korisnikom, članovima njegove obitelji, pružateljima usluga te drugim osobama važnim za korisnika.
+Glava II.
+SOCIJALNA SKRB
+1. Pojam socijalne skrbi

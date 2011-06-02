@@ -1,0 +1,4 @@
+## Izuzeci i smanjeni iznos invalidnine
+# Članak 79.
+(1) Ako roditelji korisnika osobne invalidnine koriste: rodiljni ili roditeljski dopust, rad s polovicom punoga radnog vremena, rad u skraćenom radnom vremenu zbog pojačane njege djeteta, dopust ili rad u skraćenom radnom vremenu radi skrbi i njege djeteta s težim smetnjama u razvoju ili mirovanje radnog odnosa do treće godine života djeteta po posebnim propisima, a dijete dnevno boravi dulje od 4 sata u predškolskoj, školskoj ili zdravstvenoj ustanovi, domu socijalne skrbi ili kod drugog pružatelja usluga boravka, osobna se invalidnina isplaćuje u iznosu od 125% osnovice iz članka 40. stavka 1. ovoga Zakona.
+(2) Ako dijete ili odrasla osoba iz članka 76. ovoga Zakona koristi pravo na stalni ili tjedni smještaj, ne može ostvariti pravo na osobnu invalidninu dok to pravo ostvaruje.

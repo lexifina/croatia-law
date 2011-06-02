@@ -1,0 +1,3 @@
+# Članak 3.
+Socijalna skrb je djelatnost od interesa za Republiku Hrvatsku koja se obavlja kao javna služba a kojom se osiguravaju i ostvaruju mjere i programi namijenjeni socijalno ugroženim osobama, kao i osobama s nepovoljnim osobnim ili obiteljskih okolnostima, koji uključuju prevenciju, promicanje promjena, pomoć u zadovoljavanju osnovnih životnih potreba i podršku pojedincu, obitelji i skupinama, s ciljem unaprjeđenja kvalitete života i osnaživanja korisnika u samostalnom zadovoljavanju osnovnih životnih potreba te njihovog aktivnog uključivanja u društvo.
+2. Osiguravanje obavljanja djelatnosti socijalne skrbi

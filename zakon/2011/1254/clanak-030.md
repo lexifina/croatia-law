@@ -1,0 +1,15 @@
+# Članak 30.
+(1) Svaka osoba i/ili obitelj kojoj je potrebna stručna i novčana pomoć u otklanjanju nepovoljnih osobnih ili obiteljskih okolnosti zbog kojih bez potpore socijalne skrbi nisu u mogućnosti zadovoljiti svoje osnovne životne potrebe, održati kvalitetu života i/ili štititi svoja prava i interese ima pravo na socijalnu skrb u skladu s uvjetima propisanim ovim Zakonom
+(2) Korisnik socijalne skrbi može biti:
+1. samac ili članovi obitelji/obitelj koji nemaju dovoljno sredstava za podmirenje osnovnih životnih potreba, a nisu ih u mogućnosti ostvariti svojim radom, prihodima od imovine, od obveznika uzdržavanja ili na drugi način,
+2. dijete i mlađa punoljetna osoba koja je bez roditelja ili bez odgovarajuće roditeljske skrbi ili je žrtva obiteljskog, vršnjačkog ili drugog nasilja, žrtva trgovanja ljudima, dijete s teškoćama u razvoju, dijete i mlađa punoljetna osoba s problemima u ponašanju (s rizikom za poremećaje ili s poremećajima u ponašanju i problemima socijalne integracije), dijete bez pratnje koje se zatekne izvan mjesta svog prebivališta bez nadzora roditelja ili druge odrasle osobe koja je odgovorna skrbiti o njemu te dijete strani državljanin koje se zatekne na teritoriju Republike Hrvatske bez nadzora roditelja ili druge odrasle osobe koja je odgovorna skrbiti o njemu,
+3. trudnica ili roditelj s djetetom do godine dana života bez obiteljske potpore i odgovarajućih uvjeta za život,
+4. obitelj kojoj je zbog poremećenih odnosa ili drugih nepovoljnih okolnosti potrebna stručna pomoć ili druga potpora, te osobe koje su bile u bračnoj ili izvanbračnoj zajednici i imaju zajedničku djecu,
+5. odrasla osoba s invaliditetom ili osoba s drugim privremenim ili trajnim promjenama u zdravstvenom stanju zbog kojih nije u mogućnosti udovoljiti osnovnim životnim potrebama, žrtva obiteljskog ili drugog nasilja te žrtva trgovanja ljudima,
+6. osoba koja zbog starosti ili nemoći ne može samostalno skrbiti o svojim osnovnim životnim potrebama,
+7. osoba ovisna o alkoholu i opojnim drogama, kockanju i drugim oblicima ovisnosti, osoba društveno neprihvatljivog ponašanja, osoba koja se nalazi na izdržavanju kazne zatvora ili je otpuštena s izdržavanja te kazne,
+8. beskućnik, te druge osobe koje ispunjavaju uvjete propisane ovim Zakonom.
+(3) Pravo na socijalnu skrb imaju hrvatski državljani koji imaju prebivalište ili boravište u Republici Hrvatskoj te stranci i osobe bez državljanstva sa stalnim boravkom u Republici Hrvatskoj.
+(4) Stranci i osobe bez državljanstva s privremenim boravkom u Republici Hrvatskoj, stranci pod supsidijarnom zaštitom, stranci s utvrđenim statusom žrtve trgovanja ljudima, azilanti i članovi njihove obitelji koji zakonito borave u Republici Hrvatskoj, imaju pravo na socijalnu skrb u slučajevima i pod uvjetima propisanim ovim i posebnim zakonom.
+(5) Osobe iz stavka 4. ovoga članka mogu ostvariti prava na socijalnu skrb samo po jednoj osnovi, osim ako međunarodnim ugovorom nije drukčije uređeno.
+2. Prava korisnika pri ostvarivanju i korištenju socijalne skrbi

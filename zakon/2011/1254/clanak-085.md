@@ -1,0 +1,3 @@
+# Članak 85.
+(1) Pravo na doplatak za pomoć i njegu nema dijete čiji roditelj koristi rodiljni ili roditeljski dopust ili mirovanje radnog odnosa do treće godine života djeteta po posebnim propisima.
+(2) Dijete čiji je roditelj ostvario pravo na rad s polovicom punoga radnog vremena, rad u skraćenom radnom vremenu zbog pojačane njege djeteta, dopust ili rad u skraćenom radnom vremenu radi skrbi i njege djeteta s težim smetnjama u razvoju po posebnim propisima, može ostvariti pravo na doplatak za pomoć i njegu u smanjenom iznosu, za ostvarivanje prava na doplatak za pomoć i njegu ako ispunjava uvjete propisane ovim Zakonom.

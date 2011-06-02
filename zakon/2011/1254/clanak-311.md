@@ -1,0 +1,7 @@
+# Članak 311.
+(1) Korisnik prava na naknadu do zaposlenja prema propisima iz područja socijalne skrbi, koji je ovo pravo ostvario do dana stupanja na snagu ovoga Zakona, zadržava to pravo.
+(2) O zahtjevima za ostvarivanje prava na naknadu do zaposlenja, koji nisu pravomoćno okončani do dana stupanja na snagu ovoga Zakona, rješavat će nadležni centar za socijalnu skrb prema propisima koji su bili na snazi do dana stupanja na snagu ovoga Zakona, do dana stupanja na snagu posebnog zakona iz područja zapošljavanja osoba s invaliditetom.
+(3) Zahtjev za ostvarivanje prava na naknadu do zaposlenja nakon stupanja na snagu ovoga Zakona podnosi se neposredno Fondu za profesionalnu rehabilitaciju i zapošljavanje osoba s invaliditetom.
+(4) Zahtjev iz stavka 3. ovoga članka može se podnijeti i putem nadležne područne službe Hrvatskog zavoda za zapošljavanje do donošenja posebnog propisa iz područja zapošljavanja osoba s invaliditetom.
+(5) Fond za profesionalnu rehabilitaciju i zapošljavanje osoba s invaliditetom dužan je u roku od 90 dana od dana stupanja na snagu ovoga Zakona preuzeti, a nadležni centri za socijalnu skrb obvezni su predati pripadne predmete i dokumentaciju korisnika prava na naknadu do zaposlenja.
+(6) Sadržaj dokumentacije iz stavka 4. ovoga članka Fond za profesionalnu rehabilitaciju i zapošljavanje osoba s invaliditetom i nadležni centar za socijalnu skrb utvrđuju sporazumno.

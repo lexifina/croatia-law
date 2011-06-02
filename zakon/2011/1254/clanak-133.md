@@ -1,0 +1,7 @@
+## Vještačenje
+# Članak 133.
+(1) Ako je u ispitnom postupku ostvarivanja prava iz socijalne skrbi ili drugih prava po posebnim propisima potrebno utvrditi postojanje činjenica za koje je potrebno provesti vještačenje, Zavod ili drugo nadležno tijelo će zatražiti nalaz i mišljenje tijela vještačenja u prvom stupnju.
+(2) Ako se žalbom pobija prvostupanjsko rješenje o ostvarivanju prava iz socijalne skrbi odnosno drugih prava po posebnim propisima u svezi s nalazom i mišljenjem tijela vještačenja u prvom stupnju, Ministarstvo odnosno drugo nadležno tijelo drugog stupnja po posebnim propisima pribavit će prije donošenja rješenja o žalbi nalaz i mišljenje tijela vještačenja u drugom stupnju, osim u slučaju kada ocijeni da izvođenje tog dokaza nije potrebno da bi se nesporno utvrdilo činjenično stanje.
+(3) Ako su postojanje činjenica iz stavka 1. ovoga članka prethodno utvrdila tijela vještačenja zdravstva, mirovinskog i invalidskog osiguranja, obrazovanja, odnosno druga nadležna tijela vještačenja prema posebnim propisima, postupak će se provesti na temelju nalaza i mišljenja tih tijela.
+(4) Tijela vještačenja iz stavka 1. i 2. ovoga članka odlukom osniva ministar.
+(5) Sastav i način rada tijela vještačenja iz stavka 1. ovoga članka, sadržaj potrebne medicinske dokumentacije, sadržaj nalaza i mišljenja i obrasce za postupanje tijela vještačenja propisuje pravilnikom ministar uz suglasnost ministra nadležnog za zdravstvo.

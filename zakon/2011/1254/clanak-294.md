@@ -1,0 +1,27 @@
+## Mjere inspektora
+# Članak 294.
+U slučajevima iz članka 293. ovoga Zakona, inspektor može odrediti prvenstveno sljedeće mjere:
+- donošenje, odnosno usklađivanje općih akata s odredbama osnivačkog akta i s drugim propisima,
+- donošenje, odnosno usklađivanje rješenja ili uputnice Zavoda i drugih pojedinačnih akata s propisima,
+- donošenje, rješenje ili poduzeti mjeru nužnu za izvršenje zakona ili drugog propisa ili zaštite korisnika, ako je to nadležni Zavod propustio učiniti u roku,
+- obustava od izvršenja statuta ili drugog općeg akta Zavoda,
+- izmjenu ili dopunu unutarnjeg ustroja pravne osobe,
+- određivanje stručnih kriterija na temelju kojih se obavlja izbor primjerene metode rada,
+- redovito pismeno izvještavanje o radu o pojedinim stručnim postupcima,
+- interno ili verificirano dodatno educiranje i osposobljavanje zaposlenih radnika,
+- usvajanje posebnog programa aktivnosti za podizanje kvalitete obavljanja usluga,
+- provođenje unutarnjeg nadzora nad obavljanjem usluge ili nad vođenjem postupka,
+- ponavljanje provjere poznavanja Zakona o općem upravnom postupku i Uredbe o uredskom poslovanju,
+- ponovno polaganje pojedinih dijelova stručnog ispita,
+- pismenu ispriku pogođenom korisniku ili njegovom zakonitom zastupniku,
+- provođenje postupka za ocjenu radne sposobnosti radnika,
+- provođenje postupka za oduzimanje položaja stručnom radniku ili stručnom suradniku, dobivenog u skladu s ovim Zakonom,
+- obvezu uključivanja supervizora ili provođenja supervizije,
+- predložiti nadležnoj komori provođenje postupka u cilju utvrđenja potrebe dodatnoga stručnog usavršavanja stručnog radnika, odnosno potrebu ponavljanja provjere stručne osposobljenosti stručnog radnika,
+- predložiti ravnatelju provođenje postupka utvrđivanja odgovornosti radnika,
+- predložiti ravnatelju provođenje postupka utvrđivanja odgovornosti predstojnika podružnice i voditelja ureda te drugih ustrojbenih jedinica,
+- predložiti upravnom vijeću odnosno osnivaču provođenje postupka utvrđivanja odgovornosti ravnatelja, kao i predložiti postupak njegovog razrješenja,
+- nadležnom tijelu predložiti pokretanje postupka za oduzimanje dozvole za rad ili raskid koncesijskog ugovora,
+- privremeno zabraniti obavljanje djelatnosti nositelju djelatnosti dok se ne uklone nepravilnosti,
+- podnijeti prijavu nadležnom tijelu za utvrđivanje kaznene ili prekršajne odgovornosti radnika, ravnatelja ili predstojnika podružnice Zavoda, te druge odgovorne osobe u pravnoj osobi ili fizičke osobe iz članka 244. ovoga Zakona,
+te poduzimanje drugih mjera za koje je ovlašten ovim Zakonom i drugim propisom.

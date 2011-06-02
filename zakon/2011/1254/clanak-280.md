@@ -1,0 +1,3 @@
+# Članak 280.
+(1) Inspekcijski i upravni nadzor nad primjenom i izvršavanjem zakona i drugih propisa, općih i pojedinačnih akata u djelatnosti socijalne skrbi te stručni nadzor nad radom Zavoda, koncesionara i drugih pravnih i fizičkih osoba koje obavljaju djelatnost i pružaju usluge socijalne skrbi u mreži i izvan mreže javne socijalne službe, organizira i provodi socijalna inspekcija u sastavu Ministarstva (u daljnjem tekstu: socijalna inspekcija).
+(2) Na inspekcijski i stručni nadzor iz članka 278. stavka 3. i 4. ovoga Zakona, na odgovarajući način se primjenjuju odredbe članka 288., 289., 290., 291., 293, 294., 296., 297., 298., 299. i 300. ovoga Zakona.

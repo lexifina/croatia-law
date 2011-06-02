@@ -1,0 +1,6 @@
+## Izuzeci
+# Članak 266.
+(1) Na stručnog radnika koji u vrijeme zasnivanja radnog odnosa u sustavu socijalne skrbi ima u odgovarajućoj struci radni staž dulji od vremena određenog za pripravnički staž ne primjenjuju se odredbe ovoga Zakona koje se odnose na pripravnički staž, ali mora u roku godine dana od prijema u radni odnos položiti stručni ispit.
+(2) Stručni radnik koji je položio stručni ispit u odgovarajućoj stručnoj spremi u drugoj djelatnosti, primit će se na rad u ustanovu socijalne skrbi ili kod drugog pružatelja usluga socijalne skrbi bez obveze polaganja stručnog ispita.
+(3) Medicinske sestre/tehničari, fizioterapeuti i radni terapeuti nakon provedene pripravničke prakse u domovima socijalne skrbi i zdravstvenim ustanovama u skladu s propisima iz područja zdravstva, polažu stručni ispit pred ispitnim povjerenstvom ministarstva nadležnog za zdravstvo.
+(4) Nije obvezan polagati stručni ispit stručni radnik koji ima znanstveni stupanj magistra ili doktora znanosti iz područja društvenih, odgojnih i medicinskih znanosti u onim poljima, odnosno granama koje imaju dodirne točke sa socijalnom djelatnošću, ili položen pravosudni ispit ili državni stručni ispit u skladu s propisima o državnim službenicima.

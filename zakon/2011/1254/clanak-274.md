@@ -1,0 +1,3 @@
+## Podaci o korisniku
+# Članak 274.
+Zbirke podataka o novčanim naknadama i socijalnim uslugama sadrže sljedeće podatke o korisniku: ime i prezime, podatke o rođenju, spol, OIB, državljanstvo, podatke o dozvoli boravka za stranca, podatke o prebivalištu, podatke koji se odnose na obiteljske odnose (broj članova obitelji, tip obitelji, odnos prema podnositelju), podatke o kućanstvu, o statusu (podatke o školovanju, zaposlenjima, umirovljenju i slično), o naobrazbi, o zdravstvenom stanju i invalidnosti, podatke o plaćama i drugim dohocima i primanjima, podatke o imovini, podatke o socijalnim problemima i poteškoćama pojedinaca, obitelji i skupina stanovništva i podatke o oslobađanju od plaćanja usluga.

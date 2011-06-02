@@ -1,0 +1,5 @@
+## Privremena nesposobnost i odmor njegovatelja
+# Članak 89.
+(1) Roditelj njegovatelj ostvaruje naknadu i za vrijeme svoje privremene nesposobnosti za pružanje njege zbog bolesti kao i tijekom odmora, kada ne obavlja poslove njegovatelja, a dijete je povjereno na temelju uputnice na kratkotrajnu njegu i skrb drugoj fizičkoj ili pravnoj osobi u kući, ili je upućeno na vikend-smještaj ili na povremeni smještaj tijekom godišnjeg odmora roditelja/obiteljskog njegovatelja po odredbama ovoga Zakona te ako je dijete na bolničkom liječenju najduže 2 mjeseca.
+(2) Roditelj njegovatelj može koristiti odmor u trajanju do 4 tjedna tijekom godine.
+(3) Pravo na status roditelja njegovatelja prestaje roditelju/članu obitelji na njegov zahtjev, ako više nije u mogućnosti pružati potrebnu njegu djetetu zbog svojeg psihofizičkoga stanja, ako zbog neopravdanih razloga ne obavlja poslove njegovatelja, ako se nalazi u pritvoru odnosno istražnom zatvoru ili na izdržavanju kazne zatvora u trajanju većem od 2 mjeseca te smrću djeteta, roditelja ili njegovatelja.

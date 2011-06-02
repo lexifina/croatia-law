@@ -1,0 +1,2 @@
+# Članak 310.
+Korisniku novčanih naknada, usluga i oblika socijalne skrbi koji nisu obuhvaćeni člankom 309. i 311. ovoga Zakona, a ostvaruje ih na osnovi i pod uvjetima propisanim Zakonom o socijalnoj skrbi (»Narodne novine«, br. 73/97., 27/01., 59/01., 82/01., 103/03., 44/06. i 79/07.), osiguravaju se ta prava i oblici i nakon stupanja na snagu ovoga Zakona, dok im mjesno nadležno tijelo prvog stupnja ne utvrdi ispunjava li korisnik uvjete za neko od prava utvrđenih ovim zakonom, a najkasnije u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.
