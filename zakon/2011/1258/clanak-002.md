@@ -1,0 +1,8 @@
+# Članak 2.
+U članku 152. iza stavka 1. dodaju se stavci 2., 3. i 4. koji glase:
+»(2) Član Vijeća izuzet je od obavljanja dužnosti člana Vijeća u postupku imenovanja i razrješenja zamjenika državnih odvjetnika, imenovanja i razrješenja županijskih i općinskih državnih odvjetnika, premještaja zamjenika državnih odvjetnika, vođenju postupka i odlučivanju o stegovnoj odgovornosti zamjenika državnih odvjetnika i državnih odvjetnika, odlučivanja o prigovoru na ocjenu, provođenja postupka upisa kandidata u Državnu školu za pravosudne dužnosnike i postupka polaganja završnog ispita, odlučivanja o prigovoru na završnu ocjenu kandidata u Državnoj školi za pravosudne dužnosnike, nadzora nad ispravnosti prijavljenih podataka u imovinskim karticama državnih odvjetnika i zamjenika državnih odvjetnika ako mu je kandidat ili državni odvjetnik ili zamjenik državnog odvjetnika odnosno jedan od kandidata ili državnih odvjetnika ili zamjenika državnih odvjetnika:
+1) bračni ili izvanbračni drug ili srodnik po tazbini do drugog stupnja, bez obzira na to je li bračni ili izvanbračni odnos prestao ili nije,
+2) srodnik u uspravnoj liniji do bilo kojeg stupnja, a u pobočnoj liniji do četvrtog stupnja,
+3) u odnosu skrbnika, štićenika, posvojitelja, posvojenika, hranitelja, hranjenika, smještene osobe ili udomitelja.
+(3) Član Vijeća, čim sazna da postoji koji od razloga za izuzeće iz stavka 1. ovoga članka, dužan je odmah prekinuti obavljanje svih radnji u postupku i o tome obavijestiti Vijeće.
+(4) Ako član Vijeća, izvan slučajeva iz stavka 2. ovoga članka, zna za okolnosti koje izazivaju sumnju u njegovu nepristranost u postupcima iz stavka 1. ovoga članka, dužan je o tome odmah obavijestiti Vijeće koje će donijeti odgovarajuću odluku.«.
