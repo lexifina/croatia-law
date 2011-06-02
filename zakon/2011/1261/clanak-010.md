@@ -1,0 +1,2 @@
+# Članak 10.
+Zahtjeve za stambeno zbrinjavanje podnesene prije stupanja na snagu ovoga Zakona o kojima nije odlučeno, podnositelji zahtjeva dužni su dopuniti odgovarajućim dokazima prema članku 12. Zakona o područjima posebne državne skrbi (»Narodne novine«, br. 86/08.) najkasnije u roku od godinu dana od dana stupanja na snagu ovoga Zakona. U suprotnom će Ministarstvo donijeti rješenje kojim će zahtjev odbiti.
