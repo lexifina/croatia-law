@@ -1,0 +1,8 @@
+# Članak 2.
+U članku 2. točka 1. mijenja se i glasi:
+»1. Ulaganje, odnosno početno ulaganje: ulaganje u dugotrajnu imovinu unesenu u vlasništvo nositelja poticajnih mjera, u minimalnom iznosu od 300.000 EUR obračunato u HRK, a odnosi se na osnivanje novoga poduzetnika, proširenje postojećeg poduzetnika, ili pokretanje aktivnosti koja obilježava temeljitu promjenu u proizvodu ili proizvodnom procesu postojećega poduzetnika (kroz racionalizaciju, diverzifikaciju ili modernizaciju). Za ulaganja iz članka 11. ovog Zakona, minimalni iznos ulaganja u dugotrajnu imovinu unesenu u vlasništvo nositelja poticajnih mjera iznosi 100.000 EUR obračunato u HRK.
+Zamjensko ulaganje je isključeno iz pojma određenog stavkom 1. ove točke, te se ne uračunava u iznos početnog ulaganja. Regionalne državne potpore, u skladu s ovim Zakonom, ne mogu se dodijeliti poduzetnicima u teškoćama, kao i poduzetnicima u industriji čelika i industriji sintetičkih vlakana.«.
+Točka 3. mijenja se i glasi:
+»3. Nositelj poticajnih mjera: fizička osoba (obrtnik) koja je obveznik poreza na dobit i trgovačko društvo registrirano na području Republike Hrvatske koje koristi poticajne mjere, odnosno kojem se odobravaju potpore za početna ulaganja. Fizička osoba (obrtnik) koja je obveznik poreza na dobit, odnosno trgovačko društvo koje namjerava koristiti potporu za početno ulaganje, zahtjev za dodjelu poticajnih mjera podnosi Ministarstvu gospodarstva, rada i poduzetništva prije početka projekta ulaganja.«.
+U točki 5. podtočki B. podstavak 3. mijenja se i glasi:
+»- mora biti kupljena od trećih strana po tržišnim uvjetima, isključujući povezana trgovačka društva,«.
