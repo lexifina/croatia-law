@@ -1,0 +1,2 @@
+# Članak 2.
+Restrukturiranje iz članka 1. ovoga Zakona provodi se sukladno Zakonu o državnim potporama (»Narodne novine«, br. 140/05. i 49/11.) i međunarodno preuzetim obvezama Republike Hrvatske koje proizlaze iz Sporazuma o stabilizaciji i pridruživanju sklopljenim između Republike Hrvatske i Europskih zajednica i njihovih država članica (»Narodne novine« – Međunarodni ugovori, br. 14/01., 14/02., 1/05. i 7/05.).
