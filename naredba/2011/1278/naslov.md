@@ -1,0 +1,1 @@
+Naredba o izmjeni Naredbe o vrsti, obliku i načinu postavljanja državnih ovjernih oznaka koje se rabe kod ovjeravanja zakonitih mjerila, oznake za označivanje mjerila, oznaka koje rabe ovlašteni servisi te ovjernih isprava
