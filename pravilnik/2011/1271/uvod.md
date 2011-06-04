@@ -1,0 +1,1 @@
+Na temelju članka 6. stavka 3., članka 21. stavka 2., članka 28. stavak 3., i članka 47. stavka 2. Zakona o zaštiti biljnih sorti (»Narodne novine« broj 131/97, 62/00 i 67/08), ministar poljoprivrede, ribarstva i ruralnog razvoja donosi
