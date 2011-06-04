@@ -1,0 +1,1 @@
+[1](*) Pravilnik preuzima sadržaj Direktive Komisije 2006/51EZ od 6. lipnja 2006. kojom se radi prilagođavanja tehničkom napretku mijenja Prilog I. Direktiva 2005/55/EZ Europskog parlamenta i Vijeća i prilozi IV. i V. Direktive 2005/78/EZ s obzirom na sustav nadzora kontrole emisije za uporabu u vozilima i na iznimke za motore na plin.
