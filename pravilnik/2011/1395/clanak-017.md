@@ -1,0 +1,4 @@
+# Članak 17.
+(1) Ovlašteni nadzornik sastavlja zapisnik u roku od 15 (petnaest) dana od dana službenog završetka izravnog nadzora i provjere kvalitete rada. Dan službenog završetka izravnog nadzora i provjere kvalitete rada posljednji je dan obavljanja nadzora u prostorijama revizorskog društva/samostalnog revizora. Iznimno, dan službenog završetka izravnog nadzora posljednji je dan dodatne provjere podataka u prostorijama Komore koja ne može trajati duže od 15 (petnaest) dana od posljednjeg dana nadzora u prostorijama revizorskog društva/samostalnog revizora.
+(2) Revizorsko društvo/samostalni revizor kod kojeg je proveden izravni nadzor i provjera kvalitete rada može uložiti prigovor na zapisnik u roku od 15 (petnaest) dana od dana primitka zapisnika.
+(3) O prigovoru iz stavka 2. ovog članka odlučuje ovlašteni nadzornik u roku od 15 (petnaest) dana od dana zaprimanja prigovora.

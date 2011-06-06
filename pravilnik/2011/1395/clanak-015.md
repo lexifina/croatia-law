@@ -1,0 +1,4 @@
+# Članak 15.
+(1) Revizorsko društvo/samostalni revizor dužni su ovlaštenom nadzorniku osigurati uvjete za neometano provođenje izravnog nadzora i provjeru kvalitete rada, te na njegov zahtjev omogućiti pristup izvornim dokumentima i njihovu kontrolu, pregled revizorskih izvješća i radne dokumentacije na osnovi koje su revizorska izvješća sastavljena, te pregled druge dokumentacije i propisanih evidencija.
+(2) Na zahtjev ovlaštenog nadzornika, revizorsko društvo/samostalni revizor dužni su osigurati stručnu i tehničku pomoć, potrebna pojašnjenja te omogućiti provođenje izravnog nadzora u prostorijama u kojima obavljaju registriranu djelatnost, a iznimno, na zahtjev ovlaštenog nadzornika, u prostorijama Komore.
+(3) Saznanja i podatke iz nadzora ovlašteni nadzornik i druge osobe koje su upoznate s postupkom izravnog nadzora i provjere kvalitete rada obvezni su čuvati kao poslovnu tajnu.

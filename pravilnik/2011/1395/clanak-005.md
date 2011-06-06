@@ -1,0 +1,7 @@
+## IV. NOSITELJI NADZORA I PROVJERE KVALITETE RADA
+# Članak 5.
+(1) Nadzor i provjeru kvalitete rada revizorskih društava/samostalnih revizora i ovlaštenih revizora obavljaju nadzornici u opsegu koji je primjeren kvalitetnom i cjelovitom nadzoru, primjenom načela i metodologije nadzora i provjere kvalitete rada propisanih internim aktima Komore.
+(2) Nadzornici su, u smislu ovog Pravilnika, zaposlenici Komore na poslovima nadzora i provjere kvalitete rada koje je, sukladno Zakonu, imenovalo Upravno vijeće Komore uz prethodnu suglasnost Odbora za javni nadzor revizije.
+(3) Nadzornici u okviru svojih dnevnih radnih zadataka primaju, pregledavaju i analiziraju izvještaje, obavijesti i druge informacije koje revizorska društva/samostalni revizori i ovlašteni revizori dostavljaju Komori za potrebe nadzora i provjere kvalitete rada, a na temelju ovlaštenja, koje izdaje i potpisuje predsjednik Komore, obavljaju nadzor i provjeru kvalitete rada revizorskog društva/samostalnog revizora.
+(4) Kad je potrebno ishoditi stručno mišljenje i/ili ocjenu odgovarajućih stručnjaka, za rješavanje određenih zadataka za potrebe nadzora i provjere kvalitete rada, predsjednik Komore može osim nadzornika angažirati i ovlastiti i druge stručne osobe.
+(5) Osobe iz stavka 4. ovog članka obvezne su u obavljanju zadataka za koje su angažirane i ovlaštene, primijeniti načela nadzora i provjere kvalitete rada iz članka 4. ovog Pravilnika.

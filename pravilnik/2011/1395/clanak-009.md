@@ -1,0 +1,5 @@
+# Članak 9.
+(1) Izravni nadzor i provjera kvalitete rada provodi se u prostorijama revizorskog društva/samostalnog revizora na adresi glavnog ureda, odnosno na drugoj adresi na kojoj obavlja registriranu djelatnost, a iznimno u prostorijama Komore:
+- pregledom revizijskih mapa, revizorskih izvješća, drugih poslovnih izvješća izrađenih i dostavljenih za potrebe nadzora i Komore, internih akata o poslovnoj politici, o obavljanju revizije, o internom sustavu kontrole kvalitete rada, te pregledom druge dokumentacije koja se odnosi na poslovanje, i to u izvorniku, u papirnatom obliku i/ili u elektroničkom zapisu na mediju, prema zahtjevu ovlaštenog nadzornika, te
+- provjerom kadrovske, stručne, organizacijske i tehničke opremljenosti.
+(2) Izravni nadzor revizorskog društva/samostalnog revizora može obuhvatiti cjelokupno poslovanje ili određeni dio poslovanja, a provodi se u opsegu dostatnom za procjenu usklađenosti sa Zakonom, podzakonskim aktima i internim aktima, te pravilnosti i zakonitosti poslovanja.

@@ -1,0 +1,6 @@
+# Članak 8.
+(1) Komora obavještava revizorsko društvo/samostalnog revizora o početku nadzora i provjere kvalitete rada u roku od najkasnije 30 (trideset) dana prije početka nadzora, a koji počinje od datuma obavijesti odnosno naloga za izravni nadzor i provjeru kvalitete rada.
+(2) U slučaju pokretanja izravnog nadzora kod revizorskog društva/samostalnog revizora na izvanrednoj osnovi, o čemu odluku donosi Komora, te nadzora na zahtjev Odbora za javni nadzor revizije, Komora obavještava revizorsko društvo/samostalnog revizora o početku nadzora u roku koji je kraći od roka iz stavka 1. ovog članka.
+(3) U istim rokovima iz stavaka 1. i 2. ovog članka obavještava se i nadzornik koji je predviđen za provedbu izravnog nadzora i provjeru kvalitete rada.
+(4) Nadzornik koji je predviđen za provođenje nadzora obvezan je u roku od 8 (osam) dana od saznanja o dodijeljenom nadzoru izvijestiti Komoru o svakoj okolnosti neispunjavanja kriterija neovisnosti. Nadzornici ne smiju kontaktirati revizorsko društvo/samostalnog revizora niti ovlaštenog revizora u svezi s provjerom kvalitete rada prije službene obavijesti Komore o početku nadzora.
+(5) Nadzornik obavlja izravni nadzor uz predočenje pisanog ovlaštenja predsjednika Komore.
