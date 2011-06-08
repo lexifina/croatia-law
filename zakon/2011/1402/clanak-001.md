@@ -1,0 +1,3 @@
+# Članak 1.
+U Zakonu o znanstvenoj djelatnosti i visokom obrazovanju (»Narodne novine«, br. 123/03., 105/04., 174/04., 2/07. - Odluka Ustavnog suda Republike Hrvatske, 46/07. i 45/09.) u članku 102. iza stavka 9. dodaje se stavak 10. koji glasi:
+»(10) Iznimno od odredbe stavka 7. ovoga članka, nastavniku iz područja biomedicine i zdravstva, polje kliničke medicinske znanosti, koji nije izabran u zvanje redovitog profesora u trajnom zvanju, visoko učilište može produljiti radni odnos do isteka akademske godine u kojoj navršava 70 godina života, posebno cijeneći pri tome njegov znanstveni doprinos te uspješnost u obrazovnom procesu i odgoju mladih znanstvenika i nastavnika.«.
