@@ -2,11 +2,11 @@
 (1) Izvršni odbor Komore:
 1. odlučuje o zahtjevima za upis u Imenik odvjetnika i odvjetničkih vježbenika,
 2. izdaje prethodne suglasnosti odvjetničkim društvima o sukladnosti ugovora o osnivanju sa zakonom, Statutom i drugim općim aktima Komore te potvrdu Komore da su odvjetnici osnivači upisani u Imenik odvjetnika,
-3. donosi rješenje o obustavi obavljanja odvjetništva te rješenje o brisanju iz Imenika odvjetnicka u koji je odvjetnik upisan,
+3. donosi rješenje o obustavi obavljanja odvjetništva te rješenje o brisanju iz Imenika odvjetnika u koji je odvjetnik upisan,
 4. donosi rješenja o zabrani rada odvjetničkog društva i strane podružnice zbog razloga iz članka 32. st. 1. i 3. Zakona o odvjetništvu,
 5. donosi rješenje kojim odobrava sadržaj internetske stranice odvjetnika, zajedničkih odvjetničkih ureda i odvjetničkih društava,
 6. donosi rješenje o bezodložnom brisanju cijele internetske stranice ili pojedinih dijelova sadržaja internetske stranice odvjetnika, zajedničkih odvjetničkih ureda i odvjetničkih društava,
-7. donosi rješenje o zabrani rada odvjetnika, zajedničkog odvjetničkog ureda, odvjetničkog društva i strane podružnice zbog razloga iz članka 44. st. 12.Zakona o odvjetništvu,
+7. donosi rješenje o zabrani rada odvjetnika, zajedničkog odvjetničkog ureda, odvjetničkog društva i strane podružnice zbog razloga iz članka 44. st. 12. Zakona o odvjetništvu,
 8. odlučuje o obnovi postupka za upis u imenike odvjetnika i odvjetničkih vježbenika,
 9. odlučuje o žalbama izjavljenim protiv rješenja koja donosi predsjednik Komore, osim rješenja koja se odnose na stjecanje, mirovanje, obustavu ili gubitak prava na obavljanje odvjetništva,
 10. postavlja privremene zamjenike i preuzimatelje ureda kad je to ovim Statutom određeno,

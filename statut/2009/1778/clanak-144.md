@@ -1,3 +1,4 @@
-## XIII. CENTAR ZA MIRENJE HRVATSKE ODVJETNIČKE KOMORE
 # Članak 144.
-Centar za mirenje Hrvatske odvjetničke komora djeluje pri Komori i njegovo djelovanje se uređuje posebnim pravilnikom koji donosi Upravni odbor.
+(1) Disciplinski nalog se izdaje u pisanom obliku, a sadržava sve što i presuda kojom se okrivljeni proglašava krivim prema odredbi članka 136. i 137. Statuta.
+(2) U obrazloženju disciplinskog naloga ukratko će se navesti samo dokazi koji opravdavaju njegovo izdavanje.
+(3) Disciplinski nalog sud dostavlja okrivljeniku, njegovu branitelju ako ga ima i tužitelju.

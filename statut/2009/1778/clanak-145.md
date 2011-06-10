@@ -1,6 +1,3 @@
-## XIV. GLASILO »ODVJETNIK«
 # Članak 145.
-(1) Glasilo Odvjetničke komore Hrvatske (Hrvatske odvjetničke komore) jest časopis »Odvjetnik«.
-(2) Glasilo izlazi mjesečno ili dvomjesečno, a primaju ga svi članovi Komore i odvjetnički vježbenici.
-(3) Članove uredništva, glavnog urednika i urednika »Odvjetnika« imenuje Upravni odbor Komore.
-(4) Članovi uredništva, glavni urednik i urednik za svoj rad odgovaraju Upravnom odboru Komore.
+(1) Protiv disciplinskog naloga okrivljenik i njegov branitelj mogu u roku od osam dana podnijeti prigovor.
+(2) Okrivljenik može odustati od pravodobno podnesenog prigovora prije nego je disciplinski nalog stavljen izvan snage.

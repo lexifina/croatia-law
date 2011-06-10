@@ -1,8 +1,4 @@
 # Članak 150.
-(1) Proračunski prihodi Komore jesu:
-1. upisnina odvjetnika i odvjetničkih vježbenika,
-2. članarina odvjetnika i odvjetničkih vježbenika,
-3. ostali prihodi i davanja.
-(2) Uz proračunske prihode postoje i izvanredni prihodi Komore, i to:
-1. novčane disciplinske kazne,
-2. različiti izvanredni prihodi.
+(1) Zastara progona prekida se podnošenjem prijave Komori ili odlukom mjerodavnih tijela Komore o pokretanju postupka.
+(2) Zastara progona i zastara izvršenja kazne nastupa u svakom slučaju kad protekne dvostruki rok predviđen za zastaru progona i za zastaru izvršenja kazne.
+(3) Ako je disciplinski okrivljenik istom povredom izvršio i kazneno djelo, zastara progona prekida se do pravomoćnog završetka kaznenog postupka.

@@ -1,4 +1,4 @@
-## XVIII. POHRANA SPISA
+## XV. INTERNETSKA STRANICA HOK
 # Članak 154.
-(1) Imenici, urudžbeni zapisnici i spisi koji se odnose na pojedine odvjetnike čuvaju se trajno, dok se ostali spisi čuvaju deset godina.
-(2) Upravni odbor Komore ovlašten je donijeti posebnu odluku o pohrani spisa Komore.
+(1) Hrvatska odvjetnička komora može imati vlastitu internetsku stranicu.
+(2) Pristup internetskoj stranici bit će dopušten odvjetnicima i općoj javnosti bez ograničenja, osim ako za pojedine njezine dijelove Upravni odbor HOK ne odluči drugačije.

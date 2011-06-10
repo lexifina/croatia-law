@@ -1,4 +1,2 @@
 # Članak 156.
-(1) Svi odvjetnici su dužni imati elektroničku adresu i istu prijavljuju Komori. Sva pismena Komora i zborovi dostavljaju odvjetnicima elektroničkim putem na prijavljenu adresu Komori. Ako odvjetnik promijeni elektroničku adresu dužan je o novoj adresi obavijestiti Komoru bez odgode, ali je do zaprimanja obavijesti za dostavu je mjerodavna elektronička adresa koja je prijavljena Komori.
-(2) Odvjetnik je dužan u elektroničkom komuniciranju s HOK-om koristiti napredan elektronički potpis u skladu sa zakonom koji uređuje tu materiju te uz odgovarajuću primjenu propisa koji uređuju elektroničku komunikaciju s državnim tijelima.
-(3) Izvršni odbor Komore može na poseban pisani zahtjev odvjetnika iznimno odobriti pojedinom odvjetniku nekorištenje elektroničke adrese ako postoje za to opravdani razlozi. Ovaj se zahtjev mora podnijeti u roku 4 (četiri) mjeseca od dana stupanja na snagu ovog Statuta.
+Glavni urednik i urednik te članovi uredništva internetske stranice odgovorni su za svoj rad Upravnom odboru HOK.

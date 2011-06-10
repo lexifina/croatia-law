@@ -1,3 +1,8 @@
 # Članak 158.
-(1) Podružnice stranih odvjetničkih društava ili ureda koji su osnovani do dana na stupanja na snagu ovog Statuta dužne su u roku 90 dana uskladiti se sukladno odredbama ovog Statuta.
-(2) U slučaju da ne postupe u skladu s odredbom stavka 1. ovog članka, tada se postupa u skladu sa stavkom 7. i 8. čl. 105. ovog Statuta.
+(1) Proračunski prihodi Komore jesu:
+1. upisnina odvjetnika i odvjetničkih vježbenika,
+2. članarina odvjetnika i odvjetničkih vježbenika,
+3. ostali prihodi i davanja.
+(2) Uz proračunske prihode postoje i izvanredni prihodi Komore, i to:
+1. novčane disciplinske kazne,
+2. različiti izvanredni prihodi.

@@ -1,4 +1,3 @@
-## XVI. PRIJELAZNE I ZAVRŠNE ODREDBE
 # Članak 155.
-(1) Postupci koji u vrijeme stupanja na snagu ovog Statuta budu u tijeku pred tijelima Komore nastavljaju se prema pravilima koja su bila na snazi u to vrijeme.
-(2) Zborovi su dužni se uskladiti svoja pravila s ovim Statutom do 30. lipnja 2010.
+(1) Glavnog urednika i urednika internetske stranice imenuje Upravni odbor HOK.
+(2) Upravni odbor može odlučiti da se osnuje i uredništvo internetske stranice. U tom slučaju Upravni odbor HOK imenuje članove uredništva.

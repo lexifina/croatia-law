@@ -1,4 +1,5 @@
-## XV. INTERNETSKA STRANICA HOK
 # Članak 146.
-(1) Hrvatska odvjetnička komora može imati vlastitu internetsku stranicu.
-(2) Pristup internetskoj stranici bit će dopušten odvjetnicima i općoj javnosti bez ograničenja, osim ako za pojedine njezine dijelove Upravni odbor HOK ne odluči drugačije.
+(1) Prigovor obvezno sadrži naznaku disciplinskog naloga protiv kojeg se podnosi, ime i prezime podnositelja prigovora, potpis podnositelja prigovora, te osnovu zbog koje se prigovor podnosi.
+(2) Prigovor se može podnijeti s osnove poricanja disciplinskog djela ili zbog izrečene disciplinske mjere i/ili određenih troškova. Ako prigovor ne sadrži osnovu ili ona nije jasna, smatrati će se da je prigovor podnesen zbog poricanja disciplinskog djela.
+(3) U slučaju kada se prigovor podnosi zbog izrečene disciplinske mjere i/ili određenih troškova, podnositelj je dužan obrazložiti prigovor i podnijeti dokaze o činjenicama na kojima temelji prigovor.
+(4) Prigovor koji je pravodobno podnijela ovlaštena osoba odgađa izvršenje disciplinskog naloga. Vijeće Disciplinskog suda će po primitku pravodobnog prigovora, koji je podnijela ovlaštena osoba, nakon otvaranja glavne rasprave rješenjem staviti disciplinski nalog izvan snage. Žalba protiv rješenja o stavljanju disciplinskog naloga izvan snage nije dopuštena, a niti je Disciplinski sud u obvezi izraditi pisani otpravak rješenja.

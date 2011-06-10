@@ -1,8 +1,6 @@
-## XVII. ZNAK, PEČATI I ŽIGOVI KOMORE
+## XIV. GLASILO »ODVJETNIK«
 # Članak 153.
-(1) Komora ima svoj znak koji utvrđuje Skupština.
-(2) Pečati i žigovi Komore okruglog su oblika, promjera 38 mm, s natpisom: HRVATSKA ODVJETNIČKA KOMORA - ZAGREB.
-(3) Pečati za tintu mogu se otiskivati u tamnoplavoj ili ljubičastoj tinti.
-(4) Žig izrađen od kovine otiskivat će se u crvenom vosku.
-(5) Komora ima i suhi žig.
-(6) Zborovi imaju svoje pečate i žigove u skladu s općim aktom koji donosi Upravni odbor Komore.
+(1) Glasilo Odvjetničke komore Hrvatske (Hrvatske odvjetničke komore) jest časopis »Odvjetnik«.
+(2) Glasilo izlazi mjesečno ili dvomjesečno, a primaju ga svi članovi Komore i odvjetnički vježbenici.
+(3) Članove uredništva, glavnog urednika i urednika »Odvjetnika« imenuje Upravni odbor Komore.
+(4) Članovi uredništva, glavni urednik i urednik za svoj rad odgovaraju Upravnom odboru Komore.

@@ -1,8 +1,8 @@
 # Članak 141.
-(1) Izviđaje u postupku za izricanje mjera zbog lakših povreda vodi član Disciplinskog vijeća Upravnog odbora Komore, odnosno jedan član disciplinskog vijeća odvjetničkog zbora kojega odredi predsjednik vijeća.
-(2) Okrivljeniku se prije donošenja odluke omogućuje da iznese svoju obranu.
-(3) Protiv rješenja disciplinskih vijeća može se izjaviti žalba ako je okrivljeniku izrečena kazna. Žalbu može izjaviti samo okrivljenik, i to u roku od 15 dana.
-(4) O žalbi odlučuje Disciplinski sud Komore u vijeću od tri člana, u nejavnoj sjednici. Odluka vijeća je konačna.
-(5) U postupku protiv odvjetničkog vježbenika jedan član vijeća Disciplinskog suda jest odvjetnički vježbenik kojega je odredila Udruga odvjetničkih vježbenika.
-(6) U postupku pred Disciplinskim vijećem Komore odnosno odvjetničkog zbora, na odgovarajući se način primjenjuju odredbe ovog Statuta o disciplinskom postupku zbog teže povrede dužnosti i ugleda odvjetništva, ako odredbama ovog članka nije što drugo predviđeno.
-5. Zastara
+1) Odluke, pozivi, podnesci i drugi dopisi dostavljaju se u pravilu poštom, na adresu sjedišta odvjetničkog ureda odnosno pisarnice, upisane u Imeniku odvjetnika, dok poziv za glavnu raspravu ili druge pozive sud može i usmeno dati osobi koja se nalazi pred sudom, što će se zabilježiti u zapisniku o glavnoj raspravi, čime se dostava smatra pravovaljanom.
+(2) Ako se okrivljeniku ne može dostaviti odluka na koju postoji pravo žalbe na dosadašnju adresu jer nije javila promjenu adrese ili je na adresi koju je prije toga dala sudu nije moguće pronaći, ili je očito da izbjegava primitak ignorirajući obavijest o primitku pošiljke ili na drugi način, dostava će se obaviti na adresu sjedišta odvjetničkog ureda odnosno pisarnice, upisane u Imeniku odvjetnika.
+Ako dostava ne uspije niti na toj adresi, dostava će se obaviti isticanjem odluke na oglasnoj ploči suda. Protekom roka za žalbu odluka će postati pravomoćna.
+(3) Ako se okrivljeniku ili drugoj stranci u postupku ne može na dosadašnju adresu dostaviti poziv ili žalba, jer nije javila promjenu adrese ili je na adresi koju je prije toga dala sudu nije moguće pronaći, ili je očito da izbjegava primitak ignorirajući obavijest o primitku pošiljke ili na drugi način, dostava će se obaviti na adresu sjedišta odvjetničkog ureda odnosno pisarnice upisane u Imeniku odvjetnika.
+Ako dostava ne uspije niti na toj adresi, dostava će se obaviti isticanjem poziva ili žalbe na oglasnoj ploči suda. Protekom roka od osam dana od dana isticanja smatra se da je dostava pravovaljana.
+(4) Odluke, pozivi, podnesci i drugi dopisi mogu se dostavljati i elektroničkim putem u skladu s posebnim aktom Komore.
+4. Disciplinski nalog
