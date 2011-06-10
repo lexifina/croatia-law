@@ -1,0 +1,1 @@
+Na temelju članka 50. stavka 4. Zakona o upravljanju državnom imovinom (»Narodne novine« br. 145/2010) Upravno vijeće Agencije za upravljanje državnom imovinom na 6. izvanrednoj sjednici održanoj 5. svibnja 2011. godine donijelo je
