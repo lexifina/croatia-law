@@ -1,0 +1,4 @@
+# Članak 27.
+(1) Inspektor će podnijeti zahtjev za razrješenjem člana školskog odbora ako utvrdi da ne ispunjava obveze utvrđene zakonom, aktom o osnivanju ili statutom nadzirane ustanove, odnosno ako način imenovanja, odnosno izbora i trajanje mandata člana školskog odbora nije u skladu sa zakonom ili drugim propisom, s aktom o osnivanju ili statutom.
+(2) Inspektor će podnijeti zahtjev za raspuštanjem školskog odbora ako utvrdi da školski odbor ne obavlja poslove iz svojeg djelokruga u skladu sa zakonom, aktom o osnivanju ili statutom nadzirane ustanove ili da te poslove obavlja na način koji ne omogućuje redovito poslovanje ili obavljanje djelatnosti.
+(3) Ako ovlašteno tijelo ne postupi u skladu sa zahtjevom iz stavka 1. ovoga članka u roku od 30 dana od dana dostave zahtjeva, inspektor će o tomu izvijestiti tijelo koje ga nadzire.

@@ -1,0 +1,12 @@
+# Članak 21.
+(1) Inspektor će nadziranoj ustanovi narediti:
+1. poništenje ocjene ako nađe da je u postupku ispitivanja, odnosno ocjenjivanja povrijeđen zakon, drugi propis, statut ili drugi opći akt, ili ako zaključna ocjena nije utemeljena na podacima o praćenju rada i napredovanja učenika i ocjenama donesenim u tijeku nastave, ili ako zaključna ocjena utvrđena na ispitu pred povjerenstvom nije izvedena iz ocjena pojedinih dijelova ispita ili iz ocjena pojedinačnih odgovora, ili ako poništenje ocjene predloži osoba ovlaštena za stručno-pedagoški nadzor,
+2. poništenje svjedodžbe ili druge javne isprave (u daljnjem tekstu: svjedodžba) ako nađe da je svjedodžba izdana učeniku koji nije završio razred, školovanje ili obrazovni program, ili da nadzirana ustanova nema odobrenje za obavljanje odgojno-obrazovne djelatnosti, odnosno za izvođenje obrazovnog programa za koji je svjedodžba izdana, ili da je svjedodžba izdana na nepropisanom obrascu ili s netočnim podacima.
+(2) Ako se naredba iz stavka 1. ovoga članka ne provede u ostavljenom roku, ocjenu odnosno svjedodžbu poništit će inspektor.
+(3) Inspektor će svjedodžbu iz stavka 1. ovoga članka poništiti bez prethodnog izricanja naredbe ako utvrdi da svjedodžbu nije izdala nadzirana ustanova ili da je svjedodžbu izdala ustanova ili druga pravna osoba koja je prestala s radom, a nema pravnog sljednika, ili da je u svjedodžbi navedena nepostojeća ustanova ili druga pravna osoba.
+(4) Inspektor će nadziranoj ustanovi narediti:
+1. ukidanje, poništenje ili oglašavanje ništavnim upravnog akta donesenog u obavljanju javne ovlasti, odnosno stavljanje tog akta izvan snage, ako utvrdi da su za ukidanje, poništenje ili oglašavanje ništavnim, odnosno za stavljanje akta izvan snage, ispunjeni uvjeti propisani Zakonom o općem upravnom postupku,
+2. oglašavanje odluke ili drugog pojedinačnog akta ništavnim ako je ništavnost propisana zakonom,
+3. ukidanje ili oglašavanje odluke ili drugog pojedinačnog akta ništavnim, odnosno stavljanje tog akta izvan snage, ako je njime bitno povrijeđen zakon ili drugi propis, a poduzimanjem koje druge mjere ne može se uspostaviti zakonito stanje.
+(5) Ako se naredba iz stavka 4. ovoga članka ne provede u ostavljenom roku, ukidanje, poništenje ili oglašavanje ništavnim, odnosno stavljanje izvan snage, provest će inspektor.
+(6) Na poništenje, ukidanje i oglašavanje akata ništavnim primjenjuju se odgovarajuće odredbe Zakona o općem upravnom postupku, ako posebnim zakonom nije što drugo propisano.

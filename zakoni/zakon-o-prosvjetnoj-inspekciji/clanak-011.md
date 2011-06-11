@@ -1,0 +1,40 @@
+## III. POSLOVI PROSVJETNE INSPEKCIJE
+# Članak 11.
+(1) U provedbi nadzora u ustanovama i drugim pravnim osobama koje podliježu nadzoru prosvjetne inspekcije (u daljnjem tekstu: nadzirana ustanova) inspektor utvrđuje stanje, a osobito:
+1. obavlja li se djelatnost i poslovanje u skladu s aktom o osnivanju i upisom u sudski registar te u skladu s odobrenjem za početak rada i izvođenje obrazovnog programa,
+2. je li statut donesen u propisanom postupku, uz propisanu suglasnost i je li usklađen sa zakonom i drugim propisom te s aktom o osnivanju,
+3. jesu li drugi opći akti usklađeni sa zakonom, drugim propisom, statutom i aktom o osnivanju,
+4. jesu li odredbe akta o osnivanju, statuta i drugih općih akata kojima se uređuje javna služba učinjene dostupnim javnosti,
+5. je li godišnje planiranje rada nadzirane ustanove te radnika nadzirane ustanove u skladu sa zakonom, drugim propisom i općim aktima ustanove te provodi li se rad u skladu s planom,
+6. je li dnevna, tjedna i godišnja organizacija rada provedena u skladu s godišnjim planom rada te sa zakonom i drugim propisom,
+7. primjenjuje li se državni pedagoški standard, odnosno drugi standardi i normativi kojima se uređuje odgojno-obrazovna djelatnost,
+8. provodi li se upis i ispis djece, učenika i drugih polaznika (u daljnjem tekstu: učenici) u skladu sa zakonom, drugim propisom, općim aktom, natječajem i odobrenjem nadležnog tijela te ostvaruju li se kod upisa i ispisa prava i obveze učenika,
+9. je li broj odjela, odgojnih i odgojno-obrazovnih skupina, te broj učenika u odjelu, odgojnoj i odgojno-obrazovnoj skupini u skladu sa zakonom, drugim propisom i normativom,
+10. jesu li učenici opterećeni nastavom i drugim oblicima neposrednog odgojno-obrazovnog rada u skladu sa zakonom, drugim propisom i normativom te s nastavnim planom i programom,
+11. ispunjava li se obveza praćenja rada i napredovanja učenika, obveza redovitog ocjenjivanja u tijeku nastave te izvode li se zaključne ocjene na osnovi podataka o praćenju i ocjenjivanju u tijeku nastave,
+12. provodi li se postupak pohvaljivanja i nagrađivanja učenika te izricanja pedagoških mjera u skladu sa zakonom, drugim propisom te statutom, odnosno općim aktom,
+13. odnose li se zaposlene osobe u nadziranoj ustanovi prema učenicima i njihovim roditeljima, odnosno skrbnicima (u daljnjem tekstu: roditelji) u skladu s obvezama i odgovornostima,
+14. ispunjavaju li se obveze prema roditeljima na suradnju i izvješćivanje o uspjehu, napredovanju i ponašanju učenika,
+15. naplaćuju li se učenicima, odnosno njihovim roditeljima novčana sredstva za propisane svrhe i troše li se ta sredstva namjenski, u skladu sa zakonom, drugim propisom, općim aktom i godišnjim planom i programom rada,
+16. osnivaju li se učeničke udruge i klubovi u nadziranoj ustanovi u skladu sa zakonom, drugim propisom i općim aktom,
+17. provodi li se učenička prehrana, prijevoz, učenička ekskurzija, izlet ili druga propisana aktivnost u skladu sa zakonom, drugim propisom, općim aktom, godišnjim planom i programom rada i školskim kurikulumom,
+18. izdaju li se svjedodžbe, učeničke knjižice, potvrde, uvjerenja i druge javne isprave o stečenom obrazovanju i drugim činjenicama u skladu sa zakonom, drugim propisom i općim aktom,
+19. obavlja li se na osnovi propisanih standarda i normativa, u skladu sa zakonom, drugim propisom i općim aktom:
+a) utvrđivanje potrebe za radnikom, pribavljanje suglasnosti, objava oglasa, odnosno natječaja, izbor kandidata, zasnivanje radnog odnosa, raspored na poslove za koje je zasnovan radni odnos te zaduživanje radnim obvezama sukladno s ugovorom o radu,
+b) utvrđivanje prestanka potrebe za radom radnika, osiguravanje njegovih prava, otkazivanje ugovora o radu i prestanak radnog odnosa,
+c) zasnivanje radnog odnosa bez oglašavanja, odnosno bez natječaja,
+d) zasnivanje radnog odnosa na određeno vrijeme i prestanak radnog odnosa.
+20. ostvaruju li se prava, obveze i odgovornosti iz radnog odnosa u skladu sa zakonom, drugim propisom i općim aktom nadzirane ustanove, a osobito pravo na rad na poslovima za koje je sklopljen ugovor o radu, sukladno uglavcima ugovora, pravo na godišnji odmor, otkazni rok i otpremninu, obveza i odgovornost izvršavanja poslova za koje je sklopljen ugovor o radu te druge obveze i odgovornosti u vezi s tim poslovima,
+21. sadrže li ugovori o radu sve bitne uglavke te postupa li nadzirana ustanova i radnik pri utvrđivanju prava i obveza radnika sukladno uglavcima,
+22. je li imenovanje ravnatelja ili drugog poslovodnog voditelja (u daljnjem tekstu: ravnatelj) te stručnog voditelja provedeno na propisan način i u propisanom postupku,
+23. ispunjava li ravnatelj, odnosno stručni voditelj svoje dužnosti i obveze,
+24. je li sastav, način imenovanja, odnosno izbora i trajanje mandata članova upravnog vijeća ili drugog kolegijalnog tijela koje upravlja nadziranom ustanovom (u daljnjem tekstu: školski odbor) u skladu sa zakonom i drugim propisom, aktom o osnivanju i statutom,
+25. je li osnivanje i sastav stručnih i drugih tijela nadzirane ustanove u skladu sa zakonom i drugim propisom, aktom o osnivanju, statutom i općim aktom,
+26. je li rad ravnatelja i kolegijalnih tijela nadzirane ustanove sukladan s propisima i s godišnjim planom i programom rada te donose li se odluke i drugi pojedinačni akti u skladu sa zakonom i drugim propisom, statutom i drugim općim aktom,
+27. vodi li se propisana pedagoška evidencija i dokumentacija te evidencija i dokumentacija na području radnih odnosa u skladu sa zakonom i drugim propisom,
+28. vodi li se uredsko poslovanje na propisan način,
+29. jesu li u uporabi neodobreni udžbenici, odnosno dopunska nastavna sredstva,
+30. primjenjuje li se zakon kojim se ograničava odnosno zabranjuje uporaba duhanskih proizvoda,
+31. provodi li se u osnovnoj, odnosno srednjoj školi ili učeničkom domu, promidžba i prodaja proizvoda koji nisu u skladu s ciljevima odgoja i obrazovanja,
+32. jesu li sa zakonom i drugim propisom usklađeni i drugi uvjeti i način rada nadzirane ustanove.
+(2) Prosvjetna inspekcija rješava o žalbama protiv rješenja nadzirane ustanove kojim je izrečena pedagoška mjera isključenja učenika iz škole te drugih rješenja donesenih u obavljanju javnih ovlasti kada je za rješavanje nadležno Ministarstvo.

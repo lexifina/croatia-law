@@ -1,0 +1,14 @@
+# Članak 22.
+(1) Inspektor će nadziranoj ustanovi zabraniti:
+1. sklapanje, odnosno otkazivanje ugovora o radu ako je potreba, odnosno prestanak potrebe za radnikom utvrđena suprotno standardu ili normativu, ili ako je potreba za radnikom utvrđena na određeno vrijeme ili se provodi postupak za zasnivanje radnog odnosa na određeno vrijeme u slučaju koji nije propisan zakonom niti predviđen kolektivnim ugovorom, ili ako je u postupku zasnivanja, odnosno otkazivanja, povrijeđen zakon, drugi propis, statut ili drugi opći akt,
+2. imenovanje ravnatelja ako je u postupku koji se provodi povrijeđen zakon, drugi propis ili statut ustanove, ili ako je za imenovanje izabran kandidat koji ne ispunjava uvjete,
+3. obavljanje poslova na temelju ugovora o radu sklopljenim na osnovi potrebe utvrđene suprotno standardu ili normativu, ili sklopljenim s osobom koja ne ispunjava propisane uvjete, ili ako je u postupku povrijeđen zakon, drugi propis, statut ili drugi opći akt,
+4. obavljanje poslova na temelju ugovora o djelu ako je za te poslove propisano zasnivanje radnog odnosa, ili ako se ti poslovi ne mogu obavljati na osnovi ugovora o djelu, ili ako inspektor utvrdi da nadzirana ustanova izbjegava sklapanje ugovora o radu,
+5. obavljanje poslova u prekovremenom radu, odnosno u radu dužem od punog radnog vremena, odnosno u radu iznad propisane norme, ako taj rad nije uveden u skladu sa zakonom, ili ako se tim radom onemogućuje zapošljavanje nezaposlene osobe,
+6. uporabu neodobrenog udžbenika, odnosno dopunskog nastavnog sredstva,
+7. upis, odnosno ispis učenika ako postupak nije proveden u skladu sa zakonom, drugim propisom, statutom ili drugim općim aktom, natječajem za upis ili odobrenjem nadležnog tijela,
+8. naplatu novčanih sredstava od učenika, odnosno njegovih roditelja za nedopuštene svrhe,
+9. obavljanje odgojno-obrazovne djelatnosti, odnosno izvođenje obrazovnog programa, ako toj vrsti ustanove ili druge pravne osobe zakonom ili drugim propisom nije dopušteno ili je zabranjeno obavljanje odgojno-obrazovne djelatnosti, odnosno izvođenje obrazovnog programa,
+10. druge radnje i postupke kojima se povređuje zakon, drugi propis, statut ili drugi opći akt ili kojima se provode odluke ili drugi akti kojima je povreda učinjena, a nadzor nad kojima provodi prosvjetna inspekcija.
+(2) Ako je ugovor o radu otkazan odlukom donesenom suprotno standardu ili normativu, ili ako su u postupku otkazivanja povrijeđene odredbe zakona, inspektor će zabraniti provedbu odluke i narediti vraćanje radnika na posao.
+(3) Ako je radni odnos zasnovan na određeno vrijeme u slučaju koji nije propisan zakonom ni određen kolektivnim ugovorom, inspektor će nadziranoj ustanovi narediti da radniku ugovor sklopljen na određeno vrijeme otkaže te da provede postupak za zasnivanje radnog odnosa na neodređeno vrijeme, a ako se naredba ne provede u ostavljenom roku, inspektor će zabraniti obavljanje poslova ugovorenih na određeno vrijeme.
