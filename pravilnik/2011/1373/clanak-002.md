@@ -1,0 +1,7 @@
+## II. POSTUPAK ISPITIVANJA
+# Članak 2.
+1) Postupak DUS-ispitivanja nove biljne sorte obuhvaća ispitivanje sorti u pokusnom polju i laboratoriju, koje se izvodi po postupcima i metodama sukladno važećim općim i tehničkim vodičima Međunarodne Konvencije za zaštitu novih biljnih sorti (u daljnjem tekstu: UPOV-Konvencija) i/ili Ureda za zaštitu novih biljnih sorti EU (u daljnjem tekstu: CPVO).
+2) DUS-ispitivanja novih biljnih sorti u pokusnom polju i laboratoriju izvodi Hrvatski centar za poljoprivredu, hranu i selo, Zavod za sjemenartsvo i rasadničarstvo (u daljnjem tekstu: Hrvatski centar) ili stručna institucija (u daljnjem tekstu: Izvoditelj), koju određuje Hrvatski centar, sukladno UPOV ili CPVO tehničkim vodičima za svaku vrstu.
+3) Za provođenje DUS-ispitivanja nove biljne sorte Hrvatski centar može odrediti Izvoditelja i izvan Republike Hrvatske u državi koja je potpisnica međunarodnih sporazuma odnosno konvencija, koje je potpisala odnosno k njima pristupila Republika Hrvatska, ali samo u slučaju, da je Izvoditelj za provođenje DUS-ispitivanja nove sorte već imenovan od nadležnog ureda za zaštitu novih biljnih sorti u toj državi. U tom slučaju Hrvatski centar mora prethodno utvrditi, da su agroekološki uvjeti u zemlji, gdje će se ispitivanja obaviti, usporedivi s agroekološkim uvjetima u Republici Hrvatskoj.
+4) Međusobne obveze, prava i način suradnje između Hrvatskog centra i Izvoditelja određuju se ugovorom.
+5) Hrvatski centar dostavlja Izvoditelju kopiju tehničkog upitnika i zahtjev za provođenje DUS-ispitivanja.

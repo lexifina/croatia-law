@@ -1,0 +1,3 @@
+# Članak 3.
+1) U slučaju, kada Hrvatski centar za neku novu biljnu sortu u Republici Hrvatskoj odnosno u državi potpisnici UPOV-Konvencije, ne može odrediti Izvoditelja DUS-ispitivanja, na zahtjev Hrvatskog centra, podnositelj zahtjeva sam ili netko drugi uz njegovo ovlaštenje organizira DUS-ispitivanje nove biljne sorte.
+2) U slučaju kada ne postoji praktično iskustvo u DUS ispitivanju za određenu vrstu, a ni tehnički vodič u nekoj drugoj državi, Hrvatski centar priprema tehnički vodič za DUS-ispitivanje nove biljne sorte sukladno principima u općem vodiču. Hrvatski centar dužan je informirati UPOV odnosno CPVO o pripremljenim tehnčkim vodičima te objaviti tehničke vodiče i odobriti Izvoditelja prije provođenja DUS-ispitivanja nove biljne sorte.

@@ -1,0 +1,2 @@
+# Članak 17.
+Stranooplodne sorte uključujući i sintetske sorte uglavnom pokazuju širu varijaciju unutar sorte nego što je to kod samooplodnih sorti i ponekad je vrlo teško razlikovati atipične biljke. Stoga nije moguće definirati fiksnu toleranciju, nego se koristi limit relativne tolerancije u uspoređivanju s već poznatim komparirajućim sortama. Broj dozvoljenih atipičnih biljaka određen je za svaku vrstu u UPOV ili CPVO tehničkim vodičima za DUS-ispitivanje.

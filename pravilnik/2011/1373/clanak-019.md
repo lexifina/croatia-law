@@ -1,0 +1,3 @@
+# Članak 19.
+1) Postojanost sorte utvrđuje se tako, da se pažljivo prati održavanje sorte u sljedećim godinama ispitivanja prema prvoj godini ispitivanja odnosno prema uzorku koji se nalazi na čuvanju u Hrvatskom centru. Postojanost sorte utvrđuje se s manjom pouzdanošću nego različitost ili ujednačenost. Uglavnom, kada ispitani uzorak pokaže ujednačenost, materijal se može smatrati i postojanim.
+2) Ukoliko je potrebno, postojanost se može utvrditi usporednom sjetvom novog uzorka i uzorka koji se nalazi na čuvanju u Hrvatskom centru u svrhu potvrde da li i jedan i drugi uzorak pokazuju ista svojstva.

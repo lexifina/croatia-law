@@ -1,0 +1,2 @@
+# Članak 15.
+Sorta mora biti dovoljno ujednačena uz uvažavanje posebnosti koje su posljedica značajki njezinog razmnožavanja. Da bi se sorta smatrala ujednačenom, varijacija koju pokazuje sorta u zavisnosti od sustava oplemenjivanja i pojave atipičnih biljaka uslijed slučajnih miješanja, mutacija ili drugih uzroka mora biti ograničena na potrebnu razinu za točan opis, utvrđivanje različitosti i osiguranje postojanosti. Ovo zahtjeva određenu toleranciju prisutnosti atipičnih biljaka koja će se razlikovati u zavisnosti od sistema razmnožavanja.

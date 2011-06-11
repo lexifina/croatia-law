@@ -1,0 +1,5 @@
+# Članak 7.
+1) Sorta je definirana svojim svojstvima i ta svojstva su osnova za izvođenje DUS-ispitivanja. DUS-ispitivanjem utvrđuju se ona svojstva nove biljne sorte (navedena u tehničkim vodičima), koja su bitna za utvrđivanje različitosti, ujednačenosti i postojanosti, ne uzimajući u obzir svojstva za gospodarsku vrijednost.
+2) Nakon prve godine ispitivanja izvoditelj pokusa daje prethodno izvješće o rezultatima ispitivanja različitosti, ujednačenosti i postojanosti i moguće probleme u izvođenju pokusa. Obrazac prethodnog izvješća (PI-DUS) tiskan je uz ovaj Pravilnika i njegov je sastavni dio.
+3) Nakon završnog ispitivanja (druge godine) Hrvatski centar daje konačno izvješće o ispitivanju različitosti, ujednačenosti i postojanosti, koje se temelji na UPOV ili CPVO modelu. Ukoliko je pozitivno, sadrži opis sorte u prilogu. Obrazac konačnog izvješća (I-DUS) tiskan je uz ovaj Pravilnik i njegov je sastavni dio.
+4) Izvoditelj pokusa dužan je, nakon završenog DUS-ispitivanja, u što kraćem roku dostaviti Hrvatskom centru izvješća i opis sorte, ukoliko Hrvatski centar sam nije izvoditelj.
