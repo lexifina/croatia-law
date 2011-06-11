@@ -1,0 +1,2 @@
+# Članak 58.
+Svi zahtjevi za osnivanjem zdravstvenih ustanova, privatnih praksi za obavljanje zdravstvene djelatnosti te trgovačkih društava koja obavljaju zdravstvenu djelatnost podneseni do dana stupanja na snagu ovoga Pravilnika, završit će se po odredbama Pravilnika o minimalnim uvjetima u pogledu prostora, radnika i medicinsko-tehničke opreme za obavljanje zdravstvene djelatnosti (»Narodne novine« broj 90/04 i 38/08).

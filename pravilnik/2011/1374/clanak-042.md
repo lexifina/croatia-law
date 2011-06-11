@@ -1,0 +1,6 @@
+# Članak 42.
+Odjeli specijalističkih djelatnosti operacijskih grana medicine: kirurgije, ginekologije i opstetricije, otorinolaringologije, oftalmologije, ortopedije, urologije i njima srodnih djelatnosti u svrhu racionalnog iskorištavanja prostorija mogu imati zajedničke prostorije operacijskog bloka i dijela centralne djelatnosti anesteziologije, reanimatologije i intenzivnog liječenja ako to dozvoljavaju građevinsko-tehnički i prostorno-komunikacijski uvjeti objekata u kojima su smješteni.
+Ako se specijalističke djelatnosti operacijskih grana medicine iz stavka 1. ovoga članka obavljaju izvan bolničke ustanove potrebno je osigurati operacijsku dvoranu od najmanje 26 m².
+Zajednički operacijski blok iz stavka 1. ovoga članka mora imati najmanje tri operacijske dvorane na 100 bolesničkih postelja operacijskih grana medicine te na svakih daljnjih 50 bolesničkih postelja jednu operacijsku dvoranu više kao i sve ostale (prateće) prostorije operacijske dvorane u operacijskom bloku.
+Iznimno od stavka 3. ovoga članka djelatnosti oftalmologije i opstetricije moraju imati zasebne operacijske dvorane.
+Oprema operacijskih dvorana mora biti u skladu sa zahtjevima svake od specijalističkih djelatnosti.

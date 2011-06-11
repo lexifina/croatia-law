@@ -1,0 +1,4 @@
+# Članak 6.
+Građevina u kojoj se nalaze prostorije za obavljanje zdravstvenih djelatnosti mora udovoljavati uvjetima određenim posebnim propisom o osiguranju pristupačnosti građevina osobama s invaliditetom i smanjene pokretljivosti, u dijelu koji se odnosi na svladavanje visinskih razlika prostora kojim se kreću osobe smanjene pokretljivosti i u pogledu omogućavanja neovisnog življenja osobama s invaliditetom i smanjene pokretljivosti.
+Dentalni laboratoriji ne moraju ispunjavati uvjete iz stavka 1. ovoga članka.
+Iznimno od stavka 1. ovoga članka, građevina koja se nalazi u urbanističkoj cjelini upisana u Registar kulturnih dobara Republike Hrvatske a koja ne može osigurati propisani uvjet pristupačnosti, kako se ne bi narušilo utvrđeno spomeničko svojstvo kulturnog dobra, za odstupanje od propisanih uvjeta mora ishoditi suglasnost ministarstva nadležnog za poslove graditeljstva.
