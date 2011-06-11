@@ -1,0 +1,11 @@
+## V. PREKRŠAJNOPRAVNE SANKCIJE
+# Članak 10.
+(1) Novčanom kaznom od 20.000,00 do 50.000,00 kuna kaznit će se za prekršaj iz članka 5. stavka 1. podstavka 1., 2. i 5. ovoga Zakona pravna osoba koja obavlja djelatnost koja nije upisana u sudski ili drugi odgovarajući registar, nema zakonom propisane akte o ispunjavanju uvjeta za obavljanje registrirane djelatnosti ili obavlja djelatnost unatoč zabrani obavljanja djelatnosti.
+(2) Za prekršaj iz stavka 1. ovoga članka kaznit će se i odgovorna osoba u pravnoj osobi novčanom kaznom od 5.000,00 do 20.000,00 kuna.
+(3) Novčanom kaznom od 10.000,00 do 30.000,00 kuna za prekršaj iz članka 5. stavka 1. podstavka 3. i 4. ovoga Zakona kaznit će se fizička osoba koja obavlja djelatnost koju nije registrirala kod nadležnog tijela, obavljanje djelatnosti nije prijavila poreznim tijelima ili nema zakonom propisane akte o ispunjavanju uvjeta za obavljanje registrirane djelatnosti.
+(4) Novčanom kaznom od 10.000,00 do 20.000,00 kuna za prekršaj iz članka 6. ovoga Zakona kaznit će se pravna osoba koja je omogućila kao sudionik obavljanje aktivnosti iz članka 5. i 7. ovoga Zakona.
+(5) Za prekršaj iz stavka 4. ovoga članka kaznit će se i odgovorna osoba u pravnoj osobi novčanom kaznom od 5.000,00 do15.000,00 kuna.
+(6) Novčanom kaznom od 3.000,00 do 10.000,00 kuna za prekršaj iz članka 6. ovoga Zakona kaznit će se fizička osoba koja je omogućila kao sudionik obavljanje aktivnosti iz članka 5. i 7. ovoga Zakona.
+(7) Novčanom kaznom od 10.000,00 do 15.000,00 kuna kaznit će se za prekršaj iz članka 7. stavka 1., 2. i 3. ovoga Zakona pravna osoba ako objavljuje, nudi, odnosno reklamira obavljanje djelatnosti iz članka 5. ovoga Zakona.
+(8) Novčanom kaznom od 5.000,00 do 10.000,00 kuna kaznit će se za prekršaj iz članka 7. stavka 1., 2. i 3. ovoga Zakona fizička osoba ako objavljuje, nudi, odnosno reklamira obavljanje djelatnosti iz članka 5. ovoga Zakona.
+(9) Za prekršaj iz stavka 1., 3., 4. i 6. ovoga članka, kao zaštitna mjera, obvezno će se oduzeti predmet koji je bio namijenjen ili uporabljen za počinjenje prekršaja ili je nastao počinjenjem prekršaja. Osim zaštitne mjere oduzimanja predmeta oduzet će se i imovinska korist ostvarena prekršajem.
