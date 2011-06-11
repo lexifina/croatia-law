@@ -1,0 +1,2 @@
+# Članak 29.
+U cijelom tekstu Zakona o službenicima i namještenicima u lokalnoj i područnoj (regionalnoj) samoupravi (»Narodne novine«, br. 86/08.), riječ: »konačnost«, u određenom rodu, broju i padežu, zamjenjuje se riječju: »izvršnost«, u odgovarajućem rodu, broju i padežu, a riječ: »konačno«, u određenom rodu, broju i padežu, zamjenjuje se riječju: »izvršno« u odgovarajućem rodu, broju i padežu.
