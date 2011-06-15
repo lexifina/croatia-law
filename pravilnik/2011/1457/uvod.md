@@ -1,0 +1,1 @@
+Na temelju članka 57. Zakona o oznakama zemljopisnog podrijetla i oznakama izvornosti proizvoda i usluga (»Narodne novine«, broj 173/2003, 186/2003, 76/2007 i 49/2011) ministar gospodarstva, rada i poduzetništva, nadležan za rad Državnog zavoda za intelektualno vlasništvo, na prijedlog ravnatelja Državnog zavoda za intelektualno vlasništvo, donosi
