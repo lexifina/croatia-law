@@ -1,0 +1,611 @@
+ZBIRNI PREGLED SREDSTAVA ZA DECENTRALIZIRANE FUNKCIJE U 2011. GODINI PO ŽUPANIJAMA
+Tablica 1.
+ŽUPANIJA
+ŠKOLSTVO
+SOCIJALNA SKRB
+ZDRAVSTVO
+VATROGASTVO
+SVEUKUPNE OBVEZE ZA DECENTRALIZIRANE FUNKCIJE
+OSNOVNO ŠKOLSTVO (OBVEZA GRADOVA I ŽUPANIJA)
+SREDNJE ŠKOLSTVO
+CENTRI ZA SOCIJALNU SKRB I POMOĆ ZA OGRJEV
+DOMOVI ZA STARIJE I NEMOĆNE OSOBE
+ZDRAVSTVENE USTANOVE
+JAVNE
+VATROGASNE POSTROJBE
+(OBVEZA OPĆINA I GRADOVA)
+1
+2
+3
+4
+5
+6
+7
+8 (2+3+4+5+6+7)
+ZAGREBAČKA
+77.679.286
+16.325.477
+5.949.000
+0
+16.478.244
+16.463.105
+132.895.112
+KRAPINSKO-ZAGORSKA
+31.749.158
+13.830.496
+3.246.000
+0
+18.964.237
+10.462.416
+78.252.307
+SISAČKO-MOSLAVAČKA
+46.696.268
+15.584.786
+6.946.400
+10.315.900
+19.445.315
+14.243.881
+113.232.550
+KARLOVAČKA
+33.522.635
+16.651.648
+4.895.100
+4.594.000
+16.459.356
+11.279.850
+87.402.589
+VARAŽDINSKA
+49.536.329
+25.497.795
+3.777.750
+6.067.000
+24.922.070
+7.012.766
+116.813.710
+KOPRIVNIČKO-KRIŽEVAČKA
+29.741.865
+12.231.980
+3.260.550
+6.916.000
+14.740.067
+12.323.203
+79.213.665
+BJELOVARSKO-BILOGORSKA
+30.613.608
+16.075.166
+4.317.450
+4.860.000
+13.998.662
+13.725.255
+83.590.141
+PRIMORSKO-GORANSKA
+52.369.019
+32.579.166
+5.450.150
+20.179.900
+23.682.018
+32.540.166
+166.800.419
+LIČKO-SENJSKA
+18.759.906
+5.224.725
+1.816.750
+8.460.840
+8.576.914
+7.462.076
+50.301.211
+VIROVITIČKO-PODRAVSKA
+23.395.528
+9.892.559
+2.641.500
+0
+14.763.626
+6.022.240
+56.715.453
+POŽEŠKO-SLAVONSKA
+24.951.107
+10.667.650
+2.800.150
+8.985.700
+12.664.323
+2.657.833
+62.726.763
+BRODSKO-POSAVSKA
+41.673.163
+16.513.864
+4.744.000
+7.864.100
+22.180.666
+7.917.199
+100.892.992
+ZADARSKA
+39.791.671
+21.778.954
+4.120.850
+9.532.600
+14.406.805
+24.900.305
+114.531.185
+OSJEČKO-BARANJSKA
+70.961.261
+36.628.277
+11.158.500
+20.388.700
+21.520.454
+15.662.178
+176.319.370
+ŠIBENSKO-KNINSKA
+25.545.846
+10.815.601
+7.059.650
+9.904.400
+13.678.457
+14.342.073
+81.346.027
+VUKOVARSKO-SRIJEMSKA
+42.062.695
+18.452.463
+5.311.200
+10.454.000
+22.910.520
+11.597.690
+110.788.568
+SPLITSKO-DALMATINSKA
+92.915.420
+51.111.087
+10.288.350
+26.590.100
+28.552.708
+18.929.500
+228.387.165
+ISTARSKA
+50.489.503
+23.378.251
+3.657.500
+19.211.600
+22.077.227
+32.843.367
+151.657.448
+DUBROVAČKO-NERETVANSKA
+28.871.090
+15.893.144
+2.390.700
+12.392.000
+17.605.120
+20.251.028
+97.403.082
+MEĐIMURSKA
+26.160.340
+10.576.205
+2.735.000
+6.280.000
+13.532.291
+5.311.194
+64.595.030
+GRAD ZAGREB
+129.704.539
+92.642.531
+9.589.000
+51.062.300
+42.118.268
+44.983.303
+370.099.941
+UKUPNO KUNA
+967.190.237
+472.351.825
+106.155.550
+244.059.140
+403.277.348
+330.930.628
+2.523.964.728
+PREGLED SREDSTAVA ZA DECENTRALIZIRANU FUNKCIJU VATROGASTVA PO OPĆINAMA/GRADOVIMA U 2011. GODINI
+Tablica 3. općine/gradovi
+Red.
+broj
+Osnivači i suosnivači javnih
+vatrogasnih postrojbi gradovi/općine
+Naziv javne
+vatrogasne postrojbe
+Ukupno
+kuna
+1
+2
+3
+4
+1.
+Grad Zagreb
+JVP ZAGREB
+44.983.303
+2.
+Grad Zaprešić
+JVP ZAPREŠIĆ
+4.243.085
+3.
+Grad Samobor
+JVP SAMOBOR
+3.122.616
+4.
+Grad Velika Gorica
+JVP VELIKA GORICA
+5.122.138
+5.
+Grad Ivanić Grad
+JVP IVANIĆ GRAD
+3.975.266
+6.
+ZAGORSKA JVP
+7.989.870
+Grad Zabok (8,96%)
+715.892
+Grad Klanjec (3,09%)
+246.887
+Grad Oroslavje (5,98%)
+477.794
+Grad Pregrada (6,85%)
+547.306
+Grad Zlatar (6,22%)
+496.969
+Grad Donja Stubica (5,67%)
+453.026
+Općina Bedekovčina (8,34%)
+647.978
+Općina Budinšćina (2,67%)
+213.330
+Općina Desinić (3,33%)
+266.063
+Općina Gornja Stubica (5,48%)
+437.844
+Općina Hrašćina (1,75%)
+139.823
+Općina Konjšćina (3,90%)
+311.605
+Općina Kraljevec na Sutli (1,74%)
+139.024
+Općina Krapinske Toplice (5,49%)
+438.644
+Općina Kumrovec (1,77%)
+141.420
+Općina Marija Bistrica (6,32%)
+504.960
+Općina Stubičke Toplice (2,63%)
+210.134
+Općina Sveti Križ Začretje (6,51%)
+505.759
+Općina Tuhelj (2,15%)
+166.988
+Općina Veliko Trgovišće (5,13%)
+398.695
+Općina Zagorska Sela (1,18%)
+91.085
+Općina Zlatar Bistrica (2,78%)
+216.526
+Općina Mače (2,78%)
+222.118
+7.
+Grad Krapina
+JVP KRAPINA
+2.472.546
+8.
+Grad Sisak
+JVP SISAK
+6.502.614
+9.
+Grad Petrinja
+JVP PETRINJA
+3.892.593
+10.
+Grad Kutina
+JVP KUTINA
+3.848.674
+11.
+Grad Karlovac
+JVP KARLOVAČKA
+7.864.646
+12.
+Grad Ogulin
+JVP OGULIN
+3.415.204
+13.
+Grad Varaždin
+JVP VARAŽDIN
+7.012.766
+14.
+Grad Koprivnica
+JVP KOPRIVNICA
+5.267.088
+15.
+JVP ĐURĐEVAC
+3.943.947
+Grad Đurđevac (69,40%)
+2.737.100
+Općina Virje (10,70%)
+422.002
+Općina Kloštar Podravski (5,08%)
+200.353
+Općina Kalinovac (4,88%)
+192.464
+Općina Molve (4,05%)
+159.730
+Općina Ferdinandovac (2,97%)
+117.135
+Općina Podravske Sesvete (1,84%)
+72.569
+Općina Novo Virje (1,08%)
+42.594
+16.
+Grad Križevci
+JVP KRIŽEVCI
+3.112.168
+17.
+Grad Bjelovar
+JVP BJELOVAR
+5.950.137
+18.
+JVP DARUVAR
+3.280.334
+Grad Daruvar (78,00%)
+2.558.660
+Općina Sirač (7,00%)
+229.623
+Općina Končanica (5,00%)
+164.017
+Općina Đulovac (5,00%)
+164.017
+Općina Dežanovac (5,00%)
+164.017
+19.
+Grad Garešnica
+JVP GAREŠNICA
+2.251.793
+20.
+Grad Čazma
+JVP ČAZMA
+2.242.991
+21.
+Grad Rijeka
+JVP RIJEKA
+17.322.572
+22.
+Grad Mali Lošinj
+JVP LOŠINJ
+3.236.117
+23.
+Grad Crikvenica
+JVP CRIKVENICA
+2.284.413
+24.
+Grad Krk
+JVP KRK
+3.138.701
+25.
+JVP OPATIJA
+4.532.023
+Grad Opatija (57%)
+2.583.253
+Općina Matulji (23%)
+1.042.366
+Općina Lovran (14%)
+634.483
+Općina Mošćenička Draga (14%)
+271.921
+26.
+Grad Delnice
+JVP DELNICE
+2.026.340
+27.
+Grad Gospić
+JVP GOSPIĆ
+3.206.300
+28.
+Općina Plitvička Jezera
+JVP PLITVIČKA JEZERA
+2.178.257
+29.
+Grad Senj
+JVP SENJ
+2.077.519
+30.
+Grad Virovitica
+JVP VIROVITICA
+3.209.364
+31.
+Grad Slatina
+JVP SLATINA
+2.812.876
+32.
+Grad Požega
+JVP POŽEGA
+2.657.833
+33.
+Grad Slavonski Brod
+JVP SLAVONSKI BROD
+7.917.199
+34.
+Grad Zadar
+JVP ZADAR
+14.803.221
+35.
+Grad Biograd na Moru
+JVP BIOGRAD
+3.227.216
+36.
+Grad Benkovac
+JVP BENKOVAC
+3.105.221
+37.
+Općina Gračac
+JVP GRAČAC
+3.764.647
+38.
+Grad Osijek
+JVP OSIJEK
+12.889.992
+39.
+Grad Beli Manastir
+JVP BELI MANASTIR
+2.772.186
+40.
+Grad Šibenik
+JVP ŠIBENIK
+8.409.522
+41.
+Grad Drniš
+JVP DRNIŠ
+2.569.294
+42.
+Grad Knin
+JVP KNIN
+3.363.257
+43.
+Grad Vinkovci
+JVP VINKOVCI
+3.569.412
+44.
+Grad Vukovar
+JVP VUKOVAR
+5.961.378
+45.
+Grad Ilok
+JVP ILOK
+2.066.900
+46.
+Grad Split
+JVP SPLIT
+16.124.043
+47.
+Grad Imotski
+JVP IMOTSKI
+2.805.457
+48.
+JVP PULA
+10.113.902
+Grad Pula - Pola (68,92%)
+6.970.502
+Općina Barban (3,27%)
+330.725
+Općina Fažana - Fasana (3,78%)
+382.306
+Općina Ližnjan - Lisignano (3,45%)
+348.929
+Općina Marčana (4,59%)
+464.228
+Općina Medulin (6,88%)
+695.836
+Općina Svetvinčenat (2,61%)
+263.973
+Grad Vodnjan - Dignano (6,50%)
+657.403
+49.
+JVP PAZIN
+3.838.601
+Grad Pazin (49,29%)
+1.892.045
+Općina Cerovlje (9,55%)
+366.587
+Općina Gračišće (7,66%)
+294.037
+Općina Lupoglav (5,15%)
+197.688
+Općina Karojba (7,73%)
+296.724
+Općina Motovun - Montona (5,78%)
+221.871
+Općina Tinjan (9,58%)
+367.738
+Općina Sveti Petar u Šumi (5,26%)
+201.911
+50.
+JVP POREČ
+4.075.247
+Grad Poreč - Parenzo (67,18%)
+2.737.751
+Općina Sveti Lovreč (1,49%)
+60.721
+Općina Višnjan - Visignano (2,61%)
+106.364
+Općina Kaštelir - Labinci - Castelliere-S. Domenica (1,36%)
+55.423
+Općina Vižinada - Visinada (1,44%)
+58.684
+Općina Vrsar - Orsera (13,50%)
+550.158
+Općina Funtana - Fontane (5,70%)
+232.289
+Općina Tar - Vabriga - Torre - Abrega (6,72%)
+273.857
+51.
+JVP ROVINJ
+3.749.833
+Grad Rovinj - Rovigno (88,17%)
+3.306.229
+Općina Bale - Valle (2,10%)
+78.746
+Općina Kanfanar (3,20%)
+119.994
+Općina Žminj (6,53%)
+244.864
+52.
+JVP LABIN
+3.512.047
+Grad Labin (49,90%)
+1.752.511
+Općina Pićan (8,20%)
+287.987
+Općina Raša (15,90%)
+558.416
+Općina Kršan (13,20%)
+463.590
+Općina Sveta Nedelja (12,80%)
+449.543
+53.
+JVP BUZET
+2.806.488
+Grad Buzet (80%)
+2.245.191
+Općina Lanišće (20%)
+561.297
+54.
+JVP UMAG
+4.747.249
+Grad Umag - Umago (51,70%)
+2.454.327
+Grad Novigrad - Cittanova (13,70%)
+650.373
+Grad Buje - Buie (22,65%)
+1.075.252
+Općina Grožnjan - Grisignana (3,65%)
+173.275
+Općina Brtonigla - Verteneglio (5,85%)
+277.714
+Općina Oprtalj - Portole (2,45%)
+116.308
+55.
+Grad Dubrovnik
+JVP DUBROVAČKI VATROGASCI
+9.274.170
+56.
+Općina Konavle
+JVP KONAVLE
+2.258.636
+57.
+Općina Dubrovačko primorje
+JVP DUBROVAČKO PRIMORJE
+2.093.371
+58.
+Grad Ploče
+JVP PLOČE
+2.380.456
+59.
+Grad Metković
+JVP METKOVIĆ
+2.197.246
+60.
+Općina Mljet
+JVP MLJET
+2.047.149
+61.
+Grad Čakovec
+JVP ČAKOVEC
+5.311.194
+S V E U K U P N O
+330.930.628

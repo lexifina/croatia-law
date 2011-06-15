@@ -1,0 +1,3 @@
+# Članak 1.
+U Uredbi o načinu izračuna iznosa pomoći izravnanja za decentralizirane funkcije jedinica lokalne i područne (regionalne) samouprave za 2011. godinu (»Narodne novine«, broj 29/2011), u Zbirnom pregledu sredstava za decentralizirane funkcije u 2011. godini po županijama Tablica 1., mijenjaju se iznosi u stupcu 7 Vatrogastvo - Javne vatrogasne postrojbe (obveza općina i gradova), te iznosi u stupcu 8 (2+3+4+5+6+7). Sveukupne obveze za decentralizirane funkcije. Iznosi se mijenjaju i u Pregledu sredstava za decentraliziranu funkciju vatrogastva po općinama/gradovima u 2011. godini Tablica 3. općine/gradovi.
+Iznosi se mijenjaju na način kako je to navedeno u Tablici 1. i Tablici 3. općine/gradovi, koje su sastavni dio ove Uredbe.

@@ -1,0 +1,1 @@
+Na temelju članka 45.a stavka 2. Zakona o financiranju jedinica lokalne i područne (regionalne) samouprave (»Narodne novine«, br. 117/93, 69/97, 33/2000, 73/2000, 127/2000, 59/2001, 107/2001, 117/2001, 150/2002, 147/2003, 132/2006, 26/2007 i 73/2008), Vlada Republike Hrvatske je na sjednici održanoj 9. lipnja 2011. godine donijela
