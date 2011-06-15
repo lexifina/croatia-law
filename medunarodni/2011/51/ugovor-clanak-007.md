@@ -1,0 +1,10 @@
+# Članak 7.
+PRIKRIVENI ISTRAŽITELJI
+(1) U cilju dobivanja, prikupljanja i prosudbe informacija o kaznenim djelima i njihovim izvršiteljima ugovorne stranke mogu na temelju prethodno podnesenog zahtjeva a sukladno nacionalnim zakonodavstvima pružiti pomoć razmještajem svojih policijskih službenika koji djeluju pod izmijenjenim identitetom. Zamolba mora biti obrazložena te iz nje mora proizlaziti da bi prikupljanje informacija bez takve mjere bilo nemoguće ili znatno otežano.
+(2) Aktivnosti policijskih službenika iz stavka 1. ovoga članka ograničene su na razdoblje prije početka kaznenog progona, sukladno nacionalnom zakonodavstvu ugovorne stranke na čijem se državnom području navedene aktivnosti obavljaju. Pripremanje djelovanja odvija se na temelju dogovora između sudjelujućih tijela zamoljene ugovorne stranke i ugovorne stranke moliteljice. Aktivnosti se provode pod vodstvom policijskog službenika zamoljene ugovorne stranke. Na temelju zahtjeva jedne od ugovornih stranaka moraju se navedene aktivnosti obustaviti bez odgađanja.
+(3) Zamoljena ugovorna stranka će poduzeti sve potrebne mjere za zaštitu policijskih službenika ugovorne stranke moliteljice za vrijeme njihovog djelovanja na državnom području zamoljene ugovorne stranke, te će pružiti potrebnu kadrovsku, logističku i tehničku pomoć.
+(4) Nadležna tijela ugovorne stranke na čijem se državnom području djelovanje odvijalo, trebaju biti bez odgađanja i u pisanom obliku obaviještena o djelovanju i rezultatima djelovanja policijskih službenika koji obavljaju zadatke sukladno stavku 1. ovoga članka.
+(5) Policijski službenici koji obavljaju poslove iz stavka 1. ovoga članka, mogu na državnom području druge ugovorne stranke djelovati isključivo prema uvjetima koje utvrđuju nadležna tijela te ugovorne stranke.
+(6) Zamolbe iz stavka 1. ovoga članka upućuju se:
+u Republici Hrvatskoj: Ministarstvu unutarnjih poslova Republike Hrvatske/Ravnateljstvu policije,
+u Slovačkoj Republici: Ministarstvu unutarnjih poslova Slovačke Republike/Ravnateljstvu policije.
