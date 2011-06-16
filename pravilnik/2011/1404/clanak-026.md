@@ -1,0 +1,4 @@
+# Članak 26.
+(1) Iznimno od odredbi članaka 22., 23. i 24. ovoga Pravilnika, svaki sastojak upotrijebljen u proizvodnji hrane, a koji je još uvijek prisutan u gotovom proizvodu, čak i u promijenjenom obliku, a naveden je u Prilogu 3. ovoga Pravilnika ili potječe od sastojka navedenog u Prilogu 3. ovoga Pravilnika mora biti naveden na način koji jasno upućuje na naziv tog sastojka.
+(2) Način označavanja iz stavka 1. ovoga članka nije potreban ako naziv hrane pod kojim se hrana stavlja na tržište jasno upućuje na taj sastojak.
+(3) Iznimno od odredbi članka 19. stavka 3. točaka 2., 3., 4. i 5. ovoga Pravilnika, svaka tvar upotrijebljena u proizvodnji hrane, a koja je još uvijek prisutna u gotovom proizvodu, čak i u promijenjenom obliku, a potječe od sastojaka navedenih u Prilogu 3. ovoga Pravilnika, smatra se sastojkom i mora biti navedena na način koji jasno upućuje na naziv sastojka iz kojeg potječe.

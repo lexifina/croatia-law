@@ -1,0 +1,6 @@
+# Članak 29.
+Iznimno od odredbi članka 28. stavka 1. ovoga Pravilnika:
+1. količina sastojka ili kategorije sastojaka, kod hrane koja je pri zagrijavanju ili drugačijoj preradi izgubila vodu, mora odgovarati količini sastojka ili kategorije sastojaka u gotovom proizvodu i biti izražena kao postotak (%). U slučajevima kada količina sastojka ili kategorije sastojaka izražena kao postotak prelazi 100%, količina mora biti izražena kao masa sastojka ili kategorije sastojaka koja se koristi za proizvodnju 100 g gotovog proizvoda;
+2. količina hlapivih sastojaka ili kategorije sastojaka mora odgovarati količini sastojka ili kategorije sastojaka u gotovom proizvodu i biti izražena kao postotak (%);
+3. količina sastojka ili kategorije sastojaka upotrijebljenih u koncentriranom ili dehidriranom obliku, koji se za vrijeme proizvodnje rekonstituiraju, može se navoditi prema njihovom masenom udjelu koji su imali prije koncentriranja ili dehidriranja izraženom kao postotak (%);
+4. količina sastojka ili kategorije sastojaka, kod hrane koja se prodaje u koncentriranom ili dehidriranom obliku, a namijenjena je za otapanje ili razrjeđivanje prije upotrebe, može se navoditi prema njihovom masenom udjelu u rekonstituiranoj hrani izraženom kao postotak (%).
