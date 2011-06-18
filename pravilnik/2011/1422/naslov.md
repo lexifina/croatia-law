@@ -1,0 +1,1 @@
+Pravilnik o izuzimanju malih količina svježeg mesa podrijetlom od jata tovnih pilića i purana namijenjenih izravnoj opskrbi krajnjih potrošača iz primjene Pravilnika za kontrolu salmonela i drugih određenih uzročnika zoonoza koji se prenose hranom

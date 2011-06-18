@@ -1,0 +1,3 @@
+[1] Ovim se Pravilnikom preuzimaju odredbe Uredbe Komisije (EU) br. 199/2009 od 13. ožujka 2009. godine o donošenju prijelazne mjere koja odstupa od Uredbe (EZ) br. 2160/2003 Europskoga parlamenta i Vijeća u pogledu izravne isporuke manjih količina svježeg mesa dobivenog od jata brojlera i purana.
+[2] Pravilnikom su preuzete odredbe Uredbe (EZ) br. 2160/2003 Europskog parlamenta i Vijeća od 17. studenoga 2003. godine o kontroli salmonele i drugih određenih zoonoza uzrokovanih hranom.
+[3] Pravilnikom su preuzete odredbe Uredbe (EZ) br. 853/2004 Europskog parlamenta i Vijeća od 29. travnja 2004. godine o higijeni hrane životinjskog podrijetla.
