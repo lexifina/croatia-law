@@ -1,0 +1,3 @@
+# Članak 9.
+Agencija će za provedbu javne ponude dionica trgovačkog društva, sukladno Zakonu o javnoj nabavi, angažirati ovlaštenu osobu koja mora imati ovlaštenje HANFE za obavljanje investicijskih usluga provedbe ponude, odnosno prodaje financijskih instrumenata uz obvezu ili bez obveze otkupa.
+Agencija može pri izboru ovlaštene osobe iz stavka 1. ovoga članka, za provođenje javne ponude dati prednost ovlaštenoj osobi koja je radila procjenu vrijednosti, odnosno analizu financijskog, pravnog i organizacijskog položaja trgovačkog društva, ukoliko ona zadovoljava uvjete iz stavka 1. ovoga članka.

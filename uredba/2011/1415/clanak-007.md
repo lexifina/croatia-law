@@ -1,0 +1,3 @@
+# Članak 7.
+Nakon procjene vrijednosti trgovačkog društva, odluku o prodaji, načinu prodaje, uvjetima prodaje i početnoj cijeni, ovisno o vrijednosti dionica ili poslovnih udjela sukladno članku 33. Zakona donosi Vlada Republike Hrvatske na prijedlog Upravnog vijeća Agencije, odnosno Upravno vijeće na prijedlog ravnatelja Agencije, odnosno ravnatelj Agencije.
+Odluku o posebnim uvjetima prodaje dionica ili poslovnih udjela trgovačkih društava u poteškoćama sukladno članku 34. stavku 4. Zakona donosi Vlada Republike Hrvatske na prijedlog Upravnog vijeća Agencije, bez obzira na nominalnu vrijednost dionica ili poslovnih udjela.
