@@ -1,0 +1,4 @@
+## Cilj
+# Članak 1.
+(1) Ovim Pravilnikom se utvrđuje cilj za smanjenje Salmonelle spp. u odraslih rasplodnih jata vrste Gallus gallus u smislu članka 4. Pravilnika za kontrolu salmonela i drugih određenih uzročnika zoonoza koji se prenose hranom (»Narodne novine«, broj 105/06)[2] i to kao smanjenje maksimalnog postotka odraslih rasplodnih jata vrste Gallus gallus koje ostaju pozitivne na bakterije Salmonella enteritidis, Salmonella infantis, Salmonella hadar, Salmonella typhimurium i Salmonella virchow (relevantni serotipovi salmonele), na 1% ili manje. Ukoliko se u zemlji nalazi manje od 100 odraslih rasplodnih jata, pozitivno na relevantne serotipove salmonele može ostati samo jedno jato godišnje.
+(2) Shema testiranja za provjeru ostvarenosti cilja iz stavka 1. ovoga članka navedena je u Dodatku ovoga Pravilnika.
