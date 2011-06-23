@@ -1,0 +1,1 @@
+Na temelju članka 53. stavka 2. Zakona o izmjenama i dopunama Zakona o patentu (»Narodne novine« broj 76/07), a u svezi s Odlukom Vlade Republike Hrvatske o visini naknade članovima povjerenstava, vijeća, savjeta, radnih skupina i drugih sličnih tijela, donesene na sjednici održanoj 5. svibnja 2011. godine, ministar gospodarstva, rada i poduzetništva donosi
