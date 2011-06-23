@@ -1,0 +1,1 @@
+Na temelju članka 12. stavka 2., članka 13. i članka 42. stavka 3. točke 6. Zakona o Hrvatskoj narodnoj banci (»Narodne novine«, br. 75/2008.) Savjet Hrvatske narodne banke na sjednici održanoj 8. lipnja 2011. donio je
