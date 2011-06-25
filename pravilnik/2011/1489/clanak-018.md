@@ -1,0 +1,3 @@
+## Zahtjevi za provođenje stručne kontrole za proizvodnju hrane i proizvoda biljnog i životinjskog podrijetla
+# Članak 18.
+Ukoliko se radi o jedinici koja proizvodi za vlastite potrebe ili za treću stranu, uključujući jedinice za pakiranje i/ili ponovno pakiranje takvih proizvoda, ili jedinice za označavanje i/ili ponovno označavanje takvih proizvoda, detaljni opis jedinice iz članka 2. stavka 1. točke a) ovoga Pravilnika mora sadržavati opis objekata koji se koriste za prijem, preradu, pakiranje, označavanje i skladištenje poljoprivrednih proizvoda prije i nakon radnji koje se na njih odnose, kao i postupke za prijevoz proizvoda.
