@@ -1,0 +1,2 @@
+# Članak 12.
+Ugovorne stranke će nastaviti s učinkovitom suradnjom između njihovih nadležnih tijela, te trebaju, u okvirima nacionalnog zakonodavstva njihovih država, promicati suradnju između organizacija i trgovačkih društava koji u njihovim državama djeluju u području pomorskog prijevoza, uključujući međusobne konzultacije i razmjenu informacija između njihovih brodarskih organizacija i kompanija.

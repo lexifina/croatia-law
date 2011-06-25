@@ -1,0 +1,5 @@
+# Članak 9.
+1. Ako brod jedne od ugovornih stranaka pretrpi brodolom, bude nasukan, izbačen na obalu ili pretrpi neku drugu nezgodu u teritorijalnom moru ili unutarnjim morskim vodama države druge ugovorne stranke, brod, njegova posada, putnici i teret imat će, na državnom području države te druge ugovorne stranke, isti tretman koji se odobrava njezinim vlastitim brodovima, posadi, putnicima i teretu.
+2. Ugovorna stranka će u svako doba pružiti zaštitu i pomoć posadi i putnicima, kao i brodu druge ugovorne stranke i njegovom teretu, u istoj mjeri kao i njezinim vlastitim brodovima.
+3. Odredbe ovoga članka ne utječu na prava jedne od ugovornih stranaka ili pravnih odnosno fizičkih osoba koje je ovlastila ta ugovorna stranka, na naknadu za bilo koju radnju poduzetu prigodom spašavanja broda ili bilo kakvu pomoć pruženu brodu, posadi, putnicima i teretu.
+4. Ako je brod oštećen, njegov teret i predmeti iskrcani ili spašeni s broda u slučajevima iz stavka 1. ovoga članka neće podlijegati plaćanju bilo kakvih carina, pod uvjetom da isti nisu pušteni u slobodan promet na državnom području države druge ugovorne stranke.
