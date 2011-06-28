@@ -1,0 +1,4 @@
+# Članak 4.
+Članak 28. stavak 2. mijenja se i glasi:
+»(2) Priređivač koji ima pravo priređivanja igara na sreću na automatima iz članka 5. stavka 1. točke 4. Zakona može te igre priređivati i na uplatnim mjestima kladionica koje imaju odobrenje za primanje uplata klađenja. Na uplatno mjesto kladionice iz članka 36. stavka 1. ovoga Pravilnika može se postaviti najviše dva automata s jednim igraćim (sjedećim) mjestom, istog priređivača iz gore navedenoga članka Zakona, nakon što su ispunjeni uvjeti propisani odredbama Zakona i ovoga Pravilnika i nakon dobivenog odobrenja Ministarstva financija. Prostor za postavljanje automata mora biti najmanje 2 m2.«
+U članku 28. stavak 3. riječi »obrazovnih ustanova (osnovne i srednje škole) zamjenjuju se riječima »redovne osnovne (peti do osmi razred) i srednje škole.«
