@@ -1,0 +1,1 @@
+Na temelju članka 97. Zakona o financiranju jedinica lokalne i područne (regionalne) uprave i samouprave (»Narodne novine« br. 117/93, 33/00, 73/00, 59/01, 107/01, 117/01 - ispravak, 150/02, 147/03, 132/06, 26/07 - Odluka USRH i 73/08 - dalje u tekstu: Zakon), donosim
