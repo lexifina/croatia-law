@@ -1,0 +1,1 @@
+Na temelju članka 30. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine« br. 101/98, 15/2000, 117/2001, 199/2003, 30/2004, 77/2009 i 145/2010) i članka 10. stavka 3. Zakona o odgoju i obrazovanju u osnovnoj i srednjoj školi (»Narodne novine«, br. 87/2008, 86/2009, 92/2010 i 105/2010), Vlada Republike Hrvatske je na sjednici održanoj 2. lipnja 2011. godine donijela
