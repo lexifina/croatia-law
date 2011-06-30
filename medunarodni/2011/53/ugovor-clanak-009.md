@@ -1,0 +1,2 @@
+# Članak 9.
+Stranke će diplomatskim putem obavijestiti ministarstva vanjskih poslova država primateljica navedenih u članku 1. ovoga Sporazuma o pružanju konzularne pomoći i zastupanju u izdavanju viza predviđenim ovim Sporazumom, u skladu s odredbama članka 46. Bečke konvencije o diplomatskim odnosima od 18. travnja 1961. godine i članka 8. Bečke konvencije o konzularnim odnosima od 24. travnja 1963. godine.

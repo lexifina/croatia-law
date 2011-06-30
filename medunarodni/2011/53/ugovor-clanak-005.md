@@ -1,0 +1,4 @@
+# Članak 5.
+1. Diplomatska misija ili konzularni ured Republike Hrvatske obavijestit će bez odgode, nakon primitka obavijesti od nadležnih tijela države primateljice, nadležno tijelo Crne Gore o svakom smrtnom slučaju državljanina Crne Gore te, ovisno o propisima države primateljice i uz pristanak najbližih srodnika preminulog, pružiti pomoć u postupku prijenosa posmrtnih ostataka u Crnu Goru uključujući i izdavanje sprovodnice.
+2. Predstavnici diplomatske misije ili konzularnog ureda Republike Hrvatske, prema potrebi i na zahtjev nadležnoga tijela Crne Gore, posjetit će ozbiljno oboljelog državljanina Crne Gore u državi primateljici i pružiti odgovarajuću pomoć.
+3. Diplomatska misija ili konzularni ured Republike Hrvatske obavijestit će bez odgode nadležno tijelo Crne Gore u slučaju da je državljanin Crne Gore postao žrtva nasilja ili trgovine ljudima i takvoj osobi pružiti svu potrebnu pomoć i zaštitu.
