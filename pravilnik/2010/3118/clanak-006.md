@@ -1,0 +1,5 @@
+## Prethodna obavijest o pošiljci
+# Članak 6.
+(1) Subjekt u poslovanju s hranom ili njegov predstavnik odgovoran za pošiljku mora dostaviti prethodnu obavijest o predviđenom datumu i vremenu fizičkog dolaska pošiljke na mjesto prvog unosa (FPI) i prirodi pošiljke.
+(2) U svrhu dostave obavijesti iz stavka 1. ovoga članka subjekt u poslovanju s hranom ili njegov predstavnik odgovoran za pošiljku mora ispuniti Dio I. Zajedničkog ulaznog dokumenta (CED) iz Dodatka 1. Pravilnika o povećanom broju službenih kontrola hrane i hrane za životinje neživotinjskog podrijetla koja predstavlja poznatu ili prijeteću opasnost pri uvozu (»Narodne novine« br. 119/10)[3] te ga dostaviti osobi ovlaštenoj za provođenje službene kontrole na mjesto prvog unosa (FPI) najmanje jedan radni dan prije fizičkog dolaska pošiljke.
+(3) Subjekt u poslovanju s hranom popunjava zajednički ulazni dokument (CED) iz stavka 2. ovog članka prema smjernicama propisanima u Dodatku 3. koji je tiskan uz ovaj Pravilnik i njegov je sastavni dio.
