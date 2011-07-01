@@ -1,0 +1,4 @@
+# Članak 12.
+(1) Pravna osoba koja je na temelju rješenja iz članka 11. stavka 1. ovoga Zakona brisana iz evidencije može podnijeti zahtjev za izdavanje rješenja iz članka 5. stavka 1. ovoga Zakona nakon proteka roka od dvije godine od dana kada je rješenje iz članka 11. stavka 1. ovoga Zakona postalo pravomoćno.
+(2) Pravna osoba iz stavka 1. ovoga članka koja je brisana iz evidencije ne može povremeno prikupljati i pružati humanitarnu pomoć, kao ni organizirati humanitarnu akciju.
+(3) Pravna i fizička osoba iz članka 7. stavka 1. i 2. ovoga Zakona koja nije u određenom roku otklonila nepravilnost utvrđenu u izvješću o povremenom prikupljanju i pružanju humanitarne pomoći te provedenoj humanitarnoj akciji ne može dobiti prethodnu suglasnost iz članka 7. stavka 3. ovoga Zakona dok ne otkloni tu nepravilnost.

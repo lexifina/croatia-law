@@ -1,0 +1,9 @@
+# Članak 7.
+(1) Domaće i strane neprofitne pravne osobe, kojima prikupljanje i pružanje humanitarne pomoći nije djelatnost, mogu povremeno prikupljati i pružati humanitarnu pomoć uz prethodnu suglasnost nadležnog ureda.
+(2) Neprofitne i profitne pravne osobe te fizičke osobe s prebivalištem u Republici Hrvatskoj mogu organizirati humanitarne akcije uz prethodnu suglasnost nadležnog ureda.
+(3) Pravne i fizičke osobe iz stavka 1. i 2. ovoga članka obvezne su podnijeti zahtjev za davanje prethodne suglasnosti nadležnom uredu najmanje 30 dana prije planiranog početka aktivnosti.
+(4) Podnositelj zahtjeva iz stavka 1. i 2. ovoga članka obvezan je priložiti podatke o fizičkoj osobi, odnosno neprofitnoj ili profitnoj pravnoj osobi koja podnosi zahtjev, o planu prikupljanja i pružanja humanitarne pomoći ili organiziranja humanitarne akcije, o području na kojem će prikupljati i pružati pomoć, o očekivanom trajanju, o ciljnim skupinama ili osobama te o planiranim troškovima i očekivanom prihodu te uvjerenje, ne starije od tri mjeseca, da se protiv fizičke osobe, odnosno odgovorne osobe u pravnoj osobi ne vodi kazneni postupak.
+(5) Nadležni ured obvezan je po službenoj dužnosti pribaviti dokaz da odgovornoj osobi podnositelju zahtjeva nije izrečena sigurnosna mjera zabrane obavljanja zvanja, djelatnosti ili dužnosti.
+(6) Nadležni ured odbit će zahtjev za davanje prethodne suglasnosti iz stavka 1. i 2. ovoga članka ako podnositelj zahtjeva ne ispunjava uvjete iz stavka 4. ovoga članka.
+(7) Nadležni ured odbit će zahtjev za davanje prethodne suglasnosti iz stavka 2. ovoga članka ako procijeni da planirane aktivnosti ne opravdavaju svrhu ili dobit od humanitarne akcije.
+(8) Obrasce zahtjeva za davanje prethodne suglasnosti iz stavka 1. i 2. ovoga članka propisat će pravilnikom ministar.

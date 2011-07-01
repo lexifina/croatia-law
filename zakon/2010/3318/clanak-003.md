@@ -1,0 +1,5 @@
+# Članak 3.
+(1) Humanitarna pomoć iz članka 2. ovoga Zakona može se osigurati prikupljanjem i pružanjem humanitarne pomoći, povremenim prikupljanjem i pružanjem humanitarne pomoći te organiziranjem humanitarnih akcija.
+(2) Pod prikupljanjem i pružanjem humanitarne pomoći u smislu ovoga Zakona podrazumijevaju se sve vrste prikupljanja i pružanja humanitarne pomoći od strane neprofitnih pravnih osoba kojima je prikupljanje i pružanje humanitarne pomoći djelatnost.
+(3) Pod povremenim prikupljanjem i pružanjem humanitarne pomoći u smislu ovoga Zakona podrazumijeva se jednokratno prikupljanje humanitarne pomoći od strane neprofitnih pravnih osoba kojima prikupljanje humanitarne pomoći nije djelatnost, koje se može provesti jednom godišnje u trajanju do 60 dana.
+(4) Pod organiziranjem humanitarnih akcija u smislu ovoga Zakona podrazumijeva se organizirano prikupljanje humanitarne pomoći od strane neprofitnih pravnih osoba kojima prikupljanje humanitarne pomoći nije djelatnost i profitnih pravnih osoba te fizičkih osoba, za utvrđenog korisnika, koje se može provesti najviše tri puta godišnje u trajanju svake pojedine akcije do 30 dana.
