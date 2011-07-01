@@ -1,0 +1,6 @@
+## STRUKTURALNA STABILNOST I OSIGURANJE FUNKCIONALNOSTI
+# Članak 5.
+Građevine za odvodnju otpadnih voda, osim tlačnih cjevovoda, crpnih stanica, uređaja za pročišćavanje otpadnih voda, uređaja za obradu mulja nastalog u postupku pročišćavanja otpadnih voda, laguna, preljevnih građevina, retencijskih bazena, sabirnih jama, ispusta u prijemnik moraju se tijekom građenja i uporabe podvrgnuti kontroli ispravnosti strukturalne stabilnosti i osiguranja funkcionalnosti koja se dokazuje CCTV inspekcijom sukladno normi Uvjeti za sustave odvodnje izvan zgrada - 2. dio: Sustav kodiranja optičkog nadzora HRN EN 13508-2/AC.
+Tlačni cjevovodi, crpne stanice, uređaji za pročišćavanje otpadnih voda, uređaji za obradu mulja nastalog u postupku pročišćavanja otpadnih voda, lagune, preljevne građevine, retencijski bazeni, ispusti u prijemnik moraju se tijekom uporabe kontrolirati na ispravnost strukturalne stabilnosti i osiguranja funkcionalnosti vizualnim pregledom.
+Vizualni pregled iz stavka 2. ovoga članka uključuje pregled svih vidljivih oštećenja i vidljivih poremećaja funkcionalnosti.
+Kao podloga za kontrolu i dokaz ispravnosti strukturalne stabilnosti i osiguranja funkcionalnosti iz stavka 1. i 2. ovoga članka potrebna je baza podataka s preglednom situacijom.

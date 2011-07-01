@@ -1,0 +1,8 @@
+# Članak 4.
+Građevine za odvodnju otpadnih voda i to: crpne stanice, uređaji za pročišćavanje otpadnih voda, uređaji za obradu mulja nastalog u postupku pročišćavanja otpadnih voda, lagune, preljevne građevine, retencijski bazeni i druge slične građevine (sabirne jame) moraju se projektirati i graditi tako da se osigura vodonepropusnost istih sukladno normi Opskrba vodom - zahtjevi za sustave i dijelove sustava za pohranu vode HRN EN 1508.
+Ispusti u prijemnik, osim obalnih ispusta kraćih od 10 m moraju se projektirati i graditi tako da se osigura vodonepropusnost istih sukladno normi Opskrba vodom - zahtjevi za sustave i dijelove izvan zgrada HRN EN 805.
+Veliki kanali unutarnjeg profila 120 cm i većeg profila ili protočne površine veće od 1 m2 moraju se projektirati i graditi tako da se osigura kontrola vodonepropusnosti vizualnim pregledom.
+Ispitivanja vodonepropusnosti za građevine za odvodnju otpadnih voda iz stavka 1., 2. i 6. ovoga članka, osim vizualnog pregleda, mora obavljati ovlaštena osoba za ispitivanje vodonepropusnosti građevina za odvodnju i pročišćavanje otpadnih voda sukladno članku 221. stavak 2. Zakona o vodama, a kao podloga za provedbu ispitivanja potrebna je baza podataka sa preglednom situacijom.
+Građevine za odvodnju otpadnih voda iz stavka 1., 2. i 3. ovoga članka, osim sabirnih jama, moraju se tijekom uporabe kontrolirati na vodonepropusnost vizualnim pregledom.
+Sabirne jame moraju se tijekom uporabe kontrolirati na vodonepropusnost sukladno normi Opskrba vodom - zahtjevi za sustave i dijelove sustava za pohranu vode HRN EN 1508.
+Vizualni pregled iz stavka 3. i 5. ovoga članka uključuje pregled pravca i nivelete kanala, spojeve, oštećenja i deformacije, spojeve priključaka, obloge i premaze.
