@@ -1,0 +1,11 @@
+OKVIRNI BROJ DRŽAVNIH SLUŽBENIKA U STRUČNOJ SLUŽBI SAVJETA ZA NACIONALNE MANJINE
+POLOŽAJ I RADNO MJESTO
+SLUŽBENICI
+savjetnik u Vladi i Vladinom uredu
+3
+viši upravni referent
+1
+administrativni tajnik
+1
+UKUPNI BROJ IZVRŠITELJA
+5
