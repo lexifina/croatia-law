@@ -1,0 +1,5 @@
+# Članak 1.
+U Uredbi o visini vodnoga doprinosa (»Narodne novine«, broj 78/2010) u članku 2. točka 3. mijenja se i glasi:
+»Poslovne građevine« su zatvoreni prostori (prostorije) koji su namijenjeni prometu roba, radova i usluga, kao npr. trgovine, prodajni centri i druge građevine slične namjene, osim proizvodnih građevina iz točke 7. ovoga članka;«.
+Točka 7. mijenja se i glasi:
+»Proizvodne građevine« su zatvoreni prostori (prostorije), proizvodne i servisne hale i skladišta, namijenjeni za proizvodne, industrijske i servisne svrhe (doradu, popravak, remont, održavanje i slično), te gospodarske građevine namijenjene obavljanju djelatnosti poljoprivrede, šumarstva i ribarstva; s proizvodnim građevinama izjednačene su prostorije za istraživanja i ispitivanja (laboratoriji i druge slične prostorije), prodajne ili izložbene prostorije sajmova, zatvoreni objekti komunalne infrastrukture, osim produktovoda iz točke 9. ovoga članka, zatvorene vodne građevine, osim produktovoda iz točke 9. ovoga članka, zgrade željezničkih i autobusnih kolodvora, zračnih luka i helidroma, te skladišta u morskim lukama, lukama unutarnjih voda i zračnim lukama;«.
