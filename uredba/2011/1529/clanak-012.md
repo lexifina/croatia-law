@@ -1,0 +1,5 @@
+## Zabranjene obveze u sporazumima o istraživanju i razvoju
+# Članak 12.
+Skupno izuzeće ne može se primijeniti na sljedeće obveze sadržane u sporazumima o istraživanju i razvoju:
+(a) zabranu osporavanja valjanosti prava intelektualnog vlasništva čiji su nositelji sudionici sporazuma o istraživanju i razvoju i koja su značajna za istraživanja i razvoj po završetku tog istraživanja i razvoja, ili zabranu osporavanja valjanost prava intelektualnog vlasništva čiji su nositelji sudionici sporazuma o istraživanju i razvoju i koja zaštićuju rezultate tih istraživanja i razvoja, ne isključujući pri tom raskid sporazuma o istraživanju i razvoju u slučaju kada jedan od sudionika sporazuma o istraživanju i razvoju osporava valjanost takvih prava intelektualnog vlasništva,
+(b) obvezu zabrane davanja licencije trećoj osobi za proizvodnju ugovornih proizvoda ili za primjenu ugovornih tehnologija, osim ako sporazum predviđa da barem jedan od sudionika sporazuma koristi rezultate zajedničkog istraživanja i razvoja ili plaćenog istraživanja i razvoja na tržištu na kojem djeluje treća osoba.

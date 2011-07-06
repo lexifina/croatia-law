@@ -1,0 +1,5 @@
+## Izračun tržišnog udjela za sporazume o istraživanju i razvoju
+# Članak 7.
+(1) Tržišni udjel sudionika sporazuma o istraživanju i razvoju, u smislu članka 6. ove Uredbe izračunava se na temelju vrijednosti prihoda od prodaje proizvoda i tehnologije koji su predmet sporazuma i njihovih zamjenskih proizvoda, odnosno tehnologija na tržištu. Ako podaci o vrijednosti prihoda proizvoda, odnosno tehnologija na tržištu nisu dostupni, u svrhu određivanja tržišnog udjela sudionika sporazuma o istraživanju i razvoju mogu se primijeniti procjene temeljene na drugim pouzdanim tržišnim podacima, uključujući količinu prodanih proizvoda, odnosno tehnologija koji su predmet sporazuma i njihovih zamjenskih proizvoda, odnosno zamjenskih tehnologija na mjerodavnom tržištu.
+(2) Tržišni udjel poduzetnika iz stavka 1. ovoga članka izračunava se na temelju podataka koji se odnose na kalendarsku godinu koja prethodi sklapanju sporazuma.
+(3) Tržišnom udjelu poduzetnika iz stavka 1. ovoga članka pribraja se i tržišni udjel povezanih poduzetnika sa sudionicima sporazuma ostvaren na način utvrđen stavcima 1. i 2. ovoga članka.

@@ -1,0 +1,22 @@
+## Sporazumi na koje se primjenjuje skupno izuzeće
+# Članak 3.
+(1) Skupno izuzeće primjenjuju se na horizontalne sporazume iz članka 10. stavka 2. točke 2. Zakona sklopljene između dva ili više poduzetnika koji djeluju na istoj razini proizvodnje, odnosno distribucije, a osobito na:
+a) sporazume o istraživanju i razvoju,
+b) sporazume o specijalizaciji.
+(2) Sporazum o istraživanju i razvoju iz stavka 1. točke a) ovoga članka je sporazum sklopljen između dva ili više neovisnih poduzetnika kojim su uređeni uvjeti pod kojima ti poduzetnici obavljaju:
+a) zajedničko istraživanje i razvoj ugovornih proizvoda ili tehnologija i zajedničko korištenje rezultata tih istraživanja i razvoja,
+b) zajedničko korištenje rezultata istraživanja i razvoja ugovornih proizvoda ili tehnologija do kojih su zajednički došli sukladno prethodnom sporazumu između istih poduzetnika,
+c) zajedničko istraživanje i razvoj ugovornih proizvoda ili tehnologija bez zajedničkog korištenja rezultata tih istraživanja i razvoja,
+d) plaćeno istraživanje i razvoj ugovornih proizvoda ili tehnologija i zajedničko korištenje rezultata toga istraživanja i razvoja,
+e) zajedničko korištenje rezultata plaćenog istraživanja i razvoja ugovornih proizvoda ili tehnologija sukladno prethodnom sporazumu između istih sudionika sporazuma, ili
+f) plaćeno istraživanje i razvoj ugovornih proizvoda ili tehnologija bez zajedničkog korištenja rezultata tih istraživanja i razvoja.
+(3) Pod pojmom zajedničko istraživanje i razvoj iz stavka 2. ovoga članka, smatraju se radnje koje je u cilju istraživanja i razvoja zajednički obavio tim, organizacija ili poduzetnik, odnosno radnje koje su sudionici sporazuma zajednički povjerili trećoj strani, kao i radnje koje su podijeljene između sudionika sporazuma na osnovi specijalizacije u području istraživanja i razvoja ili korištenja dobivenih rezultata.
+(4) Plaćeno istraživanje i razvoj u smislu stavka 2. ovoga članka je istraživanje i razvoj koje provodi jedan sudionik sporazuma, a drugi sudionik sporazuma osigurava financijska sredstva za to istraživanje i pri tom taj sudionik sporazuma osim financiranja ne provodi nikakve radnje vezane uz navedeno istraživanje i razvoj.
+(5) Skupno izuzeće za sporazume o istraživanju i razvoju iz stavka 2. ovoga članka primjenjuje se i na sporazume o istraživanju i razvoju koji sadrže odredbe kojima se dodjeljuju ili licenciraju prava intelektualnog vlasništva jednom ili više sudionika sporazuma, odnosno trećoj osobi koju su sudionici osnovali radi provedbe zajedničkog istraživanja i razvoja, plaćenog istraživanja i razvoja ili zajedničkog korištenja rezultata istraživanja i razvoja, pod uvjetom da odredbe o dodjeli ili licenciranju ne predstavljaju primarni predmet takvih sporazuma, već su izravno vezane i potrebne za njihovu provedbu.
+(6) Sporazum o specijalizaciji iz stavka 1. točke b) ovoga članka je horizontalni sporazum sklopljen između dva ili više neovisnih poduzetnika kojim su uređeni uvjeti pod kojima se ti poduzetnici koji su konkurenti na mjerodavnom tržištu specijaliziraju u proizvodnji proizvoda, a mogu biti:
+a) jednostrani sporazumi o specijalizaciji, na temelju kojih se jedan sudionik sporazuma obvezuje prestati proizvoditi određene proizvode ili se uzdržavati od proizvodnje tih proizvoda, odnosno obvezuje se kupovati te proizvode od drugog sudionika sporazuma, a drugi sudionik sporazuma obvezuje se proizvoditi i isporučivati te proizvode,
+b) uzajamni (recipročni) sporazumi o specijalizaciji, na temelju kojih dva ili više sudionika sporazuma na uzajamnoj osnovi u cijelosti ili djelomično prestaju ili se uzdržavaju od proizvodnje određenih, ali različitih proizvoda i kupuju te proizvode od drugih sudionika sporazuma koji se obvezuju proizvoditi i isporučivati te proizvode,
+c) sporazumi o zajedničkoj proizvodnji, na temelju kojih dva ili više sudionika sporazuma zajednički proizvode određene proizvode.
+(7) Skupno izuzeće za sporazume o specijalizaciji iz stavka 6. ovoga članka primjenjuje se i na sporazume o specijalizaciji koji sadrže odredbe kojima se dodjeljuju ili licenciraju prava intelektualnog vlasništva jednom ili više sudionika sporazuma, uz uvjet da te odredbe ne predstavljaju primarni predmet takvih sporazuma, već su izravno vezane i potrebne za njihovu provedbu.
+(8) Prava intelektualnog vlasništva u smislu stavaka 5. i 7. ovoga članka su prava industrijskog vlasništva, autorska i srodna prava.
+(9) Sudionicima sporazuma iz stavaka 2., 5., 6. i 7. ovoga članka smatraju se sudionici sporazuma i njihovi povezani poduzetnici.
