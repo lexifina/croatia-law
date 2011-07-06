@@ -1,0 +1,6 @@
+# Članak 10.
+(1) Osoba odgovorna za označavanje, mora osigurati dostupnost i točnost označenih podataka.
+(2) Osoba odgovorna za označavanje je subjekt u poslovanju sa hranom za životinje koji prvi stavlja hranu za životinje na tržište, ili kada je primjenjivo, subjekt u poslovanju s hranom za životinje pod čijim se imenom ili nazivom, hrana za životinje stavlja na tržište.
+(3) Razmjerno utjecaju koji njihove aktivnosti imaju na označavanje, subjekti u poslovanju s hranom za životinje moraju osigurati da podaci navedeni putem bilo kojeg od medija ispunjavaju zahtjeve propisane ovim Pravilnikom.
+(4) Subjekti u poslovanju s hranom za životinje odgovorni za maloprodajne ili distribucijske aktivnosti koje ne utječu na označavanje, moraju postupati s dužnom pažnjom kako bi mogli osigurati sukladnost sa zahtjevima o označavanju, posebice izbjegavanjem opskrbe hranom za životinje za koju znaju ili su mogli pretpostaviti, na temelju informacija koje posjeduju i kao stručnjaci, da navedena hrana za životinje nije sukladna navedenim zahtjevima.
+(5) Subjekti u poslovanju s hranom za životinje, unutar poslovanja pod svojom kontrolom, moraju osigurati da se pojedinosti vezane za obvezno označavanje prenose putem lanca prehrane, s ciljem da informacija bude dostupna krajnjem korisniku hrane za životinje u skladu s odredbama ovoga Pravilnika.
