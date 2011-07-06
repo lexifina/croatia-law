@@ -1,0 +1,5 @@
+## Temeljne odredbe
+# Članak 1.
+(1) Ovim se Pravilnikom propisuje način vođenja i sadržaj Registra državnih potpora poljoprivredi i ruralnom razvoju, način prijavljivanja državne potpore poljoprivredi i ruralnom razvoju radi odobrenja, te način i vrijeme izvještavanja o dodijeljenim državnim potporama u poljoprivredi i ruralnom razvoju (u daljnjem tekstu: Državna potpora).
+(2) Davatelji Državne potpore (u daljnjem tekstu: Davatelji), jesu Republika Hrvatska putem ovlaštenih pravnih osoba i središnjih tijela državne uprave, jedinice lokalne samouprave i jedinice područne (regionalne) samouprave.
+(3) Registar državnih potpora poljoprivredi i ruralnom razvoju vodi Ministarstvo poljoprivrede, ribarstva i ruralnog razvoja (u daljnjem tekstu: Ministarstvo), a sadrži podatke o odobrenim i dodijeljenim mjerama potpore poljoprivredi i ruralnom razvoju propisane Zakonom o državnoj potpori poljoprivredi i ruralnom razvoju (u daljnjem tekstu: Zakon) koje dodjeljuju Davatelji iz stavka 2. ovoga članka.
