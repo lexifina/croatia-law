@@ -1,0 +1,1 @@
+Na temelju Zakona o političkim strankama i Zakona o financiranju političkih stranaka, nezavisnih lista i kandidata (»Narodne novine« br. 1/07), osnivačka Skupština Mladih Hrvatske održana 8. srpnja 2011. godine donijela je

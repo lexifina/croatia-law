@@ -1,0 +1,2 @@
+# Članak 19.
+Skupština MH-a je najviše tijelo upravljanja strankom. Skupštinu stranke čine Predsjednik MH-a, dopredsjednici MH-a i ostali članovi Predsjedništva, članovi Nadzornog odbora, te delegati iz ustrojstvenih oblika iz članka 17. ovog Statuta. Delegati moraju činiti minimalno 50% Skupštine. Odluku o načinu određivanja i broju delegata za Skupštinu donosi Predsjedništvo MH-a, najmanje 30 dana prije održavanja Skupštine.
