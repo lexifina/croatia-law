@@ -1,0 +1,1 @@
+Na temelju članka 30. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 101/98, 15/2000, 117/2001, 199/2003, 30/2004, 77/2009 i 145/2010), a u vezi s člancima 2. i 4. stavkom 1. Zakona o međunarodnim mjerama ograničavanja (»Narodne novine«, broj 139/2008), Vlada Republike Hrvatske je na sjednici održanoj 8. travnja 2011. godine donijela
