@@ -1,0 +1,1 @@
+Na temelju članka 7. stavka 5. Pravilnika o jedinstvenom europskom broju za hitne službe (»Narodne novine«, broj 82/09.), ravnatelj Državne uprave za zaštitu i spašavanje uz prethodnu suglasnost Hrvatske agencije za poštu i elektroničke komunikacije donosi
