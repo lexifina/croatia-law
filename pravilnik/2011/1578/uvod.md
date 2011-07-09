@@ -1,0 +1,1 @@
+Na temelju članka 29. stavka 14. Zakona o kemikalijama (»Narodne novine« broj 150/05, 53/08 i 49/11) ministar zdravstva i socijalne skrbi uz suglasnost ministra gospodarstva, rada i poduzetništva donosi
