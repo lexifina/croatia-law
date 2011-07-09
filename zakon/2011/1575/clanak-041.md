@@ -1,0 +1,2 @@
+# Članak 41.
+U članku 256. stavku 1. iza riječi: »i registracije vozila« stavlja se zarez i dodaju riječi: »osim motornih i priključnih vozila za prijevoz tereta najveće dopuštene mase veće od 3500 kg, motornih vozila za prijevoz osoba koja osim sjedala za vozača imaju više od osam sjedala, vozila hitne medicinske pomoći i vozila za taksi prijevoz, koje su vlasnici dužni podvrgnuti redovitom tehničkom pregledu tijekom mjeseca u kojem ističe rok od 12 mjeseci od prvog tehničkog pregleda i registracije vozila.«.

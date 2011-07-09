@@ -1,0 +1,3 @@
+# Članak 24.
+U članku 213. stavak 3. mijenja se i glasi:
+»(3) Ako autoškola, stručni voditelj, predavač, instruktor vožnje, ovlašteni ispitivač, odnosno ovlašteni nadzornik, ne obavlja poslove u skladu s propisima, ministarstvo nadležno za unutarnje poslove zaključkom će im naložiti otklanjanje nedostataka u roku od 30 dana. Ako autoškola, stručni voditelj, predavač, instruktor vožnje, ovlašteni ispitivač, odnosno ovlašteni nadzornik, ne otkloni nedostatke u određenom roku, ministarstvo nadležno za unutarnje poslove rješenjem će autoškoli zabraniti rad, a instruktoru vožnje, predavaču ili ovlaštenom ispitivaču oduzeti dozvolu (licenciju.).«.
