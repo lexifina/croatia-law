@@ -1,0 +1,5 @@
+# Članak 10.
+Kućni ljubimci pri kretanju iz trećih zemalja, na područje Republike Hrvatske podliježu:
+(a) u slučaju pet ili manje kućnih ljubimaca, dokumentacijskom i identifikacijskom pregledu od strane carinskih službenika na ulaznom graničnom prijelazu u skladu s Pravilnikom o graničnim prijelazima za promet kućnim ljubimcima (»Narodne novine«, broj 61/09 i 83/09) u Republiku Hrvatsku;
+(b) u slučaju više od pet kućnih ljubimaca, veterinarskom pregledu koji obavlja granični veterinarski inspektor i moraju ulaziti u Republiku Hrvatsku na za to odobrenim graničnim veterinarskim postajama;
+(c) na kućne ljubimce iz točke (b) ovoga stavka primjenjuju se zahtjevi i pregledi propisani Pravilnikom o zdravstvenim zahtjevima za stavljanje u promet i uvoz životinja, sjemena, jajnih stanica i zametaka koji ne podliježu zahtjevima propisa iz Dodatka A Dijela I. Pravilnika o veterinarskim i zootehničkim pregledima određenih životinja i proizvoda u prometu s državama članicama Europske unije (»Narodne novine«, broj 85/09)³.
