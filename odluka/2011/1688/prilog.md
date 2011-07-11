@@ -1,0 +1,1 @@
+[1]Ovom Odlukom preuzimaju se odredbe Odluke Komisije broj 2008/339/EZ kojom se izmjenjuje Dodatak XI. Direktive Vijeća 2003/885/EZ o utvrđenom popisu autoriziranih laboratorija za rukovanje živim virusom slinavke i šapa
