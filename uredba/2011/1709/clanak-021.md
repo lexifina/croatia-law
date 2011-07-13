@@ -1,0 +1,2 @@
+# Članak 21.
+U odsjeku ili pododsjeku za katastarske poslove obavljaju se poslovi vođenja i održavanja pisanih dijelova katastarskih operata katastra zemljišta i katastra nekretnina, izrađuju nacrti prvostupanjskih rješenja o provođenju promjena u katastarskim operatima, vrše upisi u katastarske operate na temelju isprava, te obavljaju poslovi izdavanja podataka iz katastra zemljišta i katastra nekretnina.

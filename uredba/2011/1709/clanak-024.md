@@ -1,0 +1,2 @@
+# Članak 24.
+U ispostavama kojima poslove obavljaju samostalni izvršitelji obavljaju se poslovi zaprimanja podnesaka stranaka te poslovi na izdavanju podataka iz katastra nekretnina i katastra zemljišta (izvodi, prijepisi i potvrde i uvjerenja), izdavanju podataka (potvrda) o određenim kućnim brojevima do preuzimanja tih poslova, poslovi na planiranju obavljanja poslova i izvještavanju o obavljenim poslovima, te obavljanju drugih poslova koje odredi načelnik.

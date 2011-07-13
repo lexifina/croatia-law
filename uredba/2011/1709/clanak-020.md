@@ -1,0 +1,2 @@
+# Članak 20.
+U odsjeku ili pododsjeku za tehničku dokumentaciju obavljaju se poslovi vezani uz vođenje i održavanje tehničke dokumentacije katastra zemljišta i katastra nekretnina, poslovi vezani uz osnivanje, vođenje, održavanje i izdavanje podataka iz katastara vodova i izvorne evidencije naselja, ulica i kućnih brojeva, te poslovi vezani uz pregled i potvrđivanje parcelacijskih i drugih geodetskih elaborata i posebnih geodetskih podloga.

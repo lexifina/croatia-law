@@ -1,0 +1,9 @@
+# Članak 19.
+U odjelima za katastar nekretnina obavljaju se upravni i drugi stručni poslovi na vođenju i održavanju katastra nekretnina, vođenju i održavanju katastra zemljišta, održavanju katastra vodova do njihova preuzimanja u odjelima izvan sjedišta područnog ureda, vođenju izvorne evidencije naselja, ulica i kućnih brojeva do njezinog preuzimanja u odjelima izvan sjedišta područnog ureda, određivanju kućnih brojeva do preuzimanja tog određivanja u odjelima izvan sjedišta područnog ureda, pregledu i potvrđivanju parcelacijskih i drugih geodetskih elaborata, pregledu i potvrđivanju posebnih geodetskih podloga, izdavanju podataka iz katastra nekretnina i katastra zemljišta (izvodi, prijepisi i potvrde i uvjerenja) i izvorne evidencije naselja, ulica i kućnih brojeva u odjelima izvan sjedišta područnog ureda, izdavanju podataka iz katastra vodova do njegovog preuzimanja, izdavanju podataka (potvrda) o određenim kućnim brojevima do preuzimanja tih poslova, rješavanju upravnih stvari u prvostupanjskome postupku, praćenju i koordiniranju rada u unutarnjim ustrojstvenim jedinicama odjela, osiguravanju jedinstvenoga postupanja u poslovima iz djelokruga rada odjela, planiranju obavljanja poslova i izvještavanju o obavljenim poslovima, prikupljanju i obradi podataka za područje nadležnosti odjela i izvještavanju pročelnika, te obavljanju drugih poslova koje odredi pročelnik.
+Ako se u Odjelu za katastar nekretnina ustrojavaju unutarnje ustrojstvene jedinice, one se ustrojavaju kao:
+- Odsjek ili pododsjek za tehničku dokumentaciju
+- Odsjek ili pododsjek za katastarske poslove
+- Ispostava - Odsjek za katastar nekretnina
+- Ispostava - Pododsjek za katastar nekretnina
+- Ispostava - Odjeljak za katastar nekretnina.
+U ispostavama koje nisu ustrojene kao odsjeci, pododsjeci ili odjeljci poslove obavljaju samostalni izvršitelji.
