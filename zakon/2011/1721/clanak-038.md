@@ -1,0 +1,6 @@
+# Članak 38.
+Članak 42. mijenja se i glasi:
+»(1) Pravnu pomoć iz razloga pravičnosti može odobriti samo sud nadležan za odlučivanje u predmetnom sporu na prijedlog stranke čiji je zahtjev za odobravanje pravne pomoći, zahtjev za oslobođenje od plaćanja sudskih pristojbi ili zahtjev za oslobođenje od plaćanja troškova sudskog postupka nadležni ured odbio.
+(2) Iznimno od odredbe stavka 1. ovoga članka, sud može i prije nadležnog ureda odlučivati o zahtjevu za oslobođenje od plaćanja troškova sudskog postupka kada je to potrebno radi hitnosti postupka ili sprečavanja odugovlačenja postupka.
+(3) Prijedlog se može podnijeti prilikom pokretanja sudskog postupka ili tijekom sudskog postupka. Kada je zahtjev podnesen u tijeku postupka, sud će o tom zahtjevu odlučiti bez odgode, vodeći računa o potrebi izbjegavanja nepotrebnog odugovlačenja postupka.
+(4) Predlagatelj je dužan prijedlogu priložiti rješenje ureda kojim je odbijen njegov zahtjev za odobravanje pravne pomoći, odrediti koju vrstu pravne pomoći iz članka 44. stavka 1. ovoga Zakona traži te određeno navesti i obrazložiti razloge zbog kojih traži odobravanje pravne pomoći iz razloga pravičnosti jer će u suprotnome sud prijedlog odbaciti.«.
