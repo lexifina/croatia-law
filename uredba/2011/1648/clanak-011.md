@@ -1,0 +1,5 @@
+## Mišljenje unutarnjih revizora o sustavu financijskog upravljanja i kontrola
+# Članak 11.
+(1) U Mišljenju unutarnjih revizora o sustavu financijskog upravljanja i kontrola za područja koja su bila revidirana u prethodnoj godini navodi se mišljenje unutarnjih revizora o funkcioniranju sustava financijskog upravljanja i kontrola za revidirana područja, podaci o obavljenim unutarnjim revizijama u prethodnoj godini i podaci o preporukama unutarnje revizije iz ranijih razdoblja koje su provedene u prethodnoj godini.
+(2) Mišljenje unutarnjih revizora o sustavu financijskog upravljanja i kontrola temelji se na dokazima prikupljenima prilikom obavljanja unutarnjih revizija u prethodnoj godini i praćenju provedbe danih preporuka, uključujući i preporuke unutarnje revizije iz ranijeg razdoblja koje su provedene u prethodnoj godini.
+(3) Mišljenje unutarnjih revizora o sustavu financijskog upravljanja i kontrola za područja koja su bila revidirana u prethodnoj godini sastavlja se na obrascu iz priloga 5. ove Uredbe.

@@ -1,0 +1,4 @@
+# Članak 5.
+(1) Čelnik može od odgovornih osoba unutarnjih ustrojstvenih jedinica obveznika tražiti davanje Izjave na temelju popunjenog Upitnika, raspoloživih informacija i vlastite procjene, iz njihova djelokruga, uz koju prilažu Plan otklanjanja slabosti i nepravilnosti ako uoče slabosti i nepravilnosti, Izvješće o otklonjenim slabostima i nepravilnostima utvrđenima prethodne godine i popunjeni Upitnik za njihov djelokrug.
+(2) Čelnik može imenovati jednog ili više koordinatora za popunjavanje Upitnika, sastavljanje Plana otklanjanja slabosti i nepravilnosti te Izvješća o otklonjenim slabostima i nepravilnostima utvrđenima prethodne godine na razini obveznika.
+(3) Koordinator(i) iz stavka 2. ovoga članka odgovara na pitanja iz Upitnika na razini obveznika i pritom koristi dostavljene popunjene upitnike i drugu dokumentaciju iz stavka 1. ovoga članka ako je čelnik tražio davanje Izjave od odgovornih osoba unutarnjih ustrojstvenih jedinica obveznika.

@@ -1,0 +1,3 @@
+## IV. PRIJELAZNE I ZAVRŠNE ODREDBE
+# Članak 20.
+Obrasci: Izjava o fiskalnoj odgovornosti, koja se daje onda ako nisu uočene slabosti i nepravilnosti (prilog 1.a), Izjava o fiskalnoj odgovornosti, koja se daje onda ako su uočene slabosti i nepravilnosti (prilog 1.b), Upitnik o fiskalnoj odgovornosti (prilog 2.), Plan otklanjanja slabosti i nepravilnosti (prilog 3.), Izvješće o otklonjenim slabostima i nepravilnostima utvrđenima prethodne godine (prilog 4.) i Mišljenje unutarnjih revizora o sustavu financijskog upravljanja i kontrola (prilog 5.) tiskani su uz ovu Uredbu i sastavni su dio ove Uredbe.
