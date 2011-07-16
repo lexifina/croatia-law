@@ -1,0 +1,4 @@
+# Članak 6.
+Agencija će na temelju Zakona o javnoj nabavi odabrati sudske vještake s popisa stalnih sudskih vještaka koji će utvrđivati početnu vrijednost naknade za osnovano pravo građenja za smještajne i komercijalne građevine i druge građevine od gospodarskog i socijalnog značenja za koje se propisima, koji uređuju prostorno uređenje, formira građevna čestica.
+Početni iznos naknade za građevine iz stavka 1. ovoga članka, ovlašteni sudski vještak utvrdit će, uzimajući u obzir tržišnu vrijednost zemljišta, bruto razvijenu površinu građevina koje se sukladno propisima koji uređuju prostorno uređenje mogu graditi na tom zemljištu, te vrijednost investicije i dužinu trajanja osnovanog prava građenja, primjenom važećih pravnih pravila instituta zakupa.
+Naknadu za osnovano pravo građenja za infrastrukturne građevine utvrdit će Agencija, primjenom pravila iz stavka 2. ovoga članka.

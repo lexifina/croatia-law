@@ -1,0 +1,2 @@
+# Članak 14.
+Nakon završenog postupka javnog otvaranja ponuda, Povjerenstvo dostavlja zapisnik o javnom otvaranju ponuda zajedno sa svom pripadajućom dokumentacijom stručnim službama Agencije koje analiziraju pristigle ponude, te sastavljaju prijedlog odluke koji dostavljaju ravnatelju Agencije koji odlučuje o prijedlogu, ili ga uz svu dokumentaciju dostavljaju nadležnim tijelima iz članka 42. Zakona o upravljanju državnom imovinom, radi donošenja odluke o odabiru najpovoljnijeg ponuditelja.

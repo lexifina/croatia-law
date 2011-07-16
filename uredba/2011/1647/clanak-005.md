@@ -1,0 +1,4 @@
+# Članak 5.
+Pravo građenja na nekretninama u vlasništvu Republike Hrvatske osniva se javnim prikupljanjem ponuda, a iznimno neposrednom pogodbom.
+Pravo građenja osnovat će se javnim prikupljanjem ponuda, kad se pravo građenja osniva na nekretninama u vlasništvu Republike Hrvatske za komercijalne i smještajne građevine.
+Pravo građenja na nekretninama u vlasništvu Republike Hrvatske može se osnovati bez javnog prikupljanja ponuda, po tržišnoj vrijednosti, sukladno odredbi Zakona o upravljanju državnom imovinom kojom je ta mogućnost uređena i to isključivo u korist osoba određenih Zakonom, a u slučaju kad se pravo građenja osniva u svrhu građenja infrastrukturnih i drugih građevina od gospodarskog i socijalnog značaja za koje se propisima koji uređuju prostorno uređenje formira građevna čestica, osim komercijalnih i smještajnih građevina.
