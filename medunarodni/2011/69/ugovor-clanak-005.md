@@ -1,0 +1,3 @@
+# Članak 5.
+Članak 12. Ugovora postaje Članak 13. i mijenja se dodavanjem novog stavka 3. koji glasi:
+»3. U slučaju budućih izmjena prava Europske unije koje bi predstavljale određena nesuglasja s Ugovorom, postojeći Ugovor će se, ukoliko to bude potrebno, izmijeniti i dopuniti zajedničkim sporazumom ugovornih stranaka, kako bi se osigurala usuglašenost njegovih odredaba s obvezama ugovorne stranke koje proizlaze iz njenog statusa članice Europske unije. Ako se takav sporazum ne može postići, bilo koja od ugovornih stranaka ima pravo otkazati ovaj Ugovor. Ugovor će se prestati primjenjivati 3 mjeseca nakon datuma primitka obavijesti o otkazu.«
