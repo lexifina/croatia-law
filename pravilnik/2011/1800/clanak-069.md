@@ -1,0 +1,10 @@
+## IZVRŠAVANJE STEGOVNE MJERE IZDVAJANJA U POSEBNU PROSTORIJU
+# Članak 69.
+Prostorija u kojoj se izvršava stegovna mjera izdvajanja u posebnu prostoriju mora biti zračna, osvijetljena danjim i umjetnim svjetlom, zagrijana u skladu s klimatskim uvjetima, opremljena posteljom, posteljinom, stolom i stolcem.
+Maloljetniku se mora osigurati neograničen pristup vodi za piće i sanitarnim uređajima.
+Maloljetniku je za vrijeme boravka u posebnoj prostoriji dopušteno držanje:
+1. noćnog rublja, odjeće i obuće,
+2. predmeta za osobnu higijenu, bez pribora za brijanje,
+3. knjiga i udžbenika
+Za vrijeme izdvajanja u posebnu prostoriju maloljetniku će se osigurati boravak na zraku u trajanju od najmanje 3 sata dnevno uz nadzor ovlaštene službene osobe kao i provođenje osobne higijene.
+Ovlaštena službena osoba provodit će mjere pojačanog nadzora maloljetnika tijekom izvršavanja stegovne mjere izdvajanja u posebnu prostoriju.

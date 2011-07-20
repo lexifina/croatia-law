@@ -1,0 +1,4 @@
+# Članak 76.
+O primjeni sredstava prisile upravitelj Zavoda dužan je odmah, a najkasnije u roku 24 sata, dostaviti pisano izvješće Središnjem uredu Uprave za zatvorski sustav i sudu za mladež, s ocjenom zakonitosti primjene sredstava prisile.
+Izvješće iz stavka 1. ovog članka temelji se na analizi prikupljenih izvješća osoba koje su sredstva prisile primijenile i prisustvovale primjeni te medicinskoj dokumentaciji. Izvješće sadrži podatke o: datumu i mjestu te osobi prema kojoj su primijenjena sredstva prisile, vrsti sredstava prisile, razlozima i načinu primjene, opis vidljivih posljedica koje su nastale na maloljetniku nakon uporabe sredstava prisile kao i ime i prezime službenika koji je sredstvo prisile primijenio i eventualno zdravstvene posljedice nastale po tog službenika ili druge osobe.
+Upravitelj zavoda dužan je u roku od 24 sata nakon primjene sredstava prisile obavijestiti roditelja odnosno staratelja maloljetnika i Centar za socijalnu skrb.

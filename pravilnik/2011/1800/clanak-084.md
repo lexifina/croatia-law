@@ -1,0 +1,3 @@
+## UVJETNI OTPUST
+# Članak 84.
+Obrazloženi prijedlog za uvjetni otpust maloljetnika upravitelj Zavoda dostavlja nadležnom sudu, a prijedlog sadrži: osobne podatke maloljetnika, podatke o kaznenom djelu, odgojnoj i sigurnosnoj mjeri, anamnestičke i dijagnostičke podatke o maloljetniku, tijek izvršavanja odgojne mjere, učinak odgojnih postupaka, suradnju maloljetnika u odgojnom procesu i postignuti rezultati u njegovu obrazovanju i radu, procjenu rizičnosti i plan poslijepenalnog prihvata maloljetnika (osiguranje njegova smještaja, materijalnu i emocionalnu stabilnost obiteljskog ili drugog okruženja u koje se otpušta, mogućnost i potrebu nastavka školovanja, liječenja, zapošljavanja i dr.) tijekom uvjetnog otpusta te prijedlog pojačanih mjera nadzora tjekom tog vremena.
