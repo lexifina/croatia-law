@@ -1,0 +1,3 @@
+# Članak 4.
+(1) Ne plaćaju se naknade za stjecanje prava vlasništva, prava služnosti i prava građenja kada to pravo stječu osobe javnog prava, međusobno jedne od drugih, na njihovu zemljištu potrebnom za izgradnju infrastrukturnih građevina.
+(2) Pravne osobe u vlasništvu Republike Hrvatske i pravne osobe čiji je osnivač Republika Hrvatska, koje upravljaju infrastrukturnim građevinama u vlasništvu Republike Hrvatske, ne plaćaju naknadu za stjecanje prava vlasništva, prava služnosti i prava građenja drugim pravnim osobama u vlasništvu Republike Hrvatske i pravnim osobama čiji je osnivač Republika Hrvatska koje upravljaju zemljištem u vlasništvu Republike Hrvatske na kojem se grade infrastrukturne građevine.
