@@ -1,0 +1,1 @@
+Na temelju članka 3. stavka 2. Zakona o zaštiti na radu (»Narodne novine«, br. 59/96, 94/96, 114/2003, 100/2004, 86/2008, 116/2008 i 75/2009), Vlada Republike Hrvatske je na sjednici održanoj 21. srpnja 2011. godine donijela
