@@ -1,0 +1,3 @@
+# Članak 10.
+U članku 118. stavak 1. mijenja se i glasi:
+»(1) Po nalogu državnog odvjetnika policija će pritvorenika kod kojeg postoje razlozi za određivanje istražnog zatvora prije isteka roka za pritvor iz članka 112. stavka 2. ovog Zakona, ili u roku iz članka 112. stavka 4. ovog Zakona, dovesti sucu istrage radi održavanja ročišta za određivanje istražnog zatvora ili puštanja na slobodu. Pritvorski nadzornik prethodno dostavlja pritvorski zapisnik državnom odvjetniku, a na zahtjev suca istrage ili državnog odvjetnika i zapisnike, predmete i druge podatke o radnjama poduzetim prema članku 110. ovog Zakona. Državni odvjetnik mora biti prisutan na tom ročištu.«.

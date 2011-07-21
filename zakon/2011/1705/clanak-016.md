@@ -1,0 +1,3 @@
+# Članak 16.
+U članku 184. stavku 2. točka 1. mijenja se i glasi:
+»1) okrivljenik i branitelj, nakon što je nalog o istrazi upisan u odgovarajući upisnik, ili nakon što je protiv osumnjičenika podnesena kaznena prijava ili je obavljena pretraga osumnjičenika, njegova doma ili drugih prostorija koje koristi ili pokretne stvari koju koristi, ili je od osumnjičenika privremeno oduzet predmet, izvršeno prepoznavanje, uzimanje otisaka prstiju i drugih dijelova tijela od osumnjičenika, ili je od osumnjičenika uzet uzorak biološkog materijala ili određeno vještačenje, pod uvjetom da je osumnjičenik prethodno ispitan, osim ako drukčije nije propisano ovim Zakonom,«.

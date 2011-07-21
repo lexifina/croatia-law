@@ -1,0 +1,8 @@
+# Članak 36.
+Iza članka 417. i podnaslova »Dokazni postupak« dodaje se članak 417.a koji glasi:
+»Članak 417.a
+(1) Optuženika koji se očitovao da se u odnosu na sve točke optužbe smatra krivim, predsjednik vijeća uputit će da može odmah iskazivati o svim okolnostima koje ga terete i iznijeti sve činjenice koje mu idu u korist te se prelazi na ispitivanje optuženika.
+(2) Optuženik će u slobodnom izlaganju iznijeti svoj iskaz, nakon čega mu se mogu postavljati pitanja. Pitanja prvi postavlja branitelj, a zatim tužitelj. Nakon njih predsjednik vijeća i članovi vijeća mogu postavljati pitanja optuženiku radi otklanjanja praznina, proturječnosti i nejasnoća u iskazu. Oštećenik, njegov zakonski zastupnik ili opunomoćenik, suoptuženici i vještaci mogu neposredno postavljati pitanja optuženiku uz odobrenje predsjednika vijeća.
+(3) Predsjednik vijeća će zabraniti pitanje ili odgovor na već postavljeno pitanje ako je ono nedopušteno (članak 277. stavak 1.) ili se ne odnosi na predmet. Ako predsjednik vijeća zabrani postavljanje određenog pitanja ili davanje odgovora, stranke mogu zahtijevati da o tome odluči vijeće.
+(4) Izjava optuženika prema odredbi stavka 1. ovog članka ne oslobađa sud dužnosti da izvodi i druge dokaze. Ako je optuženikovo priznanje na raspravi potpuno i sukladno prije pribavljenim dokazima, sud će u dokaznom postupku izvesti samo one dokaze koji se odnose na odluku o kazni i drugoj sankciji.
+(5) Ako se optuženik očituje da se u odnosu na sve ili pojedine točke optužbe ne smatra krivim, ispitat će se na završetku dokaznog postupka, osim ako on drukčije zahtijeva.«.

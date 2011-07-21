@@ -1,0 +1,6 @@
+# Članak 9.
+U članku 112. stavak 1. mijenja se i glasi:
+»(1) Državni odvjetnik pisanim i obrazloženim rješenjem određuje pritvor protiv uhićenika ako utvrdi da postoje osnove sumnje da je uhićenik počinio kazneno djelo za koje se kazneni progon poduzima po službenoj dužnosti, a postoje neki od razloga za istražni zatvor iz članka 123. stavka 1. točke 1. - 4. ovog Zakona, a pritvor je potreban radi utvrđivanja istovjetnosti, provjere alibija te prikupljanja podataka o dokazima. Protiv rješenja o pritvoru pritvorenik se može žaliti u roku od 6 sati. O žalbi odlučuje sudac istrage u roku od 8 sati. Žalba ne zadržava izvršenje rješenja.«.
+Iza stavka 3. dodaju se stavci 4. i 5. koji glase:
+»(4) Državni odvjetnik nakon što je ispitao uhićenika, može pisanim nalogom naložiti policiji da u roku od dvadeset i četiri sata od trenutka predaje uhićenika pritvorskom nadzorniku, dovede uhićenika sucu istrage radi postupanja prema članku 118. ovog Zakona. U tom slučaju državni odvjetnik ne donosi rješenje o pritvoru.
+(5) Ako u roku od dvadeset i četiri sata od trenutka predaje pritvorskom nadzorniku, protiv okrivljenika nije određen pritvor ili okrivljenik nije doveden sucu istrage prema stavku 1. ovog članka, ima se pustiti na slobodu.«.

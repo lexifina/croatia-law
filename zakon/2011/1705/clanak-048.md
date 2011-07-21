@@ -1,0 +1,2 @@
+# Članak 48.
+Odredbe članka 49., članka 55. stavka 6., članka 65. stavka 3., članka 70. stavka 1., članka 98. stavka 3., članka 285. stavka 1. točke 1., članka 389. stavka 2., članka 464. stavka 2., članka 552. stavka 1. i članka 555. stavka 1. Zakona o kaznenom postupku (»Narodne novine«, br. 152/08. i 76/09.) se primjenjuju na članove svih zajednica iz članka 18. ovog Zakona kojim se mijenja članak 202. stavak 33.

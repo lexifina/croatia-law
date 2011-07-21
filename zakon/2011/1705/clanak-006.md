@@ -1,0 +1,6 @@
+# Članak 6.
+Članak 72. mijenja se i glasi:
+»(1) Nakon podizanja optužnice, kad obrana nije obvezna, okrivljeniku se na njegov zahtjev imenuje branitelj na teret proračunskih sredstava, ako prema svom imovinskom stanju ne može podmiriti troškove obrane, a postupak se vodi za kazneno djelo za koje je propisana kazna zatvora.
+(2) Okrivljenik podnosi zahtjev za imenovanje branitelja na teret proračunskih sredstva, u roku od tri dana nakon primitka pouke o pravima. Ročište za ispitivanje optužnice se ne može odrediti ako okrivljenik nije poučen o pravu na imenovanje branitelja na teret proračunskih sredstava, niti u vrijeme trajanja roka za podnošenje zahtjeva za imenovanje branitelja. Ako je okrivljenik podnio zahtjev za imenovanje branitelja na teret proračunskih sredstva, ročište za ispitivanje optužnice ne može se odrediti prije okončanja postupka imenovanja branitelja.
+(3) O imenovanju branitelja na teret proračunskih sredstava odlučuje obrazloženim rješenjem predsjednik vijeća ili sudac pojedinac koji će prema potrebi, pribaviti podatke o imovinskom stanju okrivljenika. O žalbi protiv tog rješenja odlučuje vijeće.
+(4) Branitelja imenuje rješenjem predsjednik suda. Žalba protiv tog rješenja nije dopuštena.«.
