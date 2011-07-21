@@ -1,0 +1,1 @@
+Odluka o zaštiti od međuvalutnih tečajnih promjena po obvezama euroobveznice Republike Hrvatske koja je izdana 14. srpnja 2010. godine u iznosu od USD 1.250.000.000,00, s dospijećem 14. srpnja 2020. godine
