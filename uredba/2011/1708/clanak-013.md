@@ -1,0 +1,2 @@
+# Članak 13.
+Iznimno od odredbe iz članka 12. ove Uredbe, Agencija dodjeljuje na korištenje stanove za službene potrebe i drugim osobama koje rade u tijelima državne uprave, odnosno drugim tijelima korisnicima državnog proračuna, za vrijeme obavljanja poslova na koje su raspoređeni, na temelju prijedloga tih tijela, čiji obrazloženi zahtjev mora sadržavati elemente iz članka 12. stavka 3. ove Uredbe.

@@ -1,0 +1,2 @@
+# Članak 19.
+Tijela državne uprave i druga tijela korisnici državnog proračuna kojima se osiguravaju stanovi za službene potrebe u svrhu obavljanja svoje djelatnosti na način propisan člankom 4. ove Uredbe dužni su osigurati sredstva za troškove najma u državnom proračunu na poziciji tijela državne uprave, odnosno drugog tijela korisnika državnog proračuna čiji će korisnik koristiti predmetni stan.

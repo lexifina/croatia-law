@@ -1,0 +1,1 @@
+Na temelju članka 46. stavaka 1., 2., 3. i 5. Zakona o upravljanju državnom imovinom (»Narodne novine«, broj 145/2010), Vlada Republike Hrvatske je na sjednici održanoj 16. lipnja 2011. godine donijela
