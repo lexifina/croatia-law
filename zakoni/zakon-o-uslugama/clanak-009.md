@@ -1,0 +1,6 @@
+## Odobrenja za obavljanje uslužne djelatnosti
+# Članak 9.
+(1) U ispitnom postupku davanja odobrenja za ostvarenje prava na poslovni nastan ne smije se od pružatelja usluge zahtijevati ponovno ispunjenje uvjeta koji su istovrijedni ili po vrsti i svrsi usporedivi s uvjetima koji su već ispunjeni u Republici Hrvatskoj ili u drugoj državi ugovornici EGP-a.
+(2) Na temelju dobivenog odobrenja pružatelj usluge može obavljati uslužnu djelatnost na cijelom teritoriju Republike Hrvatske, uključujući osnivanje agencija, društava kćeri, podružnica ili ureda, osim ako novo odobrenje za ostvarenje prava na poslovni nastan ili ograničenje odobrenja za ostvarenje prava na poslovni nastan za određeni dio državnog teritorija nije opravdano prevladavajućom kategorijom javnog interesa.
+(3) Nadležno tijelo usvaja zahtjev nakon što se na propisani način ispitivanjem utvrdi da su zadovoljeni uvjeti propisani za obavljanje uslužne djelatnosti.
+(4) Osim u slučaju usvajanja zahtjeva, svako rješenje nadležnog tijela, uključujući odbijanje zahtjeva ili ukidanje odobrenja ukoliko više nisu ispunjeni potrebni uvjeti, mora biti u cijelosti obrazloženo i protiv istog se može izjaviti žalba pred nadležnim tijelom ili, ako žalba nije dopuštena može se pokrenuti upravni spor.

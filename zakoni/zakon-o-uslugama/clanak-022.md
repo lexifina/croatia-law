@@ -1,0 +1,11 @@
+## Osiguranje sigurnosti usluga
+# Članak 22.
+(1) Pružatelj usluge je obvezan obavijestiti primatelja usluge o opasnostima koje po svojoj prirodi mogu predstavljati izravnu i posebnu opasnost za zdravlje ili sigurnost primatelja usluge ili treće osobe, ili rizik za financijsku sigurnost primatelja usluge.
+(2) Za određene uslužne djelatnosti čije pružanje predstavlja izravnu i posebnu opasnost za zdravlje ili sigurnost primatelja usluge ili treće osobe, ili rizik za financijsku sigurnost primatelja usluge, propisat će se da pružatelji usluga te uslužne djelatnosti ugovore osiguranje profesionalne odgovornosti ili predvide drugo jamstvo koje je istovrijedno ili bitno usporedivo s obzirom na svoju svrhu.
+(3) Kada se pružatelj usluga poslovno nastanjuje na teritoriju Republike Hrvatske, nadležno tijelo ne može zahtijevati osiguranje ili drugo odgovarajuće rješenje ako je, u drugoj državi ugovornici EGP-a u kojoj već ima sjedište, pružatelj usluge već pokriven osiguranjem koje je istovrijedno na teritoriju Republike Hrvatske ili bitno usporedivo s obzirom na namjenu ili pokriće koje se osigurava u smislu osiguranog rizika, osigurane svote ili gornje granice jamstva i mogućeg isključenja iz pokrića. U slučaju djelomične istovrijednosti nadležno tijelo može zatražiti dodatna jamstva za pokriće nepokrivenih rizika.
+(4) Ako od pružatelja usluge sa sjedištem na teritoriju Republike Hrvatske nadležno tijelo zahtijeva potpisivanje osiguranja od profesionalne odgovornosti ili drugo jamstvo, kao dostatni dokaz prihvaćaju se potvrde takvog osiguranja izdane od ovlaštenih financijskih institucija i osiguravatelja sa sjedištem u državi ugovornici EGP-a.
+(5) U smislu ovoga članka pojedini pojmovi imaju sljedeće značenje:
+– »izravna i posebna opasnost« znači opasnost koja izravno proizlazi iz pružanja usluge,
+– »zdravlje i sigurnost« znači sprječavanje smrtnog slučaja ili ozbiljne osobne ozljede primatelja usluge ili treće osobe,
+– »financijska sigurnost« znači sprječavanje značajnog novčanog gubitka ili pada vrijednosti imovine primatelja usluga,
+– »osiguranje profesionalne odgovornosti« znači osiguranje koje pružatelj usluge zaključuje u vezi s potencijalnim odgovornostima prema primateljima i, po potrebi, trećim stranama koje proizlaze iz pružanja usluge.

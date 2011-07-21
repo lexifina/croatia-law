@@ -1,0 +1,4 @@
+## Nadzor nad zakonitošću poslovanja pružatelja usluga sa sjedištem na teritoriju Republike Hrvatske
+# Članak 29.
+(1) Nadležna tijela dužna su obavljati nadzor nad zakonitošću poslovanja pružatelja usluga sa sjedištem na teritoriju Republike Hrvatske i poduzimati potrebne mjere, neovisno o tome da li se usluga pruža ili je već pružena usluga uzrokovala štetu na teritoriju Republike Hrvatske ili na teritoriju druge države ugovornice EGP-a.
+(2) U slučaju potrebe za činjeničnom provjerom podataka i nadzorom nad pružanjem usluga od strane pružatelja usluge koji ima sjedište na teritoriju Republike Hrvatske, a usluge pruža u drugoj državi ugovornici EGP-a, nadležno tijelo uputit će zahtjev za upravnu suradnju putem IMI sustava dotičnoj državi ugovornici EGP-a. Zahtjev mora biti utemeljen, a razmijenjene informacije smiju se koristiti samo u svrhu zbog koje su zatražene.
