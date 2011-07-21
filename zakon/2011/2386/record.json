@@ -1,0 +1,29 @@
+{
+  "issue": "NN 121/2011",
+  "number": "2386",
+  "title": "Zakon o kaznenom postupku (pročišćeni tekst)",
+  "kind": "zakon",
+  "subkind": "-",
+  "status": "ukidanje",
+  "issuer": "Odbor za zakonodavstvo Hrvatskoga sabora",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/121/2386",
+  "year": 2011,
+  "issue_id": "121",
+  "path": "zakon/2011/2386",
+  "published": "2011-10-28",
+  "publication_basis": "NN 121/2011 (28.10.2011.)",
+  "enacted": null,
+  "source_sha256": "03c9b0472910014257f9324a3b5219423ba2c75e4787bb8b1b351f335bd2c589",
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0,
+  "source_word_tokens": 98049,
+  "in_force": "2011-07-21",
+  "in_force_basis": "consolidated text dated to its latest amendment: Zakon o izmjenama i dopunama Zakona o kaznenom postupku (NN 80/2011, https://narodne-novine.nn.hr/eli/sluzbeni/2011/80/1705): osmoga dana od objave exceptions; Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«, osim: osim",
+  "kind_label": "consolidated",
+  "amendments_read": [
+    "https://narodne-novine.nn.hr/eli/sluzbeni/2009/76/1836",
+    "https://narodne-novine.nn.hr/eli/sluzbeni/2011/80/1705"
+  ],
+  "completeness": "official consolidated text (pročišćeni tekst) of the Committee on Legislation of the Croatian Parliament, as published; later changes not included"
+}
