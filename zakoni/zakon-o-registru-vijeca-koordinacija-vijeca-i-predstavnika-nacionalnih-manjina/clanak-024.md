@@ -1,0 +1,5 @@
+# Članak 24.
+(1) Sredstva za rad koordinacija vijeća nacionalnih manjina osnovanih za područje Republike Hrvatske osiguravaju jedinice područne (regionalne) samouprave čija su vijeća nacionalnih manjina osnovala koordinaciju, odnosno pristupila sporazumu o osnivanju koordinacije.
+(2) U sredstva za rad ulaze i sredstva za obavljanje administrativnih poslova, ako te poslove u okviru svojih službi ne obavlja jedinica područne (regionalne) samouprave u kojoj je sjedište koordinacije.
+(3) Za ostvarivanje određenih programa koordinacija osnovanih za područje Republike Hrvatske osigurat će se sredstva i u državnom proračunu Republike Hrvatske, a način financiranja propisat će uredbom Vlada Republike Hrvatske.
+(4) Ako vijeća nacionalnih manjina koja su osnovala koordinaciju ili njihove udruge ne raspolažu poslovnim prostorom u kojem djeluju, jedinica područne (regionalne) samouprave u kojoj koordinacija ima sjedište dužna je osigurati prostor za rad unutar svojeg poslovnog prostora i odrediti vrijeme njegova korištenja sukladno potrebama koordinacije.

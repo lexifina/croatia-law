@@ -1,0 +1,3 @@
+# Članak 16.
+(1) U Registar se upisuje prestanak mandata članu vijeća i članu koordinacije te predstavniku nacionalne manjine iz razloga utvrđenih za prestanak mandata prije vremena na koje je izabran, sukladno odredbama izbornog zakona kojim se propisuje izbor članova predstavničkih tijela jedinica lokalne i područne (regionalne) samouprave.
+(2) Prijavu za upis ili brisanje iz Registra člana vijeća ili člana koordinacije podnosi predsjednik vijeća, odnosno koordinacije ili osoba koja ga zamjenjuje u slučaju njegove odsutnosti ili spriječenosti, a za predstavnika nacionalne manjine prijavu podnosi predstavnik osobno ili jedinica lokalne ili područne (regionalne) samouprave u kojoj je izabran.
