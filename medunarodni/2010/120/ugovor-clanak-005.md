@@ -1,0 +1,8 @@
+# Članak 5.
+RAZMJENA INFORMACIJA I POVJERLJIVOST
+1. Informacije i ostala priopćenja primljena tijekom pružanja međusobne pomoći mogu se koristiti samo u svrhe navedene u ovom Ugovoru, uključujući korištenje u sudskim ili upravnim postupcima.
+2. Sve informacije i druga priopćenja primljena od carinske službe bilo koje ugovorne stranke sukladno ovom Ugovoru, bit će smatrane povjerljivima i neće biti priopćavane niti jednoj osobi ili subjektu izvan carinske službe tražiteljice koja ih je primila, osim kako je predviđeno ovim Ugovorom.
+3. Takve informacije bit će smatrane povjerljivima i uživat će svaku i svu zaštitu koja se dodjeljuje sličnim informacijama prema propisima o povjerljivosti i tajnosti kako je predviđena unutarnjim pravom ugovorne stranke čija ih je carinska služba zaprimila.
+4. Osobni se podaci mogu razmjenjivati jedino ako se ugovorna stranka koja ih može primiti obveže da će takve podatke štititi najmanje na isti način kakav se primjenjuje na takvu vrstu podataka u ugovornoj stranci koja ih može dostaviti. Radi toga će ugovorne stranke jedna drugoj priopćiti informacije o pravilima koja primjenjuju.
+5. Odredbe stavka 2. ovog članka ne primjenjuju se na slučajeve koji se tiču prekršaja vezanih za opojne droge i psihotropne tvari. Takve informacije mogu se priopćiti drugim tijelima ugovorne stranke tražiteljice koja su izravno uključena u suzbijanje nedozvoljenog prometa drogama, sukladno odredbama stavka 3. ovog članka.
+6. Carinska služba tražiteljica ne smije koristiti dokaze ili informacije pribavljene temeljem ovog Ugovora u svrhe koje nisu navedene u zahtjevu bez prethodnog pisanog pristanka zatražene carinske službe.

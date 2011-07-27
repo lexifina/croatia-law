@@ -1,0 +1,7 @@
+# Članak 9.
+SPISI, DOKUMENTI I SVJEDOCI
+1. Temeljem posebnog zahtjeva, preslike informacija i drugih materijala dostavljenih sukladno ovom Ugovoru ovjeravat će se na odgovarajući način. Izvornici takvih informacija i drugih materijala zahtijevat će se samo u slučajevima kada bi preslike mogle biti nedovoljne.
+2. Dostava izvornika informacija i drugih materijala sukladno ovom Ugovoru ne utječe na prava zatražene carinske službe niti na prava trećih stranaka. Takvi izvornici bit će vraćeni što je prije moguće. Na zahtjev, izvornici potrebni za pravosudne ili slične svrhe biti će vraćeni bez odgode.
+3. Zatražena carinska služba dostavlja, zajedno s dostavljenim informacijama, i sve potrebne upute za njihovo tumačenje ili korištenje.
+4. Na zahtjev carinske službe tražiteljice, službeniku zatražene carinske službe može biti odobreno da se, u granicama danog odobrenja, pojavi kao vještak ili svjedok u sudskom ili upravnom postupku u vezi s pitanjima obuhvaćenim ovim Ugovorom te da predoči predmete, dokumente ili njihove ovjerene preslike, koji mogu biti potrebni za postupak. U zahtjevu za pojavljivanjem mora biti navedeno pred kojim će se sudskim ili upravnim tijelom službenik pojaviti, u vezi s kojim predmetom te s kojeg osnova i kvalifikacije će službenik biti ispitan.
+5. Takav zahtjev uključivat će datum i vrstu postupka, imena stranaka u postupku i svojstvo u kojemu se službenik treba pojaviti.

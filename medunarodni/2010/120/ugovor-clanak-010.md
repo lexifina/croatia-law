@@ -1,0 +1,5 @@
+# Članak 10.
+DOSTAVA DOKUMENATA
+1. Na zahtjev, zatražena carinska služba će, u skladu sa zakonodavstvom zatražene ugovorne stranke, poduzeti sve potrebne mjere kako bi adresatu s prebivalištem ili sjedištem na njezinom carinskom području dostavila dokumente ili kako bi ga obavijestila o svim odlukama koje potječu od carinske službe tražiteljice i koje ulaze u područje primjene ovog Ugovora.
+2. Zatražena carinska služba će, u mjeri u kojoj je moguće, vratiti dokaz o uručenju ili obavještavanju na način naveden u zahtjevu. Ako to nije moguće ili ako se zahtjev ne može izvršiti na predviđeni način, carinska služba tražiteljica bit će o tomu obaviještena i priopćit će joj se razlozi za to.
+3. Zahtjevi za dostavom dokumenata ili obavijesti o odlukama bit će sastavljeni u pisanom obliku na službenom jeziku zatražene carinske službe ili na njoj prihvatljivom jeziku. Dodatno, sadržaj službenog dokumenta o kojem se obavještava bit će popraćen ovjerovljenim prijevodom na engleski jezik ili na službeni jezik ugovorne stranke u kojoj je sjedište zatražene carinske službe.
