@@ -1,0 +1,1 @@
+Na temelju članka 180. stavka 2. Zakona o državnom odvjetništvu (»Narodne novine«, br. 76/2009, 153/2009, 116/2010 i 145/2010) Vlada Republike Hrvatske je na sjednici održanoj 8. travnja 2011. godine donijela
