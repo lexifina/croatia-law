@@ -1,0 +1,6 @@
+# Članak 133.
+(1) Nerazvrstane ceste iz članka 131. stavka 1. i članka 132. stavka 1. ovoga Zakona evidentiraju se u katastru i upisuju u zemljišne knjige kao nerazvrstane ceste javno dobro u općoj uporabi i kao neotuđivo vlasništvo jedinice lokalne samouprave na čijem se području nalaze, neovisno o postojanju upisa vlasništva i/ili drugih stvarnih prava treće osobe.
+(2) Na upis u zemljišne knjige nerazvrstanih cesta iz članka 131. stavka 1. i članka 132. stavka 1. ovoga Zakona na odgovarajući način primjenjuju se odredbe članka 128. ovoga Zakona.
+(3) Na evidentiranje u katastru i upis u zemljišne knjige nerazvrstanih cesta iz članka 131. stavka 1. i članka 132. stavka 1. ovoga Zakona ne primjenjuju se odredbe zakona kojim se uređuje prostorno uređenje i gradnja, o parcelaciji građevinskog zemljišta te evidentiranju građevina u katastru i upisu u zemljišne knjige, niti odredbe drugih zakona i propisa koje su protivne članku 131. i 132. ovoga Zakona i stavku 1. i 2. ovoga članka.
+(4) Evidentiranje u katastru i upis u zemljišne knjige nerazvrstanih cesta na način propisan člankom 131. i 132. ovoga Zakona i stavkom 1., 2. i 3. ovoga članka ne isključuje mogućnost njihova evidentiranja u katastru i upisa u zemljišne knjige na način propisan zakonima i drugim propisima iz stavka 3. ovoga članka.
+Nastavak rada Hrvatskih autocesta d.o.o. i Hrvatskih cesta d.o.o.

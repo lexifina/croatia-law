@@ -1,0 +1,6 @@
+# Članak 67.
+(1) Nadležne inspekcijske službe dužne su sukladno propisu iz svog djelokruga rada, odredbama ovoga Zakona i propisu iz članka 63. stavka 2. ovoga Zakona provoditi inspekcijski nadzor minimalnih sigurnosnih zahtjeva za tunele te donositi mjere za otklanjanje utvrđenih nedostataka.
+(2) Inspekcijske službe iz stavka 1. ovoga članka moraju posjedovati visoku razinu stručnosti te moraju biti funkcionalno neovisne od rukovoditelja tunela.
+(3) Inspekcijski nadzor tunela inspekcijske službe moraju obaviti najmanje svakih šest godina i o rezultatima nadzora i izrečenim mjerama obavijestiti Ministarstvo, ministarstvo nadležno za unutarnje poslove, ministarstvo nadležno za graditeljstvo, Hrvatske autoceste d.o.o., Hrvatske ceste d.o.o., koncesionara i službenika za sigurnost.
+(4) Ukoliko se inspekcijskim nadzorom iz stavka 3. ovoga članka utvrdi da tunel ne udovoljava odredbama ovoga Zakona, nadležna inspekcija o tome će obavijestiti upravitelja tunela i službenika za sigurnost te naložiti donošenje mjera za povećanje sigurnosti tunela.
+(5) Hrvatske autoceste d.o.o., Hrvatske ceste d.o.o. i koncesionar nakon inspekcijskog nalaza i utvrđenih mjera iz stavka 4. ovoga članka propisat će uvjete za nastavak rada tunela ili za ponovno otvaranje tunela koji će se primjenjivati dok se ne provedu mjere za otklanjanje nedostataka, kao i sva daljnja ograničenja.

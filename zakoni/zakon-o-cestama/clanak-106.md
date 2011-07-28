@@ -1,0 +1,6 @@
+# Članak 106.
+(1) Jedinica lokalne samouprave, odnosno pravna osoba koja je ovlaštena upravljati nerazvrstanom cestom sukladno propisima iz članka 107. ovoga Zakona, može stupiti u posjed nekretnine izvlaštene radi građenja, rekonstrukcije ili održavanja nerazvrstane ceste i prije pravomoćnosti rješenja o izvlaštenju ako joj je to odobreno rješenjem o stupanju u posjed nekretnine prije pravomoćnosti rješenja o izvlaštenju (u daljnjem tekstu: rješenje o stupanju u posjed).
+(2) Rješenje o stupanju u posjed donosi se na zahtjev jedinice lokalne samouprave, odnosno pravne osobe iz stavka 1. ovoga članka ako je rješenje o izvlaštenju izvršno, te ako je uz zahtjev za donošenje tog rješenja priložen dokaz da je prijašnjem vlasniku isplaćena naknada sukladno zakonu kojim se propisuje izvlaštenje, da mu je navedena naknada stavljena na raspolaganje ili da je odbio primiti navedenu naknadu.
+(3) Rješenje o stupanju u posjed donosi ured državne uprave u županiji, odnosno ured Grada Zagreba nadležan za imovinskopravne poslove u roku od 15 dana od dana podnošenja zahtjeva za njegovo donošenje.
+(4) Žalba protiv rješenja iz stavka 3. ovoga članka ne odgađa njegovo izvršenje.
+(5) Odredbe ovoga članka na odgovarajući način primjenjuju se i na nekretnine izvlaštene na temelju članka 105. stavka 6. ovoga Zakona.

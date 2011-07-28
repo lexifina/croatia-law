@@ -1,0 +1,9 @@
+## Obavljanje radova na javnoj cesti
+# Članak 57.
+(1) Zabranjeno je poduzimati bilo kakve radove ili radnje na javnoj cesti bez suglasnosti pravne osobe koja upravlja javnom cestom, odnosno koncesionara.
+(2) U suglasnosti iz stavka 1. ovoga članka određuje se način i uvjeti izvođenja radova te nadzor nad obavljanjem radova.
+(3) Ukoliko, zbog neposredne ugroženosti sigurnog prometa, života i zdravlja građana ili nastanka veće gospodarske štete, radove na javnoj cesti treba obaviti osoba koja upravlja objektima i opremom iz članka 25. ovoga Zakona, navedena osoba dužna je o potrebi obavljanja radova hitno obavijestiti pravnu osobu koja upravlja javnom cestom, odnosno koncesionara, nakon čega je ovlaštena, prije ishođenja suglasnosti iz stavka 1. ovoga članka, poduzeti hitne mjere radi sprječavanja ugroze prometa, života i zdravlja građana ili nastanka veće gospodarske štete.
+(4) Ako se na javnoj cesti izvode ili izvedu radovi ili radnje uslijed kojih je nanesena šteta javnoj cesti, postoji mogućnost oštećenja javne ceste ili je ugrožena sigurnost prometa na njoj, pravna osoba koja upravlja javnom cestom, odnosno koncesionar dužni su poduzeti sve mjere za otklanjanje štete, opasnosti od oštećenja javne ceste i opasnosti za sigurnost prometa na javnoj cesti.
+(5) U slučajevima iz stavka 4. ovoga članka pravna osoba koja upravlja javnom cestom odnosno koncesionar ovlašteni su obustaviti radove ili radnje te zatražiti naknadu prouzročenih troškova i štete.
+(6) Troškove poduzimanja mjera iz stavka 4. ovoga članka te prouzročenu štetu snosi izvođač radova, odnosno naručitelj radova, odnosno osobe koje izvode radnje na javnoj cesti.
+(7) Sportske priredbe i druge manifestacije na javnim cestama mogu se održavati pod uvjetima i na način utvrđen zakonom kojim se uređuje sigurnost prometa na cestama.

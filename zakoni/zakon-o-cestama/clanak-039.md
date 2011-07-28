@@ -1,0 +1,5 @@
+## Nepotpuno izvlaštenje radi izmještanja infrastrukture izvan cestovnog zemljišta
+# Članak 39.
+(1) Kad se provodi postupak nepotpunog izvlaštenja nekretnina radi izmještanja postojećih komunalnih, vodnih i energetskih građevina, kao i građevina elektroničkih komunikacija i povezane opreme na nekretnini na koju će se izmjestiti infrastruktura, rješenjem o izvlaštenju osniva se pravo služnosti u korist osobe koja je na nekretnini izvlaštenoj radi građenja, rekonstrukcije i održavanja javne ceste imala pravo služnosti vodova ili drugih uređaja.
+(2) Osoba u čiju je korist osnovana stvarna služnost na nekretnini izvlaštenoj radi premještanja infrastrukture nema pravo na naknadu zbog prestanka stvarne služnosti na nekretnini izvlaštenoj radi građenja, rekonstrukcije i održavanja javne ceste.
+(3) Odredbe stavka 1. i 2. ovoga članka ne primjenjuju se ako je prijedlog za izvlaštenje radi izmještanja infrastrukture podnesen kao poseban prijedlog za izvlaštenje prije ili nakon prijedloga za izvlaštenje radi građenja, rekonstrukcije ili održavanja javne ceste, a nije došlo do spajanja tih postupaka.

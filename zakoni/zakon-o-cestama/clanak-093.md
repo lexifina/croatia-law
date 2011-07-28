@@ -1,0 +1,10 @@
+## Uplata na račune
+# Članak 93.
+(1) Sredstva iz članka 86. stavka 1. točke 1. ovoga Zakona uplaćuju se na račun županijske uprave za ceste i koriste za županijske i lokalne ceste na području županije u kojoj su ostvarena. Način naplate, postupak uplate sredstava na račun županijske uprave za ceste, izdvajanje sredstava za ceste iz članka 98. stavka 1. podstavka 1. ovoga Zakona sukladno članku 108. ovoga Zakona, vođenje evidencije i ovlast za provođenje kontrole nad postupkom naplate propisuje ministar nadležan za poslove financija.
+(2) Sredstva iz članka 86. stavka 1. točke 2. ovoga Zakona od cestarine na autocestama i cestovnim objektima s naplatom na državnim cestama uplaćuju se na račun Hrvatskih autocesta d.o.o., a sredstva od cestarine na autocestama i objektima s naplatom u koncesiji na račun koncesionara.
+(3) Sredstva iz članka 86. stavka 1. točke 3. ovoga Zakona uplaćuju se na račun Hrvatskih cesta d.o.o.
+(4) Sredstva iz članka 86. stavka 1. točke 4. ovoga Zakona uplaćuju se na račun Hrvatskih autocesta d.o.o., odnosno koncesionara za izvanredni prijevoz koji se treba obaviti na autocesti, Hrvatskih cesta d.o.o. za izvanredni prijevoz koji se treba obaviti na državnoj cesti te županijskoj upravi za ceste za izvanredni prijevoz koji se treba obaviti na županijskoj i lokalnoj cesti.
+(5) Sredstva iz članka 86. stavka 1. točke 5. ovoga Zakona uplaćuju se na račun Hrvatskih cesta d.o.o. odnosno županijske uprave za ceste koja je izdala rješenje o prekomjernoj uporabi javne ceste.
+(6) Sredstva iz članka 86. stavka 1. točke 6. ovoga Zakona uplaćuju se na račun koji odlukom određuje Vlada.
+(7) Sredstva iz članka 86. stavka 1. točke 7., 8. i 12. ovoga Zakona uplaćuju se na račun Hrvatskih autocesta d.o.o., Hrvatskih cesta d.o.o., koncesionara, županijske uprave za ceste, ovisno o ugovoru o korištenju cestovnog zemljišta, ugovoru o obavljanju pratećih djelatnosti, ugovoru o stjecanju prava građenja, odnosno ugovoru o osnivanju prava služnosti.
+(8) Sredstva iz članka 86. stavka 1. točke 9. ovoga Zakona uplaćuju se u državni proračun.

@@ -1,0 +1,2 @@
+# Članak 125.
+Na evidentiranje u katastru i upis u zemljišne knjige javnih cesta iz članka 123. i članka 124. ovoga Zakona ne primjenjuju se odredbe zakona kojim se uređuje prostorno uređenje i gradnja, a kojima je propisana parcelacija građevinskog zemljišta i evidentiranje građevina u katastru, niti odredbe zakona kojim se uređuje katastar nekretnina te odredbe drugih zakona i propisa koje su protivne članku 123. do 130. ovoga Zakona.

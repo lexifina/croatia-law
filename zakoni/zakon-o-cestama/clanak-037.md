@@ -1,0 +1,5 @@
+## Izvlaštenje radi izmještanja infrastrukture izvan cestovnog zemljišta
+# Članak 37.
+(1) Kad se za potrebe građenja, rekonstrukcije i održavanja javne ceste postojeće komunalne, vodne i energetske građevine, kao i građevine elektroničkih komunikacija i povezana oprema smještene na zemljištu obuhvaćenom projektom javne ceste moraju izmjestiti izvan cestovnog zemljišta, njihovo izmještanje provodi se u postupku potpunog ili nepotpunog izvlaštenja, uz odgovarajuću primjenu odredbi o izvlaštenju nekretnina iz članka 36. do 42. ovoga Zakona.
+(2) Poslovi izmještanja postojeće infrastrukture radi građenja, rekonstrukcije i održavanja javne ceste smatraju se u smislu ovoga Zakona poslovima građenja, rekonstrukcije i održavanja javne ceste, i u interesu su Republike Hrvatske.
+(3) Prijedlog za izvlaštenje nekretnina potrebnih za izmještanje postojeće infrastrukture ovlaštene su podnijeti osobe koje su po odredbama ovoga Zakona ovlaštene podnijeti prijedlog za izvlaštenje nekretnina radi građenja, rekonstrukcije i održavanja javne ceste.

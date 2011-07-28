@@ -1,0 +1,6 @@
+## Minimalni sigurnosni zahtjevi za tunele
+# Članak 63.
+(1) Minimalni sigurnosni zahtjevi za tunele primjenjuju se na tunele dulje od 500 m na autocestama i državnim cestama koje su dio transeuropske mreže cesta (u daljnjem tekstu: TEM ceste) koja će od dana pristupanja Republike Hrvatske Europskoj uniji biti definirana u Odluci broj 1692/96/EZ Europskog parlamenta i Vijeća od 23. srpnja 1996. o smjernicama Zajednice za razvoj Transeuropske prometne mreže, kako je izmijenjena i dopunjena.
+(2) Minimalnim sigurnosnim zahtjevima za tunele iz stavka 1. ovoga članka mora se osigurati sprečavanje kritičnih događaja koji mogu imati za posljedicu ugrožavanje ljudskih života, okoliša i tunelske instalacije te pružanje zaštite u slučaju nesreća.
+(3) U smislu ovoga Zakona »hitne službe« su sve službe javne ili privatne ili službe koje čine sastavni dio zaposlenika u tunelima koje posreduju u slučaju nesreće, a što uključuje i policijske službenike, vatrogasne postrojbe i spasilačke službe.
+(4) Ministar u suglasnosti s ministrom nadležnim za unutarnje poslove i ministrom nadležnim za graditeljstvo donosi propis o minimalnim sigurnosnim zahtjevima za tunele od faze planiranja do građenja i eksploatacije.
