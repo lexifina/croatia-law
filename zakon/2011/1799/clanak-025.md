@@ -1,0 +1,4 @@
+# Članak 25.
+Članak 57. mijenja se i glasi:
+»(1) Subjekti iz članka 55. stavka 2. ovoga Zakona dužni su izraditi i primjenjivati Priručnik za sustav upravljanja sigurnošću kao sastavni dio sustava upravljanja sigurnošću.
+(2) Priručnik za sustav upravljanja sigurnošću osobito sadrži operativne procedure zrakoplovnog subjekta i postupke za njihovu primjenu; praćenje i nadzor svih područja operacija; prepoznavanje opasnosti i procjenu i ublažavanje rizika; prikupljanje podataka o nesrećama, ozbiljnim nezgodama i događajima povezanima sa sigurnošću; način izvješćivanja i predlaganja korektivnih akcija; osobe odgovorne za izvješćivanje o događajima povezanima sa sigurnošću; analiziranje događaja povezanih sa sigurnošću s naglaskom na prepoznavanje njihovih uzroka; te mjere za nepredviđene slučajeve.«.
