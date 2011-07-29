@@ -1,0 +1,4 @@
+# Članak 13.
+(1) Zapreku za priznavanje prava na opskrbninu ne predstavlja nekretnina koja se nalazi na miniranom području. Da li se nekretnina nalazi na miniranom području utvrditi će se očitovanjem Hrvatskog centra za razminiranje.
+(2) Zapreku za priznavanje prava na opskrbninu ne predstavlja nekretnina smještena u 1. kategoriji područja s težim uvjetima gospodarenja (brdsko-planinska područja) sukladno propisima o područjima s težim uvjetima gospodarenja u poljoprivredi, i popisu katastarskih općina razvrstane u 1. kategoriju TUG područja.
+(3) Zapreku za priznavanje prava na opskrbninu ne predstavlja stambeni prostor oštećen u Domovinskom ratu, a nije obnovljen niti je korisnik ostvario pravo na obnovu prema propisima o obnovi. Da li je korisnik ostvario pravo na obnovu prema propisima o obnovi, dokazuje se potvrdom Službe za imovinskopravne poslove.

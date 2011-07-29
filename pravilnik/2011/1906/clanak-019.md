@@ -1,0 +1,3 @@
+# Članak 19.
+(1) Kada nije provedena ostavinska rasprava, a nesporno se utvrdi da je korisnik opskrbnine zakonski ili oporučni nasljednik nekretnine koju bi naslijedio da je ostavinska rasprava provedena, ta se nekretnina uzima u obzir prilikom priznavanja prava na opskrbninu i predstavlja zapreku za priznavanje prava na opskrbninu ukoliko prelazi površinu koja služi za podmirenje osnovnih životnih potreba.
+(2) Kako bi se nesporno utvrdilo da je korisnik zakonski ili oporučni nasljednik nekretnine, utvrditi će se tko su zakonski nasljednici i oporučni nasljednici kod saznanja da postoji oporuka.

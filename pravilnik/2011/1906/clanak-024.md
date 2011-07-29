@@ -1,0 +1,2 @@
+# Članak 24.
+Ukoliko Centar za psihosocijalnu pomoć utvrdi da je korisnik i/ili članovi njegova kućanstva u teškoj obiteljskoj, zdravstvenoj, socijalnoj ili materijalnoj situaciji, zapreku za priznavanje prava na opskrbninu neće im predstavljati dodatnih 5.000 m² zemljišta, uz propisano člankom 2. točkom 3. b) ovoga Pravilnika, i dodatnih 30 m² stambenog prostora, više od propisanih člankom 17. ovoga Pravilnika, te neregistrirani, odjavljeni osobni automobil mlađi od 10 godina starosti, odnosno drugo motorno vozilo mlađe od 20 godina starosti.

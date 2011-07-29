@@ -1,0 +1,4 @@
+## 9. SUDJELOVANJE CENTRA ZA PSIHOSOCIJALNU POMOĆ U POSTUPKU PRIZNAVANJA PRAVA NA OPSKRBNINU
+# Članak 23.
+(1) U postupku priznavanja prava na opskrbninu, prvostupanjsko i drugostupanjsko tijelo može zatražiti obavljanje očevida putem Centra za psihosocijalnu pomoć, kada je iz spisa predmeta razvidno da bi korisnik opskrbnine izgubio pravo na opskrbninu zbog vlasništva, suvlasništva, korištenja ili sukorištenja zemljišta do 5.000 m², uz zemljište propisano člankom 2. točkom 3. b) ovoga Pravilnika, dodatnih 30 m² stambenog prostora, više od propisanih člankom 17. ovoga Pravilnika, i/ili evidentiranog vlasništva neregistriranog, odjavljenog osobnog automobila mlađeg od 10 godina starosti odnosno drugog motornog vozila mlađeg od 20 godina starosti.
+(2) Obrazac zapisnika o očevidu je sastavni dio ovoga Pravilnika (Obrazac broj 6).

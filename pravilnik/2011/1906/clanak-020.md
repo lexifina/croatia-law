@@ -1,0 +1,3 @@
+# Članak 20.
+(1) Korisnik koji je pravomoćno osuđen na kaznu zatvora duže od 6 mjeseci, za vrijeme izdržavanja kazne zatvora nema pravo na opskrbninu ukoliko u vlasništvu ili korištenju ima obiteljsku kuću, stan ili apartman u kojoj je prije stupanja na izdržavanje kazne zatvora živio kao samac, odnosno nije živio u kućanstvu sa osobama koje je dužan uzdržavati sukladno Obiteljskom zakonu.
+(2) Kada je korisnik opskrbnine na izdržavanju kazne zatvora, potrebno je od zatvorske ustanove zatražiti očitovanje da li je isti korisnik naknade za rad i u kojem iznosu, te navedeni iznos uzeti u obzir kao novčani prihod od utjecaja na pravo i visinu opskrbnine.
