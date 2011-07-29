@@ -1,0 +1,2 @@
+# Članak 1.
+Danom stupanja na snagu ovoga Pravilnika prestaje važiti Pravilnik o ograničenjima jakosti elektromagnetskih polja za radijsku opremu i telekomunikacijsku terminalnu opremu (»Narodne novine«, br. 183/04.), osim odredaba članka 7., 9., 10. i 11. te tablice 4. iz dodatka 3. koje prestaju važiti danom stupanja na snagu pravilnika Hrvatske agencije za poštu i elektroničke komunikacije kojim će se propisati posebni uvjeti postavljanja i uporabe određenih vrsta radijskih postaja te način i uvjeti obavljanja izračuna i mjerenja vrijednosti elektromagnetskog polja.
