@@ -1,0 +1,3 @@
+# Članak 10.
+U članku 108. stavak 2. mijenja se i glasi:
+»Izdavatelj računa može ispraviti pogrešno iskazani porez u računu o isporučenim dobrima i obavljenim uslugama ako primatelj po tom računu još nije iskoristio pravo na odbitak pretporeza. U tom slučaju, izdavatelj računa obvezan je o ispravku računa obavijestiti u elektroničkom obliku ili na papiru primatelja računa. Izdavatelju računa u elektroničkom obliku mora biti dostavljena obavijest o storniranju toga računa u elektroničkom obliku na temelju koje će izdavatelj ispravak poreza proknjižiti u svom knjigovodstvu. Izdavatelju računa na papiru mora biti vraćen izvornik računa u kojemu je porez bio pogrešno iskazan, a on ga mora pohraniti u svoju dokumentaciju i ispravak poreza proknjižiti u svome knjigovodstvu.«
