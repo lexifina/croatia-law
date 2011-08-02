@@ -1,0 +1,9 @@
+## Pojmovi
+# Članak 2.
+U smislu odredaba ovoga Pravilnika, pojmovi koji se upotrebljavaju imaju sljedeće značenje:
+1) Dispečer leta/operativni kontrolor prometa: osoba određena od strane operatora zrakoplova za pripremu, otpremu, praćenje, kontrolu i nadzor letačkih operacija i podršku zapovjedniku zrakoplova pri izvođenju letačkih operacija, odgovarajuće kvalificirana u skladu s ovim Pravilnikom, kojoj je Agencija za civilno zrakoplovstvo izdala dozvolu,
+2) Dozvola (license): dokument koji identificira osobu kao stručno osposobljeno zrakoplovno osoblje, a sadrži osobne podatke, te podatke o stručnoj osposobljenosti, uključujući pojedinosti o posebnim ovlastima, njihovoj valjanosti i trenutnoj sposobnosti za obavljanje određenih poslova i zadaća,
+3) Operator zrakoplova: operator koji primjenjuje odobrenu metodu operativne kontrole koja podrazumijeva korištenje dispečera leta/operativnih kontrolora prometa,
+4) Posebna ovlast: ovlast koju imatelju dozvole dispečera leta/operativnog kontrolora prometa može pod uvjetima propisanima u ovom Pravilniku dodijeliti operator zrakoplova, kojom su utvrđeni posebni uvjeti, prava ili ograničenja,
+5) Ovlaštenje za rad dispečera leta/operativnog kontrolora prometa: ovlaštenje za obavljanje poslova i zadataka dispečera leta/operativnog kontrolora prometa koje se stječe, održava i obnavlja isključivo pri operatoru zrakoplova koji upošljava dispečere leta/operativne kontrolore prometa u svrhu provođenja operativne kontrole i nadzora letačkih operacija,
+6) Prihvatljivi period za produženje važenja ovlaštenja za rad dispečera leta/operativnog kontrolora prometa: period koji se sastoji od kalendarskog mjeseca prije mjeseca isteka važenja ovlaštenja za rad, mjeseca isteka važenja ovlaštenja i kalendarskog mjeseca poslije mjeseca isteka važenja ovlaštenja.

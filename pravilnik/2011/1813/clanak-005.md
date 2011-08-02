@@ -1,0 +1,4 @@
+## Obveza posjedovanja i davanja na uvid dozvole dispečera leta/operativnog kontrolora prometa
+# Članak 5.
+(1) Operator koji upotrebljava odobrenu metodu operativne kontrole prometa koja podrazumijeva korištenje zaposlenih dispečera leta/operativnih kontrolora prometa mora osigurati da poslove i zadaće dispečera leta/operativnog kontrolora prometa (u smislu odgovornosti za operativnu kontrolu izvođenja zrakoplovnih operacija) obavlja osoba koja posjeduje dozvolu dispečera leta/operativnog kontrolora prometa izdanu prema odredbama ovoga Pravilnika.
+(2) Imatelj dozvole dispečera leta/operativnog kontrolora prometa dužan je pružiti je na uvid na zahtjev inspektora Agencije za civilno zrakoplovstvo, Agencije za istraživanje nesreća i ozbiljnih nezgoda zrakoplova, ovlaštenih osoba pravosudnih tijela Republike Hrvatske i policije.
