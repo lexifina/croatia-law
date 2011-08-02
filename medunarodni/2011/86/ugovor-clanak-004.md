@@ -1,0 +1,5 @@
+# Članak 4.
+AUTOMATSKO PRETRAŽIVANJE PODATAKA O OTISCIMA PRSTIJU
+1. Za sprječavanje i istragu teškog kriminala, svaka stranka dozvoljava nacionalnim kontaktnim središtima druge stranke, kako su navedena u članku 7., pristup referentnim podacima u automatiziranom sustavu za identifikaciju otisaka prstiju kojega je u tu svrhu ustanovila, uz ovlasti provođenja elektroničkog pristupa podacima na upit uspoređivanjem podataka o otiscima prstiju. Pristup podacima na upit može se provoditi samo u pojedinačnim slučajevima te u skladu s nacionalnim zakonodavstvom stranke koja provodi pristup podacima na upit.
+2. Usporedbu podataka o otiscima prstiju s referentnim podacima druge stranke koja je zadužena za datoteku provode nacionalna kontaktna središta zadužena za pristup podacima na upit pomoću automatiziranog dostavljanja referentnih podataka koji su potrebni za potpunu podudarnost.
+3. Kada je potrebno, nacionalna kontaktna središta kojima se zahtjev upućuje provode daljnju analizu u svrhu potvrđivanja moguće podudarnosti podataka o otiscima prstiju s referentnim podacima kojima raspolaže stranka zadužena za datoteku.

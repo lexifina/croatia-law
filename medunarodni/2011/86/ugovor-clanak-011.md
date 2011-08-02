@@ -1,0 +1,11 @@
+# Članak 11.
+DOSTAVLJANJE OSOBNIH I DRUGIH PODATAKA U CILJU SPRJEČAVANJA TEŠKOG KRIMINALA I TERORISTIČKIH KAZNENIH DJELA
+1. U cilju sprječavanja teškog kriminala i terorističkih kaznenih djela, stranke mogu, u skladu s njihovim nacionalnim zakonodavstvom, u pojedinačnim slučajevima, čak i bez da se to od njih zatraži, dostaviti relevantnom nacionalnom kontaktnom središtu druge stranke, kako je navedeno u stavku 6., osobne podatke navedene u stavku 2., u mjeri u kojoj je to potrebno zbog toga što konkretne okolnosti pružaju povoda da se vjeruje da će ispitanik(ci):
+a) počiniti ili je počinio terorističko djelo ili kazneno djelo povezano s terorizmom, ili kaznena djela povezana s terorističkom skupinom ili udruženjem, kako su ta kaznena djela određena prema nacionalnom zakonodavstvu stranke koja podatke dostavlja; ili
+b) prolaziti ili je prošao obuku radi počinjenja kaznenih djela navedenih u podstavku a); ili
+c) počiniti ili je počinio teško kazneno djelo, ili sudjeluje u organiziranoj kriminalnoj skupini ili udruženju.
+2. Osobni podaci koji se dostavljaju uključuju, ukoliko su dostupni, prezime, imena, prijašnja imena, druga imena, pseudonime, alternativno pisanje imena, spol, datum i mjesto rođenja, sadašnja i ranija državljanstva, broj putovnice, brojeve drugih identifikacijskih dokumenata te podatke o otiscima prstiju kao i opis bilo koje osude ili okolnosti koje daju povoda vjerovanju navedenom u stavku 1.
+3. Stranka koja dostavlja podatke može, u skladu s njezinim nacionalnim zakonodavstvom, odrediti uvjete o korištenju tih podataka stranci primateljici. Ako stranka primateljica prihvati takve podatke, bit će obvezna poštivati sve takve uvjete.
+4. Generička ograničenja za obradu osobnih podataka, u odnosu na zakonske standarde stranke primateljice, ne može određivati stranka koja šalje podatke kao uvjet za slanje podataka navedenih u stavku 3.
+5. Uz osobne podatke navedene u stavku 2., stranke mogu jedna drugoj dostavljati podatke koji nisu osobni, a koji se odnose na kaznena djela utvrđena u stavku 1.
+6. Svaka stranka određuje jedno ili više nacionalnih kontaktnih središta za razmjenu osobnih i drugih podataka prema ovom članku s kontaktnim središtima druge stranke. Nacionalna kontaktna središta postupaju u skladu s primjenjivim nacionalnim zakonodavstvom.

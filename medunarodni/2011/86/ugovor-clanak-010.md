@@ -1,0 +1,4 @@
+# Članak 10.
+NACIONALNO KONTAKTNO SREDIŠTE I PROVEDBENI SPORAZUMI
+1. U svrhe dostavljanja podataka kako je navedeno u članku 8., svaka stranka određuje nacionalno kontaktno središte. Kontaktno središte dostavlja takve podatke u skladu s nacionalnim zakonodavstvom stranke koja određuje kontaktno središte. Ostali raspoloživi putovi pravne pomoći ne trebaju se koristiti osim ako to nije nužno, uključujući i utvrđivanje vjerodostojnosti takvih podataka u svrhe njihove prihvatljivosti u sudskim postupcima stranke moliteljice.
+2. Tehničke i postupovne pojedinosti za pretraživanja podataka koje se provode u skladu s člankom 8., utvrđuju se u jednom ili u više provedbenih sporazuma ili dogovora. Takvi sporazumi ili dogovori također uključuju sveobuhvatan popis kaznenih djela koji će biti temelj za suradnju u skladu s nacionalnim zakonodavstvima obiju stranaka, a koja su kažnjiva najvišom kaznom lišavanja slobode u trajanju od više od jedne godine, ili težom kaznom.
