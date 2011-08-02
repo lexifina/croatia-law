@@ -1,0 +1,7 @@
+## Zaštita podataka
+# Članak 18.
+(1) Znanstvene i druge podatke, priložene u dokumentaciji podnositelja zahtjeva, koji se zahtijevaju u skladu s odredbama članka 7. ovoga Pravilnika, drugi podnositelji ne smiju koristiti deset godina od dana izdavanja odobrenja. Iznimno, korištenje navedenih podataka moguće je ako se (novi) podnositelj zahtjeva sporazumno dogovori s prvotnim podnositeljem o dozvoli njihovog korištenja.
+(2) Radi poticanja podnošenja zahtjeva za izdavanje odobrenja za korištenje dodataka kod manje zastupljenih vrsta životinja, a koji su odobreni za korištenje kod ostalih vrsta životinja, desetogodišnje razdoblje zaštite podataka može se produljiti za jednu godinu za svaku manje zastupljenu vrstu životinja za koju je izdano odobrenje.
+(3) Podnositelj zahtjeva i bivši podnositelj zahtjeva poduzimaju sve potrebne radnje za postizanje sporazuma o zajedničkom korištenju podataka, da se spriječi ponavljanje toksikoloških istraživanja na kralješnjacima.
+(4) Ukoliko se ne postigne sporazum o zajedničkom korištenju podataka, Komisija može otkriti podatke radi sprječavanja ponavljanja toksikoloških istraživanja na kralješnjacima, osiguravajući razumnu ravnotežu interesa između zainteresiranih stranaka.
+(5) EFSA nakon isteka desetogodišnjega razdoblja može u korist drugog podnositelja zahtjeva upotrijebiti sve ili dio nalaza procjene provedene na temelju znanstvenih podataka i podataka sadržanih u dokumentaciji zahtjeva.
