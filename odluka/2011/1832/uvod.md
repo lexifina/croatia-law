@@ -1,0 +1,1 @@
+Na temelju članka 1. stavka 4. i 5. Pravilnika o obavljanju djelatnosti u svezi sa zapošljavanjem (»Narodne novine«, br. 19/11.) i članka 21. Statuta Hrvatskoga zavoda za zapošljavanje (»Narodne novine«, br. 49/09.) Upravno vijeće Hrvatskoga zavoda za zapošljavanje na sjednici održanoj 14. 7. 2011. godine donijelo je
