@@ -1,0 +1,2 @@
+# Članak 5.
+Odjel za izradu i provedbu politika i strategija za nacionalne manjine obavlja stručne poslove izrade podzakonskih akata iz nadležnosti Ureda; kontinuirano prati provođenje Ustavnog zakona o pravima nacionalnih manjina i Akcijskog plana za provođenje Ustavnog zakona o pravima nacionalnih manjine te koordinira izradu izvješća; obavlja stručnu pripremu i poslove u vezi s procesom usklađivanja s europskim standardima i pravnom stečevinom Europske unije, te obavlja i druge poslove koje mu povjeri predstojnik Ureda.
