@@ -1,0 +1,4 @@
+# Članak 4.
+(1) Vođenje i ažuriranje Registra, registraciju i nadzor valjanosti registracije voznog parka, te dodjelu slovne i brojčane oznake vozila obavlja Agencija za sigurnost željezničkog prometa (u daljnjem tekstu: Agencija).
+(2) Dodjelu oznake vlasnika ili posjednika željezničkih vozila (u daljnjem tekstu: VKM) obavlja Europska agencija za željeznički promet (u daljnjem tekstu: ERA) putem Agencije. Do ulaska Republike Hrvatske u punopravno članstvo Europske unije dodjelu VKM-a obavlja Međuvladina organizacija za međunarodni željeznički promet (u daljnjem tekstu: OTIF) putem nadležnog nacionalnog tijela.
+(3) Željeznički prijevoznici, upravitelj infrastrukture i drugi vlasnici ili posjednici željezničkih vozila (u daljnjem tekstu: korisnici) dužni su evidencije i druge podatke o željezničkim vozilima dostaviti na zahtjev Agenciji, u traženom roku.
