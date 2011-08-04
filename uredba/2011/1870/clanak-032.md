@@ -1,0 +1,3 @@
+# Članak 32.
+Policijski službenici koji obavljaju poslove Specijalne policije zadužuju i nose svečanu odoru iz članka 31. ove Uredbe, samo umjesto kape muške svečane zadužuju beretku, a na sakou muškom iz članka 31. ove Uredbe, na desnom rukavu u gornjem dijelu, našivena je okrugla oznaka »POLICIJA MUP RH« zlatnim koncem na crnoj podlozi, a na lijevom rukavu je našivena oznaka specijalne policije »MAČ I MUNJA«, izrađena zlatnim koncem na crnoj podlozi.
+Beretka je crne boje. Na sredini prednjeg dijela beretke s lijeve strane našiven je grb Republike Hrvatske, strojno izvezen zlatnim koncem na crnoj podlozi.
