@@ -1,0 +1,3 @@
+# Članak 8.
+Provjerom tehničkih rješenja zaštite od požara predviđenih glavnim projektom i ovjerom glavnog projekta od strane revidenta osigurava se ispunjenost bitnih zahtjeva za građevine iz područja zaštite od požara odnosno propisana razina sigurnosti od požara i tehnoloških eksplozija za vrijeme građenja, pokusnog rada i tijekom uporabe građevine.
+Izvješće revidenta je trajni dokument koji se koristiti za pravilnu provedbu i unutarnju kontrolu provedbe organizacijskih i tehničkih mjera zaštite od požara i tehnoloških eksplozija na građevini tijekom uporabe te pri izradi akata, uputa za siguran rad i postupanje u slučaju požara i drugih dokumenata vezanih za zaštitu od požara i tehnoloških eksplozija.
