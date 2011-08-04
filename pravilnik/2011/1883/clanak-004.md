@@ -1,0 +1,2 @@
+# Članak 4.
+Ministarstvo unutarnjih poslova, odnosno nadležna policijska uprava ne sudjeluje u postupcima utvrđivanja objedinjenih uvjeta zaštite okoliša prema posebnim propisima kada nadležno tijelo iz područja zaštite okoliša ocijeni da u referentnim dokumentima o najboljim raspoloživim tehnikama nisu sadržane tehnike i procesi vezani za zaštitu od požara, niti u slučajevima koji se odnose na zaštitu i spašavanje.

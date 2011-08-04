@@ -1,0 +1,1 @@
+Pravilnik o zahvatima u prostoru u postupcima donošenja procjene utjecaja zahvata na okoliš i utvrđivanja objedinjenih uvjeta zaštite okoliša u kojima Ministarstvo unutarnjih poslova odnosno nadležna policijska uprava ne sudjeluje u dijelu koji se odnosi na zaštitu od požara

@@ -1,0 +1,1 @@
+Na temelju članka 22. stavka 4. Zakona o zaštiti od požara (»Narodne novine«, broj: 92/10), ministar unutarnjih poslova, uz suglasnost ministra zaštite okoliša, prostornog uređenja i graditeljstva, donosi
