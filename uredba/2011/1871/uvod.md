@@ -1,0 +1,1 @@
+Na temelju članka 33. stavka 6. Zakona o izvršavanju kazne zatvora (»Narodne novine«, br. 128/99, 55/2000, 59/2000, 129/2000, 59/2001, 67/2001, 11/2002, 190/2003-pročišćeni tekst, 76/2007, 27/2008, 83/2009 i 18/2011), Vlada Republike Hrvatske je na sjednici održanoj 7. srpnja 2011. godine donijela
