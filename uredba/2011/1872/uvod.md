@@ -1,0 +1,1 @@
+Na temelju članka 51. stavka 3. Zakona o genetski modificiranim organizmima (»Narodne novine«, br. 70/2005 i 137/2009), Vlada Republike Hrvatske je na sjednici održanoj 2. travnja 2011. godine donijela
