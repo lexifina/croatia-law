@@ -1,0 +1,6 @@
+## Umanjenje prava za neizvršavanje obveza
+# Članak 5.
+(1) Ukoliko uvjeti dobre poljoprivredne i okolišne prakse propisani člankom 2. ovoga Pravilnika nisu ispunjeni u bilo kojem trenutku u određenoj kalendarskoj godini te ako je takvo neizvršavanje obveza posljedica nemara ili namjere za koje je izravno odgovoran obveznik koji je u određenoj kalendarskoj godini podnio Zahtjev za izravna plaćanja, ukupni iznos izravnih plaćanja koja su dodijeljena ili koja se trebaju dodijeliti tome obvezniku Agencija za plaćanja umanjuje ovisno o namjeri ili nemaru, opsegu, ozbiljnosti, trajanju i ponavljanju utvrđenog neizvršavanja obveza.
+(2) Umanjenje iz stavka 1. ovoga članka određuje se u postotku, u skladu s Tablicama 1. i 2. Dodatka II. koji se nalazi u prilogu i čini sastavni dio ovoga Pravilnika.
+(3) Ukoliko se kontrolom istovremeno utvrdi više slučajeva neizvršavanja obveza, smatrat će se da se radi o jednom slučaju neizvršavanja obveza s najvećim stupnjem neizvršavanja u smislu primjene umanjenja iz stavka 1. ovoga članka.
+(3) U slučaju iznimno velikog opsega, ozbiljnosti ili trajnosti ili ako se utvrdi ponavljanje namjernog neizvršavanja obveza, obvezniku se ne dopušta korištenje izravnih plaćanja u sljedećoj kalendarskoj godini.
