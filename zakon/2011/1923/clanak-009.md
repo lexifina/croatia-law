@@ -1,0 +1,5 @@
+# Članak 9.
+U članku 40. iza stavka 4. dodaju se stavci 5., 6. i 7. koji glase:
+»(5) Odgovorni voditelj je dužan upozoriti pisanim putem nositelja izrade i urbanističku inspekciju o zahtjevima postavljenim prilikom izrade nacrta dokumenta prostornog uređenja koji su protivni ovom Zakonu ili drugom propisu te zastati s izradom tog dokumenta do primitka odluke urbanističke inspekcije. Prije otklanjanja nezakonitosti u izradi dokumenta prostornog uređenja utvrđenog rješenjem urbanističke inspekcije ne može se dati mišljenje niti suglasnost propisana ovim Zakonom.
+(6) Stručnjaci odgovarajućih struka su osobe koje prema posebnom propisu mogu obavljati poslove prostornog uređenja u svojstvu suradnika.
+(7) Osoba koja sudjeluje u davanju zahtjeva za izradu dokumenta prostornog uređenja, mišljenja ili suglasnosti na prijedlog ili konačni prijedlog tog dokumenta ne smije u svojstvu stručnjaka odgovarajuće struke sudjelovati u izradi nacrta prijedloga i nacrta konačnog prijedloga tog dokumenta.«.

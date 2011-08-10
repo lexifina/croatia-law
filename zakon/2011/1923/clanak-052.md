@@ -1,0 +1,2 @@
+# Članak 52.
+U članku 119. stavku 1. iza riječi: »čestice« stavlja se zarez, a riječi: »i detaljnim planom uređenja« zamjenjuju se riječima: »detaljnim planom uređenja, urbanističkim planom uređenja ili prostornim planom područja posebnih obilježja koji u grafičkom dijelu propisuje oblik i veličinu građevne čestice odnosno zone pojedine namjene u mjerilu 1:1000 ili 1:2000 ili u skladu s granicom građevinskog područja određenom važećim ili ranije važećim prostornim planom«.

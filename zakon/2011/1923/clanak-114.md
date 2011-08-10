@@ -1,0 +1,2 @@
+# Članak 114.
+U postupku donošenja rješenja o izvedenom stanju koji se vodi na temelju članka 325. stavka 4. Zakona o prostornom uređenju i gradnji (»Narodne novine«, br. 76/07., 38/09. i 55/11.) primjenjuju se dokumenti prostornog uređenja doneseni na temelju Zakona o prostornom uređenju (»Narodne novine«, br. 30/94., 68/98., 61/00., 32/02. i 100/04.) i drugi propisi doneseni na temelju tog Zakona.

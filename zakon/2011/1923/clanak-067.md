@@ -1,0 +1,4 @@
+# Članak 67.
+U članku 191. stavak 1. mijenja se i glasi:
+»(1) Idejni projekt koji je sastavni dio rješenja o uvjetima građenja ili lokacijske dozvole je skup međusobno usklađenih nacrta i dokumenata struka koje sudjeluju u projektiranju kojima se daju osnovna oblikovno-funkcionalna i tehnička rješenja građevine (idejno-tehničko rješenje) te smještaj jedne ili više građevina na građevnoj čestici, odnosno unutar obuhvata zahvata u prostoru na odgovarajućoj posebnoj geodetskoj podlozi, kopiji katastarskog plana, Hrvatskoj osnovnoj karti (M 1:5000), odnosno na ortofotokarti odgovarajućeg mjerila.«.
+U stavku 2. riječi: »objedinjenim uvjetima zaštite okoliša te druge nacrte i dokumente ako su oni značajni za izradu glavnog projekta« zamjenjuju se riječima: »posebnim propisima o zaštiti okoliša«.

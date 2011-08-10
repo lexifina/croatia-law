@@ -1,0 +1,7 @@
+# Članak 34.
+U članku 97. stavci 1. i 2. mijenjaju se i glase:
+»(1) Prije donošenja prostornog plana županije odnosno Grada Zagreba, prostornog plana područja posebnih obilježja, prostornog plana uređenja velikog grada, grada ili općine te provedbenog dokumenta prostornog uređenja za izdvojeno građevinsko područje izvan naselja, unutar ZOP-a ili čiji se dio nalazi unutar tog područja, nositelj izrade dužan je pribaviti suglasnost Ministarstva.
+(2) Nositelj izrade najkasnije u roku od četiri mjeseca od završetka javne rasprave dostavlja Ministarstvu zahtjev za suglasnost na prostorni plan iz stavka 1. ovoga članka uz koji obvezno prilaže konačni prijedlog prostornog plana, izvješće o javnoj raspravi, nacrt odluke o donošenju i prilozima iz članka 58. stavka 2. ovoga Zakona.«.
+Iza stavka 4. dodaje se novi stavak 5. koji glasi:
+»(5) Zavod za prostorno uređenje županije dužan je mišljenje iz stavka 4. ovoga članka izdati i dostaviti nositelju izrade najkasnije u roku od trideset dana od dana primitka zahtjeva nositelja izrade. Ako zavod ne dostavi mišljenje u propisanom roku smatra se da je mišljenje dao i da nema primjedbi, a nositelj izrade je bez odgađanja dužan postupiti u skladu sa stavkom 2. ovoga članka i dostaviti Ministarstvu zahtjev za suglasnost i dokaz da je protekao rok propisan za davanje mišljenja.«.
+U dosadašnjem stavku 5. koji postaje stavak 6., riječi: »šezdeset dana« zamjenjuju se riječima: »četrdeset pet dana«.

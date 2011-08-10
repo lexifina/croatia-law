@@ -1,0 +1,5 @@
+# Članak 84.
+Članak 233. mijenja se i glasi:
+»(1) Investitor je dužan ishoditi izmjenu i/ili dopunu rješenja o uvjetima građenja ako tijekom građenja namjerava učiniti izmjene na zgradi kojima se mijenja njezina usklađenost s idejnim, odnosno glavnim projektom u pogledu vanjskog oblika i veličine, namjene ili smještaja na građevnoj čestici, odnosno ako namjerava promijeniti oblik i veličinu građevne čestice.
+(2) Izmjene tijekom građenja zgrade iz stavka 1. ovoga članka kojima se utječe na ispunjavanje bilo kojeg bitnog zahtjeva za građevinu, a kojim se ne mijenja njezina usklađenost s idejnim projektom u pogledu vanjskog oblika i veličine, namjene ili smještaja na građevnoj čestici i kojima se ne mijenja oblik i veličina građevne čestice, investitor može učiniti na temelju izmijenjenog i/ili dopunjenog glavnog projekta.
+(3) U postupku izdavanja rješenja o izmjeni i/ili dopuni rješenja o uvjetima građenja pribavljaju se samo oni posebni uvjeti i potvrde iz članka 215. stavka 3. ovoga Zakona na koje izmjena i/ili dopuna ima utjecaja.«.

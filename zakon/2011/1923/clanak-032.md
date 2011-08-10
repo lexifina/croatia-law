@@ -1,0 +1,3 @@
+# Članak 32.
+U članku 94. stavak 1. mijenja se i glasi:
+(1) Nakon javne rasprave stručni izrađivač u suradnji s nositeljem izrade izrađuje nacrt konačnog prijedloga prostornog plana u skladu s prihvaćenim očitovanjima, mišljenjima, primjedbama i prijedlozima u izvješću o javnoj raspravi. Nositelj izrade nacrt konačnog prijedloga prostornog plana dostavlja tijelima i osobama određenim posebnim propisima radi davanja mišljenja o poštivanju zahtjeva iz članka 79. stavka 1., odnosno očitovanja iz članka 90. stavka 1. ovoga Zakona te da su rješenja u skladu sa zahtjevima posebnih propisa i drugih dokumenta iz njihovog djelokruga.«.
