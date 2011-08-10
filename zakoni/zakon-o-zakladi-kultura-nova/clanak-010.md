@@ -1,0 +1,3 @@
+# Članak 10.
+(1) Upravitelj Zaklade može biti razriješen dužnosti i prije isteka mandata ako svoje dužnosti ne obavlja savjesno, u skladu sa Zakonom, Statutom i drugim općim aktima Zaklade, ako ne sudjeluje u pripremama i održavanju sjednica Upravnog odbora, ako se utvrdi da ima osobne ili poslovne interese koji su suprotni interesima Zaklade, ako ponašanjem i istupima narušava ugled Zaklade, ili ne ispunjava koji od uvjeta iz zakona kojim se uređuje djelovanje zaklada.
+(2) Upravitelj Zaklade razrješuje se odlukom Upravnog odbora za koju je potrebna većina određena u članku 8. stavku 1. ovoga Zakona.
