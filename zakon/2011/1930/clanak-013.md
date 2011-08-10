@@ -1,0 +1,3 @@
+# Članak 13.
+Ugovori sklopljeni na temelju članka 36. i 38. Zakona o audiovizualnim djelatnostima (»Narodne novine«, br. 76/07.) prestaju važiti s danom podmirenja novčanih obveza koje su prema navedenim odredbama toga Zakona nastale do trenutka stupanja na snagu ovoga Zakona.
+Obveznici uplate sredstava za Nacionalni program koji nisu sklopili ugovor iz članka 36. i 38. Zakona o audiovizualnim djelatnostima (»Narodne novine«, br. 76/07.) do dana stupanja na snagu ovoga Zakona dužni su uplatiti sredstva za Nacionalni program u iznosima propisanim člankom 36. Zakona o audiovizualnim djelatnostima (»Narodne novine«, br. 76/07.) u roku od trideset dana od dana stupanja na snagu ovoga Zakona zajedno sa zateznim kamatama.

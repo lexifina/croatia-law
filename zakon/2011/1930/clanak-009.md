@@ -1,0 +1,9 @@
+# Članak 9.
+Članak 39. mijenja se glasi:
+»Poticanje ulaganja u proizvodnju audiovizualnih djela odnosi se na pravo osoba iz članka 39.a stavka 1. ovoga Zakona na ostvarivanje financijskog poticaja u obliku povrata određenog dijela novčanih sredstava utrošenih u Republici Hrvatskoj za proizvodnju audiovizualnih djela kao kulturnih proizvoda iz članka 39.a stavka 2. ovoga Zakona.
+Financijski poticaj iznosi 20% od ukupnog iznosa troškova koji su učinjeni za proizvodnju audiovizualnog djela iz članka 39.a stavka 2. ovoga Zakona u Republici Hrvatskoj, uz ograničenje iznosa sredstava za pojedino audiovizualno djelo predviđeno ovim Zakonom i Pravilnikom o poticanju ulaganja u proizvodnju audiovizualnih djela.
+Osnovicom za izračun financijskog poticaja smatra se ukupni iznos bez poreza na dodanu vrijednost.
+Financijski poticaj iz stavka 1. ovoga članka izvršit će Ministarstvo kulture na teret državnog proračuna u okviru osiguranih sredstava namijenjenih za mjere poticaja.
+Pravo na financijski poticaj iz stavka 2. ovoga članka imaju i pravne osobe koje su za proizvodnju istog audiovizualnog djela primile sredstva iz javnih izvora Republike Hrvatske i drugih izvora zemalja članica Europske unije, uz uvjet da zbroj tako dobivenih ukupnih sredstava, uključujući iznos financijskog poticaja iz stavka 2. ovoga članka, ne iznosi više od 50% cjelokupnog proračuna predmetnog audiovizualnog djela odnosno 50% opravdanih troškova projekta.
+Sukladno važećoj Odluci Vlade Republike Hrvatske o objavljivanju pravila o državnoj potpori kinematografskoj i ostaloj audiovizualnoj djelatnosti, ograničenje iz stavka 5. ovoga članka ne odnosi se na teška ili zahtjevna audiovizualna djela, te audiovizualna djela s niskim proračunom.
+Dodjeljivanje financijskog poticaja iz članka 39. i 39.a ovoga Zakona nema značenje povrata poreza u smislu poreznih propisa.«.

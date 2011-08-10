@@ -1,0 +1,5 @@
+# Članak 8.
+Naslov iznad članka 38. mijenja se i glasi: »Poticanje ulaganja u proizvodnju audiovizualnih djela«
+Članak 38. mijenja se i glasi:
+»Ulaganje u proizvodnju audiovizualnih djela kao kulturnih proizvoda potiče se mjerama propisanim ovim Zakonom u cilju doprinosa razvoju projekata s područja filmskih i audiovizualnih djelatnosti, stvaranja povoljnih uvjeta razvoja hrvatskog i europskog kulturnog proizvoda, razvoja međunarodne filmske suradnje i internacionalnih koprodukcija kao i radi poticanja razvoja struke i rasta zapošljavanja te postizanja dugoročnih pozitivnih učinaka za Republiku Hrvatsku kao produkcijsku lokaciju, s ciljem doprinosa napretku audiovizualnog stvaralaštva i očuvanju hrvatske kulturne baštine u zemlji i inozemstvu.
+Poticanjem ulaganja u proizvodnju audiovizualnih djela mjerama iz stavka 1. ovoga članka ostvaruje se i međunarodna promidžba Republike Hrvatske, jačanje međunarodne kulturne razmjene, povećanje kvalitete audiovizualnih djela, razvoj i jačanje audiovizualne tehničke infrastrukture, stručno usavršavanje kreativnog i tehničkog osoblja u audiovizualnim i pratećim djelatnostima.«.
