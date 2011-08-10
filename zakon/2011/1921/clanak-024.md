@@ -1,0 +1,6 @@
+## 3. NORMATIVI BROJA I VRSTE KORISNIKA UDOMITELJSTVA
+# Članak 24.
+(1) Udomiteljska obitelj u pravilu skrbi o istoj vrsti korisnika socijalne skrbi, posebno o djeci, a posebno o odraslim osobama, osim kada postoji potreba o zajedničkoj skrbi o roditelju s djetetom, braći i sestrama, maloljetnim roditeljima ili bračnim/izvanbračnim drugovima.
+(2) Udomiteljska obitelj koja skrbi o djeci može istodobno skrbiti o djeci bez roditelja, djeci koju roditelji zanemaruju ili zlorabe svoje roditeljske dužnosti, djeci s problemima u ponašanju, HIV pozitivnoj djeci, djeci s teškoćama u razvoju i djeci žrtvama obiteljskog nasilja, ukoliko je to u najboljem interesu djece i ako ispunjava za to posebne uvjete propisane pravilnikom iz članka 21. ovoga Zakona.
+(3) Udomiteljska obitelj koja skrbi o odraslim osobama može istodobno skrbiti o odraslim osobama s različitom vrstom invaliditeta.
+(4) Iznimno od stavka 1. ovoga članka, u slučaju kada tijekom smještaja kod korisnika nastanu takve promjene da više ne pripada istoj vrsti korisnika socijalne skrbi, udomiteljska obitelj, uz procjenu potreba korisnika i suglasnost Zavoda udomitelja i Zavoda korisnika, može i nadalje skrbiti o korisniku, ako to nije protivno interesima drugih smještenih korisnika.

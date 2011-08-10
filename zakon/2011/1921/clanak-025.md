@@ -1,0 +1,7 @@
+# Članak 25.
+(1) U udomiteljskoj obitelji može biti smješteno najviše troje djece.
+(2) Iznimno, u udomiteljskoj obitelji može biti smješteno i više od troje djece ako se radi o braći i sestrama, majci s malim djetetom ili korisnicima hitnog i povremenog udomiteljstva, koja ispunjava propisane uvjete, uz prethodnu suglasnost Zavoda udomitelja.
+(3) Ako udomiteljska obitelj skrbi o djeci s teškoćama u razvoju, samo jedno dijete može biti dijete s težim tjelesnim, intelektualnim, senzoričkim, komunikacijskim ili višestrukim teškoćama u razvoju kod kojeg je utvrđena takva razina funkcioniranja koja zahtijeva veću stručnu potporu.
+(4) Ako je udomitelj samac, može skrbiti o jednom djetetu ili najviše dvoje djece ako se radi o braći i sestrama, odnosno o jednom djetetu iz stavka 3. ovoga članka.
+(5) Iznimno od stavka 4. ovoga članka, samac koji je srodnički udomitelj može skrbiti o većem broju djece ako je to u njihovom najboljem interesu i ako za to ispunjava propisane uvjete, uz prethodnu suglasnost Zavoda udomitelja.
+(6) Profesionalni udomitelj u pravilu skrbi o troje djece/mlađih osoba s invaliditetom, a može imati i manji broj smještenih korisnika s obzirom na vrstu i opseg dodatnih potreba i razinu funkcioniranja korisnika koji zahtijevaju veću intenzivnu stručnu potporu, kao što je teško bolesno dijete, HIV pozitivno dijete, dijete s većim teškoćama u razvoju, zlostavljano ili zanemarivano dijete, dijete s problemima u ponašanju ili osobnosti, mlađa osoba s težim invaliditetom ili drugim težim promjenama u zdravstvenom stanju.

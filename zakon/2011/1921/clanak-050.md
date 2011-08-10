@@ -1,0 +1,6 @@
+# Članak 50.
+(1) Zavod udomitelja i Zavod korisnika, nakon donošenja rješenja o prestanku prava na skrb izvan vlastite obitelji, zajednički pripremaju udomiteljsku obitelj za povratak korisnika u vlastitu obitelj ili za samostalan život.
+(2) U slučaju da Zavod udomitelja i Zavod korisnika utvrde da je korisnika potrebno uputiti na smještaj u drugu udomiteljsku obitelj, sukladno promjenama u individualnom planu korisnika, zajedno s udomiteljem pripremaju korisnika na odlazak iz obitelji i prihvat u novoj udomiteljskoj obitelji.
+(3) Ako je udomljenom korisniku nakon navršene 18. godine života, radi školovanja, potrebno osigurati ostanak na smještaju u udomiteljskoj obitelji, obveza je Zavoda udomitelja i Zavoda korisnika da zajedno s udomiteljem i udomljenim korisnikom preispitaju planirane ciljeve te da li je daljnji ostanak u udomiteljskoj obitelji u njegovom najboljem interesu.
+(4) Mladim osobama na smještaju u udomiteljskim obiteljima Zavod korisnika obvezan je zajedno s udomiteljem pružiti potporu za uključivanje u samostalan život.
+(5) Nakon prestanka smještaja u udomiteljskoj obitelji mladim osobama Zavod udomitelja i Zavod korisnika obvezni su osigurati praćenje i potporu, kao i kontakt s udomiteljskom obitelji i potporu za uključivanje u lokalnu zajednicu.

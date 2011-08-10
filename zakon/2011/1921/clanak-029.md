@@ -1,0 +1,7 @@
+# Članak 29.
+(1) Zavod udomitelja donosi rješenje o ispunjavanju uvjeta za obavljanje udomiteljstva kojim utvrđuje broj i vrstu korisnika te vrstu ili vrste udomiteljstva, osobi iz članka 27. stavka 1. ovoga Zakona kao udomitelju i njegovoj obitelji, najkasnije u roku od osam dana od davanja stručne ocjene iz članka 28. stavka 1. ovoga Zakona.
+(2) Na osnovi izvršnog rješenja iz stavka 1. ovoga članka, Tim za udomiteljstvo Zavoda udomitelja upućuje udomitelja na obvezno osposobljavanje.
+(3) Nakon završenog osposobljavanja Zavod daje udomitelju dozvolu za rad (licenciju) na vrijeme od pet godina za obavljanje određene vrste udomiteljstva te ga po službenoj dužnosti upisuje u registar udomitelja.
+(4) Iznimno, ako tijekom osposobljavanja Tim za udomiteljstvo procijeni da osoba kojoj je izdano rješenje iz stavka 1. ovoga članka ni uz osposobljavanje nema sposobnosti za pružanje udomiteljske skrbi i obavljanje udomiteljstva, odnosno ako ne završi osposobljavanje, Zavod će rješenjem odbiti zahtjev za izdavanje dozvole (licencije) za obavljanje udomiteljstva i ukinuti rješenje iz stavka 1. ovoga članka.
+(5) Ako u istom kućanstvu živi više odraslih članova obitelji, dozvola (licencija) za obavljanje udomiteljstva može se dati samo jednom od članova obitelji.
+(6) Zavod je obvezan provesti postupak osposobljavanja i davanja dozvole (licencije) za obavljanje udomiteljstva, najkasnije u roku od četiri mjeseca od dana podnošenja zahtjeva.
