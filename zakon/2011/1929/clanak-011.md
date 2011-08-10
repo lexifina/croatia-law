@@ -1,0 +1,31 @@
+# Članak 11.
+U članku 12. stavak 1. mijenja se i glasi:
+»(1) U nadležnosti Agencije su sljedeći regulatorni i drugi poslovi:
+1. donošenje propisa za provedbu ovoga Zakona, koji su u nadležnosti Agencije u skladu s odredbama ovoga Zakona,
+2. nadzor i regulacija cijena, cjenika usluga i općih uvjeta poslovanja operatora na tržištu elektroničkih komunikacijskih mreža i/ili usluga,
+3. donošenje odluka u vezi s utvrđivanjem mjerodavnih tržišta, provedbom analize tržišta te određivanjem i ukidanjem regulatornih obveza operatorima sa značajnom tržišnom snagom,
+4. donošenje odluka u vezi s određivanjem operatora univerzalnih usluga i utvrđivanjem njihovih prava i obveza,
+5. rješavanje sporova između operatora elektroničkih komunikacijskih mreža i/ili usluga te između operatora elektroničkih komunikacijskih mreža i operatora usluga s posebnom tarifom,
+6. utvrđivanje obveza infrastrukturnim operatorima i rješavanje sporova u vezi s ostvarivanjem prava puta i zajedničkog korištenja elektroničke komunikacijske infrastrukture i druge povezane opreme,
+7. nadzor nad provedbom obveza iz općih ovlaštenja i donošenje odluka o zabrani obavljanja djelatnosti elektroničkih komunikacijskih mreža i usluga,
+8. donošenje odluka u vezi s izdavanjem, izmjenom, produljenjem, prijenosom i oduzimanjem pojedinačnih dozvola za uporabu radiofrekvencijskog spektra, izdanih na temelju javnog poziva, javnog natječaja i javne dražbe,
+9. donošenje Plana adresiranja, Plana numeriranja i planova dodjele radijskih frekvencija te utvrđivanje prijedloga Tablice namjene radiofrekvencijskog spektra,
+10. donošenje odluka u vezi s obveznim prijenosom radijskih i televizijskih programa,
+11. rješavanje sporova između krajnjih korisnika usluga i operatora javnih komunikacijskih usluga,
+12. djelotvorno upravljanje radiofrekvencijskim spektrom te adresnim i brojevnim prostorom u elektroničkim komunikacijama,
+13. nadzor nad provedbom usklađenosti poslovanja operatora elektroničkih komunikacijskih mreža i/ili usluga s odredbama ovoga Zakona o sigurnosti i cjelovitosti elektroničkih komunikacijskih mreža i usluga te zaštiti osobnih podataka,
+14. inspekcijski nadzor nad primjenom ovoga Zakona i propisa donesenih na temelju ovoga Zakona,
+15. kontrola radiofrekvencijskog spektra i obavljanje mjerenja, ispitivanja i utvrđivanja uzroka smetnja u radiofrekvencijskom spektru,
+16. obavljanje tehničkih pregleda i radijskih mjerenja te izračun i mjerenje vrijednosti elektromagnetskog polja,
+17. sklapanje ugovora o koncesiji s nakladnicima elektroničkih medija u skladu s posebnim zakonom kojim je uređeno područje elektroničkih medija,
+18. izdavanje potvrda, odobrenja, posebnih ovlaštenja i drugih akata u skladu s odredbama ovoga Zakona i propisa donesenih na temelju ovoga Zakona,
+19. vođenje i redovito obnavljanje baze podataka elektroničke komunikacijske infrastrukture i druge povezane opreme, baze podataka radiofrekvencijskog spektra, brojevnog i adresnog prostora i drugih baza podataka te očevidnika, upisnika i drugih podataka koje Agencija prikuplja u skladu s odredbama ovoga Zakona i propisa donesenih na temelju ovoga Zakona,
+20. redovito objavljivanje podataka, obavijesti i dokumenata iz područja elektroničkih komunikacija, a osobito pokazatelja razvoja tržišta, u skladu s odredbama ovoga Zakona i propisa donesenih na temelju ovoga Zakona,
+21. sudjelovanje u izradi prijedloga strategija, studija, smjernica, programa i provedbenih planova iz članka 4. stavka 1. i 2. ovoga Zakona,
+22. davanje stručnih mišljenja i objašnjenja u primjeni ovoga Zakona i propisa donesenih na temelju ovoga Zakona,
+23. priređivanje javnih savjetovanja i stručnih skupova te provedba istraživanja tržišta i javnog mnijenja u vezi s pojedinim pitanjima iz područja elektroničkih komunikacija,
+24. međunarodna suradnja u području elektroničkih komunikacija te sudjelovanje u radu upravnih i radnih tijela nadležnih europskih i međunarodnih organizacija i institucija u području elektroničkih komunikacija,
+25. sklapanje provedbenih sporazuma iz područja elektroničkih komunikacija na dvostranoj ili višestranoj razini, na temelju dobivene ovlasti,
+26. suradnja s nadležnim nacionalnim regulatornim tijelima država članica Europske unije, BEREC-om, udrugama nadležnih regulatornih tijela i nacionalnim regulatornim tijelima drugih država u elektroničkim komunikacijama,
+27. obavljanje drugih poslova utvrđenih ovim Zakonom i Statutom Agencije.«.
+U stavku 3. brojka: »19.« zamjenjuje se brojkom: »20.«.

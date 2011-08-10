@@ -1,0 +1,10 @@
+# Članak 65.
+Članak 66. mijenja se i glasi:
+»(1) Operatori mogu pregovarati i sklapati ugovore o tehničkim i tržišnim uvjetima pristupa i/ili međupovezivanja na nacionalnoj i međunarodnoj razini.
+(2) Operator, koji zahtijeva ili daje pristup i/ili međupovezivanje, ne mora podnijeti Agenciji prethodnu obavijest iz članka 32. ovoga Zakona, ako ne obavlja djelatnost elektroničkih komunikacijskih mreža i usluga na području Republike Hrvatske.
+(3) Operatori javnih komunikacijskih mreža imaju pravo, a na zahtjev drugih operatora javnih komunikacijskih mreža, i obvezu međusobnog pregovaranja o međupovezivanju u svrhu pružanja javno dostupnih elektroničkih komunikacijskih usluga, kako bi se osiguralo pružanje i međusobno djelovanje tih usluga.
+(4) Operatori, koji su od drugih operatora pribavili podatke prije, tijekom ili nakon postupka pregovaranja o pristupu ili međupovezivanju, mogu te podatke upotrebljavati isključivo u svrhe za koje su dostavljeni, vodeći pritom računa o zaštiti tajnosti tih podataka u skladu sa člankom 15. ovoga Zakona. Dostavljeni podaci ne mogu se davati trećoj strani, što osobito obuhvaća druge ustrojstvene jedinice, podružnice ili povezana društva, kojima bi takvi podaci mogli omogućiti konkurentnu prednost na tržištu.
+(5) Agencija će, po službenoj dužnosti ili na zahtjev bilo koje od stranaka u sporu u vezi s pristupom i međupovezivanjem, a osobito u slučaju spora u vezi s pristupom i međupovezivanjem mreža koje još nisu međusobno povezane, u skladu s odredbama članka 20. i 21. ovoga Zakona, donijeti odluku:
+- o određivanju obveza operatorima koji nadziru pristup svojim krajnjim korisnicima usluga, u svrhu osiguravanja povezanosti između krajnjih korisnika usluga,
+- o određivanju tehničkih ili provedbenih uvjeta kojima se osigurava redoviti rad mreže, u skladu s odgovarajućim normama ili tehničkim specifikacijama iz članka 24. ovoga Zakona.
+(6) Obveze i uvjeti određeni u skladu sa stavkom 5. ovoga članka moraju se temeljiti na načelima objektivnosti, transparentnosti, razmjernosti i nediskriminacije.«.

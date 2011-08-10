@@ -1,0 +1,12 @@
+# Članak 52.
+Naslov iznad članka 51. mijenja se i glasi: »Rješavanje sporova između krajnjih korisnika usluga i operatora«.
+Članak 51. mijenja se i glasi:
+»(1) U slučaju spora između krajnjeg korisnika usluga i operatora javnih komunikacijskih usluga u vezi s pružanjem usluga, iznosom kojim je zadužen za pruženu uslugu, kakvoćom pružene usluge ili prigovorom zbog povrede odredaba pretplatničkog ugovora krajnji korisnik usluga može podnijeti zahtjev za rješavanje spora Agenciji u roku od 30 dana od dana dostavljanja pisanog odgovora povjerenstva za pritužbe potrošača iz članka 50. stavka 13. ovoga Zakona. Zastara osporene tražbine ne teče za vrijeme rješavanja spora pred Agencijom.
+(2) Agencija po službenoj dužnosti pazi na svoju stvarnu nadležnost tijekom cijelog postupka rješavanja spora iz stavka 1. ovoga članka. Ako krajnji korisnik usluga u postupku rješavanja tog spora zbog iste činjenične i pravne osnove podnese tužbu nadležnom sudu, obustavlja se postupak rješavanja spora pred Agencijom.
+(3) Agencija rješava sporove iz stavka 1. ovoga članka na transparentan, objektivan i nediskriminirajući način, na temelju prijedloga Povjerenstva za zaštitu prava korisnika usluga, u skladu s odredbama ovoga Zakona i posebnih propisa.
+(4) Povjerenstvo iz stavka 3. ovoga članka ima svojstvo i zadaće savjetodavnog tijela koje se osniva pri Agenciji prema posebnom zakonu kojim je uređena zaštita potrošača. Način rada Povjerenstva iz stavka 3. ovoga članka pobliže se propisuje pravilnikom koji donosi Vijeće Agencije.
+(5) Operator javnih komunikacijskih usluga obvezan je sudjelovati u postupcima rješavanja sporova iz stavka 1. ovoga članka i u potpunosti surađivati s Agencijom u svrhu rješenja spora, te dostavljati Agenciji sve potrebne podatke, dokumentaciju i očitovanja, u skladu s odredbama članka 15. ovoga Zakona.
+(6) Nakon zaprimljenog prijedloga Povjerenstva iz stavka 3. ovoga članka Agencija odlukom rješava spor iz stavka 1. ovoga članka na temelju podataka, dokumentacije i očitovanja stranaka u postupku, u pravilu bez provođenja usmene rasprave.
+(7) Agencija donosi odluku o rješenju spora iz stavka 1. ovoga članka u najkraćem mogućem roku, a najkasnije u roku od četiri mjeseca od dana podnošenja zahtjeva za rješavanje tog spora.
+(8) Odluka Agencije o rješenju spora iz stavka 1. ovoga članka mora biti podrobno obrazložena.
+(9) Odluku iz stavka 8. ovoga članka Agencija objavljuje u skladu s odredbama članka 14. ovoga Zakona.«.

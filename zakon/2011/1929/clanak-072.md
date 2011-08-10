@@ -1,0 +1,10 @@
+# Članak 72.
+Članak 78. mijenja se i glasi:
+»(1) Operatori javno dostupnih telefonskih usluga moraju podržavati međunarodni predbroj »00« prigodom uspostavljanja međunarodnih poziva prema javnim komunikacijskim mrežama izvan Republike Hrvatske.
+(2) Agencija će osigurati da svi operatori javno dostupnih telefonskih usluga, kada je to tehnički i gospodarski ostvarivo, i kada pozvani pretplatnik zbog tržišnih razloga nije ograničio pristup pozivateljima iz određenih zemljopisnih područja, omoguće:
+1. pristup nezemljopisnim brojevima u Europskoj uniji,
+2. pristup svim brojevima koji se upotrebljavaju u Europskoj uniji, neovisno o tehnologiji i uređajima kojima se koriste operatori, uključujući i brojeve iz planova numeriranja država članica Europske unije i univerzalne međunarodne besplatne pozivne brojeve (UIFN),
+3. pristup službi davanja obavijesti (informacija) u državama članicama Europske unije, putem govornog poziva ili putem SMS poruke,
+4. uspostavljanje svih poziva prema brojevima iz Europskog telefonskog brojevnog prostora (ETNS), ne zadirući pritom u pravo operatora javno dostupnih telefonskih usluga na nadoknadu troškova prijenosa poziva kroz vlastitu javnu komunikacijsku mrežu, koji moraju biti usporedivi s troškovima što se odnose na pozive prema drugim državama članicama Europske unije.
+(3) Agencija će osigurati da svi operatori javnih komunikacijskih mreža i javno dostupnih elektroničkih komunikacijskih usluga onemoguće, na pojedinačnoj osnovi, pristup brojevima ili uslugama kada postoji opravdana sumnja u zlouporabu ili prijevaru, te će u takvim slučajevima donijeti odluku kojom će operatoru narediti zadržavanje pripadajućih prihoda od međupovezivanja ili od drugih usluga.
+(4) Operatori javno dostupnih telefonskih usluga moraju osigurati da korisnici usluga iz drugih država mogu pristupati nezemljopisnim brojevima u Republici Hrvatskoj ako je to tehnički i gospodarski ostvarivo, osim u slučaju kada je pozvani pretplatnik zbog tržišnih razloga ograničio pristup pozivateljima iz određenih zemljopisnih područja.«.

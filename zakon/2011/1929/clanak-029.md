@@ -1,0 +1,5 @@
+# Članak 29.
+Članak 29. mijenja se i glasi:
+»(1) Za pravo puta na općem dobru i na nekretninama iz članka 27. stavka 1. ovoga Zakona plaća se naknada na temelju izdane potvrde o pravu puta iz članka 28. ovoga Zakona, a izračun i visina naknade te način plaćanja naknade propisuju se pravilnikom koji donosi Vijeće Agencije, pri čemu visina naknade mora predstavljati pravičan razmjer između prava vlasnika nekretnina i interesa operatora elektroničkih komunikacijskih usluga te javnog interesa za razvoj tržišta elektroničkih komunikacija.
+(2) Naknada iz stavka 1. ovoga članka za opće dobro i nekretnine u vlasništvu Republike Hrvatske te jedinica lokalne i područne (regionalne) samouprave plaća se godišnje, po četvornom metru zemljišta koje se upotrebljava za elektroničku komunikacijsku infrastrukturu iz članka 27. stavka 5. ovoga Zakona, a utvrđuje se jednoznačno za pojedinu vrstu nekretnine ili za opće dobro, na cijelom području Republike Hrvatske.
+(3) Pravilnikom iz stavka 1. ovoga članka pobliže se propisuje i postupak izdavanja te oblik i sadržaj obrasca potvrde o pravu puta iz članka 28. ovoga Zakona.«.

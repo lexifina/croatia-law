@@ -1,0 +1,7 @@
+# Članak 64.
+Naslov iznad članka 65. mijenja se i glasi: »Dragovoljno razdvajanje vertikalno integriranih operatora«.
+Članak 65. mijenja se i glasi:
+»(1) Operator sa značajnom tržišnom snagom na jednom ili više mjerodavnih tržišta obvezan je u primjerenom roku unaprijed izvijestiti Agenciju o namjeri prijenosa svoje pristupne mreže ili njezina značajnog dijela u razdvojenu pravnu osobu s drukčijim vlasništvom, ili o uspostavi zasebne poslovne jedinice za pružanje istovjetnih proizvoda i usluga pristupa operatorima usluga na maloprodajnoj razini, uključujući i vlastite poslovne jedinice za maloprodajne usluge, kao i o svakoj promjeni te namjere i konačnom ishodu postupka razdvajanja.
+(2) Rok iz stavka 1. ovoga članka mora biti primjeren kako bi se Agenciji omogućila procjena učinaka namjeravanog razdvajanja iz stavka 1. ovoga članka na postojeće regulatorne obveze.
+(3) U svrhu procjene iz stavka 2. ovoga članka, Agencija će provesti usklađenu analizu drugih mjerodavnih tržišta povezanih s pristupnom mrežom, u skladu s postupcima iz članka 52. stavka 1. ovoga Zakona, te će, na temelju provedene analize, odrediti, zadržati, izmijeniti ili ukinuti regulatorne obveze iz članka 58. do 63. ovoga Zakona, u skladu s odredbama članka 52. do 56. ovoga Zakona.
+(4) Razdvojenoj pravnoj osobi i/ili zasebnoj poslovnoj jedinici iz stavka 1. ovoga članka može se odrediti bilo koja od regulatornih obveza iz članka 58. do 63. ovoga Zakona, ili bilo koja druga regulatorna obveza koju odobri Komisija, u skladu sa člankom 56. stavkom 4. i 5. ovoga Zakona.«.

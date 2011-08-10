@@ -1,0 +1,2 @@
+# Članak 23.
+Naslov Glave IV. mijenja se i glasi: »IV. ELEKTRONIČKA KOMUNIKACIJSKA INFRASTRUKTURA I DRUGA POVEZANA OPREMA«.

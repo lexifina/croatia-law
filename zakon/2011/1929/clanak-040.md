@@ -1,0 +1,10 @@
+# Članak 40.
+Članak 40. mijenja se i glasi:
+»(1) Sredstva za nadoknadu neto troškova iz članka 38. ovoga Zakona podmiruju se s posebnog računa koji se otvara pri Agenciji.
+(2) Agencija utvrđuje odlukom sustav nadoknade neto troškova operatorima univerzalnih usluga, nakon donošenja odluke iz članka 38. stavka 3. ovoga Zakona, u skladu s pravilima o državnim potporama.
+(3) Sustav nadoknade neto troškova iz stavka 2. ovoga članka ostvaruje sredstva od doprinosa svih operatora javnih komunikacijskih usluga čiji je udjel u ukupnom godišnjem prihodu ostvarenom na domaćim maloprodajnim tržištima tih usluga veći od 2%. Iznos doprinosa svakoga pojedinog operatora javnih komunikacijskih usluga mora biti razmjeran udjelu njegova godišnjeg prihoda u odnosu na ukupan godišnji prihod svih operatora koji su obvezani na doprinos u skladu s ovim stavkom. Ukupan iznos doprinosa mora odgovarati iznosu nadoknada neto troškova koje je Agencija utvrdila odlukama iz članka 38. stavka 3. ovoga Zakona.
+(4) Nakon utvrđivanja sustava nadoknade neto troškova iz stavka 2. ovoga članka svi operatori javnih komunikacijskih usluga obvezni su izvijestiti Agenciju o svojim godišnjim prihodima na maloprodajnim tržištima tih usluga, i to najkasnije do kraja ožujka za prethodnu kalendarsku godinu.
+(5) Ako operator javnih komunikacijskih usluga ne ispuni obvezu iz stavka 4. ovoga članka, Agencija će na temelju dostupnih podataka procijeniti godišnji prihod tog operatora.
+(6) Agencija utvrđuje odlukom iznos doprinosa operatora javnih komunikacijskih usluga iz stavka 3. ovoga članka. Operatori su obvezni uplatiti taj doprinos na račun Agencije iz stavka 1. ovoga članka, u roku od 30 dana od dana dostave te odluke.
+(7) Isplatu nadoknade neto troškova iz stavka 1. ovoga članka Agencija određuje odlukama iz članka 38. stavka 3. ovoga Zakona, i to na kraju svakog mjeseca u kojem je izvršena uplata na račun Agencije iz stavka 1. ovoga članka.
+(8) Nadoknadu neto troškova iz stavka 1. ovoga članka ne može tražiti operator univerzalnih usluga koji ima više od 70% udjela u ukupnom prihodu ostvarenom na tržištu tih usluga.«.

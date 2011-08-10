@@ -1,0 +1,33 @@
+# Članak 5.
+Članak 5. mijenja se i glasi:
+»(1) Hrvatska agencija za poštu i elektroničke komunikacije (u daljnjem tekstu: Agencija) je nacionalna regulatorna agencija za obavljanje regulatornih i drugih poslova u okviru djelokruga i nadležnosti propisanih ovim Zakonom i posebnim zakonom kojim je uređeno područje poštanskih usluga.
+(2) U obavljanju regulatornih poslova propisanih ovim Zakonom Agencija je obvezna poduzimati sve primjerene mjere, primjenjujući načela objektivnosti, transparentnosti, nediskriminacije i razmjernosti, kako bi ostvarila regulatorna načela i ciljeve utvrđene u stavku 3., 4. i 5. ovoga članka, i to osobito na sljedeće načine:
+1. promicanjem regulatorne predvidljivosti, osiguravajući dosljedan regulatorni pristup kroz odgovarajuća razdoblja provjere,
+2. sprječavanjem diskriminacije u postupanju prema operatorima elektroničkih komunikacijskih mreža i usluga u sličnim okolnostima,
+3. zaštitom tržišnog natjecanja na dobrobit krajnjih korisnika usluga i promicanjem, gdje je prikladno, tržišnog natjecanja temeljenog na infrastrukturi,
+4. promicanjem djelotvornih ulaganja i inovacija u novu i naprednu infrastrukturu, na način kojim se osigurava da bilo koja obveza pristupa odgovarajuće vodi računa o riziku ulaganja, te se omogućuju različiti sporazumi o suradnji između ulagača u infrastrukturu i tražitelja pristupa kako bi se raspodijelio rizik ulaganja, osiguravajući pri tome zaštitu tržišnog natjecanja i poštivanje načela nediskriminacije,
+5. uzimajući na odgovarajući način u obzir različitosti uvjeta vezanih uz krajnje korisnike usluga i tržišno natjecanje, koji postoje u različitim zemljopisnim područjima unutar države,
+6. određivanjem prethodnih regulatornih obveza samo u slučaju nepostojanja djelotvornog i održivog tržišnog natjecanja, te umanjivanjem ili ukidanjem tih obveza čim se taj uvjet ispuni,
+7. poticanjem međusobnog djelovanja elektroničkih komunikacijskih mreža i elektroničkih komunikacijskih usluga.
+(3) Agencija promiče tržišno natjecanje u obavljanju djelatnosti elektroničkih komunikacijskih mreža i usluga te elektroničke komunikacijske infrastrukture i povezane opreme, i to osobito na sljedeće načine:
+1. osiguravanje mogućnosti za korisnike usluga, uključujući osobe s invaliditetom, osobe starije životne dobi i osobe s posebnim socijalnim potrebama, da ostvare najveće pogodnosti u pogledu izbora, cijene i kakvoće usluga,
+2. sprječavanjem narušavanja ili ograničavanja tržišnog natjecanja u području elektroničkih komunikacija, uključujući i prijenos sadržaja,
+3. poticanjem učinkovite uporabe i osiguravanjem djelotvornog upravljanja radiofrekvencijskim spektrom te adresnim i brojevnim prostorom.
+(4) Agencija promiče interese korisnika usluga, i to osobito na sljedeće načine:
+1. osiguravanjem pristupa univerzalnim uslugama za sve korisnike usluga u skladu s odredbama ovoga Zakona,
+2. osiguravanjem visoke razine zaštite krajnjih korisnika usluga u njihovim odnosima s operatorima, i to osobito omogućivanjem dostupnosti jednostavnog i pristupačnog postupka rješavanja sporova u skladu s odredbama ovoga Zakona,
+3. osiguravanjem visoke razine zaštite osobnih podataka i privatnosti,
+4. poticanjem davanja jasnih obavijesti, i to osobito u pogledu objave i transparentnosti cijena i uvjeta korištenja javno dostupnih elektroničkih komunikacijskih usluga, te pružanja usporedivih obavijesti krajnjim korisnicima usluga od strane operatora javnih komunikacijskih usluga, primjerice putem interaktivnih vodiča ili sličnih tehničkih postupaka, pri čemu takve vodiče ili slične tehničke postupke može osigurati i Agencija, ili može povjeriti njihovo pružanje trećoj strani, na način i uz uvjete koji se propisuju pravilnikom iz članka 34. ovoga Zakona,
+5. rješavanjem potreba posebnih društvenih skupina, osobito osoba s invaliditetom, osoba starije životne dobi i osoba s posebnim socijalnim potrebama,
+6. osiguravanjem održavanja cjelovitosti i sigurnosti javnih komunikacijskih mreža,
+7. promicanjem mogućnosti krajnjih korisnika usluga da pristupaju i raspačavaju podatke ili se koriste aplikacijama i uslugama po vlastitom izboru,
+8. u suradnji s drugim nadležnim tijelima, promicanjem suradnje između operatora javnih komunikacijskih usluga i skupina za promicanje zakonitog sadržaja u elektroničkim komunikacijskim mrežama i uslugama.
+(5) Agencija pridonosi razvoju unutarnjeg tržišta Europske unije, i to osobito na sljedeće načine:
+1. uklanjanjem preostalih zapreka obavljanju djelatnosti elektroničkih komunikacijskih mreža i usluga te elektroničke komunikacijske infrastrukture i povezane opreme na europskoj razini,
+2. poticanjem uspostave i razvoja transeuropskih mreža te međusobnog djelovanja (interoperabilnosti) sveeuropskih usluga i povezanosti između krajnjih korisnika usluga,
+3. suradnjom s drugim nadležnim nacionalnim regulatornim tijelima, Komisijom i BEREC-om kako bi se osigurao razvoj dosljedne regulatorne prakse i dosljedna primjena mjerodavne pravne stečevine Europske unije,
+4. suradnjom s drugim nadležnim nacionalnim regulatornim tijelima i Komisijom u strateškom planiranju, usklađivanju i ujednačavanju uporabe radiofrekvencijskog spektra na europskoj razini, uzimajući u obzir, uz ostalo, gospodarske, sigurnosne, zdravstvene, kulturne, znanstvene, društvene i tehničke zahtjeve te načela slobode izražavanja i javnog interesa politika Europske unije, kao i različite interese korisnika radiofrekvencijskog spektra, u svrhu optimalne uporabe radiofrekvencijskog spektra i izbjegavanja štetnih smetnja,
+5. suradnjom s drugim nadležnim nacionalnim regulatornim tijelima i Komisijom u promicanju usklađivanja pristupa politici upravljanja radiofrekvencijskim spektrom na europskoj razini te, gdje je prikladno, ujednačavanja uvjeta u pogledu dostupnosti i djelotvorne uporabe radiofrekvencijskog spektra, radi uspostave i djelovanja unutarnjeg tržišta Europske unije u elektroničkim komunikacijama.
+(6) U obavljanju regulatornih poslova propisanih ovim Zakonom Agencija ne smije tražiti niti primati upute ni od kojega drugog tijela.
+(7) U obavljanju regulatornih poslova propisanih ovim Zakonom Agencija će u najvećoj mogućoj mjeri voditi računa o mjerodavnoj pravnoj stečevini Europske unije u području elektroničkih komunikacija i tržišnog natjecanja, te o preporukama i smjernicama koje donosi Komisija, kao i o mišljenjima i zajedničkim stajalištima koja usvaja BEREC, a u svrhu usklađene primjene mjerodavne pravne stečevine u državama članicama Europske unije.
+(8) U slučaju donošenja odluke o neprimjenjivanju preporuke ili smjernice Komisije iz stavka 7. ovoga članka, Agencija je obvezna izvijestiti Komisiju i navesti razloge za takvu odluku.«.

@@ -1,0 +1,3 @@
+# Članak 97.
+U članku 100. stavak 4. mijenja se i glasi:
+»(4) Korištenje elektroničkih komunikacijskih mreža za pohranu podataka ili za pristup već pohranjenim podacima u terminalnoj opremi pretplatnika ili korisnika usluga dopušteno je samo u slučaju kada je taj pretplatnik ili korisnik usluga dao svoju privolu, nakon što je dobio jasnu i potpunu obavijest u skladu s posebnim propisima o zaštiti osobnih podataka, i to osobito o svrhama obrade podataka. Time se ne može spriječiti tehnička pohrana podataka ili pristup podacima isključivo u svrhu obavljanja prijenosa komunikacija putem elektroničke komunikacijske mreže, ili, ako je to nužno, radi pružanja usluga informacijskog društva na izričit zahtjev pretplatnika ili korisnika usluga.«.

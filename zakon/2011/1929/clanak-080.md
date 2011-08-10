@@ -1,0 +1,13 @@
+# Članak 80.
+Iza članka 85. dodaje se naslov i članak 85.a koji glase:
+»Provjera ograničenja uporabe radiofrekvencijskog spektra u izdanim dozvolama
+Članak 85.a
+(1) Ograničenja uporabe radiofrekvencijskog spektra u dozvolama za uporabu radiofrekvencijskog spektra, u skladu sa člankom 82.a stavkom 6. i 7. ovoga Zakona, mogu se provjeravati u skladu sa člankom 85. ovoga Zakona na temelju zahtjeva nositelja dozvole za uporabu radiofrekvencijskog spektra u razdoblju od pet godina od dana stupanja na snagu ovoga Zakona.
+(2) Agencija će prije donošenja odluke o zahtjevu iz stavka 1. ovoga članka obavijestiti podnositelja zahtjeva o ishodu provedene provjere ograničenja iz stavka 1. ovoga članka, navodeći pritom opseg njegova prava na uporabu radiofrekvencijskog spektra nakon provedene provjere. Agencija će u obavijesti o ishodu provjere iz stavka 1. ovoga članka podnositelju zahtjeva omogućiti razuman rok za povlačenje njegova zahtjeva.
+(3) U slučaju da podnositelj zahtjeva iz stavka 1. ovoga članka povuče svoj zahtjev u skladu sa stavkom 2. ovoga članka, uvjeti uporabe radiofrekvencijskog spektra ostaju neizmijenjeni do isteka valjanosti dozvole za uporabu radiofrekvencijskog spektra, a najdulje pet godina od dana stupanja na snagu ovoga Zakona.
+(4) Nakon isteka roka iz stavka 1. ovoga članka Agencija će poduzeti mjere u skladu s odredbama članka 82.a ovoga Zakona i osigurati da se odredba članka 81. stavka 2. podstavka 2. ovoga Zakona primjenjuje na sve dozvole za uporabu radiofrekvencijskog spektra izdane do dana stupanja na snagu ovoga Zakona, osim u slučajevima iz članka 82.a stavka 6. i 7. ovoga Zakona.
+(5) Ako Agencija utvrdi u skladu sa člankom 82. ovoga Zakona i stavkom 1. ovoga članka da uvjeti iz članka 82.a stavka 6. i 7. ovoga Zakona više nisu primjenjivi, može za radiofrekvencijski pojas, koji je predmet postupka iz stavka 1. ovoga članka i za koji je izdana dozvola iz članka 88., 88.a, 89., 90. ili 92. ovoga Zakona, odrediti sljedeće:
+1. da se radiofrekvencijski pojas može upotrebljavati na temelju dozvole iz članka 87. ovoga Zakona, nakon isteka roka valjanosti dozvole iz članka 88., 88.a, 89., 90. ili 92. ovoga Zakona,
+2. da se radiofrekvencijski pojas može prenijeti ili dati u najam u skladu s odredbama članka 92. ovoga Zakona.
+(6) Agencija će u primjeni odredaba ovoga članka poduzimati odgovarajuće mjere za promicanje pravednoga tržišnog natjecanja.
+(7) Mjere, koje Agencija određuje u primjeni odredaba ovoga članka, ne predstavljaju odobravanje novih prava na uporabu radiofrekvencijskog spektra, te se na njih ne primjenjuju odredbe članka 88. do 93. ovoga Zakona.«.

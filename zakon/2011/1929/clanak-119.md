@@ -1,0 +1,7 @@
+# Članak 119.
+(1) Ministar će u roku od 30 dana od dana stupanja na snagu ovoga Zakona donijeti akt kojim će utvrditi koja sredstva i oprema koju upotrebljava Ministarstvo postaje imovina Agencije.
+(2) Ministar će zajedno s predsjednikom Vijeća Agencije odrediti aktom iz stavka 1. ovoga članka koji službenici Ministarstva, koji obavljaju poslove što prema odredbama ovoga Zakona ulaze u nadležnost Agencije, postaju u roku od 60 dana od dana stupanja na snagu ovoga Zakona radnici Agencije.
+(3) Vijeće Agencije donijet će opći akt iz članka 107. ovoga Zakona u roku iz stavka 2. ovoga članka.
+(4) Danom stupanja na snagu ovoga Zakona inspektori elektroničkih komunikacija i nadzornici elektroničkih komunikacija nastavljaju obavljati poslove na kojima su zatečeni u trenutku stupanja na snagu ovoga Zakona, te zadržavaju sva stečena prava iz državne službe, odnosno stečena prava iz radnog odnosa, do sklapanja ugovora o radu u skladu s općim aktom Agencije iz stavka 3. ovoga članka.
+(5) Do početka obavljanja poslova iz nadležnosti Agencije u skladu s odredbama ovoga Zakona, poslove inspekcijskog nadzora iz Zakona o elektroničkim komunikacijama (»Narodne novine«, br. 73/08.) obavljat će Ministarstvo.
+(6) Postupci u okviru inspekcijskog i stručnog nadzora, koji su započeti prema odredbama Zakona o elektroničkim komunikacijama (»Narodne novine«, br. 73/08.) do dana stupanja na snagu ovoga Zakona, dovršit će se prema odredbama toga Zakona.

@@ -1,0 +1,7 @@
+# Članak 49.
+Članak 48. mijenja se i glasi:
+»(1) Ako pretplatnik nije podmirio dugovanje za pružene usluge, operator javnih komunikacijskih usluga ima pravo privremeno isključiti pretplatničku terminalnu opremu iz elektroničke komunikacijske mreže u skladu s općim uvjetima poslovanja.
+(2) Operator javnih komunikacijskih usluga može privremeno isključiti pretplatničku terminalnu opremu iz elektroničke komunikacijske mreže ako pretplatnik nije podmirio dospjela dugovanja u roku od 30 dana od dana dostavljanja pisane opomene, s naznakom privremenog isključenja u slučaju nepodmirenja dugovanja, i ako nije podnio prigovor iz članka 50. ovoga Zakona.
+(3) Privremeno isključenje pretplatničke terminalne opreme iz stavka 2. ovoga članka mora se, u skladu s tehničkim mogućnostima, ograničiti samo na one usluge za koje nije podmireno dospjelo dugovanje.
+(4) Za vrijeme trajanja privremenog isključenja pretplatničke terminalne opreme iz stavka 2. ovoga članka pretplatnik ima pravo primati dolazne pozive kada se nalazi u Republici Hrvatskoj, te ima pravo upućivati odlazne pozive prema hitnim službama i besplatnom broju službe za korisnike usluga svojeg operatora.
+(5) Ako pretplatnik ne podmiri dugovanje ni nakon isteka 30 dana od dana privremenog isključenja, operator može trajno isključiti pretplatničku terminalnu opremu iz elektroničke komunikacijske mreže i raskinuti pretplatnički ugovor u skladu s općim uvjetima poslovanja.«.

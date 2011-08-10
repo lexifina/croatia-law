@@ -1,0 +1,12 @@
+# Članak 114.
+Članak 118. mijenja se i glasi:
+»(1) Novčanom kaznom u iznosu od 1% do najviše 5% vrijednosti ukupnoga godišnjeg bruto prihoda od obavljanja djelatnosti elektroničkih komunikacijskih mreža i usluga, ostvarenog u posljednjoj godini za koju postoje zaključena godišnja financijska izvješća, kaznit će se za prekršaj pravna osoba:
+1. ako u svojstvu operatora univerzalnih usluga ne pribavi prethodno odobrenje Agencije za maloprodajne cijene univerzalnih usluga iz članka 35. stavka 4. ovoga Zakona,
+2. ako u svojstvu operatora sa značajnom tržišnom snagom ne postupi u skladu s odlukama Agencije iz članka 56. stavka 2. ili 4. ovoga Zakona u vezi s regulatornim obvezama iz članka 58. do 64. ovoga Zakona,
+3. ako ne podnese prijavu iz članka 68. stavka 2. ovoga Zakona ili ne postupi u skladu s odlukom Agencije iz članka 68. stavka 6. ovoga Zakona,
+4. ako ne osigura ili ne održava o vlastitom trošku funkciju tajnog nadzora elektroničkih komunikacijskih mreža i usluga, ili elektroničke komunikacijske vodove do operativno-tehničkog tijela nadležnog za aktivaciju i upravljanje mjerom tajnog nadzora elektroničkih komunikacija, ili ne ispunjava obveze prema tom tijelu ili prema tijelima ovlaštenim za primjenu mjera tajnog nadzora elektroničkih komunikacijskih mreža i usluga, u skladu s odredbama članka 108. stavka 1., 3. ili 4. ovoga Zakona.
+(2) Za prekršaj iz stavka 1. ovoga članka može se kazniti i odgovorna osoba u pravnoj osobi novčanom kaznom u iznosu od 20.000,00 do 100.000,00 kuna.
+(3) Ako prekršaj iz stavka 1. ovoga članka počini fizička osoba, kaznit će se novčanom kaznom u iznosu od 20.000,00 do 100.000,00 kuna.
+(4) Iznimno od odredbe stavka 1., 2. i 3. ovoga članka, ako je prekršaj počinjen iz koristoljublja kojim je ostvarena imovinska korist, pravna osoba kaznit će se novčanom kaznom u dvostrukom iznosu određenom na temelju stavka 1. ovoga članka, a odgovorna osoba u pravnoj osobi ili fizička osoba kaznit će se novčanom kaznom u iznosu od 40.000,00 do 200.000,00 kuna.
+(5) Za prekršaj iz stavka 1. ovoga članka može se izreći i zaštitna mjera zabrane obavljanja djelatnosti u trajanju od tri mjeseca do jedne godine za pravnu osobu, ili zaštitna mjera zabrane obavljanja djelatnosti, poslova ili dužnosti u trajanju od tri mjeseca do jedne godine za fizičku osobu ili odgovornu osobu u pravnoj osobi.
+(6) Imovinska korist ostvarena prekršajem oduzet će se.«.

@@ -1,0 +1,4 @@
+# Članak 94.
+U članku 97. stavci 1. i 2. mijenjaju se i glase:
+»(1) Na temelju odluke tijela nadležnog za elektroničke medije o obveznom prijenosu jednog ili više radijskih i/ili televizijskih programa u Republici Hrvatskoj na državnoj, regionalnoj ili drugoj razini, te dopunskih usluga, a osobito usluga pristupačnosti koje omogućuju odgovarajući pristup krajnjim korisnicima usluga s invaliditetom, Agencija će odlukom odrediti operatore javnih komunikacijskih mreža koji imaju obvezu prijenosa tih programa.
+(2) Obveza prijenosa iz stavka 1. ovoga članka može se odrediti, u skladu s načelima razmjernosti i transparentnosti, operatorima samo onih javnih komunikacijskih mreža koje upotrebljava značajan broj krajnjih korisnika usluga kao glavni način prijma radijskih i televizijskih programa, i to samo u slučaju kada za to postoji javni interes, što se mora obrazložiti u odluci Agencije iz stavka 1. ovoga članka.«.
