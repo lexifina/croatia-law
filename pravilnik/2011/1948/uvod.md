@@ -1,0 +1,1 @@
+Na temelju članka 17. alineje 1. Zakona o naseljima (»Narodne novine« br. 54/88) ravnatelj Državne geodetske uprave uz suglasnost ministra zaštite okoliša, prostornog uređenja i graditeljstva i ravnatelja Državnog zavoda za statistiku donosi

@@ -1,0 +1,2 @@
+# Članak 6.
+U članku 16. stavak 1. riječi »Općinski organ uprave nadležan za geodetske poslove (dalje u tekstu: nadležni organ) u suradnji s općinskim organom uprave nadležnim za prostorno planiranje« zamjenjuju se riječima »Tijelo koje je sukladno posebnom propisu nadležno za geodetske poslove u lokalnoj samoupravi (u daljnjem tekstu: nadležno tijelo), u suradnji s odgovarajućim županijskim odnosno gradskim tijelom nadležnim za prostorno uređenje,«.
