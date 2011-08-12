@@ -1,0 +1,1 @@
+Na temelju članka 65.d. Zakona o osiguranju (»Narodne novine« broj 151/05, 87/08 i 82/09), Uprava Hrvatske agencije za nadzor financijskih usluga na sjednici održanoj dana 29. srpnja 2011. godine donijela je

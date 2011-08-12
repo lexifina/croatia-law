@@ -1,0 +1,3 @@
+# Članak 1.
+U članku 3. Pravilnika o promidžbenim aktivnostima (»Narodne novine« broj 156/2009) stavak 1. mijenja se i glasi:
+» (1) Promidžbene informacije koje sadržavaju podatke o financijskom stanju, položaju na tržištu i rezultatima poslovanja Društva, Društvo je dužno najkasnije 15 (petnaest) dana prije objave dostaviti Hrvatskoj agenciji za nadzor financijskih usluga (dalje u tekstu: Agencija) na odobrenje. Društvo je dužno prikazati promidžbenu informaciju o pripisanoj dobiti po ugovorima životnog osiguranja sa sudjelovanjem u dobiti za pojedinu financijsku godinu sukladno Uputi o načinu iskazivanja sudjelovanja u dobiti po ugovorima životnih osiguranja u promidžbenim aktivnostima društva za osiguranje koja je sastavni dio ovog Pravilnika (Prilog 1).«
