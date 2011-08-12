@@ -1,0 +1,7 @@
+## 11. UPRAVA ZA PRAVNE POSLOVE
+# Članak 49.
+Uprava za pravne poslove je upravna organizacija u sastavu Ministarstva koja obavlja upravne poslove vezane uz izradu nacrta strategija i nacionalnih programa, nacrta prijedloga zakona i podzakonskih akata iz područja zdravstvene zaštite, zdravstvenog osiguranja, sanitarne inspekcije, socijalne skrbi, zaštite osoba s invaliditetom, humanitarne pomoći, zaštite žrtava i sudionika rata; prati usklađenost propisa iz područja zdravstvene zaštite, zdravstvenog osiguranja, sanitarne inspekcije, socijalne skrbi, te javnog zdravstva s propisima Europske unije; obavlja upravne poslove vezane uz provođenje zakona i drugih propisa iz područja zdravstvene zaštite i zdravstvenog osiguranja; sudjeluje u postupku naknade štete od korisnika prava socijalne skrbi; vodi propisane registre te prikuplja podatke radi izrade potrebnih izvješća i analiza iz djelokruga rada Uprave; zastupa Ministarstvo u upravnim sporovima; priprema odgovore na pitanja zastupnika Hrvatskoga sabora; surađuje s pravosudnim tijelima u Republici Hrvatskoj i u Europskoj uniji; podnosi izvješća o učinjenom u kvantitativnom i kvalitativnom smislu; brine da svaki rashod bude opravdan stvarnom potrebom i potvrđen prethodnom kontrolom.
+Za obavljanje poslova Uprave za pravne poslove ustrojavaju se:
+11.1. Služba za normativne poslove
+11.2. Služba za zastupanje i suradnju s pravosudnim tijelima.
+11.1. Služba za normativne poslove

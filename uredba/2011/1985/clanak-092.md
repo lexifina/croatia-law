@@ -1,0 +1,3 @@
+# Članak 92.
+Odsjek za međudržavnu suradnju u području posvojenja obavlja poslove središnjeg tijela u postupcima međunarodnog posvojenja; planira kratkoročne i srednjoročne radne zadatke; izrađuje načine postupanja o različitim procesima rada; postupa po upitima drugih tijela i građana; analizira funkcije iz djelokruga rada Odsjeka; vodi registre u vezi postupanja u procesu rada; podnosi izvješća o učinjenom u kvantitativnom i kvalitativnom smislu, obavlja međunarodnu i međuresornu suradnju; prati međunarodne propise iz svog djelokruga; brine da je svaki rashod opravdan stvarnom potrebom i potvrđen prethodnom kontrolom.
+13.2.3.2. Odsjek za međudržavnu suradnju u području skrbi za djecu i zaštitu osoba pod skrbništvom

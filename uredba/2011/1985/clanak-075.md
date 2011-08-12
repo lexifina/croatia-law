@@ -1,0 +1,8 @@
+# Članak 75.
+Odjel za sjevernu Dalmaciju obavlja inspekcijske, upravne i stručne poslove na teritoriju jedinice lokalne i regionalne (područne) samouprave koji se odnose na nadzor nad prometom predmeta opće uporabe; nadzor i zaštitu pučanstva od ionizirajućih i neionizirajućih zračenja; zaštitu pučanstva od zaraznih bolesti; nadzor nad zdravstvenom ispravnosti hrane u proizvodnji i prometu; nadzor nad prometom, uporabom i zbrinjavanjem kemikalija; nadzor nad prometom genetski modificiranih organizama; obavlja sanitarno-inspekcijski nadzor nad izgradnjom građevina koje podliježu sanitarnom nadzoru, građevinama i uređajima za javnu vodoopskrbu do 50.000 ekvivalentnih stanovnika te uređajima za pročišćavanje otpadnih voda do 50.000 ekvivalentnih stanovnika; obavlja nadzor nad provođenjem javnozdravstvenih mjera za zaštitu zdravlja ljudi od štetnih čimbenika okoliša, brine da svaki rashod bude opravdan stvarnom potrebom i potvrđen prethodnom kontrolom.
+Za obavljanje poslova Odjela za sjevernu Dalmaciju ustrojavaju se:
+12.3.5.1. Odsjek za Ličko-senjsku županiju sa sjedištem u Gospiću obavlja poslove iz djelokruga rada Odjela na području Ličko-
+-senjske županije. Odsjek ima ispostave u Otočcu i Senju.
+12.3.5.2. Odsjek za Zadarsku županiju sa sjedištem u Zadru obavlja poslove iz djelokruga rada Odjela na području Zadarske županije. Odsjek ima ispostave u Biogradu na Moru i Pagu.
+12.3.5.3. Odsjek za Šibensko-kninsku županiju sa sjedištem u Šibeniku obavlja poslove iz djelokruga rada Odjela na području Šibensko-kninske županije. Odsjek ima ispostave u Kninu i Drnišu.
+12.3.6. Odjel za južnu Dalmaciju

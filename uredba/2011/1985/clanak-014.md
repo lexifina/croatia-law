@@ -1,0 +1,3 @@
+# Članak 14.
+Služba za ljudske potencijale prati i provodi mjere kadrovske politike Ministarstva, prati i osigurava primjenu zakona i drugih propisa iz područja radno-pravnih odnosa, daje stručna mišljenja i objašnjenja u vezi s primjenom i provedbom zakona, obavlja administrativne poslove izbora kandidata za prijam u državnu službu, priprema prijedloge rješenja o prijamu i rasporedu službenika i namještenika te ostala rješenja iz područja radno-pravnih odnosa, sudjeluje u izradi, donošenju i provedbi programa razvoja, upravljanja i stručnog usavršavanja te prati statusna stanja dužnosnika, državnih službenika i namještenika, njihov rad te napredovanje i promicanje u službi.
+7.2. Služba za stručne, opće i tehničke poslove
