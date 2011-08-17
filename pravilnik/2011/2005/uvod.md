@@ -1,0 +1,1 @@
+Na temelju članka 108. stavka 1. točke 13. Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine« broj: 174/2004., 92/2005., 02/2007., 107/2007., 65/2009., 137/2009., 146/2010. i 55/2011.), ministar obitelji, branitelja i međugeneracijske solidarnosti, donosi
