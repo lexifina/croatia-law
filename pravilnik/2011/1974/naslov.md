@@ -1,0 +1,1 @@
+Pravilnik o izmjenama i dopunama Pravilnika o načinu vođenja evidencija i izdavanja potvrda o primitku dobrovoljnih priloga (donacija) i članarina, izvješćima o primljenim donacijama za financiranje izborne promidžbe i izvješćima o troškovima (rashodima) izborne promidžbe te financijskim izvještajima za financiranje izborne promidžbe

@@ -1,0 +1,1 @@
+Na temelju članka 10. stavka 6., članka 24. stavka 2., članka 34. stavka 4. Zakona o financiranju političkih aktivnosti i izborne promidžbe (»Narodne novine«, broj 24/11 i 61/11), ministrica financija donosi
