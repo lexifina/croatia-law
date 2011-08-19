@@ -1,0 +1,4 @@
+# Članak 13.
+OBVEZE PRIJEVOZNIKA I PREKRŠAJI
+1. Prijevoznici iz ugovornih stranaka i posade njihovih vozila moraju tijekom boravka na državnom području druge ugovorne stranke poštivati nacionalno zakonodavstvo na snazi u toj državi.
+2. Ako prijevoznik iz jedne ugovorne stranke počini bilo kakvu povredu odredaba ovog Ugovora, nadležno tijelo ugovorne stranke na čijem je državnom području došlo do povrede dužno je, ne dovodeći u pitanje pravne postupke u svojoj državi, izvijestiti nadležno tijelo druge ugovorne stranke, koje će poduzeti korake predviđene nacionalnim zakonodavstvom te države. U osobito ozbiljnim slučajevima, nadležno tijelo države domaćina može privremeno zabraniti pristup na državno područje svoje države dok nadležno tijelo države poslovnog nastana ne donese odluku. Nadležna tijela ugovornih stranaka uzajamno će se izvješćivati o donesenim odlukama.
