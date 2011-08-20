@@ -1,0 +1,1 @@
+Na temelju članka 101. stavka 1., točaka 1., 2., 3. i 9., članka 103. stavka 1. točaka 1., 2. i stavka 3. Zakona o osiguranju (»Narodne novine« broj 151/05, 87/08 i 82/09), Hrvatska agencija za nadzor financijskih usluga donijela je na sjednici Uprave održanoj 4. kolovoza 2011. godine

@@ -1,0 +1,6 @@
+# Članak 1.
+U članku 12. Pravilnika o načinu izračuna kapitala, jamstvenog kapitala i adekvatnosti kapitala društava za osiguranje i društava za reosiguranje (»Narodne novine« broj 97/09 i 42/10) stavak 3. mijenja se i glasi:
+»(3) Društvo za osiguranje, odnosno društvo za reosiguranje dužno je dostaviti Agenciji analitičke podatke imovine iz stavka 1. ovog članka u roku propisanom člankom 4. stavcima 5., 6., 7. i 8. ovog Pravilnika.
+Iza stavka 3. dodaju se stavci 4. i 5. koji glase:
+»(4) Analitičke podatke za imovinu iz stavka 1. ovoga članka društvo za osiguranje, odnosno društvo za reosiguranje dužno je dostaviti na način propisan člankom 41. stavkom 2. Pravilnika o vrstama i obilježjima imovine za pokriće tehničkih pričuva, pravilima za disperziju i ograničenje ulaganja imovine za pokriće tehničkih pričuva, njihovom vrednovanju, usklađenosti, pravilima za upotrebu izvedenih financijskih instrumenata te načinu i rokovima izvješćivanja (»Narodne novine« broj 119/09 i 155/09).
+(5) Analitičke podatke za imovinu iz stavka 1. ovoga članka, koja je različita od imovine iz stavka 4. ovoga članka, društvo za osiguranje, odnosno društvo za reosiguranje dužno je dostaviti u nestandardiziranom obliku.«
