@@ -1,0 +1,2 @@
+# Članak 2.
+Svaka država ugovornica oslobađa od legalizacije isprave na koje se primjenjuje ova Konvencija i koje trebaju biti predočene na njenom državnom području. U smislu ove Konvencije, legalizacija se smatra formalnošću kojom diplomatski ili konzularni predstavnici one zemlje na čijem državnom području isprava treba biti predočena ovjeravaju vjerodostojnost potpisa, svojstvo u kojem je potpisnik te isprave djelovao i, po potrebi, vjerodostojnost pečata ili žiga što ga ta isprava sadrži.

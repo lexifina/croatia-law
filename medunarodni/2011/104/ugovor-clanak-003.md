@@ -1,0 +1,3 @@
+# Članak 3.
+Jedina formalnost koja se može zahtijevati za ovjeru vjerodostojnosti potpisa, svojstva u kojem je potpisnik isprave djelovao i, po potrebi, vjerodostojnosti pečata ili žiga što ga isprava sadrži, jest stavljanje apostila iz članka 4. koji izdaju nadležna tijela države u kojoj je isprava izdana.
+Međutim, formalnost navedena u prethodnom stavku ne može se zahtijevati ako je ona zakonima, propisima ili običajima koji su na snazi u državi u kojoj se isprava predočuje ili sporazumom između dvije ili više država ugovornica ukinuta, pojednostavljena ili ako je takva isprava oslobođena legalizacije.
