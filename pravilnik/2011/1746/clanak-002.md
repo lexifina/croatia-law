@@ -1,0 +1,4 @@
+## Svrha obveznog označavanja i registracije goveda
+# Članak 2.
+(1) Radi provedbe mjera za zaštitu zdravlja životinja i ljudi od zaraznih i nametničkih bolesti, kontrole prometa domaćih životinja te praćenja sljedivosti proizvoda životinjskog podrijetla, uzgojno selekcijskog rada u govedarstvu, ostvarivanja prava na novčane potpore i prikupljanja statističkih podataka, sva goveda u Republici Hrvatskoj moraju se označiti u skladu s odredbama ovoga Pravilnika.
+(2) Svako govedo u Republici Hrvatskoj mora biti označeno i upisano u JRG i RGG, a svako premještanje goveda i/ili promjena posjednika mora se evidentirati u JRG na način koji u svako doba omogućuje utvrđivanje identiteta goveda i gospodarstva na kojem je govedo oteljeno, kao i sve posjednike te gospodarstva na kojima je govedo boravilo.

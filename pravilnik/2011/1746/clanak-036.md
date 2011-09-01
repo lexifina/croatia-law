@@ -1,0 +1,9 @@
+## Naručitelji ušnih markica
+# Članak 36.
+(1) Posjednik, koji sam označava životinje, na vlastitom gospodarstvu, mora naručiti ušne markice putem obrasca »Narudžba ušnih markica za označavanje goveda« iz Priloga VI. ovoga Pravilnika, a koji se može nabaviti u HPA ili ovlaštenoj veterinarskoj organizaciji. Ispunjeni obrazac posjednik osobno ili putem ovlaštene veterinarske organizacije poštom ili faks-om ili u elektronskom obliku mora dostaviti HPA, koji ga nakon provjere, dostavlja dobavljaču, kojeg odabere posjednik.
+(2) Označavatelji iz članka 5. stavka 1. točke 2. do 4. ovoga Pravilnika moraju ušne markice naručiti putem obrasca iz stavka 1. ovoga članka poštom ili faks-om ili u elektronskom obliku od HPA-a, uz naznaku odabranog dobavljača, koji nakon provjere, naručuje ušne markice od navedenog dobavljača. Označavatelji iz ovoga stavka uz navedeni obrazac moraju dostaviti narudžbenicu.
+(3) Dobavljač mora naručene ušne markice iz stavka 1. i 2. ovoga članka dostaviti HPA, koja ušne markice dostavlja označavateljima, koji su naručili ušne markice.
+(4) Naručitelj ušnih markica odgovoran je za pravilnu pohranu zaprimljenih ušnih markica i evidentiranje njihove upotrebe, a zalihe neiskorištenih ušnih markica dužan je vratiti HPA.
+(5) Odgovorna osoba odobrene klaonice, sukladno odredbama članka 21. ovoga Pravilnika dužna je osigurati preuzimanje IKK iz Priloga VII. ovoga Pravilnika koja će po podmirenju zavisnih troškova izdavanja iste, biti izdana od HPA.
+(6) Svi trgovci životinjama registrirani za trgovanje životinjama dužni su osigurati preuzimanje IKG iz Priloga IX. ovoga Pravilnika na kojoj će biti naznačeno da se radi o trgovcu, a po podmirenju zavisnih troškova izdavanja iste, izdat će je HPA.
+(7) Izdavanje kartica sukladno stavcima 5. i 6. ovoga članka odnosno preuzimanje kartica od korisnika klaoničara i trgovaca mora se obaviti najkasnije do 1. lipnja 2011.

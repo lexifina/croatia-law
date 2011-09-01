@@ -1,0 +1,11 @@
+## Načini dostave podataka u JRG
+# Članak 14.
+(1) Posjednik goveda može u JRG neposredno dostaviti podatke propisane rokom određenog člankom 15. stavkom 1. ovoga Pravilnika, uz uvjet da je ovlašten za označavanje goveda na vlastitom gospodarstvu ili da ima veterinarsku službu.
+(2) Odobrenje iz stavka 1. ovoga članka posjedniku goveda dodjeljuje Uprava na temelju zahtjeva uz koji se mora priložiti dokaz o osposobljenosti za označavanje u skladu s programom iz članka 5. stavka 4. ovoga Pravilnika.
+(3) Zahtjev za odobrenjem posjedniku će biti odbijen ako nisu ispunjeni uvjeti iz stavka 2. ovoga članka, odnosno ako je inspekcijskim nadzorom u posljednjih godinu dana utvrđena nesukladnost s odredbama ovoga Pravilnika za koju je zapriječena mjera zabrane prometa goveda ili smanjenja iznosa novčanih potpora u skladu sa posebnim propisom o uvjetima višestruke sukladnosti u poljoprivrednoj proizvodnji.
+(4) Nakon dodjele odobrenja, HPA posjednika upisuje u posebnu evidenciju, koja se vodi u elektronskom obliku, te je posjednik ovlašten za upis vlastitih podataka u JRG.
+(5) Ako goveda označavaju ovlaštene veterinarske organizacije, veterinarske službe ili HPA, iste su dužne upisati podatke o označenim govedima u JRG u skladu s rokovima iz članka 15. ovoga Pravilnika.
+(6) Podatke o premještanjima goveda iz članka 19. do 26. ovoga Pravilnika upisuju ovlaštene veterinarske organizacije i posjednici osposobljeni za označavanje goveda na vlastitom gospodarstvu u skladu s člankom 5. ovoga Pravilnika, s tim da podatke o govedima na sabirnim centrima i sajmovima te o zaklanim, uginulim i prisilno zaklanim govedima upisuju isključivo ovlaštene veterinarske organizacije/kontrolna tijela/službeni veterinari.
+(7) Podatke o uvozu u slučaju provođenja karantenskih mjera i izvozu goveda u JRG upisuje ovlaštena veterinarska organizacija ili službeni veterinar.
+(8) Podatke o uginulim govedima u JRG upisuje ovlaštena veterinarska organizacija/službeni veterinar, a odgovorna osoba u kafileriji registrira u JRG datum prispjeća lešine u kafileriju na temelju komercijalnog dokumenta koji prati lešinu u roku od 7 dana od datuma prispjeća lešine, u skladu s posebnim propisom.
+(9) Odgovorna osoba u službenom laboratoriju upisuje datum pregleda uzorka uginulih goveda na GSE u JRG u skladu s posebnim propisom.

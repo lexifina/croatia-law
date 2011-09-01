@@ -1,0 +1,8 @@
+## Označavanje goveda uvezenih iz država koje nisu članice Europske unije
+# Članak 8.
+(1) Sva goveda uvezena iz država koje nisu članice Europske unije i na kojima su obavljene kontrole utvrđene Pravilnikom o načinu obavljanja veterinarskih pregleda i kontrole živih životinja u prometu preko granice Republike Hrvatske (»Narodne novine«, broj 154/08, 154/09 i 28/10) te ostaju na području Republike Hrvatske radi tova ili rasploda moraju se označiti u skladu s odredbama ovoga Pravilnika na odredišnom gospodarstvu u roku od 20 dana od dana uvoza, odnosno prije otpreme s gospodarstva ako se otpremaju prije navedenog roka.
+(2) Označavanje uvezenih goveda iz država koje nisu članice Europske unije obavljaju ovlaštene veterinarske organizacije koje su dužne, najkasnije u roku od 7 dana od dana provedenog označavanja, odnosno prije otpreme iz karantenskog objekta na drugo mjesto, upisati podatke o uvezenim govedima u JRG u skladu sa stavkom 3. ovoga članka.
+(3) Ovlaštena veterinarska organizacija mora u JRG, a posjednik uvezenog goveda u RGG, upisati izvornu identifikacijsku oznaku države iz koje je govedo uvezeno te podatke iz prateće veterinarske dokumentacije u skladu s člankom 12. stavkom 7. točkom 1. podtočkama (a) do (f) ovoga Pravilnika i sljedeće podatke:
+- identifikacijsku oznaku gospodarstva ili ime/naziv gospodarstva s kojeg govedo dolazi,
+- datum uvoza u Republiku Hrvatsku i JŽB u skladu s člankom 7. stavkom 4. ovoga Pravilnika,
+- JŽB majke, a ukoliko se u karantenskom objektu ili gospodarstvu dolaska utvrdi da uvezena životinja nema podatke o majci ista će odmah biti neškodljivo uklonjena na teret uvoznika.

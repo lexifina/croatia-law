@@ -1,0 +1,5 @@
+## I. OPĆE ODREDBE
+## Područje primjene
+# Članak 1.
+(1) Ovim se Pravilnikom propisuje način i postupak označavanja i registracije goveda, označavanje uvezenih goveda, registracija goveda u slučaju premještanja, oblik i sadržaj Registra goveda na gospodarstvu (u daljnjem tekstu: RGG), Jedinstvenog registra goveda (u daljnjem tekstu: JRG) i drugih evidencija te putnog lista za goveda (u daljnjem tekstu: Putni list) i drugih obrazaca, oblik, izgled i sadržaj ušne markice za goveda, narudžbu i dobavljanje ušnih markica, način postupanja s ušnom markicom u slučaju gubitka, uginuća ili klanja goveda, prava i obveze označavatelja i Hrvatske poljoprivredne agencije (u daljnjem tekstu: HPA) na području označavanja i registracije goveda, nadzor nad provedbom ovoga Pravilnika i mjere u slučaju postupanja protivnog odredbama ovoga Pravilnika.
+(2) Ovaj Pravilnik utvrđuje zahtjeve za označavanjem i registracijom goveda, ne dovodeći u pitanje provedbu posebnih propisa donesenih u svrhu suzbijanja i iskorjenjivanja bolesti goveda.
