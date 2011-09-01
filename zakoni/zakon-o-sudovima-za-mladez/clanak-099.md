@@ -1,0 +1,7 @@
+# Članak 99.
+(1) Kad je udovoljeno uvjetima predviđenim u ovom Zakonu za obustavu izvršenja odgojne mjere ili za zamjenu odgojne mjere (članak 15. stavak 3., članak 16. stavak 2., članak 17. stavak 4., članak 18. i 20.), ili za odluku prema članku 10. stavku 6., članku 13. stavku 5., članku 14. i 21. ovog Zakona, o tome odlučuje vijeće suda za mladež koji je u prvom stupnju donio rješenje o odgojnoj mjeri, po službenoj dužnosti ili na prijedlog maloljetnika ili njegovog zakonskog zastupnika, državnog odvjetnika, ravnatelja ustanove, upravitelja odgojnog zavoda, ili službe koja provodi pojačani nadzor nad maloljetnikom.
+(2) Stručni suradnik u sudu obavlja po uputi suca pojedine radnje radi pripremanja odluke suda iz stavka 1. ovog članka.
+(3) Prije donošenja odluke iz stavka 1. ovog članka sud će u sjednici vijeća, ispitati maloljetnika, roditelja ili skrbnika maloljetnika ili druge osobe, pročitat će pribavljena izvješća od ustanove u kojoj maloljetnik izvršava zavodsku mjeru, od zavoda za socijalnu skrb u županiji ili drugih tijela ili ustanova. O prijedlogu iz stavka 1. mišljenje će dati državni odvjetnik.
+(4) Sjednicu vijeća iz stavka 3. ovog članka sud će održati u roku od 15 dana od podnesenog prijedloga.
+(5) Prijedlog iz stavka 1. maloljetnik može ponovno staviti tek protekom roka od tri mjeseca.
+(6) Protiv odluke iz stavka 1. ovoga članka žalbu mogu podnijeti osobe navedene u članku 90. stavku 1. i 2. ovog Zakona u roku od osam dana. O žalbi odlučuje vijeće za mladež višeg suda.

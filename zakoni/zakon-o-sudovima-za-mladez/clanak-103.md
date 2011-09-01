@@ -1,0 +1,5 @@
+# Članak 103.
+(1) O uvjetnom otpustu maloljetnika s izdržavanja kazne maloljetničkog zatvora odlučuje županijski sud za mladež koji je izrekao kaznu maloljetničkog zatvora ili u čijem se sjedištu nalazi općinski sud koji je izrekao kaznu maloljetničkog zatvora.
+(2) Sud odlučuje na temelju molbe maloljetnika, članova njegove uže obitelji, prijedloga ravnatelja kaznenog zavoda ili državnog odvjetnika. Po službenoj dužnosti sud će odlučiti o uvjetnom otpustu maloljetnika dva mjeseca prije dvije trećine izdržane kazne.
+(3) Prije donošenja odluke sud će zatražiti mišljenje državnog odvjetnika te prema potrebi ispitati maloljetnika. Ispitivanje je obvezno ako se odlučuje o uvjetnom otpustu nakon dvije trećine izdržane kazne, osim ako je sud suglasan da se maloljetnika uvjetno otpusti.
+(4) O opozivu uvjetnog otpusta odlučuje, nakon pribavljenog mišljenja državnog odvjetnika i ispitivanja maloljetnika, županijski sud za mladež koji je izrekao kaznu maloljetničkog zatvora ili u čijem se sjedištu nalazi općinski sud koji je izrekao kaznu maloljetničkog zatvora.

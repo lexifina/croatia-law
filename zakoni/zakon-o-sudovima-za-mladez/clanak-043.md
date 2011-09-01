@@ -1,0 +1,3 @@
+# Članak 43.
+(1) Sudovi iz članka 37. stavka 1. ovog Zakona i državna odvjetništva koja pred njima postupaju, imaju stručne suradnike: socijalne pedagoge, socijalne radnike i psihologe.
+(2) Stručni suradnici u sudu na sjednici vijeća ili na raspravi daju stručno mišljenje o vrsti sankcije koju bi bilo opravdano izreći, prikupljaju podatke o uspješnosti izvršenja odgojne mjere, daju mišljenje vijeću za mladež o potrebi obustave ili zamjene odgojne mjere i obavljaju druge radnje prema uputi suca za mladež. Stručni suradnici u državnom odvjetništvu prikupljaju podatke i daju stručno mišljenje potrebno za donošenje odluka iz nadležnosti državnog odvjetnika.

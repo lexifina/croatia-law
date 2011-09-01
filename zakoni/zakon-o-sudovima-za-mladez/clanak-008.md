@@ -1,0 +1,3 @@
+## Izbor odgojne mjere
+# Članak 8.
+Pri izboru odgojne mjere sud će uzeti u obzir maloljetnikovu dob, njegovu psihofizičku razvijenost i osobine, težinu i narav počinjenoga djela, pobude iz kojih i okolnosti u kojima je djelo počinio, ponašanje nakon počinjenog djela i osobito je li, ako je to mogao, pokušao spriječiti nastupanje štetne posljedice ili nastojao popraviti počinjenu štetu, odnos prema oštećeniku i žrtvi, njegove osobne i obiteljske prilike, je li i prije činio kaznena djela i je li mu već bila izrečena maloljetnička sankcija, sve okolnosti koje utječu na izbor takve odgojne mjere kojom će se najbolje ostvariti svrha odgojnih mjera.

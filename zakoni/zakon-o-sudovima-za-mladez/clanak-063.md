@@ -1,0 +1,9 @@
+## Uhićenje i pritvor
+# Članak 63.
+(1) Policija je ovlaštena uhititi maloljetnika pod uvjetima određenim u članku 107. Zakona o kaznenom postupku i mora ga odmah, a najkasnije u roku iz članka 109. stavka 2. Zakona o kaznenom postupku dovesti pritvorskom nadzorniku ili ga pustiti na slobodu. O uhićenju pritvorski nadzornik odmah obavještava suca za mladež, državnog odvjetnika, maloljetnikove roditelje, odnosno skrbnika i zavod za socijalnu skrb u županiji i to istodobno unosi u odgovarajuću evidenciju.
+(2) Po nalogu državnog odvjetnika policija će uhićenog maloljetnika dovesti sucu za mladež radi ispitivanja. Sudac za mladež dužan je ispitati uhićenog maloljetnika u roku od dvanaest sati od predaje pritvorskom nadzorniku. Tom ispitivanju obvezno prisustvuju državni odvjetnik i branitelj.
+(3) Odmah nakon ispitivanja sudac za mladež će na obrazloženi prijedlog državnog odvjetnika odrediti pritvor ili istražni zatvor ili će uhićenog maloljetnika pustiti na slobodu.
+(4) Protiv rješenja suca za mladež o određivanju pritvora ili odbijanju prijedloga državnog odvjetnika za određivanje pritvora, pritvorenik i državni odvjetnik imaju pravo žalbe u roku od šest sati, a o žalbi odlučuje vijeće iz članka 45. stavka 2., odnosno članka 45. stavka 4. ovog Zakona u roku od osam sati. Žalba ne zadržava izvršenje rješenja.
+(5) Maloljetnik će u pritvorskoj jedinici biti odvojen od punoljetnih uhićenika.
+(6) Pritvorski nadzornik će maloljetnika odmah pustiti na slobodu ako to naloži državni odvjetnik ili ako maloljetnik nije ispitan u roku iz stavka 2. ovog članka. Maloljetnik će biti pušten na slobodu ako u roku od dvadeset sati od trenutka predaje pritvorskom nadzorniku prema maloljetniku nije određen pritvor ili istražni zatvor.
+(7) Ako zbog okolnosti ne može postupati sudac za mladež, radnje iz ovog članka poduzet će sudac istrage i o tome obavijestiti suca za mladež

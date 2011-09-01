@@ -1,0 +1,7 @@
+## Privremene mjere prema maloljetniku
+# Članak 65.
+(1) Sud može, na prijedlog državnog odvjetnika ili po službenoj dužnosti, nakon pribavljanja podataka od zavoda za socijalnu skrb u županiji, odlučiti da se maloljetnika u tijeku postupka privremeno stavi pod nadzor zavoda za socijalnu skrb u županiji radi pružanja pomoći i zaštite, ili da ga se privremeno smjesti u ustanovu socijalne skrbi, kad je to primjereno očekivanoj sankciji, da bi se maloljetnika zaštitilo od daljnjeg ugrožavanja njegova razvoja, posebno od napasti ponavljanja kaznenog djela.
+(2) Rješenje o određivanju, produljenju i ukidanju privremenog smještaja do podnošenja prijedloga za izricanje maloljetničke sankcije donosi sudac za mladež, a nakon podnošenja prijedloga vijeće za mladež. O žalbi protiv rješenja suca za mladež odlučuje vijeće za mladež istog suda (čanak 45. stavak 2., odnosno članak 45. stavak 4.), a protiv rješenja vijeća, vijeće za mladež višeg suda (članak 46. stavak 3.). Žalba ne zadržava izvršenje rješenja.
+(3) Privremeni smještaj i nadzor provode se kao odgojne mjere nadzora i upućivanja u odgojnu ustanovu.
+(4) Privremene mjere mogu trajati do pravomoćnog okončanja postupka, ali je sud dužan ispitati osnovanost privremenog smještaja svakih dva mjeseca računajući od dana pravomoćnosti prethodnog rješenja.
+(5) Vrijeme provedeno na privremenom smještaju u ustanovi socijalne skrbi uzima se kao vrijeme trajanja zavodske odgojne mjere.

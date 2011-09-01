@@ -1,0 +1,2 @@
+# Članak 126.
+Ministarstvo nadležno za poslove pravosuđa i Pravosudna akademija osiguravaju uvjete za stručno usavršavanje osoba koje rade na poslovima delinkvencije mladih i kaznenopravne zaštite djece, organizira u suradnji sa sudovima, državnim odvjetništvima, znanstveno-nastavnim ustanovama i stručnim društvima pravnika povremena stručna savjetovanja, seminare, provjere znanja i druge oblike dodatnih stručnih osposobljavanja sudaca, državnih odvjetnika i drugih stručnih osoba na tim poslovima.

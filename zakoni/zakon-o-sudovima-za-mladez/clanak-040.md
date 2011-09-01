@@ -1,0 +1,2 @@
+# Članak 40.
+Suce vijeća za mladež Vrhovnog suda Republike Hrvatske, vodeći računa o kriterijima iz članka 38. ovog Zakona, određuje godišnjim rasporedom poslova predsjednik Vrhovnog suda Republike Hrvatske, a zamjenika državnog odvjetnika koji postupa pred tim vijećem, vodeći računa o kriterijima iz članka 38. ovog Zakona, određuje godišnjim rasporedom poslova Glavni državni odvjetnik Republike Hrvatske.

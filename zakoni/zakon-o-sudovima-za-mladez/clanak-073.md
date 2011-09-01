@@ -1,0 +1,3 @@
+# Članak 73.
+(1) Kad je izvršenje kazne ili odgojne mjere u tijeku ili su ove sankcije pravomoćno izrečene ili je maloljetnik odlukom zavoda za socijalnu skrb u županiji smješten u ustanovu socijalne skrbi, državni odvjetnik može odlučiti da nema osnove za vođenje kaznenog postupka za drugo kazneno djelo maloljetnika ako s obzirom na težinu i narav djela i pobude iz kojih je ono počinjeno vođenje postupka i izricanje sankcije za to djelo ne bi bilo svrhovito.
+(2) O odluci iz stavka 1. ovog članka obavijestit će državni odvjetnik, uz navođenje razloga, zavod za socijalnu skrb u županiji i oštećenika s uputom da svoj imovinskopravni zahtjev može ostvarivati u parnici, a ako je prijavu podnijela policija, obavijestit će i to tijelo.

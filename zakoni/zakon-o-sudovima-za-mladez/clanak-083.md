@@ -1,0 +1,4 @@
+# Članak 83.
+(1) Kad predsjednik vijeća primi prijedlog za izricanje maloljetničke sankcije postupit će u smislu članka 344. Zakona o kaznenom postupku te ispitati osnovanost prijedloga za izricanje maloljetničke sankcije.
+(2) Ako predsjednik vijeća ustanovi da nema osnove za vođenje postupka ili da ne bi bilo svrhovito (članak 71. stavak 1. i članak 73.) vođenje postupka prema maloljetniku, rješenjem će odbaciti prijedlog za izricanje maloljetničke sankcije. Protiv rješenja predsjednika vijeća državni odvjetnik i oštećenik mogu podnijeti žalbu. O žalbi odlučuje vijeće za mladež višeg suda.
+(3) Ako predsjednik vijeća ne postupi po stavku 2. ovog članka, nalogom će, u roku od osam dana, odrediti sjednicu vijeća. Donošenjem naloga kojim se određuje sjednica vijeća, započinje kazneni postupak prema maloljetniku.

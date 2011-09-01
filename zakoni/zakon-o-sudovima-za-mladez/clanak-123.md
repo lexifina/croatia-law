@@ -1,0 +1,3 @@
+# Članak 123.
+(1) Kazneni postupak iz nadležnosti sudova za mladež koji je pokrenut prije stupanja na snagu ovog Zakona, dovršit će se po odredbama Zakona o sudovima za mladež (»Narodne novine«, br. 111/97., 27/98. i 12/02.), osim što će se prema maloljetniku uvijek primijeniti odredba članka 66. ovog Zakona.
+(2) Ako je do stupanja na snagu ovog Zakona donesena kakva odluka protiv koje je po odredbama zakona po kojem je postupak vođen dopušten pravni lijek ili još teče rok za podnošenje pravnog lijeka, ili je pravni lijek podnesen, ali o njemu još nije odlučeno, u tom postupku primijenit će se odredbe zakona po kojem je donesena odluka, osim ako ovim Zakonom nije drukčije propisano.

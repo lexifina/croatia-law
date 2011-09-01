@@ -1,0 +1,7 @@
+# Članak 86.
+(1) Kad sud odlučuje na temelju rasprave, na odgovarajući će se način primjenjivati odredbe Zakona o kaznenom postupku o pripremama za raspravu, o upravljanju raspravom, o pretpostavkama za održavanje rasprave, o odgodi i prekidanju rasprave, o zapisniku i o tijeku rasprave, ali sud može odstupiti od tih pravila ako smatra da njihova primjena u konkretnom slučaju ne bi bila svrhovita.
+(2) Pored osoba navedenih u članku 383. Zakona o kaznenom postupku, na raspravu će se pozvati roditelji maloljetnika, odnosno skrbnik, udomitelj, predstavnik zavoda za socijalnu skrb u županiji i predstavnik ustanove u kojoj se maloljetnik nalazi. Nedolazak roditelja, skrbnika, udomitelja, predstavnika zavoda za socijalnu skrb u županiji i predstavnika ustanove u kojoj se maloljetnik nalazi ne sprječava sud da održi raspravu.
+(3) Osim maloljetnika raspravi moraju biti prisutni državni odvjetnik i branitelj.
+(4) Vijeće može dopustiti da raspravi prisustvuju osobe koje se bave zaštitom i odgojem maloljetnika ili suzbijanjem maloljetničkog kriminaliteta te znanstveni radnici.
+(5) Tijekom rasprave vijeće može naložiti da se, osim državnog odvjetnika i branitelja iz zasjedanja udalje sve ili samo pojedine osobe.
+(6) Za vrijeme izvođenja pojedinih dokaza ili govora stranaka vijeće može naložiti da se maloljetnik udalji iz zasjedanja, zbog mogućeg štetnog utjecaja na njegov odgoj. Predsjednik vijeća na primjeren način će ga obavijestiti o sadržaju i tijeku postupka za vrijeme njegove odsutnosti.

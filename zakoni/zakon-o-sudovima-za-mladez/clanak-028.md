@@ -1,0 +1,5 @@
+## Pridržaj izricanja maloljetničkog zatvora
+# Članak 28.
+(1) Sud može izreći da je maloljetnik kriv za kazneno djelo i istodobno pridržati izricanje kazne maloljetničkog zatvora kad smatra da se izricanjem krivnje i prijetnjom naknadnog izricanja kazne može počinitelja odvratiti od daljnjih kaznenih djela. Sud može maloljetniku, uz pridržaj, izreći odgojne mjere pojačanog nadzora, upućivanja u disciplinski centar i jednu ili više posebnih obveza koje ne mogu trajati dulje od vremena provjeravanja.
+(2) Sud određuje da maloljetniku može biti naknadno izrečen maloljetnički zatvor ako za vrijeme što ga odredi sud, a koje ne može biti kraće od jedne ni dulje od tri godine (vrijeme provjeravanja), počini novo kazneno djelo ili ako se protivi provođenju odgojnih mjera.
+(3) Sud može uz pridržaj izricanja maloljetničkog zatvora maloljetniku postaviti uvjet da se podvrgne izrečenoj sigurnosnoj mjeri obveznog psihijatrijskog liječenja ili obveznog liječenja od ovisnosti ili zabrani upravljanja motornim vozilom.

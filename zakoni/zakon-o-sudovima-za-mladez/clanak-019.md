@@ -1,0 +1,3 @@
+## Učinak maloljetničkog zatvora i zatvora na izvršenje odgojne mjere
+# Članak 19.
+Ako nakon izricanja odgojne mjere ili tijekom njezina izvršenja bude za novo kazneno djelo izrečena kazna maloljetničkog zatvora ili kazna zatvora od najmanje godinu dana, odgojna mjera neće se početi izvršavati, a ako je izvršenje započeto, obustavit će se čim započne izdržavanje zatvorske kazne. Ako je izrečena kazna zatvora ili maloljetničkog zatvora manja od jedne godine, sud će o presudi izvijestiti sud za mladež koji je u prvom stupnju izrekao odgojnu mjeru i koji će odlučiti hoće li se nakon izdržane kazne odgojna mjera izvršavati.
