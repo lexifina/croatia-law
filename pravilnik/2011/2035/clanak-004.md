@@ -1,0 +1,3 @@
+# Članak 4.
+(1) Popis država s odobrenim nacionalnim programima iskorjenjivanja za bolesti navedene u prvome stupcu tablice iz Priloga II. ovoga Pravilnika, a u vezi s područjima iz četvrtoga stupca (programi iskorjenjivanja), naveden je u drugom stupcu tablice iz Priloga II. ovoga Pravilnika.
+(2) Za razdoblje do 31. prosinca 2011. države navedene u tablici iz Priloga II. ovoga Pravilnika mogu zahtijevati da pošiljke životinja akvakulture iz članka 3. stavka 2. točaka (a) i (b), koje se unose na područje na koje se primjenjuje program iskorjenjivanja, moraju ispunjavati zahtjeve iz tih točaka u pogledu bolesti na koje se odnosi taj program iskorjenjivanja.
