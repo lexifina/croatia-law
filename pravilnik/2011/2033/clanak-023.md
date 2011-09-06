@@ -1,0 +1,3 @@
+# Članak 23.
+(1) Prava na specifičnu zdravstvenu zaštitu i prava za slučaj ozljede na radu i profesionalne bolesti pripadnicima Oružanih snaga osiguravaju se obveznim zdravstvenim osiguranjem na temelju Zakona o obveznom zdravstvenom osiguranju, podzakonskim propisima i općim aktima Hrvatskog zavoda za zdravstveno osiguranje kojima je uređeno zdravstveno osiguranje zaštite zdravlja na radu u Republici Hrvatskoj.
+(2) Ministarstvo obrane osigurava sredstva i donosi propise kojima se pripadnicima Oružanih snaga proširuju prava iz specifične zdravstvene zaštite i prava za slučaj ozljede na radu ili profesionalne bolesti u odnosu na prava po osnovi obveznog zdravstvenog osiguranja iz područja zaštite zdravlja na radu.

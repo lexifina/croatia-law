@@ -1,0 +1,3 @@
+# Članak 24.
+(1) Sukladno propisima iz područja zaštite zdravlja na radu ustrojstvena jedinica Ministarstva obrane nadležna za poslove zdravstva izvršit će odabir specijalista medicine rada (u daljnjem tekstu odabrani specijalisti medicine rada) za obavljanje djelatnosti specifične zdravstvene zaštite i prava za slučaj ozljede na radu kao i profesionalne bolesti pripadnika Oružanih snaga, u skladu s općim aktima Hrvatskog zavoda za zdravstveno osiguranje vezano za izbor doktora specijaliste medicine rada za specifičnu zdravstvenu zaštitu.
+(2) Ugovorom sklopljenim između Ministarstva obrane i Hrvatskog zavoda za zdravstveno osiguranje uredit će se međusobna prava i obveze vezano uz obavljanje djelatnosti odabranih specijalista medicine rada iz stavka 1. ovoga članka.

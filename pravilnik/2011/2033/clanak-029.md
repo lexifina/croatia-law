@@ -1,0 +1,3 @@
+# Članak 29.
+(1) Sukladno međusobno utvrđenim pravima i obvezama između Ministarstva obrane i Ministarstva zdravstva i socijalne skrbi, vojni doktori medicine - specijalisti pojedinih grana medicine, na temelju ugovora sklopljenih između Ministarstva obrane i zdravstvenih ustanova, dio radnog vremena provodit će u zdravstvenim ustanovama radi održavanja potrebnog stupnja stručnog znanja i vještina te ostvarivanja potreba Oružanih snaga.
+(2) Za potrebe Oružanih snaga u svrhu obavljanja poslova specifične i drugih oblika zdravstvene zaštite sklopit će se ugovori između Ministarstva obrane i civilnih doktora medicine, specijalista pojedinih grana medicine za obavljanje ovih poslova u ustrojstvenim jedinicama Oružanih snaga nadležnim za poslove zdravstva.
