@@ -1,0 +1,6 @@
+# Članak 1.
+U Pravilniku o utvrđivanju naknade za prenesena i ograničena prava na šumi i šumskom zemljištu (»Narodne novine«, broj 105/09.) članak 10. mijenja se i glasi:
+»(1) Naknada za osnivanje služnosti na šumskom zemljištu u svrhu eksploatacije mineralnih sirovina određuje se prema podatcima dobivenim od Ministarstva financija, poreznih ureda o tržišnoj vrijednosti predmetne nekretnine (k.o. i k.č.br.).
+(2) U slučaju kad Ministarstvo financija, Porezna uprava ne raspolaže usporednim podatcima na temelju kojih utvrđuje tržišnu vrijednost šumskog zemljišta, odnosno kada je potrebno utvrditi tržišnu vrijednost nekretnina, nadležno tijelo za poslove šumarstva neposredno koristi stručnu pomoć ovlaštenih vještaka odgovarajuće struke.
+(3) Troškove postupka procjene ovlaštenog vještaka snosi podnositelj zahtjeva za osnivanje služnosti na šumi i šumskom zemljištu u svrhu eksploatacije mineralnih sirovina.
+(4) Po utvrđenoj vrijednosti predmetne nekretnine Trgovačko društvo obračunat će naknadu za osnivanje služnosti na šumskom zemljištu u svrhu eksploatacije mineralnih sirovina, a podnositelj zahtjeva za osnivanje služnosti dužan je troškove iz stavka 3. ovoga članka uplatiti istodobno s prvom ratom naknade za služnost.«
