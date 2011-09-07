@@ -1,0 +1,6 @@
+# Članak 4.
+Zahtjevi u pogledu informacija
+(1) Informacije koje se odnose na potrošnju električne energije, drugih oblika energije i po potrebi drugih bitnih resursa tijekom upotrebe kao i dodatne informacije, u skladu s posebnim propisima donesenim prema ovom Pravilniku, krajnjim korisnicima stavljaju se na znanje u informacijskom listu i na oznaci proizvoda koji se nudi za prodaju, u najam ili kupnju na otplatu ili se izravno ili neizravno izlaže krajnjim korisnicima bilo kojim načinom prodaje na daljinu, uključujući i Internet.
+(2) Informacije se iz stavka (1) ovoga članka navode s obzirom na ugrađene ili instalirane proizvode samo kad se to propisuje posebnim propisom.
+(3) Svako oglašavanje konkretnog modela proizvoda povezanog s energijom koji se uređuju posebnim propisom u skladu s ovim Pravilnikom, u kojem se otkriva informacija o energiji ili cijeni, obuhvaća uputu na razred energetske učinkovitosti tog proizvoda.
+(4) Svaki tehnički promotivni materijal o proizvodima povezanim s energijom koji opisuje konkretne tehničke parametre proizvoda, primjerice knjige tehničkih uputa i proizvođački prospekti, u tiskanom obliku ili na Internetu, dostavlja se krajnjim korisnicima s potrebnim informacijama u pogledu potrošnje energije ili da sadrži uputu na razred energetske učinkovitosti proizvoda.

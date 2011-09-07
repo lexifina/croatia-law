@@ -1,0 +1,3 @@
+# Članak 7.
+Prodaja na daljinu i drugi oblici prodaje
+Ako se proizvodi nude na prodaju, u najam ili prodaju/unajmljivanje na otplatu uz naručivanje putem pošte, kataloški, preko Interneta, televizijskom prodajom ili na neki drugi način koji podrazumijeva da se ne može očekivati da potencijalni krajnji korisnik vidi izložen proizvod, u posebnim propisima donose se odredbe kojima se osigurava da se potencijalni kupac prije kupnje proizvoda upozna s podacima s oznake i informacijskog lista. U posebnom propisu po potrebi se navodi način na koji se oznaka ili informacijski list ili informacije koje oni sadrže pokazuju ili dostavljaju potencijalnom krajnjem korisniku.
