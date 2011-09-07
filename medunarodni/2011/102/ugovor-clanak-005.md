@@ -1,0 +1,4 @@
+# Članak 5.
+PRIMJENA ZAKONA
+1. Prilikom ulaska, boravka na ili izlaska s državnog područja jedne ugovorne stranke zračni prijevoznici druge ugovorne stranke poštovat će njezine zakone i propise koji se odnose na letenje i zračnu plovidbu zrakoplova.
+2. Putnici, posada ili teret na zrakoplovima zračnih prijevoznika jedne od ugovornih stranaka prilikom ulaska, boravka na ili izlaska s državnog područja druge ugovorne stranke poštovat će zakone i propise prve ugovorne stranke koji se odnose na ulazak na ili izlazak putnika, posade ili tereta na zrakoplovu s njezinog državnog područja (uključujući propise koji se odnose na ulazak, carinjenje, zaštitu zračnog prometa, useljenje, putovnice, carinsku kontrolu i karantenu ili, u slučaju pošte, poštanske propise) ili će navedeni zakoni i propisi biti poštovani u njihovo ime.

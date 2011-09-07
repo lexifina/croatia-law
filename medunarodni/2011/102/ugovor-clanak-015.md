@@ -1,0 +1,3 @@
+# Članak 15.
+PRESTANAK
+Bilo koja ugovorna stranka može, u svakom trenutku, obavijestiti drugu ugovornu stranku u pisanom obliku, diplomatskim putem, o svojoj odluci da okonča ovaj Sporazum. Takva obavijest istovremeno će se uputiti i Međunarodnoj organizaciji civilnog zrakoplovstva. Ovaj Sporazum prestaje u ponoć (u mjestu primitka pisane obavijesti upućene drugoj ugovornoj stranci) na kraju prometne sezone Međunarodne udruge zračnih prijevoznika (IATA) koja je na snazi godinu dana nakon datuma pisane obavijesti o okončanju, osim ako se obavijest ne povuče dogovorom ugovornih stranaka prije isteka tog razdoblja.
