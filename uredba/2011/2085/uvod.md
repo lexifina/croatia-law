@@ -1,0 +1,1 @@
+Na temelju članka 119. točaka 1.b) i 2.c) Zakona o pomorskom dobru i morskim lukama (»Narodne novine«, br. 158/2003, 100/2004, 141/2006 i 38/2009), Vlada Republike Hrvatske je na sjednici održanoj 8. rujna 2011. godine donijela
