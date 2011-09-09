@@ -1,0 +1,4 @@
+# Članak 45.
+(1) Administrativna obrada prijava zaprimljenih u prvom krugu javnog natječaja za podnošenje prijava za dodjelu sredstva iz IPARD programa za: Mjeru 302 »Diversifikacija i razvoj ruralnih gospodarskih aktivnosti« unutar IPARD programa (»Narodne novine« 135/10) rješavat će se sukladno odredbama Pravilnika o provedbi Mjere 302 »Diversifikacija i razvoj ruralnih gospodarskih aktivnosti« unutar IPARD programa (»Narodne novine« 127/10).
+(2) Nakon stupanja na snagu ovog Pravilnika, ugovaranje po prijavama iz stavka 1. ovog članka i isplata odobrenih sredstava, provest će se sukladno odredbama ovog Pravilnika.
+(3) Danom stupanja na snagu ovog Pravilnika prestaje važiti Pravilnik o provedbi Mjere 302 »Diversifikacija i razvoj ruralnih gospodarskih aktivnosti« unutar IPARD programa (»Narodne novine« 127/10).

@@ -1,0 +1,3 @@
+## II. CILJEVI
+# Članak 3.
+Ciljevi unutar Mjere 302: ova mjera treba doprinijeti provedbi ZPP-a (Zajedničke poljoprivredne politike) i drugih srodnih politika unutar opsega ulaganja u ruralna područja, a posebno povećanju prihoda korisnika iz ruralnog stanovništva kroz razvoj i diversifikaciju ruralnih aktivnosti na farmi i/ili izvan nje, stvaranju novih mogućnosti zapošljavanja kroz razvoj i diversifikaciju ruralnih aktivnosti na farmi i/ili izvan nje, očuvanju postojećih radnih mjesta, povećanju opsega usluga za stanovnike ruralnog područja i poboljšanju kvalitete usluga koje se pružaju i poboljšanju socijalne strukture u ruralnim područjima.

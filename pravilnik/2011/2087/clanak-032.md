@@ -1,0 +1,3 @@
+# Članak 32.
+(1) Kontrola na terenu provodi se prije ugovaranja, prije isplate i tijekom petogodišnjeg razdoblja nakon izvršenog konačnog plaćanja. Osim redovitih kontrola, kontrole na terenu mogu se obavljati i u bilo kojem trenutku za vrijeme trajanja investicije. Kontrolu na terenu provode zaposlenici Agencije za plaćanja.
+(2) Osim zaposlenika iz stavka 1. ovoga članka, kontrolu na terenu svakog IPARD projekta mogu obavljati i zaposlenici Službe za unutarnju reviziju Agencije za plaćanja, zaposlenici Nacionalnog fonda, Agencije za reviziju sustava provedbe programa Europske Unije, revizori Europske komisije, Europskog revizorskog suda i Europskog ureda za borbu protiv prijevara (OLAF).
