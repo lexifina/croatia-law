@@ -1,0 +1,1 @@
+Na temelju odredbi članka 175. stavka 2. Zakona o tržištu kapitala (»Narodne novine«, broj 88/08, 146/08 i 74/08) Hrvatska agencija za nadzor financijskih usluga (dalje: Agencija) je na sjednici održanoj 1. rujna 2011. godine donijela
