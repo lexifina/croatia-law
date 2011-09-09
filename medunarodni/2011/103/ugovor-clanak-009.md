@@ -1,0 +1,2 @@
+# Članak 9.
+Za provedbu ovog Ugovora osnovat će se Zajedničko povjerenstvo, sastavljeno od predstavnika ugovornih stranaka, koje će izraditi Provedbeni program suradnje kojim će se odrediti konkretni i detaljni prijedlozi za kulturnu, obrazovnu i znanstvenu suradnju, zajedno s općim i financijskim uvjetima, potrebnim za izvršenje aktivnosti koje su dogovorile ugovorne stranke. Zajedničko povjerenstvo sastaje se svake dvije godine, naizmjence u Republici Hrvatskoj i Republici Malti.
