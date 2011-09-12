@@ -1,0 +1,1 @@
+Na temelju članka 21.a stavka 4. Uredbe o postupku davanja koncesije na pomorskom dobru (»Narodne novine«, br. 23/2004, 101/2004, 39/2006, 63/2008, 125/2010 i 102/2011), Vlada Republike Hrvatske je na sjednici održanoj 12. rujna 2011. godine donijela
