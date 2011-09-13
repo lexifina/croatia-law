@@ -1,0 +1,2 @@
+# Članak 2.
+Sucima, državnim odvjetnicima, zamjenicima državnih odvjetnika, službenicima i namještenicima paušalna naknada pripada za dežurstvo koje se obavlja radnim danom izvan redovitog radnog vremena suda i državnog odvjetništva u vremenu od 16,00 sati do 8,00 sati sljedećeg dana, u dane tjednog odmora, neradne dane i državne blagdane i to u zgradi suda i državnog odvjetništva (aktivno dežurstvo) ili u stalnoj pripravnosti kod kuće odnosno u stanu (pasivno dežurstvo).
