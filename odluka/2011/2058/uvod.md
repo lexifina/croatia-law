@@ -1,0 +1,1 @@
+Na temelju članka 162.a Zakona o zdravstvenoj zaštiti (»Narodne novine«, br. 150/08, 71/10, 139/10, 22/11 i 84/11) uz prethodno pribavljeno mišljenje sindikata ministar zdravstva i socijalne skrbi donosi
