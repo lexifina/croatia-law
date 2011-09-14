@@ -1,0 +1,2 @@
+# Članak 4.
+Za provedbu ovog Zakona nadležni su korisnici projekata: Ministarstvo pravosuđa, Ured za udruge, Hrvatski centar za razminiravanje, Ministarstvo financija, Ministarstvo unutarnjih poslova, Ministarstvo vanjskih poslova i europskih integracija, Ministarstvo regionalnog razvoja, šumarstva i vodnoga gospodarstva, Ministarstvo zaštite okoliša, prostornog uređenja i graditeljstva, Središnji državni ured za razvojnu strategiju i koordinaciju fondova Europske unije i Nacionalni fond.

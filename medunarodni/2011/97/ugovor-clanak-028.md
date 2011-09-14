@@ -1,0 +1,20 @@
+# Članak 28.
+Sprječavanje nepravilnosti i prijevare, mjere protiv korupcije (1) Korisnik je dužan osigurati provođenje istrage i učinkovito postupanje u slučajevima kod kojih postoji sumnja u prijevare i nepravilnosti i osigurati funkcioniranje mehanizma kontrole i izvješćivanja istovjetnog onome predviđenom u Uredbi Komisije (EZ) br. 1828/2006 od 8. prosinca 2006.(19). Komisija mora bez odgađanja biti izviještena u slučaju da postoji sumnja u prijevaru ili nepravilnost.
+(2) Nadalje, Korisnik je dužan poduzeti sve odgovarajuće mjere za sprječavanje i suzbijanje aktivne ili pasivne korupcije u bilo kojoj fazi postupka nabave ili dodjele bespovratne pomoći, kao i tijekom provedbe odgovarajućih ugovora.
+(3) Korisnik, uključujući osoblje odgovorno za provedbu aktivnosti koje fi nancira Zajednica, poduzet će sve mjere predostrožnosti koje su neophodne kako bi se izbjegao rizik sukoba interesa te će odmah izvijestiti Komisiju o bilo kakvom sukobu interesa ili situaciji koja bi mogla prouzročiti takav konfl ikt.
+18 SL L 292, 15. studenoga 1996., str. 2
+19 SL L 371, 27. prosinca 2006., str. 4
+SRIJEDA, 24. KOLOVOZA 2011.
+BROJ 11 - STRANICA 69 dodatak MEĐUNARODNI UGOVORI
+NARODNE NOVINE
+SLUŽBENI LIST REPUBLIKE HR VA TSKE (4) Th e following defi nitions shall apply:
+a)
+(4) Primjenjuju se sljedeće defi nicije:
+a)
+Nepravilnost označava bilo kakvo kršenje odredbe primjenjivih propisa i ugovora koje proizlazi iz radnje ili propusta gospodarskog subjekta, a koje ima, ili može imati, učinak da utječe na opći proračun Europske unije kroz neopravdanu troškovnu stavku.
+b)
+Prijevara označava bilo koju namjernu radnju ili propust vezan uz: korištenje ili predstavljanje krivih, netočnih ili nepotpunih izjava ili dokumenata, koje kao učinak ima krivo doznačavanje ili zadržavanje sredstava iz općeg proračuna Europskih zajednica ili proračuna kojima upravljaju Europske zajednice ili netko u njihovo ime; prikrivanje informacija čime se krši određena obveza s istim učinkom; pogrešna primjena takvih sredstava u svrhe različite od onih za koje su prvobitno dodijeljena.
+c)
+Aktivna korupcija defi nira se kao nečija namjerna radnja kojom se službeniku, za njega ili za treću stranu, obećava ili daje, neposredno ili putem posrednika, prednost bilo koje vrste kako bi djelovao ili se suzdržao od djelovanja u skladu sa svojom obvezom, ili obavljao svoje funkcije protivno službenim dužnostima na način koji šteti, ili će vjerojatno štetiti, fi nancijskim interesima Europskih zajednica.
+d)
+Pasivna korupcija defi nira se kao namjerna radnja službenika koji neposredno, ili putem posrednika, traži ili prima bilo kakvu vrstu prednosti, za sebe ili treću stranu, ili prihvaća obećanje takve prednosti, kako bi djelovao ili se suzdržao od djelovanja u skladu sa svojom dužnošću, ili obavljao svoju funkciju protivno službenim dužnostima na način koji šteti, ili će vjerojatno štetiti, fi nancijskim interesima Europskih zajednica.
