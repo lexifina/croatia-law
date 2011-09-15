@@ -1,0 +1,1 @@
+Na temelju članka 30. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 101/98, 15/2000, 117/2001, 199/2003, 30/2004, 77/2009 i 145/2010), a u vezi s člancima 27. i 57. Zakona o izmjenama i dopunama Zakona o poljoprivrednom zemljištu (»Narodne novine«, broj 63/2011), Vlada Republike Hrvatske je na sjednici održanoj 15. rujna 2011. godine donijela
