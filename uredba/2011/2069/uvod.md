@@ -1,0 +1,1 @@
+Na temelju članka 17. stavka 6. Zakona o postupanju s nezakonito izgrađenim zgradama (»Narodne novine«, broj 90/2011), Vlada Republike Hrvatske je na sjednici održanoj 25. kolovoza 2011. godine donijela

@@ -1,0 +1,4 @@
+## II. NAČIN OBRAČUNA NAKNADE
+# Članak 2.
+(1) Naknada za zadržavanje nezakonito izgrađene zgrade u prostoru (u daljnjem tekstu: naknada) obračunava se na temelju kriterija za ocjenjivanje utjecaja nezakonito izgrađene zgrade na prostor, određenima Zakonom o postupanju s nezakonito izgrađenim zgradama, primjenom pokazatelja izraženih u bodovima i koeficijentima, ovisno o prostornim i tehničkim obilježjima nezakonito izgrađene zgrade, te primjenom općih korektivnih koeficijenata i vrijednosti jediničnog iznosa za pripadajuću položajnu zonu u kojoj se takva zgrada nalazi.
+(2) Iznos naknade koji je određen na način iz stavka 1. ovoga članka, za nezakonito izgrađenu zgradu isključivo stambene namjene, i/ili isključive namjene za obavljanje poljoprivredne djelatnosti, umanjuje se primjenom dopunskih korektivnih koeficijenata za umanjenje iznosa naknade ako podnositelj zahtjeva za to ispunjava uvjete propisane Zakonom o postupanju s nezakonito izgrađenim zgradama.
