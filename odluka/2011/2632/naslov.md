@@ -1,0 +1,1 @@
+Odluka o neprihvaćanju ponuda pristiglih na temelju obavijesti o namjeri davanja koncesije u svrhu gospodarskog korištenja pomorskog dobra radi obavljanja djelatnosti uzgoja školjaka u Malostonskom zaljevu i Malom moru
