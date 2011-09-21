@@ -1,0 +1,46 @@
+PRILOG 1.
+IMATELJI OBVEZNICA ZA RESTRUKTURIRANJE GOSPODARSTVA
+Banka
+Stanje glavnice
+Iznos kamate
+Ukupno HRK
+Zagrebačka banka Zagreb
+1.611.550.617,82
+39.797.403,66
+1.651.348.021,48
+OTP Banka Zadar
+512.894.920,18
+12.665.991,34
+525.560.911,52
+Jadranska banka Šibenik
+14.261.468,86
+352.188,40
+14.613.657,26
+Karlovačka banka Karlovac
+144.846.594,02
+3.577.001,12
+148.423.595,14
+Erste &Steier. Bank Rijeka
+2.106.705,26
+52.025,30
+2.158.730,56
+IKB Umag Umag
+24.823.668,53
+613.022,98
+25.436.691,51
+Međimurska banka Čakovec
+3.291.923,09
+81.294,37
+3.373.217,46
+Podravska banka Koprivnica
+29.729.374,10
+734.169,87
+30.463.543,97
+Privredna banka Zagreb
+30.264.822,45
+747.392,82
+31.012.215,27
+Sveukupno
+2.373.770.094,31
+58.620.489,86
+2.432.390.584,17

@@ -1,0 +1,1 @@
+Na temelju članka 27. Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 2011. godinu (»Narodne novine«, broj 140/2010) i članka 30. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 101/98, 15/2000, 117/2001, 199/2003, 30/2004, 77/2009 i 145/2010), Vlada Republike Hrvatske je na sjednici održanoj 21. rujna 2011. godine donijela
