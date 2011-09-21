@@ -1,0 +1,1 @@
+Na temelju Odluke o donošenju Plana izdavanja prigodnoga kovanog novca i numizmatičkih kompleta u 2011. godini, koju je Savjet Hrvatske narodne banke pod Z. br. 1724/2010. donio na sjednici održanoj 21. listopada 2010., te članka 22. i članka 43. stavka 3. Zakona o Hrvatskoj narodnoj banci (»Narodne novine«, br. 75/2008.) guverner Hrvatske narodne banke donio je
