@@ -1,0 +1,9 @@
+## 7. SLUŽBA ZA SUSTAV 112
+# Članak 30.
+Služba za sustav 112 obavlja poslove vezane za koordinaciju, unapređenje djelovanja i izvršavanje zadaća operativno komunikacijskih centara 112; planiranje, koordiniranje, prikupljanje i obradu informacija, obavijesti i podataka zbog moguće potrebe obavješćivanja i uzbunjivanja građana, pravnih osoba, tijela državne uprave, spasilačkih službi, civilne zaštite, vatrogastva i drugih unutarnjih ustrojstvenih jedinica Državne uprave; definiranje i vođenje jedinstvene baze podataka operativnih snaga zaštite i spašavanja te pregleda događaja; planiranje, predlaganje, sudjelovanje u postupku nabave i implementacije te održavanja i eksploatacije strateških komunikacijskih sustava Državne uprave; sudjelovanje u međunarodnoj suradnji i međunarodnim odnosima; izradu prijedloga propisa iz svoje nadležnosti; pripremanje i provođenje strukovnog nadzora u području sustava 112; planiranje i predlaganje vrste i razine izobrazbe i treninga za djelatnike centara 112 i Službe za sustav 112; evaluacija usvojenih komunikacijskih znanja i vještina potrebnih operaterima Centra 112; osiguravanje uvjeta za rad Stožera zaštite i spašavanja Republike Hrvatske; u koordinaciji s Kabinetom ravnatelja sudjeluje u definiranju strateških ciljeva Državne uprave, pokazatelja uspješnosti i utvrđivanju rizika, sudjeluje u nadzoru provedbe postavljenih ciljeva te izvješćuje Kabinet ravnatelja o realizaciji.
+Radom Službe za sustav 112 upravlja pomoćnik ravnatelja - glavni nadzornik sustava 112. Glavni nadzornik sustava 112 ima zamjenika koji obavlja zadaće zamjenika u rukovođenju sustavom centara 112 za vrijeme operativnih aktivnosti tijekom katastrofe ili većih nesreća.
+U Službi za sustav 112 se ustrojavaju:
+7.1. Odjel za preventivu, planiranje i nadzor
+7.2. Odjel za komunikacijsku i informacijsku tehnologiju
+7.3. Odjel za sustav javnog uzbunjivanja.
+7.1. Odjel za preventivu, planiranje i nadzor

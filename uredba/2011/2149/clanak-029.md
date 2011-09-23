@@ -1,0 +1,4 @@
+# Članak 29.
+Državna intervencijska postrojba obavlja operativne i tehničke poslove pripreme za operativnu spremnost, izravno djeluje u vatrogasnim intervencijama - prvenstveno pri gašenju požara otvorenoga prostora, pruža neposrednu tehničku pomoć i osigurava dodatne sposobnosti i resurse u slučaju katastrofa, velikih nesreća i akcidenata s opasnim tvarima na teritoriju Republike Hrvatske.
+Državna intervencijska postrojba sudjeluje u programima osposobljavanja pripadnika vatrogasnih postrojbi kojima se popunjava državna intervencijska postrojba, sudjeluje u pripremi i provedbi vježbi državnog i međunarodnog značaja; priprema se i za druge intervencije zaštite i spašavanja u kojima se mogu koristiti ljudski i tehnički resursi te sposobnosti postrojbe.
+Državna intervencijska postrojba sudjeluje u raznim vrstama intervencija zaštite i spašavanja, posebno onih složenijih, većih i zahtjevnijih razmjera, a dio su i postrojbi koje pružaju međudržavnu pomoć.

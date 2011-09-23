@@ -1,0 +1,6 @@
+# Članak 46.
+Centar za tehniku zaštite i spašavanja obavlja poslove ispitivanja tehnike zaštite i spašavanja te izdaje uvjerenja i isprave o ispravnosti uređaja u skladu s propisima koji uređuju područje zaštite i spašavanja; razvija i primjenjuje stručne i znanstvene metode ispitivanja tehnike; obavlja kontrolna ispitivanja obavljenih poslova ispitivanja i održavanja tehnike; provodi stručni nadzor obavljenih poslova ispitivanja tehnike iz područja vatrogastva i zaštite i spašavanja; sudjeluje u donošenju hrvatskih normi i tehničkih pravilnika iz područja vatrogastva i zaštite i spašavanja; predlaže naputke za praćenje, ispitivanje i održavanje tehnike; daje stručno mišljenje na dokumentaciju vezanu uz tehniku; sudjeluje u izvođenju nastave u Učilištu; sudjeluje u provođenju stručnog nadzora nad obrazovanjem u području vatrogastva i zaštite i spašavanja; sudjeluje u izradi nastavnih planova i programa; sudjeluje u pripremi i izradi stručne literature; izrađuje godišnji plan i program rada i sudjeluje u izradi godišnjeg plana i programa rada Učilišta; sudjeluje u pripremi cjenika za poslove koje obavlja Centar.
+U Centru za tehniku zaštite i spašavanja se ustrojavaju:
+8.4.1. Odsjek za ispitivanje tehnike
+8.4.2. Odsjek za normativno uredovanje.
+8.4.1. Odsjek za ispitivanje tehnike

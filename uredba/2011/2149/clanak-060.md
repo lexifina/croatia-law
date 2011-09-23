@@ -1,0 +1,3 @@
+# Članak 60.
+Odsjek za planiranje i nabavu obavlja stručne poslove nabave materijalnih sredstava, usluga i ustupanja radova, izrade Plana nabave, vodi operativne poslove u svezi planiranja i izvršenja Plana nabave te analize, u suradnji s odgovarajućim stručnim službama priprema i izrađuje dokumentaciju za nadmetanja, daje tehničku i stručnu podršku povjerenstvima za nabavu i sudjeluje u njihovom radu, ugovara nabave materijalnih sredstava, usluga i ustupanja radova. Provodi sve planske i analitičke postupke bitne za pravodobnu realizaciju nabave. Predlaže provedbene i ostale akte u svezi unaprjeđenja poslovanja nabave.
+9.4.2. Odsjek za materijalne poslove

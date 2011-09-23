@@ -1,0 +1,2 @@
+# Članak 62.
+Odsjek za skladišno poslovanje za skladišno poslovanje obavlja poslove zaprimanja, čuvanja i izdavanja opreme, sitnog inventara i ostalih novo nabavljenih materijalnih sredstava, vodi skladišne evidencije, usklađuje stanje s materijalnim knjigovodstvom, predlaže rashod skladištenih materijalnih sredstava; obavlja i sve ostale poslove u svezi skladišnog poslovanja; predlaže provedbene i ostale akte u svezi unaprjeđenja skladišnog poslovanja.
