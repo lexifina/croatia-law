@@ -1,0 +1,1 @@
+Na temelju članka 25. stavka 1. Ustavnog zakona o pravima nacionalnih manjina (»Narodne novine«, broj 155/02., 47/10., 80/10. i 93/11.) i članka 20. Zakona o Registru vijeća, koordinacija vijeća i predstavnika nacionalnih manjina (»Narodne novine«, broj 80/11.), ministar uprave donosi
