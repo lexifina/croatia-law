@@ -1,0 +1,1 @@
+[1] Pravilnikom su preuzete odredbe Uredbe Komisije (EZ) br. 605/2010 od 2. srpnja 2010. kojom se utvrđuju uvjeti zdravlja životinja i javnog zdravlja te veterinarskog certificiranja za uvoz u Europsku uniju sirovog mlijeka i mliječnih proizvoda namijenjenih prehrani ljudi

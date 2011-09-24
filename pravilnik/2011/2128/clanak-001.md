@@ -1,0 +1,3 @@
+# Članak 1.
+U Pravilniku o popisu pošiljka koje podliježu veterinarskom pregledu u prometu preko granice Republike Hrvatske (»Narodne novine«, broj 97/07 i 142/08) u članku 6. stavak 2. mijenja se i glasi:
+»Svi mješoviti proizvodi koji sadrže mliječnu komponentu ne podliježu veterinarskom pregledu ukoliko je mliječna komponenta dobivena i obrađena na način propisan za zemlje navedene u Prilogu I. Pravilnika o uvjetima zdravlja životinja i javnog zdravlja te veterinarskom certificiranju pošiljaka mlijeka i mliječnih proizvoda koji se uvoze u Republiku Hrvatsku (»Narodne novine«, broj 41/11)[1]«.
