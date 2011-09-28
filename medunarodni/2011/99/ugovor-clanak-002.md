@@ -1,0 +1,6 @@
+# Članak 2.
+(1) Odredbe ovog Sporazuma primjenjuju se na obvezne zalihe nafte koje su pokrivene ugovorima. Takvi ugovori moraju biti sklopljeni na najmanje tri uzastopna mjeseca počevši s prvim danom svakog kalendarskog mjeseca.
+(2) CSE u Republici Hrvatskoj je Hrvatska agencija za obvezne zalihe nafte i naftnih derivata (HANDA), dok je CSE u Republici Mađarskoj Mađarska udruga za zalihe ugljikovodika (HUSA).
+(3) Obvezne zalihe nafte države korisnika mogu uključivati sljedeće:
+a) zalihe koje se nalaze na državnom području države depozitara koje kontrolira CSE države korisnika na temelju vlasništva ili drugog pravnog naslova;
+b) druge količine koje se nalaze na državnom području države depozitara kojima upravljaju trgovačka društva registrirana u državi depozitara na temelju vlasništva ili drugog pravnog naslova. Te pravne osobe preuzimaju ugovorne obveze uskladištiti predmetne količine za CSE države korisnika barem za tri uzastopna mjeseca pri čemu će taj CSE imati pravo na opciju preferencijalne kupnje tih zaliha po prethodno utvrđenoj kupoprodajnoj cijeni. Prije početka držanja takvih zaliha na državnom području države depozitara, svako trgovačko društvo države depozitara mora pribaviti pisano odobrenje nadležnog tijela države depozitara za držanje takvih obveznih zaliha nafte.
