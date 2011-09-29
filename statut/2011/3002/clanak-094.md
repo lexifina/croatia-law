@@ -1,0 +1,3 @@
+# Članak 94.
+Sredstva Hrvatskog saveza zadruga koriste se za obavljanje djelatnosti Hrvatskog saveza zadruga sukladno Zakonu o zadrugama, ovom Statutu i drugim aktima Hrvatskog saveza zadruga (financijski plan, ugovori itd.).
+Predsjednik Hrvatskog saveza zadruga vodi brigu o imovini Hrvatskog saveza zadruga, odgovara za zakonitost upravljanja, korištenje imovine i sredstava za rad, te odlučuje o nabavi, otpisu i prodaji osnovnih sredstava do vrijednosti u visini do 300.000,00 kn samostalno, do 750.000,00 kn uz prethodnu suglasnost Nadzornog odbora, a preko 750.000,00 kn uz prethodnu suglasnost Skupštine.

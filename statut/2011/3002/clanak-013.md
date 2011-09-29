@@ -1,0 +1,4 @@
+# Članak 13.
+Hrvatski savez zadruga u svojem radu surađuje sa Hrvatskim saborom, Vladom Republike Hrvatske, tijelima državne uprave, jedinicama lokalne i područne (regionalne) samouprave, znanstvenim, obrazovnim i drugim ustanovama, udrugama, pravnim osobama i drugim organizacijama u rješavanju pitanja važnih za zadrugarstvo, kao i ukupnu socijalnu politiku i ukupno gospodarstvo Republike Hrvatske.
+Radi ostvarivanja interesa svojih članica, Hrvatski savez zadruga surađuje i povezuje se s ostalim komorama u zemlji i inozemstvu, međunarodnim organizacijama, udruženjima i sličnim asocijacijama u stranim zemljama, a može ostvarivati i različite oblike poslovnog povezivanja.
+Hrvatski savez zadruga može odrediti svog predstavnika u inozemstvu u srodnim organizacijama, te ostvariti različite načina zastupanja i povezivanja.

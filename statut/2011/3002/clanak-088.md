@@ -1,0 +1,4 @@
+# Članak 88.
+Statutom zadružnog saveza pobliže se uređuju: naziv, OIB i sjedište zadružnog saveza, prava i obveze članica, ciljevi, poslovi i zadaci, tijela zadružnog saveza i njihov djelokrug rada, sastav, način i postupak izbora i opoziva tih tijela, trajanje mandata, zastupanje i predstavljanje zadružnog saveza, osiguranje sredstava za rad zadružnog saveza, teritorijalni obuhvat ili strukovna određenost zadružnog saveza ili posebni interes radi kojeg je osnovan, oblici organiziranja, unutrašnji ustroj, i druga pitanja važna za rad zadružnog saveza.
+Tvrtka zadružnog saveza sadrži samo teritorijalni obuhvat ili strukovnu određenost tog zadružnog saveza ili određen posebni interes tog zadružnog saveza i naznaku da se radi o zadružnom savezu.
+Zadružni savez može imati svoj zaštitni znak. Uz zaštitni znak zadružnog saveza, ukoliko ga ima, i uz njegovu tvrtku mora stajati zaštitni znak Hrvatskog saveza zadruga, u gornjem desnom kutu na memorandumu.

@@ -1,0 +1,1 @@
+Statut Hrvatskog saveza zadruga
