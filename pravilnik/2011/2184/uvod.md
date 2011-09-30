@@ -1,0 +1,1 @@
+Na temelju članka 21. Zakona o rodiljnim i roditeljskim potporama (»Narodne novine«, broj 85/08, 110/08 i 34/11) ministar obitelji, branitelja i međugeneracijske solidarnosti uz suglasnost ministra nadležnog za rad, donosi

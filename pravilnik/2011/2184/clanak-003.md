@@ -1,0 +1,4 @@
+# Članak 3.
+(1) Radnica koja doji dijete za vrijeme korištenja prava na stanku iz članka 2. ovoga Pravilnika, ima pravo na naknadu plaće koja iznosi 100% proračunske osnovice, preračunate na satnu osnovicu za mjesec za koji se obračunava naknada plaće, pod uvjetom da ispunjava staž osiguranja propisan člankom 24. stavkom 8. Zakona.
+(2) Radnica koja doji dijete, a ne ispunjava uvjet staža osiguranja iz članka 24. stavka 8. Zakona, ima pravo na naknadu plaće koja iznosi 50% proračunske osnovice, preračunate na satnu osnovicu za mjesec za koji se obračunava naknada plaće.
+(3) Pod proračunskom satnom osnovicom iz stavka 1. i 2. ovoga članka smatra se propisani postotni iznos proračunske osnovice obračunat na satnu vrijednost s obzirom na puno radno vrijeme u mjesecu za koji se obračunava naknada plaće.
