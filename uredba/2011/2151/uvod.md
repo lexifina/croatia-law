@@ -1,0 +1,1 @@
+Na temelju članka 12. stavka 2. Zakona o ustanovama (»Narodne novine«, br. 76/93, 29/97, 47/99 i 35/2008) i članka 77. stavka 1. Zakona o poljoprivrednom zemljištu (»Narodne novine«, br. 152/2008, 25/2009, 153/2009, 21/2010, 90/2010, 39/2011 i 63/2011), Vlada Republike Hrvatske je na sjednici održanoj 3. kolovoza 2011. godine donijela
