@@ -1,0 +1,5 @@
+# Članak 7.
+Vlada Republike Hrvatske, odnosno nadležno tijelo može odrediti svojom odlukom da se mineralna sirovina iz viška iskopa ugradi u objekte od državnog interesa i druge objekte od javnog interesa, bez provođenja javnog natječaja o raspolaganju s viškom iskopa.
+U odluci iz stavka 1. ovoga članka moraju se navesti količine mineralne sirovine koje se nalaze u višku iskopa te obveze investitora, mjesto i rok preuzimanja, obveza vođenja točne evidencije preuzetih i ugrađenih količina mineralne sirovine i datume ovih radnji, te obveza izvještavanja nadležnog tijela svakih šest mjeseci, ukoliko radovi traju duže od ovog razdoblja. Po dovršetku radova investitor je dužan izraditi konačno izvješće, te predati ga nadležnom tijelu i Državnom inspektoratu.
+Vlada Republike Hrvatske putem nadležnog tijela može mineralnu sirovinu iz viška iskopa prodati investitoru neposrednom pogodbom.
+U slučaju da Vlada Republike ne odredi svojom odlukom raspolaganje mineralnom sirovinom iz viška iskopa bez provođenja postupka javnog natječaja, nadležno tijelo provest će postupak javnog natječaja za prodaju viška iskopa.
