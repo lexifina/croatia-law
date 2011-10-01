@@ -1,0 +1,8 @@
+# Članak 11.
+POSJETI
+1. Posjeti objektima jedne od stranaka koji podrazumijevaju da predstavnik druge stranke ima pristup klasificiranim podacima ili lokacijama gdje je pristup takvim podacima izravno moguć podložni su prethodnom odobrenju NSA ili nadležnih sigurnosnih tijela stranke domaćina.
+2. Posjeti objektima jedne od stranaka od strane državljana treće stranke koji uključuju pristup klasificiranim podacima razmijenjenim ili nastalim između stranaka ili lokacijama gdje je pristup takvim podacima izravno moguć podložni su prethodnom pisanom odobrenju NSA ili nadležnih sigurnosnih tijela druge stranke.
+3. Posjeti navedeni u stavcima 1. i 2. podrazumjevaju da svi posjetitelji imaju odgovarajući sigurnosni certifikat kao i nužnost pristupa podacima za obavljanje poslova iz djelokruga.
+4. Zahtjevi za posjete kada je potreban pristup klasificiranim podacima stupnja VRLO TAJNO/TRES SECRET DEFENSE šalju se diplomatskim putem NSA stranke domaćina. Zahtjevi za posjete kada je potreban pristup klasificiranim podacima nižeg stupnja obrađuju se izravno između NSA i nadležnih sigurnosnih tijela stranaka. Zahtjevi se šalju najmanje tri (3) tjedna prije traženog datuma posjeta. Zahtjevi za posjete sadrže podatke navedene u Dodatku ovog Ugovora.
+5. Svaka stranka može zahtijevati odobrenje za posjet za najduže razdoblje od dvanaest (12) mjeseci. Ukoliko se pojedini posjet ne može obaviti unutar razdoblja predviđenog u odobrenju za posjet ili ukoliko se traži produženje razdoblja predviđenog u odobrenju za posjet, stranka koja to zatraži može podnijeti zahtjev za novo odobrenje za posjet, pod uvjetom da ga podnese najmanje tri (3) tjedna prije isteka važećeg odobrenja.
+6. Svi posjetitelji dužni su pridržavati se sigurnosnih propisa i uputa stranke domaćina.

@@ -1,0 +1,4 @@
+# Članak 12.
+VIŠESTRUKI POSJETI
+1. Stranke mogu sastaviti popis osoblja ovlaštenog za provedbu nekoliko posjeta u vezi s bilo kojim projektom, programom ili posebnim ugovorom u skladu sa standardnim uvjetima dogovorenim između NSA ili nadležnih sigurnosnih tijela stranaka. Najprije, navedeni popisi vrijede tijekom razdoblja od dvanaest (12) mjeseci i na temelju dogovora između NSA ili nadležnih sigurnosnih tijela stranaka navedeno razdoblje važenja može se produžiti za druga razdoblja koja ukupno ne prelaze dvanaest (12) mjeseci.
+2. Popisi navedeni u stavku 1. sastavljaju se u skladu s nacionalnim zakonima i propisima stranke domaćina. Nakon odobrenja dostavljenog popisa, opći uvjeti svih posebnih posjeta mogu se utvrđivati izravno između tijela i pravnih osoba koje osobe navedene na tim popisima trebaju posjetiti.
