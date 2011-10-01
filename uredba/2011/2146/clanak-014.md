@@ -1,0 +1,2 @@
+# Članak 14.
+Ako se na temelju objavljenog oglasa za prikupljanje ponuda za zamjenu dionica i poslovnih udjela zapisnikom iz članka 12. ove Uredbe utvrdi da je pristiglim ponudama za zamjenu dionica i poslovnih udjela ponuđen traženi paket dionica i poslovnih udjela, stručne službe Agencije sačinit će listu pristiglih ponuda sa brojem ponuđenih dionica i poslovnih udjela koje ponuditelji daju u zamjenu za dionice i poslovne udjele koje Republika Hrvatska nudi za zamjenu, i predložiti nadležnom tijelu donošenje odluke o zamjeni.

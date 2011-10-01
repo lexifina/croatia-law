@@ -1,0 +1,3 @@
+# Članak 17.
+Ravnatelj Agencije će, nakon provedenog postupka javnog prikupljanja ponuda za zamjenu dionica i poslovnih udjela, a na temelju odluke nadležnog tijela o zamjeni dionica i poslovnih udjela, pozvati sve sudionike čija je ponuda za zamjenu prihvaćena na potpisivanje ugovora o zamjeni dionica i poslovnih udjela u roku 30 dana od dana donošenja odluke o zamjeni.
+Ukoliko neki od ponuditelja odustane od potpisivanja ugovora o zamjeni dionica i poslovnih udjela te Republika Hrvatska, radi njihova odustanka, ne ostvari određeni paket u trgovačkom društvu, može odustati od svih ponuda za predmetno trgovačko društvo i objaviti novi oglas za prikupljanje ponuda za zamjenu dionica i poslovnih udjela putem javnog oglašavanja.
