@@ -1,0 +1,8 @@
+# Članak 4.
+(1) Naknada troškova se plaća u trenutku podnošenja zahtjeva ili drugog podneska na temelju kojeg Zavod obavlja radnju za koju je ovom Uredbom utvrđena visina troškova ili u roku određenom u pozivu Zavoda.
+(2) Ako naknada troškova u postupcima za priznanje patenata nije plaćena u trenutku podnošenja podneska ili naknada troškova u postupcima za priznanje i održavanje u vrijednosti patenata nije plaćena u propisanom iznosu, Zavod zaključkom nalaže stranci da u roku od dva mjeseca od dana primitka zaključka plati propisanu naknadu troškova.
+(3) Ako naknada troškova u postupcima za priznanje i održavanje u vrijednosti žigova i industrijskog dizajna, te naknada troškova za pokretanje žalbenog postupka u odnosu na bilo koju odluku Zavoda nije plaćena u trenutku podnošenja podneska ili nije plaćena u propisanom iznosu, Zavod zaključkom nalaže stranci da u roku od 30 dana od dana primitka zaključka plati propisanu naknadu troškova.
+(4) Ako naknada troškova za prosljeđivanje prijave žiga ili dizajna Zajednice nije plaćena u trenutku podnošenja podneska ili nije plaćena u propisanom iznosu, Zavod zaključkom nalaže stranci da u roku od 7 dana od dana primitka zaključka plati propisanu naknadu troškova.
+(5) Ako stranka uplati naknadu troškova prema zaključku Zavoda smatra se da je naknada troškova uredno plaćena od početka.
+(6) Ako stranka ne uplati naknadu troškova po zaključku Zavoda, odnosno, ako ne uplati naknadu troškova u roku propisanom u stavcima 3. i 4. ovoga članka, zahtjev ili drugi podnesak se rješenjem odbacuju.
+(7) Na temelju zahtjeva za pružanje informacijske usluge za koju je ovom Uredbom utvrđena visina troškova Zavod će pružiti informacijsku uslugu pod uvjetom da je uz taj zahtjev plaćena propisana naknada troškova.

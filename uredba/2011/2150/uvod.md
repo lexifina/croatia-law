@@ -1,0 +1,1 @@
+Na temelju članka 9. Zakona o upravnim pristojbama u području prava intelektualnog vlasništva (»Narodne novine«, br. 64/2000, 160/2004, 62/2008, 30/2009 i 49/2011), Vlada Republike Hrvatske je na sjednici održanoj 3. kolovoza 2011. godine donijela

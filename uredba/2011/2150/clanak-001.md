@@ -1,0 +1,4 @@
+## I. OPĆE ODREDBE
+# Članak 1.
+(1) Ovom se Uredbom uređuje plaćanje naknada posebnih troškova i troškova informacijskih usluga (u daljnjem tekstu: troškovi) za radnje u postupcima za priznanje i održavanje prava industrijskog vlasništva u vrijednosti prema Zakonu o patentu, Zakonu o žigu, Zakonu o industrijskom dizajnu, Zakonu o oznakama zemljopisnog podrijetla i oznakama izvornosti proizvoda i usluga i Zakonu o zaštiti topografija poluvodičkih proizvoda, u postupcima upisa u registar zastupnika u području prava industrijskog vlasništva i izdavanja odobrenja za obavljanje djelatnosti kolektivnog ostvarivanja autorskog prava i srodnih prava prema Zakonu o autorskom pravu i srodnim pravima, koje provodi Državni zavod za intelektualno vlasništvo (u daljnjem tekstu: Zavod).
+(2) Iznosi troškova iz stavka 1. ovoga članka utvrđeni su ovom Uredbom.
