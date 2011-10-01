@@ -1,0 +1,1 @@
+Na temelju članka 63. stavka 3. Zakona o financiranju vodnoga gospodarstva (»Narodne novine«, broj 153/2009), na prijedlog Vijeća za vodne usluge, Vlada Republike Hrvatske je na sjednici održanoj 21. travnja 2011. godine donijela
