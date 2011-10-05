@@ -1,0 +1,1 @@
+Odluka o utvrđivanju interesa Republike Hrvatske za izgradnju igrališta za golf "Baštijunski Brig", od 27 (18+9) rupa s pripadajućom infrastrukturom, prometnicama, parkiralištima, klupskom kućom i servisnom zgradom te građevinama ugostiteljsko-turističke namjene - vilama, apartmanima i hotelom, u naselju Biograd na Moru
