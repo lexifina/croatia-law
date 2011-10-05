@@ -1,0 +1,1 @@
+Na temelju odredbe članka 52. stavka 7. a u svezi stavka 3. Zakona o leasingu (»Narodne novine« broj 135/06) Hrvatska agencija za nadzor financijskih usluga na sjednici održanoj 29. rujna 2011. godine donosi
