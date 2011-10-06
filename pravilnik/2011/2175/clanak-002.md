@@ -1,0 +1,2 @@
+# Članak 2.
+Rok iz članka 21. stavka 3. Pravilnika o načinima i uvjetima odlaganja otpada, kategorijama i uvjetima rada za odlagališta otpada (»Narodne novine«, broj 117/07) produljuje se na način da postojeća odlagališta iz stavka 2. toga članka, na temelju odobrenih planova sanacije i/ili zatvaranja i uvjeta utvrđenih tim Pravilnikom, moraju biti sanirana i zatvorena najkasnije godinu dana od dana puštanja u rad centra za gospodarenje otpadom za područje županije na čijem se području nalaze.
