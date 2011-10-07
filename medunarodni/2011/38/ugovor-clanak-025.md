@@ -1,0 +1,4 @@
+# Članak 25.
+VREMENSKA OGRANIČENJA ZA POHRANU I BRISANJE OSOBNIH PODATAKA
+(1) Osobni se podaci u informacijskom sustavu čuvaju samo toliko dugo koliko je potrebno za ispunjenje SELEC-ovih zadaća. Potreba za daljnjom pohranom preispituje se najkasnije u roku od tri godine od unosa tih osobnih podataka. Preispitivanje osobnih podataka pohranjenih u informacijskom sustavu kao i njihovo brisanje obavlja stranka koja je te podatke unijela.
+(2) Za vrijeme preispitivanja, stranka iz stavka 1. koja je osobne podatke unijela može odlučiti o njihovoj daljnjoj pohrani do sljedećega preispitivanja, koje slijedi nakon još jednog razdoblja od tri godine, ukoliko je to još uvijek potrebno u svrhu obrade tih podataka. Ako se ne donese nikakva odluka o daljnjoj pohrani osobnih podataka, SELEC te osobne podatke automatski briše. SELEC će stranke koje su te podatke unijele tri mjeseca unaprijed automatski obavijestiti o isteku roka za preispitivanje pohrane tih osobnih podataka.

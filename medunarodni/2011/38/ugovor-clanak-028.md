@@ -1,0 +1,6 @@
+# Članak 28.
+ODGOVORNOST U PODRUČJU ZAŠTITE OSOBNIH PODATAKA
+(1) Odgovornost za osobne podatke obrađene u SELEC-u, posebice obzirom na zakonitost prikupljanja, prijenosa SELEC-u i unosa osobnih podataka, kao i za njihovu točnost, ažuriranost te za provjeru rokova za njihovo pohranjivanje, snosi:
+(a) država članica, operativni partner, promatrač ili treća strana koji su te osobne podatke učinili dostupnima;
+(b) SELEC, za podatke koji su proizašli iz analiza vođenih od strane SELEC-a.
+(2) Povrh toga, SELEC je odgovoran za sve osobne podatke koje obrađuje, od trenutka kada takve podatke uključi u jednu od svojih automatskih ili neautomatskih datoteka. Za zaštitu osobnih podataka koji su dostavljeni SELEC-u, ali još nisu uključeni u informacijski sustav SELEC-a, i dalje je odgovorna stranka koja je te podatke poslala. Međutim, odgovornost SELEC-a je osigurati da, dok se ne uključe u SELEC-ove datoteke, pristup takvim osobnim podacima imaju samo ovlašteni službenici SELEC-a u svrhu utvrđivanja mogućnosti njihove obrade u SELEC-u i ovlašteni službenici stranke koja je te podatke dostavila. Ako SELEC, nakon procjene, ima razloga smatrati da su dostavljeni podaci netočni ili zastarjeli o tome obavještava stranku koja ih je dostavila.
