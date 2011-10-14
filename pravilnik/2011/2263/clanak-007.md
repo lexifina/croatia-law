@@ -1,0 +1,4 @@
+# Članak 7.
+U članku 41. iza stavka 4. dodaje se novi stavak 5. koji glasi:
+»(5) Podnositelj je dužan u roku najkasnije mjesec dana prije zatvaranja natječaja za dodjelu sredstava iz IPARD programa, Ministarstvu zaštite okoliša, prostornog uređenja i graditeljstva podnijeti zahtjev s priloženim Elaboratom zaštite okoliša za dodjelu sredstava iz IPARD programa, Mjera 101 i 103, propisanog sadržaja. Elaborat zaštite okoliša izrađuju pravne osobe, koje imaju suglasnost Ministarstva zaštite okoliša, prostornog uređenja i graditeljstva za izradu elaborata. Zahtjev se podnosi u svrhu ishođenja Potvrde o usklađenosti poljoprivrednog gospodarstva s minimalnim nacionalnim standardima i usklađenosti ulaganja s EU standardima koju podnositelj prilaže uz prijavu, zajedno s ostalom propisanom dokumentacijom.«
+Dosadašnji stavci 5., 6., 7., 8., 9., 10., 11., 12., 13., 14., 15. i 16. postaju stavci 6., 7., 8., 9., 10., 11., 12., 13., 14., 15., 16. i 17.
