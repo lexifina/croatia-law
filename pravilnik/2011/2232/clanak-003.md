@@ -1,0 +1,2 @@
+# Članak 3.
+Uzgojne organizacije Ministarstvu poljoprivrede, ribarstva i ruralnog razvoja (u daljnjem tekstu: Ministarstvo) podnose zahtjev za priznavanje radi dobivanja suglasnosti za vođenje matičnih knjiga i bavljenje uzgojem uzgojno valjanih kopitara (u daljnjem tekstu: suglasnost) uz koji je potrebno priložiti podatke i isprave iz Priloga I. koji je tiskan uz ovaj Pravilnik i njegov je sastavni dio.
