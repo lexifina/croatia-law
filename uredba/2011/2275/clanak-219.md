@@ -1,0 +1,2 @@
+# Članak 219.
+POSTAJA PROMETNE POLICIJE VARAŽDIN je specijalizirana - prometna policijska postaja II. kategorije sa sjedištem u Varaždinu, a obuhvaća Grad Varaždin i općine Vinica, Cestica, Petrijanec, Sračinec, Trnovec Bartolovečki, Jalžabet, Sveti Ilija, Beretinec, Gornji Kneginec i Vidovec. U okviru svog djelokruga, Postaja pokriva i dionicu autoceste A4 koja prolazi područjem Varaždinske županije.

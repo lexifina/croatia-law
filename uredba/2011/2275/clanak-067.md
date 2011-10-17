@@ -1,0 +1,2 @@
+# Članak 67.
+II. POLICIJSKA POSTAJA OSIJEK je mješovita policijska postaja II. kategorije sa sjedištem u Osijeku, a obuhvaća donji dio Grada Osijeka, odnosno područja gradskih četvrti Novi Grad, Donji Grad, Jug II i istočni dio gradske četvrti Tvrđa, do sredine kolnika ulice Kneza Trpimira i sredine kolnika Biljske ceste, te mjesne odbore, Tenja i Klisa, istočni dio mjesnog odbora Osijek - lijeva obala (naselje Podravlje), dio Općine Šodolovci - mjesni odbor Silaš, te Međunarodni granični prijelaz za zračni promet u Zračnoj luci Osijek - Klisa.

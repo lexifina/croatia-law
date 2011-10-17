@@ -1,0 +1,2 @@
+# Članak 206.
+POLICIJSKA POSTAJA ŠTRIGOVA je mješovita policijska postaja III. kategorije sa sjedištem u Štrigovi, a obuhvaća općine Štrigova i Gornji Mihaljevec, dio Općine Sveti Juraj na Bregu, odnosno naselja Pleškovec, Lopatinec, Dragoslavec, Dragoslavec Breg, Vučetinec i Okrugli Vrh te dio Općine Nedelišće, odnosno naselja Črečanj i Macinec. Nadležna je i za nadzor državne granice, odnosno kontrolu prelaska državne granice na pripadajućim graničnim prijelazima i zaštitu dijela državne granice s Republikom Slovenijom u dužini od 38 km.

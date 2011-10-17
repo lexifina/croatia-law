@@ -1,0 +1,2 @@
+# Članak 66.
+I. POLICIJSKA POSTAJA OSIJEK je temeljna policijska postaja I. kategorije sa sjedištem u Osijeku, a obuhvaća gornji dio Grada Osijeka područja gradskih četvrti Retfala, Gornji Grad, Industrijska četvrt te zapadni dio gradske četvrti Tvrđa do sredine kolnika ulice Kneza Trpimira i sredine kolnika Biljske ceste, te mjesne odbore Brijest, Višnjevac i Josipovac i zapadni dio mjesnog odbora Osijek - lijeva obala (naselje Tvrđavica) do sredine kolnika Biljske ceste.

@@ -1,0 +1,2 @@
+# Članak 87.
+POSTAJA PROMETNE POLICIJE PULA - POLA je specijalizirana - prometna policijska postaja III. kategorije sa sjedištem u Puli - Poli, a obuhvaća područje gradova Pula - Pola i Vodnjan - Dignano i općina Medulin, Ližnjan - Lisignano, Marčana, Barban, Svetvinčenat i Fažana - Fasana. U okviru svog djelokruga, Postaja pokriva i dionice autocesta A9 i B8 koje prolaze područjem Istarske županije.

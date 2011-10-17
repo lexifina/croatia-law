@@ -1,0 +1,2 @@
+# Članak 65.
+U Policijskoj upravi osječko-baranjskoj osnivaju se I. policijska postaja Osijek, II. policijska postaja Osijek, Policijska postaja Čepin, Policijska postaja Beli Manastir, Policijska postaja Donji Miholjac, Policijska postaja Đakovo, Policijska postaja Valpovo, Policijska postaja Našice, Policijska postaja Dalj, Postaja granične policije Beli Manastir i Postaja prometne policije Osijek.

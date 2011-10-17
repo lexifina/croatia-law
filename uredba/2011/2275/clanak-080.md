@@ -1,0 +1,2 @@
+# Članak 80.
+POLICIJSKA POSTAJA BUJE - BUIE je mješovita policijska postaja II. kategorije sa sjedištem u Bujama, a obuhvaća područje Grada Buje - Buie i općina Grožnjan - Grisignana i Oprtalj - Portole. Nadležna je i za nadzor državne granice, odnosno kontrolu prelaska državne granice na pripadajućim graničnim prijelazima i zaštitu dijela državne granice s Republikom Slovenijom u dužini od 35 km.

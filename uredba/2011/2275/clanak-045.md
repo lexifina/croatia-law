@@ -1,0 +1,2 @@
+# Članak 45.
+POSTAJA POMORSKE POLICIJE SPLIT je specijalizirana - pomorska policijska postaja II. kategorije sa sjedištem u Splitu. Nadležna je za nadzor državne granice i poslove na moru na morskom akvatoriju Splitsko - dalmatinske županije, odnosno kontrolu prelaska državne granice na graničnom prijelazu Luka Split u Gradu Splitu i zaštitu dijela državne granice na moru u ukupnoj dužini od 196 n/m.

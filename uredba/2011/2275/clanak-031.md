@@ -1,0 +1,2 @@
+# Članak 31.
+II. POLICIJSKA POSTAJA SPLIT je temeljna policijska postaja I. kategorije sa sjedištem u Splitu, a obuhvaća dio područja Grada Splita, odnosno područje gradskih kotareva Bačvice, Trstenik, Lučac - Manuš, Gripe, Bol, Blatine - Škrape, Lokve, Split III, Visoka, Mejaši, Mertojak, Žnjan, Sirobuja i Šine, te mjesnih odbora Kamen, Žrnovnica, Sitno Donje, Sitno Gornje, Srinjine i Stobreč, kao i Općinu Podstrana.

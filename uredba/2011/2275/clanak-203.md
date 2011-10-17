@@ -1,0 +1,2 @@
+# Članak 203.
+POLICIJSKA POSTAJA ČAKOVEC je mješovita policijska postaja II. kategorije sa sjedištem u Čakovcu, a obuhvaća Grad Čakovec, osim naselja Krištanovec, Slemenice i Žiškovec, općine Pribislavec, Šenkovec, Strahoninec i dijelove Općine Nedelišće, osim naselja Črečan i Macinec, dio Općine Mala Subotica osim naselja Držimurec, Strelec, Sveti Križ i Piškorovec, dio Općine Belica osim naselja Gardinovec, dio Općine Orehovica, osim naselja Podbrest i dio Općine Sveti Juraj na Bregu, odnosno naselja Mali Mihaljevec i Brezje.

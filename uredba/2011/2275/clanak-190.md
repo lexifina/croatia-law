@@ -1,0 +1,2 @@
+# Članak 190.
+POSTAJA PROMETNE POLICIJE KRAPINA je specijalizirana - prometna policijska postaja III. kategorije sa sjedištem u Krapini, a obuhvaća gradove Zabok i Krapina te općine Bedekovčina, Krapinske toplice, Veliko Trgovišće, Sveti Križ Začretje, Đurmanec, Jesenje, Petrovsko i Radoboj. U okviru svog djelokruga, Postaja pokriva i dionicu autoceste A2 koja prolazi područjem Krapinsko-zagorske županije.

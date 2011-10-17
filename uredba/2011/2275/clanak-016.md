@@ -1,0 +1,2 @@
+# Članak 16.
+POLICIJSKA POSTAJA ZAPREŠIĆ je mješovita policijska postaja II. kategorije sa sjedištem u Zaprešiću, a obuhvaća Grad Zaprešić i općine Brdovec, Bistra, Dubravica, Marija Gorica, Jakovlje, Luka i Pušća. Nadležna je i za nadzor državne granice, odnosno kontrolu prelaska državne granice na pripadajućim graničnim prijelazima i zaštitu dijela državne granice s Republikom Slovenijom u dužini od 26,3 km.

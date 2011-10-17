@@ -1,0 +1,2 @@
+# Članak 55.
+POLICIJSKA POSTAJA DELNICE je mješovita policijska postaja III. kategorije sa sjedištem u Delnicama, a obuhvaća Grad Delnice i općine Lokve, Fužine, Skrad, Ravna Gora, Mrkopalj i Brod Moravice, kao i dionicu autoceste A6 od 4. km i 100 m do 59. km i 100 m. Nadležna je i za nadzor državne granice, odnosno kontrolu prelaska državne granice na pripadajućem graničnom prijelazu i zaštitu dijela državne granice s Republikom Slovenijom u dužini od 50,5 km.

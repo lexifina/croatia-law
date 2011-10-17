@@ -1,0 +1,2 @@
+# Članak 85.
+POLICIJSKA POSTAJA POREČ - PARENZO je mješovita policijska postaja II. kategorije sa sjedištem u Poreču, a obuhvaća područje Grada Poreča - Parenzo i općina Vrsar - Oresra, Funtana - Fontane, Tar - Vabriga - Torre-Abrega, Vižinada - Visinada, Višnjan - Visgnano, Kaštelir - Labinci - Castelliere-S. Domenica i Sveti Lovreč. U sastavu policijske postaje nalazi se pristanište Vrsar, kao i pripadajući granični prijelaz.

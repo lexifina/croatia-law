@@ -1,0 +1,2 @@
+# Članak 173.
+POSTAJA PROMETNE POLICIJE SLAVONSKI BROD je specijalizirana - prometna policijska postaja II. kategorije sa sjedištem u Slobodnici, a obuhvaća Grad Slavonski Brod i općine Bebrina, Brodski Stupnik, Bukovlje, Garčin, Gornja Vrba, Klakar, Oriovac, Podcrkavlje i Sibinj, Vrpolje, Donji Andrijevci, Gundinci, Oprisavci, Sikirevci, Slavonski Šamac i Velika Kopanica. U okviru svog djelokruga, Postaja pokriva i dionice autocesta A3 i A5 koje prolaze područjem Brodsko-posavske županije.

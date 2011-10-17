@@ -1,0 +1,2 @@
+# Članak 6.
+I. POLICIJSKA POSTAJA ZAGREB je temeljna policijska postaja I. kategorije sa sjedištem u Gradu Zagrebu, a obuhvaća dio Grada Zagreba, odnosno dio područja gradske četvrti Donji grad s mjesnim odborima Andrija Medulić, Andrija Medulić, Cvjetni trg, Kralj Petar Svačić, Mimara, Zrinjevac i August Šenoa, dio područja gradske četvrti Gornji grad s mjesnim odborima August Cesarec, Gornji grad, Ivan Kukuljević - Sakcinski, Kraljevec, Nova Ves, Stjepan Radić i Tuškanac te dio područja gradske četvrti Podsljeme s mjesnim odborima Mlinovi i Šestine.

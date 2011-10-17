@@ -1,0 +1,2 @@
+# Članak 48.
+U Policijskoj upravi primorsko-goranskoj osnivaju se I. policijska postaja Rijeka, II. policijska postaja Rijeka, III. policijska postaja Rijeka, Policijska postaja Mali Lošinj sa Policijskom ispostavom Cres, Policijska postaja Crikvenica, Policijska postaja Čabar, Policijska postaja Delnice, Policijska postaja Krk, Policijska postaja Opatija, Policijska postaja Rab, Policijska postaja Vrbovsko, Postaja prometne policije Rijeka, Postaja granične policije Rupa, Postaja pomorske policije Rijeka i Postaja aerodromske policije Rijeka.

@@ -1,0 +1,2 @@
+# Članak 106.
+POLICIJSKA POSTAJA DUGA RESA je mješovita policijska postaja III. kategorije sa sjedištem u Dugoj Resi, a obuhvaća Grad Dugu Resu i općine Barilović, Bosiljevo, Generalski Stol i Netretić. Nadležna je i za nadzor državne granice, odnosno kontrolu prelaska državne granice na pripadajućim graničnim prijelazima i zaštitu dijela državne granice sa Republikom Slovenijom u dužini od 30 km.

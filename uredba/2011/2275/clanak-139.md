@@ -1,0 +1,2 @@
+# Članak 139.
+POLICIJSKA POSTAJA VINKOVCI je temeljna policijska postaja II. kategorije sa sjedištem u Vinkovcima, a obuhvaća Grad Vinkovci i općine Andrijaševci, Stari Jankovci, Ivankovo, Vođinci, Stari Mikanovci, Jarmina, Markušica, Nuštar i Tordinci. U okviru policijske postaje je Policijska ispostava Markušica sa sjedištem u Markušici, a obuhvaća područje općina Markušica, Jarmina, Nuštar i Tordinci.

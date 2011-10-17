@@ -1,0 +1,2 @@
+# Članak 34.
+POLICIJSKA POSTAJA IMOTSKI je mješovita policijska postaja II. kategorije sa sjedištem u Imotskom, a obuhvaća područje grada Imotskog te općine Cista Provo, Lokvičići, Lovreć, Podbablje (sjedište Drum), Proložac, Runovići, Zagvozd i Zmijavci. Nadležna je i za nadzor državne granice, odnosno kontrolu prelaska državne granice na pripadajućim graničnim prijelazima i zaštitu dijela državne granice s Bosnom i Hercegovinom u dužini od 40 km.

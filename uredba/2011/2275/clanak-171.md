@@ -1,0 +1,2 @@
+# Članak 171.
+POLICIJSKA POSTAJA VRPOLJE je mješovita policijska postaja III. kategorije sa sjedištem u Vrpolju, a obuhvaća općine Vrpolje, Donji Andrijevci, Gundinci, Oprisavci, Sikirevci, Slavonski Šamac i Velika Kopanica. Nadležna je i za nadzor državne granice, odnosno kontrolu prelaska državne granice na pripadajućim graničnim prijelazima i zaštitu dijela državne granice s Bosnom i Hercegovinom u dužini od 42 km.

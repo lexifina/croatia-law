@@ -1,0 +1,2 @@
+# Članak 155.
+POSTAJA PROMETNE POLICIJE ZADAR je specijalizirana - prometna policijska postaja II. kategorije sa sjedištem u Zadru, a obuhvaća područja gradova Zadar i Nin, općine Vir, Privlaka, Vrsi, Kali, Preko, Kukljica, Sali-Dugi otok, Bibinje, Sukošan, Škabrnja, Zemunik Donji, Galovac, Poličnik, Ražanac, Posedarje i Novigrad, te cestovnu mrežu otočnog arhipelaga (osim otoka Pašmana i Paga). U okviru svog djelokruga, Postaja pokriva i dionicu autoceste A1 koja prolazi područjem Zadarske županije, te cijev tunela Sveti Rok u pravcu kretanja jug-sjever.

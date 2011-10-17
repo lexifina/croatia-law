@@ -1,0 +1,2 @@
+# Članak 94.
+POLICIJSKA POSTAJA GRUDA je mješovita policijska postaja III. kategorije sa sjedištem u Grudama, a obuhvaća područje općine Konavle i Župa Dubrovačka i dio Grada Dubrovnika, odnosno mjesto Osojnik. Postaja je nadležna i za nadzor državne granice, odnosno kontrolu prelaska državne granice na pripadajućim graničnim prijelazima, kao i zaštitu dijela državne granice s Crnom Gorom u dužini od 23 km i Bosnom i Hercegovinom u dužini od 53 km.

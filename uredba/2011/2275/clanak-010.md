@@ -1,0 +1,2 @@
+# Članak 10.
+V. POLICIJSKA POSTAJA ZAGREB je temeljna policijska postaja I. kategorije sa sjedištem u Gradu Zagrebu, a obuhvaća dio Grada Zagreba, odnosno dio područja gradske četvrti Donji grad s mjesnim odborima Hrvatski narodni vladari, Knez Mislav, Kralj Zvonimir, Matko Laginja, Nadbiskup Antun Bauer, Pavao Šubić i Petar Krešimir IV, dio područja gradske četvrti Gornji grad s mjesnim odborima Gupčeva zvijezda, Medveščak, Petrova, Ribnjak, Šalata i Voćarska, te dio područja gradske četvrti Podsljeme s mjesnim odborom Gračani.

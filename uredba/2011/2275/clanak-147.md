@@ -1,0 +1,2 @@
+# Članak 147.
+I. POLICIJSKA POSTAJA ZADAR je temeljna policijska postaja I. kategorije sa sjedištem u Zadru, a obuhvaća dio Grada Zadra odnosno područja mjesnih odbora Bokanjac, Brodarica, Diklo, Jazine I, Kožino, Maslina, Novi Bokanjac, Petrčane, Plovanija, Poluotok, Puntamika, Vidikovac, Voštarnica i Višnjik, naseljene otoke Molat, Zverinac, Iž, Rava, Silba, Olib, Ist, Rivanj, Sestrunj i Premuda, Grad Nin i općine Vir, Privlaka, Vrsi, Kali, Preko, Kukljica i Sali na Dugom otoku.

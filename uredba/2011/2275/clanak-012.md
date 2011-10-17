@@ -1,0 +1,2 @@
+# Članak 12.
+VII. POLICIJSKA POSTAJA ZAGREB je temeljna policijska postaja I. kategorije sa sjedištem u Gradu Zagrebu, a obuhvaća dio Grada Zagreba, odnosno područje gradske četvrti Trešnjevka - jug s mjesnim odborima Gajevo, Horvati - Srednjaci, Jarun, Knežija, Prečko i Vrbani, i gradske četvrti Trešnjevka - sjever s mjesnim odborima Antun Mihanović, Ciglenica, Dr. Ante Starčević, Ljubljanica, Nikola Tesla, Pongračevo, Rudeš, Samoborček, Silvije Strahimir Kranjčević i Stara Trešnjevka.

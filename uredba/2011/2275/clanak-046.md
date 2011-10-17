@@ -1,0 +1,2 @@
+# Članak 46.
+POSTAJA PROMETNE POLICIJE SPLIT je specijalizirana - prometna policijska postaja I. kategorije sa sjedištem u Splitu, a obuhvaća područje gradova Splita, Kaštela (sjedište Kaštel Sućurac), Solina, te općina Šolta (sjedište Grohote), Podstrana, Lećevica, Prgomet, Primorski Dolac, Dugopolje, Klis i Muć. U okviru svog djelokruga, Postaja pokriva i dionicu autoceste A1 od 341. km do 442. km.

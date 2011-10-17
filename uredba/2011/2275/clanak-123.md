@@ -1,0 +1,2 @@
+# Članak 123.
+POLICIJSKA POSTAJA HRVATSKA KOSTAJNICA je mješovita policijska postaja III. kategorije sa sjedištem u Hrvatskoj Kostajnici, a obuhvaća Grad Hrvatsku Kostajnicu i općine Majur, Donji Kukuruzari i Hrvatska Dubica. Nadležna je i za nadzor državne granice, odnosno kontrolu prelaska državne granice na pripadajućim graničnim prijelazima i zaštitu dijela državne granice s Bosnom i Hercegovinom u dužini od 36 km.

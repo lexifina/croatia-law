@@ -1,0 +1,2 @@
+# Članak 142.
+POLICIJSKA POSTAJA VRBANJA je mješovita policijska postaja III. kategorije sa sjedištem u Vrbanji, a obuhvaća općine Gunja, Drenovci i Vrbanja. Nadležna je i za nadzor državne granice, odnosno kontrolu prelaska državne granice na pripadajućim graničnim prijelazima i zaštitu dijela državne granice s Bosnom i Hercegovinom u dužini od 38,7 km, kao i dijela državne granice s Republikom Srbijom u dužini od 29,2 km.

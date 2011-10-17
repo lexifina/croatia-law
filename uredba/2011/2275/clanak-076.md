@@ -1,0 +1,2 @@
+# Članak 76.
+POSTAJA PROMETNE POLICIJE OSIJEK je specijalizirana - prometna policijska postaja II. kategorije sa sjedištem u Osijeku, a obuhvaća područje koje je teritorijalno u nadležnosti I. policijske postaje Osijek, II. policijske postaje Osijek, Policijske postaje Čepin i Policijske postaje Dalj. U okviru svog djelokruga, Postaja pokriva i dionicu autoceste A5 koja prolazi područjem Osječko-baranjske županije.
