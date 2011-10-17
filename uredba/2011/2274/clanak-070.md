@@ -1,0 +1,3 @@
+# Članak 70.
+2.3.3.3. Odjel kriminalističke tehnike
+Obavlja najsloženije poslove iz područja kriminalističke tehnike za potrebe kriminalističke policije u suradnji s drugim ustrojstvenim jedinicama Ministarstva; prati i analizira stanje kriminalističke tehnike u policijskim upravama i policijskim postajama; skrbi o nabavci suvremene opreme; prati i implementira suvremene metode kriminalističko-tehničke obrade mjesta događaja; izravno sudjeluje u obavljanju kriminalističko-tehničkih poslova kod najsloženijih kaznenih djela; skrbi o stručnom usavršavanju djelatnika; obavlja nadzor nad radom policijskih uprava i pruža im pomoć u obavljanju poslova iz njihova područja rada; obavlja i druge poslove iz svog područja rada.

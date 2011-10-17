@@ -1,0 +1,6 @@
+# Članak 212.
+8. UPRAVA ZA UPRAVNE I INSPEKCIJSKE POSLOVE
+Prati stanje i pojave u provedbi zakona i drugih propisa s područja upravnih poslova vezanih uz prijavništvo, izdavanje osobnih isprava hrvatskih državljana, poslove oružja, registraciju vozila i vozače i poslova stranaca, azila i državljanstva; priprema prijedloge zakonskih i podzakonskih propisa u ovome području; poduzima odgovarajuće mjere za otklanjanje uočenih nedostataka u provedbi zakona i drugih propisa iz ovoga područja; pruža stručnu pomoć i obavlja nadzor nad radom policijskih uprava i policijskih postaja iz područja svoje nadležnosti; obavlja nadzor nad provedbom propisa iz područja zaštite od požara i tehnoloških eksplozija, proizvodnje i prometa eksplozivnih tvari, humanitarnog razminiranja, zaštitarskih i detektivskih poslova; definira strateške ciljeve, izrađuje i prati pokazatelje rezultata rada i uspješnosti, utvrđuje rizike, nadzire postavljene posebne ciljeve u strateškim planovima, izvješćuje o realizaciji postavljenih ciljeva, koordinira izradu strateških planova na nivou Uprave.
+Za obavljanje poslova iz djelokruga Uprave za upravne i inspekcijske poslove ustrojavaju se sljedeće ustrojstvene jedinice:
+8.1. Sektor za upravne poslove, strance i državljanstvo,
+8.2. Sektor za inspekcijske poslove.

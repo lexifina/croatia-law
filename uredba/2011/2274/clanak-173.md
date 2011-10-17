@@ -1,0 +1,3 @@
+# Članak 173.
+6.2.1.2. Odsjek za nabavu opreme prometne tehnike, informatike i komunikacija
+Obavlja i odgovara za poslove pripreme dokumentacije u suradnji s nadležnom ustrojstvenom jedinicom za nabavu prometnih sredstava i usluga održavanja prometnih sredstva, te goriva, maziva i loživog ulja, informatičke i komunikacijske opreme i usluga za njeno održavanje sukladno Zakonu o javnoj nabavi; objavljuje obavijesti i objave nadmetanja; vrši pregled i analizu ponuda; izrađuje prijedloge Odluka prema Zakonu o javnoj nabavi; priprema ugovore o nabavi roba i usluga; prati realizaciju i plaćanje ugovorenih obveza; izrađuje izvješća o izvršenju Plana nabave sukladno proračunu.

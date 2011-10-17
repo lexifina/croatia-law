@@ -1,0 +1,3 @@
+# Članak 372.
+3.5.1.1. Odsjek maloljetničke delinkvencije
+Analizira stanje i pojave kriminaliteta maloljetnika i na štetu maloljetnika; iznalazi najpogodnije oblike rada na otkrivanju kaznenih djela i počinitelja u svezi sa maloljetnicima; surađuje s drugim tijelima državne vlasti na području Policijske uprave u svezi maloljetničke delinkvencije; izravno organizira obradu na planu otkrivanja ovih kaznenih djela i počinitelja; obavlja nadzor nad radom policijskih postaja iz svoje nadležnosti i pruža im stručnu pomoć u izvršenju njihovih zadaća; sudjeluje u izradi izvješća i drugih materijala; obavlja i druge poslove iz svog područja rada.

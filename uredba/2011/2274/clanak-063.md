@@ -1,0 +1,3 @@
+# Članak 63.
+2.3.3.1.1. Odsjek Interpola
+Surađuje sa zemljama članicama Međunarodne organizacije Interpola i Generalnim tajništvom Interpola; postupa po zamolnicama Generalnog tajništva Interpola, država članica i nadležnih tijela u Republici Hrvatskoj; pomaže u koordinaciji akcija iz pojedinih područja međunarodnog kriminaliteta zajedno s nositeljima pojedinih predmeta, vodi poslove u svezi međunarodnih tjeralica i objava te provodi postupak koji prethodi izručenjima kao i postupak prilikom realizacije istih; predlaže poboljšanja i unapređenja za rad policije sukladno iskustvima zemalja članica Interpola, obavlja i druge poslove u cilju unapređenja suradnje i odnosa sa zemljama članicama Interpola i Generalnim tajništvom.

@@ -1,0 +1,5 @@
+# Članak 57.
+2.3.2.1. Odjel općeg kriminaliteta
+Analizira stanje, kretanje i pojavne oblike općeg kriminaliteta, utvrđuje najpogodnije oblike suzbijanja i otkrivanja tog kriminaliteta; surađuje s drugim ustrojstvenim jedinicama na prevenciji kriminaliteta; surađuje s drugim tijelima državne vlasti; sudjeluje u rješavanju i istraživanjima najsloženijih kaznenih djela na nacionalnoj razini iz ovog područja; prikuplja dokumentaciju potrebnu za raspisivanje međunarodnih potraga i objava u suradnji s drugim ustrojstvenim jedinicama Ministarstva i tijelima državne vlasti; prati, izučava i usmjerava potražne djelatnosti u Policijskim upravama; utvrđuje istovjetnost; obavlja nadzor nad radom policijskih uprava i policijskih postaja i pruža im stručnu pomoć u obavljanju poslova suzbijanja općeg kriminaliteta; obavlja i druge poslove iz područja suzbijanja općeg kriminaliteta.
+Za obavljanje poslova iz djelokruga Odjela općeg kriminaliteta ustrojava se:
+2.3.2.1.1. Odsjek maloljetničke delinkvencije i kriminaliteta na štetu mladeži i obitelji.

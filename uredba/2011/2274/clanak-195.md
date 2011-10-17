@@ -1,0 +1,3 @@
+# Članak 195.
+7.1.3.1. Odsjek za kriptološku sigurnost i zaštitu brzojavnog prometa
+Odsjek za kriptološku sigurnost i zaštitu brzojavnog prometa provodi izravno 24 satno kriptološko osiguranje i zaštitu sveukupnog brzojavnog prometa za potrebe svih ustrojstvenih jedinica Ministarstva u sjedištu putem stalnih brzojavnih službi; nadležan je za potpunu samostalnu proizvodnju, ispitivanje, dokumentiranje, pravovremeno sigurnosno pohranjivanje, raspodjelu, prikupljanje, analizu te sigurnosno uništavanje kriptološke osnovice; evidentira dojave Help Deska te na osnovu njih intervenira; vodi propisane evidencije na temelju zakonskih i podzakonskih akata iz svog djelokruga rada.

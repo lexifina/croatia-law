@@ -1,0 +1,3 @@
+# Članak 7.
+1.2.2. Odsjek za analitiku
+Analitički prati i vrši raščlambu stanja zakonitosti u primjeni policijskih ovlasti; nadzire način vođenja i korištenja propisanih evidencija o radu po predstavkama i pritužbama; ustrojstvenim jedinicama Ministarstva pruža stručnu pomoć iz djelokruga svoga rada; izrađuje potrebne analize i izvješća; prati stanje unutarnje stege i profesionalne etike; analizira operativne informacije i saznanja o nezakonitom postupanju zaposlenika; predlaže načine otklanjanja uzroka nezakonitog i neetičnog postupanja policijskih službenika i drugih zaposlenika Ministarstva; surađuje sa srodnim ustrojstvenim jedinicama Ministarstva u razmjeni i korištenju podataka; obavlja i druge poslove iz svojega djelokruga rada.

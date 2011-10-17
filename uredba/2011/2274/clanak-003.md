@@ -1,0 +1,8 @@
+# Članak 3.
+1. KABINET MINISTRA
+Kabinet ministra je posebna unutarnja ustrojstvena jedinica Ministarstva koja za ministra unutarnjih poslova (u daljnjem tekstu: ministar) i državne tajnike obavlja stručne i administrativne poslove, priprema i prikuplja materijale za sjednice Kolegija ministra i druge sastanke koje saziva ministar, izrađuje zaključke i brine se o njihovom izvršavanju, organizira i provodi unutarnju kontrolu i nadzor rada službenika i ustrojstvenih jedinica, kontaktira s upravnim organizacijama i unutarnjim ustrojstvenim jedinicama u svezi s predstavkama i pritužbama građana, obavlja poslove multilateralne i bilateralne međunarodne suradnje Ministarstva s nadležnim tijelima i međunarodnim organizacijama u inozemstvu, sudjeluje u pripremi protokolarnih obveza i putovanja ministra i državnih tajnika, koordinira poslove u svezi s odnosima sa sredstvima javnog priopćavanja, koordinira poslove vezane uz ostvarenje plana i programa rada i djelovanja ministra i državnih tajnika po nalogu ministra, poslove u svezi s praćenjem rada Vlade Republike Hrvatske i Hrvatskog Sabora i njihovih tijela te druge poslove za službene potrebe ministra i državnih tajnika; definira strateške ciljeve, izrađuje i prati pokazatelje rezultata rada i uspješnosti, utvrđuje rizike, nadzire postavljene posebne ciljeve u strateškim planovima, izvješćuje o realizaciji postavljenih ciljeva, koordinira izradu strateških planova na nivou Kabineta, obavlja poslove koji se odnose na jačanje vertikalne i horizontalne koordinacije unutar Ministarstva.
+Za obavljanje poslova iz djelokruga Kabineta ministra ustrojavaju se sljedeći odjeli:
+1.1. Odjel za odnose s javnošću,
+1.2. Odjel za unutarnju kontrolu,
+1.3. Odjel za međunarodne odnose,
+1.4. Odjel za protokol.

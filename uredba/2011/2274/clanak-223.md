@@ -1,0 +1,3 @@
+# Članak 223.
+8.1.3.4. Prihvatilište za tražitelje azila
+Obavlja poslove prihvata i smještaja tražitelja azila, uzimanja zahtjeva, otisaka papilarnih linija i fotografiranja tražitelja azila, izrađuje iskaznice tražitelja azila, sudjeluje u utvrđivanju identiteta stranaca smještenih u Prihvatilištu; skrbi o zbrinjavanju i pružanju pomoći tražiteljima azila; organizira prikupljanje materijalnih sredstava i osigurava osnovne uvjete za život tražitelja azila; kontaktira i koordinira s nadležnim tijelima i institucijama u ostvarivanu prava i pružanja potrebne skrbi tražiteljima azila; sudjeluje u izradi i prati provedbu propisa iz područja rada Prihvatilišta.

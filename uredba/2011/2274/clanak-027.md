@@ -1,0 +1,3 @@
+# Članak 27.
+2.2.4. Zapovjedništvo interventne policije
+Prati i poduzima mjere za opremanje, obuku i stručno usavršavanje interventne policije za poslove: osiguranja mirnih okupljanja i javnih prosvjeda, sprečavanja narušavanja javnog reda te uspostavljanja javnog reda narušenog u većem opsegu, blokade određenih prostora i objekata, osiguranja državne granice i drugih poslova iz područja rada policije; poduzima propisane mjere u slučaju elementarnih nepogoda i epidemija; koordinira, nadzire i rukovodi postupanjem interventne policije; odobrava angažiranje interventnih jedinica izvan područja matične policijske uprave; zapovijeda interventnom policijom prilikom angažiranja više interventnih jedinica policije.

@@ -1,0 +1,3 @@
+# Članak 492.
+5.8.1.3. Odsjek za državljanstvo i statusna pitanja stranaca
+Vodi upravni postupak u svezi s utvrđivanjem, stjecanjem i prestankom hrvatskog državljanstva, kretanja, boravka i rada stranaca, obavlja poslove prijave boravišta i prebivališta te promjene adrese, izdaje potvrde i osobne isprave za strance, obavlja poslove produžavanja boravka, zaprimanja zahtjeva za odobrenje stalnog boravka, otkaza privremenog i stalnog boravka, prestanka privremenog boravka, izdavanja radnih i poslovnih dozvola, izdavanja potvrda o prijavi rada bezradne, odnosno poslovne dozvole, produženja viza, izdavanje osobnih i putnih isprava za azilante, strance pod supsidijarnom zaštitom i strance pod privremenom zaštitom.

@@ -1,0 +1,3 @@
+# Članak 222.
+8.1.3.3. Odsjek za vize
+Obavlja poslove vezane uz postupak izdavanja i produženja viza; pruža stručnu pomoć i nadzire policijske uprave i policijske postaje u ovom području; analizira stanje i pojave u provedbi propisa vezanih uz izdavanja viza te inicira izmjene i dopune tih propisa; daje stručna mišljenja i tumačenja zakona i provedbenih propisa; surađuje s drugim tijelima državne vlasti u postupku davanja mišljenja/suglasnosti za izdavanje viza; prati provedbu viznog sustava; analizira provedbu međunarodnih ugovora iz svog djelokruga; daje odobrenje za prijenos posmrtnih ostataka preko državne granice; obavlja i druge poslove iz svog djelokruga.

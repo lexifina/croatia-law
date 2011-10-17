@@ -1,0 +1,3 @@
+# Članak 114.
+2.9.3.1. Odsjek kemijsko - fizikalnih vještačenja
+Obavlja poslove vještačenja tragova zapaljivih tekućina, eksploziva, eksplozivnih tvari, pirotehničkih smjesa, eksplozivnih naprava i minsko-eksplozivnih sredstava, nepoznatih kemijskih tvari te tragova boje, lakova, polimera, ljepljivih traka, kemijskih klopki i drugo; obavlja poslove vještačenja vezane uz utvrđivanje uzroka požara i eksplozija; obavlja poslove vezane uz skladištenje kemikalija u Centru; obavlja poslove vezane uz sustav upravljanja kvalitetom, uvođenje novih i unapređenje postojećih metoda vještačenja te poslove vezane uz izradu i provedbu programa stručne osposobljenosti djelatnika Centra.

@@ -1,0 +1,3 @@
+# Članak 220.
+8.1.3.1. Odsjek za statusna pitanja stranaca
+Obavlja upravne poslove u svezi statusnih pitanja i rada stranaca; analizira stanje i pojave u provedbi propisa koji uređuju statusna pitanja stranaca; te inicira izmjene i dopune tih propisa; daje stručna mišljenja i tumačenja zakona i provedbenih propisa iz ovoga područja; pruža stručnu pomoć i nadzire policijske uprave i policijske postaje u ovom području; surađuje s drugim tijelima državne vlasti u rješavanju statusnih pitanja stranaca; analizira provedbu međunarodnih ugovora; obavlja i druge poslove iz područja kretanja i boravka te rada stranaca.

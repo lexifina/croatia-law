@@ -1,0 +1,3 @@
+# Članak 89.
+2.5.1. Odjel za osiguranje i zaštitu štićenih osoba
+Organizira, koordinira i provodi mjere neposredne tjelesne zaštite i motorizirane pratnje domaćih i stranih štićenih osoba; prikuplja, obrađuje, analizira i dostavlja podatke, obavijesti i saznanja od interesa za sigurnost štićenih osoba; analizira izvršene poslove i zadaće te kontinuirano skrbi o edukaciji službenika za poslove osiguranja i zaštite štićenih osoba, objekata i prostora; surađuje i razmjenjuje podatke i informacije s ustrojstvenim jedinicama Ministarstva i drugim domaćim i stranim institucijama, organizacijama i odgovornim osobama bitnim za provođenje mjera osiguranja i zaštite štićenih osoba.

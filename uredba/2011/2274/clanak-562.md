@@ -1,0 +1,3 @@
+# Članak 562.
+8.3.3. Interventna jedinica policije
+Provodi osiguranje javnih okupljanja, prijevoza novčanih sredstava, vrijednosnih pošiljki i prijevoza opasnih tvari; uspostavlja javni red narušen u većem opsegu; pruža pomoć policijskim postajama prilikom složenijih intervencija, racija, zasjeda, blokada, asistencija, privođenja, lišenja slobode i dr, obavljanja poslova u cestovnom i željezničkom prometu, na granici, pronalaženja predmeta u svezi s počinjenim kaznenim djelima, vađenja utopljenika, pronalaska nestalih osoba i drugo; provodi obuku zaštitno-tragačkih pasa i usavršavanje vodiča, surađuje s nadležnim ustrojstvenim jedinicama Ministarstva; skrbi o zdravstvenoj zaštiti, njezi, prehrani i higijeni pasa.

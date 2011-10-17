@@ -1,0 +1,1 @@
+Na temelju članka 60. stavaka 1. i 2. Zakona o sustavu državne uprave (»Narodne novine«, br. 75/93, 92/96, 48/99, 15/2000, 127/2000, 59/2001, 190/2003 - pročišćeni tekst, 199/2003 i 79/2007) i članka 8. stavka 5. Zakona o policiji (»Narodne novine«, broj 34/2011), Vlada Republike Hrvatske je na sjednici održanoj 6. listopada 2011. godine donijela

@@ -1,0 +1,3 @@
+# Članak 145.
+5.1.2.1. Odsjek za naknadu štete
+Radi na najsloženijim poslovima iz područja imovinsko-pravnih sporova na način da priprema očitovanja i upute za zastupanje nadležnim državnim odvjetništvima povodom odštetnih zahtjeva i u sudskim sporovima; predlaže utuženja i pokretanje ovršnih postupaka; izrađuje prijedloge za zaključivanje izvansudskih nagodbi; pruža pravnu pomoć ustrojstvenim jedinicama Ministarstva u svezi imovinsko-pravnih odnosa; daje pravna mišljenja na ugovore u kojima je Ministarstvo ugovorna strana; izrađuje plan rada Odsjeka i izvješća o realizaciji plana rada; daje pravna mišljenja iz djelokruga rada Odsjeka.

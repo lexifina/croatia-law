@@ -1,0 +1,3 @@
+# Članak 115.
+2.9.3.2. Odsjek toksikoloških vještačenja
+Obavlja poslove vještačenja droga, pesticida i drugih otrova, etanola, droge, lijekova i otrova u biološkim uzorcima; prikuplja podatke o vrsti i kvaliteti droge te ih razmjenjuje s drugim nadležnim tijelima; poslove vezane uz skladištenje i uništavanje bioloških uzoraka; prikuplja podatke o smrtnim slučajevima koji su povezani s uporabom droga te razmjenjuje s drugim nadležnim tijelima; obavlja poslove vezane uz skladištenje i uništavanje droga, pesticida i drugih otrova; poslove vezane uz sustav upravljanja kvalitetom te uvođenje novih i unapređenja postojećih metoda vještačenja; poslove vezane uz izradu i provedbu programa stručne osposobljenosti djelatnika Centra.

@@ -1,0 +1,6 @@
+# Članak 79.
+2.4.3. Odjel za nezakonite migracije
+Prati i analizira stanje u vezi s nezakonitim migracijama i strancima; prati, koordinira, nadzire i usmjerava provedbu mjera i radnji za suzbijanje nezakonitih migracija i nezakonitog rada stranaca propisanih zakonom i drugim propisima; provodi i nadzire provedbu međunarodnih ugovora, zakonskih i drugih propisa, inicira njihove izmjene ili dopune te sudjeluje u njihovoj izradi; surađuje s drugim ustrojstvenim jedinicama Ministarstva, drugim tijelima javne vlasti, međunarodnim, nevladinim i drugim organizacijama, kao i s nadležnim tijelima stranih država, a u vezi s praćenjem stanja i suzbijanjem nezakonitih migracija, nezakonitog rada stranaca, trgovine ljudima i krijumčarenja osoba; usmjerava i nadzire rad policijskih uprava i postaja, pruža im stručnu pomoć te se izravno uključuje u rješavanje najsloženijih slučajeva; organizira i provodi stručnu izobrazbu policijskih službenika u okviru svog djelokruga; vodi zbirke podataka i razmjenjuje podatke u okviru svog djelokruga.
+Za obavljanje poslova iz djelokruga Odjela za nezakonite migracije ustrojavaju se sljedeći odsjeci:
+2.4.3.1.Odsjek za kontrolu,
+2.4.3.2.Odsjek za izvršenje mjera.

@@ -1,0 +1,3 @@
+# Članak 253.
+1.4.2.1. Odsjek za kontrolu
+Analizira stanje i pojave u provedbi zakonitosti kretanja i boravka stranaca; planira i provodi mjere sprječavanja nezakonitih migracija i nezakonitog rada stranaca; nadzire poslove kontrole stranaca u policijskim postajama; nadzire provedbu i vodi statistiku o poduzetim mjerama prema strancima; pruža stručnu pomoć policijskim postajama u provođenju rješavanja složenijih slučajeva; nadzire operativni dio posla u vezi podnošenja zahtjeva za azil; organizira edukaciju policijskih službenika na poslovima ilegalnih migracija i stranaca; obavlja i druge poslove iz svog područja rada.

@@ -1,0 +1,3 @@
+# Članak 73.
+2.4.1.1. Odsjek za zaštitu
+Analizira stanje sigurnosti na državnoj granici; na temelju prosudbi usmjerava i nadzire rad policijskih uprava u provedbi zaštite državne granice, sudjeluje u utvrđivanju i rješavanju povreda državne granice, predlaže nove metode i tehnička rješenja u organizaciji i provedbi poslova zaštite državne granice, predlaže nabavu sredstava i opreme za provođenje nadzora državne granice, pruža stručnu pomoć policijskim upravama u provedbi propisa iz svog djelokruga rada te koordinira i usmjerava rad na sprječavanju činjenja kaznenih djela i prekršaja na državnoj granici, sudjeluje u radu međudržavnih radnih skupina za praćenje, analizu i usklađivanje dogovorene suradnje na državnoj granici, obavlja i druge poslove iz svog područja rada.

@@ -1,0 +1,3 @@
+# Članak 146.
+5.1.2.2. Odsjek za radne sporove
+Dostavlja očitovanja i upute za zastupanje nadležnim državnim odvjetništvima iz područja radnih sporova pred sudovima opće nadležnosti; izrađuje prijedloge za zaključivanje izvansudskih nagodbi; izravno dostavlja odgovore na tužbe Upravnom sudu Republike Hrvatske vezano za pokrenute upravne sporove od strane zaposlenika Ministarstva; pruža pravnu pomoć ustrojstvenim jedinicama Ministarstva u svezi radnih sporova i obavlja nadzor nad njihovim radom; izrađuje plan rada Odsjeka i izvješća o realizaciji plana rada; daje pravna mišljenja iz djelokruga rada Odsjeka.

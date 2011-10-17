@@ -1,0 +1,3 @@
+# Članak 681.
+12.2. Operativno komunikacijski centar policije
+Zaprima obavijesti o sigurnosnim događajima na području Policijske uprave; dodatno prikuplja informacije, prosuđuje njihov značaj te usklađuje, usmjerava i nadzire poduzimanje operativnih radnji između ustrojstvenih jedinica Policijske uprave; izvješćuje o događajima i poduzetim mjerama OKC Ministarstva u sjedištu i dokumentira izvješća; poduzima propisane mjere u slučajevima opće opasnosti uzrokovane elementarnim ili drugim nepogodama; štiti cjelovitost i tajnost komunikacija, skrbi o uhićenim i pritvorenim osobama i njihovim pravima o čemu vodi propisane evidencije.

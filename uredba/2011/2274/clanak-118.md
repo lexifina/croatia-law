@@ -1,0 +1,3 @@
+# Članak 118.
+2.9.4.1. Odsjek balističkih i traseoloških vještačenja
+Obavlja poslove balističkih, mehanoskopskih i traseoloških vještačenja; poslove pohrane vatrenog oružja i pohrane spornog materijala iz neriješenih kaznenih djela; poslove unosa, obrade i ažuriranja zbirke čahura i zrna streljiva probno ispaljenog iz vatrenog oružja; poslove razmjene podataka vezanih za identifikaciju spornog materijala i vatrenog oružja; poslove vezane uz sustav upravljanja kvalitetom te uvođenje novih i unapređenje postojećih metoda vještačenja; poslove vezane uz izradu i provedbu programa stručne osposobljenosti djelatnika Odsjeka.
