@@ -1,0 +1,1 @@
+Na temelju članka 15. stavka 1. podstavka 3. Zakona o hrani (»Narodne novine« br. 46/07, 55/11) i članka 67. Zakona o sredstvima za zaštitu bilja (»Narodne novine« br. 70/05) ministar poljoprivrede, ribarstva i ruralnog razvoja

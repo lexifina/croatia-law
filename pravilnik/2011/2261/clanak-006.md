@@ -1,0 +1,3 @@
+# Članak 6.
+(1) Koordinirani višegodišnji program kontrole ostataka pesticida u i na hrani biljnog i životinjskog podrijetla iz članka 1. ovoga Pravilnika izrađuje Ministarstvo poljoprivrede, ribarstva i ruralnog razvoja u suradnji s Ministarstvom zdravstva i socijalne skrbi.
+(2) Programom iz stavka 1. ovoga članka određuju se tijela nadležna za izradu i provedbu, suradnici, koordinatori, cilj i sadržaj programa, propisi na temelju kojih se program provodi, zahtjevi za službene laboratorije koji sudjeluju u provedbi, način provedbe, plan aktivnosti s naznačenim opsegom (broj, vrsta i karakteristike uzoraka), planiranim razdobljima i područjima na kojima će se provoditi uzorkovanje, mjere, izviješća, troškovi provedbe i ostale pojedinosti.

@@ -1,0 +1,1 @@
+Pravilnik o koordiniranom višegodišnjem programu kontrole s ciljem osiguranja sukladnosti s maksimalno dopuštenim razinama ostataka pesticida i procjene izloženosti potrošača ostacima pesticida u i na hrani biljnog i životinjskog podrijetla
