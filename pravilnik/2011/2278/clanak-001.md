@@ -1,0 +1,2 @@
+# Članak 1.
+Ovim Pravilnikom propisuje se sadržaj i način vođenja evidencija i statistike iz područja zaštite od požara koji se vode u Ministarstvu unutarnjih poslova (u daljnjem tekstu Ministarstvo), sadržaj, oblik i način vođenja očevidnika o inspekcijskim nadzorima i poduzetim mjerama inspektora za zaštitu od požara te sadržaj i način vođenja evidencija pravnih osoba o požarima na njihovom vlasništvu.

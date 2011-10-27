@@ -1,0 +1,3 @@
+# Članak 7.
+Evidencija o stručnim ispitima za obavljanje poslova ispitivanja ispravnosti i funkcionalnosti izvedenih stabilnih sustava zaštite od požara sadrži: redni broj, ime i prezime, OIB, datum, mjesto i državu rođenja te stručnu spremu i zanimanje osobe/kandidata, naziv, sjedište i adresu pravne osobe ili obrtnika kod koje je kandidat na radu, datum polaganja i ocjenu stručnog ispita, datum polaganja i ocjenu popravnog stručnog ispita, broj i datum izdanog rješenja o stručnom ispitu te napomenu.
+Evidencija iz stavka 1. ovoga Pravilnika vodi se i u obliku knjige s brojkom označenim stranicama čiji izgled je sadržan u Prilogu 5. ovoga Pravilnika i njegov je sastavni dio.
