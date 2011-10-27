@@ -1,0 +1,1 @@
+Na temelju članka 35. Zakona o pomorskom dobru i morskim lukama (»Narodne novine« br. 158/2003, 100/2004, 141/2006 i 38/2009) i članka 5. stavka 1. Uredbe o postupku davanja koncesije na pomorskom dobru (»Narodne novine«, br. 23/2004, 101/2004, 39/2006, 63/2008, 125/2010 i 102/2011), Vlada Republike Hrvatske je na sjednici održanoj 27. listopada 2011. godine donijela
