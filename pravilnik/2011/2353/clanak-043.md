@@ -1,0 +1,2 @@
+# Članak 43.
+Ako se glavnom nadzorniku, nadzorniku i čuvaru prirode, s posebnim ovlaštenjem, u obavljanju nadzora i poduzimanju mjera i radnji za koje je ovlašten pruži otpor silom ili prijetnjom da će se izravno uporabiti sila, ili ako se takav otpor osnovano očekuje, glavni nadzornik, nadzornik i čuvar prirode, s posebnim ovlaštenjem, može zatražiti pomoć ovlaštenih službenih osoba nadležne policijske uprave.

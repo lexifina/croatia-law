@@ -1,0 +1,2 @@
+# Članak 44.
+Glavni nadzornik, nadzornik i čuvar prirode, s posebnim ovlaštenjem, u obavljanju nadzora odgovoran je ravnatelju Ustanove i Upravno vijeću ako propusti poduzeti, odnosno odrediti mjere ili radnje koje je po Zakonu ili ovom Pravilniku bio dužan poduzeti, odnosno odrediti, ako prekorači svoje Zakonom i ovim Pravilnikom utvrđene ovlasti, odnosno ne obavijesti ravnatelja Ustanove i Upravno vijeće, a po potrebi i drugo tijelo, o nedostacima koje je utvrdio u provođenju nadzora u Nacionalnom parku.
