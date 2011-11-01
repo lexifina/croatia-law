@@ -1,0 +1,2 @@
+# Članak 4.
+Sucima i državnim odvjetnicima odnosno zamjenicima državnih odvjetnika iz članka 3. ovoga Pravilnika određuje se paušalna novčana naknada za poslove dežurstva radnim danom izvan redovitog radnog vremena u iznosu od 200,00 bruto dnevno te u iznosu od 400,00 bruto dnevno u dane tjednog odmora, neradne dane i državne blagdane, ako isti poslove dežurstva obavljaju u stalnoj pripravnosti kod kuće odnosno stanu (pasivno dežurstvo).

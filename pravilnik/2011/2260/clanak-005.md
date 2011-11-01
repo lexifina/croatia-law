@@ -1,0 +1,2 @@
+# Članak 5.
+Suci općinskih sudova za obavljanje radnji koje ne trpe odgodu sukladno Obiteljskom zakonu obavljaju dežurstvo u stalnoj pripravnosti kod kuće odnosno stanu (pasivno dežurstvo) te istima pripada paušalna novčana naknada u iznosu od 80,00 kn bruto dnevno za poslove dežurstva radnim danom izvan redovitog radnog vremena, te u iznosu od 130,00 kn bruto dnevno ako pasivno dežurstvo obavljaju u dane tjednog odmora, neradne dane i državne blagdane.

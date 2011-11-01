@@ -1,0 +1,3 @@
+# Članak 6.
+Sucima prekršajnih sudova određuje se paušalna novčana naknada za poslove dežurstva radnim danom izvan redovitog radnog vremena u iznosu od 200,00 kn bruto dnevno, te u iznosu od 400,00 kn bruto dnevno u dane tjednog odmora, neradne dane i državne blagdane, ako isti poslove dežurstva obavljaju neprekidno u zgradi suda (aktivno dežurstvo).
+Sucima prekršajnih sudova određuje se paušalna novčana naknada za poslove dežurstva radnim danom izvan redovitog radnog vremena u iznosu od 80,00 kn bruto dnevno, te u iznosu od 130,00 kn bruto dnevno u dane tjednog odmora, neradne dane i državne blagdane, ako isti poslove dežurstva obavljaju u stalnoj pripravnosti kod kuće odnosno stanu (pasivno dežurstvo).
