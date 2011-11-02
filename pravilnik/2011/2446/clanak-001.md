@@ -1,0 +1,5 @@
+# Članak 1.
+U Pravilniku o povlastici za obavljanje gospodarskog ribolova na moru i registru o izdanim povlasticama (»Narodne novine«, br. 144/10) u članku 9. iza stavka 14. dodaju se stavci 15., 16. i 17. koji glase:
+»(15) Iznimno od odredbi stavka 3., 4., 5. i 6. odobriti će se prijenos prava odnosno upis prava u povlasticu za sva plovila na kojima je izvršena promjena motora i povećanje GT-a do dana stupanja na snagu ovoga Pravilnika.
+(16) Iznimno od odredbi stavka 3., 4., 5. i 6. odobriti će se prijenos prava odnosno upis prava u povlasticu za sva plovila na kojima je došlo do promjene GT-a i snage motora na temelju premjeravanja a da nije bilo zahvata na plovilu odnosno motoru, te upis veće snage postojećeg motora koji imaju upisanu reduciranu snagu motora u upisnom listu a radi upisa nominalne snage u registar ribarske flote.«
+(17) Kod prijenosa odnosno upisa prava iz stavaka 15. i 16. potrebno je za brodove priložiti svjedodžbu o sposobnosti broda za plovidbu izdanu od Hrvatskog registra brodova.«
