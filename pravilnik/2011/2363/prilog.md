@@ -1,0 +1,1 @@
+[1] Pravilnikom za sprječavanje pojave, kontrolu i iskorjenjivanje određenih transmisivnih spongiformnih encefalopatija (»Narodne novine«, br. 85/09) preuzete su odredbe Uredbe (EZ-a) br. 999/2001 o pravilima za sprječavanje pojave, kontrolu i iskorjenjivanje određenih transmisivnih spongiformnih encefalopatija.
