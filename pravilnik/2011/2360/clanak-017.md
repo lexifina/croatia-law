@@ -1,0 +1,4 @@
+# Članak 17.
+(1) Svaka uvozna pošiljka ljekovite hrane za životinje mora biti označena sukladno odredbama ovoga Pravilnika, a oznaka mora sadržavati sve propisane podatke na hrvatskom jeziku.
+(2) Svaka uvozna pošiljka ljekovite hrane za životinje koja sadrži sastojke životinjskog podrijetla sukladno Pravilniku o popisu pošiljka koje podliježu veterinarskom pregledu u prometu preko granice Republike Hrvatske (»Narodne novine«, broj 97/07, 142/08 i 106/11)[9] podliježe dokumentacijskom i identifikacijskom pregledu graničnog veterinarskog inspektora na graničnoj veterinarskoj postaji, a pošiljke ljekovite hrane za životinje koje ne sadrže sastojke životinjskog podrijetla podliježu pregledu službenog veterinara na mjestu odredišta.
+(3) Pregled iz stavka 2. ovoga članka uključuje i uzimanje službenog uzorka i određivanje metode analize u skladu s odredbama posebnih provedbenih propisa o organizaciji i provedbi službenih kontrola.
