@@ -1,0 +1,1 @@
+Na temelju članka 19. stavka 1. Zakona o financiranju političkih aktivnosti i izborne promidžbe (»Narodne novine«, br. 24/2011 i 61/2011), Vlada Republike Hrvatske je na sjednici održanoj 3. studenoga 2011. godine donijela
