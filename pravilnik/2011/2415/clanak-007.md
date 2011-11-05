@@ -1,0 +1,21 @@
+# Članak 7.
+Prikupljeni podaci mogu se odnositi na:
+- nestale osobe ili osobe koje se skrivaju od stranke,
+- osobe koje su stranci prouzročile štetu,
+- osobni položaj i imovinski status građana,
+- uspješnost osoba u obavljanju posla,
+- kandidate za zapošljavanje i radnike samo uz njihov pristanak,
+- povrede radnih obveza,
+- kršenje ugovora i poslovnih tajni,
+- uspješnost trgovačkih društava, obrta i drugih pravnih osoba
+- kaznena djela za koja se progoni po privatnoj tužbi te na njihove počinitelje
+- predmete koji su izgubljeni ili ukradeni
+- prijetnje, anonimna pisma, poruke i uznemiravanja,
+- povredu intelektualnog vlasništva,
+- sivo tržište i rad na crno,
+- prijevare u gospodarstvu,
+- prijevare pri osiguranju,
+- izbjegavanje obveza dužnika po kreditima,
+- kršenje bračnih ugovora,
+- utvrđivanje stvarne adrese osoba i tvrtki,
+- dokaze potrebne za ostvarivanje prava pred sudbenim ili drugim tijelima državne vlasti te društvima i udrugama.
