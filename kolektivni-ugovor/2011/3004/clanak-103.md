@@ -1,0 +1,8 @@
+# Članak 103.
+(1) Sindikati samostalno određuju svoje predstavnike, odnosno povjerenike, iz redova svojih članova.
+(2) Sindikati se obvezuju da će pisano izvijestiti Poslodavca o imenovanju, odnosno izboru, te opozivu sindikalnog povjerenika ili predstavnika.
+(3) Sindikalni povjerenici prema odredbama ovog članka obavljaju svoje aktivnosti u radnom vremenu i primaju plaću u skladu s ovim Ugovorom i Ugovorom o radu.
+(4) Ukoliko se aktivnosti sindikalnog povjerenika ne mogu obaviti u njegovo radno vrijeme (sudjelovanje u Kolektivnom pregovaranju, donošenju odluka važnih za radnike ili Poslodavca, a koje aktivnosti se moraju obaviti u vrijeme koje nije radno vrijeme sindikalnog povjerenika), Poslodavac će sindikalnom povjereniku isplatiti naknadu za aktivnost kao prekovremeni rad za efektivno provedene sate sindikalne aktivnosti. Odobrenje prekovremenog rada Sindikalnom povjereniku unosi evidentičar radnog vremena na temelju potvrde o obavljenom prekovremenom radu potpisanu od voditelja područja ili voditelja projekta na kojem je sindikalni povjerenik obavljao aktivnost.
+(5) Sindikalnim povjerenicima, prema odredbama ovog članka, za vrijeme obavljanja dužnosti i godinu dana nakon prestanka obavljanja te dužnosti, Poslodavac može otkazati Ugovor o radu samo uz prethodnu suglasnost Sindikata.
+(6) Sindikalnog povjerenika za vrijeme obavljanja te dužnosti, i šest mjeseci nakon prestanka te dužnosti, a bez suglasnosti sindikata, nije moguće rasporediti na drugo radno mjesto ili ga na drugi način staviti u nepovoljniji položaj u odnosu na ostale radnike.
+(7) Svi sindikalni povjerenici kod Poslodavca uživaju zaštitu utvrđenu ovim Ugovorom.

@@ -1,0 +1,10 @@
+Zagreb, 7. studenoga 2011.
+ZA NEZAVISNI CESTARSKI SINDIKAT
+PREDSJEDNIK SINDIKATA
+Mijat Stanić, v. r.
+ZA AUTOCESTU RIJEKA-ZAGREB d.d.
+PREDSJEDNIK UPRAVE
+Miro Škrgatić, dipl. ing., v. r.
+ZA PODRUŽNCU »ARZ«
+PREDSJEDNIK PODRUŽNICE
+Mladen Efendić, v. r.
