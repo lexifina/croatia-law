@@ -1,0 +1,3 @@
+# Članak 23.
+U članku 31. stavku 1. iza riječi: »Zavoda«, briše se zarez i dodaju se riječi: »i izvješća o izvršenju plana proračuna,«, a riječi: »izrađuje preglede i izvješća izvršenih poslova u odnosu na plan« brišu se.
+U stavku 2. iza riječi: »zaključenih ugovora« dodaje se tekst: »Odsjek sudjeluje i surađuje u obavljanju poslova provedbe i unaprjeđenja funkcioniranja sustava financijskog upravljanja i kontrola, sudjeluje u izradi izvješća o sustavu financijskog upravljanja i kontrola, i u skladu sa sustavom za razvoj financijskog upravljanja i kontrola brine o tome da je svaki rashod Zavoda opravdan stvarnom potrebom i potvrđen prethodnom kontrolom.«.

@@ -1,0 +1,2 @@
+# Članak 31.
+U članku 42. iza riječi: »prava industrijskog vlasništva« briše se točka, stavlja se točka-zarez i dodaje se tekst: »na osnovu definiranih strateških ciljeva Zavoda predlaže ciljeve iz djelokruga rada Odjela, predlaže pokazatelje uspješnosti, nadzire postizanje postavljenih ciljeva i izvještava o realizaciji postavljenih ciljeva; u skladu sa sustavom financijskog upravljanja i kontrola vodi računa o tome da je svaki rashod Odjela opravdan stvarnom potrebom i potvrđen prethodnom kontrolom.«.
