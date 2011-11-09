@@ -1,0 +1,2 @@
+# Članak 2.
+U Prilogu Pravilnika o ambalaži i ambalažnom otpadu (»Narodne novine«, broj 97/05, 115/05, 81/08, 31/09, 156/09, 38/10, 10/11 i 81/11) obrazac Očevidnika za obračun naknade zbrinjavanja, povratne i poticajne naknade (OONZPPN) zamjenjuje se obrascem Očevidnika za obračun naknade zbrinjavanja, povratne i poticajne naknade (OONZPPN) koji je tiskan uz ovaj Pravilnik i čini njegov sastavni dio.
