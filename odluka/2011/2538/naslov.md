@@ -1,0 +1,1 @@
+Odluka o utvrđivanju interesa Republike Hrvatske za izgradnju Športsko-rekreacijskog centra "Rastoke" (složene građevine) u naselju Slunj, Grada Slunja, s rekonstrukcijom postojeće zaštićene građevine "francuskog magazina" u k.o. Slunj
