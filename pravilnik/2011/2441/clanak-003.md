@@ -1,0 +1,5 @@
+# Članak 3.
+Prostorije u kojima je smješten javnobilježnički ured moraju biti posebna građevinska cjelina, s odvojenim ulazom.
+Javnobilježnički ured mora imati najmanje 5 prostorija, i to: prijemnu prostoriju, prostoriju za održavanje ostavinske rasprave, radnu sobu, čekaonicu i prostoriju za arhivu koja ne može biti manja od 12 m2 i mokri čvor. Ukupna površina javnobilježničkog ureda, ne može biti manja od 85 m2. U izuzetnim slučajevima, u javnobilježničkim uredima gdje javnobilježničku službu obavljaju javni bilježnik i do dva djelatnika, može se odobriti obavljanje službe i u manjim uredima, ali čija ukupna površina ne može biti manja od 50 m2.
+Zajednički javnobilježnički ured mora imati osim prostorija navedenih u stavku 2. ovoga članka i radnu sobu za drugog javnog bilježnika i prostor za arhiv koji ne može biti manji od 20 m2 ili dva odvojena prostora za arhiv od po najmanje 12 m2. Ukupna površina zajedničkog javnobilježničkog ureda ne može biti manja od 120 m2.
+Pisarnica u kojoj javni bilježnik održava uredovne dane mora udovoljavati svim kriterijima propisanim ovim Pravilnikom (osim broja prostorija), a čija ukupna površina ne može biti manja od 20 m2.

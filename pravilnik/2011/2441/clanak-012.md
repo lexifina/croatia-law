@@ -1,0 +1,3 @@
+# Članak 12.
+Ako prostor i oprema za javnobilježnički ured ne odgovara kriterijima utvrđenim ovim Pravilnikom, Komisija Ministarstvo pravosuđa u zapisniku o pregledu prostora iz prethodnog članka, utvrdit će nedostatke predloženog prostora i opreme i dati nalog javnom bilježniku da u roku od 30 dana od izvršenog pregleda osigura drugi odgovarajući prostor i opremu, odnosno da otkloni nedostatke predloženog prostora i opreme.
+Ako javni bilježnik u roku iz prethodnog stavka ovoga članka ne udovolji nalogu Ministarstva pravosuđa, javni bilježnik sukladno članku 21. stavak 1. točka 1. Zakona o javnom bilježništvu bit će razriješen javnobilježničke dužnosti.
