@@ -1,0 +1,3 @@
+# Članak 2.
+1) Državni odvjetnik upućuje se u Eurojust kao državni odvjetnik za vezu, radi izvršavanja zadataka utvrđenih Sporazumom između Republike Hrvatske i Eurojusta od 9. studenoga 2007. godine.
+2) Državni odvjetnik za vezu ima status zamjenika Glavnog državnog odvjetnika Republike Hrvatske (dalje: zamjenik Glavnog državnog odvjetnika) sukladno Zakonu o državnom odvjetništvu i svoje djelovanje provodi sukladno važećim zakonskim propisima Republike Hrvatske, Odluci Vijeća EU o osnivanju Eurojusta broj: 2002/187/PUP, 2003/659/PUP, 2009/426/PUP i Pravilniku o poslovanju Eurojusta, imajući u vidu interese Republike Hrvatske, a pomažući ciljeve Eurojusta.
