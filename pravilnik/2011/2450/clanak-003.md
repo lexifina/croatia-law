@@ -1,0 +1,2 @@
+# Članak 3.
+Danom stupanja na snagu ovoga Pravilnika prestaje važiti Prilog broj 2. Pravilnika o specijalističkom usavršavanju zdravstvenih djelatnika (»Narodne novine«, br. 33/94, 53/98, 64/98, 97/99, 84/01 i 43/03) u dijelu koji se odnosi na specijalističko usavršavanje doktora medicine, osim za doktore medicine iz članka 36. Pravilnika o specijalističkom usavršavanju doktora medicine (»Narodne novine«, br. 100/11).
