@@ -1,0 +1,2 @@
+# Članak 1.
+U Pravilniku o službenim sjedištima javnih bilježnika (»Narodne novine«, broj 55/10) - Raspored javnobilježničkih mjesta i njihovih službenih sjedišta, u Osječko-baranjskoj županiji, za područje mjesno nadležnog Općinskog suda u Belom Manastiru, u koloni »Broj javnobilježničkih mjesta«, broj: »2« zamjenjuje se brojem: »3«, a u koloni »Službeno sjedište javnog bilježnika« - Beli Manastir, broj: »1« zamjenjuje se brojem: »2«.
