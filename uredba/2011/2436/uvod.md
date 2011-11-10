@@ -1,0 +1,1 @@
+Na temelju članka 43. Zakona o upravljanju državnom imovinom (»Narodne novine«, broj 145/2010), a u svezi sa člankom 2. stavkom 2. Uredbe o raspolaganju nekretninama u vlasništvu Republike Hrvatske (»Narodne novine«, broj 55/2011), Vlada Republike Hrvatske je na sjednici održanoj 27. listopada 2011. godine donijela
