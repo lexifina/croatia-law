@@ -1,0 +1,4 @@
+# Članak 31.
+U članku 80. stavku 1. iza riječi: »naređuje korisniku povrat sredstava« briše se točka i dodaju se riječi: »ako je to povoljnije za korisnika državne potpore.«.
+Iza stavka 1. dodaje se stavak 2. koji glasi:
+»'(2) Odredbe članka 3. stavka 6. i 7. ovoga Zakona odgovarajuće se primjenjuju i na korisnike državne potpore koji su na temelju Zakona o državnoj potpori u poljoprivredi i ribarstvu (»Narodne novine«, br. 87/02., 117/03., 82/04., 12/05. - ispravak, 85/06., 141/06., 134/07., 85/08. i 4/09.) i Zakona o državnoj potpori poljoprivredi i ruralnom razvoju (»Narodne novine«, br. 83/09., 153/09. i 60/10.) ostvarili pravo na državnu potporu i kojima je poljoprivredni inspektor rješenjem iz članka 72. stavka 3. ovoga Zakona naredio povrat nezakonito ostvarenih sredstava državne potpore.«.

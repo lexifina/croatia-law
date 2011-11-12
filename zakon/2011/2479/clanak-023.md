@@ -1,0 +1,8 @@
+# Članak 23.
+U članku 62. stavku 2. iza riječi: »Maksimalna visina javne potpore« dodaju se riječi: »u 2011. godini«.
+Iza stavka 2. dodaju se stavci 3., 4., 5., 6. i 7. koji glase:
+»(3) Maksimalna visina javne potpore za 2012. i 2013. godinu za mjere iz članka 60.a stavka 1. točke 2., 3., 4., 5., 6. i 7. ovoga Zakona utvrđena je u Dodatku 5.a, koji je prilog i sastavni dio ovoga Zakona.
+(4) Maksimalne obveze državnog proračuna na godišnjoj razini za mjere iz članka 60. stavka 1. točke 2., 3., 6. i 7. i za mjere iz članka 60.a stavka 1. točke 2., 3., 4., 5., 6. i 7. ovoga Zakona utvrđene su u Dodatku 5.b, koji je prilog i sastavni dio ovoga Zakona.
+(5) Maksimalna visina javne potpore za 2012. godinu te maksimalne obveze državnog proračuna na godišnjoj razini za mjeru iz članka 60.a stavka 3. ovoga Zakona utvrđena je u Dodatku 5.c, koji je prilog i sastavni dio ovoga Zakona.
+(6) Ukoliko godišnji zahtjevi za potporu u pojedinim mjerama iz članka 60. stavka 1. točke 2., 3., 4., 6. i 7. i članka 60.a stavka 1. točke 2., 3., 4., 5., 6. i 7. i stavka 3. ovoga Zakona premaše maksimalne godišnje obveze državnog proračuna utvrđene u Dodatku 5.b i Dodatku 5.c maksimalne visine potpore za pojedine mjere utvrđene u Dodatku 5., Dodatku 5.a i Dodatku 5.c proporcionalno se smanjuju.
+(7) Ukoliko su godišnji zahtjevi za potporu u pojedinim mjerama iz članka 60. stavka 1. točke 2., 3., 4., 5., 6. i 7. i članka 60.a stavka 1. točke 2., 3., 4., 5., 6. i 7. i stavka 3. ovoga Zakona manji od osiguranih sredstava u državnom proračunu, neiskorištena sredstva proporcionalno se raspoređuju na mjere utvrđene u Dodatku 5., Dodatku 5.a i Dodatku 5.c, u kojima su zahtjevi premašili raspoloživa sredstva.«.

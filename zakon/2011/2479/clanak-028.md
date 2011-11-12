@@ -1,0 +1,3 @@
+# Članak 28.
+U članku 69. stavak 3. mijenja se i glasi:
+»(3) Poslove poljoprivredne inspekcije u prvom stupnju obavljaju poljoprivredni inspektori u Ministarstvu i poljoprivredni inspektori u područnim jedinicama Ministarstva sukladno Uredbi o unutarnjem ustrojstvu Ministarstva, a u drugom stupnju rješava Povjerenstvo za rješavanje o žalbama pri Ministarstvu čije članove imenuje Vlada Republike Hrvatske. Povjerenstvo čine tri člana koji se imenuju iz reda državnih službenika u Ministarstvu koji imaju završen preddiplomski i diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij ili specijalistički diplomski stručni studij i najmanje pet (5) godina radnog iskustva na odgovarajućim poslovima.«.

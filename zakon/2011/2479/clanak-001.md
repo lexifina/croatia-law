@@ -1,0 +1,4 @@
+# Članak 1.
+U Zakonu o državnoj potpori poljoprivredi i ruralnom razvoju (»Narodne novine«, br. 92/10. i 127/10.) u članku 2. iza točke 11. dodaju se točke 12. i 13. koje glase:
+»12. Livada je poljoprivredno zemljište koje se koristi za prirodan uzgoj trave ili drugog zeljastog krmnog bilja, prirodnog (samoniklog) ili uzgojenog (zasijanog), koje nije uključeno u plodored usjeva na poljoprivrednom gospodarstvu pet ili više godina, a koje se održava košnjom sukladno uvjetima dobre poljoprivredne prakse.
+13. Pašnjak je poljoprivredno zemljište koje se koristi za prirodan uzgoj trave ili drugog zeljastog krmnog bilja, prirodnog (samoniklog) ili uzgojenog (zasijanog), koje nije uključeno u plodored usjeva na poljoprivrednom gospodarstvu pet ili više godina, a koje se održava napasivanjem stoke sukladno uvjetima dobre poljoprivredne prakse ili alternativno napasivanjem i košnjom.«.
