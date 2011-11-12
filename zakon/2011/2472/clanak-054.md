@@ -1,0 +1,3 @@
+# Članak 54.
+Novčanom kaznom u iznosu od 20.000,00 do 50.000,00 kuna kaznit će se za prekršaj ustanova socijalne skrbi i druga pravna osoba koja pruža usluge socijalne skrbi ako ne dostavi Agenciji polugodišnje izvješće o provođenju aktivnosti utvrđenih planom i programom mjera za osiguranje, unapređenje, promicanje i praćenje kvalitete usluga socijalne skrbi (članak 27. stavak 1.).
+Za prekršaj iz stavka 1. ovoga članka kaznit će se novčanom kaznom u iznosu od 5.000,00 do 10.000,00 kuna odgovorna osoba u ustanovi socijalne skrbi i drugoj pravnoj osobi koja pruža usluge socijalne skrbi i udomitelj i fizička osoba koja profesionalno pruža usluge socijalne skrbi.

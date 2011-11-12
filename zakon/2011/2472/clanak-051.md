@@ -1,0 +1,3 @@
+# Članak 51.
+Novčanom kaznom u iznosu od 20.000,00 do 50.000,00 kuna kaznit će se za prekršaj zdravstvena ustanova te trgovačko društvo koje obavlja zdravstvenu djelatnost ako ne dostavi Agenciji polugodišnje izvješće o provođenju aktivnosti utvrđenih planom i programom mjera za osiguranje, unapređenje, promicanje i praćenje kvalitete zdravstvene zaštite (članak 13. stavak 1.).
+Za prekršaj iz stavka 1. ovoga članka kaznit će se novčanom kaznom u iznosu od 5.000,00 do 10.000,00 kuna odgovorna osoba u zdravstvenoj ustanovi, odnosno trgovačkom društvu koje obavlja zdravstvenu djelatnost i privatni zdravstveni radnik.

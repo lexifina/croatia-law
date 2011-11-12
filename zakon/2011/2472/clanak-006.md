@@ -1,0 +1,7 @@
+## III. SUSTAV MJERA ZA OSIGURANJE I UNAPREĐENJE KVALITETE ZDRAVSTVENE ZAŠTITE
+# Članak 6.
+Radi osiguranja učinkovite, djelotvorne, jednako visokokvalitetne i jednako dostupne zdravstvene zaštite u svim zdravstvenim djelatnostima, na svim razinama zdravstvene zaštite te na cijelom području Republike Hrvatske ministar nadležan za zdravstvo na prijedlog Agencije za kvalitetu i akreditaciju u zdravstvu i socijalnoj skrbi (u daljnjem tekstu: Agencija), po prethodno pribavljenom mišljenju nadležnih komora, donosi plan i program mjera za osiguranje, unapređenje, promicanje i praćenje kvalitete zdravstvene zaštite.
+Planom i programom mjera iz stavka 1. ovoga članka utvrđuju se prioriteti za poboljšanje kvalitete zdravstvene zaštite te mjere za uvođenje jedinstvenog sustava standarda kvalitete zdravstvene zaštite i kliničkih pokazatelja kvalitete.
+Mjere iz stavka 2. ovoga članka obvezni su provoditi svi nositelji zdravstvene djelatnosti radi uspostave hrvatskog standarda kvalitete zdravstvene zaštite i procjene sigurnosti pacijenata.
+Radi provedbe plana i programa mjera iz stavka 1. ovoga članka ministar nadležan za zdravstvo osigurava koordinaciju aktivnosti za postizanje kvalitete zdravstvene zaštite između nositelja obavljanja zdravstvene djelatnosti.
+Na opće akte Agencije kojima se utvrđuje dokumentacija za provedbu plana i programa mjera iz stavka 1. ovoga članka suglasnost daje ministar nadležan za zdravstvo.

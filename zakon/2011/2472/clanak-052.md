@@ -1,0 +1,3 @@
+# Članak 52.
+Novčanom kaznom u iznosu od 30.000,00 do 80.000,00 kuna kaznit će se za prekršaj ustanova socijalne skrbi i druga pravna osoba koja pruža usluge socijalne skrbi, ako ne uspostavi, ne razvija ili ne održava sustav za osiguranje i poboljšanje kvalitete usluga socijalne skrbi (članak 24. stavak 1.).
+Za prekršaj iz stavka 1. ovoga članka kaznit će se novčanom kaznom u iznosu od 8.000,00 do 15.000,00 kuna odgovorna osoba u ustanovi socijalne skrbi ili drugoj pravnoj osobi koja pruža usluge socijalne skrbi, odnosno udomitelj i fizička osoba koja profesionalno pruža usluge socijalne skrbi.

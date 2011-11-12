@@ -1,0 +1,2 @@
+# Članak 47.
+Nadzor nad zakonitošću rada Agencije na području kvalitete zdravstvene zaštite obavlja ministarstvo nadležno za zdravstvo, a na području kvalitete socijalne skrbi ministarstvo nadležno za socijalnu skrb, osim na području kvalitete socijalne skrbi za obiteljske centre i usluge međugeneracijske solidarnosti na kojem području nadzor nad zakonitošću rada Agencije obavlja ministarstvo nadležno za obitelj i međugeneracijsku solidarnost.
