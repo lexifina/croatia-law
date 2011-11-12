@@ -1,0 +1,5 @@
+## Opće odredbe
+# Članak 1.
+(1) Pravilnikom o načinu rada Povjerenstva za zaštitu prava korisnika usluga (u daljnjem tekstu: Pravilnik) pobliže se propisuje imenovanje, način rada i druga pitanja u vezi s radom Povjerenstva za zaštitu prava korisnika usluga (u daljnjem tekstu: Povjerenstvo), kao savjetodavnog tijela Hrvatske agencije za poštu i elektroničke komunikacije (u daljnjem tekstu: HAKOM) u rješavanju sporova između krajnjih korisnika usluga i operatora javnih komunikacijskih usluga (u daljnjem tekstu: operatori) u skladu s odredbama Zakona o elektroničkim komunikacijama te u sporovima između korisnika i davatelja poštanskih usluga, u skladu s odredbama Zakona o poštanskim uslugama.
+(2) HAKOM rješava sporove na temelju prijedloga Povjerenstva, u skladu s odredbama Zakona o elektroničkim komunikacijama, Zakona o poštanskim uslugama (u daljnjem tekstu: zakoni) te drugih posebnih propisa.
+(3) Povjerenstvo se osniva pri HAKOM-u te ima svojstvo i zadaće savjetodavnog tijela prema posebnom zakonu kojim je uređena zaštita potrošača. Povjerenstvo se sastoji od predstavnika stručne službe HAKOM-a i predstavnika udruga potrošača.

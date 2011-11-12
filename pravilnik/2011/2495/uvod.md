@@ -1,0 +1,1 @@
+Na temelju članka 19. stavka 1. i članka 51. stavka 4. Zakona o elektroničkim komunikacijama (»Narodne novine« br. 73/08 i 90/11) te članka 45. stavka 3. Zakona o poštanskim uslugama (»Narodne novine« br. 88/09 i 61/11) Vijeće Hrvatske agencije za poštu i elektroničke komunikacije (u daljnjem tekstu Vijeće) donosi
