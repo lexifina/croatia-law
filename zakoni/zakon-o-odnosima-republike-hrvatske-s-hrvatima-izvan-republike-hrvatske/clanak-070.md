@@ -1,0 +1,7 @@
+# Članak 70.
+Ministarstvo vanjskih poslova i europskih integracija nastavlja obavljati poslove iz svog djelokruga, koje preuzima Ured sukladno ovom Zakonu, do stupanja na snagu Uredbe o unutarnjem ustrojstvu Ureda iz članka 68. stavka 2. ovoga Zakona.
+Stupanjem na snagu Uredbe iz članka 68. stavka 2. ovoga Zakona, Ured preuzima od Ministarstva vanjskih poslova i europskih integracija opremu, pismohranu i drugu dokumentaciju, sredstva za rad, financijska sredstva osigurana za plaće i druga prava iz radnog odnosa, kao i druga financijska sredstva u odgovarajućem dijelu preuzetih poslova sukladno ovom Zakonu.
+Stupanjem na snagu Uredbe iz članka 68. stavka 2. ovoga Zakona, Ured preuzima državne službenike i namještenike Ministarstva vanjskih poslova i europskih integracija koji su zatečeni na obavljanju preuzetih poslova sukladno ovom Zakonu.
+Državni službenici i namještenici zatečeni na obavljanju preuzetih poslova nastavljaju s radom u Uredu i zadržavaju stečena diplomatska zvanja i status.
+Po potrebi posla, državni službenici i namještenici Ureda mogu biti upućeni na rad u diplomatsko-konzularna predstavništva, na poslove vezane za odnose s Hrvatima izvan Republike Hrvatske i druge poslove u skladu s njihovim kompetencijama, što će se urediti sporazumom između Ureda i ministarstva nadležnog za vanjske poslove.
+Državni službenici i namještenici iz stavka 3. ovoga članka nastavljaju s radom i zadržavaju plaće prema dosadašnjim propisima do donošenja rješenja o rasporedu na radno mjesto sukladno Pravilniku o unutarnjem redu Ureda.

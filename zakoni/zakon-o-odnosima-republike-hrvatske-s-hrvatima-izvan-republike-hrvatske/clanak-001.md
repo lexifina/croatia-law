@@ -1,0 +1,3 @@
+## I. OPĆE ODREDBE
+# Članak 1.
+Ovim se Zakonom uređuju odnosi Republike Hrvatske s Hrvatima izvan Republike Hrvatske, osnivaju se Središnji državni ured za Hrvate izvan Republike Hrvatske i Savjet Vlade Republike Hrvatske za Hrvate izvan Republike Hrvatske, uvodi se Status Hrvata bez hrvatskog državljanstva, uređuju se odnosi između tijela koja u svom djelokrugu imaju poslove vezane za Hrvate izvan Republike Hrvatske, zaštita prava i interesa Hrvata izvan Republike Hrvatske te jačanje njihovih zajednica, način ostvarivanja suradnje s Hrvatima izvan Republike Hrvatske, propisuju se mjere i aktivnosti pri povratku i useljavanju, kao i druga pitanja od značaja za Hrvate izvan Republike Hrvatske.

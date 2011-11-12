@@ -1,0 +1,4 @@
+# Članak 57.
+U svrhu olakšavanja procesa integracije u hrvatsko društvo, unutar Ureda ustrojava se »ured dobrodošlice«, u okviru kojega povratnici i useljenici, kao i svi drugi zainteresirani Hrvati izvan Republike Hrvatske, mogu dobiti potrebne informacije i pomoć u rješavanju pravnih i drugih pitanja, što uključuje i pomoć mentora/savjetnika u prvim koracima integracije u hrvatsko društvo.
+U okviru »ureda dobrodošlice« pružaju se i informacije o carinskim povlasticama pri uvozu predmeta kućanstva i gospodarskog inventara kod povratka i useljenja u Republiku Hrvatsku, te o poreznim olakšicama za hrvatske povratnike/useljenike, fizičke i pravne osobe, pri njihovom nastanjenju i stupanju u poslovni odnos u Republici Hrvatskoj.
+Poslove iz stavka 1. i 2. ovoga članka obavljat će i uredi državne uprave na županijskoj razini.

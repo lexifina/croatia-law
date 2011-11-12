@@ -1,0 +1,2 @@
+# Članak 5.
+U cilju promicanja veza s Republikom Hrvatskom, slijedom Ustavom Republike Hrvatske i Strategijom o odnosima Republike Hrvatske s Hrvatima izvan Republike Hrvatske (u daljnjem tekstu: Strategija) preuzetih obveza, Republika Hrvatska svoj odnos s Hrvatima izvan Republike Hrvatske temelji na uzajamnoj suradnji i pružanju pomoći te jačanju njihovih zajednica, uvažavajući pri tome sve posebnosti i različite potrebe hrvatskih zajednica izvan Republike Hrvatske.
