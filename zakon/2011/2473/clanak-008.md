@@ -1,0 +1,4 @@
+# Članak 8.
+Magistri socijalnog rada, magistri socijalne politike i sveučilišni prvostupnici socijalnog rada imaju pravo i obvezu stručnog usavršavanja, stalnim obnavljanjem stečenih znanja i usvajanjem novih znanja i vještina, u skladu s najnovijim dostignućima i saznanjima iz područja socijalnog rada.
+Magistri socijalnog rada, magistri socijalne politike i sveučilišni prvostupnici socijalnog rada obvezni su svakih šest godina proći provjeru stručnosti pri Hrvatskoj komori socijalnih radnika radi obnavljanja odobrenja za samostalan rad na poslovima djelatnosti socijalnog rada.
+Uvjete za obnavljanje i oduzimanje odobrenja za samostalan rad magistara socijalnog rada, magistara socijalne politike i sveučilišnih prvostupnika socijalnog rada propisuje općim aktom Hrvatska komora socijalnih radnika.

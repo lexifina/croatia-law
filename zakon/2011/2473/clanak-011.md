@@ -1,0 +1,2 @@
+# Članak 11.
+Na magistre socijalnog rada pripravnike, magistre socijalne politike pripravnike te na sveučilišne prvostupnike socijalnog rada pripravnike na odgovarajući način se primjenjuju odredbe ovoga Zakona o čuvanju profesionalne tajne, o stjecanju i prestanku prava na obavljanje djelatnosti socijalnog rada te druge odredbe kojima se uređuje položaj magistara socijalnog rada, magistara socijalne politike odnosno sveučilišnih prvostupnika socijalnog rada, osim ako ovim Zakonom nije drukčije određeno.

@@ -1,0 +1,20 @@
+# Članak 26.
+Osim javnih ovlasti iz članka 25. ovoga Zakona Komora obavlja i sljedeće poslove:
+- prati, proučava i stručno nadzire obavljanje djelatnosti socijalnog rada,
+- utvrđuje standarde i normative za djelatnost socijalnog rada,
+- određuje najnižu cijenu rada magistara socijalnog rada, socijalne politike i sveučilišnih prvostupnika socijalnog rada koji obavljaju privatnu praksu,
+- propisuje način oglašavanja i način isticanja naziva privatne prakse magistara socijalnog rada, magistara socijalne politike i sveučilišnih prvostupnika socijalnog rada,
+- donosi Etički kodeks za djelatnost socijalnog rada,
+- prati i nadzire provođenje profesionalne etike socijalnog rada i poduzima mjere, a posebno u slučajevima pritužbi na rad magistara socijalnog rada, magistara socijalne politike i sveučilišnih prvostupnika socijalnog rada,
+- daje stručno mišljenje tijekom pripreme propisa od utjecaja na razvoj struke socijalnog rada,
+- zastupa članove Komore u zaštiti njihovih profesionalnih interesa,
+- sudjeluje u utvrđivanju i verifikaciji programa stručnog usavršavanja magistara socijalnog rada, magistara socijalne politike i sveučilišnih prvostupnika socijalnog rada,
+- propisuje sadržaj, rokove i postupak trajnog stručnog usavršavanja magistara socijalnog rada, magistara socijalne politike i sveučilišnih prvostupnika socijalnog rada,
+- potiče i organizira stručno usavršavanje članova Komore,
+- surađuje s drugim strukovnim udrugama, stručnim i znanstvenim institucijama u zemlji i inozemstvu,
+- surađuje s državnim tijelima i tijelima jedinica lokalne i područne (regionalne) samouprave u rješavanju pitanja značajnih za ostvarivanje zadaća djelatnosti socijalnog rada,
+- utvrđuje disciplinske mjere za lakše i teže povrede radnih dužnosti magistara socijalnog rada, magistara socijalne politike i sveučilišnih prvostupnika socijalnog rada,
+- provodi disciplinski postupak i izriče mjere za disciplinske povrede dužnosti magistara socijalnog rada, magistara socijalne politike i sveučilišnih prvostupnika socijalnog rada,
+- brine za pravnu pomoć svojim članovima,
+- surađuje s nadležnim inspekcijama,
+- obavlja i druge poslove utvrđene ovim Zakonom, Statutom i drugim propisima Komore.

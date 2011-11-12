@@ -1,0 +1,9 @@
+## V. PRIPRAVNICI
+# Članak 10.
+Nakon završenog obrazovanja magistri socijalnog rada i magistri socijalne politike, odnosno sveučilišni prvostupnici socijalnog rada obvezni su osposobiti se za samostalan rad.
+Pripravnički staž magistara socijalnog rada, magistara socijalne politike i sveučilišnih prvostupnika socijalnog rada traje godinu dana te se obavlja u ustanovama socijalne skrbi, zdravstvenim ustanovama, ustanovama za odgoj, obrazovanje i rehabilitaciju, osnovnim i srednjim školama, predškolskim ustanovama, ustanovama na području pravosuđa, udrugama civilnog društva i u drugim pravnim osobama u kojima se obavlja djelatnost socijalnog rada.
+Pravne osobe iz stavka 2. ovoga članka koje pružaju usluge socijalnog rada obvezne su primati magistre socijalnog rada i magistre socijalne politike, odnosno sveučilišne prvostupnike socijalnog rada na pripravnički staž prema mjerilima koje će pravilnikom uz prethodno pribavljeno mišljenje Hrvatske komore socijalnih radnika utvrditi ministar nadležan za socijalnu skrb (u daljnjem tekstu: ministar).
+Pripravnički staž može se obavljati kod magistra socijalnog rada i magistra socijalne politike koji obavlja privatnu praksu, koji ima najmanje pet godina radnog iskustva u struci te kojeg je za to ovlastio ministar.
+Nakon obavljenog pripravničkog staža magistri socijalnog rada, magistri socijalne politike i sveučilišni prvostupnici socijalnog rada polažu stručni ispit pred povjerenstvom ministarstva nadležnog za socijalnu skrb (u daljnjem tekstu: Ministarstvo) ili u drugoj djelatnosti gdje je obavljen pripravnički staž.
+Uvjeti za obavljanje pripravničkog staža i polaganje stručnog ispita odnose se i na strance i državljane država članica Europske unije.
+Sadržaj i način provođenja pripravničkog staža, uz prethodno pribavljeno mišljenje Hrvatske komore socijalnih radnika pravilnikom propisuje ministar.
