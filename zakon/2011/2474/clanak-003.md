@@ -1,0 +1,4 @@
+# Članak 3.
+Pravo na obavljanje edukacijsko-rehabilitacijske djelatnosti ima magistar edukacijske rehabilitacije i sveučilišni prvostupnik edukacijske rehabilitacije koji su upisani u Imenik Hrvatske komore edukacijskih rehabilitatora te imaju odobrenje za samostalan rad (licencija).
+Iznimno od odredbe stavka 1. ovoga članka, pravo na obavljanje edukacijsko-rehabilitacijske djelatnosti ima magistar edukacijske rehabilitacije i sveučilišni prvostupnik edukacijske rehabilitacije koji je zaposlen na radnim mjestima stručnog suradnika u predškolskim i školskim ustanovama i ima odobrenje za rad izdano od Agencije za odgoj i obrazovanje.
+Sveučilišni prvostupnici edukacijske rehabilitacije imaju pravo na obavljanje edukacijsko-rehabilitacijske djelatnosti samo pod nadzorom magistra edukacijske rehabilitacije.

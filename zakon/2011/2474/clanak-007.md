@@ -1,0 +1,4 @@
+# Članak 7.
+Magistri edukacijske rehabilitacije i sveučilišni prvostupnici edukacijske rehabilitacije imaju pravo i obvezu stručnog usavršavanja, stalnim obnavljanjem stečenih znanja i usvajanjem novih znanja i vještina, u skladu s najnovijim dostignućima i saznanjima iz područja edukacijske rehabilitacije.
+Magistri edukacijske rehabilitacije i sveučilišni prvostupnici edukacijske rehabilitacije obvezni su svakih šest godina proći provjeru stručnosti pri Hrvatskoj komori edukacijskih rehabilitatora radi obnavljanja odobrenja za samostalan rad na poslovima edukacijsko-rehabilitacijske djelatnosti.
+Uvjete za obnavljanje i oduzimanje odobrenja za samostalan rad magistara edukacijske rehabilitacije i sveučilišnih prvostupnika edukacijske rehabilitacije propisuje općim aktom Hrvatska komora edukacijskih rehabilitatora.
