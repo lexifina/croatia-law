@@ -1,0 +1,3 @@
+# Članak 3.
+(1) Sorte iz članka 7. stavka 1. Zakona o zaštiti biljnih sorti (»Narodne novine«, br. 131/97., 62/00. i 67/08.) mogu biti predmet oplemenjivačkih prava od 1. rujna 2011.
+(2) Iznimno od članka 8. stavka 1. Zakona o zaštiti biljnih sorti (»Narodne novine«, br. 131/97., 62/00. i 67/08.), za sve sorte biljnih vrsta osim: pšenice, ječma, zobi, kukuruza, običnog suncokreta, soje, uljane repice, šećerne repe, krumpira, lucerne, graška, krmnog kelja, kruške, topole i vrbe, oplemenjivač sorte ili njegov pravni sljednik može do 1. rujna 2013. podnijeti zahtjev za dodjeljivanje oplemenjivačkog prava.
