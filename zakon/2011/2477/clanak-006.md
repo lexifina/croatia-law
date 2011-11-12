@@ -1,0 +1,6 @@
+# Članak 6.
+Članak 15. mijenja se i glasi:
+»Podnositelj zahtjeva za davanje odobrenja za stavljanje gotovog lijeka u promet iz članka 14. ovoga Zakona nije obvezan priložiti rezultate nekliničkih ispitivanja te rezultate kliničkih ispitivanja ako može dokazati:
+a) da je gotov lijek istovrstan referentnom lijeku, pod uvjetom da je referentnom lijeku dano odobrenje za stavljanje lijeka u promet u Republici Hrvatskoj ili u nekoj od država Europske unije prije više od šest godina za bilo koju dozu, farmaceutski oblik, način primjene ili pakovanje, ili
+b) da djelatna tvar ili djelatne tvari gotovog lijeka imaju provjerenu medicinsku uporabu u Europskoj uniji ili Republici Hrvatskoj najmanje deset godina, poznatu djelotvornost i sigurnost primjene, na temelju iscrpnih znanstvenih podataka iz literature, ili
+c) da su proizvođač referentnog lijeka i nositelj odobrenja za taj referentni lijek odobren u Republici Hrvatskoj ili Europskoj uniji suglasni da se koriste farmaceutski, neklinički i klinički podaci o referentnom lijeku, sadržani u njihovoj dokumentaciji u svrhu ocjene dokumentacije za davanje odobrenja za drugi lijek istoga kvalitativnog i kvantitativnog sastava djelatnih tvari i istoga farmaceutskoga oblika.«.
