@@ -1,0 +1,6 @@
+# Članak 9.
+U članku 25. stavak 4. mijenja se i glasi:
+»(4) Korisnik potpore za integriranu poljoprivrednu proizvodnju ostvaruje pravo na potporu za one ARKOD parcele za koje vodi evidenciju o integriranoj proizvodnji na Obrascu navedenom u Prilogu 2. Pravilnika o integriranoj proizvodnji poljoprivrednih proizvoda (»Narodne novine« broj 32/10) i na kojima obavlja integriranu proizvodnju poljoprivrednih proizvoda sukladno navedenom Pravilniku i objavljenim tehnološkim uputama za 2010./2011. godinu.«
+Stavci 6. i 7. mijenjaju se i glase:
+»(6) Korisnik potpore za integriranu poljoprivrednu proizvodnju dužan je najkasnije do 31. prosinca 2011. godine Regionalnom uredu Agencije za plaćanja dostaviti točnu vlastoručno potpisanu evidenciju iz stavka 4. ovoga članka, kojom potvrđuje da integriranu proizvodnju poljoprivrednih proizvoda obavlja sukladno Pravilniku o integriranoj proizvodnji poljoprivrednih proizvoda i čiju presliku zadržava Regionalni ured Agencije za plaćanja.
+(7) Poljoprivredni inspektor će provesti inspekcijski nadzor obavljanja integrirane proizvodnje poljoprivrednih proizvoda kod korisnika potpore za integriranu poljoprivrednu proizvodnju sukladno propisima koji uređuju obavljanje integrirane proizvodnje poljoprivrednih proizvoda.«

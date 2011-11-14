@@ -1,0 +1,2 @@
+# Članak 11.
+U članku 48. stavku 3. riječi: »Agenciju za plaćanja o smanjenju broja životinja uzrokovanih prirodnim okolnostima iz stavka 2. ovoga članka u roku od 7 dana od dana kada je smanjenje utvrđeno.« zamjenjuju se riječima: »Regionalni ured Agencije za plaćanja u kojemu je Korisnik upisan u Upisnik poljoprivrednih gospodarstava, o smanjenju broja životinja uzrokovanih prirodnim okolnostima iz stavka 2. ovoga članka, do 21. prosinca.«
