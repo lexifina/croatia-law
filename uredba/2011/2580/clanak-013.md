@@ -1,0 +1,8 @@
+## Viši savjetnik - specijalist
+# Članak 13.
+Standardna mjerila za radna mjesta u potkategoriji višeg savjetnika - specijalista su:
+Stupanj složenosti poslova koji uključuje sudjelovanje u izradi i provedbi strategija, programa, zakona i drugih propisa, izrade normativnih tekstova i rješavanja najsloženijih stručnih zadataka i pružanje savjeta i stručne pomoći rukovodećim službenicima na razini Ministarstva u cilju rješavanja najsloženijih stručnih problema i zadataka iz područja policijskih poslova i poslova usko povezanih s policijskim poslovima, učestale stručne komunikacije koje uključuju povremene kontakte unutar i izvan Ministarstva u svrhu pružanja savjeta rukovodećim policijskim službenicima u okviru donošenja odluka vezanih uz policijske poslove i poslove usko povezane s policijskim poslovima te istaknuti rezultati u obavljanju najsloženijih stručnih poslova od značaja za rad Ministarstva.
+Obrazovanje: završen preddiplomski i diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij ili specijalistički diplomski stručni studij ili visoka stručna sprema (VII/I) sukladno propisima koji su vrijedili prije stupanja na snagu Zakona o znanstvenoj djelatnosti i visokom obrazovanju (»Narodne novine« broj 123/2003).
+Policijsko zvanje: samostalni policijski inspektor.
+Stupanj odgovornosti i ovlast za donošenje odluka koji uključuje odgovornost za pravilnu primjenu metodologija rada, postupaka i stručnih tehnika kao i za primjenu policijskih ovlasti te provođenje odluka od značaja za rad Ministarstva.
+Stupanj samostalnosti u radu koji uključuje samostalan rad u obavljanju policijskih poslova i poslova usko povezanih s policijskim poslovima u skladu s povremenim općim i specifičnim uputama nadređenog rukovoditelja.

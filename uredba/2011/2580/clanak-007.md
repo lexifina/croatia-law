@@ -1,0 +1,8 @@
+## Glavni rukovoditelj
+# Članak 7.
+Standardna mjerila za radna mjesta u potkategoriji glavnog rukovoditelja su:
+Stupanj složenosti poslova koji uključuje doprinos razvoju novih koncepata, rješavanje strateških zadaća te planiranje, organiziranje, vođenje i nadziranje radnih procesa, usmjeravanje i koordiniranje poslova i stalna stručna komunikacija unutar i izvan Ministarstva od utjecaja na provedbu programa iz djelokruga Ministarstva te istaknuti rezultati od značaja za rad Ministarstva, a osobito uspješno rukovođenje najmanje na razini odsjeka Ministarstva u sjedištu ili uspješnog rukovođenja ustrojstvenom jedinicom policijske uprave.
+Obrazovanje: završen preddiplomski i diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij ili specijalistički diplomski stručni studij ili visoka stručna sprema (VII/I) sukladno propisima koji su vrijedili prije stupanja na snagu Zakona o znanstvenoj djelatnosti i visokom obrazovanju (»Narodne novine«, broj 123/2003) i završen program usavršavanja za obavljanje poslova rukovodećih policijskih službenika visoke razine.
+Policijsko zvanje: policijski savjetnik ili glavni policijski savjetnik.
+Stupanj odgovornosti i ovlast za donošenje odluka koji uključuje odgovornost za zadatke i odluke sa znatnim učinkom na policijske poslove i poslove usko povezane s policijskim poslovima, uključujući široku nadzornu i upravljačku odgovornost te donošenje odluka bitnih za rad više ustrojstvenih jedinica.
+Stupanj samostalnosti u radu je vrlo visok i to u obavljanju najsloženijih stručnih poslova, ograničen samo općim smjernicama vezanim uz utvrđenu politiku Ministarstva.

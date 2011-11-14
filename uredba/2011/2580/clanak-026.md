@@ -1,0 +1,4 @@
+# Članak 26.
+Iznimno od odredbi ove Uredbe, policijski službenik koji ima niže osobno policijsko zvanje od zvanja propisanog za raspored na određeno radno mjesto može se rasporediti na to radno mjesto pod uvjetom da najkasnije u roku jedne godine, od dana rasporeda, položi ispit za to zvanje.
+Odredba stavka 1. ovoga članka primjenjuje se samo na policijske službenike čije je osobno zvanje prevedeno na temelju Uredbe o uvjetima za stjecanje policijskog zvanja, oznakama policijskih zvanja, funkcionalnim oznakama radnih mjesta, promaknuću i napredovanju kroz policijska zvanja i to samo kod prvog rasporeda na radno mjesto sukladno odredbama ove Uredbe.
+Ako policijski službenik iz stavka 1. ovoga članka ne položi ispit za zvanje u propisanom roku, rasporedit će se na radno mjesto za koje ispunjava propisane uvjete.

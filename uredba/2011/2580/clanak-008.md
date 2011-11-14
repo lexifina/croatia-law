@@ -1,0 +1,8 @@
+## Viši rukovoditelj
+# Članak 8.
+Standardna mjerila za radna mjesta u potkategoriji višeg rukovoditelja su:
+Stupanj složenosti poslova koji uključuje sudjelovanje u stvaranju novih koncepata i rješavanju strateški značajnih zadaća iz okvira policijskih poslova i poslova usko povezanih s policijskim poslovima, u redovnoj stručnoj komunikaciji koje uključuju kontakte unutar i izvan Ministarstava, policijske uprave i policijske postaje i s povremenim doprinosom provedbi programa iz djelokruga Ministarstva, istaknute rezultate rada u području od značaja za rad ustrojstvene jedinice te uspješno rukovođenje najmanje na razini odsjeka u policijskoj upravi ili na razini policijske postaje.
+Obrazovanje: završen preddiplomski i diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij ili specijalistički diplomski stručni studij ili visoka stručna sprema (VII/I) sukladno propisima koji su vrijedili prije stupanja na snagu Zakona o znanstvenoj djelatnosti i visokom obrazovanju (»Narodne novine«, broj 123/2003) i završen program usavršavanja za obavljanje poslova rukovodećih policijskih službenika visoke razine.
+Policijsko zvanje: glavni policijski inspektor.
+Stupanj odgovornosti i ovlast za donošenje odluka koji uključuje odgovornost za zadatke i odluke s učinkom na policijske poslove i poslove usko povezane s policijskim poslovima, uključujući nadzornu i upravljačku odgovornost te donošenje odluka bitnih za rad ustrojstvene jedinice kojom rukovodi.
+Stupanj samostalnosti u radu je visok te ograničen samo općim smjernicama i uputama nadređenog rukovoditelja u rješavanju najsloženijih stručnih zadaća iz djelokruga policijskih poslova ili poslova usko povezanih s policijskim poslovima.

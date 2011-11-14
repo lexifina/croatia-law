@@ -1,0 +1,7 @@
+## Definicija standardnih mjerila
+# Članak 3.
+Stupanj složenosti poslova odražava razinu složenosti zadataka koji se obavljaju u okviru radnog mjesta i složenost postupaka koji se u njihovu rješavanju primjenjuju, razinu traženog osobnog doprinosa policijskog službenika, opseg poslova radnog mjesta te stupanj suradnje s drugim državnim tijelima koji odražava vrstu i učestalost kontakata koji se ostvaruju prilikom obavljanja poslova određenoga radnog mjesta, njihov značaj za rad Ministarstva unutarnjih poslova (u daljnjem tekstu: Ministarstvo).
+Obrazovanje obuhvaća stečeni stupanj obrazovanja i stečeno stručno znanje kroz završene oblike specijalizacije, stručnog osposobljavanja, usavršavanja i policijskog treninga.
+Policijsko zvanje utvrđuje se za svaku razinu potkategorije unutar kategorije i potkategorije radnih mjesta policijskih službenika sukladno odredbama ove Uredbe.
+Stupanj odgovornosti i ovlasti za donošenje odluka odražava opseg u kojem poslovi koji se obavljaju u okviru radnog mjesta imaju utjecaj na provedbu policijskih poslova i poslova usko povezanih s policijskim poslovima, uključujući odgovornost za obavljanje vlastitih zadataka i odgovornost vezanu uz rad ustrojstvenih jedinca u Ministarstvu.
+Stupanj samostalnosti u radu odražava opseg u kojem se zadaci obavljaju u skladu s općim ili specifičnim smjernicama i uputama nadređenog rukovoditelja te opseg nadzora potreban u obavljanju poslova određenoga radnog mjesta.
