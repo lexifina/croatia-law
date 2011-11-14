@@ -1,0 +1,1 @@
+Na temelju članka 103. stavka 1. podstavka 1. Zakona o policijskim poslovima i ovlastima (»Narodne novine«, broj 76/2009), Vlada Republike Hrvatske je na sjednici održanoj 10. studenoga 2011. godine donijela
