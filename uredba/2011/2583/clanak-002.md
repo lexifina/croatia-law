@@ -1,0 +1,23 @@
+# Članak 2.
+U sjedištu Ministarstva unutarnjih poslova policijskom službeniku se kao 18 mjeseci staža osiguranja računa svakih 12 mjeseci stvarno provedenih na radnom mjestu:
+- instruktora ronjenja u Zapovjedništvu interventne policije,
+- voditelja - višeg instruktora za protueksplozijsko ronjenje specijalne policije,
+- instruktora za protueksplozijsko ronjenje specijalne policije,
+- vođe specijalističke grupe protueksplozijskih ronioca specijalne policije,
+- protueksplozijskog ronioca specijalne policije,
+- zapovjednika Zrakoplovne jedinice,
+- pomoćnika zapovjednika za pilote,
+- pomoćnika zapovjednika za tehničku službu,
+- voditelja programa za sustav kakvoće u zrakoplovnoj jedinici,
+- voditelja programa sigurnosti letenja i operacija na zemlji u zrakoplovnoj jedinici,
+- pilota helikoptera I. i II. kategorije,
+- inženjera rotirajućih dijelova,
+- policijskog službenika - instruktora održavanja zrakoplova,
+- policijskog službenika - zrakoplovnog tehničara,
+- policijskog službenika - manipulanta gorivom u specijalnoj policiji,
+- instruktora za protueksplozijsko ronjenje specijalne policije,
+- vođe specijalističke grupe protueksplozijskih ronioca specijalne policije,
+- zapovjednika ronilačkog centra,
+- pomoćnika zapovjednika ronilačkog centra,
+- policijskog službenika za tehniku plovila, vozila, održavanje i tehničku potporu ronjenja u specijalnoj policiji,
+- poslužioca barokomore u specijalnoj policiji.
