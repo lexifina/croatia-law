@@ -1,0 +1,9 @@
+# Članak 1.
+U Zakonu o sudskim pristojbama (»Narodne novine«, br. 74/95., 57/96. i 137/02.) članak 39. mijenja se i glasi:
+»Sud će upozoriti stranku koja je nazočna sudskoj radnji za koju treba platiti pristojbu, a pristojbu nije odmah platila, da u roku od tri dana plati pristojbu. U upozorenju skrenut će pozornost stranci na posljedice neplaćanja pristojbe u tom roku (članak 40.). Na sudskom spisu naznačit će se da je dano upozorenje. Ukoliko stranka ne postupi po upozorenju, sud će donijeti rješenje o pristojbi kojim će stranku pozvati na plaćanje pristojbe u roku od osam dana od dostave rješenja.
+Ako stranka nije bila nazočna sudskoj radnji za koju mora platiti pristojbu, sud će donijeti rješenje o pristojbi kojim će stranku pozvati da u roku od osam dana od dostave rješenja plati dužnu pristojbu i upozoriti je na posljedice iz stavka 1. ovoga članka.
+Sud će voditi popis neplaćenih sudskih pristojbi.
+Kada putem pošte primi podnesak za koji pristojba nije plaćena ili nije dostatno plaćena, sud će donijeti rješenje o pristojbi kojim će pozvati podnositelja podneska da u roku od osam dana od dana dostave rješenja plati pristojbu te će ga upozoriti na posljedice iz stavka 1. ovoga članka.
+Rješenje o pristojbi iz stavka 1., 2. i 4. ovoga članka sadrži nalog stranci da utvrđeni iznos pristojbe u propisanom roku uplati na račun prihoda državnog proračuna Republike Hrvatske, kao i nalog Financijskoj agenciji za provedbu ovrhe na novčanim sredstvima stranke sa svih njezinih računa i oročenih novčanih sredstava prema odredbama zakona koji uređuje provedbu ovrhe na novčanim sredstvima, u slučaju ako stranka ne plati dužnu pristojbu.
+Kada neplaćena pristojba u pojedinim predmetima iznosi manje od 100,00 kuna, neće se primjenjivati odredbe ovoga članka.
+Na rješenje o pristojbi iz stavka. 1. i 4. ovoga članka plaća se dodatna pristojba u iznosu od 100,00 kuna.«.
