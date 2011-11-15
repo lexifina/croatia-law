@@ -1,0 +1,5 @@
+# Članak 1.
+U Zakonu o primjeni Statuta Međunarodnog kaznenog suda i progonu za kaznena djela protiv međunarodnog ratnog i humanitarnog prava (»Narodne novine«, br. 175/03., 29/04. i 55/11.) članak 12. mijenja se i glasi:
+»(1) Za vođenje kaznenih postupaka za kaznena djela navedena u članku 1. ovoga Zakona stvarno i mjesno su nadležni županijski sudovi u Osijeku, Rijeci, Splitu i Zagrebu, osim ako ovim Zakonom nije propisano drugačije.
+(2) Županijski sud u Osijeku mjesno je nadležan i za područja županijskih sudova u Slavonskom Brodu i Vukovaru. Županijski sud u Rijeci mjesno je nadležan i za područja županijskih sudova u Puli i Karlovcu. Županijski sud u Splitu mjesno je nadležan i za područja županijskih sudova u Dubrovniku, Šibeniku i Zadru. Županijski sud u Zagrebu mjesno je nadležan i za područja županijskih sudova u Bjelovaru, Sisku, Varaždinu i Velikoj Gorici.
+(3) Sudovi iz stavka 1. ovoga članka nadležni su za suđenje i u slučaju sudioništva u kaznenom djelu iz članka 1. ovoga Zakona.«.
