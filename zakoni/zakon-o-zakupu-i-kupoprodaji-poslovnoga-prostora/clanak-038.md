@@ -1,0 +1,3 @@
+# Članak 38.
+(1) Odluku o kupoprodaji poslovnoga prostora iz članka 1. ovoga Zakona donosi Agencija za upravljanje državnom imovinom, odnosno Gradska skupština Grada Zagreba/predstavničko tijelo jedinice lokalne/područne (regionalne) samouprave ili gradonačelnik Grada Zagreba, župan, gradonačelnik,odnosno općinski načelnik, ovisno o vrijednosti poslovnoga prostora.
+(2) Poslovni prostor ne može se prodati fizičkoj ili pravnoj osobi koja ima dospjelu nepodmirenu obvezu prema državnom proračunu, jedinicama lokalne i područne (regionalne) samouprave, zaposlenicima i dobavljačima, osim ako je sukladno posebnim propisima odobrena odgoda plaćanja navedenih obveza, pod uvjetom da se fizička ili pravna osoba pridržava rokova plaćanja.

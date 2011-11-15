@@ -1,0 +1,5 @@
+# Članak 35.
+(1) Poslovni prostor iz članka 1. ovoga Zakona prodaje se po tržišnoj cijeni.
+(2) Iznimno od odredbe stavka 1. ovoga članka, u slučaju kada se poslovni prostor prodaje sadašnjem zakupniku, odnosno sadašnjem korisniku pod uvjetima i u postupku iz članka 33. ovoga Zakona, tržišna cijena umanjuje se za neamortizirana ulaganja sadašnjeg zakupnika, odnosno sadašnjeg korisnika, koja su bila od utjecaja na visinu tržišne vrijednosti poslovnoga prostora, s time da se visina ulaganja zakupnika, odnosno korisnika priznaje najviše do 30% tržišne vrijednosti poslovnoga prostora.
+(3) Sadašnjem zakupniku, odnosno sadašnjem korisniku se neće priznati ulaganja u preinake poslovnoga prostora učinjene bez suglasnosti zakupodavca osim nužnih troškova, kao ni ulaganja koja je zakupodavac priznao u obliku smanjene zakupnine.
+(4) Tržišnu cijenu i vrijednost neamortiziranih ulaganja sadašnjeg zakupnika, odnosno sadašnjeg korisnika utvrđuje ovlašteni sudski vještak građevinske ili arhitektonske struke, s liste ovlaštenih sudskih vještaka, a po odabiru vlasnika poslovnoga prostora.

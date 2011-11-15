@@ -1,0 +1,5 @@
+# Članak 3.
+(1) Gradska skupština Grada Zagreba, odnosno gradsko ili općinsko vijeće može svojom odlukom propisati da se poslovni prostor u zgradama u vlasništvu Grada Zagreba, grada ili općine koje se nalaze u određenim ulicama, dijelovima ulica ili na određenim trgovima može koristiti za obavljanje samo određenih djelatnosti.
+(2) Ukoliko se radi o tradicijskim ili deficitarnim zanimanjima, Gradska skupština Grada Zagreba, odnosno gradsko ili općinsko vijeće će prije donošenja odluke iz stavka 1. ovoga članka pribaviti mišljenje udruženja obrtnika ili područne obrtničke komore.
+(3) Ako zakupnik, s kojim je sklopljen ugovor o zakupu poslovnoga prostora, promijeni namjenu poslovnoga prostora utvrđenu odlukom iz stavka 1. ovoga članka, ugovor o zakupu raskida se po sili zakona.
+(4) Ukoliko dođe do raskida ugovora o zakupu sukladno stavku 3. ovoga članka zakupodavac raspisuje novi javni natječaj za davanje u zakup poslovnoga prostora. Raniji zakupnik, koji sudjeluje na novom javnom natječaju, nema prvenstveno pravo na sklapanje ugovora o zakupu.
