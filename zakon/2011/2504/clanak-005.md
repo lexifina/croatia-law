@@ -1,0 +1,3 @@
+# Članak 5.
+U članku 186. stavak 4. mijenja se i glasi:
+»(4) Ako se kod ovršenika ne mogu pronaći predmeti koji su kao predmet ovrhe određeni u ovršnom nalogu javni ovršitelj može po službenoj dužnosti od nadležnog suda zatražiti da se, sukladno posebnom propisu, naloži policiji raspisivanje objave radi pronalaženja i oduzimanja predmeta koji se ne mogu pronaći. Policija će raspisati objavu radi pronalaženja i oduzimanja predmeta koji se ne mogu pronaći i o tome bez odgode obavijestiti nadležni sud koji će o tome bez odgode obavijestiti javnog ovršitelja koji provodi ovrhu. Javni ovršitelj je obvezan presliku sudske obavijesti bez odgode dostaviti strankama.«.
