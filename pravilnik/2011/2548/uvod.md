@@ -1,0 +1,1 @@
+Na osnovi Zakona o zdravstvenoj zaštiti (»Narodne novine« 150/08., 155/09., 71/10., 139/10., 22/11. i 84/11.) i članka 26. Statuta Hrvatskog zavoda za zdravstveno osiguranje (»Narodne novine« broj 18/09., 33/10. i 8/11.) Upravno vijeće Hrvatskog zavoda za zdravstveno osiguranje na 26. sjednici održanoj 13. listopada 2011. godine, donijelo je

@@ -1,0 +1,3 @@
+# Članak 1.
+U Pravilniku o postupku i načinu davanja mišljenja o opravdanosti osnivanja zdravstvenih ustanova, odnosno privatne prakse u Mreži javne zdravstvene službe (»Narodne novine« broj 94/05., 136/06., 80/07., 117/07., 64/08., 118/09. i 50/10.) u članku 3. stavak 3. mijenja se i glasi:
+»Uz zahtjev za izdavanje mišljenja o opravdanosti osnivanja privatne prakse na novoj adresi podnositelj zahtjeva koji je privatnu praksu obavljao na temelju rješenja Ministarstva zdravstva i socijalne skrbi o odobrenju za rad na osnovi koncesije za obavljanje javne zdravstvene službe obvezan je uz dokumentaciju iz stavka 1. ovog članka priložiti i suglasnost županije/Grada Zagreba o promjeni adrese.«
