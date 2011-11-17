@@ -1,0 +1,2 @@
+# Članak 6.
+Ako je Republika Hrvatska vlasnik zemljišnih čestica unutar odobrenog istražnog prostora, za koje je podnesen zahtjev za prijenos odobrenja za istraživanje mineralnih sirovina, podnositelj zahtjeva za prijenos odobrenja za istraživanje mineralnih sirovina dužan je uz zahtjev dostaviti suglasnost tijela nadležnog za upravljanje državnom imovinom, ministarstva nadležnog za pomorstvo, kada se radi o pomorskom dobru, odnosno ministarstva nadležnog za vodno gospodarstvo ukoliko se radi o zonama sanitarne zaštite izvorišta i/ili u području značajnom za vodni režim.
