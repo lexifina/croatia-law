@@ -1,0 +1,10 @@
+# Odluka Ustavnog suda Republike Hrvatske broj: U-III-2743/2010 od 17. studenoga 2011.
+
+- Case: `U-III-2743/2010`
+- Proceeding: Ustavna tužba
+- Decision: odluka
+- Decision date: `2011-11-17`
+- Official database page: <https://sljeme.usud.hr/usud/praksaw.nsf/fOdluka.xsp?action=openDocument&documentId=C12570D30061CE54C125794B0039E4EF>
+- Official database page SHA-256: `c8385aa69da0105315c11d3b2be293e8e1dacd5ce2b6d83c9431c2cede656f14`
+
+Metadata-only record: the decision concerns a named person (constitutional complaint and similar proceedings are listed as metadata only in this repository); use the official links above.
