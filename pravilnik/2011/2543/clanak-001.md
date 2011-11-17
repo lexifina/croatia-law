@@ -1,0 +1,2 @@
+# Članak 1.
+U Pravilniku o službenim sjedištima javnih bilježnika (»Narodne novine«, broj 55/10) - Raspored javnobilježničkih mjesta i njihovih službenih sjedišta, u Ličko-senjskoj županiji, za područje mjesno nadležnog Općinskog suda u Gospiću, u koloni »Broj javnobilježničkih mjesta«, broj: »4« zamjenjuje se brojem: »5«, a u koloni »Službeno sjedište javnog bilježnika« - Otočac, broj: »1« zamjenjuje se brojem: »2«.
