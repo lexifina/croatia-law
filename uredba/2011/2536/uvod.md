@@ -1,0 +1,1 @@
+Na temelju članka 19. Zakona o upravnim pristojbama (»Narodne novine«, br. 8/96, 77/96, 95/97, 131/97, 68/98, 66/99, 145/99, 30/2000, 116/2000, 163/2003, 17/2004, 110/2004, 141/2004, 150/2005, 153/2005, 129/2006, 117/2007, 25/2008, 60/2008, 20/2010 i 69/2010), Vlada Republike Hrvatske je na sjednici održanoj 18. kolovoza 2011. godine donijela
