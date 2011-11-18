@@ -1,0 +1,5 @@
+# Članak 7.
+Naslov iznad članka 110. i članak 110. mijenjaju se i glase:
+»7.1.2.1. Odjel za opće programe tretmana
+Članak 110.
+Odjel za opće programe tretmana obavlja upravne i stručne poslove koji se odnose na: klasifikaciju i reklasifikaciju zatvorenika, sudjelovanje u predlaganju kaznenog tijela u kojem će zatvorenik izdržavati kaznu zatvora, premještaju zatvorenika u drugo kazneno tijelo, izvršavanje sigurnosnih mjera, zdravstvenu zaštitu, izobrazbu, organizaciju slobodnog vremena zatvorenika, nadzor provođenja pojedinačnog programa izvršavanja kazne zatvora, uvjetni otpust zatvorenika, praćenje i predlaganje mjera za unaprjeđenje provođenja programa izvršavanja kazne zatvora, sudjelovanje u izradi i provedbi programa izobrazbe službenika tretmana u kaznenim tijelima, vođenje evidencije o zatvorenicima i maloljetnicima, obradu podataka, sudjelovanje u izradi nacrta prijedloga propisa i provođenju unutarnjeg nadzora iz svog djelokruga, rješavanje pritužbi zatvorenika iz djelokruga Odjela, suradnju s drugim državnim tijelima, ustanovama, udrugama i međunarodnu suradnju iz svog djelokruga.«.

@@ -1,0 +1,5 @@
+# Članak 9.
+Naslov iznad članka 112. i članak 112. mijenjaju se i glase:
+»7.1.2.3. Odjel za maloljetnike
+Članak 112.
+Odjel za maloljetnike obavlja upravne i stručne poslove koji se odnose na: nadzor izvršavanja odgojne mjere upućivanja u odgojni zavod i kazne maloljetničkog zatvora, izvršavanje sigurnosnih mjera, dijagnostiku, zdravstvenu zaštitu, izobrazbu i organizaciju slobodnog vremena maloljetnika, nadzor provođenja pojedinačnog programa izvršavanja odgojne mjere upućivanja u odgojni zavod i kazne maloljetničkog zatvora, predlaganje obustave odgojne mjere i uvjetnog otpusta maloljetnika, praćenje i predlaganje mjere i prioriteta za unaprjeđenje provođenja programa izvršavanja odgojne mjere i kazne maloljetničkog zatvora, sudjelovanje u izradi i provedbi programa izobrazbe službenika tretmana u odgojnim zavodima i odjelu izvršavanja maloljetničkog zatvora, vođenje evidencije i obradi podataka o maloljetnicima, sudjelovanje u izradi nacrta prijedloga propisa i provođenju unutarnjeg nadzora iz svog djelokruga, rješavanje pritužbi maloljetnika, suradnju s drugim državnim tijelima, ustanovama, udrugama i međunarodnu suradnju iz svog djelokruga.«.
