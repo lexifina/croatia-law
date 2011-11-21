@@ -1,0 +1,11 @@
+1. Hrvatska narodna banka u suradnji s Hrvatskim novčarskim zavodom d.o.o. iz Zagreba izdaje prigodni zlatni kovani novac »Čipkarstvo u Hrvatskoj« s motivima paške i lepoglavske čipke, koje su dio hrvatske kulturne baštine pod zaštitom UNESCO-a.
+2. Prigodni zlatni kovani novac iz točke 1. ove Odluke izdaje se u apoenu od 10 kuna, u količini ne većoj od 5000 komada i u ukupnom iznosu ne većem od 50.000,00 kuna.
+3. Prigodni zlatni kovani novac iz točke 2. ove Odluke bit će izrađen od zlata stupnja čistoće 999/1000, u specijalnoj tehnici kovanja kojom se postiže kakvoća polirane ploče, s visokosjajnim ravnim površinama i matiranim reljefnim detaljima prigodnih motiva. Zlatni kovani novac imat će masu od 0,5 grama i promjer od 11 milimetra.
+4. Prigodni zlatni kovani novac od 10 kuna s lica izgleda ovako: na okrugloj plohi kovanog novca prikaz je paške čipke, iznimnoga ručnog rada u formi podloška okruglog oblika, gdje se uzorak končanim nitima šije iglom od središta prema obodu. Između ruba kovanog novca i ruba prikaza paške čipke ispisan je tekst »ČIPKARSTVO U HRVATSKOJ«.
+5. Prigodni zlatni kovani novac od 10 kuna s naličja izgleda ovako: u središnjem dijelu polukruga prikaz je lepoglavske čipke, iznimnoga ručnog rada u formi podloška pravokutnog oblika, gdje se uzorak končanim nitima prepliće pomoću parnog broja drvenih batića te su motivi uvijek izrađeni u kombinaciji gustog i rijetkog pletiva. U gornjem polukrugu kovanog novca, između prikaza lepoglavske čipke i gornjeg ruba kovanog novca, jedno ispod drugog u tri retka, prikaz je grba Republike Hrvatske te ispisi nominalne vrijednosti »10« i naziva novčanice jedince »kuna«. Ispod prikaza lepoglavske čipke ispisana je godina izdanja »2012.«. Kružno uz rub kovanog novca ispisan je tekst »REPUBLIKA HRVATSKA«.
+6. Autor je idejnoga i likovnog rješenja prigodnoga zlatnoga kovanog novca od 10 kuna Stjepan Divković, akademski kipar.
+7. Prigodni zlatni kovani novac iz točke 2. ove Odluke prodavat će se po cijeni od 366,00 kuna za komad, uvećanoj za PDV.
+8. Prodaju prigodnoga zlatnoga kovanog novca iz točke 2. ove Odluke obavljat će Hrvatski novčarski zavod d.o.o. iz Zagreba.
+9. Prigodni zlatni kovani novac iz točke 2. ove Odluke pustit će se u prodaju 2. siječnja 2012.
+10. Ova Odluka stupa na snagu danom objave u »Narodnim novinama«.
+O. br. 764/2011.
