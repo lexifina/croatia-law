@@ -1,0 +1,4 @@
+# Članak 19.
+Praćenje dnevnih aktivnosti specijalizanta tijekom specijalističkog usavršavanja, provjera usvojenih znanja i vještina, praćenje prikaza slučaja bolesnika, praćenje objavljenih stručnih radova iz područja specijalizacije bilježi se u dnevnik rada doktora medicine na specijalističkom usavršavanju.
+Obrazac dnevnika rada doktora medicine na specijalističkom usavršavanju iz stavka 1. ovoga članka propisuje se pravilnikom o obrascu dnevnika rada doktora medicine na specijalističkom usavršavanju.
+Specijalizant posjeduje osobnik u koji pohranjuje sve dokumente koji se odnose na specijalističko usavršavanje i čuva ga. Osobnik obuhvaća knjižicu o specijalističkom usavršavanju doktora medicine i dnevnik rada doktora medicine na specijalističkom usavršavanju, potvrde o sudjelovanju na stručnim skupovima kao i druge aktivnosti iz područja specijalizacije.

@@ -1,0 +1,7 @@
+# Članak 17.
+Pravo na obavljanje specijalizacije prestaje ako:
+1. specijalizant otkaže ugovor o radu u zdravstvenoj ustanovi, trgovačkom društvu koje obavlja zdravstvenu djelatnost, doktoru medicine privatne prakse, odnosno tijelu ili osobi iz članka 8. stavka 2. ovoga Pravilnika, koja ga je predložila za odobrenje specijalizacije,
+2. sukladno odredbi članka 10. stavka 2. ovoga Pravilnika glavni mentor utvrdi da specijalizant ne izvršava obveze iz programa specijalizacije ili nema sklonosti prema specijalizaciji za koju se usavršava te o tome pisano izvijesti zdravstvenu ustanovu, trgovačko društvo koje obavlja zdravstvenu djelatnost, doktora medicine privatne prakse, odnosno tijelo ili osobu iz članka 8. stavka 2. ovoga Pravilnika za čije se potrebe specijalizant specijalizira i voditelja programa specijalističkog usavršavanja iz članka 2. ovoga Pravilnika.
+Rješenje o prestanku prava na specijalizaciju donosi ministar na temelju zahtjeva zdravstvene ustanove, trgovačkog društva koje obavlja zdravstvenu djelatnost, doktora medicine privatne prakse, odnosno tijela ili osobe iz članka 8. stavka 2. ovoga Pravilnika.
+Zahtjevu iz stavka 2. ovoga članka prilažu se isprave kojima se dokazuje ispunjavanje uvjeta iz točke 1. ili 2. stavka 1. ovoga članka.
+Iznimno od stavka 1. točke 1. ovoga članka, u slučaju iz članka 11. stavka 4. ovoga Pravilnika ministar rješenjem utvrđuje prestanak i istovremeno odobrava nastavak specijalizacije u drugoj zdravstvenoj ustanovi.

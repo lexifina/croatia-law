@@ -1,0 +1,4 @@
+# Članak 18.
+Specijalističko usavršavanje i obveze specijalizanta u knjižicu o specijalističkom usavršavanju doktora medicine upisuju glavni mentor i mentor u zdravstvenoj ustanovi i/ili trgovačkom društvu koje obavlja zdravstvenu djelatnost i/ili ordinaciji privatne prakse iz članka 4. i 5. ovoga Pravilnika u kojima specijalizant obavlja specijalističko usavršavanje prema propisanom programu.
+O rješenju spornih pitanja između glavnog mentora, mentora i specijalizanta oko upisa specijalističkog usavršavanja i obveza u knjižicu o specijalističkom usavršavanju doktora medicine odlučuje voditelj programa specijalističkog usavršavanja iz obiteljske medicine.
+Obrazac knjižice o specijalističkom usavršavanju doktora medicine propisuje se pravilnikom o obrascu knjižice o specijalističkom usavršavanju doktora medicine.

@@ -1,0 +1,2 @@
+# Članak 38.
+Danom stupanja na snagu ovoga Pravilnika prestaje važiti Pravilnik o specijalističkom usavršavanju doktora medicine (»Narodne novine«, br. 111/09) i Pravilnik o specijalističkom usavršavanju zdravstvenih djelatnika (»Narodne novine«, br. 33/94, 53/98, 64/98, 97/99, 84/01 i 43/03) u dijelu koji se odnosi na program specijalizacije iz obiteljske medicine, osim za doktore medicine iz članka 36. ovoga Pravilnika.

@@ -1,0 +1,2 @@
+# Članak 14.
+Program specijalističkog usavršavanja iz obiteljske medicine doktor medicine stranac iz članka 13. ovoga Pravilnika obavlja prema programu specijalizacije iz članka 3. ovoga Pravilnika u zdravstvenim ustanovama i/ili trgovačkim društvima koje obavljaju zdravstvenu djelatnost i/ili ordinacijama privatne prakse iz članka 4. ovoga Pravilnika i zdravstvenim ustanovama i/ili trgovačkim društvima koja obavljaju zdravstvenu djelatnost i/ili ordinacijama privatne prakse iz članka 5. ovoga Pravilnika.

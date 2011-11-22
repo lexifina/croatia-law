@@ -1,0 +1,3 @@
+# Članak 33.
+Kvalitetu specijalističkog usavršavanja doktora medicine, odnosno njezinu provjeru, procjenu i unapređenje obavlja Nacionalno povjerenstvo za specijalističko usavršavanje doktora medicine iz članka 2. ovoga Pravilnika, prema strukturiranim obrascima i na način utvrđen u Povelji Europskog udruženja obiteljske medicine (»European Union of General Practitioners/Family Physicians«- UEMO), koja se objavljuje na web-stranici ministarstva.
+Nacionalno povjerenstvo za specijalističko usavršavanje doktora medicine predlaže ministru poduzimanje odgovarajućih mjera u slučaju negativnog nalaza provjere kvalitete specijalističkog usavršavanja doktora medicine iz obiteljske medicine.

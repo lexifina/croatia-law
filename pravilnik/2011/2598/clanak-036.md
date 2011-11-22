@@ -1,0 +1,2 @@
+# Članak 36.
+Doktori medicine koji su specijalističko usavršavanje započeli obavljati do dana stupanja na snagu ovoga Pravilnika nastavljaju obavljati specijalizaciju prema planu i programu određenom rješenjem o odobrenju specijalizacije, a specijalistički ispit polažu prema odredbama Pravilnika o specijalističkom usavršavanju zdravstvenih djelatnika (»Narodne novine«, br. 33/94, 53/98, 64/98, 97/99, 84/01 i 43/03), odnosno Pravilnika o specijalističkom usavršavanju doktora medicine («Narodne novine», br. 111/09).
