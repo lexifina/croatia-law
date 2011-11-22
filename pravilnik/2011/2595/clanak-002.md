@@ -1,0 +1,5 @@
+# Članak 2.
+Članak 39. mijenja se i glasi:
+»Obvezniku stručnog usavršavanja koji iz razloga: nezaposlenosti, neprekidnog bolovanja zbog iste dijagnoze bolesti dužeg od 42 dana, ostvarenog prava prema posebnom zakonu kojim su regulirane rodiljne i roditeljske potpore, rada u inozemstvu, minimalne plaće, neisplaćene plaće te neisplaćene plaće u cijelosti, nije bio u mogućnosti kontinuirano u petogodišnjem razdoblju ispunjavati obveze stručnog usavršavanja prema odredbama ovoga Pravilnika, razdoblje stručnog usavršavanja miruje za vrijeme trajanja tih razloga i produžuje se za to vrijeme, a o čemu se ne donosi rješenje.
+Obveznik stručnog usavršavanja dužan je dostaviti odabranom voditelju evidencije odgovarajuće dokaze o nemogućnosti ispunjavanja obveza stručnog usavršavanja zbog razloga iz stavka 1. ovoga članka, a voditelj evidencije dužan je voditi evidenciju o vremenu mirovanja i produženju razdoblja stručnog usavršavanja obveznika.
+Za vrijeme mirovanja razdoblja stručnog usavršavanja obvezniku stručnog usavršavanja miruju sve obveze stručnog usavršavanja.«
