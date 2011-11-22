@@ -1,0 +1,10 @@
+# Dopis Ustavnog suda Republike Hrvatske broj: U-VII-5301/2011 od 22. studenoga 2011.
+
+- Case: `U-VII-5301/2011`
+- Proceeding: Nadzor izbora
+- Decision: dopis
+- Decision date: `2011-11-22`
+- Official database page: <https://sljeme.usud.hr/usud/praksaw.nsf/fOdluka.xsp?action=openDocument&documentId=C12570D30061CE54C1257950004FA3AC>
+- Official database page SHA-256: `8a5875e8a71bd8305b7e30ab86dbf403b54acc58637dddbbdc30cb5e8f31729a`
+
+Metadata-only record: the decision concerns a named person (constitutional complaint and similar proceedings are listed as metadata only in this repository); use the official links above.
