@@ -1,0 +1,1 @@
+Na temelju odredbe članaka 17. i 18. Zakona o sustavu za državne uprave (»Narodne novine«, br. 190/2003, 199/2003 i 79/2007), u provođenju odredbe članka 4. stavak 4. Zakona o slobodnim zonama (»Narodne novine«, br. 44/1996, 127/2000, 92/2005 i 85/2008) ministar gospodarstva, rada i poduzetništva donosi

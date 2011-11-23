@@ -1,0 +1,4 @@
+# Članak 1.
+(1) Ovim Pravilnikom se uređuje korištenje automata za prodaju toplih i hladnih napitaka, snekova, te jednostavnih jela u originalnom pakiranju za potrebe zaposlenika kod korisnika zone koji obavlja gospodarsku djelatnost u slobodnoj zoni (u daljnjem tekstu: korisnik), a vezano uz provođenje odredbe članka 4. stavak 4. Zakona o slobodnim zonama.
+(2) Pravna ili fizička osoba može, iznimno obavljati djelatnost trgovine na malo putem automata prodajom toplih i hladnih napitaka, snekova, te jednostavnih jela u originalnom pakiranju samo zaposlenicima u poslovnom prostoru korisnika zone.
+(3) Način obavljanja djelatnosti iz stavka 1. ovog članka uređuje se ugovorom između koncesionara slobodne zone i korisnika iz stavka 1. ovog članka i predstavlja uvjet za primjenu stavka 1. ovog članka.

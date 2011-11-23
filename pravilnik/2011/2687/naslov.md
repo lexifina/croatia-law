@@ -1,0 +1,1 @@
+Pravilnik o korištenju automata za prodaju toplih i hladnih napitaka, snekova, te jednostavnih jela u originalnom pakiranju za potrebe zaposlenika kod korisnika zone koji obavlja gospodarsku djelatnost u slobodnoj zoni
