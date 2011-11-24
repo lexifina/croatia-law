@@ -1,0 +1,3 @@
+# Članak 12.
+(1) Provjeru kvalitete financijskog upravljanja i kontrola obavlja Središnja harmonizacijska jedinica Ministarstva financija s ciljem praćenja provedbe i prikupljanja informacija za poboljšanje metodologije i standarda rada.
+(2) Provjera kvalitete provodi se redovitom godišnjom i povremenom provjerom financijskog upravljanja i kontrola. Redovita godišnja provjera kvalitete provodi se na temelju godišnjih izvješća korisnika proračuna o financijskom upravljanju i kontrolama. Povremenu provjeru kvalitete financijskog upravljanja i kontrola provode zaposlenici Središnje harmonizacijske jedinice Ministarstva financija prateći provedbu planiranih aktivnosti na uspostavi i razvoju financijskog upravljanja i kontrola.
