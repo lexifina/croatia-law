@@ -1,0 +1,2 @@
+# Članak 8.
+Kada je posebnim zakonima za rješavanje upravnih sporova propisana nadležnost Upravnog suda Republike Hrvatske sukladno Zakonu o upravnim sporovima (»Narodne novine«, br. 53/91., 9/92. i 77/92.), za takve sporove od 1. siječnja 2012. nadležni su mjesno nadležni upravni sudovi, osim upravnih sporova za koje je Zakonom o upravnim sporovima (»Narodne novine«, br. 20/10.) i drugim posebnim zakonima propisano da rješava Visoki upravni sud Republike Hrvatske.
