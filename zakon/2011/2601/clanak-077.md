@@ -1,0 +1,5 @@
+# Članak 77.
+(1) Tijela državne uprave i druga tijela javne vlasti nadležna za poslove zaštite okoliša, gospodarstva, poljoprivrede, šumarstva, vodnoga gospodarstva, mora, prometa, poslove službene statistike te trgovačka društva Hrvatske šume d.o.o. i Hrvatska kontrola zračne plovidbe d.o.o koja prikupljaju i/ili posjeduju podatke o djelatnostima po sektorima, kojima se ispuštaju ili uklanjaju staklenički plinovi, potrebne za izradu izvješća iz članka 75. stavka 3. ovoga Zakona moraju te podatke dostaviti Agenciji.
+(2) Podaci iz stavka 1. ovoga članka dostavljaju se bez naknade sukladno rokovima propisanim uredbom iz članka 81. stavka 1. ovoga Zakona, u obimu i formatu koji Ministarstvo objavljuje na internetskim stranicama.
+(3) Podaci potrebni za izradu izvješća iz članka 75. stavka 3. podstavka 1. ovoga Zakona moraju se dostaviti Agenciji do 30. lipnja tekuće godine za prethodnu kalendarsku godinu.
+(4) Tijela iz stavka 1. ovoga članka dužna su na godišnjoj osnovi sudjelovati u svim fazama pripreme i dostave podataka, pregleda izvješća i reviziji koju provodi Tajništvo Okvirne konvencije sukladno uredbi iz članka 81. stavka 1. ovoga Zakona.

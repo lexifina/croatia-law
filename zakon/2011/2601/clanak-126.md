@@ -1,0 +1,2 @@
+# Članak 126.
+Inspekcijski nadzor koji se odnosi na provedbu ovoga Zakona i propisa donesenih na temelju njega kojima se propisuju granične vrijednosti u vezi sa sastavom proizvoda i/ili drugih značajki kvalitete proizvoda, način utvrđivanja kvalitete proizvoda, stavljanje proizvoda na domaće tržište, te način dokazivanja sukladnosti provodi gospodarski inspektor Državnog inspektorata na način propisan posebnim zakonom.

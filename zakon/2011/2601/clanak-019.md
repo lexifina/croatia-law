@@ -1,0 +1,7 @@
+## Procjenjivanje kvalitete zraka
+# Članak 19.
+(1) Procjenjivanje kvalitete zraka u zonama i aglomeracijama u smislu ovoga Zakona, provodi se za onečišćujuće tvari: sumporov dioksid, dušikov dioksid i dušikove okside, lebdeće čestice (PM10, PM2,5,), olovo, benzen, ugljikov monoksid, prizemni ozon, arsen, kadmij, živu, nikal i benzo(a)piren.
+(2) Procjenjivanje kvalitete zraka na teritoriju Republike Hrvatske osigurava Ministarstvo na temelju mjerila za procjenu koji su određeni pravilnikom iz članka 52. ovoga Zakona i provodi se najmanje jedanput u pet godina.
+(3) Minimalni broj mjernih mjesta za praćenje koncentracija sumporovog dioksida, dušikovog dioksida i dušikovih oksida, lebdećih čestica (PM10 i PM2,5), olova, benzena, ugljikovog monoksida, prizemnog ozona, arsena, kadmija, žive, nikla i benzo(a)pirena u zraku određuje se prema kriterijima određenim propisom iz članka 52. ovoga Zakona.
+(4) Na mjernim mjestima uzorkovanja za benzo(a)piren uzorkuju se i drugi policiklički aromatski ugljikovodici, a na najmanje jednom mjernom mjestu gdje se mjeri prizemni ozon mjere se i prekursori ozona.
+(5) Popis mjernih mjesta za praćenje koncentracija sumporovog dioksida, dušikovog dioksida i dušikovih oksida, lebdećih čestica (PM10 i PM2,5), olova, benzena, ugljikovog monoksida, prizemnog ozona i prekursora ozona, arsena, kadmija, žive, nikla, benzo(a)pirena i drugih policikličkih aromatskih ugljikovodika u zraku određuje Vlada uredbom.

@@ -1,0 +1,3 @@
+# Članak 133.
+(1) Inspektor će poznatom onečišćivaču rješenjem narediti uklanjanje utvrđenih nedostataka ili nepravilnosti u radu zbog kojih je došlo ili može doći do prekoračenja graničnih vrijednosti (GV) za zaštitu zdravlja ljudi u određenom roku.
+(2) Ako onečišćivač ne postupi po rješenju inspektora iz stavka 1. ovoga članka, prisilit će se na izvršenje novčanom kaznom iz članka 141. stavka 1. ovoga Zakona. Ako onečišćivač iz stavka 1. ovoga članka i nakon izrečene novčane kazne ne izvrši rješenje, inspektor će zabraniti uporabu postrojenja, odnosno uređaja koji su prouzročili prekoračenja granične vrijednosti (GV) za zaštitu zdravlja ljudi.

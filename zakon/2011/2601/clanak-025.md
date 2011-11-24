@@ -1,0 +1,4 @@
+# Članak 25.
+(1) Granične vrijednosti (GV) i ciljne vrijednosti za pojedine onečišćujuće tvari u zraku te dugoročne ciljeve i ciljne vrijednosti za prizemni ozon u zraku propisuje Vlada uredbom.
+(2) Propisom iz stavka 1. ovoga članka, ovisno o svojstvima onečišćujuće tvari, propisuju se i gornji i donji pragovi procjene, granice tolerancije (GT), ciljne vrijednosti, osnovne sastavnice navedenih vrijednosti, pokazatelj prosječne izloženosti, ciljano smanjenje izloženosti na nacionalnoj razini, koncentracija izloženosti, kritične razine, prag upozorenja, prag obavješćivanja i posebne mjere zaštite zdravlja ljudi koje se pri njihovoj pojavi poduzimaju te rokovi za postupno smanjivanje granica tolerancije i za postizanje ciljnih vrijednosti za prizemni ozon.
+(3) Propisom iz stavka 1. ovoga članka propisuju se granične vrijednosti (GV) za zaštitu zdravlja ljudi, kvalitetu življenja, zaštitu vegetacije i ekosustava.

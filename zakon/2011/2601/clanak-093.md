@@ -1,0 +1,9 @@
+# Članak 93.
+(1) Za potrebe provedbe praćenja i izvješćivanja o emisijama stakleničkih plinova iz zrakoplova i o podacima o tonskim kilometrima iz zrakoplova operator zrakoplova je dužan izraditi plan praćenja i izvješćivanja o emisijama stakleničkih plinova iz zrakoplova i plan praćenja i izvješćivanja o podacima o tonskim kilometrima iz zrakoplova i za njih ishoditi odobrenje Ministarstva.
+(2) Operator zrakoplova podnosi Ministarstvu plan praćenja i izvješćivanja o podacima o tonskim kilometrima iz zrakoplova i plan praćenja i izvješćivanja o emisijama stakleničkih plinova na hrvatskom ili engleskom jeziku na odobrenje najkasnije 4 mjeseca prije početka razdoblja izvješćivanja.
+(3) Iznimno od stavka 2. ovoga članka, za razdoblje trgovanja od 2014. do 2020. godine operator zrakoplova koji obavlja dodatne zrakoplovne djelatnosti podnosi Ministarstvu plan praćenja i izvješćivanja o emisijama stakleničkih plinova na hrvatskom ili engleskom jeziku na odobrenje najkasnije do 30. rujna 2012.
+(4) Dodatne zrakoplovne djelatnosti iz stavka 3. ovoga članka odnose se na letove unutar Republike Hrvatske, odlazne letove iz zračne luke na teritoriju Republike Hrvatske prema državama koje nisu članice Europskog gospodarskog prostora, te dolazne letove u zračnu luku na teritoriju Republike Hrvatske iz država koje nisu članice Europskog gospodarskog prostora.
+(5) Ministarstvo dostavlja planove praćenja i izvješćivanja iz stavka 1. i 3. ovoga članka Agenciji na mišljenje.
+(6) Odobrenje iz stavka 2. i 3. ovoga članka izdaje se na temelju pribavljenog mišljenja Agencije da je plan praćenja i izvješćivanja izrađen u skladu s pravilnikom iz članka 108. stavka 4. ovoga Zakona.
+(7) Odobrenje iz stavka 2. i 3. ovoga članka je upravni akt.
+(8) Protiv odobrenja iz stavka 2. i 3. ovoga članka nije dopuštena žalba.

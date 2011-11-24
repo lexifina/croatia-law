@@ -1,0 +1,5 @@
+# Članak 72.
+(1) Radnik koji obavlja djelatnost prikupljanja, provjere propuštanja, ugradnje i održavanja ili servisiranja rashladnih i klimatizacijskih uređaja i protupožarnih uređaja i aparata za gašenje požara dužan je položiti stručni ispit za obavljanje navedenih djelatnosti te upotpunjavati i usavršavati svoje znanje.
+(2) Radnik koji prikuplja određene fluorirane stakleničke plinove iz visokonaponskih sklopnih aparata kod njihovih vlasnika i/ili korisnika dužan je položiti stručni ispit za obavljanje navedenih poslova te upotpunjavati i usavršavati svoje znanje.
+(3) Radnik koji prikuplja otapala na bazi fluoriranih stakleničkih plinova kod vlasnika i/ili korisnika tih otapala dužan je položiti stručni ispit za obavljanje navedenih poslova te upotpunjavati i usavršavati svoje znanje.
+(4) Radnik koji prikuplja kontrolirane tvari ili fluorirane stakleničke plinove iz klimatizacijskih sustava u motornim vozilima kod pravnih ili fizičkih osoba - obrtnika koji se bave djelatnošću servisiranja motornih vozila dužan je položiti stručni ispit za obavljanje navedenih poslova te upotpunjavati i usavršavati svoje znanje.

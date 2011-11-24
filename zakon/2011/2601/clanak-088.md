@@ -1,0 +1,9 @@
+# Članak 88.
+(1) U slučaju iz članka 87. stavka 1. ovoga Zakona operater postrojenja je dužan izraditi izvješće o emisijama sukladno odredbama iz članka 108. i 109. ovoga Zakona za razdoblje od početka godine do dana izvršnosti rješenja iz članka 87. stavka 2. ovoga Zakona.
+(2) Verificirano izvješće iz stavka 1. ovoga članka operater postrojenja je dužan dostaviti Agenciji u roku od dva mjeseca od dana izvršnosti rješenja iz članka 87. stavka 2. ovoga Zakona.
+(3) Operater postrojenja dužan je predati količinu emisijskih jedinica u Registru Unije u iznosu koji odgovara ukupnoj emisiji stakleničkih plinova utvrđenih u izvješću iz stavka 2. ovoga članka u roku od 15 dana od dostave tog izvješća.
+(4) Emisijske jedinice raspodjeljene operateru postrojenja iz članka 87. stavka 1. ovoga Zakona važe do kraja razdoblja trgovanja iz članka 89. stavka 2. ovoga Zakona.
+(5) Operateru postrojenja se ne dodjeljuju emisijske jedinice od godine koja slijedi godinu u kojoj je postrojenje prestalo s radom.
+(6) Operateru postrojenju iz članka 87. stavka 1. ovoga Zakona emisijske jedinice se neće dodjeljivati za naredne godine razdoblja trgovanja ako Ministarstvu ne podnese dokaz da će to postrojenje nastaviti s radom u roku od šest mjeseci od dana prestanka rada postrojenja.
+(7) Iznimno od stavka 6. ovoga članka, rok za dostavu dokaza o nastavku rada je 18 mjeseci od dana prestanka rada postrojenja ako operater dokaže da postrojenje ne može nastaviti s radom u roku od 6 mjeseci od dana prestanka rada postrojenja zbog iznimnih i nepredvidivih okolnosti koje se ne bi mogle izbjeći niti uz svu dužnu pažnju i koje su izvan kontrole operatera postrojenja u pitanju, a osobito prirodne nepogode, rat, ratne prijetnje, terorizam, revolucija, neredi, sabotaža i vandalizam.
+(8) Za operatera postrojenja čiji rad ili ponovno započinjanje s radom tehnički nisu mogući, smatrat će se da je prestao s obavljanjem djelatnosti.

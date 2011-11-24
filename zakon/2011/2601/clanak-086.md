@@ -1,0 +1,9 @@
+# Članak 86.
+(1) Operater postrojenja dužan je obavijestiti Ministarstvo o planiranim promjenama tehničko-tehnoloških karakteristika postrojenja, uključujući promjenu vrste goriva, sirovine ili drugih tvari koje se koriste u postrojenju, povećanje ili smanjenje toplinske snage na ulazu, odnosno kapaciteta postrojenja te o planiranoj promjeni osobe operatera postrojenja.
+(2) Ako Ministarstvo na temelju obavijesti iz stavka 1. ovoga članka utvrdi da planirana promjena postrojenja zahtjeva izmjenu sadržaja dozvole iz članka 82. ovoga Zakona i/ili plana praćenja emisija stakleničkih plinova iz postrojenja, u roku od 30 dana od primitka obavijesti pozvat će operatera postrojenja da u određenom roku podnese odgovarajući zahtjev.
+(3) Ako operater postrojenja ne primi poziv iz stavka 2. ovoga članka u roku od 30 dana nakon što Ministarstvo primi obavijest iz stavka 1. ovoga članka smatra se da planirana promjena postrojenja ne zahtjeva izmjenu sadržaja dozvole iz članka 82. ovoga Zakona i/ili plana praćenja emisija stakleničkih plinova iz postrojenja i može nastaviti s planiranom promjenom postrojenja.
+(4) Uz zahtjev iz stavka 2. ovoga članka prilaže se opis izmjena te izmijenjen plan praćenja emisija stakleničkih plinova iz postrojenja izrađen sukladno pravilniku iz članka 108. ovoga Zakona.
+(5) Na postupak po zahtjevu iz stavka 2. ovoga članka primjenjuju se odredbe članka 84. ovoga Zakona.
+(6) Ako operater postrojenja ne podnese zahtjev iz stavka 2. ovoga članka smatra se da je odustao od planirane promjene postrojenja.
+(7) U slučaju promjene osobe operatera postrojenja, prava i obveze koje proizlaze iz dozvole iz članka 82. ovoga Zakona prenose se na pravnog slijednika.
+(8) Ministarstvo svakih pet godina od dana izvršnosti dozvole iz članka 82. ovoga Zakona pregledava dozvole i ako ocijeni potrebnim, po službenoj dužnosti donosi rješenje kojim mijenja sadržaj dozvole.

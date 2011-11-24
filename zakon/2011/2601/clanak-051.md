@@ -1,0 +1,3 @@
+# Članak 51.
+(1) Godišnje izvješće o praćenju kvalitete zraka na teritoriju Republike Hrvatske izrađuje Agencija i dostavlja Ministarstvu do 31. srpnja tekuće godine za proteklu kalendarsku godinu.
+(2) Izvješće iz stavka 1. ovoga članka izrađuje se na način propisan pravilnikom iz članka 52. ovoga Zakona i sadrži osobito: pregled razina onečišćenosti koje prekoračuju granične vrijednosti, ciljne vrijednosti, dugoročne ciljeve, pragove obavješćivanja i pragove upozorenja, za odgovarajuće vrijeme usrednjavanja i sve potrebne podatke određene člankom 50. stavkom 2. i 4. ovoga Zakona. Ti se podaci povezuju sa sažetom ocjenom učinaka tih prekoračenja na zdravlje ljudi i vegetaciju.

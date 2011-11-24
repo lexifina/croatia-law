@@ -1,0 +1,3 @@
+# Članak 141.
+(1) Ako nadzirana osoba ne izvrši rješenjem naređenu mjeru iz članka 132. stavka 1. i 2., članka 133. stavka 1., članka 135. stavka 1., 2. i 3., članka 137. stavka 1. i članka 138. stavka 6. ovoga Zakona, inspektor će nadziranu osobu prisiliti na izvršenje novčanom kaznom u iznosu od 30.000,00 kuna za pravnu osobu i fizičku osobu - obrtnika.
+(2) Novčani iznos prisilne mjere iz stavka 1. ovoga članka uplaćuje se u korist državnog proračuna Republike Hrvatske u roku od trideset dana od dana utvrđenja da nije postupljeno prema naređenom u rješenju. Ako nadzirana osoba istekom roka od trideset dana ne dostavi inspektoru dokaz o uplati novčane kazne, naplati će se pristupiti prisilnim putem bez donošenja posebnog akta o izvršenju.

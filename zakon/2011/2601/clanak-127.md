@@ -1,0 +1,2 @@
+# Članak 127.
+U provedbi inspekcijskog nadzora gospodarski inspektor će rješenjem zabraniti stavljanje proizvoda na domaće tržište, odnosno zabraniti prodaju proizvoda koji nisu označeni ili su nepotpuno označeni, ili koji u svom sastavu sadrže tvari iznad propisanih graničnih vrijednosti, ili ako kvaliteta proizvoda nije utvrđena na propisani način, ili dokazivanje sukladnosti proizvoda nije obavljeno ili nije na propisan način obavljeno, ili proizvod sadrži tvari koje nisu dozvoljene.

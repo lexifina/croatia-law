@@ -1,0 +1,3 @@
+# Članak 39.
+(1) Granične vrijednosti emisija onečišćujućih tvari u zrak iz nepokretnih izvora iz članka 9. stavka 2. ovoga Zakona, praćenje i vrednovanje emisija, upis podataka o nepokretnim izvorima u kojima se koriste organska otapala ili proizvodi koji sadrže hlapive organske spojeve u registar Ministarstva, način smanjivanja emisija onečišćujućih tvari u zrak, način i rok dostave izvješća o emisijama Agenciji, način obavješćivanja javnosti i način dostave podataka nadležnim tijelima Europske unije propisuje Vlada uredbom.
+(2) U uredbi iz stavka 1. ovoga članka Vlada može odrediti za postojeće izvore razinu dopuštenog prekoračenja propisanih graničnih vrijednosti za određeno razdoblje.

@@ -1,0 +1,3 @@
+# Članak 81.
+(1) Popis stakleničkih plinova, način i metodologija praćenja emisija stakleničkih plinova, podatke o emisijama stakleničkih plinova, rokove za izradu i dostavu izvješća iz članka 75. ovoga Zakona Tajništvu Okvirne konvencije i Europskoj komisiji, način izrade inventara (izračuna) emisije stakleničkih plinova, način verificiranja izvješća i način i rokove dostavljanja podataka Agenciji propisuje Vlada uredbom.
+(2) Način praćenja i verificiranja emisija stakleničkih plinova u životnom vijeku tekućeg naftnog goriva stavljenog na domaće tržište, način i prijelazne rokove ispunjenja obveze smanjenja stakleničkih plinova u životnom vijeku tekućeg naftnog goriva stavljenog na domaće tržište propisuje se uredbom iz članka 41. ovoga Zakona.

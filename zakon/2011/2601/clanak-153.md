@@ -1,0 +1,4 @@
+# Članak 153.
+(1) Operater postrojenja koji obavlja novu djelatnost kojom se ispuštaju staklenički plinovi, odnosno obavlja djelatnost kojom se ispuštaju novi staklenički plinovi prema uredbi iz članka 114. ovoga Zakona, dužan je podnijeti zahtjev za izdavanje dozvole za emisije stakleničkih plinova u roku od šezdeset dana od stupanja na snagu te uredbe.
+(2) Operater postrojenja koji je ishodio dozvolu za emisije stakleničkih plinova sukladno odredbi stavka 1. ovoga članka smatra se operaterom postojećeg postrojenja iz članka 90. stavka 1. ovoga Zakona do 31. prosinca 2012.
+(3) Ministarstvo će po službenoj dužnosti dopuniti dozvole za emisije stakleničkih plinova izdane na temelju članka 47.a Zakona o zaštiti zraka (»Narodne novine«, br. 178/04. i 60/08.) sukladno članku 85. stavku 1. podstavku 5. ovoga Zakona do 31. prosinca 2012.

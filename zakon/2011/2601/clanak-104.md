@@ -1,0 +1,4 @@
+# Članak 104.
+(1) Na temelju rješenja iz članka 91. stavka 6. ovoga Zakona, Agencija izdaje operateru postrojenja količinu emisijskih jedinica za svaku godinu razdoblja trgovanja koje se dodjeljuju besplatno, razmjerni dio emisijskih jedinica koje mu pripadaju za pojedinu kalendarsku godinu najkasnije do 28. veljače u tekućoj godini.
+(2) Na temelju rješenja iz članka 95. stavka 3. i članka 97. stavka 1. ovoga Zakona, Agencija izdaje operatoru zrakoplova količinu emisijskih jedinica za svaku godinu razdoblja trgovanja koje se dodjeljuju besplatno, razmjerni dio emisijskih jedinica koje mu pripadaju za pojedinu kalendarsku godinu najkasnije do 28. veljače u tekućoj godini.
+(3) Iznimno od stavka 1. ovoga članka Agencija izdaje razmjerni dio emisijskih jedinica koje mu pripadaju za pojedinu kalendarsku godinu operateru postrojenja u roku od 8 dana od primitka rješenja iz članka 91. stavka 9. ovoga Zakona.

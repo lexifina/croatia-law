@@ -1,0 +1,4 @@
+# Članak 21.
+(1) Procjenjivanje razine onečišćenosti zraka s obzirom na prizemni ozon provodi se u zonama i aglomeracijama u kojima razina onečišćenosti za prizemni ozon prekoračuje dugoročne ciljeve tijekom bilo koje od prethodnih pet godina, te se uspostavlja stalno mjerno mjesto za praćenje prizemnog ozona.
+(2) Ako su podaci dostupni za razdoblje kraće od pet godina, za potrebe utvrđivanja mogućeg prekoračenja dugoročnih ciljeva iz stavka 1. ovoga članka tijekom tih pet godina, mogu se kombinirati rezultati dobiveni kratkotrajnim mjernim kampanjama, provedenim u vrijeme i na mjestu gdje su razine koncentracija bile najviše, s podacima o emisijama onečišćujućih tvari iz Registra onečišćavanja okoliša i rezultatima modeliranja.
+(3) Mjerila procjenjivanja, mjerna mjesta, program mjerenja, ciljevi kvalitete i referentne metode mjerenja za prizemni ozon i prekursore prizemnog ozona primjenjuju se sukladno pravilniku iz članka 52. ovoga Zakona.

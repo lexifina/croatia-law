@@ -1,0 +1,3 @@
+# Članak 59.
+(1) Pravna osoba koja je dobila dozvolu Ministarstva dužna je poslove praćenja kvalitete zraka, emisija u zrak i godišnju provjeru ispravnosti mjernog sustava za kontinuirano mjerenje emisija onečišćujućih tvari u zrak iz nepokretnih izvora obavljati kvalitetno i odgovorno, u skladu s pravilima struke, te je odgovorna za istinitost i stručnu utemeljenost podataka i obavljenih poslova.
+(2) Pravna osoba koja je dobila dozvolu Ministarstva mora osigurati nepristranost svojih radnika i koji ne smiju biti izloženi poslovnim, financijskim i drugim pritiscima koji mogu utjecati na njihovu tehničku prosudbu.

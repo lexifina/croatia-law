@@ -1,0 +1,3 @@
+## I. OPĆE ODREDBE
+# Članak 1.
+Ovim se Zakonom određuju nadležnost i odgovornost za zaštitu zraka i ozonskog sloja, ublažavanje klimatskih promjena i prilagodbu klimatskim promjenama, planski dokumenti, praćenje i procjenjivanje kvalitete zraka, mjere za sprječavanje i smanjivanje onečišćavanja zraka, izvještavanje o kvaliteti zraka i razmjeni podataka, djelatnost praćenja kvalitete zraka i emisija u zrak, tvari koje oštećuju ozonski sloj i fluorirani staklenički plinovi, praćenje emisija stakleničkih plinova i mjere za ublažavanje i prilagodbu klimatskim promjenama,, informacijski sustav zaštite zraka, financiranje zaštite zraka, ozonskog sloja, ublažavanja klimatskih promjena i prilagodbe klimatskim promjenama, upravni i inspekcijski nadzor.

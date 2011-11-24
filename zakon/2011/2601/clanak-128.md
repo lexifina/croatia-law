@@ -1,0 +1,3 @@
+# Članak 128.
+(1) Inspekcijski nadzor koji se odnosi na provedbu ovoga Zakona i propisa donesenih na temelju njega kojima se propisuju granične vrijednosti u vezi sa sastavom brodskih goriva i/ili drugih značajki kvalitete brodskih goriva, način utvrđivanja kvalitete brodskih goriva te način dokazivanja sukladnosti brodskih goriva koja se koriste na plovnim objektima provodi inspektor sigurnosti plovidbe ministarstva nadležnog za more.
+(2) U provedbi inspekcijskog nadzora inspektor sigurnosti plovidbe će rješenjem zabraniti uporabu brodskog goriva na plovnom objektu ako gorivo sadrži tvari iznad propisanih graničnih vrijednosti.

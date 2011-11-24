@@ -1,0 +1,3 @@
+# Članak 41.
+(1) Granične vrijednosti sastavnica i/ili drugih značajki kvalitete proizvoda, način utvrđivanja i praćenja kvalitete proizvoda, uvjete za rad laboratorija za uzorkovanje i laboratorijsku analizu kvalitete proizvoda, način dokazivanja sukladnosti, naziv i označivanje proizvoda, način i rok dostave izvješća o kvaliteti proizvoda Agenciji i način dostave podataka nadležnim tijelima Europske unije propisuje Vlada uredbom.
+(2) U uredbi iz stavka 1. ovoga članka Vlada može odrediti za postojeće proizvode razinu dopuštenog prekoračenja propisanih graničnih vrijednosti sastavnica i/ili drugih značajki kvalitete proizvoda za određeno razdoblje.

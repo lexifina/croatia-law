@@ -1,0 +1,6 @@
+# Članak 22.
+(1) Procjenjivanje razine onečišćenosti zraka s obzirom na arsen, kadmij, živu, nikal i benzo(a)piren provodi se u zonama i aglomeracijama u kojima su prekoračene ciljne vrijednosti tijekom bilo koje od prethodnih pet godina, te se uspostavlja stalno mjerno mjesto za praćenje ovih tvari.
+(2) U zonama i aglomeracijama u kojima razine onečišćenosti zraka s obzirom na tvari iz stavka 1. ovoga članka prekoračuju gornji prag procjene procjenjivanje razine onečišćenosti provodi se mjerenjem na stalnom mjernom mjestu.
+(3) U zonama i aglomeracijama u kojima su razine onečišćenosti zraka s obzirom na tvari iz stavka 1. ovoga članka između gornjeg i donjeg praga procjene za procjenjivanje razine onečišćenosti zraka primjenjuje se kombinacija mjerenja, uključujući indikativna mjerenja i tehnika modeliranja.
+(4) U zonama i aglomeracijama u kojima su razine onečišćenosti zraka s obzirom na tvari iz stavka 1. ovoga članka ispod donjeg praga procjene za procjenjivanje razine onečišćenosti zraka primjenjuje se tehnika modeliranja ili tehnika objektivne procjene.
+(5) Mjerila procjenjivanja, mjerna mjesta, program mjerenja, ciljevi kvalitete i referentne metode mjerenja za tvari iz stavka 1. ovoga članka primjenjuju se sukladno pravilniku iz članka 52. ovoga Zakona.

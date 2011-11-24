@@ -1,0 +1,3 @@
+# Članak 71.
+(1) Pravna i fizička osoba - obrtnik koja obavlja djelatnost servisiranja rashladnih i klimatizacijskih uređaja i opreme, dizalica topline, nepokretnih protupožarnih sustava i aparata za gašenje požara koji sadrže kontrolirane tvari ili fluorirane stakleničke plinove ili o njima ovise mora voditi očevidnik o preuzetim uporabljenim količinama tih tvari, postupanju s tim tvarima i o količinama unesenih novih ili oporabljenih kontroliranih tvari i fluoriranih stakleničkih plinova.
+(2) Osoba iz stavka 1. ovoga članka dužna je Agenciji dostaviti podatke iz očevidnika do 31. siječnja tekuće godine za prethodnu kalendarsku godinu.
