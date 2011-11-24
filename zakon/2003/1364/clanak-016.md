@@ -1,3 +1,4 @@
 # Članak 16.
-Evidencije iz članka 14. ovoga Zakona dostavljaju se Agenciji za zaštitu osobnih podataka i objedinjavaju se u Središnjem registru kojeg vodi Agencija za zaštitu osobnih podataka.
+Voditelji zbirki osobnih podataka dužni su evidencije iz članka 14. ovoga Zakona dostaviti Agenciji za zaštitu osobnih podataka najkasnije u roku od 15 dana od dana uspostave zbirke osobnih podataka. Evidencije se objedinjavaju u središnjem registru koji vodi Agencija za zaštitu osobnih podataka.
+Odredbom članka 11. Zakona o izmjenama i dopunama Zakona o zaštiti osobnih podataka (»Narodne novine«, br. 130/11.) stupio na snagu 24. studenoga 2011., stavak 1. je izmijenjen.
 U Središnjem registru ne moraju se objedinjavati evidencije o zbirkama osobnih podataka koje vode nadležna državna tijela u okviru aktivnosti obrade osobnih podataka radi državne sigurnosti, obrane i suzbijanja pojava koje su Strategijom nacionalne sigurnosti Republike Hrvatske određene kao sigurnosni rizik (korupcija, organizirani kriminal, terorizam).

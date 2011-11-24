@@ -1,0 +1,3 @@
+# Članak 16.a.
+Voditelj zbirki osobnih podataka koji zapošljavaju do pet zaposlenika i voditelji zbirki osobnih podataka koji su imenovali službenika za zaštitu osobnih podataka i o tome izvijestili Agenciju za zaštitu osobnih podataka, nisu obvezni u Središnji registar iz članka 16. stavka 1. ovoga Zakona dostaviti evidencije iz članka 14. ovoga Zakona za zbirke osobnih podataka koje vode na temelju propisa iz područja radnog prava, ako se podaci iz zbirke osobnih podataka ne iznose iz Republike Hrvatske.
+Odredbom članka 4. Zakona o izmjenama i dopunama Zakona o zaštiti osobnih podataka (»Narodne novine«, br. 41/08.) stupio na snagu 17. travnja 2008., iza članka 16. dodan je članak 16.a.

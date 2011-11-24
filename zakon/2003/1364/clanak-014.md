@@ -9,6 +9,6 @@ Voditelj zbirke osobnih podataka za svaku zbirku osobnih podataka koju vodi, usp
 6. vrste podataka sadržanih u zbirci podataka,
 7. način prikupljanja i čuvanja podataka,
 8. vremensko razdoblje čuvanja i uporabe podataka,
-9. osobno ime, odnosno naziv korisnika zbirke, njegovu adresu, odnosno sjedište,
-10. naznaku unošenja, odnosno iznošenja podataka iz Republike Hrvatske s naznakom države, odnosno međunarodne organizacije i inozemnog korisnika osobnih podataka te svrhe za to unošenje, odnosno iznošenje propisano međunarodnim ugovorom, zakonom ili drugim propisom, odnosno pisanim pristankom osobe na koju se podaci odnose,
+9. osobno ime, odnosno naziv primatelja zbirke, njegovu adresu, odnosno sjedište,
+10. naznaku unošenja, odnosno iznošenja podataka iz Republike Hrvatske s naznakom države, odnosno međunarodne organizacije i inozemnog primatelja osobnih podataka te svrhe za to unošenje, odnosno iznošenje propisano međunarodnim ugovorom, zakonom ili drugim propisom, odnosno pisanim pristankom osobe na koju se podaci odnose,
 11. naznaku poduzetih mjera zaštite osobnih podataka.
