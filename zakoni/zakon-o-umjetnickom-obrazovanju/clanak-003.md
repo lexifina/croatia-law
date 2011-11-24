@@ -1,0 +1,4 @@
+# Članak 3.
+(1) Umjetničko obrazovanje dostupno je svakome pod jednakim uvjetima bez obzira na rasu, boju kože, spol, jezik, vjeru, političko ili drugo uvjerenje, nacionalno ili socijalno podrijetlo, imovinu, rođenje, društveni položaj, invalidnost, seksualnu orijentaciju i dob, prema njegovim sposobnostima, a u skladu s ovim Zakonom.
+(2) Djeca državljana država članica Europske unije imaju pravo na pristup umjetničkom obrazovanju pod istim uvjetima kao i hrvatski državljani, te se upisuju u ustanove za umjetničko obrazovanje u Republici Hrvatskoj pod istim uvjetima kao i hrvatski državljani.
+(3) Djeca državljana Republike Hrvatske koja su se obrazovala u nekoj državi članici Europske unije, a nastavljaju obrazovanje u Republici Hrvatskoj, imaju pravo na pristup umjetničkom obrazovanju pod istim uvjetima kao i hrvatski državljani koji se obrazuju u ustanovama za umjetničko obrazovanje u Republici Hrvatskoj.

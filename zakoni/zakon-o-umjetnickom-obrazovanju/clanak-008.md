@@ -1,0 +1,10 @@
+# Članak 8.
+(1) Pravo upisa u prvi razred osnovnoga glazbenog obrazovanja imaju djeca koja su u pravilu navršila sedam godina života i zadovoljila kriterije propisane kurikulumom umjetničkog obrazovanja.
+(2) Pravo upisa u prvi razred osnovnog plesnog obrazovanja imaju djeca koja su u pravilu navršila devet godina života i zadovoljila kriterije propisane kurikulumom umjetničkog obrazovanja.
+(3) U prvi pripremni razred srednje glazbene škole upisuju se učenici do navršenih 15 godina života, a u skladu s kriterijima propisanima kurikulumom umjetničkog obrazovanja.
+(4) U prvi pripremni razred srednje plesne škole upisuju se učenici do navršenih 17 godina života, a u skladu s kriterijima propisanima kurikulumom umjetničkog obrazovanja.
+(5) Iznimno od stavka 3. ovoga članka, u prvi pripremni razred srednje glazbene škole za zanimanja glazbenik fagotist, glazbenik tubist i glazbenik kontrabasist mogu se upisati učenici do navršenih 18 godina života, a za zanimanje glazbenica pjevačica učenice do navršenih 20 godina života i glazbenik pjevač do navršene 22 godine života.
+(6) Pravo upisa u prvi razred srednje umjetničke škole imaju učenici nakon završenog osnovnog glazbenog ili plesnog obrazovanja ili pripremnog glazbenog ili plesnog obrazovanja za srednju školu te koji su zadovoljili kriterije propisane kurikulumom umjetničkog obrazovanja i položili prijamni ispit.
+(7) Učenici upisuju prvi razred srednje umjetničke škole do navršenih 17 godina života, a najkasnije do navršenih 18 godina života.
+(8) Iznimno od stavka 7. ovoga članka, u prvi razred srednje glazbene škole za zanimanja glazbenik fagotist, glazbenik tubist i glazbenik kontrabasist mogu se upisati učenici do navršenih 20 godina života, a za zanimanje glazbenica pjevačica učenice do navršenih 22 godina života i glazbenik pjevač do navršene 24 godine života.
+(9) Iznimno, na temelju pokazane iznimne darovitosti, uz suglasnost učiteljskog/ nastavničkog vijeća, može se dopustiti upis u pripremni program srednje škole, odnosno prvi razred srednje glazbene ili plesne škole i učenicima koji ne ispunjavaju uvjete iz stavka 1. do 8. ovoga članka.
