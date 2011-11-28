@@ -1,0 +1,1 @@
+Odluka o izmjenama i dopuni Odluke o provođenju međunarodnih mjera ograničavanja utvrđenih Rezolucijom Vijeća sigurnosti Ujedinjenih naroda 1973 (2011) te odlukama Vijeća Europske unije 2011/137/ZVSP i 2011/178/ZVSP u svezi sa situacijom u Velikoj Socijalističkoj Narodnoj Libijskoj Arapskoj Džamahiriji
