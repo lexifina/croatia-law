@@ -1,0 +1,4 @@
+# Članak 1.
+U Pravilniku o specijalističkom usavršavanju doktora medicine (»Narodne novine«, br. 100/11) u članku 11. stavci 4. i 5. mijenjaju se i glase:
+»Iznimno od stavka 3. ovoga članka, ako doktor medicine otkaže ugovor o radu u zdravstvenoj ustanovi čiji je osnivač Republika Hrvatska, županija, odnosno grad, i uz pribavljenu suglasnost ministra te sklopljeni ugovor zdravstvenih ustanova o međusobnim pravima i obvezama, zasnuje radni odnos u drugoj zdravstvenoj ustanovi čiji je osnivač Republika Hrvatska, županija, odnosno grad, obveza rada iz stavka 2. ovoga članka nastavlja se u zdravstvenoj ustanovi u kojoj je doktor medicine zasnovao radni odnos.
+Naknadu štete sukladno ugovoru zdravstvene ustanove i specijalizanta iz stavka 1. ovoga članka, odnosno ugovoru zdravstvenih ustanova iz stavka 4. ovoga članka snosi pravna, odnosno fizička osoba u kojoj se specijalizant ili specijalist zaposli za vrijeme trajanja obveze iz stavka 2. ovoga članka.«
