@@ -1,0 +1,1 @@
+Na temelju članka 50. stavka 7. Zakona o izmjenama i dopunama Zakona o poljoprivrednom zemljištu (»Narodne novine«, br. 63/11), ministar poljoprivrede, ribarstva i ruralnog razvoja uz prethodnu suglasnost ministra nadležnog za vodno gospodarstvo, klasa: 011-02/11-01/12; urbroj: 538-10-2/0275-11-5 od 27. listopada 2011. godine, donosi
