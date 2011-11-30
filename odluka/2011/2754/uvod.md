@@ -1,0 +1,1 @@
+Na temelju članaka 8. i 9. Pravilnika o Državnoj nagradi za volontiranje (»Narodne novine« br. 106/07), a u svezi s člankom 24. stavak 5. Zakona o volonterstvu (»Narodne novine br. 58/07) Nacionalni odbor za razvoj volonterstva, na svojoj 11. sjednici održanoj 25. studenoga 2011. godine, donio je
