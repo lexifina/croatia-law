@@ -1,0 +1,1 @@
+Na temelju članka 43. stavka 10. Zakona o odgoju i obrazovanju u osnovnoj i srednjoj školi (»Narodne novine«, broj 87/08, 86/09, 92/10 - ispr. i 90/1 1) ministar znanosti, obrazovanja i športa Republike Hrvatske
