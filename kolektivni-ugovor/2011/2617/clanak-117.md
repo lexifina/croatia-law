@@ -1,0 +1,3 @@
+# Članak 117.
+Glavnim sindikalnim povjerenicima u UŠP i Direkciji Hrvatskih šuma d.o.o. dodaje se na startnu osnovicu dodatnih 300 bodova ako povjerenik zastupa najmanje 200 članova sindikata.
+Pravo iz prethodnog stavka ovog članka ne ostvaruju sindikalni povjerenici koji ostvaruju pravo iz članka 108. stavak 2. ovog Ugovora, kao i sindikalni povjerenici koji su ujedno i članovi Glavnog radničkog vijeća, te ostvaruju pravo na naknadu za rad u Glavnom radničkom vijeću sukladno Sporazumu o sastavu, ovlaštenjima te uvjetima za rad Glavnog radničkog vijeća HŠ d.o.o. ili naknadu iz stavka 1. ovog članka ukoliko je ista za njih povoljnija.

@@ -1,0 +1,3 @@
+## Zaštita dostojanstva radnika
+# Članak 49.
+Poslodavac je dužan na području rada i radnih uvjeta, uključujući kriterije za odabir i uvjete za napredovanje, profesionalno usmjeravanje, stručno osposobljavanje i usavršavanje te prekvalifikaciju, zaštiti radnika od izravne ili neizravne diskriminacije na osnovi rase ili etničke pripadnosti ili boje kože, spola, jezika, vjere, političkog ili drugog uvjerenja, nacionalnog ili socijalnog podrijetla, imovnog stanja, članstva u sindikatu, obrazovanja, društvenog položaja, bračnog ili obiteljskog statusa, dobi, zdravstvenog stanja, invaliditeta, genetskog naslijeđa, rodnog identiteta, izražavanja ili spolne orijentacije.
