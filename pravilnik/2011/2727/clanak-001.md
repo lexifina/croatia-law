@@ -1,0 +1,16 @@
+# Članak 1.
+Članak 12. Pravilnika o načinu raspodjele i obračunu troškova za isporučenu toplinsku energiju (»Narodne novine« br. 139/08 i 18/09) mijenja se i glasi:
+»(1) U slučaju da na zajedničkom mjerilu toplinske energije svi vlasnici posebnih dijelova objekta koji predstavljaju samostalnu uporabnu cjelinu ne ugrade uređaje za lokalnu razdiobu isporučene toplinske energije, toplinska energija evidentirana na zajedničkom mjerilu toplinske energije raspoređuje se na sve samostalne uporabne cjeline na sljedeći način:
+Veličine za izračun:
+Ezj - ukupno isporučena toplinska energija u obračunskom razdoblju na zajedničkom mjerilu toplinske energije (kWh),
+Pssr - grijane površine svih samostalnih uporabnih cjelina na zajedničkom mjerilu toplinske energije koje imaju ugrađene uređaje za lokalnu razdiobu troškova isporučene toplinske energije (m2),
+Pssbr - grijane površine svih samostalnih uporabnih cjelina na zajedničkom mjerilu toplinske energije koje nemaju ugrađene uređaje za lokalnu razdiobu troškova isporučene toplinske energije (m2),
+Pssuc - grijane površine svih samostalnih uporabnih cjelina na zajedničkom mjerilu toplinske energije (m2),
+UST - korekcijski faktor ukupno isporučene toplinske energije u obračunskom razdoblju na zajedničkom mjerilu toplinske energije za sve uporabne cjeline koje nemaju ugrađene uređaje za lokalnu razdiobu troškova isporučene toplinske energije (25%)
+Izračunate veličine:
+Essr - dio isporučene toplinske energije za sve samostalne uporabne cjeline na zajedničkom mjerilu toplinske energije koje imaju ugrađene uređaje za lokalnu razdiobu troškova isporučene toplinske energije (kWh),
+Essbr - dio isporučene toplinske energije za sve samostalne uporabne cjeline na zajedničkom mjerilu toplinske energije koje nemaju ugrađene uređaje za lokalnu razdiobu troškova isporučene toplinske energije (kWh),
+Essbr = Ezj x (Pssbr/Pssuc) x (1 + UST/100)
+Essr = Ezj - Essbr
+(2) Daljnja raspodjela i obračun troškova za isporučenu toplinsku energiju za grijanje prostora na zajedničkom mjerilu toplinske energije za pojedine dijelove objekta, koji predstavljaju samostalnu uporabnu cijelinu sa i bez ugrađenih uređaja za lokalnu razdiobu isporučene energije, obavlja se po modelima iz članka 9. i 11. ovog Pravilnika ili prema modelima iz članka 8. i 10. ovog Pravilnika, i to na način da izračunata veličina Essr iz stavka 1. ovoga članka postaje veličina za izračun Ezj u člancima 10. i 11. ovog Pravilnika, a izračunata veličina Essbr iz stavka 1. ovog članka postaje veličina za izračun Ezj u člancima 8. i 9. ovog Pravilnika.
+(3) Veličina UST iz ovog članka iznosi 25%, a ista se jednom godišnje mora uskladiti sa stvarno ostvarenim uštedama na zajedničkom mjerilu toplinske energije u odnosu na prethodnu ogrjevnu sezonu za razdiobu troškova isporučene toplinske energije, svedeno na stupanj - dane grijanja. Uskladu veličine UST obavlja predstavnik suvlasnika, odnosno od njega ovlaštena fizička ili pravna osoba i dostavlja distributeru u formatu i rokovima koje odredi distributer. Distributer je obavezan prethodno dostaviti predstavniku suvlasnika, ili od njega ovlaštenoj fizičkoj ili pravnoj osobi podatke o potrošnji zajedničkog mjerila toplinske energije za tekuću i prethodnu ogrijevnu sezonu.«
