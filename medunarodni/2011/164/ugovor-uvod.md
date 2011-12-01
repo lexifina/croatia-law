@@ -1,0 +1,12 @@
+Cost
+Croatia: € 1.0 million
+North-East: Bijeljina, Teočak, Ugljevik, Lopare, Tuzla, Lukavac, Celič, Brčko, Srebrenik, Petrovo, Gračanica, Doboj istok, Gradačac, Pelagicevo, Donji Zabar, Orašje, Domaljevac-Samac, Samac, Modriča, Vukosavlje, Odžak, Bosanski Brod, Derventa, Doboj, Srebrenica, Bratunac, Milići, Han Pijesak, Vlasenica, Kladanj, Šekovići, Kalesija Osmaci, Zvornik, Banovići, Živinice, Kalesija, Sapna,
+North-West: Prnjavor, Srbac, Laktaši, Čelinac, Kotor Varoš, Skender Vakuf/Kneževo, Dobretići, Šipovo, Jajce, Jezero, Mrkonjić Grad, Banja Luka, Bosanska Gradiška, Bosanska Dubica, Prijedor, Oštra Luka, Sanski Most, Ključ, Ključ/Ribnik, Mrkonjić Grad/Vlasinje, Glamoč, Bosansko Grahovo, Drvar, Istočni Drvar, Petrovac-Drinić, Bosanski Petrovac, Bosanska Krupa, Krupa na Uni, Novi Grad, Bosanska Kostajnica, Bužim, Velika Kladuša, Cazin, Bihać,
+Herzegovina: Prozor/Rama, Konjic, Nevesinje, Gacko, Bileća, Trebinje, Ravno, Ljubinje, Berkovići, Mostar, Jablanica, Kupres, Kupres (RS), Tomislavgrad, Posušje, Široki Brijeg, Čitluk, Stolac, Neum, Čapljina, Ljubuški, Grude, Livno, Istočni Mostar.
+DODATAK SPORAZUMU O FINANCIRANJU IZMEĐU REPUBLIKE HRVATSKE I EUROPSKE KOMISIJE O PROGRAMU PREKOGRANIČNE SURADNJE HRVATSKA - BOSNA I HERCEGOVINA U OKVIRU KOMPONENTE PREKOGRANIČNA SURADNJA PROGRAMA IPA ZA 2008. GODINU
+DODATAK:
+Sporazumu o financiranju o Programu prekogranične suradnje Hrvatska - Bosna i Hercegovina u okviru komponente Prekogranična suradnja programa IPA za 2008. godinu, kako je izvorno sklopljen 6. srpnja 2009. između Hrvatske i Europske komisije
+Budući da
+(a) je Europska komisija dana 25. srpnja 2008. (Odlukom Komisije C(2008)3814) usvojila Program prekogranične suradnje Hrvatska - Bosna i Hercegovina za 2008. godinu. Sporazum o financiranju je sklopljen 6. srpnja 2009. između Hrvatske i Europske komisije, u svrhu provedbe programa.
+(b) se Program prekogranične suradnje provodi u obliku poziva za dostavu prijedloga, produljenje roka za ugovaranje u vezi s Odlukom iz 2008. godine, potrebno je kako bi se omogućilo korištenje nepotrošenog novca s prvoga poziva na dostavu projektnih prijedloga. Dakle, Odluka iz 2008. godine mijenja se i dopunjuje Provedbenom Odlukom Komisije C(2011)2540, koja je usvojena 8. travnja 2011. godine, te se time produljuje rok za ugovaranje.
+(c) se Dodatak Sporazumu o financiranju sklapa u skladu s Provedbenom Odlukom Komisije C(2011)2540 o izmjenama i dopunama.
