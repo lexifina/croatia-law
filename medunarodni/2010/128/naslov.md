@@ -1,0 +1,1 @@
+Zakon o potvrđivanju ugovora o prestanku Sporazuma između Vlade Republike Hrvatske i Vlade Savezne Republike Njemačke o osnivanju Regionalnog središta za pomoć u verifikaciji i provedbi kontrole naoružanja (RACVIAC)
