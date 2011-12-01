@@ -1,0 +1,3 @@
+# Članak 2.
+U Registar prijevoznika upisuju se podaci o pravnim i fizičkim osobama kojima je nadležno tijelo državne uprave (u daljnjem tekstu: izdavatelj licencije) izdalo licenciju za obavljanje djelatnosti prijevoza putnika i tereta u unutarnjem i međunarodnom cestovnom prijevozu, odnosno licenciju Zajednice iz članka 19. Zakona o prijevozu u cestovnom prometu (»Narodne novine«, broj: 178/04, 48/05, 111/06, 63/08, 124/09 i 91/10).
+U Registru prijevoznika izdvojeno se vodi evidencija posrednika u cestovnom prijevozu, u koju se upisuju podaci o pravnim i fizičkim osobama kojima je izdavatelj licencije izdao licenciju za obavljanje agencijske djelatnosti u cestovnom prometu.

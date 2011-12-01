@@ -1,0 +1,20 @@
+# Članak 5.
+Izdavatelj licencije po službenoj dužnosti upisuje u Registar prijevoznika sljedeće podatke:
+- datum upisa,
+- naziv izdavatelja licencije/izvoda iz licencije,
+- naziv, sjedište/prebivalište, adresa, ustrojstveni oblik i OIB prijevoznika,
+- ime i prezime te OIB osobe odgovorne za prijevoz,
+- vrsta javnog prijevoza za koju je licencija izdana (međunarodni/unutarnji prijevoz tereta/putnika, autotaksi prijevoz),
+- broj i datum izdavanja/početka važenja licencije/ovjerene preslike licencije,
+- datum isteka licencije,
+- status licencije (»aktivna«, »privremeno oduzeta«, »oduzeta«, »istekla«, »izgubljena/ukradena«, »poništena«, »vraćena«),
+- datum oduzimanja licencije/ovjerene preslike licencije,
+- datum privremenog oduzimanja licencije,
+- datum isteka roka privremenog oduzimanja licencije/ovjerene preslike licencije,
+- razlog trajnog/privremenog oduzimanja licencije,
+- podaci o vozilu za koje je izdan izvod iz licencije (datum izdavanja izvoda, registracija vozila, nosivost, godina proizvodnje, vrsta vozila, marka vozila, broj šasije-VIN oznaka, tip motora glede emisije buke i ispuha-Euro/Eko, datum prestanka važenja izvoda),
+- podaci o pravnom zastupniku prijevoznika, ako je utvrđen (ime i prezime, OIB, datum i mjesto rođenja),
+- podaci o osobi odgovornoj za prijevoz (ime i prezime, OIB, datum i mjesto rođenja, broj i datum izdavanja diplome o stečenoj stručnoj spremi ili svjedodžbe o stručnoj osposobljenosti, država izdavanja svjedodžbe o stručnoj osposobljenosti),
+- vrsta i broj kaznenih djela iz članka 9. stavka 2. Zakona o prijevozu u cestovnom prometu (»Narodne novine«, broj: 178/04, 48/05, 111/06, 63/08, 124/09 i 91/10) radi kojih je prijevozniku i odgovornoj osobi za prijevoz izrečena pravomoćna presuda te vrsta izrečene kaznenopravne sankcije,
+- podaci o težim prekršajima iz članka 9. stavka 3. Zakona o prijevozu u cestovnom prometu (»Narodne novine«, broj: 178/04, 48/05, 111/06, 63/08, 124/09 i 91/10) i to: kategorija, vrsta i broj počinjenih prekršaja, datum izvršenja prekršaja, datum provjere pri kojoj je prekršaj utvrđen, država članica EU u kojoj je prekršaj utvrđen, razlog radi kojega bi gubitak dobrog ugleda predstavljao nerazmjernu mjeru te vrsta izrečene prekršajno-pravne sankcije,
+- podaci o osobi odgovornoj za prijevoz koja je radi gubitka dobrog ugleda postala neprikladna za obavljanje tih poslova (ime i prezime, datum i mjesto rođenja, broj i datum izdavanja svjedodžbe o stručnoj osposobljenosti, država u kojoj je izdana svjedodžba o stručnoj osposobljenosti, razlog i datum proglašenja neprikladnom osobom, vrsta izrečene rehabilitacijske mjere, datum stjecanja i datum gubitka svojstva neprikladne osobe).
