@@ -1,0 +1,9 @@
+# Članak 33.
+PROVJERA DOKAZA O PODRIJETLU
+1. Naknadne provjere dokaza o podrijetlu obavljat će se nasumice ili u svakom slučaju opravdane sumnje carinskih vlasti zemlje uvoznice u vjerodostojnost takvih dokumenata, podrijetlo robe o kojoj se radi ili u ispunjenje drugih uvjeta iz ovog Dodatka.
+2. U cilju provedbe odredbi iz stavka 1., carinske vlasti zemlje uvoznice vratit će potvrdu o kretanju robe EUR.1 ili EUR-MED i račun, ako je bila podnesena, izjavu na računu ili izjavu na računu
+EUR-MED, ili kopiju tih dokumenata, carinskim vlastima zemlje izvoznice, uz navođenje razloga za provjeru, gdje je to potrebno. Svi pribavljeni dokumenti i podaci koji ukazuju na to da je podatak u dokazu o podrijetlu netočan bit će dostavljeni kao dokaz uz zahtjev za provjeru.
+3. Provjeru će izvršiti carinske vlasti zemlje izvoznice. U tom cilju imaju pravo zahtijevati bilo koje dokaze i provesti bilo koji pregled izvoznikovih računa ili bilo koju drugu provjeru koju smatraju potrebnom.
+4. Ako carinske vlasti zemlje uvoznice odluče povući odobrenje povlaštenog tretmana za odnosne proizvode u očekivanju rezultata provjere, uvozniku će biti ponuđeno preuzimanje robe uz sve potrebne mjere predostrožnosti.
+5. Carinske vlasti koje zatraže provjeru bit će obaviještene o rezultatima te provjere čim prije. Ti rezultati moraju jasno pokazivati da li su dokumenti vjerodostojni i mogu li se odnosni proizvodi smatrati proizvodima s podrijetlom iz države EFTA-e, iz Hrvatske ili iz neke druge zemlje navedene u člancima 3. i 4. i da li ispunjavaju druge uvjete iz ovoga Dodatka.
+6. Ako, u slučaju opravdane sumnje, odgovor ne stigne u roku od deset mjeseci od dana podnošenja zahtjeva za provjeru ili ako odgovor ne sadrži podatke dovoljne za utvrđivanje vjerodostojnosti dokumenta o kojem je riječ ili stvarnog podrijetla proizvoda, carinske vlasti koje su podnijele zahtjev će, osim u iznimnim okolnostima, uskratiti pravo na povlašteni tretman.
