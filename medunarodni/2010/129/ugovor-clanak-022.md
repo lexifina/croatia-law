@@ -1,0 +1,8 @@
+# Članak 22.
+POVLASTICE I IMUNITETI OSOBLJA
+1) Direktor, zamjenik direktora, kao i njihovi supružnici i članovi njihovih obitelji koji s njima žive u istome kućanstvu, uživaju na području Republike Hrvatske kao države domaćina, status jednak onome koji se odobrava diplomatskim predstavnicima i njihovim supružnicima te članovima njihovih obitelji koji s njima žive u istome kućanstvu, prema Bečkoj konvenciji o diplomatskim odnosima od 18. travnja 1961.
+2) Svi drugi pripadnici RACVIAC-ova osoblja i članovi njihovih obitelji koji s njima žive u istome kućanstvu, uživaju na području Republike Hrvatske kao države domaćina, status jednak onome koji se odobrava administrativnom i tehničkom osoblju i njihovim supružnicima te članovima njihovih obitelji koji s njima žive u istome kućanstvu, prema Bečkoj konvenciji o diplomatskim odnosima od 18. travnja 1961. Posebice, oni uživaju pravo na uvoz robe za potrebe svojega kućanstva kao i na uvoz ili kupovinu motornog vozila za osobnu uporabu, oslobođeno plaćanja carine i poreza na dodanu vrijednost (PDV), u roku od godine dana od datuma preuzimanja dužnosti u Republici Hrvatskoj u skladu s odredbama nacionalnoga zakonodavstva.
+3) Ako je pripadnik RACVIAC-ova osoblja državljanin ili je stalno nastanjen u Republici Hrvatskoj kao državi domaćinu, isti na području Republike Hrvatske uživa imunitet za postupke koje učini u svojemu službenome svojstvu. To ne vrijedi za osoblje koje se angažira u skladu sa stavkom 4 ovoga članka.
+4) RACVIAC može lokalno angažirati potrebno pomoćno osoblje u skladu s nacionalnim zakonodavstvom Republike Hrvatske.
+Dio VI.
+Završne odredbe
