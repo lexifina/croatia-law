@@ -1,0 +1,2 @@
+# Članak 1.
+U Zakonu o smanjenju mirovina određenih, odnosno ostvarenih prema posebnim propisima o mirovinskom osiguranju (»Narodne novine«, br. 71/10.) u članku 4. podstavku 2. iza riječi: »s oštećenjem organizma od 100%« dodaju se riječi: »i obiteljske mirovine djece smrtno stradalih hrvatskih branitelja iz Domovinskog rata bez oba roditelja, osim sukorisničkih dijelova ovih mirovina koji pripadaju djeci koja su rođena u braku ili izvan braka s drugim roditeljem, odnosno udovici.«.
