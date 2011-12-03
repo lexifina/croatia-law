@@ -1,0 +1,4 @@
+# Članak 10.
+Nove zgrade za koje je zahtjev za izdavanje akta na temelju kojega se može graditi podnesen prije 31. ožujka 2010. godine moraju imati energetski certifikat izdan na način sukladno odredbama ovoga Pravilnika i u skladu s Odlukom o najvišim cijenama koštanja provođenja energetskih pregleda i izdavanja energetskih certifikata zgrada iz članka 31. stavka 3. ovoga Pravilnika kada se:
+- završno izvješće nadzornog inženjera o izvedbi građevine dostavlja nakon 10. veljače 2012. godine za zgrade čija građevinska (bruto) površina nije veća od 400 m² i za zgrade za obavljanje isključivo poljoprivrednih djelatnosti čija građevinska (bruto) površina nije veća od 600 m² a nisu izuzete od obveze energetskog certificiranja prema ovome Pravilniku,
+- zahtjev za izdavanje uporabne dozvole za zgradu podnosi nakon 10. veljače 2012. godine.«

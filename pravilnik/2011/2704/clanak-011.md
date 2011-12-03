@@ -1,0 +1,2 @@
+# Članak 11.
+Postojeće zgrade ili njihove samostalne uporabne cjeline koje se prodaju ili iznajmljuju moraju imati energetski certifikat izdan na način sukladno odredbama ovoga Pravilnika i u skladu s Odlukom o najvišim cijenama koštanja provođenja energetskih pregleda i izdavanja energetskih certifikata zgrada iz članka 31. stavka 3. ovoga Pravilnika dostupan na uvid kupcu ili najmoprimcu prije sklapanja ugovora o kupoprodaji ili iznajmljivanju najkasnije danom pristupanja Republike Hrvatske u članstvo Europske unije.«
