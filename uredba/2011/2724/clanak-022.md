@@ -1,0 +1,4 @@
+## Prijedlozi za djelovanje Europske unije
+# Članak 22.
+(1) Kada Ministarstvo u suradnji s nadležnim tijelima utvrdi problem koji utječe na stanje okoliša morskih voda u područjima koja su pod suverenitetom Republike Hrvatske, odnosno u kojima Republika Hrvatska ostvaruje suverena prava i jurisdikciju, a taj problem se ne može riješiti mjerama donesenima na razini Republike Hrvatske, ili je nastali problem povezan s politikom Europske unije u drugom području i/ili je povezan s primjenom međunarodnog sporazuma, predlaže Vladi Republike Hrvatske da o tome obavijesti Europsku komisiju. Prijedlog i/ili obavijest moraju biti utemeljeno obrazloženi.
+(2) Kada je radi otklanjanja problema iz stavka 1. ovog članka potrebno djelovanje institucija Europske unije, Republika Hrvatska će osigurati svoje sudjelovanje s državama članicama u davanju odgovarajućih preporuka Europskoj komisiji i Vijeću, putem Ministarstva i drugih nadležnih tijela.

@@ -1,0 +1,9 @@
+## Program mjera
+# Članak 18.
+(1) Programom mjera se određuju mjere za morske vode, koje je potrebno poduzeti radi postizanja i/ili održavanja dobroga stanja okoliša sukladno odredbama ove Uredbe.
+(2) Mjere u Programu mjera utvrđuju se:
+- na temelju Početne procjene i uz upućivanje na Skup ciljeva;
+- uzimajući u obzir elemente obveznog obuhvata Programa mjera iz Priloga VI. ove Uredbe;
+- uzimajući u obzir odgovarajuće mjere već određene slijedom primjene posebnih propisa u Republici Hrvatskoj, a osobito one utvrđene na temelju posebnih propisa iz područja vodnoga gospodarstva: o graničnim vrijednostima emisija otpadnih voda; o standardima kakvoće u okolišu u području vodne politike i u području politike zaštite i upravljanja morskim okolišem; te na temelju propisa kojim se uređuje kakvoća mora za kupanje; kao i na temelju međunarodnih sporazuma.
+(3) Program mjera obvezno uključuje i mjere prostorne zaštite koje pridonose stvaranju usklađenih i reprezentativnih mreža očuvanih morskih područja i primjereno obuhvaćaju raznolikost ekoloških sustava koji ih čine. Pri tome, u obzir se uzimaju odredbe posebnih propisa iz područja zaštite prirode za utvrđivanje ekološki značajnih područja Europske unije NATURA 2000 i proglašavanje zaštićenih područja u Republici Hrvatskoj. Program mjera sadrži i mjere o kojima su se države podregije, odnosno države regije usuglasile u okviru regionalnih i međunarodnih sporazuma čije su ugovorne strane.
+(4) Pri izradi Programa mjera mora se primjereno voditi računa o održivom razvoju i o socijalnim i gospodarskim učincima predviđenih mjera. U te svrhe Ministarstvo i nadležna tijela su dužni osigurati da predložene mjere imaju odgovarajući omjer troška i učinkovitosti te da su tehnički izvedive. Prije uvođenja nove mjere mora se izraditi procjena učinaka mjere s analizom troškova i koristi te mjere.

@@ -1,0 +1,10 @@
+## Informiranje, sudjelovanje javnosti i izvještavanje
+# Članak 25.
+(1) Ministarstvo je dužno osigurati informiranje i sudjelovanje javnosti u primjeni ove Uredbe sukladno Zakonu i odgovarajućom primjenom provedbenog propisa Zakona kojim je uređeno informiranje i sudjelovanje javnosti i zainteresirane javnosti u pitanjima zaštite okoliša, uključujući i tijela i strukture po Barcelonskoj konvenciji, znanstvena savjetodavna tijela i regionalna savjetodavna vijeća.
+(2) O aktivnostima i aktima koji nastaju provedbom ove Uredbe javnost se informira objavom i stavljanjem na uvid radi provedbe javne rasprave prikaza pojedinih elemenata morske strategije uključujući i njezine izmjene i dopune a osobito: Početne procjene, Skupa značajki dobroga stanja okoliša i Skupa ciljeva, Sustava praćenja i promatranja i Programa mjera.
+(3) Ministarstvo će u suradnji s nadležnim tijelima u skladu sa zakonom, Europskoj komisiji omogućiti pristup i uporabu podataka i informacija iz Početne procjene i Sustava praćenja i promatranja radi ispunjavanja zahtjeva iz propisa Europske unije kojima se uređuje područje prostornog uređenja, a u svrhu izvršenja zadataka povezanih s propisima Europske unije kojima se uređuje djelovanje u području politike zaštite morskog okoliša.
+(4) Podaci i informacije iz Početne procjene i iz Sustava praćenja i promatranja bit će u cijelosti dostupni Agenciji za zaštitu okoliša za potrebe Informacijskog sustava zaštite okoliša (ISZO) i Europske agencije za okoliš. Nadležna tijela će podatke i informacije iz Početne procjene i Sustava praćenja i promatranja pripremiti i obraditi prema zahtjevima Agencije za zaštitu okoliša.
+(5) Za potrebe prikupljanja podataka i izvještavanja Agencija za zaštitu okoliša uspostavlja Informacijski sustav »More" koji služi kao izvor podataka za Europski informacijski sustav za vode i more (WISE).
+(6) Izvještavanje Europske komisije provodi se putem Agencije za zaštitu okoliša uz prethodnu suglasnost Ministarstva.
+V. PRIJELAZNE I ZAVRŠNE ODREDBE
+Prilozi
