@@ -1,0 +1,1 @@
+Na temelju članka 30. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 101/98, 15/2000, 117/2001, 199/2003, 30/2004, 77/2009 i 145/2010) i članka 19. stavka 2. Zakona o elektroničkim komunikacijama (»Narodne novine«, br. 73/2008 i 90/2011), Vlada Republike Hrvatske je na sjednici održanoj 7. prosinca 2011. godine donijela
