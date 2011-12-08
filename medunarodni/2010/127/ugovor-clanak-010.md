@@ -1,0 +1,3 @@
+# Članak 10.
+NAKNADA ŠTETE
+Ako za vrijeme provedbe aktivnosti, u skladu s ovim Sporazumom, odnosno dodatnim ugovorima i godišnjim planovima bilateralne suradnje na području obrane, nastane bilo kakva šteta na imovini stranaka, ozljeda ili smrt osoblja neke od stranaka, svaka od stranaka će snositi troškove štete, ozljede ili smrti nastale na vlastitoj imovini ili nanijete vlastitom osoblju. Ukoliko je šteta nastala kao posljedica grubih propusta, lošeg postupanja ili teškog nemara, stranka čije je osoblje ili imovina izazvalo štetu, ozljedu ili smrt snosit će troškove naknade štete drugoj stranci.
