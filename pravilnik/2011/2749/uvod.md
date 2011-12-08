@@ -1,0 +1,1 @@
+Na temelju članka 20.a točke 1. podtočke 1.3., članka 20.r stavka 3., članka 31.a točke 3. podtočaka 3.1. i 3.3., članka 31.c stavka 7., te članka 37. Zakona o porezu na dobit (»Narodne novine« broj 177/04, 90/05, 57/06, 146/08 i 80/10) i članka 14. stavka 2. Zakona o izmjenama i dopunama Zakona o porezu na dobit (»Narodne novine« broj 80/10) donosim
