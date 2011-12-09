@@ -1,0 +1,3 @@
+# Članak 23.
+U postupku homologacije pojedinačnog vozila pregled dokumentacije, pregled vozila i izdavanje izvještaja o zadovoljavanju propisanih uvjeta obavlja ovlaštena pravna osoba za homologaciju pojedinačnog vozila.
+Pregled dokumentacije podrazumijeva provjeru sukladnosti tehničkih podataka vozila i provjeru dokaza proizvođača o sukladnosti opreme i dijelova predmetnog vozila s uvjetima propisanim pojedinim pravilnikom. Pregled vozila je pregled homologacijskih oznaka na opremi i dijelovima vozila te provjera mjerljivih parametara vozila po potrebi i oznaka bitnih za identifikaciju vozila (npr. VIN oznaka, oznaka motora i dr.).

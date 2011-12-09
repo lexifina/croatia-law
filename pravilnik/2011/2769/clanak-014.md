@@ -1,0 +1,5 @@
+# Članak 14.
+Postupak homologacije tipa vozila za koji nije provedena europska homologacija i za vozila proizvedena u Hrvatskoj provodi Zavod i ovlaštena pravna osoba koja obavlja pregled dokumentacije i vozila te provodi potrebna ispitivanja vozila uzorka.
+Ako je zahtjev podnesen za više varijanti ili izvedbi jednog tipa vozila s većim međusobnim razlikama, ovlaštena pravna osoba može zatražiti od podnositelja zahtjeva odgovarajuća dodatna vozila uzorke za pregled.
+Pregled dokumentacije je provjera sukladnosti tehničkih podataka vozila s podacima iz proizvođačeve dokumentacije (tehnički podaci i homologacijska odobrenja) te provjera sukladnosti homologacijskih odobrenja s uvjetima pojedinih propisa o homologaciji.
+Pregled vozila je pregled homologacijskih oznaka na opremi i dijelovima vozila, provjera sukladnosti ugrađenih dijelova s proizvođačevom dokumentacijom te provjera mjerljivih parametara vozila po potrebi i odabranih metodom slučajnog uzorka i oznaka bitnih za identifikaciju vozila (npr. VIN oznaka, oznaka motora i dr.).

@@ -1,0 +1,21 @@
+# Članak 8.
+U smislu ovoga Pravilnika pojedini pojmovi imaju sljedeće značenje:
+- »COC dokument« (Certificate of Conformity) je dokument koji izdaje proizvođač vozila s podacima predmetnog vozila kojim se potvrđuje da vozilo iz serije homologiranoga tipa ispunjava zahtjeve koji su bili na snazi u vrijeme njegove proizvodnje;
+- »dovršeno vozilo« je vozilo koje je rezultat postupka višestupanjske homologacije i koje zadovoljava sve odgovarajuće zahtjeve ovoga Pravilnika;
+- »EU homologacija« je postupak kojim tijelo za homologaciju pojedine države članice EU, potvrđuje da tip vozila, dijelovi i oprema zadovoljavaju odgovarajuće tehničke zahtjeve i ostale odredbe propisane za zemlje Europske unije;
+- »izjava o sukladnosti« je dokument koji izdaje proizvođač vozila u R. Hrvatskoj ili predstavnik proizvođača, a kojom se potvrđuje da je vozilo iz serije homologiranoga tipa ispunjava zahtjeve koji su bili na snazi u vrijeme njegove proizvodnje;
+- »motorno vozilo« je svako motorno vozilo, potpuno, dovršeno ili nepotpuno, sa vlastitim pogonom, a čija najveća konstrukcijska brzina prelazi 25 km/h;
+- »nepotpuno vozilo« je vozilo koje je potrebno dopuniti barem još u jednoj fazi kako bi zadovoljavalo sve odgovarajuće zahtjeve ovoga Pravilnika;
+- »osnovno vozilo« označava nepotpuno vozilo koje zadržava svoju identifikacijsku oznaku vozila (VIN) u svim sljedećim fazama postupka višestupanjske homologacije;
+- »potvrda proizvođača« je dokument s kojim proizvođač ili njegov predstavnik potvrđuje kojim je EU Direktivama i Uredbama odnosno UNECE Pravilnicima udovoljavalo vozilo odnosno njegovi sustavi i dijelovi u trenutku proizvodnje;
+- »potpuno vozilo« je vozilo koje je proizvođač izradio bez prekida postupka od početne do završne faze, tako da ono zadovoljava sve odgovarajuće zahtjeve ovoga Pravilnika;
+- »potvrda o sukladnosti tipa vozila«, je dokument kojim tijelo za homologaciju službeno potvrđuje da su tip vozila, dijelovi i oprema homologirani;
+- »potvrda o sukladnosti pojedinačno pregledanog vozila« je dokument kojim ovlaštena pravna osoba službeno potvrđuje da vozilo ispunjava zahtjeve propisane ovim Pravilnikom;
+- »proizvođač« je fizička ili pravna osoba koja je odgovorna tijelu za homologaciju za sve aspekte postupka homologacije ili postupka odobravanja te za osiguravanje sukladnosti proizvodnje;
+- »predstavnik proizvođača« označava pravnu osobu sa sjedištem u Republici Hrvatskoj koju je pravovaljano ovlastio proizvođač da ga predstavlja pred tijelom za homologaciju te da djeluje u njegovo ime u području primjene ovoga Pravilnika;
+- »priključno vozilo« označava svako vozilo bez vlastitoga pogona na kotačima koje je konstruirano i proizvedeno da ga vuče motorno vozilo;
+- »provjereno osposobljena pravna osoba« je pravna osoba koja je akreditirana za odgovarajuće područje ispitivanja ili je njena kompetentnost provjerena od strane Zavoda;
+- »proizvođačeva dokumentacija o vozilu« podrazumijeva obrazloženje VIN oznake i identifikacijske pločice proizvođača vozila te obrazloženje oznake tipa, varijante, izvedbe;
+- »rabljeno vozilo« označava vozilo od čije prve registracije je prošlo najmanje šest mjeseci;
+- »tip vozila« označava vozilo iste kategorije, istoga proizvođača i iste proizvođačke oznake tipa koje se bitno ne razlikuju u pogonskom motoru i podvozju. Tip vozila može sadržavati varijante i izvedbe, čije se detaljnije pojašnjenje nalazi se u Prilogu I ovoga Pravilnika;
+- »višestupanjska homologacija« je postupak kada u izradi vozila sudjeluje više različitih proizvođača (izrada po fazama), i kada se u svakoj narednoj fazi izrade prihvaća homologacija iz prethodne faze, a prva faza predstavlja izradu osnovnog vozila na kojem je predviđena nadogradnja.

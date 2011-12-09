@@ -1,0 +1,3 @@
+## I. OPĆE ODREDBE
+# Članak 1.
+Ovim se Pravilnikom utvrđuje obaveza homologacije vozila kao cjeline prije stavljanja vozila na tržište ili prve registracije u Republici Hrvatskoj, oblik i sadržaj zahtjeva, potvrde o sukladnosti tipa vozila, izjave o sukladnosti vozila i potvrde o sukladnosti pojedinačno pregledanog vozila, metode i postupci ispitivanja, uvjeti koje moraju ispunjavati pravne osobe za provođenje postupka homologacije, propisuju se zahtjevi o homologaciji koje moraju zadovoljavati vozila i njihovi dijelovi i oprema te naknade koje se naplaćuju za provođenje postupka homologacije vozila, dijelova i opreme.
