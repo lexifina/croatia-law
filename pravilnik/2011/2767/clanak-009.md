@@ -1,0 +1,5 @@
+# Članak 9.
+Proširena mreža telemedicinskih centara jest mreža zdravstvenih ustanova, trgovačkih društava koja obavljaju zdravstvenu djelatnost te privatnih zdravstvenih radnika koji obavljaju djelatnost telemedicine.
+Pravna ili fizička osoba iz stavka 1. ovoga članka za obavljanje djelatnosti telemedicine mora Zavodu dostaviti zahtjev za izdavanje odobrenja za rad telemedicinskog centra koji uz ostalo sadrži i popis područja medicinske struke za koje se planira pružanje telemedicinskih usluga radi ishođenja potvrde o ispunjavanju minimalnih uvjeta za rad telemedicinskih centara.
+Mjerila za određivanje proširene mreže telemedicinskih centara i propisani obrazac zahtjeva za izdavanje odobrenja za rad telemedicinskog centra određuje Zavod i objavljuju se na internetskoj stranici Zavoda.
+Nositelji odobrenja za rad telemedicinskih specijalističkih centara u okviru proširene mreže telemedicinskih centara ne mogu sklopiti ugovor za telemedicinske usluge sa zavodom nadležnim za obvezno zdravstveno osiguranje.
