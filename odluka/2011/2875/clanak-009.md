@@ -1,0 +1,2 @@
+# Članak 9.
+Članice Komore za koje je pokrenut likvidacijski stečajni postupak, likvidacija, koje su u mirovanju ili koje su pripojene drugom pravnom subjektu dužne su platiti sva svoja dospjela dugovanja za financiranje Hrvatske gospodarske komore nastala do trenutka otvaranja navedenog stečajnog postupka, odnosno pokretanja postupka likvidacije, donošenja rješenja o pripajanju društva ili odluke o mirovanju.

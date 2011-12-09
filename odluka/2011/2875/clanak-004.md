@@ -1,0 +1,5 @@
+# Članak 4.
+Visina mjesečne članarine iznosi za:
+- Prvu grupu članica 55,00 kn,
+- Drugu grupu članica 1.500,00 kn,
+- Treću grupu članica 5.500,00 kn
