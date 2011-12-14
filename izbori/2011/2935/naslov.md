@@ -1,0 +1,1 @@
+KONAČNI SLUŽBENI REZULTATI IZBORA ZA ZASTUPNIKE U HRVATSKI SABOR UTVRĐENI I OBJAVLJENI 13. prosinca 2011. u XII. izbornoj jedinici (koje biraju pripadnici austrijske, bugarske, njemačke, poljske, romske, rumunjske, ruske, turske, ukrajinske, vlaške i židovske nacionalne manjine)
