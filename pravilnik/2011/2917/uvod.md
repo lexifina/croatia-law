@@ -1,0 +1,1 @@
+Na temelju odredbe članka 99. stavka 2. Zakona o odgoju i obrazovanju u osnovnoj i srednjoj školi (»Narodne novine«, br. 87/08., 86/09., 92/10., 105/10. - isp. i 90/11.), ministar znanosti, obrazovanja i športa donosi

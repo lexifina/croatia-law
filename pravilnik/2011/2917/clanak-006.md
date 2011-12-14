@@ -1,0 +1,2 @@
+# Članak 6.
+Školska ustanova dužna je evidenciju o radnom vremenu imati u poslovnom sjedištu, a ako dio radnika obavlja posao izvan sjedišta poslodavca u izdvojenoj organizacijskoj ili poslovnoj jedinici tijekom cijelog razdoblja odnosno mjeseca za koje se plaća ili naknada plaće isplaćuje, poslodavac ju je dužan imati u toj izdvojenoj organizacijskoj ili poslovnoj jedinici odnosno prostoru za prethodno razdoblje od najmanje jedne godine.

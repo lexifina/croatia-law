@@ -1,0 +1,2 @@
+# Članak 7.
+Podaci u evidenciji radnog vremena radnika vode se pisano na papiru ili u elektroničnom obliku, pri čemu se mogu koristiti odgovarajuće kratice s jasnim objašnjenjem značenja te se čuvaju najmanje četiri godine, a u slučaju kada poslodavac ima informacije da je pokrenut radni spor u pogledu ostvarenja prava iz radnog odnosa ili u vezi s radnim odnosom, pri čemu bi za ostvarivanje tih prava mogla biti relevantna i evidencija o radnom vremenu radnika za određeno razdoblje, ona se čuva do pravomoćnog okončanja toga spora.
