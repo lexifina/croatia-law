@@ -1,0 +1,250 @@
+Državno izborno povjerenstvo Republike Hrvatske u sastavu Branko Hrvatin, dipl. iur., predsjednik, Jakob Miletić, dipl. iur., potpredsjednik, Jasna Guštek, dipl. iur., potpredsjednica, Zdravka Čufar Šarić, dipl. iur., potpredsjednica, Aleksandra Jozić-Ileković, dipl. iur., potpredsjednica, Davor Orlović, dipl. iur., član, Zorislav Ham, dipl. iur., član, Josip Vresk, dipl. iur., član i Janja Horvat Drobnjak, dipl. iur., članica, na temelju članka 94. stavka 2. Zakona o izborima zastupnika u Hrvatski sabor (»Narodne novine«, broj 120/11 - pročišćeni tekst), objavljuje službene rezultate izbora zastupnika u Hrvatski sabor provedenih 3. i 4. prosinca 2011. godine
+IZBOR ZASTUPNIKA U HRVATSKI SABOR NA TEMELJU LISTA U I. IZBORNOJ JEDINICI
+I. Od ukupno 358.750 birača, glasovalo je (prema listićima) 238.830 birača, odnosno 66,57%.
+Važećih glasačkih listića utvrđeno je 235.217 odnosno 98,49%.
+Nevažećih je bilo 3.613 glasačkih listića, odnosno 1,51%.
+II. Pojedine liste dobile su sljedeći broj glasova:
+1.
+SOCIJALDEMOKRATSKA PARTIJA HRVATSKE - SDP
+107.382
+glasova
+45,65%
+HRVATSKA NARODNA STRANKA - LIBERALNI DEMOKRATI - HNS
+ISTARSKI DEMOKRATSKI SABOR - IDS
+HRVATSKA STRANKA UMIROVLJENIKA - HSU
+2.
+HRVATSKA DEMOKRATSKA ZAJEDNICA - HDZ
+43.265
+glasova
+18,39%
+3.
+HRVATSKI LABURISTI - STRANKA RADA
+18.059
+glasova
+7,68%
+4.
+HRVATSKA SOCIJALNO-LIBERALNA STRANKA - HSLS
+10.457
+glasova
+4,45%
+5.
+BLOK UMIROVLJENICI ZAJEDNO - BUZ
+8.561
+glasova
+3,64%
+PRIMORSKO GORANSKI SAVEZ - PGS
+HRVATSKA RADNIČKA STRANKA - HRS
+6.
+HRVATSKA STRANKA PRAVA - HSP
+6.908
+glasova
+2,94%
+7.
+HRVATSKA STRANKA PRAVA DR. ANTE STARČEVIĆ - HSP DR. ANTE STARČEVIĆ
+6.737
+glasova
+2,86%
+HRVATSKA ČISTA STRANKA PRAVA - HČSP
+8.
+HRVATSKI RAST - HRAST
+5.680
+glasova
+2,41%
+9.
+NEOVISNA LISTA - MILAN BANDIĆ
+5.643
+glasova
+2,40%
+10.
+NEOVISNA LISTA - dr. sc. IVAN GRUBIŠIĆ
+5.538
+glasova
+2,35%
+11.
+HRVATSKA SELJAČKA STRANKA - HSS
+2.922
+glasova
+1,24%
+ZELENA STRANKA - ZS
+STRANKA PENZIONERA - SP
+12.
+HRVATSKA STRANKA ZELENIH - EKO SAVEZ - ZELENI
+1.367
+glasova
+0,58%
+13.
+AKCIJA SOCIJALDEMOKRATA HRVATSKE - ASH
+1.354
+glasova
+0,58%
+STRANKA UMIROVLJENIKA HRVATSKE -BLOK UMIROVLJENICI ZAJEDNO - SUH
+SPLITSKA STRANKA UMIROVLJENIKA - SSU
+14.
+ZAGREBAČKA NEZAVISNA LISTA - ZNL
+1.286
+glasova
+0,55%
+15.
+SAVEZ ZA PROMJENE - SP
+980
+glasova
+0,42%
+AUTOHTONA - HRVATSKA SELJAČKA STRANKA - A-HSS
+16.
+NEOVISNA LISTA - SINIŠA VUCO
+961
+glasova
+0,41%
+17.
+ZELENA LISTA
+888
+glasova
+0,38%
+18.
+AKCIJA ZA BOLJU HRVATSKU - ABH
+855
+glasova
+0,36%
+HRVATSKA DEMOKRŠĆANSKA STRANKA - HDS
+JEDINO HRVATSKA - POKRET ZA HRVATSKU - JEDINO HRVATSKA
+19.
+DEMOKRATSKA STRANKA ŽENA - DSŽ
+701
+glasova
+0,30%
+20.
+ZELENI ZAJEDNO
+603
+glasova
+0,26%
+21.
+AKCIJA MLADIH - AM
+564
+glasova
+0,24%
+22.
+SOCIJALISTIČKA RADNIČKA PARTIJA HRVATSKE - SRP
+443
+glasova
+0,19%
+23.
+VOLIM HRVATSKU - VH
+407
+glasova
+0,17%
+24.
+ZAGORSKA STRANKA - ZS
+404
+glasova
+0,17%
+25.
+AUTOHTONA-HRVATSKA STRANKA PRAVA - A-HSP
+396
+glasova
+0,17%
+26.
+HRVATSKA 21. STOLJEĆA - HRVATSKA 21.
+365
+glasova
+0,16%
+27.
+AGENDA MLADIH DEMOKRATA - AMD
+356
+glasova
+0,15%
+HRVATSKA STRANKA MLADIH - HSM
+28.
+NACIONALNI DEMOKRATI - ND
+304
+glasova
+0,13%
+29.
+OBITELJSKA STRANKA - OS
+285
+glasova
+0,12%
+30.
+DEMOKRATSKA STRANKA SLAVONSKE RAVNICE - SLAVONSKA RAVNICA
+268
+glasova
+0,11%
+31.
+ZAGORSKA DEMOKRATSKA STRANKA - ZDS
+237
+glasova
+0,10%
+32.
+NEOVISNA LISTA - DAMIR GAŠPAROVIĆ
+206
+glasova
+0,09%
+33.
+NEOVISNA LISTA - VEDRAN SENJANOVIĆ
+187
+glasova
+0,08%
+34.
+GLAS RAZUMA
+171
+glasova
+0,07%
+35.
+HRVATSKA EUROPSKA STRANKA - HES
+138
+glasova
+0,06%
+36.
+ABECEDA DEMOKRACIJE - ABECEDA
+119
+glasova
+0,05%
+37.
+NEOVISNA LISTA - HRVOJE MIRKOVIĆ
+87
+glasova
+0,04%
+38.
+STRANKA HRVATSKOG ZAJEDNIŠTVA - SHZ
+73
+glasova
+0,03%
+39.
+NOVA HRVATSKA - NH
+60
+glasova
+0,03%
+III. Na temelju članka 41. Zakona o izborima zastupnika u Hrvatski sabor, liste koje sudjeluju u diobi zastupničkih mjesta su:
+1.
+SOCIJALDEMOKRATSKA PARTIJA HRVATSKE - SDP
+HRVATSKA NARODNA STRANKA - LIBERALNI DEMOKRATI - HNS
+ISTARSKI DEMOKRATSKI SABOR - IDS
+HRVATSKA STRANKA UMIROVLJENIKA - HSU
+2.
+HRVATSKA DEMOKRATSKA ZAJEDNICA - HDZ
+3.
+HRVATSKI LABURISTI - STRANKA RADA
+IV. Na temelju članka 40. Zakona o izborima zastupnika u Hrvatski sabor, pojedine liste dobile su sljedeći broj zastupničkih mjesta i zastupnike u Hrvatskom saboru:
+1.
+SOCIJALDEMOKRATSKA PARTIJA HRVATSKE - SDP
+HRVATSKA NARODNA STRANKA - LIBERALNI DEMOKRATI - HNS
+ISTARSKI DEMOKRATSKI SABOR - IDS
+HRVATSKA STRANKA UMIROVLJENIKA - HSU
+dobila je 9 mjesta, te su s te liste izabrani zastupnici:
+1. ZORAN MILANOVIĆ
+2. VESNA PUSIĆ
+3. DAVOR BERNARDIĆ
+4. JOSIP KREGAR
+5. TONINO PICULA
+6. GORDANA SOBOL
+7. TOMISLAV SAUCHA
+8. GVOZDEN SREĆKO FLEGO
+9. IGOR RAĐENOVIĆ
+2. HRVATSKA DEMOKRATSKA ZAJEDNICA - HDZ
+dobila je 4 mjesta, te su s te liste izabrani zastupnici:
+1. GORDAN JANDROKOVIĆ
+2. MIROSLAV TUĐMAN
+3. ŽELJKO REINER
+4. ĐURĐICA SUMRAK
+3. HRVATSKI LABURISTI - STRANKA RADA
+dobila je 1 mjesto, te je s te liste izabran zastupnik:
+1. BRANKO VUKŠIĆ
