@@ -1,0 +1,2 @@
+# Članak 4.
+O upisu osoba s položenim ispitom za poreznog savjetnika i javnih trgovačkih društava za porezno savjetništvo u imenike, o obnovi upisa te u drugim slučajevima u kojima odlučuju o pravima i obvezama poreznih savjetnika i javnih trgovačkih društava za porezno savjetništvo, ako zakonom, ovim Statutom ili drugim općim aktom Komore nije drukčije određeno, ovlaštena tijela Komore odlučuju primjenjujući pravila Zakona o općem upravnom postupku.

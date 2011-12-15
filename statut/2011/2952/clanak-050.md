@@ -1,0 +1,2 @@
+# Članak 50.
+U slučaju kada se postupak zbog neurednosti odnosno stegovnog prijestupa pokreće s obzirom na osobu stegovnog tužitelja i/ili jednog ili više članova Izvršnog odbora i/ili Stegovnog vijeća, ministar financija svojom će odlukom samo za potrebe provedbe konkretnog postupka imenovati predstavnike Ministarstva financija s dužnostima i ovlastima za rad u spomenutom tijelu/ima do broja neophodnog za rad konkretnog tijela.

@@ -1,0 +1,1 @@
+Na temelju članka 28. stavka 1. Zakona o poreznom savjetništvu (»Narodne novine« broj 127/00), uz suglasnost ministrice financija, klasa: 011-01/11-01/387; urbroj: 513-11/11-11 od 21. studenoga 2011., Skupština Hrvatske komore poreznih savjetnika, na sjednici održanoj 23. studenoga 2011., usvojila je
