@@ -1,0 +1,1 @@
+Na temelju članka 138. stavka 11. Zakona o odgoju i obrazovanju u osnovnoj i srednjoj školi (»Narodne novine« br. 87/08, 86/09, 92/10, 105/10 - ispr. i 90/11) te članka 5. stavaka 2. i 3. i članka 39. stavka 3. Zakona o strukovnom obrazovanju (»Narodne novine« br. 30/09) ministar znanosti, obrazovanja i športa donosi
