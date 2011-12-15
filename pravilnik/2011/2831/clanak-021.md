@@ -1,0 +1,3 @@
+# Članak 21.
+Uređajima s video-foto i foto zapisom, u pravilu se prekršitelji prometnih propisa snimaju s prednje strane. U izvješće o počinjenom prekršaju, upisat će se i ostali podaci značajni za utvrđivanje prekršaja.
+Video zapisi ili fotografije načinjene uređajima iz stavka 1. ovoga članka, izrađuju se samo u slučajevima kada su neophodno potrebne u prekršajnom postupku po zahtjevu prekršitelja ili prekršajnog suda. Troškovi izrade video zapisa ili fotografija ili prijenos podataka na CD ili neki drugi medij zaračunavaju se osobama protiv kojih se vodi prekršajni postupak i koje su proglašene krivim.

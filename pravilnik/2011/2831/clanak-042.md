@@ -1,0 +1,4 @@
+# Članak 42.
+Policijski službenici koji su određeni za pratnju izvanrednog prijevoza dužni su se u određeno vrijeme, na za to određenom mjestu, javiti voditelju izvanrednog prijevoza i od njega zatražiti na uvid dozvolu o odobrenom prijevozu te potrebnu dokumentaciju o vozilima koja sudjeluju u prijevozu te vozačkom i pratećem osoblju.
+Prije započinjanja pratnje policijski službenici će zajedno s voditeljem izvanrednog prijevoza izvršiti detaljan pregled tereta radi utvrđivanja je li propisno smješten, učvršćen i obilježen te je li duljina, širina, visina i masa tereta istovjetna s podacima u dozvoli za izvanredni prijevoz.
+Utvrđene neispravnosti ili nedostaci moraju se otkloniti prije započinjanja izvanrednog prijevoza o čemu se sastavlja službena bilješka koja čini sastavni dio spisa izvanrednog prijevoza.

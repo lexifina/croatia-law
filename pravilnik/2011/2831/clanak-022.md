@@ -1,0 +1,2 @@
+# Članak 22.
+O svakoj izmjerenoj i prekoračenoj brzini kretanja vozila, koja je utvrđena uređajem za mjerenje brzine, u slučajevima kada je obavljeno zaustavljanje vozača, sastavlja se Zapisnik o izmjerenoj brzini kretanja vozila, osim u slučaju kada je prekoračenje brzine utvrđeno uređajem s foto ili video-foto zapisom, kada vozač plati novčanu kaznu na mjestu izvršenja prekršaja ili kada mu je izdana mjera upozorenja.

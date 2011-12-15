@@ -1,0 +1,4 @@
+# Članak 4.
+Kada policijski službenik odnosno druga ovlaštena osoba upravlja prometom na raskrižju, znakove kojima se naređuje zaustavljanje svih vozila i zabrana prolaza za određene sudionike u prometu daje nalazeći se u sredini raskrižja ili na drugom pogodnom mjestu gdje ga mogu lako uočiti svi sudionici u prometu.
+Ako se u jednom raskrižju nalazi više policijskih službenika odnosno drugih ovlaštenih osoba koje upravljaju prometom, znaci što ih daju te osobe moraju biti međusobno usklađeni.
+Iznimno od odredbe stavka 1. ovoga članka, ako bi se time postiglo uspješnije upravljanje prometom, znakove iz članka 5. točaka 1., 2. i 6. ovoga Pravilnika može davati i policijski službenik, odnosno druga ovlaštena osoba koja se ne nalazi na sredini raskrižja uz uvjet da ga mogu lako uočiti svi sudionici u prometu kojima su znaci namijenjeni.

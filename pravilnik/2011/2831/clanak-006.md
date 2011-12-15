@@ -1,0 +1,5 @@
+# Članak 6.
+Znakove kojima se naređuje smanjenje brzine kretanja, ubrzavanje kretanja i zaustavljanje određenog sudionika u prometu, policijski službenik može davati i iz policijskog vozila.
+U slučajevima iz stavka 1. ovoga članka, na krovu policijskog vozila mora biti uključeno plavo rotacijsko svjetlo ili bljeskalice plave boje i zvučni signali, policijsko vozilo kreće se iza ili ispred vozila koje se namjerava zaustaviti, a policijski službenik pomoću pločice »Stop policija«, rukom ili drugim tehničkim sredstvom izdaje sudioniku u prometu odgovarajuće naredbe odnosno zapovijedi.
+Kada je na policijskom vozilu ugrađen display s naredbama i zapovjedima: »obavezno zaustavljanje«, »stop policija«, »smanjite brzinu«, »prometna nesreća«, »opasnost na cesti« i sl., policijski službenik uz plavo rotacijsko svjetlo ili bljeskalice plave boje uključuje i displej s izdanom odgovarajućom naredbom ili zapovijedi.
+Vozač kojemu su izdane naredbe i zapovijedi iz stavka 2. i 3. ovoga članka, dužan je postupiti sukladno izdanoj naredbi ili zapovijedi.

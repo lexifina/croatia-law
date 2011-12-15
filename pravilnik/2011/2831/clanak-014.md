@@ -1,0 +1,2 @@
+# Članak 14.
+Na raskrižju i na drugom mjestu na kojem se prometom na cestama upravlja uređajima za davanje prometnih svjetala (semaforima ili drugim uređajima), u slučaju zastoja ili neravnomjernog opterećenja prometnih tokova, policijski službenici odnosno druge ovlaštene osobe mogu upravljati prometom ručnim podešavanjem tih uređaja ili fizički (pokretima ruku i tijela), potpunim isključenjem semafora i drugih uređaja ili podešavanjem semafora na način da je uključeno samo žuto trepćuće svjetlo.

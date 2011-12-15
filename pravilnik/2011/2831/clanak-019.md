@@ -1,0 +1,4 @@
+# Članak 19.
+Mjesta i dionice ceste na kojima će se obavljati nadzor, određuju se planom rada policijske uprave odnosno policijske postaje ili dnevnim rasporedom rada policijske postaje, sukladno analitičko-statističkim pokazateljima stanja sigurnosti, pri tome vodeći računa da to ne bude uvijek na istim mjestima.
+Prekršaji vezani uz brzinu kretanja vozila neće se utvrđivati u zoni od 100 metara od postavljenog prometnog znaka za obilježavanja naseljenih mjesta ili od prometnog znaka izričitih naredbi »ograničenja brzine«.
+Iznimno od stavka 2. ovoga članka, prekršaji vezani uz brzinu kretanja vozila u zonama škola ili drugih ustanova gdje se okuplja veći broj djece mogu se utvrđivati u zoni od 30 metara od postavljenog prometnog znaka izričitih naredbi »ograničenja brzine« ili prometnog znaka opasnosti »djeca na cesti«.

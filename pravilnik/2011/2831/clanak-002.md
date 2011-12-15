@@ -1,0 +1,6 @@
+# Članak 2.
+Upravljanje i nadzor prometa na cestama obavlja se na temelju svakodnevnog praćenja stanja i uočavanja sigurnosnih problema i pokazatelja o stanju sigurnosti prometa, a obavlja se stalno ili povremeno, na raskrižjima ili drugim mjestima na cesti, radi postizanja veće protočnosti prometa i sigurnosti sudionika u prometu te zaštite ljudi i imovine.
+Stalno upravljanje prometom na cestama obavlja se svakodnevno, u određeno doba dana.
+Povremeno upravljanje prometom na cestama obavlja se na mjestima i u vrijeme očekivanog ili izvanrednog povećanja prometa na cestama i njegovog otežanog odvijanja (dani vikenda, športske ili druge priredbe ili aktivnosti na cesti, sajmišni dani, prometne nesreće i nepogode na cesti i sl.).
+Upravljanje i nadzor prometa na cestama policijski službenici obavljaju u odori.
+Iznimno od odredbe stavka 4. ovoga članka, nadzor i upravljanje prometom na cestama policijski službenici mogu po nalogu nadređenog službenika obavljati i u civilnoj odjeći. Za vrijeme nadzora i upravljanja prometom na cestama, kao i obavljanja očevida prometnih nesreća, policijski službenici obavezno nose reflektirajući prsluk s otisnutim natpisom »POLICIJA«, osim u slučaju kada se nalaze u vozilu koje je u pokretu i policijskih službenika motociklista kada nose propisano motociklističko odijelo.

@@ -1,0 +1,3 @@
+# Članak 29.
+Kada je policijska uprava, odnosno policijska postaja obaviještena da se na određenoj cesti izvode radovi ili se provode aktivnosti zbog kojih može doći do smetnji ili poremećaja prometnih tokova, odnosno kada je primila obavijest o njihovom početku i trajanju, utvrdit će je li pravna osoba nadležna za održavanje cesta ili druga ovlaštena osoba poduzela primjerene mjere za sigurno i nesmetano odvijanje prometa.
+Ukoliko policijski službenik utvrdi da nisu poduzete primjerene mjere za sigurno i nesmetano odvijanje prometa, protiv pravne osobe nadležne za održavanje cesta ili druge odgovorne osobe pokrenut će odgovarajući postupak.
