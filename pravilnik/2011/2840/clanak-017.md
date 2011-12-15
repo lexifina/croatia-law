@@ -1,0 +1,7 @@
+## Poslijetretmanska pomoć
+# Članak 17.
+(1) Stručni radnik Zavoda koji osigurava izvršavanje odgojne mjere obvezan je, nakon izvršenja odgojne mjere, i nadalje pružati maloljetniku/mlađem punoljetniku sustavnu stručnu i drugu pomoć u svrhu njegovog daljnjeg odgoja i obrazovanja, radnog osposobljavanja, zapošljavanja, liječenja, poboljšanja prilika u kojima živi, kao i pravovremeno poduzimati potrebne radnje i mjere za otklanjanje okolnosti koje bi mogle štetno utjecati na njegovu socijalnu integraciju te recidivizam u činjenju kaznenih djela i prekršaja.
+(2) Stručni radnik Zavoda će najkasnije 30 dana prije otpusta iz ustanove, u suradnji s maloljetnikom i njegovim roditeljima/skrbnicima ili mlađim punoljetnikom, zajednički sačiniti okvirni plan njegovog uključivanja u svakodnevni život, uzimajući u obzir mogućnosti Zavoda i resurse lokalne zajednice.
+(3) Okvirni plan sadržavat će, imajući u vidu potrebe maloljetnika/mlađeg punoljetnika, pružanje pomoći iz nadležnosti Zavoda, primarno materijalne pomoći, pomaganje u prevladavanju svakodnevnih teškoća, savjetovanje i nadzor, te pružanje potpore u daljnjem obrazovanju, zapošljavanju, stambenom zbrinjavanju i slično.
+(4) Zavod može maloljetnika/mlađeg punoljetnika uključiti u programe podrške koje ovoj skupini mladih pružaju udruge i druge pravne osobe.
+(5) Pomoć iz stavka 1. ovog članka Zavod će pružati najmanje 6 mjeseci nakon otpusta, a po potrebi i duže.

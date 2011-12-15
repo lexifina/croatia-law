@@ -1,0 +1,4 @@
+## Obveze stručnog radnika Zavoda
+# Članak 43.
+(1) Stručni radnik Zavoda obvezan je dovesti maloljetnika/mlađeg punoljetnika na izvršavanje odgojne mjere u odgojnu ustanovu te obvezati roditelja/skrbnika da prisustvuje njegovu prijemu na izvršenje odgojne mjere i sudjeluje u izradi Programa, kontaktirati s voditeljem mjere-matičnim odgajateljem tijekom njezina izvršenja, odmah obavijestiti odgojnu ustanovu o svim važnim činjenicama te prisustvovati sjednicama stručnog tima u ustanovi i kontrolnim ročištima na sudu.
+(2) Stručni radnik Zavoda obvezan je kontinuirano surađivati s roditeljima/skrbnicima, odgojnom ustanovom, kao i obrazovnom ustanovom ako se maloljetnik/mlađi punoljetnik školuje ili osposobljava za rad, sudovima za mladež, državnim odvjetništvom, policijom i širom lokalnom zajednicom.

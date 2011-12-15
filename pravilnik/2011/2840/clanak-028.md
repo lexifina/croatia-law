@@ -1,0 +1,12 @@
+## Posebna obveza uključivanja u pojedinačni ili skupni psihosocijalni tretman u savjetovalištu za mlade
+# Članak 28.
+(1) Voditelj odgojne mjere posebne obveze uključivanja u pojedinačni ili skupni psihosocijalni tretman u savjetovalištu za mlade, planira i dogovara s maloljetnikom/mlađim punoljetnikom dinamiku i način izvršavanja dogovorenih obveza te o tome sastavlja pisani sporazum.
+(2) Voditelj odgojne mjere dostavit će u savjetovalište prije prijema maloljetnika/mlađeg punoljetnika uz rješenje suda uputnicu za izvršavanje odgojne mjere iz stavka 1. ovog članka te izvješće Zavoda, a na prvo savjetovanje maloljetnik/mlađi punoljetnik dolazi u pratnji ili bez pratnje roditelja/skrbnika, ovisno o stručnoj procjeni voditelja mjere.
+(3) Na temelju dostavljene dokumentacije iz stavka 2. ovog članka, voditelj tretmana u savjetovalištu sačinit će Program u suradnji s maloljetnikom/mlađim punoljetnikom.
+(4) U slučaju da se posebna obveza iz stavka 1. ovog članka izvršava nad maloljetnikom/mlađim punoljetnikom koji ima pozitivnu psihijatrijsku anamnezu za psihoterapijski ili psihijatrijski tretman, program se izvršava po pravilima zdravstvene struke.
+(5) Psihosocijalni tretman se provodi pružanjem potpore, savjetovanjem, poučavanjem, vođenjem i osnaživanjem maloljetnika/mlađeg punoljetnika i drugim stručnim postupcima temeljenim na suvremenim postignućima znanosti i stručne prakse, tijekom pojedinačnog i/ili skupnog rada.
+(6) Psihosocijalni tretman se izvršava u trajanju od najmanje 12 susreta.
+(7) Iznimno, pojedinačni psihosocijalni tretman može trajati i kraće, ukoliko su postugnuti očekovani rezultati savjetovanja.
+(8) Poslove psihosocijalnog tretmana može provoditi stručni radnik iz članka 6. stavka 1. ovog Pravilnika te doktor medicine specijalist psihijatar, koji imaju najmanje trogodišnje radno iskustvo u radu s mladima s poremećajima u ponašanju i njihovim obiteljima te završene dodatne edukacije iz područja psihološkog/psihosocijalnog savjetovanja ili psihoterapije.
+(9) U savjetovalištu za mlade vodi se evidencija o tijeku i rezultatima savjetovanja za svakog korisnika te po završetku izrađuje i voditelju odgojne mjere dostavlja pisano izvješće.
+(10) Posebnu obvezu uključivanja u savjetovalište izvršava u pravilu Zavod, a izvršavanje ove mjere može se povjeriti i pravnim osobama registriranim za ovu djelatnost iz Popisa pravnih osoba u kojima se izvršavaju posebne obveze koji donosi ministarstvo nadležno za socijalnu skrb.

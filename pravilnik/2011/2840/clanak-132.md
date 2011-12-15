@@ -1,0 +1,3 @@
+# Članak 132.
+(1) Stručni radnik koji se na dan stupanja na snagu ovoga Pravilnika zatekne na radnom mjestu odgajatelja u odgojnoj ustanovi u kojoj se izvršavaju odgojne mjere iz ovoga Pravilnika, a nema razinu obrazovanja propisanu ovim Pravilnikom, nastavlja s obavljanjem poslova odgajatelja, uz uvjet da završi dodatne edukacije u roku od 1 godine od dana stupanja na snagu minimalnih standarda edukacija i trajnog stručnog usavršavanja iz članka 7. ovoga Pravilnika.
+(2) Vanjski suradnici koji sudjeluju u izvršavanju odgojnih mjera a nemaju završene potrebne edukacije, obvezni su ih završiti u roku od 6 mjeseci od donošenja minimalnih standarda edukacija.

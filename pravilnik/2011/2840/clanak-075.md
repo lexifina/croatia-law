@@ -1,0 +1,12 @@
+## H) POSEBNE MJERE SIGURNOSTI I ZAŠTITE
+## Uvjeti za izdvajanje i donošenje odluke
+# Članak 75.
+(1) Ako postoji visoki rizik da će maloljetnik/mlađi punoljetnik svojim ponašanjem neposredno ugroziti osobnu sigurnost i/ili sigurnost drugih osoba ili postoji visoki rizik da je njegova sigurnost ugrožena, ili je potrebno hitna intervencija odgajatelja jer se ugrožavanje sigurnosti neposredno događa, maloljetnika/mlađeg punoljetnika može se kratkotrajno, a najduže do 7 dana, izdvojiti od ostalih izvršenika odgojne mjere u odgovarajuću prostoriju radi pružanja intenzivne socijalno-psihološke ili druge stručne pomoći.
+(2) Kada nastupi događaj tijekom kojeg maloljetnik/mlađi punoljetnik ugrožava sigurnost drugih ili uništava imovinu odgojne ustanove, potrebno je poduzeti hitne mjere da ga se kratkotrajno izdvoji u posebnu prostoriju, do dolaska hitne medicinske pomoći i/ili policijskih službenika.
+(3) O izdvajanju maloljetnika/mlađeg punoljetnika u slučaju iz stavka 2. ovog članka, zbog hitnosti postupanja, odlučuje matični odgajatelj odgojne grupe koji sudjeluje u izvršenju njegovog Programa ili drugi odgajatelj odgojne ustanove koji se zatekne na mjestu događaja u to vrijeme.
+(4) Maloljetnika/mlađeg punoljetnika može se izdvojiti i kada matični odgajatelj ili stručni tim koji sudjeluje u izvršenju njegovog Programa, procijeni da kod maloljetnika/mlađeg punoljetnika postoji visoki rizik pojave ponašanja iz stavka 1. ovog članka te ukoliko nakon prijema u odgojnu ustanovu ili tijekom izvršavanja odgojne mjere, iskaže izrazite prilagodbene teškoće i otežano prihvaćanje odgojnih utjecaja i mjera utvrđenih Programom.
+(5) Maloljetnika/mlađeg punoljetnika može se izdvojiti u posebnu prostoriju i na njegov pisani zahtjev iz razloga osobne sigurnosti.
+(6) O izdvajanju maloljetnika/mlađeg punoljetnika odlučuje ravnatelj odgojne ustanove na prijedlog stručnog tima i matičnog odgajatelja u slučajevima iz stavka 4. i 5. ovog članka.
+(7) Primjerak odluke ravnatelja iz stavka 6. ovog članka uručuje se maloljetniku i njegovim roditeljima/skrbnicima odnosno mlađem punoljetniku, protiv koje može podnijeti žalbu sucu za mladež u roku propisanom zakonom koji regulira izvršavanje izrečenih sankcija za kaznena djela i prekršaje.
+(8) Žalba ne odgađa izvršenje odluke iz stavka 6. ovog članka, a povodom žalbe ravnatelj može i sam izmijeniti svoju odluku.
+(9) O ponovnom uključivanju maloljetnika u redovite aktivnosti odlučuje ravnatelj uz prethodno pribavljeno mišljenje stručnog tima i matičnog odgajatelja.

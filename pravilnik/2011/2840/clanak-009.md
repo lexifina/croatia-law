@@ -1,0 +1,8 @@
+## Prijem na izvršavanje odgojne mjere
+# Članak 9.
+(1) Nakon izdavanja uputnice, stručni radnik Zavoda obavlja pripreme za upućivanje maloljetnika/mlađeg punoljetnika na izvršavanje odgojne mjere, te u tu svrhu organizira sastanak s maloljetnikom i njegovim roditeljima/skrbnicima odnosno s mlađim punoljetnikom, na kojem objašnjava svrhu odgojne mjere, njihove obveze za vrijeme izvršenja odgojne mjere kao i posljedice u slučaju neizvršavanja tih obveza te roditeljima/skrbnicima daje posebne upute u pogledu mjera koje trebaju poduzeti za dobrobit maloljetnika/mlađeg punoljetnika.
+(2) Roditelj/skrbnik obvezan je dovesti maloljetnika kod izvršitelja odgojne mjere u zakazano vrijeme počinjanja njezinog izvršenja, uz prisustvo stručnog radnika Zavoda i stručnog suradnika suda.
+(3) Kod prijema na izvršenje odgojnih mjera - posebne obveze liječenja i odvikavanja od droge ili druge ovisnosti i posebne obveze uključivanja u psihosocijalni tretman, maloljetnik dolazi na izvršenje u pratnji ili bez pratnje roditelja/skrbnika, ovisno o procjeni stručnog radnika Zavoda.
+(4) Izvršenje odgojne mjere započinje danom dolaska maloljetnika/mlađeg punoljetnika kod izvršitelja odgojne mjere.
+(5) Stručni radnik Zavoda obvezan je obavijestiti sud koji je mjeru izrekao o danu početka izvršavanja odgojne mjere najkasnije u roku od 8 dana od prijema.
+(6) U slučaju iz stavka 3. ovog članka da maloljetnik/mlađi punoljetnik bez opravdanog razloga ne dođe određenog dana na izvršavanje odgojne mjere, ravnatelj izvršitelja odgojne mjere i odgovorna osoba u drugoj pravnoj osobi u kojoj se izvršava odgojna mjera obvezni su o tome bez odgode obavijestiti nadležni Zavod, sud koji je mjeru izrekao i nadležnu policijsku postaju.

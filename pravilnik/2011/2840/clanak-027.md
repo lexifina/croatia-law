@@ -1,0 +1,8 @@
+## Posebna obveza podvrgavanja stručnom medicinskom postupku ili postupku odvikavanja od droge ili drugih ovisnosti
+# Članak 27.
+(1) Voditelj odgojne mjere posebne obveze podvrgavanja stručnom medicinskom postupku ili postupku odvikavanja od droge ili drugih ovisnosti, planira i dogovara s mlađim punoljetnikom odnosno maloljetnikom uz suglasnost njegovog zakonskog zastupnika, dinamiku i način izvršavanja dogovorenih obveza te o tome sastavljaju i potpisuju zajednički pisani sporazum.
+(2) Voditelj odgojne mjere uputit će maloljetnika/mlađeg punoljetnika na izvršavanje odgojne mjere iz stavka 1. ovog članka u zdravstvene ustanove koje provode stručni medicinski postupak ili postupak odvikavanja od droge ili drugih ovisnosti, i poticati stalnu suradnju i zajedničko djelovanje specijaliziranih izvanbolničkih centara za prevenciju i izvanbolničko liječenje ovisnika i liječnika primarne zdravstvene zaštite, odnosno timova obiteljske medicine.
+(3) Voditelj odgojne mjere dostavit će zdravstvenoj ustanovi uputnicu za izvršavanje posebne obveze iz stavka 1. ovog članka, najkasnije 10 dana prije početka izvršavanja mjere.
+(4) Ustanova iz stavka 2. ovog članka obvezna je svaka tri mjeseca, a po potrebi i češće, dostaviti Zavodu izvješće o rezultatima rada s maloljetnikom/mlađim punoljetnikom, te izvršavanju obveza dogovorenih pojedinačnim programom postupanja.
+(5) Ustanove iz stavka 2. ovog članka vode evidenciju o tijeku i ishodima liječenja i odvikavanja za svakog korisnika.
+(6) Zavod će uključiti udruge građana, klubove ovisnika i članove njegove obitelji u pružanju potpore maloljetniku/mlađem punoljetniku u postupku resocijalizacije i njegove ponovne integracije u lokalnu zajednicu.

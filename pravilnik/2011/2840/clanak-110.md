@@ -1,0 +1,5 @@
+## Vremenska organizacija disciplinskog centra
+# Članak 110.
+(1) U okviru izrečene mjere neprekidnog boravka u disciplinskom centru od najkraće 8 dana za prekršaj odnosno 15 dana za kazneno djelo, maloljetnik/mlađi punoljetnik ima obvezu stalnog boravka u ustanovi, bez mogućnosti izlazaka.
+(2) U okviru izrečene mjere neprekidnog boravka u disciplinskom centru od najkraće mjesec dana do najdulje 3 mjeseca, maloljetnik/mlađi punoljetnik ima obvezu stalnog boravka u ustanovi, a pogodnosti može koristiti samo ukoliko ispuni uvjete propisane ovim Pravilnikom.
+(3) Ukoliko se izrečena odgojna mjera upućivanja u disciplinski centar izvršava na način da maloljetnik/mlađi punoljetnik dolazi u disciplinski centar na određeni broj sati dnevno kroz vrijeme od 14 dana ili subotom ili nedjeljom, maloljetnik/ mlađi punoljetnik je obvezan dolaziti svakog radnog dana u tjednu ili subotom ili nedjeljom, u točno određeno vrijeme, na način da to ne remeti redovno pohađanje nastave ili poslove radnog mjesta.

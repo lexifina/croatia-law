@@ -1,0 +1,5 @@
+## Sadržaj odgojnog rada
+# Članak 10.
+(1) Uvažavajući načela individualizacije i programiranja izvršavanja sankcija, u individualnom i grupnom radu s maloljetnikom/mlađim punoljetnikom primjenjuju se sljedeći sadržaji i oblici stručne pomoći: savjetovanje, učenje komunikacijskih, socijalnih i životnih vještina, pomoć u organizaciji i načinu učenja, poticanje odgovornog i prihvatljivog ponašanja u korištenja slobodnog vremena, učenje i usvajanje društvenih normi, prevencije i suzbijanje ovisnosti te uključivanje u druge oblike stručne pomoći, vodeći brigu da proces izvršavanja odgojne mjere bude što učinkovitiji i kvalitetniji.
+(2) U radu s roditeljima koriste se metode individualnog rada, te grupnog rada i drugi oblici stručne pomoći: savjetovanje, učenje roditeljskih vještina, odgovornosti i suradnje ovisno opotrebama korisnika te se pruža potpora obitelji.
+(3) Sadržaj odgojnog rada prati se kroz evidenciju i dokumentaciju i izvješća stručnog radnika koji provodi mjeru prema strukturiranom procesu izvršavanja odgojne mjere.
