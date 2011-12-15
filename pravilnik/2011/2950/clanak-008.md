@@ -1,0 +1,5 @@
+# Članak 8.
+U članku 14. iza stavka 2. dodaje se novi stavak 3., koji glasi:
+»(3) Ako prvostupanjsko tijelo vještačenja nije dalo nalaz i mišljenje u roku od 40 dana od dana primitka zaključka ili je zastalo s postupkom zbog okolnosti iz članka 9. stavka 4. ovoga pravilnika, pa se radi toga postupak za priznanje prava na doplatak za pomoć i njegu i osobnu invalidninu ne može završiti u roku određenom zakonom, zavod za socijalnu skrb u županiji odnosno područni centar za socijalnu skrb će privremenim rješenjem odrediti isplatu predujma doplatka za pomoć i njegu i osobne invalidnine, kada prema okolnostima slučaja, medicinskoj dokumentaciji i podacima kojima raspolaže na nedvojben način utvrdi da postoji potreba pomoći i njega druge osobe ili prijeka potreba uključivanja u svakodnevni život, od dana izvršnosti tog rješenja do okončanja postupka.«.
+U istom članku u stavku 4. i 6. riječi: »Centar za socijalnu skrb« zamjenjuju se riječima: »Zavod za socijalnu skrb u županiji odnosno područni centar za socijalnu skrb«.
+Dosadašnji stavci 3., 4., 5. i 6. postaju stavci 4., 5., 6., 7. i 8.
