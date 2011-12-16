@@ -1,0 +1,1 @@
+Na temelju članka 24. stavka 3. Zakona o Hrvatskoj poljoprivrednoj komori (»Narodne novine« br. 30/09 i 127/10) i članka 87. Statuta Hrvatske poljoprivredne komore (»Narodne novine« br. 24/10, 31/10 i 142/10), Skupština Hrvatske poljoprivredne Komore na sjednici održanoj 16. prosinca 2011., donosi
