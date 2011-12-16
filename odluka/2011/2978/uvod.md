@@ -1,0 +1,1 @@
+Na temelju članka 32. stavka 2. točke 10., članka 34., članka 38. stavka 2. točke 2. Zakona o reviziji (»Narodne novine« broj 146/05 i 139/08) i članka 13. stavka 1. točke 2. Statuta Hrvatske revizorske Komore (»Narodne novine« broj 63/06 i 53/09), Skupština Hrvatske revizorske komore na sjednici 11. lipnja 2011., donosi
