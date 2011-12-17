@@ -1,0 +1,1 @@
+Na temelju članka 90. stavka 6. Zakona o državnim službenicima (»Narodne novine«, br. 92/2005, 107/2007, 27/2008 i 49/2011), Vlada Republike Hrvatske je na sjednici održanoj 10. studenoga 2011. godine donijela
