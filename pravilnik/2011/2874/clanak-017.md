@@ -1,0 +1,5 @@
+## Imenovanje arbitražnog vijeća
+# Članak 17.
+(1) Ako arbitražu provodi vijeće od tri arbitra, svaka stranka imenovat će po jednog člana vijeća. Tako imenovani članovi vijeća izabrat će trećeg člana koji će biti predsjednik vijeća.
+(2) Ako tužitelj ne imenuje arbitra člana vijeća u tužbi niti u roku od 15 dana nakon što je naknadno pozvan da to učini, odnosno ako tuženik ne imenuje arbitra člana vijeća u odgovoru na tužbu niti u roku od 15 dana nakon što je naknadno pozvan da to učini, člana vijeća će umjesto stranke imenovati ovlaštenik za imenovanje (članak 19.).
+(3) Ako se dva člana vijeća imenovana prema odredbama prethodnih stavaka, u roku od 30 dana od imenovanja člana vijeća koji je kasnije imenovan, ne mogu sporazumjeti o izboru predsjednika vijeća, predsjednika vijeća imenovat će ovlaštenik za imenovanje (članak 19.).

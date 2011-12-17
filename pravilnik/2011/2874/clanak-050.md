@@ -1,0 +1,5 @@
+## Određivanje privremenih mjera prije osnivanja arbitražnog suda
+# Članak 50.
+(1) Ako budu ispunjene pretpostavke za određivanje privremenih mjera prije osnivanja arbitražnog suda, te mjere može kao arbitar pojedinac odrediti predsjednik Sudišta ili arbitar s liste arbitara Sudišta kojeg on imenuje, u skladu s odredbama Pravilnika. Predsjednik Sudišta i imenovani arbitar imaju do osnivanja arbitražnog suda sva ovlaštenja koja u arbitražnom postupku ima arbitražni sud u vezi s određivanjem, provedbom i održanjem na snazi privremenih mjera.
+(2) U iznimno hitnim slučajevima predsjednik Sudišta ili arbitar koga on imenuje mogu odrediti u povodu prijedloga stranke privremenu mjeru u skladu s odredom stavka 1. ovoga članka i prije podnošenja tužbe sudu. U tom će se slučaju u odluci o određivanju privremene mjere odrediti rok za podnošenje tužbe. Ako tužba ne bude podnesena u tom roku, privremena mjera će se staviti izvan snage.
+(3) Nakon što bude osnovan, arbitražni sud može postupiti u povodu privremenih mjera koje su određene prema odredbi stavka 1. ovoga članka kao da ih je sam odredio.
