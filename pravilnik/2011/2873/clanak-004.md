@@ -1,0 +1,2 @@
+# Članak 4.
+Kad Predsjedništvo Sudišta na temelju odredaba Pravilnika samostalno odlučuje o nekoj stvari, za pravovaljano odlučivanje potrebno je da sjednici predsjedništva prisustvuju predsjednik ili potpredsjednik i četiri člana predsjedništva. Ako sjednici predsjedništva prisustvuje počasni predsjednik, za pravovaljano odlučivanje potrebno je prisustvovanje predsjednika ili potpredsjednika, počasnog predsjednika i četiriju članova predsjedništva.

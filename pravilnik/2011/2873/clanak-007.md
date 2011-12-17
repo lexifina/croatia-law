@@ -1,0 +1,3 @@
+# Članak 7.
+1. Predsjedništvo Sudišta vodi opći nadzor nad radom Sudišta, brine se o pravilnoj primjeni pravilnika i drugih općih akata Sudišta, sudjeluje u odlučivanju o nadležnosti Sudišta, odlučuje o korištenju i raspoređivanju financijskih sredstava Sudišta, razmatra i odobrava godišnja izvješća Sudišta i plan rada Sudišta za sljedeću godinu, te obavlja druge poslove određene Pravilnikom, Zagrebačkim pravilima i drugim aktima Sudišta.
+2. Ako arbitražni sud ne prihvatiti upozorenja o potrebi preinake forme podnesenog nacrta, o opravdanosti tih upozorenja odlučuje predsjedništvo Sudišta (Čl. 8. st. 3.).
