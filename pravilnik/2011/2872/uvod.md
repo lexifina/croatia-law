@@ -1,0 +1,1 @@
+Na temelju članka 21. Statuta Hrvatske gospodarske komore (»Narodne novine« broj 11/94 - pročišćeni tekst, 108/95, 19/96, 64/01) Skupština Hrvatske gospodarske komore na 10. sjednici 30. studenoga 2011. godine donosi
