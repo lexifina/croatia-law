@@ -1,0 +1,1 @@
+Na temelju članka 6. stavka 2. i članka 7. stavka 1. Zakona o plaćama u javnim službama (»Narodne novine«, broj 27/2001), Vlada Republike Hrvatske je na sjednici održanoj 10. studenoga 2011. godine donijela
