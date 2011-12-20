@@ -1,0 +1,1 @@
+Pravilnik o izmjenama Pravilnika o izravnim plaćanjima u poljoprivredi, potporamka za očuvanje izvornih i zaštićenih pasmina domaćih životinja, potporama za ekološku i integriranu poljoprivrednu proizvodnju i potporama za područja s težim uvjetima gospodarenja u poljoprivredi
