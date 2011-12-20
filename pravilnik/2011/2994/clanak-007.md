@@ -1,0 +1,14 @@
+## III. RJEŠENJE O ODOBRAVANJU KORIŠTENJA PRAVNE POMOĆI
+# Članak 7.
+Rješenje o odobravanju korištenja pravne pomoći (u daljnjem tekstu: Rješenje) donosi se na obrascu (ROPP) koji mora sadržavati sljedeće podatke:
+Naziv Ureda državne uprave u županiji, klasu, urudžbeni broj, mjesto i datum izdavanja.
+Uvod Rješenja sadržava: naziv javnopravnog tijela koje je rješenje donijelo, propis o nadležnosti, osobno ime podnositelja zahtjeva, i osoba ovlaštenih za zastupanje, OIB ili MBG, kratku oznaku predmeta postupka.
+Izreka Rješenja sadržava: Ime i prezime stranke (podnositelj zahtjeva), kratak opis pravne stvari za koji je pravna pomoć odobrena, vrstu i opseg odobrene pravne pomoći, konstataciju da rješenje vrijedi samo za pravnu stvar radi koje je izdano i da se ne može koristiti u druge svrhe, da korisnik slobodno bira ovlaštenog pružatelja u skladu s odredbom članka 30. stavka 3. Zakona, da će Rješenje biti poništeno po službenoj dužnosti u smislu članka 30. stavka 7. Zakona. Ukoliko je rješenje izdano za korištenje sekundarne pravne pomoći, izreka sadrži i odredbu članka 4. stavka 4. Zakona. Također, izreka sadrži u posebnoj točci i konstataciju da žalba ne odgađa izvršenje Rješenja, u smislu članka 32. Zakona.
+Obrazloženje sadrži kratki opis zahtjeva stranke, utvrđeno činjenično stanje, odlučujuće razloge pri ocjeni pojedinih dokaza, razloge zbog kojih je usvojen zahtjev stranke, te propis na temelju kojeg je riješena upravna stvar.
+Također, obrazloženje Rješenje sadrži i upozorenje o nastupanju pravnih posljedica u slučaju ne pridržavanja odredbi Zakona koje se odnose na Rješenje (članci 38., 38.a. i 41. Zakona).
+Uputa o pravnom lijeku sadrži rok za izjavljivanje žalbe, način predaje odnosno izjavljivanje žalbe i obvezu plaćanja upravne pristojbe u skladu s posebnim propisom.
+Sastavni dio Rješenja čini i obrazac obavijesti o primitku rješenja o odobravanju korištenja pravne pomoći (ORPP), a koji se prilaže rješenju i popunjava ga odbrani pružatelj.
+Obračun troškova pravne pomoći ispunjava pružatelj. Pružatelj pravne pomoći dužan je vratiti uredu popunjen obračun troškova uz rješenje o odobravanju korištenja pravne pomoći nakon pružene pravne pomoći. Rješenje koje pružatelj vraća uredu predaje se zajedno s originalima računa za nastale troškove. Ako Rješenje ne bude vraćeno u roku od 15 dana od izvršenja zadnje pravne radnje za koju je Rješenje izdano, smatrat će se da pravna pomoć nije pružena (čl. 55. st. 3. Zakona).
+U obračun troškova upisuju se podaci o nazivu pružatelja pravne pomoći, sjedište pružatelja pravne pomoći, vrsti postupka ili pravnih radnji poduzetih u okviru pružene pravne pomoći, datum okončanja postupka ili pojedinih radnji u okviru pružene pravne pomoći, ukupni troškovi pružene pravne pomoći, datum vraćanja Rješenja i prilozi.
+Ispunjava osoba koja je izvršila pregled obračuna i dokumentacije i daje suglasnost.
+Upisuje se obračun troškova ili iznosa koji se imaju vratiti ili nadoknaditi.

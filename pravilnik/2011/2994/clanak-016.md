@@ -1,0 +1,4 @@
+## Propisi koji prestaju važiti
+# Članak 16.
+Danom stupanja na snagu ovog Pravilnika prestaje važiti Pravilnik o obrascu zahtjeva za odobravanje korištenja besplatne pravne pomoći, obrascu uputnice i evidenciji izdanih uputnica (»Narodne novine« broj 13/09) i Pravilnik o izmjeni Pravilnika o obrascu zahtjeva za odobravanje korištenja besplatne pravne pomoći, obrascu uputnice i evidenciji izdanih uputnica (»Narodne novine« broj 13/10).
+Postupci odobravanja pravne pomoći pokrenuti na temelju Obrasca zahtjeva ZOBBP-1, Pravilnika o obrascu zahtjeva za odobravanje korištenja besplatne pravne pomoći, obrascu uputnice i evidenciji izdanih uputnica (»Narodne novine« broj 13/09) i Pravilnika o izmjeni Pravilnika o obrascu zahtjeva za odobravanje korištenja besplatne pravne pomoći, obrascu uputnice i evidenciji izdanih uputnica (»Narodne novine« broj 13/10) dovršit će se sukladno odredbama ovog Pravilnika.

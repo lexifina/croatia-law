@@ -1,0 +1,2 @@
+# Članak 9.
+Kada se radi o slučajevima kod kojih bi zbog prenošenja izdavanja Rješenja u sljedeći mjesec moglo doći do gubitka prava zbog proteka roka izdat će se Rješenje u vrijednosti koja ne prelazi 10% sredstava mjesečno osiguranih za besplatnu pravnu pomoć. Ako bi zbog vrijednosti postupka došlo do prekoračenja iznosa osiguranih mjesečnih sredstava izdat će se Rješenje za pravnu radnju potrebnu za osiguravanje ostvarivanja prava podnositelja zahtjeva a za cijeli postupak izdat će se Rješenje u prvom sljedećem mjesecu u kojem postoje raspoloživa sredstva.
