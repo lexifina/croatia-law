@@ -1,0 +1,2 @@
+# Članak 1.
+Ovim Pravilnikom propisuju se uvjeti koje mora ispunjavati pravna osoba ovlaštena za izdavanje i oduzimanja odobrenja tipa cisterni i odobrenja za pojedinačne cisterne, fiksno pričvršćene za vozilo za prijevoz tekućih zapaljivih tvari i plinova u cestovnom prometu, uvjeti, način i postupak izdavanja i oduzimanja tih odobrenja, vrste pregleda (ispitivanja) cisterni te način vođenja evidencija o izdanim odobrenjima.
