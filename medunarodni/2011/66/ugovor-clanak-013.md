@@ -1,0 +1,2 @@
+# Članak 13.
+Ova Konvencija neće se tumačiti na način da utječe na bilo koje odredbe koje više pridonose smanjenju slučajeva bezdržavljanstva koje može sadržavati pravo bilo koje države ugovornice i koje su na snazi sada ili od sada nadalje, ili koje mogu biti sadržane u bilo kojoj drugoj konvenciji, ugovoru ili sporazumu, koji su na snazi sada ili od sada nadalje, između dviju ili više država ugovornica.

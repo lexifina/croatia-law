@@ -1,0 +1,3 @@
+# Članak 10.
+1. Svaki ugovor između država ugovornica koji predviđa prijenos državnog područja će sadržavati odredbe kojima je cilj osigurati da niti jedna osoba ne ostane bez državljanstva kao rezultat prijenosa. Država ugovornica svojim najboljim naporima osigurava da svi takvi ugovori sklopljeni između nje i države koja nije stranka ove Konvencije sadržavaju takve odredbe.
+2. U nedostatku takvih odredaba, država ugovornica kojoj je preneseno državno područje ili koja je na drugi način stekla državno područje, dodjeljuje svoje državljanstvo onim osobama koje bi u protivnom postale osobe bez državljanstva kao rezultat prijenosa ili stjecanja.

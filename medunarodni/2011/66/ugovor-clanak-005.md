@@ -1,0 +1,3 @@
+# Članak 5.
+1. Ukoliko pravo države ugovornice predviđa gubitak državljanstva kao posljedicu bilo kakve promjene u osobnom statusu osobe poput braka, prestanka braka, pozakonjenja, priznavanja ili posvojenja, takav gubitak bit će uvjetovan posjedovanjem ili stjecanjem drugog državljanstva.
+2. Ukoliko, prema pravu države ugovornice, dijete rođeno izvan braka gubi državljanstvo te države kao posljedicu priznavanja očinstva, daje mu se mogućnost ponovnog stjecanja tog državljanstva putem pisanog zahtjeva odgovarajućem tijelu, pri čemu uvjeti koji uređuju takav zahtjev nisu stroži od onih utvrđenih stavkom 2. članka 1. ove Konvencije.

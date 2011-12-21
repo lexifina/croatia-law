@@ -1,0 +1,8 @@
+# Članak 7.
+1. (a) Ukoliko pravo države ugovornice dozvoljava odricanje od državljanstva, takvo odricanje neće dovesti do gubitka državljanstva osim ako dotična osoba posjeduje ili stekne drugo državljanstvo.
+(b) Odredbe podstavka (a) ovog stavka se ne primjenjuju kada njihova primjena ne bi bila u skladu s načelima navedenim u člancima 13. i 14. Opće deklaracije o ljudskim pravima koju je 10. prosinca 1948. odobrila Opća skupština Ujedinjenih naroda.
+2. Državljanin države ugovornice koji u stranoj zemlji traži prirođenje neće izgubiti svoje državljanstvo osim ako stekne ili mu je zajamčeno stjecanje državljanstva te strane zemlje.
+3. Pridržavajući se odredaba stavaka 4. i 5. ovog članka, državljanin države ugovornice neće izgubiti svoje državljanstvo i tako postati bez državljanstva iz razloga odlaska, prebivanja u inozemstvu, propusta pri prijavi ili bilo kojeg drugog razloga.
+4. Prirođena osoba može izgubiti svoje državljanstvo zbog prebivanja u inozemstvu tijekom razdoblja, koje nije kraće od sedam uzastopnih godina, određenog pravom dotične države ugovornice, ako propusti prijaviti odgovarajućem tijelu svoju namjeru zadržavanja svog državljanstva.
+5. U slučaju državljanina države ugovornice rođenog izvan njezinog državnog područja, pravo te države može zadržavanje njezinog državljanstva nakon isteka godine dana nakon njegovog stjecanja punoljetnosti uvjetovati prebivanjem na državnom području države u tom trenutku ili prijavom odgovarajućem tijelu.
+6. Izuzev okolnosti spomenutih u ovom članku, osoba neće izgubiti državljanstvo države ugovornice ukoliko bi zbog takvog gubitka ostala bez državljanstva, bez obzira što takav gubitak nije izričito zabranjen niti jednom drugom odredbom ove Konvencije.
