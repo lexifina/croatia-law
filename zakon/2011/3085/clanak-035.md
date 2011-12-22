@@ -1,0 +1,3 @@
+# Članak 35.
+Državna uprava za zaštitu i spašavanje obavlja upravne i stručne poslove koji se odnose na: uspostavu sustava zaštite i spašavanja građana, materijalnih dobara i drugih dobara u katastrofama; osposobljavanje i usavršavanje sudionika zaštite i spašavanja, pružanje nužne pomoći radi otklanjanja posljedica u slučaju opće opasnosti prouzročene elementarnim nepogodama, epidemijama i drugim katastrofama; poslove civilne zaštite; poslove vatrogastva; sustav uzbunjivanja i obavješćivanja te međunarodnu suradnju u području zaštite i spašavanja.
+Državna uprava za zaštitu i spašavanje obavlja i druge poslove koji su mu stavljeni u nadležnost posebnim zakonom.

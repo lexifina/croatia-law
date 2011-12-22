@@ -1,0 +1,3 @@
+# Članak 28.
+Državna geodetska uprava obavlja upravne i druge poslove koji se odnose na: geodetske i katastarske poslove, a posebice na izradu, obnovu i održavanje izmjere i katastra nekretnina; informatizaciju katastra i geodetsko-prostornog sustava; topografsko-hidrografsku kartografiju; vođenje geodetske dokumentacije; vođenje statističkih podataka katastra nekretnina i vodova; geodetsko-katastarske poslove za državnu granicu; razvitak i primjenu tehnologije geodetske izmjere u znanosti, gospodarstvu i drugim djelatnostima u kojima se zasnivaju ili ostvaruju intervencije u prostoru.
+Državna geodetska uprava obavlja i druge poslove koji su joj stavljeni u nadležnost posebnim zakonom.

@@ -1,0 +1,4 @@
+# Članak 32.
+Državni zavod za statistiku obavlja stručne poslove koji se odnose na: pripremu i provedbu programa statističkih aktivnosti Republike Hrvatske, a posebice prikuplja, obrađuje, čuva, analizira, objavljuje i daje na korištenje statističke podatke na temelju jedinstvene metodologije i jedinstvenih statističkih standarda; unapređivanje statističkih metoda; izgrađivanje statističkoga informacijskoga sustava kao dijela sustava informiranja; uvođenje i vođenje statističkih registara; davanje metodoloških i drugih stručnih uputa za statistička istraživanja i nadzor nad njihovim provođenjem, razmjenjivanje statističkih podataka s drugim državnim i međunarodnim organizacijama.
+Državni zavod obavlja i stručne poslove koji se odnose na analizu i prognozu makroekonomskih kretanja u nacionalnom gospodarstvu.
+Državni zavod obavlja i druge poslove koji su mu stavljeni u nadležnost posebnim zakonom.

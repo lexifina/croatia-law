@@ -1,0 +1,5 @@
+# Članak 14.
+Ministarstvo rada i mirovinskoga sustava obavlja upravne i druge poslove koji se odnose na: politiku zapošljavanja, uređivanje radnih odnosa; tržište rada i aktivnu politiku zapošljavanja; programe radnih prekvalifikacija i povećanja zapošljivosti; sustav i politiku mirovinskog osiguranja, evidenciju nezaposlenosti i pomoć pri zapošljavanju; socijalno partnerstvo i odnose sa sindikatima i udrugama poslodavaca u području radnopravnih odnosa, tržišta rada i zapošljavanja; radnopravni status hrvatskih državljana zaposlenih u inozemstvu i poslove vezano uz njihov povratak i zapošljavanje u zemlji; radnopravni status stranih državljana zaposlenih u Republici Hrvatskoj; unapređenje sustava zaštite na radu; međunarodnu suradnju na području rada i zapošljavanja.
+Sudjeluje u pripremi programa i projekata te provedbi projekata iz programa Europske unije i ostalih oblika međunarodne pomoći.
+Ministarstvo obavlja poslove koji se odnose na sudjelovanje Republike Hrvatske u radu tijela Europske unije u područjima iz njegove nadležnosti.
+Ministarstvo obavlja i druge poslove koji su mu stavljeni u nadležnost posebnim zakonom.
