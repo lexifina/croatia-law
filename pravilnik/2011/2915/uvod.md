@@ -1,0 +1,1 @@
+Na temelju članka 5. stavka 4., članka 7. stavka 8., članka 8. stavka 5. i članka 13. stavka 6. Zakona o humanitarnoj pomoći (»Narodne novine«, broj 128/10), ministar zdravstva i socijalne skrbi donosi

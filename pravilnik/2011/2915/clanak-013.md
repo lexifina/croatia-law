@@ -1,0 +1,4 @@
+# Članak 13.
+Neprofitne i profitne pravne i fizičke osobe kojima je izdana suglasnost iz članka 7. stavka 2. Zakona, kojom se odobrava organiziranje humanitarne akcije obvezne su voditi evidenciju i dostavljati izvješća o provedenoj humanitarnoj akciji na Obrascu broj 9.
+Obrazac broj 9. sadrži opće podatke o podnositelju Zahtjeva kojem je izdana prethodna suglasnost iz članka 7. stavka 2. Zakona, kojom se odobrava organiziranje humanitarne akcije, podatke o provedenoj humanitarnoj akciji, te propisuje obrazac Potvrde o preuzetoj humanitarnoj pomoći - materijalnoj/financijskoj.
+Obrazac evidencije iz stavka 1. ovoga članaka popunjava se u dva primjerka od kojih jedan zadržava pravna, odnosno fizička osoba, a drugi se dostavlja nadležnom uredu u roku od trideset (30) dana od dana provedene humanitarne akcije.
