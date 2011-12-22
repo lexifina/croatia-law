@@ -1,0 +1,3 @@
+# Članak 1.
+U Zakonu o izborima općinskih načelnika, gradonačelnika, župana i gradonačelnika Grada Zagreba (»Narodne novine«, br. 109/07., 125/08. 24/11.) u članku 8. stavak 3. mijenja se i glasi:
+»Ako je prestanak mandata općinskog načelnika, gradonačelnika, župana i gradonačelnika Grada Zagreba nastupio zbog izbora ili imenovanja na nespojivu dužnost, a nakon najmanje dvije godine mandata u toj jedinici lokalne, odnosno područne (regionalne) samouprave i Gradu Zagrebu neće se raspisati i održati prijevremeni izbori za izbor općinskog načelnika, gradonačelnika, župana i gradonačelnika Grada Zagreba, dužnost općinskog načelnika, gradonačelnika, župana i gradonačelnika Grada Zagreba do kraja mandata obnašat će njihov zamjenik kojeg odredi osoba čiji mandat prestaje.«
