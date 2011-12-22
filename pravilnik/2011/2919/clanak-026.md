@@ -1,0 +1,4 @@
+## VII. IZGRADNJA VIŠESTAMBENOG OBJEKTA NA GRAĐEVINSKOM ZEMLJIŠTU U DRŽAVNOM VLASNIŠTVU DAROVANJEM GRAĐEVNOG MATERIJALA
+# Članak 26.
+(1) Izvođenje radova gradnje stambenih jedinica u višestambenom objektu koji se gradi na građevinskom zemljištu u državnom vlasništvu darovanim građevnim materijalom može se odobriti skupini korisnika stambenog zbrinjavanja, koji u vlastitoj organizaciji i vlastitim sredstvima grade višestambeni objekt na način da međusobne odnose urede ugovorom i da za gradnju angažiraju ovlaštenog izvođača radova koji će u njihovo ime graditi višestambeni objekt darovanim građevnim materijalom na način i u rokovima utvrđenim ovim Pravilnikom.
+(2) Korisnici su dužni nakon sklapanja ugovora o darovanju građevnog materijala, sklopiti međusobni ugovor i ugovor s ovlaštenim izvođačem radova, te o tome izvijestiti Ministarstvo u roku do 90 dana od dostave ugovora o darovanju građevnog materijala.

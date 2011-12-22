@@ -1,0 +1,7 @@
+# Članak 19.
+(1) Zahtjev za izdavanje elektroenergetske suglasnosti i priključenje na elektroenergetsku mrežu podnosi vlasnik stambenog objekta ili građevinskog zemljišta operateru distribucijskog područja HEP-a, nakon ugradnje elektroinstalaterskog materijala i provedenog ispitivanja ispravnosti elektroinstalacija.
+(2) Trošak novog priključka snosi Ministarstvo iz sredstava državnog proračuna u okviru redovitih aktivnosti ako je korisnik zahtjev podnio u roku od 6 mjeseci od dana tehničkog pregleda. Trošak obnove priključka po zahtjevu vlasnika snosi HEP.
+(3) Ministarstvo predaje operateru distribucijskog područja HEP-a popis obnovljenih i izgrađenih stambenih jedinica odnosno obnovljenih i novih priključaka.
+(4) Priključenje na elektroenergetsku mrežu vrši se prema odredbama Općih uvjeta za opskrbu električnom energijom (»Narodne novine«, broj 14/06) i Pravilnika o naknadi za priključenje na elektroenergetsku mrežu i za povećanje priključne snage (»Narodne novine«, broj 86/08). Maksimalna priključna snaga po mjernom mjestu iznosi do 5,75 kW.
+(5) Ugovorom koji sklapa Ministarstvo s HEP-om ugovaraju se između ostaloga radovi i materijali koji spadaju u naknadu za priključenje te investitorska prava i rokovi za priključenje stambenih objekata na elektroenergetsku mrežu.
+(6) Izvođenje ostalih priključaka na komunalnu infrastrukturu organizira i financira vlasnik stambenog objekta odnosno građevinskog zemljišta.

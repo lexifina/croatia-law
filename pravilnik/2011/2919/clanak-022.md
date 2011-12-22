@@ -1,0 +1,3 @@
+# Članak 22.
+Potvrdu o obiteljskoj kući koja je u ratu oštećena ili uništena i za koju nije podnesen zahtjev prema Zakonu o obnovi, izdaje Ured državne uprave nadležan za poslove obnove za obiteljske kuće koje su bile predmetom procjene Komisije za popis i procjenu ratne štete.
+Ako obiteljska kuća nije bila predmetom procjene Komisije za popis i procjenu ratne štete, status u ratu oštećene ili uništene obiteljske kuće utvrđuje Povjerenstvo za procjenu stanja stambenog objekta osnovano prema članku 9.a Zakona o područjima posebne državne skrbi. Ministarstvo ili Povjerenstvo za procjenu stanja stambenog objekta može od podnositelja zahtjeva zatražiti i druge odgovarajuće dokaze o statusu u ratu oštećene ili razorene obiteljske kuće.

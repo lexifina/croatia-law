@@ -1,0 +1,3 @@
+# Članak 2.
+(1) Izvođenje radova građenja obiteljske kuće ili stana dodjelom građevnog materijala iz članka 1. ovoga Pravilnika, korisnik stambenog zbrinjavanja provodi u vlastitoj organizaciji i vlastitim sredstvima na način i u rokovima koji su utvrđeni ovim Pravilnikom.
+(2) Izvođenje radova građenja obiteljske kuće iz članka 1. ovoga Pravilnika, može se odobriti kroz program organizirane ugradnje građevnog materijala za korisnike iz članka 11. Zakona stavka 6., 7. i 8., koju provodi Ministarstvo regionalnog razvoja, šumarstva i vodnoga gospodarstva (u daljnjem tekstu: Ministarstvo) na način i u rokovima utvrđenim ovim Pravilnikom.

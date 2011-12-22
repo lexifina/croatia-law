@@ -1,0 +1,6 @@
+# Članak 7.
+(1) Ako korisnik stambenog zbrinjavanja traži izgradnju obiteljske kuće ili stana stambene površine veće od predviđene člankom 6. ovoga Pravilnika, dužan je putem nadležnog projektanta Ministarstvu podnijeti pisani zahtjev za odobrenje sufinanciranja.
+(2) Projektant mora napraviti obračun stambene površine s posebno naznačenim obračunom stambene površine prema broju članova navedenih u rješenju o stambenom zbrinjavanju i obračunom viška stambene površine iz zahtjeva korisnika odnosno iz idejnog i glavnog projekta.
+(3) Ministarstvo može odobriti zahtjev za sufinanciranje obiteljske kuće ili stana čija stambena površina može odstupati maksimalno do 100% od propisane člankom 6. stavkom 3. ovoga Pravilnika s mogućnošću povećanja potkrovlja do 140 cm visine.
+(4) Nakon što je korisniku odobren zahtjev za sufinanciranje iz stavka 3. ovoga Pravilnika, korisnik je dužan o svom trošku osigurati idejni i glavni projekt te ishoditi rješenje o uvjetima građenja koje predaje nadležnom projektantu radi izrade prilagođene Upute.
+(5) Korisnik je dužan potpisati i ovjeriti kod javnog bilježnika izjavu kojom se obvezuje da će snositi trošak razlike građevnog materijala koji je iskazan u prilagođenoj Uputi za sanaciju.

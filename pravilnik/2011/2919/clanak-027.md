@@ -1,0 +1,7 @@
+# Članak 27.
+(1) Za provedbu darovanja građevnog materijala za izgradnju stambene jedinice u višestambenom objektu koji se gradi na građevinskom zemljištu u državnom vlasništvu primjenjuju se na odgovarajući način mjerila iz glava I. do V. ovoga Pravilnika.
+(2) Kod izgradnje višestambenog objekta na građevinskom zemljištu u državnom vlasništvu darovanim građevnim materijalom, Ministarstvo snosi troškove izrade prilagođenih Uputa za stambenu površinu stanova utvrđenu korisnicima prema broju članova obitelji navedenih na rješenjima o načinu stambenog zbrinjavanja za sve korisnike u višestambenom objektu, te Uputu, idejni i glavni projekt za gradnju cijelog višestambenog objekta sa zajedničkim dijelovima i uređajima zgrade.
+(3) Ostale odredbe glave II. Ovoga Pravilnika koje se odnose na projektiranje, odgovarajuće se primjenjuju na provedbu navedenog načina stambenog zbrinjavanja.
+(4) Osim građevnog materijala iz članka 13. ovoga Pravilnika, građevni materijal koje Ministarstvo isporučuje za izgradnju višestambenog objekta sadrži također građevni materijal potreban za izgradnju zajedničkih dijelova i uređaja zgrade.
+(5) Na korisnike navedenog načina stambenog zbrinjavanja primjenjuju se odredbe iz glave V. ovog Pravilnika koje se odnose na isplatu jednokratne novčane potpore.
+(6) Za provedbu darovanja građevnog materijala za izgradnju stambene jedinice u višestambenom objektu koji se gradi na građevinskom zemljištu u državnom vlasništvu primjenjuju se na odgovarajući način ostala mjerila iz glava I. do V. ovoga Pravilnika.
