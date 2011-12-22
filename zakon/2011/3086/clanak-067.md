@@ -1,0 +1,2 @@
+# Članak 67.
+Ministarstva, državni uredi i državne upravne organizacije dužni su uredima državne uprave u jedinicama područne (regionalne) samouprave pružati stručnu pomoć, a osobito stručno obrađivati pitanja i pojave u svezi s izvršavanjem zakona i drugih propisa, davati stručna mišljenja i objašnjenja te održavati stručna savjetovanja o načinu provedbe zakona kao i o drugim općim pitanjima od značaja za pravilno djelovanje i unapređivanje načina i učinkovitosti rada u uredima državne uprave u jedinicama područne (regionalne) samouprave.

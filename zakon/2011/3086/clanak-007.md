@@ -1,0 +1,3 @@
+# Članak 7.
+Zamjenici predstojnika državnog ureda, glavni tajnici ministarstva i državnog ureda, zamjenici ravnatelja državnih upravnih organizacija, ravnatelji ureda Vlade Republike Hrvatske, predstojnik Ureda potpredsjednika Vlade Republike Hrvatske, ravnatelji ureda, agencija, direkcija i drugih stručnih službi koje Vlada Republike Hrvatske osniva uredbom te predstojnici ureda državne uprave u jedinicama područne (regionalne) samouprave rukovodeći su državni službenici.
+Državne službenike iz stavka 1. ovoga članka imenuje i razrješava Vlada Republike Hrvatske (u daljnjem tekstu: Vlada), na temelju javnoga natječaja, ako zakonom nije drukčije određeno.
