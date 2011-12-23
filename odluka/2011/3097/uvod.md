@@ -1,0 +1,1 @@
+Na temelju članka 81. Ustava Republike Hrvatske i članka 3. Zakona o referendumu i drugim oblicima osobnog sudjelovanja u obavljanju državne vlasti i lokalne i područne (regionalne) samouprave (»Narodne novine«, br. 33/96., 92/01., 44/06., 58/06., 69/07. i 38/09.), Hrvatski sabor na izvanrednoj sjednici 23. prosinca 2011., donio je
