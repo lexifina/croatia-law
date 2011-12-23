@@ -1,0 +1,5 @@
+# Članak 5.
+1) Nositelj oplemenjivačkog prava može zahtijevati informacije iz članka 4. za tekuću godinu i najviše pet godina unatrag.
+2) Nositelj oplemenjivačkog prava može zahtijevati informacije za razdoblje kada je sorta bila u postupku dodjeljivanja oplemenjivačkog prava. Prva godina kada može zahtijevati informacije je godina kada je kompletirani zahtjev za dodjeljivanje oplemenjivačkog prava objavljen u službenom glasilu Centra.
+3) Poljoprivredni proizvođač može tražiti od nositelja oplemenjivačkog prava da opravda i dokaže da ima pravo tražiti informacije iz članka 4. Dokazom će se smatrati potvrda o upisu u Upisnik zahtjeva za dodjeljivanje oplemenjivačkog prava ili isprava o dodjeljivanju oplemenjivačkog prava.
+4) Prikupljanje informacija je isključivo dužnost nositelja oplemenjivačkog prava i u tome ne može očekivati pomoć službenih tijela. Međutim, na zahtjev nositelja oplemenjivačkog prava informacije moraju dostaviti poljoprivredni proizvođači i dobavljači upisani u Upisnik dobavljača sjemena, te službena tijela koja u obavljanju svojih djelatnosti prikupljaju informacije o poljoprivrednoj proizvodnji.
