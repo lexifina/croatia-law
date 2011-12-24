@@ -1,0 +1,2 @@
+# Članak 3.
+SKIS se koristi kao nacionalni standard za standardizaciju definicija s područja sektorske strukture gospodarstva i za razvrstavanje institucionalnih jedinica u institucionalne sektore, podsektore i skupine jedinica koje predstavljaju ukupno gospodarstvo države za potrebe različitih službenih i administrativnih podataka te za potrebe statistike i analitike te poradi unutarnje i međunarodne usporedivosti.

@@ -1,0 +1,2 @@
+# Članak 5.
+Institucionalna jedinica je temeljni centar za donošenje ekonomskih odluka i obilježena je jednoobraznim ponašanjem i samostalnošću u odlučivanju u provođenju svojih glavnih funkcija. Institucionalna jedinica jest jedinica koja ima samostalnost u odlučivanju s obzirom na svoju glavnu funkciju te ili vodi potpuni skup računa ili je moguće i korisno, s ekonomskog i zakonskog stajališta, sastaviti potpuni skup računa ako se on bude zahtijevao.
