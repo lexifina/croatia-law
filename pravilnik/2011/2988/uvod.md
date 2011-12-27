@@ -1,0 +1,1 @@
+Na temelju članka 16. stavka 6. i članka 62. stavka 2. Zakona o šumskom reprodukcijskom materijalu (»Narodne novine« br. 75/09 i 61/11) ministar regionalnog razvoja, šumarstva i vodnoga gospodarstva donosi
