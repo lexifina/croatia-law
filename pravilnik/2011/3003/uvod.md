@@ -1,0 +1,1 @@
+Na temelju članka 26. Zakona o sestrinstvu (»Narodne novine« broj 121/03, 117/08 i 57/11), članka 21. Zakona o izmjenama i dopunama Zakona o sestrinstvu (»Narodne novine« broj 57/11), 19. Statuta Hrvatske komore medicinskih sestara od 28. listopada 2010. godine (pročišćeni tekst) Vijeće Komore na 34. sjednici održanoj 30. rujna 2011. donosi
