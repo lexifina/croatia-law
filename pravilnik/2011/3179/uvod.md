@@ -1,0 +1,1 @@
+Na temelju članka 42. stavka 6., članka 89. stavka 5., članka 93. stavka 6., članka 95. stavka 5. i stavka 8., članka 102. stavka 3. i članka 109. stavka 3. Zakona o veterinarstvu (»Narodne novine«, broj 41/07 i 55/11) ministar poljoprivrede, ribarstva i ruralnog razvoja donosi
