@@ -1,0 +1,6 @@
+# Članak 8.
+(1) Kupnja i prodaja financijskih instrumenata uključuju se u vrednovanje imovine fonda na datum zaključenja transakcije. Zaključena transakcija kupnje priznaje se u imovini fonda prema vrsti instrumenta uz istovremeno formiranje obveze za namiru. Na dan zaključenja transakcije prodaje, u imovini fonda instrument se prestaje priznavati, a potraživanje za zaključenu prodaju se počinje priznavati.
+(2) Kupnja instrumenata primarnih izdanja priznaje se u aktivi fonda na datum trgovanja.
+(3) Transakcije trgovanja i obveze fonda u poslovnim knjigama fonda evidentiraju se na osnovu urednih i vjerodostojnih knjigovodstvenih isprava u vrijednosti transakcije.
+(4) Potraživanja ili obveze po osnovi kamata, dividendi, gubitaka ili dobitaka koji se odnose na financijski instrument ili njegov sastavni dio koji je klasificiran kao financijska obveza, po donošenju odluke i utvrđivanju imateljevog prava na isplatu prava (obveze), iskazuju se u ukupnom iznosu u imovini ili obvezama fonda.
+(5) Vrijednosni papir, za koji je društvo za upravljanje za račun investicijskog fonda prihvatilo uvjete iz javne ponude za kupnju vrijednosnog papira, vrednuje se od datuma odluke društva za upravljanje o prihvaćanju ponude po cijeni iz javne ponude.

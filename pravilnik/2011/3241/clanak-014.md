@@ -1,0 +1,8 @@
+## Terminske kupoprodaje, spot i repo transakcije
+# Članak 14.
+(1) Terminske kupoprodaje (forward) dnevno se vrednuju po fer vrijednosti na način da se cijene zadnje ponude na kupnju koje službeno kotiraju na financijsko-informacijskom servisu primjenjuju za terminske prodaje, dok se službeno kotirane cijene zadnje ponude za prodaju primjenjuju za terminske kupnje.
+(2) Devizne terminske transakcije dnevno se vrednuju po fer vrijednosti primjenom jedinstvene međubankarske referentne ponudbene kamatne stope za određenu valutu (Zibor, Euribor, Libor i sl.) koja službeno kotira na financijsko-informacijskom servisu.
+(3) Fer vrijednost spot transakcije na dan vrednovanja, utvrđuje se izračunom razlike između ugovorenog tečaja i srednjeg tečaja Hrvatske narodne banke na dan vrednovanja imovine fonda.
+(4) Transakcije prodaje vrijednosnica, te ponovna kupnja istih na utvrđen dan u budućnosti (pasivni repo) vrednuju se od datuma namire tako da se instrument koji je predmet transakcije u aktivi fonda, i dalje vrednuje u skladu s pravilima za tu vrstu instrumenta, dok se obveza za primljena novčana sredstva u pasivi, vrednuje obračunom pasivnih kamata.
+(5) Transakcije kupnje vrijednosnica, te ponovna prodaja istih na utvrđen datum u budućnosti (aktivni repo), vrednuju se od datuma namire kao depozit do dospijeća, dnevnim obračunom kamata.
+(6) Za terminske i opcijske transakcije i ostale izvedenice za koje nije moguće utvrditi tržišnu cijenu, društvo za upravljanje obvezno je Agenciji dostaviti na provjeru interne procedure za vrednovanje terminskih ugovora i ostalih izvedenica, prethodno kontrolirane i potvrđene od depozitne banke.

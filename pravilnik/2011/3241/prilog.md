@@ -1,0 +1,2 @@
+[1] Financijska imovina koja se nalazi u portfelju fonda klasificirana kao «Financijska imovina po fer vrijednosti kroz dobit ili gubitak».
+[2] Smatra se da financijski instrument kotira na aktivnom tržištu ako su kotirane cijene neposredno i redovno raspoložive na aktivnom tržištu, od trgovca, brokera, poslovne grupe, agencije za regulaciju cijena ili zakonodavne agencije i ako te cijene predstavljaju stvarne i redovno nastale transakcije prema tržišnim uvjetima.

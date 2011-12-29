@@ -1,0 +1,4 @@
+# Članak 17.
+(1) Ulaganja u smislu članka 80. stavka 7. Zakona u udjele i dionice društava čiji je predmet poslovanja isključivo ili pretežito stjecanje i prodaja, iznajmljivanje i zakup nekretnina te upravljanje nekretninama, koja su klasificirana sukladno MRS-u 39, a kotiraju na neaktivnom tržištu ili ne kotiraju na tržištu vrednuju se primjenom tehnika procjene koje su definirane MRS-om 39.
+(2) Ukoliko fond stječe preko 50% vlasništva u društvima iz članka 80. stavka 7. Zakona, odnosno upravljačkih prava, te se time ostvaruje kontrola nad društvom vrednovanje i prikazivanje se provodi u skladu s MRS-om 27.
+(3) Ukoliko fond stječe između 20% - 50% vlasništva, odnosno upravljačkih prava u društvima iz članka 80. stavka 7. Zakona, te se time ostvaruje značajan utjecaj na poslovanje i poslovnu politiku društva čije su dionice, tj. poslovni udjeli stečeni vrednuje se u skladu s MRS-om 28.
