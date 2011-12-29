@@ -1,0 +1,1 @@
+Na temelju članka 13. Zakona o državnoj potpori poljoprivredi i ruralnom razvoju (»Narodne novine« br. 92/10, 127/10 i 124/11) i članka 25. stavka 3. Zakona o poljoprivredi (»Narodne novine« br. 149/09), ministar poljoprivrede, ribarstva i ruralnog razvoja donosi
