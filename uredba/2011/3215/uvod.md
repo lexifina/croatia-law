@@ -1,0 +1,1 @@
+Na temelju članka 63. stavka 1. Zakona o sustavu državne uprave (»Narodne novine«, broj 150/2011) i članka 30. stavka 1. Zakona o Vladi Republike Hrvatske (»Narodne novine«, broj 150/2011), Vlada Republike Hrvatske je na sjednici održanoj 29. prosinca 2011. godine donijela

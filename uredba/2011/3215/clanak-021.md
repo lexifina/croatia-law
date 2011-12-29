@@ -1,0 +1,3 @@
+# Članak 21.
+Odjeli se mogu ustrojiti uz ispunjenje uvjeta iz članka 20. stavka 1. ove Uredbe, ako je uredbom o unutarnjem ustrojstvu pojedinog tijela državne uprave za obavljanje određenih poslova u odjelu predviđeno najmanje pet (5) izvršitelja, uključujući i voditelja odjela.
+Iznimno od stavka 1. ovoga članka, zbog specifičnosti i složenosti poslova, Vlada Republike Hrvatske može u uredbi o unutarnjem ustrojstvu pojedinog ministarstva, državnog ureda, odnosno stručne službe Vlade, odrediti za ustrojavanje pojedine unutarnje ustrojstvene jedinice i manji broj izvršitelja od najmanjeg broja potrebnih izvršitelja koji proizlazi iz odredbe stavka 1. ovoga članka.
