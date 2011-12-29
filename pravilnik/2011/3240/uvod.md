@@ -1,0 +1,1 @@
+Na temelju odredbi članka 51. stavka 6., članka 53. i članka 55. Zakona o obveznim i dobrovoljnim mirovinskim fondovima (»Narodne novine«, broj 49/99, 63/00, 103/03, 177/04, 71/07, 124/10, 114/11, u daljnjem tekstu: Zakon), Hrvatska agencija za nadzor financijskih usluga (u daljnjem tekstu: Agencija) donijela je na sjednici održanoj 15. prosinca 2011. godine
