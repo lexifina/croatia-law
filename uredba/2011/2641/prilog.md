@@ -1,0 +1,5 @@
+Obrazac 1 - Prijedlog ocjene
+Obrazac 2 - Izvješće o učinkovitosti rada
+DODATAK 1.
+ODLUKA
+ČELNIKA TIJELA O PRIJEDLOGU OCJENE DRŽAVNOG SLUŽBENIKA / NAMJEŠTENIK ZA IZVJEŠTAJNO RAZDOBLJE

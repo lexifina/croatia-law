@@ -1,0 +1,13 @@
+## Pojmovi
+# Članak 3.
+(1) Pojmovi korišteni u ovoj Uredbi imaju sljedeće značenje:
+1. Nadređeni službenik - čelnik unutarnje ustrojstvene jedinice u kojoj je ustrojeno radno mjesto na koje je raspoređen državni službenik koji se ocjenjuje i čelnik unutarnje ustrojstvene jedinice u kojoj je državni službenik obavljao izvanredne poslove izvan ustrojstvene jedinice u kojoj je raspoređen.
+2. Neposredno nadređeni službenik - osoba iz točke 1. ovog stavka koja je, sukladno propisima, ovlaštena i odgovorna za neposredno upravljanje ustrojstvenom jedinicom ili praćenje rada državnog službenika.
+3. Redovni poslovi - planirani i neplanirani poslovi radnog mjesta na koje je državni službenik raspoređen, utvrđeni pravilnikom o unutarnjem redu državnog tijela i poslovi povezani s opisom radnog mjesta koje je državni službenik obavljao po nalogu čelnika državnog tijela ili neposredno nadređenog službenika.
+4. Izvanredni poslovi - poslovi izvan opisa radnog mjesta koje je državni službenik obavljao po nalogu nadređenih službenika unutar iste ili druge ustrojstvene jedinice i koji su trajali duže od 30 dana kontinuirano ili s prekidima tijekom kalendarske godine, ako su po opsegu, sadržaju ili trajanju bitno utjecali na obavljanje poslova radnog mjesta.
+5. Ostali poslovi - poslovi izvan opisa radnog mjesta koje je državni službenik obavljao tijekom kalendarske godine u trajanju kraćem od 30 dana, kojima se državni službenik dodatno angažirao u upravnom području u kojem je zaposlen, odnosno upravnom području iz djelokruga državnog tijela, kao što su: sudjelovanje na stručnim savjetovanjima ili seminarima ili kao trener na radionicama u organiziranim programima izobrazbe sukladno Zakonu o državnim službenicima, objavljivanje stručnih radova i slično.
+6. Rezultat rada - učinak koji je službenik ostvario obavljanjem redovnih i izvanrednih poslova u određenom vremenskom periodu i u određenim uvjetima.
+7. Znanje - poznavanje činjenica i odgovarajućih metodologija, posjedovanje relevantnog iskustva te analitičko razumijevanje potrebno za shvaćanje svih relevantnih aspekata pojedine, specifične teme.
+8. Vještina - izvrsnost i sposobnost pravilne primjene određenih radnih metoda u cilju djelotvornog i učinkovitog obavljanja poslova, funkcija, odnosno zadataka.
+9. Sposobnosti - skup znanja, vještina i mogućnosti potrebnih za obavljanje određene funkcije odnosno zadatka.
+(2) Odredbe ove Uredbe koje se odnose na nadređenog službenika iz stavka 1. točaka 1. i 2. ovoga članka, na odgovarajući se način primjenjuju na državnog ili pravosudnog dužnosnika ako je nadređen državnom službeniku sukladno posebnim propisima ili na temelju odluke čelnika državnog tijela upravlja radom ustrojstvenih jedinica u određenom upravnom području.
