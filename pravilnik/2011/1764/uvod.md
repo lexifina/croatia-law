@@ -1,0 +1,1 @@
+Na temelju članka 25. stavka 5., članka 42. stavka 3., članka 52. stavka 1. Zakona o javnim ovršiteljima (»Narodne novine«, broj 139/10.) i članka 337. stavka 1. točke 1. Ovršnog zakona (»Narodne novine, broj 139/10.) ministar pravosuđa donosi
