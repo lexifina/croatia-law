@@ -1,0 +1,5 @@
+# Članak 2.
+U članku 6. stavak 2. mijenja se i glasi:
+»(2) Kreditna institucija koja je odobrila kredit za kupnju dionica kreditne institucije, osim kumulativnih povlaštenih dionica, te je kao instrument osiguranja za njegovu otplatu uzela u zalog vlastite dionice, dužna je osnovni kapital izračunavati na sljedeći način:
+1) ako je neotplaćeni iznos kredita za kupnju dionica manji od iznosa vlastitih dionica uzetih u zalog kao instrument osiguranja toga kredita ili su ti iznosi jednaki, tada je kreditna institucija dužna osnovni kapital umanjiti samo za vlastite dionice uzete u zalog kao instrument osiguranja određenoga kredita, odnosno
+2) ako je neotplaćeni iznos kredita za kupnju dionica veći od iznosa vlastitih dionica uzetih u zalog kao instrument osiguranja toga kredita, tada je kreditna institucija dužna osnovni kapital umanjiti za vlastite dionice uzete u zalog kao instrument osiguranja određenoga kredita u cjelokupnom iznosu te za neotplaćeni iznos kredita za kupnju dionica u iznosu koji čini razliku između cjelokupnog iznosa te stavke i iznosa vlastitih dionica uzetih u zalog kao instrument osiguranja toga kredita.«
