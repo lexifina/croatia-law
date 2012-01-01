@@ -1,0 +1,9 @@
+## Iznimne obveze provedbe postupka procjene učinaka propisa
+# Članak 13.
+(1) Iznimno od članka 10. stavka 1. ovoga Zakona, postupak procjene učinaka propisa provodi se i na temelju zaključka Hrvatskoga sabora donesenog vezano za djelovanje Vlade Republike Hrvatske u institucijama Europske unije u svezi s prijedlogom propisa i odlukama Europske unije u čijem donošenju sudjeluje putem svojih predstavnika.
+(2) Iznimno od članka 10. stavka 1. ovoga Zakona, postupak procjene učinaka propisa provodi se i na temelju odluke, odnosno zaključka Vlade Republike Hrvatske za:
+- propis koji se donosi po hitnom postupku, a koji svojim sadržajem može proizvesti značajne učinke na područja: gospodarstva, socijalne skrbi, zaštite okoliša, odnosno za fiskalne obveze Republike Hrvatske,
+- zakon koji je na snazi u Republici Hrvatskoj,
+- uredbu, odnosno pravilnik koji su provedbeni propisi zakona, bilo da su u postupku izrade ili na snazi, a čiju procjenu učinaka je predložio Stručni nositelj izrade propisa.
+(3) Procjena iz stavka 1. i 2. ovoga članka može se provesti cjelovito ili djelomično po pojedinim područjima učinaka propisa, a u svrhu potpunog i pravilnog uvida predlagatelja propisa, javnosti i zainteresirane javnosti u opravdanost i utemeljenost potrebe za izmjenama i/ili dopunama te, možebitno, donošenjem novog propisa u nekom području.
+(4) Za propis čije se donošenje predlaže po hitnom postupku, a za koji se ne provodi postupak procjene učinaka prema članku 11. stavku 1. ovoga Zakona, niti prema stavku 2. podstavku 1. ovoga članka, obvezno se izrađuje Prethodna procjena prema propisanom obrascu. Prethodna procjena se prilaže uz nacrt prijedloga propisa s konačnim prijedlogom propisa. Ova odredba se ne primjenjuje u slučaju donošenja propisa po hitnom postupku radi žurnog otklanjanja prijeteće opasnosti od nastanka štete.

@@ -1,0 +1,6 @@
+## Ured za zakonodavstvo
+# Članak 15.
+(1) Ured za zakonodavstvo nadležan je za koordinaciju i izradu dokumenata iz članka 8. i 9. ovoga Zakona, za davanje suglasnosti na Prijedlog iskaza i za izradu provedbenog propisa koji se donosi na temelju ovoga Zakona.
+(2) Ured za zakonodavstvo nadležan je za obavljanje poslova stručnog osposobljavanja i usavršavanja u području procjene učinaka propisa i području izrade propisa, za davanje mišljenja i izradu potrebnih akata, radi postizanja pravne i pojmovne koherentnosti hrvatskog zakonodavstva, kao i za davanje mišljenja i izradu potrebnih akata, radi pravnog i pojmovnog usuglašavanja hrvatskog zakonodavstva sa standardima Europske unije, na zahtjev Stručnog nositelja izrade propisa, za izradu Nomotehničkih smjernica kao podloge za izradu pravnih propisa (u daljnjem tekstu: Nomotehničke smjernice).
+(3) Nomotehničke smjernice, na prijedlog Ureda za zakonodavstvo, donosi Vlada Republike Hrvatske odlukom.
+(4) Osim poslova iz stavka 1. i 2. ovoga članka, u nadležnosti Ureda za zakonodavstvo su i drugi poslovi vezani za sustav učinaka propisa koji su uređeni posebnim propisima kojima se uređuje djelokrug Vlade Republike Hrvatske i djelokrug Ureda za zakonodavstvo.

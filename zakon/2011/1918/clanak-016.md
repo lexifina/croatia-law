@@ -1,0 +1,6 @@
+## Stručni nositelj izrade propisa
+# Članak 16.
+(1) Stručni nositelj izrade propisa nadležan je za izradu Prethodne procjene i Prijedloga plana propisa za Godišnji plan te za provedbu postupka procjene učinaka propisa u skladu s ovim Zakonom i uredbom iz članka 24. ovoga Zakona.
+(2) Za obavljanje poslova prema nadležnosti određenoj u stavku 1. ovoga članka, Stručni nositelj izrade propisa dužan je uspostaviti odgovarajuće administrativne kapacitete: odrediti jednu stručnu osobu - koordinatora poslova vezanih za provedbu postupka procjene učinaka propisa (u daljnjem tekstu: Koordinator), odnosno, po ocjenjenoj potrebi, ustrojiti odgovarajuću ustrojstvenu jedinicu.
+(3) Koordinator mora imati najmanje završen diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij, te mora ispunjavati i druge uvjete sukladno posebnim propisima kojima se uređuje radni status državnih službenika.
+(4) U svrhu pravilnog i cjelovitog uvida u materiju koja se namjerava obuhvatiti propisom i u područje koje se propisom uređuje, Koordinator, odnosno službenici zaduženi za poslove procjene učinaka propisa dužni su surađivati s ustrojstvenom jedinicom stručnog nositelja izrade propisa koja priprema izradu i izrađuje propis i međuresorno s drugim tijelima, ovisno o utvrđenim učincima propisa.
