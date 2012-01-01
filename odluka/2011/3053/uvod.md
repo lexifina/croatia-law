@@ -1,0 +1,1 @@
+Na temelju članka 9. stavka 4. Zakona o zdravstvenoj zaštiti (»Narodne novine«, br. 150/2008, 71/2010, 139/2010, 22/2011 i 84/2011), Vlada Republike Hrvatske je na sjednici održanoj 16. prosinca 2011. godine donijela
