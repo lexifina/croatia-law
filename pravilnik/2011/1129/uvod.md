@@ -1,0 +1,1 @@
+Na temelju članka 63. stavka 6. Općega poreznog zakona (»Narodne novine«, broj 147/08 i 18/11) i članka 23. Zakona o izmjenama i dopunama Općega poreznog zakona (»Narodne novine«, broj 18/11), ministrica financija donosi
