@@ -1,0 +1,3 @@
+# Članak 15.
+Točka 41. mijenja se i glasi:
+»41. Pozicije pod rednim brojem IX uključuju se prema očekivanom novčanom toku na način definiran člankom 14. stavkom 4. Odluke. Stupac »Ukupna pozicija« izvedenih financijskih instrumenata čini ukupnu tržišnu vrijednost svih ugovorenih financijskih instrumenata bez obzira na njihovu ročnost, pri čemu je tržišna vrijednost pojedinoga financijskog instrumenta tržišna vrijednost odnosnog instrumenta/varijable. Za pozicije jednosmjerne valutne klauzule u stupac »Ukupna pozicija« uključuje se iznos fer vrijednost ugrađene opcije te se, s obzirom na preostali rok dospijeća odnosne pozicije, raspoređuje po vremenskim zonama kao očekivani priljev.«.

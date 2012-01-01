@@ -1,0 +1,3 @@
+# Članak 16.
+Točka 54. mijenja se i glasi:
+»54. Pozicija pod redni brojem VII/4 obuhvaća naknade po brokerskim poslovima, ograničene depozite uključujući i primljena sredstva (kunska i devizna) na temelju ugovora o obavljanju poslova u ime i za račun trećih strana (mandatni poslovi) tj. stanja na bilančnim računima 718 i 818, te sve ostale obveze za koje je nedvojbeno da će ih kreditna institucija biti obvezna izvršiti u vremenskim zonama do tjedan i do mjesec dana. U skladu s člankom 13. stavkom 3. Odluke kreditna institucija ograničene depozite u izvješće mora uključiti u 100%-tnom iznosu u novčane odljeve do tjedan dana.«.

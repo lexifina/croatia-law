@@ -1,0 +1,3 @@
+# Članak 5.
+U članku 13. stavak 3. mijenja se i glasi:
+»(3) Ograničenim depozitima smatraju se razni privremeni (ograničeni) depoziti koji mogu biti s određenom svrhom preneseni s tekućih računa i žiro-računa (primjerice sredstva izdvojena po nalogu suda). Ograničeni depoziti, za potrebe ove Odluke, također uključuju i sredstva (kunska ili devizna) primljena na temelju ugovora o obavljanju poslova u ime i za račun trećih strana koja se uključuju u bilancu kreditne institucije, a koja se nalaze na prolaznom računu mandatnih poslova. Ograničene depozite kreditna institucija mora uključiti u 100%-tnom iznosu u novčane odljeve do tjedan dana.«.
