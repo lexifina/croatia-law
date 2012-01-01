@@ -1,0 +1,3 @@
+# Članak 1.
+U Pravilniku o proglašavanju turističkih općina i gradova i o razvrstavanju naselja u turističke razrede (»Narodne novine«, broj 122/09., 9/10. - isp., 61/10., 82/10., 36/11. i 89/11.) u Tabeli I u točki XVII. SPLITSKO-DALMATINSKA ŽUPANIJA u popisu gradova, u gradu Visu za naselje Plisko Polje razred C mijenja se u razred D, u gradu Omišu za naselje Lokva Rogoznica razred B mijenja se u razred C.
+U točki XVIII. ISTARSKA ŽUPANIJA u popisu općina brišu se naselja Kaštelir - Castelliere, Labinci - S. Domenica i Rogovići, a za općinu Kaštelir-Labinci - Castelliere - S. Domenica razred C mijenja se u razred B.
