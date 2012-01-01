@@ -1,0 +1,8 @@
+## II. POSEBNE ODREDBE
+## Certifikat
+# Članak 3.
+(1) Svaku pošiljku hrane ili hrane za životinje iz članka 2. ovoga Pravilnika koja se uvozi u Republiku Hrvatsku mora pratiti:
+- Zdravstveni certifikat iz Dodatka koji je tiskan uz ovaj Pravilnik i njegov je sastavni dio, a kojim se potvrđuje da hrana ili hrana za životinje ne sadrži više od 0,01 mg/kg pentaklorfenola (PCP-a);
+- Analitičko izvješće, izdano od laboratorija akreditiranog prema normi EN ISO/IEC 17025 za laboratorijsko ispitivanje PCP-a u hrani i hrani za životinje, koje mora sadržavati podatke o uzorkovanju i rezultate laboratorijskog ispitivanja na prisutnost PCP-a, mjernu nesigurnost analitičkog rezultata, kao i granicu detekcije (eng. »limit of detection - LOD«) i granicu kvantifikacije (eng. »limit of quantification - LOQ«) analitičke metode.
+(2) Zdravstveni certifikat kojega prati Analitičko izvješće iz stavka 1. ovoga članka mora biti potpisan od ovlaštenog predstavnika Ministarstva trgovine i industrije iz Indije (eng. Ministry of Commerce and Industry of India), a certifikat ne smije biti stariji od četiri mjeseca od dana njegova izdavanja.
+(3) Laboratorijsko ispitivanje iz stavka 1. ovoga članka mora biti provedeno na uzorku koji je uzet iz pošiljke od strane nadležnog tijela Indije u skladu s odredbama Pravilnika o metodama uzorkovanja za provedbu službene kontrole ostataka pesticida u i na proizvodima biljnog i životinjskog podrijetla (»Narodne novine« br. 77/08)[2]. Ekstrakcija prije laboratorijskog ispitivanja se provodi sa kiselim otapalom. Laboratorijsko ispitivanje se provodi u skladu s izmijenjenom verzijom metode QuEChERS, kako je navedeno na web-stranici referentnih laboratorija Europske unije za rezidue pesticida ili u skladu s jednako pouzdanom metodom[3].
