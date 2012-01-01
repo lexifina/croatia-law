@@ -1,0 +1,3 @@
+## Skraćeni rokovi za dostavu ponuda u ograničenom postupku pri korištenju elektroničkih sredstava
+# Članak 65.
+Rokovi za dostavu ponuda iz članka 62. ovoga Zakona u ograničenom postupku javne nabave mogu se skratiti za pet dana ako je javni naručitelj od dana objave poziva na nadmetanje dokumentaciju za nadmetanje i svu dodatnu dokumentaciju koja se odnosi na ograničeni postupak javne nabave neograničeno i u cijelosti elektronički stavio na raspolaganje u Elektroničkom oglasniku javne nabave Republike Hrvatske. U pozivu na nadmetanje navode se internetske stranice na kojima je dostupna ta dokumentacija.

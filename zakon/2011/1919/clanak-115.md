@@ -1,0 +1,19 @@
+## Ugovori s povezanim društvima i poslovnim udruženjima
+# Članak 115.
+(1) Ako su ispunjeni uvjeti iz stavka 2. ovoga članka, ovaj Zakon ne primjenjuje se na ugovore o javnoj nabavi koje sklapa:
+1. sektorski naručitelj s povezanim društvom, ili
+2. poslovno udruženje, osnovano isključivo od više sektorskih naručitelja u svrhu obavljanja djelatnosti u smislu članaka 107. do 112. ovoga Zakona, s društvom povezanim s jednim od tih sektorskih naručitelja.
+(2) Stavak 1. ovoga članka primjenjuje se:
+1. na ugovore o javnim uslugama potrebnima za obavljanje djelatnosti propisanih člancima 107. do 112. ovog Zakona, pod uvjetom da prosječno najmanje 80% prometa povezanog društva u odnosu na sveukupne usluge koje to povezano društvo pruža, za prethodne tri godine, potječe od pružanja takvih usluga društvima s kojima je povezano,
+2. na ugovore o javnoj nabavi robe potrebne za obavljanje djelatnosti propisanih člancima 107. do 112. ovog Zakona, pod uvjetom da prosječno najmanje 80% prometa povezanog društva u odnosu na ukupnu robu koju to povezano društvo isporučuje, za prethodne tri godine, potječe od isporuke takve robe društvima s kojima je povezano,
+3. na ugovore o javnim radovima potrebnima za obavljanje djelatnosti propisanih člancima 107. do 112. ovog Zakona, pod uvjetom da prosječno najmanje 80% prometa povezanog društva u odnosu na sveukupne radove koje to povezano društvo izvodi, za prethodne tri godine, potječe od izvođenja takvih radova za društva s kojima je povezano.
+(3) Ako za prethodne tri godine ne postoje pokazatelji prometa, zbog datuma osnivanja ili početka obavljanja djelatnosti povezanog društva, dovoljno je da to društvo učini vjerojatnim postizanje prometa naznačenog u odredbi stavka 2. ovoga članka, osobito prema poslovnim projekcijama.
+(4) Ako dva ili više društava povezanih sa sektorskim naručiteljem pruža iste ili slične usluge, robu ili radove, tada se postotne stope naznačene u odredbi stavka 2. ovoga članka izračunavaju uz uvažavanje ukupnog prometa koji potječe od pružanja takvih usluga, robe ili radova tih povezanih društava.
+(5) Ovaj Zakon ne primjenjuje se na ugovore o javnoj nabavi koje sklapa:
+1. poslovno udruženje, osnovano isključivo od više sektorskih naručitelja u svrhu obavljanja djelatnosti u smislu članaka 107. do 112. ovoga Zakona, s jednim ili više tih sektorskih naručitelja, ili
+2. sektorski naručitelj s poslovnim udruženjem čiji je sastavni dio, pod uvjetom da je poslovno udruženje osnovano u svrhu obavljanja djelatnosti u smislu članaka 107. do 112. ovoga Zakona tijekom razdoblja od najmanje tri godine i da je aktom o osnivanju poslovnog udruženja određeno da će sektorski naručitelji koji čine to poslovno udruženje biti u njegovu sastavu isto toliko vremena.
+(6) Sektorski naručitelji dužni su Europskoj komisiji na njezin zahtjev dostaviti:
+1. podatke o nazivima društava ili poslovnih udruženja sukladno ovome članku,
+2. podatke o vrsti i vrijednosti ugovora sukladno ovome članku,
+3. dokaze, koji su prema mišljenju Europske komisije potrebni, da odnosi između društva ili poslovnog udruženja s kojima se sklapa ugovor i sektorski naručitelj udovoljavaju zahtjevima ovoga članka.
+(7) Povezano društvo u smislu ovoga članka je svako društvo čiji se godišnji izvještaji konsolidiraju s godišnjim izvještajima sektorskog naručitelja sukladno odredbama Zakona o trgovačkim društvima, a u slučaju subjekata na koji se ne odnosi Zakon o trgovačkim društvima, svako društvo nad kojim sektorski naručitelj ima ili može imati neposredan ili posredan prevladavajući utjecaj u smislu članka 6. stavka 2. ovoga Zakona, ili koje ima ili može imati prevladavajući utjecaj na sektorskog naručitelja, ili koje zajedno sa sektorskim naručiteljem podliježe prevladavajućem utjecaju drugoga društva na osnovi vlasništva, financijskog udjela ili na osnovi pravila koja vrijede za društvo.

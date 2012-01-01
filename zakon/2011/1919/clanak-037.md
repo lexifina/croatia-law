@@ -1,0 +1,15 @@
+## Tijek pregovaračkog postupka javne nabave bez prethodne objave
+# Članak 37.
+(1) Pregovarački postupak javne nabave bez prethodne objave smije se koristiti ako su ispunjeni posebni slučajevi i okolnosti iz ovoga Zakona.
+(2) Javni naručitelj u pisanom obliku poziva jednog ili, ako je moguće, više gospodarskih subjekata s kojima će pregovarati. Ako se postupak vodi s više gospodarskih subjekata, poziv im se upućuje istodobno na način da nemaju uvid u podatke o ostalim gospodarskim subjektima.
+(3) Poziv na pregovaranje mora sadržavati datum do kojeg se mora dostaviti inicijalna ponuda, adresu na koju se dostavlja ponuda, podatak o jeziku na kojem se izrađuje te ostale podatke koje javni naručitelj smatra potrebnima. Pozivu se mora priložiti dokumentacija za nadmetanje i moguća dodatna dokumentacija.
+(4) Javni naručitelj prvo provjerava razloge isključenja i ocjenjuje sposobnost ponuditelja prema uvjetima određenim sukladno člancima 67. do 74. ovoga Zakona i navedenim u dokumentaciji za nadmetanje, te ukoliko ocijeni da je ponuditelj sposoban, pregledava i ocjenjuje inicijalnu ponudu.
+(5) Javni naručitelj može iznimno odustati od isključenja ponuditelja kod kojeg je stečen razlog za isključenje iz članka 67. stavka 1. točke 2. ovoga Zakona u slučaju kada ugovor zbog tehničkih ili umjetničkih razloga ili razloga povezanih sa zaštitom isključivih prava može izvršiti samo taj gospodarski subjekt. Javni naručitelj može odustati od traženja uvjeta iz članaka 67. do 74. ovoga Zakona u slučaju nabave robe koja kotira i nabavlja se na burzi robe.
+(6) Inicijalna ponuda koja odgovara svim potrebama i zahtjevima javnog naručitelja može biti i konačna.
+(7) Ako je potrebno, nakon pregleda inicijalne ponude, javni naručitelj poziva ponuditelja na izmjenu i/ili nadopunu inicijalne ponude ili na dostavu konačne ponude sukladno svojim zahtjevima i potrebama i dokumentaciji za nadmetanje.
+(8) Javni naručitelj izrađuje zapisnik o pregledu i ocjeni inicijalnih i/ili konačnih ponuda te odabire najpovoljniju ponudu sukladno kriteriju za odabir ponude.
+(9) Sadržaj zapisnika iz stavka 8. ovoga članka propisuje Vlada Republike Hrvatske Uredbom o načinu izrade i postupanju s dokumentacijom za nadmetanje i ponudama.
+(10) Nakon odabira ponude javni naručitelj obvezan je objaviti prethodnu obavijest o namjeri sklapanja ugovora u slučaju iz članka 26. stavka 2. točaka 1., 2. i 5., članka 27. stavka 2. točaka 1., 2., 4., 5. i članka 28. stavka 2. točaka 1., 2., 5. i 6., a u ostalim slučajevima može objaviti prethodnu obavijest o namjeri sklapanja ugovora.
+(11) Dan objave obavijesti ima učinak dostave odluke o odabiru u smislu odredbe članka 96. ovoga Zakona te je javni naručitelj obvezan primijeniti rok mirovanja.
+(12) Ako javni naručitelj ne objavi prethodnu obavijest o namjeri sklapanja ugovora, nakon odabira donosi odluku o odabiru koju dostavlja ponuditelju/ima.
+(13) Javni naručitelj obvezan je čuvati potrebnu dokumentaciju i podatke kojima se obrazlažu posebni slučajevi i okolnosti za potrebe mogućeg kasnijeg opravdavanja primjene pregovaračkog postupka javne nabave bez prethodne objave za pojedini ugovor.

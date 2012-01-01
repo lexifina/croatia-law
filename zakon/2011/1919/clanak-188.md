@@ -1,0 +1,2 @@
+# Članak 188.
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2012. osim odredaba članka 10. stavka 3., članka 67. stavka 8., članka 68. stavka 8., članka 91. stavka 6., članka 114., članka 115. stavka 6., članka 123. stavka 7., članka 136., članka 137., članka 180. stavka 2. i članka 181. stavka 1. ovoga Zakona koje stupaju na snagu na dan pristupanja Republike Hrvatske Europskoj uniji.

@@ -1,0 +1,8 @@
+## Glava VI.
+## ODNOSI S TREĆIM DRŽAVAMA
+## Ponude koje obuhvaćaju robu podrijetlom iz trećih država
+# Članak 136.
+(1) Ovaj članak primjenjuje se na ponude koje obuhvaćaju robu podrijetlom iz trećih država s kojima Europska unija nije sklopila sporazum kojim se osigurava usporediv i stvaran pristup gospodarskim subjektima sa sjedištem u Europskoj uniji tržištima tih država. Ovaj članak ne dovodi u pitanje obveze Europske unije ili njezinih država članica u odnosu na treće države.
+(2) Svaka ponuda dostavljena u svrhu sklapanja ugovora o javnoj nabavi robe može se odbiti ako je udio robe podrijetlom iz trećih država, kako je određeno u skladu s Uredbom Vijeća (EEZ-a) br. 2913/92 od 12. listopada 1992. kojom se utvrđuje Carinski kodeks Europske unije, veći od 50% ukupne vrijednosti robe obuhvaćene ponudom. U smislu ovoga članka, softver koji se koristi u telekomunikacijskoj mrežnoj opremi smatra se robom.
+(3) Ako su dvije ili više ponuda jednake u smislu kriterija za odabir ponude, prednost se daje onim ponudama koje se ne mogu odbiti sukladno stavku 2. ovoga članka. Cijene tih ponuda smatraju se jednakima u smislu ovoga članka ako razlika u cijeni nije veća od 3%. Ponuda neće imati prednost pred drugom ponudom ako bi njezino prihvaćanje obvezivalo naručitelja da nabavi opremu s tehničkim svojstvima drukčijima od svojstava postojeće opreme što bi dovelo do neusklađenosti, tehničkih poteškoća u radu i održavanju ili do nerazmjernih troškova.
+(4) One treće države na koje je pogodnost primjene ovoga Zakona proširena na temelju Odluke Vijeća Europske unije u skladu sa stavkom 1. ovoga članka ne uzimaju se u obzir za određivanje udjela robe iz stavka 2. ovoga članka podrijetlom iz trećih država.

@@ -1,0 +1,3 @@
+## Uvjeti koji se odnose na sporazume sklopljene u okviru Svjetske trgovinske organizacije
+# Članak 4.
+Danom pristupanja Republike Hrvatske Sporazumu o javnoj nabavi (Agreement on Government Procurement - GPA), naručitelji na koje se odnosi Sporazum obvezni su pri sklapanju ugovora o javnoj nabavi primijeniti njegove odredbe na gospodarske subjekte trećih država koje su strane Sporazuma. Pri sklapanju ugovora o javnoj nabavi obuhvaćenih Sporazumom, Republika Hrvatska primjenjuje na gospodarske subjekte država članica uvjete jednako povoljne kao one koje jamči gospodarskim subjektima trećih država koje su strane Sporazuma o javnoj nabavi.

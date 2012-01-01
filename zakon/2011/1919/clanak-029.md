@@ -1,0 +1,6 @@
+## Nepravilna, neprihvatljiva i neprikladna ponuda
+# Članak 29.
+U smislu članaka 26. do 28. ovoga Zakona:
+1. nepravilna ponuda je ponuda koja nije izrađena u skladu s dokumentacijom za nadmetanje, sadrži odredbe koje javni naručitelj smatra štetnima ili za koju javni naručitelj osnovano smatra da nije rezultat tržišnog natjecanja, primjerice posljedica je nedopuštenog sporazuma gospodarskih subjekata;
+2. neprihvatljiva ponuda je ponuda koja zbog formalnih ili drugih objektivnih razloga ne može biti odabrana, primjerice zakašnjelo dostavljena ponuda, ponuda ponuditelja kod kojeg su stečeni razlozi za isključenje u skladu s člancima 67. i 68. ovoga Zakona, ponuda ponuditelja koji nije dokazao svoju sposobnost u skladu s dokumentacijom za nadmetanje i odredbama ovoga Zakona, ponuda kojoj nedostaje jamstvo za ozbiljnost ponude, nedopuštena alternativna ponuda, ponuda čija je cijena veća od osiguranih sredstava za nabavu, ponuda s neuobičajeno niskom cijenom;
+3. neprikladna ponuda je ponuda koja u cijelosti ne odgovara potrebama javnog naručitelja određenim u opisu predmeta nabave i tehničkim specifikacijama odnosno kojom se nude roba, radovi ili usluge koje očito ne zadovoljavaju potrebe javnog naručitelja u odnosu na traženi predmet nabave.

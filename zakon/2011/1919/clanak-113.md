@@ -1,0 +1,5 @@
+## Ugovori koji obuhvaćaju više djelatnosti
+# Članak 113.
+(1) Na sklapanje ugovora o javnoj nabavi koji obuhvaća nekoliko djelatnosti navedenih u člancima 107. do 112. ovoga Zakona primjenjuju se pravila koja se odnose na onu djelatnost za koju je ugovor prvenstveno namijenjen. Sektorski naručitelj ne smije dijeliti predmet nabave koji obuhvaća nekoliko djelatnosti na više ugovora s namjerom izbjegavanja primjene ovoga Zakona.
+(2) Ako se na jednu od djelatnosti za koju se sklapa ugovor o javnoj nabavi primjenjuju odredbe ovoga dijela Zakona, a na drugu se primjenjuju odredbe 2. dijela Zakona te nije moguće objektivno odrediti za koju je djelatnost ugovor prvenstveno namijenjen, onda se ugovor sklapa sukladno odredbama 2. dijela Zakona.
+(3) Ako se na jednu od djelatnosti za koju se sklapa ugovor o javnoj nabavi primjenjuju odredbe ovoga dijela Zakona, a na drugu se ne primjenjuju odredbe niti ovoga dijela niti 2. dijela Zakona te nije moguće objektivno odrediti za koju je djelatnost ugovor prvenstveno namijenjen, onda se ugovor sklapa sukladno odredbama ovoga dijela Zakona.

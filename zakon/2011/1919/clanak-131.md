@@ -1,0 +1,3 @@
+## Skraćeni rok za dostavu ponuda pri korištenju elektroničkih sredstava
+# Članak 131.
+Osim u slučaju sporazumno određenog roka u skladu sa člankom 129. stavkom 3. ovoga Zakona, rok za dostavu ponuda u ograničenom i pregovaračkom postupku javne nabave s prethodnom objavom može se skratiti za pet dana ako je sektorski naručitelj od dana objavljivanja objave javne nabave kojom se gospodarski subjekti pozivaju na nadmetanje dokumentaciju za nadmetanje i svu dodatnu dokumentaciju koja se odnosi na postupak javne nabave neograničeno i u cijelosti elektronički stavio na raspolaganje u Elektroničkom oglasniku javne nabave Republike Hrvatske. U objavi se navode internetske stranice na kojima je dostupna ta dokumentacija.

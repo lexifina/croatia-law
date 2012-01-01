@@ -1,0 +1,5 @@
+## Obveze koje se odnose na poreze, zaštitu okoliša, odredbe o zaštiti radnoga mjesta i radne uvjete
+# Članak 84.
+(1) Javni naručitelj može u dokumentaciji za nadmetanje navesti podatke o tijelima od kojih natjecatelj ili ponuditelj može dobiti pravovaljanu informaciju o obvezama koje se odnose na poreze, zaštitu okoliša, odredbe o zaštiti radnoga mjesta i radne uvjete koje su na snazi u području na kojem će se izvoditi radovi ili pružati usluge i koje će biti primjenjive na radove koji se izvode ili na usluge koje će se pružati za vrijeme trajanja ugovora.
+(2) Ako je naveo podatke iz stavka 1. ovoga članka, javni naručitelj mora tražiti od ponuditelja ili natjecatelja u postupku javne nabave da navedu da su pri sastavljanju ponude uzeli u obzir obveze koje se odnose na poreze, zaštitu okoliša, odredbe o zaštiti radnoga mjesta i radne uvjete koje su na snazi u mjestu gdje će se izvoditi radovi ili na kojem će se pružati usluge.
+(3) Stavak 1. ovoga članka ne utječe na primjenu članka 91. ovoga Zakona u odnosu na provjeru neuobičajeno niske cijene.

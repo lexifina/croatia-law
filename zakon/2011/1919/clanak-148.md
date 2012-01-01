@@ -1,0 +1,7 @@
+## Rokovi za izjavljivanje žalbe u pregovaračkom postupku javne nabave bez prethodne objave
+# Članak 148.
+(1) U pregovaračkom postupku javne nabave bez prethodne objave velike vrijednosti žalba se izjavljuje u roku deset dana odnosno u postupku nabave male vrijednosti u roku pet dana, i to od dana objave prethodne obavijesti o namjeri sklapanja ugovora u odnosu na slučajeve i okolnosti za odabir postupka, dokumentaciju za nadmetanje i moguću dodatnu dokumentaciju, postupak pregleda, ocjene i odabira ponuda.
+(2) Kada naručitelj sukladno člancima 59. i 124. ovoga Zakona nije objavio prethodnu obavijest o namjeri sklapanja ugovora, žalba se izjavljuje u roku deset dana u postupku nabave velike vrijednosti odnosno u roku pet dana u postupku nabave male vrijednosti, i to od dana primitka odluke o odabiru ili poništenju u odnosu na dokumentaciju za nadmetanje i moguću dodatnu dokumentaciju, postupak pregleda, ocjene i odabira ponuda odnosno razloge poništenja.
+(3) Žalitelj koji je propustio izjaviti žalbu sukladno stavku 1. ili 2. ovoga članka nema pravo na žalbu nakon objave obavijesti o sklopljenom ugovoru.
+(4) Ako naručitelj nije objavio prethodnu obavijest o namjeri sklapanja ugovora, žalba se izjavljuje u roku 30 dana od dana objave obavijesti o sklopljenom ugovoru u odnosu na slučajeve i okolnosti za odabir postupka.
+(5) Ako naručitelj nije objavio prethodnu obavijest o namjeri sklapanja ugovora te propusti objaviti obavijest o sklopljenom ugovoru, žalba se izjavljuje sukladno članku 151. ovoga Zakona.

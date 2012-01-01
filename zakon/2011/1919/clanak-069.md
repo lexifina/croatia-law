@@ -1,0 +1,6 @@
+## Uvjeti sposobnosti
+# Članak 69.
+(1) U skladu s člancima 70. do 74. ovoga Zakona javni naručitelj određuje uvjete pravne i poslovne sposobnosti, financijske sposobnosti te tehničke i stručne sposobnosti natjecatelja ili ponuditelja.
+(2) Ako koristi mogućnost smanjivanja broja sposobnih natjecatelja kojima će dostaviti poziv na dostavu ponude, na pregovaranje ili na sudjelovanje u dijalogu, javni naručitelj određuje objektivne i nediskriminirajuće uvjete i pravila u skladu s člankom 35. ovoga Zakona.
+(3) Javni naručitelj može tražiti od natjecatelja ili ponuditelja da zadovolje minimalne razine financijske te tehničke i stručne sposobnosti. Opseg informacija i minimalne razine sposobnosti iz članaka 71. i 72. ovoga Zakona koje se zahtijevaju za određeni ugovor moraju biti vezani uz predmet nabave i razmjerni predmetu nabave odnosno grupi predmeta nabave u slučaju da je predmet nabave podijeljen na grupe. Minimalne razine sposobnosti navode se u pozivu na nadmetanje i dokumentaciji za nadmetanje.
+(4) Način određivanja minimalnih razina sposobnosti iz stavka 3. ovoga članka propisuje Vlada Republike Hrvatske Uredbom o načinu izrade i postupanju s dokumentacijom za nadmetanje i ponudama.
