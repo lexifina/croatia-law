@@ -1,0 +1,4 @@
+# Članak 38.
+1) Postojeću javnu rasvjetu koja je s tehničkim karakteristikama i tehnologijom u uporabi suprotna odredbama ovoga Zakona i provedbenih propisa ovoga Zakona potrebno je zamijeniti ili pravilno postaviti u skladu s Planom održavanja kojeg je dužan donijeti operater javne rasvjete, a u kojem će odrediti rokove za zamjenu postojeće javne rasvjete.
+(2) Postojeće svjetiljke koje su montirane po uputama proizvođača i bliješte sudionicima u prometu suprotno odredbama ovoga Zakona, a nisu u sustavu javne rasvjete, moraju se zamijeniti ili pravilno postaviti najkasnije prilikom njihove zamjene u smislu održavanja, odnosno rekonstrukcije.
+(3) Obveze po stavcima 1. i 2. ovoga članka dužne su izvršiti osobe koje su važećim propisima, odnosno važećim odgovarajućim aktima obvezane za održavanje javne rasvjete i/ili druge vrste rasvjete, odnosno objekata i uređaja na kojima se rasvjeta koristi u svrhu funkcioniranja i uporabe tih objekata i uređaja.
