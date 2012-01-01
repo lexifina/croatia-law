@@ -1,0 +1,2 @@
+# Članak 236.
+U skladu s odredbama Ugovora o pristupanju Republike Hrvatske Europskoj uniji, Vlada Republike Hrvatske može i nakon pristupanja Hrvatske Europskoj uniji uredbom propisati primjenu pravila o radu državljana država članica Europske unije i članova njihovih obitelji koje su na snazi do trenutka potpisivanja Ugovora o pristupanju, u odnosu na državljane onih država članica koje će primjenjivati nacionalne mjere ili mjere koje proizlaze iz dvostranih sporazuma, za vrijeme trajanja primjene takvih mjera.

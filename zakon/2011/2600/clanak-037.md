@@ -1,0 +1,3 @@
+# Članak 37.
+(1) Vlada Republike Hrvatske može odrediti da državljani pojedinih država mogu ulaziti i izlaziti iz Republike Hrvatske i s valjanom osobnom iskaznicom, odnosno drugom ispravom kojom se dokazuju identitet i državljanstvo, ako ispunjavaju uvjete iz članka 36. stavka 1. točke 2., 3., 4. i 5. ovoga Zakona.
+(2) Vlada Republike Hrvatske može odrediti da pod određenim uvjetima, državljani pojedinih država mogu ulaziti i izlaziti iz Republike Hrvatske uz posjedovanje valjane putne isprave u koju je unesena valjana dozvola boravka ili valjana viza tipa C jedne od države potpisnice Schengenskog provedbenog sporazuma, ako ispunjavaju uvjete iz članka 36. stavka 1. točke 1., 3., 4. i 5. ovoga Zakona.

@@ -1,0 +1,6 @@
+# Članak 80.
+(1) O zahtjevu za izdavanje dozvole za boravak i rad rješenjem odlučuje policijska uprava, odnosno policijska postaja prema mjestu boravišta stranca. Protiv rješenja može se izjaviti žalba, o kojoj odlučuje Povjerenstvo.
+(2) Dozvola za boravak i rad izdaje se strancu na vrijeme koje je potrebno za obavljanje posla, odnosno vrijeme na koje je sklopljen ugovor o radu ili drugi odgovarajući ugovor, a najduže do godine dana.
+(3) Iznimno od stavka 2. ovoga članka, dozvola za boravak i rad strancu iz članka 76. stavka 1. točke 4. ovoga Zakona izdaje se s rokom važenja od 2 godine ukoliko nije zatraženo kraće razdoblje izdavanja dozvole za boravak i rad.
+(4) Stranac kojem je izdana dozvola za boravak i rad zbog obavljanja sezonskog rada može boraviti u Republici Hrvatskoj najduže 6 mjeseci u vremenskom razdoblju od jedne godine i mora boraviti najmanje 6 mjeseci izvan Republike Hrvatske prije nego što mu ponovno bude omogućen ulazak i boravak u svrhu rada.
+(5) Dozvolu za boravak i rad policijska uprava, odnosno policijska postaja dostavit će poslodavcu i područnim uredima ili ispostavama Porezne uprave nadležnim prema sjedištu pravne ili fizičke osobe koja koristi usluge stranca ili mjestu u kojemu će se ugovoreni rad izvršiti.

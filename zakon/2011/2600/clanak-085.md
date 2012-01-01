@@ -1,0 +1,4 @@
+# Članak 85.
+(1) Pravna ili fizička osoba koja zapošljava ili koristi usluge stranca iz članka 82. i 83. ovoga Zakona mora imati sklopljen odgovarajući ugovor ili drugi dokaz o izvršenju posla sa strancem ili inozemnim poslodavcem koji upućuje stranca na rad u Republiku Hrvatsku.
+(2) Policijska uprava, odnosno policijska postaja dužna je potvrdu o prijavi rada dostaviti strancu, pravnoj ili fizičkoj osobi iz stavka 1. ovoga članka i područnom uredu ili ispostavi Porezne uprave nadležnoj prema sjedištu pravne ili fizičke osobe koja koristi usluge stranca ili mjestu u kojemu će se ugovoreni rad izvršiti.
+(3) Na strance koji u Republici Hrvatskoj nastupaju na športskim priredbama i natjecanjima kao predstavnici stranih ekipa, klubova ili državnih reprezentacija, ne primjenjuje se stavak 1. i 2. ovoga članka i članak 84. ovoga Zakona.

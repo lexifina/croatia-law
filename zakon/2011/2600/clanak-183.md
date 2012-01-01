@@ -1,0 +1,8 @@
+# Članak 183.
+(1) Potvrda o prijavi privremenog boravka, odnosno isprava kojom se potvrđuje stalni boravak, koje se izdaju državljaninu države članice EEP-a, te potvrda o podnesenom zahtjevu za izdavanje boravišne iskaznice za člana obitelji državljanina Unije, boravišna iskaznica za člana obitelji državljanina Unije i iskaznica za stalni boravak koje se izdaju članu obitelji koji nije državljanin države članice EEP-a, nisu preduvjeti za ostvarivanje prava ili za obavljanje upravnih formalnosti, ako se svojstvo korisnika prava može dokazati nekim drugim dokaznim sredstvom.
+(2) Državljanin države članice EEP-a i članovi njegove obitelji dužni su nositi isprave iz stavka 1. ovoga članka i na zahtjev službene osobe dati ih na uvid.
+(3) Državljanin države članice EEP-a i članovi njegove obitelji koji nemaju isprave iz stavka 1. ovoga članka, odnosno drugu ispravu o identitetu dužni su na zahtjev policijskog službenika dati osobne podatke.
+(4) Državljanin države članice EEP-a i članovi njegove obitelji ne smiju dati svoje isprave drugom da se njima služi i ne smiju se služiti nevaljanom ispravom ili tuđom ispravnom kao svojom.
+(5) Državljanin države članice EEP-a i član njegove obitelji dužni su prijaviti adresu stanovanja, boravište ili prebivalište najkasnije 8 dana od dana dolaska u Republiku Hrvatsku, odnosno od promjene adrese stanovanja, boravišta ili prebivališta.
+(6) Prestanak važenja isprava iz stavka 1. ovoga članka ne predstavlja osnovu za prestanak boravka ili protjerivanje iz Republike Hrvatske.
+XI. BORAVAK I RAD DRŽAVLJANA TREĆIH DRŽAVA KOJI IMAJU ODOBREN STALNI BORAVAK U DRUGOJ DRŽAVI ČLANICI EEP-a I ČLANOVA NJIHOVIH OBITELJI

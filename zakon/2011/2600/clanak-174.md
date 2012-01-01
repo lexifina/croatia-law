@@ -1,0 +1,10 @@
+# Članak 174.
+(1) Iznimno od članka 173. stavka 1. državljanin države članice EEP-a ostvaruje pravo na stalni boravak ako je:
+1. kao radnik ili samostalni djelatnik prestao s radom i koji ima uvjete za starosnu mirovinu u Republici Hrvatskoj, a u Republici Hrvatskoj je bio zaposlen najmanje prethodnih 12 mjeseci i neprekidno je boravio u Republici Hrvatskoj duže od 3 godine,
+2. prijevremeno umirovljen, a u Republici Hrvatskoj je bio zaposlen najmanje prethodnih 12 mjeseci i neprekidno je boravio u Republici Hrvatskoj duže od 3 godine,
+3. kao radnik ili samostalni djelatnik zbog trajne nesposobnosti za rad, prestao s radom u Republici Hrvatskoj, a neprekidno je boravio u Republici Hrvatskoj duže od 2 godine,
+4. kao radnik ili samostalni djelatnik prestao s radom u Republici Hrvatskoj, zbog trajne nesposobnosti za rad koja je posljedica ozljede na radu ili profesionalne bolesti, na temelju koje je u Republici Hrvatskoj ostvarena invalidska mirovina, neovisno o trajanju boravka u Republici Hrvatskoj,
+5. kao radnik ili samostalni djelatnik nakon 3 godine neprekidnog zaposlenja i boravka u Republici Hrvatskoj zaposlen u drugoj državi članici EEP-a, a zadržava boravište u Republici Hrvatskoj i svaki se dan ili barem jednom na tjedan vraća u Republiku Hrvatsku.
+(2) Razdoblje zaposlenja radnika ili samostalnog djelatnika koji radi na području druge države članice EEP - a, a zadržava boravište u Republici Hrvatskoj, smatrat će se kao vrijeme provedeno u Republici Hrvatskoj za ostvarivanje prava iz stavka 1. točke 1., 2, 3. i 4. ovoga članka.
+(3) Razdoblje nezaposlenosti evidentirano pri nadležnom zavodu za zapošljavanje do kojeg je došlo bez krivnje radnika, te razdoblje privremene spriječenosti za rad, zbog bolesti ili ozljede, smatra se razdobljem zaposlenja.
+(4) Državljaninu države članice EEP-a iz stavka 1. točke 1., 2., 3. i 4. ovoga članka, čiji bračni ili izvanbračni drug s kojim zajedno boravi u Republici Hrvatskoj ima hrvatsko državljanstvo ili mu je hrvatsko državljanstvo prestalo nakon zaključenja braka, stalni boravak odobrit će se bez obzira na trajanje boravka i zaposlenja u Republici Hrvatskoj.
