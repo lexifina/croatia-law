@@ -1,0 +1,6 @@
+# Članak 15.
+OPĆA NAČELA
+1. Svaka će stranka osigurati ili promicati, u skladu sa svojim unutarnjim pravom, učinkovite programe ili mjere intervencije za osobe navedene u članku 16., stavcima 1. i 2., s ciljem sprječavanja i maksimalnog smanjenja rizika ponovljenih kaznenih dijela seksualne naravi protiv djece. Takvi programi ili mjere trebaju biti dostupni u bilo kojem trenutku tijekom postupka, u zatvoru i izvan njega, u skladu s uvjetima utvrđenim unutarnjim pravom.
+2. Svaka će stranka osigurati ili promicati, u skladu sa svojim unutarnjim pravom, razvoj partnerstava ili drugih oblika suradnje među nadležnim tijelima, posebice službama za zdravstvenu skrb i socijalnim službama te pravosudnim tijelima i drugim tijelima odgovornima za praćenje osoba navedenih u članku 16. stavcima 1. i 2.
+3. Svaka stranka će osigurati, u skladu sa svojim unutarnjim pravom, ocjenu opasnosti i mogućih rizika ponavljanja kaznenih dijela utvrđenih u skladu s ovom Konvencijom, od strane osoba navedenih u članku 16. stavcima 1. i 2., s ciljem utvrđivanja odgovarajućih programa ili mjera.
+4. Svaka će stranka, u skladu sa svojim unutarnjim pravom, osigurati ocjenu učinkovitosti provedenih programa i mjera.

@@ -1,0 +1,3 @@
+# Članak 6.
+OBRAZOVANJE DJECE
+Svaka će stranka usvojiti potrebne zakonodavne ili druge mjere kako bi osigurala da djeca, tijekom osnovnog i srednjeg obrazovanja, dobiju informacije o rizicima seksualnog iskorištavanja i seksualnog zlostavljanja, kao i o načinima da se zaštite, prilagođeno njihovim razvojnim sposobnostima. Te će informacije, koje se pružaju u suradnji s roditeljima, gdje je to prikladno, biti predstavljene u okviru općenitijeg konteksta informacija o spolnosti te će se posebna pozornost posvetiti riziku, osobito rizicima koje nosi uporaba novih informacijskih i komunikacijskih tehnologija.

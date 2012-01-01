@@ -1,0 +1,16 @@
+# Članak 25.
+SUDSKA NADLEŽNOST
+1. Svaka će stranka poduzeti potrebne zakonodavne ili druge mjere kako bi se uspostavila sudska nadležnost za bilo koje kazneno djelo utvrđeno u skladu s ovom Konvencijom, ukoliko je kazneno djelo počinjeno:
+a) na njezinom državnom području; ili
+b) na brodu koji plovi pod zastavom te stranke; ili
+c) u zrakoplovu registriranom prema pravu te stranke; ili
+d) od strane nekog od njezinih državljana; ili
+e) od strane osobe koja svoje uobičajeno boravište ima na njezinom državnom području.
+2. Svaka će stranka nastojati poduzeti potrebne zakonodavne ili druge mjere kako bi uspostavila sudsku nadležnost za bilo koje kazneno djelo utvrđeno u skladu s ovom Konvencijom, ukoliko je kazneno djelo počinjeno protiv jednog od njezinih državljana ili osobe koja svoje uobičajeno boravište ima na njezinom državnom području.
+3. Svaka stranka može, u trenutku potpisivanja ili prigodom polaganja svoje isprave o ratifikaciji, prihvatu, odobrenju, ili pristupu, izjavom upućenom glavnom tajniku Vijeća Europe, izjaviti da pridržava pravo ne primijeniti ili primijeniti pravila o sudskoj nadležnosti samo u pojedinim slučajevima ili uvjetima utvrđenim u stavku 1. podstavku e ovog članka.
+4. Za progon kaznenih djela utvrđenih u skladu s člankom 18., člankom 19., člankom 20., stavkom 1 podstavkom a i člankom 21., stavkom 1. podstavcima a i b ove Konvencije, svaka će stranka poduzeti potrebne zakonodavne ili druge mjere kako bi osigurala da njezina sudska nadležnost u smislu stavka 1. podstavka d ne podliježe uvjetu da je čin kaznenopravno sankcioniran na mjestu počinjenja.
+5. Svaka stranka može, u trenutku potpisivanja ili prilikom polaganja svoje isprave o ratifikaciji, prihvatu, odobrenju ili pristupu, izjavom upućenom glavnom tajniku Vijeća Europe izjaviti da pridržava pravo ograničiti primjenu stavka 4. ovog članka u odnosu na kaznena djela utvrđena u skladu s člankom 18., stavkom 1. podstavkom b, druga i treća alineja, na slučajeve u kojima njezin državljanin ima svoje uobičajeno boravište na njezinom državnom području.
+6. Za progon kaznenih djela utvrđenih u skladu s člankom 18., člankom 19., člankom 20., stavkom 1. podstavkom a, i člankom 21. ove Konvencije, svaka će stranka poduzeti potrebne zakonodavne ili druge mjere kako bi osigurala da njezina sudska nadležnost u smislu stavka 1. podstavaka d i e ne podliježe uvjetu da se kazneni progon može pokrenuti samo na temelju prijave žrtve ili prijave od strane države mjesta u kojem je kazneno djelo počinjeno.
+7. Svaka će stranka nastojati poduzeti potrebne zakonodavne ili druge mjere kako bi uspostavila sudsku nadležnost za kaznena djela utvrđena u skladu s ovom Konvencijom, u slučajevima u kojima je navodni počinitelj prisutan na njenom državnom području, a stranka ga ne izručuje drugoj stranci isključivo na temelju njegovog državljanstva.
+8. Kada je više stranaka utvrdilo svoju sudsku nadležnost, a radi se navodno o kaznenom djelu koje je propisano u skladu s odredbama ove Konvencije, tada će se te stranke - kada je to moguće - posavjetovati s ciljem utvrđivanja najprikladnije sudske nadležnosti za kazneni progon.
+9. Ne dovodeći u pitanje opća pravila međunarodnoga prava, ova Konvencija ne isključuje bilo kakvu kaznenopravnu nadležnost koju stranka ostvaruje u skladu sa svojim unutarnjim pravom.

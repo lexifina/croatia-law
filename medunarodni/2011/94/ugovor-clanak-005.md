@@ -1,0 +1,5 @@
+# Članak 5.
+ZAPOŠLJAVANJE, IZOBRAZBA I PODIZANJE SVIJESTI OSOBA KOJE RADE U KONTAKTU S DJECOM
+1. Svaka će stranka usvojiti potrebne zakonodavne ili druge mjere za poticanje svijesti o zaštiti i pravima djece među osobama koje su u redovitom kontaktu s djecom u sektorima obrazovanja, zdravstva, socijalne zaštite, pravosuđa i policije te na područjima vezanim uz šport, kulturu i slobodne aktivnosti.
+2. Svaka će stranka usvojiti potrebne zakonodavne ili druge mjere kako bi osigurala da osobe navedene u stavku 1. raspolažu odgovarajućim znanjem o seksualnom iskorištavanju i seksualnom zlostavljanju djece, o načinima njihova prepoznavanja te o mogućnosti navedenoj u članku 12. stavku 1.
+3. Svaka će stranka usvojiti potrebne zakonodavne ili druge mjere, u skladu sa svojim unutarnjim pravom, kako bi osigurala da uvjeti za pristup zanimanjima čije obavljanje podrazumijeva redovite kontakte s djecom osiguravaju da kandidati za te struke nisu prethodno osuđivani za djela seksualnog iskorištavanja ili seksualnog zlostavljanja djece.

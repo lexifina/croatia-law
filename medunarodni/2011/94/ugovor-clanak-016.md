@@ -1,0 +1,5 @@
+# Članak 16.
+KORISNICI PROGRAMA I MJERA INTERVENCIJE
+1. Svaka će stranka osigurati, u skladu sa svojim unutarnjim pravom, da osobe protiv kojih se vode kazneni postupci za bilo koja od kaznenih djela utvrđenih ovom Konvencijom mogu ostvariti pristup programima ili mjerama navedenim u članku 15. stavku 1., pod uvjetima koji nisu niti štetni niti protivni pravima obrane te u skladu sa zahtjevima za poštenim i nepristranim suđenjem, a posebice uz poštivanje pravila koja se odnose na načelo pretpostavke nevinosti.
+2. Svaka će stranka osigurati, u skladu sa svojim unutarnjim pravom, da osobe osuđene za bilo koje od kaznenih djela utvrđenih u skladu s ovom Konvencijom mogu ostvariti pristup programima ili mjerama navedenim u članku 15. stavku 1.
+3. Svaka će stranka osigurati, u skladu sa svojim unutarnjim pravom, da programi ili mjere intervencije budu izrađeni ili prilagođeni na način da ispunjavaju razvojne potrebe djece koja su počinitelji seksualnih kaznenih djela, uključujući one koji su ispod dobne granice kaznene odgovornosti, s ciljem rješavanja njihovih problema seksualnog ponašanja.

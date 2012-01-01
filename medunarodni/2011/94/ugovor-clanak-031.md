@@ -1,0 +1,15 @@
+# Članak 31.
+OPĆE MJERE ZAŠTITE
+1. Svaka će stranka poduzeti potrebne zakonodavne ili druge mjere kako bi zaštitila prava i interese žrtava, uključujući njihove posebne potrebe kao svjedoka, u svim fazama istrage i kaznenih postupaka, posebice na način da:
+a) ih obavijesti o njihovim pravima i uslugama koje su im na raspolaganju te, osim u slučaju da ne žele primiti takve informacije, o radnjama poduzetim nakon njihove kaznene prijave, optužbama, općem napredovanju istrage ili postupka te o njihovoj ulozi kao i o rezultatu njihovog predmeta;
+b) osigura, barem u predmetima u kojima su žrtve i njihove obitelji u potencijalnoj opasnosti, da iste budu obaviještene, ukoliko je potrebno, kada je osoba protiv koje je pokrenut kazneni progon ili osuđena osoba privremeno ili konačno puštena na slobodu;
+c) im omogući, na način koji je u skladu s postupovnim pravilima unutarnjeg prava, da budu saslušane, da pruže dokaze te da izaberu način na koji će se njihova gledišta, potrebe i interesi izravno ili putem posrednika predstaviti te uzeti u obzir;
+d) im omogući odgovarajuće usluge potpore tako da njihova prava i interesi budu na odgovarajući način predstavljeni te uzeti u obzir;
+e) zaštiti njihovu privatnost, njihov identitet i ugled te da uz pomoć mjera koje su u skladu s unutarnjim pravom spriječi javno širenje bilo kojih informacija koje bi mogle voditi njihovoj identifikaciji;
+f) osigura njihovu sigurnost, kao i sigurnost njihovih obitelji i osoba koje svjedoče u njihovu korist od zastrašivanja, odmazde i ponovne viktimizacije;
+g) osigura da se izbjegne kontakt između žrtava i počinitelja u prostorijama suda ili policijskog tijela, osim u slučaju da nadležna tijela utvrde drugačije u najboljem djetetovom interesu ili kada istraga ili postupak zahtijeva takav kontakt.
+2. Svaka će stranka osigurati da žrtve imaju pristup informacijama o relevantnim sudskim i upravnim postupcima od svojeg prvog kontakta s nadležnim tijelima.
+3. Svaka stranka će osigurati da žrtve imaju pristup besplatnoj pravnoj pomoći, gdje je ista zajamčena, u slučajevima kada je moguće da žrtva dobije status stranke u kaznenom postupku.
+4. Svaka stranka će osigurati mogućnost da pravosudna tijela imenuju posebnog zastupnika za žrtvu kada ona, prema unutarnjem pravu, može imati status stranke u kaznenom postupku i kada nositeljima roditeljske odgovornosti nije dopušteno zastupati dijete u takvim postupcima zbog sukoba interesa između njih i žrtve.
+5. Svaka će stranka osigurati, putem zakonodavnih ili drugih mjera, u skladu s uvjetima predviđenim njezinim unutarnjim pravom, da bilo koja skupina, zaklada, udruga ili vladina ili nevladina organizacija ima mogućnost pomagati i/ili pružati potporu žrtvama uz njihovu suglasnost tijekom kaznenog postupka koji se odnosi na kaznena djela utvrđena u skladu s ovom Konvencijom.
+6. Svaka će stranka osigurati da informacije koje se daju žrtvama u skladu s odredbama ovog članka budu dane na način prilagođen njihovoj dobi i zrelosti te na jeziku koji razumiju.
