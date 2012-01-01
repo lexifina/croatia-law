@@ -1,0 +1,2 @@
+# Članak 2.
+Obveznici plaćanja naknade za pružanje usluga u pokretnim elektroničkim komunikacijskim mrežama obvezni su do 15. siječnja 2012. platiti navedenu naknadu i nadležnoj ispostavi Porezne uprave podnijeti izvješće o pruženim uslugama u pokretnim elektroničkim komunikacijskim mrežama za mjesec prosinac 2011. godine na obrascu N-EKM propisanom Pravilnikom o obliku i sadržaju izvješća o pruženim uslugama u pokretnim elektroničkim komunikacijskim mrežama (»Narodne novine«, br. 97/09).
