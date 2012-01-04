@@ -1,0 +1,4 @@
+# Članak 7.
+1) Kada je ostvareno pravo puta, upravitelji općeg dobra ili vlasnici nekretnina dužni su infrastrukturnom operatoru omogućiti pristup na njihove nekretnine na kojima je izgrađena elektronička komunikacijska infrastruktura radi postavljanja, korištenja, održavanja, pregleda, uključenja ili isključenja korisnika, te sječe drveća i drugog raslinja koje ugrožava ove objekte.
+2) Infrastrukturni operator ima obvezu obavijestiti upravitelja općeg dobra ili vlasnika nekretnine da će obavljati radnje iz stavka 2. ovog članka, a odmah nakon tih radnji mora sanirati sva oštećenja i dovesti korišteni dio nekretnina u prvobitno stanje.
+3) Ako za neke radnje iz stavka 2. ovoga članka nije napravljena sanacija, odnosno dovođenje u prvobitno stanje, upravitelji općeg dobra ili vlasnici nekretnina imaju pravo na naknadu, odnosno naknadu štete prema općim propisima.
