@@ -1,0 +1,2 @@
+# Članak 1.
+Ovom se Uredbom preraspodjeljuju sredstva koja su planirana Odlukom o privremenom financiranju poslova, funkcija i programa državnih tijela i drugih proračunskih korisnika državnog proračuna Republike Hrvatske u prvom tromjesečju 2012. godine (»Narodne novine«, broj 131/11 - u daljnjem tekstu: Odluka) sukladno članku 42. Zakona o ustrojstvu i djelokrugu ministarstava i drugih središnjih tijela državne uprave (»Narodne novine«, broj 150/11).

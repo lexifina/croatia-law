@@ -1,0 +1,1 @@
+Na temelju članka 42. Zakona o ustrojstvu i djelokrugu ministarstava i drugih središnjih tijela državne uprave (»Narodne novine«, broj 150/11), a u vezi s člancima 42. i 58. Zakona o proračunu (»Narodne novine«, broj 87/08), Vlada Republike Hrvatske je na sjednici održanoj 5. siječnja 2012. godine donijela
