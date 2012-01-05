@@ -1,0 +1,2 @@
+# Članak 6.
+Ured potpredsjednika Vlade koji nije čelnik ministarstva obavlja stručne, administrativne i analitičke poslove za potrebe potpredsjednika Vlade, a osobito: pripremu stručnih i analitičkih materijala, stručnu obradu materijala za sudjelovanje potpredsjednika Vlade u radu Vlade, Užeg kabineta i radu Hrvatskoga sabora; sazivanje i pripremu sastanaka te izradu bilješki s tih sastanaka, te druge poslove po nalogu potpredsjednika Vlade.

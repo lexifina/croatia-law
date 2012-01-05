@@ -1,0 +1,3 @@
+# Članak 7.
+Ured radnog tijela Vlade obavlja stručne i analitičke poslove pripreme i sazivanja sjednica radnog tijela i njegove stručne radne skupine, obradu materijala koji će se razmatrati na sjednicama radnog tijela i njegove stručne radne skupine, praćenje tijeka sjednica radnog tijela i njegove stručne radne skupine, izradu stajališta i prijedloga stručne radne skupine, te izradu zaključaka i stajališta radnog tijela, pripremu prijedloga za odlučivanje na sjednici Vlade i izradu akata Vlade iz djelokruga radnog tijela.
+Ured radnog tijela Vlade obavlja i stručne i analitičke poslove za potrebe potpredsjednika Vlade.

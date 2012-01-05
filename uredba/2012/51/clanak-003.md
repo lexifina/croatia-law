@@ -1,0 +1,5 @@
+## 2. DJELOKRUG
+# Članak 3.
+Glavno tajništvo obavlja stručne, analitičke, upravno-pravne, administrativne i informatičke poslove; stručnu i administrativno-tehničku pripremu materijala za raspravu i odlučivanje na sjednicama stručnih radnih skupina i radnih tijela Vlade, Užeg kabineta Vlade i sjednicama Vlade; sazivanje i održavanje sjednica stručnih radnih skupina i radnih tijela Vlade te sjednica Vlade; praćenje tijeka sjednica stručnih radnih skupina i radnih tijela Vlade i sjednica Vlade; izradu zaključaka i stajališta stručnih radnih skupina i radnih tijela Vlade; izradu i otpremanje akata koje donosi Vlada; brigu o objavljivanju akata Vlade; izradu zapisnika sa sjednica Vlade; brigu o izvršavanju obveza Vlade prema Hrvatskome saboru, te administrativne, opće, tehničke i pomoćne poslove.
+Glavno tajništvo obavlja opće, tehničke, pomoćne i informatičke poslove za Ured predsjednika Vlade.
+Glavno tajništvo obavlja i stručne i administrativne poslove za potrebe potpredsjednika Vlade, te druge poslove po njihovom nalogu.
