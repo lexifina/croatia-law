@@ -1,0 +1,4 @@
+# Članak 2.
+(1) Javni natječaj za ostvarenje prava na sredstva Fonda za namjenu utvrđenu Zakonom o Fondu za zaštitu okoliša i energetsku učinkovitost (u daljnjem tekstu: Zakon o Fondu) raspisuje se na temelju odluke Upravnog odbora o raspisivanju javnog natječaja.
+(2) Odluku o raspisivanju javnog natječaja Upravni odbor donosi na temelju prijedloga direktora Fonda, a sukladno programu rada i financijskom planu Fonda, te Pravilniku o uvjetima i načinu dodjeljivanja sredstava Fonda za zaštitu okoliša i energetsku učinkovitost, te kriterijima i mjerilima za ocjenjivanje zahtjeva za dodjeljivanje sredstava Fonda.
+(3) Odluka Upravnog odbora o raspisivanju javnog natječaja sadrži predmet javnog natječaja, na koje se korisnike sredstava natječaj odnosi, vrstu i visinu sredstava, te rok za objavu javnog natječaja.

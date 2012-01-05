@@ -1,0 +1,8 @@
+# Članak 5.
+(1) Postupak otvaranja ponuda i ocjene ponuda provodi povjerenstvo za provođenje javnog natječaja (u daljnjem tekstu: povjerenstvo).
+(2) Povjerenstvo iz stavka 1. ovoga članka imenuje direktor Fonda posebnom odlukom.
+(3) Povjerenstvo se sastoji od pet članova od kojih su četiri člana predstavnici Fonda, i to dva člana iz ustrojstvene jedinice iz čijeg djelokruga poslova se javni natječaj provodi, jedan član iz ustrojstvene jedinice nadležne za pravne poslove, jedan član iz ustrojstvene jedinice nadležne za financijske poslove, te jedan član iz nadležnog ministarstva iz čijeg djelokruga poslova se natječaj objavljuje.
+(4) Povjerenstvo je dužno otvoriti sve pravovremeno pristigle ponude te utvrditi da li se iste odnose na predmet javnog natječaja da li su podnesene od strane korisnika sredstava na kojeg se javni natječaj odnosi i da li je dostavljena propisana dokumentacija.
+(5) Pravovremeno pristigle ponude, dopuštene i izjavljene od strane ponuditelja na koje se natječaj odnosi, povjerenstvo je dužno ocijeniti na temelju kriterija utvrđenih Pravilnikom o uvjetima i načinu dodjeljivanja sredstava Fonda za zaštitu okoliša i energetsku učinkovitost, te kriterijima i mjerilima za ocjenjivanje zahtjeva za dodjeljivanje sredstava Fonda (»Narodne novine«, broj 18/09).
+(6) Povjerenstvo je dužno u roku od 8 dana od proteka roka za dostavu ponuda po objavljenom javnom natječaju započeti s radom i u daljnjem roku od 60 dana izraditi zapisnik o otvaranju i ocjeni ponuda s prijedlogom o odabiru korisnika sredstava.
+(7) Zapisnik o otvaranju i ocijeni ponuda s prijedlogom o odabiru korisnika sredstava dostavlja se direktoru Fonda, potpisan od strane svih članova povjerenstva.
