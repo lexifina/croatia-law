@@ -1,0 +1,1 @@
+Na temelju članka 29., 30. i 30 a Zakona o financiranju jedinica lokalne i područne (regionalne) samouprave (»Narodne novine« broj 117/93, 69/97, 33/00, 59/01, 107/01, 117/01, 150/02, 147/03, 132/06 i 73/08) i članka 21. Statuta Općine Ljubešćica (»Službeni vjesnik Varaždinske županije« broj 23/09), Općinsko vijeće Općine Ljubešćica na sjednici održanoj 19. prosinca 2011. donosi
