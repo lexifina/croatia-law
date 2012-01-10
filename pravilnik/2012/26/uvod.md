@@ -1,0 +1,1 @@
+Na temelju članka 273. Zakona o sigurnosti prometa na cestama (»Narodne novine« broj 67/2008, 48/10, 74/2011), te rješenja Ministarstva unutarnjih poslova Republike Hrvatske broj 511-01-72-7693/7-93 od 5. kolovoza 1993. Uprava Centra za vozila Hrvatske d.d. na sjednici održanoj 28. 12. 2011. i Upravni odbor Hrvatskog autokluba na 43. sjednici održanoj 20. 12. 2011., donijeli su
