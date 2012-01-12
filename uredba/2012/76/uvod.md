@@ -1,0 +1,1 @@
+Na temelju članka 1. Zakona o ovlasti Vlade Republike Hrvatske da uredbama uređuje pojedina pitanja iz djelokruga Hrvatskoga sabora (»Narodne novine«, broj 114/2011), Vlada Republike Hrvatske je na sjednici održanoj 12. siječnja 2012. godine donijela
