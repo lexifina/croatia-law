@@ -1,0 +1,3 @@
+# Članak 7.
+U Odjelu za koordinaciju rada savjetnika predsjednika Vlade obavljaju se poslovi sustavnog praćenja, razmatranja i utvrđivanja stanja u pojedinom području radi izrade stručnih mišljenja i studija za potrebe predsjednika Vlade, izrade strateških razvojnih planova i analiza, pripreme prijedloga i usklađivanja provedbe pojedinih projekata iz programa Vlade, poslovi stalne ili povremene naravi od značaja za obavljanje dužnosti predsjednika Vlade, poslovi koordinacije između Vlade i Hrvatskoga sabora.
+Za obavljanje pojedinih poslova iz stavka 1. ovoga članka predsjednik Vlade imenuje savjetnike predsjednika Vlade koji imaju status državnog službenika.

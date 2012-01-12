@@ -1,0 +1,3 @@
+# Članak 14.
+U Odjelu općih, administrativnih i organizacijskih poslova za potrebe predsjednika Vlade obavljaju se opći, administrativni i organizacijski poslovi potrebni za izvršavanje dužnosti predsjednika Vlade, a osobito obrada službenih bilješki s redovitih i protokolarnih sastanaka, obavljanje poslova korespondencije s tijelima državne vlasti u Republici Hrvatskoj i inozemstvu, različite vrste prijepisa, primitak i otprema pošte, poslove pohrane svih dokumenta nastalih radom predsjednika Vlade i Ureda, sudjelovanje u pripremi protokolarnih i drugih aktivnosti u vezi s obavljanjem dužnosti predsjednika Vlade, te drugi poslovi koje Odjelu povjeri predsjednik Vlade i predstojnik Ureda.
+Odjelom iz stavka 1. ovoga članka upravlja voditelj Odjela.
