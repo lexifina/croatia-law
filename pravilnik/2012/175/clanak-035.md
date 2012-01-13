@@ -1,0 +1,6 @@
+## 6. DIO
+## PRIJELAZNE I ZAVRŠNE ODREDBE
+# Članak 35.
+(1) Odobrenje za provođenje »Programa izobrazbe u području javne nabave« izdano sukladno članku 9. Uredbe o oblicima, načinima i uvjetima izobrazbe u sustavu javne nabave (»Narodne novine«, broj 43/09) smatra se ovlaštenjem iz članka 16. stavka 1. ovoga Pravilnika.
+(2) Ovlaštena tijela koja imaju važeće odobrenje izdano temeljem Uredbe o oblicima, načinima i uvjetima izobrazbe u sustavu javne nabave (»Narodne novine«, broj 43/09), moraju nakon stupanja na snagu ovoga Pravilnika, a najkasnije 30 dana prije provedbe prvog Programa izobrazbe, središnjem tijelu za javnu nabavu elektroničkim putem dostaviti detaljnu razradu načina provedbe Programa izobrazbe iz članka 16. stavka 2. točke 3. ovoga Pravilnika usuglašenu s nastavnim programom iz Priloga ovoga Pravilnika te dostaviti sve podatke propisane člankom 16. stavkom 2. koji nisu dostavljeni u sklopu zahtjeva za izdavanje važećeg odobrenja.
+(3) Ovlaštena tijela koja imaju važeće odobrenje izdano temeljem Uredbe o oblicima, načinima i uvjetima izobrazbe u sustavu javne nabave (»Narodne novine«, broj 43/09), moraju u roku 30 dana od dana stupanja na snagu ovoga Pravilnika podatke objavljene na internetskim stranicama dopuniti sukladno članku 31. stavku 5. ovoga Pravilnika.

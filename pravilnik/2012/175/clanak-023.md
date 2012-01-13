@@ -1,0 +1,5 @@
+## Redovito usavršavanje za osobe koje izvode nastavu
+# Članak 23.
+(1) Iznimno od članka 22. stavka 2. ovoga Pravilnika, redovitim usavršavanjem smatra se i izvođenje nastave u sklopu Programa izobrazbe i/ili programa usavršavanja propisanih ovim Pravilnikom.
+(2) Stručne osobe mogu temeljem izvođenja nastave u sklopu Programa izobrazbe i/ili programa usavršavanja propisanih ovim Pravilnikom ostvariti maksimalno 24 nastavna sata redovitog usavršavanja.
+(3) Osobe koje su se redovito usavršavale i sukladno stavku 1. ovoga članka, u zahtjevu iz članka 7. ovoga Pravilnika moraju navesti i podatke o izvođenju nastave u sklopu Programa izobrazbe i/ili programa usavršavanja propisanih ovim Pravilnikom (evidencijski broj programa, naziv nositelja programa, datum i mjesto održavanja, broj održanih nastavnih sati i tema predavanja/vježbi). Središnje tijelo za javnu nabavu pri obradi zaprimljenih zahtjeva dostavljene podatke uspoređuje s podacima koje su nositelji programa dostavili u izvješćima sukladno članku 31. stavku 4. ovoga Pravilnika te se u slučaju razlika između tih podataka, kao vjerodostojni uzimaju se podaci iz izvješća nositelja programa.
