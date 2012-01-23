@@ -1,0 +1,1 @@
+Na temelju članka 32. stavka 5., članka 33. stavka 5., članka 34. stavka 5., članka 37. stavka 9., članka 54. stavka 7., članka 69. stavka 4., članka 78. stavka 7., članka 87. stavka 6., članka 89. stavka 8. i članka 90. stavka 5. Zakona o javnoj nabavi (»Narodne novine«, broj 90/2011), Vlada Republike Hrvatske je na sjednici održanoj 19. siječnja 2012. godine donijela

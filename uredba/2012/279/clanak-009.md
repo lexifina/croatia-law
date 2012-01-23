@@ -1,0 +1,13 @@
+## Način određivanja minimalnih razina sposobnosti natjecatelja ili ponuditelja
+# Članak 9.
+(1) Naručitelj određuje uvjete financijske i/ili tehničke i stručne sposobnosti natjecatelja ili ponuditelja u slučaju kada je zadovoljenje tih uvjeta prema mišljenju naručitelja nužan temelj za ocjenu sposobnosti natjecatelja ili ponuditelja za izvršenje određenog ugovora.
+(2) Ako naručitelj određuje uvjete financijske i/ili tehničke i stručne sposobnosti, tada mora od natjecatelja ili ponuditelja tražiti da zadovolje minimalne razine financijske i/ili tehničke i stručne sposobnosti.
+(3) Opseg informacija i minimalne razine financijske i/ili tehničke i stručne sposobnosti koje se zahtijevaju za određeni ugovor moraju biti vezane uz predmet nabave i razmjerne predmetu nabave, odnosno grupi predmeta nabave.
+(4) Ako naručitelj od natjecatelja ili ponuditelja kao dokaz tehničke i stručne sposobnosti traži popis ugovora, smatra se da je uvjet:
+1. vezan uz predmet nabave, odnosno grupu predmeta nabave, ako se traži dokaz o izvršenju istog ili sličnog, odnosno istih ili sličnih ugovora kao što je predmet nabave, odnosno grupa predmeta nabave, te
+2. razmjeran predmetu nabave, odnosno grupi predmeta nabave, u sljedećim slučajevima:
+- kada se traži dokaz o izvršenju jednog ugovora, ako njegov iznos nije viši od procijenjene vrijednosti nabave, odnosno od procijenjene vrijednosti pojedine grupe;
+- kada se traži dokaz o izvršenju više ugovora, ako njihov zbrojeni iznos nije viši od procijenjene vrijednosti nabave, odnosno od procijenjene vrijednosti pojedine grupe.
+(5) Ako naručitelj od natjecatelja ili ponuditelja kao dokaz financijske sposobnosti traži visinu ukupnog prometa, smatra se da je uvjet razmjeran predmetu nabave, odnosno grupi predmeta nabave ako tražena visina ne prelazi dvostruki iznos procijenjene vrijednosti nabave, odnosno procijenjene vrijednosti pojedine grupe.
+(6) U slučaju postupaka javne nabave s namjerom sklapanja okvirnog sporazuma u smislu stavaka 4. i 5. ovoga članka minimalne razine sposobnosti natjecatelja ili ponuditelja koje se zahtijevaju moraju biti razmjerne procijenjenoj vrijednosti podijeljenoj s brojem godina za koje se sklapa okvirni sporazum ili brojem ugovora za koje se predviđa da će se sklopiti na temelju okvirnog sporazuma.
+(7) Iznimno od stavaka 2. do 5. ovoga članka, u opravdanim okolnostima koje moraju biti vezane uz rizike koji proizlaze iz prirode radova, usluga ili robe koji su predmet nabave, naručitelj može zahtijevati i više razine financijske i/ili tehničke i stručne sposobnosti, pri čemu je u dokumentaciji za nadmetanje dužan obrazložiti te okolnosti.
