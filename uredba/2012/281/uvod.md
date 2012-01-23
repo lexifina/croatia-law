@@ -1,0 +1,1 @@
+Na temelju članka 65. Zakona o vanjskim poslovima (»Narodne novine«, broj 48/96) i članka 63. stavka 2. Zakona o sustavu državne uprave (»Narodne novine«, broj 150/2011), Vlada Republike Hrvatske je na sjednici održanoj 19. siječnja 2012. godine donijela

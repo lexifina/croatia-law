@@ -1,0 +1,2 @@
+# Članak 98.
+Odjel za prevoditeljsku potporu službi vanjskih poslova osigurava prevoditeljsku potporu službi vanjskih poslova; obavlja poslove prevođenja, jezične i stručne redakture i lekture, jezičnu i pravnu redakturu i lekturu prijevoda akata i događanja za potrebe službe vanjskih poslova, uključujući i prevođenje svih vrsta tekstova s hrvatskog na strane jezike i obratno za sve ustrojstvene jedinice Ministarstva, kao i lektoriranje tekstova sastavljenih u Ministarstvu na stranim jezicima, te obavlja i druge poslove iz svog djelokruga.

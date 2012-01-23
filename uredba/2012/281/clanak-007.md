@@ -1,0 +1,7 @@
+# Članak 7.
+Sektor za bilateralne poslove sa članicama Europske unije osigurava provođenje utvrđene vanjske politike Republike Hrvatske u bilateralnim odnosima s europskim državama, članicama EU; bavi se političkim pitanjima vezanim za uključivanje RH u EU; prati i usmjerava rad diplomatskih misija i konzularnih ureda Republike Hrvatske u inozemstvu u području svog djelovanja; održava odnose s nadležnim tijelima EU, kao i s diplomatskim predstavnicima drugih zemalja u području svoje nadležnosti; prati politiku i odnose Europske unije prema spomenutim zemljama; potiče i pruža pomoć u suradnji državnih tijela s inozemstvom u političkim, gospodarskim, kulturnim, znanstvenim i drugim područjima; u odnosu na države iz nadležnosti Sektora obavlja poslove u vezi zaštite prava i interesa državljana RH koji prebivaju ili borave u inozemstvu te promicanja njihovih veza s domovinom; pruža osobitu skrb i zaštitu dijelova hrvatskoga naroda u drugim državama; promiče, uspostavlja i održava veze s hrvatskim iseljenicima i manjinama kao i s njihovim udrugama u njihovim državama; te obavlja i druge poslove iz svog djelokruga.
+U Sektoru za bilateralne poslove sa članicama Europske unije ustrojavaju se:
+3.1.1. Služba za Zapadnu i Sjevernu Europu;
+3.1.2. Služba za Srednju, Istočnu i Južnu Europu;
+3.1.3. Služba za gospodarsku bilateralnu suradnju sa članicama Europske unije i EFTA-e.
+3.1.1. Služba za Zapadnu i Sjevernu Europu

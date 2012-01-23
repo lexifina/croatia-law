@@ -1,0 +1,9 @@
+# Članak 78.
+Sektor za financijsko-materijalne poslove koordinira, povezuje i usmjerava obavljanje poslova financijskog planiranja, računovodstvenih poslova, organizacije nabave, upravljanja imovinom i podrške službi vanjskih poslova; radi na poslovima planiranja i izvršavanja proračuna; i koordinira procesom izrade strateškog plana Ministarstva te brine o usklađenosti prijedloga financijskog plana sa strateškim ciljevima; prati izvršenje financijskog plana i daje prijedloge za rebalans proračuna; koordinira uspostavljanje, provođenje i razvoj metodologija financijskog upravljanja i kontrola na svim razinama i u svim ustrojstvenim jedinicama ministarstva i DM/KU; izrađuje smjernice i interne akte iz svog djelokruga; brine o pravilnom i racionalnom korištenju materijalno-financijskih sredstava i imovine; obavlja devizno poslovanje; priprema planove i obavlja postupak nabave za potrebe službe vanjskih poslova sukladno zakonu; obavlja stručne poslove u vezi kupnje, najma i opremanja novih objekata za potrebe DM/KU, te investicijskog i tekućeg održavanja postojećih; obavlja stručne poslove oko rekonstrukcije i adaptacije postojećih objekata u vlasništvu Republike Hrvatske; obavlja stručne poslove u vezi sa sukcesijom diplomatsko-konzularne imovine bivše SFRJ; priprema i koordinira aktivnosti oko organiziranja međunarodnih događanja; priprema prijedloge ugovora iz svog djelokruga; priprema podloge za donošenje odluka ministra, zamjenika ministra, pomoćnika ministra i glavnog tajnika Ministarstva; surađuje i koordinira aktivnosti s tijelima državne uprave u poslovima iz svoga djelokruga rada, te obavlja i ostale poslove iz svog djelokruga.
+U Sektoru za financijsko-materijalne poslove ustrojavaju se:
+7.3.1. Služba za proračun;
+7.3.2. Služba za računovodstvo;
+7.3.3. Služba za nabavu;
+7.3.4. Služba za upravljanje imovinom i podršku službi vanjskih poslova;
+7.3.5. Služba za opće i tehničke poslove.
+7.3.1. Služba za proračun

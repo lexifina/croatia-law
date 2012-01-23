@@ -1,0 +1,3 @@
+## I. OPĆE ODREDBE
+# Članak 1.
+Uredbom o unutarnjem ustrojstvu Ministarstva vanjskih i europskih poslova (u daljnjem tekstu: Uredba), uređuje se: ustroj Ministarstva vanjskih i europskih poslova (u daljnjem tekstu: Ministarstvo), nazivi i djelokrug upravnih organizacija i unutarnjih ustrojstvenih jedinica, kategorizacija i ustroj diplomatskih misija i konzularnih ureda Republike Hrvatske u inozemstvu (u daljnjem tekstu: DM/KU), prijam u službu za pojedine državne službenike bez natječaja, okvirni broj državnih službenika i namještenika, posebni položaji u Ministarstvu, upravljanje Ministarstvom i DM/KU (u daljnjem tekstu: služba vanjskih poslova), način planiranja poslova, kao i druga pitanja od osobitog značaja za rad Ministarstva.
