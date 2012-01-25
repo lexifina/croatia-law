@@ -1,0 +1,1 @@
+Ustavni sud Republike Hrvatske, u sastavu Jasna Omejec, predsjednica Suda, te suci Mato Arlović, Marko Babić, Snježana Bagić, Mario Jelušić, Davor Krapac, Ivan Matija, Antun Palarić, Aldo Radolović, Duška Šarin i Miroslav Šeparović, rješavajući o zahtjevima za provođenje nadzora nad ustavnošću i zakonitošću državnog referenduma, na sjednici održanoj 16. siječnja 2012., donio je
