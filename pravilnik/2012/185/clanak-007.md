@@ -1,0 +1,5 @@
+# Članak 7.
+Pirotehnički nadzornik dužan je izvršiti ili pirotehničkom nadgledniku naložiti dodatni kontrolni pregled površina projekta na kojoj su izvršeni poslovi o čemu se izrađuje skica kontrolnih uzoraka koja se prilaže u dnevnik radilišta. Kontrolni uzorci na kojima je izvršen dodatni kontrolni pregled moraju biti obilježeni na radilištu do provedene kontrole ili preuzimanja predmetnog područja.
+Pirotehnički nadzornik može dati nalog pirotehničkom nadgledniku da pojačano nadzire rad pirotehničara na površini projekta za koju se traži odobravanje većih učinaka pirotehničara.
+Povećani nadzor se provodi na način da se u određenom vremenskom intervalu prati rad više pirotehničara nakon čega se obavlja mjerenje ostvarenih učinaka pirotehničara te obavlja kontrolni pregled utvrđivanja kvalitete. Pirotehnički nadglednik utvrđene podatke upisuje u dnevnik radilišta (ostvareni učinak po m² u radnom danu, kvaliteta obavljenog rada) te s rezultatima upoznaje pirotehničkog nadzornika.
+Za provođenje kontrolnog pregleda mogu se po zahtjevu pirotehničkog nadzornika angažirati pirotehničari za potporu završnom nadzoru.

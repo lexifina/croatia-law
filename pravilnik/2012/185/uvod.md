@@ -1,0 +1,1 @@
+Na temelju članka 19. stavka 3. alineje 9. Statuta Hrvatskog centra za razminiranje i članka 49. Pravilnika o načinu obavljanja poslova humanitarnog razminiranja (»Narodne novine« 53/2007, 111/2007 i 141/11) 3. siječnja 2012. godine donosi

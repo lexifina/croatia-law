@@ -1,0 +1,3 @@
+# Članak 15.
+Ukoliko službenik iz članka 13. stavka 1. ovog Pravilnika utvrdi da su poslovi nekvalitetno obavljeni, dužan je o tome obavijestiti pomoćnika ravnatelja koji rukovodi Sektorom za nadzor i kontrolu kvalitete.
+Pomoćnik ravnatelja koji rukovodi Sektorom za nadzor i kontrolu kvalitete od pirotehničkog nadzornika koji je odobrio veće učinke traži pisano očitovanje o razlozima odluke o odobravanju većih učinaka pirotehničara, te njemu ili drugom pirotehničkom nadzorniku nalaže da odmah, a najkasnije u roku od dva radna dana, obavi stručni nadzor u tijeku obavljanja poslova i postupi sukladno Pravilniku o načinu obavljanja poslova humanitarnog razminiranja.
