@@ -1,0 +1,2 @@
+# Članak 4.
+Članovi upravnih tijela i nadzornih odbora trgovačkih društava u kojima Republika Hrvatska odnosno jedinica lokalne i područne (regionalne) samouprave ima dionice ili udjele u vlasništvu (kapitalu društva), imenovani na prijedlog Vlade Republike Hrvatske, odnosno predstavničkog tijela jedinice lokalne i područne (regionalne) samouprave na temelju prethodno provedenog javnog natječaja, nastavljaju s radom do imenovanja novih članova sukladno odredbama ovoga Zakona.
