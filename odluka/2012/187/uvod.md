@@ -1,0 +1,1 @@
+Na temelju članka 29., 30. i 30.a Zakona o financiranju jedinica lokalne i područne (regionalne) samouprave (»Narodne novine« broj 117/93., 69/97., 33/00., 59/01., 107/01., 117/01., 150/02., 147/03., 132/06. i 73/08.) i članka 21. Statuta Općine Vuka (»Službeni glasnik Općine Vuka« broj 4/09.), Općinsko vijeće Općine Vuka na 18. sjednici održanoj 29. prosinca 2011. donosi
