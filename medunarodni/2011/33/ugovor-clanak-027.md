@@ -1,0 +1,13 @@
+# Članak 27.
+ZAŠTITA KLASIFICIRANIH PODATAKA
+U provedbi ovoga Sporazuma policijska tijela ugovornih stranaka primjenjuju sljedeće odredbe u cilju zaštite primljenih klasificiranih podataka:
+a) podacima klasificiranim sukladno nacionalnom zakonodavstvu države pošiljatelja klasificiranih podataka ugovorna stranka primateljica dodjeljuje isti stupanj zaštite koji odgovara zaštiti koja se dodjeljuje podacima označenim stupnjem tajnosti u skladu s njezinim nacionalnim zakonodavstvom, na temelju tablice stupnjeva tajnosti klasificiranih podataka koja čini Dodatak ovom Sporazumu;
+b) ugovorna stranka pošiljateljica dužna je navesti rok važenja stupnja tajnosti;
+c) ugovorna stranka pošiljateljica dužna je odmah u pisanom obliku obavijestiti ugovornu stranku primateljicu o svim promjenama koje se odnose na podatke, oznaku tajnosti klasificiranih podataka, njihov rok valjanosti te o deklasifikaciji. Ugovorna stranka primateljica dužna je izmijeniti oznaku tajnosti klasificiranih podataka ili rok valjanosti ili deklasificirati podatke u skladu s obavijesti;
+d) ustupljeni klasificirani podaci smiju se upotrebljavati samo u svrhe u koje su bili poslani. Pristup klasificiranim podacima ograničen je na osobe koje imaju ovlaštenje za pristup prema nacionalnom zakonodavstvu;
+e) ustupljeni klasificirani podaci smiju se dostavljati tijelima koja nisu navedena u ovom Sporazumu samo uz prethodnu pisanu suglasnost pošiljatelja koji šalje klasificirane podatke;
+f) o svakoj povredi zakona i propisa o zaštiti klasificiranih podataka na strani stranke primateljice, odmah se obavještava ugovorna stranka pošiljateljica. Obavijest mora sadržavati naznaku o okolnostima kršenja propisa, posljedicama takvog kršenja te o mjerama poduzetim u cilju otklanjanja posljedica povrede i sprečavanja svake daljnje povrede zakona i propisa;
+g) klasificirane podatke koji su dostavljeni temeljem ovoga Sporazuma, moguće je dostavljati trećoj državi samo uz prethodno pisano odobrenje tijela koje je za to nadležno sukladno nacionalnom zakonodavstvu države pošiljatelja;
+h) pristup klasificiranim podacima koji su potrebni za rad zajedničkog tima za izvide kaznenih djela osnovanog prema članku 15. ovoga Sporazuma - vezano uz podatke koje su klasificirala policijska tijela koja sudjeluju u suradnji temeljem ovoga Sporazuma - upućenom policijskom službeniku policijskog tijela druge ugovorne stranke odobrava rukovoditelj tijela koje je osnovalo zajednički tim za izvide kaznenih djela. Za slanje klasificiranih podataka koje su klasificirala tijela koja nisu uključena u suradnju prema ovom Sporazumu, potrebno je odobrenje tijela koje je podatke klasificiralo.
+VI. Poglavlje
+ZAVRŠNE ODREDBE
