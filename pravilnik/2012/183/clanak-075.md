@@ -1,0 +1,4 @@
+# Članak 75.
+(1) Unutar jamstvenog roka ugovorni je isporučitelj obvezan provesti popravak pomagala na svoj trošak, a ako popravak nije moguć, obvezan je osiguranoj osobi isporučiti odmah, odnosno najkasnije u roku od 30 dana novo istovrsno pomagalo.
+(2) Tijekom popravka pomagala u skladu sa stavkom 1. ovog članka ugovorni isporučitelj je obvezan osiguranoj osobi dati zamjensko pomagalo, ako je to nužno zbog zdravstvenog stanja ili je osigurana osoba onemogućena u svojim svakodnevnim životnim aktivnostima.
+(3) Troškove popravka dentalnog pomagala koje unutar jamstvenog roka nije bilo uporabivo ili čije je oštećenje nastalo unutar tog roka, a koje nije posljedica namjernog oštećenja ili nepažnje osigurane osobe, snosi ugovorna zdravstvena ustanova ili ugovorni doktor dentalne medicine privatne prakse koji su osiguranoj osobi izradili rečeno pomagalo.

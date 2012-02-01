@@ -1,0 +1,3 @@
+# Članak 21.
+(1) Osiguranoj osobi može se, iznimno unutar propisanog roka uporabe pomagala, odobriti nabava novoga istovrsnog pomagala ili njegovog dijela ako je pomagalo prema nalazu nadležnog doktora dotrajalo, odnosno postalo neuporabljivo za osiguranu osobu zbog nastalih anatomskih, fizioloških, te funkcionalnih promjena, a koje nisu posljedica nekorištenja pomagala, odnosno korištenja pomagala na nepropisan način.
+(2) Odobrenje za nabavu novog istovrsnog pomagala ili njegovog dijela iz stavka 1. ovog članka daje ovlašteni doktor Zavoda, liječničko povjerenstvo za pomagala Direkcije Zavoda, odnosno za dentalna pomagala liječničko povjerenstvo za pomagala Direkcije Zavoda ako su ovlašteni za davanje odobrenja za to pomagalo prema Popisu pomagala.

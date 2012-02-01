@@ -1,0 +1,7 @@
+# Članak 18.
+(1) Osigurana osoba obvezna je sudjelovati u dijelu troškova odobrenog pomagala, rezervnog dijela pomagala i potrošnog materijala iz članka 1. ovog Pravilnika, u visini 20% pune cijene pomagala u skladu s člankom 16. stavkom 3. Zakonom.
+(2) Propisani postotak sudjelovanja iz stavka 1. ovog članka utvrđuje se na ukupnu cijenu pomagala ostvarenih na osnovi jedne tiskanice potvrde o pomagalu iz članka 13. ovog Pravilnika.
+(3) Iznimno, osigurane osobe - djeca do navršene 18. godine života i osigurane osobe - djeca iz članka 10. stavka 5. i 6. Zakona, te osigurane osobe kojima se pomagalo propisuje u vezi liječenja zbog priznate ozljede na radu odnosno profesionalne bolest, nisu obvezne sudjelovati u dijelu troškova pomagala iz stavka 1. ovog članka.
+(4) Iznimno od stavka 1. ovog članka osigurana osoba kojoj je odobreno obnovljeno pomagalo iz članka 12. stavka 2. ovog Pravilnika nisu obvezne sudjelovati u dijelu troškova odobrenog pomagala.
+(5) Iznos sudjelovanja osigurane osobe utvrđen u skladu sa stavkom 2. ovog članka ne smije iznositi manje od 1,50 % proračunske osnovice, a za stomatološka pomagala osiguranih osoba od 18. do 65. godina starosti iznos sudjelovanja ne smije iznositi manje od 30,07 % proračunske osnovice, odnosno osiguranih osoba starijih od 65 godina manje od 15,03 % proračunske osnovice.
+(6) Ako bi iznos ukupne cijene pomagala po jednoj tiskanici potvrde o pomagalu iznosio manje od iznosa utvrđenog stavkom 5. ovog članka osigurana osoba je obvezna platiti ukupnu cijenu pomagala.

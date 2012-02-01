@@ -1,0 +1,3 @@
+# Članak 81.
+(1) U postupku po žalbi izjavljenoj protiv prvostupanjskog rješenja donesenog na osnovi nalaza, mišljenja i ocjene liječničkog povjerenstva za pomagala Direkcije, drugostupanjsko rješenje donosi se na osnovi prethodno pribavljenog nalaza, mišljenja i ocjene višeg liječničkog povjerenstva Direkcije Zavoda u skladu s općim aktom Zavoda.
+(2) Iznimno od stavka 1. ovog članka, kada se u žalbenom postupku pobija prvostupanjsko rješenje donijeto na osnovi nalaza, mišljenja i ocjene ovlaštenog doktora Zavoda iz članka 77. ovog Pravilnika, na zahtjev drugostupanjskog tijela nalaz, mišljenje i ocjenu daje liječničko povjerenstvo za pomagala Direkcije Zavoda.

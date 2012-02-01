@@ -1,0 +1,4 @@
+# Članak 87.
+(1) U roku od 6 mjeseci od dana stupanja na snagu ovog Pravilnika, nova količina dijagnostičkih trakica za mjerenje šećera u krvi uređajem i lanceta za vađenje krvi iz prsta iz članka 46. ovog Pravilnika odobrava se isključivo uz predočenje ispisa iz evidencije uređaja za kontrolu šećera u krvi, odnosno uvidom u memoriju uređaja za kontrolu šećera u krvi putem odgovarajućeg programa, u količini usklađenoj s brojem samokontrola, a najviše do količine utvrđene u Popisu pomagala.
+(2) U periodu iz stavka 1. ovog članka nositelji upis u očevidnik za uređaje za kontrolu šećera u krvi uvrštenih u Popis pomagala obvezuju se osigurati izabranim doktorima kao nadležnim doktorima odgovarajući program za provjeru memorije uređaja za kontrolu šećera u krvi.
+(3) Najkasnije mjesec dana prije isteka roka iz stavka 1. ovog članka, Upravnom vijeću Zavoda obvezno se podnosi izvješće o ostvarenim preduvjetima za postupanje u skladu sa stavkom 1. ovog članka.
