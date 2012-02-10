@@ -1,0 +1,1 @@
+Na temelju članka 1.a stavka 4. Zakona o obrtu (»Narodne novine« broj 77/93, 90/96, 102/98, 64/01, 49/03 - pročišćeni tekst, 68/07 i 79/07 - ispravak; 40/10 - Odluka Ustavnog suda Republike Hrvatske), nakon prethodno pribavljenog mišljenja Hrvatske obrtničke komore i uz suglasnost ministra turizma, ministar poduzetništva i obrta donosi
