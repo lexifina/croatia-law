@@ -1,0 +1,1 @@
+Na temelju članka 27. stavka 3. Zakona o Vladi Republike Hrvatske (»Narodne novine«, broj 150/2011) i članka 63. stavka 2. Zakona o sustavu državne uprave (»Narodne novine«, broj 150/2011), a u vezi sa Zakonom o procjeni učinaka propisa (»Narodne novine«, broj 90/2011), Vlada Republike Hrvatske je na sjednici održanoj 9. veljače 2012. godine donijela
