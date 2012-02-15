@@ -1,0 +1,1 @@
+Na temelju članka 77. stavka 4. Zakona o veterinarstvu (»Narodne novine«, br. 41/07 i 55/11) i članka 48. stavaka 1. i 4. Zakona o hrani (»Narodne novine«, br. 46/07, 84/08 i 55/11) ministar poljoprivrede donosi
