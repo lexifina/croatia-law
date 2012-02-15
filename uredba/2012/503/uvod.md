@@ -1,0 +1,2 @@
+Na temelju članka 27. stavaka 2. i 3. Zakona o Vladi Republike Hrvatske (»Narodne novine«, broj 150/2011), članka 9. stavka 4. Zakona o ustrojstvu i djelokrugu ministarstava i drugih središnjih tijela državne uprave (»Narodne novine«, broj 150/2011) i Odluke o obavljanju poslova zastupanja Republike Hrvatske pred Europskim sudom za ljudska prava u Strasbourgu, klase: 023-03/12-01/26,
+urbroja: 5030109-12-1, od 9. veljače 2012. godine, Vlada Republike Hrvatske je na sjednici održanoj 9. veljače 2012. godine donijela

@@ -1,0 +1,3 @@
+## Odjel za pripremu predmeta pred Europskim sudom za ljudska prava
+# Članak 7.
+Odjel za pripremu predmeta pred Europskim sudom za ljudska prava obavlja poslove prikupljanja svih relevantnih činjenica, te stručne poslove u postupcima koji prethode presudi odnosno odluci Europskog suda za ljudska prava, sklapanju sporazuma o prijateljskom rješenju spora, jednostranom priznanju povrede Konvencije, izricanju privremene mjere Europskog suda za ljudska prava, poslove vezane za pripremu zahtjeva za upućivanje određenih predmeta Velikom vijeću Europskog suda za ljudska prava, te poslove pripreme izvješća Vladi Republike Hrvatske i Hrvatskome saboru o predmetima Republike Hrvatske pred Europskim sudom za ljudska prava.
