@@ -1,0 +1,1 @@
+Rješenje kojim se utvrđuje da je u registar investicijskih fondova Republike Hrvatske, koji vodi Hrvatska agencija za nadzor financijskih usluga upisan otvoreni investicijski fond s javnom ponudom Raiffeisen Prestige Equity
