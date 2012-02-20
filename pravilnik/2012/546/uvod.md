@@ -1,0 +1,1 @@
+Na temelju odredbe članka 106. stavka 4. točke 1. Zakona o znanstvenoj djelatnosti i visokom obrazovanju (»Narodne novine« - 123/03, 198/03, 105/04, 174/04 i 46/07), Vijeće veleučilišta i visokih škola Republike Hrvatske na sjednici održanoj 15. travnja 2010. godine donosi
