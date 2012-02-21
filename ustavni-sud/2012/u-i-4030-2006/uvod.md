@@ -1,0 +1,1 @@
+Ustavni sud Republike Hrvatske, u sastavu Jasna Omejec, predsjednica Suda, te suci Mato Arlović, Marko Babić, Snježana Bagić, Slavica Banić, Mario Jelušić, Antun Palarić, Duška Šarin i Miroslav Šeparović, odlučujući o zahtjevu za ocjenu suglasnosti zakona s Ustavom ("Narodne novine" broj 56/90., 135/97., 113/00., 28/01. i 76/10.), na sjednici održanoj 21. veljače 2012. donio je
