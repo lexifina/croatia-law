@@ -1,0 +1,3 @@
+# Članak 14.
+Odjel za poduzetničku infrastrukturu sustavno prati, analizira i izvješćuje o rezultatima provedbe mjera poticaja razvoja malog i srednjeg poduzetništva; na temelju analitičkih izvješća predlaže mjere poticaja za razvoj poduzetništva; sudjeluje u aktivnostima vezanim za ugovore Republike Hrvatske, lokalne i područne (regionalne) samouprave u području poduzetništva; sudjeluje u pripremi i prati izvršenje državnog proračuna u okviru djelokruga Odjela; sudjeluje u radu agencija, zavoda i fondova iz nadležnosti Ministarstva, te obavlja i druge poslove iz svoga djelokruga.
+3.1.2. Služba za međunarodnu suradnju
