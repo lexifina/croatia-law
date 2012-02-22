@@ -1,0 +1,3 @@
+# Članak 35.
+Odjel za provedbu tehničke pomoći priprema projektnu dokumentaciju za operacije iz tehničke pomoći te ih provodi, organizira redovite mjesečne sastanke za operacije iz tehničke pomoći s predstavnicima svih tijela unutar strukture, kao i s predstavnicima tijela horizontalne razine s ciljem praćenja provedbe projekata, priprema izvješća i planove, obavlja poslove Jedinice za provedbu projekata u okviru programa IPA komponenta I. i u tu svrhu surađuje s ostalim odjelima unutar uprave i ostalim upravama Ministarstva te obavlja i druge poslove u okviru svoga djelokruga.
+5.2.2. Služba za financijsko upravljanje

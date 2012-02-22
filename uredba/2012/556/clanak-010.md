@@ -1,0 +1,6 @@
+# Članak 10.
+Služba radnog prava obavlja upravne i stručne poslove u vezi s praćenjem primjene propisa iz djelokruga rada; izrađuje izvješća, studije i analize na području radnog prava; predlaže izmjene i dopune te nacrte propisa iz djelokruga radnog prava; izrađuje mišljenja o primjeni radno-pravnih propisa; pruža stručnu pomoć i daje savjete sindikatima, poslodavcima i njihovim udrugama; organizira stručne skupove za zainteresiranu javnost; pruža stručnu pomoć Gospodarsko-socijalnom vijeću u vezi s primjenom radno-pravnih propisa i u postupcima u vezi sa sudjelovanjem Vlade Republike Hrvatske u kolektivnim pregovorima i sklapanju kolektivnih ugovora; izrađuje pisane upute uredima državne uprave o primjeni Zakona o radu; prati konvencije i preporuke Međunarodne organizacije rada, Vijeća Europe i Europske unije te međunarodne ugovore iz djelokruga rada Službe; prati sudsku praksu vezanu uz primjenu propisa iz područja rada; odlučuje o žalbama izjavljenim na rješenja ureda državne uprave na temelju Zakona o radu i obavlja upravni nadzor na tom području te obavlja i druge poslove u okviru svoga djelokruga.
+U Službi radnog prava ustrojavaju se:
+3.1.1.1. Odjel radnog prava
+3.1.1.2. Odjel zaštite na radu.
+3.1.1.1. Odjel radnog prava

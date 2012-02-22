@@ -1,0 +1,3 @@
+# Članak 22.
+Služba za bilateralnu koordinaciju obavlja upravne i stručne poslove u vezi sa sudjelovanjem u pregovorima o sklapanju međudržavnih ugovora o socijalnom osiguranju; sudjelovanjem u međuresornoj koordinaciji kod pripreme ugovora; sudjelovanjem u radu tijela međunarodnih organizacija i institucija Europske unije te u radu regionalnih inicijativa u projektima vezanim za socijalnu sigurnost; praćenjem međunarodnih propisa, stručne literature i prakse na području socijalnog osiguranja; izradom izvješća i mišljenja u fazi pripreme međudržavnih ugovora o socijalnom osiguranju te obavlja i druge poslove u okviru svoga djelokruga.
+4.2.2. Služba za koordinaciju na temelju propisa Europske unije

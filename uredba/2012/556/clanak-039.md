@@ -1,0 +1,3 @@
+## 6. SAMOSTALNA SLUŽBA DRUGOSTUPANJSKOGA POSTUPKA U MIROVINSKOM OSIGURANJU
+# Članak 39.
+Samostalna služba drugostupanjskoga postupka u mirovinskom osiguranju obavlja poslove drugostupanjskog medicinskog vještačenja; nadzora nad prvostupanjskim tijelima vještačenja Hrvatskog zavoda za mirovinsko osiguranje, ako za to utvrdi potrebu; analize i izvješćivanja o obavljenim nadzorima; osiguravanja jedinstvene provedbe zakona i drugih propisa iz svoga djelokruga; davanja prijedloga za izmjenu, dopunu ili donošenje novih propisa koji reguliraju problematiku medicinskog vještačenja, donošenja rješenja u drugom stupnju o pravima na osnovi invalidnosti i tjelesnom oštećenju te obavlja i druge poslove u okviru svoga djelokruga.
