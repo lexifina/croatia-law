@@ -1,0 +1,2 @@
+# Članak 1.
+U Pravilniku o načinu izvršavanja odgojnih mjera posebne obveze, upućivanje u disciplinski centar, pojačana briga i nadzor, pojačana briga i nadzor uz dnevni boravak u odgojnoj ustanovi, upućivanje u odgojnu ustanovu i upućivanje u posebnu odgojnu ustanovu (»Narodne novine«, broj 141/2011), u članku 2. stavku 1. točki 5. riječi: »odgojni zavod« zamjenjuju se riječima: »odgojnu ustanovu«.

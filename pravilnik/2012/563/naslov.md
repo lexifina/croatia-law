@@ -1,0 +1,1 @@
+Pravilnik o izmjenama Pravilnika o načinu izvršavanja odgojnih mjera posebne obveze, upućivanje u disciplinski centar, pojačana briga i nadzor, pojačana briga i nadzor uz dnevni boravak u odgojnoj ustanovi, upućivanje u odgojnu ustanovu i upućivanje u posebnu odgojnu ustanovu
