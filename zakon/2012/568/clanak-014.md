@@ -1,0 +1,6 @@
+# Članak 14.
+Iza članka 27. dodaje se članak 27.a koji glasi:
+»Članak 27.a
+Državni ured za Hrvate izvan Republike Hrvatske obavlja upravne i druge poslove koji se odnose na područje odnosa između Republike Hrvatske i Hrvata izvan Republike Hrvatske; koordinaciju i nadzor aktivnosti između nadležnih tijela državne uprave i drugih nositelja suradnje Republike Hrvatske s Hrvatima izvan Republike Hrvatske; brigu za zaštitu prava i interesa te očuvanja i jačanja identiteta Hrvata izvan Republike Hrvatske; jačanje suradnje i izradu prijedloga komunikacijske strategije za Hrvate izvan Republike Hrvatske.
+Državni ured u suradnji s drugim nadležnim tijelima obavlja poslove koji se odnose na stvaranje uvjeta za povratak iseljenika (dijaspore) u Republiku Hrvatsku i njihovo uključivanje u gospodarski i društveni život u Republici Hrvatskoj; predlaže politiku poticanja i pomoći povratka i useljavanja; provodi mjere i programe za integraciju Hrvata povratnika i useljenika, te obavlja poslove koji se odnose na vođenje propisanih evidencija o Hrvatima izvan Republike Hrvatske; planiranje i osiguranje financijskih sredstava za programe i projekte Hrvatima izvan Republike Hrvatske.
+Državni ured obavlja i druge poslove koji su mu stavljeni u nadležnost posebnim zakonom.«.

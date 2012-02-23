@@ -1,0 +1,2 @@
+# Članak 2.
+U članku 5. stavku 1. iza riječi: »Zakona o koncesijama« dodaju se riječi: »i drugih propisa koji uređuju sustav koncesija«, iza riječi: »carina« stavlja se zarez i dodaju riječi: »trošarina, doprinosa za financiranje obveznih osiguranja«, a iza riječi: »nagradnih igara;« dodaju se riječi: »inspekcijske poslove vezane uz otkrivanje međunarodnih poreznih i financijskih prijevara na štetu proračuna i fondova Europske unije;«.
