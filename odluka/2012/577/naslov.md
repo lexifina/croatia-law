@@ -1,0 +1,1 @@
+Odluka o raspisivanju prijevremenih izbora za Gradsko vijeće Grada Iloka, Općinsko vijeće Općine Goričan, Općinsko vijeće Općine Klis, Općinsko vijeće Općine Lokve i Općinsko vijeće Općine Višnjan-Visignano
