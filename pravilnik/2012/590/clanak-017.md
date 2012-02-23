@@ -1,0 +1,10 @@
+# Članak 17.
+(1) U postupku iz članka 6. stavak 3. ovoga Pravilnika, po isteku roka određenog za dostavu ponuda, Povjerenstvo otvara pristigle ponude, provjerava njihov sadržaj, uspoređuje specifikacije ponuđenog predmeta nabave, konstatira sve bitne uvjete ponude (rokove, cijene i sl.).
+(2) O postupku otvaranja i ocjene ponuda sastavlja se Zapisnik o otvaranju i ocjeni ponuda (u daljnjem tekstu: Zapisnik, Prilog III. ovoga Pravilnika).
+(3) Zapisnik minimalno mora sadržavati: Podatke o ponuditeljima (naziv, adresa, kontakt), konstataciju da ponuda odgovara opisu predmeta nabave ili navode svih elemenata u kojima ponuda odstupa od traženog, cijenu svake ponude, rokove i ostale bitne uvjete navedene u ponudi te odabranog ponuditelja kao i razloge odabira odnosno poništenja.
+(4) Kao najpovoljnija ponuda može se izabrati samo ponuda ponuditelja koji je ispunio sve uvjete iz PDP-a i dodatne dokumentacije ako je bila potrebna, čija je cijena najniža ali u granicama planirane vrijednosti nabave određene u IOP-u.
+(5) U slučaju da je najpovoljnija ponuda cijenom viša od osiguranih proračunskih sredstava za konkretan predmet nabave, Povjerenstvo je dužno poništiti postupak.
+(6) U slučaju da otvaranju i ocjeni ponude ne nazoče svi članovi Povjerenstva odnosno u slučaju da svi članovi Povjerenstva nemaju isto mišljenje, isto se obvezno unosi u Zapisnik, a odabranom se smatra ponuda koju podržava natpolovična većina ukupnog broja prisutnih članova povjerenstva.
+(7) Zapisnik potpisuju svi prisutni članovi Povjerenstva, a ovjerava ga svojim potpisom Odgovorna osoba. Zapisnik se sastavlja u dva primjerka, oba se čuvaju u spisu.
+(8) U slučajevima iz članka 11. ovoga Pravilnika, Povjerenstvo kopiju Zapisnika zajedno s tabelom analitičkog prikaza ponuda, odabranom najpovoljnijom ponudom i njezinim neslužbenim prijevodom, dostavlja na konačno mišljenje nadležnih stručnih službi MVEP.
+(9) Nadležna služba MVEP-a dužna je u pisanom obliku dati mišljenje najkasnije u roku od deset dana od dana dostave pismena iz stavka 8. ovoga članka, vodeći računa o roku za dostavu Odluke o odabiru ili poništenju.

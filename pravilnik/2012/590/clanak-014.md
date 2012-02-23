@@ -1,0 +1,3 @@
+# Članak 14.
+(1) U slučaju da prikupljanjem ponuda sukladno članku 13. stavak 2. ovoga Pravilnika ne pristigne niti jedna ponuda, odnosno niti jedna prihvatljiva ponuda, Povjerenstvo je dužno objaviti PDP u dnevnom ili specijaliziranom tisku ili nacionalnom oglasniku zemlje primateljice, odnosno na drugi odgovarajući način, a objavljeni oglas u originalu ili preslici sačuvati u spisu kao dokaz objave, uz istovremeno objavljivanje PDP na Web stranicama DMKU.
+(2) Ako nakon objave PDP u dnevnom tisku ne pristigne niti jedna ponuda, odnosno niti jedna prihvatljiva ponuda, DMKU će potreban predmet nabave osigurati slanjem PDP ponuditelju koji je u mogućnosti isporučiti traženi predmet nabave.
