@@ -1,0 +1,1 @@
+Pravilnik o obliku i sadržaju obrasca za davanje izjave o nepostojanju nepodmirenih dugovanja na osnovi poreza te doprinosa za mirovinsko, odnosno zdravstveno osiguranje kao ni dugovanja za neto plaće radnicima
