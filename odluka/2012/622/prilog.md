@@ -1,0 +1,1588 @@
+FINANCIJSKI PLAN HRVATSKIH VODA ZA 2012. I PROJEKCIJE ZA 2013. I 2014. GODINU
+I. OPĆI DIO
+A. RAČUN PRIHODA I RASHODA
+Plan za 2012.
+Projekcija plana za 2013.
+Projekcija plana za 2014.
+PRIHODI POSLOVANJA
+1.976.542.732
+1.697.690.891
+1.684.916.891
+PRIHODI OD NEFINANCIJSKE IMOVINE
+100.000
+100.000
+100.000
+RASHODI POSLOVANJA
+1.569.307.000
+1.197.616.891
+1.197.216.891
+RASHODI ZA NEFINANCIJSKU IMOVINU
+613.448.000
+602.174.000
+595.800.000
+RAZLIKA - VIŠAK / MANJAK
+-206.112.268
+-102.000.000
+-108.000.000
+B. RASPOLOŽIVA SREDSTVA IZ PRETHODNE GODINE
+Plan za 2012.
+Projekcija plana za 2013.
+Projekcija plana za 2014.
+VIŠAK PRIHODA IZ PRETHODNE GODINE
+173.000.268
+0
+0
+C. RAČUN FINANCIRANJA
+Plan za 2012.
+Projekcija plana za 2013.
+Projekcija plana za 2014.
+PRIMICI OD FINANCIJSKE IMOVINE I ZADUŽIVANJA
+248.112.000
+306.000.000
+298.000.000
+IZDACI ZA FINANCIJSKU IMOVINU I OTPLATE ZAJMOVA
+215.000.000
+204.000.000
+190.000.000
+NETO FINANCIRANJE
+33.112.000
+102.000.000
+108.000.000
+VIŠAK / MANJAK + NETO FINANCIRANJE
+0
+0
+0
+A. RAČUN PRIHODA I RASHODA
+PRIHODI POSLOVANJA I PRIHODI OD PRODAJE NEFINANCIJSKE IMOVINE
+Razred
+Skupina
+Podskupina
+Naziv prihoda
+Plan za 2012.
+Projekcija
+plana za 2013.
+Projekcija
+plana za 2014.
+6
+PRIHODI POSLOVANJA
+1.976.542.732
+1.697.690.891
+1.684.916.891
+63
+Pomoći iz inozemstva (darovnice) i od subjekata unutar općeg proračuna
+397.342.732
+228.643.891
+228.643.891
+632
+Pomoći od međunarodnih organizacija te institucija i tijela EU
+3.000.000
+633
+Pomoći iz proračuna
+394.342.732
+64
+Prihodi od imovine
+33.580.000
+25.580.000
+25.580.000
+641
+Prihodi od financijske imovine
+31.000.000
+642
+Prihodi od nefinancijske imovine
+2.500.000
+643
+Prihodi od kamata na dane zajmove
+80.000
+65
+Prihodi od upravnih i administrativnih pristojbi, pristojbi po posebnim propisima i naknada
+1.519.020.000
+1.392.167.000
+1.379.393.000
+652
+Prihodi po posebnim propisima
+1.519.020.000
+66
+Prihodi od prodaje proizvoda i robe te pruženih usluga i prihodi od donacija
+26.600.000
+51.300.000
+51.300.000
+663
+Donacije od pravnih i fizičkih osoba izvan opće države
+26.600.000
+7
+PRIHODI OD PRODAJE NEFINANCIJSKE IMOVINE
+100.000
+100.000
+100.000
+72
+Prihodi od prodaje proizvedene dugotrajne imovine
+100.000
+100.000
+100.000
+721
+Prihodi od prodaje građevinskih objekata
+100.000
+RASHODI POSLOVANJA I RASHODI ZA NABAVU NEFINANCIJSKE IMOVINE
+Razred
+Skupina
+Podskupina
+Naziv rashoda
+Plan za 2012.
+Projekcija
+plana za 2013.
+Projekcija
+plana za 2014.
+3
+RASHODI POSLOVANJA
+1.569.307.000
+1.197.616.891
+1.197.216.891
+31
+Rashodi za zaposlene
+121.200.000
+121.200.000
+121.200.000
+311
+Plaće (Bruto)
+99.700.000
+312
+Ostali rashodi za zaposlene
+4.000.000
+313
+Doprinosi na plaće
+17.500.000
+32
+Materijalni rashodi
+834.760.000
+689.460.000
+692.460.000
+321
+Naknade troškova zaposlenima
+7.500.000
+322
+Rashodi za materijal i energiju
+17.137.000
+323
+Rashodi za usluge
+799.760.000
+329
+Ostali nespomenuti rashodi poslovanja
+10.363.000
+34
+Financijski rashodi
+64.570.000
+55.570.000
+47.170.000
+342
+Kamate za primljene kredite i zajmove
+63.000.000
+343
+Ostali financijski rashodi
+1.570.000
+36
+Pomoći dane u inozemstvo i unutar općeg proračuna
+35.731.000
+21.720.000
+21.720.000
+363
+Pomoći unutar općeg proračuna
+35.731.000
+38
+Ostali rashodi
+513.046.000
+309.666.891
+314.666.891
+381
+Tekuće donacije
+1.000.000
+383
+Kazne, penali i naknade štete
+1.770.000
+386
+Kapitalne pomoći
+510.276.000
+4
+RASHODI ZA NABAVU NEFINANCIJSKE IMOVINE
+613.448.000
+602.174.000
+595.800.000
+41
+Rashodi za nabavu neproizvedene imovine
+15.500.000
+14.374.000
+15.900.000
+411
+Materijalna imovina - prirodna bogatstva
+15.500.000
+42
+Rashodi za nabavu proizvedene dugotrajne imovine
+486.964.000
+367.800.000
+329.900.000
+421
+Građevinski objekti
+476.966.340
+422
+Postrojenja i oprema
+6.997.660
+426
+Nematerijalna proizvedena imovina
+3.000.000
+45
+Rashodi za dodatna ulaganja na nefinancijskoj imovini
+110.984.000
+220.000.000
+250.000.000
+451
+Dodatna ulaganja na građevinskim objektima
+110.984.000
+B. RAČUN FINANCIRANJA
+Razred
+Skupina
+Podskupina
+Plan za 2012.
+Projekcija
+plana za 2013.
+Projekcija
+plana za 2014.
+NETO FINANCIRANJE
+33.112.000
+102.000.000
+108.000.000
+8
+PRIMICI OD FINANCIJSKE IMOVINE I ZADUŽIVANJA
+248.112.000
+306.000.000
+298.000.000
+84
+Primici od zaduživanja
+248.112.000
+306.000.000
+298.000.000
+847
+Primljeni zajmovi od drugih razina vlasti
+248.112.000
+5
+IZDACI ZA FINANCIJSKU IMOVINU I OTPLATE ZAJ-MOVA
+215.000.000
+204.000.000
+190.000.000
+54
+Izdaci za otplatu glavnice primljenih kredita i zajmova
+215.000.000
+204.000.000
+190.000.000
+542
+Otplata glavnice primljenih zajmova i kredita od kreditnih i ostalih financijskih institucija u javnom sektoru
+33.600.000
+544
+Otplata glavnice primljenih kredita i zajmova od kreditnih i ostalih financijskih institucija izvan javnog sektora
+181.400.000
+II. POSEBNI DIO
+Šifra
+Naziv
+Plan za 2012.
+Projekcija
+plana za 2013.
+Projekcija
+plana za 2014.
+01
+HRVATSKE VODE
+2.397.755.000
+2.003.790.891
+1.983.016.891
+100
+ADMINISTRATIVNO UPRAVLJANJE I OPREMANJE
+188.700.000
+191.000.000
+191.100.000
+A1000
+ADMINISTRACIJA I UPRAVLJANJE
+177.000.000
+177.000.000
+177.000.000
+31
+Rashodi za zaposlene
+121.200.000
+121.200.000
+121.200.000
+311
+Plaće (Bruto)
+99.700.000
+312
+Ostali rashodi za zaposlene
+4.000.000
+313
+Doprinosi na plaće
+17.500.000
+32
+Materijalni rashodi
+53.250.000
+53.250.000
+53.250.000
+321
+Naknade troškova zaposlenima
+7.500.000
+322
+Rashodi za materijal i energiju
+8.300.000
+323
+Rashodi za usluge
+30.950.000
+329
+Ostali nespomenuti rashodi poslovanja
+6.500.000
+34
+Financijski rashodi
+1.550.000
+1.550.000
+1.550.000
+343
+Ostali financijski rashodi
+1.550.000
+38
+Ostali rashodi
+1.000.000
+1.000.000
+1.000.000
+381
+Tekuće donacije u novcu
+1.000.000
+K2000
+OPREMANJE
+4.700.000
+4.600.000
+4.600.000
+42
+Rashodi za nabavu proizvedene dugotrajne imovine
+4.700.000
+4.600.000
+4.600.000
+422
+Postrojenja i oprema
+4.700.000
+K2001
+INFORMATIZACIJA
+5.000.000
+5.400.000
+5.500.000
+42
+Rashodi za nabavu proizvedene dugotrajne imovine
+5.000.000
+5.400.000
+5.500.000
+422
+Postrojenja i oprema
+2.000.000
+426
+Nematerijalna proizvedena imovina
+3.000.000
+K2002
+PRIJEVOZNA SREDSTVA
+0
+2.000.000
+2.000.000
+42
+Rashodi za nabavu proizvedene dugotrajne imovine
+0
+2.000.000
+2.000.000
+K2003
+POSLOVNE ZGRADE
+2.000.000
+2.000.000
+2.000.000
+42
+Rashodi za nabavu proizvedene dugotrajne imovine
+2.000.000
+2.000.000
+2.000.000
+421
+Građevinski objekti
+2.000.000
+101
+SERVISIRANJE UNUTARNJEG DUGA I DANI ZAJMOVI
+228.500.000
+205.900.000
+185.400.000
+A1001
+ZAJMOVI OD TUZEMNIH BANAKA I OSTALIH FINANCIJSKIH INSTITUCIJA U JAVNOM SEKTORU
+36.030.000
+19.400.000
+4.950.000
+34
+Financijski rashodi
+2.430.000
+1.300.000
+750.000
+342
+Kamate za primljene kredite i zajmove
+2.430.000
+54
+Izdaci za otplatu glavnice primljenih kredita i zajmova
+33.600.000
+18.100.000
+4.200.000
+542
+Otplata glavnice primljenih zajmova i kredita od kreditnih i ostalih financijskih institucija u javnom sektoru
+33.600.000
+A1002
+ZAJMOVI OD TUZEMNIH BANAKA I OSTALIH FINANCIJSKIH INSTITUCIJA IZVAN JAVNOG SEKTORA
+192.470.000
+186.500.000
+180.450.000
+34
+Financijski rashodi
+43.270.000
+37.200.000
+31.250.000
+342
+Kamate za primljene zajmove
+43.270.000
+54
+Izdaci za otplatu glavnice primljenih kredita i zajmova
+149.200.000
+149.300.000
+149.200.000
+544
+Otplata glavnice primljenih kredita i zajmova od kreditnih i ostalih financijskih institucija izvan javnog sektora
+149.200.000
+102
+SERVISIRANJE VANJSKOG DUGA
+49.500.000
+52.100.000
+50.200.000
+A1003
+ZAJMOVI OD INOZEMNIH BANAKA I OSTALIH FINANCIJSKIH INSTITUCIJA IZVAN JAVNOG SEKTORA
+49.500.000
+52.100.000
+50.200.000
+34
+Financijski rashodi
+17.300.000
+15.500.000
+13.600.000
+342
+Kamate za primljene zajmove
+17.300.000
+54
+Izdaci za otplatu glavnice primljenih zajmova
+32.200.000
+36.600.000
+36.600.000
+544
+Otplata glavnice primljenih kredita i zajmova od kreditnih i ostalih financijskih institucija izvan javnog sektora
+32.200.000
+103
+TEKUĆE TEHNIČKO I GOSP. ODRŽAVANJE VODOTOKOVA I VODNIH GRAĐEVINA
+783.300.000
+638.000.000
+641.000.000
+A1013
+REDOVNO ODRŽAVANJE I OBNAVLJANJE VODOTOKA, VODNIH GRAĐEVINA I VODNOG DOBRA ZA VODNO PODRUČJE RIJEKE DUNAV
+413.560.000
+346.280.000
+346.280.000
+3
+RASHODI POSLOVANJA
+413.560.000
+346.280.000
+346.280.000
+32
+Materijalni rashodi
+413.000.000
+345.720.000
+345.720.000
+323
+Rashodi za usluge
+412.800.000
+329
+Ostali nespomenuti rashodi poslovanja
+200.000
+38
+Ostali rashodi
+560.000
+560.000
+560.000
+383
+Kazne, penali i naknade šteta
+560.000
+A1014
+REDOVNO ODRŽAVANJE I OBNAVLJANJE VODOTOKA, VODNIH GRAĐEVINA I VODNOG DOBRA ZA JADRANSKO VODNO PODRUČJE
+166.440.000
+139.720.000
+139.720.000
+32
+Materijalni rashodi
+166.230.000
+139.510.000
+139.510.000
+323
+Rashodi za usluge
+166.020.000
+329
+Ostali nespomenuti rashodi poslovanja
+210.000
+38
+Ostali rashodi
+210.000
+210.000
+210.000
+383
+Kazne, penali i naknade šteta
+210.000
+A1005
+OBRANA OD POPLAVA
+37.000.000
+37.000.000
+37.000.000
+32
+Materijani rashodi
+37.000.000
+37.000.000
+37.000.000
+322
+Energija
+6.800.000
+323
+Rashodi za usluge
+30.000.000
+329
+Ostali nespomenuti rashodi poslovanja
+200.000
+A1015
+OBNAVLJANJE MELIORACIJSKIH GRAĐEVINA ZA ODVODNJU I NAVODNJAVANJE - ZAGREBAČKA ŽUPANIJA
+5.900.000
+0
+0
+32
+Materijalni rashodi
+5.900.000
+0
+0
+323
+Rashodi za usluge
+5.900.000
+A1016
+OBNAVLJANJE MELIORACIJSKIH GRAĐEVINA ZA ODVODNJU I NAVODNJAVANJE - KRAPINSKO-ZAGORSKA ŽUPANIJA
+250.000
+0
+0
+32
+Materijalni rashodi
+250.000
+0
+0
+323
+Rashodi za usluge
+250.000
+A1017
+OBNAVLJANJE MELIORACIJSKIH GRAĐEVINA ZA ODVODNJU I NAVODNJAVANJE - SISAČKO-MOSLAVAČKA ŽUPANIJA
+3.880.000
+0
+0
+32
+Materijalni rashodi
+3.880.000
+0
+0
+323
+Rashodi za usluge
+3.880.000
+A1018
+OBNAVLJANJE MELIORACIJSKIH GRAĐEVINA ZA ODVODNJU I NAVODNJAVANJE - KARLOVAČKA ŽUPANIJA
+360.000
+0
+0
+32
+Materijalni rashodi
+360.000
+0
+0
+323
+Rashodi za usluge
+360.000
+A1019
+OBNAVLJANJE MELIORACIJSKIH GRAĐEVINA ZA ODVODNJU I NAVODNJAVANJE - VARAŽDINSKA ŽUPANIJA
+300.000
+0
+0
+32
+Materijalni rashodi
+300.000
+0
+0
+323
+Rashodi za usluge
+300.000
+A1020
+OBNAVLJANJE MELIORACIJSKIH GRAĐEVINA ZA ODVODNJU I NAVODNJAVANJE - KOPRIVNIČKO-KRIŽEVAČKA ŽUPANIJA
+1.070.000
+0
+0
+32
+Materijalni rashodi
+1.070.000
+0
+0
+323
+Rashodi za usluge
+1.070.000
+A1021
+OBNAVLJANJE MELIORACIJSKIH GRAĐEVINA ZA ODVODNJU I NAVODNJAVANJE - BJELOVARSKO-BILOGORSKA ŽUPANIJA
+1.280.000
+0
+0
+32
+Materijalni rashodi
+1.280.000
+0
+0
+323
+Rashodi za usluge
+1.280.000
+A1022
+OBNAVLJANJE MELIORACIJSKIH GRAĐEVINA ZA ODVODNJU I NAVODNJAVANJE - PRIMORSKO-GORANSKA ŽUPANIJA
+120.000
+0
+0
+32
+Materijalni rashodi
+120.000
+0
+0
+323
+Rashodi za usluge
+120.000
+A1023
+OBNAVLJANJE MELIORACIJSKIH GRAĐEVINA ZA ODVODNJU I NAVODNJAVANJE - VIROVITIČKO-PODRAVSKA ŽUPANIJA
+5.580.000
+0
+0
+32
+Materijalni rashodi
+5.580.000
+0
+0
+323
+Rashodi za usluge
+5.580.000
+A1024
+OBNAVLJANJE MELIORACIJSKIH GRAĐEVINA ZA ODVODNJU I NAVODNJAVANJE - POŽEŠKO-SLAVONSKA ŽUPANIJA
+1.040.000
+0
+0
+32
+Materijalni rashodi
+1.040.000
+0
+0
+323
+Rashodi za usluge
+1.040.000
+A1025
+OBNAVLJANJE MELIORACIJSKIH GRAĐEVINA ZA ODVODNJU I NAVODNJAVANJE - BRODSKO-POSAVSKA ŽUPANIJA
+4.920.000
+0
+0
+32
+Materijalni rashodi
+4.920.000
+0
+0
+323
+Rashodi za usluge
+4.920.000
+A1026
+OBNAVLJANJE MELIORACIJSKIH GRAĐEVINA ZA ODVODNJU I NAVODNJAVANJE - ZADARSKA ŽUPANIJA
+530.000
+0
+0
+32
+Materijalni rashodi
+530.000
+0
+0
+323
+Rashodi za usluge
+530.000
+A1027
+OBNAVLJANJE MELIORACIJSKIH GRAĐEVINA ZA ODVODNJU I NAVODNJAVANJE - OSJEČKO-BARANJSKA ŽUPANIJA
+13.050.000
+0
+0
+32
+Materijalni rashodi
+13.050.000
+0
+0
+323
+Rashodi za usluge
+13.050.000
+A1028
+OBNAVLJANJE MELIORACIJSKIH GRAĐEVINA ZA ODVODNJU I NAVODNJAVANJE - ŠIBENSKO-KNINSKA ŽUPANIJA
+110.000
+0
+0
+32
+Materijalni rashodi
+110.000
+0
+0
+323
+Rashodi za usluge
+110.000
+A1029
+OBNAVLJANJE MELIORACIJSKIH GRAĐEVINA ZA ODVODNJU I NAVODNJAVANJE - VUKOVARSKO-SRIJEMSKA ŽUPANIJA
+8.990.000
+0
+0
+32
+Materijalni rashodi
+8.990.000
+0
+0
+323
+Rashodi za usluge
+8.990.000
+A1030
+OBNAVLJANJE MELIORACIJSKIH GRAĐEVINA ZA ODVODNJU I NAVODNJAVANJE - SPLITSKO-DALMATINSKA ŽUPANIJA
+750.000
+0
+0
+32
+Materijalni rashodi
+750.000
+0
+0
+323
+Rashodi za usluge
+750.000
+A1031
+OBNAVLJANJE MELIORACIJSKIH GRAĐEVINA ZA ODVODNJU I NAVODNJAVANJE - ISTARSKA ŽUPANIJA
+210.000
+0
+0
+32
+Materijalni rashodi
+210.000
+0
+0
+323
+Rashodi za usluge
+210.000
+A1032
+OBNAVLJANJE MELIORACIJSKIH GRAĐEVINA ZA ODVODNJU I NAVODNJAVANJE - DUBROVAČKO-NERETVANSKA ŽUPANIJA
+1.280.000
+0
+0
+32
+Materijalni rashodi
+1.280.000
+0
+0
+323
+Rashodi za usluge
+1.280.000
+A1033
+OBNAVLJANJE MELIORACIJSKIH GRAĐEVINA ZA ODVODNJU I NAVODNJAVANJE - MEĐIMURSKA ŽUPANIJA
+280.000
+0
+0
+32
+Materijalni rashodi
+280.000
+0
+0
+323
+Rashodi za usluge
+280.000
+A1034
+OBNAVLJANJE MELIORACIJSKIH GRAĐEVINA ZA ODVODNJU I NAVODNJAVANJE - GRAD ZAGREB
+100.000
+0
+0
+32
+Materijalni rashodi
+100.000
+0
+0
+323
+Rashodi za usluge
+100.000
+A1007
+TEHNIČKI POSLOVI OD OPĆEG INTERESA ZA UPRAVLJANJE VODAMA
+44.300.000
+45.000.000
+45.000.000
+32
+Materijalni rashodi
+44.300.000
+45.000.000
+45.000.000
+323
+Rashodi za usluge
+44.300.000
+A1008
+HITNE INTERVENCIJE U PODRUČJU VODNOGA GOSPODARSTVA
+5.000.000
+2.000.000
+5.000.000
+32
+Materijalni rashodi
+5.000.000
+2.000.000
+5.000.000
+323
+Rashodi za usluge
+5.000.000
+A1009
+IZDACI ZA OBRAČUN I NAPLATU NAKNADA
+55.000.000
+56.000.000
+56.000.000
+32
+Mterijalni rashodi
+54.980.000
+55.980.000
+55.980.000
+322
+Rashodi za materijal i energiju
+1.100.000
+323
+Rashodi za usluge
+53.700.000
+329
+Ostali nespomenuti rashodi poslovanja
+180.000
+34
+Financijski rashodi
+20.000
+20.000
+20.000
+343
+Ostali financijski rashodi
+20.000
+A1010
+VODNOGOSPODARSKI LABORATORIJ
+4.000.000
+4.000.000
+4.000.000
+32
+Materijalni rashodi
+4.000.000
+4.000.000
+4.000.000
+322
+Rashodi za materijal i energiju
+937.000
+323
+Rashodi za usluge
+3.040.000
+329
+Ostali nespomenuti rashodi poslovanja
+23.000
+A1011
+IZDACI ZA SREĐIVANJE VLASNIŠTVA NA VODNOM DOBRU
+4.000.000
+4.000.000
+4.000.000
+32
+Materijalni rashodi
+4.000.000
+4.000.000
+4.000.000
+323
+Rashodi za usluge
+3.950.000
+329
+Ostali nespomenuti rashodi poslovanja
+50.000
+A1012
+OSTALI IZVANREDNI IZDACI
+4.000.000
+4.000.000
+4.000.000
+32
+Materijalni rashodi
+3.000.000
+3.000.000
+3.000.000
+329
+Ostali nespomenuti rashodi poslovanja
+3.000.000
+38
+Ostali rashodi
+1.000.000
+1.000.000
+1.000.000
+383
+Kazne, penali i naknade šteta
+1.000.000
+104
+PROGRAM INVESTICIJSKIH AKTIVNOSTI
+1.147.755.000
+916.790.891
+915.316.891
+K2014
+KAPITALNI RASHODI I TRANSFERI U PODRUČJU ZAŠTITE OD ŠTETNOG DJELOVANJA VODA I NAVODNJAVANJA - VODNO PODRUČJE RIJEKE DUNAV
+108.000.000
+203.000.000
+208.000.000
+36
+Pomoći dane u inozemstvo i unutar općeg proračuna
+8.400.000
+0
+0
+363
+Pomoć unutar općeg proračuna
+8.400.000
+38
+Ostali rashodi
+851.000
+0
+0
+386
+Kapitalne pomoći
+851.000
+45
+Rashodi za dodatna ulaganja na nefinancijskoj imovini
+98.749.000
+203.000.000
+208.000.000
+451
+Rashodi za ulaganja na građevinskim objektima
+98.749.000
+K2015
+KAPITALNI RASHODI I TRANSFERI U PODRUČJU ZAŠTITE OD ŠTETNOG DJELOVANJA VODA I NAVODNJAVANJA - JADRANSKO VODNO PODRUČJE
+22.000.000
+47.000.000
+72.000.000
+36
+Pomoći dane u inozemstvo i unutar općeg proračuna
+765.000
+0
+0
+363
+Pomoći dane u inozemstvo i unutar općeg proračuna
+765.000
+42
+Rashodi za nabavu proizvedene dugotrajne imovine
+9.000.000
+30.000.000
+55.000.000
+421
+Građevinski objekti
+9.000.000
+45
+Rashodi za dodatna ulaganja na nefinancijskoj imovini
+12.235.000
+17.000.000
+17.000.000
+451
+Rashodi za ulaganja na građevinskim objektima
+12.235.000
+K2005
+ULAGANJA U OBNOVU I RAZVITAK VODOOPSKRBE
+62.395.000
+70.090.000
+90.090.000
+36
+Pomoći dane u inozemstvo i unutar općeg proračuna
+2.200.000
+1.720.000
+1.720.000
+363
+Pomoći unutar općeg proračuna
+2.200.000
+38
+Ostali rashodi
+60.195.000
+68.370.000
+68.370.000
+386
+Kapitalne pomoći
+60.195.000
+42
+Rashodi za nabavu proizvedene dugotrajne imovine
+0
+0
+20.000.000
+K2016
+VODOOPKSRBA - PRIPREMA PROJEKTNE DOKUMENTACIJE ZA PREDPRISTUPNE FONDOVE EU
+22.500.000
+22.500.000
+22.500.000
+38
+Ostali rashodi
+22.500.000
+22.500.000
+22.500.000
+386
+Kapitalne pomoći
+22.500.000
+K2017
+VODOOPSKRBA BISTRA
+1.500.000
+1.500.000
+1.500.000
+36
+Pomoći dane u inozemstvo i unutar općeg proračuna
+1.500.000
+1.500.000
+1.500.000
+363
+Pomoći unutar općeg proračuna
+1.500.000
+K2018
+VODOOPSKRBA HRVATSKO ZAGORJE
+17.100.000
+14.000.000
+14.000.000
+38
+Ostali rashodi
+17.100.000
+14.000.000
+14.000.000
+386
+Kapitalne pomoći
+17.100.000
+K2019
+VODOOPSKRBA - REGIONALNI VODOVOD ISTIČNE SLAVONIJE
+40.000.000
+20.000.000
+20.000.000
+38
+Ostali rashodi
+40.000.000
+20.000.000
+20.000.000
+386
+Kapitalne pomoći
+40.000.000
+K2020
+VODOOPSKRBA - IZGRADNJA VODOOPSKRBNOG SUSTAVA KOPRIVNIČKO-KRIŽEVAČKE ŽUPANIJE
+7.000.000
+8.000.000
+8.000.000
+38
+Ostali rashodi
+7.000.000
+8.000.000
+8.000.000
+386
+Kapitalne pomoći
+7.000.000
+K2021
+VODOOPSKRBA - IZGRADNJA VODOOPSKRBNOG SUSTAVA BJELOVARSKO-BILOGORSKE ŽUPANIJE
+4.500.000
+5.000.000
+5.000.000
+38
+Ostali rashodi
+4.500.000
+5.000.000
+5.000.000
+386
+Kapitalne pomoći
+4.500.000
+K2022
+VODOOPSKRBA - REGIONALNI VODOOPSKRBNI SUSTAV DALMACIJE
+7.000.000
+11.000.000
+11.000.000
+38
+Ostali rashodi
+7.000.000
+11.000.000
+11.000.000
+386
+Kapitalne pomoći
+7.000.000
+K2023
+VODOOPSKRBA - REGIONALNI VODOOPSKRBNI SUSTAV VIROVITIČKO-PODRAVSKE ŽUPANIJE
+7.000.000
+5.000.000
+5.000.000
+38
+Ostali rashodi
+7.000.000
+5.000.000
+5.000.000
+386
+Kapitalne pomoći
+7.000.000
+K2024
+VODOOPSKRBA - REGIONALNI VODOOPSKRBNI SUSTAV OSJEČKO-BARANJSKE ŽUPANIJE
+3.000.000
+3.500.000
+3.500.000
+38
+Ostali rashodi
+3.000.000
+3.500.000
+3.500.000
+386
+Kapitalne pomoći
+3.000.000
+K2025
+VODOOPSKRBA - REGIONALNI VODOOPSKRBNI SUSTAV NERETVA-PELJEŠAC-LASTOVO-MLJET
+4.000.000
+4.500.000
+4.500.000
+38
+Ostali rashodi
+4.000.000
+4.500.000
+4.500.000
+386
+Kapitalne pomoći
+4.000.000
+K2026
+VODOOPSKRBA - ZAGREBAČKA ŽUPANIJA
+2.000.000
+3.000.000
+3.000.000
+38
+Ostali rashodi
+2.000.000
+3.000.000
+3.000.000
+386
+Kapitalne pomoći
+2.000.000
+K2027
+VODOOPSKRBA - SISAČKO-MOSLAVAČKA ŽUPANIJA
+2.000.000
+2.500.000
+2.500.000
+38
+Ostali rashodi
+2.000.000
+2.500.000
+2.500.000
+386
+Kapitalne pomoći
+2.000.000
+K2006
+ULAGANJA U OBJEKTE ZAŠTITE VODA I MORA OD ZAGAĐIVANJA
+91.533.000
+3.216.000
+28.216.000
+36
+Pomoći dane u inozemstvo i unutar općeg proračuna
+10.000.000
+0
+0
+363
+Pomoći unutar općeg proračuna
+10.000.000
+38
+Ostali rashodi
+81.533.000
+3.216.000
+8.216.000
+386
+Kapitalne pomoći
+81.533.000
+42
+Rashodi za nabavu proizvedene dugotrajne imovine
+0
+0
+20.000.000
+K2028
+OBNOVA I IZGRADNJA ODVODNOG SUSTAVA - ISPA KARLOVAC
+11.781.000
+5.575.242
+5.575.242
+38
+Ostali rashodi
+11.781.000
+5.575.242
+5.575.242
+386
+Kapitalne pomoći
+11.781.000
+K2030
+OBNOVA I IZGRADNJA ODVODNOG SUSTAVA - IZGRADNJA SUSTAVA ODVODNJE VIROVITIČKO-PODRAVSKE ŽUPANIJE
+3.900.000
+2.000.000
+2.000.000
+38
+Ostali rashodi
+3.900.000
+2.000.000
+2.000.000
+386
+Kapitalne pomoći
+3.900.000
+K2031
+OBNOVA I IZGRADNJA ODVODNOG SUSTAVA - PRIPREMA PROJEKTNE DOKUMENTACIJE ZA PREDPRISTUPNE FONDOVE EU
+40.000.000
+5.000.000
+5.000.000
+38
+Ostali rashodi
+40.000.000
+5.000.000
+5.000.000
+386
+Kapitalne pomoći
+40.000.000
+K2032
+OBNOVA I IZGRADNJA ODVODNOG SUSTAVA - IZGRADNJA SUSTAVA ODVODNJE ŽUPANJA
+300.000
+2.000.000
+2.000.000
+38
+Ostali rashodi
+300.000
+2.000.000
+2.000.000
+386
+Kapitalne pomoći
+300.000
+K2033
+OBNOVA I IZGRADNJA ODVODNOG SUSTAVA - IZGRADNJA SUSTAVA ODVODNJE OSJEČKO-BARANJSKE ŽUPANIJE
+3.000.000
+2.500.000
+2.500.000
+38
+Ostali rashodi
+3.000.000
+2.500.000
+2.500.000
+386
+Kapitalne pomoći
+3.000.000
+K2034
+OBNOVA I IZGRADNJA ODVODNOG SUSTAVA - IZGRADNJA SUSTAVA ODVODNJE MEĐIMURSKE ŽUPANIJE
+5.000.000
+2.500.000
+2.500.000
+38
+Ostali rashodi
+5.000.000
+2.500.000
+2.500.000
+386
+Kapitalne pomoći
+5.000.000
+K2035
+OBNOVA I IZGRADNJA ODVODNOG SUSTAVA - IZGRADNJA SUSTAVA ODVODNJE VARAŽDIN-NOVI MAROF
+14.378.000
+2.000.000
+2.000.000
+38
+Ostali rashodi
+14.378.000
+2.000.000
+2.000.000
+386
+Kapitalne pomoći
+14.378.000
+K2036
+OBNOVA I IZGRADNJA ODVODNOG SUSTAVA - IZGRADNJA SUSTAVA ODVODNJE ZAGREBAČKE ŽUPANIJE
+4.100.000
+1.000.000
+1.000.000
+38
+Ostali rashodi
+4.100.000
+1.000.000
+1.000.000
+386
+Kapitalne pomoći
+4.100.000
+K2037
+OBNOVA I IZGRADNJA ODVODNOG SUSTAVA - IZGRADNJA SUSTAVA ODVODNJE SISAČKO-MOSLAVAČKE ŽUPANIJE
+2.100.000
+500.000
+500.000
+38
+Ostali rashodi
+2.100.000
+500.000
+500.000
+386
+Kapitalne pomoći
+2.100.000
+K2038
+OBNOVA I IZGRADNJA ODVODNOG SUSTAVA - IZGRADNJA SUSTAVA ODVODNJE BJELOVARSKO-BILOGORSKE ŽUPANIJE
+1.900.000
+1.000.000
+1.000.000
+38
+Ostali rashodi
+1.900.000
+1.000.000
+1.000.000
+386
+Kapitalne pomoći
+1.900.000
+K2007
+EKO PROJEKT JADRAN - UČEŠĆE U POVLAČENJU ZAJMA
+129.500.000
+324.000.000
+246.000.000
+38
+Kapitalne pomoći
+13.000.000
+13.000.000
+13.000.000
+386
+Kapitalne pomoći trgovačkim društvima
+13.000.000
+42
+Rashodi za nabavu proizvedene dugotrajne imovine
+116.500.000
+311.000.000
+233.000.000
+421
+Građevinski objekti
+116.500.000
+K2010
+ULAGANJA U MATERIJALNU I NEMATER. IMOVINU (IMOV. PRAVNI POSL., OSNOVNA SREDSTVA I DR.)
+15.500.000
+14.374.000
+15.900.000
+41
+Rashodi za nabavu neproizvedene imovine
+15.500.000
+14.374.000
+15.900.000
+411
+Materijalna imovina - prirodna bogatstva
+15.500.000
+K2039
+SUSTAV NAVODNJAVANJA - NAVODNJAVANJA BIĐ-BOSUTSKOG POLJA
+8.000.000
+5.000.000
+5.000.000
+42
+Rashodi za nabavu proizvedene dugotrajne imovine
+8.000.000
+5.000.000
+5.000.000
+421
+Građevinski objekti
+8.000.000
+K2040
+SUSTAV NAVODNJAVANJA - PPN OPATOVAC
+250.000
+0
+0
+42
+Rashodi za nabavu proizvedene dugotrajne imovine
+250.000
+0
+0
+421
+Građevinski objekti
+250.000
+K2041
+SUSTAV NAVODNJAVANJA - PPN KAŠTELA-TROGIR SEGET
+500.000
+2.000.000
+2.000.000
+42
+Rashodi za nabavu proizvedene dugotrajne imovine
+500.000
+2.000.000
+2.000.000
+421
+Građevinski objekti
+500.000
+K2042
+SUSTAV NAVODNJAVANJA - NPPN DONJA NERETVA
+750.000
+2.000.000
+2.000.000
+42
+Rashodi za nabavu proizvedene dugotrajne imovine
+750.000
+2.000.000
+2.000.000
+421
+Građevinski objekti
+750.000
+K2044
+SUSTAV NAVODNJAVANJA - SUSTAV NAVODNJAVANJA BAŠĆICA
+300.000
+1.000.000
+1.000.000
+36
+Pomoći dane u inozemstvo i unutar općeg proračuna
+300.000
+1.000.000
+1.000.000
+363
+Pomoći unutar općeg proračuna
+300.000
+K2045
+SUSTAV NAVODNJAVANJA - SUSTAV NAVODNJAVANJA PŠŠ VINKOVCI
+100.000
+0
+0
+36
+Pomoći dane u inozemstvo i unutar općeg proračuna
+100.000
+0
+0
+363
+Pomoći unutar općeg proračuna
+100.000
+K2046
+SUSTAV NAVODNJAVANJA - SUSTAV NAVODNJAVANJA KAPINCI-VAŠKA
+4.000.000
+3.000.000
+3.000.000
+36
+Pomoći dane u inozemstvo i unutar općeg proračuna
+4.000.000
+3.000.000
+3.000.000
+363
+Pomoći unutar općeg proračuna
+4.000.000
+K2047
+SUSTAV NAVODNJAVANJA - SUSTAV NAVODNJAVANJA KAPTOL
+250.000
+0
+0
+36
+Pomoći dane u inozemstvo i unutar općeg proračuna
+250.000
+0
+0
+363
+Pomoći unutar općeg proračuna
+250.000
+K2048
+SUSTAV NAVODNJAVANJA - T568108
+8.847.000
+15.500.000
+15.500.000
+36
+Pomoći dane u inozemstvo i unutar općeg proračuna
+8.216.000
+14.500.000
+14.500.000
+363
+Pomoći unutar općeg proračuna
+8.216.000
+42
+Rashodi za nabavu nefinancijske imovine
+631.000
+1.000.000
+1.000.000
+421
+Građevinski objekti
+631.000
+K2012
+PROJEKT UNUTARNJE VODE
+335.910.000
+0
+0
+42
+Rashodi za nabavu neproizvedene dugotrajne imovine
+335.910.000
+0
+0
+421
+Građevinski objekti
+335.910.000
+K2049
+IPA - SLAVONSKI BROD
+48.780.000
+14.905.732
+14.905.732
+38
+Ostali rashodi
+48.780.000
+14.905.732
+14.905.732
+386
+Kapitalne pomoći
+48.780.000
+K2050
+IPA - DRNIŠ
+23.373.000
+5.417.491
+5.417.491
+38
+Ostali rashodi
+23.373.000
+5.417.491
+5.417.491
+386
+Kapitalne pomoći
+23.373.000
+K2051
+IPA - KNIN
+45.885.000
+14.728.772
+14.728.772
+38
+Ostali rashodi
+45.885.000
+14.728.772
+14.728.772
+386
+Kapitalne pomoći
+45.885.000
+K2052
+IPA - SISAK
+100.000
+58.183.654
+58.183.654
+38
+Ostali rashodi
+100.000
+58.183.654
+58.183.654
+386
+Kapitalne pomoći
+100.000
+K2053
+IPA - PRIPREMA PROJEKTNE DOKUMENTACIJE ZA PREDPRISTUPNE FONDOVE EU
+4.000.000
+6.000.000
+6.000.000
+38
+Ostali rashodi
+4.000.000
+6.000.000
+6.000.000
+386
+Kapitalne pomoći
+4.000.000
+K2059
+IPA III B PRIPREMA PROJEKATA ZA STRUKTURNE FONDOVE
+30.000.000
+0
+0
+38
+Ostali rashodi
+30.000.000
+0
+0
+386
+Kapitalne pomoći
+30.000.000
+K2054
+NERETVA-TREBIŠNICA
+3.723.000
+2.800.000
+2.800.000
+42
+Rashodi za nabavu proizvedene dugotrajne imovine
+3.723.000
+2.800.000
+2.800.000
+421
+Građevinski objekti
+3.425.340
+422
+Postrojenja i oprema
+297.660
