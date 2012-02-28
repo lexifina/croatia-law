@@ -1,0 +1,6 @@
+# Članak 20.
+(1) Korisniku Dodatnih prava na plaćanja u osjetljivim sektorima, koji je zbog više sile ili iznimnih okolnosti imao značajno smanjenu proizvodnju u 2011. godini, može se kao referentno razdoblje za dodjelu Dodatnih prava na plaćanja koristiti 2010. godina.
+(2) Viša sila ili iznimne okolnosti su vanjski nepovoljni utjecaji koje nije bilo moguće predvidjeti, spriječiti niti ukloniti, nastali zbog elementarne nepogode, smrti Korisnika, privremene ili trajne nesposobnosti Korisnika za rad.
+(3) Značajno smanjena proizvodnja znači količinsko smanjenje proizvodnje mlijeka, duhana ili broja stoke u tovu za koje je Korisnik ostvario pravo na potporu u 2011. godini i to od najmanje 35% u odnosu na istovrsnu proizvodnju ili broj stoke u tovu za koje je ostvario pravo na potporu u 2010. godini.
+(4) Korisnik iz stavka 1. ovoga članka dužan je u propisanim rokovima za podnošenje Zahtjeva Agenciji za plaćanja dostaviti zahtjev da mu se kao referentno razdoblje za dodjelu Dodatnih prava na plaćanja prizna 2010. godina kao i dokaz o višoj sili ili iznimnim okolnostima koje su utjecale na smanjenje proizvodnje u 2011. godini.
+2.2.3. Posebno pravo na plaćanje za poljoprivredna gospodarstva bez zemljišta

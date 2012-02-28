@@ -1,0 +1,7 @@
+## Posebno pravo na plaćanje
+# Članak 54.
+(1) Posebno pravo na plaćanje dodjeljuje se zbog prijelaza na Program jedinstvenih plaćanja Korisnicima koji ne posjeduju dovoljno prihvatljivih hektara za dodjelu dodatnih prava na plaćanja u Zahtjevu za 2012. godinu.
+(2) Posebno pravo na plaćanje izračunava se polazeći od ukupne vrijednosti ostvarenih prava na izravna plaćanja za proizvodnu 2011. godinu za kravlje, ovčje i kozje mlijeko, tov goveda te držanje ovaca i koza, kao zbroj umnožaka jediničnih vrijednosti ostvarenih prava na izravna plaćanja u 2011. godini i količina za koje se ostvaruje to pravo sukladno Tablici 3. iz Priloga 3. koji je sastavni dio ovog Pravilnika.
+(3) Svi izračuni jediničnih iznosa prava na izravna plaćanja za proizvodnu 2011. godinu odnose se na obračun konačnog prava nakon svih možebitnih umanjenja sukladno Zakonu i ovom Pravilniku, osim umanjenja zbog modulacije.
+(4) Ukupna vrijednost iz stavka 2. ovoga članka najviša je vrijednost koja se može odobriti Korisniku umanjena za iznos već dodijeljenih Dodatnih prava na plaćanja za mlijeko, tov goveda, ovce i koze, uzimajući u obzir njegove prihvatljive hektare i ukupnu raspodjelu Nacionalne omotnice i proračuna za proizvodnu 2012. godinu.
+(5) Broj Posebnih prava na plaćanja je cijeli broj koji se računa na način da se vrijednost iz stavka 4. ovoga članka podijeli sa maksimalnom mogućom vrijednošću Posebnog prava na plaćanja iz članka 21. ovoga Pravilnika, pri čemu se za ostatak Korisniku dodjeljuje novo Posebno pravo.

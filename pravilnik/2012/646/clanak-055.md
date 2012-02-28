@@ -1,0 +1,4 @@
+# Članak 55.
+(1) Pri izračunu Prava na plaćanja za 2012. godinu Korisnici Prava na regionalno plaćanje ne smiju biti u nepovoljnijem položaju u odnosu na razinu osnovnih plaćanja po površini za proizvodnu 2011. godinu, ukoliko se aktiviraju sredstva iz Nacionalne rezerve za Dodatna i Posebna prava na plaćanja.
+(2) Ukoliko je ukupna omotnica za regionalno plaćanje iz članka 52. stavka 1. izračunata na temelju članka 51. stavka 2. točke 2., Agencija za plaćanja izvršit će linearno smanjenje Dodatnih prava na plaćanja iz članka 53. i Posebnih prava na plaćanja iz članka 54. na razini svih Korisnika.
+(3) Utvrđena Dodatna i Posebna prava na plaćanja za Korisnike u osjetljivim sektorima u 2012. godini primjenjivati će se i nakon ulaska Republike Hrvatske u Europsku uniju u skladu s pozitivnim propisima EU.

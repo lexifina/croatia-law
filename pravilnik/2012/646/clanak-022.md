@@ -1,0 +1,6 @@
+# Članak 22.
+(1) Korisnik može ostvariti Posebno pravo na plaćanje ukoliko u 2012. godini zadrži najmanje 95% obujma poljoprivredne aktivnosti u sektorima goveđeg mesa, mlijeka i mliječnih proizvoda ili sektoru ovčjeg i kozjeg mesa iz referentne 2011. proizvodne godine, izražene kao broj uvjetnih grla iz osnovnog stada.
+(2) Obujam poljoprivredne aktivnosti u referentnoj 2011. godini izračunava se na temelju broja uvjetnih grla koja se drže radi proizvodnje kravljeg, ovčjeg i kozjeg mlijeka i/ili broja uvjetnih grla koja se drže radi proizvodnje goveđeg, ovčjeg i kozjeg mesa na gospodarstvu za koje je Korisnik ostvario potporu za izravna plaćanja za referentnu 2011. godinu.
+(3) Obujam poljoprivredne aktivnosti u 2012. godini izračunava se na temelju broja uvjetnih grla koja se drže radi proizvodnje kravljeg, ovčjeg i kozjeg mlijeka i/ili broja uvjetnih grla koja se drže radi proizvodnje goveđeg, ovčjeg i kozjeg mesa na gospodarstvu koje je Korisnik prijavio za prava na plaćanja za 2012. godinu na dan 10. lipnja 2012. godine te koja su utvrđena nakon provedenih kontrola.
+(4) Za izračun obujma poljoprivredne aktivnosti koristi se tablica konverzije za izračun uvjetnih grla iz Tablice 1. Priloga 3., koji je sastavni dio ovoga Pravilnika.
+2.3. Posebni uvjeti za državnu pomoć

@@ -1,0 +1,4 @@
+# Članak 83.
+(1) Nakon utvrđivanja svih obračunskih prava na izravna plaćanja na razini pojedinačnih Korisnika u jednoj proizvodnoj godini, Agencija za plaćanja će onim Korisnicima čija ukupna obračunska prava na razini proizvodne godine prelaze iznos od 100.000,00 kuna utvrditi konačno pojedinačno pravo na isplatu izravnih plaćanja primjenjujući stope modulacije sukladno članku 21. stavcima 3. i 4. Zakona.
+(2) Konačni obračun prava na isplatu izravnih plaćanja po Korisniku za proizvodnu godinu provodi se do 15. svibnja iduće godine i to na način da se u izračunu obuhvate sva prava na izravna plaćanja u proizvodnoj godini za koju se podnosi Zahtjev.
+(3) Ukoliko se Korisniku predujmom iz članka 88. ovoga Pravilnika isplati više od konačnog prava na isplatu, Korisnik je dužan na zahtjev Agencije za plaćanja razliku uplatiti na račun Državnog proračuna te dokaz o uplati dostaviti Agenciji za plaćanja.

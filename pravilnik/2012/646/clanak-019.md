@@ -1,0 +1,4 @@
+# Članak 19.
+(1) Korisnik može ostvariti Dodatno pravo na plaćanje za proizvodnju kravljeg, ovčjeg i kozjeg mlijeka, tov goveda, držanje ovaca i koza te proizvodnju duhana ukoliko je za proizvodnu 2011. godinu za te proizvodne aktivnosti ostvario pravo na izravna plaćanja, te ukoliko je gospodarstvo prihvatljivo za dodjelu regionalnih prava na plaćanja.
+(2) Korisnik može ostvariti Dodatno pravo na plaćanje ukoliko u 2012. godini zadrži najmanje 95% obujma poljoprivredne aktivnosti u sektorima goveđeg mesa, mlijeka i mliječnih proizvoda ili sektoru ovčjeg i kozjeg mesa iz referentne 2011. proizvodne godine izražene kao broj uvjetnih grla iz osnovnog stada.
+(3) Sredstva za Dodatna prava na plaćanja osiguravaju se u Nacionalnoj rezervi i to za povećanje vrijednosti jediničnog Prava na regionalno plaćanje pri čemu ukupna vrijednost prava ne može biti veća od 36.000 kuna po pravu.
