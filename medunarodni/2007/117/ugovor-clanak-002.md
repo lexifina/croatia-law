@@ -1,0 +1,3 @@
+# Članak 2.
+Državljanin Bosne i Hercegovine koji posjeduje ili je stekao državljanstvo Republike Hrvatske na način i u postupku utvrđenom propisima Republike Hrvatske, neće kao rezultat ovog posjedovanja ili stjecanja izgubiti državljanstvo Bosne i Hercegovine niti će se od njega tražiti da podnese zahtjev za prestanak državljanstva Bosne i Hercegovine.
+Državljanin Republike Hrvatske koji posjeduje ili je stekao državljanstvo Bosne i Hercegovine na način i u postupku utvrđenom propisima Bosne i Hercegovine, neće kao rezultat ovog posjedovanja ili stjecanja izgubiti državljanstvo Republike Hrvatske niti će se od njega tražiti da podnese zahtjev za prestanak državljanstva Republike Hrvatske.

@@ -1,0 +1,4 @@
+# Članak 7.
+Dvojni državljanin u trećim državama uživa diplomatsku i konzularnu zaštitu ugovorne stranke čiju zaštitu zatraži.
+U slučaju pozitivnog sukoba nadležnosti prednost će imati ugovorna stranka u kojoj dvojni državljanin ima prebivalište, a u slučaju negativnog sukoba nadležnosti ugovorna stranka u kojoj dvojni državljanin ima prebivalište dužna je pružiti zaštitu.
+Dvojni državljanin, kada se upućuje na rad u diplomatsku misiju ili konzularni ured u jednu od ugovornih stranaka u svojstvu diplomatskog ili konzularnog predstavnika uživa sva prava, povlastice i imunitete u državi primateljici u skladu s odredbama Bečke konvencije o diplomatskim odnosima iz 1961. godine, kao i u skladu s odredbama Bečke konvencije o konzularnim odnosima iz 1963. godine, kao da nije državljanin i države primateljice.
