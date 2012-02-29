@@ -1,0 +1,3 @@
+# Članak 97.
+Odjel za mornaričko naoružanje i vojnu opremu obavlja upravne i stručne poslove vezane za materijalno zbrinjavanje Ministarstva i Oružanih snaga kroz djelatnosti opremanja i modernizacije naoružanja i vojne opreme Hrvatske ratne mornarice. Odjel usklađuje prijedloge planova opremanja, planira i provodi opremanje Ministarstva i Oružanih snaga u skladu s usvojenim planovima opremanja, organizira razvoj i usvajanje materijalnih sredstava. Odjel je nositelj programa opremanja za sredstva iz svoje nadležnosti kojima se opremaju Oružane snage, prati razvojne i proizvodne mogućnosti domaćega i inozemnoga gospodarstva za potrebe obrane i predlaže njihovo angažiranje.
+9.1.1.3. Odjel za zrakoplovno i protuzrakoplovno naoružanje i vojnu opremu

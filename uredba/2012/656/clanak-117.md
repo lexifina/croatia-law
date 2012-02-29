@@ -1,0 +1,3 @@
+# Članak 117.
+Odjel za prijam planira, organizira i provodi zaprimanje materijalnih sredstava nabavljenih za potrebe Ministarstva i Oružanih snaga. Na temelju prateće tehničko-tehnološke dokumentacije, a u suradnji s tehničkim nositeljima i dobavljačima, izrađuje tehničke knjižice. Novonabavljena sredstva raspoređuje krajnjim korisnicima na temelju planova i naloga tehničkih nositelja. Knjiži materijalnu dokumentaciju i obavlja popis materijalnih sredstava te izrađuje izvješća tehničkim nositeljima o realizaciji zadaća. Obavlja prvu registraciju i odjavljivanje motornih vozila te evidentira bazu podataka.
+9.3.2. Odjel za razvoj sustava kvalitete

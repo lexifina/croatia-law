@@ -1,0 +1,3 @@
+# Članak 83.
+Odjel za raščlambe, analize i simulacije prati i raščlanjuje personalnu spremnost te sudjeluje u izradi i raščlanjuje planove i programe upravljanja ljudskim resursima. Na temelju podataka iz informacijskog sustava personalnog upravljanja i ostalih vanjskih izvora, izrađuje statističke, tehničke i dubinske analize te simulacije kao podloge za donošenje odluka na strategijskoj razini. Upravlja razvojem i održavanjem MIS-a (menadžment izvještajni sustav) za Upravu za ljudske resurse. Obrađuje podatke te izrađuje standardna i izvanredna izvješća za potrebe ustrojstvenih jedinica Uprave za ljudske resurse i drugih ustrojstvenih jedinica.
+8.2.2. Služba za potporu i kvalitetu življenja

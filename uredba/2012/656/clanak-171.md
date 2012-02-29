@@ -1,0 +1,3 @@
+## VII. PRIJELAZNE I ZAVRŠNE ODREDBE
+# Članak 171.
+Institut za istraživanje i razvoj obrambenih sustava ustrojen Uredbom o unutarnjem ustrojstvu Ministarstva obrane (»Narodne novine«, br. 115/2002, 182/2003, 20/2005, 151/2005, 115/2007, 21/2008, 15/2009 i 15/2010) nastavlja s radom u skladu s navedenom Uredbom do njegova izdvajanja iz Ministarstva u novi organizacijski oblik, prema odredbama Zakona o ustanovama (»Narodne novine«, br. 76/93, 29/97, 47/99 i 35/2008) i Zakona o znanstvenoj djelatnosti i visokom obrazovanju (»Narodne novine«, br. 123/2003, 105/2004, 174/2004, 2/2007, 46/2007, 45/2009 i 63/2011).

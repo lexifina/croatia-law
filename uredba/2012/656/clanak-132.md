@@ -1,0 +1,3 @@
+# Članak 132.
+Odjel za sigurnost informacijskih sustava provodi poslove normativnog uređenja i osiguranja provedbe zakonom propisanih mjera i postupaka iz područja sigurnosti informacijskih sustava i kriptološke zaštite. Izrađuje akte u cilju zaštite cjelovitosti i raspoloživosti informacijskog sustava u procesu planiranja, projektiranja, izgradnje, uporabe, održavanja i prestanka rada informacijskog sustava. U planiranju, propisivanju i provedbi sigurnosnih mjera surađuje s nadležnim agencijama i tijelima državne uprave. U suradnji s nadležnim tijelima i drugim osobama usklađuje uporabu frekventnog spektra, IP adresnog plana i numeracijskog plana.
+10.1.2.2. Odjel za materijalno zbrinjavanje informacijskim i elektroničkim sustavima

@@ -1,0 +1,3 @@
+# Članak 33.
+Odjel za opće i pravne poslove te kontrolu ugovora vodi opće i posebne poslove za nesmetano funkcioniranje Službe, ustrojava središnju personalnu evidenciju Službe, upravlja pisarnicom i pismohranom Službe. Odjel izrađuje strategiju, smjernice i pravila iz djelokruga javne nabave, izrađuje i standardizira operativne postupke i procedure za provođenje javne nabave, koordinira procese nabave s tehničkim nositeljima, koordinira i priprema izradu godišnjeg plana nabave, surađuje s nadležnim tijelima iz područja javne nabave i financija. Odjel kontrolira ugovore koji se izrađuju i sklapaju nakon provedenog postupka nabave.
+6.1.2. Odjel za planiranje, analizu i prodaju

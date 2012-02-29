@@ -1,0 +1,3 @@
+# Članak 14.
+Odjel za građansko-pravne poslove obavlja poslove u svezi poduzimanja preventivnih i drugih pravnih radnji radi zaštite interesa i imovine Republike Hrvatske kojom upravlja i kojom se koristi Ministarstvo, pripreme očitovanja i pribavljanja dokumentacije Državnom odvjetništvu Republike Hrvatske kao zakonskom zastupniku Republike Hrvatske za zastupanje u sudskim građansko-pravnim i radnim sporovima i suradnje u poslovima pri sklapanju nagodbi, rješavanja sporova iz ugovornih odnosa Ministarstva i Oružanih snaga. Obavlja i poslove u svezi sa sklapanjem i provedbom ugovora iz građansko-pravnih poslova, daje mišljenja o ugovornim pravima i obvezama, izrađuje izvješća i obavlja analitičke poslove.
+2.2.2. Služba za upravne poslove

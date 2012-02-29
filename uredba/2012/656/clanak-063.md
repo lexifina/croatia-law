@@ -1,0 +1,7 @@
+## 8. UPRAVA ZA LJUDSKE RESURSE
+# Članak 63.
+Uprava za ljudske resurse upravna je organizacija u sastavu Ministarstva koja obavlja planske, nadzorne, upravne te druge stručne poslove vezane za osiguravanje jedinstvenog upravljanja državnim službenicima (u daljnjem tekstu: službenik) i namještenicima, djelatnim, ročnim i pričuvnim vojnim sastavom potrebnim za popunu Ministarstva i Oružanih snaga od uvođenja u evidenciju, prijma, raspoređivanja, školovanja i promicanja do tranzicije, otpusta, umirovljenja, odnosno brisanja iz vojne evidencije svih kategorija vojnih osoba, službenika i namještenika; usmjerava i usklađuje rad ustrojstvenih jedinica u svojem sastavu; sudjeluje u pripremi i odgovorna je za provođenje politike upravljanja osobljem Ministarstva; planira, usmjerava i nadzire upravljanje osobljem i profesionalni razvoj pripadnika Oružanih snaga; planira, organizira i nadzire zdravstvenu i veterinarsku zaštitu u Ministarstvu i Oružanim snagama; skrbi se o stambenom zbrinjavanju djelatnika Ministarstva i pripadnika Oružanih snaga kroz normativne, planske i nadzorne aktivnosti; sudjeluje u donošenju ustrojstvenih rješenja Ministarstva i Oružanih snaga; sudjeluje u pripremi i izradi nacrta zakonskih i podzakonskih propisa koji se odnose na ljudske resurse te obavlja i druge poslove u okviru djelokruga svoje nadležnosti.
+Za obavljanje poslova Uprave za ljudske resurse ustrojavaju se:
+8.1. Sektor za upravljanje ljudskim resursima
+8.2. Sektor za potporu upravljanja ljudskim resursima.
+8.1. Sektor za upravljanje ljudskim resursima

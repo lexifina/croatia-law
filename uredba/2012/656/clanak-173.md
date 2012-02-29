@@ -1,0 +1,5 @@
+# Članak 173.
+Pitanja važna za rad Ministarstva koja nisu uređena zakonom, Uredbom o načelima za unutarnje ustrojstvo tijela državne uprave i ovom Uredbom, uredit će se Pravilnikom o unutarnjem redu Ministarstva.
+Pravilnikom iz stavka 1. ovoga članka utvrdit će se radna mjesta za državne službenike, namještenike i djelatne vojne osobe, s naznakom njihovih osnovnih poslova i zadaća te stručnih uvjeta potrebnih za njihovo obavljanje, njihove ovlasti i odgovornosti te druga pitanja važna za rad Ministarstva.
+Pravilnik o unutarnjem redu Ministarstva donijet će ministar, uz prethodnu suglasnost središnjeg tijela državne uprave nadležnog za službeničke odnose, u roku od 30 dana od dana stupanja na snagu ove Uredbe.
+Ministar, odnosno službena osoba u čijoj je nadležnosti vođenje upravnog postupka ili rješavanje u upravnim stvarima, donijet će rješenja o rasporedu za državne službenike, namještenike i djelatne vojne osobe u roku od 30 dana od dana stupanja na snagu Pravilnika o unutarnjem redu Ministarstva.

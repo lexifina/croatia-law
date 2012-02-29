@@ -1,0 +1,3 @@
+# Članak 142.
+Odjel za nadzor proračuna prati provedbu zakona i drugih propisa iz područja upravljanja proračunskim sredstvima provođenjem naknadnih (ex post) kontrola u procesima upravljanja proračunskim sredstvima, organizira i provodi nadzor namjenskog trošenja proračunskih sredstava prema izvorima financiranja i funkcijskoj, programskoj, ekonomskoj i organizacijskoj klasifikaciji, stvaranja obveza u trošenju proračunskih sredstava, usklađenosti poslovnih evidencija sa sustavom Državne riznice i drugih aktivnosti i poslova vezanih uz izvršenje proračuna, izrađuje izvješća o provedenom nadzoru te predlaže mjere za uklanjanje nedostataka.
+10.2.3. Služba za financijske i računovodstvene poslove

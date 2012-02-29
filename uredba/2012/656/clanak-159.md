@@ -1,0 +1,3 @@
+# Članak 159.
+Odjel za inspekciju sustava civilne obrane obavlja inspekcijske nadzore obrambenih priprema tijela državne vlasti, jedinica lokalne i područne (regionalne samouprave), kao i pravnih osoba posebno važnih za obranu. Prati primjenu zakonskih propisa iz područja obrane, dostignuti stupanj obrambenih priprema, daje ocjenu zaštite objekata posebno važnih za obranu zemlje, prati izvršavanje poslova vojne obveze i mobilizacije iz nadležnosti civilnih institucija, vojnu proizvodnju, ugovaranje i nabavu te kriptološku zaštitu podataka u skladu sa Zakonom o obrani.
+11.4. Odjel za inspekciju ljudskih resursa

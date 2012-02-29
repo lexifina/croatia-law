@@ -1,0 +1,2 @@
+# Članak 124.
+Odjel prometnog servisa planira, organizira i provodi poslove vezane za prijevoz djelatnika Ministarstva, obavlja prijevoz državnih dužnosnika i stranih delegacija. Sudjeluje u prijevozu delegacija na državnoj razini. Vodi materijalnu evidenciju prometnih sredstava, evidencije uporabe motornih vozila i ostale evidencije materijalnih sredstava vezane za funkcioniranje prometnog servisa.

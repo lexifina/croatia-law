@@ -1,0 +1,7 @@
+# Članak 139.
+Služba za proračun obavlja upravne i stručne poslove vezane za izradu financijskog plana Ministarstva, izradu projekcija financijskog plana Ministarstva, izradu izmjena i dopuna financijskog plana Ministarstva, raspoređivanje utvrđenih proračunskih sredstava po proračunskim klasifikacijama u sustavu državnog proračuna, izradu i praćenje rezervacija za odobrena sredstva u financijskom planu Ministarstva, praćenje realizacije financijskog plana i pripremu izvješća, izvješćivanje o realiziranim sredstvima financijskog plana Ministarstva, izradu raščlambe realiziranih proračunskih sredstava, izradu raščlambi i izvješća prema drugim tijelima državne uprave i međunarodnim organizacijama, nadzor izvršenja financijskog plana u skladu s propisima iz područja upravljanja proračunskim sredstvima, sudjelovanje u izradi propisa o financijsko-materijalnom poslovanju i upravljanju proračunskim sredstvima, razvijanje sustava planiranja, programiranja, izrade i izvršenja proračuna u dijelu izrade i izvršenja proračuna, dogradnju i unapređivanje informacijskog sustava za izradu i praćenje izvršenja financijskog plana, razmjenu proračunskih informacija s drugim ustrojstvenim jedinicama te za obavljanje stručnih raščlambi na zahtjev internih i eksternih subjekata.
+Za obavljanje poslova Službe za proračun ustrojavaju se:
+10.2.2.1. Odjel za pripremu i izradu proračuna
+10.2.2.2. Odjel za raščlambu i izvješćivanje
+10.2.2.3. Odjel za nadzor proračuna.
+10.2.2.1. Odjel za pripremu i izradu proračuna

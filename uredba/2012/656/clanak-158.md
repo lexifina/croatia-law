@@ -1,0 +1,3 @@
+# Članak 158.
+Odjel za inspekciju vojne obrane prati i nadzire način upravljanja vojno obrambenim sustavima u Oružanim snagama i u integriranom sustavu obrane Republike Hrvatske, prati planove uporabe Oružanih snaga, prati i nadzire obučenost za združene i multinacionalne oblike vojnog sudjelovanja za međunarodne mirovne operacije u kojima sudjeluju Oružane snage, izrađuje i podnosi izvješća iz područja upravljanja, obučenosti, stanja zapovjedno-informacijsko-komunikacijskih sustava i mobilizacijske spremnosti grana Oružanih snaga. Ocjenjuje spremnost vojnih obrambenih sustava pričuvne i djelatne komponente Oružanih snaga.
+11.3. Odjel za inspekciju sustava civilne obrane

@@ -1,0 +1,7 @@
+# Članak 112.
+Služba za graditeljstvo i zaštitu okoliša obavlja upravne i stručne poslove vezane za prostorno planiranje vojnih lokacija i objekata, koordinira projektiranje i izgradnju objekata i infrastrukture, izgradnje stambenih objekata. Obavlja poslove koji se odnose na izgradnju u cjelini, planiranje, organiziranje, operativno provođenje i financijsko praćenje izvedbe svih projekata, izgradnje, adaptacije i rekonstrukcije infrastrukturnih objekata, dokumentacijski prati tijek građenja, nadzire provedbu i ispunjenje plana te izrađuje izvješće o izvedbi projekata, tehničko-financijske poslove kontrole i nadzora tehničke dokumentacije, kvalitete i kvantitete izvedbe radova, rokova izvedbe radova, primjene tehničkih i drugih propisa koji uređuju gradnju, kao što su poslovi kontrole projektno-tehničke dokumentacije, izvedbe radova, postupak izrade i ovjere obračunske dokumentacije, sudjeluje u izradi akata tehničke i obračunske dokumentacije te kontroli i obustavi isplata te daje stručna mišljenja na upite i predstavke stranaka i drugih subjekata u tijeku natječajne dokumentacije ili izvedbe radova. Koordinira zaštitom okoliša, zaštitom od požara i tehničkom zaštitom te obavlja i druge poslove vezane za graditeljstvo i zaštitu okoliša.
+Za obavljanje poslova Službe za graditeljstvo i zaštitu okoliša ustrojavaju se:
+9.2.2.1. Odjel za graditeljsku pripremu
+9.2.2.2. Odjel za nadzor gradnje
+9.2.2.3. Odjel za zaštitu okoliša.
+9.2.2.1. Odjel za graditeljsku pripremu

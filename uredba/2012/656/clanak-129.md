@@ -1,0 +1,3 @@
+# Članak 129.
+Odjel za razvoj informacijskih sustava vodi projekte informatizacije ključnih poslovnih procesa Ministarstva i Oružanih snaga. Bavi se modeliranjem poslovnih procesa u svrhu razvoja informacijskih sustava i restrukturiranja organizacije. Odjel je odgovaran za planiranje, projektiranje i razvoj informacijskih sustava (baza podataka, servisa, aplikacija, mreža) u skladu s razvojem informacijske i komunikacijske tehnologije i potrebama jedinstvenog informacijskog sustava, a na temelju poslovnih procesa obrane i usvojenih planova razvoja. Odjel sudjeluje u radu nacionalnih i međunarodnih organizacija, tijela i odbora u području komunikacijsko-informacijskih sustava.
+10.1.1.3. Odjel za programiranje i opće poslove
