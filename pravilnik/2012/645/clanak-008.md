@@ -1,0 +1,7 @@
+## Stavljanje RiTT opreme u pogon i pravo priključenja na mrežu
+# Članak 8.
+(1) RiTT oprema može se staviti u pogon u skladu sa svojom namjenom ako udovoljava bitnim zahtjevima iz članka 4. ovoga Pravilnika i drugim uvjetima utvrđenima ovim Pravilnikom.
+(2) Operatori javnih elektroničkih komunikacijskih mreža ne smiju iz tehničkih razloga odbiti priključenje telekomunikacijske terminalne opreme na odgovarajuća sučelja ako ta oprema udovoljava bitnim zahtjevima iz članka 4. ovoga Pravilnika.
+(3) Iznimno od odredaba stavka 1. i 2. ovoga članka, stavljanje u pogon RiTT opreme može se ograničiti samo u slučaju da takva RiTT oprema stvara štetne smetnje, predstavlja opasnost za zdravlje ljudi ili ne omogućuje djelotvornu uporabu radiofrekvencijskog spektra.
+(4) Ako se utvrdi da RiTT oprema, koja ima propisanu Izjavu o sukladnosti s bitnim zahtjevima iz članka 4. ovoga Pravilnika, ometa rad ili uzrokuje ozbiljna oštećenja elektroničke komunikacijske mreže, ili stvara štetne smetnje, operator elektroničke komunikacijske mreže ima pravo, na temelju prethodno pribavljenog odobrenja Agencije, uskratiti priključenje takve RiTT opreme na svoju mrežu, isključiti već priključenu RiTT opremu ili je povući iz pogona.
+(5) O poduzetim mjerama iz stavka 4. ovoga članka operator elektroničke komunikacijske mreže mora bez odgode u pisanom obliku izvijestiti inspektora elektroničkih komunikacija (u daljnjem tekstu: nadležni inspektor).

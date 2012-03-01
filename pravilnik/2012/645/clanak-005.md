@@ -1,0 +1,7 @@
+## Objavljivanje tehničkih specifikacija sučelja
+# Članak 5.
+(1) Agencija utvrđuje i javno objavljuje podatke o radijskim sučeljima koja su regulirana u Republici Hrvatskoj.
+(2) Operatori javnih elektroničkih komunikacijskih mreža u Republici Hrvatskoj moraju javno objavljivati vrste sučelja svojih elektroničkih komunikacijskih mreža.
+(3) Agencija će osigurati da operatori iz stavka 2. ovoga članka objavljuju točne i odgovarajuće tehničke specifikacije sučelja svojih elektroničkih komunikacijskih mreža, i to prije nego što elektroničke komunikacijske usluge, koje se pružaju putem tih sučelja, postanu javno dostupne, te da redovito objavljuju izmjene tih tehničkih specifikacija sučelja.
+(4) Tehničke specifikacije sučelja moraju biti podrobno opisane u svrhu proizvodnje telekomunikacijske terminalne opreme koja omogućuje sve elektroničke komunikacijske usluge što se pružaju putem tih sučelja, te moraju osobito sadržavati sve potrebne podatke koji omogućuju proizvođačima opreme obavljanje odgovarajućih ispitivanja, prema njihovu vlastitom izboru, u svrhu udovoljavanja bitnim zahtjevima iz članka 4. ovoga Pravilnika koji se primjenjuju na telekomunikacijsku terminalnu opremu.
+(5) Agencija će izvješćivati Europsku komisiju o vrstama sučelja operatora javnih elektroničkih komunikacijskih mreža i o reguliranim radijskim sučeljima iz stavka 1. ovoga članka u skladu s posebnim propisom kojim su uređeni postupci službenog obavješćivanja u području norma, tehničkih propisa, te propisa o uslugama informacijskog društva.
