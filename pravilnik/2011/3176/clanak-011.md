@@ -1,0 +1,4 @@
+# Članak 11.
+(1) Podaci o primarnim proizvođačima koji temeljem odredbi ovoga Pravilnika podliježu obvezi upisa u Registar, a koji su temeljem odredbi Pravilnika o registraciji i odobravanju objekata u kojima posluju subjekti u poslovanju s hranom za životinje (»Narodne novine«, broj 72/08), rješenjem, upisani u Upisnik registriranih objekata u poslovanju s hranom za životinje ili Upisnik registriranih objekata u poslovanju s hranom za životinje na OPG-u, prenijet će se do 01. ožujka 2012. godine u Registar.
+(2) Provedbom stavka 1. ovoga članka primarni proizvođači smatraju se upisanima u Registar.
+(3) Postupci za registraciju objekata na OPG-u pokrenuti kod nadležnog tijela na temelju odredbi Pravilnika o registraciji i odobravanju objekata u kojima posluju subjekti u poslovanju s hranom za životinje radi registracije jedne ili više djelatnosti označene kodom R3-1, R3-2, P-1, R5-1 i R6, dovršit će se u skladu s odredbama ovoga Pravilnika.
