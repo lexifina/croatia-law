@@ -1,0 +1,3 @@
+# Članak 34.
+Odjel za analize i izvještavanja obavlja stručne i administrativne poslove vezane za koordinaciju aktivnosti praćenja provedbe i korištenja programa EU namijenjenih promicanju gospodarske i socijalne kohezije; sudjeluje u pripremi i praćenju plana uspostave sustava financijskog upravljanja i kontrola, koordinira pripreme za ocjenu usklađenosti sustava, održavanje kvalitete i daljnji razvoj sustava financijskog upravljanja i kontrole, sudjeluje u izradi pravnog i institucionalnog okvira za korištenje fondova EU i prati njegovu usklađenost sa zakonodavstvom EU te obavlja i druge poslove iz svoje nadležnosti.
+3.3.2.2. Odjel za razvoj i upravljanje integriranim sustavom za upravljanje (MIS)

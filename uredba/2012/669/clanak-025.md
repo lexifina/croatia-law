@@ -1,0 +1,6 @@
+# Članak 25.
+Služba za horizontalne programe, praćenje i vrednovanje provedbe programa EU i tehničku pomoć za instrumente kohezijske politike obavlja administrativne i stručne poslove vezane za koordinaciju i suradnju s tijelima državne uprave, koordinaciju pripreme i razvoja metodologije za praćenje provedbe instrumenata pretpristupne pomoći IPA i kohezijske politike, koordinira pripremu i razvoj metodologije vrednovanja programa EU i instrumenata kohezijske politike, poslove vezane za uključivanje Republike Hrvatske u horizontalne programe EU koji su namijenjeni za više država korisnica IPA programa - Višekorisnička IPA, koordinira uključivanje tijela državne uprave i jedinica lokalne i područne (regionalne) samouprave u programe i agencije EU, planira korištenje tehničke pomoći za upravljanje instrumentima kohezijske politike te obavlja i druge poslove iz svoje nadležnosti.
+Za obavljanje poslova iz nadležnosti Službe za horizontalne programe, praćenje i vrednovanje provedbe programa EU i tehničku pomoć za instrumente kohezijske politike ustrojavaju se sljedeće ustrojstvene jedinice:
+3.2.2.1. Odjel za koordinaciju horizontalnih programa i instrumenata kohezijske politike
+3.2.2.2. Odjel za praćenje i vrednovanje provedbe programa Europske unije.
+3.2.2.1. Odjel za koordinaciju horizontalnih programa i instrumenata kohezijske politike

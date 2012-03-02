@@ -1,0 +1,3 @@
+# Članak 15.
+Odjel za pripremu nabave i obradu ponuda obavlja administrativne i stručne poslove vezane za pripremu postupaka javne nabave i obrađuje dostavljene ponude u postupcima javne nabave, obavlja poslove odabira postupka javne nabave, priprema odluke i provodi objave i pozive za pripremu i provedbu postupaka javne nabave, određuje uvjete nabave i ugovaranja s obzirom na predmet nabave, priprema dokumentaciju za nadmetanje, prima ponude i provodi postupak javnog otvaranja ponuda, provodi postupak pregleda, ocjene i analize ponuda, provjerava računsku točnost ponuda te obavlja i druge poslove iz svoje nadležnosti.
+2.2.2.2. Odjel za kontrolu izvršenja nabave

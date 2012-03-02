@@ -1,0 +1,6 @@
+# Članak 43.
+Služba za teritorijalnu suradnju s državama članicama Europske unije obavlja poslove koji se odnose na sudjelovanje Republike Hrvatske u izradi i provedbi godišnjih i višegodišnjih strateških i operativnih programa financiranih iz proračuna ili drugih izvora financiranja u kontekstu prekogranične, transnacionalne i međuregionalne suradnje; obavlja administrativne poslove vezano za programe prekogranične suradnje s državama članicama EU, transnacionalne i međuregionalne suradnje; prati i kontrolira provedbe projekata koji se financiraju u okviru programa prekogranične suradnje s državama članicama EU, transnacionalnih i međuregionalnih programima te informiranje o programima prekogranične suradnje s državama članicama EU, transnacionalne i međuregionalne suradnje; organizira i nadzire aktivnosti tehničke pomoći vezane za prekogranične, transnacionalne i međuregionalne programe u kojima Hrvatska sudjeluje, organizira provedbu strateške procjene utjecaja na zaštitu okoliša te obavlja i druge poslove iz svoje nadležnosti.
+Za obavljanje poslova iz nadležnosti Službe za teritorijalnu suradnju s državama članicama Europske unije ustrojavaju se sljedeće ustrojstvene jedinice:
+4.2.1.1. Odjel za programe prekogranične suradnje
+4.2.1.2. Odjel za transnacionalnu i međuregionalnu suradnju.
+4.2.1.1. Odjel za programe prekogranične suradnje

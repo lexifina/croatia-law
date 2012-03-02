@@ -1,0 +1,7 @@
+# Članak 76.
+Služba za provedbu programa obnove i stambenog zbrinjavanja obavlja stručne i administrativne poslove koji se odnose na: planiranje, pripremu, organizaciju, provedbu i nadzor provedbe programa obnove u ratu oštećenih ili uništenih stambenih jedinica, stambeno zbrinjavanje, provedbu programa pomoći Vlade RH za povratak Hrvata u Bosnu i Hercegovinu i opremanje obnovljenih stambenih jedinica; prikuplja programske i druge informacije od važnosti za obnovu stambenih jedinica i stambenog zbrinjavanja; provodi propise iz područja obnove stambenih jedinica i stambenog zbrinjavanja od važnosti za popravak, obnovu i izgradnju stambenih jedinica; usklađuje aktivnosti pojedinih službi unutar tijela jedinica lokalne i područne (regionalne) samouprave u provedbi stambenih programa; te surađuje s državnim odvjetništvom i drugim tijelima državne uprave u vezi s rješavanjem pritužbi sudionika u obnovi i stambenom zbrinjavanju, izrađuje prijedloge planova nabave i prijedloge financijskih planova za realizaciju programa obnove i stambenog zbrinjavanja; prati dinamiku fizičke i financijske realizacije programa obnove i stambenog zbrinjavanja u skladu s raspoloživim financijskim sredstvima i godišnjim planovima rada, te obavlja druge poslove iz svoje nadležnosti.
+Za obavljanje poslova iz nadležnosti Službe za provedbu programa obnove i stambenog zbrinjavanja ustrojavaju se sljedeće ustrojstvene jedinice:
+5.4.2.1. Odjel za obnovu
+5.4.2.2. Odjel za isporuku građevinskog materijala,
+5.4.2.3. Odjel za izgradnju novih naselja.
+5.4.2.1. Odjel za obnovu
