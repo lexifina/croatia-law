@@ -1,0 +1,2 @@
+# Članak 17.
+Stranke će osigurati sve potrebne olakšice za ulazak, boravak i odlazak sudionika službeno uključenih u projekte suradnje koji proistječu iz ovog Ugovora. Na sudionike će se primjenjivati migracijski, porezni, carinski, sanitarni i propisi vezani uz nacionalnu sigurnost koji su na snazi u zemlji primateljici i neće sudjelovati ni u kakvim drugim aktivnostima osim u onim vezanim uz njihove funkcije bez prethodnog odobrenja nadležnih tijela u ovom području. Sudionici će napustiti zemlju primateljicu u skladu s njezinim zakonima i propisima.
