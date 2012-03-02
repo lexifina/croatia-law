@@ -1,0 +1,3 @@
+# Članak 97.
+Odjel za EU koordinaciju obavlja sljedeće poslove: koordinacija aktivnosti za sudjelovanje Ministarstva u radu tijela Europske unije - Vijeća i Europske komisije u područjima iz djelokruga Ministarstva; koordinacija provedbe Sporazuma o stabilizaciji i pridruživanju kao i aktivnosti vezano za sudjelovanje Ministarstva u radu tijela osnovanih temeljem Sporazuma - Vijeća za stabilizaciju i pridruživanje, Odbora za stabilizaciju i pridruživanje te Pododbora za poljoprivredu i ribarstvo; koordinacija usklađivanja nacionalnog poljoprivrednog zakonodavstva sukladno propisima iz područja Zajedničke poljoprivredne politike Europske unije.
+8.3.2.2. Odjel za EU programe

@@ -1,0 +1,3 @@
+# Članak 68.
+Odjel za tržišni cjenovni informacijski sustav u poljoprivredi obavlja poslove prikupljanja, obrade, provjere i pohrane podataka o cijenama i količinama određenih poljoprivrednih proizvoda i agrarnih inputa s domaćeg reprezentativnog tržišta, poslove cjenovnih analiza poljoprivrednog tržišta, poslove izvješćivanja o cijenama poljoprivrednih proizvoda za nacionalne potrebe i potrebe Europske komisije, održava web stranicu, propisuje metodologiju prikupljanja i obrade podataka, unaprjeđuje sustav prikupljanja i obrade podataka te izvješćivanja o cijenama i surađuje s međunarodnim tržišnim cjenovnim informacijskim sustavima u poljoprivredi.
+7.3. Sektor inspekcija u poljoprivredi

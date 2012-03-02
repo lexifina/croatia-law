@@ -1,0 +1,2 @@
+# Članak 225.
+Danom stupanja na snagu ove Uredbe prestaju važiti Uredba o unutarnjem ustrojstvu Ministarstva poljoprivrede, ribarstva i ruralnog razvoja (»Narodne novine«, br. 35/2008, 118/2009 i 3/2011) i Uredba o unutarnjem ustrojstvu Ministarstva regionalnog razvoja, šumarstva i vodnoga gospodarstva (»Narodne novine«, br. 34/2008 i 31/2010) u dijelu koji se odnosi na područje poslova šumarstva, lovstva, drvne industrije i vodnoga gospodarstva, a koji se uređuju ovom Uredbom.

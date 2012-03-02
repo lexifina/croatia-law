@@ -1,0 +1,6 @@
+# Članak 66.
+Služba za poljoprivredne informacije, planiranje i analize obavlja sljedeće poslove: koordinira i sudjeluje u izradi u izradi strateških dokumenata vezanih uz razvoj poljoprivrede i ruralnog razvitka, koordinira i sudjeluje u izradi nacrta zakonskih i podzakonskih akata u dijelu koji se odnosi na Sustav poljoprivrednih knjigovodstvenih podataka (FADN), daje administrativnu podršku radu Vijeća za istraživanje u poljoprivredi, koordinira i sudjeluje u izradi proizvodno-potrošnih bilanci poljoprivrednih proizvoda, obavlja poslove prikupljanja i organiziranja gotovih statističkih podataka, informacija iz propisanih evidencija i baza podataka, obavlja poslove analiza cijena poljoprivrednih proizvoda, analiza proizvodnje, strukture i dohotka poljoprivredne djelatnosti te različite oblike potpore u poljoprivredi te koordinira i izrađuje godišnje izvješće o stanju poljoprivrede (Zeleno izvješće), obavlja poslove prikupljanja, obrade, provjere i pohrane podataka o cijenama i količinama određenih poljoprivrednih proizvoda i agrarnih inputa s domaćeg reprezentativnog tržišta.
+Za obavljanje poslova Službe za poljoprivredne informacije, planiranje i analize ustrojavaju se:
+7.2.2.1. Odjel za planiranje i analize
+7.2.2.2. Odjel za tržišni cjenovni informacijski sustav u poljoprivredi.
+7.2.2.1. Odjel za planiranje i analize

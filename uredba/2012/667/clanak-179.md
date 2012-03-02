@@ -1,0 +1,14 @@
+# Članak 179.
+Odjel za Savu - područna jedinica Zagreb obavlja poslove na području Grada Zagreba, Zagrebačke, Krapinsko-zagorske, Karlovačke, Sisačko-moslavačke, Brodsko-posavske, Požeško-slavonske, Bjelovarsko-bilogorske (dio koji se nalazi u podslivu Save), Koprivničko-križevačke županije (dio koji se nalazi u podslivu Save) i Vukovarsko-srijemske županije (dio koji se nalazi u podslivu Save), a koji se odnose na nadzor provedbe mjera i izvršenja obveza određenih zakonima, podzakonskim propisima i planskim dokumentima iz područja upravljanja vodama kojima su uređena područja zaštite voda, korištenja voda i zaštite od štetnog djelovanja voda; nadzor usklađenosti mjera i postupaka s vodopravnim aktima; nadzor postupanja po ugovorima o koncesiji za korištenje voda i nadzor i ugovorima o pravu najma, zakupa, služnosti i građenja na javnom vodnom dobru, daljnji inspekcijski postupak prilikom iznenadnih i izvanrednih onečišćenja voda; nadzor i daljnji inspekcijski postupak po prijavama; nadzor plaćanja vodnih naknada i naknada za koncesije; nadzor javnih isporučitelja vodnih usluga i trgovačkih društava koja obavljaju posebne djelatnosti za potrebe upravljanja vodama; provedbu koordiniranih inspekcijskih nadzora i akcija s drugim inspekcijama; pripremu odgovora na pitanja Hrvatskoga sabora, Vlade Republike Hrvatske te pravnih i fizičkih osoba; pripremu i izradu godišnjeg i periodičkih planova rada i izvještaja o radu odjela te obavlja i druge poslove iz svoga djelokruga.
+Za obavljanje poslova iz djelokruga državne vodopravne inspekcije u Odjelu za Savu - područnoj jedinici Zagreb ustrojavaju se sljedeće ispostave u kojima su samostalni izvršitelji mjesno nadležni na području cijele područne jedinice i to:
+Ispostava Zagreb,
+Ispostava Karlovac,
+Ispostava Krapina,
+Ispostava Zlatar,
+Ispostava Bjelovar,
+Ispostava Sisak,
+Ispostava Nova Gradiška,
+Ispostava Požega,
+Ispostava Slavonski Brod
+Ispostava Županja.
+12.2.1.2. Odjel za Dunav, Dravu i Muru - područna jedinica Osijek

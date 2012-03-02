@@ -1,0 +1,8 @@
+# Članak 199.
+Odjel za akvakulturu obavlja upravne i druge stručne poslove koji se odnose na uzgoj riba i drugih vodenih organizama, organizira i provodi ispite za stjecanje stručne osposobljenosti za uzgoj, te vodi upisnik o izdanim uvjerenjima; izdaje i vodi upisnik o izdanim povlasticama za uzgoj ribe i drugih morskih organizama; prikuplja, pohranjuje i analizira podatke o uzgoju; predlaže mjere za racionalno, odgovorno i održivo gospodarenje; predlaže normativna rješenja za poticanje uzgoja, prometa i prerade uzgojene ribe i drugih vodenih organizama; predlaže mjere i sudjeluje u provođenju strukturnih potpora; sudjeluje u izradi programa razvoja ribarstva i prati njegovu provedbu; vodi brigu o prilagodbi propisa i općih akata iz svoga djelokruga; daje inicijativu za rješavanje pojedinih pitanja razvoja akvakulture; obavlja upravne i druge stručne poslove koji se odnose na uzgoj riba i drugih vodenih organizama, organizira i provodi ispite za stjecanje stručne osposobljenosti za uzgoj, te vodi upisnik o izdanim uvjerenjima; izdaje i vodi upisnik o izdanim povlasticama za uzgoj ribe i drugih vodenih organizama; surađuje s institucijama i ministarstvima zaduženim za zaštitu prirode i koncesioniranje; daje inicijativu za rješavanje pojedinih pitanja razvoja slatkovodne akvakulture; obavlja i ostale poslove iz svoga djelokruga.
+Za obavljanje upravnih i drugih poslova Odjela za akvakulturu ustrojavaju:
+Ispostava Zadra sa samostalnim izvršiteljem
+Ispostava Šibenik sa samostalnim izvršiteljem
+Ispostava Senj sa samostalnim izvršiteljem
+Ispostava Split sa samostalnim izvršiteljem.
+13.1.2.2. Odjel slatkovodnog ribarstva

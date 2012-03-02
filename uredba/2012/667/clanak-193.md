@@ -1,0 +1,7 @@
+# Članak 193.
+Sektor upravljanja resursima i flotom obavlja poslove iz područja upravljanja resursima mora i slatkih voda, upravljanja flotom te djelatnosti uzgoja ribe i drugih vodenih organizama; provodi upravni nadzor nad izvršavanjem zakona, propisa i drugih općih akata iz područja ribarstva koji su u djelokrugu Sektora; koordinira i objedinjava rad službi i odjela unutar svoga ustroja; prati stanje u području upravljanja resursima mora i slatkih voda i flotom te priprema stručne podloge i predlaže potrebne državne mjere u okviru svoga djelokruga; usmjerava i daje inicijativu za rješavanje pojedinih pitanja i predlaže mjere unaprjeđenja ribarstva; koordinira izradu i objedinjava razvojne i operativne programe u ribarstvu u segmentu upravljanja resursima i flotom; sudjeluje u izradi proračuna; predlaže provođenje strukturnih i tržišnih mjera u okviru svoga djelokruga; obavlja i koordinira poslove međunarodne suradnje na razini Sektora; surađuje sa stručnim i znanstvenim ustanovama iz područja ribarstva te prati i koordinira u okviru ovlasti Ministarstva rad stručnih službi; provodi i ostale poslove koji mu se stave u djelokrug.
+Za obavljanje poslova Sektora upravljanja resursima i flotom ustrojavaju se:
+13.1.1. Služba za upravljanje resursima mora i Ribarstveni monitoring centar
+13.1.2. Služba za akvakulturu i slatkovodni ribolov - Područna jedinica Zadar
+13.1.3. Služba za upravljanje flotom i ribarsku statistiku - Područna jedinica Split.
+13.1.1. Služba za upravljanje resursima mora i Ribarstveni monitoring centar
