@@ -1,0 +1,3 @@
+# Članak 116.
+Odjel provedbenih dokumenata prostornoga uređenja provodi nadzor nad zakonitošću izvješća o stanju u prostoru, odluka o izradi prostornoga plana i dokumenata prostornoga uređenja i/ili postupaka njihove izrade, prihvaćanja, odnosno donošenja u dijelu koji se odnosi na provedbene dokumente prostornoga uređenja i to: urbanističke planove uređenja i detaljne planove uređenja, poduzima Zakonom propisane mjere, priprema odgovore na podneske te odgovara na podneske sukladno ovlastima i nadležnosti, predlaže plan i program rada, izrađuje godišnja i druga izvješća, po potrebi obavlja nadzor nad aktima koji se odnose na strateške dokumente prostornoga uređenja, te obavlja i druge poslove u okviru svoga djelokruga.
+7.3.2. Služba za pojedinačne akte i ovlaštene osobe

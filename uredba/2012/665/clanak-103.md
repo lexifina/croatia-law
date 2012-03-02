@@ -1,0 +1,7 @@
+# Članak 103.
+Središnji sektor građevinske i urbanističke inspekcije organizira i obavlja poslove usavršavanja i kontrole rada građevinske i urbanističke inspekcije, sudjeluje u izradi i provodi program za usavršavanje i nadzor nad radom građevinske i urbanističke inspekcije, surađuje s drugim ustrojstvenim jedinicama Ministarstva, tijelima državne uprave, znanstvenim i obrazovnim ustanovama, jedinicama lokalne i područne samouprave, daje mišljenja i smjernice u vezi s primjenom propisa u odnosu na postupanje inspekcija, organizira obavljanje pravnih poslova koji obuhvaćaju izradu prijedloga rješenja, pružanje pravne pomoći inspekcijama, obavljanje poslova vezanih za upravne sporove, pravne poslove u vezi s izvršenjima inspekcijskih rješenja, zastupanje pred sudovima, prati rad građevinske inspekcije, organizira informatizaciju te obavlja poslove vezane za vođenje evidencija i baza podataka, brine o stručno-tehničkim poslovima uredskog poslovanja za potrebe Uprave, priprema odgovore na podneske te odgovara na podneske sukladno ovlastima i nadležnosti, po potrebi obavlja inspekcijski nadzor gradnje, donosi i prati izvršenje plana i programa rada Sektora, izrađuje godišnja i druga izvješća, te obavlja i druge poslove u okviru svoga djelokruga.
+Za obavljanje poslova u Središnjem sektoru građevinske i urbanističke inspekcije, ustrojavaju se sljedeće ustrojstvene jedinice:
+7.2.1. Služba za usavršavanje i kontrolu rada
+7.2.2. Služba pravnih poslova
+7.2.3. Služba koordinacije inspekcijskog postupanja.
+7.2.1. Služba za usavršavanje i kontrolu rada

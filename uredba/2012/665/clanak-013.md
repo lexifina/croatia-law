@@ -1,0 +1,6 @@
+# Članak 13.
+Služba za proračun i financijsko upravljanje obavlja stručne poslove koji se odnose na izradu prijedloga strateškog plana, plana rada, državnog proračuna i izradu mjesečnih financijskih planova, koordinira izradu plana uspostave i razvoja financijskog upravljanja i kontrola, prati i koordinira provedbu plana uspostave i razvoja financijskog upravljanja i kontrola, priprema interne upute kojima se detaljnije uređuju postupci, nadležnosti i odgovornosti u procesu planiranja, programiranja, izrade i realizacije financijskog plana, donosi godišnji dinamički plan izvršavanja državnog proračuna za Ministarstvo, obavlja administrativne poslove u svezi s izvršavanjem državnog proračuna, sastavlja, analizira i podnosi izvješća o trošenju proračunskih sredstava sukladno namjeni i planiranoj dinamici. Unosi zahtjeve za isplatu proračunskih sredstava u sustav Državne riznice, evidentira naplatu prihoda prema izvorima financiranja i korištenje sredstava za pokriće planiranih rashoda.
+U Službi za proračun i financijsko upravljanje, ustrojavaju se sljedeće ustrojstvene jedinice:
+3.2.1.1. Odjel za pripremu i izvršavanje proračuna
+3.2.1.2. Odjel za financijsko upravljanje, kontrole i informacijsku sigurnost.
+3.2.1.1. Odjel za pripremu i izvršavanje proračuna

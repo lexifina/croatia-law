@@ -1,0 +1,6 @@
+# Članak 40.
+Služba za lokacijske dozvole i provedbu dokumenata prostornoga uređenja obavlja stručne i upravne poslove međusektorskog usklađenja interesa u prostoru, sudjeluje u pripremi, izradi i usklađivanju idejnih projekata za lokacijske dozvole, izdaje lokacijske dozvole; zastupa Ministarstvo u upravnim sporovima protiv lokacijskih dozvola Ministarstva; prati stanje provedbe dokumenata prostornoga uređenja, izdaje propisane potvrde, suglasnosti i mišljenja u postupku provedbe dokumenata prostornoga uređenja, priprema i sudjeluje u izradi stručnih podloga za izradu propisa iz svoga djelokruga, daje mišljenja i objašnjenja u vezi s provedbom Zakona, odgovara na predstavke iz svoga djelokruga, sudjeluje u radu povjerenstava za stratešku procjenu utjecaja na okoliš, procjenu utjecaja na okoliš, tehnički pregled i koncesije, daje mišljenja za potrebe rješavanja imovinsko-pravnih odnosa na zemljištu u vlasništvu Republike Hrvatske, te sudjeluje u poslovima međunarodne suradnje.
+U Službi za lokacijske dozvole i provedbu dokumenata prostornoga uređenja, ustrojavaju se sljedeće ustrojstvene jedinice:
+5.1.2.1. Odjel za infrastrukturne i proizvodne građevine
+5.1.2.2. Odjel za građevine za gospodarenje otpadom i eksploataciju mineralnih sirovina.
+5.1.2.1. Odjel za infrastrukturne i proizvodne građevine

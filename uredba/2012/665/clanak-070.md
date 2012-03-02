@@ -1,0 +1,6 @@
+# Članak 70.
+Služba Split I obavlja inspekcijski nadzor zakonitosti i kvalitete gradnje, održavanja i uklanjanja građevina za koje akte, kojima se odobrava građenje, uporaba i uklanjanje, izdaju nadležna upravna tijela Grada Splita, otoka Brača, Hvara i Visa, te Županijski ured u Splitu za Podstranu, otok Šoltu, Prgomet i Lećevicu i Županijski ured u Omišu, te građevina za koje se ne izdaje akt kojim se odobrava građenje, obavlja inspekcijski nadzor zakonitosti i kvalitete ugradnje građevnih proizvoda, obavlja inspekcijski nadzor u slučaju izvanrednog događaja, po prijenosu nadležnosti obavlja inspekcijski nadzor gradnje građevina za koje akte kojima se odobrava građenje izdaje Ministarstvo, nadzire zakonitost rada sudionika u gradnji, poduzima propisane mjere, podnosi optužne prijedloge i kaznene prijave, provodi izvršenje inspekcijskih rješenja, izdaje potvrde i obavijesti, priprema odgovore na podneske te odgovara na podneske sukladno ovlastima i nadležnosti, predlaže plan i program rada, izrađuje godišnja i druga izvješća o radu, te obavlja i druge poslove u okviru svoga djelokruga.
+Za obavljanje poslova u Službi Split I, ustrojavaju se sljedeće ustrojstvene jedinice:
+7.1.3.1.1. Odjel za Grad Split i otok Brač
+7.1.3.1.2. Odjel za centralno područje Splitsko-dalmatinske županije.
+7.1.3.1.1. Odjel za Grad Split i otok Brač

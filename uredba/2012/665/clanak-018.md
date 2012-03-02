@@ -1,0 +1,3 @@
+# Članak 18.
+U Odsjeku informatike se obavljaju stručni i tehnički poslovi instaliranja i održavanja računalne i programske opreme, unaprjeđenje i implementacija informatičke tehnologije, pružanje pomoći i podrške korisnicima informatičkih resursa, poslovi individualne i skupne edukacije novoprimljenih službenika i namještenika za rad s aplikacijama koje se koriste u Ministarstvu, prate potrebe za nabavom informatičke opreme te predlažu planovi za nabavu opreme sa ciljem osiguravanja tehnički sigurnije opreme i zadovoljavanja zahtijeva informacijske sigurnosti, izrađuju analize i izvješća iz djelokruga Odsjeka, te obavljaju i drugi poslovi u okviru svoga djelokruga.
+3.2.2.2. Odjel za računovodstvene poslove

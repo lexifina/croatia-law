@@ -1,0 +1,6 @@
+# Članak 29.
+Služba za stanogradnju prati, analizira i nadzire gradnju stanova i naselja, socijalnih i službenih stanova, stanova iz programa društveno poticane stanogradnje i drugih utvrđenih programa u skladu sa svojim nadležnostima, koordinira aktivnosti i osigurava provedbu posebnih programa Vlade Republike Hrvatske u stanogradnji, koordinira poslove i provedbu mjera, programa i projekata u stanogradnji i području stanovanja, te nadzire rad Agencije za pravni promet i posredovanje nekretninama u vezi s poslovima društveno poticane stanogradnje, surađuje s jedinicama lokalne samouprave i područne (regionalne) samouprave, daje stručna mišljenja i upute, priprema stručne podloge za izradu zakona i drugih propisa i normativa iz područja stanogradnje, sudjeluje u ostvarivanju međunarodne suradnje, te obavlja i druge poslove u okviru svoga djelokruga. Služba obavlja poslove koji se odnose na osmišljavanje, planiranje i izradu gospodarskih mjera i programa u stanogradnji, te predlaže nadležnim tijelima uprave strateške mjere i programe u stanogradnji, koordinira i osigurava provedbu utvrđenih stambenih programa i mjera gospodarske politike u području stanogradnje.
+U Službi za stanogradnju, ustrojavaju se sljedeće ustrojstvene jedinice:
+4.2.1.1. Odjel za mjere i programe
+4.2.1.2. Odjel za investicije.
+4.2.1.1. Odjel za mjere i programe

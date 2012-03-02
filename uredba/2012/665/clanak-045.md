@@ -1,0 +1,4 @@
+# Članak 45.
+Odjel za normativu i koordinaciju provedbe propisa predlaže, koordinira, priprema i izrađuje nacrte prijedloga zakona i drugih propisa iz djelokruga Ministarstva, izrađuje primjedbe i mišljenja na prijedloge zakona i drugih propisa, izrađuje naputke radi provedbe zakona i drugih propisa, priprema odgovore na zastupnička pitanja, daje stručna mišljenja i objašnjenja u vezi s provedbom zakona i drugih propisa, prati provođenje i učinkovitost provođenja propisa i predlaže njihovu izmjenu i dopunu te surađuje s Državnim odvjetništvom Republike Hrvatske, tijelima državne vlasti, jedinicama lokalne i područne (regionalne) samouprave, udrugama i drugim institucijama; obavlja i druge poslove iz djelokruga Sektora.
+5.2.1.2. Odjel za procjenu učinaka propisa i međunarodno-
+-pravne poslove

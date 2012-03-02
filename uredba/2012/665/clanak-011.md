@@ -1,0 +1,3 @@
+# Članak 11.
+Odjel za tehničke poslove i vozni park obavlja stručne i tehničke poslove koji se odnose na praćenje realizacije ugovora o nabavi roba, radova i usluga iz područja jednostavnijih tehničkih intervencija, opremanje prostorija Ministarstva sredstvima rada, poslove obilaska prostora, korištenje i održavanje voznog parka Ministarstva, organizaciju prijevoza državnih dužnosnika i službenika Ministarstva, vođenje propisanih evidencija o korištenju i održavanju službenih vozila, izradu analiza i izvješća iz područja rada Odjela, te obavlja i druge poslove u okviru svoga djelokruga.
+3.2. Sektor za financije

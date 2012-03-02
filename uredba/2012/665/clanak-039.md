@@ -1,0 +1,3 @@
+# Članak 39.
+Odjel za kontinentalno područje daje mišljenja i tumačenja u vezi s provedbom zakona i drugih propisa kojima se uređuje planiranje kontinentalnog područja; vrši pregled prostornih planova i daje zakonom propisanu suglasnost na prostorne planove u kontinentalnom području te vodi evidenciju o istom; daje suglasnost za upis u sudski registar pravnim i fizičkim osobama za obavljanje stručnih poslova prostornoga uređenja te vodi evidenciju o izdanim suglasnostima za upis u sudski registar; sudjeluje u postupcima međusektorskog usklađenja procedura u svrhu ubrzanja donošenja prostornih planova.
+5.1.2. Služba za lokacijske dozvole i provedbu dokumenata prostornoga uređenja

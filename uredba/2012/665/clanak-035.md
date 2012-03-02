@@ -1,0 +1,9 @@
+## 5. UPRAVA ZA PROSTORNO UREĐENJE
+# Članak 35.
+Uprava za prostorno uređenje obavlja upravne i druge poslove koji se odnose na: prostorno uređenje Republike Hrvatske i usklađivanje prostornoga razvitka, planiranje, korištenje i zaštitu prostora, ostvarivanje međunarodne suradnje u prostornom uređenju, praćenje stanja u prostoru i provedbu dokumenata prostornoga uređenja Republike Hrvatske i lokacijske dozvole; surađuje u izradi dokumenata prostornoga uređenja županija, gradova i općina radi osiguravanja uvjeta za gospodarenje, zaštitu i upravljanje prostorom i usklađivanja djelovanja tijela državne uprave koja sudjeluju u izradi, donošenju i provedbi dokumenata prostornoga uređenja, osiguravanje uvjeta za razvitak i unaprjeđenje poslovanja pravnih i fizičkih osoba iz područja prostornoga uređenja, uređenje naselja, uređenje i korištenje građevinskoga zemljišta, te obavlja poslove koji se odnose na sudjelovanje Republike Hrvatske u radu tijela Europske unije u navedenim područjima.
+Uprava obavlja pravne poslove koji se odnose na normativnu djelatnost u vezi s pripremom i izradom nacrta prijedloga zakona, drugih propisa i akata iz djelokruga Ministarstva, obavlja poslove procjene učinaka propisa s tim u vezi i koordinira provedbu propisa iz djelokruga Ministarstva te obavlja poslove upravnog nadzora nad radom i aktima prvostupanjskih tijela iz svih navedenih područja.
+Uprava sudjeluje u izradi strateškog plana Ministarstva te definiranju pokazatelja uspješnosti i utvrđivanju rizika u okviru djelokruga Uprave. Uprava obavlja i druge poslove koje odredi pomoćnik ministra ili ministar.
+U Upravi za prostorno uređenje, ustrojavaju se sljedeće ustrojstvene jedinice:
+5.1. Sektor za sustav prostornoga uređenja
+5.2. Sektor za pravne poslove.
+5.1. Sektor za sustav prostornoga uređenja

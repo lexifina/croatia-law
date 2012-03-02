@@ -1,0 +1,3 @@
+# Članak 30.
+Odjel za mjere i programe obavlja stručne poslove koji se odnose na osmišljavanje, planiranje i izradu gospodarskih mjera i programa u stanogradnji i stanovanju. Odjel prikuplja podatke i prati stanje u stanogradnji, izrađuje analize stanja te financijske i druge stručne analize iz područja stanogradnje, prometa nekretnina te razmatra gospodarske i druge aspekte graditeljstva, osmišljava i modelira prijedloge razvojnih mjera, projekata i programa u cilju unapređenja stanovanja i stanogradnje u gospodarskom smislu, te obavlja i druge poslove u okviru svoga djelokruga.
+4.2.1.2. Odjel za investicije

@@ -1,0 +1,6 @@
+# Članak 66.
+Služba Zagreb II na području Novog Zagreba, Dubrave, Pešćenice, Sesveta i Zagrebačke županije obavlja inspekcijski nadzor zakonitosti i kvalitete gradnje, održavanja i uklanjanja građevina za koje akte, kojima se odobrava građenje, uporaba i uklanjanje, izdaju nadležna upravna tijela Grada Zagreba i Zagrebačke županije, odnosno velikih gradova, te građevina za koje se ne izdaje akt kojim se odobrava građenje, obavlja inspekcijski nadzor zakonitosti i kvalitete ugradnje građevnih proizvoda, obavlja inspekcijski nadzor u slučaju izvanrednog događaja, po prijenosu nadležnosti obavlja inspekcijski nadzor gradnje građevina za koje akte kojima se odobrava građenje izdaje Ministarstvo, nadzire zakonitost rada sudionika u gradnji, poduzima propisane mjere, podnosi optužne prijedloge i kaznene prijave, provodi izvršenje inspekcijskih rješenja, izdaje potvrde i obavijesti, priprema odgovore na podneske te odgovara na podneske sukladno ovlastima i nadležnosti, predlaže plan i program rada, izrađuje godišnja i druga izvješća o radu, te obavlja i druge poslove u okviru svoga djelokruga.
+Za obavljanje poslova u Službi Zagreb II, ustrojavaju se sljedeće ustrojstvene jedinice:
+7.1.2.2.1. Odjel Istok
+7.1.2.2.2. Odjel Zagrebačke županije.
+7.1.2.2.1. Odjel Istok

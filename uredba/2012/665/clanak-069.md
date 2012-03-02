@@ -1,0 +1,7 @@
+# Članak 69.
+Područni ured u Splitu na području Grada Splita i Splitsko-dalmatinske županije obavlja inspekcijski nadzor zakonitosti i kvalitete gradnje, održavanja i uklanjanja građevina za koje akte, kojima se odobrava građenje, uporaba i uklanjanje, izdaju nadležna upravna tijela Grada Splita i Splitsko-dalmatinske županije, odnosno velikih gradova, te građevina za koje se ne izdaje akt kojim se odobrava građenje, obavlja inspekcijski nadzor zakonitosti i kvalitete ugradnje građevnih proizvoda, obavlja inspekcijski nadzor u slučaju izvanrednog događaja, po prijenosu nadležnosti obavlja inspekcijski nadzor gradnje građevina za koje akte kojima se odobrava građenje izdaje Ministarstvo, nadzire zakonitost rada sudionika u gradnji, poduzima propisane mjere, podnosi optužne prijedloge i kaznene prijave, provodi izvršenje inspekcijskih rješenja, izdaje potvrde i obavijesti, priprema odgovore na podneske te odgovara na podneske sukladno ovlastima i nadležnosti, predlaže i prati izvršenje plana i programa rada službi, izrađuje godišnja i druga izvješća o radu, te obavlja i druge poslove u okviru svoga djelokruga.
+Pročelnik Područnog ureda u Splitu može odrediti da po potrebi viši građevinski inspektor, građevinski inspektor odnosno građevinski inspektor II. vrste zvanja iz jednog odjela privremeno, provodi nadzor na području drugog odjela inspekcijskog nadzora gradnje.
+Za obavljanje poslova u Područnom uredu u Splitu, ustrojavaju se sljedeće ustrojstvene jedinice:
+7.1.3.1. Služba Split I
+7.1.3.2. Služba Split II.
+7.1.3.1. Služba Split I
