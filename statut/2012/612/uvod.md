@@ -1,0 +1,1 @@
+Na temelju članka 17., stavak 2., Zakona o Hrvatskoj komori inženjera tehnologije prometa i transporta (»Narodne novine«, broj 79/07), Skupština Hrvatske komore inženjera tehnologije prometa i transporta, na sjednici održanoj 30. studenoga 2011. godine donijela je
