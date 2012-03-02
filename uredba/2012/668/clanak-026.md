@@ -1,0 +1,3 @@
+# Članak 26.
+Odjel za granice pomorskog dobra priprema nacrte prijedloga zakonskih i podzakonskih akata iz područja pomorskog dobra, koordinira i vodi rad Povjerenstva za granice pomorskog dobra Ministarstva koje u upravnom postupku utvrđuje granice pomorskog dobra/lučkog područja, obavlja sve stručno-tehničke poslove vezane uz rad Povjerenstva za granice pomorskog dobra Ministarstva, daje upute županijskim povjerenstvima za granice pomorskog dobra, vodi očevidnik utvrđenih granica pomorskog dobra/lučkog područja, te priprema očitovanja na predstavke građana i drugih tijela iz područja svog rada i predlaže mjere za poboljšanje.
+3.2. Sektor pomorske plovidbe, pravnih, međunarodnih poslova i EU

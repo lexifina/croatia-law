@@ -1,0 +1,3 @@
+# Članak 133.
+Odjel za izvješćivanje, informiranje i evaluaciju obavlja poslove tehničkog tajništva Sektorskog nadzornog odbora za Promet; priprema sastanke Sektorskog nadzornog odbora za Promet i izrađuje potrebne dokumente; priprema informacije za javnost o projektima financiranima od strane Europske unije; obavlja poslove vezane uz evaluaciju Operativnog programa Promet; obavlja poslove ažuriranja informacijskog sustava upravljanja (MIS); objedinjava plan nabave za projekte u sklopu Operativnog programa Promet; objedinjava prognozu novčanog tijeka za projekte u sklopu Operativnog programa Promet; prati realizaciju programa u skladu s N+3 pravilom.
+8.2.1.3. Odjel za međunarodnu suradnju

@@ -1,0 +1,3 @@
+# Članak 117.
+Odjel inspekcije autocesta i složenih cestovnih objekata obavlja poslove inspekcijskog nadzora s aspekta sigurnosti prometa nad provedbom propisa iz područja javnih cesta, prijevoza izvanrednog tereta i utjecaja cestovnog prometa na okoliš za autoceste, objekte s naplatom i složene cestovne objekte, surađuje i sudjeluje u radu međunarodnih tijela i inspekcijskih službi iz svoga djelokruga te obavlja i druge poslove koji su zakonom ili drugim propisima stavljeni u nadležnost Ministarstva, a odnose se na djelokrug Odjela.
+7.2. Sektor inspekcije sigurnosti željezničkog prometa, žičara i pošte

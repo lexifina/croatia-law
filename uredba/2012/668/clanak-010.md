@@ -1,0 +1,3 @@
+# Članak 10.
+Odjel za razvoj ljudskih potencijala obavlja poslove vezane za provedbu i uspješnost procesa stručnog usavršavanja službenika Ministarstva, praćenje rada, napredovanja i nagrađivanja službenika i namještenika Ministarstva, vodi propisane očevidnike, sudjeluje u izradi i praćenju provedbe strategija, programa i planova izobrazbe za Ministarstvo, priprema i prati realizaciju ugovora o osposobljavanju i stručnom usavršavanju, obavlja koordinaciju edukacije po područnim jedinicama Ministarstva sukladno katalogu programa izobrazbe središnjeg tijela državne uprave nadležnog za službeničke odnose, prati rad vježbenika, sudjeluje u postupku izbora mentora vježbenicima i praćenju vježbeničke prakse.
+2.1.1.3. Odjel za pravne poslove

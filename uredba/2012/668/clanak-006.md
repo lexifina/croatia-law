@@ -1,0 +1,7 @@
+# Članak 6.
+Služba za ljudske potencijale obavlja upravne i stručne poslove u vezi s provedbom zakona i drugih propisa iz područja radnopravnih odnosa, brine o planiranju i upravljanju ljudskim potencijalima u Ministarstvu i njihovom razvoju. Provodi postupak prijma u državnu službu u suradnji sa središnjim tijelom državne uprave nadležnim za službeničke odnose. Obavlja poslove vezane za raspoređivanje, premještaj i prestanak državne službe službenika, odnosno radnog odnosa namještenika Ministarstva i poslove u vezi s drugim pravima i obvezama službenika i namještenika Ministarstva, vodi osobni očevidnik državnih službenika i namještenika, unosi i ažurira podatke u Registru zaposlenih u javnom sektoru, sudjeluje u izradi i praćenju provedbe strategija, progama i plana izobrazbe za Ministarstvo. Obavlja poslove vezane za provođenje postupaka utvrđivanja odgovornosti službenika za lake i teške povrede službene dužnosti, davanje stručnih mišljenja na zakone i druge propise iz djelokruga Službe, te druge pravne poslove vezane za ljudske potencijale. Obavlja poslove vezane za pisarnicu i pismohranu, te druge poslove u okviru svoga djelokruga.
+Za obavljanje poslova Službe za ljudske potencijale, ustrojavaju se sljedeći odjeli:
+2.1.1.1. Odjel za planiranje i upravljanje ljudskim potencijalima i opće poslove
+2.1.1.2. Odjel za razvoj ljudskih potencijala
+2.1.1.3. Odjel za pravne poslove.
+2.1.1.1. Odjel za planiranje i upravljanje ljudskim potencijalima i opće poslove

@@ -1,0 +1,2 @@
+# Članak 140.
+Odjel za potporu sustavu obavlja poslove izrade internih procedura i priručnika; pruža informatičku podršku Sektoru, obavlja poslove vezane uz upravljanje nepravilnostima i rizicima; koordinira izradu izjave o jamstvu, prati preporuke revizora; pruža pravnu potporu Sektoru; vodi poslove iz područja upravljanja ljudskim potencijalima na razini Sektora; vodi brigu o edukaciji djelatnika Sektora, kao i o edukaciji djelatnika korisničkih institucija, te obavlja i druge poslove koji proizlaze iz prirode posla, odnosno nadležnosti Sektora.

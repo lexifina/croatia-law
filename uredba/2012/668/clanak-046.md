@@ -1,0 +1,3 @@
+## Odjel za inspekcijske poslove
+# Članak 46.
+Odjel za inspekcijske poslove iz članaka 40. do 43. ove Uredbe obavlja poslove inspekcijskog nadzora nad lukama, pristaništima i sidrištima; inspekcijskog nadzora nad tehničkim održavanjem vodnog puta i objekata sigurnosti plovidbe, inspekcijskog nadzora nad gradnjom na vodnom putu u pogledu utjecaja na sigurnost plovidbe. Odjel obavlja poslove inspekcijskog nadzora nad prijevozom putnika i stvari u pogledu zaštite ljudskih života i imovine, kao i poslove inspekcijskog nadzora nad zaštitom od onečišćenja s plovila te ostale inspekcijske poslove sukladno odredbama Zakona o plovidbi i lukama unutarnjih voda, podzakonskih akata te primjenjivih međunarodnih konvencija.

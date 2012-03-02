@@ -1,0 +1,3 @@
+# Članak 137.
+Odjel za projekte građenja obavlja stručne poslove praćenja projekata kojima se realizira građenje objekata prometne infrastrukture, formira projektne timove, prati izvođenje radova građenja sukladno tehničkoj dokumentaciji izrađenoj u fazi pripreme, i prati ostale vrste međusobno povezanih ugovora. Odjel prati financijske tokove i ostale pokazatelje vezane za realizaciju projekata iz nadležnosti Odjela, sudjeluje, između ostaloga, na sastancima koji prate provedbu projekata, sastavlja izvještaje i daje potrebne podatke o realizaciji, kao i druge poslove koji proizlaze iz prirode posla, odnosno nadležnosti Sektora.
+8.2.3. Služba za financijsko upravljanje i potporu sustavu

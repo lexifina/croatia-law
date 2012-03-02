@@ -1,0 +1,3 @@
+# Članak 139.
+Odjel za kontrolu i financijsko vođenje izrađuje financijske planove za trogodišnje razdoblje, prati izvršenje i izvještava u suradnji s Upravom za proračun i financije, te provodi administrativne i terenske kontrole korištenja nacionalnih sredstava i sredstava iz fondova Europske unije. Kontrole uključuju postupke za verifikaciju načina korištenja sredstava koje se odnose na operacije u sklopu odobrenog Operativnog programa za promet i plana proračuna za Sektor, provjeru da li se sredstva koriste u skladu s ciljevima programa i plana, verifikacije pokrivaju administrativne, financijske, tehničke i fizičke aspekte operacija.
+8.2.3.2. Odjel za potporu sustavu
