@@ -1,0 +1,10 @@
+# Članak 10.
+Služba za proračun i financije obavlja stručne poslove koji se odnose na: analitičko-planske, obračunske, računovodstveno-knjigovodstvene, unutarnje kontrole, koordinacijske, normativno-pravne, operativne i druge poslove vezane uz državni proračun i financiranje Ministarstva.
+Služba izrađuje prijedlog financijskog plana Ministarstva, izrađuje godišnji plan i mjesečne planove, izrađuje propisana financijska izvješća, na temelju dostavljenih naloga za plaćanje provodi prethodnu kontrolu namjenskog trošenja proračunskih sredstava u okviru odobrenih proračunom, koordinira izvršenje proračunskih rashoda putem državne riznice i obavlja poslove platnog prometa, obavlja poslove proračunskog računovodstva i poslove vođenja pomoćnih analitičkih knjigovodstvenih evidencija, priprema isplate korisnicima prava na temelju zahtjeva prvostupanjskih tijela i drugih nadležnih službi, obračun i isplatu plaća i naknada, sudjeluje u izradi nacrta prijedloga zakona i drugih propisa iz svog djelokruga rada, vodi brigu o čuvanju knjigovodstvenih isprava i materijalno-
+-financijske dokumentacije.
+Služba koordinira izradu Strateškog plana Ministarstva, kao i izvješćivanja o ostvarenim pokazateljima iz Strateškog plana.
+U okviru svog djelokruga, Služba koordinira poslove vezane za razvoj financijskog upravljanja, vodi interne evidencije o troškovima i mjestima nastanka troška, te uspostavlja sustav izvješćivanja u svrhu učinkovitog upravljanja proračunskim sredstvima po programima.
+Služba sudjeluje u razvoju sustava prethodnih i naknadnih kontrola u procesima planiranja, realizacije i praćenja realizacije proračunskih sredstava.
+Služba izrađuje pisane interne akte (upute/naputke) kojima se uređuju poslovi iz proračunskog ciklusa kao što su planiranje, izrada financijskih planova, obrada i kolanje dokumentacije, priprema izvješća, nabava i ugovaranja i sl.
+Služba obavlja i druge poslove koji su joj stavljeni u nadležnost posebnim zakonom ili drugim propisima.
+2.2.2. Služba za isplate trajnih prava i informatizaciju
