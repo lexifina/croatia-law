@@ -1,0 +1,6 @@
+# Članak 35.
+Sektor za poslovanje visokih učilišta i studentski standard obavlja upravne i stručne poslove vezane uz provođenje zakona i drugih propisa iz područja visokog obrazovanja; izradu podloga za donošenje odluka o financiranju visokog obrazovanja, praćenje izdataka za zaposlene i troškove visokih učilišta, praćenje popune radnih mjesta na javnim visokim učilištima; prati i analizira provedbu upisa studenata, uspješnost procesa visokog obrazovanja, angažman nastavnika i ostalih djelatnika visokih učilišta, sukladno zakonom propisanim uvjetima; priprema i predlaže izvješća o uvjetima za početak rada visokih učilišta, izvješća o vrednovanju visokih učilišta i studijskih programa, vodi Upisnik visokih učilišta, registar studijskih programa; izrađuje odgovarajuće upute kojima se regulira i unaprjeđuje proces visokog obrazovanja; vodi baze podataka o visokom obrazovanju, analizira i provodi isplatu subvencija troškova studija za preddiplomske, diplomske i poslijediplomske sveučilišne studije, te obavlja poslove vezane uz studentski standard. Sektor obavlja i druge poslove iz svoga djelokruga.
+U Sektoru se ustrojavaju:
+4.1.1. Služba za poslovanje visokih učilišta
+4.1.2. Služba za studentski standard.
+4.1.1. Služba za poslovanje visokih učilišta

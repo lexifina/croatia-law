@@ -1,0 +1,3 @@
+## I. OPĆE ODREDBE
+# Članak 1.
+Ovom Uredbom uređuje se unutarnje ustrojstvo, nazivi unutarnjih ustrojstvenih jedinica Ministarstva znanosti, obrazovanja i sporta (u daljnjem tekstu: Ministarstvo) i njihov djelokrug, način upravljanja tim jedinicama, okvirni broj potrebnih državnih službenika i namještenika za obavljanje poslova iz nadležnosti tih jedinica, način planiranja poslova, radno vrijeme, održavanje uredovnih dana, kao i druga pitanja od osobitog značaja za rad Ministarstva.

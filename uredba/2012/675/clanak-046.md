@@ -1,0 +1,6 @@
+# Članak 46.
+Sektor za odgojno-obrazovni sustav prati i analizira stanje u predškolskom, osnovnoškolskom i srednjoškolskom sustavu odgoja i obrazovanja, obavlja poslove vezane uz planiranje potrebnih sredstava u državnom proračunu za sustav predškolskog odgoja, osnovnoškolskog i srednjoškolskog odgoja i obrazovanja, brine se o izvršavanju zakona i drugih propisa iz područja predškolskog, osnovnoškolskog i srednjoškolskog odgoja i obrazovanja, predlaže mjere za unaprjeđenje sustava predškolskog, osnovnoškolskog i srednjoškolskog odgoja i obrazovanja, uspostavlja, održava i razvija sustav osiguranja kvalitete rada školskih ustanova u Republici Hrvatskoj, obavlja poslove vezane uz organizaciju hrvatske nastave u inozemstvu, surađuje s nadležnim ustanovama na izradi i razvoju prijedloga zakonskih i drugih propisa te izradi analiza i prijedloga javnih politika kojima se uređuje i unaprjeđuje predškolski, osnovnoškolski i srednjoškolski sustav odgoja i obrazovanja. Sektor obavlja i druge poslove iz svoga djelokruga.
+U Sektoru se ustrojavaju:
+5.1.1. Služba za predškolski i osnovnoškolski odgoj i obrazovanje
+5.1.2. Služba za srednjoškolski odgoj i obrazovanje.
+5.1.1. Služba za predškolski i osnovnoškolski odgoj i obrazovanje

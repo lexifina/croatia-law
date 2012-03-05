@@ -1,0 +1,3 @@
+# Članak 27.
+Odjel za znanstvene projekte i programe obavlja upravne i stručne poslove vezane uz: utvrđivanje projektnih kriterija, pripremu, provedbu, praćenje, vrednovanje te financijsko upravljanje projektima temeljnih znanstvenih istraživanja, priprema javne pozive, provodi recenzije, vrši odabir i zaključuje ugovore o projektima, te provodi nadzor, evaluaciju i praćenje rezultata znanstvenih projekata. Odjel obavlja poslove vezane uz projekte financiranja znanstvene infrastrukture, uključujući kapitalnu znanstvenu opremu, znanstvenu literaturu i ostalu znanstvenu infrastrukturu. Odjel obavlja i druge poslove iz svoga djelokruga.
+3.1.2.2. Odjel za tehnologiju

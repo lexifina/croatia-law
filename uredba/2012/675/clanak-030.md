@@ -1,0 +1,6 @@
+# Članak 30.
+Služba za programe i projekte Europske unije obavlja upravne i stručne poslove u sklopu provedbe Instrumenta pretpristupne pomoći - IPA, za III. komponentu - Regionalni razvoj - Regionalna konkurentnost, kao i za buduće programe koji će se financirati iz proračuna Europske unije, odnosno Strukturnih fondova i Kohezijskog fonda. Služba također obavlja poslove vezane uz odabir, pripremu i provedbu projekata financiranih sredstvima iz fondova Europske unije. Služba surađuje s drugim službama i odjelima, tijelima državne uprave te drugim institucijama uključenim u upravljanje i korištenje sredstava iz fondova Europske unije. Služba uspostavlja sustav za upravljanje nepravilnostima, sustav za upravljanje rizicima te osigurava dostupnost dokumenata i informacija u svrhu uspostavljanja revizijskog traga. Služba izrađuje prijedloge različitog informativnog i promidžbenog materijala u svrhu informiranja javnosti i potencijalnih krajnjih korisnika o projektima financiranim sredstvima iz fondova Europske unije. Služba također prati propise međunarodnih organizacija i Europske unije. Služba obavlja i druge poslove iz svoga djelokruga.
+U Službi se ustrojavaju:
+3.2.1.1. Odjel za pripremu i provedbu projekata Europske unije
+3.2.1.2. Odjel za praćenje projekata Europske unije.
+3.2.1.1. Odjel za pripremu i provedbu projekata Europske unije

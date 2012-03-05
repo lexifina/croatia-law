@@ -1,0 +1,3 @@
+# Članak 17.
+Odjel za rashode za zaposlene u osnovnim i srednjim školama vodi evidenciju zaposlenika osnovnih i srednjih škola, radi obračun potrebnih sredstava za bruto plaće zaposlenika i drugih naknada sukladno kolektivnim ugovorima i važećim zakonskim propisima. Odjel prikuplja podatke i priprema analize o vrsti i strukturi plaćanja s ciljem planiranja potrebnih sredstava za bruto plaće zaposlenih u sustavu osnovnog i srednjeg školstva te s ciljem provedbe politike zapošljavanja. Odjel obavlja i druge poslove iz svoga djelokruga.
+2.3.1.2. Odjel za rashode za zaposlene u sustavu znanosti i visokog obrazovanja

@@ -1,0 +1,6 @@
+# Članak 63.
+Sektor za razvoj sporta uspostavlja nadzor nad cjelokupnim sustavom sporta (Hrvatski olimpijski odbor - HOO, Hrvatski paraolimpijski odbor - HPO, Hrvatski športski savez gluhih - HŠSG, nacionalni sportski savezi, sportska udruženja i klubovi) te prati stanje pravne regulative sporta u suradnji s jedinicama lokalne i područne (regionalne) samouprave, sudjeluje u stalnim tijelima Vijeća Europe i drugim međunarodnim organizacijama u području sporta, te informatičkim sustavom prati cjelokupno stanje u sportu u Republici Hrvatskoj. Obavlja poslove pripreme stručnih podloga za izradu zakona, pravilnika i drugih podzakonskih akata iz djelokruga Sektora; izdaje isprave u području sporta; vodi registar i evidencije prema standardima Europske unije, koordinira rad, te pruža stručnu pomoć jedinicama lokalne i područne (regionalne) samouprave, sudjeluje u pripremi izrade nacionalnog programa sporta (strategije razvoja sporta) u svim njegovim segmentima. Sektor obavlja i druge poslove koji su zakonom i/ili drugim propisima stavljeni u nadležnost Ministarstva, a odnose se na razvoj sporta. Sektor obavlja i druge poslove iz svoga djelokruga.
+U Sektoru se ustrojavaju:
+6.2.1. Služba za upravni i inspekcijski nadzor u sportu
+6.2.2. Služba za sportska udruženja i međunarodne poslove.
+6.2.1. Služba za upravni i inspekcijski nadzor u sportu

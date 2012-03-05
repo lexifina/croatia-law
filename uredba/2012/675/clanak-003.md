@@ -1,0 +1,3 @@
+## 1. KABINET MINISTRA
+# Članak 3.
+Kabinet ministra je posebna ustrojstvena jedinica Ministarstva koja za ministra i njegova zamjenika obavlja: protokolarne, koordinacijske, stručne i administrativne poslove u vezi s realizacijom programa aktivnosti ministra i njegova zamjenika, poslove u vezi s osiguranjem pravodobne dostave materijala za Vladu Republike Hrvatske i Hrvatski sabor; poslove u vezi s odnosima sa sredstvima javnog informiranja i online komunikacijom; poslove u vezi s predstavkama i pritužbama građana; koordiniranje poslova međunarodne suradnje; stručne i administrativne poslove u vezi s evidencijom i pohranom povjerljive pošte. Kabinet ministra obavlja i druge poslove iz svoga djelokruga.

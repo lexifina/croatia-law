@@ -1,0 +1,3 @@
+# Članak 43.
+Odjel za međunarodnu suradnju i europske poslove nadzire i koordinira provedbu programa za mobilnost i cjeloživotno učenje, koordinira rad vezano uz suradnju u Europskoj uniji, uključujući sudjelovanje na sastancima odgovarajućih radnih grupa Vijeća Europske unije, vodi hrvatske lektorate u inozemstvu i inozemne lektorate u Hrvatskoj; vodi poslove vezane uz mobilnost u visokom obrazovanju, sudjeluje u izradi projekata iz fondova Europske unije, vodi izradu izvješća u poslovima iz svoje nadležnosti. Odjel obavlja i druge poslove iz svoga djelokruga.
+4.2.2.2. Odjel za Hrvatski kvalifikacijski okvir
