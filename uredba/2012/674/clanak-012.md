@@ -1,0 +1,7 @@
+## 4. SAMOSTALNA SLUŽBA ZA PRISTUPNE I STRUKTURNE FONDOVE
+# Članak 12.
+Samostalna služba za pristupne i strukturne fondove obavlja stručne, administrativne i upravno-pravne poslove koji se odnose na koordinaciju, programiranje, poticanje, praćenje provedbe, te planiranje godišnjih i višegodišnjih projekata financiranih iz pretpristupnih programa pomoći, bilateralne pomoći te strukturnih fondova u području zdravstva; obavlja poslove koordinacije izrada strateških i operativnih dokumenata; obavlja poslove koji se odnose na suradnju i koordinaciju rada kroz suradnju s unutarnjim ustrojstvenim jedinicama unutar Ministarstva te s drugim nadležnim državnim i javnim tijelima; provodi projekte tehničke pomoći; sudjeluje u planiranju državnog proračuna; upravlja rizicima; prati nacionalne i međunarodne dokumente i propise pretpristupne pomoći, programa bilateralne pomoći, kohezijske politike i strukturnih fondova; prati rad Europskog fonda za regionalni razvoj, Europskog socijalnog fonda i drugih strukturnih fondova Europske unije; brine da svaki rashod bude opravdan stvarnom potrebom i potvrđen prethodnom kontrolom; obavlja i druge poslove u okviru svoga djelokruga.
+Za obavljanje poslova iz djelokruga Samostalne službe za pristupne i strukturne fondove ustrojavaju se:
+4.1. Odjel za koordinaciju i programiranje projekata
+4.2. Odjel za praćenje provedbe projekata.
+4.1. Odjel za koordinaciju i programiranje projekata

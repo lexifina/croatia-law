@@ -1,0 +1,7 @@
+## 6. GLAVNO TAJNIŠTVO MINISTARSTVA
+# Članak 16.
+Glavno tajništvo Ministarstva obavlja upravne i stručne poslove vezano za: poduzimanje mjera za osiguravanje učinkovitosti u radu Ministarstva; tehničko usklađivanje rada unutarnjih ustrojstvenih jedinica u sastavu Ministarstva; pripremu, praćenje i ostvarivanje plana rada Ministarstva; pripremu podloga za donošenje odluka ministra, zamjenika ministra i glavnog tajnika iz djelokruga rada Ministarstva; koordinaciju pripreme strateškog plana Ministarstva; izradu nacrta prijedloga propisa o unutarnjem ustrojstvu i unutarnjem redu Ministarstva; službeničke odnose, planiranje, razvoj i upravljanje ljudskim potencijalima u Ministarstvu; pripremu rješenja i druge stručne poslove iz područja službeničkih odnosa za službenike, te radne odnose za namještenike Ministarstva; brigu o urednom i pravilnom korištenju imovine i sredstava za rad; pripremu podloga za postupke javne nabave iz svoga djelokruga rada za uže Ministarstvo; stručne poslove, informatičke poslove i poslove informatičke tehnologije; poslove zaštite na radu i protupožarne zaštite; opće i tehničke poslove; brine da je svaki rashod opravdan stvarnom potrebom i potvrđen prethodnom kontrolom.
+Za obavljanje poslova Glavnog tajništva Ministarstva ustrojavaju se:
+6.1. Služba za ljudske potencijale i stručne poslove
+6.2. Služba za opće, tehničke i informatičke poslove.
+6.1. Služba za ljudske potencijale i stručne poslove

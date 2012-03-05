@@ -1,0 +1,3 @@
+# Članak 79.
+Odjel za suradnju s pravosudnim tijelima Europske unije surađuje s pravosudnim tijelima članica država Europske unije iz djelokruga zdravstvene zaštite i zdravstvenog osiguranja; surađuje s Europskim sudom za ljudska prava, obavlja poslove praćenja sudske prakse Europskog suda za ljudska prava; prati nacionalne propise radi učinkovitije suradnje s pravosudnim tijelima Europske unije te donosi smjernice i predlaže mjere; obavlja poslove vođenja očevidnika, priprema izvješća i planove te druge poslove u okviru svoga djelokruga; brine da svaki rashod bude opravdan stvarnom potrebom i potvrđen prethodnom kontrolom.
+10.2. Sektor za proračun i financije

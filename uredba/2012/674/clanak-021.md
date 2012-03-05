@@ -1,0 +1,3 @@
+# Članak 21.
+Odjel za opće poslove obavlja prijam i dostavu pošte, urudžbiranje, raspoređivanje, otpremu i arhiviranje akata; brine o izradi i poništenju pečata i štambilja Ministarstva i vodi evidencije o istima; planira kratkoročne i srednjoročne radne zadatke Odjela; priprema podloge za postupke javne nabave iz djelokruga rada Odjela; sudjeluje u planiranju državnog proračuna; izrađuje načine postupanja o različitim procesima rada Odjela; analizira funkcije iz djelokruga rada Odjela; podnosi izvješća o učinjenom u kvantitativnom i kvalitativnom smislu; brine o tome da je svaki rashod opravdan stvarnom potrebom i potvrđen prethodnom kontrolom.
+6.2.2. Odjel za tehničke poslove

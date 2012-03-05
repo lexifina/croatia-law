@@ -1,0 +1,6 @@
+# Članak 73.
+Sektor za pravne poslove obavlja upravne i druge poslove vezane uz izradu nacrta strategija i nacionalnih programa, nacrta prijedloga zakona i podzakonskih akata iz područja zdravstvene zaštite i zdravstvenog osiguranja, prati usklađenost propisa iz područja zdravstvene zaštite i zdravstvenog osiguranja te javnog zdravstva s propisima Europske unije; obavlja upravne poslove vezane uz provođenje zakona i drugih propisa iz područja zdravstvene zaštite i zdravstvenog osiguranja te prikuplja podatke radi izrade potrebnih izvješća i analiza iz djelokruga rada Sektora; priprema odgovore na pitanja zastupnika Hrvatskoga sabora, Vlade Republike Hrvatske i drugih tijela državne uprave, udruga građana te pravnih i fizičkih osoba; surađuje s pravosudnim tijelima u Republici Hrvatskoj i u Europskoj uniji; zastupa Ministarstvo u upravnim sporovima; prati sudsku praksu vezano uz primjenu propisa na području zdravstvene zaštite i zdravstvenog osiguranja u Republici Hrvatskoj i Europskoj uniji; podnosi izvješća o učinjenom u kvantitativnom i kvalitativnom smislu; brine da svaki rashod bude opravdan stvarnom potrebom i potvrđen prethodnom kontrolom.
+Za obavljanje poslova Sektora za pravne poslove ustrojavaju se:
+10.1.1. Služba za normativne poslove
+10.1.2. Služba za zastupanje i suradnju s pravosudnim tijelima.
+10.1.1. Služba za normativne poslove
