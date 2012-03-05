@@ -1,0 +1,28 @@
+O b r a z l o ž e n j e
+1. Provođenje nadzora nad ustavnošću i zakonitošću državnog referenduma zatražila je 1. ožujka 2012. Stranka hrvatskih branitelja (u daljnjem tekstu: podnositeljica), koju zastupa dr. Milan Ribičić, dopredsjednik stranke.
+2. Postupak nadzora nad ustavnošću i zakonitošću državnog referenduma uređen je člancima 87. do 90. i člankom 96. Ustavnog zakona o Ustavnom sudu Republike Hrvatske ("Narodne novine" broj 99/99., 29/02. i 49/02. - pročišćeni tekst, u daljnjem tekstu: Ustavni zakon), koji glase:
+"Članak 87.
+Ustavni sud:
+(...)
+- nadzire ustavnost i zakonitost državnog referenduma,
+(...)
+Članak 88.
+Političke stranke, kandidati, najmanje 100 birača ili najmanje 5% birača izborne jedinice u kojoj se provode izbori, ovlašteni su tijekom izbora, odnosno najkasnije do isteka roka od 30 dana od dana objavljivanja rezultata izbora, zatražiti od Ustavnog suda da u izvršavanju nadzora nad ustavnošću i zakonitošću izbora poduzima odgovarajuće mjere ako se te aktivnosti provode suprotno Ustavu i zakonu.
+Članak 89.
+Kad se utvrdi da sudionici u izborima postupaju protivno Ustavu ili zakonu, Ustavni sud će o tome obavijestiti javnost putem sredstava javnog priopćavanja, po potrebi upozoriti nadležna tijela, a u slučaju povrede koja je utjecala ili je mogla biti od utjecaja na rezultat izbora, poništit će sve ili pojedine izborne radnje i odluke, koje su prethodile takvoj povredi.
+Članak 90.
+(1) Postupak nadzora nad ustavnošću i zakonitošću izbora može se pokrenuti u roku iz članka 88. ovoga Ustavnog zakona, računajući od dana objavljivanja rezultata izbora u 'Narodnim novinama'.
+(2) Rok iz stavka 1. ovoga članka počinje teći danom izlaska 'Narodnih novina' iz tiska, s tim da je Ustavni sud ovlašten utvrditi i stvarni dan izlaska 'Narodnih novina' iz tiska."
+"Članak 96.
+Ustavni sud će nadzirati ustavnost i zakonitost provođenja državnog referenduma i poduzimati mjere odgovarajućom primjenom odredaba članka 87. do 96. ovoga Ustavnog zakona."
+Ne postoje pretpostavke za odlučivanje o biti stvari.
+3. Članak 32. Ustavnog zakona propisuje:
+"Članak 32.
+Ustavni sud će rješenjem odbaciti zahtjev, ... i u drugim slučajevima kad ne postoje pretpostavke za odlučivanje o biti stvari."
+4. Ustavni sud je po zahtjevu podnositeljice za provođenje nadzora nad ustavnošću i zakonitošću državnog referenduma o pristupanju Republike Hrvatske Europskoj uniji, koji je raspisan Odlukom Hrvatskog sabora 23. prosinca 2011. ("Narodne novine" broj 151/11.), a održan 22. siječnja 2012., već donio odluku broj: U-VIIR-515/2012 od 31. siječnja 2012., kojom je meritorno odlučio o zahtjevu podnositeljice. Navedenom odlukom Ustavnog suda zahtjev podnositeljice za provođenje nadzora nad ustavnošću i zakonitošću državnog referenduma o pristupanju Republike Hrvatske Europskoj uniji je odbijen.
+Također, Ustavni sud primjećuje da je zahtjev koji je predmet ovog ustavnosudskog postupka, podnositeljica podnijela 1. ožujka 2012., dakle nakon što je Ustavni sud odlukom broj: U-VIIR-515/2012 od 31. siječnja 2012. odbio njezin zahtjev te da su prigovori podnositeljice u ovom zahtjevu za provođenje nadzora nad ustavnošću i zakonitošću državnog referenduma istovrsni onima u ranije podnesenom zahtjevu podnositeljice o kojem je Ustavni sud već meritorno odlučio.
+Ustavni sud također smatra potrebnim napomenuti da su razlozi navedeni u zahtjevu koji je predmet ovog ustavnosudskog postupka istovjetni razlozima (druge podnositeljice) koje je Ustavni sud već razmotrio u odluci broj: U-VIIR-601/2012 od 15. siječnja 2012. ("Narodne novine" broj 20/12. i www.usud.hr).
+5. Slijedom navedenog, Ustavni sud je zbog nepostojanja pretpostavki za provođenje nadzora nad ustavnošću i zakonitošću državnog referenduma, na temelju članka 32., u vezi s člancima 88., 92. stavkom 1. i 96. Ustavnog zakona, riješio kao u izreci rješenja.
+USTAVNI SUD REPUBLIKE HRVATSKE
+Broj: U-VIIR-1458/2012
+Zagreb, 5. ožujka 2012.
