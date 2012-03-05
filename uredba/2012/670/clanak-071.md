@@ -1,0 +1,2 @@
+# Članak 71.
+Odjel za zemljišnoknjižnu administraciju izrađuje nacrte prijedloga zakona i podzakonskih akata kojima se uređuju zemljišne knjige, unutarnji ustroj zemljišnoknjižnih odjela u sudovima, pruža stručnu pomoć i nadzire rad zemljišnoknjižnih odjela u sudovima, sudjeluje u izradi programa i stručnog osposobljavanja zemljišnoknjižnih službenika, priprema stručno mišljenje o nacrtima prijedloga propisa koje su izradila druga središnja tijela državne uprave, te obavlja i druge poslove iz svojega djelokruga.

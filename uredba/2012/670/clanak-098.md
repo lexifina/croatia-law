@@ -1,0 +1,3 @@
+# Članak 98.
+Odjel za sukcesiju organizira, usklađuje i neposredno provodi poslove u vezi sa sukcesijom bivše SFRJ, ocjenjuje i koordinira poslove ministarstva i drugih tijela državne uprave na provođenju sukcesije, daje Vladi Republike Hrvatske i drugim tijelima državne uprave mišljenja o stručnim pitanjima sukcesije, obavlja i druge pravne, stručne i administrativne poslove vezane za sukcesiju. Priprema stručna mišljenja o nacrtima prijedloga propisa koje su izradila druga središnja tijela državne uprave, te obavlja i druge poslove iz svojega djelokruga.
+6.2. Sektor za međunarodnu pravnu pomoć i pravosudnu suradnju s državama članicama Europske unije

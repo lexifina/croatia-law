@@ -1,0 +1,3 @@
+# Članak 31.
+Služba za razvoj informacijskog sustava vodi i nadzire projekte informatizacije pravosudnih tijela i nadzire izvršenje ugovora, analizira korisničke potrebe za informatizacijom poslovnih procesa, predlaže pripreme i radi reinženjering poslovnih procesa u svrhu učinkovitije informatizacije, kontaktira s tvrtkama davateljima IT usluga koje se bave izradom softvera s ciljem izrade složenijih programskih rješenja, samostalno razvija jednostavnija programska rješenja, organizira informatičku edukaciju djelatnika u pravosudnim tijelima te obavlja i druge poslove u okviru svojega djelokruga.
+2.4.2. Služba za održavanje informacijskog sustava

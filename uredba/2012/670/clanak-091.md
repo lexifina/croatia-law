@@ -1,0 +1,7 @@
+# Članak 91.
+Služba za Europsku uniju obavlja stručne poslove vezane uz vođenje dijaloga s institucijama Europske unije u dijelu koji se odnosi na pravosuđe, a posebice u pogledu pitanja koja se nalaze u nadležnosti Ministarstva, koordinira rad ustrojstvenih jedinica Ministarstva čiji će predstavnici sudjelovati u radu institucija Europske unije, prati razvoj pravne stečevine Europske unije iz nadležnosti Ministarstva, izrađuje izvješća za potrebe praćenja ostvarenog napretka u ispunjavanju preuzetih obveza u procesu pristupnih pregovora i kriterija za članstvo iz djelokruga pravosuđa, koordinira usklađivanje nacionalnog zakonodavstva s pravnom stečevinom Europske unije u područjima iz djelokruga Ministarstva, priprema stručne podloge za sastanke ministara pravosuđa država članica Europske unije, sudjeluje u izradi propisa iz nadležnosti Ministarstva radi osiguranja njihove usklađenosti s pravnom stečevinom Europske unije te daje mišljenja na nacrte propisa u pitanjima iz djelokruga Službe. Služba sudjeluje u izradi strateških dokumenata za zaštitu i unapređivanje ljudskih prava i prava nacionalnih manjina, te prati njihovu primjenu u području pravosuđa.
+Za obavljanje poslova iz djelokruga Službe za Europsku uniju ustrojavaju se sljedeći odjeli:
+6.1.1.1. Odjel za koordinaciju s Europskom unijom
+6.1.1.2. Odjel za prilagodbu hrvatskog pravnog sustava europskom pravnom sustavu
+6.1.1.3. Odjel za ljudska prava.
+6.1.1.1. Odjel za koordinaciju s Europskom unijom

@@ -1,0 +1,3 @@
+# Članak 92.
+Odjel za koordinaciju s Europskom unijom obavlja stručne poslove vođenja dijaloga s Europskom unijom kroz pripremu materijala potrebnih za sudjelovanje na radnim skupinama u Vijeću Europske unije i drugim institucijama Europske unije koji se odnose na pravosuđe i temeljna prava, priprema stručne podloge za sastanke ministara pravosuđa država članica Europske unije, izrađuje izvješća za potrebe praćenja ostvarenog napretka u ispunjavanju kriterija za članstvo iz djelokruga pravosuđa, daje mišljenja na nacrte propisa u pitanjima iz djelokruga Službe, te obavlja i druge poslove iz svojega djelokruga.
+6.1.1.2. Odjel za prilagodbu hrvatskog pravnog sustava europskom pravnom sustavu

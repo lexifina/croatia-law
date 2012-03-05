@@ -1,0 +1,3 @@
+# Članak 57.
+Služba za materijalno građansko pravo obavlja upravne i stručne poslove vezane za izradu nacrta prijedloga zakona i podzakonskih akata i drugih propisa iz područja obveznog i nasljednog prava, prati provedbu zakona i podzakonskih akata i drugih propisa u djelokrugu rada Službe, priprema stručna mišljenja u vezi s primjenom i provedbom propisa, analizira i daje prijedloge za usklađenje tih propisa s pravom Europske unije, priprema stručna mišljenja o nacrtima prijedloga propisa koje su izradila druga središnja tijela državne uprave, te obavlja i druge poslove iz svojega djelokruga.
+4.1.2. Služba za procesno pravo, ovršno pravo i pravo društava

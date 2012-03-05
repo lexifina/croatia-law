@@ -1,0 +1,3 @@
+# Članak 233.
+Odsjek prijama, otpusta i matice zatvorenika obavlja poslove upoznavanja s osobnim i kriminološkim osobinama zatvorenika, izrade konačnog prijedloga pojedinačnog programa izvršavanja kazne zatvora, utvrđivanja potrebe za posebnim programima postupanja upoznavanja zatvorenika s pojedinačnim programom izvršavanja i kućnim redom, pravima i obvezama zatvorenika, izrade programa prihvata poslije otpusta i otpuštanja zatvorenika, vođenja podataka matice zatvorenika, računanje isteka izdržavanja kazne te izrade i obrade statističkih podataka o zatvorenicima i tijeku izdržavanja kazne zatvora.
+8.2.2. Odsjek provedbe programa izvršavanja kazne zatvora

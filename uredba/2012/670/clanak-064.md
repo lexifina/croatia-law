@@ -1,0 +1,3 @@
+# Članak 64.
+Odjel za drugostupanjske postupke provodi drugostupanjske postupke izvlaštenja i naknade za imovinu oduzetu za vrijeme jugoslavenske komunističke vladavine te ostale drugostupanjske postupke i rješava po izvanrednim pravnim lijekovima iz svoje nadležnosti. Izrađuje izvješća iz djelokruga rada Odjela i vodi evidencije o podacima potrebnim za rad Odjela. Sudjeluje u pripremi nacrta prijedloga zakona i drugih propisa iz svoje nadležnosti i pripremi stručnih uputa radi jedinstvenog postupanja u upravnom postupku. Priprema stručna mišljenja o nacrtima prijedloga propisa koje su izradila druga središnja tijela državne uprave, te obavlja i druge poslove iz svojega djelokruga.
+4.2.1.2. Odjel za upravni nadzor

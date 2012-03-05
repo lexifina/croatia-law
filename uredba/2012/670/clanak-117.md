@@ -1,0 +1,3 @@
+# Članak 117.
+Odjel unaprjeđenja prostornih uvjeta i infrastrukture kaznenih tijela obavlja upravne i stručne poslove vezane za planiranje izgradnje, adaptacije i investicijskog održavanja zgrada za smještaj zatvorenika i maloljetnika i njihovu prilagodbu europskim standardima. Prati stanje objekata i infrastrukture kaznionica, zatvora, odgojnih zavoda, Centra za dijagnostiku u Zagrebu i Centra za izobrazbu te predlaže mjere za njihovo unaprjeđenja. Organizira rad zatvorenika raspoređenih na rad u radionici održavanja građevinskih objekata. Odjel sudjeluje u obavljanju unutarnjeg nadzora iz svojeg djelokruga.
+7.1.2. Služba tretmana

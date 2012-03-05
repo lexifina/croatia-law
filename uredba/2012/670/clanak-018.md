@@ -1,0 +1,3 @@
+# Članak 18.
+Odjel za riznicu obavlja upravne i stručne poslove za sve korisnike Razdjela Ministarstva pravosuđa (ministarstvo, pravosudna i kaznena tijela) vezane za implementaciju u sustav državne riznice za pravosudna i kaznena tijela, prati propise iz djelokruga državne riznice, obavlja nadzor nad provedbom riznice, izrađuje upute za implementaciju državne riznice, priprema i kontrolira ispravnost dokumentacije prije unosa u sustav riznice, vodi brigu o rokovima za podnošenje rezervacija i zahtjeva za plaćanje iz sustava riznice, te obavlja i druge poslove iz svojega djelokruga.
+2.2.1.3. Odjel za računovodstvo

@@ -1,0 +1,3 @@
+# Članak 76.
+Odjel za propise kaznenog procesnog prava, maloljetničkog prava i izvršavanja kaznenih sankcija obavlja upravne i stručne poslove vezano za izradu nacrta zakona i podzakonskih akta iz područja kaznenog procesnog, maloljetničkog prava i izvršavanja kaznenih sankcija, analizira i prati primjenu navedenih propisa, daje mišljenje na prijedloge za usklađenja tih propisa s pravom Europske unije, priprema stručna mišljenja o nacrtima prijedloga zakona i podzakonskih akata iz drugih oblasti prava u odnosu na kazneno procesno i maloljetničko pravo i izvršavanje kaznenih sankcija, te obavlja i druge poslove iz svojega djelokruga.
+5.1.2. Služba za evidencije i pomilovanja

@@ -1,0 +1,3 @@
+# Članak 26.
+Odjel za međunarodne programe i projekte uz suradnju s relevantnim upravama planira, priprema i vrši nadzor nad provedbom bilateralnih projekata i projekata sa međunarodnim organizacijama i financijskim institucijama; izrađuje analize stanja dostupnih izvora sredstava pomoći i planove za prikupljanje sredstava pomoći, te informira predstavnike međunarodne zajednice o potrebama financiranja; organizira i priprema materijale za konferencije, treninge, seminare i radionice vezano za planiranje, pripremu i provedbu projekata, te obavlja i druge poslove iz svojega djelokruga.
+2.3.2. Služba za investicije

@@ -1,0 +1,3 @@
+# Članak 75.
+Odjel za propise kaznenog materijalnog i prekršajnog prava obavlja upravne i stručne poslove vezane za izradu nacrta zakona i podzakonskih akta iz područja kaznenog materijalnog i prekršajnog prava, analizira i prati primjenu navedenih propisa, daje mišljenje na prijedloge za usklađenja tih propisa s pravom Europske unije, daje stručna mišljenja na nacrte propisa iz drugih oblasti prava u odnosu na kazneno materijalno i prekršajno pravo, te obavlja i druge poslove iz svojega djelokruga.
+5.1.1.2. Odjel za propise kaznenog procesnog prava, maloljetničkog prava i izvršavanja kaznenih sankcija

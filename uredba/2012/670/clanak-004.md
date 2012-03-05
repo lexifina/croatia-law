@@ -1,0 +1,4 @@
+## III. DJELOKRUG I USTROJSTVO UPRAVNIH ORGANIZACIJA U SASTAVU MINISTARSTVA I UNUTARNJIH USTROJSTVENIH JEDINICA
+## 1. KABINET MINISTRA
+# Članak 4.
+Kabinet ministra obavlja stručne i organizacijske poslove za ministra i zamjenika ministra u cilju omogućavanja nesmetanog i uspješnog obavljanja njegovih službenih zadataka i aktivnosti, obavljaju poslovi u vezi predstavki i pritužbi građana, obavlja protokolarne poslove, poslove ministrovih putovanja, koordinira poslove u vezi s odnosima sa sredstvima javnog priopćavanja, koordinira poslove vezane uz ostvarenje plana i programa aktivnosti ministra, poslove u vezi s praćenjem rada Vlade Republike Hrvatske i Hrvatskoga sabora i njihovih tijela, obavlja i druge stručne i administrativne poslove u vezi s ostvarivanjem programa rada i djelovanja ministra i zamjenika ministra, te obavlja i druge poslove iz svojega djelokruga.

@@ -1,0 +1,2 @@
+# Članak 33.
+Služba za informatičku potporu pruža neposrednu informatičku potporu korisnicima u svakodnevnom radu, surađuje s kontaktnim mjestima za pomoć (»call centri«) korisnicima kod kvarova i zastoja u radu i koordinira servisiranje informatičke opreme, pruža informatičku potporu drugim odjelima Sektora pri terenskom radu, vodi inventuru informatičke opreme u pravosudnim tijelima, prati informatičke probleme na terenu, te obavlja i druge poslove iz svojega djelokruga za pravosudna tijela i Ministarstvo.

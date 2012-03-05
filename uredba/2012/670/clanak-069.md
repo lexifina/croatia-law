@@ -1,0 +1,6 @@
+# Članak 69.
+Služba za zemljišnoknjižno pravo izrađuje nacrte prijedloga zakona i podzakonskih akata kojima se uređuju zemljišne knjige, upravlja u funkcionalnom dijelu zemljišno knjižnim sustavom, sudjeluje u ostvarivanju programa razvoja E-zemljišnih knjiga, upravlja domenskim dijelom zajedničkog informacijskog sustava, pohranjuje, čuva i upravlja središnjom zemljišno knjižnom arhivom, sudjeluje u izradi drugih programa i projekata upravljanja digitalnim sustavima, obavlja poslove vezanim uz uređenja posjedovne i vlasničke evidencije proizašlim iz posebnih propisa, pruža stručnu pomoć i nadzire rad zemljišnoknjižnih odjela u sudovima, sudjeluje u izradi programa i stručnog osposobljavanja zemljišnoknjižnih službenika. Priprema stručna mišljenja o nacrtima prijedloga propisa koje su izradila druga središnja tijela za poslove iz svojega djelokruga državne uprave, te obavlja i druge poslove iz domene zemljišnih knjiga utvrđene posebnim zakonom.
+Za obavljanje poslova iz djelokruga Službe za zemljišnoknjižno pravo ustrojavaju se sljedeći odjeli:
+4.3.1. Odjel za upravljanje zajedničkim informacijskim sustavom
+4.3.2. Odjel za zemljišnoknjižnu administraciju.
+4.3.1. Odjel za upravljanje zajedničkim informacijskim sustavom

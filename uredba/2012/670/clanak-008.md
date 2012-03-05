@@ -1,0 +1,3 @@
+# Članak 8.
+Odjel za razvoj ljudskih potencijala obavlja poslove izrade i analize realizacije godišnjeg plana prijama službenika, utvrđuje godišnji plan rada Ministarstva, obavlja poslove vezane za provedbu i uspješnost provedbe procesa stručnog osposobljavanja i usavršavanja službenika Ministarstva. Sudjeluje u postupku izbora mentora vježbenicima i praćenju vježbeničke prakse, praćenju radu službenika na probnom radu, vodi osobne očevidnike i druge evidencije stručnog osposobljavanja i usavršavanja državnih službenika, obavlja poslove vezane uz ocjenjivanje, prati stanje i predlaže mjere unapređenja razvoja kompetencija i karijere službenika, te obavlja i druge poslove iz svojega djelokruga.
+2.1.1.2. Odjel za upravljanje ljudskim potencijalima

@@ -1,0 +1,3 @@
+# Članak 28.
+Odjel investicijskih poslova obavlja upravne i stručne poslove vezane za planiranje izgradnje, adaptacije i investicijskog održavanja poslovnih objekata sudova i državnih odvjetništava, kapitalnih ulaganja u mrežu pravosudnih tijela, obavlja poslove zakupa poslovnog prostora za potrebe pravosudnih tijela, organizira stručne i administrativno-tehničke poslove na realizaciji izgradnje i adaptacije objekata, provodi nadzor nad izvođenjem radova i nadzor nad izvršavanjem ugovora, ovjerava račune i obračunske situacije izvedenih radova, vodi evidencije, te obavlja i druge poslove iz svojega djelokruga.
+2.3.2.2. Odjel planiranja opreme
