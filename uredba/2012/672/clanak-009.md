@@ -1,0 +1,3 @@
+# Članak 9.
+Odjel za provedbu postupaka javne nabave obavlja poslove javne nabave za potrebe Ministarstva, pruža podršku ovlaštenim predstavnicima naručitelja u postupcima javne nabave za potebe Ministarstva, prati odvijanje postupaka javne nabave sukladno planu nabave i sredstvima osiguranim planom proračuna u pogledu zadanih okvira visine i namjene sredstava, priprema i izrađuje ugovore o javnoj nabavi te prati njihovo izvršavanje, vodi očevidnik nekretnina i surađuje sa središnjim tijelom državne uprave nadležnim za upravljanje državnom imovinom, obavlja poslove prijema i raspodjele opreme i materijala, vodi materijalnu evidenciju o tome, te obavlja i druge poslove u okviru djelokruga Službe.
+2.2. Služba za ljudske potencijale, pravne i opće poslove

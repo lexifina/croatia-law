@@ -1,0 +1,3 @@
+# Članak 85.
+Odjel za međunarodnu i europsku suradnju priprema i provodi aktivnosti vezane uz međunarodnu suradnju i Europsku uniju u području javne nabave; priprema i provodi međunarodne projekte i projekte financirane iz fondova Europske unije u području javne nabave; prati politike i pravnu stečevinu Europske unije u području javne nabave, kao i primjere najbolje prakse u njenim državama članicama; koordinira usklađivanje zakonodavstva iz područja javne nabave s pravnom stečevinom Europske unije; izrađuje stručne i normativne podloge vezane uz međunarodne sporazume i pravnu stečevinu Europske unije u području javne nabave; te obavlja druge poslove iz djelokruga Službe.
+6.2.2. Služba za koordinaciju sustava i analitiku

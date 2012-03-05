@@ -1,0 +1,2 @@
+# Članak 81.
+Odjel za pripremu i izradu provedbenih alata priprema i izrađuje priručnike za naručitelje i ponuditelje, druge stručne publikacije koje se odnose na određene insititute javne nabave i standardne obrasce potrebne za pravilnu primjenu zakona i podzakonskih propisa u području javne nabave; vodi Portal javne nabave, uključujući izradu i objavu najvažnijih mišljenja, uputa, instrukcija, često postavljanih pitanja i drugih materijala s ciljem pružanja relevantnih informacija svim zainteresiranim dionicama; obavlja i druge poslove iz djelokruga Službe.
