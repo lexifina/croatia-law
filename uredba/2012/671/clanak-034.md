@@ -1,0 +1,7 @@
+## 6. GLAVNO TAJNIŠTVO
+# Članak 34.
+Glavno tajništvo obavlja pravne, financijsko-planske, računovodstvene, organizacijske te opće, pomoćne i tehničke poslove za potrebe Ministarstva; koordinira poslove izrade strateškog i godišnjeg plana te sastavljanja izvještaja o radu Ministarstva i drugih izvještaja na zahtjev ministra; koordinira provedbu politika i odluka po pitanjima iz djelokruga pojedinih uprava i ustrojstvenih jedinica Ministarstva; izrađuje prijedlog financijskog plana za tekuću godinu u skladu s naputcima ministra te prati njegovo ostvarivanje i obavlja nadzor nad namjenskim trošenjem sredstava; obavlja računovodstvene poslove, poslove koordinacije uspostave i razvoja financijskog upravljanja i kontrole u Ministarstvu; obavlja poslove vezane za ljudske potencijale Ministarstva, te koordinira predlaganje planova prijma, osposobljavanja i stručnog usavršavanja državnih službenika Ministarstva; nabave roba, radova i usluga; obavlja poslove uredskog poslovanja; opće, tehničke i druge pomoćne poslove; skrbi o urednom i pravilnom održavanju i korištenju imovine, sredstava za rad, opremanju prostora Ministarstva, voznom parku, korištenju i održavanju automobila; po nalogu ministra koordinira poslove koji obuhvaćaju djelokrug više ustrojstvenih jedinica Ministarstva.
+U Glavnom tajništvu ustrojavaju se:
+6.1. Sektor za financijsko upravljanje i javnu nabavu
+6.2. Sektor za službeničke odnose, uredsko poslovanje i opće poslove Ministarstva.
+6.1. Sektor za financijsko upravljanje i javnu nabavu

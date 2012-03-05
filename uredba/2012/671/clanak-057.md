@@ -1,0 +1,2 @@
+# Članak 57.
+Ova Uredba stupa na snagu danom objave u Narodnim novinama.

@@ -1,0 +1,3 @@
+# Članak 29.
+Odjel za elektroničke usluge i rješenja obavlja poslove analize zajedničkih poslovnih procesa državnih tijela, snimanja poslovnih procesa, pripremu zajedničkih rješenja, pregled postojećih projekata s analizom, stvaranje uvjeta i provedbu programa u cilju omogućavanja ravnopravnog sudjelovanja svih društvenih skupina u korištenju elektroničkih usluga i razvoju informacijskog društva; sustavnu promociju primjene informacijske i komunikacijske tehnologije u cilju popularizacije korištenja informacijskih i komunikacijskih tehnologija u javnoj upravi i društvu; definira standardizaciju sučelja za pristup elektroničkim uslugama i rješenjima.
+5.1.2.2. Odjel za registre

@@ -1,0 +1,7 @@
+# Članak 36.
+Služba za financijsko upravljanje obavlja upravne i stručne poslove koji se odnose na izradu prijedloga državnog proračuna, izmjene i dopune državnog proračuna, preraspodjelu planiranih sredstava tijekom proračunske godine, donošenje godišnjeg dinamičkog plana izvršavanja državnog proračuna, obavlja administrativne poslove u vezi izvršavanja državnog proračuna, sastavlja, analizira i podnosi izvješća o trošenju proračunskih sredstava, unosi zahtjeve za isplatu proračunskih sredstava u sustav državne riznice; obavlja upravne i druge stručne poslove iz područja računovodstva, evidentira poslovne promjene, izrađuje propisana financijska, statistička i ostala izvješća, obavlja upravne i stručne poslove koji se odnose na plan nabave i investicije, financijske poslove vezane uz projekte i programe strane pomoći; surađuje s drugim tijelima državne uprave nadležnima za financije i unutarnju reviziju; sudjeluje u izradi i izmjenama plana uspostave i razvoja financijskog upravljanja i kontrola; izrađuje procjenu financijskog učinka na zakone, uredbe, odluke, ugovore, akte planiranja (projekti, planovi, programi, strategije, politike i dr.) i ostalo, sudjeluje u pripremi prijedloga godišnjeg plana nabave.
+U Službi za financijsko upravljanje ustrojavaju se:
+6.1.1.1. Odjel za pripremu i izvršenje proračuna i plansko-analitičke poslove
+6.1.1.2. Odjel računovodstvenih poslova i riznice.
+6.1.1.1. Odjel za pripremu i izvršenje proračuna i plansko-
+-analitičke poslove

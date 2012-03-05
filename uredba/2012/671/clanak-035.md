@@ -1,0 +1,6 @@
+# Članak 35.
+Sektor za financijsko upravljanje i javnu nabavu obavlja upravne i stručne poslove koji se odnose na izradu prijedloga državnog proračuna; obavlja administrativne poslove u svezi izvršavanja državnog proračuna, sastavlja, analizira i podnosi izvješća o trošenju proračunskih sredstava, unosi zahtjeve za isplatu proračunskih sredstava u sustav državne riznice; obavlja upravne i druge stručne poslove iz područja računovodstva, izrađuje propisana financijska, statistička i ostala izvješća, obavlja upravne i stručne poslove koji se odnose na plan nabave i investicije, financijske poslove vezane uz projekte i programe strane pomoći; surađuje s drugim tijelima državne uprave nadležnima za financije i unutarnju reviziju; sudjeluje u izradi i izmjenama plana uspostave i razvoja financijskog upravljanja i kontrola; izrađuje procjenu financijskog učinka na zakone, uredbe, odluke, ugovore, akte planiranja (projekti, planovi, programi, strategije, politike i dr.) i ostalo; provodi postupke javne nabave roba, radova i usluga za potrebe Ministarstva.
+U Sektoru za financijsko upravljanje i javnu nabavu ustrojavaju se:
+6.1.1. Služba za financijsko upravljanje
+6.1.2. Služba za javnu nabavu.
+6.1.1 Služba za financijsko upravljanje

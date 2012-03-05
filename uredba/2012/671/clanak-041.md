@@ -1,0 +1,3 @@
+# Članak 41.
+Služba za javnu nabavu u suradnji s ostalim ustrojstvenim jedinicama priprema prijedlog godišnjeg plana nabave; provodi postupke javne nabave roba, radova i usluga za potrebe Ministarstva; prati odvijanje postupaka nabave sukladno planu nabave i sredstvima osiguranim planom proračuna ministarstva u pogledu zadanih okvira visine i namjene sredstava; priprema i izrađuje ugovore iz područja nabave, vodi evidencije o postupcima nabave i evidencije zaključenih ugovora; obavlja poslove prijema i raspodjele opreme i materijala te podnosi zakonom i uredbama propisana izvješća.
+6.2. Sektor za službeničke odnose, uredsko poslovanje i opće poslove Ministarstva
