@@ -1,0 +1,3 @@
+# Članak 13.
+1. Članica koja je ratificirala ovu Konvenciju može je otkazati nakon isteka deset godina od datuma na koji je Konvencija prvo stupila na snagu, aktom koji dostavlja glavnom direktoru radi registracije. Takav otkaz proizvodi učinak dvanaest mjeseci nakon datuma na koji je registriran.
+2. Svaka članica koja je ratificirala ovu Konvenciju, i koja u roku od godine dana nakon isteka razdoblja od deset godina spomenutog u prethodnom stavku, ne ostvari pravo otkaza predviđeno ovim člankom, bit će vezana za još jedno razdoblje od deset godina, a nakon toga može otkazati Konvenciju po isteku svakog razdoblja od deset godina pod uvjetima predviđenim u ovom članku.
