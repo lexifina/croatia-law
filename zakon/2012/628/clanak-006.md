@@ -1,0 +1,3 @@
+# Članak 6.
+(1) Porezna uprava obavlja i poslove koji se odnose na određivanje i dodjeljivanje osobnoga identifikacijskog broja, izdavanje Potvrde o osobnom identifikacijskom broju, vođenje Evidencije o osobnim identifikacijskim brojevima te podnošenje optužnih prijedloga i vođenje prekršajnih postupaka u prvom stupnju zbog povrede propisa o osobnom identifikacijskom broju.
+(2) Radi određivanja i dodjeljivanja osobnoga identifikacijskog broja Porezna uprava, na temelju uspostavljenog sustava elektroničkog pristupa podacima, razmjenjuje u realnom vremenu podatke o osobama upisanim u Evidenciju o osobnim identifikacijskim brojevima s nadležnim javnopravnim tijelima.

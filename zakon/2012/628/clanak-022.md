@@ -1,0 +1,3 @@
+# Članak 22.
+(1) Ako fizička ili pravna osoba podnese predstavku smatrajući da su joj nezakonitim postupanjem službenika Porezne uprave povrijeđena prava, čelnik ustrojstvene jedinice Porezne uprave koja je zaprimila predstavku, dužan je predstavku dostaviti ustrojstvenoj jedinici nadležnoj prema Uredbi o unutarnjem ustrojstvu Ministarstva financija, u roku od tri dana od dana primitka.
+(2) Nadležna ustrojstvena jedinica obvezna je provesti postupak provjere navoda iz predstavke i na temelju utvrđenoga činjeničnog stanja poduzeti propisane mjere, te o utvrđenim činjenicama i poduzetim mjerama izvijestiti ministra financija, pomoćnika ministra, ravnatelja Porezne uprave i podnositelja predstavke u roku od 60 dana od dana primitka.
