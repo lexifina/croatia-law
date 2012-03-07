@@ -1,0 +1,12 @@
+# Članak 4.
+Članak 40. mijenja se i glasi:
+»Članak 40.
+(1) Poduzetnici iz članka 2. stavka 3. Zakona, koji su u tekućoj godini obavili oporezive isporuke dobara i usluga iznad propisanog iznosa iz članka 22. stavka 1. Zakona, postaju porezni obveznici od 1. siječnja iduće godine i najkasnije do 15. siječnja te godine Poreznoj upravi podnose prijavu radi upisa u registar obveznika poreza na dodanu vrijednost.
+(2) Poduzetnici koji su u tekućoj godini počeli s obavljanjem djelatnosti i poslovali tijekom dijela kalendarske godine i ako su obavljene oporezive isporuke u razdoblju u kojem su poslovali svedene na godišnju razinu veće od 230.000,00 kuna, postaju porezni obveznici od 1. siječnja iduće godine i najkasnije do 15. siječnja te godine podnose prijavu za upis u registar obveznika poreza na dodanu vrijednost.
+(3) Poduzetnici koji počinju s obavljanjem djelatnosti i žele da se na njih primjenjuju odredbe članka 22. stavak 2. Zakona u istoj godini u kojoj su počeli s obavljanjem djelatnosti obvezni su Poreznoj upravi podnijeti prijavu radi upisa u registar obveznika poreza na dodanu vrijednost s prvim poduzetničkim aktivnostima, a najkasnije prije prve isporuke dobara i usluga koja podliježe oporezivanju.
+(4) Poduzetnici koji su počeli s obavljanjem djelatnosti i isporukama dobara i usluga, a u tekućoj i vjerojatno u idućim godinama neće imati isporuke koje bi bile oporezive preko 230.000,00 kuna godišnje, mogu do kraja tekuće godine tražiti da se na njih od 1. siječnja iduće godine primjenjuju odredbe članka 22. stavak 2. Zakona.
+(5) Iznimno, porezni obveznici koji u 2012. godini nisu ostvarili oporezive isporuke u vrijednosti preko 230.000,00 kuna obvezni su do 15. siječnja 2013. podnijeti zahtjev za brisanje iz registra obveznika poreza na dodanu vrijednost nadležnoj ispostavi Porezne uprave ili u tome roku pisanim putem zatražiti da se na njih primjenjuju odredbe članka 22. stavka 2. Zakona.
+(6) Prijava iz stavka 1., 2., 3. i 4. ovoga članka podnosi se na obrascu P-PDV 1.
+(7) Prijavu ne podnose poduzetnici koji obavljaju isključivo isporuke iz članka 11. i 11.a Zakona koje su oslobođene plaćanja poreza na dodanu vrijednost bez prava na odbitak pretporeza.
+(8) Oblik i sadržaj obrasca P-PDV 1 je sastavni dio ovoga Pravilnika.
+(9) Trgovački sud ili mjerodavno tijelo obvezno je u roku od 8 dana od dana upisa u registar izvijestiti ispostavu Porezne uprave nadležnu prema sjedištu poduzetnika o obavljenom upisu poduzetnika u taj registar.«

@@ -1,0 +1,13 @@
+# Članak 5.
+U članku 60. stavku 1. točka f) mijenja se i glasi:
+»f) ostale medicinske proizvode za nadomještanje tjelesnog oštećenja ili nedostatka koji se stavljaju u promet pod nazivom iz stupca 3 Popisa ortopedskih i drugih pomagala iz Pravilnika o ortopedskim i drugim pomagalima Hrvatskog zavoda za zdravstveno osiguranje, osim zubnih nadomjestaka kad ih isporučuju zubni tehničari i stomatolozi iz članka 11. stavka 1. točke e) Zakona i pomagala s Popisa pomagala pod sljedećim nazivima: akumulator, vanjska zadnja guma, vanjska prednja guma, zračnica zadnja, zračnica prednja, puna guma prednja, puna guma zadnja, akumulator za elektromotorna invalidska kolica, tamna stakla, obično prozirno staklo, baterija 675A, baterija 675SP, baterija 312A, baterija 230A, baterija 13A, baterija LR-6, mikrofon, slušalica, kućište pomagala, preklopnik, potenciometar, ovjes vibratora, ovjes mikrofona, ovjes slušalice, kabel unutar slušnog pomagala, zvukovod, ušna kukica, pločica pojačala, mekana membrana, membrana vibratora, gornji dio uređaja, magnet, taster, zavojnica, poklopac akumulatora, pojačalo, regulator glasnoće, akumulatorska baterija, punjač baterije, zaštitni podmetač za krevet raznolikih veličina za jednokratnu uporabu, vlasulja za žene s kratkim vlaknom, vlasulja za žene s dugim vlaknom, vlasulja za muškarce i vlasulja za djecu,«.
+U stavku 2. dodaje se nova točka b) koja glasi:
+»b) usluge pripremanja hrane i obavljanje usluga prehrane u ugostiteljskim objektima te pripremanje i usluživanje bezalkoholnih pića i napitaka, vina i piva u tim objektima sukladno Zakonu o ugostiteljskoj djelatnosti.«
+Dosadašnja točka b) postaje točka c).
+Iza točke c) dodaju se nove točke d), e), f) i g) koje glase:
+»d) jestiva ulja i masti, biljnog i životinjskog podrijetla, u skladu s Pravilnikom o jestivim uljima i mastima i Pravilnikom o uljima od ploda i komine maslina,
+e) dječju hranu i prerađenu hranu na bazi žitarica za dojenčad i malu djecu, u skladu s Pravilnikom o hrani za dojenčad i malu djecu te prerađenoj hrani na bazi žitarica za dojenčad i malu djecu,
+f) isporuku vode, osim vode koja se stavlja na tržište u bocama ili u drugoj ambalaži. Pod isporukom vode smatraju se usluge neposredno vezane uz isporuku vode odnosno obavljanje vodne usluge javne vodoopskrbe i javne odvodnje odnosno isporuka do drugog isporučitelja ili krajnjeg korisnika.
+g) bijeli šećer od trske i šećerne repe. Bijelim šećerom od trske i šećerne repe smatra se šećer namijenjen za konzumaciju koji se stavlja na tržište u kristalnom obliku.«
+U stavku 3. brojka: »23« zamjenjuje se brojkom: »25«.
+U stavku 5. brojka: »23« zamjenjuje se brojkom: »25«, a brojka: »18,6992« zamjenjuje se brojkom: »20«.

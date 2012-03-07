@@ -1,0 +1,9 @@
+# Članak 13.
+U članku 124. u točki 1. posljednja rečenica briše se.
+Točka 2. mijenja se i glasi:
+»2. pod točkom 2. o pretporezu zaračunanom po stopi od 22% i 23% u primljenim računima od drugih poreznih obveznika za koje su isporučitelji ispostavili račune prema članku 15. stavku 3. Zakona, po kojima se može odbiti pretporez. Podaci se upisuju iz stupca 8 (osnovica) i stupca 14 (pretporez) Knjige primljenih (ulaznih) računa za redovne isporuke i za predujmove za pojedino obračunsko razdoblje. U slučaju kad porezni obveznik dijeli ulazni pretporez na dio koji može odbiti i dio koji ne može odbiti, tada u obrascu PDV iskazuje pripadajući dio porezne osnovice iz stupca 8. Ovdje se upisuju podaci o naknadim ispravcima koji se odnose na razdoblje u kojem se primjenjivala stopa poreza od 22% i 23%.«
+U točki 3. brojka: »23« zamjenjuje se brojkom: »25«, a posljednja rečenica briše se.
+U točki 5. iza posljednje rečenice dodaje se tekst koji glasi: »U posebno označeno polje porezni obveznici koji su obvezni dijeliti pretporez upisuju iznos poreza na dodanu vrijednost koji ne mogu odbiti.«
+Točka 6. mijenja se i glasi:
+»6. pod točkom 6. o uslugama oporezivim po stopi od 22% i 23% koje je tuzemnom poduzetniku obavio poduzetnik sa sjedištem u inozemstvu. Podaci koji se ovdje upisuju odnose se na usluge oporezivane po stopi od 22% i 23% za koje je iznos poreza plaćen i ispunjeni uvjeti za odbitak pretporeza. Ovdje se upisuju podaci o naknadim ispravcima koji se odnose na razdoblje u kojem se primjenjivala stopa poreza od 22% i 23%. U posebno označeno polje porezni obveznici koji su obvezni dijeliti pretporez upisuju iznos poreza na dodanu vrijednost koji ne mogu odbiti.«
+U točki 7. brojka: »23« zamjenjuje se brojkom: »25«, te se iza posljednje rečenice dodaje tekst koji glasi: »U posebno označeno polje porezni obveznici koji su obvezni dijeliti pretporez upisuju iznos poreza na dodanu vrijednost koji ne mogu odbiti.«
