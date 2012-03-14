@@ -1,0 +1,2 @@
+# Članak 28.
+Ova Uredba stupa na snagu danom objave u »Narodnim novinama«.
