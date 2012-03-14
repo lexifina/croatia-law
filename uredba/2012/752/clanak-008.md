@@ -1,0 +1,4 @@
+## 4. SAMOSTALNA SLUŽBA ZA NADZOR KORIŠTENJA I UPRAVLJANJA DRŽAVNOM IMOVINOM
+# Članak 8.
+U Samostalnoj službi za nadzor korištenja i upravljanja državnom imovinom (u daljnjem tekstu: Samostalna služba za nadzor) obavljaju se analitički i stručni poslovi nadzora nad korištenjem i upravljanjem državnom imovinom u smislu zakona kojim se uređuje upravljanje državnom imovinom. S tim u vezi obavljaju se poslovi praćenja stanja, obrade podataka i izrade nalaza, analiza i izvješća; poslovi praćenja ostvarivanja strategije upravljanja državnom imovinom i programa upravljanja državnom imovinom, te drugi poslovi s tim u vezi prema zakonu kojim se uređuje upravljanje državnom imovinom.
+U Samostalnoj službi za nadzor obavljaju se i poslovi razmatranja izvješća Agencije za upravljanje državnom imovinom o stanju neprocijenjene imovine u postupku pretvorbe i privatizacije te drugi poslovi koji po svojoj upravnoj prirodi pripadaju u propisani djelokrug Samostalne službe za nadzor.
