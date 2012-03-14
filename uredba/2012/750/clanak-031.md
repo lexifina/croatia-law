@@ -1,0 +1,3 @@
+# Članak 31.
+Odjeljci pisarnice u sjedištu i područnim jedinicama obavljaju stručne poslove koji se odnose na primanje i pregled akata i drugih pošiljki, razvrstavanje i raspoređivanje akata, upisivanje akata u upisnik predmeta upravnog postupka odnosno urudžbeni zapisnik, dostavljanje akata u rad, administrativno - tehničku obradu akata, otpremanje akata, razvođenje akata u urudžbenom zapisniku odnosno upisniku predmeta upravnog postupka, stavljanje predmeta u arhiv i čuvanje, vođenje arhivske knjige, izlučivanje registraturnog gradiva te sastavljanje izvješća o stanju primljenih, riješenih i neriješenih predmeta.
+7.3. Služba informatike

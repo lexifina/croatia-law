@@ -1,0 +1,6 @@
+# Članak 10.
+Služba nadzora u području zaštite potrošača obavlja inspekcijske i druge poslove koji se odnose na zaštitu potrošača u području prodaje proizvoda i pružanju usluga, cijena proizvoda, javnih usluga, potrošačkih kredita, označavanje, pakiranje, obilježavanje i prezentiranje proizvoda, protok informacija o povredi propisa u području zaštite potrošača, tehničko zakonodavstvo i sigurnosne zahtjeve za proizvode, tehničku dokumentaciju, pravodobno obavješćivanje o opasnostima koje proizvodi mogu predstavljati, oznaku zemljopisnog podrijetla i oznaku tradicionalnog ugleda poljoprivrednih i prehrambenih proizvoda, kontrole označavanja i kakvoće hrane i hrane za životinje bez obzira na podrijetlo, označavanje i kakvoću vina, voćnih vina i drugih proizvoda, obavlja poslove koji se odnose na sudjelovanje u radu tijela Europske unije iz područja zaštite potrošača, surađuje s drugim ministarstvima, tijelima javne vlasti, ostalim zainteresiranim stranama i međunarodnim organizacijama u području zaštite potrošača, obavlja i druge poslove u okviru svoga djelokruga.
+U Službi nadzora u području zaštite potrošača, ustrojavaju se:
+2.2.1. Odjel zaštite ekonomskih interesa potrošača
+2.2.2. Odjel kvalitete i sigurnosti proizvoda.
+2.2.1. Odjel zaštite ekonomskih interesa potrošača

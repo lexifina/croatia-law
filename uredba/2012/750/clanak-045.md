@@ -1,0 +1,2 @@
+# Članak 45.
+U ispostavama područnih jedinica Inspektorata - odsjecima inspekcijskog nadzora obavljaju se poslovi inspekcijskog nadzora koji se odnose na primjenu zakona i drugih propisa u području trgovine, ugostiteljske i turističke djelatnosti, obrta, zaštita potrošača, tehničkog zakonodavstva i intelektualnog vlasništva, rada, nezakonitog zapošljavanja i zaštite na radu, neregistrirane djelatnosti i hrane.
