@@ -1,0 +1,1 @@
+Na temelju članka 99. Zakona o sudovima (»Narodne novine« 150/05, 16/07, 113/08, 153/09, 116/10 i 27/11) i članka 123. Zakona o državnom odvjetništvu (»Narodne novine« 153/09, 116/10, 145/10 i 57/11), donosim
