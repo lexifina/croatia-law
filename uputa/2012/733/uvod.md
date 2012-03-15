@@ -1,0 +1,1 @@
+Na temelju članka 18. stavka 4. i članka 23. Uredbe o kriterijima za odabir, mjerama za zaštitu te načinu označavanja vojnih i drugih objekata posebno važnih za obranu (»Narodne novine«, br. 63/2011.) ravnatelj Državne geodetske uprave donio je 14. 2. 2012.
