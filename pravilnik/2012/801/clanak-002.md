@@ -1,0 +1,3 @@
+# Članak 2.
+(1) Upravna direkcija IPARD programa za Republiku Hrvatsku je Uprava ruralnog razvoja, EU i međunarodne suradnje (u daljnjem tekstu: Upravna direkcija), Ministarstva poljoprivrede (u daljnjem tekstu: Ministarstvo), u skladu s odredbom članka 16. Uredbe o opsegu i sadržaju odgovornosti te ovlastima tijela nadležnih za upravljanje Instrumentom pretpristupne pomoći (IPA) (»29/12).
+(2) Operativnu provedbu IPARD programa u Republici Hrvatskoj, odnosno funkciju IPARD agencije, obavlja Agencija za plaćanja u poljoprivredi, ribarstvu i ruralnom razvoju (u daljnjem tekstu: Agencija za plaćanja).

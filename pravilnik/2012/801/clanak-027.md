@@ -1,0 +1,20 @@
+# Članak 27.
+(1) IPARD Ugovorom uređuje se:
+a) iznos odobrene potpore,
+b) obveza čuvanja dokumentacije koja se odnosi na projekt, od dana sklapanja IPARD Ugovora i još tijekom pet (5) godina od datuma konačne isplate sredstava IPARD programa, a dokumentacije koja se odnosi na javnu nabavu od dana sklapanja IPARD Ugovora i još tijekom sedam (7) godina od datuma konačne isplate potpore navedenog u Potvrdi o završenom ulaganju,
+c) zabrana promjene vlasništva nad predmetom ulaganja, davanja u najam ili zakup predmeta ulaganja ili premještanja sufinancirane proizvodne aktivnosti, počevši od dana sklapanja IPARD Ugovora i još tijekom pet (5) godina od datuma konačne isplate konačne isplate sredstava IPARD programa,
+d) zabrana promjene namjene i vrste ulaganja za koju su odobrena sredstva, počevši od dana sklapanja IPARD Ugovora te najmanje pet (5) godina od datuma konačne isplate potpore, navedenog u Potvrdi o završenom ulaganju,
+e) obveza vidljivog označavanja, nakon sklapanja IPARD Ugovora sa Agencijom za plaćanja, sukladno naputku za označavanje,
+f) obveza izvještavanja Agencije za plaćanja o provedbi projekta,
+g) obveza korisnika da dokumenti koji se odnose na plaćanje ugovorenog projekta budu datirani nakon datuma sklapanja IPARD Ugovora, osim računa za opće troškove,
+h) obveza korisnika da dopusti u svakom trenutku nesmetan pristup i kontrolu na terenu koja se odnosi na ulaganje, te obveza davanja na uvid cjelokupne dokumentacije vezane uz ulaganje, zaposlenicima Agencije za plaćanja, predstavnicima tijela nadležnog za reviziju, Nacionalnog fonda/Ministarstva financija, Europske komisije, Europskog revizorskog suda i Europskog ureda za borbu protiv prijevara (OLAF),
+i) zabrana poduzimanja radnji koje bi mogle dovesti do financiranja istog ulaganja unutar IPA komponente III i IPARD programa,
+j) zabrana prekoračenja najvećeg dozvoljenog iznosa javne pomoći, ako je ulaganje financirano iz drugih izvora Zajednice ili Republike Hrvatske,
+k) izvještavanje Agencije za plaćanja u pisanom obliku o bilo kojoj situaciji mogućeg sukoba interesa između korisnika s jedne strane i uspješnog ponuditelja s druge strane od dana sklapanja IPARD Ugovora i još tijekom pet (5) godina od datuma konačne isplate sredstava IPARD programa,
+l) dostavljanje izvještaja Agenciji za plaćanja u svezi provođenja ulaganja svaka tri mjeseca računajući od dana sklapanja IPARD Ugovora i još tijekom pet (5) godina od datuma konačne isplate konačne isplate sredstava IPARD programa,
+m) podnošenje Zahtjeva za isplatu i ostale potrebne dokumentacije,
+n) obveza korisnika da u ugovoru kojeg sklapa s izvođačem, istog obveže na vođenje i davanje na uvid građevinskog dnevnika i građevinske knjige bez obzira na vrstu ugovora,
+o) obveza korisnika da će ugovor potpisan između njega i uspješnog ponuditelja urediti prava i obveze ugovornih strana u skladu s PRAG-om,
+p) obveza korisnika da obavijesti Agenciju za plaćanja o izvođenju »skrivenih radova« (radova kod kojih se ne može provoditi kontrolu u kasnijoj fazi) najmanje 10 dana prije početka njihovog izvođenja i s točnim opisom planiranih zahvata,
+(2) Ako podnositelj ne dostavi IPARD Ugovor u roku naznačenom u članku 26. stavku 2. ovoga Pravilnika, smatrat će se da je odustao od sklapanja IPARD Ugovora,
+(3) Za provedbu stavka 1. točke e) ovoga članka, korisnik će ulaganje označiti sukladno Naputku za označavanje ulaganja, koje su sastavni dio ovoga Pravilnika.

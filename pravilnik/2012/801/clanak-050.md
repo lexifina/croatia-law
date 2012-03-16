@@ -1,0 +1,9 @@
+# Članak 50.
+(1) Prigovor iz članka 49. stavka 2. ovoga Pravilnika se podnosi u dva primjerka Povjerenstvu putem Agencije za plaćanja u roku od osam (8) dana od dana primitka odluke.
+(2) Ako je podnositelj izjavio prigovor na temelju članka 49. stavka 2. ovoga Pravilnika, a u svezi s odlukom iz članka 25. stavkom 1. točka a) ovoga Pravilnika, podnositelj nije dužan pridržavati se roka navedenoga u članku 26. stavku 2. ovoga Pravilnika do zaprimanja odluke Povjerenstva po prigovoru.
+(3) Ako Povjerenstvo po prigovoru na odluku iz članka 25. stavka 1. točke a) ovoga Pravilnika donese pozitivnu odluku, korisnik je dužan u roku od tri (3) dana od dana zaprimanja odluke Povjerenstva, vratiti Agenciji za plaćanja sve zaprimljene nepotpisane IPARD Ugovore koji proizlaze iz odluke na koju je korisnik podnio prigovor.
+(4) Ukoliko je donesena odluka navedena u stavku 3. ovoga članka, Agencija za plaćanja će izdati novu Odluku o dodjeli sredstava iz IPARD programa, stavljajući izvan snage Odluku o dodjeli sredstava iz IPARD programa na koju je korisnik podnio prigovor.
+(5) Nakon odluke iz stavka 4. ovoga članka, Agencija za plaćanja će korisniku izdati novi IPARD Ugovor koji je korisnik dužan vratiti u Agenciju za plaćanja u roku od 7 dana od dana zaprimanja, potpisan i ovjeren pečatom.
+(6) Ako Povjerenstvo po prigovoru na odluku iz članka 25. stavka 1. točke a) ovoga Pravilnika donese negativnu odluku, korisnik je dužan u roku od 7 dana od dana zaprimanja odluke Povjerenstva dostaviti već zaprimljene IPARD Ugovore potpisane i ovjerene pečatom.
+(7) Ako korisnik ne postupi u skladu sa stavkom 6. ovoga članka, smatra se da je odustao od sklapanja IPARD Ugovora.
+(8) Ako Povjerenstvo po prigovoru na odluku iz članka 33. stavka 1. točke b) ovoga Pravilnika donese negativnu odluku, Agencija za plaćanja će raskinuti ugovor.
