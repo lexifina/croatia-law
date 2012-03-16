@@ -1,0 +1,5 @@
+# Članak 22.
+IZBJEGAVANJE DVOSTRUKOG OPOREZIVANJA
+(1) Kada rezident Hrvatske ostvari dohodak koji se u skladu s odredbama ovog Ugovora može oporezivati u Indoneziji, Hrvatska će odobriti kao odbitak od poreza na dohodak tog rezidenta iznos koji je jednak porezu na dohodak plaćenom u Indoneziji. Takav odbitak ne smije biti veći od onog dijela poreza na dohodak koji je utvrđen prije odbitka, a koji se može pripisati dohotku koji je oporeziv u Indoneziji.
+(2) Kada rezident Indonezije ostvaruje dohodak iz Hrvatske, iznos poreza na taj dohodak plativ u Hrvatskoj bit će dopušten u skladu s ovim ugovorom kao kredit naspram porezu tog rezidenta, a koji je razrezan u Indoneziji. Iznos kredita ne smije prijeći iznos poreza u Indoneziji na taj dohodak, a koji je obračunat u skladu s indonezijskim poreznim propisima i pravilima.
+(3) Neovisno o odredbama indonezijskih propisa, Indonezija će odobriti kredit naznačen u stavku 2. u odnosu na poreze koji se mogu plaćati u Hrvatskoj na dividende sukladno odredbama članka 10. stavka 2. i kamata sukladno odredbama članka 11. stavka 2. ovog Ugovora, ali koji je privremeno izuzet ili reduciran sukladno hrvatskim poreznim propisima.
