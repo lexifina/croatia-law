@@ -1,0 +1,1 @@
+Ustavni sud Republike Hrvatske, u sastavu sudac Aldo Radolović, zamjenik predsjednice Suda, te suci Mato Arlović, Marko Babić, Snježana Bagić, Slavica Banić, Mario Jelušić, Antun Palarić i Duška Šarin, odlučujući o prijedlogu za ocjenu suglasnosti zakona s Ustavom, na sjednici održanoj 6. ožujka 2012., donio je
