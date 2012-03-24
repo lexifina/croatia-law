@@ -1,0 +1,3 @@
+# Članak 182.
+(1) Ministarstvo nadležno za poslove socijalne skrbi osigurat će uvjete za informatičku razmjenu podataka s drugim korisnicima u skladu s odredbama Zakona o zaštiti osobnih podataka i drugim propisima.
+(2) Ministarstvo nadležno za poslove socijalne skrbi će (u ime voditelja zbirke podataka) zatražiti suglasnost javnopravnog tijela voditelja zbirke podataka te sklopiti protokol o razmjeni podataka između javnopravnog tijela-voditelja službene evidencije o imovini, tražitelja podataka te porezne uprave kao koordinacijskog tijela koji će te podatke koristiti radi obavljanja redovitih poslova u okviru njegove zakonom utvrđene djelatnosti.

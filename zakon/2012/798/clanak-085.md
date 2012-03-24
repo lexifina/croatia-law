@@ -1,0 +1,7 @@
+# Članak 85.
+(1) Savjetovanje i pomaganje obitelji je socijalna usluga koja obuhvaća stručno savjetovanje i sve oblike stručne pomoći pri prevladavanju obiteljskih poteškoća i poteškoća roditelja u odgoju i skrbi za djecu te osposobljavanje obitelji za funkcioniranje u svakodnevnom životu.
+(2) Usluga iz stavka 1. ovoga članka uključuje savjetovanje, intenzivnu podršku obitelji u krizi i dugoročni rad s članovima obitelji usmjeren na poboljšanje obiteljskih odnosa.
+(3) Usluga intenzivne potpore obitelji u krizi je savjetodavno-terapijska i socijalno-edukativna usluga koja se pruža obiteljima u krizi, kao i udomiteljskim obiteljima u cilju unapređivanja obiteljskih odnosa, prevladavanja kriznih situacija i usvajanja znanja i vještina za uspješno roditeljstvo, odnosno udomiteljstvo.
+(4) Usluga iz stavka 3. ovoga članka provodi se nakon sveobuhvatne procjene obiteljskih rizika, snaga i potreba u skladu s individualnim planom promjene s obitelji i planom intervencija kojima se u vremenski ograničenom razdoblju od najduže 6 mjeseci očekuje osnaživanje obitelji za promjenu i osposobljavanje roditelja za skrb o djeci u obitelji.
+(5) Savjetovanje i pomaganje pružaju stručni radnici obiteljskog centra, centra za socijalnu skrb, domova socijalne skrbi i drugih pravnih i fizičkih osoba koje obavljaju djelatnost socijalne skrbi, u suradnji s drugim pružateljima usluga u zajednici i drugim osobama koje mogu utjecati na obitelj.
+3. Usluga obiteljske medijacije

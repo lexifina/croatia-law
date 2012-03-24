@@ -1,0 +1,6 @@
+# Članak 96.
+(1) Djetetu, a posebno djetetu mlađem od sedam godina, centar za socijalnu skrb priznaje pravo na smještaj u udomiteljsku obitelj sukladno uvjetima propisanim ovim Zakonom.
+(2) Djetetu iz stavka 1. ovoga članka centar za socijalnu skrb može priznati pravo na smještaj u dom socijalne skrbi ili drugu pravnu osobu ili kod fizičke osobe koja obavlja djelatnost socijalne skrbi samo u slučaju ako mu se u trenutku nastanka potrebe ne može osigurati smještaj sukladno stavku 1. ovoga članka, ali takav smještaj može trajati najduže do šest mjeseci.
+(3) U slučaju potrebe za pružanjem tretmanskih ili zdravstvenih usluga djetetu koje se ne mogu osigurati kod pružatelja usluga iz stavka 1. ovoga članka, smještaj može trajati duže od roka iz stavka 2. ovoga članka.
+(4) Centar za socijalnu skrb koji je priznao pravo na smještaj djeteta iz stavka 1. ovoga članka i djeteta starijeg od 7 godina, dužan je brinuti o njegovom najboljem interesu te osigurati uvjete za njegov što brži povratak u vlastitu ili udomiteljsku obitelj, odnosno za zasnivanje posvojenja u skladu s individualnim planom koji izrađuje zajedno s pružateljem usluga.
+(5) Centar za socijalnu skrb koji priznaje pravo na smještaj djeci koja su braća i sestre, u suradnji s pružateljem usluga, dužan je braći i sestrama osigurati zajednički smještaj.

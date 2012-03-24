@@ -1,0 +1,6 @@
+# Članak 47.
+(1) Centar za socijalnu skrb i služba nadležna za zapošljavanje dužni su međusobno surađivati u provođenju mjera socijalne uključenosti radno sposobnih korisnika pomoći za uzdržavanje.
+(2) Način suradnje centara za socijalnu skrb i službe nadležne za zapošljavanje u provođenju mjera socijalne uključenosti radno sposobnih korisnika prava na pomoć za uzdržavanje sporazumom utvrđuju ministar nadležan za socijalnu skrb i ministar nadležan za rad.
+(3) Za vrijeme korištenja prava na pomoć za uzdržavanje nezaposlena radno sposobna ili djelomično radno sposobna osoba dužna je prihvatiti zaposlenje u skladu s propisima o zapošljavanju i planom aktivnosti korisnika.
+(4) Centar za socijalnu skrb dužan je službi nadležnoj za zapošljavanje dostaviti obavijest o priznatom pravu na pomoć za uzdržavanje za nezaposlenog radno sposobnog korisnika u roku od 8 dana od dana donošenja rješenja o priznavanju navedenoga prava.
+(5) Služba nadležna za zapošljavanje dužna je odmah, a najkasnije u roku od 8 dana od dana saznanja obavijestiti centar za socijalnu skrb ukoliko se radno sposobni korisnik prava na pomoć za uzdržavanje zaposli, odbije ponuđeno zaposlenje, osposobljavanje, prekvalifikaciju ili dokvalifikaciju.

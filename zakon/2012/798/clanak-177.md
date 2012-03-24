@@ -1,0 +1,4 @@
+## Presumpcija pružanja socijalnih usluga
+# Članak 177.
+(1) Ako jedan ili više članova obitelji imaju sklopljena više od tri ugovora o doživotnom ili dosmrtnom uzdržavanju, a uzdržavanim osobama usluge stanovanja, prehrane, njege i brige o zdravlju te zadovoljavanje ostalih osnovnih životnih potreba, pružaju treće osobe ili zaposleni radnici kod fizičke osobe ili radnici zaposleni u pravnoj osobi koja je u vlasništvu davatelja uzdržavanja i/ili članova njegove obitelji, u smislu ovoga Zakona smatra se da se kod tih okolnosti radi o protupravnom pružanju usluga smještaja u djelatnosti socijalne skrbi (rad na crno).
+(2) U slučaju iz stavka 1. ovoga članka fizička osoba i/ili članovi njezine obitelji dužni su pokrenuti postupak za donošenje rješenja kojim se utvrđuje ispunjavanje uvjeta za obavljanje djelatnosti socijalne skrbi sukladno odredbama ovoga Zakona.

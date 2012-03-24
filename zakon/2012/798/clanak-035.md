@@ -1,0 +1,2 @@
+# Članak 35.
+Ako samac ili obitelj u vrijeme donošenja prvostupanjske odluke o ostvarivanju prava na pomoć za uzdržavanje ostvaruje drugačiji ukupni mjesečni prihod zbog zaposlenja ili stjecanja prihoda na drugi način, odnosno prestanka zaposlenja ili gubitka prihoda stečenog na drugi način, ne uračunava se u prihode prosječni mjesečni prihod ostvaren u zadnja tri mjeseca već se visina pomoći za uzdržavanje utvrđuje kao razlika između sredstava za uzdržavanje utvrđenih prema članku 33. ovoga Zakona i prihoda ostvarenog u vrijeme donošenja prvostupanjske odluke.

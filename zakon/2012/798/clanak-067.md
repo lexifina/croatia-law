@@ -1,0 +1,4 @@
+# Članak 67.
+(1) Ako roditelji korisnika osobne invalidnine koriste: rodiljni ili roditeljski dopust, rad s polovicom punoga radnog vremena, rad s polovicom punog radnog vremena radi pojačane njege djeteta, dopust ili rad s polovicom punog radnog vremena radi pojačane njege djeteta s težim smetnjama u razvoju ili mirovanje radnog odnosa do treće godine života djeteta po posebnim propisima, a dijete boravi 4 i više sati dnevno u predškolskoj, školskoj ili zdravstvenoj ustanovi, domu socijalne skrbi ili kod drugog pružatelja usluga boravka, osobna invalidnina isplaćuje se u iznosu od 125% osnovice iz članka 32. stavka 1. ovoga Zakona.
+(2) Ako je djetetu ili odrasloj osobi osiguran stalni ili tjedni smještaj, po ovom Zakonu ili drugim propisima, ne može ostvariti pravo na osobnu invalidninu dok to pravo ostvaruje.
+6. Doplatak za pomoć i njegu

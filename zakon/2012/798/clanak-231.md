@@ -1,0 +1,3 @@
+# Članak 231.
+(1) O obavljenom upravnom nadzoru ovlašteni državni službenik dužan je u roku od 15 dana napisati izvješće koje sadrži prikaz utvrđenog stanja, prijedlog mjera koje u određenom roku treba poduzeti radi otklanjanja nedostataka, prijedlog za podnošenje optužnog prijedloga ili kaznene prijave, prijedlog za pokretanje postupka utvrđivanja odgovornosti ravnatelja centra za socijalnu skrb, predstojnika podružnice ili drugog radnika te prijedloge za poduzimanje drugih potrebnih mjera.
+(2) Izvješće o obavljenom upravnom nadzoru ovlašteni državni službenici dužni su dostaviti centru za socijalnu skrb najkasnije u roku od 30 dana od dana obavljenog nadzora.

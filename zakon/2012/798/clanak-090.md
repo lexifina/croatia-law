@@ -1,0 +1,7 @@
+# Članak 90.
+(1) Usluga stručne pomoći u obitelji priznaje se djeci s teškoćama u razvoju i odraslim osobama s invaliditetom, a obuhvaća psihosocijalnu rehabilitaciju koja se pruža u obliku i na način koji odgovara dobi korisnika, vrsti i težini invaliditeta i drugim potrebama korisnika, njegove obitelji ili obitelji udomitelja.
+(2) Psihosocijalna rehabilitacija u smislu ovoga Zakona podrazumijeva rehabilitaciju koja potiče razvoj kognitivnih i funkcionalnih vještina, kao i razvoj socijalnih vještina korisnika, a može uključivati: vježbe orijentacije i kretanja u prostoru, vježbe svakodnevnih vještina, vježbe vida, tiflotehničku obuku, obuku za brajicu, audiorehabilitaciju, usvajanje znakovnog jezika, logopedsku podršku, senzornu integraciju, kineziterapiju i sportsko-rekreacijske aktivnosti, glazboterapiju i glazbene aktivnosti, likovnu terapiju i likovne aktivnosti, psihološku ili sociopedagošku podršku, odgoj i edukacijsku rehabilitaciju i socijalnu rehabilitaciju.
+(3) Usluga stručne pomoći u obitelji pruža se korisniku u njegovoj obitelji, odnosno u obitelji udomitelja, a može se odrediti u trajanju do 5 sati tjedno.
+(4) Stručnu pomoć u obitelji pruža dom socijalne skrbi, udruga, vjerska zajednica ili druga pravna ili fizička osoba koja obavlja djelatnost socijalne skrbi.
+(5) Centar za socijalnu skrb priznaje uslugu iz stavka 1. ovoga članka na temelju prethodno pribavljenog mišljenja pružatelja usluga o vrsti, trajanju i učestalosti usluge iz stavka 1. ovoga članka.
+6. Usluga rane intervencije

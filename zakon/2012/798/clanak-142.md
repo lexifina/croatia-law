@@ -1,0 +1,10 @@
+## Zbrinjavanje korisnika u slučaju prestanka rada doma socijalne skrbi
+# Članak 142.
+(1) Osnivač doma socijalne skrbi dužan je najmanje 6 mjeseci prije donošenja odluke o prestanku rada doma o tome izvijestiti ministarstvo nadležno za poslove socijalne skrbi i korisnike, odnosno njihove zakonske zastupnike.
+(2) U roku iz stavka 1. ovoga članka osnivač je dužan korisniku koji je smješten na temelju ugovora, sporazumno s njim, odnosno njegovim zakonskim zastupnikom, osigurati drugi primjereni smještaj.
+(3) Ako je korisnik smješten u dom na temelju rješenja centra za socijalnu skrb, centar za socijalnu skrb, zajedno s korisnikom, odnosno njegovim zakonskim zastupnikom, dužan je u roku iz stavka 1. ovoga članka korisniku osigurati drugi primjereni smještaj.
+(4) Ako je po isteku roka iz stavka 1. ovoga članka u domu socijalne skrbi još uvijek smješteno više od 10 korisnika koji su smješteni na temelju ugovora između korisnika i doma, centar za socijalnu skrb na čijem području mjesne nadležnosti korisnik ima prebivalište i u dogovoru s korisnicima i članovima obitelji dužan je korisniku pružiti pomoć radi pronalaska smještaja kod drugog pružatelja usluga ili mu ponuditi druge usluge u vlastitom domu ili u obitelji.
+(5) U slučajevima donošenja rješenja o zabrani rada doma socijalne skrbi, dom socijalne skrbi kojemu je zabranjen rad dužan je u roku od 30 dana od dana izvršnosti rješenja osigurati korisnicima drugi odgovarajući smještaj te prestati s pružanjem usluga.
+(6) Dom kojemu je zabranjen rad nije dužan nastaviti s pružanjem usluga korisniku koji odbije smještaj kod drugog ovlaštenog pružatelja usluga.
+(7) Centar za socijalnu skrb nadležan prema prebivalištu korisnika koji je odbio smještaj kod drugog pružatelja usluga, u dogovoru s korisnikom i članovima obitelji dužan je korisniku pružiti pomoć radi pronalaska smještaja kod drugog pružatelja usluga ili mu ponuditi druge usluge u vlastitom domu ili u obitelji.
+(8) U slučaj prestanka obavljanja djelatnosti smještaja korisnika kod drugih pravnih osoba iz članka 158. ovoga Zakona na odgovarajući način se primjenjuju odredbe stavka 1. do 7. ovoga članka.

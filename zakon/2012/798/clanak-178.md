@@ -1,0 +1,7 @@
+## VIII. MREŽA USLUGA SOCIJALNE SKRBI I SOCIJALNO PLANIRANJE
+# Članak 178.
+(1) U cilju planiranja i razvoja mreže socijalnih usluga i ostvarivanja prava, obveza, mjera i ciljeva socijalne skrbi na svom području, jedinica područne (regionalne) samouprave osniva Savjet za socijalnu skrb u županiji.
+(2) Savjet za socijalnu skrb u županiji osniva se odlukom skupštine jedinice područne (regionalne) samouprave.
+(3) Broj članova Savjeta za socijalnu skrb u županiji određuje se odlukom iz stavka 2. ovoga članka, a čine ga predstavnici područne (regionalne) i lokalne samouprave, centara za socijalnu skrb, domova socijalne skrbi, centara za pomoć i njegu, korisnika, vjerskih zajednica te drugih pravnih i fizičkih osoba koje obavljaju djelatnost socijalne skrbi, ustanova iz područja obrazovanja, zdravstva, zapošljavanja i drugih djelatnosti važnih za socijalno uključivanje korisnika, strukovnih komora i udruga, udruga za promicanje prava korisnika socijalne skrbi te sindikata i poslodavaca u socijalnoj skrbi.
+(4) Savjet za socijalnu skrb u županiji predlaže socijalni plan u djelatnosti socijalne skrbi za područje jedinice područne (regionalne) i jedinica lokalne samouprave, a donosi ga predstavničko tijelo jedinice područne (regionalne) samouprave.
+(5) Socijalni plan obuhvaća detaljnu analizu kapaciteta, dostupnost mreže socijalnih usluga i specifične ciljeve razvoja institucionalnih i izvaninstitucionalnih socijalnih usluga, s posebnim naglaskom na usluge za skupine u većem riziku od socijalne isključenosti.

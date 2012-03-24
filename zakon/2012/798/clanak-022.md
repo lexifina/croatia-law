@@ -1,0 +1,7 @@
+## Sredstva koja osiguravaju jedinice lokalne i područne (regionalne) samouprave i Grad Zagreb
+# Članak 22.
+(1) Jedinice lokalne i područne (regionalne) samouprave i Grad Zagreb dužni su osigurati sredstva za obavljanje djelatnosti socijalne skrbi sukladno ovom Zakonu i posebnom propisu, u skladu sa socijalnim planom i mrežom socijalnih usluga na svojem području.
+(2) Jedinice područne (regionalne) samouprave i Grad Zagreb dužni su u svom proračunu osigurati sredstva za troškove ogrijeva korisniku iz članka 53. ovoga Zakona, a jedinice lokalne samouprave sredstva za ostvarivanje prava na podmirenje troškova stanovanja, pod uvjetima i na način propisan ovim Zakonom.
+(3) Jedinice lokalne i područne (regionalne) samouprave i Grad Zagreb osiguravaju sredstva za rad ustanova socijalne skrbi čiji su osnivač, za investicijsko i tekuće održavanje prostora, opreme i prijevoznih sredstava tih ustanova te za njihovo investicijsko ulaganje i održavanje informatičke opreme i druge komunikacijske opreme.
+(4) Veliki gradovi i gradovi sjedišta županija dužni su u svom proračunu osigurati sredstva za uslugu prehrane u pučkim kuhinjama, kao i pružanje usluga prihvatilišta za beskućnike na način propisan ovim Zakonom.
+(5) Jedinica lokalne i područne (regionalne) samouprave i Grad Zagreb može osigurati sredstva za ostvarivanje novčanih pomoći i socijalnih usluga stanovnicima na svom području u većem opsegu nego je utvrđeno ovim Zakonom, na način propisan njihovim općim aktom, ukoliko u svom proračunu ima za to osigurana sredstva.

@@ -1,0 +1,2 @@
+# Članak 127.
+Za predstojnika podružnice može biti imenovan hrvatski državljanin koji ima završen diplomski ili poslijediplomski studij socijalnog rada, socijalne politike, prava, psihologije, sociologije, socijalne pedagogije ili edukacijske rehabilitacije, najmanje tri godine radnog iskustva na stručnim poslovima u djelatnosti socijalne skrbi i položen stručni ispit, ili je oslobođen od obveze polaganja stručnog ispita u skladu s odredbama ovoga Zakona i provedbenog propisa.

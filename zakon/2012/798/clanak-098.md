@@ -1,0 +1,3 @@
+# Članak 98.
+(1) Usluga smještaja priznaje se osobama s tjelesnim, intelektualnim ili osjetilnim oštećenjem kad je to najsvrhovitije radi njihova čuvanja i odgoja, školovanja, osposobljavanja ili psihosocijalne rehabilitacije te drugih razloga zbog kojih se skrb o toj osobi, privremeno ili trajno, ne može osigurati na drugi način, i to u obliku i na način koji odgovara njihovoj dobi, vrsti i stupnju njihova oštećenja.
+(2) Pravo na uslugu smještaja priznaje se osobi s tjelesnim, intelektualnim ili osjetilnim oštećenjem ako joj je, radi provođenja osposobljavanja za samostalan rad, potrebno osigurati stalni smještaj.

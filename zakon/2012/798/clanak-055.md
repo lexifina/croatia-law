@@ -1,0 +1,4 @@
+# Članak 55.
+(1) Jednokratna pomoć je pravo na novčanu pomoć ili pomoć u naravi koju centar za socijalnu skrb priznaje samcu ili obitelji koji zbog trenutačnih materijalnih teškoća nisu u mogućnosti podmiriti neke osnovne životne potrebe, a koje su nastale zbog rođenja ili školovanja djeteta, bolesti ili smrti člana obitelji, elementarne nepogode i sl.
+(2) Jednokratna pomoć može se iznimno priznati i zbog nabavke osnovnih predmeta u kućanstvu ili nabavke neophodne odjeće i obuće ako ne postoji mogućnost da se nabavka neophodnih predmeta u kućanstvu i odjeće i obuće osigura u suradnji s humanitarnim organizacijama.
+(3) Centar za socijalnu skrb može iznimno odobriti jednokratnu pomoć korisnicima usluge smještaja i u slučaju ako potreba iz stavka 1. ovoga članka nije zadovoljena u okviru usluge smještaja ili pomoći ostvarene po drugoj osnovi.

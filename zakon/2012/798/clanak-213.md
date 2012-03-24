@@ -1,0 +1,4 @@
+# Članak 213.
+(1) Inspektor koji provodi inspekcijski nadzor ima pravo u svako doba bez prethodne najave i bez dopuštenja ravnatelja ili druge odgovorne osobe ulaziti u prostorije i prostore ustanove socijalne skrbi i druge pravne i fizičke osobe iz članka 209. stavka 1. ovoga Zakona.
+(2) Prilikom provedbe inspekcijskog nadzora inspektor ima pravo pregledati objekte i druge poslovne prostore, dokumentaciju, saslušati korisnike, radnike i druge osobe koje zatekne, pregledati isprave na temelju kojih se može utvrditi identitet osoba (osobna iskaznica, putovnica i sl.) i obavljati druge radnje predviđene zakonom.
+(3) Ravnatelj ili druga odgovorna osoba u drugoj pravnoj osobi te fizička osoba koja obavlja poslove socijalne skrbi, mora inspektoru osigurati nesmetano obavljanje inspekcijskog nadzora i staviti mu na raspolaganje sva sredstva i potrebnu dokumentaciju.
