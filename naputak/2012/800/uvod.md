@@ -1,0 +1,1 @@
+Na temelju članka 18. i članka 19. Zakona o sustavu državne uprave (»Narodne novine«, broj 150/11), članka 26. Zakona o uporabi jezika i pisma nacionalnih manjina u Republici Hrvatskoj (»Narodne novine«, broj 51/00 i 56/00) i članka 10. Zakona o ustrojstvu i djelokrugu ministarstava i drugih središnjih tijela državne uprave (»Narodne novine«, broj 150/11), ministar uprave donosi
