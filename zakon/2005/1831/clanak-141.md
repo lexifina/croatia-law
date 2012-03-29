@@ -1,5 +1,4 @@
 ## Podaci iz osobnih očevidnika
 # Članak 141.
-(1) Podaci iz osobnih očevidnika i središnjeg popisa službenika i namještenika predstavljaju službenu tajnu. Službenik i namještenik ima pravo uvida u podatke iz svoga osobnog očevidnika i podatke iz središnjeg popisa koji se na njega odnose.
-(2) Sadržaj i način vođenja osobnih očevidnika i središnjeg popisa službenika i namještenika propisuje uredbom Vlada.
+Članak 141. prestao važiti temeljem članka 10. Zakona o registru zaposlenih u javnom sektoru (»NN«, br. 34/11. koji je stupio na snagu 31. ožujka 2011.)
 16. Dio

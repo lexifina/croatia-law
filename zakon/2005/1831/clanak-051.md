@@ -1,5 +1,7 @@
 ## Utvrđivanje liste kandidata i testiranje
 # Članak 51.
 (1) Listu kandidata prijavljenih na javni natječaj, koji ispunjavaju formalne uvjete propisane natječajem, utvrđuje komisija za provedbu natječaja, koju imenuje čelnik tijela. U komisiji obvezno mora biti predstavnik središnjeg tijela državne uprave nadležnog za službeničke odnose.
-(2) Kandidate sa liste iz stavka 1. ovoga članka komisija za provedbu natječaja upućuje na testiranje radi provjere njihovih stručnih sposobnosti, vještina i stečenog radnog iskustva u struci. Izbor kandidata s liste iz stavka 1. ovoga članka obavlja se na temelju pokazanih rezultata na testiranju.
-(3) U slučaju kada nijedan kandidat nije postigao zadovoljavajuće rezultate na provedenom testiranju, postupak prijma se obustavlja. Prije pokretanja novog postupka prijma u državnu službu za ista radna mjesta preispitat će se sadržaj testiranja i imenovati nova komisija za provedbu natječaja.
+(2) Kandidate s liste iz stavka 1. ovoga članka komisija za provedbu natječaja upućuje na testiranje i intervju radi utvrđivanja njihovog znanja, vještina i sposobnosti te stečenog radnog iskustva. Izbor kandidata za prijam u službu obavlja se između najviše 10 kandidata koji su postigli najbolje rezultate na provedenom testiranju i intervjuu. Izbor kandidata mora biti obrazložen.
+Odredbom članka 12. Zakona o izmjenama i dopunama Zakona o državnim službenicima (»NN«, br. 49/11. koji je stupio na snagu 7. svibnja 2011.) u članku 51. stavak 2. je izmijenjen.
+(3) Izbor kandidata obavlja se u roku od tri mjeseca od dana objave javnog natječaja u »Narodnim novinama«.
+Odredbom članka 12. Zakona o izmjenama i dopunama Zakona o državnim službenicima (»NN«, br. 49/11. koji je stupio na snagu 7. svibnja 2011.) u članku 51. stavak 3. je izmijenjen.

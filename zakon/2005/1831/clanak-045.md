@@ -1,9 +1,10 @@
 ## NAČINI POPUNJAVANJA RADNIH MJESTA
 ## Popunjavanje radnih mjesta
 # Članak 45.
-(1) Slobodna radna mjesta u državnim tijelima popunjavaju se putem javnog natječaja.
-(2) Prije raspisivanja javnog natječaja, slobodno radno mjesto može se popuniti iz reda državnih službenika raspisivanjem internog oglasa ili premještajem.
-(3) Kandidat koji ima pravo prednosti kod prijma u državnu službu prema posebnom zakonu, dužan je u prijavi na natječaj pozvati se na to pravo i ima prednost u odnosu na ostale kandidate samo pod jednakim uvjetima.
-(4) Izbor kandidata kojima će se popuniti slobodna radna mjesta sukladno stavku 1. i 2. ovoga članka obavlja se na temelju njihovih stručnih sposobnosti, vještina, stečenog radnog iskustva u struci, rezultata ostvarenih u njihovom dosadašnjem radu te rezultata pokazanih na testiranju.
-(5) Postupak prijma u državnu službu obustavit će se u slučaju kada se u roku određenom natječajem nije prijavio dovoljan broj kandidata ili prijavljeni kandidati ne ispunjavaju formalne uvjete za prijam u državnu službu ili nisu postigli zadovoljavajuće rezultate na provedenim testiranjima.
-(6) Postupak i način raspisivanja i provedbe javnog natječaja i internog oglasa uređuje uredbom Vlada.
+(1) Slobodna radna mjesta u državnim tijelima popunjavaju se putem javnog natječaja, internog oglasa, napredovanja, premještaja ili rasporeda državnog službenika u skladu s ovim Zakonom.
+(2) Putem javnog natječaja obvezno je popunjavanje radnih mjesta za koja je to zakonom izrijekom propisano i kod prijma vježbenika.
+Odredbom članka 1. Uredbe o izmjenama i dopunama Zakona o državnim službenicima (»NN«, br. 77/07., koja je stupila na snagu 2. kolovoza 2007.) stavak 2. je izmijenjen.
+Odredbom članka 1. Zakonom o izmjenama i dopunama Zakona o državnim službenicima (»NN«, br. 107/07. koji je stupio na snagu 27. listopada 2007.) izmijenjen je stavak 2.
+Odredbom članka 1. Uredbe o izmjenama i dopunama Zakona o državnim službenicima (»NN«, br. 77/07. koja je stupila na snagu 2. kolovoza 2007.) u stavku 4. riječi: »sukladno stavku 1. i 2. ovoga članka« zamijenjene su riječima: »putem javnog natječaja ili internog oglasa.«
+Odredbom članka 1. Zakona o izmjenama i dopunama Zakona o državnim službenicima (»NN«, br. 107/07. koji je stupio na snagu 27. listopada 2007.) u stavku 4. određene riječi su zamijenjene.
+Odredbom članka 6. Zakona o izmjenama i dopunama Zakona o državnim službenicima (»NN«, br. 49/11. koji je stupio na snagu 7. svibnja 2011.) članak 45. je izmijenjen.

@@ -1,4 +1,4 @@
-## Unošenje ocjene rada i učinkovitosti u osobni očevidnik
 # Članak 89.
-Ocjena rada i učinkovitosti unosi se u osobni očevidnik državnog službenika.
+Ocjena državnog službenika unosi se u osobni očevidnik državnog službenika.
+Odredbom članka 40. Zakona o izmjenama i dopunama Zakona o državnim službenicima (»NN«, br. 49/11. koji je stupio na snagu 7. svibnja 2011.) članak 89. je izmijenjen.
 8. Dio

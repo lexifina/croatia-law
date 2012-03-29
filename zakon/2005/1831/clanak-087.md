@@ -1,8 +1,11 @@
-## Ocjena rada i učinkovitosti
 # Članak 87.
-Rad i učinkovitost državnog službenika ocjenjivat će se ocjenama:
-a) »izvanredan« - ukoliko je rad i učinkovitost državnog službenika najviše kvalitete i osigurava najbolje i jedinstveno izvršavanje službe,
-b) »odličan« - ukoliko je rad i učinkovitost državnog službenika naročito dobar i osigurava prvorazredno izvršavanje službe,
-c) »dobar« - ukoliko je rad i učinkovitost državnog službenika prosječne kvalitete osiguravajući pouzdano obavljanje službe,
-d) »zadovoljava« - ukoliko rad i učinkovitost državnog službenika osigurava najmanju moguću mjeru prihvatljivih standarda kvalitete i preciznosti u obavljanju službe,
-e) »ne zadovoljava« - ukoliko je rad i učinkovitost državnog službenika ispod minimuma standarda kvalitete, te nije dovoljan da osigura pouzdano i prihvatljivo obavljanje službe.
+(1) Ocjena državnog službenika uzima se u obzir kod utvrđivanja:
+a) potrebe izobrazbe državnih službenika,
+b) uvjeta za napredovanje,
+c) uvjeta za promicanje,
+d) uvjeta za upućivanje državnog službenika na rad izvan državne službe,
+e) uvjeta za korištenje plaćenog studijskog dopusta.
+(2) Ocjena državnog službenika uzima se u obzir prilikom izricanja kazni za povrede službene dužnosti.
+Odredbom članka 38. Zakona o izmjenama i dopunama Zakona o državnim službenicima (»NN«, br. 49/11. koji je stupio na snagu 7. svibnja 2011.) članak 87. je izmijenjen.
+Negativna ocjena
+Odredbom članka 39. Zakona o izmjenama i dopunama Zakona o državnim službenicima (»NN«, br. 49/11. koji je stupio na snagu 7. svibnja 2011.) naslov iznad članka 88. je izmijenjen.

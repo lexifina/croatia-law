@@ -8,5 +8,10 @@ a) radna mjesta rukovodećih državnih službenika,
 b) radna mjesta viših državnih službenika,
 c) radna mjesta nižih državnih službenika.
 (4) Unutar svake kategorije utvrđuju se radna mjesta u skladu s mjerilima iz stavka 1. ovoga članka.
-(5) U kategoriji radnih mjesta rukovodećih službenika, na radna mjesta tajnika ministarstva, ravnatelja (direktora) u ministarstvu, zamjenika tajnika Vlade, predstojnika ureda Vlade, zamjenika državnog tajnika središnjeg državnog ureda, zamjenika i pomoćnika ravnatelja državne upravne organizacije te predstojnika ureda državne uprave u jedinici područne (regionalne) samouprave, službenici se imenuju na temelju javnog natječaja.
-(6) Detaljnu razradu radnih mjesta unutar svake kategorije utvrđuje Vlada uredbom.
+Stavci 5. - 9. brisani.
+Odredbom članka 4. Zakona o izmjenama i dopunama Zakona o državnim službenicima (»NN«, br. 27/08. koji je stupio na snagu 13. ožujka 2008.) zagrada i riječ »direktora« su brisani, a riječi: »službenici se imenuju« zamijenjene su riječima: »službenike imenuje i razrješava Vlada«.
+Odredbom članka 4. Zakona o izmjenama i dopunama Zakona o državnim službenicima (»NN«, br. 27/08. koji je stupio na snagu 13. ožujka 2008.) iza članka 5 dodani su novi stavci 6., 7., 8. i 9.
+Odredbom članka 26. Zakona o izmjenama i dopunama Zakona o državnim službenicima (»NN«, br. 49/11. koji je stupio na snagu 7. svibnja 2011.) stavci 5. - 9. su brisani.
+(5) Detaljnu razradu radnih mjesta unutar svake kategorije utvrđuje Vlada uredbom.
+Odredbom članka 4. Zakona o izmjenama i dopunama Zakona o državnim službenicima (»NN«, br. 27/08. koji je stupio na snagu 13. ožujka 2008.) dosadašnji stavak 6. postao je stavak 10.
+Odredbom članka 26. Zakona o izmjenama i dopunama Zakona o državnim službenicima (»NN«, br. 49/11. koji je stupio na snagu 7. svibnja 2011.) stavak 10. postao je stavak 5.

@@ -1,6 +1,9 @@
-## Postupak ocjenjivanja
 # Članak 86.
-(1) Rad i učinkovitost državnog službenika ocjenjuje neposredno nadređeni službenik, pri čemu utvrđuje njegovu učinkovitost uspoređivanjem rezultata izvršenih poslova s rezultatima utvrđenim u opisu njegovog radnog mjesta i radnim planovima.
-(2) Ako službenik nije zadovoljan predloženom ocjenom, ima pravo dati primjedbu nadređenom službeniku, koji je dužan tu primjedbu razmotriti zajedno sa službenikom.
-(3) Pravilnost predložene ocjene kontrolira službenik koji je neposredno nadređen službeniku koji je predložio ocjenu te prijedlog ocjene zajedno sa svojim mišljenjem dostavlja čelniku tijela.
-(4) Čelnik tijela donosi rješenje o ocjeni.
+(1) O ocjeni se donosi rješenje.
+(2) Rješenje o ocjeni donosi čelnik tijela ili službena osoba ovlaštena za donošenje rješenja o ocjeni, uzimajući u obzir prijedlog neposredno nadređenog državnog službenika, kao i mišljenja ostalih hijerarhijski nadređenih službenika.
+(3) Državnog službenika kojem je čelnik tijela jedini nadređeni, ocijenit će čelnik tijela neposredno.
+(4) Ocjena mora biti obrazložena.
+(5) Službenik u žalbi protiv rješenja o ocjeni mora navesti razloge zbog kojih rješenje pobija i priloži odgovarajuće dokaze na kojima žalbu temelji.
+Odredbom članka 37. Zakona o izmjenama i dopunama Zakona o državnim službenicima (»NN«, br. 49/11. koji je stupio na snagu 7. svibnja 2011.) članak 86. je izmijenjen.
+Utjecaj ocjene državnog službenika
+Odredbom članka 38. Zakona o izmjenama i dopunama Zakona o državnim službenicima (»NN«, br. 49/11. koji je stupio na snagu 7. svibnja 2011.) naslov iznad članka 87. je izmijenjen.
