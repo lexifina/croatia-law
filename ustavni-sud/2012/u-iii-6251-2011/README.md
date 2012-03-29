@@ -1,0 +1,10 @@
+# Rješenje Ustavnog suda Republike Hrvatske broj: U-III-6251/2011 od 29. ožujka 2012.
+
+- Case: `U-III-6251/2011`
+- Proceeding: Ustavna tužba
+- Decision: rješenje
+- Decision date: `2012-03-29`
+- Official database page: <https://sljeme.usud.hr/usud/praksaw.nsf/fOdluka.xsp?action=openDocument&documentId=C12570D30061CE54C12579D0002A6539>
+- Official database page SHA-256: `bcde268c44743972121a8b4c5afee66a36b8704f639679122fef4b34ced5bcb2`
+
+Metadata-only record: the decision concerns a named person (constitutional complaint and similar proceedings are listed as metadata only in this repository); use the official links above.
