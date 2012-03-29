@@ -1,0 +1,1 @@
+Na temelju odredbe članka 360. stavka 1., članka 364. stavka 6. i članka 374. stavka 4. Zakona o tržištu kapitala (»Narodne novine« br. 88/08, 146/08, 74/09), Upravno vijeće Hrvatske agencije za nadzor financijskih usluga, na sjednici održanoj 15. ožujka 2012. godine, donijelo je
