@@ -1,0 +1,1 @@
+Pravilnik o izmjeni i dopuni Pravilnik o učestalosti uzorkovanja trupova, mljevenog mesa i mesnih pripravaka te uvjetima i načinu smanjenja broja elementarnih jedinica uzorka u objektima manjeg kapaciteta proizvodnje
