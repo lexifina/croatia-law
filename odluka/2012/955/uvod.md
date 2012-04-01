@@ -1,0 +1,1 @@
+Na temelju članka 28. stavka 9. Zakona o energiji (»Narodne novine«, br. 68/2001, 177/2004, 76/2007, 152/2008 i 127/2010) i članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, broj 150/2011), Vlada Republike Hrvatske je na sjednici održanoj 29. ožujka 2012. godine donijela
