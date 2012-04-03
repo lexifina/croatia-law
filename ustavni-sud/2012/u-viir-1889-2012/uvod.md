@@ -1,0 +1,1 @@
+Ustavni sud Republike Hrvatske, u sastavu Aldo Radolović, zamjenik predsjednice Suda, te suci Mato Arlović, Marko Babić, Snježana Bagić, Slavica Banić, Mario Jelušić, Ivan Matija, Antun Palarić, Duška Šarin i Miroslav Šeparović, rješavajući o zahtjevu za provođenje nadzora nad ustavnošću i zakonitošću državnog referenduma, na sjednici održanoj 3. travnja 2012. donio je
