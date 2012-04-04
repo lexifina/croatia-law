@@ -1,0 +1,2 @@
+# Članak 5.
+Prava i obveze unutarnjih revizora u odnosu na revidirani subjekt uređuju se poveljom unutarnjih revizora. Povelju unutarnjih revizora izrađuje Ured na temelju predloška ustrojstvene jedinice Ministarstva financija zadužene za koordinaciju uspostave i razvoja sustava unutarnjih financijskih kontrola u javnom sektoru, a potpisuje ju čelnik revidiranog subjekta i ravnatelj Ureda kao voditelj zajedničke jedinice za unutarnju reviziju.
