@@ -1,0 +1,1 @@
+Na temelju članka 27. stavka 3. Zakona o Vladi Republike Hrvatske (»Narodne novine«, broj 150/2011), članka 63. stavka 2. Zakona o sustavu državne uprave (»Narodne novine«, broj 150/2011) i članka 18. stavka 1. Zakona o ravnopravnosti spolova (»Narodne novine«, broj 82/2008), Vlada Republike Hrvatske je na sjednici održanoj 29. ožujka 2012. godine donijela
