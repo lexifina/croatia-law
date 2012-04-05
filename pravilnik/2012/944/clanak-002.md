@@ -1,0 +1,4 @@
+# Članak 2.
+Članak 2. stavak 1. mijenja se i glasi:
+»Osiguranicima iz članka 1. ovoga pravilnika smatraju se osiguranici iz članka 10. stavka 1. točke 7., članka 11. do 14. i članka 16. Zakona o mirovinskom osiguranju (»Narodne novine«, broj 102/98., 127/00., 59/01., 109/01., 147/02., 117/03., 30/04., 177/04., 92/05., 43/07., 79/07., 35/08., 40/10., 121/10. i 130/10. - pročišćeni tekst, 61/11. i 114/11.) kojima je, na temelju rješenja Porezne uprave, odnosno na temelju rješenja koja je Hrvatski zavod za mirovinsko osiguranje (u daljnjem tekstu: Zavod) donio u skladu s odredbom članka 67. ranije važećeg Pravilnika o doprinosima za obvezna osiguranja (»Narodne novine«, broj 1/05. i 14/05.) ili odredbom članka 45. Zakona o izmjenama i dopunama Zakona o mirovinskom osiguranju (»Narodne novine«, broj 147/02), otpisan dug po osnovi doprinosa za mirovinsko osiguranje zbog zastare i nenaplativosti.«.
+Članak 2. stavak 2. briše se.

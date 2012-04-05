@@ -1,0 +1,3 @@
+# Članak 1.
+U Pravilniku o postupku naknadne uplate doprinosa otpisanih zbog zastare i nenaplativosti za osiguranike koji su sami za sebe obveznici doprinosa i obveznici plaćanja doprinosa (»Narodne novine«, broj 136/06.) članak 1. mijenja se i glasi:
+»Ovim se pravilnikom pobliže propisuje postupak naknadne uplate doprinosa za mirovinsko osiguranje na temelju generacijske solidarnosti (u daljnjem tekstu: doprinosi) otpisanih zbog zastare i nenaplativosti, u skladu s člankom 234. stavkom 1. i člankom 237. stavkom 1. Zakona o doprinosima (»Narodne novine«, broj 84/08., 152/08., 94/09. i 18/11., u daljnjem tekstu: Zakon), za osiguranike koji su sami za sebe obveznici doprinosa i obveznici plaćanja doprinosa, radi ostvarivanja prava iz mirovinskog osiguranja.«.
