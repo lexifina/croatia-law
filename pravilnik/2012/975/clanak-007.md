@@ -1,0 +1,2 @@
+# Članak 7.
+Nositelj odobrenja, odnosno prijevoznik mora osigurati da se ne ometa, uklanja, mijenja, oštećuje ili na neki drugi način smanjuje učinkovitost bilo koje mjere fizičke sigurnosti radioaktivnih izvora i nuklearnog materijala osim za potrebe opravdane zamjene izvora, prijevoza ili tehničkog servisiranja, tijekom kojeg moraju biti predviđene odgovarajuće mjere koje će osigurati istu razinu fizičke sigurnosti kakva je predviđena odgovarajućim Sigurnosnim planom.

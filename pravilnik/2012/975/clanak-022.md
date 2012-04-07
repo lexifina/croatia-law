@@ -1,0 +1,3 @@
+## PRIJELAZNE I ZAVRŠNE ODREDBE
+# Članak 22.
+Nositelji odobrenja, odnosno prijevoznici kojima je do dana stupanja na snagu ovog Pravilnika dano odobrenje za obavljanje djelatnosti koja uključuje korištenje, odnosno prijevoz radioaktivnih izvora i nuklearnog materijala 1., 2. i 3. kategorije, te korisnici kojima je dana dozvola za uporabu radioaktivnih izvora iz članka 27. stavka 2. Zakona o zaštiti od ionizirajućeg zračenja i sigurnosti izvora ionizirajućeg zračenja (»Narodne novine« br. 64/06) i članka 10. stavka 1. Zakona o radiološkoj i nuklearnoj sigurnosti (»Narodne novine« br. 28/10), obvezni su u roku od godinu dana od dana stupanja na snagu ovog Pravilnika donijeti Sigurnosne planove.

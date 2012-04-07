@@ -1,0 +1,5 @@
+# Članak 3.
+Nositelj odobrenja ili prijevoznik, sukladno Zakonu o radiološkoj i nuklearnoj sigurnosti i pravilniku kojim se reguliraju djelatnosti i dozvole za uporabu izvora ionizirajućeg zračenja određuje kategoriju svakog radioaktivnog izvora ili skupa radioaktivnih izvora ili nuklearnog materijala.
+Kategorija radioaktivnog izvora ili skupa radioaktivnih izvora određuje se prema metodologiji specificiranoj u Prilogu II. ovog Pravilnika koji čini njegov sastavni dio. Odredbe ovog Pravilnika koje se odnose na radioaktivne izvore određene kategorije, primjenjuju se i na skup radioaktivnih izvora iste kategorije.
+Kategorija nuklearnog materijala određuje se sukladno Prilogu III. ovog Pravilnika koji čini njegov sastavni dio.
+Nositelj odobrenja ili prijevoznik obvezan je prema kategoriji iz stavka 1., 2. i 3. ovog članka utvrditi sigurnosne mjere i postupke koji će udovoljavati zahtjevima osiguranja sukladno Prilogu V. ovog Pravilnika koji čini njegov sastavni dio, a u slučaju specifične ili povećane prijetnje iz Priloga IV. ovog Pravilnika koji čini njegov sastavni dio.
