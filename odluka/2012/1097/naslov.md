@@ -1,0 +1,1 @@
+Odluka o koncesiji pomorskog dobra u svrhu izgradnje i gospodarskog korištenja luka posebne namjene: 1) "Luka nautičkog turizma - Sveta Katarina" na dijelu k.o. Pula i dijelu k.o. Štinjan; i 2) "Luka 2" na dijelu ko.o. Štinjan na lokaciji razvojnog programa Brijuni Rivijera-"otok Sv. Katarina - Monumenti"
