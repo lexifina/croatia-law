@@ -1,0 +1,1 @@
+39 04.04.2012 Pravilnik o izmjenama i dopunama Pravilnika o minimalnim standardima, načinu obračuna i mjerilima za izračun tehničkih pričuva osiguranja 39 04.04.2012 Pravilnik o izmjenama i dopunama Pravilnika o minimalnim standardima, načinu obračuna i mjerilima za izračun tehničkih pričuva osiguranja
