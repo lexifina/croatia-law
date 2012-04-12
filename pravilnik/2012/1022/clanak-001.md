@@ -1,0 +1,6 @@
+# Članak 1.
+U Pravilniku o načinu izračuna pokazatelja likvidnosti i najmanjoj vrijednosti pokazatelja likvidnosti društva za osiguranje, odnosno društva za reosiguranje (»Narodne novine« broj 119/09) u članku 11. stavak 2. i 3. mijenjaju se i glase:
+»(2) Društvo za osiguranje, odnosno društvo za reosiguranje dužno je izvještaj iz stavka 1. ovog članka dostaviti najkasnije u roku od deset (10) dana od posljednjeg dana u mjesecu za koji se izvještaj dostavlja, u elektroničkom obliku s naprednim elektroničkim potpisom u skladu s tehničkom uputom Agencije.
+(3) Smatra se da je društvo za osiguranje, odnosno društvo za reosiguranje dostavilo izvještaj iz stavka 1. ovog članka u trenutku kada je izvještaj prihvaćen na poslužitelju Agencije za primanje izvještaja.«
+Iza stavka 3. dodaje se stavak 4. koji glasi:
+»(4) U opravdanim slučajevima nemogućnosti dostave na način propisan stavkom 2. ovog članka, društvo za osiguranje odnosno društvo za reosiguranje dužno je u propisanom roku dostaviti izvještaj iz stavka 1. ovog članka u pisanom obliku, neposredno ili poštom u svrhu pravodobnog izvješćivanja. Društvo za osiguranje odnosno društvo za reosiguranje dužno je dostaviti izvještaj na način propisan stavkom 2. ovog članka čim prestanu razlozi nemogućnosti dostave, a najkasnije u roku od osam dana od isteka roka za dostavu izvještaja.«
