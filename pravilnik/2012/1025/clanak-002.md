@@ -1,0 +1,5 @@
+# Članak 2.
+Iza članka 4. dodaje se naslov »Način izvješćivanja« i dodaje se članak 4.a koji glasi:
+(1) Izvještaje iz članka 4. stavka 3. i 4. te članka 12. stavka 1. i 3. ovog Pravilnika društvo za osiguranje, odnosno društvo za reosiguranje dužno je dostaviti Agenciji u elektroničkom obliku s naprednim elektroničkim potpisomu skladu s tehničkom uputom Agencije.
+(2) Smatra se da je društvo za osiguranje, odnosno društvo za reosiguranje dostavilo izvještaje iz stavka 1. ovog članka u trenutku kada je izvještaj prihvaćen na poslužitelju Agencije za primanje izvještaja.
+(3) U opravdanim slučajevima nemogućnosti dostave na način propisan stavkom 1. ovog članka, društvo za osiguranje odnosno društvo za reosiguranje dužno je u propisanom roku dostaviti izvještaje iz članka 4. stavka 3. i 4. te članka 12. stavka 1. i 3. ovog Pravilnika u pisanom obliku, neposredno ili poštom u svrhu pravodobnog izvješćivanja. Društvo za osiguranje odnosno društvo za reosiguranje dužno je dostaviti izvještaj na način propisan stavkom 1. ovog članka čim prestanu razlozi nemogućnosti dostave, a najkasnije u roku od osam dana od isteka roka za dostavu izvještaja.
