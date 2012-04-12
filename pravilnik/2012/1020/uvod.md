@@ -1,0 +1,1 @@
+Na temelju odredbe članka 15. stavak 5. Zakona o računovodstvu (»Narodne novine« broj 109/07) te članka 101. točka 9., članka 103. stavak 1. i članka 155. stavak 2. Zakona o osiguranju (»Narodne novine« broj 151/05, 87/08 i 82/09), Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća, održanoj 29. ožujka 2012. godine, donijela je
