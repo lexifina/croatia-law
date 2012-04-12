@@ -1,0 +1,1 @@
+Na temelju članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, broj 150/2011) i članka 14. stavka 6. Zakona o tržištu nafte i naftnih derivata (»Narodne novine«, br. 57/2006 i 18/2011), Vlada Republike Hrvatske je na sjednici održanoj 12. travnja 2012. godine donijela
