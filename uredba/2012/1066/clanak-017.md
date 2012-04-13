@@ -1,0 +1,3 @@
+# Članak 17.
+Odjel za ostala mjerila i ispitivanje pretpakovina provodi ovjeravanje mjerila električnih veličina, mjerila temperature, tlaka, duljine i ostalih mjerila, ispitivanje pretpakovina, ispitivanje sukladnosti mjerila električnih veličina, mjerila temperature, tlaka, duljine i ostalih mjerila s propisanim tehničkim i mjeriteljskim zahtjevima, službena mjerenja, izvanredna ispitivanja zakonitih mjerila električnih veličina u uporabi, vodi propisanu dokumentaciju, te po potrebi sudjeluje u postupcima tipnog ispitivanja mjerila električnih veličina, mjerila temperature, tlaka, duljine i ostalih mjerila, postupcima ovlašćivanja pravnih osoba i postupcima ovlašćivanja servisa.
+2.5. Služba mjeriteljskih poslova - Područna jedinica Osijek
