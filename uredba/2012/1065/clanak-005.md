@@ -1,0 +1,21 @@
+# Članak 5.
+Jedinica za praćenje provedbe Nacionalnog programa zaštite i promicanja ljudskih prava i preporuka pučkog pravobranitelja, te suradnju s organizacijama civilnoga društva obavlja sljedeće poslove:
+- koordinira aktivnosti tijela državne uprave uključenih u provedbu Nacionalnog programa za zaštitu i promicanje ljudskih prava;
+- koordinira, prati i vrednuje provedbu Nacionalnog programa za zaštitu i promicanje ljudskih prava;
+- koordinira, prati i vrednuje provedbu Nacionalnog plana za borbu protiv diskriminacije i pripadajuće akcijske planove;
+- priprema izvješće o provedbi Nacionalnog plana za borbu protiv diskriminacije te Nacionalnog programa za zaštitu i promicanje ljudskih prava, koje podnosi na usvajanje Vladi Republike Hrvatske;
+- provodi vrednovanje ukupne provedbe nacionalnih programa i njihovih učinaka na stanje ljudskih prava u Republici Hrvatskoj;
+- priprema sjednice Povjerenstva za ljudska prava Vlade Republike Hrvatske i Nacionalnog odbora za odgoj i obrazovanje za ljudska prava i demokratsko građanstvo; prati provedbu preporuka iz godišnjih izvješća pučkog pravobranitelja, i to: izvješća o radu, izvješća o pojavama diskriminacije i izvješća o obavljanju poslova Nacionalnog preventivnog mehanizma za sprječavanje mučenja i drugih okrutnih, neljudskih ili ponižavajućih postupaka ili kažnjavanja te izrađuje izvješće o provedbi preporuka iz godišnjih izvješća pučkog pravobranitelja i dostavlja ga Vladi Republike Hrvatske na usvajanje, u sklopu redovnog godišnjeg izvještavanja o napretku u provedbi Nacionalnog programa zaštite i promicanja ljudskih prava;
+- preporuke iz godišnjih izvješća pučkog pravobranitelja, u svrhu njihove provedbe, Ured dostavlja nadležnim tijelima državne uprave koja su se obvezna očitovati o provedenim aktivnostima u svrhu ispunjavanja navedenih preporuka;
+- prikuplja i objavljuje podatke o zločinima iz mržnje;
+- surađuje s organizacijama civilnoga društva i međunarodnim organizacijama;
+- organizira preventivne kampanje;
+- koordiniranje radom Radne skupine za praćenje zločina iz mržnje; godišnje raspisuje natječaje za dodjelu financijskih sredstava iz proračuna Ureda organizacijama civilnoga društva koje su aktivne u području zaštite i promicanja ljudskih prava, koordinira provedbu natječaja te rad stručnih radnih skupina;
+- prati provedbu financiranih projekata i programa organizacija civilnoga društva;
+- obrađuje izvješća organizacija civilnoga društva o provedenim projektima i programima za koje je odobrena financijska potpora iz proračuna Ureda;
+- godišnje raspisuje natječaj za učeničke radove na temu zaštite i promicanja ljudskih prava;
+- surađuje s organizacijama civilnoga društva na području obrazovanja ciljanih skupina na temu zaštite i promicanja ljudskih prava;
+- prati i po potrebi koordinira rad županijskih koordinacija za ljudska prava;
+- organizira seminare i okrugle stolove radi podizanja javne svijesti o ljudskim pravima;
+- sadržajno priprema, izrađuje i ažurira mrežne stranice Ureda iz djelokruga Jedinice;
+- obavlja i druge poslove koje joj povjeri ravnatelj Ureda.
