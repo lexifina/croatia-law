@@ -1,0 +1,2 @@
+# Članak 37.
+Pododsjek za pisarnicu i pismohranu obavlja administrativne poslove za Državnu upravu, prati primjenu i provedbu propisa u Državnoj upravi u području uredskog poslovanja i arhiviranja dokumenata, obavlja stručne poslove prijama, evidentiranja, klasificiranja i prevođenja u elektronički oblik, raspodjele, pohrane i arhiviranja pismena i drugih ulaznih i izlaznih dokumenata, vodi propisane evidencije uredskog poslovanja.

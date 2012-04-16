@@ -1,0 +1,8 @@
+## 4.1. DRŽAVNI CENTAR ZAŠTITE I SPAŠAVANJA
+# Članak 19.
+Državni centar zaštite i spašavanja operativno-komunikacijski koordinira i provodi prijem, prikupljanje, analizu, obradu, prijenos i distribuciju izvješća, podataka, odluka, naloga i zapovijedi o svim vrstama opasnosti i mogućim posljedicama; u hitnim i izvanrednim situacijama operativno koordinira rad županijskih centara 112, tijela državne uprave, žurnih službi, pravnih i fizičkih osoba; obavješćuje i usmjerava obavijesti o opasnostima i događajima svim žurnim službama zaštite i spašavanja, građanima, nadležnim pravnim osobama i tijelima državne uprave; prikuplja hidrološke, meteorološke, seizmološke, radiološke, epidemiološke podatke i podatke o onečišćenju okoliša od mjerodavnih službi i tijela, te prati stanje i promjene tih podataka; obavlja poslove operativno-komunikacijskog središta za vatrogasne intervencije na razini Republike Hrvatske; izrađuje operativne dokumente za rad Državnog centra zaštite i spašavanja; sudjeluje u vježbama zaštite i spašavanja u zemlji i inozemstvu; razmjenjuje informacije i podatke s drugim državama i međunarodnim organizacijama; nositelj je razvoja Nacionalnog središta za koordinaciju primanja i/ili upućivanja žurne pomoći u katastrofama; pruža operativno - komunikacijsku, analitičku i GIS potporu stručnom kolegiju Državne uprave i Stožeru zaštite i spašavanja Republike Hrvatske.
+U Državnom centru zaštite i spašavanja ustrojavaju se sljedeći odjeli:
+4.1.1. Odjel za operativno-komunikacijske poslove
+4.1.2. Vatrogasno operativno središte (VOS)
+4.1.3. Odjel za plansku, analitičku i GIS potporu.
+4.1.1. Odjel za operativno-komunikacijske poslove

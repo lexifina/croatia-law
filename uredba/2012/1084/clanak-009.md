@@ -1,0 +1,9 @@
+## 2.3. DRŽAVNA INTERVENCIJSKA POSTROJBA CIVILNE ZAŠTITE
+# Članak 9.
+Državna intervencijska postrojba civilne zaštite (u daljnjem tekstu: DIP CZ) ustrojava se kao služba za specijalističke poslove zaštite i spašavanja iz ruševina, na vodi, u RKBN događajima i logističke poslove zbrinjavanja stanovništva. DIP CZ sastoji se od profesionalne jezgre i pričuvnika. Profesionalna jezgra obavlja stručne poslove vezane za ustrojavanje državnih intervencijskih postrojbi civilne zaštite, izrade prijedloga razvojnih planova i planova uporabe DIP CZ, popunu ljudstvom i materijalno-tehničkim sredstvima, planiranje priprema i provedbe programa osposobljavanja i uvježbavanja, sudjelovanje u planiranju, organizaciji i provedbi vježbi državnog i međunarodnog značaja; DIP CZ prati razvoj novih tehnologija, opreme i sredstava, metoda i postupaka u zaštiti i spašavanju, te predlaže njihovo praktično uvođenje u operativnu uporabu. U obavljanju ovih poslova DIP CZ usko surađuje sa Službom za operativu, opremanje i razvoj i s nadležnim područnim uredima za zaštitu i spašavanje, te drugim nadležnim ustrojstvenim cjelinama Državne uprave. U cilju osiguravanja operativnosti Državna intervencijska postrojba civilne zaštite u svim svojim teritorijalnim ustrojbenim cjelinama razvija sve operativne komponente za spašavanje iz ruševina i iz vode, te RKBN zaštitu i logistiku.
+U sastavu Državne intervencijske postrojbe civilne zaštite ustrojavaju se sljedeće područne jedinice kao odjeli:
+2.3.1. Državna intervencijska postrojba civilne zaštite - Odjel Zagreb, sa sjedištem u Zagrebu
+2.3.2. Državna intervencijska postrojba civilne zaštite - Odjel Split, sa sjedištem u Splitu
+2.3.3. Državna intervencijska postrojba civilne zaštite - Odjel Rijeka, sa sjedištem u Rijeci
+2.3.4. Državna intervencijska postrojba civilne zaštite - Odjel Osijek, sa sjedištem u Osijeku.
+2.3.1. - 2.3.4. Državne intervencijske postrojbe civilne zaštite - Odjeli Zagreb, Split, Rijeka i Osijek

@@ -1,0 +1,4 @@
+## V. RADNA MJESTA S POSEBNIM OVLASTIMA I ODGOVORNOSTIMA
+# Članak 55.
+Državni službenici s posebnim ovlastima i odgovornostima, u smislu Zakona o zaštiti i spašavanju su: načelnici sektora - zapovjednici za civilnu zaštitu i vatrogastvo, voditelji službi i odjela, te službenici za operativne, preventivne i planske poslove za civilnu zaštitu, voditelji službi i odjela, te službenici za operativne, preventivne i planske poslove u vatrogastvu, pročelnici područnih ureda za zaštitu i spašavanje, voditelji odjela i službenici za preventivne i planske poslove u područnim uredima, inspektori za zaštitu i spašavanje i inspektori za vatrogastvo, vatrogasni zapovjednici, njihovi zamjenici i pripadnici državnih intervencijskih postrojbi.
+Radna mjesta službenika s posebnim ovlastima i odgovornostima uredit će se Pravilnikom o unutarnjem redu Državne uprave.
