@@ -1,0 +1,3 @@
+# Članak 22.
+Pododsjek investicijskog i tekućeg održavanja obavlja poslove investicijskog i tekućeg održavanja poslovnih zgrada i prostorija, uređaja i hortikulturnih nasada Ureda te drugih objekata i uredskih prostora o kojima skrbi Ured; vodi brigu o zagrijavanju i čišćenju poslovnog i drugog prostora te održavanju zelenila; odgovara za rad energetskih postrojenja i snabdijevanje objekata svim energentima; obavlja poslove popravaka i održavanja elektro-uređaja; obavlja poslove održavanja i servisiranja kotlovnica, sustava grijanja i sustava klime; obavlja poslove manjih popravaka stolarije i uredskog namještaja; obavlja i druge poslove iz svog djelokruga rada.
+6.2. Pododsjek prehrane za potrebe Hrvatskoga sabora

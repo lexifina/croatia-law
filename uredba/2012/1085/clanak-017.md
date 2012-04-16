@@ -1,0 +1,6 @@
+# Članak 17.
+Odjel za telekomunikacije i praćenje rada sjednica Hrvatskoga sabora obavlja poslove planiranja, razvoja i održavanja telekomunikacijskih i audio i video sustava za Ured i državna tijela iz članka 2. ove Uredbe za koje Odjel za telekomunikacije i praćenje rada sjednica Hrvatskoga sabora obavlja poslove; obavlja poslove projektiranja, koordiniranja i organiziranja izrade i primjene telekomunikacijskih i audio i video sustava; obavlja poslove podrške korisnicima sustava i održavanje veze između korisnika i razvoja sustava te korisnika i provedbe; obavlja poslove praćenja rada sjednica Hrvatskoga sabora; obavlja poslove tiskanja sjedničkih i drugih materijala po zahtjevu svih korisnika za koje Odjel za telekomunikacije i praćenje rada sjednica Hrvatskoga sabora obavlja poslove iz svog djelokruga; obavlja poslove prijepisa, spikiranja i izrade stenograma sjednica Hrvatskoga sabora; obavlja poslove fotokopiranja te uvezivanja tiskanih materijala; kontinuirano prati pozitivne propise u Republici Hrvatskoj iz svog djelokruga rada; obavlja i druge poslove iz svog djelokruga rada.
+U Odjelu za telekomunikacije i praćenje rada sjednica Hrvatskoga sabora ustrojavaju se:
+5.1.1. Pododsjek praćenja rada sjednica Hrvatskoga sabora
+5.1.2. Pododsjek za obavljanje poslova tiskare i knjigovežnice.
+5.1.1. Pododsjek praćenja rada sjednica Hrvatskoga sabora

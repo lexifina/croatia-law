@@ -1,0 +1,6 @@
+# Članak 12.
+Služba za računovodstvo obavlja i odgovara za knjigovodstvene poslove; vodi proračunsko računovodstvo sukladno zakonskim propisima; u skladu sa zakonom izrađuje sve vrste financijskih izvješća, obavlja sustavno praćenje i evidentiranje transakcija i poslovnih događaja, primitaka, izdataka i drugih plaćanja; vodi sve poslovne knjige: dnevnik, glavnu knjigu i pomoćne knjige; izrađuje bilance poslovanja, tromjesečne financijske izvještaje i završne račune; organizira provođenje godišnjih popisa osnovnih sredstava, sitnog inventara, zaliha u skladištima, obveza i potraživanja; obavlja poslove vođenja očevidnika, rukovanja imovinom, inventarom i umjetninama; obavlja poslove vezane uz državnu riznicu; obavlja obračun plaća, naknada i honorara, blagajničko poslovanje; kontinuirano prati pozitivne propise u Republici Hrvatskoj iz svog djelokruga rada; obavlja i druge poslove iz svog djelokruga rada.
+U Službi za računovodstvo ustrojavaju se:
+3.1. Odjel za financijsko-materijalno knjigovodstvo, osobne rashode i devizna plaćanja
+3.2. Odjel za vođenje očevidnika, rukovanje imovinom, inventarom i umjetninama.
+3.1. Odjel za financijsko-materijalno knjigovodstvo, osobne rashode i devizna plaćanja
