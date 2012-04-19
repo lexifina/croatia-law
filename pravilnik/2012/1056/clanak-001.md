@@ -1,0 +1,2 @@
+# Članak 1.
+U Pravilniku o načinu ostvarivanja prava na slobodan izbor doktora medicine i doktora stomatologije primarne zdravstvene zaštite (»Narodne novine« broj: 41/07., 4/10. i 13/10 - ispravak) u naslovu Pravilnika i cijelom tekstu riječ: »stomatologija« zamjenjuje se riječima: »dentalna medicina«, a riječ: »stomatološko« zamjenjuje se riječi: »dentalno«, u skladu s odgovarajućim padežom i brojem.
