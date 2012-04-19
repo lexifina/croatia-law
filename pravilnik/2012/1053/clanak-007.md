@@ -1,0 +1,6 @@
+# Članak 7.
+1) Naziv »maslac« može se upotrebljavati za složene proizvode u kojima je maslac bitan dio, u smislu članka 6. stavka 1. Pravilnika o mlijeku i mliječnim proizvodima (»Narodne novine« br. 20/09). Gotov proizvod mora sadržavati najmanje 75% mliječne masti i biti proizveden isključivo od maslaca koji ispunjava zahtjeve iz Priloga I. dijela A1. ovoga Pravilnika te drugih sastojaka sukladno zahtjevima kakvoće.
+2) Naziv »maslac« može se upotrebljavati za složene proizvode koji sadrže najmanje 62%, ali manje od 75% mliječne masti, ako su zadovoljeni drugi uvjeti iz stavka 1. ovoga članka i ako naziv proizvoda uključuje izraz »pripravak maslaca«.
+3) Iznimno od stavaka 1. i 2. ovoga članka, naziv »maslac« može se upotrebljavati zajedno s riječju ili riječima za označavanje proizvoda koji sadrže najmanje 34% mliječne masti, a navedeni su u Prilogu III. koji je tiskan uz ovaj Pravilnik i njegov je sastavni dio.
+4) Pri upotrebi naziva »maslac« sukladno odredbama stavaka 1., 2., i 3. ovoga članka kod označavanja i prezentiranja proizvoda navodi se udio mliječne masti, a ako drugi dodani sastojci sadrže mast, i ukupni udio masti.
+5) Izraz »pripravak maslaca« iz stavka 2. i oznake iz stavka 4. ovoga članka moraju biti navedene na istaknutom mjestu, lako uočljive i jasno čitljive.
