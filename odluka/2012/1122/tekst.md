@@ -1,0 +1,22 @@
+I.
+Djelatnoj vojnoj osobi kojoj na temelju članka 6. Zakona o pravima iz mirovinskog osiguranja djelatnih vojnih osoba, policijskih službenika i ovlaštenih službenih osoba (»Narodne novine«, broj 128/99, 129/00, 16/01, 22/02 i 41/08) prestane služba zbog potreba službe s pravom na starosnu mirovinu, pripada otpremnina u iznosu od 12 neto proračunskih osnovica sukladno zakonu kojim se uređuju prihodi, primici, rashodi i izdaci državnog proračuna Republike Hrvatske i njegovo izvršavanje.
+II.
+Djelatnoj vojnoj osobi kojoj na temelju članka 6.a Zakona o pravima iz mirovinskog osiguranja djelatnih vojnih osoba, policijskih službenika i ovlaštenih službenih osoba (»Narodne novine«, broj 128/99, 129/00, 16/01, 22/02 i 41/08) prestane služba zbog utvrđene nemogućnosti daljnjeg profesionalnog razvoja s pravom na invalidsku mirovinu pripada otpremnina u visini 3,5 neto proračunske osnovice sukladno zakonu kojim se uređuju prihodi, primici, rashodi i izdaci državnog proračuna Republike Hrvatske i njegovo izvršavanje.
+Iznimno od stavka 1. ove točke otpremnina ne pripada djelatnoj vojnoj osobi s kojom se sklopi sporazum o prijemu u državnu službu u svojstvu državnog službenika.
+III.
+Djelatnoj vojnoj osobi kojoj na temelju Zakona o mirovinskom osiguranju (»Narodne novine«, broj 102/98, 127/00, 59/01, 109/01, 147/02, 117/03, 30/04, 177/04, 92/05, 79/07, 35/08, 40/10, 121/10, 130/10 - pročišćeni tekst, 61/11 i 114/11), prestane služba zbog potreba službe s pravom na starosnu ili prijevremenu starosnu mirovinu, pripada otpremnina u iznosu od 3 neto proračunske osnovice sukladno zakonu kojim se uređuju prihodi, primici, rashodi i izdaci državnog proračuna Republike Hrvatske i njegovo izvršavanje.
+IV.
+Djelatnoj vojnoj osobi kojoj na temelju članka 11. Zakona o pravima iz mirovinskog osiguranja djelatnih vojnih osoba, policijskih službenika i ovlaštenih službenih osoba (»Narodne novine«, broj 128/99, 129/00, 16/01, 22/02 i 41/08) prestane služba s pravom na invalidsku mirovinu temeljem rješenja zdravstvene komisije Ministarstva obrane, pripada otpremnina u iznosu od 3 neto proračunske osnovice sukladno zakonu kojim se uređuju prihodi, primici, rashodi i izdaci državnog proračuna Republike Hrvatske i njegovo izvršavanje.
+Osobi iz stavka 1. ove točke kojoj Hrvatski zavod za mirovinsko osiguranje utvrdi profesionalnu nesposobnost za rad od dana izvršnosti rješenja o mirovini pripada i razlika do iznosa od 3,5 neto proračunske osnovice.
+Iznimno od stavka 2. ove točke otpremnina ne pripada djelatnoj vojnoj osobi s kojom se sklopi sporazum o prijemu u državnu službu u svojstvu državnog službenika.
+V.
+Djelatnim vojnim osobama iz ove Odluke koje imaju priznat status hrvatskog branitelja uvećava se otpremnina ovisno o vremenskom razdoblju sudjelovanja u Domovinskom ratu na način da se za svaki puni mjesec dana sudjelovanja u Domovinskom ratu otpremnina uvećava za iznos od 525,00 kuna neto.
+VI.
+Djelatna vojna osoba kojoj služba prestaje sukladno odredbama ove Odluke dužna je u roku od 30 dana od dana izvršnosti rješenja o prestanku službe s pravom na mirovinu podmiriti sve obveze prema Ministarstvu obrane.
+VII.
+Osobe iz točki I., II. i IV. ove Odluke koje se u roku od tri godine zaposle kod korisnika državnog proračuna Republike Hrvatske utvrđenog u smislu odredbi Zakona o proračunu, u trgovačkom društvu Pleter-usluge d.o.o., Agencija Alan d.o.o., Zrakoplovno-tehnički centar d.d. ili u drugom trgovačkom društvu u 100% vlasništvu Republike Hrvatske osnovanom radi obavljanja djelatnosti za potrebe Ministarstva obrane, dužne su Ministarstvu obrane vratiti puni iznos primljene otpremnine.
+Uprava za ljudske resurse obvezna je najmanje jednom godišnje razmjenom podataka s Hrvatskim zavodom za mirovinsko osiguranje provjeriti da li se osoba koja je primila otpremninu iz stavka 1. ove točke zaposlila kod korisnika državnog proračuna Republike Hrvatske, u trgovačkom društvu Pleter-usluge d.o.o., Agencija Alan d.o.o., Zrakoplovno-tehnički centar d.d. ili u drugom trgovačkom društvu u 100% vlasništvu Republike Hrvatske osnovanom radi obavljanja djelatnosti za potrebe Ministarstva obrane.
+VIII.
+Danom stupanja na snagu ove Odluke prestaje važiti Odluka o visini otpremnine za djelatne vojne osobe kojima služba prestane zbog preustroja ili smanjenja snaga s pravom na mirovinu (»Narodne novine«, broj 56/09 i 153/09).
+IX.
+Ova Odluka stupa na snagu danom objave u »Narodnim novinama«.
