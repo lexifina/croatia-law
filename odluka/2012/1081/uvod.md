@@ -1,0 +1,1 @@
+Na temelju članka 29. 30. i 30a Zakona o financiranju jedinica lokalne i područne (regionalne) samouprave (»Narodne novine« 117/93, 69/97, 33/00, 59/01, 107/01, 150/02, 147/03, 132/06 i 73/08) i članka 29. Statuta Općine Petrijanec (»Službeni vjesnik Varaždinske županije« br. 41/09) Općinsko vijeće Općine Petrijanec na sjednici održanoj 29. ožujka 2012. donosi
