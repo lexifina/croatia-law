@@ -1,0 +1,1 @@
+Na temelju članka 25. Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 2012. godinu (»Narodne novine«, broj 24/2012) i članka 77. Zakona o proračunu (»Narodne novine«, broj 87/2008), Vlada Republike Hrvatske je na sjednici održanoj 25. travnja 2012. godine donijela
