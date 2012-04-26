@@ -1,0 +1,1 @@
+Na temelju članka 7. stavka 2. Zakona o cestama (»Narodne novine«, broj 84/11.) i Uredbe o mjerilima za razvrstavanje javnih cesta (»Narodne novine«, broj 34/12.) ministar pomorstva, prometa i infrastrukture donosi
