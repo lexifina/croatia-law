@@ -1,0 +1,3 @@
+# Članak 6.
+Ovlaštenje za provjeru ispravnosti iz članka 4. stavka 1. i 2. ovoga Pravilnika daje se za obavljanje poslova provjere ispravnosti stabilnih sustava za dojavu i gašenje požara (uključujući uređaje i instalacije za sprječavanje nastajanja i širenja požara i eksplozija) i/ili stabilnih sustava za dojavu prisutnosti zapaljivih plinova i para, pravnim osobama koje ispunjavaju uvjete propisane ovim Pravilnikom.
+Ovlaštenje za provjeru ispravnosti iz članka 4. stavka 3. ovoga Pravilnika daje se za obavljanje poslova provjere ispravnosti određenih sustava pravnoj osobi koja ispunjava uvjete propisane ovim Pravilnikom, a vlasnik je odnosno korisnik tog sustava ili ga je proizvela ili uvezla.
