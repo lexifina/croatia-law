@@ -1,0 +1,1 @@
+Na temelju članka 109. Zakona o državnim službenicima i namještenicima (»Narodne novine«, broj 27/2001), a u vezi s člankom 144. stavkom 2. točkom a) Zakona o državnim službenicima (»Narodne novine«, br. 92/2005, 107/2007, 27/2008, 34/2011, 49/2011, 150/2011 i 34/2012), Vlada Republike Hrvatske je na sjednici održanoj 27. travnja 2012. godine donijela
