@@ -1,0 +1,1 @@
+Na temelju članka 32. stavka 2. točke. 2., članka 32. stavka 3., članka 45. stavka 3. i članka 46. stavka 3. Zakona o reviziji (»Narodne novine« br. 146/05. i 139/08.) te članka 4. točke 33., članka 16. točaka 23. i 26. i članka 38. Statuta Hrvatske revizorske komore (»Narodne novine« br. 43/10.), Upravno vijeće je na svojoj sjednici održanoj 14. ožujka 2012. godine donijelo
