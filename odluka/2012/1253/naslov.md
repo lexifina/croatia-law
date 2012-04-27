@@ -1,0 +1,1 @@
+Odluka o uspostavi i vođenju Sustava za naplatu javnih davanja, novčanih kazni izrečenih iz nadležnosti Ministarstva unutarnjih poslova, mandatnih kazni izrečenih iz nadležnosti Carinske uprave i upravnih pristojbi, putem platnih kartica

@@ -1,0 +1,1 @@
+Na temelju članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, broj 150/2011), a u vezi s člankom 3. stavkom 1. alinejama 1. i 2. Zakona o Financijskoj agenciji (»Narodne novine«, br. 117/2001, 60/2004 i 42/2005), Vlada Republike Hrvatske je na sjednici održanoj 27. travnja 2012. godine donijela
