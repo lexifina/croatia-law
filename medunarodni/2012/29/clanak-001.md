@@ -1,0 +1,2 @@
+# Članak 1.
+Objavljuje se Odluka Zajedničkog odbora Ugovora o slobodnoj trgovini između Republike Hrvatske i Republike Turske br. 1/2011 kojom se mijenja i dopunjuje Protokol III Ugovora o slobodnoj trgovini, u svezi definicije pojma »proizvoda s podrijetlom« i načina upravne suradnje, potpisana u Ankari 7. listopada 2011. godine, (u daljnjem tekstu: Odluka Zajedničkog odbora), u izvorniku na engleskom jeziku.
