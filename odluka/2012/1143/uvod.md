@@ -1,0 +1,1 @@
+Na temelju članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, broj 150/2011) i članka 90. stavka 2. Zakona o državnoj izmjeri i katastru nekretnina (»Narodne novine«, br. 16/2007 i 124/2010), Vlada Republike Hrvatske je na sjednici održanoj 19. travnja 2012. godine donijela
