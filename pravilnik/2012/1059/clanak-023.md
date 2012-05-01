@@ -1,0 +1,5 @@
+# Članak 23.
+(1) Osobni dozimetar za utvrđivanje efektivne doze za cijelo tijelo bez obzira na vrstu obvezno se nosi na lijevoj strani prsiju, a ako se nosi zaštitna pregača, ispod zaštitne pregače.
+(2) Na temelju rezultata mjerenja dobivenih osobnim dozimetrom iz stavka 1. ovoga članka procjenjuje se efektivna doza za cijelo tijelo i upisuje se u osobni dozimetrijski karton za svakog izloženog radnika koji se vodi u Državnom zavodu za radiološku i nuklearnu sigurnost.
+(3) Ako izloženi radnik uz obvezne osobne dozimetre nosi i dodatne dozimetre zbog naravi posla koji obavlja: iznad zaštitne odjeće, sa stražnje strane tijela, na ruci, blizu očiju i slično, podaci o primljenim dozama na tim mjestima mjerenja, unose se u osobni karton primljenih doza uz napomenu na kojem mjestu su nošeni.
+(4) Ako izloženi radnik izgubi ili ošteti osobni dozimetar ili se i nakon tri mjeseca od isteka roka za povrat dozimetar ne vrati ovlaštenom stručnom tehničkom servisu za osobnu dozimetriju, za predmetno razdoblje mjerenja u osobni karton primljenih doza upisat će se da nije bilo moguće procijeniti efektivnu dozu.

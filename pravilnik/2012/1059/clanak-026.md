@@ -1,0 +1,4 @@
+# Članak 26.
+(1) Državni zavod za radiološku i nuklearnu sigurnost može organizirati poredbena ispitivanja među ovlaštenim stručnim tehničkim servisima koji provode mjerenje osobnog ozračenja u cilju osiguranja potrebne točnosti rezultata mjerenja i provjere neprekidnog udovoljavanja zahtjevima za mjerenje osobnog ozračenja propisanih ovim Pravilnikom.
+(2) Ovlašteni stručni tehnički servis koji provodi mjerenje osobnog ozračenja mora surađivati s Državnim zavodom za radiološku i nuklearnu sigurnost i sudjelovati u provedbi programa poredbenih ispitivanja koje organizira Državni zavod za radiološku i nuklearnu sigurnost.
+(3) Ako ovlašteni stručni tehnički servis koji provodi mjerenje osobnog ozračenja ne surađuje s Državnim zavodom za radiološku i nuklearnu sigurnost i odbije sudjelovati u provedbi poredbenih ispitivanja, Državni zavod za radiološku i nuklearnu sigurnost uskratit će mu ovlaštenje za provedbu mjerenja osobnog ozračenja.

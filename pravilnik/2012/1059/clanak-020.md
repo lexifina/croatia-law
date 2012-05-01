@@ -1,0 +1,4 @@
+## III. MJERENJE OSOBNOG OZRAČENJA
+# Članak 20.
+(1) Stupanj osobnog ozračenja izloženih radnika ili osoba koje se obučavaju ili obrazuju za rad s izvorima ionizirajućeg zračenja mjeri se osobnim dozimetrima za mjerenje vanjskog ozračenja te provjerom razine zračenja na radnim mjestima i stupnja radioaktivnog onečišćenja osoba ili radnog okoliša i drugim ispitivanjima sukladno ovom Pravilniku u svrhu procjene ozračenja radnika i drugih ljudi.
+(2) Prijava za dozimetrijski nadzor izloženih radnika obavlja se na obrascu iz Priloga III. koji je sastavni dio pravilnika kojim se utvrđuje popis djelatnosti s izvorima ionizirajućeg zračenja, uvjeti za davanje i izmjene te rokovi važenja odobrenja za obavljanje djelatnosti s izvorima ionizirajućeg zračenja i dozvola za nabavu, uvoz, izvoz, uporabu i drugu vrstu prometa izvora ionizirajućeg zračenja kojem se prilažu dokumenti navedeni na obrascu.

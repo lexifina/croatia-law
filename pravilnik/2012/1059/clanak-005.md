@@ -1,0 +1,4 @@
+# Članak 5.
+(1) Prvo ispitivanje izvora ionizirajućeg zračenja, odnosno prostorija i radnog okoliša u kojem se koriste otvoreni radioaktivni izvori mogu obavljati ovlašteni stručni tehnički servisi koji nisu proizveli ili ugradili izvor ionizirajućeg zračenja, odnosno nisu vlasnici niti korisnici tih izvora ionizirajućeg zračenja.
+(2) Periodično ispitivanje izvora ionizirajućeg zračenja, odnosno prostorija i radnog okoliša u kojem se koriste otvoreni radioaktivni izvori mogu obavljati ovlašteni stručni tehnički servisi.
+(3) Iznimno, od odredbe stavka 1. ovoga članka prvo ispitivanje izvora ionizirajućeg zračenja, odnosno prostorija i radnog okoliša u kojem se koriste otvoreni radioaktivni izvori može obavljati i ovlašteni stručni tehnički servis koji je njegov vlasnik, odnosno korisnik ili ga je proizveo ili ugradio, ako mu je za navedeno prvo ispitivanje izdano posebno odobrenje Državnog zavoda za radiološku i nuklearnu sigurnost.

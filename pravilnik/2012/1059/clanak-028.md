@@ -1,0 +1,2 @@
+# Članak 28.
+Ako efektivna ili ekvivalentna doza u jednom mjernom razdoblju premaši 3/10 bilo koje propisane gornje granice efektivne ili ekvivalentne doze, nositelj odobrenja obvezan je od ovlaštenog stručnog tehničkog servisa zatražiti posebnu provjeru radnog mjesta na kojem je takva doza primljena. Po provedenom ispitivanju, ovlašteni stručni tehnički servis sastavlja izvješće koje se dostavlja inspektoru za radiološku i nuklearnu sigurnost Državnog zavoda za radiološku i nuklearnu sigurnost.

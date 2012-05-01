@@ -1,0 +1,2 @@
+# Članak 29.
+Stupanj izloženosti unutarnjem ozračenju kod izloženih radnika koji rade s otvorenim radioaktivnim izvorima, određuje se izravnim mjerenjem radioaktivnosti u cijelom tijelu ili u kritičnim organima, neizravnom procjenom temeljem mjerenja koncentracije radionuklida u biološkim uzorcima ili proračunom očekivane efektivne doze od unošenja radionuklida u organizam iz radnog okoliša u kojem je mjerenjem utvrđena koncentracija radionuklida i na drugi način kojim se mogu osigurati vjerodostojni rezultati.
