@@ -1,0 +1,2 @@
+# Članak 19.
+Za raspravljanje o pojedinim pitanjima obavljanja poslova Državnog zavoda, za utvrđivanje nacrta propisa, davanje mišljenja i prijedloga o značajnim pitanjima iz djelokruga Državnog zavoda, ravnatelj Državnog zavoda može osnivati savjetodavna radna tijela (povjerenstva, radne grupe i sl.) ili zatražiti mišljenje relevantnih institucija, međunarodnih tijela, odnosno priznatih stručnjaka iz pojedinog područja.
