@@ -1,0 +1,1 @@
+Na temelju članka 18. stavka 2., članka 24a. stavka 2., članka 41., članka 45. stavka 9., članka 46. stavka 5., članka 54. stavka 2., članka 55. stavka 5. i članka 60a. stavka 4. Zakona o državnoj potpori poljoprivredi i ruralnom razvoju (»Narodne novine«, br. 92/10, 127/10 i 124/11), ministar poljoprivrede donosi
