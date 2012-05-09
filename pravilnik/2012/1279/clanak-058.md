@@ -1,0 +1,41 @@
+# Članak 58.
+(1) Zbirka podataka o strancima kojima je izdana dozvola za boravak i rad sadrži:
+- evidencijski broj stranca i spol,
+- prezime, rođeno prezime, ime stranca i ime oca ili majke,
+- datum, mjesto i državu rođenja,
+- državljanstvo,
+- broj, vrstu, datum, mjesto izdavanja i rok važenja putne isprave,
+- zanimanje, stručnu spremu, radno mjesto,
+- znanje jezika,
+- bračno stanje,
+- boravište, odnosno prebivalište i adresu u Republici Hrvatskoj,
+- datum i mjesto ulaska u Republiku Hrvatsku,
+- vrstu izdane dozvole (godišnja kvota/izvan kvote),
+- naziv nadležne policijske uprave, odnosno policijske postaje,
+- broj i datum izdane dozvole za boravak i rad,
+- rok važenja izdane dozvole za boravak i rad,
+- naziv i adresu poslodavca, odnosno pravne ili fizičke osobe kojoj stranac pruža usluge,
+- datum i razlog brisanja iz evidencije,
+- osobni identifikacijski broj,
+- podatke o kaznenoj ili prekršajnoj odgovornosti stranca,
+- napomenu.
+(2) Zbirka podataka o strancima kojima je izdana potvrda o prijavi rada sadrži:
+- ime i prezime stranca,
+- datum, mjesto i državu rođenja,
+- državljanstvo,
+- vrstu i broj putne ili druge isprave o identitetu,
+- mjesto i datum ulaska u Republiku Hrvatsku,
+- rok do kada stranac može boraviti u Republici Hrvatskoj,
+- prijavljenu adresu stanovanja,
+- naziv i adresu poslodavca,
+- napomenu.
+(3) Zbirka podataka o strancima kojima je odbijen zahtjev za izdavanje dozvole za boravak i rad sadrži:
+- prezime, rođeno prezime, ime stranca i ime oca ili majke,
+- datum, mjesto i državu rođenja,
+- državljanstvo,
+- zanimanje, stručnu spremu,
+- znanje jezika,
+- bračno stanje,
+- naziv nadležne policijske uprave, odnosno policijske postaje,
+- broj i datum rješenja o odbijanju zahtjeva za izdavanje dozvole za boravak i rad,
+- napomenu.

@@ -1,0 +1,2 @@
+# Članak 24.
+Uz zahtjev za izdavanje dozvole za boravak i rad izvan godišnje kvote stranac koji obavlja ključne poslove u trgovačkom društvu, podružnici i predstavništvu, stranac koji se samozapošljava u vlastitom trgovačkom društvu ili ima vlasnički udio veći od 51% ili se samozapošljava u vlastitom obrtu, osim dokumenata iz članka 23. ovoga Pravilnika, prilaže i preslike ugovora o radu, prijave na mirovinsko i zdravstveno osiguranje za najmanje 3 hrvatska državljana.

@@ -1,0 +1,8 @@
+# Članak 26.
+(1) Stranac koji je vlasnik obrta uz zahtjev za izdavanje dozvole za boravak i rad izvan godišnje kvote sukladno članku 76. stavku 1. točki 5. Zakona o strancima, osim dokumenata iz članka 23. i 24. ovoga Pravilnika, prilaže i:
+1. opis ulaganja kroz materijalnu i nematerijalnu imovinu u najmanjem iznosu od 200.000,00 kuna, sukladno članku 25. stavku 2. točki 2. ovoga Pravilnika,
+2. BON 2, kao i potvrdu nadležne Porezne uprave o podmirenim poreznim obvezama i doprinosima ne stariju od mjesec dana,
+3. potvrdu Porezne uprave o ostvarenom dohotku od samostalnog rada za obrtnike obveznike poreza na dohodak.
+(2) Iznimno od članka 24. ovoga Pravilnika, kod podnošenja zahtjeva za prvo izdavanje dozvole za boravak i rad iz stavka 1. ovoga članka, stranac je dužan dostaviti dokaz o upisu obrta u obrtni registar, a dokazom o ispunjenju uvjeta iz stavka 1. točke 1. ovoga članka smatra se poslovni plan, računi kao i drugi dokazi iz kojih je vidljivo ulaganje.
+(3) Poslovni plan iz stavka 2. ovoga članka mora sadržavati podatke o obrtniku, djelatnosti, ulaganjima za razdoblje od godine dana, popis materijalne imovine (nekretnine, oprema i strojevi), nematerijalne imovine - koja predstavlja opravdane troškove ulaganja (patenti, licence, know-how i sl.) i plan zapošljavanja i otvaranje novih radnih mjesta po vrsti radnih mjesta, stručnoj spremi i broju izvršitelja.
+(4) Stranac iz stavka 2. ovoga članka, dužan je nakon izdavanja prve dozvole za boravak i rad izvan godišnje kvote u roku od 6 mjeseci nadležnoj policijskoj upravi, odnosno policijskoj postaji dostaviti obrtnicu ili rješenje o upisu dana početka obavljanja obrta i preslike ugovora o radu i prijave na mirovinsko i zdravstveno osiguranje za najmanje 3 hrvatska državljana.

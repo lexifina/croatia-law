@@ -1,0 +1,3 @@
+# Članak 16.
+(1) Privremeni boravak iz humanitarnih razloga zbog postojanja ozbiljnih opravdanih razloga humanitarne prirode, stranac dokazuje dokumentacijom na temelju koje se može utvrditi postojanje humanitarnih razloga (npr. dokaze kojima se utvrđuje da osoba boravi dugi niz godina u Republici Hrvatskoj te da zbog osobito teških zdravstvenih razloga ili visoke životne dobi nije regulirala svoj boravak u Republici Hrvatskoj ili da je žrtva obiteljskog nasilja koja je ostala bez odgovarajuće skrbi).
+(2) Uz zahtjev za izdavanje odobrenja za privremeni boravak iz humanitarnih razloga, stranac nije dužan priložiti dokaze iz članka 4. stavka 1. podstavka 2. i 3. ovoga Pravilnika.

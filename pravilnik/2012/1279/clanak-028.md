@@ -1,0 +1,2 @@
+# Članak 28.
+Uz zahtjev za izdavanje dozvole za boravak i rad izvan godišnje kvote za strance koji obavljaju ključne poslove u trgovačkom društvu koje je nositelj poticajnih mjera ili u njemu imaju vlasnički udio najmanje 51% prilaže se, osim dokaza iz članka 4. stavka 1. ovoga Pravilnika, potvrda nadležnog ministarstva da se radi o trgovačkom društvu koje je nositelj poticajnih mjera sukladno propisu o poticanju ulaganja.

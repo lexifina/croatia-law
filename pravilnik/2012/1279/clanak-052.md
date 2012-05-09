@@ -1,0 +1,10 @@
+## VI. PRIJAVA BORAVKA
+# Članak 52.
+(1) Obrazac prijave i odjave boravišta i prebivališta, odnosno prijave promjene adrese stana (Obrazac 8a), bijele je boje, veličine 21x29,7 cm, i sastoji se od dva dijela: prijave/potvrde.
+(2) Nadležna policijska uprava, odnosno policijska postaja ovjerava drugi dio Obrasca 8a i vraća ga podnositelju prijave i odjave boravišta i prebivališta, odnosno prijave promjene adrese stana.
+(3) Podnositelj prijave i odjave smještaja stranca na kratkotrajnom boravku prijavu može izvršiti putem Obrasca 8a u nadležnoj policijskoj upravi, odnosno policijskoj postaji ili u turističkoj zajednici.
+(4) Pravna ili fizička osoba koja je registrirana za pružanje usluge smještaja, prijavu i odjavu stranca može izvršiti putem Obrasca 8a u nadležnoj policijskoj upravi, odnosno policijskoj postaji ili turističkoj zajednici, bez prisutnosti stranca. Pravna ili fizička osoba koja je registrirana za pružanje usluge smještaja u Obrascu 8a ne ispunjava rubriku o davanju završne izjave, imenu i prezimenu podnositelja prijave i utvrđivanju identiteta.
+(5) Pravna ili fizička osoba koja je registrirana za pružanje usluge smještaja, prijavu stranca može obaviti i elektroničkim putem. U slučaju ispravne prijave elektroničkim putem nije potrebno vršiti prijavu putem Obrasca 8a.
+(6) Registraciju za prijavu stranaca elektroničkim putem pravna ili fizička osoba koja je registrirana za pružanje usluge smještaja obavlja u nadležnoj policijskoj upravi, odnosno policijskoj postaji prema adresi smještajnog objekta.
+(7) Fizička osoba koja je podnositelj prijave (bez obzira da li prijavljuje sebe ili drugog stranca) dužna je u Obrascu 8a dati točne i istinite podatke o prijavi adrese stanovanja i obvezna je ispuniti rubrike o završnoj izjavi, imenu i prezimenu te pružiti na uvid ispravu kojom dokazuje svoj identitet.
+(8) Podnositelj prijave boravišta i prebivališta, odnosno prijave promjene adrese stana za stranca na privremenom i stalnom boravku uz Obrazac 8a mora priložiti vlasnički list ili kupoprodajni ugovor ili ugovor o najmu te suglasnost najmodavca za nekretninu na adresi na koju se prijavljuje.

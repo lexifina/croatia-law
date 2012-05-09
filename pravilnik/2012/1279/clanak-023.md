@@ -1,0 +1,4 @@
+# Članak 23.
+(1) Uz zahtjev za izdavanje dozvole za boravak i rad izvan godišnje kvote prilaže se dokumentacija propisana člankom 4. stavkom 1. ovoga Pravilnika i ugovor o radu, odnosno pisana potvrda o sklopljenom ugovoru o radu ili drugi odgovarajući ugovor, dokaz o stečenoj obrazovnoj kvalifikaciji i osposobljenosti stranca te dokaz o registraciji trgovačkog društva, podružnice, predstavništva, obrta, udruge ili ustanove u Republici Hrvatskoj.
+(2) U slučajevima propisanim Zakonom o strancima, poslodavac prilaže dopis kojim obrazlaže opravdanost zapošljavanja stranca koji sadrži podatke o stručnom znanju, kvalifikacijama, radnom iskustvu stranca, te iz kojih razloga se radno mjesto ne može popuniti s hrvatskog tržišta radne snage.
+(3) Nadležna policijska uprava, odnosno policijska postaja može provjeriti istinitost o nemogućosti popunjavanja radnog mjesta radnicima s hrvatskog tržišta radne snage kod Podučne službe Hrvatskog zavoda za zapošljavanje.
