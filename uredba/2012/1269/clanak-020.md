@@ -1,0 +1,4 @@
+# Članak 20.
+Stupanjem na snagu ove Uredbe, Državni ured preuzima od Ministarstva vanjskih i europskih poslova opremu, pismohranu i drugu dokumentaciju, sredstva za rad, financijska sredstva osigurana za plaće i druga prava iz radnog odnosa, kao i druga financijska sredstva u odgovarajućem dijelu preuzetih poslova sukladno Zakonu o odnosima Republike Hrvatske s Hrvatima izvan Republike Hrvatske.
+Stupanjem na snagu ove Uredbe, Državni ured preuzima državne službenike i namještenike Ministarstva vanjskih i europskih poslova koji su zatečeni na obavljanju preuzetih poslova.
+Preuzeti državni službenici i namještenici nastavljaju s radom sukladno dosadašnjim rješenjima, te zadržavaju plaće i druga prava prema dosadašnjim rješenjima do donošenja rješenja o rasporedu na radno mjesto sukladno Pravilniku o unutarnjem redu Državnog ureda.
