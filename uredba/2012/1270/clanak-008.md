@@ -1,0 +1,5 @@
+# Članak 8.
+(1) Ako županije, Grad Zagreb, gradovi i općine koji financiraju decentralizirane funkcije, na godišnjoj razini, od dodatnog udjela poreza na dohodak i pomoći izravnanja ostvare više sredstava nego što je to utvrđeno minimalnim standardom, odnosno ostvare više sredstava nego što je stvoreno obveza po rashodima koji se financiraju na temelju odluka o minimalnim standardima za 2012. godinu, višak sredstava dužni su najkasnije do 15. veljače 2013. godine vratiti na račun državnog proračuna Republike Hrvatske.
+(2) Povrat viška sredstava iz stavka 1. ovoga članka ne odnosi se na sredstva namijenjena za kapitalne projekte koji su planirani a nisu izvršeni do kraja tekuće godine, te se višak tih sredstava može prenijeti i izvršavati u sljedećoj godini ako su ispunjeni sljedeći uvjeti:
+1. sredstva za projekte koji se prenose u visini bilančnih prava tekuće godine moraju ostati na kraju tekuće godine neizvršena ili izvršena u iznosu manjem od planiranog, bez izvršenih preraspodjela tijekom tekuće godine,
+2. preneseni projekti mogu se izvršavati u sljedećoj proračunskoj godini uz suglasnost nadležnog ministarstva i Ministarstva financija.
