@@ -1,0 +1,6 @@
+## Prijelazne odredbe
+# Članak 42.
+(1) Dozvole, ovlaštenja i posebne ovlasti kontrolora i studenta-kontrolora, Svjedodžbe o zdravstvenoj sposobnosti te Svjedodžbe organizacije za osposobljavanje, izdani prije stupanja na snagu ovoga Pravilnika, smatraju se kao da su izdani u skladu s ovim Pravilnikom.
+(2) Zahtjevi za izdavanje dozvola, ovlaštenja i posebnih ovlasti kontrolora i studenta-kontrolora, Svjedodžbi o zdravstvenoj sposobnosti te Svjedodžbi organizacije za osposobljavanje podneseni prije stupanja na snagu ovoga Pravilnika, moraju udovoljavati odredbama ovoga Pravilnika.
+(3) Danom stupanja na snagu ovoga Pravilnika, instruktori-ispitivači kontrolora koji se nalaze na popisu stručnjaka za 2011. godinu, ovlašteni su obavljati poslove praktičnog ispitivača i/ili ocjenjivača sukladno ovome Pravilniku najduže u periodu od šest mjeseci od dana stupanja na snagu ovoga Pravilnika.
+(4) Organizacije za osposobljavanje koje su odobrene za inicijalno osposobljavanje dužne su najkasnije u roku od jedne godine od dana stupanja na snagu ovoga Pravilnika uskladiti programe osposobljavanja sa EUROCONTROL-ovim dokumentom ‘Specification for Air Traffic Controller Common Core Content Initial Training’, izdanje od 21. listopada 2008.

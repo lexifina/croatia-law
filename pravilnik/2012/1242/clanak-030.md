@@ -1,0 +1,6 @@
+## Produžavanje valjanosti ovlaštenja i/ili posebnih ovlasti ovlaštenja i posebnih ovlasti za lokaciju
+# Članak 30.
+(1) Uvjeti za produžavanje valjanosti ovlaštenja i/ili posebnih ovlasti ovlaštenja i posebnih ovlasti za lokaciju, propisani su u članku 28. stavak 5. ovoga Pravilnika.
+(2) Zahtjev za produžavanje valjanosti ovlaštenja i/ili posebnih ovlasti ovlaštenja i posebnih ovlasti za lokaciju imatelj dozvole podnosi Agenciji najranije 45 dana prije isteka njihovih valjanosti.
+(3) Zahtjev za produžavanje valjanosti ovlaštenja i/ili posebnih ovlasti ovlaštenja i posebnih ovlasti za lokaciju imatelj dozvole podnosi odvojeno za svaku lokaciju.
+(4) Izuzetno, za produžavanje valjanosti ovlaštenja i/ili posebnih ovlasti ovlaštenja i posebnih ovlasti za lokaciju kontrolora koji posjeduje posebnu ovlast instruktora, vrijeme samostalnog rada na poslovima tih ovlaštenja i/ili posebnih ovlasti ovlaštenja i posebnih ovlasti za lokaciju mora biti najmanje 25% od određenog minimalnog broja efektivnih sati definiranoga odobrenom Shemom stručnosti za lokaciju na poslovima kontrole zračnog prometa, za koje posjeduje valjana ovlaštenja i/ili posebne ovlasti ovlaštenja i posebne ovlasti za lokaciju, unutar razdoblja u kojem je osposobljavao kandidata.
