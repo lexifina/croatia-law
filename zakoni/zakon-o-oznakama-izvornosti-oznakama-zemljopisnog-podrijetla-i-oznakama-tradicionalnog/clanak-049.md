@@ -1,0 +1,14 @@
+## Ovlašćivanje certifikacijskih tijela
+# Članak 49.
+(1) Certifikacijska tijela moraju biti akreditirana u skladu s uvjetima odgovarajuće norme HR EN 45011 »Opći zahtjevi za ustanove koje provode potvrđivanje proizvoda«.
+(2) Certifikacijska tijela koja potvrđuju sukladnost sa specifikacijom moraju ponuditi odgovarajuća jamstva objektivnosti i nepristranosti te imati na raspolaganju osposobljene stručnjake i resurse potrebne za obavljanje potvrđivanja sukladnosti sa specifikacijom.
+(3) Zahtjevi za ovlašćivanje certifikacijskih tijela koja potvrđuju sukladnost sa specifikacijom proizvoda za oznake izvornosti, oznake zemljopisnog podrijetla ili oznake tradicionalnog ugleda poljoprivrednih i prehrambenih proizvoda podnose se Ministarstvu na propisanom obrascu.
+(4) Ministar osniva stručno Povjerenstvo za ovlašćivanje certifikacijskih tijela za potvrđivanje sukladnosti sa specifikacijom proizvoda za oznake izvornosti i oznake zemljopisnog podrijetla poljoprivrednih i prehrambenih proizvoda.
+(5) Ministar osniva stručno Povjerenstvo za ovlašćivanje certifikacijskih tijela za potvrđivanje sukladnosti sa specifikacijom proizvoda za oznake tradicionalnog ugleda.
+(6) Povjerenstvo, ovisno o oznaci iz stavka 4. i 5. ovoga članka razmatra prijavu i provjerava udovoljava li zahtjev za ovlašćivanje odredbama ovoga Zakona i provedbenih propisa donesenih na temelju njega.
+(7) Ako zahtjev za ovlašćivanje udovoljava odredbama ovoga Zakona i provedbenih propisa donesenih na temelju njega, koji se odnose na oznake izvornosti, oznake zemljopisnog podrijetla ili oznake tradicionalnog ugleda, Povjerenstvo, ovisno o oznaci iz stavka 4. i 5. ovoga članka, predlaže ministru donošenje rješenja o ovlašćivanju certifikacijskog tijela.
+(8) Ako zahtjev za ovlašćivanje ne udovoljava odredbama ovoga Zakona i provedbenih propisa donesenih na temelju njega, Ministarstvo podnositelju zahtjeva za ovlašćivanje zaključkom nalaže uklanjanje nedostataka u roku od 30 dana od dana primitka zaključka.
+(9) Ako podnositelj zahtjeva za ovlašćivanje u propisanom roku ne postupi prema zaključku Ministarstva i ne ukloni utvrđene nedostatke, zahtjev za ovlašćivanje odbija se rješenjem kojeg donosi ministar na prijedlog Povjerenstva, ovisno o oznaci iz stavka 4. i 5. ovoga članka.
+(10) Ako podnositelj zahtjeva za ovlašćivanje u propisanom roku ukloni utvrđene nedostatke smatrat će se da je zahtjev od početka udovoljavao odredbama ovoga Zakona i provedbenih propisa donesenih na temelju njega te se postupak ovlašćivanja nastavlja.
+(11) Popis ovlaštenih certifikacijskih tijela Ministarstvo objavljuje na internetskim stranicama Ministarstva.
+(12) Ministar provedbenim propisom propisuje obrazac zahtjeva za ovlašćivanje i dokumente koje je potrebno dostaviti uz zahtjev za ovlašćivanje te uvjete koje moraju ispunjavati certifikacijska tijela.

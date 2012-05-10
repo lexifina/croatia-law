@@ -1,0 +1,5 @@
+## Postupak registracije oznaka i podnošenja prigovora na razini Europske unije
+# Članak 46.
+(1) Postupak registracije oznaka i podnošenja prigovora na razini Europske unije provodi se sukladno Uredbi Vijeća (EZ) br. 510/2006 od 20. ožujka 2006. o zaštiti zemljopisnih oznaka i oznaka izvornosti poljoprivrednih i prehrambenih proizvoda i Uredbi Vijeća (EZ) br. 509/2006 od 20. ožujka 2006. o poljoprivrednim i prehrambenim proizvodima kao garantirano tradicionalnim specijalitetima te njihovim provedbenim uredbama.
+(2) Na području Republike Hrvatske nacionalna zaštita poljoprivrednih i prehrambenih proizvoda oznakom izvornosti, oznakom zemljopisnog podrijetla ili oznakom tradicionalnog ugleda vrijedi do upisa odgovarajućeg proizvoda u Registar zaštićenih oznaka koji vodi Europska komisija.
+(3) Ako Europska komisija odbije zahtjev za registraciju oznake izvornosti, oznake zemljopisnog podrijetla ili oznake tradicionalnog ugleda, odnosno proizvod ne upiše u Registar, na dan njezine odluke poništava se rješenje o registraciji oznake doneseno na temelju ovoga Zakona i provedbenih propisa donesenih na temelju njega.

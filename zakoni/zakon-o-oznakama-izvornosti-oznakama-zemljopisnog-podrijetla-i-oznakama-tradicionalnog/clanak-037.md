@@ -1,0 +1,6 @@
+## Upisnik korisnika registriranih oznaka tradicionalnog ugleda
+# Članak 37.
+(1) Naziv koji je registriran u skladu s odredbama ovoga Zakona i provedbenih propisa donesenih na temelju njega, koje se odnose na oznaku tradicionalnog ugleda, mogu koristiti samo oni proizvođači ili prerađivači poljoprivrednog ili prehrambenog proizvoda koji su upisani u Upisnik korisnika registriranih oznaka tradicionalnog ugleda, koje vodi Ministarstvo i objavljuje na internetskim stranicama Ministarstva.
+(2) Svaki proizvođač ili prerađivač poljoprivrednog ili prehrambenog proizvoda može podnijeti zahtjev na propisanom obrascu za upis u Upisnik korisnika registriranih oznaka tradicionalnog ugleda nakon što je potvrđena sukladnost sa specifikacijom sukladno članku 50. ovoga Zakona.
+(3) Ako Ministarstvo utvrdi da je došlo do nepoštivanja odredbi ovoga Zakona i provedbenih propisa donesenih na temelju njega, donosi rješenja o brisanju korisnika registrirane oznake iz Upisnika korisnika registrirane oznake.
+(4) Ministar provedbenim propisom propisuje sadržaj Upisnika, obrazac zahtjeva za upis u Upisnik korisnika registrirane oznake i dokumente koje je potrebno dostaviti uz zahtjev za upis u Upisnik korisnika registrirane oznake.

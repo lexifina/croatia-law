@@ -1,0 +1,9 @@
+## Dužnosti nadziranih subjekata
+# Članak 58.
+(1) Korisnici zaštićene oznake, odnosno drugi nadzirani subjekti koji podliježu nadzoru nadležnog inspektora, dužni su mu omogućiti obavljanje nadzora, dopustiti uvid u poslovne knjige i drugu dokumentaciju, pružiti potrebne podatke i obavijesti te osigurati uvjete za nesmetan rad sukladno odredbi članka 53. stavka 1. ovoga Zakona.
+(2) Osoba koja podliježe nadzoru i osoba zatečena na mjestu nadzora dužna je na zahtjev inspektora dati mu na uvid isprave kojima se može utvrditi njihov identitet.
+(3) Radi osiguranja nazočnosti prilikom obavljanja inspekcijskog nadzora, inspektor može prije početka obavljanja nadzora izvijestiti korisnika zaštićene oznake, odnosno drugog nadziranog subjekta koji je dužan nazočiti nadzoru, osim ako smatra da bi obavještavanje umanjilo učinkovitost nadzora.
+(4) Ukoliko je korisnik zaštićene oznake, odnosno drugi nadzirani subjekt odsutan, inspektor će obaviti nadzor u nazočnosti djelatnika kojeg je zatekao na radu kod tog korisnika zaštićene oznake, odnosno drugog subjekta ili člana obitelji.
+(5) Korisnici, odnosno drugi nadzirani subjekti iz stavka 1. ovoga članka dužni su na zahtjev nadležnog inspektora dostaviti ili pripremiti poslovnu dokumentaciju i podatke potrebne za obavljanje inspekcijskog nadzora u roku koji im inspektor odredi u zapisniku.
+(6) Smatra se da nadzirani korisnik zaštićene oznake, odnosno drugi nadzirani subjekt nije omogućio nadzor iz stavka 1. ovoga članka i u slučaju ako u roku iz stavka 5. ovoga članka ne dostavi ili pripremi poslovnu dokumentaciju i podatke potrebne za obavljanje inspekcijskog nadzora.
+(7) Korisnici zaštićene oznake, odnosno drugi nadzirani subjekti koji podliježu nadzoru nadležnog inspektora, dužni su staviti na raspolaganje potrebne količine proizvoda za ispitivanje, od kojih se uzima uzorak.

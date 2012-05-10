@@ -1,0 +1,9 @@
+## Poglavlje 3. MEĐUNARODNA REGISTRACIJA I GRAĐANSKOPRAVNA ZAŠTITA
+## Međunarodna registracija
+# Članak 42.
+(1) Ministar priznaje oznake izvornosti, oznake zemljopisnog podrijetla ili oznake tradicionalnog ugleda poljoprivrednih ili prehrambenih proizvoda iz zemalja članica Europske unije, ako podnositelj zahtjeva priloži službeni dokument izdan od nadležnog tijela države članice Europske unije, kojim dokazuje da je oznakom izvornosti, oznakom zemljopisnog podrijetla ili oznakom tradicionalnog ugleda poljoprivredni ili prehrambeni proizvod priznat sukladno odredbama propisa Europske unije kojima se uređuje područje zaštite poljoprivrednih ili prehrambenih proizvoda oznakom izvornosti, oznakom zemljopisnog podrijetla ili oznakom tradicionalnog ugleda te je za njih Povjerenstvo iz članka 9. stavka 2. ili članka 29. stavka 2. ovoga Zakona dalo pozitivno mišljenje.
+(2) Priznavanje poljoprivrednih i prehrambenih proizvoda zaštićenih oznakom izvornosti, oznakom zemljopisnog podrijetla ili oznakom tradicionalnog ugleda iz zemalja koje nisu članice Europske unije provodi se na temelju ovoga Zakona i provedbenih propisa donesenih na temelju njega.
+(3) Postupak priznavanja oznake izvornosti, oznake zemljopisnog podrijetla ili oznake tradicionalnog ugleda poljoprivrednih ili prehrambenih proizvoda iz stavka 1. i 2. ovoga članka pokreće se podnošenjem zahtjeva za registraciju oznake Ministarstvu.
+(4) Povjerenstva iz članka 9. stavka 2. i članka 29. stavka 2. ovoga Zakona provode postupak priznavanja i predlažu ministru donošenje rješenja o registraciji oznake.
+(5) Oznake koje nisu registrirane ili koje su prestale važiti u zemlji podrijetla, ne mogu se registrirati u Republici Hrvatskoj.
+(6) Ministar provedbenim propisom propisuje obrazac zahtjeva za registraciju iz stavka 1. ovoga članka i dokumente koje je potrebno dostaviti uz zahtjeve za registraciju.
