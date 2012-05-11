@@ -1,0 +1,1 @@
+Na temelju članka 45.b stavka 4. Zakona o državnim službenicima (»Narodne novine«, br. 92/2005, 107/2007, 27/2008, 34/2011, 49/2011, 150/2011, 34/2012 i 49/2012 - pročišćeni tekst), Vlada Republike Hrvatske je na sjednici održanoj 10. svibnja 2012. godine donijela
