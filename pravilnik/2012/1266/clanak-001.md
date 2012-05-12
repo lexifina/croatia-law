@@ -1,0 +1,2 @@
+# Članak 1.
+U Pravilniku o pravima, uvjetima i načinu ostvarivanja prava iz obveznog zdravstvenog osiguranja u slučaju ozljede na radu i profesionalne bolesti (»Narodne novine« broj 1/11. i 53/11.) u članku 1. iza riječi: »odnosno profesionalne bolesti« dodaju se riječi: »te postupak utvrđivanja i priznavanja i druge/drugih bolesti kao posljedice već priznate ozljede na radu odnosno profesionalne bolesti«.
