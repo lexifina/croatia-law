@@ -1,0 +1,3 @@
+# Članak 1.
+U Pravilniku o načinu i postupku izbora doktora specijaliste medicine rada (»Narodne novine« broj 48/11) u članku 1. dodaje se novi stavak 2. koji glasi:
+»Doktor specijalist medicine rad iz stavka 1. ovog članka obvezan je temeljem članka 25. stavka 1. Odluke o standardima i normativima prava na zdravstvenu zaštitu iz obveznog zdravstvenog osiguranja za slučaj ozljede na radu i profesionalne bolesti s osnovama za sklapanje ugovora, posjedovati odgovarajuću dokumentaciju vezano uz uvjete za obavljanje psihološke djelatnosti psihologa, sukladno članku 6. stavku 2. Zakona o psihološkoj djelatnosti.«
