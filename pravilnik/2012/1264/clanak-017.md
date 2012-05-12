@@ -1,0 +1,3 @@
+# Članak 17.
+(1) Nakladnik televizije i/ili radija koji ne koristi odobrena sredstva ili ih koristi suprotno odredbama ovog Pravilnika, odnosno ne ostvaruje programe ili ih ostvaruje suprotno odredbama ovog Pravilnika te suprotno potpisanom ugovoru o dodjeli sredstava, dužan je po odluci Vijeća za elektroničke medije vratiti odobrena sredstva Fonda uvećana za zatezne kamate koje teku od isplate sredstava Fonda do povrata, u roku od trideset dana od dana dostave odluke.
+(2) Protiv odluke iz stavka 1. ovog članka se ne može izjaviti žalba, ali se može podnijeti tužba pred nadležnim upravnim sudom.

@@ -1,0 +1,3 @@
+# Članak 2.
+(1) Pod audiovizualnim programom, a sukladno Zakonu o elektroničkim medijima, podrazumijeva se skup pomičnih slika sa ili bez zvuka koji predstavlja zasebni element unutar rasporeda ili kataloga programa koji uspostavlja pružatelj medijskih usluga i čiji su oblik i sadržaj usporedivi s oblikom i sadržajem televizijskog emitiranja.
+(2) Pod radijskim programom, a sukladno Zakonu o elektroničkim medijima, podrazumijevaju se urednički oblikovane zvukovne i govorne informacije svih vrsta (vijesti, mišljenja, obavijesti, poruke i druge informacije) te autorska djela koja se objavljuju putem radija u svrhu obavješćivanja i zadovoljavanja kulturnih, obrazovnih i ostalih potreba te javne komunikacije.
