@@ -1,0 +1,2 @@
+# Članak 3.
+Iznimno od članka 2. ove Uredbe, stranac koji podnese zahtjev za izdavanje odobrenja za privremeni boravak u svrhu srednjoškolskog obrazovanja, mora mjesečno imati osigurana sredstva za uzdržavanje u visini od najmanje 500,00 kuna, a stranac koji podnese zahtjev za izdavanje odobrenja za privremeni boravak u svrhu studiranja, mora dostaviti dokaz o stipendiranju ili, ukoliko ne prima stipendiju, mora mjesečno imati osigurana sredstva za uzdržavanje u visini od najmanje 1.000,00 kuna.
