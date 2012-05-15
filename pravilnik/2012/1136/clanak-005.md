@@ -1,0 +1,7 @@
+# Članak 5.
+(1) Agencija izdaje potvrdu o usklađenosti za svaku postavljenu radijsku postaju koja radi prema dozvoli izdanoj prema postupku iz članka 88.a, 89. ili 90. Zakona, te za amaterske radijske postaje kojom se potvrđuje da ta radijska postaja ne stvara elektromagnetska polja kojima razine prelaze granične razine elektromagnetskih polja.
+(2) Nositelj dozvole iz stavka 1. ovoga članka obvezan je prije početka rada svake radijske postaje u sklopu svoje elektroničke komunikacijske mreže prijaviti Agenciji podatke o zemljopisnoj lokaciji i tehničke podatke o toj radijskoj postaji, koji moraju sadržavati i podatke iz članka 4. stavka 3. Pravilnika.
+(3) Agencija može, na temelju prijavljenih podataka iz stavka 2. ovoga članka, prema potrebi odrediti i provesti dodatni izračun i/ili mjerenja veličina elektromagnetskih polja koja radijska postaja stvara na mjestu postavljanja, odnosno na području povećane osjetljivosti i profesionalne izloženosti.
+(4) Agencija može, ovisno o raspoloživim tehničkim mogućnostima, zaprimati prijavu iz stavka 2. ovog članka elektroničkim putem.
+(5) Agencija može, ovisno o raspoloživim tehničkim mogućnostima, izdavati potvrde o usklađenosti u elektroničkom obliku koje imaju pravnu snagu kao i potvrda o usklađenosti u pisanom obliku.
+(6) Agencija vodi popis radijskih postaja svih nositelja dozvola iz stavka 1. ovoga članka, sa svim podacima iz stavka 2. ovoga članka.

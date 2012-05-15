@@ -1,0 +1,1 @@
+Na temelju članka 12. stavka 1. točke 1. i članka 95. stavka 2. Zakona o elektroničkim komunikacijama (»Narodne novine«, broj 73/08 i 90/11) Vijeće Hrvatske agencije za poštu i elektroničke komunikacije donosi
