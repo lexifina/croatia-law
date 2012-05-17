@@ -1,0 +1,1 @@
+Na temelju članka 4. stavka 2. Zakona o izboru članova predstavničkih tijela jedinica lokalne i područne (regionalne) samouprave (»Narodne novine«, br. 33/2001, 10/2002, 155/2002, 45/2003, 43/2004, 40/2005, 44/2005 - pročišćeni tekst, 109/2007 i 24/2011), Vlada Republike Hrvatske je na sjednici održanoj 17. svibnja 2012. godine donijela
