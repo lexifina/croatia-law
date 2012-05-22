@@ -1,0 +1,1 @@
+Na temelju članka 118. stavka 3. Zakona o pomorskom dobru i morskim lukama (»Narodne novine«, br. 158/2003, 100/2004, 141/2006 i 38/2009), Vlada Republike Hrvatske je na sjednici održanoj 10. svibnja 2012. godine donijela
