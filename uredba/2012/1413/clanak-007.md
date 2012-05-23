@@ -1,0 +1,2 @@
+# Članak 7.
+U članku 14. iza riječi: »te Vijeća Europske unije za obrazovanje, mlade, kulturu i sport;« dodaju se riječi: »prema potrebi priprema analitičke podloge i izvješća o temama koje se raspravljaju u okviru Vijeća Europske unije za konkurentnost (unutarnje tržište, industrija, istraživanje i svemir), Vijeća Europske unije za zapošljavanje, socijalnu politiku, zdravstvo i potrošačka pitanja te Vijeća Europske unije za obrazovanje, mlade, kulturu i sport;«.

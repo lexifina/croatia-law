@@ -1,0 +1,2 @@
+# Članak 21.
+U članku 46. iza riječi: »gospodarstva i financija,« dodaju se riječi: »koordinira stavove Republike Hrvatske vezano uz trgovinska pitanja te, u suradnji s nadležnim tijelima državne uprave, koordinira pripremu i izradu prijedloga nacionalnih stajališta u trgovinskim pitanjima koja usvaja Vlada RH, kao i druge dokumente Republike Hrvatske za sastanke nadležnog Vijeća ministara za trgovinska pitanja;«.

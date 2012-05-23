@@ -1,0 +1,3 @@
+# Članak 42.
+Naslov iznad članka 91. mijenja se i glasi: »10.1. Služba za političku analitiku«.
+U članku 91. riječi: »Odjel za političku analitiku« zamjenjuju se riječima: »Služba za političku analitiku«, a iza riječi: »i mjesečne najave događaja;« dodaju se riječi: »svakodnevno izrađuje sažetke diplomatskih bilješki; pregledava političku dokumentaciju za distribuciju kroz informacijsko-komunikacijski sustav (IKOS); sudjeluje u standardizaciji oblika i vrsta političke dokumentacije koja se stvara u sustavu službe vanjskih poslova; izrađuje dnevne preglede na osnovi objavljenih dokumenata na IKOS-u o najznačajnijim političkim pitanjima; vodi statistiku objavljenih dokumenata;«.

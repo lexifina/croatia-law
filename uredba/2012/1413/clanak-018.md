@@ -1,0 +1,2 @@
+# Članak 18.
+U članku 39. iza riječi: »gospodarstva i razvoja;« dodaju se riječi: »koordinira stavove Republike Hrvatske vezano uz razvojna pitanja te, u suradnji s nadležnim tijelima državne uprave, koordinira pripremu i izradu prijedloga nacionalnih stajališta u trgovinskim i razvojnim pitanjima koja usvaja Vlada RH, kao i druge dokumente Republike Hrvatske za sastanke nadležnog Vijeća ministara za trgovinska pitanja i Vijeća ministara za razvojnu suradnju;«.

@@ -1,0 +1,3 @@
+# Članak 31.
+Naslov iznad članka 74. mijenja se i glasi: »7.2.2.1. Odjel za informacijsku sigurnost i distribuciju EU i NATO dokumenata«.
+U članku 74. stavku 1. riječi: »klasificiranih EU i NATO« zamjenjuju se riječima: »EU i NATO«, te iza riječi: »i sigurnosnim procedurama,« dodaju se riječi: »planira i organizira poslove distribucije neklasificiranih EU dokumenata između Ministarstva, DM/KU RH i ostalih tijela državne uprave; zadužen je za primanje neklasificiranih EU dokumenata putem informacijskih sustava EU te njihovu distribuciju putem nacionalnog informacijskog sustava; u svom radu surađuje s ustrojstvenim jedinicama Ministarstva nadležnim za europske poslove;«.
