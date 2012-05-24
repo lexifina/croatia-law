@@ -1,0 +1,6 @@
+# Članak 17.
+Naslov iznad članka 22. mijenja se i glasi: »Ovlaštenje za obavljanje energetskog pregleda građevine, energetsko certificiranje zgrade i kontrolu izvješća o energetskim pregledima i izdanih energetskih certifikata«.
+Članak 22. mijenja se i glasi:
+»(1) Energetski pregled građevine, energetsko certificiranje zgrada i kontrolu izvješća o energetskim pregledima i izdanih certifikata može obavljati samo fizička ili pravna osoba koja je ishodila ovlaštenje ministarstva nadležnog za poslove graditeljstva (u daljnjem tekstu: ovlaštena osoba).
+(2) Ministarstvo nadležno za poslove graditeljstva vodi javni Registar ovlaštenih osoba u obliku elektroničke baze podataka u kome su upisane ovlaštene fizičke i pravne osobe.
+(3) Uvjete i mjerila za davanje ovlaštenja osobama za provođenje energetskih pregleda građevina i energetsko certificiranje zgrada, te kontrolu izvješća o energetskim pregledima i izdanih energetskih certifikata, postupke izdavanja i oduzimanja ovlaštenja, postupanje i izuzeće ovlaštenih osoba, nadzor nad radom ovlaštenih osoba, registar ovlaštenih osoba te druga pitanja vezana uz ovlaštenja propisuje ministar nadležan za poslove graditeljstva pravilnikom uz suglasnost ministra.«.

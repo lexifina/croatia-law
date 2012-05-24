@@ -1,0 +1,4 @@
+# Članak 16.
+Naslov iznad članka 21. mijenja se i glasi: »Provedba energetskog pregleda građevine i energetsko certificiranje zgrada«.
+Članak 21. mijenja se i glasi:
+»Način i uvjete provedbe energetskog pregleda građevine, sadržaj izvješća o energetskom pregledu, način energetskog certificiranja zgrade, sadržaj i izgled energetskog certifikata, godišnje granične vrijednosti neposredne potrošnje energije građevine koje služe za određivanje kategorije velikog potrošača energije, zgrade javne namjene koje imaju obvezu energetskog pregleda i javnog izlaganja energetskog certifikata, pobliži sadržaj i način vođenja registara iz članka 14. stavka 9. ovoga Zakona, način i uvjete provedbe neovisne kontrole izvješća o provedenom energetskom pregledu i izdanog energetskog certifikata te druga pitanja vezana uz provođenje energetskih pregleda građevina i energetsko certificiranje zgrada propisuje ministar nadležan za poslove graditeljstva pravilnikom uz suglasnost ministra.«.
