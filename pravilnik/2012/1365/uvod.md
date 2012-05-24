@@ -1,0 +1,1 @@
+Na temelju članka 31. stavka 11. Zakona o komunalnom gospodarstvu (»Narodne novine«, broj 26/03 - pročišćeni tekst, 82/04, 110/04, 178/04, 38/09, 79/09, 153/09 i 49/11), ministar graditeljstva i prostornog uređenja donosi
