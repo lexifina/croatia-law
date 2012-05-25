@@ -1,0 +1,3 @@
+## Obvezan upis malih proizvođača u Fitoupisnik
+# Članak 8.
+Iznimno od odredbe članka 7., stavka 1. ovoga Pravilnika, a zbog opasnosti od širenja štetnih organizama, upis u Fitoupisnik obvezan je i za male proizvođače sjemenskog krumpira i bilja namijenjenog sadnji iz rodova Citrus L., Fortunella Swingle, Poncirus Raf., uključujući i njihove križance, Amelanchier Med., Chaenomeles Lindl., Cotoneaster Ehrh., Crataegus L., Cydonia Mill., Eriobotrya Lindl., Malus Mill., Mespilus L., Prunus L., Pyracantha Roem., Pyrus L., Sorbus L., Castanea Mill., Camellia L., Rhododendron L. (osim vrste Rhododendron simsii), Viburnum L. i Vitis L. te vrste Photinia davidiana (Dcne.).

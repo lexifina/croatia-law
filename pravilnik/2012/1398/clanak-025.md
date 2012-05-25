@@ -1,0 +1,3 @@
+# Članak 25.
+(1) Za određene skupine bilja nadležna uprava može propisati uporabu obveznog i jednoobraznog izgleda i izvedbe biljne putovnice, u pogledu njenog oblika, veličine i boje, uzimajući u obzir odredbe propisa kojima je uređeno stavljanje na tržište poljoprivrednoga sjemena i sadnog materijala.
+(2) Službena etiketa izdana za bilje, biljne proizvode i druge nadzirane predmete navedene u Popisu V., dijelu A, odjeljku I., točki 1. Pravilnika o štetnim organizmima i drugim provedbenim propisima iz područja biljnog zdravstva, mora biti pričvršćena za svaku pojedinačnu biljku ili svežanj bilja, odnosno na najmanju moguću jedinicu pakiranja namijenjenu maloprodaji.

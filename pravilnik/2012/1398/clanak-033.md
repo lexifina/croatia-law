@@ -1,0 +1,7 @@
+## Provjera zdravstvenog stanja
+# Članak 33.
+(1) Provjera zdravstvenog stanja bilja, biljnih proizvoda i drugih nadziranih predmeta obavlja se najmanje vizualnim pregledom i ne dovodeći u pitanje odredbe članka 31. stavka 2. ovoga Pravilnika, najmanje tako često kako je navedeno u Popisu IV., dijelu A., odjeljku II. Pravilnika o štetnim organizmima i drugim provedbenim propisima iz područja biljnog zdravstva navedenim u Prilogu 4 ovoga Pravilnika, ili ovisno o vrsti proizvodnje, najmanje u sljedećim vremenskim razmacima:
+- u proizvodnji sjemena: dva puta godišnje tijekom vegetacijskog ciklusa,
+- u proizvodnji voćnog, loznog i šumskog reprodukcijskog sadnog materijala i sadnica, te reprodukcijskog sadnog materijala i sadnica višegodišnjeg ukrasnog bilja: dva puta godišnje tijekom vegetacijskog ciklusa,
+- u proizvodnji reprodukcijskog sadnog materijala povrća i presadnica povrća i sadnog materijala jednogodišnjih ukrasnih biljaka, uključujući lukovice i gomolje ukrasnog bilja: jedanput tijekom proizvodnog ciklusa.
+(2) Iznimno, kod proizvođača čija je proizvodnja i prodaja namijenjena krajnjim korisnicima na lokalnom tržištu provjera zdravstvenoga stanja bilja iz stavka 1. podstavka 3. ovoga članka ne mora se obaviti tijekom svakoga proizvodnog ciklusa, ali se mora obaviti najmanje jednom godišnje, uz uvjet da je proizvodnja bilja namijenjena krajnjim korisnicima na lokalnom tržištu jasno odvojena od proizvodnje namijenjene osobama koje se profesionalno bave proizvodnjom bilja.

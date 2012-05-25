@@ -1,0 +1,1 @@
+Na temelju članka 21. stavka 3., članka 22. stavka 2., članka 23. stavka 5., članka 24. stavka 4., članka 26. stavka 3., članka 30. stavka 2., članka 31. stavka 4. i članka 44. stavka 4. Zakona o biljnom zdravstvu (»Narodne novine«, br. 75/05 i 55/11), ministar poljoprivrede donosi

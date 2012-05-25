@@ -1,0 +1,7 @@
+## Rješenje o upisu u Fitoupisnik
+# Članak 11.
+(1) Nadležna uprava vodi službeni upisnik zahtjeva za upis u Fitoupisnik i provjerava podatke navedene u zahtjevu.
+(2) Ako se tijekom postupka upisa u Fitoupisnik utvrdi da je posjednik bilja obvezan upisati se u Fitoupisnik, u skladu s člankom 6. ovoga Pravilnika i da ispunjava propisane uvjete iz članka 9. ovoga Pravilnika, nadležna će uprava najkasnije u roku od tri mjeseca od dana primitka zahtjeva donijeti rješenje o upisu u Fitoupisnik i dodijeliti posjedniku bilja jedinstveni upisni broj.
+(3) Ako nadležna uprava utvrdi da zahtjev nije potpun ili je iz njega vidljivo da uvjeti iz članka 9. ovoga Pravilnika nisu ispunjeni, donijet će rješenje o odbijanju upisa u Fitoupisnik, a podnositelj zahtjeva neće biti upisan sve dok ne udovolji propisanim uvjetima.
+(4) Ako nadležna uprava utvrdi da se posjednik bilja ne bavi nijednom od djelatnosti iz članka 6. ovoga Pravilnika ili da udovoljava odredbama članka 7. ovoga Pravilnika, rješenjem će odbaciti zahtjev za upis u Fitoupisnik i izvijestiti posjednika bilja da ga zadržava u evidenciji radi mogućih fitosanitarnih pregleda.
+(5) Ako posjednik bilja koji je upisan u Fitoupisnik za određenu djelatnost odluči obavljati i drugu djelatnost iz članka 6. ovoga Pravilnika, podnijet će nadležnoj upravi zahtjev za dopunu ili izmjenu upisa u Fitoupisnik, na Obrascu 1 iz Priloga 1 ovoga Pravilnika. Nadležna će uprava izdati posjedniku rješenje o dopuni ili izmjeni upisa u Fitoupisnik, u roku od tri mjeseca od dana podnošenja zahtjeva.
