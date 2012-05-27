@@ -1,0 +1,7 @@
+# Članak 2.
+PROJEKTIRANJE, PRIPREMA I IZVOĐENJE
+Ugovorne stranke će osigurati usklađivanje svih projektnih pojedinosti oko izgradnje i svih radova potrebnih za izgradnju mosta, te su se sporazumjele, da se za most izda jedna građevinska dozvola koju će izdati nadležno tijelo Republike Hrvatske uz suglasnost nadležnog tijela u Bosni i Hercegovini i to na temelju lokacijske dozvole izdane od nadležnog tijela Republike Hrvatske i lokacijske dozvole izdane od nadležnog tijela u Bosni i Hercegovini. U postupku izdavanja suglasnosti nadležnog tijela u Bosni i Hercegovini provest će se postupak u skladu s propisima u Bosni i Hercegovini, uvažavajući sve zakonom propisane uvjete za postupak izdavanja građevinske dozvole.
+Inspekcijski nadzor za vrijeme gradnje mosta mogu obavljati dogovorno predstavnici nadležnih službi Republike Hrvatske i Bosne i Hercegovine.
+Na tehničkom pregledu će sudjelovati Povjerenstvo za tehnički pregled koje čine predstavnici obiju ugovornih stranaka, a uporabnu dozvolu izdat će nadležno tijelo Republike Hrvatske.
+Priprema i izgradnja mosta će se izvoditi u skladu s važećim zakonima i propisima obiju ugovornih stranaka.
+Ugovorne stranke su se sporazumjele da će za izgradnju mosta i stručni nadzor/nadzor nad radovima biti raspisan međunarodni javni natječaj, po međunarodnim pravilima iz područja nabave ili po pravilima financijskih institucija koje dijelom financiraju izgradnju mosta.
