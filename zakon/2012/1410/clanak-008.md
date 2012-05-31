@@ -1,0 +1,3 @@
+# Članak 8.
+(1) Ugovor o stručnom osposobljavanju za rad bez zasnivanja radnog odnosa mora biti sklopljen u pisanom obliku, a na osobu koja sklopi takav ugovor na odgovarajući se način primjenjuju propisi koji uređuju zaštitu zdravlja i sigurnost na radu i opći propis koji uređuje radne odnose, osim odredbi o sklapanju ugovora o radu, plaći i naknadi plaće te prestanku ugovora o radu.
+(2) Osobi koja ima sklopljen ugovor o stručnom osposobljavanju za rad bez zasnivanja radnog odnosa ne može se naložiti prekovremeni rad, osim u slučaju ako poslodavcu dostavi pisanu izjavu o dobrovoljnom pristanku na takav rad.

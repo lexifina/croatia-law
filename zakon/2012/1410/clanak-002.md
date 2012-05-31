@@ -1,0 +1,19 @@
+# Članak 2.
+(1) U smislu ovoga Zakona određuje se da je:
+1) nezaposlena osoba bez radnog iskustva u zvanju za koje se obrazovala, osoba koja se u evidenciji tijela nadležnog za vođenje evidencije o nezaposlenima, kao nezaposlena osoba vodi duže od devedeset dana i koja nema više od jedne godine evidentiranog staža u mirovinskom osiguranju niti je staž mirovinskog osiguranja ostvarila kod inozemnog nositelja obveznog mirovinskog osiguranja, te se zapošljava na temelju ugovora o radu ili se korištenjem mjera aktivne politike u zapošljavanju, stručno osposobljava za rad bez zasnivanja radnog odnosa,
+2) dugotrajno nezaposlena osoba, osoba koja se, bez obzira ima li evidentiran staž u mirovinskom osiguranju ili je staž mirovinskog osiguranja ostvarila kod inozemnog nositelja obveznog mirovinskog osiguranja, u evidenciji tijela nadležnog za vođenje evidencije o nezaposlenima, kao nezaposlena osoba vodi neprekidno duže od dvije godine te se zapošljava na temelju ugovora o radu,
+3) korisnik mirovine, osoba koja je ostvarila pravo na mirovinu prema propisima Republike Hrvatske, države članice Europske unije ili države s kojom je Republika Hrvatska sklopila ugovor o socijalnom osiguranju,
+4) tražitelj zaposlenja, osoba koja se želi zaposliti na privremenim, odnosno povremenim sezonskim poslovima u poljoprivredi, osim osobe koja:
+- je zaposlena osoba, odnosno samozaposlena osoba i osoba koja se nalazi u nekom radnom ili socijalnom statusu na temelju kojega je obvezno osigurana prema posebnim propisima koji uređuju obvezna osiguranja,
+- je zaposlena na temelju ugovora o radu na određeno vrijeme za stalne sezonske poslove, u razdoblju u kojem obavlja ugovorene poslove,
+- ima utvrđenu opću nesposobnost za rad,
+- je osigurana na produženo osiguranje prema posebnom propisu koji uređuje mirovinsko osiguranje, osim ako je osigurana na produženo osiguranje za vrijeme nezaposlenosti, tijekom privremenog ili sezonskog prekida obavljanja djelatnosti ili za vrijeme nezaposlenosti pomorca nakon prestanka ugovora o radu na određeno vrijeme,
+5) privremeni, odnosno povremeni sezonski posao u poljoprivredi, posao u području:
+- bilinogojstva koji obuhvaća pripremu zemljišta, sjetvu, sadnju, cijepljenje, uzgojne mjere, rezidbu, plijevljenje, prorjeđivanje, pikiranje, presađivanje, zaštitu bilja, žetvu, berbu, sakupljanje, premještanje uroda, sortiranje, doradu, preradu i pakiranje,
+- stočarstva koji obuhvaća striženje, mužnju, janjenje, jarenje, prikupljanje i čuvanje stada, te premještanje košnica i vrcanje meda,
+- ribarstva koje obuhvaća slatkovodno ribarstvo i jesenski izlov ribe u akvakulturi, morsko ribarstvo, odnosno lov na plivarici i izlov tramatom, sortiranje i pakiranje ribe te skupljanje školjaka,
+6) poslodavac koji može koristiti olakšice pri zapošljavanju, odnosno koji stručno osposobljava korištenjem mjera aktivne politike u zapošljavanju, fizička ili pravna osoba koja nezaposlenu osobu zapošljava, odnosno stručno osposobljava za rad,
+7) poslodavac koji može zapošljavati na privremenim, odnosno povremenim sezonskim poslovima u poljoprivredi, fizička ili pravna osoba koja obavlja registriranu poljoprivrednu djelatnost ili fizička osoba nositelj obiteljskog poljoprivrednog gospodarstva evidentiranog u odgovarajućem upisniku,
+8) sezonski radnik u poljoprivredi, nezaposlena osoba, korisnik mirovine ili tražitelj zaposlenja koji, na temelju ugovora o sezonskom radu, obavlja privremene, odnosno povremene sezonske poslove u poljoprivredi,
+9) vrijednosni kupon, javna isprava kojom se dokazuje da je poslodavac za sezonskog radnika u poljoprivredi uplatio doprinose za obvezna osiguranja prema dnevnoj osnovici.
+(2) Riječi koje imaju rodno značenje, bez obzira jesu li u ovome Zakonu korištene u muškom ili ženskom rodu, odnose se na jednak način na muški i ženski rod.
