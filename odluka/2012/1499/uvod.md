@@ -1,0 +1,1 @@
+Na temelju članka 56., a u vezi s člankom 35. stavkom 2. Zakona o Hrvatskoj radioteleviziji (»Narodne novine«, broj 137/2010), Vlada Republike Hrvatske je na sjednici održanoj 31. svibnja 2012. godine donijela
