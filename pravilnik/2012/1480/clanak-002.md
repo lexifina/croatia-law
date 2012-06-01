@@ -1,0 +1,15 @@
+# Članak 2.
+Iza članka 12. dodaje se novi naslov i članak 12.a koji glasi:
+»1.a Porezna olakšica za reinvestiranu dobit
+Članak 12.a
+(1) Pravo na umanjenje porezne osnovice za reinvestiranu dobit prema članku 6. stavku 1. točki 6. i stavku 5. Zakona mogu ostvariti porezni obveznici koji su u poreznom razdoblju ostvarili dobit prije uvećanja i umanjenja prema članku 5. stavku 1. Zakona pod uvjetima:
+1. da je dobit ili dio dobiti poreznog razdoblja za koje se podnosi prijava poreza na dobit uporabljena za povećanje temeljnog kapitala i
+2. da je u sudskom registru, sukladno posebnim propisima, upisano povećanje temeljnog kapitala u visini reinvestirane dobiti i
+3. da dobit nije ostvarena u bankarskom odnosno financijskom nebankarskom sektoru.
+(2) Porezni obveznik koji iskazuje umanjenje porezne osnovice za reinvestiranu dobit dostavlja uz prijavu poreza na dobit ili najkasnije u roku od 6 mjeseci od proteka roka za podnošenje prijave poreza na dobit, dokaz da je u sudskom registru upisano povećanje temeljnog kapitala u visini reinvestirane dobiti.
+(3) Porezni obveznik koji ne dostavi dokaz iz stavka 2. ovoga članka obvezan je izvršiti ispravak prijave poreza na dobit za razdoblje u kojem je iskazao umanjenje porezne osnovice.
+(4) Pri utvrđivanju prava na umanjenje porezne osnovice za reinvestiranu dobit, porezni obveznik, uz dokaz i u roku iz stavka 2. ovoga članka, dostavlja odluku o uporabi dobiti ostvarene u poreznom razdoblju za koju se podnosi prijava poreza na dobit, uključivo i dobit koja se reinvestira, te pregled stanja kapitala i rezervi nakon što je u sudskom registru proveden postupak povećanja temeljnog kapitala reinvestiranom dobiti.
+(5) U slučaju kada je umanjenje porezne osnovice za reinvestiranu dobit iskazano u iznosu ostvarene dobiti poreznog razdoblja utvrđene prema stavku 1. ovoga članka, pri čemu porezna obveza nastaje isključivo na temelju propisanih uvećanja porezne osnovice, tada dokaz iz stavka 2. ovoga članka može biti utvrđen u iznosu reinvestirane dobiti umanjene za poreznu obvezu.
+(6) U smislu članka 6. stavka 1. točke 6. Zakona, bankarski odnosno financijski nebankarski sektor obuhvaća porezne obveznike koji su osnovani u skladu s posebnim propisima i koji su od nadležnih tijela dobili odobrenje za pružanje bankovnih i/ili financijskih usluga, kao što su: kreditne institucije, financijske institucije, kreditne unije, investicijska društva, društva za osiguranje i reosiguranje, leasing društva, institucije za platni promet i institucije za elektronički novac.
+(7) Umanjenje porezne osnovice za reinvestiranu dobit neće se priznati ako porezni obveznik naknadno smanji temeljni kapital koji je povećan reinvestiranom dobiti i izvrši isplate članovima društva i/ili ako se smanjenje temeljnog kapitala izvrši radi povećanja drugih stavki kapitala i rezervi koje u budućim poreznim razdobljima omogućavaju isplatu dobiti.
+(8) Odredbe stavka 7. ovoga članka se primjenjuju u slučaju nastanka promjena iz članka 18. i 19. Zakona te u slučaju promjene strukture vlasništva.«.

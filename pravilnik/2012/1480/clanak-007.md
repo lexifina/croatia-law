@@ -1,0 +1,7 @@
+# Članak 7.
+U članku 47. stavku 3. točka 25. mijenja se i glasi:
+»25. Povećanje dobiti za ostale prihode i druga povećanja porezne osnovice. Na ovome rednom broju iskazuju se povećanja dobiti ili smanjenje gubitka za prihode koji nisu iskazani u računovodstvenoj dobiti, a uključuju se u poreznu osnovicu. Na ovome rednom broju iskazuje se i povećanje porezne osnovice za iznos poreznog gubitka za koji je prestalo pravo korištenja sukladno članku 17. stavku 6. Zakona, te članku 38. ovoga Pravilnika, a za koji je prestalo pravo korištenja sukladno članku 17. stavcima 5. i 7. Zakona. Na ovom rednom broju iskazuje se i povećanje porezne osnovice za iznos utvrđen člankom 6. stavkom 7. Zakona i člankom 12.a stavcima 7. i 8. ovoga Pravilnika, u slučaju kada nije izvršen ispravak prijave poreza na dobit prema članku 12.a stavku 3. ovoga Pravilnika ili prema članku 66. Općeg poreznog zakona.«.
+Točka 28. mijenja se i glasi:
+»28. Reinvestirana dobit prema članku 6. stavku 1. točki 6. Zakona. Na ovom rednom broju upisuje se iznos dobiti poreznog razdoblja, koja je uporabljena za povećanje temeljnog kapitala na način propisan člankom 12.a ovoga Pravilnika.«.
+Točka 30. mijenja se i glasi:
+»30. Iznos prihoda od nerealiziranih dobitaka prema članku 6. stavku 1. točki 2. Zakona, utvrđen na način propisan člankom 13. ovoga Pravilnika, te ostali rashodi prethodnih razdoblja prema članku 6. stavku 2. Zakona utvrđeni na način propisan člankom 20. ovoga Pravilnika.«.
