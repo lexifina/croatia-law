@@ -1,0 +1,5 @@
+# Članak 12.
+Stranac koji podnosi zahtjev za izdavanje vize u diplomatskoj misiji odnosno konzularnom uredu Republike Hrvatske ili druge države s kojom je Republika Hrvatska sklopila ugovor o zastupanju u izdavanju viza, dužan je dokazati da ima dovoljno sredstava za uzdržavanje tijekom boravka u Republici Hrvatskoj i za povratak u državu iz koje je došao ili za putovanje u treću državu.
+Pri ulasku u Republiku Hrvatsku, tijelo nadležno za kontrolu prelaska državne granice ovlašteno je od stranca zatražiti da predoči sredstva za uzdržavanje tijekom boravaka u Republici Hrvatskoj i za povratak u državu iz koje je došao ili za putovanje u treću državu.
+Visina sredstava iz stavaka 1. i 2. ovoga članka je protuvrijednost 100 € (slovima: sto eura) po danu predviđenog boravka u Republici Hrvatskoj.
+Ako stranac posjeduje ovjereno jamstveno pismo fizičke ili pravne osobe iz Republike Hrvatske, dokaz o uplaćenom turističkom aranžmanu ili sličnu ispravu, dužan je predočiti dokaz o posjedovanju sredstava u protuvrijednosti 50 € (slovima: pedeset eura) po danu predviđenog boravka u Republici Hrvatskoj.
