@@ -1,0 +1,1 @@
+Na temelju članka 64. Zakona o porezu na dohodak (»Narodne novine«, br. 177/04, 73/08, 80/10, 114/11 i 22/12) i članka 17. Zakona o izmjenama i dopunama Zakona o porezu na dohodak (»Narodne novine«, br. 22/12) donosim

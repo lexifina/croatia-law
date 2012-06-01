@@ -1,0 +1,3 @@
+# Članak 1.
+U Pravilniku o porezu na dohodak (»Narodne novine«, br. 95/05, 96/06, 68/07, 146/08, 2/09, 9/09 - ispravak, 146/09, 123/10 i 137/11) u članku 2. stavku 2. na kraju teksta briše se točka, stavlja se zarez i dodaje tekst: »te se predujam poreza na dohodak nasljedniku utvrđuje po istom izvoru dohotka koji se utvrđivao ostavitelju.«.
+U stavku 3. na kraju teksta dodaje se tekst: »Predujam poreza koji se plaća po odbitku stjecatelji oporezivog primitka izravno iz inozemstva, od organizacija iz članka 45. stavka 7. Zakona te izravno od fizičkih osoba koje ne obavljaju samostalnu djelatnost iz članka 18. Zakona, uplaćuju u roku od osam dana od dana naplate primitka.«.

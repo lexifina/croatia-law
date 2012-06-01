@@ -1,0 +1,7 @@
+# Članak 3.
+U članku 7. stavak 2. mijenja se i glasi:
+»(2) U skladu s člankom 10. točkom 3. Zakona, porez na dohodak ne plaća se na novčanu naknadu za vrijeme privremene nezaposlenosti i spriječenosti za rad isplaćenu na teret sredstava obveznih osiguranja i to osobito:
+- novčana naknada nezaposlenima isplaćena na teret Hrvatskog zavoda za zapošljavanje sukladno posebnom propisu (novčana naknada nezaposlenima koja se isplaćuje u mjesečnim anuitetima, novčana naknada koja se na zahtjev nezaposlene osobe isplaćuje u jednokratnom iznosu radi zapošljavanja, samozapošljavanja ili volontiranja, novčana pomoć i naknada troškova za vrijeme obrazovanja, jednokratna novčana pomoć i naknada putnih i selidbenih troškova, novčana pomoć polaznicima stručnog osposobljavanja za rad bez zasnivanja radnog odnosa),
+- naknada plaće zbog privremene spriječenosti za rad isplaćena na teret Hrvatskog zavoda za zdravstveno osiguranje, Državnog proračuna i centara za socijalnu skrb.«.
+Iza stavka 12. dodaje se stavak 13. koji glasi:
+(13) Službenim putovanjem iz članka 10. točke 11. Zakona smatraju se i programi mobilnosti, odnosno Programi za cjeloživotno učenje, financirani bespovratnim sredstvima iz fondova Europske unije, isplaćeni posredstvom neprofitne organizacije iz tuzemstva ili izravno iz fondova Europske unije, te se neoporezivim primicima smatraju dodijeljena sredstva koja su iskorištena za pokriće troškova službenog puta i to u visini naknada iz članka 13. stavka 2. točaka 1., 2., 5., 13. i 14. ovoga Pravilnika uz uvjete iz stavaka 5. i 6. ovoga članka.«.
