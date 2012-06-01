@@ -1,0 +1,1 @@
+Na temelju članka 253. Zakona o doprinosima (»Narodne novine«, broj 84/08, 152/08, 94/09 i 18/11) i članka 19. Zakona o izmjenama i dopunama Zakona o doprinosima (»Narodne novine«, broj 22/12), ministar financija donosi

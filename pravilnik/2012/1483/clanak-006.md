@@ -1,0 +1,3 @@
+# Članak 6.
+U članku 206. stavak 3. mijenja se i glasi:
+»(3) Radi primjene članka 133. stavak 3. Zakona i promjene iznosa osnovice a uslijed promjene iznosa mirovine ili invalidnine odnosno srednjeg tečaja kune za inozemnu valutu u kojoj se isplaćuje mirovina ili invalidnina, osiguranik može podnijeti Poreznoj upravi zahtjev najkasnije do posljednjeg dana u godini poradi primjene nove osnovice za sljedeću godinu. Porezna uprava će zahtjevu udovoljiti ako se iznos mirovine ili invalidnine promijeni za više od 5% odnosno ako je, prema ispisu tečaja Hrvatske narodne banke na zadnji dan tekuće godine srednji tečaj valute u kojoj se mirovina ili invalidnina isplaćuje promijenjen u odnosu na srednji tečaj na isti dan prethodne godine za više od 5%.«
