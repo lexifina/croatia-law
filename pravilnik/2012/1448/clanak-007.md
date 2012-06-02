@@ -1,0 +1,4 @@
+# Članak 7.
+(1) Nadzor nad obavljanjem poslova dostave u kaznenom postupku provodi predsjednik suda koji je zaključio ugovor s poštom, trgovačkim društvom ili obrtnikom za obavljanje poslova dostave u kaznenom postupku.
+(2) Državni odvjetnik provodi nadzor nad obavljanjem poslova dostave koju obavlja pošta, trgovačko društvo ili obrtnik s kojim je državno odvjetništvo zaključilo ugovor o obavljanju poslova dostave.
+(3) Pošta, trgovačko društvo ili obrtnik dužni su jednom godišnje dostaviti sudu odnosno državnom odvjetništvu izvještaj o kakvoći obavljanja poslova dostave s podacima koliko je ukupno izvršeno usluga dostave odnosno koliko je dostava uspješno obavljeno, neuredno obavljeno dostava i u koliko pokušaja su dostave izvršene i u kojim rokovima sukladno Pravilniku o općim uvjetima za obavljanje poštanskih usluga.
