@@ -1,0 +1,2 @@
+# Članak 1.
+U Pravilniku o zahtjevima zdravlja životinja za nekomercijalno kretanje kućnih ljubimaca (»Narodne novine«, broj 74/11) u Dodatku IV. Dijelu C riječi: »US Sjedinjene Američke Države (uključujući GU - Guam)« zamjenjuju se riječima: »US Sjedinjene Američke Države (uključujući AS - Američka Samoa, GU - Guam, MP - Sjeverni Marijanski otoci, PR - Portoriko i VI - Američki Djevičanski otoci)«.
