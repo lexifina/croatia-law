@@ -1,0 +1,2 @@
+# Članak 4.
+Svjedoku, vještaku, tumaču ili stručnoj osobi koja je istog dana kod istog državnog odvjetnika odnosno suda koji vodi kazneni postupak sudjelovala u više predmeta u toj ulozi pripada naknada u visini jednostrukog iznosa podvoznih troškova, dnevnice i izgubljenog osobnog dohotka odnosno izgubljene zarade. Ta će se naknada podijeliti na sve predmete razmjerno vremenu provedenom radi svjedočenja, vještačenja ili davanja stručnog objašnjenja u svakom pojedinom predmetu, a ako se to ne može, podijelit će se na jednake dijelove.

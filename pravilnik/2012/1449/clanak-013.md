@@ -1,0 +1,2 @@
+# Članak 13.
+Naknadu za izgubljenu zaradu poljoprivrednicima, obrtnicima i drugim osobama koje samostalno obavljaju djelatnost osobnim radom sredstvima u vlasništvu građana ili drugu profesionalnu djelatnost određuje sud odnosno državni odvjetnik ovisno od izgubljenog vremena i zanimanja, time da iznos dnevne naknade ne može biti manji od iznosa prosječne mjesečne neto plaće ukupno zaposlenih u Republici Hrvatskoj za prethodno tromjesečje prema podacima Državnog zavoda za statistiku, podijeljene s 30 dana, a niti veći od dvostrukog iznosa te naknade.
