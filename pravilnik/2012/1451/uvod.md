@@ -1,0 +1,1 @@
+Na temelju članka 99. stavak 2. Zakona o sudovima (»Narodne novine«, broj 150/05, 16/07, 113/08, 153/09, 116/10, 27/11, 57/11 - Zakon o izmjenama i dopunama Zakona o parničnom postupku i 130/11) ministar pravosuđa donosi

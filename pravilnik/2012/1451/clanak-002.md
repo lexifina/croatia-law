@@ -1,0 +1,5 @@
+# Članak 2.
+1) Visina dodatka na plaću suca prekršajnog i općinskog suda privremeno upućenog na rad u drugi prekršajni i općinski sud koji je udaljen do 80 km od suda u kojem sudac obnaša sudačku dužnost, utvrđuje se u iznosu od 800,00 kuna mjesečno (neto).
+2) Visina dodatka na plaću suca prekršajnog i općinskog suda privremeno upućenog na rad u drugi prekršajni i općinski sud koji je udaljen više od 80 km od suda u kojem sudac obnaša sudačku dužnost, utvrđuje se u iznosu od 2.500,00 kuna mjesečno (neto).
+3) Visina dodatka na plaću suca trgovačkog i županijskog suda privremeno upućenog na rad u drugi trgovački ili županijski sud koji je udaljen do 80 km od suda u kojem sudac obnaša sudačku dužnost, utvrđuje se u iznosu od 800,00 kuna mjesečno (neto).
+4) Visina dodatka na plaću suca trgovačkog i županijskog suda privremeno upućenog na rad u drugi trgovački ili županijski sud koji je udaljen više od 80 km od suda u kojem sudac obnaša sudačku dužnost, utvrđuje se u iznosu od 2.500,00 kuna mjesečno (netto).
