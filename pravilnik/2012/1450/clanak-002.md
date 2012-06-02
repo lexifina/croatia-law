@@ -1,0 +1,2 @@
+# Članak 2.
+Naknade troškova u smislu ovog Pravilnika smatraju se troškovi smještaja (noćenje) za vrijeme dok sudac boravi u mjestu suda u koji je privremeno upućen, naknada za odvojeni život od obitelji, putni troškovi prijevoza iz mjesta prebivališta odnosno boravišta do mjesta sjedišta, kao i za povratak u prebivalište odnosno boravište, kao i troškove prijevoza u mjesto stanovanja obitelji u vrijeme tjednog odmora i državnih blagdana i korištenje osobnog automobila u službene svrhe.
