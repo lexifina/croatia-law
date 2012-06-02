@@ -1,0 +1,3 @@
+# Članak 13.
+Ako plovilo kojemu je izdana zapovijed za zaustavljanje, odbije postupiti, a postoji sumnja u počinjenje kaznenog djela ili prekršaja, ovlašteni carinski službenik koji zapovijeda plovilom Carinske uprave obavijestiti će ustrojstvenu jedinicu Carinske uprave nadležnu za operativnu komunikaciju, a koja će o istome obavijestiti operativno komunikacijski centar MUP-a te Operativno dežurstvo Obalne straže i zatražiti pomoć.
+Nakon obavijesti nadležne ustrojstvene jedinice Carinske uprave zadužene za operativnu komunikaciju, plovilo Carinske uprave započet će postupak praćenja plovnog objekta sukladno svojim ovlastima.

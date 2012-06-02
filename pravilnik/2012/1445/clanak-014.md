@@ -1,0 +1,2 @@
+# Članak 14.
+U slučaju kada plovni objekt manevrira prema plovilu Carinske uprave na način da plovilo Carinske uprave ne može izbjeći sudar te kada se sa plovnog objekta prema plovilu Carinske uprave ili posadi upotrijebi vatreno oružje i time dovede u opasnost život ovlaštenog carinskog službenika ili život drugih osoba, ovlašteni carinski službenik ima pravo upotrijebiti vatreno oružje sukladno posebnim propisima.
