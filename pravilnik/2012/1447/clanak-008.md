@@ -1,0 +1,6 @@
+## Novac
+# Članak 8.
+(1) Službenik zadužen za poslove Corpore delicti dužan je provjeriti ukupni iznos novca, naziv države u kojoj valuta vrijedi kao zakonsko sredstvo plaćanja, nominalna vrijednost na koju novčanica glasi, serijski broj svake pojedine novčanice, apoenima i prema popratnom dopisu i prema potvrdi o pronađenom ili privremenom oduzimanju predmeta u spisu.
+(2) Nakon upisa u »Kop« novac se predaje na čuvanje voditeljici materijalno financijskog poslovanja u državnom odvjetništvu odnosno sudu koja vrši provjeru primljenog novca po iznosu, valuti, apoenu i serijskom broju novčanica, potpisuje primitak novca te upisuje novac u Knjigu pologa. U »Kop« će se kao mjesto čuvanja navesti "polog" te naznačiti broj stranice i rednog broja iz Knjige pologa.
+(3) O predaji novca iz stavka 2. ovoga članka sastavlja se kratki zapisnik koji potpisuje službenik zadužen za poslove corpore ili državni odvjetnik odnosno zamjenik državnog odvjetnika i voditeljica materijalno financijskog poslovanja u državnom odvjetništvu.
+(4) Ako je oduzet novac u većoj vrijednosti nakon upisa u Knjigu pologa, voditeljica materijalno financijskog poslovanja može uz suglasnost predsjednika suda odnosno državnog odvjetnika položiti taj novac na poseban račun u banci.

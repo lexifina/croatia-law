@@ -1,0 +1,6 @@
+# Članak 12.
+(1) Predmeti veće vrijednosti koji su tijekom kaznenog postupka bili pronađeni ili privremeno oduzeti, vratit će se vlasniku čim se ustanovi da ne postoje razlozi za njihovo oduzimanje. Službenik za vođenje poslova Corpore delicti na temelju naloga državnog odvjetnika odnosno suca sačinit će zapisnik o vraćanju pronađenih ili oduzetih predmeta i u evidenciji o oduzetim predmetima zabilježiti da su predmeti vraćeni. Zapisnik potpisuje osoba kojoj su predmeti oduzeti ili branitelj.
+(2) Ako vlasnik ne preuzme predmete ili novac iz stavka 1. ovoga članka u roku koji mu odredi državni odvjetnik odnosno sud koji su donijeli odluku o vraćanju predmeta, ali ne dulje od jedne godine, predmeti odnosno novac unose se u proračunska sredstva.
+(3) Ako vlasnik ne preuzme predmete u roku iz stavka 2. ovoga članka, državni odvjetnik odnosno sud donijeti će rješenje o predaji predmeta u kriminalistički muzej odnosno drugoj ustanovi ili će se uništiti.
+(4) Ako se predmeti prodaju dobiveni novac od prodaje predmeta unosi se u proračunska sredstva.
+(5) Ako je predmet podložan kvaru ili njegovo čuvanje vezano sa znatnim troškovima, može se i ranije prodati, a ranijem vlasniku predat će se novac dobiven prodajom. O prodaji predmeta odluku donosi Komisija iz članka 9. stavka 1. ovoga Pravilnika.
