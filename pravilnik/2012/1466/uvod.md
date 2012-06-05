@@ -1,0 +1,1 @@
+Na temelju članka 69. stavka 6. Zakona o morskom ribarstvu (»Narodne novine«, br. 56/10, 127/10 i 55/11) ministar poljoprivrede uz suglasnost ministra nadležnog za zaštitu okoliša i prirode i ministra nadležnog za pomorstvo donosi
