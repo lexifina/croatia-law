@@ -1,0 +1,3 @@
+# Članak 1.
+U Zakonu o tržištu električne energije (»Narodne novine«, br. 177/04., 76/07.,152/08. i 14/11.) u članku 8. iza stavka 7. dodaje se stavak 8. koji glasi:
+»(8) Proizvođači koji kogeneracijom i/ili iz obnovljivih izvora energije proizvode električnu energiju uporabom jednostavnih građevina određenim propisom iz područja prostornog uređenja i gradnje kojim se određuju jednostavne građevine i radovi (dalje u tekstu: jednostavne građevine), izuzimaju se od obveze ishođenja rješenja iz stavka 2. i prethodnog rješenja iz stavka 3. ovoga članka te status povlaštenog proizvođača električne energije stječu u skladu s uvjetima propisanim pravilnikom iz stavka 2. ovoga članka.«.
