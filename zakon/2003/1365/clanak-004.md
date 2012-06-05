@@ -1,16 +1,20 @@
 # Članak 4.
 U smislu ovoga Zakona pojedini izrazi imaju sljedeće značenje:
 1. »Aktivnost službene statistike« je svaka aktivnost koja se temelji na ovom Zakonu ili propisima navedenima u članku 34. i 35. ovoga Zakona, uz primjenu znanstvenih i stručnih metoda i standarda u cilju proizvodnje, obrade i diseminacije rezultata službene statistike.
-2. »Nositelji službene statistike« su Državni zavod za statistiku, uredi državne uprave u županijama i upravno tijelo Grada Zagreba nadležni za poslove službene statistike,
+2. »Nositelji službene statistike« su Državni zavod za statistiku, upravno tijelo Grada Zagreba nadležno za poslove službene statistike,
 Hrvatska narodna banka i druga ovlaštena tijela određena Programom statističkih aktivnosti Republike Hrvatske.
+Odredbom članka 1. Zakona o izmjenama i dopunama Zakona o službenoj statistici (»Narodne novine«, br. 75/09.) stupila na snagu 1. siječnja 2010., u točki 2. riječi: »uredi državne uprave u županijama i« su brisane, a riječ: »nadležni« zamijenjena je riječju: »nadležno«.
 3. »Strategija razvitka službene statistike Republike Hrvatske« je akt kojim se utvrđuje razvojna orijentacija službene statistike Republike Hrvatske, uz navođenje bitnih ciljeva koji se nastoje postići u budućem višegodišnjem razdoblju.
 4. »Program statističkih aktivnosti Republike Hrvatske« (u daljnjem tekstu: Program) je akt kojim se utvrđuju statističke aktivnosti za višegodišnje razdoblje u skladu s ovim Zakonom.
-5. »Godišnji provedbeni plan« je akt koji se, u cilju izvršavanja Programa, donosi za svaku godinu na koju se odnosi Program.
+5. »Godišnji provedbeni plan« statističkih aktivnosti Republike Hrvatske (u daljnjem tekstu: Godišnji provedbeni plan) je akt koji se, u cilju izvršavanja Programa, donosi za svaku godinu na koju se odnosi Program.
+Odredbom članka 2. Zakona o izmjenama i dopunama Zakona o službenoj statistici (»Narodne novine«, br. 59/12.) stupio na snagu 5. lipnja 2012., u točki 5. iza riječi: »plan« dodane su riječi: »statističkih aktivnosti Republike Hrvatske (u daljnjem tekstu: Godišnji provedbeni plan).
 6. »Statističko istraživanje« je metoda sustavnog prikupljanja podataka kojom nositelji službene statistike prikupljaju podatke izravno od izvještajne jedinice za statističke svrhe.
 7. »Statistički obrazac« je svaki papirnati ili elektronički zapis dokumenta kojim se prikupljaju podaci od izvještajnih jedinica.
-8. »Prikupljanje podataka« je aktivnost koja se odnosi na provedbu statističkih istraživanja, korištenje administrativnih izvora podataka i metoda praćenja i promatranja, kojom nositelji službene statistike u skladu s odredbama ovoga Zakona prikupljaju i obrađuju podatke o statističkim jedinicama.
+8. »Prikupljanje podataka« je aktivnost koja se odnosi na provedbu statističkih istraživanja, korištenje administrativnih izvora podataka i metoda promatranja i praćenja, kojom nositelji službene statistike u skladu s odredbama ovoga Zakona prikupljaju i obrađuju podatke o statističkim jedinicama.
+Odredbom članka 2. Zakona o izmjenama i dopunama Zakona o službenoj statistici (»Narodne novine«, br. 59/12.) stupio na snagu 5. lipnja 2012., u točki 8. riječi: »metoda praćenja i promatranja« zamijenjene su riječima: »metoda promatranja i praćenja«.
 9. »Izvještajne jedinice« su pravne osobe i njihovi dijelovi, fizičke osobe, obrtnici, slobodne profesije, kućanstva, državna tijela te tijela jedinica lokalne i područne (regionalne) samouprave i sve druge osobe na području Republike Hrvatske koje daju podatke isključivo u statističke svrhe, u sadržaju i rokovima određenim Godišnjim provedbenim planom.
-10. »Statistička jedinica« je metodološki jednoznačno određena razina u svakom obliku prikupljanja podataka, utvrđena na način koji izvještajnoj jedinici omogućava iskazivanje podataka u prikupljanju, a nositeljima službene statistike agregiranje u obradi rezultata službene statistike.
+10. »Statistička jedinica« jest osnovna jedinica promatranja na koju se podaci odnose (fizička osoba, pravna osoba i njezin dio, obrtnik, slobodna profesija, kućanstvo, državno tijelo, jedinica lokalne i područne (regionalne) samouprave i druge osnovne jedinice promatranja na koje se podaci odnose).
+Odredbom članka 2. Zakona o izmjenama i dopunama Zakona o službenoj statistici (»Narodne novine«, br. 59/12.) stupio na snagu 5. lipnja 2012., točka 10. je izmijenjena.
 11. »Identifikator« je svako jednoznačno određeno obilježje iz kojeg se može izravno ili neizravno prepoznati individualna izvještajna jedinica.
 12. »Rezultat službene statistike« je svaki statistički podatak koji sadržajno osigurava svrhu službene statistike na način određen u članku 3. ovoga Zakona, a proizvodi se, obrađuje i diseminira u skladu s odredbama ovoga Zakona.
 13. »Službeni statistički podatak« (u daljnjem tekstu: statistički podatak) je svaki podatak koji se proizvede i diseminira potpuno u skladu s odredbama ovoga Zakona ili u skladu s propisima navedenima u članku 34. i 35. ovoga Zakona te koje je takvima proglasio ovlašteni nositelj službene statistike.
@@ -19,3 +23,16 @@ Hrvatska narodna banka i druga ovlaštena tijela određena Programom statističk
 16. »Statistički registri« su nominalne liste izvještajnih jedinica koje se kontinuirano ažuriraju i koriste isključivo u statističke svrhe.
 17. »Statističko gradivo« je skup akata koji sadrže: metodološke osnove, statističke obrasce, statistička izvješća, prikaze, studije i analize, sumarne preglede i rezultate, publikacije i ostale akte koji nastaju u obavljanju poslova službene statistike.
 18. »Administrativni izvori podataka« su zbirke podataka ustrojene na temelju posebnih zakona, a koriste se za utvrđivanje prava i obveza pravnih i fizičkih osoba.
+19. »Službena statistika« podrazumijeva kvantitativne i kvalitativne, agregirane i reprezentativne informacije koje opisuju masovnu pojavu u promatranoj populaciji u skladu s pozitivnim propisima koji reguliraju službenu statistiku u Republici Hrvatskoj.
+20. »Razvoj« podrazumijeva aktivnosti za utvrđivanje, jačanje i poboljšanje statističkih metoda, standarda i postupaka koji se koriste za proizvodnju i diseminaciju statističkih podataka te oblikovanje novih statistika i pokazatelja.
+21. »Proizvodnja statističkih podataka« podrazumijeva sve aktivnosti koje se odnose na prikupljanje, pohranu, obradu i analizu, koje su potrebne za kompiliranje statistike.
+22. »Korištenje podataka za statističke svrhe« podrazumijeva korištenje prikupljenih podataka isključivo za razvoj i proizvodnju statističkih rezultata i analiza.
+23. »Povjerljivi podaci« jesu podaci koji omogućuju izravnu ili neizravnu identifikaciju statističkih jedinica, pri čemu se otkrivaju pojedinačne informacije. Kako bi se utvrdilo je li moguća identifikacija statističke jedinice, u obzir se uzimaju sva relevantna sredstva kojima bi se treća strana mogla razumno koristiti za identifikaciju statističke jedinice.
+24. »Izravna identifikacija« jest identifikacija statističke jedinice na temelju njezina naziva/imena i prezimena, adrese ili javno dostupnoga identifikacijskog broja.
+25. »Neizravna identifikacija« jest identifikacija statističke jedinice na temelju svakoga drugog načina osim izravne identifikacije.
+26. »Komisija (Eurostat)« jest Statistički ured Europske unije.
+27. »Metapodaci« su podaci koji definiraju i opisuju druge podatke koji su potrebni za uporabu i interpretiranje statistike.
+28. »Podaci prikupljeni metodom promatranja i praćenja« su svi podaci koji su prikupljeni na izravan ili neizravan način od izvještajnih jedinica u znanstveno-istraživačke i druge posebne svrhe.
+29. »Posjednici podataka prikupljenih metodom promatranja i praćenja« su pravne osobe koje su provele istraživanja metodom promatranja i praćenja.
+30. »Kodeks prakse europske statistike« jest dokument Komisije (Eurostata) namijenjen osiguravanju povjerenja javnosti u službenu statistiku tako što utvrđuje kako treba razvijati, proizvoditi i diseminirati službenu statistiku u skladu sa statističkim načelima i kriterijima kvalitete te najboljom međunarodnom statističkom praksom.
+Odredbom članka 2. Zakona o izmjenama i dopunama Zakona o službenoj statistici (»Narodne novine«, br. 59/12.) stupio na snagu 5. lipnja 2012., iza točke 18. dodane su točke 19., 20., 21., 22., 23., 24., 25., 26., 27., 28., 29. i 30.

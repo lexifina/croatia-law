@@ -1,0 +1,4 @@
+# Članak 41.b.
+Posjednici administrativnih izvora podataka i podataka prikupljenih metodom promatranja i praćenja dužni su pravodobno upoznati Državni zavod za statistiku s namjerom prikupljanja administrativnih podataka te ga obavještavati o svim provedenim promjenama sadržaja podataka u postojećim administrativnim izvorima podataka i dostavljati metapodatke za administrativne podatke koji se koriste za statističke svrhe.
+Posjednici administrativnih izvora podataka i podataka prikupljenih metodom promatranja i praćenja dužni su prije uvođenja, izmjene ili proširenja administrativnih izvora podataka o tome pisanim putem obavijestiti Državni zavod za statistiku.
+Odredbom članka 19. Zakona o izmjenama i dopunama Zakona o službenoj statistici (»Narodne novine«, br. 59/12.) stupio na snagu 5. lipnja 2012., dodan je članak 41.b.

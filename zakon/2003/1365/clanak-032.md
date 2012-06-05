@@ -1,32 +1,36 @@
 # Članak 32.
-Godišnjim provedbenim planom određuju se:
-1. za statistička istraživanja:
+Godišnjim provedbenim planom određuje se:
+1. za statistička istraživanja neposrednim prikupljanjem podataka:
 a) nositelj službene statistike,
 b) naziv statističkog istraživanja,
 c) periodičnost istraživanja,
-d) izvještajne jedinice,
-e) načini prikupljanja podataka,
-f) rokovi prikupljanja podataka,
-g) obvezatnost davanja podataka,
+d) kratak opis sadržaja,
+e) izvještajne jedinice,
+f) način prikupljanja podataka,
+g) rokovi prikupljanja podataka,
 h) veza s rezultatima ili aktivnostima u Programu,
-i) rokovi i razina objave rezultata,
-j) relevantni međunarodni standardi;
-2. za druge načine prikupljanja podataka:
+i) rokovi objavljivanja rezultata,
+j) razina objavljivanja rezultata;
+k) relevantni nacionalni standardi,
+l) relevantni međunarodni standardi,
+2. za statistička istraživanja čiji se podaci dobivaju iz administrativnih izvora ili metodom promatranja i praćenja:
 a) nositelj službene statistike,
 b) posjednik administrativnih izvora podataka ili podataka dobivenih metodom promatranja i praćenja,
 c) naziv skupa ili niza administrativnih izvora podataka ili podataka prikupljenih metodom promatranja i praćenja,
-d) statističke jedinice i njihovo razgraničenje (za koje korišteni izvori sadrže podatke),
-e) periodičnost i rokovi za prijenos podataka,
-f) format (papir, elektronička potpora, on-line pristup),
-g) popis identifikatora ukoliko su uključeni u prijenos,
-h) klasifikacije/definicije kojih se treba pridržavati posjednik kada su podaci pripravljeni za prijenos do nositelja službene statistike,
-i) pozivanje na rezultate navedene u Programu,
-j) obvezatnost davanja podataka,
-k) veza s rezultatima ili aktivnostima u Programu,
-l) rokovi i razina objave rezultata,
-m) relevantni međunarodni standardi;
+d) periodičnost,
+e) rokovi za prijenos podataka,
+f) format (papir, elektronički medij, on-line pristup),
+g) klasifikacije/definicije kojih se treba pridržavati posjednik kada su podaci pripravljeni za prijenos do nositelja službene statistike,
+h) veza s rezultatima ili aktivnostima u Programu,
+i) rokovi objavljivanja rezultata,
+j) razina objavljivanja rezultata,
+k) relevantni nacionalni standardi,
+l) relevantni međunarodni standardi,
 3. za razvoj i infrastrukturne aktivnosti, popise i druga opsežnija statistička istraživanja:
 a) nositelj službene statistike,
 b) naziv aktivnosti,
-c) ciljevi koje treba ostvariti tijekom godine.
-Godišnjim provedbenim planom određuje se i pregled ukupno potrebnih resursa iz Državnog proračuna Republike Hrvatske.
+c) kratak opis sadržaja aktivnosti,
+d) ciljevi koje treba ostvariti tijekom godine,
+e) relevantni nacionalni standardi,
+f) relevantni međunarodni standardi.
+Odredbom članka 15. Zakona o izmjenama i dopunama Zakona o službenoj statistici (»Narodne novine«, br. 59/12.) stupio na snagu 5. lipnja 2012., članak 32. je izmijenjen.
