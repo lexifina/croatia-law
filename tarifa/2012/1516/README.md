@@ -1,0 +1,9 @@
+# Izmjena Tarifnog sustava za transport prirodnog plina, bez visine tarifnih stavki
+
+Official text as enacted; later changes are not consolidated.
+
+Source: <https://narodne-novine.nn.hr/eli/sluzbeni/2012/63/1516> (Narodne novine d.d.).
+
+Published: 2012-06-06. In force: 2012-06-06.
+
+[Official text](tekst.md). The whole official HTML body, including textual annexes, is retained.
