@@ -1,0 +1,1 @@
+Na temelju članka 30. stavka 1. Zakona o Vladi Republike Hrvatske (»Narodne novine«, broj 150/2011), a u vezi s člankom 56.c Zakona o lokalnoj i područnoj (regionalnoj) samoupravi (»Narodne novine«, br. 33/2001, 60/2001, 129/2005, 109/2007, 125/2008, 36/2009 i 150/2011), Vlada Republike Hrvatske je na sjednici održanoj 31. svibnja 2012. godine donijela
