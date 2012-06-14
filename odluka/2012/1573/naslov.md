@@ -1,0 +1,1 @@
+Odluka o odabiru najpovoljnijeg ponuditelja za stjecanje koncesije za gospodarsko korištenje voda - korištenje vodne snage rijeke Orljave u km 30+500, na k.č.br. 3251/1, k.o. Pleternica, radi proizvodnje električne energije
