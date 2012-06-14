@@ -1,0 +1,16 @@
+# Članak 15.
+ZAŠTITA OSOBNIH PODATAKA
+Stranke i njihova nadležna tijela štite podatke koje su temeljem ovog Sporazuma primile u skladu sa svojim nacionalnim zakonodavstvom, uvjetima koje odredi tijelo stranke koje podatke šalje te u skladu sa sljedećim načelima:
+1. nadležno tijelo stranke moliteljice može koristiti podatke samo u svrhu i pod uvjetima koje je odredilo nadležno tijelo zamoljene stranke;
+2. u slučajevima kada je podatke koje je poslalo nadležno tijelo pošiljatelj potrebno koristiti u druge svrhe, njihovo će korištenje biti moguće samo nakon dobivanja prethodnog pisanog odobrenja od tijela pošiljatelja;
+3. nakon slanja podataka, tijelo pošiljatelj naznačuje, u skladu s unutarnjim zakonima i propisima svoje države, vremenske rokove za čuvanje podataka, nakon isteka kojih primatelj mora obrisati podatke ili razmotriti jesu li ili nisu oni još uvijek potrebni;
+4. na zahtjev nadležnog tijela zamoljene stranke, nadležno tijelo stranke moliteljice daje informacije o korištenju dostavljenih podataka i na taj način ostvarenim rezultatima;
+5. nadležno tijelo zamoljene stranke šalje osobne podatke samo nadležnom tijelu koje je odredila druga stranka;
+6. nadležno tijelo zamoljene stranke jamči da su dostavljeni podaci točni i ažurirani. U slučaju da se naknadno utvrdi da su dostavljeni netočni podaci ili da se radi o podacima koji nisu trebali biti dostavljeni, stranka moliteljica mora biti odmah obaviještena. Stranka moliteljica tada ispravlja pogreške ili ih, u slučaju da podaci nisu trebali biti dostavljeni, uništava;
+7. prilikom slanja podataka, nadležno tijelo zamoljene stranke obavještava nadležno tijelo stranke moliteljice o uništenju ili brisanju podataka u skladu sa svojim nacionalnim zakonodavstvom. Ne uzimajući u obzir vremenski rok za čuvanje podataka, podaci koji se odnose na ispitanika moraju biti uništeni ili brisani čim prestanu biti potrebni u svrhe u koje su dostavljeni. Nadležno tijelo zamoljene stranke mora biti obaviješteno o uništenju ili brisanju poslanih podataka te o razlozima za to. U slučaju okončanja ovog Sporazuma, svi podaci zaprimljeni na temelju ovog Sporazuma moraju biti uništeni;
+8. ispitanik, u skladu sa zakonodavstvom stranke u kojoj je podnesen zahtjev, ima pravo na dobivanje informacija o podacima koji se na njega odnose, a koji su dostavljeni prema ovom Sporazumu, kao i pravo da zatraži ispravak, odnosno brisanje tih podataka ili pravo na provjeru podataka. Ukoliko ispitanik podnese zahtjev za omogućavanjem pristupa, ispravak ili uništenje podataka, nadležno tijelo koje posjeduje te podatke uzima u obzir mišljenje nadležnog tijela pošiljatelja i odlučuje o tom zahtjevu;
+9. nadležna tijela stranke moliteljice dužna su učinkovito štititi osobne podatke od neovlaštenog pristupa, gubitka, objavljivanja, izmjena ili uništenja;
+10. stranke vode evidenciju o slanju, primitku, brisanju i uništenju osobnih podataka;
+11. stranke zadržavaju svoje pravo da u cijelosti ili djelomično odbiju pružiti osobne podatke ukoliko bi pružanje podataka moglo ugroziti nacionalnu sigurnost ili javni red i mir ili predstavljati kršenje nacionalnog zakonodavstva ili postojećih međunarodnih pravnih obveza.
+Poglavlje IV.
+ZAVRŠNE ODREDBE
