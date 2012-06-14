@@ -1,0 +1,1 @@
+Na temelju članka 25. Uredbe o unutarnjem ustrojstvu Državnog ureda za središnju javnu nabavu (»Narodne novine«, broj 31/2012), Vlada Republike Hrvatske je na sjednici održanoj 14. lipnja 2012. godine donijela
