@@ -1,0 +1,3 @@
+# Članak 39.
+1) Ako Povjerenstvo, odlučujući o prigovoru, utvrdi da je bilo nepravilnosti koje su bitno utjecale ili su mogle utjecati na rezultate izbora, poništit će odnosne radnje u postupku i odrediti da se u određenom roku, koji mora omogućiti da se izbori održe u rokovima kako su raspisani, te radnje ponove.
+2) Ako ne postoji mogućnost ponavljanja poništenih radnji iz stavka 1. ovoga članka, odnosno ako se utvrđene nepravilnosti odnose na postupak glasovanja, a bitno su utjecale ili mogle utjecati na rezultate izbora u smislu drugačije podjele mandata, Povjerenstvo poništava izbore za odnosnu izbornu jedinicu i određuje rok za njihovo ponavljanje.
