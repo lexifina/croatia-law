@@ -1,0 +1,1 @@
+Odluka o preporukama za poticanje alternativnog i izvansudskog rješavanja sporova u građanskopravnim predmetima u kojima je jedna od stranaka u sporu trgovačko društvo u vlasništvu ili pretežitom vlasništvu Republike Hrvatske odnosno pravna osoba s javnim ovlastima
