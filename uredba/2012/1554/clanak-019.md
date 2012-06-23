@@ -1,0 +1,6 @@
+## Savjetovanje i javna rasprava
+# Članak 19.
+(1) Informiranje o održavanju savjetovanja o Nacrtu iskaza i održavanju javne rasprave o propisu i Prijedlogu iskaza provodi se prema obrascu sadržanom u Prilogu 4. ove Uredbe.
+(2) Savjetovanje i javna rasprava su postupci u kojima svojim primjedbama, prijedlozima i mišljenjima, po vlastitom interesu, u propisanim rokovima i na način određen u Informaciji iz Priloga 4. ove Uredbe, u svojstvu javnosti i zainteresirane javnosti, može sudjelovati svaki dionik i drugi pojedinac (pravna i fizička osoba, zainteresirana skupina te građanin).
+(3) Radi pobližeg upoznavanja javnosti i zainteresirane javnosti s materijom koja je predmet savjetovanja i javne rasprave stručni nositelj u skladu sa Zakonom i ovom Uredbom provodi javno izlaganje materije o kojem obvezno sačinjava zapisnik.
+(4) Nakon provedenog savjetovanja i javne rasprave, uključujući i javna izlaganja, stručni nositelj je dužan razmotriti sve primjedbe, prijedloge i mišljenja javnosti i zainteresirane javnosti i o prihvaćenim i neprihvaćenim primjedbama, prijedlozima i mišljenjima sačiniti obavijest koju će objaviti javnosti i zainteresiranoj javnosti na svojim internetskim stranicama.

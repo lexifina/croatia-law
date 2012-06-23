@@ -1,0 +1,4 @@
+## Izvori podataka
+# Članak 8.
+(1) Stručni nositelj je dužan za utvrđivanje činjenica i podataka koji će poslužiti kao polazna osnova i podloga za procjenu učinaka propisa prema člancima 3. do 7. ove Uredbe koristiti mjerodavne izvore podataka koji su dostupni putem odgovarajućih nadležnih institucija u Republici Hrvatskoj, kao i iz relevantnih javno dostupnih izvora kao što su znanstvena istraživanja, studije, izvještaji akademskih i nevladinih organizacija i sl.
+(2) Osim izvora podataka iz stavka 1. ovoga članka, stručni nositelj može, za utvrđivanje činjenica i podataka koji će poslužiti kao polazna osnova i podloga za procjenu učinaka propisa, koristiti i druge relevantne izvore podataka iz odgovarajućih institucija Europske unije i odgovarajućih međunarodnih organizacija i institucija.
