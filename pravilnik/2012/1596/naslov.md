@@ -1,0 +1,1 @@
+Pravilnik o izmjenama i dopunama Pravilnika o provedbi mjere 103 "Ulaganja u preradu i trženje poljoprivrednih i ribljih proizvoda u svrhu restrukturiranja tih aktivnosti i dostizanja standarda zajednice" unutar IPARD programa

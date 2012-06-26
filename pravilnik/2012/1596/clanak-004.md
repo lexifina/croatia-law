@@ -1,0 +1,13 @@
+# Članak 4.
+Članak 51. mijenja se i glasi:
+»(1) Prigovor iz članka 50. stavka 2. ovoga Pravilnika se podnosi u dva primjerka Povjerenstvu putem Agencije za plaćanja u roku od osam (8) dana od dana primitka odluke.
+(2) Ako je podnositelj izjavio prigovor na temelju članka 50. stavka 2. ovoga Pravilnika, a u svezi s člankom 25. stavkom 3. točkom a) ovoga Pravilnika, podnositelj nije dužan pridržavati se roka navedenoga u članku 26. stavku 2. ovoga Pravilnika do zaprimanja odluke Povjerenstva po prigovoru.
+(3) Ako Povjerenstvo po prigovoru na Odluku iz članka 25. stavka 3. točke a) i točke b) ovoga Pravilnika donese pozitivnu odluku, Agencija za plaćanja će korisniku u roku od 45 radnih dana izdati novu Odluku.
+(4) Ako Povjerenstvo po prigovoru na odluku iz članka 25. stavka 3. točke a) ovoga Pravilnika donese pozitivnu odluku, korisnik je dužan u roku od tri (3) dana od dana zaprimanja odluke Povjerenstva, vratiti Agenciji za plaćanja sve zaprimljene IPARD Ugovore koji proizlaze iz odluke na koju je korisnik podnio prigovor.
+(5) Ukoliko je donesena odluka navedena u stavku 4. ovoga članka, Agencija za plaćanja će izdati novu Odluku o dodjeli sredstava iz IPARD programa, stavljajući izvan snage Odluku o dodjeli sredstava iz IPARD programa na koju je korisnik podnio prigovor.
+(6) Nakon odluke iz stavka 5. ovoga članka, Agencija za plaćanja će korisniku izdati novi IPARD Ugovor koji je korisnik dužan vratiti u Agenciju za plaćanja u roku od 7 dana od dana zaprimanja s javnobilježničkom ovjerom potpisa.
+(7) Ako Povjerenstvo po prigovoru na odluku iz članka 25. stavka 3. točke a) ovoga Pravilnika donese negativnu odluku, korisnik je dužan u roku od 7 dana od dana zaprimanja odluke Povjerenstva dostaviti već zaprimljen IPARD Ugovor s javnobilježničkom ovjerom potpisa.
+(8) Ako korisnik ne postupi u skladu sa stavkom 7. ovoga članka, smatra se da je odustao od sklapanja IPARD Ugovora.
+(9) Ako Povjerenstvo po prigovoru na odluku iz članka 34. stavka 1. točke b) ovog Pravilnika donese negativnu odluku, Agencija za plaćanja će raskinuti IPARD Ugovor.
+(10) U slučajevima opisanim u članku 34. stavak 5. i članku 39. stavak 1. točka 4. Agencija za plaćanja će raskinuti IPARD Ugovor ukoliko Povjerenstvo donese negativnu odluku po prigovoru izjavljenom sukladno članku 50. stavak 2. vezano uz Odluku o odbijanju Zahtjeva za isplatu.
+(11) U slučaju kada Povjerenstvo donese pozitivnu odluku po prigovoru na Odluku o odbijanju Zahtjeva za isplatu, Agencija za plaćanja će ponoviti postupak obrade Zahtjeva za isplatu te u roku od 45 dana izdati Odluku o isplati/Odluku o odbijanju Zahtjeva za isplatu.«
