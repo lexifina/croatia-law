@@ -1,0 +1,6 @@
+# Članak 3.
+Poziv se objavljuje u javnim glasilima i na web-stranici Ministarstva kulture i otvoren je najmanje mjesec dana od dana objave.
+Poziv se objavljuje najkasnije do kraja mjeseca srpnja za sljedeću proračunsku godinu za godišnje i trogodišnje programe/projekte.
+Obvezu višegodišnjeg financiranja Ministarstvo kulture preuzima ugovorom kojim se uređuje plaćanje u sljedećim godinama, sukladno članku 44. stavku 2. Zakona o proračunu (»Narodne novine«, br. 87/08). Obveze po investicijskim projektima mogu se preuzeti tek po provedenom stručnom vrednovanju i ocijenjenoj opravdanosti i učinkovitosti investicijskog projekta.
+Ako za vrijeme trajanja ugovora iz stavka 3. ovoga članka dođe do smanjenja sredstava državnog proračuna za područje kulture u takvom obimu, da kulturni program ili projekt nije više moguće financirati u utvrđenom opsegu, višegodišnji ugovor će se izmijeniti u skladu s promijenjenim okolnostima odnosno raskinuti.
+U slučaju raskida ugovora iz stavka 3. ovoga članka, korisnik sredstava obvezan je izvršiti dio programa ili projekta koji odgovara do raskida primljenim sredstvima u skladu s ugovorom, osim ako takvo ispunjenje nema svrhe. U tom slučaju korisnik je obvezan vratiti primljena sredstva Ministarstvu kulture koja nisu upotrijebljena za izvršenje programa ili projekta koji je bio predmet ugovora.
