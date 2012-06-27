@@ -1,0 +1,5 @@
+# Članak 10.
+(1) Operater postrojenja isključenog iz sustava trgovanja emisijskim jedinicama dužan je provoditi mjere za postizanje ekvivalentnog doprinosa smanjenju emisija stakleničkih plinova (u daljnjem tekstu: ekvivalentna mjera) plaćati posebnu godišnju naknadu na emisije stakleničkih plinova.
+(2) Ekvivalentna mjera iz stavka 1. ovoga članka provodi se plaćanjem posebne godišnje naknade na emisije stakleničkih plinova sukladno posebnom propisu kojim se uređuje plaćanje naknade na emisije ugljikovog dioksida.
+(3) Naknada iz stavka 2. ovoga članka izračunava se kao razlika verificirane emisije iz postrojenja u prethodnoj godini i emisije koja odgovara količini emisijskih jedinca koje bi se operateru tog postrojenja dodijelile sukladno posebnom propisu kojim se uređuje besplatna dodjela emisijskih jedinica postrojenjima pomnožena s visinom jedinične naknade.
+(4) Na prijedlog ministra nadležnog za poslove zaštite okoliša u skladu s prosječnom tržišnom cijenom emisijske jedinice u prethodnoj godini, Vlada Republike Hrvatske donosi odluku o visini jedinične naknade iz stavka 3. ovoga članka za prethodnu kalendarsku godinu do 31. ožujka tekuće godine.

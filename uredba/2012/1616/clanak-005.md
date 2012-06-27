@@ -1,0 +1,7 @@
+# Članak 5.
+(1) Operater postojećeg postrojenja obvezan je o podacima o emisijama stakleničkih plinova iz postrojenja prikupljenim za 2005., 2006., 2007., 2008. i 2009. godinu izraditi izvješća o emisijama stakleničkih plinova iz postrojenja za navedene godine.
+(2) Operater postojećeg postrojenja u kojem se obavljaju nove djelatnosti iz Priloga I. ove Uredbe i/ili se obavljaju djelatnosti kojima se ispuštaju novi staklenički plinovi sukladno Prilogu I. ove Uredbe, obvezan je o podacima o emisijama stakleničkih plinova iz postrojenja prikupljenim za 2005., 2006., 2007., 2008., 2009. i 2010. godinu izraditi izvješća o emisijama stakleničkih plinova iz postrojenja za navedene godine.
+(3) Podaci iz izvješća iz stavaka 1. i 2. ovoga članka moraju biti verificirani.
+(4) Izvješća iz stavaka 1. i 2. ovoga članka izrađuju se i verificiraju na način propisan obvezujućim uputama o praćenju, izvješćivanju i verifikaciji izvješća o emisijama stakleničkih plinova iz postrojenja objavljenih na internetskoj stranici ministarstva nadležnog za zaštitu okoliša (u daljnjem tekstu: Ministarstvo) u obliku priručnika.
+(5) U nedostatku podataka s kojima bi u potpunosti ispunio zahtjeve točnosti određivanja emisija stakleničkih plinova prema obvezujućim uputama iz stavka 4. ovoga članka, operater postrojenja je dužan koristiti sve raspoložive podatke s kojima može postići najveću moguću točnost određivanja emisija.
+(6) Verifikator je dužan provjeriti izvršenje obveze za operatera postrojenja iz stavka 5. ovoga članka.

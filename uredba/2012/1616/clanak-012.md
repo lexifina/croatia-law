@@ -1,0 +1,4 @@
+# Članak 12.
+(1) Ministarstvo će posebnim mjerama osigurati da je referentno stanje projektnih aktivnosti, kako je definirano odlukama Okvirne konvencije i Kyotskog protokola, u skladu s pravnom stečevinom Europske unije.
+(2) Ministarstvo će odobriti projektnu aktivnost ako svi sudionici u projektnoj aktivnosti imaju sjedište u državi koja je s Europskom unijom sklopila međunarodni sporazum o provedbi ovih projekata ili ako imaju sjedište u državi, odnosno saveznoj ili regionalnoj jedinici povezanoj sa sustavom trgovanja emisijskim jedinicama Europske unije.
+(3) Jedinice smanjenja emisije nastale od projekta na teritoriju Republike Hrvatske neće se izdavati ako se odnose na smanjenje ili ograničenje emisija stakleničkih plinova od djelatnosti iz Priloga I. ove Uredbe.

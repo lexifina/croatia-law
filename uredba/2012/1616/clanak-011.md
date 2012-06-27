@@ -1,0 +1,7 @@
+# Članak 11.
+(1) Operater postojećeg postrojenja može u razdoblju od 2013. do 2020. godine koristiti jedinice smanjenja emisije i ovjerena smanjenja emisije do iznosa jednakog udjelu od najviše 15% verificirane emisije stakleničkih plinova u razdoblju od 2010. do 2012. godine.
+(2) Operater novog postrojenja i postrojenja koje obavlja nove djelatnosti iz Priloga I. ove Uredbe, može koristiti jedinice smanjenja emisije i ovjerena smanjenja emisije do iznosa jednakog udjelu od najmanje 4,5% verificirane emisije stakleničkih plinova iz postrojenja u razdoblju 2013. - 2020. godine.
+(3) Operator zrakoplova može koristiti jedinice smanjenja emisije i ovjerena smanjenja emisije do iznosa jednakog udjelu od najmanje 1,5% verificirane emisije stakleničkih plinova iz zrakoplova u razdoblju 2013. - 2020. godine.
+(4) Zabranjuje se korištenje jedinica smanjenja emisije i ovjerenih smanjenja emisija iz projekata koji uključuju uništavanje trifluormetana (HFC-23) i dušikovog oksida (N2O) iz proizvodnje adipinske kiseline.
+(5) Iznimno od stavka 4. ovoga članka, do 30. travnja 2013. godine mogu se koristiti jedinice smanjenja emisije i ovjerenih smanjenja emisija iz postojećih projekata te vrste koja su izdana za smanjenja emisije prije 2013. godine i koriste se u odnosu na emisije postrojenja EU ETS koje su nastale tijekom 2012. godine.
+(6) Agencija će na zahtjev operatera postrojenja izdati emisijske jedinice u zamjenu za ovjerena smanjenja emisije ili jedinice smanjenja emisije.
