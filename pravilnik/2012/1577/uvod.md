@@ -1,0 +1,1 @@
+Na temelju članka 18. stavka 3. i članka 34. Zakona o uređenju tržišta poljoprivrednih proizvoda (»Narodne novine«, broj 149/09 i 22/11), te članka 20. stavka 5. i članka 94. stavka 2. Zakona o hrani (»Narodne novine«, broj 46/07 i 55/11) ministar poljoprivrede donosi
