@@ -1,0 +1,3 @@
+# Članak 12.
+(1) Ako jedna ugovorna stranka smatra da bi ispunjavanje zahtjeva, provedba mjere suradnje ili pružanje pomoći moglo štetiti njezinom suverenitetu, ugroziti njezinu unutarnju sigurnost ili njezine druge bitne interese ili bi se moglo protiviti načelima njezinog pravnog poretka, odnosno njezinim međunarodnim obvezama, tada u cijelosti ili djelomice može odbiti ispunjavanje zahtjeva, pružanje pomoći odnosno suradnje ili ih uvjetovati određenim uvjetima ili obvezama.
+(2) Sukladno stavku 1. ovog članka pružanje pomoći može se uskratiti i onda kad radnja zbog koje je podnesen zahtjev prema domaćem pravu zamoljene ugovorne stranke nije kažnjivo djelo.
