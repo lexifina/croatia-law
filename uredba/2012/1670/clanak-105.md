@@ -1,0 +1,10 @@
+# Članak 105.
+5.8. Centar za forenzična ispitivanja, istraživanja i vještačenja »Ivan Vučetić«
+Samostalna ustrojstvena jedinica koja potpuno neovisno obavlja poslove forenzičnih ispitivanja, istraživanja i vještačenja (identifikacijskih, kemijsko-fizikalnih, toksikoloških, kontaktnih, tehničkih) po nalogu državnog odvjetništva, suda i policije te na temelju sporazuma ili u okviru suradnje s drugim tijelima; nositelj je zbirke DNA profila, daktiloskopskih zbirki, zbirke čahura i zbirke zrna streljiva ispaljenog iz vatrenog oružja; obavlja poslove vezane uz razvoj, primjenu, održavanje i poboljšavanje sustava upravljanja kvalitetom sukladno međunarodnim standardima kvalitete te obavlja poslove sukladno propisanoj dokumentaciji sustava upravljanja kvalitetom; obavlja poslove znanstvene djelatnosti; provodi znanstvena istraživanja te sudjeluje u znanstvenim i stručnim projektima; sudjeluje u radu Europske mreže forenzičnih znanstvenih instituta (ENFSI) i drugih međunarodnih stručnih organizacija; ostvaruje suradnju na temelju sporazuma s drugim tijelima; sudjeluje u izradi zakonskih i podzakonskih propisa iz djelokruga rada Centra za forenzična ispitivanja, istraživanja i vještačenja »Ivan Vučetić«; brine o stručnom usavršavanju i edukaciji djelatnika Centra; definira strateške ciljeve, izrađuje i prati pokazatelje rezultata rada i uspješnosti, utvrđuje rizike, nadzire postavljene posebne ciljeve u strateškim planovima, izvješćuje o realizaciji postavljenih ciljeva, koordinira izradu strateških planova na nivou Centra; obavlja poslove pismohrane, arhive i druge uredske poslove za potrebe Centra.
+Za obavljanje poslova iz djelokruga rada Centra za forenzična ispitivanja, istraživanja i vještačenja »Ivan Vučetić« ustrojavaju se sljedeće službe:
+5.8.1. Služba daktiloskopije i identifikacije,
+5.8.2. Služba bioloških i kontaktnih vještačenja,
+5.8.3. Služba kemijsko-fizikalnih i toksikoloških vještačenja,
+5.8.4. Služba traseoloških vještačenja,
+5.8.5. Služba općih i tehničkih poslova,
+5.8.6. Služba za ispitivanje, tormentaciju i žigosanje vatrenog oružja.

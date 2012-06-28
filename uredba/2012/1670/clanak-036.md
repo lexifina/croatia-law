@@ -1,0 +1,6 @@
+# Članak 36.
+5.3.1.3. Služba gospodarskog kriminaliteta i korupcije
+Analizira, prati i izučava fenomenološki i etiološki aspekt kaznenih djela gospodarskog kriminaliteta; iznalazi najučinkovitije metode za njegovo suzbijanje, otkrivanje i dokazivanje; sudjeluje u provedbi najsloženijih kriminalističkih obrada na nacionalnoj razini; posebno se usmjerava na ekonomski kriminalitet (proizvodnja, usluge, trgovina), financijski kriminalitet (financijske usluge, novčane transakcije, trgovanje vrijednosnim papirima), korupciju, financijske istrage, pranje novca, kompjutorski kriminalitet, intelektualno vlasništvo i sivu ekonomiju; surađuje s drugim ustrojstvenim jedinicama Ministarstva, tijelima državne vlasti i pravnim osobama, policijama drugih zemalja i međunarodnim institucijama u svom djelokrugu rada; planira i provodi edukaciju policijskih službenika koji rade u drugim ustrojstvenim jedinicama Ministarstva, te im pruža stručnu pomoć u obavljanju poslova iz svog djelokruga; sudjeluje u izradi normativnih akata, izvješća i drugih stručnih materijala; obavlja i druge poslove u svezi suzbijanja gospodarskog kriminaliteta.
+Za obavljanje poslova iz djelokruga rada Službe gospodarskog kriminaliteta i korupcije ustrojavaju se sljedeći odjeli:
+5.3.1.3.1. Odjel za visokotehnološki kriminalitet,
+5.3.1.3.2. Odjel za pretvorbeni kriminalitet i ratno profiterstvo.

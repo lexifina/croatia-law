@@ -1,0 +1,3 @@
+# Članak 160.
+9.2.1.1. Odjel za nabavu policijske opreme, naoružanja i opreme posebnih namjena
+Obavlja i odgovara za poslove pripreme dokumentacije u suradnji s nadležnom ustrojstvenom jedinicom za nabavu opreme, policijske tehnike, oružja i UBS-a i usluga za njihovo održavanje, opreme za posebne namjene, potrošnog materijala i opreme za Centar za forenzična ispitivanja, istraživanja i vještačenja »Ivan Vučetić« i usluga za njegovo održavanje sukladno Zakonu o javnoj nabavi; objavljuje obavijesti i objave nadmetanja; vrši pregled i analizu ponuda; izrađuje prijedloge Odluka prema Zakonu o javnoj nabavi; priprema ugovore o nabavi roba i usluga; prati realizaciju i plaćanje ugovorenih obveza; izrađuje izvješća o izvršenju Plana nabave sukladno proračunu.

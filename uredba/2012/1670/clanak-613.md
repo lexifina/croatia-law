@@ -1,0 +1,5 @@
+## 11. POLICIJSKA UPRAVA III. KATEGORIJE
+## POLICIJSKA UPRAVA ZADARSKA
+# Članak 613.
+11.1. Ured načelnika Policijske uprave
+Nadzire rad i utvrđuje zakonitost postupanja; prikuplja podatke o svim događajima od sigurnosnog značaja iz djelokruga rada Ministarstva te aktivnostima ustrojstvenih jedinica Policijske uprave u cilju prosuđivanja stanja sigurnosti na Području policijske uprave i analitičke procjene učinkovitosti ustrojstvenih jedinica; izrađuje izvješća i prosudbe te surađuje s nadležnom ustrojstvenom jedinicom Ministarstva u sjedištu; analizira medijsku prezentaciju svih događaja i aktivnosti iz djelokruga rada Policijske uprave te pruža odgovore javnosti u dogovoru s načelnikom Policijske uprave; obavlja poslove prevencije kriminaliteta; utvrđuje zakonitost postupanja djelatnika Policijske uprave, postupa povodom pritužbi građana, utvrđuje sve okolnosti težih povreda radne discipline, prati odluke nadležnih rukovoditelja u slučajevima lakših povreda radne discipline; zastupa načelnika Policijske uprave u postupcima na disciplinskom sudu; predlaže mjere za suzbijanje nezakonitosti i unaprjeđenje profesionalne etike.

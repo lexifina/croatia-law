@@ -1,0 +1,3 @@
+# Članak 493.
+6.5.2. Odjel terorizma i ekstremnog nasilja
+Analizira stanje i pojavne oblike kaznenog djela terorizma kao i pojava ekstremnog nasilja za područje Policijske uprave; utvrđuje najpogodnije oblike rada na sprečavanju počinjenja ovih kaznenih djela; izravno organizira kriminalističke obrade, poduzima mjere i radnje pronalaženja tragova i dokaza te hvatanja počinitelja ovih kaznenih djela; surađuje s drugim ustrojstvenim jedinicama policijske uprave; obavlja nadzor nad radom policijskih postaja iz svoje nadležnosti i pruža im stručnu pomoć u izvršenju njihovih zadaća; u složenijim slučajevima kaznenih djela izravno se uključuje i rukovodi kriminalističkom obradom; obavlja i druge poslove iz svog područja rada.

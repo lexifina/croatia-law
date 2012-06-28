@@ -1,0 +1,3 @@
+# Članak 502.
+6.7.3. Odjel za tehniku
+Proučava, nadzire, planira, upravlja i održava potpuni informacijski i komunikacijski sustav za potrebe svih operativnih i poslovnih tijela i ustrojstvenih jedinica te uz pomoć Uprave za tehniku Ministarstva ostvaruje tajnost, cjelovitost, izvornost, pouzdanost i raspoloživost te povjerljivost informatičkog i komunikacijskog sustava Ministarstva; obavlja poslove opremanja, korištenja i održavanja prometnih sredstava i policijske tehnike za potrebe Policijske uprave; koristeći stečena iskustva u primjeni predlaže Upravi za tehniku Ministarstva rješenja za poboljšanje ili promjenu pojedine tehnike.

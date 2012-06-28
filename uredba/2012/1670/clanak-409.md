@@ -1,0 +1,7 @@
+# Članak 409.
+4.5.4. Služba organiziranog kriminaliteta
+Prikuplja, analizira i prati podatke i izvješća, poglavito ona koja ukazuju na djelovanje kriminalnih udruženja, organiziranoga kriminaliteta, kriminaliteta droga, terorizma i pojava ekstremnog nasilja, u suradnji s drugim ustrojstvenim jedinicama Ministarstva i tijelima državne vlasti na području policijske uprave; obavlja nadzor nad radom policijskih postaja iz svoje nadležnosti i pruža im stručnu pomoć u obavljanju njihovih zadaća; u složenijim slučajevima počinjenja kaznenih djela samostalno i u suradnji s drugim ustrojstvenim jedinicama policijske uprave izravno se uključuje i rukovodi kriminalističkim obradama; sudjeluje u izobrazbi kriminalističkih službenika koji rade na poslovima suzbijanja organiziranog kriminaliteta, kriminaliteta droga, terorizma i ekstremnog nasilja; sudjeluje u izradi kriminalističkih prosudbi, izvješća i drugih stručnih materijala; obavlja i druge poslove u svezi suzbijanja organiziranoga kriminaliteta, kriminaliteta droga, terorizma i ekstremnoga nasilja.
+Za obavljanje poslova iz djelokruga Službe organiziranog kriminaliteta ustrojavaju se:
+4.5.4.1. Odjel nadzora organiziranog kriminaliteta,
+4.5.4.2. Odjel kriminaliteta droga,
+4.5.4.3. Odjel terorizma i ekstremnog nasilja.

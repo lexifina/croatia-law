@@ -1,0 +1,3 @@
+# Članak 252.
+1.5.4.4. Odjel za nedozvoljenu proizvodnju, trgovinu i krijumčarenje pravnih osoba
+Analizira stanje i pojave na području Policijske uprave iz svog djelokruga rada; surađuje s drugim tijelima na području Policijske uprave u svezi suzbijanja ovih kaznenih djela; izravno organizira operativne i kriminalističke obrade u cilju otkrivanja ovih kaznenih djela i počinitelja; obavlja nadzor nad radom policijskih postaja iz svoje nadležnosti i pruža im stručnu pomoć u izvršenju njihovih zadaća; sudjeluje u izradi izvješća i drugih stručnih materijala; obavlja i druge poslove iz svog djelokruga rada.

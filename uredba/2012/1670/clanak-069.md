@@ -1,0 +1,3 @@
+# Članak 69.
+5.3.3.1.1. Odjel Interpola
+Surađuje sa zemljama članicama Međunarodne organizacije Interpola i Generalnim tajništvom Interpola; postupa po zamolnicama Generalnog tajništva Interpola, država članica i nadležnih tijela u Republici Hrvatskoj; pomaže u koordinaciji akcija iz pojedinih područja međunarodnog kriminaliteta zajedno s nositeljima pojedinih predmeta, vodi poslove u svezi međunarodnih tjeralica i objava, te provodi postupak koji prethodi izručenjima, kao i postupak prilikom realizacije istih; predlaže poboljšanja i unaprjeđenja za rad policije sukladno iskustvima zemalja članica Interpola, obavlja i druge poslove u cilju unaprjeđenja suradnje i odnosa sa zemljama članicama Interpola i Generalnim tajništvom.

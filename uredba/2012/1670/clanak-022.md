@@ -1,0 +1,3 @@
+# Članak 22.
+5.2.1.1. Odjel za osiguranja javnih okupljanja
+Prati problematiku javnih okupljanja te predlaže i poduzima mjere za opremanje i stručno usavršavanje policije u vezi osiguranja javnih okupljanja i stanja javnog reda; predlaže mjere, pruža stručnu pomoć i nadzire rad po ovim poslovima u policijskim upravama; prati pravne propise vezane uz javna okupljanja i mirne prosvjede; obavlja prosudbu kvalitete planova osiguranja javnih okupljanja i mirnih prosvjeda i nalaže poduzimanje mjera radi otklanjanja utvrđenih propusta; prati i usmjerava rad te izrađuje smjernice, preporuke i upute za rad policijskim upravama iz svoga djelokruga; obavlja i druge poslove iz djelokruga policije.

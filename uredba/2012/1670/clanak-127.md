@@ -1,0 +1,7 @@
+# Članak 127.
+8. UPRAVA ZA PRAVNE POSLOVE I LJUDSKE POTENCIJALE
+Obavlja poslove izrade nacrta zakona i drugih pravnih propisa iz područja Ministarstva; analizira stanje normativne djelatnosti u Ministarstvu; surađuje na izradi mišljenja na nacrte propisa kojih su stručni nositelji izrade tijela državne vlasti Republike Hrvatske; obavlja poslove u svezi rješavanja imovinskopravnih odnosa Ministarstva; surađuje s nadležnim tijelima državne vlasti u obavljanju poslova iz svoje nadležnosti, a naročito s Državnim odvjetništvom Republike Hrvatske u vođenju postupaka pred sudovima; pruža stručnu pomoć ustrojstvenim jedinicama Ministarstva u obavljanju pravnih poslova iz njihova djelokruga; obavlja poslove koji se odnose na zapošljavanje, položaj, prava, obveze i odgovornosti zaposlenika Ministarstva; sudjeluje u procesu unaprjeđenja rada te utvrđivanju razvojne strategije Ministarstva u području ljudskih potencijala, obavlja poslove prvostupanjskog i drugostupanjskog disciplinskog sudovanja; definira strateške ciljeve, izrađuje i prati pokazatelje rezultata rada i uspješnosti, utvrđuje rizike, nadzire postavljene posebne ciljeve u strateškim planovima, izvješćuje o realizaciji postavljenih ciljeva, koordinira izradu strateških planova na nivou Uprave.
+Za obavljanje poslova iz djelokruga rada Uprave za pravne poslove i ljudske potencijale ustrojavaju se sljedeće ustrojstvene jedinice:
+8.1. Sektor za pravne poslove,
+8.2. Sektor za upravljanje ljudskim potencijalima,
+8.3. Služba disciplinskog sudovanja.

@@ -1,0 +1,3 @@
+# Članak 102.
+5.7.4. Specijalna jedinica policije Osijek
+Specijalna jedinica policije Osijek nadležna je za: suzbijanje terorizma, rješavanje otmica i talačkih situacija, suzbijanje najtežih oblika kriminaliteta, uhićenje počinitelja kaznenih djela, posebno osiguranje visokih državnih dužnosnika, zaštitu određenih osoba, ispomoć graničnoj policiji u nadzoru granica, potrage i spašavanja, ronilačke intervencije, pronalaženje, deaktiviranje, i uništenje formacijskih i improviziranih eksplozivnih naprava na zemlji i pod vodom, helikopterske operacije i snajperske operacije te obavlja i druge poslove sukladno Zakonu o policiji. Prema potrebi Specijalna jedinica policije Osijek djeluje na području cijele Republike Hrvatske.

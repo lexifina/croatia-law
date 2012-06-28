@@ -1,0 +1,7 @@
+# Članak 68.
+5.3.3.1. Služba za međunarodnu policijsku suradnju
+Obavlja poslove međunarodne policijske suradnje sukladno međunarodnim ugovorima Republike Hrvatske i sukladno članstvu u međunarodnim organizacijama Interpola, Europola, SIS/S. I.Re.N.E. i drugih međunarodnih organizacija za međunarodnu policijsku suradnju, razmjenjuje izvješća radi rasvjetljavanja i istraživanja kaznenih djela s elementima inozemnosti; koordinira akcije iz pojedinih područja međunarodnog kriminaliteta zajedno s nositeljima pojedinih predmeta: pruža stručnu pomoć ustrojstvenim jedinicama Ministarstva prilikom istraživanja međunarodnog kriminaliteta; obavlja stručni nadzor nad radom domaćih policijskih časnika za vezu iz djelokruga rada kriminalističke policije i o tome izvješćuje nadležne rukovoditelje u Ravnateljstvu policije; sudjeluje u izradi međunarodnih ugovora te drugih propisa koji reguliraju odnose s drugim zemljama i međunarodnim organizacijama; sudjeluje u provedbi međunarodnih projekata; sastavlja izvješća, osigurava 24-satnu razmjenu podataka putem sustava za međunarodnu policijsku suradnju; obavlja prevoditeljske poslove za potrebe kriminalističke policije i druge poslove u cilju unaprjeđenja suradnje i odnosa u međunarodnoj policijskoj suradnji.
+Za obavljanje poslova iz djelokruga rada Službe za međunarodnu policijsku suradnju ustrojavaju se sljedeći odjeli:
+5.3.3.1.1. Odjel Interpola,
+5.3.3.1.2. Odjel Europola,
+5.3.3.1.3. Odjel S. I.Re.N.E.

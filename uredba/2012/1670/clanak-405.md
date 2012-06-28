@@ -1,0 +1,3 @@
+# Članak 405.
+4.5.2.2. Odjel kriminalističkih evidencija
+Vodi kriminalističke evidencije-opću abecednu kartoteku, evidenciju kaznenih djela i počinitelja, album počinitelja kaznenih djela, evidenciju nestalih osoba i leševa i drugo; priprema podatke za unos na sistem za EOP i obavlja kontrolu unosa podataka; vodi evidencije osoba pod nadzorom i raspisuje potrage za osobama i predmetima, obavlja nadzor nad radom policijskih postaja iz svoje nadležnosti i pruža im stručnu pomoć u izvršenju njihovih zadaća te pronalazi nove metode prikupljanja podataka i njihovog operativnog korištenja; sudjeluje u izradi izvješća i drugih stručnih materijala; obavlja i druge poslove iz svog područja rada.

@@ -1,0 +1,3 @@
+# Članak 289.
+2.1.1. Odjel za zakonitost postupanja
+Utvrđuje zakonitost postupanja djelatnika Policijske uprave, postupa povodom pritužbi građana, utvrđuje sve okolnosti težih povreda radne discipline, te za načelnika policijske uprave sastavlja zahtjeve za pokretanje disciplinskog postupka; provodi disciplinske postupke (usmene rasprave) u predmetima lakših povreda radne discipline; zastupa načelnika Policijske uprave u postupcima na disciplinskom sudu i sastavlja druga odgovarajuća pismena u disciplinskim predmetima (žalbe, odgovore na žalbe, tužbe i drugo); prikuplja podatke za analitičko praćenje svih pojava protupravnog ponašanja djelatnika te izrađuje izvješća o tim pojavama; predlaže mjere za suzbijanje nezakonitosti i unaprjeđenje profesionalne etike.

@@ -1,0 +1,3 @@
+# Članak 285.
+1.8.3.2. Inspekcija proizvodnje i prometa eksplozivnih tvari
+Obavlja inspekcijski nadzor nad proizvodnjom, prometom i prijevozom eksplozivnih tvari; sudjeluje u kriminalističkoj obradi najsloženijih slučajeva tehnoloških eksplozija, havarija i drugih akcidenata s eksplozivnim tvarima; obavlja inspekcijski nadzor nad tvrtkama koje se bave proizvodnjom i prometom vatrenog oružja i streljiva; obavlja nadzor nad prijevozom eksplozivnih tvari te nabave eksploziva; određuje lokacije, utvrđuje posebne uvjete, obavlja tehnički pregled najsloženijih građevina od posebnog interesa za Republiku Hrvatsku iz područja proizvodnje, prometa i korištenja eksplozivnih tvari.

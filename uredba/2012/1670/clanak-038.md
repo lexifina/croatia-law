@@ -1,0 +1,3 @@
+# Članak 38.
+5.3.1.3.2. Odjel za pretvorbeni kriminalitet i ratno profiterstvo
+Sustavno prati stanje i kretanje kaznenih djela pretvorbenog kriminaliteta i ratnog profiterstva te priprema i izrađuje rješenja za podizanje razine učinkovitosti rada; neposredno provodi složena kriminalistička istraživanja kaznenih djela počinjenih u pretvorbi i kaznenih djela ratnog profiterstva te pruža stručnu pomoć i koordinaciju u provedbi kriminalističkih istraživanja u policijskim upravama; aktivno surađuje s državnim tijelima, agencijama i drugim nadležnim subjektima, sudjeluje u izradi normativnih rješenja, edukaciji i provedbi strategija, te obavlja druge poslove iz svog djelokruga rada.

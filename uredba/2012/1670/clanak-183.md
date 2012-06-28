@@ -1,0 +1,3 @@
+# Članak 183.
+10.1.3.2. Odjel za kriptološku sigurnost i zaštitu informatičko-telekomunikacijskih sustava
+Obavlja poslove istraživanja, razvoja, izgradnje i održavanja te vođenja i tehničkog nadzora (a) kriptoloških sustava za neposrednu djelatnu kriptološku sigurnost i zaštitu podataka u brzojavnim službama, i (b) sustava za naknadno kriptološko osiguranje i zaštitu informatičko-telekomunikacijskih sustava; provodi norme i mjere za zaštitu od odavajućeg elektromagnetskog zračenja i drugih tehnika odavanja te pravovremeno otkrivanje izvora odavanja; provodi sigurnosno uklanjanje podataka s magnetnih medija za potrebe Ministarstva; vodi propisane evidencije na temelju zakonskih i podzakonskih akata iz svog djelokruga rada.

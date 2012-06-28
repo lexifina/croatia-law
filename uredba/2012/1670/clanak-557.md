@@ -1,0 +1,3 @@
+# Članak 557.
+8.8.2. Odjel za državljanstvo i statusna pitanja stranaca
+Vodi upravni postupak u svezi utvrđivanja, stjecanja i prestanka hrvatskog državljanstva, kretanja, boravka i rada stranaca, obavlja poslove prijave boravišta i prebivališta te promjene adrese, izdaje potvrde i osobne isprave za strance, obavlja poslove produžavanja boravka, zaprimanja zahtjeva za odobrenje stalnog boravka, otkaza privremenog i stalnog boravka, prestanka privremenog boravka, izdavanja radnih i poslovnih dozvola, izdavanja potvrda o prijavi rada bez radne odnosno poslovne dozvole, produženja viza, izdavanje osobnih i putnih isprava za azilante, strance pod supsidijarnom zaštitom i strance pod privremenom zaštitom

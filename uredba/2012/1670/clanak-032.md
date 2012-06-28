@@ -1,0 +1,7 @@
+# Članak 32.
+5.3. Uprava kriminalističke policije
+Uprava kriminalističke policije prati i analizira stanje i kretanje cjelokupnog kriminaliteta, te surađuje s drugim ustrojstvenim jedinicama, na planu organizacije, prevencije i nadzora kriminaliteta. Neposredno provodi najsloženija kriminalistička istraživanja na nacionalnoj razini, te nadzire provođenje istih, pruža stručnu pomoć policijskim upravama s ciljem otkrivanja počinitelja, traganja za počiniteljima, njihovog prijavljivanja i privođenja nadležnim pravosudnim tijelima. Uprava određuje prioritete u suzbijanju kriminaliteta i nadzire rad policijskih uprava na tom području. Utvrđuje i razvija metodologiju suzbijanja kriminaliteta te skrbi o unaprjeđenju kriminalističke policije. Sudjeluje u međunarodnim aktivnostima i u provođenju međunarodnih projekata, kao i u predlaganju i izradi normativnih akata. Surađuje s drugim ministarstvima i državnim tijelima, te s kriminalističkim službama drugih zemalja; definira strateške ciljeve, izrađuje i prati pokazatelje rezultata rada i uspješnosti, utvrđuje rizike, nadzire postavljene posebne ciljeve u strateškim planovima, izvješćuje o realizaciji postavljenih ciljeva, koordinira izradu strateških planova na nivou Uprave.
+Za obavljanje poslova iz djelokruga rada Uprave kriminalističke policije ustrojavaju se sljedeće ustrojstvene jedinice:
+5.3.1. Policijski nacionalni ured za suzbijanje korupcije i organiziranog kriminaliteta,
+5.3.2. Sektor općeg kriminaliteta, terorizma i ratnih zločina,
+5.3.3. Sektor za potporu kriminalističke policije.

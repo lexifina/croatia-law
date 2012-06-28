@@ -1,0 +1,3 @@
+# Članak 237.
+1.4.2.2. Odjel za izvršenje mjera
+Provodi nadzor rada policijskih službenika na poslovima izvršenja mjera u policijskim postajama; nadzire provedbu poduzetih mjera prema strancima; sudjeluje u planiranju i provođenju mjera sprječavanja nezakonitih migracija i nezakonitog rada stranaca; pruža stručnu pomoć policijskim postajama u provođenju rješavanja složenijih slučajeva; predlaže prepratu stranaca u Prihvatilište, do državne granice i diplomatsko-konzularnih predstavništava; provodi postupak prisilnog udaljenja stranaca; vodi evidenciju i statistiku izvršenja mjera; organizira edukaciju policijskih službenika na poslovima izvršenja mjera; obavlja i druge poslove iz svog područja rada.

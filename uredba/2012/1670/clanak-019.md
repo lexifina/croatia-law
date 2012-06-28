@@ -1,0 +1,3 @@
+# Članak 19.
+5.1.3. Služba prevencije
+Prati i analizira stanje sigurnosti i pojave koje pogoduju nastanku i razvitku kažnjivih djela u cilju njihove prevencije; prati nove pojavne oblike kažnjivih radnji i načina njihovoga počinjenja; daje mišljenje na prijedloge prevencijskih programa i nadzire njihovu provedbu; u provedbi prevencije surađuje s drugim državnim tijelima, ustanovama, prevencijskim vijećima i udrugama građana; ostvaruje međunarodnu suradnju u prevenciji kažnjivih radnji; prati propise iz područja rada policije i sudjeluje u izradi takvih propisa; predlaže mjere za unaprjeđenje prevencije; glavnom ravnatelju policije podnosi izvješća o stanju sigurnosti i poduzetim preventivnim mjerama; obavlja i druge poslove po nalogu glavnog ravnatelja policije.

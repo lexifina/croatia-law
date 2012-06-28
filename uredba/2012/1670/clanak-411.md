@@ -1,0 +1,3 @@
+# Članak 411.
+4.5.4.2. Odjel kriminaliteta droga
+Analizira stanje i pojave u području krijumčarenja, proizvodnje i zlouporabe droga; iznalazi najpogodnije oblike rada na otkrivanju kaznenih djela i počinitelja; surađuje s drugim tijelima na području policijske uprave u svezi suzbijanja narkomanije; otkrivanja organiziranih krijumčarskih kanala, njihovih organizatora i pripadnika te proizvodnje droge; izravno organizira operativne i kriminalističke obrade na planu otkrivanja ovih kaznenih djela i počinitelja; obavlja nadzor nad radom policijskih postaja iz svoje nadležnosti i pruža im stručnu pomoć u izvršenju njihovih zadaća; sudjeluje u izradi izvješća i drugih stručnih materijala; obavlja i druge poslove iz svog područja rada.

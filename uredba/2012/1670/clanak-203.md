@@ -1,0 +1,3 @@
+# Članak 203.
+11.1.2. Služba za državljanstvo
+Obavlja upravne poslove u svezi utvrđivanja, stjecanja i prestanka hrvatskog državljanstva; prati stanje i pojave u svezi izvršavanja propisa iz područja državljanstva; sudjeluje u izradi propisa iz navedenog područja; koordinira rad, pruža stručnu pomoć i obavlja nadzor nad radom policijskih uprava i policijskih postaja u ovom poslovima; surađuje s drugim tijelima državne vlasti u poslovima državljanstva; prati stanje i pojave u svezi stjecanja, utvrđivanja i prestanka hrvatskog državljanstva; analizira provedbu međunarodnih ugovora koji se odnose na ovo područje.

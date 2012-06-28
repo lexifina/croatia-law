@@ -1,0 +1,3 @@
+# Članak 125.
+7.1.2. Odjel za provedbu i praćenje projekata
+Predlaže nove projekte i aktivnosti koje su potrebne za korištenje sredstava iz fondova Europske unije; vodi brigu o korištenju sredstava iz fondova Europske unije; koordinira programiranje, provedbu, procjenu i evaluaciju projekata financiranih iz sredstava Europske unije; radi na izradi sektorskih analiza, projektnih prijedloga, logičkih matrica, projektnih sažetaka; izradi natječajne dokumentacije, ocjenjuje natječajne ponude; izrađuje izvješća o praćenju provedbe projekata, održava vezu s vanjskim evaluatorima i revizorima u vezi s projektima; obavlja i druge poslove iz svog područja rada.
