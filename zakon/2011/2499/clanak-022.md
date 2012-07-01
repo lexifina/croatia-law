@@ -1,0 +1,7 @@
+## Obavijest o poduzetim mjerama
+# Članak 22.
+(1) Tijela iz članka 4. ovoga Zakona dužna su obavijestiti pučkog pravobranitelja, u roku koji on odredi, o mjerama poduzetim povodom njegove preporuke ili prijedloga.
+(2) Ako tijela iz članka 4. ovoga Zakona ne obavijeste u zadanom roku pučkog pravobranitelja o poduzetim mjerama ili ne postupe u skladu s njegovom preporukom ili prijedlogom, pučki pravobranitelj obavijestit će o tome tijelo nadležno za provođenje nadzora nad tijelima iz članka 4. ovoga Zakona.
+(3) Ako tijelo koje obavlja nadzor u roku od osam dana od obavljenog nadzora ne izvijesti o utvrđenim činjenicama i poduzetim mjerama, pučki pravobranitelj će o tome obavijestiti Vladu Republike Hrvatske.
+(4) Ako se radi o većem stupnju kršenja ili ugroženosti prava građana, ili o nepoduzimanju mjera u skladu s njegovom preporukom ili prijedlogom, pučki pravobranitelj može obavijestiti Hrvatski sabor i javnost.
+(5) Pučki pravobranitelj može čelniku tijela iz članka 4. ovoga Zakona predložiti pokretanje odgovarajućeg postupka protiv osobe koja je nesavjesnim postupanjem prouzročila povredu ustavnih i zakonskih prava ili na prijedlog pučkog pravobranitelja nije poduzela odgovarajuće mjere da se nastala šteta umanji ili ispravi. O pokretanju postupka zbog povrede službene dužnosti čelnik tijela dužan je izvijestiti pučkog pravobranitelja u roku od osam dana od dana zaprimanja prijedloga.

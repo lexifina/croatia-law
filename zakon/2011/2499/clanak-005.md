@@ -1,0 +1,2 @@
+# Članak 5.
+U području promicanja ljudskih prava i sloboda pučki pravobranitelj prati stanje i ukazuje na potrebu njihove zaštite, obavlja istraživačko-analitičku djelatnost, razvija i održava bazu podataka i dokumentacije, pravodobno i redovito informira javnost i zainteresirane sudionike, aktivno potiče i održava suradnju s organizacijama civilnog društva, međunarodnim organizacijama i znanstvenoistraživačkim institucijama te potiče usklađivanje zakonodavstva s međunarodnim i europskim standardima i njihovu primjenu.
