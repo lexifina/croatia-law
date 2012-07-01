@@ -1,0 +1,1 @@
+[1] Pravilnikom su preuzete odredbe Uredbe (EZ) br. 852/2004 Europskog parlamenta i Vijeća od 29. travnja 2004. o higijeni hrane, te odredbe Uredbe Komisije (EZ) br. 1019/2008 od 17. listopada 2008. kojom se mijenja Dodatak II. Uredbe (EZ) br. 852/2004 Europskog parlamenta i Vijeća o higijeni hrane.

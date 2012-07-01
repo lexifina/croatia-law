@@ -1,0 +1,1 @@
+Na temelju članka 20. stavka 5. i članka 56. stavka 2. podstavka 5. Zakona o hrani (»Narodne novine« broj 46/07 i 55/11) te članka 85. stavka 4. Zakona o veterinarstvu (»Narodne novine« broj 41/07 i 55/11), ministar poljoprivrede donosi
