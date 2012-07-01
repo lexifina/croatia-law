@@ -1,0 +1,3 @@
+# Članak 27.
+1) Specijalizirana radionica koja obavlja održavanje automatskog, poluautomatskog i pomoćnog kvačila za kvačenje automatskog kvačila s zavojnim kvačilom, može obavljati specijalizirana radionica održavatelja i ovlaštena radionica odgovarajuće opremljena za tu vrstu radova i koja raspolaže sa stručno osposobljenim zaposlenicima.
+2) Specijalizirana radionica za održavanje elementa ovješenja i ogibljenja mora imati tehničku i tehnološku opremljenost te potrebne naprave i uređaje da mogu rastaviti, provjeriti istrošenost, puknuća i oštećenja te sastaviti i ispitati. Za navedene radove treba raspolagati sa stručno osposobljenim zaposlenicima.
