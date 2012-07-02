@@ -1,0 +1,2 @@
+# Članak 3.
+Stupanjem na snagu ovog Naputka prestaje važiti Naputak o načinu provođenja mjera propisanih Naredbom o provedbi oralne vakcinacije lisica na području županija Koprivničko-križevačke, Bjelovarsko-bilogorske, Virovitičko-podravske, Vukovarsko-srijemske, Krapinsko-zagorske, Sisačko-moslavačke, Primorsko-goranske, Požeško-slavonske, Osječko-baranjske, Brodsko-posavske, Varaždinske, Međimurske, Zagrebačke, Karlovačke, Istarske i Grada Zagreba (»Narodne novine«, broj 139/2011).
