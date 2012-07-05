@@ -1,0 +1,1 @@
+Na temelju članka 25. stavka 6. Zakona o učinkovitom korištenju energije u neposrednoj potrošnji (»Narodne novine«, br. 152/2008 i 55/2012), Vlada Republike Hrvatske je na sjednici održanoj 20. lipnja 2012. godine donijela

@@ -1,0 +1,4 @@
+## II. JAVNA NABAVA ENERGETSKE USLUGE
+# Članak 6.
+(1) Prije početka postupka javne nabave energetske usluge, naručitelj, odnosno vlasnik građevine mora osigurati provođenje energetskog pregleda građevine sukladno zakonu, osim u slučajevima kada je za određenu građevinu izrađen projektni zadatak na poziv ministarstva nadležnog za poslove graditeljstva, koji sadrži podatke analize postojeće građevine u energetskom smislu, račune o potrošnji energije i vode predmetne građevine za prethodne tri kalendarske godine, podatke o potrošnji energije i vode i tehničkim sustavima u građevini, te po potrebi drugu raspoloživu dokumentaciju.
+(2) Dokumentacija za nadmetanje u postupku javne nabave za energetske usluge u građevini naručitelja ili vlasnika obuhvaća i izvješće o provedenom energetskom pregledu i/ili projektni zadatak iz stavka 1. ovoga članka.

@@ -1,0 +1,6 @@
+# Članak 10.
+(1) Pružatelj energetske usluge obvezuje se primijeniti mjere poboljšanja energetske učinkovitosti na način propisan ovom Uredbom i ugovorom.
+(2) Primjena mjera poboljšanja energetske učinkovitosti može uključivati i druge povezane aktivnosti prema prirodi posla i opsegu ulaganja, a posebno: projektiranje, građenje, rekonstrukciju, održavanje, upravljanje tehničkim sustavom građevine, opskrbu energijom, na način detaljno uređen ugovorom iz članka 4. ove Uredbe.
+(3) Pružatelj energetske usluge obvezuje se primijeniti skupne (integralne) mjere poboljšanja energetske učinkovitosti građevina, čija primjena u ovisnosti o postojećem stanju građevine i opravdanosti ulaganja posebice uključuje:
+- za zgrade: mjere poboljšanja toplinskih karakteristika vanjske ovojnice, vanjske stolarije, tehničkih sustava u građevini (grijanje, priprema potrošne tople vode, hlađenje, ventilacija i klimatizacija), rasvjete te korištenje alternativnih izvora energije (obnovljivi izvori energije kao što su sunčeva energija, biomasa, geotermalna energija, daljinsko grijanje i hlađenje, kogeneracija, te dizalice topline koje koriste okoliš kao izvor energije, itd.) prema uvjetima lokacije,
+- za javnu rasvjetu: mjere obnove i/ili zamjene svjetiljaka energetski učinkovitijima i primjenu mjera regulacije intenziteta svjetlosnog toka.
