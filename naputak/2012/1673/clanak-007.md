@@ -1,0 +1,4 @@
+# Članak 7.
+(1) Nadležna ustrojstvena jedinica u Ministarstvu financija u čijem je djelokrugu proračunski nadzor vodi i ažurira očevidnik osoba zaduženih za nepravilnosti.
+(2) Očevidnik osoba zaduženih za nepravilnosti je službeni popis osoba zaduženih za nepravilnosti koji sadržava: naziv obveznika iz članka 6. stavka 1. ovoga Naputka, ime i prezime čelnika obveznika iz članka 6. stavka 1. ovoga Naputka, ime i prezime osobe zadužene za nepravilnosti, kontakt podatke osobe zadužene za nepravilnosti (telefon, fax, e-mail) te podatke o Odluci o imenovanju osobe zadužene za nepravilnosti (KLASA, URBROJ, datum donošenja).
+(3) O promjeni podataka iz odluke o imenovanju osobe zadužene za nepravilnosti iz članka 6. stavka 3. ovoga Naputka čelnik obveznika iz članka 6. stavka 1. ovoga Naputka dužan je odmah izvijestiti nadležnu ustrojstvenu jedinicu u Ministarstvu financija u čijem je djelokrugu proračunski nadzor.

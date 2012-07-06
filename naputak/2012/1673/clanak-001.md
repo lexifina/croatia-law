@@ -1,0 +1,3 @@
+## I. OPĆE ODREDBE
+# Članak 1.
+Ovim Naputkom uređuju se uvjeti i načini otkrivanja, postupanja i izvješćivanja o nepravilnostima u upravljanju sredstvima državnog proračuna, proračuna jedinica lokalne i područne (regionalne) samouprave, proračunskih i izvanproračunskih korisnika državnog proračuna i proračuna jedinica lokalne i područne (regionalne) samouprave te način i rokovi izvještavanja o uočenim nepravilnostima po provedenim provjerama sadržaja izjava o fiskalnoj odgovornosti sukladno Uredbi o sastavljanju i predaji Izjave o fiskalnoj odgovornosti i Izvještaja o primjeni fiskalnih pravila (»Narodne novine« broj 78/11) (dalje u tekstu: Uredba).

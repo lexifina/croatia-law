@@ -1,0 +1,7 @@
+# Članak 6.
+(1) Čelnici nadležnih ministarstava i drugih državnih tijela na razini razdjela organizacijske klasifikacije te čelnici jedinica lokalne i područne (regionalne) samouprave imenuju osobu zaduženu za nepravilnosti.
+(2) Odluka o imenovanju osobe zadužene za nepravilnosti dostavlja se nadležnoj ustrojstvenoj jedinici u Ministarstvu financija u čijem je djelokrugu proračunski nadzor te proračunskim i izvaproračunskim korisnicima iz svoje nadležnosti.
+(3) Odluka iz stavka 2. ovoga članka sadrži: ime i prezime čelnika obveznika iz stavka 1. ovoga članka, ime i prezime osobe zadužene za nepravilnosti, naziv obveznika iz stavka 1. ovoga članka, kontakt podatke osobe zadužene za nepravilnosti (telefon, fax, e-mail), obveze osobe zadužene za nepravilnosti i potpis čelnika obveznika iz stavka 1. ovoga članka.
+(4) Unutarnji revizor ne može biti imenovan osobom zaduženom za nepravilnosti.
+(5) Čelnik obveznika iz stavka 1. ovoga članka dužan je na internetskim stranicama i/ili oglasnoj ploči obveznika objaviti podatke o osobi zaduženoj za nepravilnosti (telefon, fax, e-mail) .
+(6) Proračunski i izvanproračunski korisnici državnog proračuna i proračuna jedinica lokalne i područne (regionalne) samouprave koji sukladno odredbama ovoga Naputka nisu dužni imenovati osobu zaduženu za nepravilnosti o prijavljenim/uočenim nepravilnostima dužni su izvijestiti osobu zaduženu za nepravilnosti u nadležnom ministarstvu, odnosno nadležnoj jedinici lokalne i područne (regionalne) samouprave.

@@ -1,0 +1,6 @@
+## VI. PRIJELAZNE I ZAVRŠNE ODREDBE
+# Članak 17.
+(1) Obrasci Odluka o imenovanju osobe zadužene za nepravilnosti (Prilog 1), Podaci o prijavljenoj/uočenoj nepravilnosti (Prilog 2), Praćenje postupanja po poduzetim mjerama (Prilog 3) i Izvješće o nepravilnostima (Prilog 4) tiskani su uz ovaj Naputak i sastavni su dio ovoga Naputka.
+(2) Obrasci iz stavka 1. ovoga članka objavit će se u elektroničkom obliku na internetskim stranicama Ministarstva financija u roku 30 dana od stupanja na snagu ovoga Naputka.
+(3) Osobe zadužene za nepravilnosti u nadležnim ministarstvima i drugim državnim tijelima na razini razdjela organizacijske klasifikacije te jedinicama lokalne i područne (regionalne) samouprave koje su do stupanja na snagu ovoga Naputka imenovane na temelju Zakona o sustavu unutarnjih financijskih kontrola u javnom sektoru nastavljaju obavljati poslove sukladno odredbama ovoga Naputka te ih nadležni čelnici nisu dužni ponovno imenovati sukladno odredbama ovoga Naputka.
+(4) Ako obveznici iz članka 6. stavka 1. ovoga Naputka nisu imenovali osobu zaduženu za nepravilnosti sukladno stavku 3. ovoga članka, dužni su u roku od 30 dana od dana stupanja na snagu ovoga Naputka imenovati osobu zaduženu za nepravilnosti.
