@@ -1,0 +1,1 @@
+Na temelju članka 16. i članka 20. stavka 7. Zakona o boravišnoj pristojbi (»Narodne novine«, br. 152/2008 i 59/2009 - ispravak), Vlada Republike Hrvatske je na sjednici održanoj 27. lipnja 2012. godine donijela
