@@ -1,0 +1,3 @@
+# Članak 8.
+U Prilogu I. u poglavlju 5. rečenica: »Metoda uzorkovanja navedena u poglavlju 5. ovog Priloga primjenjuje se u svrhu službene kontrole najvećih dopuštenih količina za aflatoksin B1 i ukupne aflatoksine u začinima« mijenja se i glasi: »Metoda uzorkovanja navedena u poglavlju 5. ovog Priloga primjenjuje se u svrhu službene kontrole najvećih dopuštenih količina za okratoksin A, aflatoksin B1 i ukupne aflatoksine u začinima«
+U Prilogu I. u poglavlju 5. u točki 5.3. rečenica: » U slučaju da se masa serije ne može fizički odijeliti u podserije uzima se minimalno 100 pojedinačnih uzoraka iz serije«, briše se.

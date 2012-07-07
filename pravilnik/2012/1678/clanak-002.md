@@ -1,0 +1,2 @@
+# Članak 2.
+U Pravilniku o planu uzorkovanja i metodama analiza za službenu kontrolu količina mikotoksina u hrani (»Narodne novine«, broj 45/2008) u Prilogu I. u točki 2.3., točki 3.3., točki 4.3. i točki 5.3., rečenica: »Uzimajući u obzir da masa serije ne predstavlja uvijek točan umnožak mase i broja uzoraka iz podserije, masa podserije može odstupati ±20%«, mijenja se i glasi: »Uzimajući u obzir da masa serije ne predstavlja uvijek točan umnožak mase i broja uzoraka iz podserije, masa podserije može prelaziti za +20%«.
