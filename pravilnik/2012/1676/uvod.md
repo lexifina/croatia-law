@@ -1,0 +1,1 @@
+Na temelju članka 17. stavka 3., članka 38. stavka 5., članka 53. stavka 9., članka 59. stavka 3. i članka 61. stavka 4. Zakona o veterinarstvu (»Narodne novine« broj 41/07 i 55/11) ministar poljoprivrede donosi
