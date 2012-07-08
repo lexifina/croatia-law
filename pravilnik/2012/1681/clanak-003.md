@@ -1,0 +1,28 @@
+# Članak 3.
+Iza članka 36. dodaje se poglavlje VI. i članci 37., 38., 39., 40., 41. koji glase:
+»POGLAVLJE VI.
+Metode uzorkovanja i analize za službenu kontrolu hrane za životinje s obzirom na prisutnost genetski modificiranog materijala za koji je postupak odobravanja u tijeku ili je odobrenje isteklo
+Članak 37.
+Odredbe ovog poglavlja primjenjuju se na službenu kontrolu hrane za životinje u odnosu na prisutnost sljedećeg materijala:
+(a) GM materijal koji je odobren za stavljanje u promet u trećoj zemlji i za koji je na temelju članka 19. Pravilnika o uvjetima i postupku izdavanja dopuštenja za stavljanje genetski modificirane hrane ili genetski modificirane hrane za životinje prvi puta na tržište Republike Hrvatske i zahtjevima koji se odnose na sljedivost, posebno označavanje genetski modificirane hrane i genetski modificirane hrane za životinje (»Narodne novine«, broj 110/08) podnesen valjani zahtjev, te za koji je postupak odobravanja u tijeku dulje od 3 mjeseca, pod uvjetom da:
+(i) Hrvatska agencija za hranu nije utvrdila da je to materijal za koji postoji mogućnost da bi mogao imati štetne učinke na zdravlje ili okoliš ako je prisutan ispod granice MRPL ili LOQ;
+(ii) je kvantitativnu metodu koja se zahtijeva na temelju toga članka validirao i objavio Referentni laboratorij Europske unije; i
+(iii) certificirani referentni materijal ispunjava uvjete navedene u članku 38. ovoga Pravilnika;
+(b) nakon 25. travnja 2012., GM materijal za koji je dana obavijest prema članku 8. Pravilnika o uvjetima i postupku izdavanja dopuštenja za stavljanje genetski modificirane hrane ili genetski modificirane hrane za životinje prvi put na tržište Republike Hrvatske i zahtjevima koji se odnose na sljedivost, posebno označavanje genetski modificirane hrane i genetski modificirane hrane za životinje (»Narodne novine« broj 110/08), za koji je odobrenje isteklo i za koji je kvantitativnu metodu validirao i objavio Referentni laboratorij Europske unije, pod uvjetom da certificirani referentni materijal ispunjava uvjete navedene u članku 38. ovoga Pravilnika i
+(c) GM materijal za koji je odobrenje isteklo zbog činjenice da nije podnesen zahtjev za obnovu u skladu s člankom 12. Pravilnika o uvjetima i postupku izdavanja dopuštenja za stavljanje genetski modificirane hrane ili genetski modificirane hrane za životinje prvi put na tržište Republike Hrvatske i zahtjevima koji se odnose na sljedivost, posebno označavanje genetski modificirane hrane i genetski modificirane hrane za životinje (»Narodne novine«, broj 110/08), pod uvjetom da certificirani referentni materijal ispunjava uvjete navedene u članku 38. ovoga Pravilnika.
+Članak 38.
+Certificirani referentni materijal
+Certificirani referentni materijal mora biti dostupan ovlaštenom laboratoriju za provođenje službenih kontrola GMO-a i svakoj trećoj strani.
+Certificirani referentni materijal proizvodi se i certificira u skladu sa smjernicama ISO norme 30. do 35.
+Prateće informacije uz certificirani referentni materijal uključuju informacije o uzgoju biljke koja se koristi za proizvodnju certificiranog referentnog materijala i o zigotnosti jedne ili više insercija. Certificirana vrijednost sadržaja GMO-a izražava se masenom frakcijom i, kad je dostupno, brojem preslika po ekvivalent haploidnom genomu/ekvivalentu haploidnog genoma.
+Članak 39.
+Metode uzorkovanja
+Uzorci za službenu kontrolu hrane za životinje s obzirom na prisutnost GM materijala iz članka 37. ovoga Pravilnika u skladu su s metodama uzorkovanja navedenim u Prilogu V. koji je otisnut uz ovaj Pravilnik i njegov je sastavni dio.
+Članak 40.
+Priprema uzorka, metode analize i tumačenje rezultata
+Priprema laboratorijskih uzoraka, metode analize i tumačenje rezultata u skladu su sa zahtjevima navedenim u prilogu V. koji je otisnut uz ovaj Pravilnik i njegov je sastavni dio.
+Članak 41.
+Mjere u slučaju otkrivanja GM materijala
+Kad rezultati analitičkih ispitivanja ukazuju na prisutnost GM materijala iz članka 37. na ili iznad granice MRPL ili LOQ kako je definirana u skladu s pravilima tumačenja navedenim u prilogu V. dijelu B ovoga Pravilnika, hrana za životinje ne smatra se usklađenom s Pravilnikom o uvjetima i postupku izdavanja dopuštenja za stavljanje genetski modificirane hrane ili genetski modificirane hrane za životinje prvi puta na tržište Republike Hrvatske i zahtjevima koji se odnose na sljedivost, posebno označavanje genetski modificirane hrane i genetski modificirane hrane za životinje (»Narodne novine«, broj 110/08). O toj informaciji potrebno je odmah uputiti obavijest putem RASFF-a u skladu sa člankom 47. Zakona o hrani (»Narodne novine«, broj 46/07, 84/08 i 55/11).
+Kad rezultati analitičkih ispitivanja ukazuju na prisutnost GM materijala iz članka 13. Pravilnika o uvjetima i postupku izdavanja dopuštenja za stavljanje genetski modificirane hrane ili genetski modificirane hrane za životinje prvi puta na tržište Republike Hrvatske i zahtjevima koji se odnose na sljedivost, posebno označavanje genetski modificirane hrane i genetski modificirane hrane za životinje (»Narodne novine«, broj 110/08) ispod granice MRPL ili LOQ kako je definirana u skladu s pravilima tumačenja navedenim u prilogu V. dijelu B ovoga Pravilnika, potrebno je zabilježiti tu informaciju i obavijestiti Europsku komisiju i ostale države članice Europske unije do 30. lipnja svake godine. Obavijest o nalazima koji se ponavljaju tijekom razdoblja od 3 mjeseca dostavlja se bez odlaganja.
+Nadležno tijelo u Republici Hrvatskoj može, ako je to primjereno, donijeti hitne mjere u skladu sa člankom 48. Zakona o hrani (»Narodne novine«, broj 46/07, 84/08 i 55/11).«
