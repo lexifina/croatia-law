@@ -1,0 +1,1 @@
+Na temelju članka 48. stavka 2. Zakona o zaštiti i spašavanju (»Narodne novine« br. 174/2004, 79/2007, 38/2009 i 127/2010), Vlada Republike Hrvatske je na sjednici održanoj 5. srpnja 2012. godine donijela
