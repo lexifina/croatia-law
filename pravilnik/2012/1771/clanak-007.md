@@ -1,0 +1,3 @@
+# Članak 7.
+(1) Pogonskim strojem iz članka 4. stavka 1. točke c) ovog Pravilnika smatraju se pogonski stroj i/ili elementi propulzije i/ili spremnik za gorivo uključujući troškove transporta, ugradnje i montaže za navedene prihvatljive troškove. Elementi propulzije su: brodska kopča (reduktor) uključujući aktuatore, osovinski vod, osovina i propeler.
+(2) Ukoliko se kupnjom pogonskog stroja iz stavka 1. ovog članka zamjenjuje postojeći sporohodni pogonski stroj, novim brzohodnim, potporu je moguće ostvariti pod uvjetom da omjer snage starog i novog motora ne prelazi 1:3, sukladno posebnom propisu.
