@@ -1,0 +1,5 @@
+# Članak 30.
+(1) Ministarstvo financija, odnosno upravno tijelo za financije će na temelju mišljenja nadležnog tijela otpisati potraživanje s osnove kamata ako su ispunjeni svi propisani uvjeti u skladu sa zakonom i ovom Uredbom ili predložiti Vladi Republike Hrvatske, odnosno načelniku općine, gradonačelniku ili županu donošenje odluke o otpisu potraživanja s osnove kamata, sukladno zakonu kojim se uređuje izvršavanje državnog proračuna Republike Hrvatske, odnosno odluci o izvršavanju proračuna za pojedinu godinu.
+(2) Ako odluku iz stavka 1. ovoga članka donosi Ministarstvo financija, odnosno upravno tijelo za financije, podnositelj zahtjeva ima pravo na žalbu. Žalba se podnosi putem Ministarstva financija, odnosno upravnog tijela za financije.
+(3) Ako odluku iz stavka 1. ovoga članka donosi Vlada Repub-
+like Hrvatske, odnosno načelnik općine, gradonačelnik ili župan, podnositelj zahtjeva nema pravo na žalbu, ali može pokrenuti upravni spor.

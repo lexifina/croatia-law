@@ -1,0 +1,3 @@
+# Članak 29.
+(1) Otpisat će se potraživanja koja prema vrijednosti predmeta spora spadaju u kategoriju sporova male vrijednosti propisima kojima se uređuje parnični postupak, a postupak radi naplate treba pokrenuti u inozemstvu.
+(2) Potraživanja prema fizičkim osobama koja prelaze iznos od 10.000,00 kuna, odnosno iznos od 50.000,00 kuna prema pravnim osobama, mogu se otpisati na temelju obrazloženog prijedloga Državnog odvjetništva Republike Hrvatske, kada se ocijeni da naplata nije izvjesna, na temelju raspoloživih dokaza, odnosno da nije svrsishodno pokretanje postupka s obzirom na visinu troškova vođenja postupka pred stranim sudovima.
