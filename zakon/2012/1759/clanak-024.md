@@ -1,0 +1,3 @@
+# Članak 24.
+(1) Iznimno od odredbe članka 13. stavka 4. Zakona o Hrvatskoj radioteleviziji (»Narodne novine«, br. 137/10.), Ugovor između HRT-a i Vlade Republike Hrvatske za razdoblje od 1. siječnja 2013. do 1. siječnja 2018. mora biti potpisan do 15. prosinca 2012. Prijedlog ugovora koji HRT dostavi Vladi Republike Hrvatske, uputit će se prije potpisivanja na mišljenje Vijeću HRT-a i Nadzornom odboru HRT-a, izabranima prema ovom Zakonu.
+(2) Ako se Vijeće HRT-a i Nadzorni odbor HRT-a na zahtjev vršitelja dužnosti Glavnog ravnatelja HRT-a, odnosno Glavnog ravnatelja HRT-a ne očituju o prijedlogu Ugovora iz stavka 1. ovoga članka u roku od 10 dana od dana traženja, potpisivanju Ugovora može se pristupiti bez mišljenja navedenih tijela.
