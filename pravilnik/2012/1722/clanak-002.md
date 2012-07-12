@@ -1,0 +1,6 @@
+# Članak 2.
+Ministar unutarnjih poslova, uz suglasnost ministra obrane odnosno ministra pravosuđa, donosi godišnji plan i program inspekcijskog nadzora zaštite od požara objekata, postrojenja i prostora s pripadajućim instalacijama, uređajima i opremom, za potrebe Ministarstva obrane odnosno Ministarstva pravosuđa, koji se klasificira i označava odgovarajućim stupnjem tajnosti, sukladno posebnom propisu.
+Predmet i sadržaj inspekcijskog nadzora određuju se godišnjim planom i programom inspekcijskog nadzora zaštite od požara iz stavka 1. ovog članka koji sadrži:
+- popis objekata i prostora koji su predmet inspekcijskog nadzora sa opisom njihove namjene, vremenski termin (mjesec, tjedan ili datum) u kojem se planira obavljanje inspekcijskog nadzora,
+- imena i prezimena, funkcije i službene podatke (adrese, brojeve telefona, telefaksa, adrese elektroničke pošte i dr.) kontakt osoba odgovornih za provođenje inspekcijskog nadzora,
+- druge informacije potrebne za organiziranje i pripremu inspekcijskog nadzora (popis akata, uredbi, uputa i druge dokumentacije koji uređuju zaštitu od požara, sukladno posebnim propisima, vlastitim planovima i potrebama i preuzetim međunarodnim i drugim obvezama i dr.).
