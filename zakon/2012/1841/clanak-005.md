@@ -1,0 +1,5 @@
+# Članak 5.
+U članku 5. stavci 1., 2. i 3. mijenjaju se i glase:
+»(1) Zakladom upravlja Upravni odbor Zaklade koji ima sedam članova.
+(2) Članove Upravnog odbora Zaklade imenuje Hrvatski sabor na prijedlog Vlade Republike Hrvatske, iz redova vrhunskih znanstvenika, osobito onih koji imaju svjetski priznate znanstvene radove i rezultate, vodeći računa o zastupljenosti svih znanstvenih područja. Kandidate za članove Upravnog odbora Zaklade Vlada Republike Hrvatske utvrđuje na temelju prijedloga koje podnose znanstveni instituti, Rektorski zbor, sveučilišni senati, Hrvatska akademija znanosti i umjetnosti, Hrvatska gospodarska komora, udruge poslodavaca, nacionalno vijeće za područje znanosti te znanstvenici i članovi akademske zajednice na temelju javno objavljenog poziva za predlaganje kandidata.
+(3) Članovi Upravnog odbora Zaklade biraju između sebe predsjednika i zamjenika predsjednika Upravnog odbora Zaklade, i to većinom ukupnog broja članova. Zamjenik zamjenjuje spriječenog, odnosno odsutnog predsjednika.«.
