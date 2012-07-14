@@ -1,0 +1,2 @@
+# Članak 1.
+Ovim Pravilnikom propisuje se postupak izdavanja odobrenja policijskom službeniku za obavljanje samostalne gospodarske ili profesionalne djelatnosti ili pružanje usluga pravnoj ili fizičkoj osobi te obavljanje poslova ili pružanje usluga pravnim osobama kojima je osnivač sindikat koji djeluje u Ministarstvu unutarnjih poslova (u daljnjem tekstu: Ministarstvo), a koje su osnovane u cilju poboljšanja socijalnog položaja članova ili jačanja institucija sindikata, izvan redovitog radnog vremena.
