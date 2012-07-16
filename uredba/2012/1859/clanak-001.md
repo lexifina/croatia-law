@@ -1,0 +1,2 @@
+# Članak 1.
+Ovom Uredbom određuje se način vrednovanja i obračunavanja vrijednosti visine naknade za pružanje primarne i sekundarne pravne pomoći koju pružaju odvjetnici (u daljnjem tekstu: pružatelji), kada ju pružaju na temelju rješenja donesenog od nadležnog ureda državne uprave u županijama, odnosno uredu Grada Zagreba (u daljnjem tekstu: Ured) u skladu s odredbama Zakona o besplatnoj pravnoj pomoći (u daljnjem tekstu: Zakon).
