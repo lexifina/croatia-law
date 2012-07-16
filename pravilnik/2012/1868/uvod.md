@@ -1,0 +1,1 @@
+Na temelju odredbe članka 69. stavka 1. podstavka 7., a u svezi s člankom 64. stavkom 6. Zakona o elektroničkim medijima (»Narodne novine« broj 153/09 i 84/11) i člankom 20. stavkom 1. Statuta Agencije za elektroničke medije (»Narodne novine« broj 90/10), Vijeće za elektroničke medije donosi
