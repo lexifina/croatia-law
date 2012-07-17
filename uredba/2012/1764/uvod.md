@@ -1,0 +1,1 @@
+Na temelju članka 137. stavka 6. Zakona o plovidbi i lukama unutarnjih voda (»Narodne novine« br. 109/2007 i 132/2007), Vlada Republike Hrvatske je na sjednici održanoj 5. srpnja 2012. godine donijela
