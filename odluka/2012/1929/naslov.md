@@ -1,0 +1,1 @@
+Odluka o neprihvaćanju ponude pristigle na temelju Obavijesti o namjeri davanja koncesije na pomorskom dobru u svrhu izgradnje i korištenja luke posebne namjene - sportske luke - Bunarina, na dijelu k.o. Pula
