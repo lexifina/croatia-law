@@ -1,0 +1,2 @@
+# Članak 3.
+U članku 16. podstavku 2. iza riječi: »(»Narodne novine« broj 123/2003)« dodaju se zarez i riječi: »a za radno mjesto potkategorije - 2 - završen preddiplomski sveučilišni studij ili stručni studij u trajanju od 3 godine ili viša stručna sprema (VI/I) sukladno propisima koji su vrijedili prije stupanja na snagu Zakona o znanstvenoj djelatnosti i visokom obrazovanju (»Narodne novine« broj 123/2003)«.
