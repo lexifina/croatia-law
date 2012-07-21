@@ -1,0 +1,3 @@
+# Članak 3.
+Odobrenje za skladištenja opasne kemikalije iz članka 2. ovoga Pravilnika izdaje ministar zdravlja za točno određenu kemikaliju, uz utvrđenu maksimalnu količinu koja se smije skladištiti, a na temelju stručnog mišljenja Hrvatskog zavoda za toksikologiju i antidoping (u daljnjem tekstu: Zavod).
+Odobrenje iz stavka 1. ovoga članka treba imati pravna ili fizička osoba koja skladišti kemikaliju iz članka 2 ovoga Pravilnika u količinama većim od količina utvrđenih točkom 1.1.3.6. Priloga A i B Europskog sporazuma o međunarodnom prijevozu opasnih tvari (ADR) (»Narodne novine« broj 11/08).

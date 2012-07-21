@@ -1,0 +1,4 @@
+# Članak 4.
+Podnositelj zahtjeva za izdavanje odobrenja iz članka 3. ovoga Pravilnika mora obaviti izračunavanje minimalno dopuštene udaljenosti skladišta iz stavka 1. ovoga članka od najbliže zgrade za boravak ljudi, a koje se obavlja izračunavanjem i/ili simulacijom oslobađanja i kretanja određene kemikalije za maksimalno dopuštenu količinu u skladištu uz najnepovoljnije meteorološke uvjete, s obzirom na temperaturu i vlažnost zraka, brzinu i smjer vjetra, inverziju i druge meteorološke okolnosti.
+Kod izračunavanja minimalne dopuštene udaljenosti skladišta iz stavka 1. ovoga članka, uzimaju se u obzir i reljefne osobitosti.
+Izračunavanja i/ili simulacije iz stavka 1. ovoga članka obavljaju se međunarodno provjerenim računarskim programom, koji su preporučile međunarodne organizacije poput EPA (Environmental Protection Agency) te se uvrštava u Plan intervencije propisan člankom 5. stavkom 1. točkom 6. ovoga Pravilnika.
