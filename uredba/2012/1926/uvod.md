@@ -1,0 +1,1 @@
+Na temelju članka 12. stavka 2. Zakona o ustanovama (»Narodne novine«, br. 76/93, 29/97, 47/99 i 35/2008) i članka 86. stavka 3. Zakona o obveznim i dobrovoljnim mirovinskim fondovima (»Narodne novine«, br. 49/99, 63/2000, 103/2003, 177/2004, 71/2007, 124/2010 i 114/2011), Vlada Republike Hrvatske je na sjednici održanoj 19. srpnja 2012. godine donijela
