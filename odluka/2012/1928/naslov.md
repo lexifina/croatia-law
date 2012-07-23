@@ -1,0 +1,1 @@
+Odluka o utvrđivanju interesa Republike Hrvatske za eksploataciju tehničko-građevnog kamena na eksploatacijskom polju "Križarovica", sa sanacijom, izgradnju upravno-tehničkih i tehnoloških objekata, izgradnju transformatorske stanice i izmještanje pristupnog puta, u k.o. Gračišće
