@@ -1,0 +1,3 @@
+# Članak 68.
+Odjel razvoja informatičkog sustava obavlja sljedeće stručne poslove: praćenje i izbor novih informacijskih tehnologija, definiranje informatičkih standarda koji će pridonijeti efikasnijem razvoju i korištenju programske podrške te izradu programske podrške koja će podržavati postavljene standarde. Sudjeluje u projektima postavljanja informatičkih sustava za statistička istraživanja, realizaciju pilot-projekata uz korištenje novih informatičkih tehnologija. Odjel daje podršku Zavodu u korištenju novih informatičkih tehnologija. To uključuje stalno učenje i primjenu novih informacijskih tehnologija i alata.
+12.2. Služba organizacije, implementacije i održavanja sustava obrade podataka

@@ -1,0 +1,7 @@
+# Članak 28.
+Služba statistike zaštite okoliša, cijena i ekonomskih računa poljoprivrede i šumarstva obavlja sljedeće stručne poslove: vrši pripremu, predlaganje i izradu statističkih standarda za provedbu statističkih istraživanja iz područja statistika zaštite okoliša, cijena i ekonomskih računa poljoprivrede i šumarstva. Vrši pripremu, izradu i razvoj metodologija i klasifikacija. Provodi obradu, analizu, procjenjivanje, objavljivanje i međunarodnu razmjenu statističkih podataka za kompilaciju i izradu ekonomskih računa poljoprivrede i šumarstva, statistika zaštite okoliša, te statistike cijena poljoprivrede i šumarstva; analizira statistička istraživanja i predlaže program rada, izračunava, kontrolira i koordinira harmoniziranost i potpunost te skrbi o konzistentnosti pokazatelja; izrađuje i druge relevantne pokazatelje za navedena područja prema nacionalnim zahtjevima i razvoju međunarodne statističke prakse. Sudjeluje u nacionalnim i međunarodnim projektima, vodi projekte iz svoje domene te surađuje s ustrojstvenim jedinicama Zavoda u svrhu metodoloških usklađivanja s europskim standardima iz navedenog statističkog područja. Brine o tome da je svaki rashod opravdan stvarnom potrebom i potvrđen prethodnom kontrolom.
+U Službi statistike zaštite okoliša, cijena i ekonomskih računa poljoprivrede i šumarstva, ustrojavaju se:
+7.2.1. Odjel cijena u poljoprivredi
+7.2.2. Odjel ekonomskih računa poljoprivrede i šumarstva
+7.2.3. Odjel statistike zaštite okoliša.
+7.2.1. Odjel cijena u poljoprivredi

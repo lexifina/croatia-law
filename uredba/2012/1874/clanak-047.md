@@ -1,0 +1,7 @@
+# Članak 47.
+Služba nacionalnih računa obavlja sljedeće stručne poslove: izrada godišnjih i tromjesečnih nefinancijskih računa (račun proizvodnje, računi raspodjele i uporabe dohotka, kapitalni račun) prema institucionalnim sektorima, uskladba nefinancijskih i financijskih računa institucionalnih sektora te izrađuje Izvještaj o postupku prekomjernog deficita i duga države, razvija i poboljšava metodologiju izrade nefinancijskih računa. Izrađuju tablice ponude i uporabe, prema metodi robnih tokova, koje predstavljaju okvir za izradu nacionalnih računa (makroekonomskih agregata: godišnjeg BDP-a, tromjesečnog BDP-a, regionalnog BDP-a) te na temelju gotovih tablica ponude i uporabe izrađuje simetrične input-output tablice. Surađuje sa svim ustrojstvenim jedinicama u Sektoru ekonomskih statistika na razvoju i primjeni metodologija iz svoga djelokruga, definira nove i redefinira postojeće izvore podataka. Aktivno surađuje i priprema podatke za sve ustrojstvene jedinice unutar Sektora ekonomskih statistika te surađuje s ostalim ustrojstvenim jedinicama u Zavodu glede usklađivanja metodoloških pristupa i razmjene podataka. Brine o tome da je svaki rashod opravdan stvarnom potrebom i potvrđen prethodnom kontrolom.
+U Službi nacionalnih računa, ustrojavaju se:
+9.3.1. Odjel računa države i izrade fiskalnog izvješća (EDP)
+9.3.2. Odjel sektorskih računa
+9.3.3. Odjel tablica ponude i uporabe i input-output tablica.
+9.3.1. Odjel računa države i izrade fiskalnog izvješća (EDP)

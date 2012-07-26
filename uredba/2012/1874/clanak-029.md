@@ -1,0 +1,3 @@
+# Članak 29.
+Odjel cijena u poljoprivredi obavlja sljedeće stručne poslove: sudjeluje u izradi i razvoju metodologija i klasifikacija za statistike cijena, provodi istraživanja o otkupu i prodaji proizvoda poljoprivrede, šumarstva i ribarstva; izračunava, kontrolira i koordinira harmoniziranost i potpunost pokazatelja za obračun apsolutnih cijena poljoprivrednih inputa i outputa; izračunava pokazatelje o cijenama kao što su indeksi cijena proizvođača u poljoprivredi; izrađuje prognozu indeksa cijena; izrađuje rezultate istraživanja te obavlja međunarodnu razmjenu dobivenih podataka.
+7.2.2. Odjel ekonomskih računa poljoprivrede i šumarstva

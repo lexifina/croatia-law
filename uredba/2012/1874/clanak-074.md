@@ -1,0 +1,3 @@
+# Članak 74.
+Odjel izrade programske podrške za diseminaciju podataka obavlja sljedeće stručne poslove: izrađuje kontrolne, dokumentacijske i publikacije tablice, kreira i održava web stranice, brine o zaštiti podataka, izrađuje programe za diseminaciju statističkih informacija putem različitih medija u tiskanoj i elektronskoj formi, odgovara na upite, šalje podatke u traženim formatu ustrojstvenim jedinicama Zavoda, Eurostatu i drugim korisnicima, prati informacije na web stranicama, tisku i ostalim medijima drugih statističkih ureda, obučava korisnike za korištenje statističkih podataka.
+12.4. Služba informatičkih infrastruktura i podrške

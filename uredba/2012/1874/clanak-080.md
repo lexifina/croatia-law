@@ -1,0 +1,2 @@
+# Članak 80.
+Odjel optičkog čitanja obavlja sljedeće stručne poslove: pripremu, organizaciju i implementaciju varijabilnog digitalnog tiska obrazaca i publikacija na sustavu digitalnog tiska u Zavodu. Pod tim poslovima smatra se priprema obrazaca i publikacija u kompatibilni format za aplikaciju varijabilnog tiska, priprema i organizira bazu podataka u kompatibilni format za aplikaciju varijabilnog tiska, programira aplikaciju varijabilnog tiska, izrađuje testni otisak i starta program za izradu finalnog otiska.
