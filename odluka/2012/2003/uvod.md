@@ -1,0 +1,1 @@
+Na temelju članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, broj 150/2011) i članka 10. stavka 2. Uredbe o osnivanju Fonda za profesionalnu rehabilitaciju i zapošljavanje osoba s invaliditetom (»Narodne novine«, br. 116/2003, 48/2004, 68/2008 i 62/2012), Vlada Republike Hrvatske je na sjednici održanoj 26. srpnja 2012. godine donijela
