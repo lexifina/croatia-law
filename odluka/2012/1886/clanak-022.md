@@ -1,0 +1,2 @@
+# Članak 22.
+U članku 76. iza riječi: »rad« stavlja se zarez i dodaju riječi: »mirovinski sustav«, a riječi: »do 6 članova može se imenovati i to: dva iz reda predstavnika sindikata više razine, jedan iz Hrvatske udruge poslodavaca, jedan iz Hrvatske gospodarske komore, jedan iz Hrvatske obrtničke komore.« zamjenjuju se riječima: »do 4 člana može se imenovati i to: jedan iz reda predstavnika sindikata više razine, jedan iz Hrvatske udruge poslodavaca i dva predstavnika iz reda znanstvenih institucija, koji se bave pitanjima radnog prava i mirovinskih osiguranja.«.
