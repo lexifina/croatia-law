@@ -1,0 +1,4 @@
+## Postupak utvrđivanja reprezentativnosti udruga za sudjelovanje u tripartitnim tijelima na lokalnoj i područnoj (regionalnoj) razini
+# Članak 5.
+(1) Radi utvrđivanja i ostvarivanja usklađenih djelatnosti u cilju zaštite i promicanja gospodarskih i socijalnih prava, odnosno interesa radnika i poslodavaca u lokalnoj i područnoj (regionalnoj) jedinici, vođenja usklađene gospodarske, socijalne i razvojne politike te poticanja sklapanja i primjene kolektivnih ugovora može se osnovati gospodarsko-socijalno vijeće na razini jedinice lokalne i područne (regionalne) samouprave.
+(2) Sporazumom o osnivanju Gospodarsko-socijalnog vijeća, kojega sklapa Vlada Republike Hrvatske te udruge sindikata i udruge poslodavaca više razine, kojima je reprezentativnost utvrđena na nacionalnoj razini, mogu se utvrditi način i postupak osnivanja gospodarsko-socijalnih vijeća na razini jedinica lokalne i područne (regionalne) samouprave.

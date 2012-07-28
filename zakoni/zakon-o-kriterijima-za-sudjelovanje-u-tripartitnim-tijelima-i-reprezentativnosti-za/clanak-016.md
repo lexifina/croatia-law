@@ -1,0 +1,9 @@
+## Rad Povjerenstva
+# Članak 16.
+(1) Nakon što zaprimi zahtjev za utvrđivanje reprezentativnosti iz članka 15. stavaka 2. i 3. ovoga Zakona, Povjerenstvo će najkasnije u roku od osam dana utvrditi sadrži li podneseni zahtjev sve propisane podatke.
+(2) Ako podneseni zahtjev ne sadrži sve propisane podatke, Povjerenstvo će pozvati podnositelja zahtjeva da isti dopuni u roku od petnaest dana, uz upozorenje da se u slučaju ne udovoljavanja tom pozivu njegova reprezentativnost u tom postupku neće utvrđivati.
+(3) Ako podnositelj zahtjeva svoj zahtjev ne dopuni u roku iz stavka 2. ovoga članka, Povjerenstvo će u daljnjem roku od osam dana svojim rješenjem obustaviti postupak utvrđivanja reprezentativnosti.
+(4) Ako Povjerenstvo na temelju podnesenog ili dopunjenog zahtjeva utvrdi da podnositelj zahtjeva prema odredbama ovoga Zakona ne ispunjava uvjete za utvrđivanje reprezentativnosti, donijet će u roku od petnaest dana rješenje o odbijanju zahtjeva za utvrđivanje reprezentativnosti.
+(5) Ako Povjerenstvo utvrdi da je zahtjev potpun i da podnositelj zahtjeva ispunjava zakonom propisane uvjete, o pokrenutom postupku utvrđivanja reprezentativnosti će u roku od petnaest dana, u »Narodnim novinama« i na mrežnoj stranici ministarstva nadležnog za rad, objaviti javni poziv svim udrugama poslodavaca više razine i udrugama sindikata više razine da u roku od četrdeset i pet dana od objave javnog poziva i oni dostave svoje zahtjeve za utvrđenje reprezentativnosti, uz upozorenje da se u slučaju ne udovoljavanja tom pozivu njihova reprezentativnost u tom postupku neće utvrđivati.
+(6) Protiv rješenja iz stavka 3. i 4. ovoga članka žalba nije dopuštena, ali svaka udruga koja je sudjelovala u postupku utvrđivanja reprezentativnosti može pokrenuti upravni spor pred nadležnim upravnim sudom.
+(7) U slučaju iz stavka 6. ovoga članka, nadležni upravi sud donijet će odluku u roku od trideset dana od dana podnošenja tužbe.

@@ -1,0 +1,7 @@
+## Rješenje o utvrđivanju reprezentativnosti sindikata i stranke kolektivnog ugovora
+# Članak 21.
+(1) U slučaju podnošenja zahtjeva za utvrđivanje reprezentativnosti sindikata za kolektivno pregovaranje, Povjerenstvo će u roku od petnaest dana od dana isteka roka iz članka 20. stavka 1. ovoga Zakona, na temelju utvrđenih podataka rješenjem utvrditi reprezentativnost sindikata za kolektivno pregovaranje i sklapanje kolektivnog ugovora i isto dostaviti svim sindikatima koji su sudjelovali u tom postupku utvrđivanja reprezentativnosti.
+(2) Protiv rješenja iz stavka 1. ovoga članka žalba nije dopuštena, ali svaka udruga koja je sudjelovala u postupku utvrđivanja reprezentativnosti može protiv istih pokrenuti upravni spor pred nadležnim upravnim sudom.
+(3) U slučaju iz stavka 2. ovoga članka, nadležni upravni sud donijet će odluku u roku od trideset dana od dana podnošenja tužbe.
+(4) Stranke kolektivnog ugovora, o čijem sklapanju je pregovarao pregovarački odbor sindikata čija je reprezentativnost utvrđena na način i u postupku propisanim ovim Zakonom, mogu biti, na strani poslodavaca jedan ili više poslodavaca ili njihove udruge, a na strani radnika, jedan ili više sindikata ili njihove udruge.
+(5) Ako na području za koje se pregovara o sklapanju kolektivnog ugovora djeluje i sindikat iz članka 8. stavka 3. ovoga Zakona, kolektivni ugovor neće biti važeći ako ga na strani radnika potpiše samo sindikat, odnosno sindikati iz članka 8. stavka 3. ovoga Zakona.

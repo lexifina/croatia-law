@@ -1,0 +1,10 @@
+## Postupak novog utvrđivanja odnosno preispitivanja utvrđene reprezentativnosti udruga za sudjelovanje u tripartitnim tijelima na nacionalnoj razini
+# Članak 18.
+(1) Protekom roka od tri godine od pravomoćnosti rješenja iz članka 17. stavka 2. ovoga Zakona, svaka udruga poslodavaca, odnosno udruga sindikata više razine može zatražiti novo utvrđivanje reprezentativnosti udruga za sudjelovanje u tripartitnim tijelima na nacionalnoj razini.
+(2) Postupak preispitivanja utvrđene reprezentativnosti može i prije isteka roka iz stavka 1. ovoga članka pokrenuti udruga poslodavaca, odnosno udruga sindikata više razine koja je zastupljena u Gospodarsko-socijalnom vijeću, ako učini vjerojatnim da neka od udruga zastupljenih u Gospodarsko-socijalnom vijeću više ne ispunjava neki od uvjeta iz članka 2., odnosno članka 3. ovoga Zakona.
+(3) U zahtjevu za preispitivanje utvrđene reprezentativnosti iz stavka 2. ovoga članka mora biti obrazložena i potkrijepljena tvrdnja da neka od udruga koja je zastupljena u tripartitnim tijelima na nacionalnoj razini više ne ispunjava uvjete iz članka 2., odnosno članka 3. ovoga Zakona.
+(4) Zahtjev iz stavka 2. ovoga članka podnosi se Povjerenstvu koje je dužno u roku od petnaest dana o istom obavijestiti udrugu poslodavaca, odnosno udrugu sindikata više razine čija se reprezentativnost preispituje i zatražiti podatke o ispunjavanju osporenog uvjeta te odrediti primjereni rok za dostavu tih podataka.
+(5) Na postupak preispitivanja utvrđene reprezentativnosti na odgovarajući se način primjenjuju odredbe članka 13. do 17. ovoga Zakona.
+(6) Nakon završenog postupka preispitivanja utvrđene reprezentativnosti Povjerenstvo će u roku od petnaest dana donijeti odgovarajuće rješenje.
+(7) U postupku iz stavka 2. ovoga članka, preispitivanje utvrđene reprezentativnosti će se provesti samo za udrugu poslodavaca, odnosno udrugu sindikata više razine, čija se reprezentativnost u odnosu na određeni uvjet preispituje.
+3. Utvrđivanje reprezentativnosti sindikata za kolektivno pregovaranje i sklapanje kolektivnog ugovora
