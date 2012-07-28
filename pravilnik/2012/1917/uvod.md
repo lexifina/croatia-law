@@ -1,0 +1,1 @@
+Na temelju članka 6. st. 6. i članka 32. stavka 5. Zakona o znanstvenoj djelatnosti i visokom obrazovanju (»Narodne novine« br. 123/03, 105/04, 174/04, 02/07 - Odluka USRH, 46/07, 45/09 i 63/11) Nacionalno vijeće za znanost RH je na svojoj 72. sjednici, održanoj 9. srpnja 2012. godine, donijelo
