@@ -1,0 +1,12 @@
+# Članak 5.
+Članak 26. Ugovora mijenja se i glasi:
+»Članak 26.
+RAZMJENA OBAVIJESTI
+1. Nadležna tijela država ugovornica će razmjenjivati obavijesti ukoliko je to predvidivo bitno za provedbu odredaba ovog Ugovora ili za provedbu ili izvršavanje domaćih propisa koje se odnose na poreze bilo koje vrste i opisa, koje uvedu države ugovornice ili njihova lokalna tijela, u mjeri u kojoj oporezivanje, prema tim propisima, nije u suprotnosti s ovim Ugovorom. Razmjena obavijesti nije ograničena člancima 1. i 2.
+2. Svaka obavijest koju država ugovornica primi temeljem stavka 1. smatrat će se tajnom kao i obavijesti dobivene prema domaćim propisima te države, te se mogu priopćiti samo osobama ili tijelima (uključujući sudove i upravna tijela) koja se bave obračunom i naplatom poreza, ovrhom ili progonom ili odlučivanjem o pravnim lijekovima koji se odnose na poreze iz stavka 1., ili nadzorom gore spomenutog. Spomenute osobe ili tijela koristit će se tim obavijestima samo u navedene svrhe. One mogu otkrivati obavijesti u javnom sudskom postupku ili sudskoj odluci.
+3. Niti u kojem slučaju se odredbe stavaka 1. i 2. ne smiju tumačiti na način koji obvezuje državu ugovornicu da:
+a) provodi upravne mjere suprotne propisima ili upravnoj praksi te ili druge države ugovornice;
+b) daje obavijesti koje se ne mogu dobiti u skladu s propisima ili uobičajenim upravnim postupkom te ili druge države ugovornice;
+c) daje obavijesti čije bi otkrivanje povrijedilo obvezu čuvanja trgovačke, poslovne, industrijske, komercijalne ili profesionalne tajne ili trgovačkih postupaka ili obavijesti čije bi otkrivanje bilo suprotno javnom poretku (ordre public).
+4. Ako država ugovornica zatraži obavijest u skladu s ovim člankom, druga država ugovornica će poduzeti svoje mjere za prikupljanje obavijesti kako bi pribavila obavijesti, čak i u slučaju kad ova druga država nema potrebu za takvom vrstom obavijesti u vlastite porezne svrhe. Obveza iznesena u prethodnoj rečenici je podložna ograničenjima iz stavka 3., ali ni u kojem slučaju se navedena ograničenja neće tumačiti na način kojim bi se državi ugovornici dalo pravo odbiti davanje obavijesti isključivo iz razloga nepostojanja domaćeg zanimanja za takvom obavijesti.
+5. Ni u kojem slučaju odredbe stavka 3. neće se tumačiti na način kojim bi se državi ugovornici dalo pravo odbiti davanje obavijesti isključivo iz razloga što obavijesti drži banka, druga financijska institucija, imenovani zastupnik ili osoba koja djeluje kao posrednik ili u fiducijarnom svojstvu ili zato što se odnose na vlasničke udjele u osobi.«

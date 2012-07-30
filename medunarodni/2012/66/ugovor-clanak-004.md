@@ -1,0 +1,3 @@
+# Članak 4.
+Stavak 2. članka 24. Ugovora mijenja se i glasi:
+»2. Stalna poslovna jedinica koju društvo države ugovornice ima u drugoj državi ugovornici ili stalno sjedište koje je na raspolaganju rezidentu države ugovornice u drugoj državi ugovornici neće biti u toj drugoj državi oporezivani nepovoljnije nego što se oporezuju društva ili rezidenti te druge države, koja obavljaju iste djelatnosti. Ova se odredba neće se tumačiti tako da obvezuje državu ugovornicu da rezidentima druge države ugovornice, zbog građanskog statusa ili obiteljskih obveza, odobrava osobne odbitke, olakšice i umanjenja pri oporezivanju koje odobrava vlastitim rezidentima.«
