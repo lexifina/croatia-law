@@ -1,0 +1,1 @@
+Odluka o Nastavnom planu i programu hrvatskoga jezika za tražitelje azila, azilante i strance pod supsidijarnom zaštitom starije od 15 godina radi pristupa srednjoškolskom obrazovnom sustavu i sustavu obrazovanja odraslih
