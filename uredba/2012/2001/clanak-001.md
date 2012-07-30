@@ -1,0 +1,2 @@
+# Članak 1.
+Ovom se Uredbom propisuje način ustrojavanja, sadržaj i vođenje Registra investicija za investicijske projekte koji su određeni Zakonom o Centru za praćenje poslovanja energetskog sektora i investicija, a koje provode Republika Hrvatska i pravne osobe u kojima je Republika Hrvatska imatelj dionica ili udjela, uvažavajući opće pravne akte koji reguliraju područje poslovanja i investicija te prava i obveze trgovačkih društava utvrđene zakonima i općim propisima o trgovačkim društvima.

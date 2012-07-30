@@ -1,0 +1,2 @@
+# Članak 2.
+Registar investicija je baza podataka o svim investicijskim projektima koje provode Republika Hrvatska i pravne osobe u kojima Republika Hrvatska ima više od 25% udjela ili dionica, ukoliko vrijednost investicije prelazi iznos od deset milijuna kuna, te investicijskim projektima javno-privatnog partnerstva i projektima energetske učinkovitosti u kojima sudjeluju tijela državne uprave bez obzira na vrijednost investicije, osim investicija za projekte javno-privatnog partnerstva u području infrastrukture.
