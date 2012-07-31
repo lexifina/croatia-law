@@ -1,0 +1,15 @@
+POTPORA IZ KOMPONENTE V. (IPARD) INSTRUMENTA PRETPRISTUPNE POMOĆI IPA SPORAZUM IZMEĐU EUROPSKE KOMISIJE I VLADE REPUBLIKE HRVATSKE KOJIM SE MIJENJA I DOPUNJUJE VIŠEGODIŠNJI SPORAZUM O FINANCIRANJU 2007. - 2010.
+IZMJENA I DOPUNA VIŠEGODIŠNJEG SPORAZUMA O FINANCIRANJU 2007. - 2010.
+Europska komisija, u daljnjem tekstu »Komisija«, djelujući za i u ime Europske unije s jedne strane, i
+Vlada Republike Hrvatske, djelujući za i u ime Republike Hrvatske, u daljnjem tekstu »Hrvatska« s druge strane, a zajednički nazvane »ugovorne stranke«,
+Budući da:
+(1) Instrument pretpristupne pomoći uspostavljen je temeljem Uredbe Vijeća (EZ) br. 1085/2006[1] (u daljnjem tekstu »Uredba o programu IPA«). Pod njezinom komponentom V. (u daljnjem tekstu »IPARD«) propisuje se financijski doprinos Europske unije za potporu pretpristupnih mjera za ruralni razvoj u državama kandidatkinjama.
+(2) Sukladno Prilogu I. Uredbe o programu IPA, Hrvatska je prihvatljiva da bude korisnica IPARD-a.
+(3) Prema članku 7.(1.) Uredbe o programu IPA, potpora prema ovoj Uredbi pruža se kroz višegodišnje programe koji se utvrđuju po državi i po komponenti u skladu s prioritetima utvrđenim u višegodišnjim indikativnim planskim dokumentima.
+(4) Dana 9. srpnja 2009. Komisija je usvojila Višegodišnji indikativni planski dokument (VIPD) za Hrvatsku koji prati trogodišnju perspektivu 2009. - 2011. u skladu s člankom 6.(5.) i (6.) Uredbe o programu IPA.
+(5) Višegodišnji program za poljoprivredni i ruralni razvoj za Hrvatsku odobren je Odlukom Komisije C(2008)690 od 25. veljače 2008. (u daljnjem tekstu »Program«). Program je (posljednji put) izmijenjen i dopunjen Odlukom C(2010)8462 od 26. studenog 2010.
+(6) Sukladno članku 8.(1.) Uredbe Komisije (EZ) br. 718/2007[2] kojom se provodi Uredba o programu IPA (u daljnjem tekstu »Provedbena uredba«), ova odluka predstavlja odluku o financiranju u skladu sa člankom 75.(2.) Uredbe Vijeća (EZ, Euratom) br. 1605/2002 od 25. lipnja 2002. o Financijskoj uredbi primjenjivoj na opći proračun Europskih zajednica [3] (u daljnjem tekstu »Financijska uredba«).
+(7) Okvirni sporazum, sklopljen između Komisije i Hrvatske 17. prosinca 2007., utvrđuje pravila suradnje koja se odnose na financijsku potporu EZ-a Hrvatskoj. Sektorski sporazum, sklopljen između Komisije i Hrvatske 12. siječnja 2009., dopunjuje odredbe Okvirnog sporazuma i obuhvaća posebne odredbe za provedbu Programa.
+(8) Višegodišnji sporazum o financiranju (VSF), kako je usvojen Odlukom Komisije C(2008)6123 od 27. listopada 2008, kojom se odobravaju izmjene i dopune Programa, sklopljen je između Komisije i Hrvatske 3. ožujka 2010. Ovim VSF-om uređuju se financijske obveze Europske unije glede izvršenja Programa prema Hrvatskoj za godine 2007. - 2010., i bilo koje njegove izmjene i dopune, te se navodi razdoblje važenja ovih obveza u skladu sa člankom 166.(3.)(a) Financijske uredbe.
+(9) Stoga je Dodatak tom VSF-u potrebno zamijeniti Dodatkom ovome Sporazumu kojim se obuhvaća razdoblje financiranja 2007. - 2011.,
+SPORAZUMJELE SU SE KAKO SLIJEDI:
