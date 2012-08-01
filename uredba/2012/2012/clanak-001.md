@@ -1,0 +1,3 @@
+## Predmet Uredbe
+# Članak 1.
+Ovom Uredbom uređuju se sadržaj informacije o namjeri provedbe projekta javno-privatnog partnerstva, ostala dokumentacija koja čini prijedlog projekta javno-privatnog partnerstva, struktura komparatora troškova javnog sektora (PSC), ostali kriteriji za odobrenje prijedloga projekta javno-privatnog partnerstva, bitne promjene odobrenog projekta javno-privatnog partnerstva, kriteriji za odabir ekonomski najpovoljnije ponude koje javno tijelo mora koristiti u postupku odabira privatnog partnera, sadržaj izvješća o provedbi projekta javno-privatnog partnerstva te druga bitna pitanja vezana uz izmjene i/ili dopune ugovora o javno privatnom partnerstvu.

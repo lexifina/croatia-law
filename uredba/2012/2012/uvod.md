@@ -1,0 +1,1 @@
+Na temelju članka 7. stavka 2., članka 9. stavaka 4. i 9., članka 10. stavka 3., članka 14. stavka 2., članka 18. stavka 2. i članka 19. stavka 10. Zakona o javno-privatnom partnerstvu (»Narodne novine«, broj 78/2012), Vlada Republike Hrvatske je na sjednici održanoj 26. srpnja 2012. godine donijela
