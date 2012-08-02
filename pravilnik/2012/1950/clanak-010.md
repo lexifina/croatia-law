@@ -1,0 +1,6 @@
+# Članak 10.
+U članku 38. stavak 1. mijenja se i glasi:
+»Ako su tijela za nadzor nad tržištem poduzela mjere u skladu sa Zakonom o tehničkim zahtjevima za proizvode i ocjenjivanju sukladnosti ili ako imaju razloga vjerovati da igračka na koju se primjenjuju odredbe ovoga Pravilnika predstavlja rizik za zdravlje ili sigurnost osoba, obvezna su ocijeniti ispunjava li predmetna igračka sve zahtjeve iz ovoga Pravilnika. Subjekti u poslovanju s igračkama po potrebi obvezni su surađivati s tijelima za nadzor nad tržištem.«
+Iza stavka 1. dodaje se novi stavak 2. koji glasi:
+»Ako tijekom ocjenjivanja iz stavka 1. ovoga članka tijela za nadzor nad tržištem, koja poduzimaju mjere u skladu sa Zakonom o tehničkim zahtjevima za proizvode i ocjenjivanju sukladnosti, utvrde kako igračka ne ispunjava zahtjeve iz ovoga Pravilnika, obvezna su bez odlaganja zatražiti od odnosnog subjekta u poslovanju s igračkama da poduzme odgovarajuće korektivne radnje kako bi igračka postala sukladna s tim zahtjevima, da povuče igračku s tržišta ili da je vrati u razumnome roku, koji mora biti razmjeran prirodi rizika, ovisno o tome što ta tijela propišu. Tijela za nadzor nad tržištem obvezna su o tome obavijestiti odnosno tijelo za ocjenjivanje sukladnosti.«
+Dosadašnji stavci 2. - 8. postaju stavci 3. - 9.
