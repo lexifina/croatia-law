@@ -1,0 +1,2 @@
+# Članak 3.
+Izmjenama i dopunama Strategije potrebno je u skladu s ciljevima prostornog razvoja utvrđenih Zakonom o prostornom uređenju i gradnji, ukupnim gospodarskim, društvenim i kulturnim razvojem i drugim temeljnim državnim razvojnim i strateškim dokumentima, odrediti dugoročne zadaće prostornog razvoja županija, velikih gradova/gradova/općina i države, strateška usmjerenja razvoja djelatnosti u prostoru i polazišta za koordinaciju njihovih razvojnih mjera u prostoru.
