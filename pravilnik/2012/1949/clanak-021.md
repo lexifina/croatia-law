@@ -1,0 +1,3 @@
+# Članak 21.
+Osposobljavanje edukatora zdravstvenih i nezdravstvenih radnika o sprečavanju i suzbijanju infekcija povezanih sa zdravstvenom skrbi u zdravstvenim ustanovama i kod pružatelja usluga socijalne skrbi provodi Referentni centar za bolničke infekcije.
+Edukacija zdravstvenih radnika u privatnoj praksi te ostalim nestacionarnim zdravstvenim ustanovama na području sprečavanja i suzbijanja infekcija povezanih sa zdravstvenom skrbi osigurava se na način da najmanje jedna medicinska sestra-medicinski tehničar odnosno nositelj privatne prakse tijekom 5 godina sudjeluje u najmanje jednom tečaju trajne edukacije s područja sprečavanja i suzbijanja infekcija povezanih sa zdravstvenom skrbi.

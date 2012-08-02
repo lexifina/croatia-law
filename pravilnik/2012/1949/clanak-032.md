@@ -1,0 +1,3 @@
+# Članak 32.
+Za provedbu odredaba ovoga Pravilnika odgovoran je ravnatelj zdravstvene ustanove, direktor trgovačkog društva odnosno nositelj privatne prakse, a kod pružatelja usluga socijalne skrbi odgovoran je ravnatelj odnosno osoba ovlaštena za zastupanje u skladu s obujmom i vrstom pružanja zdravstvene zaštite i skrbi o pacijentu/korisniku.
+Troškove svih postupaka i mjera obavljenih u cilju sprečavanja i suzbijanja bolničkih infekcija izuzevši specifičnu preventivnu djelatnost za radnike i pacijente u slučaju postojanja indikacije (cijepljenje) snosi zdravstvena ustanova, trgovačko društvo, privatni zdravstveni radnici, odnosno pružatelji usluga socijalne skrbi, a odgovoran je ravnatelj/nositelj privatne prakse odnosno osoba ovlaštena za zastupanje.

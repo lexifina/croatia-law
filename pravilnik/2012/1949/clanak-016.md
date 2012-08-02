@@ -1,0 +1,6 @@
+# Članak 16.
+Praćenje infekcija povezanih sa zdravstvenom skrbi obavlja se kroz kontinuirano prikupljanje podataka iz medicinske dokumentacije bolesnika.
+Praćenje infekcija povezanih sa zdravstvenom skrbi odvija se prema planu kojeg donosi Bolničko povjerenstvo i Povjerenstvo pružatelja socijalne skrbi, a obuhvaća podatke o strukturi i procesu prevencije i kontrole infekcija, kao i podatke o infekcijama kao ishodu zdravstvene skrbi (učestalost i vrste infekcija, vrste pojedinih uzročnika, učestalost alertnih mikroorganizama, rezistencija na antibiotike). Metodologija praćenja infekcija povezanih sa zdravstvenom skrbi treba biti u skladu s metodologijom ECDC-a, kako bi se mogle provoditi nacionalne i internacionalne usporedbe rezultata praćenja.
+Podaci prikupljeni praćenjem infekcija povezanih sa zdravstvenom skrbi pohranjuju se i periodički analiziraju. Bolničko povjerenstvo i Povjerenstvo pružatelja usluga socijalne skrbi analizira rezultate najmanje jednom godišnje i daje povratnu informaciju tijelu upravljanja i zaposlenicima, kao i Povjerenstvu Ministarstva, u obliku godišnjeg izvješća.
+Tim za kontrolu bolničkih infekcija sudjeluje u prikupljanju prijava, analizi i interpretaciji rezultata kontrole infekcija.
+Pohranjivanje, analiza i komentiranje rezultata obavlja se čuvajući povjerljivost nalaza za pacijente/korisnike i osoblje.

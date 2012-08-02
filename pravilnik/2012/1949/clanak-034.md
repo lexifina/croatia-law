@@ -1,0 +1,2 @@
+# Članak 34.
+Doktori medicine koji su do stupanja na snagu ovoga Pravilnika obavljali poslove sprječavanja i suzbijanja infekcija povezanih sa zdravstvenom skrbi u trajanju od najmanje 5 godina i završili najmanje 3 tečaja trajne edukacije o prevenciji i kontroli infekcija povezanih sa zdravstvenom skrbi u zemlji i/ili inozemstvu, odnosno objavili najmanje 3 rada s područja infekcija povezanih sa zdravstvenom skrbi, ne moraju obaviti edukaciju iz članka 20. stavka 2. točke 2. ovoga Pravilnika.
