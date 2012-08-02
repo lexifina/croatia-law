@@ -1,0 +1,2 @@
+# Članak 8.
+Isplata financijske potpore Ministarstva kulture hrvatskim projektnim partnerima bit će moguća tek kada Službi za kulturnu kontaktnu točku Ministarstva kulture budu dostavljene preslike ugovora potpisanih od strane Europske komisije odnosno Izvršne agencije s koordinatorom u projektima svih hrvatskih projektnih partnera koji su postupili sukladno članku 3. ovog Pravilnika te kojima je sukladno članku 6. omogućena financijska potpora.
