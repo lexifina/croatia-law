@@ -1,0 +1,1 @@
+Odluka o davanju suglasnosti Ministarstvu zdravlja, za angažiranje fizičke ili pravne osobe za izradu i provedbu kampanje izvješćivanja javnosti Republike Hrvatske o Reformi sustava zdravstva koju provodi Ministarstvo zdravlja
