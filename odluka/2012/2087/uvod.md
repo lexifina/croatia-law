@@ -1,0 +1,1 @@
+Na temelju članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, broj 150/2011) i točke VII. stavka 2. Odluke o osnivanju Lučke uprave Split (»Narodne novine«, br. 45/97, 155/98 i 72/2011), Vlada Republike Hrvatske je na sjednici održanoj 2. kolovoza 2012. godine donijela
