@@ -1,0 +1,4 @@
+# Članak 26.
+(1) Za ispunjenje obveze iz rješenja odgovorna je osoba u pravnoj osobi, odnosno fizička osoba koja obavlja samostalnu djelatnost, a ako je rješenjem naređena kakva obveza fizičkoj osobi u pravnoj osobi za ispunjenje obveza odgovorna je i ta fizička osoba.
+(2) O ispunjenju obveze iz rješenja odgovorna osoba u pravnoj osobi, odnosno fizička osoba koja obavlja samostalnu djelatnost dužna je u roku od osam dana od dana isteka roka za ispunjenje obveze pisano izvijestiti inspektora, odnosno državnog inspektora koji je donio rješenje.
+(3) Ako osoba iz stavka 2. ovoga članka ne izvijesti inspektora, odnosno državnog inspektora u propisanom roku ili ako inspektor, odnosno državni inspektor posumnja u vjerodostojnost izvješća, obavit će kontrolni inspekcijski nadzor radi utvrđivanja pravog stanja stvari.

@@ -1,0 +1,5 @@
+## VI. PRIJELAZNE I ZAVRŠNE ODREDBE
+# Članak 33.
+(1) Državni službenici zatečeni u državnoj službi na dan stupanja na snagu ovoga Zakona dužni su položiti državni stručni ispit u roku od godinu dana od dana rasporeda na radno mjesto inspektora, državnog inspektora, odnosno glavnog sportskog inspektora.
+(2) Državni službenici iz stavka 1. ovoga članka koji ne polože državni stručni ispit u roku od godinu dana od dana rasporeda na radno mjesto inspektora, odnosno državnog inspektora, rasporedit će se na drugo radno mjesto za koje ispunjavaju propisane uvjete, a ako nema odgovarajućeg radnog mjesta, stavit će se na raspolaganje sukladno propisima o državnim službenicima.
+(3) U državnu službu na radno mjesto inspektora, državnog inspektora i glavnog sportskog inspektora može se primiti i osoba koja nema položen državni stručni ispit, ali ga mora položiti u roku od šest mjeseci od isteka probnog rada. U protivnom joj prestaje državna služba istekom posljednjeg dana roka za polaganje ispita.
