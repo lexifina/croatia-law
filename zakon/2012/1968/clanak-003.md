@@ -1,0 +1,2 @@
+# Članak 3.
+Postupci provođenja temeljne sigurnosne provjere započeti po odredbama Zakona o sigurnosnim provjerama (»Narodne novine«, br. 85/08.) za osobe iz članka 13. stavka 1. podstavka 1. toga Zakona za koje čelnik tijela zahtjeva temeljnu sigurnosnu provjeru nastavit će se po odredbama ovoga Zakona, a započeti postupci provođenja temeljne sigurnosne provjere za osobe za koje čelnik tijela ne zahtjeva temeljnu sigurnosnu provjeru, obustavit će se.
