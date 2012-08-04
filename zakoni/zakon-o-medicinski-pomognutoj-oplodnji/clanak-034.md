@@ -1,0 +1,7 @@
+## Pohranjivanje
+# Članak 34.
+(1) Muškarac i žena kojima prema spoznajama medicinske znanosti prijeti opasnost da će zbog zdravstvenih razloga postati neplodni, mogu u ovlaštenoj zdravstvenoj ustanovi uz slobodan ovjereni pisani pristanak pohraniti svoje spolne stanice, spolna tkiva ili zametke za vlastito korištenje kasnije.
+(2) Iznimno od stavka 1. ovoga članka pravo na pohranjivanje spolnih stanica i spolnih tkiva ima i maloljetna osoba za koju postoji opasnost da će zbog bolesti postati trajno neplodna. Spolne stanice i tkiva maloljetne osobe čuvaju se do navršene 42. godine života (žena), odnosno do navršene 50. godine života (muškarac).
+(3) Pohranjene spolne stanice, spolna tkiva i zameci iz stavka 1. ovoga članka čuvaju se u pravilu do pet godina od dana pohranjivanja. Rok čuvanja može se na zahtjev osoba od kojih spolne stanice, tkiva, odnosno zameci potječu produljiti za još pet godina. Iznimno, u posebno medicinski opravdanim slučajevima i duže.
+(4) U slučaju smrti osobe od koje potječu spolne stanice i spolna tkiva koji su pohranjeni zdravstvena ustanova obvezna je uništiti pohranjene spolne stanice i spolna tkiva u roku od 30 dana od dana saznanja o smrti, a pohranjene zametke darovati drugom korisniku prava na medicinski pomognutu oplodnju za oplodnju i rađanje djeteta.
+(5) Podatke iz stavaka 2., 3. i 4. ovoga članka zdravstvena ustanova obvezna je dostaviti Nacionalnom povjerenstvu za medicinski pomognutu oplodnju.

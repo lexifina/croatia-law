@@ -1,0 +1,11 @@
+## Homologna oplodnja
+# Članak 7.
+(1) U postupcima medicinski pomognute oplodnje prednost se daje homolognoj oplodnji korištenjem vlastitih spolnih stanica bračnih, odnosno izvanbračnih drugova.
+(2) U postupku homologne izvantjelesne oplodnje smije se koristiti kontrolirana stimulacija ovulacije u skladu sa suvremenim biomedicinskim spoznajama tako da se dobije najviše dvanaest jajnih stanica. Od tog broja može se oploditi svih dvanaest jajnih stanica. U skladu s medicinskim dostignućima u spolne organe žene dopušten je unos najviše dva zametka poštujući načelo sljedivosti. Preostali zameci i/ili jajne stanice zamrzavaju se.
+(3) Kod žena starijih od 38 godina života, žena s nepovoljnim testovima pričuve jajnika, ponavljanog neuspjeha u liječenju, onkoloških bolesnika i težeg oblika muške neplodnosti, dopušten je unos tri zametka u spolne organe žene.
+(4) Bračni, odnosno izvanbračni drugovi obvezni su prije započinjanja postupka medicinski pomognute oplodnje, u pisanom obliku izjasniti se žele li oplodnju do dvije ili više jajnih stanica.
+(5) Iznimno od stavka 2. ovoga članka, ako bračni, odnosno izvanbračni drugovi žele oplodnju do dvije jajne stanice, u spolne organe žene unosi se dobiveni broj zametaka, a višak jajnih stanica zamrzava se, poštujući načelo sljedivosti.
+(6) Preostali zameci koji nisu uneseni u spolne organe žene čuvaju se na teret Hrvatskog zavoda za zdravstveno osiguranje do pet godina. Nakon proteka roka od pet godina zameci se uz pristanak darivatelja daruju radi postizanja trudnoće i rađanja korisniku prava na medicinski pomognutu oplodnju koji pristane na takav postupak. U slučaju da bračni, odnosno izvanbračni drugovi žele produljiti čuvanje zametaka daljnjih pet godina, obvezni su snositi trošak čuvanja.
+(7) Preostale jajne stanice čuvaju se na teret Hrvatskog zavoda za zdravstveno osiguranje do pet godina. Nakon proteka roka jajne stanice uništavaju se uz obavijest bračnim, odnosno izvanbračnim drugovima o tome. Ako žena želi jajne stanice darovati, obvezna je o tome obavijestiti zdravstvenu ustanovu u skladu s odredbama ovoga Zakona.
+(8) Darivanje zametaka dopušteno je isključivo za osobe koji se liječe od neplodnosti u Republici Hrvatskoj.
+(9) Prije započinjanja novog svježeg postupka izvantjelesne oplodnje moraju se iskoristiti svi zamrznuti zameci, a nakon toga zamrznute jajne stanice.
