@@ -1,0 +1,5 @@
+# Članak 7.
+Članak 13. mijenja se i glasi:
+»(1) Osoba pravomoćno osuđena na kaznu zatvora u trajanju od najmanje šest mjeseci za neko od kaznenih djela počinjenog s namjerom, a nije primijenjena uvjetna osuda, ne može sudjelovati u sportskim natjecanjima, organizirati i voditi sportska natjecanja, obavljati stručne poslove u sportu, sudjelovati u radu skupštine ili tijela upravljanja sportske udruge ili trgovačkog društva, niti može biti ovlaštena za zastupanje te pravne osobe.
+(2) Pravna osoba dužna je raskinuti ugovor o radu ili drugi ugovor na temelju kojeg osoba iz stavka 1. ovoga članka obavlja poslove ili sportsku djelatnost, odnosno razriješiti je dužnosti i funkcija u roku od osam dana od saznanja za pravomoćnu presudu i o tome obavijestiti registarsko tijelo. Na prestanak ugovora o radu primjenjuju se opći propisi o radu.
+(3) Osoba protiv koje je pokrenut kazneni postupak zbog kaznenog djela počinjenog na štetu djeteta, odnosno maloljetnika udaljit će se od obavljanja poslova u sportu u kojima dolazi u kontakt s djecom, odnosno maloljetnicima do pravomoćnosti presude, odnosno obustave postupka.«.

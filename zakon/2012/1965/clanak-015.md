@@ -1,0 +1,4 @@
+# Članak 15.
+U članku 57. stavku 2. na kraju teksta briše se točka i dodaju riječi: »sa statusom nacionalnoga sportskoga saveza.".
+Dodaje se stavak 5. koji glasi:
+»(5) Hrvatski akademski sportski savez općim aktom utvrđuje sustav, uvjete i organizaciju sportskih natjecanja studenata u skladu s pravilima sporta i normama međunarodnih studentskih sportskih udruženja, sudjeluje u međunarodnim studentskim sportskim pokretima i udružuje se u odgovarajuća međunarodna studentska sportska udruženja, skrbi o pripremama i sudjelovanju na univerzijadama, studentskim svjetskim, europskim i sličnim prvenstvima i igrama te sudjeluje u njihovu organiziranju. Hrvatski akademski sportski savez usklađuje aktivnosti svojih članica, organizira nacionalna studentska natjecanja, skrbi o statusu studenata sportaša te uređuje druga pitanja iz područja svoga djelovanja.«.

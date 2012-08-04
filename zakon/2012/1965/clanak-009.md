@@ -1,0 +1,3 @@
+# Članak 9.
+U članku 24. stavak 1. mijenja se i glasi:
+»(1) Profesionalni status, u smislu ovoga Zakona, ima onaj sportski klub koji je osnovan radi obavljanja sportske djelatnosti sudjelovanja u sportskom natjecanju, ako uvjete iz članka 8. stavka 1. ovoga Zakona zadovoljava više od 50% registriranih sportaša u seniorskoj konkurenciji, u odnosu na broj prijavljenih sportaša za natjecateljsku godinu na listi koju vodi odgovarajući nacionalni sportski savez ili ako ispunjava uvjete za stjecanje profesionalnog statusa sukladno pravilima odgovarajućega nacionalnoga sportskog saveza (u daljnjem tekstu: profesionalni sportski klub).«.
