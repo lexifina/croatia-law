@@ -1,0 +1,6 @@
+# Članak 12.
+Članak 24. mijenja se i glasi:
+»(1) Ako u roku od 6 mjeseci od početka gradnje određene građevine nisu sklopljeni predugovori o kupoprodaji svih stanova, garaža i garažno-parkirnih mjesta u toj zgradi u skladu s uvjetima i mjerilima iz članka 23. ovoga Zakona, Agencija može preostale nekretnine prodati neovisno o tim uvjetima. U tom slučaju prodajnu cijenu nekretnina utvrđuje Agencija imajući u vidu troškove izgradnje i financiranja te tržišnu vrijednost tih nekretnina i mogućnosti prodaje u odnosu na stanje na tržištu nekretnina.
+(2) U slučaju iz stavka 1. ovoga članka stan, odnosno nekretnine mogu kupiti sve osobe koje prema važećim propisima mogu stjecati pravo vlasništva nekretnina u Republici Hrvatskoj.
+(3) Prodaja nekretnina u slučaju iz stavka 1. ovoga članka provodi se prema uvjetima i u postupku koji utvrdi Agencija, u pravilu bez posebnih ograničenja i prema vremenskom redoslijedu podnošenja zahtjeva za kupnju određenog stana.
+(4) Ukoliko se poslovni prostori, stanovi, garaže i garažno-parkirna mjesta ne prodaju pod uvjetima iz ovoga Zakona u primjerenom roku, do njihove prodaje Agencija u okviru svog poslovanja može uz suglasnost Upravnog vijeća Agencije te nekretnine dati u zakup, odnosno najam, prema uvjetima koje odobri Upravno vijeće Agencije.«.
