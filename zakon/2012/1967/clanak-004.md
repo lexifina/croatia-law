@@ -1,0 +1,7 @@
+# Članak 4.
+Članak 19. mijenja se i glasi:
+»(1) U prvi razred obveznoga osnovnog obrazovanja upisuju se djeca koja do 1. travnja tekuće godine imaju navršenih šest godina života.
+(2) Iznimno od stavka 1. ovoga članka, a na zahtjev roditelja, sukladno rješenju ureda državne uprave, odnosno Gradskog ureda, u prvi razred može se upisati dijete koje do 31. ožujka tekuće godine nema navršenih šest godina života.
+(3) Iznimno od stavka 1. ovoga članka, a na zahtjev stručnog povjerenstva škole, sukladno rješenju ureda državne uprave, odnosno Gradskog ureda, djetetu se može odgoditi upis u prvi razred osnovne škole za jednu školsku godinu.
+(4) Dijete, odnosno učenik kojemu je zbog teškog oštećenja zdravlja onemogućeno redovito školovanje ili koje ima višestruke teškoće, a čiji su roditelji u skladu s posebnim propisima stekli pravo na status roditelja njegovatelja, odnosno dijete koje je s obzirom na vrstu, stupanj i težinu oštećenja steklo pravo na skrb izvan vlastite obitelji radi osposobljavanja na samozbrinjavanje u domu socijalne skrbi ili pravo na pomoć i njegu u kući, u sklopu kojeg se osigurava pružanje usluga psihosocijalne pomoći, može se privremeno osloboditi upisa u prvi razred osnovne škole, odnosno privremeno osloboditi već započetog školovanja.
+(5) Za dijete, odnosno učenika iz stavka 4. ovoga članka roditelj podnosi zahtjev uredu državne uprave, odnosno Gradskom uredu.«.
