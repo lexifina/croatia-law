@@ -1,0 +1,2 @@
+# Članak 1.
+Ovim Pravilnikom uređuje se postupak prijenosa cesta, potrebna dokumentacija kao i rokovi za prijenos javnih cesta iz jedne od četiriju skupina u drugu skupinu (autoceste, državne ceste, županijske ceste, lokalne ceste), kada javna cesta prestaje biti javna cesta, odnosno kada je javnoj cesti ili njezinom dijelu ukinut status javnog dobra u općoj uporabi, kada se nerazvrstana cesta razvrstava u javnu cestu te kada je istekao rok trajanja koncesije.

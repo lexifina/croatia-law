@@ -1,0 +1,3 @@
+# Članak 5.
+U postupku prijenosa povjerenstvo mora zapisnički iskazati financijsku vrijednost imovine (ceste) koja se prenosi, uz priloženu dokumentaciju (knjigovodstvena kartica imovine) iz koje je vidljiva nabavna vrijednosti, ispravak vrijednosti i sadašnja knjigovodstvena vrijednost ceste, odnosno svih objekata i opreme koja čini sastavni dio ceste koja se prenosi.
+Predavatelj za sadašnju knjigovodstvenu vrijednost imovine koja se prenosi umanjuje javni kapital (imovinu Republike Hrvatske koja se vodi u poslovnim knjigama pravne osobe koja upravlja javnom cestom), a primatelj na istovjetan način evidentira cestu u svojim poslovnim knjigama, uvećavajući kapital.
