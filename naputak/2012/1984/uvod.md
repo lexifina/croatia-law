@@ -1,0 +1,1 @@
+Na temelju članka 56. stavak (4) Zakona o Državnom inspektoratu (»Narodne novine«, br. 116/08., 123/08. i 49/11), uz prethodno pribavljeno mišljenje Ministarstva rada i mirovinskog sustava, glavna inspektorica Državnog inspektorata donosi
