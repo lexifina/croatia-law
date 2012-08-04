@@ -1,6 +1,3 @@
 # Članak 15.
-(1) Umjetnička škola izvodi nastavni plan i program u najmanje četverogodišnjem
-trajanju na osnovnoškolskoj razini i u najmanje četverogodišnjem trajanju na
-srednjoškolskoj razini.
-(2) Umjetničke škole su glazbene, plesne, likovne i druge, što se određuje prema
-vrsti nastavnog plana i programa.
+Umjetničko obrazovanje ostvaruje se u skladu s odredbama ovoga Zakona, posebnog zakona i drugih propisa.
+Odredbom članka 3. Zakona o izmjenama i dopunama Zakona o odgoju i obrazovanju u osnovnoj i srednjoj školi (»Narodne novine«, br. 86/12.) stupio na snagu 4. kolovoza 2012., članak 15. je izmijenjen.

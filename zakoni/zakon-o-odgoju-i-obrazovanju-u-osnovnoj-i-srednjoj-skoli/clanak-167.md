@@ -1,6 +1,4 @@
 # Članak 167.
-Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«, osim
-odredaba članka 43. stavka 2., članka 44., članka 45. stavka 1. i članka 142.
-stavka 1. točke 11., 12. i 13. ovog Zakona koje stupaju na snagu na dan prijama
-Republike Hrvatske u Europsku uniju te odredaba članka 126. i 128. ovog Zakona
-koje stupaju na snagu 1. siječnja 2012.
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«, osim odredaba članka 43. stavka 2., članka 44., članka 45. stavka 1. i članka 142. stavka 1. točke 11., 12. i 13. ovog Zakona koje stupaju na snagu na dan prijama Republike Hrvatske u Europsku uniju te odredaba članka 126. ovog Zakona koje stupaju na snagu 1. siječnja 2015.
+Odredbom članka 11. Zakona o izmjenama i dopunama Zakona o odgoju i obrazovanju u osnovnoj i srednjoj školi (»Narodne novine«, br. 92/10.) stupio na snagu 24. srpnja 2010., u članku 167. riječi: »i 128.« su brisane.
+Odredbom članka 19. Zakona o izmjenama i dopunama Zakona o odgoju i obrazovanju u osnovnoj i srednjoj školi (»Narodne novine«, br. 90/11.) stupio na snagu 10. kolovoza 2011., riječi: »1. siječnja 2012.« zamjenjuju se riječima: »1. siječnja 2015.«.

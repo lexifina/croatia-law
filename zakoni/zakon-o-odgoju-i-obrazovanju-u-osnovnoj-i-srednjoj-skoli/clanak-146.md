@@ -1,2 +1,2 @@
 # Članak 146.
-Školske ustanove se ne mogu se financirati iz sredstava političkih stranaka.
+Školske ustanove ne mogu se financirati iz sredstava političkih stranaka.

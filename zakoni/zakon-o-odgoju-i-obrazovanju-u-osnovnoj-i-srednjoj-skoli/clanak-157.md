@@ -1,16 +1,6 @@
 # Članak 157.
-(1) Učitelji, nastavnici i stručni suradnici koji su zasnovali radni odnos u
-osnovnoj ili srednjoj školi prije 12. ožujka 1994. nisu obvezni polagati stručni
-ispit prema odredbama ovog Zakona.
-(2) Učitelji i stručni suradnici koji su položili stručni ispit prema odredbama
-Zakona o osnovnom školstvu (»Narodne novine«, br. 59/90., 26/93., 27/93.,
-29/94., 7/96., 59/01., 114/01. i 76/05.) te nastavnici koji su položili stručni
-ispit prema odredbama Zakona o srednjem školstvu (»Narodne novine«, br. 19/92.,
-26/93., 27/93., 50/95., 59/01., 114/01. i 81/05.), nemaju obvezu polaganja
-stručnog ispita prema odredbama ovog Zakona.
-(3) Za osobe iz stavka 1. i 2. ovog članka, dan stupanja na snagu ovog Zakona
-smatra se danom stjecanja prve licencije za rad učitelja, nastavnika i stručnih
-suradnika.
-(4) Osobama koje su na dan stupanja na snagu ovog Zakona zatečene na dužnosti
-ravnatelja, dan stupanja na snagu ovog zakona smatra se danom stjecanja prve
-licencije koja vrijedi najkasnije do 31. prosinca 2011.
+(1) Učitelji, nastavnici i stručni suradnici koji su zasnovali radni odnos u osnovnoj ili srednjoj školi prije 12. ožujka 1994. nisu obvezni polagati stručni ispit prema odredbama ovog Zakona.
+(2) Učitelji i stručni suradnici koji su položili stručni ispit prema odredbama Zakona o osnovnom školstvu (»Narodne novine«, br. 59/90., 26/93., 27/93., 29/94., 7/96., 59/01., 114/01. i 76/05.) te nastavnici koji su položili stručni ispit prema odredbama Zakona o srednjem školstvu (»Narodne novine«, br. 19/92., 26/93., 27/93., 50/95., 59/01., 114/01. i 81/05.), nemaju obvezu polaganja stručnog ispita prema odredbama ovog Zakona.
+(3) Za osobe iz stavka 1. i 2. ovog članka, dan stupanja na snagu ovog Zakona smatra se danom stjecanja prve licencije za rad učitelja, nastavnika i stručnih suradnika.
+(4) Osobama koje su na dan stupanja na snagu ovog Zakona zatečene na dužnosti ravnatelja, dan stupanja na snagu ovog zakona smatra se danom stjecanja prve licencije koja vrijedi najkasnije do 31. prosinca 2014.
+Odredbom članka 17. Zakona o izmjenama i dopunama Zakona o odgoju i obrazovanju u osnovnoj i srednjoj školi (»Narodne novine«, br. 90/11.) stupio na snagu 10. kolovoza 2011., u stavku 4. riječi: »do 31. prosinca« zamijenjene su riječima: »do 31. prosinca 2014.«.

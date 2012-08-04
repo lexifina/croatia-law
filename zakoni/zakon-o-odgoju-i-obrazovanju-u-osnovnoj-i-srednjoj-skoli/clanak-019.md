@@ -1,12 +1,10 @@
 # Članak 19.
-(1) U prvi razred obveznog osnovnog obrazovanja upisuju se djeca koja do 1.
-travnja tekuće godine imaju navršenih šest godina života.
-(2) Iznimno od stavka 1. ovog članka, na zahtjev roditelja i prijedlog
-povjerenstva iz članka 20. stavka 3. ovog Zakona, u prvi se razred može upisati
-dijete koje do 31. ožujka tekuće godine nema navršenih šest godina života.
-(3) Dijete se ne može trajno osloboditi upisa u prvi razred osnovne škole osim u
-slučaju kada dijete ima višestruke teškoće te su po posebnim propisima roditelji
-stekli pravo na status roditelja njegovatelja ili je dijete, s obzirom na vrstu,
-stupanj i težinu oštećenja, steklo pravo na skrb izvan vlastite obitelji radi
-osposobljavanja na samozbrinjavanje u domu socijalne skrbi ili pravo na pomoć i
-njegu u kući, u okviru kojeg se osigurava pružanje usluga psihosocijalne pomoći.
+(1) U prvi razred obveznoga osnovnog obrazovanja upisuju se djeca koja do 1. travnja tekuće godine imaju navršenih šest godina života.
+(2) Iznimno od stavka 1. ovoga članka, a na zahtjev roditelja, sukladno rješenju ureda državne uprave, odnosno Gradskog ureda, u prvi razred može se upisati dijete koje do 31. ožujka tekuće godine nema navršenih šest godina.
+(3) Iznimno od stavka 1. ovoga članka, a na zahtjev stručnog povjerenstva škole, sukladno rješenju ureda državne uprave, odnosno Gradskog ureda, djetetu se može odgoditi upis u prvi razred osnovne škole za jednu školsku godinu.
+(4) Dijete, odnosno učenik kojemu je zbog teškog oštećenja zdravlja onemogućeno redovito školovanje ili koje ima višestruke teškoće, a čiji su roditelji u skladu s posebnim propisima stekli pravo na status roditelja njegovatelja, odnosno dijete koje je s obzirom na vrstu, stupanj i težinu oštećenja steklo pravo na skrb izvan vlastite obitelji radi osposobljavanja na samozbrinjavanje u domu socijalne skrbi ili pravo na pomoć i njegu u kući, u sklopu kojeg se osigurava pružanje usluga psihosocijalne pomoći, može se privremeno osloboditi upisa u prvi razred osnovne škole, odnosno privremeno osloboditi već započetog školovanja.
+(5) Za dijete, odnosno učenika iz stavka 4. ovoga članka roditelj podnosi zahtjev uredu državne uprave, odnosno Gradskom uredu.
+Odredbom članka 4. Zakona o izmjenama i dopunama Zakona o odgoju i obrazovanju u osnovnoj i srednjoj školi (»Narodne novine«, br. 90/11.) stupio na snagu 10. kolovoza 2011., u stavku 2. iza riječi: »života« brisana je točka i dodane su riječi: »ili odgoditi upis u prvi razred za jednu školsku godinu«.
+Odredbom članka 4. Zakona o izmjenama i dopunama Zakona o odgoju i obrazovanju u osnovnoj i srednjoj školi (»Narodne novine«, br. 90/11.) stupio na snagu 10. kolovoza 2011., stavak 3. je izmijenjen.
+Odredbom članka 4. Zakona o izmjenama i dopunama Zakona o odgoju i obrazovanju u osnovnoj i srednjoj školi (»Narodne novine«, br. 90/11.) stupio na snagu 10. kolovoza 2011., iza stavka 3. dodan je stavak 4.
+Odredbom članka 4. Zakona o izmjenama i dopunama Zakona o odgoju i obrazovanju u osnovnoj i srednjoj školi (»Narodne novine«, br. 86/12.) stupio na snagu 4. kolovoza 2012., članak 19. je izmijenjen.

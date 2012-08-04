@@ -1,11 +1,6 @@
 # Članak 20.
-(1) Prije upisa u prvi razred osnovne škole utvrđuje se psihofizičko stanje
-djeteta.
-(2) Psihofizičko stanje djeteta, odnosno učenika utvrđuje se radi redovitog ili
-prijevremenog upisa ili odgode upisa u prvi razred osnovne škole, odnosno radi
-utvrđivanja primjerenog školovanja.
-(3) Psihofizičko stanje djeteta, odnosno učenika utvrđuje stručno povjerenstvo.
-(4) Postupak utvrđivanja psihofizičkog stanja djeteta, odnosno učenika iz stavka
-2. ovog članka, te sastav stručnog povjerenstava iz stavka 3. ovog članka
-propisuje ministar nadležan za obrazovanje (u daljnjem tekstu: ministar), uz
-prethodnu suglasnost ministra nadležnog za poslove zdravstva.
+(1) Prije redovitog upisa u prvi razred osnovne škole stručno povjerenstvo škole utvrđuje psihofizičko stanje djeteta.
+(2) Psihofizičko stanje djeteta, odnosno učenika utvrđuje se i radi prijevremenog upisa, odgode ili privremenog oslobađanja od upisa u prvi razred osnovne škole, privremenog oslobađanja od već započetog školovanja i radi utvrđivanja primjerenog školovanja.
+(3) Psihofizičko stanje djeteta, odnosno učenika iz stavka 2. ovoga članka utvrđuje stručno povjerenstvo ureda državne uprave, odnosno Gradskog ureda.
+(4) Postupak utvrđivanja psihofizičkog stanja djeteta, odnosno učenika iz stavka 1. i 2. ovoga članka te sastav stručnih povjerenstava iz stavka 1. i 3. ovoga članka propisuje ministar nadležan za obrazovanje (u daljnjem tekstu: ministar), uz prethodnu suglasnost ministra nadležnog za poslove zdravlja.
+Odredbom članka 5. Zakona o izmjenama i dopunama Zakona o odgoju i obrazovanju u osnovnoj i srednjoj školi (»Narodne novine«, br. 86/12.) stupio na snagu 4. kolovoza 2012., članak 20. je izmijenjen.

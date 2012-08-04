@@ -1,14 +1,4 @@
 # Članak 165.
-(1) Danom stupanja na snagu ovog Zakona prestaje važiti Zakon o osnovnom
-školstvu (»Narodne novine«, br. 59/90., 26/93., 27/93., 29/94., 7/96., 59/01.,
-114/01. i 76/05.), s tim da se odredbe članka 71.a stavka 1., 2., 3. i 4. te
-članka 88. stavka 2. primjenjuju u postupcima izbora ravnatelja do stupanja na
-snagu odredbi članka 126. i 128. ovog Zakona.
-(2) Danom stupanja na snagu ovog Zakona prestaje važiti Zakon o srednjem
-školstvu (»Narodne novine«, br. 19/92., 26/93., 27/93., 50/95., 59/01., 114/01.
-i 81/05.), s tim da se odredbe članka 48. stavka 1. i članka 78. stavka 1.
-primjenjuju u postupcima izbora ravnatelja do stupanja na snagu članka 126. i
-128. ovog Zakona.
-(3) Danom stupanja na snagu ovog Zakona prestaje se primjenjivati odredba članka
-28. Zakona o knjižnicama (»Narodne novine«, br. 105/97., 5/98-isp. i 104/00.) na
-školske knjižnice.
+(1) Danom stupanja na snagu ovog Zakona prestaje važiti Zakon o osnovnom školstvu (»Narodne novine«, br. 59/90., 26/93., 27/93., 29/94., 7/96., 59/01., 114/01. i 76/05.), s tim da se odredbe članka 71.a stavka 1., 2., 3. i 4. te članka 88. stavka 2. primjenjuju u postupcima izbora ravnatelja do stupanja na snagu odredbi članka 126. i 128. ovog Zakona.
+(2) Danom stupanja na snagu ovog Zakona prestaje važiti Zakon o srednjem školstvu (»Narodne novine«, br. 19/92., 26/93., 27/93., 50/95., 59/01., 114/01. i 81/05.), s tim da se odredbe članka 48. stavka 1. i članka 78. stavka 1. primjenjuju u postupcima izbora ravnatelja do stupanja na snagu članka 126. i 128. ovog Zakona.
+(3) Danom stupanja na snagu ovog Zakona prestaje se primjenjivati odredba članka 28. Zakona o knjižnicama (»Narodne novine«, br. 105/97., 5/98 - isp. i 104/00.) na školske knjižnice.

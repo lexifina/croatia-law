@@ -1,6 +1,2 @@
 # Članak 154.
-Radnici u školskim ustanovama koji su stekli visoku, odnosno višu stručnu spremu
-sukladno propisima koji su bili na snazi prije stupanja na snagu Zakona o
-znanstvenoj djelatnosti i visokom obrazovanju (»Narodne novine«, br. 123/03.),
-imaju sva prava iz ovog Zakona kao i osobe koje su završile odgovarajuću razinu
-obrazovanja prema Zakonu o znanstvenoj djelatnosti i visokom obrazovanju.
+Radnici u školskim ustanovama koji su stekli visoku, odnosno višu stručnu spremu sukladno propisima koji su bili na snazi prije stupanja na snagu Zakona o znanstvenoj djelatnosti i visokom obrazovanju (»Narodne novine«, br. 123/03.), imaju sva prava iz ovog Zakona kao i osobe koje su završile odgovarajuću razinu obrazovanja prema Zakonu o znanstvenoj djelatnosti i visokom obrazovanju.

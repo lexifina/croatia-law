@@ -1,14 +1,4 @@
 # Članak 44.
-(1) Učenici za koje je obrazovanje prema ovom Zakonu obvezno i koji imaju
-boravak na području Republike Hrvatske, a djeca su državljanina države članice
-Europske unije koji obavlja ili je obavljao samostalnu djelatnost, odnosno koji
-je zaposlen ili je bio zaposlen na području Republike Hrvatske, imaju pravo
-stjecati znanja iz materinskog jezika i kulture države svojeg podrijetla.
-(2) Ured državne uprave odnosno Gradski ured prema mjestu boravka učenika iz
-stavka 1. ovog članka dužan je osigurati, u skladu s mogućnostima i u suradnji s
-osnivačima škola i državom podrijetla učenika, potporu nastave materinskog
-jezika i kulture države podrijetla učenika. Ured državne uprave odnosno Gradski
-ured dužan je osigurati i potporu za pripremu učitelja i nastavnika koji će
-provoditi nastavu materinskog jezika i kulture države podrijetla učenika.
-(3) Programe i način provedbe nastave materinskog jezika i kulture države
-podrijetla iz stavka 1. i 2. ovog članka propisuje ministar.
+(1) Učenici za koje je obrazovanje prema ovom Zakonu obvezno i koji imaju boravak na području Republike Hrvatske, a djeca su državljanina države članice Europske unije koji obavlja ili je obavljao samostalnu djelatnost, odnosno koji je zaposlen ili je bio zaposlen na području Republike Hrvatske, imaju pravo stjecati znanja iz materinskog jezika i kulture države svojeg podrijetla.
+(2) Ured državne uprave odnosno Gradski ured prema mjestu boravka učenika iz stavka 1. ovog članka dužan je osigurati, u skladu s mogućnostima i u suradnji s osnivačima škola i državom podrijetla učenika, potporu nastave materinskog jezika i kulture države podrijetla učenika. Ured državne uprave odnosno Gradski ured dužan je osigurati i potporu za pripremu učitelja i nastavnika koji će provoditi nastavu materinskog jezika i kulture države podrijetla učenika.
+(3) Programe i način provedbe nastave materinskog jezika i kulture države podrijetla iz stavka 1. i 2. ovog članka propisuje ministar.

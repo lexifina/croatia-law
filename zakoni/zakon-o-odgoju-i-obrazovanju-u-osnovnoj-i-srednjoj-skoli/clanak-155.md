@@ -1,14 +1,4 @@
 # Članak 155.
-(1) Učitelji predmetne nastave u osnovnoj školi koji su stekli višu stručnu
-spremu odgovarajuće vrste do 7. siječnja 1991., a koji se na dan stupanja na
-snagu ovog Zakona zateknu u osnovnoj školi u radnom odnosu na neodređeno
-vrijeme, nastavljaju s obavljanjem poslova svog radnog mjesta.
-(2) Učitelji razredne nastave u osnovnoj školi koji su stekli višu stručnu
-spremu odgovarajuće vrste završetkom dvogodišnjeg studija razredne nastave
-upisanog najkasnije do 1992. godine, a koji se na dan stupanja na snagu ovog
-Zakona zateknu u osnovnoj školi u radnom odnosu na neodređeno vrijeme,
-nastavljaju s obavljanjem poslova svog radnog mjesta.
-(3) Učitelji iz stavka 1. ovog članka, kao i učitelji s višom stručnom spremom
-stečenom prema uvjetima iz stavka 1. i 2. ovog članka, a koji na dan stupanja na
-snagu ovog Zakona nisu zatečeni u radnom odnosu u osnovnoj školi, mogu zasnovati
-radni odnos u osnovnoj školi.
+(1) Učitelji predmetne nastave u osnovnoj školi koji su stekli višu stručnu spremu odgovarajuće vrste do 7. siječnja 1991., a koji se na dan stupanja na snagu ovog Zakona zateknu u osnovnoj školi u radnom odnosu na neodređeno vrijeme, nastavljaju s obavljanjem poslova svog radnog mjesta.
+(2) Učitelji razredne nastave u osnovnoj školi koji su stekli višu stručnu spremu odgovarajuće vrste završetkom dvogodišnjeg studija razredne nastave upisanog najkasnije do 1992. godine, a koji se na dan stupanja na snagu ovog Zakona zateknu u osnovnoj školi u radnom odnosu na neodređeno vrijeme, nastavljaju s obavljanjem poslova svog radnog mjesta.
+(3) Učitelji iz stavka 1. ovog članka, kao i učitelji s višom stručnom spremom stečenom prema uvjetima iz stavka 1. i 2. ovog članka, a koji na dan stupanja na snagu ovog Zakona nisu zatečeni u radnom odnosu u osnovnoj školi, mogu zasnovati radni odnos u osnovnoj školi.

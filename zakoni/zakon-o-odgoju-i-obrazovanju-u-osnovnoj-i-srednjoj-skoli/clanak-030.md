@@ -1,4 +1,3 @@
-## Alternativni program
 # Članak 30.
-U školi se može ostvarivati odgojno-obrazovni rad prema alternativnim nastavnim
-programima, odnosno metodama, u skladu s ovim Zakonom.
+U školi se može ostvarivati odgojno-obrazovni rad prema alternativnim nastavnim programima, odnosno metodama, u skladu s ovim Zakonom i uz prethodno pozitivno mišljenje agencije nadležne za poslove odgoja i obrazovanja, odnosno strukovnog obrazovanja.
+Odredbom članaka 11. Zakona o izmjenama i dopunama Zakona o odgoju i obrazovanju u osnovnoj i srednjoj školi (»Narodne novine«, br. 86/12.) stupio na snagu 4. kolovoza 2012., u članku 30. iza riječi: »u skladu s ovim Zakonom« dodane su riječi: »i uz prethodno pozitivno mišljenje agencije nadležne za poslove odgoja i obrazovanja, odnosno strukovnog obrazovanja«.
