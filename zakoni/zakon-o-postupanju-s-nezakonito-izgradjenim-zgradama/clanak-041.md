@@ -1,0 +1,4 @@
+# Članak 41.
+(1) Geodetski elaborat za evidentiranje podataka o zgradama, odnosno posebna geodetska podloga izrađena po ovlaštenoj osobi za potrebe donošenja rješenja o izvedenom stanju na temelju Zakona o postupanju s nezakonito izgrađenim zgradama (»Narodne novine«, br. 90/11.) smatraju se u smislu i za potrebe ovoga Zakona geodetskim snimkom.
+(2) Arhitektonska snimka izrađena na temelju Zakona o postupanju s nezakonito izgrađenim zgradama (»Narodne novine«, br. 90/11.) smatra se arhitektonskom snimkom izrađenom na temelju ovoga Zakona.
+(3) Dokazi o ispunjenom bitnom zahtjevu mehaničke otpornosti i stabilnosti izvedeni po ovlaštenom inženjeru građevinarstva za potrebe ozakonjenja zgrade na temelju Zakona o postupanju s nezakonito izgrađenim zgradama (»Narodne novine«, br. 90/11.) smatraju se u smislu i za potrebe ovoga Zakona izjavom ovlaštenog inženjera građevinarstva da nezakonito izgrađena zgrada ispunjava bitni zahtjev mehaničke otpornosti i stabilnosti.

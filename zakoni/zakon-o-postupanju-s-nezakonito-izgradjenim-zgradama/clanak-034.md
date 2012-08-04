@@ -1,0 +1,5 @@
+# Članak 34.
+(1) Nezavršena zgrada, odnosno nezavršeni dio zgrade stambene namjene, poslovne namjene koja nije proizvodna ili namijenjena za obavljanje isključivo poljoprivredne djelatnosti, za koju je doneseno rješenje o izvedenom stanju može se bez lokacijske dozvole, odnosno rješenja o uvjetima građenja završiti u okviru ozakonjenih gabarita te se na istoj može izvesti fasada te ravni, kosi ili zaobljeni krov bez nadozida. Za završetak zgrade, odnosno dijela zgrade druge namjene potrebno je u skladu s posebnim zakonom ishoditi rješenje o uvjetima građenja, odnosno lokacijsku dozvolu.
+(2) Izvođenju radova na završavanju zgrade iz stavka 1. ovoga članka može se pristupiti nakon što se u skladu s posebnim zakonom izradi glavni projekt, odnosno ishodi potvrda glavnog projekta.
+(3) Zgrada, odnosno dio zgrade iz stavka 1. ovoga članka može se priključiti na komunalne vodne građevine, na elektroenergetsku mrežu i drugu infrastrukturu sukladno posebnim zakonima.
+(4) Zgrada, odnosno dio zgrade iz stavka 1. ovoga članka smatra se zgradom, odnosno dijelom zgrade za koju je izdan akt za građenje.

@@ -1,0 +1,2 @@
+# Članak 44.
+Jedinice lokalne samouprave će objaviti prvi javni poziv na svojoj internetskoj stranici vlasnicima/investitorima nezakonito izgrađenih zgrada s odgovarajućim informacijama radi podnošenja zahtjeva za izdavanje rješenja o izvedenom stanju u roku od osam dana od dana stupanja na snagu ovoga Zakona te će isti objavljivati jednom mjesečno na lokalno uobičajeni način sve do 30. lipnja 2013.
