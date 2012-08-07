@@ -1,0 +1,16 @@
+# Članak 8.
+(1) Poslovi izrade inventara, izvješća o inventaru stakleničkih plinova i zajedničkog formata za izvješćivanje obuhvaćaju:
+- preliminarni izračun svih antropogenih emisija iz izvora i uklanjanja pomoću odliva stakleničkih plinova u skladu s metodologijom propisanom važećim smjernicama Okvirne konvencije, smjernicama Međuvladinog tijela za klimatske promjene, Uputama za izvješćivanje o emisijama stakleničkih plinova i na temelju procijenjenih podataka o djelatnostima,
+- izračun svih antropogenih emisija iz izvora i uklanjanja pomoću odliva stakleničkih plinova u skladu s metodologijom propisanom važećim smjernicama Okvirne konvencije, smjernicama Međuvladinog tijela za klimatske promjene, Uputama za izvješćivanje o emisijama stakleničkih plinova i na temelju podataka o djelatnostima iz članka 9. ove Uredbe,
+- izračun svih antropogenih emisija iz izvora indirektnih stakleničkih plinova u skladu s metodologijom propisanom važećim smjernicama Konvencije o prekograničnom prijenosu onečišćenja na velikim udaljenostima,
+- kvantitativnu procjenu nesigurnosti izračuna iz alineje 1. ovoga članka za svaku kategoriju izvora i uklanjanja emisija stakleničkih plinova kao i za inventar u cjelini, u skladu sa smjernicama Međuvladinog tijela za klimatske promjene,
+- identifikaciju glavnih kategorija izvora emisije i uklanjanja stakleničkih plinova,
+- ponovni izračun emisija i uklanjanja stakleničkih plinova u slučajevima unaprjeđenja metodologije, faktora emisije ili podataka o djelatnostima, uključivanja novih kategorija izvora i odliva ili primjene metoda usklađivanja s obrazloženjima,
+- opis uspostavljenih i planiranih zakonodavnih, institucionalnih, organizacijskih i postupovnih mehanizama za izradu inventara stakleničkih plinova i njegova unaprjeđenja,
+- dodatne informacije sukladno odlukama Kyotskog protokola, uključujući informacije o: izračunu emisija ili uklanjanja stakleničkih plinova iz obveznih i izabranih aktivnosti sektora korištenja zemljišta, promjena u korištenju zemljišta i šumarstva, promjenama u nacionalnom sustavu, promjenama u registru emisija stakleničkih plinova i mjerama koje se provode s ciljem smanjenja nepovoljnog utjecaja provedbe politike i mjera smanjenja emisija na države čije gospodarstvo je osjetljivo na provedbu mjera ublaženja klimatskih promjena
+- provedba i izvješćivanje o postupcima kontrole kvalitete u skladu s planom kontrole i osiguranja kvalitete,
+- priprema izvješća o inventaru stakleničkih plinova i zajedničkog formata za izvješćivanje uključujući i sve dodatne zahtjeve u skladu s Okvirnom konvencijom i pratećim međunarodnim ugovorima i odlukama,
+- izrada prioritetnih, dodatnih i zamjenskih pokazatelja,
+- suradnja sa stručnim tijelom Tajništva Okvirne konvencije i Europske komisije za potrebe tehničkog pregleda i ocjene Izvješća o inventaru stakleničkih plinova i zajedničkog formata za izvješćivanje.
+(2) Inventar emisija stakleničkih plinova, izvješće o inventaru emisija stakleničkih plinova i zajednički format izvješćivanja izrađuje se u skladu s važećim smjernicama i uputama Okvirne konvencije i Međuvladinog tijela za klimatske promjene koje Ministarstvo objavljuje na svojim internetskim stranicama.
+(3) Popis pokazatelja iz stavka 1. podstavka 11. ovoga članka Ministarstvo objavljuje na svojim internetskim stranicama.

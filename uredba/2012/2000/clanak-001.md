@@ -1,0 +1,3 @@
+## I. OPĆE ODREDBE
+# Članak 1.
+Ovom se Uredbom propisuje: popis stakleničkih plinova, način i metodologija praćenja emisija stakleničkih plinova, podatke o emisijama stakleničkih plinova, rokove za izradu i dostavu izvješća Tajništvu Okvirne konvencije i Europskoj komisiji, način izrade inventara (izračuna) emisije stakleničkih plinova, način verificiranja izvješća i način i rokove dostavljanja podataka Agenciji za zaštitu okoliša, način praćenja ispunjenja nacionalne godišnje kvote, način trgovanja s dijelom nacionalne godišnje kvote, način korištenja jedinica proizašlih iz provedbe projektnih aktivnosti, način izvješćivanja Europske komisije o ispunjenju obveze ograničenja emisija do visine nacionalne godišnje kvote.

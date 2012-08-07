@@ -1,0 +1,4 @@
+## III. NACIONALNI SUSTAV ZA PRAĆENJE PROVEDBE POLITIKE I MJERA ZA SMANJENJE EMISIJA STAKLENIČKIH PLINOVA I PROJEKCIJE EMISIJA STAKLENIČKIH PLINOVA
+# Članak 12.
+(1) Nacionalni sustav za politiku, mjere i projekcije uspostavlja se s ciljem praćenja i izvješćivanja o efektima politike i mjera za smanjenje emisija i povećanje odliva stakleničkih plinova s posebnim naglaskom na sektore koji nisu pokriveni sustavom trgovanja emisijskim jedinicama stakleničkih plinova, izvješćivanje o projekcijama emisija i korištenju financijskih sredstava od dražbi.
+(2) Nacionalnim sustavom za politiku, mjere i projekcije osigurava se kontrola i preporuke dodatnih mjera s ciljem ispunjenja obveze smanjenja emisija i povećanje odliva stakleničkih plinova s posebnim naglaskom na ograničenja emisije stakleničkih plinova iz sektora, koji nisu pokriveni s sustavom trgovanja stakleničkih plinova, do razine nacionalne godišnje kvote.
