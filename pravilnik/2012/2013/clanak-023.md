@@ -1,0 +1,3 @@
+# Članak 23.
+Pri prosudbi ugroženosti svakog pojedinog objekta u kojem je smješten sud potrebno je posebno voditi računa o broju zaposlenika i dužnosnika, broju stranaka i posjetitelja, lokaciji, okruženju te građevinskim i ostalim svojstvima objekta kao i radnom vremenu suda, o ispravama i predmetima koje se u objektu nalaze te stupnju rizika od njihovog otuđenja ili uništenja.
+Priznata pravila u provedbi tehničkog osiguranja, u smislu ovog Pravilnika, su pravila iz domaćih i stranih propisa ili u praksi provjereni načini pomoću kojih se sprječavaju protupravne radnje usmjerene prema štićenim osobama ili imovini, odnosno smanjuje ili otklanja opasnost od poduzimanja takvih radnji.

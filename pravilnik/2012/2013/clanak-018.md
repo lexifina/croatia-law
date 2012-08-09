@@ -1,0 +1,3 @@
+# Članak 18.
+O primjeni sredstava prisile službenik pravosudne policije dužan je podnijeti pisano izvješće predsjedniku suda u kojem obavlja poslove osiguranja i putem nadređenog službenika, čelniku ustrojstvene jedinice Ministarstva pravosuđa nadležne za osiguranje pravosudnih tijela.
+Izvješće iz stavka 1. ovog članka sadrži: ime i prezime službenika pravosudne policije, vrijeme, mjesto, razloge i okolnosti uporabe sredstava prisile, ime i osobne podatke osobe prema kojoj su sredstva prisile primijenjena, nastale posljedice, organiziranoj ili ponuđenoj organizaciji prve pomoći, kao i druge bitne podatke okolnosnog događaja.

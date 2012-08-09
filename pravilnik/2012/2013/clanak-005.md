@@ -1,0 +1,3 @@
+# Članak 5.
+Službenik pravosudne policije je u obavljanju službe ovlašten, nakon utvrđenja razloga ulaska, utvrditi identitet i izvršiti pregled osoba koje ulaze i izlaze iz prostora suda, ili se nalaze u prostoru suda, udaljiti osobe koje narušavaju propisani red te zadržati i predati policijskim službenicima Ministarstva unutarnjih poslova osobe koje je zatekao u činjenju kaznenog djela.
+U obavljanju poslova osiguranja suda i pri primjeni ovlasti iz prethodnog stavka službenik pravosudne policije ovlašten je uporabiti vatreno oružje i druga sredstva prisile pod uvjetima propisanim ovim Pravilnikom.
