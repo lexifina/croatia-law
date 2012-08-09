@@ -1,0 +1,7 @@
+## Službene kontrole
+# Članak 6.
+(1) Osobe ovlaštene za provođenje službenih kontrola osiguravaju da se nad svim proizvodima iz članka 1. ovoga Pravilnika provede dokumentacijski pregled kako bi se osiguralo ispunjavanje uvjeta uvoza propisanih člankom 5. ovoga Pravilnika.
+(2) U slučaju kada pošiljka hrane ili hrane za životinje, osim onih opisanih u članku 5. stavku 2. ovoga Pravilnika, nije popraćena Zdravstvenim certifikatom i analitičkim izvješćem propisanim člankom 5. stavkom 1. ovoga Pravilnika ta se pošiljka mora vratiti u zemlju podrijetla ili se mora uništiti.
+(3) Kada je pošiljka popraćena Zdravstvenim certifikatom i analitičkim izvješćem propisanim člankom 5. ovoga Pravilnika, osoba ovlaštena za provođenje službenih kontrola uzima uzorak radi ispitivanja u skladu s Dodatkom 4. ovoga Pravilnika sa 100%-tnom učestalošću na prisutnost nedopuštenih genetički modificiranih organizama (GMO). Ako se pošiljka sastoji od nekoliko serija ili lota, uzorkovanje i ispitivanja se provode za svaku seriju ili lot.
+(4) Osoba ovlaštena za provođenje službene kontrole može dopustiti daljnji prijevoz pošiljke prije dobivanja rezultata fizičkog pregleda pošiljke. U tom slučaju, pošiljka mora biti pod stalnim nadzorom te se sa pošiljkom ni na koji način ne smije neovlašteno postupati dok se čekaju rezultati fizičkog pregleda pošiljke.
+(5) Pošiljaka se može pustiti u slobodni promet tek nakon što su provedena uzorkovanja i ispitivanja u skladu s Dodatkom 4. ovoga Pravilnika te nakon dobivanja rezultata koji su u skladu s hrvatskim propisima.
