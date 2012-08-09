@@ -1,0 +1,3 @@
+# Članak 14.
+(1) Za postrojenja hidroelektrana iz članka 4. ovoga Pravilnika, uz dokumente iz članka 11. ovoga Pravilnika zahtjevu podnositelj zahtjeva prilaže i ugovor o koncesiji za korištenje vodne snage radi proizvodnje električne energije sukladno propisima u području vodnog gospodarstva i koncesija.
+(2) Za postrojenja geotermalne elektrane iz članka 4. ovoga Pravilnika, uz dokumente iz članka 11. ovoga Pravilnika, zahtjevu podnositelj zahtjeva prilaže i ugovor o koncesiji za eksploataciju mineralnih sirovina (kada je konačna namjena korištenja mineralne i geotermalne vode u energetske svrhe) sukladno propisima u području rudarstva i koncesija.

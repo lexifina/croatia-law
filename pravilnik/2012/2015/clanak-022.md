@@ -1,0 +1,6 @@
+## V. PRIJELAZNE I ZAVRŠNE ODREDBE
+# Članak 22.
+(1) Postupci u kojima su do dana stupanja na snagu ovog Pravilnika stečena prava i obveze temeljem ishođenog prethodnog energetskog odobrenja dovršit će se prema odredbama Pravilnika o korištenju obnovljivih izvora energije i kogeneracije (»Narodne novine«, br. 67/2007).
+(2) Postupci za izdavanje energetskog odobrenja započeti do dana stupanja na snagu ovoga Pravilnika dovršit će se prema odredbama Pravilnika o korištenju obnovljivih izvora energije i kogeneracije (»Narodne novine«, br. 67/2007).
+(3) Danom stupanja na snagu ovog Pravilnika prestaje obaveza prikazivanja prvog dijela Registarskog broja (matičnog broja fizičke ili pravne osobe) Projekta te se u svim primjenama koristi skraćeni oblik koji se sastoji od četveroznamenkastog rednog broja i broja godine upisa.
+(4) Za projekte upisane u Registar OIEKPP za koje nisu sklopljeni ugovori o otkupu električne energije prema odredbama Tarifnog sustava za proizvodnju električne energije iz obnovljivih izvora energije i kogeneracije (»Narodne novine« broj 33/2007) izvršit će se usklađenje grupe postrojenja pri prvom postupku pred Ministarstvom, Agencijom, operatorom tržišta, operatorom prijenosnog sustava ili operatorom distribucijskog sustava, te će izmjena biti upisana u Registar OEIKPP temeljem izvršnog akta.

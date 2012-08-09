@@ -1,0 +1,14 @@
+# Članak 11.
+(1) Podnositelj zahtjeva za izdavanje energetskog odobrenja podnosi zahtjev na obrascu zahtjeva za izdavanje energetskog odobrenja koji je Prilog ovoga Pravilnika, te mora priložiti:
+1. izvadak iz sudskog registra, izvadak iz obrtnog registra ili drugog odgovarajućeg registra, odnosno za fizičku osobu potvrdu o prebivalištu u Republici Hrvatskoj,
+2. potvrdu porezne uprave o plaćanju svih dospjelih poreznih obveza i obveza za mirovinsko i zdravstveno osiguranje i druga javna davanja,
+3. javnobilježnički ovjerenu izjavu o nekažnjavanju koju daje fizička osoba za sebe, odnosno odgovorna osoba podnositelja zahtjeva za sebe i za pravnu osobu koju je ovlašten zastupati, iz koje je vidljivo da protiv davatelja izjave nije izrečena pravomoćna osuđujuća presuda za jedno ili više sljedećih kaznenih djela: udruživanje za počinjenje kaznenih djela, primanje mita u gospodarskom poslovanju, davanje mita u gospodarskom poslovanju, zlouporaba položaja i ovlasti, zlouporaba obavljanja dužnosti državne vlasti, protuzakonito posredovanje, primanje mita, davanje mita, prijevara, računalna prijevara, prijevara u gospodarskom poslovanju i prikrivanje protuzakonito dobivenog novca. Izjava ne smije biti starija od šest mjeseci računajući od dana podnošenja zahtjeva za izdavanje energetskog odobrenja.
+4. analizu opravdanosti izgradnje postrojenja i priključka na elektroenergetsku mrežu s tehno-ekonomskim podacima i podacima prostornog uređenja dobivenu na temelju podataka prostornog uređenja i tehno-ekonomskih podataka Operatora distribucijskog sustava ili Operatora prijenosnog sustava,
+5. prethodnu elektroenergetsku suglasnost izdanu od nadležnog Operatora distribucijskog sustava ili Operatora prijenosnog sustava.
+6. lokacijsku dozvolu ili drugi odgovarajući akt sukladno propisima koji uređuju gradnju.
+7. grafički prilog na topografskoj karti u mjerilu 1:25.000 u kojem je podnositelj zahtjeva utvrdio minimalan potreban neprekinuti prostor razvoja projekta odnosno poziciju na kojoj se planira izgraditi postrojenje u geodetskim točkama (Gauss- Krügerova projekcija: naziv točke, x koordinata u smjeru sjevera i y koordinata u smjeru istoka te koordinata z (nadmorska visina), ukoliko je poznata):
+- za postrojenja iz članka 4. grupe 1.a.3., 1.b., 1.c., 1.e., 1.i., 2.a., 2.b., 2.d., 2.h. i 2.i. mora biti utvrđen prostor razvoja projekta, te granične geodetske točke prostora razvoja projekta,
+- za postrojenja iz članka 4. grupe 1.a.1., 1.a.2., 1.d.i., 1.d.ii., 1.f.i., 1.f.ii., 1.g., 1.h., 2.c.i., 2.c.ii., 2.c.iii., 2.c.iiii., 2.e.i., 2.e.ii., 2.f., 2.g. i 2.j. mora biti utvrđena pozicija postrojenja s jednom geodetskom točkom,
+- za postrojenja iz članka 5. mora biti utvrđena pozicija postrojenja s jednom geodetskom točkom,
+7. upravnu pristojbu u propisanom iznosu.
+(2) U svrhu utvrđivanja osnovanosti zahtjeva za izdavanje energetskog odobrenja, Ministarstvo može tražiti i dostavu drugih dokaza.

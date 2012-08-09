@@ -1,0 +1,3 @@
+# Članak 13.
+(1) Ukoliko zatraženi prostor razvoja projekta zahvaća već ranije odobreni prostor razvoja projekta, energetsko odobrenje se može izdati ako se zahtjevu priloži i suglasnost nositelja projekta koji je već ranije ishodio prethodno energetsko odobrenje ili energetsko odobrenje za dio prostora razvoja projekta koji se preklapa.
+(2) Minimalna udaljenost najbližeg vjetroagregata planirane vjetroelektrane iz članka 12. stavka 2. ovoga Pravilnika ne primjenjuje se ukoliko se zahtjevu priloži i suglasnost nositelja projekta, koji je već ranije ishodio energetsko odobrenje, na čiji se vjetroagregat odnosi propisani uvjet.
