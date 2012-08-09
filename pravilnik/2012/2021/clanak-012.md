@@ -1,0 +1,9 @@
+## Službene kontrole
+# Članak 12.
+(1) Osoba ovlaštena za provođenje službene kontrole na graničnom prijelazu mora provesti dokumentacijski pregled svih pošiljaka hrane i hrane za životinje iz članka 3. ovoga Pravilnika.
+(2) Osoba ovlaštena za provođenje službene kontrole na graničnom prijelazu mora provesti fizički i identifikacijski pregled pošiljaka hrane i hrane za životinje iz članka 3. ovoga Pravilnika uključujući i laboratorijska ispitivanja na prisutnost cezija-134 i cezija-137 na najmanje 5% pošiljaka hrane i hrane za životinje iz članka 7. stavka 3. točke d) i na najmanje 10% pošiljaka hrane i hrane za životinje iz članka 7. stavka 3. točaka b) i c) ovoga Pravilnika.
+(3) Do dobivanja rezultata laboratorijskih ispitivanja pošiljke mogu biti zadržane pod službenom kontrolom najviše pet radnih dana.
+(4) U slučaju da se rezultatima laboratorijskih ispitivanja dokaže da je jamstvo koje je dano izjavom lažno ili netočno, izjava će se smatrati nevažećom, a pošiljka hrane i hrane za životinje nesukladnom u smislu odredbi ovoga Pravilnika.
+(5) U slučaju kada se dokumentacijskim pregledom ustanovi da već postoje analitička izvješća laboratorijskih ispitivanja iz stavka 2. ovoga članka sa zadovoljavajućim rezultatima laboratorijskih analiza provedenih u nekoj od zemalja članica Europske unije, u akreditiranom laboratoriju zemlje članice, osoba ovlaštena za provođenje službenih kontrola može prihvatiti te rezultate i u tom slučaju nije potrebno ponovno provođenje istih laboratorijskih analiza.
+(6) Analitička izvješća iz stavka 5. ovoga članka moraju biti izdana od akreditiranog laboratorija.
+(7) U slučaju iz stavka 6. ovoga članka, subjekt u poslovanju s hranom ili hranom za životinje ili njegov predstavnik odgovoran za pošiljku, uz Izjavu iz Dodatka 1. ovoga Pravilnika, prilaže analitičko izvješće iz stavka 5. ovoga članka i presliku Izjave koja je dostavljena i pri uvozu iste pošiljke hrane ili hrane za životinje u Europsku uniju.

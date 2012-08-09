@@ -1,0 +1,3 @@
+## Granični prijelazi i određeno ulazno mjesto
+# Članak 10.
+Pošiljke hrane i hrane za životinje iz članka 3. ovoga Pravilnika, izuzev pošiljaka koje podliježu pregledu prema Pravilniku o načinu obavljanja veterinarskih pregleda i kontrola proizvoda životinjskog podrijetla u prometu preko granice Republike Hrvatske (»Narodne novine« br. 132/08)[1], moraju se unijeti u Republiku Hrvatsku preko određenog ulaznog mjesta (DPE) u smislu članka 2. stavka 1. točke 2. Pravilnika o povećanom broju službenih kontrola hrane i hrane za životinje neživotinjskog podrijetla koja predstavlja poznatu ili prijeteću opasnost pri uvozu Hrvatske (»Narodne novine« br. 119/10, 63/11)[2] (u daljnjem tekstu: Određeno ulazno mjesto).
