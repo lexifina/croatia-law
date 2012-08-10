@@ -1,0 +1,1 @@
+Na temelju čl. 84. st. 3. Zakona o vodama (»Narodne novine«, broj 153/09 i 130/11), ministar poljoprivrede, uz prethodno mišljenje Istarske županije od 10. kolovoza 2012. godine, klasa: 325-01/12-01/05, urbroj: 2163/1-01/8-12-14, donosi

@@ -1,0 +1,2 @@
+# Članak 3.
+Utvrđuje se da je župan Istarske županije 23. srpnja 2012. donio Odluku o ograničenju korištenja voda za potrebe javne vodoopskrbe na vodoopskrbnom području u Istarskoj županiji koja uređuje ograničenja za vode koje se isporučuju korisnicima vodnih usluga putem komunalnih građevina za javnu vodoopskrbu (»Službene novine Istarske županije«, broj 8/12; dalje u tekstu: Odluka o ograničenju korištenja voda za potrebe javne vodoopskrbe).

@@ -1,0 +1,3 @@
+# Članak 8.
+Voda iz izvorišta iz članka 1. podstavci 2. i 3. ove Odluke može se koristiti isključivo za tehnološke ili slične namjene, a jedinica lokalne samouprave je dužna na to upozoriti pojedinačnog korisnika, u pisanom obliku ili isticanjem natpisa na ploči na mjestu zahvata.
+Jedinica lokalne samouprave dužna je omogućiti pojedinačnim korisnicima količine vode iznad onih dopuštenih odlukom iz članka 7. ove Odluke, ako te količine vode postoje, na temelju potvrde koju pojedinačnim korisnicima izdaje Istarska županija, vodeći se redom prvenstva iz članka 4. Odluke o ograničenju korištenja voda za potrebe javne vodoopskrbe.

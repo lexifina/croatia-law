@@ -1,0 +1,3 @@
+# Članak 16.
+Voda iz izvorišta iz članka 1. podstavak 4. ove Odluke, može se koristiti isključivo za tehnološke i slične namjene, a isporučitelj vodne usluge je dužan na to upozoriti pojedinačnog korisnika, u pisanom obliku ili isticanjem natpisa na ploči na mjestu zahvata, na to upozoriti pojedinačnog korisnika.
+Isporučitelji vodnih usluga dužni su omogućiti pojedinačnim korisnicima količine vode iznad onih dopuštenih odlukom iz članka 15. ove Odluke, ako te količine vode postoje, na temelju potvrde koju pojedinačnim korisnicima izdaje Istarska županija, vodeći se redom prvenstva iz članka 4. Odluke o ograničenju korištenja voda za potrebe javne vodoopskrbe.

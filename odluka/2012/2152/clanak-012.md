@@ -1,0 +1,3 @@
+# Članak 12.
+Voda iz tijela površinskih voda, osim na vodozahvatima za potrebe javne vodoopskrbe, može se koristiti isključivo za tehnološke i slične namjene, a Hrvatske vode su dužne na to upozoriti pojedinačnog korisnika, u pisanom obliku ili isticanjem natpisa na ploči na mjestu zahvata.
+Hrvatske vode dužne su omogućiti pojedinačnim korisnicima količine vode iznad onih dopuštenih odlukom iz članka 11. ove Odluke, ako te količine vode postoje, na temelju potvrde koju pojedinačnim korisnicima izdaje Istarska županija, vodeći se redom prvenstva iz članka 4. Odluke o ograničenju korištenja voda za potrebe javne vodoopskrbe.
