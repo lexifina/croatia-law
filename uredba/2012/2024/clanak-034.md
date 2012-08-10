@@ -1,0 +1,23 @@
+## 7. DIO
+## POSTUPAK PODUGOVARANJA
+## Postupak podugovaranja
+# Članak 34.
+(1) Kada je odabrani ponuditelj obvezan postupati sukladno članku 33. stavcima 3. ili 7. ove Uredbe, postupak podugovaranja za sklapanje podugovora s trećim stranama provodi sukladno ovom članku.
+(2) Članovi zajednice natjecatelja ili ponuditelja koji su se udružili radi dobivanja ugovora, ili s njima povezana društva ne smatraju se trećim stranama u smislu stavka 1. ovoga članka. Ponuditelj je obvezan u svojoj ponudi navesti iscrpnu listu takvih društava. Ta lista mora se ažurirati prema svim izmjenama odnosa između društava.
+(3) Povezano društvo u smislu stavka 2. ovoga članka je svako društvo nad kojim odabrani ponuditelj ima ili može imati neposredan ili posredan prevladavajući utjecaj, ili svako društvo koje ima ili može imati prevladavajući utjecaj nad odabranim ponuditeljem ili koje kao odabrani ponuditelj podliježe prevladavajućem utjecaju drugog društva na osnovi vlasništva, financijskog udjela ili na osnovi pravila koje vrijede za društvo. Prevladavajući utjecaj društva pretpostavlja se ako to društvo, izravno ili neizravno, u odnosu na drugo društvo:
+- posjeduje većinu upisanog kapitala društva, ili
+- raspolaže većinom glasova povezanih s ulozima u društvu, ili
+- može imenovati više od polovice članova upravnog, nadzornog ili odgovarajućeg tijela za upravljanje te vođenje poslova društva.
+(4) Odabrani ponuditelj mora postupati transparentno i odnositi se prema svim potencijalnim podizvoditeljima na jednak i nediskriminirajući način.
+(5) Za sklapanje podugovora s trećim stranama odabrani ponuditelj obvezan je objaviti poziv na nadmetanje za podugovor ako je procijenjena vrijednost podugovora bez poreza na dodanu vrijednost jednaka ili veća od vrijednosti europskih pragova iz članka 6. stavka 5. ove Uredbe.
+(6) Za sklapanje podugovora s trećim stranama čija je procijenjena vrijednost manja od vrijednosti europskih pragova iz članka 6. stavka 5. ove Uredbe odabrani ponuditelj mora poštovati načela transparentnosti i tržišnog natjecanja.
+(7) Odabrani ponuditelj može objaviti poziv na nadmetanje za podugovor i ako je procijenjena vrijednost podugovora manja od vrijednosti europskih pragova iz članka 6. stavka 5. ove Uredbe.
+(8) Poziv na nadmetanje za podugovor sadrži podatke sukladno Dodatku V. ove Uredbe. Poziv na nadmetanje za podugovor može sadržavati i druge podatke koje odabrani ponuditelj smatra korisnim, ako je nužno uz suglasnost naručitelja.
+(9) Odabrani ponuditelj sastavlja i šalje poziv na nadmetanje za podugovor elektronički u skladu s formatom i postupcima za prijenos iz Dodatka VI. točke 3. Zakona o javnoj nabavi. Poziv na nadmetanje za podugovor objavljuje se sukladno tehničkim obilježjima za objavljivanje iz Dodatka VI. točke 1. a) i b) Zakona o javnoj nabavi.
+(10) Poziv na nadmetanje za podugovor objavljuje se na standardnom obrascu iz Dodatka VII. ove Uredbe. Na način, uvjete i cjenik objavljivanja standardnog obrasca za poziv na nadmetanje za podugovor primjenjuju se odredbe koje vrijede za način, uvjete i cjenik objavljivanja standardnih obrazaca za objave javne nabave. Danom pristupanja Republike Hrvatske Europskoj uniji poziv na nadmetanje za podugovor objavljuje se na standardnom obrascu koji propisuje Europska komisija.
+(11) Kada podugovor zadovoljava posebne slučajeve i okolnosti za provođenje pregovaračkog postupka javne nabave bez prethodne objave iz članaka 8. do 10. ove Uredbe, poziv na nadmetanje za podugovor nije obvezan.
+(12) Procijenjena vrijednost podugovora određuje se prema načinu izračuna procijenjene vrijednosti nabave sukladno Zakonu o javnoj nabavi.
+(13) U pozivu na nadmetanje za podugovor, odabrani ponuditelj navodi razloge isključenja i uvjete sposobnosti koje je odredio naručitelj te, ako je potrebno ostale uvjete koje će primijeniti za ocjenu sposobnosti podizvoditelja.
+(14) Uvjeti iz stavka 13. ovoga članka moraju biti objektivni, nediskriminirajući i sukladni uvjetima koje je je primjenio naručitelj za ocjenu glavnog ponuditelja za ugovor. Razina tražene sposobnosti mora biti izravno povezana i proporcionalna s predmetom podugovora.
+(15) Od odabranog ponuditelja se neće zahtijevati da sklopi podugovar s trećim stranama ako on na zadovoljavajući način naručitelju dokaže da nijedan podizvoditelj u postupku podugovaranja ili njihove ponude nisu zadovoljili uvjete navedene u pozivu na nadmetanje za podugovor, te stoga onemogućuju odabranom ponuditelju da ispuni zahtjeve određene u ugovoru o javnoj nabavi.
+(16) Kada je odabrani ponuditelj ujedno i naručitelj, za sklapanje podugovora sukladno članku 33. stavcima 3. ili 7. ove Uredbe obvezan je primjenjivati postupke javne nabave određene ovom Uredbom za sklapanje ugovora o javnoj nabavi.

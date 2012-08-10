@@ -1,0 +1,6 @@
+## Prethodna obavijest o namjeri sklapanja ugovora
+# Članak 23.
+(1) U slučaju pregovaračkog postupka javne nabave bez prethodne objave, postupka sklapanja ugovora o javnim uslugama iz Dodatka II. ove Uredbe koji se provodi sukladno članku 44. Zakona o javnoj nabavi te sklapanja ugovora koji su izuzeti od primjene ove Uredbe naručitelj može nakon odabira objaviti prethodnu obavijest o namjeri sklapanja ugovora.
+(2) U slučaju pregovaračkog postupka javne nabave bez prethodne objave te postupka sklapanja ugovora o javnim uslugama iz Dodatka II. ove Uredbe naručitelj je obvezan primijeniti rok mirovanja u trajanju od 15 dana kod nabave velike vrijednosti, odnosno deset dana kod nabave male vrijednosti, s tim da rok počinje teći od dana objave prethodne obavijesti o namjeri sklapanja ugovora.
+(3) Ako objavi prethodnu obavijest o namjeri sklapanja ugovora u slučaju ugovora koji su izuzeti od primjene ove Uredbe, naručitelj je obvezan primijeniti rok mirovanja u trajanju od 15 dana, s tim da rok počinje teći od dana objave prethodne obavijesti o namjeri sklapanja ugovora.
+(4) Početak roka mirovanja računa se od prvoga sljedećeg dana nakon dana objave prethodne obavijesti o namjeri sklapanja ugovora.

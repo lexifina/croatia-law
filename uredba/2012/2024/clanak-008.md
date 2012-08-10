@@ -1,0 +1,19 @@
+## Pregovarački postupak javne nabave bez prethodne objave kod ugovora o javnim radovima
+# Članak 8.
+Ugovor o javnim radovima smije se sklapati u pregovaračkom postupku javne nabave bez prethodne objave:
+1. kada nije dostavljena nijedna ponuda ili nijedna prikladna ponuda ili nije dostavljen nijedan zahtjev za sudjelovanje u provedenom ograničenom postupku javne nabave, pregovaračkom postupku javne nabave s prethodnom objavom ili natjecateljskom dijalogu pod uvjetom da se početni uvjeti ugovora bitno ne mijenjaju i da je Europskoj komisiji poslan zapisnik o pregledu i ocjeni inicijalnih i/ili konačnih ponuda, ako ga zatraži;
+2. ako su u provedenom ograničenom postupku javne nabave, pregovaračkom postupku javne nabave s prethodnom objavom ili u natjecateljskom dijalogu sve dostavljene ponude bile nepravilne ili neprihvatljive, pod uvjetom da:
+- se izvorni uvjeti ugovora bitno ne mijenjaju, i
+- naručitelj pozove na pregovaranje samo one ponuditelje koji su dokazali sposobnost i koji su, tijekom prethodnog ograničenog postupka javne nabave, pregovaračkog postupka javne nabave s prethodnom objavom ili natjecateljskog dijaloga, dostavili ponude u skladu s drugim formalnim zahtjevima postupka javne nabave;
+3. kada su rokovi određeni za ograničeni i pregovarački postupak javne nabave s prethodnom objavom, uključujući i rokove zbog žurnosti iz članka 24. stavka 7. ove Uredbe, nespojivi s žurnošću prouzrokovanom krizom. Primjerice, u slučaju iz članka 32. stavka 2. točke 4. ove Uredbe;
+4. kada je to nužno potrebno ako se zbog razloga iznimne žurnosti izazvane događajima koje naručitelj nije mogao predvidjeti, rokovi u ograničenom ili pregovaračkom postupku javne nabave s prethodnom objavom, uključujući i rokove zbog žurnosti iz članka 24. stavka 7. ove Uredbe, ne mogu primijeniti. Okolnosti na koje se poziva za opravdanje iznimne žurnosti ne smiju ni u kojem slučaju biti uzrokovane postupanjem naručitelja;
+5. kada zbog tehničkih razloga ili razloga povezanih sa zaštitom isključivih prava ugovor može izvršiti samo određeni gospodarski subjekt;
+6. za dodatne radove čija ukupna vrijednost ne smije preći 50% vrijednosti osnovnog ugovora, koji nisu bili uključeni u početni projekt niti u osnovni ugovor, ali su zbog nepredviđenih okolnosti postali nužni za izvođenje radova opisanih u njima, pod uvjetom da se ugovor sklopi s gospodarskim subjektom koji izvršava osnovni ugovor te:
+a) kada takve dodatne radove nije moguće tehnički ili ekonomski odvojiti od osnovnog ugovora bez znatnih poteškoća za naručitelja, ili
+b) kada su takvi radovi, iako odvojivi od izvršenja osnovnog ugovora, nužno potrebni za njegov dovršetak;
+7. za nove radove koji se sastoje u ponavljanju sličnih radova koji se dodjeljuju gospodarskom subjektu s kojim je isti naručitelj već sklopio osnovni ugovor, pod uvjetom da:
+a) su takvi radovi u skladu s osnovnim projektom za koji je bio sklopljen osnovni ugovor,
+b) je osnovni ugovor sklopljen u ograničenom postupku javne nabave, pregovaračkom postupku javne nabave s prethodnom objavom ili natjecateljskom dijalogu,
+c) je već u prvom pozivu na nadmetanje za ugovor u području obrane i sigurnosti bila predviđena mogućnost primjene pregovaračkog postupka javne nabave bez prethodne objave,
+d) je naručitelj pri određivanju procijenjene vrijednosti nabave uzeo u obzir ukupnu procjenu troškova novih radova koji će se ponavljati, i
+e) se pregovarački postupak javne nabave bez prethodne objave koristi samo unutar pet godina nakon sklapanja osnovnog ugovora, osim u iznimnim okolnostima koje se utvrđuju uzimajući u obzir očekivani životni vijek bilo kojeg isporučenog proizvoda, instalacije ili sustava, i tehničke poteškoće koje bi promjena gospodarskog subjekta mogla uzrokovati pri čemu se takve iznimne okolnosti moraju obrazložiti u zapisniku o pregledu i ocjeni inicijalnih i/ili konačnih ponuda.

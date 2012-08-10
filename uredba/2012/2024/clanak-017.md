@@ -1,0 +1,10 @@
+## Okvirni sporazum
+# Članak 17.
+(1) Za potrebe sklapanja okvirnog sporazuma naručitelj provodi ograničeni postupak, pregovarački postupak javne nabave, natjecateljski dijalog ili postupak opisan u članku 44. Zakona o javnoj nabavi za usluge iz Dodatka II. ove Uredbe.
+(2) Naručitelj može sklopiti okvirni sporazum s jednim ili više gospodarskih subjekata. Gospodarske subjekte koji će biti strane okvirnog sporazuma naručitelj odabire primjenom kriterija za odabir ponude sukladno članku 29. ove Uredbe.
+(3) Ako naručitelj namjerava sklopiti okvirni sporazum s više gospodarskih subjekata, tada u pozivu na nadmetanje za ugovor u području obrane i sigurnosti i dokumentaciji za nadmetanje navodi broj gospodarskih subjekata koji će biti strane okvirnog sporazuma.
+(4) Okvirni sporazum s više gospodarskih subjekata sklapa se s najmanje tri gospodarska subjekta. Ako naručitelj ne dobije unaprijed određeni broj sposobnih gospodarskih subjekata i/ili valjanih ponuda koje zadovoljavaju kriterije za odabir ponude, naručitelj smije sklopiti okvirni sporazum s manjim brojem gospodarskih subjekata, odnosno i s jednim.
+(5) Okvirni sporazum smije se sklopiti na razdoblje do sedam godina, osim u iznimnim okolnostima koje se utvrđuju uzimajući u obzir očekivani životni vijek bilo kojeg isporučenog proizvoda, instalacije ili sustava, i tehničke poteškoće koje bi promjena gospodarskog subjekta mogla uzrokovati.
+(6) Naručitelj je obvezan u pozivu na nadmetanje za ugovor u području obrane i sigurnosti, u dokumentaciji za nadmetanje i u zapisniku o pregledu i ocjeni ponuda obrazložiti iznimne okolnosti iz stavka 5. ovoga članka koje opravdavaju trajanje okvirnog sporazuma duže od sedam godina.
+(7) Na postupak sklapanja ugovora o javnoj nabavi na temelju okvirnog sporazuma primjenjuju se odgovarajuće odredbe Zakona o javnoj nabavi.
+(8) Pri sklapanju ugovora koji se temelje na okvirnom sporazumu strane ne smiju mijenjati bitne uvjete okvirnog sporazuma, posebice u slučaju okvirnog sporazuma sklopljenim s jednim gospodarskim subjektom u kojem su određeni svi uvjeti za sklapanje ugovora o javnoj nabavi.

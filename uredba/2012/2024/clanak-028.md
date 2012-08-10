@@ -1,0 +1,30 @@
+## 5. DIO
+## TEHNIČKE SPECIFIKACIJE I KRITERIJI ZA ODABIR PONUDE
+## Tehničke specifikacije
+# Članak 28.
+(1) Tehničke specifikacije, kako su definirane u Dodatku III. točki 1. ove Uredbe, određuju se u pozivu na nadmetanje za ugovor u području obrane i sigurnosti, dokumentaciji za nadmetanje, opisnoj dokumentaciji ili dodatnoj dokumentaciji.
+(2) Tehničke specifikacije moraju omogućiti jednak pristup ponuditeljima i ne smiju imati učinak stvaranja neopravdanih prepreka nadmetanju. Tehničke specifikacije moraju omogućiti podnošenje ponuda koje odražavaju različitost tehničkih rješenja.
+(3) Uz poštovanje obveznih nacionalnih tehničkih pravila, uključujući pravila vezana za sigurnost proizvoda, ili tehničkih zahtjeva koje Republika Hrvatska mora ispuniti prema međunarodnim normizacijskim sporazumima kako bi se garantirala interoperabilnost koju zahtjevaju takvi sporazumi, pod uvjetom da su u skladu s pravom Europske unije, tehničke specifikacije se formuliraju:
+1. ili upućivanjem na tehničke specifikacije definirane u Dodatku III. ove Uredbe, pri čemu svaka uputa mora biti popraćena izrazom »ili jednakovrijedno«, i uz uvažavanje sljedećeg redosljeda, na:
+a) nacionalne civilne norme kojima su prihvaćene europske norme,
+b) europska tehnička odobrenja,
+c) zajedničke civilne tehničke specifikacije,
+d) nacionalne civilne norme kojima su prihvaćene međunarodne norme,
+e) ostale međunarodne civilne norme,
+f) druge tehničke referentne sustave koje su utvrdila europska normizacijska tijela ili, ako oni ne postoje, druge nacionalne civilne norme, nacionalna tehnička odobrenja ili nacionalne tehničke specifikacije koje se odnose na projektiranje, izračun i izvođenje radova te uporabu proizvoda;
+g) civilne tehničke specifikacije koje proizlaze iz industrije i široko su priznate od industrije, ili
+h) nacionalne obrambene norme definirane u Dodatku III. točki 3. ove Uredbe i specifikacije obrambenih materijala sličnih tim normama;
+2. ili u obliku izvedbenih ili funkcionalnih zahtjeva koji mogu uključivati karakteristike koje se odnose na zaštitu okoliša povezane s predmetom nabave, pri čemu parametri moraju biti dovoljno precizni za ponuditelje da dobiju jasnu predodžbu o predmetu nabave, a za naručitelje da sklope ugovor;
+3. ili u obliku izvedbenih ili funkcionalnih zahtjeva iz točke 2. ovoga stavka, s uputom na specifikacije iz točke 1. ovoga stavka kao sredstvom pretpostavke sukladnosti s takvim izvedbenim ili funkcionalnim zahtjevima;
+4. ili upućivanjem na specifikacije iz točke 1. ovoga stavka za određene karakteristike, te upućivanjem na izvedbene ili funkcionalne zahtjeve iz točke 2. ovoga stavka za ostale karakteristike.
+(4) Ako naručitelj koristi mogućnost upućivanja na specifikacije iz stavka 3. točke 1. ovoga članka, on ne smije odbiti ponudu na temelju toga što ponuđena roba i usluge nisu u skladu sa specifikacijama na koje je uputio ako ponuditelj u ponudi na zadovoljavajući način naručitelju, bilo kojim prikladnim sredstvom, dokaže da rješenja koja predlaže na jednakovrijedan način zadovoljavaju zahtjeve određene tehničkim specifikacijama. Ako naručitelj odbije ponudu obvezan je u odluci o odabiru navesti razloge za odbijanje ponude zbog nejednakovrijednosti.
+(5) Ako naručitelj koristi mogućnost upućivanja na specifikacije iz stavka 3. ovoga članka u obliku izvedbenih ili funkcionalnih zahtjeva, on ne smije odbiti ponudu za radove, robu ili usluge koja odgovara nacionalnoj normi kojom se prihvaća europska norma, europskom tehničkom odobrenju, zajedničkoj tehničkoj specifikaciji, međunarodnoj normi ili tehničkom referentnom sustavu koji je utvrdilo europsko normizacijsko tijelo ako se te specifikacije odnose na izvedbene ili funkcionalne zahtjeve koje je naručitelj postavio. Ponuditelj mora u ponudi na zadovoljavajući način naručitelju, bilo kojim prikladnim sredstvom dokazati da radovi, roba ili usluge koji odgovaraju normi, udovoljavaju izvedbenim ili funkcionalnim zahtjevima naručitelja. Ako naručitelj odbije ponudu obvezan je u odluci o odabiru navesti razloge za odbijanje ponude zbog neudovoljavanja izvedbenim ili funkcionalnim zahtjevima.
+(6) Ako naručitelj određuje karakteristike koje se odnose na zaštitu okoliša u obliku izvedbenih ili funkcionalnih zahtjeva iz stavka 3. točke 2. ovoga članka, on može koristiti detaljne specifikacije ili, po potrebi, njihove dijelove, kako su definirane europskim, nacionalnim, višenacionalnim, ili bilo kojim drugim ekološkim oznakama, pod uvjetom da su:
+1. te specifikacije prikladne za definiranje značajki robe ili usluga koje su predmet nabave,
+2. zahtjevi za oznaku sastavljeni na temelju znanstvenih podataka,
+3. ekološke oznake prihvaćene na temelju postupka u kojem mogu sudjelovati sve zainteresirane strane, kao što su vladina tijela, potrošači, proizvođači, distributeri i organizacije za zaštitu okoliša, i
+4. dostupne svim zainteresiranim stranama.
+(7) Naručitelj može naznačiti da se za one proizvode i usluge koje nose ekološku oznaku pretpostavlja da zadovoljavaju tehničke specifikacije određene u dokumentaciji za nadmetanje. Naručitelj mora prihvatiti bilo koje drugo prikladno sredstvo dokazivanja.
+(8) Prikladnim sredstvom u smislu ovoga članka može se smatrati tehnička dokumentacija proizvođača ili ispitni izvještaj priznatoga tijela.
+(9) Priznata tijela u smislu ovoga članka su ispitni i umjerni laboratoriji, te potvrdbena i inspekcijska tijela koja zadovoljavaju primjenjive europske norme. Naručitelj mora prihvatiti potvrde priznatih tijela osnovanih u drugim državama članicama.
+(10) Ako to nije opravdano predmetom nabave, tehnička specifikacija ne smije upućivati na posebnu marku ili izvor, ili poseban proces, ili zaštitni znak, patente, tipove ili posebno podrijetlo ili proizvodnju, ako bi to imalo učinak pogodovanja ili isključenja određenih gospodarskih subjekata ili određenih proizvoda. Takva uputa iznimno je dopuštena ako se predmet nabave ne može dovoljno precizno i razumljivo opisati na temelju stavaka 3. i 4. ovoga članka. Takve upute moraju se označiti s dodatkom »ili jednakovrijedan«.

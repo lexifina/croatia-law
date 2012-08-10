@@ -1,0 +1,8 @@
+## Kriteriji za odabir ponude
+# Članak 29.
+(1) Kriteriji za odabir ponude su:
+1. ako se odabire ekonomski najpovoljnija ponuda sa stajališta naručitelja, različiti kriteriji povezani s predmetom nabave, primjerice: kvaliteta, cijena, tehničke prednosti, funkcionalne osobine, ekološke osobine, operativni troškovi, troškovi životnog vijeka, ekonomičnost, usluga nakon prodaje i tehnička pomoć, datum isporuke i rok isporuke ili rok izvršenja, sigurnost opskrbe, interoperabilnost i operativne karakteristike, ili
+2. najniža cijena.
+(2) Ako se odabire ekonomski najpovoljnija ponuda, naručitelj mora u pozivu na nadmetanje za ugovor u području obrane i sigurnosti, u dokumentaciji za nadmetanje, u opisnoj dokumentaciji ili dodatnoj dokumentaciji, navesti relativni značaj koji pridaje svakom pojedinom kriteriju. Ti se značaji mogu izraziti određivanjem raspona s odgovarajućom maksimalnom razlikom. Ako prema mišljenju naručitelja, iz dokazivih razloga, nije moguće navesti relativni značaj kriterija, naručitelj mora u pozivu na nadmetanje za ugovor u području obrane i sigurnosti, u dokumentaciji za nadmetanje, u opisnoj dokumentaciji ili dodatnoj dokumentaciji navesti sve kriterije po redoslijedu od najvažnijeg do najmanje važnog.
+(3) Ako se odabire ekonomski najpovoljnija ponuda, kriteriji za odabir ne smiju biti diskriminirajući i moraju biti povezani s predmetom nabave.
+(4) U slučaju ugovora o javnim uslugama i ugovora o javnoj nabavi robe, kriteriji za odabir ponude ne smiju utjecati na primjenu zakona, drugih propisa i upravnih akata kojima je propisana novčana naknada za određene usluge.

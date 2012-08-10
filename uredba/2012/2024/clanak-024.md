@@ -1,0 +1,14 @@
+## Rokovi za dostavu zahtjeva za sudjelovanje i dostavu ponuda
+# Članak 24.
+(1) Prilikom određivanja rokova za dostavu zahtjeva za sudjelovanje i ponuda, naručitelj mora posebno uzeti u obzir složenost predmeta nabave i vrijeme potrebno za izradu zahtjeva za sudjelovanje i ponuda, poštujući minimalne rokove određene ovom Uredbom.
+(2) Redovni rokovi za dostavu zahtjeva za sudjelovanje u ograničenom postupku javne nabave, pregovaračkom postupku javne nabave s prethodnom objavom i natjecateljskom dijalogu određuju se sukladno članku 63. Zakona o javnoj nabavi.
+(3) Redovni rokovi za dostavu ponuda u ograničenom postupku javne nabave određuju se sukladno članku 62. Zakona o javnoj nabavi.
+(4) Ako je naručitelj objavio prethodnu (informacijsku) obavijest za ugovore u području obrane i sigurnosti, rokovi za dostavu ponuda iz stavka 3. ovoga članka mogu se skratiti na 36 dana, odnosno i na manje, ali ne manje od 22 dana. Rok počinje teći od dana slanja poziva na dostavu ponuda.
+(5) Naručitelj smije koristiti skraćeni rok iz stavka 4. ovoga članka pod uvjetom:
+1. da su u prethodnoj (informacijskoj) obavijesti za ugovore u području obrane i sigurnosti bili sadržani svi podaci koji trebaju biti uključeni u pozivu na nadmetanje za ugovor u području obrane i sigurnosti sukladno Dodatku IV. ove Uredbe ako su ti podaci bili poznati u trenutku njena objavljivanja, i
+2. da je prethodna (informacijska) obavijest za ugovore u području obrane i sigurnosti poslana na objavljivanje najmanje 52 dana, ali najviše dvanaest mjeseci prije dana slanja poziva na nadmetanje za ugovor u području obrane i sigurnosti.
+(6) Rokovi za dostavu ponuda iz stavka 3. ovoga članka mogu se skratiti za pet dana ako je naručitelj od dana objave poziva na nadmetanje za ugovor u području obrane i sigurnosti dokumentaciju za nadmetanje i svu dodatnu dokumentaciju koja se odnosi na ograničeni postupak javne nabave neograničeno i u cijelosti elektronički stavio na raspolaganje u Elektroničkom oglasniku javne nabave Republike Hrvatske. U pozivu na nadmetanje za ugovor u području obrane i sigurnosti navode se internetske stranice na kojima je dostupna ta dokumentacija.
+(7) Ako u ograničenom ili pregovaračkom postupku javne nabave s prethodnom objavom zbog žurnosti nije moguća primjena redovnih ili skraćenih rokova određenih u ovom članku, naručitelj može odrediti:
+1. rok za dostavu zahtjeva za sudjelovanje koji ne smije biti kraći od 15 dana računajući od dana slanja poziva na nadmetanje za ugovor u području obrane i sigurnosti,
+2. rok za dostavu ponuda u ograničenom postupku javne nabave koji ne smije biti kraći od 15 dana računajući od dana slanja poziva na dostavu ponuda.
+(8) Naručitelj mora u pozivu na nadmetanje za ugovor u području obrane i sigurnosti obrazložiti razloge primjene rokova zbog žurnosti iz stavka 7. ovoga članka.
