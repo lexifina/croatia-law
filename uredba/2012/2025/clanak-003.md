@@ -1,0 +1,2 @@
+# Članak 3.
+Dozvole za izvoz robe iz Priloga II. - Popisa nevojnih ubojnih sredstava, a koje se nalaze i na Popisu robe s dvojnom namjenom, koji je sastavni dio Uredbe o popisu robe s dvojnom namjenom (»Narodne novine«, br. 184/2004, 62/2007, 57/2008, 63/2009 i 3/2010), izdaje Državni ured za trgovinsku politiku temeljem Zakona o izvozu robe s dvojnom namjenom (»Narodne novine«, br. 100/2004 i 84/2008).
