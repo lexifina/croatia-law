@@ -1,0 +1,1 @@
+Na temelju članka 62. Zakona o obrtu (»Narodne novine« br. 77/93, 90/96, 102/98, 64/01 i 68/07) i članka 56. Statuta Hrvatske obrtničke komore (»Narodne novine« br. 21/99, 62/02, 158/02, 101/04, 187/04, 12/06, 89/08 i 81/09), Skupština Hrvatske obrtničke komore na 5. sjednici, održanoj 28. lipnja 2012. donosi

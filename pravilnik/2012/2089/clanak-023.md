@@ -1,0 +1,7 @@
+# Članak 23.
+Imovina udruženja, spajanje, razdvajanje i prestanak rada
+Imovina udruženja koju čine: nekretnine, pokretne stvari, novčana sredstva i prava, u slučaju prestanka rada udruženja služe za podmirivanje nastalih obveza udruženja, a preostali dio za namjene utvrđene statutom udruženja.
+U slučaju »spajanja više udruţenja« u »novo udruženje obrtnika« pojedinačna imovina svakog udruženja mora biti utvrđena posebnom odlukom skupštine i unosi se u Glavnu knjigu (financijska i materijalna imovina) novoosnovanog udruženja.
+Ukoliko dođe do »razdvajanja udruženja« koje je nastalo »spajanjem više udruženja«, odluci skupštine o razdvajanju prethodi odluka o izradi diobene bilance, koja se temelji na ranije unijetoj pojedinačnoj imovini svakog udruženja te kasnije preuzetim pravima i obvezama.
+U slučaju da se iz udruženja obrtnika, koje je od svog osnivanja poslovalo kao jedinstveno udruženje »izdvaja i osniva« novo udruženje, zajednička imovina, prava i obveze dijele se sukladno pozitivnim zakonskim propisima razmjerno broju članova svakog od novonastalih udruženja.
+Ukoliko temeljem zakonskog propisa dođe do »prestanka rada« udruženja, imovina se prenosi na »upravljanje i korištenje bez prava otuđenja«, na obrtničku instituciju koju kao pravnog slijednika svojim statutom utvrdi udruženje obrtnika. U slučaju zakonske mogućnosti obnove rada ranijeg udruženja obrtnika, pravni slijednik dužan je predati preuzetu imovinu novoosnovanom udruženju obrtnika, osnovanu na području teritorijalnog obuhvata ranijeg udruženja.
