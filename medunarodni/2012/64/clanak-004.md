@@ -1,0 +1,2 @@
+# Članak 4.
+Za provedbu ovoga Zakona nadležni su: Ministarstvo financija (Nacionalni fond), Središnja agencija za financiranje i ugovaranje programa i projekata Europske unije, Ministarstvo pravosuđa, Ministarstvo poljoprivrede, Ministarstvo unutarnjih poslova, Ministarstvo regionalnoga razvoja i fondova Europske unije, Ured za udruge Vlade Republike Hrvatske i Agencija za plaćanja u poljoprivredi, ribarstvu i ruralnom razvoju.
