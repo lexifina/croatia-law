@@ -1,0 +1,1 @@
+Na temelju članka 13. stavka 7. Zakona o kriterijima za sudjelovanje u tripartitnim tijelima i reprezentativnosti za kolektivno pregovaranje (»Narodne novine« br. 82/2012 i 88/2012), ministar rada i mirovinskoga sustava i donosi
