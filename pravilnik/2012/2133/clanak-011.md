@@ -1,0 +1,3 @@
+# Članak 11.
+U slučaju da je produljenje odobrenja odnosno akreditacije za ugošćavanje istraživača odbijeno ili ukinuto sukladno članku 10. stavak 1. ovoga Pravilnika, pravnoj osobi o kojoj je riječ može biti zabranjeno ponovno podnošenje zahtjeva za odobrenje odnosno akreditaciju za ugošćavanje tijekom razdoblja od najviše pet godina od dana objavljivanja odluke o ukidanju ili odbijanju produljenja odobrenja odnosno akreditacije za ugošćavanje.
+O duljini razdoblja zabrane ponovnog podnošenja zahtjeva za odobrenjem iz članka 6. odnosno akreditacijom iz članka 8. ovoga Pravilnika odlučuje ministar nadležan za znanost, na temelju mišljenja povjerenstva.

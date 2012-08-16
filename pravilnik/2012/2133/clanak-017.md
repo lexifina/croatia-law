@@ -1,0 +1,2 @@
+# Članak 17.
+U roku od dva mjeseca od prestanka važenja ugovora iz članka 13. ovoga Pravilnika, pravna osoba koja obavlja znanstvenu djelatnost dostavit će ministarstvu nadležnom za znanost i nadležnoj policijskoj upravi odnosno policijskoj postaji koja je odobrila privremeni boravak u svrhu znanstvenog istraživanja potvrdu o završetku istraživanja na znanstvenom/-im projektu/-ima za koji je ugovor bio zaključen.
