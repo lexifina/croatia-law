@@ -1,0 +1,15 @@
+# Članak 3.
+Naslov iznad članka 10. mijenja se i glasi: »Naknada za uporabu radiofrekvencijskog spektra za javne mreže pokretnih komunikacija«.
+Članak 10. mijenja se i glasi:
+»(1) Ukupna visina godišnje naknade za uporabu radiofrekvencijskog spektra u javnoj mreži pokretnih komunikacija sastoji se od godišnje naknade za uporabu neuparenog radiofrekvencijskog spektra, jednokratne naknade za dozvolu za uporabu radiofrekvencijskog spektra, godišnje naknade za dozvolu za uporabu radiofrekvencijskog spektra i naknade za krajnje radijske postaje u pretplatničkom sustavu plaćanja usluge.
+(2) Visina godišnje naknade za uporabu neuparenog radiofrekvencijskog spektra širine pojasa od 1 MHz, za radiofrekvencijski pojas i pokrivenost stanovništva utvrđenu u dozvoli za uporabu radiofrekvencijskog spektra, izračunava se prema izrazu:
+(20 × a × b × c)
+gdje je:
+1. a: jedinična cijena za uporabu radiofrekvencijskog spektra utvrđena u skladu s člankom 14. stavkom 1. ovoga Pravilnika,
+2. b: koeficijent zagušenja radiofrekvencijskog pojasa utvrđen u skladu s Tablicom 4. iz članka 14. stavka 2. ovoga Pravilnika,
+3. c: koeficijent pokrivenosti stanovništva utvrđen u skladu s Tablicom 6. iz članka 14. stavka 4. ovoga Pravilnika.
+(3) Ako je podnositelju zahtjeva ili nositelju dozvole dodijeljen radiofrekvencijski spektar širine pojasa različite od 1 MHz, visina naknade razmjerno će se umanjiti ili uvećati.
+(4) Visina jednokratne naknade za dozvolu za uporabu radiofrekvencijskog spektra iznosi 150.000.000,00 kuna. Jednokratna naknada plaća se najkasnije prigodom preuzimanja dozvole za uporabu radiofrekvencijskog spektra. Jednokratna naknada plaća se za dozvolu za svaki novi radiofrekvencijski pojas koji se dodjeljuje operatoru. Jednokratna naknada ne plaća se u slučaju izdavanja nove dozvole za uporabu radiofrekvencijskog spektra u svrhu usklađivanja uvjeta dodjele i uporabe radiofrekvencijskog spektra te u slučaju izdavanja dozvole za dodatni radiofrekvencijski spektar unutar radiofrekvencijskog pojasa za koji operator već posjeduje valjanu dozvolu za uporabu radiofrekvencijskog spektra.
+(5) Nositelj dozvole plaća godišnju naknadu za dozvolu za uporabu radiofrekvencijskog spektra u iznosu od 0,5% od ukupnoga godišnjeg bruto prihoda, ostvarenog obavljanjem djelatnosti elektroničkih komunikacijskih mreža i usluga na tržištu putem dodijeljenog radiofrekvencijskog spektra za javnu mrežu pokretnih komunikacija, u prethodnoj kalendarskoj godini. Godišnja naknada ne plaća se za prvu godinu valjanosti dozvole.
+(6) Izvješće o iznosu ukupnoga godišnjeg bruto prihoda iz stavka 5. ovoga članka za prethodnu kalendarsku godinu nositelj dozvole obvezan je dostaviti Agenciji najkasnije do 31. ožujka tekuće godine. Ako nositelj dozvole posjeduje više od jedne dozvole za uporabu radiofrekvencijskog spektra u javnoj mreži pokretnih komunikacija, može dostaviti Agenciji jedno zajedničko izvješće o iznosu ukupnoga godišnjeg bruto prihoda u vezi s tim dozvolama.
+(7) Visina naknade za svaku krajnju radijsku postaju u javnoj mreži pokretnih komunikacija u pretplatničkom sustavu plaćanja usluge iznosi 60,00 kuna godišnje.«.
