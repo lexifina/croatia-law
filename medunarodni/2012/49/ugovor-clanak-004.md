@@ -1,0 +1,3 @@
+# Članak 4.
+SIGURNOST I OBRANA
+Odredbe ovog Sporazuma ne dovode u pitanje nacionalne zahtjeve država ugovornica koji se odnose na javni red, javnu sigurnost i interese obrane i svaka država ugovornica ima pravo provesti bilo koju mjeru, u opsegu u kojem je to potrebno, da bi zaštitila ključne interese sigurnosti i obrambene politike. Nadalje, svaka država ugovornica ima pravo zaštititi vojne operacije i obuku ili druge vrste operativnog zračnog prometa u skladu sa svojim nacionalnim pravilima i propisima, svaki put kad bi provedba ovog Sporazuma štetno utjecala na njihovo sigurno i učinkovito provođenje.
