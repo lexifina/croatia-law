@@ -1,0 +1,2 @@
+# Članak 35.
+Analizu rizika može ovjeriti ovlašteni stručni tehnički servisi ovlašten za ispitivanje rendgenskih uređaja, akceleratora i drugih uređaja koji proizvode ionizirajuće zračenje, zatvorenih radioaktivnih izvora i uređaja sa zatvorenim radioaktivnim izvorima i otvorenih radioaktivnih izvora i davanje mišljenja s procjenom opasnosti na osnovi mjerenja i proračuna te za ispitivanje prostorija u kojima se radi s izvorima ionizirajućeg zračenja i izradu dokumenata iz kojih je vidljivo udovoljava li prostorija propisanim uvjetima zaštite od ionizirajućeg zračenja.

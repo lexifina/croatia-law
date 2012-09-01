@@ -1,0 +1,7 @@
+## II. ODOBRENJE ZA OBAVLJANJE DJELATNOSTI S IZVORIMA IONIZIRAJUĆEG ZRAČENJA
+## 1. RADIOAKTIVNI IZVORI
+## Izuzeće od primjene odredbi ovoga Pravilnika
+# Članak 3.
+(1) Odredbe ovoga Pravilnika ne primjenjuju se na one vrste radioaktivnih tvari i djelatnosti s tim tvarima u kojoj aktivnost ili koncentracija aktivnosti radionuklida, odnosno ukupna aktivnost ili koncentracija aktivnosti radionuklida uključenih u djelatnost ni u jednom trenutku ne prelazi granične vrijednosti za izuzimanje iz Tablice 1. Priloga I. koji je sastavni dio pravilnika kojim su utvrđeni uvjeti i mjere zaštite od ionizirajućeg zračenja za obavljanje djelatnosti s radioaktivnim izvorima.
+(2) U slučaju da radioaktivna tvar sadrži više od jednog radionuklida, odredbe ovoga Pravilnika ne primjenjuju se na tu tvar i djelatnosti s tom tvari ako je suma omjera ukupne aktivnosti svakog radionuklida prisutnog u toj tvari i granične vrijednosti za izuzimanje iz stavka 1. ovoga članka za taj radionuklid manja ili jednaka jedan, odnosno ako je suma omjera koncetracije aktivnosti svakog radionuklida prisutnog u toj tvari i granične vrijednosti za izuzimanje iz stavka 1. ovoga članka za taj radionuklid manja ili jednaka jedan.
+(3) Odredbe ovoga Pravilnika ne primjenjuju se na one vrste tvari ili uređaje onečišćene radionuklidima čija koncentracija ne prelazi koncentracije za koje je dopušteno ispuštanje, a koje su propisane posebnim pravilnikom.

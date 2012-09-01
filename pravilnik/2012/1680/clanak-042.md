@@ -1,0 +1,6 @@
+# Članak 42.
+(1) Odredbe članka 36. ovoga Pravilnika stupaju na snagu 1. kolovoza 2012. godine.
+(2) Odredba članka 31. stavka 3. ovoga Pravilnika stupa na snagu 1. siječnja 2014. godine. Do dana stupanja na snagu, zahtjevu iz članka 31. stavka 3. ovoga Pravilnika dostavlja se izvješće ovlaštenog stručnog tehničkog servisa o ispitivanju akceleratora, a koje nije starije od mjesec dana.
+(3) Odredba članka 32. stavka 4. ovoga Pravilnika stupa na snagu 1. siječnja 2014. godine. Do dana stupanja na snagu, zahtjevu iz članka 32. stavka 4. ovoga Pravilnika dostavlja se izvješće ovlaštenog stručnog tehničkog servisa o ispitivanju akceleratora, a koje nije starije od mjesec dana.
+(4) Odredba članka 32. stavka 12. ovoga Pravilnika stupa na snagu 1. siječnja 2014. godine. Do dana stupanja na snagu, zahtjevu iz članka 32. stavka 12. ovoga Pravilnika dostavlja se izvješće ovlaštenog stručnog tehničkog servisa o ispitivanju akceleratora izdano nakon obavljenih značajnijih popravaka, preinake ili zamjena dijelova kojima se može bitno utjecati na promjenu uvjeta proizvodnje ionizirajućeg zračenja, odnosno nakon demontiranja i ponovnog montiranja (ugradnje), a koje nije starije od mjesec dana.
+(5) Ovaj Pravilnik objavit će se u »Narodnim novinama«, a stupa na snagu 1. rujna 2012. godine.

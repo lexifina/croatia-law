@@ -1,0 +1,1 @@
+Na temelju članka 8. stavka 3., članka 10. stavka 3. i članka 64. stavka 3. i stavka 5. Zakona o radiološkoj i nuklearnoj sigurnosti (»Narodne novine«, br. 28/10) uz prethodno pribavljenu suglasnost ministra zdravlja, ravnatelj Državnog zavoda za radiološku i nuklearnu sigurnost donosi

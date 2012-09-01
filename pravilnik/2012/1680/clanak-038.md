@@ -1,0 +1,2 @@
+# Članak 38.
+Pravna ili fizička osoba, tijelo državne uprave ili tijelo lokalne i područne (regionalne) samouprave koje posjeduje štit i balast od osiromašenog urana koji nije upisan u središnji registar pri Državnom zavodu za radiološku i nuklearnu sigurnost obvezno je u roku od 6 mjeseci od dana stupanja na snagu ovoga Pravilnika prijaviti isti na način predviđen člankom 27. stavkom 1. ovoga Pravilnika.

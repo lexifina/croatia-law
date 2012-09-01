@@ -1,0 +1,15 @@
+## 2. RENDGENSKI UREĐAJI, AKCELERATORI I DRUGI ELEKTRIČNI UREĐAJI KOJI PROIZVODE IONIZIRAJUĆE ZRAČENJE
+## Uvoz rendgenskih uređaja, akceleratora i drugih električnih uređaja koji proizvode ionizirajuće zračenje
+# Članak 23.
+(1) Zahtjev za davanje dozvole za uvoz rendgenskog uređaja, akceleratora i drugog električnog uređaja koji proizvodi ionizirajuće zračenje podnosi se Državnom zavodu za radiološku i nuklearnu sigurnost na obrascu UVZ - RDG koji je tiskan u Prilogu XI. ovoga Pravilnika koji je njegov sastavni dio.
+(2) Dozvola iz stavka 1. ovog članka može se dati samo nositelju odobrenja za obavljanje djelatnosti uvoza rendgenskih uređaja, akceleratora i drugih električnih uređaja koji proizvode ionizirajuće zračenje.
+(3) Dokumenti koji se prilažu zahtjevu za dozvolu iz stavka 1. ovog članka određeni su sukladno posebnom propisu i navedeni su na obrascu UVZ - RDG koji je tiskan u Prilogu XI. ovoga Pravilnika koji je njegov sastavni dio.
+(4) Uvoznici rendgenskih uređaja, akceleratora i drugih električnih uređaja koji proizvode ionizirajuće zračenje moraju voditi zapise o vrsti i količini uvezenih rendgenskih uređaja, akceleratora i drugih električnih uređaja koji proizvode ionizirajuće zračenje i čuvati te zapise najmanje 2 godine.
+(5) Uvoznik je obvezan u roku od 15 dana po isporuci rendgenskog uređaja, akceleratora i drugog električnog uređaja koji proizvodi ionizirajuće zračenje krajnjem korisniku o tome u pisanom obliku obavijestiti Državni zavod za radiološku i nuklearnu sigurnost.
+(6) Dozvola za uvoz iz stavka 1. ovoga članka može se dati samo ako krajnji korisnik posjeduje odobrenje za obavljanje odgovarajuće djelatnosti s rendgenskim uređajem, akceleratorom i drugim električnim uređajem koji proizvodi ionizirajuće zračenje.
+(7) Dozvola za uvoz rendgenskog uređaja, akceleratora i drugog električnog uređaja koji proizvodi ionizirajuće zračenje može se dati uvozniku za vlastite potrebe promocije/prezentacije istog.
+(8) U slučaju uvoza iz stavka 7. ovoga članka, zahtjevu iz stavka 1. ovoga članka je uz dokumente iz stavka 3. ovoga članka potrebno priložiti i pisanu izjavu uvoznika o potrebi promocije/prezentacije proizvoda s navedenim mjestom promocije te o nekorištenju rendgenskog uređaja, akceleratora i drugog električnog uređaja koji proizvodi ionizirajuće zračenja za uvoz kojeg se traži dozvola.
+(9) Osim dokumenata navedenih u stavku 3. i stavku 8. ovoga članka, Državni zavod za radiološku i nuklearnu sigurnost u postupku davanja dozvole iz stavka 1. ovoga članka može zatražiti i druge relevantne dokumente.
+(10) Dozvola iz stavka 1. ovoga članka daje se na rok sukladno posebnom propisu.
+(11) U slučaju izmjena uvjeta pod kojima je dana dozvola iz stavka 1. ovoga članka, uvoznik iz stavka 2. ovoga članka može od Državnog zavoda za radiološku i nuklearnu sigurnost zatražiti izmjenu iste.
+(12) Državni zavod za radiološku i nuklearnu sigurnost će po zaprimanju zahtjeva iz stavka 11. ovoga članka rješenjem izmijeniti dozvolu iz stavka 1. ovoga članka.

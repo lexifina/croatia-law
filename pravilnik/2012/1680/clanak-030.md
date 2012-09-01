@@ -1,0 +1,5 @@
+# Članak 30.
+(1) Za radioaktivne izvore s istom vrstom radionuklida jednake aktivnosti koji se koriste kao sastavni dio javljača požara (detektori dima) u postrojenju ili sustavu za dojavu požara Državni zavod za radiološku i nuklearnu sigurnost daje zajedničku dozvolu za uporabu u kojoj se uz podatke o radioaktivnom izvoru i njegovoj pojedinačnoj aktivnosti, navodi ukupni broj istovrsnih radioaktivnih izvora te mjesto gdje su ugrađeni.
+(2) Zahtjevu za davanje zajedničke dozvole iz stavka 1. ovoga članka treba priložiti izvješće ovlaštenog stručnog tehničkog servisa o ispitivanju zatvorenog radioaktivnog izvora, koje nije starije od mjesec dana.
+(3) Osim dokumenata navedenih u stavku 2. ovoga članka, Državni zavod za radiološku i nuklearnu sigurnost u postupku davanja dozvole za uporabu iz stavka 1. ovoga članka može zatražiti i druge relevantne dokumente.
+(4) Dozvola za uporabu iz stavka 1. ovoga članka može se dati ako je iz izvješća iz stavka 2. ovoga članka vidljivo da je udovoljeno propisanim uvjetima zaštite od ionizirajućeg zračenja.
