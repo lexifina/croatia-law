@@ -1,0 +1,1 @@
+Na temelju članka 5. stavka 4. Zakona o uspostavi institucionalnog okvira za korištenje strukturnih instrumenata Europske unije u Republici Hrvatskoj (»Narodne novine«, broj 78/2012), Vlada Republike Hrvatske je na sjednici održanoj 23. kolovoza 2012. godine donijela

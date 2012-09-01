@@ -1,0 +1,6 @@
+# Članak 11.
+(1) Koordinacijsko tijelo, Tijelo za reviziju i Tijelo za ovjeravanje dužni su izraditi pojedinačne strategije organizacijskog razvoja sukladno funkcijama i odgovornostima koje su tim tijelima dodijeljene Zakonom i ovom Uredbom.
+(2) Upravljačko tijelo u suradnji sa svim tijelima koja sudjeluju u provedbi pojedinog operativnog programa, dužno je izraditi strategiju organizacijskog razvoja za sva tijela koja sudjeluju u provedbi operativnog programa sukladno funkcijama i odgovornostima koje su tim tijelima dodijeljene Zakonom i ovom Uredbom.
+(3) Tijelo za reviziju, Tijelo za ovjeravanje te upravljačka tijela pojedinih operativnih programa dužna su strategije organizacijskog razvoja dostaviti Koordinacijskom tijelu u roku koji će po stupanju na snagu ove Uredbe odrediti to tijelo.
+(4) Sve institucije koje su ovom Uredbom postale tijela u Sustavu, dužna su razvijati ljudske potencijale u skladu sa strategijama organizacijskog razvoja iz stavaka 1. i 2. ovoga članka.
+(5) Ukoliko temeljem strategija organizacijskog razvoja iz stavaka 1. i 2. ovoga članka proizlazi potreba za dodatnim zapošljavanjem službenika, Koordinacijsko tijelo uputit će Vladi Republike Hrvatske Prijedlog odluke o zapošljavanju dodatnih službenika u tijelima koja sudjeluju u provedbi operativnih programa.

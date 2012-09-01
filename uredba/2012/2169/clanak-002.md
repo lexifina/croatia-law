@@ -1,0 +1,3 @@
+# Članak 2.
+(1) Institucije koje ovom Uredbom postaju tijela u Sustavu u smislu članka 5. stavka 1. Zakona o uspostavi institucionalnog okvira za korištenje strukturnih instrumenata Europske unije u Republici Hrvatskoj (u daljnjem tekstu: Zakon) moraju, za obavljanje poslova koji proizlaze iz njihovih funkcija odrediti pojedine unutarnje ustrojstvene jedinice.
+(2) U slučajevima u kojima se ovom Uredbom ne ustrojava Posredničko tijelo razine 1 i/ili Posredničko tijelo razine 2 na razini pojedinog operativnog programa, odnosno njegovih prioritetnih osi ili mjera, funkcije iz članaka 10. i 11. Zakona obavlja Upravljačko tijelo.
