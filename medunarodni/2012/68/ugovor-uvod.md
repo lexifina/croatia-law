@@ -1,0 +1,3 @@
+SPORAZUM O IZMJENAMA I DOPUNAMA SPORAZUMA IZMEĐU VLADE REPUBLIKE HRVATSKE I VLADE REPUBLIKE MAĐARSKE O IZGRADNJI CESTOVNOG GRANIČNOG MOSTA NA RIJECI MURI NA AUTOCESTI IZMEĐU LETENYE I GORIČANA NA PANEUROPSKOM PROMETNOM KORIDORU V/B POTPISANOG U BUDIMPEŠTI
+16. PROSINCA 2004. GODINE
+Vlada Republike Hrvatske i Vlada Republike Mađarske (u daljnjem tekstu: Ugovorne stranke) temeljem aspekata koji su se pojavili tijekom pregovora o provedbi Sporazuma o izgradnji cestovnog graničnog mosta na rijeci Muri na autocesti između Letenye i Goričana na paneuropskom prometnom koridoru V/b potpisanog u Budimpešti 16. prosinca 2004. godine (u daljnjem tekstu: Sporazum o mostu na Muri) sporazumjele su se o sljedećem:

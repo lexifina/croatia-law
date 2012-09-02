@@ -1,0 +1,2 @@
+# Članak 1.
+Objavljuje se Sporazum o izmjenama i dopunama Sporazuma između Vlade Republike Hrvatske i Vlade Republike Mađarske o izgradnji cestovnog graničnog mosta na rijeci Muri na autocesti između Letenye i Goričana na paneuropskom prometnom koridoru V/b potpisanog u Budimpešti 16. prosinca 2004. godine, sklopljen u Zagrebu, 17. svibnja 2007. godine, u izvorniku na hrvatskom i mađarskom jeziku.

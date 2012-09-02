@@ -1,0 +1,1 @@
+Uredba o objavi Sporazuma o izmjenama i dopunama Sporazuma između Vlade Republike Hrvatske i Vlade Republike Mađarske o izgradnji cestovnog graničnog mosta na rijeci Muri na autocesti između Letenye i Goričana na paneuropskom prometnom koridoru V/b potpisanog u Budimpešti 16. prosinca 2004. godine
