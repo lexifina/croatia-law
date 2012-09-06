@@ -1,0 +1,3 @@
+# Članak 1.
+U Pravilniku o uvjetima za određivanje područja na kojem će se osnivati ljekarne (»Narodne novine«, broj 26/07, 118/07 i 81/08) članak 7. stavak 2. mijenja se i glasi:
+»Iznimno od stavka 1. ovoga članka ljekarna, odnosno podružnica ljekarničke ustanove može se preseliti bez obzira što ne ispunjava uvjete udaljenosti utvrđene u članku 5. ovoga Pravilnika ako se preseljenjem povećava udaljenost od najbliže ljekarne odnosno podružnice ljekarničke ustanove a udaljenost preseljene ljekarne odnosno podružnice ljekarničke ustanove u odnosu na sve druge ljekarne odnosno podružnice ljekarničke ustanove mora biti u skladu s člankom 5. ovoga Pravilnika.«
