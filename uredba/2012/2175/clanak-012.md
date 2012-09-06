@@ -1,0 +1,2 @@
+# Članak 12.
+Postupci utvrđivanja naknade za zadržavanje nezakonito izgrađene zgrade u prostoru započeti na temelju Zakona o postupanju s nezakonito izgrađenim zgradama (»Narodne novine«, broj 90/2011) do stupanja na snagu ove Uredbe dovršit će se po odredbama Uredbe o naknadi za zadržavanje nezakonito izgrađenih zgrada u prostoru (»Narodne novine«, broj 101/2011), odnosno po odredbama ove Uredbe u slučaju ako je to povoljnije za stranku po čijem je zahtjevu postupak započet ili ako to ona zatraži.

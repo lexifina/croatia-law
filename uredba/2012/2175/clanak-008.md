@@ -1,0 +1,5 @@
+# Članak 8.
+Naknada utvrđena u skladu s odredbama ove Uredbe može se platiti jednokratno ili obročnom otplatom ukoliko je njezin iznos veći od 1.500,00 kuna, u visini i na način određen rješenjem o naknadi.
+Podnositelj zahtjeva prilikom podnošenja zahtjeva za ozakonjenje zgrade treba pisano navesti koji način plaćanja naknade odabire, odnosno izjasniti se da li naknadu namjerava platiti jednokratno ili obročno, s naznakom roka otplate. Ako se podnositelj pisano ne izjasni o načinu plaćanja naknade, odnosno ako je utvrđeni iznos naknade 1.500,00 kuna ili manje, upravno tijelo izdaje rješenje s jednokratnim plaćanjem.
+Rok za jednokratno plaćanje naknade, odnosno kod obročne otplate rok plaćanja prvog obroka, iznosi 30 dana od dana izvršnosti rješenja.
+Visina naknade i prikaz obračuna naknade te način i rok plaćanja utvrđen u skladu s odredbama ove Uredbe, sastavni su dio rješenja o naknadi. Kod obročnog načina plaćanja, sastavni dio rješenja o naknadi je i plan otplate obroka utvrđen u skladu s odredbama članka 11. ove Uredbe.
