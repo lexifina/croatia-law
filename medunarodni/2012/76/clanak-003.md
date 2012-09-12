@@ -1,0 +1,3 @@
+# Članak 3.
+Financijske obveze koje nastaju za Republiku Hrvatsku kao zajmoprimca na temelju Okvirnog ugovora iz članka 1. ovoga Zakona planiraju se i podmiruju u okviru proračunskih sredstava sukladno odredbama propisa o izvršavanju državnih proračuna za godine od 2012. do 2036., odnosno prema planovima otplate do konačne otplate zajma.
+Po svakoj isplati financijskih obveza Razvojnoj banci Vijeća Europe, Ministarstvo financija, koje zastupa Republiku Hrvatsku, refundirat će isplaćena sredstva od Hrvatskih voda, a koje će sredstva za refundaciju osigurati iz namjenskih sredstava po osnovi naknada za korištenje voda i naknada za zaštitu voda.
