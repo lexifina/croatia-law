@@ -1,0 +1,1 @@
+Na temelju članka 191. stavka 2. Zakona o vodama (»Narodne novine«, br. 153/2009 i 130/2011) i članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, broj 150/2011), Vlada Republike Hrvatske je na sjednici održanoj 13. rujna 2012. godine donijela
