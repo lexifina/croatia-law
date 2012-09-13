@@ -1,0 +1,4 @@
+# Članak 21.
+(1) Pretplatnički odnos ili korisnički zapis između davatelja broja i podnositelja Zahtjeva za prijenos broja smatra se raskinutim u trenutku uključenja prenesenog broja od strane primatelja broja.
+(2) Davatelj broja će podnositelju Zahtjeva za prijenos broja ispostaviti račun za obavljene elektroničke komunikacijske usluge za mjesec u kojem je izvršen prijenos broja.
+(3) Neiskorišteni iznos na korisničkom računu za unaprijed plaćene usluge (eng: »pre-paid«) davatelja broja se ne može prenositi i koristiti za plaćanje elektroničkih komunikacijskih usluga primatelja broja. Davatelj broja će korisniku unaprijed plaćene usluge (eng: »pre-paid«) usluge izvršiti povrat neiskorištenog iznosa na korisničkom računu u skladu s odredbama Pravilnika o načinu i uvjetima obavljanja djelatnosti elektroničkih komunikacijskih mreža i usluga.

@@ -1,0 +1,5 @@
+## Prijenos broja u pokretnoj elektroničkoj komunikacijskoj mreži
+# Članak 15.
+(1) Postupak prijenosa broja u pokretnoj elektroničkoj komunikacijskoj mreži ne može trajati dulje od 3 radna dana od dana kada je davatelj broja zaprimio Zahtjev za prijenos broja, osim ako je to u interesu krajnjeg korisnika, odnosno kada je korisnik u Zahtjevu naveo željeni datum prijenosa broja koji je duži od 3 radna dana.
+(2) Davatelj broja obvezan je u roku 1 radnog dana od dana zaprimanja Zahtjeva za prijenos broja provjeriti mogućnost prenosivosti broja i putem CABP obavijestiti primatelja broja o prihvaćanju, odbijanju ili odgodi roka za realizaciju prijenosa broja.
+(3) U slučaju prihvaćanja Zahtjeva za prijenos broja, davatelj broja može iznimno, najkasnije 24 sata prije početka vremenskog okvira prijenosa broja, odbiti prijenos broja u slučaju da utvrdi zlouporabe elektroničkih komunikacijskih usluga uslijed kojih krajnjem korisniku bude ograničeno korištenje elektroničkih komunikacijskih usluga davatelja broja.

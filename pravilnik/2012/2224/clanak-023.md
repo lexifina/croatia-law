@@ -1,0 +1,9 @@
+## Naknada u slučaju nepravovremenog prijenosa broja
+# Članak 23.
+(1) Krajnji korisnik koji je podnio zahtjev za prijenos broja, ima pravo na naknadu u slučaju nepravovremenog prijenosa broja, u iznosu od 10 kn za svaki započeti sat nepravovremenog prijenosa broja po zahtijevanom broju.
+(2) Zahtjev za isplatom naknade podnosi se u pisanom obliku primatelju broja, najkasnije u roku od 30 dana od dana izvršenog prijenosa broja.
+(3) Primatelj broja će u roku od 7 dana od dana primitka zahtjeva obavijestiti krajnjeg korisnika o načinu isplate naknade za nepravovremeni prijenos broja kojeg je on prouzročio. Primatelj broja proslijedit će u roku od jednog radnog dana zahtjev za isplatom naknade davatelju broja za nepravovremeni prijenos broja kojeg je prouzročio davatelj broja. Davatelj broja obavijestit će krajnjeg korisnika o načinu isplate naknade za nepravovremeni prijenos broja kojeg je on prouzročio u roku od 7 dana od dana primitka zahtjeva koji mu je uputio primatelj broja. Isplata naknade će biti realizirana najkasnije u roku od 30 dana od dana podnošenja zahtjeva.
+(4) Obveza isplate naknade za nepravovremeni prijenos broja primatelja i davatelja broja utvrđuje se na temelju evidencije u CABP.
+(5) U slučaju odbijanja zahtjeva za isplatom naknade, krajnji korisnik može podnijeti prijavu inspektoru elektroničkih komunikacija.
+(6) Odredbe ovoga članka primjenjuju se i u slučaju otkaza prijenosa broja iz razloga navedenog u članku 13. st. 3. točka a., s time da je rok za podnošenje zahtjeva za isplatom naknade 30 dana od dana otkaza prijenosa broja.
+(7) Neovisno o zahtjevu korisnika, i primatelj broja ima pravo od davatelja broja zahtijevati naknadu u slučaju nepravovremenog prijenosa broja te se prava iz ovog članka na odgovarajući način primjenjuju i na primatelja broja. Primatelj broja ima pravo na naknadu iz stavka 1. ovog članka samo ukoliko zahtjev za prijenos broja nije podnesen istovremeno sa zahtjevom za veleprodajnu uslugu.
