@@ -1,0 +1,1 @@
+Na temelju članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, broj 150/2011) i članka 23. stavaka 1. i 2. Temeljnog kolektivnog ugovora za službenike i namještenike u javnim službama (»Narodne novine«, broj 115/2010), Vlada Republike Hrvatske je na sjednici održanoj 17. rujna 2012. godine donijela
