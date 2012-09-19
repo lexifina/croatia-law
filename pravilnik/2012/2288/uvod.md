@@ -1,0 +1,1 @@
+Na temelju članka 39.a stavka 6. Zakona o audiovizualnim djelatnostima (»Narodne novine«, br. 76/07 i 90/11), ministrica kulture na prijedlog Hrvatskog audiovizualnog centra, nakon pribavljene suglasnosti ministra financija, donosi
