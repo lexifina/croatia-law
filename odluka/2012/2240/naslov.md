@@ -1,0 +1,1 @@
+Odluka o osnivanju Koordinacijskog povjerenstva za pripremu programskih dokumenata za financijsko razdoblje Europske unije 2014. - 2020. i određivanju odgovornosti i zadataka tijela uključenih u rad Koordinacijskog povjerenstva
