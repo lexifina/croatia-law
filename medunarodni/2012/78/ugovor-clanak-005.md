@@ -1,0 +1,5 @@
+# Članak 5.
+PRELAZAK DRŽAVNE GRANICE I BORAVAK
+(1) Radi omogućavanja brže i djelotvornije pomoći ugovorne stranke će formalnosti prilikom granične kontrole svesti na najmanju moguću mjeru.
+(2) Za vrijeme pružanja pomoći pripadnici postrojbe za pružanje pomoći mogu boraviti bez radnih dozvola i bez dozvola boravka na državnom području države primateljice, dok će se formalnosti za prelazak granice svesti na najmanju moguću mjeru u skladu s nacionalnim zakonodavstvom države primateljice. Voditelj postrojbe za pružanje pomoći mora na zahtjev predočiti ispravu koja dokazuje njegov položaj i zadaću u pružanju pomoći, kao i popis članova postrojbe za pružanje pomoći, pri čemu obje isprave moraju biti na jeziku države primateljice ili na engleskom jeziku.
+(3) Pripadnici postrojbe za pružanje pomoći ovlašteni su na državnom području države primateljice nositi odoru, ukoliko je ona dio uobičajene opreme. Postrojba za pružanje pomoći države šiljateljice ovlaštena je na svojim vozilima koristiti vlastite oznake na državnom području države primateljice.
