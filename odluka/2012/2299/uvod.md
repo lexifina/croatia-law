@@ -1,0 +1,1 @@
+Na temelju članka 26., članka 27. i članka 43. stavka 2. točke 9. Zakona o Hrvatskoj narodnoj banci (»Narodne novine«, br. 75/2008.), a u vezi s člankom 12. Odluke o uvjetima redistribuiranja novčanica i kovanog novca kuna i lipa (»Narodne novine«, br. 91 i 126/2009.) guverner Hrvatske narodne banke donosi
