@@ -1,0 +1,3 @@
+# Članak 46.
+(1) Prava i obveze predstojnika područnog ureda uređuju se ugovorom o radu kojeg u ime Zavoda sklapa ravnatelj Zavoda.
+(2) Predstojnik područnog ureda odgovara za svoj rad ravnatelju Zavoda.
