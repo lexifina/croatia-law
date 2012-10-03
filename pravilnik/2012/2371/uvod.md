@@ -1,0 +1,1 @@
+Na temelju članka 46. stavka 2. Zakona o obrtu (»Narodne novine« broj 77/93., 90/96., 102/98., 64/01., 71/01. - ispravak, 68/07., 79/07. - ispravak, 40/10. - Odluka Ustavnog suda Republike Hrvatske) ministar poduzetništva i obrta, nakon prethodno pribavljena mišljenja Hrvatske obrtničke komore, donosi
