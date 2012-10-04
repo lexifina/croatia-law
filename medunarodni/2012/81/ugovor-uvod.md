@@ -1,0 +1,2 @@
+SPORAZUM IZMEĐU VLADE REPUBLIKE HRVATSKE I VLADE REPUBLIKE AZERBAJDŽANA O UKIDANJU VIZA ZA NOSITELJE DIPLOMATSKIH I SLUŽBENIH PUTOVNICA
+Vlada Republike Hrvatske i Vlada Republike Azerbajdžana (u daljnjem tekstu »stranke«), u želji za promicanjem svojih dvostranih odnosa, s namjerom da olakšaju putovanja svojih državljana, koji su nositelji diplomatskih i službenih putovnica, sporazumjele su se kako slijedi:

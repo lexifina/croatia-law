@@ -1,0 +1,2 @@
+# Članak 2.
+Državljani države jedne stranke, nositelji valjane diplomatske ili službene putovnice koji su članovi diplomatske misije, konzularnog ureda ili predstavnici međunarodne organizacije smještene na državnom području države druge stranke, kao i članovi njihove obitelji koji su dio njihova kućanstva i nositelji su diplomatske ili službene putovnice, mogu tijekom trajanja njihove službene dužnosti bez vize ulaziti, boraviti i napuštati državno područje države druge stranke.
