@@ -1,0 +1,1 @@
+Na temelju članka 24. stavaka 1. i 3. i članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, broj 150/2011), Vlada Republike Hrvatske je na sjednici održanoj 4. listopada 2012. godine donijela
