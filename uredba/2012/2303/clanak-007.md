@@ -1,0 +1,3 @@
+# Članak 7.
+(1) U roku 30 dana od dana stupanja na snagu ove Uredbe djelatnike Agencije koji su do stupanja na snagu ove Uredbe obavljali poslove provedbe sustava za identifikaciju zemljišnih čestica na lokalnoj razini i ažuriranju podataka o upisu u Upisnik poljoprivrednih gospodarstava preuzet će Agencija za plaćanja u poljoprivredi, ribarstvu i ruralnom razvoju u skladu s odredbom članka 133. Zakona o radu (»Narodne novine«, br. 149/2009 i 61/2011).
+(2) Agencija za plaćanja u poljoprivredi, ribarstvu i ruralnom razvoju preuzet će, sukladno članku 133. Zakona o radu, ugovore o radu djelatnika koji prelaze na rad u Agenciju te po donošenju akata iz članka 4. ove Uredbe sklopiti ugovore o radu s navedenim djelatnicima.
