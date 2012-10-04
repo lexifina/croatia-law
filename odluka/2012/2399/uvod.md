@@ -1,0 +1,1 @@
+Na temelju članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine« broj 150/2011), a u svezi s člankom 9. alinejom 1. Zakona o Centru za praćenje poslovanja energetskog sektora i investicija (»Narodne novine« broj 25/2012), Vlada Republike Hrvatske je na sjednici održanoj 4. listopada 2012. godine donijela
