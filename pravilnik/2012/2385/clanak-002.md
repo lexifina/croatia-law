@@ -1,0 +1,2 @@
+# Članak 2.
+Prosječni dnevni neto uvoz izračunava se na temelju ekvivalenta sirove nafte u uvozu iz prethodne kalendarske godine, koji je zbroj neto uvoza sirove nafte, kondenzata prirodnog plina, rafinerijskih sirovina i ostalih ugljikovodika iz Odjeljka 4. Priloga B. Uredbe (EZ-a) br. 1099/2008 pomnožen faktorom 0,96 radi proizvodnje primarnog benzina i neto uvoza svih ostalih naftnih derivata, osim primarnog benzina, pomnožen faktorom 1,065.
