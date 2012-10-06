@@ -1,0 +1,4 @@
+# Članak 15.
+U slučaju da bazenska voda ne odgovara odredbama Priloga 1. ovoga Pravilnika, Zavodi za javno zdravstvo županija, odnosno Grada Zagreba te Hrvatski zavod za javno zdravstvo obvezni su odmah po dobivanju rezultata obavijestiti odgovornu osobu i nadležnu sanitarnu inspekciju.
+Zavodi za javno zdravstvo županija, odnosno Grada Zagreba obvezni su Hrvatskom zavodu za javno zdravstvo, kao voditelju registra bazenskih voda, dostaviti izvještaj o stanju zdravstvene ispravnosti bazenskih voda bazenskih kupališta na području županije odnosno Grada Zagreba do 31. siječnja za proteklu godinu.
+Hrvatski zavod za javno zdravstvo izrađuje godišnji izvještaj o stanju zdravstvene ispravnosti bazenskih voda bazenskih kupališta u Republici Hrvatskoj najkasnije do 20. ožujka za proteklu godinu te isti dostavlja nadležnoj sanitarnoj inspekciji.

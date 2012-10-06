@@ -1,0 +1,9 @@
+# Članak 16.
+Opseg ispitivanja uzoraka bazenske vode utvrđen je u Prilogu 4. koji se nalazi u privitku ovoga Pravilnika i čini njegov sastavni dio.
+Odgovorna osoba mora osigurati uzorkovanje bazenske vode dva puta mjesečno, a vode za punjenje jednom godišnje. Za sezonska bazenska kupališta potrebno je osigurati uzorkovanje istom dinamikom, ali samo u sezoni kupanja.
+Iznimno, za bazenska kupališta koja imaju instaliranu opremu za automatsko doziranje i opremu koja kontinuirano evidentira sve propisane parametre (temperaturu, slobodni klor, pH), odgovorna osoba mora osigurati uzorkovanje bazenske vode jedan puta mjesečno, a vode za punjenje jednom godišnje. Kod sezonskih bazenskih kupališta koja imaju instaliranu opremu za automatsko doziranje i opremu koja kontinuirano evidentira sve propisane parametre (temperaturu, slobodni klor, pH), odgovorna osoba mora osigurati uzorkovanje bazenske vode dva puta mjesečno, a vode za punjenje jednom godišnje u vrijeme rada.
+Ako bazensko kupalište ima više bazena, potrebno je uzorkovati bazensku vodu iz svakog bazena.
+Kada rezultati laboratorijskih analiza nisu u skladu s vrijednostima propisanima ovim Pravilnikom, laboratorij odmah obavještava odgovornu osobu bazenskog kupališta i nadležnog sanitarnog inspektora.
+Odgovorna osoba obvezna je poduzeti mjere osiguranja zdravstvene ispravnosti bazenske vode, a ukoliko to tehnički nije moguće izvesti, potrebno je zatvoriti kupalište. O poduzetim mjerama vodi se evidencija u očevidnik.
+Nadzor nad provođenjem mjera iz stavka 6. ovoga članka provodi nadležna sanitarna inspekcija.
+Po završetku analiza iz stavka 5. ovoga članka laboratoriji iz članka 14. ovoga Pravilnika obavljaju dodatno uzorkovanje kako bi se potvrdio prestanak onečišćenja, a ukoliko rezultati analiza i dalje ne odgovaraju odredbama ovoga Pravilnika, nadležna sanitarna inspekcija zabraniti će rad bazenskog kupališta.
