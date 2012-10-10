@@ -1,0 +1,7 @@
+# Članak 4.
+(1) Državne nagrade se mogu dodijeliti za osvojenu zlatnu medalju, odnosno prvo mjesto, na svjetskim i europskim seniorskim prvenstvima u neolimpijskim sportovima, neparaolimpijskim sportovima i neolimpijskim sportovima gluhih s duljom tradicijom u Republici Hrvatskoj.
+(2) Neolimpijski sportovi s duljom tradicijom u Republici Hrvatskoj u smislu ove Uredbe su neolimpijski sportovi u kojima se kontinuirano natječe 30 i više godina do dana stupanja na snagu ove Uredbe.
+(3) Neparaolimpijski sportovi s duljom tradicijom u Republici Hrvatskoj u smislu ove Uredbe su neparaolimpijski sportovi u kojima se kontinuirano natječe 15 i više godina do dana stupanja na snagu ove Uredbe.
+(4) Neolimpijski sportovi gluhih s duljom tradicijom u Republici Hrvatskoj u smislu ove Uredbe su neolimpijski sportovi gluhih u kojima se kontinuirano natječe 15 i više godina do dana stupanja na snagu ove Uredbe.
+(5) Hrvatski olimpijski odbor, Hrvatski paraolimpijski odbor i Hrvatski sportski savez gluhih donose popis neolimpijskih, neparaolimpijskih i neolimpijskih sportova gluhih koji ispunjavaju kriterije iz stavaka 2., 3. i 4. ovoga članka, uz prethodnu suglasnost ministarstva nadležnog za poslove sporta (u daljnjem tekstu: Ministarstvo).
+(6) Radi naknadnog ispunjenja kriterija iz stavaka 2., 3. i 4. ovoga članka, Hrvatski olimpijski odbor, Hrvatski paraolimpijski odbor i Hrvatski sportski savez gluhih mogu jednom godišnje, uz prethodnu suglasnost Ministarstva, izmijeniti odnosno dopuniti popis sportova iz stavka 5. ovoga članka.
