@@ -1,0 +1,1 @@
+Odluka o koncesiji na pomorskom dobru u svrhu izgradnje i gospodarskog korištenja luke posebne namjene luke nautičkog turizma - "Marina Gruž", na dijelu k.o. Gruž, na području Grada Dubrovnika
