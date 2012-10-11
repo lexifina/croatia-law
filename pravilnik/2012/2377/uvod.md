@@ -1,0 +1,1 @@
+Na temelju odredaba članka 27. stavka 2. Zakona o investicijskim fondovima (»Narodne novine«, broj 150/05) Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća održanoj 27. rujna 2012. godine donijela je
