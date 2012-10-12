@@ -1,0 +1,36 @@
+UPITNIK ZA PREMJEŠTAJ
+PRIJAVA ZA RADNO MJESTO
+__________________________________________________
+__________________________________________________
+__________________________________________________
+(naziv radnog mjesta i ustrojstvena jedinica)
+I. OSOBNI PODACI
+1. PREZIME_________________________
+2. IME______________________________
+3. MATIČNI BROJ ____________________
+4. ZAVRŠENA STUČNA SPREMA/ STUPANJ OBRAZOVANJA I ZANIMANJE/ZVANJE
+________________________________________________________
+5. OSOBNO POLICIJSKO ZVANJE __________________________
+6. U SLUŽBI OD______________
+7. OCJENE RADA U POSLJEDNJE 2 GODINE__________________
+8. NAGRADE I PRIZNANJA_________________________________
+9. ZAVRŠENI TEČAJEVI I SEMINARI_________________________
+II. SADAŠNJI RASPORED
+USTROJSTVENA JEDINICA________________________________
+RADNO MJESTO__________________________________________
+III. KRETANJA U SLUŽBI
+1.
+__________________________________________________
+__________________________________________________
+2. ________________________________________________
+__________________________________________________
+3.
+__________________________________________________
+__________________________________________________
+IV. MOTIVI ZA PREMJEŠTAJ
+__________________________________________________
+__________________________________________________
+Datum______________
+___________________
+(potpis)
+113 12.10.2012 Pravilnik o sadržaju i dostupnosti informacija o slobodnim radnim mjestima policijskih službenika te načinu objave popisa slobodnih radnih mjesta, sastavu i načinu rada Povjerenstva za odabir kandidata za premještaj 113 12.10.2012 Pravilnik o sadržaju i dostupnosti informacija o slobodnim radnim mjestima policijskih službenika te načinu objave popisa slobodnih radnih mjesta, sastavu i načinu rada Povjerenstva za odabir kandidata za premještaj

@@ -1,0 +1,1 @@
+Pravilnik o sadržaju i dostupnosti informacija o slobodnim radnim mjestima policijskih službenika te načinu objave popisa slobodnih radnih mjesta, sastavu i načinu rada Povjerenstva za odabir kandidata za premještaj
