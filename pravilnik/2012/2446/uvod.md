@@ -1,0 +1,1 @@
+Na temelju članka 26. stavka 9. i stavka 12., članka 27. stavka 3., članka 28. stavka 5. i članka 29. stavka 4. Zakona o morskom ribarstvu (»Narodne novine«, br. 56/2010, 117/2010, 55/2011 i 50/2012) ministar poljoprivrede donosi
