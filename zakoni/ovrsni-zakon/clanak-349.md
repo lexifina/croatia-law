@@ -1,0 +1,5 @@
+## Jamčevina kao uvjet za određivanje privremene mjere
+# Članak 349.
+(1) Sud može na prijedlog predlagatelja osiguranja odrediti privremenu mjeru i kad nije učinio vjerojatnim postojanje tražbine i opasnost ako prethodno, u roku koji mu je sud odredio, da osiguranje za štetu koja bi protivniku osiguranja mogla nastati određivanjem i provedbom privremene mjere. Ako predlagatelj osiguranja ne da osiguranje u određenom roku, sud će odbiti prijedlog za osiguranje.
+(2) Sud može na prijedlog protivnika osiguranja, prema okolnostima slučaja, postupiti po odredbi stavka 1. ovoga članka i kad je predlagatelj osiguranja učinio vjerojatnim postojanje tražbine i opasnosti. Ako predlagatelj osiguranja ne da osiguranje u određenom roku, sud će obustaviti postupak i ukinuti provedene radnje. Okolnost da je protivnik osiguranja zatražio davanje osiguranja ne odgađa provedbu postupka osiguranja dok sud ne odluči o njegovu prijedlogu.
+(3) Osiguranje se određuje do isteka roka do kojega protivnik osiguranja može u postupku osiguranja zatražiti naknadu štete.

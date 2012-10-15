@@ -1,0 +1,7 @@
+## Zaštita ovršenika fizičke osobe
+# Članak 75.
+(1) Ovrha radi ostvarenja novčane tražbine ne može se provesti na stvarima i pravima fizičke osobe koja ne obavlja registriranu djelatnost koja su nužna za zadovoljenje osnovnih životnih potreba ovršenika i osoba koje je po zakonu dužan uzdržavati.
+(2) Ovrha radi ostvarenja novčane tražbine protiv fizičke osobe koja obavlja registriranu djelatnost može se provesti na cjelokupnoj njezinoj imovini, osim na onim stvarima i pravima na kojima se protiv nje ne bi mogla provesti kad ne bi obavljala registriranu djelatnost te na onim stvarima i pravima koja su nužna za obavljanje njezine registrirane djelatnosti ako joj je ona glavni izvor sredstava za život.
+(3) U ovrsi radi ostvarenja novčane tražbine protiv fizičke osobe koja obavlja registriranu djelatnost na odgovarajući se način primjenjuju odredbe članka 242. ovoga Zakona.
+(4) Odredba stavka 1. ovoga članka neće se primjenjivati u slučajevima u kojima su ovim Zakonom za ovrhu na određenim stvarima ili pravima utvrđena posebna pravila o izuzimanju od ovrhe ili o ograničenju ovrhe.
+(5) Nekretnine za stanovanje ili obavljanje poslovne djelatnosti ne smatraju se stvarima koje su nužne za zadovoljavanje osnovnih životnih potreba ovršenika i osoba koje je po zakonu dužan uzdržavati ili za obavljanje samostalne djelatnosti koja je njegov glavni izvor sredstava za život, osim ako zakonom nije drukčije određeno.

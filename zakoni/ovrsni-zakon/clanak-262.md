@@ -1,0 +1,9 @@
+## Ovrha radi ostvarenja obveze na radnju koju može obaviti samo ovršenik
+# Članak 262.
+(1) Ako radnju utvrđenu u ovršnoj ispravi može obaviti samo ovršenik, sud će rješenjem o ovrsi odrediti ovršeniku primjereni rok za ispunjenje obveze.
+(2) Rješenjem o ovrsi sud će istodobno zaprijetiti ovršeniku da će protiv njega izreći određenu novčanu kaznu u skladu s odredbama članka 16. ovoga Zakona ako u roku koji mu je određen ne ispuni obvezu.
+(3) Ako ovršenik u roku koji mu je određen ne ispuni obvezu, sud će, na prijedlog ovrhovoditelja, rješenjem ovršeniku izreći novčanu kaznu kojom mu je zaprijetio. U tom rješenju sud će ovršeniku odrediti novi rok za ispunjenje obveze i zaprijetiti novom novčanom kaznom u većem iznosu nego što je bila ona kojom mu je prije zaprijetio, ako ni u tom roku ne ispuni obvezu.
+(4) Pri odmjeravanju visine novčane kazne u propisanim granicama, sud će voditi računa o značenju radnje koju je ovršenik bio dužan obaviti te o drugim okolnostima slučaja.
+(5) Ovršenik koji je ispunio svoju obvezu u roku koji mu je sud odredio, dužan je bez odgode o tome obavijestiti sud i priložiti nesumnjive dokaze o tome. Nesumnjivim će se dokazom smatrati ovjerovljena pisana izjava ovrhovoditelja o tome da je radnja obavljena, javnobilježnički zapisnik ili zapisnik sudskoga ovršitelja o obavljanju radnje, nalaz i mišljenje sudskoga vještaka da je radnja obavljena, predaja djela koje je radnjom učinjeno u sudski ili javnobilježnički polog i sl. U protivnome, smatrat će se da radnja nije obavljena.
+(6) Prije izricanja novčane kazne sud će omogućiti ovršeniku da se očituje, a po potrebi održat će i ročište radi izvođenja dokaza.
+(7) Ako radnja koju može obaviti samo ovršenik ne ovisi isključivo o njegovoj volji (npr. stvaranje određenoga umjetničkog djela i sl.), ovrhovoditelj nema pravo tražiti ovrhu iz stavka 1. ovoga članka, nego samo naknadu štete.

@@ -1,0 +1,4 @@
+## Prijedlog za određivanje privremene mjere
+# Članak 341.
+(1) Privremena mjera može se predložiti prije pokretanja i tijekom sudskoga ili upravnoga postupka te nakon završetka tih postupaka, sve dok ovrha ne bude provedena.
+(2) U prijedlogu za određivanje privremene mjere predlagatelj osiguranja mora istaknuti zahtjev u kojemu će točno označiti tražbinu čije osiguranje traži, odrediti kakvu mjeru traži i vrijeme njezina trajanja te, kada je to potrebno, sredstva osiguranja kojima će se privremena mjera prisilno ostvariti te predmet osiguranja, uz odgovarajuću primjenu pravila ovoga Zakona o sredstvima i predmetu ovrhe. U prijedlogu se moraju navesti činjenice na kojima se temelji zahtjev za određivanje privremene mjere te predložiti dokazi kojima se ti navodi potkrepljuju. Predlagatelj osiguranja dužan je te dokaze, po mogućnosti, priložiti uz prijedlog.

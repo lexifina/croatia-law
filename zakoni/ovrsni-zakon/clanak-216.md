@@ -1,0 +1,11 @@
+## Registar zadužnica i bjanko zadužnica
+# Članak 216.
+(1) Registar zadužnica i bjanko zadužnica sadrži podatke o osobi koja ih je izdala, vrsti zadužnice, u čiju je korist izdana ako je riječ o zadužnici, je li preuzeto jamstvo za obvezu iz zadužnice ili bjanko zadužnice i tko ga je preuzeo, koji je iznos tražbine za koju je izdana odnosno koji se najviši iznos u nju može upisati te podaci o javnom bilježniku koji je ispravu potvrdio, datumu i poslovnom broju potvrde.
+(2) Javni bilježnik koji potvrdi zadužnicu ili bjanko zadužnicu dužan je podatke iz stavka 1. ovoga članka odmah elektroničkim putem priopćiti službi registra.
+(3) Pravilnik o sadržaju i načinu vođenja registra iz stavka 1. ovoga članka propisat će ministar nadležan za poslove pravosuđa.
+(4) Podaci iz registra su povjerljivi i njima se može koristiti samo Agencija radi provjere istinitosti zadužnica kad se na temelju njih zatraži naplata tražbina koje su u njima utvrđene. Podaci iz registra dostavit će se na zahtjev sudu ili drugom nadležnom tijelu u vezi s postupkom koji se pred njima vode.
+(5) Za obavljanje poslova potvrde suglasnosti o zapljeni, zadužnice i bjanko zadužnice javni bilježnici imaju pravo na nagradu i naknadu troškova u iznosima koji pravilnikom utvrđuje ministar nadležan za poslove pravosuđa. Za ove poslove javni bilježnici ne naplaćuju javnobilježničku pristojbu.
+(6) Zadužnicu ili bjanko zadužnicu ovjerenu ili potvrđenu prije stupanja na snagu ovoga Zakona vjerovnik je dužan prije podnošenja iste na naplatu zatražiti kod javnog bilježnika upis zadužnice ili bjanko zadužnice u registar iz stavka 1. ovoga članka.
+(7) Za upis zadužnica ili bjanko zadužnica iz stavka 6. ovoga članka javni bilježnik nema pravo na nagradu ni naknadu troškova. Za ove poslove javni bilježnik ne naplaćuje javnobilježničku pristojbu.
+(8) Ako Agencija zaprimi zadužnicu ili bjanko zadužnica koja nije upisana u registar iz stavka 1. ovog članka ili se podaci iz dostavljene zadužnice odnosno bjanko zadužnice ne podudaraju s podacima iz registra, Agencija istu neće upisati u Očevidnik neizvršenih osnova za plaćanje niti ju izvršiti sukladno odredbama Zakona o provedbi ovrhe na novčanim sredstvima.
+7. Provedba ovrhe radi naplate novčane tražbine po osnovi radnog odnosa koja je utvrđena u brutoiznosu

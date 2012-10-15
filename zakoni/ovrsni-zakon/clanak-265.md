@@ -1,0 +1,5 @@
+## Ponovno smetanje posjeda
+# Članak 265.
+(1) Ako je na osnovi ovršne isprave, donesene u postupku zbog smetanja posjeda, ovrha provedena, ili je ovršenik dobrovoljno ispunio svoju obvezu, pa poslije toga ponovno učini smetanje posjeda, koje se u biti ne razlikuje od prijašnjega, sud će na prijedlog ovrhovoditelja na temelju iste ovršne isprave, ako je njome zabranjeno takvo buduće ponašanje, donijeti novo rješenje o ovrsi radi uspostave prijašnjega stanja, ako je to potrebno, i zaprijetiti ovršeniku izricanjem novčane kazne ako ponovno počini smetanje posjeda. U tom se slučaju na odgovarajući način primjenjuju odredbe članka 263. ovoga Zakona.
+(2) Prijedlog za donošenje rješenja iz stavka 1. ovoga članka ovrhovoditelj može podnijeti već u prvom prijedlogu za ovrhu na temelju rješenja zbog smetanja posjeda kojim je ovršeniku zabranjeno ponovno takvo ponašanje.
+(3) Prijedlog za ovrhu iz stavka 1. ovoga članka ovrhovoditelj može podnijeti u roku od trideset dana od dana saznanja za ponovno smetanje posjeda, a najkasnije u roku od godine dana nakon ponovljenoga smetanja.

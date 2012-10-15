@@ -1,0 +1,12 @@
+## Upućivanje na parnicu u povodu žalbe
+# Članak 52.
+(1) Ako je žalba izjavljena iz razloga iz članka 50. stavka 1. točke 7. i točaka 9. do 11. ovoga Zakona, sud prvoga stupnja dostavit će žalbu ovrhovoditelju radi očitovanja u roku od osam dana.
+(2) Ako ovrhovoditelj prizna postojanje kojeg od razloga zbog kojih je žalba izjavljena, sud će obustaviti ovrhu.
+(3) Ako ovrhovoditelj ospori postojanje tih razloga ili se ne očituje u roku od osam dana, sud prvoga stupnja donijet će bez odgode rješenje kojim će ovršenika uputiti da u roku od petnaest dana od pravomoćnosti toga rješenja pokrene parnicu radi proglašenja ovrhe nedopuštenom zbog razloga iz stavka 1. ovoga članka zbog kojeg je izjavio žalbu.
+(4) Iznimno od odredbe stavka 3. ovoga članka, sud neće ovršenika uputiti na parnicu, nego će prihvatiti njegovu žalbu, ukinuti provedene radnje i obustaviti ovrhu ako on njezinu osnovanost dokaže javnom ili javno ovjerovljenom ispravom, odnosno ako su činjenice na kojima se temelji njegova žalba zbog razloga iz stavka 1. ovoga članka općepoznate ili se mogu utvrditi primjenom pravila o zakonskim predmnjevama.
+(5) Na pokretanje i vođenje parnice iz stavka 3. ovoga članka na odgovarajući se način primjenjuju pravila o parnici na koju se ovršenik upućuje u povodu žalbe nakon proteka roka.
+(6) Okolnost da je ovršenik upućen na parnicu iz stavka 3. ovoga članka ili da ju je pokrenuo ne sprječava provedbu ovrhe i ostvarenje ovrhovoditeljeve tražbine, osim ako ovim Zakonom nije drukčije određeno.
+(7) Ako je žalba izjavljena i zbog kojeg od razloga iz članka 50. stavka 1. točaka 1. do 6. i točke 8. ovoga Zakona, sud prvoga stupnja, ako smatra da žalba zbog njih nije osnovana, uputit će bez odgode presliku spisa sudu drugoga stupnja radi odlučivanja o žalbi u povodu tih razloga.
+(8) Ako ovršenik izjavi žalbu protiv rješenja o upućivanju na parnicu, sud prvoga stupnja tu će žalbu uputiti sudu drugoga stupnja radi zajedničkog odlučivanja o toj žalbi i žalbi protiv rješenja o ovrsi.
+(9) Ako je prvostupanjski sud već proslijedio presliku spisa drugostupanjskom sudu u povodu žalbe iz stavka 7. ovoga članka, o toj će okolnosti upozoriti drugostupanjski sud prigodom upućivanja preslike spisa u povodu žalbe protiv rješenja o upućivanju na parnicu.
+(10) U slučaju iz stavka 4. ovoga članka ovrhovoditelj koji smatra da je ovlašten na temelju određene ovršne isprave predložiti ovrhu, može tužbom zatražiti da se to utvrdi u posebnoj parnici.

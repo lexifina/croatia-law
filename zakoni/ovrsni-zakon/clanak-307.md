@@ -1,0 +1,5 @@
+## Zasnivanje založnoga prava na temelju javnobilježničke isprave
+# Članak 307.
+(1) Sporazum vjerovnika i dužnika koji se po svom sadržaju podudara sa sporazumom stranaka iz članka 301. stavka 1. ovoga Zakona, sklopljen u obliku javnobilježničkoga akta ili solemnizirane privatne isprave, koji sadrže i izjavu dužnika da je suglasan da se, radi osiguranja određene novčane tražbine vjerovnika, na nekom njegovu predmetu može zasnovati založno pravo radnjama iz članka 300. točaka 2. do 12. ovoga Zakona koje će umjesto suda poduzeti javni bilježnik, izjednačeni su po svom učinku sa zapisnikom iz članka 301. stavka 2. ovoga Zakona.
+(2) Radnje iz članka 300. točaka 2. do 12. ovoga Zakona kojima se na predmetima protivnika osiguranja stječe založno pravo javni bilježnik poduzima na način predviđen za poduzimanje tih radnji od strane suda, s time da javni bilježnik sve radnje za čije je poduzimanje potrebna suradnja stranaka smije poduzeti samo uz suglasnost stranaka.
+(3) Koji je javni bilježnik ovlašten poduzimati pojedine radnje osiguranja, ocjenjuje se prema pravilima o službenom području i sjedištu javnih bilježnika.

@@ -1,0 +1,6 @@
+## Način utvrđivanja vrijednosti
+# Članak 92.
+(1) Vrijednost nekretnine sud utvrđuje zaključkom po slobodnoj ocjeni nakon održanog ročišta na kojemu će strankama biti omogućeno da se o tome izjasne te da prilože odgovarajuće pisane dokaze. Podatke o stanju na tržištu nekretnina sud može zatražiti i od porezne uprave, ako ocijeni da je to potrebno.
+(2) Pri utvrđivanju vrijednosti nekretnine vodit će se računa i o tome koliko ona manje vrijedi zato što na njoj ostaju određena prava i tereti i nakon prodaje.
+(3) Ako su u sudskom ili izvansudskom sporazumu na temelju kojega je stečeno založno ili koje drugo odgovarajuće pravo na nekretnini radi osiguranja tražbine čije se namirenje traži stranke utvrdile vrijednost nekretnine, ta će se vrijednost uzeti kao mjerodavna, osim ako se stranke drukčije ne sporazumiju u postupku pred sudom najkasnije do donošenja zaključka o prodaji.
+(4) Odredba stavka 3. ovoga članka neće se primijeniti ako ima založnih vjerovnika, ovlaštenika prava na namirenje ili osobnih služnosti upisanih u zemljišnoj knjizi koji prestaju prodajom nekretnine, koji se u ovrsi na nekretnini namiruju prije ovrhovoditelja koji je zatražio ovrhu, osim ako se oni tako ne sporazumiju najkasnije do donošenja zaključka o prodaji.

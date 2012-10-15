@@ -1,0 +1,8 @@
+# Članak 217.
+(1) Kad predlaže provedbu ovrhe radi naplate novčane tražbine po osnovi radnog odnosa koja je utvrđena u brutoiznosu, ovrhovoditelj je ovlašten na temelju izvješća obračuna dospjele, a neisplaćene plaće kao ovršne isprave, tražiti ovrhu radi naplate ukupno utvrđenog iznosa.
+(2) Porezna uprava će na zahtjev ovrhovoditelja, sukladno članku 18., izdati potvrdu o obračunu poreza, prireza i doprinosa, uključujući i doprinos za individualnu kapitaliziranu štednju iz ukupno utvrđenog iznosa, u skladu s važećim propisima koji uređuju obračunavanje i plaćanje doprinosa iz plaće i poreza na dohodak, uz naznaku propisanih računa na koje će se uplatiti porez, prirez i doprinosi, uključujući i doprinos za individualnu kapitaliziranu štednju.
+(3) Obračun iz stavka 2. ovoga članka nema značenje upravnog akta i protiv njega nisu dopušteni pravni lijekovi.
+(4) Uz prijedlog za ovrhu iz stavka 1. ovoga članka ovrhovoditelj je dužan priložiti potvrdu o obračunu iz stavka 2. ovoga članka, koja potvrda će se ovršeniku dostaviti uz rješenje o ovrsi.
+(5) Na temelju ovršne odluke i nagodbe domaćeg suda ili upravnog tijela koje glase na ispunjenje određene novčane tražbine po osnovi radnog odnosa koja je utvrđena u brutoiznosu i koja ima potvrdu o ovršnosti ovrhovoditelj može zatraži izravnu naplatu ukupno dosuđenog iznosa od Agencije sukladno članku 209. ovoga Zakona. Ako ovrhovoditelj zatraži izravnu naplatu od Agencije dužan je uz tu ispravu dostaviti i potvrdu o obračunu iz stavka 2. ovoga članka.
+(6) Po primitku zahtjeva za izravnu naplatu iz stavka 5. ovoga članka Agencija će naložiti prijenos iznosa iz ovršne isprave prema podacima iz potvrde o obračunu.
+8. Mjerodavne odredbe u postupcima za naplatu novčane tražbine na novčanim sredstvima na računu

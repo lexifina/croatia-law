@@ -1,0 +1,8 @@
+## Pravo protivnika osiguranja da nekretninu optereti hipotekom
+# Članak 319.
+(1) Protivnik osiguranja ovlašten je, bez pristanka predlagatelja osiguranja, prenesenu nekretninu opteretiti hipotekom u korist nekog drugog vjerovnika, osim ako zabrana opterećenja od strane protivnika osiguranja nije zabilježena u zemljišnoj knjizi na temelju sporazuma iz članka 310. stavka 1. ovoga Zakona ili naknadnog sporazuma stranaka sastavljenog na jedan od načina predviđenih za sklapanje toga sporazuma.
+(2) U slučaju iz stavka 1. ovoga članka hipoteka će se upisati u zemljišne knjige na temelju odgovarajuće isprave protivnika osiguranja ako bi se na temelju te isprave mogla upisati da do prijenosa vlasništva nije došlo.
+(3) Zasnivanje hipoteke iz stavka 1. ovoga članka ne oduzima pravo predlagatelju osiguranja da s nekretninom raspolaže kao da hipoteka na njoj nije upisana.
+(4) U slučaju izvansudske prodaje nekretnine iz članaka 316. i 317. ovoga Zakona javni bilježnik koji provodi prodaju dužan je o tome obavijestiti novog hipotekarnog vjerovnika te protivnika osiguranja, na adresu iz ugovora o osiguranju koji su s tim osobama sklopljeni. Prodaja će se obaviti neovisno o tome je li ta obavijest dostavljena tim osobama.
+(5) Iz iznosa dobivenog prodajom nekretnine najprije će se namiriti tražbina predlagatelja osiguranja, a zatim tražbina hipotekom osiguranog vjerovnika. Preostali iznos javni bilježnik dužan je predati protivniku osiguranja.
+(6) Kupac nekretnine iz stavka 5. ovoga članka ovlašten je tražiti da se na temelju ugovora o prodaji iz članka 317. stavka 3. ovoga Zakona prigodom upisa njegova prava vlasništva briše hipoteka iz stavka 1. ovoga članka, osim ako se kupac nije drukčije sporazumio s hipotekarnim vjerovnikom.

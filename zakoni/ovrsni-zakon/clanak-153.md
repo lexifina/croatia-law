@@ -1,0 +1,6 @@
+## Organizacija i provedba poslova javnog komisionara
+# Članak 153.
+(1) Poslove javnog komisionara organizira i provodi Hrvatska gospodarska komora.
+(2) Hrvatska gospodarska komora, na vlastiti poticaj ili u povodu prijedloga zainteresiranih tijela, organizirat će javne prodavaonice za obavljanje poslova javnoga komisionara za područje jedne ili više županija, ovisno o broju ovrha koje se provode na pokretninama, njihovoj naravi, količini, vrijednosti te gospodarskoj isplativosti.
+(3) Na prijedlog Hrvatske gospodarske komore ministarstvo nadležno za poslove gospodarstva može dozvoliti da ona poslove javnog komisionara za određeno područje ili neke od poslova javnog komisionara za određeno područje, na temelju provedenog natječaja, povjeri fizičkoj ili pravnoj osobi koja ispunjava uvjete za obavljanje poslova javnog komisionara. O povjeravanju poslova Hrvatska gospodarska komora sklopit će s izabranim komisionarom ugovor uz prethodnu suglasnost ministarstva nadležnog za poslove gospodarstva.
+(4) Dozvolu za obavljanje poslova javnog komisionara Hrvatskoj gospodarskoj komori za pojedinu javnu komisionu prodavaonicu, odnosno javnom komisionaru iz stavka 3. ovoga članka izdaje ured državne uprave u županiji, nadležan za gospodarstvo, na čijem je području sjedište javne komisione prodavaonice, odnosno javnog komisionara.

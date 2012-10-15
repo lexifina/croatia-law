@@ -1,0 +1,5 @@
+## Pravo na korištenje stvari ili vršenje prava
+# Članak 315.
+(1) Ako sporazumom iz članka 310. stavka 1. ovoga Zakona ili naknadnim sporazumom stranaka sastavljenom u obliku javne isprave ili privatne isprave na kojoj je potpis stranaka javno ovjerovljen nije drukčije određeno, protivnik osiguranja ovlašten je i dalje koristiti stvar čije je vlasništvo preneseno na predlagatelja osiguranja, odnosno vršiti pravo koje je preneseno na predlagatelja osiguranja.
+(2) Sporazumom iz članka 310. stavka 1. ovoga Zakona ili naknadnim sporazumom sastavljenim u obliku javne isprave ili privatne isprave na kojoj je potpis protivnika osiguranja javno ovjerovljen može se predvidjeti da predlagatelj osiguranja koristi stvar ili vrši pravo koji su na njega preneseni.
+(3) U sporazumu iz stavka 2. ovoga članka mora biti utvrđen način na koji će predlagatelj osiguranja koristiti stvar ili vršiti pravo te kako će se obračunavati koristi koje će od toga imati. Te će se koristi prebijati s troškovima na čiju naknadu predlagatelj osiguranja ima pravo, zatim s kamatama koje mu se duguju i napokon s glavnicom, ako navedenim sporazumom nije drukčije određeno.

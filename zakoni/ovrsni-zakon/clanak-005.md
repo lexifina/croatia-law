@@ -1,0 +1,11 @@
+## Ograničenje sredstava i predmeta ovrhe i osiguranja
+# Članak 5.
+(1) Sud određuje ovrhu, odnosno osiguranje onim sredstvom i na onim predmetima koji su navedeni u ovršnom prijedlogu, odnosno prijedlogu za osiguranje.
+(2) Ako je predloženo više sredstava ili više predmeta ovrhe, odnosno osiguranja, sud će, na prijedlog ovršenika, odnosno protivnika osiguranja, ograničiti ovrhu, odnosno osiguranje samo na neka od tih sredstava, odnosno predmeta, ako su dovoljni za ostvarenje ili osiguranje tražbine.
+(3) Ako se pravomoćno rješenje o ovrsi određenim sredstvom ili na određenom predmetu ne može provesti, ovrhovoditelj može radi namirenja iste tražbine predložiti novo sredstvo ili predmet ovrhe. U tom slučaju sud će donijeti novo rješenje o ovrsi i nastaviti ovrhu na temelju toga rješenja. Ovrha određena prijašnjim rješenjem o ovrsi obustavit će se ako ovrhovoditelj povuče ovršni prijedlog u povodu kojega je ona određena ili ako za to budu ispunjeni drugi zakonom predviđeni razlozi.
+(4) Ako ovrhovoditelj u roku od dva mjeseca od obavijesti suda o nemogućnosti provedbe ovrhe ne podnese prijedlog iz stavka 3. ovoga članka, ovrha će se obustaviti.
+(5) Smatrat će se da je ovrhovoditelj podnio prijedlog iz stavka 3. ovoga članka ako je u roku iz stavka 4. ovoga članka zatražio davanje prokazne izjave, odnosno prokaznog popisa imovine. Nakon što prokazna izjava, odnosno prokazni popis imovine bude položen, ovrhovoditelj je dužan u daljnjem roku od dva mjeseca predložiti ovrhu drugim sredstvom ili na drugom predmetu ovrhe. U protivnom ovrha će se obustaviti.
+(6) Žalba protiv novoga rješenja o ovrsi iz stavka 3. ovoga članka ne može se izjaviti iz razloga zbog kojih se mogla izjaviti protiv prijašnjeg rješenja o ovrsi.
+(7) Žalba nakon proteka roka protiv novoga rješenja o ovrsi iz stavka 3. ovoga članka može se podnijeti samo ako su razlozi zbog kojih se podnosi nastali nakon vremena kad se više nisu mogli iznijeti u roku za žalbu protiv prethodnoga rješenja o ovrsi.
+(8) Glede sudskih pristojbi, prijedlog i rješenje o ovrsi iz stavka 3. ovoga članka ne smatraju se novim prijedlogom i rješenjem.
+(9) Određivanje ovrhe novim sredstvom ili na novom predmetu te njezina provedba smatrat će se prigodom vrednovanja obujma sudačkoga rada novim ovršnim predmetom.

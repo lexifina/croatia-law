@@ -1,0 +1,8 @@
+## Potvrda o ovršnosti
+# Članak 36.
+(1) Ako se prijedlog za ovrhu podnosi sudu koji o tražbini nije odlučivao u prvom stupnju, uz prijedlog se podnosi ovršna isprava, u izvorniku ili ovjerovljenom prijepisu, na kojoj je stavljena potvrda o ovršnosti, odnosno vjerodostojna isprava.
+(2) Potvrdu o ovršnosti daje sud, odnosno tijelo koje je odlučivalo o tražbini u prvom stupnju.
+(3) Potvrdu o ovršnosti za izdavanje koje nisu bili ispunjeni zakonom propisani uvjeti ukinut će rješenjem isti sud, odnosno tijelo, na prijedlog ili po službenoj dužnosti.
+(4) Arbitražni sudovi ne daju potvrde o ovršnosti svojih odluka, osim ako zakonom nije drukčije određeno. U povodu pravnog lijeka ovršenika sud koji vodi ovršni postupak ispitat će je li odluka arbitražnog suda ovršna ili nije, i u ovisnosti o ishodu takve provjere odlučiti sam o pravnom lijeku ili predmet proslijediti drugom nadležnom sudu (članak 51.).
+(5) Javni bilježnici sami daju potvrde o ovršnosti svojih isprava. U povodu pravnog lijeka ovršenika, sud koji vodi ovršni postupak ispitat će jesu li bili ispunjeni uvjeti za davanje takve potvrde uzimajući u obzir i izjave osoba koje su prema toj ispravi ovlaštene potvrditi nastupanje okolnosti o kojima ovisi stjecanje toga svojstva (članak 29. stavci 5. i 6.). Ako sud utvrdi da uvjeti za davanje javnobilježničke potvrde o ovršnosti nisu bili ispunjeni, tu će potvrdu ukinuti rješenjem u ovršnom postupku.
+(6) O zahtjevu za ukidanje potvrde o ovršnosti koju je dao javni bilježnik na svojoj ispravi, podnesenom izvan ovršnog postupka, odlučuje u izvanparničnom postupku općinski sud na čijem je području sjedište javnog bilježnika.

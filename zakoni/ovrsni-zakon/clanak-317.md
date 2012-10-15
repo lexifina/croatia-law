@@ -1,0 +1,6 @@
+## Način prodaje predmeta osiguranja
+# Članak 317.
+(1) Na prodaje iz članka 316. stavaka 1. i 2. ovoga Zakona glede načina njihove provedbe, a osobito prodajne cijene na odgovarajući se način primjenjuju pravila o prodaji odnosno unovčenju predmeta osiguranja kao predmeta ovrhe u ovršnom postupku.
+(2) O prodaji predmeta osiguranja i o svakoj dražbi javni bilježnik uputit će obavijest protivniku osiguranja na adresu iz sporazuma iz članka 310. stavka 1. ovoga Zakona. Prodaja će se obaviti neovisno o tome je li obavijest dostavljena protivniku osiguranja.
+(3) Na temelju provedene dražbe, pošto kupovnina bude položena, javni bilježnik sklopit će u obliku javnobilježničkog akta u ime predlagatelja osiguranja s kupcem ugovor o prodaji predmeta osiguranja. U slučaju prodaje nekretnine u tom će se ugovoru posebno naznačiti da je kupac ovlašten prigodom upisa svoga prava vlasništva u zemljišnim knjigama ishoditi brisanje zabilježbe da je nekretnina na predlagatelja osiguranja bila prenesena radi osiguranja.
+(4) Kada su predmet osiguranja nematerijalizirani vrijednosni papiri čiju je prodaju javni bilježnik povjerio ovlaštenom društvu (članak 316. stavak 3.) prodaju će obaviti to društvo u skladu s odredbama Zakona o tržištu kapitala, u svoje ime a za račun predlagatelja osiguranja. O toj prodaji ovlašteno društvo obavijestit će javnog bilježnika.

@@ -1,0 +1,5 @@
+## Nekretnine
+# Članak 241.
+(1) Nekretnine koje se koriste kao uredske prostorije te nekretnine koje nisu izgrađene ili preuređene radi obavljanja strogo namjenske djelatnosti ne smatraju se stvarima koje su nužne za obavljanje djelatnosti pravne osobe. Ako se ista nekretnina (npr. zgrada) koristi kao uredski prostor i za obavljanje namjenske djelatnosti, ovrha se može provesti na dijelu nekretnine koji se koristi kao uredski prostor.
+(2) Nekretnine koje su izgrađene ili preuređene za obavljanje strogo namjenske djelatnosti mogu biti predmet ovrhe ako se zbog njihova otuđenja neće obustaviti djelatnost ovršenika, osobito ako se ono što ovršenik dobiva djelatnošću na toj nekretnini može naknaditi nabavkama na tržištu, odnosno ako se na tržištu može zakupiti poslovni prostor u kojemu se može obavljati takva djelatnost.
+(3) Nekretnine koje služe obavljanju koje od više djelatnosti ovršenika i zbog otuđenja kojih neće prestati ostale djelatnosti ovršenika ne smatraju se stvarima koje su nužne za obavljanje njegove djelatnosti.

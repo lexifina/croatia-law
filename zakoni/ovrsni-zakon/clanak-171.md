@@ -1,0 +1,6 @@
+## Mjesna nadležnost
+# Članak 171.
+(1) Za odlučivanje o prijedlogu za ovrhu na novčanoj tražbini i za provedbu te ovrhe mjesno je nadležan sud na čijem se području nalazi prebivalište ovršenika, a ako ovršenik nema prebivalište u Republici Hrvatskoj, nadležan je sud na čijem se području nalazi ovršenikovo boravište.
+(2) Ako ovršenik nema u Republici Hrvatskoj ni boravište, mjesno je nadležan sud na čijem se području nalazi prebivalište ovršenikova dužnika, a ako ovaj nema prebivalište u Republici Hrvatskoj, nadležan je sud na čijem se području nalazi boravište ovršenikova dužnika.
+(3) Odredbe stavaka 1. i 2. ovoga članka koje se odnose na prebivalište fizičke osobe na odgovarajući se način primjenjuju i na sjedište pravne osobe.
+(4) Kad je ovršenik Republika Hrvatska ili koja druga pravna osoba s javnim ovlastima koja djeluje na cijelom državnom području, za ovrhu iz stavka 1. ovoga članka nadležan je sud na čijem području ovrhovoditelj ima prebivalište ili sjedište u Republici Hrvatskoj. Ako ovrhovoditelj nema prebivalište ili sjedište u Republici Hrvatskoj, za ovrhu protiv Republike Hrvatske nadležan je sud u Zagrebu, a za ovrhu protiv drugih pravnih osoba s javnim ovlastima sud na čijem je području njihovo sjedište.

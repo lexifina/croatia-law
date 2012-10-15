@@ -1,0 +1,4 @@
+## Zaštita ovrhovoditelja
+# Članak 77.
+(1) Ako je ovrhovoditelj na temelju pravnoga posla s ovršenikom stekao na nekoj stvari ili pravu založno ili slično pravo radi osiguranja tražbine čije prisilno ostvarenje na tom predmetu traži, ovršenik se ne može protiviti takvoj ovrsi pozivajući se na razloge iz članka 75. stavka 1. i članka 76. stavka 1. ovoga Zakona te na druge odredbe ovoga Zakona o izuzimanju od ovrhe ili o ograničenju ovrhe, osim na odredbe članka 4. stavaka 4., 5. i 6. ovoga Zakona.
+(2) Ovršenik se ne može protiviti ovrsi na nekoj stvari ili nekom pravu pozivajući se na odredbe članka 75. stavka 1. i članka 76. stavka 1. ovoga Zakona te na druge odredbe ovoga Zakona o izuzimanju od ovrhe i o ograničenju ovrhe, osim na odredbe članka 4. stavaka 4., 5. i 6. ovoga Zakona, ako je tu stvar ili to pravo stekao od ovrhovoditelja koji pokretanjem postupka traži ostvarenje svoje tražbine nastale u svezi s tim stjecanjem.

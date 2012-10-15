@@ -1,0 +1,6 @@
+## Jamčevina
+# Članak 15.
+(1) Kad je ovim Zakonom propisano davanje jamčevine, ona se daje u gotovom novcu. Iznimno, sud može odobriti davanje jamčevine u obliku bankarske garancije, vrijednosnih papira koji imaju burzovnu vrijednost te dragocjenosti čiju je vrijednost lako utvrditi na tržištu i koje se mogu brzo i jednostavno unovčiti.
+(2) Republika Hrvatska, općine, gradovi i županije te državna tijela nisu dužni dati jamčevinu kad u postupku sudjeluju kao stranke.
+(3) Na stvarima koje su predane u sudski polog protivna stranka stječe zakonsko založno pravo. Ako su kao jamčevina ponuđeni nematerijalizirani vrijednosni papiri sud će ovjerovljenu izjavu osobe koja daje jamčevinu da je suglasna da se radi osiguranja tražbine za koju se daje jamčevina upiše založno pravo bez odgode dostaviti središnjem klirinškom depozitarnom društvu, radi upisa založnog prava, uz točnu naznaku količine i vrste vrijednosnica, te osobe založnog dužnika i založnog vjerovnika.
+(4) Ako sud u ovršnom postupku ili postupku osiguranja odluči o pravu protivne stranke na naknadu štete ili troškova postupka u svezi s radnjom zbog poduzimanja koje je jamčevina dana, na njezin će prijedlog istim rješenjem odlučiti i o naplati utvrđene tražbine iz te jamčevine.

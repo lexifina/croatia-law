@@ -1,0 +1,6 @@
+## Pokretanje parnice
+# Članak 60.
+(1) Ako se ovrhovoditelj u propisanom roku ne očituje o prigovoru ili ako se jedna stranka usprotivi prigovoru, sud će podnositelja prigovora rješenjem uputiti da protiv stranaka u roku od petnaest dana pokrene parnicu radi proglašenja da ovrha na predmetu ovrhe nije dopuštena, osim ako podnositelj ne dokaže opravdanost svoga prigovora pravomoćnom presudom ili drugom javnom ispravom, ili javno ovjerovljenom privatnom ispravom, odnosno ako činjenice na kojima se temelji prigovor treće osobe nisu općepoznate ili se mogu utvrditi primjenom pravila o zakonskim predmnjevama.
+(2) Ako podnositelj prigovora dokaže njegovu opravdanost pravomoćnom presudom, javnom ili javno ovjerovljenom privatnom ispravom, odnosno ako su činjenice na kojima se temelji prigovor općepoznate ili se mogu utvrditi na temelju pravila o zakonskim predmnjevama, sud će o prigovoru odlučiti u ovršnom postupku.
+(3) Podnositelj prigovora može parnicu pokrenuti i nakon proteka roka koji mu je sud odredio sve do dovršetka ovršnoga postupka, ali je u tom slučaju dužan snositi troškove prouzročene prekoračenjem toga roka.
+(4) U parnici iz stavka 1. ovoga članka treća osoba može tražiti da se utvrdi postojanje njezina prava ako joj ga koja od stranaka osporava.

@@ -1,0 +1,5 @@
+## Osiguranje kredita na dosuđenoj nekretnini
+# Članak 109.
+(1) Ako kupac radi plaćanja kupovnine treba uzeti kredit, sud će, na prijedlog kupca već u rješenju o dosudi odrediti da će se, nakon pravomoćnosti rješenja o dosudi te pošto kupovnina bude položena, u zemljišnu knjigu prigodom upisa prava vlasništva u korist kupca upisati i založno pravo na nekretnini radi osiguranja tražbine po osnovi kredita u korist davatelja kredita u skladu sa sporazumom o osiguranju.
+(2) U slučaju osiguranja kredita prijenosom vlasništva na nekretnini, sud će u rješenju iz stavka 1. ovoga članka odrediti da će se u zemljišnu knjigu, nakon pravomoćnosti rješenja o dosudi te pošto kupovnina bude položena, u zemljišnu knjigu najprije upisati pravo vlasništva kupca, a zatim prijenos vlasništva na davatelja kredita uz zabilježbu da se prijenos obavlja radi osiguranja.
+(3) Upis založnog prava odnosno prijenosa vlasništva radi osiguranja obavit će se na temelju pravomoćnog rješenja o dosudi te potvrde suda da je kupovnina položena.

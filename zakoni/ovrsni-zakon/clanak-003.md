@@ -1,0 +1,8 @@
+## Pokretanje postupka
+# Članak 3.
+(1) Ovršni postupak pokreće se prijedlogom ovrhovoditelja, a postupak osiguranja prijedlogom predlagatelja osiguranja.
+(2) Kad je zakonom određeno tijelo ili osoba koja nije nositelj određene tražbine ovlaštena pokrenuti postupak radi njegova ostvarenja ili osiguranja, to tijelo, odnosno osoba imaju u postupku položaj ovrhovoditelja, odnosno predlagatelja osiguranja.
+(3) Ovršni postupak i postupak osiguranja pokreću se i po službenoj dužnosti kad je to zakonom izrijekom određeno.
+(4) Ako je postupak pokrenut prijedlogom nekoga tijela ili osobe koja nije nositelj tražbine, odnosno po službenoj dužnosti, radi ostvarenja ili osiguranja tražbine određene osobe, ta osoba može u postupku sudjelovati s ovlastima ovrhovoditelja, odnosno predlagatelja osiguranja, ali ne može poduzimati radnje koje bi sprječavale provedbu postupka pokrenutoga po prijedlogu određenoga tijela ili osobe, odnosno po službenoj dužnosti.
+(5) Ako tijelo ili osoba iz stavka 4. ovoga članka odluče povući prijedlog kojim je postupak pokrenut, odnosno ako sud odluči obustaviti postupak pokrenut po službenoj dužnosti, osoba radi čije je tražbine postupak pokrenut može preuzeti vođenje postupka. Izjavu o preuzimanju postupka ta osoba mora dati u roku od petnaest dana od dana kad joj je dostavljena obavijest o povlačenju prijedloga odnosno o namjeri da se postupak obustavi.
+(6) Kad su po zakonu neko tijelo ili osoba dužni dostaviti sudu određenu ovršnu ispravu ili ga na drugi način obavijestiti o postojanju razloga za pokretanje ovršnoga postupka ili postupka osiguranja po službenoj dužnosti, oni u tim postupcima nemaju položaj stranke.

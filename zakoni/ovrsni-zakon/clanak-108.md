@@ -1,0 +1,6 @@
+## Upis prava vlasništva kupca, brisanje prava i tereta te predaja nekretnine kupcu
+# Članak 108.
+(1) U rješenju o dosudi nekretnine sud će odrediti da se nakon pravomoćnosti toga rješenja i nakon što kupac položi kupovninu u zemljišnu knjigu upiše u njegovu korist pravo vlasništva na dosuđenoj nekretnini te da se brišu prava i tereti na nekretnini koji prestaju njezinom prodajom.
+(2) Ako su se kupac i osobe čija bi prava na nekretnini njezinom prodajom trebala prestati (članci 86. i 87.) sporazumjeli da će njihova prava ostati na nekretnini i nakon pravomoćnosti rješenja o dosudi (članci 86. i 87.), sud će u rješenju o dosudi odrediti da se ta prava neće brisati prigodom upisa prava vlasništva u korist kupca u skladu s odredbom stavka 1. ovoga članka.
+(3) Zemljišnoknjižni sud obavit će upise iz stavaka 1. i 2. ovoga članka na temelju pravomoćnog rješenja o dosudi nekretnine i potvrde ovršnog suda da je kupac položio kupovninu u skladu s tim rješenjem. U slučaju iz članka 125. stavka 4. ovoga Zakona sud će tu potvrdu izdati tek pošto kupac položi preostali dio kupovnine u skladu s rješenjem o namirenju.
+(4) Nakon pravomoćnosti rješenja o dosudi nekretnine i pošto kupac položi kupovninu, sud će donijeti zaključak o predaji nekretnine kupcu.

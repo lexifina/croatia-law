@@ -1,0 +1,3 @@
+## Ovrha kad se nakon stjecanja založnog prava ili prava na namirenje promijeni vlasnik nekretnine
+# Članak 83.
+Ako se promijeni osoba koja je u zemljišnim knjigama upisana kao vlasnik nekretnine nakon što je ovrhovoditelj na nekretnini upisom u zemljišnu knjigu stekao založno pravo ili koje drugo pravo koje ga ovlašćuje da namiri određenu tražbinu njezinom prodajom, ovrhovoditelj ima pravo, na temelju ovršne isprave protiv osobe koja je bila vlasnik nekretnine u vrijeme kad je stekao to pravo i izvatka iz zemljišne knjige kojim se dokazuje prijenos vlasništva s prijašnjeg vlasnika na novog vlasnika, zatražiti ovrhu izravno protiv novog vlasnika radi naplate osigurane tražbine.

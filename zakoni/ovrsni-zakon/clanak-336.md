@@ -1,0 +1,6 @@
+## Prodaja zaplijenjenih pokretnina i prijenos tražbine protivnika osiguranja
+# Članak 336.
+(1) Sud će odrediti prodaju zaplijenjenih pokretnina koje su podložne brzom kvarenju ili ako postoji opasnost od znatnoga pada cijene tih stvari.
+(2) Prodaja popisanih stvari obavit će se po odredbama ovoga Zakona o ovrsi na pokretninama.
+(3) Ako je prethodna mjera određena pljenidbom tražbine, sud može, na prijedlog predlagatelja osiguranja ili protivnika osiguranja, odrediti da se na predlagatelja osiguranja prenese zaplijenjena tražbina radi naplate ili drukčijeg ostvarenja, u slučaju u kojem postoji opasnost da se ta tražbina, zbog zakašnjenja u njezinu ostvarenju, neće moći naplatiti ili drukčije ostvariti ili da će se izgubiti pravo na regres prema trećim osobama.
+(4) Iznos koji se dobije prodajom pokretnine ili naplatom tražbine čuvat će se u sudskom, odnosno javnobilježničkom pologu dok se ne obustavi prethodna mjera ili dok predlagatelj osiguranja ne predloži ovrhu, a najduže trideset dana pošto tražbina postane ovršiva. Druge koristi dobivene ostvarenjem tražbine položit će se u sudski, odnosno javnobilježnički polog, ako je to moguće, ili će se na koji drugi način odrediti njihovo čuvanje do obustave prethodne mjere, odnosno dok predlagatelj osiguranja ne predloži ovrhu, ali najduže trideset dana pošto tražbina postane ovršiva.

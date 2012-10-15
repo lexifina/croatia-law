@@ -1,0 +1,4 @@
+## Ovrha prema solidarnim ovršenicima
+# Članak 207.
+(1) Ako na temelju ovršne isprave dva ili više ovršenika solidarno odgovaraju, sud koji je nadležan za bilo kojeg od solidarnih ovršenika donijet će protiv svih njih ili samo nekih od njih, u skladu s ovrhovoditeljevim prijedlogom, jedno rješenje o ovrsi.
+(2) Ako je ovrha određena protiv dvaju ili više solidarnih ovršenika naplata će se obaviti sa svih računa solidarnih ovršenika kod banaka u isto vrijeme tako da se sa svakoga naplati jednaka svota, s tim da zbroj tih svota ne smije prijeći iznos ovrhovoditeljeve ovršne tražbine. Ako na računima solidarnih ovršenika nema dovoljno novca da se naplata provede odjednom, naplaćivat će se bilo s kojeg od tih računa prema zakonu kojim se uređuje provedba ovrhe na novčanim sredstvima tako da se ovrhovoditeljeva tražbina što prije namiri.

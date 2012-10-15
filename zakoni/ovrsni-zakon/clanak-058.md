@@ -1,0 +1,10 @@
+## Postupak u povodu prigovora protiv rješenja o ovrsi na temelju vjerodostojne isprave
+# Članak 58.
+(1) Ako u prigovoru protiv rješenja o ovrsi donesenom na temelju vjerodostojne isprave ovršenik nije odredio u kojem dijelu pobija to rješenje, smatrat će se da rješenje pobija u cijelosti.
+(2) Ako se rješenje o ovrsi pobija u cijelosti ili samo u dijelu kojim je ovršeniku naloženo da namiri tražbinu, sud kojemu je prigovor podnesen stavit će izvan snage rješenje o ovrsi u dijelu kojim je određena ovrha i ukinuti provedene radnje, a postupak će nastaviti kao u povodu prigovora protiv platnoga naloga, a ako za to nije mjesno nadležan, dostavit će predmet nadležnom sudu.
+(3) Ako se rješenje o ovrsi pobija samo u dijelu kojim je određena ovrha, daljnji postupak nastavit će se kao postupak po žalbi protiv rješenja o ovrsi donesenog na temelju ovršne isprave.
+(4) Ako se prigovor iz stavka 3. ovoga članka prihvati, dio rješenja o ovrsi kojim je ovršeniku naloženo da namiri tražbinu ima svojstvo ovršne isprave na temelju koje se može ponovno tražiti ovrha.
+(5) Ako ovršenik pobija rješenje o ovrsi samo djelomično u dijelu kojim je njime ovršeniku naloženo da namiri ovrhovoditeljevu tražbinu, sud će za nepobijani dio toga dijela rješenja zaključkom utvrditi da je postao pravomoćan i ovršan te će pristupiti provedbi određene ovrhe samo radi ostvarenja dijela tražbine koji je njime pravomoćno utvrđen. Sud će zaključkom odrediti razdvajanje postupaka tako da se u odnosu na pobijani dio rješenja o ovrsi postupak nastavlja na način određen stavcima 2. i 3. ovoga članka. U tom slučaju sud će umnožiti spis radi provedbe zaključka o razdvajanju postupka.
+(6) Prigovor protiv rješenja o ovrsi mora biti obrazložen. Neobrazloženi prigovor sud će odbaciti.
+(7) Ako ovršenik ne podnese prigovor protiv dijela rješenja o ovrsi kojim mu je naloženo da namiri tražbinu protiv toga dijela rješenja može tražiti ponavljanje postupka po pravilima parničnoga postupka.
+(8) Ako sud kojem je prijedlog iz stavka 7. ovoga članka podnesen nije nadležan odlučivati po pravilima parničnoga postupka, ustupit će predmet nadležnom sudu radi odlučivanja o prijedlogu.
