@@ -1,0 +1,8 @@
+## Provjera
+# Članak 9.
+(1) Nadležna tijela Republike Hrvatske dužna su osigurati provjeru svake pošiljke tune koja je iskrcana, pretovarena, s kojom je trgovano unutar RH, koja je uvezena, izvezena ili ponovno izvezena s njezinog teritorija. Nadležno tijelo će zatražiti i pregledati ovjerene dokumente o ulovu i povezanu dokumentaciju svake pošiljke tune. Provjera mora uključivati konzultaciju ICCAT baze podataka.
+(2) Nadležna tijela Republike Hrvatske mogu pregledati sadržaj pošiljke za provjeru informacija sadržanih u dokumentu o ulovu i povezanim dokumentima te, ukoliko je potrebno, provesti provjere kod dotičnih subjekata.
+(3) Ako se kao rezultat pregleda i provjera sukladnih stavcima 1. i 2. ovoga članka, pojavi sumnja vezana uz informacije sadržane u dokumentu o ulovu, nadležna tijela koja su utvrdila moguće nepravilnosti će surađivati s nadležnim tijelima koja su vršila ovjeru dokumenta o ulovu i certifikata o ponovnom izvozu za rješavanje takve sumnje.
+(4) Ukoliko nadležno tijelo Republike Hrvatske identificira pošiljku bez dokumenta o ulovu, o tome će obavijestiti državu isporuke iz koje je pošiljka poslana, potpisnicu Konvencije izvoza iz koje je pošiljka izvezena te, ako je poznato, državu članicu ili potpisnicu Konvencije zastave.
+(5) Dok je u tijeku pregled i provjera na temelju stavka 1. i 2. ovoga članka, nadležno tijelo Republike Hrvatske neće odobriti pošiljku za unutarnju trgovinu, uvoz i izvoz, niti prihvatiti deklaraciju o prijenosu u slučaju žive tune namijenjene za uzgajališta.
+(6) Kada se na temelju pregleda i provjere iz stavka 1. ovoga članka utvrdi neispravnost dokumenta o ulovu i certifikata o ponovnom izvozu, zabranjuje se unutrašnja trgovina, uvoz, izvoz i ponovni izvoz dotične pošiljke tune.
