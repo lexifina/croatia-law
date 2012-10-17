@@ -1,0 +1,5 @@
+# Članak 3.
+U naslovu iznad članka 7. riječi: »IZ ČLANKA 124., 125. i 126. OVRŠNOG ZAKONA« zamjenjuju se riječima: »IZ ČLANKA 202., 214. i 215. OVRŠNOG ZAKONA«.
+Članak 7. stavak 1. mijenja se i glasi:
+»Javnom bilježniku za potvrdu izjave o suglasnosti dužnika da se radi naplate tražbine vjerovnika zaplijeni njegova plaća odnosno drugo stalno novčano primanje (članak 202.), izjave o suglasnosti dužnika da se radi naplate tražbine vjerovnika zaplijene svi njegovi računi kod banaka te da se novac s tih računa isplaćuje vjerovniku (zadužnica - članak 214.) i izjave o suglasnosti dužnika da se radi naplate tražbine čiji će iznos biti naknadno upisan zaplijene svi njegovi računi kod banaka te da se novac s tih računa isplaćuje vjerovniku (bjanko zadužnica - članak 215.), pripada javnobilježnička nagrada u jedinstvenom iznosu:«
+U stavku 1. podstavak 1. riječi: »Iznos do kojeg se izdaje solemnizirana privatna isprava (zadužnica) iz članka 124., 125. i 126. OZ-a« zamjenjuju se riječima: »Iznos do kojeg se izdaje solemnizirana privatna isprava iz članka 202., 214. i 215. OZ-a«

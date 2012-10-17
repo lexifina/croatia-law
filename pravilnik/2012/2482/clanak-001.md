@@ -1,0 +1,2 @@
+# Članak 1.
+U Pravilniku o nagradama i naknadi troškova javnih bilježnika u ovršnom postupku (»Narodne novine«, broj 8/11) u članku 1. riječi: »(članak 58. stavak 1. OZ-a)« zamjenjuje se riječima: »(članak 281. stavak 1. OZ-a)«, riječi: »(članak 124. OZ-a)« zamjenjuju se riječima: »(članak 202. OZ-a)«, riječi: »(zadužnica - članak 125. OZ-a)« zamjenjuju se riječima: »(zadužnica - članak 214. OZ-a)« i riječi: »(bjanko zadužnica - članak 126. OZ-a)« zamjenjuju se riječima: »(bjanko zadužnica - članak 215. OZ-a)«.
