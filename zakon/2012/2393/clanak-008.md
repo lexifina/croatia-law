@@ -1,0 +1,2 @@
+# Članak 8.
+Kretanja trošarinskih proizvoda u sustavu odgode plaćanja trošarine koja započnu prije 1. ožujka 2013. uz prateći trošarinski dokument okončat će se u skladu s odredbama Zakona o trošarinama (»Narodne novine«, br. 83/09.) i Pravilnika o trošarinama (»Narodne novine«, br. 1/10.) koje propisuju kretanje trošarinskih proizvoda u sustavu odgode plaćanja trošarine uz prateći trošarinski dokument.
