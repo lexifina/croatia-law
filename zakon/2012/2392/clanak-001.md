@@ -1,0 +1,2 @@
+# Članak 1.
+U Zakonu o trgovačkim društvima (»Narodne novine«, br. 111/93., 34/99., 121/99. - vjerodostojno tumačenje, 52/00. - Odluka Ustavnog suda Republike Hrvatske, 118/03., 107/07., 146/08., 137/09. i 152/11. - pročišćeni tekst) u članku 13. stavku 2. točki 4. točka se zamjenjuje zarezom i dodaju riječi: »a jednostavnog društva s ograničenom odgovornošću oznaku »jednostavno društvo s ograničenom odgovornošću« ili oznaku »j.d.o.o.;««.

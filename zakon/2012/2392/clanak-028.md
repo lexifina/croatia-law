@@ -1,0 +1,11 @@
+# Članak 28.
+U članku 517. stavci 1. i 2. mijenjaju se i glase:
+»(1) Ugovor o pripajanju treba dostaviti registarskom sudu prije nego što se sazove glavna skupština koja treba odlučiti o odobrenju ugovora. Društvo mora objaviti da je ugovor o pripajanju predan u sudski registar, osim ako je od saziva glavne skupštine pa do njezina zaključenja ugovor o pripajanju cijelo vrijeme dostupan na internetskoj stranici društva s koje ga je moguće preuzeti bez naknade. U pozivu na glavnu skupštinu dioničare se mora upozoriti na njihovo pravo iz stavka 2. ovoga članka, a ako je ugovor o pripajanju objavljen na internetskoj stranici društva, dioničare se mora u pozivu upozoriti da je taj ugovor dostupan na internetskoj stranici društva s koje ga mogu preuzeti bez naknade.
+(2) Od sazivanja glavne skupštine iz stavka 1. ovoga članka moraju se u poslovnim prostorijama društva staviti na uvid dioničarima:
+1. ugovor o pripajanju,
+2. godišnja financijska izvješća, a ako ih je društvo dužno izraditi i izvješća o stanju društava koja sudjeluju u pripajanju za posljednje tri poslovne godine,
+3. ako se zadnja godišnja financijska izvješća odnose na poslovnu godinu koja je istekla više od šest mjeseci prije sklapanja ugovora o pripajanju, i nova takva izvješća na određeni dan od kojega nije proteklo više od tri mjeseca od dana sklapanja ugovora o pripajanju, ili, polugodišnji izvještaj sastavljen sukladno odredbi članka 407. Zakona o tržištu kapitala, osim ako svi imatelji dionica svih društava koja sudjeluju u pripajanju dadu izričitu izjavu u obliku javnobilježničke isprave da se odriču prava na uvid u ta izvješća,
+4. izvješća uprava, odnosno izvršnih direktora društava koja sudjeluju u pripajanju iz članka 514. ovoga Zakona i izvješća nadzornih, odnosno upravnih odbora iz članka 515.a ovoga Zakona, osim ako su se dioničari odrekli tih izvješća,
+5. izvješće o reviziji iz članka 515. ovoga Zakona, ako se revizija morala provoditi.«.
+U stavku 4. na kraju stavka dodaje se rečenica koja glasi: »Ako je dioničar pristao da mu društvo dostavlja informacije elektroničkim putem, isprave iz stavka 2. ovog članka društvo može dostaviti dioničaru i elektroničkom poštom.«.
+U stavku 6. iza riječi: »društva« dodaju se riječi: »s koje ih dioničari mogu preuzeti bez naknade«.

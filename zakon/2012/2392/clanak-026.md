@@ -1,0 +1,4 @@
+# Članak 26.
+U članku 514. dodaju se stavci 4. i 5. koji glase:
+»(4) Uprava, odnosno izvršni direktori svakog društva koje sudjeluje u pripajanju moraju obavijestiti glavnu skupštinu svoga društva o svim bitnim promjenama vrijednosti imovine i obveza koje su se dogodile od dana sastavljanja ugovora o pripajanju do dana održavanja glavne skupštine koja treba odlučiti o ugovoru o pripajanju. Obavijest o tim okolnostima uprava, odnosno izvršni direktori trebaju bez odgađanja po saznanju za njihov nastup poslati i upravi, odnosno izvršnim direktorima drugih društava koja sudjeluju u pripajanju, kako bi oni o tome mogli izvijestiti glavne skupštine svojih društava.
+(5) Izvješće iz stavka 1. ovoga članka i obavijest iz stavka 4. ovoga članka nisu potrebni ako svi imatelji dionica svih društava koja sudjeluju u pripajanju dadu izričitu izjavu u obliku javnobilježničke isprave da se odriču prava na to izvješće, odnosno obavijest.«.
