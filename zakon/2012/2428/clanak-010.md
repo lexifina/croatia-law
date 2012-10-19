@@ -1,0 +1,7 @@
+# Članak 10.
+U članku 22. stavci 1. i 2. mijenjaju se i glase:
+»(1) Inspekcijski nadzor nad primjenom ovoga Zakona i propisa donesenih na temelju ovoga Zakona, osim u slučajevima iz stavaka 2. i 3. ovoga članka, obavlja Državni inspektorat.
+(2) Nadzor nad primjenom ovoga Zakona i propisa donesenih na temelju ovoga Zakona kod kreditnih institucija i kreditnih unija kojima je Hrvatska narodna banka izdala odobrenje za odobravanje kredita te kod institucija za platni promet i institucija za elektronički novac koje odobravaju kredite koji su sastavni dio platnih usluga koje te institucije pružaju na temelju odobrenja Hrvatske narodne banke, obavlja Hrvatska narodna banka na način propisan posebnim zakonima kojima se uređuje poslovanje tih vjerovnika. Hrvatska narodna banka također provodi nadzor nad primjenom ovoga Zakona i propisa donesenih na temelju ovoga Zakona i nad drugim vjerovnicima koji sukladno zakonu koji uređuje poslovanje kreditnih institucija, pružaju uslugu odobravanja kredita u Republici Hrvatskoj neposredno ili preko podružnice.«.
+Iza stavka 2. dodaje se novi stavak 3. koji glasi:
+»(3) Nadzor nad primjenom ovoga Zakona i propisa donesenih na temelju ovoga Zakona kod vjerovnika koji posluju na temelju odobrenja Hrvatske agencije za nadzor financijskih usluga izdanog prema posebnim zakonima koji uređuju poslovanje tih vjerovnika, obavlja Hrvatska agencija za nadzor financijskih usluga.«.
+Dosadašnji stavak 3. postaje stavak 4.
