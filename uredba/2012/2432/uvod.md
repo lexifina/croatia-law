@@ -1,0 +1,1 @@
+Na temelju članka 12. stavka 2. i članka 69. stavka 3. Zakona o ustanovama (»Narodne novine«, br. 76/93, 29/97, 47/99 i 35/2008) te članka 56.c Zakona o lokalnoj i područnoj (regionalnoj) samoupravi (»Narodne novine«, br. 33/2001, 60/2001, 129/2005, 109/2007, 125/2008, 36/2009 i 150/2011), Vlada Republike Hrvatske je na sjednici održanoj 4. listopada 2012. godine donijela

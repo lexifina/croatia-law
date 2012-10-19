@@ -1,0 +1,4 @@
+# Članak 2.
+Stupanjem na snagu ove Uredbe Državna škola za javnu upravu preuzima poslove, zaposlenike, opremu, pismohranu i drugu dokumentaciju, sredstva za rad, financijska sredstva te prava i obveze Akademije lokalne demokracije.
+Zaposlenici Akademije lokalne demokracije koji su u trenutku stupanja na snagu ove Uredbe zatečeni u obavljanju preuzetih poslova, nastavljaju s radom na poslovima na kojima su zatečeni i zadržavaju plaće prema dosadašnjim propisima i ugovorima o radu do sklapanja novih ugovora o radu.
+Nadzor nad pripajanjem obavlja Upravno vijeće Državne škole za javnu upravu imenovano na temelju Rješenja o imenovanju predsjednika i članova Upravnog vijeća Državne škole za javnu upravu (»Narodne novine«, broj 89/2012) te o tome izvještava ministra zaduženog za službeničke odnose.
