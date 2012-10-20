@@ -1,0 +1,1 @@
+Pravilnik o mjerilima i načinu utvrđivanja posebne psihičke i tjelesne zdravstvene sposobnosti za osobu koja se prima u policiju i policijskog službenika te o sastavu i načinu rada zdravstvenih komisija u ovlaštenim zdravstvenim ustanovama
