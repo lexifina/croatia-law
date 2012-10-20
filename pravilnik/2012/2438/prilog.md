@@ -1,0 +1,1 @@
+| 113 12.10.2012 Pravilnik o pravilima i načinu raspodjele poslova i odgovornosti između različitih službi uključenih u upravljanje ljudskim potencijalima u Ministarstvu unutarnjih poslova 113 12.10.2012 Pravilnik o pravilima i načinu raspodjele poslova i odgovornosti između različitih službi uključenih u upravljanje ljudskim potencijalima u Ministarstvu unutarnjih poslova

@@ -1,0 +1,2 @@
+# Članak 12.
+Poslove vezane uz sklapanje ugovora o pravima i obvezama između Ministarstva i policijskog službenika koji se upućuje na školovanje za policijske službenike u sjedištu Ministarstva obavlja Služba za planiranje, prijam i razvoj ljudskih potencijala, a za službenike u policijskim upravama ustrojstvena jedinica nadležna za obavljanje poslova upravljanja ljudskim potencijalima u policijskoj upravi.

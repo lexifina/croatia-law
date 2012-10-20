@@ -1,0 +1,4 @@
+# Članak 4.
+Radi kontinuiranog obavljanja poslova upravljanja ljudskim potencijalima u Upravi za pravne poslove i ljudske potencijale u sjedištu Ministarstva ustrojen je Sektor za upravljanje ljudskim potencijalima u okviru kojeg su ustrojeni Služba za planiranje, prijam i razvoj ljudskih potencijala i Služba za statusna pitanja i radnopravne odnose.
+Sektor za upravljanje ljudskim potencijalima kontinuirano prati, usmjerava i nadzire rad ustrojstvenih jedinica koje obavljaju poslove upravljanja ljudskim potencijalima u policijskim upravama te iz djelokruga svoje nadležnosti pruža stručnu pomoć svim ustrojstvenim jedinicama u sjedištu Ministarstva i policijskim upravama.
+Poslove upravljanja ljudskim potencijalima u policijskoj upravi obavlja ustrojstvena jedinica nadležna za upravljanje ljudskim potencijalima.
