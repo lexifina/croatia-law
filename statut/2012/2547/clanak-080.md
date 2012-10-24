@@ -1,0 +1,2 @@
+# Članak 80.
+Profesionalnom tajnom smatraju se osobni podaci radnika, osiguranika i korisnika prava iz mirovinskog osiguranja i doplatka za djecu i drugih osoba koje saznaju radnici Zavoda u obavljanju svoga zanimanja i svojih poslova ili koje saznaju članovi Upravnog vijeća i drugih tijela Zavoda, a čije bi neovlašteno otkrivanje moglo štetiti interesu osobe na koju se podaci odnose ili članovima njene obitelji.

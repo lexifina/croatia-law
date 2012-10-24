@@ -1,0 +1,2 @@
+# Članak 14.
+Općim aktima Zavoda, o unutarnjem ustrojstvu, o sistematizaciji radnih mjesta s opisom poslova i o položajnim radnim mjestima, utvrdit će se, u skladu s ovim Statutom, nazivi unutarnjih ustrojstvenih jedinica, djelokrug unutarnjih ustrojstvenih jedinica, radna mjesta, položajna radna mjesta, odgovornost u vezi s njihovim upravljanjem i radom, stručni uvjeti za rad, okvirni broj potrebnih radnika, kao i druga pitanja značajna za obavljanje poslova u Zavodu.
