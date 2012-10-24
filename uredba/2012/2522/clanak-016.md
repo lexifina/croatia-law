@@ -1,0 +1,6 @@
+# Članak 16.
+Služba za supstancijalno ispitivanje, prigovore i opozive žigova obavlja stručne i specijalističke poslove vezane za ispitivanje i obradu domaćih i međunarodnih prijava u odnosu na propisane apsolutne razloge za odbijanje zaštite žiga; vodi postupak povodom podnesenog mišljenja trećih strana; donosi odluke o priznanju žiga; provjerava podatke za objavu priznatih žigova u službenom glasilu Zavoda; donosi odluke o prihvaćanju ili odbijanju prigovora i zahtjeva za opoziv žiga; obavlja i druge specijalističke poslove iz područja zaštite žigova; prati stručno područje registracije žigova u međunarodnim okvirima te predlaže i priprema podloge za pristupanje Republike Hrvatske daljnjim međunarodnim ugovorima; predlaže i sudjeluje u provedbi stručne izobrazbe i obuke službenika za područje svoje djelatnosti; u skladu sa sustavom financijskog upravljanja i kontrola vodi računa o tome da je svaki rashod Službe opravdan stvarnom potrebom i potvrđen prethodnom kontrolom.
+Za obavljanje poslova Službe za supstancijalno ispitivanje, prigovore i opozive žigova ustrojavaju se sljedeći odjeli:
+3.2.1. Odjel za supstancijalno ispitivanje žigova
+3.2.2. Odjel za prigovore i opozive.
+3.2.1. Odjel za supstancijalno ispitivanje žigova

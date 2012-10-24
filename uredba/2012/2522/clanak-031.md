@@ -1,0 +1,7 @@
+## 7. SAMOSTALNA SLUŽBA ZA KORISNIČKE INFORMACIJE I USLUGE
+# Članak 31.
+Samostalna služba za korisničke informacije i usluge obavlja poslove vezane uz pružanje stručnih informacija i informacijskih usluga korisnicima sustava zaštite intelektualnog vlasništva, a posebice: stručne informacije o zaštiti i primjeni prava intelektualnog vlasništva u Republici Hrvatskoj i inozemstvu, usluge specijalizirane knjižnice i čitaonice za intelektualno vlasništvo, stručne informacijske usluge pretraživanja i analize informacija o intelektualnom vlasništvu; u suradnji s drugim ustrojstvenim jedinicama Zavoda sudjeluje u aktivnostima promicanja zaštite i primjene intelektualnog vlasništva i nastupima na javnim priredbama; prati razvoj stručnog područja; predlaže i sudjeluje u provedbi stručne izobrazbe i obuke službenika za područje svoje djelatnosti; na osnovu definiranih strateških ciljeva Zavoda predlaže ciljeve iz djelokruga rada Službe, predlaže pokazatelje uspješnosti, nadzire postizanje postavljenih ciljeva i izvještava o realizaciji postavljenih ciljeva; utvrđuje rizike vezane uz ciljeve iz djelokruga rada Službe i izvješćuje o rizicima; u skladu sa sustavom financijskog upravljanja i kontrola vodi računa o tome da je svaki rashod Službe opravdan stvarnom potrebom i potvrđen prethodnom kontrolom.
+Za obavljanje poslova Samostalne službe za korisničke informacije i usluge ustrojavaju se sljedeći odjeli:
+7.1. Odjel za potporu korisnicima
+7.2. Odjel za usluge pretraživanja i analize.
+7.1. Odjel za potporu korisnicima

@@ -1,0 +1,6 @@
+# Članak 21.
+Služba za informacijsku tehnologiju obavlja stručne poslove primjene informacijske tehnologije u radnom procesu Zavoda; razvija i nadograđuje, te nadzire i održava informatičku platformu; projektira, razvija i održava informacijski sustav; razvija tehničku osnovu za elektroničku razmjenu podataka; u suradnji s ostalim ustrojstvenim jedinicama analizira i unaprjeđuje informacijski sustav Zavoda u cilju optimizacije i racionalizacije poslovnih procesa; prati razvoj informacijske tehnologije za potrebe razvoja djelatnosti Zavoda; prati i sudjeluje u radu međunarodnih radnih skupina i stručnih odbora; predlaže i sudjeluje u provedbi stručne izobrazbe i obuke za područje svoje djelatnosti; obavlja ostale stručne poslove iz područja informatičke djelatnosti; sudjeluje u izradi planova i programa rada Zavoda; u skladu sa sustavom financijskog upravljanja i kontrola vodi računa o tome da je svaki rashod Službe opravdan stvarnom potrebom i potvrđen prethodnom kontrolom.
+Za obavljanje poslova Službe za informacijsku tehnologiju ustrojavaju se sljedeći odjeli:
+4.2.1. Odjel za aplikativnu i sistemsku potporu
+4.2.2. Odjel za tehnološku potporu.
+4.2.1. Odjel za aplikativnu i sistemsku potporu

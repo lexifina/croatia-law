@@ -1,0 +1,3 @@
+# Članak 17.
+Odjel za supstancijalno ispitivanje žigova obavlja poslove vezane uz ispitivanje apsolutnih razloga za odbijanje zaštite žiga i obradu prijava žiga u odnosu na propisane supstancijalne uvjete za priznanje; donosi odluke o priznanju žiga; vodi postupak povodom podnesenog mišljenja trećih strana; provjerava podatke za objavu priznatih žigova u službenom glasilu Zavoda; prati stručno područje klasifikacije proizvoda i usluga za potrebe registracije žigova i stručno područje registracije žigova u međunarodnim okvirima; obavlja poslove međunarodne razmjene informacija i dokumenata u području žigova; predlaže i sudjeluje u provedbi stručne izobrazbe i obuke službenika za područje svoje djelatnosti.
+3.2.2. Odjel za prigovore i opozive

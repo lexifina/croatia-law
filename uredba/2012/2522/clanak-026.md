@@ -1,0 +1,2 @@
+# Članak 26.
+Odjel za opće poslove i dokumentaciju obavlja poslove u području organizacije uredskog poslovanja; obavlja poslove prijama, evidentiranja, klasificiranja i prevođenja dokumenata u elektronički oblik, raspodjele i praćenja kolanja dokumenata, otpreme dokumenata, te pohrane i arhiviranje ulaznih i izlaznih dokumenata; obavlja tehničke poslove vezane uz elektroničko uredsko poslovanje; prati razvoj odgovarajućeg stručnog područja.
