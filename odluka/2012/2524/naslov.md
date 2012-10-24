@@ -1,0 +1,1 @@
+Odluka o visini dnevnice za službeno putovanje u zemlji i visini naknade za državne dužnosnike, suce i druge pravosudne dužnosnike, te ostale zaposlene koji se financiraju iz sredstava državnog proračuna, a čija prava nisu uređena kolektivnim ugovorima

@@ -1,0 +1,1 @@
+Na temelju članka 15. Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 2012. godinu (»Narodne novine«, broj 24/2012), Vlada Republike Hrvatske je na sjednici održanoj 17. listopada 2012. godine donijela
