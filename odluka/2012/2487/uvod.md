@@ -1,0 +1,1 @@
+Na temelju članka 35. stavka 3. i 4. Zakona o prijevozu opasnih tvari (»Narodne novine«, br. 79/07) ministar pomorstva, prometa i infrastrukture, u suglasnosti s ministrom zaštite okoliša i prirode i ministrom unutarnjih poslova, donosi
