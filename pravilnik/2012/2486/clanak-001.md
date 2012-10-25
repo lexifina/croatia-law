@@ -1,0 +1,2 @@
+# Članak 1.
+U Pravilniku o kriterijima za određivanje namjene pojedinog dijela luke otvorene za javni promet županijskog i lokalnog značaja, način plaćanja veza, uvjete korištenja te određivanja maksimalne visine naknade i raspodjele prihoda (»Narodne novine«, broj 94/07 i 79/08) Prilogu 1. Pristojbe za upotrebu obale, tablici 2. Lokalni putnički linijski promet riječi »Najviše 7%« mijenjaju se i glase »Najviše 6%«.
