@@ -1,0 +1,2 @@
+# Članak 8.
+Zadužnice, odnosno bjanko zadužnice na kojima je javni bilježnik ovjerio potpis, odnosno koje je potvrdio prije stupanja na snagu Ovršnog zakona (»Narodne novine«, broj 112/12) upisuju se u Registar na zahtjev vjerovnika na temelju podataka iz Upisnika o ovjerama i potvrdama pod istim poslovnim brojem pod kojim je izvršena ovjera, odnosno potvrda. Javni bilježnik će nakon izvršenog upisa u Registar zabilježiti činjenicu upisa u Upisniku o ovjerama i potvrdama.
