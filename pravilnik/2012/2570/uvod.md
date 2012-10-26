@@ -1,0 +1,1 @@
+Na temelju članka 6. stavka 2. Zakona o izvozu robe s dvojnom namjenom (»Narodne novine«", broj 100/04 i 84/08) te članka 25. i 38. Zakona o ustrojstvu i djelokrugu ministarstava i drugih središnjih tijela državne uprave (»Narodne novine« broj 150/2011), predstojnik Državnog ureda za trgovinsku politiku donosi
