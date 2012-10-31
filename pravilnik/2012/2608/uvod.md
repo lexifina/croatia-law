@@ -1,0 +1,1 @@
+Na temelju članka 26. stavka 1. Zakona o uređenju tržišta poljoprivrednih proizvoda (»Narodne novine« br. 149/09, 22/11), ministar poljoprivrede, uz suglasnost ministra nadležnog za gospodarstvo, donosi
