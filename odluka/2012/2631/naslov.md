@@ -1,0 +1,1 @@
+Odluka o davanju prethodne suglasnosti Hrvatskoj elektroprivredi d.d. za angažman pravne osobe za obavljanje poslova odnosa s javnošću za potrebe projekata dogradnje i izgradnje novih elektroenergetskih kapaciteta
