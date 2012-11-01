@@ -1,0 +1,8 @@
+## I. OPĆE ODREDBE
+# Članak 1.
+(1) Ovim se Pravilnikom određuju sadržaj i obvezni prostorni pokazatelji izvješća o stanju u prostoru (dalje u tekstu: Izvješće) te drugi zahtjevi u vezi s praćenjem stanja u području prostornoga uređenja.
+(2) Odredbe ovoga Pravilnika odgovarajuće se primjenjuju u postupku izrade Izvješća na razini Republike Hrvatske, županija, Grada Zagreba, velikih gradova, gradova i općina.
+(3) Izvješće se izrađuje:
+a) na razini Republike Hrvatske u odnosu na Strategiju prostornoga uređenja Republike Hrvatske i Program prostornoga uređenja Republike Hrvatske, druge strateške, razvojne, planske i programske dokumente i pokazatelje državne razine koji su od utjecaja na održiv razvoj u prostoru državne razine, prethodno izvješće o stanju u prostoru i dokumente prostornoga uređenja do uključivo županijske razine,
+b) na razini županije odnosno Grada Zagreba u odnosu na Strategiju i Program prostornoga uređenja Republike Hrvatske, druge strateške, razvojne, planske i programske dokumente i pokazatelje državne razine koji su od utjecaja na održiv razvoj u prostoru županije odnosno Grada Zagreba, prethodno izvješće o stanju u prostoru, županijski prostorni plan i prostorne planove uređenja velikih gradova, gradova, općina, odnosno prostorni plan uređenja Grada Zagreba i dokumente prostornoga uređenja Grada Zagreba,
+c) na razini velikog grada, grada i općine u odnosu na županijski prostorni plan, druge strateške, razvojne, planske i programske dokumente i pokazatelje županijske razine koji su od utjecaja na održiv razvoj u prostoru velikog grada, grada i općine, prethodno izvješće o stanju u prostoru i dokumente prostornoga uređenja velikog grada, grada i općine.
