@@ -1,0 +1,4 @@
+# Članak 15.
+Prije upućivanja u mirovnu operaciju ustrojstvena jedinica nadležna za pravne poslove i ljudske potencijale, na prijedlog ustrojstvene jedinice nadležne za mirovne misije i policijske časnike za vezu, uputit će kandidata na obavljanje zdravstvenog pregleda u nadležnu zdravstvenu ustanovu radi utvrđivanja njegove zdravstvene sposobnosti za upućivanje u mirovnu operaciju.
+O rezultatima utvrđene zdravstvene sposobnosti nadležna zdravstvena ustanova izdaje Uvjerenje o zdravstvenoj sposobnosti za upućivanje na rad u inozemstvo uz priloženu zdravstvenu dokumentaciju predviđenu međunarodnim propisima.
+Kandidat za upućivanje u mirovnu operaciju dužan je u sklopu obavljanja zdravstvenog pregleda pristupiti psihologijskoj opservaciji i razgovoru sa psihologom u ustrojstvenoj jedinici nadležnoj za psihološku i zdravstvenu zaštitu na radu u svrhu utvrđivanja psihološke spremnosti za upućivanje u mirovnu operaciju.

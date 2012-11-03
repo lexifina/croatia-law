@@ -1,0 +1,3 @@
+# Članak 2.
+Policijski službenici upućuju se u inozemstvo radi sudjelovanja u mirovnim operacijama i drugim aktivnostima u inozemstvu (u daljnjem tekstu: mirovne operacije) koje provode Organizacija ujedinjenih naroda, Organizacija za europsku sigurnost i suradnju, Europska unija i druge međunarodne organizacije odnosno drugim aktivnostima na koje se Republika Hrvatska obvezala na temelju posebnog međunarodnog ugovora.
+Vlada Republike Hrvatske na prijedlog Ministarstva unutarnjih poslova (u daljnjem tekstu: Ministarstvo), uz prethodnu suglasnost Ministarstva vanjskih i europskih poslova, donosi Odluku o sudjelovanju policijskih službenika u pojedinoj mirovnoj operaciji.

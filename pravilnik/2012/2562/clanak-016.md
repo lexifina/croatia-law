@@ -1,0 +1,2 @@
+# Članak 16.
+Prije upućivanja u mirovnu operaciju kandidate koji su ocijenjeni kao zdravstveno i psihološki sposobni, ustrojstvena jedinica nadležna za pravne poslove i ljudske potencijale uputit će na preventivna cijepljenja u skladu s preporukama organizatora rada u mirovnoj operaciji i epidemiološkom situacijom u državi (regiji) u koju se upućuje, sukladno preporukama Svjetske zdravstvene organizacije.
