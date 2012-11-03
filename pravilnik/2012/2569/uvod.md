@@ -1,0 +1,1 @@
+Na temelju članka 40. stavka 3. i članka 61. stavka 3. Zakona o zaštiti i spašavanju (»Narodne novine«, br. 174/04, 79/07, 38/09 i 127/10), ravnatelj Državne uprave za zaštitu i spašavanje, uz prethodno pribavljeno mišljenje središnjih tijela državne uprave nadležnih za poslove zdravstva, unutarnjih poslova, obrane, pomorstva, prometa i infrastrukture, donosi
