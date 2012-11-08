@@ -1,0 +1,10 @@
+# Članak 25.
+(1) Član Upravnog vijeća i članovi njegove uže obitelji ne mogu biti vlasnici, dioničari ili imatelji udjela u energetskim subjektima više od 0,5% temeljnoga dioničkog kapitala, članovi uprave ili nadzornih odbora ili bilo kojih drugih tijela u energetskim subjektima te im nije dopušteno imati materijalni interes u području energetskih djelatnosti i nije im dopušteno obavljati druge poslove u energetskom subjektu na kojega se primjenjuju odredbe ovoga Zakona, zbog čega bi moglo doći do sukoba interesa.
+(2) Član Upravnog vijeća ne smije:
+1. biti aktivni član političke stranke,
+2. obavljati poslove za energetske subjekte ili njihove podružnice,
+3. obavljati bilo koju drugu aktivnost koja bi mogla dovesti do sukoba interesa.
+(3) Tijekom vremenskog razdoblja u trajanju od jedne godine nakon razrješenja s dužnosti člana Upravnog vijeća, takvoj osobi nije dozvoljeno zastupanje, pred Upravnim vijećem i Agencijom, energetskog subjekta koji se bavi energetskom djelatnošću koja se obavlja kao regulirana djelatnost i/ili kao pružanje javnih usluga ili drugog tijela koje je izravno ili neizravno kontrolirano od strane takvog energetskog subjekta.
+(4) Član Upravnog vijeća, za vrijeme dok obavlja svoju dužnost, ne smije pokretati pregovore ili sudjelovati u pregovorima, u svezi sa svojim zapošljavanjem ili obavljanjem savjetničkih poslova za energetski subjekt koji se bavi energetskom djelatnošću koja se obavlja kao regulirana djelatnosti i/ili kao pružanje javnih usluga ili drugo tijelo koje je izravno ili neizravno kontrolirano od strane takvog energetskog subjekta.
+(5) Energetski subjekt koji se bavi energetskom djelatnošću koja se obavlja kao regulirana djelatnost i/ili kao pružanje javnih usluga ili drugo tijelo koje je izravno ili neizravno kontrolirano od strane takvog energetskog subjekta ne smije pokretati pregovore, ili sudjelovati u pregovorima, u svezi sa zapošljavanjem ili korištenjem savjetničkih usluga članova Upravnog vijeća.
+(6) Odredbe stavaka 1. do 5. ovoga članka na odgovarajući se način primjenjuju i na predsjednika Upravnog vijeća.

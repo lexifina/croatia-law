@@ -1,0 +1,5 @@
+# Članak 35.
+(1) Agencija je ovlaštena od energetskih subjekata zatražiti podatke, izvješća i druge potrebne dokumente koji su nužni za obavljanje poslova iz nadležnosti Agencije na temelju ovoga Zakona, zakona kojim se uređuje energetski sektor, kao i drugim zakonima kojima se uređuju pojedina tržišta energije, uključujući financijske i druge podatke koji su određeni kao poslovna ili službena tajna.
+(2) Službenom tajnom Agencije se smatra sve što je kao službena tajna određeno posebnim propisima i općim aktima Agencije ili što je kao poslovna tajna određeno aktom energetskog subjekta, u skladu sa Zakonom o tajnosti podataka, a obuhvaća podatke dostavljene Agenciji.
+(3) Energetski subjekti dužni su u propisanom roku odgovoriti na zahtjev Agencije i dostaviti zatražene podatke, izvješća i drugu dokumentaciju u skladu sa zahtjevom Agencije iz stavka 1. ovoga članka.
+(4) Agencija je dužna u roku od 15 dana odgovoriti na pisani zahtjev energetskog subjekta o pitanjima iz nadležnosti Agencije.

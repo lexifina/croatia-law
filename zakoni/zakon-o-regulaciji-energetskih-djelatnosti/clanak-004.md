@@ -1,0 +1,2 @@
+# Članak 4.
+Regulacija energetskih djelatnosti uspostavlja se radi provođenja sustava reguliranog djelovanja energetskih subjekata u obavljanju energetskih djelatnosti, posebice onih energetskih djelatnosti koje se obavljaju kao javne usluge i u javnom interesu s jedne strane te radi uspostave i uređenja tržišta energije s druge strane, a sve sukladno odredbama zakona kojim se uređuje energetski sektor i drugim zakonima kojima se uređuju pojedina tržišta energije.

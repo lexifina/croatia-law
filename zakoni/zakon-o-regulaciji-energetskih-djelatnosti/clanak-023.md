@@ -1,0 +1,9 @@
+# Članak 23.
+(1) Agencijom upravlja Upravno vijeće Agencije koje ima pet članova od kojih je jedan predsjednik Upravnog vijeća, a jedan njegov zamjenik.
+(2) Predsjednik Upravnog vijeća rukovodi radom Upravnog vijeća.
+(3) Predsjednika i članove Upravnog vijeća imenuje Hrvatski sabor. Postupak imenovanja započinje objavljivanjem javnog poziva za predlaganje kandidata, koji sadrži uvjete za izbor predsjednika i članova Upravnog vijeća, rok u kojem se dostavlja kandidatura i potrebna dokumentacija za dostavljanje kandidature. Prikupljanje kandidatura za predsjednika i članove Upravnog vijeća provodi Ministarstvo.
+(4) Predsjednika i članove Upravnog vijeća imenuje se na vrijeme od sedam godina, s mogućnošću još jednog izbora.
+(5) Izbor iz stavka 3. ovoga članka obavlja se na način da se na mjesto člana Upravnog vijeća kojemu ističe mandat imenuje novi član.
+(6) Upravno vijeće je ovlašteno za odlučivanje o svim pitanjima regulacije energetskih djelatnosti za koja je propisana nadležnost Agencije, odgovara za stručni rad Agencije, donosi programe rada i razvoja, odlučuje o financijskom planu i godišnjem proračunu te donosi akte potrebne za rad i poslovanje Agencije i nadzire njihovo provođenje, sukladno općim ciljevima regulacije energetskih djelatnosti iz članka 5. ovoga Zakona.
+(7) Predsjednik Upravnog vijeća predstavlja i zastupa Agenciju, zastupa Agenciju u svim postupcima pred sudovima, upravnim i drugim državnim tijelima te pravnim osobama s javnim ovlastima, poduzima sve pravne radnje u ime i za račun Agencije, organizira i vodi poslovanje Agencije i odgovoran je za zakonitost rada Agencije.
+(8) Predsjednika Upravnog vijeća u njegovoj odsutnosti zamjenjuje njegov zamjenik kojega, na prijedlog predsjednika Upravnog vijeća, Upravno vijeće bira između svojih članova i imenuje za zamjenika predsjednika Upravnog vijeća.

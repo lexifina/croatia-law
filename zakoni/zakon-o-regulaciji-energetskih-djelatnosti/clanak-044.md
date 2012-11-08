@@ -1,0 +1,2 @@
+# Članak 44.
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«, osim odredbi članka 11. stavka 1. točaka 12., 13., 14., 15. i 16., točke 18. u dijelu koji se odnosi na ACER i Komisiju, članka 14. točke 6., članka 15. u dijelu koji se odnosi na ACER, članka 19. u dijelu koji se odnosi na Komisiju, članka 33. u dijelu koji se odnosi na ACER i Komisiju, članka 38. stavka 1. točaka 4. i 5. ovoga Zakona koje stupaju na snagu danom pristupanja Republike Hrvatske Europskoj uniji.

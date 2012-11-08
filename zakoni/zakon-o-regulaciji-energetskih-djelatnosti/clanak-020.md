@@ -1,0 +1,4 @@
+# Članak 20.
+(1) Nezadovoljna strana može uputiti prigovor Agenciji na postupanje operatora prijenosnog, odnosno transportnog ili distribucijskog sustava, skladišta plina, terminala za ukapljeni prirodni plin u vezi s neispunjenjem obveza koje se odnose na obavljanje reguliranih energetskih djelatnosti sukladno ovom Zakonu, zakonu kojim se uređuje energetski sektor i drugim zakonima kojima se uređuju pojedina tržišta energije.
+(2) Prigovor iz stavka 1. ovoga članka može se izjaviti sve dok traju nepravilnosti u radu operatora prijenosnog, odnosno transportnog ili distribucijskog sustava, sustava skladišta plina, terminala za ukapljeni prirodni plin.
+(3) U postupku donošenja metodologija koje donosi Agencija nezadovoljna strana može uputiti prigovor na prijedlog metodologije u roku od dva mjeseca od dana objave prijedloga metodologije.
