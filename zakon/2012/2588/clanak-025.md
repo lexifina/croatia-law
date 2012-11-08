@@ -1,0 +1,3 @@
+# Članak 25.
+(1) Propise iz članka 8. ovoga Zakona o detaljima provedbe plaćanja pristojbi za prekoračenje količine mliječne kvote, članka 12. ovoga Zakona o pravilima za proizvodnju i stavljanje proizvoda na tržište u sektoru hmelja i mesa peradi i članka 14. ovoga Zakona u sektoru mlijeka i mliječnih proizvoda ministar će donijeti u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.
+(2) Radi usklađenja s propisima Europske unije iz područja uređenja tržišta poljoprivrednih proizvoda Vlada Republike Hrvatske, osim propisa predviđenih člancima ovoga Zakona, može donijeti i uredbe potrebne za provođenje ovoga Zakona i propisa Europske unije.

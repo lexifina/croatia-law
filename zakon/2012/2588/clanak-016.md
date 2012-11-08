@@ -1,0 +1,12 @@
+# Članak 16.
+Iza članka 27. dodaju se članci 27.a i 27.b, te naslov iznad članka 27.a, koji glase: »Formiranje špekulativnih zaliha.
+Članak 27.a
+(1) Zalihe poljoprivrednih i prehrambenih proizvoda, u slobodnom prometu u Republici Hrvatskoj, koje na dan pristupanja Europskoj uniji prelaze razinu koja se može smatrati uobičajenom razinom zaliha, smatraju se špekulativnim zalihama i mogu biti predmet kontrole.
+(2) Svaka fizička i pravna osoba koja stvori špekulativne zalihe u smislu stavka 1. ovoga članka odgovara Republici Hrvatskoj za štetu koja joj time nastane.
+(3) Mehanizme nadzora i kontrole uvoza te formiranje zaliha poljoprivrednih i prehrambenih proizvoda, način i kriterije za utvrđivanje špekulativnih zaliha te pravnih i fizičkih osoba koje su formirale špekulativne zalihe, naknade i načine naplate, mjere za sprječavanje špekulativnog formiranja zaliha poljoprivrednih i prehrambenih proizvoda u periodu do dana pristupanja Republike Hrvatske Europskoj uniji, kao i druge potrebne mjere propisat će uredbom Vlada Republike Hrvatske.
+(4) Način i rok dostave podataka o uvozu i zalihama sirovina i gotovih proizvoda pravnih i fizičkih osoba čija djelatnost spada u domenu poljoprivredne i prehrambene industrije propisat će pravilnikom ministar.
+Članak 27.b
+(1) Smatra se da Republika Hrvatska trpi štetu u slučaju kad Europska komisija utvrdi da su do pristupanja Europskoj uniji u slobodnom prometu u Republici Hrvatskoj postojali viškovi zaliha određenih poljoprivrednih i prehrambenih proizvoda te u slučaju kad Europska komisija naloži Republici Hrvatskoj plaćanje financijske nakade za nagomilane zalihe koje prelaze uobičajene okvire.
+(2) Tražbina Republike Hrvatske za naknadu štete prema fizičkim i pravnim osobama zastarijeva za tri godine od dana saznanja za počinitelja štete, a u svakom slučaju tražbina zastarijeva za pet godina počevši od dana kad je Republika Hrvatska izvršila plaćanje naknade Europskoj komisiji.
+(3) Republika Hrvatska protiv fizičkih i pravnih osoba koje su joj počinile štetu zbog stvorenih špekulativnih zaliha u smislu stavka 1. ovoga članka i članka 27.a stavka 2. ovoga Zakona ostvaruje naknadu štete u upravnom postupku pred upravnim tijelom koje će se utvrditi uredbom iz članka 27.a stavka 3. ovoga Zakona.
+(4) U postupcima protiv fizičkih i pravnih osoba iz stavka 2. ovoga članka Republiku Hrvatsku zastupat će nadležno državno odvjetništvo.«
