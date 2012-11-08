@@ -1,0 +1,2 @@
+# Članak 2.
+Ovim se Zakonom u zakonodavstvo Republike Hrvatske prenosi pravna stečevina Europske unije iz područja energetike, a posebice Direktiva 2009/72/EZ Europskog parlamenta i Vijeća od 13. srpnja 2009. godine o zajedničkim pravilima za unutarnje tržište električne energije kojom se ukida Direktiva 2003/54/EZ (SL. L 211, 14. 8. 2009.) i Direktiva 2009/73/EZ Europskog parlamenta i Vijeća od 13. srpnja 2009. godine o zajedničkim pravilima za unutarnje tržište prirodnog plina kojom se ukida Direktiva 2003/55/EZ (SL. L 211, 14. 8. 2009.).

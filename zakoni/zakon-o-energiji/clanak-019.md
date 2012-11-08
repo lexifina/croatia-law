@@ -1,0 +1,6 @@
+# Članak 19.
+(1) Kada je nužno osigurati redovitu i sigurnu opskrbu energijom, kako bi se spriječile ili otklonile veće štete u poslovanju pravnih osoba te u životu i radu fizičkih osoba, a osobito opasnost koja može nastati za život i zdravlje građana, Agencija može rješenjem naložiti energetskom subjektu kome je trajno oduzeta dozvola za obavljanje energetske djelatnosti ili je prestao obavljati energetsku djelatnost, da svoje objekte, uređaje, mrežu, odnosno sustav preda na upravljanje drugom energetskom subjektu u cilju nastavka obavljanja energetske djelatnosti.
+(2) Prije donošenja rješenja iz stavka 1. ovoga članka Agencija je dužna utvrditi sposobnost i interes drugog energetskog subjekta za nastavak obavljanja energetske djelatnosti energetskog subjekta kojemu je trajno oduzeta dozvola za obavljanje energetske djelatnosti ili koji je prestao obavljati energetsku djelatnost.
+(3) Rješenjem iz stavka 1. ovoga članka Agencija može drugom energetskom subjektu naložiti obvezu upravljanja objektima, uređajima i mrežama, odnosno sustavima.
+(4) Energetski subjekt koji preuzme djelatnost sukladno rješenju iz stavka 1. ovoga članka, dužan je u ime i za račun vlasnika dovesti objekt, uređaje, mrežu, odnosno sustav u uporabno stanje.
+(5) Protiv rješenja iz stavka 1. ovoga članka može se izjaviti žalba Ministarstvu.

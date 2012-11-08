@@ -1,0 +1,4 @@
+# Članak 23.
+(1) Kada energetski subjekt obavlja dvije ili više energetskih djelatnosti ili uz energetsku djelatnost obavlja i drugu djelatnost dužan je voditi poslovne knjige i sastavljati financijska izvješća za svaku energetsku djelatnost posebno i odvojeno od drugih djelatnosti, prema propisima o računovodstvu poduzetnika.
+(2) Iznimno, odredba stavka 1. ovoga članka ne primjenjuje se na energetski subjekt koji za tarifne kupce obavlja energetsku djelatnost proizvodnje toplinske energije, energetsku djelatnost distribucije toplinske energije ili energetsku djelatnost opskrbe toplinskom energijom, u dijelu koji se odnosi na odvojeno vođenje poslovnih knjiga i sastavljanje financijskih izvješća za te energetske djelatnosti, nego se za te energetske djelatnosti vode posebne poslovne knjige i sastavljaju financijska izvješća odvojeno od drugih djelatnosti.
+(3) Način i postupak vođenja razdvojenog računovodstva utvrđuje Agencija odlukom.

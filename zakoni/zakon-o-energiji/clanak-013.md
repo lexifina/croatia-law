@@ -1,0 +1,5 @@
+# Članak 13.
+(1) Korištenje obnovljivih izvora energije i kogeneracije od interesa je za Republiku Hrvatsku.
+(2) Ovlasti i odgovornosti za utvrđivanje i provođenje politike poticanja proizvodnje energije iz obnovljivih izvora energije, uvjeti i način proizvodnje i korištenja energije iz obnovljivih izvora energije na tržištu energije, financijski poticaj za korištenje obnovljivih izvora energije te druga pitanja vezana za korištenje obnovljivih izvora energije određuju se ovim Zakonom, posebnim zakonom kojim će se urediti korištenje obnovljivih izvora energije kao i ostalim zakonima.
+(3) Povlašteni proizvođač koji je u sustavu poticaja ne može energiju proizvedenu u objektima za korištenje obnovljivih izvora energije isporučivati inozemnom tržištu.
+(4) Energija proizvedena iz obnovljivih izvora u Republici Hrvatskoj obračunava se u bilanci obveza Republike Hrvatske prema međunarodnim ugovorima i obvezama Republike Hrvatske. Iznimka mogu biti energetski objekti u pograničnim područjima koji koriste zajednički hidropotencijal.

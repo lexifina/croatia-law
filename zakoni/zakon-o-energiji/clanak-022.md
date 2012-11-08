@@ -1,0 +1,4 @@
+# Članak 22.
+(1) Vlada Republike Hrvatske, na prijedlog Ministarstva, može odlukom ovlastiti državna tijela ili pravne osobe koje su javni naručitelji u smislu propisa kojim se uređuje područje javne nabave kao središnja tijela za nabavu energije za potrebe institucija u vlasništvu Republike Hrvatske.
+(2) Jedinice lokalne i područne (regionalne) samouprave mogu odlukom ovlastiti državna tijela ili pravne osobe iz stavka 1. ovoga članka, ili pravne osobe čiji su osnivači jedinice područne (regionalne) samouprave ili regionalne energetske agencije koje su javni naručitelji u smislu propisa kojim se uređuje područje javne nabave kao središnja tijela za nabavu energije za potrebe institucija u vlasništvu jedinica lokalne i područne (regionalne) samouprave.
+(3) Ovlast iz stavaka 1. i 2. ovoga članka ne može se dati energetskim subjektima.
