@@ -1,0 +1,4 @@
+# Članak 5.
+U članku 11. iza stavka 2. dodaju se stavci 3. i 4. koji glase:
+»(3) Članovi obitelji poslodavca fizičke osobe iz članka 2. stavka 1. podstavka 7. ovoga Zakona, mogu toj fizičkoj osobi pomagati u obavljanju privremenih, odnosno povremenih sezonskih poslova u poljoprivredi, bez obveze sklapanja ugovora o sezonskom radu za obavljanje privremenih, odnosno povremenih sezonskih poslova u poljoprivredi.
+(4) Fizičkoj osobi iz članka 2. stavka 1. podstavka 7. alineje 3. ovoga Zakona, koja kao poslodavac zapošljava na privremenim, odnosno povremenim sezonskim poslovima u poljoprivredi, u obavljanju tih poslova mogu pomagati prijatelji i susjedi, bez obveze sklapanja ugovora o sezonskom radu za obavljanje privremenih, odnosno povremenih sezonskih poslova u poljoprivredi, ako taj rad obavljaju bez plaćanja i druge materijalne koristi.«.
