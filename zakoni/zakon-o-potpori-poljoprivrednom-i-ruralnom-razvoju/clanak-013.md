@@ -1,0 +1,6 @@
+## Umanjenja i isključenja
+# Članak 13.
+(1) Ukoliko se utvrdi da Korisnik ne ispunjava uvjete za izravna plaćanja, na plaćanje ili dio plaćanja koje mu je dodijeljeno ili koje mu se treba dodijeliti primjenjuju se umanjenja i isključenja.
+(2) Za odstupanja između prijavljenih i stvarno utvrđenih poljoprivrednih površina, odnosno između prijavljenog i stvarno utvrđenog broja domaćih životinja koje ispunjavaju uvjete za izravna plaćanja do uključivo 20% izvršit će se umanjenja isplata izravnih plaćanja za cijeli ili dio zahtjeva, a za odstupanja iznad 20% izvršit će se isključenja od isplate izravnih plaćanja za cijeli ili dio zahtjeva.
+(3) Postotak umanjenja iz stavka 1. ovoga članka u slučaju neispunjavanja uvjeta višestruke sukladnosti ovisi o ozbiljnosti, opsegu, trajanju i ponavljanju utvrđenih odstupanja, a Korisnika se može i potpuno isključiti iz sustava izravnih plaćanja tijekom jedne ili više kalendarskih godina.
+(4) Umanjenja u slučaju neispunjavanja uvjeta višestruke sukladnosti zbog nemara iznose do uključivo 5% od ukupnog iznosa prava na izravna plaćanja, a u slučaju ponovljenog neispunjavanja uvjeta višestruke sukladnosti iznose do uključivo 15%. U slučaju namjernog neispunjavanja uvjeta višestruke sukladnosti umanjenje iznosi više od 20%.

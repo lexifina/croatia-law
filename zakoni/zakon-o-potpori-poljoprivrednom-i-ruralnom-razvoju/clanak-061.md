@@ -1,0 +1,4 @@
+# Članak 61.
+(1) U slučaju nepoštivanja roka za povrat sredstava zatražen rješenjem inspektora ili odlukom Agencije za plaćanja, Agencija za plaćanja će za iznos duga i pripadajuće zakonske zatezne kamate izvršiti umanjenje prve sljedeće isplate za izravna plaćanja ili isplate za plaćanja u sklopu mjera ruralnog razvoja.
+(2) U slučaju nemogućnosti naplate duga u razdoblju od godine dana, Agencija za plaćanja će zatražiti zaštitu svojih prava putem nadležnog suda.
+(3) Tijekom trajanja sudskog postupka, kao i tijekom trajanja ovršnog postupka, Agencija za plaćanja zadržava pravo da prvu sljedeću odobrenu isplatu umanji za iznos duga utvrđen Rješenjem inspekcije ili Odlukom Agencije za plaćanja. O naplaćenom iznosu duga od iznosa odobrene isplate, Agencija za plaćanja je dužna obavijestiti nadležni sud pred kojim se vodi postupak i Ministarstvo.

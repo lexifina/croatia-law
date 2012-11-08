@@ -1,0 +1,16 @@
+# Članak 70.
+(1) Postupci započeti po odredbama Zakona o državnoj potpori poljoprivredi i ruralnom razvoju (»Narodne novine«, br. 92/10., 127/10., 124/11. i 50/12.) dovršit će se po odredbama toga Zakona.
+(2) Postupci vezani uz obradu zahtjeva za IAKS mjere ruralnog razvoja u 2012. godini započeti po odredbama Zakona o državnoj potpori poljoprivredi i ruralnom razvoju (»Narodne novine«, br. 92/10., 127/10., 124/11. i 50/12.) i Pravilnika o provedbi izravnih plaćanja i pojedinih mjera ruralnog razvoja za 2012. godinu (»Narodne novine«, br. 25/12. i 51/12.), dovršit će se prema odredbama ovoga Zakona u pogledu trajanja obveznog razdoblja prema članku 40. stavku 5. ovoga Zakona.
+(3) Postupci vezani uz obradu zahtjeva za izravna plaćanja za proizvodnu 2012. godinu započeti po odredbama Zakona o državnoj potpori poljoprivredi i ruralnom razvoju (»Narodne novine«, br. 92/10., 127/10., 124/11. i 50/12.) i Pravilnika o provedbi izravnih plaćanja i pojedinih mjera ruralnog razvoja za 2012. godinu (»Narodne novine«, br. 25/12. i 51/12.) dovršit će se prema odredbama ovoga Zakona u pogledu:
+– visine izravnih plaćanja,
+– uvjeta za utvrđivanje vrijednosti prava na regionalno plaćanje povećane vrijednosti i posebnih prava na plaćanje za Korisnike bez zemljišta i
+– dinamike isplata.
+(4) Za potrebe pravilne primjene odredbe iz stavka 3. ovoga članka, sljedeći pojmovi u smislu ovoga Zakona znače:
+– »pašnjak« ima značenje »livada i pašnjak«, kako je propisano Zakonom o državnoj potpori poljoprivredi i ruralnom razvoju (»Narodne novine«, br. 92/10., 127/10., 124/.11. i 50/12.),
+– »prava na regionalno plaćanje povećane vrijednosti« imaju značenje »dodatna prava na plaćanje«, kako je propisano Zakonom o državnoj potpori poljoprivredi i ruralnom razvoju (»Narodne novine«, br. 92/10., 127/10., 124/11. i 50/12.),
+– »posebna prava na plaćanje za Korisnike bez zemljišta« imaju značenje »posebna prava na plaćanje za poljoprivredna gospodarstva bez zemljišta«, kako je propisano Zakonom o državnoj potpori poljoprivredi i ruralnom razvoju (»Narodne novine«, br. 92/10., 127/10., 124/11. i 50/12.),
+– »plaćanja u iznimno osjetljivim sektorima« imaju značenje »državna potpora za posebno osjetljive sektore«, kako je propisano Zakonom o državnoj potpori poljoprivredi i ruralnom razvoju (»Narodne novine«, br. 92/10., 127/10., 124/11. i 50/12.),
+– »specifična plaćanja« imaju značenje »posebna proizvodno vezana potpora«, kako je propisano Zakonom o državnoj potpori poljoprivredi i ruralnom razvoju (»Narodne novine«, br. 92/10., 127/10., 124/11. i 50/12.),
+– »omotnica za ZPP izravna plaćanja« ima značenje »nacionalna omotnica«, kako je propisano Zakonom o državnoj potpori poljoprivredi i ruralnom razvoju (»Narodne novine«, br. 92/10., 127/10., 124/11. i 50/12.).
+(5) Za potrebe pravilne primjene odredbe iz stavka 3. ovoga članka u pogledu uvjeta za utvrđivanje vrijednosti prava na regionalno plaćanje povećane vrijednosti i posebnih prava na plaćanje za Korisnike bez zemljišta, Korisniku se vrijednost prava proporcionalno smanjuje u slučaju smanjenja obujma proizvodnje u odnosu na referentnu 2011. godinu.
+(6) Za potrebe pravilne primjene odredbe iz stavka 3. ovoga članka, isplate za proizvodnu 2012. godinu obavljaju se u 2012., 2013. i 2014. godini.
