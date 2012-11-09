@@ -1,0 +1,2 @@
+# Članak 8.
+Ugovorne stranke će intenzivirati bilateralne sastanke na odgovarajućoj razini, kako političkoj tako i na razini tehničkih stručnjaka, uz redovite kontakte tijekom sastanaka na multilateralnoj razini i vezano za Europsku uniju. Ti se sastanci odnose na sva pitanja od zajedničkog interesa. Ugovorne stranke će poticati redovitu razmjenu mišljenja o aktualnim temama između njihovih službi za međunarodne odnose.
