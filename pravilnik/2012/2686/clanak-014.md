@@ -1,0 +1,6 @@
+## Nadležna tijela
+# Članak 14.
+(1) Podnositelj odobrenja iz članka 3. ovoga Pravilnika dužan je u skladu sa svojim Planom i programom bez odgađanja o nastalom izvanrednom događaju telefonom izvijestiti Državni zavod za radiološku i nuklearnu sigurnost putem Službe 112.
+(2) Izvješće iz stavka 1. ovoga članka mora sadržavati podatke o mjestu nastanka, vrsti izvanrednog događaju i posljedicama za radnike, prostor, stanovništvo i okoliš, kao i procjenu vrste potrebne vanjske pomoći koji su raspoloživi u vremenu spoznaje o nastanku izvanrednog događaja.
+(3) Do dolaska predstavnika Državnog zavoda za radiološku i nuklearnu sigurnost na lokaciju izvanrednog događaja podnositelj zahtjeva iz članka 3. ovoga Pravilnika dužan je telefonom izvijestiti Službu 112 u slučaju značajnijih promjena stanja izvanrednog događaja i provođenja mjera iz Plana i programa.
+(4) Nakon što su provedene sve mjere predviđene Planom i programom i nakon prestanka svake daljnje opasnosti, podnositelj zahtjeva iz članka 3. ovoga Pravilnika dužan je u roku 30 dana sastaviti izvješće o nastalom izvanrednom događaju, poduzetim mjerama i ostvarenim rezultatima s posebnim osvrtom na uzroke nastanka tog događaja i eventualno potrebnim korektivnim aktivnostima te izvješće dostaviti Državnom zavodu za radiološku i nuklearnu sigurnost.

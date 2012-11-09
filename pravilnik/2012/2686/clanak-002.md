@@ -1,0 +1,3 @@
+# Članak 2.
+Pojedini izrazi u smislu ovoga Pravilnika imaju sljedeća značenja:
+Opasni izvor je zatvoreni radioaktivni izvor 1., 2. ili 3. kategorije u smislu pravilnika kojim je regulirana radiološka i fizička sigurnost zatvorenih radioaktivnih izvora; opasnim izvorom smatraju se i zatvoreni radioaktivni izvori 4. kategorije koji se koriste u industrijskoj radiografiji, geološkim istraživanjima, na bušotinama, na jaružalima, pokretnim trakama te razinomjerima; opasnim izvorom smatraju se i prenosivi zatvoreni radioaktivni izvori za mjerenje debljine, gustoće i vlage; opasnim izvorima smatraju se i radioaktivni izvori koji se koriste u radioterapiji i nuklearnoj medicini te znanstveno--istraživačkom radu.

@@ -1,0 +1,3 @@
+# Članak 16.
+(1) Opseg i sadržaj, obveze, učestalost i rokovi provjere učinkovitosti te način, opseg i rokovi izvješćivanja javnosti i nadležnih tijela, kao i način odobravanja Plana i programa nositelja odobrenja za obavljanje nuklearne djelatnosti određuju se u postupku izdavanja odobrenja za obavljanje nuklearne djelatnosti, sukladno vrsti djelatnosti.
+(2) Opseg i sadržaj, obveze, učestalost i rokovi provjere učinkovitosti te način, opseg i rokovi izvješćivanja javnosti i nadležnih tijela, kao i način odobravanja Plana i programa mjera za slučaj izvanrednog događaja nositelja uporabne dozvole za nuklearni objekt određuju se u postupku izdavanja uporabne dozvole, sukladno vrsti objekta.

@@ -1,0 +1,6 @@
+## 3. OPSEG I ROKOVI IZVJEŠĆIVANJA JAVNOSTI I NADLEŽNIH TIJELA
+## Javnost
+# Članak 13.
+(1) Podnositelj zahtjeva iz članka 3. ovoga Pravilnika dužan je informacije o svojoj djelatnosti s izvorima ionizirajućeg zračenja te mogućem riziku za stanovništvo i okoliš, kao i informacije o važnim činjenicama iz Plana i programa, učiniti dostupnim javnosti.
+(2) Informacije iz stavka 1. ovoga članka sadrže: osnovne podatke o podnositelju zahtjeva, jednostavan opis djelatnosti i rizika koji su vezani za tu djelatnost, jednostavan opis mogućih izvanrednih događaja i posljedica koje mogu nastati za radnike, stanovništvo, prostor i okoliš, pregled planiranih mjera za otklanjanje i/ili umanjenje posljedica izvanrednog događaja te radnje koje bi stanovništvo trebalo poduzeti u slučaju nastanka događaja s mogućim posljedicama na ljude i okoliš izvan prostora pod kontrolom podnositelja zahtjeva.
+(3) Informacije iz stavka 1. ovoga članka dostavljaju se lokalnim medijima te trajno objavljuju na internetskoj stranici podnositelja zahtjeva iz stavka 1. ovoga članka i internetskoj stranici Državnog zavoda za radiološku i nuklearnu sigurnost, nakon odobrenja Plana i programa od strane Državnog zavoda za radiološku i nuklearnu sigurnost i prije početka obavljanja djelatnosti.
