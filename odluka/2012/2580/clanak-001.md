@@ -1,0 +1,10 @@
+# Članak 1.
+U Odluci o utvrđivanju Osnovne liste lijekova Hrvatskog zavoda za zdravstveno osiguranje (»Narodne novine« 69/10., 83/10., 131/10., 1/11., 54/11., 61/11., 48/12. i 52/12.) u Osnovnoj listi lijekova iz članka 2. stavka 6.:
+podaci upisani pod šiframa anatomsko-terapijsko-kemijske ATK klasifikacije lijekova Svjetske zdravstvene organizacije, mijenjaju se i glase:
+TABELA
+Sljedeće smjernice u Osnovnoj listi lijekova Zavoda mijenjaju se i glase:
+Z Za liječenje funkcionalnih simptoma donjeg urinarnog trakta kod dokazanog postojanja benigne hipertrofije prostate.
+153 Kao monoterapija u visoko aktivnoj multiploj sklerozi s fazama relapsa i remisije u bolesnika kod kojih je bolest aktivna usprkos liječenju s lijekom beta interferonom ili kod kojih se očituje teška brzonapredujuća relapsno-remitentna multipla skleroza. Liječenje odobrava Bolničko povjerenstvo za lijekove.
+BT 1. Samo za bolesnike s epilepsijom refrakternom na druge antiepileptike (N03AA, N03AB, N03AD, N03AE, N03AF i N03AG), po preporuci specijalista neurologa ili pedijatra; 2. Za bipolarni poremećaj (odobreno samo za lijek lamotrigin) u slučaju rezistencije na litij-karbonat i karbamazepin, po preporuci specijalista psihijatra.
+06 Isključivo za primjenu putem enteralne sonde.
+Lijekovi pod ATK šiframa: A02BA02 112; A04AA01 101; A04AA01 102; B01AB08 081; B01AB08 082; B01AB08 084; B01AC06 151; B05AA07 065; B05AA07 066; B05BA10 071; B05BA10 072; B05BA10 073; B05BA10 074; B05BA10 077; B05BA10 092; B05BA10 093; B05BA10 094; C03EA01 101; C08CA05 101; C09AA02 101; C09AA02 102; C09AA02 103; C09AA02 104; C09AA02 105; C09AA05 101; C09AA05 102; C09AA05 103; C09BA05 101; C09BA05 102; C10AA01 115; C10AA02 121; D01BA02 101; D07AC01 421; J01DB01 306; J01GB07 071; J02AC01 115; J04AK02 111; L01AD02 182; L01BA01 001; L01BA01 002; L01BA01 003; L01BA01 004; L01BC02 001; L01CD01 001; L01CD01 002; L01CD01 003; L01DB01 001; L01DB01 002; L01DB07 001; L01XX19 001; M03AC01 071; N03AF02 161; N03AX09 118; N05AE04 101; N05AE04 102; N05AE04 103; N05AL01 013; N06AA04 101; N06AB05 106; N06AB06 112; N06AB06 116; V06CA01 390; V06DX01 386, brišu se.
