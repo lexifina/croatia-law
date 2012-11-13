@@ -1,0 +1,3 @@
+# Članak 12.
+(1) Ovaj se Sporazum sklapa na neodređeno vrijeme. Ovaj Sporazum stupa na snagu dva mjeseca od datuma primitka posljednje pisane obavijesti kojom ugovorne stranke obavještavaju jedna drugu diplomatskim putem da su ispunjeni uvjeti predviđeni nacionalnim zakonodavstvom ugovornih stranaka za stupanje na snagu ovoga Sporazuma.
+(2) Svaka ugovorna stranka može otkazati ovaj Sporazum u bilo koje doba pisanom obaviješću koju će uputiti drugoj ugovornoj stranci diplomatskim putem. Sporazum prestaje biti na snazi tri mjeseca od datuma kada je druga ugovorna stranka primila obavijest o otkazu.

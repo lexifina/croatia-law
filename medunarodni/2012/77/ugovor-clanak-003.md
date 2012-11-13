@@ -1,0 +1,14 @@
+# Članak 3.
+(1) Svaka ugovorna stranka prihvatit će, na zahtjev druge ugovorne stranke, bez formalnosti, na svoje državno područje državljanina treće države ili osobu bez državljanstva koja ne ispunjava uvjete ulaska ili boravka na državnom području ugovorne stranke koja zahtijeva prihvat ako se dokaže ili se može osnovano pretpostavljati da ta osoba:
+1. posjeduje valjanu vizu koju je izdala ugovorna stranka od koje se zahtijeva prihvat;
+ili
+2. posjeduje valjano odobrenje boravka koju je izdala ugovorna stranka od koje se zahtijeva prihvat ili
+3. je nezakonito ušla izravno na državno područje ugovorne stranke koja zahtijeva prihvat nakon boravka na državnom području ugovorne stranke od koje se zahtijeva prihvat.
+(2) Na zahtjev ugovorne stranke koja zahtjeva prihvat ugovorna stranka od koje se zahtijeva prihvat razmotrit će mogućnost prihvata na svoje državno područje sve maloljetne, nevjenčane djece osobe koja treba biti prihvaćena, kao i njenog supružnika koji posjeduje državljanstvo druge države, ako isti nemaju pravo boravka na državnom području ugovorne stranke koja zahtijeva prihvat.
+(3) Ako su obje ugovorne stranke izdale vizu ili odobrenje boravka, za predaju i prihvat iz stavka 1. ovog članka je odgovorna ona ugovorna stranka koja je izdala ispravu čiji rok važenja istječe kasnije.
+(4) Odgovor na zahtjev za predaju i prihvat se mora dostaviti najkasnije u roku od 30 radnih dana od datuma kada je potvrđen primitak takvog zahtjeva. Nakon isteka navedenog roka smatra se da je prihvat odobren. Dotična osoba treba biti predana u roku od tri mjeseca od datuma primitka pozitivnog odgovora na zahtjev za predaju i prihvat ili nakon što počne vrijediti presumpcija suglasnosti. Ako postoje pravne ili činjenične zapreke, rok se na opravdan zahtjev može produljiti, ali samo za vrijeme trajanja tih zapreka.
+(5) Zahtjev za predaju i prihvat državljanina treće države ili osobe bez državljanstva se mora uputiti nadležnom tijelu ugovorne stranke od koje se zahtijeva prihvat najkasnije u roku od šest mjeseci od datuma kad je nadležno tijelo ugovorne stranke koja zahtijeva prihvat saznalo da ta osoba ne ispunjava ili više ne ispunjava uvjete za ulazak ili boravak na njezinom državnom području. Ako postoje pravne ili činjenične zapreke, rok se, na opravdan zahtjev nadležnog tijela države ugovorne stranke koja zahtijeva prihvat, može produljiti, ali samo za vrijeme trajanja tih zapreka.
+(6) Ugovorna stranka koja zahtijeva prihvat prihvatit će pod istim uvjetima na svoje državno područje osobu iz stavka 1. ovog članka ako ugovorna stranka od koje se zahtijeva prihvat utvrdi tijekom daljnjih provjera provedenih u roku od 30 radnih dana od datuma kada je osoba prihvaćena da ta osoba ne ispunjava uvjete iz stavka 1. ovoga članka.
+(7) Ugovorne stranke nastojat će dati prednost vraćanju državljana trećih država u njihove matične zemlje.
+Poglavlje III.
+VRAĆANJE ZRAČNIM PUTEM

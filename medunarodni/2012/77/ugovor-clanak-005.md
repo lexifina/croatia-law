@@ -1,0 +1,5 @@
+# Članak 5.
+(1) Svaka ugovorna stranka dopustit će na zahtjev druge ugovorne stranke tranzit državljanina treće države ili osobe bez državljanstva preko svog državnog područja. Ugovorna stranka koja zahtijeva tranzit osigurat će nastavak putovanja kroz druge tranzitne države te predaju i prihvat dotične osobe od strane odredišne države.
+(2) Ugovorna stranka koja zahtijeva tranzit jamči ugovornoj stranci od koje se zahtijeva tranzit da osoba u tranzitu posjeduje valjanu putnu kartu i valjanu putnu ispravu sve do odredišne države.
+(3) Ugovorna stranka koja zahtijeva tranzit odgovorna je za tranzit osobe cijelim putem do odredišne države.
+(4) Ako se tranzit sa specijaliziranom pratnjom provodi korištenjem usluga zračnog prijevoznika, ugovorna stranka koja zahtijeva tranzit osigurat će specijaliziranu pratnju sve do odredišne države. Ako se tranzit sa specijaliziranom pratnjom nastavlja kopnenim putem preko državnog područja ugovorne stranke od koje se zahtijeva tranzit, ta ugovorna stranka osigurava pratnju.
