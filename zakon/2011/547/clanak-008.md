@@ -20,5 +20,7 @@
 (10) Podaci iz stavka 1., 2., 3. i 4. ovog članka su javni i mogu se objaviti bez suglasnosti dužnosnika.
 (11) Povjerenstvo od dužnosnika može zahtijevati da o podacima iz stavka 5. ovog članka priloži i odgovarajuće dokaze.
 (12) Prije nego što izvrše obveze iz stavka 1., 3. i 4. ovog članka, dužnosnici ne mogu primiti plaću.
-(13) U svrhu provjere podataka iz izvješća o imovinskom stanju dužnosnika sukladno odredbama ovog Zakona, nadležna tijela u Republici Hrvatskoj kao i bankarske institucije i poslovni subjekti, dužni su bez odgode, na zahtjev Povjerenstva, dostaviti zatražene obavijesti i dokaze.
-(14) Sastavni dio izvješća o imovinskom stanju dužnosnika čini i izjava dužnosnika kojom dopušta Povjerenstvu pristup podacima o svim računima kod domaćih i stranih bankarskih i drugih financijskih institucija koji su zaštićeni bankarskom tajnom. Izjava se daje isključivo za potrebe provjere podataka iz izvješća o imovinskom stanju dužnosnika i odnosi se na razdoblje dok traju obveze dužnosnika sukladno ovom Zakonu.
+(13) U svrhu provjere podataka iz izvješća o imovinskom stanju dužnosnika sukladno odredbama ovog Zakona, nadležna tijela u Republici Hrvatskoj dužni su bez odgode, na zahtjev Povjerenstva, dostaviti zatražene obavijesti i dokaze.
+Odlukom Ustavnog suda (»Narodne novine«, br. 126/12.) na sjednici održanoj 7. studenoga 2012, stavak 13. djelomično ukinut, iza riječi: »Hrvatskoj« ukinute su riječi: »kao i bankarske institucije i poslovni subjekti,«.
+(14) Ukinut
+Odlukom Ustavnog suda (»Narodne novine«, br. 126/12.) na sjednici održanoj 7. studenoga 2012, stavak 14. ukinut.

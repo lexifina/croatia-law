@@ -2,8 +2,10 @@
 # Članak 30.
 (1) Nadležnosti Povjerenstva su:
 - pokretanje postupaka sukoba interesa i donošenje odluka o tome je li određeno djelovanje ili propust dužnosnika predstavlja povredu odredbi ovog Zakona,
-- donošenje Pravilnika o postupku pred Povjerenstvom, kojim se uređuje način rada i odlučivanje Povjerenstva, donošenje odluka, davanje mišljenja, propisivanje obrazaca i ustrojavanje registra radi primjene pojedinih odredaba ovog Zakona,
-- provjera podataka iz izvješća o imovinskom stanju dužnosnika sukladno odredbama ovog Zakona i na način propisan Pravilnikom kojim se uređuje postupak provjere podataka iz izvješća o imovinskom stanju dužnosnika, donesenim na temelju ovog Zakona,
+- donošenje Pravilnika kojim se uređuje način rada i odlučivanje Povjerenstva, donošenje odluka, davanje mišljenja, propisivanje obrazaca i ustrojavanje registra radi primjene pojedinih odredaba ovog Zakona,
+Odlukom Ustavnog suda (»Narodne novine«, br. 126/12.) na sjednici održanoj 7. studenoga 2012, u članku 30 stavku 1. podstavak 2. djelomično ukinut, iza riječi: »Pravilnika« ukinute su riječi: »o postupku pred Povjerenstvom,«.
+- provjera podataka iz izvješća o imovinskom stanju dužnosnika sukladno odredbama ovog Zakona.
+Odlukom Ustavnog suda (»Narodne novine«, br. 126/12.) na sjednici održanoj 7. studenoga 2012, u članku 30 stavku 1. podstavak 3. djelomično ukinut, iza riječi: »ovog Zakona« ukinute su riječi: »i na način propisan Pravilnikom kojim se uređuje postupak provjere podataka iz izvješća o imovinskom stanju dužnosnika, donesenim na temelju ovog Zakona,«.
 - izrada smjernica i uputa dužnosnicima u svrhu učinkovitog sprječavanja sukoba interesa,
 - redovito provođenje edukacije dužnosnika u pitanjima sukoba interesa i podnošenja izvješća o imovinskom stanju,
 - suradnja s nadležnim tijelom za izradu zakona u području sprječavanja sukoba interesa dužnosnika te podnošenje inicijativa nadležnim tijelima za predlaganje izmjena i dopuna zakona,

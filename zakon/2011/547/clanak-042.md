@@ -1,4 +1,5 @@
-## GLAVA V. KRŠENJE ODREDABA OVOG ZAKONA
+## GLAVA V.
+## KRŠENJE ODREDABA OVOG ZAKONA
 # Članak 42.
 (1) Za povredu odredbi ovog Zakona Povjerenstvo osobama iz članka 3. ovog Zakona može izreći sljedeće sankcije:
 1. opomena,

@@ -1,4 +1,5 @@
-## GLAVA II. SPRJEČAVANJE SUKOBA INTERESA
+## GLAVA II.
+## SPRJEČAVANJE SUKOBA INTERESA
 ## POSTUPANJE DUŽNOSNIKA U DVOJBI O POSTOJANJU SUKOBA INTERESA
 # Članak 6.
 (1) U slučaju dvojbe je li neko ponašanje u skladu s načelima javnih dužnosti, dužnosnici moraju zatražiti mišljenje Povjerenstva za odlučivanje o sukobu interesa (u daljnjem tekstu: Povjerenstvo).

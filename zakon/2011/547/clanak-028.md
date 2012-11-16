@@ -1,4 +1,5 @@
-## GLAVA IV. POVJERENSTVO ZA ODLUČIVANJE O SUKOBU INTERESA
+## GLAVA IV.
+## POVJERENSTVO ZA ODLUČIVANJE O SUKOBU INTERESA
 ## PRAVNI POLOŽAJ I SASTAV POVJERENSTVA
 # Članak 28.
 (1) Radi provedbe ovog Zakona osniva se Povjerenstvo za odlučivanje o sukobu interesa.
