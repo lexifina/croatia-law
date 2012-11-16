@@ -1,0 +1,3 @@
+## OPĆE ODREDBE
+# Članak 1.
+Ovom se Odlukom utvrđuje posebni standard i mjerila njegove primjene vezano uz provođenje specifične zdravstvene zaštite radnika koja se sukladno Odluci o standardima i normativima prava na zdravstvenu zaštitu iz obveznog zdravstvenog osiguranja za slučaj ozljede na radu i profesionalne bolesti s osnovama za sklapanje ugovora (u daljnjem tekstu: Odluka o standardima i normativima) osigurava osiguranicima Hrvatskog zavoda za zdravstveno osiguranje (u daljnjem tekstu: Zavod) na područjima gdje postoje veća odstupanja u organiziranju specifične zdravstvene zaštite radnika.
