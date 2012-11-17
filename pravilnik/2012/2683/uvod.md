@@ -1,0 +1,1 @@
+Na temelju članka 50. stavka 3. i članka 56. stavka 2. Zakona o sigurnosti u željezničkom prometu (»Narodne novine« br. 40/07 i 61/11), ministar pomorstva, prometa i infrastrukture u suglasnosti s ministrom graditeljstva i prostornog uređenja donosi
