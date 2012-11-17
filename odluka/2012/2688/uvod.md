@@ -1,0 +1,1 @@
+Na temelju članka 45. Zakona o posredovanju pri zapošljavanju i pravima za vrijeme nezaposlenosti (»Narodne novine«, br. 80/08., 121/10., 25/12. i 118/12) i članka 21. Statuta Hrvatskoga zavoda za zapošljavanje (»Narodne novine«, br. 109/12) Upravno vijeće Hrvatskoga zavoda za zapošljavanje na sjednici od 31. listopada 2012. godine donijelo je
