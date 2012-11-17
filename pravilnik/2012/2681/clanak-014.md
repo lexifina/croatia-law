@@ -1,0 +1,3 @@
+# Članak 14.
+(1) Pravne osobe za naoružanu pratnju moraju o osobama za sigurnosnu pratnju koje zapošljavaju temeljem ugovora o radu ili drugog ugovornog odnosa voditi osobne evidencije koje sadrže potrebne dokumente i dozvole, preslike svjedodžbi o osposobljenosti ili potvrdnice iz stavka 1. članka 8., potvrde o obavljenoj izobrazbi iz stavka 2. članka 8., potvrde o obavljenim liječničkim pregledima, izjavu o poznavanju odredbi Priručnika o postupanju i sve ostale dokumente važne za kvalitetno obavljanje djelatnosti.
+(2) Pravne osobe za naoružanu pratnju dužne su dati na uvid osobne evidencije iz stavka 1. za potrebe nadzora nad provođenjem ovog Pravilnika.
