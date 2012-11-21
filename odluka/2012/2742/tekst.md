@@ -1,0 +1,3 @@
+1. Prigodni optjecajni kovani novac od 25 kuna, u povodu obilježavanja čina potpisivanja 9. prosinca 2011. Ugovora o pristupanju Republike Hrvatske Europskoj uniji, izdan u skladu s Odlukom o izdavanju novčanica i kovanog novca koji glase na novčanu jedinicu Republike Hrvatske (»Narodne novine«, br. 37/1994., 44/1994. i 68/1994.), s osnovnim obilježjima utvrđenima u Odluci o osnovnim obilježjima prigodnoga optjecajnoga kovanog novca od 25 kuna »Ugovor o pristupanju Republike Hrvatske Europskoj uniji, 9. XII. 2011.« (»Narodne novine«, br. 113/2012.), pušta se u optjecaj 3. prosinca 2012.
+2. Ova Odluka stupa na snagu danom objave u »Narodnim novinama«.
+O. br. 775/2012.
