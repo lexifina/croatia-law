@@ -1,0 +1,1 @@
+Na temelju članka 4. Zakona o carinskoj tarifi (»Narodne novine«, br. 61/2000, 117/2000, 119/2000 i 146/2008) i članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, broj 150/2011), Vlada Republike Hrvatske je na sjednici održanoj 21. studenoga 2012. godine donijela
