@@ -1,0 +1,4 @@
+# Članak 16.
+(1) Kada država moliteljica traži izručenje osobe u svrhu izvršenja kazne zatvora ili druge mjere koja uključuje oduzimanje slobode izrečene protiv te osobe u njezinom odsustvu, zamoljena država može odbiti izručenje, ako po njezinom mišljenju, postupak u okviru kojeg je izrečena takva presuda ne udovoljava minimalnim pravima na obranu koja imaju sve osobe optužene za kaznena djela. Međutim, izručenje će se dopustiti ako država moliteljica pruži jamstvo da će izručena osoba imati pravo na ponavljanje postupka u kojem će moći ostvariti svoje pravo na obranu.
+(2) Kada zamoljena država obavijesti osobu čije se izručenje traži o presudi izrečenoj protiv nje u njezinu odsustvu, država moliteljica neće smatrati ovu obavijest službenom za potrebe ponavljanja postupka.
+ODGODA IZRUČENJA I PRIVREMENO IZRUČENJE
