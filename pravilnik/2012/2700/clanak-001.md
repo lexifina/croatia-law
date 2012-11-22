@@ -1,0 +1,6 @@
+## Opće odredbe
+# Članak 1.
+Ovim se Pravilnikom mijenjaju odredbe Pravilnika o nepoželjnim tvarima u hrani za životinje (»Narodne novine«, broj 80/10)[1] i preuzimaju sljedeće uredbe Europske unije:
+- Uredba Komisije (EU) br. 574/2011 od 16. lipnja 2011. o izmjeni Priloga I. Direktive 2002/32/EZ Europskog parlamenta i Vijeća u pogledu najvećih dopuštenih količina za nitrite, melamin, Ambrosia spp. i prijenosu nekih kokcidiostatika i histomonostatika i o konsolidaciji Priloga I. i II. Direktive (SL L 159, 17. 6. 2011.) (u daljnjem tekstu: Uredba (EU) br. 574/2011),
+- Uredba Komisije (EU) br. 277/2012 od 28. ožujka 2012. o izmjeni Priloga I. i II. Direktive 2002/32/EZ Europskoga parlamenta i Vijeća u pogledu najvećih dopuštenih količina i utvrđivanja pragova za pokretanje postupka za dioksine i poliklorirane bifenile (SL L 91, 29. 3. 2012.) (u daljnjem tekstu: Uredba (EU) br. 277/2012) i
+- Uredba Komisije (EU) br. 744/2012 od 16. kolovoza 2012. o izmjeni Priloga I. i II. Direktive 2002/32/EZ Europskoga parlamenta i Vijeća u pogledu najvećih dopuštenih količina za arsen, fluor, olovo, živu, endosulfan, dioksine, Ambrosia spp., diklazuril i lasalocid A natrij i utvrđivanja pragova za pokretanje postupka za dioksine (SL L 219, 17. 8. 2012.) (u daljnjem tekstu: Uredba (EU) br. 744/2012).
