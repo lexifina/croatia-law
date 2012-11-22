@@ -1,0 +1,6 @@
+# Članak 7.
+DOSTAVLJANJE POSTUPOVNIH AKATA
+(1) Dostava se dokazuje potvrdom o primitku koju je datirala i potpisala osoba kojoj je izvršena dostava ili izjavom zamoljene stranke da je dostava izvršena uz naznaku oblika i datuma takve dostave. Jedan od ovih dokumenata dostavit će se bez odgode stranci moliteljici.
+(2) Zamolbe za dostavom poziva okrivljeniku moraju biti dostavljene ministarstvu pravosuđa zamoljene stranke najkasnije 45 dana prije datuma određenog za dolazak okrivljenika na državno područje stranke moliteljice.
+(3) Poziv ne smije sadržavati prijetnju prisilnim mjerama koje se primjenjuju ako se propisno pozvani svjedok ili vještak ne odazove pozivu. Poziv koji sadrži prijetnju prisilnim mjerama će se uručiti, ali svjedok ili vještak koji se ne odazove ne može zbog toga biti kažnjen ili podvrgnut bilo kakvoj prisilnoj mjeri na državnom području zamoljene stranke.
+(4) Ako stranka moliteljica smatra da je iznimno potrebna osobna prisutnost svjedoka ili vještaka pred njezinim pravosudnim tijelima, to naznačuje u svojoj zamolbi za dostavom poziva, a zamoljena stranka poziva svjedoka ili vještaka da se odazove. Zamoljena stranka obavještava stranku moliteljicu o odgovoru svjedoka ili vještaka.
