@@ -1,0 +1,6 @@
+# Članak 10.
+Na prijedlog koordinatora nadležni rukovoditelj zatražit će od ustrojstvene jedinice Ministarstva nadležne za ljudske potencijale provođenje psiholoških postupaka intervencija u kriznim situacijama i integracije traume.
+Psihološke postupke iz stavka 1. ovoga članka organiziraju i sudjeluju u njihovoj provedbi, psiholozi ustrojstvene jedinice Ministarstva nadležne za ljudske potencijale formiranjem tima od najmanje dvije stručno osposobljene osobe od kojih je jedna voditelj tima i to psiholog.
+Postupanje tima uključuje odlazak na mjesto događaja, razgovor s rukovoditeljima o okolnostima događaja i provođenje postupaka iz stavka 1. ovoga članka sa zaposlenicima uključenim u događaj.
+O provedenim postupcima iz stavka 1. ovoga članka voditelj tima podnosi pisano izvješće, s preporukom za daljnje postupanje i dostavlja je nadležnom rukovoditelju.
+Neposredno nadređeni rukovoditelj zaposlenika, dužan je pratiti profesionalno funkcioniranje zaposlenika nakon povratka na posao te o eventualnim promjenama u ponašanju zaposlenika odmah izvijestiti nadređenog rukovoditelja, a u roku od 30 dana od dana početka praćenja, o tome je dužan izvijestiti nadređenog rukovoditelja te ustrojstvenu jedinicu Ministarstva nadležnu za ljudske potencijale, na obrascu izvješća koji je tiskan uz ovaj Pravilnik i njegov je sastavni dio (Obrazac 3.).
