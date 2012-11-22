@@ -1,0 +1,2 @@
+# Članak 4.
+Radna mjesta vozača pratitelja iz članka 1. stavka 1. ove Uredbe su radna mjesta osobnih vozača državnih dužnosnika I. i II. skupine, sukladno Odluci o uvjetima korištenja službenih osobnih automobila, mobilnih telefona, redovnih zrakoplovnih linija, poslovnih kreditnih kartica, sredstava reprezentacije, te načinu odobravanja službenih putovanja (»Narodne novine«, broj 5/2012) i drugih državnih dužnosnika koji imaju pravo na korištenje službenog osobnog automobila, s osobnim službenim vozačem 24 sata dnevno.
