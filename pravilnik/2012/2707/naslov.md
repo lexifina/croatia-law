@@ -1,0 +1,1 @@
+Pravilnik o izmjenama Pravilnika o posebnim uvjetima za obavljanje djelatnosti vodoistražnih radova i drugih hidrogeoloških radova, preventivne, redovne i izvanredne obrane od poplava te upravljanja detaljnim građevinama za melioracijsku odvodnju i vodnim građevinama za navodnjavanje
