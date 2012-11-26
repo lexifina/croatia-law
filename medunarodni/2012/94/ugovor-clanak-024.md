@@ -1,0 +1,7 @@
+# Članak 24.
+(1) Tranzit osobe koja se premješta iz treće države u jednu od država ugovornica preko državnog područja druge države ugovornice bit će odobren, ako ovim Ugovorom nije drugačije određeno, pod istim uvjetima kao i premještaj.
+(2) Zahtjevu za tranzit preko državnog područja države ugovornice treba priložiti pravomoćnu odluku kojom je preuzeto izvršenje strane sudske odluke, prijepis primijenjenih zakonskih odredbi te osobne podatke o osuđenoj osobi i njezinom državljanstvu, a podnosi se najkasnije 10 dana prije dogovorenog datuma tranzita.
+(3) Država ugovornica od koje se traži odobrenje tranzita može odbiti zahtjev za tranzit preko svog državnog područja ako se radi o osobi protiv koje se u toj državi vodi kazneni postupak ili je protiv nje izrečena osuđujuća presuda koja nije izvršena ili ako bi po mišljenju te države tranzit mogao štetiti njezinim interesima.
+(4) Država ugovornica od koje se traži odobrenje tranzita će odbiti molbu za tranzit vlastitog državljanina preko svog državnog područja, osim ako se ta osoba premješta zbog kaznenog djela za koje ta država ugovornica, na temelju domaćeg prava, može izručiti vlastitog državljanina u drugu državu ugovornicu.
+(5) U tijeku tranzita zamoljena država će osuđenu osobu zadržati u pritvoru onoliko vremena koliko je potrebno da se izvrši tranzit preko njezinog državnog područja.
+(6) Zahtjev za tranzit nije potreban ako se prijevoz obavlja zračnim putem preko državnog područja države ugovornice bez predviđenog slijetanja.
