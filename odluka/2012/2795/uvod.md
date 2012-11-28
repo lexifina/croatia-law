@@ -1,0 +1,1 @@
+Na temelju članka 152. u vezi s člankom 144.a stavkom 1. Zakona o državnom odvjetništvu (»Narodne novine« 76/09, 153/09, 116/10, 145/10, 57/11 i 130/11) Državnoodvjetničko vijeće na 32. sjednici održanoj 20. studenoga 2012. godine donijelo je
