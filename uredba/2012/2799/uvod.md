@@ -1,0 +1,1 @@
+Na temelju članka 61. stavka 5. i 7. i članka 62. stavka 4. Zakona o trošarinama (»Narodne novine«, broj 83/2009 i 111/2012), Vlada Republike Hrvatske je na sjednici održanoj 29. studenoga 2012. godine donijela
