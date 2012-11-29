@@ -1,0 +1,1 @@
+Na temelju članka 74. Zakona o sjemenu, sadnom materijalu i priznavanju sorti poljoprivrednog bilja (»Narodne novine« broj 140/05, 35/08, 25/09, 124/10 i 55/11) i članka 15. Zakona o zaštiti biljnih sorti (»Narodne novine« broj 131/97, 62/00, 67/08 i 124/11), ministar poljoprivrede donosi
