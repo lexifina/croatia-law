@@ -1,0 +1,1 @@
+Na temelju članka 98 a. stavka 2. Zakona o znanstvenoj djelatnosti i visokom obrazovanju (»Narodne novine«, broj 123/03, 105/04, 174/04, 2/07 - Odluka, 46/07, 45/09 i 63/11), ministar znanosti, obrazovanja i sporta donosi
