@@ -1,0 +1,642 @@
+IZMJENE I DOPUNE FINANCIJSKOG PLANA HRVATSKIH CESTA ZA 2012. I PROJEKCIJE
+ZA 2013. I 2014. GODINU
+I. OPĆI DIO
+A. RAČUN PRIHODA I RASHODA
+Plan
+za 2012.
+Povećanje/
+smanjenje
+Novi plan
+za 2012.
+PRIHODI POSLOVANJA
+1.450.700.000
+0
+1.450.700.000
+PRIHODI OD NEFINANCIJSKE IMOVINE
+0
+0
+0
+RASHODI POSLOVANJA
+1.322.930.000
+107.615.000
+1.430.545.000
+RASHODI ZA NEFINANCIJSKU IMOVINU
+1.267.770.000
+220.385.000
+1.488.155.000
+RAZLIKA - VIŠAK/MANJAK
+-1.140.000.000
+-328.000.000
+-1.468.000.000
+B. RAČUN FINANCIRANJA
+Plan
+za 2012.
+Povećanje/
+smanjenje
+Novi plan
+za 2012.
+PRIMICI OD FINANCIJSKE IMOVINE I ZADUŽIVANJA
+2.133.410.000
+328.000.000
+2.461.410.000
+IZDACI ZA FINAN. IMOVINU I OTPLATE ZAJMOVA
+993.410.000
+0
+993.410.000
+NETO FINANCIRANJE
+1.140.000.000
+328.000.000
+1.468.000.000
+VIŠAK/MANJAK + NETO FINANCIRANJE
+0
+0
+0
+A. RAČUN PRIHODA I RASHODA
+PRIHODI POSLOVANJA I PRIHODI OD PRODAJE NEFINANCIJSKE IMOVINE
+Raz-
+red
+Sku-
+pina
+Podskupina
+Naziv prihoda
+Plan
+za 2012.
+Povećanje/ smanjenje
+Novi plan
+za 2012.
+6
+PRIHODI POSLOVANJA
+1.450.700.000
+0
+1.450.700.000
+63
+Pomoći iz inozemstva (darovnice) i od subjekata unutar općeg proračuna
+1.403.643.224
+-4.600.000
+1.399.043.224
+633
+Pomoći iz proračuna
+1.403.643.224
+-4.600.000
+1.399.043.224
+64
+Prihodi od imovine
+39.880.000
+2.660.000
+42.540.000
+641
+Prihodi od financijske imovine
+7.400.000
+2.400.000
+9.800.000
+642
+Prihodi od nefinancijske imovine
+32.480.000
+-340.000
+32.140.000
+643
+Prihodi od kamata na dane zajmove
+0
+600.000
+600.000
+65
+Prihodi od upravnih i administrativnih pristojbi, pristojbi po posebnim propisima i naknada
+6.356.776
+1.920.000
+8.276.776
+652
+Prihodi po posebnim propisima
+6.356.776
+1.920.000
+8.276.776
+66
+Prihodi od prodaje proizvoda i robe te pruženih usluga i prihodi od donacija
+820.000
+20.000
+840.000
+661
+Prihodi od prodaje proizvoda i robe te pruženih usluga
+820.000
+20.000
+840.000
+RASHODI POSLOVANJA I RASHODI ZA NABAVU NEFINANCIJSKE IMOVINE
+Raz-
+red
+Sku-
+pina
+Podskupina
+Naziv rashoda
+Plan
+za 2012.
+Povećanje/ smanjenje
+Novi plan
+za 2012.
+3
+RASHODI POSLOVANJA
+1.322.930.000
+107.615.000
+1.430.545.000
+31
+Rashodi za zaposlene
+93.159.600
+-4.341.100
+88.818.500
+311
+Plaće (Bruto)
+77.708.800
+-1.913.700
+75.795.100
+312
+Ostali rashodi za zaposlene
+2.085.000
+-582.500
+1.502.500
+313
+Doprinosi na plaće
+13.365.800
+-1.844.900
+11.520.900
+32
+Materijalni rashodi
+543.193.400
+92.571.100
+635.764.500
+321
+Naknade troškova zaposlenima
+4.640.400
+-876.900
+3.763.500
+322
+Rashodi za materijal i energiju
+12.975.000
+45.000
+13.020.000
+323
+Rashodi za usluge
+520.565.000
+93.943.000
+614.508.000
+329
+Ostali nespomenuti rashodi poslovanja
+5.013.000
+-540.000
+4.473.000
+34
+Financijski rashodi
+435.627.000
+-17.065.000
+418.562.000
+342
+Kamate za primljene kredite i zajmove
+396.050.000
+-35.300.000
+360.750.000
+343
+Ostali financijski rashodi
+39.577.000
+18.235.000
+57.812.000
+38
+Ostali rashodi
+250.950.000
+36.450.000
+287.400.000
+382
+Kapitalne donacije - Ž U C
+240.000.000
+35.000.000
+275.000.000
+383
+Kazne, penali i naknade štete
+10.950.000
+1.450.000
+12.400.000
+4
+RASHODI ZA NABAVU NEFINANCIJSKE IMOVINE
+1.267.770.000
+220.385.000
+1.488.155.000
+41
+Rashodi za nabavu neproizvedene imovine
+117.200.000
+-200.000
+117.000.000
+411
+Materijalna imovina - prirodna bogatstva
+115.000.000
+0
+115.000.000
+412
+Nematerijalna imovina
+2.200.000
+-200.000
+2.000.000
+42
+Rashodi za nabavu proizvedene dugotrajne imovine
+1.150.570.000
+220.585.000
+1.371.155.000
+421
+Građevinski objekti
+1.137.670.000
+216.635.000
+1.354.305.000
+422
+Postrojenja i oprema
+7.600.000
+620.000
+8.220.000
+423
+Prijevozna sredstva
+1.600.000
+0
+1.600.000
+426
+Nematerijalna proizvedena imovina
+3.700.000
+3.330.000
+7.030.000
+B. RAČUN FINANCIRANJA
+Raz-
+red
+Sku-
+pina
+Podskupina
+Plan
+za 2012.
+Povećanje/ smanjenje
+Novi plan
+za 2012.
+NETO FINANCIRANJE
+1.140.000.000
+328.000.000
+1.468.000.000
+8
+PRIMICI OD FINANCIJSKE IMOVINE I ZADUŽIVANJA
+2.133.410.000
+328.000.000
+2.461.410.000
+84
+Primici od zaduživanja
+2.133.410.000
+328.000.000
+2.461.410.000
+844
+Primljeni krediti i zajmovi od kreditnih i ostalih financijskih institucija izvan javnog sektora
+2.133.410.000
+328.000.000
+2.461.410.000
+5
+IZDACI ZA FINANCIJSKU IMOVINU I OTPLATE ZAJMOVA
+993.410.000
+0
+993.410.000
+54
+Izdaci za otplatu glavnice primljenih kredita i zajmova
+993.410.000
+0
+993.410.000
+544
+Otplata glavnice primljenih kredita i zajmova od kreditnih i ostalih financijskih institucija izvan javnog sektora
+993.410.000
+0
+993.410.000
+II. POSEBNI DIO
+Šifra
+Naziv
+Plan
+za 2012.
+Povećanje/smanjenje
+Novi plan
+za 2012.
+03
+HRVATSKE CESTE
+3.584.110.000
+328.000.000
+3.912.110.000
+100
+ADMINISTRATIVNO UPRAVLJANJE I OPREMANJE
+231.380.000
+16.165.000
+247.545.000
+A1000
+ADMINISTRACIJA I UPRAVLJANJE
+207.380.000
+12.415.000
+219.795.000
+311
+Plaće (Bruto)
+77.708.800
+-1.913.700
+75.795.100
+312
+Ostali rashodi za zaposlene
+2.085.000
+-582.500
+1.502.500
+313
+Doprinosi na plaće
+13.365.800
+-1.844.900
+11.520.900
+321
+Naknade troškova zaposlenima
+4.640.400
+-876.900
+3.763.500
+322
+Rashodi za materijal i energiju
+12.975.000
+45.000
+13.020.000
+323
+Rashodi za usluge
+41.065.000
+-1.557.000
+39.508.000
+329
+Ostali nespomenuti rashodi poslovanja
+5.013.000
+-540.000
+4.473.000
+343
+Ostali financijski rashodi
+39.577.000
+18.235.000
+57.812.000
+383
+Kazne, penali i naknade šteta
+10.950.000
+1.450.000
+12.400.000
+K2000
+OPREMANJE
+7.600.000
+620.000
+8.220.000
+422
+Postrojenja i oprema
+7.600.000
+620.000
+8.220.000
+K2001
+INFORMATIZACIJA
+5.900.000
+3.130.000
+9.030.000
+412
+Nematerijalna imovina
+2.200.000
+-200.000
+2.000.000
+426
+Nematerijalna proizvedena imovina
+3.700.000
+3.330.000
+7.030.000
+K2002
+OBNOVA VOZNOG PARKA
+1.600.000
+0
+1.600.000
+423
+Prijevozna sredstva
+1.600.000
+0
+1.600.000
+K2003
+POSLOVNE ZGRADE
+8.900.000
+0
+8.900.000
+421
+Građevinski objekti
+8.900.000
+0
+8.900.000
+101
+SERVISIRANJE UNUTARNJEG DUGA
+1.249.920.000
+-35.300.000
+1.214.620.000
+A1001
+ZAJMOVI OD TUZEMNIH BANAKA I OSTALIH FINANCIJSKIH INSTITUCIJA IZVAN JAVNOG SEKTORA
+1.249.920.000
+-35.300.000
+1.214.620.000
+342
+Kamate za primljene zajmove
+347.150.000
+-35.300.000
+311.850.000
+544
+Otplata glavnice primljenih kredita i zajmova od kreditnih i ostalih financijskih institucija izvan javnog sektora
+902.770.000
+0
+902.770.000
+102
+SERVISIRANJE VANJSKOG DUGA
+139.540.000
+0
+139.540.000
+A1002
+ZAJMOVI OD INOZEMNIH BANAKA I OSTALIH FINANCIJSKIH INSTITUCIJA IZVAN JAVNOG SEKTORA
+139.540.000
+0
+139.540.000
+342
+Kamate za primljene zajmove
+48.900.000
+0
+48.900.000
+544
+Otplata glavnice primljenih kredita i zajmova od kreditnih i ostalih financijskih institucija izvan javnog sektora
+90.640.000
+0
+90.640.000
+103
+ULAGANJE U DRŽAVNE CESTE PO PROGRAMIMA
+1.243.770.000
+216.635.000
+1.460.405.000
+K2003
+SPOJEVI NA AUTOCESTE
+97.650.000
+-77.217.000
+20.433.000
+411
+Materijalna imovina - prirodna bogatstva
+5.000.000
+-5.000.000
+0
+421
+Građevinski objekti
+92.650.000
+-72.217.000
+20.433.000
+K2004
+PROGRAM GRADNJE I REKONSTRUKCIJA BRZIH CESTA
+588.010.000
+-128.645.000
+459.365.000
+411
+Materijalna imovina - prirodna bogatstva
+15.000.000
+51.145.000
+66.145.000
+421
+Građevinski objekti
+573.010.000
+-179.790.000
+393.220.000
+K2005
+OSTALI PROGRAMI ZAHVATA NA DRŽAVNIM CESTAMA
+172.530.000
+9.967.000
+182.497.000
+411
+Materijalna imovina - prirodna bogatstva
+67.500.000
+-39.370.000
+28.130.000
+421
+Građevinski objekti
+105.030.000
+49.337.000
+154.367.000
+K2006
+REKONSTRUKCIJA I UREĐENJE CESTA NA OTOCIMA
+18.400.000
+123.937.000
+142.337.000
+411
+Materijalna imovina - prirodna bogatstva
+5.000.000
+-5.000.000
+0
+421
+Građevinski objekti
+13.400.000
+128.937.000
+142.337.000
+K2007
+REKONSTRUKCIJA I UREĐENJE CESTA I MOSTOVA UZ GRANICU
+15.500.000
+-9.670.000
+5.830.000
+411
+Materijalna imovina - prirodna bogatstva
+2.000.000
+-2.000.000
+0
+421
+Građevinski objekti
+13.500.000
+-7.670.000
+5.830.000
+K2008
+PROGRAM DENIVELACIJE I OSIGUR. CEST.-ŽELJ. PRIJELAZA
+1.410.000
+-60.000
+1.350.000
+411
+Materijalna imovina - prirodna bogatstva
+500.000
+200.000
+700.000
+421
+Građevinski objekti
+910.000
+-260.000
+650.000
+K2009
+OSTALI INTERVENTNI PROJEKTI
+20.270.000
+-11.677.000
+8.593.000
+411
+Materijalna imovina - prirodna bogatstva
+5.000.000
+25.000
+5.025.000
+421
+Građevinski objekti
+15.270.000
+-11.702.000
+3.568.000
+K2010
+BETTERMENT
+330.000.000
+-90.000.000
+240.000.000
+411
+Materijalna imovina - prirodna bogatstva
+15.000.000
+0
+15.000.000
+421
+Građevinski objekti
+315.000.000
+-90.000.000
+225.000.000
+K2011
+ULAGANJE U ŽUPANIJSKE I LOKALNE CESTE
+0
+400.000.000
+400.000.000
+421
+Građevinski objekti
+0
+400.000.000
+400.000.000
+104
+PROGRAM ODRŽAVANJA I UPRAVLJANJA DRŽAVNIH CESTA
+479.500.000
+95.500.000
+575.000.000
+A1003
+REDOVNO ODRŽAVANJE
+350.000.000
+35.000.000
+385.000.000
+323
+Rashodi za usluge
+350.000.000
+35.000.000
+385.000.000
+A1004
+IZVANREDNO ODRŽAVANJE
+120.000.000
+65.000.000
+185.000.000
+323
+Rashodi za usluge
+120.000.000
+65.000.000
+185.000.000
+A1006
+STUDIJE I RAZVOJNE PRIPREME
+9.500.000
+-4.500.000
+5.000.000
+323
+Rashodi za usluge
+9.500.000
+-4.500.000
+5.000.000
+105
+SUFINANCIRANJE
+240.000.000
+35.000.000
+275.000.000
+A1007
+SUFINANCIRANJE ŽUC-a
+240.000.000
+35.000.000
+275.000.000
+382
+Kapitalne donacije
+240.000.000
+35.000.000
+275.000.000
+132 30.11.2012 Odluka o davanju suglasnosti na Izmjene i dopune Financijskog plana Hrvatskih cesta za 2012. i projekcije za 2013. i 2014. godinu
