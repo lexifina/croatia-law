@@ -1,0 +1,5 @@
+# Članak 5.
+SURADNJA U SPRJEČAVANJU NEZAKONITOG PROMETA KULTURNIM DOBRIMA
+Ugovorne stranke se obvezuju ostvarivati usku suradnju u svim mogućim djelovanjima sprječavanja i suzbijanja nezakonite trgovine umjetničkim djelima, arheološkim nalazima, dokumentima i drugim predmetima od povijesnog, kulturnog, te demografskog, etnološkog i antropološkog interesa, kao i u djelovanjima koja prije svega imaju za cilj sprječavanje kriminalnih aktivnosti u gore navedenoj nezakonitoj trgovini.
+Ugovorne stranke će djelovati u skladu s odnosnim nacionalnim zakonodavstvom, uz poštivanje obveza iz UNESCO-ve Konvencije o mjerama zabrane i sprječavanja nedozvoljenog uvoza, izvoza i prijenosa vlasništva kulturnih dobara iz 1970. i UNIDROIT-ove Konvencije o ukradenim ili nezakonito izvezenim kulturnim dobrima iz 1995.
+Ugovorne stranke također se obvezuju da će surađivati u području zaštite podvodne kulturne baštine, sukladno odnosnom zakonodavstvu koje uređuje podvodnu arheologiju, vodeći računa o načelima UNESCO-ve Konvencije o zaštiti podvodne kulturne baštine iz 2001.
