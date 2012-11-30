@@ -1,0 +1,1 @@
+Na temelju članka 53. stavak 8. Zakona o obveznom zdravstvenom osiguranju (»Narodne novine«, broj, 150/08, 94/09, 153/09, 71/10, 139/10, 49/11, 22/12, 57/12, 90/12 - Odluka Ustavnog suda Republike Hrvatske i 123/12) ministar financija donosi
