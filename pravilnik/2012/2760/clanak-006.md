@@ -1,0 +1,4 @@
+## Smjesa otpadnih plinova
+# Članak 6.
+(1) Kod mjerenja emisijskih veličina za pojedini nepokretni izvor, operater je dužan osigurati da se na mjernom mjestu na odsisnom kanalu ne miješaju otpadni plinovi tog izvora s otpadnim plinovima iz drugih nepokretnih izvora, ako Uredbom o GVE ili rješenjem o objedinjenim uvjetima zaštite okoliša nije propisano drukčije.
+(2) Ako se mjerno mjesto ne može urediti na način iz stavka 1. ovoga članka, te se na mjernom mjestu nalaze smjese otpadnih plinova iz više nepokretnih izvora, među kojima se na jedan nepokretni izvor primjenjuje Uredba o GVE i/ili za koje je rješenjem o objedinjenim uvjetima zaštite okoliša utvrđene GVE onečišćujućih tvari u zrak, za određivanje onečišćenja koriste se granične vrijednosti koncentracije tvari, maseni granični protoci i računski sadržaj kisika za smjesu otpadnih plinova u skladu s Uredbom o GVE i/ili tim rješenjem.

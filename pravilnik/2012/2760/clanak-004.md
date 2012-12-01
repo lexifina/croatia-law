@@ -1,0 +1,4 @@
+# Članak 4.
+(1) Prvo, povremeno i/ili kontinuirano mjerenje emisije onečišćujućih tvari u zrak provodi se na ispustu nepokretnog izvora (u daljnjem tekstu: mjerno mjesto) sukladno Uredbi o GVE ili rješenju izdanom prema posebnom propisu na temelju kojeg se određuju objedinjeni uvjeti zaštite okoliša (u daljnjem tekstu: rješenje o objedinjenim uvjetima zaštite okoliša).
+(2) Prvo mjerenje emisija onečišćujućih tvari u zrak iz nepokretnog izvora obavlja se tijekom pokusnog rada nepokretnog izvora, a prije ishođenja akta za uporabu prema posebnom propisu kojim se uređuje gradnja za taj nepokretni izvor, ali najkasnije dvanaest mjeseci od dana puštanja u pokusni rad.
+(3) Povremeno mjerenje emisije kod nepokretnog izvora s pretežno nepromjenjivim uvjetima rada provodi se pri uobičajenim radnim uvjetima i za vrijeme efektivnog rada nepokretnog izvora.

@@ -1,0 +1,25 @@
+# Članak 3.
+(1) Pojmovi uporabljeni u ovom Pravilniku imaju sljedeće značenje:
+1. automatski mjerni sustav (u daljnjem tekstu: AMS): mjerni sustav koji se sastoji od mjernih instrumenata za kontinuirano mjerenje emisijskih veličina uz neprekidnu ekstraktivnu ili neekstraktivnu analizu uzorka i automatskog sustava za očitanja izmjerenih vrijednosti u vremenskim intervalima ne dužim od 10 sekundi, bilježenje, pohranjivanje, obradu izmjerenih vrijednosti i kontinuirani prijenos u informacijski sustav o praćenju emisija kojeg vodi Agencija za zaštitu okoliša (u daljnjem tekstu: Agencija). Tako izmjerene vrijednosti jesu trenutne vrijednosti emisijskih veličina,
+2. automatsko pojedinačno mjerenje: mjerenje emisijskih veličina s mjernim uređajima koji neprekinutim uzorkovanjem otpadnih plinova osiguravaju mjerenje trenutačnih vrijednosti u vremenskim intervalima koji nisu dulji od 15 sekundi, te pohranjivanje ili zapisivanje rezultata mjerenja trenutnih vrijednosti,
+3. ekstraktivna analiza otpadnih plinova: uzimanje uzorka otpadnih plinova iz odvodnog kanala i provođenje analize plinova izvan kanala,
+4. emisijske veličine: masena koncentracija onečišćujuće tvari u otpadnom plinu, emitirani maseni protok onečišćujuće tvari i emisijski faktor,
+5. granična vrijednost emisije: najveće dopušteno ispuštanje onečišćujuće tvari sadržane u otpadnom plinu iz ispusta nepokretnog izvora koja ne smije biti prekoračena tijekom uobičajenog rada (u daljnjem tekstu: GVE),
+6. mali uređaji za loženje: uređaji za loženje ukupne ulazne toplinske snage ložišta 0,1 do 1 MW kod korištenja krutog goriva i goriva od biomase, odnosno 0,1 do 3 MW kod korištenja tekućeg i plinskog goriva,
+7. mjerni instrument: uređaj namijenjen za izvedbu mjerenja, samostalno ili u vezi s dodatnim uređajima,
+8. mjerna nesigurnost (nesigurnost mjerenja): nenegativni parametar koji opisuje rasipanje vrijednosti veličine koje se na temelju upotrijebljenih podataka pridružuju mjerenoj veličini,
+9. mjerni postupak: podroban opis mjerenja u skladu s jednim ili više mjernih načela i danom mjernom metodom, na temelju mjernog modela i uključujući svaki izračun kako bi se dobio mjerni rezultat,
+10. mjerna preciznost: bliskost slaganja između pokazivanja ili izmjerenih vrijednosti veličine dobivenih opetovanjem mjerenja na istim ili sličnim predmetima pod utvrđenim uvjetima. Mjerna preciznost obično se izražava brojčano mjerama nepreciznosti, kao što su standardno odstupanje, varijanca ili koeficijent promjene pod utvrđenim mjernim uvjetima,
+11. neekstraktivna analiza otpadnih plinova: uzimanje uzorka otpadnih plinova pri kojem se analiza plinova provodi u odvodnom kanalu,
+12. normirani uvjeti: suhi otpadni plinovi pri temperaturi 273,15 K i tlaku 101,3 kPa,
+13. parametri stanja otpadnih plinova: sastav otpadnih plinova, zacrnjenje i dimni broj za koje su propisom o graničnim vrijednostima emisija onečišćujućih tvari u zrak iz nepokretnih izvora određene GVE, kao i druge fizikalne veličine (temperatura, tlak, vlaga, brzina strujanja i volumni protok otpadnih plinova),
+14. pogonski mjerni uređaji: uređaji u postrojenju koji služe za periferno mjerenje kisika, brzine strujanja i vlage,
+15. provjera ispravnosti mjernog instrumenta: skup postupaka kojima se provjerava da li mjerni instrument ima sustavnu pogrešku i provodi se sukladno mjeriteljskim zahtjevima, a provodi se jednom godišnje,
+16. raspoloživost mjernog instrumenta: omjer sati rada mjernog instrumenta za vrijeme rada nepokretnog izvora i ukupnog broja sati rada nepokretnog izvora u promatranom razdoblju,
+17. ručno mjerenje: mjerenje emisijskih veličina uz jednokratno ili ponavljajuće uzimanje uzoraka otpadnih plinova u određenom volumenu i vremenu uz naknadno provođenje ekstraktivnih analiza otpadnih plinova. Tako dobivene vrijednosti su jednake srednjim vrijednostima emisijskih veličina u vremenu uzimanja uzorka,
+18. ugađanje: postupak dovođenja mjernog instrumenta u tehničko stanje prikladno za uporabu,
+19. umjeravanje mjernog instrumenta: skup postupaka kojima se u određenim uvjetima uspostavlja odnos između vrijednosti veličina koje pokazuje mjerni instrument i vrijednosti koje prikazuje neka tvarna mjera ili neka referencijska tvar,
+20. uzorak otpadnih plinova: dio toka otpadnih plinova koji se analizira na određenom mjernom mjestu, u određenom vremenskom razdoblju, na određen način te za njega vrijedi da je relevantan za otpadne plinove iz nepokretnog izvora,
+21. vrijeme efektivnog rada nepokretnog izvora: vrijeme rada nepokretnog izvora isključujući vrijeme ulaska u rad i izlazaka iz rada nepokretnog izvora,
+22. vrijeme usrednjavanja: vremenski interval za koji se izračunavaju srednje vrijednosti emisijskih veličina.
+(2) Osim pojmova iz stavka 1. ovoga članka, pojedini pojmovi koji se koriste u ovom Pravilniku sukladni su pojmovima utvrđenim u Zakonu o zaštiti zraka i Uredbi o graničnim vrijednostima emisija onečišćujućih tvari u zrak iz nepokretnih izvora (u daljnjem tekstu: Uredba o GVE).
