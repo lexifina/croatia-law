@@ -1,0 +1,4 @@
+# Članak 3.
+(1) Vlada Republike Hrvatske objavit će u roku od deset dana od dana stupanja na snagu ovoga Zakona javni poziv za predlaganje kandidata za članove Vijeća Agencije te u roku od sljedećih 30 dana nakon objave javnog poziva predložiti Hrvatskome saboru imenovanje predsjednika, zamjenika predsjednika i članova Vijeća Agencije.
+(2) Predsjednik, zamjenik predsjednika i članovi Vijeća Agencije, koji su imenovani na temelju Zakona o elektroničkim komunikacijama (»Narodne novine«, br. 73/08. i 90/11.), nastavljaju s radom do dana imenovanja predsjednika, zamjenika predsjednika i članova Vijeća Agencije u skladu s ovim Zakonom.
+(3) Članovi Vijeća Agencije, koji ne budu ponovno imenovani u skladu sa stavkom 2. ovoga članka, ostvaruju prava iz članka 9. stavka 4. Zakona o elektroničkim komunikacijama (»Narodne novine«, br. 73/08. i 90/11.).
