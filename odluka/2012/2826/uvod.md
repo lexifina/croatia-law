@@ -1,0 +1,1 @@
+Na temelju članka 6. stavka 2. i članka 8. stavka 1. Zakona o izborima općinskih načelnika, gradonačelnika, župana i gradonačelnika Grada Zagreba (»Narodne novine«, br. 109/2007, 125/2008, 24/2011 i 150/2011), Vlada Republike Hrvatske je na sjednici održanoj 29. studenoga 2012. godine donijela
