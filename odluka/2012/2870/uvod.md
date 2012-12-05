@@ -1,0 +1,1 @@
+Na temelju članka 20. stavak 2. Zakona o Hrvatskoj gospodarskoj komori (»Narodne novine« broj 66/91 i 73/91) i članka 76. Statuta Hrvatske gospodarske komore (»Narodne novine« broj 11/94. - pročišćeni tekst 108/95, 19/96, 64/01 i 142/11) Skupština Hrvatske gospodarske komore na 2. sjednici 29. studenoga 2012. godine donosi

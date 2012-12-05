@@ -1,0 +1,3 @@
+# Članak 7.
+Članice Komore osnovane i upisane u sudski registar u 2012. godini i 2013. godini, dužne su plaćati članarinu sukladno članku 4. stavak 1. podstavak 1. ove Odluke.
+Iznimno, članice Komore osnovane i upisane u sudski registar u 2012. godini i 2013. godini kao jednostavno društvo s ograničenom odgovornošću oslobođene su plaćanja članarine i doprinosa sukladno članku 4. i 5. ove Odluke dok društvo ne poveća temeljni kapital tako da dosiže ili postaje veći od najnižeg temeljnog kapitala iz članka 389. stavka 2. Zakona o trgovačkim društvima, kada se na temeljni kapital društva i na poslovne udjele primjenjuju odredbe članka 390. stavka 1. Zakona o trgovačkim društvima.
