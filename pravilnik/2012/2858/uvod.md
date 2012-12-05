@@ -1,0 +1,1 @@
+Na temelju članka 77. stavka 6. i članka 92. stavka 6. Zakona o trošarinama (»Narodne novine«, broj 83/09. i 111/12.), uz prethodno mišljenje ministra poljoprivrede, ribarstva i ruralnog razvoja donosim
