@@ -1,0 +1,5 @@
+## Snimanje u blizini državne granice sa susjednim državama kada je neophodno korištenje zračnog prostora susjednih država
+# Članak 8.
+(1) Pravnim i fizičkim osobama koje snimaju područje Republike Hrvatske u blizini granice sa susjednim državama i kojima je zbog snimanja neophodno korištenje zračnog prostora tih susjednih država, Državna geodetska uprava izdat će odobrenje za snimanje, odnosno razvijanje zračnih snimaka, ali pod uvjetom da je prethodno pribavljena suglasnost nadležnih tijela susjedne države čiji zračni prostor se koristi. Državna geodetska uprava će takvu suglasnost zatražiti putem ministarstva nadležnog za vanjske poslove.
+(2) Zahtjev za izdavanje odobrenja iz stavka 1. ovoga članka podnosi naručitelj snimanja Državnoj geodetskoj upravi.
+(3) Državna geodetska uprava će primjerak odobrenja za snimanje iz zraka, odnosno razvijanje zračnih snimaka u blizini granice sa susjednim državama kada je neophodno korištenje zračnog prostora tih država pravovremeno dostaviti ministarstvu nadležnom za unutarnje poslove, odnosno poslove carine.
