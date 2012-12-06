@@ -1,0 +1,4 @@
+# Članak 5.
+(1) Dio godišnje naknade iz članka 2. stavka 3. podstavka 1. ovoga Pravilnika plaća se u stanicama za tehnički pregled vozila ili se uplaćuje izravno na račun županijske uprave za ceste odnosno u proračun Grada Zagreba.
+(2) Stanice za tehnički pregled vozila izdaju vlasnicima vozila potvrdu o obračunatom i plaćenom dijelu godišnje naknade iz članka 2. stavka 3. podstavka 1. ovoga Pravilnika..
+(3) Pravne osobe u čijem su sastavu stanice za tehnički pregled vozila i županijske uprave za ceste, odnosno upravno tijelo Grada Zagreba, dužni su, sukladno ovome Pravilniku, sklopiti ugovor kojim će se regulirati uplata sredstava godišnje naknade iz članka 2. stavka 3. podstavka 1. na račun županijskih uprava za ceste, izdavanje potvrda o obračunatoj i naplaćenoj godišnjoj naknadi iz članka 2. stavka 3. podstavka 1., vođenje evidencije o obračunatoj godišnjoj naknadi iz članka 2. stavka 3. podstavka 1. i obavljanju drugih poslova koji su s tim povezani.
