@@ -1,0 +1,6 @@
+## Objedinjeni plan i plan radiodifuzijske mreže
+# Članak 14.
+(1) Objedinjeni plan, koji obuhvaća usklađene planove svih operatora pokretnih komunikacija u Republici Hrvatskoj na dan stupanja na snagu ove Uredbe, naveden je u Dodatku 2. ove Uredbe, koji je tiskan uz ovu Uredbu i čini njezin sastavni dio. Objedinjeni plan sastoji se od tekstualnog i grafičkog dijela, pri čemu se grafički dio objedinjenog plana ne objavljuje u »Narodnim novinama«, već na internetskim stranicama Agencije.
+(2) Plan razvoja elektroničke komunikacijske infrastrukture u radiodifuzijskim mrežama naveden je u Dodatku 3. ove Uredbe, a sastoji se od tekstualnog dijela koji je tiskan uz ovu Uredbu i čini njezin sastavni dio.
+(3) Operatori pokretnih komunikacija i operatori radiodifuzijskih mreža mogu dostaviti ministarstvu nadležnom za elektroničke komunikacije, uz prethodnu suglasnost Agencije, prijedlog novoga objedinjenog plana, odnosno prijedlog novoga plana razvoja radiodifuzijske mreže. U postupku davanja prethodne suglasnosti Agencija provodi javnu raspravu.
+(4) Ministar nadležan za elektroničke komunikacije predložit će Vladi Republike Hrvatske, na temelju dostavljenog prijedloga iz stavka 3. ovoga članka, izmjene i dopune ove Uredbe.

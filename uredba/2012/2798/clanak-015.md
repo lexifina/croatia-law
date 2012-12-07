@@ -1,0 +1,3 @@
+## Stupanje na snagu Uredbe
+# Članak 15.
+Ova Uredba stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.

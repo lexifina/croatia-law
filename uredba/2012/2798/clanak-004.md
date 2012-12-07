@@ -1,0 +1,5 @@
+## Mjerila za planiranje nepokretne komunikacijske mreže
+# Članak 4.
+(1) Gradnja i/ili rekonstrukcija elektroničke komunikacijske infrastrukture i druge povezane opreme u nepokretnoj elektroničkoj komunikacijskoj mreži planira se podzemno, slijedeći koridore prometnica, željezničkih pruga i drugih vrsta infrastrukture. Iznimno, u svrhu bitnog skraćivanja trase, koridor se može planirati i izvan koridora prometnica, željezničkih pruga ili drugih vrsta infrastrukture, u skladu s dokumentom prostornog uređenja.
+(2) Dokumentima prostornog uređenja planira se elektronička komunikacijska infrastruktura i druga povezana oprema na način kojim se ne ograničuje razvoj elektroničke komunikacijske mreže i elektroničke komunikacijske infrastrukture.
+(3) Moguće ograničenje u pogledu korištenja vrste infrastrukture (npr. zračna/podzemna elektronička komunikacijska infrastruktura, samostojeći antenski stupovi i drugo) prema namjeni prostora mora sadržavati i zamjensko rješenje, kako se propisanim ograničenjem ne bi ugrozila mogućnost i kakvoća pružanja određene elektroničke komunikacijske usluge, odnosno obavljanje djelatnosti elektroničkih komunikacijskih mreža i usluga.
