@@ -1,0 +1,3 @@
+# Članak 47.
+U članku 192., stavak 20. mijenja se i glasi:
+»(20) Materijalni vlak se na međukolodvorski odsjek na kojem radi otprema prema uvjetima iz ovog članka te mora imati vlakopratnju i sve popratne isprave vlaka. Materijalni vlak otprema se isključivo u uvjetima zatvorene pruge, a umjesto broja označava se slovima MV. U vlakopratnji materijalnog vlaka mora biti najmanje vlakovođa, dok u vlakopratnji materijalnog vlaka vučenog motornim vozilom za posebne namjene vlakopratitelj može biti i drugi izvršni radnik koji je osposobljen za obavljanje probe kočenja, a dužnosti vlakovođe tada obavlja vozač. Postupak proračuna učinka kočnica materijalnog vlaka s tako određenim vlakopratiteljem propisuje upravitelj infrastrukture.«

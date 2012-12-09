@@ -1,0 +1,3 @@
+# Članak 39.
+U članku 149., stavak 7. mijenja se i glasi:
+»(7) Kad se u kolodvoru vlak za prijevoz putnika sastaje s drugim vlakom za prijevoz putnika ili s teretnim vlakom, vlak za prijevoz putnika koji dolazi kasnije odnosno teretni vlak koji dolazi kasnije prima se na kolosijek udaljeniji od kolodvorske zgrade od onoga kolosijeka na koji je primljen vlak za prijevoz putnika koji je stigao prvi u kolodvor. Izuzetno, vlak za prijevoz putnika koji dolazi kasnije odnosno teretni vlak koji dolazi kasnije može se primiti na kolosijek koji je bliži kolodvorskoj zgradi, ali se sigurnost putnika mora osigurati mjerama propisanim ovim pravilnikom i poslovnim redom kolodvora.«

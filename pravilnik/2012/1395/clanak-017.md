@@ -1,0 +1,3 @@
+# Članak 17.
+U članku 57., stavak 2. mijenja se i glasi:
+»(2) Kod vlaka za prijevoz putnika koji se sastoji od jedne ili više motornih garnitura na kojima postoji elektronsko-računalna dijagnostika za probe kočenja te kod lokomotivskog vlaka vrijedi potpuna proba kočenja koju strojovođa obavlja prije dolaska na područje kolodvora. Ako je lokomotivski vlak sastavljen od više vučnih vozila, probu kočenja obavlja strojovođa koji upravlja vožnjom vlaka sa strojovođama odnosno pratiteljima ostalih vučnih vozila u sastavu lokomotivskog vlaka. Potpune probe kočenja opisane u ovome stavku ne evidentiraju se u putnome listu, nego samo u primopredajnoj knjizi vučnoga vozila.«.

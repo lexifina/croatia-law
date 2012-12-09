@@ -1,0 +1,7 @@
+# Članak 26.
+U članku 107., iza stavka 5. dodaju se stavci 6. do 10. koji glase:
+»(6) U kolodvoru iz kojega vlak počinje vožnju u sprezi strojovođa vodećega vučnog vozila obavještava prometnika vlakova da se vuča vlaka obavlja vožnjom u sprezi. Prometnik vlakova to upisuje u IV. dijelu putnoga lista na sljedeći način: 'Vožnja vlaka od kolodvora ... obavlja se u sprezi.' potpis prometnika vlakova.
+(7) Prometnik vlakova obavještava raspisom sve međukolodvore do prvoga rasporednog kolodvora odnosno do prvoga odvojnog kolodvora ako vlak u odvojnome kolodvoru prelazi na drugi rasporedni odsjek o tome da odnosni vlak vozi u sprezi, a prometnik vlakova rasporednog odnosno odvojnog kolodvora obavještava na isti način sljedeće kolodvore na voznoj relaciji.
+(8) Ako u nekome od međukolodvora dođe do promjene zbog koje vožnja u sprezi više nije moguća, prometnik vlakova o tome obavještava sve kolodvore spomenute u stavku 7. ovoga članka te u IV. dijelu putnoga lista upisuje: 'Od kolodvora ... vlak vozi bez sprege.' potpis prometnika vlakova.
+(9) Ako vlak vozi s dva radna vučna vozila na čelu, a kolodvori nisu obaviješteni o vožnji toga vlaka u sprezi, onda se smatra da takav vlak vozi sa zapregom.
+(10) Spojeni motorni vlakovi za prijevoz putnika voze uvijek u sprezi, osim ako zbog neispravnosti vožnja u sprezi nije moguća, o čemu strojovođa obavještava prometnika vlakova. Nakon toga prometnik vlakova postupa u skladu sa stavkom 8. ovoga članka.«.
