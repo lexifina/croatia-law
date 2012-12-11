@@ -1,0 +1,2 @@
+# Članak 62.
+U članku 326. stavku 1. točki 1. riječi: »Fonda za razvoj i zapošljavanje za tražbine iz članka 3. Zakona o osiguranju potraživanja radnika u slučaju stečaja poslodavca (»Narodne novine«, br. 114/03.)« zamjenjuju se riječima: »Agencije za osiguranje radničkih potraživanja u slučaju stečaja poslodavca za tražbine iz članka 3. Zakona o osiguranju potraživanja radnika u slučaju stečaja poslodavca (»Narodne novine«, br. 86/08.)«.
