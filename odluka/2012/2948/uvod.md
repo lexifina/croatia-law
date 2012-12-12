@@ -1,0 +1,1 @@
+Na temelju članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, broj 150/2011) i članka 15. stavka 1. Uredbe o osnivanju Agencije za opremu pod tlakom (»Narodne novine«, br. 132/2008, 29/2011 i 90/2012), Vlada Republike Hrvatske je na sjednici održanoj 12. prosinca 2012. godine donijela
