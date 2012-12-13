@@ -1,0 +1,3 @@
+# Članak 4.
+(1) Ministarstvo dostavlja izvješće o inventaru stakleničkih plinova i zajednički format za izvješćivanje u dijelu koji se odnosi na antropogene emisije stakleničkih plinova prema izvoru i odlivima emisija uslijed prenamjene zemljišta i šumarskih djelatnosti te uslijed djelatnosti gospodarenja šumom u skladu s člankom 3. stavkom 3. te stavkom 4. Kyotskog protokola i odgovarajućim odlukama koje su u okviru Kyotskog protokola usvojene, svake godine (godina N) za razdoblje od 1990. do N-2 godine.
+(2) Informacije iz stavka 1. ovog članka trebaju se jasno razlikovati od procjena antropogenih emisija iz izvora navedenih u Prilogu A Kyotskog protokola.
