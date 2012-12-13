@@ -1,0 +1,6 @@
+# Članak 9.
+Zdravstvene ustanove sa sklopljenim ugovorom o provođenju zdravstvene zaštite sa Zavodom obvezne su primati na pripravnički staž inženjere medicinske radiologije, stručne prvostupnike medicinske radiologije, stručne prvostupnike radiološke tehnologije, fizioterapeute, dentalne tehničare, laboratorijske tehničare, inženjere medicinsko-laboratorijske dijagnostike, stručne prvostupnike medicinsko-laboratorijske dijagnostike, fizioterapeutske tehničare, sanitarne tehničare, sanitarne inženjere te stručne prvostupnike sanitarnog inženjerstva, prema registriranoj djelatnosti, prema sljedećim mjerilima:
+- 1 pripravnik na 5 zaposlenih zdravstvenih radnika odgovarajuće struke te još 1 pripravnik na svakih daljnjih 8 zaposlenih zdravstvenih radnika odgovarajuće struke.
+Trgovačka društva koja obavljaju zdravstvenu djelatnost, prema registriranoj djelatnosti, mogu primati na pripravnički staž po 1 pripravnika odgovarajuće struke iz stavka 1. ovoga članka.
+Državni zdravstveni zavodi koji obavljaju zdravstvenu djelatnost prema registriranoj djelatnosti, mogu primati na pripravnički staž po 1 pripravnika odgovarajuće struke iz stavka 1. ovoga članka.
+Kliničke zdravstvene ustanove i specijalne bolnice, prema registriranoj djelatnosti obvezne su primati na pripravnički staž radne terapeute prema sljedećem mjerilu - 1 pripravnik na 3 zaposlena radna terapeuta.
