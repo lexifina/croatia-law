@@ -1,2 +1,5 @@
 # Članak 136.
-Rješenje o pravima po ovom Zakonu koje je postalo konačno u upravnom postupku može se ukinuti po pravu nadzora ako je njime povrijeđen Zakon u korist stranke, a na štetu države u roku 5 godina od kada je rješenje postalo konačno u upravnom postupku.
+Rješenje kojim je stranka stekla neko pravo ili status iz članka 122. ovoga Zakona može se ukinuti i:
+1. ako nadležno upravno tijelo pravomoćnom odlukom poništi ili ukine javnu ispravu na temelju koje je ostvareno neko pravo ili status iz članka 122. ovoga Zakona
+2. ako nakon donošenja pravomoćne odluke stranka izmijeni svoju izjavu na temelju koje je ostvareno neko pravo ili status iz članka 122. ovoga Zakona.
+Odredbom članka 24. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 55/11.) stupio na snagu 26. svibnja 2011., članak 136. je izmijenjen.

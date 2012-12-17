@@ -1,0 +1,3 @@
+# Članak 24.a.
+Udovice umrlih HRVI-a iz Domovinskog rata I. i II. skupine sa 100% oštećenja organizma, kojima je do smrti bilo priznato pravo na doplatak za njegu i pomoć druge osobe po osnovi ovoga Zakona, a koji su umrli zbog bolesti ili ozljede nastale izvan okolnosti obrane suvereniteta Republike Hrvatske, imaju pravo na obiteljsku mirovinu pod uvjetom da su u trenutku njihove smrti imale navršenih 40 godina starosti, a visina obiteljske mirovine određuje se sukladno Zakonu o mirovinskom osiguranju.
+Odredbom članka 7. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 140/12.) stupio na snagu 17. prosinca 2012., iza članka 24. dodan je Članak 24.a.

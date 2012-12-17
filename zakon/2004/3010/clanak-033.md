@@ -1,5 +1,5 @@
 ## Staž u dvostrukom trajanju
 # Članak 33.
 (1) Hrvatskim braniteljima iz Domovinskog rata koji su za vrijeme sudjelovanja u Domovinskom ratu bili zaposleni ili im se staž osiguranja za to vrijeme računa po drugoj osnovi, vrijeme provedeno u Domovinskom ratu računa se kao staž osiguranja u dvostrukom trajanju, a hrvatskim braniteljima iz Domovinskog rata koji nisu zaposleni ili nisu ostvarivali staž osiguranja po drugoj osnovi, vrijeme provedeno u Domovinskom ratu računa se kao poseban staž u dvostrukom trajanju, sukladno propisima o obrani.
-(2) Hrvatskom branitelju iz Domovinskog rata koji je nakon razvojačenja ostvario pravo na novčanu naknadu na osnovi privremene nesposobnosti za rad, svo vrijeme korištenja te naknade priznaje se kao poseban staž u jednostrukom trajanju.
+(2) Hrvatskom branitelju iz Domovinskog rata koji je nakon razvojačenja ostvario pravo na novčanu naknadu na osnovi privremene nesposobnosti za rad, sve vrijeme korištenja te naknade priznaje se kao poseban staž u jednostrukom trajanju.
 (3) Hrvatskom branitelju iz Domovinskog rata koji nakon 30. lipnja 1996. nije bio zaposlen ili koji nije ostvario staž osiguranja, odnosno poseban staž po drugoj osnovi, a obavljao je zadaće u postrojbama Ministarstva unutarnjih poslova, odnosno Ministarstva obrane Republike Hrvatske, to razdoblje računa se kao poseban staž u jednostrukom trajanju.

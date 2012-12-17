@@ -1,4 +1,6 @@
 # Članak 117.
-(1) Bračni drug stupanjem u brak gubi prava iz ovoga Zakona koja je ostvario kao član obitelji smrtno stradaloga hrvatskog branitelja iz Domovinskog rata i umrloga HRVI iz Domovinskog rata od I. do IV. skupine.
+(1) Bračni i izvanbračni drug iz članka 6. ovoga Zakona, stupanjem u brak ili izvanbračnu zajednicu ne gubi prava iz ovoga Zakona koja su ostvarena priznavanjem statusa člana obitelji smrtno stradaloga hrvatskog branitelja iz Domovinskog rata i umrloga HRVI iz Domovinskog rata od I. do IV. skupine.
+Odredbom članka 10. Zakona o izmjenama i dopuni Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 137/09.) stupio na snagu 21. studenoga 2009., stavak 1. je izmijenjen.
+Odredbom članka 35. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 140/12.) stupio na snagu 17. prosinca 2012., stavak 1. je izmijenjen.
 (2) Bračni drug gubi prava iz ovoga Zakona ako zlorabi ili grubo zanemari roditeljske dužnosti i prava prema djeci s kojom koristi ta prava pa mu je roditeljska skrb oduzeta odlukom suda u izvanparničnom postupku.
 (3) Roditelj smrtno stradaloga hrvatskog branitelja iz Domovinskog rata ne može steći ni koristiti prava iz ovoga Zakona ako mu je odlukom suda u izvanparničnom postupku oduzeto roditeljsko pravo zbog grubog zanemarivanja roditeljske dužnosti.

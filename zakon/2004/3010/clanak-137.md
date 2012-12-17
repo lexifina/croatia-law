@@ -1,3 +1,5 @@
 # Članak 137.
-(1) U postupku priznavanja statusa člana obitelji smrtno stradaloga hrvatskog branitelja iz Domovinskog rata i statusa HRVI iz Domovinskog rata po ovom Zakonu primjenjuju se i odredbe zakona kojim se uređuje opći upravni postupak ako ovim Zakonom nije drukčije određeno.
-(2) Na ostala pitanja u svezi s pravima iz ovoga Zakona, uvjetima za stjecanje, korištenje i prestanak tih prava te s postupkom njihova ostvarivanja, koja nisu uređena ovim Zakonom, primjenjuju se posebni zakoni i drugi propisi koji uređuju odnosna prava.
+Brisan stavak 1.
+Odredbom članka 25. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 55/11.) stupio na snagu 26. svibnja 2011., stavak 1. je brisan.
+Na ostala pitanja u svezi s pravima iz ovoga Zakona, uvjetima za stjecanje, korištenje i prestanak tih prava te s postupkom njihova ostvarivanja, koja nisu uređena ovim Zakonom, primjenjuju se posebni zakoni i drugi propisi koji uređuju odnosna prava.
+Odredbom članka 25. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 55/11.) stupio na snagu 26. svibnja 2011., dosadašnji stavak 2. postao je stavak 1.

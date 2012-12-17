@@ -1,4 +1,5 @@
 ## 7. OSTALA PRAVA
 ## PREDNOST PRI UPISU U OBRAZOVNE USTANOVE
 # Članak 53.
-Djeca smrtno stradaloga hrvatskog branitelja iz Domovinskog rata, djeca zatočenoga ili nestaloga hrvatskog branitelja iz Domovinskog rata, HRVI iz Domovinskog rata i djeca HRVI iz Domovinskog rata, hrvatski branitelji iz Domovinskog rata, dragovoljac i djeca dragovoljca iz Domovinskog rata izravno se upisuju u srednje škole i visoka učilišta pod uvjetom da prijeđu bodovni, odnosno razredbeni prag, te da zadovolje na ispitu sposobnosti i darovitosti u srednjim školama i visokim učilištima u kojima se provodi prijamni ispit.
+Ukinut
+Odlukom Ustavnog suda (»Narodne novine«, br. 2/07.) na sjednici održanoj 20. prosinca 2006. godine, ukinut je članak 53. Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 174/04.), Odluka je stupila na snagu 4. siječnja 2007. godine.

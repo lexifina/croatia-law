@@ -1,8 +1,14 @@
-## GLAVA XII.
-## KAZNENE ODREDBE
 # Članak 145.
 (1) Novčanom kaznom od 10.000,00 do 300.000,00 kuna kaznit će se za prekršaj:
 1. Hrvatski zavod za mirovinsko osiguranje, ako ne postupi prema odredbi članka 23. stavka 6. ovoga Zakona,
-2. pravne osobe ako one ili njihova tijela ne postupe prema odredbi članka 23. stavka 7. i članka 35. stavka 1. ovoga Zakona,
-3. Hrvatski zavod za mirovinsko osiguranje, ako ne postupi prema odredbi članka 152., 153., 154., 155. i 156. ovoga Zakona.
-(2) Za prekršaj iz stavka 1. ovoga članka kaznit će se novčanom kaznom od 5.000,00 do 15.000,00 kuna i odgovorna osoba u pravnoj osobi ili čelnik tijela pravne osobe.
+2. Javne ustanove, izvanproračunski i proračunski fondovi, te pravne osobe u vlasništvu ili pretežitom vlasništvu Republike Hrvatske i u vlasništvu ili pretežitom vlasništvu jedinica lokalne i područne (regionalne) samouprave, ako ne postupe prema odredbi članka 23. stavka 7. ovoga Zakona,
+Odredbom članka 40. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 140/12.) stupio na snagu 17. prosinca 2012., točka 2. je izmijenjena.
+3. Javne službe i javne ustanove kojima je osnivač ili jedan od osnivača Republika Hrvatska, općina, grad, županija, izvanproračunski i proračunski fondovi, pravne osobe u vlasništvu ili pretežitom vlasništvu Republike Hrvatske, pravne osobe u vlasništvu ili pretežitom vlasništvu jedinica lokalne i područne (regionalne) samouprave i pravne osobe s javnim ovlastima, ako ne postupe prema odredbi članka 35. stavka 3. ovoga Zakona.
+4. Javne službe i javne ustanove kojima je osnivač ili jedan od osnivača Republika Hrvatska, općina, grad, županija, izvanproračunski i proračunski fondovi, pravne osobe u vlasništvu ili pretežitom vlasništvu Republike Hrvatske, pravne osobe u vlasništvu ili pretežitom vlasništvu jedinica lokalne i područne (regionalne) samouprave i pravne osobe s javnim ovlastima, ako ne postupe prema odredbi članka 35. stavka 13. ovoga Zakona.
+Odredbom članka 40. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 140/12.) stupio na snagu 17. prosinca 2012., iza točke 2. dodane su nove točke 3. i 4.
+5. Hrvatski zavod za mirovinsko osiguranje, ako ne postupi prema odredbi članka 152., 153., 154., 155. i 156. ovoga Zakona.
+Odredbom članka 40. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 140/12.) stupio na snagu 17. prosinca 2012., dosadašnja točka 3. postala je točka 5.
+(2) Odgovorne osobe u tijelima javne uprave kaznit će se za prekršaj novčanom kaznom od 5.000,00 kuna do 15.000,00 kuna ako ne postupe prema odredbi članka 35. stavka 1. ovoga Zakona.
+Odredbom članka 40. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 140/12.) stupio na snagu 17. prosinca 2012., iza stavka 1. dodan je novi stavak 2.
+(3) Za prekršaj iz stavka 1. ovoga članka kaznit će se novčanom kaznom od 5.000,00 do 15.000,00 kuna i odgovorna osoba u pravnoj osobi ili čelnik tijela pravne osobe.
+Odredbom članka 40. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 140/12.) stupio na snagu 17. prosinca 2012., dosadašnji stavak 2. postao je stavak 3.

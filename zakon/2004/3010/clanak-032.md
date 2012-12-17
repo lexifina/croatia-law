@@ -1,3 +1,4 @@
 # Članak 32.
 (1) Svaka ocjena invalidnosti na temelju koje se stječe pravo na profesionalnu rehabilitaciju ili pravo na invalidsku mirovinu koju donosi ovlašteni vještak u mirovinskom osiguranju, te priznata obiteljska mirovina članovima obitelji smrtno stradaloga hrvatskog branitelja iz Domovinskog rata i priznata novčana naknada u iznosu obiteljske mirovine članovima obitelji zatočenoga ili nestaloga hrvatskog branitelja iz Domovinskog rata podliježe reviziji koju obavlja Povjerenstvo za reviziju ocjene invalidnosti.
-(2) Sastav i način rada Povjerenstva propisuje ministar obitelji, branitelja i međugeneracijske solidarnosti Pravilnikom o radu Povjerenstva.
+(2) Sastav i način rada Povjerenstva propisuje ministar branitelja Pravilnikom o radu Povjerenstva.
+Odredbom članka 46. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 140/12.) stupio na snagu 17. prosinca 2012., riječi: »ministar obitelji, branitelja i međugeneracijske solidarnosti« u odgovarajućem padežu zamijenjene su riječima: »ministar branitelja« u odgovarajućem padežu.

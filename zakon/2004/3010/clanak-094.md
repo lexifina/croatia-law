@@ -1,4 +1,3 @@
 # Članak 94.
-(1) Samohranim, prema ovom Zakonu, smatra se korisnik opskrbnine koji nema mirovinu, ni zemljište, šume u posjedu, vlasništvu ili suvlasništvu čiji proizvodi prema Zakonu služe kao osnovica za obračun poreza na dodanu vrijednost te da u svom kućanstvu nema srodnika sposobnih za privređivanje, niti ima članova obitelji u kućanstvu ili izvan kućanstva koji su zaposleni ili korisnici mirovine ili samostalno obavljaju privrednu ili profesionalnu djelatnost, ili da imaju zemljište, šume u posjedu, vlasništvu ili suvlasništvu čiji proizvodi prema Zakonu služe kao osnovica za obračun poreza na dodanu vrijednost.
-(2) Iznimno od odredbe stavka 1. ovoga članka, pri utvrđivanju svojstva samohrane osobe, ne uzima se u obzir pastorčad koja ne živi s njom u kućanstvu.
-(3) Ne smatraju se sposobnim za privređivanje, u smislu stavka 1. ovoga članka, članovi kućanstva koji su nesposobni za privređivanje prema članku 90. ovoga Zakona ako nisu zaposleni, odnosno samostalno ne obavljaju gospodarsku ili profesionalnu djelatnost.
+Brisan.
+Odredbom članak 9. Zakona o izmjenama i dopuni Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine« br. 137/09.) stupio na snagu 21. studenoga 2009., članak 94. je brisan.
