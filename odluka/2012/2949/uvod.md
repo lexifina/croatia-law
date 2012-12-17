@@ -1,0 +1,1 @@
+Na temelju članka 47. stavaka 1. i 3. Zakona o pomorskom dobru i morskim lukama (»Narodne novine«, br. 158/2003, 100/2004, 141/2006, 38/2009 i 123/2011), Vlada Republike Hrvatske je na sjednici održanoj 6. prosinca 2012. godine donijela
