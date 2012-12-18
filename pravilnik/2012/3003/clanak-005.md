@@ -1,0 +1,6 @@
+# Članak 5.
+(1) Zatvoreni investicijski fond dužan je dostaviti Agenciji izvještaje iz članka 3. stavka 2. i 4. ovog Pravilnika u elektroničkom obliku potpisane naprednim elektroničkim potpisom u skladu s tehničkom uputom Agencije.
+(2) Smatra se da je zatvoreni investicijski fond dostavio izvještaje iz stavka 1. ovog članka u trenutku kada je izvještaj prihvaćen na poslužitelju Agencije za zaprimanje izvještaja.
+(3) U opravdanim slučajevima nemogućnosti dostave na način propisan stavkom 1. ovog članka, zatvoreni investicijski fond dužan je izvještaje dostaviti u pisanom obliku, neposredno ili poštom u svrhu pravodobnog izvješćivanja. Zatvoreni investicijski fond dužan je dostaviti izvještaje na način propisan stavkom 1. ovog članka čim prestanu razlozi nemogućnosti dostave, a najkasnije u roku od 8 dana od isteka roka za dostavu izvještaja.
+(4) Zatvoreni investicijski fond dužan je za izvještaje iz članka 3. stavka 4. ovog Pravilnika dostaviti i u pisanom obliku zajedno s izvješćem ovlaštenog revizora o obavljenoj reviziji godišnjih financijskih izvještaja i godišnjim izvješćem.
+(5) Zatvoreni investicijski fond s javnom ponudom za ulaganje u nekretnine revidirane konsolidirane godišnje financijske izvještaje, izvješće ovlaštenog revizora o obavljenoj reviziji godišnjih financijskih izvještaja i godišnje izvješće dostavlja Agenciji samo u pisanom obliku.
