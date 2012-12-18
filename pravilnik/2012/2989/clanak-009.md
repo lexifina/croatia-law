@@ -1,0 +1,2 @@
+# Članak 9.
+Ministarstvo će učiniti javno dostupnim u elektroničkom obliku i podatke iz posebnog dijela Registra branitelja na temelju pisane privole hrvatskog branitelja iz Domovinskog rata, pisanog zahtjeva nasljednika smrtno stradaloga ili umrlog hrvatskog branitelja iz Domovinskog rata, odnosno na osnovi pisanog zahtjeva članova uže obitelji zatočenoga ili nestaloga hrvatskog branitelja iz Domovinskog rata uz deklasifikaciju podataka iz članka 5. ovog pravilnika od strane vlasnika podataka.

@@ -1,0 +1,1 @@
+Na temelju članka 108. stavka 1. točke. 14. Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 174/2004, 92/2005, 2/2007, 107/2007, 65/2009, 137/2009, 146/2010, 55/2011 i 140/2012), ministar branitelja donosi

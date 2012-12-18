@@ -1,0 +1,3 @@
+# Članak 14.
+Kada korisnik u cilju pretrage podataka javno dostupnih iz Registra branitelja upiše samo prezime hrvatskog branitelja iz Domovinskog rata, dobit će podatke s imenom, imenom roditelja, godinom rođenja i mjestom rođenja za najviše dvadeset hrvatskih branitelja iz Domovinskog rata upisanih u Registar branitelja s istim prezimenom, poredanih po abecednom redu njihovih prezimena.
+Ukoliko korisnik ne može identificirati traženu osobu na temelju podataka iz stavka 1. ovog članka, za dalje pretraživanje mora upisati osim prezimena i ime, te po potrebi i godinu rođenja tražene osobe - hrvatskog branitelja iz Domovinskog rata.
