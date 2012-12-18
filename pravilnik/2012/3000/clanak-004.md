@@ -1,0 +1,5 @@
+# Članak 4.
+(1) Izvještaje iz članka 2. stavka 1. točke b., c. i d. dostavljaju društva za upravljanje u elektroničkom obliku potpisane naprednim elektroničkim potpisom na način propisan u tehničkoj uputi Agencije.
+(2) Smatra se da je društvo za upravljanje dostavilo izvještaje iz stavka 1. ovog članka u trenutku kada je izvještaj prihvaćen na poslužitelju Agencije za zaprimanje izvještaja.
+(3) U opravdanim slučajevima nemogućnosti dostave na način propisan stavkom 1. ovog članka, društvo za upravljanje obvezno je u propisanom roku dostaviti izvještaje iz stavka 1. ovog članka u pisanom obliku, neposredno ili poštom u svrhu pravodobnog izvješćivanja. Društvo za upravljanje obvezno je dostaviti izvještaje na način propisan stavkom 1. ovog članka čim prestanu razlozi nemogućnosti dostave, a najkasnije u roku od 8 dana od isteka roka za dostavu izvještaja
+(4) Izvješća iz članka 2. stavka 1. točke a. i e. dostavlja depozitna banka u elektroničkom obliku na način propisan tehničkim uputama Agencije.

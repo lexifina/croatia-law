@@ -1,0 +1,1 @@
+Na temelju odredbi članaka 226. Zakona o investicijskim fondovima (»Narodne novine« broj 150/05), Hrvatska agencija za nadzor financijskih usluga na sjednici održanoj 13. prosinca 2012. godine donijela je
