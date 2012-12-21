@@ -1,0 +1,2 @@
+# Članak 1.
+U Zakonu o obveznom zdravstvenom osiguranju (»Narodne novine«, br. 150/2008, 94/2009, 153/2009, 71/2010, 139/2010, 49/2011, 22/2012, 57/2012, 90/2012 - Odluka Ustavnog suda Republike Hrvatske i 123/2012), u odredbi članka 3. koja je propisana Zakonom o izmjenama Zakona o obveznom zdravstvenom osiguranju (»Narodne novine«, broj 22/2012), riječi: »1. siječnja 2013. godine.« zamjenjuju se riječima: »1. siječnja 2014. godine.«.

@@ -1,0 +1,2 @@
+# Članak 2.
+Doprinosi i ostali prihodi obveznoga zdravstvenog osiguranja utvrđeni u odredbi članka 53. stavka 1. Zakona o obveznom zdravstvenom osiguranju (»Narodne novine«, br. 150/2008, 94/2009, 153/2009, 71/2010, 139/2010, 49/2011, 22/2012, 57/2012, 90/2012 - Odluka Ustavnog suda Republike Hrvatske i 123/2012) uplaćuju se u korist državnog proračuna Republike Hrvatske do 31. prosinca 2013. godine, a od 1. siječnja 2014. godine uplaćuju se u korist računa Hrvatskog zavoda za zdravstveno osiguranje i prihod su tog Zavoda.
