@@ -1,0 +1,2 @@
+# Članak 2.
+Na zahtjev osiguranika kojemu je prije stupanja na snagu ovoga Pravilnika brisano razdoblje provedeno u osiguranju za koje, u skladu s člankom 6. Pravilnika o utvrđivanju staža osiguranja na temelju plaćenih doprinosa za mirovinsko osiguranje (»Narodne novine«, broj 57/2011), nisu podmirene sve obveze po osnovi doprinosa za mirovinsko osiguranje, Zavod će ponovo utvrditi staž osiguranja u skladu s člankom 1. ovoga Pravilnika.

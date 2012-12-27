@@ -1,0 +1,5 @@
+# Članak 1.
+U Pravilniku o utvrđivanju staža osiguranja na temelju plaćenih doprinosa za mirovinsko osiguranje (»Narodne novine«, broj 57/2011), iza članka 3. dodaje se članak 3.a koji glasi:
+»Članak 3.a
+Iznimno od odredbe članka 3. stavka 2. ovoga Pravilnika, osiguranicima kojima se pravomoćnim rješenjem Ministarstva financija - Porezne uprave donesenim na temelju Zakona o mjerama naplate poreznog duga uzrokovanog gospodarskom krizom (»Narodne novine«, broj 45/2011, 25/2012 i 78/2012) otpisuje dug po osnovi kamata, nakon što je uplaćena glavnica duga doprinosa za mirovinsko osiguranje, kao staž osiguranja računa se cijelo razdoblje osiguranja na koje se glavnica duga odnosi.
+U slučaju otpisa kamata po osnovi doprinosa za mirovinsko osiguranje prema odredbama Zakona o financijskom poslovanju i predstečajnoj nagodbi (»Narodne novine«, broj 108/2012), nakon potpunog namirenja glavnice duga doprinosa, utvrđenog u rješenju o sklopljenoj predstečajnoj nagodbi kao staž osiguranja računa se cijelo razdoblje osiguranja na koje se glavnica duga odnosi.«.
