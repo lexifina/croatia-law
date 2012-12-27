@@ -1,0 +1,1 @@
+[1] Pravilnikom su preuzete odredbe Direktive Vijeća (EZ) br. 98/179/EZ od 23. veljače 1998. kojom se utvrđuju detaljna pravila službenog uzorkovanja u svrhu praćenja određenih tvari i njihovih ostataka u živim životinjama i životinjskim proizvodima.
