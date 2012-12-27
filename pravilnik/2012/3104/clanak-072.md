@@ -1,0 +1,12 @@
+# Članak 72.
+(1) Površine poljoprivrednih parcela prihvatljivih za potporu određuju se prvenstveno uređajima i metodama koje omogućuju minimalne tehničke standarde tj. mjerenjem GPS uređajem za globalni sustav pozicioniranja, mjerenjem na digitalnom ortofoto snimku u ARKOD sustavu, metodom daljinskog istraživanja ili kombinacijom navedenih uređaja i metoda.
+(2) Kao pomoćna sredstva mogu se koristiti sljedeći uređaji i metode:
+- mjerna traka,
+- laserski daljinomjer.
+(3) Prilikom kontrole na terenu, kod utvrđivanja površine poljoprivrednih parcela prihvatljivih za potporu, za referentne poljoprivredne parcele koriste se podaci iz sustava za identifikaciju zemljišnih parcela ARKOD.
+(4) Dopušteno mjerno odstupanje za jednu poljoprivrednu parcelu ili ARKOD, definira se tako da ne prelazi bufer od najviše 1,5. metar.
+(5) Prilikom mjerenja površine parcela ili ARKOD-a, tijekom kontrole na terenu, smatra se da izmjerena površina ne odstupa od prijavljene površine ako se vrijednost površine dobivena mjerenjem nalazi u intervalu između vrijednosti koja se dobije sljedećim izračunom: prijavljena površina - (izmjereni opseg parcele x 1,5 m) i vrijednosti koja se dobije sljedećim izračunom: prijavljena površina + (izmjereni opseg parcele x 1,5 m).
+(6) Najveće dopušteno odstupanje (izmjereni opseg parcele x 1,5 m) u odnosu na svaku poljoprivrednu parcelu u apsolutnim vrijednostima ne može preći 1,0 hektar.
+(7) Ukupna površina poljoprivredne parcele može se uzeti u obzir kao prihvatljiva pod uvjetom da je u potpunosti iskorištena u poljoprivredne svrhe u skladu s uobičajenim normama dobre poljoprivredne prakse i da je održavana u dobrim poljoprivrednim i okolišnim uvjetima. U drugim slučajevima, kao prihvatljiva površina u obzir se uzima samo stvarno korištena površina u toj proizvodnoj godini.
+(8) U slučajevima kada se na granicama između poljoprivrednih parcela nalaze obilježja krajobraza, takva se obilježja mogu smatrati dijelom ukupne prihvatljive površine poljoprivredne parcele pod uvjetom da se polovica širine obilježja, do najviše 2 metra, pripisuje svakoj od susjednih poljoprivrednih parcela. Ako širina pojedinog obilježja prelazi 4 metra, ono se u cijelosti isključuje iz prihvatljive površine parcela.
+(9) Kada se obilježja krajobraza opisana u stavku 7. ovoga članka nalaze unutar pojedine parcele, ona mogu biti utvrđena kao prihvatljivi dio poljoprivredne parcele ako je njihova širina manja ili jednaka 2 metra. Ako je njihova širina veća od 2 metra, moraju se potpuno isključiti iz prihvatljive površine parcele.

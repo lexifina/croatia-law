@@ -1,0 +1,6 @@
+# Članak 15.
+(1) Pravo na regionalno plaćanje dodjeljuje se za pašnjake i ostale vrste korištenja zemljišta.
+(2) Prava na regionalno plaćanje dodjeljuju se Korisniku koji je u 2013. godini podnio Zahtjev za dodjelu Prava na regionalno plaćanje za prihvatljive hektare na kojima se obavlja poljoprivredna djelatnost.
+(3) Konačna vrijednost i broj prava utvrđuju se najkasnije do 1. travnja 2014. godine, a nakon izvršenih kontrola iz članaka 65. i 66. ovoga Pravilnika.
+(4) Prihvatljivi hektar u smislu ovoga Pravilnika znači bilo koju poljoprivrednu površinu na poljoprivrednom gospodarstvu iz članka 22. stavka 2. i 3. Zakona, koja se koristi za obavljanje poljoprivredne djelatnosti, koja je upisana u ARKOD i za koju se podnosi zahtjev za dodjelu Prava na regionalno plaćanje.
+(5) Površine koje se koriste za proizvodnju konoplje smatraju se prihvatljivim hektarima iz stavka 3. ovoga članka pod uvjetom da sadržaj tetrahidrokanabinola u korištenim sortama ne prelazi 0,2% te da se za proizvodnju koristi certificirano sjeme određenih sorti sukladno Pravilniku o uvjetima za uzgoj konoplje, načinu prijave uzgoja maka te uvjetima za posjedovanje opojnih droga u veterinarstvu, osim sorti Finola i Tiborszallasi.
