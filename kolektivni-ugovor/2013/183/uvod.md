@@ -1,0 +1,2 @@
+Na temelju članka 253. Zakona o radu (»Narodne novine« broj 149/09 i 61/11, daljnjem tekstu: Zakon) HRVATSKE AUTOCESTE d.o.o., Zagreb, Širolina 4, (u daljnjem tekstu: Poslodavac), s jedne strane i Nezavisni cestarski sindikat, Zagreb, Širolina 4, i Sindikat radnika hrvatskih cesta i autocesta, Sesvete, Ivanja Reka bb, s druge strane (u daljnjem tekstu: Sindikati) zaključili su u Zagrebu dana 28. 12. 2012. godine, sljedeći
+II. DODATAK KOLEKTIVNOG UGOVORA
