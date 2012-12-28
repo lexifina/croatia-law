@@ -1,0 +1,3 @@
+# Članak 1.
+U Pravilniku o porezu na dobit (»Narodne novine« broj 95/05, 133/07, 156/08, 146/09, 123/10, 137/11 i 61/12) članak 12.a stavak 8. mijenja se i glasi:
+»(8) Odredbe stavka 7. ovoga članka primijenit će se ako nak-nadno dođe do smanjenja temeljnog kapitala i u slučaju nastanka promjena iz članka 18. i 19. Zakona i/ili u slučaju promjene strukture vlasništva. Porezni obveznik koji je izvršio reinvestiranje i njegov pravni slijednik, obvezni su Poreznoj upravi dostaviti obavijest o smanjenju temeljnog kapitala i to najkasnije do podnošenja prijave poreza na dobit za porezno razdoblje u kojem je izvršeno smanjenje temeljnog kapitala.«.
