@@ -1,0 +1,8 @@
+## Jamstvo za provedbu ugovora o koncesiji
+# Članak 31.
+(1) Davatelj koncesije dužan je prije sklapanja ili prije stupanja na snagu ugovora o koncesiji prikupiti od odabranog najpovoljnijeg ponuditelja, odnosno podnositelja zahtjeva za dobivanje koncesije potrebna jamstva i/ili instrumente osiguranja naplate naknade za koncesiju te naknade štete koja može nastati zbog neispunjenja obveza iz ugovora o koncesiji (zadužnice, bankarske garancije, osobna jamstva, mjenice, polog i ostalo) u iznosu određenom u skladu s procijenjenom vrijednosti koncesije.
+(2) Ugovor o koncesiji neće biti sklopljen, odnosno neće stupiti na snagu ako jamstva i/ili instrumenti osiguranja iz stavka 1. ovoga članka ne budu dostavljeni davatelju koncesije u roku određenom u dokumentaciji za nadmetanje u skladu s posebnim zakonom.
+(3) Jamstva i instrumenti osiguranja pohranjuju se na prikladnom mjestu kod davatelja koncesije koji ih je dužan čuvati za vrijeme trajanja ugovora o koncesiji.
+(4) Jamstva i instrumenti osiguranja mogu se, u skladu s dokumentacijom za nadmetanje i ugovorom o koncesiji, a nakon isteka polovice roka trajanja ugovora o koncesiji ili po završetku faze gradnje i/ili rekonstrukcije kod koncesija za javne radove i koncesija za javne usluge, zamijeniti istovjetnim jamstvima i instrumentima umanjene vrijednosti koja odražava ostatak vrijednosti koncesije koju je izračunao davatelj koncesije.
+(5) Davatelj koncesije dužan je redovito provjeravati valjanost instrumenata osiguranja.
+(6) U skladu sa stavkom 5. ovoga članka, a u slučaju da priloženi instrument osiguranja nije valjan, davatelj koncesije dužan je bez odgađanja zatražiti od koncesionara dostavu novog odgovarajućeg instrumenta osiguranja.

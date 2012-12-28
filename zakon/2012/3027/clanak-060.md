@@ -1,0 +1,3 @@
+# Članak 60.
+(1) Novčanom kaznom u iznosu od 50.000,00 kuna do 100.000,00 kuna kaznit će se za prekršaj pravna osoba iz članka 4. stavka 1. točke c) ovoga Zakona posebnim propisima ovlaštena za davanje koncesija ako protivno odredbama ovoga Zakona kao i posebnih propisa kojima se uređuju pojedine koncesije ministarstvu nadležnom za financije podatke potrebne radi upisa u Registar koncesija ne dostavi ili ne dostavi u roku (članak 57. stavci 8. do 11.).
+(2) Novčanom kaznom u iznosu od 5.000,00 kuna do 10.000,00 kuna za prekršaj iz stavka 1. ovoga članka kaznit će se za prekršaj odgovorna osoba za taj prekršaj kod davatelja koncesije, odnosno kod tijela koje je sklopilo i nadležno je za provođenje ugovora o koncesiji.

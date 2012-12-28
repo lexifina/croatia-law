@@ -1,0 +1,12 @@
+## Pregled i ocjena ponuda
+# Članak 24.
+(1) Nakon javnog otvaranja ponuda stručno povjerenstvo pregledava i ocjenjuje ponude na temelju uvjeta i kriterija iz dokumentacije za nadmetanje.
+(2) Pregled i ocjena ponuda tajni su do donošenja odluke o davanju koncesije, odnosno odluke o poništenju postupka davanja koncesije.
+(3) O pregledu i ocjeni ponuda sastavlja se zapisnik. Ponuditelji imaju pravo uvida u zapisnik, te dobiti presliku istog bez naknade.
+(4) Davatelj koncesije odbit će rješenjem nevaljane ponude.
+(5) Protiv rješenja iz stavka 4. ovoga članka nije dopuštena žalba. Rješenje iz stavka 4. ovoga članka može se pobijati žalbom protiv odluke o davanju koncesije, odnosno odluke o poništenju postupka davanja koncesije.
+(6) Nevaljana ponuda je ponuda koja nije izrađena u skladu s dokumentacijom za nadmetanje, koja sadrži odredbe koje davatelj koncesije smatra štetnima ili za koju davatelj koncesije osnovano smatra da nije u skladu s pravilima poštenog tržišnog natjecanja, koja zbog formalnih ili drugih objektivnih razloga ne može biti odabrana (ponuda nije dostavljena u roku, ponuda ponuditelja koji ispunjava uvjete za isključenje određene dokumentacijom za nadmetanje, ponuda ponuditelja koji nije dokazao svoju sposobnost u skladu s dokumentacijom za nadmetanje, ponuda kojoj nedostaje jamstvo za ozbiljnost ponude, koja ne odgovara potrebama davatelja koncesije određenim u opisu predmeta koncesije i tehničkim specifikacijama, odnosno kojom se nude usluge i/ili radovi koji očito ne zadovoljavaju potrebe davatelja koncesije u odnosu na predmet koncesije i/ili uvjete obavljanja djelatnosti koja je predmet koncesije).
+(7) U postupku pregleda i ocjene ponuda davatelj koncesije može u primjerenom roku koji ne smije biti kraći od pet niti duži od deset dana od dana dostave ponude zaključkom pozvati ponuditelje da pisano pojasne ili dopune ponudu koju su predali u skladu s člankom 22. ovoga Zakona.
+(8) Pojašnjenje ili dopuna iz stavka 7. ovoga članka smije se odnositi samo na nejasnoće, manje nedostatke ili pogreške koji su uklonjivi.
+(9) Pojašnjenje ili dopuna iz stavka 7. ovoga članka ne smije imati za posljedicu naknadnu zamjenu ili dostavu traženih dokumenata, nego samo dopunu već dostavljenih dokumenata.
+(10) Traženje pojašnjenja ili dopuna iz stavka 7. ovoga članka ne smije imati učinak diskriminacije, nejednakog tretmana gospodarskih subjekata ili pogodovanja pojedinom gospodarskom subjektu u postupku davanja koncesije.
