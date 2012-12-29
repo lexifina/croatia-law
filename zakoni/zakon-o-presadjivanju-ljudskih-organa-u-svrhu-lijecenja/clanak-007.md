@@ -1,0 +1,6 @@
+## Nacionalni transplantacijski program
+# Članak 7.
+(1) Aktivnosti vezane uz darivanje i presađivanje organa provode se sukladno Nacionalnom transplantacijskom programu kojeg donosi ministar nadležan za zdravlje (u daljnjem tekstu: ministar), na prijedlog Nacionalnog povjerenstva za presađivanje organa na vrijeme od četiri godine.
+(2) Nacionalno povjerenstvo za presađivanje organa (u daljnjem tekstu: Povjerenstvo) imenuje ministar na vrijeme od četiri godine, a čine ga predstavnici transplantacijskih programa, nacionalni transplantacijski koordinator, predstavnik bolničkih transplantacijskih koordinatora, te predstavnik ovlaštenog laboratorija za imunogenetiku.
+(3) Povjerenstvo predlaže stručne smjernice, prati i analizira uspješnost transplantacijskih programa, prati provedbu Nacionalnog transplantacijskog programa, te predlaže mjere za njegovo unaprjeđenje, sudjeluje u planiranju i provedbi zdravstveno-promidžbenih i edukativnih aktivnosti na području darivanja i presađivanja organa.
+(4) U provedbi Nacionalnog transplantacijskog programa obvezne su sudjelovati zdravstvene ustanove i zdravstveni radnici, te Povjerenstvo iz stavka 2. ovoga članka, na način koji propisuje ministar pravilnikom.

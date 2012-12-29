@@ -1,0 +1,6 @@
+## Sustav za praćenje i dojavu ozbiljnih štetnih događaja i ozbiljnih štetnih reakcija
+# Članak 27.
+(1) Zdravstvene ustanove s odobrenjem za obavljanje djelatnosti presađivanja, te sve ustanove uključene u postupke iz članka 1. stavka 2. ovoga Zakona, obvezne su uspostaviti učinkovit i provjeren sustav za praćenje i dojavu ozbiljnih štetnih događaja i ozbiljnih štetnih reakcija, te sustav za brzu dojavu i provođenje korektivnih mjera i povlačenje iz primjene organa i otopina koje mogu izazvati ozbiljan štetan događaj ili ozbiljnu štetnu reakciju.
+(2) O svakom ozbiljnom štetnom događaju i ozbiljnoj štetnoj reakciji zdravstvene ustanove iz stavka 1. ovoga članka obvezne su pisanim putem bez odgađanja izvijestiti Ministarstvo i Eurotransplant, te bez odgađanja poduzeti sve raspoložive mjere za smanjenje štete nastale uslijed bilo kojeg ozbiljnog štetnog događaja i ozbiljne štetne reakcije i o tome pisanim putem izvijestiti Ministarstvo.
+(3) Pravilnik o načinu izvješćivanja o ozbiljnim štetnim događajima i ozbiljnim štetnim reakcijama, te o načinu vođenja evidencije, rokovima i načinu izvješćivanja tijela iz stavka 2. ovoga članka, te država članica Europske unije donosi ministar.
+(4) Ministarstvo je obvezno voditi Registar ozbiljnih štetnih događaja i ozbiljnih štetnih reakcija iz stavka 2. ovoga članka.

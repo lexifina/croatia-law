@@ -1,0 +1,2 @@
+# Članak 38.
+Zdravstvene ustanove kojima je do stupanja na snagu ovoga Zakona dano odobrenje za obavljanje djelatnosti uzimanja, presađivanja i razmjenu organa iz članka 27. stavka 1. Zakona o uzimanju i presađivanju dijelova ljudskog tijela u svrhu liječenja (»Narodne novine«, br. 177/04. i 45/09.) obvezne su uskladiti svoj rad i poslovanje s odredbama ovoga Zakona u roku od godinu dana od dana stupanja na snagu ovoga Zakona.
