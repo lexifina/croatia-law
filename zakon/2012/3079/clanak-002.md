@@ -1,0 +1,5 @@
+# Članak 2.
+Iza članka 6. dodaje se članak 6.a koji glasi:
+»Članak 6.a
+(1) Obvezi revizije financijskih izvještaja podliježu i godišnji odvojeni i konsolidirani financijski izvještaji svih dioničkih društava te komanditnih društava i društava s ograničenom odgovornošću čiji odvojeni, odnosno konsolidirani ukupan prihod u godini koja prethodi reviziji prelazi 30.000.000,00 kuna ako obvezi revizije godišnjih financijskih izvještaja ne podliježu sukladno odredbama članka 17. stavaka 1. i 2. Zakona o računovodstvu. Godišnjim financijskim izvještajima u smislu ovoga članka smatraju se i financijski izvještaji za razdoblja kraća od godine dana ako takva razdoblja prethode statusnim promjenama, likvidaciji ili stečaju.
+(2) Na obveznike revizije iz stavka 1. ovoga članka primjenjuju se prekršajne odredbe iz članka 32. stavka 1. točke 19. i stavka 2. Zakona o računovodstvu. Na javnu objavu revidiranih odvojenih i konsolidiranih financijskih izvještaja primjenjuju se odredbe članka 20., članka 22. i članka 32. stavka 1. točke 24. i stavka 2. Zakona o računovodstvu.«.
