@@ -1,0 +1,2 @@
+# Članak 7.
+Vojne osobe koje stanuju u vojarnama ili drugim vojnim ustanovama, osobe smještene u objektima posebne namjene ministarstva nadležnog za unutarnje poslove, domovima za starije i nemoćne osobe, učeničkim i studentskim domovima kao i osobe smještene u kaznionicama, zatvorima, maloljetničkim zatvorima i odgojnim ustanovama, domovima za žrtve obiteljskog nasilja i skloništima za žrtve trgovanja ljudima, dužne su prijaviti boravište, a mogu prijaviti i prebivalište na adresama ustanova u kojima su smještene, sukladno pravilima o unutarnjem redu tih ustanova.
