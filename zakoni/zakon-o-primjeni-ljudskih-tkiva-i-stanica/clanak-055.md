@@ -1,0 +1,2 @@
+# Članak 55.
+Zdravstvene ustanove, odnosno laboratoriji kojima je do stupanja na snagu ovoga Zakona dano odobrenje za obavljanje djelatnosti uzimanja, pohranjivanja i presađivanja tkiva iz članka 27.a, odnosno obavljanja imunogenetske obrade i testove za određivanje podudarnosti tkiva primatelja i darivatelja iz članka 27.b Zakona o uzimanju i presađivanju dijelova ljudskog tijela u svrhu liječenja (»Narodne novine«, br. 177/04. i 45/09.) obvezni su uskladiti svoj rad i poslovanje s odredbama ovoga Zakona u roku od godinu dana od dana stupanja na snagu ovoga Zakona
