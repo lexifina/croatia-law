@@ -1,0 +1,2 @@
+# Članak 53.
+Postupke pokrenute nakon stupanja na snagu Zakona o lokalnoj i područnoj (regionalnoj) samoupravi (»Narodne novine«, br. 33/01.) glede preuzimanja nekretnina, pokretnina, financijskih sredstava te prava i obveza bivših općina prema odredbama Zakona o lokalnoj samoupravi i upravi (»Narodne novine«, br. 90/92.), kao i kasnije pokrenute postupke, a koji nisu dovršeni, nastavlja voditi povjerenstvo Vlade Republike Hrvatske.
