@@ -1,0 +1,8 @@
+## Postupak aktivne registracije
+# Članak 32.
+(1) Diplomatsko-konzularno predstavništvo Republike Hrvatske podneseni zahtjev za aktivnu registraciju radi glasovanja u inozemstvu odmah informatičkim putem dostavlja uredu iz članka 6. stavka 2. ovoga Zakona.
+(2) Ured u Republici Hrvatskoj podneseni zahtjev za aktivnu registraciju radi glasovanja u Republici Hrvatskoj odmah informatičkim putem dostavlja uredu iz članka 6. stavka 2. ovoga Zakona.
+(3) Po izvršenoj provjeri i odobrenju ureda iz članka 6. stavka 2. ovoga Zakona, aktivno registrirani birači se informatičkim putem upisuju u popis aktivno registriranih birača po državama i konzularnom području za koja su aktivno registrirani odnosno mjestima aktivne registracije u Republici Hrvatskoj. U evidenciji birača stavlja se bilješka o aktivnoj registraciji upisom države i konzularnog područja odnosno mjesta u Republici Hrvatskoj za koje se birač aktivno registrirao. Promjena podatka iz članka 13. ovoga Zakona navedena u zahtjevu, provodi se u evidenciji birača bez prebivališta u Republici Hrvatskoj.
+(4) Birač može odustati od podnesenog zahtjeva za aktivnu registraciju ili ga može izmijeniti do isteka roka utvrđenog člankom 24. stavkom 1. ovoga Zakona.
+(5) U slučaju da birač odustane od podnesenog zahtjeva za aktivnu registraciju ili svoj zahtjev izmijeni, u evidenciji birača koji nemaju prebivalište u Republici Hrvatskoj briše se bilješka upisana temeljem tog zahtjeva ili se upisuje nova bilješka, odnosno birač se briše iz popisa aktivno registriranih birača.
+(6) Na popis aktivno registriranih birača primjenjuju se odredbe zakona o zaštiti osobnih podataka kojima se reguliraju obveze voditelja zbirke osobnih podataka.

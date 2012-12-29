@@ -1,0 +1,6 @@
+## Glasovanje posebnih kategorija birača
+# Članak 27.
+(1) Za birače koji će se na dan izbora za Hrvatski sabor, predsjednika Republike Hrvatske, državnog referenduma i izbora zastupnika iz Republike Hrvatske za Europski parlament, zateći na službi u Oružanim snagama Republike Hrvatske ili u mirovnim operacijama i misijama, članove posade pomorskih i riječnih brodova pod hrvatskom zastavom izvan njezinih granica, na plutajućim objektima u unutrašnjim morskim vodama i teritorijalnom moru Republike Hrvatske te za birače lišene slobode, zapovjedništva postrojbi Oružanih snaga Republike Hrvatske, trgovačka društva-vlasnici brodova, vlasnici plutajućih objekata, uprave kaznionica, odnosno zatvora i odgojnih zavoda, dužni su dostaviti podatke nadležnom uredu.
+(2) Za birače koji su na dan izbora iz stavka 1 ovog članak smješteni u ustanovama socijalne skrbi, ravnatelji ustanova dužni su na zahtjev birača dostaviti podatke nadležnom uredu.
+(3) Podaci iz stavaka 1. i 2. ovoga članka dostavljaju se odmah po raspisivanju izbora odnosno referenduma, a najkasnije do isteka roka iz članka 24. stavka 1. ovoga Zakona.
+(4) Nadležni ured nakon zaključivanja popisa birača dostavlja izvatke iz popisa birača izbornim povjerenstvima koji ih zajedno s izbornim materijalom dostavlja na odgovarajuća biračka mjesta najkasnije 24 sata prije vremena određenog za njihovo otvaranje.
