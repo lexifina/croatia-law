@@ -1,0 +1,3 @@
+# Članak 6.
+U članku 6. iza stavka 6. dodaje se stavak 7. koji glasi:
+»(7) Posrednik koji je ispunio uvjete iz stavka 1. ovoga članka za obavljanje posredovanja u prometu nekretnina, dužan je jednom godišnje Hrvatskoj gospodarskoj komori dostaviti dokumentaciju iz koje proizlazi da nisu prestali postojati zakonski uvjeti za obavljanje djelatnosti posredovanja u prometu nekretnina (temeljni akt društva, društveni ugovor ili statut, odnosno obrtnica, ugovor o radu s ovlaštenim agentom te ugovor o osiguranju s ovlaštenim osiguravajućim društvom za slučaj odgovornosti za štetu nastalu obavljanjem djelatnosti posrednika).«.
