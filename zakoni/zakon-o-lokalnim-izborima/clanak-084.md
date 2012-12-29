@@ -1,0 +1,7 @@
+## Utvrđivanje rezultata izbora članova predstavničkog tijela
+# Članak 84.
+(1) Pravo na sudjelovanje u diobi mjesta u predstavničkom tijelu jedinice imaju liste koje na izborima dobiju najmanje 5% važećih glasova birača.
+(2) Broj članova predstavničkog tijela jedinice koji će biti izabran sa svake kandidacijske liste utvrđuje se na način da se ukupan broj važećih glasova koje je dobila svaka lista dijeli s brojevima od jedan do, zaključno, broja koliko se članova predstavničkog tijela jedinice bira, pri čemu se uvažavaju i decimalni ostaci. Od svih tako dobivenih rezultata, mjesta u predstavničkom tijelu osvajaju one liste na kojima se iskaže onoliko brojčano najvećih rezultata uključujući decimalne ostatke koliko se članova predstavničkog tijela bira. Svaka od tih lista dobiva onoliki broj mjesta u predstavničkom tijelu koliko je postigla pojedinačnih rezultata među onoliko brojčano najvećih rezultata koliko se članova predstavničkog tijela bira.
+(3) Ako su glasovi tako podijeljeni da se ne može utvrditi koja bi između dviju ili više lista dobila mjesto u predstavničkom tijelu, ono će pripasti onoj listi koja je dobila više glasova.
+(4) Ako su dvije ili više lista dobile isti broj glasova te se ne može utvrditi koja bi lista dobila mjesto u predstavničkom tijelu, ono će pripasti svakoj od tih lista.
+(5) Ako su dvije ili više lista iz stavka 4. ovoga članka ostvarile pravo na mjesto u predstavničkom tijelu, broj članova predstavničkog tijela povećat će se i u tom slučaju broj članova predstavničkog tijela može biti paran.

@@ -1,0 +1,6 @@
+## Mandat
+# Članak 8.
+(1) Mandat članova predstavničkih tijela jedinica izabranih na redovnim izborima počinje danom konstituiranja predstavničkog tijela i traje do stupanja na snagu odluke Vlade Republike Hrvatske o raspisivanju izbora, odnosno do stupanja na snagu odluke Vlade Republike Hrvatske o raspuštanju predstavničkih tijela, sukladno zakonu kojim se uređuje lokalna i područna (regionalna) samouprava.
+(2) Mandat članova predstavničkih tijela jedinica izabranih na prijevremenim izborima počinje danom konstituiranja predstavničkog tijela i traje do isteka tekućeg mandata predstavničkih tijela izabranih na redovnim izborima.
+(3) Mandat općinskog načelnika, gradonačelnika i župana te njihovih zamjenika izabranih na redovnim ili na prijevremenim izborima počinje prvog radnog dana koji slijedi danu objave konačnih rezultata izbora i traje do prvog radnog dana koji slijedi danu objave konačnih rezultata izbora novoga općinskog načelnika, gradonačelnika, odnosno župana.
+(4) Iznimno od stavka 3. ovog članka mandat općinskog načelnika, gradonačelnika i župana te njihovih zamjenika koje je Vlada Republike razriješila istovremeno kada je i raspustila predstavničko tijelo u toj jedinici, traje do stupanja na snagu odluke Vlade Republike Hrvatske o raspuštanju predstavničkog tijela i razrješenju općinskog načelnika, gradonačelnika, odnosno župana.

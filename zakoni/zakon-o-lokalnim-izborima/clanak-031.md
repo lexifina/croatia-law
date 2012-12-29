@@ -1,0 +1,5 @@
+## Zamjena predloženog kandidata radi smrti
+# Članak 31.
+(1) Ako neki od kandidata za općinskog načelnika, gradonačelnika i župana, odnosno njihovog zamjenika, umre u vremenu od dana objave prihvaćene kandidature, politička stranka, odnosno dvije ili više političkih stranaka koje su predložile kandidata i podnositelji kandidature za kandidata grupe birača, mogu umjesto njega predložiti novog kandidata, bez prikupljanja potpisa u postupku kandidiranja propisanim ovim Zakonom, sve do 10 dana prije dana održavanja izbora.
+(2) Pravovaljana predložena nova kandidatura objavljuje se na oglasnoj ploči i internetskim stranicama jedinice u roku od 24 sata od izvršene zamjene kandidata.
+(3) Ako neki od kandidata za općinskog načelnika, gradonačelnika i župana, odnosno njihovog zamjenika umre u vremenu kraćem od 10 dana prije dana održavanja izbora, zamjena kandidata obavit će se po postupku propisanom stavcima 1. i 2. ovoga članka, a nadležno izborno povjerenstvo odredit će pomicanje održavanja izbora za općinskog načelnika, gradonačelnika i župana i njihovih zamjenika te istovremeno pomicanje održavanja izbora za članove predstavničkog tijela te jedinice za 14 dana.

@@ -1,0 +1,2 @@
+# Članak 137.
+Članovi predstavničkog tijela iz reda pripadnika nacionalnih manjina i zamjenik općinskog načelnika, gradonačelnika, odnosno župana iz reda pripadnika nacionalnih manjina u jedinicama u kojima je pravo na zastupljenost pripadnika nacionalnih manjina propisano statutom jedinice neovisno o udjelu pripadnika nacionalnih manjina u ukupnom stanovništvu jedinice, birat će se u onim jedinicama u kojima je to pravo propisano statutom na dan 1. ožujka 2013.

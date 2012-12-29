@@ -1,0 +1,10 @@
+## Sastav biračkih odbora
+# Članak 42.
+(1) Birački odbor čine predsjednik, potpredsjednik i osam članova.
+(2) Četiri člana biračkog odbora određuje većinska politička stranka, odnosno političke stranke, a četiri člana oporbena politička stranka, odnosno političke stranke, sukladno stranačkom sastavu predstavničkog tijela pojedine jedinice.
+(3) Odnos ukupnog broja članova biračkih odbora unutar grupacije stranaka određuje se sukladno omjeru u kojem pojedina stranka sudjeluje u gradskom, odnosno općinskom vijeću, odnosno županijskoj skupštini.
+(4) Kod istovremenog održavanja izbora za predstavničko tijelo jedinice lokalne i jedinice područne (regionalne) samouprave, dva od četiri člana predstavljat će većinske političke stranke, odnosno političke grupacije iz predstavničkog tijela jedinice lokalne samouprave, a preostala dva od četiri člana predstavljat će većinske političke stranke, odnosno političke grupacije iz predstavničkog tijela jedinice područne (regionalne) samouprave. Preostala četiri člana predstavljat će oporbene političke stranke iz predstavničkog tijela jedinice lokalne samouprave i predstavničkog tijela jedinice područne (regionalne) samouprave u skladu s tom podjelom.
+(5) Ako se pojedine grupacije ne mogu dogovoriti o rasporedu svojih predstavnika u biračke odbore, njihov raspored odredit će nadležno izborno povjerenstvo ždrijebom na način da će predstavnike stranaka tako rasporediti da pojedina stranka bude zastupljena u najvećem mogućem broju biračkih odbora s obzirom na ukupni broj svojih predstavnika.
+(6) Političke stranke dužne su odrediti članove biračkih odbora i dostaviti njihova imena nadležnim izbornim povjerenstvima najkasnije 12 dana prije održavanja izbora. Ne odrede li ih, odnosno ako prijedlozi ne prispiju nadležnim izbornim povjerenstvima u zadanom roku, nadležna izborna povjerenstva samostalno će odrediti članove biračkih odbora.
+(7) Svi članovi biračkog odbora imaju ista prava i dužnosti.
+(8) Predsjednik, potpredsjednik i članovi biračkog odbora ne smiju biti kandidati na izborima koje provode, a predsjednik i potpredsjednik biračkog odbora ne smiju biti članovi niti jedne političke stranke.

@@ -1,0 +1,12 @@
+## Sastav izbornih povjerenstava
+# Članak 41.
+(1) Izborno povjerenstvo Grada Zagreba, županijska, gradska i općinska izborna povjerenstva imaju stalni i prošireni sastav.
+(2) Stalni sastav izbornog povjerenstva čine predsjednik, potpredsjednik i četiri člana (u daljnjem tekstu: članovi stalnog sastava).
+(3) Najmanje jedna trećina članova stalnog sastava izbornog povjerenstva mijenja se na svakim sljedećim izborima.
+(4) Prošireni sastav izbornog povjerenstva čine tri predstavnika većinske političke stranke, odnosno političkih stranaka i tri dogovorno predložena predstavnika oporbenih političkih stranaka, a određuju se u roku od 8 dana od stupanja na snagu odluke o raspisivanju izbora.
+(5) Odnos ukupnog broja članova proširenog sastava unutar grupacije stranaka određuje se sukladno omjeru u kojem pojedina stranka sudjeluje u općinskom, odnosno gradskom vijeću, županijskoj skupštini, odnosno Gradskoj skupštini Grada Zagreba.
+(6) Kod istovremenog održavanja izbora za predstavničko tijelo jedinice lokalne i jedinice područne (regionalne) samouprave, dva od tri člana proširenog sastava predstavljat će političke grupacije iz predstavničkog tijela jedinice lokalne samouprave, a jedan od tri člana proširenog sastava predstavljat će političke grupacije iz predstavničkog tijela jedinice područne (regionalne) samouprave. U skladu s tom podjelom ostala tri člana predstavljat će oporbene političke grupacije.
+(7) Ako se pojedine grupacije ne mogu dogovoriti o rasporedu svojih predstavnika u izborna povjerenstva, njihov raspored odredit će nadležno izborno povjerenstvo ždrijebom na način da će predstavnike stranaka tako rasporediti da pojedina stranka bude zastupljena u najvećem mogućem broju povjerenstava s obzirom na ukupni broj svojih predstavnika.
+(8) Potpredsjednik zamjenjuje predsjednika u slučaju njegove odsutnosti ili spriječenosti sa svim ovlastima predsjednika, a svi članovi izbornog povjerenstva imaju jednaka prava i dužnosti.
+(9) Predsjednik, potpredsjednik i članovi županijskih izbornih povjerenstava i Izbornog povjerenstva Grada Zagreba te predsjednik i potpredsjednik općinskih i gradskih izbornih povjerenstava moraju biti magistri pravne struke.
+(10) Predsjednik, potpredsjednik i članovi stalnog sastava izbornih povjerenstava ne smiju biti članovi niti jedne političke stranke, niti kandidati na izborima koje provode. Članovi proširenog sastava izbornih povjerenstava ne smiju biti kandidati na izborima koje provode.

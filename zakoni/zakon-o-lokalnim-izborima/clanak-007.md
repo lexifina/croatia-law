@@ -1,0 +1,9 @@
+## Održavanje izbora
+# Članak 7.
+(1) Redovni izbori za članove predstavničkih tijela jedinica te izbori za općinskog načelnika, gradonačelnika i župana i njihove zamjenike održavaju se istodobno, treće nedjelje u svibnju svake četvrte godine.
+(2) Prijevremeni izbori za članove predstavničkih tijela jedinica kojima je mandat prestao zbog raspuštanja, održavaju se u roku od 90 dana od dana raspuštanja predstavničkog tijela.
+(3) Prijevremeni izbori za općinskog načelnika, gradonačelnika i župana raspisuju su u slučajevima kada je to propisano zakonom koji uređuje sustav lokalne i područne (regionalne) samouprave, a održavaju se u roku od 90 dana od dana prestanka mandata općinskog načelnika, gradonačelnika, odnosno župana.
+(4) Prijevremeni izbori za članove predstavničkog tijela i za općinskog načelnika, gradonačelnika, odnosno župana u slučaju istovremenog raspuštanja predstavničkog tijela i razrješenja općinskog načelnika, gradonačelnika, odnosno župana održavaju se istodobno, u roku od 90 dana od istovremenog raspuštanja predstavničkog tijela i razrješenja općinskog načelnika, gradonačelnika, odnosno župana.
+(5) Prijevremeni izbori za zamjenika općinskog načelnika, gradonačelnika, odnosno župana iz redova pripadnika nacionalnih manjina održavaju se u roku od 90 dana od dana prestanka mandata zamjenika općinskog načelnika, gradonačelnika, odnosno župana iz reda nacionalnih manjina.
+(6) Ako bi se prijevremeni izbori iz stavaka 2., 3., 4. i 5. ovoga članka trebali održati u kalendarskoj godini u kojoj se održavaju redovni izbori, a prije njihovog održavanja, u toj se jedinici prijevremeni izbori neće održati.
+(7) Ako prestane mandat samo zamjeniku općinskog načelnika, gradonačelnika, odnosno župana izabranom zajedno s općinskim načelnikom, gradonačelnikom, odnosno županom, prijevremeni izbori neće se održati.

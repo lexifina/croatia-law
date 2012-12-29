@@ -1,0 +1,12 @@
+## Mirovanje mandata
+# Članak 79.
+(1) Osoba koja obnaša neku od nespojivih dužnosti, osim osoba kojima je ovim Zakonom zabranjeno kandidiranje, može se kandidirati za člana predstavničkog tijela jedinice, a ukoliko bude izabrana za člana predstavničkog tijela, do dana konstituiranja dužna je o obnašanju nespojive dužnosti, odnosno prihvaćanju dužnosti člana predstavničkog tijela obavijestiti upravno tijelo jedinice nadležno za poslove predstavničkog tijela.
+(2) Član predstavničkog tijela koji za vrijeme trajanja mandata prihvati obnašanje nespojive dužnosti dužan je o tome obavijestiti predsjednika predstavničkog tijela u roku od 8 dana od prihvaćanja dužnosti, a mandat mu počinje mirovati protekom toga roka.
+(3) Članu predstavničkog tijela koji ne dostavi obavijest iz stavaka 1. i 2. ovoga članka mandat miruje po sili zakona.
+(4) Po prestanku obnašanja nespojive dužnosti član predstavničkog tijela nastavlja s obnašanjem dužnosti na temelju prestanka mirovanja mandata, ako podnese pisani zahtjev predsjedniku predstavničkog tijela. Pisani zahtjev dužan je podnijeti u roku od 8 dana od prestanka obnašanja nespojive dužnosti, a mirovanje mandata prestat će osmog dana od dana podnošenja pisanog zahtjeva.
+(5) Ako član predstavničkog tijela po prestanku obnašanja nespojive dužnosti ne podnese pisani zahtjev iz stavka 4. ovoga članka, smatrat će se da mu mandat miruje iz osobnih razloga.
+(6) Član predstavničkog tijela ima pravo tijekom trajanja mandata staviti svoj mandat u mirovanje iz osobnih razloga, podnošenjem pisanog zahtjeva predsjedniku predstavničkog tijela.
+(7) Mirovanje mandata na temelju pisanog zahtjeva iz stavka 6. ovoga članka počinje teći od dana dostave pisanog zahtjeva sukladno pravilima o dostavi propisanim Zakonom o općem upravnom postupku, a ne može trajati kraće od šest mjeseci. Član predstavničkog tijela nastavlja s obnašanjem dužnosti na temelju prestanka mirovanja mandata, osmog dana od dostave obavijesti predsjedniku predstavničkog tijela.
+(8) Člana predstavničkog tijela kojem mandat miruje za vrijeme mirovanja mandata zamjenjuje zamjenik, u skladu s odredbama ovoga Zakona.
+(9) Na sjednici predstavničkog tijela umjesto člana predstavničkog tijela koji je stavio mandat u mirovanje ili mu je mandat prestao po sili zakona, pravo sudjelovanja i odlučivanja ima zamjenik tog člana određen sukladno odredbama ovog Zakona.
+(10) Nastavljanje s obnašanjem dužnosti člana predstavničkog tijela na temelju prestanka mirovanja mandata može se tražiti samo jedanput u tijeku trajanja mandata.

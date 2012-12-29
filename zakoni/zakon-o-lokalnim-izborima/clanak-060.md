@@ -1,0 +1,4 @@
+# Članak 60.
+(1) Nakon utvrđivanja prava na glasovanje na biračkom mjestu, član biračkog odbora biraču predaje glasački listić, objašnjava način popunjavanja i upućuje ga na mjesto glasovanja. Član biračkog odbora dužan je voditi računa o tome da se onemogući uvid u serijski broj listića koji se predaje biraču.
+(2) Predsjednik biračkog odbora ili od njega ovlašteni član dužan je biraču pripadniku nacionalne manjine na njegovo traženje predati glasački listić za izbor zamjenika općinskog načelnika, gradonačelnika, odnosno župana iz reda pripadnika nacionalne manjine.
+(3) Birač koji zbog kakve tjelesne mane ili zbog toga što je nepismen ne bi mogao samostalno glasovati, može doći na biračko mjesto s drugom osobom koja je pismena i koja će po njegovoj ovlasti i uputi zaokružiti redni broj ispred naziva kandidacijske liste, odnosno ispred imena kandidata za koje birač glasuje.

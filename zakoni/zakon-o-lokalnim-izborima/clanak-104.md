@@ -1,0 +1,4 @@
+# Članak 104.
+(1) Broj članova predstavničkog tijela iz reda pripadnika pojedine nacionalne manjine (sukladno odredbama Ustavnog zakona o pravima nacionalnih manjina) utvrdit će se tako da se udio pojedine nacionalne manjine u ukupnom stanovništvu te jedinice pomnoži s brojem članova predstavničkog tijela jedinice, a dobiveni broj zaokružuje se na cijeli broj bez decimalnog ostatka.
+(2) Ako manjina koja sudjeluje u ukupnom stanovništvu jedinice s najmanje 5% ne ostvari pravo na zastupljenost u predstavničkom tijelu u skladu sa stavkom 1. ovoga članka, ta manjina ima pravo na jednog člana predstavničkog tijela.
+(3) Prije svakih lokalnih izbora središnje tijelo državne uprave nadležno za poslove opće uprave objavit će na svojim internetskim stranicama podatke o broju članova predstavničkog tijela jedinica koji se biraju iz reda pripadnika pojedine nacionalne manjine.
