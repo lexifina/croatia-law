@@ -1,0 +1,2 @@
+# Članak 1.
+U Odluci o standardima i normativima prava na zdravstvenu zaštitu iz obveznog zdravstvenog osiguranja za slučaj ozljede na radu i profesionalne bolesti s osnovama za sklapanje ugovora (»Narodne novine« broj 1/11., 6/11., 31/1., 78/11., 153/11., 38/12., 61/12. i 118/12.) u članku 23. stavku 2. tekst: »za razdoblje od 1. studenog do 31. prosinca 2012. godine« zamjenjuje se tekstom: »za 2013. godinu«.
