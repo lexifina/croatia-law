@@ -1,0 +1,12 @@
+## Uručenje poštanskih pošiljaka
+# Članak 37.
+(1) Poštanske pošiljke, osim pošiljaka iz stavka 2. ovoga članka, uručuju se osobno primatelju, zakonskom zastupniku ili opunomoćenoj osobi.
+(2) Obične poštanske pošiljke uručuju se, u pravilu, ubacivanjem u kućni kovčežić.
+(3) Davatelj univerzalne usluge, u skladu s pravilnikom iz članka 15. stavka 6. ovoga Zakona, određuje područje na kojem ne obavlja uručenje paketa na adresi primatelja. Na području, na kojem se ne obavlja uručenje paketa na adresi primatelja dostavlja se obavijest o prispijeću pošiljke radi preuzimanja paketa u poslovnim prostorijama davatelja univerzalne usluge.
+(4) Iznimno od odredbe stavka 1. ovoga članka, ako poštansku pošiljku nije moguće uručiti osobama iz stavka 1. ovoga članka, pošiljka se uručuje odraslom članu kućanstva, osobi stalno zaposlenoj u kućanstvu ili poslovnoj prostoriji primatelja, ili ovlaštenoj osobi u poslovnoj prostoriji pravne ili fizičke osobe gdje je primatelj stalno zaposlen.
+(5) Ako uručenje nije moguće u skladu s odredbama stavaka 1. i 4. ovoga članka, primatelju se u kućnom kovčežiću ostavlja obavijest s naznakom roka i mjesta preuzimanja pošiljke. Ako primatelj u navedenom roku ne preuzme pošiljku, davatelj usluga pošiljku vraća pošiljatelju.
+(6) Ako je primatelju ili osobi ovlaštenoj za primitak pošiljke ostavljena obavijest u skladu sa stavcima 3. i 5. ovoga članka, nadnevak ostavljanja obavijesti u tom se slučaju smatra nadnevkom uručenja pošiljke.
+(7) Osobe iz stavaka 1. i 4. ovoga članka mogu odbiti primitak poštanske pošiljke ako posebnim zakonom ili drugim propisom nije drukčije određeno. Davatelj poštanskih usluga pošiljku s naznakom odbijanja primitka i nadnevkom odbijanja primitka pošiljke vraća pošiljatelju.
+(8) Poštanske pošiljke, za koje je ugovoren način uručenja između primatelja pošiljke i davatelja poštanskih usluga, uručuju se na ugovoreni način.
+(9) Ako pošiljku nije moguće uručiti primatelju, niti je vratiti pošiljatelju, davatelj poštanskih usluga obvezan je o takvim pošiljkama voditi evidenciju, pošiljke čuvati godinu dana od dana pokušaja uručenja, te ako se u tom roku ne pronađe pošiljatelj ili pošiljka ne uruči primatelju, povjerenstvo davatelja poštanskih usluga odlučit će o daljnjem postupanju s pošiljkom u skladu s općim uvjetima davatelja poštanskih usluga.
+(10) Uvjeti, način i postupak uručenja poštanskih pošiljaka pobliže se uređuju u općim uvjetima davatelja poštanskih usluga.

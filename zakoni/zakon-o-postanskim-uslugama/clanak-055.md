@@ -1,0 +1,11 @@
+## Rješavanje sporova između korisnika i davatelja poštanskih usluga
+# Članak 55.
+(1) U slučaju spora između korisnika i davatelja poštanskih usluga u vezi s rješavanjem prigovora iz članka 54. ovoga Zakona, korisnik poštanskih usluga može podnijeti zahtjev za rješavanje spora Agenciji u roku od 30 dana od dana dostavljanja pisanog odgovora povjerenstva za pritužbe potrošača iz članka 54. stavka 5. ovoga Zakona. Zastara osporene tražbine ne teče za vrijeme rješavanja spora pred Agencijom.
+(2) Agencija po službenoj dužnosti pazi na svoju stvarnu nadležnost tijekom cijelog postupka rješavanja spora iz stavka 1. ovoga članka. Ako korisnik poštanskih usluga u postupku rješavanja tog spora zbog iste činjenične i pravne osnove podnese tužbu nadležnom sudu, obustavlja se postupak rješavanja spora pred Agencijom.
+(3) Agencija rješava sporove iz stavka 1. ovoga članka na transparentan, objektivan i nediskriminirajući način, na temelju prijedloga Povjerenstva za zaštitu prava korisnika usluga, u skladu s odredbama ovoga Zakona i posebnih propisa.
+(4) Povjerenstvo iz stavka 3. ovoga članka ima svojstvo i zadaće savjetodavnog tijela koje se osniva pri Agenciji prema posebnom zakonu kojim je uređena zaštita potrošača. Način rada Povjerenstva iz stavka 3. ovoga članka pobliže se propisuje pravilnikom koji donosi Vijeće Agencije.
+(5) Davatelj poštanskih usluga obvezan je sudjelovati u postupcima rješavanja sporova iz stavka 1. ovoga članka i u potpunosti surađivati s Agencijom u svrhu rješenja spora, te dostavljati Agenciji sve potrebne podatke, dokumentaciju i očitovanja.
+(6) Nakon zaprimljenog prijedloga Povjerenstva iz stavka 3. ovoga članka Agencija odlukom rješava spor iz stavka 1. ovoga članka na temelju podataka, dokumentacije i očitovanja stranaka u postupku, u pravilu bez provođenja usmene rasprave.
+(7) Agencija donosi odluku o rješenju spora iz stavka 1. ovoga članka u najkraćem mogućem roku, a najkasnije u roku od četiri mjeseca od dana podnošenja zahtjeva za rješavanje tog spora.
+(8) Odluka Agencije o rješenju spora iz stavka 1. ovoga članka mora biti podrobno obrazložena, a objavljuje se u skladu s odredbama zakona kojim je uređeno područje elektroničkih komunikacija.
+(9) Podaci o rješavanju sporova iz stavka 1. ovoga članka u postupcima pred Agencijom sastavni su dio godišnjeg izvješća o radu Agencije.
