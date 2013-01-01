@@ -1,0 +1,8 @@
+# Članak 6.
+U članku 27. iza stavka 6. dodaje se novi stavak 7. koji glasi:
+»(7) Iznimno od stavka 6. ovoga članka dohodak od otuđenja nekretnina i imovinskih prava oporezuje se ako je otuđeno (prodaja, zamjena i drugi prijenos) više od tri nekretnine iste vrste ili više od tri imovinska prava iste vrste u razdoblju od pet godina, osim ako se nekretnine izvlašćuju na temelju posebnog zakona te ako se otuđuju zemljišta čija je pojedinačna površina do 250 m², a ukupno do 1000 m². Ako se otuđuje zgrada s više stanova ili poslovnih prostora ili građevinsko zemljište ili više zemljišnih čestica, jednom nekretninom smatra se svaki stan, poslovni prostor, gradilište ili zemljišna čestica. Dohodak čini razlika između ukupnog iznosa primitka utvrđenog prema tržišnoj vrijednosti nekretnina ili imovinskih prava koji se otuđuju u razdoblju od pet godina i njihove nabavne vrijednosti uvećane za rast proizvođačkih cijena industrijskih proizvoda te za troškove ulaganja za koje porezni obveznik posjeduje vjerodostojne isprave.«.
+U dosadašnjem stavku 7., koji postaje stavak 8., iza riječi: »stavka 5.« dodaju se riječi: »i 7.«.
+U dosadašnjem stavku 8., koji postaje stavak 9., brojke: »5., 6. i 7.« zamjenjuju se brojkama: »5., 6. i 8.«.
+Iza stavka 9. dodaje se novi stavak 10. koji glasi:
+»(10) Ako su nekretnine i imovinska prava iz stavka 7. ovoga članka stečena darovanjem i otuđena u roku od pet godina od dana njihove nabave od strane darovatelja, darovatelju se utvrđuje dohodak od imovine i imovinskih prava na način iz stavka 7. ovoga članka.«.
+Dosadašnji stavci 9. i 10. postaju stavci 11. i 12.
