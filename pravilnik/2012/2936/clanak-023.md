@@ -1,0 +1,4 @@
+## NAKNADA ZA OBAVLJANJE DRUGIH POSLOVA HAKOM-a U PODRUČJU ELEKTRONIČKIH KOMUNIKACIJA
+# Članak 23.
+(1) Naknada za obavljanje drugih poslova HAKOM-a, izražena u postotku od ukupnog godišnjeg bruto prihoda koji su u prethodnoj kalendarskoj godini ostvarili operatori u obavljanju djelatnosti elektroničkih komunikacijskih mreža i usluga na tržištu, iznosi 0,25 % ukupnog godišnjeg bruto prihoda.
+(2) Izvješće o iznosu ukupnog godišnjeg bruto prihoda prethodne kalendarske godine operator je dužan dostaviti HAKOM-u najkasnije do 31. ožujka tekuće godine. U slučaju završetka obavljanja djelatnosti elektroničkih komunikacijskih mreža i usluga, operatori su dužni dostaviti izvješće o iznosu ukupnog godišnjeg bruto prihoda iz tekuće kalendarske godine najkasnije 60 dana nakon završetka obavljanja djelatnosti elektroničkih komunikacijskih mreža i usluga.
