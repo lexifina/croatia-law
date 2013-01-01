@@ -1,0 +1,4 @@
+## Osobna potrošnja u kućanstvu
+# Članak 10.
+(1) Odredbe članka 3. stavka 1., članka 4. stavka 1. i članka 7. stavka 1. ovoga Pravilnika primjenjuju se samo na klanje životinja osim peradi, kunića i zečeva, te s time povezane postupke izvan klaonice koje provodi vlasnik životinja ili osoba pod odgovornošću i nadzorom vlasnika, za osobnu potrošnju u kućanstvu.
+(2) Iznimno od stavka 1. ovoga članka, zahtjevi iz članka 15. stavka 3. ovoga Pravilnika i zahtjevi iz točki 1.8. do 1.11. i iz točke 3.1. Dodatka III. ovoga Pravilnika te, ukoliko se to odnosi na obično omamljivanje, zahtjevi iz točke 3.2. Dodatka III. ovoga Pravilnika, primjenjuju se na klanje životinja osim peradi, zečeva, kunića, svinja, ovaca i koza izvan klaonice koje provodi vlasnik životinja ili osoba pod odgovornošću i nadzorom vlasnika, za osobnu potrošnju u kućanstvu.
