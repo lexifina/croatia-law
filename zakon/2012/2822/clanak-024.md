@@ -1,0 +1,2 @@
+# Članak 24.
+Sve obveze propisane odredbama ovoga Zakona za izdavanje računa (sadržaj računa, broj računa) na odgovarajući način primjenjuju se i kod izdavanja računa za storniranje računa odnosno kod računa u kojima se iskazuje djelomični ili cjeloviti povrat robe ili usluga. Ako se po storniranju računa izvršava povrat plaćenih iznosa u gotovom novcu, moguće je provesti postupak fiskalizacije i po računima s iskazanim negativnim predznakom.

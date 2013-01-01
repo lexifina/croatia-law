@@ -1,0 +1,2 @@
+# Članak 18.
+U slučajevima iz članka 17. stavka 1. ovoga Zakona, jedinstveni identifikator računa te zaštitni kod izdavatelja obveznika fiskalizacije, uz ostale obvezne podatke propisane člankom 9. ovoga Zakona, ispisuju se na računu za promet u gotovini, prilikom ispisa računa iz elektroničkog naplatnog uređaja. Ministar financija propisat će pravilnikom načine generiranja, duljinu i tip zapisa za zaštitni kod izdavatelja računa.

@@ -1,0 +1,3 @@
+# Članak 10.
+(1) Oznaku operatera na naplatnom uređaju, kao oznaku osobe koja je izvršila naplatu iz članka 9. stavka 1. točke 2. ovoga Zakona, obveznik fiskalizacije dužan je povezati s osobnim identifikacijskim brojem te osobe. Osobni identifikacijski broj (OIB) operatera naplatnog uređaja, dostavlja se Ministarstvu financija, Poreznoj upravi kao element računa, kod provedbe postupka fiskalizacije izdavanja računa.
+(2) Iznimno od stavka 1. ovoga članka, kao osobni identifikacijski broj (OIB) operatera može se dostaviti osobni identifikacijski broj (OIB) obveznika fiskalizacije ako se radi o djelatnostima fizičkih osoba, o izdavanju računa putem samonaplatnih uređaja te u ostalim sličnim slučajevima.
