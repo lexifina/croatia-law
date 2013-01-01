@@ -1,0 +1,5 @@
+# Članak 5.
+Naslov iznad članka 39. i članak 39. mijenjaju se i glase:
+»6. SAMOSTALNI SEKTOR ZA REVIZIJU NALAZA I MIŠLJENJA O INVALIDNOSTI
+Članak 39.
+Samostalni sektor za reviziju nalaza i mišljenja o invalidnosti obavlja poslove revizije nalaza i mišljenja o invalidnosti na temelju kojih se stječe pravo prema Zakonu o mirovinskom osiguranju (opća nesposobnost za rad, profesionalna nesposobnost za rad, profesionalna rehabilitacija, opća nesposobnost za rad člana obitelji); revizije nalaza i mišljenja po zahtjevu Ureda za kontrolu Hrvatskog zavoda za mirovinsko osiguranje; nadzora nad tijelima vještačenja Hrvatskog zavoda za mirovinsko osiguranje, ako za to utvrdi potrebu; analize i izvješćivanja o obavljenim nadzorima; ujednačavanja kriterija u tijelima medicinskog vještačenja Hrvatskog zavoda za mirovinsko osiguranje; osiguravanja jedinstvene provedbe zakona i drugih propisa iz svoga djelokruga; davanja prijedloga za izmjenu, dopunu ili donošenje novih propisa koji reguliraju medicinsko vještačenje; međuresorne suradnje s nadležnim tijelima i ustanovama te druge poslove u okviru svoga djelokruga.«.

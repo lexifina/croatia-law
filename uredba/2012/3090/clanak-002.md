@@ -1,0 +1,2 @@
+# Članak 2.
+U članku 17. stavku 1. riječi: »rada vještaka, viših vještaka i stručnog povjerenstva za reviziju,« zamjenjuju se riječima: »rada vještaka i viših vještaka,«, a riječi: »U Upravi se obavljaju i poslovi drugostupanjskog medicinskog vještačenja i nadzora nad prvostupanjskim tijelom Hrvatskog zavoda za mirovinsko osiguranje, ako se za to utvrdi potreba, te se donose rješenja u drugom stupnju.« brišu se.
