@@ -1,0 +1,9 @@
+## Odgovornost zapovjednika
+# Članak 96.
+(1) Vojni zapovjednik ili nadređena civilna osoba ili osoba koja stvarno djeluje kao vojni zapovjednik ili nadređena civilna osoba koja ne spriječi osobu koja se nalazi pod njezinim stvarnim zapovjedništvom i nadzorom ili stvarnom vlašću i nadzorom da počini kazneno djelo iz članka 88. do 91. ovoga Zakona kaznit će se kao da ga je sama počinila. U tom slučaju neće se primijeniti odredba članka 20. stavka 3. ovoga Zakona.
+(2) Vojni zapovjednik ili osoba koja stvarno djeluje kao vojni zapovjednik koja je propustila dužni nadzor nad snagama koje se nalaze pod njezinim stvarnim zapovjedništvom i nadzorom ili stvarnom vlašću i nadzorom ako je morala znati da njezine snage čine ili se spremaju počiniti kazneno djelo iz članka 88. do članka 91. ovoga Zakona i nije poduzela sve nužne i razborite mjere u svojoj moći kako bi ih u tome spriječila,
+kaznit će se kaznom zatvora od tri do petnaest godina.
+(3) Kaznom iz stavka 2. ovoga članka kaznit će se nadređena osoba, kod svih drugih odnosa nadređenosti i podređenosti osim onih iz stavka 2. ovoga članka, koja je propustila dužni nadzor nad podređenima koji se nalaze pod njezinom stvarnom vlašću i nadzorom ako je svjesno zanemarivala obavijesti da oni čine ili se spremaju počiniti kazneno djelo iz članka 88. do članka 91. ovoga Zakona i ako su ta djela u okviru njezinih stvarnih ovlasti i nadzora, a ona nije poduzela sve nužne i razborite mjere u svojoj moći kako bi ih u tome spriječila.
+(4) Ako je dužni nadzor iz stavka 2. i 3. ovoga članka propušten iz nehaja, počinitelj će se kazniti kaznom zatvora od jedne do deset godina.
+(5) Osobe navedene u stavku 1., 2. i 3. ovoga članka koje ne proslijede saznanja o kaznenim djelima iz članka 88. do članka 91. ovoga Zakona nadležnim vlastima u cilju provođenja istrage i kaznenog progona nad neposrednim počiniteljima koji su im podređeni,
+kaznit će se kaznom zatvora od šest mjeseci do pet godina.

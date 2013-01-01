@@ -1,0 +1,22 @@
+# Članak 386.
+Ovaj Zakon sadrži odredbe koje su u skladu sa sljedećim aktima Europske unije:
+1. Direktivom 2008/99/EZ Europskog parlamenta i Vijeća od 28. studenoga 2002. godine o zaštiti okoliša putem kaznenog prava,
+2. Direktivom 2009/52/EZ Europskog parlamenta i Vijeća od 18. lipnja 2009. godine kojom se predviđaju minimalni standardi o sankcijama i mjerama protiv poslodavaca koji zapošljavaju državljane trećih zemalja,
+3. Direktivom 2010/45/EU Europskog parlamenta i Vijeća od 7. srpnja 2010. godine o standardima kvalitete i sigurnosti ljudskih organa za presađivanje,
+4. Direktivom 2005/35/EZ Europskog parlamenta i Vijeća od 7. rujna 2005. godine o onečišćenju s brodova i uvođenju kazni za prekršaje,
+5. Direktivom 2009/123/EZ Europskog parlamenta i Vijeća od 21. listopada 2009. godine o izmjenama i dopunama Direktive 2005/35/EZ o onečišćenju s brodova i uvođenju kazni za prekršaje,
+6. Direktivom 2006/12/EZ Europskog parlamenta i Vijeća od 5. travnja 2006. godine o otpadu,
+7. Seveso II direktivom 96/82/EC, 2003/105/EC o sprječavanju velikih industrijskih nesreća i ublažavanju posljedica ako se one dogode,
+8. Direktivom 2002/90/EZ Europskog parlamenta i Vijeća od 28. studenoga 2002. godine kojom se definira pomaganje neovlaštenog ulaska, tranzita i boravka,
+9. Direktivom 2003/6/EZ Europskog parlamenta i Vijeća od 28. siječnja 2003. godine o nezakonitoj kupoprodaji dionica i manipulaciji tržištem,
+10. Okvirnom odlukom Vijeća 2008/913/PUP od 28. studenoga 2008. godine o suzbijanju određenih oblika i načina izražavanja rasizma i ksenofobije kazneno-pravnim sredstvima,
+11. Okvirnom odlukom Vijeća o oduzimanju predmeta, sredstava i imovine stečene kaznenim djelima od 24. veljače 2005. godine,
+12. Okvirnom odlukom Vijeća Europske unije 2002/629/PUP od 19. srpnja 2002. godine o suzbijanju trgovanja ljudima,
+13. Okvirnom odlukom Vijeća 2001/500/PUP od 26. lipnja 2001. godine o pranju novca, identifikaciji, praćenju, zamrzavanju, prisvajanju i oduzimanju sredstava i prihoda od kriminala,
+14. Okvirnom odlukom Vijeća 2002/946/PUP od 28. studenoga 2002. godine o jačanju kaznenog okvira za prevenciju olakšavanja nezakonitog ulaska, kretanja i boravka,
+15. Okvirnom odlukom Vijeća 2002/475/PUP od 13. lipnja 2002. godine o borbi protiv terorizma,
+16. Okvirnom odlukom Vijeća 2005/212/PUP o oduzimanju predmeta, sredstava i imovine stečene kaznenim djelima od 24. veljače 2005. godine,
+17. Konvencijom od 26. srpnja 1995. godine, koja se donosi na temelju članka K.3 Ugovora o EU, o zaštiti financijskih interesa Europskih zajednica (SL C 316, 27.11.1995, str. 49),
+18. Protokolom od 27. rujna 1996. godine, koji se donosi na temelju članka K.3 Ugovora o EU, uz Konvenciju o zaštiti financijskih interesa Europskih zajednica (SL C 313, 23.10.1996, str. 2),
+19. Drugim Protokolom od 19. lipnja 1997. godine, koji se donosi na temelju članka K.3 Ugovora o EU, uz Konvenciju o zaštiti financijskih interesa Europskih zajednica (SL C 221, 19.7.1997, str. 12),
+20. Konvencijom o provedbi Sporazuma iz Schengena.

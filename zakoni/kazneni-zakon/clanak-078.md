@@ -1,0 +1,8 @@
+## Oduzimanje imovinske koristi od kaznenog djela za koje je nadležan Ured za suzbijanje korupcije i organiziranog kriminaliteta
+# Članak 78.
+(1) Na oduzimanje imovinske koristi od kaznenog djela za koje je nadležan Ured za suzbijanje korupcije i organiziranog kriminaliteta primjenjuju se odredbe članka 77. ovoga Zakona ako ovim člankom nije drugačije propisano.
+(2) Ako počinitelj kaznenog djela iz nadležnosti Ureda za suzbijanje korupcije i organiziranog kriminaliteta ima ili je imao imovinu koja je nerazmjerna njegovim zakonitim prihodima, pretpostavlja se da ta imovina predstavlja imovinsku korist od kaznenog djela, osim ako počinitelj učini vjerojatnim da je njezino podrijetlo zakonito.
+(3) Ako je imovinska korist od kaznenog djela sjedinjena s imovinom stečenom na zakonit način, ukupna imovina bit će predmetom oduzimanja do procijenjene vrijednosti imovinske koristi. Na isti način i u istom omjeru oduzet će se i korist koja je dobivena od imovine u koju je zakonita imovina sjedinjena s imovinskom korišću od kaznenog djela.
+(4) Imovinska korist iz stavka 2. i 3. ovoga članka oduzet će se od člana obitelji bez obzira po kojem pravnom temelju se kod njega nalazi i neovisno o tome živi li u zajedničkom kućanstvu s počiniteljem.
+(5) Imovinska korist iz stavka 2. i 3. ovoga članka oduzet će se i od druge osobe bez obzira po kojem pravnom temelju je stečena ako ta osoba ne učini vjerojatnim da je korist stekla u dobroj vjeri i po razumnoj cijeni.
+(6) Ako osoba protiv koje je pokrenut kazneni postupak umre, imovinska korist ostvarena protupravnom radnjom može se oduzeti od njezinih sljednika u postupku propisanom posebnim zakonom.

@@ -1,0 +1,2 @@
+# Članak 382.
+Vlada Republike Hrvatske pokrenut će postupak usklađivanja s odredbama ovoga Zakona odgovarajućih odredbi Zakona o kaznenom postupku, Zakona o odgovornosti pravnih osoba za kaznena djela, Zakona o sudovima za mladež, Zakona o zaštiti osoba s duševnim smetnjama, Zakona o izvršenju kazne zatvora, Zakona o probaciji te drugih zakona koji sadrže kaznene i druge odredbe relevantne za primjenu ovoga Zakona.

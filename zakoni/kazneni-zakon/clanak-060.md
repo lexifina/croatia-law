@@ -1,0 +1,5 @@
+## Obveze osuđenika i zaštitni nadzor za vrijeme provjeravanja
+# Članak 60.
+(1) Puštanjem na uvjetni otpust za osuđenika počinje vrijeme provjeravanja koje odgovara neizdržanom dijelu kazne zatvora.
+(2) Osuđeniku kojeg se pušta na uvjetni otpust može se odrediti jedna ili više posebnih obveza navedenih u članku 62. ovoga Zakona sukladno uvjetima iz članka 63. ovoga Zakona i zaštitni nadzor sukladno odredbi članka 64. ovoga Zakona.
+(3) Obveze i zaštitni nadzor ne mogu trajati dulje od pet godina, osim ako sud utvrdi da bez daljnjeg provođenja obveza ili zaštitnog nadzora nad osobom koja je osuđena za kaznena djela kojima se ugrožava ili povređuje tjelesni, psihički ili spolni integritet osobe i za koja je propisana kazna zatvora od pet ili više godina, postoji opasnost da će počiniti slično kazneno djelo, kada se obveze ili zaštitni nadzor iz stavka 2. mogu produljiti za jednu do pet godina ili odrediti nove obveze. Obveze ili zaštitni nadzor ne mogu trajati dulje od isteka neizdržanog dijela kazne zatvora na koju je počinitelj osuđen.

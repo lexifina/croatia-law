@@ -1,0 +1,9 @@
+## Obvezno liječenje od ovisnosti
+# Članak 69.
+(1) Sigurnosnu mjeru obveznog liječenja od ovisnosti sud će izreći počinitelju koji je kazneno djelo počinio pod odlučujućim djelovanjem ovisnosti o alkoholu, drogi ili druge vrste ovisnosti ako postoji opasnost da će zbog te ovisnosti u budućnosti počiniti teže kazneno djelo.
+(2) Mjera iz stavka 1. može se izreći uz novčanu kaznu, kaznu zatvora, rad za opće dobro i uvjetnu osudu.
+(3) Mjera iz stavka 1. ovoga članka izrečena uz kaznu zatvora izvršava se u okviru zatvorskog sustava ili u zdravstvenoj ili drugoj specijaliziranoj ustanovi za liječenje ovisnosti izvan zatvorskog sustava pod uvjetima određenim posebnim propisom. Mjera izrečena uz novčanu kaznu, rad za opće dobro i uvjetnu osudu izvršava se u zdravstvenoj ili drugoj specijaliziranoj ustanovi za otklanjanje ovisnosti izvan zatvorskog sustava, a može se, pod uvjetima određenim posebnim propisom, izvršavati i u terapijskoj zajednici ako je takvo odvikavanje dostatno za otklanjanje opasnosti.
+(4) Mjera iz stavka 1. ovoga članka može trajati do prestanka izvršenja kazne zatvora ili rada za opće dobro, proteka roka provjeravanja primjenom uvjetne osude, odnosno do isteka vremena kazne zatvora koja odgovara izrečenoj novčanoj kazni, a najdulje tri godine.
+(5) Sudac izvršenja će obustaviti izvršavanje mjere iz stavka 1. ovoga članka ako su prestali razlozi zbog kojih je izrečena ili ako je njezino dosadašnje i daljnje provođenje bezizgledno.
+(6) Sudac izvršenja mora najmanje svakih šest mjeseci, računajući od dolaska počinitelja na izvršenje mjere iz stavka 1. ovoga članka, preispitati postoje li uvjeti iz stavka 1. ovoga članka za njenim nastavkom i o tome donijeti rješenje. Sudac izvršenja može obustaviti primjenu mjere ili promijeniti način i vrijeme izvršenja mjere.
+(7) Na mjeru obveznog liječenja od ovisnosti primjenjuje se odredba članka 68. stavka 7. ovoga Zakona.

@@ -1,0 +1,4 @@
+## Posebnosti glede pokretanja kaznenog postupka za kaznena djela počinjena na području Republike Hrvatske, njezinom brodu ili zrakoplovu
+# Članak 12.
+(1) Kad je u slučaju primjene kaznenog zakonodavstva Republike Hrvatske prema odredbama članka 10. i članka 11. ovoga Zakona kazneni postupak pravomoćno dovršen u stranoj državi, kazneni postupak u Republici Hrvatskoj pokrenut će se po odobrenju glavnog državnog odvjetnika.
+(2) Kazneni postupak radi primjene kaznenog zakonodavstva Republike Hrvatske prema odredbama članka 10. i članka 11. ovoga Zakona neće se pokrenuti protiv počinitelja kaznenog djela koje je, osim na području Republike Hrvatske, počinjeno i na području države ugovornice Konvencije o provedbi Sporazuma iz Schengena u kojoj je za to djelo kazneni postupak pravomoćno dovršen.

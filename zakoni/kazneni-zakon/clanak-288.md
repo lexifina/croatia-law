@@ -1,0 +1,6 @@
+## Povreda žiga
+# Članak 288.
+(1) Tko protivno propisima o zaštiti žiga u trgovačkom prometu rabi znak koji je istovjetan sa zaštićenim žigom u odnosu na proizvode ili usluge koje su istovjetne s onima za koje je žig registriran ili znak koji je istovjetan ili sličan zaštićenom žigu u odnosu na proizvode ili usluge koji su istovjetni ili slični s onima za koje je žig registriran, ističući znak na proizvodima ili njihovim pakiranjima, nudeći ili stavljajući na tržište ili skladišteći u te svrhe proizvod pod tim znakom ili nudeći ili pružajući usluge pod tim znakom ili uvozeći ili izvozeći proizvode obilježene tim znakom ili rabeći znak na poslovnim proizvodima i u reklamiranju, čime javnost može biti dovedena u zabludu o podrijetlu proizvoda i usluga, i na taj način pribavi znatnu imovinsku korist ili prouzroči znatnu štetu.
+kaznit će se kaznom zatvora do tri godine.
+(2) Za pokušaj kaznenog djela iz stavka 1. ovoga članka počinitelj će se kazniti.
+(3) Predmeti koji su bili namijenjeni ili uporabljeni za počinjenje kaznenog djela iz stavka 1. ovoga članka će se oduzeti, a predmeti koji su nastali počinjenjem kaznenog djela iz stavka 1. ovoga članka će se oduzeti i uništiti, osim ako sud odluči da će se uporabljeni znak učiniti neraspoznatljivim, a predmete koji su nastali počinjenjem djela uporabiti u humanitarne svrhe.

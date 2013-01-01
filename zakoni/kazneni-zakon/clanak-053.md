@@ -1,0 +1,5 @@
+## Izricanje jedinstvene kazne osuđenoj osobi
+# Članak 53.
+(1) Kad se osuđeniku sudi za kazneno djelo počinjeno prije nego što je započeo izdržavati kaznu po prijašnjoj presudi ili za kazneno djelo počinjeno za vrijeme izdržavanja kazne zatvora, kazne dugotrajnog zatvora ili kazne maloljetničkog zatvora, sud će izreći jedinstvenu kaznu za sva kaznena djela primjenom odredbi članka 51. ovoga Zakona, uzimajući prije izrečenu kaznu kao već utvrđenu. Kazna ili dio kazne koju je osuđenik izdržao, ne računajući vrijeme provedeno na uvjetnom otpustu, uračunat će se u izrečenu jedinstvenu kaznu.
+(2) Sud neće postupiti po odredbama stavka 1. ovoga članka kad osuđeniku sudi za kazneno djelo počinjeno tijekom izdržavanja kazne zatvora, kazne dugotrajnog zatvora ili kazne maloljetničkog zatvora, ako se s obzirom na preostali dio ranije kazne primjenom odredbi o stjecaju ne bi mogla postići svrha kažnjavanja.
+(3) Kad osuđenik za vrijeme izdržavanja kazne zatvora ili maloljetničkog zatvora počini kazneno djelo za koje je zakonom propisana kazna do jedne godine zatvora ili blaža kazna, primijenit će se stegovna mjera.

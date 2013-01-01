@@ -1,0 +1,5 @@
+## Zaštitni nadzor po punom izvršenju kazne zatvora
+# Članak 76.
+(1) Ako je počinitelju izrečena kazna zatvora u trajanju od pet ili više godina za namjerno kazneno djelo ili u trajanju od dvije ili više godina za namjerno kazneno djelo s obilježjem nasilja ili za drugo kazneno djelo iz Glave XVI. ili XVII. ovoga Zakona i ako je kazna u potpunosti izdržana, nad njime će se odmah po izlasku iz zatvora započeti provoditi zaštitni nadzor sukladno članku 64. ovoga Zakona i posebne obveze iz članka 62. stavka 2. točke 7. do 13. ako su mu izrečene uz zaštitni nadzor.
+(2) Vrijeme provjeravanja traje jednu godinu. Sud može vrijeme provjeravanja prije njegova isteka na prijedlog službe za probaciju produljiti za još jednu godinu ako bi bez njegova provođenja postojala opasnost od ponovnog počinjenja nekog od kaznenih djela navedenih u stavku 1. ovoga članka.
+(3) Sud može isključiti provođenje zaštitnog nadzora ako ima razloga vjerovati da osoba neće počiniti novo kazneno djelo i bez njegova provođenja.

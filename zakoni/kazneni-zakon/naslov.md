@@ -1,0 +1,1 @@
+# KAZNENI ZAKON

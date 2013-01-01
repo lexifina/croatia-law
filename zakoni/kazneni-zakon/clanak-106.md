@@ -1,0 +1,12 @@
+## Trgovanje ljudima
+# Članak 106.
+(1) Tko uporabom sile ili prijetnje, obmanom, prijevarom, otmicom, zlouporabom ovlasti ili teškog položaja ili odnosa ovisnosti, davanjem ili primanjem novčane naknade ili druge koristi radi dobivanja pristanka osobe koja ima nadzor nad drugom osobom, ili na drugi način vrbuje, preveze, prevede, skriva ili prima osobu ili razmjenjuje ili prenosi nadzor nad osobom radi iskorištavanja njezinog rada putem prisilnog rada ili služenja, uspostavom ropstva ili njemu sličnog odnosa, ili radi njezinog iskorištavanja za prostituciju ili druge oblike spolnog iskorištavanja uključujući i pornografiju ili za sklapanje nedozvoljenog ili prisilnog braka, ili radi uzimanja dijelova njezinog tijela, ili radi njezinog korištenja u oružanim sukobima ili radi činjenja protupravne radnje,
+kaznit će se kaznom zatvora od jedne do deset godina.
+(2) Kaznom iz stavka 1. ovoga članka kaznit će se tko vrbuje, preveze, prevede, skriva ili prima dijete, ili razmjenjuje ili prenosi nadzor nad djetetom radi iskorištavanja njegovog rada putem prisilnog rada ili služenja, uspostavom ropstva ili njemu sličnog odnosa, ili radi njegovog iskorištavanja za prostituciju ili druge oblike spolnog iskorištavanja uključujući i pornografiju ili za sklapanje nedozvoljenog ili prisilnog braka ili za nezakonito posvojenje, ili radi uzimanja dijelova njegovog tijela, ili radi njegovog korištenja u oružanim sukobima.
+(3) Ako je kazneno djelo iz stavka 1. ovoga članka počinjeno prema djetetu, ili je kazneno djelo iz stavka 1. ili 2. ovoga članka počinila službena osoba u obavljanju svoje službe, ili je počinjeno u odnosu na veći broj osoba, ili je svjesno doveden u opasnost život jedne ili više osoba,
+počinitelj će se kazniti kaznom zatvora od tri do petnaest godina.
+(4) Kaznom iz stavka 1. ovoga članka kaznit će se tko znajući da je osoba žrtva trgovanja ljudima koristi njezine usluge koje su rezultat jednog od oblika njezinog iskorištavanja navedenog u stavku 1. i 2. ovoga članka.
+(5) Tko s ciljem omogućavanja počinjenja djela iz stavka 1., 2. i 3. ovoga članka zadrži, oduzme, sakrije, ošteti ili uništi putnu ispravu ili ispravu o dokazivanju identiteta druge osobe,
+kaznit će se kaznom zatvora do tri godine.
+(6) Za pokušaj kaznenog djela iz stavka 5. ovoga članka počinitelj će se kazniti.
+(7) Pristanak na iskorištavanje same osobe na čiju štetu je trgovanje ljudima počinjeno bez utjecaja je na postojanje tog kaznenog djela.

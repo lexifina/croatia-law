@@ -1,0 +1,4 @@
+# Članak 383.
+U skladu s odredbama ovoga Zakona, nadležni ministri donijet će u roku od 30 dana od dana stupanja na snagu ovoga Zakona, sljedeće propise:
+1. ministar nadležan za pravosuđe donijet će propise o postupku izricanja i provođenju uvjetnog otpusta (članak 59. do članak 63.), o izvršenju zaštitnog nadzora (članak 64.), o izvršenju sigurnosnih mjera (članak 65. do članak 76.), o kaznenoj evidenciji i načinu korištenja podataka iz te evidencije (članak 381. stavak 1. točka 1.),
+2. ministar nadležan za zdravstvo donijet će listu terapijskih zajednica licenciranih za provođenje sigurnosne mjere obveznog liječenja od ovisnosti (članak 69.), listu pravnih ili fizičkih osoba licenciranih za provođenje sigurnosne mjere obveznog psihosocijalnog tretmana (članak 70.) i listu tvari zabranjenih u športu (članak 190. i 191.).
