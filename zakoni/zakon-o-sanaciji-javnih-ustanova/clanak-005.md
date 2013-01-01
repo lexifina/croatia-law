@@ -1,0 +1,3 @@
+# Članak 5.
+(1) Ako je ministarstvo, u čijem je djelokrugu djelatnost javne ustanove čija se sanacija predlaže i kojem je prethodno dostavljena odluka iz članka 3. ovoga Zakona, mišljenja da poziv na sanaciju utvrđen u odluci iz članka 3. ovoga Zakona nije opravdan, predlaže Vladi donošenje zaključka kojim se odbija predložena sanacija javne ustanove kojoj je osnivač jedinica lokalne i područne (regionalne) samouprave te drugi osnivači.
+(2) Vlada donosi zaključak kojim se odbija predložena sanacija javne ustanove kojoj je osnivač jedinica lokalne i područne (regionalne) samouprave te drugi osnivači uz obrazloženje razloga odbijanja provođenja predložene sanacije javne ustanove.

@@ -1,0 +1,9 @@
+# Članak 4.
+(1) Ministarstvo u čijoj je nadležnosti javna ustanova čija se sanacija predlaže, Vladi predlaže donošenje odluke o sanaciji javne ustanove kojoj je osnivač Republika Hrvatska.
+(2) Ministarstvo u čijem je djelokrugu djelatnost javne ustanove čija se sanacija predlaže i kojem je prethodno dostavljena odluka iz članka 3. ovoga Zakona, ukoliko je mišljenja da je poziv na sanaciju utvrđen u odluci iz članka 3. ovoga Zakona opravdan, predlaže Vladi donošenje odluke o sanaciji javne ustanove kojoj je osnivač jedinica lokalne i područne (regionalne) samouprave te drugi osnivači.
+(3) Vlada donosi odluku o sanaciji javne ustanove kojoj je osnivač Republika Hrvatska, odnosno odluku o sanaciji javne ustanove kojoj je osnivač jedinica lokalne i područne (regionalne) samouprave te drugi osnivači, koja obvezno sadrži:
+– način provođenja sanacije,
+– odredbu kojom se utvrđuje da stupanjem na snagu odluke o sanaciji i dvije godine nakon dana stupanja na snagu odluke o završetku sanacije prestaju ovlasti tijela upravljanja javnom ustanovom i miruju sva prava osnivača javne ustanove te
+– imenovanje sanacijskog upravitelja i sanacijskog vijeća, njihova prava, obveze i ovlaštenja sukladno posebnom propisu i ovom Zakonu.
+(4) Prilog odluci iz stavka 3. ovoga članka je odluka osnivača iz članka 3. ovoga Zakona, kada je osnivač javne ustanove jedinica lokalne i područne (regionalne) samouprave te drugi osnivači, koja se objavljuje na internetskoj stranici ministarstva u čijem je djelokrugu djelatnost javne ustanove čija će se sanacija provesti.
+(5) Odluka iz stavka 3. ovoga članka objavljuje se u »Narodnim novinama« i dostavlja se predstavničkom tijelu jedinice lokalne i područne (regionalne) samouprave, ministarstvu u čijoj je nadležnosti javna ustanova, odnosno u čijem je djelokrugu djelatnost javne ustanove, sudskom registru i tijelu upravljanja osnivača za ustanove drugih osnivača.
