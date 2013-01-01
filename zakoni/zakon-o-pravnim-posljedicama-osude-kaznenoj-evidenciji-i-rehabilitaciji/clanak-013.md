@@ -1,0 +1,10 @@
+## Dostavljanje posebnog uvjerenja o podacima iz kaznene evidencije
+# Članak 13.
+(1) Posebno uvjerenje sadržava ograničene podatke iz kaznene evidencije koje se izdaje za posebnu svrhu ili kada je to predviđeno posebnim zakonom. Ograničeni podaci su samo oni podaci koji su potrebni za ispunjenje svrhe zbog koje su zatraženi ili koji su predviđeni u posebnom zakonu.
+(2) Ministarstvo će trgovačkim sudovima ovlaštenima za upis u sudski registar dostaviti posebno uvjerenje koje sadrži podatke o izrečenoj sigurnosnoj mjeri zabrane obavljanja određene dužnosti ili djelatnosti osobi osnivača ili osobi ovlaštenoj za zastupanje i predstavljanje subjekta upisa, kada dobije podatak o izvršnosti te sigurnosne mjere.
+(3) Podatke iz stavka 2. ovoga članka u odnosu na obrtnika ili osobu ovlaštenu za zastupanje ili predstavljanje drugih pravnih osoba koje nisu upisane u sudski registar trgovačkih sudova Ministarstvo može posebnim uvjerenjem dostaviti nadležnom tijelu za vođenje registra na njegov zahtjev.
+(4) Sudovima, tijelima javne vlasti i ustanovama u postupcima zaštite prava i interesa djece kao i u postupcima povjeravanja određenih poslova i zadataka u radu s djecom mogu se na obrazloženi zahtjev posebnim uvjerenjem dostaviti podaci iz kaznene evidencije o pravomoćno osuđenim osobama koje su počinitelji:
+– kaznenih djela iz glave XVII. Kaznenog zakona (»Narodne novine«, br. 125/11.),
+– kaznenih djela iz članka 154. stavka 1. točke 2; članka 154. stavka 3., članka 155. stavka 2. i članka 156. stavka 1. Kaznenog zakona (»Narodne novine«, br. 125/11.) kada su počinjena prema žrtvi posebno ranjivoj zbog njezine dobi,
+– kaznenog djela iz članka 106. stavka 2. i 3. Kaznenog zakona (»Narodne novine«, br. 125/11.),
+– kaznenih djela iz članka 175. stavka 2., članka 178. stavka 3., članka 188. stavka 4. i 5., članka 191. stavka 2., članka 192., članka 193. stavka 2., članka 194., članka 195. stavka 1., stavka 4., stavka 5. i stavka 6., članka 196., članka 197., članka 197.a i članka 198. Kaznenog zakona (»Narodne novine«, br. 110/97., 27/98., 50/00., 129/00., 51/01., 11/03., 190/03., 105/04., 84/05., 71/06., 110/07., 152/08. i 57/11.).
