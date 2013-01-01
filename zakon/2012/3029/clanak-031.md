@@ -1,0 +1,5 @@
+## Obveze probacijskog ureda u izvršavanju posebnih obveza
+# Članak 31.
+(1) Probacijski ured izvješćuje nadležnog suca izvršenja o ostvarivanju pojedinačnog programa postupanja izrađenog za posebne obveze izrečene uz uvjetni otpust i rad za opće dobro kojim je zamijenjena kazna zatvora, a prvostupanjski sud kad su posebne obveze izrečene uz uvjetnu osudu ili uz rad za opće dobro u zamjenu za novčanu kaznu, svaka četiri mjeseca ako posebna obveza traje do jedne godine, a svakih šest mjeseci ako posebna obveza traje dulje od jedne godine. Ustanove i druge pravne osobe u kojima osuđenik izvršava posebne obveze obavještavaju probacijski ured o izvršavanju tih obveza.
+(2) Probacijski ured će bez odgode izvijestiti suca izvršenja ili prvostupanjski sud o kršenju posebnih obveza.
+(3) Kad nastupe opravdani razlozi zbog kojih se posebne obveze ne mogu ispuniti u roku, probacijski ured će bez odgode obavijestiti sud o nastupu razloga te predložiti produljenje ili smanjenje roka ili ukidanje posebne obveze ili zamjenu posebne obveze drugom.

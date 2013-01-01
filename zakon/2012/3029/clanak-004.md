@@ -1,0 +1,6 @@
+## Tijela nadležna za izvršavanje probacijskih poslova
+# Članak 4.
+(1) Provođenje probacijskih poslova je u nadležnosti jedinice za probaciju ustrojene u središnjem tijelu državne uprave nadležnom za poslove pravosuđa u čijem sastavu su probacijski uredi. Jedinica za probaciju u izvršavanju probacijskih poslova surađuje s tijelima državne vlasti, znanstvenim i drugim ustanovama, tijelima lokalne zajednice i drugim institucijama ili pravnim osobama te razmjenjuje informacije od važnosti.
+(2) Za poslove probacije mjesno je nadležan probacijski ured prema mjestu prebivališta odnosno boravišta osobe uključene u probaciju. Poslove sudbene vlasti u vezi s provođenjem probacijskih poslova obavlja sudac izvršenja nadležan prema mjestu prebivališta, odnosno boravišta osobe uključene u probaciju.
+(3) Probacijske poslove obavljaju probacijski službenici koji su obrazovani u području socijalne pedagogije, socijalnog rada, psihologije, pravnih znanosti, a iznimno i drugih društvenih i humanističkih znanosti.
+(4) Probacijskim službenicima izdaje se službena iskaznica, čiji se sadržaj i ovlasti za njezino korištenje propisuju Pravilnikom o načinu obavljanja probacijskih poslova koji donosi ministar nadležan za poslove pravosuđa.

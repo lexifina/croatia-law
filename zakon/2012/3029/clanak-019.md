@@ -1,0 +1,6 @@
+## Obveze probacijskog ureda u izvršavanju zaštitnog nadzora
+# Članak 19.
+(1) Probacijski ured izvješćuje nadležnog suca izvršenja kod izrečenog zaštitnog nadzora uz uvjetni otpust i uz rad za opće dobro u zamjenu za kaznu zatvora, a prvostupanjski sud kod izrečenog zaštitnog nadzora uz uvjetnu osudu ili uz rad za opće dobro u zamjenu za novčanu kaznu, o ostvarivanju pojedinačnog programa postupanja svaka četiri mjeseca ako se zaštitni nadzor ima provoditi do jedne godine, a svakih šest mjeseci ako se zaštitni nadzor ima provoditi više od jedne godine.
+(2) Probacijski ured će bez odgode izvijestiti nadležni sud iz stavka 1. ovoga članka o neispunjavanju obveza utvrđenih pojedinačnim programom postupanja i predložiti preispitivanje izvršavanja zaštitnog nadzora.
+(3) Kad sud iz stavka 1. ovoga članka primi izvješće o provođenju pojedinačnog programa postupanja kojim probacijski ured predlaže preispitivanje zaštitnog nadzora, pokrenut će postupak preispitivanja najkasnije u roku od sedam dana od dana primitka izvješća.
+(4) Izvješće sadrži opis ponašanja osobe uključene u probaciju, opis tretmanskih postupaka i njihov utjecaj na tu osobu te kada probacijski ured ocijeni potrebnim, prijedlog promjene, produljenja ili prestanka provođenja zaštitnog nadzora prije isteka roka.
