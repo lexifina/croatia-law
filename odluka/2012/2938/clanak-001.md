@@ -1,0 +1,55 @@
+## Proglašavam Državni proračun Republike Hrvatske za 2013. godinu i projekcije za 2014. i 2015. godinu, koji je Hrvatski sabor donio na sjednici 4. prosinca 2012. godine.
+## Klasa: 011-01/12-01/160
+## Urbroj: 71-05-03/1-12-2
+## Zagreb, 10. prosinca 2012.
+## Predsjednik
+## Republike Hrvatske
+## Ivo Josipović, v. r.
+## DRŽAVNI PRORAČUN REPUBLIKE HRVATSKE ZA 2013. GODINU I PROJEKCIJE ZA 2014. I 2015. GODINU
+## I. OPĆI DIO
+# Članak 1.
+Državni proračun Republike Hrvatske za 2013. godinu (dalje u tekstu: Proračun) i projekcije za 2014. i 2015. godinu, obuhvaćaju:
+A. RAČUN PRIHODA I RASHODA
+Proračun za 2013.
+Projekcija proračuna za 2014.
+Projekcija proračuna za 2015.
+PRIHODI POSLOVANJA
+113.363.708.045
+118.041.124.975
+123.543.636.390
+PRIHODI OD PRODAJE NEFINANCIJSKE IMOVINE
+289.758.148
+266.520.000
+278.522.000
+RASHODI POSLOVANJA
+122.625.367.263
+126.496.678.348
+131.767.379.127
+RASHODI ZA NABAVU NEFINANCIJSKE IMOVINE
+1.895.110.548
+1.944.234.633
+1.730.679.441
+RAZLIKA - VIŠAK/MANJAK
+-10.867.011.618
+-10.133.268.006
+-9.675.900.178
+B. RAČUN FINANCIRANJA
+Proračun za 2013.
+Projekcija proračuna za 2014.
+Projekcija proračuna za 2015.
+PRIMICI OD FINANCIJSKE IMOVINE I ZADUŽIVANJA
+29.744.151.480
+28.830.061.439
+28.291.718.337
+IZDACI ZA FINANCIJSKU IMOVINU I OTPLATE ZAJMOVA
+18.877.139.862
+18.696.793.433
+18.615.818.159
+NETO FINANCIRANJE
+10.867.011.618
+10.133.268.006
+9.675.900.178
+VIŠAK / MANJAK + NETO FINANCIRANJE
+0
+0
+0
