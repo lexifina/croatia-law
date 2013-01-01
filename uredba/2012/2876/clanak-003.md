@@ -1,0 +1,3 @@
+# Članak 3.
+Pri obračunu i naplati carine na robu koja se uvozi u Republiku Hrvatsku primjenjuju se stope carina, utvrđene u stupcu »Osnovna stopa carine« u Carinskoj tarifi.
+Pri obračunu i naplati carine na robu podrijetlom iz zemalja s kojima je Republika Hrvatska sklopila ugovor o povlaštenom trgovinskom režimu primjenjuju se stope carina utvrđene u stupcu »Snižene stope carine pri uvozu roba podrijetlom iz zemalja s kojima je Republika Hrvatska sklopila ugovor o povlaštenom trgovinskom režimu«, podstupac koji se odnosi na odgovarajuću zemlju sukladno ugovoru kojim se utvrđuje povlašteni režim.
