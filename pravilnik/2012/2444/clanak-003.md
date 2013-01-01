@@ -1,0 +1,2 @@
+# Članak 3.
+Svrha ocjenjivanja je usmjeravanje policijskih službenika na kvalitetno i učinkovito obavljanje službenih zadaća sukladno propisima i pravilima struke, poticanje na osobno ponašanje u skladu s odredbama Etičkog kodeksa policijskih službenika te utvrđivanje njihovog doprinosa u obavljanju poslova kao kriterija za donošenje odluke o njihovom napredovanju, nagrađivanju, školovanju, upućivanju na rad u inozemstvo i donošenju drugih odluka o njihovom radnopravnom statusu.
