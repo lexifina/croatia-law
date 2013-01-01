@@ -1,0 +1,2 @@
+# Članak 1.
+U Pravilniku o obračunu i naplati naknade za korištenje voda (»Narodne novine«, broj 84/2010) u članku 3. stavku 1. riječi: »N0 = visina naknade za korištenje voda prema članku 2., odnosno članku 9. stavku 3. Uredbe o visini naknade za korištenje voda (»Narodne novine«, broj 82/10, u daljnjem tekstu: Uredba)« zamjenjuju se riječima: »N0 = visina naknade za korištenje voda prema članku 2., odnosno članku 9. Uredbe o visini naknade za korištenje voda (»Narodne novine«, broj 82/2010 i 83/2012, u daljnjem tekstu: Uredba)«.
