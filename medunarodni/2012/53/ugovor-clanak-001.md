@@ -1,0 +1,18 @@
+# Članak 1.
+U svrhe ovoga Sporazuma, sljedeći izrazi znače:
+1) »Međunarodno trgovanje ljudima« znači neposredno ili posredno promicanje, pogodovanje ili olakšavanje nezakonitog prometa ili nezakonite imigracije ljudi, osobito svakim namjernim činom koji ima za cilj:
+a) omogućiti ulazak na državno područje stranaka, tranzit, boravak ili izlazak iz njihovog državnog područja, uz uporabu prisile, osobito nasilja ili prijetnji, ili prijevarom, zlouporabom ovlasti ili drugim oblicima pritiska tako da osoba nema drugog stvarnog i prihvatljivog izbora osim pokoriti se tim pritiscima;
+b) bilo koji oblik iskorištavanja osobe, uzimajući u potpunosti u obzir uvjete navedene u točki a) pod kojima je dotična osoba ušla, ili je u tranzitu, ili prebiva na državnom području jedne od stranaka;
+2) »Spolno izrabljivanje djece« znači kaznena djela opisana u članku 34. Konvencije Ujedinjenih naroda o pravima djeteta od 20. studenoga 1989., uključujući proizvodnju, prodaju, raspačavanje ili druge oblike trgovine materijalima pornografskog sadržaja s djecom te posjedovanje te vrste materijala u osobne svrhe;
+3) »Tehnička pomoć« znači logističku pomoć ponuđenu policijskim i migracijskim službama;
+4) »Kazneno djelo u svezi s nuklearnim i radioaktivnim tvarima« znači kaznena djela navedena u članku 7. stavku 1. Konvencije Ujedinjenih naroda o fizičkoj zaštiti nuklearnog materijala od 26. listopada 1979.;
+5) »Pranje novca« znači kaznena djela navedena u članku 6. stavcima 1. do 3. Konvencije Vijeća Europe o pranju, traganju, privremenom oduzimanju i oduzimanju prihoda stečenoga kaznenim djelom od 8. studenoga 1990.;
+6) »Organizirani kriminal« znači svako kazneno djelo koje počini »zločinačka organizacija«, kao što je utvrđeno u članku 2. Konvencije Ujedinjenih naroda protiv transnacionalnoga organiziranog kriminaliteta od 15. studenoga 2000. i njezinim Protokolima;
+7) »Osobni podaci« znače sve informacije koje se odnose na identificiranu fizičku osobu ili fizičku osobu koja se može identificirati (ispitanik); osoba koja se može identificirati je osoba čiji se identitet može utvrditi izravno ili neizravno, posebno na osnovi jednog ili više obilježja specifičnih za njezin fizički, psihološki, mentalni, gospodarski, kulturni ili socijalni identitet;
+8) »Obrada osobnih podataka« znači svaku radnju ili skup radnji izvršenih na osobnim podacima, bilo automatskim sredstvima ili ne, kao što je prikupljanje, snimanje, organiziranje, spremanje, prilagodba ili izmjena, povlačenje, uvid, korištenje, otkrivanje putem prijenosa, objavljivanja ili na drugi način učinjenih dostupnima, svrstavanje ili kombiniranje, blokiranje, brisanje ili uništavanje, te provedba logičkih, matematičkih i drugih operacija s tim podacima;
+9) »Opojne droge« znače svaku prirodnu ili sintetičku tvar navedenu u Popisima I. i II Jedinstvene konvencije Ujedinjenih naroda o opojnim drogama od 30. ožujka 1961.;
+10) »Psihotropne tvari« znače svaku prirodnu ili sintetičku tvar ili svaki prirodni materijal naveden u Popisima I., II., III. ili IV. Konvencije Ujedinjenih naroda o psihotropskim supstancama od 21. veljače 1971.;
+11) »Nedopušteni promet opojnim drogama ili psihotropnim tvarima« znači proizvodnju i izradu, ili promet droga ili psihotropnih tvari suprotan odredbama Jedinstvene konvencije Ujedinjenih naroda o opojnim drogama od 30. ožujka 1961., Konvencije Ujedinjenih naroda o psihotropskim supstancama od 21. veljače 1971. ili Konvencije Ujedinjenih naroda protiv nedozvoljenog prometa drogama i psihotropskim supstancama od 20. prosinca 1988.;
+12) »Hitan zahtjev« znači zahtjev koji se podnosi u hitnim slučajevima kada bi formalni upravni postupak s nadležnim tijelima mogao spriječiti ili ugroziti prevenciju ili istragu.
+II. POGLAVLJE
+PODRUČJA SURADNJE
