@@ -1,0 +1,3 @@
+# Članak 28.
+(1) U slučaju novootkrivenih vojnih groblja, groblja žrtava rata i groblja žrtava poslijeratnog razdoblja, jedinice lokalne samouprave i Grad Zagreb dužni su surađivati s Ministarstvom pri usklađivanju uređenja vojnih groblja, groblja žrtava rata i groblja poslijeratnog razdoblja s prostornim planovima.
+(2) Ministarstvo će u suradnji s ministarstvom nadležnim za kulturu odrediti vojna groblja, mjesta stradanja, groblja i grobove žrtva rata i poslijeratnog razdoblja, koja u cjelini ili dijelom imaju iznimnu kulturno-povijesnu vrijednost, a pri čijem se uređenju i održavanju primjenjuju posebni propisi.

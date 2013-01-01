@@ -1,0 +1,4 @@
+# Članak 27.
+(1) Jedinice lokalne samouprave i Grad Zagreb, na čijem se području nalaze vojna groblja, groblja žrtava rata i groblja žrtava poslijeratnog razdoblja, dužni su o ovim grobljima voditi evidencije.
+(2) U roku od 90 dana od stupanja na snagu Pravilnika iz članka 25. ovoga Zakona jedinice lokalne samouprave i Grad Zagreb dužne su dostaviti Ministarstvu podatke o grobljima i grobovima, spomenicima-kosturnicama, nadgrobnim spomenicima i drugim nadgrobnim spomen-obilježjima žrtava rata i žrtava poslijeratnog razdoblja koji se nalaze na njihovom području.
+(3) Ako nadležna tijela iz stavka 2. ovoga članka raspolažu saznanjima kojima bi se dopunile, odnosno mijenjale postojeće evidencije, dužne su evidencije dopuniti ili izmijeniti sukladno odredbama propisanima Pravilnikom iz članka 25. ovoga Zakona te o takvoj dopuni, odnosno izmjeni odmah izvijestiti Ministarstvo.

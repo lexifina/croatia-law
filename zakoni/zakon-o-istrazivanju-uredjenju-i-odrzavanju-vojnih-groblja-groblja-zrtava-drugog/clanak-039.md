@@ -1,0 +1,2 @@
+# Članak 39.
+Novčana sredstva zatečena u Fondu za obilježavanje i održavanje groblja i grobova pripadnika stranih oružanih sila na području Republike Hrvatske iz članka 7. Zakona o obilježavanju i održavanju groblja i grobova poginulih i umrlih interniraca, pripadnika stranih oružanih sila, političkih i ratnih zarobljenika na području Republike Hrvatske u I. i II. svjetskom ratu (»Narodne novine«, br. 91/92.), na dan stupanja na snagu ovoga Zakona, prenose se u državni proračun Republike Hrvatske.

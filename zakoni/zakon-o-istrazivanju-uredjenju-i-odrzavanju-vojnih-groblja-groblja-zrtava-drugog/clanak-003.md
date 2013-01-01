@@ -1,0 +1,3 @@
+# Članak 3.
+Izvršenje obveze istraživanja i uređenja grobova žrtava poslijeratnog razdoblja i vođenja evidencija o pronađenim mjestima i broju žrtava u njima te postupanja s pronađenim posmrtnim ostacima žrtava Drugog svjetskog rata i žrtava poslijeratnog razdoblja i njihovog dostojnog zbrinjavanja, te dostojnoga trajnog održavanja vojnih groblja, groblja žrtava Drugog svjetskog rata i žrtava poslijeratnog razdoblja, sukladno odredbama ovoga Zakona, preuzima Republika Hrvatska.
+II. NADLEŽNOST MINISTARSTVA I TIJELA JEDINICA LOKALNE SAMOUPRAVE I GRADA ZAGREBA, POSTUPANJE S PRONAĐENIM GROBOVIMA I POSMRTNIM OSTACIMA, UREĐENJE GROBLJA I GROBOVA TE NJIHOVO ODRŽAVANJE

@@ -1,0 +1,2 @@
+# Članak 25.
+Jedinice lokalne samouprave i Grad Zagreb na čijem se području nalaze vojna groblja, groblja civilnih žrtava rata i groblja žrtava poslijeratnog razdoblja, uključujući groblja i grobove pripadnika stranih oružanih sila, dužne su ih održavati pod uvjetima i na način propisan Pravilnikom o načinu i sadržaju vođenja evidencije te načinu obilježavanja i održavanja vojnih groblja i groblja civilnih žrtava rata i poslijeratnog razdoblja koji donosi ministar.
