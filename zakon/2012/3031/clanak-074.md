@@ -1,0 +1,2 @@
+# Članak 74.
+U članku 444. u zadnjoj rečenici, iza riječi: »kazne« stavlja se zarez, a riječi: »te izricanje sudske opomene ili uvjetne osude i drugih kaznenopravnih sankcija« zamjenjuju se riječima: »sudsku opomenu, uvjetnu osudu, djelomičnu uvjetnu osudu, zamjenu radom za opće dobro na slobodi, posebne obveze, zaštitni nadzor, sigurnosnu mjeru, oduzimanje imovinske koristi te oduzimanje predmeta.«.

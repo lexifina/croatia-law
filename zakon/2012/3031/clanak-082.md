@@ -1,0 +1,4 @@
+# Članak 82.
+U članku 471. stavak 1. mijenja se i glasi:
+»(1) Presuda se može pobijati zbog odluke o kazni, sudskoj opomeni, uvjetnoj osudi, djelomičnoj uvjetnoj osudi, zamjeni radom za opće dobro na slobodi, posebnim obvezama ili zaštitnom nadzoru kad tom odlukom nije prekoračena zakonska ovlast (članak 469. točka 5.), ali sud nije pravilno odmjerio kaznu s obzirom na okolnosti koje utječu na to da kazna bude veća ili manja i zbog toga što je sud primijenio ili nije primijenio odredbe o ublažavanju kazne, o oslobođenju od kazne, o djelomičnoj uvjetnoj osudi, o uvjetnoj osudi ili sudskoj opomeni, zamjeni radom za opće dobro na slobodi, posebnim obvezama ili zaštitnom nadzoru, iako su za to postojali zakonski uvjeti.«.
+U stavku 2. iza riječi: »koristi«, na oba mjesta, dodaju se riječi: »ili predmeta«.

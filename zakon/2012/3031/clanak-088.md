@@ -1,0 +1,3 @@
+# Članak 88.
+U članku 508. stavak 1. mijenja se i glasi:
+»(1) Za novi postupak koji se vodi na temelju rješenja kojim je dopuštena obnova kaznenog postupka važe iste materijalnopravne odredbe kao i za prvi postupak, osim odredaba o zastari. Iznimno, odredbe o zastari se u novom postupku primjenjuju ako je obnova dopuštena iz osnove članka 503. stavka 1. ovoga Zakona osim ako je pravomoćna odbijajuća presuda bila donesena zbog odustanka tužitelja od optužbe na raspravi, ako je do odustajanja došlo zbog kaznenog djela prisile prema pravosudnom dužnosniku počinjenog od strane ili uz sudjelovanje osuđenika. U novom postupku sud nije vezan za rješenja donesena u prijašnjem postupku.«.

@@ -1,0 +1,5 @@
+# Članak 109.
+U članku 551. iza stavka 2. dodaju se stavci 3., 4. i 5. koji glase:
+»(3) Istražni zatvor iz stavka 1. može se zamijeniti mjerom opreza liječenja na slobodi ako sud, nakon provedenog vještačenja, utvrdi da je za otklanjanje okrivljenikove opasnosti iz stavka 1. ovog članka dostatno njegovo liječenje na slobodi. U rješenju kojim nalaže liječenje na slobodi, sud će odrediti psihijatrijsku ustanovu koja će provoditi liječenje i obvezu obavještavanja suda o tijeku liječenja okrivljenika u roku koji ne može biti dulji od dva mjeseca.
+(4) Mjera opreza iz stavka 3. može trajati dok za to postoje zakonski uvjeti, a najdulje do pravomoćnosti presude, s time da njezino trajanje nije ograničeno rokovima trajanja istražnog zatvora. Svaka dva mjeseca sud će ispitati po službenoj dužnosti postoji li još potreba za mjerom opreza te je rješenjem produljiti ili ukinuti ako za njezinu primjenu više nema zakonskih uvjeta.
+(5) Protiv rješenja suda kojim se određuje, produljuje ili ukida mjera opreza liječenja na slobodi stranke mogu izjaviti žalbu koja ne zadržava izvršenje mjere.«.

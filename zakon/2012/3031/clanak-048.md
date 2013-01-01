@@ -1,0 +1,3 @@
+# Članak 48.
+U članku 263. stavku 4. točka 1. mijenja se i glasi:
+»1) ako nisu uključeni u počinjenje sljedećih kaznenih djela: povrede tajnosti, cjelovitosti i dostupnosti računalnih podataka, programa ili sustava (članak 223.), računalnog krivotvorenja (članak 223.a) i računalne prijevare (članak 224.a) iz Kaznenog zakona (»Narodne novine«, br. 110/97., 27/98., 50/00., 129/00., 51/01., 111/03., 190/03., 105/04., 84/05., 71/06., 110/07., 152/08., 57/11. i 77/11.) odnosno ako nisu uključeni u počinjenje kaznenih djela protiv računalnih sustava, programa i podataka (Glava XXV.) iz Kaznenog zakona,«.

@@ -1,0 +1,7 @@
+# Članak 2.
+U članku 19.b stavak 2. mijenja se i glasi:
+»(2) Za kaznena djela za koja je propisana kao glavna kazna novčana kazna ili kazna zatvora do osam godina sudi sudac općinskog suda kao sudac pojedinac, osim za kaznena djela:
+a) čedomorstva (članak 93.), usmrćenja na zahtjev (članak 94.), prouzročenja smrti iz nehaja (članak 95.), sudjelovanja u samoubojstvu (članak 96. stavak 2.), spolnog odnošaja s nemoćnom osobom (članak 189. stavak 1.), prisile na spolni odnošaj (članak 190.), spolnog odnošaja zlouporabom položaja (članak 191. stavak 2.), iskorištavanja djece ili maloljetnih osoba za pornografiju (članak 196. stavak 1.), teškog kaznenog djela protiv zdravlja ljudi (članak 249. stavak 4.) i izazivanja prometne nesreće (članak 272. stavak 4.) iz Kaznenog zakona (»Narodne novine«, br. 110/97., 27/98., 50/00., 129/00., 51/01., 111/03., 190/03., 105/04., 84/05., 71/06., 110/07., 152/08., 57/11. i 77/11.),
+b) usmrćenja (članak 112. stavak 2. i 3.), prouzročenja smrti iz nehaja (članak 113.), sudjelovanja u samoubojstvu (članak 114. stavak 2.), spolnog odnošaja bez pristanka (članak 152.), teških kaznenih djela protiv zdravlja ljudi (članak 192. stavak 6.), izazivanja prometne nesreće u cestovnom prometu (članak 227. stavak 6.), teških kaznenih djela protiv okoliša (članak 214. stavak 4.), teških kaznenih djela protiv opće sigurnosti (članak 222. stavak 4.) iz Kaznenog zakona,
+c) za kaznena djela za koja je sastav suda propisan posebnim zakonima.«.
+U stavku 3., u prvoj rečenici, iza riječi: »propisan« dodaje se riječ: »posebnim«.
