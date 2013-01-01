@@ -1,0 +1,1 @@
+Na osnovi članka 37. stavka 2. Zakona o strancima (»Narodne novine«, broj 130/2011) i članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, broj 150/2011), Vlada Republike Hrvatske je na sjednici održanoj 20. prosinca 2012. godine donijela
