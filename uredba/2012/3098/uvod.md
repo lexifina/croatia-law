@@ -1,0 +1,1 @@
+Na temelju članka 8. stavka 1. i članka 20. Zakona o trgovini (»Narodne novine«, br. 87/2008, 116/2008, 76/2009 i 114/2011), Vlada Republike Hrvatske je na sjednici održanoj 20. prosinca 2012. godine donijela
