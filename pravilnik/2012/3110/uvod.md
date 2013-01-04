@@ -1,0 +1,1 @@
+Na temelju članka 40. stavka 7. Zakona o obveznim i dobrovoljnim mirovinskim fondovima (»Narodne novine«, br. 49/99, 63/00, 103/03, 177/04, 71/07, 124/10 i 114/11), Upravno vijeće Hrvatske agencije za nadzor financijskih usluga (dalje: Agencija) na sjednici održanoj 20. prosinca 2012. godine donijelo je
