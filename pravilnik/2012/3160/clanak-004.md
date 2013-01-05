@@ -1,0 +1,2 @@
+# Članak 4.
+Ako su ispunjeni svi uvjeti iz članka 3. ovoga Pravilnika u postupku izdavanja rješenja o nastavku rada zdravstvenog radnika u privatnoj praksi u slučaju prestanka koncesije, ne provodi se postupak utvrđivanja uvjeta u pogledu prostora, radnika i medicinsko- tehničke opreme sukladno Pravilniku o minimalnim uvjetima u pogledu prostora, radnika i medicinsko-tehničke opreme za obavljanje zdravstvene djelatnosti.
