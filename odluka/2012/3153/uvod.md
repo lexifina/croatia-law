@@ -1,0 +1,1 @@
+Na temelju članka 8. stavka 4. Zakona o procjeni učinaka propisa (»Narodne novine«, broj 90/2011) i članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, broj 150/2011), Vlada Republike Hrvatske je na sjednici održanoj 20. prosinca 2012. godine donijela
