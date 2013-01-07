@@ -1,0 +1,6 @@
+## Odlučivanje u postupku čija vrijednost predmeta prelazi ukupni iznos od 10.000.000,00 kuna
+# Članak 11.
+(1) Nakon što je nad dužnikom otvoren postupak predstečajne nagodbe čija vrijednost predmeta prelazi ukupni iznos od 10.000.000,00 kuna, pisani prijedlog o predloženom planu financijskog restrukturiranja dužnika donijet će Savjetodavno vijeće Ministarstva financija.
+(2) U postupku obrade predmeta Savjetodavno vijeće Ministarstva financija vodit će zapisnik, a prilikom davanja prijedloga posebno će se uzeti u obzir održivost plana financijskog restrukturiranja dužnika, vrsta djelatnosti i broj zaposlenih, kontinuitet plaćanja poreznih obveza te eventualno poduzete pravne radnje dužnika na štetu vjerovnika.
+(3) O pravima iz porezno-dužničkog odnosa odlučuje ministar financija na prijedlog Savjetodavnog vijeća Ministarstva financija.
+(4) Na temelju odluke iz stavka 3. ovoga članka ministar financija donijet će rješenje o obveznom glasovanju i imenovati službenika poreznog tijela koji će sudjelovati u postupku predstečajne nagodbe pred Financijskom agencijom, glasovati o predloženom planu financijskog restrukturiranja u skladu s danim rješenjem, te potpisati nagodbu pred nadležnim trgovačkim sudom.
