@@ -1,0 +1,9 @@
+## II. UZGOJ BILJA
+## Gospodarenje tlom i gnojidba
+# Članak 4.
+(1) Kada hranidbene potrebe bilja nije moguće zadovoljiti mjerama iz članka 13. stavka 1. točke a), b) i c) Zakona, u ekološkom uzgoju se u potrebnom obimu mogu koristiti samo gnojiva i poboljšivači tla iz Priloga I. ovoga Pravilnika. Subjekti moraju imati dokumentirane dokaze o potrebi korištenja proizvoda.
+(2) Ukupna količina stajskog gnoja, sukladno Zakonu o gnojivima i poboljšivačima tla (»Narodne novine« br. 163/03. i 40/07.), koji se koristi na poljoprivrednom gospodarstvu ne može prelaziti 170 kg dušika godišnje po hektaru korištene poljoprivredne površine. Ovo ograničenje vrijedi za stajski gnoj, osušeni stajski gnoj i dehidrirani gnoj peradi, kompostiran životinjski izmet, uključujući gnoj peradi, kompostiran stajski gnoj i tekuće životinjske izmete.
+(3) Gospodarstva s ekološkim uzgojem mogu sklopiti ugovore o suradnji u pisanom obliku isključivo s drugim gospodarstvom i subjektom koji udovoljavaju pravilima ekološkog uzgoja, s ciljem raspodjele suvišnog gnoja iz ekološkog uzgoja. Najviša dopuštena granica iz stavka 2. ovoga članka se izračunava temeljem svih proizvodnih jedinica ekološkog uzgoja obuhvaćenih takvom suradnjom.
+(4) Dozvoljeno je korištenje odgovarajućih pripravaka mikroorganizama za poboljšanje cjelokupnog stanja tla ili raspoloživosti hranjivih tvari u tlu ili u usjevima.
+(5) Za aktiviranje komposta se mogu koristiti odgovarajući pripravci na bazi bilja ili pripravci mikroorganizama.
+(6) Plodored se treba raznoliko i usklađeno sastaviti radi dugoročnog održavanja plodnosti i nezakorovljenosti tla u kojem se izmjenjuju kulture s različitom dubinom zakorjenjivanja te različitim potrebama za pojedinim hranjivima i vodom. Plodored treba sadržavati mahunarke ili djetelinsko travne smjese (najmanje 20% obradivih površina), odnosno kulture za zelenu gnojidbu, a strnine ili okopavine same ne smiju obuhvatiti više od 50% obradivih površina.

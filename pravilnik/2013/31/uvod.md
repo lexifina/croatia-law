@@ -1,0 +1,1 @@
+Na temelju članka 13. stavka 3., članka 14. stavka 2. i članka 17. stavka 1. Zakona o ekološkoj proizvodnji i označavanju ekoloških proizvoda (»Narodne novine«, br. 139/10.), ministar poljoprivrede donosi
