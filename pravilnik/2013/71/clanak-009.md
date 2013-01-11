@@ -1,0 +1,3 @@
+# Članak 9.
+(1) U slučaju da se nakon donošenja rješenja o troškovima promijene okolnosti vezane uz visinu obveze dužnika, na način da se visina obveze smanji, dužnik će biti dužan platiti iznos iz rješenja, bez obzira što bi da su te okolnosti postojale i na početku postupka troškovi određeni rješenjem bili manji.
+(2) U slučaju da se nakon donošenja rješenja o troškovima promijene okolnosti vezane uz visinu obveze dužnika, na način da se visina obveze poveća, vijeće će donijeti novo rješenje o troškovima kojim će naložiti dužniku da plati razliku iznosa troškova, ukoliko bi prema novoj visini obveze iznos troškova postupka trebao biti određen u većem iznosu.
