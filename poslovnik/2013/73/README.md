@@ -1,0 +1,9 @@
+# Izmjene i dopune Poslovnika državnog odvjetništva
+
+Official text as enacted; later changes are not consolidated.
+
+Source: <https://narodne-novine.nn.hr/eli/sluzbeni/2013/5/73> (Narodne novine d.d.).
+
+Published: 2013-01-11. In force: 2013-01-11.
+
+[Official text](tekst.md). The whole official HTML body, including textual annexes, is retained.
