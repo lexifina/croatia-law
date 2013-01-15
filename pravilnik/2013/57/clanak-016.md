@@ -1,0 +1,5 @@
+# Članak 16.
+(1) Mjerni instrumenti i druga oprema iz članka 12. stavka 1. ovoga Pravilnika moraju biti popraćeni tipskim odobrenjem kojim se dokazuje da oprema za mjerenje onečišćujućih tvari iz Priloga 7. Dio I. tablica A. ovoga Pravilnika zadovoljava kriterije prihvatljivosti radnih karakteristika referentnih metoda, osim za PM10, PM2,5 i ukupnu plinovitu živu.
+(2) Tipsko odobrenje osigurava proizvođač opreme iz stavka 1. ovoga članka na temelju izvješća o provedenim testovima izdanom od laboratorija koji je akreditiran prema normi EN ISO 17025 za izvođenje tih testova.
+(3) Priznaju se tipska odobrenja i izvješća o testovima provedenim od laboratorija koji je akreditiran prema normi EN ISO 17025 za izvođenje tih testova izdanih u državama članicama Europske unije.
+(4) Sakupljači frakcija lebdećih čestica moraju izvedbom impaktora i volumnim protokom zraka zadovoljavati zahtjeve referentnih metoda iz Priloga 7, Dio I. tablica A. ovoga Pravilnika. U protivnom je nužno provesti test ekvivalencije sakupljača.
