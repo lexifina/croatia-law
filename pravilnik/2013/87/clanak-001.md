@@ -1,0 +1,3 @@
+# Članak 1.
+U Pravilniku o standardima profesionalnog razvoja i postupku utvrđivanja nemogućnosti daljnjeg profesionalnog razvoja vojnika i dočasnika (»Narodne novine«, broj 41/2011) u članku 19. iza stavka 1. dodaje se stavak 2. koji gasi:
+»(2) Iznimno od stavka 1. ovoga članka, na prijedlog odnosno preporuku zapovjednika grane, zapovjednika Zapovjedništva za potporu, ravnatelja Hrvatskog vojnog učilišta odnosno zapovjednika i čelnika ustrojstvene jedinice Glavnog stožera Oružanih snaga odnosno Ministarstva obrane, načelnik Glavnog stožera Oružanih snaga može zbog potreba službe produljiti zadržavanje iz stavka 1. ovoga članka najdulje do jedne godine.«
