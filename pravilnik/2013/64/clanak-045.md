@@ -1,0 +1,4 @@
+# Članak 45.
+(1) U slučaju narušavanja sigurnosti ili rizika od narušavanja sigurnosti koji mogu dovesti do obustave pristupa računu, Agencija je dužna bez odlaganja obavijestiti središnjeg administratora o svakom riziku koji nastaje za ostale dijelove Registra Unije.
+(2) Ako Agencija ima saznanja o situaciji koja zahtijeva obustavu pristupa svim računima koje vodi u skladu s ovim Pravilnikom, prethodno porukom obavještava o privremenoj obustavi pristupa računima središnjeg administratora i vlasnike računa. Središnji administrator obavještava ostale administratore što je prije moguće.
+(3) Najava o obustavi pristupa računima iz stavka 2. ovoga članka uključuje očekivano trajanje privremene obustave i jasno se prikazuje u javnom dijelu internetskih stranica dnevnika transakcija Europske unije (EUTL).

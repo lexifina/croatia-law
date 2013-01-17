@@ -1,0 +1,2 @@
+# Članak 2.
+Ovim Pravilnikom utvrđuje se okvir za provedbu Uredbe Komisije (EU) br. 1193/2011 kojom se uspostavlja Registar Unije za razdoblje trgovanja koje započinje 1. siječnja 2013., i za naredna razdoblja trgovanja sustava trgovanja emisijama Unije sukladno Direktivi 2003/87/EZ Europskog parlamenta i Vijeća i Odluke br. 280/2004/EZ Europskog parlamenta i Vijeća te kojom se izmjenjuju i dopunjuju Uredbe Komisije (EZ) br. 2216/2004 i (EU) br. 920/2010 (SL L 315, 29. 11. 2011.)

@@ -1,0 +1,5 @@
+# Članak 44.
+(1) Registar Unije svakom ovlaštenom predstavniku i dodatnom ovlaštenom predstavniku dodjeljuje korisničko ime i lozinku radi provjere/potvrđivanja autentičnosti za pristup Registru Unije.
+(2) Osim korištenja korisničkog imena i lozinke iz stavka 1. ovoga članka za pristup Registru Unije provodi se i sekundarna provjera autentičnosti. Vrste mehanizama sekundarne provjere autentičnosti koje se mogu koristiti za pristup Registru Unije navedene su u Uvjetima razmjene podataka i tehničkim uvjetima koje propisuje Komisija.
+(3) Agencija može smatrati da je korisnik kojemu Registar Unije uspješno provjeri autentičnost ovlašteni predstavnik ili dodatni ovlašteni predstavnik registriran u skladu s dodijeljenom akreditacijom za provjeru autentičnosti, osim ako ovlašteni predstavnik ili dodatni ovlašteni predstavnik obavijesti Agenciju da je sigurnost njegove punomoći ugrožena i zatraži zamjenu punomoći.
+(4) Ovlašteni predstavnik dužan je provesti sve potrebne mjere kako bi spriječio gubitak, krađu ili ugrožavanje njegove akreditacije, te je dužan Agenciji bez odlaganja prijaviti gubitak, krađu ili ugrožavanje iste.
