@@ -1,0 +1,1 @@
+Na temelju članka 18. stavka 3., članka 18.a stavka 6., članka 18.b stavka 3. i članka 34. Zakona o uređenju tržišta poljoprivrednih proizvoda (»Narodne novine« broj 149/09 i 22/11, 120/12) ministar poljoprivrede donosi
