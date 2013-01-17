@@ -1,0 +1,1 @@
+Na temelju članka 50. stavka 4. Zakona o vodama (»Narodne novine«, broj 153/09, 130/11) i članka 11. stavka 2. Zakona o gnojivima i poboljšivačima tla (»Narodne novine«, broj 163/03, 40/07), ministar poljoprivrede donosi
