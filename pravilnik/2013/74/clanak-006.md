@@ -1,0 +1,4 @@
+# Članak 6.
+(1) Krzno i proizvodi od krzna iz članka 5. stavka 2. ovoga Pravilnika mogu se staviti u carinski postupak, osim onih namijenjenih vanjskom provozu i njihovom slanju izvan carinskog područja Republike Hrvatske, ako potječu od životinja uhvaćenih u državi koja je navedena na popisu u Prilogu III. ovog Pravilnika ili rođenih i uzgojenih u zatočeništvu.
+(2) Uvoznik ili njegov ovlašteni zastupnik mora graničnoj carinskoj ispostavi predočiti potvrdu izdanu od nadležnog tijela države izvoznice ili države iz koje se roba ponovo izvozi.
+(3) Obrazac potvrde iz stavka 2. ovoga članka mora biti u skladu s primjerkom u Prilogu IV. ovoga Pravilnika, na papiru bijele boje i težine najmanje 55 g/m² te veličine približno 210 × 297 milimetara. Potvrda se popunjava na hrvatskom ili engleskom jeziku.

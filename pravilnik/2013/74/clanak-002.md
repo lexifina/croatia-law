@@ -1,0 +1,5 @@
+# Članak 2.
+Ovaj Pravilnik sadrži odredbe koje su u skladu sa sljedećim aktima Europske unije:
+1. Uredba Vijeća (EZ) br. 3254/91 od 4. studenoga 1991. o zabrani uporabe stupica na području Zajednice i unošenju na područje Zajednice krzna i proizvoda dobivenih od određenih divljih životinjskih vrsta koje potječu iz zemalja gdje ih love stupicama ili metodama zamki koje ne odgovaraju međunarodnim humanim standardima hvatanja stupicom (SL L 308, 9. 11. 1991.) (u daljnjem tekstu: Uredba Vijeća (EZ) br. 3254/91),
+2. Uredba Komisije (EZ) br. 35/97 od 10. siječnja 1997. kojom se utvrđuju odredbe o certificiranju krzna i proizvoda obuhvaćenih Uredbom Vijeća (EZ) br. 3254/91 (SL L 8, 11. 1. 1997.) (u daljnjem tekstu: Uredba Komisije (EZ) br. 35/97),
+3. Odluka Komisije 98/596/EZ od 14. listopada 1998. o izmjeni Odluke Vijeća 97/602/EZ u vezi s popisom iz članka 3. stavka 1. drugoga podstavka Uredbe (EZ) br. 3254/91 i iz članka 1. stavka 1. točke (a) Uredbe Komisije (EZ) br. 35/97 (notificirana pod dokumentom broj C (1998) 3064) (98/596/EZ) (SL L 286, 23. 10. 1998.) (u daljnjem tekstu: Odluka Komisije br. 98/596/EZ).
