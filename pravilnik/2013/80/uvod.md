@@ -1,0 +1,1 @@
+Na temelju članka 10. Zakona o poreznom savjetništvu (»Narodne novine«, broj 127/00, dalje Zakon) i članka 11. stavak 1. točka 10., a u svezi članka 37. Statuta Hrvatske komore poreznih savjetnika (»Narodne novine«, broj 145/11.) Skupština Hrvatske komore poreznih savjetnika dana 7. 12. 2012. godine donijela je
