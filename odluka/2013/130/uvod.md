@@ -1,0 +1,1 @@
+Na temelju članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, broj 150/2011) i članka 25. stavka 2. Zakona o uslugama (»Narodne novine«, broj 80/2011), Vlada Republike Hrvatske je na sjednici održanoj 17. siječnja 2013. godine donijela
