@@ -1,0 +1,1 @@
+Na temelju članka 189. stavka 3. i članka 195. Zakona o zdravstvenoj zaštiti (»Narodne novine«, broj 150/2008, 71/2010, 139/2010, 22/2011, 84/2011, 12/2012, 35/12, 70/12 i 144/12) ministar zdravlja donosi
