@@ -1,0 +1,1 @@
+Na temelju članka 91., stavka 1., podstavka 7. Poslovnika Hrvatskoga sabora (»Narodne novine«, br. 71/00., 129/00., 117/01., 6/02 - pročišćeni tekst, 41/02., 91/03., 58/04. 39/08., 86/08., 81/12. i 113/12. - u daljnjem tekstu: Poslovnik ), Odbor za izbor, imenovanja i upravne poslove Hrvatskoga sabora, je na 20. sjednici održanoj 24. siječnja 2013. donio
