@@ -1,0 +1,2 @@
+# Članak 28.
+Ako je u Obavijesti ovršenika iz članka 23. ovoga Pravilnika navedeno kako je ovršenik ujedno i ovrhovoditelj po osnovi za plaćanje kojom se nalaže plaćanje u rentama za primanja izuzeta od ovrhe iz članka 172. Ovršnog zakona, Agencija će prema podacima iz te osnove za plaćanje elektronički potpisanom porukom za tu namjenu naložiti banci da ta primanja prenese na poseban račun ovršenika.
