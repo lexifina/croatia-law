@@ -1,0 +1,2 @@
+# Članak 2.
+Podaci iz članka 6. Zakona kad je primijenjen Kazneni zakon (»Narodne novine« 110/97., 27/98. - ispravak, 50/00., 129/00., 51/01., 111/03., 190/03., 105/04., 84/05., 71/06., 110/07., 152/08. i 57/11) za fizičku osobu dostavljaju se na Obrascu A, a za pravnu osobu na Obrascu B, a kad je primijenjen Kazneni zakon (»Narodne novine« 125/11 i 144/12) podaci iz članka 6. Zakona, za fizičku osobu dostavljaju se na Obrascu C, a za pravnu osobu na Obrascu D.
