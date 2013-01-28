@@ -1,0 +1,6 @@
+# Članak 28.
+(1) Nalaz i mišljenje o invalidnosti na temelju koje se stječe pravo prema Zakonu, zajedno s medicinskom i drugom dokumentacijom, ustrojstvena jedinica Zavoda dostavlja ministarstvu nadležnom za mirovinski sustav radi revizije nalaza i mišljenja o invalidnosti.
+(2) Revizija nalaza i mišljenja o invalidnosti obavlja se na temelju medicinske i druge dokumentacije u predmetu, a iznimno se može zahtijevati dodatna medicinska obrada, kao i neposredni pregled osiguranika.
+(3) U slučaju iz stavka 2. ovoga članka, ako vještak - revizor ocijeni da je to potrebno radi cjelovitog utvrđivanja stanja radne sposobnosti, uputit će osiguranika na pregled, odnosno obradu medicinskoj ustanovi ili liječniku - specijalisti određenim od strane ministarstva nadležnog za zdravstveni sustav.
+(4) U obavljanju revizije donosi se mišljenje kojim se potvrđuje nalaz i mišljenje vještaka o invalidnosti ili daju primjedbe s uputom vještaku za izmjenu nalaza i mišljenja o invalidnosti.
+(5) Revizija nalaza i mišljenja o invalidnosti mora biti obavljena u roku od 10 dana od dana davanja nalaza i mišljenja vještaka o invalidnosti, a iznimno, u slučaju iz stavka 3. ovoga članka, u roku od 20 dana po dostavi dokumentacije.

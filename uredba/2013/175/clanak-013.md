@@ -1,0 +1,5 @@
+## IV. POSTUPAK VJEŠTAČENJA
+# Članak 13.
+(1) Vještak, prije nego što da nalaz i mišljenje o invalidnosti, neposrednoj opasnosti od nastanka invalidnosti, tjelesnom oštećenju ili općoj nesposobnosti za rad člana obitelji, obavlja neposredni pregled osigurane osobe.
+(2) Vještak može, iznimno, dati nalaz i mišljenje o činjenicama iz stavka 1. ovoga članka i bez pregleda osigurane osobe na temelju medicinske i druge dokumentacije, kada osigurana osoba zbog objektivnih razloga ne može biti pregledana (u slučaju boravka u inozemstvu, smrti, u slučaju kada se nedvojbeno na temelju medicinske dokumentacije može zaključiti da zbog teškog stanja zdravlja nije u mogućnosti fizički pristupiti pregledu i sl.).
+(3) Za osobe s boravkom u inozemstvu vještak iz članka 3. stavka 4. ove Uredbe daje nalaz i mišljenje na temelju medicinske dokumentacije dostavljene od inozemnog nositelja mirovinskog osiguranja primjenom međunarodnog ugovora o socijalnom osiguranju ili pravnih propisa Europske unije o koordinaciji sustava socijalne sigurnosti. Kada za to postoje razlozi, vještak daje nalaz i mišljenje na temelju neposrednog pregleda osigurane osobe.

@@ -1,0 +1,3 @@
+# Članak 24.
+(1) Pri donošenju nalaza i mišljenja kao dan nastanka invalidnosti, opasnosti od nastanka invalidnosti i tjelesnog oštećenja uzima se dan kada je na temelju obavljenog pregleda dano mišljenje o invalidnosti, opasnosti od nastanka invalidnosti i tjelesnom oštećenju. Nastanak invalidnosti, odnosno tjelesnog oštećenja prije obavljenog pregleda može se utvrditi samo na temelju medicinske dokumentacije iz ranijeg razdoblja (članak 115. stavak 1. Zakona).
+(2) Kada se radi o pravu člana obitelji osiguranika na obiteljsku mirovinu na temelju opće nesposobnosti za rad, pri utvrđivanju dana nastanka opće nesposobnosti za rad uzima se dan od kojega pripada pravo na obiteljsku mirovinu (članak 115. stavak 2. Zakona).

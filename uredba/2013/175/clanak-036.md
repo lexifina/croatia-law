@@ -1,0 +1,4 @@
+# Članak 36.
+(1) Viši vještak dužan je donijeti nalaz i mišljenje u roku od 10 dana od dana primitka žalbe ako daje nalaz i mišljenje bez prethodnog pregleda žalitelja. Ako je potreban pregled žalitelja, viši vještak dužan je dati nalaz i mišljenje u roku od 5 dana nakon obavljenog pregleda.
+(2) U slučaju iz stavka 1. ovoga članka, ako viši vještak ocijeni da je to potrebno radi cjelovitog utvrđivanja stanja radne sposobnosti, uputit će osiguranika na pregled odnosno obradu medicinskoj ustanovi ili liječniku - specijalisti određenim od strane ministarstva nadležnog za zdravstveni sustav.
+(3) Nalaz i mišljenje višeg vještaka donesenog u žalbenom postupku, na temelju kojeg se stječe pravo na temelju invalidnosti, podliježe reviziji, koju obavlja vijeće u ministarstvu nadležnom za mirovinski sustav. U obavljanju revizije vijeće postupa sukladno odredbama članaka 28. do 30. ove Uredbe.

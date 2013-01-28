@@ -1,0 +1,6 @@
+# Članak 18.
+(1) Kada vještak utvrdi da su prikupljeni svi potrebni podaci u smislu članka 16. ove Uredbe određuje dan pregleda osiguranika i poziva ga na pregled. Poziv na pregled dostavlja se osiguraniku s dostavnicom i upozorenjem da je obvezan u navedeno vrijeme javiti se vještaku radi pregleda.
+(2) Nakon neposrednog osobnog pregleda osiguranika, vještak daje nalaz i mišljenje o invalidnosti.
+(3) Ako vještak ocijeni da se na temelju dostavljene dokumentacije i obavljenog pregleda ne može dati nalaz i mišljenje o invalidnosti, uputit će osiguranika, s pozivom uz dostavnicu, liječniku iz članka 15. stavka 1. ove Uredbe na dodatne preglede i obradu.
+(4) Liječnik iz članka 16. stavka 1. ove Uredbe dužan je traženu dopunu medicinske dokumentacije ovlaštenom vještaku dostaviti najkasnije u roku od 7 dana, a ovlašteni vještak dužan je potom nalaz i mišljenje donijeti najkasnije u roku od 3 dana.
+(5) Bez obzira na dodatne preglede i obradu iz stavaka 3. i 4. ovoga članka, ako vještak ocijeni da je to potrebno radi cjelovitog utvrđivanja stanja radne sposobnosti, uputit će osiguranika na pregled odnosno obradu medicinskoj ustanovi ili liječniku - specijalisti određenim od strane ministarstva nadležnog za zdravstveni sustav.

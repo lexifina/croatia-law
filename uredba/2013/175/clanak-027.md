@@ -1,0 +1,5 @@
+## V. REVIZIJA NALAZA I MIŠLJENJA O INVALIDNOSTI
+# Članak 27.
+(1) Nalaz i mišljenje o invalidnosti koje je donio vještak, a na temelju kojega se stječe pravo prema Zakonu, prije donošenja rješenja o pravu podliježe reviziji koju obavlja vještak - revizor, a iznimno vijeće vještaka - revizora (u daljnjem tekstu: vijeće) u ministarstvu nadležnom za mirovinski sustav.
+(2) Nalaz i mišljenje o invalidnosti koje je donio viši vještak, a na temelju kojega se stječe pravo prema Zakonu, prije donošenja rješenja o pravu podliježe reviziji koju obavlja vijeće vještaka - revizora (u daljnjem tekstu: vijeće) u ministarstvu nadležnom za mirovinski sustav.
+(3) Ministar nadležan za mirovinski sustav donosi poslovnik o radu i načinu obavljanja revizije od strane vještaka - revizora i vijeća.
