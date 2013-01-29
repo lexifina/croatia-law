@@ -1,0 +1,2 @@
+# Članak 1.
+Danom stupanja na snagu ovog Pravilnika prestaje važiti Pravilnik o dopuni Pravilnika o razvrstavanju poslovnih subjekata prema Nacionalnoj klasifikaciji djelatnosti 2007. - NKD 2007. (»Narodne novine« broj 45/09.) i Pravilnik o Izmjenama i dopunama Pravilnika o razvrstavanju poslovnih subjekata prema Nacionalnoj klasifikaciji djelatnosti 2007. - NKD 2007. (»Narodne novine« broj 16/12.).
