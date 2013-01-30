@@ -1,0 +1,1 @@
+Na temelju članka 18. Zakona o sustavu državne uprave (»Narodne novine« 150/11) i članka 6. stavak 2. Zakona o općoj sigurnosti proizvoda (»Narodne novine« 30/09, 139/10), Ministar gospodarstva donosi
