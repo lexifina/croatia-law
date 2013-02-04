@@ -1,0 +1,2 @@
+# Članak 1.
+Ovom Naredbom propisuje se mjesečna osnovica za obračun doprinosa za obvezno osiguranje člana posade broda u međunarodnoj plovidbi, bez obzira na državnu pripadnost broda, u obveznom mirovinskom osiguranju ako u Republici Hrvatskoj ima prebivalište, odnosno uobičajeno boravište (rezident) i u obveznom zdravstvenom osiguranju te zdravstvenom osiguranju zaštite zdravlja na radu ako u Republici Hrvatskoj ima prebivalište ili odobreni stalni boravak.
