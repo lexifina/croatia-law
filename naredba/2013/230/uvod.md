@@ -1,0 +1,1 @@
+Na temelju članka 1021. st. 5., a u svezi članka 188. st. 4. i članka 203. st. 4., Pomorskog zakonika (»Narodne novine«, br. 181/04, 76/07, 146/08 i 61/11) ministar pomorstva, prometa i infrastrukture donosi
