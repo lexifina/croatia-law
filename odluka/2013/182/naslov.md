@@ -1,0 +1,1 @@
+Odluka o iznosu tarifnih stavki u Tarifnom sustavu za usluge energetskih djelatnosti proizvodnje, distribucije i opskrbe toplinskom energijom za energetski subjekt Grijanje Varaždin d.o.o., Međimurska 31, Varaždin, u Gradu Varaždinu
