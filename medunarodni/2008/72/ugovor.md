@@ -1,0 +1,4 @@
+(a) U članku 25., nakon stavka 2., dodaje se novi stavak koji glasi:
+»3. Svaka druga država koja nije navedena u stavku 2., a koja je članica Ujedinjenih naroda može pristupiti Konvenciji po odobrenju sastanka stranaka. U svojoj ispravi o pristupu, takva država daje izjavu u kojoj navodi da je odobrenje za njezino pristupanje Konvenciji dobiveno od sastanka stranaka te navodi datum kada je to odobrenje dobiveno. Sastanak stranaka neće razmatrati odobravanje bilo kojeg takvog zahtjeva za pristupanje članica Ujedinjenih naroda dok ovaj stavak ne stupi na snagu za sve države i organizacije koje su bile stranke Konvencije 28. studenoga 2003«.
+i shodno tome preostalim stavcima dodjeljuju se novi brojevi.
+(b) U članku 26. stavku 3., nakon »navedenu u članku 23.« dodaje se »ili u stavku 3. članka 25«.
