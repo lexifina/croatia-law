@@ -1,0 +1,3 @@
+[1] Pravilnikom se preuzimaju odredbe Uredbe Komisije (EZ) br. 1152/2009 od 27. studenoga 2009. kojima se propisuju posebni uvjeti za uvoz određene hrane iz određenih trećih zemalja zbog rizika od kontaminiranosti te hrane aflatoksinima te ukida Odluka Komisije 2006/504/EZ
+[2] Pravilnikom su preuzete odredbe Uredbe Komisije (EZ) br. 401/2006 od 23. veljače 2006. godine kojom se utvrđuju metode uzorkovanja i analize za službene kontrole razina mikotoksina u određenim prehrambenim proizvodima;
+13 30.01.2013 Pravilnik o izmjenama i dopunama Pravilnika o posebnim uvjetima za uvoz određene hrane iz određenih zemalja zbog rizika od kontaminiranosti aflatoksinima
