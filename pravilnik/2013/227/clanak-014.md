@@ -1,0 +1,7 @@
+# Članak 14.
+(1) Stranac bez valjane putne isprave ili druge isprave za prelazak državne granice, bez valjane vize ili odobrenja boravka, koji je ušao u Republiku Hrvatsku plovilom, odmah će se vratiti u inozemstvo prvim pogodnim prijevoznim sredstvom u organizaciji i na trošak prijevoznika koji ga je doveo.
+(2) Strancu koji ne udovoljava uvjetima za ulazak u Republiku Hrvatsku, a nalazi se na plovilu za šport i razonodu, odbit će se ulazak, a zapovjednika plovila obvezati na vraćanje stranca u inozemstvo prvim pogodnim prijevoznim sredstvom na vlastiti trošak.
+(3) Ako zapovjednik plovila za šport i razonodu ne ispuni obvezu iz stavka 2. ovog članka istome će se bez obzira na ispunjavanje uvjeta za ulazak u Republiku Hrvatsku zabraniti ulazak uz obvezu napuštanja morskog prostora Republike Hrvatske.
+(4) Iznimno od stavka 1. ovoga članka, u slučajevima kada je strancu odbijen ulazak u Republiku Hrvatsku, a doputovao je putničkim brodom na kružnom putovanju u međunarodnom prometu, zapovjednik broda obvezan je osigurati da stranac ne napušta brod za vrijeme dok se brod nalazi u lukama Republike Hrvatske.
+(5) Stranac iz stavka 1. ovoga članka koji je doputovao zrakoplovom vratit će se odmah istim zrakoplovom, odnosno drugim zrakoplovom istog prijevoznika.
+(6) Ako prijevoznik nije u mogućnosti organizirati vraćanje stranca u državu iz koje je došao, strancu će se omogućiti prijevoz iz jedne u drugu zračnu luku ako bi to omogućilo brži povratak u državu iz koje je došao.
