@@ -1,0 +1,1 @@
+Na temelju članka 136. Zakona o zdravstvenoj zaštiti (»Narodne novine«, broj 150/08, 71/10, 139/10, 22/11, 84/11, 12/12, 35/12, 70/12 i 144/12), uz prethodno pribavljeno pozitivno mišljenje nadležnih komora, ministar zdravlja donosi
