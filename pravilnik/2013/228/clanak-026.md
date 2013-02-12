@@ -1,0 +1,8 @@
+## Oblikovanje i utvrđivanje vizualnih letnih procedura
+# Članak 26.
+(1) Vizualne letne procedure za sigurno uzlijetanje i slijetanje zrakoplova na aerodrom koji nije kontrolirani, oblikuje i utvrđuje operator aerodroma uz suglasnost pružatelja usluga u zračnoj plovidbi.
+(2) Za potrebe oblikovanja vizualnih letnih procedura, operator aerodroma može koristiti vanjskog dobavljača, tj. specijaliziranu organizaciju.
+(3) Za potrebe sigurnog polijetanja i slijetanja zrakoplova na vlastiti pogon na kontrolirane aerodrome, oblikovanje i utvrđivanje vizualnih letnih procedura se mora provoditi u skladu sa standardima i preporučenoj praksi iz članka 6. ovoga Pravilnika.
+(4) Za potrebe sigurnog polijetanja i slijetanja zrakoplova na vlastiti pogon na nekontrolirane aerodrome, ili na aerodrom sa AFIS uslugom, moraju biti objavljene sljedeće karte:
+1. karta s vizualnom procedurom odlaska i dolaska na nekontrolirani aerodrom (Elementi koji moraju biti vidljivi na karti: Naziv i oznaka aerodroma, geografske koordinate i elevacija aerodroma, razmjera karte 1:100 000, smjer i udaljenost od većeg naseljenog mjesta, odlazne i dolazne rute na aerodrom, školski krug, frekvencija AFIS, frekvencija nadležne APP i FIS, najviša prepreka u području aerodroma, granice i oznake ATZ, i TMA…….
+2. Karta tlocrta aerodroma (Elementi koji moraju biti vidljivi na karti: Naziv i oznaka aerodroma, geografske koordinate i elevacija aerodroma, oznaka i elementi ARP, razmjera karte 1:100 000, ucrtana USS sa dimenzijama, oznakama smjera i vrstom pokrivača (trava, asfalt, beton), tlocrt položaja stajanke zrakoplova, koordinate i elevacija pragova USS, TORA, LDA, oznaku opterećenja USS (MTOW najtežeg zrakoplova kojem je dozvoljeno slijetanje i polijetanje).
