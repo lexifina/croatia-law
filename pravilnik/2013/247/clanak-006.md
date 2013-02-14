@@ -1,0 +1,3 @@
+# Članak 6.
+Ovlaštena pravna osoba mora posjedovati odgovarajuću opremu, instrumente i alate potrebne za provođenje ispitivanja i obilježavanja žigom vatrenog oružja, a minimalno: prihvate za različite vrste oružja, instrumente za provođenje kontrole dimenzija, instrumente za mjerenje tvrdoće, instrumente za registriranje pukotina, uređaje i alate za graviranje i žigosanje te uređaje za mjerenje pritiska.
+Za opremu iz stavka 1. ovoga članka te svu ostalu opremu koju posjeduje i koristi, ovlaštena pravna osoba mora imati odgovarajuće ateste i izvješća o umjerenosti izdane od strane akreditiranog umjernog laboratorija.

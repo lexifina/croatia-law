@@ -1,0 +1,4 @@
+# Članak 5.
+Ovlaštena pravna osoba mora posjedovati prostorije za ispitivanje i obilježavanje žigom vatrenog oružja, prostorije za probno ispaljivanje streljiva opremljene odgovarajućim zaustavljačima ispaljenih zrna (sačme) streljiva kao i uređajima za ventilaciju i zaštitu od buke.
+Osim prostorija iz stavka 1. ovoga članka, ovlaštena pravna osoba mora posjedovati prostoriju namijenjenu za prijem i izdavanje oružja kao i prostoriju za skladištenje oružja.
+Prostorije iz stavaka 1. i 2. ovoga članka, osim prostorije namijenjene za prijem i izdavanje oružja, moraju udovoljavati prostornim i tehničkim uvjetima te uvjetima u vezi zaštite od požara, krađe i drugih zlouporaba i nezgoda, propisanim posebnim propisom o posebnim uvjetima za proizvodnju, smještaj i promet oružja i streljiva, popravljanje i prepravljanje oružja te vođenje civilnih strelišta.
