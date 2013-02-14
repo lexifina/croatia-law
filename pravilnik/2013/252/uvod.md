@@ -1,0 +1,1 @@
+Na temelju članka 43. stavka 10. i članka 44. stavka 3. Zakona o odgoju i obrazovanju u osnovnoj i srednjoj školi (»Narodne novine«, broj: 87/08., 86/09., 92/10., 105/10., 90/11., 16/12. i 86/12.), ministar znanosti, obrazovanja i sporta donosi
