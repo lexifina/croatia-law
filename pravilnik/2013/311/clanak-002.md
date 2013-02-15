@@ -1,0 +1,3 @@
+# Članak 2.
+Članak 6.a stavak 2. mijenja se i glasi::
+»Ulagatelji će odluku o odabiru drugog društva za upravljanje donijeti većinom od najmanje 50% + 1 glas svih ulagatelja. U slučaju odabira drugog društva za upravljanje, osim slučaja kad je Odluka o odabiru novog društva za upravljanje donijeta većinom od najmanje 75% glasova svih ulagatelja, ulagatelji (izuzevši Republiku Hrvatsku) će u roku 6 mjeseci od donošenja Odluke o odabiru novog društva za upravljanje glasovati o povjerenju novoizabranom društvu za upravljanje, većinom glasova. U slučaju neizglasavanja povjerenja društvu za upravljanje, predsjednik Povjereničkog odbora sazvat će sjednicu Povjereničkog odbora radi donošenja odluke o otkazu Društvu za upravljanje.«.
