@@ -1,0 +1,3 @@
+# Članak 1.
+(1) Ovim se Pravilnikom propisuju detaljna pravila za prekrcaj proizvoda na graničnoj veterinarskoj postaji kada su pošiljke namijenjene za treće zemlje ili namijenjene uvozu u Republiku Hrvatsku, a nakon pristupanja Republike Hrvatske Europskoj uniji namijenjene uvozu na područje Europske unije.
+(2) Ovaj Pravilnik sadrži odredbe koje su u skladu s Provedbenom odlukom Komisije 2011/215/EU od 4. travnja 2011. kojom se provodi Direktiva Vijeća 97/78/EZ vezano uz prekrcaj na graničnoj veterinarskoj postaji pri unosu pošiljaka proizvoda namijenjenih za uvoz u Europsku uniju ili za treće zemlje (SL L 90, 6. 4. 2011.).

@@ -1,0 +1,2 @@
+[1] Pravilnikom su preuzete odredbe Uredbe (EZ) br. 854/2004 Europskoga parlamenta i Vijeća od 29. travnja 2004. godine kojom se utvrđuju posebna pravila za obavljanje službenih kontrola proizvoda životinjskog podrijetla namijenjenih prehrani ljudi.
+[2]Pravilnikom su preuzete odredbe Direktive Vijeća 97/78/EZ od 18. prosinca 1997. kojom se utvrđuju načela organizacije veterinarskih pregleda proizvoda koji se unose u Zajednicu iz trećih zemalja.

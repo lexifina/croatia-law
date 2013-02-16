@@ -1,0 +1,8 @@
+# Članak 5.
+(1) Za potrebe primjene članka 11. Pravilnika o načinu obavljanja veterinarskih pregleda i kontrola proizvoda životinjskog podrijetla u prometu preko granice Republike Hrvatske, najkraće razdoblje predviđeno člankom 9. točkom (a) tog Pravilnika je:
+(a) 12 sati za zračnu luku;
+(b) 7 dana za pomorsku luku.
+(2) Za potrebe primjene članka 11. stavka 1. i članka 11. stavka 2. točke (b) Pravilnika o načinu obavljanja veterinarskih pregleda i kontrola proizvoda životinjskog podrijetla u prometu preko granice Republike Hrvatske, moguće je produžiti najkraće razdoblje propisano u stavku 1. točki (b) ovoga članka do 14 dana, pod uvjetom da:
+(a) pošiljke dolaze iz trećih zemalja i namijenjene su nekoj drugoj trećoj zemlji bez dodatnih zaustavljanja na područjima navedenim u Dodatku I. Pravilnika o načinu obavljanja veterinarskih pregleda i kontrola proizvoda životinjskog podrijetla u prometu preko granice Republike Hrvatske;
+(b) su pošiljke prekrcane iz jednog broda u drugi na graničnoj veterinarskoj postaji unutar carinskog područja iste pomorske luke Republike Hrvatske;
+(c) nadležno tijelo daje detaljno obrazloženje Europskoj komisiji i drugim državama članicama u okviru Stalnog odbora za prehrambeni lanac i zdravlje životinja, koje određuje da su poduzete sve potrebne mjere kako bi se spriječio premještaj takve pošiljke u drugu pomorsku luku Republike Hrvatske, odnosno Europske unije umjesto izravnog prekrcaja u treću zemlju. Navedene mjere uključuju i sustav nadzora u svrhu osiguravanja poštivanja vremenskih razdoblja i daljnjih odredišta iz obavijesti iz članka 3. ovoga Pravilnika.
