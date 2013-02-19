@@ -1,0 +1,2 @@
+Prof dr. sc. DAMIR GRUBIŠA, izvanredni i opunomoćeni veleposlanik Republike Hrvatske u Talijanskoj Republici, sa sjedištem u Rimu, postavlja se i za izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Republici Malti, sa sjedištem u Rimu.
+Ova Odluka stupa na snagu danom donošenja.
