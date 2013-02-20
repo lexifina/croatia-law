@@ -1,0 +1,4 @@
+# Članak 6.
+(1) Ministarstvo utvrđuje za tekuću godinu, ovisno o sredstvima predviđenim Zakonom o potpori poljoprivredi i ruralnom razvoju i sredstvima raspoloživim u Državnom proračunu Republike Hrvatske, zaseban iznos potpore raspoloživ za manifestacije koje se održavaju po pojedinom krugu iz članka 4. ovoga Pravilnika.
+(2) Ukoliko Zahtjeva od strane Korisnika, koji udovoljavaju uvjetima iz ovoga Pravilnika i Javnog poziva iz pojedinog kruga iz članka 4. ovoga Pravilnika, bude više od planiranog iznosa utvrđenog za to razdoblje, potpora po Korisniku proporcionalno se smanjuje.
+(3) Ukoliko Zahtjeva od strane Korisnika, koji udovoljavaju uvjetima iz ovoga Pravilnika i Javnog poziva iz pojedinog roka iz članka 4. ovog Pravilnika, bude manje od planiranog iznosa utvrđenog za to razdoblje novčana sredstva se prebacuju u sljedeći krug.
