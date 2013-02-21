@@ -1,0 +1,1 @@
+Na temelju članka 14. stavka 1. točke 1., 2., 4. i 5., članka 14. stavka 2. točke 1., 2., 3. i 4., članka 14. stavka 3. i članka 106. stavka 3. Zakona o morskom ribarstvu (»Narodne novine«, br. 56/10, 127/10, 55/11 i 50/12) ministar poljoprivrede donosi

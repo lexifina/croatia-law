@@ -1,0 +1,6 @@
+## O IZMJENAMA I DOPUNAMA PRAVILNIKA O ULOVU, UZGOJU I PROMETU TUNE (Thunnus thynnus), IGLUNA (Xiphias gladius) I IGLANA (Tetrapturus belone)
+# Članak 1.
+U Pravilniku o ulovu, uzgoju i prometu tune (Thunnus thynnus), igluna (Xiphias gladius) i iglana (Tetrapturus belone) (»Narodne novine« br. 15/2013) u članku 2. iza pojma »Rekreacijski ribolov« dodaju se pojmovi koji glase:
+»- Državna kvota podrazumijeva razliku između ukupne izlovne godišnje kvote za 2013. godinu i zbroja ukupne kvote za negospodarski ribolov i gospodarski ribolov (ukupnih izlovnih kvota za udičarske alate i ukupnih izlovnih kvota za plivarice tunolovke).
+- Godišnja individualna kvota je kvota dodijeljena plovilu za tekuću godinu nakon izvršenih ustupanja kvota između vlasnika/ovlaštenika povlastica za gospodarski ribolov na moru.
+- Trajna individualna kvota podrazumijeva (čini) kvotu dodijeljenu sukladno kriterijima iz Odluke o kriterijima raspodjele trajne i godišnje izlovne kvote za ribolov tune (Thunnus thynnus) plivaricom tunolovkom (»Narodne novine« br. 32/11, 34/11 i 37/11) i Odluke o kriterijima raspodjele trajne i godišnje izlovne kvote za ribolov tune (Thunnus thynnus) udičarskim alatima u gospodarskom ribolovu (»Narodne novine« br. 32/12), te temeljem ustupanja dodijeljene Trajne individualne kvote.
