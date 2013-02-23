@@ -1,0 +1,1 @@
+Na temelju čl. 6. st. 1. Ustava Republike Hrvatske (»Narodne novine, br. 85/10 - pročišćeni tekst) i čl. 10. Zakona o političkim strankama (»Narodne novine«, br. 76/93, 111/96, 164/98, 36/01) osnivačka skupština političke stranke Za grad održana 23. veljače 2013. g. donosi

@@ -1,0 +1,2 @@
+# Članak 30.
+Blagajnika/blagajnicu Stranke bira Upravni odbor na prijedlog supredsjednice i supredsjednika Stranke na mandat od četiri (4) godine. Blagajnik/blagajnica Stranke brine se o prihodima i rashodima Stranke, upravlja imovinom Stranke, vodi brigu o financijskim izvještajima, organizira financiranje aktivnosti Stranke i druge poslove poslovnog karaktera, te izrađuje godišnji financijski plan. Blagajnik/blagajnica za svoj rad odgovara supredsjedniku, supredsjednici i Upravnom odboru.

@@ -1,0 +1,2 @@
+# Članak 28.
+Glavnog tajnika/tajnicu bira i razrješava Upravni odbor na prijedlog supredsjednice i supredsjednika Stranke na mandat od četiri (4) godine. Glavni tajnik/tajnica organizira i koordinira rad organa Stranke, pomaže supredsjedniku i supredsjednici kao i Upravnom odboru u sazivanju sjednica i organizaciji rada te se brine za izvršenje odluka supredsjednika i supredsjednice i Upravnog odbora.
