@@ -1,0 +1,6 @@
+## Ujednačavanje postupanja i prakse Državne komisije
+# Članak 15.
+(1) Kada predsjednik Državne komisije uoči u radu vijeća nejednako postupanje, postupanje protivno propisima te odredbama Uredbe o unutarnjem ustrojstvu Državne komisije ili odstupanje od ustaljene prakse, sazvat će sjednicu Državne komisije na kojoj će se razmotriti sporna pitanja s ciljem ujednačavanja postupanja i prakse. Kada član Državne komisije uoči navedene okolnosti, o tome će obavijestiti predsjednika Državne komisije.
+(2) Pravno shvaćanje prihvaćeno na sjednici Državne komisije većinom glasova svih članova Državne komisije obvezno je za sva vijeća i članove Državne komisije.
+(3) Kada u određenom žalbenom predmetu vijeće donese odluku koja odstupa od pravnog shvaćanja ili ustaljene prakse Državne komisije, predsjednik Državne komisije može odrediti da se zastane sa dostavom odluke i da se razlike u pravnim shvaćanjima ili ustaljenoj praksi rasprave na sjednici Državne komisije. Ako u tom slučaju sjednica zauzme shvaćanje protivno donesenoj odluci, vijeće koje je donijelo odluku dužno je o predmetu ponovno odlučivati pridržavajući se pravnog shvaćanja prihvaćenog na sjednici Državne komisije.
+(4) U odlukama u kojima Državna komisija odstupa od pravnog shvaćanja ili ustaljene prakse potrebno je dodatno obrazložiti razloge za takve odluke.
