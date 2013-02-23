@@ -1,0 +1,1 @@
+Na temelju članka 9. stavka 1. Zakona o izvlaštenju (»Narodne novine«, br. 9/94, 35/94, 112/2000, 114/2001, 79/2006, 45/2011 i 34/2012), Vlada Republike Hrvatske je na sjednici održanoj 6. veljače 2013. godine donijela
