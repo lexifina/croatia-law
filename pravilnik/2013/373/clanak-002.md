@@ -1,0 +1,8 @@
+# Članak 2.
+U članku 8. iza stavka 7. dodaju se stavci 8., 9., 10. i 11. koji glase:
+»(8) Ako Agencija za plaćanja u kontrolama utvrdi da odobreni proizvođač šećera nije ispunio obveze iz članka 4. stavka 4. ovoga Pravilnika i ako ne postoje dokazni dokumenti za postizanje ciljeva kontrola iz stavaka 2., 3. i 4. ovoga članka, primjenjuje se sustav korektivnih naplata.
+(9) Naplate iz stavka 8. ovoga članka u iznosu od 500,00 EUR po toni, obračunato u kunama po srednjem tečaju Hrvatske narodne banke, naplaćuje Agencija za plaćanja, prema utvrđenoj fiksnoj stopi na količinu konačnog proizvoda ovisno o ozbiljnosti prekršaja:
+- za svako nepoštivanje pojedine radnje iz članka 4. stavka 4. ovoga Pravilnika Agencija za plaćanja će naplatiti 500,00 EUR po toni, obračunato u kunama po srednjem tečaju Hrvatske narodne banke, na 0,1% prosječne dnevne proizvodnje finalnog proizvoda iz prethodne tržišne godine;
+- ako Agencija za plaćanja u kontroli iz članka 7. stavka 3. ovoga Pravilnika utvrdi da je odobreni proizvođač šećera proizveo više od odobrene proizvođačke kvote, primijenit će dodatnu korektivnu naplatu od 500,00 EUR po toni, obračunato u kunama po srednjem tečaju Hrvatske narodne banke, na 10% utvrđene prekoračene proizvođačke kvote.
+(10) Sustav korektivnih naplata iz stavka 9. ovoga članka Agencija za plaćanja neće naplatiti ukoliko je razlika između stvarnih i evidentiranih količina manja od 5% mase konačnog proizvoda ili ukoliko je razlika nastala administrativnom pogreškom, uz uvjet da se poduzmu korektivne mjere kako se takve greške ne bi ponovile.
+(11) U slučaju više sile neće se primjenjivati stavci 8. i 9.ovoga članka.«

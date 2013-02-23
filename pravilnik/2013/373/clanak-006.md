@@ -1,0 +1,7 @@
+# Članak 6.
+U članku 23. stavci 7. i 8. mijenjaju se i glase:
+»(7) Tvrtka za preradu šećera dužna je dostaviti Agenciji za plaćanja prije kraja isteka petog mjeseca nakon svake dostave dokaz o uporabi industrijskih sirovina za potrebe proizvodnje proizvoda u skladu s odobrenjem iz članka 10. ovoga Pravilnika i ugovorom o dostavi iz stavka 1. ovoga članka. Navedeni dokaz je u skladu s elektronički vođenim evidencijama o količinama predmetnih proizvoda tijekom ili krajem proizvodnog postupka koje vodi prerađivač šećera.
+(8) Ukoliko tvrtka za preradu šećera ne dostavi pisani dokaz iz stavka 7. ovoga članka, Agencija za plaćanja će o tome, bez odgode, obavijestiti Ministarstvo. U tom slučaju, tvrtka za preradu šećera će platiti iznos od 5,00 EUR po toni isporučene količine industrijskog šećera po predmetnoj dostavi, obračunato u kunama po srednjem tečaju Hrvatske narodne banke, i za svaki dan zakašnjenja od kraja petog mjeseca nakon dostave.«
+Iza stavka 8. dodaje se stavak 9. koji glasi:
+»(9) Ministarstvo će ukinuti rješenje o odobrenju prerađivača na rok od tri do šest mjeseci, ukoliko prerađivač šećera nije dostavio dokaze iz stavka 7. ovoga članka prije isteka sedmog mjeseca nakon svake dostave, te o tome dostavlja obavijest Agenciji za plaćanja. U tom slučaju predmetne se količine smatraju viškom količina za preradu i Agencija za plaćanja će sukladno članku 12. stavku 7. ovoga Pravilnika primijeniti korektivnu naplatu.«
+Dosadašnji stavak 9. postaje stavak 10.
