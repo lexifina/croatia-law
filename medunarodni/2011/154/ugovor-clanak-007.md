@@ -1,0 +1,9 @@
+# Članak 7.
+NADZIRANE ISPORUKE
+Ugovorne stranke mogu po prethodno upućenoj zamolbi na svom državnom području dopustiti nadzirane isporuke za kaznena djela za koja je to moguće prema pravu zamoljene ugovorne stranke, posebice kod nedopuštene trgovine opojnim drogama, oružjem, eksplozivnim tvarima, krivotvorenim novcem i pranja novca. Ugovorna stranka moliteljica treba obrazložiti da bi bez te mjere bilo nemoguće ili bi bilo bitno otežano otkrivanje nalogodavca i drugih sudionika ili otkrivanje distributivnih kanala. Zamoljena će ugovorna stranka ograničiti ili odbiti nadzirane isporuke, ako je rizik koji proizlazi iz isporuka za osobe koje sudjeluju u prijevozu nerazmjerno velik ili ako isporuke predstavljaju opasnost za javnu sigurnost.
+Zamoljena ugovorna stranka preuzima nadzor nad isporukama kod prelaska državne granice, a radi izbjegavanja prekida nadzora. U daljnjem tijeku prijevoza zamoljena ugovorna stranka osigurava stalan nadzor na način da se sudionici i isporuke u svako doba nalaze u dohvatu. Nadzirane isporuke se u dogovoru između ugovornih stranaka mogu zaustaviti te se može odobriti nastavak isporuke na način da ista ostane nedirnuta, da se ukloni ili u cijelosti ili djelomično zamijeni.
+Zamolbe za nadzirane isporuke, koje započinju ili se nastavljaju u trećoj državi, odobravaju se samo ako ta država osigura ispunjenje pretpostavki iz stavka 2. ovog članka.
+Zamolbe iz stavka 1. upućuju se:
+- u Republici Hrvatskoj: Ministarstvu unutarnjih poslova, Ravnateljstvu policije, Upravi kriminalističke policije;
+- u Crnoj Gori: Ministarstvu unutarnjih poslova, Upravi policije.
+Zamolba iz stavka 1. upućuje se na temelju međunarodnih ugovora koji obvezuju ugovorne stranke ili na temelju nacionalnog zakonodavstva uz uvjet uzajamnosti. Odluku donosi nadležno tijelo zamoljene ugovorne stranke sukladno pravu zamoljene ugovorne stranke.
