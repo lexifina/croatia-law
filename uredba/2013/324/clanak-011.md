@@ -1,0 +1,21 @@
+# Članak 11.
+(1) Kad dražbovna platforma organizira neko sekundarno tržište, članovi ili sudionici sekundarnog tržišta koje organizira dražbovna platforma koja na dražbi prodaje dvodnevne promptne ugovore ili petodnevne budućnosnice, a koji ispunjavaju uvjete iz članka 9. stavka 1. ili 2. ove Uredbe imaju mogućnost izravno nuditi na dražbama koje provodi dražbovna platforma i ne podliježu nikakvim dodatnim zahtjevima za sudjelovanje ukoliko su ispunjeni ovi uvjeti:
+(a) uvjeti koji se odnose na odobravanje sudjelovanja člana ili sudionika u trgovanju emisijskih jedinicama putem sekundarnog tržišta koje organizira dražbovna platforma koja na dražbi prodaje dvodnevne promptne ugovore ili petodnevne budućnosnice jednako su strogi kao uvjeti iz stavka 2. ovoga članka(b) dražbovna platforma koja na dražbi prodaje dvodnevne promptne ugovore ili petodnevne budućnosnice dobiva dodatne informacije koje su joj potrebne da bi mogla provjeriti i potvrditi da su ispunjeni uvjeti iz stavka 2. ovoga članka koji nisu prethodno bili provjereni i potvrđeni.
+(2) Osobe koje nisu članovi ili sudionici sekundarnog tržišta koje organizira dražbovna platforma koja na dražbi prodaje dvodnevne promptne ugovore ili petodnevne budućnosnice, a ispunjavaju uvjete iz članka 9. stavka 1. ili 2. ove Uredbe imaju mogućnost izravno podnositi ponude na dražbama koje provodi ta dražbovna platforma pod uvjetom da:
+(a) imaju poslovni nastan u Europskoj uniji i da su operater ili operator zrakoplova;
+(b) imaju operativni račun;
+(c) imaju bankovni račun;
+(d) imenuju najmanje jednog zastupnika ponuditelja u skladu sa člankom 7. stavkom 4. ove Uredbe;
+(e) dražbovnu platformu uvjere u skladu s primjenjivim mjerama dubinske analize klijenta u svoj identitet, identitet svojega stvarnog vlasnika, svoj integritet, poslovni i trgovinski profil s obzirom na način uspostavljanja odnosa s ponuditeljem, vrstu ponuditelja, narav proizvoda na dražbi, veličini očekivanih ponuda i načinima plaćanja i isporuke;
+(f) dražbovnu platformu uvjere u svoje financijsko stanje, posebno da su sposobni ispunjavati svoje financijske obveze i tekuće obveze plaćanja po dospijeću;
+(g) imaju uveden ili su, na zahtjev, u stanju uvesti unutarnje procese, postupke i ugovorne sporazume s učinkom uvođenja maksimalne količine za koju se može dati ponuda;
+(h) ispunjavaju zahtjeve iz članka 26. stavka 1. ove Uredbe.
+(3) Kad dražbovna platforma ne organizira sekundarno tržište, osobe koje ispunjavaju uvjete sukladno članku 9. stavku 1. ili 2. ove Uredbe mogu izravno podnositi ponude na dražbama koje provodi ta dražbovna platforma pod uvjetom da ispunjavaju uvjete propisane stavkom 2. točkama (a) do (h) ovoga članka.
+(4) Osobe iz članka 9. stavka 1. točke (b) i (c) ili članka 9. stavka 2. ove Uredbe koje podnose ponude u ime svojih klijenata dužne su osigurati da svi sljedeći uvjeti budu ispunjeni:
+(a) njihovi klijenti su osobe koje ispunjavaju uvjete prema članku 9. stavku 1. ili 2. ove Uredbe;
+(b) imaju ili će na vrijeme prije otvaranja nadmetanja imati odgovarajuće unutarnje procese, postupke i ugovorne dogovore koji:
+(i) omogućuju obrađivanje ponuda njihovih klijenata uključujući i podnošenje ponuda, naplatu plaćanja i prijenos emisijskih jedinica;
+(ii) sprječavaju otkrivanje povjerljivih informacija iz onog dijela njihove tvrtke koji je odgovoran za primanje, izradu i podnošenje ponuda u ime njihovih klijenata do onog dijela njihove tvrtke koji je odgovoran za izradu i podnošenje ponuda za vlastiti račun;
+(iii) osiguravaju da i njihovi klijenti koji djeluju u ime klijenata koji nude na dražbama primjenjuju zahtjeve utvrđene ovim stavkom i stavkom 2. ovoga članka, te da isto zahtijevaju od svojih klijenata i od klijenata svojih klijenata kako je propisano člankom 9. stavkom 5. ove Uredbe.
+(5) Dražbovna platforma može se oslanjati na pouzdane provjere koje provode osobe iz stavka 4. ovoga članka, njihovi klijenti ili klijenti njihovih klijenata u skladu s odredbama članka 9. stavka 5. ove Uredbe.
+(6) Na zahtjev dražbene platforme u skladu s člankom 12. stavkom 6. točkom (d) ove Uredbe, osobe iz stavka 4. ovoga članka dužne su osigurati dokaz da su uvjeti iz stavka 4. točaka (a) i (b) ovoga članka ispunjeni.

@@ -1,0 +1,3 @@
+# Članak 25.
+(1) Kad sustav za poravnanje ili sustav za namiru ne isporuči sve ili dio emisijskih jedinica prodanih na dražbi zbog okolnosti na koje ne može utjecati, sustav za poravnanje ili sustav za namiru isporučuju emisijske jedinice stakleničkih plinova prvom prilikom, a izabrani ponuđači ili njihovi slijednici prihvaćaju kasniju isporuku.
+(2) Postupak iz stavka 1. ovoga članka jedini je način na koji izabrani ponuđač ili njegovi slijednici mogu postupiti u slučaju da emisijske jedinice stakleničkih plinova prodane na dražbi dotični sustav za poravnanje ili sustav za namiru ne isporuči zbog okolnosti na koje ne može utjecati.

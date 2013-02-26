@@ -1,0 +1,4 @@
+# Članak 33.
+(1) Greške učinjene kod prijenosa plaćanja ili emisijskih jedinica i davanja ili oslobađanja jamstva ili pologa prema ovoj Uredbi prijavljuju se sustavu za poravnanje ili sustavu za namiru čim su uočene.
+(2) Sustav za poravnanje ili sustav za namiru poduzimaju sve potrebne mjere za ispravljanje grešaka učinjenih u prijenosu plaćanja ili emisijskih jedinica i davanja ili oslobađanja jamstva ili pologa prema ovoj Uredbi bez obzira na način na koji su uočene.
+(3) Svaka osoba koja ostvari korist od greške iz stavka 1. ovoga članka koja se ne može ispraviti prema stavku 2. ovoga članka iz razloga prava na intervenciju u dobroj vjeri koje ima kupac kao treća strana, a za koju je znala ili je trebala znati, iako je nije prijavila sustavu za poravnanje ili sustavu za namiru, dužna je popraviti svaku eventualno nastalu štetu.
