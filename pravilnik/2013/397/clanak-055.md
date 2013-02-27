@@ -1,0 +1,5 @@
+# Članak 55.
+(1) Stupanjem na snagu ovoga Pravilnika prestaje važiti Pravilnik o provedbi Mjere 101 unutar IPARD programa (»Narodne novine« broj 54/12, 68/12).
+(2) Prijave podnositelja čiju je obradu Agencija za plaćanja započela po odredbama Pravilnika o provedbi Mjere 101 unutar IPARD programa (»Narodne novine« broj 54/12, 68/12) obrađivat će po odredbama tog Pravilnika do dobivanja odluke Europske komisije o odobrenju nove verzije procedura.
+(3) Korisnici s kojima je Agencija za plaćanja sklopila IPARD Ugovor, temeljem Pravilnika o provedbi Mjere 101 unutar IPARD programa (»Narodne novine« broj 54/12, 68/12), podnose Zahtjev za odobrenje promjena iz članka 30. stavka 1. i Zahtjev za isplatu iz članka 35. ovoga Pravilnika, temeljem Pravilnika o provedbi Mjere 101 unutar IPARD programa (»Narodne novine« broj 54/12, 68/12) do dobivanja odluke Europske komisije o odobrenju nove verzije procedura.
+(4) Nakon dobivanja odluke Europske komisije o odobrenju nove verzije procedura za sve korisnike primjenjivat će se odredbe ovoga Pravilnika.
