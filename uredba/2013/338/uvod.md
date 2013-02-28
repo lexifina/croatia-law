@@ -1,0 +1,1 @@
+Na temelju članka 21. stavka 7., članka 26. stavka 6. i članka 28. stavka 7. Zakona o koncesijama (»Narodne novine«, broj 143/2012), Vlada Republike Hrvatske je na sjednici održanoj 14. veljače 2013. godine donijela
