@@ -1,0 +1,6 @@
+# Članak 18.
+NACIONALNE OBALNE STRATEGIJE, PLANOVI I PROGRAMI
+1. Svaka stranka će dalje jačati ili izrađivati nacionalnu strategiju integralnog upravljanja obalnim područjem i obalne provedbene planove i programe sukladno zajedničkom regionalnom okviru i u skladu s ciljevima i načelima integralnog upravljanja iz ovog Protokola, te će informirati Organizaciju o postojećem koordinacijskom mehanizmu za ovu strategiju.
+2. Nacionalna strategija, temeljena na analizi postojećeg stanja, utvrdit će ciljeve, odrediti prioritete, uz navođenje razloga, odrediti obalne ekosustave kojima je potrebno upravljanje, kao i sve relevantne subjekte i procese, zatim nabrojiti mjere koje treba poduzeti i njihove troškove, kao i institucionalne instrumente i dostupna pravna i financijska sredstva te postaviti plan provedbe.
+3. Obalni planovi i programi, koji mogu biti zasebni ili integrirani u ostale planove i programe, predvidjet će usmjerenja nacionalne strategije i primijeniti je na primjerenoj teritorijalnoj razini, određujući, među ostalim i gdje je prikladno, prihvatni kapacitet i uvjete za namjenu i korištenje odnosnih morskih i kopnenih dijelova obalnih područja.
+4. Stranke će odrediti odgovarajuće pokazatelje kako bi procijenile učinkovitost strategija, planova i programa integralnog upravljanja obalnim područjem kao i napredak u provedbi Protokola.

@@ -1,0 +1,6 @@
+# Članak 4.
+OČUVANJE PRAVA
+1. Ništa u ovom Protokolu, niti u bilo kojem aktu usvojenom na temelju ovoga Protokola, neće utjecati na prava, sadašnje i buduće zahtjeve ili pravna gledišta bilo koje stranke u odnosu na pravo mora, osobito na prirodu i raspon morskih područja, razgraničenje morskih područja među državama čije obale leže sučelice ili međusobno graniče, pravo i načine prolaza kroz tjesnace koji se koriste u međunarodnoj plovidbi i pravo neškodljivog prolaska teritorijalnim morima, kao ni na prirodu i opseg jurisdikcije obalne države, države zastave i države luke.
+2. Niti jedna radnja ili djelatnost poduzeta na temelju ovoga Protokola neće tvoriti temelj za zahtjev, prigovor na, niti osporavanje bilo kojega zahtjeva glede nacionalne suverenosti ili jurisdikcije.
+3. Odredbe ovog Protokola neće utjecati na strože odredbe kojima se poštuje zaštita i upravljanje obalnim područjem sadržane u drugim postojećim ili budućim nacionalnim ili međunarodnim instrumentima ili programima.
+4. Ništa u ovom Protokolu neće utjecati na aktivnosti i sredstva nacionalne sigurnosti i obrane; međutim svaka stranka suglasna je da se ovakve aktivnosti i sredstva trebaju provoditi ili uspostaviti, u mjeri u kojoj je to razumno i izvedivo, na način sukladan s ovim Protokolom.
