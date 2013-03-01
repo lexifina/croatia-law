@@ -1,0 +1,15 @@
+# Članak 40.
+Članak 26.a mijenja se i glasi:
+»Članak 26.a
+(1) Posebni nazivi radnih mjesta državnih službenika koji rade u strukturi tijela koja su dobila dozvolu za rad od Europske komisije za upravljanje sredstvima Europske unije i u strukturi tijela koja će upravljati strukturnim instrumentima Europske unije i koeficijenti složenosti poslova su:
+a) Položaji I. vrste
+1. načelnik sektora (programiranje i strateško planiranje, financijsko upravljanje i kontrola, računovodstvo Nacionalnog fonda, suzbijanje nepravilnosti i prijevara u Ministarstvu financija, ugovaranje i provedba projekata, praćenje provedbe i vrednovanje programa Europske unije) 3,298
+2. voditelj službe (programiranje i strateško planiranje, financijsko upravljanje i kontrola, računovodstvo Nacionalnog fonda, suzbijanje nepravilnosti i prijevara u Ministarstvu financija, ugovaranje i provedba projekata, praćenje provedbe i vrednovanje programa Europske unije) 2,716
+3. voditelj odjela (programiranje i strateško planiranje, financijsko upravljanje i kontrola, računovodstvo Nacionalnog fonda, suzbijanje nepravilnosti i prijevara u Ministarstvu financija, ugovaranje i provedba projekata, praćenje provedbe i vrednovanje programa Europske unije) 2,328
+b) Radna mjesta I. vrste
+1. viši stručni savjetnik (programiranje i strateško planiranje, financijsko upravljanje i kontrola, računovodstvo Nacionalnog fonda, suzbijanje nepravilnosti i prijevara u Ministarstvu financija, ugovaranje i provedba projekata, praćenje provedbe i vrednovanje programa Europske unije) 1,979
+2. stručni savjetnik (programiranje i strateško planiranje, financijsko upravljanje i kontrola, računovodstvo Nacionalnog fonda, suzbijanje nepravilnosti i prijevara u Ministarstvu financija, ugovaranje i provedba projekata, praćenje provedbe i vrednovanje programa Europske unije) 1,600
+3. stručni suradnik (programiranje i strateško planiranje, financijsko upravljanje i kontrola, računovodstvo Nacionalnog fonda, suzbijanje nepravilnosti i prijevara u Ministarstvu financija, ugovaranje i provedba projekata, praćenje provedbe projekata i vrednovanje programa Europske unije) 1,455
+(2) Tijela koja su dobila dozvolu za rad od Europske komisije u smislu stavka 1. ovoga članka su: tijelo nadležno za koordinaciju, tijelo nadležno za financijsko upravljanje, tijelo nadležno za zaštitu financijskih interesa Europske unije, utvrđivanja nepravilnosti i izvještavanje o nepravilnostima, tijelo nadležno za Operativni program, tijelo nadležno za prioritet/mjeru, provedbeno tijelo i ustrojstvene jedinice za provedbu projekata.
+(3) Tijela koja će upravljati strukturnim instrumentima Europske unije u smislu stavka 1. ovoga članka su tijela državne uprave i uredi Vlade Republike Hrvatske utvrđeni Uredbom o tijelima u sustavu upravljanja i kontrole korištenja strukturnih instrumenata Europske unije u Republici Hrvatskoj (»Narodne novine«, broj 97/2012).
+(4) Broj državnih službenika u tijelima iz stavka 2. ovoga članka na koje se odnosi ova Uredba utvrdit će odlukom Vlada Republike Hrvatske na prijedlog Ministarstva financija i Ministarstva regionalnoga razvoja i fondova Europske unije.«.
