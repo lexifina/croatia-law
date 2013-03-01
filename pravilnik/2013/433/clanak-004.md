@@ -1,0 +1,9 @@
+## III. SUBJEKTI UPISA, OBVEZNIK I PODNOŠENJE DOKUMENTACIJE ZA UPIS
+# Članak 4.
+(1) Subjekti upisa u Registar koncesija su obje strane potpisnice ugovora o koncesiji.
+(2) Davatelj koncesije dužan je popuniti i podnijeti sve odgovarajuće obrasce propisane ovim Pravilnikom.
+(3) Upis u Registar koncesija obavlja se na papirnom mediju na temelju ispunjenog obrasca UK - Prijava za upis ugovora o koncesiji, (dalje u tekstu: prijava za upis), koji je sastavni dio ovoga Pravilnika (prilog 1).
+(4) Evidentiranje svake promjene podataka iz ugovora o koncesiji u Registru koncesija obavlja se na papirnom mediju na temelju ispunjenog obrasca (UP) - Prijava za upis promjena podataka iz ugovora o koncesiji (dalje u tekstu: prijava za upis promjena), koji je sastavni dio ovoga Pravilnika (prilog 3).
+(5) Kod ugovora o koncesiji kod kojih je naknada za koncesiju ugovorena kao varijabilna, utvrđivanje varijabilnog dijela naknade ili utvrđivanje naknade ako se naknada određuje na temelju podataka o ostvarenom ukupnom prihodu ili dobiti, do ugovorenog roka za plaćanje naknade u Registru koncesija obavlja se na papirnom mediju na temelju ispunjenog obrasca UPK - Prijava za upis naknade za koncesiju (dalje u tekstu: prijave naknade), koji je sastavni dio ovoga Pravilnika (prilog 2).
+(6) Prijavu za upis podataka o prestanku ugovora o koncesiji (RU) (prilog 4) davatelj koncesije dužan je dostaviti u roku od 10 (deset) dana od dana prestanka ugovora o koncesiji radi upisa podataka o prestanku ugovora, a sve sa svrhom pravovaljane evidencije o poslovanju koncesionara. Predmetni obrazac ne dostavlja se samo u slučaju kada je ugovor o koncesiji istekao ispunjenjem zakonskih uvjeta (normalan istek ugovora).
+(7) Davatelj koncesije dužan je o svakom postupanju prema Ministarstvu financija obavještavati i koncesionare, te ih upoznati sa svim pravima i obvezama koje proizlaze za njih iz Zakona o koncesijama i ovog Pravilnika.

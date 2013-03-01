@@ -1,0 +1,9 @@
+# Članak 6.
+(1) U Registar koncesija upisuju se i podaci o obavljenom financijskom nadzoru, podaci o stečajnom postupku, podaci o prisilnoj naplati.
+(2) Prijavu za upis obavljenog financijskog nadzora (FN) (prilog 5) dostavlja pravna osoba koja po ovlaštenju Ministarstva financija obavlja nadzor nad poslovanjem koncesionara nakon izvršnosti Rješenja, radi upisa podataka o obavljenom financijskom nadzoru, a sve sa svrhom pravovaljane evidencije o poslovanju koncesionara i ispunjavanju obveza iz ugovora o koncesiji.
+(3) Pravna osoba ovlaštena za obavljanje financijskog nadzora uz popunjeni FN obrazac, mora dostaviti i Rješenje i Zapisnik o obavljenom financijskom nadzoru.
+(4) Obrasci o obavljenom financijskom nadzoru trebaju se odnositi samo na jedan Identifikacijski broj ugovora koji je evidentiran u Registru koncesija.
+(5) Pravna osoba ovlaštena za obavljanje financijskog nadzora dužna je Rješenje i Zapisnik, te FN obrazac dostaviti davatelju koncesije.
+(6) Davatelj koncesije dužan je nakon zaprimanja Rješenja o obavljenom nadzoru i FN obrasca, utvrditi ima li koncesionar duga, te sukladno tome dostaviti UPK obrazac kojim koncesionara zadužuje za predmetni iznos.
+(7) Prijavu za upis podataka o stečajnom postupku (SP) (prilog 6) davatelj koncesije dužan je dostaviti u roku od 10 (deset) dana od dana pokretanja stečajnog postupka radi upisa podataka o početku, tijeku te okončanom stečajnom postupku, a sve sa svrhom pravovaljane evidencije o poslovanju koncesionara.
+(8) Prijavu za upis podataka o prisilnoj naplati (PN) (prilog 7) davatelj koncesije dužan je dostaviti u roku od 10 (deset) dana od dana pokretanja prisilne naplate radi upisa podataka o pokrenutoj prisilnoj naplati, a sve sa svrhom pravovaljane evidencije o poslovanju koncesionara i ispunjavanju obveza iz ugovora o koncesiji.
