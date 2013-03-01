@@ -1,0 +1,11 @@
+# Članak 9.
+(1) U slučaju kada je računalni sustav Carinske uprave nedostupan, pošiljatelj - ovlašteni držatelj trošarinskog skladišta može započeti kretanje trošarinskih proizvoda u sustavu odgode plaćanja trošarine koristeći rezervni postupak, pod uvjetom da prije početka kretanja:
+1. obavijesti Carinsku upravu - Trošarinski ured za vezu o otpremi trošarinskih proizvoda i dostavi presliku papirnatog dokumenta koji prati trošarinske proizvode i sadrži iste podatke kao i nacrt e-TD-a;
+2. dobije suglasnost Carinske uprave - Trošarinskog ureda za vezu;
+3. omogući provjeru podataka iz papirnatog dokumenta.
+(2) Obrazac A dokumenta iz stavka 1. točke 1. ovoga članka tiskan je u Prilogu 6 koji čini sastavni dio ovog Pravilnika.
+(3) Ako je računalni sustav pošiljatelja nedostupan, pošiljatelj je dužan, uz ispunjenje uvjeta iz stavka 1. ovoga članka, Carinskoj upravi - Trošarinskom uredu za vezu dostaviti prije početka kretanja trošarinskih proizvoda u sustavu odgode plaćanja trošarine informacije o razlozima nedostupnosti svog računalnog sustava.
+(4) Kada je računalni sustav Carinske uprave i/ili pošiljatelja dostupan, pošiljatelj odmah podnosi nacrt e-TD-a u skladu sa člankom 5. ovoga Pravilnika, pri čemu podaci koje unosi u sustav moraju odgovarati podacima navedenim u dokumentu iz stavka 1. ovoga članka. Kada računalni sustav Carinske uprave potvrdi podatke u e-TD-u, isti zamjenjuje papirnati dokument iz stavka 1. ovoga članka.
+(5) Pošiljatelj je dužan čuvati presliku papirnatog dokumenta u svojoj evidenciji.
+(6) U slučaju kada pošiljatelj tijekom kretanja trošarinskih proizvoda mijenja mjesto odredišta u smislu članka 7. ovoga Pravilnika, a računalni sustav Carinske uprave i/ili pošiljatelja nije dostupan, u obvezi je prije promjene odredišta obavijestiti Carinsku upravu - Trošarinski ured za vezu o novom mjestu odredišta te dostaviti presliku papirnatog dokumenta koji sadrži iste podatke kao i poruka o promjeni odredišta. Kada računalni sustav Carinske uprave i/ili pošiljatelja postane dostupan, na odgovarajući način se primjenjuju stavci 4. i 5. ovoga članka.
+(7) Obrazac B dokumenta iz stavka 6. ovoga članka tiskan je u Prilogu 7 koji čini sastavni dio ovog Pravilnika.

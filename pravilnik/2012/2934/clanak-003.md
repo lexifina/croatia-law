@@ -1,0 +1,2 @@
+# Članak 3.
+Kretanje trošarinskih proizvoda u sustavu odgode plaćanja trošarine uz primjenu elektroničkog trošarinskog dokumenta (u daljnjem tekstu: e-TD) započinje kada se trošarinski proizvodi otpremaju iz trošarinskog skladišta, a završava kada primatelj - ovlašteni držatelj trošarinskog skladišta primi trošarinske proizvode odnosno kada trošarinski proizvodi istupe iz carinskog područja Republike Hrvatske.
