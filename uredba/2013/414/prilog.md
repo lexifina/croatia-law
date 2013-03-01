@@ -1,0 +1,1 @@
+25 28.02.2013 Uredba o izmjeni Uredbe o vrijednosti koeficijenata složenosti poslova radnih mjesta, dodatku na uvjete rada, te kriterijima i najvišem mogućem iznosu dodatka za natprosječne rezultate u radu za službenike Carinske uprave
