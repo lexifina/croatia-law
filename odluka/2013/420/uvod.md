@@ -1,0 +1,1 @@
+Na temelju članka 72. Zakona o sigurnosno-obavještajnom sustavu Republike Hrvatske (»Narodne novine« br. 79/2006 i 105/2006), Vlada Republike Hrvatske je na sjednici održanoj 28. veljače 2013. godine donijela
