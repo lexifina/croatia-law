@@ -1,0 +1,1 @@
+Na temelju članka 4. stavka 2. Zakona o plaćama sudaca i drugih pravosudnih dužnosnika (»Narodne novine«, br. 10/99, 25/2000, 30/2001, 59/2001, 114/2001, 116/2001, 64/2002, 153/2002, 154/2002, 17/2004, 146/2008, 39/2009, 14/2011, 12/2012 i 143/2012), Vlada Republike Hrvatske je na sjednici održanoj 28. veljače 2013. godine donijela
