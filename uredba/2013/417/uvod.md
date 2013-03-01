@@ -1,0 +1,1 @@
+Na temelju članka 169. stavka 8. Zakona o službi u Oružanim snagama Republike Hrvatske (»Narodne novine« br. 33/2002, 58/2002, 175/2003, 136/2004, 76/2007, 88/2009 i 124/2009), Vlada Republike Hrvatske je na sjednici održanoj 28. veljače 2013. godine donijela
