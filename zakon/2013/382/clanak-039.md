@@ -1,0 +1,2 @@
+# Članak 39.
+Pravo slijepih osoba na glasovanje na glasačkom listiću na Braillevom pismu iz članka 49. stavka 2. Zakona o izborima zastupnika iz Republike Hrvatske u Europski parlament (»Narodne novine«, br. 92/10.) i obveze nadležnih izbornih povjerenstava u vezi s glasovanjem slijepih osoba na Braillevom pismu iz članka 49. stavaka 3. i 4. Zakona o izborima zastupnika iz Republike Hrvatske u Europski parlament (»Narodne novine«, br. 92/10.) ne ostvaruju se na prvim neposrednim općim ad hoc izborima.
