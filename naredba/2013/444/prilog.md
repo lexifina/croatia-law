@@ -1,0 +1,36 @@
+PRILOG
+Radi provedbe odredbi točke III. ove Naredbe, uz zahtjeve propisane u dijelu A i B Popisa I., II. i IV. Pravilnika o mjerama za sprječavanje unošenja i širenja organizama štetnih za bilje, biljne proizvode i druge nadzirane predmete i mjerama suzbijanja tih organizama[1] (»Narodne novine«, br. 74/06, 84/10 i 120/11) (u daljnjem tekstu: Pravilnik), mora biti udovoljeno sljedećim zahtjevima:
+1. Zahtjevi koji se odnose na nezaražena područja
+Nezaražena područja iz točke III. ove Naredbe sastoje se od »sektora« (već utvrđene administrativne jedinice koje čine skupine »bazena«) ili »bazena« (jedinice navodnjavanja), a identificiraju se po svojim pojedinačnim službenim brojčanim oznakama.
+2. Zahtjevi koji se odnose na gomolje krumpira namijenjene uvozu u Republiku Hrvatsku
+2.1. Gomolji krumpira namijenjeni uvozu u Republiku Hrvatsku moraju u Egiptu biti podvrgnuti intenzivnom sustavu kontrole, kojim je zajamčena odsutnost štetnog organizma. Intenzivan sustav kontrole mora obuhvatiti uvjete proizvodnje, preglede u polju, prijevoz, pakiranje, preglede prije izvoza i testiranje.
+2.2. Gomolji krumpira koji se uvoze u Republiku Hrvatsku moraju biti:
+(a) razdijeljeni u partije, od kojih se svaka mora sastojati isključivo od gomolja krumpira koji potječe iz jednog područja, kao što je navedeno u točki 1. ovoga Priloga;
+(b) jasno označeni etiketom ušivenom na svaku zapečaćenu vreću, pod nadzorom egipatskog nadležnog tijela, s neizbrisivom službenom brojčanom oznakom navedenom u popisu odobrenih nezaraženih područja iz točke III. ove Naredbe, te odgovarajućim brojem partije;
+(c) praćeni službenim fitosanitarnim certifikatom, u skladu sa Zakonom o biljnom zdravstvu[2] (»Narodne novine«, br. 75/05 i 55/11) (u daljnjem tekstu: Zakon) i Pravilnikom, u kojem u rubrici »Karakteristične oznake« mora biti naveden broj ili brojevi partija, a u rubrici »Dopunska izjava« pojedinačne službene brojčane oznake navedene u točki 2.2.(b) ovoga Priloga;
+(d) izvezeni od strane službeno registriranog izvoznika, čije ime ili trgovačka marka mora biti naznačena na svakoj pošiljci.
+3. Zahtjevi koji se odnose na mjesta ulaska
+Fitosanitarni inspektor na mjestu ulaska mora biti unaprijed obaviješten o vjerojatnom vremenu prispijeća pošiljke gomolja krumpira podrijetlom iz Egipta i njegovoj količini.
+4. Zahtjevi koji se odnose na preglede
+4.1. Pošiljka krumpira na mjestu ulaska podliježe fitosanitarnom pregledu sukladno Zakonu i Pravilniku. Inspekcijski pregled mora se obaviti rezanjem gomolja, pri čemu se svaki uzeti uzorak mora sastojati najmanje od 200 gomolja. Uzorci se moraju uzeti iz svake partije u pošiljci, ili ako je partija veća od 25 tona, iz svakih dodatnih 25 tona ili dijela te količine.
+4.2. Sve partije pošiljke moraju ostati pod službenim nadzorom i nijedna se ne smije staviti na tržište ili upotrijebiti sve dok se istraživanjem ne utvrdi da nema zaraze ili sumnje na zarazu štetnim organizmom. U slučajevima kad se u partiji otkriju tipični simptomi ili se posumnja na prisutnost štetnog organizma, sve preostale partije u pošiljci i partije drugih pošiljki koje potječu iz istog područja moraju ostati pod službenim nadzorom sve dok se ne potvrdi ili ne opovrgne sumnja na prisutnost štetnog organizma u toj partiji.
+4.3. Ako se fitosanitarnim pregledom otkriju tipični simptomi ili se posumnja na prisutnost štetnog organizma, prisutnost ili odsutnost štetnog organizma utvrđuje se testom provedenim u skladu sa shemom testiranja propisanom Pravilnikom o provođenju sustavnog istraživanja i mjera za sprječavanje širenja i suzbijanje smeđe truleži gomolja krumpira i bakterijskog venuća krumpira i rajčice, koju prouzrokuje bakterija Ralstonia solanacearum (Smith) Yabuuchi et al.[3] (»Narodne novine«, br. 119/06 i 89/08). Ako se potvrdi prisutnost štetnog organizma zabranit će se unošenje pošiljke, ili će se ona uputiti na odredište izvan Republike Hrvatske, ili uništiti.
+5. Zahtjevi koji se odnose na otkrivanje skrivene zaraze
+5.1. Uz inspekcijske preglede navedene u točki 4. ovoga Priloga, na uzorcima uzetim iz svih područja navedenih u točki 1. ovoga Priloga mora se provesti testiranje na skrivenu zarazu prema shemi testiranja propisanoj Pravilnikom o provođenju sustavnog istraživanja i mjera za sprječavanje širenja i suzbijanje smeđe truleži gomolja krumpira i bakterijskog venuća krumpira i rajčice, koju prouzrokuje bakterija Ralstonia solanacearum (Smith) Yabuuchi et al. Tijekom sezone uvoza mora se uzeti najmanje jedan uzorak iz svakog sektora ili bazena po području, i to 200 gomolja po uzorku iz pojedine partije. Uzorak uzet radi testiranja na skrivenu zarazu mora se pregledati i metodom rezanja gomolja. Od svakog se uzorka na kojem se testiranjem potvrdi zaraza preostali ekstrakt krumpira mora zadržati i prikladno konzervirati.
+5.2. Sve partije iz kojih su uzeti uzorci moraju ostati pod službenim nadzorom i nijedna se ne smije staviti na tržište ili upotrijebiti sve dok se testiranjem ne utvrdi da nema zaraze štetnim organizmom. Ako se potvrdi prisutnost štetnog organizma zabranit će se unošenje pošiljke, ili će se ona uputiti na odredište izvan Republike Hrvatske, ili uništiti.
+6. Zahtjevi koji se odnose na obavještavanje
+U slučaju sumnje na zarazu ili kad se utvrdi zaraza štetnim organizmom, nadležna uprava o tome odmah izvještava Egipat. Obavijest se mora temeljiti na pozitivnom rezultatu dobivenom pomoću brzog(ih) testa(ova) provjere iz Priloga II., odjeljka I., točke 1. i odjeljka II. ili brzim testom(ovima) provjere iz Priloga II., odjeljka I., točke 2. i odjeljka III. Pravilnika o provođenju sustavnog istraživanja i mjera za sprječavanje širenja i suzbijanje smeđe truleži gomolja krumpira i bakterijskog venuća krumpira i rajčice, koju prouzrokuje bakterija Ralstonia solanacearum (Smith) Yabuuchi et al.
+7. Zahtjevi koji se odnose na označavanje
+Na etiketi koja se nalazi na pakiranju krumpira podrijetlom iz Egipta mora, uz podatke propisane drugim materijalnim propisima, biti navedeno i sljedeće:
+- da je krumpir podrijetlom iz Egipta,
+- naziv izvoznika
+- da je zabranjena sadnja krumpira,
+- službena brojčana oznaka nezaraženog područja (sektora ili bazena) u kojem je krumpir proizveden, u skladu s točkom 1. ovoga Priloga,
+- broj partije,
+- naziv sorte,
+- težina.
+Otpad nastao prilikom pakiranja ili prerade gomolja krumpira mora se na odgovarajući način zbrinuti kako bi se spriječilo širenje štetnog organizma koje je posljedica skrivene zaraze.
+[1] Pravilnikom se preuzimaju odredbe Direktive Vijeća 2000/29/EZ od 8. svibnja 2000. o mjerama zaštite od unošenja u Zajednicu organizama štetnih za bilje ili biljne proizvode i njihova širenja unutar Zajednice
+[2] Zakonom se preuzimaju odredbe Direktive Vijeća 2000/29/EZ od 8. svibnja 2000. o mjerama zaštite od unošenja u Zajednicu organizama štetnih za bilje ili biljne proizvode i njihova širenja unutar Zajednice
+[3] Pravilnikom se preuzimaju odredbe Direktive Komisije 2006/63/EZ od 14. srpnja 2006. kojom se mijenjaju i dopunjuju Prilozi II. do VII. Direktive Vijeća 98/57/EZ o suzbijanju bakterije Ralstonia solanacearum (Smith) Yabuuchi et al.
+26 01.03.2013 Naredba o privremenim hitnim mjerama za sprječavanje unošenja i širenja bakterije Ralstonia solanacearum (Smith) Yabuuchi et al. iz Egipta
