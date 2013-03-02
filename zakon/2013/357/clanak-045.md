@@ -1,0 +1,2 @@
+# Članak 45.
+Carinska uprava je nadležna za provedbu Uredbe Vijeća (EU) br. 389/2012 od 2. svibnja 2012. o administrativnoj suradnji u području trošarina i stavljanju izvan snage Uredbe (EZ) br. 2073/2004 (SL L 121, 8. 5. 2012., str. 1.) i Uredbe Komisije (EZ) br. 684/2009 od 24. srpnja 2009. o provedbi Direktive Vijeća 2008/118/EZ s obzirom na računalnu obradu postupaka za kretanje trošarinske robe u sustavu odgode plaćanja trošarine (SL L 197, 29. 7. 2009., str. 24-64).

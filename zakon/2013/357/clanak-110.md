@@ -1,0 +1,6 @@
+# Članak 110.
+(1) Na predmete oporezivanja za koje je obveza obračunavanja trošarine nastala do dana stupanja na snagu ovoga Zakona, trošarina se obračunava i plaća prema Zakonu o trošarinama (»Narodne novine«, br. 83/09. i 111/12.).
+(2) Upravni i prekršajni postupci koji su započeti prije stupanja na snagu ovoga Zakona okončat će se prema propisima koji su važili do dana stupanja na snagu ovoga Zakona.
+(3) Iznimno od stavka 2. ovoga članka, svi prekršajni postupci koji su započeti prije stupanja na snagu ovoga Zakona okončat će se po odredbama ovoga Zakona ako je to povoljnije za počinitelja prekršaja.
+(4) Svi prekršajni postupci koji su započeti prije stupanja na snagu ovoga Zakona za prekršajna djela koja nisu propisana ovim Zakonom obustavit će se.
+(5) Ako su trošarinski proizvodi prije dana pristupanja Republike Hrvatske Europskoj uniji uvezeni na teritorij Republike Hrvatske iz druge države članice i ako je za te trošarinske proizvode prije stupanja na snagu ovoga Zakona započeo neki od carinskih postupaka s odgodom prema odredbama Carinskog zakona (»Narodne novine«, br. 78/99., 94/99., 117/99., 73/00., 92/01., 47/03., 140/05., 138/06., 60/08., 45/09. i 56/10.), trošarina se obračunava prema stopama, odnosno iznosima koji su na snazi u trenutku puštanja u potrošnju tih proizvoda na teritoriju Republike Hrvatske.

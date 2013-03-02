@@ -1,0 +1,3 @@
+# Članak 113.
+(1) Visina trošarine za pojedine trošarinske proizvode usklađuje se jednom godišnje s vrijednošću eura. Primjenjuje se tečaj Europske središnje banke (ECB) objavljen u Službenom listu Europske unije, koji vrijedi prvog radnog dana u mjesecu listopadu. Novi iznosi trošarina, usklađeni s tečajem eura počinju se primjenjivati 1. siječnja sljedeće kalendarske godine.
+(2) Ako preračunavanjem iznosa trošarine izražene u eurima dođe do porasta trošarine izražene u nacionalnoj valuti za manje od 5% ili 5 eura, koji god je iznos manji, može se zadržati visina trošarine koja je na snazi u vrijeme godišnjeg usklađivanja kako je predviđeno stavkom 1. ovoga članka.

@@ -1,0 +1,4 @@
+## Drugi dokazi o završetku kretanja
+# Članak 17.
+(1) U posebno opravdanim slučajevima kada ne postoji potvrda o primitku ili potvrda o izvozu iz razloga koji su različiti od onih iz članaka 15. i 16. ovoga Zakona, Carinska uprava može prihvatiti od primatelja i drugi dokaz o završetku kretanja trošarinskih proizvoda u sustavu odgode plaćanja trošarine pod uvjetom da taj dokument sadrži iste podatke kao i potvrda o primitku ili potvrda o izvozu i ako ga je ovjerilo nadležno tijelo države članice odredišta ili nadležno tijelo države članice izvoza kad su trošarinski proizvodi otpremljeni u drugu državu članicu.
+(2) U slučaju kada prihvati dokument iz stavka 1. ovoga članka, Carinska uprava će koristeći računalni sustav potvrditi da je kretanje trošarinskih proizvoda završeno u skladu s člankom 10. stavkom 2. ovoga Zakona.

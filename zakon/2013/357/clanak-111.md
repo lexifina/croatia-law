@@ -1,0 +1,7 @@
+# Članak 111.
+(1) Prijave za posebno utvrđena skladišta za prodaju označenih plinskih ulja za grijanje sukladno članku 75. stavku 2. Zakona o trošarinama (»Narodne novine«, br. 83/09. i 111/12.), ostaju važeće i prema ovom Zakonu.
+(2) Benzinske postaje - prodavatelji plinskog ulja obojenog plavom bojom za namjene iz članka 92. Zakona o trošarinama (»Narodne novine«, br. 83/09. i 111/12.), obvezni su popisati zalihe plinskog ulja obojenog plavom bojom, sa stanjem na dan stupanja na snagu ovoga Zakona, i o tome sastaviti zapisnik te ga dostaviti nadležnom carinskom uredu u roku od 15 dana od dana stupanja na snagu ovoga Zakona.
+(3) Prodaja popisanih zaliha iz stavka 2. ovoga članka moguća je do isteka zaliha, a najkasnije šest mjeseci od uspostave kartičnog poslovanja i sustava povrata samo korisnicima plinskih ulja za namjene u poljoprivredi, ribolovu, ribogojstvu i akvakulturi iz članka 92. ovoga Zakona, uz obvezu vođenja evidencije o prodaji.
+(4) Nakon prodaje ukupnih količina zaliha iz stavka 2. ovoga članka prodavatelj mora u roku od osam dana nadležnom carinskom uredu dostaviti evidenciju iz stavka 3. ovoga članka.
+(5) Prodavatelji koji vrše prodaju popisanih zaliha iz stavka 2. ovoga članka nemaju pravo na povrat trošarine propisan člankom 93. ovoga Zakona.
+(6) Odredbe stavaka 2., 3., 4. i 5. ovoga članka neće se primjenjivati do uspostave kartičnog poslovanja i sustava povrata.

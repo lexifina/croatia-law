@@ -1,0 +1,2 @@
+# Članak 105.
+Za prekršaj iz članka 102. stavka 1. točaka 44., 46., 47., 50., 52., 53., 56., 57., 58., 59., 60., 62., 68., 76., 77., 80., 81., 82., 84., 85., 87., 89., 90. i 92. ovoga Zakona, za prekršaj iz članka 102. stavka 2. točaka 32. i 33. ovoga Zakona te za prekršaj iz članka 102. stavka 3. točaka 2., 3., 4., 5. i 6. ovoga Zakona, uz novčanu kaznu može se izreći zaštitna mjera zabrane obavljanja djelatnosti u trajanju od jednog mjeseca do godinu dana.

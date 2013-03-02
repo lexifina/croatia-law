@@ -1,0 +1,19 @@
+## GLAVA XI.
+## REGISTRIRANI PRIMATELJ, REGISTRIRANI POŠILJATELJ I POREZNI ZASTUPNIK ZA PRODAJU NA DALJINU
+## Registrirani primatelj
+# Članak 40.
+(1) Registrirani primatelj u okviru svoje registrirane djelatnosti može primati trošarinske proizvode iz druge države članice u sustavu odgode plaćanja trošarine ako ima sjedište, odnosno prebivalište ili podružnicu u Republici Hrvatskoj i ako za to dobije odobrenje carinskog ureda nadležnog prema njegovu sjedištu, odnosno prebivalištu ili sjedištu podružnice. Registrirani primatelj ne smije skladištiti niti otpremati trošarinske proizvode u sustavu odgode plaćanja trošarine.
+(2) Odobrenje iz stavka 1. ovoga članka donosi carinski ured temeljem pisanog zahtjeva koji mora sadržavati sljedeće podatke: identifikacijske podatke podnositelja zahtjeva, osobni identifikacijski broj (OIB), opis djelatnosti, kategoriju i vrstu te tarifnu oznaku trošarinskog proizvoda za koje se traži odobrenje, mjesto primitka trošarinskih proizvoda, puno ime odgovorne osobe podnositelja zahtjeva i podatke o ispunjavanju uvjeta za provedbu nadzora, opis rada računovodstvenog sustava. Uz zahtjev prilaže i izjavu da će prije nego počne primati trošarinske proizvode u sustavu odgode plaćanja trošarine položiti instrument osiguranja plaćanja trošarine.
+(3) Odobrenje se izdaje na ime podnositelja zahtjeva bez prava prijenosa na drugu osobu i neće se izdati osobi koja pravodobno i u cijelosti ne podmiruje trošarinske, porezne i carinske obveze, koja je teže kršila ili je ponavljala kršenja odredbi trošarinskih, poreznih ili carinskih propisa te koja ne ispunjava uvjete za elektroničku razmjenu podataka o kretanju trošarinskih proizvoda.
+(4) Registrirani primatelj mora:
+− Carinskoj upravi položiti instrument osiguranja plaćanja trošarine prije nego što počne primati trošarinske proizvode u sustavu odgode plaćanja trošarine za trošarinske proizvode,
+- po završetku kretanja upisati u evidenciju sve trošarinske proizvode koji su primljeni u sustavu odgode plaćanja trošarine, po kategoriji i vrsti trošarinskog proizvoda, trgovačkom nazivu i tarifnoj oznaci iz Kombinirane nomenklature, količini, datumu primitka, pošiljatelju te jedinstvenoj referentnoj oznaci e-TD-a,
+− obavijestiti carinski ured o svim izmjenama podataka navedenim u odobrenju,
+− osigurati nesmetano obavljanje nadzora.
+(5) Visinu iznosa instrumenta osiguranja plaćanja trošarine za trošarinske proizvode koji se primaju u sustavu odgode plaćanja trošarine iz druge države članice utvrđuje carinski ured ovisno o iznosu mogućeg trošarinskog duga.
+(6) Osiguranje plaćanja trošarine nije potrebno kada se iz druge države članice u sustavu odgode plaćanja trošarine primaju trošarinski proizvodi za koje visina trošarine iznosi nula kuna.
+(7) Odobrenje kojim se usvaja zahtjev postaje izvršno danom dostave.
+(8) Odobrenje iz stavka 1. ovoga članka prestaje važiti s prestankom pravne osobe, kada fizička osoba umre, vraćanjem odobrenja carinskom uredu ili kada carinski ured ukine odobrenje.
+(9) Carinski ured ukida odobrenje osobito: ako registrirani primatelj prestane ispunjavati uvjete navedene u odobrenju; ako ne osigurava odgovarajući sustav nadzora; ako ne dostavi odgovarajući instrument osiguranja plaćanja trošarine ili ako ga ne dostavi u iznosu koji može osigurati plaćanje trošarinskog duga; ako prestanu postojati razlozi i uvjeti na temelju kojih je odobrenje izdano; ako je odobrenje izdano na temelju nepotpunih ili netočnih podataka; ako ne ukloni nepravilnosti u roku koji mu je odredio carinski ured; ako sudjeluje u vršenju kažnjivih radnji; ako utaji trošarinu.
+(10) Žalba protiv ukidanja odobrenja ne odgađa izvršenje odluke. Carinski ured može do odluke o žalbi odgoditi ukidanje odobrenja ako ocijeni da će žalba biti usvojena.
+(11) Ministar financija pravilnikom propisuje posebnosti provedbe ovoga članka.

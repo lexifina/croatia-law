@@ -1,0 +1,9 @@
+# Članak 2.
+Ovim se Zakonom u pravni poredak Republike Hrvatske prenose sljedeće direktive:
+- Direktiva Vijeća 2008/118/EZ od 16. prosinca 2008. o općem sustavu trošarina i koja ukida Direktivu 92/12/EEZ (SL L 9, 14. 1. 2009., str. 12.);
+- Direktiva Vijeća 92/83/EEZ od 19. listopada 1992. o usklađivanju struktura trošarina na alkohol i alkoholna pića (SL L 316, 31. 10. 1992., str. 21.);
+- Direktiva Vijeća 92/84/EEZ od 19. listopada 1992. o usklađivanju stopa trošarina na alkohol i alkoholna pića (SL L 316, 31. 10. 1992., str. 29.);
+- Direktiva Vijeća 95/60/EZ od 27. studenoga 1995. o fiskalnom označavanju plinskog ulja i kerozina (SL L 291, 6. 12. 1995., str. 46.);
+- Direktiva Vijeća 2003/96/EEZ od 27. listopada 2003. o restrukturiranju okvira Zajednice za oporezivanje energenata i električne energije (SL L 283, 31. 10. 2003., str. 51.), izmijenjena i dopunjena Direktivom Vijeća 2004/74/EZ kojom se mijenja i dopunjuje Direktiva 2003/96/EZ s obzirom na mogućnost da neke države članice primijene privremena izuzeća ili snižene razine oporezivanja za energetske proizvode i električnu energiju (SL L 157, 30. 4. 2004., str. 87.) i Direktivom Vijeća 2004/75/EZ od 29. travnja 2004. kojom se izmjenjuje i dopunjuje Direktiva 2003/96/EZ s obzirom na mogućnost da Cipar primijeni privremena izuzeća ili smanjenja razine oporezivanja energenata i električne energije (SL L 157, 30. 4. 2004., str. 100.), (u daljnjem tekstu: Energetska direktiva);
+- Direktiva Vijeća 2010/12/EU od 16. veljače 2010. o izmjenama i dopunama Direktiva 92/79/EEZ, 92/80/EEZ i 95/59/EZ s obzirom na strukturu i stope trošarine koje vrijede za prerađeni duhan te Direktive 2008/118/EZ (SL L 50, 27. 2. 2010., str. 1.);
+- Direktiva Vijeća 2011/64/EU od 21. lipnja 2011. o strukturi i stopama trošarine koje vrijede za prerađeni duhan (Kodificirani tekst) (SL L 176, 5. 7. 2011., str. 24.).

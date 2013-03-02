@@ -1,0 +1,4 @@
+## Trošarinski dokument
+# Članak 11.
+(1) Kretanje trošarinskih proizvoda u sustavu odgode plaćanja trošarine dozvoljeno je samo uz elektronički trošarinski dokument (u daljnjem tekstu: e-TD) u Sustavu kontrole kretanja trošarinskih proizvoda kojim se dokazuje da se navedene vrste i količine trošarinskih proizvoda kreću u sustavu odgode plaćanja trošarine, osim ako ovim Zakonom ili nekim drugim propisom nije drukčije propisano.
+(2) Iznimno od stavka 1. ovoga članka, kretanje trošarinskih proizvoda iz članka 8. stavka 1. točke 2. ovoga Zakona koje se u sustavu odgode plaćanja trošarine u cijelosti odvija na teritoriju Republike Hrvatske dozvoljeno je uz papirnati prateći trošarinski dokument (u daljnjem tekstu: PTD). PTD je isprava koja prati pošiljku trošarinskih proizvoda kojom se dokazuje da se navedene vrste i količine trošarinskih proizvoda kreću u sustavu odgode plaćanja trošarine.
