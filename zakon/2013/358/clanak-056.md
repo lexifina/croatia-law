@@ -1,0 +1,5 @@
+## Sudionici na tržištu električne energije
+# Članak 56.
+(1) Sudionik na tržištu električne energije (u daljnjem tekstu: sudionik) može biti elektroenergetski subjekt ili druga pravna i fizička osoba koja kupuje ili prodaje električnu energiju temeljem prava na sudjelovanje na tržištu električne energije u skladu s odredbama ovog Zakona te pravilima organiziranja tržišta električne energije.
+(2) Sudionici na tržištu električne energije ugovorno uređuju međusobna prava i obveze u skladu s odredbama ovog Zakona, zakona kojim se uređuje energetski sektor, a posebice pravila organiziranja tržišta električne energije, osim ugovora o opskrbi krajnjeg kupca.
+(3) Operator prijenosnog sustava, operator distribucijskog sustava i operator tržišta električne energije su posebni sudionici s obzirom na obvezu kupnje električne energije za pokriće gubitaka u prijenosnoj i distribucijskoj mreži, na kupnju i prodaju energije uravnoteženja, kupnju i prodaju električne energije proizvedene iz obnovljivih izvora energije i kogeneracije te na trgovanje na burzi električne energije, a čije se posebitosti detaljnije uređuju pravilima organiziranja tržišta električne energije.

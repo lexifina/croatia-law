@@ -1,0 +1,8 @@
+## XI. PRISTUP MREŽI
+## Pristup mreži
+# Članak 68.
+(1) Operator prijenosnog sustava ili operator distribucijskog sustava dužan je korisnicima mreže omogućiti pristup mreži na nepristran način prema načelu reguliranog pristupa treće strane, sukladno općim uvjetima za korištenje mreže i opskrbu električnom energijom, uvjetima priključenja, mrežnim pravilima prijenosnog sustava i mrežnim pravilima distribucijskog sustava te objektivnim i nepristranim cijenama za korištenje mreže.
+(2) Operator prijenosnog sustava ili operator distribucijskog sustava nadležan je za izgradnju priključka korisnika mreže i stvaranje tehničkih uvjeta u prijenosnoj ili distribucijskoj mreži.
+(3) Podaci o mogućnostima korištenja prijenosne, odnosno distribucijske mreže su javni i aktualiziraju se jedanput godišnje te javno objavljuju na primjeren način.
+(4) Operator prijenosnog sustava ili operator distribucijskog sustava može odbiti ili ograničiti pristup mreži zbog ograničenih tehničkih ili pogonskih mogućnosti sustava, zbog radova na održavanju i izgradnji sustava ili zbog ugrožavanja života ljudi ili imovine. Po odbijanju ili ograničavanju pristupa mreži korisnicima mreže kojima je odbijen ili ograničen pristup moraju se priopćiti razlozi i razdoblje odbijanja pristupa te aktivnosti u cilju otklanjanja navedenih razloga, potkrijepljeni pisanim dokazima koji su utemeljeni na objektivnim, nepristranim, tehnički i ekonomski opravdanim kriterijima.
+(5) Korisnik mreže kojem je odbijen ili ograničen pristup mreži ili je nezadovoljan uvjetima pristupa može izjaviti žalbu Agenciji. Protiv odluke Agencije nije dopuštena žalba, ali se može pokrenuti upravni spor pred nadležnim upravnim sudom, što ne odgađa izvršenje odluke. Postupak pred upravnim sudom je hitan.

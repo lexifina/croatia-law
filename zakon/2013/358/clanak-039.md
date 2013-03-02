@@ -1,0 +1,25 @@
+## Odgovornosti operatora distribucijskog sustava
+# Članak 39.
+Operator distribucijskog sustava osobito je odgovoran za:
+1. pogon distribucijskog sustava u koordinaciji s prijenosnim sustavom u Republici Hrvatskoj,
+2. razvoj distribucijske mreže kojim se osigurava dugoročna sposobnost distribucijske mreže da ispuni razumne zahtjeve za distribucijom električne energije,
+3. održavanje i izgradnju distribucijske mreže te dijela proizvodnje jalove električne energije,
+4. izgradnju priključka korisnika distribucijske mreže i stvaranja tehničkih uvjeta za priključenje korisnika prema uvjetima propisanim u ovom Zakonu, Zakonu o energiji, Zakonu o regulaciji energetskih djelatnosti i ostalim propisima kojima se uređuje to područje,
+5. vođenje distribucijskog sustava na način kojim se postiže pouzdanost opskrbe električnom energijom i ekonomično korištenje distribucijske mreže,
+6. osiguravanje pristupa mreži i korištenja distribucijske mreže kupcima i proizvođačima, korisnicima distribucijske mreže prema reguliranim, transparentnim i nepristranim načelima,
+7. obavljanje dužnosti definiranih u posebnim drugim propisima u svezi s krajnjim kupcima koji su proglašeni ugroženim kupcima prema odredbama ovoga Zakona i propisa koji su doneseni na temelju ovoga Zakona,
+8. osiguravanje usklađenog pogona distribucijskog sustava s priključenim mrežama ostalih operatora i postrojenjima korisnika,
+9. nabavu energije za pokriće gubitaka u distribucijskoj mreži prema tržišnim načelima, transparentnosti i nepristranosti,
+10. osiguravanje pomoćnih usluga u distribucijskoj mreži u distribucijskom sustavu prema načelima razvidnosti i nepristranosti te po reguliranim uvjetima do uspostave uvjeta funkcionalnog tržišta električne energije u skladu sa člankom 38. stavkom 9. ovoga Zakona,
+11. dostavljanje operatoru tržišta električne energije obračunskih podataka o preuzetoj električnoj energiji od povlaštenih proizvođača priključenih na distribucijsku mrežu poglavito radi obračuna i izdavanja jamstva podrijetla električne energije s obzirom na primarni izvor energije,
+12. preuzimanje na prioritetan način ukupne količine električne energije isporučene u mrežu od povlaštenih proizvođača priključenih na distribucijsku mrežu, ako su zadovoljeni zahtjevi vezani uz održavanje pouzdanosti i sigurnosti pogona posebno prema mrežnim pravilima distribucijskog sustava,
+13. raspoloživost distribucijskog sustava s obzirom na opskrbu kupaca električnom energijom, odnosno preuzimanje električne energije od proizvođača priključenih na distribucijsku mrežu,
+14. praćenje provedbe svih svojih dužnosti, a posebno u pogledu osiguranja načela razvidnosti, objektivnosti i nepristranosti, uz obvezu izdavanja godišnjeg izvješća temeljem prethodne suglasnosti Agencije,
+15. praćenje provedbe mrežnih pravila distribucijskog sustava, uz obvezu izdavanja godišnjeg izvješća temeljem prethodne suglasnosti Agencije,
+16. praćenje gubitaka u distribucijskoj mreži i godišnju analizu gubitaka, kao i planiranje gubitaka radi nabave, uz obvezu izdavanja godišnjeg izvješća temeljem prethodne suglasnosti Agencije,
+17. praćenje sigurnosti opskrbe električnom energijom u distribucijskom sustavu, uz obvezu izdavanja godišnjeg izvješća temeljem prethodne suglasnosti Agencije koja po izdavanju godišnje izvješće prosljeđuje Ministarstvu,
+18. pružanje informacija energetskim subjektima i korisnicima distribucijske mreže koje su potrebne za učinkovit pristup mreži i korištenje distribucijske mreže, prema načelima razvidnosti i nepristranosti,
+19. osnivanje i vođenje registra ugroženih kupaca,
+20. pružanje informacija o budućim potrebama za električnom energijom te ostalih informacija potrebnih operatoru prijenosnog sustava i Agenciji,
+21. primjenu mjera poboljšanja energetske učinkovitosti,
+22. davanje dužne pozornosti zaštiti prirode i okoliša.

@@ -1,0 +1,5 @@
+## Zaštita od postupanja operatora prijenosnog sustava
+# Članak 34.
+(1) Strana nezadovoljna radom operatora prijenosnog sustava može izjaviti prigovor Agenciji u pisanom obliku.
+(2) Prigovor iz stavka 1. ovoga članka podnosi se u vezi s odbijanjem priključka na prijenosnu mrežu, uvjetima priključenja na prijenosnu mrežu, određivanjem naknade za priključenje i/ili povećanje priključne snage na prijenosnu mrežu, primjenom metodologije za određivanje iznosa tarifnih stavki za korištenje prijenosne mreže, primjenom pravila o uravnoteženju elektroenergetskog sustava, pružanjem usluga uravnoteženja električne energije u elektroenergetskom sustavu i dodjelom kapaciteta na prekograničnim prijenosnim vodovima.
+(3) Agencija je dužna bez odgode, a najkasnije u roku od 30 dana od dana izjavljivanja prigovora, obavijestiti nezadovoljnu stranu u pisanom obliku o mjerama koje je u povodu prigovora poduzela. Ako nezadovoljna strana nije zadovoljna poduzetim mjerama ili u propisanom roku nije obaviještena o poduzetim mjerama može pokrenuti upravni spor.

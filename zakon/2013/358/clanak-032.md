@@ -1,0 +1,4 @@
+## Godišnja izvješća operatora prijenosnog sustava
+# Članak 32.
+(1) Operator prijenosnog sustava obvezan je, najkasnije do 30. travnja tekuće godine, objaviti godišnje izvješće o provedbi svih svojih djelatnosti, odgovornosti i dužnosti iz članaka 28., 29. i 30. ovoga Zakona.
+(2) Operator prijenosnog sustava obvezan je, najkasnije do 30. travnja tekuće godine, objaviti uz prethodnu suglasnost Agencije godišnje izvješće o sigurnosti opskrbe u prijenosnom sustavu za prethodnu godinu na temelju kojeg Ministarstvo izrađuje vlastito godišnje izvješće o stanju sigurnosti opskrbe električnom energijom i očekivanim potrebama za električnom energijom u Republici Hrvatskoj. Agencija, u suradnji s Ministarstvom, na temelju tih izvješća može zahtijevati od operatora prijenosnog sustava i ostalih elektroenergetskih subjekata provedbu određenih mjera u slučaju potrebe radi poboljšanja sigurnosti opskrbe električnom energijom.

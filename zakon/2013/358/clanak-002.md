@@ -1,0 +1,3 @@
+## Primjena pravne stečevine EU
+# Članak 2.
+Ovim se Zakonom u zakonodavstvo Republike Hrvatske prenosi pravna stečevina Europske unije iz područja energetike, a posebice Direktiva 2009/72/EZ Europskog parlamenta i Vijeća od 13. srpnja 2009. o zajedničkim pravilima za unutarnje tržište električne energije i opozivu Direktive 2003/54/EZ (SL. L. 211/55, 14. 8. 2009.), Direktiva 2009/28/EZ Europskog parlamenta i Vijeća od 23. travnja 2009. o promicanju uporabe energije iz obnovljivih izvora energije i dopuni te naknadnom ukidanju Direktive 2001/77/EZ i Direktive 2003/30/EZ (SL. L. 140/16, 5. 6. 2009.) i Direktiva 2005/89/EZ Europskog parlamenta i Vijeća od 18. siječnja 2006. o mjerama zaštite sigurnosti opskrbe električnom energijom i investicija u infrastrukturu.
