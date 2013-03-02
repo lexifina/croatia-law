@@ -1,0 +1,3 @@
+# Članak 1.
+(1) Ovim Pravilnikom propisuje se način i postupak izvještavanja policijske uprave odnosno policijske postaje Ministarstva unutarnjih poslova prema mjestu prebivališta, odnosno sjedišta vlasnika oružja (u daljnjem tekstu: nadležno tijelo), koji je obvezan provoditi izabrani doktor medicine primarne zdravstvene zaštite, kao i svaki drugi doktor medicine koji ima saznanja o promjeni zdravstvenog stanja vlasnika oružja ili tijeku liječenja koji utječu na sposobnost za držanje i nošenje oružja.
+(2) Izrazi koji se koriste u ovome Pravilniku, a koji imaju rodno značenje, bez obzira jesu li korišteni u muškom ili ženskom rodu, obuhvaćaju na jednak način muški i ženski rod.
