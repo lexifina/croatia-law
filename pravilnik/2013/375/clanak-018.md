@@ -1,0 +1,4 @@
+# Članak 18.
+(1) Drugostupanjskoj zdravstvenoj komisiji mora biti dostupna medicinska dokumentacija o prethodnim zdravstvenim pregledima osobe na čije je uvjerenje izjavljena žalba, a po potrebi i sva ostala medicinska dokumentacija.
+(2) Ako je nužno u svrhu utvrđivanja dijagnostičkih i diferencijalno-dijagnostičkih odrednica, osoba na čije je uvjerenje izjavljena žalba može biti upućena na proširenu medicinsku obradu, preglede i pretrage u zdravstvene ustanove ili trgovačka društva ili na pregled kod određenog doktora medicine, specijalista.
+(3) Medicinska i sva ostala dokumentacija, na temelju koje je dana ocjena zdravstvene sposobnosti iz članka 16. ovoga Pravilnika, drugostupanjska zdravstvena komisija obvezna je čuvati sukladno odredbama posebnoga zakona kojim se propisuje čuvanje arhivskog i registraturnog gradiva.

@@ -1,0 +1,5 @@
+# Članak 4.
+(1) Prije početka zdravstvenog pregleda iz članka 3. stavka 1. ovoga Pravilnika, osoba koja će se pregledati mora prethodno pribaviti mišljenje svoga izabranog liječnika koje nije starije od 30 dana od dana početka zdravstvenog pregleda. Izabrani liječnik izdaje mišljenje na obrascu čiji su izgled i sadržaj utvrđeni u Prilogu I. koji je otisnut uz ovaj Pravilnik i čini njegov sastavni dio.
+(2) Prilikom zdravstvenih pregleda iz članka 3. stavka 1. ovoga Pravilnika, specijalist medicine rada mora zatražiti uvid u zdravstvenu dokumentaciju osobe na pregledu, a koja je pohranjena kod njegovog izabranog liječnika, drugih doktora medicine ili u drugim zdravstvenim ustanovama ili trgovačkim društvima.
+(3) Izjavu o pristanku pristupu medicinskoj dokumentaciji kao i o pristanku na obavljanje probirnog testa na droge i testa na alkohol, osoba na pregledu potpisuje u karton zdravstvenog pregleda.
+(4) Osoba koja ne potpiše izjavu iz stavka 3. ovoga članka ne može pristupiti zdravstvenom pregledu za držanje i nošenje oružja.

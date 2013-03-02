@@ -1,0 +1,3 @@
+# Članak 6.
+(1) Zdravstvene preglede iz članka 5. ovoga Pravilnika obavljaju: doktor medicine, specijalist medicine rada; doktor medicine, specijalist oftalmolog i doktor medicine, specijalist psihijatar ili neuropsihijatar te psiholog. Nakon liječničkog pregleda svaki od specijalista određene specijalnosti koji je sudjelovao u pregledu i psiholog koji je obavio psihologijsku obradu, daju ocjenu o zdravstvenoj sposobnosti za držanje i nošenje oružja (u daljnjem tekstu: ocjena zdravstvene sposobnosti).
+(2) Uvjerenje o zdravstvenoj sposobnosti za držanje i nošenje oružja potpisuje doktor medicine, specijalist medicine rada u ovlaštenoj zdravstvenoj ustanovi, trgovačkom društvu ili privatnoj ordinaciji medicine rada.
