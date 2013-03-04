@@ -1,0 +1,1 @@
+Na temelju članka 29. točka 3. i točka 5. Zakona o izboru članova u Europski parlament iz Republike Hrvatske (»Narodne novine« broj 92/10 i 23/13, dalje: Zakon) Državno izborno povjerenstvo Republike Hrvatske propisuje
