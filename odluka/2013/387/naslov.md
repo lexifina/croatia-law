@@ -1,0 +1,1 @@
+Odluka o provođenju međunarodnih mjera utvrđenih rezolucijom Vijeća sigurnosti Ujedinjenih naroda 1989 (2011) i 2083 (2012) u svezi sa sankcijama protiv članova organizacije Al-Qaide i drugih pojedinaca, skupina, gospodarskih subjekata i entiteta koji se povezuju Al-Qaidom
