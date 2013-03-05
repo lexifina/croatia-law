@@ -1,0 +1,1 @@
+Na temelju članka 63. stavka 2. Zakona o sustavu državne uprave (»Narodne novine«, broj 150/2011) i članka 8. stavka 2. Zakona o Državnom inspektoratu (»Narodne novine«, br. 116/2008, 123/2008 i 49/2011), Vlada Republike Hrvatske je na sjednici održanoj 21. veljače 2013. godine donijela

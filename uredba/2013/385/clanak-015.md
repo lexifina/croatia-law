@@ -1,0 +1,2 @@
+# Članak 15.
+Okvirni broj državnih službenika i namještenika potrebnih za obavljanje poslova iz djelokruga Državnog inspektorata prikazan u tablici koja je sastavni dio Uredbe o unutarnjem ustrojstvu Državnog inspektorata (»Narodne novine«, broj 31/2012) zamjenjuje se Okvirnim brojem državnih službenika i namještenika Državnog inspektorata koji je sadržan u tablici tiskanoj u privitku ove Uredbe, a čini sastavni dio Uredbe o unutarnjem ustrojstvu Državnog inspektorata.
