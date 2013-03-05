@@ -1,0 +1,1 @@
+Odluka o provođenju međunarodnih mjera utvrđenih Rezolucijom Vijeća sigurnosti Ujedinjenih naroda 1988 (2011) i 2082 (2012) u svezi sa sankcijama protiv članova organizacije Talibana i drugih pojedinaca, skupina, gospodarskih subjekata i entiteta koji se s njima povezuju
