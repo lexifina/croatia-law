@@ -1,0 +1,2 @@
+# Članak 6.
+Na temelju ovog Pravilnika, za svaku kalendarsku godinu HTZ, uz suglasnost Ministarstva turizma, objavljuje javni poziv za kandidiranje programa/projekata za dodjelu potpora, kojim se detaljnije propisuju namjene potpora, mjerila i kriteriji za odobravanje potpora, postupak kandidiranja i druga pitanja vezana za odobravanje i realizaciju potpora. Pravilnik se objavljuje na internetskim stranicama HTZ i Ministarstva turizma.
