@@ -1,0 +1,8 @@
+# Članak 10.
+Iza članka 54. dodaje se glava VI.a i članci 54.a i 54.b koji glase:
+»VI.a USKLAĐIVANJE PODRUČJA GRAĐEVNIH PROIZVODA S UREDBOM (EU) BR. 305/2011 U PRIJELAZNOM RAZDOBLJU
+Članak 54.a
+Utvrđuje se prijelazno razdoblje za uređivanje područja građevnih proizvoda u skladu s Uredbom (EU) br. 305/2011 Europskog parlamenta i Vijeća od 9. ožujka 2011. koja propisuje usklađene uvjete trgovanja građevnim proizvodima i ukida Direktivu Vijeća 89/106/EEZ (u daljnjem tekstu: Uredba 305/2011/EZ), koje traje od dana stupanja na snagu ovoga Zakona do dana pristupanja Republike Hrvatske Europskoj uniji.
+Članak 54.b
+Ministarstvo se određuje, kao tijelo ovlašteno u prijelaznom razdoblju iz članka 54.a ovoga Zakona, u svrhu usklađivanja područja građevnih proizvoda s Uredbom 305/2011/EZ, provoditi postupak prijavljivanja tijela koja provode postupke ocjenjivanja i provjere stalnosti svojstava građevnih proizvoda, provoditi postupke imenovanja tijela za tehničko ocjenjivanje i izdavanje Europske tehničke ocjene te provoditi i druge postupke i radnje s tim u vezi.
+Sustave ocjenjivanja i provjere stalnosti svojstava građevnih proizvoda, radnje koje u okviru ocjenjivanja i provjere stalnosti svojstava građevnih proizvoda provode proizvođači i pravne osobe u svojstvu prijavljenih tijela, dokumente ocjenjivanja i provjere stalnosti svojstava građevnih proizvoda, zahtjeve za prijavljena tijela, postupak prijave, obveze prijavljenih tijela te zahtjeve za imenovanje tijela za tehničko ocjenjivanje i druga pitanja potrebna za usklađivanje područja građevnih proizvoda s Uredbom 305/2011/EZ u prijelaznom razdoblju propisuje Vlada Republike Hrvatske uredbom.« .
