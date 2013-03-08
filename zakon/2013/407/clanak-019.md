@@ -1,0 +1,3 @@
+# Članak 19.
+Postupci započeti po Zakonu o arhitektonskim i inženjerskim poslovima i djelatnostima u prostornom uređenju i gradnji (»Narodne novine«, br. 152/08., 124/09. i 49/11.) do stupanja na snagu ovoga Zakona dovršit će se po odredbama tog Zakona.
+Iznimno od stavka 1. ovoga članka, postupci započeti po Zakonu o arhitektonskim i inženjerskim poslovima i djelatnostima u prostornom uređenju i gradnji (»Narodne novine«, br. 152/08., 124/09. i 49/11.) do stupanja na snagu ovoga Zakona dovršit će se po odredbama ovoga Zakona ako je to povoljnije za stranku po čijem je zahtjevu postupak započet ili ako to ona zatraži.
