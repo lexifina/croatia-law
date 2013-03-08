@@ -1,0 +1,2 @@
+# Članak 70.
+Danom izbora Povjerenika zaposlenici Odjela za pravo na pristup informacijama Agencije za zaštitu osobnih podataka preuzimaju se u Ured povjerenika i nastavljaju obavljati poslove na kojima su zatečeni na dan stupanja na snagu ovog Zakona, zadržavaju pravo na plaću te druga prava iz radnog odnosa do donošenja rješenja o rasporedu na radna mjesta, sukladno stručnoj spremi, stručnom znanju, vještinama, sposobnostima, dotadašnjem radnom iskustvu i rezultatima u radu na temelju Pravilnika o unutarnjem redu Povjerenika.

@@ -1,0 +1,5 @@
+## Ustupanje zahtjeva
+# Članak 21.
+(1) Ako tijelo javne vlasti ne posjeduje informaciju, a ima saznanja o tijelu koje je posjeduje, dužno je, bez odgode, a najkasnije u roku od osam dana od zaprimanja zahtjeva, ustupiti zahtjev tome tijelu, a o čemu će obavijestiti podnositelja. Rokovi ostvarivanja prava na pristup informaciji računaju se od dana kada je nadležno tijelo javne vlasti zaprimilo ustupljeni zahtjev.
+(2) Ako tijelo javne vlasti zaprimi zahtjev za pristup informaciji iz članka 15. stavka 2. točke 1. ovog Zakona, a nije njezin vlasnik, dužno je bez odgode, a najkasnije u roku od osam dana od zaprimanja zahtjeva, ustupiti zahtjev vlasniku informacije, o čemu će obavijestiti podnositelja.
+(3) Ako tijelo javne vlasti zaprimi zahtjev za pristup međunarodnoj informaciji, dužno je bez odgode, a najkasnije u roku od osam dana od zaprimanja zahtjeva, ustupiti isti vlasniku informacije, o čemu će obavijestiti podnositelja. Iznimno, tijelo javne vlasti postupit će po zaprimljenom zahtjevu za pristup međunarodnoj informaciji, ako je iz same informacije nedvojbeno vidljivo da je ona namijenjena neposrednoj objavi.
