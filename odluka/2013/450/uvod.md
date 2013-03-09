@@ -1,0 +1,1 @@
+Na temelju članka 11. stavka 1. podstavka 10. Zakona o regulaciji energetskih djelatnosti (»Narodne novine«, broj 120/12) i članka 29. Zakona o energiji (»Narodne novine«, broj 120/12), Hrvatska energetska regulatorna agencija je na sjednici Upravnog vijeća održanoj 22. veljače 2013. donijela

@@ -1,0 +1,1 @@
+Odluka o iznosu tarifnih stavki u Tarifnom sustavu za usluge energetskih djelatnosti proizvodnje, distribucije i opskrbe toplinskom energijom za energetski subjekt GTG Vinkovci d.o.o., Kralja Zvonimira 1, Vinkovci, u Gradu Vinkovci
