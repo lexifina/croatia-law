@@ -1,0 +1,14 @@
+# Članak 1.
+Ovaj Pravilnik sadrži odredbe koje su u skladu sa sljedećim aktima Europske unije:
+- Direktiva Komisije 2012/2/EU od 9. veljače 2012. godine o izmjenama i dopunama Direktive 98/8/EZ Europskoga parlamenta i Vijeća radi uvrštavanja bakar (II) oksida, bakar (II) hidroksida i baznog bakar karbonata kao aktivnih tvari u njezin Prilog I. (SL L 37, 10. 2. 2012.),
+- Direktiva Komisije 2012/3/EU od 9. veljače 2012. godine o izmjenama i dopunama Direktive 98/8/EZ Europskoga parlamenta i Vijeća radi uvrštavanja bendiokarba kao aktivne tvari u njezin Prilog I. (SL L 37, 10. 2. 2012.),
+- Direktiva Komisije 2012/14/EU od 8. svibnja 2012. godine o izmjenama i dopunama Direktive 98/8/EZ Europskoga parlamenta i Vijeća radi uvrštavanja metil nonil ketona kao aktivne tvari u njezin Prilog I. (SL L 123, 9. 5. 2012.),
+- Direktiva Komisije 2012/15/EU od 8. svibnja 2012. godine o izmjenama i dopunama Direktive 98/8/EZ Europskog parlamenta i Vijeća radi uvrštavanja ekstrakta margoze kao aktivne tvari u njezin Prilog I. (SL L 123, 9. 5. 2012.),
+- Direktiva Komisije 2012/16/EU od 10. svibnja 2012. godine o izmjenama i dopunama Direktive 98/8/EZ Europskoga parlamenta i Vijeća radi uvrštavanja klorovodične kiseline kao aktivne tvari u njezin Prilog I. (SL L 124, 11. 5. 2012.),
+- Direktiva Komisije 2012/20/EU od 6. srpnja 2012. godine o izmjenama i dopunama Direktive 98/8/EZ Europskoga parlamenta i Vijeća radi uvrštavanja flufenoksurona kao aktivne tvari u njezin Prilog I. (SL L 177, 7. 7. 2012.),
+- Direktiva Komisije 2012/22/EU od 22. kolovoza 2012. godine o izmjenama i dopunama Direktive 98/8/EZ Europskoga parlamenta i Vijeća radi uvrštavanja DDA-karbonata kao aktivne tvari u njezin Prilog I. (SL L 227, 23. 8. 2012.),
+- Direktiva Komisije 2012/38/EU od 23. studenoga 2012. godine o izmjenama i dopunama Direktive 98/8/EZ Europskoga parlamenta i Vijeća radi uvrštavanja cis-trikoz-9-en kao aktivne tvari u njezin Prilog I. (SL L 326, 24. 11. 2012.),
+- Direktiva Komisije 2012/40/EU od 26. studenoga 2012. godine o ispravcima Priloga I. Direktive 98/8/EZ Europskoga parlamenta i Vijeća o stavljanju biocidnih pripravaka na tržište (SL L 327, 27. 11. 2012.),
+- Direktiva Komisije 2012/41/EU od 26. studenoga 2012. godine o izmjenama i dopunama Direktive 98/8/EZ Europskoga parlamenta i Vijeća radi proširenja uvrštavanja u Prilogu I. aktivne tvari nonanske kiseline za vrstu proizvoda 2 (SL L 327, 27.11. 2012.,
+- Direktiva Komisije 2012/42/EU od 26. studenoga 2012. godine o izmjenama i dopunama Direktive 98/8/EZ Europskoga parlamenta i Vijeća radi uvrštavanja cijanovodika kao aktivne tvari u njezin Prilog I. (SL L 327, 27.11. 2012.),
+- Direktiva Komisije 2012/43/EU od 26. studenoga 2012. godine o izmjenama i dopunama Direktive 98/8/EZ Europskoga parlamenta i Vijeća radi promjene određenih naslova u Prilogu I. (SL L 327, 27.11. 2012.).
