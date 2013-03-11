@@ -1,0 +1,1 @@
+Na temelju članka 15. stavka 5. Zakona o računovodstvu (»Narodne novine«, broj 109/07) i članka 116. stavka 5. Zakona o tržištu kapitala (»Narodne novine«, broj 88/08, 146/08 i 74/09) Hrvatska agencija za nadzor financijskih usluga (dalje: Agencija) na sjednici Upravnog vijeća održanoj 1. ožujka 2013. donosi
