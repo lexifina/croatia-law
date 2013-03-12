@@ -1,3 +1,5 @@
 # Članak 49.
-Optužni prijedlog pred nadležnim sudom podnosi državni odvjetnik.
-Državni ured za reviziju i Državno izborno povjerenstvo, u okviru svojeg djelokruga, dužni su o utvrđenim povredama ovoga Zakona obavijestiti Državno odvjetništvo Republike Hrvatske te dostaviti cjelokupnu dokumentaciju koja se odnosi na konkretan predmet.
+Za prekršaje propisane ovim Zakonom ovlašteni tužitelj je državni odvjetnik.
+Odredbom članka 40. Zakona o izmjenama i dopunama Zakona o financiranju političkih aktivnosti i izborne promidžbe (»Narodne novine«, br. 27/13.) stupio na snagu 12. ožujka 2013., stavak 1. je izmijenjen.
+Državni ured za reviziju i Državno izborno povjerenstvo, u okviru svojeg djelokruga, dužni su o utvrđenim povredama ovoga Zakona obavijestiti Državno odvjetništvo Republike Hrvatske te dostaviti cjelokupnu dokumentaciju koja se odnosi na konkretan predmet i sve ostale podatke i činjenice kojima raspolažu ili su ih pribavili, uz naznaku izvora, a koje se odnose na konkretan predmet.
+Odredbom članka 40. Zakona o izmjenama i dopunama Zakona o financiranju političkih aktivnosti i izborne promidžbe (»Narodne novine«, br. 27/13.) stupio na snagu 12. ožujka 2013., u stavku 2. na kraju rečenice brisana je točka i dodane su riječi: »i sve ostale podatke i činjenice kojima raspolažu ili su ih pribavili, uz naznaku izvora, a koje se odnose na konkretan predmet.«.
