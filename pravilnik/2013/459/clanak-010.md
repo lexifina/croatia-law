@@ -1,0 +1,3 @@
+# Članak 10.
+Pravne osobe, obrtnici i fizičke osobe koje pružaju usluge smještaja prijavu boravišta osoba kojima pružaju usluge smještaja duže od tri mjeseca mogu izvršiti elektroničkim putem prema definiranoj strukturi propisanih podataka za prijavu boravišta. Zahtjev za registraciju pružatelja usluge smještaja za prijavu boravišta elektroničkim putem podnosi se u policijskoj upravi ili policijskoj postaji Ministarstva na čijem području se nalazi objekt smještaja, a navedene ustrojstvene jedinice Ministarstva dat će sve potrebne upute i informacije u vezi elektroničke prijave.
+Ustanove iz članka 7. Zakona o prebivalištu (»Narodne novine« broj 144/2012) mogu izvršiti prijavu boravišta osoba smještenih u tim ustanovama na način propisan stavkom 1. ovoga članka.

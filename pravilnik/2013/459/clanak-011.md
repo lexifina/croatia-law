@@ -1,0 +1,2 @@
+# Članak 11.
+Obrazac 1 te dokumentacija o terenskim provjerama u vezi predmeta prijave prebivališta i boravišta kao i dokumentacija o postupku odjave prebivališta po službenoj dužnosti čuva se 5 godina od dana evidentirane prijave prebivališta ili boravišta ili dostave rješenja o odbijanju prigovora zbog neevidentiranja prijave ili dostave rješenja o odjavi po službenoj dužnosti iz zbirke podataka o prebivalištu i boravištu.

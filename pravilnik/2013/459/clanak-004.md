@@ -1,0 +1,2 @@
+# Članak 4.
+O prijavi i odjavi prebivališta te prijavi boravišta izdaje se potvrda koja sadrži sljedeće podatke: naziv tijela koje izdaje potvrdu, datum izdavanja, ime i prezime, ime roditelja, osobni identifikacijski broj, datum i mjesto rođenja, mjesto i adresa na kojoj je osoba prijavila prebivalište ili boravište i datum prijave, mjesto i adresa s koje je osoba odjavila prebivalište te potpis službene osobe.

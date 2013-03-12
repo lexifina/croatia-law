@@ -1,0 +1,7 @@
+# Članak 5.
+Zbirka podataka o prebivalištu i boravištu vodi se na središnjem informacijskom sustavu Ministarstva unutarnjih poslova (u daljnjem tekstu: Ministarstvo).
+Osobi se evidentira prebivalište u mjestu i na adresi na kojoj prijavljuje prebivalište s danom prijave, a odjavljuje s danom odjave prebivališta.
+Ako osoba u istoj policijskoj upravi ili policijskoj postaji Ministarstva istodobno obavlja odjavu prethodnog prebivališta i prijavu novog prebivališta, prijava novog prebivališta evidentira se na dan odjave prethodnog prebivališta.
+Ako osoba odjavi prebivalište u policijskoj upravi ili policijskoj postaji Ministarstva na čijem je području imala prijavljeno prebivalište i u roku od 15 dana prijavi prebivalište u policijskoj upravi ili policijskoj postaji Ministarstva na čijem području ima novo prebivalište, prijava novog prebivališta evidentirat će se s narednim danom koji slijedi iza dana odjave prethodnog prebivališta.
+Ako osoba prijavi novo prebivalište nakon proteka 15 dana od dana odjave prethodnog prebivališta, novo prebivalište će joj se evidentirati s danom prijave.
+Osobi kojoj se po službenoj dužnosti odjavi prebivalište u skladu s odredbom članka 12. Zakona o prebivalištu (»Narodne novine« broj 144/2012), kao datum odjave evidentira se dan dostave rješenja o odjavi, a u zbirci podataka o prebivalištu i boravištu se kao razlog odjave prebivališta upisuje: »članak 12. ZP«.

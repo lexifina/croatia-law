@@ -1,0 +1,4 @@
+# Članak 9.
+Prijava osobe koja privremeno napušta prebivalište radi privremenog odlaska izvan Republike Hrvatske iz članka 3. stavka 5. Zakona o prebivalištu (»Narodne novine« broj: 144/2012) evidentira se u zbirci podataka o prebivalištu i boravištu u posebnu rubriku: »privremeni odlazak izvan RH članak 3. stavak 5. ZP«, uz osobu koja prijavljuje privremeni odlazak izvan Republike Hrvatske.
+U rubriku: »privremeni odlazak izvan RH članak 3. stavak 5. ZP« upisuje se: datum prijave, država i mjesto u koje osoba privremeno odlazi i razlog odlaska kao privremeni rad, školovanje, liječenje, humanitarni/misionarski rad i ostalo te očekivano vrijeme odlaska.
+Za osobu iz stavka 1. ovoga članka se u zbirci podataka o prebivalištu i boravištu u posebnu rubriku: »prijava povratka u RH« upisuje dan prijave povratka u Republiku Hrvatsku.
