@@ -1,0 +1,3 @@
+# Članak 10.
+U članku 12. stavku 2. na kraju rečenice umjesto točke stavlja se zarez i dodaju riječi: »u roku i na način propisan za objavu izvješća o donacijama i troškovima izborne promidžbe iz članka 24. ovoga Zakona. Iznos cijene i iznos ostvarenog popusta u cijeni za medijsko oglašavanje izborne promidžbe, objavljuju se na obrascu koji propisuje ministar financija pravilnikom, a sadrži specificirane podatke o nazivu pružatelja medijskih usluga, broju i datumu računa za izvršene medijske usluge, broju ugovorenih i izvršenih medijskih usluga, iznosu cijene bez popusta, popustu izraženom u postotku i plaćenom iznosu s popustom.«.
+U stavku 4. na kraju rečenice briše se točka i dodaju riječi: »i isti objaviti na svojim web-stranicama.«.

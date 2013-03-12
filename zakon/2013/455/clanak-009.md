@@ -1,0 +1,6 @@
+# Članak 9.
+U članku 11. stavku 1. iza riječi: »nezavisnim zastupnicima« zarez i riječi: »zastupnicima nacionalnih manjina« brišu se, a riječi: »nezavisnim listama« zamjenjuju se riječima: »nezavisnim listama, odnosno listama grupe birača«.
+U stavku 2. riječi: »zastupnika nacionalnih manjina,« brišu se.
+U stavku 3. riječi: »Ukupan iznos« zamjenjuju se riječima: »Ukupna vrijednost«, riječi: »zastupniku nacionalnih manjina,« brišu se, a riječi: »nezavisnoj listi« zamjenjuju se riječima: »nezavisnoj listi, odnosno listi grupe birača«.
+U stavku 4. riječi: »Ukupan iznos« i riječi: »ukupan iznos« zamjenjuju se riječima: »Ukupna vrijednost« i »ukupna vrijednost«, riječi: »zastupniku nacionalnih manjina te« brišu se, iza riječi: »kandidatu za zastupnika pripadnika nacionalnih manjina« dodaju se riječi: »kojeg su kandidirali birači i udruge nacionalnih manjina«, a riječi: »nezavisnoj listi i kandidatu na izborima na lokalnoj i područnoj razini« zamjenjuju se riječima: »listi grupe birača i kandidatu na izborima na lokalnoj i područnoj razini«.
+U stavku 5. riječi: »Iznose donacija koji« zamjenjuju se riječima: »Vrijednosti donacija koje«, a riječi: »zastupnici nacionalnih manjina,« brišu se.

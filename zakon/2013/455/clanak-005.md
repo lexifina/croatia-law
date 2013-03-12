@@ -1,0 +1,3 @@
+# Članak 5.
+U članku 5. stavku 2. riječi: »u času konstituiranja« na dva mjesta, zamjenjuju se riječima: »u trenutku konstituiranja«.
+U stavku 4. riječi: »nezavisni član predstavničkog tijela jedinice lokalne i područne (regionalne) samouprave izabran s nezavisne liste« na dva mjesta, u odgovarajućem broju i padežu, zamjenjuju se riječima: »član predstavničkog tijela jedinice lokalne i područne (regionalne) samouprave izabran s liste grupe birača« u odgovarajućem broju i padežu, a riječi: »članu predstavničkog tijela jedinice lokalne i područne (regionalne) samouprave, izabranom s nezavisne liste« zamjenjuju se riječima: »članu predstavničkog tijela jedinice lokalne i područne (regionalne) samouprave izabranom s liste grupe birača«.

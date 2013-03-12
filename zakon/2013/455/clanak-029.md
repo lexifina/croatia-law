@@ -1,0 +1,5 @@
+# Članak 29.
+U članku 31. stavci 1. i 2. mijenjaju se i glase:
+»Revizija političkih stranaka, nezavisnih zastupnika i članova predstavničkih tijela jedinica lokalne i područne (regionalne) samouprave izabranih s liste grupe birača, obavlja se svake kalendarske godine za prethodnu godinu.
+Reviziju političkih stranaka, nezavisnih zastupnika i članova predstavničkih tijela jedinica lokalne i područne (regionalne) samouprave izabranih s liste grupe birača čiji su godišnji prihodi i vrijednost imovine, iskazani u godišnjim financijskim izvještajima, manji od 100.000,00 kuna, Državni ured za reviziju nije obvezan obavljati, a može je obavljati sukladno svojem planu i programu rada.«.
+U stavku 3. iza riječi: »nezavisni zastupnici« zarez i riječi: »zastupnici nacionalnih manjina« brišu se, a riječi: »nezavisni članovi predstavničkih tijela jedinica lokalne i područne (regionalne) samouprave« zamjenjuju se riječima: »članovi predstavničkih tijela jedinica lokalne i područne (regionalne) samouprave izabrani s liste grupe birača«.

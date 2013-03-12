@@ -1,0 +1,3 @@
+# Članak 42.
+Zastupnici nacionalnih manjina koje je kandidirala politička stranka, a koji su do dana stupanja na snagu ovoga Zakona otvorili poseban račun za redovito financiranje svoje djelatnosti, mogu nastaviti financirati svoju redovitu djelatnost putem tog računa do prestanka mandata u tekućem sazivu Hrvatskoga sabora ili u roku od 30 dana od dana stupanja na snagu ovoga Zakona, zatvoriti poseban račun za redovito godišnje financiranje te sredstva s navedenog računa uplatiti na središnji račun političke stranke koja ih je kandidirala.
+Na zastupnike nacionalnih manjina koji će nastaviti financirati svoju redovitu djelatnost putem posebnog računa za redovito godišnje financiranje primijenit će se sve odredbe Zakona, koje se odnose na nezavisne zastupnike.

@@ -1,0 +1,8 @@
+# Članak 7.
+U članku 8. stavku 1. iza riječi: »Nezavisni zastupnici« zarez i riječi: »zastupnici nacionalnih manjina« brišu se, a riječi: »u roku od 30 dana nakon isteka mandata, odnosno prestanka mandata« zamjenjuju se riječima: »u roku od 60 dana, od dana konstituiranja novog saziva Hrvatskoga sabora, odnosno predstavničkog tijela jedinice lokalne i područne (regionalne) samouprave, odnosno od prestanka mandata«.
+U stavku 2. iza riječi: »nezavisni zastupnici« zarez i riječi: »zastupnici nacionalnih manjina« brišu se.
+U stavku 4. iza riječi: »Nezavisni zastupnici« zarez i riječi: »zastupnici nacionalnih manjina« brišu se.
+Iza stavka 4. dodaju se stavci 5., 6. i 7. koji glase:
+»Nezavisni zastupnici i članovi predstavničkih tijela jedinica lokalne i područne (regionalne) samouprave izabrani s liste grupe birača iz stavka 1. ovog članka, dužni su zatvoriti poseban račun za redovito financiranje svoje djelatnosti najkasnije u roku od 6 mjeseci, od dana konstituiranja novog saziva Hrvatskoga sabora, odnosno predstavničkog tijela jedinice lokalne i područne (regionalne) samouprave, odnosno od prestanka mandata prije isteka vremena na koji su izabrani.
+Banke kod kojih je otvoren poseban račun za redovito godišnje financiranje nezavisnih zastupnika i članova predstavničkih tijela jedinica lokalne i područne (regionalne) samouprave izabranih s liste grupe birača, dužne su bez odgode izvijestiti Državno izborno povjerenstvo o otvaranju navedenog računa te o njegovu zatvaranju, te na pisani zahtjev Državnog izbornog povjerenstva ili Državnog ureda za reviziju, dostaviti im sve tražene podatke o transakcijama na tom računu.
+Bankom u smislu ovoga Zakona smatraju se banke koje posluju u Republici Hrvatskoj.«.
