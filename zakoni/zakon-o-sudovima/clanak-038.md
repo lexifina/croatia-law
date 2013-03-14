@@ -1,0 +1,4 @@
+# Članak 38.
+(1) Na sjednicama sudskog odjela razmatraju se pitanja od interesa za rad odjela, a posebice organizacija unutarnjeg poslovanja, sporna pravna pitanja, ujednačavanje sudske prakse i pitanja važna za primjenu propisa iz pojedinih pravnih područja te praćenje rada i stručnog usavršavanja sudaca, sudskih savjetnika i sudačkih vježbenika raspoređenih na rad u odjel.
+(2) Na sjednicama sudskih odjela županijskog suda, Visokog trgovačkog suda Republike Hrvatske, Visokog upravnog suda Republike Hrvatske i Visokog prekršajnog suda Republike Hrvatske razmatraju se i pitanja od zajedničkog interesa za sudove nižeg stupnja s područja tih sudova.
+(3) Na sjednici odjela Vrhovnog suda Republike Hrvatske razmatraju se pitanja od zajedničkog interesa za pojedine ili sve sudove s područja Republike Hrvatske te se razmatraju i daju mišljenja o nacrtima propisa iz pojedinoga pravnog područja.

@@ -1,0 +1,3 @@
+# Članak 58.
+(1) Protiv objavljene liste kandidata, zbog nepravilnosti u provođenju izbora i objavljenih rezultata može se u roku od tri dana od objavljivanja rezultata izbora izjaviti prigovor, o kojem u prvom stupnju odlučuje izborno povjerenstvo. Protiv odluke izbornog povjerenstva može se u roku od tri dana izjaviti žalba o kojoj odlučuje sudačko vijeće.
+(2) Sudačko vijeće utvrđuje konačne rezultate najkasnije deset dana nakon njihovog održavanja. O rezultatima izbora sudačko vijeće dužno je bez odgode obavijestiti predsjednike sudova za koje se sudačko vijeće bira i Ministarstvo pravosuđa.

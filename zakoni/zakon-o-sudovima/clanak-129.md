@@ -1,0 +1,5 @@
+# Članak 129.
+(1) Za stalnog sudskog procjenitelja može se imenovati osoba koja ima završen odgovarajući stručni studij, preddiplomski ili diplomski sveučilišni studij. Iznimno, za stalnog sudskog procjenitelja može se imenovati i fizička osoba sa završenom srednjom školskom spremom odgovarajuće struke.
+(2) Stalne sudske procjenitelje imenuje i razrješava predsjednik trgovačkog ili županijskog suda. Stalni sudski procjenitelji imenuju se na vrijeme od četiri godine i istekom toga vremena mogu biti ponovno imenovani. Imenovani stalni sudski procjenitelji mogu pružati svoje usluge na području cijele Republike Hrvatske.
+(3) Protiv odluke kojom se zahtjev za imenovanje stalnim sudskim procjeniteljem odbija podnositelj ima pravo žalbe Ministarstvu pravosuđa u roku od 15 dana od dostave odluke. Protiv rješenja Ministarstva pravosuđa žalba nije dopuštena, ali se može pokrenuti upravni spor pred nadležnim upravnim sudom.
+(4) Ministar pravosuđa pravilnikom propisuje uvjete i postupak imenovanja stalnih sudskih procjenitelja, njihova prava i dužnosti te visinu nagrade i naknade troškova za njihov rad.

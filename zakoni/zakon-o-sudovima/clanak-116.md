@@ -1,0 +1,3 @@
+# Članak 116.
+(1) Sposobnost za obavljanje poslova službenika pravosudne policije utvrđuje zdravstvena komisija osnovana odlukom ministra pravosuđa. Službenik pravosudne policije koji je odlukom nadležne zdravstvene komisije proglašen nesposobnim za obavljanje poslova zbog oboljenja ili ozljede koja je nastupila u obavljanju službe ili povodom obavljanja službe, zadržava plaću i druga prava iz službeničkog odnosa do donošenja pravomoćnog rješenja o pravu na mirovinu, a najduže tri godine od dana donošenja odluke o nesposobnosti.
+(2) Službenici pravosudne policije prava iz mirovinskog osiguranja ostvaruju prema posebnom zakonu.

@@ -1,0 +1,4 @@
+## I. OPĆE ODREDBE
+# Članak 1.
+(1) Ovim se Zakonom uređuje ustrojstvo, djelokrug i stvarna nadležnost sudova ako nije određena drugim zakonom, unutarnje ustrojstvo sudova, poslovi sudske uprave i ovlasti predsjednika suda, poslovi ravnatelja sudske uprave, zaštita prava na suđenje u razumnom roku, nadzor nad obavljanjem poslova sudske uprave i pravosudna inspekcija, prava i dužnosti sudaca, poslovi tajnika suda, ovlasti sudskih savjetnika, osiguranje osoba, imovine i objekata sudova, imenovanje sudaca porotnika, uvjeti i postupak za imenovanje stalnih sudskih tumača, vještaka i procjenitelja te sredstva za rad sudova.
+(2) Izrazi koji se koriste u ovom Zakonu za osobe u muškom rodu uporabljeni su neutralno i odnose se na muške i ženske osobe (sudac/sutkinja, savjetnik/savjetnica, vježbenik/vježbenica i dr.).

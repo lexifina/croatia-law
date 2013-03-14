@@ -1,0 +1,7 @@
+# Članak 11.
+(1) Predsjednik Vrhovnog suda Republike Hrvatske će odrediti da u pojedinoj vrsti predmeta postupa drugi stvarno i mjesno nadležni sud, ako sud koji je po zakonu stvarno i mjesno nadležan zbog velikog broja predmeta koje ima u radu ne može u razumnom roku raspraviti te predmete i donijeti odluku, zbog postizanja ravnomjerne opterećenosti sudova ili zbog promjena u stvarnoj i mjesnoj nadležnosti sudova.
+(2) Prijedlog za donošenje rješenja iz stavka 1. ovog članka mogu dati predsjednik suda i ministar pravosuđa. Predsjednik Vrhovnog suda Republike Hrvatske odredit će rješenjem koji se predmeti ustupaju na suđenje drugom stvarno i mjesno nadležnom sudu.
+(3) Sud prvog stupnja kojem je predmet ustupljen o tome će obavijestiti stranke, odnosno njihove punomoćnike ili zastupnike uz prvo pismeno koje im bude upućeno.
+(4) U slučaju iz stavka 2. ovoga članka strankama i njihovim punomoćnicima pripada pravo na naknadu troškova javnog prijevoza. Odvjetnicima pripada pravo na naknadu troškova javnog prijevoza i pravo na naknadu troškova za izbivanje iz pisarnice za vrijeme putovanja određeni Tarifom o nagradama i naknadi troškova za rad odvjetnika ako putovanje do drugog suda i natrag do mjesta ureda traje duže od tri sata.
+(5) Naknada troškova iz stavka 4. ovoga članka isplatit će se na teret državnog proračuna, u dijelu u kojem su ti troškovi veći od onih koje bi stranke imale da se postupak vodi pred mjesno nadležnim sudom.
+(6) Odluka o troškovima iz ovoga članka donijet će se zajedno s odlukom o troškovima postupka.

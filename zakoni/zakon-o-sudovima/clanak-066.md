@@ -1,0 +1,3 @@
+# Članak 66.
+(1) Ako predsjednik suda utvrdi da je zahtjev osnovan, odredit će rok u pravilu od najdulje šest mjeseci, osim ako okolnosti slučaja ne nalažu određivanje duljeg roka, u kojem sudac predmet mora riješiti. Rješenje kojim je utvrđena osnovanost zahtjeva ne mora biti obrazloženo i protiv njega nije dopuštena žalba.
+(2) Ako sudac ne riješi predmet u određenom roku, dužan je u roku od 15 dana od isteka određenog roka o razlozima dostaviti pisano izvješće predsjedniku suda. Predsjednik suda dostavit će bez odgode izvješće suca i svoje očitovanje predsjedniku neposredno višeg suda i Ministarstvu pravosuđa.

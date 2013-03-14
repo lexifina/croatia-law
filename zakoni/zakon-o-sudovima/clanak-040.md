@@ -1,0 +1,4 @@
+# Članak 40.
+(1) Sjednica odjela ili sudaca saziva se i kad se utvrdi da o pitanjima primjene zakona postoje razlike u shvaćanjima između pojedinih odjela, vijeća ili sudaca ili kad u jednom odjelu vijeće ili sudac odstupi od ranije prihvaćenog pravnog shvaćanja.
+(2) Pravno shvaćanje prihvaćeno na sjednici svih sudaca odnosno sudskog odjela Vrhovnog suda Republike Hrvatske, Visokog trgovačkog suda Republike Hrvatske, Visokog upravnog suda Republike Hrvatske, Visokog prekršajnog suda Republike Hrvatske i sjednici odjela županijskog suda obvezno je za sva drugostupanjska vijeća ili suce pojedince tog odjela, odnosno suda.
+(3) Predsjednik odjela može, prema potrebi, pozvati na sjednicu odjela profesore diplomskog sveučilišnog studija prava, istaknute znanstvenike ili stručnjake u određenoj grani prava.

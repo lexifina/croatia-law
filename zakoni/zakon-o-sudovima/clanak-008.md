@@ -1,0 +1,6 @@
+# Članak 8.
+(1) Suci imaju imunitet sukladno ovom Zakonu.
+(2) Sudac ili sudac porotnik ne može biti pozvan na odgovornost za izraženo mišljenje ili glasovanje pri donošenju sudske odluke, osim ako se radi o kršenju zakona od strane suca koje je kazneno djelo.
+(3) Sudac ne može u postupku pokrenutom zbog kaznenog djela učinjenog u obavljanju sudačke dužnosti biti pritvoren niti mu može biti određen istražni zatvor bez odobrenja Državnog sudbenog vijeća. Iznimno, sudac može biti pritvoren ili mu može biti određen istražni zatvor bez odobrenja Državnog sudbenog vijeća ako je zatečen u činjenju kaznenog djela počinjenog u obavljanju sudačke dužnosti za koje je propisana kazna zatvora u trajanju duljem od pet godina. O tome se izvješćuje predsjednik Državnog sudbenog vijeća.
+(4) Za kaznena djela za koja se postupak pokreće po privatnoj tužbi, prijedlogu ili se radi o preuzimanju kaznenog progona od strane oštećenika, kazneni postupak protiv suca ne može se pokrenuti niti voditi bez odobrenja Državnog sudbenog vijeća.
+(5) Ako se Državno sudbeno vijeće ne može sastati, odobrenje za lišenje slobode suca ili za vođenje kaznenog postupka protiv njega daje i o njegovom imunitetu odlučuje predsjednik Državnog sudbenog vijeća. Odluku predsjednika u roku od osam dana mora raspraviti Državno sudbeno vijeće te donijeti konačnu odluku.

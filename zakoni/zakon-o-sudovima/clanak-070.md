@@ -1,0 +1,2 @@
+# Članak 70.
+Ako je pred Europskim sudom za ljudska prava pokrenut postupak za zaštitu prava na suđenje u razumnom roku i zastupnik Vlade Republike Hrvatske pred Europskim sudom za ljudska prava zatraži podatke o predmetu od suda pred kojim je u tijeku postupak, taj sud je dužan o zahtjevu zastupnika Vlade Republike Hrvatske i razlozima dugotrajnosti postupka obavijestiti predsjednika neposredno višeg suda, predsjednika Vrhovnog suda Republike Hrvatske i Ministarstvo pravosuđa.

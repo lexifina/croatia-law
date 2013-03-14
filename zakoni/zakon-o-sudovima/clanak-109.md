@@ -1,0 +1,7 @@
+# Članak 109.
+(1) Sud može imati sudske savjetnike i više sudske savjetnike.
+(2) Sudski savjetnik može biti osoba koja ima završen diplomski sveučilišni studij prava i položen pravosudni ispit.
+(3) Viši sudski savjetnik i sudski savjetnik u Vrhovnom sudu Republike Hrvatske može biti osoba koja ima završen diplomski sveučilišni studij prava, položen pravosudni ispit i koja je radila najmanje dvije godine kao sudski savjetnik, pravosudni dužnosnik, odvjetnik ili javni bilježnik, odnosno osoba koja je radila na drugim pravnim poslovima nakon položenog pravosudnog ispita najmanje pet godina.
+(4) Viši sudski savjetnik u Vrhovnom sudu može biti osoba koja je najmanje četiri godine radila kao sudski savjetnik, pravosudni dužnosnik, odvjetnik ili javni bilježnik, odnosno osoba koja je najmanje deset godina nakon položenog pravosudnog ispita radila na drugim pravnim poslovima.
+(5) Polaznici Državne škole za pravosudne dužnosnike koji su sudski savjetnici raspoređuju se na mjesto viši sudski savjetnik na neodređeno vrijeme. Polaznici Državne škole za pravosudne dužnosnike koji nisu sudski savjetnici primaju se u državnu službu na neodređeno vrijeme i raspoređuju na radno mjesto viši sudski savjetnik u sudovima u koje ih rasporedi Državno sudbeno vijeće.
+(6) Ako viši savjetnik iz stavka 5. ovoga članka u roku utvrđenom posebnim zakonom ne završi Državnu školu za pravosudne dužnosnike, prestaje mu državna služba u sudu u kojem je raspoređen kao polaznik Državne škole za pravosudne dužnosnike.
