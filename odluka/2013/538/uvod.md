@@ -1,0 +1,1 @@
+Na temelju članka 67. Zakona o pravu na pristup informacijama (»Narodne novine«, br. 25/13), Odbor za Ustav, Poslovnik i politički sustav Hrvatskoga sabora, na sjednici održanoj 12. ožujka 2013. godine donio je
