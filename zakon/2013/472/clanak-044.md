@@ -1,0 +1,28 @@
+## Dužnosti operatora distribucijskog sustava
+# Članak 44.
+Operator distribucijskog sustava je dužan:
+1. voditi, održavati i razvijati siguran, pouzdan i učinkovit distribucijski sustav,
+2. priključiti na distribucijski sustav građevinu pravne i fizičke osobe koja ispunjava uvjete iz ovog Zakona, akta iz članka 85. ovoga Zakona i metodologije iz članka 88. stavka 2. ovoga Zakona te koja je izgrađena na temelju građevinske dozvole ili drugog odgovarajućeg akta na temelju kojeg se može graditi građevina,
+3. osigurati korisnicima priključenim na distribucijski sustav kvalitetu plina, kvalitetu usluge i pouzdanost isporuke plina propisanu aktom iz članka 89. ovoga Zakona,
+4. uspostaviti i osigurati rad dispečerskog centra za vođenje distribucijskog sustava, sustava mjerenja, sustava za praćenje parametara kvalitete plina, pouzdanosti isporuke plina i uređaja za odorizaciju plina,
+5. distribuirati plin na temelju sklopljenih ugovora,
+6. obavijestiti Agenciju da korisnik distribucijskog sustava u razdoblju od tri uzastopna mjeseca nije pravodobno ispunio obveze prema operatoru distribucijskog sustava,
+7. pismeno obavijestiti operatora tržišta plina o opskrbljivaču/trgovcu koji nije ispunio svoje dospjele novčane obveze za razdoblje iz članka 3. stavka 2. točke 33. ovoga Zakona prema operatoru distribucijskog sustava,
+8. održavati parametre kvalitete plina, pružati kvalitetu usluge i održavati pouzdanost isporuke plina u skladu s aktom iz članka 89. ovoga Zakona,
+9. osigurati objektivne, jednake i transparentne uvjete pristupa distribucijskom sustavu, u skladu s ovim Zakonom te aktima iz članaka 83. i 85. ovoga Zakona,
+10. nabavljati plin za potrebe vođenja sustava na transparentan i nediskriminirajući način te na tržišnim principima,
+11. na razini distribucijskog sustava osigurati mjerenje potrošnje plina i očitanje mjernih uređaja, u skladu s aktom iz članka 85. ovoga Zakona,
+12. izraditi plan razvoja plinskog distribucijskog sustava, pri čemu planirane investicije u izgradnju i rekonstrukciju distribucijskog sustava trebaju biti tehnički opravdane i ekonomski efikasne, trebaju osiguravati odgovarajući stupanj sigurnosti opskrbe plinom te moraju biti usklađene s planom razvoja distribucijskog sustava u skladu s kriterijima iz članka 39. stavka 1. ovoga Zakona na temelju kojih davatelj koncesija za distribuciju plina, odnosno kriterija iz članka 39. stavka 2. ovoga Zakona na temelju kojih je davatelj koncesije za izgradnju distribucijskog sustava, temeljio odabir ponuđača koncesije,
+13. do 30. travnja tekuće godine dostaviti Agenciji izvješće o ostvarenim investicijama u izgradnju i rekonstrukciju distribucijskog sustava u prethodnoj godini,
+14. izraditi i do 1. ožujka tekuće godine dostaviti Agenciji godišnje izvješće operatora distribucijskog sustava za prethodnu godinu, a koje mora sadržavati izvješće o pouzdanosti, sigurnosti i učinkovitosti distribucijskog sustava, kvaliteti plina, kvaliteti usluge, pouzdanosti isporuke plina, tehničkim karakteristikama sustava, korištenju kapaciteta distribucijskog sustava, održavanju opreme sustava, ispunjavanju ostalih dužnosti i ostvarivanju prava iz ovoga Zakona te sigurnosti i učinkovitosti distribucijskog sustava,
+15. davati informacije sudionicima na tržištu plina, određene u skladu s aktima iz članaka 83., 84., 85. i 86. ovoga Zakona,
+16. davati informacije jedinicama područne (regionalne) samouprave za praćenje odnosa između ponude i potražnje plina na svom području, izradu procjena buduće potrošnje i raspoložive ponude, planiranje izgradnje dodatnih kapaciteta i razvoj distribucijskog sustava na svom području te predlaganje i poduzimanje mjera u okviru svoje nadležnosti utvrđene odredbama ovoga Zakona,
+17. sudionicima na tržištu plina čija je oprema izravno priključena na distribucijski sustav davati propisane informacije o opsegu, danu i trajanju obustave distribucije plina i očekivanom smanjenju kapaciteta distribucijskog sustava, sukladno aktu iz članka 85. ovoga Zakona,
+18. osigurati zaštitu povjerljivosti podataka koje je saznao u obavljanju djelatnosti,
+19. izrađivati i ažurirati standardne profile potrošnje karakterističnih skupina kupaca u skladu s odredbama akta iz članka 85. ovoga Zakona,
+20. voditi evidenciju mjernih mjesta kupaca koji imaju status ugroženih i zaštićenih kupaca,
+21. provoditi postupak promjene opskrbljivača plinom za kupca koji je priključen na distribucijski sustav sukladno odredbama akta iz članka 89. ovoga Zakona,
+22. primijeniti iznose tarifnih stavki za distribuciju plina na temelju odluke i metodologije koju donosi Agencija, u skladu s odredbama zakona kojim se uređuje energetski sektor te ih na primjeren način javno objaviti, i to najmanje 15 dana prije početka primjene,
+23. donijeti, uz suglasnost Agencije, pravila i cjenik nestandardnih usluga operatora za distribuciju plina te ih na primjeren način javno objaviti i to najmanje 15 dana prije početka primjene. U slučaju uskraćivanja suglasnosti Agencija može samostalno odrediti te cijene,
+24. pružati pozornost energetskoj učinkovitosti te zaštiti prirode i okoliša,
+25. voditi evidenciju svih mjesta predaje plina u distribucijski sustav i preuzimanja plina iz distribucijskog sustava, uključivo evidenciju kojem opskrbljivaču pripada krajnji kupca, o pripadnosti opskrbljivača plinom i trgovaca plinom bilančnoj skupini.

@@ -1,0 +1,13 @@
+## XVI. ZATVORENI DISTRIBUCIJSKI SUSTAV
+# Članak 79.
+(1) Distribucijski sustav koji se nalazi na zemljopisno ograničenom industrijskom i/ili komercijalnom području i kojim se plin distribuira do krajnjih kupaca koji nisu kućanstvo, kao i distribucijski sustav kojim se distribuira miješani ukapljeni naftni plin, ispareni ukapljeni naftni plin, gradski plin, bioplin ili plin iz biomase može se odrediti kao zatvoreni distribucijski sustav.
+(2) Vlasnik distribucijskog sustava iz stavka 1. ovoga članka dužan je odlukom odrediti organizatora zatvorenog distribucijskog sustava uz suglasnost ostalih pravnih i fizičkih osoba, osim kućanstava, čiji su objekti priključeni na distribucijski sustav iz stavka 1. ovoga članka.
+(3) Agencija će, na zahtjev vlasnika distribucijskog sustava, rješenjem odrediti zatvoreni distribucijski sustav ako:
+1. su iz specifičnih tehničkih ili sigurnosnih razloga rad ili proizvodni postupak korisnika distribucijskog sustava iz stavka 1. ovoga članka integrirani,
+2. se kroz distribucijski sustav iz stavka 1. ovoga članka plin distribuira vlasniku distribucijskog sustava ili njegovim srodnim subjektima ili
+3. se kroz distribucijski sustav iz stavka 1. ovoga članka distribuira plin iz stavka 1. ovoga članka bez primješavanja u tok prirodnog plina.
+(4) U slučajevima iz stavka 3. točke 1. i 2. ovoga članka Agencija će rješenjem odrediti zatvoreni distribucijski sustav ako na njega nisu priključeni korisnici iz kategorije kućanstvo ili je priključen mali broj korisnika iz kategorije kućanstvo koji su zapošljavanjem ili drukčije povezani s vlasnikom distribucijskog sustava.
+(5) Vlasnik zatvorenog distribucijskog sustava, na temelju odobrenja Agencije, može primijeniti iznos naknade za uporabu zatvorenog distribucijskog sustava koju je samostalno odredio.
+(6) Iznimno od stavka 5. ovoga članka, Agencija može na opravdani zahtjev korisnika zatvorenog distribucijskog sustava ili samostalno utvrditi odgovarajući iznos naknade za uporabu zatvorenog distribucijskog sustava na temelju usporedne analize naturalnih i financijskih pokazatelja poslovanja operatora distribucijskih sustava u Republici Hrvatskoj, sukladno metodologiji za utvrđivanje iznosa tarifnih stavki za distribuciju plina.
+(7) Zatvoreni distribucijski sustav iz stavka 1. ovoga članka na mjestu priključenja s distribucijskim ili transportnim sustavom te svaki od objekata priključenih na zatvoreni distribucijski sustav iz stavka 1. ovoga članka moraju imati zasebno obračunsko mjerno mjesto.
+(8) Organizator zatvorenog distribucijskog sustava koji se želi priključiti na plinski sustav dužan je zatražiti priključenje sukladno odredbama članka 74. ovoga Zakona.

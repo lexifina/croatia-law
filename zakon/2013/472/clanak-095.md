@@ -1,0 +1,32 @@
+# Članak 95.
+(1) Novčanom kaznom u iznosu od 20.000,00 do 500.000,00 kuna kaznit će se za prekršaj operator distribucijskog sustava koji:
+- ne osigura učinkovit i nediskriminirajući pristup i objektivne i razvidne uvjete pristupa distribucijskog sustavu i ne primjenjuje utvrđeni iznos tarifnih stavki za distribuciju plina prema reguliranim uvjetima, sukladno članku 5. stavku 4. točki 1., članku 44. točki 9. i članku 73. stavcima 1., 2., i 3. ovoga Zakona,
+- ne priključi na distribucijski sustav građevinu pravne i fizičke osobe koje ispunjavaju uvjete iz ovoga Zakona, akta iz članka 85. ovoga Zakona, metodologije utvrđivanja naknade za priključenje na plinski distribucijski ili transportni sustav i za povećanje priključnog kapaciteta te koja je izgrađena na temelju građevinske dozvole ili drugog odgovarajućeg akta na temelju kojeg se može graditi građevina, sukladno članku 44. točki 2. ovoga Zakona,
+- ne osigura korisnicima priključenim na distribucijski sustav kvalitetu plina, kvalitetu usluge i pouzdanost isporuke plina propisanu općim uvjetima opskrbe plinom, sukladno članku 44. točki 3. ovoga Zakona,
+- ne uspostavi i ne osigura rad dispečerskog centra za vođenje distribucijskog sustava, sustava mjerenja i sustava za praćenje parametara kvalitete plina, pouzdanosti isporuke plina i uređaja za odorizaciju plina, sukladno članku 44. točki 4. ovoga Zakona,
+- ne distribuira plin na temelju sklopljenih ugovora, sukladno članku 44. točki 5. ovoga Zakona,
+- ne obavijesti Agenciju da korisnik distribucijskog sustava u razdoblju od tri uzastopna mjeseca nije pravodobno ispunio obveze prema operatoru distribucijskog sustava, sukladno članku 44. točki 6. ovoga Zakona,
+- ne nabavlja plin za potrebe vođenja sustava na transparentan i nediskriminirajući način te na tržišnim principima, sukladno članku 44. točki 10. ovoga Zakona,
+- ne osigura na razini distribucijskog sustava mjerenje potrošnje plina i očitanje mjernih uređaja u skladu s mrežnim pravilima distribucijskog sustava, sukladno članku 44. točki 11. ovoga Zakona,
+- ne izradi plan razvoja plinskog distribucijskog sustava, sukladno članku 44. točki 12. ovoga Zakona,
+- ne dostavi Agenciji izvješće o ostvarenim investicijama u izgradnju i rekonstrukciju distribucijskog sustava u prethodnoj godini, sukladno članku 44. točki 13. ovoga Zakona,
+- ne izradi i ne dostavi Agenciji izvješće, sukladno članku 44. točki 14. ovoga Zakona,
+- ne daje propisane informacije, sukladno članku 44. točki 15. ovoga Zakona,
+- ne daje propisane informacije, sukladno članku 44. točki 16. ovoga Zakona,
+- ne osigura zaštitu povjerljivosti podataka koje je saznao u obavljanju djelatnosti, sukladno članku 44. točki 18. ovoga Zakona,
+- ne izradi i ne ažurira standardne profile potrošnje karakterističnih skupina kupaca u skladu s mrežnim pravilima plinskog distribucijskog sustava, sukladno članku 44. točki 19. ovoga Zakona,
+- ne vodi evidenciju mjernih mjesta kupaca koji imaju status ugroženih i zaštićenih kupaca, sukladno članku 44. točki 20. ovoga Zakona,
+- ne provodi postupak promjene opskrbljivača plinom za kupca koji je priključen na distribucijski sustav sukladno odredbama općih uvjeta opskrbe plinom, sukladno članku 44. točki 21. ovoga Zakona,
+- ne vodi evidenciju svih mjesta predaje plina u distribucijski sustav i preuzimanja plina iz distribucijski sustava, uključivo evidenciju o pripadnosti opskrbljivača plinom i trgovaca plinom bilančnoj skupini, sukladno članku 44. točki 25. ovoga Zakona,
+- ne organizira svoju djelatnost u samostalnom pravnom subjektu nezavisno od drugih djelatnosti u sektoru plina, sukladno članku 69. stavku 1. ovoga Zakona,
+- ne vodi podatke u svojim poslovnim knjigama po pravilima internoga računovodstva, sukladno članku 71. stavcima 1., 2., 3., 4. i 5. ovoga Zakona,
+- ne osigura Agenciji pristup poslovnim knjigama, sukladno članku 72. stavku 1. ovoga Zakona,
+- ne dostavi izvješće, sukladno članku 109. stavku 4. ovoga Zakona,
+- ne postupa sukladno aktu iz članka 83. ovoga Zakona,
+- ne postupa sukladno aktu iz članka 84. ovoga Zakona,
+- ne postupa sukladno aktu iz članka 85. ovoga Zakona,
+- ne postupa sukladno aktu iz članka 86. ovoga Zakona,
+- ne postupa prema metodologiji utvrđivanja iznosa tarifnih stavki za distribuciju plina iz članka 88. stavka 1. podstavka 2. ovoga Zakona, metodologiji utvrđivanja naknade za priključenje na plinski distribucijski ili transportni sustav i za povećanje priključnog kapaciteta iz članka 88. stavka 2. ovoga Zakona te metodologiji utvrđivanja cijene nestandardnih usluga iz članka 88. stavka 3. ovoga Zakona,
+- ne postupa sukladno aktu iz članka 89. ovoga Zakona.
+(2) Za prekršaj iz stavka 1. ovoga članka kaznit će se odgovorna osoba operatora distribucijskog sustava novčanom kaznom od 2.000,00 do 15.000,00 kuna.
+(3) Operatoru distribucijskog sustava koji je počinio dva prekršaja ili je u razdoblju od godine dana ponovio prekršaj iz stavka 1. ovoga članka može se izreći zaštitna mjera zabrane obavljanja energetske djelatnosti do godine dana, a odgovornoj osobi operatora distribucijskog sustava može se izreći zaštitna mjera zabrane obavljanja dužnosti odgovorne osobe do godine dana.

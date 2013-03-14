@@ -1,0 +1,9 @@
+## Izravni plinovod
+# Članak 76.
+(1) Proizvođač plina, proizvođač prirodnog plina, operator transportnog sustava, operator distribucijskog sustava, operator skladišta plina, operator terminala za UPP, trgovac plinom ili opskrbljivač koji želi priključiti, prodati ili opskrbiti plinom svog kupca, kojem je odlukom iz članka 75. ovoga Zakona odbijeno pravo na pristup plinskom sustavu, odnosno mreži proizvodnih plinovoda, imaju pravo izgraditi izravni plinovod, uz suglasnost Agencije.
+(2) Krajnji kupac koji želi ugovoriti opskrbu plinom, ali mu je odlukom iz članka 75. ovoga Zakona odbijeno pravo na pristup plinskom sustavu, odnosno mreži proizvodnih plinovoda ima pravo izgraditi izravni plinovod, uz suglasnost Agencije.
+(3) Agencija će utvrditi objektivne i nepristrane kriterije za izdavanje suglasnosti iz stavka 1. i 2. ovoga članka za izgradnju i pogon izravnih plinovoda.
+(4) Agencija će rješenjem uskratiti izdavanje suglasnosti za izgradnju izravnog plinovoda iz stavaka 1. i 2. ovoga članka ako davanje takve suglasnosti nije u skladu s odredbama o obvezi opskrbe plinom u okviru javne usluge i odredbi o zaštiti krajnjih kupaca iz ovoga Zakona uz detaljno obrazloženje.
+(5) Protiv rješenja iz stavka 3. ovoga članka nije dopuštena žalba, ali se može pokrenuti upravni spor pred nadležnim upravnim sudom. Postupak pred upravnim sudom je hitan.
+(6) Zahvat u prostoru i gradnji izravnih vodova mora se provoditi u skladu s postupcima propisanim zakonima kojima se uređuje područje prostornog uređenja i gradnje.
+(7) Trošak nastao izgradnjom izravnog plinovoda iz stavaka 1. i 2. ovoga članka treba podmiriti kupac na čiji zahtjev je izgrađen izravni plinovod sustav i takav trošak ne može biti uključen u metodologiju utvrđivanja iznosa tarifnih stavki, sustava na koji se izravni plinovod priključuje.

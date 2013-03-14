@@ -1,0 +1,4 @@
+# Članak 106.
+(1) U razdoblju od dana stupanja na snagu ovoga Zakona do 31. ožujka 2014. za ponuditelja energije uravnoteženja na godišnjoj razini određuje se energetski subjekt koji je do dana stupanja na snagu ovoga Zakona obavlja energetsku djelatnost dobave plina.
+(2) Operator tržišta plina dužan je do 15. siječnja 2014. odabrati ponuditelja energije uravnoteženja na godišnjoj razini, sukladno članku 48. točki 5. ovoga Zakona, a koji će biti ponuditelj energije uravnoteženja na godišnjoj razini od 1. travnja 2014.
+(3) U slučaju da operator tržišta plina iz opravdanih razloga ne odabere ponuditelja energije uravnoteženja na godišnjoj razini, sukladno stavku 2. ovoga članka, za ponuditelja energije uravnoteženja na godišnjoj razini određuje se opskrbljivač plinom koji ima zakupljen najveći udio radnog volumena u sustavu skladišta plina u Republici Hrvatskoj.
