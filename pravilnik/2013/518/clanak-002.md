@@ -1,0 +1,2 @@
+# Članak 2.
+Proračuni propisani Pravilnikom o energetskim pregledima građevina i energetskom certificiranju zgrada (»Narodne novine« br. 81/12) koji se provode prema Metodologiji provođenja energetskog pregleda građevina, u dijelu koji se odnosi na proračun i modeliranje toplinskih gubitaka za stvarne uvjete korištenja, odnosno potrebne (isporučene) energije, u sustavima grijanja, pripreme potrošne tople vode, hlađenja, ventilacije, djelomične klimatizacije i klimatizacije, te potrebne energije za rasvjetu, provode se nakon 30. lipnja 2013.

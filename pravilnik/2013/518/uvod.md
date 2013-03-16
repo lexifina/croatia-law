@@ -1,0 +1,1 @@
+Na temelju članka 19. stavka 7. i članka 21. Zakona o učinkovitom korištenju energije u neposrednoj potrošnji (»Narodne novine«, broj 152/08 i 55/12), ministrica graditeljstva i prostornoga uređenja donosi
