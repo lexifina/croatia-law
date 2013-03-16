@@ -1,0 +1,1 @@
+Pravilnik o izmjeni Pravilnika o mjerilima za određivanje plaće vojnodiplomatskim osobama, osobama upućenim na rad u međunarodne organizacije, administrativno-tehničkom osoblju, odnosno nediplomatskom osoblju te članovima njihove uže obitelji

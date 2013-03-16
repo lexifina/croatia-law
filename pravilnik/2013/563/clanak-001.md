@@ -1,0 +1,2 @@
+# Članak 1.
+U Pravilniku o mjerilima za određivanje plaće vojnodiplomatskim osobama, osobama upućenim na rad u međunarodne organizacije, administrativno-tehničkom osoblju, odnosno nediplomatskom osoblju te članovima njihove uže obitelji (»Narodne novine«, br. 125/03, 61/07 i 90/08), Prilog I. pod nazivom: »Koeficijent polazne osnovice složenosti poslova prema vojno-diplomatskim i nediplomatskim zvanjima« zamjenjuje se novim Prilogom 1. koji se nalazi u prilogu ovoga Pravilnika i njegov je sastavni dio.
