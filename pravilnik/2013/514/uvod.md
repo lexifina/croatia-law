@@ -1,0 +1,1 @@
+Na temelju članka 20. stavka 3., članka 24. stavka 8., članka 30. stavka 5., članka 35. stavka 2., članka 36. stavka 3. i članka 39. stavka 3. Zakona o potpori poljoprivredi i ruralnom razvoju (»Narodne novine«, br. 120/12 i 136/12), ministar poljoprivrede donosi
