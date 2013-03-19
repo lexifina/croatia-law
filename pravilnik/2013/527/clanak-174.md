@@ -1,0 +1,10 @@
+## Odjeljak 3.
+## POSEBNE ODREDBE O LETENJU BESPILOTNIH ZRAKOPLOVA I DRUGIH UPRAVLJIVIH I NEUPRAVLJIVIH LETEĆIH OBJEKATA
+## Opći uvjeti za letenje bespilotnih zrakoplova i drugih daljinski upravljivih i neupravljivih letećih objekata
+# Članak 174.
+(1) Svaki rukovatelj bespilotnog zrakoplova i drugih daljinski upravljanih i neupravljanih letećih objekata mora rukovati na način da ne ugrožava i/ili ne ometa javni red i mir, poglavito druge osobe i stvari na tlu, te da ne ometa propisno odvijanje letenja drugih bespilotnih zrakoplova. Svaki rukovatelj mora rukovati na način da izbjegava zrakoplove s posadom.
+(2) Letenje bespilotnih zrakoplova ne smije se obavljati na udaljenosti manjoj od 150 m (500 stopa) od naseljenog područja bez odobrenja Agencije. Odobrenje nije potrebno za letenje zrakoplovnih modela ukupne mase do 5 kg, kao i za letenje zrakoplovnih modela na raketni pogon kod kojih masa pogonskog goriva iznosi 20 g ili manje.
+(3) Svaki rukovatelj bespilotnog zrakoplova i drugih daljinski upravljanih i neupravljanih letećih objekata, dužan je održavati dostatna odstojanja od objekata, vozila, plovila, cesta, željezničkih pruga, vodenih putova ili dalekovoda.
+(4) Zabranjeno je letenje prema osobama i životinjama, te prelijetanje skupova osoba. Tijekom uzlijetanja i slijetanja na uzletno-sletnim površinama ne smiju se nalaziti neovlaštene osobe i pokretne prepreke.
+(5) Letenje bespilotnih zrakoplova izvan vidnog polja rukovatelja i letenje bespilotnih zrakoplova mase veće od 20 kg dozvoljeno je samo u područjima s ograničenjem letenja. Pod letom izvan vidnog polja smatra se let pri kojem rukovatelj ne može jasno vidjeti bespilotni zrakoplov i njegovu orijentaciju bez pomoći specijalnih optičkih pomagala.
+(6) Bespilotni zrakoplov mora biti opremljen mehanizmom koji će omogućiti da u slučaju bilo kakvog kvara na uređaju ili gubitka kontrole nad uređajem neće doći do ugrožavanja osoba i imovine, a rukovatelj se mora uvjeriti da je taj mehanizam ispravan prije početka leta. Ukoliko bespilotni zrakoplov nosi teret, isti mora biti propisno osiguran. Odredbe ovoga stavka nisu primjenjive za zrakoplovne modele do 5 kg.

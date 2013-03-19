@@ -1,0 +1,7 @@
+## Otkaz uređaja za upravljanje i drugih uređaja koji mogu utjecati na letnu sposobnost zrakoplova
+# Članak 155.
+(1) Ako na zrakoplovu tijekom leta dođe do kvara ili prestanka rada uređaja za upravljanje zrakoplovom ili nekog drugog uređaja, čiji kvar ili prestanak rada može utjecati na letnu sposobnost zrakoplova, pilot zrakoplova mora se pridržavati, ovisno o fazi leta, pravila određenih odredbama ovoga članka.
+(2) U slučaju iz stavka 1. ovoga članka, pilot zrakoplova mora:
+1. u fazi uzlijetanja, kad zrakoplov ne dostigne predviđenu kritičnu brzinu - prekinuti daljnje uzlijetanje, zadržavajući isti smjer kretanja i zrakoplov zaustaviti na glavnoj stazi ili na dijelu aerodroma predviđenom za ovakve slučajeve. Ako je predviđena kritična brzina dostignuta, uzlijetanje se nastavlja i zrakoplov se zadržava na dostignutoj razini, ili se blagim penjanjem usmjerava prema terenu prikladnom za prisilno slijetanje;
+2. tijekom putnog leta - let nastaviti na najpogodnijoj razini, uz odobrenje nadležne kontrole zračnoga prometa, i zrakoplov usmjeriti prema najbližem aerodromu za slijetanje, ako okolnosti to omogućuju. U suprotnom zrakoplov se usmjerava prema terenu, prikladnom za prisilno slijetanje,
+3. u fazi slijetanja - let nastaviti uz pomoć nadležne kontrole zračnoga prometa, koja oslobađa uzletno-sletnu stazu, radi slijetanja zrakoplova. Ako okolnosti to ne omogućuju, zrakoplov se usmjerava prema terenu, prikladnom za slijetanje.

@@ -1,0 +1,6 @@
+## Podešavanje brzine zrakoplova u dolasku i tijekom snižavanja
+# Članak 94.
+(1) Zrakoplov bi, kad god je to moguće, trebao apsorbirati najavljeni period kašnjenja u dolasku krstarenjem smanjenom brzinom u zadnjem dijelu leta. U tu svrhu zrakoplov u dolasku može dobiti uputu da održava maksimalnu brzinu, minimalnu brzinu u čistoj konfiguraciji, minimalnu brzinu ili točno određenu brzinu.
+(2) Kontrolor zračnog prometa treba izbjegavati izdavanje upute pilotu turbomlaznog zrakoplova kojom se zahtijeva smanjenje brzine na manje od 250 kt IAS tijekom početnog snižavanja s razine krstarenja osim u slučaju kad za to ima suglasnost pilota.
+(3) Zrakoplovu u dolasku treba biti omogućen let u čistoj konfiguraciji što je duže moguće. Ispod FL150 kontrolor zračnog prometa može izdati uputu kojom se od pilota turbomlaznog zrakoplova zahtijeva smanjenje brzine na minimalno 220 kt IAS.
+(4) U svrhu uspostavljanja slijeda za prilaženje i smanjenja potrebnog broja vektora, nadležna kontrola zračnoga prometa može, prilikom radarskog vektoriranja tijekom međuprilaženja i završnog prilaženja, zahtijevati da zrakoplov pod radarskom kontrolom podesi brzinu za najviše ± 20 kt, na temelju indicirane brzine (IAS). Podešavanje brzine se ne smije zahtijevati ili primjenjivati nakon što je zrakoplov u završnom prilaženju preletio točku udaljenu 4 NM od praga uzletno-sletne staze.

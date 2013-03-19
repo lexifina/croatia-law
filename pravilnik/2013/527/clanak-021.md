@@ -1,0 +1,8 @@
+## Grupni let
+# Članak 21.
+(1) Za obavljanje grupnog leta potrebna je suglasnost svih pilota koji sudjeluju u takvom letu.
+(2) Prilikom izdavanja odobrenja kontrole zračnog prometa i primjene razdvajanja, nadležna kontrola zračnog prometa smatrat će zrakoplove koji sudjeluju u grupnim letovima jednim zrakoplovom. Vođa grupe i piloti koji sudjeluju u grupnim letovima odgovorni su za održavanje potrebnog sigurnog međusobnog odstojanja unutar grupe, te tijekom manevriranja u svrhu stvaranja i razdvajanja grupe.
+(3) Prilikom obavljanja grupnih letova u kontroliranom zračnom prostoru, piloti svih zrakoplova u grupi moraju održavati horizontalni razmak do najviše 0,5 NM i vertikalni razmak do najviše 100 stopa od zrakoplova vođe grupe. Ako se namjerava letjeti na većim razmacima, mora se od nadležne kontrole zračnog prometa zatražiti odobrenje za razdvajanje grupe i primjenu pojedinačnog razdvajanja.
+(4) Zone aerodromskog prometa i kontrolirane zone moraju se tijekom obavljanja grupnih letova izbjegavati ako se unutar njih ne namjerava sletjeti u skladu sa člankom 37. stavkom 1. točkom 13. ovoga Pravilnika.
+(5) Svi zrakoplovi u grupi moraju biti opremljeni propisanom komunikacijskom i navigacijskom opremom. Tijekom grupnog letenja radiotelefonsku komunikaciju s nadležnom kontrolom zračnog prometa u skladu s odredbama članka 11. stavak 4. ovoga Pravilnika obavlja vođa grupe, a ostali zrakoplovi u grupi moraju biti na slušanju (stalnom prijamu) na istoj frekvenciji. Samo vođa grupe postavlja SSR transponder na odgovarajući dodijeljeni ili propisani kod.
+(6) Ako tijekom grupnog leta vođa grupe izgubi orijentaciju, postupa se u skladu s odredbama članka 152. stavaka 2. i 3. ovoga Pravilnika.

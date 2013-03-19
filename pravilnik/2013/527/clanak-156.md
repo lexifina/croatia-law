@@ -1,0 +1,6 @@
+## Poniranje u nuždi i požar na zrakoplovu
+# Članak 156.
+(1) Ako tijekom leta zrakoplova koji ima putničku kabinu pod tlakom dođe do dekompresije kabine, ili ako tijekom leta zrakoplova koji leti nadzvučnom brzinom na visini većoj od 49 000 stopa dođe do povećanog sunčevog svemirskog zračenja, pilot zrakoplova mora pristupiti primjeni postupka poniranja u nuždi, tako da smanji razinu na kojoj leti do sigurne razine, te napustiti rutu, ako se na njoj nalazi. Pilot zrakoplova nastavlja daljnji let prema dogovoru s nadležnom kontrolom zračnoga prometa.
+(2) Ako je radi dekompresije putničke kabine došlo do oštećenja osnovne strukture zrakoplova, zbog čega se može ugroziti sigurnost leta, pilot zrakoplova mora pristupiti postupku za prisilno slijetanje zrakoplova.
+(3) Posada zrakoplova na kojemu je tijekom leta došlo do požara, mora neodložno poduzeti mjere predviđene za slučaj požara, na način utvrđen u letačkom priručniku toga zrakoplova (uključivanje protupožarnih uređaja, smanjenje brzine, isključenje odnosnog motora itd.). Prilikom pojave požara na zrakoplovu u letu, pilot zrakoplova pokušat će ugasiti požar klizajućim letom zrakoplova u stranu suprotnu od mjesta izbijanja požara.
+(4) Ako i pored svih poduzetih mjera požar, nije mogao biti ugašen, pilot zrakoplova je dužan pristupiti postupku za prisilno slijetanje.

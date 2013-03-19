@@ -1,0 +1,5 @@
+## Pružanje pomoći zrakoplovu ili plovilu
+# Članak 159.
+(1) Ako pilot zrakoplova u letu opazi, da se neki zrakoplov ili plovilo nalazi u nevolji na vodenoj površini, dužan je o tome neodložno izvijestiti i posadu plovila koje se nalazi u blizini, radi pružanja pomoći zrakoplovu odnosno plovilu u nevolji.
+(2) Ako pilot zrakoplova nije mogao uspostaviti radiokomunikaciju sa posadom plovila, obavijestit će posadu plovila tako, da će iznad plovila izvesti najmanje jedan zaokret od 360 stupnjeva, preletjeti okomito ispred pramca plovila na maloj visini i mijenjati uzdužni nagib zrakoplova, promijeniti snagu motora ili promijeniti korak propelera, te nakon toga usmjeriti zrakoplov u smjeru, kojega plovilo treba slijediti, radi dolaska na mjesto gdje se nalazi zrakoplov odnosno plovilo u nevolji.
+(3) Ako se naknadno utvrdi da pomoć plovila nije potrebna, pilot zrakoplova u letu prenijet će to posadi plovila tako, da će okomito na trag plovila preletjeti blizinu krme plovila na maloj visini, a zatim mijenjati uzdužni nagib zrakoplova, uz istodobnu promjenu snage motora ili koraka propelera.

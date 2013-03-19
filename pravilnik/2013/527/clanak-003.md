@@ -1,0 +1,7 @@
+## Temeljna pravila ponašanja u zračnom prometu
+# Članak 3.
+(1) Svaki sudionik u zračnom prometu, koji pripada zrakoplovnom, pomoćnom ili drugom stručnom osoblju, mora se ponašati na način koji jamči sigurnost i red u obavljanju zračnog prometa, te da pritom nitko nije ugrožen, oštećen ili ometan i uznemiravan više nego što je u danim okolnostima neizbježno.
+(2) Buka koju stvara zrakoplov ne smije biti veća nego što to neizbježno zahtijeva propisno upravljanje ili opsluživanje zrakoplova.
+(3) Osoba koja je pod utjecajem alkohola ili drugih omamljujućih sredstava ili koja je u takvom tjelesnom ili duševnom stanju da nije u stanju obavljati poslove pilota zrakoplova ili člana posade ne smije upravljati zrakoplovom niti djelovati kao član posade.
+(4) Odredbe stavka 3. ovoga članka odgovarajuće se primjenjuju i na ostalo zrakoplovno osoblje.
+(5) U smislu ovoga Pravilnika, smatrat će se da je pod utjecajem alkohola osoba, kojoj je prisutnost alkohola u organizmu utvrđena odgovarajućim sredstvima za mjerenje alkoholiziranosti, a odgovara količini većoj od 0,2 g/kg. Član posade zrakoplova ne smije konzumirati alkohol najmanje 8 sati prije leta. Pod omamljujućim sredstvima u smislu ovoga Pravilnika podrazumijevaju se sredstva koja utječu na tjelesno i duševno stanje osobe, zbog kojih je ugroženo sigurno i pravilno obavljanje njezinih poslova, te zbog kojih je ugrožena njena sigurnost i sigurnost osoba s kojima dolazi u dodir tijekom obavljanja poslova.

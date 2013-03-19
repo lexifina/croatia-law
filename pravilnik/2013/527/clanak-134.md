@@ -1,0 +1,6 @@
+## Segment početnog prilaženja
+# Članak 134.
+(1) U ovoj fazi leta, pilot zrakoplova leti od preletišta početnog prilaženja i vodi zrakoplov prema produženoj putanji završnog prilaženja do preletišta međuprilaženja (IF).
+(2) U ovoj fazi leta, dopuštene su velike brzine snižavanja (4 - 8%, što odgovara 250 do 500 stopa/NM). Segment početnog prilaženja osigurava nadvisivanje prepreka od najmanje 1000 stopa u primarnom području.
+(3) Vođenje zrakoplova po putanji uzduž segmenta početnog prilaženja do preletišta međuprilaženja, pilot zrakoplova može provoditi s maksimalnim kutom uvođenja od 90° kod preciznog prilaženja, odnosno 120° kod nepreciznog prilaženja, primjenjujući pritom propisane povratne postupke (proceduralni zaokret i osnovni zaokret) ili produljene postupke u skladu s Dodatkom 7. slika 2. ovoga Pravilnika.
+(4) Prilikom primjene povratnih postupaka i produljenih postupaka iz stavka 3. ovoga članka, pilot zrakoplova mora, kod određivanja smjerova i proračuna vremena (timing), na odgovarajući način uzeti u obzir smjer i brzinu vjetra. Svi zaokreti moraju se izvoditi pod kutem poprečnog nagiba od 25° ili kutom poprečnog nagiba koji daje brzinu zaokreta od 3°/s, ovisno o tome koji je kut manji.
