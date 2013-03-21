@@ -1,0 +1,8 @@
+# Članak 2.
+Naslov iznad članka 8. i članak 8. mijenjaju se i glase:
+»3. SAMOSTALNI SEKTOR ZA JAVNU NABAVU
+Članak 8.
+Samostalni sektor za javnu nabavu planira, provodi i upravlja procesima javne nabave roba, radova i usluga za potrebe Ministarstva koje pojedini korisnici iskažu kao potrebu kroz svoje zahtjeve za javnu nabavu; planira, provodi i upravlja procesima javne nabave roba, radova i usluga za potrebe zdravstvenih ustanova; surađuje s ustrojstvenim jedinicama Ministarstva i zdravstvenim ustanovama radi uključivanja u plan i proces nabave i koordinira procese nabave s korisnicima; surađuje s nadležnim tijelima u Republici Hrvatskoj iz područja javne nabave (Ministarstvo gospodarstva, Državna komisija za kontrolu postupaka javne nabave, Državni ured za središnju javnu nabavu, Agencija za javno-privatno partnerstvo); surađuje sa subjektima i tijelima u Europskoj uniji koja su zadužena za praćenje, nadzor i pravnu zaštitu u provođenju postupaka javne nabave; daje mišljenje o prijedlozima propisa o javnoj nabavi; razvija i predlaže smjernice, pruža potporu sustavnom praćenju i primjeni propisa koji su vezani uz sustav javne nabave; izrađuje i standardizira operativne postupke i procedure za provođenje javne nabave; izrađuje propisana i druga izvješća sukladno zakonima i ostalim propisima iz područja javne nabave; sudjeluje u planiranju državnog proračuna u okviru svojih nadležnosti te definiranju pokazatelja uspješnosti i utvrđivanju rizika u okviru djelokruga Sektora; obavlja i druge poslove po nalogu ministra.
+Za obavljanje poslova Samostalnog sektora za javnu nabavu ustrojavaju se:
+3.1.Služba za planiranje i pripremu postupaka javne nabave
+3.2.Služba za provedbu postupaka javne nabave.«.
