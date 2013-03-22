@@ -1,0 +1,1 @@
+Na temelju članka 14. Zakona o Hrvatskoj poljoprivrednoj komori (»Narodne novine« 30/09, 127/10 i 50/12) Skupština Hrvatske poljoprivredne komore na 8. sjednici održanoj 17. prosinca 2012. donosi Statut Hrvatske poljoprivredne komore.
