@@ -1,0 +1,2 @@
+# Članak 1.
+Potvrđuje se Sporazum o financiranju između Vlade Republike Hrvatske i Europske komisije kojim se mijenja Sporazum o financiranju između Vlade Republike Hrvatske i Europske komisije za višegodišnji Operativni program »Zaštita okoliša« za pomoć Zajednice iz Instrumenta pretpristupne pomoći u sklopu komponente »Regionalni razvoj« u Hrvatskoj, potpisan u Bruxellesu 30. listopada 2012. i u Zagrebu 13. prosinca 2012. u izvorniku na engleskom jeziku.

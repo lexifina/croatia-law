@@ -1,0 +1,2 @@
+# Članak 3.
+Sredstva za financijske obveze koje nastaju za Republiku Hrvatsku na temelju Sporazuma o financiranju iz članka 1. ovoga Zakona planiraju se i podmiruju u okviru proračunskih sredstava na poziciji središnjih tijela državne uprave nadležnih za poslove zaštite okoliša i vodnoga gospodarstva te na poziciji Hrvatskih voda, Fonda za zaštitu okoliša i energetsku učinkovitost i u okviru proračunskih sredstava jedinica lokalne i područne (regionalne) samouprave.
