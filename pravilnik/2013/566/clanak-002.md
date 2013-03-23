@@ -1,0 +1,3 @@
+# Članak 2.
+U Pravilniku o veterinarskim uvjetima za uvoz i provoz određenih živih papkara i kopitara (»Narodne novine«, broj 41/09) u Dodatku II. u tablici u desetom retku »bolest plavog jezika« drugom stupcu riječi: »Nije bilo slučajeva bolesti i nije se provodilo cijepljenje u prethodnih 12 mjeseci uz odgovarajuću kontrolu populacije Culicoides« zamjenjuju se riječima: »Nije bilo slučajeva bolesti i nije se provodilo cijepljenje u prethodnih 24 mjeseci uz odgovarajuću kontrolu populacije Culicoides«.
+U trećem stupcu riječi: »Sve vrste osim vrsta iz porodice Suidae (prave svinje)« zamjenjuju se riječima: »Sve vrste osim onih iz rodova Bos, Bison, Bubalus, Ovis, Capra i vrsta iz porodice Suidae«.
