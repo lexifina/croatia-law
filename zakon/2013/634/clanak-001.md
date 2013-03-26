@@ -1,0 +1,5 @@
+# Članak 1.
+U Zakonu o igrama na sreću (»Narodne novine«, br. 87/09.) iza članka 78. dodaje se članak 78.a koji glasi:
+»Članak 78.a
+(1) Trgovačka društva koja igre na sreću priređuju u casinima i automat klubovima na osnovi odluke Vlade Republike Hrvatske o dodjeli koncesije te koja su uskladila svoj rad, akte i poslovanje s odredbama Zakona o igrama na sreću (»Narodne novine«, br. 87/09.) nastavljaju raditi do isteka trajanja koncesija.
+(2) Trgovačkim društvima koja igre na sreću priređuju u automat klubovima na osnovi odluke Vlade Republike Hrvatske o dodjeli koncesije te koja su svoj rad, akte i poslovanje uskladila s odredbama Zakona o igrama na sreću (»Narodne novine«, br. 87/09.) može se temeljem odobrenja ministra financija produljiti pravo priređivanja igara na sreću na automatima na razdoblje do jedne godine od dana isteka trajanja koncesije. Pravo priređivanja produljuje se na temelju zahtjeva koji se podnosi Ministarstvu financija. Trgovačkim društvima koja nemaju podmirene sve obveze javnih davanja neće se produljiti pravo priređivanja.«.
