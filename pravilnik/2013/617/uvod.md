@@ -1,0 +1,1 @@
+Na temelju članka 34. stavka 1. Zakona o izmjenama i dopunama Pomorskog zakonika (»Narodne novine« broj 76/07) u svezi s člankom 77. stavka 4. Pomorskog zakonika (»Narodne novine« 181/04, 76/07, 146/08 i 61/11), ministar pomorstva, prometa i infrastrukture donosi

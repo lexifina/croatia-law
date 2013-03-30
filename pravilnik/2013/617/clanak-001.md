@@ -1,0 +1,4 @@
+# Članak 1.
+U Pravilniku o rukovanju opasnim tvarima, uvjetima i načinu obavljanja prijevoza u pomorskom prometu, ukrcavanja i iskrcavanja opasnih tvari, rasutog i ostalog tereta u lukama, te načinu sprječavanja širenja isteklih ulja u lukama (»Narodne novine« br. 51/05 i 127/10), u članku 146. iza stavka 2. dodaju se stavci 3. i 4. koji glase:
+»Iznimno od stavka 2. ovoga članka, ro-ro putnički i putnički brodovi koji obavljaju pomorski obalni linijski prijevoz između kopna i otoka, kada ne postoji druga mogućnost snabdijevanja otoka tekućim gorivima, mogu prevoziti tekuća goriva kao ručnu prtljagu istovremeno uz prijevoz putnika, ukoliko su ispunjeni uvjeti navedeni u Prilogu 6. ovog Pravilnika.
+Sposobnost broda za prijevoz opasnih tvari iz stavka 3. ovoga članka odobrava priznata organizacija.«
