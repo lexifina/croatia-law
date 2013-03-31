@@ -1,0 +1,2 @@
+# Članak 3.
+Državljani države jedne stranke koji su upućeni na rad u diplomatske misije, konzularne urede ili predstavništva svoje države pri međuvladinim organizacijama, smještene na državnom području države druge stranke, kao i članovi njihovih obitelji (suprug/supruga, maloljetna djeca, punoljetna djeca nesposobna za rad) koji stalno borave s njima, i imaju valjane diplomatske ili službene putovnice, tijekom čitavog razdoblja njihove akreditacije bez vize ulaze, borave i napuštaju državno područje države te stranke.

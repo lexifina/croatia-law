@@ -1,0 +1,2 @@
+# Članak 6.
+Diplomatske misije i konzularni uredi države jedne stranke mogu izdavati višekratne vize s rokom valjanosti do 1 godine supružnicima, djeci i roditeljima, nositeljima valjanih isprava, koji ne žive zajedno s akreditiranim članovima diplomatskih misija, konzularnih ureda, kao i predstavništava države druge stranke pri međuvladinim organizacijama na državnom području države te stranke - na osnovi note dotične diplomatske misije, konzularnog ureda ili predstavništva pri međuvladinoj organizaciji, upućene ministarstvu vanjskih poslova države boravka.

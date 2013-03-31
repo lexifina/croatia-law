@@ -1,0 +1,3 @@
+# Članak 4.
+1. Državljani Republike Hrvatske, koji imaju odobrenje za privremeni boravak ili osobnu iskaznicu za stranca u Ruskoj Federaciji, bez vize ulaze, borave i napuštaju njezino državno područje na osnovi valjanih isprava i odobrenja za privremeni boravak ili osobne iskaznice za stranca, koje su izdala nadležna tijela Ruske Federacije, tijekom razdoblja njihove valjanosti.
+2. Državljani Ruske Federacije, koji imaju odobrenje za privremeni ili stalni boravak u Republici Hrvatskoj, bez vize ulaze, borave i napuštaju njezino državno područje na osnovi valjanih isprava i odobrenja za privremeni boravak ili odobrenja za stalni boravak, koje su izdala nadležna tijela Republike Hrvatske, tijekom razdoblja njihove valjanosti.
