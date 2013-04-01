@@ -1,0 +1,5 @@
+## Godišnji odmor
+# Članak 45.
+Radnik ima za svaku kalendarsku godinu pravo na godišnji odmor u trajanju od najmanje 20, do najviše 30 radnih dana, s tim da se kod utvrđivanja trajanja godišnjeg odmora subote neće uračunavati u radne dane.
+Iznimno, od odredbe prethodnog stavka ovog članka, radnici koji ispunjavaju uvjete iz čl. 51. stavka 1., alineje 1. - 3. ovog Kolektivnog ugovora imaju pravo na godišnji odmor do najviše 35 radnih dana.
+Ništavan je sporazum o odricanju od prava na godišnji odmor, odnosno o isplati naknade umjesto korištenja godišnjeg odmora.

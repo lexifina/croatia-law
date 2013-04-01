@@ -1,0 +1,2 @@
+# Članak 149.
+Ugovorne strane su suglasne da razdvajanjem prema modelu neovisnosti operatora prijenosa u skladu s odredbama Zakona o tržištu električne energije, a zbog provedbe trećega energetskog paketa Europske unije u Republici Hrvatskoj i osiguranja njegove neovisnosti u odlučivanju i poslovanju u skladu sa Zakonom, poslodavac HEP - Operator prijenosnog sustava d.o.o. prestaje biti stranka ovoga Kolektivnog ugovora.
