@@ -1,0 +1,1 @@
+Na temelju članka 10. stavka 3. i članka 129. stavka 6. Zakona o obrani (»Narodne novine«, br. 33/02, 58/02, 76/07 i 153/09) i članka 174. Zakona o službi u Oružanim snagama Republike Hrvatske (»Narodne novine«, br. 33/02, 58/02, 175/03, 136/04, 76/07, 88/09 i 124/09) donosim
