@@ -1,0 +1,4 @@
+# Članak 3.
+Zdravstvenu zaštitu na primarnoj razini zdravstvene djelatnosti osigurane osobe Zavoda (u daljnjem tekstu: osigurane osobe) ostvaruju slobodnim izborom doktora medicine i doktora dentalne medicine kojeg, u pravilu, biraju prema mjestu prebivališta, odnosno boravka u skladu sa Zakonom i općim aktom Zavoda.
+Zdravstvenu zaštitu na sekundarnoj i tercijarnoj razini zdravstvene djelatnosti osigurane osobe Zavoda ostvaruju osnovom uputnice izabranog ugovornog doktora primarne zdravstvene zaštite iz stavka 1. ovog članka i interne uputnice iz članka 9. stavka 5. ove Odluke.
+Zdravstvenu zaštitu na razini zdravstvenih zavoda osigurane osobe ostvaruju na primarnoj razini zdravstvene djelatnosti prema mjestu prebivališta, odnosno boravka, a na sekundarnoj i tercijarnoj razini zdravstvene djelatnosti na osnovi uputnice izabranog ugovornog doktora primarne zdravstvene zaštite i na osnovi bolničke interne uputnice iz članka 9. stavka 5. ove Odluke.

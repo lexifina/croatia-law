@@ -1,0 +1,4 @@
+# Članak 96.
+Zavod u skladu s odredbama ove Odluke i posebnim odlukama Upravnog vijeća Zavoda utvrđuje iznos novčanih sredstava iz obveznog zdravstvenog osiguranja za domove zdravlja.
+Iznos novčanih sredstava iz stavka 1. ovog članka domovima zdravlja utvrđuje se u skladu s ugovorenim sadržajima pojedinog doma zdravlja s time da dom zdravlja, u skladu s posebnom Odlukom Upravnog vijeća, može za timove ugovorene u djelatnostima opće/obiteljske medicine, zdravstvene zaštite predškolske djece, zdravstvene zaštite žena i dentalne zdravstvene zaštite (polivalentne) u slučaju osnivanja savjetovališta ostvariti dodatni prihod u visini od 5% vrijednosti iznosa glavarine za timove ugovorene u određenoj djelatnosti ovisno o tipu savjetovališta.
+2. Cijene i način plaćanja zdravstvene zaštite na sekundarnoj i tercijarnoj razini zdravstvene djelatnosti

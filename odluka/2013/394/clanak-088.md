@@ -1,0 +1,6 @@
+# Članak 88.
+Za provođenje dentalne zdravstvene zaštite obračunavaju se i troškovi dentalnog tehničara za izradu dentalno-protetskih pomagala, ortodontskih uređaja, udlaga, resekcijskih proteza, epiteza i opturatora (u daljnjem tekstu: dentalno pomagalo), posebice za svako naručeno i izrađeno dentalno pomagalo za osigurane osobe u skladu s Pravilnikom o ortopedskim i drugim pomagalima i općim aktom Zavoda o utvrđivanju cijene rada i materijala dentalnih tehničara za izradu dentalnog pomagala za osigurane osobe.
+Troškovi dentalnih tehničara iz stavka 1. ovog članka naknađuju se ugovornoj zdravstvenoj ustanovi za radnika doktora dentalne medicine i ugovornom privatnom doktoru dentalne medicine osnovom ispostavljenih osobnih računa koje izdaje dentalni tehničar, a prema ovjerenim potvrdama o izradi ili popravku dentalnog pomagala.
+Ugovorna zdravstvena ustanova za radnika doktora dentalne medicine, te ugovorni privatni doktor dentalne medicine obvezan je platiti dentalnom tehničaru troškove za izrađeno dentalno pomagalo odmah, a najkasnije u roku od 5 dana računajući od dana zaprimanja sredstava za ispostavljene i priznate osobne račune za izrađeno dentalno pomagalo od strane Zavoda.
+Cijena rada dentalnog tehničara za izradu dentalnog pomagala utvrđuje se u skladu s općim aktom Zavoda.
+1.5. Laboratorijska dijagnostika

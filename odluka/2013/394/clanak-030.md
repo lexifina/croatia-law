@@ -1,0 +1,5 @@
+# Članak 30.
+Standardni broj pretraga u primarnoj laboratorijskoj dijagnostici za tim opće/obiteljske medicine sa standardnim brojem osiguranih osoba u timu iznosi 850 pretraga.
+Zavod je obvezan mjesečno pratiti medicinsku opravdanost izvršenih pretraga u primarnoj laboratorijskoj dijagnostici po izabranom doktoru ugovorenom u djelatnosti opće/obiteljske medicine u odnosu na standard iz stavka 1. ovog članka te poduzimati odgovarajuće mjere iz svoje nadležnosti u skladu sa sklopljenim ugovorom o provođenju primarne zdravstvene zaštite iz obveznog zdravstvenog osiguranja.
+Zavod je obvezan mjesečno pratiti medicinsku opravdanost izvršenih pretraga u primarnoj laboratorijskoj dijagnostici po izabranom doktoru ugovorenom i u djelatnostima zdravstvene zaštite žena i zdravstvene zaštite predškolske djece radi utvrđivanja standarda u provođenju pretraga u primarnoj laboratorijskoj dijagnostici.
+Provedene pretrage u primarnoj laboratorijskoj dijagnostici vezane uz preventivne programe i nacionalne preventivne programe ne uračunavaju se u standardni broj pretraga u laboratorijskoj dijagnostici.

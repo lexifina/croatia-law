@@ -1,0 +1,2 @@
+# Članak 56.
+Zdravstvenu zaštitu iz obveznog zdravstvenog osiguranja na razini zdravstvenih zavoda provode državni zdravstveni zavodi, županijski zavodi za javno zdravstvo, odnosno Zavod za javno zdravstvo Grada Zagreba s kojima Zavod sklapa ugovore o provođenju zdravstvene zaštite iz obveznog zdravstvenog osiguranja u skladu sa Zakonom i ovom Odlukom te osnovom provedenog natječaja za popunu mreže.

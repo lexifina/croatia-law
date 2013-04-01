@@ -1,0 +1,3 @@
+# Članak 29.
+Zavod je obvezan pratiti medicinsku opravdanosti provođenja specijalističko-konzilijarne zdravstvene zaštite ostvarene u izvanbolničkim ugovornim zdravstvenim ustanovama/privatnim praksama, te ugovornim bolničkim zdravstvenim ustanovama osnovom broja izdanih uputnica za specijalističku zdravstvenu zaštitu po ugovornom izabranom doktoru u djelatnosti opće/obiteljske medicine, zdravstvene zaštite žena, zdravstvene zaštite predškolske djece i dentalne zdravstvene zaštite.
+U sladu sa stavkom 1. ovog članka Zavod utvrđuje prosječan broj uputnica za specijalističku zdravstvenu zaštitu po osiguranoj osobi.

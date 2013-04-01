@@ -1,0 +1,3 @@
+# Članak 36.
+Osnova za sklapanje ugovora o provođenju primarne zdravstvene zaštite iz djelatnosti laboratorijske dijagnostike je ugovor o koncesiji za obavljanje javne zdravstvene službe uz odgovarajuće rješenje Ministarstva zdravlja o odobrenju za rad kao i odobrenje za samostalni rad nadležne komore.
+Osnova za sklapanje ugovora o provođenju primarne zdravstvene zaštite s domom zdravlja za djelatnost laboratorijske dijagnostike predstavljaju nepopunjena mjesta u mreži nakon dodjele koncesije.
