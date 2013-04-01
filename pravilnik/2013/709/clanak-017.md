@@ -1,0 +1,5 @@
+# Članak 17.
+U roku od 12 mjeseci od dana stupanja na snagu ovog Pravilnika, nova količina dijagnostičkih trakica za mjerenje šećera u krvi uređajem i lanceta za vađenje krvi iz prsta iz članka 46. Pravilnika
+o ortopedskim i drugim pomagalima (»Narodne novine« broj: 7/12., 14/12., 23/12., 25/12., 45/12., 69/12., 85/12., 92/12., 119/12.,147/12. i 21/13.) odobrava se isključivo uz predočenje ispisa iz evidencije uređaja za kontrolu šećera u krvi, odnosno uvidom u memoriju uređaja za kontrolu šećera u krvi putem odgovarajućeg programa, u količini usklađenoj s brojem samokontrola, a najviše do količine utvrđene u Popisu pomagala.
+U periodu iz stavka 1. ovog članka nositelji upis u očevidnik za uređaje za kontrolu šećera u krvi uvrštenih u Popis pomagala obvezuju se osigurati izabranim doktorima kao nadležnim doktorima odgovarajući program za provjeru memorije uređaja za kontrolu šećera u krvi.
+Najkasnije mjesec dana prije isteka roka iz stavka 1. ovog članka, Upravnom vijeću Zavoda obvezno se podnosi izvješće o ostvarenim preduvjetima za postupanje u skladu sa stavkom 1. ovog članka.
