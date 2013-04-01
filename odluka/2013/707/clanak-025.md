@@ -1,0 +1,4 @@
+# Članak 25.
+Posebni standard primjenjuje se na timove kojima u pravilu gravitira do 1400 osiguranih osoba, uz uvjet da je zadovoljeno mjerilo najteže zemljopisne i prometne izoliranosti, kao i mjerilo veće udaljenosti od doma zdravlja, odnosno organizacijske jedinice doma zdravlja ili ordinacije doktora ugovorenog u djelatnosti dentalne zdravstvene zaštite (polivalentne).
+Dodatna sredstva za tim iz stavka 1. ovog članka utvrđuju se kao razlika godišnje novčane vrijednosti koju ostvaruje standardni tim ugovoren u djelatnosti dentalne zdravstvene zaštite (polivalentne) osnovom broja opredijeljenih osiguranih osoba u skladu s člankom 81. stavkom 1. tablicom 1.4. Odluke o ugovaranju i pripadajućeg godišnjeg iznosa novčanih sredstava, utvrđenog prema broju i dobnoj strukturi neprijeporno opredijeljenih osiguranih osoba pojedinog tima.
+Odredbe ovog članka primjenjuju se pod uvjetom da je za tim opredijeljeno više od 75% osiguranih osoba koje gravitiraju tom timu.
