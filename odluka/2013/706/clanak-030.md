@@ -1,0 +1,5 @@
+# Članak 30.
+U članku 96. stavak 2. mijenja se i glasi:
+»Iznos novčanih sredstava iz stavka 1. ovog članka za domove zdravlja utvrđuje se u skladu s ugovorenim sadržajima pojedinog doma zdravlja s time da dom zdravlja, u skladu s posebnom Odlukom Upravnog vijeća, može za timove ugovorene u djelatnostima opće/obiteljske medicine, zdravstvene zaštite predškolske djece, zdravstvene zaštite žena i dentalne zdravstvene zaštite (polivalentne) u slučaju osnivanja savjetovališta ostvariti dodatni prihod u određenoj djelatnosti ovisno o tipu savjetovališta u visini od 5% vrijednosti iznosa glavarine za timove ugovorene u određenoj djelatnosti za koje je broj opredijeljenih osiguranih osoba veći od standardnog broja, odnosno razliku glavarine do iznosa glavarine standardnog tima za timove za koje je broj opredijeljenih osiguranih osoba manji, od standardnog broja.«
+Iza stavka 2. dodaje se novi stavak 3. koji glasi:
+»Uvjet za ugovaranje savjetovališta je sudjelovanje najmanje 80% timova doma zdravlja u uspostavljenom savjetovalištu za pojedinu djelatnost.«
