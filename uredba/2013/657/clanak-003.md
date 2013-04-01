@@ -1,0 +1,3 @@
+# Članak 3.
+(1) Ministarstvo osigurava Sigurnosno-obavještajnoj agenciji i mjerodavnim službama Ministarstva unutarnjih poslova neposredan pristup podacima u HVIS-u u svrhu zaštite nacionalne sigurnosti te u svrhu sprječavanja, otkrivanja i istrage terorističkih djelovanja i drugih teških kaznenih djela, u skladu sa zakonskim propisom koji uređuje zaštitu nacionalne sigurnosti i zakonskim propisom koji uređuje policijske poslove i ovlasti.
+(2) Ravnatelj Sigurnosno-obavještajne agencije i ministar unutarnjih poslova će posebnom odlukom odrediti osobe ovlaštene za neposredan pristup podacima iz stavka 1. ovoga članka.

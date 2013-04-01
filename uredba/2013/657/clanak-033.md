@@ -1,0 +1,4 @@
+## Rok čuvanja zapisa (logova)
+# Članak 33.
+(1) Ministarstvo čuva zapise o svim postupcima obrade podataka u HVIS-u. Takvi zapisi pokazuju koja je bila svrha pristupa, sukladno članku 5. stavku 1. i člancima 16., 17. i 20. i člancima 23. do 26. ove Uredbe, vrstu podataka upotrijebljenih za ispitivanje koji su navedeni u članku 16. stavku 2., članku 20., članku 23. stavcima 1. do 3., članku 24. stavku 1., članku 25. stavku 1. i članku 27. stavku 1. ove Uredbe te tijelo koje je unijelo i pretraživalo podatke.
+(2) Zapisi iz stavka 1. ovoga članka koriste se isključivo za nadzor zaštite podataka, dopuštenost njihove obrade i da bi se osigurala sigurnost podataka. Ti se zapisi zaštićuju odgovarajućim mjerama od neovlaštenog pristupa i brišu godinu dana nakon isteka roka čuvanja iz članka 27. ove Uredbe, osim ako nisu potrebni za već započeti postupak nadzora.
