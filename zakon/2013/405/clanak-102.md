@@ -1,0 +1,4 @@
+# Članak 102.
+Postupci pokrenuti prije stupanja na snagu ovoga Zakona dovršit će se primjenom odredbi Zakona o parničnom postupku (»Narodne novine«, br. 53/91., 91/92., 112/99., 88/01., 117/03., 88/05., 2/07., 84/08., 96/08., 123/08., 57/11. i 148/11.).
+Iznimno od odredbe stavka 1. ovoga članka, odredbe članka 1., članka 2., članka 6., članka 10. do članka 17., članka 19., članka 21. do 30., članka 35. do 38., članka 41. do članka 50., članka 52., članka 53., članka 57., članka 61., članka 71., članka 73. do članka 79., članka 81., članka 82., članka 93., članka 95., članka 96. stavka 1. i 2., članka 97., članka 98. i članka 101. ovoga Zakona primjenjivat će se na postupke pokrenute prije stupanja na snagu ovoga Zakona.
+Odredbe članka 9., članka 80. i članka 84. ovoga Zakona primjenjivat će se na postupke u kojima na dan stupanja na snagu ovoga Zakona nije donesena prvostupanjska odluka.

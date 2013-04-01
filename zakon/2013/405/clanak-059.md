@@ -1,0 +1,9 @@
+# Članak 59.
+Iza članka 288. dodaje se članak 288.a koji glasi:
+»Članak 288.a
+Sud će tijekom pripremnog ročišta strankama predložiti da spor riješe u postupku mirenja, odnosno upozoriti stranke na mogućnost sudske nagodbe.
+Sud će postavljanjem pitanja i na drugi svrsishodan način nastojati da se tijekom pripremnog ročišta iznesu sve odlučne činjenice, da se dopune nepotpuni navodi stranaka o važnim činjenicama, da se označe ili dopune dokazna sredstva koja se odnose na navode stranaka i, uopće, da se daju sva razjašnjenja potrebna za utvrđenje činjeničnog stanja važnog za odluku. U mjeri u kojoj je to potrebno radi ostvarivanja toga cilja, sud će sa strankama razmotriti i pravna pitanja spora.
+Ako stranka ili zakonski zastupnik stranke nije u stanju jasno i određeno izjasniti se o predmetu o kojem se raspravlja, a nema punomoćnika, sud će je upozoriti na potrebu da uzme punomoćnika.
+Ako stranka ne može odmah uzeti punomoćnika, sud će na njezin prijedlog odgoditi ročište.
+Kad je u ovom Zakonu predviđeno da stranka može staviti određeni prigovor ili prijedlog ili poduzeti kakvu drugu parničnu radnju dok se tuženik ne upusti u raspravljanje o glavnoj stvari, takav prigovor, odnosno prijedlog stranka može staviti, odnosno poduzeti drugu parničnu radnju sve dok tuženik nije podnio odgovor na tužbu, a ako tužba nije dostavljena tuženiku radi podnošenja pisanog odgovora na tužbu, sve dok tuženik na pripremnom ročištu ne iznese svoj odgovor na tužbu, osim ako ovim Zakonom nije drukčije predviđeno.
+Na pripremnom ročištu prigovor radi prebijanja može se istaknuti do donošenja rješenja o zaključenju prethodnog postupka. Materijalnopravni prigovori mogu se isticati i nakon toga, ali se radi njihova opravdanja ne mogu iznositi nove činjenice niti se mogu predlagati novi dokazi, osim u slučaju iz članka 299. stavka 2. ovoga Zakona.«.

@@ -1,0 +1,3 @@
+# Članak 17.
+U članku 134.b stavak 2. mijenja se i glasi:
+»Predsjednik suda može rješenjem donesenim u upravnom postupku odrediti da svi odvjetnici koji imaju pisarnicu na području toga suda, javni bilježnici koji imaju sjedište na području toga suda i određene pravne osobe koje imaju sjedište na području tog suda, sudska pismena primaju preko pretinaca iz stavka 1. ovoga članka. Protiv toga rješenja odvjetnik, javni bilježnik, odnosno pravna osoba ima pravo izjaviti prigovor u roku od osam dana. Protiv rješenja o prigovoru može se podnijeti žalba predsjedniku neposredno višeg suda u roku od 15 dana«.
