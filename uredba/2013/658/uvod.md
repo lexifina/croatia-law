@@ -1,0 +1,1 @@
+Na temelju članka 60. stavka 2. Zakona o besplatnoj pravnoj pomoći (»Narodne novine«, br. 62/2008, 44/2011 i 81/2011), Vlada Republike Hrvatske je na sjednici održanoj 21. ožujka 2013. godine donijela
