@@ -1,0 +1,7 @@
+# Članak 16.
+(1) Obrtnik može zaposliti jednu ili više dadilja ili pomoćnih dadilja, sukladno propisima kojima se uređuju radni odnosi, kada se djelatnost dadilje obavlja u stambenom ili poslovnom prostoru.
+(2) Ako obrtnik zaposli jednu ili više pomoćnih dadilja, ukupan broj djece iz članka 15. stavka 1. ovoga Zakona povećava se za dvoje, na način i pod uvjetima propisanim člankom 15. ovoga Zakona.
+(3) Ako obrtnik zaposli jednu ili više dadilja, ukupan broj djece iz članka 15. stavka 1. ovoga Zakona povećava se za šestero, na način i pod uvjetima propisanim člankom 15. ovoga Zakona.
+(4) U slučaju iz stavka 2. ovoga članka, zaposlena pomoćna dadilja ili najmanje jedna od više zaposlenih pomoćnih dadilja mora biti prisutna u stambenom ili poslovnom prostoru istodobno s obrtnikom, u vremenu u kojem se u obavljanju djelatnosti dadilje ukupan broj djece iz članka 15. stavka 1. ovoga Zakona povećava na način propisan stavkom 2. ovoga članka.
+(5) U slučaju iz stavka 3. ovoga članka, zaposlena dadilja ili najmanje jedna od više zaposlenih dadilja mora biti prisutna u stambenom ili poslovnom prostoru istodobno s obrtnikom, u vremenu u kojem se u obavljanju djelatnosti dadilje ukupan broj djece iz članka 15. stavka 1. ovoga Zakona povećava na način propisan stavkom 3. ovoga članka.
+(6) U obavljanju djelatnosti dadilje u stambenom ili poslovnom prostoru može se istodobno čuvati, brinuti se i skrbiti o najviše dvanaestero djece sukladno odredbama članaka 15. i 16. ovoga Zakona.

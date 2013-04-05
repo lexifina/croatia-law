@@ -1,0 +1,5 @@
+# Članak 21.
+(1) Obrtnik mora imati adresar djece koju čuva i o njima se brine i skrbi, a koji mora sadržavati podatke koji obuhvaćaju ime i prezime djeteta, adresu stanovanja djeteta i roditelja djeteta, telefonski broj roditelja djeteta, te ime, prezime i telefonski broj liječnika djeteta.
+(2) Podaci sadržani u adresaru djece iz stavka 1. ovoga članka smatraju se profesionalnom tajnom.
+(3) Adresar iz stavka 1. ovoga članka mora biti dostupan u svako doba osobama koje obavljaju inspekcijski i stručni nadzor sukladno odredbama ovoga Zakona, te se mora po potrebi mijenjati i redovito dopunjavati potrebnim podacima.
+(4) Za svako dijete koje dadilja čuva i o kojemu se brine i skrbi, u okviru obavljanja djelatnosti dadilje, mora se izraditi informacijska kartica za hitne slučajeve, koja sadrži podatke iz stavka 1. ovoga članka, te podatke koji se odnose na osnovne informacije o zdravstvenim teškoćama ili posebnim potrebama, ako ih dijete ima te, po prijedlogu roditelja i ime, prezime, adresu stanovanja i telefonski broj druge punoljetne osobe koju je potrebno kontaktirati u slučaju nužne potrebe.

@@ -1,0 +1,6 @@
+# Članak 25.
+(1) Nadležni obiteljski centar će bez odgađanja dostaviti pravomoćno rješenje, kojim je usvojen zahtjev iz članka 24. stavka 1. ovoga Zakona, podnositelju zahtjeva za obavljanje djelatnosti dadilje te ministarstvu nadležnom za socijalnu politiku.
+(2) Obrtnik može započeti obavljati djelatnost dadilje nakon što dostavi pravomoćno rješenje kojim je usvojen zahtjev iz članka 24. stavka 1. ovoga Zakona nadležnom uredu državne uprave u županiji, odnosno upravnom tijelu Grada Zagreba.
+(3) Najkasnije 15 dana od dana pravomoćnosti rješenja kojim je usvojen zahtjev iz članka 24. stavka 1. ovoga Zakona, nadležni obiteljski centar dužan je po službenoj dužnosti izvršiti upis obrtnika u registar osoba koje obavljaju djelatnost dadilje, a koji se vodi prema odredbama ovoga Zakona.
+(4) Nadležni obiteljski centar donijet će, po službenoj dužnosti ili na prijedlog obrtnika, rješenje kojim će u slučaju prestanka ispunjavanja nekog od uvjeta iz članka 7. ovoga Zakona ili nekog od uvjeta iz članka 10., članka 11. stavaka 1. i 2. i članaka 12. i 13. ovoga Zakona ukinuti rješenje iz članka 24. stavka 7. ovoga Zakona.
+(5) Protiv rješenja o ukidanju rješenja iz stavka 4. ovoga članka može se izjaviti žalba ministarstvu nadležnom za socijalnu politiku u roku od 15 dana od dana dostave rješenja.
