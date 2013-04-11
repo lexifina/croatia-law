@@ -1,0 +1,5 @@
+# Članak 3.
+U članku 7. podstavci 1., 2. i 3. Pravilnika mijenjaju se i glase:
+»Označavanje hranjivih vrijednosti obvezno je za proizvode za koje postoji prehrambena i/ili zdravstvena tvrdnja, uz iznimku općeg oglašavanja. Podaci koje treba navesti uključuju podatke iz članka 30. stavka 1. Pravilnika o informiranju potrošača o hrani (»Narodne novine« broj 8/2013). Ako za hranjivu tvari iz članka 30. stavka 2. Pravilnika o informiranju potrošača o hrani (»Narodne novine« broj 8/2013) postoji prehrambena i/ili zdravstvena tvrdnja, treba navesti količinu te hranjive tvari, u skladu s člancima od 31. do 34. toga Pravilnika.
+Količine tvari na koje se odnosi prehrambena i/ili zdravstvena tvrdnja koje nisu navedene u navodu o hranjivim vrijednostima moraju biti navedene u istome vidnom polju kao označavanje hranjivih vrijednosti i na način propisan člancima 31., 32. i 33. Pravilnika o informiranju potrošača o hrani (»Narodne novine« broj 8/2013). Mjerne jedinice koje se koriste za iskazivanje količine tvari moraju biti primjerene svakoj pojedinoj tvari.«
+Dosadašnji stavak 4. postaje stavak 3.
