@@ -1,0 +1,5 @@
+# Članak 3.
+Iza članka 27.a dodaje se članak 27.b koji glasi:
+»Članak 27.b
+Državni ured za obnovu i stambeno zbrinjavanje obavlja upravne i druge poslove koji se odnose na planiranje, pripremu, organizaciju i nadzor stambenog zbrinjavanja za izbjeglice, prognanike i povratnike, bivše nositelje stanarskih prava te druge korisnike stambenih programa u skladu s posebnim propisom; rješavanje u drugom stupnju o zahtjevima za obnovu, zahtjevima za stambeno zbrinjavanje te zahtjevima za utvrđivanje statusnih prava izbjeglica, prognanika i povratnika; organiziranje skrbi izbjeglica, prognanika i povratnika; upravljanje radom prognaničkih naselja; davanje u najam stambenih jedinica u provedbi programa stambenog zbrinjavanja; planiranje, pripremu, organizaciju i nadzor provedbe obnove stambenih jedinica uništenih ratnim djelovanjem; upravljanje i raspolaganje stambenim jedinicama danim u najam u provedbi stambenih programa te naplatu najamnina po posebnom propisu.
+Državni ured obavlja i druge poslove koji su mu stavljeni u nadležnost posebnim zakonom.«.
