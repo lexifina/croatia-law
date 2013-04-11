@@ -1,0 +1,4 @@
+# Članak 21.
+(1) Jednokratna naknada za promjenu namjene poljoprivrednog zemljišta zbog umanjenja vrijednosti i površine poljoprivrednog zemljišta kao dobra od interesa za Republiku Hrvatsku (u daljnjem tekstu: naknada) plaća se prema površini građevinske čestice utvrđene na temelju izvršnog akta kojim se odobrava građenje, odnosno po primitku potvrde glavnog projekta, odnosno prema površini zemljišta ispod zgrade ozakonjene rješenjem o izvedenom stanju.
+(2) Promjenom namjene poljoprivrednog zemljišta smatra se i eksploatacija pijeska, šljunka, kamena, ciglarske i lončarske gline, površinski kopovi te gradnja građevine za gospodarenje otpadom osim građevine za biološku obradu otpada kompostiranjem i drugih mineralnih sirovina, izgradnja sportskih terena i objekata, kao i ostale odobrene nepoljoprivredne namjene u smislu posebnog zakona.
+(3) Način vođenja evidencije o promjeni namjene poljoprivrednog zemljišta propisuje ministar pravilnikom.

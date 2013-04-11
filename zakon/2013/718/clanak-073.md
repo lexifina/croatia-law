@@ -1,0 +1,4 @@
+## X. PRIJELAZNE I ZAVRŠNE ODREDBE
+# Članak 73.
+(1) Površine poljoprivrednog zemljišta koje su Programima raspolaganja poljoprivrednim zemljištem u vlasništvu države, koji su doneseni temeljem Zakona o poljoprivrednom zemljištu (»Narodne novine«, br. 152/08., 25/09., 153/09., 21/10., 39/11. - Odluka USRH i 63/11.), bile predviđene za prodaju, zakup, dugogodišnji zakup i dugogodišnji zakup za ribnjake prelaze u zakup danom stupanja na snagu ovoga Zakona.
+(2) Površinama poljoprivrednog zemljišta koje su Programima iz stavka 1. ovoga članka bile predviđene za povrat i ostale namjene, od dana stupanja na snagu ovoga Zakona a do privođenja namjeni od strane jedinice lokalne samouprave, odnosno Grada Zagreba, odnosno do povrata prijašnjim vlasnicima sukladno posebnom propisu raspolaže Agencija sukladno odredbama članaka 14., 15. i 48. ovoga Zakona.

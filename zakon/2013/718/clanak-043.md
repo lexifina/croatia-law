@@ -1,0 +1,11 @@
+# Članak 43.
+(1) Za površinu miniranog poljoprivrednog zemljišta u vlasništvu države koje je dano u zakup i zakup za ribnjake zakupnina se umanjuje razmjerno troškovima razminiranja koje snosi zakupnik.
+(2) Zakupnik je dužan poljoprivredno zemljište iz stavka 1. ovoga članka razminirati u roku od dvije godine od dana sklapanja ugovora o zakupu i zakupu za ribnjake i ne može ga obrađivati do razminiranja, a ako se ne razminira u roku od dvije godine ugovor se raskida i dužan je platiti zakupninu za to vrijeme.
+(3) Zakupnik nema pravo na naknadu troškova razminiranja zemljišta iz stavka 1. ovoga članka, ako se ugovor o zakupu i zakupu za ribnjake raskida na njegov zahtjev ili njegovom krivnjom.
+(4) Na osnovi sklopljenoga ugovora o zakupu i zakupu za ribnjake, zakupnika uvodi u posjed Povjerenstvo iz članka 33. ovoga Zakona, u roku od 30 dana od dana razminiranja.
+(5) Poljoprivredno zemljište u vlasništvu države koje nije u funkciji poljoprivredne proizvodnje ili je obraslo višegodišnjim raslinjem zakupnik je dužan iskrčiti o vlastitom trošku, u roku od dvije godine od dana uvođenja u posjed.
+(6) Krčenjem poljoprivrednog zemljišta u vlasništvu države u smislu ovoga Zakona smatra se njegovo privođenje poljoprivrednoj proizvodnji, odnosno uklanjanje nadzemnih i podzemnih dijelova višegodišnjeg raslinja.
+(7) Drvnom masom koja ostane nakon krčenja poljoprivrednog zemljišta iz stavka 5. ovoga članka raspolaže zakupnik. Na transport drvne mase primjenjuju se posebni propisi o šumama.
+(8) Agencija imenuje Povjerenstvo koje procjenjuje troškove stavljanja u funkciju poljoprivredne proizvodnje poljoprivrednog zemljišta iz stavka 5. ovoga članka i vrijednost drvne mase. Povjerenstvo je sastavljeno od pet članova i to agronomske, šumarske, geodetske i pravne struke od kojih je jedan predstavnik jedinice lokalne samouprave na čijem se području zemljište nalazi.
+(9) Zakupnik je u obvezi dati Agenciji bankarsko jamstvo u visini troškova za uklanjanje nadzemnih i podzemnih dijelova višegodišnjeg raslinja, a sukladno procjeni Povjerenstva iz stavka 8. ovoga članka.
+(10) Na osnovi sklopljenoga ugovora o zakupu i zakupu za ribnjake, zakupnika poljoprivrednog zemljišta iz stavka 5. ovoga članka uvodi u posjed Povjerenstvo iz članka 33. ovoga Zakona, u roku od 30 dana od sklapanja ugovora.

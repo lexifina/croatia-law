@@ -1,0 +1,6 @@
+# Članak 58.
+(1) Agencija će uspostaviti, razvijati, voditi i održavati Informacijski sustav o poljoprivrednom zemljištu u Republici Hrvatskoj u svrhu učinkovitije zaštite, korištenja i raspolaganja poljoprivrednim zemljištem. Informacijski sustav će sadržavati podatke o održavanju, zaštiti, promjeni namjene i raspolaganju zemljištem.
+(2) Jedinice područne (regionalne) samouprave i jedinice lokalne samouprave, Državna geodetska uprava, ministarstvo nadležno za poslove pravosuđa i Agencija za plaćanja u poljoprivredi, ribarstvu i ruralnom razvoju obvezni su sudjelovati dostavom podataka kojima raspolažu u svrhu uspostave, razvoja, vođenja i održavanja Informacijskog sustava, bez naknade.
+(3) Agencija je ovlaštena bez naknade pristupati podacima i koristiti podatke o poljoprivrednom zemljištu u vlasništvu države iz evidencije sudova, tijela državne uprave, zavoda i pravnih osoba čiji je osnivač Republike Hrvatska kao i drugih javnih evidencija. Pristup podacima iz evidencija uspostavit će se i izravno elektroničkim putem.
+(4) Agencija je dužna Državnom uredu za upravljanje državnom imovinom koji vodi središnji registar državne imovine dostavljati podatke kojima raspolaže.
+(5) Način uspostave, sadržaj podataka iz stavka 1. ovoga članka i vođenje Informacijskog sustava pravilnikom propisuje ministar.

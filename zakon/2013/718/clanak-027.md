@@ -1,0 +1,9 @@
+## Zakup i zakup za ribnjake
+# Članak 27.
+(1) Poljoprivredno zemljište u vlasništvu države daje se u zakup i zakup za ribnjake putem javnog poziva na rok od 50 godina.
+(2) Odluku o raspisivanju javnog poziva za dodjelu zakupa i zakupa za ribnjake donosi Agencija.
+(3) Poziv za zakup raspisuje se prvenstveno za katastarske čestice koje čine proizvodno-tehnološke cjeline, površine najviše do 100 hektara. Ako se poljoprivredno zemljište nalazi unutar zaštićenog područja, poziv za zakup i zakup za ribnjake sadrži i posebne uvjete zaštite prirode koje utvrđuje središnje tijelo državne uprave nadležno za poslove zaštite prirode.
+(4) Odluku o dodjeli zakupa donosi Agencija na prijedlog Povjerenstava za dodjelu zakupa na poljoprivrednom zemljištu u vlasništvu Republike Hrvatske (u daljnjem tekstu: Povjerenstvo za zakup) kojeg čine tri predstavnika Agencije i dva predstavnika jedinice lokalne samouprave na čijem području se zemljište nalazi, od kojeg jednog predstavnika određuje predstavničko tijelo jedinice lokalne samouprave odnosno Gradska skupština Grada Zagreba, a drugog predstavnika izvršno tijelo jedinice lokalne samouprave.
+(5) Odluku o dodjeli zakupa za ribnjake donosi Agencija na prijedlog Povjerenstava za dodjelu zakupa na poljoprivrednom zemljištu u vlasništvu Republike Hrvatske za ribnjake (u daljnjem tekstu: Povjerenstvo za zakup za ribnjake) kojeg čine dva predstavnika Agencije, dva predstavnika jedinice lokalne samouprave na čijem se području nalazi pretežni dio ribnjaka, od kojeg jednog predstavnika određuje predstavničko tijelo jedinice lokalne samouprave odnosno Gradska skupština Grada Zagreba, a drugog predstavnika izvršno tijelo jedinice lokalne samouprave i jedan predstavnik Ministarstva.
+(6) Povjerenstva iz stavka 4. ovoga članka imenuje Agencija, a čine ih po pet članova i tajnik.
+(7) Povjerenstva iz stavka 5. ovoga članka imenuje ministar, a čine ih po pet članova i tajnik.

@@ -1,0 +1,3 @@
+# Članak 15.
+(1) Zemljište iz članka 14. ovoga Zakona Agencija daje u zakup uz suglasnost Državnog ureda za upravljanje državnom imovinom, putem javnog poziva na rok od 10 godina, s ugovornom klauzulom o raskidu ugovora nakon završetka vegetativne sezone, odnosno nakon dobivanja akta kojim se odobrava građenje, potvrde glavnog projekta ili rješenja o izvedenom stanju, do privođenja toga zemljišta namjeni utvrđenoj prostornim planom, odnosno do pravomoćnosti rješenja o povratu sukladno posebnom propisu.
+(2) Na davanje u zakup zemljišta iz članka 14. ovoga Zakona odgovarajuće se primjenjuju odredbe članaka od 27. do 45. ovoga Zakona.

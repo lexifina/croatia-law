@@ -1,0 +1,8 @@
+# Članak 81.
+(1) Agencija preuzima sve poslove, radnike zatečene na preuzetim poslovima, pismohranu i drugu dokumentaciju, sredstva za rad, nekretnine, prava i obveze i financijska sredstva Hrvatskog centra za poljoprivredu, hranu i selo koje se odnose na ustrojstvenu jedinicu Zavoda za tlo.
+(2) Nekretnine iz stavka 1. ovoga članka su nekretnine koje su do stupanja na snagu Zakona o osnivanju Hrvatskog centra za poljoprivredu, hranu i selo (»Narodne novine«, br. 25/09. i 124/10.) bile korištene od strane Zavoda za tlo, i to u punom opsegu prava i obveza koje na istim nekretninama ima Hrvatski centar za poljoprivredu, hranu i selo.
+(3) Preuzimanje poslova, radnika zatečenih na preuzetim poslovima, opreme, pismohrane i druge dokumentacije, sredstava za rad, nekretnina s njihovim pobližim određenjem, prava i obveze i financijskih sredstava iz stavka 1. ovoga članka Hrvatski centar za poljoprivredu, hranu i selo i Agencija pobliže će urediti sporazumom uz suglasnost ministra.
+(4) Agencija i Hrvatski centar za poljoprivredu, hranu i selo dužni su u roku od 90 dana od dana stupanja na snagu ovoga Zakona uskladiti svoje Statute i druge opće akte u skladu s odredbama ovoga Zakona.
+(5) Nakon donošenja akata iz stavka 4. ovoga članka Agencija će preuzetim zaposlenicima ponuditi sklapanje ugovora o radu sukladno Zakonu o radu.
+(6) Do sklapanja novih ugovora preuzeti zaposlenici nastavit će obavljati poslove utvrđene dosadašnjim ugovorima o radu.
+(7) Do sklapanja novih ugovora o radu preuzeti zaposlenici zadržavaju pravo na plaću, druga prava iz radnog odnosa te obveze i odgovornosti prema dosadašnjim ugovorima o radu.
