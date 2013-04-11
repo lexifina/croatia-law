@@ -1,0 +1,1 @@
+Zakon o minimalnoj plaći
