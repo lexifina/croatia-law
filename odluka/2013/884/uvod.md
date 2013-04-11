@@ -1,0 +1,1 @@
+Na temelju članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, broj 150/2011), a u vezi s člankom 32. Zakona o istraživanju, uređenju i održavanju vojnih groblja, groblja žrtava Drugog svjetskog rata i poslijeratnog razdoblja (»Narodne novine«, broj 143/2012), Vlada Republike Hrvatske je na sjednici održanoj 11. travnja 2013. godine donijela
