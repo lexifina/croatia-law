@@ -1,0 +1,4 @@
+# Članak 8.
+DODATAK I i DODATAK III Pravilnika o Upisniku poljoprivrednih gospodarstava (»Narodne novine«, br. 76/11) zamjenjuju se novim DODATKOM I i DODATKOM III, koji su sastavni dio ovoga Pravilnika.
+U DODATKU II Pravilnika, koji je njegov sastavni dio, u Pregledu obvezne dokumentacije po tipovima poljoprivrednih gospodarstava, u tablici A/Popis obvezne dokumentacije za upis u Upisnik i prijavu promjena, u retku pod naslovom »Tvrtka« i stupcu pod naslovom »Trgovačko društvo, zadruga« dodaje se tekst: »preslika Obavijesti o razvrstavanju poslovnih subjekata prema NKD-u Državnog zavoda za statistiku (ostaje za arhivu)«.
+U istoj tablici, u retku pod naslovom »Račun« i stupcu pod naslovom »Obiteljsko poljoprivredno gospodarstvo« riječi: »preslika kartice žiro-računa nositelja (ostaje za arhivu)« zamjenjuju se riječima: »preslika ugovora o žiro-računu nositelja (ostaje za arhivu)«.
