@@ -1,0 +1,5 @@
+## Mačevi, sablje, bajunete, koplja i slična oružja te njihovi dijelovi i korice za njih
+# Članak 3.
+Dozvole za izvoz i uvoz robe iz članaka 1. i 2. ove Uredbe izdaje Ministarstvo gospodarstva, osim dozvola za izvoz i uvoz robe iz tarifnih oznaka 2612, 2844, 8543 10 00 i 9022, koje izdaje Državni zavod za radiološku i nuklearnu sigurnost. Državni zavod za radiološku i nuklearnu sigurnost izdaje dozvole za izvoz i uvoz i za robu koja nije navedena u člancima 1. i 2. ove Uredbe, sukladno posebnom propisu.
+Ministarstvo gospodarstva izdaje dozvole za izvoz i uvoz robe iz tarifnih oznaka 2845, 3801, 6815, 8401 i 8609 00 10, uz prethodnu suglasnost Državnog zavoda za radiološku i nuklearnu sigurnost.
+Dozvole za izvoz kulturnih dobara i kulturnih predmeta iz članka 1. ove Uredbe i Dodatka I. Pravilnika o uvjetima za davanje odobrenja radi izvoza i iznošenja kulturnih dobara iz Republike Hrvatske (»Narodne novine« br. 141/2006 i 70/2012), izdaju Ministarstvo kulture i Gradski zavod za zaštitu spomenika kulture i prirode u Zagrebu.

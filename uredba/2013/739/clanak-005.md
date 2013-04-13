@@ -1,0 +1,2 @@
+# Članak 5.
+Dozvole, odnosno rješenje za jednokratni uvoz i izvoz tvari koje se mogu uporabiti za izradu droge, koje su navedene u Popisu tvari koje se mogu uporabiti za izradu droge (prekursori) (Prilog I. - Tablica I), te dozvole za jednokratni uvoz i izvoz droga, koje su navedene u Popisu droga koji je sastavni dio ove Uredbe (Prilog I. - Tablica II), izdaje Ministarstvo zdravlja temeljem Zakona o suzbijanju zlouporabe droga.

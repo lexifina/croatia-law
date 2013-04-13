@@ -1,0 +1,3 @@
+# Članak 6.
+Dozvole za jednokratni izvoz i uvoz tvari koje oštećuju ozonski sloj, koje su navedene u Popisu tvari koje oštećuju ozonski sloj, koji je sastavni dio ove Uredbe (Prilog II.), temeljem Uredbe o tvarima koje oštećuju ozonski sloj i fluoriranim stakleničkim plinovima i Zakona o zaštiti zraka, izdaje Ministarstvo gospodarstva, uz prethodno pribavljeno mišljenje Ministarstva zaštite okoliša i prirode.
+Dozvole za jednokratni uvoz proizvoda i opreme koja sadrži tvari koje oštećuju ozonski sloj iz stavka 1. ovoga članka ili o njima ovise, za posebne namjene, izdaje Ministarstvo gospodarstva, uz prethodno pribavljeno mišljenje Ministarstva zaštite okoliša i prirode.
