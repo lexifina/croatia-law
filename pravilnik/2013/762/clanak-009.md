@@ -1,0 +1,4 @@
+# Članak 9.
+(1) Ako oporučitelj zatraži da mu se prije završetka putovanja vrati oporuka koju je predao na čuvanje, zapovjednik plovila vratit će mu oporuku, uz potvrdu o vraćanju oporuke.
+(2) Ako oporučitelju prilikom iskrcaja na završetku putovanja iz bilo kojeg razloga ne bude vraćena oporuka koju je predao na čuvanje, zapovjednik plovila će predati oporuku lučkoj kapetaniji u prvoj domaćoj luci u koju plovilo uplovi, a u inozemstvu najbližem diplomatskom, odnosno konzularnom predstavništvu Republike Hrvatske, koji će ju dostaviti oporučitelju ili diplomatsko konzularnom predstavništvu države čiji je oporučitelj državljanin.
+(3) Ako oporučitelj umre za vrijeme putovanja zapovjednik plovila predat će oporuku lučkoj kapetaniji u prvoj domaćoj luci u koju plovilo uplovi, a u inozemstvu najbližem diplomatskom, odnosno konzularnom predstavništvu Republike Hrvatske.
