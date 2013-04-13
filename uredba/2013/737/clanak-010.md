@@ -1,0 +1,2 @@
+# Članak 10.
+O zahtjevima za ostvarivanje prava na jednokratnu novčanu pomoć iz članka 3. stavka 1., članka 6. stavka 1. i članka 8. stavka 1. ove Uredbe odlučuje službena osoba u nadležnom prvostupanjskom tijelu na temelju dokaza koje će službena osoba pribaviti po službenoj dužnosti (podaci o činjenicama o kojima se vodi službena evidencija kod javnopravnih tijela ili suda), kao i na temelju drugih dokaza.
