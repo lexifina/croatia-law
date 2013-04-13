@@ -1,0 +1,30 @@
+# Članak 3.
+(1) U smislu ove Uredbe upotrebljavat će se ove definicije:
+a) proizvod je bilo koji industrijski proizveden proizvod i bilo koji poljoprivredni proizvod uključujući i ribarski proizvod;
+b) ocjenjivanje sukladnosti je postupak kojim se utvrđuje da su određeni zahtjevi koji se odnose na proizvod, proces, sustav, osobu ili tijelo ispunjeni;
+c) usluga je svaka usluga informacijskog društva koja se uz naknadu pruža na daljinu, elektroničkim sredstvima i na pojedinačni zahtjev korisnika usluge, gdje za potrebe ove definicije:
+- na daljinu znači da se usluga pruža, a da stranke nisu istodobno nazočne,
+- elektroničkim sredstvima znači da se usluga od početka šalje i na odredištu prima putem elektroničke opreme za obradu (uključujući digitalno sažimanje) i pohranjivanje podataka, te da se u cjelini šalje, prenosi i prima žičano, radiom, optičkim sredstvima ili drugim elektromagnetskim sredstvima,
+- na pojedinačni zahtjev korisnika usluga znači da se usluga pruža prijenosom podataka na pojedinačni zahtjev;
+d) tehnička specifikacija je specifikacija sadržana u dokumentu koji utvrđuje zahtijevane značajke proizvoda, kao što su razine kakvoće, radne značajke, sigurnost i dimenzije, uključujući zahtjeve za proizvod, s obzirom na nazive pod kojima se prodaje, nazivlje, simbole, ispitivanja i metode ispitivanja, pakiranja, označivanja ili obilježavanja te postupke ocjenjivanja sukladnosti.
+Naziv tehnička specifikacija također obuhvaća i proizvodne metode i procese koji se upotrebljavaju za poljoprivredne proizvode, sukladno članku 38. (1) Ugovora o funkcioniranju Europske unije, proizvode namijenjene prehrani ljudi i hranidbi životinja, medicinske proizvode navedene u članku 1. Direktive 2001/83/EZ, te proizvodne metode i procese koji se odnose na druge proizvode kad oni utječu na njihove značajke;
+e) drugi zahtjevi su zahtjevi, različiti od tehničkih specifikacija, koji su utvrđeni za proizvod u svrhu zaštite, osobito zaštite potrošača ili okoliša, koji utječu na životni vijek proizvoda nakon njegova stavljanja na tržište, kao što su uvjeti uporabe, recikliranja, ponovne uporabe ili obrade otpada, kad ti uvjeti mogu znatno utjecati na sastav ili narav proizvoda ili na njegovo stavljanje na tržište;
+f) propis o uslugama je općenito pravilo koje se odnosi na pokretanje i obavljanje djelatnosti pružanja usluga u smislu točke c) ovoga stavka, posebno propisi i pravila koja se odnose na pružatelja usluga, usluge i primatelje usluga, s izuzetkom propisa i pravila koja ne propisuju usluge definirane u smislu točke c) ovoga stavka, gdje se za potrebe ove definicije za propis ili pravilo smatra:
+- da se posebno odnosi na usluge informacijskog društva kad je, uzimajući u obzir njegov smisao i njegovu provedbu, poseban cilj i predmet svih ili nekih njegovih pojedinačnih odredaba izričito i ciljano zakonsko uređivanje takvih usluga,
+- da se posebno ne odnosi na usluge informacijskog društva, ako ono na te usluge utječe samo neizravno ili usputno;
+g) tehnički propisi su tehničke specifikacije i drugi zahtjevi ili propisi o uslugama, čije je poštivanje obvezatno, de iure i de facto, u slučaju stavljanja na tržište, pružanja kakve usluge, osnivanja pružatelja usluga ili uporabe u nekoj državi članici EU-e ili u njezinu većem dijelu te zakonski, podzakonski ili upravni propisi država članica EU-e, kojima se zabranjuje proizvodnja, uvoz, stavljanje na tržište i/ili u uporabu kojeg proizvoda, ili se zabranjuje pružanje ili uporaba koje usluge ili osnivanje pružatelja usluga;
+h) de facto tehničkim propisima se smatraju:
+- propisi države članice EU-e koji upućuju na tehničke specifikacije ili na druge zahtjeve ili na propise o uslugama ili na pravila struke ili pravila prakse koji sami upućuju na tehničke specifikacije, ili na druge zahtjeve ili propise o uslugama, a čije pridržavanje daje pretpostavku o sukladnosti s obvezama propisanim zakonskim, podzakonskim ili upravnim odredbama,
+- dragovoljni sporazumi u kojima je nadležno tijelo ugovorna strana, a kojima se u javnom interesu postiže zadovoljavanje tehničkih ili drugih zahtjeva ili propisa o uslugama, isključujući specifikacije sadržane u natječaju za javnu nabavu,
+- tehničke specifikacije ili druge zahtjeve, pravila ili propise o uslugama povezane s proračunskim ili financijskim mjerama koje utječu na potrošnju proizvoda ili usluga time što potiču usklađenost s tim tehničkim specifikacijama ili s drugim zahtjevima ili propisima o uslugama, ne uključuju tehničke specifikacije ili druge zahtjeve ili propise o uslugama povezane s nacionalnim sustavima socijalne sigurnosti;
+i) prijedlog tehničkog propisa je tekst tehničke specifikacije ili drugog zahtjeva ili propisa o uslugama, izrađen s ciljem da se donese kao tehnički propis, a koji je u fazi izrade u kojoj su još moguće bitne izmjene i dopune;
+j) norma je tehnička specifikacija koju je za višekratnu ili stalnu primjenu odobrilo priznato tijelo za normizaciju, čija primjena nije obvezna, a koja je jedno od sljedećeg:
+- međunarodna norma: norma dostupna javnosti koju je donijelo neko međunarodno tijelo za normizaciju,
+- europska norma: norma dostupna javnosti koju je donijelo neko europsko tijelo za normizaciju,
+- nacionalna norma: norma dostupna javnosti koju je donijelo neko nacionalno normirno tijelo;
+k) nacrt norme je dokument koji sadrži tekst tehničkih specifikacija u vezi s dotičnim predmetom i koji se namjerava donijeti u skladu s postupkom nacionalne normizacije, a u obliku koji je poprimio nakon pripremnog rada i u kojemu se razašilje javnosti radi stavljanja primjedaba ili proučavanja;
+l) hrvatska norma je norma dostupna javnosti koju je prihvatilo hrvatsko nacionalno normirno tijelo;
+m) normizacijski program je program rada nekoga priznatog tijela za normizaciju u kojemu su popisani predmeti na čijoj se normizaciji radi;
+n) europsko tijelo za normizaciju je jedno od tijela navedenih u dodatku I. ove Uredbe;
+o) nacionalno normirno tijelo je neko od tijela navedenih u dodatku II. ove Uredbe.
+(2) Primjeri usluga koje ne propisuje stavak 1. ovoga članka navedeni su u dodatku III. ove Uredbe.

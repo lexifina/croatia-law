@@ -1,0 +1,4 @@
+## I. OPĆE ODREDBE
+# Članak 1.
+Ovom Uredbom se u pravni poredak Republike Hrvatske prenosi:
+- Direktiva 98/34/EZ Europskoga parlamenta i Vijeća od 22. lipnja 1998. godine o utvrđivanju postupka obavješćivanja u području tehničkih normi i propisa (SL L 204, 21. 7. 1998., str. 37-48) uključujući izmjene predviđene Direktivom 98/48/EZ Europskoga parlamenta i Vijeća od 20. srpnja 1998. godine o izmjenama Direktive 98/34/EZ o utvrđivanju postupka obavješćivanja u području tehničkih normi i propisa (SL L 217, 5. 8. 1998., p. 18-26) i Uredbom (EU) br. 1025/2012 Europskoga parlamenta i Vijeća o europskoj normizaciji, o izmjenama Direktive Vijeća 89/686/EEZ i 93/15/EEZ i Direktiva 94/9/EZ, 94/25/EZ, 95/16/EZ, 97/23/EZ, 98/34/EZ, 2004/22/EZ, 2007/23/EZ, 2009/23/EZ i 2009/105/EZ Europskoga parlamenta i Vijeća i ukidanju Odluke Vijeća 87/95/EEZ i Odluke br. 1673/2006/EZ Europskoga parlamenta i Vijeća (SL L 316, 14. 11. 2012., p. 12-33.).

@@ -1,0 +1,1 @@
+Na temelju članka 20. Zakona o tehničkim zahtjevima za proizvode i ocjenjivanju sukladnosti (»Narodne novine«, broj 20/2010), Vlada Republike Hrvatske je na sjednici održanoj 28. ožujka 2013. godine donijela

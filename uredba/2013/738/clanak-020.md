@@ -1,0 +1,2 @@
+# Članak 20.
+Ako u roku tri mjeseca od dana kad je EK primila obavijest, sukladno članku 15. ove Uredbe, EK ili koja država članica EU-e dostavi detaljno mišljenje da bi propis mogao stvarati zapreke slobodnom pružanju usluga ili slobodi osnivanja pružatelja usluga na unutarnjem tržištu, nadležno tijelo će odgoditi donošenje prijedloga propisa na četiri mjeseca bez obzira na odredbe članka 22. stavka 1. podstavka 2. i članka 22. stavka 2. ove Uredbe.
