@@ -1,0 +1,4 @@
+# Članak 31.
+Članak 34. mijenja se i glasi:
+»Članak 34.
+Odjel za analize i izvještavanja obavlja stručne i administrativne poslove vezane uz koordinaciju aktivnosti praćenja provedbe i korištenja programa EU namijenjenih promicanju gospodarske i socijalne kohezije; sudjeluje u pripremi i praćenju plana uspostave sustava financijskog upravljanja i kontrola, koordinira pripremu podloga za tijela međuresorne koordinacije u izradi strateških dokumenata za korištenje fondova EU, sudjeluje u izradi pravnog i institucionalnog okvira za korištenje fondova EU i prati njegovu usklađenost sa zakonodavstvom EU, obavlja aktivnosti vezane uz osiguravanje zastupljenosti Republike Hrvatske u Odboru iz članka 163. Ugovora o funkcioniranju Europske unije i drugim radnim strukturama i odborima Komisije i Vijeća te osigurava širenje informacija o provedenim aktivnostima te obavlja i druge poslove iz svoje nadležnosti.«.

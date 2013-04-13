@@ -1,0 +1,7 @@
+# Članak 23.
+Članak 22. mijenja se i glasi:
+»Članak 22.
+Služba za koordinaciju programa tranzicijske i tehničke pomoći Europske unije obavlja poslove koordinacije i suradnju s tijelima državne uprave; koordinira pripremu, praćenje provedbe i vrednovanje programa tranzicijske i tehničke pomoći EU koji se provode s ciljem osposobljavanja tijela državne uprave i jedinica lokalne i područne (regionalne) samouprave za učinkovitu primjenu i provedbu preuzetih obaveza pravne stečevine EU, osigurava sektorsku potporu u poslovnima koordinacije i pripreme izrade razvojnih strategija i planova na nacionalnoj razini, podupire poslove pripreme i praćenja provedbe nacionalnog razvojnog plana u skladu s utvrđenim sektorskim područjima, osigurava sektorsku potporu u izradi Partnerskog ugovora, koordinira pripremu i provedbu pomoći Europskog gospodarskog prostora te obavlja i druge poslove iz svoje nadležnosti.
+Za obavljanje poslova iz nadležnosti Službe za koordinaciju programa tranzicijske i tehničke pomoći Europske unije, ustrojavaju se sljedeće ustrojstvene jedinice:
+3.2.1.1. Odjel za koordinaciju programa jačanja institucionalne sposobnosti u području političkih kriterija, unutarnjih poslova, pravosuđa, slobode i sigurnosti
+3.2.1.2. Odjel za koordinaciju programa jačanja institucionalne sposobnosti u području reforme javne uprave, javnih financija, unutarnjeg tržišta, statistike, poljoprivrede i ribarstva.«.

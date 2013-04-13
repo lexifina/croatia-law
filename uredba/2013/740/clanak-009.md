@@ -1,0 +1,8 @@
+# Članak 9.
+Naslov iznad članka 13. i članak 13. mijenjaju se i glase:
+»2.1.2. Služba za opće poslove
+Članak 13.
+Služba za opće poslove obavlja poslove nadgledanja, održavanja, upravljanja zgradama/poslovnim prostorima koje koristi Ministarstvo, brine o njihovom održavanju, vodi i ažurira dokumentaciju o nekretninama, obavlja usklađivanje ugovora o zakupu uredskog prostora s važećim propisima, dostavlja dokumentaciju nadležnom državnom odvjetništvu u imovinskopravnim sporovima iz svoje nadležnosti, te očitovanja o razlozima i potrebi ulaganja pravnih lijekova; obavlja poslove obrane, sigurnosti i zaštite, izrađuje planove obrane i evakuacije, poslove zaštite na radu i protupožarne zaštite, poslove održavanja voznog parka i servisa službenih automobila, brine se o ugostiteljskom servisu i usluzi prilikom održavanja stručnih i radnih skupova u prostorijama Ministarstva; organizira pružanje internih ugostiteljskih usluga; obavlja poslove pisarnice, pismohrane i druge stručne i administrativne poslove vezane uz postupanje s dokumentacijom i pismenima u Ministarstvu; obavlja primitak i otpremu pošte, surađuje s nadležnim tijelima iz svoje nadležnosti, izrađuje nacrt i predlaže donošenje internih akata iz svog djelokruga rada, vodi materijalnu evidenciju o nabavi i raspodjeli uredskog materijala i sitnog inventara, daje prijedloge za poboljšanje rada u informacijskom sustavu uredskog poslovanja u Ministarstvu i obavlja druge poslove iz svoje nadležnosti.
+Za obavljanje poslova iz nadležnosti Službe za opće poslove, ustrojavaju se sljedeće ustrojstvene jedinice:
+2.1.2.1. Odjel za opće poslove
+2.1.2.2. Odjel pisarnice.«.

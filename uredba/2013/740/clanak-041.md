@@ -1,0 +1,7 @@
+# Članak 41.
+Članak 43. mijenja se i glasi:
+»Članak 43.
+Služba za teritorijalnu suradnju s državama članicama Europske unije obavlja poslove koji se odnose na sudjelovanje Republike Hrvatske u izradi i provedbi godišnjih i višegodišnjih strateških i operativnih programa financiranih iz proračuna Republike Hrvatske i/ili drugih izvora financiranja u kontekstu europske teritorijalne suradnje; priprema programe europske teritorijalne suradnje uključujući makroregionalne strategije te pomorske programe Europske unije za naredno programsko razdoblje u kojima će sudjelovati Republika Hrvatska; obavlja administrativne poslove vezano uz programe europske teritorijalne suradnje; prati i kontrolira provedbu projekata koji se financiraju u okviru programa europske teritorijalne suradnje te informira o programima europske teritorijalne suradnje; organizira i nadzire aktivnosti tehničke pomoći vezane uz programe europske teritorijalne suradnje u kojima sudjeluje Republika Hrvatska; organizira provedbu strateške procjene utjecaja na zaštitu okoliša; sudjeluje u radu tijela na nivou Europske unije po pitanju europske teritorijalne suradnje; koordinira rad Nacionalnog odbora za teritorijalnu suradnju te obavlja i druge poslove iz svoje nadležnosti.
+Za obavljanje poslova iz nadležnosti Službe za teritorijalnu suradnju s državama članicama Europske unije, ustrojavaju se sljedeće ustrojstvene jedinice:
+4.2.1.1. Odjel za europsku teritorijalnu suradnju
+4.2.1.2. Odjel za upravljanje tehničkom pomoći.«.

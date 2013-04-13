@@ -1,0 +1,9 @@
+# Članak 38.
+Naslov iznad članka 41. i članak 41. mijenjaju se i glase:
+»4.1.2. Služba za poslove upravljanja operativnim programima
+Članak 41.
+Služba za poslove upravljanja operativnim programima obavlja poslove koji se odnose na: pripremu, financijsko upravljanje i kontrolu, praćenje, izvještavanje, vrednovanje i informiranje o provedbi operativnih programa u skladu s načelima dobrog financijskog upravljanja; koordinira rad tijela u strukturi to jest posredničkih tijela; sudjeluje u izradi prijedloga odabira i odobravanja projekata; analizira i procjenjuje projektne prijedloge te osigurava kontrolu kvalitete dokumenata; kontrolira jesu li natječajne procedure izvršene prema planovima nabave te provodi administrativne i terenske kontrole korištenja sredstava; izrađuje upute o postupanju i provedbi, analizira i izvještava o postupanju uspostavljanih procedura; prati provedbu Operativnog programa za regionalnu konkurentnost i u okviru istoga pripremu i izradu godišnjih i završnih izvješća te prikuplja informacije za potrebe praćenja i vrednovanja i uspostavlja sustav informiranja o programu; analizira izvršenje i učinkovitost programa; pregovara s tijelima Europske unije o uvjetima i alokaciji financijskih sredstava za program; uspostavlja i kontrolira provedbene procedure, upravlja rizicima i vodi registar rizika, izvještava o nepravilnostima, koordinira pripremu izjave o jamstvu, osigurava razmjenu podataka s Komisijom putem elektronske aplikacije za razmjenu podataka SCF2007 te obavlja i druge poslove iz svoje nadležnosti.
+Za obavljanje poslova iz nadležnosti Službe za poslove upravljanja operativnim programima, ustrojavaju se sljedeće ustrojstvene jedinice:
+4.1.2.1. Odjel za pripremu, vrednovanje i informiranje
+4.1.2.2. Odjel za praćenje provedbe i izvještavanje
+4.1.2.3. Odjel za financijsko upravljanje i kontrolu.«.
