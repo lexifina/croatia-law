@@ -1,0 +1,8 @@
+# Članak 10.
+Naslov iznad članka 49. i članak 49. mijenjaju se i glase:
+»5.2. Sektor za srednjoškolski odgoj i obrazovanje
+Članak 49.
+Sektor za srednjoškolski odgoj i obrazovanje prati, predlaže i provodi mjere za unaprjeđenje sustava srednjoškolskog odgoja i obrazovanja; brine se o izvršavanju zakona i drugih propisa, te sudjeluje u izradi stručnih podloga za nacrte standarda i zakona te drugih propisa; surađuje s drugim institucijama i socijalnim partnerima, kao i s drugim ustrojstvenim jedinicama Ministarstva, državnim tijelima, agencijama, institucijama i ustanovama u dijelu poslova Sektora; surađuje na izradi i razvoju prijedloga zakonskih i drugih propisa te izradi analiza i prijedloga javnih politika kojima se uređuje i unaprjeđuje sustav odgoja i obrazovanja; obavlja poslove vezane uz planiranje potrebnih sredstava u državnom proračunu po pojedinim aktivnostima, te vodi propisane očevidnike. Sektor radi na uspostavljanju mehanizama praćenja i analize rezultata provedbe vanjskog vrednovanja - nacionalnih ispita, državne mature i ostalih vanjsko vrednovanih završnih ispita te samovrednovanja; razvija elemente vrednovanja ishoda učenja srednjoškolskog odgoja i obrazovanja kao osnovicu za uspostavu mehanizma nadzora nad upisnom politikom; obavlja stručne poslove praćenja, nadzora, razvoja, održavanja i nadogradnje e-Matice, te ostalih informacijskih sustava koji pružaju podršku poslovnim procesima u školskim ustanovama. Sektor obavlja i druge poslove iz svoga djelokruga.
+U Sektoru se ustrojavaju:
+5.2.1. Služba za srednje škole i učeničke domove
+5.2.2. Služba za razvoj i informacijsku infrastrukturu sustava odgoja i obrazovanja.«.

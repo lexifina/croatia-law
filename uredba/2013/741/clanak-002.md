@@ -1,0 +1,3 @@
+## »9. UPRAVA ZA STANDARD, STRATEGIJE I POSEBNE PROGRAME.«.
+# Članak 2.
+U članku 27. iza riječi: »infrastrukturu.« dodaju se riječi: »Odjel obavlja stručne i upravne poslova vezane uz genetski modificirane organizme (GMO) proizvode i/ili proizvode koji sadrže i/ili se sastoje ili potječu od GMO-a te se ograničeno uporabljuju u zatvorenom sustavu. Odjel vodi Upisnik zatvorenih sustava za ograničenu uporabu GMO-a te zaprima zahtjeve za prijavu zatvorenog sustava, obradu i izdavanje potvrde o upisu u Upisnik zatvorenih sustava za ograničenu uporabu GMO-a. Odjel zaprima, obrađuje i izdaje rješenja o dopuštenju ograničene uporabe određene razine opasnosti. Odjel surađuje s Vijećem za GMO, Odborom za ograničenu uporabu GMO-a, te ostalim relevantnim državnim tijelima.«.
