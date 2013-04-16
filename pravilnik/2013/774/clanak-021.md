@@ -1,0 +1,43 @@
+## Sadržaj naputka o uporabi aerodroma
+# Članak 21.
+(1) Obvezni sadržaj naputka o uporabi aerodroma je:
+1. Opće odredbe:
+1.1. Svrha i područje primjene Naputka o uporabi aerodroma,
+1.2. Pravni temelj za izdavanje odobrenja za uporabu aerodroma i naputka o uporabi aerodroma,
+1.3. Uvjeti za uporabu aerodroma,
+1.4. Izjava kojom se operator očituje da će aerodrom u svako vrijeme kada je otvoren za uzlijetanje i slijetanje zrakoplova biti dostupan svima pod jednakim uvjetima,
+1.5. Sustav pružanja informacija o aerodromu i postupak njihovog objavljivanja,
+1.6. Sustav praćenja prometa zrakoplova,
+1.7. Obveze operatora aerodroma,
+2. Podaci o položaju aerodroma:
+2.1. Nacrt aerodroma na kojem su prikazani glavni objekti aerodroma (uzletno-sletna staza, staze za vožnju, stajanka i drugo), uključujući poziciju svakog pokazivača smjera vjetra posebno,
+2.2. Kartografski prikaz područja aerodroma na kojem su prikazane granične crte aerodroma (ograda oko aerodroma),
+2.3. Karta okolnog područja aerodroma na kojoj je prikazana udaljenost do najbližeg mjesta, grada ili nekog drugog naseljenog područja, te lokacija svih objekata aerodroma i opreme koji se nalaze izvan granica (ograde) aerodroma,
+2.4. Meteorološki minimumi,
+2.5. Zona aerodromskog prometa (ATZ),
+2.6. Podešavanje visinomjera,
+2.7. Organizacija letenja i ograničenja,
+2.8. Organizacija i provedba zrakoplovnih priredaba,
+3. Podaci o aerodromu koji se objavljuju u VFR priručniku Republike Hrvatske,
+4. Operativne procedure na aerodromu i sigurnosne mjere,
+4.1. Postupak objavljivanja promjena (NOTAM) svih relevantnih pokazatelja koji se odnose na sigurnost zračnog prometa na aerodromu,
+4.2. Postupak za pristup operativnim površinama (Movement Area),
+4.3. Postupak za slučaj izvanrednog događaja na aerodromu (Emergency Plan),
+4.4. Obvezni postupci u radu spasilačko-vatrogasne službe,
+4.5. Postupak kontrole operativnih površina i površina bez prepreka,
+4.6. Postupak za kontrolu oznaka i znakova, te sustava rasvjete na aerodromu,
+4.7. Postupak za održavanje objekata, opreme i instalacija na aerodromu,
+4.8. Sigurnosni postupak tijekom izvođenja radova na i oko operativnih površina,
+4.9. Upravljanje postupcima na stajanci (Apron Management),
+4.10. Upravljanje sigurnošću na stajanci (Apron Safety Management),
+4.11. Postupak za kretanje vozila na i oko operativnih površina,
+4.12. Postupak zaštite zrakoplova od ptica i drugih životinja na području aerodroma te popis odgovarajuće opreme,
+4.13. Karta prepreka u prostoru s obzirom na kategoriju prilaza zrakoplova aerodromu, te praćenje i evidentiranje svih promjena,
+4.14. Način uklanjanja onesposobljenog zrakoplova s operativnih površina te popis odgovarajuće opreme,
+4.15. Način za sigurno rukovanje, skladištenje i prijevoz opasnih roba,
+4.16. Postupak u slučaju smanjene vidljivosti,
+4.17. Postupak za zaštitu radara i drugih navigacijskih uređaja na aerodromu,
+5. Podaci o upravi operatora aerodroma i programu upravljanja sigurnošću,
+5.1. Uprava operatora aerodroma (shema organizacijske strukture, popis rukovodećeg osoblja),
+5.2. Program upravljanja sigurnošću (Safety Management Program).
+(2) Objašnjenja uz svaku točku naputka o uporabi aerodroma nalaze se u Dodatku 4 ovoga Pravilnika.

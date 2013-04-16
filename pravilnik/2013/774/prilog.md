@@ -1,0 +1,2 @@
+DODATAK 1 - DODATAK 4
+| 41 08.04.2013 Pravilnik o uvjetima kojima mora udovoljavati operator aerodroma za izdavanje te način izdavanja svjedodžbe aerodroma i odobrenja za uporabu aerodroma 41 08.04.2013 Pravilnik o uvjetima kojima mora udovoljavati operator aerodroma za izdavanje te način izdavanja svjedodžbe aerodroma i odobrenja za uporabu aerodroma 41 08.04.2013 Pravilnik o uvjetima kojima mora udovoljavati operator aerodroma za izdavanje te način izdavanja svjedodžbe aerodroma i odobrenja za uporabu aerodroma
