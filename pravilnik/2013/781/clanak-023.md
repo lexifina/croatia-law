@@ -1,0 +1,6 @@
+## Ponuda pristupa poštanskoj mreži
+# Članak 23.
+(1) Davatelj univerzalne usluge će korisnicima pristupa omogućiti pristup poštanskoj mreži na jedan od načina predviđenih člankom 22. stavkom 1. ovoga pravilnika
+(2) Pristup poštanskoj mreži u smislu članka 22. stavka 1. točke 1. ovoga pravilnika, podrazumijeva da korisnik pristupa obavlja prijam poštanskih pošiljaka od korisnika usluga, a zatim ih predaje u ugovorenu točku pristupa poštanskoj mreži radi eventualnog daljnjeg usmjeravanja, daljnjeg prijenosa i uručenja na adrese primatelja. Korisnik pristupa može obaviti usmjeravanje pošiljaka na način kako to zahtijeva davatelj univerzalne usluge.
+(3) Pristup poštanskoj mreži u smislu članka 22. stavka 1. točke 2. ovoga pravilnika, podrazumijeva da korisnik pristupa obavi prijam pošiljaka, njihovo usmjeravanje na način kako to zahtijeva davatelj univerzalne usluge, a zatim ih predaje u ugovorenu točku pristupa poštanskoj mreži radi daljnjeg prijenosa i uručenja na adrese primatelja.
+(4) Za gubitak, potpuno oštećenje ili umanjenje sadržaja poštanskih pošiljaka te za prekoračenje rokova uručenja davatelj univerzalne usluge odgovara korisnicima pristupa, od trenutka preuzimanja poštanskih pošiljaka od korisnika pristupa do trenutka uručenja primateljima, sukladno odredbama Zakona.
