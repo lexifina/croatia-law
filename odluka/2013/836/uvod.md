@@ -1,0 +1,1 @@
+Na temelju članka 5. i članka 6. stavka 1. Zakona o lokalnim izborima (»Narodne novine« broj 144/2012), a u vezi s člancima 40. i 41. Zakona o lokalnoj i područnoj (regionalnoj) samoupravi (»Narodne novine« br. 33/2001, 60/2001, 129/2005, 109/2007, 125/2008, 36/2009, 150/2011 i 144/2012), Vlada Republike Hrvatske je na sjednici održanoj 11. travnja 2013. godine donijela
