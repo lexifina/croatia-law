@@ -1,0 +1,1 @@
+Obvezatne upute broj MLN II o obrascima za postupak kandidiranja i provedbu izbora za zamjenike općinskih načelnika, gradonačelnika i župana iz reda pripadnika nacionalnih manjina odnosno iz reda pripadnika hrvatskog naroda
