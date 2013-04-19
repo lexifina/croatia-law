@@ -1,0 +1,1 @@
+Obvezatne upute broj FL I o obliku suradnje Državnog izbornog povjerenstva Republike Hrvatske i nadležnih izbornih povjerenstava u provedbi nadzora financiranja izborne promidžbe te pravima i obvezama sudionika provedbe nadzora financiranja promidžbe na lokalnim izborima 2013.
