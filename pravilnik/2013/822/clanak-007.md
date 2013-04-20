@@ -1,0 +1,7 @@
+## Prihvaćanje izravno-požetih mješavina za očuvanje
+# Članak 7.
+1) Izravno-požete mješavine krmnog bilja za očuvanje moraju biti prikupljene u svojem izvorišnom području na mjestu prikupljanja na kojem se nije sijalo tijekom posljednjih 40 godina do dana prijave od strane proizvođača.
+2) Proizvođač izravno-požetih mješavina krmnog bilja uz Zahtjev za prihvaćanje iz članka 6. stavka 2. ovoga Pravilnika, prilaže ispunjenu Izjavu iz Dodatka III. koji je tiskan uz ovaj Pravilnik i njegov je sastavni dio.
+3) Udio dijelova izravno-požetih mješavina krmnog bilja za očuvanje od kojih su vrste, i gdje je značajno, podvrste tipične za tip staništa mjesta prikupljanja i koje su, kao dijelovi mješavine, značajne za očuvanje prirodnog okoliša u kontekstu očuvanja genetskih izvora, moraju biti odgovarajući za svrhu ponovnog stvaranja stanišnog tipa mjesta prikupljanja.
+4) Klijavost dijelova izravno-požetih mješavina krmnog bilja iz stavka 3. ovoga članka moraju biti dostatne za ponovno stvaranje stanišnog tipa mjesta prikupljanja.
+5) Najveći udio vrsta i, gdje je značajno, podvrsta koje ne udovoljavaju uvjetima iz stavka 2. ovoga članka, ne smije biti veći od 1% masenog udjela. Izravno-požeta mješavina krmnog bilja za očuvanje ne smije sadržavati vrste Avena fatua, Avena sterilis i Cuscuta spp. Najveći sadržaj Rumex spp., osim Rumex acetosella i Rumex maritimus, ne smije biti veći od 0.05 % masenog udjela.

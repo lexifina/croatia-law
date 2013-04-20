@@ -1,0 +1,5 @@
+# Članak 2.
+Ovim se Pravilnikom u pravni poredak Republike Hrvatske prenose sljedeće direktive Europske unije:
+- Direktivom Komisije 2008/62/EZ od 20. lipnja 2008. koja propisuje određena odstupanja, za priznavanje čuvanih sorti koje su prirodno prilagođene lokalnim i regionalnim uvjetima i ugrožene su genetskom erozijom i za trženje sjemena i sjemena krumpira tih čuvanih sorti (SL L 12, 21.6.2008.);
+- Direktivom Komisije 2009/145/EZ od 26. studenoga 2009. koja propisuje određena odstupanja, za prihvaćanje povrtnih čuvanih sorti koje su tradicionalno uzgajane na posebnim područjima i regijama i ugrožene su genetskom erozijom i povrtnih sorti bez stvarne vrijednosti za komercijalnu proizvodnju usjeva, ali su razvijene za uzgoj pod posebnim uvjetima i za stavljanje na tržište sjemena čuvanih sorti (SL L 312, 27.11.2009.);
+- Direktivom Komisije 2010/60/EU od 30. kolovoza 2010. koja propisuje određena odstupanja, za stavljanje na tržište sjemenskih mješavina krmnog bilja namijenjenih očuvanju prirodnog okoliša (SL L 228, 31.8.2010.).

@@ -1,0 +1,8 @@
+## Kvantitativna ograničenja
+# Članak 14.
+1) Sjeme »čuvane sorte« ne smije se stavljati na tržište u količini većoj nego što je dostatno za sjetvu površine koja ne prelazi 0,5 % površine koja se sije u jednoj godini tom biljnom vrstom ili maksimalno količina sjemena potrebna za sjetvu 100 ha.
+2) Količina sjemena biljnih vrsta Pisum sativum, Triticum spp., Hordeum vulgare, Zea mays, Solanum tuberosum, Brassica napus i Helianthus annuus, stavljenog na tržište kao sjeme »čuvanih sorti« ne smije biti veća od 0,3 %, ili količine sjemena potrebne za sjetvu 100 ha.
+3) Ukupna količina sjemena »čuvanih sorti« stavljana na tržište ne smije biti veća od 10 % od ukupne količine sjemena koje se u jednoj godini koristi u Republici Hrvatskoj. Ako je u tom slučaju količina sjemena manja nego što je potrebno za sjetvu 100 ha, najveća količina sjemena jedne biljne vrste može biti povećana na količinu potrebnu za sjetvu 100 ha.
+4) Iznimno od stavka 1. ovoga članka, količina sjemena povrća, stavljenog na tržište kao sjeme »čuvane sorte«, po godini ne smije prelaziti količinu potrebnu za proizvodnju povrća po hektaru koja je određena u Dodatku I. ovoga Pravilnika za određenu vrstu povrća.
+5) Sjeme sorti povrća bez stvarne komercijalne vrijednosti razvijenih za uzgoj pri određenim uvjetima, smiju se stavljati na tržište u sitnim pakiranjima, koja ne prelaze najveću neto masu po vrsti određenu u Dodatku II.
+6) Iznimno od stavka 1. ovoga članka,, ukupna količina sjemena stavljenog na tržište kao mješavine krmnog bilja za očuvanje po godini ne smije biti veća od 5% ukupne mase svih sjemenskih mješavina krmnih biljaka stavljenih na tržište te godine, navedenih u Pravilniku o stavljanju na tržište sjemena krmnog bilja.
