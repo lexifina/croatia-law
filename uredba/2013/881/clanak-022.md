@@ -1,0 +1,3 @@
+# Članak 22.
+(1) Mjere osiguranja i zaštite provode se, na temelju međunarodnog prava, i prema predstavnicima i objektima diplomatskih misija i konzularnih ureda u Republici Hrvatskoj kao i drugim objektima i prostorima u kojima se održavaju diplomatsko-protokolarne aktivnosti u organizaciji stranih diplomatskih misija, ukoliko se na temelju podataka prikupljenih mjerama protuobavještajne zaštite, načela reciprociteta i drugih podataka i informacija nadležnih državnih tijela, ukaže potreba za provođenjem mjera osiguranja i zaštite.
+(2) Odluku o provođenju mjera osiguranja i zaštite iz stavka 1. ovoga članka donosi Vlada Republike Hrvatske na prijedlog Savjeta za koordinaciju sigurnosno-obavještajnih agencija.

@@ -1,0 +1,4 @@
+# Članak 14.
+(1) Osobe kojima prema odredbama ove Uredbe pripada osiguranje i zaštita nakon prestanka obnašanja dužnosti, mogu se odreći prava na mjere osiguranja i zaštite o čemu su dužne pisanim putem izvijestiti državno tijelo nadležno za provođenje mjera osiguranja i zaštite.
+(2) Mjere osiguranja i zaštite osoba kojima prema odredbama ove Uredbe pripada osiguranje i zaštita nakon prestanka obnašanja dužnosti, mogu se provoditi i nakon isteka rokova iz članka 11. stavka 5., članka 12. stavka 8. i članka 13. stavka 10. ove Uredbe.
+(3) Odluku o produljenju mjera osiguranja i zaštite osoba iz stavka 2. ovoga članka donosi Vlada Republike Hrvatske na prijedlog Savjeta za koordinaciju sigurnosno-obavještajnih agencija donesenog na temelju sigurnosne prosudbe nadležne sigurnosno-obavještajne agencije i podataka ili informacija drugih nadležnih državnih tijela.

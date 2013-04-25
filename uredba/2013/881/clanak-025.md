@@ -1,0 +1,2 @@
+# Članak 25.
+Za osobe za koje se na dan stupanja na snagu ove Uredbe provode mjere protuobavještajne zaštite i osiguranja sukladno članku 14. Uredbe o utvrđivanju poslova protuobavještajne zaštite i osiguranja određenih osoba, objekata i prostora (»Narodne novine«, br. 83/2003, 11/2004 i 70/2005), od dana stupanja na snagu ove Uredbe provodit će se mjere osiguranja i zaštite u trajanju do 60 dana ukoliko Vlada Republike Hrvatske ne donese odluku o produljenju ovih mjera na način propisan člankom 14. stavkom 3. ove Uredbe.

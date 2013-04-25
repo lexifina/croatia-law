@@ -1,0 +1,2 @@
+# Članak 9.
+Opseg i vrstu mjera osiguranja i zaštite štićenih osoba, objekata i prostora iz članka 6. stavka 1. odredit će nadležna ustrojstvena jedinica državnog tijela koje provodi mjere osiguranja i zaštite s obzirom na razinu ugroženosti određene kategorije štićene osobe, objekta i prostora te na temelju dostavljenih sigurnosnih prosudbi sigurnosno-obavještajnih agencija kao i podataka i informacija drugih državnih tijela.

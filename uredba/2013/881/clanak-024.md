@@ -1,0 +1,2 @@
+# Članak 24.
+Predsjednik Republike Hrvatske koji, sukladno članku 6. Zakona o izmjenama i dopunama Zakona o posebnim pravima predsjednika Republike Hrvatske po prestanku obnašanja dužnosti (»Narodne novine«, broj 22/2013) nastavlja korištenje prava na fizičku zaštitu sukladno članku 2. Zakona o posebnim pravima predsjednika Republike Hrvatske po prestanku obnašanja dužnosti (»Narodne novine«, broj 105/2004), smatra se štićenom osobom II. kategorije u smislu ove Uredbe.

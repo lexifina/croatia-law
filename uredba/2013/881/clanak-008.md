@@ -1,0 +1,4 @@
+# Članak 8.
+(1) Nadležna ustrojstvena jedinica Ministarstva i nadležne ustrojstvene jedinice drugih državnih tijela (nadležna ustrojstvena jedinica Sigurnosno-obavještajne agencije, Ministarstva obrane i Oružanih snaga Republike Hrvatske, Ministarstva vanjskih i europskih poslova i Straža Hrvatskoga sabora) provode mjere osiguranja i zaštite štićenih objekata i prostora samostalno ili u međusobnoj suradnji.
+(2) O provođenju mjera osiguranja i zaštite stranih štićenih osoba prilikom posjeta Republici Hrvatskoj, nadležne ustrojstvene jedinice drugih državnih tijela iz stavka 1. ovoga članka pravodobno će izvijestiti Ministarstvo.
+(3) U slučaju potrebe, nadležne ustrojstvene jedinice drugih državnih tijela iz stavka 1. ovoga članka koja provode osiguranje štićenih osoba, objekata i prostora međusobno će pružati pomoć pri provođenju mjera osiguranja i zaštite sukladno posebnom sporazumu ili propisu.
