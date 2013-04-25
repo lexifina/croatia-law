@@ -1,0 +1,2 @@
+# Članak 25.
+Provjera prijavljenih tijela i tijela za tehničko ocjenjivanje glede ispunjavanja zahtjeva za njihovo prijavljivanje odnosno imenovanje provodi se odgovarajućom primjenom odredbi Zakona o građevnim proizvodima koje se odnose na pravne osobe ovlaštene za provedbu radnji ocjenjivanja sukladnosti građevnih proizvoda, izdavanje potvrde o sukladnosti građevnih proizvoda i donošenje tehničkih dopuštenja.
