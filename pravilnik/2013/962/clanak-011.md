@@ -1,0 +1,2 @@
+# Članak 11.
+Službena osoba u postupku ostvarivanja prava na jednokratnu novčanu pomoć iz članka 6. stavka 1. i članka 8. stavka 1. Uredbe može od korisnika zatražiti i druge dokaze, ukoliko dokazi propisani ovim Pravilnikom nisu dovoljni za ocjenu opravdanosti zahtjeva ili su potrebni za utvrđivanje visine jednokratne novčane pomoći ili ako postoje posebne okolnosti koje upućuju na potrebu dostave dodatnih dokaza.

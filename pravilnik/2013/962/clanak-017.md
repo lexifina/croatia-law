@@ -1,0 +1,5 @@
+# Članak 17.
+Zapreku za priznavanje prava na jednokratnu novčanu pomoć ne predstavlja nekretnina koja se nalazi na miniranom području. Da li se nekretnina nalazi na miniranom području utvrdit će se očitovanjem Hrvatskog centra za razminiranje.
+Zapreku za priznavanje prava na jednokratnu novčanu pomoć ne predstavlja nekretnina smještena u 1. kategoriji područja s težim uvjetima gospodarenja (brdsko-planinska područja), sukladno propisima o područjima s težim uvjetima gospodarenja u poljoprivredi i popisu katastarskih općina razvrstane u 1. kategoriju TUG područja.
+Zapreku za priznavanje prava na jednokratnu novčanu pomoć ne predstavlja stambeni prostor oštećen u Domovinskom ratu, a nije obnovljen niti je korisnik ostvario pravo na obnovu prema propisima o obnovi. Da li je korisnik ostvario pravo na obnovu prema propisima o obnovi, dokazuje se potvrdom Službe za imovinskopravne poslove.
+Zapreku za priznavanje prava na jednokratnu novčanu pomoć ne predstavlja stambeni prostor koji ne zadovoljava osnovne uvjete za korištenje tog prostora za stanovanje (napušteni, ruševni, nedovršeni i slični objekti).
