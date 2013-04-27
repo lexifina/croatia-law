@@ -1,0 +1,1 @@
+Temeljem članka 74. stavak 4. Zakona o pomorskom dobru i morskim lukama (»Narodne novine«, broj 158/2004, 100/2004, 141/2006, 38/2009 i 123/2011) ministar pomorstva, prometa i infrastrukture uz suglasnost ministrice graditeljstva i prostornoga uređenja donosi

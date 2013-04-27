@@ -1,0 +1,1 @@
+Pravilnik o dopuni Pravilnika o kriterijima za određivanje namjene pojedinog dijela luke otvorene za javni promet županijskog i lokalnog značaja, način plaćanja veza, uvjete korištenja, te određivanja maksimalne visine naknade i raspodjele prihoda
