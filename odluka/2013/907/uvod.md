@@ -1,0 +1,1 @@
+Na temelju članka 271. stavka 2. Zakona o radu (»Narodne novine« broj 149/09 i 61/11), ministar rada i mirovinskoga sustava, uz prethodno mišljenje Gospodarsko-socijalnog vijeća i uz suglasnost ministra nadležnog za poslove financija donosi
