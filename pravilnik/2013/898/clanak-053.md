@@ -1,0 +1,5 @@
+# Članak 53.
+(1) Zapovjednik straže odgovoran je za provođenje preventivnih mjera zaštite od požara u stražarnici. U slučaju pojave požara, obvezan je postupiti u skladu s Planom zaštite od požara te organizirati gašenje raspoloživim sredstvima za gašenje požara. Ako je požar većeg obujma, dužan je organizirati spašavanje ljudi i izvlačenje opreme iz stražarnice.
+(2) U slučaju pojave požara u čuvanom objektu ili na njemu, zapovjednik straže obvezan je postupiti u skladu s Planom zaštite od požara za objekt zahvaćen požarom. Prosudbom zapovjednika o mogućnostima gašenja požara požar se gasi s raspoloživim sastavom straže.
+(3) U slučaju većeg požara i prosudbe zapovjednika da požar ne može ugasiti raspoloživom stražom, straža ne gasi požar. Zapovjednik straže raspoređuje stražare na sprječavanju širenja požara te pojačava osiguranje objekata koji nisu zahvaćeni požarom. Zapovjednik organizira doček i usmjeravanje snaga za gašenje požara prema požarištu.
+(4) Tijekom i nakon završetka gašenja požara zapovjednik straže organizira sprječavanje uklanjanja dokaza o uzrocima nastanka požara.

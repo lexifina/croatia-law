@@ -1,0 +1,3 @@
+# Članak 54.
+(1) Ako se požar dogodi u čuvanom vojnom objektu u kojem postoje raspoložive snage za gašenje, straža se ne angažira na gašenju već provodi pojačano osiguranje (udvajanje stražara, upućivanje ophodnji, uspostavljanje novih stražarskih mjesta, čuvanje izvučene materijalne imovine i slično).
+(2) Ako je požar manjeg obujma u izdvojenim objektima ili ako prijeti brzim širenjem i na druge vojne objekte, osobito na skladišta sa streljivom, oružjem i lako zapaljivim materijalom, zapovjednik straže poduzima potrebite mjere kako bi se požar ugasio (lokalizirao), odnosno organizira stražu za gašenje dok ne stignu snage za gašenje požara (vatrogasna postrojba).
