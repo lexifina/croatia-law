@@ -1,0 +1,4 @@
+# Članak 3.
+Iza članka 9. dodaje se članak 9.a koji glasi:
+»Članak 9.a
+Služba za opće poslove obavlja opće, tehničke i pomoćne poslove za Vladu, radna tijela Vlade i njihove stručne radne skupine, Ured predsjednika Vlade, te potpredsjednike i članove Vlade, a osobito: birotehničku obradu i distribuciju materijala za sjednice Vlade, sjednice radnih tijela i njihove stručne radne skupine; primitak, dostavu i otpremu pošte; kompletiranje, odlaganje i čuvanje dokumentacije sa sjednica Vlade; uvezivanje zapisnika sa sjednica Vlade i uvezivanje drugih publikacija; pripremu dvorana za sjednice Vlade, radnih tijela Vlade, stručnih radnih skupina i sastanaka koji se održavaju u Vladi; održavanje birotehničkih strojeva i aparata; osiguravanje potrebnog repromaterijala i druge poslove po nalogu glavnog tajnika i zamjenika glavnog tajnika.«.
