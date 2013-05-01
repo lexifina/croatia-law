@@ -1,0 +1,2 @@
+# Članak 20.
+Zahtjeve za stambeno zbrinjavanje podnesene prije stupanja na snagu Zakona o izmjenama i dopunama Zakona o područjima posebne državne skrbi (»Narodne novine«, br. 57/11.) o kojima nije odlučeno, a koje podnositelji zahtjeva nisu dopunili odgovarajućim dokazima prema članku 12. navedenog Zakona u roku od godinu dana od dana njegovog stupanja na snagu, uredi državne uprave u županijama, odnosno nadležno tijelo Grada Zagreba odbit će rješenjem.
