@@ -1,0 +1,2 @@
+# Članak 1.
+U Pravilniku o uvjetima i načinu ostvarivanja prava iz obveznog zdravstvenog osiguranja na zdravstvenu njegu u kući osigurane osobe (»Narodne novine« broj 88/10., 1/11., 16/11. - ispravak, 87/11. i 38/13.) u članku 6. stavku 1. tablici 1. »Stupanj zahtjevnosti zdravstvene njege«, pod rednim brojem 1., u stupcu: »Opis postupka« iza zagrade briše se točka, upisuje zarez i dodaju riječi: »uz provjeru vitalnih znakova.«.
