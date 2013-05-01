@@ -1,0 +1,2 @@
+# Članak 9.
+U cijelom tekstu Zakona o obnovi (»Narodne novine«, br. 24/96., 54/96., 87/96., 57/00., 38/09. i 45/11.) riječi: »Ministarstvo za javne radove, obnovu i graditeljstvo«, »Ministarstvo regionalnog razvoja, šumarstva i vodnoga gospodarstva« odnosno: »Ministarstvo« zamjenjuju se riječima: »Državni ured za stambeno zbrinjavanje«, a riječ: »ministar« riječima: »čelnik Državnog ureda za stambeno zbrinjavanje«, u odgovarajućem padežu.

@@ -1,0 +1,2 @@
+# Članak 4.
+U članku 47. stavku 2. riječi: »Ministarstva gospodarstva, rada i poduzetništva, Ministarstva poljoprivrede, ribarstva i ruralnog razvoja, Ministarstva regionalnog razvoja, šumarstva i vodnoga gospodarstva« zamjenjuju se riječima: »Državnog ureda za stambeno zbrinjavanje, ministarstava nadležnih za gospodarstvo, turizam, poljoprivredu, šumarstvo i vodno gospodarstvo te drugih tijela nadležnih za upravljanje državnom imovinom«.

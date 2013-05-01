@@ -1,0 +1,4 @@
+# Članak 10.
+Danom stupanja na snagu ovoga Zakona Agencija za pravni promet i posredovanje nekretninama preuzima od Ministarstva regionalnoga razvoja i fondova Europske unije dio poslova koji se odnose na tehničku realizaciju nabave, obnove i izgradnje stambenih jedinica za potrebe provedbe stambenih programa, u skladu s odredbama ovoga Zakona te opremu, pismohranu i drugu dokumentaciju, sredstva za rad, financijska sredstva te prava i obveze, razmjerno preuzetim poslovima, kao i državne službenike i namještenike zatečene na preuzetim poslovima.
+Vlada Republike Hrvatske će u roku od 60 dana od dana stupanja na snagu ovoga Zakona uskladiti uredbu o unutarnjem ustrojstvu tijela iz stavka 1. ovoga članka.
+Čelnik tijela iz stavka 1. ovoga članka dužan je uskladiti pravilnik o unutarnjem redu prema odredbama ovoga Zakona, u roku od 30 dana od dana stupanja na snagu uredbe iz stavka 2. ovoga članka.
