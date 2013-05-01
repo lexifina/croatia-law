@@ -1,0 +1,3 @@
+# Članak 11.
+Osobe koje su stekle određena prava u skladu s odredbama Zakona o statusu prognanika i izbjeglica (»Narodne novine«, br. 96/93., 39/95., 29/99. i 128/99.) zadržavaju stečena prava do revizije statusa koju će provesti uredi državne uprave u županijama, odnosno nadležno upravno tijelo Grada Zagreba u roku od 60 dana od dana stupanja na snagu pravilnika iz članka 8. stavka 1. ovoga Zakona.
+Po podnesenim zahtjevima za utvrđivanje prava povratnika neriješenim do dana stupanja na snagu ovoga Zakona, uredi državne uprave u županijama odnosno nadležno upravno tijelo Grada Zagreba rješavat će u skladu s odredbama ovoga Zakona.

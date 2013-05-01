@@ -1,0 +1,3 @@
+# Članak 13.
+Danom stupanja na snagu ovoga Zakona uredi državne uprave u županijama i nadležno upravno tijelo Grada Zagreba preuzimaju od Ministarstva regionalnoga razvoja i fondova Europske unije dio poslova koji se odnose na rješavanje u prvom stupnju o statusnim pravima izbjeglica, prognanika i povratnika u skladu s odredbama ovoga Zakona te opremu, pismohranu i drugu dokumentaciju, sredstva za rad, financijska sredstva te prava i obveze, razmjerno preuzetim poslovima, kao i državne službenike i namještenike zatečene na preuzetim poslovima.
+Čelnici tijela iz stavka 1. ovoga članka dužni su uskladiti pravilnike o unutarnjem redu prema odredbama ovoga Zakona, u roku od 60 dana od dana stupanja na snagu ovoga Zakona.
