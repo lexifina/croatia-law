@@ -1,0 +1,1 @@
+Odluka o obvezi rada ureda državne uprave radi provedbe izbora za članove predstavničkih tijela jedinica lokalne i područne (regionalne) samouprave, za općinske načelnike, gradonačelnike i župane te njihove zamjenike, kao i za zamjenike općinskih načelnika, gradonačelnika i župana iz reda pripadnika nacionalnih manjina, odnosno iz reda pripadnika hrvatskog naroda
