@@ -1,0 +1,2 @@
+# Članak 6.
+Ne dovodeći u pitanje odredbe Pravilnika o prehrambenim aditivima (»Narodne novine« broj 62/10., 62/11., 135/11. i 79/12.), u proizvodnji proizvoda iz Dijela I. Priloga I. ovoga Pravilnika dopušteni su samo postupci i tvari propisani u Dijelu II. Priloga I. ovoga Pravilnika te sirovine definirane u Prilogu II. ovoga Pravilnika, dok se u proizvodnji voćnih nektara mora udovoljiti zahtjevima propisanim u Prilogu IV. koji je tiskan uz ovaj Pravilnik i njegov je sastavni dio.
