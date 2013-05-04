@@ -1,0 +1,4 @@
+# Članak 1.
+U Pravilniku o tehničkoj ispravnosti automata i stolova za igre na sreću (»Narodne novine«, br. 38/10, 130/10 - dalje u tekstu: Pravilnik), u članku 3. mijenjaju se stavci 6. i 8. i glase:
+»(6) Automat i stol može se uzeti u najam samo od proizvođača ili pravne osobe sa sjedištem u Republici Hrvatskoj ovlaštene za zastupanje proizvođača. Pravna osoba koja daje automate i stolove u najam dužna je Ministarstvu financija dostavljati izvješće s popisom priređivača kojima su iznajmili automate ili stolove, brojem automata i stolova danim u najam, te s podacima o proizvođaču, o vrsti i serijskom broju, te mjesecu i godini proizvodnje.
+(8) Pravo na uvoz automata, stolova i njihovih dijelova u Republiku Hrvatsku imaju priređivači i pravne osobe sa sjedištem u Republici Hrvatskoj ovlaštene za zastupanje proizvođača.«
