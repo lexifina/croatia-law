@@ -1,0 +1,2 @@
+# Članak 4.
+Danom stupanja na snagu ove Odluke prestaju važiti Odluka o utvrđivanju Dopunske liste lijekova Hrvatskog zavoda za zdravstveno osiguranje (»Narodne novine« broj 69/10., 83/10., 131/10., 1/11., 54/11., 59/11., 48/12., 52/12., 119/12. i 131/12.), Odluka o utvrđivanju Dopunske liste lijekova Hrvatskog zavoda za zdravstveno osiguranje (»Narodne novine« broj 21/13) i Odluka o utvrđivanju Dopunske liste magistralnih pripravaka Hrvatskog zavoda za zdravstveno osiguranje (»Narodne novine« broj 21/13).
