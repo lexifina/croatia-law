@@ -1,0 +1,9 @@
+# Članak 2.
+Lijekovi utvrđeni Osnovnom listom lijekova iz članka 1. ove Odluke primjenjuju se u okviru zdravstvene zaštite koja se provodi u djelatnosti na primarnoj, sekundarnoj i tercijarnoj razini, te na razini zdravstvenih zavoda.
+Osnovna lista lijekova sadrži sljedeće podatke: šifru anatomsko-
+-terapijsko-kemijske (ATK) klasifikacije lijekova Svjetske zdravstvene organizacije, oznake, uobičajeno nezaštićeno ime (generičko ime) lijeka (INN), definiranu dnevnu dozu (DDD) i jedinicu mjere, cijenu lijeka u kunama za definiranu dnevnu dozu (bez i sa PDV-om), način primjene lijeka, naziv proizvođača, zaštićeno ime lijeka, oblik, jačinu i količinu prema pakiranju lijeka, cijenu u kunama za jedinicu oblika lijeka (bez i sa PDV-om), cijenu u kunama za originalno pakiranje lijeka (bez i sa PDV-om) te oznaku »R« i »RS«.
+Oznaka uz nezaštićeno (generičko) ime lijeka označava medicinske indikacije osnovom kojih osigurana osoba ima pravo na korištenje pojedinog lijeka iz Osnovne liste lijekova na teret sredstava obveznog zdravstvenog osiguranja, te pravila njihove primjene prilikom korištenja zdravstvene zaštite na svim razinama zdravstvene djelatnosti.
+Oznaka uz »R« i »RS« označava smjernicu propisivanja lijeka osnovom kojih osigurana osoba ima pravo na korištenje pojedinog lijeka iz Osnovne liste lijekova na teret sredstava obveznog zdravstvenog osiguranja te pravila njihovog propisivanja na recept.
+Osnovna lista lijekova sastavni je dio ove Odluke.
+Osnovna lista magistralnih pripravaka sadrži sljedeće podatke: šifru anatomsko-terapijsko-kemijske (ATK) klasifikacije lijekova Svjetske zdravstvene organizacije, nezaštićeno ime lijeka, cijenu u kunama za originalno pakiranje lijeka (bez i sa PDV-om), te oznaku »R« ili »RS«.
+Osnovna lista magistralnih pripravaka sastavni je dio ove Odluke.
