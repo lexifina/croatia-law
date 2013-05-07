@@ -1,0 +1,1 @@
+Odluka o rasporedu sredstava osiguranih u Državnom proračunu Republike Hrvatske za 2013. godinu ("Narodne novine" 139/2012) u Razdjelu 020 Vlada Republike Hrvatske, Glava 21 Savjet za nacionalne manjine, Aktivnost A732003 potpore za programe ostvarivanja kulturne autonomije nacionalnih manjina, pozicija 381 Tekuće donacije u novcu
