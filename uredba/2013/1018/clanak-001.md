@@ -1,0 +1,2 @@
+# Članak 1.
+U Uredbi o uvjetima davanja koncesija za gospodarsko korištenje voda (»Narodne novine«, br. 89/2010 i 46/2012), u članku 5. točki 9. podstavku 2. riječi: »300-kratnu zapunjenost ribnjaka, odnosno uzgajališta i iznosi 1,00 kn/m3 koja se množi s koeficijentom 0,025« zamjenjuju se riječima: »14600-kratnu zapunjenost bazena za uzgoj riba na uzgajalištu i iznosi 1,00 kn/m3 koja se množi s koeficijentom 0,0001«.
