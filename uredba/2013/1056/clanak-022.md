@@ -1,0 +1,6 @@
+# Članak 22.
+(1) Nadležno tijelo razmotrit će potpuni zahtjev uz brižljivu ocjenu svih dokaza i okolnosti te dati mišljenje o utemeljenosti zahtjeva. Mišljenje se daje na obrascu ZFO.
+(2) Nadležno tijelo će po službenoj dužnosti prije davanja mišljenja o utemeljenosti zahtjeva iz stavka 1. ovoga članka, obvezno od Porezne uprave zatražiti podatak o obvezama i potraživanjima iz porezno-dužničkog odnosa te utvrditi postojanje svih međusobnih potraživanja, uključujući i one s osnova javnih davanja, između Republike Hrvatske i dužnika te jedinice lokalne i područne (regionalne) samouprave i dužnika.
+(3) Ministarstvo financija i druga javno pravna tijela dužna su na zahtjev nadležnog tijela istom dostaviti isprave o potraživanjima iz stavka 2. ovoga članka.
+(4) Nadležno tijelo je dužno, ukoliko utvrdi postojanje međusobnih potraživanja iz stavka 2. ovoga članka, samo izvršiti prijeboj istih.
+(5) Nadležno tijelo će zahtjev s danim mišljenjem iz stavka 1. ovoga članka dostaviti Ministarstvu financija, odnosno upravnom tijelu za financije jedinice lokalne i područne (regionalne) samouprave (u daljnjem tekstu: upravno tijelo za financije) u roku 15 dana od dana podnošenja potpunog zahtjeva.

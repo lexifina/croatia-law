@@ -1,0 +1,5 @@
+# Članak 12.
+(1) Ministarstvo financija, odnosno upravno tijelo za financije će na temelju mišljenja nadležnog tijela, u roku 15 dana od dana dostave zahtjeva iz članka 11. stavka 2. ove Uredbe, uz brižljivu ocjenu svih dokaza i okolnosti, razmotriti zahtjev i ako su ispunjeni svi propisani uvjeti u skladu sa zakonom i ovom Uredbom udovoljiti zahtjevu ili predložiti Vladi Republike Hrvatske, odnosno načelniku općine, gradonačelniku ili županu donošenje odluke o odgodi plaćanja ili obročnoj otplati.
+(2) Ukoliko se odobrava obročna otplata duga, u odluci kojom se odlučuje o zahtjevu obvezno se utvrđuje ukupan broj i iznos mjesečnih obroka te rokovi plaćanja.
+(3) Ako odluku iz stavka 1. ovoga članka donosi Ministarstvo financija, odnosno upravno tijelo za financije podnositelj zahtjeva ima pravo na žalbu. Žalba se podnosi putem Ministarstva financija, odnosno upravnog tijela za financije.
+(4) Ako odluku iz stavka 1. ovoga članka donosi Vlada Republike Hrvatske, odnosno načelnik općine, gradonačelnik ili župan, podnositelj zahtjeva nema pravo na žalbu, ali može pokrenuti upravni spor.
