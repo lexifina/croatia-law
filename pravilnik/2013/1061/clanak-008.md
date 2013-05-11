@@ -1,0 +1,10 @@
+# Članak 8.
+U članku 31. stavku 1. riječi: »nadzornici tehničkog pregleda», zamjenjuju se riječima: »nadzornici tehničke ispravnosti vozila«.
+Stavak 5. mijenja se i glasi:
+»Pregled vozila na cesti obavlja se kontrolom dijelova vozila bitnih za sigurnost prometa na cestama i ekološku podobnost«.
+Iza stavka 8. dodaju se stavci 9., 10., 11., 12. i 13. koji glase:
+»Ministarstvo unutarnjih poslova, svake dvije godine, najkasnije do 31. ožujka, dostavlja Komisiji podatke prikupljene u prethodne dvije godine o broju pregledanih gospodarskih vozila, razvrstanih po kategorijama vozila, u skladu s Prilogom I. točkom 6. Direktive 2000/30/EZ i Direktive 2010/47/EU, i po državama u kojima su vozila registrirana te podatke o pregledanim stavkama i uočenim nepravilnostima, u skladu s Prilogom I. točke 10. Direktive 2000/30/EZ i Direktive 2010/47/EU. Prvi podneseni podaci obuhvaćaju razdoblje od dvije godine s početkom od 1. siječnja 2012. godine.
+Ministarstvo unutarnjih poslova će tijelima drugih država pružiti odgovarajuću pomoć u primjeni Direktive 2000/30/EZ i Direktive 2010/47/EU te dostaviti podatke o uredu(ima) odgovornima za izvršenje provjera i imena osoba za kontakt.
+O ozbiljnim nepravilnostima (tehničkoj neispravnosti) na gospodarskom vozilu koje pripada osobi koja nema boravište u Republici Hrvatskoj, osobito o nepravilnostima zbog kojih se zabranjuje uporaba vozila, izvijestit će se nadležna službena tijela države članice u kojoj je vozilo registrirano ili stavljeno u promet (Obrazac 7.) te daljnji postupak nastaviti u skladu sa propisima Republike Hrvatske.
+Kad su ustanovljene ozbiljne nepravilnost na gospodarskom vozilu koje pripada osobi bez boravišta u Republici Hrvatskoj, može se zatražiti od nadležnih tijela u državi članici u kojoj je vozilo registrirano ili pušteno u promet da poduzme određene mjere protiv prekršitelja (da podvrgne vozilo dodatnom pregledu tehničke ispravnosti i dr.).
+Ministarstvo unutarnjih poslova izvijestit će nadležna tijela države članice u kojoj su ustanovljene nepravilnosti na gospodarskom vozilu o svim mjerama koje su poduzete protiv prekršitelja.«.

@@ -1,0 +1,2 @@
+# Članak 11.
+Obrazac broj 2 »Kontrolni list za obavljanje tehničkog pregleda vozila», obrazac broj 4 »Zapisnik o tehničkom pregledu vozila i obrazac broj 7 »Tehnički pregled na cesti temeljem direktive 2000/30/EC», zamjenjuju se novim obrascem broj 2 »Kontrolni list za obavljanje tehničkog pregleda vozila», obrascem broj 4 »Zapisnik o tehničkom pregledu vozila« i obrascem broj 7 »»TEHNIČKI PREGLED NA CESTI - Direktiva 2000/30/EC i 2010/47/EU« koji su tiskani uz ovaj Pravilnika i čine njegov sastavni dio.

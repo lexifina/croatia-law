@@ -1,0 +1,1 @@
+Na temelju članka 255. stavka 6. Zakona o sigurnosti prometa na cestama (»Narodne novine« broj 67/2008., 48/2010. i 74/2011.), ministar unutarnjih poslova u suglasnosti s ministrom pomorstva, prometa i infrastrukture donosi
