@@ -1,0 +1,3 @@
+# Članak 100.
+U članku 291. stavak 1. mijenja se i glasi:
+»(1) Ako je Hrvatska narodna banka konsolidirajući supervizor i ako nastupi izvanredno stanje, uključujući situaciju iz članka 18. Uredbe br. 1093/2010 ili nepovoljna tržišna kretanja, koje bi moglo ugroziti likvidnost tržišta ili stabilnost financijskog sustava u bilo kojoj državi članici u kojoj su članice te grupe kreditnih institucija dobile odobrenje za rad ili u kojima značajne podružnice kreditne institucije iz Republike Hrvatske pružaju usluge, Hrvatska narodna banka odmah će o tome obavijestiti Europsko nadzorno tijelo za bankarstvo i osobe iz članka 225. stavka 1. točaka 7., 8. i 11. ovoga Zakona i proslijediti im informacije koje su bitne za njihov rad.«

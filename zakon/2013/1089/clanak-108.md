@@ -1,0 +1,7 @@
+# Članak 108.
+Iza članka 301. dodaje se naslov i članak 301.a koji glase:
+»Primjena propisa na mješoviti financijski holding
+Članak 301.a
+(1) Ako se na mješoviti financijski holding odnose odredbe ovoga Zakona koje su ekvivalentne odredbama zakona kojim se uređuje dodatna supervizija financijskih konglomerata osobito u dijelu supervizije poslovanja, Hrvatska narodna banka, ako je konsolidirajući supervizor i uz savjetovanje s ostalim tijelima nadležnim za superviziju podređenih društava, može donijeti odluku da se na mješoviti financijski holding primjenjuju samo relevantne odredbe zakona kojim se uređuje dodatna supervizija financijskih konglomerata.
+(2) Ako se na mješoviti financijski holding odnose odredbe ovoga Zakona koje su ekvivalentne odredbama zakona kojim se uređuje osiguranje osobito u dijelu supervizije poslovanja, Hrvatska narodna banka, ako je konsolidirajući supervizor i uz suglasnost tijela nadležnog za superviziju društava za osiguranje, može donijeti odluku da se na mješoviti financijski holding primjenjuju samo relevantne odredbe onoga zakona kojim se uređuje najznačajniji financijski sektor utvrđen prema zakonu kojim se uređuje dodatna supervizija financijskih konglomerata.
+(3) Hrvatska narodna banka obavijestit će Europsko nadzorno tijelo za bankarstvo i Europsko nadzorno tijelo za osiguranje i strukovno mirovinsko osiguranje (engl. European Insurance and Occupational Pensions Authority) o odlukama koje je donijela u skladu sa stavcima 1. i 2. ovoga članka.«

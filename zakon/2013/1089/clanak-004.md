@@ -1,0 +1,4 @@
+# Članak 4.
+Naslov iznad članka 19. mijenja se i glasi: »Nadređena kreditna institucija u Republici Hrvatskoj, nadređeni financijski holding u Republici Hrvatskoj i nadređeni mješoviti financijski holding u Republici Hrvatskoj«.
+U članku 19. stavcima 1. i 2. riječi: »koji je osnovan u Republici Hrvatskoj« zamjenjuju se riječima: »ili mješovitoga financijskoga holdinga koji su osnovani u Republici Hrvatskoj«.
+Iza stavka 2. dodaje se stavak 3. koji glasi: »(3) Nadređeni mješoviti financijski holding u Republici Hrvatskoj (u daljnjem tekstu: nadređeni mješoviti financijski holding u RH) mješoviti je financijski holding sa sjedištem u Republici Hrvatskoj koji nije podređeno društvo kreditne institucije koja je od Hrvatske narodne banke dobila odobrenje za rad, odnosno nekoga drugoga financijskoga holdinga ili mješovitoga financijskoga holdinga koji su osnovani u Republici Hrvatskoj.«

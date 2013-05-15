@@ -1,0 +1,3 @@
+# Članak 53.
+U članku 222. iza stavka 4. dodaje se stavak 5. koji glasi:
+»(5) Hrvatska narodna banka može zatražiti posredovanje Europskoga nadzornog tijela za bankarstvo ako je nadležno tijelo iz druge države članice odbilo njezin zahtjev za suradnju, a osobito za razmjenu informacija, ili nije postupilo po njemu u primjerenom roku. Hrvatska narodna banka poštovat će odluku donesenu u skladu sa člankom 19. Uredbe br. 1093/2010 Europskog parlamenta i Vijeća od 24. studenoga 2010. o osnivanju europskoga nadzornog tijela (Europskoga nadzornog tijela za bankarstvo) i o izmjeni Odluke br. 716/2009/EZ te o prestanku važenja Odluke Komisije br. 2009/78/EZ (SL, L 331, 15. 12. 2010.; u daljnjem tekstu: Uredba br. 1093/2010).«
