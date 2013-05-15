@@ -1,0 +1,6 @@
+## Prijelazno uređenje za povlašteno podrijetlo robe iz trećih zemalja
+# Članak 94.
+Za robu koja je puštena u slobodni promet prije pristupanja Republike Hrvatske Europskoj uniji odredbe o određivanju pojma »proizvodi s podrijetlom« i načini upravne suradnje iz dodataka sljedećih ugovora, što ih je Republika Hrvatska sklopila s trećim državama koje nisu pristupile Europskoj uniji do uključujući 30. lipnja 2013., nastavit će se primjenjivati u skladu s rokovima utvrđenim u tim dodacima:
+1. Zakon o potvrđivanju Ugovora o izmjeni i dopuni i pristupanju Srednjoeuropskom ugovoru o slobodnoj trgovini, Dodatak 4. Srednjoeuropskog ugovora o slobodnoj trgovini (»Narodne novine – Međunarodni ugovori«, br. 6/07. i 9/07.),
+2. Zakon o potvrđivanju Ugovora o slobodnoj trgovini između Republike Hrvatske i država EFTA-e, Dodatak 3. Ugovora o slobodnoj trgovini između Republike Hrvatske i država EFTA-e (»Narodne novine – Međunarodni ugovori«, br. 12/01., 7/02., 9/02. i 13/11.),
+3. Zakon o potvrđivanju Ugovora o slobodnoj trgovini između Republike Hrvatske i Republike Turske, Protokol 3. Ugovora o slobodnoj trgovini između Republike Hrvatske i Republike Turske (»Narodne novine – Međunarodni ugovori«, br. 12/02., 1/07. i 3/12.).

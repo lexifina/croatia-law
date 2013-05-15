@@ -1,0 +1,6 @@
+## Uništenje robe
+# Članak 68.
+(1) Ako se roba ne proda ili besplatno ne ustupi, uništava se pod carinskim nadzorom uz poštivanje posebnih propisa.
+(2) Zbog sigurnosnih razloga, razloga zaštite zdravlja i života ljudi, životinja, bilja, zaštite prirode i okoliša ili drugih osobito opravdanih razloga, carinski ured može sa oduzetom robom koja je, sukladno posebnim propisima, u ograničenom pravnom prometu raspolagati tako da je do određivanja carinskog postupanja preda na čuvanje nadležnom javnopravnom tijelu ili ovlaštenoj osobi za stručno postupanje i rukovanje robom.
+(3) Ako se roba oduzeta sukladno člancima 53., 57. i 75. Carinskog zakonika ili primjenom drugih carinskih propisa Europske unije mora uništiti jer ne udovoljava zdravstvenim, veterinarskim, fitosanitarnim, sigurnosnim ili drugim propisima, uništenje se provodi na trošak osobe od koje je roba oduzeta.
+(4) Troškove uništenja iz stavka 3. ovoga članka i članka 63. stavka 2. ovoga Zakona dužna je podmiriti osoba od koje je roba oduzeta u roku od 10 dana od dana dostave odluke o uništenju robe, a u protivnom će se ti troškovi naplatiti prisilno. Ovrhu provodi carinski ured nadležan prema mjestu sjedišta, odnosno prebivališta osobe od koje je roba oduzeta prema propisima za prisilnu naplatu javnih davanja.

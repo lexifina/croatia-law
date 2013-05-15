@@ -1,0 +1,6 @@
+## Prekršaji prema Uredbi o oslobođenjima od plaćanja carine
+# Članak 78.
+(1) Novčanom kaznom od 3.000,00 do 1.000.000,00 kuna kaznit će se za prekršaj pravna osoba, a novčanom kaznom od 1.000,00 do 100.000,00 kuna odgovorna osoba u pravnoj osobi, kao i fizička osoba ako:
+1. u suprotnosti s propisima proda, otuđi po drugoj osnovi, da drugom na uporabu, zalog, najam, rabi u druge svrhe ili preda kao osiguranje za dug obveze ili je upotrijebi u neke druge svrhe osim u one zbog kojih je roba bila oslobođena plaćanja davanja, a prethodno ne podmiri carinski dug (članci 8., 16., 33., 52., 64., 71., 78. i 110. Uredbe o oslobođenjima od plaćanja carine),
+2. ne obavijesti nadležni carinski ured o prestanku ispunjenja uvjeta zbog kojih je oslobođena od plaćanja davanja ili namjerava proizvode koji su uvezeni kao oslobođeni od plaćanja davanja upotrijebiti u druge svrhe (članci 49., 50., 65., 73., 79. i 80. Uredbe o oslobođenjima od plaćanja carine).
+(2) Novčanom kaznom od 3.000,00 do 900.000,00 kuna kaznit će se i fizička osoba obrtnik i osoba koja obavlja drugu samostalnu djelatnost ako je prekršaj iz stavka 1. ovoga članka počinila u vezi s obavljanjem svoga obrta ili druge samostalne djelatnosti.

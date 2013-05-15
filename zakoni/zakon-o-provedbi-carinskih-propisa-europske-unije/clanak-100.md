@@ -1,0 +1,4 @@
+# Članak 100.
+(1) Do donošenja Zakona o carinskoj službi kojim će se osnovati područni carinski uredi, carinski uredi i granični carinski uredi iz članka 5. stavka 1. točke 11. ovoga Zakona poslove predviđene carinskim, trošarinskim, poreznim i drugim propisima koji su stavljeni u nadležnost Carinske uprave obavljaju carinarnice.
+(2) Radni i službeni prostori carinarnice i druga mjesta koja su određena ili odobrena za podnošenje robe i provedbu carinski dopuštenog postupanja ili uporabe robe prema odredbama propisa koji su važili do dana stupanja na snagu ovoga Zakona smatraju se službenim mjestima iz članka 23. ovoga Zakona zaključno do 1. srpnja 2014.
+(3) Ako u roku iz stavka 2. ovoga članka operateri ne ishode odobrenje o ispunjavanju uvjeta za utvrđivanje službenog mjesta prema odredbama ovoga Zakona, neće se moći obavljati radnje u vezi s carinjenjem robe i prometom putnika između Europske unije i trećih zemalja.

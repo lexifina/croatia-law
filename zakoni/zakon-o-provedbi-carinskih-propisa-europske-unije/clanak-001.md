@@ -1,0 +1,12 @@
+## DIO I. TEMELJNE ODREDBE
+## GLAVA 1. Opća odredba
+# Članak 1.
+(1) Ovim se Zakonom uređuje provedba carinskih propisa Europske unije koji državama članicama daju ovlaštenja da nacionalnim zakonodavstvom reguliraju pojedina pitanja iz područja carinskih propisa čije uređenje nije u nadležnosti Europske unije.
+(2) U smislu ovoga Zakona carinskim propisima Europske unije smatraju se:
+1. Uredba Vijeća (EEZ) br. 2913/92 od 12. listopada 1992. o Carinskom zakoniku Zajednice (SL L 302, 19. 10. 1992. str. 1, sa svim izmjenama i dopunama; u daljnjem tekstu: Carinski zakonik),
+2. Uredba Komisije (EEZ) br. 2454/93 od 2. srpnja 1993. o utvrđivanju odredaba za provedbu Uredbe Vijeća (EEZ) broj 2913/92 o Carinskom zakoniku Zajednice (SL L 253, 11. 10. 1993. str. 1, sa svim izmjenama i dopunama; u daljnjem tekstu: Uredba za provedbu Carinskog zakonika),
+3. Uredba Vijeća (EZ) br. 1186/09 od 16. studenoga 2009. o uspostavi sustava oslobođenja od carina u Europskoj uniji (SL L 324, 11. 10. 1993. str. 23, u daljnjem tekstu: Uredba o oslobođenjima od plaćanja carine),
+4. Uredba Vijeća (EEZ) br. 2658/87 od 23. srpnja 1987. o tarifnoj i statističkoj nomenklaturi i o Zajedničkoj carinskoj tarifi (SL L 256, 7. 9. 1987., str. 1, sa svim izmjenama i dopunama; u daljnjem tekstu: Uredba o tarifi),
+5. Uredba Vijeća (EEZ) br. 1383/2003 od 22. srpnja 2003. o carinskom postupanju u vezi s robom za koju postoji sumnja da krši određena prava intelektualnog vlasništva i o mjerama koje se poduzimaju protiv robe za koju je utvrđeno da krši spomenuta prava (SL L 196, od 2. 8. 2003., str. 7, sa svim izmjenama i dopunama; u daljnjem tekstu: Uredba o provedbi prava intelektualnog vlasništva),
+6. Uredba Komisije (EZ) br. 1891/2004 od 21. listopada 2004. kojom se utvrđuju odredbe za provedbu Uredbe Vijeća (EZ-a) broj 1383/2003 o carinskim postupcima u vezi s robom za koju postoji sumnja da krši određena prava intelektualnog vlasništva i o mjerama koje se poduzimaju protiv robe za koju je utvrđeno da krši spomenuta prava (SL L 328, 30. 10. 2004., str. 16, sa svim izmjenama i dopunama; u daljnjem tekstu: Uredba za provedbu Uredbe o provedbi prava intelektualnog vlasništva).
+(3) Osim propisa iz stavka 2. ovoga članka i propisa kojima se mijenjaju, dopunjuju ili zamjenjuju ti propisi, carinskim propisima Europske unije smatraju se i svi propisi kojima se na bilo koji način uređuje carinsko postupanje u svezi s robom u putničkom i robnom prometu.

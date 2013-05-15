@@ -1,0 +1,4 @@
+## Carinski nadzor na službenim mjestima ili na graničnom prijelazu
+# Članak 26.
+(1) Radi provedbe mjera carinskog nadzora carinski ured može od odgovorne osobe zatražiti uklanjanje robe, predmeta, objekata, uređaja i prometnih sredstava koji se bez suglasnosti nalaze na službenim mjestima ili na graničnom prijelazu. Ako odgovorna osoba ne postupi prema traženju carinskog ureda ili nije dostupna, uklanjanje će organizirati i/ili provesti carinski ured na trošak odgovorne osobe.
+(2) Carinski ured može od osoba koje se nalaze na službenim mjestima ili na graničnim prijelazima gdje se provode mjere carinskog nadzora zatražiti da napuste ta mjesta ako onemogućavaju ili ometaju obavljanje carinskog nadzora ili ako bi zbog njihove nazočnosti moglo doći do kršenja carinskih ili drugih propisa ili otežavanja obavljanja carinskog nadzora.
