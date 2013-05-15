@@ -1,0 +1,4 @@
+## PRIJELAZNE I ZAVRŠNE ODREDBE
+# Članak 35.
+(1) U cijelom tekstu Zakona o Hrvatskoj narodnoj banci (»Narodne novine«, br. 75/08.) riječi: »Ugovor o osnivanju Europske zajednice« u određenom padežu zamjenjuju se riječima: »Ugovor o funkcioniranju Europske unije« u odgovarajućem padežu, riječi: »Europska zajednica« u određenom padežu zamjenjuju se riječima: »Europska unija« u odgovarajućem padežu, a riječi: »sustavi za namiru platnih transakcija« u određenom padežu zamjenjuju se riječima: »platni sustavi« u odgovarajućem padežu.
+(2) U cijelom tekstu Zakona o Hrvatskoj narodnoj banci (»Narodne novine«, br. 75/08.) riječi: »pristupanje Republike Hrvatske u članstvo Europske unije« i »prijam Republike Hrvatske u Europsku uniju« u određenom padežu zamjenjuju se riječima: »pristupanje Republike Hrvatske Europskoj uniji« u odgovarajućem padežu.

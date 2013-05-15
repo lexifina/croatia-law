@@ -1,0 +1,7 @@
+# Članak 4.
+U članku 18. stavku 2. točki 3. iza riječi: »kreditnih institucija« stavlja se zarez, a riječi: »čije su kratkoročne obveze dvije međunarodno priznate agencije za ocjenu kreditnog rejtinga ocijenile jednom od dviju najviših ocjena,« brišu se.
+U točki 5. iza riječi: »valuti dužnika,« riječi: »a čije su kratkoročne obveze dvije međunarodno priznate agencije za ocjenu kreditnog rejtinga ocijenile jednom od dviju najviših ocjena,« brišu se.
+Točka 6. mijenja se i glasi:
+»6) terminske kupnje ili repo ugovori koje je sklopila Hrvatska narodna banka s drugim središnjim bankama, kreditnim ili financijskim institucijama sa sjedištem izvan Republike Hrvatske ili međunarodnim financijskim institucijama, ili su ugovori pokriveni njihovim jamstvima te terminski i opcijski ugovori koje je Hrvatska narodna banka sklopila s ugovornim stranama, osiguravajući plaćanje u konvertibilnoj valuti,«.
+Iza stavka 2. dodaje se stavak 3. koji glasi:
+»(3) U upravljanju međunarodnim pričuvama, Hrvatska narodna banka može sklapati ugovore i druge pravne poslove s osobama navedenim u članku 18. stavku 2. točki 3., 5. i 6. ovoga Zakona samo pod uvjetom ako su njihove obveze dvije međunarodno priznate agencije za ocjenu kreditnog rejtinga ocijenile investicijskim rangom. Hrvatska narodna banka odlukom određuje najniži investicijski rang obveza navedenih osoba, u skladu s člankom 19. stavkom 1. ovoga Zakona.«.
