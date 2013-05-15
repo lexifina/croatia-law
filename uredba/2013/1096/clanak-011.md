@@ -1,0 +1,4 @@
+## IV. DJELOKRUG UNUTARNJIH USTROJSTVENIH JEDINICA DIREKCIJE
+## 1. ODJEL LETAČKIH OPERACIJA
+# Članak 11.
+Odjel letačkih operacija obavlja poslove planiranja i izvršenja pilotskih letačkih operacija sa zrakoplovom na propisan način; planira i obavlja kabinske letačke operacije u zrakoplovu na propisan način; surađuje sa zrakoplovnim vlastima u cilju praćenja i provedbe zakonskih zahtjeva koji se tiču letačkih operacija; osigurava resurse (dokumentaciju, pretplate, školovanja) za izvedbu letačkih operacija na propisan i siguran način; izrađuje i ažurira operativne priručnike zahtijevane za provedbu letačkih operacija; organizira i koordinira ishođenje potrebnih svjedodžbi (licenci) letačkog osoblja; organizira i prati provedbu obaveznih liječničkih pregleda letačkog osoblja, kao i sve druge poslove iz svog djelokruga rada.

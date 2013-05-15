@@ -1,0 +1,5 @@
+# Članak 2.
+Direkcija je stručna služba Vlade Republike Hrvatske koja je ustrojena kao operator zrakoplova u vlasništvu Republike Hrvatske (tipa Challenger CL-604 registracijske oznake 9A-CRO) s ciljem samostalnog obavljanja povremenog zračnog prijevoza za potrebe tijela državne vlasti Republike Hrvatske u domaćem i međunarodnom civilnom zračnom prometu, kao i održavanja zrakoplova, te vođenja kontinuirane plovidbenosti službenih zrakoplova u vlasništvu Republike Hrvatske. Direkcija radi po nalozima i uputama Vlade Republike Hrvatske, koja je ovlaštena za nadzor rada Direkcije.
+Zrakoplov u vlasništvu Republike Hrvatske se koristi za službene potrebe zračnog prijevoza Vlade Republike Hrvatske, Predsjednika Republike Hrvatske, Hrvatskoga sabora i drugih korisnika prema odobrenju predsjednika Vlade Republike Hrvatske.
+Zahtjevi za korištenje zrakoplova u vlasništvu Republike Hrvatske dostavljaju se Uredu predsjednika Vlade Republike Hrvatske odmah po saznanju za namjeravano putovanje.
+Predstojnik Ureda predsjednika Vlade Republike Hrvatske, u dogovoru s predsjednikom Vlade Republike Hrvatske, odobrava korištenje zrakoplova i potpisuje naloge za letove Direkcije.
