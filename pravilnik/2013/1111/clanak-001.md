@@ -1,0 +1,4 @@
+# Članak 1.
+(1) Ovim Pravilnikom propisuje se način praćenja ozbiljnih štetnih događaja i ozbiljnih štetnih reakcija u području primjene ljudskih tkiva i stanica, način vođenja evidencija i rokovi izvješćivanja Ministarstva zdravlja (u daljnjem tekstu: Ministarstvo) o ozbiljnim štetnim događajima i ozbiljnim štetnim reakcijama, kao i sadržaj i oblik tiskanice godišnjeg izvješća o aktivnostima banke tkiva odnosno laboratorija.
+(2) Zdravstvena ustanova koja obavlja djelatnost prikupljanja i uzimanja tkiva i stanica (u daljnjem tekstu: tkiva) od živih darivatelja obvezna je ustrojiti postupke za čuvanje dokumentacije o prikupljenim tkivima i čuvati dokumentaciju o prikupljenim tkivima.
+(3) Zdravstvena ustanova koja obavlja djelatnost primjene tkiva obvezna je ustrojiti postupke za čuvanje dokumentacije o primijenjenim tkivima i čuvati dokumentaciju o primijenjenim tkivima.
