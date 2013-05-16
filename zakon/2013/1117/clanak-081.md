@@ -1,0 +1,4 @@
+# Članak 81.
+(1) Ministar pravosuđa određuje potrebnu funkcionalnu organizaciju rada zemljišnoknjižnih sudova i potrebnu organizacijsku strukturu službenika zaposlenih u zemljišnoknjižnim sudovima, način i rokove stručnog osposobljavanja zemljišnoknjižnih službenika, kao i način preraspodjele postojećih službenika potreban zbog povećanog opsega poslova ili smanjenog opsega poslova u pojedinom zemljišnoknjižnom sudu.
+(2) Broj zemljišnoknjižnih službenika utvrđuje ministar pravosuđa, sukladno Pravilniku o mjerilima za rad zemljišnoknjižnih službenika, na prijedlog predsjednika suda, odnosno predsjednika zemljišnoknjižnog odjela.
+(3) Zemljišnoknjižni službenici iz stavka 1. ovoga članka mogu se privremeno ili trajno premjestiti na rad u drugi zemljišnoknjižni sud ili u Ministarstvo pravosuđa, temeljem rješenja ministra pravosuđa.

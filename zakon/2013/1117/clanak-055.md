@@ -1,0 +1,6 @@
+# Članak 55.
+Članak 199. mijenja se i glasi:
+»(1) Ako podaci postojećeg katastarskog operata ne odgovaraju u velikoj mjeri podacima u zemljišnoj knjizi koja će se zatvoriti, niti stanje zemljišne knjige ukazuje da bi ono bilo novije u odnosu na stanje u katastru, u postupku sastavljanja uložaka provest će se rasprava za sastavljanje istodobno s postupkom katastarskog izlaganja, uz odgovarajuću primjenu pravila iz članka 180.a ovoga Zakona.
+(2) Na raspravu iz stavka 1. ovoga članka pozvat će se osobe čiji su podaci prikupljeni u katastarskoj izmjeri. Osobe upisane u zemljišnoj knjizi neće se posebno pozivati.
+(3) U postupcima iz stavka 1. ovoga članka strankama se neće uručivati nacrti novih uložaka. U postupku obnove zemljišne knjige vlastovnica i teretovnica sastavljaju po sljedećem redoslijedu izvora: 1) podaci iz javne ili privatne isprave predočene sudu, 2) podaci iz katastarskog operata te 3) podaci iz zemljišne knjige koja će se zatvoriti, kao i knjige položenih ugovora.
+(4) U zapisniku s rasprave iz stavka 1. ovoga članka posebno će se naznačiti da se sadržaj nacrta uloška može izmijeniti uslijed promjena koje se dopuste u zemljišnoj knjizi koja će se zatvoriti do otvaranja nove zemljišne knjige.«.

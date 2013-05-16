@@ -1,0 +1,6 @@
+# Članak 24.
+Naslov dijela 4. mijenja se i glasi:
+»Dio četvrti POSEBNE ODREDBE O ZAJEDNIČKOM INFORMACIJSKOM SUSTAVU, BAZI ZEMLJIŠNIH PODATAKA I ZEMLJIŠNOKNJIŽNOM POSTUPKU«.
+Naziv glave 1. mijenja se i glasi:
+»Glava 1.
+ELEKTRONIČKO POSLOVANJE U ZEMLJIŠNIM KNJIGAMA«.

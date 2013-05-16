@@ -1,0 +1,2 @@
+# Članak 79.
+Odredbe Pravilnika o unutarnjem ustroju, vođenju zemljišnih knjiga i obavljanju drugih poslova u zemljišnoknjižnim odjelima sudova - Zemljišnoknjižnog poslovnika (»Narodne novine«, br. 81/97., 109/02., 123/02., 153/02., 14/05. i 60/10.) uskladit će se s odredbama ovog Zakona u roku od 12 mjeseci od dana njegova stupanja na snagu, a do tada će se primjenjivati odredbe koje nisu u suprotnosti s odredbama ovog Zakona.
