@@ -1,0 +1,5 @@
+# Članak 8.
+Obveznici izrade strateških karata buke i akcijskih planova iz članka 4. ovoga Zakona obvezni su Ministarstvu dostaviti:
+- najkasnije do 18. srpnja 2013., akcijske planove i naznačene prioritete koji se mogu identificirati prekoračenjem bilo koje relevantne granične vrijednosti ili pomoću drugih kriterija za naseljena područja i za glavne ceste, kao i za glavne željezničke pruge,
+- najkasnije do 30. lipnja 2017. i svakih pet godina nakon toga, strateške karte buke za naseljena područja s više od 250.000 stanovnika, za glavne zračne luke s više od 50.000 operacija (uzlijetanja ili slijetanja) godišnje, glavne ceste s više od 6.000.000 prolaza vozila godišnje i za glavne željezničke pruge s više od 60.000 prolaza vlakova godišnje,
+- najkasnije do 18. srpnja 2018. i svakih pet godina nakon toga, akcijske planove za naseljena područja s više od 250.000 stanovnika, glavne zračne luke s više od 50.000 operacija (uzlijetanja ili slijetanja) godišnje, za glavne ceste s više od 6.000.000 prolaza vozila godišnje i glavne željezničke pruge s više od 60.000 prolaza vlakova godišnje.
