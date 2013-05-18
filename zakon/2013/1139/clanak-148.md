@@ -1,0 +1,3 @@
+## Usklađenje predmeta poslovanja u posebnim djelatnostima za potrebe upravljanja vodama
+# Članak 148.
+Pravne osobe koje obavljaju djelatnost iz članka 220. Zakona o vodama (»Narodne novine«, br. 153/09., 63/11. i 130/11.) koji je izmijenjen člankom 117. ovoga Zakona dužne su se uskladiti s odredbama pravilnika iz članka 221. stavka 2. Zakona o vodama (»Narodne novine«, br. 153/09., 63/11. i 130/11.) koji je izmijenjen člankom 118. ovoga Zakona u rokovima određenim tim pravilnikom. U protivnom, istekom roka za usklađenje, te pravne osobe gube pravo obavljati djelatnosti iz članka 220. Zakona o vodama (»Narodne novine«, br. 153/09., 63/11. i 130/11.) koji je izmijenjen člankom 117. ovoga Zakona.

@@ -1,0 +1,3 @@
+## Djelomično stavljanje izvan snage odluka o priključenju
+# Članak 138.
+Jedinice lokalne samouprave dužne su u roku od 6 mjeseci od dana stupanja na snagu ovoga Zakona staviti izvan snage odluke o priključenju donesene na temelju članka 209. stavka 2. Zakona o vodama (»Narodne novine«, br. 153/09., 63/11. i 130/11.), u dijelu koji se odnosi na uvođenje, obračun i naplatu naknade za priključenje, kao i druge opće akte donesene na temelju Zakona o komunalnom gospodarstvu (»Narodne novine«, br. 36/95., 70/97., 128/99., 57/00., 129/00., 59/01., 26/03. - pročišćeni tekst, 82/04., 178/04., 38/09. i 79/09.) koji se odnose na uvođenje, obračun i naplatu naknade za priključenje.

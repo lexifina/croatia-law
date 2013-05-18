@@ -1,0 +1,2 @@
+# Članak 150.
+U roku od 6 mjeseci od dana stupanja na snagu ovoga Zakona, ugovori o koncesiji sklopljeni na temelju članka 143. Zakona o vodama (»Narodne novine«, br. 107/95. i 150/05.) ili članka 163. Zakona o vodama (»Narodne novine«, br. 153/09., 63/11. i 130/11.), uskladit će se s odredbama članka 166. stavka 2. Zakona o vodama (»Narodne novine«, br. 153/09., 63/11. i 130/11.), ili u protivnom otkazati.

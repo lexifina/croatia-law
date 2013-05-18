@@ -1,0 +1,5 @@
+## Usklađenje pravnog statusa i predmeta poslovanja isporučitelja vodnih usluga
+# Članak 145.
+Pravni status i predmet poslovanja isporučitelja vodnih usluga mora se uskladiti s odredbama Zakona o vodama (»Narodne novine«, br. 153/09., 63/11. i 130/11.) i ovoga Zakona najkasnije do 31. prosinca 2013.
+Ne postupi li se po odredbama stavka 1. ovoga članka na vodoopskrbnom području ili aglomeraciji tih isporučitelja, neće se iz sredstava državnoga proračuna, naknade za korištenje voda i naknade za zaštitu voda, sufinancirati projektiranje, građenje, rekonstrukcija ili sanacija, komunalnih vodnih građevina.
+Pravne osobe koje na temelju Zakona o komunalnom gospodarstvu (»Narodne novine«, br. 36/95., 70/97., 128/99., 57/00., 129/00., 59/01., 26/03. - pročišćeni tekst, 82/04., 178/04., 38/09. i 79/09.) isporučuju vodnu uslugu javne vodoopskrbe, a koje nisu javni isporučitelj vodne usluge prema članku 201. stavku 2. Zakona o vodama (»Narodne novine«, br. 153/09., 63/11. i 130/11.), nastavljaju obavljati djelatnost javne vodoopskrbe do 31. ožujka 2015.

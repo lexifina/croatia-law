@@ -1,0 +1,7 @@
+# Članak 8.
+Naslov iznad članka 12. mijenja se i glasi: »Prestanak statusa vodnog dobra«.
+Članak 12. mijenja se i glasi:
+»Zemljišnim česticama iz članka 8. ovoga Zakona prestat će status vodnog dobra kad trajno postanu nepotrebne za namjene iz članka 9. ovoga Zakona ili kad nekretnina trajno izgubi svojstvo vodnog dobra.
+Zemljišnim česticama iz članka 8. ovoga Zakona i to uređenim potocima u građevinskom području jedinice lokalne samouprave koji se u cijelosti nadsvode ili zacijeve prestaje status vodnog dobra uz zadržanje prava služnosti vodova u svrhu njihovog građenja ili održavanja. S uređenim potocima izjednačene su građevine za zaštitu od erozija i bujica u građevinskom području jedinice lokalne samouprave.
+Ispunjenje pretpostavki iz stavka 1. ovoga članka rješenjem utvrđuje Ministarstvo, uz prethodno mišljenje Hrvatskih voda. Ispunjenje pretpostavki iz stavka 2. ovoga članka rješenjem utvrđuje Ministarstvo, na zahtjev Hrvatskih voda.
+Ako se rješenje iz stavka 3. ovoga Zakona donosi za čestice iz članka 11. ovoga Zakona, prestankom statusa vodnog dobra prestaje i status javnog vodnog dobra. U tom slučaju rješenje sadrži oznaku nekretnine koja je izgubila status javnog vodnog dobra i nalog sudu za otpis ove zemljišne čestice i pripis u novi zemljišnoknjižni uložak, s upisom prava vlasništva Republike Hrvatske uz istodobno brisanje tereta zabrane otuđenja i opterećenja nekretnine založnim pravom i posljedice ništetnosti pravnih poslova, te upisom prava služnosti iz stavka 2. ovoga članka, gdje je primjenjivo.«.

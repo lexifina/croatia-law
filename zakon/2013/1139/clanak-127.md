@@ -1,0 +1,2 @@
+# Članak 127.
+U članku 233. stavku 1. točki 1. riječi: »građevinskog, kemijskog, prehrambeno-biotehnološkog, inženjersko-ekološkog, agronomskog, pravnog, geološkog ili kulturno-tehničkog smjera« zamjenjuju se riječima: »iz polja građevinarstva, kemije, prava, geologije, prehrambene tehnologije, biotehnologije, poljoprivrede (agronomije), javnog zdravstva i zdravstvene zaštite ili interdisciplinarnih tehničkih znanosti uključujući i kulturnu tehniku«.

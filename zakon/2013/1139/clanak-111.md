@@ -1,0 +1,4 @@
+# Članak 111.
+Članak 214. mijenja se i glasi:
+»U slučaju kada gradnja određene komunalne vodne građevine nije predviđena godišnjim planom gradnje komunalnih vodnih građevina, ali je predviđen višegodišnjim planom gradnje komunalnih vodnih građevina unutar iduće 3 godine budući korisnici vodnih usluga koji bi se priključili na te građevine mogu sudjelovati u financiranju njihove gradnje, uz povrat uloženih sredstava u određenom roku, pod uvjetima utvrđenim ugovorom s isporučiteljem vodne usluge.
+Sredstva iz stavka 1. ovoga članka uplaćuju se na račun isporučitelja vodne usluge, a rok povrata sredstava ne može biti dulji od 5 godina od dana sklapanja ugovora. Budući korisnici vodnih usluga koji bi se priključili na komunalne vodne građevine, za koje nisu ispunjene pretpostavke iz stavka 1. ovoga članka, mogu sudjelovati u financiranju njihove gradnje, pod uvjetima utvrđenim ugovorom s isporučiteljem vodne usluge, bez prava na povrat sredstava.«.

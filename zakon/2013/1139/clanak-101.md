@@ -1,0 +1,6 @@
+# Članak 101.
+U članku 202. stavak 1. mijenja se i glasi:
+»Javni isporučitelj vodnih usluga javne vodoopskrbe ili javne odvodnje je trgovačko društvo u kojem sve udjele, odnosno dionice u temeljnom kapitalu imaju jedinice lokalne samouprave ili trgovačka društva u kojima sve udjele, odnosno dionice u temeljnom kapitalu izravno imaju jedinice lokalne samouprave, odnosno ustanova kojoj je osnivač jedinica lokalne samouprave.«.
+Iza stavka 3. dodaju se stavci 4. i 5. koji glase:
+»Iznimno od stavka 2. ovoga članka isporučitelj vodnih usluga može obavljati djelatnost ispitivanja zdravstvene ispravnosti vode za piće za vlastite potrebe, izvođenja priključaka iz članka 212. stavka 2. ovoga Zakona, umjeravanja vodomjera i proizvodnje energije za vlastite potrebe ako ispunjava uvjete iz posebnih propisa.
+Iznimno od stavka 2. ovoga članka isporučitelj vodnih usluga javne odvodnje koji posjeduje akt iz članka 65. stavka 1. ovoga Zakona i koji upravlja građevinama za javnu odvodnju i/ili uređajem za pročišćavanjem otpadnih voda s prihvatnim opterećenjem većim od 100 000 ekvivalent stanovnika (ES) dužan je obavljati i djelatnost uzorkovanja i ispitivanja kakvoće vlastitih otpadnih voda ako ispunjava uvjete iz posebnih propisa.«.

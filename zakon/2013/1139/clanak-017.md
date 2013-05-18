@@ -1,0 +1,5 @@
+# Članak 17.
+Iza članka 26. dodaju se naslov iznad članka i članak 26.a koji glase:
+»Građenje manjih komunalnih vodnih građevina
+Članak 26.a
+Za građenje cjevovoda za javnu vodoopskrbu, do 100 mm promjera i do 400 metara duljine na zemljištu u vlasništvu Republike Hrvatske, jedinica područne (regionalne) samouprave, jedinica lokalne samouprave kao i pravnih osoba kojima su dioničari, udjeličari odnosno osnivači Republika Hrvatska, jedinica područne (regionalne) samouprave ili jedinica lokalne samouprave kao i cjevovoda za javnu odvodnju otpadnih voda do 300 mm promjera i do 400 metara duljine na zemljištu u vlasništvu Republike Hrvatske, jedinica područne (regionalne) samouprave, jedinica lokalne samouprave kao i pravnih osoba kojima su dioničari, udjeličari odnosno osnivači Republika Hrvatska, jedinica područne (regionalne) samouprave ili jedinica lokalne samouprave izdaje se odgovarajući akt o građenju sukladno propisima o prostornom uređenju i gradnji za čije je izdavanje dostatan idejni projekt, bez izdavanja lokacijske dozvole.«

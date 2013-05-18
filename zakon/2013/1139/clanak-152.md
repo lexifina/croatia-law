@@ -1,0 +1,3 @@
+## Obavijest o nadležnim tijelima
+# Članak 152.
+Ministarstvo dostavlja Europskoj komisiji popis nadležnih tijela za provedbu odredbi Zakona o vodama (»Narodne novine«, br. 153/09., 63/11. i 130/11.) i ovoga Zakona i nadležnih tijela svih međunarodnih tijela u kojima sudjeluje Republika Hrvatska u provedbi odredbi Zakona o vodama ("Narodne novine", br. 153/09., 63/11. i 130/11.) u roku od 6 mjeseci od datuma pristupanja Republike Hrvatske u Europsku uniju. Za svako nadležno tijelo daju se podaci iz propisa iz članka 36.a koji je dodan člankom 21. ovoga Zakona. O svakoj promjeni podataka Ministarstvo obavještava Europsku komisiji u roku od 3 mjeseca otkako je promjena nastupila.
