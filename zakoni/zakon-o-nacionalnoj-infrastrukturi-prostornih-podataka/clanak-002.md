@@ -1,0 +1,2 @@
+# Članak 2.
+NIPP je skup tehnologija, mjera, normi, provedbenih pravila, usluga, ljudskih kapaciteta i ostalih čimbenika koji omogućavaju djelotvorno objedinjavanje, upravljanje i održavanje dijeljenja prostornih podataka određenih ovim Zakonom u svrhu zadovoljenja potreba na nacionalnoj, kao i na europskoj razini, a koji će biti sastavni dio europske infrastrukture prostornih podataka definirane INSPIRE direktivom.
