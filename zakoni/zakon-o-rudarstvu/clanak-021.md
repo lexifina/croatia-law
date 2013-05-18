@@ -1,0 +1,7 @@
+## Promjena osobe ovlaštenika i/ili koncesionara
+# Članak 21.
+(1) U slučaju kad fizička osoba umre, u njezinu pravnu poziciju stupa njezin zakonski nasljednik pod uvjetom da će obavljati istu djelatnost te da ispunjava i druge uvjete propisane ovim Zakonom i Zakonom o koncesijama.
+(2) U slučaju prestanka postojanja pravne osobe, u njezinu pravnu poziciju stupa njezin pravni sljednik pod uvjetom da obavlja istu djelatnost te da ispunjava i druge uvjete propisane ovim Zakonom i Zakonom o koncesijama. Pod pravnim sljednikom smatraju se pravne osobe nastale statutarnim promjenama sukladno zakonu koji uređuje trgovačka društva.
+(3) Na temelju zahtjeva zakonskog nasljednika ili pravnog sljednika nadležno tijelo donijet će posebno rješenje kojim će utvrditi pravnog sljednika na kojeg su prešla prava. Uz zahtjev zakonski nasljednik ili pravni sljednik dužan je priložiti rješenje o nasljeđivanju odnosno izvadak iz odgovarajućeg registra i dokaze iz članaka 14. i 20. ovoga Zakona.
+(4) U slučaju iz stavka 3. ovoga članka kad je već sklopljen ugovor o koncesiji davatelj koncesije i pravni sljednik sklopit će novi ugovor o koncesiji kojim se ne smije umanjiti kvaliteta i narušiti kontinuitet izvršenja ugovora o koncesiji.
+(5) Rješenje iz stavka 3. i ugovor iz stavka 4. ovog članka unose se u registar istražnih prostora ili registar eksploatacijskih polja koje vode tijela nadležna za rudarstvo te u registar koncesija koji vodi ministarstvo nadležno za financije.

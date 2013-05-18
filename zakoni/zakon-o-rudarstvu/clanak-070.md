@@ -1,0 +1,4 @@
+## Otklanjanje nedostataka i provedba drugih mjera osiguranja
+# Članak 70.
+(1) Ako Državni inspektorat i Inspekcija zaštite okoliša utvrde da provedene mjere osiguranja iz članka 69. ovoga Zakona nisu dovoljne, naredit će rudarskom gospodarskom subjektu da u određenom roku, koji ne može biti duži od šest mjeseci, otkloni utvrđene nedostatke, a po potrebi da provede i druge mjere osiguranja na eksploatacijskom polju te o tome obavijestiti tijelo nadležno za rudarstvo i ministarstvo nadležno za pomorstvo ako se rudarski radovi izvode na pomorskom dobru.
+(2) Ako rudarski gospodarski subjekt ne postupi po naređenju iz stavka 1. ovoga članka, Državni inspektorat i Inspekcija zaštite okoliša izvijestit će o tome tijelo nadležno za rudarstvo, koje će provesti potrebne mjere osiguranja eksploatacijskog polja na trošak rudarskog gospodarskog subjekta te o tome obavijestiti ministarstvo nadležno za pomorstvo ako se rudarski radovi izvode na pomorskom dobru.

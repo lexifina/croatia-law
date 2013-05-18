@@ -1,0 +1,8 @@
+## VII. POSTUPANJE S MINERALNIM SIROVINAMA KOD IZVOĐENJA GRAĐEVINSKIH RADOVA
+# Članak 144.
+(1) Ako prilikom građenja građevina koje se grade sukladno propisima o gradnji preostane višak iskopa koji se ne ugrađuje u obuhvat te građevine, a sadrži mineralnu sirovinu, investitor je dužan višak iskopa staviti na raspolaganje Republici Hrvatskoj kao vlasniku.
+(2) Predstavlja li iskop mineralnu sirovinu ustanovljava se na temelju uzoraka dobivenih prigodom geomehaničkog ispitivanja tla.
+(3) Svi investitori građevina za koje je posebnim propisom određena obvezna kontrola glavnog projekta glede mehaničke otpornosti i stabilnosti konstrukcija i temeljnog tla dužni su u roku od 30 dana prije početka radova obavijestiti tijelo nadležno za upravljanje državnom imovinom i Državni inspektorat o višku iskopa koji sadrži mineralnu sirovinu koji će preostati prilikom gradnje, a sukladno glavnom projektu građenja i troškovniku.
+(4) Tijelo nadležno za upravljanje državnom imovinom dužno je ustrojiti evidenciju prijavljenih viškova iskopa prema području županija u roku od 30 dana od dana stupanja na snagu ovog Zakona.
+(5) O količinama mineralne sirovine mora se trajno voditi evidencija, te kontrola i to od preuzimanja pa do krajnjeg raspolaganja (prodaja, ugrađivanje u obuhvat neke druge građevine itd.). U evidenciji iz stavka 4. ovoga članka moraju se navesti svi ovi podaci, kao i tko je izvršio kontrolu.
+(6) Postupak, način utvrđivanja i prodaje, odnosno raspolaganja u druge svrhe mineralnim sirovinama iz stavka 1. ovoga članka propisuje se pravilnikom koji donosi ministar nadležan za rudarstvo.

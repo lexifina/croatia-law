@@ -1,0 +1,7 @@
+## Obveza naknade štete
+# Članak 165.
+(1) Fizička osoba ili pravna osoba koja je bez pravne osnove izvodila rudarske radove, dužna je nadoknaditi štetu nastalu protupravnim izvođenjem radova Republici Hrvatskoj, kao vlasniku rudnog blaga, te vlasniku zemljišta ili nositelju vlasti na općem dobru, kao i svu štetu na cestama, prirodi i okolišu nastalu umanjenjem vrijednosti i kvalitete prirode i krajolika, osim ako dokaže da je šteta nastala zbog više sile, radnjom oštećenika ili treće osobe.
+(2) Ovo se odnosi i na rudarske gospodarske subjekte koji imaju svu dokumentaciju propisanu zakonom, ali izvode radove izvan granica provjerenog rudarskog projekta na temelju kojeg je dodijeljena koncesija za eksploataciju mineralnih sirovina, neovisno o tome jesu li radovi provedeni unutar ili izvan eksploatacijskog polja.
+(3) Naknada štete nastale po osnovi otuđenja mineralne sirovine obračunava se prema tablici tržišne vrijednosti sirovine za pojedina područja koju će uredbom propisati Vlada Republike Hrvatske, ovisno o kretanjima na tržištu. Tržišna vrijednost mineralnih sirovina utvrđuje se svake dvije godine.
+(4) Naknada ostalih vrsta šteta obračunavat će se na način propisan pravilima obveznog prava i posebnim propisima.
+(5) Nadležni rudarski inspektor Državnog inspektorata na temelju zapisnika o obavljenom nadzoru utvrđuje količine protupravno otkopane ili pridobivene mineralne sirovine.

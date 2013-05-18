@@ -1,0 +1,6 @@
+## Postupak javnog nadmetanja
+# Članak 26.
+(1) Postupak davanja koncesije u jedinstvenom postupku za davanje koncesije za eksploataciju započinje danom slanja na objavu obavijesti o namjeri davanja koncesije, odnosno o namjeri odabira najpovoljnijeg ponuditelja za istraživanje mineralnih sirovina radi davanja koncesije za eksploataciju u Elektroničkom oglasniku javne nabave Republike Hrvatske, a završava s izvršnosti odluke o odabiru najpovoljnijeg ponuditelja za istraživanje mineralnih sirovina radi davanja koncesije za eksploataciju ili izvršnosti odluke o poništenju postupka javnog nadmetanja.
+(2) Obavijest iz stavka 1. ovoga članka može biti objavljena i u ostalim sredstvima javnog priopćavanja i na internetskoj stranici tijela nadležnog za rudarstvo.
+(3) Obavijest iz stavka 1. ovoga članka, nakon objave u Elektroničkom oglasniku javne nabave Republike Hrvatske, tijelo nadležno za rudarstvo dostavlja jedinicama lokalne i područne (regionalne) samouprave na čijem području se nalazi predloženi istražni prostor, koje su dužne istu izvjesiti na oglasnoj ploči za vrijeme trajanja javnog nadmetanja.
+(4) Ministarstvo nadležno za rudarstvo objavljuje u Službenom listu Europske unije obavijest iz stavka 1. ovoga članka radi davanja koncesije za eksploataciju ugljikovodika najmanje 90 dana prije isteka roka za podnošenje ponuda.

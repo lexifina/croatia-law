@@ -1,0 +1,4 @@
+# Članak 53.
+(1) Ovlaštenik istražnog prostora dužan je u roku određenom rješenjem o odobrenju za istraživanje mineralnih sirovina radi davanja koncesije za eksploataciju dostaviti Povjerenstvu za utvrđivanje rezervi mineralnih sirovina podatke i dokumentaciju o građi, obliku, veličini i obujmu geoloških struktura pogodnih za skladištenje ugljikovodika i trajno zbrinjavanje plinova.
+(2) Rudarski gospodarski subjekt dužan je o svim odstupanjima od dokumentacije iz stavka 1. ovoga članka obavijestiti ministarstvo nadležno za rudarstvo.
+(3) Rudarski gospodarski subjekt dužan je za bitna odstupanja od dokumentacije iz stavka 1. ovoga članka izraditi i dostaviti Povjerenstvu za utvrđivanje rezervi mineralnih sirovina nove podatke i dokumentaciju o građi, obliku, veličini i obujmu geoloških struktura pogodnih za skladištenje ugljikovodika i trajno zbrinjavanje plinova.

@@ -1,0 +1,8 @@
+## Raspolaganje eksploatacijskim poljima na kojima je djelomično ili potpuno završena eksploatacija
+# Članak 168.
+(1) Ako je na dijelu eksploatacijskog polja potpuno završena eksploatacija, a prema dokumentima prostornog uređenja određena na istom druga namjena tog prostora (npr. turizam, sport, rekreacija i dr.) taj dio eksploatacijskog polja može se izdvojiti od preostalog dijela eksploatacijskog polja i privesti novoj namjeni.
+(2) U roku od četiri mjeseca od stupanja na snagu ovoga Zakona Državni inspektorat će, u suradnji s ministarstvom nadležnim za rudarstvo, dostaviti tijelu nadležnom za upravljanje državnom imovinom popis svih eksploatacijskih polja na kojima je djelomično ili potpuno dovršena eksploatacija.
+(3) O eksploatacijskim poljima iz stavka 1. ovoga članka, tijelo nadležno za rudarstvo donijet će u roku od četiri mjeseca od stupanja na snagu ovoga Zakona posebno rješenje kojim se utvrđuju činjenice da je eksploatacija dovršena djelomično i utvrditi na koji dio se to odnosi ili da je dovršena na cijelom polju i isto dostaviti tijelu nadležnom za upravljanje državnom imovinom.
+(4) Nakon provjere namjene eksploatacijskih polja s popisa iz stavka 2. ovoga članka, tijelo nadležno za upravljanje državnom imovinom podnijet će cjelovito izvješće Vladi Republike Hrvatske u roku od četiri mjeseca.
+(5) Ako je Republika Hrvatska vlasnik zemljišta iz stavka 1. ovog članka, takvim će zemljištem slobodno raspolagati kao cjelinom.
+(6) Vlada Republike Hrvatske može donijeti posebnu odluku da će na određenom dijelu prostora, radi privođenja konačne namjene, u svrhu provođenja važnog projekta, odnosno investicije, raspisati javno nadmetanje za izbor najboljeg ponuditelja samo za izvođenje rudarskih radova radi pripreme prostora za konačnu namjenu.

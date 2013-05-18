@@ -1,0 +1,7 @@
+## Probna eksploatacija mineralnih sirovina
+# Članak 68.
+(1) Mineralne sirovine mogu se probno eksploatirati za potrebe laboratorijskih ispitivanja, tehnoloških proba i utvrđivanja uvjeta eksploatacije, najviše u količinama koje su određene rješenjem o odobrenju za istraživanje mineralnih sirovina i/ili rješenjem o odobrenju za dodatne istražne radove na eksploatacijskom polju.
+(2) Mineralne sirovine otkopane ili pridobivene probnom eksploatacijom mineralnih sirovina vlasništvo su Republike Hrvatske.
+(3) Zabranjeno je prodavati mineralne sirovine iz članka 5. točke 2., 3., 4. i 5. ovoga Zakona otkopane tijekom probne eksploatacije mineralnih sirovina.
+(4) Zabranjeno je prodavati mineralne sirovine iz članka 5. točke 1. ovoga Zakona pridobivene tijekom probne eksploatacije mineralnih sirovina ako se na iste ne plati naknada za pridobivene količine mineralnih sirovina u skladu s odredbama ovoga Zakona.
+(5) Mineralne sirovine iz stavka 1. ovoga članka, kojima nije moguće sanirati odobrene istražne prostore/eksploatacijska polja, rudarski gospodarski subjekt dužan je staviti na raspolaganje Republici Hrvatskoj kao vlasniku i o tome obavijestiti tijelo nadležno za upravljanje državnom imovinom, tijelo nadležno za rudarstvo, ministarstvo nadležno za financije, Državni inspektorat, jedinicu područne (regionalne) samouprave, jedinicu lokalne samouprave na čijem području se nalazi istražni prostor/eksploatacijsko polje i ministarstvo nadležno za pomorstvo ako se mineralne sirovine eksploatiraju s pomorskog dobra.
