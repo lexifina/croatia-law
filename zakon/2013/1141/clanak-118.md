@@ -1,0 +1,3 @@
+# Članak 118.
+U članku 878. iza stavka 2. dodaje se stavak 3. koji glasi:
+»(3) Na zahtjev kupca koji je u roku položio kupovninu, te udovoljio posebnim uvjetima prodaje broda, ako su bili određeni, sud može odrediti predaju broda kupcu i prije pravomoćnosti rješenja o dosudi, ako to opravdavaju ekonomski razlozi. U takvom slučaju, sud će predaju broda kupcu uvjetovati polaganjem primjerenog osiguranja, koje će se moći koristiti ako u slučaju ukidanja rješenja o dosudi kupac ne vrati brod u stanje u kakvom mu je bio predan. Iznos i uvjete tog osiguranja odredit će sud prema okolnostima slučaja.«.

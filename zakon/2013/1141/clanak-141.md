@@ -1,0 +1,3 @@
+# Članak 141.
+U postupku upisa jahti od stupanja na snagu ovoga Zakona do pristupanja Republike Hrvatske Europskoj uniji može se izdati privremeni upisni list s rokom valjanosti do šest mjeseci uz uvjet da je jahta tehnički prihvatljiva u skladu sa člankom 315. stavkom 1. točkom 4. Pomorskog zakonika.
+U postupku upisa brodica u očevidnik brodica od stupanja na snagu ovoga Zakona do pristupanja Republike Hrvatske Europskoj uniji može se izdati privremena plovidbena dozvola s rokom valjanosti do šest mjeseci uz uvjet da je brodica tehnički prihvatljiva u skladu s propisom kojim se uređuje sposobnost brodica za plovidbu.

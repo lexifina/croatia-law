@@ -1,0 +1,4 @@
+# Članak 90.
+U članku 772. stavak 1. mijenja se i glasi:
+»(1) Spašavatelj je dužan u odnosu prema brodaru, vlasniku broda i vlasnicima druge imovine u opasnosti obaviti akcije spašavanja s dužnom pažnjom i pri tome posvetiti dužnu pažnju sprječavanju ili smanjenju štete morskom okolišu. Spašavatelj je dužan, uvijek kada to okolnosti razborito nalažu, zatražiti pomoć drugih spašavatelja, te prihvatiti pomoć drugih spašavatelja kada ga zapovjednik broda, brodar ili vlasnik broda u opasnosti, odnosno vlasnik spašavane imovine razborito zatraži da tako učini. Ako se utvrdi da je takav zahtjev zapovjednika, brodara, vlasnika broda odnosno vlasnika druge imovine bio nerazborit, to neće utjecati na iznos naknade spašavatelju.«.
+U stavku 2. iza riječi: »vlasnik« dodaje se riječ: »druge«, a riječi: »tijekom spašavanja, primijeniti dužnu pažnju pri sprječavanju« zamjenjuju se riječima: »tijekom akcije spašavanja, te pri tom primijeniti dužnu pažnju u sprječavanju«.
