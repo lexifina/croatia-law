@@ -1,0 +1,7 @@
+# Članak 9.
+U članku 42. stavku 1. podstavak 7. mijenja se i glasi:
+»- da se protiv nje ne vodi kazneni postupak ili da nije pravomoćno osuđena za kaznena djela protiv života i tijela, slobode i prava čovjeka i građanina, Republike Hrvatske, vrijednosti zaštićene međunarodnim pravom, spolne slobode i spolnog ćudoređa, braka, obitelji i mladeži, imovine, sigurnosti pravnog prometa i poslovanja, pravosuđa, vjerodostojnosti isprava, javnog reda ili službene dužnosti iz Kaznenog zakona (»Narodne novine«, br. 110/97., 27/98., 50/00., 129/00., 51/01., 111/03., 190/03., 105/04., 84/05., 71/06., 110/07., 152/08. i 57/11.), te kaznena djela protiv čovječnosti i ljudskog dostojanstva, kaznena djela protiv ljudskih prava i temeljnih sloboda, kaznena djela protiv života i tijela, kaznena djela protiv osobne slobode, kaznena djela protiv spolne slobode, kaznena djela protiv braka, obitelji i djece, kaznena djela protiv gospodarstava, kaznena djela protiv imovine, kaznena djela krivotvorenja, kaznena djela protiv službene dužnosti, kaznena djela protiv pravosuđa, kaznena djela protiv javnog reda, kaznena djela protiv Republike Hrvatske iz Kaznenog zakona (»Narodne novine«, br. 125/11. i 144/12.)«.
+U stavku 2. riječi: »iz druge države članice Europske unije« brišu se.
+Iza stavka 2. dodaje se novi stavak 3. koji glasi:
+»(3) Uvjet iz stavka 1. podstavka 2. ovoga članka ne odnosi se na zaposlenu osobu u stranoj osobi.«.
+Dosadašnji stavak 3. postaje stavak 4.

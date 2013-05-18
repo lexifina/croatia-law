@@ -1,0 +1,7 @@
+# Članak 4.
+Članak 16. mijenja se i glasi:
+»(1) Strane fizičke i pravne osobe koje obavljaju stručne geodetske poslove i imaju sjedište izvan Republike Hrvatske (u daljnjem tekstu: strane osobe) mogu obavljati stručne geodetske poslove u Republici Hrvatskoj pod istim uvjetima za obavljanje stručnih geodetskih poslova, kako je ovim Zakonom propisano za ovlaštene osobe.
+(2) Strane osobe sa sjedištem u državama ugovornicama Ugovora o Europskom ekonomskom prostoru (obuhvaća sve države članice Europske unije te Norvešku, Lihtenštajn i Island, u daljnjem tekstu: države ugovornice) koje namjeravaju u Republici Hrvatskoj obavljati stručne geodetske poslove trajno, putem podružnice osnovane u Republici Hrvatskoj, odnosno povremeno ili privremeno, mogu obavljati stručne geodetske poslove u svim organizacijskim, odnosno statusno-pravnim oblicima ako su registrirane za obavljanje stručnih geodetskih poslova (djelatnosti) u državi sjedišta.
+(3) Strane osobe koje nemaju sjedište u državama ugovornicama, mogu obavljati stručne geodetske poslove na način propisan u stavku 2. ovoga članka, uz ispunjenje uvjeta uzajamnosti.
+(4) Strane osobe moraju imati osiguranje odgovornosti za štetu u skladu s ovim Zakonom.
+(5) Za ugovoreno osiguranje odgovornosti za štetu vrijedi dokaz o osiguranju odgovornosti ugovoren u Republici Hrvatskoj ili u državi ugovornici pod uvjetom da to osiguranje pokriva štetu nastalu u Republici Hrvatskoj.«.
