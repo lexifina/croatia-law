@@ -1,0 +1,3 @@
+# Članak 2.
+U članku 131. stavak 1. mijenja se i glasi:
+»1) Svaka ovlaštena osoba ima pravo pokrenuti postupak za zaštitu kolektivnih interesa potrošača protiv osobe čije je postupanje u suprotnosti s odredbama članka 30. do 70. te članka 87. do 115. ovoga Zakona, odredbama članka 400. do 429. te članka 881. do 903. Zakona o obveznim odnosima, odredbama Zakona o elektroničkoj trgovini, odredbama članka 11. do 49. Zakona o elektroničkim medijima, odredbama Zakona o potrošačkom kreditiranju, odredbama Zakona o uslugama, odredbama Zakona o lijekovima osim članaka 4. do 10., te odredbama Pravilnika o načinu oglašavanja o lijekovima i homeopatskim proizvodima.«.
