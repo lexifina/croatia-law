@@ -1,0 +1,3 @@
+# Članak 47.
+Članak 76. mijenja se i glasi:
+»Ministar pravilnicima detaljnije propisuje obračun i naplatu vodnih naknada, osim naknade za melioracijsku odvodnju, naknade za navodnjavanje i naknade za razvoj, a osobito obveznike, osnovicu, obračunska razdoblja, privremeni i konačni obračun, sadržaj iskaza obračuna vodnih naknada kada se one naplaćuju putem uplatnica, sadržaj rješenja o obračunu vodne naknade, rokove plaćanja, ustanovljavanje i vođenje očevidnika vodnih naknada, dostavu podataka iz očevidnika propisanih Zakonom o vodama način ostvarenja prava na povrat preplaćenih iznosa vodnih naknada, korekcijske koeficijente za obračun vodnoga doprinosa, obrasce rješenja o obračunu vodnih naknada, gdje je potrebno, te druga pitanja na koja upućuje ovaj Zakon.«.

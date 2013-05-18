@@ -1,0 +1,4 @@
+# Članak 7.
+U članku 17. iza stavka 6. dodaju se stavci 7. i 8. koji glase:
+»Jedinica lokalne samouprave do dvadesetog dana u mjesecu za prethodni mjesec, a do 28. siječnja tekuće godine za prethodnu godinu dostavlja Hrvatskim vodama izvješće o obračunatim (putem uplatnica upućenih obveznicima), naplaćenim i doznačenim sredstvima naknade za uređenje voda.
+Protiv jedinice lokalne samouprave koja ne postupa po odredbi stavka 5. ovoga članka Hrvatske vode su ovlaštene u upravnom postupku donijeti rješenje o izvršenju nedoznačenog iznosa naknade za uređenje voda na temelju vjerodostojne isprave i provesti izvršenje tog rješenja. Vjerodostojna isprava je financijska kartica Hrvatskih voda koja se temelji na izvještajima iz stavka 7. ovoga članka, a ako izvještaji nisu podneseni ili su nepotpuni Hrvatske vode postupaju po odredbama članka 83. ovoga Zakona.«.
