@@ -1,0 +1,10 @@
+## VI. EUROPSKE KRITIČNE INFRASTRUKTURE
+# Članak 15.
+(1) Europske kritične infrastrukture su infrastrukture koje su od interesa za najmanje dvije države članice, ili jednu državu članicu, a nalaze se na teritoriju druge države članice.
+(2) Europske kritične infrastrukture mogu se odrediti u sektorima koje određuje Europska komisija.
+(3) Ako su ispunjeni uvjeti iz stavka 1. ovog članka, Europsku kritičnu infrastrukturu na području Republike Hrvatske, na prijedlog središnjeg tijela državne uprave u čijem je djelokrugu pojedini sektor kritičnih infrastruktura, određuje Vlada Republike Hrvatske, na zahtjev i u suglasnosti sa zainteresiranim državama članicama Europske unije te obavješćuje zainteresirane države članice o određivanju europske kritične infrastrukture na području Republike Hrvatske.
+(4) Podaci vezani uz određivanje pojedine kritične infrastrukture europskom kritičnom infrastrukturom predstavljaju klasificirani podatak i označuju se odgovarajućim stupnjem tajnosti. Kriterije za određivanje stupnjeva tajnosti tih podataka propisuje odlukom Vlada Republike Hrvatske.
+(5) Središnja tijela državne uprave o odluci Vlade Republike Hrvatske iz stavka 3. ovog članka obavještavaju vlasnike/upravitelje kritičnih infrastruktura iz svog djelokruga i nadležne regulatorne agencije.
+(6) Ako se kritična infrastruktura od značenja za Republiku Hrvatsku nalazi na području druge države članice Europske unije, Vlada Republike Hrvatske predlaže nadležnom tijelu te države određivanje europske kritične infrastrukture.
+(7) Ako država članica na čijem teritoriju se nalazi kritična infrastruktura ne prihvati prijedlog Republike Hrvatske, Vlada Republike Hrvatske o tome obavještava Europsku komisiju i traži njezino uključivanje.
+(8) U određivanju europske kritične infrastrukture u Republici Hrvatskoj primjenjuju se odredbe ovog Zakona koje se odnose na određivanje nacionalne kritične infrastrukture te sektorska i međusektorska mjerila iz ovog Zakona, uz osiguranje sudjelovanja ovlaštenih predstavnika zainteresiranih država članica.

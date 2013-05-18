@@ -1,0 +1,3 @@
+## VII. POSTUPANJE S OSJETLJIVIM PODACIMA
+# Članak 19.
+Postupanje s osjetljivim podacima o nacionalnoj i europskoj kritičnoj infrastrukturi odvija se sukladno posebnim propisima iz područja informacijske sigurnosti te međunarodnim ugovorima. Osim podataka koji sukladno ovom Zakonu predstavljaju klasificirani podatak i označuju se odgovarajućim stupnjem tajnosti, u području zaštite kritičnih infrastruktura klasificirat će se i drugi podaci povezani s pojedinom kritičnom infrastrukturom, ako je klasificiranje takvog podatka potrebno radi zaštite vrijednosti štićenih propisom o tajnosti podataka.

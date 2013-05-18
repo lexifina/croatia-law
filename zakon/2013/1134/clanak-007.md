@@ -1,0 +1,4 @@
+# Članak 7.
+(1) Središnja tijela državne uprave u suradnji s nadležnim regulatornim agencijama odgovorna su u okviru svog djelokruga za identifikaciju (određivanje) pojedinih sustava ili njihovih dijelova kao nacionalnih kritičnih infrastruktura, osiguranje upravljanja kritičnim infrastrukturama i njihovu zaštitu.
+(2) Čelnik središnjeg tijela državne uprave iz stavka 1. ovog članka donosi odluku o određivanju nacionalne kritične infrastrukture na temelju odluke Vlade Republike Hrvatske o potvrđivanju identificirane kritične infrastrukture iz članka 5. stavka 2. ovog Zakona te je dostavlja na provedbu vlasniku/upravitelju tih infrastruktura i središnjem tijelu državne uprave u čijem su djelokrugu poslovi zaštite i spašavanja.
+(3) Vlasnici/upravitelji identificiranih (određenih) kritičnih infrastruktura izravno su odgovorni za upravljanje i zaštitu kritičnih infrastruktura u svim uvjetima.

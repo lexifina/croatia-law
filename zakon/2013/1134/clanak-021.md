@@ -1,0 +1,2 @@
+# Članak 21.
+Radi osiguranja jedinstvenog pristupa analizi rizika kritičnih infrastruktura, nadzor nad primjenom međusektorskih mjerila iz članka 9. stavka 2. ovog Zakona kod svih sudionika provedbe Zakona provodi središnje tijelo državne uprave u čijem su djelokrugu poslovi zaštite i spašavanja, a nadzor kod vlasnika/upravitelja kritičnih infrastruktura nad primjenom sektorskih mjerila u analizi rizika iz članka 9. stavka 3. ovog Zakona provode središnja tijela državne uprave i regulatorne agencije u sektoru iz svog djelokruga.

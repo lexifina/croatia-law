@@ -1,0 +1,3 @@
+# Članak 6.
+(1) Središnje tijelo državne uprave u čijem su djelokrugu poslovi zaštite i spašavanja, u suradnji s nadležnim središnjim tijelima državne uprave iz čijeg djelokruga je pojedina kritična infrastruktura, redovito prati, procjenjuje ugroze i predlaže operativne i druge mjere za procjenjivanje kritičnosti i potrebe prijedloga mjera za upravljanje i zaštitu kritičnih infrastruktura.
+(2) Središnje tijelo državne uprave u čijem su djelokrugu poslovi zaštite i spašavanja jednom godišnje podnosi izvješće Vladi Republike Hrvatske i odboru Hrvatskoga sabora nadležnog za nacionalnu sigurnost o broju nacionalnih kritičnih infrastruktura po sektoru i njihovoj kritičnosti te provedbi mjera zaštite kritičnih infrastruktura.

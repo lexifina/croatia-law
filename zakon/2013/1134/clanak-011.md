@@ -1,0 +1,4 @@
+# Članak 11.
+(1) Vlasnici/upravitelji pojedine kritične infrastrukture dužni su izraditi analizu rizika, kao podlogu za izradu Sigurnosnog plana temeljem mjerila iz članka 9. ovog Zakona.
+(2) U izradi analiza rizika vlasnici/upravitelji surađuju sa središnjim tijelima državne uprave u čijem je djelokrugu kritična infrastruktura, nadležnim regulatornim agencijama i središnjim tijelom državne uprave u čijem su djelokrugu poslovi zaštite i spašavanja.
+(3) Čelnik središnjeg tijela državne uprave u čijem su djelokrugu poslovi zaštite i spašavanja, u suradnji sa središnjim tijelima državne uprave nadležnima za poslove gospodarstva, prometa, zdravlja, financija, poljoprivrede, unutarnjih poslova i obrane, donijet će Pravilnik o metodologiji za izradu analize rizika poslovanja kritičnih infrastruktura.
