@@ -1,0 +1,31 @@
+UPISNIK PRISTUPNIKA KOJI SU STEKLI TEMELJNO STRUČNO ZVANJE U KONZERVATORSKO-RESTAURATORSKOJ DJELATNOSTI
+1. Redni broj upisa ______
+2. Broj i datum uvjerenja/rješenja o stečenome zvanju
+Klasa: _____________________________________________________
+Urbroj: _____________________________________________________
+Datum: _____________________________________________________
+Datum ispita: __________________________________________________
+Datum sjednice: ________________________________________________
+3. Pristupnik koji je stekao temeljno stručno zvanje
+____________________________________________________________
+Ime i prezime
+____________________________________________________________
+Datum i mjesto rođenja
+____________________________________________________________
+Stečeno zvanje/uža specijalnost
+UPISNIK KANDIDATA KOJI SU STEKLI VIŠE STRUČNO ZVANJE U KONZERVATORSKO-RESTAURATORSKOJ DJELATNOSTI
+1. Redni broj upisa _________
+2. Broj i datum rješenja
+o stečenome zvanju
+Klasa: ________________________________________________________
+Urbroj: _______________________________________________________
+Datum: _______________________________________________________
+Datum sjednice: ________________________________________________
+3. Kandidat koji je stekao više stručno zvanje
+____________________________________________________________
+Ime i prezime
+____________________________________________________________
+Datum i mjesto rođenja
+____________________________________________________________
+Stečeno zvanje/uža specijalnost
+57 15.05.2013 Pravilnik o dopuni Pravilnika o stručnim zvanjima u konzervatorsko-restauratorskoj djelatnosti te uvjetima i načinu njihova stjecanja

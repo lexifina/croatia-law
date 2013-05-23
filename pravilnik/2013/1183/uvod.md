@@ -1,0 +1,1 @@
+Na temelju članka 101. stavka 2. Zakona o zaštiti i očuvanju kulturnih dobara (»Narodne novine«, broj 69/99, 151/03, 157/03, 87/09, 88/10, 61/11, 25/12 i 136/12), a na prijedlog Hrvatskoga vijeća za kulturna dobra, ministrica kulture donosi
