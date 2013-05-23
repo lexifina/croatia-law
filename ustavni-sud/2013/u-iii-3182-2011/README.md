@@ -1,0 +1,10 @@
+# Rješenje Ustavnog suda Republike Hrvatske broj: U-III-3182/2011 od 23. svibnja 2013.
+
+- Case: `U-III-3182/2011`
+- Proceeding: Ustavna tužba
+- Decision: rješenje
+- Decision date: `2013-05-23`
+- Official database page: <https://sljeme.usud.hr/usud/praksaw.nsf/fOdluka.xsp?action=openDocument&documentId=C12570D30061CE54C1257B74002E6FC5>
+- Official database page SHA-256: `33b3f7329fe8915c2d3e618078b99ee2249e729b99043a209c1681b735a87558`
+
+Metadata-only record: the decision concerns a named person (constitutional complaint and similar proceedings are listed as metadata only in this repository); use the official links above.
