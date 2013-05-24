@@ -1,0 +1,1 @@
+Odluka o koncesiji u svrhu gospodarskog korištenja pomorskog dobra radi obavljanja djelatnosti uzgoja školjaka i riba te obavljanja obrazovno-istraživačke djelatnosti na polju 51 B, 51 C, 51 D u Malostonskom zaljevu

@@ -1,0 +1,1 @@
+Na temelju članka 19. stavka 3. Zakona o pomorskom dobru i morskim lukama (»Narodne novine«, br. 158/2003, 100/2004, 141/2006, 38/2009 i 123/2011), Vlada Republike Hrvatske je na sjednici održanoj 24. svibnja 2013. godine donijela
