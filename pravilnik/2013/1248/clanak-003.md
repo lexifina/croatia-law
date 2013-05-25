@@ -1,0 +1,13 @@
+# Članak 3.
+(1) Za dozvole kojima je rok važenja istekao prije stupanja na snagu ovoga Pravilnika, obveze iz uvozne, odnosno izvozne dozvole su ispunjene ukoliko količina uvezenog, odnosno izvezenog proizvoda odstupa najviše za 5% u odnosu na količinu za koju je uvozna, odnosno izvozna dozvola izdana.
+(2) Obveza po uvoznoj odnosno izvoznoj dozvoli ispunjena je datumom prihvaćanja carinske deklaracije za puštanje robe u slobodni promet, odnosno carinske deklaracije vezane za izvoz.
+(3) Uvoznik odnosno izvoznik dužan je dostaviti Agenciji za plaćanja u poljoprivredi, ribarstvu i ruralnom razvoju popunjeni izvornik zahtjeva iz Dodatka VII. Pravilnika, izvorne carinske deklaracije kojima dokazuje stupanj ispunjenja obveza po uvoznoj, odnosno izvoznoj dozvoli te izvornik pripadajuće dozvole ovjeren od strane Carinske uprave, u roku od 30 dana nakon isteka važenja iste.
+(4) Ukoliko uvoznik, odnosno izvoznik ne dostavi dokumentaciju ili dostavi nepotpunu dokumentaciju navedenu u stavku 3. ovoga članka, položena sredstva osiguranja bit će zadržana u cijelosti.
+(5) Ukoliko uvezena, odnosno izvezena količina iznosi 5% količine odobrene po dozvoli ili manje, položena sredstva osiguranja bit će zadržana u cijelosti.
+(6) Ukoliko je uvezena, odnosno izvezena količina veća od količine odobrene po dozvoli i premašuje dopušteno odstupanje položena sredstva osiguranja bit će zadržana u cijelosti.
+(7) Ukoliko je uvezena, odnosno izvezena količina veća od 5% količine odobrene po dozvoli, položena sredstva osiguranja bit će otpuštena razmjerno količinama za koje je predočen dokaz iz stavka 3. ovoga članka.
+(8) Ukoliko su obveze iz uvozne, odnosno izvozne dozvole ispunjene u potpunosti sukladno stavku 1. ovoga članka, položena sredstva osiguranja bit će otpuštena u cijelosti.
+(9) Ukoliko je dokumentacija iz stavka 3. ovoga članka dostavljena Agenciji za plaćanja u poljoprivredi, ribarstvu i ruralnom razvoju izvan propisanog roka, vrijednost iznosa za otpuštanje izračunatog u skladu sa stavkom 7. i 8. ovoga članka bit će umanjena za 5% za svaki dan kašnjenja.
+(10) Vrijednost iznosa iz stavka 9. ovoga članka ne može biti veća od iznosa položenih sredstava osiguranja.
+(11) Po završenoj administrativnoj kontroli dokumentacije iz stavka 3. ovoga članka u skladu s utvrđenim stupnjem izvršenja obveza po uvoznoj, odnosno izvoznoj dozvoli, Agencija za plaćanja u poljoprivredi, ribarstvu i ruralnom razvoju izdat će Odluku o otpuštanju sredstava osiguranja.
+(12) Otpuštanje položenih sredstava osiguranja bit će izvršeno u roku od 30 dana od dana zaprimanja potpune dokumentacije iz stavka 3. ovoga članka.
