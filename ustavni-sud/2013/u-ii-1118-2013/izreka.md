@@ -1,0 +1,4 @@
+ODLUKU
+I. Pokreće se postupak za ocjenu suglasnosti s Ustavom i zakonom te se ukida Odluka o uvođenju, praćenju i vrednovanju provedbe Kurikuluma zdravstvenog odgoja u osnovnim i srednjim školama klasa: 602-01/12-01/00431, urbroj: 533-21-12-0005 od 31. siječnja 2013. ministra znanosti, obrazovanja i sporta, objavljena u »Narodnim novinama« broj 17 od 13. veljače 2013., koja je stupila na snagu 21. veljače 2013., te njezin sastavni dio: Kurikulum zdravstvenog odgoja.
+II. Na temelju članka 31. stavka 5. Ustavnog zakona o Ustavnom sudu Republike Hrvatske (»Narodne novine« broj 99/99., 29/02. i 49/02.) Ustavni sud određuje da će se, do donošenja kurikuluma zdravstvenog odgoja u postupku usklađenom s ustavnim zahtjevima, u nastavi u osnovnim i srednjim školama u Republici Hrvatskoj predavati sadržaji zdravstvenog odgoja sukladno programu koji se provodio do početka školske godine 2012./2013.
+III. Ova odluka objavit će se u »Narodnim novinama«.
