@@ -1,0 +1,1 @@
+Zakon o potvrđivanju Sporazuma o financiranju između Vlade Republike Hrvatske i Europske komisije kojim se mijenja Sporazum o financiranju između Vlade Republike Hrvatske i Europske komisije za višegodišnji Operativni program "Regionalna konkurentnost" za pomoć Zajednice iz Instrumenta pretpristupne pomoći u sklopu komponente "Regionalni razvoj" u Hrvatskoj
