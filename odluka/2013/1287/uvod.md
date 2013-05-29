@@ -1,0 +1,1 @@
+Na temelju članka 20. stavaka 21., 22. i 23. Pravilnika o ulovu, uzgoju i prometu tune (Thunnus thynnus), igluna (Xiphias gladius) i iglana (Tetrapturus belone), (»Narodne novine«, broj 15/2013 i 20/2013) ministar poljoprivrede donosi
