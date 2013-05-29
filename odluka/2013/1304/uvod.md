@@ -1,0 +1,1 @@
+Na temelju članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, broj 150/2011), a u vezi s člankom 13. stavkom 2. Zakona o Leksikografskom zavodu Miroslav Krleža (»Narodne novine«, br. 96/2003 i 190/2003), Vlada Republike Hrvatske je na sjednici održanoj 29. svibnja 2013. godine donijela
