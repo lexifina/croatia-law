@@ -1,0 +1,1 @@
+Odluka o osnivanju Nacionalnog odbora za koordinaciju sudjelovanja Republike Hrvatske u programima transnacionalne i međuregionalne suradnje te makroregionalnim strategijama Europske unije za Republiku Hrvatsku, za razdoblje 2014. - 2020.
