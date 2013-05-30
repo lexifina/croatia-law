@@ -1,0 +1,1 @@
+Na temelju članka 4. stavka 5. alineje 2., 3. i 4. Zakona o potpori poljoprivredi i ruralnom razvoju (»Narodne novine«, broj 120/12, 136/12), ministar poljoprivrede, uz suglasnost ministra nadležnog za zaštitu okoliša i ministra nadležnog za zdravlje ljudi, donosi

@@ -1,0 +1,2 @@
+# Članak 2.
+Ovaj Pravilnik sadrži odredbe kojima se provodi Uredba Vijeća (EZ) br. 73/2009 od 19. siječnja 2009. kojom se utvrđuju zajednička pravila za programe izravne potpore za poljoprivrednike u okviru Zajedničke poljoprivredne politike i određeni programi potpore za poljoprivrednike te kojom se izmjenjuju i dopunjuju Uredbe (EZ) br. 1290/2005, (EZ) br. 247/2006, (EZ) br. 378/2007 te ukida Uredba (EZ) br. 1782/2003 (SL L 30, 31. 1. 2009.).
