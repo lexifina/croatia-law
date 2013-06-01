@@ -1,0 +1,1 @@
+Na osnovi članka 19. Statuta Hrvatskog zavoda za zdravstveno osiguranje (»Narodne novine« broj 18/09., 33/10., 8/11. i 18/13.) Upravno vijeće Hrvatskog zavoda za zdravstveno osiguranje na 36. sjednici održanoj 22. svibnja 2013. godine donijelo je
