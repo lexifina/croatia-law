@@ -1,0 +1,1 @@
+57 15.05.2013 Odluka o iznosu tarifnih stavki u Tarifnom sustavu za usluge energetskih djelatnosti proizvodnje, distribucije i opskrbe toplinskom energijom za energetski subjekt Gradska toplana d.o.o., Tina Ujevića 7, Karlovac, u gradu Karlovcu
