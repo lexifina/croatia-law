@@ -1,0 +1,19 @@
+# Članak 34.
+Članak 94. mijenja se i glasi:
+»(1) Prekršajni sudovi su nadležni:
+1. suditi u prvom stupnju za sve prekršaje, osim za one za koje je zakonom propisana nadležnost tijela državne uprave,
+2. odlučivati o prigovorima protiv prekršajnih naloga svih ovlaštenih izdavatelja kada je prigovor podnesen zbog odluke o prekršajnopravnoj sankciji, troškovima postupka, oduzimanja imovinske koristi ili oduzimanja predmeta,
+3. odlučivati o žalbi podnesenoj samo zbog odluke o prekršajnopravnim sankcijama, troškovima postupka, oduzimanju imovinske koristi ili oduzimanju predmeta protiv odluke o prekršaju koju je donio sud ili drugo tijelo postupka samo za prekršaj ili stjecaj prekršaja za koje je kao kazna propisana samo novčana kazna do 15.000,00 kuna,
+4. odlučivati o zahtjevu za obnovu prekršajnog postupka:
+a) u predmetima u kojima su sudili,
+b) protiv pravomoćnih prekršajnih naloga ovlaštenih tužitelja ako je riječ o prekršajima iz stvarne nadležnosti suda, te
+c) protiv svih pravomoćnih obaveznih prekršajnih naloga.
+5. pružati pravnu pomoć prema odredbama međunarodnih ugovora i ovoga Zakona,
+6. obavljati i druge poslove propisane zakonom.
+(2) Stvarno i mjesno nadležni za odlučivanje u predmetima iz stavka 1. točke 2. i 3. ovog članka su prekršajni sudovi u Osijeku, Rijeci, Splitu i Zagrebu:
+1. Prekršajni sud u Osijeku nadležan je i za područja prekršajnih sudova u Osječko-baranjskoj županiji, Brodsko-posavskoj županiji, Vukovarsko-srijemskoj županiji i Požeško-slavonskoj županiji,
+2. Prekršajni sud u Rijeci nadležan je i za područja prekršajnih sudova u Primorsko-goranskoj županiji, Ličko-senjskoj županiji i Istarskoj županiji,
+3. Prekršajni sud u Splitu nadležan je i za područja prekršajnih sudova u Splitsko-dalmatinskoj županiji, Zadarskoj županiji, Šibensko-kninskoj županiji i Dubrovačko-neretvanskoj županiji,
+4. Prekršajni sud u Zagrebu nadležan je i za područja prekršajnih sudova u Gradu Zagrebu, Zagrebačkoj županiji, Krapinsko-zagorskoj županiji, Sisačko-moslavačkoj županiji, Karlovačkoj županiji, Varaždinskoj županiji, Koprivničko-križevačkoj županiji, Bjelovarsko-bilogorskoj županiji, Virovitičko-podravskoj županiji i Međimurskoj županiji.
+(3) Kod prekršaja pravne osobe i u njoj odgovorne osobe iz stavka 1. točke 3. ovoga članka, prekršajni je sud nadležan odlučivati o žalbi samo ako su uvjeti iz te odredbe ostvareni u odnosu na prekršaj pravne osobe.
+(4) Sud koji prema stavku 1. točki 2. i 3. ovoga članka odlučuje o prigovoru odnosno žalbi, nadležan je za odlučivanje i o žalbi protiv rješenja kojim je izdavatelj prekršajnog naloga prigovor odbacio nepravodobnim, nedopuštenim ili nepotpunim i o žalbi protiv rješenja kojim je donositelj odluke o prekršaju žalbu odbacio nepravodobnom, nedopuštenom ili nepotpunom.«.

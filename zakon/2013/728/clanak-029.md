@@ -1,0 +1,7 @@
+# Članak 29.
+Članak 58. mijenja se i glasi:
+»(1) Zaštitnu mjeru zabrane upravljanja motornim vozilom u trajanju od jednog mjeseca do dvije godine sud može izreći počinitelju prekršaja protiv sigurnosti prometa kad postoji opasnost da će upravljajući motornim vozilom ugroziti sigurnost prometa. Zabrana se izriče u odnosu na sve vrste ili kategorije ili u odnosu na samo određene vrste ili kategorije motornih vozila.
+(2) Mjera iz stavka 1. ovoga članka počinje teći sljedećim danom kada je okrivljeniku nadležno tijelo uredno dostavilo obavijest o upisu izrečene mjere u evidenciju izdanih vozačkih dozvola, a vrijeme provedeno na izdržavanju zatvora ne uračunava se u vrijeme trajanja mjere.
+(3) Ako okrivljenik ne postupi prema zabrani iz stavka 1. ovoga članka kad je izrečena uz uvjetnu osudu, sud može postupiti prema članku 46. stavku 4. ovoga Zakona.
+(4) Vrijeme privremenog oduzimanja vozačke dozvole uračunat će se u vrijeme zabrane upravljanja motornim vozilom.
+(5) Zabrana upravljanja motornim vozilom izrečena osuđeniku koji ima stranu dozvolu za upravljanje motornim vozilom sastoji se u zabrani njezina korištenja na području Republike Hrvatske kao i u zabrani izdavanja mu vozačke dozvole Republike Hrvatske. Ako protiv presude kojom je izrečena mjera nije podnesena žalba, mjera počinje teći od dana pravomoćnosti presude. Ako je protiv presude podnesena žalba o kojoj je odlučivao žalbeni sud, mjera počinje teći od uredne dostave drugostupanjske odluke osuđeniku.«.

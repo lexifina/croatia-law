@@ -1,0 +1,10 @@
+# Članak 32.
+Iza članka 76. dodaje se naslov i članak 76.a koji glase:
+»Oduzimanje predmeta
+Članak 76.a
+(1) Predmeti i sredstva koji su bili namijenjeni ili uporabljeni za počinjenje prekršaja ili su nastali njegovim počinjenjem oduzet će se ako postoji opasnost da će se ponovno uporabiti za počinjenje prekršaja. Sud može oduzeti predmete i sredstva i kada je njihovo oduzimanje potrebno radi zaštite opće sigurnosti, javnog poretka, zaštite zdravlja ljudi ili iz moralnih razloga.
+(2) Ako su ispunjene pretpostavke iz stavka 1. ovoga članka, sud će oduzeti predmete i sredstva i kada postupak nije završen osuđujućom presudom.
+(3) Predmeti koje prema zakonu okrivljenik ili druga osoba ne može posjedovati ili predmeti čije je posjedovanje ili promet zabranjen ili ograničen ili predmeti namijenjeni prometu, ali se u promet mogu pustiti samo pod posebnim uvjetima (s nadzornim markicama i slično), oduzet će se i kad postupak nije završen osuđujućom presudom. Sud može na prijedlog ovlaštenog tužitelja narediti njihovo uništenje i prije završetka postupka.
+(4) Oduzeti predmeti i sredstva postaju vlasništvo Republike Hrvatske. To ne utječe na pravo trećih osoba za naknadu štete prema počinitelju zbog oduzetog predmeta ili sredstva. Vlasnik oduzetog predmeta ili sredstva koji nije počinitelj djela ima pravo na povrat predmeta i sredstva ili naknadu njihove tržišne vrijednosti iz državnog proračuna, osim ako je najmanje krajnjom nepažnjom pridonio da predmet ili sredstvo bude namijenjeno ili uporabljeno za počinjenje prekršaja ili da nastane njegovim počinjenjem ili ako je pribavio predmet ili sredstvo znajući za okolnosti koje omogućuju njegovo oduzimanje.
+(5) Zakonom se može propisati obvezno oduzimanje predmeta ili sredstva, u kojem slučaju vlasnik nema pravo na naknadu iz državnog proračuna, ako posebnim zakonom nije drukčije određeno.
+(6) Sud može na prijedlog ovlaštenog tužitelja narediti uništenje predmeta ili sredstava i prije završetka postupka ako utvrdi da predstavljaju izravnu opasnost za život i zdravlje.«.
