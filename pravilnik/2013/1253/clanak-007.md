@@ -1,0 +1,7 @@
+# Članak 7.
+(1) Podaci koji se odnose na postupak procjene obilježja darivatelja i organa moraju se prikupiti na način propisan obrascem DONOR INFO koji je otisnut u Prilogu II. ovoga Pravilnika i čini njegov sastavni dio.
+(2) Podaci navedeni u dijelu A Priloga II. ovoga Pravilnika sadrže minimalni set obveznih podataka, a podaci navedeni u dijelu B Priloga II. ovoga Pravilnika sadrže grupu dopunskih podataka koji se trebaju prikupiti, na temelju odluke liječničkog tima ili zahtjeva transplantacijskog centra primatelja.
+(3) Bez obzira na stavak 2. ovoga članka ako prema analizi rizika i dobrobiti, uključujući i hitne slučajeve opasne po život, očekivane dobrobiti za primatelja nadilaze rizike koje predstavljaju nepotpuni podaci, organ se može prihvatiti za presađivanje čak i u slučaju nedostatka nekih obveznih podataka iz dijela A Priloga II. ovoga Pravilnika.
+(4) Podatke o procjeni obilježja darivatelja i organa bolnički transplantacijski koordinator ustanove darivatelja je obvezan dostaviti Nacionalnom koordinacijskom u elektroničkom obliku bez odlaganja.
+(5) Za dostavu i razmjenu podataka o obilježju darivatelja za potrebe međunarodne suradnje i razmjene organa sa zemljama članicama Eurotransplanta zaduženo je nacionalno koordinacijsko tijelo.
+(6) Konačnu odluku o prihvatljivosti organa za određenog primatelja donosi transplantacijski centar primatelja. Transplantacijski centar obvezan je o svojoj odluci bez odgađanja obavijestiti Nacionalno koordinacijsko tijelo i Eurotransplat radi učinkovite dodjele organa.
