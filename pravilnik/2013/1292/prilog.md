@@ -1,0 +1,1 @@
+65 29.05.2013 Pravilnik o izmjeni Pravilnika o stručnom ispitu te upotpunjavanju i usavršavanju znanja osoba koje obavljaju stručne geodetske poslove 65 29.05.2013 Pravilnik o izmjeni Pravilnika o stručnom ispitu te upotpunjavanju i usavršavanju znanja osoba koje obavljaju stručne geodetske poslove
