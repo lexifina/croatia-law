@@ -1,0 +1,2 @@
+# Članak 1.
+Pravilnik o obveznim udžbenicima i pripadajućim dopunskim nastavnim sredstvima za osnovnu i srednju školu (u daljnjem tekstu: Pravilnik) propisuje koji se udžbenici i pripadajuća dopunska nastavna sredstva smatraju obveznima za uporabu u nastavnom i odgojno-obrazovnom radu u osnovnoj i srednjoj školi i služe za realizaciju nacionalnoga i predmetnoga kurikuluma, odnosno nastavnoga plana i programa te za samostalno učenje.

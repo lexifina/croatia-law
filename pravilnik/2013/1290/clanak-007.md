@@ -1,0 +1,2 @@
+# Članak 7.
+Pored obveznih udžbenika i pripadajućih dopunskih nastavnih sredstava utvrđenih ovim pravilnikom, u nastavi se mogu koristiti i pomoćna nastavna sredstva odobrena sukladno članku 29. Zakona o udžbenicima za osnovnu i srednju školu te uvrštena na popis pomoćnih nastavnih sredstava i objavljena na mrežnoj stranici Agencije za odgoj i obrazovanje, odnosno Agencije za strukovno obrazovanje i obrazovanje odraslih.
