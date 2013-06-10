@@ -1,0 +1,1 @@
+Na temelju članka 92. stavka 8. i članka 101 stavka 1. točke 2. Zakona o trošarinama (»Narodne novine«, broj 22/2013 i 32/2013.), te članka 26. Pravilnika o uvjetima i načinu oslobođenja od plaćanja trošarine na energente koji se koriste kao pogonsko gorivo za plovidbu (»Narodne novine«, br. 58/2013) ministar pomorstva, prometa i infrastrukture donosi
