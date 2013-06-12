@@ -1,0 +1,3 @@
+# Članak 2.
+U Pravilniku o posebnim uvjetima za uvoz određene hrane iz određenih trećih zemalja zbog rizika od kontaminiranosti aflatoksinima (»Narodne novine« br. 120/10., 63/11., 13/13.)[1], u članku 3. tekst: »»Mjesto prvog unosa (eng. First Point of Introduction - FPI)« jest mjesto na kojem pošiljka prvi put fizički ulazi na područje Republike Hrvatske« zamjenjuje se sa sljedećim tekstom:
+»Određeno ulazno mjesto (eng. Designated Point of Entry - DPE)« jest točno mjesto ulaza kao što je definirano u članku 2. stavku 1. točki 2. i stavku 2. Pravilnika o povećanom broju službenih kontrola hrane i hrane za životinje neživotinjskog podrijetla koja predstavlja poznatu ili prijeteću opasnost pri uvozu (»Narodne novine« br. 119/10., 63/11.)[2].

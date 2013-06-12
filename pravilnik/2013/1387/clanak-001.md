@@ -1,0 +1,3 @@
+# Članak 1.
+Ovaj Pravilnik sadrži odredbe koje su u skladu s:
+- člankom 15. Provedbene uredbe Komisije (EU) br. 91/2013 od 31. siječnja 2013. godine kojom se propisuju posebni uvjeti koji se primjenjuju pri uvozu kikirikija iz Gane i Indije, okre (bamije) i curry listova iz Indije te sjemenki lubenice iz Nigerije te izmjenjuju i dopunjuju Uredbe (EZ) br. 669/2009 i Uredbe (EZ) br. 1152/2009 (SL L 33, 2. 2. 2013.).
