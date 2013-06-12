@@ -1,0 +1,1 @@
+Na temelju članka 12. stavka 2. Zakona o ustanovama (»Narodne novine«, br. 76/93, 29/97, 47/99 i 35/2008) i članka 82. stavka 1. Zakona o poljoprivrednom zemljištu (»Narodne novine«, broj 39/2013), Vlada Republike Hrvatske je na sjednici održanoj 29. svibnja 2013. godine donijela
