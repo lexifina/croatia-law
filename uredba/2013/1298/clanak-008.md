@@ -1,0 +1,3 @@
+# Članak 8.
+Odjel za normativnu infrastrukturu prati razvoj međunarodnih normi temeljem kojih priprema njihovu primjenu u izgradnji normativnog sustava za područje službene dokumentacije i informacija; prikuplja podatke te gradi i održava normativne baze podataka (pojmovnici, klasifikacije, osobna imena); oblikuje preporuke o načinu korištenja normativnih podataka. Odjel surađuje s drugim državnim tijelima i srodnim institucijama radi ujednačavanja normiranja podataka u tijelima javne vlasti te razmjene normativnih podataka na elektroničkom mediju; sudjeluje u razvoju alata za računalom potpomognuto korištenje normativne infrastrukture; sudjeluje u izradi strateških dokumenata Ureda.
+2. Služba za objavu i širenje informacija

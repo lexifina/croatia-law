@@ -1,0 +1,3 @@
+# Članak 7.
+Odjel za obradu dokumenata i podataka prati razvoj međunarodnih normi temeljem kojih izrađuje pravila i preporuke za formalnu i sadržajnu obradu službene dokumentacije; formalno i sadržajno obrađuje službene dokumente pohranjujući podatke u bibliografskim bazama podataka; sudjeluje u izradi alata za računalom potpomognutu formalnu i sadržajnu obradu; surađuje s drugim državnim tijelima i srodnim institucijama radi ujednačavanja formalne i sadržajne obrade službene dokumentacije, razmjene podataka na elektroničkom mediju i osiguravanja protoka informacija; sudjeluje u pripremi podataka za objavu na papirnom i elektroničkom mediju; sudjeluje u izradi strateških dokumenata Ureda.
+1.3. Odjel za normativnu infrastrukturu
