@@ -1,0 +1,2 @@
+# Članak 1.
+Iz Pravilnika o dodjeli adresa i brojeva (»Narodne novine« broj 85/12), članka 16. »Prijelazne i završne odredbe«, stavka 2. briše se zadnja rečenica koja glasi: »Nakon isteka roka od godinu dana od stupanja na snagu ovog pravilnika, Agencija će donositi odluke o primarnoj dodjeli adresa i/ili brojeva neovisno o preklapanju prvih znamenaka brojeva u slučaju brojeva s različitim brojem znamenki te su svi operatori obvezni ispravno usmjeravati pozive prema četveroznamenkastim i šesteroznamenkastim brojevima s istim početnim znamenkama«.
