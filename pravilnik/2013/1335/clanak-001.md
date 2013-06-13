@@ -1,0 +1,2 @@
+# Članak 1.
+U Pravilniku o pravima uvjetima i načinu ostvarivanja prava iz obveznog zdravstvenog osiguranja u slučaju ozljede na radu i profesionalne bolesti (»Narodne novine« broj 1/11, 153/11, 51/12, 126/12, 147/12. i 38/13.), u članku 38. stavku 1. tiskanice »Prijava o ozljedi na radu« i »Prijava o profesionalnoj bolesti« koje su sastavni dio Pravilnika zamjenjuju se novim tiskanicama koje su tiskane uz ovaj Pravilnik.
