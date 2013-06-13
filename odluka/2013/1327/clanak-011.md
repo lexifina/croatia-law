@@ -1,0 +1,3 @@
+## Nositelj prava i obveza iz prodanih plasmana
+# Članak 11.
+Ako je ugovorom o kupoprodaji plasmana uređen odnos između prodavatelja i stjecatelja na način da prodavatelj i dalje ostaje nositelj svih prava i obveza iz plasmana, a istodobno se obvezuje sva prava iz plasmana ostvarivati u svoje ime, ali za račun stjecatelja, prodavatelj je dužan analizirati i zaštititi se od rizika koji bi mogli proizlaziti iz potencijalnih sporova iz odnosa s dužnicima nakon sklapanja ugovora o kupoprodaji plasmana kao, primjerice, slučaj da dužnik tuži prodavatelja za njegovo postupanje u postupku naplate plasmana nakon što je provedena kupoprodaja plasmana, odnosno nakon što je ugovor o kupoprodaji plasmana realiziran.
