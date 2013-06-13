@@ -1,0 +1,7 @@
+# Članak 2.
+(1) Ovim se Pravilnikom uređuje provedba sljedećih Uredbi Europske unije:
+- Uredba Vijeća (EZ) br. 1234/2007 od 22. listopada 2007. godine kojom se uspostavlja zajednička organizacija poljoprivrednog tržišta i donose posebne odredbe za određene poljoprivredne proizvode (SL L 299, 16. 11. 2007.) u dijelu koji se odnosi na uređenje ugovornih odnosa u sektoru mlijeka i mliječnih proizvoda, te:
+- Provedbena uredba Komisije (EU) br. 511/2012 od 15. lipnja 2012. godine o obavješćivanju o proizvodnim i međusektorskim organizacijama i o ugovornom pregovaranju i odnosima predviđenim Uredbom Vijeća (EZ) br. 1234/2007. u sektoru mlijeka i mliječnih proizvoda (SL L 156, 16. 6. 2012.),
+- Delegirana uredba Komisije (EU) br. 880/2012 od 28. lipnja 2012. godine o dopuni Uredbe Vijeća (EZ) br. 1234/2007 vezano uz transnacionalnu suradnju i pregovaranje o ugovorima organizacija proizvođača u sektoru mlijeka i mliječnih proizvoda (SL L 263, 28. 9. 2012.).
+(2) U Pravilniku su utvrđene posebnosti za Republiku Hrvatsku kod provedbe ugovornih odnosa u sektoru mlijeka i mliječnih proizvoda u skladu s mogućnostima izbora načina uređenja pojedinih pitanja kako to dopuštaju Uredbe iz stavka 1. ovoga članka.
+(3) Odredbe Uredbi iz stavka 1. ovoga članka koje nisu navedene u ovom Pravilniku, a dodatno uređuju ugovorne odnose u sektoru mlijeka i mliječnih proizvoda, u provedbi će se primjenjivati neposredno.

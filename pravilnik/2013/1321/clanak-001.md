@@ -1,0 +1,2 @@
+# Članak 1.
+Ovim Pravilnikom propisuju se međusobni odnosi pri trgovini mlijekom i mliječnim proizvodima između zainteresiranih strana, pri čemu se određuju uvjeti i način formiranja proizvođačkih i međusektorskih organizacija u sektoru mlijeka i mliječnih proizvoda, uvjeti koje trebaju udovoljavati pregovaračke strane pri postizanju dogovora o otkupu mlijeka, uvjeti zaključenja ugovora između proizvođača i prerađivača te obveze Ministarstva poljoprivrede (u daljnjem tekstu: Ministarstvo) u praćenju podataka o međusobnim odnosima i njihovoj dostavi u Europsku komisiju.
