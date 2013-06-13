@@ -1,0 +1,1 @@
+Odluka o oslobođenju od obveze fiskalizacije u prometu gotovinom veterinarske djelatnosti, provođenje mjera kontrole bolesti životinja od zaraznih i nametničkih bolesti, koje se provode izvan veterinarske ambulante i dokumentiranju posebnim evidencijama
