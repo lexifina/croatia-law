@@ -1,0 +1,8 @@
+[1] Postupak je propisan odredbama članaka 36., 37. i 38. Direktive 2001/82/EZ Europskog parlamenta i Vijeća od 6. studenoga 2001. o kodeksu Zajednice koji se odnosi na veterinarsko-medicinske proizvode.
+[2] Postupak je propisan odredbama članka 36. Direktive 2001/82/EZ Europskog parlamenta i Vijeća od 6. studenoga 2001. o kodeksu Zajednice koji se odnosi na veterinarsko-medicinske proizvode.
+[3] Postupak je propisan odredbama članaka 36., 37. i 38. Direktive 2001/82/EZ Europskog parlamenta i Vijeća od 6. studenoga 2001. o kodeksu Zajednice koji se odnosi na veterinarsko-medicinske proizvode.
+[4] Posebni postupak CVMP i Agencije je propisan odredbama članka 36. Direktive 2001/82/EZ Europskog parlamenta i Vijeća od 6. studenoga 2001. o kodeksu Zajednice koji se odnosi na veterinarsko-medicinske proizvode.
+[5] Posebni postupak Europske komisije je propisan odredbama članka 37. Direktive 2001/82/EZ Europskog parlamenta i Vijeća od 6. studenoga 2001. o kodeksu Zajednice koji se odnosi na veterinarsko-medicinske proizvode
+[6]Posebni postupak arbitraže Europske komisije je propisan odredbama članka 36. - 38. Direktive 2001/82/EZ Europskog parlamenta i Vijeća od 6. studenoga 2001. o kodeksu Zajednice koji se odnosi na veterinarsko-medicinske proizvode
+[7] Sukladno odredbama članka 67. stavak 1. točke (aa) podtočke (i) Direktive 2001/82/EZ Europskog parlamenta i Vijeća od 6. studenoga 2001. o kodeksu Zajednice koji se odnosi na veterinarsko-medicinske proizvode
+[8] Odredbe propisuje članak 51. Direktive 2001/82/EZ Europskog parlamenta i Vijeća od 6. studenoga 2001. o kodeksu Zajednice koji se odnosi na veterinarsko-medicinske proizvode.
