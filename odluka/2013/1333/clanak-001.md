@@ -1,0 +1,4 @@
+# Članak 1.
+U Odluci o ograničenju ulaganja kreditnih institucija u kapital nefinancijskih institucija i materijalnu imovinu (»Narodne novine«, br. 1/2009. i 75/2009.) u članku 4. stavku 2. točki 2. riječ »ili« zamjenjuje se zarezom te se iza riječi »kreditnih institucija u RH« dodaju riječi »ili nadređenom mješovitom financijskom holdingu u grupi kreditnih institucija u RH«.
+U stavku 4. iza riječi »kreditnih institucija u RH« briše se zarez te se dodaju riječi »ili nadređenom mješovitom financijskom holdingu u grupi kreditnih institucija u RH,«. Iza riječi »toga financijskoga« dodaju se riječi »odnosno mješovitog financijskoga«.
+U stavku 5. riječ »ili« iza riječi »Podređena kreditna institucija« zamjenjuje se zarezom te se iza riječi »u RH« dodaju riječi »ili nadređeni mješoviti financijski holding u grupi kreditnih institucija u RH«.
