@@ -1,0 +1,2 @@
+# Članak 3.
+Danom stupanja na snagu ove Odluke prestaje važiti Odluka o utvrđivanju popisa posebno skupih lijekova utvrđenih Odlukom o utvrđivanju osnovne liste lijekova Hrvatskog zavoda za zdravstveno osiguranje (»Narodne novine« broj 49/13. i 50/13.) i Odluka o utvrđivanju popisa posebno skupih lijekova utvrđenih Odukom o utvrđivanju osnovne liste lijekova Hrvatskog zavoda za zdravstveno osiguranje (»Narodne novine« broj 21/13).
