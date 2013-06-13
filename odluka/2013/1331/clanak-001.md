@@ -1,0 +1,5 @@
+# Članak 1.
+U Odluci o postupku procjenjivanja adekvatnosti internoga kapitala kreditne institucije (»Narodne novine«, br. 1/2009., 75/2009., 2/2010. i 28/2011.) u članku 3. stavku 2. točka 2. mijenja se i glasi:
+»2) kreditne institucije koja je podređena nadređenoj kreditnoj instituciji u Republici Hrvatskoj, nadređenom financijskom holdingu u grupi kreditnih institucija u Republici Hrvatskoj ili nadređenom mješovitom financijskom holdingu u grupi kreditnih institucija u Republici Hrvatskoj.«
+U stavku 5. iza riječi »kreditnih institucija u Republici Hrvatskoj« dodaju se riječi »ili nadređenom mješovitom financijskom holdingu u grupi kreditnih institucija u Republici Hrvatskoj«. Iza riječi »toga financijskoga« dodaju se riječi »odnosno mješovitoga financijskoga«.
+U stavku 6. iza riječi »sa sjedištem u Republici Hrvatskoj« riječ »ili« zamjenjuje se zarezom te se iza riječi »kreditnih institucija u Republici Hrvatskoj« dodaju riječi »ili nadređeni mješoviti financijski holding u grupi kreditnih institucija u Republici Hrvatskoj«.
