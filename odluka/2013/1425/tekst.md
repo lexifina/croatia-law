@@ -1,0 +1,3 @@
+1. Prigodni optjecajni kovani novac od 25 kuna izdan povodom obilježavanja stjecanja punopravnog članstva Republike Hrvatske u Europskoj uniji 1. srpnja 2013., izdan u skladu s Odlukom o izdavanju novčanica i kovanog novca koji glase na novčanu jedinicu Republike Hrvatske (»Narodne novine«, br. 37/1994., 44/1994. i 68/1994.), s osnovnim obilježjima utvrđenima u Odluci o osnovnim obilježjima prigodnoga optjecajnoga kovanog novca od 25 kuna »Republika Hrvatska članica Europske unije 1. VII. 2013.« (»Narodne novine«, br. 57/2013.), pušta se u optjecaj 1. srpnja 2013.
+2. Ova Odluka stupa na snagu danom objave u »Narodnim novinama«.
+O. br. 785/2013.
