@@ -1,0 +1,1 @@
+Na temelju članka 17. stavka 2. Pravilnika o uvjetima, načinu i postupku izdavanja i oduzimanja odobrenja za cisterne fiksno pričvršćene za vozilo u cestovnom prometu (»Narodne novine«, br. 133/11.), ministar pomorstva, prometa i infrastrukture donosi
