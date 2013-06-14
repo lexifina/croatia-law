@@ -1,0 +1,7 @@
+1. Hrvatska narodna banka u skladu s Odlukom o izdavanju novčanica i kovanog novca koji glase na novčanu jedinicu Republike Hrvatske (»Narodne novine«, br. 37/1994., 44/1994. i 68/1994.) izdaje novčanice od 100 i 200 kuna s datumom izdanja 9. srpnja 2012.
+2. Novčanica od 100 kuna s datumom izdanja 9. srpnja 2012. ima istovjetna osnovna obilježja utvrđena Odlukom o osnovnim obilježjima novčanice od 100 kuna - izdanje 7. ožujka 2002. (»Narodne novine«, br. 38/2002.), izuzev sljedećeg obilježja s naličja: u gornjem dijelu višetonskog papira, uz vodoravni rub novčanice, tiskan je u dva retka tekst »ZAGREB, 9. SRPNJA 2012.«, »GUVERNER«. Ispod teksta tiskan je faksimil potpisa prof. dr. sc. Borisa Vujčića, guvernera Hrvatske narodne banke.
+3. Novčanica od 200 kuna s datumom izdanja 9. srpnja 2012. ima istovjetna osnovna obilježja utvrđena Odlukom o osnovnim obilježjima novčanice od 200 kuna - izdanje 7. ožujka 2002. (»Narodne novine«, br. 55/2002.), izuzev sljedećeg obilježja s naličja: u gornjem dijelu višetonskog papira, uz vodoravni rub novčanice, tiskan je u dva retka tekst »ZAGREB, 9. SRPNJA 2012.«, »GUVERNER«. Ispod teksta tiskan je faksimil potpisa prof. dr. sc. Borisa Vujčića, guvernera Hrvatske narodne banke.
+4. Novčanice od 100 i 200 kuna s datumom izdanja 9. srpnja 2012. puštaju se u optjecaj 1. srpnja 2013.
+5. Novčanice od 100 i 200 kuna s datumom izdanja 7. ožujka 2002. i nadalje su zakonsko sredstvo plaćanja u Republici Hrvatskoj.
+6. Ova Odluka stupa na snagu danom objave u »Narodnim novinama«.
+O. br. 786/2013.
