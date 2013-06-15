@@ -1,0 +1,44 @@
+## III. POSTUPAK IZDAVANJA SUGLASNOSTI ZA PREDSJEDNIKA ILI ČLANA UPRAVE I ČLANA NADZORNOG ODBORA KREDITNE INSTITUCIJE I DOKUMENTACIJA UZ ZAHTJEV
+# Članak 11.
+Zahtjev za izdavanje prethodne suglasnosti
+(1) Kreditna institucija može za predsjednika ili člana uprave odnosno člana nadzornog odbora imenovati osobu za koju je dobila prethodnu suglasnost Hrvatske narodne banke.
+(2) Zahtjev za izdavanje prethodne suglasnosti podnosi se Hrvatskoj narodnoj banci najkasnije tri mjeseca prije isteka mandata predsjednika ili člana uprave odnosno člana nadzornog odbora kreditne institucije. U slučaju opoziva, ostavke ili smrti člana nadzornog odbora ako time nadzorni odbor nema najmanje onoliko članova koliko je potrebno da bi na temelju zakona ili statuta mogao valjano odlučivati u radu, kreditna institucija dužna je zahtjev za izdavanje prethodne suglasnosti podnijeti Hrvatskoj narodnoj banci najkasnije dva mjeseca nakon nastupanja navedenih događaja.
+(3) Iznimno od stavaka 1. i 2. ovoga članka za osobe koje imenuje sud u skladu s člankom 46. stavkom 3. i člankom 52.a stavkom 3. Zakona o kreditnim institucijama, odnosno nadzorni odbor u skladu s člankom 46. stavkom 13. Zakona o kreditnim institucijama, kreditna institucija nije dužna dobiti prethodnu suglasnost Hrvatske narodne banke.
+(4) Zahtjev iz stavka 2. ovoga članka mora sadržavati funkciju i nadležnosti za koje se kandidat namjerava imenovati, obrazloženje odluke o odabiru kandidata te najmanje sljedeće:
+1) osobne podatke osobe koja se imenuje uključujući ime, prezime, djevojačko prezime, mjesto i datum rođenja, prebivalište odnosno boravište, državljanstvo i druge osobne podatke,
+2) informacije o obrazovanju uključujući kronološki popis svih stupnjeva obrazovanja s godinom završetka, trajanjem i stečenim akademskim zvanjem,
+3) informacije o stručnom usavršavanju uključujući kronološki popis svih oblika stručnog usavršavanja, pri čemu valja navesti teme, organizatore i trajanje, godine polaganja stručnih ispita, certifikata, licencija i slično,
+4) za strane državljane informacije o razini znanja hrvatskog jezika,
+5) informacije o radnom iskustvu, uključujući navođenje kronološkim redom svih dosadašnjih poslodavaca i radnih mjesta, odnosno funkcija koje su obavljali izvan radnog mjesta s naznakom razdoblja u kojima su obavljali pojedine funkcije,
+6) za radna mjesta ili funkcije na kojima je kandidat radio odnosno koje je obnašao u posljednjih deset godina, navodi se:
+• opis poslova koje je kandidat obavljao na tom radnom mjestu ili funkciji,
+• organizacijska struktura poslodavca kod kojeg su se poslovi obavljali odnosno funkcija obnašala u vrijeme kad je kandidat radio na tom radnom mjestu,
+• opseg nadležnosti, ovlasti za odlučivanje i odgovornost te
+• broj podređenih radnika,
+7) pri inicijalnom imenovanju u toj kreditnoj instituciji informaciju o preporuci koju daje izravno nadređena osoba, odnosno kod članova uprave član nadzornog odbora, u poslodavcu kod kojeg je kandidat radio posljednje tri godine ako su dostupne odnosno, ako nisu dostupne, obrazloženje razloga njihove nedostupnosti,
+8) informaciju o tome vodi li se protiv osobe postupak odnosno je li kandidat pravomoćno osuđen za jedno ili više kaznenih djela navedenih u članku 35. stavku 1. točki 1. podtočki i) Zakona o kreditnim institucijama i u članku 239. stavku 2. Zakona o trgovačkim društvima odnosno za bilo koje drugo kazneno djelo,
+9) informaciju o tome je li kandidat pravomoćno osuđen, je li protiv njega izrečena mjera i vode li nadležni sudovi ili tijela postupke protiv kandidata zbog nepravilnosti ili nepridržavanja bilo kojih propisa kojima se uređuje bankovna, financijska ili osiguravateljska djelatnost ili kojima se uređuje tržište vrijednosnih papira, vrijednosni papiri ili instrumenti platnog prometa ili kojima se regulira pružanje financijskih usluga ili bilo kojih drugih relevantnih propisa, a koji mogu dovesti u sumnju dobar ugled kandidata,
+10) informaciju o tome vodi li se protiv kandidata postupak odnosno je li kandidat pravomoćno osuđen za neki od prekršaja koji nisu navedeni u točki 9., a koji bi mogli negativno utjecati na financijsku stabilnost kandidata i njegov ugled,
+11) informaciju o tome je li kandidat ili društvo kojim je rukovodio postao dužnik u stečajnom ili sličnom postupku,
+12) informaciju o tome sudjeluje li kandidat kao stranka u građanskom ili upravnom postupku koji bi mogao negativno utjecati na financijsku stabilnost kandidata i njegov ugled,
+13) informaciju o financijskom stanju kandidata uključujući i informaciju o tome dovodi li imovina kandidata u pitanje ispunjenje njegovih financijskih obveza u budućnosti, nalazi li se kandidat na popisu neurednih dužnika (npr. HROK, lista poreznih dužnika Ministarstva financija, crna lista, kreditni registar i sl.) i je li nad imovinom kandidata pokrenut ovršni ili stečajni postupak ili postupak osobnog bankrota,
+14) informaciju o financijskim i poslovnim rezultatima trgovačkih društava u kojima kandidat jest ili je bio značajni dioničar ili u kojima kandidat ima ili je imao značajne poslovne udjele odnosno u kojima je obavljao funkciju člana uprave ili neku drugu rukovodeću funkciju, uključujući i informaciju o tome je li nad društvom provedena predstečajna nagodba, otvoren stečajni postupak, donesena odluka o prisilnoj likvidaciji ili mu je oduzeto odobrenje za rad,
+15) informaciju o tome je li procjenu primjerenosti osobe već provelo neko drugo nadležno tijelo (uključujući podatke o tom tijelu i dokaze o rezultatima procjene),
+16) informaciju o svim poslovnim odnosima osobe i s njom povezane osobe s kreditnom institucijom, članovima uprave, nadzornog odbora i nositeljima ključnih funkcija te kvalificiranim imateljem u toj kreditnoj instituciji, njoj nadređenom i njoj podređenim društvima i
+17) informaciju o rezultatu procjene primjerenosti koju je provela kreditna institucija i obrazloženju procjene.
+(5) Zahtjev iz stavka 2. ovoga članka podnosi se na obrascu iz Priloga 1. ove Odluke, kojem se prilažu:
+a) odluka o imenovanju kandidata za predsjednika ili člana uprave odnosno člana nadzornog odbora, odnosno ako je statutom predviđeno da određeni dioničar imenuje određeni broj članova nadzornog odbora prilaže se odluka tog dioničara o imenovanju člana nadzornog odbora,
+b) rezultati procjene primjerenosti koju je provela kreditna institucija s obrazloženjem,
+c) ovjerena preslika osobne iskaznice (odnosno ovjerena preslika putovnice za strane državljane),
+d) ovjerena preslika diplome (odnosno prijevod diplome stranog fakulteta koju je ovjerio stalni sudski tumač),
+e) za kandidate koji u trenutku podnošenja zahtjeva ne obnašaju funkciju predsjednika uprave, člana uprave ili člana nadzornog odbora u kreditnoj instituciji u Republici Hrvatskoj potvrda pravne osobe u kojoj je kandidat stekao iskustvo iz članka 6. stavka 4. i članka 8. stavka 2. ove Odluke, pri čemu valja navesti njegov opseg nadležnosti, ovlasti za odlučivanje i odgovornosti te, ako je izvedivo, broj podređenih zaposlenika,
+f) ispunjeni Upitnik iz Priloga 2. ove Odluke,
+g) ako su dostupne, preporuke izravno nadređenih osoba u poslodavcu barem za posljednje tri godine,
+h) izjavu o tome je li kandidat pravomoćno osuđen za jedno ili više kaznenih djela navedenih u članku 35. stavku 1. točki 1. podtočki i) Zakona o kreditnim institucijama i u članku 239. stavku 2. Zakona o trgovačkim društvima, odnosno za bilo koje drugo kazneno djelo, je li kandidat pravomoćno osuđen za neki od prekršaja te vodi li se protiv njega postupak,
+i) ako je dostupan izvod iz kaznene i prekršajne evidencije, i to:
+a. za državljane Republike Hrvatske uvjerenje općinskog suda o tome vodi li se protiv kandidata kazneni postupak, koje nije starije od tri mjeseca te
+b. za strane državljane podatke o prekršajnoj neosuđivanosti kandidata, o tome vodi li se protiv kandidata kazneni ili prekršajni postupak te o tome je li kandidat pravomoćno osuđen za kazneno djelo, koji nisu stariji od tri mjeseca i
+j) za kandidata koji se imenuje za predsjednika ili člana uprave program rada iz članka 12. ove Odluke.
+(6) Kada se ista osoba ponovno imenuje u upravu odnosno nadzorni odbor kreditne institucije, zahtjevu za izdavanje prethodne suglasnosti nije potrebno priložiti dokumente navedene pod točkama d), e) i g) stavka 5. ovoga članka.
+(7) Osim dokumenata iz stavka 5. ovoga članka zahtjevu se mogu priložiti i drugi dokumenti kojima se može potvrditi dobar ugled, stručna znanja, sposobnost i iskustvo kandidata.
+(8) Hrvatska narodna banka može od kreditne institucije koja je podnijela zahtjev za izdavanje prethodne suglasnosti za imenovanje predsjednika ili člana uprave odnosno člana nadzornog odbora zatražiti i druge dokumente, podatke i informacije kojima se dokazuje da kandidat ispunjava propisane uvjete za predsjednika ili člana uprave odnosno člana nadzornog odbora.
