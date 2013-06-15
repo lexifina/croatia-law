@@ -1,0 +1,1 @@
+Na temelju članka 104. i članka 209. stavka 5. Zakona o prostornom uređenju i gradnji (»Narodne novine«, br. 76/2007, 38/2009, 55/2011, 90/2011, 50/2012 i 55/2012) ministrica graditeljstva i prostornoga uređenja donosi
