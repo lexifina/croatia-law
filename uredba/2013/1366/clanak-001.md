@@ -1,0 +1,2 @@
+# Članak 1.
+Ovom se Uredbom propisuju granične vrijednosti sadržaja hlapivih organskih spojeva u određenim bojama i lakovima koji se koriste u graditeljstvu i proizvodima za završnu obradu vozila koji se smiju stavljati na tržište, način utvrđivanja i praćenja kvalitete proizvoda, način dokazivanja sukladnosti, naziv i označivanje proizvoda, način i rok dostave izvješća o kvaliteti proizvoda Agenciji za zaštitu okoliša (u daljnjem tekstu: Agencija) i način dostave podataka nadležnim tijelima Europske unije.
