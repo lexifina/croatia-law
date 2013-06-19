@@ -1,3 +1,0 @@
-# Članak 2.
-Ugovorne stranke suglasno potvrđuju da se na graničnim prijelazima Klek - Neum I i Zaton Doli - Neum II odvija slobodan i nesmetan promet u tranzitu kroz neumski koridor u skladu sa Sporazumom o slobodnom tranzitu kroz teritorij RH u i iz luke Ploče i kroz teritorij BiH u Neumu. Ovaj se Sporazum odnosi i na tranzit državljanja trećih država na koje se primjenjuju jednaki uvjeti koji vrijede za ulazak i izlazak hrvatskih državljana u i iz Bosne i Hercegovine. Kontrolu provoza robe i putnika kroz neumski koridor obavljat će nadležna tijela Republike Hrvatske i Bosne i Hercegovine.
-Preko ova dva granična prijelaza nema uvoza i izvoza roba u i iz Republike Hrvatske kao ni u i iz Bosne i Hercegovine.

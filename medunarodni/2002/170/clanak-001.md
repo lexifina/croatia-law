@@ -1,2 +1,0 @@
-# Članak 1.
-Potvrđuje se Ugovor o određivanju graničnih prijelaza između Republike Hrvatske i Bosne i Hercegovine, potpisan u Zagrebu, 6. travnja 2001., u izvorniku na hrvatskom i na službenim jezicima naroda Bosne i Hercegovine i Aneks Ugovora o određivanju graničnih prijelaza između Republike Hrvatske i Bosne i Hercegovine, potpisan u Zagrebu 11. prosinca 2001. u izvorniku na hrvatskom i na službenim jezicima naroda Bosne i Hercegovine.
