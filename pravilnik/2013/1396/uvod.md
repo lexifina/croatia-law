@@ -1,0 +1,1 @@
+Na temelju članka 39. stavka 7. Zakona o medicinski pomognutoj oplodnji (»Narodne novine«, broj 86/2012) uz prethodno pribavljeno mišljenje Nacionalnog povjerenstva za medicinski pomognutu oplodnju i Hrvatskog društva za ginekološku endokrinologiju i humanu reprodukciju Hrvatskog liječničkog zbora, ministar zdravlja donosi
