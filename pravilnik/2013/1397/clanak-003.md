@@ -1,0 +1,2 @@
+# Članak 3.
+Pristanak bračnih, odnosno izvanbračnih drugova koji su odustali o vlastitog korištenja zametka nastalog za njihovu prokreaciju za darivanje toga zametka za prokreaciju drugih bračnih, odnosno izvanbračnih drugova ili ženi iz članka 10. stavka 2. Zakona o medicinski pomognutoj oplodnji (»Narodne novine«, broj 86/2012), daje se na obrascu pristanka koji se nalazi u Prilogu II. ovoga Pravilnika i čini njegov sastavni dio.
