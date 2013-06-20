@@ -1,0 +1,2 @@
+# Članak 2.
+Ovim se Pravilnikom u pravni poredak Republike Hrvatske prenosi Direktiva Komisije 2006/86/EZ od 24. listopada 2006. kojom se provodi Direktiva 2004/23/EZ Europskoga parlamenta i Vijeća s obzirom na zahtjeve za praćenjem, prijavu ozbiljnih neželjenih reakcija i pojava te određene tehničke zahtjeve vezane uz označivanje, obradu, čuvanje, skladištenje i raspodjelu tkiva i stanica ljudskog podrijetla (SL L 294, 25. 10. 2006.).
