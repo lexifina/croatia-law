@@ -1,0 +1,2 @@
+# Članak 1.
+U Uredbi o opsegu i sadržaju odgovornosti te ovlastima tijela nadležnih za upravljanje Instrumentom pretpristupne pomoći (IPA) (»Narodne novine«, br. 29/2012 i 117/2012), u članku 14. stavku 1. riječi: »Ministarstvo gospodarstva, Uprava za konkurentnost i investicije, Sektor za konkurentnost« zamjenjuju se riječima: »Ministarstvo regionalnoga razvoja i fondova Europske unije, Uprava za upravljanje operativnim programima, Sektor za provedbu operativnih programa«.
