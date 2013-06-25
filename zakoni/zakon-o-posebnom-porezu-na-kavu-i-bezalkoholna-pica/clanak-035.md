@@ -1,0 +1,2 @@
+# Članak 35.
+Ministar financija donijet će pravilnik iz članka 4. stavka 4., članka 8. stavka 10., članka 9. stavka 6., članka 10. stavka 6., članka 11. stavka 10., članka 12. stavka 6., članka 13. stavka 5., članka 14. stavka 3., članka 15. stavka 5., članka 16. stavka 3., članka 19. stavka 5., članka 20. stavka 4., članka 21. stavka 11., članka 25. stavka 4. i članka 34. stavka 2. ovoga Zakona najkasnije u roku od 30 dana od dana stupanja na snagu ovoga Zakona.

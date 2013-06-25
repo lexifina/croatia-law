@@ -1,0 +1,6 @@
+# Članak 15.
+(1) U zahtjevu za porezno odobrenje za ovlaštenog držatelja poreznog skladišta i za porezno skladište podnositelj je dužan navesti identifikacijske podatke, osobni identifikacijski broj (OIB), registriranu djelatnost, vrstu, trgovački naziv i tarifnu oznaku predmeta oporezivanja iz Kombinirane nomenklature, predviđenu količinu godišnje proizvodnje te okvirnu količinu proizvoda za skladištenje. Uz zahtjev se prilaže i dokumentacija o lokaciji poreznog skladišta, opis prostorija, pojedinih proizvodnih postupaka, uključujući podatke o uređajima koji omogućuju mjerenje proizvedenih, prerađenih, skladištenih i otpremljenih količina predmeta oporezivanja te opis rada računovodstvenog sustava.
+(2) Nadležni carinski ured će prije donošenja poreznog odobrenja za ovlaštenog držatelja poreznog skladišta i za porezno skladište utvrditi vjerodostojnost podataka navedenih u zahtjevu i prilozima iz stavka 1. ovoga članka te neposredno utvrditi jesu li ispunjeni uvjeti za izdavanje poreznog odobrenja.
+(3) Za otvaranje svakog budućeg poreznog skladišta ovlašteni držatelj poreznog skladišta podnosi novi zahtjev.
+(4) Odobrenje kojim se zahtjev usvaja postaje izvršno danom dostave.
+(5) Ministar financija pravilnikom propisuje provedbu ovoga članaka.

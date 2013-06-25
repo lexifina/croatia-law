@@ -1,0 +1,21 @@
+## II. DEFINICIJE
+# Članak 3.
+(1) U smislu ovoga Zakona pojedini pojmovi imaju sljedeće značenje:
+a) Carinski ured je ustrojstvena jedinica Ministarstva financija, Carinske uprave (u daljnjem tekstu: Carinska uprava) u kojoj se obavljaju poslovi predviđeni carinskim, trošarinskim, poreznim i drugim propisima koji su joj stavljeni u nadležnost.
+b) Proizvođač je pravna i fizička osoba koja proizvodi ili za svoj račun daje proizvoditi predmete oporezivanja na području Republike Hrvatske. Proizvođač može biti ovlašteni držatelj poreznog skladišta.
+c) Trgovac je svaka osoba registrirana za obavljanje djelatnosti prodaje predmeta oporezivanja na području Republike Hrvatske koja radi daljnje prodaje uvozi, unosi ili prima predmete oporezivanja u Republiku Hrvatsku. Trgovac može biti ovlašteni držatelj poreznog skladišta.
+d) Primatelj je svaka osoba koja isključivo za vlastite potrebe uvozi, unosi ili prima predmete oporezivanja bez daljnje prodaje.
+e) Unos predmeta oporezivanja je svaki unos u Republiku Hrvatsku s teritorija države članice Europske unije, kako je propisano zakonodavstvom Europske unije, osim iz trećih teritorija.
+f) Uvoz predmeta oporezivanja je svaki unos u Europsku uniju iz trećih država, odnosno trećih teritorija, osim ako ovim Zakonom nije drukčije propisano.
+g) Stavljanje na tržište u Republici Hrvatskoj je:
+– otpuštanje predmeta oporezivanja iz sustava odgode plaćanja posebnog poreza,
+– proizvodnja predmeta oporezivanja izvan sustava odgode plaćanja posebnog poreza,
+– unos, uvoz ili primanje predmeta oporezivanja, osim ako se predmeti oporezivanja neposredno nakon unosa, uvoza ili primanja stavljaju u sustav odgode plaćanja posebnog poreza.
+h) Nezakonito postupanje je proizvodnja, otpuštanje iz sustava odgode, prerada, uvoz, unos, prodaja, kupnja ili posjedovanje predmeta oporezivanja na koje nije na način propisan ovim Zakonom obračunat ili plaćen posebni porez. Nezakonito postupanje se smatra stavljanjem predmeta oporezivanja na tržište u Republici Hrvatskoj.
+i) Sustav odgode plaćanja posebnog poreza (u daljnjem tekstu: sustav odgode) je porezni sustav koji se primjenjuje na primanje, proizvodnju, preradu (obradu), skladištenje, otpremu i izvođenje drugih radnji s predmetima oporezivanja u kojem je obveza plaćanja posebnog poreza odgođena.
+j) Porezno odobrenje je akt Carinske uprave kojim se odobrava primanje, proizvodnja, prerada (obrada), skladištenje, otprema i izvođenje drugih radnji s predmetima oporezivanja u poreznom skladištu u sustavu odgode.
+k) Porezno skladište je prostor u kojem ovlašteni držatelj poreznog skladišta sukladno odobrenju Carinske uprave prima, proizvodi, prerađuje (obrađuje), skladišti, otprema i obavlja druge radnje s predmetima oporezivanja u sustavu odgode. U poreznom skladištu je dozvoljeno obavljati radnje s proizvodima koji nisu predmet oporezivanja sukladno odredbama ovoga Zakona.
+l) Ovlašteni držatelj poreznog skladišta je osoba koja na temelju poreznog odobrenja u poreznom skladištu prima, proizvodi, prerađuje (obrađuje), skladišti, otprema i izvodi druge radnje s predmetima oporezivanja u sustavu odgode.
+m) Otpuštanje predmeta oporezivanja iz sustava odgode je potrošnja predmeta oporezivanja za vlastite potrebe unutar poreznog skladišta i otprema predmeta oporezivanja iz poreznog skladišta osobi koja nije ovlaštena primati predmete oporezivanja u sustavu odgode. Otpuštanjem predmeta oporezivanja iz sustava odgode se ne smatra izvoz ili iznos predmeta oporezivanja iz područja Republike Hrvatske.
+n) Voćni sirup je proizvod sirupaste konzistencije sa sadržajem suhe tvari najmanje 65%, proizvedene od voćnog soka ili koncentriranog voćnog soka, citrus baza ili drugih voćnih baza i voćne pulpe (u slučaju jagodičastog voća i višanja) s dodanim šećerom ili šećernim sirupom, ali bez dodanih konzervansa. Svojstvo voćnog sirupa se dokazuje analitičkim izvješćem izdanim od ovlaštene pravne osobe koja s proizvođačem ili trgovcem nije u odnosu povezanih osoba u smislu Općeg poreznog zakona.
+(2) Na određenje i tumačenje pojmova unos, uvoz, treći teritorij te drugih odredaba ovoga Zakona koje se odnose na područje njegove primjene na odgovarajući način se primjenjuju odredbe trošarinskih propisa koji su na snazi u Republici Hrvatskoj.
