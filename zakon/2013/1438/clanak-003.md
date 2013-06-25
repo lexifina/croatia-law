@@ -1,0 +1,2 @@
+# Članak 3.
+U članku 20. stavku 1. iza riječi: »vođenje« dodaju se riječi: »poslova vezanih uz funkcioniranje informatičkog sustava i vođenje«, a iza riječi: »financijsko i materijalno poslovanje državnog odvjetništva« stavlja se zarez i dodaju riječi: »upravljanje zgradom i nekretninama dodijeljenim državnom odvjetništvu na korištenje, davanje obavijesti o radu državnog odvjetništva u skladu sa zakonom i Poslovnikom državnog odvjetništva«.
