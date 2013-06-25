@@ -1,0 +1,1 @@
+Na temelju članka 27.a stavka 3. Zakona o uređenju tržišta poljoprivrednih proizvoda (»Narodne novine«, br. 149/2009, 22/2011 i 120/2012), Vlada Republike Hrvatske je na sjednici održanoj 20. lipnja 2013. godine donijela

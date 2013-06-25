@@ -1,0 +1,5 @@
+# Članak 21.
+(1) U slučaju utvrđene fiktivne trgovine iz članka 20. stavka 3. ove Uredbe utvrđuje se obveza osiguranja financijskih garancija, koja se jednako odnosi na prodavatelja i na kupca šećera i izoglukoze na temelju solidarne odgovornosti sudionika u predmetnom trgovinskom odnosu.
+(2) Financijska garancija iz stavka 1. ovoga članka može biti novčani depozit ili garancija banke.
+(3) Iznos garancije iz stavka 1. ovoga članka istovjetan je iznosu naknade iz članka 14. stavka 5. ove Uredbe obračunato uz količinu koja je predmet prodaje ili kupnje, a osigurava se u korist državnog proračuna Republike Hrvatske.
+(4) Nadležno tijelo rješenjem utvrđuje način i rokove unutar kojih potencijalni sudionici u fiktivnoj trgovini šećerom i izoglukozom dostavljaju financijske garancije u korist državnog proračuna Republike Hrvatske, kao i način i rok otpuštanja garancija polazeći od rokova definiranih Uredbom Komisije (EU) br. 170/2013 unutar kojih može postojati obveza uklanjanja špekulativnih zaliha šećera s tržišta Europske unije.

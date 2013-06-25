@@ -1,0 +1,5 @@
+# Članak 13.
+(1) Ako se u Republici Hrvatskoj u skladu s Uredbom Komisije (EU) br. 170/2013 utvrdi višak zbirnih zaliha šećera i/ili šećernog ekvivalenta za proizvode iz sektora šećera u odnosu na normalnu razinu zaliha na dan 1. srpnja 2013. godine za tako utvrđene prekomjerne zalihe:
+- provest će se naplata naknade od Republike Hrvatske u korist proračuna Europske unije ako budu ispunjeni uvjeti iz članka 10. Uredbe Komisije (EU) br. 170/2013;
+- utvrdit će se obveza uklanjanja šećera ili izoglukoze za količine prekomjernih zaliha šećera u proizvodima sektora šećera s tržišta Europske unije s rokom najkasnije do 31. listopada 2014. godine, a bez prava na korištenje sustava intervencija Europske unije i sredstava nacionalne potpore.
+(2) U slučaju da Republika Hrvatska za dio ili cijelu količinu ne dostavi dokaze da je provedena obveza uklanjanja količina prekomjernih zaliha iz stavka 1. ovoga članka u utvrđenom roku, Europska komisija će za neuklonjene količine sukladno članku 12. stavku 2. Uredbe Komisije (EU) br. 170/2013 provesti naplatu naknade od Republike Hrvatske u korist proračuna Europske unije.

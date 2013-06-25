@@ -1,0 +1,6 @@
+# Članak 14.
+(1) Količine zaliha iz članka 13. stavka 1. ove Uredbe za koje Europska komisija utvrdi da prekoračuju razinu normalnih zaliha na dan 1. srpnja 2013. godine smatraju se špekulativnim zalihama.
+(2) Nadležno tijelo utvrđuje vlasnika i pripadajuće količine špekulativnih zaliha iz članka 13. stavka 1. ove Uredbe sukladno člancima 16. i 17. ove Uredbe.
+(3) Vlasnicima špekulativnih zaliha se utvrđuje obveza plaćanja naknade u korist državnog proračuna Republike Hrvatske, ako budu ispunjeni uvjeti iz članka 11. točke 3. Uredbe Komisije (EU) br. 170/2013.
+(4) Vlasnici špekulativnih zaliha iz stavka 2. ovoga članka smatraju se uzročnicima poremećaja na tržištu šećera na koje se prenose obveze uklanjanja špekulativnih zaliha šećera ili izoglukoze u roku koji je utvrđen člankom 9. Uredbe Komisije (EU) br. 170/2013.
+(5) Ako vlasnik špekulativnih zaliha iz stavka 2. ovoga članka ne provede obvezu uklanjanja špekulativnih zaliha šećera u roku i na način koji je utvrđen člancima 9. i 11. Uredbe Komisije (EU) br. 170/2013, za količine koje nije uklonio nadležno tijelo utvrdit će obvezu plaćanja naknade u iznosu od 500 eura po toni (u ekvivalentu bijelog šećera ili suhe tvari) u korist državnog proračuna Republike Hrvatske.

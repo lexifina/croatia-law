@@ -1,0 +1,4 @@
+# Članak 8.
+(1) Vlasnik zaliha mora utvrditi stanje zaliha poljoprivrednih i prehrambenih proizvoda na dan 30. lipnja 2013. godine i o popisu zaliha treba sastaviti zapisnik na obrascu iz Priloga 2. ove Uredbe te ga dostaviti nadležnom tijelu do 15. kolovoza 2013. godine.
+(2) Vlasnik zaliha koji pri popisu zaliha primjenjujući kriterije iz članka 7. ove Uredbe utvrdi prekoračenje zaliha mora pored zapisnika iz stavka 1. ovoga članka, najkasnije do 15. kolovoza 2013. godine tijelu, nadležnom za carinski nadzor podnijeti obračun naknada za prekoračenje zaliha na obrascu iz Priloga 3. ove Uredbe.
+(3) Ako se pri podnošenju zapisnika iz stavka 1. ovoga članka vlasnik zaliha za pojedine proizvode poziva na okolnosti predviđene člankom 7. stavcima 2. i 3. ove Uredbe mora uz zapisnik priložiti i dokaze o tim okolnostima i obračun za te pojedine proizvode u skladu s Prilogom 5. ove Uredbe.
