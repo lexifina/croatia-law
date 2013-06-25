@@ -1,0 +1,1 @@
+Na temelju članka 56. stavak 2., članka 57. stavak 2., članka 58. stavak 2. i članka 71. stavak 4. Zakona o sjemenu, sadnom materijalu i priznavanju sorti poljoprivrednog bilja (»Narodne novine« broj 140/05, 35/08, 25/09, 124/10 i 55/11), ministar poljoprivrede donosi
