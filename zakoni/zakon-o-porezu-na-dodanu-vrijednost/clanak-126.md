@@ -1,0 +1,7 @@
+## XVI. POREZNI ZASTUPNIK
+# Članak 126.
+(1) Ako je prema članku 75. ovoga Zakona PDV obvezan platiti porezni obveznik koji u tuzemstvu nema sjedište, ali ima sjedište u drugoj državi članici, taj porezni obveznik može imenovati poreznog zastupnika kao osobu koja je obvezna platiti PDV.
+(2) Ako je prema članku 75. ovoga Zakona PDV obvezan platiti porezni obveznik koji nema sjedište u tuzemstvu niti na području Europske unije, ali ima sjedište u trećoj zemlji ili na trećem području, taj porezni obveznik mora imenovati poreznog zastupnika kao osobu koja je obvezna platiti PDV ako Republika Hrvatska nije sklopila sporazume o međusobnoj pomoći koji su po opsegu slični onima koji su propisani Direktivom Vijeća 2010/24/EU od 16. ožujka 2010. o uzajamnoj pomoći kod naplate potraživanja vezanih za poreze, carine i druge mjere (SL L 84, 31. 3. 2010.) i Uredbom Vijeća (EU) br. 904/2010 od 7. listopada 2010. o administrativnoj suradnji i suzbijanju prijevare u području poreza na dodanu vrijednost (SL L 268, 12. 10. 2010.). Porezni obveznik iz ovoga stavka ne mora imenovati poreznog zastupnika u slučaju kada taj porezni obveznik obavlja usluge prema posebnom postupku oporezivanja za elektronički obavljene usluge iz članka 119. ovoga Zakona.
+(3) Porezni zastupnici iz ovoga članka moraju biti porezni obveznici sa sjedištem odnosno prebivalištem ili uobičajenim boravištem u tuzemstvu.
+(4) Porezni zastupnik odgovara kao jamac platac za plaćanje PDV-a.
+(5) Ministar financija pravilnikom propisuje provedbu ovoga članka u vezi poreznih zastupnika.

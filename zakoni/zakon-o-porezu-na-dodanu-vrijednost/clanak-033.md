@@ -1,0 +1,18 @@
+# Članak 33.
+(1) Poreznom osnovicom pri isporuci dobara i usluga smatra se naknada koju čini sve ono što je isporučitelj primio ili treba primiti od kupca ili neke druge osobe za te isporuke uključujući iznose subvencija koji su izravno povezani s cijenom isporučenih dobara ili usluga.
+(2) U poreznu osnovicu uračunavaju se iznosi poreza, carina, pristojbi i sličnih davanja, osim PDV-a, te sporedni troškovi kao što su provizije, troškovi pakiranja, prijevoza i osiguranja koje isporučitelj dobara ili usluga zaračunava kupcu ili primatelju.
+(3) U poreznu osnovicu ne ulaze sniženja cijena, odnosno popusti zbog prijevremenog plaćanja i popusti što se kupcu odobre u trenutku isporuke, kao ni iznosi koje porezni obveznik zaračuna ili primi od kupca kao povrat za izdatke koje je platio u njegovo ime i za njegov račun i koje u evidencije unosi kao prolazne stavke. Porezni obveznik mora imati dokaze o iznosu izdataka u vezi s prolaznim stavkama i ne može odbiti PDV ako je na njih obračunan.
+(4) Porezna osnovica kod isporuka dobara iz članka 7. stavaka 3. i 8. ovoga Zakona je nabavna cijena tih ili sličnih dobara, a ako je ta cijena nepoznata, visina troškova utvrđenih u trenutku isporuke.
+(5) Porezna osnovica kod usluga iz članka 8. stavka 3. ovoga Zakona je ukupni trošak obavljanja usluga.
+(6) Kod premještanja dobara u drugu državu članicu u smislu članka 7. stavaka 5. i 7. ovoga Zakona porezna osnovica je nabavna cijena tih ili sličnih dobara, a ako je ta cijena nepoznata, visina troškova utvrđenih u trenutku premještanja dobara.
+(7) Ako se porezna osnovica promijeni naknadno zbog opoziva, različitih vrsta popusta ili nemogućnosti naplate, tada porezni obveznik koji je isporučio dobra ili obavio uslugu može ispraviti iznos PDV-a ako porezni obveznik kome su isporučena dobra ili obavljene usluge ispravi odbitak pretporeza i o tome pisano izvijesti isporučitelja.
+(8) U poreznu osnovicu ne ulazi trošak povratne ambalaže o kojoj se vodi posebna evidencija.
+(9) U slučaju isporuka dobara i obavljanja usluga osobama koje su u obiteljskim i drugim bliskim osobnim vezama s poreznim obveznikom te u slučaju postojanja financijskih i pravnih veza, uključujući odnose poslodavca i zaposlenika kao i članova njihovih obitelji, veza na temelju članstva, upravljanja ili vlasništva, poreznom osnovicom smatra se tržišna vrijednost u smislu stavka 10. ovoga članka ako je:
+a) naknada niža od tržišne vrijednosti, a primatelj isporuke nema pravo na odbitak pretporeza u cijelosti u smislu ovoga Zakona,
+b) naknada niža od tržišne vrijednosti, a isporučitelj nema pravo na odbitak pretporeza u cijelosti u smislu ovoga Zakona i radi se o isporukama koje su oslobođene PDV-a u skladu s odredbama članka 39. stavka 1. i članka 40. stavaka 1. i 2. ovoga Zakona,
+c) naknada viša od tržišne vrijednosti, a isporučitelj nema pravo na odbitak pretporeza u cijelosti u smislu ovoga Zakona.
+(10) Tržišnom vrijednosti smatra se ukupni iznos kojeg bi kupac ili naručitelj u trenutku isporuke dobra ili obavljene usluge prema načelu nenarušavanja tržišnog natjecanja morao platiti isporučitelju dobara ili pružatelju usluge u tuzemstvu. Ako se ne može utvrditi usporediva isporuka dobara ili usluga, tada se tržišnom vrijednosti smatra:
+a) kada je riječ o dobrima, iznos koji nije niži od nabavne cijene tih ili sličnih dobara ili ako je ta cijena nepoznata, ukupna visina utvrđenih troškova u trenutku isporuke,
+b) kada je riječ o uslugama, iznos koji nije niži od ukupnih utvrđenih troškova obavljanja usluga koje snosi porezni obveznik.
+(11) Ministar financija pravilnikom propisuje provedbu ovoga članka o poreznoj osnovici.
+2. Porezna osnovica kod stjecanja dobara unutar Europske unije

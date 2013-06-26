@@ -1,0 +1,2 @@
+# Članak 125.
+Porezni obveznik iz članka 120. stavka 1. ovoga Zakona mora voditi evidenciju o transakcijama obuhvaćenima ovim posebnim postupkom oporezivanja kako bi omogućio poreznom tijelu države članice potrošnje provjeru točnosti prijave PDV-a. Ta evidencija mora na zahtjev, u elektroničkom obliku biti stavljena na raspolaganje Poreznoj upravi Republike Hrvatske i poreznom tijelu države članice potrošnje. Porezni obveznik je dužan podatke čuvati 10 godina od završetka godine u kojoj su transakcije obavljene.

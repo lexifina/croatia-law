@@ -1,0 +1,10 @@
+## IV. POREZNI OBVEZNIK
+# Članak 6.
+(1) »Porezni obveznik« u smislu ovoga Zakona je svaka osoba koja samostalno obavlja bilo koju gospodarsku djelatnost bez obzira na svrhu i rezultat obavljanja te djelatnosti.
+(2) »Gospodarska djelatnost« u smislu stavka 1. ovoga članka je svaka djelatnost proizvođača, trgovaca ili osoba koje obavljaju usluge, uključujući rudarske i poljoprivredne djelatnosti te djelatnosti slobodnih zanimanja. Gospodarskom djelatnošću smatra se i iskorištavanje materijalne ili nematerijalne imovine u svrhu trajnog ostvarivanja prihoda.
+(3) »Samostalnost« u smislu stavka 1. ovoga članka ne postoji u slučaju zaposlenika i drugih osoba koje su povezane s poslodavcem ugovorom o radu ili drugim ugovorom kojim se uređuje odnos poslodavca i posloprimca glede radnih uvjeta, naknada i obveza poslodavca, a koji ima obilježja nesamostalnosti.
+(4) Poreznim obveznikom smatra se i svaka osoba koja povremeno isporučuje nova prijevozna sredstva iz članka 4. stavka 3. ovoga Zakona, koja kupcu otpremi ili preveze prodavatelj, sam kupac ili druga osoba za njihov račun na područje druge države članice.
+(5) Poreznim obveznicima u smislu stavka 1. ovoga članka ne smatraju se tijela državne vlasti, tijela državne uprave, tijela i jedinice lokalne i područne (regionalne) samouprave, komore te druga tijela s javnim ovlastima i u slučaju kada ubiru pristojbe, naknade i druga plaćanja u vezi s obavljanjem djelatnosti ili transakcija u okviru svog djelokruga ili ovlasti. Ako bi obavljanje tih djelatnosti, kao da nisu porezni obveznici, dovelo do znatnog narušavanja načela tržišnog natjecanja kod obavljanja takvih djelatnosti ili transakcija, ta se tijela smatraju poreznim obveznicima u vezi s tim djelatnostima ili transakcijama. U slučaju da obavljaju djelatnosti iz Dodatka I. ovoga Zakona smatrat će se poreznim obveznicima, osim ako ih obavljaju u zanemarivom opsegu.
+(6) Ministar financija pravilnikom propisuje provedbu ovoga članka.
+V. OPOREZIVE TRANSAKCIJE
+1. Isporuka dobara

@@ -1,0 +1,24 @@
+# Članak 7.
+(1) »Isporuka dobara« u smislu članka 4. stavka 1. točke 1. ovoga Zakona je prijenos prava raspolaganja materijalnom imovinom u svojstvu vlasnika. Materijalnom imovinom smatra se isporuka električne energije, plina, grijanja, hlađenja i slično.
+(2) Isporukom dobara u smislu stavka 1. ovoga članka također se smatra:
+a) prijenos vlasništva nad imovinom uz nadoknadu po nalogu nadležnih državnih tijela ili u njihovo ime ili na temelju odredbi zakona,
+b) stvarna predaja dobara na raspolaganje prema ugovoru o najmu dobara, odnosno o leasingu na određeno vrijeme ili o prodaji dobara uz odgodu plaćanja, koji određuje da se vlasništvo nad tim dobrima stječe najkasnije nakon plaćanja zadnjeg obroka,
+c) prijenos dobara na temelju ugovora prema kojem se plaća provizija za kupnju ili prodaju.
+(3) Isporukom dobara uz naknadu smatra se korištenje dobara koja čine dio poslovne imovine poreznog obveznika za njegove privatne potrebe ili za privatne potrebe njegovih zaposlenika, ako raspolažu njima bez naknade ili ih općenito koriste u druge svrhe osim za potrebe obavljanja djelatnosti poreznog obveznika, a za ta je dobra ili njihove dijelove u cijelosti ili djelomično odbijen pretporez.
+(4) Iznimno od stavka 3. ovoga članka isporukom dobara uz naknadu ne smatra se besplatno davanje uzoraka u razumnim količinama kupcima ili budućim kupcima i davanje poklona male vrijednosti koje obavi porezni obveznik u okviru obavljanja gospodarske djelatnosti, uz uvjet da se daju povremeno i ne istim osobama. Poklonima male vrijednosti smatraju se pokloni čija vrijednost nije veća od 160,00 kuna.
+(5) Isporukom dobara uz naknadu smatra se premještanje dobara koja su dio poslovne imovine poreznog obveznika koja je za potrebe svojeg poslovanja otpremio ili prevezao sam porezni obveznik ili druga osoba za njegov račun u drugu državu članicu.
+(6) Premještanjem dobara unutar Europske unije u smislu stavka 5. ovoga članka ne smatra se otprema ili prijevoz dobara u svrhu bilo kojeg od navedenih slučajeva:
+a) za isporuku tih dobara koju obavi porezni obveznik na području države članice u kojoj završava otprema ili prijevoz u skladu s uvjetima iz članka 13. stavaka 3. i 4. ovoga Zakona,
+b) za isporuku tih dobara koju obavi porezni obveznik na brodu, u zrakoplovu ili vlaku prema odredbama članka 14. ovoga Zakona,
+c) za isporuku tih dobara koja je oslobođena plaćanja PDV-a prema članku 41. stavku 1. te člancima 45., 46., 47. i 48. ovoga Zakona,
+d) za obavljanje usluge procjene vrijednosti dobara ili rada na tim dobrima poreznom obvezniku u državi članici u kojoj otprema ili prijevoz dobara završavaju, pod uvjetom da se dobra nakon obavljanja usluge procjene ili rada na njima vrate istom poreznom obvezniku u tuzemstvo,
+e) za privremeno korištenje dobara u svrhu obavljanja usluga u drugoj državi članici u kojoj završava prijevoz ili otprema tih dobara, kada te usluge obavlja porezni obveznik koji ima sjedište u tuzemstvu,
+f) za privremeno korištenje dobara u razdoblju koje nije dulje od 24 mjeseca, unutar područja druge države članice u kojoj bi uvoz istih dobara s područja treće zemlje, s ciljem njihovog privremenog korištenja, bio obuhvaćen postupkom privremenog uvoza s potpunim oslobođenjem od plaćanja uvoznih carina,
+g) za isporuku plina putem sustava za prirodni plin koji se nalazi na području Europske unije ili bilo koje mreže priključene na takav sustav, za isporuku električne energije, grijanja ili hlađenja preko mreže za grijanje ili hlađenje, pod uvjetima iz članka 15. ovoga Zakona,
+h) za isporuku tih dobara koju obavi porezni obveznik, u svrhu njihovog sastavljanja ili postavljanja koje obavi isporučitelj ili druga osoba za njegov račun, u državu članicu u kojoj završava otprema ili prijevoz u skladu s uvjetima iz članka 13. stavka 10. ovoga Zakona.
+(7) Ako neki od navedenih uvjeta iz stavka 6. ovoga članka više nije ispunjen, smatra se da su dobra premještena u drugu državu članicu. U tom slučaju smatra se da su dobra premještena u trenutku kada taj uvjet više nije ispunjen.
+(8) Isporukom dobara uz naknadu smatra se ako porezni obveznik ili njegov sljednik zadrži dobra nakon prestanka obavljanja gospodarske djelatnosti, a pri nabavi tih dobara PDV je u cijelosti ili djelomično odbijen.
+(9) Kod prijenosa uz naknadu ili bez naknade, ili u obliku uloga u društvo, ukupne imovine ili njezinog dijela koji čini gospodarsku cjelinu na drugog poreznog obveznika (primatelja) smatra se da nije došlo do isporuke, a taj porezni obveznik smatra se pravnim sljednikom prenositelja.
+(10) Ako primatelj iz stavka 9. ovoga članka koristi preuzetu imovinu u druge svrhe osim za one za koje ima pravo na odbitak pretporeza obvezan je obračunati i platiti PDV sukladno odredbama ovoga Zakona.
+(11) Ministar financija pravilnikom propisuje provedbu ovoga članka o tome što se smatra isporukom dobara.
+2. Obavljanje usluga

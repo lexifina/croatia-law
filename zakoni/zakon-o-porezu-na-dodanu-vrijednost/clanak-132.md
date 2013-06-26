@@ -1,0 +1,3 @@
+## XXI. PRIJELAZNE I ZAVRŠNE ODREDBE
+# Članak 132.
+Porezni obveznici koji su osobne automobile ili druga sredstva za osobni prijevoz poreznog obveznika, poslovodnih, rukovodnih i drugih zaposlenih nabavili do 31. prosinca 2009. koristili pravo na odbitak pretporeza, te obračunavali i plaćali PDV na 30% iznosa troška amortizacije za iznos do 400.000,00 kuna nabavne vrijednosti tih sredstava, odnosno na 100% iznosa troška amortizacije za iznos koji prelazi 400.000,00 kuna nabavne vrijednosti, obvezni su i dalje obračunavati i plaćati PDV na vlastitu potrošnju na 30%, odnosno 100% iznosa troška amortizacije do isteka amortizacijskog vijeka, odnosno trenutka prodaje, darovanja, otuđenja na drugi način ili uništenja tih sredstava.

@@ -1,0 +1,19 @@
+# Članak 78.
+(1) Svaki porezni obveznik obvezan je izdati račun za:
+1. isporuke dobara i usluga koje je obavio drugom poreznom obvezniku ili pravnoj osobi koja nije porezni obveznik,
+2. isporuke dobara u smislu članka 13. stavaka 3. i 4. ovoga Zakona,
+3. isporuke dobara izvršene u skladu s uvjetima utvrđenima člankom 41. stavkom 1. ovoga Zakona,
+4. svaki predujam primljen prije obavljene isporuke dobara iz točaka 1. i 2. ovoga stavka i
+5. svaki predujam primljen od drugoga poreznog obveznika ili pravne osobe koja nije porezni obveznik prije završetka obavljanja usluga.
+(2) Porezni obveznik koji obavlja isporuke u smislu članka 13. stavaka 7. i 8. ovoga Zakona također je obvezan izdavati račune.
+(3) Iznimno od stavka 1. i 2. ovoga članka porezni obveznik nije obvezan izdati račun za obavljene usluge koje su oslobođene PDV-a prema članku 40. stavku 1. točkama a) do g) ovoga Zakona, osim u slučaju obavljanja mjenjačkih poslova u tuzemstvu.
+(4) Račun se mora izdati najkasnije petnaestog dana u mjesecu nakon mjeseca u kojem je nastao oporezivi događaj za isporuke dobara obavljene u skladu s uvjetima utvrđenim člankom 41. stavkom 1. ovoga Zakona ili isporuke usluga za koje je primatelj obvezan platiti PDV u skladu s člankom 196. Direktive Vijeća 2006/112/EZ.
+(5) Porezni obveznik može izdati zbirni račun za više zasebnih isporuka dobara ili usluga, pod uvjetom da PDV na isporuke navedene u zbirnom računu obračunava tijekom istog kalendarskog mjeseca.
+(6) Račun može izdati i primatelj za dobra i usluge koje mu je porezni obveznik isporučio, odnosno obavio, pod uvjetom da o tome postoji sporazum između tih dviju strana i pod uvjetom da je utvrđen postupak za prihvaćanje svakog računa kod poreznog obveznika koji obavlja isporuku dobara i usluga.
+(7) Račun koji izdaje isporučitelj i račun koji izdaje primatelj isporuke je svaka isprava prema kojoj porezni obveznik ili osoba kojoj on naloži zaračunava isporučena dobra i obavljene usluge, bez obzira na to kako se ta isprava naziva u poslovnom prometu.
+(8) Svaka isprava ili obavijest koja mijenja prvobitni račun i koja se izričito i nedvojbeno odnosi na njega smatra se računom.
+(9) Za izdavanje računa primjenjuju se pravila na temelju ovoga Zakona, ako se račun odnosi na isporuke dobara i usluga za koje se u skladu s odredbama članaka 12. do 28. ovoga Zakona smatra da su obavljene u Republici Hrvatskoj.
+(10) Ako isporučitelj dobara ili usluga, koji u tuzemstvu nema sjedište ili stalnu poslovnu jedinicu ili ako njegova stalna poslovna jedinica u tuzemstvu ne sudjeluje u isporuci, obavi isporuku dobara ili usluga za koje se u skladu s odredbama članaka 12. do 28. ovoga Zakona smatra da su obavljene u Republici Hrvatskoj, osobi koja je kao primatelj obvezna u skladu s člankom 75. ovoga Zakona platiti PDV, neovisno o stavku 9. ovoga članka za izdavanje računa primjenjuju se pravila države članice u kojoj isporučitelj ima sjedište ili stalnu poslovnu jedinicu iz koje se obavljaju isporuke ili u slučaju nepostojanja takvog sjedišta ili stalne poslovne jedinice države članice u kojoj ima prebivalište ili uobičajeno boravište. U slučaju da račun izdaje primatelj isporuke (samoizdavanje računa) primjenjuje se stavak 9. ovoga članka.
+(11) Ako isporučitelj ima sjedište ili stalnu poslovnu jedinicu iz koje je obavljena isporuka, ili u slučaju nepostojanja takvog sjedišta ili stalne poslovne jedinice, ima prebivalište ili uobičajeno boravište u Republici Hrvatskoj i obavlja isporuku dobara ili usluga za koje se u skladu s odredbama članaka 12. do 28. ovoga Zakona smatra da nisu obavljene unutar Europske unije, izdavanje računa za te isporuke obavlja se u skladu s odredbama ovoga Zakona.
+(12) Ministar financija pravilnikom propisuje provedbu ovoga članka u vezi obveze izdavanja računa.
+4.2. Obvezni sadržaj računa

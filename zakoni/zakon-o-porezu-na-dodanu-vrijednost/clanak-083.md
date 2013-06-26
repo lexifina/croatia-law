@@ -1,0 +1,10 @@
+# Članak 83.
+(1) Porezni obveznik mora u svom knjigovodstvu osigurati sve potrebne podatke koji omogućuju ispravno i pravodobno obračunavanje i plaćanje PDV-a. Porezni obveznik mora osigurati podatke o obvezi PDV-a za uplatu i uplati PDV-a te o potraživanju za povrat pretporeza i njegovoj naplati. Porezni obveznik mora imati i dokumentaciju koja dokazuje da su ispunjeni uvjeti za porezna oslobođenja propisana člankom 41. stavkom 1. ovoga Zakona.
+(2) Porezni obveznik mora voditi evidenciju dobara koja je otpremio ili prevezao ili koja su za njegov račun bila otpremljena ili prevezena izvan područja Republike Hrvatske, ali unutar Europske unije radi obavljanja usluga procjene vrijednosti dobara ili rada na tim dobrima ili njihovog privremenog korištenja u smislu članka 7. stavka 6. točaka d), e) i f) ovoga Zakona.
+(3) Porezni obveznik mora voditi detaljnu evidenciju koja omogućava identifikaciju dobara koja mu je iz druge države članice dopremio porezni obveznik registriran za potrebe PDV-a u toj drugoj državi članici ili druga osoba za njegov račun i koja su upotrijebljena za usluge koje se sastoje u procjeni tih dobara ili radovima na tim dobrima.
+(4) Porezni obveznici koji zalihe dobara iskazuju po prodajnim cijenama s uračunanim PDV-om, obvezni su osigurati i podatke o uračunanom PDV-u te podatke o poreznim osnovicama razvrstanim po stopama PDV-a.
+(5) Podatke iz stavaka 1., 2., 3. i 4. ovoga članka porezni obveznici obvezni su osigurati unutar roka propisanog za uplatu PDV-a.
+(6) Ako se u tijeku nadzora utvrdi da porezni obveznik ne vodi knjigovodstvo u smislu ovoga Zakona i zbog toga nije moguće utvrditi obvezu PDV-a, tijelo koje obavlja nadzor nalaže poreznom obvezniku popis zatečenih dobara bez dokumentacije o nabavi, po tržišnim cijenama.
+(7) Ministar financija pravilnikom propisuje oblik i sadržaj evidencija iz ovoga članka.
+XIV. RAZDOBLJE OPOREZIVANJA, OBRAČUNAVANJE PDV-a, POSTUPAK OPOREZIVANJA I PODNOŠENJE PRIJAVE PDV-a
+1. Razdoblje oporezivanja i obračunsko razdoblje

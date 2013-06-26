@@ -1,0 +1,2 @@
+# Članak 136.
+Poreznim obveznicima koji prema raspoloživim podacima Porezne uprave na dan stupanja na snagu ovoga Zakona obavljaju transakcije s inozemnim poreznim obveznicima Porezna uprava dodijelit će PDV identifikacijski broj iz članka 77. stavka 6. ovoga Zakona ili će ga dodijelit po podnesenom zahtjevu poreznog obveznika. Žalba na rješenje se može podnijeti u roku od 15 dana od dana primitka rješenja.

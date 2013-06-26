@@ -1,0 +1,4 @@
+# Članak 69.
+(1) Poreznom obvezniku koji nema sjedište u tuzemstvu, a obavlja transakcije na temelju kojih ima pravo na odbitak pretporeza u državi sjedišta, izvršit će se povrat PDV-a koji mu je zaračunan za isporuke dobara ili obavljene usluge u tuzemstvu ili za uvoz dobara u tuzemstvo.
+(2) Pravo na povrat PDV-a iz stavka 1. ovoga članka utvrđuje se u skladu s odredbama ovoga Zakona koje se odnose na odbitak pretporeza.
+(3) Poreznom obvezniku koji nema sjedište u tuzemstvu, a u državi članici u kojoj ima sjedište istodobno obavlja transakcije na temelju kojih u toj državi članici ima pravo na odbitak pretporeza i transakcije na temelju kojih nema pravo na odbitak pretporeza, može se vratiti PDV u skladu s odredbama ovoga članka i odredbama o razmjernom odbitku pretporeza koje se primjenjuju u državi članici sjedišta poreznog obveznika.

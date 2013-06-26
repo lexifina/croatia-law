@@ -1,0 +1,4 @@
+# Članak 138.
+(1) Na obveze PDV-a nastale prije dana stupanja na snagu ovoga Zakona glede njihovog utvrđivanja, naplate i povrata primjenjivat će se odredbe Zakona o porezu na dodanu vrijednost koji je bio na snazi do stupanja na snagu ovoga Zakona.
+(2) Porezni obveznici koji na dan stupanja na snagu ovoga Zakona prestaju biti obveznici PDV-a obvezni su u roku od dva mjeseca od dana stupanja snagu ovoga Zakona podnijeti konačni obračun PDV-a nadležnoj ispostavi Porezne uprave.
+(3) Porezni obveznici koji na dan stupanja na snagu ovoga Zakona postaju obveznici PDV-a obvezni su nadležnoj ispostavi Porezne uprave u roku od 15 dana od dana stupanja na snagu ovoga Zakona podnijeti zahtjev za prijavu u registar obveznika PDV-a ako su u prethodnoj kalendarskoj godini ostvarili vrijednost isporuka veću od iznosa propisanog u članku 90. stavku 1. ovoga Zakona.

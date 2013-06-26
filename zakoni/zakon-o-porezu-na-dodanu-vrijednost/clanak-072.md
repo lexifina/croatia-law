@@ -1,0 +1,5 @@
+# Članak 72.
+(1) Ako je zahtjev za povrat odobren, Porezna uprava izvršava povrat odobrenog iznosa najkasnije u roku od 10 radnih dana po isteku krajnjeg roka navedenog u članku 71. stavku 2. ovoga Zakona ili, ako su zatraženi dodatni podaci po isteku krajnjih rokova navedenih u članku 71. stavcima 6. i 7. ovoga Zakona.
+(2) Povrat se isplaćuje u tuzemstvu ili na zahtjev podnositelja u bilo kojoj drugoj državi članici. Ako je izvršen povrat PDV-a na bankovni račun u drugoj državi članici, od iznosa povrata koji se isplaćuje podnositelju zahtjeva odbija se iznos svih bankovnih troškova u vezi s prijenosom sredstava.
+(3) Ako je izvršen povrat PDV-a, a naknadno se ispostavi da su podaci iz zahtjeva netočni ili je povrat ostvaren na prijevaran ili bilo koji drugi nepravilan način, porezni obveznik koji nema sjedište u tuzemstvu obvezan je vratiti pogrešno isplaćeni iznos te platiti kazne i kamate u skladu s posebnim propisima.
+(4) Ako je određena prekršajna kazna ili kamata koja nije plaćena, Porezna uprava može obustaviti sve daljnje povrate poreznom obvezniku koji nema sjedište u tuzemstvu do visine neplaćenog iznosa.

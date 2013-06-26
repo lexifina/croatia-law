@@ -1,0 +1,5 @@
+# Članak 2.
+Ovim se Zakonom u pravni poredak Republike Hrvatske prenose sljedeće direktive Europske unije:
+– Direktiva Vijeća 2006/112/EZ od 28. studenoga 2006. o zajedničkom sustavu poreza na dodanu vrijednost (SL L 347, 11. 12. 2006.) sa zadnjom izmjenom Direktive Vijeća 2010/88/EU od 7. prosinca 2010. kojom se mijenja Direktiva 2006/112/EZ o zajedničkom sustavu poreza na dodanu vrijednost u dijelu koji se odnosi na trajanje obveze pridržavanja minimalne standardne stope (SL L 326, 10. 12. 2010.), (u daljnjem tekstu: Direktiva Vijeća 2006/112/EZ),
+– Direktiva Vijeća 2008/9/EZ od 12. veljače 2008. kojom se utvrđuju detaljna pravila za povrat poreza na dodanu vrijednost, predviđen u Direktivi 2006/112/EZ, poreznim obveznicima koji nemaju poslovni nastan na području države članice povrata nego u nekoj drugoj državi članici (SL L 44, 20. 2. 2009.),
+– Trinaesta Direktiva Vijeća 86/560/EEZ od 17. studenoga 1986. o usklađivanju zakona država članica vezano za porez na promet – postupci za povrat poreza na dodanu vrijednost poreznim obveznicima koji nemaju poslovni nastan na području Zajednice (SL L 326, 21. 11. 1986.).

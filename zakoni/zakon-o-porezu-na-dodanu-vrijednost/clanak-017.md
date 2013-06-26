@@ -1,0 +1,6 @@
+# Članak 17.
+(1) Mjestom obavljanja usluga poreznom obvezniku koji djeluje kao takav smatra se mjesto sjedišta tog poreznog obveznika. Ako se te usluge obavljaju stalnoj poslovnoj jedinici poreznog obveznika u mjestu koje je različito od mjesta sjedišta poreznog obveznika, mjestom obavljanja usluga smatra se sjedište stalne poslovne jedinice. Ako takvo sjedište ili stalna poslovna jedinica ne postoje, mjestom obavljanja usluga smatra se prebivalište ili uobičajeno boravište poreznog obveznika primatelja usluge.
+(2) Mjestom obavljanja usluga osobi koja nije porezni obveznik smatra se mjesto u kojem porezni obveznik koji obavlja usluge ima sjedište. Ako te usluge obavlja stalna poslovna jedinica poreznog obveznika koja je u mjestu različitom od mjesta sjedišta poreznog obveznika, mjestom obavljanja usluga smatra se sjedište stalne poslovne jedinice. Ako takvo sjedište ili stalna poslovna jedinica ne postoje, mjestom obavljanja usluga smatra se prebivalište ili uobičajeno boravište poreznog obveznika koji obavlja usluge.
+(3) Ministar financija pravilnikom propisuje provedbu ovoga članka o vrsti i mjestu obavljanja usluga.
+2.2. Posebne odredbe
+2.2.1. Posredničke usluge obavljene osobama koje nisu porezni obveznici
