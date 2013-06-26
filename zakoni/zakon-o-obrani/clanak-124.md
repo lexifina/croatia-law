@@ -1,0 +1,2 @@
+# Članak 124.
+Odluka o uvećanju plaće namještenika raspoređenih na ustrojbeno mjesto vozača opasnih tvari i laboranta u Ministarstvu obrane (»Narodne novine«, br. 44/05.) kojom su na temelju Zakona o obrani (»Narodne novine«, br. 33/02., 58/02., 76/07. i 153/09.) određena ustrojbena mjesta na kojima namještenici raspoređeni u službu u Ministarstvo obrane ostvaruju pravo na uvećanje plaće, kao i iznos uvećanja, ostaje na snazi do 1. siječnja 2014.
