@@ -1,0 +1,6 @@
+# Članak 103.
+(1) Osoba gubi čin po sili zakona ako joj prestane hrvatsko državljanstvo, ako je pravomoćnom presudom osuđena na bezuvjetnu kaznu zatvora od najmanje pet godina za kazneno djelo protiv: čovječnosti i ljudskog dostojanstva; života i tijela; osobne slobode; spolne slobode; spolnog zlostavljanja i iskorištavanja djeteta; braka, obitelji i djece; zdravlja ljudi; opće sigurnosti; imovine; krivotvorenja; službene dužnosti; pravosuđa; javnog reda; Republike Hrvatske; strane države ili međunarodne organizacije; Oružanih snaga.
+(2) Osoba nadležna za oduzimanje čina može oduzeti čin i osobi koja je pravomoćnom presudom osuđena na bezuvjetnu kaznu zatvora do pet godina za kazneno djelo protiv: čovječnosti i ljudskog dostojanstva; života i tijela; osobne slobode; spolne slobode; spolnog zlostavljanja i iskorištavanja djeteta; braka, obitelji i djece; zdravlja ljudi; opće sigurnosti; imovine; krivotvorenja; službene dužnosti; pravosuđa; javnog reda i mira; Republike Hrvatske; strane države ili međunarodne organizacije; Oružanih snaga.
+(3) O pravomoćnim presudama iz stavaka 1. i 2. ovoga članka izvješćuje se Ministarstvo obrane po službenoj dužnosti u skladu s odredbama Zakona o kaznenom postupku.
+(4) Osoba koja gubi čin gubi i sva prava vezana uz čin.
+(5) Odluka o gubljenju čina nije upravna stvar.

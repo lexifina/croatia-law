@@ -1,0 +1,6 @@
+# Članak 157.
+(1) Ukupni broj dana godišnjeg odmora za svaku djelatnu vojnu osobu za tekuću kalendarsku godinu utvrđuje se odlukom, a vrijeme korištenja godišnjeg odmora utvrđuje se planom korištenja godišnjih odmora koji donosi zapovjednik, odnosno čelnik ustrojstvene jedinice razine samostalne bojne ili njoj ravne i više razine.
+(2) Djelatna vojna osoba može godišnji odmor koristiti u više dijelova od kojih prvi dio od najmanje dva tjedna u neprekidnom trajanju mora koristiti tijekom kalendarske godine za koju ostvaruje pravo na godišnji odmor, a preostali dio mora iskoristiti najkasnije do 30. lipnja iduće godine.
+(3) Iznimno od odredbe stavka 2. ovoga članka, djelatna vojna osoba koja zbog privremene nesposobnosti za rad ili obavljanja službe u inozemstvu nije bila u mogućnosti iskoristiti godišnji odmor za prethodnu godinu u propisanom roku može navedeni godišnji odmor koristiti do 30. rujna tekuće godine.
+(4) Djelatna vojna osoba kojoj prestaje služba, a nije iskoristila godišnji odmor u cijelosti ima pravo na naknadu za neiskorišteni godišnji odmor razmjerno broju dana neiskorištenog godišnjeg odmora.
+(5) Djelatna vojna osoba koja se prvi put zaposli ili ima prekid dulji od osam dana između dva zaposlenja pravo na godišnji odmor stječe nakon šest mjeseci neprekidne službe.

@@ -1,0 +1,3 @@
+# Članak 129.
+(1) Djeca djelatne vojne osobe koja je izgubila život u obavljanju službe imaju pravo na mjesečnu novčanu pomoć kao naknadu za troškove uzdržavanja i redovnog školovanja, i to za dijete predškolskog uzrasta 50%, do završenog osmog razreda osnovne škole 70% te do završene srednje škole, odnosno studiranja u statusu redovitog studenta 90% proračunske osnovice najdulje do kraja redovnog školovanja.
+(2) Pod obavljanjem službe iz stavka 1. ovoga članka podrazumijevaju se borbene zadaće, vojne vježbe, operacije potpore miru, operacije odgovora na krize, humanitarne operacije i druge aktivnosti u inozemstvu te obučne aktivnosti.

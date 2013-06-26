@@ -1,0 +1,4 @@
+# Članak 162.
+(1) Osobe iz članka 161. ovoga Zakona za vrijeme sudjelovanja u operacijama potpore miru, operacijama odgovora na krize, humanitarnim operacijama i drugim aktivnostima u inozemstvu ostvaruju pravo na osnovnu plaću koju su ostvarivali na dužnosti s koje su upućeni.
+(2) Ministar obrane odlukom propisuje terenski dodatak osobama iz stavka 1. ovoga članka za vrijeme sudjelovanja u operacijama potpore miru, operacijama odgovora na krize, humanitarnim operacijama i drugim aktivnostima u inozemstvu zbog otežanih i rizičnih sigurnosnih, zemljopisnih i klimatskih uvjeta opasnih za život i zdravlje.
+(3) Prava iz stavaka 1. i 2. ovoga članka osobe iz stavka 1. ovoga članka ostvaruju i za vrijeme provedeno na liječenju, u zarobljeništvu ili drugom opravdanom izostanku sve do povratka u Republiku Hrvatsku.

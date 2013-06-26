@@ -1,0 +1,4 @@
+# Članak 98.
+(1) Brigadir, odnosno kapetan bojnog broda može biti promaknut u čin brigadnog generala, odnosno komodora kada ispuni uvjete iz članka 91. ovoga Zakona, kada u činu brigadira, odnosno kapetana bojnog broda provede četiri godine te ima završenu slijedno-rastuću časničku izobrazbu četvrte razine, završen diplomski sveučilišni studij, integrirani preddiplomski i diplomski sveučilišni studij ili specijalistički diplomski stručni studij i ima istaknute rezultate u službi na temelju najviših službenih ocjena.
+(2) Promaknuće u čin general-bojnika/kontraadmirala, general-pukovnika/viceadmirala i generala zbora/admirala obavlja se u skladu s uvjetima iz stavka 1. ovoga članka.
+(3) U čin stožernoga generala, odnosno admirala flote može biti promaknut general zbora, odnosno admiral samo za ratne zasluge.

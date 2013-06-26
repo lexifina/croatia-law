@@ -1,0 +1,2 @@
+# Članak 232.
+Djelatne vojne osobe koje je Predsjednik Republike imenovao na dužnost u Oružanim snagama u skladu s odredbama Zakona o službi u Oružanim snagama Republike Hrvatske (»Narodne novine«, br. 33/02., 58/02., 175/03., 136/04., 76/07., 88/09. i 124/09.), a koje danom stupanja na snagu ovoga Zakona podliježu raspoređivanju Predsjednika Republike iz članka 51. stavka 1. ovoga Zakona, Predsjednik Republike rasporedit će na ustrojbeno mjesto u roku od 30 dana od dana stupanja na snagu ovoga Zakona.

@@ -1,0 +1,2 @@
+# Članak 221.
+Odluka o radnim mjestima na kojima se zbog posebnih uvjeta rada, težine i naravi poslova i odgovornosti uvećava osnovna plaća državnih službenika i namještenika (»Narodne novine«, br. 50/08.), kojom su na temelju Zakona o službi u Oružanim snagama Republike Hrvatske (»Narodne novine«, br. 33/02., 58/02., 175/03., 136/04., 76/07., 88/09. i 124/09.) službenicima i namještenicima u Oružanim snagama određena radna mjesta na kojima se zbog osnovnih uvjeta rada, težine i naravi poslova i odgovornosti osnovna plaća uvećava, ostaje na snazi do 1. siječnja 2014.

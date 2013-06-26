@@ -1,0 +1,4 @@
+# Članak 120.
+(1) Djelatne vojne osobe primarnu zdravstvenu zaštitu ostvaruju kod izabranog vojnog doktora medicine primarne zdravstvene zaštite i vojnog doktora dentalne medicine.
+(2) Za djelatne vojne osobe kojima nije moguće zbog teritorijalne nepokrivenosti osigurati primarnu zdravstvenu zaštitu kod vojnog doktora medicine primarne zdravstvene zaštite i vojnog doktora dentalne medicine uredit će se način izbora doktora medicine primarne zdravstvene zaštite i doktora dentalne medicine iz mreže javne zdravstvene službe u Republici Hrvatskoj.
+(3) Ministar obrane uz suglasnost ministra nadležnog za poslove zdravlja propisat će pravilnikom postupak i ovlasti u ostvarivanju prava na zdravstvenu zaštitu i prava na zdravstveno osiguranje pripadnika Oružanih snaga te način izbora doktora medicine primarne zdravstvene zaštite.
