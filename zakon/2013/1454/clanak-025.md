@@ -1,0 +1,8 @@
+# Članak 25.
+Naslov iznad članka 182. mijenja se i glasi: »Korištenje informacija i dokumenata«.
+Članak 182. mijenja se i glasi:
+»(1) Informacije dobivene u skladu s ovim poglavljem mogu se koristiti za utvrđivanje i naplatu poreza iz članka 174. stavka 1. ovoga Zakona, za utvrđivanje i naplatu drugih tražbina iz članka 184. ovoga Zakona ili za utvrđivanje i naplatu doprinosa za obvezna osiguranja. Informacije se mogu koristiti i u sudskim i upravnim postupcima, pokrenutim zbog kršenja poreznog prava.
+(2) Informacije i dokumenti primljeni u skladu s ovim poglavljem mogu se koristiti i u druge svrhe osim onih navedenih u stavku 1. ovoga članka, ako je to dopustilo nadležno tijelo države članice koje dostavlja informacije. Takvo se dopuštenje daje ako se informacije mogu koristiti u slične svrhe u državi članici nadležnog tijela koje ih je dostavilo.
+(3) Porezno tijelo može proslijediti informacije iz stavaka 1. i 2. ovoga članka trećoj državi članici ako je država članica koja je dostavila informacije s tim suglasna. Smatra se da je država članica koja je dostavila informacije suglasna ako se u roku od 10 dana od zaprimanja obavijesti o namjeri prosljeđivanja informacija ne usprotivi takvom prosljeđivanju.
+(4) Informacije, izvješća, izjave i svi drugi dokumenti ili njihove ovjerene preslike koji su dostavljeni poreznom tijelu u skladu s ovim poglavljem, mogu se koristiti kao dokazni materijal jednako kao i slične informacije, izvješća, izjave i ostali dokumenti od nekog tijela u Republici Hrvatskoj.
+(5) Obveza čuvanja porezne tajne u skladu s člankom 8. ovoga Zakona odnosi se na informacije koje se u skladu s ovim poglavljem razmjenjuju između država članica.«.

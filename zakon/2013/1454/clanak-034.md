@@ -1,0 +1,6 @@
+# Članak 34.
+Naslov iznad članka 188. mijenja se i glasi: »Zahtjev za mjere osiguranja«.
+Članak 188. mijenja se i glasi:
+»(1) U slučaju osporavanja tražbine ili ovršne isprave u državi članici koja podnosi zahtjev u vrijeme podnošenja zahtjeva ili kada tražbina još uvijek nije predmetom ovršne isprave u državi članici koja podnosi zahtjev, porezno tijelo poduzima mjere osiguranja sukladno odredbama članka 158. ovoga Zakona, na zahtjev nadležnog tijela države članice. Dokument koji se prilaže uz zahtjev za mjere osiguranja ne podliježe postupku priznavanja, dopunjavanja ili zamjene u Republici Hrvatskoj te je isti podoban za provođenje mjera osiguranja. Država članica koja podnosi zahtjev dužna je bez odgađanja, po okončanju spora, dostaviti državi članici koja prima zahtjev ovršnu ispravu odnosno izmijenjenu ovršnu ispravu koja više ne može biti osporena.
+(2) Porezno tijelo može dostaviti zahtjev kojim se od druge države članice traže mjere osiguranja kada su tražbina ili ovršna isprava u Republici Hrvatskoj osporene u vrijeme podnošenja zahtjeva. Dokument koji se odnosi na tražbinu prilaže se uz zahtjev za provođenje mjera osiguranja.
+(3) Odredbe o zahtjevima za naplatu na odgovarajući se način primjenjuju i na zahtjeve za mjere osiguranja.«.
