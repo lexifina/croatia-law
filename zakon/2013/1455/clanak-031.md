@@ -1,0 +1,6 @@
+# Članak 31.
+(1) Odredba članka 3. ovoga Zakona primjenjuje se na svaki sljedeći uzastopni ugovor o radu na određeno vrijeme sklopljen nakon stupanja na snagu ovoga Zakona.
+(2) Agencije za privremeno zapošljavanje koje su do dana stupanja na snagu ovoga Zakona upisane u odgovarajuću evidenciju ministarstva, nastavljaju obavljanje poslova ustupanja radnika po propisima po kojima su upisani u evidenciju.
+(3) Odredbe članaka 10., 11. i 12. ovoga Zakona ne primjenjuju se za postupke savjetovanja o zbrinjavanju viška radnika, izrade programa zbrinjavanja viška radnika i obavješćivanju o programu zbrinjavanja viška radnika, koji su pokrenuti prije stupanja na snagu ovoga Zakona, ako je izrađen program zbrinjavanja viška radnika dostavljen nadležnoj javnoj službi zapošljavanja prije stupanja na snagu ovoga Zakona.
+(4) Postupci iz stavka 3. ovoga članka dovršit će se po propisima koji su bili na snazi do stupanja na snagu ovoga Zakona.
+(5) U elektroničku bazu podataka iz članka 25. stavka 2. ovoga Zakona tijelo nadležno za vođenje podataka o osiguranicima koji to svojstvo imaju po osnovi radnog odnosa, dužno je u roku od tri mjeseca od dana stupanja na snagu pravilnika iz članka 291.a stavka 3. Zakona unijeti sve postojeće podatke o radnicima.

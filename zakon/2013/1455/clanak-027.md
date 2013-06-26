@@ -1,0 +1,7 @@
+# Članak 27.
+U članku 293. stavku 1. podstavak 1. mijenja se i glasi:
+»1) ako s radnikom s kojim je sklopio ugovor o radu na određeno vrijeme u trajanju dužem od tri godine sklopi sljedeći uzastopni ugovor o radu na određeno vrijeme ili ako s istim radnikom sklopi svaki sljedeći uzastopni ugovor o radu na određeno vrijeme za koje ne postoji objektivan razlog ili ako u tom ugovoru ili u pisanoj potvrdi iz članka 12. stavka 3. ovoga Zakona ne navede objektivan razlog za njegovo sklapanje ili ako sklopi svaki slijedeći uzastopni ugovor o radu na određeno vrijeme za neprekinuto razdoblje duže od tri godine, osim ako je to potrebno zbog zamjene privremeno nenazočnog radnika ili je zbog nekog drugog objektivnog razloga dopušteno zakonom ili kolektivnim ugovorom (članak 10. stavci 2., 3. i 4.),«.
+Podstavak 25. mijenja se i glasi:
+»25) ako provede otkazivanje radnicima za koje je izrađen program zbrinjavanja viška radnika prije isteka roka od trideset dana od dana dostave programa nadležnoj javnoj službi zapošljavanja ili prije isteka roka na koji je nadležna javna služba zapošljavanja odgodila provođenje otkazivanja (članak 122. stavci 3. i 4.),«.
+Iza podstavka 55. dodaje se podstavak 56. koji glasi:
+»56) ako tijelu nadležnom za vođenje podataka o osiguranicima prema posebnom propisu o mirovinskom osiguranju, na način, u sadržaju i u roku ne dostavi u elektroničku bazu podatke o radniku (članak 291.a stavak 2.).«.
