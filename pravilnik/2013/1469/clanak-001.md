@@ -1,0 +1,19 @@
+# Članak 1.
+U Pravilniku o obavljanju poslova banke skrbnika (»Narodne novine«, broj 65/01 i 47/03, dalje: Pravilnik) članak 3. mijenja se i glasi:
+(1) »Banka skrbnik može temeljem pisanog ugovora dio svojih poslova povjeriti (delegirati) stranoj pravnoj osobi, podskrbniku (poddepozitaru) iz države članice Europske unije (dalje u tekstu: država članica) ili iz treće države, pod uvjetom da je ta osoba u dotičnoj državi registrirana odnosno ovlaštena za obavljanje poslova skrbništva.
+(2) Poslovi banke skrbnika iz stavka 1. ovoga članka odnose se na poslove pohrane i čuvanja imovine mirovinskog fonda na posebnom računu (skrbništvo) i to samo u odnosu na imovinu mirovinskog fonda koja je uložena u vrijednosne papire za koje mjesto izdanja nije Republika Hrvatska.
+(3) Banka skrbnik odgovara mirovinskom društvu i članovima mirovinskog fonda za obavljanje delegiranih poslova skrbništva te za izbor podskrbnika.
+(4) Banka skrbnik može podskrbniku delegirati poslove iz stavka 2. ovoga članka ako su kontinuirano ispunjeni sljedeći uvjeti:
+1. poslovi se ne delegiraju kako bi se izbjegle obveze i zahtjevi predviđeni Zakonom, već iz objektivnih razloga, isključivo s ciljem povećanja učinkovitosti obavljanja tih poslova,
+2. podskrbnik je izabran primjenom dužne pažnje i banka skrbnik će svakodobno s dužnom pažnjom i učinkovito nadzirati obavljanje delegiranih poslova,
+3. podskrbnik ima uređeno unutarnje ustrojstvo te posjeduje iskustvo potrebno i primjereno prirodi i složenosti imovine mirovinskog fonda koja mu je povjerena na skrbništvo,
+4. podskrbnik delegirane poslove ustrojstveno ima odvojene od ostalih poslova koje obavlja te imovinu mirovinskog fonda čuva i vodi tako da se u svakom trenutku može jasno odrediti i razlučiti imovina koja pripada mirovinskom fondu od imovine podskrbnika i imovine ostalih klijenata podskrbnika,
+5. podskrbnik primjenjuje odgovarajuće mjere kako bi se zaštitila imovina i prava mirovinskog fonda, osobito u slučaju insolventnosti mirovinskog društva, banke skrbnika i/ili treće osobe,
+6. podskrbnik ne koristi imovinu mirovinskog fonda za obavljanje transakcija za vlastiti račun ili za ostvarivanje bilo kakve koristi za sebe, svoje osnivače, radnike ili u bilo koju drugu svrhu osim u korist članova mirovinskog fonda,
+7. imovina mirovinskog fonda ne ulazi u imovinu, likvidacijsku ili stečajnu masu podskrbnika, niti može biti predmetom ovrhe u vezi potraživanja prema njemu,
+8. podskrbnik u izvršavanju svojih poslova i dužnosti postupa pažnjom dobrog stručnjaka, u skladu s načelom savjesnosti i poštenja te neovisno o mirovinskom društvu, svojem osnivaču ili članu mirovinskog društva i isključivo u interesu članova mirovinskog fonda za koje obavlja delegirane poslove skrbništva,
+9. podskrbnik podliježe bonitetnom nadzoru i nadzoru prema odredbama mjerodavnog prava (uključujući zahtjeve o adekvatnosti kapitala), u odnosu na povjerene mu poslove,
+10. podskrbnik je osoba nad kojom se redovito periodički provodi neovisna vanjska revizija kako bi se osiguralo i potvrdilo da obavlja poslove skrbništva u skladu s propisima i da je u posjedu i/ili ima nadzor nad financijskim instrumentima koji su mu povjereni na skrbništvo.
+(5) Banka skrbnik je dužna čuvati dokumentaciju kojom se dokazuje ispunjavanje uvjeta iz stavka 4. ovoga članka te istu dostaviti Agenciji na njen zahtjev.
+(6) Podskrbnik ne smije bez odnosno protivno suglasnosti mirovinskog društva i prethodnog obavještavanja banke skrbnika raspolagati imovinom koja mu je povjerena na pohranu.
+(7) Banka skrbnik koja je delegirala poslove pohrane i čuvanja imovine mirovinskog fonda podskrbniku Agenciji će na njen zahtjev bez odgode dostaviti sve ugovore koje je sklopila s podskrbnicima, a mirovinskom društvu će na njegov zahtjev dostaviti popis svih podskrbnika s kojima je sklopila ugovore.«
