@@ -1,0 +1,3 @@
+# Članak 3.
+(1) U postupku utvrđivanja uvjeta propisanih ovim Pravilnikom za početak obavljanja djelatnosti, u slučaju kada se djelatnost dadilje namjerava obavljati u stambenom prostoru, obrtnik mora dostaviti pisani pristanak svih punoljetnih članova kućanstva u kojem se namjerava obavljati djelatnost, a na kojem pisanom pristanku je potpis ovjeren kod javnog bilježnika.
+(2) Ukoliko se prostor iz članka 2. stavka 1. ovoga Pravilnika nalazi u suvlasništvu, obrtnik u postupku utvrđivanja uvjeta za početak obavljanja djelatnosti mora dostaviti pisani pristanak svih suvlasnika za obavljanje djelatnosti u predmetnom prostoru, a na kojem pisanom pristanku je potpis ovjeren kod javnog bilježnika.
