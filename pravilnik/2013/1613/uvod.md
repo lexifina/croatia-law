@@ -1,0 +1,1 @@
+Na temelju članka 25. Zakona o istraživanju, uređenju i održavanju vojnih groblja, groblja žrtava Drugoga svjetskog rata i poslijeratnog razdoblja (»Narodne novine«, broj 143/12) ministar branitelja, donosi

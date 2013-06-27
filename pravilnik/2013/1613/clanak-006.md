@@ -1,0 +1,3 @@
+# Članak 6.
+Ministarstvo vodi skupnu evidenciju groblja i grobova za područje Republike Hrvatske na Obrascu 6. koji je s odgovarajućim sadržajem tiskan uz ovaj Pravilnik i čini njegov sastavni dio. Upisivanje u evidenciju vodi se prema rednom broju upisa koji je i matični broj (identifikacijska oznaka) svakog upisa.
+Uz svaki upis u skupnu evidenciju kao prilog Obrascu 6. vodi se pripadni Dosje čiji su sastavni dio podatci o katastarskoj čestici, podatci o vlasništvu čestice i položajni plan grobnih mjesta i grobnica i drugih objekata koji pripadaju groblju, pristupne ceste, staze te fotografije groblja.
