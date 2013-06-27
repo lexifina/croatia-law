@@ -1,0 +1,6 @@
+# Članak 59.
+U članku 140. iza stavka 2. dodaju se stavci 3., 4., 5. i 6. koji glase:
+»(3) U dozvolu boravka stranca iz članka 92. stavka 1. ovoga Zakona kojemu je odobren stalni boravak na temelju azila ili supsidijarne zaštite unijet će se napomena: »Međunarodnu zaštitu odobrila Republika Hrvatska (datum)«.
+(4) Strancu na stalnom boravku kojemu je druga država članica EGP-a izdala dozvolu boravka u koju je unesena napomena da mu je odobrena međunarodna zaštita, policijska uprava, odnosno policijska postaja će u dozvolu boravka koju će izdati strancu unijeti istu napomenu.
+(5) Prije unošenja napomene iz stavka 4. ovoga članka u dozvolu boravka od druge države članice EGP-a koja se navodi u napomeni dozvole boravka zatražit će se informacija ima li stranac još uvijek odobrenu međunarodnu zaštitu. Ako je međunarodna zaštita strancu prestala, policijska uprava, odnosno policijska postaja neće u dozvolu boravka unijeti napomenu iz stavka 4. ovoga članka.
+(6) U slučaju da je nadležnost za međunarodnu zaštitu stranca na stalnom boravku prešla u nadležnost Republike Hrvatske nakon što mu je izdana dozvola boravka iz stavka 4. ovoga članka, policijska uprava, odnosno policijska postaja izmijenit će napomenu u dozvoli boravka u roku od tri mjeseca od dana prelaska nadležnosti.«.
