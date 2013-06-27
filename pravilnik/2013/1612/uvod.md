@@ -1,0 +1,1 @@
+Na temelju članka 12. stavka 3. Zakona o istraživanju, uređenju i održavanju vojnih groblja, groblja žrtava Drugog svjetskog rata i poslijeratnog razdoblja, (»Narodne novine«, broj 143/12) ministar branitelja, donosi
