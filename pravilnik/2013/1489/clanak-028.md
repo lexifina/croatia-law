@@ -1,0 +1,3 @@
+# Članak 28.
+Imatelju rješenja izdanog temeljem članka 17. stavak 1. Pravilnika o uvjetima koje moraju ispunjavati ovlašteni laboratoriji (»Narodne novine«, broj 78/97. i 65/05.) koje istekne nakon stupanja na snagu ovog Pravilnika može se na njegov zahtjev izdati privremeno certifikacijsko rješenje temeljem članka 31. stavak 1. Pravilnika o posebnim uvjetima za obavljanje djelatnosti uzimanja uzoraka i ispitivanja voda (»Narodne novine«, broj 20/11.).
+Na imatelja važećeg rješenja izdanog temeljem članka 17. stavak 1. Pravilnika o uvjetima koje moraju ispunjavati ovlašteni laboratoriji (»Narodne novine«, broj 78/97. i 65/05.) primjenjuju se odredbe ovoga Pravilnika koje se odnose na ovlaštene laboratorije do isteka tog rješenja.

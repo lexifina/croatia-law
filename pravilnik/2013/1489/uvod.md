@@ -1,0 +1,1 @@
+Na temelju članka 221. stavka 2. Zakona o vodama (»Narodne novine«, broj 153/09., 63/11., 130/11. i 56/13.) na prijedlog Hrvatskih voda, uz suglasnost Hrvatske akreditacijske agencije, ministar poljoprivrede donosi

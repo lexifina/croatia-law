@@ -1,0 +1,5 @@
+## Obveze glede izrade izvješća o mjerenju i ispitivanju
+# Članak 25.
+Kada su koncentracije pojedinih fizikalno-kemijskih ili kemijskih pokazatelja u određenom uzorku niže od granice kvantifikacije, ovlašteni laboratorij je obvezan u izvješću o mjerenju i ispitivanju površinskih i podzemnih voda, te sedimenta i biote u površinskim vodama, za ocjenu ekološkog i kemijskog stanja obraditi podatke na način da se za izračun srednjih vrijednosti koncentracija koristi pola vrijednosti granice kvantifikacije.
+Ako je izračunata srednja vrijednost koncentracija iz stavka 1. ovoga članka niža od granice kvantifikacije, označava se izrazom »ispod granice kvantifikacije«.
+Iznimno od stavka 1. ovoga članka, u izvješću o mjerenju i ispitivanju pokazatelja čija koncentracija predstavlja zbroj koncentracija unutar određenih skupina fizikalno-kemijskih ili kemijskih pokazatelja, uključujući njihove metabolite, produkte razgradnje i produkte reakcija, koncentracije niže od granice kvantifikacije pojedinačnih pokazatelja izražavaju se kao nula.

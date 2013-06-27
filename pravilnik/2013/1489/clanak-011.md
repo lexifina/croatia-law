@@ -1,0 +1,7 @@
+## Obveze glede stjecanja osposobljenosti
+# Članak 11.
+Ukoliko laboratorij ili njegov podugovaratelj namjerava primjenjivati dokumentirane i validirane metode, osim onih akreditiranih po članku 10. stavku 1. točki 1. ovog Pravilnika, obvezan je redovito uspješno sudjelovati u dostupnim programima ispitivanja sposobnosti iz stavka 2. ovoga članka.
+Laboratorij i njegov podugovaratelj je dužan odabrati programe ispitivanja sposobnosti analiziranja relevantnih fizikalno-kemijskih i kemijskih pokazatelja u koncentracijskim područjima sukladno propisu o standardu kakvoće voda i/ili propisu o graničnim vrijednostima emisija otpadnih voda kao i mikrobioloških i ekotoksiokoloških pokazatelja sukladno propisima o standardu kakvoće voda, o graničnim vrijednostima emisija otpadnih voda i o kakvoći vode za kupanje.
+Laboratorij i njegov podugovaratelj je dužan obavljati ispitivanje raspoloživih referentnih materijala koji su reprezentativni za uzorke koji se ispituju, odnosno u koncentracijskom području sukladno propisima o standardu kakvoće voda, o graničnim vrijednostima emisija otpadnih voda i o kakvoći vode za kupanje.
+Rezultati ispitivanja sposobnosti vrednuju se na način na koji upućuje norma HRN EN ISO/IEC 17043 ili norma HRN ISO 13528 ili neka druga jednakovrijedna međunarodno priznata norma.
+Obvezu iz stavka 1. ovoga članka ovlašteni laboratorij mora izvršiti najmanje jednom u pet godina za svaki pokazatelj, a rezultate dostavljati Ministarstvu.
