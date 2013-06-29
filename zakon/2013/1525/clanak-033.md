@@ -1,0 +1,2 @@
+# Članak 33.
+U svim odredbama Zakona o državnim maticama (»Narodne novine«, br. 96/93.) riječi: »ime i prezime« u određenom broju i padežu zamjenjuju se riječima: »osobno ime«, u određenom broju i padežu, riječi: »zaključenje braka« u određenom broju i padežu zamjenjuju se riječima: »sklapanja braka« u određenom broju i padežu, riječi: »županijski, odnosno gradski ured« u određenom broju i padežu zamjenjuju se riječima: »nadležni ured« u određenom broju i padežu, a riječ: »narodnost« u određenom broju i padežu zamjenjuje se riječju: »nacionalnost« u određenom broju i padežu.

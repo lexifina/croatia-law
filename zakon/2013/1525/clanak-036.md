@@ -1,0 +1,3 @@
+# Članak 36.
+Ministar nadležan za poslove uprave donijet će u roku od šest mjeseci od dana stupanja na snagu ovog Zakona propis o načinu rada u vođenju i čuvanju državnih matica, o pravu uvida u državne matice i načinu izdavanja isprava na temelju državnih matica te će propisati obrazac matice vjenčanih i obrasce isprava i potvrda koji se izdaju na temelju državnih matica.
+Ministar nadležan za poslove zdravlja donijet će u roku od šest mjeseci od dana stupanja na snagu ovog Zakona poseban propis o načinu prikupljanja medicinske dokumentacije te utvrđivanju uvjeta i pretpostavki za promjenu spola i života u drugom rodnom identitetu.
