@@ -1,0 +1,2 @@
+# Članak 94.
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«, osim članaka 1. do 5., članka 6. stavaka 1. i 2., članaka 7. i 8., članka 9. stavaka 1. do 5., članaka 10. do 12., članka 13. stavka 1., članaka 14. do 29., članka 30. stavaka 1. do 4., članaka 31. do 34., članaka 36. do 40., članka 41. stavaka 1. do 4., članaka 42. do 63., članka 64. stavka 1., te članaka 65. do 93., koji stupaju na snagu danom pristupanja Republike Hrvatske Europskoj uniji.

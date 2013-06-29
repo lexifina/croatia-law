@@ -1,0 +1,6 @@
+# Članak 55.
+(1) Nositelj upisa u očevidnik veleprodaja medicinskih proizvoda ili dozvole za promet na malo medicinskih proizvoda u specijaliziranoj prodavaonici obvezan je pisanim putem izvijestiti Agenciju o svim izmjenama koje se odnose na uvjete, dokumente i podatke na temelju kojih je izvršen upis u očevidnik veleprodaja, odnosno dana dozvola.
+(2) Ako dopuna i izmjena u dokumentaciji iz stavka 1. ovoga članka zahtijeva izmjenu upisa u očevidniku veleprodaja, odnosno dozvola iz stavka 1. ovoga članka, Agencija donosi rješenje u roku od 30 dana od dana primitka urednog zahtjeva.
+(3) Ako zahtjev nije uredan, odnosno uz zahtjev nisu podneseni propisani podaci i dokumenti, Agencija će zaključkom od podnositelja zahtjeva zatražiti da u roku ne dužem od 15 dana od dana primitka zaključka otkloni nedostatke.
+(4) Ako Agencija od podnositelja traži dopunu zahtjeva, rok iz stavka 2. ovoga članka ne teče do dana dostave dopunjenog zahtjeva. Rok ne teče ni za vrijeme odobreno podnositelju zahtjeva za davanje usmenog ili pisanog obrazloženja.
+(5) Izmjena upisa u očevidnik veleprodaja medicinskih proizvoda ili dozvole za promet na malo medicinskih proizvoda u specijaliziranoj prodavaonici daje se rješenjem protiv kojega nije dopuštena žalba, nego se protiv tog rješenja može pokrenuti upravni spor.

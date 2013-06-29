@@ -1,0 +1,4 @@
+# Članak 54.
+(1) Agencija će brisati veleprodaju iz očevidnika veleprodaja medicinskih proizvoda ili oduzeti dozvolu za promet na malo medicinskih proizvoda u specijaliziranoj prodavaonici ako utvrdi da nositelj upisa u očevidnik, odnosno nositelj dozvole više ne ispunjava uvjete na temelju kojih je izvršen upis u očevidnik, odnosno dana dozvola.
+(2) Na temelju pisanog zahtjeva nositelja upisa u očevidnik, odnosno nositelja dozvole Agencija će rješenjem brisati veleprodaju iz očevidnika veleprodaja medicinskih proizvoda, odnosno ukinuti dozvolu iz stavka 1. ovoga članka ako nositelj upisa u očevidnik, odnosno nositelj dozvole prestaje s radom.
+(3) Upis u očevidnik veleprodaja medicinskih proizvoda i dozvola za promet na malo medicinskih proizvoda u specijaliziranoj prodavaonici ukida se i briše rješenjem protiv kojega nije dopuštena žalba, nego se protiv tog rješenja može pokrenuti upravni spor.

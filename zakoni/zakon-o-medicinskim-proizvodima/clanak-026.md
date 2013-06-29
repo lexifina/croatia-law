@@ -1,0 +1,4 @@
+# Članak 26.
+(1) Ministarstvo će, ako je to potrebno, poduzeti odgovarajuće mjere za zaštitu zdravlja ljudi. U slučaju uskrate odobrenja za provođenje kliničkog ispitivanja ili obustave kliničkog ispitivanja Ministarstvo će obavijestiti sve države članice Europske unije i Europsku komisiju o svojoj odluci uz obrazloženje.
+(2) U slučaju značajnih izmjena ili privremenog prekida kliničkog ispitivanja Ministarstvo će obavijestiti zainteresirane države članice Europske unije o poduzetim mjerama i o razlozima za njihovo poduzimanje.
+(3) Naručitelj kliničkog ispitivanja obavješćuje nadležne vlasti zainteresiranih država članica Europske unije o završetku kliničkog ispitivanja, a u slučaju prijevremenog prekida obavijest mora biti praćena obrazloženjem. U slučaju prijevremene obustave kliničkog ispitivanja zbog sigurnosnih razloga ova obavijest dostavlja se svim državama članicama Europske unije i Europskoj komisiji.

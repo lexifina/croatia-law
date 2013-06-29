@@ -1,0 +1,6 @@
+# Članak 53.
+(1) Agencija upisuje veleprodaju u očevidnik veleprodaja medicinskih proizvoda i daje dozvolu za promet medicinskih proizvoda na malo u specijaliziranoj prodavaonici u roku od 60 dana od dana primitka urednog zahtjeva.
+(2) Ako zahtjev nije uredan, odnosno uz zahtjev nisu podneseni propisani podaci i dokumenti, Agencija će zaključkom od podnositelja zahtjeva zatražiti da u roku ne dužem od 30 dana od dana primitka zaključka otkloni nedostatke.
+(3) Ako Agencija traži od podnositelja dopunu zahtjeva, rok iz stavka 1. ovoga članka ne teče do dana dostave dopunjenog zahtjeva. Rok ne teče ni za vrijeme odobreno podnositelju zahtjeva za davanje pisanog ili usmenog obrazloženja.
+(4) Upis u očevidnik veleprodaja medicinskih proizvoda i dozvola za promet medicinskih proizvoda na malo iz stavka 1. ovoga članka daje se rješenjem protiv kojega nije dopuštena žalba, nego se protiv tog rješenja može pokrenuti upravni spor.
+(5) Troškove u postupku upisa, izmjene upisa i brisanja iz očevidnika veleprodaja medicinskih proizvoda te troškove davanja, izmjene i ukidanja dozvola iz stavka 1. ovoga članka, uz suglasnost ministra, odredit će Agencija, a snosi ih podnositelj zahtjeva ili nositelj upisa u očevidnik, odnosno nositelj dozvole.

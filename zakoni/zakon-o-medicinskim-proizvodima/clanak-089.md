@@ -1,0 +1,3 @@
+# Članak 89.
+(1) Rješenja o upisu medicinskih proizvoda klase rizika I u očevidnik medicinskih proizvoda, koje su proizveli proizvođači sa sjedištem u Republici Hrvatskoj, dana prije stupanja na snagu ovoga Zakona ostaju na snazi.
+(2) Medicinski proizvodi klase rizika IIa, IIb i III, »in vitro« dijagnostički medicinski proizvodi te aktivni medicinski proizvodi za ugradnju koji su upisani u očevidnik medicinskih proizvoda stranih proizvođača i proizvođača sa sjedištem u Republici Hrvatskoj do dana stupanja na snagu ovoga Zakona, smatra se da su u prometu u Republici Hrvatskoj sukladno članku 42. stavku 1. ovoga Zakona, ako ispunjavaju uvjete propisane ovim Zakonom.

@@ -1,0 +1,4 @@
+# Članak 42.
+(1) Pravne i fizičke osobe koje stavljaju u promet u Republici Hrvatskoj medicinske proizvode klase rizika IIa, IIb i III, »in vitro« dijagnostičke medicinske proizvode, te aktivne medicinske proizvode za ugradnju obvezne su o tome obavijestiti Agenciju najkasnije u roku od 15 dana od dana njihova stavljanja u promet.
+(2) Agencija, na zahtjev proizvođača medicinskog proizvoda sa sjedištem u Republici Hrvatskoj, može izdati potvrdu kojom potvrđuje da je taj medicinski proizvod ili skupina medicinskih proizvoda u skladu s važećim propisima te da za taj medicinski proizvod nema nikakvih ograničenja za stavljanje u promet.
+(3) O svim izmjenama u podacima i dokumentaciji o medicinskom proizvodu iz stavka 1. ovoga članka pravne i fizičke osobe iz stavka 1. ovoga članka obvezne su izvijestiti Agenciju.

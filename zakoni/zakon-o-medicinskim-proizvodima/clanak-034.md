@@ -1,0 +1,2 @@
+# Članak 34.
+Agencija može po službenoj dužnosti ili na osnovi utemeljenog zahtjeva podnositelja te uz suglasnost ministra odobriti stavljanje na tržište, u promet, odnosno u uporabu i one medicinske proizvode za koje nisu bili provedeni postupci ocjenjivanja sukladnosti, i to u izvanrednim situacijama (epidemije, trovanja, nuklearna ili radiološka nesreća ili slično) ili iz drugih razloga ako se radi o zaštiti zdravlja ljudi.

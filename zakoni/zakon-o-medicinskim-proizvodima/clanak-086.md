@@ -1,0 +1,3 @@
+## XIII. PRIJELAZNE I ZAVRŠNE ODREDBE
+# Članak 86.
+Pravilnike iz članka 6. stavka 3., članka 9. stavka 6., članka 13. stavka 2., članka 20. stavka 1., članka 21. stavka 6., članka 24. stavka 1., članka 30. stavka 5., članka 35., članka 36. stavka 2., članka 41. stavka 6., članka 46. stavka 3., članka 47. stavka 4., članka 49. stavka 5., članka 50. stavka 4., članka 56. stavaka 2. i 3., članka 64. stavka 2., članka 71. stavka 2. te članka 82. stavka 2. ovoga Zakona, za čije je donošenje ovlašten ovim Zakonom, ministar je obvezan donijeti u roku od godinu dana od dana stupanja na snagu ovoga Zakona.
