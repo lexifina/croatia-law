@@ -1,0 +1,6 @@
+# Članak 93.
+Služba za EU poslove obavlja sljedeće poslove: koordinacija aktivnosti za sudjelovanje Ministarstva u radu tijela Europske unije - Vijeća i Europske komisije u područjima iz djelokruga Ministarstva; koordinacija provedbe Sporazuma o stabilizaciji i pridruživanju kao i aktivnosti vezano za sudjelovanje Ministarstva u radu tijela osnovanih temeljem Sporazuma - Vijeća za stabilizaciju i pridruživanje, Odbora za stabilizaciju i pridruživanje te Pododbora za poljoprivredu i ribarstvo; koordinacija usklađivanja nacionalnog poljoprivrednog zakonodavstva sukladno propisima iz područja Zajedničke poljoprivredne politike Europske unije; priprema i koordinacija provedbe projekata EU programa pomoći, kao i ostalih poslova vezanih uz korištenje sredstava iz EU programa namijenjenih jačanju institucionalnih kapaciteta (IPA - I. komponenta); koordinacija korištenja sredstava iz međunarodnih zajmova, donacija i tehničke pomoći; koordinacija provedbe projekata Svjetske banke u području poljoprivrede i povezanih darovnica iz međunarodnih izvora.
+Za obavljanje poslova Službe za EU poslove ustrojavaju se:
+8.2.2.1. Odjel za EU koordinaciju
+8.2.2.2. Odjel za EU i međunarodne programe.
+8.2.2.1. Odjel za EU koordinaciju

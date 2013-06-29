@@ -1,0 +1,6 @@
+# Članak 98.
+Služba za označavanje i temeljne zahtjeve kvalitete hrane planira, izrađuje i usklađuje zakonodavstvo iz područja informiranja potrošača o hrani - općeg označavanja, reklamiranja i prezentiranja hrane; izrađuje propise o nutritivnom označavanju svih kategorija hrane; izrađuje propise o prirodnim mineralnim i izvorskim vodama i provodi postupak priznavanja; izrađuje propise o kvaliteti određenih kategorija hrane koje su regulirane na EU razini; izrađuje nacionalne propise o kvaliteti pojedinih kategorija hrane (ne harmonizirano područje); propise o metodama uzorkovanja i analize za pojedine kategorije hrane te ostale propise iz područja nadležnosti. Služba u obavljanu poslova iz područja nadležnosti surađuje s drugim tijelima državne uprave, znanstvenim i stručnim institucijama, komorama i gospodarskim interesnim udruženjima te s tijelima EU i međunarodnim institucijama; planira, priprema i koordinira projekte iz fondova EU i drugih izvora financiranja, sudjeluje u pripremi prijedloga proračuna iz djelokruga Službe; provodi i ostale poslove iz djelokruga rada.
+Za obavljane poslova Službe za označavanje i temeljne zahtjeve kvalitete hrane ustrojavaju se:
+9.1.1.1. Odjel za opće označavanje hrane
+9.1.1.2. Odjel za temeljne zahtjeve kvalitete hrane.
+9.1.1.1. Odjel za opće označavanje hrane

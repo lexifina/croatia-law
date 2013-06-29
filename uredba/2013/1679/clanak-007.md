@@ -1,0 +1,3 @@
+# Članak 7.
+Odjel za protokol obavlja poslove protokola za potrebe ministra i državnih dužnosnika; obavlja poslove koordiniranja međunarodne suradnje; obavlja pripreme i sudjeluje u provedbi programa boravka stranih izaslanstva u Republici Hrvatskoj i izaslanstva Ministarstva u zemlji i inozemstvu; organizira prijevoz i službena putovanja ministra i državnih dužnosnika; sudjeluje, priprema i koordinira održavanje poljoprivrednih sajmova i sličnih manifestacija; radi pripremu tjednih i mjesečnih pregleda, najava i zbivanja te druge poslove po nalogu ministra; te obavlja druge poslove u okviru svoga djelokruga.
+3. SAMOSTALNA SLUŽBA ZA AKREDITACIJU AGENCIJE ZA PLAĆANJA U POLJOPRIVREDI, RIBARSTVU I RURALNOM RAZVOJU I POTVRĐIVANJE PROVEDBE PROGRAMA POTPORE U RIBARSTVU

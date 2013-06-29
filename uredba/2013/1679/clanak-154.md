@@ -1,0 +1,3 @@
+# Članak 154.
+Odjel mobilnih jedinica za kontrolu dobrobiti životinja u prometu ustrojava se za provođenje inspekcijskog nadzora nad pošiljkama živih životinja u prometu i ovlašten je za zaustavljanje vozila koja prevoze životinje. Poslovi odjela uključuju: dokumentacijski pregled isprava koje prate pošiljke životinja; fizički pregled životinja na prijevoznom sredstvu; pregled prijevoznog sredstva kojim se životinje prevoze; vođenje evidenciju o pregledanim pošiljkama te pripremu izvješća o provedenim pregledima pošiljaka; u slučaju utvrđenih nesukladnosti ovlašten je za naplatu mandatnih kazni.
+10.4.2. Služba granične veterinarske inspekcije i međunarodnog prometa

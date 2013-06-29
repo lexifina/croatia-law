@@ -1,0 +1,3 @@
+# Članak 26.
+Odjel za tehničku potporu informacijskim sustavima osigurava kontinuirani i pouzdan rad fizičkog dijela informacijskog sustava Ministarstva; upravlja problemima tehničke naravi (hardverskim, mrežnim i problemima sistemskog softvera); izvršava operativne tehničke rutine i naredbe radi osiguranja ispravnosti podatkovnog centra te ostale računalne i mrežne opreme; pruža tehničku potporu u postupcima nabave i organizira i provodi raspodjelu računalne i programske opreme; obavlja poslove trajne potpore, obuke i pružanja pomoći (tehničke i savjetodavne) svim korisnicima u primjeni programa, aplikacija i ostalih informatičkih tehnologija.
+5.2.2. Služba za logistiku

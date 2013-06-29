@@ -1,0 +1,6 @@
+# Članak 67.
+Služba za poljoprivredne informacije i analize obavlja sljedeće poslove: prikupljanje i organiziranje gotovih statističkih podataka, informacija iz propisanih evidencija i baza podataka, obavlja poslove analiza cijena poljoprivrednih proizvoda, analiza proizvodnje, strukture i dohotka poljoprivredne djelatnosti; koordinira i izrađuje godišnje izvješće o stanju poljoprivrede (Zeleno izvješće), obavlja poslove prikupljanja, obrade i pohrane podataka o cijenama i količinama određenih poljoprivrednih proizvoda i agrarnih inputa s domaćeg reprezentativnog tržišta te njihovu administrativnu kontrolu i kontrolu na terenu, koordinira i sudjeluje u izradi nacrta zakonskih i podzakonskih akata u dijelu koji se odnosi na Sustav poljoprivrednih knjigovodstvenih podataka (FADN), daje administrativnu podršku radu Vijeća za istraživanje u poljoprivredi, koordinira i sudjeluje u izradi proizvodno-potrošnih bilanci poljoprivrednih proizvoda.
+Za obavljanje poslova Službe za poljoprivredne informacije i analize ustrojavaju se:
+7.2.2.1. Odjel za poljoprivredne podatke i analize
+7.2.2.2. Odjel za tržišni cjenovni informacijski sustav u poljoprivredi.
+7.2.2.1. Odjel za poljoprivredne podatke i analize

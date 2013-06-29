@@ -1,0 +1,7 @@
+## 11.2. SEKTOR LOVSTVA
+# Članak 177.
+Sektor lovstva uređuje poslove iz područja lovstva; provodi i nadzire izvršavanje zakona, propisa i drugih akata iz područje djelokruga rada; izrađuje zakonske i podzakonske propise i provodi postupak usklađenja hrvatskog zakonodavstva sa zakonodavstvom EU; izrađuje nacrte ugovora te provodi postupke koje prethode sklapanju ugovora iz djelokruga rada Sektora; priprema odgovore i očitovanja na zahtjev Državnog odvjetništva Republike Hrvatske u postupcima ovrhe i sudskim postupcima; radi na pripremi i izradi dokumenata, smjernica i stručnih podloga vezanih uz razvoj lovstva, prati provedbu međunarodnih ugovora, konvencija i direktiva EU; provodi upravni nadzor tijela i koordinira rad regionalne samouprave u djelatnosti lovstva; prati stanje u području lovstva te usmjerava i daje inicijativu za rješavanje pojedinih pitanja; surađuje sa stručnim i znanstvenim ustanovama iz područja lovstva; prati i koordinira u okviru ovlasti Ministarstva rad stručnih povjerenstava i komisija; izrađuje stručne naputke, mišljenja i odgovore; daje tumačenja te objašnjenja o načinu provedbe zakonskih propisa; podnosi tražena izvješća nadležnim javnopravnim tijelima; provodi i ostale poslove koji mu se stave u djelokrug rada.
+Za obavljanje poslova u Sektoru lovstva ustrojavaju se:
+11.2.1. Služba za upravljanje lovištima i divljači
+11.2.2. Služba za praćenje i razvoj lovstva.
+11.2.1. Služba za upravljanje lovištima i divljači
