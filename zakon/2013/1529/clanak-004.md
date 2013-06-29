@@ -1,0 +1,30 @@
+# Članak 4.
+Iza članka 9. dodaje se naslov iznad članka i članci 9.a, 9.b, 9.c, 9.d, 9.e i 9.f koji glase:
+»Obavljanje porezno-savjetničke djelatnosti stranih poreznih savjetnika u Republici Hrvatskoj
+Članak 9.a
+(1) Porezni savjetnik druge države koji je u matičnoj državi - državi ugovornici Europskog gospodarskog prostora stekao pravo obavljanja porezno-savjetničke djelatnosti može, u skladu s uvjetima koje propisuje ovaj Zakon, u Republici Hrvatskoj, uz uvjet uzajamnosti obavljati:
+1. porezno-savjetničke radnje sukladno članku 9.d ovoga Zakona,
+2. porezno-savjetničku djelatnost pod nazivom »porezni savjetnik« sukladno članku 9.b ovoga Zakona.
+(2) Matična je ona država u kojoj porezni savjetnik ima, prema propisima te države ugovornice Europskog gospodarskog prostora, pravo obavljati porezno-savjetničku djelatnost kao zanimanje.
+(3) Porezni savjetnik iz druge države, koja je država ugovornica Europskog gospodarskog prostora prema ovome Zakonu je porezni savjetnik koji prema propisima te države ima pravo obavljati porezno-savjetničku djelatnost kao zanimanje u toj ili nekoj od država ugovornica Europskog gospodarskog prostora.
+Članak 9.b
+(1) Porezni savjetnik iz države ugovornice Europskog gospodarskog prostora upisuje se u Imenik stranih poreznih savjetnika koji u Republici Hrvatskoj mogu obavljati porezno-savjetničku djelatnost pod nazivom »porezni savjetnik«, sa svim pravima i dužnostima u obavljanju porezno-savjetničke djelatnosti, ako ispunjava uvjete iz članka 8. stavka 1., članka 8. stavka 2. točaka 1., 4. i 4.a, te članka 8. stavka 3. i članka 23. ovoga Zakona.
+(2) Porezni savjetnik mora u zahtjevu za upis u Imenik iz stavka 1. ovoga članka priložiti potvrdu o državljanstvu države ugovornice Europskog gospodarskog prostora, dokaz o tome da ima pravo obavljati djelatnost poreznog savjetnika u svojoj matičnoj državi, kao i druge dokaze o ispunjavanju uvjeta iz stavka 1. ovoga članka.
+(3) Uvjeti iz članka 8. stavka 1., članka 8. stavka 2. točaka 1., 4. i 4.a, članka 8. stavka 3., te članka 23. ovoga Zakona dokazuju se potvrdom, atestom ili nekim drugim dokumentom koji dokazuje da je zahtjev ispunjen izdanim po propisima matične države poreznog savjetnika. Dokazi ne smiju biti stariji od šest mjeseci te mogu biti priloženi u neovjerenom prijevodu na hrvatski jezik.
+(4) Na porezne savjetnike iz stavka 1. ovoga članka ne primjenjuju se odredbe članka 5. ovoga Zakona.
+Članak 9.c
+(1) Porezni savjetnik iz članka 9.b ovoga Zakona može davati porezne savjete vezane za porezne postupke u svojoj matičnoj državi, Europskoj uniji i Republici Hrvatskoj.
+(2) Porezni savjetnik iz članka 9.b ovoga Zakona ne može biti biran u tijela Hrvatske komore poreznih savjetnika.
+Članak 9.d
+(1) Porezni savjetnik iz države ugovornice Europskog gospodarskog prostora koji nije upisan u Imenik stranih poreznih savjetnika, na temelju odredaba članka 9.b ovoga Zakona, smije obavljati pojedine radnje (sloboda pružanja usluga) u okviru obavljanja porezno-savjetničke djelatnosti u skladu s odredbama iz članka 9.c ovoga Zakona.
+(2) Porezni savjetnik koji namjerava obavljati radnje na temelju stavka 1. ovoga članka dužan je o tome pismenim putem obavijestiti Hrvatsku komoru poreznih savjetnika te pružiti dokaze o osposobljenosti za obavljanje porezno-savjetničke djelatnosti i dokaze o osiguranju od profesionalne odgovornosti u matičnoj državi, pri čemu se na odgovarajući način primjenjuje odredba članka 23. ovoga Zakona. U obavijesti se mora navesti adresa u Republici Hrvatskoj ili odrediti punomoćnika za primanje pismena. U protivnom taj porezni savjetnik ne može obavljati djelatnost iz stavka 1. ovoga članka.
+(3) Na temelju obavijesti i dokaza iz stavka 2. ovoga članka Hrvatska komora poreznih savjetnika izdat će poreznom savjetniku potvrdu da može obavljati porezno-savjetničke usluge.
+(4) Porezni savjetnik iz države ugovornice Europskog gospodarskog prostora, kojemu je u Republici Hrvatskoj odbijen upis u Imenik stranih poreznih savjetnika zbog neispunjenja uvjeta propisanih ovim Zakonom, ne može u Republici Hrvatskoj obavljati porezno-savjetničke radnje. Nedostojnost za obavljanje porezno-savjetničke radnje utvrđuje upravnim aktom tijelo određeno Statutom Hrvatske komore poreznih savjetnika.
+(5) Protiv upravnog akta iz stavka 4. ovoga članka dopuštena je žalba nadležnom ministarstvu.
+Članak 9.e
+(1) Pri obavljanju radnji porezni savjetnik iz članka 9.b i članka 9.d ovoga Zakona dužan je poštivati pravila Etičkog kodeksa poreznih savjetnika.
+(2) Pri obavljanju pojedinih radnji u Republici Hrvatskoj porezni savjetnik mora koristiti naziv iz svoje matične države izražen na službenom jeziku ili na jednom od službenih jezika svoje matične države uz naznaku profesionalne organizacije koja mu je dala odobrenje za obavljanje djelatnosti poreznog savjetnika u matičnoj državi i mjerodavnog tijela pri kojem je upisan u svojoj matičnoj državi.
+(3) Porezni savjetnik iz članka 9.d ovoga Zakona stegovno je odgovoran po ovom Zakonu kao da je upisan u Imenik poreznih savjetnika. Stegovne kazne i privremene mjere koje ograničavaju poreznog savjetnika mogu biti izrečene samo s valjanošću u Republici Hrvatskoj. Umjesto stegovne mjere brisanje iz Imenika izriče se zabrana obavljanja djelatnosti u Republici Hrvatskoj.
+(4) Stegovne mjere mogu se izreći poreznom savjetniku iz članka 9.d ovoga Zakona samo ako se u posebnom postupku, u skladu s ovim Zakonom, Statutom Hrvatske komore poreznih savjetnika i Etičkim kodeksom poreznih savjetnika, utvrdi da je porezni savjetnik odgovoran za povredu svoje dužnosti i ugleda porezno-savjetničkog zanimanja.
+Članak 9.f
+U odlukama ovlaštenih tijela Hrvatske komore poreznih savjetnika kojima se u skladu s ovim Zakonom, Statutom Hrvatske komore poreznih savjetnika i Etičkim kodeksom poreznih savjetnika odbije upis u Imenik stranih poreznih savjetnika iz članka 9.b ovoga Zakona, kojima se odlučuje o brisanju iz toga Imenika, te kojima se odlučuje o izricanju stegovnih mjera, moraju se navesti razlozi za njihovo donošenje. Protiv tih odluka može se podnijeti pravni lijek u skladu s ovim Zakonom i Statutom Hrvatske komore poreznih savjetnika.«.
