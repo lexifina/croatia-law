@@ -1,0 +1,6 @@
+# Članak 18.
+(1) Kliničko ispitivanje lijeka provodi se uz poštivanje principa medicinske etike i obvezne zaštite privatnosti i podataka ispitanika u skladu s pravilnikom o kliničkim ispitivanjima lijeka i pravilnikom o dobroj kliničkoj praksi koje donosi ministar.
+(2) Kliničko ispitivanje lijeka može se provoditi samo u pravnoj osobi iz članka 9. ovoga Zakona s kojom je naručitelj ili njegov ovlašteni predstavnik sa sjedištem u Europskoj uniji sklopio ugovor o kliničkom ispitivanju lijeka.
+(3) Ugovorom iz stavka 2. ovoga članka moraju se utvrditi ukupni troškovi provođenja kliničkog ispitivanja lijeka te troškovi koje snosi podnositelj zahtjeva kliničkog ispitivanja, uključujući troškove medicinskih i drugih usluga pravne osobe iz članka 9. ovoga Zakona te naknade ispitivačima i ispitanicima.
+(4) Naknade ispitivačima i ispitanicima iz stavka 3. ovoga članka podnositelj zahtjeva za kliničko ispitivanje lijeka isplaćuje pravnoj osobi s kojom je sklopio ugovor o kliničkom ispitivanju lijeka.
+(5) Naručitelj kliničkog ispitivanja ili njegov ovlašteni predstavnik sa sjedištem u Europskoj uniji obvezan je prije početka kliničkog ispitivanja osigurati se od odgovornosti u slučaju ozljede, smrti, odnosno liječenja ispitanika koje je u vezi s kliničkim ispitivanjem.

@@ -1,0 +1,7 @@
+# Članak 53.
+(1) Agencija daje odobrenje za stavljanje lijeka u promet na rok od pet godina.
+(2) Najkasnije devet mjeseci prije isteka roka važenja odobrenja za stavljanje lijeka u promet Agenciji se može podnijeti zahtjev za obnovu odobrenja za stavljanje lijeka u promet.
+(3) Agencija odobrenje za stavljanje lijeka u promet može obnoviti na sljedećih pet godina temeljem ponovne procjene odnosa rizika i koristi primjene lijeka.
+(4) Uz zahtjev za obnovu odobrenja za stavljanje lijeka u promet nositelj odobrenja obvezan je Agenciji podnijeti konsolidiranu dokumentaciju o kakvoći, sigurnosti primjene i djelotvornosti lijeka, uključujući ocjenu podataka sadržanih u prijavama sumnji na nuspojave i periodičkim izvješćima o neškodljivosti lijeka u skladu s odredbama o farmakovigilanciji ovoga Zakona, kao i podacima o svim uvedenim izmjenama od dana dobivanja odobrenja za stavljanje lijeka u promet do dana podnošenja zahtjeva za obnovu odobrenja.
+(5) Jednom obnovljeno odobrenje za stavljanje lijeka u promet može se dati na neograničeno vrijeme, osim ako, zbog opravdanih razloga koji se odnose na farmakovigilanciju, uključujući i nedovoljan broj pacijenata izloženih navedenom lijeku, Agencija ne zatraži ponovnu obnovu odobrenja sukladno stavcima 3. i 4. ovoga članka.
+(6) Sadržaj dokumentacije iz stavka 4. ovoga članka koja se podnosi u svrhu obnove odobrenja za stavljanje u promet lijeka pravilnikom će propisati ministar.

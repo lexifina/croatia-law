@@ -1,0 +1,3 @@
+# Članak 102.
+(1) Za lijek koji nije namijenjen za izravnu primjenu od strane korisnika ili bolesnika, ili ako se jave problemi u opskrbi tržišta lijekom te sukladno mjerama nužnim za očuvanje ljudskog zdravlja, Agencija može odobriti izuzeće od obveze da određeni podaci moraju biti navedeni na označivanju i u uputi o lijeku.
+(2) U slučajevima iz stavka 1. ovoga članka Agencija može odobriti u potpunosti ili djelomično izuzeće od obveze da označivanje i uputa o lijeku moraju biti na hrvatskom jeziku, uz uvjet da je tekst na latiničnom pismu, a na temelju pisanog obrazloženog zahtjeva podnositelja zahtjeva.

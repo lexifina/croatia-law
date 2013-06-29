@@ -1,0 +1,4 @@
+# Članak 20.
+(1) Ministarstvo može privremeno obustaviti kliničko ispitivanje ili ukinuti odobrenje za provođenje kliničkog ispitivanja ako na temelju utvrđenih činjenica utvrdi da više ne postoje uvjeti temeljem kojih je dano odobrenje za provođenje kliničkog ispitivanja, ako postoji sumnja u sigurnost ispitanika ili znanstvenu valjanost kliničkog ispitivanja, o čemu će obavijestiti naručitelja kliničkog ispitivanja, odnosno njegova predstavnika, Središnje etičko povjerenstvo, EMA-u ili Europsku komisiju.
+(2) Prije donošenja odluke iz stavka 1. ovoga članka Ministarstvo će zatražiti pisano očitovanje naručitelja kliničkog ispitivanja, odnosno njegova predstavnika i/ili ispitivača.
+(3) Rok za dostavu očitovanja iz stavka 2. ovoga članka je sedam dana od dana primitka zahtjeva Ministarstva, osim u slučaju neposrednog i značajnog rizika.

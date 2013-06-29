@@ -1,0 +1,21 @@
+# Članak 243.
+Do stupanja na snagu pravilnika iz članka 242. ovoga Zakona ostaju na snazi:
+1. Pravilnik o postupku i načinu davanja odobrenja za stavljanje gotovog lijeka u promet (»Narodne novine«, br. 113/08. i 155/09.)
+2. Pravilnik o posebnim uvjetima za stavljanje gotovog lijeka u promet u Republici Hrvatskoj koji ima odobrenje za stavljanje u promet u državama Europske unije (»Narodne novine«, br. 10/08.)
+3. Pravilnik o uvjetima za davanje dozvole specijaliziranim prodavaonicama za promet na malo lijekovima (»Narodne novine«, br. 134/08. i 119/10.)
+4. Pravilnik o uvjetima i postupku utvrđivanja zahtjeva dobre proizvođačke prakse te o postupku davanja proizvodne dozvole i potvrde o provođenju dobre proizvođačke prakse (»Narodne novine«, br. 74/09.)
+5. Pravilnik o načinu oglašavanja o lijekovima i homeopatskim proizvodima (»Narodne novine«, br. 118/09. i 140/09.)
+6. Pravilnik o farmakovigilanciji (»Narodne novine«, br. 125/09.)
+7. Pravilnik o mjerilima za razvrstavanje lijekova te o propisivanju i izdavanju lijekova na recept (»Narodne novine«, br. 82/10.)
+8. Pravilnik o stavljanju u promet te o označavanju i oglašavanju tradicionalnih biljnih lijekova (»Narodne novine«, br. 89/10.)
+9. Pravilnik o kliničkim ispitivanjima lijekova i dobroj kliničkoj praksi (»Narodne novine«, br. 14/10. i 127/10.)
+10. Pravilnik o načinu provjere kakvoće lijeka (»Narodne novine«, br. 56/05.)
+11. Pravilnik o načinu praćenja neispravnosti u kakvoći lijeka (»Narodne novine«, br. 36/05.)
+12. Pravilnik o vrsti podataka te načinu izrade izvješća o prometu gotovih lijekova (»Narodne novine«, br. 29/05.)
+13. Pravilnik o uvjetima za proizvodnju i stavljanje u promet te načinu provjere kakvoće i vođenju očevidnika o homeopatskim proizvodima (»Narodne novine«, br. 62/05.)
+14. Pravilnik o dobroj praksi u prometu lijekova na veliko (»Narodne novine«, br. 29/05.)
+15. Pravilnik o uvjetima i postupku davanja dozvole za obavljanje prometa na veliko lijekovima te uvoza i izvoza lijekova (»Narodne novine«, br. 29/05.)
+16. Pravilnik o dobroj laboratorijskoj praksi (»Narodne novine«, br. 73/12.)
+17. Pravilnik o ispitivanju bioraspoloživosti i bioekvivalenciji lijekova (»Narodne novine«, br. 71/99.)
+18. Pravilnik o mjerilima za određivanje cijena lijekova na veliko i o načinu izvještavanja o cijenama na veliko (»Narodne novine«, br. 155/09. i 22/10.)
+19. Pravilnik o mjerilima za stavljanje lijekova na osnovnu i dopunsku listu lijekova Hrvatskog zavoda za zdravstveno osiguranje (»Narodne novine«, br. 155/09.).

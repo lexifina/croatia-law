@@ -1,0 +1,10 @@
+# Članak 37.
+(1) Agencija je odobrenje za stavljanje lijeka u promet obvezna dati ili uskratiti u roku od 210 dana od dana utvrđivanja urednosti zahtjeva.
+(2) Urednost zahtjeva iz stavka 1. ovoga članka utvrđuje Agencija u roku ne duljem od 30 dana od dana primitka zahtjeva, o čemu obavještava podnositelja zahtjeva. Uredan zahtjev podrazumijeva da je Agencija utvrdila da je zahtjev uredan i da su predani svi podaci i dokumenti te dokumentacija u skladu s ovim Zakonom i pravilnicima donesenim na temelju ovoga Zakona.
+(3) Kada Agencija utvrdi da zahtjev nije uredan, zaključkom će od podnositelja zahtjeva zatražiti da u roku koji odredi Agencija zahtjev ispravi ili dopuni.
+(4) Agencija može tijekom postupka davanja odobrenja zaključkom od podnositelja zahtjeva zatražiti dostavu dodatnih podataka i/ili dokumenta i/ili dokumentacije, odnosno odgovarajućeg obrazloženja, za što mu određuje rok za dostavu.
+(5) Ako Agencija od podnositelja zahtjeva tijekom postupka davanja odobrenja zaključkom iz stavaka 3. ili 4. ovoga članka zatraži dostavu dodatnih podataka i/ili dokumenta i/ili dokumentacije, odnosno odgovarajućeg obrazloženja, rok iz stavka 1. ovoga članka ne teče od datuma zaprimanja zaključka od strane podnositelja zahtjeva do dana dostave ispravljenog ili dopunjenog zahtjeva Agenciji. Agencija tijekom postupka davanja odobrenja može od podnositelja zahtjeva zatražiti davanje obrazloženja.
+(6) Odobrenje se daje, odnosno uskraćuje rješenjem protiv kojega nije dopuštena žalba, već se protiv tog rješenja može pokrenuti upravni spor.
+(7) Odredbe stavaka 2., 3., 4., 5. i 6. ovoga članka odgovarajuće se primjenjuju i u postupcima za odobrenje izmjene, obnovu odobrenja, ukidanje i prijenos odobrenja za stavljanje lijeka u promet.
+(8) Troškove u postupku davanja, uskraćivanja, obnove, izmjene, prijenosa i ukidanja odobrenja odredit će uz suglasnost ministra Agencija, a snosi ih podnositelj zahtjeva.
+(9) Ako podnositelj zahtjeva odustane od zahtjeva u postupku davanja, obnove i izmjene odobrenja obvezan je podmiriti troškove postupka koje će uz suglasnost ministra odrediti Agencija.

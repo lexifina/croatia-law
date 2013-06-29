@@ -1,0 +1,5 @@
+# Članak 47.
+(1) U iznimnim okolnostima te na temelju pisanog očitovanja podnositelja zahtjeva, Agencija može dati uvjetno odobrenje za stavljanje lijeka u promet kojim se nositelj odobrenja obvezuje ispuniti određene obveze koje se odnose na sigurnost primjene lijeka, na izvješćivanje Agencije o bilo kojem nepredviđenom događaju u vezi s primjenom lijeka i na mjere koje je potrebno provesti.
+(2) Odobrenje iz stavka 1. ovoga članka može se dati kada podnositelj zahtjeva nije u mogućnosti priložiti cjelovite podatke o djelotvornosti i sigurnosti primjene lijeka u svakodnevnoj primjeni zbog objektivnih i dobro obrazloženih razloga sukladno pravilniku iz članka 26. stavka 7. ovoga Zakona.
+(3) Važenje odobrenja iz stavka 1. ovoga članka ovisi o godišnjoj ponovnoj ocjeni ispunjavanja uvjeta navedenih u odobrenju za stavljanje lijeka u promet.
+(4) Ako nositelj odobrenja ne ispunjava uvjete propisane ovim člankom, Agencija će ukinuti odobrenje za stavljanje lijeka u promet rješenjem protiv kojega nije dopuštena žalba, već se protiv toga rješenja može pokrenuti upravni spor.

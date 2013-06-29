@@ -1,0 +1,3 @@
+# Članak 237.
+(1) Za homeopatske lijekove koji nemaju odobrenje za stavljanje lijeka u promet ili nemaju rješenje o upisu u očevidnik dano od Agencije temeljem Zakona o lijekovima (»Narodne novine«, br. 71/07., 45/09. i 124/11.) na dan stupanja na snagu ovog Zakona, obvezno je podnijeti zahtjev za davanje odobrenja, odnosno rješenja sukladno odredbama ovoga Zakona najkasnije u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.
+(2) Nositelji upisa u očevidnik homeopatskih proizvoda Agencije sukladno odredbama prijašnjih propisa obvezni su u postupcima izmjene i obnove upisa u očevidnik homeopatskih proizvoda ishoditi rješenje o registraciji homeopatskog lijeka sukladno ovome Zakonu.

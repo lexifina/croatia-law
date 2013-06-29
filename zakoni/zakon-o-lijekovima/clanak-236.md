@@ -1,0 +1,3 @@
+# Članak 236.
+(1) Danom stupanja na snagu ovoga Zakona Agencija će pokrenuti postupke ukidanja odobrenja za stavljanje lijeka u promet, danih na temelju Zakona o lijekovima (»Narodne novine«, br. 71/07., 45/09. i 124/11.), a za koja referentnom lijeku odobrenom u Europskoj uniji centraliziranim postupkom nije isteklo razdoblje zaštite podataka.
+(2) Serija lijeka koji ima odobrenje za stavljanje u promet dano na temelju Zakona o lijekovima (»Narodne novine«, br. 71/07., 45/09. i 124/11.) ne može biti puštena u promet nakon stupanja na snagu ovoga Zakona ako za referentni lijek odobren u Europskoj uniji centraliziranim postupkom nije isteklo razdoblje zaštite stavljanja lijeka u promet sukladno članku 29. stavcima 2. i 3. ovoga Zakona.

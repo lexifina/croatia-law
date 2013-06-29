@@ -1,0 +1,4 @@
+# Članak 179.
+(1) U obavljanju provjere kakvoće lijeka primjenjuju se metode ispitivanja kakvoće opisane u dokumentaciji o lijeku podnesenoj uz zahtjev za davanje odobrenja za stavljanje lijeka u promet, davanje odobrenja za paralelni uvoz ili ako ne postoje, primjenjuju se metode usvojene od Agencije.
+(2) Opseg provjere kakvoće pojedinoga lijeka određuje Agencija.
+(3) Kakvoća lijeka i sirovina za proizvodnju lijeka, uključujući materijale za unutarnje pakiranje lijeka, mora biti u skladu s Hrvatskom farmakopejom, odnosno lijek mora biti proizveden i provjerene kakvoće u skladu s postupcima i zahtjevima važeće Europske farmakopeje. Ako lijek nije obuhvaćen Hrvatskom farmakopejom niti Europskom farmakopejom, njegova kakvoća mora odgovarati farmakopeji priznatoj u Europskoj uniji ili drugim međunarodnim priznatim normama.

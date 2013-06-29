@@ -1,0 +1,3 @@
+# Članak 31.
+(1) Ako referentni lijek iz članka 29. stavka 4. ovoga Zakona nema odobrenje za stavljanje u promet u Republici Hrvatskoj, podnositelj zahtjeva za davanje odobrenja za stavljanje generičkog lijeka u promet obvezan je u zahtjevu navesti državu članicu Europske unije u kojoj taj referentni lijek ima ili je imao odobrenje za stavljanje u promet te datum davanja prvog odobrenja.
+(2) Ako je referentni lijek odobren ili je bio odobren u Republici Hrvatskoj, Agencija će na zahtjev nadležnog tijela države članice Europske unije, u roku od mjesec dana dostaviti potvrdu da je referentni lijek odobren ili je bio odobren u Republici Hrvatskoj, uz podatke o cjelovitom sastavu referentnog lijeka i, ako je potrebno, druge podatke iz dokumentacije o lijeku.

@@ -1,0 +1,4 @@
+# Članak 165.
+(1) Nositelj odobrenja obvezan je nakon završetka ispitivanja iz članka 163. stavka 1. ovoga Zakona dostaviti PRAC-u završno izvješće o ispitivanju i sažetak rezultata ispitivanja u roku od 12 mjeseci od završetka prikupljanja podataka, osim ako PRAC pisano ne odobri produženje roka ili izuzimanje od obveze za dostavu završnog izvješća.
+(2) Nositelj odobrenja obvezan je nakon završetka ispitivanja iz članka 163. stavka 2. ovoga Zakona dostaviti Agenciji završno izvješće o ispitivanju i sažetak rezultata ispitivanja u roku od 12 mjeseci od završetka prikupljanja podataka, osim ako Agencija pisano ne odobri produženje roka ili izuzimanje od obveze za dostavu završnog izvješća.
+(3) Ako rezultati ispitivanja iz stavaka 1. i 2. ovoga članka utječu na odobrenje, nositelj odobrenja obvezan je Agenciji podnijeti zahtjev za odobrenje izmjene sukladno člancima 50., 51. i 52. ovoga Zakona.

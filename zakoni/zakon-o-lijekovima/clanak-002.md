@@ -1,0 +1,28 @@
+# Članak 2.
+(1) Ovim Zakonom se u pravni poredak Republike Hrvatske prenose sljedeće direktive:
+1. Direktiva Vijeća 89/105/EEZ od 21. prosinca 1988. o transparentnim mjerilima kojima se utvrđuje određivanje cijena lijekova za primjenu kod ljudi i njihovo uvrštenje u nacionalne sustave zdravstvenog osiguranja (SL L 40, 11. 2. 1989.),
+2. Direktiva 2001/20/EZ Europskog parlamenta i Vijeća od 4. travnja 2001. o usklađivanju zakonodavstva i drugih propisa država članica koji se odnose na primjenu dobre kliničke prakse pri provođenju kliničkih ispitivanja lijekova za primjenu kod ljudi (SL L 121, 1. 5. 2001.),
+3. Direktiva Komisije 2005/28/EZ od 8. travnja 2005. kojom se propisuju načela i detaljne smjernice dobre kliničke prakse za lijekove za primjenu kod ljudi koji su u fazi ispitivanja te zahtjevi za odobravanje proizvodnje i uvoza tih lijekova (SL L 91/13, 9. 4. 2005.),
+4. Direktiva 2001/83/EZ Europskog parlamenta i Vijeća od 6. studenoga 2001., o Zakoniku Zajednice koji se odnosi na lijekove za primjenu kod ljudi (SL L 311, 28. 11. 2001.),
+5. Direktiva 2002/98/EZ Europskog parlamenta i Vijeća od 27. siječnja 2003. koja dopunjuje Direktivu 2001/83 Europskog parlamenta i Vijeća od 6. studenoga 2001. o Zakoniku Zajednice koji se odnosi na lijekove za primjenu kod ljudi (SL L 33/30, 8. 2. 2003.),
+6. Direktiva Komisije 2003/63/EZ od 25. lipnja 2003. koja dopunjuje Direktivu 2001/83 Europskog parlamenta i Vijeća od 6. studenoga 2001. o Zakoniku Zajednice koji se odnosi na lijekove za primjenu kod ljudi (SL L 159, 27. 6. 2003.),
+7. Direktiva Komisije 2003/94/EZ od 16. listopada 2003. o načelima i smjernicama dobre proizvođačke prakse za lijekove za primjenu kod ljudi i ispitivane lijekove za primjenu kod ljudi (SL L 262/22, 14. 10. 2003.),
+8. Direktiva 2004/24/EZ Europskog parlamenta i Vijeća od 31. ožujka 2004. o tradicionalnim biljnim lijekovima (SL L 136, 30. 4. 2004.),
+9. Direktiva 2004/27/EZ Europskog parlamenta i Vijeća od 31. ožujka 2004. kojom se izmjenjuje i dopunjuje Direktiva 2001/83/EZ o Zakoniku Zajednice koji se odnosi na lijekove za primjenu kod ljudi (SL L 136, 30. 4. 2004.),
+10. Direktiva 2008/29/EZ Europskog parlamenta i Vijeća od 11. ožujka 2008. koja dopunjuje Direktivu 2001/83 Europskog parlamenta i Vijeća od 6. studenoga 2001. o Zakoniku Zajednice koji se odnosi na lijekove za primjenu kod ljudi (SL L 81, 20. 3. 2008.),
+11. Direktiva 2009/53/EZ Europskog parlamenta i Vijeća od 18. lipnja 2009. koja dopunjuje Direktivu 2001/83 Europskog parlamenta i Vijeća od 6. studenoga 2001. o Zakoniku Zajednice koji se odnosi na lijekove za primjenu kod ljudi (SL L 168, 30. 3. 2009.),
+12. Direktiva Komisije 2009/120/EZ od 14. listopada 2009. koja dopunjuje Direktivu 2001/83 Europskog parlamenta i Vijeća od 6. studenoga 2001. o Zakoniku Zajednice koji se odnosi na lijekove za primjenu kod ljudi (SL L 242. 15. 9. 2009.),
+13. Direktiva 2010/84/EU Europskog parlamenta i Vijeća od 15. prosinca 2010. koja dopunjuje Direktivu 2001/83 Europskog parlamenta i Vijeća od 6. studenoga 2001. o Zakoniku Zajednice koji se odnosi na lijekove za primjenu kod ljudi (SL L 276, 21. 10. 2011.),
+14. Direktiva 2011/62/EU Europskog parlamenta i Vijeća od 8. lipnja 2011. koja dopunjuje Direktivu 2001/83 Europskog parlamenta i Vijeća od 6. studenoga 2001. o Zakoniku Zajednice koji se odnosi na lijekove za primjenu kod ljudi (SL L 174, 1. 7. 2011.),
+15. Direktiva 2012/26/EU Europskog parlamenta i Vijeća od 25. listopada 2012. koja dopunjuje Direktivu 2001/83/EZ vezano uz farmakovigilanciju (SL L 299, 27. 10. 2012.).
+(2) Ovim se Zakonom uređuje provedba sljedećih uredbi:
+1. Uredba (EZ) broj 141/2000 Europskog parlamenta i Vijeća od 16. prosinca 1999. o lijekovima za rijetke i teške bolesti (SL L 18, 22. 1. 2000.),
+2. Uredba Komisije (EZ) broj 847/2000 od 27. travnja 2000. koja utvrđuje mjerila za određivanje lijeka kao lijeka za rijetke i teške bolesti i definicije pojmova »sličan lijek« i »klinička superiornost« (SL L 103, 28. 4. 2000.),
+3. Uredba (EZ) broj 726/2004 Europskog parlamenta i Vijeća od 31. ožujka 2004. kojom se utvrđuju postupci Zajednice za odobravanja i nadzor lijekova za primjenu kod ljudi i životinja i kojom se osniva Europska agencija za lijekove (SL L 136, 30. 4. 2004.),
+4. Uredba (EZ) broj 1901/2006 Europskog parlamenta i Vijeća od 20. prosinca 2006. o lijekovima za pedijatrijsku primjenu (SL L 378, 27. 12. 2006.),
+5. Uredba (EZ) broj 1902/2006 Europskog parlamenta i Vijeća od 20. prosinca 2006. o lijekovima za djecu i koja dopunjuje Uredbu broj 1901/2006 o lijekovima za pedijatrijsku primjenu (SL L 378, 27. 12. 2006.),
+6. Uredba (EZ) broj 1394/2007 Europskog parlamenta i Vijeća od 13. studenoga 2007. koja dopunjuje Direktivu 2001/83 Europskog parlamenta i Vijeća od 6. studenoga 2001. o Zakoniku Zajednice koji se odnosi na lijekove za primjenu kod ljudi i Uredbu (EZ) broj 726/2004 (SL L 324, 10. 12. 2007.),
+7. Uredba Komisije (EZ) broj 658/2007 od 14. lipnja 2007. o kaznama za povredu obveza koje se odnose na odobrenja izdana na temelju Uredbe EZ broj 726/2004 Europskog parlamenta i Vijeća (SL L 155, 15. 6. 2007.),
+8. Uredba Komisije (EZ) broj 1234/2008 od 24. studenoga 2008. o ispitivanju izmjena uvjeta odobrenja za stavljanje u promet lijekova za primjenu kod ljudi i životinja (SL L 334/7, 12. 12. 2008.),
+9. Uredba Komisije (EU) broj 712/2012 od 3. kolovoza 2012. koja izmjenjuje Uredbu (EZ) br. 1234/2008 o ispitivanju izmjena uvjeta odobrenja za stavljanje u promet lijekova za primjenu kod ljudi i životinja (SL L 209, 4. 8. 2012.),
+10. Uredba (EU) br. 1027/2012 Europskog parlamenta i Vijeća od 25. listopada 2012. koja dopunjuje Uredbu (EZ) broj 726/2004 o farmakovigilanciji (SL L 316, 14. 11. 2012.).

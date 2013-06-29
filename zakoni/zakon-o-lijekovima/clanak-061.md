@@ -1,0 +1,7 @@
+# Članak 61.
+(1) Ministarstvo ili Agencija mogu u opravdanim slučajevima radi zaštite zdravlja ljudi odlučiti da Agencija po službenoj dužnosti da odobrenje za stavljanje u promet lijeka koji je odobren u drugoj državi članici Europske unije, a koji u Republici Hrvatskoj nije odobren niti je podnesen zahtjev za davanje odobrenja.
+(2) U slučaju iz stavka 1. ovoga članka Agencija će od nadležnog tijela države članice Europske unije u kojoj je lijek odobren zatražiti izvješće o dokumentaciji o lijeku i važeće odobrenje.
+(3) Prije davanja odobrenja za stavljanje lijeka u promet iz stavka 1. ovoga članka Agencija će obavijestiti nositelja odobrenja iz države članice Europske unije u kojoj je lijek odobren o namjeri davanja odobrenja u Republici Hrvatskoj po službenoj dužnosti.
+(4) Odobrenje iz stavka 1. ovoga članka Agencija daje nositelju odobrenja iz države članice Europske unije u kojoj je lijek odobren ili veleprodaji koja stavlja u promet lijek u Republici Hrvatskoj.
+(5) Nositelj odobrenja iz stavka 4. ovoga članka odgovoran je da sažetak opisa svojstava lijeka, uputa o lijeku, označivanje i oglašavanje o lijeku i farmakovigilancija budu u skladu s odredbama ovog Zakona.
+(6) Na zahtjev nadležnog tijela države članice Europske unije koje provodi postupak u skladu sa stavkom 1. ovoga članka za lijek odobren u Republici Hrvatskoj Agencija će u roku od 30 dana poslati izvješće o dokumentaciji o lijeku i važeće odobrenje.
