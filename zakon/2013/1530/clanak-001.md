@@ -1,0 +1,6 @@
+# Članak 1.
+U Zakonu o patentu (»Narodne novine«, br. 173/03., 87/05., 76/07., 30/09., 128/10. i 49/11.) iza članka 1. dodaju se članci 1.a i 1.b koji glase:
+»Članak 1.a
+Ovim se Zakonom utvrđuje nadležno tijelo i zadaće nadležnog tijela za provedbu Uredbe (EZ) br. 469/09 Europskog parlamenta i Vijeća od 6. svibnja 2009. koja se odnosi na uvođenje svjedodžbe o dodatnoj zaštiti za lijekove namijenjene ljudima ili životinjama, kako je dopunjavana (SL L 152, 16. 6. 2009. sa svim izmjenama i dopunama - u daljnjem tekstu: Uredba (EZ) br. 469/2009), Uredbe (EZ) br. 1610/96 Europskog parlamenta i Vijeća od 23. srpnja 1996. koja se odnosi na uvođenje svjedodžbe o dodatnoj zaštiti za proizvode za zaštitu bilja, kako je dopunjavana (SL L 198, 8. 8. 1996. sa svim izmjenama i dopunama - u daljnjem tekstu: Uredba (EZ) br. 1610/1996) te Uredbe (EZ) br. 816/2006 Europskog parlamenta i Vijeća od 17. svibnja 2006. o prisilnom licenciranju patenata koji se odnose na proizvodnju farmaceutskih proizvoda za izvoz u zemlje s problemima javnog zdravlja kako je dopunjavana (SL L 157, 9. 6. 2006. sa svim izmjenama i dopunama - u daljnjem tekstu: Uredba (EZ) br. 816/2006).
+Članak 1.b
+Izrazi koji se koriste u ovome Zakonu, a koji imaju rodno značenje, bez obzira na to jesu li korišteni u muškom ili ženskom rodu, obuhvaćaju na jednak način muški i ženski rod.«.
