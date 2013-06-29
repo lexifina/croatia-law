@@ -1,0 +1,1 @@
+Na temelju članka 91. stavka 1. Zakona o arhitektonskim i inženjerskim poslovima i djelatnostima u prostornom uređenju i gradnji (»Narodne novine«, broj 152/08., 49/11, 25/13) Skupština Hrvatske komore inženjera elektrotehnike elektroničkim glasanjem održanim 21. lipnja 2013. godine, donijela je

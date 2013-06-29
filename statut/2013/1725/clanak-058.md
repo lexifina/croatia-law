@@ -1,0 +1,38 @@
+# Članak 58.
+(1) Upravni odbor Komore:
+- provodi odluke i zaključke Skupštine Komore;
+- utvrđuje prijedlog Statuta Komore i drugih općih akata koje donosi Skupština Komore;
+- donosi Program vježbeničke prakse s načinom provedbe;
+- donosi i ostale akte Komore u sklopu svoje ovlasti;
+- predlaže odluke, zaključke i stajališta te daje mišljenja o pitanjima o kojima raspravlja Skupština Komore;
+- utvrđuje i usklađuje interese članova Komore;
+- izdaje prethodne suglasnosti projektantskim društvima o suglasnosti ugovora o osnivanju sa Zakonom, Statutom i općim aktima Komore;
+- donosi rješenje o zabrani rada projektantskog društva u skladu s odredbama Zakona;
+- razmatra ugovore o osnivanju zajedničkih ureda;
+- sastavlja godišnji proračun i završni račun Komore i podnosi ih na odobrenje Skupštini;
+- upravlja financijskim poslovanjem Komore;
+- utvrđuje troškove stegovnog postupka;
+- utvrđuje troškove arbitražnog postupka;
+- donosi odluku o naknadama za rad u tijelima Komore;
+- brine se za unapređenje suradnje s komorama u drugim zemljama te s odgovarajućim stručnim i profesionalnim udrugama u inozemstvu;
+- imenuje uredništvo te glavnog urednika Glasila Komore;
+- utvrđuje program trajnoga stručnog usavršavanja i nadzire provedbu tog programa;
+- obavlja ostale poslove određene Zakonom i ovim Statutom;
+- imenuje glavnog urednika internetske stranice Komore;
+- predlaže dnevni red Skupštine Komore;
+- imenuje izborna povjerenstva;
+- predlaže Skupštini Komore osobu za predsjednika Komore;
+- predlaže Skupštini Komore kandidacijsku listu za članove Nadzornog odbora Komore;
+- predlaže Skupštini Komore kandidacijsku listu za članove Upravnog odbora Komore;
+- predlaže Skupštini Komore kandidacijsku listu za izbor članova Odbora za upis;
+- predlaže Skupštini Komore kandidacijsku listu za predsjednika i suce Stegovnog i Višega stegovnog suda;
+- predlaže Skupštini Komore kandidacijsku listu za stegovnog tužitelja i dva zamjenika;
+- predlaže Skupštini Komore kandidacijsku listu za arbitre Arbitražnog suda;
+- razmatra i predlaže Skupštini Komore prihode i rashode Komore;
+- razmatra izvješća o radu i odgovornost tijela Komore čije članove imenuje, odnosno tijela koja osniva;
+- predlaže Skupštini Komore osnivanje povjerenstava kad je to potrebno radi rješavanja pitanja za koja je mjerodavna Skupština Komore;
+- osniva urede i centre te druge oblike strukovnog djelovanja Komore;
+- ustanovljuje listu članova za provođenje redovitoga stručnog nadzora nad radom članova Komore;
+- imenuje članove radnih tijela;
+- obavlja ostale poslove koji nisu u djelokrugu rada drugih tijela Komore.
+(2) Upravni odbor Komore za svoj rad odgovara Skupštini Komore.

@@ -1,0 +1,4 @@
+## Poslovna tajna
+# Članak 101.
+(1) Skupština Komore Pravilnikom određuje koje isprave i podatci su poslovna tajna, čije bi iznošenje neovlaštenoj osobi zbog njihove naravi i značenja bilo protivno interesima Komore te uređuje organizacijske i ostale odgovarajuće mjere, na osnovi kojih Komora sprječava neovlašteni ili neregistrirani pristup poslovnim prostorijama službe koje služe za obavljanje javnih ovlasti Komore, namjerno uništavanje podataka upisanih u Imenik ovlaštenih inženjera elektrotehnike, njihovu izmjenu ili gubitak, kao i neovlašteni pristup, obradu i dostavljanje tih podataka te njihovo korištenje.
+(2) Tijela i radna tijela Komore dužna su kao poslovnu tajnu čuvati i one isprave i poslovne podatke koje takvima proglasi odnosno odredi mjerodavno tijelo, odnosno podatke koji su prema zakonu ili ostalim propisima određeni kao tajni.
