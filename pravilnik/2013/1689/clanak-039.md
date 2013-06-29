@@ -1,0 +1,5 @@
+# Članak 39.
+(1) Za sve djelatnosti banke tkiva mora biti uspostavljen sustav unutarnjeg nadzora (audita). Nadzor provode stručni i osposobljeni radnici najmanje jednom u dvije godine radi provjere sukladnosti s odobrenim procedurama i zakonskim odredbama. Rezultati nadzora i korektivne mjere moraju biti dokumentirani.
+(2) Odstupanja od propisanih standarda kvalitete i sigurnosti moraju se dokumentirano istražiti. Kad je primjereno potrebno je odrediti korektivne i preventivne mjere. O sudbini nesukladnih tkiva odlučuje se u skladu s pisanim postupcima. Provođenje postupaka nadzire i dokumentira odgovorna osoba. Sva nesukladna tkiva treba identificirati i njihov status razjasniti.
+(3) Korektivne mjere moraju biti dokumentirane, pravodobno započete i učinkovito provedene. Učinkovitost korektivnih i preventivnih mjera mora biti ocjenjena nakon provedbe.
+(4) Banka tkiva mora utvrditi postupke za provjeru učinka sustava upravljanja kvalitetom kako bi se osiguralo njegovo trajno i sustavno poboljšanje.
