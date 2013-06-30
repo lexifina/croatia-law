@@ -1,0 +1,7 @@
+# Članak 19.
+U članku 41. stavku 1. točki 5. riječi: »procjenu vrijednosti društva i« brišu se.
+Iza stavka 2. dodaju se stavci 3., 4., 5. i 6. koji glase:
+»(3) Nakon otvaranja postupka predstečajne nagodbe dužnik je dužan predati nagodbenom vijeću popis obveza sa stanjem na dan otvaranja postupka predstečajne nagodbe, najkasnije u roku od 15 dana od otvaranja postupka predstečajne nagodbe.
+(4) Dužnik je dužan najkasnije u roku od osam dana od donošenja rješenja o utvrđenju tražbina, dostaviti plan financijskog i operativnog restrukturiranja koji obuhvaća sve utvrđene tražbine prema rješenju o utvrđenju tražbina, ukoliko ranije dostavljeni plan financijskog i operativnog restrukturiranja ne obuhvaća sve tražbine koje su utvrđene rješenjem.
+(5) Ne može se pristupiti glasovanju za plan financijskog i operativnog restrukturiranja koji ne obuhvaća sve utvrđene tražbine.
+(6) Ukoliko plan financijskog i operativnog restrukturiranja ili izmijenjeni ili novi plan financijskog i operativnog restrukturiranja ne obuhvaća sve utvrđene tražbine, nagodbeno vijeće zaključkom će pozvati dužnika odnosno vjerovnike koji su predložili plan financijskog i operativnog restrukturiranja, da u roku određenom zaključkom dostave plan financijskog i operativnog restrukturiranja koji će obuhvaćati sve utvrđene tražbine. U slučaju da dužnik, odnosno vjerovnici koji su predložili plan financijskog i operativnog restrukturiranja ne dostave usklađeni plan financijskog i operativnog restrukturiranja u roku određenom zaključkom, nagodbeno vijeće će rješenjem postupak obustaviti.«.

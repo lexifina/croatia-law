@@ -1,0 +1,11 @@
+# Članak 36.
+Članak 64. mijenja se i glasi:
+»(1) Ako plan financijskog restrukturiranja ne bude prihvaćen, postupak predstečajne nagodbe se obustavlja.
+(2) Iznimno od odredbe stavka 1. ovoga članka, postupak predstečajne nagodbe neće se obustaviti ako vjerovnici čije tražbine čine natpolovičnu većinu svih utvrđenih tražbina predlože dostaviti u određenom roku, koji ne može biti duži od 30 dana, nagodbenom vijeću i dužniku izmijenjeni plan financijskog restrukturiranja, koji ne mora biti revidiran od strane ovlaštenog revizora.
+(3) Dužnik je dužan pisano se izjasniti nagodbenom vijeću o izmijenjenom planu financijskog restrukturiranja, u roku od osam dana od dana njegovog primitka.
+(4) Ako je dužnik dao suglasnost, nagodbeno vijeće će plan financijskog restrukturiranja bez odgode objaviti na web-stranici Financijske agencije te zaključkom odrediti ročište za glasovanje o planu financijskog restrukturiranja.
+(5) Dužnik će, ako nije suglasan s planom financijskog restrukturiranja predloženim od strane vjerovnika, u roku od osam dana, predložiti novi plan financijskog restrukturiranja, koji ne mora biti revidiran od strane ovlaštenog revizora.
+(6) Iznimno od odredbe stavka 1. ovoga članka, postupak predstečajne nagodbe neće se obustaviti ako vjerovnici ne dostave izmijenjeni plan financijskog restrukturiranja sukladno odredbi stavka 2. ovoga članka, ako dužnik nagodbenom vijeću predloži dostaviti izmijenjeni plan financijskog restrukturiranja, koji ne mora biti revidiran od strane ovlaštenog revizora u određenom roku koji ne može biti duži od 30 dana.
+(7) Nagodbeno vijeće će izmijenjeni plan financijskog restrukturiranja ponuđen od strane vjerovnika odnosno izmijenjeni ili novi plan restrukturiranja ponuđen od strane dužnika objaviti na web-stranici Financijske agencije te zaključkom odrediti ročište za glasovanje.
+(8) Ročišta za glasovanja iz stavaka 4. i 6. ovoga članka održat će se u roku od petnaest dana od dana objave izmijenjenog plana financijskog restrukturiranja.
+(9) Ako je dužnik uskratio suglasnost na izmijenjeni plan financijskog restrukturiranja, odnosno ako novi plan financijskog restrukturiranja iz stavka 5. ovoga članka ili izmijenjeni plan restrukturiranja iz stavka 6. ovog članka, ne bude prihvaćen, postupak predstečajne nagodbe se obustavlja.«.
