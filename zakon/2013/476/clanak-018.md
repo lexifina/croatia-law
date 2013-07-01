@@ -1,0 +1,2 @@
+# Članak 18.
+U cijelom tekstu Zakona o genetski modificiranim organizmima (»Narodne novine«, br. 70/05. i 137/09.) riječi: »biološka raznolikost« zamjenjuju se riječju: »bioraznolikost«, riječ: »dužan« zamjenjuje se riječju: »obvezan«, riječ: »zdravstvo« zamjenjuje se riječju: »zdravlje« i riječi: »poslovi zdravstva« zamjenjuju se riječima: »poslovi zdravlja«, u odgovarajućem rodu, broju i padežu.
