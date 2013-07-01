@@ -1,0 +1,4 @@
+# Članak 5.
+(1) Pravna i fizička osoba koja proizvodi, koristi ili stavlja na tržište kemikalije mora osigurati upute za sigurno postupanje s kemikalijama i obvezna je u skladu s općim propisima o naknadi štete nadoknaditi štetu nastalu proizvodnjom, stavljanjem na tržište i korištenjem kemikalije.
+(2) Pravna i fizička osoba koja proizvodi, koristi ili stavlja na tržište kemikalije mora svakog korisnika kemikalije pri nabavi kemikalije upozoriti na njezina opasna svojstva, a na njegov zahtjev mora mu dostaviti i upute o pravilnom postupanju s kemikalijama i o mjerama za zaštitu zdravlja i okoliša, te je obvezna u skladu s općim propisima o naknadi štete nadoknaditi štetu nastalu pri proizvodnji, korištenju ili stavljanju na tržište kemikalije.
+(3) Opseg, sadržaj i način obavještavanja o kemikalijama iz stavka 1. ovoga članka pravilnikom propisuje ministar nadležan za zdravlje (u daljnjem tekstu: ministar).
