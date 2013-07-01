@@ -1,0 +1,2 @@
+# Članak 1.
+U Pravilniku o registru vinograda, obveznim izjavama, pratećim dokumentima i podrumskoj evidenciji (»Narodne novine« br. 121/10, 132/10 i 78/11) članak 1. mijenja se i glasi: »Ovim se Pravilnikom utvrđuje uspostava registra vinograda (u daljnjem tekstu: Vinogradarski registar), način vođenja Vinogradarskog registra, postupak upisa i vođenja Vinogradarskog registra, obvezne izjave u sektoru vina, sadržaj pratećih dokumenata za grožđe, proizvode od grožđa i vino, način vođenja podrumske evidencije te uspostava i provođenje sustava prava sadnje vinograda.«.

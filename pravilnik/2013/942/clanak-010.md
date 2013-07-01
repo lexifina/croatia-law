@@ -1,0 +1,3 @@
+# Članak 10.
+(1) Ovaj Pravilnik stupa na snagu danom pristupanja Republike Hrvatske Europskoj uniji, osim odredbi članaka 3., 8. i 9. ovoga Pravilnika koje stupaju na snagu osmog dana od dana objave u »Narodnim novinama«.
+(2) U Pravilniku o registru vinograda, obveznim izjavama, pratećim dokumentima i podrumskoj evidenciji (»Narodne novine« br. 121/10, 132/10 - ispravak i 78/11) s danom pristupanja Republike Hrvatske Europskoj uniji prestaju važiti odredbe članaka 2. i 4., članka 9. stavaka 2., 3. i 4., članka 10. stavaka 2. i 3., odredbe članaka 12. - 17., odredbe članaka 22. - 25., odredbe članaka 29. - 36., odredbe članaka 38. - 40. te prilozi I., V. i VI.
