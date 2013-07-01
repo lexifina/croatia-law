@@ -1,0 +1,7 @@
+# Članak 7.
+U članku 77. stavak 1. mijenja se i glasi:
+»(1) Operatori javnih komunikacijskih mreža i javno dostupnih telefonskih usluga moraju omogućiti svim korisnicima usluga besplatne pozive na jedinstveni europski broj za hitne službe 112, kao i na druge pozivne brojeve za pristup hitnim službama u Republici Hrvatskoj u skladu s Planom numeriranja, i to bez uporabe bilo kakvog sredstva plaćanja s bilo kojega telefonskog uređaja, uključujući i sve javne telefonske govornice i uređaje za upućivanje hitnog poziva iz vozila (u daljnjem tekstu: e-poziv).«.
+Stavak 3. mijenja se i glasi:
+»(3) Operatori iz stavka 1. ovoga članka moraju postupati s pozivima na broj 112 na jednak način kao i prema drugim pozivnim brojevima za pristup hitnim službama, koji su još u uporabi u Republici Hrvatskoj, pri čemu nadležnom središnjem tijelu iz stavka 2. ovoga članka ne mogu naplaćivati preusmjeravanje poziva prema drugim pozivnim brojevima koje upotrebljavaju hitne službe.«.
+Stavak 4. mijenja se i glasi:
+"(4) Način i uvjeti uporabe jedinstvenoga europskog broja za hitne službe 112 i e-poziva, tehnički i drugi zahtjevi za operatore iz stavka 1. ovoga članka u ispunjavanju obveza prema nadležnom središnjem tijelu iz stavka 2. ovoga članka, način, oblik i rokovi dostave podataka iz stavka 2. ovoga članka te mjerila kakvoće usluge poziva na broj 112 i e-poziva pobliže se propisuju pravilnikom koji donosi ministar.«.
