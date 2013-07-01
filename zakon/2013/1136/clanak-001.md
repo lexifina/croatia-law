@@ -1,0 +1,5 @@
+## I. OPĆE ODREDBE
+# Članak 1.
+Ovim se Zakonom utvrđuju nadležna tijela, zadaće nadležnih tijela, službene kontrole i načini postupanja te se propisuju upravne mjere i prekršajne odredbe za provedbu:
+- Uredbe (EU) br. 1169/2011 Europskoga parlamenta i Vijeća od 25. listopada 2011. o pružanju informacija o hrani potrošačima, izmjenama i dopunama uredbi (EZ) br. 1924/2006 i (EZ) br. 1925/2006 Europskoga parlamenta i Vijeća te o stavljanju izvan snage Direktive Komisije 87/250/EEZ, Direktive Vijeća 90/496/EEZ, Direktive Komisije 1999/10/EZ, Direktive 2000/13/EZ Europskoga parlamenta i Vijeća, Direktive Komisije 2002/67/EZ i 2008/5/EZ i Uredbe Komisije (EZ) br. 608/2004 (SL L 304, 22.11.2011.) (u daljnjem tekstu: Uredba (EU) br. 1169/2011);
+- Uredbe Komisije (EZ) br. 608/2004 od 31. ožujka 2004. koja se odnosi na označivanje hrane i sastojaka hrane s dodanim fitosterolima, fitosterol esterima, fitostanolima i fitostanol esterima (SL L 97, 1.4.2004.) (u daljnjem tekstu: Uredba (EZ) br. 608/2004).
