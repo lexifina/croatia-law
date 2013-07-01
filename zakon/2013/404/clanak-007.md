@@ -1,0 +1,9 @@
+## III. SLUŽBENE KONTROLE
+# Članak 7.
+(1) Službene kontrole nad provedbom uredbi iz članka 1. ovoga Zakona i ovoga Zakona obavljaju sanitarni inspektori, sukladno propisima kojima je uređen djelokrug rada i ovlasti sanitarne inspekcije, nadzor nad predmetima opće uporabe te službene kontrole hrane i hrane za životinje.
+(2) Carinski nadzor nad provedbom Uredbe (EU) br. 284/2011 i ovoga Zakona obavlja Carinska uprava Ministarstva financija.
+(3) Upravni nadzor nad provedbom uredbi iz članka 1. ovoga Zakona i ovoga Zakona obavlja Ministarstvo.
+(4) Ako određeni materijal i predmet namijenjen neposrednom dodiru s hranom koji ispunjava uvjete iz uredbi iz članka 1. ovoga Zakona predstavlja rizik za zdravlje ljudi, sanitarni inspektor je ovlašten privremeno zabraniti stavljanje na tržište tih materijala i predmeta na području Republike Hrvatske, narediti povlačenje tih materijala i predmeta s tržišta Republike Hrvatske, njihov povrat od potrošača ili ograničiti njihovu dostupnost na tržištu Republike Hrvatske u skladu sa člankom 18. Uredbe (EZ) br. 1935/2004.
+(5) Carinska tijela ne mogu obaviti carinjenje dok od inspektora iz stavka 1. ovoga članka ne dobiju rješenje da pošiljka, glede zdravstvene ispravnosti, odgovara propisanim uvjetima za takve predmete i materijale u neposrednom dodiru s hranom.
+(6) Službenu kontrolu nad pošiljkama plastičnih kuhinjskih proizvoda iz članka 3. Uredbe (EU) br. 284/2011 obavljaju carinska tijela u skladu sa člankom 8. Uredbe (EU) br. 284/2011, pri čemu provjeravaju je li izjava iz Priloga Uredbe (EU) br. 284/2011 propisno ispunjena, kako je predviđeno u članku 3. Uredbe (EU) br. 284/2011.
+(7) Carinska tijela na temelju članka 21. Uredbe (EU) br. 284/2011 Ministarstvu povodom njegova zahtjeva, dostavljaju podatke o provedbi carinskog nadzora pošiljkama plastičnih kuhinjskih proizvoda iz članka 3. Uredbe (EU) br. 284/2011.
