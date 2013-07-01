@@ -1,0 +1,7 @@
+# Članak 124.
+(1) Trošarinski proizvodi oduzeti prema članku 49. i 90. Zakona mogu se izložiti javnoj prodaji, internetskoj prodaji (aukciji), prodaji neposrednom pogodbom, besplatno dodijeliti ili uništiti.
+(2) Zbog sigurnosnih razloga, razloga zaštite zdravlja i života ljudi, životinja, bilja, zaštite prirode i okoliša ili drugih osobito opravdanih razloga područni carinski ured može s oduzetim trošarinskim proizvodima postupati tako da ih do provedbe prodaje, besplatne dodjele ili uništenja preda na čuvanje nadležnom javnopravnom tijelu ili ovlaštenoj osobi za stručno postupanje i rukovanje robom.
+(3) Ako se oduzeti trošarinski proizvodi moraju uništiti jer ne udovoljavaju propisima o kakvoći ili zdravstvenim, sigurnosnim i drugim posebnim propisima, uništenje se provodi na trošak osobe od koje su trošarinski proizvodi oduzeti, odnosno koja je nezakonito postupala.
+(4) Troškove uništenja iz stavka 3. ovoga članka i članka 90. stavka 7. Zakona dužna je podmiriti osoba od koje su trošarinski proizvodi oduzeti, odnosno koja je nezakonito postupala u roku 10 dana od dana dostave odluke o uništenju robe, a u protivnom će se ti troškovi naplatiti prisilno. Ovrhu provodi nadležni područni carinski ured prema propisima za prisilnu naplatu javnih davanja.
+(5) U postupanju s oduzetim trošarinskim proizvodima provodi se žurni postupak.
+(6) Iznimno od stavka 1. ovoga članka oduzete duhanske prerađevine se ne izlažu prodaji niti se besplatno dodjeljuju.

@@ -1,0 +1,8 @@
+## Mjesečno izvješćivanje
+# Članak 88.
+(1) Trošarinski obveznici energenata, osim trošarinskih obveznika iz članaka 94., 96. i 98. Zakona, obvezni su do 20. dana u mjesecu za protekli mjesec carinskom uredu nadležnom prema svome sjedištu, odnosno prebivalištu dostaviti mjesečno izvješće o stanju zaliha, primljenim, unesenim, proizvedenim, otpremljenim i uvezenim količinama te obračunatoj trošarini na energente na Obrascu MI-EN koji je tiskan u Prilogu 42 ovoga Pravilnika i njegov je sastavni dio.
+(2) Uvoznici energenata dostavljaju mjesečno izvješće iz stavka 1. ovoga članka samo za mjesec u kojem su ostvarili uvoz.
+(3) Ovlašteni držatelji trošarinskog skladišta - proizvođači energenata dostavljaju i mjesečno izvješće o stanju zaliha, proizvedenim, unesenim, uvezenim, otpremljenim i prerađenim količinama sirove nafte te uslužnoj preradi sirove nafte na Obrascu MI-NA koji je tiskan u Prilogu 43 ovoga Pravilnika i njegov je sastavni dio.
+(4) Trošarinski obveznici energenata, osim trošarinskih obveznika iz članaka 94., 96. i 98. Zakona, obvezni su do 8. dana u mjesecu za prethodni mjesec podnijeti izvješće o uplaćenim trošarinama na energente na Obrascu MI-UTE koji je tiskan u Prilogu 44 ovoga Pravilnika i njegov je sastavni dio.
+(5) Ovlašteni držatelji trošarinskog skladišta obvezni su uz mjesečno izvješće iz stavka 1. i 3. ovoga članka za mjesec prosinac priložiti i popis zaliha sa stanjem na dan 31. prosinca.
+(6) Registrirani primatelj iz članka 41. Zakona podnosi mjesečno izvješće iz stavka 1. ovoga članka i izvješće o uplaćenim trošarinama iz stavka 4. ovoga članka samo za mjesec u kojem je ostvario unos trošarinskih proizvoda.

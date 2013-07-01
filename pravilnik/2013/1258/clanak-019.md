@@ -1,0 +1,2 @@
+# Članak 19.
+Oslobođenje od plaćanja trošarine iz članka 30. stavka 1. točke 4. Zakona za trošarinske proizvode koje u malim pošiljkama besplatno šalju fizičke osobe iz trećih država ili trećih teritorija drugim fizičkim osobama u Republici Hrvatskoj, pod uvjetom da te pošiljke nisu komercijalne naravi, detaljnije je uređeno provedbenim propisom o ostvarivanju prava na oslobođenja od plaćanja uvoznih javnih davanja.

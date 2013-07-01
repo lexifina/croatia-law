@@ -1,0 +1,3 @@
+## Primitak vina od strane malog proizvođača vina iz druge države članice
+# Članak 8.
+(1) U slučaju kada primatelj u Republici Hrvatskoj prima vino iz druge države članice od strane malog proizvođača vina koji je sukladno propisima nadležnog tijela te države članice izuzet od obvezujućih zahtjeva vezanih uz proizvodnju, skladištenje i kretanje vina u sustavu odgode plaćanja trošarine u obvezi je obavijestiti nadležni carinski ured o primljenim količinama vina u roku od 5 dana od dana primitka putem obavijesti o primljenim/otpremljenim količinama vina od strane malog proizvođača vina na Obrascu O-MPV koji je tiskan u Prilogu 5 ovoga Pravilnika i njegov je sastavni dio.
