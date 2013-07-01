@@ -1,0 +1,3 @@
+# Članak 2.
+U članku 11. stavak 2. mijenja se i glasi:
+»(2) Oblik i sadržaj obrasca zahtjeva za izdavanje izvozne dozvole i dozvole za prijenos te dozvole za pružanje brokerskih usluga i tehničke pomoći, popis dokumenata koji se prilažu uz zahtjev, uvjete za dozvolu posebnog provoza robe s dvojnom namjenom iz članka 10. stavka 2. ovoga Zakona, uvjete za izdavanje globalne dozvole iz članka 13. stavka 2. ovoga Zakona te uvjete za korištenje Opće izvozne dozvole Europske unije iz članka 9. stavka 1. Uredbe 428/2009/EZ propisuje predstojnik Državnog ureda za trgovinsku politiku (u daljnjem tekstu: predstojnik Državnog ureda).«.
