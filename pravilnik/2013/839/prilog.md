@@ -1,0 +1,4 @@
+[1]Pravilnikom su preuzete odredbe Direktive Vijeća 91/68/EEZ od 28. siječnja 1991. o uvjetima zdravlja životinja koji se primjenjuju na ovce i koze na unutarnjem tržištu Zajednice, s izmjenama i dopunama (SL L 46, 19.2.1991.)
+[2]Uredba Vijeća (EZ) br. 1/2005 od 22. prosinca 2004. o zaštiti životinja tijekom prijevoza i s prijevozom povezanih postupaka kojom se mijenjaju Direktive 64/432/EEZ i 93/119/EZ i Uredba (EZ) br. 1255/97 (SL L 3, 5. 1. 2005.)
+[3]Uredba Vijeća (EZ) br. 21/2004 od 17. prosinca 2003. kojom se uspostavlja sustav za označavanje i upis ovaca i koza i kojom se izmjenjuje i dopunjuje Uredba (EZ) br. 1782/2003 i Direktive 92/102/EEZ i 64/432/EEZ (SL L 5, 9.1.2004.)
+[4]Uredba (EZ) br. 999/2001 Europskog parlamenta i Vijeća od 22. svibnja 2001. kojom se utvrđuju pravila za sprječavanje, kontrolu i iskorjenjivanje određenih transmisivnih spongiformnih encefalopatija (SL L 147, 31.5.2001.)

@@ -1,0 +1,3 @@
+# Članak 4.
+U cijelom tekstu Pravilnika riječi: »Europska zajednica« zamjenjuju se riječima: »Europska unija« u odgovarajućem padežu, riječi: »zakonodavstvo Zajednice« zamjenjuju se riječima: »zakonodavstvo Europske unije« u odgovarajućem padežu, a riječi: »odredbama Zajednice« zamjenjuju se riječima: »odredbama Europske unije«.
+U cijelom tekstu Pravilnika riječi: »Ministarstvo poljoprivrede, ribarstva i ruralnog razvitka« zamjenjuju se riječima: »Ministarstvo nadležno za poslove poljoprivrede« u odgovarajućem padežu, a riječi: »Uprava za veterinarstvo« zamjenjuju se riječima: »Uprava nadležna za poslove veterinarstva« (u daljnjem tekstu: Uprava veterinarstva) u odgovarajućem padežu.
