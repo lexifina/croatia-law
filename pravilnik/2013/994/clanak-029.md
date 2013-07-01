@@ -1,0 +1,11 @@
+## Prijevoz i distribucija balege i gnoja prijemljivih vrsta životinja proizvedenih u zaraženom području
+# Članak 29.
+(1) Zabranjen je prijevoz i distribucija balege ili gnoja unutar zaraženog područja, s gospodarstava i objekata ili prijevoznih sredstava na koje se odnosi stavak 16. ovoga Pravilnika gdje se drže prijemljive vrste životinja, smještenih u zaraženom području.
+(2) Iznimno od zabrane iz stavka 1. ovoga članka nadležni veterinarski inspektor može odobriti premještanje gnoja prijemljivih vrsta životinja s gospodarstva koje se nalazi u zaraženom području u određene objekte za obradu u skladu s Odjelom 2. Poglavlja I. Dodatka XI. Uredbe Komisije (EU) br.142/2011, ili za privremeno skladištenje.
+(3) Iznimno od zabrane iz stavka 1. ovoga članka nadležni veterinarski inspektor može odobriti premještanje gnoja prijemljivih vrsta životinja s gospodarstava koja se nalaze u zaraženom području i na kojima se ne provode mjere iz članka 4. ili članka 10. ovoga Pravilnika, za distribuciju na određena polja pod sljedećim uvjetima:
+(a) da je sav gnoj proizveden najmanje 21 dan prije procijenjenog datuma najranijeg zaražavanja životinja na gospodarstvu u zaraženom području te gnoj i balega da su razasuti po zemlji i s njom odmah pomiješani/uzorani i na dovoljnoj udaljenosti od gospodarstava na kojima se drže prijemljive vrste životinja i odmah, ili
+(b) u slučaju gnoja goveda i svinja:
+- pretraživanjem svih životinja na gospodarstvu, od strane službenog veterinara, isključeno je prisustvo životinja sumnjivih da su zaražene virusom slinavke i šapa, i
+- sav gnoj je proizveden najmanje četiri dana prije pretraživanja na koje se odnosi alineja 1. ove točke, i
+- gnoj je pomiješan sa zemljom na određenim poljima blizu gospodarstva podrijetla i na dovoljnoj udaljenosti od drugih gospodarstava u zaraženom području na kojima se drže prijemljive vrste životinja.
+(4) Prilikom davanja odobrenja za premještanje balege ili gnoja s gospodarstva na kojemu se drže prijemljive vrste životinja nadležni veterinarski inspektor mora narediti da se, uz provedbu čišćenja i dezinfekcije nepropusnih prijevoznih sredstava nakon utovara i prije napuštanja gospodarstva, premještanje balege ili gnoja obavi na način da se spriječi širenje virusa slinavke i šapa.

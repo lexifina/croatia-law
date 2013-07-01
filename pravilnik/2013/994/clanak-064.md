@@ -1,0 +1,3 @@
+# Članak 64.
+(1) Slanje životinja prijemljivih vrsta cijepljenih protiv slinavke i šapa u druge države članice Europske unije je zabranjeno.
+(2) Iznimno od zabrane iz stavka 1. ovoga članka, može se u skladu s posebnim postupkom Europske komisije donijeti odluka o provedbi posebnih mjera, u odnosu na cijepljene životinje prijemljivih vrsta koje se drže u zoološkim vrtovima i koje su obuhvaćene programom zaštite divlje faune ili koje se zbog genetskih resursa domaćih životinja drže u objektima koje je nadležno tijelo uvrstilo na popis centara za uzgoj životinja neophodnih za opstanak pasmine, u skladu s odgovarajućim odredbama Kodeksa o zdravlju životinja OIE-a.
