@@ -1,0 +1,4 @@
+# Članak 4.
+U članku 10. stavak 1. mijenja se i glasi:
+»(1) Društvo za osiguranje dužno je obavijestiti nadzorno tijelo o uvjetima osiguranja koje koristi za osiguranja iz članka 2. ovoga Zakona najkasnije 60 dana prije njihove primjene i to u svrhu provjere jesu li sukladni s propisima, osiguravateljskim načelima i pravilima struke. Društvo za osiguranje dužno je oblikovati premije osiguranja na temelju aktuarskih metoda i načela tako da omogućuju trajno ispunjavanje svih obveza društva za osiguranje iz ugovora o osiguranju uključivo i formiranje dostatnih tehničkih pričuva za navedeno osiguranje. Nadzorno tijelo može tražiti od društva za osiguranje dostavu cjenika premija, tehničkih podloga i ostalih elemenata korištenih za izračun premija osiguranja, a u svrhu provjere jesu li usklađeni s propisima Republike Hrvatske.«.
+U stavku 2. riječ: »sa« zamjenjuje se riječju: »s«, a riječ: »zakonskim« briše se.

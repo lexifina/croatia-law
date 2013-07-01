@@ -1,0 +1,3 @@
+# Članak 34.
+(1) Na dan stupanja na snagu ovoga Zakona u Zakonu o obveznim osiguranjima u prometu (»Narodne novine«, br. 151/05., 36/09. i 75/09.) u članku 26. stavku 3., 4. i 5., članku 29. stavku 3., članku 30. stavku 2., članku 31. stavku 2., članku 32. stavku 1., članku 34. stavku 3. i članku 36. stavku 2. brojka »2.« zamjenjuje se brojkom »8.«.
+(2) Na dan stupanja na snagu ovoga Zakona u Zakonu o obveznim osiguranjima u prometu (»Narodne novine«, br. 151/05., 36/09. i 75/09.) odredbe članka 3. stavka 1. točke 15., 16., 17., 18., 28., 29. i 31., članka 6. stavka 2., članka 26. stavka 2., 6. i 7., članka 39. i 40. prestaju važiti.
