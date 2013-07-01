@@ -1,0 +1,5 @@
+## Prekršaji pružatelja platnih usluga pri pružanju platnih usluga u drugoj državi članici preko podružnice ili zastupnika
+# Članak 8.
+(1) Pružatelj platnih usluga iz članka 2. stavka 2. točaka 1., 2. i 3. ovoga Zakona i odgovorna osoba tog pružatelja platnih usluga neće se kazniti za prekršaj iz članka 7. stavaka 1. i 2. ovoga Zakona ako je djelo počinjeno na području druge države članice pružanjem platnih usluga preko podružnice ili zastupnika u toj drugoj državi članici.
+(2) Ako je prekršaj iz članka 7. stavka 1. ovoga Zakona počinio pružatelj platnih usluga iz članka 2. stavka 2. točaka 6., 7. i 8. ovoga Zakona koji platne usluge pruža na području Republike Hrvatske preko podružnice ili zastupnika, za prekršaj iz članka 7. stavka 1. ovoga Zakona kaznit će se njegova podružnica, odnosno njegov zastupnik.
+(3) U slučaju iz stavka 2. ovoga članka kaznit će se i direktor odgovoran za poslovanje podružnice, odnosno odgovorna osoba iz uprave zastupnika pravne osobe, prema članku 7. stavku 2. ovoga Zakona.
