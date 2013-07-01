@@ -1,0 +1,4 @@
+# Članak 4.
+(1) Za stavljanje nove hrane i sastojaka nove hrane prvi put na tržište Europske unije na području Republike Hrvatske podnosi se zahtjev Ministarstvu sukladno članku 4. stavku 1. Uredbe (EZ) br. 258/97.
+(2) Zahtjev iz stavka 1. ovoga članka podnosi subjekt u poslovanju s hranom koji je odgovoran za prvo stavljanje nove hrane i sastojaka nove hrane na tržište.
+(3) Zahtjev iz stavka 1. ovoga članka mora sadržavati najmanje podatke iz članka 6. stavka 1. Uredbe (EZ) br. 258/97 i Preporuke Komisije 97/618/EZ od 29. srpnja 1997. godine koja se odnosi na znanstvene aspekte i prikazivanje informacija potrebnih za podupiranje zahtjeva za plasiranje na tržište nove hrane i novih sastojaka hrane te pripremu izvješća o novoj hrani (SL L 253, 16. 9. 1997.) - u daljnjem tekstu: Preporuka Komisije 97/618/EZ.
