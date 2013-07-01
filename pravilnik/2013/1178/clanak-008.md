@@ -1,0 +1,7 @@
+## Ugrožavanje sigurnosti leta laserom
+# Članak 8.
+(1) Ukoliko pilot smatra da je zbog utjecaja lasera bila ugrožena sigurnost leta, on taj događaj može prijaviti.
+(2) Izvješće koje se odnosi na ugrožavanje sigurnosti leta laserom prijavljuje se pružatelju usluga u zračnoj plovidbi. Prilikom izvješćivanja o ugrožavanju sigurnosti leta laserom, pilot zrakoplova koji održava radiokomunikaciju s nadležnom kontrolom zračnoga prometa će putem radiokomunikacije proslijediti odgovarajuće izvješće, te tako proslijeđeno izvješće nakon slijetanja potvrditi i podnijeti ga pružatelju usluga u zračnoj plovidbi u pisanom obliku, kako bi se utvrdile sve okolnosti događaja i povećala vjerojatnost utvrđivanja počinitelja.
+(3) Pružatelj usluga u zračnoj plovidbi dužan je odmah nakon zaprimanja usmenog izvješća o ugrožavanju sigurnosti leta laserom usmeno izvijestiti nadležnu ustrojstvenu jedinicu aerodromske policije u cilju primjene ovlasti iz vlastite nadležnosti. Pisano izvješće o ugrožavanju sigurnosti leta laserom pružatelj usluga u zračnoj plovidbi dužan je proslijediti nadležnoj ustrojstvenoj jedinici aerodromske policije i Agenciji odmah nakon usmenog izvješćivanja, a najkasnije u roku od 1 sata.
+(4) Pisano izvješće o ugrožavanju sigurnosti leta laserom Agencija će proslijediti Agenciji za istraživanje u roku od 7 dana od zaprimanja izvješća radi pohrane u Nacionalnu bazu podataka.
+(5) Pisano izvješće o događaju ugrožavanja sigurnosti leta laserom podnosi se na obrascu iz Dodatka V ovoga Pravilnika.

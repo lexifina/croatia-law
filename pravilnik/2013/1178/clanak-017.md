@@ -1,0 +1,5 @@
+## Procjena rizika događaja
+# Članak 17.
+(1) Odobrene organizacije iz članka 10. stavka 1. ovoga Pravilnika moraju uspostaviti i održavati formalni proces procjene rizika događaja koji osigurava analizu (u terminima vjerojatnosti i ozbiljnosti događaja), procjenu (u terminima prihvatljivosti / tolerantnosti) i kontrolu (u terminima ublažavanja) rizika na prihvatljivoj razini.
+(2) Događaji se klasificiraju sukladno ICAO matrici rizika sadržanoj u poglavlju 5. ICAO dokumenta 9859 (Safety Management Manual). Matrica procjene rizika prikazana je u Dodatku III ovoga Pravilnika.
+(3) Iznimno od odredbe stavka 2. ovoga članka događaji u ATM području se klasificiraju sukladno standardima Europske organizacije za sigurnost zračne plovidbe sadržanim u dokumentu EUROCONTROL-ovi Sigurnosni regulatorni zahtjevi - Izvješćivanje i procjena događaja u upravljanju zračnim prometom (ESARR 2) (EUROCONTROL Safety Regulatory Requirement - Reporting and Assessment of Safety Occurrences in ATM) i svim primjenjivim smjernicama (Guidance Documents).
