@@ -1,0 +1,6 @@
+# Članak 21.
+(1) Povjerenstvo provodi postupak dražbe prema uvjetima oglašenim u oglasu uz provjeru prisutnosti osoba s liste ponuditelja iz članka 20. ovoga Pravilnika.
+(2) U provođenju dražbe Povjerenstvo će posebnom odlukom koja se unosi u zapisnik iz članka 22. stavka 1. ovoga Pravilnika odrediti da je kupac onaj ponuditelj za kojeg je utvrđeno da je nakon trećeg javnog poziva na davanje ponude ponudio viši iznos od početne prodajne cijene, odnosno zadnje ponuđene cijene (u daljnjem tekstu ovoga Odjeljka: kupac).
+(3) Ako iz razloga određenih u članku 24. stavku 1. ovoga Pravilnika dražba nije uspjela, Povjerenstvo će provesti novu dražbu pod uvjetima koji će biti ponovno oglašeni uz odgovarajuću primjenu članka 18. ovoga Pravilnika, pri čemu je moguće i umanjene početne prodajne cijene.
+(4) U određivanju početne prodajne cijene iz stavka 3. ovoga članka Povjerenstvo će se, osim ocjenom elemenata iz članka 13. ovoga Pravilnika, rukovoditi potrebom da se najprimjerenije postigne svrha učinkovitog i ekonomičnog reguliranja statusa robe.
+(5) Ako se iz razloga određenih u članku 24. stavku 1. ovoga Pravilnika niti nakon provedene treće dražbe ne može odrediti da je dražba uspjela, Povjerenstvo će utvrditi da se neće provoditi daljnji pokušaji provođenja dražbi i odrediti će daljnje radnje za određenje postupanja s robom radi reguliranja statusa robe.
