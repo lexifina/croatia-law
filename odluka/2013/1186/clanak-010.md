@@ -1,0 +1,3 @@
+# Članak 10.
+Posljednje Mjesečno agregirano izvješće o ostvarenim platnim transakcijama s inozemstvom (TRANS-INO-M) prema Odluci o prikupljanju agregiranih podataka o ostvarenim platnim transakcijama s inozemstvom (»Narodne novine«, br. 148/2010.) za lipanj 2013., obveznici su dužni dostaviti najkasnije do 15. srpnja 2013. godine.
+Posljednje Tromjesečno agregirano izvješće o ostvarenim platnim transakcijama s inozemstvom (TRANS-INO-Q) prema Odluci o prikupljanju agregiranih podataka o ostvarenim platnim transakcijama s inozemstvom (»Narodne novine«, br. 148/2010.) za razdoblje od 1. travnja do 30. lipnja 2013., obveznici su dužni dostaviti najkasnije do 15. srpnja 2013. godine.
