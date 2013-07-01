@@ -1,0 +1,5 @@
+# Članak 6.
+(1) Ako ovim Pravilnikom nije drukčije propisano, dobra, koja su u skladu s ovim Pravilnikom predmet oslobođenja, prije isteka 3 godine od datuma kupnje nije dozvoljeno otuđiti, dati na uporabu drugim osobama ili na drugi način koristiti u druge svrhe (u daljnjem tekstu: otuđenje) dok se porez ne plati.
+(2) Ako osoba koja ima pravo na oslobođenje otuđi dobra prije roka navedenog u stavku 1. ovog članka dužna je to prijaviti nadležnom poreznom/carinskom uredu kako bi utvrdilo obvezu plaćanja poreza.
+(3) Iznimno od stavka 1. ovoga članka, porez se ne plaća ako je otuđenje posljedica službenog razrješenja ili smrti oslobe koja ima pravo na oslobođenje ili ako dobro otuđi član obitelji osobe koja ima pravo na oslobođenje koji prestaje boraviti u Hrvatskoj zbog prijevremenog razrješenja ili smrti osobe koja ima pravo na oslobođenje.
+III. DIPLOMATSKA I KONZULARNA PREDSTAVNIŠTVA U DRUGOJ DRŽAVI ČLANICI, INSTITUCIJE I TIJELA EUROPSKE UNIJE SA SJEDIŠTEM U DRUGOJ DRŽAVI ČLANICI TE MEĐUNARODNE ORGANIZACIJE SA SJEDIŠTEM ILI PREDSTAVNIŠTVOM U DRUGOJ DRŽAVI ČLANICI

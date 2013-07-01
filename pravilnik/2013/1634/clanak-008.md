@@ -1,0 +1,2 @@
+# Članak 8.
+Za diplomatska i konzularna predstavništva sa sjedištem u trećim zemljama, institucije i tijela Europske unije sa sjedištem u trećim zemljama na koja se primjenjuje Protokol u okvirima i pod uvjetima koji su utvrđeni tim Protokolom i sporazumima o njegovoj primjeni te međunarodne organizacije sa sjedištem ili predstavništvom u trećoj zemlji, koje žele u Hrvatskoj ostvariti oslobođenje od plaćanja poreza u skladu sa međunarodnim sporazumima koji obvezuju Hrvatsku, primjenjuju se odredbe članka 7. ovoga Pravilnika.

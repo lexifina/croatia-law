@@ -1,0 +1,1 @@
+Na temelju članka 48. stavka 2. Zakona o porezu na dodanu vrijednost (»Narodne novine«, broj 73/2013) te članka 30. stavka 3. Zakona o trošarinama (»Narodne novine«, br. 22/2013 i 32/2013 - ispravak) ministar financija donosi
