@@ -1,0 +1,27 @@
+## V. PREKRŠAJNE ODREDBE
+# Članak 15.
+(1) Novčanom kaznom u iznosu od 100.000,00 do 1.000.000,00 kuna kaznit će se za prekršaj pravna osoba:
+1. ako suprotno članku 5. stavku 1. Uredbe (EU) 236/2012 ne obavijesti Agenciju ili HNB o prelasku ili padu ispod praga iz članka 5. stavka 2. Uredbe (EU) 236/2012 ili o istome ne obavijesti Agenciju ili HNB u roku iz članka 9. stavka 2. Uredbe (EU) 236/2012,
+2. ako suprotno članku 6. stavku 1. Uredbe (EU) 236/2012 ne obavijesti javnost o prelasku ili padu ispod praga iz članka 6. stavka 2. Uredbe (EU) 236/2012 ili o istome ne obavijesti u roku iz članka 9. stavka 2. Uredbe (EU) 236/2012,
+3. ako suprotno članku 7. stavku 1. Uredbe (EU) 236/2012 ne obavijesti Agenciju ili HNB o prelasku ili padu ispod praga iz članka 7. stavka 2. Uredbe (EU) 236/2012 ili o istome ne obavijesti Agenciju ili HNB u roku iz članka 9. stavka 2. Uredbe (EU) 236/2012,
+4. ako suprotno članku 8. Uredbe (EU) 236/2012 ne obavijesti Agenciju o padu ili prelasku praga u nepokrivenim pozicijama u kreditnim izvedenicama na osnovi nastanka statusa neispunjavanja obveza iz državnih dužničkih financijskih instrumenata ili o istome ne obavijesti Agenciju u roku iz članka 9. stavka 2. Uredbe (EU) 236/2012,
+5. ako obavijesti iz članaka 5., 6., 7. i 8. Uredbe (EU) 236/2012 ne sadrže podatke iz članka 9. stavka 1. Uredbe (EU) 236/2012 i/ili nisu dostavljene ili objavljene na način propisan delegiranim uredbama Europske komisije i Odlukom iz članka 10. ovoga Zakona,
+6. ako u roku iz članka 9. stavka 1. Uredbe (EU) 236/2012 ne čuva podatke o bruto pozicijama koje čine značajnu neto kratku poziciju,
+7. ako suprotno uvjetima iz članka 12. stavka 1. Uredbe (EU) 236/2012 izvrši kratku prodaju dionica,
+8. ako suprotno uvjetima iz članka 13. Uredbe (EU) 236/2012 izvrši kratku prodaju državnih dužničkih financijskih instrumenta,
+9. ako suprotno odredbi članka 14. Uredbe (EU) 236/2012 izvrši transakciju s kreditnim izvedenicama na osnovi nastanka statusa neispunjavanja obveza iz državnih dužničkih financijskih instrumenata koja za posljedicu ima nepokrivenu poziciju u kreditnim izvedenicama na osnovi nastanka statusa neispunjavanja obveza iz državnih dužničkih financijskih instrumenata, kako je definirano člankom 4. Uredbe (EU) 236/2012,
+10. ako u roku iz članka 17. stavka 5. Uredbe (EU) 236/2012 pisanim putem ne obavijesti Agenciju o korištenju izuzetka za održavatelja tržišta i aktivnosti na primarnom tržištu,
+11. ako suprotno odredbi članka 18. stavka 1. Uredbe (EU) 236/2012 Agenciji na zahtjev ne dostavi ili javno ne objavi podatke o neto kratkim pozicijama koje se odnose na određeni financijski instrument ili kategoriju financijskih instrumenata,
+12. ako suprotno odredbi članka 19. stavka 2. Uredbe (EU) 236/2012 Agenciji na zahtjev ne dostavi obavijest o značajnim promjenama naknada za pozajmljivanje koje se odnose na određeni financijski instrument ili kategoriju financijskih instrumenata,
+13. ako suprotno zabrani ili ograničenju iz članka 20. stavka 2. Uredbe (EU) 236/2012 izvrši jednu od transakcija iz članka 20. stavka 2. Uredbe (EU) 236/2012,
+14. ako suprotno zabrani ili ograničenju iz članka 21. stavka 1. Uredbe (EU) 236/2012 izvrši transakciju s kreditnim izvedenicama na osnovi nastanka statusa neispunjavanja obveza iz državnih dužničkih financijskih instrumenata,
+15. ako suprotno privremenoj zabrani ili ograničenju iz članka 23. stavka 1. Uredbe (EU) 236/2012 izvrši kratku prodaju financijskog instrumenta,
+16. ako suprotno odredbi članka 28. stavka 1. točke a. Uredbe (EU) 236/2012 na zahtjev ESMA-e ne obavijesti Agenciju ili HNB ili ne objavi javnosti podatke o neto kratkim pozicijama koje se odnose na određeni financijski instrument ili kategoriju financijskih instrumenata,
+17. ako suprotno zabrani ili ograničenju ESMA-e iz članka 28. stavka 1. točke b. Uredbe (EU) 236/2012 izvrši transakciju kratke prodaje ili transakciju koja nije kratka prodaja kojom se stvara financijski instrument ili je s njime povezana, osim ako se radi o financijskom instrumentu iz članka 1. stavka 1. točke a. Uredbe (EU) 236/2012, pri čemu je učinak ili jedan od učinaka transakcije da fizička ili pravna osoba u slučaju pada cijene ili vrijednosti drugog financijskog instrumenta ostvaruje financijsku korist,
+18. ako suprotno odredbi članka 31. Uredbe (EU) 236/2012 ometa ESMA-u u provođenju nadzora sukladno odredbama Uredbe (EU) 236/2012 i ovoga Zakona,
+19. ako suprotno odredbama članka 33. Uredbe (EU) 236/2012 Agenciji ili HNB-u ne dostavi tražena očitovanja i dokumentaciju ili na bilo koji drugi način Agenciju ili HNB ometa u provođenju nadzora sukladno odredbama Uredbe (EU) 236/2012 i ovoga Zakona,
+20. ako suprotno članku 33. Uredbe (EU) 236/2012 i člancima 10. i 11. te članku 13. stavku 3. točki 2. i stavku 4. ovoga Zakona ne postupi po rješenju kojim Agencija nalaže nadzorne mjere,
+21. ako suprotno članku 33. Uredbe (EU) 236/2012 i članku 12. ovoga Zakona ne postupi po rješenju kojim HNB nalaže nadzorne mjere,
+22. ako investicijsko društvo ili kreditna institucija ne obavijesti Agenciju o slučajevima za koje opravdano sumnja da se radi o kršenju odredbi Uredbe (EU) 236/2012 i ovoga Zakona, suprotno odredbi članka 8. stavka 5. ovoga Zakona.
+(2) Novčanom kaznom u iznosu od 30.000,00 do 50.000,00 kuna kaznit će se za prekršaj iz stavka 1. ovoga članka i odgovorna osoba u pravnoj osobi.
+(3) Fizička osoba kaznit će se za prekršaj iz stavka 1. ovoga članka novčanom kaznom u iznosu od 30.000,00 do 50.000,00 kuna.

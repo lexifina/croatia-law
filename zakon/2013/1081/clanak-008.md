@@ -1,0 +1,8 @@
+# Članak 8.
+(1) Ako je to potrebno u svrhu nadzora nad poštivanjem odredbi Uredbe (EU) 236/2012 i ovoga Zakona, Agencija može od bilo koje fizičke ili pravne osobe zahtijevati:
+1. pristup svakom dokumentu u bilo kojem obliku i dostavu preslike istog,
+2. pregled razmjene podataka, uključujući i zapise telefonskih poziva.
+(2) Agencija može od bilo koje fizičke ili pravne osobe, uključujući i osobe koje su uključene u prijenos naloga ili koje obavljaju druge poslove pri sklapanju transakcija koje su predmet nadzora Agencije, zatražiti sve podatke i očitovanja koji su Agenciji potrebni za nadzor. Ako to zahtijeva svrha nadzora, Agencija je ovlaštena te osobe pozvati na saslušanje.
+(3) Ako je to potrebno u svrhu nadzora nad poštivanjem odredbi Uredbe (EU) 236/2012 i ovoga Zakona, Agencija može provesti neposredni nadzor sa ili bez prethodne dostave obavijesti o nadzoru.
+(4) Agencija može sukladno odredbama članka 14. stavka 2. Uredbe (EU) 236/2012 pravilnikom propisati dodatne kriterije na temelju kojih Agencija može donijeti odluku o privremenoj obustavi ograničenja iz članka 14. stavka 1. Uredbe (EU) 236/2012 vezanih za nepokrivene transakcije kreditnim izvedenicama na temelju nastanka statusa neispunjavanja obveza iz državnih dužničkih financijskih instrumenata.
+(5) Investicijska društva i kreditne institucije koje imaju dozvolu nadležnog tijela za pružanje investicijskih usluga i obavljanje investicijskih aktivnosti, obvezne su obavijestiti Agenciju o slučajevima za koje opravdano sumnjaju da se radi o kršenju odredbi Uredbe (EU) 236/2012 i ovoga Zakona, na temelju njima dostupnih podataka.
