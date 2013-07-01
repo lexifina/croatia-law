@@ -1,0 +1,5 @@
+# Članak 5.
+U članku 5. stavku 1. iza riječi: »superviziju« dodaju se riječi: »odnosno nadzor«, iza riječi: »provođenje dodatne supervizije« dodaju se riječi: »odnosno nadzora«, a iza riječi: »ciljeve dodatne supervizije« dodaju se riječi: »odnosno nadzora«.
+Stavci 2. i 3. mijenjaju se i glase:
+»(2) Ako grupa ispunjava uvjet iz članka 4. stavka 2. ovoga Zakona, a najmanji sektor ne prelazi 4,5 milijardi kuna mjerodavna nadležna tijela mogu odlučiti da grupu neće smatrati financijskim konglomeratom. Ona mogu također ne provoditi dodatnu superviziju odnosno nadzor u području koncentracije rizika, unutargrupnih transakcija, sustava unutarnjih kontrola i procesa upravljanja rizicima, ako bi provođenje dodatne supervizije odnosno nadzora nad tom grupom bilo neprikladno ili navodilo na pogrešne zaključke u odnosu na ciljeve dodatne supervizije odnosno nadzora.
+(3) Ako je nadležno tijelo iz Republike Hrvatske donijelo odluku u skladu sa stavcima 1. ili 2. ovoga članka, o takvoj odluci obavijestit će druga nadležna tijela. Ovu odluku nadležno tijelo će, osim u iznimnim okolnostima, javno objaviti.«
