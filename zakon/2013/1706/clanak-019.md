@@ -1,0 +1,4 @@
+# Članak 19.
+U članku 104. stavci 1. i 2. mijenjaju se i glase:
+»(1) Za prekršaj iz članka 102. stavka 1. točaka 1., 2., 9., 10., 11., 12., 17., 18., 19., 20., 29., 41., 42., 43., 44., 45., 46., 47., 48., 49., 51., 52., 53., 54., 55., 56., 58., 59., 60., 61., 63., 66., 67., 68., 69., 70., 73., 74., 76., 77., 78., 79., 80., 81., 82., 83., 84., 85., 86., 87., 88. i 92. ovoga Zakona, za prekršaj iz članka 102. stavka 2. točki 25., 26., 28., 29., 30., 32., 33. i 36. ovoga Zakona, za prekršaj iz članka 102. stavka 3. točki 2., 4., 5. i 6. ovoga Zakona te za prekršaj iz članka 103. stavaka 1., 2. i 3. ovoga Zakona, uz novčanu kaznu trošarinski proizvodi će se oduzeti.
+(2) Za prekršaj iz članka 102. stavka 1. točaka 78., 79., 84. i 85. ovoga Zakona učinjen ponovo u roku tri godine, uz novčanu kaznu oduzet će se motorno vozilo, plovni objekt, plovilo ili drugi stroj ili motor u kojem je učinjeno takvo djelo.«.
