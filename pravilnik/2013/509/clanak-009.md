@@ -1,0 +1,3 @@
+## Bitni zahtjevi za građevine
+# Članak 9.
+Građevine namijenjene za rad moraju ispunjavati sve bitne zahtjeve za građevinu (mehanička otpornost i stabilnost, zaštita od požara i eksplozije, higijena, zdravlje i zaštita okoliša, sigurnost u korištenju, zaštita od buke i vibracija, zaštita od udara munje i električne struje, ušteda energije i toplinska zaštita, osiguranje potrebne radne površine i radnog prostora, osiguranje potrebnih puteva za prolaz, prijevoz i evakuaciju radnika, osiguranje mikroklimatskih uvjeta, osiguranje potrebne rasvjete i parametara radnog okoliša, zaštita od štetnih atmosferskih i klimatskih utjecaja, zaštitu od štetnog zračenja, osiguranje pomoćnih prostorija i prostora i dr.) sukladno ovom Pravilniku i posebnim propisima.

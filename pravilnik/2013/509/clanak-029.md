@@ -1,0 +1,5 @@
+## Pomoćne prostorije (svlačionice, umivaonici, kupaonice, nužnici)
+# Članak 29.
+(1) U građevinama namijenjenim za rad moraju se osigurati pomoćne prostorije (garderobe, kupaonice, umivaonice, prostorije za uzimanje obroka hrane, prostorije za osobnu higijenu žena, prostorije za povremeno zagrijavanje osoba na radu, nužnici, pisoari, prostorija za čišćenje i dezinfekciju radne odjeće i osobne zaštitne opreme i zaštitnih sredstava i dr.) koje se mogu nalaziti u tim građevinama ako je to sukladno prirodi procesa i organizaciji rada ili u izdvojenim građevinama u blizini mjesta rada.
+(2) Veličina pomoćnih prostorija mora odgovarati namjeni, a visina prostorija ovisi o namjeni i broju korisnika, i ne može biti manja od 2,5 m.
+(3) Prostorije iz stavka 1. ovoga članka iznimno mogu imati visinu i manju od 2,5 m, ali ne manju od 2,2 m, ako se ove prostorije nalaze u građevinama koje nisu građene po sada važećim propisima, u zaštićenim objektima koji su spomenici kulture, a čiju visinu nije moguće mijenjati i kontejnerima, uz uvjet da su ispunjeni drugi uvjeti propisani za pomoćne prostorije.
