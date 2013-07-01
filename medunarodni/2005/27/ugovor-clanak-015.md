@@ -1,5 +1,0 @@
-# Članak 15.
-Boravak u pograničnom području
-1. Poljoprivredni uložak daje njegovom nositelju i korisniku pravo višekratnog prelaska granice na pograničnim prijelazima koji su u ulošku upisani na temelju priloga C, kao i na drugim mjestima upisanim u uložak. Poljoprivredni uložak istodobno omogućuje nositelju i korisniku boravak do sedam dana na upisanim imanjima ili u upisanim naseljima na susjednom pograničnom području. Granicu mora svaki put u odlasku i povratku prijeći na istom graničnom prijelazu.
-2. Nositelji i korisnici poljoprivrednog uloška te njihova radna snaga imaju pravo ostati na susjednom pograničnom području i dulje vremena, ako to zahtijevaju gospodarski razlozi, naročito ako se tamo nalaze njihove gospodarske zgrade. To pravo mora biti navedeno u poljoprivrednom ulošku i ovjereno od nadležnog tijela.
-3. Vlasnici stada i pojedinih životinja te pčela, kao i pastiri i uzgajivači životinja mogu ostati na susjednom pograničnom području neprekidno tijekom cijele sezone ispaše, ali najduže sedam mjeseci, a osobe koje imaju pravo služnosti korištenja šuma, šumari i ugljenari, najduže tri mjeseca.

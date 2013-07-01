@@ -1,4 +1,0 @@
-# Članak 21.
-Carinski nadzor nad stokom
-1. Povratak sve stoke, osim one koja je navedena u članku 20. stavku 7. ovoga Sporazuma, i pčela pod carinskim je nadzorom za povratak u skladu s carinskim propisima ugovornih stranaka. U tom postupku carinska služba može, ukoliko postoji osnovana sumnja da će na susjednom pograničnom području doći do nedozvoljenog otuđenja stoke, zahtijevati odgovarajuće osiguranje za plaćanje carine i drugih davanja.
-2. Vlasnik mora za stoku koju odvodi iz jednog pograničnog područja na drugo prilikom prelaska granice uručiti carinskim službama ugovornih stranaka vlastoručno potpisani popis stoke. Istovjetni popis mora, po prelasku granice, uručiti nadležnom tijelu područja na koje odvodi stoku. U taj popis moraju biti uneseni podaci za svaku životinju (vrsta, spol, eventualna skotnost, oznake, žig, boja i sl.).
