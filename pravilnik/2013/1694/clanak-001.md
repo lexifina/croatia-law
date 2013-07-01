@@ -1,0 +1,3 @@
+## I. OPĆE ODREDBE
+# Članak 1.
+Ovim se Pravilnikom propisuje postupak utvrđivanja sukladnosti traktora, tehnički zahtjevi koje traktor za poljoprivredu i šumarstvo (u daljnjem tekstu: traktor) odnosno zasebne tehničke jedinice i dijelovi za traktor moraju ispunjavati, oblik i sadržaj zahtjeva, potvrde o evidenciji odnosno sukladnosti tipa traktora, potvrde o sukladnosti pojedinačno pregledanog traktora i izjave o sukladnosti traktora, uvjeti koje za provođenje postupka utvrđivanja sukladnosti mora ispunjavati pravna osoba i tehnička služba, izuzeća od postupka, nadzor te naknade koje se naplaćuju za provođenje postupka utvrđivanja sukladnosti traktora.
