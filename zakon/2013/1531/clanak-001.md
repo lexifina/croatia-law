@@ -1,0 +1,3 @@
+## I. Opće odredbe
+# Članak 1.
+Ovim se Zakonom radi provedbe Uredbe (EZ) br. 1082/2006 Europskog parlamenta i Vijeća od 5. srpnja 2006. godine o Europskoj grupaciji za teritorijalnu suradnju (EGTS) (SL L 210, 31. 7. 2006.) - u daljnjem tekstu: Uredba (EZ) br. 1082/2006, utvrđuju članovi EGTS-a iz Republike Hrvatske, pravni status EGTS-a sa sjedištem u Republici Hrvatskoj, nadležna tijela za provedbu Uredbe (EZ) br. 1082/2006 i ovog Zakona, nadležno tijelo za kontrolu iz članka 6. stavka 1. Uredbe (EZ) br. 1082/2006, nadležno tijelo za donošenje odluke iz članka 13. stavka 1. i članka 14. Uredbe (EZ) br. 1082/2006 i postupak odobrenja članstva u EGTS-u.
