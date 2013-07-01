@@ -1,0 +1,15 @@
+# Članak 26.
+(1) Transplantacijski internist iz članka 23. ovoga Pravilnika je doktor medicine specijalist gastroenterologije ili specijalist interne medicine s užom specijalizacijom iz gastroenterologije.
+(2) Transplantacijski internist mora imati godinu dana edukacije u transplantacijskom centru s transplantacijskim programom za jetru tijekom kojih je obvezan:
+- pod direktnim nadzorom sudjelovati najmanje 3 mjeseca na poslovima skrbi o transplaniranim pacijentima, a ostatak vremena provesti na poslovima vezanim uz transplantaciju, poput rada u laboratoriju za tipizaciju tkiva,
+- ovladati znanjem i vještinama iz područja transplantacijske medicine uključujući skrb o pacijentima u završnim fazama bolesti jetre, odabiru primatelja, osnova histokompatibilnosti i tipizacije tkiva, postoperativnoj i kasnijoj skrbi o pacijentima, korištenju imunosupresivne terapije, diferencijalne dijagnostike i interpretacije nalaza testova disfunkcije jetre, interpretaciji histoloških nalaza biopsije te dugoročnog praćenja i skrbi o pacijentu,
+- surađivati s kirurzima na preoperativnoj procjeni te postoperativnoj skrbi kao i liječenju,
+- sudjelovati u radu transplantacijskog tima i biti uključen u donošenje odluka o imunosupresivnoj terapiji,
+- tijekom 12 mjeseci sudjelovati u skrbi o najmanje 30 hospitaliziranih transplantiranih pacijenata kao i u praćenju/kontroli najmanje 30 pacijenata otpuštenih iz bolnice. Praćenje otpuštenih pacijenata mora biti u kontinuitetu najmanje 3 mjeseca nakon otpusta iz bolnice,
+- biti prisutan u operacijskoj dvorani pri najmanje 3 transplantacije jetre i najmanje 3 eksplantacije,
+- prisustvovati i promatrati najmanje jedan postupak procjene darivatelja te čitavog postupka darivanja organa te
+- sudjelovati pri najmanje 3 multiorganske eksplantacije.
+(3) Iznimno, ako transplantacijski internist ne ispunjava uvjete iz stavka 2. ovoga članka, može mu se priznati kliničko iskustvo, ako ispunjava sljedeće uvjete:
+- ima dokumentirano sudjelovanje u skrbi najmanje 25 ili više pacijenata s transplantiranom jetrom u posljednjih 5 godina. Sudjelovanje u skrbi i praćenju pacijenata moraju biti u kontinuitetu barem tri mjeseca od otpusta iz bolnice za svakog pacijenta te dokumentirane i ovjerene od transplantacijskog centra u kojima su obavljene,
+- mora biti nazočan u operacijskoj dvorani pri najmanje 3 transplantacije i 3 eksplantacije jetre. Uz to, mora promatrati/sudjelovati u najmanje 3 procjene potencijalnih darivatelja i pripreme darivatelja uključujući i pripremu barem 3 multiorganska darivatelja gdje je jedan od doniranih organa jetra,
+- mora tijekom protekle dvije godine sudjelovati u skrbi transplantiranih pacijenata te ovladati znanjima i vještinama skrbi u završnim fazama bolesti jetre, odabiru primatelja, osnova histokompatibilnosti i tipizacije tkiva, postoperativnoj i kasnijoj skrbi o pacijentima, korištenju imunosupresivne terapije te nuspojavama i komplikacijama imunosupresije, diferencijalne dijagnostike i interpretacije nalaza testova disfunkcije jetre, interpretaciji histoloških nalaza biopsije i dugoročnog praćenja i skrbi o pacijentu.

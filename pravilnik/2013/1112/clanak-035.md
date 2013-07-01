@@ -1,0 +1,3 @@
+# Članak 35.
+(1) Dječji transplantacijski anesteziolog iz članka 32. ovoga Pravilnika je doktor medicine specijalist anesteziologije, reanimatologije i intenzivnog liječenja ili specijalist anesteziologije, reanimatologije i intenzivne medicine s najmanje dvogodišnjim iskustvom u anesteziji djece.
+(2) Dječji transplantacijski anesteziolog mora imati dvije godine radnog iskustva u transplantacijskom centru s transplantacijskim programom za jetru tijekom kojih je direktno sudjelovao u preoperativnoj pripremi i anesteziji 30 pacijenata (od čega barem 10 djece) za transplantaciju jetre i rješavanju mogućih komplikacija tijekom transplantacije te sudjelovao u post-transplantacijskoj skrbi o najmanje 10 djece.
