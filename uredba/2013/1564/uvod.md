@@ -1,0 +1,1 @@
+Na temelju članka 25. stavka 2. Zakona o izmjenama i dopunama Zakona o uređenju tržišta poljoprivrednih proizvoda (»Narodne novine«, broj 120/2012), Vlada Republike Hrvatske je na sjednici održanoj 20. lipnja 2013. godine donijela
