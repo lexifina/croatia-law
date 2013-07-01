@@ -1,0 +1,3 @@
+## Usklađenost s pravnim aktima Europske unije
+# Članak 1.
+Ovaj Pravilnik sadrži odredbe koje su u skladu sa Direktivom Vijeća 2000/79/EZ od 27. studenoga 2000. koja se odnosi na Europski sporazum o organizaciji radnog vremena mobilnog osoblja u civilnom zrakoplovstvu koji su zaključile Udruga europskih zračnih prijevoznika (Association of European Airlines - AEA), Udruženja europskih radnika u prometu - ETF), Europska udruga osoblja pilotskih kabina (European Cockpit Association (ECA)), Udruga europskih regionalnih zračnih prijevoznika (European Regions Airline Association - ERA), te Međunarodna udruga zračnih prijevoznika (International Air Carrier Association - IACA).
