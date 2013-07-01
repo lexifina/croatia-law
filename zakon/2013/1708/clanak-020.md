@@ -1,0 +1,12 @@
+# Članak 20.
+Članak 20. mijenja se glasi:
+»(1) Osim za djela iz članka 10. ovog Zakona, nadležni sud će izvršiti europski uhidbeni nalog za djelo za koje je u državi izdavanja propisana kazna zatvora u najdužem trajanju od barem jedne godine zatvora ili više ili je donesena pravomoćna presuda kojom je izrečena kazna zatvora ili mjera koja uključuje oduzimanje slobode u trajanju od najmanje četiri mjeseca, pod uvjetom da to djelo sadrži bitna obilježja kaznenog djela i prema domaćem pravu, neovisno o zakonskom opisu i pravnoj kvalifikaciji kažnjive radnje navedenim u zaprimljenom nalogu.
+(2) Sud će odbiti priznanje europskog uhidbenog naloga:
+1. ako je europski uhidbeni nalog izdan za djelo koje je u Republici Hrvatskoj obuhvaćeno amnestijom, a na temelju zakona postoji nadležnost domaćeg suda,
+2. ako je sud obaviješten da je tražena osoba već pravomoćno osuđena u nekoj od država članica za isto djelo pod uvjetom da je kaznena sankcija izvršena ili se trenutačno izvršava ili se više ne može izvršiti prema pravu države u kojoj je donesena presuda,
+3. ako tražena osoba u trenutku počinjenja kaznenog djela nije navršila 14 godina života,
+4. ako djelo iz članka 17. stavka 2. ovog Zakona na koje se odnosi europski uhidbeni nalog ne predstavlja kazneno djelo prema domaćem zakonu. Za fiskalna djela izvršenje europskog uhidbenog naloga ne može se odbiti samo iz razloga što domaće pravo ne propisuje istu vrstu poreza ili pristojbi ili što ne sadrži iste odredbe o porezima, pristojbama, carinama ili mijenjanju valute kao i pravo države izdavanja,
+5. ako se u Republici Hrvatskoj protiv osobe za kojom je izdan europski uhidbeni nalog vodi kazneni postupak zbog istog djela zbog kojeg je nalog izdan, osim ako su se državni odvjetnik i nadležno tijelo države izdavanja sporazumjeli da postupak vodi pravosudno tijelo države izdavanja,
+6. ako je domaće pravosudno tijelo odlučilo da neće pokrenuti kazneni postupak za djelo za koje je izdan europski uhidbeni nalog jer je osumnjičenik ispunio obveze koje su mu naložene kao uvjet za nepokretanje postupka,
+7. ako je prema domaćem pravu nastupila zastara kaznenog progona ili izvršenja kaznenopravne sankcije, a postoji nadležnost Republike Hrvatske na temelju domaćeg prava,
+8. ako je sud zaprimio obavijest da je tražena osoba već pravomoćno osuđena u trećoj državi zbog istog djela, a sankcija je izvršena ili se trenutačno izvršava ili se više ne može izvršiti prema pravu države u kojoj je donesena presuda.«.

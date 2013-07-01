@@ -1,0 +1,6 @@
+# Članak 35.
+Članak 44. mijenja se i glasi:
+»(1) Tijelo nadležno prema domaćem pravu izdat će nalog za osiguranje imovine ili dokaza koji se nalaze u drugoj državi članici u svrhu osiguranja dokaza ili omogućavanja naknadnog oduzimanja imovine za potrebe kaznenih postupaka koji se vode u Republici Hrvatskoj.
+(2) Državno odvjetništvo koje je izdalo nalog za privremeno oduzimanje predmeta ili na temelju čijeg prijedloga je sud donio rješenje o osiguranju oduzimanja imovinske koristi, proslijedit će te odluke Državnom odvjetništvu Republike Hrvatske na daljnji postupak.
+(3) Državno odvjetništvo Republike Hrvatske će ispuniti potvrdu čiji je standardni obrazac sastavni dio ovog Zakona (Prilog 2.) i ovjeriti točnost njezina sadržaja te ih s nalogom odnosno rješenjem dostaviti nadležnom tijelu državu članice za koju opravdano vjeruje da se u njoj nalaze predmeti ili imovina, odnosno boravište fizičke osobe ili sjedište pravne osobe kod koje se oni nalaze.
+(4) Ako nalog iz stavka 2. ovog članka bude stavljen izvan snage, a rješenje iz istog stavka ukinuto ili preinačeno, Državno odvjetništvo Republike Hrvatske dužno je o tome odmah obavijestiti nadležno tijelo države izvršenja posredstvom sigurnog komunikacijskog sredstva podobnog za ispis, uz uvjet da država izvršenja pristaje na takav način prosljeđivanja.«.

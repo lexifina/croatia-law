@@ -1,0 +1,7 @@
+# Članak 24.
+Članak 23. mijenja se i glasi:
+»(1) Policija može u skladu sa svojim ovlastima na temelju zakona kojim se uređuje policijsko postupanje uhititi osobu protiv koje je izdan europski uhidbeni nalog i predati je pritvorskom nadzorniku. Presliku Europskog uhidbenog naloga ili upozorenje iz Schengenskog informacijskog sustava i njegov prijevod u smislu članka 9. ovog Zakona dostavit će nadležnom županijskom državnom odvjetniku.
+(2) Nakon što primi obavijest od pritvorskog nadzornika o pritvaranju, državni odvjetnik će ispitati uhićenika te će, ako ne odredi mjere opreza, naložiti policiji da ga u roku od 48 sati od trenutka uhićenja dovede nadležnom sucu istrage radi odluke o istražnom zatvoru i pokretanja postupka predaje.
+(3) Kad nadležno županijsko državno odvjetništvo neposredno zaprimi europski uhidbeni nalog, provjerit će sadrži li sve podatke u smislu članka 18. ovog Zakona. Ako je nalog nepotpun ili mu nije priložen prijevod u smislu članka 9. ovog Zakona, državno odvjetništvo će tijelu koje je izdalo europski uhidbeni nalog odrediti primjereni rok, ne dulji od sedam radnih dana, za dostavu prijevoda, odnosno dodatnih podataka potrebnih za izvršenje europskog uhidbenog naloga.
+(4) Dokumentaciju iz stavka 3. ovog članka državni odvjetnik će dostaviti županijskom sudu na nadležno postupanje.
+(5) U postupku pred sudom pokrenutog na temelju europskog uhidbenog naloga državu izdavanja naloga zastupa nadležni državni odvjetnik.«.
