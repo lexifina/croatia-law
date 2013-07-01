@@ -1,0 +1,1 @@
+Pravilnik o prestanku važenja Pravilnika o uvjetima pod kojima se dopuštaju odstupanja od određenih fitosanitarnih zahtjeva pri unošenju drva četinjača toplinski tretiranog, podrijetlom iz Kanade, i utvrđivanju pojedinosti indikatorskog sustava koji se primjenjuje na toplinski tretirano drvo
