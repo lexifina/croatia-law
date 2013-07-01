@@ -20,3 +20,9 @@ Source: https://narodne-novine.nn.hr/clanci/sluzbeni/2013_06_73_1467.html
 | čl. 9 | [clanak-009.md](clanak-009.md) |
 | Naslov | [naslov.md](naslov.md) |
 | Uvod | [uvod.md](uvod.md) |
+
+## Commencement basis
+
+Article 9: “Ovaj Pravilnik stupa na snagu 1. srpnja 2013. godine.”
+
+In force: 2013-07-01. [Official source](https://narodne-novine.nn.hr/clanci/sluzbeni/2013_06_73_1467.html).
