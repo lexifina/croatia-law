@@ -1,0 +1,7 @@
+# Članak 4.
+Članak 10. mijenja se i glasi:
+»(1) HNB određuje limite na obračunskim računima neposrednih sudionika u skladu s člankom 11. ove Odluke i obavlja poslove agenta za namiru obračuna izvršenog u NKS-u u skladu s člankom 12. ove Odluke.
+(2) HNB onemogućuje obračun platnih transakcija na teret i u korist obračunskog računa neposrednog sudionika iz članka 2. stavaka 2. i 3. ove Odluke u slučaju otvaranja stečajnog postupka i postupka prisilne likvidacije u trajanju i pod uvjetima predviđenima propisima koji se primjenjuju na kreditnu instituciju u likvidaciji i podružnicu kreditne institucije iz treće države u likvidaciji, a na teret obračunskog računa u slučaju privremene zabrane plaćanja na teret računa sudionika donesene na temelju posebnog zakona.
+(3) HNB onemogućuje obračun platnih transakcija na teret i u korist obračunskog računa neposrednog sudionika iz članka 2. stavka 4. ove Odluke odmah nakon primitka obavijesti o pokretanju postupka zbog insolventnosti nad tim sudionikom, a na teret obračunskog računa u slučaju naloga za blokadu računa izdanog na temelju posebnog zakona.
+(4) HNB bez odgađanja prosljeđuje obavijest Fini o pokretanju postupka zbog insolventnosti nad posrednim sudionikom iz članka 2. stavaka 2., 3. i 4. u skladu sa zakonom kojim se uređuje konačnost namire u platnim sustavima.
+(5) Za poslove iz stavka 1. ovoga članka HNB obračunava naknadu Fini, u skladu s propisanim naknadama Hrvatskog sustava velikih plaćanja (u nastavku teksta: HSVP).«
