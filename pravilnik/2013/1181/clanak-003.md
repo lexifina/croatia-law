@@ -1,0 +1,3 @@
+# Članak 3.
+(1) Pojmovi u smislu ovoga Pravilnika imaju jednako značenje kao pojmovi uporabljeni u Odluci Komisije 2011/850/EU.
+(2) Osim pojmova iz stavka 1. ovoga članka, pojedini pojmovi koji se koriste u ovom Pravilniku sukladni su pojmovima utvrđenim u Zakonu o zaštiti zraka, Zakonu o državnoj izmjeri i katastru nekretnina (Narodne novine, br. 16/2007, 124/2010), Zakonu o prostornom uređenju i gradnji (Narodne novine, br. 76/2007, 38/2009, 90/2011, 50/12 i 55/12) i Pravilnika o sadržaju i obveznim prostornim pokazateljima izvješća o stanju u prostoru (Narodne novine, br. 114/2010, 141/2010).
