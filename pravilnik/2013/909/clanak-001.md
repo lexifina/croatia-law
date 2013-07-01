@@ -1,0 +1,4 @@
+## I. OPĆE ODREDBE
+# Članak 1.
+Ovom Pravilnikom uređuje se sustav provedbe naknadnih kontrola velikih korisnika mjera uređenja tržišta poljoprivrednih proizvoda koji primaju ili obavljaju isplate izravno ili neizravno povezane sa sustavom financiranja od strane Europskog fonda za jamstva u poljoprivredi (u daljnjem tekstu: EAGF), ili njihovih predstavnika, kako bi se provjerilo jesu li transakcije koje čine dio sustava financiranja od strane EAGF-a obavljene i provedene pravilno.
+Pravilnikom se utvrđuju nadležnosti tijela vezanih za provedbu, koordinaciju i izvješćivanje o naknadnim kontrolama, radi provedbe Uredbe Vijeća (EZ) br. 485/2008 od 26. svibnja 2008. o kontroli transakcija koju provode države članice, a koje su dio sustava financiranja Europskog fonda za jamstva u poljoprivredi (u daljnjem tekstu: Uredba Vijeća (EZ) br. 485/2008).
