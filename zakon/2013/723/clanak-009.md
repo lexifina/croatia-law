@@ -1,0 +1,7 @@
+# Članak 9.
+(1) U svrhu informiranja potrošača, označivanja, reklamiranja i prezentiranja hrane za posebne prehrambene potrebe, primjenjuju se odredbe posebnih propisa o informiranju potrošača, označivanju, reklamiranju i prezentiranju hrane i odredbe provedbenih propisa donesenih na temelju ovoga Zakona, kao i odredbe uredbi iz članka 1. ovoga Zakona.
+(2) Osim uvjeta propisanih provedbenim propisima iz stavka 1. ovoga članaka, na tekstu označivanja proizvoda mora se navesti i sljedeće:
+a) uz naziv pod kojim se hrana iz članka 3. ovoga Zakona stavlja na tržište, navode se njezina posebna prehrambena svojstva, osim u slučaju hrane za posebne prehrambene potrebe iz članka 3. stavka 2. podstavka c) ovoga Zakona, kada se navodi namjena tih proizvoda,
+b) popis pojedinih sastojaka izražen kvalitativno i kvantitativno ili posebni postupak prerade koji hrani daje posebna prehrambena svojstva,
+c) energetsku vrijednost izraženu u kJ i kcal, te sadržaj ugljikohidrata, bjelančevina i masti na 100 g ili 100 mL gotovog proizvoda i ako je potrebno na jedan obrok. Ako je energetska vrijednost manja od 50 kJ (12 kcal) na 100 g ili 100 ml gotovog proizvoda, navedeni se podaci mogu zamijeniti riječima: »energetska vrijednost manja od 50 kJ (12 kcal) na 100 g« ili riječima: »energetska vrijednost manja od 50 kJ (12 kcal) na 100 mL«.
+Obveze i odgovornosti subjekata u poslovanju s hranom prilikom stavljanja na tržište hrane za posebne prehrambene potrebe

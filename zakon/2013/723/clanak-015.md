@@ -1,0 +1,6 @@
+# Članak 15.
+(1) Ministar nadležan za zdravlje osniva i imenuje Povjerenstvo za hranu za posebne prehrambene potrebe (u daljnjem tekstu: Povjerenstvo).
+(2) Povjerenstvo iz stavka 1. ovoga članka obavlja sljedeće poslove:
+1. na temelju zahtjeva podnesenih od strane subjekata u poslovanju s hranom, daje mišljenje udovoljava li hrana iz članka 4. stavka 1. ovoga Zakona namjenom i sastavom posebnim prehrambenim potrebama osoba kojima je namijenjena te ispunjava li uvjete propisane ovim Zakonom i provedbenim propisima donesenim na temelju ovoga Zakona te uredbama iz članka 1. ovoga Zakona,
+2. na zahtjev osobe iz članka 17. stavka 1. ovoga Zakona, a po potrebi daje mišljenje utemeljeno na znanstvenim i drugim dostupnim dokazima ispunjava li određena hrana za posebne prehrambene potrebe svojim sastavom i namjenom uvjete propisane ovim Zakonom, uredbama iz članka 1. ovoga Zakona i provedbenim propisima donesenim na temelju ovoga Zakona,
+3. u slučaju sumnje i na temelju novih dostupnih informacija da je određena hrana za posebne prehrambene potrebe, iako ispunjava uvjete propisane ovim Zakonom, uredbama iz članka 1. ovog Zakona i provedbenim propisima donesenim na temelju ovoga Zakona, štetna za ljudsko zdravlje, daje stručno mišljenje na temelju kojeg ministar nadležan za zdravlje može donijeti mjere iz članka 16. ovoga Zakona.

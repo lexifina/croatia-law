@@ -1,0 +1,7 @@
+# Članak 13.
+(1) Potvrdu iz članka 12. stavka 1. ovoga Zakona daje, odnosno uskraćuje ministar nadležan za zdravlje na temelju mišljenja Povjerenstva za hranu za posebne prehrambene potrebe iz članka 15. ovoga Zakona.
+(2) Potvrda o notifikaciji unosi se u Registar. Ministarstvo nadležno za zdravlje vodi Registar u elektroničkom obliku. Registar se smatra službenom evidencijom.
+(3) U slučaju promjene subjekta koji stavlja na tržište hranu za posebne prehrambene potrebe, promjene naziva hrane za posebne prehrambene potrebe ili proizvođača hrane, kao i svakog sastava hrane za posebne prehrambene potrebe iz članka 4. stavka 1. točaka 1. i 7. ovoga Zakona, subjekt u poslovanju s hranom odgovoran za stavljanje na tržište obvezan je o tome obavijestiti ministarstvo nadležno za zdravlje te uz obavijest dostaviti novi tekst označivanja proizvoda, a po potrebi i usporedni prikaz izmjene sastava.
+(4) U slučaju bitnih promjena proizvoda koje utječu na sukladnost hrane za posebne prehrambene potrebe s odredbama ovoga Zakona, ministarstvo nadležno za zdravlje može tražiti i druge podatke osim onih propisanih u stavku 3. ovoga članka.
+(5) Troškove notifikacije proizvoda snosi podnositelj zahtjeva. Troškove postupka notifikacije odlukom utvrđuje ministar nadležan za zdravlje.
+(6) U slučaju trajnog prestanka stavljanja na tržište proizvoda koji je upisan u Registar, subjekt u poslovanju s hranom obvezan je obavijestiti ministarstvo nadležno za zdravlje i podnijeti zahtjev za brisanjem iz Registra.
