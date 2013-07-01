@@ -1,0 +1,2 @@
+# Članak 70.
+Prilikom procjene visine kvalificiranog udjela u UAIF-u, Agencija neće uzimati u obzir glasačka prava ili dionice koje investicijsko društvo ili kreditna institucija drže kao rezultat pružanja investicijske usluge provedbe ponude, odnosno prodaje financijskih instrumenata bez obveze otkupa u skladu s odredbama zakona koji uređuje tržište kapitala, pod uvjetom da se ta prava ne koriste u svrhu ostvarivanja utjecaja na upravljanje UAIF-om, i da se navedene dionice s pravom glasa otpuste u roku od jedne godine od dana stjecanja.

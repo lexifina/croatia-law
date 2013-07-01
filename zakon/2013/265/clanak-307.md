@@ -1,0 +1,3 @@
+# Članak 307.
+(1) U slučajevima oduzimanja odobrenja za rad, u potpunosti ili u odnosu na pojedine djelatnosti, UAIF-u, za koji je Agenciji poznato da upravlja AIF-om sa sjedištem u drugoj državi članici, Agencija će nadležnom tijelu države članice dostaviti obavijest o takvom oduzimanju odobrenja za rad.
+(2) Kada Agencija zaprimi obavijest nadležnog tijela matične države članice UAIF-a koje upravlja AIF-om na području Republike Hrvatske, o oduzimanju odobrenja za rad tom UAIF-u, u cijelosti ili u odnosu na pojedine djelatnosti, Agencija može poduzeti odgovarajuće mjere za zaštitu interesa ulagatelja, uključujući, između ostaloga, i zabranu obavljanja transakcija ili zabranu izdavanja ili otkupa udjela, na području Republike Hrvatske.

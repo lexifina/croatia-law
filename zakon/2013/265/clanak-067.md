@@ -1,0 +1,3 @@
+# Članak 67.
+(1) UAIF je dužan, prilikom delegiranja poslova na treće osobe, korištenja vanjskih usluga i drugih poslova koji su od značaja za UAIF i AIF-ove kojima upravlja, postupati stručno, s posebnom pažnjom i u najboljem interesu ulagatelja i AIF-a kojim upravlja.
+(2) UAIF je dužan propisati i implementirati interne politike i procedure kako bi osigurao postupanje u skladu sa stavkom 1. ovoga članka, a koje su u skladu s odredbama ovoga Zakona i propisima donesenima na temelju ovoga Zakona, pravilima AIF-a i, kada je primjenjivo prospektom AIF-a, ciljevima AIF-a, investicijskom strategijom te strategijom i politikom upravljanja rizicima uključujući i ograničenja rizika.

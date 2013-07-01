@@ -1,0 +1,7 @@
+## Više referentnih država članica UAIF-a iz treće države
+# Članak 158.
+(1) U slučajevima iz članka 157. točke b), točke c), podtočke i., točke e), f) i točke g) podtočke i. moguće je da UAIF iz treće države ima više referentnih država članica.
+(2) U slučajevima iz stavka 1. ovoga članka, UAIF iz treće države koji namjerava upravljati AIF-ovima iz država članica bez da trguje njihovim udjelima i/ili koji namjerava trgovati udjelima AIF-ova kojima upravlja, na području država članica, u skladu s člancima 169., 170. i 171. ovoga Zakona, dužan je podnijeti zahtjev za izdavanje odobrenja za rad Agenciji, ukoliko je Republika Hrvatska jedna od mogućih referentnih država članica, kao i nadležnim tijelima ostalih mogućih referentnih država članica.
+(3) Agencija i nadležna tijela ostalih država članica iz stavka 2. ovoga članka će u roku od mjesec dana od dana zaprimanja zahtjeva za izdavanje odobrenja za rad, zajednički donijeti odluku o referentnoj državi članici UAIF-a.
+(4) Ako Republika Hrvatska bude utvrđena referentnom državom članicom UAIF-a, Agencija će u roku od 7 dana od dana donošenja odluke iz stavka 3. ovoga članka o tome obavijestiti UAIF iz treće države.
+(5) Ako Agencija i nadležna tijela država članica ne donesu odluku o referentnoj državi članici UAIF-a u roku iz stavka 3. ovoga članka ili ako Agencija ne obavijesti UAIF o odluci u roku iz stavka 4. ovoga članka, UAIF iz treće države može samostalno odabrati referentnu državu članicu u skladu s kriterijima iz članka 158. ovoga Zakona.

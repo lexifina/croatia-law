@@ -1,0 +1,3 @@
+# Članak 166.
+(1) Kada iz poslovnog razvoja UAIF-a na području Europske unije, unutar dvije godine od dobivanja odobrenja za rad od Agencije, proizlazi da UAIF nije poštivao strategiju nuđenja udjela koju je dostavio uz zahtjev za izdavanje odobrenja za rad, ako je dao lažne iskaze vezano za strategiju nuđenja udjela ili prilikom promjene strategije nuđenja udjela nije postupio u skladu s prethodnim člankom, Agencija će naložiti UAIF-u iz treće države da izabere novu referentnu državu članicu u skladu sa stvarnom strategijom nuđenja udjela, pri čemu se na odgovarajući način primjenjuju odredbe članka 165. ovoga Zakona.
+(2) Ako UAIF iz treće države ne postupi u skladu s nalogom Agencije iz stavka 1. ovoga članka, Agencija će istome oduzeti odobrenje za rad.

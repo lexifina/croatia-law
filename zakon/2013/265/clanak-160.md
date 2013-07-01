@@ -1,0 +1,9 @@
+# Članak 160.
+(1) UAIF iz treće države koji namjerava upravljati AIF-ovima iz država članica bez da trguje njihovim udjelima i/ili koji namjerava trgovati udjelima AIF-ova kojima upravlja, na području država članica, u skladu sa člancima 169., 170. i 171. ovoga Zakona, mora podnijeti zahtjev za dobivanje odobrenja za rad Agenciji, ako je Republika Hrvatska referentna država članica UAIF-a iz treće države.
+(2) Nakon što Agencija zaprimi zahtjev iz stavka 1. ovoga članka, utvrditi će je li Republika Hrvatska izabrana kao referentna država članica u skladu s kriterijima iz članka 157. ovoga Zakona.
+(3) Agencija će odbiti zahtjev iz stavka 1. ovoga članka ako Agencija ocjeni da odabir Republike Hrvatske kao referentne države članice nije u skladu s kriterijima iz članka 157. ovoga Zakona.
+(4) Ako Agencija ocijeni da je Republika Hrvatska izabrana kao referentna država članica u skladu s kriterijima iz članka 157. ovoga Zakona, o tome će obavijestiti ESMA-u i zatražiti njen savjet o ocjeni Agencije.
+(5) U obavijesti iz stavka 4. ovoga članka, Agencija će ESMA-i dostaviti obrazloženje UAIF-a o izboru referentne države članice i podatke o strategiji nuđenja udjela.
+(6) Rok iz članka 25. stavka 3. ovoga Zakona se prekida za vrijeme dok Agencija ne zaprimi savjet ESMA-e iz stavka 4. ovoga članka.
+(7) Ako Agencija namjerava izdati odobrenje za rad protivno savjetu ESMA-e iz stavka 4. ovoga članka, o istome će obavijestiti ESMA-u navodeći razloge.
+(8) Ako Agencija namjerava izdati odobrenje za rad protivno savjetu ESMA-e iz stavka 4. ovoga članka, a UAIF iz treće države namjerava trgovati udjelima AIF-ova kojima upravlja i u drugim državama članicama, Agencija će o razlozima obavijestiti nadležna tijela tih država članica te ako je primjenjivo i nadležna tijela matičnih država članica AIF-ova kojima upravlja UAIF iz treće države.

@@ -1,0 +1,2 @@
+# Članak 247.
+U slučaju raskida ugovora o obavljanju poslova depozitara, depozitar je dužan svu imovinu AIF-a prenijeti na pohranu i administriranje novom depozitaru s kojim UAIF zaključi ugovor o obavljanju poslova depozitara, pri čemu mora predati i knjige računa, evidencije i sve druge dokumente i materijale bitne za poslovanje AIF-a za koji je do tada obavljao poslove depozitara, i to bilo u pisanom ili elektroničkom obliku, ovisno o načinu vođenja naznačenih podataka.

@@ -1,0 +1,8 @@
+## Izbor drugog UAIF-a i prijenos poslova upravljanja
+# Članak 84.
+(1) Ukoliko drugačije nije utvrđeno pravilima AIF-a i prospektom kada je to primjenjivo, depozitar otvorenog AIF-a, odnosno nadzorni odbor zatvorenog AIF-a će u roku od 60 dana od dana nastupanja razloga za prisilni prijenos poslova upravljanja AIF-om iz članka 82. ovoga Zakona provesti odgovarajući postupak prikupljanja ponuda od UAIF-a, koji ispunjavaju uvjete za upravljanje AIF-om i zainteresirani su preuzeti upravljanje AIF-om te izbora novog UAIF-a.
+(2) Ako se na poziv iz stavka 1. ovoga članka depozitaru otvorenog AIF-a javi više UAIF-ova koji ispunjavaju uvjete za preuzimanje poslova upravljanja AIF-om, depozitar je dužan, prilikom izbora UAIF-a, isključivo voditi računa o interesima imatelja udjela AIF-a.
+(3) U slučaju zatvorenog AIF-a, nadzorni odbor zatvorenog AIF-a je dužan sazvati glavnu skupštinu, odnosno skupštinu zatvorenog AIF-a radi donošenja odluke o izboru novog UAIF-a.
+(4) Depozitar otvorenog AIF-a, odnosno nadzorni odbor zatvorenog AIF-a temeljem odluke iz stavka 3. ovoga članka i UAIF preuzimatelj će sklopiti ugovor o prijenosu poslova upravljanja.
+(5) Na ugovor iz stavka 4. ovoga članka na odgovarajući način se primjenjuju odredbe članka 77. stavka 5. ovoga Zakona, s time da rok u kojem će depozitar otvorenog AIF-a, odnosno nadzorni odbor zatvorenog AIF-a i UAIF preuzimatelj izvršiti prijenos poslova upravljanja ne smije biti duži od mjesec dana od dana sklapanja ugovora iz stavka 4. ovoga članka, ukoliko drugačije nije utvrđeno pravilima AIF-a i prospektom kada je to primjenjivo.
+(6) Na prisilni prijenos poslova upravljanja se na odgovarajući način primjenjuju odredbe članka 77. stavaka 2., 3. i 6. i članaka 78. do 81. ovoga Zakona.

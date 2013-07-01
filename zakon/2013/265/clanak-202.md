@@ -1,0 +1,4 @@
+# Članak 202.
+(1) Obustava izdavanja i otkupa udjela iz članka 201. stavka 1. ovoga Zakona mora prestati čim je prije moguće, odnosno čim prestanu razlozi za obustavu izdavanja i otkupa, a najkasnije u roku od 28 dana od početka obustave, osim ako se Agencija izrijekom ne suglasi s produljenjem naznačenog roka.
+(2) Nastavak poslovanja otvorenog AIF-a potrebno je bez odgode prijaviti Agenciji i objaviti na internetskim stranicama UAIF-a, kada je to primjenjivo, i u slučaju da se radi o udjelima AIF-a s javnom ponudom u jednim dnevnim novinama koje se redovito prodaju na cijelom ili pretežitom području Republike Hrvatske, kao i države u kojoj se trguje udjelima.
+(3) Agencija će pravilnikom propisati uvjete i način zaprimanja zahtjeva za stjecanje ili otkup udjela, uvjete utvrđivanja cijene udjela, rokove isplate te uvjete nastavka poslovanja nakon prestanka obustave izdavanja i otkupa udjela.

@@ -1,0 +1,8 @@
+## Revizija izvještaja UAIF-a
+# Članak 64.
+(1) Godišnje financijske izvještaje UAIF-a mora revidirati revizor na način i pod uvjetima određenima propisima kojima se uređuje računovodstvo i revizija te pravilima revizorske struke, ako ovim Zakonom i propisima donesenim na temelju ovoga Zakona nije drugačije određeno.
+(2) UAIF je dužan Agenciji dostaviti revidirane godišnje financijske izvještaje iz članka 63. stavka 2. ovoga Zakona u roku od 15 dana od datuma izdavanja revizorskog izvješća, a najkasnije u roku od četiri mjeseca nakon isteka poslovne godine za koju se izvještaji sastavljaju.
+(3) Isto revizorsko društvo može revidirati najviše sedam uzastopnih godišnjih financijskih izvještaja UAIF-a.
+(4) Agencija može detaljnije pravilnikom propisati opseg i sadržaj revizije, odnosno revizijskih postupaka i revizorskog izvješća o obavljenoj reviziji godišnjih financijskih izvještaja, odnosno drugih izvještaja UAIF-a.
+(5) Agencija od revizora može tražiti dodatna pojašnjenja u vezi s revidiranim godišnjim financijskim izvještajima, odnosno drugim revidiranim izvještajima UAIF-a.
+(6) Ako Agencija utvrdi da revizija izvještaja UAIF-a nije obavljena ili da revizorsko izvješće nije sastavljeno u skladu s ovim Zakonom, propisima donesenima na temelju ovoga Zakona, propisima kojima se uređuje računovodstvo i reviziju te pravilima revizorske struke, ili ako obavljenim nadzorom poslovanja UAIF-a ili na drugi način utvrdi da revizorsko izvješće o izvještajima UAIF-a nije zasnovano na istinitim i objektivnim činjenicama, može odbiti revizorsko izvješće i zahtijevati od UAIF-a da reviziju obave ovlašteni revizori drugog revizorskog društva, a na trošak UAIF-a.

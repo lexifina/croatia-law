@@ -1,0 +1,4 @@
+## Praćenje usklađenosti s relevantnim propisima
+# Članak 51.
+(1) UAIF je dužan uspostaviti, provoditi te redovito ažurirati, procjenjivati i nadzirati primjerene politike i postupke, čiji je cilj otkrivanje svakog rizika neusklađenosti s relevantnim propisima, kao i povezanih rizika te uspostaviti primjerene mjere i postupke u cilju smanjivanja takvih rizika.
+(2) UAIF je dužan uspostaviti, provoditi te redovito ažurirati, procjenjivati i nadzirati politike i postupke kako bi osigurao da posluje u skladu s ovim Zakonom i propisima donesenima na temelju ovoga Zakona kao i s drugim relevantnim propisima te osigurati da članovi uprave i druge relevantne osobe, postupaju u skladu s ovim Zakonom i propisima donesenima na temelju ovoga Zakona te vlastitim politikama UAIF-a koje uređuju osobne transakcije financijskim instrumentima i drugim oblicima imovine u koje ulaže AIF kojim upravlja UAIF.

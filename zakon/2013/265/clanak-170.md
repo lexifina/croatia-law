@@ -1,0 +1,6 @@
+# Članak 170.
+(1) Kada UAIF iz treće države namjerava trgovati udjelima AIF-a iz druge države članice ili iz treće države u Republici Hrvatskoj kao referentnoj državi članici, dužan je Agenciji dostaviti obavijest za svaki takav AIF čijim udjelima namjerava trgovati.
+(2) Obavijest iz stavka 1. ovoga članka sadrži podatke navedene u članku 153. stavku 2. ovoga Zakona koji se Agenciji dostavljaju na hrvatskom jeziku.
+(3) Agencija će u roku od 20 radnih dana od dana zaprimanja potpune dokumentacije iz stavka 2. ovoga članka obavijestiti UAIF o tome može li na području Republike Hrvatske početi trgovati udjelima AIF-a navedenog u obavijesti iz stavka 2. ovoga članka, pri čemu će Agencija odbiti dati suglasnost ako UAIF-ovo upravljanje AIF-om nije ili neće biti u skladu s odredbama ovoga Zakona ili ako UAIF nije ili neće biti usklađen s drugim odredbama ovoga Zakona.
+(4) U slučaju izdavanja suglasnosti iz stavka 3. ovoga članka, UAIF može početi trgovati udjelima AIF-a iz druge države članice ili iz treće države na području Republike Hrvatske od dana zaprimanja obavijesti iz stavka 3. ovoga članka.
+(5) Agencija će obavijestiti ESMA-u i nadležno tijelo matične države članice AIF-a o tome da UAIF može početi trgovati udjelima AIF-a iz druge države članice ili iz treće države na području Republike Hrvatske.
