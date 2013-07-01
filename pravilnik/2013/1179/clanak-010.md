@@ -1,0 +1,5 @@
+## Razmjena informacija
+# Članak 10.
+(1) Agencija razmjenjuje informacije s nadležnim tijelima drugih država. Ove informacije, na zahtjev nadležnog tijela, uključuju popis zračnih luka tih država koje su otvorene za međunarodni zračni promet, s tim da se za svaku kalendarsku godinu navede broj obavljenih SAFA inspekcija i broj kretanja zrakoplova na svakoj od zračnih luka s popisa.
+(2) Sva SAFA Standardna izvješća iz članka 8. stavka 2. ovoga Pravilnika i Izvješća o SAFA inspekcijama iz članka 9. stavka 4. ovoga Pravilnika Nacionalni SAFA koordinator stavlja bez odlaganja na raspolaganje Komisiji te, na njihov zahtjev, nadležnim tijelima država i EASA-i.
+(3) Kada SAFA Standardno izvješće pokaže postojanje potencijalne prijetnje sigurnosti, ili kada Izvješće o SAFA inspekciji pokaže da zrakoplov nije u skladu s međunarodnim standardima sigurnosti i da može predstavljati potencijalnu prijetnju sigurnosti, to se Izvješće bez odlaganja dostavlja svakom pojedinom nadležnom tijelu drugih država i Komisiji.

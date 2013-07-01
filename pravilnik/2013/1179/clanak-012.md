@@ -1,0 +1,4 @@
+## Prizemljenje zrakoplova
+# Članak 12.
+(1) Kada je neusklađenost s međunarodnim standardima sigurnosti nedvojbeno opasna za sigurnost leta, operator zrakoplova mora poduzeti mjere za otklanjanje tih manjkavosti prije polijetanja. Ako SAFA inspektor nije siguran da će se korektivne mjere obaviti prije polijetanja, on zadržava zrakoplov prizemljenim dok se opasnost ne otkloni i odmah o tome obavještava nadležna tijela dotičnog operatora i države u kojoj je zrakoplov registriran.
+(2) SAFA inspektor može, u suradnji s državom koja je odgovorna za upotrebu dotičnog zrakoplova ili s državom u kojoj je zrakoplov registriran, odrediti potrebne uvjete pod kojima se tom zrakoplovu može dopustiti let do zračne luke u kojoj se manjkavosti mogu otkloniti. Ako manjkavost utječe na svjedodžbu o plovidbenosti zrakoplova, mjera prizemljenja može se ukinuti samo ako operator dobije dopuštenje od države ili država preko kojih će zrakoplov preletjeti u tom letu.
