@@ -1,0 +1,5 @@
+# Članak 24.
+(1) Troškove ispitivanja zdravstvene ispravnosti, odnosno sukladnosti predmeta opće uporabe snosi subjekt u poslovanju s predmetima opće uporabe koji ih proizvodi ili stavlja na tržište, ako su uzorci neispravni, odnosno nesukladni.
+(2) Iznimno od stavka 1. ovoga članka sve troškove ispitivanja zdravstvene ispravnosti odnosno sukladnosti predmeta opće uporabe prilikom njihovog uvoza snosi subjekt u poslovanju s predmetima opće uporabe koji ih uvozi.
+(3) Troškove sustavnog praćenja zdravstvene ispravnosti, odnosno sukladnosti predmeta opće uporabe iz članka 20. ovoga Zakona i ispitivanja zdravstvene ispravnosti, odnosno sukladnosti predmeta opće uporabe iz članka 21. ovoga Zakona ako su uzorci predmeta opće uporabe ispravni snosi ministarstvo nadležno za zdravlje.
+(4) Troškovi ispitivanja mikrobiološke čistoće predmeta opće uporabe iz članka 18. stavka 2. ovoga Zakona, provedene na zahtjev nadležnog inspektora iz članka 41. stavka 1. ovoga Zakona, podmiruju se na isti način kao i troškovi iz stavaka 1. i 2. ovoga članka.

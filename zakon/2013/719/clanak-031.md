@@ -1,0 +1,6 @@
+# Članak 31.
+(1) Iznimno od članka 30. ovoga Zakona, carinska tijela mogu na zahtjev uvoznika iz treće države, na temelju suglasnosti sanitarnog inspektora, na granici ocariniti pošiljku i bez dokaza o njezinoj zdravstvenoj ispravnosti, odnosno sukladnosti ako je pošiljka podvrgnuta inspekcijskom nadzoru.
+(2) Suglasnost iz stavka 1. ovoga članka dostavlja se inspektoru nadležnom za obavljanje inspekcijskog nadzora u mjestu isporuke, odnosno skladištenja. Pošiljka ostaje pod nadzorom nadležnog inspektora iz članka 41. stavka 1. ovoga Zakona do dobivanja rezultata analiza.
+(3) Suglasnost iz stavka 1. ovoga članka sadrži i podatke o mjestu i uvjetima skladištenja, načinu prijevoza i obvezama skladištara i uvoznika iz treće države te druge uvjete važne za očuvanje zdravstvene ispravnosti, odnosno sukladnosti pošiljke.
+(4) Uvoznik iz treće države ne smije stavljati na tržište ni prerađivati pošiljku iz stavka 1. ovoga članka do donošenja rješenja kojim se utvrđuje da je pošiljka zdravstveno ispravna, odnosno sukladna.
+(5) Ako se laboratorijskim ispitivanjima utvrdi da pošiljka iz stavka 1. ovoga članka, u vezi zdravstvene ispravnosti, odnosno sukladnosti, ne ispunjava propisane uvjete, uvoznik će o svojemu trošku postupiti u skladu s rješenjem donesenim na temelju ovlasti iz članka 35. ovoga Zakona.

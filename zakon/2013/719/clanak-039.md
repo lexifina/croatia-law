@@ -1,0 +1,2 @@
+# Članak 39.
+Ako nadležni inspektori iz članka 41. stavka 1. ovoga Zakona prilikom obavljanja nadzora nad proizvodnjom i stavljanjem na tržište predmeta opće uporabe pronađu zdravstveno neispravne, odnosno nesukladne predmete za koje se pretpostavlja da bi se mogli nalaziti na tržištu Republike Hrvatske, obvezni su o tome odmah obavijestiti ministarstvo nadležno za zdravlje koje o tome odmah obavještava Državni inspektorat, odnosno Europsku komisiju.
