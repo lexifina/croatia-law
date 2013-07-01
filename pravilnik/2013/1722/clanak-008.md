@@ -1,0 +1,6 @@
+## III. UNOŠENJE BILJA I BILJNIH PROIZVODA U POGRANIČNO PODRUČJE UZ POSEBNE UVJETE
+# Članak 8.
+(1) Korisnici prava mogu, uz posebne uvjete i na način propisan ovim Pravilnikom, iz pograničnog područja susjedne treće zemlje u pogranično područje Republike Hrvatske unositi bilje iz Priloga 1. ovoga Pravilnika pod uvjetom da nema opasnosti od unošenja štetnih organizama određenih Pravilnikom o mjerama za sprječavanje unošenja i širenja organizama štetnih za bilje, biljne proizvode i druge nadzirane predmete i mjerama suzbijanja tih organizama (»Narodne novine«, br. 74/06, 84/10 i 120/11).
+(2) Bilje iz Priloga 1., kad ga unosi korisnik prava u skladu s odredbama ovoga Pravilnika, ne podliježe obveznom fitosanitarnom pregledu pri unošenju.
+(3) Bilje iz Priloga 1. može se unositi preko graničnih prijelaza i prijelaznih mjesta koji su sukladno međunarodnim ugovorima i odgovarajućem hrvatskom zakonskom aktu određeni za pogranični promet.
+(4) U slučaju kad je bilje iz Priloga 1. uzgojeno, proizvedeno ili se upotrebljavalo na zemljištu ili objektu u vlasništvu korisnika prava koje dijeli granična crta, korisnik prava može iz onog dijela takvog zemljišta ili objekta koji se nalazi na državnom području susjedne treće zemlje izravno unositi bilje iz Priloga 1. na dio zemljišta ili objekta koji se nalazi u Republici Hrvatskoj.
