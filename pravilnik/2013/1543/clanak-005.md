@@ -1,0 +1,5 @@
+# Članak 5.
+(1) Izvozna carinska deklaracija može biti podnesena samo carinskom uredu koji je mjesno nadležan za područje na kojem se nalazi mjesto utovara.
+(2) Podnošenje nepotpune izvozne carinske deklaracije i druga pojednostavnjenja deklariranja nisu dopuštena.
+(3) Iznimno od stavka 2. ovoga članka, u slučaju izvoza robe u rasutom stanju ili nestandardnih komada gdje se prije završetka utovara ne može znati točnu neto-masu utovarene robe, carinski ured odobrit će podnošenje nepotpune izvozne deklaracije samo u odnosu na podatak o neto-masi. Nepotpuna deklaracija sadrži procijenjenu neto-masu. Odmah po završetku utovara izvoznik je dužan podnijeti dopunsku deklaraciju s podatkom o točnoj neto-masi koja je utovarena za izvoz. Uz dopunsku deklaraciju mora biti priložen odgovarajući dokaz o tome.
+(4) U slučaju izvoza robe uz izvozne naknade, izvozna carinska deklaracija mora u polju 44 sadržavati sve podatke potrebne Agenciji za obračun izvozne naknade, uključujući stopu i iznos izvozne naknade ili tekst »iznos izvozne naknade manji od 1.000 €«.
