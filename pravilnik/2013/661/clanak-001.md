@@ -1,0 +1,6 @@
+# Članak 1.
+(1) Ovim se Pravilnikom propisuju kategorije krmiva koje se mogu koristiti u svrhu označavanja hrane za kućne ljubimce u skladu s člankom 17. stavkom 2. točkom c. Uredbe (EZ) br. 767/2009 Europskog parlamenta i Vijeća od 13. srpnja 2009. o stavljanju na tržište i korištenju hrane za životinje, izmjenama i dopunama Uredbe (EZ) br. 1831/2003 Europskog parlamenta i Vijeća i ukidanju Direktive Vijeća 79/373/EEZ, Direktive Komisije 80/511/EEZ, Direktive Vijeća 82/471/EEZ, 83/228/EEZ, 93/74/EEZ, 93/113/EZ i 96/25/EZ te Odluke Komisije 2004/217/EZ (SL L 229, 1. 9. 2009., u daljnjem tekstu: Uredba (EZ) br. 767/2009).
+(2) Ovim se Pravilnikom u pravni poredak Republike Hrvatske prenose sljedeće direktive Europske unije:
+- Direktiva Komisije 82/475/EEZ od 23. lipnja 1982. kojom se utvrđuju kategorije sastojaka koji se smiju koristiti u svrhu označavanja krmnih smjesa za kućne ljubimce (SL L 213, 21. 7. 1982.),
+- Direktiva Komisije 91/334/EEZ od 6. lipnja 1991. kojom se izmjenjuje i dopunjuje Direktiva 82/475/EEZ kojom se utvrđuju kategorije sastojaka koji se smiju koristiti u svrhu označavanja krmnih smjesa za kućne ljubimce (SL L 184, 10. 7. 1991.),
+- Direktiva Komisije 98/67/EZ od 7. rujna 1998. kojom se izmjenjuju i dopunjuju Direktive 80/511/EEZ, 82/475/EEZ, 91/357/EEZ i Direktiva Vijeća 96/25/EZ i ukida Direktiva 92/87/EEZ (SL L 261, 24. 9. 1998.).
