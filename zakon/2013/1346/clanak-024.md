@@ -1,0 +1,6 @@
+# Članak 24.
+(1) Carinska uprava prikuplja osobne te druge podatke i obavijesti radi provođenja poslova carinske službe iz već postojećih izvora podataka, neposredno od osobe na koju se ti podaci odnose i od drugih osoba za koje je vjerojatno da imaju saznanja o tim podacima.
+(2) Prikupljanje osobnih te drugih podataka i obavijesti od djeteta poduzima se u nazočnosti roditelja, skrbnika, udomitelja, osobe kojoj je dijete povjereno na čuvanje i odgoj ili stručne osobe centra za socijalnu skrb.
+(3) Ovlašteni carinski službenik koji prikuplja osobne te druge podatke i obavijesti iz već postojećih izvora podataka ili od drugih osoba, nije o tome dužan obavijestiti osobe na koje se ti podaci odnose ako bi to onemogućilo ili otežalo izvršenje određenog posla.
+(4) Tijela, ustanove i drugi subjekti koji na temelju zakona i u okviru svojih djelatnosti raspolažu osobnim izvornim podacima i obavijestima dužni su na zahtjev ovlaštenog carinskog službenika dostaviti tražene osobne te druge podatke i obavijesti.
+(5) Ovlašteni carinski službenik može prikupljati osobne te druge podatke i obavijesti u službenim prostorima, na radnom mjestu osobe, drugom pogodnom mjestu, a uz prethodni pristanak osobe i u njezinu domu.
