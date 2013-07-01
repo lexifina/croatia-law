@@ -1,0 +1,3 @@
+# Članak 2.
+Članak 6. mijenja se i glasi:
+»Prilikom izrade plana monitoringa potrebno je uzeti u obzir ciljeve, opća načela i osnove za opći okvir razvoja prikladnih planova monitoringa nakon stavljanja na tržište GMO-a ili proizvoda koji sadrže i/ili se sastoje ili potječu od GMO-a, utvrđene Odlukom Komisije od 3. listopada 2002. kojom se određuju pomoćne napomene koje dopunjuju Prilog VII. Direktive 2001/18/EZ Europskoga parlamenta i Vijeća o namjernom puštanju genetički modificiranih organizama u okoliš te kojom se ukida Direktiva Vijeća 90/220/EEZ (2002/811/EZ) (SL L 280, 18. 10. 2002.).«.
