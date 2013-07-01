@@ -1,0 +1,1 @@
+Na temelju članka 36. stavka 1. Zakona o vodama (»Narodne novine«, br. 153/2009, 130/2011 i 56/2013) i članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, broj 150/2011), Vlada Republike Hrvatske je na sjednici održanoj 26. lipnja 2013. godine donijela
