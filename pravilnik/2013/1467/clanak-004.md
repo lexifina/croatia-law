@@ -1,0 +1,5 @@
+# Članak 4.
+U članku 8. stavku 2. točki 1. iznos 375.000.000,00 zamjenjuje se iznosom 459.750.000,00 na oba mjesta.
+U članku 8. stavku 2. točki 2. alineji 2. iza rečenice »Zaračunate bruto premije neživotnih osiguranja uključuju sve iznose premija koje su ugovorene (policirane) u tekućem obračunskom razdoblju na period najduže do godinu dana, bez obzira da li se ti iznosi u cijelosti ili djelomično odnose na kasnije obračunsko razdoblje.« dodaje se rečenica koja glasi: »Ograničenje perioda na godinu dana ne odnosi se na osiguranja koja su zbog same karakteristike rizika ugovorena na period dulji od godinu dana primjerice osiguranja građevinskih objekata u izgradnji, osiguranja objekata u montaži, osiguranje kredita i sl. neovisno da li je premija u cijelosti naplaćena, kao niti na osiguranja koja su ugovorena na period dulji od godinu dana, a kod kojih je premija u cijelosti naplaćena odjednom na početku osiguranja.«
+U članku 8. iza stavka 8. dodaje se stavak 9. koji glasi:
+»(9) Iznosi iz stavka 2. ovoga članka mijenjaju se sukladno članku 99. stavku 10. Zakona.«
