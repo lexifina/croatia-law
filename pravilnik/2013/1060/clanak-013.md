@@ -1,0 +1,2 @@
+# Članak 13.
+Fizička ili pravna osoba s prebivalištem ili sjedištem u Republici Hrvatskoj koja iznajmi, uzme u leasing ili posudi motorno vozilo registrirano u drugoj državi članici Europske unije radi uporabe na cestama u Republici Hrvatskoj u trajanju dužem od 15 dana obvezna je podnijeti prijavu nadležnom carinskom uredu u roku od 3 dana od dana ulaska na područje Republike Hrvatske. Prijava se podnosi u dva primjerka na Obrascu 2 koji je tiskan u Prilogu 2 ovoga Pravilnika i njegov je sastavni dio.

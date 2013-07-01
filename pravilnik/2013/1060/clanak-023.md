@@ -1,0 +1,5 @@
+# Članak 23.
+(1) Bankovnu garanciju moguće je prije isteka roka valjanosti produžiti.
+(2) Ako proizvođač ili trgovac podnosi novu garanciju, iznos posebnog poreza koji je bio osiguran prethodnom garancijom, a nije u cijelosti podmiren, odnosno dug koji može još nastati, moraju biti osigurani novom bankovnom garancijom. Nova bankovna garancija mora sadržavati klauzulu da se iz nje može naplatiti i iznos posebnog poreza koji je bio osiguran prethodnom garancijom.
+(3) Izdavatelj garancije može opozvati bankovnu garanciju. Opoziv bankovne garancije dostavlja se u pisanom obliku Središnjem uredu poštom preporučeno s povratnicom. Opoziv stupa na snagu osmoga dana od dana primitka.
+(4) U slučaju opoziva bankovna garancija vrijedi za sva davanja koja su do dana stupanja na snagu bila osigurana opozvanom garancijom, a izdavatelja garancije može se pozvati na plaćanje duga do isteka produženog roka važenja garancije iz članka 21. stavka 2. točke 1. ovoga Pravilnika računajući od dana stupanja opoziva garancije na snagu.

@@ -1,0 +1,2 @@
+# Članak 17.
+Osobe koje su ostvarile pravo na izuzeće od plaćanja posebnog poreza sukladno članku 17. stavku 1. Zakona dužne su u motornom vozilu držati primjerak odobrenja kojim se utvrđuju uvjeti pod kojim osoba može upravljati motornim vozilom na području Republike Hrvatske, odnosno prijave carinskom uredu te ih u svakom trenutku pokazati na zahtjev carinskih službenika ili drugih nadležnih tijela.

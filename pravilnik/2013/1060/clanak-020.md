@@ -1,0 +1,9 @@
+## V. REGISTRACIJA PROIZVOĐAČA I TRGOVCA I POLAGANJE INSTRUMENTA OSIGURANJA
+# Članak 20.
+(1) Proizvođač, trgovac i trgovac rabljenim motornim vozilima je dužan carinskom uredu nadležnom prema mjestu svog sjedišta ili prebivališta najkasnije 8 dana prije početka obavljanja djelatnosti proizvodnje ili prodaje motornih vozila na području Republike Hrvatske podnijeti prijavu za upis u registar proizvođača i trgovaca motornih vozila. Prijava za upis u registar proizvođača i trgovaca motornih vozila podnosi se nadležnom carinskom uredu u dva primjerka na Obrascu 7 koji je tiskan u Prilogu 7 ovoga Pravilnika i njegov je sastavni dio.
+(2) Uz prijavu iz stavka 1. ovoga članka se prilaže:
+1. izvod iz sudskoga ili drugoga registra prema posebnim propisima iz kojega je razvidna registrirana djelatnost podnositelja zahtjeva, ne stariji od šest mjeseci,
+2. preslika Obavijesti Državnog zavoda za statistiku o razvrstavanju poslovnog subjekta prema Nacionalnoj klasifikaciji djelatnosti,
+3. izjava o lokacijama na kojima se nalaze proizvodni pogoni, skladišta, saloni ili slično, ako se razlikuju od sjedišta ili prebivališta proizvođača, trgovca ili trgovca rabljenim motornim vozilima.
+(3) Osobe iz stavka 1. ovoga članka obvezne su nadležnom carinskom uredu prijaviti svaku izmjenu podataka navedenu prilikom prijave za upis u registar proizvođača i trgovaca motornih vozila, kao i prestanak djelatnosti zbog koje su upisani u registar proizvođača i trgovaca motornih vozila u roku od 8 dana od dana nastanka promjene, odnosno od dana saznanja za izvršenu promjenu.
+(4) Nadležni carinski ured će brisati proizvođača, trgovca i trgovca rabljenim motornim vozilima iz registra proizvođača i trgovaca motornih vozila na njegov zahtjev ili po službenoj dužnosti. O opravdanosti brisanja odlučuje nadležni carinski ured vodeći računa da proizvođač, trgovac i trgovac rabljenim motornim vozilima nema nepodmirenih dugova s naslova posebnog poreza.

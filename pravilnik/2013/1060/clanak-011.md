@@ -1,0 +1,4 @@
+# Članak 11.
+(1) Račun koji izdaje proizvođač i trgovac poreznom obvezniku uz naznaku da je posebni porez obračunat u skladu s odredbama Zakona mora sadržavati i iznos posebnog poreza. Proizvođač i trgovac su dužni na računu upisati: »Posebni porez je obračunat u skladu s odredbama Zakona o posebnom porezu na motorna vozila«.
+(2) Ako se radi o motornom vozilu na koje se temeljem odredbi Zakona i ovoga Pravilnika ne plaća posebni porez ili je kupac oslobođen plaćanja posebnog poreza proizvođač, trgovac ili trgovac rabljenim motornim vozilima će to naznačiti na računu.
+(3) Ako tijelo nadležno za registraciju vozila sumnja u osnovanost izdavanja računa iz stavka 2. ovoga članka ili ako u drugim slučajevima smatra da se radi o motornom vozilu na koje se plaća posebni porez, zastat će s postupkom registracije i tražiti mišljenje nadležnog carinskog ureda.
