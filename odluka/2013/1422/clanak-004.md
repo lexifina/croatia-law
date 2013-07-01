@@ -1,0 +1,10 @@
+# Članak 4.
+Naziv iznad članka 9. i članak 9. mijenjaju se i glase:
+»Isključenje i suspenzija
+Članak 9.
+(1) HNB će onemogućiti namiru platnih transakcija sudioniku iz članka 2. točke 2. i 3. ove Odluke odmah nakon primitka obavijesti o otvaranju stečajnog postupka nad tim sudionikom, a isključit će ga iz HSVP-a nakon kraja obračunskog dana u HSVP-u.
+(2) HNB će onemogućiti namiru platnih transakcija sudioniku iz članka 2. točke 4. ove Odluke odmah nakon primitka obavijesti o pokretanju postupka zbog insolventnosti u skladu sa zakonom kojim se uređuje konačnost namire u platnim sustavima i sustavima za namiru financijskih instrumenata, a isključit će ga iz HSVP-a nakon kraja obračunskog dana u HSVP-u.
+(3) HNB će isključiti sudionika iz članka 2. točke 2. i 3. ove Odluke u slučaju pokretanja postupka likvidacije nad tim sudionikom pod uvjetima predviđenima propisima koji se primjenjuju na kreditnu instituciju u likvidaciji i podružnicu kreditne institucije iz treće države u likvidaciji.
+(4) HNB će isključiti sudionika iz HSVP-a i u drugim slučajevima u skladu s posebnim zakonima.
+(5) Kad se na temelju posebnog zakona naloži privremena zabrana plaćanja na teret računa sudionika, HNB će suspendirati račun tog sudionika tako što će onemogućiti namiru platnih transakcija na teret njegova računa u trajanju i pod uvjetima propisanima posebnim zakonom odnosno nalogom.
+(6) U slučaju prisilne likvidacije sudionika iz članka 2. točaka 2. i 3. ove Odluke HNB će suspendirati račun tog sudionika odmah nakon dostave rješenja o pokretanju postupka prisilne likvidacije tom sudioniku tako što će onemogućiti namiru platnih transakcija na teret i u korist njegova računa u trajanju i pod uvjetima predviđenima propisima koji se primjenjuju na kreditnu instituciju u likvidaciji i podružnicu kreditne institucije iz treće države u likvidaciji. Takva suspenzija ne primjenjuje se na platne transakcije povezane s namirom obračuna izvršenog u Nacionalnom klirinškom sustavu i platne transakcije koje se moraju izvršiti prema posebnim propisima.«
