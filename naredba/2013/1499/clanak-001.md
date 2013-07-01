@@ -1,0 +1,3 @@
+## O PRESTANKU VAŽENJA NAREDBE O POTVRĐIVANJU ODREĐENIH TREĆIH ZEMALJA I ODREĐENIH PODRUČJA U TREĆIM ZEMLJAMA KAO NEZARAŽENIH ŠTETNIM ORGANIZMIMA Xanthomonas campestris (SVIM SOJEVIMA PATOGENIM ZA ROD Citrus), Cercospora angolensis Carv. et Mendes I Guignardia citricarpa Kiely (SVIM SOJEVIMA PATOGENIM ZA ROD Citrus)
+# Članak 1.
+Danom stupanja na snagu ove Naredbe prestaje važiti Naredba o potvrđivanju određenih trećih zemalja i određenih područja u trećim zemljama kao nezaraženih štetnim organizmima Xanthomonas campestris (svim sojevima patogenim za rod Citrus), Cercospora angolensis Carv. et Mendes i Guignardia citricarpa Kiely (svim sojevima patogenim za rod Citrus) (»Narodne novine«, br. 156/09).

@@ -1,0 +1,1 @@
+Naredba o prestanku važenja Naredbe o potvrđivanju određenih trećih zemalja i određenih područja u trećim zemljama kao nezaraženih štetnim organizmima Xanthomonas campestris (svim sojevima patogenim za rod Citrus), Cercospora angolensis Carv. et Mendes i Guignardia citricarpa Kiely (svim sojevima patogenim za rod Citrus)
