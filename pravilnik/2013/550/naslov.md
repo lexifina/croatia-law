@@ -1,0 +1,1 @@
+Pravilnik o izmjenama i dopuni Pravilnika o sadržaju i opsegu procjene rizika za stavljanje na tržište genetski modificiranih organizama ili proizvoda koji sadrže i/ili se sastoje ili potječu od genetski modificiranih organizama, metodologiji za izradu procjene i uvjetima koje mora ispunjavati pravna osoba za izradu procjene rizika
