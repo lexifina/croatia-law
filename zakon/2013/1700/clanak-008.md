@@ -1,0 +1,7 @@
+## Ispitivanje prema mikrobiološkim kriterijima
+# Članak 8.
+(1) Odredbe članka 3. stavka 2. Uredbe (EZ) br. 2073/2005 dužni su provoditi subjekti u poslovanju s hranom koji proizvode hranu s rokom trajnosti od pet ili više dana, osim ako ih Prilog I. Uredbe (EZ) br. 2073/2005 isključuje od te obveze.
+(2) U svrhu provedbe članka 4. stavka 1. Uredbe (EZ) br. 2073/2005 subjekt u poslovanju s hranom koji proizvodi i priprema hranu iz Priloga I. Uredbe (EZ) br. 2073/2005 obvezan je izraditi plan uzorkovanja gotove hrane i briseva površina radi validacije i verifikacije svojih proizvodnih postupaka.
+(3) U svrhu provedbe članaka 4. i 5. Uredbe (EZ) br. 2073/2005 ministar nadležan za poljoprivredu i ministar nadležan za zdravlje, svatko u svom djelokrugu, propisuje posebna pravila o planovima uzorkovanja.
+(4) Prema članku 5. stavku 5. Uredbe (EZ) br. 2073/2005 subjekti u poslovanju s hranom mogu, osim validiranih i potvrđenih metoda, koristiti i druge analitičke metode, a tada se te metode moraju validirati prema međunarodno prihvaćenim protokolima, a njihova upotreba se odobrava prema propisu kojeg donosi ministar nadležan za poljoprivredu, uz suglasnost ministra nadležnog za zdravlje.
+(5) Ministar nadležan za poljoprivredu, uz prethodnu suglasnost ministra nadležnog za zdravlje, može propisati praćenje patogenih mikroorganizama, njihovih metabolita i toksina koji nisu obuhvaćeni Uredbom (EZ) br. 2073/2005, a koji mogu predstavljati rizik za zdravlje ljudi.

@@ -1,0 +1,6 @@
+## II. NADLEŽNA TIJELA
+# Članak 3.
+(1) Nadležna tijela za provedbu ovoga Zakona i uredbi iz članka 1. ovoga Zakona i propisa donesenih na temelju ovoga Zakona su ministarstvo nadležno za poljoprivredu i ministarstvo nadležno za zdravlje, svako u svom djelokrugu, a sukladno podjeli nadležnosti za provedbu službenih kontrola iz posebnog propisa o službenim kontrolama.
+(2) Za provedbu posebnih stručnih i znanstvenih poslova u području higijene hrane i mikrobioloških kriterija za hranu dobivenih od strane Europske komisije te drugih poslova u okviru ovoga Zakona, kao i savjetovanja nadležnih tijela iz stavka 1. ovoga članka, ministar nadležan za poljoprivredu i ministar nadležan za zdravlje, svatko u svom djelokrugu, mogu ovlastiti pravne osobe s javnim ovlastima i druge javne ustanove.
+(3) U slučaju ovlašćivanja iz stavka 2. ovoga članka, čelnik nadležnog tijela koje provodi postupak ovlašćivanja mora o tome u roku od 15 dana od dana ovlašćivanja obavijestiti čelnika drugog nadležnog tijela.
+(4) Ministar nadležan za poljoprivredu, uz prethodnu suglasnost ministra nadležnog za zdravlje, i ministar nadležan za zdravlje, uz suglasnost ministra nadležnog za poljoprivredu, donosi pravilnike, naredbe i naputke za prijenos i provedbu pravno obvezujućih akata Europske unije iz područja higijene hrane i mikrobioloških kriterija za hranu koja uređuje ovaj Zakon.
