@@ -1,0 +1,7 @@
+## Nadležna tijela i ovlasti
+# Članak 2.
+(1) U smislu provedbe članka 9. stavka 2. Uredbe (EU) 677/2011, ministarstvo nadležno za poslove civilnog zračnog prometa (u daljnjem tekstu: Ministarstvo) mora obavijestiti upravitelja mreže gdje suverenitet i odgovornosti države onemogućuju usvajanje pojedinačnih mjera u skladu s člankom 7. stavkom 1. Uredbe.
+(2) U smislu provedbe članka 9. stavka 3. Uredbe (EU) 677/2011, pružatelj usluga u zračnoj plovidbi koji sudjeluje u operativnim pitanjima povezanim s mrežnim funkcijama bit će dio procesa kooperativnog donošenja odluka te mora provoditi na nacionalnoj razini rezultate koji su u tom procesu dogovoreni.
+(3) U smislu provedbe članka 10. stavka 1. Uredbe (EU) 677/2011, Republika Hrvatska preko svojih predstavnika u funkcionalnom bloku zračnog prostora osigurava usku suradnju i koordinaciju između funkcionalnog bloka zračnog prostora i upravitelja mreže na strateškoj razini planiranja, a za dnevno taktičko upravljanje protokom i kapacitetima nadležan je pružatelj usluga u zračnoj plovidbi.
+(4) U smislu provedbe članka 11. stavka 2. Uredbe (EU) 677/2011, ministarstvo nadležno za poslove obrane osigurava odgovarajuće sudjelovanje vojnih predstavnika u aktivnostima koje se odnose na mrežne funkcije.
+(5) U smislu provedbe članka 11. stavka 3. Uredbe (EU) 677/2011, nadležno je ministarstvo nadležno za poslove obrane i pružatelj usluga u zračnoj plovidbi.
