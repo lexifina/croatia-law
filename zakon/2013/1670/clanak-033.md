@@ -1,0 +1,2 @@
+# Članak 33.
+Prometne dozvole i knjižice vozila važeće na dan stupanja na snagu ovoga Zakona i prometne dozvole i knjižice vozila izdane do stupanja na snagu Pravilnika iz članka 242. stavka 4. Zakona o sigurnosti prometa na cestama (»Narodne novine«, br. 67/08., 48/10. i 74/11.) mogu se koristiti do prve promjene vlasnika vozila ili do popunjavanja rubrike »Dozvola vrijedi do:« u prometnoj dozvoli.
