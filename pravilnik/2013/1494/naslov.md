@@ -1,0 +1,1 @@
+Pravilnik o prestanku važenja Pravilnika o uvjetima pod kojima se dopušta odstupanje od određenih odredaba u vezi s unošenjem bilja roda Vitis L., isključujući plodove, podrijetlom iz Republike Makedonije
