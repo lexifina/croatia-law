@@ -1,0 +1,2 @@
+# Članak 5.
+Danom stupanja na snagu ovoga Pravilnika prestaju važiti odredbe članka 1. u dijelu koji se odnosi na sadržaj Plana upravljanja vodnim područjima te članaka 5. do 18. Pravilnika o sadržaju, postupku i metodologiji donošenja Strategije upravljanja vodama i Plana upravljanja vodnim područjima, načinu konzultiranja i informiranja javnosti i sastavu savjeta vodnog područja (»Narodne novine«, br. 3/11.).

@@ -1,0 +1,7 @@
+# Članak 2.
+Ovim se Pravilnikom u pravni poredak Republike Hrvatske prenose sljedeće direktive Europske unije:
+1. Direktiva 2000/60/EZ Europskog parlamenta i Vijeća od 23. listopada 2000. o uspostavi okvira za djelovanje Zajednice u području vodne politike (Okvirna direktiva o vodama) (SL L 327, 22. 12. 2000.), izmijenjena i dopunjena:
+- Direktivom 2009/31/EZ Europskoga parlamenta i Vijeća od 23. travnja 2009. o geološkom skladištenju ugljikovog dioksida i izmjenama i dopunama Direktive Vijeća 85/337/EEZ, Direktiva Europskoga parlamenta i Vijeća 2000/60/EZ, 2001/80/EZ, 2004/35/EZ, 2006/12/EZ, 2008/1/EZ i Uredbe (EZ) br. 1013/2006 (SL L 140, 5. 6. 2009.) - članak 32.;
+2. Direktiva 2006/11/EZ Europskoga parlamenta i Vijeća od 15. veljače 2006. o onečišćenju uzrokovanom ispuštanjem određenih opasnih tvari u vodni okoliš Zajednice (Kodificirana verzija) (Tekst značajan za EGP) (SL L 64, 4. 3. 2006.);
+3. Direktiva 2006/118/EZ Europskoga parlamenta i Vijeća od 12. prosinca 2006. o zaštiti podzemnih voda od onečišćenja i pogoršanja stanja (SL L 372, 27. 12. 2006.);
+4. Direktiva 2008/105/EZ Europskoga parlamenta i Vijeća od 16. prosinca 2008. o standardima kakvoće u području vodne politike i o izmjeni i kasnijem stavljanju izvan snage Direktiva Vijeća 82/176/EEZ, 83/513/EEZ, 84/156/EEZ, 84/491/EEZ, 86/280/EEZ, i izmjeni Direktive 2000/60/EZ Europskog parlamenta i Vijeća (SL L 348, 24. 12. 2008.).
