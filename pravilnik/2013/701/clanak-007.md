@@ -1,0 +1,22 @@
+## Konzultacije i pravni lijek
+# Članak 7.
+(1) Upravno tijelo zračne luke mora održavati redovite konzultacije s korisnicima zračne luke, ili s predstavnicima ili povjerenstvom korisnika zračne luke u svezi s:
+a) primjenom sustava obračunavanja naknada zračne luke,
+b) visinom naknada zračne luke, i prema potrebi
+c) kvalitetom pruženih usluga.
+(2) Konzultacije iz stavka 1. ovog članka moraju se održavati najmanje jednom godišnje, osim ukoliko tijekom posljednje konzultacije nije drugačije dogovoreno. U slučaju kada je potpisan višegodišnji sporazum između upravnog tijela i korisnika zračne luke, konzultacije će se održavati sukladno sporazumu. Na zahtjev Agencije konzultacije se mogu održavati i više puta godišnje, odnosno više puta u odnosu na potpisani sporazum.
+(3) O planiranim promjenama u sustavu obračunavanja ili visini naknada zračne luke, upravno tijelo zračne luke mora prethodno konzultirati korisnike zračne luke. Osim u slučaju iznimnih okolnosti, predložene promjene u sustavu obračunavanja ili visini naknada zračne luke, te razloge zbog kojih se promjene predlažu, upravno tijelo zračne luke mora dostaviti korisnicima zračne luke najkasnije četiri mjeseca prije stupanja na snagu promjena. Prije donošenja odluke o promjenama, upravno tijelo zračne luke mora uzeti u obzir mišljenja korisnika zračne luke. Upravno tijelo mora objaviti odluku ili preporuku najkasnije dva mjeseca prije njenog stupanja na snagu. U slučaju da nije postignut dogovor između upravnog tijela zračne luke i korisnika zračne luke o predloženim promjenama, upravno tijelo zračne luke mora opravdati svoju odluku s obzirom na stajališta korisnika zračnih luka.
+(4) U slučaju da nije postignut dogovor između upravnog tijela zračne luke i korisnika zračne luke o odluci upravnog tijela zračne luke o predloženim promjenama ili visini naknada zračne luke, i upravno tijelo zračne luke i korisnik zračne luke mogu uz obrazloženje tražiti intervenciju Agencije.
+(5) U slučaju iz stavka 4. ovog članka, konačnu odluku o predloženim promjenama u sustavu obračunavanja ili visini naknada zračne luke donosi Agencija na temelju stručne analize opravdanosti predloženih promjena. Odluka upravnog tijela zračne luke neće se moći provesti sve dok Agencija ne provede stručnu analizu. Ukoliko Agencija nije u mogućnosti donijeti konačnu odluku o predmetu u roku predloženom od strane upravnog tijela zračne luke, najkasnije četiri tjedna od datuma zaprimanja predmeta Agencija će donijeti privremenu odluku koja će biti na snazi do donošenja i primjene konačne odluke.
+(6) Radi donošenja konačne odluke, upravno tijelo zračne luke i korisnik zračne luke moraju dostavljati Agenciji sve potrebne informacije, a Agencija će provoditi konzultacije sa upravnim tijelom zračne luke i korisnikom zračne luke. Agencija mora donijeti konačnu odluku što prije, a najkasnije u roku od četiri mjeseca od dana zaprimanja zahtjeva za intervencijom, s mogućnošću produljenja roka za dva mjeseca u iznimnim i opravdanim slučajevima. Odluka je konačna i obvezujuća. Konačna odluka o promjeni u sustavu obračuna i visini naknada zračne luke stupa na snagu 60 dana od datuma objavljivanja. Protiv konačne odluke Agencije, nezadovoljna strana ima pravo pokretanja upravnog spora.
+(7) U cilju provedbe stavka 5. ovog članka Agencija mora primjenjivati odgovarajuće, objektivne, nediskriminirajuće i transparentne procedure, uvjete i kriterije. U tom smislu Agencija:
+a) uspostavlja proceduru za donošenje konačne odluke o predloženim promjenama u sustavu obračunavanja ili visini naknada zračne luke,
+b) utvrđuje kriterije na temelju kojih će procjenjivati razloge neslaganja s odlukom upravnog tijela zračne luke,
+c) neće uvažiti prigovore koji nisu argumentirani ili dokumentirani.
+(8) Stavci 4. i 5. ovog članka ne primjenjuju se na one zračne luke za koje je nekim drugim pravnim aktom propisan obvezujući postupak prema kojem Agencija:
+a) utvrđuje ili odobrava naknade zračne luke ili njihov najveći iznos na tim zračnim lukama; ili
+b) redovito ili kao odgovor na zahtjev zainteresiranih strana provjerava postojanje učinkovitog tržišnog natjecanja na tim zračnim lukama.
+(9) Ako je rezultat provjere postojanja učinkovitog tržišnog natjecanja iz stavka 8. točke b) ovog članka negativan, Agencija će utvrditi ili odobriti:
+a) naknade zračne luke, ili
+b) najveći dopušteni iznos naknada zračne luke.
+(10) Odluka iz stavka 9. ovog članka primjenjuje se dokle god Agencija procjenjuje da je potrebno.
