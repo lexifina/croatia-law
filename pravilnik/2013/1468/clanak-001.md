@@ -1,0 +1,2 @@
+# Članak 1.
+U Pravilniku o načinu izračuna kapitala, jamstvenog kapitala i adekvatnosti kapitala društava za osiguranje i društava za reosiguranje (»Narodne novine« broj 97/09, 42/10, 91/11 i 39/12) u članku 1. alineji 1. iza riječi »Zakon - Zakon o osiguranju (»Narodne novine« br. 151/05, 87/08, 82/09)« brišu se i dodaju se riječi »Zakon - Zakon o osiguranju (»Narodne novine« br. 151/05, 87/08, 82/09 i 54/13)«.
