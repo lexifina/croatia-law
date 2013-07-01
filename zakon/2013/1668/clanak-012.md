@@ -1,0 +1,3 @@
+# Članak 12.
+(1) Gospodarski subjekt koji posjeduje tvari s popisa prekursora iz kategorije 1. i 2. točke 3. Popisa tvari koje se mogu uporabiti za izradu droga (»Prekursori«), Popisa droga, psihotropnih tvari i biljaka iz kojih se može dobiti droga te tvari koje se mogu uporabiti za izradu droga (»Narodne novine«, br. 50/09., 2/10. i 19/11.), obvezan je osigurati čuvanje tvari s popisa od njihovog otuđenja.
+(2) Zaplijenjeni i oduzeti prekursori čuvaju se i uništavaju u skladu sa Zakonom o suzbijanju zlouporabe droga (»Narodne novine«, br. 107/01., 87/02., 163/03., 141/04., 40/07., 149/09. i 84/11.).

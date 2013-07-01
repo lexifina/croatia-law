@@ -1,0 +1,4 @@
+## I. OPĆE ODREDBE
+## Svrha Zakona
+# Članak 1.
+Ovim se Zakonom utvrđuje nadležno tijelo, zadaće nadležnoga tijela i postupci za provedbu: Uredbe (EZ) br. 273/2004 Europskog parlamenta i Vijeća od 11. veljače 2004. o prekursorima za droge (SL L 47, 18.2.2004.) - u daljnjem tekstu: Uredba (EZ) br. 273/2004, Uredbe Vijeća (EZ) br. 111/2005 od 22. prosinca 2004. koja utvrđuje pravila nadziranja trgovine prekursorima za droge između Zajednice i trećih zemalja (SL L 22, 26.1.2005.) - u daljnjem tekstu: Uredba (EZ) br. 111/2005 i Uredbe Komisije (EZ) br. 1277/2005 od 27. srpnja 2005. kojom se utvrđuju provedbena pravila za Uredbu (EZ) br. 273/2004 Europskog parlamenta i Vijeća o prekursorima za droge i za Uredbu Vijeća (EZ) br. 111/2005 kojom se utvrđuju pravila za nadziranje trgovine prekursorima za droge između Zajednice i trećih zemalja (SL L 202, 3. 8. 2005.) - u daljnjem tekstu: Uredba (EZ) br. 1277/2005.
