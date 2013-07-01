@@ -1,0 +1,12 @@
+## Značenje pojmova
+# Članak 2.
+U smislu ovoga Zakona pojedini pojmovi imaju sljedeća značenja:
+- državna potpora je stvarni i potencijalni rashod ili umanjeni prihod države dodijeljen od davatelja državne potpore u bilo kojem obliku koji narušava ili prijeti narušavanjem tržišnog natjecanja stavljajući u povoljniji položaj određenog poduzetnika ili proizvodnju određene robe i/ili usluge utoliko što utječe na trgovinu između država članica Europske unije, u skladu sa člankom 107. Ugovora o funkcioniranju Europske Unije (u daljnjem tekstu: UFEU),
+- program državne potpore je akt na temelju kojeg se, bez potrebe za dodatnim provedbenim mjerama, unaprijed neodređenim korisnicima državne potpore dodjeljuju državne potpore kao i akt na temelju kojeg se državna potpora koja unaprijed nije vezana za poseban projekt dodjeljuje jednom ili više korisnika državne potpore na neodređeno vrijeme i/ili u neodređenom iznosu,
+- pojedinačna državna potpora je državna potpora koja nije dodijeljena na temelju programa državne potpore,
+- državne potpore izuzete od obveze prijave Europskoj komisiji su državne potpore koje prije dodjele nije potrebno prijaviti Europskoj komisiji u skladu s važećim propisima Europske komisije donesenim na temelju članka 108. UFEU,
+- potpora male vrijednosti je potpora uređena važećom uredbom Europske unije koja zbog svoga iznosa ne narušava ili ne prijeti narušavanjem tržišnog natjecanja i ne utječe na trgovinu između država članica Europske unije te ne predstavlja državnu potporu iz članka 107. stavka 1. UFEU,
+- davatelj državne potpore je središnje tijelo državne uprave, jedinica lokalne i područne (regionalne) samouprave te svaka pravna osoba koja dodjeljuje državne potpore,
+- korisnik državne potpore je svaka pravna i fizička osoba koja, obavljajući gospodarsku djelatnost, sudjeluje u prometu roba i usluga, a prima državnu potporu, bez obzira na njezin oblik i namjenu,
+- prijava Europskoj komisiji je prijava prijedloga programa državne potpore ili pojedinačne državne potpore Europskoj komisiji radi odobrenja njezine dodjele u skladu s važećim uredbama Vijeća i Europske komisije kojima se uređuje postupak prijave i odobrenja državnih potpora,
+- pravila o državnim potporama su pravila pravne stečevine Europske unije o uvjetima dodjele državnih potpora i propisa Republike Hrvatske kojima su prenesena pravila pravne stečevine o uvjetima dodjele državnih potpora.

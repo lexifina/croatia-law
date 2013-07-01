@@ -1,0 +1,14 @@
+## Postupanje prije dodjele državnih potpora izuzetih od obveze prijave Europskoj komisiji
+# Članak 10.
+(1) Davatelj državne potpore dostavlja Agenciji prijedlog programa državne potpore ili pojedinačne državne potpore izuzetih od obveze prijave Europskoj komisiji radi davanja mišljenja o usklađenosti sadržaja prijedloga s pravilima o državnim potporama.
+(2) Agencija daje mišljenje na prijedlog iz stavka 1. ovoga članka najkasnije u roku od 45 dana od primitka potpunog prijedloga kojim potvrđuje da je predložena državna potpora državna potpora izuzeta od obveze prijave Europskoj komisiji te je u skladu s pravilima o državnim potporama.
+(3) Ako Agencija smatra da prijedlog iz stavka 1. ovoga članka nije usklađen ili nije u dovoljnoj mjeri usklađen s pravilima o državnim potporama, predložit će u pisanom obliku davatelju državne potpore izmjene i dopune dostavljenog prijedloga radi postizanja usklađenosti s pravilima o državnim potporama.
+(4) Davatelj državne potpore učinit će predložene izmjene i dopune iz stavka 3. ovoga članka u roku koji odredi Agencija, a koji ne može biti kraći od osam niti dulji od 30 dana.
+(5) Ako davatelj državne potpore ne dostavi Agenciji predložene izmjene i dopune u rokovima iz stavka 4. ovoga članka, Agencija davatelju državne potpore ponovno upućuje zahtjev iz stavka 3. ovoga članka.
+(6) Ako i nakon ponovljenog zahtjeva davatelj državne potpore ne dostavi zatražene izmjene i dopune smatrat će se da je davatelj državne potpore odustao od prijedloga iz stavka 1. ovoga članka.
+(7) Davatelj državne potpore može dodijeliti državnu potporu iz ovoga članka nakon što je dobio pozitivno mišljenje Agencije o usklađenosti prijedloga programa državne potpore ili pojedinačne državne potpore s pravilima o državnim potporama.
+(8) Iznimno od stavaka 6. i 7. ovoga članka, ako se ne slaže s mišljenjem Agencije, davatelj državne potpore može zatražiti od Agencije prijavu prijedloga iz stavka 1. ovoga članka izravno Europskoj komisiji, što će Agencija bez odgode učiniti.
+(9) Ako je zatražena i izvršena prijava iz stavka 8. ovoga članka, davatelj državne potpore ne može dodijeliti državnu potporu prije odobrenja Europske komisije.
+(10) Ako davatelj državne potpore koju je Agencija prijavila Europskoj komisiji, u skladu sa stavkom 8. ovoga članka, odustane od namjere dodjele državne potpore o tome će bez odgode izvijestiti Agenciju, a Agencija će povući već podnesenu prijavu ako Europska komisija već nije donijela odluku o prijavljenoj državnoj potpori.
+(11) Agencija obavještava Ministarstvo financija o svome mišljenju danom na prijedlog iz stavka 1. ovoga članka te o podnesenoj prijavi Europskoj komisiji, ako je učinjena.
+(12) Sadržaj, oblik i način dostave prijedloga programa državne potpore i pojedinačne državne potpore iz stavka 1. ovoga članka uredit će se pravilnikom.
