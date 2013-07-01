@@ -1,0 +1,3 @@
+# Članak 53.
+(1) Svaki ribarski brod dužine 15 metara preko svega ili više hrvatske državne pripadnosti ili ribarski brod koji se nalazi ili plovi unutarnjim morskim vodama i teritorijalnim morem Republike Hrvatske ili iskrcava ulov u Republici Hrvatskoj mora biti opremljen automatskim sustavom identifikacije broda (AIS) klase A koji udovoljava zahtjevima poglavlja V., SOLAS konvencije sukladno vremenskom rasporedu propisanom u Prilogu 1. koji je sastavni dio ovog Pravilnika.
+(2) Ribarski brodovi iz stavka 1. ovog članka dužni su osiguravati stalnu uporabnost i neprekinuti rad sustava. U iznimnim slučajevima, automatski sustav identifikacije broda (AIS) može biti isključen ukoliko zapovjednik broda to smatra neophodnim za sigurnost i sigurnosnu zaštitu broda.

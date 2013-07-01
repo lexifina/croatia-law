@@ -1,0 +1,6 @@
+# Članak 62.
+(1) VTS služba obavlja poslove nadzora nad sigurnosti plovidbe i prikupljanja podataka o pomorskim objektima i pomorskom prometu VTMIS sustavom u VTS području.
+(2) VTS služba nadzire primjenu sustava usmjerene i odijeljene plovidbe na Jadranskom moru koje je usvojila Međunarodna pomorska organizacija i koji su objavljeni u dokumentima COLREG.2/Circ. 54 od 28. svibnja 2004. i COLREG.2/Circ. 58 od 11. prosinca 2006. te oglasima za pomorce Hrvatskoga hidrografskoga instituta, Svezak 11 iz studenoga 2004. i svezak 3 iz ožujka 2007. u VTS području.
+(3) VTS služba nadzire primjenu Rezolucije Odbora za sigurnost plovidbe IMO-a MSC.139(76) od 5. prosinca 2002. godine kako je objavljena u Oglasu za pomorce Hrvatskoga hidrografskoga instituta, Svezak 5 od svibnja 2003. o obveznom sustavu javljanja brodova ADRIREP u VTS području.
+(4) VTS služba u slučajevima iz Dijela V. ovog Pravilnika VTS usluge pruža na zahtjev MRCC Rijeka ili nadležne lučke kapetanije.
+(5) Radi obavljanja poslova iz ovog članka VTSO je ovlašten stupiti u komunikaciju s pomorskim objektom i zatražiti podatke o pomorskom objektu, drugim pomorskim objektima ili pomorskom prometu u neposrednoj blizini tog pomorskog objekta.
