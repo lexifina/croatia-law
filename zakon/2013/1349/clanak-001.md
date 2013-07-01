@@ -1,0 +1,5 @@
+# Članak 1.
+U Zakonu o trgovini (»Narodne novine«, br. 87/08., 116/08., 76/09. i 114/11.), članak 1. mijenja se i glasi:
+»(1) Ovim se Zakonom uređuju uvjeti za obavljanje djelatnosti trgovine, radno vrijeme u djelatnosti trgovine, mjere zabrane nepoštenog trgovanja te nadzor i upravne mjere.
+(2) Ovim se Zakonom utvrđuju nadležna tijela za izdavanje dozvola i provođenje nadzora te kaznene odredbe za provedbu Uredbe Vijeća (EZ-a) br. 1236/2005 od 27. lipnja 2005. o trgovini određenom robom koja bi se mogla koristiti za izvršenje smrtne kazne, mučenje ili drugo okrutno, nečovječno ili ponižavajuće postupanje ili kažnjavanje (SL L 200, 30. 7. 2005., str. 1.), s izmjenama (u daljnjem tekstu: Uredba 1236/2005/EZ).
+(3) Ovim se Zakonom utvrđuju kaznene odredbe za provedbu Uredbe Vijeća (EZ-a) br. 2368/2002 od 20. prosinca 2002. kojom se provodi postupak certificiranja Procesa Kimberley za međunarodnu trgovinu neobrađenim dijamantima (SL L 358, 31. 12. 2002.), str. 28, s izmjenama (u daljnjem tekstu: Uredba 2368/2002/EZ).«.
