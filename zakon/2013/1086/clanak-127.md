@@ -1,0 +1,4 @@
+# Članak 127.
+U članku 342. stavku 1. točki 5. podstavku 4. riječi: »Direktivom broj 94/19/EZ« zamjenjuju se riječima: »Direktivom Europskog parlamenta i Vijeća broj 94/19/EZ od 30. svibnja 2004.«.
+U točki 6. riječi: »koji su predmet javne ponude, a ukupni iznos naknade u ponudi je manji od 2.500.000 eura, pri čemu se ovaj iznos računa kroz razdoblje od 12 mjeseci« zamjenjuju se riječima: »uključene u ponudu kad je ukupna naknada za ponudu u Europskoj uniji manja od 5.000.000 eura u kunskoj protuvrijednosti, pri čemu se ovaj iznos računa kroz razdoblje od dvanaest mjeseci«.
+U točki 7. riječi: »pri čemu je ukupna naknada u javnoj ponudi ovih vrijednosnih papira manja od 50.000.000 eura pri čemu se ovaj iznos računa kroz razdoblje od dvanaest mjeseci« zamjenjuju se riječima: »kad je ukupni iznos ponude u Europskoj uniji manji od 75.000.000 eura u kunskoj protuvrijednosti, čiji limit se računa tijekom razdoblja od dvanaest mjeseci«.

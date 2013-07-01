@@ -1,0 +1,6 @@
+# Članak 156.
+Naslov iznad članka 383. mijenja se i glasi: »Izdavatelji sa sjedištem u trećim državama«.
+U članku 383. stavku 1. točki 2. riječ: »odgovarajući« zamjenjuje se riječju: »istovjetni«.
+Iza stavka 2. dodaju se stavci 3. i 4. koji glase:
+»(3) Kada je Republika Hrvatska država članica domaćin izdavatelja koji ima sjedište u trećoj državi, na javnu ponudu vrijednosnih papira ili uvrštenje vrijednosnih papira na uređeno tržište u Republici Hrvatskoj na odgovarajući način se primjenjuju odredbe članaka 380. do 382. ovoga Zakona.
+(4) U slučaju iz stavka 3. ovoga članka, izdavatelj odnosno ponuditelj koji namjerava ponuditi vrijednosne papire javnosti u Republici Hrvatskoj ili podnijeti zahtjev za uvrštenje vrijednosnih papira na uređeno tržište u Republici Hrvatskoj, obvezan je sve aktivnosti vezano za javnu ponudu ili uvrštenje vrijednosnih papira na uređeno tržište, provesti putem osoba koje su sukladno odredbama ovoga Zakona u Republici Hrvatskoj ovlaštene obavljati investicijske usluge iz članka 5. stavka 1. točaka 6. i 7. ovoga Zakona i koje su, zajedno s osobama koje su ih angažirale, solidarno odgovorne za ispunjenje svih obveza iz glave I. dijela trećeg ovoga Zakona kao i za štetu proizašlu iz kršenja navedenih obveza.«.

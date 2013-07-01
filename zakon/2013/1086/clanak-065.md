@@ -1,0 +1,8 @@
+# Članak 65.
+Članak 200. mijenja se i glasi:
+(1) Investicijsko društvo iz članka 35. ovoga Zakona dužno je izvještavati Agenciju mjesečno o svim velikim izloženostima iz članka 193. ovoga Zakona tijekom proteklog mjeseca i o svim prekoračenjima najveće dopuštene izloženosti iz članka 198. ovoga Zakona.
+(2) Investicijsko društvo iz članka 32. stavka 1. i 2. ovoga Zakona dužno je izvještavati Agenciju tromjesečno o svim velikim izloženostima iz članka 193. ovoga Zakona tijekom protekla tri mjeseca i o svim prekoračenjima najveće dopuštene izloženosti iz članka 198. ovoga Zakona.
+(3) Investicijsko društvo iz članka 32. stavka 3. ovoga Zakona dužno je izvještavati Agenciju polugodišnje o svim velikim izloženostima iz članka 193. ovoga Zakona tijekom proteklih šest mjeseci i o svim prekoračenjima najveće dopuštene izloženosti iz članka 198. ovoga Zakona.
+(4) Investicijsko društvo je obvezno, u svakom izvještaju o prekoračenju, izvijestiti o iznosu prekoračenja i nazivu/imenu osobe na koju se odnosi prekoračenje.
+(5) U slučaju prekoračenja najveće dopuštene izloženosti iz knjige pozicija kojima se ne trguje, investicijsko društvo obvezno je bez odgode izvijestiti Agenciju, koja će, ako to okolnosti opravdavaju, dopustiti investicijskom društvu da se uskladi u određenom roku. Investicijsko društvo dužno je uz obavijest priložiti opis mjera koje će provesti radi usklađivanja svog poslovanja sa zahtjevima iz članaka 194. i 198. ovoga Zakona i u toj obavijesti navesti rok u kojem će te mjere biti provedene.
+(6) Agencija će pravilnikom propisati način i rokove izvještavanja o izloženosti.«.

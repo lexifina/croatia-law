@@ -1,0 +1,5 @@
+# Članak 69.
+Iza članka 208. dodaje se članak 208.a koji glasi:
+»Članak 208.a
+(1) Ako mješoviti financijski holding podliježe jednakim odredbama sukladno ovom Zakonu i propisima koji uređuju dodatni nadzor kreditnih institucija, društava za osiguranje i investicijskih društava u financijskom konglomeratu, posebno u smislu nadzora koji se temelji na riziku, Agencija može, nakon savjetovanja s drugim nadležnim tijelima odgovornima za nadzor ovisnih društava, primijeniti samo odgovarajuće odredbe tih propisa na taj mješoviti financijski holding.
+(2) Ako mješoviti financijski holding podliježe jednakim odredbama sukladno ovom Zakonu i propisima o osnivanju i obavljanju djelatnosti osiguranja i reosiguranja, posebno u smislu nadzora koji se temelji na riziku, Agencija može, u dogovoru s nadležnim nadzornim tijelom grupe u osiguravateljnom sektoru primijeniti na taj mješoviti financijski holding samo odredbe propisa koje se odnose na najznačajniji financijski sektor, kako je određeno u propisima koji uređuju dodatni nadzor kreditnih institucija, društava za osiguranje i investicijskih društava u financijskom konglomeratu.«.
