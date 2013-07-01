@@ -1,0 +1,9 @@
+# Zakon o provedbi Uredbe (EZ) br. 1272/2008 Europskog parlamenta i Vijeća od 16. prosinca 2008. o razvrstavanju, označavanju i pakiranju tvari i smjesa, kojom se izmjenjuju, dopunjuju i ukidaju Direktiva 67/548/EEZ i Direktiva 1999/45/EZ i izmjenjuje i dopunjuje Uredba (EZ) br. 1907/2006
+
+Official text as enacted; later changes are not consolidated.
+
+Source: <https://narodne-novine.nn.hr/eli/sluzbeni/2012/50/1222> (Narodne novine d.d.).
+
+Published: 2012-05-02. In force: 2013-07-01.
+
+[Official text](tekst.md). The whole official HTML body, including textual annexes, is retained.
