@@ -1,0 +1,3 @@
+# Članak 3.
+Članak 3. mijenja se i glasi:
+»Pojmovi koji se upotrebljavaju u smislu odredaba ovoga Zakona imaju jednako značenje kao i pojmovi uporabljeni u Uredbi (EZ) br. 765/2008, a pojam "norma" ima jednako značenje kao pojam definiran u članku 2. Uredbe (EU) br. 1025/2012 Europskog parlamenta i Vijeća od 25. listopada 2012. o europskoj normizaciji i koja dopunjuje i mijenja direktive Vijeća 89/686/EEZ i 93/15/EEZ i direktive 94/9/EZ, 94/25/EZ, 95/16/EZ, 97/23/EZ, 98/34/EZ, 2004/22/EZ, 2007/23/EZ, 2009/23/EZ i 2009/105/EZ Europskoga parlamenta i Vijeća i stavlja izvan snage Odluku Vijeća br. 87/95/EEZ te Odluku br. 1673/2006/EZ Europskoga parlamenta i Vijeća (SL L 316, 14. 11. 2012).«.

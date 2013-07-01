@@ -1,0 +1,4 @@
+# Članak 1.
+U Zakonu o akreditaciji (»Narodne novine«, br. 158/03. i 75/09.) u članku 1. iza stavka 1. dodaju se stavci 2. i 3. koji glase:
+»(2) Odredbe ovoga Zakona koje se odnose na propise o ocjenjivanju sukladnosti odgovarajuće se odnose na propise o ocjenjivanju i provjeri stalnosti svojstava te na propise o tehničkom ocjenjivanju građevnih proizvoda, ako posebnim Zakonom nije drugačije uređeno.
+(3) Ovim se Zakonom utvrđuje okvir za provedbu Uredbe (EZ) br. 765/2008 Europskog parlamenta i Vijeća od 9. srpnja 2008. o utvrđivanju zahtjeva za akreditaciju i za nadzor tržišta s obzirom na stavljanje proizvoda na tržište i o stavljanju izvan snage Uredbe (EEZ) br. 339/93 (Tekst značajan za EGP) (SL L 218, 13. 8. 2008) u dijelu koji se odnosi na akreditaciju (u daljnjem tekstu: Uredba (EZ) br. 765/2008).«.
