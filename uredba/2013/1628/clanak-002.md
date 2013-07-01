@@ -1,0 +1,2 @@
+# Članak 2.
+Korisnik prava iz članka 60. stavka 1. Zakona je hrvatski branitelj iz Domovinskog rata s priznatim statusom hrvatskog ratnog vojnog invalida iz Domovinskog rata s oštećenjem organizma 100% I. skupine (u daljnjem tekstu: korisnik) za kojeg Ministarstvo branitelja (u daljnjem tekstu: Ministarstvo) nabavlja novi osobni automobil s ugrađenim prilagodbama sukladno pravilima za javnu nabavu i dodjeljuje ga korisniku u vlasništvo bez naknade, te plaća carinu, porez na dodanu vrijednost i posebni porez.
