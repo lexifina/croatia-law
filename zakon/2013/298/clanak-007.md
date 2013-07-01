@@ -1,0 +1,19 @@
+## IV. PREKRŠAJNE ODREDBE
+# Članak 7.
+(1) Novčanom kaznom od 50.000,00 do 100.000,00 kuna kaznit će se za prekršaj pravna osoba koja obavlja registriranu djelatnost proizvodnje, stavljanja na tržište ili korištenja genetski modificiranih organizama, hrane i hrane za životinje ako:
+1. stavlja na tržište genetski modificirane organizme namijenjene za uporabu u hrani ili hranu iz članka 3. stavka 1. Uredbe (EZ) br. 1829/2003 bez odobrenja, te ako nisu ispunjeni uvjeti iz odobrenja (članak 4. stavak 2. Uredbe (EZ) br. 1829/2003),
+2. nositelj odobrenja i korisnici ne ispune sve uvjete ili ograničenja iz odobrenja te ako ne osigura da se proizvodi, koji nisu navedeni u odobrenju, ne stavljaju na tržište kao hrana ili hrana za životinje (članak 9. stavak 1. Uredbe (EZ) br. 1829/2003),
+3. hranu iz članka 12. stavka 1. Uredbe (EZ) br. 1829/2003 ne označi u skladu sa zahtjevima iz članaka 12. i 13. Uredbe (EZ) br. 1829/2003,
+4. ne dokaže da sukladno članku 12. stavku 2. Uredbe (EZ) br. 1829/2003 provodi odgovarajuće mjere za izbjegavanje prisutnosti tvari iz članka 12. stavka 1. Uredbe (EZ) br. 1829/2003 u hrani (članak 12. stavak 3. Uredba (EZ) br. 1829/2003),
+5. stavlja na tržište genetski modificirane organizme, rabi ili prerađuje proizvod iz članka 15. stavka 1. Uredbe (EZ) br. 1829/2003 bez odobrenja i ako ne ispunjava odgovarajuće uvjete iz odobrenja (članak 16. stavak 2. Uredbe (EZ) br. 1829/2003),
+6. nositelj odobrenja i korisnici ne ispunjavaju sve uvjete ili ograničenja iz odobrenja te ne osiguraju da se proizvodi, koji nisu navedeni u odobrenju, ne stavljaju na tržište kao hrana ili hrana za životinje (članak 21. stavak 1. Uredbe (EZ) br. 1829/2003),
+7. hranu za životinje iz članka 24. stavka 1. Uredbe (EZ) br. 1829/2003 ne označi u skladu sa zahtjevima iz članaka 24. i 25. Uredbe (EZ) br. 1829/2003,
+8. ne dokaže da sukladno članku 24. stavku 2. Uredbe (EZ) br. 1829/2003 provodi odgovarajuće mjere za izbjegavanje prisutnosti tvari iz članka 24. stavka 1. Uredbe (EZ) br. 1829/2003 u hrani (članak 24. stavak 3. Uredbe (EZ) br. 1829/2003),
+9. ne dokaže da sukladno članku 47. stavku 2. Uredbe (EZ) br. 1829/2003 provodi odgovarajuće mjere za izbjegavanje prisutnosti tvari iz članka 47. stavka 1. Uredbe (EZ) br. 1829/2003 u hrani,
+10. subjekt u poslovanju s genetski modificiranom hranom ili genetski modificiranom hranom za životinje ne osigura sljedivost u skladu s člankom 4. Uredbe (EZ) br. 1830/2003,
+11. subjekt u poslovanju s genetski modificiranom hranom ili genetski modificiranom hranom za životinje pri stavljanju na tržište proizvoda od genetski modificiranih organizama, ne osigura subjektu u poslovanju koji proizvod prima prenošenje informacija iz članka 5. stavka 1. Uredbe (EZ) br. 1830/2003 u pisanom obliku.
+(2) Novčanom kaznom od 10.000,00 do 15.000,00 kuna za prekršaj iz stavka 1. ovoga članka kaznit će se i odgovorna osoba u pravnoj osobi.
+(3) Novčanom kaznom od 10.000,00 do 15.000,00 kuna kaznit će se za prekršaj iz stavka 1. ovoga članka fizička osoba koja obavlja registriranu djelatnost proizvodnje, stavljanja na tržište ili korištenja genetski modificiranih organizama, hrane i hrane za životinje za postupanja protivna odredbama ovoga Zakona.
+(4) Za pokušaj prekršaja iz stavka 1. točaka 1. i 5. ovoga članka počinitelj će se kazniti.
+(5) Novčanom kaznom u iznosu od 1.000,00 kuna sanitarni inspektor kaznit će za prekršaj na mjestu počinjenja prekršaja odgovornu osobu u pravnoj osobi i fizičku osobu koja obavlja registriranu djelatnost proizvodnje, stavljanja na tržište ili korištenja genetski modificiranih organizama, hrane i hrane za životinje za postupanja protivna odredbama stavka 1. ovoga članka.
+(6) Ako osoba kažnjena za prekršaj iz stavka 5. ovoga članka ponovno počini istovjetni prekršaj, kaznit će se na mjestu počinjenja prekršaja novčanom kaznom u iznosu od 3.000,00 kuna.
