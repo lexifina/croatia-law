@@ -1,0 +1,7 @@
+## Usporedno vođenje željezničke pruge i druge prometnice
+# Članak 88.
+(1) U kolodvorima i na otvorenoj pruzi trasa industrijskog kolosijeka koja je usporedna sa željezničkom prugom može se iznimno nalaziti unutar pružnog ili infrastrukturnog pojasa, uz uvjet ispunjenja propisanih sigurnosnih i funkcionalnih zahtjeva, a naročito pridržavanja osnog razmaka između kolosijeka.
+(2) Razmak između željezničke pruge i usporedno vođene ceste ili pješačke ili biciklističke staze ne smije biti manji od 8 m, mjereno od osi najbližega kolosijeka do najbliže točke gornjega ustroja ceste ili staze.
+(3) Iznimno od odredbe stavka 2. ovoga članka, razmak između željezničke pruge i ceste koja nema status autoceste može biti od 4 m do 8 m, uz uvjet da im se slobodni profili ne dodiruju i da je između njih dovoljan prostor za željezničke infrastrukturne uređaje i postrojenja, te uz uvjet da gornji rub bliže tračnice na željezničkoj pruzi bude najmanje jedan metar iznad gornje površine kolnika ceste.
+(4) U slučaju iz stavka 3. ovoga članka i ako gornji rub bliže tračnice na željezničkoj pruzi nije najmanje jedan metar iznad gornje površine kolnika ceste ili staze, pravna osoba koja održava cestu odgovorna je, uz uvjete upravitelja infrastrukture, za postavljanje i održavanje zaštitne ograde.
+(5) Zaštitnu ogradu iz stavka 4. ovoga članka nije potrebno postavljati ako se između željezničke pruge i ceste nalazi prirodna ili umjetna prepreka koja može poslužiti istoj namjeni.

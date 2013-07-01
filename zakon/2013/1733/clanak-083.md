@@ -1,0 +1,12 @@
+## Željezničko-cestovni prijelaz i pješački prijelaz preko pruge
+# Članak 83.
+(1) Prijelaz vozila i drugih sudionika u cestovnom prometu preko željezničke pruge u istoj razini dozvoljen je samo na željezničko-cestovnom prijelazu (u daljnjem tekstu: ŽCP), a prijelaz pješaka preko željezničke pruge u istoj razini dopušten je i na pješačkom prijelazu preko pruge (u daljnjem tekstu: PP) u skladu s odredbama propisa kojima se uređuje sigurnost prometa na cestama.
+(2) Vlak, odnosno vozilo na ŽCP-u ili PP-u ima pravo prednosti prolaska u odnosu na vozila i druge sudionike u cestovnom prometu.
+(3) ŽCP ili PP smatra se sastavnim dijelom željezničke pruge na dijelu gdje cesta, odnosno pješačka staza prelazi preko kolosijeka i određuje se mjerenjem okomito na os krajnjega/krajnjih kolosijeka u duljini od tri metra sa svake strane.
+(4) Upravitelj infrastrukture odgovoran je za uspostavu i održavanje ŽCP-a i PP-a u skladu s odredbama ovoga Zakona.
+(5) Upravitelj infrastrukture mora održavati ŽCP i PP na način da je zajamčena sigurnost željezničkog sustava i sigurnost prometa na cestama u skladu s ovim Zakonom i propisima kojima je uređena sigurnosti prometa na cestama, a po potrebi moraju se poduzeti i druge propisane mjere.
+(6) Sigurnost na ŽCP-u i PP-u osigurava se uređajem za osiguravanje prijelaza ili propisanom preglednošću s ceste, odnosno pješačke staze na željezničku prugu.
+(7) Način osiguravanja ŽCP-a mora biti usklađen s promjenama nastalim uslijed modernizacije željezničke pruge ili prekategorizacije ceste ili željezničke pruge.
+(8) Upravitelj infrastrukture može pri izvođenju radova na ŽCP-u i PP-u postaviti privremenu kolničku konstrukciju i privremeno regulirati cestovni promet na ŽCP-ima cestovnim znakovima zabrane prometa, ograničenjem brzine i slično.
+(9) Izvedba i održavanje kolničke konstrukcije (»popođenja«) na ŽCP-u i PP-u mora biti sukladna propisima kojima se uređuje sigurnost na cestama i mora biti sukladna odgovarajućoj komunalnoj infrastrukturi.
+(10) Način osiguravanja sigurnosti na ŽCP-ima i PP-ima, uvjeti kojima moraju udovoljavati mimoilazne zaštitne ograde, propisana preglednost s ceste, odnosno pješačke staze na željezničku prugu, kao i druge mjere koje se moraju poduzeti za siguran tijek prometa, ovisno o značaju i vrsti željezničke pruge i ceste, gustoći prometa, brzini vlakova, odnosno vozila i drugim uvjetima od značenja za sigurnost propisuju se pravilnikom koji donosi ministar.

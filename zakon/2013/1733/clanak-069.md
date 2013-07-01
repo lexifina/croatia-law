@@ -1,0 +1,6 @@
+## Održavanje željezničke infrastrukture
+# Članak 69.
+(1) Upravitelj infrastrukture mora postojeće infrastrukturne podsustave održavati u ispravnom funkcionalnom stanju u skladu s projektiranim rješenjima, s ciljem stalnog ispunjavanja osnovnih zahtjeva utvrđenih u TSI-jevima i nacionalnim tehničkim pravilima, a u skladu s tehničkim uvjetima za održavanje.
+(2) Upravitelj infrastrukture mora u okviru sustava upravljanja sigurnošću uspostaviti vlastita pravila za održavanje koja uključuju način održavanja, upute za održavanje i tehničko-tehnološke postupke za održavanje.
+(3) Održavanje uključuje provedbu sustavnih mjera, nadzor stanja, redovite i povremene preglede, kontrolu ispravnosti rada infrastrukturnih podsustava i njihovih dijelova, izvođenje radova na obnovi (remontu) i zamjeni sastavnih dijelova infrastrukturnih podsustava, uklanjanje drveća, nasada, naprava i drugo, pri čemu se ne mijenja usklađenost s lokacijskim uvjetima.
+(4) Upravitelj infrastrukture mora na mjestima odrona, bujica i na mjestima izloženim vijavicama i jakim vjetrovima, na kojima može doći do ometanja ili ugrožavanja sigurnosti željezničkog sustava, samostalno ili zajedno s drugom pravnom osobom, pravodobno poduzeti potrebne mjere tehničke i fizičke zaštite željezničke pruge od elementarnih nepogoda.

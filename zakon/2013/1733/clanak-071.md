@@ -1,0 +1,8 @@
+## Građenje u zaštitnom pružnom i infrastrukturnom pojasu
+# Članak 71.
+(1) U zaštitnom pružnom pojasu dozvoljeno je, u skladu s općim i posebnim uvjetima, graditi građevine, graditi i postavljati vodove, postrojenja i opremu, te saditi drveće i nasade pod uvjetom da ne ugrožavaju sigurnost željezničkog sustava.
+(2) Cjevovodi, električni i drugi zračni vodovi, podzemni kabeli i druge slične instalacije od općega interesa smiju se postaviti u infrastrukturnom pojasu, križati sa željezničkom prugom ili s njom usporedno izvoditi u skladu s općim i posebnim uvjetima, samo u slučaju ako se njihovim postavljanjem i uporabom ne ugrožava sigurnost željezničkoga sustava.
+(3) Opći uvjeti za građenje iz stavaka 1. i 2. ovoga članka u zaštitnom pružnom i infrastrukturnom pojasu propisuju se pravilnikom koji donosi ministar.
+(4) Posebne uvjete iz stavaka 1. i 2. ovoga članka za građenje u zaštitnom pružnom i infrastrukturnom pojasu, u skladu s pravilnikom iz stavka 3. ovoga članka i propisima kojima se propisuje prostorno uređenje i gradnja, određuje upravitelj infrastrukture.
+(5) Posebni uvjeti iz stavka 4. ovoga članka određuju se za svaki slučaj posebno, ovisno o tome radi li se o otvorenoj pruzi, kolodvoru, naseljenom mjestu, tunelu, nasipu, usjeku i slično, kao i ovisno o visini građevine koja se gradi, o udaljenosti od željezničke pruge i o namjeni građevine, uzimajući u obzir hrvatske norme, tehničke uvjete kojima te građevine moraju udovoljavati, kao i druge mjere propisane za njihovu gradnju.
+(6) Posebni uvjeti iz stavka 4. ovoga članka određuju se i za građenje u zaštitnom pružnom pojasu planirane željezničke pruge koji je unesen u prostorne planove.

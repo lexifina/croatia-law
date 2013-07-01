@@ -1,0 +1,6 @@
+## I. OPĆE ODREDBE
+## Predmet zakona
+# Članak 1.
+(1) Ovim se Zakonom uređuje sigurnost i interoperabilnost željezničkog sustava, mjere za razvoj i upravljanje sigurnošću, uvjeti za postizanje interoperabilnosti željezničkog sustava Europske unije, utvrđuju se uvjeti za sigurno upravljanje željezničkim prometom i za sigurno odvijanje željezničkog prometa, uvjeti za obavljanje djelatnosti upravitelja infrastrukture i željezničkih prijevoznika, uvjeti za strojovođe i ostale izvršne radnike, postupanje tijela nadležnog za sigurnost željezničkog prometa i tijela za istraživanje željezničkih nesreća, te nadzor sigurnosti i inspekcijski nadzor.
+(2) Sigurnost željezničkog sustava mora se sustavno održavati i trajno unaprjeđivati, uzimajući u obzir razvoj zakonodavstva Europske unije i tehnički i znanstveni napredak, a naročito s ciljem sprječavanja ozbiljnih nesreća.
+(3) Uvjeti koji se moraju ispuniti radi postizanja interoperabilnosti željezničkog sustava odnose se na projektiranje, izgradnju, puštanje u uporabu, modernizaciju, obnovu, uporabu i održavanje dijelova željezničkog sustava, kao i na stručnu osposobljenost te zdravstvene i sigurnosne uvjete osoblja koje doprinosi njegovom radu, funkcioniranju i održavanju.

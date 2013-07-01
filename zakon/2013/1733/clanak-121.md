@@ -1,0 +1,7 @@
+## Zaštita željezničke infrastrukture i vozila
+# Članak 121.
+(1) Zabranjeno je oštećivati željezničku infrastrukturu i vozila, bacati ili stavljati na željezničku prugu bilo kakve predmete i tvari, bacati predmete na vozila ili iz tih vozila, ometati rad zaposlenika upravitelja infrastrukture i željezničkog prijevoznika, ili na koji drugi način ugrožavati ili ometati odvijanje željezničkog prometa.
+(2) Uz željezničku prugu, a naročito u blizini željezničkih signala, nije dozvoljena sadnja visokog drveća i nasada, postavljanje znakova, oznaka, izvora obojene ili zasljepljujuće svjetlosti, ili drugih predmeta i naprava koje bojom, oblikom ili svjetlošću smanjuju vidljivost željezničkih signala, ili koje mogu dovesti u zabunu izvršne radnike u vezi značenja signalnih znakova.
+(3) Na željezničkoj infrastrukturi, bez prethodne suglasnosti upravitelja infrastrukture, nije dozvoljeno obavljanje bilo kakvih radova.
+(4) Upravitelj infrastrukture ovlašten je zahtijevati od vlasnika, odnosno posjednika zemljišta u primjerenom roku uklanjanje drveća, nasada, naprava ili predmeta iz stavka 2. ovoga članka.
+(5) Ako vlasnik, odnosno posjednik zemljišta ne postupi u primjerenom roku po zahtjevu upravitelja infrastrukture u slučajevima iz stavka 4. ovoga članka, upravitelj infrastrukture poduzet će potrebne mjere, a vlasnik, odnosno posjednik morat će nastale troškove nadoknaditi upravitelju infrastrukture.

@@ -1,0 +1,9 @@
+## Pristup uslugama osposobljavanja
+# Članak 33.
+(1) Pružatelji usluga osposobljavanja strojovođa i izvršnih radnika moraju željezničkim prijevoznicima koji podnose zahtjev za izdavanje potvrde o sigurnosti omogućiti pošten i nediskriminirajući pristup osposobljavanju, uključujući osposobljavanje za poznavanje trasa, prometnih i signalnih pravila, prometno-upravljačkog i signalno-sigurnosnog podsustava te postupaka u slučaju opasnosti.
+(2) Pružatelji usluga osposobljavanja moraju upravitelju infrastrukture i njegovim radnicima koji obavljaju poslove vezane za sigurnost omogućiti pošten i nediskriminirajući pristup osposobljavanju.
+(3) Ako osposobljavanje iz stavaka 1. i 2. ovoga članka ne uključuje ispitivanje, ispitivači moraju osigurati pošten i nediskriminirajući pristup ispitivanju i dobivanje potvrda o osposobljenosti.
+(4) U postupku izdavanja potvrde i uvjerenja o sigurnosti Agencija utvrđuje da je osoblje podnositelja zahtjeva osposobljeno u skladu sa sigurnosnim zahtjevima iz TSI-ja ili nacionalnim sigurnosnim pravilima.
+(5) Ako usluge osposobljavanja nudi samo jedan željeznički prijevoznik ili upravitelj infrastrukture, on mora omogućiti pošten i nediskriminirajući pristup osposobljavanju ostalim željezničkim prijevoznicima uz primjerenu i nediskriminirajuću naknadu, temeljenu na izravnim troškovima i uvećanu za razumnu dobit.
+(6) Pružatelj usluga osposobljavanja, uključujući željezničkog prijevoznika i upravitelja infrastrukture, mora strojovođama i izvršnim radnicima odobriti pristup, dostavu i presliku svih isprava koje svjedoče o njihovom obrazovanju, općoj i stručnoj osposobljenosti, te radnom iskustvu.
+(7) Ne dovodeći u pitanje odgovornost pružatelja usluga osposobljavanja, željeznički prijevoznici i upravitelji infrastrukture moraju svojim sustavom upravljanja sigurnošću osigurati potrebnu razinu obrazovanja i osposobljenosti izvršnih radnika i strojovođa.

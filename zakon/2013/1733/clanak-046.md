@@ -1,0 +1,15 @@
+## VIII. STRUKTURNI PODSUSTAVI
+## Odobrenje za puštanje u uporabu
+# Članak 46.
+(1) Upravitelji infrastrukture i željeznički prijevoznici moraju u okviru sustava upravljanja sigurnošću uspostaviti pravila o puštanju u uporabu strukturnih podsustava u skladu s odgovornošću za nadzor rizika i zajedničkim sigurnosnim metodama za vrednovanje i procjenu rizika i za ocjenjivanje sukladnosti sa zahtjevima uvjerenja i potvrde o sigurnosti.
+(2) Svaki strukturni podsustav koji se nalazi ili se koristi na području Republike Hrvatske mora prije puštanja u uporabu imati odobrenje za puštanje u uporabu koje izdaje Agencija.
+(3) Odredbe o izdavanju odobrenja za puštanje u uporabu podsustava odnose se i na dijelove podsustava.
+(4) Podsustavi se mogu pustiti u uporabu samo ako su projektirani, izgrađeni i ugrađeni tako da pri uključivanju u željeznički sustav ispunjavaju osnovne zahtjeve, da su tehnički kompatibilni sa sustavom u koji se uključuju, te da je ostvarena sigurnosna integracija tih podsustava u željeznički sustav.
+(5) Odobrenje za puštanje u uporabu može se izdati za tip i seriju podsustava.
+(6) Ne dovodeći u pitanje odredbu stavka 1. ovoga članka i primjenu ostalih propisa (iz područja gradnje, zaštite okoliša i ostalih), strukturni podsustavi koji ispunjavaju osnovne zahtjeve mogu se bez zabrane i ograničenja graditi, puštati u uporabu i koristiti na području Republike Hrvatske.
+(7) Sve dok proširenje područja primjene TSI-ja ne postane valjano za čitavu željezničku mrežu Europske unije:
+- odobrenja za puštanje u uporabu vozila i prometno-upravljačkog i signalno-sigurnosnog podsustava ugrađenog na vozilu, koji se barem djelomično koriste na dijelu mreže koji još nije uključen u područje primjene TSI-ja, s obzirom na taj dio mreže, te
+- odobrenja za puštanje u uporabu građevinskog i elektroenergetskog podsustava te prometno-upravljačko i signalno-sigurnosnog podsustava ugrađenog na pruzi na dijelovima mreže koji još nisu uključeni u područje primjene TSI-ja izdaju se u skladu s nacionalnim sigurnosnim pravilima iz članka 22. ovoga Zakona, ili tamo gdje je to primjenjivo u skladu s nacionalnim tehničkim pravilima iz članka 47. ovoga Zakona.
+(8) Sve dok proširenje područja primjene TSI-ja ne postane valjano za čitavu željezničku mrežu Europske unije odobrenja za puštanje u uporabu vozila koja će se povremeno koristiti na dijelovima mreže koji još nisu uključeni u područje primjene TSI-ja, s obzirom na taj dio mreže, izdaju se u skladu s odredbama glave IX. i nacionalnim sigurnosnim pravilima iz članka 22. ovoga Zakona, ili tamo gdje je to primjenjivo u skladu s nacionalnim tehničkim pravilima iz članka 47. ovoga Zakona.
+(9) Postupak za izdavanje odobrenja za puštanje u uporabu infrastrukturnog podsustava može se voditi prije, nakon ili usporedno s postupcima koji se vode u skladu s propisom kojim se uređuje gradnja.
+(10) Sukladno propisu kojim se uređuje gradnja, potvrdu o usklađenosti glavnog projekta s odredbama ovoga Zakona izdaje Ministarstvo, a član povjerenstva koje obavlja tehnički pregled je predstavnik Ministarstva, odnosno osoba koju ovlasti ministar.

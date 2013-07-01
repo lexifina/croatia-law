@@ -1,0 +1,12 @@
+## Prijenos propisa Europske unije
+# Članak 2.
+Ovim se Zakonom u pravni poredak Republike Hrvatske prenose sljedeće direktive Europske unije:
+a) - Direktiva 2004/49/EZ Europskog parlamenta i Vijeća od 29. travnja 2004. o sigurnosti željeznica Zajednice te izmjenama i dopunama Direktive Vijeća 95/18/EZ o izdavanju dozvola za obavljanje usluga u željezničkom prijevozu i Direktive 2001/14/EZ o dodjeli željezničkog infrastrukturnog kapaciteta i ubiranju pristojbi za korištenje željezničke infrastrukture i dodjeli rješenja o sigurnosti (Direktiva o sigurnosti željeznice) (SL L 164, 30. 4. 2004.),
+- Direktiva 2008/110/EZ Europskog parlamenta i Vijeća od 16. prosinca 2008. o izmjeni Direktive 2004/49/EZ o sigurnosti željeznica Zajednice (Direktiva o sigurnosti željeznice) (Tekst značajan za EGP) (SL L 345, 23. 12. 2008.),
+- Direktiva 2009/149/EZ Komisije od 27. studenoga 2009. o izmjeni Direktive 2004/49/EZ Europskog parlamenta i Vijeća u vezi sa zajedničkim sigurnosnim pokazateljima i zajedničkim metodama izračunavanja troškova nesreće (Tekst značajan za EGP) (SL L 313, 28. 11. 2009.);
+b) - Direktiva 2008/57/EZ Europskog parlamenta i Vijeća od 17. lipnja 2008. o interoperabilnosti željezničkog sustava unutar Zajednice (preinačena) (Tekst značajan za EGP) (SL L 191, 18. 7. 2008.),
+- Direktiva Komisije 2009/131/EZ od 16. listopada 2009. o izmjeni Priloga VII. Direktivi 2008/57/EZ Europskog parlamenta i Vijeća o interoperabilnosti željezničkog sustava unutar Zajednice (Tekst značajan za EGP) (SL L 273, 17. 10. 2009.),
+- Direktiva Komisije 2011/18/EU od 1. ožujka 2011. o izmjeni priloga II., V. i VI. Direktivi 2008/57/EZ Europskog parlamenta i Vijeća o interoperabilnosti željezničkog sustava unutar Zajednice (Tekst značajan za EGP) (SL L 57, 2. 3. 2011.),
+- Direktiva 2013/9/EU Komisije od 12. ožujka 2013. o izmjeni Priloga III. Direktivi 2008/57/EZ Europskog parlamenta i Vijeća o interoperabilnosti željezničkog sustava unutar Zajednice (Tekst značajan za EGP) (SL L 68, 12. 3. 2013.);
+c) Direktiva 2007/59/EZ Europskog parlamenta i Vijeća od 23. listopada 2007. o davanju ovlaštenja strojovođama koji upravljaju lokomotivama i vlakovima na željezničkom sustavu Zajednice (SL L 315, 3. 12. 2007.);
+d) Direktiva Vijeća 2005/47/EZ od 18. srpnja 2005. o Sporazumu između Zajednice europskih željeznica (CER) i Europske federacije radnika u prometu (ETF) o određenim pitanjima uvjeta rada mobilnih radnika u interoperabilnom prekograničnom prometu u željezničkom sektoru (SL L 195, 27. 7. 2005.).

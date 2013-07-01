@@ -1,0 +1,8 @@
+## Nadzor rada izvršnih radnika
+# Članak 93.
+(1) Željeznički prijevoznik ili upravitelji infrastrukture odgovoran je za nadzor zdravstvene sposobnosti i stručne osposobljenosti izvršnog radnika kojeg zapošljava.
+(2) Ako rezultati nadzora iz stavka 1. ovoga članka dovedu u pitanje sposobnost izvršnog radnika za obavljanje posla i valjanost uvjerenja o položenom stručnom ispitu, željeznički prijevoznik i upravitelj infrastrukture mora bez odgađanja poduzeti potrebne mjere s ciljem osiguranja sigurnosti željezničkog sustava.
+(3) Ako željeznički prijevoznik ili upravitelj infrastrukture ima saznanja ili ga liječnik obavijesti o pogoršanju zdravstvenog stanja izvršnog radnika do te mjere da je njegova sposobnost za obavljanje posla postala upitna, mora bez odgađanja poduzeti potrebne mjere, uključujući provedbu propisanog zdravstvenog pregleda.
+(4) Željeznički prijevoznik i upravitelj infrastrukture odgovoran je da izvršni radnik kojeg zapošljava u tijeku obavljanja posla ni u kojem trenutku nije pod utjecajem bilo kojih sredstava koja bi mogla utjecati na njegovu koncentraciju, pozornost ili ponašanje.
+(5) Za provedbu odredbe stavka 4. ovoga članka željeznički prijevoznik ili upravitelj infrastrukture može narediti ispitivanja s ciljem utvrđivanja je li izvršni radnik pod utjecajem bilo kojih sredstava koja bi mogla utjecati na njegovu koncentraciju, pozornost ili ponašanje.
+(6) Ovisno o rezultatima ispitivanja iz stavka 5. ovoga članka, željeznički prijevoznik ili upravitelj infrastrukture mora bez odgađanja poduzeti potrebne mjere s ciljem osiguranja sigurnosti željezničkog sustava.
