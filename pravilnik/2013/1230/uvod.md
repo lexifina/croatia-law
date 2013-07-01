@@ -1,0 +1,1 @@
+Na temelju članka 66. stavak 3. Zakona o šumskom reprodukcijskom materijalu (»Narodne novine« broj 75/09, 61/11 i 56/13) ministar poljoprivrede donosi
