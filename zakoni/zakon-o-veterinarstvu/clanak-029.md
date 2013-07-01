@@ -1,0 +1,2 @@
+# Članak 29.
+Radi onemogućavanja unošenja, širenja i poduzimanja mjera suzbijanja određenih bolesti iz članka 11. ovoga Zakona, ministar može, na prijedlog čelnika Uprave, zatražiti da Vlada Republike Hrvatske odredi način sudjelovanja Ministarstva unutarnjih poslova, ustrojstvenih jedinica Ministarstva obrane i Oružanih snaga Republike Hrvatske u provođenju mjera ograničenja ili zabrane kretanja osoba i životinja za određena područja, a po potrebi i dijelova granice Republike Hrvatske.

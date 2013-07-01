@@ -1,0 +1,2 @@
+# Članak 150.
+Veterinarski inspektor ovlašten je u postupku inspekcijskog nadzora zatražiti i pregledati isprave na temelju kojih utvrđuje identitet osobe (osobna iskaznica, putovnica i sl.), a osobe koje podliježu nadzoru obvezne su na zahtjev dati mu takvu ispravu. Ako osoba odbije da mu se utvrdi identitet, veterinarski inspektor će pisano, a u žurnim slučajevima i na usmeni zahtjev, od nadležne policijske uprave zatražiti pomoć pri utvrđivanju identiteta nadziranih osoba.

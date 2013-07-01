@@ -1,0 +1,4 @@
+# Članak 34.
+(1) Za životinju koja je usmrćena, zaklana ili uginula zbog provedbe naređene mjere, kao i za uništene proizvode životinjskog podrijetla i predmete oštećene ili uništene zbog provedbe naređenih mjera iz članka 33. ovoga Zakona, posjednik životinje odnosno vlasnik proizvoda životinjskog podrijetla i predmeta, ima pravo na naknadu, u visini tržišne cijene na dan provođenja mjere.
+(2) Procjenu vrijednosti životinje odnosno proizvoda životinjskog podrijetla i predmeta iz stavka 1. ovoga članka utvrđuje povjerenstvo koje osniva čelnik Uprave u čijem sastavu mora obvezno biti nadležni veterinarski inspektor.
+(3) Rješenje o pravu na naknadu štete i visini štete donosi čelnik Uprave na prijedlog povjerenstva iz stavka 2. ovoga članka, u roku od 60 dana, a isplata mora uslijediti najkasnije u roku od 90 dana od dana provedene mjere.

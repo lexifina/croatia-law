@@ -1,0 +1,9 @@
+# Članak 180.
+(1) Smatra se da osobe iz članka 15. stavka 1. ovoga Zakona ispunjavaju uvjete iz stavka 3. navedenoga članka ako prilikom stupanja na snagu ovoga Zakona u obavljanju svoje djelatnosti dolaze u neposredan dodir sa životinjama.
+(2) Veterinari s položenim državnim stručnim ispitom za zvanje veterinarskog inspektora ili službenog veterinara, nisu obvezni polagati državni stručni ispit za ovlaštenog veterinara iz članka 153. stavka 3. ovoga Zakona.
+(3) Poslove službenog veterinara utvrđene podzakonskim aktima donesenim na temelju odredbi Zakona o veterinarstvu (»Narodne novine«, br. 41/07. i 55/11.) ili Zakona o hrani (»Narodne novine«, br. 46/07., 84/08. i 55/11.) preuzima veterinarski inspektor u skladu s odredbama ovoga Zakona.
+(4) Službeni veterinari, nakon stupanja na snagu ovoga Zakona rasporedit će se na poslove veterinarskih inspektora, u skladu s odredbama posebnih propisa o državnim službenicima te o ustrojstvu Ministarstva.
+(5) Vježbenički staž i vježbenički ispit propisan Pravilnikom o vježbeničkom stažu veterinarskih djelatnika i načinu polaganja stručnog ispita (»Narodne novine«, br. 5/99. i 44/99.) moraju, osim veterinarskih tehničara, obavljati odnosno polagati veterinari koji su upisali dodiplomski studij zaključno s nastavnom godinom 2004./2005.
+(6) Ministar će imenovati stručno povjerenstvo iz članka 103. stavka 4. ovoga Zakona u roku od 6 mjeseci od dana stupanja na snagu ovoga Zakona.
+(7) Ugovor o koncesiji sklopljen na temelju odredbi Zakona o veterinarstvu (»Narodne novine«, br. 41/07. i 55/11.) ostaje na snazi stupanjem na snagu ovoga Zakona do isteka ugovorenog roka.
+(8) Hrvatska veterinarska komora osnovana je u skladu s Zakonom o zdravstvenoj zaštiti životinja i veterinarskoj djelatnosti (»Narodne novine«, br. 52/91. i 64/91.) i nastavlja s radom.
