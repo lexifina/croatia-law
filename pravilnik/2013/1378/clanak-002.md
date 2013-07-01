@@ -1,0 +1,3 @@
+# Članak 2.
+(1) Instrumentom osiguranja u skladu s ovim Pravilnikom osigurava se namirenje nastalog carinskog duga ili carinskog duga koji bi mogao nastati, te poreza na dodanu vrijednost, trošarina, posebnih poreza i drugih javnih davanja koje je Ministarstvo financija, Carinska uprava (u daljnjem tekstu: Carinska uprava) po posebnim propisima ovlaštena naplaćivati prilikom uvoza ili izvoza, kao i kamata koje su nastale ili bi mogle nastati u svezi s javnim davanjima za koje je instrument osiguranja podnesen i prihvaćen.
+(2) U smislu ovoga Pravilnika dugom se smatraju sva javna davanja iz stavka 1. ovoga članka koja je Carinska uprava prema carinskim i drugim propisima obvezna naplaćivati na robu koja se uvozi ili izvozi.
