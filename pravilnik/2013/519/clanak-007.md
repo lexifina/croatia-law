@@ -1,0 +1,5 @@
+# Članak 7.
+(1) Ako se radi o prijavi stavljanja na tržište proizvoda iz članka 5. ovoga Pravilnika, sažetak sadržaja prijave mora sadržavati podatke određene u Dijelu 1. Odluke Vijeća od 3. listopada 2002. o utvrđivanju, u skladu s Direktivom 2001/18/EZ Europskoga parlamenta i Vijeća, obrasca sažetka informacija u vezi sa stavljanjem na tržište genetski modificiranih organizama kao proizvoda ili u sastavu proizvoda (2002/812/EZ).
+(2) Ako se radi o prijavi stavljanja na tržište proizvoda iz članka 6. ovoga Pravilnika, onda sažetak sadržaja prijave mora sadržavati podatke određene u Dijelu 2. Odluke Vijeća od 3. listopada 2002. o utvrđivanju, u skladu s Direktivom 2001/18/EZ Europskoga parlamenta i Vijeća, obrasca sažetka informacija u vezi sa stavljanjem na tržište genetski modificiranih organizama kao proizvoda ili u sastavu proizvoda (2002/812/EZ).
+(3) Podnositelj mora sažetke sadržaja prijave iz stavka 1. i 2. ovoga članka podnijeti u obliku određenom u Prilogu III. koji je sastavni dio ovoga Pravilnika.
+(4) Podnositelj prijave, sažetke prijave iz Priloga III. ovoga Pravilnika popunjava na hrvatskom i engleskom jeziku.

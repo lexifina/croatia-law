@@ -1,0 +1,2 @@
+# Članak 12.
+Danom stupanja na snagu ovoga Pravilnika prestaje važiti Pravilnik o sadržaju prijave i tehničke dokumentacije za stavljanje na tržište genetski modificiranih organizama ili proizvoda koji sadrže i/ili se sastoje ili potječu od genetski modificiranih organizama te o uvjetima označavanja i pakiranja genetski modificiranih organizama ili proizvoda koji sadrže i/ili se sastoje ili potječu od genetski modificiranih organizama (»Narodne novine«, broj 106/2008).
