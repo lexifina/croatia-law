@@ -1,0 +1,5 @@
+# Članak 6.
+Naslov iznad članka 133. i članak 133. mijenjaju se i glase:
+»8.2.1.2. Odjel za izvješćivanje
+Članak 133.
+Odjel za izvješćivanje osigurava provođenje postupaka vrednovanja Operativnog programa Promet i provodi vrednovanja Operativnog programa Promet u skladu s planovima vrednovanja; u dogovoru s Koordinacijskim tijelom osniva Nadzorni odbor za praćenje za Operativni program Promet te osigurava njegovo djelovanje; usmjerava rad Nadzornog odbora za praćenje Operativnog programa Promet i osigurava mu potrebnu dokumentaciju koja će omogućiti nadzor nad kvalitetom provedbe Operativnog programa Promet u skladu sa specifičnim ciljevima istoga; prati provedbu prioriteta i mjera Operativnog programa Promet i sudjeluje u izvještavanju; organizira i rukovodi godišnjim sastancima s Europskom komisijom o napretku provedbe Operativnog programa Promet; obavlja poslove tehničkog tajništva; priprema informacije, čuva dokumente i evidencije o provedbi funkcija radi osiguravanja odgovarajućeg revizijskog traga kao i druge poslove koji proizlaze iz prirode posla, odnosno nadležnosti Sektora.«.

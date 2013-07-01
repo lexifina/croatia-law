@@ -1,0 +1,9 @@
+# Članak 4.
+Naslov iznad članka 131. i članak 131. mijenjaju se i glase:
+»8.2.1. Služba za programiranje i izvješćivanje
+Članak 131.
+Služba za programiranje i izvješćivanje sudjeluje u pripremni Opisa sustava; obavlja poslove izrade i izmjene Operativnog programa Promet; definira i prati provedbu mjera i prioriteta; osigurava uvjete za provedbu Operativnog programa Promet, obavlja poslove komuniciranja i izvješćivanja; prati napredak provedbe Operativnog programa Promet; sudjeluje u izradi specifičnih dijelova NSRO-a; priprema interne procedure sukladno pravilnicima koje je odobrilo Koordinacijsko tijelo; pruža upute Posredničkom tijelu vezano na delegirane funkcije; sudjeluje u izradi uputa za korisnike; izrađuje i čuva dokumente i evidencije o provedbi funkcija - osigurava 'revizijski trag' poslovanja. Nadalje, Služba obavlja poslove vrednovanja programa i u dogovoru s Koordinacijskim tijelom osniva Nadzorni odbor za praćenje za Operativni program Promet te osigurava njegovo djelovanje; usmjerava rad Nadzornog odbora; obavlja poslove tehničkog tajništva; priprema informacije; obavlja poslove međunarodne suradnje u području prometne infrastrukture (SEETO, TEM, TER, Dunavska strategija, itd.); surađuje s međunarodnim institucijama u području TEN-T mreže i prometnih koridora; surađuje sa susjednim zemljama u području prometne infrastrukture; priprema bilateralne sporazume i druge dokumente iz područja suradnje u pogledu prometne infrastrukture za potrebe Ministarstva; obavlja poslove vezane uz programe Europske unije; sudjeluje u pripremi dokumenata za Europsku komisiju i Vijeće Europske unije i obavlja druge poslove koji proizlaze iz prirode posla, odnosno nadležnosti Sektora.
+Za obavljanje poslova Službe za programiranje i izvješćivanje, ustrojavaju se sljedeći odjeli:
+8.2.1.1. Odjel za programiranje
+8.2.1.2. Odjel za izvješćivanje
+8.2.1.3. Odjel za međunarodnu suradnju.«.
