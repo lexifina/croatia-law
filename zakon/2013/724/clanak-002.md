@@ -1,0 +1,3 @@
+## Pojmovi
+# Članak 2.
+Pojmovi u smislu ovoga Zakona imaju jednako značenje kao pojmovi upotrijebljeni u uredbama i odlukama iz članka 1. ovoga Zakona te pojmovi upotrijebljeni u Uredbi (EZ) br. 178/2002 Europskoga parlamenta i Vijeća od 28. siječnja 2002. o utvrđivanju općih načela i uvjeta zakona o hrani, osnivanju Europske agencije za sigurnost hrane te utvrđivanju postupaka u područjima zdravstvene ispravnosti hrane (u daljnjem tekstu: Uredba (EZ) br. 178/2002) i Uredbi (EZ) br. 882/2004 Europskoga parlamenta i Vijeća od 29. travnja 2004. o službenim kontrolama koje se provode radi provjeravanja poštivanja propisa o hrani i hrani za životinje te propisa o zdravlju i dobrobiti životinja (u daljnjem tekstu: Uredba (EZ) br. 882/2004).
