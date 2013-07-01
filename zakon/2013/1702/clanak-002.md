@@ -1,0 +1,33 @@
+## Pojmovi
+# Članak 2.
+(1) Pojmovi u smislu ovoga Zakona imaju jednako značenje kao pojmovi uporabljeni u uredbama iz članka 1. stavka 1. ovoga Zakona.
+(2) U smislu ovoga Zakona posebno se definiraju sljedeći pojmovi:
+1. dozvola je vrsta ovlaštenja na temelju kojega fizička osoba može obavljati rekreacijski ili sportski ribolov na moru,
+2. flota se odnosi na sva ribarska plovila upisana u Registar ribarske flote Republike Hrvatske,
+3. iskrcajna mjesta jesu dijelovi lučkog područja i iznimno druga mjesta izvan lučkih područja namijenjena iskrcaju ulova ribe i drugih morskih organizama ili njihovih proizvoda iz gospodarskog ribolova na moru,
+4. lovostaj je vrijeme u kojem se pojedine vrste riba i drugih organizama ne smiju loviti,
+5. mali obalni ribolov je gospodarski ribolov koji na temelju povlastice za mali obalni ribolov obavlja fizička osoba, a koji se obavlja po posebnim uvjetima propisanim ovim Zakonom,
+6. ministar je ministar nadležan za poslove ribarstva,
+7. ministarstvo je ministarstvo nadležno za ribarstvo,
+8. mjesta prve prodaje jesu odobreni objekti sukladno posebnim propisima o hrani na kojem se obavlja prva prodaja ribe i drugih morskih organizama prvom kupcu na veliko ili malo,
+9. odgovorna osoba u obavljanju gospodarskog ribolova je ovlaštenik povlastice ako sam obavlja ribolov, odnosno osoba koja je položila ispit za obavljanje gospodarskog ribolova, a obavlja ribolov temeljem punomoći ovlaštenika povlastice,
+10. oprema plovila je oprema koja se ugrađuje na ribarsko plovilo, a koja nema izravnu namjenu ribolovu, već služi za očuvanje kvalitete ulova, sigurnost plovidbe ili poboljšanje uvjeta života i rada na plovilu, kako je to propisano posebnim propisima,
+11. ovlaštenik povlastice za ribolov je pravna ili fizička osoba - obrtnik koja je upisana u povlastici za ribolov i koja je ovlaštena za obavljanje ribolova sukladno pravima iz povlastice za ribolov,
+12. plovilo za akvakulturu je plovilo koje se koristi isključivo u uzgoju za potrebe hranidbe, prebacivanja, prekrcaja, iskrcaja i sličnih radnji u uzgoju ribe i drugih morskih organizama te je upisano u registar ribarske flote,
+13. pomoćno plovilo je plovilo koje služi ribarskom plovilu pri obavljanju ribolova,
+14. povlastica za ribolov je isprava na temelju koje se obavlja gospodarski ribolov i koja se izdaje ovlašteniku za ribarsko plovilo koje je upisano u povlasticu,
+15. povlastica za uzgoj je isprava na temelju koje pravne ili fizičke osobe smiju obavljati gospodarsku djelatnost uzgoja,
+16. prvi kupac je pravna ili fizička osoba registrirana u registru prvih kupaca koji vodi Ministarstvo,
+17. prvi poznati kupac je pravna ili fizička osoba registrirana u registru prvih kupaca s kojim proizvođač ima unaprijed dogovorenu kupnju,
+18. ribar je fizička osoba koja sudjeluje u obavljanju gospodarskog ribolova, bez obzira na to je li riječ o zaposleniku ili vlasniku obrta ukoliko isti sudjeluje u ribolovu,
+19. ribolov je gospodarski, mali obalni, sportski, rekreacijski, ribolov u znanstvene i znanstvenonastavne svrhe i ribolov za potrebe akvarija otvorenih za javnost i ribolovni turizam,
+20. ribolovac je osoba koja obavlja sportski ili rekreacijski ribolov u ribolovnom moru Republike Hrvatske,
+21. ribolovna podzona je dio ribolovne zone čije su granice određene,
+22. ribolovna zona je dio ribolovnoga mora koji predstavlja biološku, hidrološku i gospodarsku cjelinu, a čije su granice određene,
+23. stok (riblje naselje) je skupina riba određene vrste s jedinstvenim vremenskim i prostornim migracijskim ciklusom,
+24. sportski ribolov je ribolov u svrhu sporta koji se obavlja na temelju dozvole za obavljanje sportskog ribolova,
+25. rekreacijski ribolov je ribolov u svrhu rekreacije koji se obavlja na temelju dozvole za obavljanje rekreacijskog ribolova,
+26. tradicionalni ribolovni alati u gospodarskom ribolovu su alati koji su po načinu korištenja specifični za istočnu obalu Jadranskog mora,
+27. umjetni brak je podmorsko stanište planski uspostavljeno umjetnim putem, najčešće potapanjem brodova, kamenih blokova ili drugih sličnih objekata,
+28. uzgoj je gospodarska djelatnost kontrolirane reprodukcije i rasta riba i drugih morskih organizama,
+29. vlasnik plovila je osoba koja je kao vlasnik upisana u upisnik brodova Republike Hrvatske ili očevidnik brodica Republike Hrvatske.

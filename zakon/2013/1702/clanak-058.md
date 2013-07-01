@@ -1,0 +1,9 @@
+## Stručna osposobljenost za uzgoj
+# Članak 58.
+(1) Uzgojem mora upravljati osoba stručno osposobljena za uzgoj.
+(2) Stručna osposobljenost za uzgoj dokazuje se uvjerenjem o stručnoj osposobljenosti za obavljanje uzgoja koje izdaje Ministarstvo.
+(3) Uvjerenje iz stavka 2. ovoga članka izdaje se osobi koja je položila ispit prema Programu ispita za obavljanje uzgoja riba i drugih morskih organizama, ili je stekla odgovarajuću strukovnu kvalifikaciju u obrazovnoj ustanovi koja izvodi srednjoškolski obrazovni program za zanimanje ribarsko-nautički tehničar u obrazovnom sektoru poljoprivreda, prehrana i veterinarstvo ili preddiplomski ili diplomski sveučilišni ili stručni studij morskog ribarstva ili integrirani preddiplomski i diplomski sveučilišni studij ili specijalistički diplomski stručni studij ribarske, veterinarske, biološke i poljoprivredne struke koji uključuje područje uzgoja riba i drugih morskih organizama.
+(4) Osposobljenost za obavljanje uzgoja provjerava Stručno povjerenstvo od najmanje tri člana koje imenuje ministar.
+(5) Članovi Stručnog povjerenstva iz stavka 4. ovoga članka moraju imati završen diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij ili specijalistički diplomski stručni studij pravne struke ili diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij ili specijalistički diplomski stručni studij ribarske, veterinarske, biološke, poljoprivredne ili prehrambeno-tehnološke struke, te najmanje tri godine radnog iskustva u struci.
+(6) Ministarstvo vodi Registar uvjerenja o stručnoj osposobljenosti za obavljanje uzgoja u elektroničkom obliku.
+(7) Program ispita za obavljanje uzgoja, uz prethodno pribavljeno mišljenje ministra nadležnog za obrazovanje, obrazac i način izdavanja uvjerenja o stručnoj osposobljenosti za obavljanje uzgoja propisuje ministar pravilnikom.

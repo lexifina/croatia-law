@@ -1,0 +1,40 @@
+## XII. PRIJELAZNE I ZAVRŠNE ODREDBE
+# Članak 79.
+(1) Obvezuje se ministar da će donijeti provedbene propise iz članka 4. stavka 3., članka 7. stavka 5., članka 8. stavka 2., članka 9. stavka 1., članka 10. stavka 4., članka 14. stavka 9., članka 15. stavka 5., članka 17. stavka 5., članka 18. stavka 6., članka 20. stavka 7., članka 21. stavka 5., članka 22. stavka 5., članka 23. stavka 6., članka 29. stavka 6., članka 31. stavka 2., članka 34. stavka 3., članka 35. stavka 1., članka 38., članka 39. stavka 4., članka 42. stavka 2., članka 43. stavaka 1. i 4., članka 44. stavka 3., članka 45. stavka 6., članka 46. stavka 2., članka 47. stavka 2., članka 48. stavka 2., članka 49. stavka 4., članka 50. stavka 6., članka 52. stavka 7., članka 57. stavka 2., članka 58. stavka 7., članka 59. stavka 2., članka 60. stavka 2., članka 61. stavka 3, članka 62. stavka 3., članka 65. stavka 3., članka 68. stavka 2., članka 70. stavka 5., članka 71. stavka 4., članka 72. stavka 5., članka 73. stavka 3., ovoga Zakona u roku dvije godine od dana stupanja na snagu Zakona.
+(2) Provedbeni propisi koji su bili na snazi do dana stupanja na snagu ovoga Zakona ostaju na snazi nakon stupanja na snagu ovoga Zakona do donošenja propisa iz stavka 1. ovoga članka.
+(3) Do donošenja provedbenih propisa iz stavka 1. ovoga članka ostaju na snazi:
+- Pravilnik o ulovu, uzgoju i prometu tune (Thunnus thynnus), igluna (Xiphias gladius) i iglana (Tetrapturus belone) (»Narodne novine«, br. 15/13. i 20/13.) osim odredaba iz članaka 2., 4., 5., 6. i 7., te članka 20. točaka 1., 6., 7., 8., 15., 16., 17., 18., 19., 20., 21. i 23., članka 21. točaka 1., 2., 3. i 4., članka 22. točaka 1., 3., 4., 5., 7., 8. i 9., članka 28., 30. i 31. koje se stavljaju van snage,
+- Pravilnik o sustavu nadzora i praćenja ribarskih plovila i Ribarstvenom nadzornom centru (»Narodne novine«, br. 63/10.) osim odredaba iz članka 2., članka 3. stavka 2., članka 4. stavaka 2. i 3., članka 5. stavka 5., te članka 7. i 8. koje se stavljaju izvan snage,
+- Pravilnik o uvjetima i načinu stavljanja u promet riba i drugih morskih organizama (»Narodne novine«, br. 154/08.) osim odredaba članaka 3. i 4, članka 6. stavaka 3. i 5., te članka 9. koje se stavljaju izvan snage,
+- Pravilnik o potvrdi sukladnosti za izvoz proizvoda ribarstva (»Narodne novine«, br. 20/10.) osim odredaba članaka 1., 2., 3., 4., 5., 7., 8., 9. i 11. koje se stavljaju izvan snage,
+- Pravilnik o organizacijama proizvođača u sektoru ribarstva (»Narodne novine«, br. 41/10.) osim odredaba članaka 1. i 2., članka 3. stavka 1. točke 1., 2. i 3, stavka 2. i 3., članka 4. stavka 3., članka 5. stavka 1. i 2., članka 6 stavka 1., članka 7. i 8., članka 9. stavak 1., 2., 3., 5., 6. i 7., članka 10., 11., 12. 16. i 21. koje se stavljaju izvan snage,
+- Pravilnik o načinu prikupljanja i obavješćivanja o cijenama proizvoda ribarstva, (»Narodne novine«, br. 118/10.) osim odredaba članaka 1., 2., 4., 5., 6., 7., 8., 9., 10., 11., 12., 13. i 14. koje se stavljaju izvan snage,
+- Pravilnik o dodjeli potpore ribarstvu od strane jedinica lokalne i područne (regionalne) samouprave (»Narodne novine«, br. 145/10.) osim odredaba članka 1., članka 2. stavaka 1. i 2., članka 3. stavka 2., članka 4. stavaka 1. i 2. i članka 6. koje se stavljaju izvan snage,
+- Pravilnik o posebnom priznavanju organizacija proizvođača u sektoru ribarstva čiji je cilj poboljšanje kakvoće njihovih proizvoda (»Narodne novine«, br. 65/12.) osim odredaba članaka 1. i 2., članka 3. stavaka 1., 3. i 4. koje se stavljaju izvan snage,
+- Pravilnik o utvrđivanju pravila za izračunavanje potpore organizacijama proizvođača u sektoru ribarstva (»Narodne novine«, br. 65/12.) osim odredaba članaka 1., 2. i 4., članka 5. stavka 2., članaka 6., 8., 9. i 11. koje se stavljaju izvan snage,
+- Pravilnik o uvjetima priznavanja međustrukovnih organizacija u sektoru ribarstva i akvakulture (»Narodne novine«, br. 114/12.) osim odredaba članaka 1., 2., 3., članka 4. stavaka 2. i 3., članka 5. stavka 2., članka 6. stavka 3., članaka 9. i 10. koje se stavljaju izvan snage,
+- Pravilnik o prikupljanju i izvještavanju o cijenama uvezenih proizvoda ribarstva (»Narodne novine«, br. 124/12.) osim odredaba članka 1., članka 2. stavaka 4. i 5. i članka 3. koje se stavljaju izvan snage,
+- Pravilnik o povlastici za obavljanje gospodarskog ribolova na moru i registru o izdanim povlasticama (»Narodne novine«, br. 144/10., 123/11., 53/12., 98/12., 113/12., 15/13. i 33/13.),
+- Pravilnik o obavljanju gospodarskog ribolova na moru (»Narodne novine«, br. 63/10., 141/10., 148/10., 52/11., 144/11. i 55/13.) osim odredaba članka 3., članka 5. stavak 1. točka 1. i stavci 2., 3. i 4., članaka 12., 13. i 15., članak 16. stavak 2., članak 17., članak 18. stavak 1. koje se stavljaju izvan snage,
+- Pravilnik o ribolovnim alatima i opremi za gospodarski ribolov na moru (»Narodne novine«, br. 148/10. i 25/11.) osim odredaba članaka 3., 4., 5., 6. i 7., članka 9. stavka 2., članka 13. stavaka 1. i 2., članka 15. stavka 2, članka 16. stavka 1. točke 2., i stavka 3, članka 18. stavaka 3. i 4., članaka 19. i 20., članka 22. stavka 1., članka 23. stavka 2., alineje 2., članka 28. stavka 2., članak 43. i 56., te Prilog 1. koje se stavljaju izvan snage,
+- Naredba o zaštiti riba i drugih morskih organizama (»Narodne novine«, br. 63/10., 68/10., 145/10., 18/12. i 29/12.) osim odredaba glave I. točaka 1. i 2., glava II., III., IV. i V. te Prilozi 1. i 2. koje se stavljaju izvan snage,
+- Pravilnik o kriterijima za utvrđivanje naknade šteta počinjenih ribama i drugim morskim organizmima (»Narodne novine«, br. 101/02., 96/05., 30/07. i 131/09.),
+- Pravilnik o posebnim staništima riba i drugih morskih organizama i regulaciji ribolova u Velebitskom kanalu, Novigradskom i Karinskom moru, Prokljanskom jezeru, Marinskom zaljevu i Neretvanskom kanalu (»Narodne novine«, br. 148/04., 152/04., 55/05., 96/06., 123/09. i 130/09. - ispravak),
+- Odluka o načinu obavljanja ribolova u pojedinim posebnim staništima, određenim ribolovnim alatima i na određeno vrijeme (»Narodne novine«, br. 125/07.),
+- Pravilnik o malom obalnom ribolovu (»Narodne novine«, br. 59/11.),
+- Pravilnik o službenoj iskaznici, znački i odori ribarskog inspektora (»Narodne novine«, br. 142/12.)
+- Pravilnik o ribarskim zadrugama (»Narodne novine«, br. 48/10.)
+- Pravilnik o povlastici za uzgoj ribe i drugih morskih organizama (»Narodne novine«, br. 76/11.),
+- Pravilnik o očevidniku o uzgoju ribe i drugih morskih organizama (»Narodne novine«, br. 76/11.),
+- Pravilnik o programu ispita za obavljanje gospodarskog ribolova, obrascu i načinu izdavanja uvjerenja o stručnoj osposobljenosti za obavljanje gospodarskog ribolova te o obliku, sadržaju i načinu vođenja registra o izdanim uvjerenjima (»Narodne novine«, br. 62/13.)
+- Pravilnik o kriterijima o pogodnosti dijelova pomorskog dobra za uzgoj ribe i drugih morskih organizama (»Narodne novine«, br. 59/12.),
+- Pravilnik o obliku, sadržaju i načinu vođenja i dostave očevidnika, iskrcajne deklaracije i izvješća o ulovu u gospodarskom ribolovu na moru (»Narodne novine«, br. 144/10. i 145/11.),
+- Pravilnik o granicama u ribolovnom moru Republike Hrvatske (»Narodne novine«, br. 5/11.),
+- Pravilnik o sportskom i rekreacijskom ribolovu na moru (»Narodne novine«, br. 152/11.),
+- Odluka o popisu iskrcajnih mjesta za ribarska plovila koja obavljaju gospodarski ribolov na moru (»Narodne novine«, br. 64/09. i 66/09.),
+- Pravilnik o ovlaštenju za obavljanje ribolovnog turizma i Registru o izdanim ovlaštenjima (»Narodne novine«, br. 59/11.).
+(4) Do 31. prosinca 2014. godine ostaju na snazi:
+- Pravilnik o obrascu odobrenja za mali ribolov te obliku, sadržaju i načinu vođenja registra o izdanim odobrenjima za mali ribolov (»Narodne novine«, br. 32/03.)
+- Pravilnik o obrascu potvrde i naknadi za obavljanje malog ribolova (»Narodne novine«, br. 128/00. i 5/01.)
+- Pravilnik o ribolovnim alatima i opremi za mali ribolov (»Narodne novine«, br. 5/02., 29/02. i 125/07.)
+- Naredba o ograničenju broja odobrenja za obavljanje malog ribolova (»Narodne novine«, br. 131/09.).

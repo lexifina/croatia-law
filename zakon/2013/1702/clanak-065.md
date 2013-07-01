@@ -1,0 +1,6 @@
+## Uvjeti za inspektora
+# Članak 65.
+(1) Poslove višeg inspektora može obavljati osoba koja ima završen najmanje diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij ili specijalistički diplomski stručni studij morskog ribarstva, studij biologije i ekologije mora te ribarske, veterinarske, biološke ili poljoprivredne struke, četiri godine radnoga iskustva u struci i položen državni stručni ispit za ribarskog inspektora.
+(2) Poslove inspektora može obavljati osoba koja ima završen najmanje preddiplomski sveučilišni studij ili stručni studij morskog ribarstva, studij biologije i ekologije mora te ribarske, veterinarske, biološke ili poljoprivredne struke, jednu godinu radnoga iskustva u struci i položen državni stručni ispit za ribarskog inspektora.
+(3) Program posebnog dijela državnog stručnog ispita za inspektore, sastav ispitne komisije i način polaganja stručnog ispita propisuje ministar pravilnikom uz prethodno mišljenje ministra nadležnog za upravu.
+(4) Ovlaštene osobe ministarstva nadležnog za pomorstvo, policijski službenici i ovlaštene osobe Obalne straže koje provode nadzor nad odredbama ovoga Zakona i imaju u okviru svojih službi ovlasti postupanja koje odgovaraju ovlastima ribarskog inspektora dužni su položiti posebni dio državnog stručnog ispita iz područja ribarstva.
