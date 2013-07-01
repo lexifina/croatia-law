@@ -1,0 +1,2 @@
+SPORAZUM IZMEĐU REPUBLIKE HRVATSKE I EUROPSKE UNIJE O PROVEDBI PROTOKOLA O POVLASTICAMA I IMUNITETIMA EUROPSKE UNIJE U REPUBLICI HRVATSKOJ
+Budući da su institucije Europske unije, sukladno članku 18. Protokola o povlasticama i imunitetima Europske unije (u daljnjem tekstu »Protokol«) koji je priložen Ugovoru o Europskoj uniji kao Protokol br. 7[1], dužne surađivati s nadležnim tijelima država članica u primjeni navedenoga Protokola, Republika Hrvatska i Europska unija (u daljnjem tekstu »stranke«) sporazumjele su se kako slijedi:
