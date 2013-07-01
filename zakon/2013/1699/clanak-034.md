@@ -1,0 +1,51 @@
+## VI. PREKRŠAJNE ODREDBE
+# Članak 34.
+(1) Novčanom kaznom od 50.000,00 do 100.000,00 kuna kaznit će se za prekršaj pravna osoba ako:
+- uvozi hranu protivno članku 11. Uredbe (EZ) br. 178/2002;
+- uvozi hranu za životinje protivno članku 11. Uredbe (EZ) br. 178/2002;
+- izvozi ili ponovno izvozi hranu protivno članku 12. Uredbe (EZ) br. 178/2002;
+- izvozi ili ponovno izvozi hranu za životinje protivno članku 12. Uredbe (EZ) br. 178/2002;
+- stavlja na tržište hranu koja nije sigurna, što je protivno članku 14. stavku 1. Uredbe (EZ) br. 178/2002 i članku 10. ovoga Zakona;
+- stavlja na tržište ili koristi za hranidbu životinja hranu za životinje koja nije sigurna, što je protivno članku 15. stavku 1. Uredbe (EZ) br. 178/2002 i članku 11. ovoga Zakona;
+- označava, reklamira i prezentira hranu protivno članku 16. Uredbe (EZ) br. 178/2002 i članku 12. stavku 1. ovoga Zakona;
+- označava goveđe meso navodima protivno članku 16., 17. i 18. Uredbe (EZ) br. 1760/2000;
+- označava, reklamira i prezentira hranu za životinje protivno članku 16. Uredbe (EZ) br. 178/2002 i članku 13. ovoga Zakona;
+- ne osigura sljedivost hrane, hrane za životinje, životinja za proizvodnju hrane ili svake druge tvari koja je namijenjena ugradnji ili se može očekivati da će se ugraditi u hranu ili hranu za životinje u svim fazama proizvodnje, prerade i distribucije prema članku 18. Uredbe (EZ) br. 178/2002 i propisima iz članka 18. stavka 5. Uredbe (EZ) br. 178/2002;
+- nije uspostavila sustave i postupke sljedivosti hrane ili hrane za životinje na način da je u mogućnosti identificirati svaku pravnu ili fizičku osobu koja ga opskrbljuje ili ga je opskrbljivala hranom, hranom za životinje, životinjama za proizvodnju hrane ili svakom drugom tvari koja je namijenjena ugradnji ili se može očekivati da će se ugraditi u hranu ili hranu za životinje, što je protivno članku 18. stavku 2. Uredbe (EZ) br. 178/2002;
+- nije uspostavila sustave i postupke sljedivosti hrane ili hrane za životinje na način da je u mogućnosti identificirati druge subjekte kojima je isporučena hrana ili hrana za životinje, što je protivno članku 18. stavku 3. Uredbe (EZ) br. 178/2002;
+- ne dostavi informacije ili dostavi netočne informacije ili ne omogući uvid u informacije vezano za sustave i postupke sljedivosti koje je zatražila osoba ovlaštena za provedbu službenih kontrola, odnosno tijelo nadležno za provedbu službenih kontrola prema članku 18. stavcima 2. i 3. Uredbe (EZ) br. 178/2002;
+- ne označi ili na drugi način ne identificira hranu ili hranu za životinje kako bi se omogućila sljedivost prema članku 18. stavku 4. Uredbe (EZ) br. 178/2002;
+- ne osigura sljedivost ili ne osigura informacije ili ne vodi evidencije o serijama sjemena namijenjenog za proizvodnju klica ili serijama klica u svim fazama proizvodnje, prerade i distribucije prema članku 3. stavku 1. Uredbe (EU) br. 208/2013;
+- ne dostavi informacije ili dostavi netočne informacije subjektima u poslovanju s hranom kojima se sjeme ili klice isporučuju prema članku 3. stavcima 1., 2. i 3. Uredbe (EU) br. 208/2013;
+- ne dostavi informacije ili dostavi netočne informacije ili ne omogući uvid u informacije koje je zatražila osoba ovlaštena za provedbu službenih kontrola, odnosno tijelo nadležno za provedbu službenih kontrola prema članku 3. stavku 4. Uredbe (EU) br. 208/2013;
+- postupa protivno članku 3. stavku 4. Uredbe (EU) br. 208/2013;
+- ne osigura sljedivost ili ne osigura informacije o hrani životinjskog podrijetla prema članku 3. stavku 1. Uredbe (EU) br. 931/2011;
+- ne dostavi informacije ili dostavi netočne informacije subjektima u poslovanju s hranom kojima se hrana isporučuje prema članku 3. stavcima 1., 2. i 3. Uredbe (EU) br. 931/2011;
+- ne dostavi informacije ili dostavi netočne informacije ili ne omogući uvid u informacije koje je zatražila osoba ovlaštena za provedbu službenih kontrola, odnosno tijelo nadležno za provedbu službenih kontrola prema članku 3. stavku 3. Uredbe (EU) br. 931/2011;
+- ne pokrene postupak povlačenja hrane s tržišta ili ne obavijesti potrošače o razlozima povlačenja hrane s tržišta ili ne opozove od potrošača proizvode koji su im već isporučeni za koje smatra ili ima razloga vjerovati ili ima saznanja da su nesigurni, odnosno da ne udovoljavaju zahtjevima sigurnosti hrane, što je protivno članku 19. stavcima 1. i 2. Uredbe (EZ) br. 178/2002;
+- ne obavijesti tijela nadležna za provedbu službenih kontrola o postupcima povlačenja hrane s tržišta ili opoziva proizvoda od potrošača ili nadležnim tijelima ne dostavlja informacije o sljedivosti ili ne surađuje u poduzimanju aktivnosti, što je protivno članku 19. stavcima 1. i 2. Uredbe (EZ) br. 178/2002;
+- ne obavijesti bez odgode tijela nadležna za provedbu službenih kontrola ako smatra ili ima razloga vjerovati da hrana može biti štetna za zdravlje ljudi ili ako ne obavještava nadležna tijela o aktivnostima koje poduzima za sprječavanje rizika, što je protivno članku 19. stavku 3. Uredbe (EZ) br. 178/2002;
+- ne surađuje s tijelima nadležnim za provedbu službenih kontrola u poduzimanju aktivnosti za izbjegavanje ili smanjenje rizika, što je protivno članku 19. stavku 4. Uredbe (EZ) br. 178/2002;
+- ne pokrene postupak povlačenja hrane za životinje s tržišta ili ne obavijesti korisnike hrane za životinje o razlozima povlačenja hrane za životinje s tržišta ili ne opozove od korisnika proizvode koji su im već isporučeni za koje smatra ili ima razloga vjerovati ili ima saznanja da su nesigurni, odnosno da ne udovoljavaju zahtjevima sigurnosti hrane za životinje, što je protivno članku 20. stavcima 1. i 2. Uredbe (EZ) br. 178/2002;
+- ne obavijesti ministarstvo nadležno za poljoprivredu o postupcima povlačenja hrane za životinje s tržišta ili opoziva proizvoda od korisnika ili ministarstvu nadležnom za poljoprivredu ne dostavlja informacije o sljedivosti ili ne surađuje u poduzimanju aktivnosti, što je protivno članku 20. stavcima 1. i 2. Uredbe (EZ) br. 178/2002;
+- ne obavijesti bez odgode ministarstvo nadležno za poljoprivredu ako smatra ili ima razloga vjerovati da hrana za životinje ne udovoljava zahtjevima sigurnosti hrane za životinje ili ako ne obavještava ministarstvo nadležno za poljoprivredu o aktivnostima koje poduzima za sprječavanje rizika, što je protivno članku 20. stavku 3. Uredbe (EZ) br. 178/2002;
+- ne surađuje s ministarstvom nadležnim za poljoprivredu u poduzimanju aktivnosti za izbjegavanje rizika, što je protivno članku 20. stavku 4. Uredbe (EZ) br. 178/2002;
+- ne provede sve propisane mjere i radnje kojima se osigurava provedba hitnih mjera donesenih u skladu s člankom 53. Uredbe (EZ) br. 178/2002;
+- ne provede sve propisane mjere i radnje kojima se osigurava provedba hitnih, odnosno zaštitnih mjera donesenih u skladu s člankom 54. Uredbe (EZ) br. 178/2002 i člankom 21. ovoga Zakona;
+- postupa protivno odredbama propisa iz članka 3. stavaka 4. i 5. ovoga Zakona;
+- podvrgava hranu ionizirajućem zračenju koje je protivno odredbama propisa iz članka 3. stavka 5. ovoga Zakona;
+- hranu podvrgava ionizirajućem zračenju u objektu koji nije odobren od strane ministarstva nadležnog za zdravlje prema propisu iz članka 3. stavka 5. ovoga Zakona;
+- u proizvodnji koristi pomoćne tvari koje nisu u skladu s propisom iz članka 3. stavka 5. ovoga Zakona;
+- na tržište stavlja pomoćne tvari koje nisu u skladu s propisom iz članka 3. stavka 5. ovoga Zakona;
+- stavlja na tržište hranu koja ne udovoljava propisanim standardima kvalitete za hranu, što je protivno propisima donesenim temeljem članka 23. stavaka 1. i 2. ovoga Zakona;
+- stavlja na tržište prirodnu mineralnu vodu ili prirodnu izvorsku vodu za koju nije proveden postupak priznavanja i izdano rješenje o priznavanju, što je protivno propisima donesenim temeljem članka 23. stavka 4. ovoga Zakona;
+- stavlja na tržište hranu protivno članku 23. stavku 4. ovoga Zakona;
+- stavlja na tržište hranu za životinje koja ne udovoljava propisanim standardima kvalitete za hranu za životinje, što je protivno članku 24. stavcima 1. i 2. ovoga Zakona;
+- stavlja na tržište hranu za životinje protivno članku 24. stavku 4. ovoga Zakona;
+- koristi postupak uklanjanja fluorida aktivnim aluminijevim oksidom, a nije obavijestila nadležna tijela iz članka 3. stavka 1. ovoga Zakona i dostavila svu potrebnu dokumentaciju prema članku 3. Uredbe (EU) br. 115/2010;
+- koristi postupak obrade prirodnih mineralnih i prirodnih izvorskih voda aktivnim aluminijevim oksidom u svrhu uklanjanja fluorida, a nije stavila navod »voda podvrgnuta odobrenoj adsorpcijskoj tehnici« prema članku 4. Uredbe (EU) br. 115/2010;
+- hranu s dodanim fitosterolima, esterima fitosterola, fitostanolima i esterima fitostanola nije označila propisanim navodima prema članku 2. Uredbe (EZ) br. 608/2004;
+- ne postupi po rješenju osobe ovlaštene za provedbu službenih kontrola kojim je naređena mjera iz članka 33. ovoga Zakona;
+- ne dostavi svu potrebu dokumentaciju ili ne omogući uvid u dokumentaciju koju je zatražila osoba ovlaštena za provedbu službenih kontrola, odnosno tijelo nadležno za provedbu službenih kontrola.
+(2) Za prekršaje iz stavka 1. ovoga članka kaznit će se i odgovorna osoba u pravnoj osobi novčanom kaznom od 5.000,00 do 10.000,00 kuna.
+(3) Za prekršaje iz stavka 1. ovoga članka kaznit će se fizička osoba novčanom kaznom od 5.000,00 do 10.000,00 kuna.

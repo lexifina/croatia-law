@@ -1,0 +1,30 @@
+# Članak 39.
+Danom stupanja na snagu ovoga Zakona prestaju važiti:
+- Pravilnik o koordiniranom višegodišnjem programu kontrole s ciljem osiguranja sukladnosti s maksimalno dopuštenim razinama ostataka pesticida i procjene izloženosti potrošača ostacima pesticida u i na hrani biljnog i životinjskog podrijetla (»Narodne novine«, br. 116/11.);
+- Pravilnik o provedbenim mjerama za određene proizvode na koje se primjenjuju propisi o hrani (»Narodne novine«, br. 154/08. i 78/12.);
+- Pravilnik o uvjetima za izlov/sakupljanje i preradu određenih vrsta živih školjkaša iz područja u kojima razina biotoksina koji uzrokuje paralizu prelazi vrijednost određenu Pravilnikom o higijeni hrane životinjskog podrijetla (»Narodne novine«, br. 152/09.);
+- Pravilnik o posebnim zdravstvenim uvjetima za izlov i preradu određenih vrsta školjkaša u kojima razina biotoksina koji uzrokuje gubitak pamćenja (amnesic shellfish poison - ASP) prelazi vrijednost određenu Pravilnikom o higijeni hrane životinjskog podrijetla (»Narodne novine«, br. 152/09.);
+- Pravilnik o metodama analiza toplinski obrađenog mlijeka za prehranu ljudi (»Narodne novine«, br. 133/07. i 55/11.);
+- Pravilnik o mazivim mastima (»Narodne novine«, br. 41/12.);
+- Pravilnik o mlijeku i mliječnim proizvodima (»Narodne novine«, br. 20/09.);
+- Pravilnik o metodama za određivanje kakvoće šećera pri interventnom otkupu (»Narodne novine«, br. 39/09.);
+- Pravilnik o kakvoći proizvoda od tune i palamide (»Narodne novine«, br. 56/09.);
+- Pravilnik o kakvoći proizvoda od srdele (»Narodne novine«, br. 96/09.);
+- Pravilnik o označavanju goveđeg mesa (»Narodne novine«, br. 52/10.);
+- Pravilnik o planu uzorkovanja i metodama analiza za službenu kontrolu količina nitrata u hrani (»Narodne novine«, br. 42/08.);
+- Pravilnik o uvjetima u pogledu stručnih djelatnika, prostorija i opreme koje moraju ispunjavati laboratoriji proizvođača namirnica i predmeta opće uporabe (»Narodne novine«, br. 62/99.), osim u dijelu koji se odnosi na proizvođače predmeta opće uporabe;
+- Pravilnik o uvjetima za pripremu i prodaju namirnica izvan prostorija (»Narodne novine«, br. 46/94.);
+- Pravilnik o posebnoj radnoj odjeći i obući osoba koje na svojim radnim mjestima u proizvodnji ili u prometu dolaze u neposredan dodir s namirnicama, sredstvima za održavanje osobne higijene, njegu i uljepšavanje lica i tijela (»Narodne novine«, br. 46/94.), osim u dijelu koji se odnosi na osobe koje na svojim radnim mjestima u proizvodnji ili u prometu dolaze u neposredan dodir sa sredstvima za održavanje osobne higijene, njegu i uljepšavanje lica i tijela;
+- Pravilnik o uvjetima i načinu i obavješćivanja potrošača o svojstvima proizvoda alkoholnih pića, duhana i duhanskih prerađevina koji se ne smatra reklamiranjem (»Narodne novine«, br. 62/96. i 40/98.);
+- Pravilnik o provođenju monitoringa hrane radi utvrđivanja razina nutrijenata, kontaminata, aditiva, drugih sastojaka i tvari (»Narodne novine«, br. 135/04.);
+- Pravilnik o metodama obavljanja mikrobioloških analiza i superanaliza živežnih namirnica (»Narodne novine«, br. 53/91.);
+- Pravilnik o metodi analiza i superanaliza za određivanje količine teških metala (olova, bakra, željeza i nikla) u živežnim namirnicama - uljima, mastima i margarinu (»Narodne novine«, br. 53/91.);
+- Pravilnik o metodama određivanja pH-vrijednosti i količine toksičnih metala i nemetala u sredstvima za održavanje osobne higijene, njegu i uljepšavanje lica i tijela te o metodama utvrđivanja mikrobiološke ispravnosti tih sredstava (»Narodne novine«, br. 53/91.);
+- Pravilnik o popisu predviđenih namjena korištenja hrane za životinje za posebne hranidbene namjene (»Narodne novine«, br. 61/10. i 68/12.);
+- Pravilnik o katalogu krmiva (»Narodne novine«, br. 76/12.);
+- Pravilnik o higijeni hrane za životinje (»Narodne novine«, br. 41/08., 28/09. i 141/12.);
+- Pravilnik o stavljanju na tržište i korištenju hrane za životinje (»Narodne novine«, br. 72/11.);
+- Pravilnik o metodama uzorkovanja i analitičkim metodama za provedbu službenih kontrola hrane za životinje (»Narodne novine«, br. 146/10.);
+- Pravilnik o dodacima hrani za životinje (»Narodne novine«, br. 86/11.);
+- Pravilnik o uvjetima za odobravanje u skladu s Pravilnikom o higijeni hrane za životinje objekata za proizvodnju ili stavljanje na tržište dodataka hrani za životinje kategorije kocidiostatici i histomonostatici (»Narodne novine«, br. 55/10.);
+- Pravilnik o analitičkim metodama za jaka alkoholna pića (»Narodne novine«, br. 138/05.).

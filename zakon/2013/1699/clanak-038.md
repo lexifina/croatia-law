@@ -1,0 +1,46 @@
+# Članak 38.
+Danom stupanja na snagu ovoga Zakona ostaju na snazi:
+- Pravilnik o sustavu brzog uzbunjivanja za hranu i hranu za životinje (»Narodne novine«, br. 86/12.);
+- Pravilnik o izdavanju znanstvenog mišljenja i pružanju znanstvene i tehničke pomoći (»Narodne novine«, br. 130/09.);
+- Pravilnik o pravilima uspostave nacionalne mreže institucija u području sigurnosti hrane i hrane za životinje (»Narodne novine«, br. 43/10.);
+- Popis institucija uključenih u nacionalnu mrežu institucija u području sigurnosti hrane i hrane za životinje (»Narodne novine«, br. 138/12.);
+- Pravilnik o pomoći Europskoj komisiji i suradnji između Europske komisije i Republike Hrvatske u znanstvenom razmatranju pitanja o hrani (»Narodne novine«, br. 36/13.);
+- Naredba o privremenim mjerama u odnosu na sadržaj aflatoksina M1 u mliječnim proizvodima (»Narodne novine«, br. 39/13.);
+- Pravilnik o oznakama zdravstvene ispravnosti i identifikacijskim oznakama hrane životinjskog podrijetla (»Narodne novine«, br. 92/12.);
+- Pravilnik o mikrobiološkom razvrstavanju i postupku u slučaju onečišćenja živih školjkaša (»Narodne novine«, br. 118/09.);
+- Plan praćenja kakvoće mora i školjkaša na proizvodnim područjima i područjima za ponovo polaganje živih školjkaša (»Narodne novine«, br. 13/13.);
+- Pravilnik o alternativnoj identifikacijskoj oznaci za određenu hranu životinjskog podrijetla (»Narodne novine«, br. 75/09.);
+- Pravilnik o kakau i čokoladnim proizvodima (»Narodne novine«, br. 73/05.);
+- Pravilnik o proizvodima sličnim čokoladi, krem-proizvodima i bombonskim proizvodima (»Narodne novine«, br. 73/05. i 69/08.);
+- Pravilnik o keksima i keksima srodnim proizvodima (»Narodne novine«, br. 73/05. i 69/08.);
+- Pravilnik o jestivim kazeinima i kazeinatima (»Narodne novine«, br. 80/07. i 28/11.);
+- Pravilnik o ugušćenom (kondenziranom) mlijeku i mlijeku u prahu (»Narodne novine«, br. 80/07. i 34/11.);
+- Pravilnik o dozvoljenom udjelu eruka kiseline u uljima i mastima (»Narodne novine«, br. 70/08. i 86/08.);
+- Pravilnik o voćnim sokovima i njima sličnim proizvodima namijenjenim za konzumaciju (»Narodne novine«, br. 48/13.);
+- Pravilnik o smrznutim desertima (»Narodne novine«, br. 20/09.);
+- Pravilnik o sirevima i proizvodima od sireva (»Narodne novine«, br. 20/09.);
+- Pravilnik o šećerima i metodama analiza šećera namijenjenih za konzumaciju (»Narodne novine«, br. 39/09. i 144/10.);
+- Pravilnik o metodama uzorkovanja i analiza jestivih kazeina i kazeinata (»Narodne novine«, br. 70/09.);
+- Pravilnik o medu (»Narodne novine«, br. 93/09.);
+- Pravilnik o metodama uzorkovanja i analiza ugušćenog (kondenziranog) mlijeka i mlijeka u prahu namijenjenih za konzumaciju (»Narodne novine«, br. 112/09.);
+- Pravilnik o kakvoći uniflornog meda (»Narodne novine«, br. 122/09.);
+- Pravilnik o jestivim uljima i mastima (»Narodne novine«, br. 41/12.);
+- Pravilnik o ekstraktima kave i ekstraktima cikorije (»Narodne novine«, br. 81/10.);
+- Pravilnik o soli (»Narodne novine«, br. 89/11.);
+- Pravilnik o prirodnim mineralnim i prirodnim izvorskim vodama (»Narodne novine«, br. 95/11.) osim Dodatka 6.;
+- Popis priznatih mineralnih voda i prirodnih izvorskih voda u Republici Hrvatskoj (»Narodne novine«, br. 18/12.);
+- Pravilnik o pivu (»Narodne novine«, br. 142/11.);
+- Pravilnik o stolnim vodama (»Narodne novine«, br. 102/12.);
+- Pravilnik o mesnim proizvodima (»Narodne novine«, br. 131/12.);
+- Pravilnik o oznakama ili znakovima koji određuju seriju ili lot kojem hrana pripada (»Narodne novine«, br. 26/13.);
+- Pravilnik o hrani podvrgnutoj ionizirajućem zračenju (»Narodne novine«, br. 38/08.);
+- Pravilnik o pomoćnim tvarima u procesu proizvodnje (»Narodne novine«, br. 38/08.);
+- Pravilnik o registraciji i odobravanju objekata u kojima posluju subjekti u poslovanju s hranom za životinje (»Narodne novine«, br. 72/08.);
+- Pravilnik o registraciji primarnih proizvođača hrane za životinje (»Narodne novine«, br. 153/11.);
+- Pravilnik o ljekovitoj hrani za životinje (»Narodne novine«, br. 120/11.);
+- Pravilnik o kategorijama krmiva koje se koriste za označavanje hrane za kućne ljubimce (»Narodne novine«, br. 36/13.);
+- Pravilnik o popisu predviđenih namjena korištenja hrane za životinje za posebne hranidbene namjene (»Narodne novine«, br. 61/10. i 68/12.);
+- Pravilnik o nepoželjnim tvarima u hrani za životinje (»Narodne novine«, br. 80/10., 111/10. i 124/12.);
+- Pravilnik o žitaricama, mlinskim i pekarskim proizvodima, tjestenini, tijestu i proizvodima od tijesta (»Narodne novine«, br. 78/05., 135/09., 86/10. i 72/11.);
+- Pravilnik o kontroli kakvoće soje, suncokreta i uljane repice u otkupu (»Narodne novine«, br. 88/10., 93/10. i 78/11.);
+- Pravilnik o uljima od ploda i komine maslina (»Narodne novine«, br. 7/09. i 112/09.).
