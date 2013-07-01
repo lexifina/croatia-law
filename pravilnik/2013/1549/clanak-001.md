@@ -1,0 +1,5 @@
+# Članak 1.
+Ovim se Pravilnikom utvrđuje okvir za provedbu sljedećih uredbi Europske unije:
+- Uredbe (EZ) 78/2009 Europskog parlamenta i Vijeća od 14. siječnja 2009. o homologaciji motornih vozila s obzirom na zaštitu pješaka i ostalih nezaštićenih sudionika u cestovnom prometu, izmjeni Direktive 2007/46/EZ i stavljanju izvan snage direktiva 2003/102/EZ i 2005/66/EZ
+Uredbe Komisije (EZ) br. 631/2009 o utvrđivanju pravila za primjenu Priloga I. Uredbi (EZ) br. 78/2009 Europskog parlamenta i Vijeća od 14. siječnja 2009. o homologaciji motornih vozila s obzirom na zaštitu pješaka i ostalih nezaštićenih sudionika u cestovnom prometu, izmjeni Direktive 2007/46/EZ i stavljanju izvan snage direktiva 2003/102/EZ i 2005/66/EZ
+- Uredba Komisije (EU) br. 459/2011 od 12. svibnja 2011. kojom se izmjenjuje Prilog Uredbi (EU) br. 631/2009 koja utvrđuje detaljna pravila za provedbu Priloga I. Uredbi (EZ) 78/2009 Europskog parlamenta i Vijeća o homologaciji motornih vozila s obzirom na zaštitu pješaka i ostalih nezaštićenih sudionika u cestovnom prometu.
