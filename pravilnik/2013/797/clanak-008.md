@@ -1,0 +1,7 @@
+## Poglavlje IV.
+## POJAVA BOLESTI KOJE SE PRENOSE HRANOM
+## Epidemiološko istraživanje bolesti koje se prenose hranom
+# Članak 8.
+(1) Nadležna tijela moraju poduzeti odgovarajuće mjere kako bi osigurala da će se, u slučaju kada subjekt u poslovanju s hranom bude davao podatke istima, u skladu s člankom 19. stavkom 3. Uredbe (EZ) br. 178/2002, sačuvati odnosni prehrambeni proizvod ili njegov odgovarajući uzorak kako ne bi bilo otežano njegovo pretraživanje u laboratoriju ili istraživanje o pojavi bilo koje bolesti koje se prenose hranom.
+(2) Nadležna tijela istražuju izbijanje bolesti koje se prenose hranom u suradnji s tijelima iz članka 1. Odluke 2119/98/EZ. Istraživanje osigurava podatke o epidemiološkom profilu, prehrambenim proizvodima za koje se pretpostavlja da su bili povezani s izbijanjem bolesti i mogućim uzrocima izbijanja bolesti. Istraživanja trebaju uključiti, što je više moguće, provedbu odgovarajućih epidemioloških i mikrobioloških studija. Nadležna tijela dostavljaju Komisiji sažetak izvješća o rezultatima provedenih istraživanja iz područja svoje nadležnosti obuhvaćajući podatke iz Poglavlja E Dodatka IV. ovoga Pravilnika.
+(3) Stavci 1. i 2. ovoga članka primjenjuju se ne dovodeći u pitanje posebne propise o sigurnosti proizvoda, sustavima ranog upozorenja i odgovora na sprječavanje i kontrolu zaraznih bolesti u ljudi, higijeni hrane i općim zahtjevima propisa o hrani, te posebice onih o hitnim mjerama i postupcima za povlačenje hrane i hrane za životinje s tržišta.
