@@ -1,0 +1,5 @@
+## IV. OBVEZE SUBJEKTA U POSLOVANJU S HRANOM
+# Članak 5.
+(1) Subjekt u poslovanju s hranom obvezan je nadležnim tijelima, odnosno osobama iz članka 6. stavka 1. ovoga Zakona omogućiti provođenje nesmetanog nadzora objekta i poslovanja te uvid u svu dokumentaciju uključujući i elektronički dostupnu dokumentaciju vezanu za provedbu uredbi iz članka 1. ovoga Zakona.
+(2) Subjekt u poslovanju s hranom obvezan je nadležnim tijelima, odnosno osobama iz članka 6. stavka 1. ovoga Zakona koji provode službene kontrole staviti na raspolaganje potrebne količine hrane i sirovina kako bi se uzorkovanje provelo u skladu s uredbama iz članka 1. ovoga Zakona.
+(3) Osim obveza propisanih člankom 1. Uredbe (EZ) br. 1881/2006, subjekt u poslovanju s hranom koji uvozi, prerađuje, proizvodi hranu ili obavlja djelatnost veleprodaje hrane obvezan je provoditi interne kontrole poslovanja prema procjeni opasnosti, uključujući i izradu plana uzorkovanja na kontaminante propisane Uredbom (EZ) br. 1881/2006, sukladno opsegu i vrsti svog poslovanja.
