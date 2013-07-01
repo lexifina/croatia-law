@@ -1,0 +1,7 @@
+## Mjere u slučaju krize na tržištu
+# Članak 97.
+(1) U slučaju krize ili ozbiljnih poremećaja na tržištu prijevoza tereta u Republici Hrvatskoj zbog obavljanja prijevoza između država članica i kabotaže, Vlada Republike Hrvatske može uputiti prijedlog Komisiji pri Europskoj zajednici za usvajanje mjera za zaštitu domaćih prijevoznika, te dostaviti informacije o mjerama koja namjerava poduzeti radi zaštite domaćih prijevoznika.
+(2) Mjere koje donosi Vlada Republike Hrvatske radi zaštite domaćih prijevoznika mogu trajati najviše šest mjeseci s mogućnošću jednokratnog produljenja.
+(3) Kriza, odnosno ozbiljni poremećaji iz stavka 1. ovoga članka znači pojavljivanje problema specifičnih za tržište prijevoznih usluga, koji uzrokuju ozbiljan i potencijalno trajan višak ponude nad potražnjom, što podrazumijeva ozbiljniju prijetnju financijskoj stabilnosti i opstanku značajnog broja prijevoznika, uz uvjet da kratkoročne i dugoročne prognoze ne pokazuju mogućnost značajnijeg i trajnog poboljšanja.
+(4) Vlada Republike Hrvatske će u slučaju stanja iz stavka 1. ovoga članka osnovati Krizni odbor sastavljen od predstavnika Ministarstva, ministarstva nadležnog za rad, ministarstva nadležnog za gospodarstvo i predstavnika prijevoznika. Krizni odbor kojemu je na čelu predstavnik Ministarstva predlaže Vladi Republike Hrvatske mjere za rješavanje krize na tržištu prijevoznih usluga.
+(5) Krizni odbor surađuje s odgovarajući tijelima drugih država članica.

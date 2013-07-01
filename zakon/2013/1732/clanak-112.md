@@ -1,0 +1,27 @@
+# Članak 112.
+(1) Novčanom kaznom od 5.000,00 do 25.000,00 kuna kaznit će se za prekršaj prijevoznik-pravna osoba, prijevoznik-fizička osoba obrtnik, odnosno druga pravna osoba, ako:
+1. koristi vozilo koje ne ispunjava posebne uvjete iz članka 13. stavka 1.ovoga Zakona,
+2. ne obavijesti izdavatelja licencije o svakoj promjeni podataka na temelju kojih je licencija izdana, u roku od osam dana od dana promjene (članak 25. stavak 1.),
+3. u vozilu nema putni radni list iz članka 26. stavka 2.,
+4. u vozilu nema teretni list (članak 26. stavak 1. i 3.),
+5. u propisanom roku izdavatelju licencije ne vrati privremeno ukinutu licenciju ili izvode iz licencije (članak 27. stavak 3.),
+6. u propisanom roku izdavatelju licencije ne vrati trajno ukinutu licenciju zajedno s izvodima iz licencije (članak 28. stavak 2.),
+7. javni linijski prijevoz putnika ne obavlja autobusom (članak 33. stavak 2.),
+8. prije početka obavljanja prijevoza ne dostavi radi objave vozni red autobusnim kolodvorima na kojima su prema voznom redu predviđena zaustavljanja (članak 33. stavak 4.),
+9. ne objavi vozni red (članak 33. stavak 4.),
+10. ne započne s prijevozom u roku od 30 dana od dana izdavanja dozvole na odobrenoj liniji (članak 41. podstavak 2.),
+11. bez odgode ne izvijesti autobusni kolodvor o nemogućnosti održavanja određenog polaska na liniji ili o zakašnjenju duljem od 30 minuta (članak 45. stavak 1.),
+12. ne izvijesti izdavatelja dozvole i javnost o privremenom prekidu prijevoza na određenoj liniji (članak 46. stavak 2.),
+13. ne izvijesti javnost o trajnoj obustavi prijevoza (članak 47. stavak 3.),
+14. obavlja prijevoz s unajmljenim vozilima bez vozača za cestovni prijevoz tereta u suprotnosti s odredbom članka 90. ovoga Zakona,
+15. se u vozilu ne nalaze dokazi o ispunjavanju uvjeta pod kojima je dozvoljeno korištenje unajmljenih vozila bez vozača (članak 90. stavak 3.),
+16. obavlja prijevoz za vlastite potrebe vozilima koja nisu u njenom vlasništvu ili ih ne koristi na temelju ugovora o zakupu ili leasingu (članak 91. stavak 1.),
+17. vozilom kojim se obavlja prijevoz za vlastite potrebe ne upravlja njen zaposlenik (članak 91. stavak 2.),
+18. vozilo kojim se obavlja prijevoz za vlastite potrebe nije označeno i opremljeno sukladno propisu iz članka 13. stavka 2. ovoga Zakona (članak 91. stavak 3.),
+19. obavlja međunarodni prijevoz osoba za vlastite potrebe vozilima s više od devet sjedala, uključujući sjedalo za vozača, bez potvrde o prijavi prijevoza za vlastite potrebe (članak 92. stavak 1.),
+20. obavlja prijevoz za vlastite potrebe suprotno članku 93. stavku 1. podstavcima 1., 2. i 3. ovoga Zakona,
+21. nije uskladio radno vrijeme s utvrđenom kategorijom autobusnog kolodvora (članak 102.),
+22. ne vodi očevidnik o dolascima i polascima autobusa (članak 103. stavak 1.),
+23. u propisanom roku ne izvijesti nadležno tijelo o neobavljanju linijskog prijevoza (članak 103. stavak 2.),
+24. ako u vozilu nema potvrde za vozače ili ako potvrdu ne vrati izdavatelju, (članak 5. Uredbe (EZ-a) br. 1071/2009).
+(2) Za prekršaj iz stavka 1. ovoga članka kaznit će se i upravitelj prijevoza prijevoznika-pravne osobe, odnosno odgovorna osoba druge pravne osobe ili vozač stranog vozila novčanom kaznom od 5.000,00 do 10.000,00 kuna.
