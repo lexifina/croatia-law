@@ -1,0 +1,4 @@
+## V. NADLEŽNOST POREZNE UPRAVE
+# Članak 14.
+(1) Nadležno tijelo za područje doprinosa za obvezna osiguranja je ministarstvo nadležno za financije - Porezna uprava, koje sudjeluje u međunarodnom postupku za koordinaciju sustava socijalne sigurnosti na području određivanja zakonodavstva koje se primjenjuje i povrata doprinosa posredstvom tijela za vezu nadležnog za određivanje zakonodavstva koje se primjenjuje.
+(2) Porezna uprava ministarstva nadležnog za financije obavlja poslove prikupljanja i povrata doprinosa u skladu s Osnovnom i Provedbenom uredbom te u skladu s odlukama Hrvatskog zavoda za mirovinsko osiguranje ili zahtjevima tijela za vezu drugih država članica koje joj Zavod proslijedi. Moguću prepisku s tijelima za vezu drugih država članica nadležnima za određivanje zakonodavstva koje se primjenjuje, Porezna uprava obavlja također posredstvom Hrvatskog zavoda za mirovinsko osiguranje.

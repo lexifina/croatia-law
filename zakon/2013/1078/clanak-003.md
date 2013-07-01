@@ -1,0 +1,6 @@
+## II. NADLEŽNA TIJELA
+# Članak 3.
+(1) Nadležna tijela su središnja tijela državne uprave u djelokrug kojih, u skladu s posebnim zakonom, pripadaju grane socijalne sigurnosti iz odredbe članka 3. Osnovne uredbe.
+(2) Nadležno tijelo za provedbu uredbi EU o koordinaciji sustava socijalne sigurnosti i ovoga Zakona za područje određivanja zakonodavstva koje se primjenjuje, područje mirovinskog osiguranja, što obuhvaća invalidska davanja, davanja za starost, davanja nadživjelim članovima obitelji i za područje prava po osnovi nezaposlenosti je ministarstvo nadležno za rad i mirovinski sustav. Ministarstvo ujedno obavlja poslove koordinatora za cjelokupno područje koordinacije sustava socijalne sigurnosti.
+(3) Nadležno tijelo za provedbu uredbi EU o koordinaciji sustava socijalne sigurnosti i ovoga Zakona za područje obveznog zdravstvenog osiguranja i zdravstvene zaštite, što obuhvaća davanja za bolest, uključujući davanja za ozljede na radu i profesionalne bolesti je ministarstvo nadležno za zdravlje.
+(4) Nadležno tijelo za provedbu uredbi EU o koordinaciji sustava socijalne sigurnosti i ovoga Zakona za područje obiteljskih davanja koja sukladno posebnom propisu pripadaju u nadležnost ministarstva nadležnog za socijalnu politiku i mlade i davanja za majčinstvo i istovjetna davanja za očinstvo je ministarstvo nadležno za socijalnu politiku i mlade.

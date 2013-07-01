@@ -1,0 +1,15 @@
+# Članak 9.
+(1) Hrvatski zavod za mirovinsko osiguranje je nadležna ustanova za davanja za starost, invalidska davanja i davanja nadživjelim članovima obitelji te davanja za ozljede na radu i profesionalne bolesti iz mirovinskog osiguranja generacijske solidarnosti, kao i za obiteljska davanja (doplatak za djecu).
+(2) Sukladno nadležnosti za davanja iz mirovinskog osiguranja prema uredbama EU za koordinaciju određenoj stavkom 1. ovoga članka, a radi primjene članka 48. Provedbene uredbe, Hrvatski zavod za mirovinsko osiguranje kao ustanova za kontakt provodi postupak revizije sažetka svih odluka o pravu na davanja iz svih država članica uključenih u postupak u roku od tri mjeseca od dana podnošenja zahtjeva za reviziju.
+(3) Hrvatski zavod za mirovinsko osiguranje također je nadležna ustanova za određivanje zakonodavstva o socijalnoj sigurnosti koje se primjenjuje prema uredbama EU o koordinaciji sustava socijalne sigurnosti.
+(4) Kao ustanova nadležna za određivanje zakonodavstva koje se primjenjuje, Hrvatski zavod za mirovinsko osiguranje obavlja sljedeće poslove:
+- provodi upravni postupak radi donošenja odluke o zakonodavstvu države članice koje se primjenjuje na osiguranika,
+- primjenjuje u pojedinačnim slučajevima odredbu članka 16. Osnovne uredbe u skladu s uredbama EU za koordinaciju i sporazumima koje je sklopilo nadležno ministarstvo ili Hrvatski zavod za mirovinsko osiguranje, po ovlaštenju nadležnog ministarstva s nadležnim tijelima ili službama država članica Europske unije,
+- izvještava o provedenom postupku tijela za vezu u državama članicama Europske unije na propisanim tiskanicama za vezu,
+- dostavlja rješenja i obavijesti o određivanju zakonodavstva koje se primjenjuje drugim nadležnim ustanovama u Republici Hrvatskoj te izvještava nadležna tijela,
+- pruža administrativnu pomoć nadležnim ustanovama drugih država članica Europske unije,
+- usuglašava stavove o nadležnoj državi osiguranja s nadležnim ustanovama drugih država članica.
+(5) U slučaju kada su ispunjeni uvjeti da se prema uredbama EU o koordinaciji sustava socijalne sigurnosti na osiguranika primjenjuje hrvatsko zakonodavstvo o socijalnoj sigurnosti, Hrvatski zavod za mirovinsko osiguranje, na zahtjev poslodavca ili osiguranika, odlučuje na tiskanici propisanoj odlukom Administrativne komisije za koordinaciju sustava socijalne sigurnosti. Uz tiskanicu izdaje se uputa o pravnom lijeku.
+(6) U slučaju primjene odredbi članaka 13. ili 16. Osnovne uredbe, kao i u slučaju odbijanja zahtjeva za izdavanje odluke na tiskanici iz prethodnog stavka, Hrvatski zavod za mirovinsko osiguranje donosi rješenje u upravnom postupku.
+(7) U slučajevima iz stavka 5. ovoga članka, zahtjev se može smatrati urednim kada Hrvatski zavod za mirovinsko osiguranje od podnositelja zahtjeva i nadležne ustanove države članice Europske unije zaprimi kompletirane podatke neophodne za dovršavanje postupka.
+(8) Hrvatski zavod za mirovinsko osiguranje vodi evidenciju o osobama i činjenicama na koje se odnose stavci 3. i 4. ovoga članka.
