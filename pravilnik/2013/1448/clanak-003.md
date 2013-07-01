@@ -1,0 +1,17 @@
+# Članak 3.
+Iza članka 27. dodaje se članak 27.a koji glasi:
+»Članak 27.a
+(1) Najkasnije do 1. siječnja 2014. godine korisnici prava - brodari u obalnom linijskom pomorskom prijevozu mogu koristiti plinsko ulje kao pogonsko gorivo za plovidbu iz članka 101. stavka 1. točke 2. Zakona uz oslobođenje od plaćanja trošarine i bez ispunjavanja uvjeta iz članka 3. stavka 1. ovoga Pravilnika ako imaju:
+1. koncesijske ugovore za linije sukladno Zakonu o prijevozu u linijskom i povremenom obalnom pomorskom prometu, odnosno ugovore o obavljanju javnog prijevoza u linijskom obalnom pomorskom prometu,
+2. zaključen ugovor s prodavateljem plinskog ulja za pogon temeljem provedenog postupka sukladno Zakonu o javnoj nabavi,
+3. posebno pisanu potvrdu Agencije za obalni linijski pomorski promet kojim se utvrđuje ispunjavanje uvjeta propisanih točkama 1. i 2. ovoga stavka.
+(2) U slučajevima iz stavka 1. ovoga članka plinsko ulje se može koristiti kao pogonsko gorivo za plovidbu ako:
+1. se neposredno nabavlja iz trošarinskog skladišta te ako
+2. korisnik prava pri nabavi podnese isprave iz stavka 3. ovoga članka kojima dokazuje komercijalno obavljanje plovidbe u linijskom obalnom pomorskom prometu.
+(3) Ovlašteni držatelj trošarinskog skladišta može otpremati plinsko ulje iz trošarinskog skladišta za plovidbu iz članka 101. stavka 1. točke 2. Zakona oslobođeno od plaćanja trošarine pod sljedećim uvjetima:
+1. da brodar iz stavka 1. ovoga članka priloži potvrdu Agencije za obalni linijski pomorski promet da određeni brod obavlja obalni linijski pomorski prijevoz temeljem važećeg koncesijskog ugovora, odnosno ugovora o obavljanju javnog prijevoza u linijskom obalnom pomorskom prometu te da ima zaključen ugovor s prodavateljem plinskog ulja za pogon temeljem provedenog postupka sukladno Zakonu o javnoj nabavi,
+2. da brodar iz stavka 1. ovoga članka prije otpreme pogonskog goriva za plovidbu iz trošarinskog skladišta priloži manifest ili drugu odgovarajuću ispravu,
+3. da za svaku otpremu pogonskog goriva za plovidbu iz trošarinskog skladišta ovlašteni držatelj trošarinskog skladišta ispostavi brodaru iz stavka 1. ovoga članka račun ili drugi komercijalni dokument koji, uz ostalo, sadrži i napomenu da je pogonsko gorivo otpremljeno uz oslobođenje od plaćanja trošarine temeljem članka 101. stavka 1. točke 2. Zakona te broj ugovora iz stavka 1. točke 2. ovoga članka s naznakom evidencijskog broja nabave sukladno Zakonu o javnoj nabavi,
+(4) Manifest ili druga odgovarajuća isprava iz stavka 3. ovoga članka mora sadržavati najmanje: ime i državnu pripadnost broda, ime i prezime zapovjednika broda, broj i naziv linije koju brod održava, količinu pogonskog goriva za ukrcaj iz trošarinskog skladišta, datum prethodnog ukrcaja pogonskog goriva te potpis zapovjednika broda.
+(5) Potvrda Agencije za obalni linijski pomorski promet da određeni brod obavlja obalni linijski pomorski prijevoz temeljem važećeg koncesijskog ugovora, odnosno ugovora o obavljanju javnog prijevoza u linijskom obalnom pomorskom prometu te da korisnik prava - brodar ima zaključen ugovor sa prodavateljem plinskog ulja za pogon temeljem provedenog postupka sukladno Zakonu o javnoj nabavi obvezno se dostavlja Carinskoj upravi, Središnjem uredu.
+(6) Ovlašteni držatelj trošarinskog skladišta obvezan je voditi posebnu evidenciju prema ovome članku o kupcima, prodanim količinama i vrstama energenata, kao i datumu prodaje te istu na traženje dostaviti nadležnom carinskom uredu.«.
