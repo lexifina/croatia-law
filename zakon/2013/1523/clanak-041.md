@@ -1,0 +1,5 @@
+## Formalne primjedbe na hrvatske dokumente za ocjenjivanje
+# Članak 41.
+(1) Ako dionici tržišta građevnih proizvoda ili osobe ovlaštene za provedbu nadzora nad primjenom ovoga Zakona nalaze da hrvatski dokument za ocjenjivanje u cijelosti ne zadovoljava zahtjeve koje treba ispuniti u odnosu na temeljne zahtjeve za građevinu, odnosni dionik ili osoba zatražit će putem Ministarstva mišljenje Povjerenstva za građevne proizvode, navodeći svoje argumente. Povjerenstvo za građevne proizvode a nakon savjetovanja s HTTO-om koje je izradilo hrvatski dokument za ocjenjivanje, bez odgode daje svoje mišljenje.
+(2) U skladu s mišljenjem Povjerenstva za građevne proizvode Ministarstvo odlučuje o objavljivanju ili neobjavljivanju, objavljivanju uz ograničenje, zadržavanju, zadržavanju uz ograničenje ili povlačenju upućivanja na odnosne hrvatske dokumente za ocjenjivanje objavljenim u »Narodnim novinama«.
+(3) U skladu s odlukom iz stavka 2. ovoga članka, Ministarstvo obavještava HTTO koje je izradilo hrvatski dokument za ocjenjivanje i, ako je nužno, zahtijeva reviziju odnosnog hrvatskog dokumenta za ocjenjivanje.

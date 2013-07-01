@@ -1,0 +1,3 @@
+# Članak 59.
+(1) Inspekcijski nadzor nad provođenjem Uredbe (EU) br. 305/2011, ovoga Zakona i propisa donesenih za provedbu ovoga Zakona obavljaju inspektori u skladu s nadležnostima koje proizlaze iz propisa o ustrojstvu i djelokrugu rada središnjih tijela državne uprave te drugih propisa koji određuju njihovu nadležnost.
+(2) Koordinaciju inspekcijskih nadzora tehničkih zahtjeva za proizvode i obavješćivanje Europske unije u svrhu provedbe Uredbe (EZ) br. 765/2008 i Uredbe (EZ) br. 764/2008 provodi Povjerenstvo za koordinaciju i komunikaciju između inspekcija nadležnih za nadzor proizvoda stavljenih na tržište i/ili raspolaganje na tržištu Republike Hrvatske.

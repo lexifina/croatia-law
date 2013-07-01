@@ -1,0 +1,8 @@
+## Hrvatski dokument za ocjenjivanje
+# Članak 37.
+(1) Za svaki građevni proizvod koji nije obuhvaćen ili nije u cijelosti obuhvaćen usklađenom tehničkom specifikacijom, tehničkim propisom ili hrvatskom normom ili za koji se u skladu s postojećom usklađenom tehničkom specifikacijom, tehničkim propisom ili hrvatskom normom ne mogu u cijelosti ocijeniti svojstva u odnosu na njegove bitne značajke, na traženje proizvođača hrvatsko tijelo za tehničko ocjenjivanje (u daljnjem tekstu: HTTO) uz prethodnu suglasnost Ministarstva izrađuje hrvatski dokument za ocjenjivanje i izdaje hrvatsku tehničku ocjenu, ako:
+- proizvod ne potpada ni u jedno područje primjene neke postojeće usklađene tehničke specifikacije, tehničkog propisa ili hrvatske norme,
+- za najmanje jednu bitnu značajku toga proizvoda, metoda ocjenjivanja određena u usklađenoj tehničkoj specifikaciji, tehničkom propisu ili hrvatskoj normi nije prikladna, ili
+- usklađena tehnička specifikacija, tehnički propis ili hrvatska norma ne određuje nikakvu metodu ocjenjivanja u odnosu na bar jednu bitnu značajku toga proizvoda.
+(2) Pri izradi hrvatskog dokumenta za ocjenjivanje moraju se poštivati načela propisana člankom 38. ovoga Zakona, sadržaj i pravila za izradu hrvatskih dokumenata za ocjenjivanje propisana pravilnikom iz članka 55. ovoga Zakona, i mora biti u skladu sa člankom 39. ovoga Zakona.
+(3) Nakon savjetovanja s Povjerenstvom za građevne proizvode, Ministarstvo, po potrebi, uzima postojeće hrvatske dokumente za ocjenjivanje kao temelj za zahtjeve hrvatskom normirnom tijelu s ciljem razvoja hrvatske norme za proizvode iz 1. stavka ovoga članka.

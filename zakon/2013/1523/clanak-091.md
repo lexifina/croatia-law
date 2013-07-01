@@ -1,0 +1,2 @@
+# Članak 91.
+Za građevne proizvode iz Priloga H Tehničkog propisa o građevnim proizvodima (»Narodne novine«, br. 33/10., 87/10., 146/10., 81/11., 100/11. i 130/12.) koji su stavljeni na tržište do dana stupanja na snagu ovoga Zakona za koji je pravna osoba iz članka 68. stavka 1. podstavka 2. Zakona o zaštiti od požara (»Narodne novine«, br. 92/10.) u skladu s ovlaštenjem izdala ispravu o ispravnosti i podobnosti za namijenjenu svrhu smiju biti na raspolaganju na tržištu na području Republike Hrvatske do 30. lipnja 2018. i smiju se rabiti za građenje do 30. lipnja 2019.

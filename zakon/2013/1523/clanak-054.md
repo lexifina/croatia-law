@@ -1,0 +1,6 @@
+## Građevni proizvodi koji se prodaju u drugoj državi članici
+# Članak 54.
+(1) Na građevne proizvode iz članka 24. stavka 1. ovoga Zakona, koji se prodaju u drugoj državi članici u skladu s njezinim propisima kojima se uređuju građevni proizvodi na koje se ne odnosi Uredba (EU) br. 305/2011, primjenjuje se Uredba (EZ) br. 764/2008.
+(2) Za građevni proizvod iz stavka 1. ovoga članka gospodarski subjekt koji ga stavlja na raspolaganje na tržište unutar granica Republike Hrvatske mora osigurati da u pratećoj dokumentaciji bude naznačena namjeravana uporaba ili uporabe i značajke proizvoda te da sadrži sigurnosne obavijesti i upute o rukovanju, skladištenju, ugradnji i trajnom odlaganju građevnog proizvoda, pisane na hrvatskom jeziku latiničnim pismom.
+(3) Za građevni proizvod iz stavka 1. ovoga članka ne smije se sastaviti izjava o svojstvima niti ga se smije označiti »C« oznakom, osim ako je na način propisan ovim Zakonom i propisima za provedbu ovoga Zakona dokazano da ispunjava zahtjeve hrvatske tehničke specifikacije.
+(4) Postupci povezani s primjenom određenih hrvatskih tehničkih pravila u smislu primjene Uredbe (EZ) br. 764/2008 te pravila koja se odnose na stavljanja na raspolaganje na tržište unutar granica Republike Hrvatske na proizvode iz stavka 1. ovoga članka mogu se propisati tehničkim propisom te pravilnikom iz članka 55. ovoga Zakona.

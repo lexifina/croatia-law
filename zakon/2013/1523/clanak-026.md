@@ -1,0 +1,6 @@
+## Izjava o svojstvima i sadržaj izjave o svojstvima
+# Članak 26.
+(1) Kada je građevni proizvod sukladan zahtjevima hrvatske tehničke specifikacije, proizvođač treba sastaviti izjavu o svojstvima bitnih značajki građevnih proizvoda (u daljnjem tekstu: izjava o svojstvima) napisanu na hrvatskom jeziku latiničnim pismom, ako ovim Zakonom nije drugačije uređeno.
+(2) Kada je građevni proizvod obuhvaćen tehničkim propisom, hrvatskom normom na koju upućuje tehnički propis (u daljnjem tekstu: hrvatska norma) ili je u skladu s hrvatskom tehničkom ocjenom koja je za njega izdana, podaci o njegovim svojstvima, u odnosu na bitne značajke iz odgovarajućeg tehničkog propisa, hrvatske norme ili hrvatske tehničke ocjene, smiju se dati samo ako su uključeni i određeni u izjavi o svojstvima.
+(3) Sastavljanjem izjave o svojstvima proizvođač preuzima odgovornost za sukladnost građevnog proizvoda s tako iskazanim svojstvima. Ako nema objektivnih naznaka o suprotnom, dionici tržišta građevnih proizvoda, Ministarstvo i osobe ovlaštene za provedbu nadzora nad primjenom ovoga Zakona trebaju smatrati da je izjava o svojstvima koju je sastavio proizvođač točna i pouzdana.
+(4) Izjava o svojstvima mora imati sadržaj propisan pravilnikom iz članka 55. ovoga Zakona.

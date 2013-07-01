@@ -1,0 +1,15 @@
+## Obveze proizvođača
+# Članak 30.
+(1) Proizvođač sastavlja izjavu o svojstvima u skladu sa člankom 26. ovoga Zakona te postavlja oznaku »C« u skladu sa člankom 29. ovoga Zakona.
+(2) Proizvođač mora, kao temelj za sastavljanje izjave o svojstvima, izraditi tehničku dokumentaciju u kojoj opisuje sve bitne elemente u vezi s traženim sustavom ocjenjivanja i provjere stalnosti svojstava.
+(3) Proizvođač čuva tehničku dokumentaciju i izjavu o svojstvima tijekom 10 godina nakon što je građevni proizvod stavljen na tržište, osim ako pravilnikom iz članka 55. ovoga Zakona nije propisano drugačije.
+(4) Proizvođač je obvezan uspostaviti postupke kojima se osigurava da serijska proizvodnja zadržava objavljeno svojstvo građevnog proizvoda, pri čemu se izmjene u tipu proizvoda te u odgovarajućim hrvatskim tehničkim specifikacijama na odgovarajući način uzimaju u obzir.
+(5) Proizvođač je obvezan, u slučaju kada je to primjereno potrebi osiguravanja točnosti, pouzdanosti i stalnosti objavljenih svojstava građevnog proizvoda, provesti ispitivanje uzoraka građevnih proizvoda stavljenih na tržište ili na raspolaganje, istražiti te evidentirati pritužbe, nesukladne i povučene građevne proizvode, kao i obavijestiti distributere o svakom takvom opažanju.
+(6) Proizvođač je obvezan osigurati da građevni proizvod nosi broj tipa, šarže ili serije ili koji drugi element koji omogućuje identifikaciju istog ili ako to ne dopušta veličina ili priroda proizvoda, da se traženi podaci navedu na ambalaži ili pratećim dokumentima.
+(7) Proizvođač je obvezan na građevnom proizvodu ili kad to nije moguće, na njegovoj ambalaži ili u pratećim dokumentima, navesti svoje ime, registrirano trgovačko ime ili registrirani trgovački znak i adresu na kojoj je dostupan.
+(8) Prilikom stavljanja na tržište ili na raspolaganje građevnog proizvoda proizvođač je obvezan osigurati da je uz proizvod priložena izjava o svojstvima iz članka 26. ovoga Zakona, tehničke upute pisane na hrvatskom jeziku latiničnim pismom.
+(9) Proizvođač koji smatra ili ima razloga vjerovati da građevni proizvod koji je stavio na tržište nije sukladan s izjavom o svojstvima ili nije sukladan s drugim zahtjevima ovoga Zakona ili propisa donesenih za provedbu ovoga Zakona, dužan je bez odgode poduzimati nužne popravne mjere kako bi se taj proizvod uskladio ili povukao s tržišta ili opozvao, odnosno osigurao njegov povrat.
+(10) Ako građevni proizvod iz stavka 9. ovoga članka predstavlja rizik, proizvođač je obvezan bez odgode obavijestiti Ministarstvo i Državni inspektorat, navodeći podatke, posebno o nesukladnosti proizvoda i svim poduzetim popravnim mjerama i radnjama.
+(11) Proizvođač na zahtjev Ministarstva ili Državnog inspektorata:
+- daje sve podatke i dokumentaciju pisanu na hrvatskom jeziku latiničnim pismom kojom dokazuje sukladnost građevnog proizvoda s izjavom o svojstvima i usklađenost s drugim odgovarajućim zahtjevima ovoga Zakona ili propisa donesenih za provedbu ovoga Zakona te
+- surađuje u svim aktivnostima poduzetim za uklanjanje rizika koji predstavljaju građevni proizvodi koje su oni stavili na tržište.

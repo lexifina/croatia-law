@@ -1,0 +1,5 @@
+# Članak 81.
+(1) Građevni proizvodi koji su zakonito stavljeni na tržište do stupanja na snagu ovoga Zakona u skladu s odredbama Zakona o građevnim proizvodima (»Narodne novine«, br. 86/08. i 25/13.) i propisa donesenih za provedbu toga Zakona mogu se nalaziti na tržištu na području Republike Hrvatske i rabiti za građenje do isteka dokumenta temeljem kojih su stavljeni na tržište a najduže smiju biti na raspolaganju do 30. lipnja 2015. i rabiti se za građenje do 30. lipnja 2016.
+(2) Postupci propisani za održavanje valjanosti dokumenata iz stavka 1. ovoga članka mogu se provoditi u skladu s propisima temeljem kojih su ti dokumenti nastali.
+(3) Nakon stupanja na snagu ovoga Zakona nije dopušteno započinjanje postupaka koji služe za izdavanje dokumenata iz stavka 1. ovoga Zakona.
+(4) Iznimno od stavka 1. ovoga članka, određeni proizvodi vezani za temeljni zahtjev zaštite od požara smiju biti na raspolaganju do 30. lipnja 2018. i rabiti se za građenje do 30. lipnja 2019., a stavci 2. i 3. ovoga članka se odgovarajuće primjenjuju.

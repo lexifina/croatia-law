@@ -1,0 +1,2 @@
+# Članak 64.
+Prijavljena, imenovana i odobrena tijela te gospodarski subjekti i druge osobe pod čijom su odgovornošću građevni proizvodi dužni su Ministarstvu ili osobama ovlaštenim za provedbu nadzora nad primjenom ovoga Zakona omogućiti pregled svih prostora i uvid u sve radnje i/ili dokumente vezane za ocjenjivanje i provjeru stalnosti svojstava građevnog proizvoda, tehničkog ocjenjivanja te stavljanje na tržište ili na raspolaganje građevnog proizvoda.

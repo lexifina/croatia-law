@@ -1,0 +1,7 @@
+# Članak 20.
+(1) Nakon zaprimanja obavijesti ili drugog saznanja o mogućem nedostatku ispunjavanja propisanih zahtjeva, odnosno obveza i/ili istekom roka za dostavu podataka iz članka 19. ovoga Zakona, Ministarstvo po službenoj dužnosti pokreće postupak provjere ispunjavanja zahtjeva, odnosno obveza prijavljenog ili imenovanog tijela.
+(2) U postupku provjere pribavlja se mišljenje Povjerenstva za građevne proizvode o ozbiljnosti nedostataka u ispunjenju propisanih zahtjeva te obveza prijavljenog, odnosno imenovanog tijela.
+(3) Ako se u postupku provjere utvrdi da su nedostatci takvi da prijavljeno, odnosno imenovano tijelo više ne ispunjava propisane zahtjeve, Ministarstvo će rješenjem odrediti rok za otklanjanje nedostataka ili će rješenje iz članka 13. ili 17. ovoga Zakona ukinuti u cijelosti ili djelomično.
+(4) U slučaju ukidanja ili djelomičnog ukidanja rješenja iz stavka 3. ovoga članka, Ministarstvo po izvršnosti toga rješenja pokreće postupak povlačenja, ograničenja ili obustave prijave, odnosno imenovanja Europskoj komisiji i drugim državama članicama.
+(5) Za potrebe postupka iz stavka 1. ovoga članka, dionici tržišta građevnih proizvoda i osobe ovlaštene za provedbu nadzora nad primjenom ovoga Zakona, na zahtjev Ministarstva, dužni su bez odgode dostaviti tražene podatke i dokumente.
+(6) Ako se u postupku provjere utvrdi da prijavljeno, odnosno imenovano tijelo i nadalje ispunjava propisane zahtjeve, Ministarstvo će obustaviti postupak.

@@ -1,0 +1,3 @@
+# Članak 58.
+(1) Inspekcijski nadzor koji se odnosi na primjenu ovoga Zakona i propisa donesenih za provedbu ovoga Zakona u vezi s proizvodnjom, stavljanjem na tržište ili na raspolaganje građevnih proizvoda provode gospodarski inspektori Državnog inspektorata.
+(2) Inspekcijski nadzor koji se odnosi na primjenu ovoga Zakona i propisa donesenih za provedbu ovoga Zakona u vezi s uporabom građevnih proizvoda u skladu s ovim Zakonom i posebnim propisima kojima se uređuje pojedino upravno područje koje uređuje ispunjavanje temeljnih zahtjeva za građevine, provode građevinski inspektori, inspektori zaštite od požara, inspektori zaštite okoliša, inspektori rada, sanitarni inspektori i drugi inspektori sukladno propisu koji određuju njihovu nadležnost.
