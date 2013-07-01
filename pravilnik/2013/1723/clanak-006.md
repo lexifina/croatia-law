@@ -1,0 +1,3 @@
+## Označavanje prirodnih mineralnih, prirodnih izvorskih i stolnih voda
+# Članak 6.
+Na označavanje voda iz članka 1. stavka 1. ovog Pravilnika primjenjuju se odredbe Pravilnika o označavanju, reklamiranju i prezentiranju hrane (»Narodne novine«, br. 63/2011 i 79/2011)[2] ili odredbe Uredbe (EZ) br. 1169/2011 Europskog parlamenta i Vijeća od 25. listopada 2011. o pružanju informacija o hrani potrošačima, izmjenama i dopunama Uredbi (EZ) br. 1924/2006 i (EZ) br. 1925/2006 Europskoga parlamenta i Vijeća (u daljnjem tekstu: Uredba (EZ) br. 1169/2011) te odredbe ovog Pravilnika koje se odnose na označavanje.

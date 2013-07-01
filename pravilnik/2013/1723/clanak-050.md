@@ -1,0 +1,5 @@
+## IV. PRIJELAZNE I ZAVRŠNE ODREDBE
+# Članak 50.
+(1) Za prirodne mineralne i prirodne izvorske vode priznate sukladno odredbama Pravilnika o prirodnim mineralnim i prirodnim izvorskim vodama (»Narodne novine«, broj 95/2011), rješenje o priznavanju vrijedi do datuma prema rješenju.
+(2) Za produljenje valjanosti rješenja o priznavanju prirodne mineralne i prirodne izvorske vode iz stavka 1. ovog članka potrebno je Ministarstvu podnijeti zahtjev na obrascu iz Dodatka 5. ovog Pravilnika sukladno odredbama ovog Pravilnika najranije šest mjeseci, a najkasnije jedan mjesec prije isteka roka valjanosti rješenja o priznavanju.
+(3) Za prirodne mineralne i prirodne izvorske vode priznate sukladno odredbama Pravilnika o prirodnim mineralnim i prirodnim izvorskim vodama (»Narodne novine«, broj 73/2007) i Pravilnika o prirodnim mineralnim i prirodnim izvorskim vodama (»Narodne novine«, br. 57/2009, 85/2009 i 42/2011), subjekti u poslovanju s hranom moraju pokrenuti postupak priznavanja sukladno odredbama ovog Pravilnika najranije šest mjeseci, a najkasnije jedan mjesec prije isteka roka valjanosti rješenja o priznavanju.
