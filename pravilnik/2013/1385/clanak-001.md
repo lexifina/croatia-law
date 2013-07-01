@@ -1,0 +1,10 @@
+## I. OPĆE ODREDBE
+# Članak 1.
+Ovim se Pravilnikom propisuju način i uvjeti provedbe Sustava poljoprivrednih knjigovodstvenih podataka - Farm Accountancy Data Network (u daljnjem tekstu: FADN sustav), koji obuhvaća provedbu godišnjeg istraživanja o strukturi, proizvodnji, prihodima i rashodima poljoprivrednih gospodarstava (u daljnjem tekstu: FADN istraživanje), tijela za uspostavu i nadzor FADN sustava, tijelo nadležno za organizaciju i stručnu provedbu FADN istraživanja te uvjeti za davanje anonimiziranih individualnih rezultata FADN istraživanja.
+Ovaj Pravilnik sadrži odredbe za provedbu:
+- Uredbe Vijeća (EZ) br. 1217/2009 od 30. studenog 2009. o uspostavi sustava za prikupljanje knjigovodstvenih podataka o dohotku i poslovanju poljoprivrednih gospodarstava Europske zajednice (SL L 328, 15. 12. 2009.) (u daljnjem tekstu: Uredba (EZ) br. 1217/2009),
+- Uredbe Komisije (EU) br. 385/2012 od 30. travnja 2012. o izvještaju za poljoprivredna gospodarstva kojim se određuje dohodak poljoprivrednih gospodarstava i analizira njihovo poslovanje (SL L 127, 15. 5. 2012.) (u daljnjem tekstu: Uredba (EU) br. 385/2012),
+- Uredbe Komisije (EU) br. 1291/2009 od 18. prosinca 2009. o odabiru poljoprivrednih gospodarstava u svrhu određivanja dohotka poljoprivrednih gospodarstava (SL L 347, 24. 12. 2009.) (u daljnjem tekstu: Uredba (EU) br. 1291/2009),
+- Uredbe Komisije (EZ) br. 1242/2008 od 8. prosinca 2008. kojom se utvrđuje tipologija poljoprivrednih gospodarstava Zajednice (SL L 335, 13. 12. 2008.) (u daljnjem tekstu: Uredba (EZ) br. 1242/2008),
+- Uredbe Komisije (EZ) br. 868/2008 od 3. rujna 2008. o izvještaju za poljoprivredna gospodarstva kojim se određuje dohodak poljoprivrednih gospodarstava i analizira njihovo poslovanje (SL L 237, 4. 9. 2008.) (u daljnjem tekstu: Uredba (EZ) br. 868/2008),
+- Uredbe Komisije (EEZ) br. 1915/83 od 13. srpnja 1983. o određenim detaljnim provedbenim pravilima za vođenje knjigovodstva u svrhu utvrđivanja dohotka poljoprivrednih gospodarstava (SL L 190, 14. 7. 1983.) (u daljnjem tekstu: Uredba (EEZ) br. 1915/1983).
