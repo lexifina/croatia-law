@@ -1,0 +1,3 @@
+## I. OPĆE ODREDBE
+# Članak 1.
+Ovim se Pravilnikom propisuje obaveza utvrđivanja sukladnosti vozila, tehnički zahtjevi koje vozila odnosno zasebne tehničke jedinice i dijelovi za vozila moraju ispunjavati, oblik i sadržaj zahtjeva, potvrde o evidenciji tipa vozila, potvrde o sukladnosti tipa vozila, izjave o sukladnosti vozila i potvrde o sukladnosti pojedinačno pregledanog vozila, postupak ispitivanja vozila, uvjeti koje moraju ispunjavati pravne osobe za provođenje određenih radnji u postupku utvrđivanja sukladnosti, izuzeća od postupka, nadzor te naknade koje se naplaćuju za pokriće troškova provođenja postupka utvrđivanja sukladnosti vozila.
