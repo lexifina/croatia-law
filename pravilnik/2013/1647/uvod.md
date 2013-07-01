@@ -1,0 +1,1 @@
+Na temelju članka 22. stavak 3. Zakona o učinkovitom korištenju energije u neposrednoj potrošnji (»Narodne novine«, broj 152/08 i 55/12), ministrica graditeljstva i prostornoga uređenja uz suglasnost ministra gospodarstva, donosi
