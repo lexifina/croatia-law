@@ -1,0 +1,2 @@
+# Članak 7.
+Od datuma pristupanja jedne od država ugovornih stranaka Europskoj uniji ovaj Sporazum će se primjenjivati ne dirajući u obveze koje proizlaze iz tog članstva. Stoga se na odredbe ovog Sporazuma ne smije pozivati, ili ih tumačiti na način koji bi poništio, ili na drugi način utjecao na obveze države te ugovorne stranke predviđene Ugovorom o Europskoj uniji, niti na obveze koje proizlaze iz budućih međunarodnih ugovora, koji će se sklopiti i zamijeniti navedeni Ugovor.
