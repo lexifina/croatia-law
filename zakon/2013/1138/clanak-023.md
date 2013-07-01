@@ -1,0 +1,7 @@
+# Članak 23.
+(1) Iznimno od članka 22. stavka 4. ovoga Zakona, ministar nadležan za zdravlje može rješenjem produžiti odobrenje za razdoblje do još tri godine temeljem zahtjeva za produženjem odobrenja.
+(2) U slučaju iz stavka 1. ovoga članka, Ministarstvo je obvezno rješenje o produženju odobrenja dostaviti Hrvatskim vodama, u roku od mjesec dana od dana izdavanja rješenja.
+(3) Hrvatske vode obvezne su dostaviti Europskoj komisiji rješenje iz stavka 2. ovoga članka te u prilogu izvještaj iz prethodnog razdoblja koji sadrži podatke o svim poduzetim mjerama i svim razlozima zbog kojih je dano produženje odobrenja, u roku od dva mjeseca od izdavanja rješenja iz stavka 1. ovoga članka.
+(4) U slučaju trećeg zahtjeva pravne osobe za odobravanje prekoračenja M.D.K. vrijednosti, Ministarstvo preko Hrvatskih voda prosljeđuje zahtjev Europskoj komisiji na odobrenje za period do još najduže tri godine.
+(5) Pravna osoba obvezna je dostaviti Ministarstvu zahtjev za izdavanje odobrenja iz stavaka 1. i 4. ovoga članka najmanje šest mjeseci prije isteka odobrenja, uz izvješće o svim rezultatima i poduzetim mjerama u prethodnom razdoblju.
+(6) Ministarstvo je obvezno obavijestiti Hrvatske vode o odobrenim prekoračenjima M.D.K. vrijednosti vode, za sve pravne osobe koje opskrbljuju više od 5.000 stanovnika ili im je dnevna opskrba vode veća od 1.000 m³, u roku od mjesec dana od dana izdavanja rješenja iz stavka 1. ovoga članka.

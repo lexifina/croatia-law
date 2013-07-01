@@ -1,0 +1,5 @@
+## I. TEMELJNE ODREDBE
+## Svrha Zakona
+# Članak 1.
+(1) Ovim se Zakonom uređuje zdravstvena ispravnost vode za ljudsku potrošnju, nadležno tijelo za provedbu ovoga Zakona i način izvještavanja Europske komisije o provedbi ovoga Zakona, obveze pravnih osoba koje obavljaju opskrbu vodom za ljudsku potrošnju u Republici Hrvatskoj, načini postupanja i izvješćivanja u slučaju odstupanja od parametara za provjeru sukladnosti vode za ljudsku potrošnju, monitoring (praćenje) i druge službene kontrole zdravstvene ispravnosti vode za ljudsku potrošnju i njihovo financiranje, a u cilju zaštite ljudskog zdravlja od nepovoljnih utjecaja bilo kojeg onečišćenja vode za ljudsku potrošnju i osiguravanja zdravstvene ispravnosti vode za ljudsku potrošnju na području Republike Hrvatske.
+(2) Izrazi koji se koriste u ovome Zakonu i propisima koji se donose na temelju ovoga Zakona, a koji imaju rodno značenje, bez obzira na to jesu li korišteni u muškom ili ženskom rodu, obuhvaćaju na jednak način muški i ženski rod.

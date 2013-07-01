@@ -1,0 +1,7 @@
+## Službeni laboratoriji
+# Članak 13.
+(1) Službeni laboratoriji za obavljanje analiza u svrhu provođenja monitoringa i drugih službenih kontrola vode za ljudsku potrošnju su laboratoriji Hrvatskog zavoda za javno zdravstvo i zavoda za javno zdravstvo županije, odnosno Grada Zagreba, ako ispunjavaju uvjete propisane stavkom 2. ovoga članka.
+(2) Službeni laboratoriji iz stavka 1. ovoga članka moraju biti akreditirani prema normi HRN EN ISO/IEC 17025, a za parametre koji se ispituju metodama koje nisu akreditirane obvezni su uspješno provoditi međulaboratorijske usporedbe najmanje jedan puta u pet godina.
+(3) Osim laboratorija iz stavka 1. ovoga članka, u svrhu ispitivanja zdravstvene ispravnosti vode za ljudsku potrošnju u građevinama prije izdavanja uporabne dozvole, uzorke uzimaju i analize provode i drugi laboratoriji akreditirani prema normi HRN EN ISO/IEC 17025, a za parametre koji se ispituju metodama koje nisu akreditirane, obvezni su uspješno provoditi međulaboratorijske usporedbe najmanje jedanput u pet godina.
+(4) Ministar nadležan za zdravlje donosi rješenje kojim utvrđuje da laboratoriji iz stavaka 1. i 3. ovoga članka ispunjavaju propisane uvjete iz stavka 2. ovoga članka.
+(5) Laboratoriji iz stavaka 1. i 3. ovoga članka obvezni su dostavljati Ministarstvu dokumentaciju i izvješće o svim metodama za koje su akreditirani ili metodama za koje uspješno provode međulaboratorijske usporedbe, do 1. ožujka tekuće godine za prethodnu godinu.
