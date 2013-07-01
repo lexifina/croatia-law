@@ -1,0 +1,4 @@
+## IV. POVRAT TROŠARINE ZA BEZOLOVNI MOTORNI BENZIN
+# Članak 16.
+(1) Pravo na povrat plaćene trošarine za bezolovni motorni benzin koji se koristi za pogon odgovarajućih plovnih objekata i plovila za plovidbu iz članka 101. stavka 1. točke 2. Zakona (u daljnjem tekstu: pravo na povrat trošarine) korisnici prava ostvaruju temeljem zahtjeva koji se podnosi carinskom uredu nadležnom prema sjedištu, odnosno prebivalištu korisnika prava na Obrascu ZPB iz Priloga 3 ovoga Pravilnika koji je njegov sastavni dio.
+(2) Pravo na povrat trošarine imaju isključivo korisnici prava koji su upisani u registar korisnika prava na povrat plaćene trošarine na bezolovni motorni benzin u nacionalnoj plovidbi (u daljnjem tekstu: registar korisnika povrata), i to za razdoblje počevši od dana upisa u registar korisnika povrata.

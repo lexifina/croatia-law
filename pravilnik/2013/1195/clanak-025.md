@@ -1,0 +1,4 @@
+## VII. PRAĆENJE PRIMJENE PRAVILNIKA
+# Članak 25.
+(1) Carinska uprava i ministarstvo nadležno za plovidbu kontinuirano prate i analiziraju primjenu ovoga Pravilnika i zakonitost ostvarivanja oslobođenja od plaćanja trošarine na energente koji se koriste kao pogonsko gorivo za plovidbu te predlažu i provode mjere radi onemogućavanja te sprječavanja i suzbijanja zlouporaba.
+(2) Carinska uprava i ministarstvo nadležno za plovidbu najmanje dva puta godišnje preispituju kriterije za utvrđivanje prava na potrošnju (godišnje kvote) energenta koji se uz oslobođenje od plaćanja trošarine koriste kao pogonsko gorivo za plovidbu plovnih objekata, odnosno plovila iz Priloga 1 ovoga Pravilnika te druge odredbe ovoga Pravilnika radi osiguravanja pravilne primjene instituta oslobođenja od plaćanja trošarine na energente koji se koriste kao pogonsko gorivo za plovidbu.

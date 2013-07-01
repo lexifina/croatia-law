@@ -1,0 +1,4 @@
+# Članak 11.
+(1) Godišnju kvotu potrošnje plinskog ulja obojanog plavom bojom utvrđuje ministarstvo nadležno za plovidbu za svaki plovni objekt, odnosno plovilo prema kriterijima iz Priloga 1 ovoga Pravilnika koji je njegov sastavni dio. Godišnju kvotu potrošnje za brodove u linijskom putničkom pomorskom prometu utvrđuje ministarstvo nadležno za plovidbu na prijedlog Agencije za obalni linijski pomorski promet.
+(2) Korisnik prava na potrošnju plinskog ulja obojanog plavom bojom ne može odobreno, a neiskorišteno pravo na potrošnju plinskog ulja iz tekuće kalendarske godine prenijeti niti koristiti u sljedećoj kalendarskoj godini.
+(3) Iznimno, ako su iskorištene količine plinskog ulja korisnika prava veće od odobrenih količina za tekuću godinu, za količinu od najviše do 10 litara umanjit će se odobrena količina u sljedećoj godini.

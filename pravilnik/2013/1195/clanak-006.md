@@ -1,0 +1,3 @@
+# Članak 6.
+(1) Karticu goriva za plovidbu izdaje ministarstvo nadležno za plovidbu. Kartica goriva za plovidbu smatra se javnom i zaštićenom ispravom i obrascem kao kartica za kontrolu potrošnje goriva posebnih namjena čiji se sadržaj, oblik, način zaštite i obvezna primjena posebno uređuje.
+(2) Ugovoreni pružatelj usluge podrške sustavu za nadzor potrošnje plinskog ulja obojanog plavom bojom (Financijska agencija) zaprima zahtjeve za izradom kartice goriva za plovidbu od korisnika prava, izrađuje kartice goriva za plovidbu temeljem zahtjeva i rješenja iz članka 9. stavka 1. i 2. ovoga Pravilnika te kartice goriva za plovidbu uručuje korisnicima prava.

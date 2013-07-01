@@ -1,0 +1,3 @@
+# Članak 30.
+(1) Ovaj Pravilnik objavit će se u »Narodnim novinama«, a stupa na snagu danom pristupanja Republike Hrvatske Europskoj uniji, osim članaka 6., 7., 8., 9., 10., 11., 12., 19. i 20. ovoga Pravilnika koji stupaju na snagu 1. lipnja 2013. godine.
+(2) Sukladno stavku 1. ovoga članka izdana rješenja kojima se stječe pravo na karticu goriva za plovidbu, izdane kartice goriva za plovidbu, upisi u registar korisnika povrata i rješenja kojim se utvrđuje godišnja kvota potrošnje bezolovnog motornog benzina počinju se primjenjivati, odnosno važiti na dan pristupanja Republike Hrvatske Europskoj uniji.

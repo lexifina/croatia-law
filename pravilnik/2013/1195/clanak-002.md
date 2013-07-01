@@ -1,0 +1,15 @@
+# Članak 2.
+(1) Korisnici prava na potrošnju energenata koji se koriste kao pogonsko gorivo za plovidbu iz članka 101. stavka 1. točke 2. Zakona su pravne i fizičke osobe upisane u odgovarajući upisnik, odnosno očevidnik kao vlasnici, brodari ili korisnici financijskog leasinga plovnih objekata ili plovila sukladno posebnom propisu (u daljnjem tekstu: korisnici prava).
+(2) Za isti plovni objekt ili plovilo ne može se istovremeno ostvarivati pravo na potrošnju plinskog ulja obojanog plavom bojom bez plaćanja trošarine ili sa sniženom trošarinom za namjene u poljoprivredi, ribolovu i akvakulturi te pravo na potrošnju energenata bez plaćanja trošarine koji se koriste kao pogonsko gorivo za plovidbu sukladno ovome Pravilniku. Iznimno, za plovne objekte ili plovila kojima se uz djelatnost ribolova i akvakulture obavljaju i druge gospodarske djelatnosti ministarstvo nadležno za plovidbu može sukladno ovome Pravilniku izdati karticu goriva za plovidbu i odrediti kvotu potrošnje razmjerno vremenu i opsegu obavljanja druge gospodarske djelatnosti.
+(3) Plovidba u smislu stavka 1. ovoga članka se odnosi na odgovarajuće plovne objekte i plovila koji se koriste za gospodarske svrhe, i to na:
+1. plovne objekte u pomorskoj plovidbi, odnosno na:
+a) brodove u međunarodnoj plovidbi;
+b) brodove u nacionalnoj plovidbi (brodovi koji obavljaju linijski obalni promet, javni brodovi i brodovi koji se koriste za potrebe javnih tijela, brodovi koji obavljaju prijevoz tereta i putnika i koji obavljaju druge gospodarske djelatnosti te brodovi za posebne namjene);
+c) jahte sa stalno ukrcanom profesionalnom posadom s valjanom pomorskom knjižicom izdanom sukladno posebnim propisima kojima se izravno i isključivo obavlja gospodarska, odnosno komercijalna djelatnost smještaja gostiju uz plaćanje naknade;
+d) brodice (javne brodice, kao i one koje se koriste za potrebe javnih tijela, brodice koje obavljaju prijevoz tereta i putnika te koje obavljaju druge gospodarske djelatnosti, osim chartera);
+2. plovila u unutarnjoj plovidbi (rijeke i jezera), odnosno na:
+a) plovila u međunarodnoj plovidbi;
+b) plovila u nacionalnoj plovidbi (plovila koji se koriste za potrebe javnih tijela, plovila koja obavljaju prijevoz tereta i putnika te koja obavljaju druge gospodarske djelatnosti i plovila za posebne namjene);
+c) čamce (čamci koji se koriste za potrebe javnih tijela, čamci koji obavljaju prijevoz tereta i putnika te koji obavljaju druge gospodarske djelatnosti i čamci za posebne namjene).
+(4) Oslobođenje od plaćanja trošarine se ne odnosi na energente koji se koriste kao pogonsko gorivo za plovidbu plovnih objekata i plovila namijenjenih za sport i razonodu, uključujući i plovnih objekata i plovila za djelatnost iznajmljivanja trećim osobama s posadom ili bez posade (charter), a koji se koriste od strane vlasnika ili pravne ili fizičke osobe na temelju ugovora o najmu s posadom ili bez posade.
+(5) Za potrebe ovoga Pravilnika brodom se smatra i plovilo sukladno propisima koji uređuju plovidbu unutarnjim vodama.
