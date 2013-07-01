@@ -1,0 +1,8 @@
+## Zadaće nadležnih tijela
+# Članak 4.
+(1) Ministarstvo za potrebe provedbe Uredbi iz članka 1. ovoga Zakona prikuplja informacije o provedbi sustava FLEGT sukladno Uredbi (EZ) br. 2173/2005 i sustava dužne pažnje sukladno Uredbi (EU) br. 995/2010 te izvješćuje Europsku komisiju i komunicira s istom.
+(2) Carinska uprava za potrebe provedbe Uredbi iz članka 1. ovoga Zakona zaprima, pregledava i potvrđuje FLEGT dozvole i dokumente koji potvrđuju provođenje mjera i postupaka utvrđenih sustava dužne pažnje.
+(3) Ako Carinska uprava u postupku iz stavka 2. ovoga članka utvrdi da subjekt ne raspolaže s pravovaljanom FLEGT dozvolom i s dokumentima koji potvrđuju provođenje mjera i postupaka sustava dužne pažnje, o tome će u najkraćem roku obavijestiti Ministarstvo.
+(4) U slučaju sumnje u vjerodostojnost pošiljke drva i proizvoda od drva koji se uvoze u Europsku uniju, odnosno u svrhu dodatne provjere ispravnosti FLEGT dozvole i informacija utvrđenim sustavom dužne pažnje u vezi s isporukom drva i proizvoda od drva, koji se stavljaju u promet u Europsku uniju, Carinska uprava može, sukladno članku 10. Uredbe (EZ) br. 1024/2008 zatražiti od šumarske inspekcije Ministarstva pregled istih.
+(5) Carinska uprava je dužna izvijestiti Ministarstvo o obavljenim poslovima koji proizlaze iz ovoga Zakona, svake godine do kraja veljače za prethodnu kalendarsku godinu. Carinska uprava izvješće sastavlja skladno članku 8. stavku 1. Uredbe (EZ) br. 2173/2005.
+(6) Ministarstvo je dužno u roku i na način propisan člankom 8. Uredbe (EZ) br. 2173/2005 i člankom 20. Uredbe (EU) br. 995/2010 predati izvješće Europskoj komisiji.
