@@ -1,0 +1,6 @@
+# Članak 3.
+Iza članka 10. dodaje se članak 10.a koji glasi:
+»Članak 10.a
+(1) Skupna izuzeća primijenit će se i na sporazume s učinkom na trgovinu između Republike Hrvatske i država članica Europske unije koji ispunjavaju uvjete iz članka 101. stavka 3. UFEU i odgovarajućih uredbi Komisije (EU) ili Vijeća (EU) o skupnom izuzeću određene kategorije sporazuma od opće zabrane sporazuma iz članka 101. stavka 1. UFEU.
+(2) Agencija može u smislu Uredbe Vijeća (EZ) br. 1/2003 rješenjem ukinuti skupno izuzeće iz stavka 1. ovoga članka, odnosno odlučiti da se Uredbe Komisije (EU) ili Vijeća (EU) o skupnom izuzeću određene kategorije sporazuma od opće zabrane iz članka 101. stavka 1. UFEU neće primijeniti na određeni sporazum s učinkom na teritoriju Republike Hrvatske ili nekom njegovu dijelu koji ima obilježja posebnog tržišta u zemljopisnom smislu koji nije usklađen s odredbom članka 101. stavka 3. UFEU.
+(3) U slučaju iz stavka 2. ovoga članka Agencija neće u rješenju o ukidanju skupnog izuzeća izreći upravno-kaznenu mjeru, nego će sudionicima sporazuma odrediti rok za njegovo usklađivanje s uvjetima iz članka 101. stavka 3. UFEU ili ako to nije moguće naložiti stavljanje sporazuma izvan snage.«.

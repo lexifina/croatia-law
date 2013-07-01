@@ -1,0 +1,5 @@
+# Članak 1.
+U Zakonu o zaštiti tržišnog natjecanja (»Narodne novine«, br. 79/09.) iza članka 2. dodaju se članak 2.a i naslov iznad njega koji glase:
+»Primjena pravne stečevine Europske unije
+Članak 2.a
+Ovim se Zakonom uređuje i primjena članaka 101. i 102. Ugovora o funkcioniranju Europske unije (SL C 115 od 9. 5. 2008.; u daljnjem tekstu: UFEU) na sve oblike narušavanja tržišnog natjecanja od strane poduzetnika koji imaju učinak na trgovinu između Republike Hrvatske i država članica Europske unije sukladno s Uredbom Vijeća (EZ) br. 1/2003 od 16. prosinca 2002. o provedbi pravila o tržišnom natjecanju koja su propisana člancima 81. i 82. Ugovora o osnivanju EZ-a (Tekst značajan za EGP) (SL L 1, 4. 1. 2003.; str. 1.- 25., u daljnjem tekstu: Uredba Vijeća (EZ) br. 1/2003) i Uredbom Vijeća (EZ) br. 139/2004 od 20. siječnja 2004. o kontroli koncentracija između poduzetnika (Uredba EZ o koncentracijama) (Tekst značajan za EGP) (SL L 24, 29. 1. 2004. str. 1.- 22.; u daljnjem tekstu: Uredba Vijeća (EZ) br. 139/2004).«.

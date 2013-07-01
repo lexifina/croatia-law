@@ -1,0 +1,18 @@
+# Članak 21.
+U članku 42. stavak 1. mijenja se i glasi:
+»(1) Prije provođenja nenajavljene pretrage poslovnih prostorija, zemljišta i prijevoznih sredstava Agencija će od Visokog upravnog suda Republike Hrvatske zatražiti nalog za provedbu nenajavljene pretrage poslovnih prostorija, zemljišta i prijevoznih sredstava, dokumenata, isprava i stvari koje se tamo nalaze, kao i pečaćenje te privremeno oduzimanje predmeta, osobito ako postoji opasnost od skrivanja ili uništenja dokaza, a koji su nužni za utvrđivanje narušavanja tržišnog natjecanja u smislu članka 8. ili 13. ovoga Zakona ili članka 101. ili 102. UFEU, a razumno je pretpostaviti da se oni nalaze u određenom prostoru ili kod određene osobe. U smislu Uredbe Vijeća (EZ) br. 1/2003 Agencija će zahtjev za takav nalog podnijeti Visokom upravnom sudu Republike Hrvatske i kada isti zatraži Europska komisija ili nadležno tijelo za zaštitu tržišnog natjecanja države članice Europske unije«.
+Iza stavka 1. dodaju se novi stavci 2. i 3. koji glase:
+»(2) Visoki upravni sud Republike Hrvatske dužan je:
+1. u roku od dva dana od dana zaprimanja zahtjeva Agencije iz stavka 1. ovoga članka, odlučiti o davanju naloga za provedbu nenajavljene pretrage, a
+2. nalog o nenajavljenoj pretrazi mora sadržavati:
+- oznaku predmeta nenajavljene pretrage iz stavka 1. ovoga članka te članka 44. ovoga Zakona,
+- pravni temelj za provedbu nenajavljene pretrage,
+- ovlaštene osobe iz Agencije i druge ovlaštene osobe koje će provesti pretragu,
+- rok za provedbu nenajavljene pretrage.
+(3) U smislu Uredbe Vijeća (EZ) br. 1/2003 Agencija će pružiti potrebnu pomoć Europskoj komisiji u pripremi i provedbi nenajavljene pretrage na području Republike Hrvatske. Agencija može ovlastiti osobe iz nadležnog tijela za zaštitu tržišnog natjecanja druge države članice Europske unije za sudjelovanje u provedbi nenajavljene pretrage na području Republike Hrvatske ili je može provesti u ime i za račun tog tijela.«.
+Dosadašnji stavak 2. koji postaje stavak 4. mijenja se i glasi:
+»(4) Ovlašteni radnici Agencije, samostalno ili uz pomoć ovlaštenih stručnjaka ministarstva nadležnog za unutarnje poslove (dalje: ovlaštene osobe), odnosno ovlaštenih osoba iz stavka 3. ovoga članka, mogu provesti nenajavljenu pretragu iz stavka 1. ovoga članka, o čemu stranku, odnosno posjednika prostorija i stvari izvješćuju na mjestu događaja i u trenutku provedbe nenajavljene pretrage. Ako je kod izvođenja nenajavljene pretrage iz stavka 1. ovoga članka potrebna primjena prinude ili se očekuje fizički otpor provođenju pretrage, kao i u slučaju kada je potrebno provesti određena vještačenja ili pružiti drugu stručnu pomoć, ovlaštene osobe ministarstva nadležnog za unutarnje poslove dužne su ovlaštenim osobama iz Agencije, iz Europske komisije ili iz nadležnog tijela za zaštitu tržišnog natjecanja države članice Europske unije pružiti pomoć pri provođenju nenajavljene pretrage.«.
+U dosadašnjem stavku 3. koji postaje stavak 5. riječ: »Upravnog« zamjenjuje se riječima: »Visokog upravnog«.
+U dosadašnjem stavku 4. koji postaje stavak 6. u točki 2. iza riječi: »pohranjeni« dodaju se zagrada i riječi: »(primjerice, računala, serveri, telefonski uređaji)«.
+Iza dosadašnjeg stavka 5. koji postaje stavak 7. dodaje se stavak 8. koji glasi:
+»(8) Odredbe članka 42. do 46. ovoga Zakona primjenjuju se na odgovarajući način i na inspekcijske pretrage koje je, na zahtjev Europske komisije sukladno s njezinim ovlastima u provedbi Uredbe Vijeća (EZ) br. 139/2004 koja uređuje ocjene koncentracija poduzetnika s učinkom na trgovinu između država članica Europske unije, Agencija obvezna izvršiti u poduzetnicima i njihovim udrugama na području Republike Hrvatske.«.
