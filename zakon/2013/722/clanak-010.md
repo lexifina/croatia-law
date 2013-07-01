@@ -1,0 +1,7 @@
+## V. OBVEZE I ODGOVORNOSTI SUBJEKTA U POSLOVANJU S HRANOM
+# Članak 10.
+(1) Subjekt u poslovanju s hranom odgovoran je da hrana koju stavlja na tržište Republike Hrvatske ispunjava uvjete propisane ovim Zakonom, uredbama i Odlukom iz članka 1. ovoga Zakona, te provedbenim propisima donesenim na temelju ovoga Zakona.
+(2) Subjekt u poslovanju s hranom koji prvi put stavlja na tržište Republike Hrvatske dodatke prehrani, hranu kojoj su dodani vitamini, minerali i druge tvari, te hranu sa prehrambenim i zdravstvenim tvrdnjama obvezan je postupiti sukladno provedbenom propisu iz članka 6. stavka 1. podstavka 3. ovoga Zakona.
+(3) Subjekt u poslovanju s hranom obvezan je osobama ovlaštenim za provedbu službene kontrole staviti na raspolaganje potrebne količine hrane kako bi se provelo uzorkovanje hrane u svrhu provedbe službenih kontrola.
+(4) Subjekt u poslovanju s hranom obvezan je osobama ovlaštenim za provedbu službene kontrole omogućiti nesmetanu provedbu službenih kontrola i uvid u svu raspoloživu dokumentaciju, uključujući dostupnu i u elektroničkom obliku, u svrhu provedbe ovoga Zakona, uredbi i Odluke iz članka 1. ovoga Zakona te provedbenih propisa donesenih na temelju ovoga Zakona.
+(5) Subjekt u poslovanju s hranom, tvrdnje kojima se upućuje na preporuke nacionalnih udruženja liječničkih, nutricionističkih, kao i drugih sa zdravljem povezanih udruga iz članka 11. Uredbe (EZ) br. 1924/2006, može koristiti samo uz odobrenje iz članka 7. stavka 4. ovoga Zakona.
