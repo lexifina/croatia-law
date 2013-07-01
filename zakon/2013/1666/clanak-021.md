@@ -1,0 +1,6 @@
+# Članak 21.
+(1) Osigurana osoba u okviru prava na zdravstvenu zaštitu iz obveznoga zdravstvenog osiguranja ima pravo na teret sredstava Zavoda ostvariti lijekove koji su utvrđeni osnovnom i dopunskom listom lijekova Zavoda, pod uvjetima i na način utvrđen općim aktima Zavoda.
+(2) Iznimno, osigurana osoba kod koje liječenje iz medicinskih razloga nije moguće provoditi lijekovima utvrđenim osnovnom i dopunskom listom lijekova Zavoda može ostvariti pravo na lijek koji nije utvrđen tim listama lijekova, pod uvjetom da je potrebu korištenja lijeka odobrilo povjerenstvo za lijekove bolničke zdravstvene ustanove u kojoj se osigurana osoba liječi i to na teret sredstava bolničke zdravstvene ustanove koja je obvezna osigurati nabavu lijeka.
+(3) Pod uvjetima i na način utvrđen stavkom 2. ovoga članka osigurana osoba može ostvariti i pravo na lijek koji je utvrđen osnovnom i dopunskom listom lijekova Zavoda, ali za ostvarivanje kojeg osigurana osoba ne ispunjava medicinske indikacije utvrđene listama lijekova iz stavka 1. ovoga članka.
+(4) Doktor specijalist bolničke zdravstvene ustanove koji je osiguranoj osobi predložio liječenje lijekom iz stavka 2. i 3. ovoga članka obvezan je uputiti prijedlog povjerenstvu za lijekove bolničke zdravstvene ustanove.
+2. Ortopedska i druga pomagala te dentalna pomagala

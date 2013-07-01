@@ -1,0 +1,10 @@
+# Članak 20.
+(1) Osnovna i dopunska lista lijekova Zavoda iz članka 18. stavka 1. točke 4. ovoga Zakona sadrži lijekove koji imaju odobrenje za stavljanje u promet u Republici Hrvatskoj.
+(2) Liste lijekova Zavoda iz stavka 1. ovoga članka sadrže lijekove prema šifri anatomsko-terapijsko-kemijske (ATK) klasifikacije lijekova Svjetske zdravstvene organizacije, uobičajenom (nezaštićenom) nazivu lijeka, (zaštićenom) nazivu lijeka, nazivu proizvođača, nazivu nositelja odobrenja za stavljanje lijeka u promet, obliku lijeka i načinu primjene, cijeni lijeka za definiranu dnevnu dozu, cijeni pakiranja i jediničnog oblika lijeka te pravila propisivanja lijekova koji se mogu primjenjivati u liječenju u okviru zdravstvene zaštite iz obveznoga zdravstvenog osiguranja.
+(3) Osnovna lista lijekova Zavoda sadrži medikoekonomski najsvrhovitije lijekove za liječenje svih bolesti.
+(4) Dopunska lista lijekova sadrži lijekove s višom razinom cijene u odnosu na cijene iz osnovne liste lijekova, pri čemu Zavod osigurava pokriće troškova u visini najniže cijene ekvivalentnog lijeka utvrđenog osnovnom listom lijekova.
+(5) Dopunska lista lijekova Zavoda, osim pune cijene lijeka, obvezno sadrži iznos sudjelovanja u cijeni lijeka koju osigurava osigurana osoba Zavoda neposredno ili putem dopunskoga zdravstvenog osiguranja sukladno Zakonu o dobrovoljnom zdravstvenom osiguranju.
+(6) Način uvrštenja lijekova na osnovnu i dopunsku listu lijekova te način utvrđivanja cijene lijekova propisuje pravilnikom ministar nadležan za zdravlje, sukladno posebnom zakonu.
+(7) Osnovnu i dopunsku listu lijekova, uz prethodno pribavljeno mišljenje Hrvatske liječničke komore, donosi Upravno vijeće Zavoda.
+(8) Ako komora iz stavka 7. ovoga članka u roku od 8 dana, od dana kada je zaprimila zahtjev za mišljenjem, Zavodu ne dostavi mišljenje o osnovnoj, odnosno dopunskoj listi lijekova, smatra se da je dano pozitivno mišljenje.
+(9) Oblik i sadržaj recepata za lijekove s osnovne i dopunske liste lijekova Zavoda utvrdit će općim aktom Zavod u skladu s pravilnikom ministra nadležnog za zdravlje.

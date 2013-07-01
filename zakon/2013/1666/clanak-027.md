@@ -1,0 +1,3 @@
+# Članak 27.
+(1) Osigurane osobe, u skladu s ovim Zakonom, ostvaruju pravo na prekograničnu zdravstvenu zaštitu koja podrazumijeva zdravstvenu zaštitu koja se osiguranoj osobi osigurava u okviru prava iz obveznoga zdravstvenog osiguranja u ugovornim zdravstvenim ustanovama u Republici Hrvatskoj, a koju je osigurana osoba ostvarila kod ugovornih ili privatnih pružatelja zdravstvene zaštite na području drugih država članica.
+(2) Zdravstvena zaštita iz stavka 1. ovoga članka podrazumijeva planiranu zdravstvenu zaštitu za koju osigurana osoba mora pribaviti prethodno odobrenje Zavoda, planiranu specijalističko-konzilijarnu zdravstvenu zaštitu za koju nije potrebno pribaviti prethodno odobrenje Zavoda i neodgodivu zdravstvenu zaštitu.

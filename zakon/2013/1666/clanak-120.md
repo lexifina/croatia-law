@@ -1,0 +1,5 @@
+# Članak 120.
+(1) Status osigurane osobe utvrđuje Zavod na osnovi prijave na obvezno zdravstveno osiguranje koju prema odredbama ovoga Zakona podnosi obveznik plaćanja doprinosa, osigurana osoba kada je ona obveznik plaćanja doprinosa, odnosno pravna ili fizička osoba za osiguranu osobu.
+(2) Status osigurane osobe Zavod može utvrđivati po službenoj dužnosti na osnovi podataka dostavljenih od nadležnog tijela koje ima ovlasti prikupljanja i dostave podataka radi prijave na obvezno zdravstveno osiguranje.
+(3) Prijava na obvezno zdravstveno osiguranje, prijava promjene u obveznom zdravstvenom osiguranju te odjava s obveznoga zdravstvenog osiguranja podnose se u roku od osam dana od dana nastanka, promjene ili prestanka okolnosti na osnovi kojih se stječe ili prestaje status osigurane osobe.
+(4) Osobi za koju obveznik plaćanja doprinosa ne podnese prijavu, odnosno odjavu s obveznoga zdravstvenog osiguranja Zavod će rješenjem utvrditi status, odnosno prestanak statusa osigurane osobe po službenoj dužnosti.

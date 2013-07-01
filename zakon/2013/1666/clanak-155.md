@@ -1,0 +1,5 @@
+# Članak 155.
+(1) Zavod će opće akte iz članka 19. stavka 4., članka 36. stavka 1. točke 4., članka 38. stavka 3., članka 41. stavka 7., članka 45. stavka 6., članka 54. stavka 9., članka 61., članka 79. stavka 5., članka 119. stavka 6., članka 122. stavka 5., članka 126. stavka. 3., članka 127. stavka 3., članka 128. stavka 4. i članka 131. ovoga Zakona donijeti u roku od 90 dana od dana stupanja na snagu ovoga Zakona.
+(2) Zavod će opće akte iz članka 7. stavka 7., članka 10. stavka 3., članka 19. stavka 6., članka 20. stavaka 7. i 9., članka 33., članka 76., članka 86. stavka 2., članka 87. stavaka 1. i 2. ovoga Zakona donijeti u roku od 180 dana od dana stupanja na snagu ovoga Zakona, te u istom roku uskladiti ostale opće akte s odredbama ovoga Zakona.
+(3) Zavod će opće akte iz članka 26. stavka 4. i članka 28. stavka 3. ovoga Zakona donijeti najkasnije do 25. listopada 2013.
+(4) Zavod će opće akte iz članka 23. stavka 3., članka 24. stavka 3. i članka 25. ovoga Zakona donijeti najkasnije do 1. siječnja 2014.

@@ -1,0 +1,2 @@
+# Članak 131.
+Prava i obveze iz obveznoga zdravstvenog osiguranja za slučaj ozljede na radu i profesionalne bolesti koje obuhvaćaju i mjere specifične zdravstvene zaštite radnika, postupak utvrđivanja i priznavanja ozljede na radu, odnosno profesionalne bolesti, kao i opseg prava, uvjete i način njihovog ostvarivanja Zavod će pobliže utvrditi općim aktom, uz suglasnost ministra nadležnog za zdravlje.

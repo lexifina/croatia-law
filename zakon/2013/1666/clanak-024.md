@@ -1,0 +1,4 @@
+# Članak 24.
+(1) Osigurane osobe imaju pravo na pomagala iz članka 22. ovoga Zakona i dentalna pomagala iz članka 23. ovoga Zakona ako ispunjavaju uvjet prethodnoga obveznoga zdravstvenog osiguranja u Zavodu u trajanju od najmanje devet mjeseci neprekidno, odnosno 12 mjeseci s prekidima u posljednje dvije godine prije nastupa osiguranog slučaja.
+(2) Odredba stavka 1. ovoga članka ne odnosi se na osigurane osobe mlađe od 18 godina, osigurane osobe iz članka 12. stavaka 2. i 3. ovoga Zakona i druge osigurane osobe potpuno i trajno nesposobne za samostalan život i rad prema rješenju nadležnog tijela te na osigurane osobe kojima je ta zdravstvena zaštita potrebna zbog priznate ozljede na radu, odnosno profesionalne bolesti.
+(3) Osigurane osobe zdravstvenu zaštitu iz članaka 22. i 23. ovoga Zakona ostvaruju sukladno općem aktu Zavoda.

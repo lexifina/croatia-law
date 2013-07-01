@@ -1,0 +1,9 @@
+# Članak 45.
+(1) Osiguranik iz članka 39. točke 5. ovoga Zakona ima pravo na naknadu plaće za vrijeme privremene spriječenosti za rad radi njege osigurane osobe - djeteta do navršene sedme godine života u trajanju najviše do 60 dana za svaku utvrđenu bolest, a za dijete od sedam do 18. godine života najviše do 40 dana.
+(2) Iznimno od stavka 1. ovoga članka, ako je prema ocjeni doktora medicine primarne zdravstvene zaštite zdravstveno stanje člana obitelji - djeteta do 18. godine života takvo da duljina trajanja njege određena u stavku 1. ovoga članka neće biti dovoljna, potrebno trajanje njege određuje liječničko povjerenstvo Zavoda.
+(3) Pod djetetom iz stavaka 1. i 2. ovoga članka smatra se osim vlastitog djeteta i posvojeno dijete, pastorče, te dijete koje je na osnovi rješenja nadležnog tijela osiguraniku povjereno na čuvanje i odgoj.
+(4) Pravo na naknadu plaće za vrijeme privremene spriječenosti za rad radi njege osigurane osobe - djeteta iznad 18 godina života ili supružnika osiguranik ima za svaku utvrđenu bolest najviše do 20 dana.
+(5) Njega člana obitelji iz stavka 4. ovoga članka može se odobriti samo u slučaju teškog zdravstvenog stanja člana obitelji uzrokovanog bolešću, odnosno ozljedom.
+(6) Zdravstveno stanje člana obitelji iz stavka 5. ovoga članka, za kojeg se može odobriti njega osiguraniku, pobliže će utvrditi Zavod općim aktom, uz suglasnost ministra nadležnog za zdravlje.
+(7) Pravo iz stavaka 1. i 2. ovoga članka osiguranik može ostvariti pod uvjetom da drugi roditelj nije nezaposlen, odnosno ako živi sam s djetetom (npr. samohrani ili razvedeni roditelj), da istodobno ne koristi to pravo za drugo dijete te da za dijete kojemu je potrebna njega nema priznato pravo roditelja njegovatelja.
+(8) Osiguranik ima pravo privremenu spriječenost za rad radi njege člana obitelji koristiti i kao rad u polovici punog radnog vremena.

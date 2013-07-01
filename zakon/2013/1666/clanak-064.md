@@ -1,0 +1,3 @@
+# Članak 64.
+(1) Pravo na naknadu za troškove prijevoza ima i jedna osoba određena za pratitelja osigurane osobe iz članka 62. ovoga Zakona pod uvjetom da je izabrani doktor primarne zdravstvene zaštite utvrdio potrebu pratnje te da osigurana osoba kojoj je određen pratitelj ne ispunjava uvjete za korištenje sanitetskog prijevoza propisane pravilnikom ministra nadležnog za zdravlje iz članka 19. stavka 2. točke 18. ovoga Zakona i utvrđene općim aktom Zavoda.
+(2) Smatra se da je djeci do 18. godine života, kao i osiguranim osobama iz članka 12. stavaka 2. i 3. ovoga Zakona potrebna pratnja neovisno o tome ispunjavaju li uvjete za korištenje sanitetskog prijevoza.

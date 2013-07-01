@@ -1,0 +1,4 @@
+# Članak 75.
+(1) Osnovice i stope, način obračuna i rokovi plaćanja, visina, te obveznici obračunavanja i plaćanja doprinosa za obvezno zdravstveno osiguranje i obvezno zdravstveno osiguranje za slučaj ozljede na radu i profesionalne bolesti uređuju se posebnim zakonom, ako ovim Zakonom nije drukčije propisano.
+(2) Porezna uprava obvezna je do 20. dana u mjesecu za prethodni mjesec dostaviti Zavodu sve evidencije koje se odnose na uplatu doprinosa i ostalih prihoda obveznoga zdravstvenog osiguranja i obveznoga zdravstvenog osiguranja za slučaj ozljede na radu i profesionalne bolesti za koje je nadležna i za koje vodi evidenciju.
+(3) Stope doprinosa za obvezno zdravstveno osiguranje i obvezno zdravstveno osiguranje za slučaj ozljede na radu i profesionalne bolesti, a prema podacima Zavoda, utvrđuju se na način da se očekivanim prihodima od doprinosa i drugim prihodima pokriju očekivani izdaci.

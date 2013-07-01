@@ -1,0 +1,2 @@
+# Članak 161.
+Osiguranicima kojima je privremna nesposobnost utvrđena od dana stupanja na snagu Zakona o obveznom zdravstvenom osiguranju (»Narodne novine«, br. 150/08., 94/09., 153/09., 71/10., 139/10., 49/11., 22/12., 57/12., 90/12. - Odluka Ustavnog suda Republike Hrvatske, 123/12. i 144/12.), te kojima je do dana stupanja na snagu ovoga Zakona utvrđena invalidnost zbog opće, odnosno profesionalne nesposobnosti za rad, izabrani doktor utvrditi će prestanak privremene nesposobnosti od dana stupanja na snagu ovoga Zakona.

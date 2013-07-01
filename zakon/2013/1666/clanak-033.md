@@ -1,0 +1,3 @@
+# Članak 33.
+Standarde i normative zdravstvene zaštite iz obveznoga zdravstvenog osiguranja, uključujući popis vrsta i broja terapijskih i dijagnostičkih postupaka po osiguranoj osobi na godišnjoj razini, iznos potrebnih sredstava u skladu s osiguranim sredstvima, kao i način ostvarivanja prava osiguranih osoba na zdravstvenu zaštitu iz obveznoga zdravstvenog osiguranja, u pravilu, za svaku kalendarsku godinu donosi Upravno vijeće Zavoda, uz suglasnost ministra nadležnog za zdravlje, po prethodno pribavljenom mišljenju nadležnih komora.
+5. Zdravstvena zaštita koju ne osigurava obvezno zdravstveno osiguranje
