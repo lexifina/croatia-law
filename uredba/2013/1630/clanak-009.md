@@ -1,0 +1,22 @@
+# Članak 9.
+Stalni granični prijelazi za pogranični promet su:
+1. Svilaj,
+2. Gejkovac,
+3. Pašin Potok,
+4. Bogovolja,
+5. Kordunski Ljeskovac,
+6. Lička Kaldrma,
+7. Bili Brig,
+8. Aržano Pazar,
+9. Dvorine,
+10. Cera,
+11. Jovića Most,
+12. Sebišina,
+13. Slivno,
+14. Podprolog,
+15. Unka,
+16. Vukov Klanac,
+17. Imotica,
+18. Slano,
+19. Hrvatska Dubica,
+20. Gabela Polje.

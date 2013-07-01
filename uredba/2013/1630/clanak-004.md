@@ -1,0 +1,4 @@
+# Članak 4.
+Prijedlog za određivanje, odnosno otvaranje, zatvaranje i/ili prenamjenu vrste odnosno vremena otvorenosti graničnog prijelaza, Vladi Republike Hrvatske može podnijeti tijelo državne uprave i/ili jedinica područne (regionalne) samouprave.
+Prijedlog za određivanje, odnosno otvaranje ili prenamjenu vrste odnosno vremena otvorenosti graničnog prijelaza mora sadržavati podatke o lokaciji, vrsti odnosno namjeni graničnog prijelaza, gospodarskoj opravdanosti i učincima otvaranja ili prenamjene graničnog prijelaza, podatke o prometnoj povezanosti, količini robnog i putničkog prometa na tim pravcima, procjenu potrebnih sredstava za izgradnju ili obnovu objekata na graničnom prijelazu i prijedlog o načinu financiranja.
+Prijedlog za zatvaranje graničnog prijelaza mora sadržavati podatke o lokaciji, vrsti odnosno namjeni graničnog prijelaza, gospodarskim, prometnim i financijskim razlozima zatvaranja određenog graničnog prijelaza.

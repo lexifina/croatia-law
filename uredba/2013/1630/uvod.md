@@ -1,0 +1,1 @@
+Na temelju članka 12. stavka 3. Zakona o nadzoru državne granice (»Narodne novine«, br. 173/2003, 141/2006, 8/2007 - ispravak, 40/2007, 146/2008 i 130/2011), Vlada Republike Hrvatske je na sjednici održanoj 26. lipnja 2013. godine donijela
