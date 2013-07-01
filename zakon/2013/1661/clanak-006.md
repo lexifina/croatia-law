@@ -1,0 +1,6 @@
+## Prijelazna nacionalna zaštita
+# Članak 6.
+(1) Ministar na prijedlog Povjerenstva iz članka 5. stavka 2. ovoga Zakona, rješenjem iz članka 5. stavka 6. odobrava ZOI, ZOZP i ZTS u Republici Hrvatskoj, s učinkom od datuma kada je zahtjev podnesen Europskoj komisiji. Nacionalna zaštita prestaje s danom donošenja odluke o registraciji prema Uredbi (EU) br. 1151/2012 ili s danom povlačenja zahtjeva.
+(2) Ministar na prijedlog Povjerenstva iz članka 5. stavka 2. ovoga Zakona može odobriti prijelazno razdoblje zaštite iz stavka 1. ovoga članka u trajanju do najviše deset godina. Prijelazno razdoblje počinje od datuma kada je zahtjev podnesen Europskoj komisiji, pod uvjetom da su gospodarski subjekti zakonito stavili proizvode na tržište, koristeći nazive kontinuirano, najmanje pet godina prije podnošenja zahtjeva za zaštitu naziva nadležnom tijelu u Republici Hrvatskoj i da je to navedeno u nacionalnom postupku prigovora.
+(3) Podaci iz stavka 2. ovoga članka navode se u zahtjevu za registraciju oznake koji se dostavlja Europskoj komisiji.
+(4) Nazivi zaštićeni na nacionalnoj razini iz stavka 1. ovoga članka imaju jednaku zaštitu propisanu za registrirane oznake u članku 13. stavku 1. i članku 24. stavku 1. Uredbe (EU) br. 1151/2012.
