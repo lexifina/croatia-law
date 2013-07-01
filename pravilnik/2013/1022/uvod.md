@@ -1,0 +1,1 @@
+Na temelju članka 51. stavka 2. podstavka 6. te članka 28. stavka 1. Zakona o nadzoru državne granice (»Narodne novine«, broj: 173/2003., 141/2006., 8/2007. - ispravak., 40/2007., 146/2008. i 130/2011.) ministar unutarnjih poslova donosi
