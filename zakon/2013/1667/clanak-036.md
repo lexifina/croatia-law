@@ -1,0 +1,3 @@
+# Članak 36.
+(1) Novčanom kaznom u iznosu od 15.000,00 do 50.000,00 kuna kaznit će se za prekršaj zdravstvena ustanova, odnosno zdravstveni radnik privatne prakse ili drugi provoditelj zdravstvene zaštite koji ne uplati sredstva u državni proračun Republike Hrvatske u skladu s člankom 29. ovoga Zakona, te zdravstvena ustanova čiji je osnivač Republika Hrvatska, odnosno jedinica lokalne i područne (regionalne) samouprave koja ne postupi u skladu s člankom 30. stavkom 3. ovoga Zakona.
+(2) Za prekršaj iz stavka 1. ovoga članka kaznit će se novčanom kaznom u iznosu od 5.000,00 do 10.000,00 kuna i odgovorna osoba u pravnoj osobi i zdravstveni radnik privatne prakse.

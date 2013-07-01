@@ -1,0 +1,2 @@
+# Članak 25.
+Strancu koji nije obvezno zdravstveno osiguran ili mu se zdravstvena zaštita ne osigurava u skladu s propisima Europske unije ili međunarodnim ugovorom, osigurava se hitna medicinska pomoć, uključujući i hitni prijevoz u odgovarajuću zdravstvenu ustanovu te zdravstveno zbrinjavanje za vrijeme prijevoza, koji su nužni u otklanjanju neposredne opasnosti za život i zdravlje, prema standardu prava na zdravstvenu zaštitu iz obveznoga zdravstvenog osiguranja.

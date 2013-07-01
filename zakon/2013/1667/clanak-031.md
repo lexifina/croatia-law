@@ -1,0 +1,2 @@
+# Članak 31.
+Zdravstvena ustanova, odnosno zdravstveni radnik privatne prakse ili drugi provoditelj zdravstvene zaštite koji ima sa Zavodom sklopljen ugovor o provođenju zdravstvene zaštite iz obveznoga zdravstvenog osiguranja obvezan je termin pružanja zdravstvene zaštite iz članka 30. ovoga Zakona uskladiti s listom čekanja osiguranih osoba iz obveznoga zdravstvenog osiguranja, na način da termin pružanja zdravstvene zaštite ni na koji način ne utječe na redoslijed provođenja ugovorene zdravstvene zaštite sa Zavodom.

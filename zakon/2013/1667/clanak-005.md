@@ -1,0 +1,5 @@
+# Članak 5.
+(1) Stranac na stalnom boravku u Republici Hrvatskoj obvezno se zdravstveno osigurava prema jednoj od osnova osiguranja utvrđenih Zakonom o obveznom zdravstvenom osiguranju i stječe status osiguranika, odnosno osigurane osobe u obveznom zdravstvenom osiguranju te prava i obveze iz obveznog zdravstvenog osiguranja u opsegu utvrđenom tim Zakonom.
+(2) Stranac - član obitelji stranca iz stavka 1. ovoga članka koji zakonito boravi u Republici Hrvatskoj, a nema odobren stalni boravak, već je na privremenom boravku u Republici Hrvatskoj, obvezno se zdravstveno osigurava u skladu s ovim Zakonom, ako propisima Europske unije, odnosno međunarodnim ugovorom nije drukčije utvrđeno.
+(3) Stranac iz stavka 2. ovog članka koji se obvezno zdravstveno osigurava obvezan je podnijeti prijavu na obvezno zdravstveno osiguranje područnoj službi Hrvatskog zavoda za zdravstveno osiguranje (u daljnjem tekstu: Zavod), nadležnoj prema mjestu njegovog boravka u roku od osam dana od dana izvršnosti odluke o odobrenom privremenom boravku u Republici Hrvatskoj.
+2. Stranac na privremenom boravku

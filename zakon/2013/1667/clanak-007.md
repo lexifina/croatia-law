@@ -1,0 +1,2 @@
+# Članak 7.
+Stranac iz članka 6. stavka 1. ovoga Zakona stječe prava i obveze iz obveznoga zdravstvenog osiguranja pod uvjetom da je prethodno jednokratno uplatio doprinos za obvezno zdravstveno osiguranje na najnižu osnovicu za obračun doprinosa za obvezno zdravstveno osiguranje, i to od dana prestanka ranijeg statusa osigurane osobe u obveznom zdravstvenom osiguranju ili od dana prestanka osiguranja u drugoj državi koje osiguranje se ubraja u staž osiguranja u skladu s propisima Europske unije, odnosno međunarodnim ugovorom, a najduže za razdoblje od 12 mjeseci.

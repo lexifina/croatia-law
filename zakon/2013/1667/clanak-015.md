@@ -1,0 +1,2 @@
+# Članak 15.
+Stranac koji se u skladu s ovim Zakonom obvezan osigurati na obvezno zdravstveno osiguranje, ostvaruje prava i obveze iz obveznoga zdravstvenog osiguranja pod jednakim uvjetima i na istovjetan način kao i osigurane osobe koje su taj status stekle u skladu sa Zakonom o obveznom zdravstvenom osiguranju, te se na njega primjenjuju odredbe toga Zakona kojima su uređena prava iz obveznoga zdravstvenog osiguranja te uvjeti i način ostvarivanja prava i obveza iz obveznoga zdravstvenog osiguranja.

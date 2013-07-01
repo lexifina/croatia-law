@@ -1,0 +1,3 @@
+# Članak 27.
+(1) Račun iz članka 26. stavka 1. ovoga Zakona predstavlja ovršnu ispravu prema kojoj se troškovi za pruženu zdravstvenu uslugu mogu naplatiti od stranca u zemlji njegova prebivališta, boravišta ili državljanstva, odnosno od nadležnog tijela zemlje njegova prebivališta, boravišta ili državljanstva.
+(2) Naplatu troškova iz stavka 1. ovoga članka provodi zdravstvena ustanova, odnosno zdravstveni radnik privatne prakse ili drugi provoditelj zdravstvene zaštite, ako nisu uspjeli naplatiti račun za zdravstvenu uslugu u skladu s člankom 26. stavkom 2. ovoga Zakona, posredstvom ministarstva nadležnog za vanjske i europske poslove.
