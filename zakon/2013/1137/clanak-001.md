@@ -1,0 +1,3 @@
+## I. Uvodne odredbe
+# Članak 1.
+Ovim se Zakonom za provedbu Uredbe (EU) br. 211/2011 Europskog parlamenta i Vijeća od 16. veljače 2011. godine o građanskoj inicijativi (SL L 65, 11. 03. 2011.) (u daljnjem tekstu: Uredba (EU) br. 211/2011) i Provedbene uredbe Komisije (EU) br. 1179/2011 od 17. studenoga 2011. o tehničkim specifikacijama za sustav internetskog prikupljanja sukladno Uredbi (EU) br. 211/2011 Europskog parlamenta i Vijeća o građanskoj inicijativi (SL L 301, 18. 11. 2011.) (u daljnjem tekstu: Provedbena uredba (EU) br. 1179/2011) utvrđuju nadležna tijela, provjera i izdavanje potvrda o uspostavi sigurnosnih i tehničkih obilježja sustava internetskog prikupljanja izjava o potpori te postupak provjere i potvrđivanja izjava o potpori.
