@@ -1,0 +1,3 @@
+# Članak 35.
+(1) Do utvrđivanja ili odabira pravne osobe s javnim ovlastima i javne ustanove iz članka 3. stavka 2. ovoga Zakona te laboratorija iz članka 19. ovoga Zakona, poslove po ovome Zakonu nastavljaju obavljati dosadašnji provoditelji poslova ovlašteni prema Zakonu o uređenju tržišta poljoprivrednih proizvoda (»Narodne novine«, br. 149/09., 22/11. i 120/12.), Zakonu o vinu, Zakonu o hrani, Zakonu o stočarstvu ili drugim zakonima u slučajevima kad je provođenje poslova bilo predmet ovoga Zakona.
+(2) Evidencije ustrojene prema Zakonu o uređenju tržišta poljoprivrednih proizvoda, nastavljaju se primjenjivati ako nisu u suprotnosti s odredbama ovoga Zakona.

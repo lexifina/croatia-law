@@ -1,0 +1,28 @@
+## Inspekcijski nadzor
+# Članak 25.
+(1) Inspekcijski nadzor nad provedbom uredbi iz članka 1. ovoga Zakona koje se odnose na:
+– mjere tržnih intervencija uređene člankom 7. ovoga Zakona, osim posebnih mjera pomoći za sektor pčelarstva;
+– pravila vezana uz trženje i proizvodnju, u dijelu:
+– članka 8. stavka 2. podstavka 1. ovoga Zakona, u odnosu na tržišne standarde za voće i povrće, banane, živo bilje i cvijeće te sustava certifikacije u sektoru hmelja,
+– članka 8. stavka 3. ovoga Zakona u odnosu na pravila o proizvođačkim organizacijama i grupama, međugranskim (međustrukovnim, interprofesionalnim) organizacijama i operatorima na tržištu;
+– mjere trgovine s trećim zemljama uređene člankom 9. ovoga Zakona;
+– pravila tržišnog natjecanja uređena člankom 10. ovoga Zakona;
+– posebne odredbe za pojedine sektore uređene člankom 11. ovoga Zakona, u dijelu svih pravila i mjera osim pravila i mjera iz sektora vina;
+– mjere informiranja i promocije uređene člankom 12. ovoga Zakona;
+– odredbe članka 14. ovoga Zakona vezane uz financiranje zajedničke poljoprivrede politike;
+– odredbe članka 15. ovoga Zakona vezane uz kontrolu transakcija koju provode države članice u svezi sa provođenjem naknadne kontrole velikih korisnika potpora svih mjera organizacije tržišta poljoprivrednih proizvoda, osim korisnika izvoznih potpora,
+– mjere prikupljanja podataka i izvještavanja o cijenama poljoprivrednih proizvoda uređene člankom 17. ovoga Zakona i propisa donesenih na temelju njega, provode poljoprivredni inspektori Ministarstva.
+(2) Inspekcijski nadzor nad provedbom odredbi ovoga Zakona i propisa donesenih na temelju njega koje se odnose na pravila vezana uz trženje i proizvodnju, u dijelu članka 8. stavka 2. podstavka 1. ovoga Zakona, a u odnosu na tržišne standarde pri uvozu za voće i povrće, banane, provode fitosanitarni inspektori Ministarstva.
+(3) Inspekcijski nadzor nad provedbom odredbi ovoga Zakona i propisa donesenih na temelju njega koje se odnose na mjere tržnih intervencija uređene člankom 7. ovoga Zakona u dijelu posebnih mjera pomoći za sektor pčelarstva, pravila vezana uz trženje i proizvodnju, u dijelu članka 8. stavka 2. podstavka 1. ovoga Zakona, u odnosu na tržišne standarde za goveđe meso životinja starosti do 12 mjeseci, jaja i meso peradi, osim pri uvozu i maloprodaji, te uvjete za stavljanje na tržište vezane uz klasiranje u sektoru goveđeg mesa, svinjskog mesa, ovčjeg i kozjeg mesa, jaja i mesa peradi provode stočarski inspektori Ministarstva.
+(4) Inspekcijski nadzor nad provedbom odredbi ovoga Zakona i propisa donesenih na temelju njega koje se odnose na:
+– pravila vezana uz trženje i proizvodnju, u dijelu članka 8. stavka 2. podstavaka 2., 3. i 4. ovoga Zakona, u odnosu na:
+– oznake izvornosti, oznake zemljopisnog podrijetla i tradicionalnih izraza u sektoru vina;
+– pravilno označavanje i prezentiranje proizvoda iz sektora vina;
+– proizvodna pravila u sektoru vina kojih se moraju pridržavati proizvođači vina u pogledu korištenja grožđa za proizvodnju, enoloških postupaka i ograničenja kao i metoda analize, te punitelji i trgovci proizvoda iz sektora vina u postupanju sa vinom na tržištu i u skladištima;
+– posebne odredbe za pojedine sektore uređene člankom 11. ovoga Zakona, u dijelu svih pravila i mjera vezanih uz sektor vina;
+– pravila o jakim alkoholnim pićima i aromatiziranim vinima, aromatiziranim pićima na bazi vina i aromatiziranim koktelima na bazi vina uređena člankom 13. ovoga Zakona i propisa donesenih na temelju ovoga Zakona provode vinarski inspektori Ministarstva.
+(5) Inspekcijski nadzor nad provedbom odredbi ovoga Zakona i propisa donesenih na temelju njega koje se odnose na pravila vezana uz trženje i proizvodnju, u dijelu članka 8. stavka 2. podstavka 1. ovoga Zakona, u odnosu na tržišne standarde za mlijeko i mliječne proizvode, mazive masti, maslinovo ulje i stolne masline, prerađeno voće i povrće, osim pri uvozu i maloprodaji, provode inspektori za kakvoću hrane Ministarstva.
+(6) Inspekcijski nadzor pri uvozu nad provedbom odredbi ovoga Zakona i propisa donesenih na temelju njega koje se odnose na tržišne standarde za goveđe meso životinja starosti do 12 mjeseci, jaja i meso peradi, mlijeko i mliječne proizvode, provode granični veterinarski inspektori Ministarstva.
+(7) Inspekcijski nadzor pri uvozu nad provedbom odredbi ovoga Zakona i propisa donesenih na temelju njega koje se odnose na tržišne standarde za mlijeko i mliječne proizvode, mazive masti, maslinovo ulje i stolne masline, prerađeno voće i povrće, pravila vezana uz trženje i proizvodnju vina, jaka alkoholna pića i aromatizirana vina, aromatizirana pića na bazi vina i aromatizirane koktele na bazi vina provode granični sanitarni inspektori Ministarstva zdravlja.
+(8) Inspekcijski nadzor nad provedbom odredbi ovoga Zakona i propisa donesenih na temelju njega koje se odnose na sustav kontrole transakcija uređene člankom 15. ovoga Zakona, koju provode države članice vezane uz provođenje naknadne kontrole velikih korisnika izvoznih potpora provode nadležni inspektori Ministarstva financija.
+(9) Inspekcijski nadzor nad provedbom odredbi ovoga Zakona i propisa donesenih na temelju njega koje se odnose na tržišne standarde za goveđe meso životinja starosti do 12 mjeseci, jaja i meso peradi, maslinovo ulje i stolne masline, mlijeko i mliječne proizvode, mazive masti, te pravila vezana uz trženje i proizvodnju vina, jaka alkoholna pića i aromatizirana vina, aromatizirana pića na bazi vina i aromatizirane koktele na bazi vina u dijelu pravilnog označavanja i prezentiranja proizvoda te proizvodna pravila u odnosu na kvalitetu konačnog proizvoda u maloprodaji provode i nadležni inspektori Državnog inspektorata, u skladu s odredbama ovoga Zakona i posebnih propisa.

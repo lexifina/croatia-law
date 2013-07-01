@@ -1,0 +1,11 @@
+# Članak 22.
+(1) Agencija za plaćanja provodi administrativnu kontrolu i kontrolu na terenu za sve mjere i pravila za koje je nadležna, a koje prema potrebi uključuju i uzimanje uzoraka i slanje uzoraka na laboratorijsku analizu.
+(2) Administrativna kontrola zahtjeva za pojedine mjere uređenja tržišta obuhvaća kontrolu usklađenosti svih podnesenih zahtjeva sa zakonskim i podzakonskim propisima, odnosno odgovarajućim uredbama Europske unije.
+(3) U svrhu administrativne kontrole i provođenja mjera propisanih ovim Zakonom, Agencija za plaćanja vodi evidencije pravnih i fizičkih osoba s podacima o korisnicima, odnosno obveznicima pojedinih mjera.
+(4) Način vođenja evidencija korisnika iz stavka 3. ovoga članka, kao i uvjeti i obveze korisnika vezani uz upis u evidencije uređuju se propisima iz članka 3. stavaka 4. i 5. ovoga Zakona.
+(5) Provedba na terenu za sve podnesene zahtjeve provodi se na uzorku koji se odabire na podlozi analize rizika i elemenata reprezentativnosti uključujući i slučajni odabir koje za svaku godinu donosi Agencija za plaćanja.
+(6) Agencija za plaćanja će na temelju rezultata provedenih kontrola za svaku godinu ocijeniti učinkovitost parametara koji su korišteni pri analizi rizika u prethodnoj godini te prema potrebi unaprijediti metode analize rizika koje će biti korištene za iduću godinu.
+(7) Ako se u provođenju laboratorijskih analiza utvrdi da uzorak ne odgovara propisanim zahtjevima mjere, troškove uzorkovanja i laboratorijske analize uzoraka snosi korisnik mjera za uređenje tržišta, a ako uzorak odgovara propisanim zahtjevima, troškovi se podmiruju iz državnog proračuna Republike Hrvatske. Naknada vrijednosti uzetog uzorka ne nadoknađuje se za uzorke koji su uzeti za potrebe ispitivanja.
+(8) Iznimno od stavka 7. ovoga članka, troškove uzorkovanja i analize kod otkupa ili prije odobravanja potpore za proizvode iz članka 7. stavka 1. podstavka 1. ovoga Zakona snosi korisnik mjera uređenja tržišta.
+(9) U slučaju sprječavanja izvršenja kontrole na terenu, Agencija za plaćanja donosi odluku o odbijanju zahtjeva za stjecanje prava na mjere za uređenje tržišta.
+(10) Detaljni načini provedbe administrativne kontrole i kontrole na terenu propisani su uredbama iz članka 1. ovoga Zakona i propisima iz članka 3. stavka 4. ovoga Zakona.

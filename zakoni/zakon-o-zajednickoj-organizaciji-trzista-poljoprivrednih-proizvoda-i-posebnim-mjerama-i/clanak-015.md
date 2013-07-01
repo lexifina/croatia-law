@@ -1,0 +1,5 @@
+## VII. KONTROLA TRANSAKCIJA KOJU PROVODE DRŽAVE ČLANICE
+# Članak 15.
+(1) U cilju učinkovite zaštite financijskih interesa Europske unije, a posebno kako bi se provjerila istinitost i sukladnost poslovanja koje se financira iz EFJP i EPFRR, te kako bi se spriječile i sankcionirale nepravilnosti i vratila izgubljena financijska sredstva uslijed nepravilnosti ili nemara, uspostavljen je sustav kontrole transakcija koji provode države članice.
+(2) Pravne i fizičke osobe, korisnici mjera zajedničke poljoprivredne politike, koje su financirane u cjelini ili dijelu iz sredstava EFPJ i EPFRR, svoja prava i obveze u odnosu na sustav kontrole transakcija koju provode države članice, ostvaruju u skladu s pravilima utvrđenima za sustav kontrole transakcija koji provode države članice.
+(3) Detaljne odredbe kojih se moraju pridržavati pravne i fizičke osobe u pogledu poštivanja pravila sustava kontrole transakcija koju provode države članice propisane su Uredbom (EZ) br. 485/2008 i propisima iz članka 3. stavka 4. ovoga Zakona.

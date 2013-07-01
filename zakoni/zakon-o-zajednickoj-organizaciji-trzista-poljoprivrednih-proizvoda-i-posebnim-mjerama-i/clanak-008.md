@@ -1,0 +1,21 @@
+## III./1.2 Pravila vezana uz trženje i proizvodnju
+# Članak 8.
+(1) Pravilima vezanim uz trženje i proizvodnju uređuje se:
+– trženje i proizvodnja proizvoda,
+– pravila proizvođačkih grupa, proizvođačkih organizacija, međugranskih (međustrukovnih, interprofesionalnih) organizacija i operatora na tržištu uređena Poglavljima I. i II., Glave II., Dijela II., Uredbe (EZ) br. 1234/2007.
+(2) Pravilima trženja i proizvodnje za pojedine proizvode utvrđuju se:
+– tržišni standardi, sustav certifikacije i drugi zahtjevi i pravila kojih se pri trženju i proizvodnji moraju pridržavati pravne i fizičke osobe;
+– oznake izvornosti, oznake zemljopisnog podrijetla i tradicionalnih izraza u sektoru vina u svezi s pravima na stjecanje zaštite i primjenom na tržištu, pravima i obvezama nositelja zaštite u održavanju zaštite, te pravima i obvezama drugih pravnih i fizičkih osoba koje stavljaju na tržište proizvode iz sektora vina;
+– pravilno označavanje i prezentiranje proizvoda iz sektora vina, a u svezi s proizvodima koji su zaštićeni sukladno podstavku 2. ovoga stavka i proizvodima koji nemaju zaštitu, a kao uvjet da se proizvodi iz sektora vina mogu nalaziti na tržištu;
+– proizvodna pravila u sektoru vina kojih se moraju pridržavati proizvođači vina u pogledu korištenja grožđa za proizvodnju, enoloških postupaka i ograničenja, te metoda analize, kao i punitelji i trgovci proizvoda iz sektora vina u postupanju sa vinom na tržištu i u skladištima, a kao uvjet da se proizvodi iz sektora vina od strane proizvođača, punitelja i trgovaca mogu staviti na tržište;
+– sustav službenih kontrola, u proizvodnji i na tržištu u pogledu ispunjavanja uvjeta iz podstavaka 1., 2., 3. i 4. ovoga stavka.
+(3) Pravilima o proizvođačkim organizacijama i grupama, međugranskim (međustrukovnim, interprofesionalnim) organizacijama i operatorima na tržištu utvrđuju se pravo proizvođača i gospodarskih subjekata na udruživanje i formiranje:
+– proizvođačke organizacije, odnosno grupe, u određenim sektorima s pravom ostvarivanja potpore za udruživanje i rad s ciljem zajedničkog trženja proizvoda, uz uvjete poštivanja propisanih pravila uspostave i svih aktivnosti proizvođačke organizacije, odnosno grupe;
+– međugranske (međustrukovne, interprofesionalne) organizacije koja stječe poseban tržišni položaj i pravo nametanja pravila na tržištu, pod uvjetima da je: osnovana na inicijativu organizacija i udruženja u određenim sektorima, sastoji se od predstavnika gospodarskih djelatnosti povezanih s proizvodnjom, trgovinom i/ili preradom proizvoda, te djeluje na postizanju posebnog cilja, koji se naročito može odnositi na:
+1. koncentraciju i usklađivanje ponude te stavljanje na tržište proizvoda svojih članova;
+2. zajedničko prilagođavanje proizvodnje i prerade zahtjevima tržišta i poboljšanje proizvoda;
+3. promicanje racionalizacije i unapređenja proizvodnje i prerade;
+4. provođenje istraživanja o održivim proizvodnim metodama i razvoju tržišta.
+– operatora na tržištu u obliku organizacije gospodarskih subjekata na tržištu, koji imaju pravo na ostvarivanje potpore za udruživanje i rad uz uvjete poštivanja propisanih pravila uspostave i svih aktivnosti, a kao takvi mogu biti priznate proizvođačke organizacije, priznate međugranske (međustrukovne, interprofesionalne) organizacije ili priznate organizacije drugih gospodarskih subjekata u sektoru maslinovog ulja i stolnih maslina ili njihova udruženja.
+(4) Pravne i fizičke osobe svoja prava i obveze u poštivanju pravila trženja i proizvodnje proizvoda te pravila proizvođačkih organizacija, međugranskih (međustrukovnih, interprofesionalnih) organizacija i operatora na tržištu, kao i u svezi sa ostvarivanjem potpore za njihovu provedbu i ostalim propisanim zahtjevima, ostvaruju u skladu s pravilima trženja i proizvodnje proizvoda te pravilima proizvođačkih organizacija, međugranskih (međustrukovnih, interprofesionalnih) organizacija i operatora na tržištu.
+(5) Detaljne odredbe kojih se moraju pridržavati pravne i fizičke osobe u pogledu poštivanja pravila trženja i proizvodnje proizvoda te pravila proizvođačkih organizacija, međugranskih (međustrukovnih, interprofesionalnih) organizacija i operatora na tržištu propisane su odredbama Uredbe (EZ) br. 1234/2007 i propisima iz članka 3. stavaka 4. i 5. ovoga Zakona.
