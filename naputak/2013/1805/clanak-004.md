@@ -1,0 +1,3 @@
+# Članak 4.
+(1) GM hrana i/ili GM hrana za životinje odobrena na tržištu Europske unije mora biti pod stalnim praćenjem tijela nadležnih za provođenje inspekcije i prema potrebi mora se preispitivati, sukladno promjenama uvjeta korištenja i na temelju novih znanstvenih spoznaja, te nalaza tijela nadležnih za provođenje inspekcija.
+(2) Ministarstvo će uspostaviti postupak provođenja mjera iz stavka 1. ovoga članka i o rezultatima praćenja izvješćivati nadležna tijela u skladu s odredbama članka 3., 56. i 58 Zakona o genetski modificiranim organizmima (»Narodne novine« broj 70/2005, 137/2009 i 28/2013) i javnost Republike Hrvatske.
