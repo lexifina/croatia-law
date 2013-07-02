@@ -1,0 +1,2 @@
+# Članak 33.
+Skladišni postupci moraju osigurati odgovarajuće uvjete skladištenja te omogućavati uredno skladištenje raznih skupina lijekova, lijekova u postupku odobravanja, lijekova u karanteni te odobrenih, odbijenih, vraćenih ili povučenih lijekova kao i onih za koje se sumnja da su krivotvoreni a na način da se u svakom slučaju spriječi njihovo izlijevanje, uništenje, zagađenje i zamjena/miješanje. Lijekovi se ne smiju skladištiti izravno na pod osim ako su u pakiranju koja to dozvoljavaju (npr. boce medicinskog plina).

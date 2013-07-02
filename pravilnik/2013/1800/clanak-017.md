@@ -1,0 +1,3 @@
+# Članak 17.
+1) Lijekovi za koje su propisani posebni načini čuvanja (npr. lijekovi koji sadrže narkotike i psihotropne tvari skupine II i III, radiofarmaceutici, opasne tvari, lijekovi koji zahtijevaju posebne sigurnosne mjere zaštite od vatre i/ili eksplozije kao što su medicinski plinovi, lako hlapljive i zapaljive tvari) trebaju biti izdvojeni i čuvani u skladu s propisanim uvjetima. Načini čuvanja trebaju biti definirani pisanim postupcima i usklađeni s posebnim propisima.
+2) Djelatnost prometa radioaktivnim lijekovima mogu obavljati veleprodaje koje ispunjavaju uvjete utvrđene propisima o zaštiti od ionizirajućih zračenja.

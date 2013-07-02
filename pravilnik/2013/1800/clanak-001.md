@@ -1,0 +1,3 @@
+## OPĆE ODREDBE
+# Članak 1.
+Ovim Pravilnikom propisuju se zahtjevi dobre prakse u prometu na veliko lijekovima i ispitivanim lijekovima, uvjeti, dokumenti i podaci za davanje dozvole za obavljanje djelatnosti prometa na veliko lijekovima, za djelatnost posredovanja lijekova kao i postupak prijave fizičkih ili pravnih osoba sa sjedištem izvan Republike Hrvatske, koji u državi članici Europske unije ispunjavaju uvjete za obavljanje djelatnosti prometa lijeka na veliko ili posredovanja lijekova, a namjeravaju obavljati istu djelatnost na teritoriju Republike Hrvatske te davanje potvrde o provođenju dobre prakse u prometu lijekovima na veliko.

@@ -1,0 +1,2 @@
+# Članak 47.
+U obavijesti o povlačenju nositelja odobrenja u Republici Hrvatskoj, Agencije ili farmaceutskog inspektora treba biti naznačeno da li o povlačenju trebaju biti obaviješteni i krajnji korisnici. Takva poruka mora sadržavati zahtjev za neodgodivim povlačenjem lijeka s prodajnih polica i čuvanjem u strogo odijeljenim osiguranim prostorijama, do njihova povrata prema uputama nositelja odobrenja u Republici Hrvatskoj, Agencije ili farmaceutskog inspektora.

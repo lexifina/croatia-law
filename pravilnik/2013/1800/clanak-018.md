@@ -1,0 +1,3 @@
+# Članak 18.
+1) Lijekovi koji čekaju donošenje odluke o korištenju ili su povučeni iz prometa zbog oštećene zaštite integriteta pakiranja, oštećenog pakiranja ili kod kojih postoji sumnja na kontaminaciju ili krivotvorenje te vraćeni lijekovi moraju biti odvojeni, bilo fizički bilo kroz ekvivalentan elektronički sustav.
+2) Lijekovi povučeni iz prometa, lijekovi s odlukom o nekorištenju (odbijeni lijekovi), lijekovi s isteklim rokom valjanosti i krivotvoreni lijekovi moraju odmah biti strogo fizički odvojeni i čuvani u odvojenom i označenom prostoru da ne bi zabunom bili stavljeni na prodajne police i stavljeni u promet.

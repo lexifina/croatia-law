@@ -1,0 +1,2 @@
+# Članak 37.
+Veleprodaje su obvezne kupcima svaku pošiljku lijeka popratiti dokumentom (dostavnica, račun/otpremnica) koji sadrži datum, naziv i farmaceutski oblik lijeka, seriju lijeka, količinu koja se dostavlja te naziv i adresu dobavljača i primatelja tj. adresu stvarnih skladišnih objekata primatelja, ako se adresa razlikuje od adrese kupca/primatelja). Isti dokument treba sadržavati propisane uvjete transporta i skladištenja lijeka.

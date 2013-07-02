@@ -1,0 +1,12 @@
+# Članak 2.
+Ovim se Pravilnikom u pravni poredak Republike Hrvatske prenose sljedeće direktive:
+1. Direktiva Komisije 2005/28/EZ, od 8. travnja 2005. kojom se propisuju načela i detaljne smjernice dobre kliničke prakse za lijekove za primjenu kod ljudi koji su u fazi ispitivanja te zahtjevi za odobravanje proizvodnje i uvoza tih lijekova (SL L 91/13, 9. 4. 2005.),
+2. Direktiva 2001/83/EZ Europskog parlamenta i Vijeća, od 6. studenoga 2001., o Zakoniku Zajednice koji se odnosi na lijekove za primjenu kod ljudi (SL L 311, 28. 11. 2001.),
+3. Direktiva 2002/98/EZ Europskog parlamenta i Vijeća od 27. siječnja 2003. koja dopunjuje Direktivu 2001/83 Europskog parlamenta i Vijeća od 6. studenoga 2001. o Zakoniku Zajednice koji se odnosi na lijekove za primjenu kod ljudi (SL L 33/30, 8. 2. 2003.),
+4. Direktiva Komisije 2003/63/EZ, od 25. lipnja 2003., koja dopunjuje Direktivu 2001/83 Europskog parlamenta i Vijeća od 6. studenoga 2001. o Zakoniku Zajednice koji se odnosi na lijekove za primjenu kod ljudi (SL L 159, 27. 6. 2003.),
+5. Direktiva 2004/27/EZ Europskog parlamenta i Vijeća, od 31. ožujka 2004., kojom se izmjenjuje i dopunjuje Direktiva 2001/83/EZ o Zakoniku Zajednice koji se odnosi na lijekove za primjenu kod ljudi (SL L 136, 30. 4. 2004.),
+6. Direktiva 2008/29/EZ Europskog parlamenta i Vijeća od 11. ožujka 2008. koja dopunjuje Direktivu 2001/83 Europskog parlamenta i Vijeća od 6. studenoga 2001. o Zakoniku Zajednice koji se odnosi na lijekove za primjenu kod ljudi (SL L 81, 20. 3. 2008.),
+7. Direktiva 2009/53/EZ Europskog parlamenta i Vijeća od 18. lipnja 2009. koja dopunjuje Direktivu 2001/83 Europskog parlamenta i Vijeća od 6. studenoga 2001. o Zakoniku Zajednice koji se odnosi na lijekove za primjenu kod ljudi (SL L 168, 30. 3. 2009.),
+8. Direktiva Komisije 2009/120/EZ od 14. listopada 2009. godine koja dopunjuje Direktivu 2001/83 Europskog parlamenta i Vijeća od 6. studenoga 2001. o Zakoniku Zajednice koji se odnosi na lijekove za primjenu kod ljudi (SL L 242. 15. 9. 2009.),
+9. Direktiva 2010/84/EU Europskog parlamenta i Vijeća od 15. prosinca 2010. koja dopunjuje Direktivu 2001/83 Europskog parlamenta i Vijeća od 6. studenoga 2001. o Zakoniku Zajednice koji se odnosi na lijekove za primjenu kod ljudi (SL L 276, 21. 10. 2011.),
+10. Direktiva 2011/62/EU Europskog parlamenta i Vijeća od 8. lipnja 2011. koja dopunjuje Direktivu 2001/83 Europskog parlamenta i Vijeća od 6. studenoga 2001. o Zakoniku Zajednice koji se odnosi na lijekove za primjenu kod ljudi (SL L 174, 1. 7. 2011.).
