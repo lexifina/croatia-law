@@ -1,0 +1,4 @@
+# Članak 5.
+(1) Za proizvodnju regenerirane celulozne folije iz članka 3. podstavka c) ovoga Pravilnika do oblaganja premazom smiju se koristiti samo tvari ili skupine tvari u skladu s ograničenjima navedenim u Prilogu II. ovoga Pravilnika.
+(2) Za proizvodnju premaza kojim se oblaže regenerirana celulozna folija iz članka 1. ovoga Pravilnika smiju se koristiti samo tvari ili skupine tvari navedene u Uredbi Komisije (EU) br. 10/2011 od 14. siječnja 2011. o plastičnim materijalima i predmetima namijenjenim neposrednom dodiru s hranom (u daljnjem tekstu: Uredba (EU) br. 10/2011), u skladu s ograničenjima propisanim u toj Uredbi.
+(3) Ne dovodeći u pitanje stavak 1. ovoga članka, materijali i predmeti izrađeni od regenerirane celulozne folije iz članka 3. podstavka c) ovoga Pravilnika moraju biti u skladu sa zahtjevima koji su propisani Uredbom (EU) br. 10/2011.
