@@ -1,0 +1,6 @@
+## Uređenje prostora uz granicu i zaprječivanje komunikacija
+# Članak 32.
+(1) U postupku donošenja prostornih planova kojima se planira uređenje prostora koji seže 100 metara od granične crte, u svrhu osiguranja opće sigurnosti i preglednosti državne granice, nositelj izrade prostornog plana dužan je pribaviti mišljenje Ministarstva.
+(2) Prostorni plan ne može se donijeti ako bi se njegovim planskim rješenjima ugrozila opća sigurnost, preglednost i zaštita državne granice, obavljanje granične kontrole ili protočnost prometa preko državne granice.
+(3) U postupku izdavanja lokacijske dozvole, građevinske dozvole ili drugog akta za provođenje prostornog plana, odnosno akta kojim se dozvoljava građenje, za građenje u prostoru 100 metara od granične crte, nadležno upravno tijelo, odnosno ministarstvo nadležno za poslove graditeljstva i prostornog uređenja dužno je pribaviti posebne uvjete Ministarstva sukladno posebnom zakonu.
+(4) Lokacijska dozvola, građevinska dozvola ili drugi akt za provođenje prostornog plana odnosno akt kojim se dozvoljava građenje, za građenje u području 100 metara od granične crte, ne može se izdati ako bi građevina u tom području ometala obavljanje poslova nadzora državne granice i ako je to protivno odredbama međunarodnog ugovora.

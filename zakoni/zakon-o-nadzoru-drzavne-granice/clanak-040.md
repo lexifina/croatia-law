@@ -1,0 +1,2 @@
+# Članak 40.
+Radi učinkovitog obavljanja kontrole državne granice, a u svrhu olakšavanja slobodnog kretanja osoba i roba preko državne granice, uz istodobno omogućavanje bolje granične kontrole, zaštite državne granice u borbi protiv prekograničnog kriminala i nezakonitih migracija, u Ministarstvu je uspostavljen Nacionalni informacijski sustav za upravljanje državnom granicom, koji je sastavni dio Informacijskog sustava Ministarstva.

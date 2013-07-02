@@ -1,0 +1,7 @@
+## Obveze zapovjednika ili voditelja plovila
+# Članak 17.
+(1) Zapovjednik teretnog ili putničkog broda u međunarodnom prometu, koji uplovi u teritorijalno more Republike Hrvatske, dužan je najkraćim uobičajenim plovnim putem uploviti u luku u kojoj se nalazi pomorski granični prijelaz, radi obavljanja granične kontrole, osim u slučaju neškodljivog prolaska.
+(2) Zapovjednik jahte ili voditelj brodice namijenjene razonodi ili sportu u međunarodnom prometu, koji uplovi u teritorijalno more Republike Hrvatske, dužan je najkraćim plovnim putem uploviti u najbližu luku u kojoj se nalazi pomorski granični prijelaz, radi obavljanja granične kontrole, osim u slučaju neškodljivog prolaska.
+(3) Odredbe stavaka 1. i 2. ovoga članka odgovarajuće se primjenjuju i na međunarodni promet na unutarnjim vodama Republike Hrvatske, u slučaju namjere pristajanja uz obalu.
+(4) Pristajanje plovila u međunarodnom prometu izvan pomorskog ili riječnoga graničnog prijelaza u slučajevima predviđenim ovim Zakonom, osim u slučaju više sile, odobrava nadležna policijska postaja u suglasnosti s nadležnom lučkom kapetanijom i područnim carinskim uredom.
+(5) Zapovjednik teretnog ili putničkog broda kao i zapovjednik jahte ili voditelj brodice namijenjene razonodi ili sportu u međunarodnom prometu, dužni su, nakon obavljene granične kontrole na izlazu iz Republike Hrvatske, najkraćim uobičajenim odnosno najkraćim plovnim putem, isploviti iz unutarnjih morskih voda i teritorijalnog mora Republike Hrvatske.
