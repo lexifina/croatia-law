@@ -1,0 +1,7 @@
+## Osiguranje kvalitete
+# Članak 59.
+(1) Za potrebe članka 58. stavka 3. točke (a) Pravilnika, operater postrojenja ili operator zrakoplova dužni su osigurati da se sva odgovarajuća mjerna oprema redovito te prije korištenja umjerava, prilagođava i provjerava u odnosu na mjerne norme sljedive do međunarodnih mjernih normi, ako su dostupne, u skladu sa zahtjevima ovog Pravilnika i razmjerno uočenim rizicima.
+Ako se komponente mjernog sustava ne mogu umjeriti, operater postrojenja ili operator zrakoplova dužni su takve komponente naznačiti u planu praćenja i predložiti alternativne aktivnosti kontrole.
+Ako se utvrdi da oprema ne zadovoljava traženu razinu učinkovitosti, operater postrojenja ili operator zrakoplova dužni su poduzeti potrebne korektivne radnje.
+(2) U pogledu sustava za kontinuirano mjerenje emisija, operater je dužan provoditi osiguravanje kvalitete na temelju norme Osiguranje kvalitete rada automatskih mjernih sustava (HRN EN 14181), uključujući usporedna mjerenja sa standardnim referentnim metodama najmanje jednom godišnje, koje izvodi odgovarajuće osoblje.
+Ako takvo osiguranje kvalitete kao potrebne parametre za umjeravanje i provjeru učinkovitosti zahtijeva granične vrijednosti emisija (GVE), kao nadomjesna vrijednost koristi se godišnja prosječna satna koncentracija tog stakleničkog plina. Ako operater utvrdi neusklađenost sa zahtjevima osiguranja kvalitete, uključujući potrebu za ponovnim umjeravanjem, dužan je o tome obavijestiti Ministarstvo i bez odlaganja poduzeti korektivne radnje.

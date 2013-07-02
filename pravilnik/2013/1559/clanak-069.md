@@ -1,0 +1,15 @@
+## Izvješćivanje o poboljšanjima metodologije praćenja
+# Članak 69.
+(1) Svaki operater postrojenja ili operator zrakoplova dužan je redovito provjeravati može li se odabrana metodologija praćenja poboljšati.
+Operater postrojenja je dužan dostaviti Ministarstvu na odobrenje izvješće koje sadrži informacije iz stavaka 2. ili 3., ovog članka prema potrebi, unutar sljedećih rokova:
+(a) za postrojenja A kategorije, do 30. lipnja svake četiri godine;
+(b) za postrojenja B kategorije, do 30. lipnja svake dvije godine;
+(c) za postrojenja C kategorije, do 30. lipnja svake godine.
+Međutim, Ministarstvo temeljem mišljenja Povjerenstva može odrediti alternativni rok za podnošenje izvješća, ali nikako kasnije od 30. rujna iste godine.
+(2) Ako operater ne primjenjuje barem razine koje se zahtijevaju sukladno članku 26. stavkom 1. prvim podstavkom i članku 41. stavku 1. ovog Pravilnika, operater je dužan obrazložiti razloge zbog kojih primjena traženih razina točnosti nije tehnički izvediva ili bi dovela do neopravdano visokih troškova.
+Međutim, ako se utvrde dokazi da su mjere koje su potrebne za postizanje tih razina točnosti postale tehnički izvedive i više ne dovode do neopravdano visokih troškova, operater je dužan obavijestiti Ministarstvo o odgovarajućim izmjenama plana praćenja sukladno članku 15. ovog Pravilnika, te dostaviti prijedlog za provedbu tih mjera i njihov vremenski okvir.
+(3) Ako operater koristi nadomjesni pristup praćenja iz članka 22. ovog Pravilnika, operater je dužan dostaviti razloge zbog kojih primjena barem razine 1 za jedan ili više glavnih ili manjih tokova izvora nije tehnički izvediva ili bi dovela do neopravdano visokih troškova.
+Međutim, ako se utvrde dokazi da su mjere koje su potrebne za postizanje barem razine 1 za te tokove izvora postale tehnički izvedive i više ne dovode do neopravdano visokih troškova, operater je dužan obavijestiti Ministarstvo o odgovarajućim izmjenama plana praćenja sukladno članku 15. ovog Pravilnika, te dostavlja prijedlog za provedbu tih mjera i njihov vremenski okvir.
+(4) Ako su u izvješću o verifikaciji, sastavljenom sukladno člancima ovog Pravilnika koji uređuju verifikaciju, navedene neispravljene neusklađenosti ili preporuke za poboljšanje sukladno člancima 99., 100. i 101. ovog Pravilnika, operater postrojenja ili operator zrakoplova Agenciji dostavljaju na odobrenje izvješće do 30. lipnja godine u kojoj je verifikator izdao izvješće o verifikaciji. U tom izvješću operater postrojenja ili operator zrakoplova mora opisati kako je i kada ispravio ili planira ispraviti neusklađenosti koje je utvrdio verifikator te provesti preporučena poboljšanja.
+Ako je primjenjivo, takvo se izvješće može pridružiti izvješću iz stavka 1. ovog članka.
+Ako preporučena poboljšanja ne bi dovela do poboljšanja metodologije praćenja, operater postrojenja ili operator zrakoplova dužan je obrazložiti razloge koji su doveli do toga. Ako bi preporučena poboljšanja dovela do neopravdano visokih troškova, operater postrojenja ili operator zrakoplova dužan je podnijeti dokaze o neopravdanosti troškova.

@@ -1,0 +1,9 @@
+## Rješavanje pogrešaka i nesukladnosti
+# Članak 92.
+(1) Ako je verifikator tijekom verifikacije utvrdio pogreške ili nesukladnosti, dužan je o tome pravovremeno obavijestiti operatera postrojenja ili operatora zrakoplova i zahtijevati odgovarajuće ispravke.
+Operater postrojenja ili operator zrakoplova je dužan ispraviti sve pogreške ili nesukladnosti o kojima je obaviješten.
+(2) Verifikator je dužan u internoj verifikacijskoj dokumentaciji dokumentirati i označiti sve pogreške ili nesukladnosti koje je tijekom verifikacije ispravio operater postrojenja ili operator zrakoplova.
+(3) Ako operater postrojenja ili operator zrakoplova ne ispravi pogreške ili nesukladnosti o kojima ga je obavijestio verifikator u skladu sa stavkom 1. ovog članka prije nego što verifikator izda verifikacijsko izvješće, verifikator je dužan od operatera postrojenja ili operatora zrakoplova tražiti da objasni glavne razloge nesukladnosti ili pogreške kako bi ocijenio učinak tih nesukladnosti ili pogreške na podatke navedene u izvješću.
+Verifikator je dužan utvrditi imaju li neispravljene pogreške, pojedinačno ili u kombinaciji s drugim pogreškama, značajan učinak na podatke o ukupnim emisijama ili tonskim kilometrima navedene u izvješću. Kod ocjenjivanja značajnosti pogreške, verifikator je dužan uzeti u obzir veličinu i vrstu pogreške, kao i konkretne okolnosti u kojima su nastale.
+Verifikator je dužan ocijeniti utječu li neispravljene nesukladnosti, pojedinačno ili u kombinaciji s drugim nesukladnostima, na podatke navedene u izvješću i jesu li one uzrok značajnih pogreške.
+Verifikator može pogreške smatrati značajnima čak i ako su te pogreške, pojedinačno ili u kombinaciji s drugim pogreškama, ispod praga značajnosti iz članka 93., ako ih je takvima opravdano smatrati zbog veličine i vrste pogreške i konkretnih okolnosti u kojima nastaju.

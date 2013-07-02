@@ -1,0 +1,6 @@
+## Evidencija i dokumentacija
+# Članak 66.
+(1) Operater postrojenja ili operator zrakoplova dužan je čuvati zapise o svim bitnim podacima i informacijama, uključujući informacije iz Priloga IX. ovog Pravilnika, tijekom najmanje 10 godina.
+Dokumentirani i arhivirani podaci o praćenju moraju omogućiti verifikaciju izvješća o godišnjim emisijama ili verifikaciju podataka o tonskim kilometrima sukladno člancima ovog Pravilnika koji uređuju verifikaciju. Podaci koje prijavljuje operater postrojenja ili operator zrakoplova, a koji su sadržani u sustavu za elektroničko izvješćivanje i upravljanje podacima koji uspostavlja Ministarstvo, mogu se smatrati podacima koje čuva operater postrojenja ili operator zrakoplova, ako oni imaju pristup tim podacima.
+(2) Operater postrojenja ili operator zrakoplova dužan je osigurati da su odgovarajući dokumenti dostupni kada i gdje su potrebni radi aktivnosti protoka podataka te aktivnosti kontrole.
+Operater postrojenja ili operator zrakoplova dužan je na zahtjev staviti te dokumente na raspolaganje Ministarstvu kao i verifikatoru koji verificira izvješće o godišnjim emisijama ili izvješće o tonskim kilometrima sukladno člancima ovog Pravilnika koji uređuju verifikaciju.

@@ -1,0 +1,9 @@
+## Viša sila
+# Članak 68.
+(1) Ako operator zrakoplova zbog ozbiljnih i nepredvidivih okolnosti izvan njegove kontrole nije u mogućnosti dostaviti Agenciji verificirane podatke o tonskim kilometrima do traženog roka sukladno članku 8. Uredbe, taj operator zrakoplova dužan je Agenciji u smislu te odredbe dostaviti najbolje podatke o tonskim kilometrima koje je moguće dostaviti u tim okolnostima, uključujući prema potrebi podatke koji se temelje na pouzdanim procjenama.
+(2) Ako su ispunjeni uvjeti iz stavka 1. ovog članka, država članica za potrebe zahtjeva 94. Zakona i sukladno članku 8. Uredbe dostavlja Komisiji primljene podatke u pogledu predmetnog operatora zrakoplova uz pojašnjenje okolnosti zbog kojih nije dostupno izvješće verificirano sukladno člancima ovog Pravilnika koji uređuju verifikaciju.
+Komisija i Ministarstvo koriste te podatke za potrebe članka 95. Zakona.
+(3) Ako država članica dostavi Komisiji primljene podatke u pogledu operatora zrakoplova sukladno stavku 2. ovog članka, predmetni operator zrakoplova dužan je osigurati verifikaciju prijavljenih podataka o tonskim kilometrima sukladno člancima ovog Pravilnika koji uređuju verifikaciju što je prije moguće, a u svakom slučaju nakon prestanka okolnosti iz stavka 1. ovog članka.
+Operator zrakoplova je dužan bez odlaganja dostaviti Ministarstvu verificirane podatke.
+Ministarstvo prema potrebi temeljem mišljenja Povjerenstva smanjuje i objavljuje izmijenjenu dodjelu emisijskih jedinica za operatora zrakoplova sukladno članku 104. stavku 2. Zakona. Predmetna dodjela emisijskih jedinica se ne povećava. Ako je primjenjivo, operator zrakoplova vraća eventualni višak dodijeljenih emisijskih jedinica koje je primio sukladno članku 104. stavku 2. Zakona.
+(4) Ministarstvo je dužno uspostaviti učinkovite mjere kojima osigurava da predmetni operator zrakoplova izvršava svoje obveze sukladno stavku 3. ovog članka.

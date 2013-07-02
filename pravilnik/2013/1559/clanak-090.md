@@ -1,0 +1,5 @@
+## Uzorkovanje
+# Članak 90.
+(1) Kod provjere sukladnosti aktivnosti kontrole i postupaka iz točaka (b) i (c) članka 84. ili kod provjera iz članaka 85. i 86., verifikator može koristiti metode uzorkovanja koje su specifične za operatera postrojenja ili zrakoplova, pod uvjetom da je uzorkovanje opravdano na temelju analize rizika.
+(2) Ako verifikator tijekom verifikacije utvrdi nesukladnost ili pogreška, od operatera postrojenja ili operatora zrakoplova zahtijeva objašnjenje glavnih uzroka nesukladnosti ili pogreške kako bi procijenio utjecaj te nesukladnosti ili pogreške na podatke navedene u izvješću. Na temelju rezultata te procjene, verifikator je dužan odlučiti jesu li potrebne dodatne verifikacijske aktivnosti, treba li povećati uzorak i koji dio populacije podataka operater postrojenja ili operator zrakoplova treba ispraviti.
+(3) Verifikator u internoj verifikacijskoj dokumentaciji je dužan dokumentirati rezultate provjera iz članaka 84., 85., 86. i 87., uključujući i pojedinosti o dodatnim uzorcima.

@@ -1,0 +1,4 @@
+## Zahtjevi vezani uz razine
+# Članak 41.
+(1) Za svaki izvor emisije koji godišnje ispusti više od 5 000 tona CO2(e), ili doprinese više od 10 % od ukupnih godišnjih emisija iz postrojenja, ovisno o tome koja je vrijednost veća u smislu apsolutnih emisija, operater je dužan koristi najvišu razinu iz odjeljka 1. Priloga VIII. ovog Pravilnika. Za sve ostale izvore emisija operater je dužan koristiti najmanje jednu razinu nižu od najviše.
+(2) Sljedeća niža razina točnosti, ali minimalno razina točnosti 1, smije se koristiti samo ako operater može na zadovoljavajući način dokazati Ministarstvu u postupku odobravanja planova praćenja da korištenje razine koja se zahtijeva sukladno stavku 1. Ovog članka nije tehnički izvedivo ili dovodi do neopravdano visokih troškova, te da primjena metodologije na temelju proračuna uz korištenje razina točnosti iz članka 26. ovog Pravilnika nije tehnički izvediva ili dovodi do neopravdano visokih troškova.

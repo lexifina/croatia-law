@@ -1,0 +1,5 @@
+## Objedinjavanje podataka
+# Članak 44.
+(1) Operater je dužan računati satne prosjeke svih parametara koji su bitni za utvrđivanje emisija, uključujući koncentracije i tok dimnog plina, pomoću metodologije koja se temelji na mjerenju, koristeći sve podatkovne točke koje su dostupne za pojedini sat.
+Ako operater može osigurati podatke za kraća vremenska razdoblja bez dodatnih troškova, dužan je koristi ta razdoblja pri utvrđivanju godišnjih emisija sukladno članku 43. stavku 1. ovog Pravilnika.
+(2) Ako oprema za kontinuirano mjerenje pojedinog parametra u jednom dijelu sata ili referentnog razdoblja iz stavka 1. ovog članka nije bila pod nadzorom, ili nije bila dostupna ili nije bila u upotrebi, operater je dužan računati odgovarajuću prosječnu satnu vrijednost razmjerno preostalim podatkovnim točkama za taj sat ili kraće referentno razdoblje, pod uvjetom da je dostupno najmanje 80 % najvećeg mogućeg broja podatkovnih točaka za pojedini parametar. Ako je dostupno manje od 80 % najvećeg mogućeg broja podatkovnih točaka za pojedini parametar, primjenjuje se članak 45. stavci 2. do 4. ovog Pravilnika.

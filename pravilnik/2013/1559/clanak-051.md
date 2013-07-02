@@ -1,0 +1,6 @@
+## Podnošenje planova praćenja
+# Članak 51.
+(1) Operator zrakoplova je dužan dostaviti plan praćenja za praćenje i izvješćivanje o emisijama sukladno članku 12. ovog Pravilnika. Operator zrakoplova koji po prvi put obavlja zrakoplovnu djelatnost iz Priloga I. Uredbe koja se nije mogla predvidjeti četiri mjeseca prije obavljanja djelatnosti, dužan je Ministarstvu dostaviti plan praćenja bez odlaganja, ali najkasnije šest tjedana nakon obavljanja navedene djelatnosti. Operator zrakoplova Ministarstvu mora na zadovoljavajući način opravdati razloge zbog kojih se plan praćenja nije mogao dostaviti četiri mjeseca prije obavljanja djelatnosti. Ako operator zrakoplova nije pripisan Republici Hrvatskoj sukladno članku 92. stavku 2. zakona, operator zrakoplova dostavlja plan praćenja bez nepotrebnog odlaganja kada postanu dostupne informacije o nadležnom tijelu nadležne države članice.
+(2) Ako operator zrakoplova namjerava tražiti besplatnu dodjelu emisijskih jedinica sukladno članku 94. Zakona, dostavlja i plan praćenja za praćenje i izvješćivanje podataka o tonskim kilometrima. Taj se plan praćenja dostavlja najkasnije četiri mjeseca prije početka jednog od sljedećeg:
+(a) godine praćenja iz članka 94. Zakona za zahtjeve u skladu s tim člankom;
+(b) druge kalendarske godine razdoblja koje započinje 1. siječnja 2013. za zahtjeve sukladno članku 96. Zakona.

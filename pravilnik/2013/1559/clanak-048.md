@@ -1,0 +1,8 @@
+## Inherentni CO2
+# Članak 48.
+(1) Inherentni CO2 koji je prenesen u postrojenje, uključujući inherentni CO2 sadržan u prirodnom plinu ili otpadnom plinu što uključuje plin iz visokih peći i plin iz koksara, mora biti uključen u emisijski faktor za to gorivo.
+(2) Ako inherentni CO2 potječe iz djelatnosti obuhvaćenih Prilogom I. Uredbe, ali je kasnije prenesen izvan postrojenja kao dio goriva u drugo postrojenje i djelatnost obuhvaćenu navedenom Uredbom, ne ubraja se u emisije iz postrojenja u kojemu nastaje.
+Međutim, ako je inherentni CO2 ispušten ili prenesen izvan postrojenja u objekte koji nisu obuhvaćeni navedenom Uredbom, ubraja se u emisije iz postrojenja u kojemu nastaje.
+(3) Operateri mogu utvrditi količine inherentnog CO2 koji je prenesen izvan postrojenja i u postrojenju iz kojeg se prenosi i u postrojenju koje zaprima inherentni CO2. U tom slučaju količine prenesenog i primljenog inherentnog CO2 moraju biti identične.
+Ako količine prenesenog i primljenog inherentnog CO2 nisu identične, u izvješćima o emisijama postrojenja iz kojeg se prenosi i postrojenja koje zaprima koristi se aritmetička sredina obje izmjerene vrijednosti, ako se odstupanje između dvije vrijednosti može objasniti nesigurnošću mjernih sustava. U tom se slučaju izvješće o emisijama mora pozvati na usklađenje te vrijednosti.
+Ako se odstupanje između dvije vrijednosti ne može objasniti odobrenim rasponom nesigurnosti mjernih sustava, operateri postrojenja iz kojeg se prenosi i postrojenja koje zaprima usklađuju vrijednosti primjenom konzervativnih korekcija koje odobrava Ministarstvo u postupku odobravanja planova praćenja temeljem mišljenja Povjerenstva.

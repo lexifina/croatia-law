@@ -1,0 +1,13 @@
+## III. PRAĆENJE EMISIJA IZ STACIONARNIH POSTROJENJA
+## Kategorizacija postrojenja i tokova izvora
+# Članak 19.
+(1) Svaki operater postrojenja mora odrediti kategoriju svog postrojenja u skladu sa stavkom 2. i, ako je primjenjivo, svakog toka izvora u skladu sa stavkom 3. u svrhu praćenja emisija i utvrđivanja najmanjih zahtjeva za razine.
+(2) Operater postrojenja mora razvrstati svako postrojenje u jednu od sljedećih kategorija:
+(a) postrojenja A kategorije, u kojima su prosječne verificirane godišnje emisije u razdoblju trgovanja koje prethodi trenutačnom razdoblju trgovanja, uz iznimku CO2 iz biomase i prije oduzimanja prenesenog CO2, jednake ili manje od 50 000 tona CO2(e);
+(b) postrojenja B kategorije, u kojima su prosječne verificirane godišnje emisije u razdoblju trgovanja koje prethodi trenutačnom razdoblju trgovanja, uz iznimku CO2 iz biomase i prije oduzimanja prenesenog CO2, veće od 50 000 tona CO2(e) i jednake ili manje od 500 000 tona CO2(e);
+(c) postrojenja C kategorije, u kojima su prosječne verificirane godišnje emisije u razdoblju trgovanja koje prethodi trenutačnom razdoblju trgovanja, uz iznimku CO2 iz biomase i prije oduzimanja prenesenog CO2, veće od 500 000 tona CO2(e).
+(3) Operater postrojenja razvrstava svaki tok izvora, pri čemu uspoređuje tok izvora sa zbrojem apsolutnih vrijednosti fosilnog CO2 i CO2(e) koje odgovaraju svim tokovima izvora koji su uključeni u metodologije na temelju proračuna i svih emisija iz izvora emisija koji se prate koristeći metodologije na temelju mjerenja, prije oduzimanja prenesenog CO2, u jednu od sljedećih kategorija:
+(a) manji tokovi izvora, ako tokovi izvora koje je operater odabrao zajednički ispuste manje od 5 000 tona fosilnog CO2 godišnje, ili doprinesu manje od 10 %, do ukupnog maksimalnog doprinosa od 100 000 tona fosilnog CO2 godišnje, ovisno o tome koja je vrijednost veća u smislu apsolutnih vrijednosti;
+(b) tokovi izvora de-minimis, ako tokovi izvora koje je operater odabrao zajednički ispuste manje od 1 000 tona fosilnog CO2 godišnje, ili doprinesu manje od 2 %, do ukupnog maksimalnog doprinosa od 20 000 tona fosilnog CO2 godišnje, ovisno o tome koja je vrijednost veća u smislu apsolutnih vrijednosti;
+(c) glavni tokovi izvora, ukoliko se tokovi izvora ne mogu svrstati niti u jednu od kategorija iz točaka (a) i (b).
+(4) Ako prosječne verificirane godišnje emisije iz postrojenja u razdoblju trgovanja koje prethodi trenutačnom razdoblju trgovanja nisu dostupne ili su netočne, operater za utvrđivanje kategorije postrojenja mora koristiti konzervativnu procjenu prosječnih godišnjih emisija, uz iznimku CO2 iz biomase i prije oduzimanja prenesenog CO2.

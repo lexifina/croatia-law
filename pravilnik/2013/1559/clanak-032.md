@@ -1,0 +1,7 @@
+## Faktori proračuna koji se temelje na analizi
+# Članak 32.
+(1) Operater je dužan osigurati da se sve analize, uzorkovanje, umjeravanja i provjere u svrhu utvrđivanja faktora proračuna izvode koristeći metode koje se temelje na odgovarajućim HR EN normama.
+Ako takve norme nisu dostupne, metode se temelje na odgovarajućim HRN ISO normama ili u skladu s nacionalnim, europskim ili međunarodnim normama. Ako ne postoje primjenjive objavljene norme, moraju se koristiti odgovarajući nacrti normi, smjernice za najbolju industrijsku praksu, ili druge znanstveno dokazane metodologije kojima se ograničavaju odstupanja pri uzorkovanju i mjerenju.
+(2) Ako se za utvrđivanje emisija koriste kontinuirani plinski kromatografi ili ekstraktivni ili ne-ekstraktivni analizatori plina, operater je dužan od Ministarstva u postupku odobravanja planova praćenja ishoditi odobrenje temeljem mišljenja Povjerenstva za uporabu takve opreme. Oprema se mora koristiti samo u pogledu podataka o sastavu plinovitih goriva i materijala. U smislu minimalnog osiguranja kvalitete, operater je dužan osigurati izvođenje početnog potvrđivanja instrumenta, koje se ponavlja svake godine.
+(3) Rezultat analize moraju se koristi samo za razdoblje dostave ili šaržu goriva ili materijala za koju su uzeti uzorci, i za koju su uzorci bili namijenjeni kao reprezentativni.
+Za utvrđivanje specifičnog parametra operater je dužan koristiti rezultate svih analiza koje su obavljene u pogledu tog parametra.
