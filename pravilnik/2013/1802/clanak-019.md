@@ -1,0 +1,3 @@
+# Članak 19.
+(1) Uz zahtjev za davanje odobrenja za stavljanje u promet lijeka sukladno članku 32. Zakona podnositelj zahtjeva obvezan je priložiti Modul 1, 2, 3, 4 i/ili 5 koji sadrže podatke propisane Zakonom i ovim Pravilnikom. Modul 4 i/ili Modul 5 trebaju sadržavati kombinaciju izvješća o provedenim odgovarajućim nekliničkim i/ili kliničkim ispitivanjima.
+(2) Ako podnositelj zahtjeva temeljem provedenih ispitivanja iz stavka 1. ovoga članka ne može potvrditi jednaku sigurnost primjene i/ili djelotvornost djelatne tvari referentnog lijeka i njezine soli, estera ili derivata koji su sadržani kao djelatna tvar lijeka za koji se podnosi zahtjev za stavljanje lijeka u promet, sol, ester ili derivat djelatne tvari referentnog lijeka smatrat će se novom djelatnom tvari.

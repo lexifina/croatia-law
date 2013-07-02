@@ -1,0 +1,6 @@
+# Članak 5.
+(1) U pripremi dokumentacije o lijeku podnositelj zahtjeva obvezan je slijediti opća poglavlja, posebne i opće monografije Europske farmakopeje.
+(2) U pripremi dokumentacije o lijeku podnositelj zahtjeva treba uzeti u obzir smjernice Europske agencije za lijekove (European Medicines Agency u daljnjem tekstu: EMA), Europske komisije, Koordinacijske grupe za MRP i DCP (Coordination Group for Mutual Recognition and Decentralised Procedure, Human Medicinal Products, u daljnjem tekstu: CMD(h)) i međuvladinog tijela (Heads of Medicines Agencies u daljnjem tekstu: HMA).
+(3) Svi značajni podaci za ocjenu dokumentaciju o lijeku, bilo pozitivni ili negativni, moraju biti uključeni u dokumentaciju o lijeku.
+(4) U dokumentaciji o lijeku potrebno je navesti sve bitne pojedinosti o nepotpunim ili prekinutim nekliničkim ili kliničkim ispitivanjima lijeka koja se odnose na terapijske indikacije koje nisu prijavljene u dokumentaciji o lijeku.
+(5) U cilju praćenja i ocjene omjera rizika i koristi primjene lijeka sve nove informacije koje nisu sadržane u zahtjevu za davanje odobrenja za stavljanje lijeka u promet kao i sve informacije o sigurnosti primjene lijeka nositelj odobrenja za stavljanje lijeka u promet obvezan je dostaviti Agenciji za lijekove i medicinske proizvode (u daljnjem tekstu: Agencija).

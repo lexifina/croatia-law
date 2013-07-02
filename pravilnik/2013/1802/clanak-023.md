@@ -1,0 +1,3 @@
+# Članak 23.
+(1) Uz zahtjev za davanje odobrenja za stavljanje u promet lijeka sukladno članku 36. Zakona podnositelj zahtjeva obvezan je priložiti Module 1 i 2 koji sadrže podatke propisane Zakonom i ovim Pravilnikom, uključujući izvornik izjave odgovorne osobe nositelja odobrenja za stavljanje u promet lijeka u Republici Hrvatskoj o dozvoli korištenja farmaceutske, nekliničke i kliničke dokumentacije o lijeku.
+(2) Nositelj odobrenja za lijek kojem je odobrenje dano temeljem članka 36. Zakona obvezan je Agenciji prijaviti sve izmjene odobrenja koje su Agenciji prijavljene za lijek za kojeg je dostavljena izjava iz stavka 1. ovog članka.

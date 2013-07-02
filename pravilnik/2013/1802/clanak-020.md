@@ -1,0 +1,5 @@
+# Članak 20.
+(1) Uz zahtjev za davanje odobrenja za stavljanje u promet lijeka sukladno članku 33. Zakona podnositelj zahtjeva obvezan je priložiti Module 1, 2, 3, 4 i 5 koji sadrže podatke propisane Zakonom i ovim Pravilnikom. Modul 4 i Modul 5 trebaju sadržavati dodatne podatke o provedenim nekliničkim i kliničkim ispitivanjima u svrhu dokazivanja sličnosti dvaju bioloških lijekova.
+(2) Osim dokumentacije iz stavka 1. ovoga članka, opseg i vrstu dodatnih podataka (npr. toksikološke i ostale nekliničke te odgovarajuće kliničke podatke) koji se moraju dostaviti, odredit će Agencija u postupku ocjene pojedinog zahtjeva, u skladu s odgovarajućim znanstvenim saznanjima.
+(3) Zbog različitosti bioloških lijekova, podnositelj zahtjeva obvezan je u Modulima 4 i 5 dostaviti podatke o provedenim ispitivanjima uzimajući u obzir specifične karakteristike svakog biološkog lijeka.
+(4) U slučaju kada referentni lijek ima više od jedne indikacije, sigurnost primjene i djelotvornost biosličnog lijeka mora biti obrazložena/opravdana ili, ako je potrebno, dokazana posebno za svaku navedenu indikaciju.
