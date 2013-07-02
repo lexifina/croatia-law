@@ -1,0 +1,2 @@
+# Članak 36.
+Nakon zaprimanja prijave nuspojave zabilježene u Republici Hrvatskoj sukladno članku 145. Zakona Agencija je obvezna postupiti u skladu sa Smjernicom o dobroj farmakovigilancijskoj praksi (GVP) Modul VI - Postupci i izvještavanje o nuspojavama lijekova (Guideline on good pharmacovigilance practices (GVP) Module VI - Management and reporting of adverse reactions to medicinal products).

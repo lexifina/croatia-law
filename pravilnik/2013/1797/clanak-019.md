@@ -1,0 +1,10 @@
+# Članak 19.
+(1) Odgovorna osoba za farmakovigilanciju nositelja odobrenja za stavljanje lijeka u promet u Republici Hrvatskoj (u daljnjem tekstu: lokalna odgovorna osoba) mora ispunjavati uvjete iz članka 3. točke 58. Zakona i članka 20. i 21. ovoga Pravilnika.
+(2) Lokalna odgovorna osoba mora imati prebivalište u Republici Hrvatskoj.
+(3) Ako lokalna odgovorna osoba nije zaposlenik nositelja odobrenja, nositelj odobrenja treba imenovati ugovornu lokalnu odgovornu osobu, koja mora imati registriranu djelatnost za praćenje nuspojava, odnosno poslova farmakovigilancije ili biti u radnom odnosu u pravnoj osobi koja u Republici Hrvatskoj ima registriranu djelatnost za praćenje nuspojava, odnosno poslova farmakovigilancije.
+(4) Ako lokalna odgovorna osoba nije doktor medicine, mora imati dostupnog doktora medicine, što mora biti odgovarajuće dokumentirano.
+(5) Nositelj odobrenja imenuje jednu lokalnu odgovornu osobu za svaki farmakovigilancijski sustav koji se odnosi na lijekove koji imaju odobrenje za stavljanje u promet u Republici Hrvatskoj te je obvezan:
+- predati presliku obavijesti Agencije o odobrenju lokalne odgovorne osobe najkasnije u trenutku stavljanja lijeka na tržište u Republici Hrvatskoj za koji je odobrenje dano centraliziranim postupkom, odnosno
+- predati presliku obavijesti Agencije o odobrenju lokalne odgovorne osobe, odnosno predati dokaz o podnošenju zahtjeva za odobrenjem lokalne odgovorne osobe prije podnošenja zahtjeva za davanje odobrenja za stavljanje lijeka u promet u Republici Hrvatskoj nacionalnim postupkom, postupkom međusobnog priznavanja i decentraliziranim postupkom.
+(6) Iznimno od stavka 5. ovoga članka jedna lokalna odgovorna osoba može biti imenovana za više farmakovigilancijskih sustava jednog nositelja odobrenja, pod uvjetom da je u stanju ispuniti sve obveze.
+(7) Jedna lokalna odgovorna osoba može za više nositelja odobrenja voditi razdvojene farmakovigilancijske sustave ili farmakovigilancijske sustave koji imaju zajedničke dijelove, pod uvjetom da je u stanju ispuniti sve obveze.

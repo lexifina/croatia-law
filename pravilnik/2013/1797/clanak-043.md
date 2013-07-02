@@ -1,0 +1,4 @@
+# Članak 43.
+(1) Agencija može na temelju značajnosti sigurnosnih izmjena u uputi o lijeku i/ili sažetku opisa svojstava lijeka u postupku odobrenja sigurnosne izmjene/a odrediti rok unutar kojeg je nositelj odobrenja obvezan distribuirati izmijenjenu uputu o lijeku i/ili sažetak opisa svojstava lijeka.
+(2) Ako Agencija ne odredi drugačije nositelj odobrenja obvezan je izmijenjenu uputu o lijeku s novim sigurnosnim podacima priložiti pakiranju lijeka kod puštanja u promet prve nove serije lijeka nakon prihvaćanja, a najkasnije 6 mjeseci od dana zaprimanja obavijesti Agencije o odobrenju sigurnosne/ih izmjene/a.
+(3) Ako Agencija ne odredi drugačije, nositelj odobrenja je obvezan osigurati dostupnost izmijenjenog sažetka opisa svojstava lijeka zdravstvenim radnicima nakon što je Agencija prihvatila sigurnosnu izmjenu/e, najkasnije 7 dana od dana zaprimanja obavijesti Agencije o odobrenju sigurnosne/ih izmjene/a.

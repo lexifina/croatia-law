@@ -1,0 +1,3 @@
+# Članak 1.
+(1) Ovim Pravilnikom utvrđuju se zahtjevi, postupci i način djelovanja zdravstvenih radnika, podnositelja zahtjeva za davanje odobrenja za stavljanje lijeka u promet (u daljnjem tekstu: podnositelj zahtjeva), nositelja odobrenja za stavljanje lijeka u promet (u daljnjem tekstu: nositelj odobrenja), nositelja odobrenja za paralelni uvoz, uvoznika, veleprodaja, naručitelja kliničkog ispitivanja ili predstavnika naručitelja kliničkog ispitivanja i Agencije za lijekove i medicinske proizvode (u daljnjem tekstu: Agencija) u području farmakovigilancije, a u svrhu sigurne primjene lijeka.
+(2) Ovim Pravilnikom uređuje se farmakovigilancijski sustav radi otkrivanja, procjene, razumijevanja, prevencije i postupanja u slučaju nuspojava lijeka.

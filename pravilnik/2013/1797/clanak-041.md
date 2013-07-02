@@ -1,0 +1,2 @@
+# Članak 41.
+Radi usklađivanja ocjene ozbiljnosti nuspojava Agencija na svojim internetskim stranicama objavljuje popis nuspojava koje se smatraju ozbiljnima, a nisu jednoznačno određene kriterijima ozbiljnosti sukladno Smjernici o dobroj farmakovigilancijskoj praksi (GVP) Modul VI - Postupci i izvještavanje o nuspojavama lijekova (Guideline on good pharmacovigilance practices (GVP) Module VI - Management and reporting of adverse reactions to medicinal products).

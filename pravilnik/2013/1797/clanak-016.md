@@ -1,0 +1,2 @@
+# Članak 16.
+Ako zdravstveni radnik sudjeluje u svojstvu ispitivača u neintervencijskom ispitivanju lijeka, obvezan je prijaviti sve sumnje na nuspojave lijeka i cjepiva u skladu sa Smjernicom o dobroj farmakovigilancijskoj praksi (GVP) Modul VI - Postupci i izvještavanje o nuspojavama lijekova (Guideline on good pharmacovigilance practices (GVP) Module VI - Management and reporting of adverse reactions to medicinal products).

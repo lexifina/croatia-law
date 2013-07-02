@@ -1,0 +1,3 @@
+# Članak 4.
+(1) Farmakovigilancijski sustav iz članka 1. stavka 2. ovoga Pravilnika obuhvaća i prikupljanje i svih drugih informacija radi njihove procjene i znanstvenog vrednovanja, a koje mogu imati utjecaj na procjenu odnosa koristi i rizika primjene lijeka.
+(2) Farmakovigilancijski sustav nositelja odobrenja i Agencije potrebno je uspostaviti i održavati u skladu sa Smjernicom o dobroj farmakovigilancijskoj praksi (GVP) Modul I -Farmakovigilancijski sustavi i njihovi sustavi upravljanja kakvoćom (Guideline on good pharmacovigilance practices (GVP) Module I - Pharmacovigilance systems and their quality systems).

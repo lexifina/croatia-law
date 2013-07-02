@@ -1,0 +1,5 @@
+# Članak 26.
+(1) Nositelj odobrenja je obvezan prijaviti sve sumnje na nuspojave lijekova iz prometa sukladno članku 151. Zakona.
+(2) Nositelj odobrenja obvezan je prikupljanje, ocjenu i prijavljivanje sumnji na ozbiljne i ne-ozbiljne nuspojave lijekova i cjepiva, te izradu ICSR-a provoditi sukladno Smjernici o dobroj farmakovigilancijskoj praksi (GVP) Modul VI - Postupci i izvještavanje o nuspojavama lijekova (Guideline on good pharmacovigilance practices (GVP) Module VI - Management and reporting of adverse reactions to medicinal products).
+(3) Ako se procijeni da između događaja/simptoma i lijeka ne postoji povezanost događaj/simptom se vodi kao štetni događaj i ne prijavljuje se Agenciji.
+(4) Nositelj odobrenja obvezan je aktivnosti u vezi s utvrđivanjem novih rizika ili promjenom poznatih rizika lijekova (detekcija signala) provoditi u skladu sa Smjernicom o dobroj farmakovigilancijskoj praksi (GVP) Modul IX - Postupanje sa signalom (Guideline on good pharmacovigilance practices (GVP) Module IX - Signal management).

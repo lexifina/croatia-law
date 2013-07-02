@@ -1,0 +1,3 @@
+# Članak 50.
+(1) Naručitelj kliničkog ispitivanja ili predstavnik naručitelja kliničkog ispitivanja obveze u svezi Izvješća o neškodljivosti lijeka u razvoju (DSUR) obvezan je provesti sukladno Smjernici ICH E2F.
+(2) Izvješća o neškodljivosti lijeka u razvoju (DSUR) naručitelj kliničkog ispitivanja ili predstavnik naručitelja kliničkog ispitivanja obvezan je dostaviti u elektroničkom obliku na CD-u, uz pisani podnesak u kojem je obvezan navesti naslove i oznake plana/planova kliničkih ispitivanja s ispitivanim lijekom u Republici Hrvatskoj, dok se ne uspostavi elektronički sustav prijavljivanja.

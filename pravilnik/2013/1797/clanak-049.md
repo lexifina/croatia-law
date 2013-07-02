@@ -1,0 +1,2 @@
+# Članak 49.
+Naručitelj kliničkog ispitivanja ili predstavnik naručitelja kliničkog ispitivanja obvezan je postupke u svezi otkrivanja slijepe šifre terapije,provesti sukladno Detaljnim smjernicama o prikupljanju, verifikaciji i prikazu prijava štetnih događaja/nuspojava iz kliničkih ispitivanja za lijekove koji se primjenjuju u ljudi (‘CT-3’) 2011/C 172/01 (Detailed guidance on the collection, verification and presentation of adverse event/reaction reports arising from clinical trials on medicinal products for human use (‘CT-3’) 2011/C 172/01).
