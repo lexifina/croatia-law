@@ -1,0 +1,1 @@
+Pravilnik o uvjetima i načinu utvrđivanja zahtjeva dobre proizvođačke prakse i dobre prakse u prometu na veliko djelatnih tvari te o postupku upisa u očevidnik proizvođača, uvoznika i veleprodaja djelatnih tvari i davanju potvrde o provođenju dobre proizvođačke prakse

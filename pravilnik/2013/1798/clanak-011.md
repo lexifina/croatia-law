@@ -1,0 +1,2 @@
+# Članak 11.
+Svi sudionici u prometu djelatnih tvari na veliko obvezni su uspostaviti sustav kakvoće koji uključuje načela upravljanja rizicima kakvoće sa jasno definiranim i u cijelosti dokumentiranim odgovornostima, postupcima i mjerama upravljanja rizicima za aktivnosti koje obavljaju, s aktivnim učešćem rukovodećeg osoblja kao i radnika pratećih službi, te prikladnim prostorima i opremom u cilju osiguranja kakvoće djelatne tvari.
