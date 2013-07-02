@@ -1,0 +1,2 @@
+# Članak 10.
+Troškove provođenja monitoringa u skladu s ovim Pravilnikom snosi subjekt u poslovanju s hranom koji stavlja hranu i dodatke prehrani na tržište, koji dostavlja obavijest za uvrštavanje u program monitoringa ili podnosi zahtjev za donošenje rješenja o uvrštavanju u program monitoringa, u iznosu utvrđenom odlukom ministra zdravlja iz članka 6. stavak 4. Zakona o prehrambenim i zdravstvenim tvrdnjama te hrani obogaćenoj nutrijentima.

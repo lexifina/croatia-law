@@ -1,0 +1,3 @@
+## I. OPĆE ODREDBE
+# Članak 1.
+Ovim se Pravilnikom u smislu odredbe članka 26. Uredbe (EZ) br. 1924/2006 Europskoga parlamenta i Vijeća od 20. prosinca 2006. o prehrambenim i zdravstvenim tvrdnjama (SL L 404, 30. 12. 2006.), odredbe članka 15. Uredbe (EZ) br. 1925/2006 Europskoga parlamenta i Vijeća od 20. prosinca 2006. o dodavanju vitamina, minerala i drugih određenih tvari u hranu (SL L 404, 30. 12. 2006.) i odredbe članka 3. Direktive 2002/46/EZ Europskoga parlamenta i Vijeća o dodacima prehrani (SL L 183, 12. 7. 2002.), propisuju uvjeti za uvrštavanje i provođenje programa monitoringa hrane kojoj su dodani vitamini, minerali i druge tvari (obogaćene hrane), hrane s prehrambenim i zdravstvenim tvrdnjama i dodataka prehrani.

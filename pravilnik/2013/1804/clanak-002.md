@@ -1,0 +1,5 @@
+# Članak 2.
+(1) Za učinkovito praćenje hrane kojoj su dodani vitamini, minerali i druge tvari, hrane sa zdravstvenim tvrdnjama i dodataka prehrani, koji se stavljaju na tržište Republike Hrvatske, Ministarstvo zdravlja (u daljnjem tekstu: Ministarstvo) provodi program njihovog monitoringa (praćenja).
+(2) Za hranu, osim dodataka prehrani, kojoj su dodani vitamini i minerali, čije količine ne prelaze maksimalno dopuštene količine ili su hrani dodane druge tvari koje su dopuštene sukladno posebnim propisima te za hranu na kojoj je navedena prehrambena tvrdnja, nije potrebno dostavljanje obavijesti o uvrštavanju u program monitoringa.
+(3) Za dodatke prehrani koji su uvršteni u program monitoringa sukladno članku 4. stavku 4. ovoga Pravilnika, nije potrebno dostavljati obavijest iz članka 7. stavka 1. ovoga Pravilnika, ako se za te dodatke prehrani koriste samo odobrene zdravstvene tvrdnje propisane Uredbama Europske unije.
+(4) Sva hrana i dodaci prehrani za koju je u skladu s ovim Pravilnikom izdana potvrda odnosno pribavljeno rješenje o uvrštavanje u program monitoringa smatraju se uvrštenim u program monitoringa.

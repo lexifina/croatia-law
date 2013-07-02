@@ -1,0 +1,1 @@
+Na temelju članka 6. stavka 1. podstavka 3. Zakona o prehrambenim i zdravstvenim tvrdnjama te hrani obogaćenoj nutrijentima (»Narodne novine«, broj 39/2013), ministar zdravlja uz suglasnost ministra poljoprivrede, donosi

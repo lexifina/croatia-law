@@ -1,0 +1,4 @@
+# Članak 9.
+(1) Kod promjene naziva proizvoda ili naziva subjekta u poslovanju s hranom, proizvođača ili drugog podatka navedenog u rješenju o uvrštavanju u program monitoringa, subjekt u poslovanju s hranom je obvezan podnijeti zahtjev za izmjenom rješenja iz članka 5. i 8. ovoga Pravilnika.
+(2) Kada se u hrani ili u dodacima prehrani mijenjaju sastojci koji se ne smatraju hranjivim tvarima ili drugim tvarima s fiziološkim učinkom (npr. aditivi, aroma, pomoćne tvari, nosači i sl.), ne dostavlja se nova obavijest odnosno zahtjev za donošenje rješenja o uvrštavanju u program monitoringa niti je potrebno tražiti izmjene već ishođenih rješenja i potvrda.
+(3) U slučaju da subjekt u poslovanju s hranom prestane stavljati na tržište Republike Hrvatske proizvode iz članka 4., 5., 7. i 8. ovoga Pravilnika obvezan je o istom obavijestiti Ministarstvo, sukladno uputama koje se objavljuju na mrežnim stranicama Ministarstva.

@@ -1,0 +1,2 @@
+# Članak 6.
+Kada se dodatku prehrani značajno mijenja količina hranjivih tvari ili drugih tvari sa fiziološkim učinkom (više od 15% u odnosu na prvotni proizvod) ili su proizvodu dodane nove hranjivih tvari ili drugih tvari sa fiziološkim učinkom, takav proizvod se smatra novim proizvodom za koji je subjekt u poslovanju s hranom prije stavljanja na tržište Republike Hrvatske obvezan je dostaviti novu obavijest o stavljanju na tržište izmijenjenog proizvoda odnosno podnijeti novi zahtjev za izdavanje rješenja sukladno odredbama članka 5. ovoga Pravilnika.
