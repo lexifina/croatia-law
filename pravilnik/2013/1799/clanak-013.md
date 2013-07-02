@@ -1,0 +1,5 @@
+# Članak 13.
+(1) Odgovorna osoba za puštanje serije lijeka u promet obvezna je osigurati da je svaka serija lijeka proizvedena i provjerena sukladno važećim propisima i podacima navedenim u dokumentaciji priloženoj uz zahtjev za davanje odobrenja za stavljanje lijeka u promet.
+(2) Za lijekove uvezene iz treće zemlje, neovisno o tome da li su proizvedeni u Europskoj uniji, odgovorna osoba za puštanje serije lijeka u promet, obvezna je osigurati da je za svaku uvezenu seriju lijeka provedena u zemlji uvoznici potpuna kvalitativna i kvantitativna analiza najmanje svih djelatnih tvari i ostalih ispitivanja u svrhu potvrde provjere kakvoće u skladu s odobrenjem za stavljanje serije lijeka u promet.
+(3) Odgovorna osoba za puštanje serije lijeka u promet namijenjene tržištu Europske unije obvezna je osigurati da lijek na svom pakiranju ima sigurnosnu oznaku, ako je primjenjivo.
+(4) Odgovorna osoba iz stavka 1. ovoga članka svojim potpisom u poseban očevidnik ili jednako vrijedan dokument odobrava puštanje pojedine serije lijeka u promet.

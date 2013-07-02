@@ -1,0 +1,2 @@
+# Članak 42.
+Odgovorne osobe za puštanje serije lijeka u promet koje na dan stupanja na snagu ovoga Pravilnika obavljaju dužnosti odgovorne osobe za puštanje serije lijeka u promet a koje su bile odobrene proizvođaču u postupku davanja ili izmjene proizvodne dozvole sukladno odredbama Zakona o lijekovima (»Narodne novine«, br. 71/07., 45/09. i 124/11.) i Pravilnika o dobroj proizvođačkoj praksi za lijekove (»Narodne novine«, br. 74/09.) obvezne su u roku od godinu dana dostaviti dokaz o ispunjavanju uvjeta propisanih ovim Pravilnikom.

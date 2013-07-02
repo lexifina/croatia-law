@@ -1,0 +1,7 @@
+# Članak 20.
+(1) U slučaju ispitivanog lijeka, proizvođač je u suradnji s nositeljem odobrenja za provođenje kliničkog ispitivanja obvezan uspostaviti i primjenjivati sustav bilježenja i ocjenjivanja svih prigovora na ispitivani lijek, kao i djelotvoran sustav za brzo povlačenje lijeka.
+(2) Proizvođač lijeka, odnosno uvoznik obvezan je evidentirati i ispitati svaki prigovor koji se odnosi na neispravnost lijeka iz stavka 1. ovoga članka te mora obavijestiti ministarstvo i Agenciju o svakom nedostatku koji može imati za posljedicu povlačenje ili neuobičajena ograničenja u primjeni lijeka.
+(3) Za ispitivane lijekove navode se sva mjesta ispitivanja, te ako je moguće i odredišne države.
+(4) Ako ispitivani lijek ima odobrenje za stavljanje u promet, proizvođač lijeka za kliničko ispitivanje u suradnji s nositeljem odobrenja za kliničko ispitivanje obvezan je obavijestiti nositelja odobrenja za stavljanje lijeka u promet o svim nedostacima, koje bi mogle biti povezane s odobrenim lijekom.
+(5) Nositelj odobrenja za provođenje kliničkog ispitivanja obvezan je uspostaviti mehanizam koji omogućuje brzu identifikaciju lijeka maskiranog za kliničko ispitivanje, u slučajevima kada je neophodno hitno povlačenje lijeka.
+(6) Nositelj odobrenja za provođenje kliničkog ispitivanja osigurat će da u postupku iz stavka 5. ovoga članka identifikacija maskiranog lijeka bude provedena samo u onoj mjeri u kojoj je potrebno za zaštitu dobrobiti ispitanika.

@@ -1,0 +1,4 @@
+# Članak 37.
+(1) Na temelju suradnje između država članica Europske unije, zahtjeva nadležnog tijela države članice Europske unije, Europske agencije za lijekove ili Europske komisije, zahtjeva nadležnog tijela ili pravne ili fizičke osobe iz Europske unije ili treće zemlje inspekcija Agencije obavlja stručne nadzore u svrhu utvrđivanja ispunjavanja uvjeta dobre proizvođačke prakse u proizvodnji lijekova, ispitivanih lijekova, djelatnih tvari ili pomoćnih tvari.
+(2) Nadzor se provodi kod proizvođača i uvoznika lijekova i/ili ispitivanih lijekova, proizvođača djelatnih tvari, proizvođača ili uvoznika pomoćnih tvari te kod nositelja odobrenja za stavljanje lijeka u promet sa sjedištem u državi članici Europske unije ili u trećoj zemlji.
+(3) O provedenom nadzoru iz stavka 1. ovoga članka inspekcija Agencije daje potvrdu dobre proizvođačke prakse, ako je primjenjivo.
