@@ -1,0 +1,1 @@
+Na temelju članka 115. Zakona o patentu (»Narodne novine«, broj 173/03, 87/05, 76/07, 30/09, 128/10, 49/11 i 76/13) ministar nadležan za rad Državnog zavoda za intelektualno vlasništvo, na prijedlog ravnateljice Državnog zavoda za intelektualno vlasništvo, donosi
