@@ -1,0 +1,3 @@
+# Članak 1.
+U Pravilniku o ustroju i načinu rada matičnih povjerenstava i provedbi postupka izbora (»Narodne novine« br. 119/05, 20/12) u članku 25. u 1. rečenici 1. stavka iza riječi »znanstveno-nastavno zvanje« briše se zarez i stavlja se točka. Ostatak 1. rečenice se briše, te se dodaje rečenica koja glasi:
+»Izbor dva člana stručnog povjerenstva iz prethodne rečenice treba biti u znanstvenom području i polju za koje se pristupnik predlaže, ili njihova znanstveno-stručna djelatnost treba biti bliska znanstvenom polju i grani za koju se pristupnik predlaže, dok treći član stručnog povjerenstva treba imati izbor u znanstvenom području, polju i grani za koju se pristupnik predlaže.«
