@@ -1,0 +1,1 @@
+Na temelju članka 91. stavka 1. Zakona o arhitektonskim i inženjerskim poslovima i djelatnostima u prostornom uređenju i gradnji (»Narodne novine«, br. 152/08., 124/09., 49/11. i 25/13.), Skupština Hrvatske komore inženjera strojarstva na 10. sjednici održanoj 20. lipnja 2013. godine, donijela je

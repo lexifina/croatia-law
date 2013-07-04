@@ -1,0 +1,3 @@
+# Članak 19.
+U članku 60. stavak 2. mijenja se i glasi:
+»(2) Pravo na upis u Imenik vježbenika kandidata za upis u Komoru ima osoba koja je uspješno završila preddiplomski i diplomski sveučilišni studij strojarstva ili integrirani preddiplomski i diplomski sveučilišni studij strojarstva, kojim se stječe akademski naziv magistar inženjer strojarstva ili da je uspješno završila specijalistički diplomski stručni studij strojarstva kojim se stječe stručni naziv stručni specijalist inženjer strojarstva ako je tijekom cijeloga svojeg studija stekla najmanje 300 ECTS bodova, odnosno da je na drugi način propisan posebnim propisom stekla stupanj obrazovanja strojarske struke.«
