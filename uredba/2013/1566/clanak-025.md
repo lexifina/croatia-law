@@ -1,0 +1,9 @@
+# Članak 25.
+Naslov iznad članka 59. i članak 59. mijenjaju se i glase:
+»PODRUČNI CARINSKI UREDI
+Članak 59.
+U Carinskoj upravi ustrojavaju se 4 područna carinska ureda:
+1. PODRUČNI CARINSKI URED ZAGREB SA SJEDIŠTEM U ZAGREBU
+2. PODRUČNI CARINSKI URED RIJEKA SA SJEDIŠTEM U RIJECI
+3. PODRUČNI CARINSKI URED OSIJEK SA SJEDIŠTEM U OSIJEKU
+4. PODRUČNI CARINSKI URED SPLIT SA SJEDIŠTEM U SPLITU.«.

@@ -1,0 +1,4 @@
+# Članak 5.
+U članku 15. stavku 1. iza riječi: »izrađuje ugovore iz djelokruga Državne riznice;« dodaju se riječi: »obavlja upravne i stručne poslove koji se odnose na provedbu postupka za odgodu plaćanja, obročnu otplatu duga te prodaju, otpis ili djelomičan otpis potraživanja prema Zakonu o proračunu i provedbenim propisima;«.
+U stavku 3. iza riječi: »izrađuje ugovore iz djelokruga Državne riznice;« dodaju se riječi: »obavlja upravne i stručne poslove koji se odnose na provedbu postupka za odgodu plaćanja, obročnu otplatu duga te prodaju, otpis ili djelomičan otpis potraživanja prema Zakonu o proračunu i provedbenim propisima;«.
+U stavku 6. iza riječi: »izrađuje ugovore iz djelokruga Državne riznice;« dodaju se riječi: »obavlja upravne i stručne poslove koji se odnose na provedbu postupka za odgodu plaćanja, obročnu otplatu duga te prodaju, otpis ili djelomičan otpis potraživanja prema Zakonu o proračunu i provedbenim propisima;«.
