@@ -1,0 +1,1 @@
+Na temelju članka 17. stavka 3. Zakona o prostornom uređenju i gradnji (»Narodne novine« br. 76/07, 38/09, 55/11, 90/11 i 50/12), ministrica graditeljstva i prostornoga uređenja uz suglasnost ministra unutarnjih poslova, donosi

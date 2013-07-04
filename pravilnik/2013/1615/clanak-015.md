@@ -1,0 +1,3 @@
+## B. ELEMENTI PRISTUPAČNOSTI
+# Članak 15.
+U svrhu omogućavanja neovisnog pristupa, kretanja i korištenja prostora osobama s invaliditetom i smanjene pokretljivosti služe sljedeći elementi pristupačnosti: ulazni prostor; komunikacije; WC; kupaonica; kuhinja; soba, učionica, radni prostor; stan; kavana i restoran; kabina za presvlačenje; tuš kabina; ulaz u vodu na plaži i na bazenu; mjesto u gledalištu; telefon, tekstofon, faks, bankomat; električne instalacije (parlafon, prekidač za svjetlo, i zvonce, utičnica u kuhinji, ostale utičnice, izvodna ploča za električnu instalaciju); kvake na vratima i prozorima; šalter; pult; induktivna petlja ili transmisijski obruč; oglasni pano, orijentacijski plan za kretanje u građevinama i sl.

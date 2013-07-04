@@ -1,0 +1,5 @@
+# Članak 49.
+Caffe-bar, kavana, restoran i drugi prostori za obavljanje ugostiteljske djelatnosti s manje od 80 sjedećih mjesta; disko klub i noćni klub površine manje od 400 m²; muzej, galerija, izložbeni prostor površine manje od 300 m²; te kino, kazalište i koncertna dvorana s manje od 100 mjesta u gledalištu, moraju osigurati pristupačnost elementima za svladavanje visinske razlike prema odredbama ovoga Pravilnika i moraju imati pristupačan WC.
+Kada je posebnim propisima kojima su propisani uvjeti za obavljanje djelatnosti u građevinama iz stavka 1. ovoga članka, dopušteno odstupanje od tih uvjeta u smislu da nije potrebno izvođenje WC-a, tada ne postoji obveza izvođenja niti pristupačnog WC-a.
+Ako je sukladno posebnim propisima iz stavka 2. ovoga članka obvezna izvedba samo jednog WC-a za žene i muškarce, tada se on izvodi kao pristupačan WC.
+U slučaju rekonstrukcije građevine iz stavka 1. ovoga članka, lokacijskom dozvolom može se utvrditi odstupanje od elemenata pristupačnosti iz toga stavka zbog zatečenih uvjeta u građevini ili uvjeta nepristupačnosti javne površine s koje se pristupa u građevinu.
