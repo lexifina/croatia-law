@@ -1,0 +1,9 @@
+## DODJELA STAMBENIH KREDITA I FINANCIJSKE POTPORE
+# Članak 14.
+Iznos stambenog kredita (K) za kupnju stana ili obiteljske kuće i za izgradnju obiteljske kuće te razliku površine određuje se kao umnožak vrijednosti važeće etalonske cijene građenja (E) i odgovarajuće površine stana (P) iz članka 11. ove Uredbe po izračunu:
+K=E×P u kunskoj protuvrijednosti prema srednjem tečaju Hrvatske narodne banke na dan isplate.
+Iznos kredita za kupnju stana u organiziranoj izgradnji iz stavka 1. ovog članka umanjuje se za 30% ako su ti stanovi izgrađeni na područjima posebne državne skrbi ili u naseljima manjim od 20.000 stanovnika (prema popisu stanovništva iz 2001. godine), te u naseljima većim od 20.000 stanovnika ako su prema očitovanju porezne uprave tržišne cijene novoizgrađenih stanova manje od važeće etalonske cijene građenja po m2 u trenutku dodjele stambenog kredita za kupnju stana u organiziranoj stambenoj izgradnji.
+Iznos kredita za kupnju kuća ili stanova koji su izgrađeni u građevinama starijim od petnaest godina umanjit će se, osim popusta navedenog u stavku 2. ovog članka, za dodatnih 20%.
+Ukoliko se podnositelju zahtjeva dodijeli stan (kuća) koji je prethodno bio korišten od druge osobe, a prije dodjele se utvrdi da se radi o stanu za koji je potrebno uložiti znatna sredstva kako bi se isti osposobio za normalno stanovanje, iznos stambenog kredita za kupnju takvog stana ili kuće umanjiti će se za dodatnih 15%.
+Iznos stambenog kredita za kupnju kuće ili stana u vlastitoj organizaciji utvrđuje se prema predugovoru o kupoprodaji, a najviše u umnošku vrijednosti etalonske cijene građenja po m2 i odgovarajuće površine iz članka 11. ove Uredbe. Ukoliko podnositelj zahtjeva zaključi predugovor o kupoprodaji u nižem iznosu od pripadajućeg, dodijelit će mu se niži iznos.
+Vrijednost etalonske cijene građenja utvrđuje ministarstvo nadležno za graditeljstvo.

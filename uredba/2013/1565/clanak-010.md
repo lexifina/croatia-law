@@ -1,0 +1,3 @@
+# Članak 10.
+Ako se prilikom odlučivanja o dodjeli stambenog kredita utvrdi da je podnositelj zahtjeva pokrenuo postupak za utvrđivanje novog postotka oštećenja organizma, tijelo koje vodi postupak može samo riješiti to pitanje (ako je to po prirodi stvari moguće) ili zastati s donošenjem odluke o dodjeli stambenog kredita do pravomoćnog okončanja postupka povodom navedenog zahtjeva stranke.
+Ako se imenovanom pravomoćnim rješenjem, čiji se učinci protežu na vrijeme u kojem je imenovanom priznato pravo na dodjelu stambenog kredita, utvrdi veći postotak oštećenja organizma od onog na temelju kojeg je ostvario pravo na popust pri otplati kredita, imat će pravo zatražiti priznavanje većeg popusta i kamatne stope pri daljnjoj otplati kredita.

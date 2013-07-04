@@ -1,0 +1,6 @@
+# Članak 7.
+Pravo na dodjelu stambenog kredita odnosno financijske potpore osobe iz članaka 4. i 5. ove Uredbe ostvaruju na temelju listi prvenstva koje utvrđuje Ministarstvo za svaku kalendarsku godinu.
+Posebno će se objaviti Lista prvenstva za dodjelu stambenog kredita, a posebno Lista prvenstva za dodjelu financijske potpore. Podnositelj zahtjeva ne može se u istoj kalendarskoj godini nalaziti na obje liste prvenstva. Ukoliko podnese oba zahtjeva u obzir će se uzeti samo posljednje podneseni zahtjev. Realizacijom financijske potpore članovi obitelji smrtno stradaloga, zatočenoga ili nestaloga hrvatskog branitelja iz Domovinskog rata i HRVI gube pravo na dodjelu stambenog kredita, a realizacijom stambenog kredita gube pravo na dodjelu financijske potpore.
+Nakon bodovanja svakog podnositelja zahtjeva izrađuje se lista prvenstva koja se objavljuje u siječnju tekuće godine na oglasnoj ploči ureda državne uprave u županijama i nadležnoga upravnoga tijela Grada Zagreba.
+Na listu prvenstva može se uložiti prigovor u roku 15 dana od objave.
+Nakon isteka roka za prigovor, potvrđene liste prvenstva iz stavka 3. ovog članka objavljuju se na web-stranici Ministarstva, a primjenjuju se od 1. ožujka i vrijede do objave potvrđenih listi prvenstva za sljedeću kalendarsku godinu.
