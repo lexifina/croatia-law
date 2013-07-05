@@ -1,0 +1,4 @@
+## Transakcije između fondova kojima upravlja isto društvo za upravljanje
+# Članak 17.
+(1) Društvo za upravljanje dužno je internim aktima propisati situacije, uvjete i okolnosti u kojima je dozvoljena prodaja, kupnja ili prijenos imovine, obavljanje drugih transakcija ili uobičajenih poslova na tržištu kapitala između fondova i/ili individualnih portfelja kojima upravlja te osigurati da se iste ne obavljaju pod uvjetima koji su različiti od tržišnih ili koji jedan fond i/ili individualni portfelj stavljaju u povoljniji položaj u odnosu na drugi.
+(2) Za svaku kupnju, prodaju ili prijenos imovine, transakciju ili uobičajeni posao na tržištu kapitala iz stavka 1. ovoga članka potrebno je obrazložiti i dokumentirati razloge zbog kojih se obavlja, te navedenu dokumentaciju čuvati na način propisan propisima donesenim na temelju Zakona.
