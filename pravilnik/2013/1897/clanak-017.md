@@ -1,0 +1,5 @@
+# Članak 17.
+Upravljanje aktivnostima koje dovode do štetnih sukoba interesa
+(1) Društvo za upravljanje dužno je čuvati i redovito ažurirati podatke o poslovima koje je obavilo u sklopu djelatnosti upravljanja UCITS fondom ili koji su obavljeni za račun društva za upravljanje, a u kojima se pojavio ili se može pojaviti sukob interesa koji može imati štetne posljedice za interese jednog ili više UCITS fondova ili ostalih klijenata.
+(2) U slučajevima kada usvojene politike, procedure i mjere za upravljanje sukobom interesa nisu dovoljne da bi se u razumnoj mjeri sprječila šteta koja bi mogla nastati za UCITS fond ili ulagatelje, društvo za upravljanje dužno je osigurati da viši rukovoditelji ili druga nadležna tijela ili funkcije društva za upravljanje o tome budu bez odgode obaviješteni, kako bi mogli donijeti odluke kojima se osigurava postupanje u najboljem interesu UCITS fonda i ulagatelja.
+(3) Društvo za upravljanje dužno je o slučajevima iz stavka 2. ovoga članka obavijestiti ulagatelje na odgovarajućem trajnom mediju i obrazložiti svoju odluku.
