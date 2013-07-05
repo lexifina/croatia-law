@@ -1,0 +1,3 @@
+# Članak 3.
+(1) Društvo za upravljanje dužno je osigurati da elektronički primjerci dokumenata iz članaka 132. stavka 2., točaka 1. - 4. i 140. stavka 2. Zakona, i to njihove važeće verzije, moraju biti dostupni na internetskim stranicama UCITS fonda ili internetskim stranicama društva za upravljanje koje upravlja tim fondom ili na nekoj drugoj internetskoj stranici koju odredi društvo za upravljanje u obavijesti iz članka 132. stavka 1. i članka 140. stavka 1. Zakona. Navedeni dokumenti moraju biti dostupni na internetskim stranicama u uobičajenom elektroničkom formatu.
+(2) Država članica domaćin UCITS fonda mora imati pristup internetskim stranicama iz stavka 1. ovoga članka.
