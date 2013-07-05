@@ -1,0 +1,10 @@
+## ODOBRENJE AGENCIJE U SLUČAJU LIKVIDACIJE GLAVNOG FONDA
+# Članak 9.
+(1) Agencija će u roku od 15 radnih dana nakon dostave cjelokupne dokumentacije iz članka 8. stavka 3. odnosno stavka 4. ovog Pravilnika obavijestiti društvo za upravljanje napajajućim fondom o tome da li je dala potrebna odobrenja u skladu s člankom 8. stavkom 2. ovog Pravilnika.
+(2) Po primitku odobrenja Agencije iz stavka 1. ovog članka, društvo za upravljanje napajajućim fondom dužno je bez odgode o tome obavijestiti društvo za upravljanje glavnim fondom.
+(3) Nakon što je Agencija dala potrebno odobrenje u skladu s člankom 8. stavkom 2. točkom 1. ovog Pravilnika, društvo za upravljanje napajajućim fondom mora bez odgode poduzeti odgovarajuće mjere radi usklađivanja sa zahtjevima iz članka 284. i članka 287. Zakona.
+(4) Kad se isplata likvidacijskih sredstava glavnog fonda treba izvršiti prije početka ulaganja napajajućeg fonda u drugi glavni fond, na temelju članka 8. stavka 2. točke 1. ovog Pravilnika, odnosno prije početka ulaganja u skladu sa svojim novim investicijskim ciljevima i politikom na temelju članka 8. stavka 2. točke 2. ovog Pravilnika, Agencija, odnosno nadležno tijelo matične države članice društva za upravljanje napajajućim fondom daje odobrenje iz članka 8. stavak 2. ovog Pravilnika u skladu sa sljedećim uvjetima:
+1. likvidacijska sredstva isplaćuju se napajajućem fondu:
+a) u novcu ili
+b) u obliku djelomičnog ili potpunog prijenosa imovine, kad tako društvo za upravljanje napajajućim fondom izabere te kad je to predviđeno sporazumom između društva za upravljanje napajajućim i glavnim fondom ili internim pravilima poslovanja i odlukom o likvidaciji. U ovom slučaju društvo za upravljanje napajajućim fondom može u svakom trenutku unovčiti bilo koji dio imovine koja mu je prenesena.
+2. novac koji napajajući fond primi ili drži u skladu s ovim stavkom, može se ponovno uložiti i prije početka ulaganja napajajućeg fonda u drugi glavni fond ili u skladu s novim investicijskim ciljevima i politikom, samo u depozite i instrumente tržišta novca u koje je UCITS fondu dozvoljeno ulagati, u svrhu učinkovitog upravljanja novcem.
