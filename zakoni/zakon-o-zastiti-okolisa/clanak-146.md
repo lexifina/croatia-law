@@ -1,0 +1,6 @@
+## Analize podataka o praćenju stanja okoliša
+# Članak 146.
+(1) Analizu podataka o emisijama i imisijama te analizu izvješća o provedbi praćenja stanja okoliša, odnosno onečišćavanja okoliša provodi Agencija u suradnji s Ministarstvom, odnosno s drugim središnjim tijelima državne uprave i tijelima javne vlasti, nadležnim za pojedinu sastavnicu okoliša odnosno opterećenje.
+(2) Sredstva za provjeru analize podataka o emisijama i imisijama te analizu izvješća o provedbi praćenja stanja okoliša iz stavka 1. ovoga članka osiguravaju se u državnom proračunu.
+(3) Ministarstvo može radi provjere i uspoređivanja dostavljenih podataka o izmjerenim emisijama i imisijama, odnosno o izvršenim mjerenjima u tu svrhu osigurati praćenje onečišćavanja okoliša, odnosno mjerenje emisija i/ili imisija, a također može obvezati stručnu osobu koja za ovlaštenika obavlja poslove praćenja stanja okoliša na provjeru stručne osposobljenosti.
+(4) U svrhu praćenja postignuća politike i pojedinih mjera zaštite okoliša i sastavnica okoliša (vode, tlo i zemljina kamena kora, šumsko područje, zrak, vode, more i obalno područje i priroda), te opterećenja na okoliš, ministar je ovlašten donositi pravilnike u suradnji s ministrom nadležnim za pojedinu sastavnicu okoliša.

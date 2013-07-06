@@ -1,0 +1,2 @@
+# Članak 83.
+Ovisno o lokaciji i obilježju zahvata, nadležno tijelo će na primjeren način o zahtjevu iz članka 82. stavka 2. ovoga Zakona zatražiti mišljenja tijela i/ili osoba određenih posebnim propisima i/ili jedinice lokalne, područne (regionalne) samouprave. Ako se mišljenjem utvrdi obveza procjene utjecaja zahvata na okoliš, nadležno tijelo može zatražiti i očitovanje o obveznom sadržaju studije.

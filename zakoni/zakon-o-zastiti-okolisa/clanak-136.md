@@ -1,0 +1,5 @@
+## Sudjelovanje u postupku o zahvatu u drugoj državi
+# Članak 136.
+(1) Kada Ministarstvo procijeni da bi zahvat koji će se provesti na teritoriju druge države mogao znatnije utjecati na okoliš u Državi, ili na temelju obavijesti koju druga država dostavi, ili Ministarstvo dozna za zahvat u okoliš, ali o njemu nije primilo obavijest druge države, izvijestit će tu državu, o namjeri sudjelovanja u postupku procjene utjecaja toga zahvata na okoliš.
+(2) Ako Ministarstvo donese odluku o sudjelovanju u postupku procjene utjecaja zahvata na okoliš u drugoj državi, podatke o zahvatu mora dostaviti na mišljenje tijelima i/ili osobama određenim posebnim propisom i nadležnom upravnom tijelu u županiji odnosno Gradu Zagrebu, ovisno o tome na kojem području zahvat iz druge države utječe na okoliš, te osigurati informiranje i sudjelovanje javnosti i zainteresirane javnosti prema odredbama ovoga Zakona.
+(3) Ministarstvo će nakon primitka mišljenja tijela iz stavka 2. ovoga članka, zajedno s primjedbama javnosti i zainteresirane javnosti izraditi jedinstveno mišljenje i dostaviti ga nadležnom tijelu druge države, u dogovorenom roku.

@@ -1,0 +1,5 @@
+# Članak 71.
+(1) Tijelo nadležno prema odredbi članka 66. stavka 3. ovoga Zakona, prije upućivanja prijedloga strategije, plana ili programa u proceduru donošenja, obvezno je o strateškoj procjeni ishoditi mišljenje Ministarstva, odnosno nadležnog upravnog tijela za zaštitu okoliša u županiji.
+(2) Kada je za postupak ocjene prema ovom Zakonu nadležno tijelo iz članka 66. stavka 2. ovoga Zakona, ono je dužno, prije upućivanja prijedloga strategije, plana ili programa u proceduru donošenja, o postupku ocjene ishoditi mišljenje Ministarstva, odnosno nadležnog upravnog tijela za zaštitu okoliša u županiji.
+(3) U slučaju kada se radi o postupku ocjene i strateškoj procjeni za donošenje dokumenata prostornog uređenja, odnosno izmjene i dopune dokumenata prostornog uređenja na državnoj, područnoj (regionalnoj) i lokalnoj razini, mišljenje iz stavka 1. odnosno stavka 2. ovoga članka ishodit će se u okviru suglasnosti na taj plan prema posebnom zakonu.
+(4) Mišljenja iz stavaka 1., 2. i 3. ovoga članka daju se u skladu s odredbama uredbe iz članka 64. stavka 6. ovoga Zakona

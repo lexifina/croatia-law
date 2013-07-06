@@ -1,0 +1,4 @@
+# Članak 115.
+(1) U roku od četiri godine od dana objavljivanja odluke o zaključcima o NRT-u na službenim stranicama Europske unije, a koji se odnosi na glavnu djelatnost postrojenja, Ministarstvo po službenoj dužnosti razmatra, i po potrebi posebnim rješenjem mijenja i/ili dopunjava okolišnu dozvolu kojom usklađuje uvjete za rad postrojenja, postrojenja za izgaranje, odnosno postrojenja za spaljivanje i suspaljivanje otpada s tom odlukom.
+(2) U slučaju iz stavka 1. ovoga članka Ministarstvo primjenjuje nove, odnosno izmijenjene zaključke o NRT-u koji se odnose na postrojenje, objavljene od izvršnosti dozvole, posljednjih izmjena i/ili dopuna, odnosno razmatranja.
+(3) Na postupak izmjene i dopune okolišne dozvole iz stavka 1. ovoga članka odgovarajuće se primjenjuju odredbe ovoga Zakona koje se odnose na podnošenje zahtjeva i postupak izdavanja okolišne dozvole.

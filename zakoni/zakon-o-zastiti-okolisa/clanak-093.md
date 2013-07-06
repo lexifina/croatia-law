@@ -1,0 +1,5 @@
+# Članak 93.
+(1) Za značajnu izmjenu ili dopunu namjeravanog zahvata za koji je izdano rješenje iz članka 89. stavka 1. ovoga Zakona, odnosno članka 90. ovoga Zakona nositelj zahvata obvezan je prije podnošenja zahtjeva za izdavanje lokacijske dozvole ili drugog akta prema posebnom propisu, ishoditi rješenje iz članka 90. ovoga Zakona s obzirom na nastale promjene. Značajnost izmjena utvrđuje nadležno tijelo mišljenjem, odnosno u postupku ocjene o potrebi procjene utjecaja na okoliš.
+(2) Ako u postupku iz stavka 1. ovoga članka nadležno tijelo isključi mogućnost značajnijeg utjecaja na okoliš, donijet će rješenje iz članka 90. ovoga Zakona.
+(3) U slučaju iz stavka 1. ovoga članka na zahtjev nositelja zahvata rješenjem iz članka 90. ovoga Zakona mogu se izmijeniti i/ili dopuniti mjere zaštite okoliša i program praćenja stanja okoliša utvrđeni rješenjem iz članka 89. stavka 1. ovoga Zakona i članka 90. ovoga Zakona.
+(4) Rješenje iz stavka 1. ovoga članka donosi isto tijelo koje je donijelo rješenje iz članka 89. stavka 1. ovoga Zakona i članka 90. ovoga Zakona.

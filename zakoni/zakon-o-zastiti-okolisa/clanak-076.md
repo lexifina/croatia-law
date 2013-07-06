@@ -1,0 +1,7 @@
+## Definicija i svrha procjene utjecaja zahvata na okoliš
+# Članak 76.
+(1) Procjena utjecaja zahvata na okoliš je procjena mogućih značajnih utjecaja na okoliš zahvata određenih ovim Zakonom i uredbom iz članka 78. stavka 3. ovoga Zakona.
+(2) Procjenom utjecaja zahvata na okoliš prepoznaje se, opisuje i ocjenjuje, na prikladan način, utjecaj zahvata iz stavka 1. ovoga članka na okoliš, tako da se utvrđuje mogući izravni i neizravni utjecaj zahvata na: tlo, vodu, more, zrak, šumu, klimu, ljude, biljni i životinjski svijet, prirodne vrijednosti, krajobraz, materijalnu imovinu, kulturnu baštinu, uzimajući u obzir njihove međuodnose.
+(3) Procjena utjecaja zahvata na okoliš mora osigurati ostvarenje načela predostrožnosti u ranoj fazi planiranja zahvata kako bi se utjecaji zahvata sveli na najmanju moguću mjeru i postigla najveća moguća očuvanost kakvoće okoliša, što se postiže usklađivanjem i prilagođavanjem namjeravanog zahvata s prihvatnim mogućnostima okoliša na određenom području.
+(4) Procjena utjecaja zahvata na okoliš provodi se u okviru pripreme namjeravanog zahvata, prije izdavanja lokacijske dozvole za provedbu zahvata ili drugog odobrenja za zahvat za koji izdavanje lokacijske dozvole nije obvezno.
+(5) Mjere i/ili program praćenja stanja okoliša utvrđeni rješenjem o prihvatljivosti zahvata za okoliš obvezni su sadržaj dozvola za provedbu zahvata koje se izdaju prema posebnom zakonu.

@@ -1,0 +1,6 @@
+## Obveze dostavljanja podataka za informacijski sustav
+# Članak 150.
+(1) Tijela državne uprave, nadležno upravno tijelo u županiji, odnosno u Gradu Zagrebu, pravne osobe s javnim ovlastima i ovlaštenici, koji obavljaju poslove praćenja stanja okoliša u skladu s ovim Zakonom, dužni su sukladno uredbi iz članka 149. stavka 3. ovoga Zakona, Agenciji za potrebe informacijskog sustava u propisanim rokovima dostavljati propisane podatke i informacije kao i odgovarajuća izvješća, te su obvezni Agenciji osigurati nesmetan pristup podacima i korištenje podataka za potrebe informacijskog sustava. Podaci koji se dostavljaju moraju biti točni, potpuni i vjerodostojni.
+(2) Podaci, informacije i izvješća iz stavka 1. ovoga članka podložni su provjeri njihove kakvoće radi osiguranja vjerodostojnosti, potpunosti i dosljednosti.
+(3) Provjeru iz stavka 2. ovoga članka obavlja po službenoj dužnosti Ministarstvo. Za obavljanje ovih poslova Ministarstvo može koristiti usluge odgovarajućih akreditiranih pravnih i fizičkih osoba.
+(4) Podaci, informacije i izvješća iz stavka 1. ovoga članka moraju biti dostupni tijelima državne uprave, nadležnim upravnim tijelima u županiji i Gradu Zagrebu, pravnim osobama s javnim ovlastima i ovlaštenicima, operaterima i javnosti.

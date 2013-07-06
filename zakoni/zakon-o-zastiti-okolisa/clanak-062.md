@@ -1,0 +1,3 @@
+# Članak 62.
+(1) Strateška procjena utjecaja na okoliš (u daljnjem tekstu: strateška procjena) je postupak kojim se procjenjuju vjerojatno značajni utjecaji na okoliš koji mogu nastati provedbom strategije, plana ili programa.
+(2) Strateškom procjenom stvara se osnova za promicanje održivog razvitka kroz objedinjavanje uvjeta za zaštitu okoliša u strategije, planove i programe pojedinog područja. Time se omogućava da se mjerodavne odluke o prihvaćanju strategije, plana i programa donose uz poznavanje mogućih značajnih utjecaja koje bi strategija, plan i program svojom provedbom mogao imati na okoliš, a nositeljima zahvata pružaju se okviri djelovanja i daje se mogućnost uključivanja bitnih elemenata zaštite okoliša u donošenje odluka.

@@ -1,0 +1,2 @@
+# Članak 171.
+Ako pojedini akt tijela javne vlasti nije pravomoćan jer je podnesen zahtjev sukladno članku 169. ovoga Zakona, nositelj zahvata, odnosno operater ili druga pravna i fizička osoba, na koju se taj akt odnosi, zbog toga odluči pričekati pravomoćnost akta, u slučaju da se utvrdi da je podnositelj zahtjeva zlorabio svoje pravo prema odredbama ovoga Zakona, nositelj zahvata odnosno operater ili druga pravna i fizička osoba imaju pravo tražiti naknadu obične štete i izmakle koristi od osobe koja je podnijela zahtjev.

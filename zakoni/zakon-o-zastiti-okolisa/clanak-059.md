@@ -1,0 +1,6 @@
+# Članak 59.
+(1) Za potrebe praćenja ostvarivanja ciljeva iz Programa i programskih dokumenata vezanih za pojedine sastavnice okoliša i opterećenja kao i drugih dokumenata vezanih za zaštitu okoliša te zbog cjelovitog uvida u stanje okoliša na području jedinice lokalne i područne (regionalne) samouprave predstavničko tijelo županije, Grada Zagreba, odnosno velikog grada za razdoblje od četiri godine razmatra izvješće o stanju okoliša u županiji, Gradu Zagrebu, odnosno velikom gradu.
+(2) Izvješće o stanju okoliša koje se odnosi na provedbu Programa županije, Grada Zagreba, velikog grada, izrađuje nadležno upravno tijelo županije, Grada Zagreba, odnosno velikog grada.
+(3) Izvješće o stanju okoliša iz stavka 1. ovoga članka sadrži odgovarajuće podatke sukladno članku 58. stavku 2. ovoga Zakona i druge podatke potrebne za izradu toga Izvješća, ovisno o posebnim značajkama područja za koje se Izvješće podnosi.
+(4) Izvješće iz stavka 1. ovoga članka predstavničkom tijelu jedinice lokalne, odnosno područne (regionalne) samouprave podnosi izvršno tijelo te jedinice.
+(5) Izvješće iz stavka 1. ovoga članka dostavlja se Agenciji u roku od mjesec dana nakon razmatranja i prihvaćanja na sjednici predstavničkog tijela jedinice lokalne, odnosno područne (regionalne) samouprave.

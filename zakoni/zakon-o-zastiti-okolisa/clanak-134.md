@@ -1,0 +1,6 @@
+## Obavještavanje druge države o strategiji, planu i programu
+# Članak 134.
+(1) Kada Ministarstvo, u postupku strateške procjene, procijeni da bi provedba strategije, plana i programa mogla značajno utjecati na okoliš i/ili zdravlje ljudi druge države ili ako država koja bi mogla biti izložena značajnom utjecaju to zatraži, obvezno je obavijestiti nadležno tijelo druge države o nacrtu prijedloga strategije, plana i programa prije stavljanja u proceduru donošenja.
+(2) Obavijest iz stavka 1. ovoga članka sadrži nacrt prijedloga strategije, plana i programa i stratešku studiju, rok u kojem druga država treba obavijestiti Ministarstvo o namjeri sudjelovanja u postupku strateške procjene.
+(3) Kada nadležno upravno tijelo u županiji, odnosno Gradu Zagrebu, u postupku strateške procjene procijeni da bi provedba strategije, plana ili programa mogla znatnije utjecati na okoliš i/ili zdravlje ljudi druge države, o tome će radi provedbe postupka iz stavka 1. ovoga članka bez odgađanja obavijestiti Ministarstvo.
+(4) Ako druga država obavijesti Ministarstvo ili ako Ministarstvo obavijesti drugu državu o namjeri sudjelovanja u postupku strateške procjene, Ministarstvo provodi postupak odgovarajućom primjenom odredbi ovoga Zakona o procjeni utjecaja na okoliš preko državnih granica, odnosno prema posebnom propisu.

@@ -1,0 +1,5 @@
+# Članak 277.
+(1) Postupci pokrenuti po odredbama Zakona o zaštiti okoliša (»Narodne novine«, br. 110/07.) do stupanja na snagu ovoga Zakona dovršit će se prema odredbama toga Zakona.
+(2) Objedinjeni postupci iz članka 70. Zakona o zaštiti okoliša (»Narodne novine«, br. 110/07.), koji se vode po zahtjevima podnesenim do stupanja na snagu ovoga Zakona, dovršit će se po propisima koji su bili na snazi u vrijeme podnošenja zahtjeva.
+(3) Iznimno od stavka 2. ovoga članka objedinjeni postupci iz članka 70. Zakona o zaštiti okoliša (»Narodne novine«, br. 110/07.) koji se vode po zahtjevima podnesenim do stupanja na snagu ovoga Zakona, mogu se na zahtjev stranke razdvojiti, u kojem slučaju se donosi rješenje o prihvatljivosti zahvata za okoliš, prema propisima koji su bili na snazi u vrijeme podnošenja zahtjeva, a dio postupka koji se odnosi na objedinjene uvjete zaštite okoliša, obustavlja se.
+(4) Postupci pokrenuti pred prekršajnim sudom po odredbama Zakona o zaštiti okoliša (»Narodne novine«, br. 110/07.) do stupanja na snagu ovoga Zakona dovršit će se prema odredbama toga Zakona.

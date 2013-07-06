@@ -1,0 +1,4 @@
+# Članak 133.
+(1) Ciljevi sprječavanja onečišćavanja okoliša i ograničavanja posljedica onečišćenja uzimaju se u obzir pri izradi prostornih planova i pri donošenju odluka u skladu s propisom kojim se uređuje prostorno uređenje, posebno prilikom određivanja lokacija za nova postrojenja, utvrđivanja promjena nastalih na postojećim postrojenjima i planiranja novih građevina kao što su prometnice, javne površine i stambena područja.
+(2) Prilikom izrade prostornih planova, osim drugih obveza propisanih ovim Zakonom, mora se uzimati u obzir i udaljenost između postrojenja i stambenih zona, javnih mjesta i ekološki značajnih područja te korištenje dodatnih mjera od strane postojećih postrojenja, a sve radi izbjegavanja povećane opasnosti za ljudsko zdravlje, materijalna dobra i okoliš.
+7. Prekogranični utjecaj strategije, plana i programa, zahvata i postrojenja na okoliš

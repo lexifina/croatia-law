@@ -1,0 +1,2 @@
+# Članak 273.
+Ovlaštenici koji su ispunili uvjete za obavljanje stručnih poslova zaštite okoliša propisane Zakonom o zaštiti okoliša (»Narodne novine«, br. 110/07.) i Pravilnikom o uvjetima za izdavanje suglasnosti pravnim osobama za obavljanje stručnih poslova zaštite okoliša (»Narodne novine«, br. 57/10.), nastavljaju s radom kao ovlaštenici koji imaju suglasnost prema ovom Zakonu, osim ovlaštenika za koje je propisana obveza ishođenja akreditacije prema posebnom propisu, a koju akreditaciju moraju ishoditi do 31. prosinca 2014.

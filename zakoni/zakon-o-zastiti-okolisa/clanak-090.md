@@ -1,0 +1,7 @@
+# Članak 90.
+(1) O zahtjevu za ocjenu o potrebi procjene utjecaja zahvata na okoliš odlučuje se rješenjem.
+(2) Ako u postupku ocjene o potrebi procjene utjecaja zahvata na okoliš nadležno tijelo isključi mogućnost značajnijeg utjecaja na okoliš, donijet će rješenje kojim se utvrđuje da za zahvat nije potrebno provesti procjenu utjecaja na okoliš.
+(3) Kada se u postupku ocjene o potrebi procjene utjecaja zahvata na okoliš odlučivalo o utjecaju zahvata na ekološku mrežu, i ukoliko nadležno tijelo isključi mogućnost značajnijeg utjecaja na ekološku mrežu, rješenjem iz stavka 1. ovoga članka utvrdit će se da za zahvat nije potrebno provesti odgovarajuću ocjenu prema posebnom propisu.
+(4) Ako se rješenjem iz stavka 1. ovoga članka utvrdi da za zahvat nije potrebno provesti procjenu utjecaja na okoliš, te ako se ne isključi mogućnost utjecaja na ekološku mrežu, odgovarajuća ocjena iz stavka 3. ovoga članka mora se provesti zasebno prema posebnom propisu.
+(5) Ako se rješenjem iz stavka 1. ovoga članka utvrdi da je za zahvat potrebno provesti procjenu utjecaja na okoliš, te ako se ne isključi mogućnost utjecaja na ekološku mrežu, postupak odgovarajuće ocjene sukladno posebnom propisu provodi se u okviru postupka procjene utjecaja zahvata na okoliš.
+(6) Na zahtjev nositelja zahvata rješenje iz stavka 2. ovoga članka može sadržavati mjere zaštite okoliša i program praćenja stanja okoliša.

@@ -1,0 +1,2 @@
+# Članak 272.
+Povodom pravomoćnog rješenja kojim se daje odobrenje za namjeravani zahvat izdano na temelju Zakona o zaštiti okoliša (»Narodne novine«, br. 82/94. i 128/99.) može se podnijeti zahtjev za ishođenje lokacijske dozvole, odnosno drugog odobrenja za zahvat za koji izdavanje lokacijske dozvole nije obvezno, prema posebnom propisu, najkasnije do 31. prosinca 2013. i po proteku toga roka ne može se više podnijeti.

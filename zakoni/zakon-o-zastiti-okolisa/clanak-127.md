@@ -1,0 +1,4 @@
+## Promjene u radu postrojenja
+# Članak 127.
+(1) Ako operater uvede promjene u radu postrojenja, procesu proizvodnje i/ili vrsti i/ili količini opasnih tvari koje mogu uzrokovati velike nesreće ili ako trajno prestane obavljati djelatnosti u postrojenju, operater je obvezan provesti analizu i reviziju aktivnosti i sigurnosnih mjera za sprječavanje velikih nesreća prema Izvješću o sigurnosti za to postrojenje, te po potrebi, na primjeren način, izmijeniti i dopuniti Izvješće o sigurnosti i o tome obavijestiti Ministarstvo i središnje tijelo državne uprave nadležno za zaštitu i spašavanje.
+(2) Ako su promjene iz stavka 1. ovoga članka takve prirode da zahtijevaju izradu novoga Izvješća o sigurnosti, odnosno ishođenje suglasnosti na sadržaj izmjena i/ili dopuna Izvješća, operater je dužan ishoditi novu suglasnost i prije proteka razdoblja od pet godina iz članka 125. stavka 3. ovoga Zakona.

@@ -1,0 +1,8 @@
+## Pravo na pristup informacijama o okolišu
+# Članak 155.
+Pravo pristupa informacijama o okolišu odnosi se na svaku informaciju u pisanom, vizualnom, slušnom, elektroničkom ili bilo kojem drugom dostupnom obliku, koja se odnosi na:
+– stanje sastavnica okoliša a osobito na: zrak i atmosferu, vode, more, tlo, prirodu, bioraznolikost i krajobraz, staništa, močvare, obalno područje, uključujući GMO, kao i međuutjecaje pojedinih sastavnica okoliša i opterećenja,
+– opterećenja kao što su: tvari, energija, buka, zračenje, radijacija uključujući i radioaktivni otpad, otpad, emisije i druga ispuštanja u okoliš, koji utječu, ili mogu utjecati na sastavnice okoliša iz podstavka 1. ovoga stavka,
+– mjere, uključujući administrativne mjere, kao što su strateški dokumenti, propisi, planovi, programi, sporazumi o okolišu, kao i aktivnosti koje mogu direktno ili indirektno utjecati na sastavnice okoliša i opterećenja iz podstavaka 1. i 2. ovoga članka, te mjere ili aktivnosti utvrđene radi zaštite okoliša i sastavnica okoliša,
+– analize troškova i koristi te druge financijske i ekonomske analize i pretpostavke koje se primjenjuju kao dio mjera i aktivnosti s ciljem zaštite i poboljšanja stanja okoliša,
+– uvjete koji se odnose na: kvalitetu ljudskog života, zdravlje i sigurnost u odnosu na okoliš, onečišćenje hranidbenog lanca, životne uvjete, lokalitete od kulturnog značaja i građevine, kada na njih utječe ili bi moglo utjecati stanje pojedinih sastavnica okoliša iz podstavka 1. ovoga članka, odnosno, stanje sastavnica okoliša uzrokovano opterećenjima i/ili mjerama iz podstavaka 2. i 3. ovoga članka.

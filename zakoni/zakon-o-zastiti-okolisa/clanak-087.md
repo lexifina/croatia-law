@@ -1,0 +1,9 @@
+## Povjerenstvo u postupku procjene utjecaja zahvata na okoliš
+# Članak 87.
+(1) U postupku procjene utjecaja zahvata na okoliš svojim mišljenjem sudjeluje savjetodavno stručno povjerenstvo (dalje u tekstu: povjerenstvo), koje za svaki pojedini zahvat imenuje ministar, odnosno čelnik nadležnog upravnog tijela u županiji te u Gradu Zagrebu. Ako se predviđa veći broj zahvata iste vrste, može se imenovati stalno povjerenstvo za tu vrstu zahvata.
+(2) Povjerenstvo ocjenjuje utjecaj zahvata na okoliš, njegovo vrednovanje i prihvatljivost na temelju studije o utjecaju zahvata na okoliš te Ministarstvu, odnosno nadležnom upravnom tijelu u županiji te u Gradu Zagrebu daje mišljenje o prihvatljivosti zahvata, predlaže moguće varijante za okoliš i mjere zaštite okoliša te program praćenja stanja okoliša.
+(3) U jedinstvenom postupku iz članka 77. stavka 1. ovoga Zakona povjerenstvo ocjenjuje i utjecaj na ekološku mrežu, daje mišljenje o prihvatljivosti zahvata za ekološku mrežu, te predlaže i mjere ublažavanja i sprječavanja, način praćenja provedbe mjera ublažavanja i sprječavanja značajnog negativnog utjecaja na ekološku mrežu.
+(4) Sastav i broj članova povjerenstva određuje se odlukom čelnika tijela nadležnog za provedbu postupka, ovisno o vrsti zahvata i ovisno o djelatnosti koja će se obavljati u postrojenju na koje se zahvat odnosi.
+(5) Članovi povjerenstva imenuju se s popisa osoba koje određuje ministar iz redova znanstvenih i stručnih djelatnika, predstavnika tijela i/ili osoba određenih posebnim propisom, predstavnika jedinica lokalne i područne (regionalne) samouprave te predstavnika Ministarstva.
+(6) Popis osoba iz stavka 5. ovoga članka objavljuje se na internetskim stranicama ministarstva nadležnog za zaštitu okoliša.
+(7) Povjerenstvo ima pravo na naknadu za svoj rad. Naknadu za rad povjerenstva sukladno odluci ministra osigurava nositelj zahvata.

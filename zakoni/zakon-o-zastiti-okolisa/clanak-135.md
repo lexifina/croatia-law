@@ -1,0 +1,5 @@
+## Obavještavanje druge države o zahvatu
+# Članak 135.
+(1) Kada Ministarstvo, odnosno nadležno upravno tijelo u županiji te u Gradu Zagrebu, po primitku zahtjeva za ocjenu o potrebi procjene utjecaja zahvata na okoliš ili po primitku zahtjeva za procjenu utjecaja zahvata na okoliš, procijeni da bi zahvat mogao znatnije utjecati na okoliš druge države, obvezno je dostaviti nadležnom tijelu druge države obavijest o zahtjevu. Obavijest o zahtjevu Ministarstvo će dostaviti i na zahtjev druge države. Ova obavijest se dostavlja najkasnije nakon što se o primitku zahtjeva informira javnost Države.
+(2) Obavijest iz stavka 1. ovoga članka sadrži opis zahvata i raspoložive podatke o njegovim mogućim utjecajima na okoliš, informaciju o postupku koji se provodi s tim u svezi, rok u kojem druga država treba obavijestiti Ministarstvo o namjeri sudjelovanja u postupku procjene utjecaja zahvata u okoliš.
+(3) Ako druga država obavijesti Ministarstvo o namjeri sudjelovanja u postupku procjene utjecaja zahvata na okoliš, Ministarstvo provodi postupak sukladno Konvenciji o procjeni utjecaja na okoliš preko državnih granica.

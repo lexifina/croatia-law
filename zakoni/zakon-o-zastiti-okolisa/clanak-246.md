@@ -1,0 +1,4 @@
+## Izvršenje inspekcijskog rješenja naplatom novčane kazne
+# Članak 246.
+(1) Ako izvršenik ne izvrši rješenjem naređenu mjeru iz članka 235. stavka 1., članka 237. stavka 1., članka 238. stavka 1., članka 239. stavaka 1. i 2., članka 240. stavka 1., članka 241. stavka 1., članka 242. stavka 1. i članka 243. stavaka 1. i 2. ovoga Zakona, inspektor će izvršenika prisiliti na izvršenje novčanom kaznom, u skladu s posebnim propisom kojim se uređuje opći upravni postupak.
+(2) Novčanu kaznu iz stavka 1. ovoga članka izvršenik uplaćuje u korist državnog proračuna u roku trideset dana od dana primitka rješenja o izvršenju. Ako izvršenik istekom roka od trideset dana ne dostavi inspektoru dokaz o uplati novčane kazne, naplati će se pristupiti prisilnim putem sukladno odredbama o izvršenju novčanih obveza propisanim posebnim propisom kojim se uređuje opći upravni postupak.

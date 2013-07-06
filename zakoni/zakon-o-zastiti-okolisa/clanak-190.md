@@ -1,0 +1,5 @@
+## Obveza utvrđivanja operatera koji je prouzročio štetu u okolišu i obveza procjene značaja štete i prijeteće opasnosti od štete
+# Članak 190.
+(1) Središnje tijelo državne uprave, koje u skladu sa svojom nadležnošću obavi očevid na mjestu štete u okolišu ili prijeteće opasnosti od štete, ukoliko je to moguće s obzirom na obavljeni očevid, utvrdit će operatera u smislu članka 177. stavaka 1. i 2. ovoga Zakona koji je prouzročio štetu u okolišu i/ili prijeteću opasnost od štete, te će putem ovlaštenog procjenitelja procijeniti značaj te štete u okolišu i/ili prijeteće opasnosti od štete.
+(2) Ako središnje tijelo državne uprave iz stavka 1. ovoga članka ne može utvrditi operatera u smislu članka 177. stavaka 1. i 2. ovoga Zakona, na odgovarajući primjeren način, o tome će izvijestiti Ministarstvo unutarnjih poslova radi poduzimanja radnji vezanih za utvrđivanje operatera.
+(3) Na temelju procjene iz stavka 1. ovoga članka odredit će se mjere otklanjanja štete u okolišu i/ili prijeteće opasnosti od štete, koje treba poduzeti u smislu uredbe iz članka 173. stavka 3. ovoga Zakona.

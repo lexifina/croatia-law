@@ -1,0 +1,4 @@
+# Članak 263.
+(1) Novčanom kaznom od 100.000,00 do 250.000,00 kuna kaznit će se za prekršaj nositelj zahvata pravna osoba ukoliko za zahvat za koji je određeno provođenje procjene utjecaja na okoliš putem stručnih i za to osposobljenih osoba ne provodi mjerenja emisije i ne vodi o tome očevidnike, putem stručnih i za to osposobljenih osoba ne provodi mjerenja imisije, odnosno ne sudjeluje u mjerenju imisija, prema udjelu svoga zahvata u onečišćavanju okoliša, te ne sudjeluje u praćenju prirodnih i drugih pojava koje su posljedica onečišćavanja okoliša (članak 142. stavak 1. podstavka 1., 2. i 3.).
+(2) Za prekršaj iz stavka 1. ovoga članka kaznit će se i odgovorna osoba nositelja zahvata novčanom kaznom od 5.000,00 kuna.
+(3) Za prekršaj iz stavka 1. ovoga članka kaznit će se nositelj zahvata fizička osoba novčanom kaznom od 5.000,00 do 15.000,00 kuna.

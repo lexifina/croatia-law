@@ -1,0 +1,4 @@
+# Članak 74.
+(1) Kada strateška procjena uključuje i ocjenu prihvatljivosti strategije, plana ili programa za ekološku mrežu prema posebnom propisu, postupak ocjene prihvatljivosti strategije, plana i programa za ekološku mrežu provodi se u okviru postupka strateške procjene.
+(2) U slučaju iz stavka 1. ovoga članka izviješće tijela nadležnog za provedbu postupka strateške procjene sadrži i informaciju o provedenom postupku ocjene prihvatljivosti za ekološku mrežu, rezultatima tog postupka, mjere ublažavanja utjecaja na ekološku mrežu, način praćenja provedbe mjera ublažavanja i sprječavanja značajnog utjecaja na ekološku mrežu.
+(3) Rezultati ocjene prihvatljivosti za ekološku mrežu, mjere ublažavanja utjecaja, te praćenje provedbe mjera ublažavanja i sprječavanja štetnog utjecaja obvezujući su za tijelo koje donosi i tijelo koje provodi strategiju, plan ili program.

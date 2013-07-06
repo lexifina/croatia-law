@@ -1,0 +1,4 @@
+# Članak 188.
+(1) Troškovi izvršenja žurnog provođenja mjera iz članka 187. ovoga Zakona namiruju se iz državnog proračuna do naplate od operatera koji je u skladu s ovim Zakonom bio dužan provesti mjere za sprječavanje i ograničavanje štete u okolišu.
+(2) Iznimno od stavka 1. ovoga članka, kada se mjere iz članka 187. ovoga Zakona provode po žurnom postupku na zahtjev jedinice lokalne, odnosno područne (regionalne) samouprave, troškovi izvršenja tih mjera, do naplate od operatera koji je u skladu s ovim Zakonom bio dužan provesti mjere, namiruju se iz proračuna jedinice lokalne, odnosno područne (regionalne) samouprave koja je podnijela zahtjev za žurno provođenje mjera.
+(3) U slučaju iz stavka 2. ovoga članka troškovi izvršenja mjera iz članka 187. ovoga Zakona naknađuju se u korist proračuna jedinice lokalne, odnosno područne (regionalne) samouprave.

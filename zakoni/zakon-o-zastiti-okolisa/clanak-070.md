@@ -1,0 +1,3 @@
+# Članak 70.
+(1) Tijelo nadležno za provedbu strateške procjene, odnosno za postupak ocjene sukladno ovom Zakonu stratešku studiju i nacrt prijedloga strategije, plana ili programa obvezno je dostaviti na mišljenje tijelima i/ili osobama određenim posebnim propisima.
+(2) Tijelo i/ili osoba određena posebnim propisom obvezni su svoje mišljenje dostaviti tijelu nadležnom za provedbu strateške procjene, odnosno za postupak ocjene u roku od 30 dana. Ukoliko mišljenje ne bude dostavljeno u propisanom roku, smatra se da prema posebnim propisima nema posebnih utjecaja i uvjeta vezanih za zaštitu okoliša koje je potrebno uvažiti u strategiji, planu ili programu.

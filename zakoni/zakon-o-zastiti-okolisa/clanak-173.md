@@ -1,0 +1,7 @@
+## X. ODGOVORNOST ZA ŠTETU U OKOLIŠU
+## Djelatnosti opasne po okoliš
+# Članak 173.
+(1) Šteta u okolišu i prijeteća opasnost od štete mogu nastati uslijed obavljanja djelatnosti koja predstavlja rizik za okoliš i za ljudsko zdravlje (u daljnjem tekstu: opasna djelatnost).
+(2) Opasne djelatnosti iz stavka 1. ovoga članka u smislu odgovornosti za štetu u okolišu i/ili prijeteću opasnost od štete smatraju se opasnima zbog načina na koji se njima upravlja, proizvodi ili zbog tvari ili sredstava koja se u njima koriste.
+(3) Djelatnosti koje se smatraju opasnima za okoliš i/ili ljudsko zdravlje u smislu odredbe stavka 1. ovoga članka, kriterije prema kojima se procjenjuje prijeteća opasnost i utvrđuje šteta u okolišu, najprikladnije mjere za otklanjanje štete u okolišu, njihovu svrhu i način odabira, način otklanjanja štete u okolišu (uključujući posebne uvjete glede pojedinih sastavnica okoliša, zaštićenih vrsta i prirodnih staništa), te način specificiranja troškova vezano za utvrđivanje i otklanjanje prijeteće opasnosti i štete u okolišu, te druga pitanja s tim u vezi, pobliže uređuje Vlada uredbom.
+(4) Šteta u okolišu i prijeteća opasnost od štete uzrokovana zaštićenim biljnim i životinjskim vrstama i/ili prirodnim staništima prema posebnom propisu (u daljnjem tekstu: zaštićene vrste) nastaje i uslijed obavljanja ostalih djelatnosti osim onih navedenih u uredbi iz stavka 1. ovoga Zakona.

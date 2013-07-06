@@ -1,0 +1,2 @@
+# Članak 269.
+Ministar će propise iz članka 40. stavka 12., članka 47. stavka 5., članka 119. stavka 2., članka 126. stavka 4., članka 132. stavka 2., članka 141. stavka 4., članka 145. stavka 4., članka 151. stavka 3., članka 192. stavka 4., članka 214. stavka 2., članka 217. stavka 2., članka 218. stavka 5., članka 219. stavka 5. i stavka 6., članka 226. stavka 3. i članka 248. stavka 6. ovoga Zakona donijeti u roku od godine dana od dana stupanja na snagu ovoga Zakona.
