@@ -1,0 +1,4 @@
+# Članak 10.
+(1) Granične vrijednosti emisija onečišćujućih tvari iz priloga 1. do 17. ovoga Pravilnika primjenjuju se u slučajevima kada opterećenja u otpadnim vodama ne pogoršavaju dobro stanje voda, a na temelju podataka o stanju voda.
+(2) U slučaju kada se utvrdi da je opterećenje u otpadnim vodama takvo da se ne može postići zahtijevano stanje voda, mogu se propisati dodatne mjere (smanjenje količina ili koncentracijskih vrijednosti u otpadnim vodama, uspostava nove tehnologije pročišćavanja i sl.).
+(3) Ako uvjeti okoliša zahtijevaju strože uvjete kakvoće okoliša od onih koji se mogu postići primjenom graničnih vrijednosti emisija odnosno primjenom najbolje raspoložive tehnike (NRT), mogu se propisati strože granične vrijednosti emisija, odnosno dodatne mjere zaštite sukladno metodologiji primjene kombiniranog pristupa.
