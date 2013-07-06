@@ -1,0 +1,1 @@
+Na temelju članka 30. stavka 4. Zakona o radiološkoj i nuklearnoj sigurnosti (»Narodne novine«, br. 28/10) uz prethodno pribavljenu suglasnost ministra zdravlja i ravnatelja Hrvatskog zavoda za zaštitu zdravlja i sigurnost na radu, ravnatelj Državnog zavoda za radiološku i nuklearnu sigurnost donosi
