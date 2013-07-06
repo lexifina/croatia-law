@@ -1,0 +1,3 @@
+# Članak 9.
+U članku 19. stavak 1. mijenja se i glasi:
+»(1) Ambalažni otpad se skuplja, ovisno o vrstama ambalaže, u spremnike ili drugu odgovarajuću opremu koja mora imati oznaku vrste i naziva ambalažnog otpada koji se u njima sprema, uputu potrošaču o načinu spremanja, osnovne informacije o pravnoj ili fizičkoj osobi odgovornoj za pražnjenje spremnika (telefonski broj, adresa, e-mail i sl.). Trgovine koje su dužne preuzimati ambalažu za pića za koju se potrošačima isplaćuje povratna naknada ili kaucija, dužne su preuzimati ambalažu tijekom cijelog radnog vremena i u skladu s odredbama ovog Pravilnika.«

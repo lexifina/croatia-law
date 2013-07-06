@@ -1,0 +1,18 @@
+# Članak 3.
+U članku 2. podstavak 1. mijenja se i glasi:
+»Ambalaža« je svaki proizvod, bez obzira na prirodu materijala od kojeg je izrađen, koji se koristi za držanje, zaštitu, rukovanje, isporuku i predstavljanje robe, od sirovina do gotovih proizvoda, od proizvođača do potrošača.
+Ambalaža su također predmeti prema sljedećim kriterijima:
+a) Predmeti koji udovoljavaju gore navedenoj definiciji ne dovodeći u pitanje ostale funkcije koje ambalaža može također obavljati, osim ako su predmeti sastavni dio proizvoda ili je nužno da sadrže, podržavaju ili čuvaju taj proizvod za vrijeme njegova trajanja i osim ako je namjena svih predmeta da se sa proizvodom zajedno koriste, troše ili zbrinjavaju.
+b) Predmeti dizajnirani/zamišljeni i namijenjeni za punjenje na mjestu prodaje i predmeti za »jednokratnu uporabu« koji se prodaju, pune ili koji su dizajnirani/zamišljeni i namijenjeni za punjenje na mjestu prodaje, smatraju se ambalažom pod uvjetom da ispunjavaju funkciju ambalaže.
+c) Sastavni dijelovi ambalaže i pomoćni dijelovi uklopljeni u ambalažu smatraju se dijelom ambalaže u koju su uklopljeni. Pomoćni dijelovi koji su izravno obješeni ili pričvršćeni na proizvod i koji su u funkciji ambalaže smatraju se ambalažom, osim ako nisu sastavni dio toga proizvoda i namijenjeni da se s proizvodom zajedno koriste, troše ili odbacuju.
+Ambalaža su također i nepovratni predmeti uporabljeni za namjenu iz prve rečenice ovoga podstavka, kao i pomoćna sredstva za pakiranje, koja služe za omatanje ili povezivanje robe, pakiranje, nepropusno zatvaranje, pripremu za otpremu i označavanje robe.
+Popis ilustrativnih primjera radi pojašnjenja dodatnih slučajeva gdje je još uvijek nejasna granica između toga što je ambalaža i što nije ambalaža određen je u Dodatku VI. ovoga Pravilnika.
+Jednokratna ambalaža je ambalaža izrađena samo za jednu uporabu.
+Povratna ambalaža (višekratna) je ona ambalaža koja se, nakon što se isprazni, ponovno uporabljuje u istu svrhu i čiju višekratnu uporabu osigurava proizvođač sustavom pologa (kaucije) ili na neki drugi način.
+Višeslojna (kompozitna) ambalaža je ambalaža izrađena/načinjena iz različitih materijala koji se ne mogu odvojiti ručno.
+Prodajna ili primarna ambalaža - najmanja ambalažna jedinica u kojoj se proizvod prodaje ili daje konačnom potrošaču.
+Skupna ili sekundarna ambalaža - ambalažna jedinica koja sadrži više proizvoda u primarnoj ambalaži, tako da je proizvod pristupačan potrošaču u skupini ili služi samo u svrhu punjenja polica na prodajnom mjestu, a može se izdvojiti od proizvoda bez da utječe na njegove karakteristike i uzeti pojedinačno.
+Transportna ili tercijarna ambalaža - zaštitna ambalaža koja omogućava prijevoz, pretovar i rukovanje određenom količinom proizvoda pakiranog samo u prodajnoj ili i u prodajnoj i skupnoj ambalaži; u ovu vrstu ambalaže ne spadaju spremnici (kontejneri) za cestovni, željeznički, brodski i zračni prijevoz robe.«
+Iza podstavka 28. dodaju se novi podstavci 29. i 30. koji glase:
+»»Ponovna uporaba ambalaže« je svaki postupak kojim ambalaža, koja je bila izrađena i oblikovana da u okviru svog vijeka trajanja podnese neki minimalni broj putovanja ili obrtanja, bude ponovno napunjena ili korištena za istu svrhu za koju je izrađena, sa ili bez potpore pomoćnih proizvoda prisutnih na tržištu koji bi ambalaži pomogli da se opet napuni. Takva ponovno uporabljena ambalaža će postati ambalažni otpad kad više ne bude podložna uporabi.
+»Stavljanje na tržište« proizvoda u ambalaži je unos i uvoz istih na područje Republike Hrvatske kao i stavljanje na raspolaganje odnosno opskrba pravnih ili fizičkih osoba na području Republike Hrvatske.«
