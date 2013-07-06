@@ -1,0 +1,4 @@
+# Članak 8.
+U članku 17. stavci 2. i 3. mijenjaju se i glase:
+»(2) Zahtjev iz stavka 1. ovoga članka podnosi se izravno Agenciji ili područnom uredu Zavoda prema mjestu sjedišta poslodavca, odnosno njegove registrirane poslovne jedinice, u roku od 30 dana od isteka trećeg dana od dana objave rješenja o utvrđivanju tražbina na oglasnoj ploči suda, odnosno od isteka osmoga dana od dana objave u »Narodnim novinama« rješenja o zaključenju stečajnog postupka.
+(3) Radnici iz članka 16. ovoga Zakona zahtjev podnose izravno Agenciji ili područnom uredu Zavoda prema mjestu rada ili uobičajenom mjestu rada u roku od 30 dana od dana kada se prema nadležnom nacionalnom zakonodavstvu smatra izvršenom dostava akta o utvrđivanju tražbina ili kada se smatra izvršenom dostava akta kojim je nadležno tijelo utvrdilo da je posao poslodavca definitivno zatvoren, a dostupna imovina nije dovoljna za pokretanje postupka.«.
