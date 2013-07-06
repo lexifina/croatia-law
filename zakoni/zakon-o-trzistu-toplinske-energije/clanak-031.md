@@ -1,0 +1,4 @@
+# Članak 31.
+(1) Strana nezadovoljna radom distributera toplinske energije može izjaviti prigovor Agenciji sve dok traje radnja ili propuštanje radnje distributera toplinske energije.
+(2) Prigovor iz stavka 1. ovoga članka podnosi se u vezi s odbijanjem priključka na distribucijsku mrežu, uvjetima priključenja na distribucijsku mrežu, određivanjem naknade za priključenje i/ili povećanje priključne snage na distribucijskoj mreži te primjenom metodologije za određivanje iznosa tarifnih stavki za distribuciju toplinske energije.
+(3) Agencija je dužna poduzeti mjere iz svoje nadležnosti te bez odgode, a najkasnije u roku od 30 dana od dana izjavljivanja prigovora, obavijestiti nezadovoljnu stranu u pisanom obliku o mjerama koje je u povodu prigovora poduzela. Ako nezadovoljna strana nije zadovoljna poduzetim mjerama ili u propisanom roku nije obaviještena o poduzetim mjerama, može pokrenuti upravni spor. Postupak pred upravnim sudom je hitan.

@@ -1,0 +1,13 @@
+# Članak 36.
+(1) Krajnji kupac uživa zaštitu u smislu pouzdane, dostupne i dostatne isporuke toplinske energije.
+(2) Krajnji kupci koji koriste toplinsku energiju pretežito za poslovnu upotrebu samostalno ugovaraju poslovne uvjete opskrbe toplinskom energijom, na tržišnim principima, s opskrbljivačem.
+(3) U slučaju tehničkih i drugih poremećaja u isporuci toplinske energije čiji uzrok nije na postrojenjima krajnjeg kupca, krajnji kupac ima pravo na otklanjanje tih poremećaja u najkraćem roku.
+(4) Najkraći rok u kojem je energetski subjekt, odnosno kupac obvezan otkloniti poremećaje u isporuci toplinske energije krajnjem kupcu smatra se rok u kojem se najbrže može otkloniti poremećaj, u skladu s normama o izvođenju odgovarajućih radova, a najduže 24 sata od zaprimanja obavijesti o poremećaju, osim u iznimnim slučajevima kada to objektivno nije moguće učiniti u tom roku.
+(5) Poremećajima u isporuci toplinske energije iz stavka 3. ovoga članka ne smatraju se prekidi koji su rezultat primjene mjera ograničenja isporuke koje se poduzimaju u slučaju poremećaja na tržištu toplinske energije.
+(6) Kupac toplinske energije je obvezan koristiti toplinsku energiju pod uvjetima, na način i za namjenu utvrđenu odredbama ovoga Zakona, zakonom kojim se uređuje energetski sektor, sukladno aktima iz članka 32. ovoga Zakona, kao i drugim propisima.
+(7) Zabranjeno je korištenje toplinske energije suprotno uvjetima utvrđenim općim uvjetima za opskrbu toplinskom energijom glede pouzdanog i točnog mjerenja preuzete toplinske energije iz članka 32. stavka 2. ovoga Zakona.
+(8) Kada distributer toplinske energije utvrdi da kupac toplinske energije neovlašteno koristi toplinsku energiju, dužan je, bez odgađanja, isključiti ga s distribucijske mreže i podnijeti prijavu nadležnom tijelu.
+(9) Kupac toplinske energije i krajnji kupac dužni su omogućiti ovlaštenim osobama nadležnih energetskih subjekata pristup mjerilima toplinske energije i unutarnjim instalacijama, kao i mjestu priključka radi:
+1. očitavanja, provjere ispravnosti, otklanjanja kvarova, zamjene i održavanja uređaja i izmještanja mjernih mjesta izvan objekta ili na granicu vlasništva ili
+2. obustave isporuke toplinske energije u slučajevima neovlaštenog korištenja toplinske energije ili neplaćanja dospjele obveze za isporučenu toplinsku energiju u skladu s utvrđenim rokovima i uvjetima.
+(10) Za opskrbljivača koji u zatvorenom, odnosno centralnom toplinskom sustavu kao ulazni energent za proizvodnju toplinske energije koristi plin, primjenjuju se odredbe opskrbe u obvezi javne usluge sukladno odredbama zakona kojim se uređuje plinski sektor.

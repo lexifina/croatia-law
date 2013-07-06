@@ -1,0 +1,46 @@
+## X. PREKRŠAJNE ODREDBE
+# Članak 49.
+(1) Novčanom kaznom u iznosu od 10.000,00 do 50.000,00 kuna kaznit će se za prekršaj fizička osoba koja je kupac, odnosno fizička osoba koja je energetski subjekt ako:
+1. obavlja energetsku djelatnost bez dozvole za obavljanje energetske djelatnosti u skladu sa člankom 6. stavkom 3. ovoga Zakona,
+2. ne koristi građevine temeljem dokaza o vlasništvu ili prava korištenja iz ugovora o zakupu te drugog ugovora sklopljenog s vlasnikom građevine i/ili opreme za obavljanje energetske djelatnosti proizvodnje toplinske energije sukladno članku 9. stavku 2. ovoga Zakona,
+3. ne osigura tajnost povjerljivih poslovnih podataka koje sazna od drugih energetskih subjekata i kupca u skladu s člankom 10. ovoga Zakona,
+4. sklopi ugovor o potrošnji toplinske energije s kupcem toplinske energije bez postojanja odluke iz članka 11. stavka 3., odnosno stavka 4. ovoga Zakona (članak 11. stavak 5.),
+5. se ne upiše u registar kupaca toplinske energije pri Agenciji sukladno članku 11. stavku 8. ovoga Zakona,
+6. ne obavlja svoju djelatnost u skladu s općim uvjetima za isporuku toplinske energije u skladu sa člankom 11. stavkom 11. ovoga Zakona,
+7. ne osigura stručno upravljanje, rukovanje i održavanje zatvorenim toplinskim sustavom u skladu sa člankom 13. stavkom 2. ovoga Zakona,
+8. opskrbu toplinskom energijom kupaca toplinske energije, u zatvorenom toplinskom sustavu obavlja više opskrbljivača suprotno odredbi članka 13. stavka 3., odnosno članku 34. stavku 3. ovoga Zakona,
+9. ne prati odvojeno troškove proizvodnje toplinske energije od ostalih energetskih djelatnosti, a koji su vezani uz isporuku električne, odnosno toplinske energije, sukladno planiranim količinama potrebnim za isporuku sukladno odredbi članka 15. stavka 6. ovoga Zakona,
+10. proizvodna postrojenja koja se namjeravaju graditi ne udovoljavaju kriterijima, utvrđenim u postupku izdavanja energetskog odobrenja (članak 16. stavak 1.),
+11. obavlja energetsku djelatnost distribucije toplinske energije bez sklopljenog ugovora o koncesiji za distribuciju toplinske energije ili ugovora o koncesiji za izgradnju energetskih objekata za distribuciju toplinske energije, odnosno obavlja energetsku djelatnost distribucije toplinske energije na području za koje je s drugim energetskim subjektom sklopljen ugovor o koncesiji (članak 19. stavak 1.),
+12. distributer toplinske energije ne ispunjava svoje obveze iz članka 27. ovoga Zakona,
+13. ne vodi računovodstveno razdvajanje djelatnosti, odnosno analitičko knjigovodstvo za svaku zgradu/građevinu sukladno članku 11. stavku 7., članku 13. stavku 5., članku 14. stavku 3., odnosno članku 46. ovoga Zakona,
+14. ne dostavi podatke, odnosno ne dostavi podatke na zahtjev sukladno odredbama članka 5. stavka 2., članka 11. stavka 9., odnosno stavka 10., članka 15. stavka 7., odnosno stavka 8. te članka 30. ovoga Zakona,
+15. ne izradi plan razvoja toplinske distribucijske mreže u skladu sa Strategijom energetskog razvoja i Programom provedbe Strategije energetskog razvoja te planovima i programima jedinica lokalne samouprave na čijem području obavlja energetsku djelatnost distribucije toplinske energije sukladno članku 28. stavku 1. ovoga Zakona,
+16. plan razvoja distribucijske mreže ne sadrži sve minimalne elemente iz članka 28. stavka 2. ovoga Zakona,
+17. ne dostavi informacije o provođenju plana razvoja distribucijske mreže jedinicama lokalne samouprave sukladno planovima i programima jedinice lokalne i područne samouprave donesenim te planom razvoja distribucijske mreže (članak 28. stavak 4.)
+18. neosnovano odbije pristup distribucijskoj mreži suprotno članku 29. stavku 1. točki 1. ovoga Zakona,
+19. ne dostavi stranki rješenje s razlozima odbijanja pristupa u skladu sa člankom 29. stavkom 2. ovoga Zakona,
+20. ne postupa u skladu s općim uvjetima za opskrbu toplinskom energijom, općim uvjetima za isporuku toplinske energije i mrežnim pravilima za distribuciju toplinske energije iz članka 32. ovoga Zakona,
+21. ne koristi toplinsku energiju, pod uvjetima, na način i za namjenu utvrđenu sukladno članku 36. stavku 6. ovoga Zakona,
+22. koristi toplinsku energiju suprotno uvjetima utvrđenim općim uvjetima za opskrbu toplinskom energijom glede pouzdanog i točnog mjerenja preuzete toplinske energije u skladu sa člankom 36. stavkom 7. ovoga Zakona,
+23. ne omogući ovlaštenim osobama pristup mjernim uređajima i unutarnjim instalacijama, kao i mjestu priključka radi očitavanja, provjere ispravnosti, otklanjanja kvarova, zamjene i održavanja uređaja i izmještanja mjernih mjesta izvan objekta ili na granicu vlasništva ili obustave isporuke toplinske energije u slučajevima neovlaštenog korištenja toplinske energije ili neplaćanja dospjele obveze za isporučenu toplinsku energiju u skladu s utvrđenim rokovima i uvjetima (članak 36. stavak 9.),
+24. ne osigura da su uvjeti ugovora o opskrbi kupca toplinske energije koje nudi usklađeni s općima aktima iz članka 32. ovoga Zakona (članak 37. stavak 3.),
+25. obavlja energetsku djelatnost opskrbe toplinskom energijom bez dozvole Agencije, suprotno odredbi članka 35. stavka 1. ovoga Zakona,
+26. ne izradi i na primjeren način javno ne objavi standardne uvjete za zaključenje ugovora o opskrbi kupca toplinske energije s unaprijed utvrđenim uvjetima sukladno članku 37. stavku 4. ovoga Zakona,
+27. sklopi ugovor o opskrbi kupca toplinske energije koji ne sadrži sve minimalne elemente iz članka 37. stavka 5. ovoga Zakona,
+28. ne poduzme mjere, unutar 24 sata, za ponovnu uspostavu opskrbe kupca koji je podmirio svoje dospjele obveze, odnosno bez odgađanja ne podnese zahtjev distributeru toplinske energije za ponovnu uspostavu opskrbe toplinskom energijom u skladu sa člankom 38. stavkom 4. ovoga Zakona,
+29. ne uspostavi opskrbu kupca, unutar 24 sata, ako se utvrdi da je kupcu neutemeljeno obustavljena opskrba toplinskom energijom u skladu sa člankom 38. stavkom 5. ovoga Zakona,
+30. ugovor o prodaji toplinske energije sklopi bez prethodne suglasnosti distributera toplinske energije suprotno odredbi članka 39. stavka 2. ovoga Zakona,
+31. priključi građevinu na distribucijsku mrežu bez građevinske dozvole ili drugoga odgovarajućeg akta na temelju kojega se može graditi građevina suprotno odredbi članka 42. stavka 1. ovoga Zakona,
+32. uslugu upravljanja i održavanja unutarnjih instalacija u zgradi/građevini ne obavlja osoba iz članka 44. stavka 1. ovoga Zakona,
+33. obavlja preinake na unutarnjim instalacijama bez prethodnog obavještavanja distributera i opskrbljivača toplinske energije (članak 44. stavak 3.),
+34. za obavljanje energetskih djelatnosti koje se obavljaju kao javna usluga ne primjenjuje iznose tarifnih stavki na temelju tarifne metodologije u skladu sa člankom 15. stavkom 5., člankom 27. točkom 17. te člankom 34. ovoga Zakona,
+35. ne omogući pristup poslovnim knjigama sukladno članku 47. ovoga Zakona,
+36. ne postupa prema rješenju nadležnog inspektora u skladu sa člankom 48. stavkom 3. ovoga Zakona,
+37. ne uskladi svoje poslovanje, odnosno ne organizira obavljanje svoje djelatnosti u propisanom roku, sukladno članku 53. stavcima 2., 3. i 9. ovoga Zakona,
+38. ne donese odluku u propisanom roku, sukladno članku 53. stavcima 4. i 10. ovoga Zakona,
+39. ne sklopi ugovor u propisanom roku, sukladno odredbama članka 53. stavcima 5., 8. i 11. ovoga Zakona,
+40. ne dostave podatke u propisanom roku, sukladno odredbama članka 53. stavcima 6. i 7. ovoga Zakona.
+(2) Novčanom kaznom u iznosu od 20.000,00 do 500.000,00 kuna kaznit će se za prekršaje iz stavka 1. ovoga članka pravna osoba, odnosno pravna osoba koja je energetski subjekt.
+(3) Novčanom kaznom u iznosu od 300,00 do 50.000,00 kuna kaznit će se za prekršaj iz stavka 1. ovoga članka odgovorna osoba u fizičkoj, odnosno pravnoj osobi te u energetskom subjektu.
+(4) Uz novčanu kaznu za prekršaj može se energetskom subjektu, odnosno kupcu toplinske energije, koji je počinio dva ili više prekršaja iz stavka 1. ovoga članka ili koji u razdoblju od godine dana ponovi dva ili više puta prekršaj iz stavka 1. ovoga članka, izreći zaštitna mjera zabrane obavljanja energetske djelatnosti, odnosno djelatnosti u trajanju do godine dana, a odgovornoj osobi energetskog subjekta, odnosno kupca toplinske energije može se izreći zaštitna mjera zabrane obavljanja istih poslova u trajanju do godine dana.
