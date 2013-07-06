@@ -1,0 +1,7 @@
+# Članak 5.
+U članku 25. iza stavka 1. dodaju se novi stavci 2. i 3. koji glase:
+»(2) Iznimno od stavka 1. ovoga članka, za ugostiteljski objekt vrste soba, apartman i studio apartman ugostitelju će se izdati privremeno rješenje o ispunjavanju uvjeta za vrstu i kategoriju ugostiteljskog objekta, do izvršnosti rješenja o promjeni namjene toga prostora u poslovni prostor, a najduže do 31. prosinca 2016. godine, s tim da je za objekte koji se nalaze u zgradi čija je građevinska (bruto) površina veća od 400 m² potrebno ishoditi pozitivno mišljenje tijela nadležnog za zaštitu od požara.
+(3) Iznimno od stavka 1. ovoga članka, osobi koja je podnijela zahtjev za pokretanje postupka ozakonjenja nezakonito izgrađene građevine za manje zahtjevnu zgradu nadležnom upravnom tijelu za izdavanje rješenja o izvedenom stanju, sukladno posebnom propisu kojim je uređeno postupanje s nezakonito izgrađenim zgradama, izdat će se privremeno rješenje o obavljanju ugostiteljske djelatnosti u nekoj od vrsta ugostiteljskog objekta, do izvršnosti rješenja kojim će se odlučiti o zahtjevu ugostitelja, a najdulje do 31. prosinca 2016. godine, ukoliko ispunjava uvjete iz stavka 1. točaka 1., 3. i 4. ovoga članka, te sljedeće uvjete:
+1. da je vlasnik zemljišta na kojem se nalazi građevina za koju je podnesen zahtjev za ozakonjenje nezakonito izgrađene građevine,
+2. da je u roku podnio zahtjev za pokretanje postupka ozakonjenja nezakonito izgrađene građevine u kojoj će pružati usluge smještaja.«.
+Dosadašnji stavci 2. do 6. postaju stavci 4. do 8.
