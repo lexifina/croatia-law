@@ -1,0 +1,5 @@
+# Članak 76.
+(1) Ministarstvo, na temelju stručnog mišljenja Zavoda iz članka 74. stavka 4., odnosno članka 75. stavka 4. ovoga Zakona i uz prethodnu suglasnost središnjeg tijela državne uprave nadležnog za poslove poljoprivrede, morskog ribarstva, slatkovodnog ribarstva ili vodnog gospodarstva te uzimajući u obzir mišljenje javnosti, izdaje dopuštenje za ponovno uvođenje nestale zavičajne divlje vrste u prirodu ili za repopulaciju ako utvrdi da ne postoji ekološki rizik.
+(2) Dopuštenje iz članka 74. ovoga Zakona izdaje se na rok do pet godina.
+(3) Dopuštenje iz članka 74. ovoga Zakona sadrži uvjete uvođenja zavičajne divlje vrste u prirodu ili njezine repopulacije, rok za obavljanje aktivnosti te obvezu praćenja i izvješćivanja.
+(4) Pravna i fizička osoba kojoj je izdano dopuštenje iz članka 74. ovoga Zakona dužna je odmah po uvođenju nestale zavičajne divlje vrste u prirodu ili repopulaciji izvijestiti Ministarstvo, pratiti zavičajnu divlju vrstu nakon uvođenja u prirodu ili njezine repopulacije na način propisan uredbom iz članka 68. stavka 3. ovoga Zakona te o tome izvijestiti Ministarstvo.

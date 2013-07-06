@@ -1,0 +1,8 @@
+## Opći akti o zaštiti i očuvanju zaštićenog područja
+# Članak 142.
+(1) Za zaštićena područja u kategoriji strogog rezervata, nacionalnog parka, posebnog rezervata i parka prirode, na prijedlog upravnog vijeća nadležne javne ustanove uz prethodno pribavljeno mišljenje Zavoda, ministar donosi pravilnik o zaštiti i očuvanju.
+(2) Pravilnikom iz stavka 1. ovoga članka pobliže se propisuju uvjeti i mjere zaštite, očuvanja, unapređenja i korištenja zaštićenog područja i upravne mjere za nepoštivanje odredbi toga pravilnika i ovoga Zakona.
+(3) Za ostale kategorije zaštićenih područja predstavničko tijelo nadležne jedinice područne (regionalne) samouprave, na prijedlog upravnog vijeća nadležne javne ustanove uz prethodno pribavljeno mišljenje Zavoda i prethodnu suglasnost Ministarstva, može donijeti odluku o mjerama zaštite, očuvanja, unapređenja i korištenja zaštićenog područja.
+(4) Odlukom iz stavka 3. ovoga članka pobliže se propisuju uvjeti i mjere zaštite, očuvanja, unapređenja i korištenja zaštićenog područja te mjere za provođenje te odluke.
+(5) Za zaštićena područja iz stavaka 1. i 3. ovoga članka, pravilnik o zaštiti i očuvanju, odnosno odluka o mjerama zaštite, očuvanja, unapređenja i korištenja zaštićenih područja donosi se uz pribavljenu prethodnu suglasnost središnjeg tijela državne uprave nadležnog za poslove pomorstva, šumarstva, ribarstva ili vodnoga gospodarstva kada je prirodno obilježje zbog kojeg je područje zaštićeno iz njihova djelokruga.
+(6) Ako nadležno tijelo iz stavka 5. ovoga članka ne dostavi prethodnu suglasnost u roku od 30 dana, smatrat će se da je prethodna suglasnost izdana.

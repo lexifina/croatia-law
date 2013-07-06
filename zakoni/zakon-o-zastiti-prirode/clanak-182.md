@@ -1,0 +1,3 @@
+# Članak 182.
+(1) Na osnovi odluke o davanju koncesije davatelj koncesije i odabrani najpovoljniji ponuditelj sklapaju ugovor o koncesiji koji mora biti u skladu s ovim Zakonom i Zakonom o koncesijama.
+(2) Visina naknade za koncesiju kao stalan jednaki iznos i/ili varijabilni iznos utvrđuje se ovisno o namjeni, opsegu i visini potrebnih ulaganja, pogodnostima i materijalnim učincima koji se postižu koncesijom, ograničenjima kojima je podvrgnut koncesionar propisanim uvjetima zaštite prirode te drugim mjerilima i tržišnim uvjetima koje utvrđuje davatelj koncesije, kao i kriterijima propisanim Zakonom o koncesijama.

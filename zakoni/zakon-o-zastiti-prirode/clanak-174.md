@@ -1,0 +1,8 @@
+# Članak 174.
+(1) Svaki zahvat ili djelovanje u prirodi izvršen bez pravne osnove koji umanjuje, oštećuje ili uništava vrijednost, strukturu, kvalitetu, raznolikost i/ili posebnost nekog dijela prirode je ekološka šteta.
+(2) Osoba koja je počinila ekološku štetu dužna je nadoknaditi je.
+(3) Ekološka šteta se nadoknađuje uspostavom prijašnjeg stanja u prirodi, kakvo je bilo prije nastanka štete. U slučaju kad nije moguće u cijelosti ili djelomično uspostaviti prijašnje stanje počinitelj je dužan platiti Republici Hrvatskoj novčanu naknadu.
+(4) Visina naknade iz stavka 3. ovog članka određuje se prema stupnju zaštite prirode ako je taj dio prirode zaštićen, statusu dijela prirode, očuvanosti, izvornosti i netaknutosti prirode te stupnju smanjenja tih vrijednosti, stupnju smanjenja bioraznolikosti, krajobrazne raznolikosti i georaznolikosti, stupnju estetske vrijednosti i posebnosti i/ili raznolikosti krajobraza, stupnju i opsegu oštećenja i/ili uništenja dijela prirode, stupnju površinskih ili podzemnih, geoloških, hidrogeoloških i geomorfoloških vrijednosti prirode te stupnju njihova oštećenja, stupnju oštećenja staništa, površini zahvaćenoj zahvatom, odnosno djelovanjem, utjecaju na očuvanje toga dijela prirode za budućnost i dr.
+(5) Okvirnu visinu naknade na temelju kriterija iz stavka 4. ovoga članka propisuje ministar pravilnikom.
+(6) Visina naknade štete prouzročene nedopuštenom radnjom u odnosu na pojedine jedinke strogo zaštićenih divljih vrsta utvrđuje se prema odštetnom cjeniku koji će donijeti ministar.
+(7) Naknada iz stavka 3. i 6. ovoga članka plaća se Republici Hrvatskoj.

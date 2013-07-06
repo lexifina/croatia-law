@@ -1,0 +1,5 @@
+# Članak 91.
+(1) Ministarstvo izdaje dopuštenje iz članka 89. ovoga Zakona ako utvrdi da aktivnost neće ugroziti opstanak ekosustava i narušiti populaciju zavičajne divlje vrste do te mjere da postane ugrožena te utvrdi uvjete kojima se osigurava pravilna raspodjela dobrobiti koja će proizaći iz korištenja genetskog materijala.
+(2) Za izdavanje dopuštenja za pristup i korištenje genetskog materijala zavičajnih divljih vrsta koje su strogo zaštićene temeljem ovoga Zakona Ministarstvo je dužno utvrditi da su ispunjeni i uvjeti iz članka 155. ovoga Zakona.
+(3) Dopuštenje iz članka 89. ovoga Zakona izdaje se na rok do pet godina.
+(4) Dopuštenje iz članka 89. ovoga Zakona sadrži uvjete za pristup i/ili korištenje genetskog materijala, rok obavljanja aktivnosti, obvezu izvješćivanja o rezultatima istraživanja i načinu korištenja genetskog materijala, obvezu izvješćivanja o prijenosu genetskog materijala trećim osobama, dogovorene uvjete o pravednoj raspodjeli koristi dobivenih na temelju korištenja genetskog materijala.

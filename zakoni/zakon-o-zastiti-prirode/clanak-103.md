@@ -1,0 +1,2 @@
+# Članak 103.
+Nalaznik speleološkog objekta iz članka 100. ovoga Zakona i nositelj zahvata, odnosno osoba koja izvodi druge radove iz članka 101. ovoga Zakona dužna je poduzeti nužne mjere zaštite u svrhu sprječavanja uništenja ili oštećenja speleološkog objekta, živog svijeta te fosilnih, arheoloških ili drugih nalaza koji se nalaze unutar speleološkog objekta do donošenja rješenja iz članka 100., odnosno članka 101. stavka 4. ovoga Zakona.

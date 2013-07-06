@@ -1,0 +1,6 @@
+# Članak 55.
+(1) Očuvanje područja ekološke mreže osigurava se provođenjem postupka Ocjene prihvatljivosti i učinkovitim upravljanjem područjem te poštivanjem osnovnih mjera očuvanja iz stavaka 3. i 4. ovoga članka.
+(2) Ako je to nužno za ostvarivanje ciljeva očuvanja područja ekološke mreže, planovi gospodarenja prirodnim dobrima, dokumenti prostornog uređenja i planovi upravljanja ekološkom mrežom, osim osnovnih mjera mogu sadržavati i dodatne mjere očuvanja.
+(3) Ciljeve očuvanja i osnovne mjere za očuvanje ciljanih vrsta ptica u području ekološke mreže i način provedbe mjera očuvanja, uz suglasnost središnjeg tijela državne uprave nadležnog za poslove poljoprivrede, šumarstva, lovstva, ribarstva i vodnoga gospodarstva, propisuje ministar pravilnikom.
+(4) Ciljeve očuvanja i osnovne mjere za očuvanje ciljanih vrsta, izuzev ptica te stanišnih tipova u području ekološke mreže i način provedbe mjera očuvanja, uz suglasnost središnjeg tijela državne uprave nadležnog za poslove poljoprivrede, šumarstva, lovstva, ribarstva i vodnoga gospodarstva, propisuje ministar pravilnikom.
+(5) Nije dopušteno uvođenje genetski modificiranih organizama u prirodu u zaštićenim područjima i u područjima ekološke mreže sukladno odredbama posebnog propisa kojima se uređuje uvođenje genetski modificiranih organizama.

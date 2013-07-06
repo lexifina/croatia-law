@@ -1,0 +1,5 @@
+# Članak 151.
+(1) Strogo zaštićenim vrstama proglašavaju se zavičajne divlje vrste koje su ugrožene ili su usko rasprostranjeni endemi ili divlje vrste za koje je takav način zaštite propisan propisima Europske unije kojima se uređuje očuvanje divljih biljnih i životinjskih vrsta ili međunarodnim ugovorima kojih je Republika Hrvatska stranka.
+(2) Strogo zaštićene vrste, na prijedlog Zavoda temeljem Crvenog popisa, vodeći računa o načelu predostrožnosti i ostalim kriterijima propisanim ovim Zakonom, proglašava ministar pravilnikom.
+(3) Pravilnikom iz stavka 2. ovoga članka propisuju se i opće mjere zaštite strogo zaštićenih vrsta i njihovih staništa, detaljni sadržaj zahtjeva za izdavanje dopuštenja za odstupanja od strogih mjera zaštite, postupanje s mrtvim ili ozlijeđenim primjercima strogo zaštićenih vrsta, sadržaj, način izrade i postupak donošenja plana upravljanja s akcijskim planom i druga pravila postupanja sa strogo zaštićenim vrstama.
+(4) Crveni popis utvrđuje Zavod te je zadužen za njegovo ažuriranje. Crveni popis objavljuje se na internetskoj stranici Zavoda.

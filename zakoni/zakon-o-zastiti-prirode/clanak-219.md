@@ -1,0 +1,5 @@
+# Članak 219.
+(1) Ako inspektor u inspekcijskom nadzoru utvrdi nedostatke ili nepravilnosti kojima se krše odredbe ovoga Zakona ili koje mogu prouzročiti štetne posljedice za prirodu, rješenjem nalaže stranki otklanjanje nedostataka ili nepravilnosti, odnosno obustavu aktivnosti koje mogu prouzročiti štetne posljedice za prirodu.
+(2) Ako inspektor u inspekcijskom nadzoru utvrdi da su nedostaci, nepravilnosti ili određene aktivnosti prouzročile štetne posljedice za prirodu, rješenjem naređuje uspostavu prijašnjeg stanja, odnosno zabranjuje daljnje aktivnosti i naređuje mjere za uklanjanje štetnih posljedica.
+(3) Inspektor ne donosi rješenje iz stavka 1. ovoga članka ako su utvrđene nepravilnosti otklonjene tijekom inspekcijskog nadzora, odnosno do donošenja rješenja, što je dužan utvrditi i navesti u zapisniku.
+(4) Radi sprječavanja nastanka neotklonjivih posljedica za prirodu, odnosno radi naređivanja hitnih zaštitnih mjera, inspektor može donijeti rješenje u usmenom obliku, što je dužan unijeti u zapisnik, uz naznaku da će se rješenje donijeti i u pisanom obliku, osim ako stranka ne zahtijeva pisani otpravak usmenog rješenja.

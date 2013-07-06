@@ -1,0 +1,9 @@
+# Članak 48.
+(1) Tijelo nadležno za donošenje strategije, plana i programa iz članka 26. stavka 2. ovoga Zakona podnosi Ministarstvu zahtjev za Prethodnu ocjenu.
+(2) Zahtjev iz stavka 1. ovoga članka obvezno sadrži podatke o planu ili programu, razloge donošenja, ciljeve i programska polazišta, obuhvat plana ili programa, kartografski prikaz u pisanom i elektroničkom obliku.
+(3) Po zaprimanju zahtjeva iz stavka 1. ovoga članka Ministarstvo će zatražiti od Zavoda mišljenje o mogućnosti značajnih negativnih utjecaja strategije, plana ili programa na ciljeve očuvanja i cjelovitost područja ekološke mreže.
+(4) Zavod je dužan mišljenje iz stavka 3. ovoga članka dostaviti Ministarstvu u roku od 15 dana od zaprimanja zahtjeva iz stavka 3. ovoga članka.
+(5) Ako Ministarstvo isključi mogućnost značajnih negativnih utjecaja strategije, plana i programa na ciljeve očuvanja i cjelovitost područja ekološke mreže, donosi rješenje da je strategija, plan ili program prihvatljiv za ekološku mrežu.
+(6) Ako Ministarstvo ne isključi mogućnost značajnih negativnih utjecaja strategije, plana i programa na ciljeve očuvanja i cjelovitost područja ekološke mreže, donosi rješenje da je za strategiju, plan ili program obvezna Glavna ocjena.
+(7) Rješenje iz stavaka 5. i 6. ovoga članka sadrži podatke o strategiji, programu ili planu, podatke o ekološkoj mreži i obrazloženje razloga na temelju kojih je isključena mogućnost značajnih negativnih utjecaja strategija, programa ili plana na ciljeve očuvanja i cjelovitost područja ekološke mreže ili obrazloženje razloga na temelju kojih je utvrđena obveza provedbe Glavne ocjene.
+(8) Za strategije, planove i programe za koje je prema posebnom propisu iz područja zaštite okoliša određena obveza strateške procjene, rješenje iz stavaka 5. i 6. ovoga članka prilaže se uz odgovarajući zahtjev.

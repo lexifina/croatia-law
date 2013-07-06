@@ -1,0 +1,5 @@
+# Članak 37.
+(1) Ako Ministarstvo utvrdi da je, uzimajući u obzir mišljenje iz članka 35. stavka 1. ovoga Zakona, moguće odrediti kompenzacijske uvjete, dostavlja zahtjev iz članka 34. ovoga Zakona, mišljenje iz članka 35. ovoga Zakona i prijedlog odluke o utvrđivanju prevladavajućeg javnog interesa za provedbu zahvata Vladi u roku od 30 dana od dana zatvaranja javne rasprave iz članka 35. stavka 1. ovoga Zakona, odnosno ishođenja mišljenja Europske komisije iz stavka 4. ovoga članka.
+(2) Vlada u roku od 30 dana od dana zaprimanja zahtjeva iz stavka 1. ovoga članka donosi odluku o utvrđivanju prevladavajućeg javnog interesa, uključujući onog socijalne ili ekonomske prirode, za provedbu zahvata.
+(3) Ako se na području ekološke mreže nalazi stanišni tip i/ili vrsta iz Popisa posebno ugroženih i značajnih stanišnih tipova i vrsta, prevladavajući javni interes može se odnositi samo na zaštitu zdravlja ljudi, sigurnost ljudi i imovine ili na uspostavljanje bitno povoljnijih uvjeta od primarne važnosti za okoliš.
+(4) Iznimno od stavka 3. ovoga članka, za utvrđivanje drugog prevladavajućeg javnog interesa Ministarstvo je dužno ishoditi mišljenje Europske komisije.

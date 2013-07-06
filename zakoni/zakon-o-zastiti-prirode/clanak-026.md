@@ -1,0 +1,4 @@
+# Članak 26.
+(1) Za strategije, planove i programe, za koje je posebnim propisom kojim se uređuje zaštita okoliša određena ocjena o potrebi strateške procjene, Prethodna ocjena obavlja se u okviru postupka ocjene o potrebi strateške procjene.
+(2) Za strategije, planove i programe, za koje je posebnim propisom kojim se uređuje zaštita okoliša određena obveza strateške procjene, Prethodna ocjena obavlja se prije pokretanja postupka strateške procjene utjecaja strategije, plana i programa na okoliš.
+(3) Za strategije, planove i programe, za koje je posebnim propisom kojim se uređuje zaštita okoliša određena obveza strateške procjene ili je ona utvrđena u postupku ocjene o potrebi strateške procjene, Glavna ocjena obavlja se u okviru postupka strateške procjene utjecaja strategije, plana i programa na okoliš.

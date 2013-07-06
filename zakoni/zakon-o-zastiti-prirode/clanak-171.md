@@ -1,0 +1,4 @@
+# Članak 171.
+(1) Pravna i fizička osoba kojoj životinje strogo zaštićenih vrsta mogu uzrokovati direktnu imovinsku štetu (u daljnjem tekstu: oštećenik) dužna je na primjeren način i na svoj trošak učiniti sve dopuštene radnje i zahvate, kako bi spriječila nastanak štete.
+(2) Ako nastanak štete nije moguće spriječiti na način propisan stavkom 1. ovoga članka, oštećenik može od Ministarstva tražiti dopuštenje za provođenje zabranjenih radnji iz članka 153. ovoga Zakona koje se odobravaju na način i pod uvjetima propisanim člancima 155. do 157. ovoga Zakona.
+(3) Na naknadu štete koju počine životinje strogo zaštićenih vrsta za koje je odobreno odstupanje od strogih mjera zaštite i za koje se odstupanje odobrava sukladno planu gospodarenja za tu vrstu koji usvaja i provodi središnje tijelo državne uprave nadležno za poslove lovstva, primjenjuju se odredbe posebnih propisa kojima se uređuje lovstvo.

@@ -1,0 +1,3 @@
+# Članak 50.
+(1) Ako se Glavnom ocjenom utvrdi da strategija, plan ili program nema značajan negativan utjecaj na ciljeve očuvanja i cjelovitost područja ekološke mreže, Ministarstvo daje mišljenje o prihvatljivosti strategije, plana ili programa. Mišljenjem se mogu utvrditi mjere ublažavanja negativnih utjecaja na ekološku mrežu.
+(2) Ako se Glavnom ocjenom utvrdi da strategija, plan ili program, odnosno varijantno rješenje strategije, plana ili programa ima ili se ne može isključiti značajan negativan utjecaj na ciljeve očuvanja i cjelovitost područja ekološke mreže, unatoč mjerama ublažavanja, Ministarstvo daje mišljenje o neprihvatljivosti strategije, plana ili programa.

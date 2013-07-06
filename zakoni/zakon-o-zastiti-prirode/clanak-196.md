@@ -1,0 +1,4 @@
+# Članak 196.
+(1) Informacijski sustav zaštite prirode uspostavlja se sa svrhom objedinjavanja i usklađivanja podataka o bioraznolikosti i zaštiti prirode kako bi poslužili kao jedinstvena podloga u kreiranju, organiziranju, planiranju te cjelovitom upravljanju zaštitom prirode i/ili pojedinim sastavnicama bioraznolikosti.
+(2) Informacijski sustav zaštite prirode sadrži podatke i informacije o bioraznolikosti i zaštiti prirode, a osobito podatke o divljim vrstama, stranim invazivnim vrstama, stanišnim tipovima i ekološkim sustavima, zaštićenim i ekološki značajnim područjima, područjima ekološke mreže, georaznolikosti, speleološkim objektima te druge stručne i znanstvene podatke.
+(3) Zavod uspostavlja i vodi informacijski sustav zaštite prirode Republike Hrvatske, uvažavajući međunarodno prihvaćene standarde i obveze.

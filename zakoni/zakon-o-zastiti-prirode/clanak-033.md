@@ -1,0 +1,6 @@
+# Članak 33.
+(1) Ako nadležno tijelo iz članka 29. ovoga Zakona utvrdi, uzimajući u obzir i mišljenje javnosti, da planirani zahvat ima ili se ne može isključiti značajan negativan utjecaj na ciljeve očuvanja i cjelovitost područja ekološke mreže, unatoč mjerama ublažavanja, rješenjem odbija zahtjev iz članka 31. ovoga Zakona uz uputu da je za zahvat moguće pokrenuti postupak utvrđivanja prevladavajućeg javnog interesa i odobrenje zahvata uz kompenzacijske uvjete.
+(2) Ako nadležno tijelo iz članka 29. ovoga Zakona utvrdi, uzimajući u obzir i mišljenje javnosti, da planirani zahvat nema značajan negativan utjecaj na ciljeve očuvanja i cjelovitost područja ekološke mreže, donosi rješenje o prihvatljivosti zahvata za ekološku mrežu.
+(3) Rješenje iz stavka 2. ovoga članka sadrži podatke o zahvatu, mjere ublažavanja negativnih utjecaja na ciljeve očuvanja i cjelovitost područja ekološke mreže i program praćenja i izvješćivanja o stanju ciljeva očuvanja i cjelovitosti područja ekološke mreže.
+(4) Nadležno tijelo donosi rješenje iz stavaka 1. i 2. ovoga članka u roku od 30 dana od dana zatvaranja javne rasprave.
+(5) Za zahvate za koje se prema posebnim propisima iz područja zaštite okoliša provodi postupak procjene utjecaja na okoliš, rješenje doneseno u tom postupku sadrži i rezultate Glavne ocjene sukladno ovom članku, koji su obvezujući.
