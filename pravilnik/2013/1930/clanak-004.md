@@ -1,0 +1,3 @@
+# Članak 4.
+U članku 14. stavak 4. mijenja se i glasi:
+»4) U skladu s člankom 42. stavkom 4. Zakona dobavljač je do 15. lipnja tekuće godine obvezan za prethodnu vegetacijsku sezonu dostaviti Zavodu Godišnje izvješće o proizvedenim, prodanim i neprodanim količinama sadnog materijala po vrstama, sortama i podlogama, na Obrascu broj 14. koji se nalazi u Dodatku 4. ovoga Pravilnika, kopiju izdanih Certifikata o sadnom materijalu uz otpremnicu i neiskorištene Certifikate o sadnom materijalu uz otpremnicu. Za sadnice koje se stavljaju na tržište u kontejnerima izvješće se iznimno podnosi do 15. rujna tekuće godine.«.
