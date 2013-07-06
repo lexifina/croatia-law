@@ -1,0 +1,2 @@
+# Članak 63.
+Primatelj obrambenih proizvoda u Republici Hrvatskoj dužan je prilikom podnošenja zahtjeva za izdavanjem dozvole za izvoz tih obrambenih proizvoda pisanim putem obavijestiti Ministarstvo da proizvod koji je primljen temeljem dozvole za prijenos od strane neke druge države članice Europske unije ima izvozna ograničenja te da je poštivao uvjete navedene u ograničenju uključujući u slučaju potrebe da je dobio suglasnost države članice Europske unije.

@@ -1,0 +1,3 @@
+# Članak 23.
+(1) Prije sklapanja ugovora o kupnji ili prodaji robe vojne namjene, odnosno nevojnih ubojnih sredstava za komercijalne svrhe, osobe iz članka 10. stavka 1. ovoga Zakona mogu zatražiti od Ministarstva mišljenje je li obavljanje predmetne djelatnosti s određenim brokerom, kupcem, uvoznikom, krajnjim korisnikom te državom krajnje uporabe robe u suprotnosti s odredbama članka 21. ovoga Zakona.
+(2) Ministarstvo je dužno, nakon pribavljenih informacija od strane nadležnih tijela Republike Hrvatske, osobama iz članka 10. stavka 1. ovoga Zakona dati mišljenje je li broker, kupac, uvoznik, krajnji korisnik ili država krajnje uporabe poželjan sudionik u navedenom poslu.

@@ -1,0 +1,2 @@
+# Članak 44.
+Iznimno od članka 43. stavka 1. ovoga Zakona, dozvola za prijenos obrambenih proizvoda unutar Europske unije nije potrebna u slučajevima kada su dobavljač i primatelj vladina tijela ili dio oružanih snaga država članica Europske unije, kada dobavljanje obavlja Europska unija, NATO, Međunarodna agencija za atomsku energiju ili druge međunarodne organizacije za obavljanje svojih zadaća te kada je prijenos povezan s humanitarnom pomoći vladinog tijela u slučaju katastrofe ili kao donacija u nužnim slučajevima.

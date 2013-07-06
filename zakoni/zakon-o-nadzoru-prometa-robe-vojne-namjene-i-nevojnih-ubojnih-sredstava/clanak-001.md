@@ -1,0 +1,3 @@
+## I. OPĆE ODREDBE
+# Članak 1.
+Ovim se Zakonom uređuje nadzor prometa robe vojne namjene i nevojnih ubojnih sredstava koji uključuje aktivnosti prije, tijekom i nakon izdavanja dozvola za izvoz, privremeni izvoz, uvoz, privremeni uvoz, pružanje usluga te prijenos i provoz obrambenih proizvoda unutar Europske unije, kao i nadležnosti tijela državne uprave u provedbi ovoga Zakona, prava i obveze izvoznika, uvoznika, dobavljača, primatelja i pružatelja usluga, uvjeti za obavljanje djelatnosti propisanih ovim Zakonom, upravne mjere, prekršaje i kaznena djela u slučajevima kršenja pojedinih odredbi ovoga Zakona.
