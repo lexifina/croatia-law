@@ -1,0 +1,3 @@
+# Članak 17.
+U članku 91. stavku 1. na kraju stavka dodaje se rečenica koja glasi: »Kod ocjene cijena javni naručitelj uzima u obzir usporedne iskustvene i tržišne vrijednosti te sve okolnosti pod kojima će se izvršavati određeni ugovor o javnoj nabavi.«.
+U stavku 4. na kraju stavka dodaje se rečenica koja glasi: »Javni naručitelj provjerava jesu li cijene ekonomski objašnjive i logične, a osobito može provjeriti jesu li u cijeni bitnih stavki sadržani svi troškovi (osoblja, materijala, uređaja, usluga itd.) te je li cijena za tržišno vrednije, odnosno kvalitetnije stavke u pravilu viša nego za tržišno manje vrijedne, odnosno manje kvalitetne stavke.«.

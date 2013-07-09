@@ -1,0 +1,2 @@
+# Članak 19.
+U članku 95. stavku 1. prva rečenica mijenja se i glasi: »Nakon rangiranja ponuda prema kriteriju za odabir ponude, a prije donošenja odluke o odabiru, javni naručitelj može od najpovoljnijeg ponuditelja s kojim namjerava sklopiti ugovor o javnoj nabavi ili jednog ili više gospodarskih subjekata s kojima namjerava sklopiti okvirni sporazum zatražiti dostavu izvornika ili ovjerenih preslika jednog ili više dokumenata koji su traženi sukladno člancima 67. do 74. ovoga Zakona.«.
