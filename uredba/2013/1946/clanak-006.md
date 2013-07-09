@@ -1,0 +1,7 @@
+# Članak 6.
+Odjel za poslove Odbora stalnih predstavnika vlada država članica pri Europskoj uniji u sastavu stalnih predstavnika (COREPER II) prati i sudjeluje u radu radnih skupina i odbora u okviru COREPER-a II; surađuje s Upravom za europske poslove Ministarstva i nadležnim tijelima državne uprave; u skladu s Odlukom Vlade o osnivanju međuresorne radne skupine za europske poslove sudjeluje u pripremi prijedloga nacionalnih stajališta koja usvaja Vlada kao i drugih dokumenata Republike Hrvatske za sastanke Odbora stalnih predstavnika vlada država članica pri Europskoj uniji u sastavu stalnih predstavnika (COREPER II) u sljedećim područjima: opći i vanjski poslovi; ekonomska, financijska i carinska pitanja; regionalne politike; pravosuđe i unutarnji poslovi; trgovinska politika i razvojna pitanja; u skladu s Odlukom Vlade o osnivanju međuresorne radne skupine za europske poslove sudjeluje u izradi nacionalnih stajališta Republike Hrvatske za sastanke Europskog vijeća, kao i različitih formata Vijeća Europske unije koje priprema COREPER II te obavlja i druge poslove iz svoga djelokruga.
+U Odjelu za poslove Odbora stalnih predstavnika vlada država članica pri Europskoj uniji u sastavu stalnih predstavnika (COREPER II) ustrojavaju se sljedeći odsjeci:
+3.2.1. Odsjek za vanjske poslove;
+3.2.2. Odsjek za opće poslove;
+3.2.3. Odsjek za ekonomska i financijska pitanja i regionalne politike;
+3.2.4. Odsjek za pravosuđe i unutarnje poslove.

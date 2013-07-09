@@ -1,0 +1,3 @@
+# Članak 30.
+Za vrijeme rada u Stalnom predstavništvu resorni predstavnik kao ugovorni diplomat član je diplomatskog osoblja Stalnog predstavništva te uživa sve posebnosti iz radno-pravnog odnosa koje proizlaze iz rada u Stalnom predstavništvu, a koje su uređene Zakonom o vanjskim poslovima i podzakonskim propisima kojima se uređuju statusna pitanja u službi vanjskih poslova.
+O postavljenju resornog predstavnika u odgovarajuće diplomatsko zvanje odlučuje ministar temeljem prijedloga čelnika tijela državne uprave iz kojega se resorni predstavnik upućuje, a sukladno propisima kojima se uređuje rad službe vanjskih poslova.

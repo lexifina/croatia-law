@@ -1,0 +1,7 @@
+# Članak 19.
+Tajništvo Stalnog predstavništva obavlja stručne i tehničke poslove podrške i pružanja pomoći članovima Stalnog predstavništva iz područja informatike i telekomunikacija, distribucije podataka, informacijske sigurnosti i fizičke zaštite, financijsko-materijalne poslove te surađuje i postupa u suradnji s Glavnim tajništvom Ministarstva; u dijelu svoje nadležnosti, posebno pruža administrativno-tehničku potporu radu svim ustrojstvenim jedinicama Stalnog predstavništva u obavljanju i koordinaciji svih uredskih poslova; obavlja poslove fizičke i tehničke zaštite, poslove distribucije i zaštite podataka, organizacije nabave, upravljanja imovinom; brine o pravilnom i racionalnom korištenju materijalno-financijskih sredstava i imovine; priprema planove i obavlja postupak nabave roba, radova i usluga za potrebe Stalnog predstavništva; obavlja stručne poslove oko investicijskog i tekućeg održavanja zgrade; priprema i obavlja poslove tekućeg održavanja, pomoćne i tehničke poslove; surađuje i koordinira aktivnosti s Protokolom Vlade, Ureda Predsjednika Republike Hrvatske kao i tijelima državne uprave i državne vlasti, u poslovima iz svoga djelokruga rada te obavlja i druge poslove iz svoga djelokruga.
+U Tajništvu Stalnog predstavništva se ustrojavaju sljedeći odsjeci:
+3.5.1. Odsjek za protokol;
+3.5.2. Odsjek za administrativno-tehničke poslove;
+3.5.3. Odsjek za podregistar.
+3.5.1. Odsjek za protokol

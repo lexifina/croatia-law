@@ -1,0 +1,1 @@
+Na temelju članka 65. Zakona o vanjskim poslovima (»Narodne novine«, br. 48/96 i 72/2013), a u vezi s člankom 105. Uredbe o unutarnjem ustrojstvu Ministarstva vanjskih i europskih poslova (»Narodne novine«, br. 10/2012 i 57/2012), Vlada Republike Hrvatske je na sjednici održanoj 4. srpnja 2013. godine donijela

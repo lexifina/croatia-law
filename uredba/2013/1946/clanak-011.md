@@ -1,0 +1,8 @@
+# Članak 11.
+Odjel za poslove Odbora stalnih predstavnika vlada država članica pri Europskoj uniji u sastavu zamjenika stalnih predstavnika (COREPER I) prati i sudjeluje u radu radnih skupina i odbora u okviru COREPER-a I, surađuje s Upravom za europske poslove Ministarstva; u skladu s Odlukom Vlade o osnivanju međuresorne radne skupine za europske poslove sudjeluje u pripremi prijedloga nacionalnih stajališta koja usvaja Vlada kao i drugih dokumenata Republike Hrvatske za sastanke Odbora stalnih predstavnika vlada država članica pri Europskoj uniji u sastavu zamjenika stalnih predstavnika (COREPER I) u područjima: prometa, telekomunikacija, energetike, poljoprivrede, ribarstva, zaštite okoliša i klime, obrazovanja, mladih, kulture, sporta, zapošljavanja, socijalne politike, zdravlja, pitanja potrošača, tržišnog natjecanja i konkurentnosti; u skladu s Odlukom Vlade o osnivanju međuresorne radne skupine za europske poslove sudjeluje u izradi i pripremi nacionalnih stajališta Republike Hrvatske za sastanke različitih formata Vijeća Europske unije koje priprema COREPER I te obavlja i druge poslove iz svoga djelokruga.
+U Odjelu za poslove Odbora stalnih predstavnika vlada država članica pri Europskoj uniji u sastavu zamjenika stalnih predstavnika (COREPER I.) ustrojavaju se sljedeći odsjeci:
+3.3.1. Odsjek za poljoprivredu i ribarstvo;
+3.3.2. Odsjek za unutarnje tržište, zapošljavanje i socijalnu politiku, zdravlje, zaštitu potrošača, obrazovanje, kulturu, sport i mlade;
+3.3.3. Odsjek za promet, telekomunikacije i energetiku;
+3.3.4. Odsjek za okoliš i klimu.
+3.3.1. Odsjek za poljoprivredu i ribarstvo

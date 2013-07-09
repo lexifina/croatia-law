@@ -1,0 +1,3 @@
+# Članak 20.
+Odsjek za protokol u suradnji s protokolom Vlade, Hrvatskoga sabora, Ureda Predsjednika Republike Hrvatske i Ministarstva obavlja poslove planiranja, pripreme i pružanja podrške za protokolarne aktivnosti državnih dužnosnika u Bruxellesu; koordinira ceremonijalne aktivnosti Stalnog predstavništva i predstavnika tijela državne vlasti od posebnog značaja za Republiku Hrvatsku; brine i provodi aktivnosti koje se odnose na notifikaciju članova Stalnog predstavništva i ostvarenje njihovih prava pri nadležnim tijelima Europske unije i Kraljevine Belgije te obavlja i druge poslove iz svoga djelokruga.
+3.5.2. Odsjek za administrativno-tehničke poslove

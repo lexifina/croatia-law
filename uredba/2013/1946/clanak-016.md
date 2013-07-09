@@ -1,0 +1,6 @@
+# Članak 16.
+Odjel za poslove Političkog i sigurnosnog odbora (PSO) bavi se zajedničkom vanjskom i sigurnosnom politikom (ZVSP) te zajedničkom sigurnosnom i obrambenom politikom (ZSOP); Odjel prati razvoj i zbivanja na području ZVSP i ZSOP, kao i usklađenost hrvatskih stajališta s istima, sudjeluje u radu Radnih skupina u konfiguraciji Vijeća za vanjske poslove kao i u pripremama nacionalnih stajališta za sastanke PSO, COREPER II (u segmentu ZVSP i ZSOP), Vijeća za vanjske poslove te Europskog vijeća (u segmentu ZVSP i ZSOP); u obavljanju zadaća Odjel za PSO usko surađuje sa Samostalnom službom za ZVSP i ZSOP, Uredom zamjenika i Kabinetom ministra, te nadležnim ustrojstvenim jedinicama Ministarstva; a o pitanjima vezanim uz sigurnosnu i obrambenu politiku s Ministarstvom obrane, Ministarstvom unutarnjih poslova i Ministarstvom pravosuđa; u obavljaju svojih poslova Odjel za PSO surađuje i s Predstavništvom Oružanih snaga Republike Hrvatske pri NATO i Europskoj uniji te obavlja druge poslove iz svoga djelokruga.
+U Odjelu za poslove Političkog i sigurnosnog odbora (PSO) ustrojavaju se sljedeći odsjeci:
+3.4.1. Odsjek za zajedničku vanjsku i sigurnosnu politiku (ZVSP);
+3.4.2. Odsjek za zajedničku sigurnosnu i obrambenu politiku (ZSOP).
+3.4.1. Odsjek za zajedničku vanjsku i sigurnosnu politiku (ZVSP)

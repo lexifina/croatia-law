@@ -1,0 +1,3 @@
+# Članak 17.
+Odsjek za zajedničku vanjsku i sigurnosnu politiku (ZVSP), u okviru Odjela za poslove Političkog i sigurnosnog odbora (PSO), prati i analitički obrađuje zajedničku vanjsku i sigurnosnu politiku; sudjeluje u radu Radnih skupina u konfiguraciji Vijeća za vanjske poslove; sudjeluje u pripremi nacionalnih stajališta za sastanke Vijeća za vanjske poslove; u suradnji s nadležnim ustrojstvenim jedinicama Ministarstva i nadležnim tijelima državne uprave daje potporu dužnosnicima i predstavniku pri Političkom i sigurnosnom odboru (PSO); obavlja i druge poslove voditelja iz djelokruga Odjela za poslove Političkog i sigurnosnog odjela (PSO) te obavlja druge poslove iz svoga djelokruga.
+3.4.2. Odsjek za zajedničku sigurnosnu i obrambenu politiku (ZSOP)

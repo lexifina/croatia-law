@@ -1,0 +1,4 @@
+# Članak 21.
+Odsjek za administrativno-tehničke poslove obavlja sve uredske poslove za potrebe ustrojstvenih jedinica Stalnog predstavništva i članova Stalnog predstavništva; obavlja poslove fizičke i tehničke zaštite, poslove distribucije i zaštite podataka, poslove vođenja podregistra; organizacije nabave, upravljanja imovinom; brine o pravilnom i racionalnom korištenju materijalno-financijskih sredstava i imovine; priprema planove i obavlja postupak nabave roba, radova i usluga za potrebe Stalnog predstavništva; obavlja stručne poslove oko investicijskog i tekućeg održavanja zgrade; priprema i obavlja poslove tekućeg održavanja, pomoćne i tehničke poslove te obavlja i druge poslove iz svoga djelokruga.
+U poslovima iz svojeg djelokruga djeluje u suradnji s Glavnim tajništvom Ministarstva.
+3.5.3. Odsjek za podregistar
