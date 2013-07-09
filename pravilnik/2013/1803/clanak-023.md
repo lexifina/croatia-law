@@ -1,0 +1,3 @@
+# Članak 23.
+(1) Mišljenje o prijedlogu za stavljanje lijeka ili proširenje indikacije već stavljenog lijeka na osnovnu, odnosno dopunsku listu lijekova Zavoda Povjerenstvo daje na temelju kritičke analize dokumentacije iz članka 9. ovoga Pravilnika, završnom dokumentu procesa procjene zdravstvene tehnologije ukoliko je isti zatražen od nadležne ustanove za procjenu zdravstvenih tehnologija te uz primjenu mjerila iz članka 14.-17. ovoga Pravilnika.
+(2) Povjerenstvo upućuje Upravnom vijeću Zavoda mišljenje o prijedlogu za stavljanje lijeka na osnovnu, odnosno dopunsku listu lijekova Zavoda ili promjenu statusa lijeka s podacima iz članka 3. ovog Pravilnika i obrazloženjem iz kojeg je razvidan utjecaj prijedloga na troškove Zavoda.
