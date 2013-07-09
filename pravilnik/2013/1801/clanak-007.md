@@ -1,0 +1,6 @@
+# Članak 7.
+(1) Usporedna cijena lijeka na veliko utvrđuje se za svaki farmaceutski oblik posebno. Ako u usporednim državama postoji više usporednih oblika lijeka od više različitih proizvođača u izračun se uzima prosječna cijena lijeka u pojedinoj državi.
+(2) Ako u usporednim državama nema jednakog farmaceutskog oblika, usporediti se može srodan oblik (npr. tableta - dražeja i sl.) pri čemu se oblici lijekova produženog ili kontroliranog djelovanja/otpuštanja lijeka ne mogu uspoređivati s oblicima lijeka s običnim otpuštanjem.
+(3) U slučaju različitog broja jedinica lijeka, za usporedbu se uzima pakiranje lijeka koje je po broju jedinica lijeka najbliže pakiranju s kojim se uspoređuje.
+(4) U slučaju nemogućnosti usporedbe zbog nedostatka određenog lijeka u nekoj državi ili razlike u koncentraciji djelatne tvari u jedinici farmaceutskog oblika za usporedbu se uzimaju podaci o cijenama lijekova u državama u kojima postoje usporedna pakiranja lijekova sukladno članku 6. stavcima 3. - 7. ovoga Pravilnika, redoslijedom kako je navedeno, na način naveden u stavku 1., 2. i 3. ovoga članka.
+(5) U slučaju nedostatka tri usporedne cijene za izračun je potrebno utvrditi prosjek najmanje dvije usporedne cijene lijeka.

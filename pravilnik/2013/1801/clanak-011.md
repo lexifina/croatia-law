@@ -1,0 +1,6 @@
+# Članak 11.
+(1) Nositelji odobrenja iz članka 4. ovoga Pravilnika koji su nositelji odobrenja za stavljanje u promet izvornih lijekova zaštićenih patentom, a kojima je do dana godišnjeg izračuna razina cijene iznad 100% prosječne usporedne cijene, moraju sniziti cijenu najmanje na razinu od 100% prosječne usporedne cijene.
+(2) Nositelji odobrenja iz članka 4. ovoga Pravilnika koji su nositelji odobrenja za stavljanje u promet izvornih lijekova koji nisu zaštićeni patentom, a kojima je do dana godišnjeg izračuna razina cijene iznad 100% prosječne usporedne cijene, moraju sniziti cijenu najmanje na razinu od 100% prosječne usporedne cijene.
+(3) Nositelji odobrenja iz članka 4. ovoga Pravilnika koji su nositelji odobrenja za stavljanje u promet generičkih lijekova kojima je do dana godišnjeg izračuna razina iznad 100% prosječne usporedne cijene moraju sniziti cijenu najmanje na razinu od 100% prosječne usporedne cijene.
+(4) Nositelji odobrenja iz članka 4. ovoga Pravilnika mogu odrediti i niže razine cijena lijekova od razina propisanih ovim člankom Pravilnika.
+(5) Cijene lijekova koje do dana godišnjeg izračuna cijena lijekova imaju razinu ispod razine navedene u stavku 1., 2., 3. i 4. ovoga članka ne usklađuju se.

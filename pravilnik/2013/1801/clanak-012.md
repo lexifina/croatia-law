@@ -1,0 +1,9 @@
+# Članak 12.
+(1) Izračun cijena lijekova za koje nositelji odobrenja predlažu stavljanje na osnovnu, odnosno dopunsku listu lijekova Zavoda obavlja se sukladno odredbama članaka 8., 9. i 10. ovoga Pravilnika.
+(2) Cijena lijeka na veliko koji sadrži potpuno novu djelatnu tvar koja bitno utječe na povećanje mogućnosti liječenja i ozdravljenja, a u prometu Republike Hrvatske se pojavljuje po prvi put, ne smije biti viša od prosječne usporedne cijene navedenog lijeka, pod uvjetom da na osnovnoj, odnosno dopunskoj listi lijekova Zavoda nema uvrštenih usporednih lijekova sa istim ili sličnim farmakološko-terapijskim svojstvima.
+(3) Cijena lijeka na veliko koji se propisuje na recept, a sadrži potpuno novu djelatnu tvar, a na osnovnoj, odnosno dopunskoj listi lijekova Zavoda ima uvrštenih usporednih lijekova s istim ili sličnim farmakološko-terapijskim svojstvima, ne smije biti viša od 100% prosječne usporedne cijene lijeka, a cijena koju plaća Zavod ne smije biti viša od 90% cijene najjeftinijega usporednog lijeka koju plaća Zavod.
+(4) Cijena lijeka na veliko koji se ne propisuje na recept već se izdaje u bolnicama, koji sadrži potpuno novu djelatnu tvar, a na osnovnoj, odnosno dopunskoj listi lijekova Zavoda ima uvrštenih usporednih lijekova s istim ili sličnim farmakološko-terapijskim svojstvima, ne smije biti viša od 100% cijene najjeftinijeg usporednog lijeka.
+(5) Cijena prvog generičkog lijeka ne smije prelaziti razinu od 70% cijene lijeka iz stavka 2., 3. ili 4. ovoga članka.
+(6) Cijena biološkog generičkog lijeka ne smije prelaziti razinu od 85% cijene lijeka iz stavka 2., 3. ili 4. ovoga članka.
+(7) Cijena novog generičkog lijeka, odnosno novog biološkog generičkog lijeka ne smije prelaziti razinu od 90% cijene lijeka utvrđenog na način iz stavka 5. ili 6. ovoga članka.
+(8) Cijena svakoga idućeg novog generičkog lijeka ne smije prelaziti razinu od 90% cijene lijeka istog nezaštićenog imena utvrđene na način iz stavka 7. ovoga članka.
