@@ -1,0 +1,6 @@
+# Članak 4.
+(1) U svrhu izdavanja jamstva podrijetla električne energije proizvedene u proizvodnim postrojenjima, odnosno proizvodnim jedinicama u Republici Hrvatskoj uspostavlja se registar.
+(2) Način korištenja registra propisuje se pravilima o korištenju registra jamstva podrijetla električne energije koje donosi tijelo nadležno za izdavanje jamstva podrijetla električne energije, uz prethodnu suglasnost Agencije, u skladu sa zakonom kojim se uređuje tržištu električne energije.
+(3) Način izvještavanja krajnjih kupaca u Republici Hrvatskoj o udjelu, odnosno količini električne energije proizvedene iz obnovljivih izvora energije i isporučene krajnjim kupcima od strane opskrbljivača električnom energijom, određuju se posebnim aktom kojega donosi Agencija sukladno zakonu kojim se uređuje energetski sektor i zakonu kojim se uređuje tržište električne energije.
+(4) Izvještavanje o jamstvu podrijetla električne energije iz stavka 3. ovoga članka nije povezano s ispunjavanjem obveznih nacionalnih općih ciljeva za udio električne energije iz obnovljivih izvora energije i provedbom učinkovitih mjera za uporabu električne energije iz obnovljivih izvora energije.
+(5) Prijenos jamstva podrijetla električne energije ne utječe na izračun konačne bruto potrošnje električne energije iz obnovljivih izvora energije u Republici Hrvatskoj.
