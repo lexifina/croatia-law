@@ -1,0 +1,1 @@
+Na temelju članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine« broj 150/2011), a u vezi sa člankom 155. Zakona o zaštiti zraka (»Narodne novine« broj 130/2011), Vlada Republike Hrvatske je na sjednici održanoj 11. srpnja 2013. godine donijela
