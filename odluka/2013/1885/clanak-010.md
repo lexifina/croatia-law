@@ -1,0 +1,3 @@
+# Članak 10.
+Troškovi nastali u potrošačkim sporovima pred Centrom za mirenje pri Hrvatskoj gospodarskoj komori osiguravaju se iz državnog proračuna u skladu s odredbom članka 6. stavak 5. Zakona o provedbi uredbi Europske unije iz područja platnog prometa (»Narodne novine« br. 54/2013) i članka 10. Pravilnika o mirenju (»Narodne novine« br. 142/2011.).
+Centar za mirenje pri Hrvatskoj gospodarskoj komori dužan je Ministarstvu financija dostaviti polugodišnje izvješće o utrošenim financijskim sredstvima i izvršenim aktivnostima najkasnije do 31. srpnja tekuće godine, te godišnje izvješće o utrošenim financijskim sredstvima i izvršenim aktivnostima najkasnije do 31. siječnja naredne godine.

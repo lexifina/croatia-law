@@ -1,0 +1,1 @@
+Na temelju članka 6. stavak 3. Zakona o provedbi uredbi Europske unije iz područja platnog prometa (»Narodne novine« br. 54/2013) i članka 10. Pravilnika o mirenju Hrvatske gospodarske komore (»Narodne novine« br. 142/2011.) Upravni odbor Hrvatske gospodarske komore na 5. sjednici dana 19. lipnja 2013. godine, uz prethodno pribavljenu suglasnost ministra financija, donosi
