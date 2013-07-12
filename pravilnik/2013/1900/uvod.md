@@ -1,0 +1,1 @@
+Na temelju odredbe članka 341.a stavka 6. Zakona o tržištu kapitala (»Narodne novine« br. 88/08, 146/08, 74/09 i 54/13), Hrvatska agencija za nadzor financijskih usluga (dalje: Agencija) na sjednici Upravnog vijeća održanoj 1. srpnja 2013. donosi

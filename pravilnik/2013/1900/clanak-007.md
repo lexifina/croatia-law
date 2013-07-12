@@ -1,0 +1,2 @@
+# Članak 7.
+Ograničenja minimalne vrijednosti transakcija iz članka 4. ovog Pravilnika ne odnose se na obvezu investicijskog društva ili kreditne institucije da, kada trgujući za vlastiti račun ili za račun klijenata izvan uređenog tržišta ili MTP-a izvrši transakciju s financijskim instrumentom uvrštenim na uređeno tržište, objavi volumen i cijenu predmetne transakcije te vrijeme kada je ista izvršena, sukladno članku 114. Zakona.
