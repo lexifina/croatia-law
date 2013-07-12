@@ -1,0 +1,1 @@
+Na temelju odredbi članka 200. stavka 6. i članka 218. Zakona o tržištu kapitala (»Narodne novine«, br. 88/08, 146/08, 74/09, 54/13), Hrvatska agencija za nadzor financijskih usluga (dalje: Agencija) na sjednici Upravnog vijeća Hrvatske agencije za nadzor financijskih usluga održanoj 1. srpnja 2013. godine donosi
