@@ -1,0 +1,18 @@
+# Članak 3.
+(1) Uz zahtjev za izdavanje odobrenja kandidatu za obavljanje funkcije člana uprave Društva potrebno je dostaviti sljedeću dokumentaciju:
+1. životopis kandidata s težištem na stečenoj naobrazbi i radnom iskustvu (trajanje naobrazbe, posebna znanja, specijalizacije, objavljeni znanstveni radovi, naziv društava u kojima je kandidat do sada radio i na kojim funkcijama, razdoblje rada, opis poslova),
+2. presliku osobne iskaznice ili putovnice, a za strane državljane presliku putovnice,
+3. presliku diplome, a u slučaju inozemne isprave i dokument o priznavanju inozemne visokoškolske kvalifikacije u svrhu zapošljavanja ili nastavka obrazovanja, izdanog od strane nadležnog tijela u Republici Hrvatskoj, kao dokaz da je kandidat završio:
+a) preddiplomski i diplomski sveučilišni studij ili
+integrirani preddiplomski i diplomski sveučilišni studij ili
+stručni studij i specijalistički diplomski stručni studij, čijim završetkom je stekao najmanje 300 ECTS bodova, ili
+b) sveučilišni dodiplomski studij, čijim završetkom je stekao visoku stručnu spremu, odnosno stručni dodiplomski studij, u trajanju od najmanje četiri godine čijim završetkom je stekao visoku stručnu spremu.
+4. izvornik potvrda poslodavca o posjedovanju najmanje trogodišnjeg radnog iskustva na rukovodećim položajima u Društvu, odnosno šest godina iskustva na rukovodećim poslovima koji se mogu usporediti s poslovima Društva (uz navođenje tvrtke društva, razdoblje rada,opis poslova i dužnosti),
+5. Upitnik za kandidata za člana uprave/izvršnog direktora društva, koji je sastavni dio ovog Pravilnika, sa potpisom kandidata ovjerenim od javnog bilježnika odnosno ovjerenim u skladu sa zakonom i međunarodnim propisima (Apostille - Haška Konvencija o ukidanju potrebe legalizacije stranih javnih isprava, od 5. listopada 1961. godine). Upitnik mora biti u cijelosti popunjen i ispisan elektronički, uredno, čitljivo i bez naknadnog prepravljanja.
+6. program vođenja poslova Društva za mandatno razdoblje, izrađen i potpisan od strane kandidata za člana uprave Društva.
+7. dokaze o plaćenoj naknadi i administrativnoj pristojbi za izdavanje odobrenja za obavljanje funkcije člana uprave Društva, propisane aktom Agencije o vrsti i visini naknada i administrativnih pristojbi.
+(2) Odredba iz stavka 1. točke 3. alineje b) ovog članka primjenjuje se na osobe koje su studij završile prema propisima koji su bili na snazi prije stupanja na snagu Zakona o znanstvenoj djelatnosti i visokom obrazovanju (»Narodne novine« broj 123/03, 198/03, 105/04, 174/04, 2/07 Odluka USRH, 46/07, 45/09 i 63/11) i imaju pravo koristiti odgovarajući akademski ili stručni naziv ili akademski stupanj utvrđen Zakonom o akademskim i stručnim nazivima i akademskom stupnju (»Narodne novine« broj 107/07 i 118/2012), u skladu s člankom 120. stavkom 2. Zakona o znanstvenoj djelatnosti i visokom obrazovanju.
+(3) Navedeni dokazi ne smiju biti stariji od šest mjeseci, osim dokaza navedenih u stavku 1. točka 3. i 4. ovog članka.
+(4) Uz zahtjev kojim se traži izdavanje odobrenja za obavljanje funkcije člana uprave za osobu koja je prethodnu funkciju člana uprave Društva obavljala uz odobrenje Agencije potrebno je dostaviti samo dokumentaciju propisanu stavkom 1. točkama 5. - 7. ovoga članka.
+(5) Preslike isprava iz ovog članka dostavljaju se ovjerene od javnog bilježnika odnosno u skladu sa zakonom i međunarodnim propisima (Apostille - Haška Konvencija o ukidanju potrebe legalizacije stranih javnih isprava, od 5. listopada 1961. godine), a isprave na stranom jeziku dostavljaju se i prevedene na hrvatski jezik od ovlaštenog sudskog tumača.
+(6) Dostavljena dokumentacija se ne vraća.

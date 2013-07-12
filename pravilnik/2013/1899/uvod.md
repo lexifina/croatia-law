@@ -1,0 +1,1 @@
+Na temelju članka 28. stavak 3. Zakona o osiguranju (»Narodne novine« broj 151/05, 87/08, 82/09 i 54/13) Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća održanoj dana 1. srpnja 2013. donosi
