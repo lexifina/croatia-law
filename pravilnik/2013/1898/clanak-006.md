@@ -1,0 +1,2 @@
+# Članak 6.
+Osim dokumentacije propisane ovim Pravilnikom, društva za osiguranje, društva za reosiguranje, društva za zastupanje u osiguranju, obrti za zastupanje u osiguranju, društva za posredovanje u osiguranju i reosiguranju i druge osobe koje obavljaju poslove zastupanja u osiguranju odnosno posredovanja u osiguranju i reosiguranju dužne su dostaviti na zahtjev Agencije i drugu dokumentaciju za potrebe nadzora.
