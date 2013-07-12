@@ -1,0 +1,2 @@
+# Članak 3.
+U članku 4. riječi: »Pravilnikom o minimumu informacija u prospektu, formatu prospekta i objavi prospekta i oglasa u vezi s prospektom« zamjenjuju se riječima: »Uredbom Komisije (EZ-a) broj 809/2004 od 29. travnja 2004. o provedbi Direktive 2003/71/EZ Europskog parlamenta i Vijeća u pogledu informacija koje sadrže prospekti i o njihovom obliku, uključivanju informacija upućivanjem i objavljivanju takvih prospekata i raspisivanju oglasa«.
