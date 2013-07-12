@@ -1,0 +1,1 @@
+Na temelju članka 17. stavka 2. Zakona o mjeriteljstvu (»Narodne novine« broj 163/2003, 194/2003 i 111/2007) i članka 5. stavak 1. Zakona o tehničkim zahtjevima za proizvode i ocjenjivanju sukladnosti (»Narodne novine« broj 20/2010) ravnatelj Državnog zavoda za mjeriteljstvo donosi

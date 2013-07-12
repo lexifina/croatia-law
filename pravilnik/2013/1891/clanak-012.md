@@ -1,0 +1,9 @@
+## OBAVJEŠĆIVANJE O PRIJAVLJENIM TIJELIMA
+# Članak 12.
+(1) Državni zavod za mjeriteljstvo (u daljnjem tekstu: Zavod) službenim putem će obavijestiti druge države članice i Europsku komisiju o tijelima za čiji rad je odgovoran, koja je imenovao za provedbu poslova koji se odnose na module ocjenjivanja sukladnosti u smislu odredaba članka 10. ovoga Pravilnika zajedno s identifikacijskim brojevima koje im je dodijelila Europska komisija u smislu stavka 4. ovoga članka, o vrsti mjerila za koje je svako tijelo imenovano te kad je to bitno, o razredima točnosti mjerila, mjernome području, mjernoj tehnologiji i svim drugim značajkama mjerila kojima se ograničuje opseg prijavljivanja.
+(2) Za imenovanje tijela iz stavka 1. ovoga članka primjenjivat će se kriteriji utvrđeni člankom 13. ovoga Pravilnika. Za tijela koja zadovoljavaju kriterije utvrđene u nacionalnim normama kojima se preuzimaju odgovarajuće usklađene europske norme čiji su bibliografski podaci objavljeni u »Narodnim novinama«, smatra se da zadovoljavaju odgovarajuće kriterije.
+Bibliografske podatke o tim nacionalnim normama objavljivat će Zavod.
+(3) Zavod mora:
+- osigurati da prijavljeno tijelo zadovoljava kriterije propisane člankom 13. ovoga Pravilnika za vrijeme trajanja imenovanja,
+- ako utvrdi da prijavljeno tijelo za vrijeme trajanja imenovanja ne zadovoljava propisane kriterije donijet će rješenje o ukidanju imenovanja te obavijestiti Europsku komisiju i druge države članice Europske unije o svakom ukinutom imenovanju.
+(4) Svakom prijavljenom tijelu Europska komisija će dodijeliti identifikacijski broj. Europska komisija će objaviti popis prijavljenih tijela, zajedno s podacima koji se odnose na opseg prijave iz stavka 1. ovoga članka u seriji C Službenog lista Europske unije te mora osigurati redovito ažuriranje toga popisa.

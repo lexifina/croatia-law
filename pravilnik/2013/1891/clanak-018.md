@@ -1,0 +1,5 @@
+## ZAŠTITNA ODREDBA
+# Članak 18.
+(1) Ako Zavod u provedbi nadzora utvrdi da svi dijelovi ili dio mjerila posebnog modela koji nose ‘CE’ oznaku sukladnosti i dopunsku mjeriteljsku oznaku ne zadovoljavaju bitne zahtjeve koji se odnose na mjeriteljske značajke utvrđene ovim Pravilnikom kada su ispravno ugrađeni i kad se upotrebljavaju u skladu s uputama proizvođača, mora povući ta mjerila s tržišta, zabraniti ili ograničiti njihovo daljnje stavljanje na tržište te zabraniti ili ograničiti njihovu daljnju uporabu, uz navođenje razloga za takvu odluku.
+(2) Kad o tome odlučuje, Zavod mora utvrditi radi li se o sustavnoj ili slučajnoj nesukladnosti. Ako se utvrdi da je nesukladnost sustavne naravi, Zavod mora odmah obavijestiti Europsku komisiju o poduzetim mjerama, naznačujući razloge za svoju odluku.
+(3) Zavod mora poduzeti mjere propisane, Zakona o mjeriteljstvu (»Narodne novine« broj 163/2003, 194/2003 i 111/2007) i Zakonom o tehničkim zahtjevima za proizvode i ocjenjivanju sukladnosti (»Narodne novine« broj 20/2010) protiv svake osobe koja stavlja oznake suprotno odredbama ovog Pravilnika te o tome obavijestiti države članice Europske unije i Europsku komisiju.

@@ -1,0 +1,15 @@
+## KRITERIJI KOJE MORA ZADOVOLJAVATI PRIJAVLJENO TIJELO
+# Članak 13.
+Pri imenovanju prijavljenog tijela moraju se primjenjivati sljedeći kriteriji:
+(1) Prijavljeno tijelo, njegov direktor i osoblje koje obavlja poslove ocjenjivanja sukladnosti ne smiju biti projektant, proizvođač, ovlašteni zastupnik, uvoznik i distributer za proizvode koje ocjenjuje niti može biti izravno uključeno u projektiranje; proizvodnju ili izradu, stavljanje na tržište i/ili u uporabu, ugradnju, korištenje ili održavanje mjerila. To ne isključuje mogućnost razmjene tehničkih podataka između proizvođača i prijavljenog tijela u svrhu ocjenjivanja sukladnosti.
+(2) Prijavljeno tijelo, njegov direktor i osoblje uključeno u poslove ocjenjivanja sukladnosti moraju biti oslobođeni svih pritisaka i poticaja, posebno financijskih, koji bi mogli utjecati na njihovu prosudbu ili na rezultate ocjenjivanja sukladnosti posebno od strane osoba ili skupina osoba koje su zainteresirane za rezultate ocjenjivanja sukladnosti.
+(3) Ocjenjivanje sukladnosti mora se provoditi s najvišim stupnjem profesionalnoga poštenja i zahtijevane mjerodavnosti u području mjeriteljstva. Ako prijavljeno tijelo u postupku ocjenjivanja sukladnosti određene poslove ustupa vanjskim suradnicima, od njih mora zatražiti dokaze o zadovoljavanju kriterija propisanih ovim Pravilnikom, a osobito ovim člankom. Prijavljeno tijelo dostavlja Zavodu dokumentaciju o poslovima ustupljenim vanjskim suradnicima i dokaze da zadovoljavaju zahtjeve propisane ovim Pravilnikom.
+(4) Prijavljeno tijelo mora biti sposobno obavljati sve poslove ocjenjivanja sukladnosti za koje je imenovano bez obzira na to obavlja li te zadatke samo ili se obavljaju u njegovo ime s njegovom odgovornošću. Ono mora imati na raspolaganju potrebno osoblje i posjedovati potrebna sredstva koja mu omogućuju da ispravno obavlja administrativne i tehničke zadatke povezane s ocjenjivanjem sukladnosti.
+(5) Osoblje tijela treba imati:
+- tehničko i stručno obrazovanje koje obuhvaća sve poslove ocjenjivanja sukladnosti za koje je tijelo imenovano,
+- zadovoljavajuće znanje o pravilima kojima se ravnaju pri obavljanju poslova ocjenjivanja sukladnosti i odgovarajuće iskustvo za takve poslove,
+- sposobnost sastavljanja potvrda, zapisa i izvještaja koji se zahtijevaju za dokazivanje da su zadatci ispravno obavljeni.
+(6) Nepristranost tijela, njegova direktora i osoblja mora biti zajamčena. Zarade tijela ne smiju ovisiti o broju provedenih ispitivanja ni o rezultatima poslova koje obavljaju. Zarade direktora i osoblja ne smiju ovisiti o broju poslova koje obavljaju ili o rezultatima tih poslova.
+(7) Prijavljeno tijelo mora imati policu osiguranja od građanske odgovornosti, osim ako je tijelo u sastavu državne uprave.
+(8) Direktor i osoblje tijela obavezni su čuvati poslovnu tajnu koja se odnosi na sve podatke koje mogu prikupiti pri obavljanju poslova prema odredbama ovoga Pravilnika, osim prema Zavodu.
+(9) Prijavljeno tijelo dužno je obavješćivati Zavod o izdanim certifikatima o sustavu kvalitete i o ocjenjivanju sukladnosti i njihovom povlačenju.
