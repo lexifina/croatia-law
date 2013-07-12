@@ -1,0 +1,1 @@
+Na temelju odredbe članka 221. stavka 3. Zakona o tržištu kapitala (»Narodne novine«, br. 88/08, 146/08, 74/09, 54/13), Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća Hrvatske agencije za nadzor financijskih usluga održanoj 1. srpnja 2013. godine donosi
