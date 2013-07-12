@@ -1,0 +1,13 @@
+# Članak 8.
+U članku 79. stavak 1. mijenja se i glasi:
+»(1) Investicijsko društvo koje kapitalni zahtjev izračunava primjenom internog modela, navedeni kapitalni zahtjev izračunava tako da množi rezultate dobivene primjenom internog modela multiplikacijskim faktorima (mc) i (ms) koji iznose najmanje tri.«
+Stavak 2. mijenja se i glasi:
+»(2) Multiplikacijski faktori iz stavka 1. ovog članka uvećavaju se faktorom uvećanja u iznosu između 0 i 1 u skladu s tablicom 6, ovisno o broju prekoračenja za posljednjih 250 radnih dana prema rezultatima retroaktivnog testiranja investicijskog društva. Za potrebe utvrđivanja broja prekoračenja investicijsko društvo dužno je provoditi program retroaktivnog testiranja i na stvarnim i na hipotetičnim promjenama vrijednosti portfelja. U smislu ovog stavka, pojam prekoračenje odnosi se na jednodnevnu promjenu vrijednosti portfelja koja premašuje relevantnu mjeru jednodnevne rizičnosti vrijednosti dobivenu primjenom internog modela investicijskog društva. Za potrebe određivanja faktora uvećanja broj prekoračenja procjenjuje se najmanje jednom tromjesečno i jednak je broju prekoračenja dobivenog na osnovi retroaktivnog testiranja i na stvarnim i na hipotetičnim promjenama vrijednosti portfelja, ovisno o tome koji je veći.«
+Stavak 6. mijenja se i glasi:
+»(6) Investicijsko društvo koje izračunava inicijalni kapitalni zahtjev primjenom internog modela dužno je dnevno izračunavati inicijalni kapitalni zahtjev izražen kao zbroj vrijednosti dobivenih primjenom točaka 1. i 2. ovog stavka:
+1) za izračun se uzima jedna od dolje navedenih vrijednosti, ovisno o tome koja je veća:
+a) iznos rizičnosti vrijednosti za prethodni dan (VaRt-1) izračunat u skladu s internim modelom iz članka 75. stavka 1. ovog Pravilnika. i
+b) prosjek dnevnih iznosa rizičnosti vrijednosti za proteklih 60 radnih dana (VaRavg), izračunat u skladu s internim modelom iz članka 75. stavka 1. ovog Pravilnika, pomnožen multiplikacijskim faktorom (mc) izračunatim u skladu sa stavkom 1. ovog članka i prilagođen faktorom uvećanja u skladu sa stavkom 2. ovog članka
+2) za izračun se uzima jedna od dolje navedenih vrijednosti, ovisno o tome koja je veća:
+a) posljednji raspoloživi iznos rizičnosti vrijednosti za stres (sVaRt-1), izračunat u skladu s internim modelom iz članka 75. stavka 2. ovog Pravilnika i
+b) prosjek dnevnih iznosa rizičnosti vrijednosti za stres za proteklih 60 radnih dana (sVaRavg), izračunat u skladu s internim modelom iz članka 75. stavka 2. ovog Pravilnika, pomnožen multiplikacijskim faktorom (ms) izračunatim u skladu sa stavkom 1. ovog članka i prilagođen faktorom uvećanja u skladu sa stavkom 2. ovog članka.«

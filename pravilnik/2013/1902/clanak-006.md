@@ -1,0 +1,7 @@
+# Članak 6.
+U članku 75. stavku 1. točke 3. i 5. mijenjaju se i glase:
+»3. desetodnevno razdoblje držanja investicijsko društvo može koristiti rizičnost vrijednosti izračunatu za kraće razdoblje držanja prilagođenu na deset dana, na primjer pomoću drugog korijena vremena, te je u tom slučaju dužno periodički dokazati utemeljenost takvog pristupa;
+5. tromjesečno ažuriranje skupova podataka.«
+Iza stavka 1. dodaju se stavci 2. i 3. koji glase:
+»(2) Investicijsko društvo dužno je izračunavati rizičnost vrijednosti pod stresom (engl. stressed value at risk) na osnovi desetodnevne rizičnosti vrijednosti tekućeg portfelja, s jednostranim intervalom pouzdanosti od 99. percentila, s ulaznim podacima u modelu rizičnosti vrijednosti kalibriranim na temelju povijesnih podataka iz kontinuiranog razdoblja od 12 mjeseci znatnoga financijskog stresa koji je važan za portfelj investicijskog društva. Pri izdavanju odobrenja iz članka 70. stavka 1. ovog Pravilnika Agencija ocjenjuje odabir takvih povijesnih podataka. Investicijsko društvo dužno je najmanje jednom godišnje provjeravati adekvatnost odabira tih podataka. Ako investicijsko društvo ocijeni da je potrebno znatno izmijeniti taj odabir, dužno je o tome obavijestiti Agenciju te podnijeti zahtjev za izmjenu odobrenja. Investicijsko društvo dužno je izračunavati rizičnost vrijednosti pod stresom najmanje jednom tjedno.
+(3) Investicijsko društvo dužno je provoditi i obratno testiranje otpornosti na stres (engl. reverse stress tests).«
