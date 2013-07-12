@@ -1,0 +1,1 @@
+Na temelju odredbe članka 459. stavak 4. i članka 461. stavak 2. Zakona o tržištu kapitala (»Narodne novine« br. 88/08, 146/08, 74/09 i 54/13), Hrvatska agencija za nadzor financijskih usluga (dalje: Agencija) na sjednici Upravnog vijeća održanoj 1. srpnja 2013. donosi
