@@ -1,0 +1,5 @@
+# Članak 18.
+U članku 159. iza stavka 1. dodaju se novi stavci 2., 3. i 4. koji glase:
+»(2) Za primatelja primitaka od kojih se utvrđuje drugi dohodak i prema kojemu se, sukladno odredbama članka 11. do 16. Uredbe (EZ) br. 883/2004, primjenjuje zakonodavstvo Republike Hrvatske i koji po nalogu isplatitelja primitka iz drugih država članica boravi na službenom putu u inozemstvu iznos osnovice utvrđuje i posebni doprinos radi korištenja zdravstvene zaštite u inozemstvu obračunava i plaća primatelj primitka.
+(3) Iznimno od odredbe stavka 1. ovog članka za primatelja primitka koji po nalogu isplatitelja primitka boravi na službenom putu u drugim državama članicama ne obračunava se posebni doprinos radi prava na korištenje zdravstvene zaštite u inozemstvu.
+(4) Iznimno od odredbe stavka 2. ovog članka za primatelja primitka koji po nalogu isplatitelja primitka boravi na službenom putu u drugim državama članicama ne obračunava se posebni doprinos radi prava na korištenje zdravstvene zaštite u inozemstvu.«.

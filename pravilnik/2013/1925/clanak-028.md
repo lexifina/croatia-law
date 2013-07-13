@@ -1,0 +1,7 @@
+# Članak 28.
+U članku 248. dosadašnji stavci 2. i 3. mijenjaju se i glase:
+»(2) Za podnositelja zahtjeva iz članka 243. stavak 4. ovog Pravilnika rješenjem o godišnjem obračunu iznos više uplaćenog doprinosa iz stavka 1. ovog članka umanjuje se za iznos više uplaćenog doprinosa utvrđenog rješenjem u prethodnom postupku.
+(3) Za podnositelja zahtjeva iz članka 243. stavak 5. ovog Pravilnika rješenjem o godišnjem obračunu iznos više uplaćenog doprinosa iz stavka 1. ovog članka umanjuje se za iznos doprinosa za mirovinsko osiguranje na temelju generacijske solidarnosti koji je obračunan prema osnovici čiji je iznos viši od najviše godišnje osnovice, a za povrat kojega zahtjev nije podnesen u roku iz članka 243. stavak 2. ovog Pravilnika.«
+Iza stavaka 2. i 3. dodaju se novi stavci 4. i 5. koji glase:
+»(4) Iznos više uplaćenog doprinosa iz stavka 1. ovog članka, iznos više uplaćenog doprinosa umanjenog za iznos više uplaćenog doprinosa utvrđenog u prethodnom postupku sukladno odredbi stavka 2. ovog članka te iznos više uplaćenog doprinosa umanjenog za iznos doprinosa za kojeg je protekao rok za podnošenje zahtjeva za povrat sukladno odredbi stavka 3. ovog članka osnovica je za obračun predujma poreza na dohodak prema propisima o porezu na dohodak te se vraća obvezniku umanjen za iznos obračunanog i obustavljenog iznosa predujma poreza na dohodak i prireza porezu na dohodak.
+(5) Rješenjem o godišnjem obračunu utvrđuje se i iznos predujma poreza na dohodak i prireza porezu na dohodak te iznos doprinosa za povrat.«.

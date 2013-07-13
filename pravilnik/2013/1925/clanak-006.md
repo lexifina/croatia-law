@@ -1,0 +1,12 @@
+# Članak 6.
+Iza članka 19. dodaje se novi članak 19.a koji glasi:
+»Članak 19.a
+(1) Poslodavac s registriranim sjedištem ili mjestom poslovanja u drugim državama članicama koji u njima zapošljava osobu prema kojoj se, sukladno odredbama članka 11. do 16. Uredbe (EZ) br. 883/2004, primjenjuje zakonodavstvo Republike Hrvatske, dužan je obračunati i platiti doprinose na način propisan člancima 19. do 26. Zakona.
+(2) Poslodavac iz stavka 1. ovog članka dužan je podnijeti zahtjev za dodjeljivanje osobnog identifikacijskog broja (OIB-a) sukladno odredbama Zakona o osobnom identifikacijskom broju i provedbenih propisa donesenih na temelju tog zakona.
+(3) Za poslodavca iz stavka 1. ovog članka, obvezu doprinosa, sukladno članku 21. stavku 2. Uredbe (EZ) br. 987/2009, može preuzeti sam zaposlenik. Preuzimatelj odgovara za iznos obračunanog doprinosa kao jamac platac u smislu odredaba Općega poreznog zakona.
+(4) Pod obvezom doprinosa iz stavka 3. ovog članka podrazumijeva se obveza obračunavanja i plaćanja doprinosa iz osnovice i na osnovicu i obveza podnošenja izvješća.
+(5) Status preuzimatelja stječe se na temelju podneska potpisanog od strane poslodavca i zaposlene osobe - preuzimatelja obveze doprinosa. Podnesak se predaje Poreznoj upravi na obrascu iz članka 265.a ovog Pravilnika.
+(6) Obveza doprinosa obračunatih prema istoj osnovici, bez obzira da li je obveznik plaćanja poslodavac ili zaposlena osoba - preuzimatelj obveze doprinosa, uplaćuje se zbirno na propisani uplatni račun na OIB poslodavca.
+(7) O vrsti i iznosu obveze doprinosa, osnovici prema kojoj su doprinosi obračunani, poslodavac iz stavka 1. ovoga članka odnosno zaposlena osoba - preuzimatelj obveze doprinosa iz stavka 3. ovog članka sastavlja jedinstveno izvješće za čitavu kalendarsku godinu.
+(8) Izvješće se podnosi pod OIB-om poslodavca te sadrži zbirne podatke o osnovicama i iznosima doprinosa koji su, sukladno odredbama Zakona, dospjeli na naplatu unutar iste kalendarske godine za sve zaposlene osobe za koje je obveznik obračunavanja poslodavac, odnosno za pojedinu zaposlenu osobu kada je obveznik obračunavanja zaposlena osoba - preuzimatelj obveze doprinosa.
+(9) Izvješće se sastavlja na obrascu »Izvješće o primicima od nesamostalnog rada (plaći i mirovini), porezu na dohodak i prirezu te doprinosima za obvezna osiguranja u mjesecu ___ godine ____« (Obrazac ID) za mjesec prosinac s identifikatorom podnositelja »13« i podnosi do 15. siječnja tekuće godine za prethodnu godinu Poreznoj upravi.«.

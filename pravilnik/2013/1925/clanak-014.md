@@ -1,0 +1,5 @@
+# Članak 14.
+U članku 149. iza stavka 1. dodaju se novi stavci 2., 3. i 4. koji glase:
+»(2) Za osobu zaposlenu u drugim državama članicama kod poslodavca s registriranim sjedištem ili mjestom poslovanja u drugim državama članicama prema kojoj se, sukladno odredbama članka 11. do 16. Uredbe (EZ) br. 883/2004, primjenjuje zakonodavstvo Republike Hrvatske i koju je poslodavac uputio na rad u inozemstvo, iznos osnovice utvrđuje i posebni doprinos radi korištenja zdravstvene zaštite u inozemstvu obračunava poslodavac odnosno zaposlena osoba - preuzimatelj obveze doprinosa iz članka 27.a stavak 3. ovog Pravilnika, sukladno članku 188. točka 1. Zakona.
+(3) Iznimno od odredbe stavka 1. ovog članka za osiguranika po osnovi radnog odnosa - izaslanog radnika upućenog na rad u druge države članice ne obračunava se posebni doprinos radi prava na korištenje zdravstvene zaštite u inozemstvu.
+(4) Iznimno od odredbe stavka 2. ovog članka za zaposlenu osobu upućenu na rad u druge države članice ne obračunava se posebni doprinos radi prava na korištenje zdravstvene zaštite u inozemstvu.«.
