@@ -1,0 +1,3 @@
+# Članak 2.
+U članku 5. iza stavka 10. dodaje se stavak 11. koji glasi:
+»(11) Prodajna cijena iz stavka 1. ovoga članka koju su proizvođač, predstavnički ured i trgovac dostavili Središnjem uredu mora biti istovjetna preporučenoj prodajnoj cijeni koju proizvođač, predstavnički ured i trgovac javno objavljuju na internetu ili drugi sličan način. Proizvođač, predstavnički ured i trgovac ne mogu Središnjem uredu dostaviti izmjenu preporučene prodajne cijene prije proteka roka od 30 dana od dana kada je zaprimljena obavijest iz stavka 1. ovoga članka. Iznimno, izmjena se može dostaviti ako je došlo do pogreške u izračunu ili drugog sličnog razloga.«.
