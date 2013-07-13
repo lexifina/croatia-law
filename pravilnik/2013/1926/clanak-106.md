@@ -1,0 +1,8 @@
+# Članak 106.
+(1) Projektiranje, izrada i homologacija komponenti zrakoplova te specijalnih alata provodi se u slučaju kada proizvođač zrakoplova ili zrakoplovne tehnike nije utvrdio standardne postupke za održavanje odnosno kada vrijeme nabave utječe na operativnu raspoloživost zrakoplova.
+(2) Projektiranje i izrada nastavnih sredstava provodi se radi osiguranja sredstava namijenjenih za izobrazbu i obuku zrakoplovnog osoblja.
+(3) Projektiranje, izradu i preinake zrakoplova, sustava i uređaja provode postrojbe trećeg (III.) stupnja održavanja Oružanih snaga ili ovlaštena organizacija održavanja na temelju Potvrde o ovlaštenju.
+(4) Projektiranje, izrada pričuvnog dijela, izvođenje preinake i provođenje tehnološkog postupka za zrakoplov i komponente zrakoplova te specijalne alate izvode se radi osiguranja održavanja zrakoplova, a provodi ih ovlaštena organizacija održavanja.
+(5) Ovlaštena organizacija održavanja sposobnost za prethodno dokazuje Potvrdom o ovlaštenju za provođenje održavanja zrakoplova, Programom održavanja, projektno-konstrukcijskom, remontnom, posebnom projektnom i provedbenom dokumentacijom, certificiranim ZT osobljem, alatim i ispitnom opremom, raspoloživim materijalima u skladu sa zrakoplovnim standardima, pričuvnim dijelovima te nadzorom i kontrolom održavanja, a u skladu s ovim Pravilnikom i ZT uputom.
+(6) Potvrđivanje sposobnosti iz stavka 5. ovoga članka provodi SSVZP na temelju izvješća Stručnog tim za audit koji čine dva predstavnika SSVZP-a, predstavnik Uprave za logistiku Glavnog stožera, predstavnik ZzP-a, GIO HRZ-a i PZO-a, GIO Zb-a, predstavnik HRZ-a i PZO-a, predstavnik Sektora za naoružanje.
+(7) Jedan od predstavnika SSVZP-a iz stavka 6. ovoga članka voditelj je Stručnog tima za audit.

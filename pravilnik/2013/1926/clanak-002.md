@@ -1,0 +1,24 @@
+# Članak 2.
+Pojmovi koji se koriste u ovom Pravilniku imaju sljedeće značenje:
+- vojni zrakoplov (u daljnjem tekstu zrakoplov) je avion, helikopter i besposadna letjelica koji nosi oznake državne pripadnosti i upisan je u Registar hrvatskih vojnih zrakoplova
+- zrakoplovna tehnika obuhvaća pričuvne dijelove, reprodukcijski i potrošni materijal, zrakoplovna ubojna i pogonska sredstva, opremu i sredstva za spašavanje posade, alate, pribor i mjernu opremu održavanja, dostavna i ostala sredstva opsluživanja te sredstva zračnog motrenja i navođenja
+- komplet zrakoplova obuhvaća zrakoplov, pripadajuću opremu, zrakoplovno- tehničku dokumentaciju, alat, pribor i ambalažu za transport i čuvanje
+- komponenta zrakoplova je motor, propeler, dio ili uređaj
+- pričuvni dio je svaki izdvojeni dio zrakoplova, sustava ili uređaja koji se skladišti i čuva na zalihama radi održavanja
+- potrošni materijal je materijal namijenjen održavanju zrakoplova i komponenti zrakoplova koji se uporabom nepovratno troši, osim zrakoplovnih ubojnih i pirotehničkih sredstava
+- potvrda o ovlaštenju je dokument kojim Samostalna služba za vojni zračni promet Ministarstva obrane (u daljnjem tekstu SSVZP) potvrđuje sposobnosti ovlaštene organizacije održavanja za provedbu održavanja vojnih zrakoplova i zrakoplovne tehnike (u daljenjem tekstu VZ i ZT)
+- program održavanja je dokument koji sadrži postupke održavanja i preglede za svaki tip zrakoplova, rokove i način provedbe koji su određeni namjenom i uvjetima uporabe, ZT dokumentacijom proizvođača i odredbama ovoga Pravilnika
+- kontinuirana plovidbenost su svi procesi koji osiguravaju da, u bilo koje vrijeme u svom radnom vijeku, zrakoplov udovoljava zahtjevima za plovidbenost koji su na snazi i u stanju je za sigurnu zračnu plovidbu
+- resurs zrakoplova ili zrakoplovne komponente je određeno vrijeme, broj sati rada ili ciklusa (opaljenja, slijetanja) do remonta ili između dva remonta utvrđeno tehničkim uputama proizvođača ili ovlaštene organizacije održavanja
+- vijek uporabe je ukupno vrijeme određeno za sigurnu uporabu zrakoplova ili komponente
+- vojna organizacija održavanja je domaća ili inozemna organizacija koja posjeduje odgovarajuća ovlaštenja nadležnih tijela za samostalno obavljanje održavanja, obnova, preinaka i tehničke kontrole VZ-a i ZT-a
+- ovlaštena organizacija održavanja je domaća ili inozemna pravna osoba koja posjeduje odgovarajuća ovlaštenja nadležnih tijela za samostalno obavljanje održavanja, obnova, preinaka i tehničke kontrole VZ-a i ZT-a
+- glavni inženjer održavanja (u daljnjem tekstu GIO) je zrakoplovno-tehnička osoba ovlaštena i odgovorna za održavanje u Zapovjedništvu Hrvatskog ratnog zrakoplovstva i protuzračne obrane (u daljnjem tekstu Z HRZ i PZO) i Zapovjedništvu zrakoplovne baze (u daljnjem tekstu ZZb)
+- ovlaštena osoba ovlaštene organizacije održavanja je zrakoplovno-tehnička osoba ovlaštena i odgovorna za održavanje VZ-a i ZT-a u ovlaštenoj organizaciji održavanja
+- strukovni inženjer za kvalitetu i resurse održavanja je zrakoplovno-tehnička osoba ovlaštena i odgovorna za održavanje u Z HRZ-u i PZO-u i ZZb-u za pojedini tip zrakoplova ili specijalnost održavanja
+- održavanje je skup propisanih mjera, radnji i postupaka kojim se osigurava ispravnost i pouzdanost za namjensku uporabu u vijeku uporabe materijalnog sredstva,
+- opsluživanje je skup propisanih radnji koje se provode tijekom eksploatacije sredstva što obuhvaća čišćenje, pranje, podmazivanje, dopunu gorivom, mazivima i plinovima; provodi se na temelju propisanih zrakoplovno-tehničkih uputa o korištenju sredstva; opsluživanje zrakoplova pored navedenih aktivnosti obuhvaća i vuču zrakoplova, uklanjanje s mjesta udesa i podvješavanje zrakoplovnih ubojnih sredstava
+- direktiva o plovidbenosti je naredba zrakoplovnih vlasti zemlje proizvođača ili zemlje registra zrakoplova o obveznim izmjenama u postupcima održavanja VZ-a i ZT-a radi ispunjavanja uvjeta kontinuirane plovidbenosti
+- servisni bilten je uputa proizvođača kojom se utvrđuju izmjene i/ili dopune postojećih uputa za održavanje zrakoplova ili komponente, a može biti obvezujući, preporučeni i izborni
+- servisno pismo je tehnička obavijest proizvođača kojim korisnike VZ-a i ZT-a i/ili komponente, obavještava o aktivnostima održavanja
+- zrakoplovno-tehnička uputa (u daljnjem tekstu ZT-a uputa) je dokument kojim se pojašnjavaju odgovarajuće odredbe ovog Pravilnika, utvrđuju uvjeti i norme prema kojima se provodi održavanje VZ-a i ZT-a.
