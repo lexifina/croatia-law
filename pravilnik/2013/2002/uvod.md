@@ -1,0 +1,1 @@
+Na temelju članka 3. stavka 4. Zakona o provedbi Uredbe (EZ) br. 1223/2009 Europskoga parlamenta i Vijeća od 30. studenoga 2009. godine o kozmetičkim proizvodima (preinačena verzija) (»Narodne novine« broj 18/2013) ministar zdravlja donosi
