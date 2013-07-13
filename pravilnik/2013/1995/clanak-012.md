@@ -1,0 +1,6 @@
+# Članak 12.
+(1) Predmeti oporezivanja i drugi predmeti oduzeti prema člancima 21., 22. i 24. Zakona mogu se izložiti javnoj prodaji, internetskoj prodaji (aukciji), prodaji neposrednom pogodbom, besplatno dodijeliti ili uništiti.
+(2) Zbog sigurnosnih razloga, razloga zaštite zdravlja i života ljudi, životinja, bilja, zaštite prirode i okoliša ili drugih osobito opravdanih razloga područni carinski ured može s oduzetim predmetima oporezivanja i drugim predmetima postupati tako da ih do provedbe prodaje, besplatne dodjele ili uništenja preda na čuvanje nadležnom javnopravnom tijelu ili ovlaštenoj osobi za stručno postupanje i rukovanje robom.
+(3) Ako se oduzeti predmeti oporezivanja moraju uništiti jer ne udovoljavaju propisima o kakvoći ili zdravstvenim, sigurnosnim i drugim posebnim propisima, uništenje se provodi na trošak osobe od koje su predmeti oporezivanja oduzeti, odnosno koja je nezakonito postupala.
+(4) Troškove uništenja dužna je podmiriti osoba od koje su predmeti oporezivanja oduzeti, odnosno koja je nezakonito postupala u roku 10 dana od dana dostave odluke o uništenju robe, a u protivnom će se ti troškovi naplatiti prisilno. Ovrhu provodi nadležni područni carinski ured prema propisima za prisilnu naplatu javnih davanja.
+(5) U postupanju s oduzetim predmetima oporezivanja provodi se žurni postupak.

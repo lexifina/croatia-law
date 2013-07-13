@@ -1,0 +1,4 @@
+## VI. OBRAČUN I DOSPIJEĆE PLAĆANJA POREZNE OBVEZE TE IZVJEŠĆIVANJE
+# Članak 9.
+(1) Mjesečno izvješće proizvođača, trgovca i ovlaštenog držatelja poreznog skladišta o proizvedenim, uvezenim, unesenim, isporučenim i prodanim predmetima oporezivanja, stanju zaliha, vrijednosti, poreznoj osnovici, poreznoj stopi te iznosu obračunatog i uplaćenog posebnog poreza dostavlja se nadležnom carinskom uredu do zadnjeg dana tekućeg mjeseca za prethodni kalendarski mjesec ovisno o predmetima oporezivanja na Obrascima MI-K ili MI-BAP koji su tiskani u Prilogu 2 ovoga Pravilnika i njegov su sastavni dio.
+(2) Primatelj je dužan podnijeti poreznu prijavu carinskom uredu prema mjestu svog sjedišta ili prebivališta u dva primjerka na Obrascu OBR-PP-K/BAP koji je tiskan u Prilogu 3 ovoga Pravilnika i njegov je sastavni dio.
