@@ -1,0 +1,2 @@
+# Članak 1.
+U Pravilniku o rukovanju opasnim tvarima, uvjetima i načinu obavljanja prijevoza u pomorskom prometu, ukrcavanja i iskrcavanja opasnih tvari, rasutog i ostalog tereta u lukama, te načinu sprječavanja širenja isteklih ulja u lukama (»Narodne novine« br. 51/05 i 127/10 i 34/13), u članku 9. stavak 1. točki C. podtočki (c) riječi: »Rezolucijom MSC.150 (77)» zamjenjuju se riječima: »Rezolucijom MSC.286 (86)«.
