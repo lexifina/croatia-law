@@ -1,0 +1,7 @@
+## Otpuštanje pacijenta kojem je u svrhu terapije otvorenim radioaktivnim izvorima primijenjen radionuklid
+# Članak 11.
+(1) Pacijent kojem je u svrhu terapije otvorenim radioaktivnim izvorima primijenjen radionuklid zadržava se u posebnom bolesničkom odjelu ili posebnoj sobi dok se ne udovolji uvjetima iz stavka 3. ovoga članka.
+(2) Odmah po primjeni radionuklida u medicinsku dokumentaciju pacijenta treba upisati vrstu i aktivnost radionuklida te nadnevak i vrijeme primjene.
+(3) Efektivna doza za članove obitelji ili ostale stanovnike ozračene od pacijenta kojem je u svrhu terapije otvorenim radioaktivnim izvorima primijenjen radionuklid u trenutku njegova otpuštanja mora biti niska koliko je to razumno moguće postići i ne smije biti veća od granica iz Priloga III. ovoga Pravilnika koji je njegov sastavni dio.
+(4) Pacijent kojem je u svrhu terapije otvorenim radioaktivnim izvorima primijenjen radionuklid ili njegov zakonski skrbnik poslije terapije mora dobiti upute o mjerama kojih se mora pridržavati da bi se smanjio rizik od vanjskog ozračenja ili radioaktivnog onečišćenja drugih osoba.
+(5) Pacijent kojem su u svrhu terapije otvorenim radioaktivnim izvorima primijenjen radionuklidi smije napustiti bolesnički odjel samo uz pisano odobrenje doktora medicine specijalista nuklearne medicine koje se daje ovisno o zaostaloj radioaktivnosti u njegovu tijelu, o načinu putovanja i vremenu potrebnom za dolazak kući.

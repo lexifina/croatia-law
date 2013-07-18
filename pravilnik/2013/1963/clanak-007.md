@@ -1,0 +1,4 @@
+## Osobe koje pridržavaju i pomažu pacijentima
+# Članak 7.
+(1) Osobe koje nisu izloženi radnici, a koji tijekom provedbe dijagnostičkog pregleda ili postupka uporabom rendgenskog uređaja pridržavaju nepokretne pacijente i druge osobe koje ne mogu samostalno ostati u položaju potrebnom za provođenje tog pregleda ili postupka, moraju koristiti zaštitne pregače jednakovrijednog zaštitnog učinka kao i olovo debljine od najmanje 0,5 mm, a po potrebi i zaštitne rukavice, zaštitne okovratnike i naočale s olovnim staklima istog zaštitnog učinka.
+(2) Izloženi radnici u okviru svog radnog mjesta, trudnice, žene za koje postoji vjerojatnost trudnoće i osobe mlađe od 18 godina ne smiju pridržavati nepokretne pacijente i druge osobe iz stavka 1. ovoga članka tijekom provedbe dijagnostičkog pregleda ili postupka uporabom rendgenskog uređaja.

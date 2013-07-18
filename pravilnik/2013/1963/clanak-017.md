@@ -1,0 +1,4 @@
+# Članak 17.
+Doktor medicine ili doktor dentalne medicine odgovarajuće specijalnosti koji odobrava dijagnostički, intervencijski ili terapijski pregled ili postupak uporabom izvora ionizirajućeg zračenja za svakog pacijenta određuje vrstu izvora ionizirajućeg zračenja koji će se primijeniti i način provedbe istog, pri čemu:
+a) utvrđuje je li ozračivanje pacijenta opravdano u smislu dobivanja optimalnog dijagnostičkog nalaza ili postizanja željenog učinka postupka ili terapije kakvi se ne mogu postići drugačijim dijagnostičkim, intervencijskim ili terapijskim pregledom ili postupkom bez uporabe izvora ionizirajućeg zračenja;
+b) utvrđuje uvjete provedbe dijagnostičkog, intervencijskog ili terapijskog pregleda ili postupka uporabom izvora ionizirajućeg zračenja kojim će osigurati najmanje moguće ozračenje pacijenta, a da se pri tom dobiju dijagnostički podaci optimalne kakvoće, odnosno, željeni učinci postupka ili terapije.

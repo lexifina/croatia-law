@@ -1,0 +1,4 @@
+## Terapijski postupci uporabom električnih uređaja i zatvorenih radioaktivnih izvora
+# Članak 45.
+(1) Terapijski postupak uporabom električnih uređaja ili zatvorenih radioaktivnih izvora može se provoditi samo po programu zračenja (Protokol) kojim je utvrđen način i učestalost pridjeljivanja doze pacijentu, iznos doze, način proračuna potrebne doze za pretragu, vrsta i energija ionizirajućeg zračenja, zapisi i čuvanje evidencija te odgovarajuće mjerenje doza zračenja.
+(2) Program zračenja sastavljen sukladno najboljoj kliničkoj praksi prema međunarodnim standardima i preporukama za terapiju izvorima ionizirajućeg zračenja u pisanom obliku mora biti dostupan svim radnicima koji su u nositelju odobrenja ovlašteni planirati ili provoditi terapijski postupak uporabom električnih uređaja ili zatvorenih radioaktivnih izvora.

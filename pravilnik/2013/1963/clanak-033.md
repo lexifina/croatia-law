@@ -1,0 +1,2 @@
+# Članak 33.
+Dijagnostički postupak uporabom radiofarmaceutskih pripravaka ne primjenjuju se na trudnicama i ženama koje doje, osim iznimno kad za neodgodivu primjenu tog postupka postoje opravdani zdravstveni pokazatelji po prosudbi doktora medicine odgovarajuće specijalnosti koji odobrava taj postupak, pri čemu utvrđuje uvjete provedbe tog postupka kojim će se osigurati najmanje moguće ozračenje pacijentice i djeteta, a da se pri tom dobiju dijagnostički podaci optimalne kakvoće.
