@@ -1,0 +1,5 @@
+# Članak 26.
+Naslov iznad članka 53. koji glasi: »Postupci zaštite elektroničkog potpisa davatelja usluga izdavanja kvalificiranih certifikata«, mijenja se i glasi: »Postupci zaštite elektroničkog potpisa davatelja usluga certificiranja«.
+Članak 53. mijenja se i glasi:
+»(1) Svi podaci za izradu naprednog elektroničkog potpisa davatelja usluga certificiranja moraju biti kriptografski zaštićeni uz primjenu sredstva za izradu naprednog elektroničkog potpisa davatelja usluga certificiranja sukladno odgovarajućim normizacijskim dokumentima iz Popisa normizacijskih dokumenata objavljenog u »Narodnim novinama« pod nazivom Popis normizacijskih dokumenata.
+(2) Davatelj usluga izdavanja kvalificiranih certifikata i usluga izdavanja naprednih vremenskih žigova pri davanju usluga certificiranja mora koristiti algoritme i parametre primjenjive na napredni elektronički potpis i smatrati će se da udovoljava propisanim zahtjevima ukoliko je primijenjen odgovarajući normizacijski dokument objavljen u »Narodnim novinama« pod nazivom Popis normizacijskih dokumenata.«

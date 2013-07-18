@@ -1,0 +1,3 @@
+# Članak 34.
+Dosadašnji članak 60. postaje članak 61. mijenja se i glasi:
+»Ministar gospodarstva, u »Narodnim novinama« objavit će Popis normizacijskih dokumenta, iz članka 6. stavka 4., članka 10. stavka 2., članka 12. stavka 3. i stavka 4., članka 13. stavka 1. i stavka 2., članka 24. stavak 2. i stavak 3., članka 27. stavka 2., članka 35. stavka 1. i stavka 2., članka 38. stavka 1., članka 39. stavka 3., članka 40. stavka 1., članka 44. stavka 2., članka 48. stavka 3., članka 53. stavka 1. i stavka 2., članka 53. stavka 2., članka 55. stavka 2., članka 57., članka 58. stavka 2., članka 59. stavka 1. i stavka 2.«

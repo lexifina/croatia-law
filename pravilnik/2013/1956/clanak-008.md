@@ -1,0 +1,4 @@
+# Članak 8.
+Članak 13. mijenja se i glasi:
+»(1) Kod izrade naprednog elektroničkog potpisa prilikom primjene sustava asimetrične kriptografije (PKI), dužina ključa potpisnika za izradu elektroničkog potpisa mora biti najmanje 2048 bita, uz primjenu kriptografskih algoritama iz klase RSA/DSA i usklađena s odgovarajućim normizacijskim dokumentom objavljenim u »Narodnim novinama« pod nazivom Popis normizacijskih dokumenata.
+(2) Kriptografski moduli potpisnika kojim se izrađuje napredni elektronički potpis moraju se temeljiti na algoritmima i parametrima koji tvore radno okruženje za izradu naprednog elektroničkog potpisa i smatrati će se da udovoljavaju propisanim zahtjevima ukoliko je primijenjen normizacijski dokument objavljen u »Narodnim novinama« pod nazivom Popis normizacijskih dokumenata.«

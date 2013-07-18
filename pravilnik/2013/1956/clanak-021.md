@@ -1,0 +1,5 @@
+# Članak 21.
+Članak 44. mijenja se i glasi:
+»(1) Potpisnik kojemu je odobreno izdavanje certifikata, mora osobno ili putem ovlaštenog punomoćnika, zakonskog zastupnika ili skrbnika, kod davatelja usluga certificiranja ili na drugom za te poslove određenom mjestu, preuzeti izdani certifikat. U slučaju kada je zahtjev za izdavanje kvalificiranog certifikata podnijet poštom ili na drugi posredan način, potpisnik sredstvo za izradu elektroničkog potpisa s certifikatom preuzima osobno ili sredstvo za izradu elektroničkog potpisa preuzima osobno, dok kriptografske ključeve za izradu svog naprednog elektroničkog potpisa generira i certifikat preuzima u skladu s uvjetima iz članka 39. stavka 3.
+(2) Sadržaj certifikata iz stavka 1. ovog članka mora odgovarati Internet X.509. v.3 specifikaciji certifikata.
+(3) Smatrat će se da sadržaj kvalificiranog certifikata udovoljava propisanim zahtjevima ukoliko su primijenjeni odgovarajući normizacijski dokumenti, čiji je popis objavljen u »Narodnim novinama« pod nazivom Popis normizacijskih dokumenata.«
