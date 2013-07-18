@@ -1,0 +1,1 @@
+91 17.07.2013 Odluka o plaći ravnatelja i zamjenika ravnatelja Agencije za investicije i konkurentnost i Agencije za plaćanja u poljoprivredi, ribarstvu i ruralnom razvoju te plaći predsjednika Uprave, zamjenika predsjednika Uprave i članova Uprave Hrvatske agencije za malo gospodarstvo i investicije
