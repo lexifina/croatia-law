@@ -1,0 +1,4 @@
+# Članak 3.
+U članku 6. iza stavka 3. dodaje se novi stavak 4. koji glasi:
+»(4) Odobrenje za obavljanje djelatnosti iz stavka 1. ovoga članka može se dati samo onoj pravnoj ili fizičkoj osobi, tijelu državne uprave ili tijelu lokalne i područne (regionalne) samouprave koje ima valjani program praćenja stanja okoliša objekta u smislu pravilnika kojim su utvrđeni uvjeti, načini, mjesta i rokovi sustavnog ispitivanja i praćenja vrste i aktivnosti radionuklida u zraku, tlu, moru, rijekama, jezerima, podzemnim vodama, krutim i tekućim oborinama, vodi za piće, hrani i predmetima opće uporabe, stambenim i radnim prostorijama, te praćenje stanja okoliša i posljedica stanja okoliša zbog rada objekta, popis radnih aktivnosti i uvjeti za obavljanje radnih aktivnosti.«.
+Dosadašnji stavak 4. postaje stavak 5.
