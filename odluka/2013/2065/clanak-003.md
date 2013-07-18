@@ -1,0 +1,2 @@
+# Članak 3.
+Sredstvima dopunskog zdravstvenog osiguranja Zavod raspolaže na način utvrđen Zakonom o obveznom zdravstvenom osiguranju (»Narodne novine« broj 150/08., 94/09., 153/09., 71/10., 139/10., 49/11., 22/12., 57/12., 123/12., 144/12.), Zakonom o dobrovoljnom zdravstvenom osiguranju, Statutom Hrvatskoga zavoda za zdravstveno osiguranje i ovom Odlukom, a u skladu s Financijskim planom dopunskog zdravstvenog osiguranja (u daljnjem tekstu: financijski plan) koji se donosi za svaku kalendarsku godinu.

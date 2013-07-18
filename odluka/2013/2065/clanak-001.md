@@ -1,0 +1,4 @@
+# Članak 1.
+Financijsko poslovanje dopunskog zdravstvenog osiguranja vodi se putem odvojene knjigovodstvene evidencije svih poslovnih događaja po vrstama prihoda i rashoda propisanim u članku 5. i 6. ove Odluke.
+Vođenje odvojenog financijskog poslovanja iz stavka 1. ovog članka ustrojeno je radi odvajanja sredstva dopunskog zdravstvenog osiguranja u okviru ukupnih sredstava Hrvatskog zavoda za zdravstveno osiguranje (nastavno: Zavod).
+Vođenje odvojenog financijskog poslovanja iz stavka 1. ovog članka omogućuje transparentnost financijskog poslovanja dopunskog zdravstvenog osiguranja u okviru ukupnih sredstava Zavoda te se u svakom trenutku osigurava dobivanje separatne bilance dopunskog zdravstvenog osiguranja, kao osnove za kontinuirano praćenje kretanja prihoda i rashoda, a za pravovremeno usmjeravanje poslovne politike i osiguranje uspješnog poslovanja dopunskog zdravstvenog osiguranja.

@@ -1,0 +1,4 @@
+# Članak 13.
+Premije se ugovaraju u visini i s rokovima dospijeća u skladu s Pravilima uspostavljanja i provođenja dopunskog zdravstvenog osiguranja (klasa: 025-04/13-01/218, urbroj: 338-01-0-13-1 od 2. srpnja 2013. godine), Općim uvjetima ugovora o dopunskom zdravstvenom osiguranju (klasa: 025-04/13-01/219, urbroj: 338-01-0-13-1 od 2. srpnja 2013. godine), i Odlukom o vrsti i cijeni police dopunskog zdravstvenog osiguranja (»Narodne novine« broj 32/09., 118/09., 140/09. i 88/10.).
+Na dospjele a neuplaćene obroke premije obračunavaju se zatezne kamate po stopi utvrđenoj Zakonom o obveznim odnosima (»Narodne novine« broj 35/05. i 41/08.).
+Ugovarateljima dopunskog zdravstvenog osiguranja koji premiju plaćaju putem trajnog naloga uspostavljenog ugovorom između Zavoda i financijske organizacije, ne obračunavaju se kamate iz stavka 1. ovog članka ako je ugovorom o trajnom nalogu utvrđen prijenos tih sredstava poslije dospijeća premije utvrđene policom.
