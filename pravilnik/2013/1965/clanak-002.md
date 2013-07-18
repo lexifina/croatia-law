@@ -1,0 +1,5 @@
+# Članak 2.
+U Pravilniku o mjerenju osobnog ozračenja, ispitivanju izvora ionizirajućeg zračenja i uvjeta rada te o izvješćima i očevidnicima (»Narodne novine« broj 41/12) u članku 2. dodaju se točke 3., 4. i 5. koje glase:
+»3. Nositelj odobrenja kod kojeg se obavlja djelatnost je nositelj odobrenja za obavljanje djelatnosti s izvorima ionizirajućeg zračenja koji je odgovoran za područje posebnog nadgledanja u kojem se obavlja djelatnost s izvorima ionizirajućeg zračenja.
+4. Vanjski izvođač je nositelj odobrenja za obavljanje djelatnosti s izvorima ionizirajućeg zračenja, koji nije nositelj odobrenja kod kojeg se obavlja djelatnost, uključujući njegove zaposlenike, a koji obavlja djelatnost u području posebnog nadgledanja.
+5. Vanjski izloženi radnik je izloženi radnik koji je kod vanjskog izvođača zaposlen na određeno ili neodređeno vrijeme ili je samozaposlen, uključujući učenike, pripravnike i studente i koji obavlja bilo koji posao u području posebnog nadgledanja, a za kojeg postoji vjerojatnost da zbog prirode svoga posla u godini dana primi dozu veću od 6 mSv.«
