@@ -1,0 +1,1 @@
+Na temelju članka 11. stavka 2. alineja 5. Zakona o Državnom izbornom povjerenstvu Republike Hrvatske (»Narodne novine«, broj 44/06 i 19/07), a u skladu s odredbama Zakona o arhivskom gradivu i arhivima (»Narodne novine«, broj 105/97, 64/00 i 65/09.), Državno izborno povjerenstvo Republike Hrvatske, na sjednici održanoj dana 28. lipnja 2013. donijelo je

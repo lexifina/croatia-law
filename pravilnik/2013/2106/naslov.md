@@ -1,0 +1,1 @@
+Pravilnik o izmjenama i dopunama Pravilnika o zaštiti i obradi arhivskog i registraturnog gradiva nastalog u radu Državnog izbornog povjerenstva Republike Hrvatske i drugih tijela za provedbu izbora i referenduma

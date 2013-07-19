@@ -1,0 +1,3 @@
+# Članak 7.
+U članku 21. stavku 1. riječi »točaka 1., 2. i 3. te dokumentacija za provedbu državnog referenduma«, zamjenjuju se riječima »točaka 1., 2., 3., 8., 10. i 11., osim dokumentacije nastale u postupku nadzora financiranja izborne promidžbe na lokalnim izborima iz članka 4.b al. 1. i 2., te članka 2. točke 12. ovog Pravilnika«.
+U stavku 2. riječi »točaka 4., 5. i 6. te dokumentacije za provedbu lokalnog referenduma« zamjenjuju se riječima »točaka 4., 5., 6., 7. i 9., te dokumentacija nastala u postupku nadzora financiranja izborne promidžbe na lokalnim izborima iz članka 4.b al. 1. i 2. ovog Pravilnika«.
