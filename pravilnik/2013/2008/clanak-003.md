@@ -1,0 +1,4 @@
+## Djelatnosti za koje se traži odobrenje
+# Članak 3.
+(1) Podnositelj zahtjeva dužan je u zahtjevu za izdavanje ili proširenje odobrenja za rad društvu za upravljanje navesti djelatnost/djelatnosti iz članka 13. Zakona na koje se zahtjev odnosi.
+(2) Ukoliko se zahtjev za izdavanje ili proširenje odobrenja za rad društvu za upravljanje odnosi i na djelatnosti iz članka 13. stavka 1. točke 1. podtočke b) ili točke 2. podtočaka a), b), c) i d) Zakona, uz isti se prilaže, osim dokumentacije iz članka 4. odnosno članka 5. ovog Pravilnika, i dokumentacija potrebna temeljem odredbi zakona kojim se uređuje osnivanje i upravljanje alternativnim investicijskim fondovima, zakona kojim se uređuje tržište kapitala odnosno zakona kojima se uređuje osnivanje i poslovanje dobrovoljnih mirovinskih fondova, kao i propisa donesenih na temelju tih zakona.
