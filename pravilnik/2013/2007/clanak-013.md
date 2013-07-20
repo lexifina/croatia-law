@@ -1,0 +1,7 @@
+## OSTALI UVJETI ZA ČLANOVE UPRAVE I NADZORNOG ODBORA DRUŠTVA ZA UPRAVLJANJE
+# Članak 13.
+(1) Ukoliko se zahtjev za izdavanje suglasnosti za obavljanje funkcije člana uprave društva za upravljanje odnosi na kandidata za člana uprave društva za upravljanje čije su djelatnosti iz članka 13. stavka 1. točke 1. b) i točke 2. a), b), c) i d) Zakona, zahtjev za izdavanje suglasnosti za obavljanje funkcije člana uprave društva za upravljanje podnosi se, osim uz pridržavanje odredbi Zakona i ovog Pravilnika, i uz pridržavanje odredbi zakona kojim se uređuje osnivanje i upravljanje alternativnim investicijskim fondovima, odnosno zakona kojim se uređuje tržište kapitala, zakona kojim se uređuje osnivanje i poslovanje dobrovoljnih mirovinskih fondova te propisa donesenih na temelju tih zakona.
+(2) Ukoliko društvo za upravljanje ima odobrenje za obavljanje djelatnosti iz članka 13. stavka 1. točke 1. b) i točke 2. a), b), c) i d) Zakona prilikom imenovanja odnosno izbora članova nadzornog odbora društva za upravljanje potrebno je pridržavati se odredbi Zakona i ovog Pravilnika i zakona kojim se uređuje osnivanje i upravljanje alternativnim investicijskim fondovima, odnosno zakona kojim se uređuje tržište kapitala, zakona kojim se uređuje osnivanje i poslovanje dobrovoljnih mirovinskih fondova te propisa donesenih na temelju tih zakona.
+ZAVRŠNE ODREDBE
+Članak 13.
+Ovaj Pravilnik stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
