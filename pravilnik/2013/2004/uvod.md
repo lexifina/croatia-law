@@ -1,0 +1,1 @@
+Na temelju članka 317. stavka 5., članka 320., članka 321. stavka 6. i članka 322. stavka 4. Zakona o otvorenim investicijskim fondovima s javnom ponudom (»Narodne novine« broj 16/2013, dalje: Zakon), Hrvatska agencija za nadzor financijskih usluga (dalje: Agencija) na sjednici Upravnog vijeća održanoj 5. srpnja 2013. godine donosi
