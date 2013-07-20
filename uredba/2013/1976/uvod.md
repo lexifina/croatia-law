@@ -1,0 +1,1 @@
+Na temelju članka 53. stavka 2. i članka 63. stavka 1. Zakona o sustavu državne uprave (»Narodne novine«, br. 150/2011 i 12/2013 - Odluka Ustavnog suda Republike Hrvatske), Vlada Republike Hrvatske je na sjednici održanoj 4. srpnja 2013. godine donijela
