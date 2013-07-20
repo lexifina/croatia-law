@@ -1,0 +1,4 @@
+# Članak 4.
+(1) Inspektori inspekcija u poljoprivredi sukladno s ovlastima po ovom Zakonu i posebnim propisima obavljaju upravne i stručne poslove u okviru područja nadležnosti provodeći neposredan uvid u sve akte poslovanja, uvjete i način rada nadziranih pravnih i fizičkih osoba (u daljnjem tekstu: nadzirani subjekt).
+(2) U obavljanju inspekcijskog nadzora inspektori inspekcija u poljoprivredi primjenjujući razne kontrolne metode i tehnike (promatranje, provjera, nadgledanje, uzimanje uzoraka i drugo) utvrđuju činjenice i nepravilnosti temeljem kojih poduzimaju zakonom propisane upravne, prekršajne, kaznene i druge propisane mjere.
+(3) Sukladno s ovlastima po posebnim propisima inspektori inspekcija u poljoprivredi provode inspekcijski nadzor nad radom ovlaštenih tijela na koja su prenesene određene javne ovlasti kontrole.
