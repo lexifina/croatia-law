@@ -1,0 +1,1 @@
+Na temelju članka 10. stavka 4. Zakona o otvorenim investicijskim fondovima s javnom ponudom (»Narodne novine« broj 16/2013, dalje: Zakon), Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća održanoj 5. srpnja 2013. godine donosi
