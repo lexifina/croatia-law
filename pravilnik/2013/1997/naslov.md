@@ -1,0 +1,1 @@
+Pravilnik o sadržaju, načinu vođenja i obrascu evidencije o političkim strankama zastupljenim u predstavničkim tijelima jedinica lokalne i područne (regionalne) samouprave i članovima predstavničkih tijela jedinica lokalne i područne (regionalne) samouprave izabranima s liste grupe birača
