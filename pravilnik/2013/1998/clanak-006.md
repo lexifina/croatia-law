@@ -1,0 +1,6 @@
+## Prijavljivanje promjena
+# Članak 6.
+(1) Porezni obveznik poreza po tonaži broda dužan je u roku od 15 dana izvijestiti Ministarstvo o svim promjenama vezano za broj, tonažu, državnu pripadnost i vlasništvo brodova čija neto tonaža sudjeluje u obračunu poreza po tonaži broda, kao i o promjeni bilo koje činjenice koja je relevantna za ispunjavanje uvjeta za plaćanje poreza po tonaži broda.
+(2) Ministarstvo će o svim prijavljenim promjenama iz stavka 1. ovog članka koje ne predstavljaju razlog za gubitak prava na porez po tonaži broda jednom godišnje izvijestiti Poreznu upravu.
+(3) Ako Ministarstvo utvrdi da prijavljena promjena iz stavka 1. ovog članka predstavlja razlog za gubitak prava na porez po tonaži broda donijet će rješenje o prestanku prava na porez po tonaži broda od trenutka nastale promjene i o tome izvijestiti Poreznu upravu.
+(4) Ministarstvo će najkasnije četiri mjeseca nakon isteka razdoblja za koje je podnesena prijava u sustav poreza po tonaži broda dostaviti Poreznoj upravi popis obveznika poreza po tonaži broda uz popis brodova brodara čija neto-tonaža sudjeluje u obračunu poreza po tonaži broda, koji su tijekom razdoblja za koji se podnosi prijava poreza po tonaži broda ispunjavali uvjete prema kojima se utvrđuje plaćanje poreza po tonaži broda.

@@ -1,0 +1,1 @@
+Na temelju članka 65. Zakona o izmjenama i dopunama Pomorskog zakonika (»Narodne novine« broj 61/11) u svezi članka 429.b stavak 5. Pomorskog zakonika (»Narodne novine« 181/04, 76/07, 146/08, 61/11 i 56/13), ministar pomorstva, prometa i infrastrukture uz suglasnost ministra financija donosi
