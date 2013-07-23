@@ -1,0 +1,4 @@
+# Članak 142.
+(1) Nadzor nad primjenom ovoga Zakona i propisa donesenih na temelju ovoga Zakona u dijelu koji se odnosi na obveze proizvođača proizvoda, prekogranični promet otpada te postupak posredovanja i trgovanja otpadom svaki u okviru svojih nadležnosti provode ovlašteni službenici ministarstva nadležnog za carinsku upravu i ministarstva nadležnog za unutarnje poslove, ako ovim Zakonom nije određeno drukčije.
+(2) Prekršajni postupak kojeg ministarstvo nadležno za carinsku upravu provodi radi utvrđenih povreda odredbi ovoga Zakona i propisa donesenih temeljem ovoga Zakona smatraju se prekršajnim postupcima iz nadležnosti Carinske uprave sukladno propisu kojim se uređuje carinska služba.
+(3) Nadzor nad primjenom ovoga Zakona i propisa donesenih na temelju ovoga Zakona u dijelu koji se odnosi na gospodarenje komunalnim otpadom provodi komunalno redarstvo, ako ovim Zakonom nije određeno drukčije.

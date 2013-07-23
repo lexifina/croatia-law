@@ -1,0 +1,5 @@
+## Obveze pripreme za ponovnu uporabu, recikliranje i oporabu
+# Članak 55.
+(1) Do 1. siječnja 2020. Republika Hrvatska će putem nadležnih tijela osigurati pripremu za ponovnu uporabu i recikliranje sljedećih otpadnih materijala: papir, metal, plastika i staklo iz kućanstva, a po mogućnosti i iz drugih izvora ako su ti tokovi otpada slični otpadu iz kućanstva, u minimalnom udjelu od 50% mase otpada.
+(2) Do 1. siječnja 2020. Republika Hrvatska će putem nadležnih tijela osigurati pripremu za ponovnu uporabu, recikliranje i druge načine materijalne oporabe, uključujući postupke zatrpavanja i nasipavanja, u kojima se otpad koristi kao zamjena za druge materijale, neopasnog građevnog otpada, isključujući materijal iz prirode utvrđen ključnim brojem 17 05 04 - zemlja i kamenje koji nisu navedeni pod 17 05 03, u minimalnom udjelu od 70% mase otpada.
+(3) Za izračunavanje ostvarivanja ciljeva iz stavaka 1. i 2. ovoga članka primjenjuje se Odluka Komisije 2011/753/EU o uspostavi pravila i metoda izračuna za provjeru poštivanja ciljeva iz članka 11(2) Direktive 2008/98/EZ Europskog parlamenta i Vijeća.

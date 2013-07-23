@@ -1,0 +1,5 @@
+# Članak 127.
+(1) U slučaju izvoza, Ministarstvo je dužno poslati prethodnu suglasnost državama provoza i odredišta u roku od tri radna dana od dana dostave urednog zahtjeva.
+(2) U slučaju uvoza ili provoza, kada je uočen nedostatak u zahtjevu, Ministarstvo je dužno u roku od tri radna dana od dana primitka zahtjeva zaključkom upozoriti podnositelja na nedostatke i odrediti rok u kojem je podnositelj dužan otkloniti nedostatke, sukladno članku 8. stavku 1. Uredbe (EZ-a) br. 1013/2006. Preslike zaključka dostavljaju se svim nadležnim tijelima uključenim u predmetni prekogranični promet otpada.
+(3) Po primitku urednog zahtjeva za uvoz ili provoz, Ministarstvo je dužno unutar tri radna dana podnositelju obavijesti i svim nadležnim tijelima uključenim u predmetni prekogranični promet otpada dostaviti obavijest o urednosti zahtjeva.
+(4) Zaključak iz stavka 2. ovoga članka i obavijest iz stavka 3. ovoga članka dostavljaju se putem elektroničke pošte ili faksa te putem pošte u papirnatom obliku.

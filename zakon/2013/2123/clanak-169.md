@@ -1,0 +1,18 @@
+# Članak 169.
+(1) Novčanom kaznom u iznosu od 100.000,00 do 300.000,00 kuna kaznit će se za prekršaj jedinica lokalne samouprave koja:
+1. ne dostavi županiji godišnje izvješće o provedbi Plana do 31. ožujka tekuće godine za prethodnu kalendarsku godinu (članak 20. stavak 1.),
+2. ne ishodi prethodnu suglasnost nadležnog tijela iz članka 21. stavka 2. ovoga Zakona za prijedlog plana gospodarenja otpadom jedinice lokane samouprave (članak 21. stavak 2.),
+3. ne sudjeluje u sustavima sakupljanja posebne kategorije otpada sukladno propisu kojim se uređuje gospodarenje posebnom kategorijom otpada (članak 28. stavak 3.),
+4. ne osigura provedbu obveza iz članka 28. stavka 1. ovoga Zakona na kvalitetan, postojan i ekonomski učinkovit način u skladu s načelima održivog razvoja, zaštite okoliša i gospodarenja otpadom (članak 28. stavak 4.),
+5. ne donese odluku o načinu pružanja javnih usluga prikupljanja miješanog komunalnog otpada i prikupljanja biorazgradivog komunalnog otpada iz članka 30. stavka 7. ovoga Zakona ili odluku o mjerama za sprječavanje nepropisnog odbacivanja otpada i mjerama za uklanjanje odbačenog otpada iz članka 36. stavka 13. ovoga Zakona u roku od tri mjeseca od dana stupanja na snagu uredbe iz članka 29. stavka 10. ovoga Zakona (članci 30. i 36. i članak 179. stavak 5.),
+6. ne obračunava troškove za obavljanje javne usluge prikupljanja miješanog i biorazgradivog komunalnog otpada, sukladno načelu »onečišćivač plaća«, razmjerno količini predanog otpada i broju pražnjenja spremnika u obračunskom razdoblju (članak 33. stavci 1. i 2.),
+7. na svom području ne osigura odvojeno prikupljanje otpadnog papira, metala, stakla, plastike i tekstila, te krupnog (glomaznog) komunalnog otpada na način propisan člankom 35. stavcima 1., 2., 3. i 4. ovoga Zakona u roku od godine dana od dana stupanja na snagu ovoga Zakona (članak 35. stavak 1. i članak 179. stavak 4.),
+8. dopusti odbacivanje i sakupljanje krupnog (glomaznog) otpada na javnoj površini (članak 35. stavak 7.),
+9. ne uspostavi sustav za zaprimanje obavijesti o nepropisno odbačenom otpadu i sustav evidentiranja lokacija odbačenog otpada (članak 36. stavak 2. točke 1. i 2.),
+10. ne provodi redoviti godišnji nadzor radi utvrđivanja postojanja odbačenog otpada (članak 36. stavak 2. točka 3.),
+11. vlasniku, odnosno posjedniku nekretnine ako vlasnik nije poznat na kojoj je nepropisno odložen otpad, odnosno osobi koja, sukladno posebnom propisu, upravlja određenim područjem (dobrom), ako je otpad odložen na tom području (dobru), rješenjem ne naredi uklanjanje tog otpada (članak 36. stavak 3.),
+12. ne osigura uklanjanje nepropisno odloženog otpada predajom ovlaštenoj osobi za gospodarenje tom vrstom otpada, ako komunalni redar utvrdi da obveza određena rješenjem iz članka 36. stavka 3. ovoga Zakona, nije izvršena (članak 36. stavak 6.),
+13. u dokumentima prostornog uređenja ne planira lokacije za kategoriju građevina iz članka 83. stavka 5. ovoga Zakona u roku od godine dana od dana stupanja na snagu ovoga Zakona (članak 83. stavak 6. i članak 179. stavak 1.).
+(2) Za prekršaj iz stavka 1. ovoga članka kaznit će se i odgovorna osoba u jedinici lokalne samouprave, novčanom kaznom u iznosu od 15.000,00 do 25.000,00 kuna.
+(3) Za prekršaj iz stavka 1. točke 6. ovoga članka kaznit će se i odgovorna osoba pravne osobe s javnim ovlastima novčanom kaznom u iznosu od 15.000,00 do 25.000,00 kuna.
+(4) Novčanom kaznom u iznosu od 15.000,00 do 50.000,00 kuna kaznit će se za prekršaj izvršno tijelo jedinice lokalne samouprave ako utroši sredstva od naknade iz članka 33. stavka 13. ovoga Zakona protivno njihovoj namjeni propisanoj člankom 33. stavkom 16. ovoga članka (članak 33. stavak 19.).

@@ -1,0 +1,3 @@
+## Odlaganje otpada
+# Članak 104.
+Kategorije odlagališta otpada, postupci i drugi uvjeti za odlaganje otpada, postupci i drugi uvjeti za prihvat otpada u podzemna odlagališta otpada, granične vrijednosti emisija u okoliš kod odlaganja otpada, uvjeti i mjere u svezi s planiranjem, gradnjom, radom i zatvaranjem odlagališta i postupanjem nakon njihova zatvaranja, te uvjete za odlaganje otpada sukladno posebnom propisu o sprječavanju onečišćenja Sredozemnog mora potapanjem otpadnih i drugih tvari s plovnih objekata i zrakoplova u more sukladno članku 16. stavcima 2. i 3. ovoga Zakona, u suradnji s ministrom nadležnim za prostorno planiranje, ministrom nadležnim za pomorstvo i ministrom nadležnim za vodno gospodarstvo, propisuje ministar pravilnikom.

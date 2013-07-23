@@ -1,0 +1,3 @@
+# Članak 164.
+(1) Kada u provedbi inspekcijskog nadzora utvrdi da su dozvolom nadležnog tijela iz članka 85. ovoga Zakona povrijeđene materijalne odredbe ovoga Zakona i/ili propisa donesenih na temelju njega, inspektor predlaže Ministarstvu, odnosno nadležnom upravnom tijelu ukidanje ili poništavanje dozvole.
+(2) Ako u provedbi inspekcijskog nadzora utvrdi da se nadzirana osoba ne pridržava uvjeta određenih u dozvoli zbog čega može prouzročiti tešku i neposrednu opasnost za život i zdravlje ljudi ili kažnjivo onečišćenje okoliša, inspektor predlaže Ministarstvu, odnosno nadležnom upravnom tijelu ukidanje dozvole.

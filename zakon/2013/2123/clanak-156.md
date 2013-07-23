@@ -1,0 +1,3 @@
+# Članak 156.
+(1) Ako inspektor prilikom nadzora prekograničnog prometa otpada utvrdi da postoji osnovana sumnja da vrsta otpada navedena u dokumentima koji prate pošiljku otpada ne odgovara vrsti otpada koja se nalazi u pošiljci otpada, radi poduzimanja hitnih mjera, usmenim rješenjem na zapisnik naređuje osobi koja uvozi, provozi ili izvozi otpad privremeno zadržavanje prijevoznog sredstva i pošiljke otpada do završetka ispitivanja fizikalnih i kemijskih svojstava otpada u privremenom carinskom skladištu.
+(2) Privremeno carinsko skladište iz stavka 1. ovoga članka je skladišni prostor pravne ili fizičke osobe ovlaštene od Ministarstva za djelatnost skladištenja opasnog otpada i koji je nadležna carinarnica odobrila kao skladište za privremeni smještaj robe.

@@ -1,0 +1,3 @@
+# Članak 128.
+(1) Nakon odobrenja prekograničnog prometa otpada koji podliježe notifikacijskom postupku, podnositelj obavijesti je dužan svaku otpremu pošiljke otpada najaviti nadležnim tijelima država polazišta, provoza i odredišta tri radna dana prije otpreme pošiljke putem faksa ili elektroničke pošte.
+(2) U slučaju kada se prekogranični promet otpada obavlja preko graničnih prijelaza između Republike Hrvatske i država koje nisu članice Europske unije, podnositelj obavijesti dužan je pošiljku najaviti, osim nadležnim tijelima iz stavka 1. ovoga članka i carinarnici ulaza u Republiku Hrvatsku i/ili izlaza iz Republike Hrvatske.

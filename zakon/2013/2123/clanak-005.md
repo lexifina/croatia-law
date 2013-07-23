@@ -1,0 +1,4 @@
+## Ovlasti ministra
+# Članak 5.
+(1) Način rada u središnjem tijelu državne uprave nadležnom za poslove zaštite okoliša (u daljnjem tekstu: Ministarstvo), tijelima jedinica lokalne i područne (regionalne) samouprave i pravnim osobama s javnim ovlastima, u vezi s provedbom ovoga Zakona i propisa donesenih na temelju ovoga Zakona, propisuje ministar nadležan za poslove zaštite okoliša (u daljnjem tekstu: ministar) naputkom.
+(2) Ovlašćuje se ministar da za potrebe izrade nacrta propisa koje je po ovom Zakonu ovlaštena donositi Vlada Republike Hrvatske (u daljnjem tekstu: Vlada) i ministar, za izradu i provedbu nacionalnih planova, programa i izvješća te za ocjenu o iznimci od primjene reda prvenstva gospodarenja otpadom osniva povjerenstva, imenuje članove povjerenstva te uređuje način njihova rada.

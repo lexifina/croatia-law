@@ -1,0 +1,13 @@
+# Članak 82.
+(1) Fond prati izvršenje rješenja iz članka 80. stavka 2. ovoga Zakona temeljem podataka o količini proizvoda stavljenog na tržište sadržanih u Registru gospodarenja posebnim kategorijama otpada, te podataka o gospodarenju otpadom sadržanih u elektroničkom očevidniku nastanka i tijeka otpada i na drugi propisani način.
+(2) Ako Fond utvrdi da je osoba kojoj je izdano rješenje iz članka 80. stavka 2. ovoga Zakona u određenom kvartalu ispunila cilj, na zahtjev će joj o tome izdati potvrdu.
+(3) Ako Fond utvrdi da osoba kojoj je izdano rješenje iz članka 80. stavka 2. ovoga Zakona u određenom kvartalu nije ispunila cilj o tome će Fond obavijestiti tu osobu, Ministarstvo i Carinsku upravu.
+(4) Ako Fond utvrdi da osoba koja je ishodila rješenje iz članka 80. stavka 2. ovoga Zakona nije dva uzastopna kvartala unutar iste kalendarske godine postigla utvrđeni cilj, Fond će to rješenje ukinuti te odrediti osobu koja preuzima obvezu ispunjavanja tog pojedinačnog cilja sukladno uredbi iz članka 53. stavka 4. ovoga Zakona.
+(5) Ministarstvo će ukinuti rješenje iz članka 80. stavka 2. ovoga Zakona po prijedlogu ovlaštene osobe Carinske uprave i/ili inspektora zaštite okoliša i u sljedećim slučajevima:
+1. ako Ministarstvo, odnosno drugo nadležno tijelo ili Fond utvrdi da osoba koja je ishodila rješenje ne ispunjava propisane uvjete ili obveze u vezi gospodarenja otpadom,
+2. kada osoba koja je ishodila rješenje u svom radu ne poštuje zakonske propise o zaštiti okoliša i gospodarenja otpadom te druge propise iz ovog područja,
+3. ako se godišnjim izvješćem iz članka 64. stavka 3. ovoga Zakona utvrdi neispunjavanje cilja utvrđenog temeljem stavka 2. istoga članka.
+(6) Ako se utvrdi da osoba koja je ishodila rješenje iz članka 80. stavka 2. ovoga Zakona prestala obavljati poslove za koje je ishodila rješenje, Ministarstvo će rješenjem utvrditi prestanak važenja rješenja iz članka 80. stavka 2. ovoga Zakona.
+(7) Osoba protiv koje su poduzete mjere propisane stavkom 5. ovoga članka, dužna je u najkraćem mogućem roku, a ne kasnije od 30 dana od dana ukinutog rješenja, organizirati gospodarenje svojim otpadom na način propisan ovim Zakonom.
+(8) Protiv osobe koja nije ispunila svoj cilj te su na nju primijenjene mjere propisane ovim člankom Zakona, kao dodatnu krajnju mjeru, Ministarstvo u posebnim slučajevima može uz prethodno stručno mišljenje Fonda, rješenjem privremeno ograničiti ili u potpunosti zabraniti proizvođaču daljnje stavljanje njegovih proizvoda na tržište, u trajanju sve dok se ne organizira i počne primjenjivati efikasniji način zbrinjavanja predmetnog otpada, a na druge moguće načine propisane ovim Zakonom.
+(9) Protiv rješenja iz stavaka 5. i 7. ovoga Zakona nije dopuštena žalba, ali se može pokrenuti upravni spor.

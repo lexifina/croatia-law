@@ -1,0 +1,14 @@
+## Utvrđivanje i ispunjavanje cilja za posebnu kategoriju otpada
+# Članak 64.
+(1) Do 31. siječnja tekuće godine Fond će u suradnji s Agencijom, temeljem ovoga Zakona i propisa koji uređuju gospodarenje posebnim kategorijama otpada, na razini Republike Hrvatske, utvrditi okvirni cilj za odgovarajuću posebnu kategoriju otpada kojeg su u toj kalendarskoj godini dužni ispuniti proizvođači proizvoda.
+(2) Do 31. siječnja tekuće godine Fond će, nakon ishođene prethodne suglasnost Ministarstva, na razini Republike Hrvatske, temeljem podataka o količini proizvoda stavljenog na tržište sadržanih u Registru gospodarenja posebnim kategorijama otpada i podataka o gospodarenju otpadom sadržanih u elektroničkom očevidniku nastanka i tijeka otpada za prethodnu kalendarsku godinu, utvrditi okvirni cilj kojeg su za prethodnu kalendarsku godinu dužni ispuniti proizvođači proizvoda.
+(3) Fond prati ispunjavanje okvirnog cilja iz stavka 2. ovoga članka te izrađuje i dostavlja Ministarstvu kvartalno i godišnje izvješće o ispunjavanju određenog cilja na razini Republike Hrvatske, za sustave gospodarenja posebnim kategorijama kojim upravlja Fond, za organizaciju iz članka 75. ovoga Zakona i zajedničko izvješće za osobe koje su ishodile rješenje iz članka 80. stavka 4. ovoga Zakona.
+(4) Proizvođač proizvoda od kojeg nastaju posebne kategorije otpada dužan je ispuniti cilj iz stavka 2. ovoga članka razmjerno tržišnom udjelu količine proizvoda određene kategorije kojeg je stavio na tržište u Republici Hrvatskoj.
+(5) Obveza iz stavka 1. ovoga članka smatrat će se izvršenom ako proizvođač proizvoda:
+1. uplati naknadu gospodarenja otpadom na račun Fonda koji time preuzima obvezu ispunjavanja cilja za tog proizvođača ili
+2. je sklopio ugovor s organizacijom koja posjeduje važeće odobrenje iz članka 78. ovoga Zakona i koja je preuzela ispunjenje cilja za tog proizvođača i ako je uplatio naknadu iz članka 75. stavka 6. ovoga Zakona ili
+3. ishodi rješenje iz članka 80. stavka 4. ovoga Zakona kojim je utvrđeno da je u cijelosti ispunio pojedinačni cilj za odgovarajuću posebnu kategoriju otpada.
+(6) Način izvršavanja obveze iz stavka 5. ovoga članka za određenu posebnu kategoriju otpada, odnosno kategoriju proizvoda propisuje Vlada uredbom iz članka 53. stavka 4. ovoga Zakona.
+(7) Ministarstvo na temelju izvješća Fonda i Agencije o provedbi sustava gospodarenja određenom posebnom kategorijom otpada te sveukupne analize sustava svih posebnih kategorija otpada uspostavljenih temeljem ovoga Zakona, donosi odluku kojom utvrđuje da je prijenos obveze ispunjenja određenog cilja utvrđenog pravilnikom iz članka 53. stavka 3. ovoga Zakona na organizaciju iz članka 75. ovoga Zakona opravdan.
+(8) Odluka iz stavka 7. ovoga članka nije upravni akt.
+(9) Odluka iz stavka 7. ovoga članka se objavljuje u »Narodnim novinama« i na mrežnim stranicama ministarstva.

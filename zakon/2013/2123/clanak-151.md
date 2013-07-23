@@ -1,0 +1,4 @@
+# Članak 151.
+(1) Inspektor rješenjem naređuje osobi nad kojom se provodi nadzor, a koja posjeduje akt kojim se određuju uvjeti i način obavljanja djelatnosti gospodarenja otpadom, otklanjanje nepravilnosti u postupanju i poslovanju s otpadom i posebnim kategorijama otpada ako utvrdi da ne postupa s tim vrstama otpada na propisani način, odnosno ako utvrdi da za obavljanje poslova nije osigurala propisane uvjete.
+(2) Ako osoba iz stavka 1. ovoga članka ne izvrši rješenje kojim joj je naređena mjera otklanjanja nepravilnosti u postupanju i poslovanju, inspektor će osobu prisiliti na izvršenje novčanom kaznom iz članka 162. stavka 1. ovoga Zakona.
+(3) Ako osoba i nakon izrečene novčane kazne ne izvrši rješenje inspektor će zapečatiti radne prostorije, prostore, uređaje i opremu ili na drugi način onemogućiti daljnje nezakonito obavljanje djelatnosti.

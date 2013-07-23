@@ -1,0 +1,21 @@
+## Uklanjanje odbačenog otpada
+# Članak 36.
+(1) Provedbu obveza iz članka 28. stavka 1. točke 3. ovoga Zakona osigurava osoba koja obavlja poslove službe nadležne za komunalni red jedinice lokalne samouprave (u daljnjem tekstu: komunalni redar):
+1. mjerama za sprječavanje nepropisnog odbacivanja otpada
+2. mjerama za uklanjanje otpada odbačenog u okoliš što uključuje i uklanjanje naplavljenog morskog otpada.
+(2) Mjere iz stavka 1. točke 1. ovoga članka uključuju:
+1. uspostavu sustava za zaprimanje obavijesti o nepropisno odbačenom otpadu,
+2. uspostava sustava evidentiranja lokacija odbačenog otpada,
+3. provedbu redovitog godišnjeg nadzora područja jedinice lokalne samouprave radi utvrđivanja postojanja odbačenog otpada, a posebno lokacija na kojima je u prethodne dvije godine evidentirano postojanje odbačenog otpada,
+4. druge mjere sukladno odluci predstavničkog tijela jedinice lokalne samouprave iz stavka 13. ovoga članka.
+(3) Radi provedbe mjera iz stavka 1. točke 2. ovoga članka komunalni redar rješenjem naređuje vlasniku, odnosno posjedniku nekretnine, ako vlasnik nije poznat, na kojem je nepropisno odložen otpad uklanjanje tog otpada, odnosno osobi koja sukladno posebnom propisu upravlja određenim područjem (dobrom), ako je otpad odložen na tom području (dobru).
+(4) Rješenjem iz stavka 3. ovoga članka određuje se: lokacija odbačenog otpada, procijenjena količina otpada, obveznik uklanjanja otpada, te obveza uklanjanja otpada predajom ovlaštenoj osobi za gospodarenje tom vrstom otpada u roku koji ne može biti duži od 6 mjeseca od dana zaprimanja rješenja.
+(5) Protiv rješenja iz stavka 3. ovoga članka može se izjaviti žalba nadležnom upravnom tijelu, a protiv rješenja komunalnog redara Grada Zagreba može se izjaviti žalba Ministarstvu.
+(6) Istekom roka određenog rješenjem iz stavka 4. ovoga članka komunalni redar utvrđuje ispunjavanje obveze određene rješenjem. Ako komunalni redar utvrdi da obveza određena rješenjem iz stavka 3. ovoga članka nije izvršena, jedinica lokalne samouprave, odnosno Grad Zagreb dužan je osigurati uklanjanje tog otpada predajom ovlaštenoj osobi za gospodarenje tom vrstom otpada.
+(7) Ako komunalni redar utvrdi postojanje opravdane sumnje da je opasni ili drugi otpad odbačen na nekretnini čiji vlasnik, odnosno posjednik, ako vlasnik nekretnine nije poznat, odnosno osoba koja, sukladno posebnom propisu, upravlja određenim područjem (dobrom), ne dopušta pristup radi utvrđivanja činjeničnog stanja u vezi odbačenog otpada, komunalni redar ovlašten je zatražiti nalog suda i asistenciju djelatnika ministarstva nadležnog za unutarnje poslove radi pristupa na nekretninu u svrhu utvrđivanja činjenica.
+(8) Jedinica lokalne samouprave dužna je podatke utvrđene rješenjem iz stavka 3. ovoga članka mjesečno unositi u mrežnu aplikaciju sustava evidentiranja lokacija odbačenog otpada iz članka 137. stavka 3. točke 7. ovoga Zakona.
+(9) Izvršno tijelo jedinice lokalne samouprave dužno je izvješće o lokacijama i količinama odbačenog otpada, troškovima uklanjanja odbačenog otpada i provedbi mjera iz stavka 1. ovoga članka podnijeti predstavničkom tijelu te jedinice do 31. ožujka tekuće godine za prethodnu kalendarsku godinu.
+(10) Predstavničko tijelo jedinice lokalne samouprave dužno je, temeljem izvješća iz stavka 9. ovoga članka, donijeti odluku o provedbi posebnih mjera sprječavanja odbacivanja otpada u odnosu na lokacije na kojima je u više navrata utvrđeno nepropisno odbacivanje otpada.
+(11) Sredstva za provedbu mjera iz stavka 1. ovoga članka osiguravaju se u proračunu jedinice lokalne samouprave.
+(12) Jedinica lokalne samouprave ima pravo na naknadu troška uklanjanja otpada iz stavka 6. ovoga članka od vlasnika, odnosno posjednika nekretnine, ako vlasnik nije poznat, odnosno od osobe koja, sukladno posebnom propisu, upravlja određenim područjem (dobrom), na kojem se otpad nalazio.
+(13) Način provedbe mjera propisanih ovim člankom uređuju se odlukom predstavničkog tijela jedinice lokalne samouprave o mjerama za sprječavanje nepropisnog odbacivanja otpada i mjerama za uklanjanje odbačenog otpada, koja se odmah po donošenju dostavlja Ministarstvu, te objavljuje u službenom glasilu i na mrežnim stranicama jedinice lokalne samouprave.

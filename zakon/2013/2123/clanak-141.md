@@ -1,0 +1,10 @@
+## X. INSPEKCIJSKI NADZOR
+# Članak 141.
+(1) Inspekcijski nadzor nad primjenom ovoga Zakona i propisa donesenih na temelju ovoga Zakona provode inspektori zaštite okoliša Ministarstva (u daljnjem tekstu: inspektor).
+(2) Na inspekcijski nadzor koji se provodi na temelju odredbi ovoga Zakona na odgovarajući se način primjenjuju odredbe zakona kojim se uređuje zaštita okoliša, ako ovim Zakonom nije propisano drukčije.
+(3) Inspekcijski nadzor nad primjenom odredbi ovoga Zakona i propisa donesenih na temelju ovoga Zakona, u dijelu koji se odnosi na obračun i naplatu prikupljanja miješanog komunalnog i biorazgradivog otpada potrošačima provode gospodarski inspektori Državnog inspektorata na način propisan posebnim zakonom kojim se uređuje zaštita potrošača.
+(4) Inspekcijski nadzor nad primjenom ovoga Zakona i propisa donesenih na temelju ovoga Zakona u dijelu koji se odnosi na vodno dobro provode vodopravni inspektori u suradnji s inspektorom.
+(5) Inspekcijski nadzor nad primjenom ovoga Zakona i propisa donesenih na temelju ovoga Zakona u dijelu koji se odnosi na zaštićena područja ili ekološku mrežu provode inspektori zaštite prirode.
+(6) Inspekcijski nadzor nad primjenom ovoga Zakona i propisa donesenih na temelju ovoga Zakona u dijelu koji se odnosi na unutarnje morske vode i teritorijalno more Republike Hrvatske provode inspektori sigurnosti plovidbe Ministarstva nadležnog za sigurnost plovidbe.
+(7) Ovlaštene osobe Obalne straže Republike Hrvatske obavljaju inspekcijski nadzor nad provedbom ovoga Zakona i propisa donesenih na temelju njega na području zaštićenog ekološko-ribolovnog pojasa Republike Hrvatske, odnosno gospodarskog pojasa Republike Hrvatske kada Hrvatski sabor proglasi i ostale sadržaje isključivoga gospodarskog pojasa u skladu s Glavom IV. Pomorskog zakonika.
+(8) Ovlaštene osobe Obalne straže Republike Hrvatske mogu obavljati inspekcijski nadzor u unutarnjim morskim vodama i teritorijalnom moru Republike Hrvatske, ukoliko postoji osnovana sumnja o kršenju odredbi ovoga Zakona, a inspektori i ovlaštene osobe iz stavaka 1. i 6. ovoga članka nisu nazočni ili nisu u mogućnosti intervenirati.
