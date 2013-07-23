@@ -1,0 +1,5 @@
+# Članak 10.
+(1) Ako korisnik izvlaštenja želi stupiti u posjed nekretnina prije pravomoćnosti rješenja o izvlaštenju, podnosi zahtjev za stupanjem u posjed mjesno nadležnom uredu državne uprave u županiji, odnosno nadležnom uredu Grada Zagreba.
+(2) Zahtjev iz stavka 1. ovoga članka odobrit će se ako korisnik izvlaštenja obrazloži razloge za potrebu hitnog stupanja u posjed nekretnine, odnosno obrazloži razloge da bi stupanjem u posjed po pravomoćnosti rješenja o izvlaštenju mogla nastupiti znatnija imovinska šteta i podnese dokaz da je prijašnjem vlasniku isplaćena naknada sukladno posebnim propisima o izvlaštenju, odnosno da mu je navedena naknada stavljena na raspolaganje, ali je odbio primiti naknadu.
+(3) O stupanju u posjed izvlaštenih nekretnina iz stavka 2. ovoga članka rješenje donosi mjesno nadležni ured državne uprave u županiji, odnosno nadležni ured Grada Zagreba, u roku od 15 dana od dana uredno predanog zahtjeva.
+(4) Žalba protiv rješenja iz stavka 3. ovoga članka ne odgađa izvršenje rješenja.

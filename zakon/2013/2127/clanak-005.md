@@ -1,0 +1,7 @@
+## Načelo razdvajanja
+# Članak 5.
+(1) Obavljanje usluga željezničkog prijevoza i upravljanje željezničkom infrastrukturom temelje se na načelu razdvajanja.
+(2) Računi dobiti i gubitka i bilance stanja koji se odnose na poslovanje u vezi s obavljanjem usluga željezničkog prijevoza i oni koji se odnose na poslovanje u vezi s upravljanjem željezničkom infrastrukturom moraju se voditi zasebno i javno su dostupni. Naknada doznačena za jedno od ova dva područja ne smije se transferirati na drugo područje.
+(3) Računi dobiti i gubitka i bilance stanja koji se odnose na poslovanje u vezi s obavljanjem usluga željezničkog prijevoza tereta, s jedne strane, i oni koji se odnose na poslovanje vezano za pružanje usluga željezničkog prijevoza putnika, s druge strane, moraju se voditi zasebno i javno su dostupni.
+(4) Naknade za aktivnosti vezane za obavljanje usluga željezničkog prijevoza, kao uplate za obavljene javne usluge, prikazuju se zasebno u poslovnim knjigama, u skladu s Uredbom (EZ) br. 1370/2007, i ne smiju se transferirati na aktivnosti vezane za obavljanje drugih usluga željezničkog prijevoza ili bilo kakvo drugo poslovanje.
+(5) Poslovne knjige za područja poslovanja iz stavaka 2. i 4. ovoga članka vode se na način koji omogućava nadziranje zabrane transferiranja sredstava doznačenih za jedno područje poslovanja na drugo i nadziranje korištenja prihoda od infrastrukturnih naknada i upotrebe dobiti od ostalih poslovnih aktivnosti.

@@ -1,0 +1,19 @@
+## Postupak usuglašavanja dodjele infrastrukturnog kapaciteta
+# Članak 43.
+(1) Prigodom dodjele infrastrukturnog kapaciteta upravitelj infrastrukture obvezan je, u onoj mjeri u kojoj je to moguće, udovoljiti svim zahtjevima za dodjelu infrastrukturnog kapaciteta, uključujući i zahtjeve za dodjelu infrastrukturnog kapaciteta koji prolaze preko više željezničkih mreža, pri čemu treba uzeti u obzir, u onoj mjeri u kojoj je to moguće, sva ograničenja za podnositelje zahtjeva.
+(2) U slučajevima zakrčenosti željezničke infrastrukture upravitelj infrastrukture može u postupku izrade godišnjeg voznog reda, na temelju analize kapaciteta odrediti prioritete, vodeći računa o značaju određene usluge za društvo, a posebno u odnosu na one usluge koje će zbog toga biti isključene. Kod određivanja prioriteta upravitelj infrastrukture može posebice dati prednost onim uslugama kojima se promiče razvoj domaćeg i međunarodnog željezničkog prijevoza tereta i obavljanje javnih usluga prijevoza.
+(3) U slučaju postojanja specijalizirane željezničke infrastrukture upravitelj infrastrukture može u postupku izrade godišnjeg voznog reda dati prednost obavljanju usluga za koje je željeznička infrastruktura specijalizirana.
+(4) Upravitelj infrastrukture obvezan je s nacrtom voznog reda upoznati sve zainteresirane stranke i tražiti njihovo pisano očitovanje. Zainteresirane stranke su podnositelji zahtjeva za dodjelu infrastrukturnog kapaciteta i druge stranke koje žele iznijeti primjedbe o mogućem utjecaju voznog reda na njihovu mogućnost korištenja usluga željezničkog prijevoza tijekom razdoblja važenja voznog reda. Upravitelj infrastrukture će podnositeljima zahtjeva dostaviti nacrt voznog reda, a ostale zainteresirane stranke će putem službenih mrežnih stranica pozvati da obave uvid u nacrt voznog reda.
+(5) Rok za dostavu očitovanja na nacrt voznog reda je mjesec dana od dana objave poziva na davanje očitovanja na mrežnim stranicama upravitelja infrastrukture.
+(6) Upravitelj infrastrukture poduzima odgovarajuće mjere za rješavanje svih iznesenih primjedbi iz stavka 4. ovoga članka.
+(7) Upravitelj infrastrukture dužan je poduzeti mjere za rješavanje kolidirajućih zahtjeva za dodjelu infrastrukturnog kapaciteta te nastojati da se u postupku usuglašavanja udovolji svim zahtjevima na najbolji mogući način.
+(8) Prigodom usuglašavanja nacrta voznog reda sa zahtjevima zainteresiranih stranaka upravitelj infrastrukture ima pravo predložiti drugi infrastrukturni kapacitet različit od zatraženog.
+(9) Rješavanje kolidirajućih zahtjeva iz stavka 7. ovoga članka temelji se na dostavi informacija, od strane upravitelja infrastrukture, u pisanom ili elektroničkom obliku i u prihvatljivom roku, bez naknade, a koje se odnose na:
+- trase vlakova koje su zatražili svi ostali podnositelji zahtjevi na istim pravcima
+- trase vlakova koje su unaprijed dodijeljene svim drugim podnositeljima zahtjeva na istim pravcima
+- alternativne trase vlakova koji se predlažu na relevantnim pravcima u skladu sa stavkom 8. ovoga članka
+- sve pojedinosti o kriterijima koji se koriste u postupku dodjele kapaciteta.
+(10) Informacije iz stavka 9. ovoga članka daju se bez otkrivanja identiteta ostalih podnositelja zahtjeva, osim ako je podnositelj zahtjeva pristao na takvo otkrivanje.
+(11) Načela kojima se uređuje postupak usuglašavanja navode se u Izvješću o mreži.
+(12) U slučaju nepostizanja suglasnosti u vezi s dodjelom infrastrukturnog kapaciteta upravitelj infrastrukture će u Izvješću o mreži utvrditi postupak za rješavanje tih nesuglasica. Rok za rješavanje ovih nesuglasica je 10 radnih dana.
+(13) Ako se ne postigne suglasnost ni u postupku određenom u stavku 12. ovoga članka, o dodjeli infrastrukturnog kapaciteta odlučuje upravitelj infrastrukture. Nezadovoljan podnositelj zahtjeva može pokrenuti postupak pred regulatornim tijelom.

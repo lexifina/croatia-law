@@ -1,0 +1,9 @@
+## Dodjela infrastrukturnog kapaciteta
+# Članak 38.
+(1) Zahtjev za dodjelu infrastrukturnog kapaciteta podnosi podnositelj zahtjeva.
+(2) Ako podnositelj zahtjeva nije željeznički prijevoznik u smislu članka 4. ovoga Zakona dužan je, u zahtjevu za dodjelu infrastrukturnog kapaciteta, imenovati željezničkog prijevoznika koji će sklopiti ugovor o pristupu s upraviteljem infrastrukture. Podnositelj zahtjeva koji nije željeznički prijevoznik s upraviteljem infrastrukture sklapa ugovor kojim se uređuje korištenje željezničke infrastrukture. Podnositelj zahtjeva, uz prethodnu suglasnost upravitelja infrastrukture, može angažirati drugog željezničkog prijevoznika.
+(3) Upravitelj infrastrukture može u Izvješću o mreži propisati uvjete koje mora ispunjavati podnositelj zahtjeva glede osiguranja tražbina upravitelja infrastrukture čija visina mora biti razmjerna predviđenom opsegu aktivnosti podnositelja zahtjeva. Ti uvjeti moraju biti primjereni, transparentni i nediskriminirajući.
+(4) Dodjelu infrastrukturnog kapaciteta obavlja upravitelj infrastrukture. Dodjela infrastrukturnog kapaciteta mora biti pravedna i nediskriminirajuća.
+(5) Svaka trgovina infrastrukturnim kapacitetom nedopuštena je i ima za posljedicu isključenje podnositelja zahtjeva iz daljnje dodjele kapaciteta. Trgovinom infrastrukturnim kapacitetom ne smatra se korištenje kapaciteta od strane željezničkog prijevoznika angažiranog od podnositelja zahtjeva koji nije željeznički prijevoznik.
+(6) Pravo na korištenje infrastrukturnog kapaciteta u obliku trase vlaka odobrava se podnositeljima zahtjeva u pravilu jednom godišnje, i to za razdoblje trajanja jednog voznog reda.
+(7) Kada podnositelj zahtjeva namjerava zatražiti infrastrukturni kapacitet radi obavljanja usluge međunarodnog prijevoza putnika dužan je o tome obavijestiti nadležne upravitelje infrastrukture i regulatorna tijela.

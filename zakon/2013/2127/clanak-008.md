@@ -1,0 +1,9 @@
+## Planiranje građenja, modernizacije, obnove i održavanja željezničke infrastrukture
+# Članak 8.
+(1) Planovi građenja nove te modernizacije, obnove i održavanja postojeće željezničke infrastrukture utvrđuju se Nacionalnim programom željezničke infrastrukture (u daljnjem tekstu: Nacionalni program) u skladu s ciljevima i smjernicama strategije kojom se uređuje prometni razvitak Republike Hrvatske.
+(2) Nacionalni program, na prijedlog ministarstva nadležnog za željeznički promet, donosi Vlada Republike Hrvatske, za razdoblje od pet godina, i na godišnjoj razini prati njegovu provedbu.
+(3) Nacionalnim programom određuju se srednjoročni ciljevi u građenju, modernizaciji, obnovi i održavanju željezničke infrastrukture, njihov opseg, dinamika realizacije i prioriteti te visina i izvori financijskih sredstava potrebnih za ostvarenje ciljeva.
+(4) Na temelju usvojenog Nacionalnog programa upravitelj infrastrukture, uz suglasnost Ministarstva nadležnog za željeznički promet (u daljnjem tekstu: Ministarstvo) i Ministarstva nadležnog za financije, donosi srednjoročni plan građenja, modernizacije, obnove i održavanja željezničke infrastrukture.
+(5) O ostvarivanju Srednjoročnog plana građenja, modernizacije, obnove i održavanja Ministarstvo, na temelju izvješća upravitelja infrastrukture, podnosi godišnje izvješće Vladi Republike Hrvatske.
+(6) Na temelju Srednjoročnog plana upravitelj infrastrukture donosi Godišnji plan građenja, modernizacije, obnove i održavanja, uz suglasnost Ministarstva.
+(7) Donošenjem Srednjoročnog i Godišnjeg plana građenja, modernizacije, obnove i održavanja željezničke infrastrukture sukladno odredbama ovoga članka smatra se da su dane potrebne suglasnosti i osigurani izvori financiranja prema posebnim propisima kojima se uređuje sklapanje ugovora kojima nastaje obveza plaćanja u više godina.

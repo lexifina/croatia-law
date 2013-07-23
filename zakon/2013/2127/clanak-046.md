@@ -1,0 +1,4 @@
+## Specijalizirana željeznička infrastruktura
+# Članak 46.
+(1) Kada postoje odgovarajući alternativni pravci, upravitelj infrastrukture može, nakon savjetovanja sa zainteresiranim stranama, odrediti željezničku infrastrukturu koja će se koristiti za određene vrste prometa (specijalizirana željeznička infrastruktura). U slučaju određivanja specijalizirane željezničke infrastrukture upravitelj infrastrukture može prilikom dodjele infrastrukturnog kapaciteta dati prednost onoj vrsti prijevoza za koju je željeznička infrastruktura specijalizirana. Određivanje željezničke infrastrukture specijaliziranom ne sprečava korištenje takve željezničke infrastrukture za druge vrste prijevoza kada za to postoji raspoloživ kapacitet.
+(2) Željeznička infrastruktura koja je određena kao specijalizirana navodi se u Izvješću o mreži.

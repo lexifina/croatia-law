@@ -1,0 +1,5 @@
+## Suradnja upravitelja infrastrukture u dodjeli infrastrukturnog kapaciteta
+# Članak 39.
+(1) Upravitelji infrastrukture dužni su međusobno surađivati kako bi se omogućilo učinkovito formiranje i dodjela infrastrukturnog kapaciteta koji prelazi više od jedne mreže upravitelja infrastrukture unutar Europske unije.
+(2) Upravitelji infrastrukture, glede suradnje iz stavka 1. ovoga članka, moraju osigurati javnu dostupnost podataka o: članstvu u organizaciji putem koje se odvija suradnja, način rada organizacije, kao i kriteriji koji se koriste za dodjelu infrastrukturnog kapaciteta.
+(3) U okviru suradnje iz stavka 1. ovoga članka upravitelji infrastrukture ocjenjuju potrebu za međunarodnim trasama vlakova te mogu predložiti i organizirati prethodno konstruirane trase vlakova u međunarodnom teretnom prometu kako bi se olakšala dodjela trasa po ad hoc zahtjevu. Ovakve prethodno konstruirane trase vlakova u međunarodnom teretnom prometu može podnositeljima zahtjeva na raspolaganje staviti bilo koji od upravitelja infrastrukture na koji se predmetna trasa odnosi. Prethodno konstruirana trasa dodijelit će se onom željezničkom prijevozniku koji ju je prvi zatražio.
