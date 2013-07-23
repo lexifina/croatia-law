@@ -1,0 +1,6 @@
+# Članak 23.
+(1) Ministarstvo u suradnji s nadležnim inspekcijskim službama i Zavodom redovito prati aktivnosti postrojenja za preradu i prepakiranje kavijara od vrsta jesetrovki (Acipenseriformes spp.), uključujući istovar primjeraka, obradu, prepakiranje, označavanje, trgovinu, izvoz i ponovni izvoz.
+(2) Ako ovlaštenik za preradu i prepakiranje kavijara iz članka 20. stavka 1. ovoga Zakona ne ispunjava uvjete propisane uredbama iz članka 1. stavka 1. ovoga Zakona, odredbama ovoga Zakona i Konvencijom, Ministarstvo će rješenjem ukinuti izdano ovlaštenje, a po njegovoj pravomoćnosti donijeti i rješenje o brisanju iz evidencije iz članka 21. stavka 3. ovoga Zakona.
+(3) Ako ovlaštenik za preradu i prepakiranje kavijara iz članka 20. stavka 1. ovoga Zakona prestaje s djelatnostima za koje je ovlašten, dužan je o tome obavijestiti Ministarstvo, koje donosi rješenje o ukidanju ovlaštenja, a po njegovoj pravomoćnosti i rješenje o brisanju iz evidencije iz članka 21. stavka 3. ovoga Zakona.
+(4) O izdanim rješenjima iz stavaka 2. i 3. ovoga članka Ministarstvo obavještava Tajništvo Konvencije.
+(5) Protiv rješenja iz stavaka 2. i 3. ovoga članka žalba nije dopuštena, ali se može pokrenuti upravni spor.

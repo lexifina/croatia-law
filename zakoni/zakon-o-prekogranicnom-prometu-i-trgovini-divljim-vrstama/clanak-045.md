@@ -1,0 +1,4 @@
+# Članak 45.
+(1) Danom stupanja na snagu ovoga Zakona prestaje važiti Pravilnik o prekograničnom prometu i trgovini zaštićenim vrstama (»Narodne novine«, br. 72/09., 143/10. i 87/12.).
+(2) Dopuštenja i potvrde koje su izdane temeljem Zakona o zaštiti prirode (»Narodne novine«, br. 70/05., 139/08. i 57/11.) i Pravilnika o prekograničnom prometu i trgovini zaštićenim vrstama (»Narodne novine«, br. 72/09., 143/10. i 87/12.) važe do roka navedenog na dopuštenju ili potvrdi.
+(3) Prekršajni postupci započeti prema odredbama članaka 101., 102., 103., 107. i 108.a, članka 183. podstavka 10., članka 195. stavka 1. podstavaka 47. do 56. i stavka 2., te članka 197. stavka 1. podstavaka 6. i 8. i stavka 2. Zakona o zaštiti prirode (»Narodne novine«, br. 70/05., 139/08. i 57/11.) do dana stupanja na snagu ovoga Zakona nastavit će se pred nadležnim sudom prema tom Zakonu.

@@ -1,0 +1,4 @@
+# Članak 29.
+(1) Privremeno oduzete žive životinje, biljke, gljive i/ili alge, koje ispunjavaju uvjete određene veterinarskim ili fitosanitarnim propisima, privremeno se smještaju u oporavilištima prema članku 67. Zakona o zaštiti prirode ili kod fizičkih i pravnih osoba koje za to ovlasti Ministarstvo do pravomoćnog okončanja postupka. Ako se radi o robi koja je predmet prekršaja u nadležnosti Carinske službe, mora se omogućiti carinski nadzor nad robom koja je predmet prekršaja.
+(2) O živim životinjama, biljkama, gljivama i/ili algama iz stavka 1. ovoga članka, koji su privremeno oduzeti prema nadležnosti Carinske službe, Carinska služba obavještava Ministarstvo.
+(3) Nakon pravomoćnog okončanja postupka, trajno oduzeti primjerci vrsta navedenih u prilozima uredbi iz članka 1. stavka 1. ovoga Zakona ili primjerci strogo zaštićenih zavičajnih vrsta postaju vlasništvo Republike Hrvatske, nakon čega Ministarstvo odlučuje o daljnjem postupanju s njima.

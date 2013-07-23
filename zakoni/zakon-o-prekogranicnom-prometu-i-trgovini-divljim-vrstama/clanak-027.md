@@ -1,0 +1,2 @@
+# Članak 27.
+U slučaju promjene popisa vrsta navedenih u prilozima uredbi iz članka 1. stavka 1. ovoga Zakona ili u propisima koji uređuju zaštitu divljih vrsta u Republici Hrvatskoj, na način da se neka vrsta dodaje, briše ili premješta s jednog priloga na drugi, primjerak te vrste podliježe odredbama onoga priloga u kojemu je ta vrsta navedena na dan izvoza, ponovnog izvoza, uvoza, unosa s mora ili bilo kojeg drugog propisanog postupanja.

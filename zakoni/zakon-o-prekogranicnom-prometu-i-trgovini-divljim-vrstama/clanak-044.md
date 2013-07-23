@@ -1,0 +1,5 @@
+## IX. PRIJELAZNE I ZAVRŠNE ODREDBE
+# Članak 44.
+(1) Pravne i fizičke osobe koje posjeduju potvrdu za komercijalno korištenje primjeraka vrsta navedenih u Prilogu A Uredbe (EZ) br. 338/97 izdanu prema odredbama Zakona o zaštiti prirode (»Narodne novine«, br. 70/05., 139/08. i 57/11.) i Pravilnika o prekograničnom prometu i trgovini zaštićenim vrstama (»Narodne novine«, br. 72/09., 143/10. i 87/12.), dužne su podnijeti zahtjev za izdavanje potvrde prema odredbama uredbi iz članka 1. stavka 1. ovoga Zakona i odredbama ovoga Zakona, u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.
+(2) Potvrdu za komercijalno korištenje primjeraka vrsta navedenih u Prilogu A Uredbe (EZ) br. 338/97 izdanu prema odredbama Zakona o zaštiti prirode (»Narodne novine«, br. 70/05., 139/08. i 57/11.) i Pravilnika o prekograničnom prometu i trgovini zaštićenim vrstama (»Narodne novine«, br. 72/09., 143/10. i 87/12.), Ministarstvo će nakon isteka roka iz stavka 1. ovoga članka rješenjem po službenoj dužnosti ukinuti.
+(3) Protiv rješenja iz stavaka 2. ovoga članka žalba nije dopuštena, ali se može pokrenuti upravni spor.
