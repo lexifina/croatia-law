@@ -1,0 +1,1 @@
+Na temelju članka 17. stavka 7. Zakona o cestama (»Narodne novine«, br. 84/11, 22/13 i 54/13), ministar pomorstva, prometa i infrastrukture u suglasnosti s ministrom nadležnim za graditeljstvo, donosi
