@@ -1,0 +1,3 @@
+# Članak 26.
+(1) Ovlaštenici kojima je Uprava izdala suglasnost prije stupanja na snagu ovog Pravilnika zadržavaju prava do isteka roka na koji im je suglasnost izdana.
+(2) Svi zaposlenici ovlaštenika koji su sukladno odredbama prethodnog Pravilnika i na zahtjev ovlaštenika položili ispit o poznavanju propisa, djelokruga i nadležnosti sudionika zaštite i spašavanja, dužni su Upravi podnijeti zahtjev za izdavanje uvjerenja o stjecanju uvjeta za obavljanje poslova stručnih djelatnika u području zaštite i spašavanja i pristupiti provjeri utvrđivanja ispunjavanja uvjeta za I. i II. grupu poslova u području zaštite i spašavanja sukladno odredbama ovog Pravilnika, u roku od 6 mjeseci po stupanju na snagu ovog Pravilnika.

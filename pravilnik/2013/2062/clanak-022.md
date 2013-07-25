@@ -1,0 +1,4 @@
+# Članak 22.
+(1) Fizička osoba koja je s uspjehom prošla postupak provjere iz članaka 19. i 20. ovog Pravilnika smatra se stručnim djelatnikom za obavljanje poslova u zaštiti i spašavanju.
+(2) Uprava vodi očevidnik stručnih djelatnika na obrascima (Prilozi 11. i 12.) koji su sastavni dio ovog Pravilnika, s podacima o imenu i prezimenu, adresi, kontakt brojevima, OIB-u, vrsti uvjerenja - grupi poslova za koju je uvjerenje izdano, datumu ispita, stručnom neformalnom usavršavanju u organizaciji Uprave (teme i sadržaj osposobljavanja, datum i mjesto održavanja, podatcima o pohađanju i izostancima), formalnom usavršavanju, posebnim stručnim referencama, koji su sastavni dijelovi ovog Pravilnika.
+(3) Osoba koja ne zadovolji na testu i ispitu može pristupiti ponovnoj provjeri znanja u drugom roku, ne kraćem od 30 dana od dana održavanja ispita.
