@@ -1,0 +1,1 @@
+Na temelju članka 134. alineje 2. Zakona o izmjenama i dopunama Pomorskog zakonika (»Narodne novine«, broj 56/2013), a u vezi sa člankom 12. Pomorskog zakonika (»Narodne novine«, br. 181/2004, 76/2007, 146/2008, 61/2011 i 56/2013), Vlada Republike Hrvatske je na sjednici održanoj 25. srpnja 2013. godine donijela

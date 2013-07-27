@@ -1,0 +1,5 @@
+## IV. BORAVAK RADI SUDJELOVANJA U SPORTSKIM NATJECANJIMA, HUMANITARNIM AKCIJAMA ILI NAUTIČKIM SAJMOVIMA
+# Članak 10.
+Plovilo koje sudjeluje na sportskim natjecanjima, humanitarnim akcijama ili dolazi u Republiku Hrvatsku radi izlaganja na nautičkom sajmu, ne mora platiti propisane naknade iz članaka 4. i 5. ove Uredbe, pod uvjetom da je organizator sportskog natjecanja, humanitarne akcije ili nautičkog sajma plovilo prijavio nadležnoj lučkoj kapetaniji najkasnije 5 dana prije početka natjecanja, akcije ili sajma.
+Plovila iz stavka 1. ovoga članka dužna su prilikom ulaska u Republiku Hrvatsku obaviti graničnu kontrolu sukladno posebnim propisima, a nakon završetka natjecanja, akcije ili sajma, prilikom izlaska iz Republike Hrvatske, nakon obavljene granične kontrole, najkraćim putem napustiti unutarnje morske vode i teritorijalno more Republike Hrvatske.
+Uz prijavu lučkoj kapetaniji organizator sportskog natjecanja, humanitarne akcije ili nautičkog sajma dužan je priložiti i popis članova posade i putnika koji će se nalaziti na plovilu.
