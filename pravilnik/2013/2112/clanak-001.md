@@ -1,0 +1,2 @@
+# Članak 1.
+U Pravilniku o uvjetima i načinu ostvarivanja prava iz obveznog zdravstvenog osiguranja na zdravstvenu njegu u kući osigurane osobe (»Narodne novine« broj: 88/10., 1/11., 16/11. - ispravak, 87/11., 38/13. i 49/13.) u članku 6. stavku 1. ispod tablice 2. Dodatni postupci zdravstvene njege, tekst uz oznaku: * mijenja se i glasi »ne može se propisati DTP NJEGA5 do NJEGA8 ako su propisani DTP NJEGA2 do NJEGA4«.
