@@ -1,0 +1,5 @@
+# Članak 15.
+Iza članka 37. dodaje se naslov iznad članka i članak 37.a koji glase:
+»5.2.2.2. Odjel za provedbu tehničke pomoći
+Članak 37.a
+Odjel za provedbu tehničke pomoći planira i pokreće izbor projekata u obliku otvorenog poziva za dostavu prijedloga projekata ili ograničenog poziva za dostavu prijedloga projekata unutar Tehničke pomoći te provodi postupak odabira projekata; pokreće i razvija strateške projekte koji doprinose postizanju ciljeva Tehničke pomoći Operativnog programa; nadzire provedbu Tehničke pomoći i povezanih mjera Operativnog programa; priprema projektnu dokumentaciju za operacije iz tehničke pomoći te ih provodi, organizira redovite mjesečne sastanke za operacije iz tehničke pomoći s predstavnicima svih tijela unutar strukture, kao i s predstavnicima tijela horizontalne razine s ciljem praćenja provedbe projekata, priprema izvješća i planove, unosi odgovarajuće podatke u MIS, obavlja poslove Jedinice za provedbu projekata u okviru programa IPA komponenta I i u tu svrhu surađuje s ostalim unutarnjim ustrojstvenim jedinicama Ministarstva te obavlja i druge poslove u okviru svoga djelokruga.«.

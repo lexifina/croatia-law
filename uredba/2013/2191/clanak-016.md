@@ -1,0 +1,5 @@
+# Članak 16.
+Naslov iznad članka 38. i članak 38. mijenjaju se i glase:
+»5.2.2.3. Odjel za kontrolu
+Članak 38.
+Odjel za kontrolu utvrđuje postupke u svrhu osiguravanja da se svi dokumenti u vezi s izdacima i revizijama, potrebni da se osigura odgovarajući revizijski trag, čuvaju na odgovarajući način, čuva dokumente i evidencije o provedbi funkcija, osigurava da se financiranje projekata odabire u suglasnosti s kriterijima koji su u skladu s Operativnim programom te da su u suglasnosti s primjenjivim nacionalnim pravilima i pravilima Europske unije za vrijeme trajanja provedbe, osigurava provjeru isporuke svih sufinanciranih proizvoda i usluga te stvarni utrošak svih od strane korisnika prikazanih izdataka za projekte, kao i njihovu usklađenost s pravilima Europske unije i nacionalnim pravilima, obavlja kontrolu natječajne dokumentacije iz djelokruga sektora, sudjeluje u administrativnim i financijskim provjerama tehničkih i fizičkih aspekata operacija, obavlja provjere provedbe projekata na mjestu izvođenja, koordinira sve aktivnosti u vezi s provjerom te obavlja i druge poslove u okviru svoga djelokruga.«.
