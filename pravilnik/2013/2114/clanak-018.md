@@ -1,0 +1,7 @@
+# Članak 18.
+(1) U svrhu obavljanja poslova iz članka 215. točke c) Zakona, depozitar je dužan osigurati da društvo za upravljanje uspostavi, provodi i primjenjuje prikladne i učinkovite procedure radi:
+1. usklađenja zahtjeva za izdavanje udjela sa zaprimljenim uplatama i broja izdanih udjela sa zaprimljenim uplatama;
+2. usklađenja zahtjeva za otkup udjela s izvršenim isplatama, i usklađenje smanjenja broja udjela UCITS fonda s izvršenim isplatama.
+(2) Depozitar redovito provodi provjeru usklađenosti između ukupnog broja udjela UCITS fonda u vlastitim evidencijama i ukupnog broja udjela u registru udjela UCITS fonda.
+(3) Depozitar redovito provjerava jesu li procedure koje se odnose na izdavanje i otkup udjela UCITS fonda u skladu sa Zakonom, prospektom i/ili pravilima UCITS fonda i primjenjuju li se učinkovito.
+(4) Kako bi depozitar mogao učinkovito obavljati poslove iz članka 215. točke c) Zakona mora mu se omogućiti uvid u registar udjela UCITS fonda, a kada registar udjela ne vodi operater središnjeg registra nematerijaliziranih financijskih instrumenta niti je vođenje registra udjela delegirano na depozitara, depozitar je dužan kontinuirano kontrolirati čuva li društvo za upravljanje sigurnosne kopije svih podataka iz registra udjela izvan prostorija društva za upravljanje u skladu sa Zakonom i pravilnikom koji uređuje organizacijske zahtjeve društva za upravljanje u dijelu koji se odnosi na vođenje i čuvanje poslovne dokumentacije društva za upravljanje.

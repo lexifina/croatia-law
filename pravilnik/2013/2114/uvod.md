@@ -1,0 +1,1 @@
+Na temelju članaka 214. stavka 2., 216. stavka 4., 217. stavka 4., 221. stavka 7., 234. stavka 2. i 235. stavka 2. Zakona o otvorenim investicijskom fondovima s javnom ponudom (»Narodne novine«, broj 16/2013, dalje: Zakon) Hrvatska Agencija za nadzor financijskih usluga (dalje: Agencija) je na sjednici Upravnog vijeća održanoj 12. srpnja 2013. donijela

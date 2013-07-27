@@ -1,0 +1,8 @@
+# Članak 13.
+(1) Depozitar je dužan osigurati učinkovito i prikladno praćenje tijeka novca UCITS fonda, a posebno:
+1. osigurati da se sva novčana sredstva UCITS fonda evidentiraju na transakcijskim računima za poslovne namjene UCITS fonda otvorenim kod depozitara ili osoba iz članka 12. stavka 1. točke 2. ovoga Pravilnika različitih od depozitara,:
+2. kada je transakcijski račun za poslovne namjene kod osoba iz članka 12. stavka 1. točke 2. ovoga Pravilnika otvoren u ime depozitara, a za račun UCITS fonda, poduzimati potrebne mjere kojima će osigurati da se novčana sredstva UCITS fonda drže na računima različitim od vlastitih računa osoba kod kojih su transakcijski računi UCITS fonda otvoreni i od vlastitog računa depozitara otvorenog kod tih osoba,
+3. usvojiti učinkovite i prikladne procedure i postupke za usklađivanje svih novčanih tokova UCITS fonda i usklađivanje provoditi dnevno, a procedure revidirati minimalno jednom godišnje,
+4. provjeravati usklađenost između stanja novčanih sredstava UCITS fonda u vlastitim evidencijama i evidencijama osoba iz članka 12. stavka 1. točke 2. ovoga Pravilnika sa stanjem novčanih sredstava u evidencijama društva za upravljanje,
+5. u slučajevima neusklađenosti evidencija iz stavka 1. točke 4. ovoga članka, pratiti mjere koje se poduzimaju kako bi se neusklađenosti otklonile, te obavijestiti Agenciju ako se iste ne otklone ili ne mogu biti otklonjene.
+(2) Društvo za upravljanje dužno je osigurati da su depozitaru dostupni svi nalozi i informacije vezani za transakcijske račune za poslovne namjene koji su otvoreni kod osoba iz članka 12. stavka 1. točke 2. ovoga Pravilnika, kako bi mogao provoditi postupak usklađivanja.
