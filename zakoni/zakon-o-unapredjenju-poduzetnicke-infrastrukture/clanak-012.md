@@ -1,0 +1,5 @@
+## Dostava podataka u Jedinstveni registar poduzetničke infrastrukture (JRPI)
+# Članak 12.
+(1) Podatke iz članka 11. ovoga Zakona u Jedinstveni registar poduzetničke infrastrukture dužni su dostavljati svi subjekti poduzetničke infrastrukture koji su korisnici potpora ministarstva nadležnog za poduzetništvo i obrt.
+(2) Podatke iz članka 11. ovoga Zakona svi subjekti poduzetničke infrastrukture iz stavka 1. ovoga članka dostavljaju ministarstvu nadležnom za poduzetništvo i obrt do kraja travnja tekuće godine za proteklu godinu, odnosno najkasnije u roku od mjesec dana od nastale promjene u poduzetničkoj infrastrukturi, a koja spada u navedene kategorije podataka iz članka 11. ovoga Zakona.
+(3) Podatke iz članka 11. ovoga Zakona u Jedinstveni registar poduzetničke infrastrukture dostavljaju i oni subjekti poduzetničke infrastrukture koji nisu korisnici potpora ministarstva nadležnog za poduzetništvo i obrt, ali imaju namjeru koristiti potpore počevši od godine u kojoj dostavljaju podatke iz članka 11. ovoga Zakona.

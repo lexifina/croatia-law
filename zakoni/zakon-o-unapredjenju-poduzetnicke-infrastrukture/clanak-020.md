@@ -1,0 +1,3 @@
+# Članak 20.
+(1) Sustav potpora iz članka 19. ovoga Zakona, osim infrastrukturnih potpora, podrazumijeva samo one kategorije potpora sukladne odredbama Zakona o državnim potporama (»Narodne novine«, br. 140/05. i 49/11.), odnosno one potpore koje spadaju u kategorije regionalnih potpora, potpora male vrijednosti i potpora čiji je način dodjele propisan Odlukom o objavljivanju općih pravila o skupnim izuzećima u području državnih potpora (»Narodne novine«, br. 37/09.).
+(2) Infrastrukturne potpore iz članka 19. ovoga Zakona, odnosno financiranje izgradnje infrastrukture poduzetničkih zona od strane jedinica lokalne i područne (regionalne) samouprave ne smatra se državnom potporom u smislu Zakona o državnim potporama (»Narodne novine«, br. 140/05. i 49/11.).

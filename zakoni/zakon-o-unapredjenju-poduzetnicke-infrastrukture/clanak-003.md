@@ -1,0 +1,3 @@
+# Članak 3.
+Sukladno odredbama članka 2. stavka 2. ovoga Zakona poduzetničke zone kao dio ukupne poduzetničke infrastrukture definiraju se kako slijedi:
+PODUZETNIČKE ZONE – infrastrukturno opremljena područja definirana prostornim planovima, namijenjena obavljanju određenih vrsta poduzetničkih, odnosno gospodarskih aktivnosti. Osnovna karakteristika poduzetničkih zona je zajedničko korištenje infrastrukturno opremljenog i organiziranog prostora od strane poduzetnika kojima se poslovanjem unutar poduzetničke zone omogućuje racionalizacija poslovanja i korištenje raspoloživih resursa poduzetničke zone zajedno s ostalim korisnicima poduzetničke zone.

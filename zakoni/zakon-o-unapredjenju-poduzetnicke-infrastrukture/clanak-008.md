@@ -1,0 +1,5 @@
+# Članak 8.
+Prema tipu aktivnosti koje se obavljaju unutar zone poduzetničke zone dijele se na:
+1. PROIZVODNO − PRERAĐIVAČKE ZONE – u kojima pretežiti broj korisnika zone obavlja proizvodno-prerađivačke poduzetničke aktivnosti, odnosno u kojima pretežiti dio raspoložive površine zone zauzimaju poduzetnici koji obavljaju proizvodno-prerađivačku poduzetničku aktivnost
+2. LOGISTIČKO − DISTRIBUCIJSKE ZONE – u kojima pretežiti broj korisnika zone obavlja logističko-distribucijske aktivnosti (distributivni centri, veletrgovina, skladištenje i transport, logističko servisni centri i dr.), odnosno u kojima pretežiti dio raspoložive površine zone zauzimaju poduzetnici koji obavljaju logističko-distribucijske aktivnosti
+3. USLUŽNO MJEŠOVITE ZONE – u kojima pretežiti broj korisnika zone obavlja uslužne aktivnosti, servisne aktivnosti, aktivnosti poslovne podrške i druge poduzetničke aktivnosti, odnosno u kojima pretežiti dio raspoložive površine zone zauzimaju poduzetnici koji obavljaju uslužne aktivnosti, servisne aktivnosti, aktivnosti poslovne podrške i druge poduzetničke aktivnosti.

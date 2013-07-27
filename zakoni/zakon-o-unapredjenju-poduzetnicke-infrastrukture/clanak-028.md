@@ -1,0 +1,2 @@
+# Članak 28.
+Sustav potpora iz članka 27. ovoga Zakona podrazumijeva samo one kategorije potpora sukladne odredbama Zakona o državnim potporama (»Narodne novine«, br. 140/05. i 49/11.), odnosno one potpore koje spadaju u kategorije regionalnih potpora, potpora male vrijednosti i potpora čiji je način dodjele propisan Odlukom o objavljivanju općih pravila o skupnim izuzećima u području državnih potpora (»Narodne novine«, br. 37/09.).

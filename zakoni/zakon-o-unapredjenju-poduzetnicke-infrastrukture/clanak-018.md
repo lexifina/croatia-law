@@ -1,0 +1,3 @@
+# Članak 18.
+(1) Sustav potpora za unapređenje poslovnih aktivnosti poduzetničkih zona i poduzetničkih potpornih institucija namijenjen je subjektima poduzetničke infrastrukture u Republici Hrvatskoj koji su evidentirani u Jedinstvenom registru poduzetničke infrastrukture sukladno odredbama članka 10. i članka 11. ovoga Zakona.
+(2) Visina i način dodjele potpora za unapređenje poslovnih aktivnosti poduzetničkih zona i poduzetničkih potpornih institucija subjektima poduzetničke infrastrukture propisuje se godišnjim programima poticanja poduzetništva i obrta, odnosno regionalnog razvoja koje donosi Vlada Republike Hrvatske na prijedlog ministarstava nadležnih za poduzetništvo i obrt, odnosno regionalni razvoj i fondove Europske unije.

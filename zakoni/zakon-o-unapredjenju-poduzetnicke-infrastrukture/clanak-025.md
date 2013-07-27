@@ -1,0 +1,2 @@
+# Članak 25.
+Uz ispunjenje uvjeta iz članka 24. ovoga Zakona, u slučaju darovanja zemljišta u vlasništvu Republike Hrvatske za izgradnju nove, odnosno proširenje postojeće poduzetničke zone jedinica lokalne, odnosno područne (regionalne) samouprave dužna je ministarstvu nadležnom za poduzetništvo i obrt radi utvrđenja gospodarske opravdanosti darovanja zemljišta i dugoročne održivosti projekta izgradnje/proširenja poduzetničke zone dostaviti Izjavu kojom jamči za ulaganja u izgradnju i opremanje poduzetničke zone sa specificiranim izvorima financiranja predmetnih ulaganja.
