@@ -1,0 +1,12 @@
+## UVJETI ZA PRISTUPANJE DODATNIM ISPITIMA
+# Članak 5.
+(1) Dodatnim ispitima može pristupiti osoba koja je podnijela zahtjev za polaganje ispita i uplatila naknadu za pristup ispitima te priložila sljedeću dokumentaciju:
+1. preslik osobne iskaznice ili putovnice, a osoba koja nije hrvatski državljanin prilaže preslik putovnice,
+2. preslik diplome, a u slučaju inozemne isprave dokument o priznavanju inozemne visokoškolske kvalifikacije u svrhu zapošljavanja ili nastavka obrazovanja, izdan od strane nadležnog tijela u Republici Hrvatskoj, kao dokaz o završenom:
+- preddiplomskom i diplomskom sveučilišnom studiju ili integriranom preddiplomskom i diplomskom sveučilišnom studiju ili stručnom studiju i specijalističkom diplomskom stručnom studiju, čijim završetkom je stekla najmanje 300 ECTS bodova, ili
+- o završenom sveučilišnom dodiplomskom studiju, čijim završetkom je stekla visoku stručnu spremu, odnosno o završenom stručnom dodiplomskom studiju u trajanju od najmanje četiri godine čijim završetkom je stekla visoku stručnu spremu,
+3. potvrdu izdanu od Prirodoslovno-matematičkog fakulteta - Matematički odsjek Sveučilišta u Zagrebu, o položenim ispitima navedenim u članku 2. stavku 1. točki 1. ovog Pravilnika odnosno potvrdu Prirodoslovno matematičkog fakulteta - Matematičkog odsjeka Sveučilišta u Zagrebu o istovrsnosti položenih ispita s programom poslijediplomskog specijalističkog studija aktuarske matematike za osobe koje su uspješno obavile provjeru stručnih znanja u skladu s programom o izobrazbi navedenom u članku 2. stavku 1. točki 1.ovog Pravilnika u drugoj obrazovnoj instituciji,
+4. izvornik potvrde poslodavca o najmanje tri godine radnog iskustva u obavljanju aktuarskih poslova,
+5. izjavu da nije pravomoćno osuđena na kaznu zatvora za kazneno djelo protiv sigurnosti platnog prometa i poslovanja sa potpisom kandidata ovjerenim kod javnog bilježnika odnosno u skladu sa zakonom i međunarodnim propisima (Apostille - Haška Konvencija o ukidanju potrebe legalizacije stranih javnih isprava, od 5. listopada 1961. godine), ne stariju od tri mjeseca.
+(2) Dokumentacija propisana odredbama ovoga članka dostavlja se na hrvatskom jeziku, preslike isprava dostavljaju se ovjerene kod javnog bilježnika odnosno u skladu sa zakonom i međunarodnim propisima (Apostille - Haška Konvencija o ukidanju potrebe legalizacije stranih javnih isprava, od 5. listopada 1961. godine), a isprave na stranom jeziku dostavljaju se prevedene od ovlaštenog sudskog tumača.
+(3) Dostavljena dokumentacija se ne vraća.
