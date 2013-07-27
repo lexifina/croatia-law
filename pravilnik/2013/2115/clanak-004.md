@@ -1,0 +1,2 @@
+# Članak 4.
+U slučaju kada Agencija utvrdi da promidžbene informacije Društva, za koje nije potrebno dobiti odobrenje Agencije, ili promidžbene informacije Društva za koje je potrebno dobiti odobrenje Agencije, ali ih je Društvo objavilo bez odobrenja, nisu izrađene u skladu s odredbama članka 65.a - 65.c Zakona o osiguranju i odredbama članka 2. ovog Pravilnika, naložit će Društvu da odmah prestane s predmetnom promidžbenom aktivnosti, odnosno da objavi ispravak promidžbene informacije.
