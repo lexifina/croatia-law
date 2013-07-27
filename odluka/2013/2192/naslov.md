@@ -1,0 +1,1 @@
+Odluka o utvrđivanju nadležnog tijela za izdavanje i ovjeru potvrde kojom se traži suspenzija uvoznih carina na određeno oružje i vojnu opremu za potrebe Ministarstva obrane i Oružanih snaga Republike Hrvatske

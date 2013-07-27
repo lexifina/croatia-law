@@ -1,0 +1,1 @@
+Na temelju članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, broj 150/2011) i članka 3. stavka 1. Uredbe Vijeća (EZ) br. 150/2003 od 21. siječnja 2003. o suspenziji uvoznih carina na određeno oružje i vojnu opremu, Vlada Republike Hrvatske je na sjednici održanoj 25. srpnja 2013. donijela
