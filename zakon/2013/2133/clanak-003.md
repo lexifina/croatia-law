@@ -1,0 +1,4 @@
+# Članak 3.
+U članku 5. iza stavka 1. dodaju se stavci 2. i 3. koji glase:
+»(2) Iznimno od odredbe stavka 1. ovoga članka, pružatelj elektroničkih publikacija sa sjedištem u drugoj državi članici Europske unije ili drugoj državi ugovornici Ugovora o Europskom gospodarskom prostoru može trajno obavljati djelatnost pružanja usluga elektroničkih publikacija u Republici Hrvatskoj ako se upiše u sudski ili drugi odgovarajući registar i ima uredništvo u Republici Hrvatskoj.
+(3) Pružatelj elektroničkih publikacija sa sjedištem u drugoj državi članici Europske unije ili drugoj državi ugovornici Ugovora o Europskom gospodarskom prostoru može obavljati djelatnost pružanja usluga elektroničkih publikacija u Republici Hrvatskoj na privremenoj ili povremenoj osnovi sukladno odredbama Zakona o uslugama.«.
