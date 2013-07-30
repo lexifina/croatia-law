@@ -1,0 +1,8 @@
+# Članak 51.
+U članku 98. na kraju stavka 2. dodaje se rečenica: »Isključivo za potrebe sveučilišnog studija jezika i književnosti nastavnici se biraju u nastavna zvanja lektora i višeg lektora.«.
+U stavku 3. riječi: »diplomski studij ili stručni specijalistički studij« zamjenjuju se riječima: »diplomski sveučilišni studij ili specijalistički diplomski stručni studij«.
+U stavku 6. iza riječi: »struci« stavlja se zarez te dodaju riječi: »kod prvog izbora na nastavno radno mjesto, pozitivno ocijenjeno nastupno predavanje pred nastavnicima i studentima«.
+U stavku 7. iza riječi: »diplomski« dodaje se riječ: »sveučilišni«, a iza riječi: »struci« stavlja se zarez te dodaju riječi: »kod prvog izbora na nastavno radno mjesto pozitivno ocijenjeno nastupno predavanje pred nastavnicima i studentima«.
+Iza stavka 9. dodaju se stavci 10. i 11. koji glase:
+»(10) U zvanje umjetničkog suradnika i na odgovarajuće radno mjesto može biti izabrana osoba koja ima završeni umjetnički diplomski sveučilišni studij, ispunjene nužne uvjete koje propisuje Rektorski zbor, odnosno Vijeće veleučilišta i visokih škola, dokazanu umjetničku djelatnost, najmanje osam godina radnog iskustva u struci te ispunjene uvjete propisane statutom visokog učilišta.
+(11) U zvanje umjetničkog savjetnika i na odgovarajuće radno mjesto može biti izabrana osoba koja ima završen umjetnički diplomski sveučilišni studij, ispunjene nužne uvjete koje propisuje Rektorski zbor, odnosno Vijeće veleučilišta i visokih škola, dokazanu umjetničku djelatnost, najmanje 20 godina radnog iskustva u struci te ispunjene uvjete propisane statutom visokog učilišta.«.

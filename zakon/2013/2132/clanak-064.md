@@ -1,0 +1,5 @@
+# Članak 64.
+U članku 120. stavak 2. mijenja se i glasi:
+»(2) Osobe iz stavka 1. ovoga članka mogu tražiti od visokog učilišta na kojem su stekli stručni naziv da im u postupku i pod uvjetima predviđenim općim aktom visokog učilišta izda potvrdu o tome da prije stečeni stručni naziv odgovara nekom od akademskih odnosno stručnih naziva iz članaka 71. do 74. ovoga Zakona, te nakon što dobiju takvu potvrdu mogu koristiti akademski odnosno stručni naziv prema ovome Zakonu. U takvim potvrdama ne navode se ECTS bodovi. Ako visoko učilište na kojem je stečen stručni naziv ili njegov pravni sljednik ne postoji, Nacionalno vijeće odredit će visoko učilište koje će odlučiti o zahtjevu. Ako je visoko učilište općim aktom utvrdilo da prije stečeni stručni naziv odgovara nekom od akademskih odnosno stručnih naziva iz članaka 71. do 74. ovoga Zakona, osobe iz stavka 1. ovoga članka novi akademski odnosno stručni naziv mogu koristiti i bez izdavanja potvrde.«.
+PRIJELAZNE I ZAVRŠNE ODREDBE
+Predlaganje članova Nacionalnog vijeća za znanost, visoko obrazovanje i tehnološki razvoj i Odbora za etiku u znanosti i visokom obrazovanju

@@ -1,0 +1,12 @@
+# Članak 31.
+Članak 73. mijenja se i glasi:
+»(1) Poslijediplomski studiji su poslijediplomski sveučilišni studij i poslijediplomski specijalistički studij.
+(2) Poslijediplomski sveučilišni studij (doktorski studij) može se upisati nakon završetka diplomskog sveučilišnog studija.
+(3) Poslijediplomski sveučilišni studij traje najmanje tri godine. Ispunjenjem svih propisanih uvjeta i javnom obranom doktorske disertacije u znanstvenim područjima se stječe akademski stupanj doktora znanosti (dr. sc.). Ispunjenjem svih propisanih uvjeta u umjetničkom području se stječe akademski stupanj doktora umjetnosti (dr. art.).
+(4) Iznimno, osobe koje su ostvarile znanstvena dostignuća koja svojim značenjem odgovaraju uvjetima za izbor u znanstvena zvanja, na temelju odluke nadležnog vijeća utvrđenog statutom sveučilišta o ispunjavanju propisanih uvjeta te izrade i javne obrane doktorske disertacije, a uz suglasnost senata sveučilišta, mogu steći doktorat znanosti.
+(5) Iznimno, osobe koje su ostvarile umjetnička dostignuća koja svojim značenjem odgovaraju uvjetima za izbor u umjetničko-nastavna zvanja, na temelju odluke nadležnog vijeća utvrđenog statutom sveučilišta, o ispunjavanju propisanih uvjeta te izrade i javne obrane doktorske disertacije, a uz suglasnost senata sveučilišta, mogu steći doktorat umjetnosti.
+(6) Iznimno, osobe izabrane u umjetničko-nastavna zvanja i na umjetničko-nastavna radna mjesta, mogu temeljem umjetničkih radova, na temelju odluke nadležnog vijeća, utvrđenog statutom sveučilišta, o ispunjavanju propisanih uvjeta koje donosi senat sveučilišta, steći doktorat umjetnosti.
+(7) Kratica akademskog stupnja stavlja se ispred imena i prezimena osobe.
+(8) Sveučilište može organizirati poslijediplomski specijalistički studij u trajanju od jedne do dvije godine, kojim se stječe akademski naziv specijalist određenog područja (spec.), u skladu s posebnim zakonom. Naziv specijalist, odnosno njegova kratica dodaju se akademskom nazivu iz članka 72. stavka 3. ovoga Zakona. Završetkom poslijediplomskog specijalističkog studija stječe se od 60 do 120 ECTS bodova.
+(9) Posebnim propisom utvrdit će se akademski naziv koji se stječe završetkom poslijediplomskog specijalističkog studija, u slučaju kada je za određeno stručno područje posebnim zakonom propisano specijalističko usavršavanje.
+(10) Sveučilište općim aktom može odrediti stjecanje ECTS bodova na poslijediplomskom sveučilišnom studiju.«.

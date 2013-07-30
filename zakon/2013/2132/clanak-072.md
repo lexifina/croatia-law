@@ -1,0 +1,2 @@
+# Članak 72.
+U cijelom tekstu Zakona o znanstvenoj djelatnosti i visokom obrazovanju (»Narodne novine«, br. 123/03., 105/04., 174/04., 2/07. - Odluka Ustavnog suda Republike Hrvatske, 46/07., 45/09. i 63/11.) riječi: »Nacionalno vijeće za znanost«, »Nacionalno vijeće za visoko obrazovanje« te »Nacionalno vijeće za znanost i/ili Nacionalno vijeće za visoko obrazovanje« zamjenjuju se riječima: »Nacionalno vijeće za znanost, visoko obrazovanje i tehnološki razvoj«, te riječi: »viši asistent« zamjenjuju se riječju: »poslijedoktorand«, u odgovarajućem padežu.
