@@ -1,0 +1,9 @@
+## Procjena vrijednosti trgovačkih društava
+# Članak 42.
+(1) Prije raspolaganja dionicama i poslovnim udjelima u trgovačkim društvima, Centar je dužan izvršiti procjenu vrijednosti trgovačkog društva.
+(2) Procjenu vrijednosti trgovačkog društva iz stavka 1. ovog članka, ovisno o udjelu u temeljnom kapitalu društva, izvršit će:
+- osoba koja ima odobrenje za obavljanje poslova savjetovanja o strukturi kapitala, poslovnim strategijama i srodnim pitanjima, kao i za savjetovanje i usluge vezane uz spajanja i stjecanja udjela u društvima, sukladno propisima koji uređuju tržište kapitala, kada dionice ili poslovni udjeli u temeljnom kapitalu društva predstavljaju udio veći od 25%;
+- osoba koja ima odobrenje za obavljanje poslova savjetovanja o strukturi kapitala, poslovnim strategijama i srodnim pitanjima, kao i za savjetovanje i usluge vezane uz spajanja i stjecanja udjela u društvima sukladno propisima koji uređuju tržište kapitala, kada dionice ili poslovni udjeli u temeljnom kapitalu društva predstavljaju udio veći od 50%, pri čemu mora, osim procjene iz podstavka 1. ovoga stavka, napraviti i analizu financijskog, pravnog i organizacijskog položaja društva te izraditi opis društva (infomemorandum) odnosno prospekt, sukladno Zakonu o tržištu kapitala, a koji odobrava Hrvatska agencija za nadzor financijskih usluga (u daljnjem tekstu: HANFA)
+- Centar kada dionice ili poslovni udjeli u temeljnom kapitalu društva predstavljaju udio do 25%
+- Centar ako su troškovi procjene u nerazmjeru s vrijednošću raspoložive imovine društva ili ako troškovi procjene premašuju polovinu knjigovodstvene vrijednosti društva.
+(3) Iznimno od odredbe iz stavka 1. ovoga članka, ako dionice trgovačkog društva kotiraju na uređenom tržištu kapitala u posljednjih 12 mjeseci od dana donošenja odluke o prodaji, Centar nema obvezu izrade procjene vrijednosti trgovačkog društva sukladno odredbama ovog članka.

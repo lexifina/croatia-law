@@ -1,0 +1,3 @@
+## Načelo javnosti
+# Članak 6.
+Načelo javnosti upravljanja državnom imovinom osigurava se propisivanjem preglednih pravila i kriterija upravljanja i raspolaganja državnom imovinom u propisima i drugim aktima koji se donose na temelju ovoga Zakona te njihovom javnom objavom, određivanjem ciljeva upravljanja i raspolaganja državnom imovinom u Strategiji upravljanja i raspolaganja državnom imovinom i Planu upravljanja i raspolaganja državnom imovinom, redovitim upoznavanjem javnosti s aktivnostima tijela koja upravljaju i raspolažu državnom imovinom, javnom objavom najvažnijih odluka o upravljanju i raspolaganju državnom imovinom i vođenjem registra državne imovine.

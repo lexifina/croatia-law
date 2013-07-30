@@ -1,0 +1,4 @@
+## Obročna otplata i prijenos dionica
+# Članak 76.
+(1) Neotplaćene dionice kupljene na obročnu otplatu na temelju članka 5. stavka 1. točke 1., 2. i 2.a, članka 19., članka 21.a i 21.b Zakona o pretvorbi društvenih poduzeća (»Narodne novine«, br. 19/91., 83/92., 94/93., 2/94., 9/95. i 118/99.), te članka 5. Zakona o privatizaciji (»Narodne novine«, br. 21/96., 71/97., 16/98. i 73/00.) mogu se prenijeti na drugu osobu, ako se ta osoba obveže preostali dug platiti jednokratno u roku od šest mjeseci od dana sklapanja ugovora.
+(2) Obveza jednokratne otplate duga u roku od šest mjeseci iz stavka 1. ovoga članka ne odnosi se na zakonskog nasljednika.

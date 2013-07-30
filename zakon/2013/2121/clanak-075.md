@@ -1,0 +1,3 @@
+## Zahtjevi imatelja prava
+# Članak 75.
+U odnosu na obvezu Republike Hrvatske prema imateljima prava koja se odnose na trgovačka društva koja su sudjelovala u obnovi u Domovinskom ratu razrušenih objekata Vlada Republike Hrvatske će, na prijedlog Centra, na koji je prethodnu suglasnost dao Državni ured, sastaviti listu dionica i poslovnih udjela u trgovačkim društvima u vlasništvu Republike Hrvatske, te će sukladno tome u roku od šest mjeseci od stupanja na snagu ovog Zakona donijeti odluku o provedbi posljednje javne dražbe na kojima će za predmetna prava biti prodane dionice/udjeli, nakon čega imatelji prava više neće moći ostvarivati predmetni zahtjev.
