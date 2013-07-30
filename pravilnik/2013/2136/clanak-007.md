@@ -1,0 +1,2 @@
+# Članak 7.
+U članku 31. iza stavka 4. dodaju se novi stavak 5. koji glasi: »Objekt koji ima zajednički sanitarni čvor za goste uz smještajne jedinice i/ili zajedničku kompletnu odnosno djelomičnu kupaonicu s zahodskom školjkom i umivaonikom, ne mora imati sanitarni čvor uz zajedničke prostorije (prostor za prijem gosta, boravak, ugostiteljski sadržaji za usluživanje hrane, pića i napitaka i drugo).«.
