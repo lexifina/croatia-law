@@ -1,0 +1,9 @@
+## Uvjeti izvođenja rudarskih radova
+# Članak 26.
+(1) Uvjeti izvođenja rudarskih radova definirani su izdanom dozvolom, sklopljenim ugovorom, odredbama ovoga Zakona i drugih primjenjivih posebnih propisa.
+(2) Ako u tijeku istražnog razdoblja dođe do otkrića rezervi ugljikovodika, investitor je obvezan odmah obavijestiti Ministarstvo o tom otkriću, provesti razradne radove, uključujući i procjenu rezervi, izraditi elaborat o rezervama ugljikovodika i potvrditi količine i kakvoću rezervi ugljikovodika sukladno odredbama posebnog propisa. Rokovi za objavu otkrića, rokovi za izradu elaborata o rezervama ugljikovodika i potvrđivanje količine i kakvoće rezervi ugljikovodika bit će definirani u ugovoru.
+(3) Ako su utvrđene bilančne rezerve ugljikovodika sukladno uvjetima definiranim u ugovoru o podjeli eksploatacije, investitor ima pravo na povrat troškova koji se odnose na izvođenje rudarskih radova, na način i u rokovima definiranim u ugovoru.
+(4) Ako su utvrđene bilančne rezerve ugljikovodika sukladno uvjetima ugovora koji nije ugovor o istraživanju i podjeli eksploatacije, investitor ima pravo na povrat troškova koji se odnose na izvođenje rudarskih radova, na način i u rokovima definiranim u tim ugovorima.
+(5) Ako nakon isteka roka trajanja istražnog razdoblja ili njegova produljenja sukladno odredbama ovoga Zakona, ne dođe do komercijalnog otkrića, investitor nema pravo na povrat svojih troškova. U tom slučaju prestaju važiti dozvola i ugovor.
+(6) U slučaju da investitor i Ministarstvo utvrde da se ne radi o komercijalnom otkriću, investitor je obvezan napustiti taj dio istražnog prostora sukladno odredbama ovoga Zakona i ugovora.
+(7) Ako investitor izričito izjavi da ima volju nastaviti s izvođenjem rudarskih radova, a ne postoje zakonske zapreke za isto, investitoru će se omogućiti pravo nastavka radova na vlastiti rizik i trošak.

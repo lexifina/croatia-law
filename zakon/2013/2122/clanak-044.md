@@ -1,0 +1,9 @@
+## Viša sila
+# Članak 44.
+(1) U slučaju da investitor ne izvršava svoja prava i obveze iz dozvole i ugovora i/ili krši odredbe ovoga Zakona i drugih primjenjivih propisa zbog nastupa okolnosti više sile, takve radnje i/ili propusti investitora neće se smatrati povredom odredbi dozvole i ugovora.
+(2) Pod okolnostima više sile smatraju se okolnosti izvan utjecaja Vlade Republike Hrvatske i investitora koje se nisu mogle predvidjeti, izbjeći ili spriječiti, a koje posebno predstavljaju rat (bilo objavljen ili neobjavljen), prijetnja ratom ili postojanje ratnih okolnosti, prirodne katastrofe, odluke nadležnih tijela vlasti koje imaju za posljedicu nemogućnost izvršavanja rudarskih radova, kao i sve druge okolnosti koje kao višu silu priznaju međunarodni standardi.
+(3) Okolnošću više sile ne smatra se nedostatak financijskih sredstava i/ili bilo koja druga financijska nestabilnost investitora, kao ni nesposobnost za plaćanje i/ili otvaranje stečajnog ili likvidacijskog postupka nad investitorom.
+(4) U slučaju da je investitor spriječen izvršavati prava i obveze iz izdane dozvole i sklopljenog ugovora, bez odgađanja će o navedenom obavijestiti Ministarstvo i Agenciju uz navođenje razloga za takvu spriječenost i očekivano trajanje iste.
+(5) U slučaju da razdoblje trajanja okolnosti više sile traje dulje od 18 mjeseci, svaka strana ima pravo raskinuti ugovor, osim kada investitor do isteka navedenog razdoblja nije uspio povratiti troškove vezane za izvođenje rudarskih radova, u kojem slučaju pravo na raskid ugovora pripada samo investitoru o čemu isti samostalno odlučuje.
+(6) U slučaju da razdoblje trajanja okolnosti više sile traje dulje od tri godine Vlada Republike Hrvatske ima pravo jednostranog raskida ugovora.
+(7) Odredbe ovoga Zakona o višoj sili ne primjenjuju se u odnosu na obvezu ispunjavanja dospjelih novčanih potraživanja.

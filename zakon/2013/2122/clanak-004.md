@@ -1,0 +1,47 @@
+## Definicije pojmova
+# Članak 4.
+Pojedini pojmovi u smislu ovoga Zakona imaju sljedeće značenje:
+1) Agencija za ugljikovodike znači pravnu osobu s javnim ovlastima koja samostalno i neovisno obavlja poslove u okviru djelokruga i nadležnosti određenih ovim Zakonom i drugim propisima vezanim uz primjenu ovoga Zakona (u daljnjem tekstu: Agencija)
+2) Datum stupanja ugovora na snagu znači datum kad je i zadnja ugovorna strana potpisala ugovor sukladno ovome Zakonu
+3) Dozvola znači dozvolu za istraživanje radi sklapanja ugovora koja je, temeljem javnog nadmetanja, dodijeljena jednom ili više investitora koji su ispunili unaprijed propisane uvjete za dodjelu dozvole te temeljem koje isti imaju pravo na izravno sklapanje ugovora pod uvjetima izričito propisanim ovim Zakonom (u daljnjem tekstu: dozvola)
+4) Eksploatacija ugljikovodika znači pridobivanje ugljikovodika iz ležišta i oplemenjivanje ugljikovodika, transport ugljikovodika cjevovodima, kada je u tehnološkoj svezi s odobrenim eksploatacijskim poljima, skladištenje ugljikovodika i trajno zbrinjavanje plinova u geološkim strukturama. Eksploatacija ugljikovodika dozvoljena je samo unutar utvrđenog eksploatacijskog polja ugljikovodika i u granicama provjerenog rudarskog projekta
+5) Eksploatacijsko polje ugljikovodika znači spojnicama koordinata vršnih točaka omeđen dio prostora na kopnu i/ili moru i dubinski ograničen sukladno utvrđenim granicama ležišta ugljikovodika i lokacijskim uvjetima iz izvršne lokacijske dozvole ishođene od tijela nadležnog za prostorno uređenje (u daljnjem tekstu: Eksploatacijsko polje)
+6) Geološka struktura znači litostratigrafsku jedinicu unutar koje je moguće utvrditi i kartirati različite slojeve stijena
+7) Hidraulička jedinica znači hidraulički povezan porni prostor u kojem je tlačna komunikacija tehnički mjerljiva i koji je omeđen barijerama toka, kao što su rasjedi, podzemna ležišta soli, litološke granice, ili isklinjavanje ili izbijanje formacije na površinu
+8) Investitor znači jednog ili više gospodarskih subjekata koji je/su, sukladno ovome Zakonu, dobili dozvolu i koji je/su sklopili ugovor sukladno ovome Zakonu, pod uvjetima izričito propisanim ovim Zakonom. Za potrebe trajnog zbrinjavanja plinova znači pravna, privatna ili javna osobu koja eksploatira podzemno skladište ili ga kontrolira ili kojoj je u skladu s nacionalnim zakonodavstvom povjerena ovlast donošenja ekonomskih odluka o tehničkom funkcioniranju podzemnog skladišta
+9) Istjecanje znači svako oslobađanje CO2 iz kompleksa podzemnog skladišta
+10) Istraživanje ugljikovodika znači sve istražne i ocjenske radove i djelatnosti koji su definirani kao takvi u odobrenom programu rada, kojima je svrha utvrditi postojanje, položaj i oblik ležišta ugljikovodika, njihovu količinu i kakvoću te uvjete eksploatacije, radove i ispitivanja kojima je svrha utvrditi mogućnost skladištenja ugljikovodika i trajnog zbrinjavanja plinova u geološkim strukturama te uvjete eksploatacije, uključujući, ali ne isključivo:
+- geofizička i druga geološka snimanja, interpretaciju tako prikupljenih podataka i njihovu studijsku obradu
+- bušenje, produbljivanje, skretanje, opremanje, ispitivanje, privremeno napuštanje ili likvidaciju istražnih bušotina
+- kupnja ili nabava onih roba, usluga, materijala i opreme koji su potrebni za gore spomenute radove
+Istraživanje ugljikovodika dozvoljeno je samo unutar odobrenog istražnog prostora,
+11) Istražni prostor ugljikovodika znači spojnicama koordinata vršnih točaka omeđen i dubinski ograničen dio prostora na kopnu i/ili moru koji je nakon provedenog javnog nadmetanja dozvolom određen za istraživanje ugljikovodika (u daljnjem tekstu: Istražni prostor)
+12) Istražni troškovi znače sve priznate troškove koje će investitor snositi u okviru izvođenja istražnih radova po dozvoli
+13) Komercijalno otkriće znači svako otkriće ili niz otkrića pridobivih rezervi ugljikovodika utvrđenih elaboratom o rezervama, koja na temelju ovoga Zakona opravdavaju eksploataciju otkrivenih rezervi ugljikovodika
+14) Koncesija znači pravo na razradu i eksploataciju koja se, temeljem ovoga Zakona, dodjeljuje jednom ili više investitora kojima je prethodno izdana dozvola za izvođenje istražnih radova, a nakon što su ispunjeni svi uvjeti potrebni za proglašenje otkrića komercijalnim u okviru ugovora
+15) Korektivne mjere znače mjere koje se poduzimaju za ispravljanje većih nepravilnosti ili za zatvaranje mjesta na kojem dolazi do istjecanja kako bi se spriječilo ili zaustavilo istjecanje CO2 iz kompleksa podzemnog skladišta
+16) Ležište znači bilo koje sedimentne, magmatske ili metamorfne propusne stijene koje sadrže prirodnu akumulaciju ugljikovodika, ograničene su izolatorskim stijenama te okolnim akviferom i predstavljaju jedinstveni hidrodinamički sustav
+17) Lokalni cjevovod znači cjevovod (naftovod ili plinovod) koji spaja mjernu točku i točku ulaska ugljikovodika u magistralni cjevovod
+18) Magistralni cjevovod znači glavni državni cjevovod kojem će investitor imati pristup sukladno ovome Zakonu i ugovoru
+19) Ministarstvo znači ministarstvo nadležno za rudarstvo
+20) Nacionalno trgovačko društvo znači trgovačko društvo koje je osnovala Vlada Republike Hrvatske za istraživanje i eksploataciju energetskih mineralnih sirovina, a koje je u 100% vlasništvu Republike Hrvatske (u daljnjem tekstu: nacionalno trgovačko društvo)
+21) Nadležna državna tijela znače Vladu Republike Hrvatske, ministarstva, Agenciju, Državni inspektorat, ili bilo koje drugo tijelo i/ili instituciju Republike Hrvatske nadležne za istraživanje i eksploataciju ugljikovodika i radnje povezane s istim
+22) Naknada znači naknadu koju investitor, sukladno ovom Zakonu i detaljima definiranim u ugovoru plaća za korištenje pridobivenih ugljikovodika, a visinu naknade utvrđuje uredbom Vlada Republike Hrvatske, na prijedlog Ministarstva
+23) Oblak CO2 znači volumen CO2 raspršen u geološkoj strukturi
+24) Povezano društvo znači pravnu osobu koja izravno ili posredno kontrolira jednu (ili je pod kontrolom jedne) od strana u ugovoru ili neku drugu pravnu osobu koja izravno ili posredno kontrolira neku drugu pravnu osobu, koja izravno ili posredno kontrolira jednu (ili je pod kontrolom jedne) od stranaka u ugovoru, a podrazumijeva se da će kontrola značiti da jedna pravna osoba posjeduje više od pedeset posto (50 %) a) dionica s pravom glasa, ukoliko druga pravna osoba izdaje dionice ili b) prava kontrole ili učešća ako druga pravna osoba nema više od 20 % glasova
+25) Podzemno skladište znači prostor određenog volumena unutar geološke strukture koji se koristi za skladištenje ugljikovodika i trajno zbrinjavanje plinova i pripadajuća postrojenja na površini kao i postrojenja za utiskivanje
+26) Razdoblje nakon zatvaranja znači razdoblje nakon završetka trajnog zbrinjavanja plinova i zatvaranja podzemnog skladišta, uključujući razdoblje nakon prijenosa odgovornosti na nadležno tijelo
+27) Rudarski gospodarski subjekt znači jednu ili više pravnih osoba sa sjedištem ili podružnicom u Republici Hrvatskoj, registriranu kod nadležnog tijela za obavljanje istraživanja i eksploatacije ugljikovodika kao i pravna osoba sa sjedištem u državama članicama Europske unije, registrirana za obavljanje istraživanje i eksploatacije ugljikovodika kod nadležnog tijela države članice Europske unije. Za potrebe trajnog zbrinjavanja plinova znači pravna, privatna ili javna osobu koja eksploatira podzemno skladište ili ga kontrolira ili kojoj je u skladu s nacionalnim zakonodavstvom povjerena ovlast donošenja ekonomskih odluka o tehničkom funkcioniranju podzemnog skladišta
+28) Rudarski objekti i postrojenja znače sve objekte, postrojenja, opremu, alate, uređaje i instalacije koji se koriste kod izvođenja istraživanja i eksploatacije ugljikovodika
+29) Rudarski radovi znače sve rudarske radove koji se izvode u svrhu istraživanja i eksploatacije ugljikovodika prema dozvoli i ugovoru
+30) Skladišni kompleks znači podzemno skladište i okolnu geološku domenu koji mogu imati utjecaja na sveukupni integritet i sigurnost trajnog zbrinjavanja plinova, odnosno sekundarne formacije za zadržavanje
+31) Stupac vode znači vertikalnu neprekinutu masu vode od površine do sedimenta na dnu vodnog resursa
+32) Ugljikovodici znače naftu, prirodni plin i plinski kondenzat, pridobiven u istražnom prostoru i/ili na eksploatacijskom polju u okviru dozvole i ugovora
+33) Ugovor znači ugovor koji se sklapa između Vlade Republike Hrvatske i investitora nakon izdavanja dozvole, sukladno odredbama ovoga Zakona (u daljnjem tekstu: ugovor)
+34) Ugovorne strane znače s jedne strane Vladu Republike Hrvatske te s druge strane investitor sukladno udjelu svake od njih u ugovoru
+35) Tok CO2 znači tok tvari koji rezultira iz postupaka hvatanja CO2
+36) Trajno zbrinjavanje plinova znači utiskivanje praćeno trajnim zbrinjavanjem tokova CO2 u podzemne geološke strukture
+37) Troškovi rudarskih radova znače sve priznate troškove i izdatke koje investitor bude imao vezano uz rudarske radove prema ugovoru
+38) Veća nepravilnost znači svaku nepravilnost prilikom operacija utiskivanja ili trajnog zbrinjavanja ili u uvjetima samog kompleksa podzemnog skladišta koja podrazumijeva rizik istjecanja ili rizik za prirodu i okoliš ili zdravlje ljudi
+39) Zatvaranje podzemnog skladišta znači konačni prestanak utiskivanja CO2 u to podzemno skladište
+40) Značajan rizik znači kombinaciju vjerojatnosti nastanka štete i veličine štete u dotičnom podzemnom skladištu koju nije moguće zanemariti, a da se ne dovedu u pitanje ciljevi ovoga Zakona.

@@ -1,0 +1,5 @@
+## Dovršetak započetih postupaka i stečena prava i obveze
+# Članak 66.
+(1) Postupci davanja odobrenja za istraživanje, davanja odobrenja za eksploatacijsko polje, koncesija za eksploataciju koji su započeli prije stupanja na snagu ovoga Zakona dovršit će se prema odredbama Zakona o rudarstvu (»Narodne novine«, br. 75/09. i 49/11.) i drugih relevantnih propisa koji su bili na snazi do stupanja na snagu ovoga Zakona.
+(2) Stupanje na snagu ovoga Zakona nema utjecaja na stečena prava i obveze iz izdanih odobrenja za istraživanje, izdanih odobrenja za eksploatacijska polja, izdanih koncesija za eksploataciju koja su stečena sukladno odredbama Zakona o rudarstvu (»Narodne novine«, br. 75/09. i 49/11.).
+(3) Nositelji odobrenja za istraživanje, nositelji odobrenja za eksploatacijsko polje, nositelji odobrenja za izvođenje rudarskih radova dobivenih u postupcima prije stupanja na snagu Zakona o rudarstvu (»Narodne novine«, br. 75/09. i 49/11.), dužni su u roku od dvije godine uskladiti svoja odobrenja s odredbama ovoga Zakona.
