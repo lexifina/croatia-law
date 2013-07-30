@@ -1,0 +1,9 @@
+# Članak 7.
+U članku 106. stavak 1. mijenja se i glasi:
+»(1) Radni odnos u školskoj ustanovi ne može zasnovati osoba koja je pravomoćno osuđena za neko od kaznenih djela protiv života i tijela, protiv slobode i prava čovjeka i građanina, protiv Republike Hrvatske, protiv vrijednosti zaštićenih međunarodnim pravom, protiv spolne slobode i spolnog ćudoređa, protiv braka, obitelji i mladeži, protiv imovine, protiv sigurnosti pravnog prometa i poslovanja, protiv pravosuđa, protiv vjerodostojnosti isprava, protiv javnog reda i protiv službene dužnosti, a koje je propisano Kaznenim zakonom (»Narodne novine«, br. 110/97., 27/98. - ispravak, 50/00. - Odluka Ustavnog suda Republike Hrvatske, 129/00., 51/01., 111/03., 190/03. - Odluka Ustavnog suda Republike Hrvatske, 105/04., 84/05. - ispravak, 71/06., 110/07., 152/08. i 57/11.).«.
+Iza stavka 1. dodaje se novi stavak 2. koji glasi:
+»(2) Radni odnos u školskoj ustanovi ne može zasnovati osoba koja je pravomoćno osuđena za neko od kaznenih djela protiv života i tijela, protiv Republike Hrvatske, protiv pravosuđa, protiv javnog reda, protiv imovine, protiv službene dužnosti, protiv čovječnosti i ljudskog dostojanstva, protiv osobne slobode, protiv spolne slobode, spolnog zlostavljanja i iskorištavanja djeteta, protiv braka, obitelji i djece, protiv zdravlja ljudi, protiv opće sigurnosti, protiv krivotvorenja, a koje je propisano Kaznenim zakonom (»Narodne novine«, br. 125/11. i 144/12.).«.
+U dosadašnjem stavku 2. koji postaje stavak 3. iza riječi: »u stavku 1.« dodaju se riječi: »i stavku 2.«.
+U dosadašnjem stavku 3. koji postaje stavak 4. iza riječi: »iz stavka 1.« dodaju se riječi: »i stavka 2.«.
+U dosadašnjem stavku 4. koji postaje stavak 5. iza riječi: »iz stavka 1.« dodaju se riječi: »i stavka 2.«.
+Dosadašnji stavak 5. postaje stavak 6.
