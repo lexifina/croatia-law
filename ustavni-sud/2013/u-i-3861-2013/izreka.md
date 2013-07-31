@@ -1,0 +1,4 @@
+RJEŠENJE
+I. Pokreće se postupak za ocjenu suglasnosti s Ustavom članka 38. stavka 2. točke g) Zakona o porezu na dodanu vrijednost (»Narodne novine« broj 73/13.) u dijelu koji glasi: »u opsegu od najmanje 25.000 riječi u primjerku dnevnog izdanja«.
+II. Na temelju članka 45. Ustavnog zakona o Ustavnom sudu Republike Hrvatske (»Narodne novine« broj 99/99., 29/02. i 49/02. - pročišćeni tekst), do donošenja konačne odluke Ustavnog suda Republike Hrvatske iz točke I. ove izreke privremeno se obustavlja izvršenje svih pojedinačnih akata koji se donose i radnji koje se poduzimaju na temelju članka 38. stavka 2. točke g) Zakona o porezu na dodanu vrijednost (»Narodne novine« broj 73/13.) u dijelu koji glasi: »u opsegu od najmanje 25.000 riječi u primjerku dnevnog izdanja«.
+III. Ovo rješenje objavit će se u »Narodnim novinama«.
