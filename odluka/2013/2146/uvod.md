@@ -1,0 +1,1 @@
+Na temelju članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, broj 150/2011) i članka 6. Zakona o iznimnim mjerama kontrole cijena (»Narodne novine«, br. 73/97, 128/99 i 66/2001), Vlada Republike Hrvatske je na sjednici održanoj 18. srpnja 2013. godine donijela
