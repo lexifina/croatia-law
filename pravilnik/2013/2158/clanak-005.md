@@ -1,0 +1,6 @@
+## UPIS U REGISTAR
+# Članak 5.
+(1) Upis osobe koja obavlja djelatnost dadilje u Registar provodi po službenoj dužnosti obiteljski centar nadležan za vođenje Registra na temelju Rješenja o ispunjavanju uvjeta za obavljanje djelatnosti dadilje.
+(2) Prije izdavanja rješenja o ispunjavanju uvjeta za obavljanje djelatnosti dadilje, u slučaju kada će se djelatnost dadilje obavljati u stambenom prostoru obiteljski centar nadležan za vođenje Registra će po službenoj dužnosti provjeriti postojanje okolnosti iz članka 11. stavka 1. i 2., te nepostojanje okolnosti iz članka 8. stavka 1. podstavaka 4., 5. i 6. Zakona o dadiljama u odnosu na članove kućanstva obrtnika.
+(3) Prije izdavanja rješenja o ispunjavanju uvjeta za obavljanje djelatnosti dadilje, u slučaju kada će se djelatnost dadilje obavljati u stambenom ili poslovnom prostoru obiteljski centar nadležan za vođenje Registra će po službenoj dužnosti provjeriti postojanje okolnosti iz članka 12. Zakona o dadiljama.
+(4) Obiteljski centar nadležan za vođenje Registra dužan je izvršiti upis osobe koja obavlja djelatnost dadilje u Registar najkasnije u roku od 15 dana od dana pravomoćnosti Rješenja o ispunjavanju uvjeta za obavljanje djelatnosti dadilje iz stavka 1. ovog članka.
