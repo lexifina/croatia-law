@@ -1,0 +1,2 @@
+# Članak 19.
+Pravne i fizičke osoba koje obavljaju proizvodnju, promet na veliko i korištenje opasnih kemikalija obvezne su osigurati radnicima radnu obuću, odjeću i druga osobna zaštitna sredstva (npr. zaštitnu kacigu, naočale ili štitnik za oči, filtarsku polumasku, zaštitnu masku s odgovarajućim filtrom, samostalni uređaj za disanje, kombinezone, odgovarajuće zaštitne rukavice, pregaču i dr.) izabrana prema hrvatskim normama i prikladnima za opasnu kemikaliju, proces u kojem se koristi i količine u procesu.

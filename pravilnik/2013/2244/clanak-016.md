@@ -1,0 +1,3 @@
+# Članak 16.
+(1) Prostorije ili ormari u kojima se smještaju i čuvaju opasne kemikalije iz članka 4. stavka 2. ovoga Pravilnika, moraju biti osigurane od neovlaštenog pristupa i pod ključem.
+(2) Vrlo otrovne kemikalije odnosno kemikalije koje se razvrstavaju kao akutno toksične 1. kategorije i akutno toksične 2. kategorije, specifično toksične za ciljane organe - jednokratno izlaganje 1. kategorije, moraju se držati u posebnim prostorijama, odvojeno od ostalih opasnih kemikalija i pod ključem te se smiju prodavati samo pravnim ili fizičkim osobama koje imaju odobrenje za rad s tim kemikalijama, izdano od Ministarstva zdravlja.

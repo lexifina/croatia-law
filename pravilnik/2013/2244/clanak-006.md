@@ -1,0 +1,5 @@
+# Članak 6.
+(1) Objekti koji služe za čuvanje, proizvodnju, korištenje i za stavljanje na tržište opasnih kemikalija iz članka 1. ovoga Pravilnika, izgrađuju se na mjestima s najpovoljnijim klimatskim uvjetima glede ruže vjetrova, konfiguracije tla, temperaturnih promjena i promjena klime te koja nisu podložna poplavama i na kojima ne postoji mogućnost onečišćenja voda. Objekti se moraju rasporediti tako da se omogući pristup vatrogasnim ekipama u slučaju požara.
+(2) Opasne kemikalije iz članka 1. ovoga Pravilnika mogu se držati i u ormarima izrađenim iz materijala kompatibilnog tim kemikalijama i uređenog na način da se spriječi izlijevanje kemikalije izvan ormara ili akcidentalni događaj poput požara ili eksplozije.
+(3) Prostorije iz stavka 1. ovoga članka u kojima se obavlja proizvodnja, skladištenje u prodaji na veliko, odnosno u kojima se profesionalno koriste opasne kemikalije, ne smiju se nalaziti u stambenim zgradama.
+(4) Odredbe stavka 1. i 3. ovoga članka ne odnose se na korištenje i prodaju na malo kemikalija iz članka 3. stavka 2. ovoga Pravilnika.
