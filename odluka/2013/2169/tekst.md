@@ -1,0 +1,2 @@
+JOSIP BULJEVIĆ postavlja se za generalnog konzula Republike Hrvatske u Sjedinjenim Američkim Državama, Savezna Država California, sa sjedištem u Los Angelesu i konzularnim ovlastima nad konzularnim područjem koje obuhvaća sljedeće savezne države: Washington, Oregon, Montana, Idaho, North Dakota, South Dakota, Wyoming, Nebraska, Nevada, California, Utah, Colorado, Kansas, Oklahoma, Texas, New Mexico, Arizona, Alaska i Hawaii.
+Ova Odluka stupa na snagu 1. kolovoza 2013. godine.
