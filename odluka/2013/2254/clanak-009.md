@@ -1,0 +1,8 @@
+# Članak 9.
+Članak 106. mijenja se i glasi:
+»Za pruženu zdravstvenu zaštitu na svim razinama zdravstvene djelatnosti osnovom odredaba članka 10. stavka 1. ove Odluke, ugovorna zdravstvena ustanova, odnosno ugovorni zdravstveni radnici privatne prakse, obvezni su ispostavljati i pojedinačne račune primjenom cijene utvrđenih ovom Odlukom, te ih dostavljati Zavodu na daljnju obradu radi izvršavanja obveza Zavoda u skladu s propisima EU i sklopljenim međunarodnim ugovorima o socijalnom osiguranju.
+Za osigurane osobe iz članka 10. stavka 2. ove Odluke, kao i za strance iz članka 10. stavka 1. ove Odluke, osigurane u skladu s odredbama zakona kojim se uređuje zdravstvena zaštita stranaca u Republici Hrvatskoj, zdravstvena zaštita pružena na primarnoj razini plaća se primjenom iznosa po osiguranoj osobi,.
+Za zdravstvene usluge pružene osnovom specijalističko-konzilijarne i bolničke zdravstvene zaštite osiguranim osobama iz stavka 1. i 2. ovog članka ispostavljaju se i plaćaju pojedinačni računi prema odredbama ove Odluke.
+Za osigurane osobe iz članka 10. stavka 1. ove Odluke, koje privremeno borave u Republici Hrvatskoj, a zdravstvenu zaštitu koriste osnovom propisa EU i međunarodnih ugovora o socijalnom osiguranju zdravstvena zaštita pružena na svim razinama, plaća se osnovom ispostavljenih pojedinačnih računa i to za primarnu zdravstvenu zaštitu na način propisan odredbama ove Odluke.
+Pojedinačni računi iz stavka 4. ovog članka ne uračunavaju se u maksimalno ugovoreni iznos novčanih sredstava na sekundarnoj i tercijarnoj razini zdravstvene djelatnosti.
+Posebnom odlukom Upravnog vijeća Zavoda utvrdit će se rokovi i način plaćanja pojedinačnih računa iz stavka 5. ovog članka.«

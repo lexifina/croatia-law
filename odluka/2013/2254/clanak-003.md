@@ -1,0 +1,3 @@
+# Članak 3.
+U članku 70. stavku 2. u Tablici I. razina - postupci za koje nije potrebna dodatna oprema i/ili dodatna edukacija tekst pod oznakom: ** mijenja se i glasi:
+»**pregled koji se može zaračunati isključivo za osigurane osobe Zavoda koje se privremeno nalaze na području drugog regionalnog ureda Zavoda od pripadajućeg prema mjestu prebivališta/boravišta osigurane osobe koje, u skladu s odredbama općih akata Zavoda, imaju pravo koristiti primarnu zdravstvenu zaštitu kod doktora primarne zdravstvene zaštite koji nije njihov izabrani doktor kao i osigurane osobe iz drugih država koje zdravstvenu zaštitu u Republici Hrvatskoj koriste sukladno propisima EU i važećim ugovorima o socijalnom osiguranju.«
