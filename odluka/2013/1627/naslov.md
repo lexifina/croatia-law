@@ -1,0 +1,1 @@
+Odluka o postavljanju Vladimira Drobnjaka za izvanrednog i opunomoćenog veleposlanika - stalnog predstavnika Republike Hrvatske pri Organizaciji Ujedinjenih naroda u New Yorku i svim njezinim tijelima
