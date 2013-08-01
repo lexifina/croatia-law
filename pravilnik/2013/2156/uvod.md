@@ -1,0 +1,1 @@
+Na temelju članka 10. stavka 3., članka 12. stavka 2., članka 14., članka 15., članka 16., članka 24., članka 56., članka 65. stavka 4. i članka 66. stavka 5. Zakona o slatkovodnom ribarstvu (»Narodne novine«, br. 106/01, 7/03, 174/04, 10/05 - ispravak i 49/05 - pročišćeni tekst) ministar poljoprivrede donosi
