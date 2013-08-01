@@ -1,0 +1,1 @@
+Odluka o postavljanju Mate Škrabala za izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u svojstvu stalog predstavnika Republike Hrvatske pri Europskoj uniji i pri Europskoj zajednici za atomsku energiju
