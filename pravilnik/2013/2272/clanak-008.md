@@ -1,0 +1,6 @@
+# Članak 8.
+(1) Društvo za upravljanje dostavlja Agenciji izvještaje iz članka 6. stavka 1. ovog Pravilnika u elektroničkom obliku potpisane naprednim elektroničkim potpisom u skladu s tehničkom uputom Agencije.
+(2) Smatra se da je društvo za upravljanje dostavilo izvještaje iz stavka 1. ovog članka u trenutku kada je izvještaj prihvaćen na poslužitelju Agencije za zaprimanje izvještaja.
+(3) U opravdanim slučajevima nemogućnosti dostave na način propisan stavkom 1. ovog članka, društvo za upravljanje dužno je izvještaje dostaviti u pisanom obliku, neposredno ili poštom u svrhu pravodobnog izvješćivanja. Društvo za upravljanje dužno je dostaviti izvještaje na način propisan stavkom 1. ovog članka čim prestanu razlozi nemogućnosti dostave, a najkasnije u roku od 8 dana od isteka roka za dostavu izvještaja.
+(4) Društvo za upravljanje dužno je godišnje financijske izvještaje iz članka 6. stavka 3. ovog Pravilnika dostaviti u pisanom obliku zajedno s revizorskim izvješćem o obavljenoj reviziji godišnjih financijskih izvještaja i godišnjim izvješćem.
+(5) Društvo za upravljanje dužno je nakon obavljene revizije godišnjih financijskih izvještaja društva za upravljanje dostaviti Agenciji izvještaje iz članka 4. stavka 1. alineje 1., 2., 3. i 4. na način kako je propisano člankom 6. stavkom 2. ovog Pravilnika.
