@@ -1,0 +1,5 @@
+## Uspostavljanje unutarnje revizije sporazumom o obavljanju poslova unutarnje revizije
+# Članak 11.
+(1) Za uspostavljanje unutarnje revizije sporazumom o obavljanju poslova unutarnje revizije uvjet je da korisnik proračuna s kojim se zaključuje sporazum ima ustrojenu jedinicu za unutarnju reviziju ili zajedničku jedinicu za unutarnju reviziju odnosno imenovanoga unutarnjeg revizora, s tim da barem jedan unutarnji revizor u jedinici odnosno imenovani unutarnji revizor ima stručno ovlaštenje ministra financija za obavljanje poslova unutarnje revizije u javnom sektoru.
+(2) Voditelj jedinice za unutarnju reviziju, voditelj zajedničke jedinice za unutarnju reviziju odnosno imenovani unutarnji revizor iz stavka 1. ovoga članka dužan je, uz poslove propisane Zakonom, obavljati i poslove propisane sporazumom o obavljanju poslova unutarnje revizije.
+(3) Sporazum o obavljanju poslova unutarnje revizije donosi se na temelju predloška Središnje harmonizacijske jedinice, uz suglasnost ministra financija.

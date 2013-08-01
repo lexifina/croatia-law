@@ -1,0 +1,5 @@
+## I. OPĆE ODREDBE
+# Članak 1.
+(1) Ovim Pravilnikom uređuju se kriteriji za uspostavljanje unutarnje revizije kod korisnika proračuna, ustrojavanje neovisne jedinice unutarnje revizije izravno odgovorne čelniku korisnika proračuna, imenovanje unutarnjeg revizora izravno odgovornog čelniku korisnika proračuna, osnivanje zajedničke jedinice za unutarnju reviziju, uspostavljanje unutarnje revizije sporazumom o obavljanju poslova unutarnje revizije, provođenje horizontalnih i vertikalnih revizija te provjera kvalitete aktivnosti unutarnje revizije koju obavlja Središnja harmonizacijska jedinica Ministarstva financija (dalje u tekstu: Središnja harmonizacijska jedinica).
+(2) Odredbe ovog Pravilnika odnose se na proračunske i izvanproračunske korisnike državnog proračuna, jedinice lokalne i područne (regionalne) samouprave i proračunske i izvanproračunske korisnike jedinica lokalne i područne (regionalne) samouprave utvrđene u Registru proračunskih i izvanproračunskih korisnika (dalje u tekstu: korisnici proračuna).
+(3) Financijska sredstva u smislu ovoga Pravilnika, jesu proračunska sredstva iz svih izvora financiranja sukladno proračunskim propisima.
