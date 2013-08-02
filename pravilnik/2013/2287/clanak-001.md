@@ -1,0 +1,2 @@
+# Članak 1.
+U Pravilniku o provedbi Mjere 301 »Poboljšanje i razvoj ruralne infrastrukture« unutar IPARD programa (»Narodne novine« br. 33/12, 41/12) u članku 2. stavak 1. riječi »Upravna direkcija IPARD programa za Republiku Hrvatsku je Uprava ruralnog razvoja, EU i međunarodne suradnje (u daljnjem tekstu: Upravna direkcija)« zamjenjuju se riječima »Upravljačko tijelo IPARD programa za Republiku Hrvatsku je Uprava za upravljanje EU fondom za ruralni razvoj, EU i međunarodnu suradnju (u daljnjem tekstu Upravljačko tijelo)«.

@@ -1,0 +1,2 @@
+# Članak 5.
+U članku 27. stavak 1. točka o) mijenja se i glasi: »obveza korisnika da obavijesti Agenciju za plaćanja o izvođenju "skrivenih radova" (radovi kod kojih se ne može provoditi kontrola u kasnijoj fazi), uz koju je korisnik obvezan podnijeti plan aktivnosti APPRRR-u (OKSP) i to nakon potpisivanja ugovora s izabranim izvođačem, a to u svrhu određivanja datuma kada će se izvesti kontrola skrivenih radova.«
