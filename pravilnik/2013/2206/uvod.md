@@ -1,0 +1,1 @@
+Na temelju članka 263. točke 1. Zakona o osiguranju (»Narodne novine« broj 151/05, 87/08, 82/09 i 54/13), Hrvatska agencija za nadzor financijskih usluga donijela je na sjednici Upravnog vijeća održanoj 19. srpnja 2013. godine
