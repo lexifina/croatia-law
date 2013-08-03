@@ -1,0 +1,1 @@
+Na temelju članka 15. točka 7. Zakona o Hrvatskoj agenciji za nadzor financijskih usluga (»Narodne novine« broj 140/05 i 12/12) Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća održanoj 19. srpnja 2013. donijela je
