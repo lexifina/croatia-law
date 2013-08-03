@@ -1,0 +1,1 @@
+Na osnovi članka 24. stavka 3. Zakona o obveznom zdravstvenom osiguranju (»Narodne novine« broj 80/13.) i članka 26. točke 8. Statuta Hrvatskog zavoda za zdravstveno osiguranje (»Narodne novine« 18/09., 33/10., 8/11. i 18/13.) Upravno vijeće Hrvatskog zavoda za zdravstveno osiguranje na 39. sjednici održanoj 2. srpnja 2013. godine donijelo je
