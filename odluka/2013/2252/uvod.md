@@ -1,0 +1,1 @@
+Na osnovi članka 87. stavak 1. Zakona o obveznom zdravstvenom osiguranju (»Narodne novine« broj 80/13.) Upravno vijeće Hrvatskog zavoda za zdravstveno osiguranje na 39. sjednici održanoj 2. srpnja 2013. godine uz prethodno pribavljeno mišljenje nadležnih komora i suglasnost ministra nadležnog za zdravlje donijelo je
