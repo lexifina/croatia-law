@@ -1,0 +1,3 @@
+# Članak 2.
+(1) Doktoru medicine, istaknutom stručnjaku koji se bavi najmanje 10 godina laboratorijskom imunologijom, koji ima znanstveno-nastavno zvanje docenta ili profesora ili akademsko zvanje doktor znanosti ili stručno zvanje primarijus i kontinuirano publicirane stručne i znanstvene radove kroz tih 10 godina, može se, na temelju pribavljenog mišljenja Hrvatske liječničke komore o radu na području specijalnosti laboratorijske imunologije, priznati status specijalista laboratorijske imunologije.
+(2) Hrvatska liječnička komora daje mišljenje iz stavka 1. ovoga članka na temelju prethodno pribavljenog pozitivnog mišljenja Hrvatskog društva za alergologiju i kliničku imunologiju Hrvatskog liječničkog zbora.
