@@ -1,0 +1,2 @@
+# Članak 5.
+Promidžbeni sadržaj koji je Agencija odobrila može se preinačavati bez ponovnog odobravanja samo na način da se ažuriraju informacije o imovini, obvezama, prinosima, portfelju, ukupnim troškovima, cijeni udjela, financijskom poslovanju društva za upravljanje i UCITS fonda te pravima ulagatelja UCITS fonda ako navedene informacije i dalje predstavljaju točno i istinito činjenično stanje u skladu sa Zakonom i ovim Pravilnikom.

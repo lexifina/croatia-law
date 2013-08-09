@@ -1,0 +1,1 @@
+Na temelju članka 60. stavka 2., članka 151. stavka 2., članka 152. i članka 209. Zakona o otvorenim investicijskim fondovima s javnom ponudom (»Narodne novine« br. 13/2013, dalje: Zakon), Hrvatska agencija za nadzor financijskih usluga (dalje: Agencija) na sjednici Upravnog vijeća održanoj 26. srpnja 2013. godine donijela je

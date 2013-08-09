@@ -1,0 +1,3 @@
+## PROMIDŽBENI SADRŽAJ
+# Članak 2.
+Promidžbenim sadržajem društva za upravljanje i UCITS fondova smatraju se sve informacije koje subjekti iz članka 146. Zakona priopćuju putem sredstava promidžbe iz članka 148. Zakona, a iz kojih nedvojbeno proizlazi namjera promidžbe. Informacije iz promidžbenog sadržaja uključuju, ali nisu ograničene na isticanje imena, prinosa, načina ulaganja u UCITS fond ili navođenje financijskih proizvoda vezanih uz UCITS fond kada se oglašava financijska grupa ili na drugi način povezana osoba sa subjektima iz članka 146. Zakona, bez obzira kojim se putem i medijem promidžbeni materijal odašilje javnosti.
