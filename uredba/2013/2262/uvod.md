@@ -1,0 +1,1 @@
+Na temelju članka 49. stavka 3. Zakona o trgovini (»Narodne novine«, br. 87/2008, 116/2008, 76/2009, 114/2011 i 68/2013), Vlada Republike Hrvatske je na sjednici održanoj 25. srpnja 2013. godine donijela
