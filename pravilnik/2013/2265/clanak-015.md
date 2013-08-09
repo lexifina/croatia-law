@@ -1,0 +1,2 @@
+# Članak 15.
+(1) Odredbe ovoga Pravilnika koje se odnose na povredu ograničenja ulaganja iz članka 250. stavka 5. Zakona primjenjuju se i za slučaj povrede ograničenja ulaganja iz članka 250. stavka 3. Zakona koje traje dulje od isteka razdoblja predviđenih člankom 250. stavkom 3. i 4. Zakona. Danom nastupa povrede ograničenja ulaganja smatra se prvi dan nakon isteka roka određenog u skladu s člankom 250. stavkom 3. i 4. Zakona.

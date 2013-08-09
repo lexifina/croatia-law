@@ -1,0 +1,1 @@
+Na temelju članka 99. stavka 7. Zakona o otvorenim investicijskim fondovima s javnom ponudom (»Narodne novine« broj 16/2013, dalje: Zakon), Hrvatska agencija za nadzor financijskih usluga (dalje: Agencija) na sjednici Upravnog vijeća održanoj 26. srpnja 2013. godine donijela je
