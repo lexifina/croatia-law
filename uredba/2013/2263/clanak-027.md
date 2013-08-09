@@ -1,0 +1,2 @@
+# Članak 27.
+U članku 51. stavku 1. na kraju rečenice umjesto točke stavlja se zarez te dodaju riječi: »odnosno, na dijelovima policijske odore na kojima se oznake policijskog službenika ne mogu nositi na ramenima provučena kroz za tu namjenu našivene tunele, oznaka zvanja policijskog službenika nosi se pričvršćena čičak trakom na odori iznad gornjeg lijevog džepa, odnosno s lijeve strane u visini prsa.«.
