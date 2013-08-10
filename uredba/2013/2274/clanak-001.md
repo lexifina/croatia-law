@@ -1,0 +1,2 @@
+# Članak 1.
+U Zakonu o udžbenicima za osnovnu i srednju školu (»Narodne novine«, br. 27/2010 i 55/2011), u članku 11. stavku 1. riječi: »90 dana prije roka utvrđenog člankom 17. stavkom 3. ovog Zakona« zamjenjuju se riječima: »do 1. rujna godine, koja prethodi godini u kojoj se, sukladno odredbama ovoga Zakona, objavljuje ili mijenja Katalog obveznih udžbenika i pripadajućih dopunskih nastavnih sredstava«.
