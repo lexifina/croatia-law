@@ -1,0 +1,13 @@
+## Prijava prijedloga i davanje mišljenja na prijedlog potpore male vrijednosti
+# Članak 7.
+(1) Davatelj državne potpore dostavlja Ministarstvu prijedlog potpore male vrijednosti radi davanja mišljenja o usklađenosti sadržaja prijedloga s Uredbom de minimis.
+(2) Uz prijedlog potpore male vrijednosti iz stavka 1. ovoga članka davatelj državne potpore dužan je Ministarstvu dostaviti i popunjeni Obrazac prijave potpore male vrijednosti koji se preuzima u elektroničkom obliku na internetskoj stranici Ministarstva www.mps.hr.
+(3) Ukoliko Ministarstvo utvrdi da je dostavljen prijedlog potpore male vrijednosti potpun i usklađen s pravilima o potporama male vrijednosti, daje mišljenje o usklađenosti prijavljenog prijedloga potpore male vrijednosti u roku od 45 dana od primitka prijedloga.
+(4) Ukoliko Ministarstvo utvrdi da prijedlog kojim se dodjeljuje potpora male vrijednosti nije potpun, Ministarstvo od davatelja državne potpore zahtijeva dopunu i dostavu svih potrebnih dokumenata u dodatnom roku kojeg odredi Ministarstvo a koji ne može biti dulji od 30 dana.
+(5) Ukoliko Ministarstvo utvrdi da prijedlog kojim se dodjeljuje potpora male vrijednosti nije u skladu s pravilima o potporama male vrijednosti, Ministarstvo od davatelja državne potpore zahtijeva dopunu i/ili izmjenu prijedloga sukladno pravilima o potporama male vrijednosti u roku kojeg odredi Ministarstvo a koji ne može biti dulji od 30 dana.
+(6) Ukoliko davatelj državne potpore ne dopuni i/ili izmjeni prijedlog potpore male vrijednosti u roku kojeg odredi Ministarstvo, Ministarstvo davatelju državne potpore dostavlja ponovljeni zahtjev i dodatni rok za dopunu i/ili izmjenu prijedloga potpore male vrijednosti.
+(7) Ukoliko nakon ponovljenog zahtjeva iz stavka 6. ovoga članka davatelj državne potpore ne dostavi zatražene dopune i/ili izmjene prijedloga potpore male vrijednosti, smatrat će se da je davatelj državne potpore odustao od prijedloga iz stavka 1. ovoga članka.
+(8) Davatelj državne potpore ne može dodijeliti potporu male vrijednosti bez pozitivnog mišljenja Ministarstva o usklađenosti prijedloga s pravilima o potporama male vrijednosti u sektoru poljoprivrede.
+(9) Davatelj državne potpore dužan je korisniku potpore dostaviti obavijest da mu je dodijeljena potpora male vrijednosti sukladno Uredbi de minimis.
+(10) Korisnik potpore male vrijednosti mora davatelju državne potpore dati izjavu o iznosima dodijeljenih potpora male vrijednosti u sektoru poljoprivrede iz drugih izvora sukladno Uredbi de minimis.
+(11) Izjava iz stavka 10. ovoga članka daje se u svrhu provjere da potpora ne premašuje gornje granice iz Uredbe de minimis.

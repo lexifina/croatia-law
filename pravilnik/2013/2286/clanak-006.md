@@ -1,0 +1,13 @@
+## II. PRIJAVA IZUZETE DRŽAVNE POTPORE I POTPORE MALE VRIJEDNOSTI
+## Prijava prijedloga izuzete državne potpore i davanje mišljenja
+# Članak 6.
+(1) Davatelj državne potpore dostavlja Ministarstvu prijedlog izuzete državne potpore radi davanja mišljenja o usklađenosti sadržaja prijedloga s Uredbom o izuzetoj državnoj potpori.
+(2) Uz prijedlog izuzete državne potpore iz stavka 1. ovoga članka davatelj državne potpore dužan je Ministarstvu dostaviti i popunjeni Obrazac prijave o izuzetoj državnoj potpori koji se preuzima u elektroničkom obliku na internetskoj stranici Ministarstva www.mps.hr.
+(3) Ukoliko Ministarstvo utvrdi da je dostavljeni prijedlog kojim se dodjeljuje izuzeta državna potpora potpun i usklađen s pravilima o izuzetoj državnoj potpori, daje mišljenje o usklađenosti prijavljenog prijedloga izuzete državne potpore u roku od 45 dana od primitka potpunog prijedloga.
+(4) Ukoliko Ministarstvo utvrdi da prijedlog kojim se dodjeljuje izuzeta državna potpora nije potpun, Ministarstvo od davatelja državne potpore zahtijeva dopunu i dostavu svih potrebnih dokumenata u dodatnom roku kojeg odredi Ministarstvo a koji ne može biti dulji od 30 dana.
+(5) Ukoliko Ministarstvo utvrdi da prijedlog kojim se dodjeljuje izuzeta državna potpora nije usklađen s pravilima o izuzetoj državnoj potpori, od davatelja državne potpore zahtijeva dopunu i/ili izmjenu prijedloga u roku kojeg odredi Ministarstvo a koji ne može biti dulji od 30 dana.
+(6) Ukoliko davatelj državne potpore ne dopuni i/ili izmjeni prijedlog izuzete državne potpore u roku kojeg odredi Ministarstvo, davatelju državne potpore Ministarstvo upućuje ponovljeni zahtjev i utvrđuje dodatni rok za dopunu i/ili izmjenu prijedloga izuzete državne potpore.
+(7) Ukoliko nakon ponovljenog zahtjeva iz stavka 6. ovoga članka davatelj državne potpore ne dostavi zatražene dopune i/ili izmjene prijedloga izuzete državne potpore, smatrat će se da je davatelj državne potpore odustao od prijedloga iz stavka 1. ovoga članka, osim ako davatelj državne potpore ne dostavi zahtjev iz stavka 9. ovoga članka.
+(8) Davatelj državne potpore ne može dodijeliti izuzetu državnu potporu bez pozitivnog mišljenja Ministarstva o usklađenosti prijedloga s Uredbom o izuzetoj državnoj potpori.
+(9) Ukoliko davatelj državne potpore zatraži pisanim putem da se prijedlog izuzete državne potpore prijavi Europskoj komisiji, Ministarstvo će postupiti po zahtjevu davatelja državne potpore i prijedlog izuzete državne potpore bez odgode prijaviti Europskoj komisiji.
+(10) Ako je zatražena i izvršena prijava iz stavka 9. ovoga članka, davatelj državne potpore ne može dodijeliti izuzetu državnu potporu prije odobrenja Europske komisije.
