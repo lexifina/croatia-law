@@ -1,0 +1,7 @@
+## III. NAČIN PROVOĐENJA POSTUPKA, NAČIN RADA STRUČNIH PROSUDBENIH SKUPINA TE ROKOVI ODOBRAVANJA
+# Članak 9.
+(1) Članovi povjerenstva samostalno prosuđuju udžbenik u skladu sa svojim kompetencijama sa znanstvene, metodičke ili praktične razine.
+(2) Prosudbom udžbenika iz ovoga Pravilnika utvrđuje se je li udžbenik usklađen s nacionalnim i predmetnim kurikulumom odnosno nastavnim plavom i programom, ispunjava li znanstvene, pedagoške i psihološke zahtjeve, didaktičko-metodičke standarde i zahtjeve, etičke zahtjeve, jezične zahtjeve, likovno-grafičke zahtjeve i standarde, tehničke zahtjeve i standarde za izradu tiskanih udžbenika, zahtjeve o sadržaju naslovnih listova, zahtjeve i standarde za elektronički udžbenik te ostale zahtjeve utvrđene Udžbeničkim standardom.
+(3) Prosudbom udžbenika iz članka 3. ovoga Pravilnika osobito se utvrđuje je li prijevod udžbenika usklađen s izvornikom.
+(4) Prosudbom dodatka udžbeniku iz članka 4. ovoga Pravilnika utvrđuje se ispunjava li dodatak udžbeniku sve zahtjeve propisane Udžbeničkim standardom te čini li s udžbenikom koji je s hrvatskoga jezika preveden na jezik i pismo nacionalne manjine cjelinu koja u potpunosti pokriva sadržaje propisane predmetnim kurikulumom odnosno nastavnim planom i programom i sadržaje koji su od važnosti za pojedinu nacionalnu manjinu.
+(5) Prosudbom udžbenika iz članka 5. ovoga Pravilnika utvrđuju se sadržaji u udžbeniku potrebni za izvođenje nastave.

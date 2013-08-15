@@ -1,0 +1,6 @@
+# Članak 11.
+(1) Na temelju samostalnih prosudbi članova povjerenstva koji su prosuđivali isti udžbenik, povjerenstvo na zajedničkoj sjednici donosi zajedničku stručnu prosudbu s obrazloženjem na obrascu Zajednička prosudba stručnog povjerenstva o udžbeniku/pripadajućem dopunskom nastavnom sredstvu. Obrazloženje mora sadržavati jalne razloge za donošenje ocjene udžbenika, osobito ako je povjerenstvo izradilo negativno mišljenje o udžbeniku.
+(2) Zajedničku prosudbu o udžbeniku i pisano stručno mišljenje potpisuju svi članovi povjerenstva.
+(3) Pisano stručno mišljenje povjerenstvo donosi nakon zaprimanja zahtjeva za uvrštavanjem na Popis udžbenika i pripadajućih dopunskih nastavnih sredstava.
+(4) Udžbenike iz članka 2., 3. i 4. ovoga Pravilnika, na temelju zajedničke prosudbe s obrazloženjem, povjerenstvo može prije donošenja stručnog mišljenja jedanput vratiti nakladniku na doradu radi otklanjanja nedostataka.
+(5) Nakladnik je dužan ispraviti nedostatke i dostaviti udžbenik Ministarstvu u roku od 15 dana od dana dostave na doradu. Povjerenstvo je dužno konačnu prosudbu o prihvaćanju ili neprihvaćanju dorađenoga udžbenika donijeti u roku od osam dana na obrascu Zajednička prosudba stručnog povjerenstva o udžbeniku/pripadajućem dopunskom nastavnom sredstvu uz koji se prilaže i zajedničko obrazloženje.

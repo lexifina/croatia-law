@@ -1,0 +1,2 @@
+# Članak 2.
+Udžbenik koji je izvorno napisan na jeziku i pismu nacionalne manjine za nastavu na jeziku i pismu nacionalne manjine usklađen je s nacionalnim i predmetnim kurikulumom, odnosno nastavnim planom i programom nacionalne manjine i Udžbeničkim standardom, a uz opći dio obvezno sadrži dio čiji je sadržaj u vezi s posebnošću nacionalne manjine (materinski jezik i književnost, povijest, geografija i kulturno stvaralaštvo nacionalne manjine).

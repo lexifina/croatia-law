@@ -1,0 +1,2 @@
+# Članak 5.
+Udžbenik uvezen iz države matičnoga naroda za potrebe nastave na jeziku i pismu nacionalne manjine može se koristiti u nastavi samo ako za određeni nastavni predmet ne postoji odgovarajući udžbenik izvorno napisan na jeziku i pismu nacionalne manjine u skladu s člankom 2. ovoga Pravilnika ili udžbenik koji je s hrvatskoga jezika preveden na jezik i pismo nacionalne manjine, po dobivenom odobrenju Ministarstva znanosti, obrazovanja i sporta sukladno Zakonu o odgoju i obrazovanju na jeziku i pismu nacionalnih manjina.
