@@ -1,0 +1,3 @@
+# Članak 1.
+(1) Ovim Pravilnikom propisuje se postupak i rokovi odobravanja udžbenika i pripadajućih dopunskih nastavnih sredstava kojima se koriste učenici u školama koje provode nastavu na stranome jeziku, udžbenika i pripadajućih dopunskih nastavnih sredstava s malom nakladom te udžbenika i pripadajućih dopunskih nastavnih sredstava za učenike s teškoćama u razvoju, kao i utvrđivanje sastava, imenovanja i način rada stručnih prosudbenih skupina.
+(2) Izrazi koji se koriste u ovome Pravilniku, a koji imaju rodno značenje, bez obzira na to jesu li korišteni u muškome ili ženskome rodu, obuhvaćaju na jednak način muški i ženski rod.
