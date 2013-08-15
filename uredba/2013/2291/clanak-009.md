@@ -1,0 +1,3 @@
+# Članak 9.
+Odjel za provedbu Regionalnog stambenog programa obavlja stručne i administrativne poslove pripreme, praćenja i koordinacije provedbe Regionalnog stambenog programa; surađuje s domaćim i inozemnim tijelima u provedbi programa; obavlja kontakte i surađuje na poslovima usklađivanja programa s domaćim i međunarodnim tijelima i organizacijama, izdaje uvjerenja i potvrde na zahtjev stranaka za podatke iz svoje nadležnosti; odgovara na primjedbe, zamolbe i dopise stranaka, tijela državne uprave i drugih tijela u vezi s poslovima iz svoje nadležnosti, te obavlja i druge poslove iz svoje nadležnosti.
+2.2.2. Odjel za provedbu programa suradnje s drugim zemljama

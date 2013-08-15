@@ -1,0 +1,6 @@
+# Članak 15.
+Služba za upravljanje državnom imovinom iz nadležnosti Državnog ureda koordinira aktivnosti na provođenju analitičke evidencije državne imovine u bazi tijela nadležnog za upravljanje državnom imovinom, koordinira vođenje evidencije podataka nekretnina kojima upravlja Državni ured; provodi mjere upravljanja i raspolaganja stambenim jedinicama u državnom vlasništvu koje se koriste za stambeno zbrinjavanje; vodi evidenciju i raspolaže stambenim jedinicama u državnom vlasništvu osiguranim za stambeno zbrinjavanje; vodi evidenciju o iznajmljenim stambenim jedinicama u državnom vlasništvu osiguranim za stambeno zbrinjavanje i korištenju te imovine; priprema ugovore o opskrbi električnom i toplinskom energijom za stambene objekte u državnom vlasništvu namijenjene stambenom zbrinjavanju, ugovore o prijenosu ugovora o opskrbi električnom i toplinskom energijom na korisnike stambenog zbrinjavanja, ugovore o upravljanju zgradom i međuvlasničke ugovore, vodi evidenciju o navedenim ugovorima, te obavlja i druge poslove iz svoje nadležnosti.
+U Službi, ustrojavaju se:
+3.2.1. Odjel za evidenciju podataka o imovini iz nadležnosti Državnog ureda
+3.2.2. Odjel za ugovore o najmu, ugovore o opskrbi električnom i toplinskom energijom te međuvlasničke ugovore.
+3.2.1. Odjel za evidenciju podataka o imovini iz nadležnosti Državnog ureda

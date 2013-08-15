@@ -1,0 +1,1 @@
+Na temelju članka 63. stavka 2. Zakona o sustavu državne uprave (»Narodne novine« br. 150/2011 i 12/2013) i članka 5. stavka 1. Zakona o izmjenama i dopunama Zakona o ustrojstvu i djelokrugu ministarstava i drugih središnjih tijela državne uprave (»Narodne novine« broj 39/2013), Vlada Republike Hrvatske je na sjednici održanoj 1. kolovoza 2013. godine donijela
