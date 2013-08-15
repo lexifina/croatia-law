@@ -1,0 +1,3 @@
+# Članak 12.
+Pododsjek za tehničke i pomoćne poslove obavlja poslove vezano uz vozni park Ministarstva, vodi brigu o održavanju službenih vozila, vodi evidencije o registracijama i osiguranjima, vodi evidencije o popravcima, vodi evidencije o potrošnji benzina te vodi ostale evidencije iz područja nadležnosti Pododsjeka, obavlja poslove prijevoza dužnosnika, državnih službenika i namještenika, obavlja poslove osobne dostave i hitne dostave za potrebe Ministarstva, obavlja pomoćne poslove vezano uz organizaciju događaja u prostorijama Ministarstva, obavlja poslove vezano uz organiziranje održavanja i čišćenja prostora Ministarstva, obavlja poslove vezane uz čajnu kuhinju Ministarstva te obavlja ostale pomoćne poslove za potrebe Ministarstva.
+2.3. Služba za javnu nabavu
