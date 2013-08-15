@@ -1,0 +1,6 @@
+# Članak 59.
+Sektor za investicijsku politiku sudjeluje u svim aktivnostima vezanim uz promociju investicija i brendiranja hrvatskih regija te rada svih tijela državne uprave u vezi s promicanjem investicija. Sektor prima i obrađuje zahtjeve velikih poduzetnika za odobrenje poticajnih mjera za investicije te prima i obrađuje zahtjeve za prijavu projekta kao strateškog. Osim toga, pruža podršku investitorima prilikom realizacije investicijskih projekata; sudjeluje u poslovima vezanim za međunarodne projekte, obavlja analitičko-statističke poslove prikupljajući i razmjenjujući gospodarske podatke, priprema i provodi projekte i programe Europske unije, predlaže i prati propise koji uređuju pitanja investicija, identificira i predlaže načine rješavanja problema nastalih u realizaciji konkretnih projekata, izrađuje prijedloge propisa i prati njihovu primjenu, sudjeluje u pripremi programa i projekata te provedbi projekata financiranih iz programa Europske unije i ostalih oblika međunarodne pomoći, te obavlja i druge poslove u okviru djelokruga Uprave.
+U Sektoru se ustrojavaju sljedeće Službe:
+5.2.1. Služba za zakonodavni okvir
+5.2.2. Služba za provedbu mjera za poticanje investicija.
+5.2.1. Služba za zakonodavni okvir

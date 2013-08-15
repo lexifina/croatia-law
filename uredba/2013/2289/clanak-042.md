@@ -1,0 +1,3 @@
+# Članak 42.
+Odjel za razvoj elektroničkog poslovanja obavlja stručne poslove vezane uz rad Nacionalnog vijeća za elektroničko poslovanje; potiče donošenje kodeksa ponašanja za elektroničko poslovanje, provodi kampanju za podizanje javne svijesti o mogućnostima primjene elektroničkog poslovanja, prati i izrađuje godišnje studije prepreka elektroničkom poslovanju, prati napredak elektroničkog poslovanja, surađuje s drugim državnim tijelima i tijelima državne uprave kao i drugim gospodarskim subjektima i institucijama; sudjeluje u izradi odgovarajućih portala za elektroničko poslovanje; obavlja i druge poslove iz djelokruga Službe.
+4.2. Sektor za koordinaciju unutarnjeg tržišta

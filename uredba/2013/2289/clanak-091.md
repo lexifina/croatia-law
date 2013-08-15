@@ -1,0 +1,2 @@
+# Članak 91.
+Služba za financijsko-računovodstvene, analitičko-planske i pravne poslove obavlja upravne i druge stručne poslove u vezi: sudjelovanja u izradi prijedloga Bilance i Godišnjeg programa strateških robnih zaliha s materijalno-financijskog aspekta, izrađuje plan za osiguranje sredstava iz državnog proračuna za strateške robne zalihe. Služba obavlja stručnu obradu svih pravnih dokumenata u vezi poslovanja sa strateškim robnim zalihama, pravno uobličava ugovorne i druge odnose; te obavlja i druge poslove iz djelokruga Ravnateljstva.

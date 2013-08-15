@@ -1,0 +1,6 @@
+# Članak 16.
+Služba za opće i tehničke poslove obavlja poslove pisarnice, odnosno prijema i otpreme pošte, dostave pismena, vodi pismohranu; obavlja unutarnju dostavu za potrebe Ministarstva, daje upute o uredskom poslovanju za potrebe Ministarstva; umnožavanja materijala, te obavlja i druge poslove u okviru djelokruga Službe. Služba surađuje sa središnjim tijelom državne uprave nadležnim za upravljanje državnom imovinom, obavlja poslove prijema i raspodjele opreme i materijala, vodi materijalnu evidenciju o tome, te obavlja i druge poslove u okviru djelokruga Službe. Služba obavlja poslove vezane uz zaštitu osoba, imovine i objekta Ministarstva, zatim poslove vezane za civilno obrambene pripreme kroz suradnju s drugim tijelima državne uprave. Obavlja poslove vezane za tehničko i higijensko održavanje, organizaciju poslova vezanih za vozni park, parkirni prostor i organizaciju vanjske dostave, stručne poslove iz područja zaštite na radu i protupožarne zaštite Ministarstva te obavlja i druge poslove u okviru djelokruga Glavnog tajništva.
+U Službi se ustrojavaju sljedeći odjeli:
+2.3.2.1. Odjel za opće poslove i pisarnicu
+2.3.2.2. Odjel za tehničke poslove i vozni park.
+2.3.2.1. Odjel za opće poslove i pisarnicu
