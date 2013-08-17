@@ -1,0 +1,4 @@
+# Članak 53.
+(1) Od odredbi ovoga Pravilnika, glede veterinarsko-zdravstvenih uvjeta, propisanog broja stručnih djelatnika i broja potrebitih pojedinih prostorija, sukladno obujmu poslova i zadaća, izuzimaju se veterinarske stanice i ambulante koje su do dana stupanja na snagu ovoga Pravilnika obavljale zdravstvenu zaštitu životinja i veterinarsku djelatnost, ili osnivaju istu djelatnost na pojedinim otocima i područjima nerazvijenog stočarstva, bez ekonomske osnove i uvjeta za rad te obavljanje veterinarske djelatnosti.
+(2) Procjenu uvjeta, poslova i zadaća iz stavka 1. ovoga članka obaviti će stručno povjerenstvo, koje imenuje čelnik Uprave.
+(3) Na prijedlog i uz posebno obrazloženje stručnog povjerenstva čelnik Uprave donosi rješenje o udovoljavanju minimalno potrebitim uvjetima za obavljanje veterinarske djelatnosti na područjima iz stavka 1. ovoga članka.

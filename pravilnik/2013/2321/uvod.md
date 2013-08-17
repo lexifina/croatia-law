@@ -1,0 +1,1 @@
+Na temelju članka 107. stavka 9., članka 109. stavka 6., članka 115. stavka 6., članka 117. stavka 3. i članka 124. stavka 3. Zakona o veterinarstvu (»Narodne novine« broj 82/13), ministar poljoprivrede, donosi
