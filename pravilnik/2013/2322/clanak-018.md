@@ -1,0 +1,2 @@
+# Članak 18.
+Imunizaciji protiv difterije obvezno podliježu osobe u dobi od navršena dva mjeseca do navršenih 18 godina. Ako se difterija pojavi u epidemijskom obliku, imunizaciji protiv difterije podliježu i osobe u dobi iznad 18 godina koje mogu biti izložene opasnosti od zaraze. Imunizacija protiv difterije djece starije od sedam godina obavlja se cjepivom koje je prilagođeno starijoj djeci i adolescentima.

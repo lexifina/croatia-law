@@ -1,0 +1,4 @@
+# Članak 16.
+(1) Imunizacija protiv tuberkuloze obavlja se cjepivom BCG, koje se daje intradermalno u predio deltoidnog mišića lijeve nadlaktice, u dozi od 0,1 ml suspenzije. Novorođenčad se cijepi na isti način, samo što se primjenjuje BCG cjepivo s upola manjom dozom od prethodnog.
+(2) Imunizacija djece u prvoj godini života obavlja se bez prethodnog tuberkulinskog testiranja, a svih ostalih osoba koje podliježu imunizaciji, uz prethodno testiranje tuberkulinom. Testiranje se obavlja intradermalnim uštrcavanjem 0,l ml tuberkulina (2 tuberkulinske jedinice PPD) u prednju stranu lijeve podlaktice. Cijepe se samo osobe koje nakon unošenja tuberkulina negativno reagiraju (transverzalni promjer induracije u koži manje od 6 mm).
+2. Imunizacija protiv bolesti uzrokovane Haemophilus-om influenzae tip b

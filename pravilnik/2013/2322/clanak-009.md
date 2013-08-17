@@ -1,0 +1,2 @@
+# Članak 9.
+Kad protekne 28 dana od završetka imunizacije protiv određenih zaraznih bolesti, može se početi imunizacija protiv drugih zaraznih bolesti. Poslije imunizacije protiv tuberkuloze, imunizacija protiv drugih zaraznih bolesti može početi kad proteknu 42 dana. U slučaju epidemioloških indikacija, razmak između dva cijepljenja može biti i kraći, o čemu mišljenje daje Služba za epidemiologiju Hrvatskog zavoda za javno zdravstvo.
