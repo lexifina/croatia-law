@@ -1,0 +1,2 @@
+# Članak 1.
+Ovom Odlukom o načinu i postupku vođenja razdvojenog računovodstva energetskih subjekata (u daljnjem tekstu: Odluka) utvrđuje se način i postupak vođenja razdvojenog računovodstva te razdvojenog praćenja poslovnih događaja, pravila za posebno i odvojeno vođenje poslovnih knjiga, razdvajanje računa imovine, kapitala, obveza, prihoda i rashoda te forma, sadržaj i dostava financijskih izvještaja energetskih subjekata za potrebe regulacije energetskih djelatnosti.
