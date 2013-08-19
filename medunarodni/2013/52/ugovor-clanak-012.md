@@ -1,0 +1,22 @@
+# Članak 12.
+ZAŠTITA OSOBNIH PODATAKA
+Međusobna razmjena osobnih podataka između nadležnih tijela stranaka provodi se u skladu s relevantnim nacionalnim zakonodavstvom stranaka, uz primjenu uvjeta koje određuje nadležno tijelo stranke koja iste dostavlja te u skladu s načelima koja se primjenjuju i za automatsku i neautomatsku obradu podataka:
+1. Dostavljeni podaci ne smiju se koristiti u svrhe za koje nisu prvotno namijenjeni bez suglasnosti tijela koje ih dostavlja.
+2. Dostavljene podatke treba uništiti ili ispraviti ako:
+- se utvrdi da su podaci netočni;
+- nadležno tijelo stranke koja podatke dostavlja obavijesti nadležno tijelo stranke koja ih prima da su podaci prikupljeni ili dostavljeni na nezakonit način, te
+- podaci više nisu potrebni u svrhu za koju su dostavljeni, osim u slučajevima kad nadležno tijelo stranke koja podatke dostavlja da suglasnost da se podaci koriste i u druge svrhe.
+3. Nadležno tijelo stranke koja podatke prima, na zahtjev nadležnog tijela stranke koja ih dostavlja, dostavlja informacije o korištenju podataka.
+4. Nadležno tijelo stranke koja podatke dostavlja potvrđuje da su dostavljeni podaci točni, potrebni i ažurirani. Ako se naknadno utvrdi da su pribavljeni podaci netočni ili pogrešni ili nisu trebali biti dostavljeni, ili u slučaju da postoji obveza kasnijeg uništavanja podataka u skladu s nacionalnim zakonodavstvom stranke koja ih dostavlja ili prima, odmah se obavještava nadležno tijelo stranke koja ih dostavlja ili nadležno tijelo stranke koja ih prima kako bi ih uništilo ili kako bi napravilo odgovarajuće izmjene u skladu s točkom 2. ovog članka.
+5. Nadležno tijelo stranke koja podatke prima dužno je štititi dostavljene podatke od neovlaštenog pristupa, izmjena ili raspačavanja. Stranke poduzimaju potrebne tehničke i organizacijske mjere za zaštitu svih razmijenjenih podataka od slučajnog gubitka, slučajnog ili nezakonitog uništavanja, neovlaštenog pristupa, promjene, distribucije, uništavanja ili brisanja.
+6. U slučaju neovlaštenog pristupa ili raspačavanja dostavljenih podataka, nadležno tijelo stranke koja ih prima odmah obavještava nadležno tijelo stranke koja ih dostavlja o okolnostima vezanim uz neovlašten pristup ili raspačavanje, kao i vezano uz mjere poduzete za sprječavanje takvih događaja u budućnosti.
+7. Nadležno tijelo stranke koja podatke dostavlja i nadležno tijelo stranke koja ih prima dužni su voditi evidenciju o dostavljanju, primanju, izmjenama ili uništavanju podataka.
+8. Nadležno tijelo stranke koja podatke dostavlja, u skladu sa svojim nacionalnim zakonodavstvom, obavještava o roku u kojem dostavljeni podaci trebaju biti uništeni, kao i o ograničenjima vezanim uz njihovo korištenje, brisanje ili uništavanje, uključujući i moguća ograničenja pristupa. U slučaju da se potreba za takvim ograničenjima utvrdi nakon slanja podataka, stranke se o tom dodatno obavještavaju.
+9. Na pisani zahtjev osobe čiji su podaci dostavljeni ili se dostavljaju, navedena osoba se obavješćuje o dostavljenim podacima i o svrhama u koje se oni koriste, pod uvjetom da je to u skladu s nacionalnim zakonodavstvom stranaka. Ako osoba na koju se podaci odnose podnese zahtjev za pristup, izmjenu ili uništavanje dostavljenih podataka, nadležno tijelo stranke koja podatke prima donosi odluku u skladu s izjavom nadležnog tijela stranke koja ih dostavlja te u tom slučaju takva izjava treba biti u skladu s važećim nacionalnim zakonodavstvom stranke koja podatke dostavlja.
+10. Nadležno tijelo stranke koja je primila zahtjev za dostavljanje podataka od državljanina druge stranke dužno je odmah, a prije dostavljanja takvih podataka, obavijestiti nadležno tijelo druge stranke.
+11. Podaci se mogu dostavljati i trećoj strani, ali samo uz pisanu suglasnost nadležnog tijela stranke koja ih dostavlja.
+12. Dostavljanje podataka može se odbiti u slučaju kad bi se takvim dostavljanjem ugrozila nacionalna sigurnost ili javni red.
+13. Stranke poduzimaju sve potrebne mjere u skladu sa svojim nacionalnim zakonodavstvom kako bi se izbjegla bilo kakva šteta za treću stranu koja je rezultat dostavljanja, primanja ili korištenja podataka, te kako bi se otklonili preduvjeti koji bi doveli do mogućih nepovoljnih posljedica.
+14. Ako stranka koja podatke prima ne postupi u skladu s odredbama ovog članka, stranka koja podatke dostavlja može zahtijevati brisanje ili uništavanje dostavljenih podataka.
+Poglavlje IV.
+ZAVRŠNE ODREDBE
