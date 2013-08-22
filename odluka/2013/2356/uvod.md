@@ -1,0 +1,1 @@
+Na temelju članka 5., članka 6. stavka 1. i članka 107. stavka 8. Zakona o lokalnim izborima (»Narodne novine«, broj 144/2012), Vlada Republike Hrvatske je na sjednici održanoj 1. kolovoza 2013. godine donijela
