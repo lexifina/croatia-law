@@ -1,0 +1,2 @@
+OBRASCI
+105 21.08.2013 Obvezatne upute broj DLS II (ODLS-1 do ODLS-13) - o obrascima za postupak kandidiranja i provedbu dopunskih izbora za članove predstavničkih tijela jedinica lokalne i područne (regionalne) samouprave iz reda pripadnika nacionalne manjine 105 21.08.2013 Obvezatne upute broj DLS II (ODLS-1 do ODLS-13) - o obrascima za postupak kandidiranja i provedbu dopunskih izbora za članove predstavničkih tijela jedinica lokalne i područne (regionalne) samouprave iz reda pripadnika nacionalne manjine
