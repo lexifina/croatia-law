@@ -1,0 +1,1 @@
+Na temelju članka 27. st. 2. i 8. Zakona o financiranju političkih aktivnosti i izborne promidžbe (»Narodne novine«, broj 24/11, 61/11, 27/13 i 48/13 - pročišćeni tekst u daljnjem tekstu: Zakon o financiranju), Državno izborno povjerenstvo Republike Hrvatske propisuje

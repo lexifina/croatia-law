@@ -1,0 +1,1 @@
+Obvezatne upute broj FDM 1 - o obliku suradnje Državnog izbornog povjerenstva Republike Hrvatske i nadležnih izbornih povjerenstava u provedbi nadzora financiranja izborne promidžbe te pravima i obvezama sudionika provedbe nadzora financiranja izborne promidžbe na prijevremenim i dopunskim lokalnim izborima koji će se održati 22. rujna 2013.
