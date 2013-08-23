@@ -1,0 +1,94 @@
+PRILOG I. - PRILOG V.
+PRILOG VI.
+Popis novih pomagala, pribora i opreme koja se koristi u pčelarstvu za koju je moguće podnijeti zahtjev za sufinanciranje:
+- košnice
+- dijelovi košnica
+- podnice, hranilice, krovovi, bježalice, snelgrove daske, matične rešetke, vratašca, spojka, ručka za košnice, satne osnove
+- ometač pčela s okvira
+- sakupljač cvjetnog praha
+- čistač cvjetnog praha
+- mlin za cvjetni prah
+- sušionik za cvjetni prah
+- vrcaljka
+- odgovarajuća posuda za skladištenje i punjenje meda, matične mliječi, cvjetnog praha, propolisa, pčelinjeg voska i pčelinjeg otrova (staklena ambalaža (staklenke za med različitog volumena i staklene bočice raznog volumena), inox kante (posude) i bačve, plastične kante (posude) i bačve)
+- posuda za cijeđenje
+- separator meda, voska i matične mliječi
+- dekristalizator
+- elektronske vage i njihova oprema
+- agregat
+- posuda (korito) za otklapanje saća
+- otklapač saća
+- parni topionik voska
+- preša
+- sunčani topionik voska
+- posuda za pročišćavanje voska
+- posuda za zagrijavanje i raskuživanje voska
+- kalup za lijevanje satnih osnova
+- inkubator za proizvodnju matica
+- pribor za uzgoj i označavanje matica
+- matičnjak (PVC)
+- igle za presađivanje ličinki (inox, PVC)
+- pribor za obilježavanje matica (opalitne pločice - brojevi, ljepilo, tuljak - mrežica za označavanje, flomasteri - boje za označavanje)
+- transportni i kavezi za dodavanje matica (PVC, drveni)
+- kavez za matičnjak (za leženje matica)
+- inkubator za matice
+- oplodnjaci
+- setovi za uzgoj matica - jenter, nicot
+- izolator
+- uređaj za umjetnu insiminaciju (oplodnju) matica
+- hvatač matice - staklena lulica
+- lupa za presađivanje
+- kalupi za izradu matične osnove
+- mlin za šećer
+- miješalica za pogače
+- dlijeta
+- žica za žičenje okvira
+- vilice za otklapanje saća
+- nož za otklapanje sača
+- stol za otklapanje saća
+- razmaci okvira za AŽ košnicu
+- kopče i stege za selidbu
+- pčelarske košulje i kombinezoni
+- pčelarske rukavice
+- dimilice
+- cjedila za med
+- okviri
+- nukleusi
+- pčelarska četka
+- kliješta za vađenje okvira
+- sipaonik za pčele
+- stalak (i taca) za okvire prilikom pregleda
+- transformatori za utapanje satne osnove
+- grijači za med
+- kutija za paketne rojeve (multiboks)
+- ručni viličar
+- nastavci
+- rešetke za pelud (PVC skidač peluda)
+- elektro motor i/ili elektro upravljačka jedinica za vrcaljke
+- ventilacijske mreže
+- mrežice za skupljanje propolisa.
+- refraktometar
+- pojilica
+- pipa za med (slavina)
+- dijelovi vrcaljke (koš, kazete)
+- mjeh za dimilicu
+- skidač roja (hvatač roja)
+- zatvarač leta (metalni češljevi)
+- zbjeg
+- brojevi za košnice
+- stalak za sita
+- američki koturić
+- zatezač žice (španer)
+- sakupljač otrova
+- bušilica za okvire (s jednom i više bušećih glava)
+- kalup za izradu satih osnova
+- posuda za sterilizaciju voska
+- APILIFT (dizalica za nastavke)
+- automatski aplikator (dozator) za liječenje pčela
+- usisavač za matičnu mliječ
+- pneumatske klamerice (pištolji) za sastavljanje dijelova pčelarske opreme (okvira, nastavaka, podnica)
+- zračni kompresori za pogon klamerica (mogu biti raznog volumena)
+- pumpe za med
+- električni pastir
+- poklopna daska.
+106 23.08.2013 Pravilnik o uvjetima i načinu provedbe posebnih mjera pomoći za sektor pčelarstva u 2014. godini prema Nacionalnom pčelarskom programu za razdoblje od 2014. od 2016. godine 106 23.08.2013 Pravilnik o uvjetima i načinu provedbe posebnih mjera pomoći za sektor pčelarstva u 2014. godini prema Nacionalnom pčelarskom programu za razdoblje od 2014. od 2016. godine 106 23.08.2013 Pravilnik o uvjetima i načinu provedbe posebnih mjera pomoći za sektor pčelarstva u 2014. godini prema Nacionalnom pčelarskom programu za razdoblje od 2014. od 2016. godine 106 23.08.2013 Pravilnik o uvjetima i načinu provedbe posebnih mjera pomoći za sektor pčelarstva u 2014. godini prema Nacionalnom pčelarskom programu za razdoblje od 2014. od 2016. godine 106 23.08.2013 Pravilnik o uvjetima i načinu provedbe posebnih mjera pomoći za sektor pčelarstva u 2014. godini prema Nacionalnom pčelarskom programu za razdoblje od 2014. od 2016. godine
