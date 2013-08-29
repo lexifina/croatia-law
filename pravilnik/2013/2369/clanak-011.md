@@ -1,0 +1,9 @@
+## Pravo na otkup udjela
+# Članak 11.
+(1) Imatelj udjela u AIF-u prenositelju može tražiti:
+1. da AIF prenositelj otkupi njegove udjele, pri čemu imatelj udjela nije dužan platiti izlaznu naknadu,
+2. da UAIF koji upravlja AIF-om prenositeljem zamjeni njegove udjele u AIF-u prenositelju za udjele drugog AIF-a slične strategije ulaganja kojim upravlja taj UAIF ili neki drugi UAIF s kojim je taj UAIF povezan zajedničkom upravom ili kontrolom, ili značajnim izravnim ili neizravnim međusobnim vlasničkim udjelom. U tom se slučaju ne naplaćuju izlazna i ulazna naknada.
+(2) Imatelj udjela u AIF-u preuzimatelju može tražiti:
+1. da AIF preuzimatelj otkupi njegove udjele, pri čemu imatelj udjela nije dužan platiti izlaznu naknadu,
+2. da UAIF koji upravlja AIF-om preuzimateljem zamjeni njegove udjele u AIF-u preuzimatelju za udjele drugog AIF-a slične strategije ulaganja kojim upravlja to društvo za upravljanje ili neko drugo društvo s kojim je taj UAIF ili neki drugi UAIF s kojim je taj UAIF povezan zajedničkom upravom ili kontrolom, ili značajnim izravnim ili neizravnim međusobnim vlasničkim udjelom. U tom se slučaju ne naplaćuju izlazna i ulazna naknada.
+(3) Imatelji udjela imaju pravo na otkup udjela pod uvjetima iz stavaka 1. i 2. ovoga članka od dana primitka obavijesti iz članka 8. ovoga Zakona, s time da to pravo prestaje zabranom daljnjeg izdavanja ili otkupa udjela u skladu s odredbama članka 12. stavka 1. ovoga Pravilnika.
