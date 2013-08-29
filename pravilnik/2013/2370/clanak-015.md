@@ -1,0 +1,5 @@
+## Nezavisnost članova nadzornog odbora
+# Članak 15.
+(1) Ako se udjeli zatvorenog AIF-a s vanjskim UAIF-om nude javnom ponudom, nadzorni odbor tog AIF-a treba biti sastavljen većinom od nezavisnih članova koji nisu u poslovnim, obiteljskim i drugim vezama s UAIF-om, većinskim dioničarom ili grupom većinskih dioničara ili članovima uprave ili nadzornog odbora UAIF-a ili većinskog dioničara.
+(2) Poslovno povezana osoba u odnosu na člana nadzornog odbora zatvorenog AIF-a s vanjskim UAIF-om iz stavka 1. ovog članka je svaka osoba koja udovoljava uvjetima iz članka 3. stavka 1. točke 20. do 22. Zakona.
+(3) Obiteljski povezana osoba u odnosu na člana nadzornog odbora zatvorenog AIF-a s vanjskim UAIF-om iz stavka 1. ovog članka je bračni drug ili osoba s kojom duže vrijeme živi u zajedničkom kućanstvu koje, prema zakonu koji uređuje bračnu zajednicu i obiteljske odnose, ima zakonski položaj jednak onome koji ima bračna zajednica, djeca ili posvojena djeca i ostale osobe koje su pod skrbništvom te osobe.

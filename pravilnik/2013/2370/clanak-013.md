@@ -1,0 +1,4 @@
+## OSTALI UVJETI ZA ČLANOVE UPRAVE I NADZORNOG ODBORA UAIF-a
+# Članak 13.
+(1) Ukoliko se zahtjev za izdavanje suglasnosti za obavljanje funkcije člana uprave UAIF-a odnosi na kandidata za člana uprave UAIF-a čije su djelatnosti iz članka 13. stavka 1. točke 2. Zakona, zahtjev za izdavanje suglasnosti za obavljanje funkcije člana uprave UAIF-a podnosi se, osim uz pridržavanje odredbi Zakona i ovog Pravilnika, i uz pridržavanje odredbi zakona kojim se uređuje osnivanje i upravljanje otvorenim investicijskim fondovima s javnom ponudom te propisa donesenih na temelju tog zakona.
+(2) Ukoliko UAIF ima odobrenje za obavljanje djelatnosti iz članka 13. stavka 1. točke 2. Zakona, prilikom imenovanja odnosno izbora članova nadzornog odbora UAIF-a potrebno je pridržavati se odredbi Zakona i ovog Pravilnika i zakona kojim se uređuje osnivanje i upravljanje otvorenim investicijskim fondovima s javnom ponudom te propisa donesenih na temelju tog zakona.
