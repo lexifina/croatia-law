@@ -1,0 +1,6 @@
+## AIF poduzetničkog kapitala (venture capital)
+# Članak 24.
+(1) AIF poduzetničkog kapitala (venture capital) je AIF s privatnom ponudom čija se imovina, u skladu s pravilima AIF-a, pretežito ulaže u poslovne subjekte koji su novoosnovani ili su u početnim fazama poslovanja, a prema procjeni UAIF-a pokazuju potencijal za rast i širenje poslovanja.
+(2) Ulaganja AIF-a poduzetničkog kapitala u poslovne subjekte iz stavka 1. ovoga članka moraju biti u obliku vlasničkih instrumenata ili instrumenata nalik vlasničkim instrumentima.
+(3) Kao moguća dopuna vlasničkim instrumentima i instrumentima nalik vlasničkim, ali ne i zamjena za njih, iz imovine AIF-a poduzetničkog kapitala dozvoljeno je davati osigurane ili neosigurane zajmove kao što je financiranje premošćivanja (bridge financing), koji su odobreni od strane AIF-a isključivo poduzetničkog kapitala isključivo poslovnom subjektu iz stavka 1. ovoga članka u kojeg je AIF poduzetničkog kapitala već uložio, pod uvjetom da se za takve zajmove ne upotrebljava više od 30% veličine AIF-a poduzetničkog kapitala.
+(4) Udjeli AIF-a poduzetničkog kapitala smiju se nuditi ulagateljima iz članka 4. stavka 2. ovoga Pravilnika, a iznimno od članka 5. stavka 1. točke a) ovoga Pravilnika uplata može biti i višekratna.

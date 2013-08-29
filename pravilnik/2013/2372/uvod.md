@@ -1,0 +1,1 @@
+Na temelju odredbe članka 7. stavka 8. Zakona o alternativnim investicijskim fondovima (»Narodne novine« broj 16/2013, dalje: Zakon), Hrvatska agencija za nadzor financijskih usluga (dalje: Agencija) na sjednici Upravnog vijeća održanoj 2. kolovoza 2013. godine donijela je
