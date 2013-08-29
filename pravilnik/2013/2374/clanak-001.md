@@ -1,0 +1,2 @@
+# Članak 1.
+U Pravilniku o vrstama i obilježjima imovine za pokriće tehničkih pričuva, pravilima za disperziju i ograničenje ulaganja imovine za pokriće tehničkih pričuva, njihovom vrednovanju, usklađenosti, pravilima za upotrebu izvedenih financijskih instrumenata te načinu i rokovima izvješćivanja (»Narodne novine« broj 119/09, 155/09, 1/12, 39/12 i 79/13; dalje u tekstu: Pravilnik) u članku 34. stavku 2. riječi »u članku 28.« zamjenjuju se riječima »u članku 24.«.

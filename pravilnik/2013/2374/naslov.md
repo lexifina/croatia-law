@@ -1,0 +1,1 @@
+Pravilnik o izmjenama Pravilnika o vrstama i obilježjima imovine za pokriće tehničkih pričuva, pravilima za disperziju i ograničenje ulaganja imovine za pokriće tehničkih pričuva, njihovom vrednovanju, usklađenosti, pravilima za upotrebu izvedenih financijskih instrumenata te načinu i rokovima izvješćivanja
