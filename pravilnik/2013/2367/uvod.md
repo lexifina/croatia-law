@@ -1,0 +1,1 @@
+Na temelju članka 126. stavka 4., članka 210. stavka 1. i članka 251. stavka 3. Zakona o alternativnim investicijskim fondovima (»Narodne novine« broj 16/2013, dalje: Zakon), Hrvatska agencija za nadzor financijskih usluga (dalje: Agencija) na sjednici Upravnog vijeća održanoj 9. kolovoza 2013. godine donosi
