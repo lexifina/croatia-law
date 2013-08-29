@@ -1,0 +1,2 @@
+# Članak 4.
+Kada se udjeli AIF-a osnovanog u Republici Hrvatskoj ili drugoj državi članici nude malim ulagateljima u Republici Hrvatskoj, na odgovarajući način se primjenjuju odredbe zakona koji uređuje osnivanje i rad otvorenih investicijskih fondova s javnom ponudom i propisa donesenih na temelju istog, a vezano za izradu i objavu prospekta i pravila, dostavljanje prospekta i pravila ulagatelju, nuđenje udjela i oglašavanje, te izradu, objavu i dostavu svih informacija, izvještaja i podataka, koji se trebaju učiniti dostupnima ulagateljima.
