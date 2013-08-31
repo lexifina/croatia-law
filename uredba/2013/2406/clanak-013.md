@@ -1,0 +1,2 @@
+# Članak 13.
+Tijela državne uprave i druge pravne osobe s javnim ovlastima iz Priloga II. ove Uredbe osiguravaju podatke o djelatnostima i emisijama po sektorima potrebnim za izradu proračuna emisija onečišćujućih tvari iz članka 4. stavka 1. ove Uredbe na području Republike Hrvatske, prema programu iz članka 11. stavka 1. podstavka 1. ove Uredbe i dostavljaju Agenciji, do 30. rujna sljedeće kalendarske godine u elektronskom obliku.

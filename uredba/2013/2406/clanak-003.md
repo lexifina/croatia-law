@@ -1,0 +1,2 @@
+# Članak 3.
+Emisijska kvota za određene onečišćujuće tvari u zraku određuje se u svrhu ograničavanja emisija određenih onečišćujućih tvari u zraku na području Republike Hrvatske kako bi se poboljšala zaštita okoliša i ljudskog zdravlja od rizika nepovoljnih učinaka zakiseljivanja, eutrofikacije i fotokemijskog onečišćenja te ostvarenja dugoročnih ciljeva kojima se postiže ne prekoračivanje kritičnih opterećenja i kritičnih razina.
