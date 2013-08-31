@@ -1,0 +1,5 @@
+## Uvećanje naknade za nusproizvode K1 i K2
+# Članak 6.
+(1) Ako koncesionar odnosno pravna ili fizička osoba iz članka 101. stavka 2. Zakona o veterinarstvu (»Narodne novine«, broj 82/13.) s kojom koncesionar ima sklopljen podugovor o sakupljanju nusproizvoda K1 i K2 tijekom sakupljanja nusproizvoda K1 i K2 utvrde da su nusproizvodi promijenjeni zbog raspadanja ili kvarenja, zbog neodgovarajućeg skladištenja i postupanja s nusproizvodima prije sakupljanja, proizvođač nusproizvoda je obvezan platiti naknadu iz članka 4. ovoga Pravilnika uvećanu za 50%.
+(2) Promjene na nusproizvodima iz stavka 1. ovoga članka evidentira koncesionar odnosno pravna ili fizička osoba iz stavka 1. ovoga Pravilnika u komercijalnom dokumentu i računalnoj aplikaciji iz članka 7. ovoga Pravilnika.
+(3) Naknada iz članaka 4. i 5. ovoga Pravilnika uvećava se za 20% ako se sakupljanje, prerada i spaljivanje nusproizvoda obavlja nedjeljom i u dane državnih blagdana na zahtjev proizvođača nusproizvoda ili Ministarstva.
