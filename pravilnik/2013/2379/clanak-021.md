@@ -1,0 +1,9 @@
+## Pristup transportnoj mreži i skladišnim geoprostorima
+# Članak 21.
+(1) Ministarstvo putem Agencije poduzima potrebne mjere kako bi potencijalnim korisnicima osiguralo mogućnost pristupa transportnim mrežama i podzemnim skladištima u svrhu trajnog zbrinjavanja plinova u geološkim strukturama, u skladu sa stavcima 2., 3. i 4. ovoga članka.
+(2) Pristup iz stavka 1. osigurava se transparentno i bez diskriminacije, kako to odredi Ministarstvo. Ministarstvo primjenjuje ciljeve poštenog i otvorenog pristupa, uzimajući u obzir:
+a) skladišni kapacitet koji je dostupan ili je razumno očekivati da postane dostupan na područjima određenim prema odredbama članka 4., članka 5. i članka 6. ovoga Pravilnika i transportni kapacitet koji je dostupan ili je razumno očekivati da postane dostupan,
+b) potrebu da uskrati pristup u slučaju nekompatibilnosti tehničkih specifikacija koju nije moguće prevladati na razuman način,
+c) nužnost poštivanja propisno obrazloženih razumnih potreba vlasnika i/ili Koncesionara podzemnog skladišta i/ili transporte mreže i interesa svih drugih korisnika podzemnog skladišta ili mreže ili relevantne opreme i postrojenja za obradu i rukovanje na koje bi to moglo imati utjecaja.
+(3) Operatori transportne mreže i Koncesionari podzemnih skladišta mogu uskratiti pristup na temelju nedostatnih kapaciteta. Svako uskraćivanje pristupa treba propisno obrazložiti.
+(4) Ministarstvo putem Agencije poduzima potrebne mjere kako bi osiguralo da Koncesionar podzemnog skladišta koji uskraćuje pristup na temelju nedostatnih kapaciteta ili nedostatka priključka poduzme sva moguća poboljšanja koliko je to ekonomski opravdano ili ako ih je potencijalni kupac voljan platiti, pod uvjetom da to nema štetan utjecaj na sigurnost transporta i trajnog zbrinjavanja plinova u pogledu zaštite prirode, okoliša i zdravlja ljudi.

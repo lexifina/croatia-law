@@ -1,0 +1,1 @@
+Na temelju članka 56. stavka 2. Zakona o rudarstvu (»Narodne novine«, broj 56/2013) i odredbi Zakona o istraživanju i eksploataciji ugljikovodika (»Narodne novine«, broj 94/2013) ministar gospodarstva donosi

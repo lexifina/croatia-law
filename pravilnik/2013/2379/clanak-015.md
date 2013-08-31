@@ -1,0 +1,11 @@
+## Inspekcije
+# Članak 15.
+(1) Inspekcije organiziraju sustav rutinskih i drugih inspekcija u svrhu provjeravanja i promicanja poštivanja zahtjeva izdane Dozvole za istraživanje i/ili Dozvole za skladištenje i nadzora učinaka na prirodu, okoliš i zdravlje ljudi.
+(2) Inspekcije trebaju obuhvatiti aktivnosti kao što su pregledi obavljenih radova u skladu s izdanom Dozvolom za istraživanje i/ili Dozvolom za skladištenje, a isto uključuje površinska postrojenja, uključujući postrojenja za utiskivanje, procjene radova, operacija utiskivanja i nadzora koje provodi Investitor i/ili Koncesionar i provjera cjelokupne relevantne evidencije koju vodi Investitor i/ili Koncesionar.
+(3) Rutinske inspekcije provode se najmanje dva puta godišnje a isto se utvrđuje izdanom Dozvolom za istraživanje i/ili Dozvolom za skladištenje, tijekom tri godine nakon zatvaranja i jednom u pet godina sve dok odgovornost ne prijeđe na Agenciju. U tim se inspekcijama kontroliraju svi relevantni radovi, sva relevantna postrojenja za utiskivanje i nadzor kao i cijeli niz relevantnih učinaka skladišnog kompleksa na prirodu, okoliš i zdravlje ljudi.
+(4) Inspekcije koje nisu rutinske provode se:
+a) ako su Ministarstvo i/ili Agencija i/ili nadležna državna tijela obaviješteni ili je došlo do spoznaje o propuštanju ili većim nepravilnostima u skladu s odredbama ovoga Pravilnika,
+b) ako izvješća ukazuju na nedostatno poštivanje uvjeta iz izdane Dozvole za istraživanje i/ili Dozvole za skladištenje,
+c) radi istrage o ozbiljnim pritužbama u pogledu prirode, okoliša ili zdravlja ljudi,
+d) u drugim situacijama ako Ministarstvo i/ili Agencija i/ili nadležna državna tijela i/ili inspekcije to smatraju potrebnim.
+(5) Nakon svake inspekcije sastavljaju se izvješća o rezultatima inspekcije i dostavljaju Ministarstvu i Agenciji u roku ne dužem od 7 dana. U izvješću se procjenjuje poštivanje zahtjeva propisanih Zakonom o rudarstvu, ovim Pravilnikom i izdanom Dozvolom za istraživanje i/ili Dozvolom za skladištenje i navodi je li daljnja akcija potrebna ili ne. Izvješće se dostavlja dotičnom Investitoru i/ili Koncesionaru i stavlja na raspolaganje javnosti u skladu s odredbama propisa kojima se uređuje pravo na pristup informacijama u roku od dva mjeseca nakon inspekcije.

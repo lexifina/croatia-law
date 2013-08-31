@@ -1,0 +1,6 @@
+## Odabir skladišnog prostora
+# Članak 5.
+(1) Republika Hrvatska zadržava pravo da odredi područja na kojima je moguće trajno zbrinjavanje plinova u geološkim strukturama, sukladno Zakonu o rudarstvu, Zakonu o istraživanju i eksploataciji ugljikovodika i ovim Pravilnikom. To uključuje pravo Republike Hrvatske da na cijelom svojem teritoriju ili nekim dijelovima toga teritorija uopće ne dozvoli trajno zbrinjavanje plinova.
+(2) Ako se na teritoriju Republike Hrvatske planira dozvoliti trajno zbrinjavanje plinova, treba provesti procjenu skladišnih kapaciteta koji su dostupni na njezinom teritoriju ili nekim dijelovima toga teritorija, što obuhvaća i procjenu na način da se dozvoli provođenje istraživanja u skladu s člankom 6. ovoga Pravilnika.
+(3) Da li je neka geološka struktura pogodna da se upotrijebi kao podzemno skladište određuje se karakterizacijom i procjenom potencijalnoga skladišnog kompleksa i okolnoga područja u skladu s kriterijem navedenim u Prilogu I. ovoga Pravilnika koji je tiskan uz ovaj Pravilnik i čini njegov sastavni dio.
+(4) Geološka struktura može se odabrati kao podzemno skladište samo ako u predloženim uvjetima uporabe nema većeg rizika istjecanja plina i ako ne postoji značajni rizik za prirodu, okoliš i zdravlje ljudi.
