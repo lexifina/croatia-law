@@ -1,0 +1,1 @@
+Na temelju članka 57.a Zakona o znanstvenoj djelatnosti i visokom obrazovanju (»Narodne novine«, br. 123/2003, 105/2004, 174/2004, 2/2007 - Odluka Ustavnog suda Republike Hrvatske, 46/2007, 45/2009, 63/2011 i 94/2013), Vlada Republike Hrvatske je na sjednici održanoj 29. kolovoza 2013. godine donijela
