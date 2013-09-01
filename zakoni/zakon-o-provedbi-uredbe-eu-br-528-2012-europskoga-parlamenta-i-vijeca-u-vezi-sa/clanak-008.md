@@ -1,0 +1,6 @@
+## Zahtjev za izdavanje nacionalnog odobrenja za biocidni proizvod i obavijest o biocidnom proizvodu
+# Članak 8.
+(1) Zahtjev za izdavanje nacionalnog odobrenja za biocidni proizvod, zahtjev za obnovu nacionalnog odobrenja, zahtjev za ukidanje, preispitivanje i izmjenu nacionalnog odobrenja, zahtjev za međusobno priznavanje odobrenja za biocidne proizvode te zahtjev za izdavanje nacionalnog odobrenja za paralelnu trgovinu biocidnim proizvodom koji je odobren u drugoj državi članici Europske unije (»država članica podrijetla«), podnosi se Ministarstvu na hrvatskom jeziku i latiničnom pismu.
+(2) Ministar rješenjem odlučuje o davanju nacionalnog odobrenja za biocidni proizvod, o ukidanju, preispitivanju i izmjeni nacionalnog odobrenja za biocidni proizvod, o međusobnom priznavanju odobrenja za biocidne proizvode te o nacionalnom odobrenju za paralelnu trgovinu biocidnim proizvodom koji je odobren u drugoj državi članici Europske unije (»država članica podrijetla«).
+(3) Odobrenje iz stavka 1. ovoga članka daje se, odnosno uskraćuje rješenjem protiv kojeg nije dopuštena žalba, već se protiv toga rješenja može pokrenuti upravni spor.
+(4) Ministar će pravilnikom pobliže propisati provedbu postupka odobravanja biocidnih proizvoda.
