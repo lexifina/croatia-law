@@ -1,0 +1,1 @@
+97 26.07.2013 Odluka o postavljanju Gordana Markotića za izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Republici Srbiji, sa sjedištem u Beogradu 97 26.07.2013 Odluka o postavljanju Gordana Markotića za izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Republici Srbiji, sa sjedištem u Beogradu
