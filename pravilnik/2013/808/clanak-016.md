@@ -1,0 +1,3 @@
+## Dodatne obveze izvještavanja o upravljanju portfeljem ili transakcijama s potencijalnim obvezama
+# Članak 16.
+Investicijsko društvo dužno je prilikom pružanja investicijske usluge upravljanja portfeljem za malog ulagatelja, ili prilikom pružanja drugih investicijskih ili pomoćnih usluga malom ulagatelju, a koje uključuju nepokrivenu otvorenu poziciju u transakciji s potencijalnim obvezama, takvog klijenta obavijestiti o svakom gubitku koji prelazi unaprijed određeni prag, dogovoren između investicijskog društva i klijenta, ne kasnije od kraja radnog dana u kojem je prag prijeđen, ili u slučaju da je prag prijeđen na neradni dan, najkasnije do kraja sljedećeg radnog dana.

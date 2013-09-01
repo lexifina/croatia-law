@@ -1,0 +1,9 @@
+## Opći zahtjevi u svezi podataka koji se pružaju klijentima
+# Članak 7.
+(1) Investicijsko društvo dužno je na trajnom mediju ili na internetskoj stranici, ako su za to ispunjeni uvjeti propisani člankom 3. ovog Pravilnika, pravovremeno, prije sklapanja ugovora o pružanju investicijskih ili pomoćnih usluga ili prije nego što mu te usluge pruži, malom/potencijalnom malom ulagatelju pružiti:
+1. podatke o uvjetima ugovora,
+2. sve podatke iz članka 8. ovog Pravilnika a koji se odnose na ugovor ili investicijske ili pomoćne usluge koje su predmet ugovora.
+(2) Investicijsko društvo dužno je na trajnom mediju ili na internetskoj stranici, ako su za to ispunjeni uvjeti propisani člankom 3. ovog Pravilnika pravovremeno, prije no što počne pružati investicijsku ili pomoćnu uslugu malom/potencijalnom malom ulagatelju pružiti sve relevantne podatke iz članaka 8. - 10. ovog Pravilnika te one iz članka 22. stavka 8. Pravilnika o organizacijskim zahtjevima.
+(3) Investicijsko društvo dužno je na trajnom mediju ili na internetskoj stranici, ako su za to ispunjeni uvjeti propisani člankom 3. ovog Pravilnika pravovremeno, prije no što počne pružati investicijsku ili pomoćnu uslugu profesionalnom ulagatelju pružiti podatke iz članka 22. stavak 8. točka 5. i 6. Pravilnika o organizacijskim zahtjevima
+(4) Investicijsko društvo dužno je pravovremeno obavijestiti klijenta o svakoj značajnoj promjeni podataka iz članaka 8. do 10. ovog Pravilnika te članka 22. stavka 8. Pravilnika o organizacijskim zahtjevima koji su relevantni za usluge koje investicijsko društvo pruža pojedinom klijentu.
+(5) Obavijest iz stavka 4. ovog članka mora biti pružena na trajnom mediju, ako je izvorni podatak bio pružen na taj način. Ako je izvorni podatak pružen putem internetske stranice u smislu članka 3. ovog Pravilnika, umjesto na trajnom mediju, na značajne promjene u smislu stavka 4. ovog članka klijenta se može upozoriti elektroničkim putem.

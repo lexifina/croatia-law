@@ -1,0 +1,1 @@
+Na temelju članka 8. stavka 1. i članka 15. stavka 1. Zakona o Hrvatskoj agenciji za nadzor financijskih usluga (»Narodne novine«, broj 140/05, 12/12) i članka 77. Zakona o tržištu kapitala (»Narodne novine«, broj 88/08, 146/08 i 74/09), Hrvatska agencija za nadzor financijskih usluga (dalje: Agencija) na sjednici Upravnog vijeća održanoj 5. travnja 2013. donosi
