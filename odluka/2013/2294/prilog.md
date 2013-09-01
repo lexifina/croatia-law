@@ -1,0 +1,1 @@
+102 07.08.2013 Odluka o iznosu tarifnih stavki u Tarifnom sustavu za usluge energetskih djelatnosti proizvodnje, distribucije i opskrbe toplinskom energijom za energetski subjekt Plin VTC d.o.o., F. Rusana 2, Virovitica, u Gradu Virovitici
