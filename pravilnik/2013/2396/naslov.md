@@ -1,0 +1,1 @@
+Pravilnik o prestanku važenja Pravilnika o primjeni Pravilnika o higijeni hrane životinjskog podrijetla vezano za dodatna jamstva u odnosu na salmonelu za pošiljke mesa i jaja podrijetlom iz Republike Hrvatske namijenjene stavljanju na tržište Republike Finske i Kraljevine Švedske
