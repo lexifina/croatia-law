@@ -1,0 +1,1 @@
+Odluka o dijelu Programa osposobljavanja za poslove dadilje koji su dužne pohađati osobe koje imaju završenu 1., 2. ili 3. razinu visokog obrazovanja smjera: učiteljski, pedagoški, psihološki, edukacijsko-rehabilitacijski studij, studij socijalne pedagogije, studij logopedije, studij socijalnog rada i studij sestrinstva
