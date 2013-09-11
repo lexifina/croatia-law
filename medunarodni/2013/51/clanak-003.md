@@ -1,0 +1,2 @@
+# Članak 3.
+Sredstva za financijske obveze, u iznosu 25.275.000 kuna, koje nastaju za Republiku Hrvatsku na temelju Sporazuma iz članka 1. ovoga Zakona osigurana su u okviru proračunskih sredstava Ministarstva pomorstva, prometa i infrastrukture na Aktivnosti IPA IIIa 2007 - Rehabilitacija i unapređenje plovnog puta rijeke Save 2.1.1., i to kroz izvore 11, 12, 51 pozicije K810007 za 2013. godinu u iznosu od 15.300.000 kuna, dok su sredstva kroz iste izvore predviđena i u 2014. godini, i to u iznosu 9.975.000 kuna.

@@ -1,0 +1,3 @@
+# Članak 8.
+Za upravne postupke koje vode nadležna tijela Bosne i Hercegovine Ministarstvo mora, prometa i infrastrukture Republike Hrvatske dostavit će projektnu dokumentaciju putem Ministarstva komunikacija i transporta Bosne i Hercegovine nadležnim institucijama u Bosni i Hercegovini za provođenje upravnog postupka i ishođenje urbanističke suglasnosti, lokacijskih uvjeta za izdavanje građevinskih dozvola.
+Za upravne postupke koje vodi nadležno tijelo u Republici Hrvatskoj Ministarstvo komunikacija i transporta Bosne i Hercegovine dostavit će projektnu dokumentaciju Ministarstvu mora, prometa i infrastrukture Republike Hrvatske za pokretanje i provođenje upravnog postupka i ishođenje lokacijske dozvole i građevinske dozvole.

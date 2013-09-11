@@ -1,0 +1,3 @@
+# Članak 5.
+Glavni projekt izradit će se u dijelovima za pojedine faze, odnosno objekte ili grupe objekata koji čine tehničku cjelinu, a koji će se definirati lokacijskim dozvolama koje izdaju nadležna tijela u Republici Hrvatskoj za zahvat u prostoru koji se nalazi na državnom području Republike Hrvatske i urbanističkom suglasnošću / lokacijskim uvjetima koje izdaju nadležna tijela u Bosni i Hercegovini za zahvat u prostoru koji se nalazi na državnom području Bosne i Hercegovine.
+Pojedini dijelovi glavnog projekta izradit će se sukladno propisima one stranke Sporazuma na čijem državnom području se nalaze pojedini objekti ili grupe objekata.

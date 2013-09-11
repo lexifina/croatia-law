@@ -1,0 +1,2 @@
+# Članak 5.
+Na dan stupanja na snagu ovoga Zakona Sporazum iz članka 1. ovoga Zakona nije na snazi, već se privremeno primjenjuje od dana potpisivanja, te će se podatak o njegovom stupanju na snagu objaviti u skladu s odredbom članka 30. stavka 3. Zakona o sklapanju i izvršavanju međunarodnih ugovora.

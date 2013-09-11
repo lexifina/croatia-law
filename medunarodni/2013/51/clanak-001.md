@@ -1,0 +1,2 @@
+# Članak 1.
+Potvrđuje se Sporazum između Vlade Republike Hrvatske i Vijeća ministara Bosne i Hercegovine o načinu financiranja i izrade glavnog projekta te vođenja upravnih postupaka za procjenu utjecaja na okoliš, ishođenje lokacijskih dozvola, suglasnosti i građevinskih dozvola za projekt »Obnova i modernizacija vodnog puta rijeke Save od Račinovaca do Siska«, potpisan u Sarajevu 1. prosinca 2010. u izvorniku na hrvatskom jeziku i službenim jezicima Bosne i Hercegovine (bosanskom jeziku, hrvatskom jeziku i srpskom jeziku).
