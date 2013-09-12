@@ -1,0 +1,1 @@
+Obvezatne upute broj LS II i LN II - o obrascima za provedbu prijevremenih izbora za općinskog načelnika i zamjenika općinskog načelnika Općine Karlobag i članove općinskih vijeća Općine Sopje i Općine Ivanska
