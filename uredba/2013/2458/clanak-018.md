@@ -1,0 +1,5 @@
+# Članak 18.
+(1) Ako na tržištu uslijed izvanrednog događaja dođe do poremećaja u opskrbi sirovom naftom ili tekućim naftnim gorivima čije su granične vrijednosti sastavnica i značajki kvalitete utvrđene ovom Uredbom, na temelju zahtjeva dobavljača, ministarstvo nadležno za energetiku izrađuje prijedlog kojim se od Europske komisije traži dopuštenje za stavljanje na tržište Republike Hrvatske tekućih naftnih goriva čije granične vrijednosti sastavnica i značajki kvalitete nisu u skladu s odredbama ove Uredbe, za razdoblje do šest mjeseci.
+(2) Prijedlog iz stavka 1. ovoga članka, uz suglasnost Ministarstva, dostavlja se Europskoj komisiji.
+(3) O odluci Europske komisije iz stavka 1. ovoga članka ministarstvo nadležno za energetiku obavještava dobavljača.
+(4) Dobavljač može staviti na tržište Republike Hrvatske tekuća naftna goriva čije granične vrijednosti sastavnica i značajki kvalitete nisu u skladu s odredbama ove Uredbe, ako je odlukom Europske komisije iz stavka 1. ovoga članka to dopušteno.
