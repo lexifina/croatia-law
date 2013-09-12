@@ -1,0 +1,1 @@
+Na temelju članka 13. Zakona o izmjenama i dopunama Zakona o djelatnosti socijalnog rada (»Narodne novine«, br. 120/12) Upravni odbor Hrvatske komore socijalnih radnika na svojoj sjednici održanoj 4. 12. 2012. godine donio je

@@ -1,0 +1,5 @@
+# Članak 2.
+Hrvatska komora socijalnih radnika (u daljnjem tekstu: Komora) samostalna je, neovisna, strukovna organizacija sa svojstvom pravne osobe i javnim ovlastima.
+Komora predstavlja i zastupa interese magistara socijalnog rada, magistara socijalne politike i sveučilišnih prvostupnika socijalnog rada, unapređuje djelatnost socijalnog rada, te se brine za ugled i pravilno obavljanje djelatnosti socijalnog rada u Republici Hrvatskoj.
+Skrbi da oni savjesno i u skladu sa Zakonom obavljaju svoje poslove, čuva ugled, čast i prava te promiče, zastupa i usklađuje njihove zajedničke interese pred državnim i drugim tijelima u Republici Hrvatskoj i inozemstvu te im pruža stručnu pomoć i zaštitu.
+Odredbe ovoga Statuta koje se odnose na magistre socijalnog rada primjenjuju se i na diplomirane socijalne radnike i diplomirane inženjere socijalnog rada, a odredbe ovoga Statuta koje se odnose na sveučilišne prvostupnike socijalnog rada primjenjuju se i na socijalne radnike sa završenom višom školom za socijalne radnike.
