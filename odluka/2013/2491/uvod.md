@@ -1,0 +1,1 @@
+Na temelju članka 80. stavka 4. točke 2., a u svezi sa člankom 20. stavkom 8. Zakona o pomorskom dobru i morskim lukama (»Narodne novine«, br. 158/2003, 100/2004, 141/2006, 38/2006 i 123/2011), Vlada Republike Hrvatske je na sjednici održanoj 12. rujna 2013. godine donijela
