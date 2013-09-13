@@ -1,0 +1,4 @@
+## V. PRIJELAZNE I ZAVRŠNE ODREDBE
+# Članak 25.
+(1) Doktori medicine pripravnici koji su započeli pripravnički staž prije stupanja na snagu ovoga Pravilnika završit će pripravnički staž i položiti stručni ispit prema odredbama Pravilnika o pripravničkom stažu zdravstvenih radnika (»Narodne novine«, broj 2/2011 i 14/2013) i Planu i programu pripravničkog staža, temeljnog staža i sekundarijata iz Pravilnika o pripravničkom stažu zdravstvenih djelatnika (»Narodne novine«, broj 18/1994, 20/1994, 21/1995, 47/1995, 62/1996, 39/1996, 130/1999 i 11/2003).
+(2) Doktori medicine pripravnici koji su završili pripravnički staž a nisu položili stručni ispit prije stupanja na snagu ovoga Pravilnika, polažu stručni ispit prema odredbama Pravilnika o pripravničkom stažu zdravstvenih radnika (»Narodne novine«, broj 2/2011 i 14/2013).

@@ -1,0 +1,5 @@
+## II. PODRUČJE PRIMJENE
+# Članak 3.
+(1) Doktori medicine hrvatski državljani koji su upisali studijski program medicine nakon 1. srpnja 2013. godine i državljani država ugovornica EGP-a, u kojima nije propisana obveza pripravničkog staža, ne provode pripravnički staž i nemaju obvezu polaganja stručnog ispita.
+(2) Državljani država ugovornica EGP-a koji su stekli stručnu kvalifikaciju doktora medicine u trećim državama, uz dokaz o formalnoj osposobljenosti izdan u skladu sa Zakonom o reguliranim profesijama i priznavanju inozemnih stručnih kvalifikacija, obvezni su položiti stručni ispit pred ispitnom komisijom Ministarstva.
+(3) Iznimno od stavka 2. ovoga članka, doktor medicine državljanin države ugovornica EGP-a kojem je druga država ugovornica EGP-a već priznala stručnu kvalifikaciju stečenu izvan teritorija EGP-a, ne mora polagati stručni ispit uz ispunjenje uvjeta stvarnog i zakonitog obavljanja profesionalne djelatnosti na teritoriju ugovornica EGP-a u trajanju od najmanje tri uzastopne godine unutar posljednjih pet godina.

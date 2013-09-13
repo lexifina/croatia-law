@@ -1,0 +1,5 @@
+## IV. STRUČNI ISPIT
+# Članak 12.
+(1) Nakon uspješno završenog pripravničkog staža i stečenih kompetencija utvrđenih planom i programom pripravničkog staža, doktori medicine polažu stručni ispit pred ispitnom komisijom Ministarstva.
+(2) Stručni ispit mogu prijaviti i doktori medicine hrvatski državljani, državljani EGP-a i državljani trećih država koji su stručnu kvalifikaciju stekli u trećoj državi ili u državi ugovornici EGP-a, ako im je sukladno članku 11. ovoga Pravilnika priznat pripravnički staž obavljen u inozemstvu u cijelosti ili djelomično, odnosno ako obave pripravnički staž u Republici Hrvatskoj.
+(3) Državljani država ugovornica EGP-a koji su stekli stručnu kvalifikaciju u državama trećih država, a ne ispunjavaju uvjet stvarnog i zakonitog obavljanja profesionalne djelatnosti na teritoriju EGP-a najmanje tri uzastopne godine unutar posljednjih pet godina, mogu prijaviti stručni ispit ako im je sukladno članku 11. ovoga Pravilnika priznat pripravnički staž obavljen u inozemstvu u cijelosti ili djelomično, odnosno ako obave dio pripravničkog staža u Republici Hrvatskoj.
