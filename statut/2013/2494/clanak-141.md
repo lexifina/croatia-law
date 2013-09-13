@@ -1,0 +1,2 @@
+# Članak 141.
+Viši disciplinski sud će, prihvaćajući žalbu ili po službenoj dužnosti, rješenjem ukinuti presudu Disciplinskog suda i uputiti predmet Disciplinskom sudu na ponovno suđenje i odluku, ako utvrdi da postoji bitna povreda odredaba disciplinskog postupka, osim slučajeva iz čl. 146. Statuta, ili ako smatra da zbog pogrešno ili nepotpuno utvrđenog činjeničnog stanja treba naložiti novu raspravu pred Disciplinskim sudom.

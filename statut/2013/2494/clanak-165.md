@@ -1,0 +1,3 @@
+# Članak 165.
+(1) Svi odvjetnici su dužni imati elektroničku adresu i istu prijavljuju Komori. Sva pismena Komora i zborovi dostavljaju odvjetnicima elektroničkim putem na Komori prijavljenu adresu. Ako odvjetnik promijeni elektroničku adresu, dužan je o novoj adresi obavijestiti Komoru bez odgode, ali je do zaprimanja obavijesti za dostavu nadležna elektronička adresa koja je prijavljena Komori.
+(2) Izvršni odbor Komore može na poseban pisani zahtjev odvjetnika iznimno odobriti pojedinom odvjetniku nekorištenje elektroničke adrese, ako postoje za to opravdani razlozi. Taj se zahtjev mora podnijeti u roku 4 (četiri) mjeseca od dana stupanja na snagu ovog Statuta.

@@ -1,0 +1,2 @@
+# Članak 69.
+Prava i dužnosti iz čl. 60. - čl. 67. ovog Statuta na odgovarajući način se primjenjuju i na strane podružnice, osim dijelova tih odredbi kojima se regulira i dopušta upotreba oznake »odvjetnik« (npr. u odredbi o sadržaju pečata, o dvojezičnoj upotrebi riječi »odvjetnik«, o sadržaju ploče s nazivom odvjetničkog ureda) koji se ne primjenjuju na strane podružnice.

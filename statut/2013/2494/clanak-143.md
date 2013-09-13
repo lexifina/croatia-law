@@ -1,0 +1,2 @@
+# Članak 143.
+Viši disciplinski sud će, prihvaćajući žalbu ili po službenoj dužnosti, presudom preinačiti presudu Disciplinskog suda, ako utvrdi da su odlučne činjenice u presudi Disciplinskog suda pravilno utvrđene i da se s obzirom na utvrđeno činjenično stanje po pravilnoj primjeni Kaznenog zakona, Zakona o odvjetništvu, Statuta ili Kodeksa odvjetničke etike ima donijeti drugačija presuda, a prema stanju stvari i u slučaju povreda iz čl. 130. al. 2. i 3. Statuta.

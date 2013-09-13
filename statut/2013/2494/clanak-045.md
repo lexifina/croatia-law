@@ -1,0 +1,2 @@
+# Članak 45.
+Postupak u povodu zahtjeva za upis u Imenik odvjetnika prekida se ako je protiv podnositelja zahtjeva pokrenut kazneni progon zbog kaznenog djela koje bi ga činilo nedostojnim za obavljanje odvjetničkog zvanja ili ako je protiv njega zbog istog razloga, ili zbog disciplinskog djela koje bi ga činilo nedostojnim za obavljanje odvjetništva, pokrenut disciplinski postupak u tijelu ili pravnoj osobi u kojoj radi ili koje je član.

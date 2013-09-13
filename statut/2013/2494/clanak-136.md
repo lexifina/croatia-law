@@ -1,0 +1,2 @@
+# Članak 136.
+Žalba zbog pogrešno ili nepotpuno utvrđenog činjeničnog stanja ili zbog povrede Kaznenog zakona, Zakona o odvjetništvu, Statuta HOK-a ili Kodeksa odvjetničke etike, podnesena u korist disciplinskog okrivljenika, sadrži u sebi i žalbu zbog odluke o disciplinskoj mjeri, troškovima disciplinskog postupka, naknadi štete iz čl. 96. st. 1. toč. 14., te odluke o objavi presude u glasilu Komore.

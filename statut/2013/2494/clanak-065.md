@@ -1,0 +1,3 @@
+# Članak 65.
+(1) Svaki odvjetnik mora imati pečat ureda u kojemu radi. Pečat mora sadržavati oznaku »odvjetnica« ili »odvjetnik«, podatke o imenu i prezimenu, adresu ureda i pisarnice u kojoj radi ako ona nije u sjedištu ureda, a može se istaknuti i postignuti akademski stupanj i specijalizacija koju su mu priznala tijela Komore. Ako odvjetnik radi u odvjetničkom društvu ili u zajedničkom uredu, pečat mora sadržavati i skraćenu tvrtku odvjetničkog društva odnosno oznaku da se radi o zajedničkom uredu.
+(2) Odvjetnik čiji se ured ili pisarnica u kojoj radi nalazi na području na kojem je pored hrvatskog u službenoj uporabi i koji drugi jezik može u svom pečatu uz oznaku »odvjetnik« imati i prijevod te riječi na taj drugi jezik.

@@ -1,0 +1,3 @@
+# Članak 149.
+(1) Pravomoćne i izvršne odluke donesene u disciplinskom postupku izvršava sudac izvršenja.
+(2) Sudac izvršenja je sudac Disciplinskog suda kojega na dužnost suca izvršenja između svih sudaca toga suda imenuje predsjednik Disciplinskog suda na vrijeme od tri godine. Predsjednik Disciplinskog suda može imenovati jednog ili više sudaca izvršenja. Sudac izvršenja ne može biti osoba koja je u disciplinskom postupku, u kojem je donesena odluka koja se treba izvršiti, sudjelovala kao predsjednik ili član sudskog vijeća Disciplinskog suda, Višeg disciplinskog suda, predsjednik ili član Disciplinskog vijeća, Disciplinski tužitelj ili zamjenik Disciplinskog tužitelja.
