@@ -1,0 +1,6 @@
+# Članak 6.
+(1) Nakon obavljenih veterinarskih pregleda granični veterinarski inspektor izdaje ZVDU za pošiljku proizvoda kojim potvrđuje rezultate pregleda u skladu sa obrascem iz Priloga B. Uredbe Komisije (EZ) br. 136/2004 od 22. siječnja 2004. o postupcima za veterinarske preglede na graničnim inspekcijskim postajama Zajednice za proizvode koji se uvoze iz trećih zemalja (SL L 21, 28. 1. 2004., u daljnjem tekstu: Uredba (EZ) br. 136/2004).
+(2) Dokument naveden u stavku 1. ovoga članka prati pošiljku:
+- za vrijeme dok je pošiljka pod carinskim nadzorom, u kojem slučaju se navedeni dokument mora staviti u vezu s carinskim dokumentom,
+- u slučaju uvoza do mjesta odredišta u Republici Hrvatskoj odnosno na područja iz Priloga I. ovoga Pravilnika, odnosno do prvog objekta u skladu s odredbama Pravilnika o veterinarskim pregledima u prometu s državama članicama Europske unije s ciljem stvaranja jedinstvenog tržišta1 ili prvog centra ili organizacije odredišta u skladu s odredbama Pravilnika o veterinarskim i zootehničkim pregledima određenih životinja i proizvoda u prometu s državama članicama Europske unije2.
+(3) U slučaju da se pošiljka dijeli, odredbe stavaka 1. i 2. ovoga članka primjenjuju se na svaki pojedini dio.

@@ -1,0 +1,11 @@
+# Članak 16.
+(1) Nadležno tijelo dozvolit će ponovni uvoz pošiljke proizvoda podrijetlom iz područja navedenih u Prilogu I. ovoga Pravilnika, koju je treća država odbila, ako:
+(a) proizvode prati:
+- ili izvorni certifikat ili njegova preslika ovjerena od nadležnoga tijela koje ga je izdalo zajedno s detaljnim obrazloženjem odbijanja pošiljke, jamstvom da su poštovani uvjeti skladištenja i prijevoza proizvoda te izjavom da se s tim proizvodima nije manipuliralo,
+- u slučaju zapečaćenih kontejnera, potvrda koju izdaje osoba odgovorna za pošiljku kojom izjavljuje da pošiljkom nije manipulirano niti je bila istovarivana,
+(b) se odnosni proizvodi podvrgnu dokumentacijskom i identifikacijskom pregledu, a u slučajevima iz članka 20. ovoga Pravilnika i fizičkom pregledu;
+(c) se pošiljka direktno vraća, pod uvjetima iz članka 9. stavka 4. ovoga Pravilnika, u objekt podrijetla u Republici Hrvatskoj ili državi članici gdje je izdan certifikat i u slučaju provoza kroz neku drugu državu članicu, ako je pošiljku prethodno odobrio granični veterinarski inspektor granične veterinarske postaje one države članice u koju pošiljka prvo stigne i to u ime svih država članica kroz koje pošiljka prolazi.
+(2) Nadležno tijelo ne može zabraniti ponovno unošenje pošiljke proizvoda podrijetlom iz Republike Hrvatske ili Europske unije, a koju je odbila treća zemlja, ako je nadležno tijelo koje je izdalo izvornu svjedodžbu suglasno primiti pošiljku natrag i ako su ispunjeni uvjeti iz članka 16. stavka 1. ovoga Pravilnika.
+(3) U slučajevima iz stavaka 1. i 2. ovoga članka, odnosni proizvodi moraju se dalje otpremiti pod uvjetima koji osiguravaju da se prijevoz do objekta podrijetla obavi u skladu s propisanim postupkom iz članka 9. stavka 4. ovoga Pravilnika u nepropusnim prijevoznim sredstvima, identificiranim i zapečaćenim od strane nadležnog tijela na način da se plombe slome ako se kontejner otvori.
+(4) Granični veterinarski inspektor koji odobrava prijevoz mora obavijestiti nadležno tijelo u mjestu odredišta putem TRACES sustava.
+(5) Sve troškove nastale provedbom ovoga članka, uključujući i troškove inspekcije i propisanih pregleda, snosi osoba odgovorna za pošiljku ili njegov predstavnik bez prava na obeštećenje od strane Republike Hrvatske u skladu s Uredbom (EZ) br. 882/2004.
