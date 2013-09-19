@@ -1,0 +1,2 @@
+# Članak 18.
+U članku 51. stavku 1. iza riječi: »Strategije regionalnoga razvoja Republike Hrvatske« dodaju se riječi: »koordinaciju izrade Stambenog programa za potpomognuta i demografski ugrožena područja i praćenje njegove provedbe«, a riječi: »prvog prioriteta IPA Operativnog programa regionalne konkurentnosti iz nadležnosti Ministarstva utvrđenih u Operativnom sporazumu između tijela Operativne strukture;« zamjenjuju se riječima: »odgovarajućeg Operativnog programa;«.
