@@ -1,0 +1,1 @@
+Na temelju članka 81.a stavka 11. Zakona o sportu (»Narodne novine«, br. 71/2006, 124/2010, 124/2011, 86/2012 i 94/2013), Vlada Republike Hrvatske je na sjednici održanoj 5. rujna 2013. godine donijela
