@@ -1,0 +1,1 @@
+Na temelju članka 30. i 30.a Zakona o financiranju jedinica lokalne i područne (regionalne) samouprave (»Narodne novine« br. 117/93, 69/97, 33/00, 127/00, 59/01, 107/01, 117/01, 150/02, 147/03) i članka 30. Statuta Općine Sveti Ilija (»Službeni vjesnik Varaždinske županije« br. 25/13), Općinsko vijeće Općine Sveti Ilija na 2. sjednici održanoj 29. 8. 2013. godine, donosi
