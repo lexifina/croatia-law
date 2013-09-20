@@ -1,0 +1,1 @@
+Pravilnik o provedbi Uredbe Komisije (EZ) br. 1032/2006 o utvrđivanju zahtjeva za automatske sustave za razmjenu podataka o letu u svrhu obavješćivanja, koordinacije i prijenosa letova između jedinica kontrole zračnog prometa
