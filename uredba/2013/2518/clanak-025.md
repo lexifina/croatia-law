@@ -1,0 +1,7 @@
+## 5. SEKTOR ZA UPRAVLJANJE NEKRETNINAMA, ODUZETU IMOVINU, IMOVINSKOPRAVNE ODNOSE S JEDINICAMA LOKALNE SAMOUPRAVE I BIVŠE VOJNE NEKRETNINE
+# Članak 25.
+U Sektoru upravljanja nekretninama, oduzetu imovinu, imovinskopravne odnose s jedinicama lokalne samouprave i bivše vojne nekretnine obavljaju se poslovi vezani uz nekretnine koje nisu predane na upravljanje trgovačkom društvu i to stanove, poslovne prostore, garaže i građevinsko zemljište. U Sektoru se obavljaju poslovi vezani za upravljanje i raspolaganje stanovima, poslovnim prostorima, garažama i građevinskom zemljištu, uključujući i pripremu potrebnih ugovora, aneksa, tabularnih izjava i brisovnih očitovanja, poslovi rješavanja imovinsko pravnih odnosa vezanih za eksploataciju mineralnih sirovina i infrastrukturne građevine i građevine za obnovljive izvore energije, poslovi procjene nekretnina, poslovi upravljanja i raspolaganja oduzetom imovinom, poslovi rješavanja imovinsko pravnih poslova s jedinicama lokalne samouprave, te poslovi vezani za upravljanje i raspolaganje bivšim vojnim nekretninama.
+U Sektoru se ustrojavaju sljedeće ustrojstvene jedinice:
+5.1. Služba stanova, poslovnih prostora, zemljišta, infrastrukture, obnovljivih izvora energije, eksploatacije mineralnih sirovina, procjene i oduzete imovine
+5.2. Služba za rješavanje imovinskopravnih odnosa s jedinicama lokalne samouprave i bivše vojne nekretnine.
+5.1. Služba stanova, poslovnih prostora, zemljišta, infrastrukture, obnovljivih izvora energije, eksploatacije mineralnih sirovina, procjene i oduzete imovine

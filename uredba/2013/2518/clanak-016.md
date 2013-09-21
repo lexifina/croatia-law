@@ -1,0 +1,3 @@
+# Članak 16.
+Odjel za koordinaciju i harmonizaciju kriterija za upravljanje državnom imovinom obavlja poslove koordinacije i sudjelovanja s nadležnim ministarstvima i drugim tijelima u utvrđivanju smjernica za ostvarivanje vlasničke politike; poslove izrade mišljenja Vladi Republike Hrvatske za pojedina pitanja iz djelokruga Državnog ureda, poslove izrade kriterija i analiza učinkovitosti korištenja državne imovine s prijedlozima mjera; poslove koordinacije aktivnosti središnjih tijela državne uprave s tijelima lokalne i područne (regionalne) samouprave; surađuje s drugim ustrojstvenim jedinicama Državnog ureda u obavljanju poslova iz svog djelokruga i obavlja druge poslove iz svoje nadležnosti.
+3.2.2. Odjel za nadzor upravljanja i raspolaganja državnom imovinom

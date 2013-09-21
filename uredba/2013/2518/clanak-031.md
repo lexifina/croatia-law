@@ -1,0 +1,3 @@
+# Članak 31.
+Odjel za oduzetu imovinu upravlja privremeno oduzetim nekretninama, novčanim sredstvima, predanim stvarima i prenesenim pravima; vodi evidencije (upisnike) o privremeno oduzetim nekretninama, novčanim sredstvima, predanim stvarima i prenesenim pravima, sudjeluje u svim postupcima određenim propisima koji uređuju oduzimanje imovinske koristi ostvarene kaznenim djelom i prekršajem, predlaže predstojniku donošenje odluke o prodaji i raspolaganju privremeno oduzetih pokretnih stvari; surađuje s drugim ustrojstvenim jedinicama Državnog ureda u obavljanju poslova iz svog djelokruga i obavlja druge poslove iz svoje nadležnosti.
+5.2. Služba za rješavanje imovinskopravnih odnosa s jedinicama lokalne samouprave i bivše vojne nekretnine

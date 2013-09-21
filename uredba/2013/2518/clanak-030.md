@@ -1,0 +1,3 @@
+# Članak 30.
+Odjel procjene procjenjuje vrijednost nekretnina, osim u slučajevima kada tržišnu vrijednost nekretnine utvrđuju stalni sudski vještaci temeljem Zakona o upravljanju i raspolaganju imovinom u vlasništvu Republike Hrvatske; izrađuje izvješća o procjeni sa odgovarajućom dokumentacijom; kontrolira procjene nekretnina sudskih vještaka; procjenjuje naknade za umanjenje tržišne vrijednosti nekretnine uslijed osnivanja prava služnosti; procjenjuje vrijednost opreme; surađuje s drugim ustrojstvenim jedinicama Državnog ureda u obavljanju poslova iz svog djelokruga; obavlja druge poslove iz svoje nadležnosti.
+5.1.5. Odjel za oduzetu imovinu

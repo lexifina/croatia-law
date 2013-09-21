@@ -1,0 +1,3 @@
+# Članak 9.
+Odjel računovodstva obavlja upravne i stručne poslove vezane za ustrojavanje i vođenje zakonom propisanih poslovnih knjiga; ustrojava i vodi pomoćne poslovne knjige; organizira godišnji popis imovine, obveza i potraživanja Državnog ureda; kontrolira knjigovodstvenu dokumentaciju; obavlja kontiranje i knjiženje poslovnih događaja; izrađuje godišnja, polugodišnja, tromjesečna i mjesečna statistička izvješća; obavlja poslove obračuna plaća, naknada zaposlenima i obračunava plaćanja vanjskim suradnicima; obavlja blagajničko poslovanje; obavlja i druge poslove iz svoje nadležnosti.
+2.2.2. Odjel plana, analize, financija, javne nabave i informatičke podrške
