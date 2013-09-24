@@ -1,0 +1,1 @@
+Na temelju članka 9. stavka 3. podstavka 2. i stavka 4. Zakona o službi u Oružanim snagama Republike Hrvatske (»Narodne novine«, br. 73/13), na prijedlog načelnika Glavnog stožera Oružanih snaga Republike Hrvatske donosim
