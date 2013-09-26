@@ -1,0 +1,1 @@
+Na temelju odredbi članka 13. stavak 9. i članka 24. stavak 7. Zakona o tržištu kapitala (»Narodne novine« broj 88/08, 146/08, 74/09 i 54/2013), Hrvatska agencija za nadzor financijskih usluga je na sjednici Upravnog vijeća održanoj 13. rujna 2013. godine, donijela
