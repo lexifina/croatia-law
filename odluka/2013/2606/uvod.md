@@ -1,0 +1,1 @@
+Na temelju članka 15. Zakona o turističkom i ostalom građevinskom zemljištu neprocijenjenom u postupku pretvorbe i privatizacije (»Narodne novine«, broj 92/2010), Vlada Republike Hrvatske je na sjednici održanoj 26. rujna 2013. godine donijela
