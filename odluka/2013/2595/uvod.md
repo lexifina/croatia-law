@@ -1,0 +1,1 @@
+Na temelju članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, broj 150/2011) i članka 114. Zakona o zračnom prometu (»Narodne novine«, br. 69/2009, 84/2011 i 54/2013), Vlada Republike Hrvatske je na sjednici održanoj 26. rujna 2013. godine donijela
