@@ -1,0 +1,5 @@
+# Članak 2.
+U članku 11. stavci 3., 4. i 5. mijenjaju se i glase:
+»U ugovoru iz stavka 1. ovoga članka mora se ugovoriti iznos naknade štete sukladno članku 12. stavku 1. ovoga Pravilnika koju je doktor medicine, u slučaju kad otkazuje ugovor o radu prije isteka ugovorene obveze rada iz stavka 2. ovoga članka, razmjerno izvršenoj obvezi rada, obvezan isplatiti zdravstvenoj ustanovi iz stavka 1. ovoga članka.
+Ugovorom iz stavka 1. ovoga članka mora se ugovoriti i iznos naknade štete koju je doktor medicine, u slučaju kad otkazuje ugovor o radu prije položenog specijalističkog ispita obvezan isplatiti zdravstvenoj ustanovi iz stavka 1. ovoga članka.
+Ako doktor medicine nakon položenog specijalističkog ispita, a prije isteka ugovorene obveze rada otkaže ugovor o radu i uz pribavljenu suglasnost ministra zasnuje radni odnos u drugoj zdravstvenoj ustanovi čiji je osnivač Republika Hrvatska, županija, odnosno grad naknadu štete iz stavka 3. ovoga članka snosi doktor medicine ili zdravstvena ustanova u kojoj je zasnovao radni odnos.«.
