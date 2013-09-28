@@ -1,0 +1,7 @@
+## KORISNICI POTPORE
+# Članak 2.
+(1) Pravo na potporu za pokriće troškova prehrane studenata (u daljnjem tekstu: pravo na potporu) ostvaruje redoviti student na preddiplomskom sveučilišnom, diplomskom sveučilišnom, integriranom preddiplomskom i diplomskom sveučilišnom, kratkom stručnom, preddiplomskom stručnom i specijalističkom diplomskom stručnom studiju visokog učilišta u Republici Hrvatskoj koji je državljanin države članice Europske unije i koji ispunjava uvjete iz članka 3. ovog Pravilnika (u daljnjem tekstu: korisnik potpore).
+(2) Visoko učilište može sklopiti ugovor s davateljima usluge studentske prehrane u kojem se regulira način na koji visoko učilište financira potporu za troškove prehrane redovitog studenta koji je državljanin države koja nije članica Europske unije, ili redovitog studenta stranog državljanina koji boravi u Republici Hrvatskoj temeljem ugovora zaključenog između hrvatskoga i stranog visokog učilišta.
+(3) Korisnik potpore ne smije biti u radnom odnosu niti u evidenciji o nezaposlenima tijela nadležnog za vođenje takve evidencije.
+(4) Iznimno od stavka 1. ovog članka, korisnik potpore može biti i student strani državljanin koji je stipendist Ministarstva po načelu reciprociteta, ako je pravo na potporu utvrđeno ugovorom o sudjelovanju u međunarodnom programu razmjene (Erasmus, CEEPUS i međunarodni bilateralni pravni akti) ili po posebnoj odluci Ministarstva.
+(5) Iznos i trajanje prava na potporu za korisnike potpore iz stavka 4. ovog članka utvrđuju se posebnom odlukom Ministarstva.

@@ -1,0 +1,5 @@
+# Članak 8.
+(1) Meni obrok, u smislu ovog Pravilnika, je složeni obrok kojeg je davatelj usluge obvezan ponuditi studentu, a sastoji se od pojedinačnih jela iz šest skupina: juha, glavno jelo, prilog/varivo, salata, desert/napitak i kruh/pecivo.
+(2) Svako pojedinačno jelo koje je sastavnica meni obroka davatelj usluge može ponuditi i izvan meni obroka uz visinu potpore iz članka 10. stavka 1. podstavka 1. i članka 10. stavka 4. ovog Pravilnika.
+(3) Davatelj usluge može studentima ponuditi i pojedinačna jela i druge prehrambene proizvode koji nisu sastavnice meni obroka, a pripadaju jednoj od skupina: pojedinačna jela, jednostavna jela, dodaci jelima, umaci, sendviči, namazi, mliječni proizvodi, kolači i sokovi/vode, uz visinu potpore iz članka 10. stavka 1. podstavka 2. i članka 10. stavka 4. ovog Pravilnika.
+(4) Sastav meni obroka i popis pojedinačnih jela i drugih prehrambenih proizvoda koji nisu sastavnice meni obroka s normativima i cijenama koje propisuje Ministarstvo nalaze se u prilogu ovog Pravilnika te čine njezin sastavni dio.

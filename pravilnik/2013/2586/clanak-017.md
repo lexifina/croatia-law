@@ -1,0 +1,3 @@
+# Članak 17.
+(1) Davatelj usluge obvezan je prilikom zaključivanja ugovora iz članka 16. ovog Pravilnika priložiti dokaze o ispunjavanju uvjeta za ugostiteljski objekt iz skupine »restoran« propisane Pravilnikom o razvrstavanju i minimalnim uvjetima ugostiteljskih objekata iz skupine »restorani«, »barovi«, »catering objekti« i »objekti jednostavnih usluga« (»Narodne novine«, broj 82/07, 82/09 i 75/12).
+(2) Odredba prethodnog stavka ne primjenjuje se na objekte studentskih centara sukladno članku 5. Zakona o ugostiteljskoj djelatnosti (»Narodne novine«, broj 138/06, 152/08, 43/09, 88/10, 145/11 - RUSRH, 50/12 i 80/13).
