@@ -1,0 +1,2 @@
+# Članak 2.
+Iznimno od odredbe članka 1. ovoga Zakona, ovlašćuje se Vlada Republike Hrvatske da u razdoblju od dana raspuštanja ili isteka mandata Hrvatskoga sabora, pa do dana prvoga zasjedanja novoizabranog Hrvatskoga sabora, uredbama uređuje pojedina pitanja iz djelokruga Hrvatskoga sabora, osim onih pitanja koja prema Ustavu Republike Hrvatske može uređivati samo Hrvatski sabor i donošenja ili izmjena državnog proračuna te propisivanja poreza.
