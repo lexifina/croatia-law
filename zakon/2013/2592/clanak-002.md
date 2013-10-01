@@ -1,0 +1,3 @@
+# Članak 2.
+U članku 25. stavak 1. mijenja se i glasi:
+»Intendanta Hrvatskoga narodnog kazališta u Zagrebu imenuje i razrješava Vlada Republike Hrvatske na zajednički prijedlog ministra kulture i gradonačelnika Grada Zagreba. Ako se ne utvrdi zajednički prijedlog u roku od sedam dana od dana podnošenja pisanog zahtjeva ministra kulture ili gradonačelnika Grada Zagreba radi utvrđivanja zajedničkog prijedloga, intendanta Hrvatskog narodnog kazališta u Zagrebu imenuje i razrješava Vlada Republike Hrvatske na prijedlog ministra kulture. Imenovanje i razrješenje vršitelja dužnosti intendanta Hrvatskog narodnog kazališta u Zagrebu obavlja se na isti način, bez provođenja javnog natječaja.«.
