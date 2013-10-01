@@ -1,0 +1,6 @@
+# Članak 26.
+Članak 32. mijenja se i glasi:
+»(1) Rezerviranja za gubitke na skupnoj osnovi povezana s izvanbilančnim obvezama rizične skupine A kreditna institucija može provoditi primjenom svoje unaprijed pripremljene i testirane interne metodologije utemeljene na iskustvu kreditne institucije, pri čemu razina rezerviranja ne smije biti manja od 0,80% ukupnog stanja izvanbilančnih obveza rizične skupine A.
+(2) Kreditna institucija koja nema internu metodologiju dužna je provoditi razinu rezerviranja za izvanbilančne obveze rizične skupine A na skupnoj osnovi najmanje u iznosu od 1% ukupnog stanja izvanbilančnih obveza rizične skupine A.
+(3) Iznos rezerviranja za gubitke na skupnoj osnovi povezanih s izvanbilančnim obvezama rizične skupine A knjigovodstveno se provodi na teret troškova kreditne institucije za razdoblje u kojem su gubici utvrđeni i u korist odgovarajućih računa rezerviranja u pasivi bilance.
+(4) Kreditna institucija iz stavka 1. ovog članka dužna je najmanje jedanput godišnje preispitati internu metodologiju procjene kreditnog rizika s osnove izvanbilančnih obveza i po potrebi je revidirati, a sve radi smanjenja razlika između procijenjenih i stvarnih latentnih gubitaka koji su povezani s izvanbilančnim obvezama rizične skupine A.«

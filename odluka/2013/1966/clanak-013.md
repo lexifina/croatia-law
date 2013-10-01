@@ -1,0 +1,6 @@
+# Članak 13.
+Članak 17. mijenja se i glasi:
+»(1) Umanjenje vrijednosti plasmana rizične skupine A na skupnoj osnovi kreditna institucija može provoditi u visini latentnih gubitaka koje utvrdi primjenom svoje unaprijed pripremljene i testirane interne metodologije utemeljene na iskustvu kreditne institucije, pri čemu razina ispravaka vrijednosti ne smije biti manja od 0,80% ukupnog stanja plasmana rizične skupine A.
+(2) Kreditna institucija koja nema internu metodologiju dužna je provoditi razinu ispravaka vrijednosti plasmana rizične skupine A na skupnoj osnovi najmanje u iznosu od 1% ukupnog stanja plasmana rizične skupine A.
+(3) Umanjenje (ispravak) vrijednosti plasmana rizične skupine A knjigovodstveno se provodi na teret troškova kreditne institucije za razdoblje u kojem su gubici utvrđeni i u korist odgovarajućih računa ispravaka vrijednosti plasmana koji su predmet klasifikacije prema ovoj Odluci.
+(4) Kreditna institucija iz stavka 1. ovog članka dužna je najmanje jedanput godišnje preispitati internu metodologiju procjene kreditnog rizika i po potrebi je revidirati, a sve radi smanjenja razlika između procijenjenih i stvarnih latentnih gubitaka koji postoje u kreditnom portfelju rizične skupine A.«

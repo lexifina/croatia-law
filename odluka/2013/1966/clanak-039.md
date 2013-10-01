@@ -1,0 +1,4 @@
+# Članak 39.
+(1) Ova Odluka objavljuje se u »Narodnim novinama« i stupa na snagu 1. listopada 2013., osim odredbi članka 13. i članka 26. ove Odluke kojima se mijenjaju članak 17. i članak 32. Odluke o klasifikaciji plasmana i izvanbilančnih obveza kreditnih institucija (»Narodne novine«, br. 1/2009., 75/2009. i 2/2010.), koje stupaju na snagu 1. kolovoza 2013.
+(2) Za sve plasmane iz članka 12. ove Odluke, kojim se mijenja članak 15. u dijelu koji se odnosi na stavak 5. Odluke o klasifikaciji plasmana i izvanbilančnih obveza kreditnih institucija (»Narodne novine«, br. 1/2009., 75/2009. i 2/2010.), po kojima je na dan 1. srpnja 2013. proteklo više od dvije godine od dana kada je nastupila dužnikova neurednost u podmirivanju obveza, propisani rok od 180 dana počinje teći 1. srpnja 2013.
+O. br. 73-020/06-13/BV
