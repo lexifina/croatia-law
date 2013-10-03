@@ -1,0 +1,1 @@
+Na temelju članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, broj 150/2011) i članka 7. stavka 5. Zakona o regulaciji energetskih djelatnosti (»Narodne novine«, broj 120/2012), Vlada Republike Hrvatske je na sjednici održanoj 3. listopada 2013. godine donijela
