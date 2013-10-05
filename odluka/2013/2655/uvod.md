@@ -1,0 +1,1 @@
+Na temelju članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, broj 150/2011) i članka 5. stavka 5. podstavka 3. Zakona o morskom ribarstvu (»Narodne novine«, broj 81/2013), Vlada Republike Hrvatske je na sjednici održanoj 26. rujna 2013. godine donijela
