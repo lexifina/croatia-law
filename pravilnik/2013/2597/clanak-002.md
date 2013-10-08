@@ -1,0 +1,2 @@
+# Članak 2.
+Ovim Pravilnikom se u pravni poredak Republike Hrvatske prenose članak 40. stavak 2. točke (a) do (d); članak 40. stavak 3.; članak 41. točka (b), članak 42.; članak 44. točka (b) i točka (c); članak 45., točka (a) do (d) Direktive Vijeća 96/29/Euratom od 13. svibnja 1996. o utvrđivanju osnovnih sigurnosnih normi za zaštitu zdravlja radnika i stanovništva od opasnosti od ionizirajućeg zračenja (SL L 159, 29. 6. 1996.).

@@ -1,0 +1,4 @@
+## Izvanredno izvješćivanje o praćenju stanja okoliša objekta
+# Članak 29.
+(1) Ovlašten stručni tehnički servis iz članka 27. ovoga Pravilnika neodgodivo izvješćuje uz obrazloženje u pisanom obliku inspektore za radiološku i nuklearnu sigurnost Državnog zavoda za radiološku i nuklearnu sigurnost ako za vrijeme izvođenja redovnog praćenje stanja okoliša objekta u dva uzastopna mjerenja ustanovi da izmjerene aktivnosti za pojedini radionuklid prelaze dvostruke vrijednosti godišnjeg prosjeka proteklih godina, odnosno da brzina ambijentalnog doznog ekvivalenta prelazi 300 nSv/h.
+(2) Korisnik objekta koji je obvezan osigurati provođenje praćenja stanja okoliša objekta, ako raspolaže informacijom o povećanom ispuštanju radionuklida u okoliš mora o tome neodgodivo izvjestiti inspektore za radiološku i nuklearnu sigurnost Državnog zavoda za radiološku i nuklearnu sigurnost.

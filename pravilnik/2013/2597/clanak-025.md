@@ -1,0 +1,6 @@
+## Praćenje stanja okoliša objekta
+# Članak 25.
+(1) Ukoliko se analizom rizika utvrdi da rad objekta može rezultirati ozračenjem referentne skupine stanovništva iznad 10 μSv u godini dana zbog ispuštanja umjetno stvorenih radionuklida, odnosno 0.3 mSv u godini dana zbog prirodnih radionuklida, budući korisnik objekta obvezan je izraditi Program praćenja stanja okoliša objekta u skladu s točkom A Priloga 1. koji je sastavni dio ovoga Pravilnika te osigurati provođenje praćenja stanja okoliša objekta u skladu s točkom B i točkom C Priloga 1. koji je sastavni dio ovoga Pravilnika.
+(2) Budući korisnik objekta obvezan je svoj Program praćenja stanja okoliša objekta dostaviti Državnom zavodu za radiološku i nuklearnu sigurnost na odobrenje kojem prilaže analizu rizika iz članka 24. stavka 1. ovoga Pravilnika izrađenu u skladu s posebnim propisom.
+(3) Državni zavod za radiološku i nuklearnu sigurnost će odobrenje Programa praćenja stanja okoliša objekta izdati u roku 90 dana od primitka urednog zahtjeva za odobrenje Programa praćenja stanja okoliša objekta ili će u tom roku izvijestiti podnositelja zahtjeva o potrebnim izmjenama i dopunama Programa praćenja stanja okoliša objekta.
+(4) Korisnik objekta koji je obvezan osigurati provođenje praćenja stanja okoliša objekta obvezan je Program praćenja stanja okoliša objekta periodično revidirati.
