@@ -1,0 +1,4 @@
+## Postupci povezivanja bez održavanja rasprave
+# Članak 14.
+(1) Zemljišnoknjižni sud može odlučiti o prijedlogu za povezivanje bez rasprave samostalno ili po prijedlogu podnositelja prijedloga ako su svi posebni dijelovi već upisani u nekoj od evidencija ili ako je iz stanja spisa moguće zaključiti da se prijedlogu može udovoljiti bez rasprave (npr. svi posebni dijelovi upisani su u knjizi položenih ugovora i glavnoj zemljišnoj knjizi, ali upis nije objedinjen; svi posebni dijelovi upisani su u knjizi položenih ugovora, a upisi se mogu prenijeti u glavnu knjigu tako da prijenosom podataka budu obuhvaćeni svi posebni dijelovi; svi posebni dijelovi upisani su u nekoj od evidencija, ali je potrebno samo dopuniti opis posebnog dijela; prijedlogu su priložene sve isprave potrebne za donošenje odluke i slično).
+(2) U slučaju iz stavka 1. ovog članka rješenje o povezivanju može donijeti i ovlašteni zemljišnoknjižni referent i sudski savjetnik.

@@ -1,0 +1,2 @@
+# Članak 30.
+Ako prema postojećim posebnim propisima nije moguće formirati građevinsku česticu, ni izraditi elaborat za formiranje katastarske čestice i upis zgrade, tada se na prijedlog osoba iz članka 2. ovog Pravilnika može provesti upis svih neupisanih posebnih dijelova i njihovih pripadaka u knjigu položenih ugovora prema pravilima propisanim ovim Pravilnikom i pravilima o pojedinačnom ispravnom postupku.
