@@ -1,0 +1,3 @@
+# Članak 60.
+NOVE DRŽAVE ČLANICE SZO-a
+Svaka država koja postane članica SZO-a nakon datuma obavijesti glavnog direktora navedene u stavku 1. članka 59., a koja još uvijek nije stranka ovih Propisa, može priopćiti svoje neprihvaćanje ili stavljanje rezerve na ove Propise unutar roka od dvanaest mjeseci od datuma obavijesti koju joj je uputio Glavni direktor nakon što je postala članica SZO-a . Osim ukoliko ne budu prihvaćeni, ovi Propisi stupit će na snagu, s obzirom na tu državu, pod uvjetima iz članaka 62. i 63., po isteku toga razdoblja. Ni u jednome slučaju ovi Propisi neće stupiti na snagu, s obzirom na tu državu, ranije od 24 mjeseca od datuma obavijesti navedene u stavku 1. članka 59.

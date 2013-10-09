@@ -1,0 +1,3 @@
+# Članak 16.
+STALNE PREPORUKE
+SZO može donositi stalne preporuke glede odgovarajućih zdravstvenih mjera, u skladu s člankom 53., a koje su namijenjene uobičajenoj ili povremenoj primjeni. Takve mjere mogu primjenjivati države stranke s obzirom na osobe, prtljagu, teret, kontejnere, prijevozna sredstva, robu i/ili poštanske pošiljke u slučaju određenih, tekućih javnozdravstvenih rizika s ciljem sprječavanja ili smanjivanja širenja bolesti na međunarodnoj razini te kako bi se izbjegla nepotrebna interferencija s međunarodnim prometom. SZO može, prema potrebi i u skladu s člankom 53., izmijeniti ili isključiti iz primjene takve preporuke.

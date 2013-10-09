@@ -1,0 +1,9 @@
+# Članak 10.
+VERIFIKACIJA
+1. SZO će, sukladno članku 9., od države stranke zatražiti verifikaciju izvješća koja potječu iz izvora koji se razlikuju od obavijesti ili konzultacija o slučajevima koji mogu predstavljati izvanredno javnozdravstveno stanje od međunarodne važnosti i koji su se navodno pojavili unutar državnog područja države. U takvim slučajevima, SZO će izvijestiti predmetnu državu stranku glede izvješća koja želi verificirati.
+2. Temeljem gore spomenutog stavka i članka 9., svaka će država stranka, kada to od nje zatraži SZO, verificirati i pribaviti:
+(a) u roku od 24 sata, uvodni odgovor na ili potvrdu primitka zahtjeva SZO-a;
+(b) u roku od 24 sata, raspoložive javnozdravstvene informacije o stanju slučajeva na koje se odnosi zahtjev SZO-a ; i
+(c) informacije SZO-u, u okviru ocjene sukladno članku 6., uključujući relevantne informacije kako su opisane u tome članku.
+3. Kada SZO primi informaciju o slučaju koji može predstavljati izvanredno javnozdravstveno stanje od međunarodne važnosti, ponudit će svoju suradnju predmetnoj državi stranci u procjeni potencijala za širenje bolesti na međunarodnoj razini, moguće interferencije s međunarodnim prometom i primjerenosti kontrolnih mjera. Navedene aktivnosti mogu obuhvaćati suradnju s drugim organizacijama koje postavljaju standarde, kao i ponudu mobiliziranja međunarodne pomoći s ciljem pružanja podrške nacionalnim vlastima u provođenju i usklađivanju direktnih procjena. Kada to zatraži država stranka, SZO će osigurati informacije koje podupiru takvu ponudu.
+4. Ukoliko država stranka ne prihvati ponudu za suradnju, SZO može, kada to opravdava važnost javnozdravstvenoga rizika, s drugim državama strankama podijeliti informacije koje mu stoje na raspolaganju, istovremeno potičući državu stranku da prihvati ponudu SZO-a za suradnju, uzimajući u obzir stajališta predmetne države stranke.

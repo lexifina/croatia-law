@@ -1,0 +1,5 @@
+# Članak 47.
+Sastav
+Glavni direktor odredit će popis sastavljen od stručnjaka iz svih relevantnih stručnih područja (u daljnjem tekstu: »Popis stručnjaka za MZP«). Glavni direktor će imenovati članove s Popisa stručnjaka za MZP u skladu s Propisima SZO-a za Stručne savjetodavne komisije i Odbore (u daljnjem tekstu: »Propisi SZO-a za Savjetodavnu komisiju«), osim ukoliko u ovim Propisima nije određeno drugačije. Nadalje, glavni direktor će imenovati jednog člana na zahtjev svake države stranke te, po potrebi, stručnjake koje su predložile relevantne međuvladine organizacije i organizacije za regionalnu ekonomsku integraciju. Zainteresirane države stranke obavijestit će glavnog direktora o stručnim kvalifikacijama i području stručnosti svakoga od stručnjaka kojega predlažu za članstvo. Glavni direktor će povremeno obavještavati države stranke te relevantne međuvladine organizacije i organizacije za regionalnu ekonomsku integraciju o sastavu Popisa stručnjaka za MZP.
+II. Poglavlje
+Odbor za izvanredna stanja

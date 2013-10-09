@@ -1,0 +1,3 @@
+# Članak 8.
+KONZULTACIJE
+Ukoliko unutar državnog područja države stranke dođe do slučajeva koji ne zahtijevaju obavješćivanje na način predviđen u članku 6., posebice kada je riječ o slučajevima za koje ne postoje dostatne informacije potrebne za popunjavanje instrumenta za donošenje odluka, država stranka može, unatoč tome, držati SZO obaviještenim o navedenome, a putem nacionalne središnjice za MZP, te se konzultirati s SZO-om oko odgovarajućih zdravstvenih mjera. Takva razmjena informacija tretirat će se sukladno stavcima 2. do 4. članka 11. Država stranka na čijem se državnom području slučaj pojavio može zatražiti pomoć SZO-a u ocjeni bilo kakvih epidemioloških dokaza do kojih je navedena država stranka došla.

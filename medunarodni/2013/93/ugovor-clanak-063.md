@@ -1,0 +1,4 @@
+# Članak 63.
+POVLAČENJE ODLUKE O NEPRIHVAĆANJU I POVLAČENJE REZERVE
+1. Odluku o neprihvaćanju, temeljem članka 61., država može povući u bilo koje vrijeme upućivanjem obavijesti glavnom direktoru. U takvim će slučajevima, s obzirom na navedenu državu, ovi Propisi stupiti na snagu po primitku obavijesti od strane glavnog direktora, izuzev u slučaju kada država, prilikom povlačenja svoje odluke o neprihvaćanju, stavi rezervu, a kada će ovi Propisi stupiti na snagu na način kako je predviđeno u članku 62. Ovi Propisi ni u kojemu slučaju neće, s obzirom na navedenu državu, stupiti na snagu prije isteka 24 mjeseca od datuma obavijesti navedene u stavku 1. članka 59.
+2. Predmetna država stranka može u bilo koje vrijeme povući čitavu rezervu ili dio bilo koje rezerve obavještavajući o tome glavnog direktora. U takvim slučajevima povlačenje stupa na snagu od datuma primitka obavijesti od strane glavnog direktora.

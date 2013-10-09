@@ -1,0 +1,3 @@
+# Članak 35.
+OPĆE PRAVILO
+Nikakvi zdravstveni dokumenti, osim onih predviđenih sukladno ovim Propisima ili preporukama koje izdaje SZO, neće biti potrebni u međunarodnome prometu, pod uvjetom, međutim, da se ovaj članak neće odnositi na putnike koji traže privremeno ili stalno boravište, niti će se odnositi na zahtjeve glede dokumenata koji se tiču javnozdravstvenoga statusa robe ili tereta u međunarodnoj trgovini, a sukladno mjerodavnim međunarodnim sporazumima. Mjerodavno tijelo može od putnika zahtijevati da popune obrasce s kontaktnim informacijama i upitnike o zdravlju putnika, pod uvjetom da oni udovoljavaju zahtjevima utvrđenima u članku 23.
