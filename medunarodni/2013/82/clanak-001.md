@@ -1,0 +1,2 @@
+# Članak 1.
+Potvrđuje se Sporazum o primjeni odredaba Konvencije Ujedinjenih naroda o pravu mora od 10. prosinca 1982. koje se odnose na očuvanje i gospodarenje ribljim naseljima koja se nalaze u više različitih pojaseva i naselja vrlo migratornih vrsta riba, usvojen u New Yorku na Konferenciji Ujedinjenih naroda o ribljim naseljima koja se nalaze u više različitih pojaseva i naseljima vrlo migratornih vrsta riba održanoj 4. kolovoza 1995. u izvorniku na arapskom, kineskom, engleskom, francuskom, ruskom i španjolskom jeziku.

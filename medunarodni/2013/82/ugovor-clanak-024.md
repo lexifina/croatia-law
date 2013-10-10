@@ -1,0 +1,7 @@
+# Članak 24.
+Priznavanje posebnih potreba država u razvoju
+1. Države će priznati posebne potrebe država u razvoju u očuvanju i gospodarenju ribljim naseljima koja se nalaze u više različitih pojaseva i naseljima vrlo migratornih vrsta riba i njihova razvoja ribarstva temeljenog na tim naseljima. S tim ciljem, države će, bilo izravno ili kroz Program Ujedinjenih naroda za razvoj, Organizaciju za hranu i poljoprivredu Ujedinjenih naroda ili druge specijalizirane agencije, Globalni fond za okoliš, Komisiju za održivi razvoj i druge odgovarajuće međunarodne i regionalne organizacije i tijela, pružati pomoć državama u razvoju.
+2. Ostvarujući obvezu da surađuju u uspostavi mjera očuvanja i gospodarenja ribljim naseljima koja se nalaze u više različitih pojaseva i naseljima vrlo migratornih vrsta riba, države će u obzir uzeti posebne potrebe država u razvoju, i to poglavito:
+(a) osjetljivost država u razvoju koje su ovisne o iskorištavanju živih bogatstava mora, uključujući i potrebe prehranjivanja njihova stanovništva ili jednog dijela;
+(b) potrebu izbjegavanja negativnih učinaka na, i osiguranje pristupa resursima, malog, obalnog i tradicionalnog ribolova i žena u ribarstvu, kao i domorođačkog stanovništva u državama u razvoju, uključujući male otočne države; i
+(c) potrebu osiguranja da takve mjere nemaju za posljedicu prenošenje, izravno ili neizravno, neodgovarajućeg tereta potrebe zaštite na države u razvoju.

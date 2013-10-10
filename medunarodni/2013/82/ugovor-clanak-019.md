@@ -1,0 +1,9 @@
+# Članak 19.
+Pridržavanje i primjena od strane države zastave
+1. Država će na plovilima koja plove pod njezinom zastavom osigurati poštivanje mjera očuvanja i gospodarenja ribljim naseljima koja se nalaze u više različitih pojaseva i naseljima vrlo migratornih vrsta riba, a koje su donesene na subregionalnoj ili regionalnoj razini. S tim ciljem, država će:
+(a) provoditi takve mjere bez obzira gdje se kršenja dogode;
+(b) odmah i u potpunosti istražiti svako navodno kršenje subregionalnih ili regionalnih mjera očuvanja i gospodarenja, koji može uključivati fizičku inspekciju plovila, i izvijestiti državu koja je navela kršenje te relevantnu subregionalnu ili regionalnu organizaciju ili sporazum o tijeku i ishodu istrage;
+(c) zatražiti od svih plovila koja plove pod njezinom zastavom da dostave podatke o poziciji plovila, ulovu, alatu, ribolovnim operacijama i ostalim aktivnostima u području gdje se navodno kršenje dogodilo;
+(d) ukoliko je zadovoljna količinom dokaza o navodnom kršenju, prenijeti slučaj vlastima s ciljem institucionalnog procesuiranja bez oklijevanja, a u skladu s propisima i, gdje je potrebno, oduzeti dato plovilo; i
+(e) osigurati da, ako je u skladu s njezinim propisima utvrđeno da je plovilo bilo uključeno u teška kršenja takvih mjera, plovilo ne bude uključeno u ribolov na otvorenom moru sve dok se ne odsluži propisana kazna za navedeno kršenje.
+2. Sve istrage i sudski postupci bit će provedeni bez odgode. Sankcije za kršenja bit će odgovarajuće po svojoj težini kako bi osigurale poštivanje propisa i obeshrabrile daljnja kršenja gdjegod se ona dogodila te će počinitelju oduzeti svaku dobit nastalu iz provođenja nezakonitih aktivnosti. Mjere primjenjive na kapetane i ostale časnike plovila uključivat će odredbe koje mogu dozvoliti, između ostalog, odbijanje, povlačenje ili suspenziju dozvole da služe kao kapetani ili časnici na takvim plovilima.

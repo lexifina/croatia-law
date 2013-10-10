@@ -1,0 +1,10 @@
+# Članak 14.
+Prikupljanje i dostava informacija i suradnja na znanstvenim istraživanjima
+1. Države će osigurati da ribolovna plovila koja plove pod njihovom zastavom dostave takve podatke koji su potrebni za ispunjavanje obveze iz ovoga Sporazuma. S tim ciljem, države će u skladu s Prilogom I.:
+(a) prikupljati i izmjenjivati znanstvene, tehničke i statističke podatke o ribolovu ribljih naselja koja se nalaze u više različitih pojaseva i naselja vrlo migratornih vrsta riba;
+(b) osigurati da su podaci prikupljeni dovoljno detaljno da osiguraju učinkovitu procjenu naselja i dostavljeni pravovremeno kako bi se ispunile obveze prema subregionalnim ili regionalnim organizacijama za gospodarenje u ribarstvu ili sporazuma; i
+(c) poduzeti odgovarajuće mjere da se potvrdi točnost tih podataka.
+2. Države će surađivati, bilo izravno ili kroz subregionalne ili regionalne organizacije za gospodarenje u ribarstvu ili sporazume, kako bi:
+(a) se usuglasile o specifikaciji podataka i formatu u kojem će se oni dostavljati takvim organizacijama ili sporazumima, uzimajući u obzir prirodu naselja i ribolova; i
+(b) razvile i dijelile analitičke tehnike i metodologije procjene naselja s ciljem poboljšanja mjera očuvanja i gospodarenja ribljim naseljima koja se nalaze u više različitih pojaseva i naseljima vrlo migratornih vrsta riba.
+3. U skladu s Dijelom XIII. Konvencije, države će surađivati, izravno ili kroz odgovarajuće međunarodne organizacije, kako bi ojačale mogućnosti znanstvenih istraživanja na polju ribarstva i poticale istraživanja s ciljem očuvanja i gospodarenja ribljih naselja koja se nalaze u više različitih pojaseva i naselja vrlo migratornih vrsta riba za opću dobrobit. S tim ciljem, države ili nadležne međunarodne organizacije koje provode takva istraživanja van granica nacionalne jurisdikcije aktivno će poticati i distribuirati rezultate takvih istraživanja, kao i informacije o ciljevima i metodama, svim zainteresiranim državama, te će, u okvirima praktične provedivosti, omogućiti sudjelovanje znanstvenika iz tih država u navedenim istraživanjima.

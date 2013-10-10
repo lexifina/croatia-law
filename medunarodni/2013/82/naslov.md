@@ -1,0 +1,1 @@
+Zakon o potvrđivanju Sporazuma o primjeni odredaba Konvencije Ujedinjenih naroda o pravu mora od 10. prosinca 1982. koje se odnose na očuvanje i gospodarenje ribljim naseljima koja se nalaze u više različitih pojaseva i naselja vrlo migratornih vrsta riba

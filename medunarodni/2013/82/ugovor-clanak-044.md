@@ -1,0 +1,5 @@
+# Članak 44.
+Odnos prema drugim sporazumima
+1. Ovaj Sporazum ne mijenja prava i obveze država stranaka koje proistječu iz drugih sporazuma u skladu s ovim Sporazumom i koji ne diraju u uživanje prava ili ispunjavanje obveza drugih država stranaka na temelju ovoga Sporazuma.
+2. Dvije ili više država stranaka mogu sklopiti sporazume koji mijenjaju ili suspendiraju odredbe ovoga Sporazuma, a primjenjivi su jedino u njihovim međusobnim odnosima, pod uvjetom da se takvi sporazumi ne odnose na neku odredbu čije je nepoštivanje nespojivo s djelotvornim ostvarivanjem predmeta i cilja ovoga Sporazuma, te pod uvjetom da takvi sporazumi ne diraju u primjenu temeljnih načela koja su u njemu sadržana, i da odredbe tih sporazuma ne utječu na uživanje prava ili ispunjavanje obveza drugih država stranaka na temelju ovoga Sporazuma.
+3. Države stranke koje namjeravaju sklopiti sporazum naveden u stavku 2. priopćit će putem depozitara ovoga Sporazuma svoju namjeru da sklope sporazum, kao i izmjenama ili suspenzijama koje on predviđa.
