@@ -1,0 +1,8 @@
+# Članak 2.
+Pojedini izrazi u smislu ovoga Pravilnika imaju sljedeće značenje:
+1. »dozvola« je akt na temelju koje je domaćem prijevozniku dopušten pristup i obavljanje međunarodnog prijevoza tereta na teritoriju drugih država;
+2. »pojedinačna dozvola« je dozvola na temelju koje je domaćem prijevozniku dopušteno obavljanje jedne vožnje u odlasku i jedne vožnje u povratku;
+3. »vremenska dozvola« je dozvola na temelju koje je domaćem prijevozniku dopušten pristup i obavljanje neograničenog broja vožnji u odlasku i povratku, u određenom vremenskom razdoblju (mjesečno, tromjesečno, godišnje i sl.);
+4. »CEMT dozvola« je multilateralna dozvola koju izdaje Europska konferencija ministara za promet, a na temelju koje je dopušteno obavljanje međunarodnog prijevoza tereta između država članica International Transport Foruma - ITF-a ili u tranzitu preko državnog područja jedne ili više država članica CEMT-a vozilima koja su registrirana u jednoj od država članica CEMT-a. Na temelju CEMT dozvole dopušteno je obavljanje neograničenog broja vožnji u određenom vremenskom razdoblju (godini, mjesecu), a opremljena je pripadajućim dnevnikom putovanja;
+5. »kritična dozvola« je dozvola na temelju koje je dopušten pristup i obavljanje prijevoza tereta u državi, za koju se na temelju praćenja korištenja dozvola, u određenom vremenskom razdoblju utvrdi, da je broj razmijenjenih dozvola manji od iskazanih potreba za prijevozom. Kritičnim dozvolama se smatraju i CEMT dozvole;
+6. »nekritična dozvola« je dozvola na temelju koje je dopušten pristup i obavljanje prijevoza tereta, a čiji broj zadovoljava potrebe domaćih prijevoznika.
