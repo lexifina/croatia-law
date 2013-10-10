@@ -1,0 +1,1 @@
+Na temelju članka 3. stavka 4. Zakona o zajedničkoj organizaciji tržišta poljoprivrednih proizvoda o posebnim mjerama i pravilima vezanim za tržište poljoprivrednih proizvoda (»Narodne novine« broj 82/2013) ministar poljoprivrede donosi
