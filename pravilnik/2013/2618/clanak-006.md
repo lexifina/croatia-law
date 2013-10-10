@@ -1,0 +1,3 @@
+# Članak 6.
+(1) Prijelazna hrana za dojenčad proizvodi se od izvora proteina koji su definirani u točki 2. Priloga II. ovoga Pravilnika, kao i drugih sastojaka za koje je na temelju opće prihvaćenih znanstvenih saznanja potvrđeno da su primjereni za prehranu dojenčadi iznad šest mjeseci.
+(2) Primjerenost iz stavka 1. ovoga članka dokazuje se sustavnim pregledom raspoloživih podataka u vezi s očekivanim koristima i pitanjima o sigurnosti prijelazne hrane te, ako je potrebno, odgovarajućim istraživanjima koja se provode u skladu s opće prihvaćenim stručnim vodičima o planiranju i provođenju takvih istraživanja.
