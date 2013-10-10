@@ -1,0 +1,8 @@
+## Popis birača
+# Članak 9.
+(1) Izborni odbor je dužan u roku od tri radna dana od dana dostavljanja popisa radnika iz članka 8. stavka 2. ovoga Pravilnika, utvrditi i na svim oglasnim mjestima poslodavca objaviti popis birača.
+(2) Popis birača sadrži podatke iz članka 8. stavka 2. ovoga Pravilnika, pouku da svaki radnik ima pravo u roku od tri radna dana od dana objavljivanja popisa podnijeti Izbornom odboru pisani prigovor na popis birača, te potpis predsjednika Izbornog odbora i datum objavljivanja popisa. U popisu moraju biti naznačeni birači kojima je Izborni odbor omogućio glasovanje putem pošte.
+(3) O prigovoru na popis birača, Izborni odbor je dužan odlučiti u roku od tri radna dana od dana dostavljanja prigovora.
+(4) Odluka o prigovoru na popis birača je konačna i dostavlja se podnositelju prigovora, a ako je prigovor usvojen, popis birača se ispravlja i na odgovarajućem oglasnom mjestu objavljuje se odluka o usvajanju prigovora. Odluke o odbijanju i odbacivanju prigovora se ne objavljuju.
+(5) Poslodavac je dužan u roku od dva radna dana od nastale promjene, pisano obavijestiti Izborni odbor o promjenama nastalim nakon dostavljanja popisa radnika, a Izborni odbor je dužan po službenoj dužnosti brisati iz popisa birača radnika kojem je u razdoblju od konačnosti popisa birača do dana glasovanja za izbor predstavnika radnika prestao radni odnos i uvrstiti u taj popis radnika koji je u tom razdoblju zasnovao radni odnos.
+(6) Ispravljeni popis birača temeljem usvojenog prigovora na popis ili naknadne promjene, ne mora se objaviti na oglasnim mjestima poslodavca.
