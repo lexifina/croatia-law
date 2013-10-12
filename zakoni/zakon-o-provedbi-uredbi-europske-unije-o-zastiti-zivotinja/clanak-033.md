@@ -1,0 +1,2 @@
+# Članak 33.
+Stupanjem na snagu ovoga Zakona u Zakonu o zaštiti životinja (»Narodne novine«, br. 135/06. i 37/13.) prestaju važiti odredbe članka 1.a podstavaka 2., 3., 8., 10., 13., 14. i 16., članka 3. točaka 8., 13. i 36., članka 4. stavka 2. točaka 24., 26. i 27. te stavaka 5., 7. i 8., članka 9. stavka 3. točke 11., članka 11., članka 12. stavka 2. točke 5., članka 13. do 16., članka 17. stavaka 1. i 2., članka 18., članka 19., članka 66. stavka 1. točaka 19., 21., 22, 23., 32., 34. i 35., članka 67. stavka 1. točke 16., točaka 18. do 26. i točaka 28. i 29.

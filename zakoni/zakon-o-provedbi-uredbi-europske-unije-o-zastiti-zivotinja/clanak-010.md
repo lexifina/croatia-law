@@ -1,0 +1,9 @@
+## Osposobljavanje osoblja prijevoznika
+# Članak 10.
+(1) Vozači koji prevoze životinje i pratitelji životinja tijekom prijevoza (u daljnjem tekstu: osoblje prijevoznika) moraju imati potvrdu o osposobljenosti u skladu s Prilogom III. poglavljem III. Uredbe (EZ) br. 1/2005, izdanu na hrvatskom i engleskom jeziku kada se prijevoz obavlja na području drugih država članica.
+(2) Potvrda iz stavka 1. ovoga članka izdaje se osoblju prijevoznika po provjeri znanja na kraju provedenog osposobljavanja koje osigurava Ministarstvo u skladu s člankom 17. stavkom 2. Uredbe (EZ) br. 1/2005.
+(3) Troškove osposobljavanja, provjere znanja i izdavanja potvrde iz stavaka 1. i 2. ovoga članka snosi podnositelj zahtjeva za osposobljavanje.
+(4) Za obavljanje poslova osposobljavanja, provođenje provjere znanja i izdavanja potvrde iz stavka 2. ovoga članka Ministarstvo može na razdoblje od 10 godina odrediti pravne osobe koje imaju sjedište na području Republike Hrvatske, udovoljavaju zahtjevima s obzirom na stručno znanje u skladu s Prilogom IV. točkom 2. Uredbe (EZ) br. 1/2005 te raspolažu odgovarajućim brojem djelatnika, prostorom i opremom za obavljanje poslova iz stavka 2. ovoga članka.
+(5) Ako pravne osobe iz stavka 4. ovoga članka ne obavljaju povjerene poslove u skladu s odredbama Uredbe (EZ) br. 1/2005 ili prestanu ispunjavati zahtjeve iz stavka 4. ovoga članka, Ministarstvo ukida odobrenje za obavljanje poslova iz stavka 2. ovoga članka.
+(6) Ministarstvo ukida potvrdu iz stavaka 1. i 2. ovoga članka po službenoj dužnosti kada utvrdi da osoblje prijevoznika postupa protivno odredbama Uredbe (EZ) br. 1/2005, a postupanje protivno odredbama Uredbe (EZ) br. 1/2005 utvrđuje veterinarski inspektor.
+(7) Protiv rješenja o ukidanju potvrde iz stavka 6. ovoga članka nije dopuštena žalba, ali se može pokrenuti upravni spor. Pokretanje upravnog spora ne odgađa izvršenje rješenja.
