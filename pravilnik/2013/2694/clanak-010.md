@@ -1,0 +1,8 @@
+# Članak 10.
+(1) Za potrebe tehničkog pregleda građevine u svrhu izdavanja uporabne dozvole provodi se analiza uzoraka vode za ljudsku potrošnju uzetih iz građevine na sve parametre iz Priloga II. Tablice 1.ovoga Pravilnika i parametar ugljikovodika.
+(2) Uzorci iz stavka 1. ovoga članka uzimaju se u stambenim građevinama i poslovnim građevinama koje nisu obuhvaćene stavkom 4. ovoga članka na svim vertikalama građevine i to pri dnu i vrhu vertikala.
+(3) Ukoliko se u građevinama iz stavka 2. ovog članka prilikom prve analize uzoraka utvrdi nesukladnost vode za ljudsku potrošnju, potrebno je otkloniti uzroke nesukladnosti i ponoviti ispitivanje uzoraka na svim vertikalama građevine i to pri dnu i vrhu vertikale.
+(4) Prilikom tehničkog pregleda građevine koja je namijenjena proizvodnji i preradi hrane, ugostiteljstvu, zdravstvenoj, školskoj i predškolskoj djelatnosti, djelatnosti doma socijalne skrbi, pružanju higijenskih usluga pučanstvu i sličnim građevinama od javnozdravstvenog interesa, uzorci se uzimaju na najmanje 25 % izljevnih mjesta za provjeru usklađenosti parametara iz Priloga II. tablice 1. ovoga Pravilnika i parametra ugljikovodika.
+(5) Ukoliko se u građevinama iz stavka 4. ovog članka prilikom prve analize uzoraka utvrdi nesukladnost potrebno je otkloniti uzroke nesukladnosti i ponoviti ispitivanje na svim izljevnim mjestima.
+(6) Za potrebe tehničkog pregleda građevine u svrhu izdavanja uporabne dozvole uzorke mora uzeti ovlaštena stručna osoba laboratorija koji provodi analizu.
+(7) Laboratorij koji provodi analize uzoraka za potrebe tehničkog pregleda građevine obvezan je sačiniti objedinjeno izvješće s navedenim analitičkim podacima za sve uzorke.

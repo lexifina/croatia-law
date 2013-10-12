@@ -1,0 +1,3 @@
+# Članak 3.
+(1) Odredbe ovoga Pravilnika obvezne su primjenjivati pravne osobe koje isporučuju vodu za ljudsku potrošnju, pravne i fizičke osobe koje koriste vodu za ljudsku potrošnju pri proizvodnji ili pripremi hrane ili predmeta opće uporabe, pravne osobe koje stavljaju na tržište vodu u bocama ili drugoj ambalaži, laboratoriji koji provode ispitivanje vode za ljudsku potrošnju, službeni laboratoriji koji provode plan monitoringa i ispitivanje vode u svrhu službenih kontrola, te ovlaštene osobe koje provode službene kontrole.
+(2) Odredbe ovog Pravilnika ne odnose se na proizvodnju i stavljanje na tržište prirodnih mineralnih voda.

@@ -1,0 +1,5 @@
+## Učestalost uzimanja uzoraka vode za ljudsku potrošnju u sklopu sustava samokontrole subjekata u poslovanju s hranom
+# Članak 5.
+(1) Svaki subjekt u poslovanju s hranom obvezan je izraditi godišnji plan uzorkovanja vode za ljudsku potrošnju koju koristi u svom objektu sukladno opsegu i vrsti svog poslovanja.
+(2) Svaki subjekt koji posluje s hranom u objektu u kojem se proizvodi i prerađuje hrana, ugostiteljskom objektu, objektu zdravstvene ustanove, školske i predškolske ustanove, doma socijalne skrbi i sličnom objektu od javnozdravstvenog interesa, koji nije spojen na sustav javne vodoopskrbe već se vodom opskrbljuje iz vlastitog sustava, obvezan je dati na analizu uzorke vode za ljudsku potrošnju najmanje četiri puta godišnje tijekom svakog tromjesečja za svaki objekt, a po potrebi i češće, radi provjere sukladnosti parametara propisanih u Prilogu II. u Tablici 1. ovoga Pravilnika, koji je tiskan uz ovaj Pravilnik i njegov je sastavni dio.
+Učestalost uzimanja uzoraka vode za ljudsku potrošnju u sklopu sustava samokontrole od strane subjekta u poslovanju s hranom koji puni vodu u boce ili drugu ambalažu za stavljanje na tržište

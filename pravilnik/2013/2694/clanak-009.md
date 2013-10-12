@@ -1,0 +1,4 @@
+# Članak 9.
+(1) Ukoliko se monitoringom na određenom području utvrde veća odstupanja od parametara sukladnosti propisanih ovim Pravilnikom koja mogu ugroziti javno zdravlje, ministar može za određeno područje ili za određeni sustav donijeti izmjenu godišnjeg plana monitoringa s promijenjenim faktorom umnoška iz članka 8. stavka 4. i 5. ovoga Pravilnika.
+(2) Ukoliko se monitoringom ili drugim načinom kontrole utvrdi odstupanje određenog parametra ili se pojavi novi parametar koji može ugroziti javno zdravlje, ministar može naredbom proširiti opseg parametara za potrebe monitoringa i drugih službenih kontrola, kao i tehničkih pregleda građevina.
+Vrste i opseg analiza te broj potrebnih uzoraka vode za ljudsku potrošnju u svrhu ispitivanja njezine zdravstvene ispravnosti u građevinama prije izdavanja uporabne dozvole

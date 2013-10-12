@@ -1,0 +1,4 @@
+## PRIJELAZNE I ZAVRŠNE ODREDBE
+# Članak 12.
+(1) U slučaju odstupanja kemijskog parametra arsena od vrijednosti propisanih u Prilogu I. Tablici 3. ovoga Pravilnika, kada se postojećim postupcima obrade vode to odstupanje ne može otkloniti niti postoji mogućnost opskrbe vodom pučanstva na tom području na drugi način, pravnim osobama koje obavljaju djelatnost javne vodoopskrbe dopuštena je vrijednost odstupanja arsena do najviše 50,0 As µg/l u vodi za ljudsku potrošnju koju isporučuju, do pribavljanja rješenja za odobrenje odstupanja tog parametra od M.D.K. vrijednosti u skladu s odredbama Zakona o vodi za ljudsku potrošnju.
+(2) Rješenje iz stavka 1. ovoga članka pravne osobe koje obavljaju djelatnost javne vodoopskrbe obvezne su pribaviti u roku od šest mjeseci od dana stupanja na snagu ovoga Pravilnika.
