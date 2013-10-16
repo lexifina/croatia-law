@@ -1,0 +1,3 @@
+# Članak 4.
+U članku 13. mijenja se stavak 1. koji glasi:
+»(1) Uspješnost zatvorenika prvi puta se procjenjuje najkasnije 30 dana nakon dolaska u kaznionicu ili zatvor kod dolaska na izdržavanje kazne sa slobode, iz Centra za dijagnostiku, premještaja i nakon povratka s prekida kazne te se odnosi na ponašanje u prijamnom odjelu i prije donošenja pojedinačnog programa izvršavanja kazne zatvora. Pri donošenju prve procjene razine uspješnosti kriteriji su: pridržavanje odredbi kućnog reda, odnos prema službenicima i drugim zatvorenicima, pridržavanje uputa liječnika i poduzimanje mjera u svrhu liječenja i sprječavanja zaraznih bolesti i zaštite zdravlja, kritičnost prema počinjenom kaznenom djelu, održavanje osobne higijene i održavanje čistoće prostorija.«
