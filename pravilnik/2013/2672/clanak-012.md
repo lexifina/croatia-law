@@ -1,0 +1,3 @@
+# Članak 12.
+(1) Trgovačka društva koja obavljaju zdravstvenu djelatnost, poliklinike i ljekarničke zdravstvene ustanove te druge zdravstvene ustanove čiji osnivač nije županija, odnosno Grad Zagreb prema registriranoj djelatnosti mogu primati na pripravnički staž zdravstvene radnike visoke stručne spreme prema sljedećem mjerilu - 1 pripravnik na 2 zaposlena zdravstvena radnika odgovarajuće struke koji imaju najmanje 5 godina radnog iskustva u struci.
+(2) Trgovačka društva koja obavljaju zdravstvenu djelatnost, prema registriranoj djelatnosti, mogu primati na pripravnički staž po jednog pripravnika odgovarajuće struke iz članka 9. stavka 1. ovoga Pravilnika.
