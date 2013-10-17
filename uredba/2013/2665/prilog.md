@@ -1,0 +1,158 @@
+OKVIRNI BROJ DRŽAVNIH SLUŽBENIKA I NAMJEŠTENIKA MINISTARSTVA KULTURE
+Ustrojstvena jedinica u sastavu Ministarstva kulture
+Okvirni
+broj
+službenika i namještenika
+1. KABINET MINISTRA
+10
+2. GLAVNO TAJNIŠTVO MINISTARSTVA
+1
+- neposredno u Glavnom tajništvu, izvan sastava nižih ustrojstvenih jedinica
+1
+2.1. Služba za razvoj i upravljanje ljudskim potencijalima
+11
+2.2. Služba za javnu nabavu i tehničke poslove
+1
+- neposredno u Službi, izvan sastava niže ustrojstvene jedinice
+4
+2.2.1. Pododsjek za tehničke poslove
+17
+2.3. Služba za informatizaciju i mrežne stranice Ministarstva
+8
+Glavno tajništvo Ministarstva - ukupno
+43
+3. UPRAVA ZA MEĐUNARODNE KULTURNE ODNOSE, EUROPSKE POSLOVE I JAVNU KOMUNIKACIJU
+- neposredno u Upravi, izvan sastava nižih ustrojstvenih jedinica
+1
+3.1. Služba za javnu komunikaciju
+1
+3.1.1. Odjel za medije
+5
+3.1.2. Odjel za digitalizaciju
+5
+3.2. Služba za UNESCO
+4
+3.3. Sektor za međunarodne kulturne odnose i europske poslove
+1
+3.3.1. Služba za europske poslove i fondove Europske unije
+8
+3.3.2. Služba za kulturne i kreativne industrije
+5
+3.3.3. Služba za međunarodne kulturne odnose
+1
+3.3.3.1. Odjel za bilateralnu i multilateralnu kulturnu suradnju
+5
+3.3.3.2. Odjel za usklađivanje kulturnih politika
+5
+Uprava za međunarodne kulturne odnose, europske poslove i javnu komunikaciju - ukupno
+41
+4. UPRAVA ZA ZAŠTITU KULTURNE BAŠTINE
+- neposredno u Upravi, izvan sastava nižih ustrojstvenih jedinica
+3
+4.1. Sektor za zaštitu kulturne baštine
+1
+4.1.1. Služba za nepokretnu kulturnu baštinu
+1
+4.1.1.1. Odjel za pojedinačnu nepokretnu kulturnu baštinu, povijesne cjeline i krajolik
+11
+4.1.1.2. Odjel za arheologiju
+5
+4.1.2. Služba za pokretnu, etnografsku i nematerijalnu kulturnu baštinu
+1
+4.1.2.1. Odjel za pokretnu kulturnu baštinu
+5
+4.1.2.2. Odjel za etnografsku i nematerijalnu kulturnu baštinu
+5
+4.1.3. Služba za dokumentaciju, registar i promociju kulturne baštine
+1
+4.1.3.1. Odjel za dokumentaciju kulturne baštine
+9
+4.1.3.2. Odjel za Registar kulturnih dobara
+6
+4.2. Sektor za konzervatorske odjele i inspekciju
+1
+4.2.1. Konzervatorski odjel u Zagrebu
+25
+4.2.2. Konzervatorski odjel u Bjelovaru
+6
+4.2.3. Konzervatorski odjel u Krapini
+6
+4.2.4. Konzervatorski odjel u Sisku
+5
+4.2.5. Konzervatorski odjel u Osijeku
+20
+4.2.6. Konzervatorski odjel u Slavonskom Brodu
+6
+4.2.7. Konzervatorski odjel u Požegi
+9
+4.2.8. Konzervatorski odjel u Varaždinu
+7
+4.2.9. Konzervatorski odjel u Karlovcu
+10
+4.2.10. Konzervatorski odjel u Puli
+14
+4.2.11. Konzervatorski odjel u Rijeci
+24
+4.2.12. Konzervatorski odjel u Gospiću
+5
+4.2.13. Konzervatorski odjel u Zadru
+11
+4.2.14. Konzervatorski odjel u Šibeniku
+11
+4.2.15 Konzervatorski odjel u Splitu
+23
+4.2.16. Konzervatorski odjel u Trogiru
+5
+4.2.17. Konzervatorski odjel u Dubrovniku
+18
+4.2.18. Konzervatorski odjel u Imotskom
+6
+4.2.19. Konzervatorski odjel u Vukovaru
+7
+4.2.20. Služba za inspekcijske poslove zaštite kulturne baštine
+11
+Uprava za zaštitu kulturne baštine - ukupno
+278
+5. UPRAVA ZA RAZVOJ KULTURE I UMJETNOSTI
+- neposredno u Upravi, izvan sastava nižih ustrojstvenih jedinica
+1
+5.1. Sektor za izvedbenu, likovnu, muzejsku i arhivsku djelatnost
+1
+5.1.1. Služba za dramsku umjetnost i audiovizualnu djelatnost
+8
+5.1.2. Služba za glazbu
+8
+5.1.3. Služba za muzejsko-galerijsku i likovnu djelatnost
+8
+5.1.4. Služba za arhivsku djelatnost
+5
+5.2. Sektor za književno-nakladničku i knjižničnu djelatnost
+1
+5.2.1. Služba za knjigu i nakladništvo
+8
+5.2.2. Služba za knjižničnu djelatnost i promidžbu knjige
+8
+Uprava za razvoj kulture i umjetnosti - ukupno
+48
+6. UPRAVA ZA PRAVNE I FINANCIJSKE POSLOVE
+- neposredno u Upravi, izvan sastava nižih ustrojstvenih jedinica
+1
+6.1. Sektor za normativne i upravno-pravne poslove
+1
+6.1.1. Služba za normativne poslove u kulturi i medijima
+9
+6.1.2. Služba za upravno-pravne poslove u kulturi
+8
+6.2. Sektor za gospodarenje i financiranje
+1
+6.2.1. Služba za strateško planiranje i analitiku u kulturi i medijima
+11
+6.2.2. Služba za financiranje i računovodstvo
+12
+Uprava za pravne i financijske poslove - ukupno
+43
+7. SAMOSTALNA SLUŽBA ZA UNUTARNJU REVIZIJU
+4
+UKUPNO MINISTARSTVO:
+467
+124 09.10.2013 Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva kulture
