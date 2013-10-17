@@ -1,0 +1,1 @@
+Na temelju članka 507.j stavka 2. Zakona o parničnom postupku (»Narodne novine« br. 53/91., 91/92., 58/93., 112/99., 88/01., 117/03., 88/05., 02/07., 84/08., 123/08., 57/11., 148/11. - pročišćeni tekst i 25/13.), ministar pravosuđa donosi
