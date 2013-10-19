@@ -1,0 +1,11 @@
+# Članak 4.
+Naslov iznad članka 35. i članak 35. mijenjaju se i glase:
+»Podnošenje prijave i naknadnih podnesaka podnositelja prijave u elektroničkom obliku
+Članak 35.
+(1) Prijava za registraciju žiga i naknadni podnesci podnositelja prijave u jednostranačkom postupku registracije i održavanja žiga u vrijednosti mogu se podnijeti u elektroničkom obliku korištenjem usluge podnošenja elektroničke prijave i naknadnih podnesaka dostupne putem internetske stranice Zavoda.
+(2) Zavod na svojoj internetskoj stranici objavljuje tehničke preduvjete za ostvarivanje elektroničke komunikacije za podnošenje prijave odnosno naknadnih podnesaka u skladu sa stavkom 1. ovoga članka. Podnositelj prijave koji želi podnijeti prijavu odnosno naknadne podneske u skladu sa stavkom 1. ovoga članka obavezan je osigurati tehničke preduvjete podnošenja elektroničkim putem. Zavod će osigurati potrebnu programsku podršku radi njihovog zaprimanja elektroničkim putem.
+(3) Prilikom podnošenja prijave odnosno naknadnih podnesaka u skladu sa stavkom 1. ovoga članka podnositelj je obavezan koristiti kvalificirane certifikate koje je izdala ovlaštena pravna osoba registrirana za izdavanje certifikata.
+(4) Smatra se da su prijava odnosno naknadni podnesci zaprimljeni u Zavodu u skladu sa stavkom 1. ovoga članka kada je automatiziranom radnjom verificiran napredni elektronički potpis podnositelja prijave.
+(5) Obavijest o uspješno zaprimljenoj prijavi odnosno naknadnim podnescima podnesenim u skladu sa stavkom 1. ovoga članka Zavod će poslati podnositelju elektroničkom poštom s naznačenim privremenim evidencijskim brojem te datumom i vremenom zaprimanja prijave, odnosno naknadnih podnesaka.
+(6) Ako se prijava, odnosno naknadni podnesci podnose u skladu sa stavkom 1. ovoga članka, na istovjetan način podnose se prilozi koji se prilažu uz prijavu. Prijave odnosno naknadni podnesci dostavljeni elektroničkim putem s naprednim elektroničkim potpisom smatraju se vlastoručno potpisanim.
+(7) Prilozi uz prijavu odnosno naknadni podnesci dostavljeni u skladu sa stavkom 1. ovoga članka smatrat će se izvornicima dokumenata, a podnositelj potpisivanjem naprednim elektroničkim potpisom jamči istovjetnost priložene dokumentacije u elektroničkom obliku s izvornom dokumentacijom.«

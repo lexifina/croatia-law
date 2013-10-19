@@ -1,0 +1,4 @@
+# Članak 1.
+U Pravilniku o žigu (»Narodne novine« broj 117/2007 i 66/2011) u članku 14. iza stavka 3. dodaju se stavci 4. i 5. koji glase:
+»(4) Ako se prigovor temelji na ranijem žigu iz članka 6. Zakona, čija zaštita je priznata ili je podnesen zahtjev za priznanjem zaštite na teritoriju Republike Hrvatske temeljem međunarodnih sporazuma koji vrijede u Republici Hrvatskoj ili na ranijem žigu iz članka 67.c. Zakona, podnositelj prigovora dužan je dostaviti popis proizvoda i usluga ranijeg žiga na kojem se temelji prigovor na hrvatskom jeziku.
+(5) Ako se prigovor odnosi na žig za koji je podnesen zahtjev za priznanjem zaštite na teritoriju Republike Hrvatske temeljem međunarodnih sporazuma koji vrijede u Republici Hrvatskoj, podnositelj prigovora dužan je dostaviti popis proizvoda i usluga žiga u odnosu na koji se podnosi prigovor na hrvatskom jeziku.«
