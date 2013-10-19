@@ -1,0 +1,7 @@
+## Dodatne obveze korisnika
+# Članak 37.
+(1) Korisnik je dužan osigurati izvođenje ulaganja u skladu s opisom i planom aktivnosti navedenim u zahtjevu, u realizaciji odobrenog ulaganja dužan je osigurati praćenje količine i kakvoće nabavljenih i ugrađenih građevnih proizvoda, materijala, opreme i izvršenih radova, čime se ostvaruje kakvoća građevine i opreme u skladu s projektom.
+(2) Korisnik je dužan s izvođačem radova sklopiti ugovor kojim se izvođač obvezuje voditi građevinski dnevnik i građevinsku knjigu bez obzira na vrstu ugovora.
+(3) Korisnik je dužan putem izvođača radova i/ili nadzornog inženjera gradnje sukladno posebnom propisu o gradnji, te osigurati dokaze o uporabljivosti ugrađenih građevnih proizvoda, dokaze o sukladnosti ugrađene opreme po posebnom propisu, isprave o sukladnosti određenih dijelova građevine bitnim zahtjevima za građevinu i dokaze kvalitete (certifikate sukladnosti građevnog proizvoda, rezultate ispitivanja, zapise o provedenim procedurama kontrole kvalitete i dr.) izdane od za to ovlaštenih tijela za koje je, posebnim propisom ili projektom određena obveza prikupljanja tijekom izvođenja građevinskih i drugih radova za sve izvedene dijelove građevine i za radove koji su u tijeku.
+(4) Agencija za plaćanja će provedbu odredbi stavaka 1., 2. i 3. ovoga članka kontrolirati te tražiti na uvid dokaze iz stavka 2. ovoga članka prilikom kontrola na terenu.
+(5) Tijekom trajanja provedbe ulaganja, Korisnik je dužan provoditi praćenje prihvatljivosti ulaganja i udovoljavanja kriterijima propisanim Odlukom o odobrenju projekta.
