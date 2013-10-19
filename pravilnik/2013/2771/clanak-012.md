@@ -1,0 +1,9 @@
+# Članak 12.
+(1) Prijave pristigle po objavljenom natječaju iz članka 10. ovoga Pravilnika, obrađuju se po redoslijedu zaprimanja potpune prijave.
+(2) Prilikom administrativne kontrole prijava utvrđuje se pravovremenost, potpunost prijave, udovoljavanje prijave propisanim uvjetima za provedbu mjeru Promidžba, prihvatljive aktivnosti te iznos prihvatljivih troškova.
+(3) Podnositelj prijave u ime poljoprivrednog gospodarstva je nositelj poljoprivrednog gospodarstva upisan u Upisnik poljoprivrednih gospodarstava, odnosno u ime javnog tijela odgovorna osoba za zastupanje javnog tijela, u ime udruge proizvođača vina predsjednik udruge odnosno predsjednik zadružnog saveza u ime zadružnog saveza.
+(4) Prijava treba biti potpisana (fizičke osobe) i ovjerena (pravne osobe) od nositelja poljoprivrednog gospodarstva koji se vodi u Upisniku poljoprivrednih gospodarstava odnosno potpisana i ovjerena od odgovorne osobe za zastupanje (udruženja i javna tijela) te uvezana zajedno s Planom aktivnosti, potrebnom dokumentacijom i drugim prilozima sukladno natječaju, a listovi numerirani (stranice).
+(5) Prijave se podnose isključivo preporučenom poštom s povratnicom na adresu Agencije za plaćanje objavljenu u natječaju.
+(6) Uz obrazac Prijave podnositelj je dužan priložiti popunjeni Plan aktivnosti s pratećom dokumentacijom sukladno natječaju iz članka 10. ovog Pravilnika.
+(7) Ukoliko je Podnositelj javno tijelo utemeljeno zakonom koje predstavlja proizvođače vina ili udruga proizvođača vina ili zadružni savez, pri podnošenju prijave prilaže dokumentaciju iz koja se odnosi na njegove članove i uz istu dostavlja dokaz o članstvu pojedinih članova čija je dokumentacija priložena uz Prijavu.
+(8) Nepravovremene prijave neće se razmatrati te će podnositelju prijave biti izdana Odluka o odbacivanju prijave.
