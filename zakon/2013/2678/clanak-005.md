@@ -1,0 +1,6 @@
+# Članak 5.
+U članku 45. stavku 3. iza riječi: »Hrvatski zavod za mirovinsko osiguranje« dodaju se riječi: »ili isplatitelj inozemnih mirovina iz sustava socijalnog osiguranja«.
+Iza stavka 7. dodaje se novi stavak 8. koji glasi:
+»(8) Iznimno od stavka 7. ovoga članka, diplomatsko ili konzularno predstavništvo strane države, međunarodna organizacija ili predstavništvo ili organizacija koja na teritoriju Republike Hrvatske ima diplomatski imunitet može za svoje radnike i fizičke osobe koje ostvaruju primitke od nesamostalnog rada iz članka 14. stavka 1. ovoga Zakona, na vlastiti zahtjev, preuzeti obvezu obračunavanja, obustavljanja i plaćanja predujmova poreza na dohodak prema stavcima 1., 2., 4. i 5. ovoga članka.«,
+Dosadašnji stavak 8. postaje stavak 9.
+U dosadašnjem stavku 9., koji postaje stavak 10., riječi: »točke 4.« zamjenjuju se riječima: »točke 5.«, riječi: »stavka 8.« zamjenjuju se riječima: »stavka 9.«, a na kraju rečenice iza točke dodaje se rečenica koja glasi: »Iznimno, porezni obveznici mogu na vlastiti zahtjev predujam poreza na dohodak plaćati prema rješenju Porezne uprave, mjesečno, do posljednjeg dana u mjesecu za tekući mjesec, odnosno tromjesečno, do posljednjeg dana svakog tromjesečja ako je utvrđeni mjesečni predujam poreza na dohodak i prireza porezu na dohodak do 100,00 kuna.«.

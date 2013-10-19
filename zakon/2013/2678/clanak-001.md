@@ -1,0 +1,2 @@
+# Članak 1.
+U Zakonu o porezu na dohodak (»Narodne novine«, br. 177/04., 73/08., 80/10., 114/11., 22/12. i 144/12.), u članku 6. stavku 2. iza riječi: »ovoga Zakona« stavlja se zarez i dodaju riječi: »odnosno umanjen za osobni odbitak iz članka 36. ovoga Zakona za fizičke osobe koje su rezidenti država članica Europske unije i Europskog gospodarskog prostora, osim Republike Hrvatske, sukladno s člankom 36. stavkom 14. ovoga Zakona«.

@@ -1,0 +1,2 @@
+# Članak 8.
+Iznimno od članka 6. ovoga Zakona i članka 51. stavka 4. Zakona o porezu na dohodak (»Narodne novine«, br. 177/04., 73/08., 80/10., 114/11., 22/12. i 144/12.), ako je odluka o isplati dividende i udjela u dobiti na temelju udjela u kapitalu donesena, u skladu s posebnim propisima, prije stupanja na snagu ovoga Zakona, a isti nisu isplaćeni do dana stupanja na snagu ovoga Zakona, pri isplati te dividende i udjela u dobiti primijenit će se propisi koji su bili na snazi na dan kada je ta odluka donesena, što isplatitelj dokazuje vjerodostojnim ispravama.
