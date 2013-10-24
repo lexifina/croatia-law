@@ -1,0 +1,1 @@
+Na temelju članka 7. stavka 3. Zakona o državnim potporama (»Narodne novine«, broj 72/2013) i članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, broj 150/2011), Vlada Republike Hrvatske je na sjednici održanoj 24. listopada 2013. godine donijela
