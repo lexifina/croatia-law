@@ -1,0 +1,4 @@
+# Članak 3.
+(1) Potvrda sadrži podatke o kaznenom djelu i podatke o neposrednoj žrtvi iz članka 5. stavka 2. i 4. Zakona.
+(2) Podaci o kaznenom djelu u smislu ovog Pravilnika su: datum prijavljivanja odnosno evidentiranja kaznenog djela, naziv ustrojstvene jedinice policije na čijem području je djelo prijavljeno ili evidentirano, vrijeme i mjesto počinjenja kaznenog djela, posljedicu kaznenog djela i kratak opis događaja. Ako je nadležnom državnom odvjetništvu upućena kaznena prijava, ti podaci sadrže i podatak o kaznenom djelu za koje je prijava podnesena i ako je poznat broj državnoodvjetničkog spisa te broj unosa u informatički sustav Ministarstva unutarnjih poslova iz kojeg se pribavljaju prethodni podaci.
+(3) Podaci o neposrednoj žrtvi u smislu ovog Pravilnika su: ime i prezime, datum i mjesto rođenja, državljanstvo i adresu prebivališta odnosno boravišta žrtve, te OIB ukoliko je poznat te podaci o smrti žrtve, ako je žrtva preminula.
