@@ -1,0 +1,5 @@
+# Članak 19.
+Iza članka 127. dodaje se članak 127.a koji glasi:
+»Članak 127.a
+(1) U smislu članka 24. Zakona o izmjenama i dopunama Zakona o trošarinama (»Narodne novine«, broj 81/2013) cigarete koje su označene duhanskim markicama Ministarstva financija sukladno članku 65. Zakona o trošarinama (»Narodne novine«, br. 83/2009 i 111/2012) i na koje je sukladno članku 22. Zakona o trošarinama (»Narodne novine«, br. 22/2013, 32/2013 i 81/2013) do 1. studenoga 2013. godine nastala obveza obračunavanja trošarine smatraju se cigaretama označenim sukladno članku 78. Zakona o trošarinama (»Narodne novine«, br. 22/2013, 32/2013 i 81/2013) i mogu se nalaziti u prometu na teritoriju Republike Hrvatske najkasnije do 1. siječnja 2015. godine.
+(2) Na cigarete iz stavka 1. ovoga članka primjenjuje se obveza obračunavanja trošarine sukladno članku 22. stavku 9. Zakona o trošarinama (»Narodne novine«, br. 22/2013, 32/2013 i 81/2013) i mogu se prodavati po maloprodajnim cijenama ne višim od zadnje važeće prijavljene maloprodajne cijene.«.

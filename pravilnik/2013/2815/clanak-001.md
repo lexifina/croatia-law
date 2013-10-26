@@ -1,0 +1,5 @@
+# Članak 1.
+U Pravilniku o trošarinama (»Narodne novine«, broj 64/2013) u članku 2. stavak 3. mijenja se i glasi:
+»(3) Iznimno od stavka 1. ovoga članka, kretanje energenata koje se odvija na teritoriju Republike Hrvatske iz trošarinskog skladišta neposredno u zrakoplov, odnosno plovni objekt ili plovilo, a koji se koriste kao pogonsko gorivo za namjene iz članka 101. stavka 1. točke 1. i 2. Zakona dozvoljeno je bez primjene elektroničkog trošarinskog dokumenta (u daljnjem tekstu: e-TD).«.
+Iza stavka 3. dodaje se stavak 4. koji glasi:
+»(4) Iznimno od stavka 1. ovoga članka, kretanje duhanskih prerađevina te alkohola i alkoholnih pića koje se odvija na teritoriju Republike Hrvatske iz trošarinskog skladišta do carinskog skladišta dozvoljeno je uz uobičajenu komercijalnu ispravu. Kretanje duhanskih prerađevina te alkohola i alkoholnih pića koja su prodana u izdvojenim prodajnim mjestima trošarinskih skladišta u zračnim lukama putnicima koji putuju u treću državu ili treći teritorij dozvoljeno je bez primjene e-TD-a.«.
