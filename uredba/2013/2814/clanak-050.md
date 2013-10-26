@@ -1,0 +1,4 @@
+# Članak 50.
+(1) Postupku neposredne prodaje mogu pristupiti samo potencijalni kupci koji prijave sudjelovanje u postupku i izvrše uplatu jamčevine. Jamčevina iznosi 10% početne cijene dionica i mora biti evidentirana na računu Centra najkasnije 3 dana prije održavanja postupka neposredne prodaje.
+(2) Prijava za sudjelovanje u postupku neposredne prodaje podnosi se Centru putem Obrasca najkasnije 3 dana prije održavanja postupka neposredne prodaje. Obrazac prijave za sudjelovanje u postupku neposredne prodaje bit će dostavljen svakom potencijalnom kupcu uz poziv za sudjelovanje u postupku.
+(3) Centar ima pravo zadržati uplaćenu jamčevinu u slučaju da potencijalni kupac, koji je uplatio jamčevinu, odustane od kupnje, a odustanak od sudjelovanja u postupku neposredne prodaje ne prijavi Centru pisanim putem najkasnije 24 sata prije održavanja postupka neposredne prodaje.

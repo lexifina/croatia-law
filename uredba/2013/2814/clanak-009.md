@@ -1,0 +1,3 @@
+# Članak 9.
+(1) Centar će za provedbu javne ponude dionica trgovačkog društva, sukladno Zakonu o javnoj nabavi, angažirati ovlaštenu osobu koja mora imati ovlaštenje HANFE za obavljanje investicijskih usluga provedbe ponude, odnosno prodaje financijskih instrumenata uz obvezu ili bez obveze otkupa.
+(2) Centar može u izboru ovlaštene osobe iz stavka 1. ovog članka, za provođenje javne ponude dati prednost ovlaštenoj osobi koja je radila procjenu vrijednosti odnosno analizu financijskog, pravnog i organizacijskog položaja trgovačkog društva, ukoliko osoba zadovoljava uvjete iz stavka 1. ovoga članka.

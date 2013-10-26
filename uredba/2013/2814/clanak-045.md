@@ -1,0 +1,4 @@
+# Članak 45.
+(1) Početna cijena dionica koje se prodaju na uređenom tržištu, ali se njihovim dionicama nije trgovalo u posljednja 3 mjeseca koji prethode donošenju odluke o prodaji, je zadnja poznata prosječna dnevna cijena na uređenom tržištu objavljena na web stranicama Zagrebačke burze prije davanja naloga ovlaštenom investicijskom društvu.
+(2) U slučaju da se u roku od 5 trgovinskih dana ne realizira prodaja dionica po utvrđenoj početnoj cijeni iz stavka 1. ovog članka, svakih 5 trgovinskih dana može se vršiti korekcija cijene na niže sukladno ponudi i potražnji na tržištu, ali ne više od po 6% do konačne prodaje ili promjene načina raspolaganja.
+(3) Odluku o početnoj cijeni dionica koje se prodaju na uređenom tržištu iz stavaka 1. i 2. ovog članka donosi nadležno tijelo iz članka 7. ove Uredbe.
