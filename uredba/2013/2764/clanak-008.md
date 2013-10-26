@@ -1,0 +1,63 @@
+# Članak 8.
+U sjedištu policijske uprave policijskom službeniku se kao 14 mjeseci staža osiguranja računa svakih 12 mjeseci stvarno provedenih na radnom mjestu:
+- detektiva kriminaliteta droga
+- detektiva za nadzor organiziranog kriminaliteta
+- detektiva za potrage
+- detektiva za razbojništva
+- instruktora za naoružanje i nastavu gađanja
+- instruktora za obuku
+- instruktora za opću i specijalističku tjelesnu pripremu
+- instruktora za taktiku, postupanja i intervencije
+- policijskog službenika - logističara
+- policijskog službenika - vođe grupe kriminaliteta droga
+- policijskog službenika - vođe grupe za ekstremno nasilje
+- policijskog službenika - vođe grupe za terorizam
+- policijskog službenika kriminaliteta droga
+- policijskog službenika vođe ekipe za očevide
+- policijskog službenika za delikte protiv opće sigurnosti
+- policijskog službenika za ekstremno nasilje
+- policijskog službenika za financijske institucije, izvangospodarske djelatnosti, intelektualno vlasništvo i kompjuterski kriminalitet
+- policijskog službenika za gospodarski kriminalitet
+- policijskog službenika za imovinski kriminalitet
+- policijskog službenika za kazneno-pravnu zaštitu djece i maloljetnika
+- policijskog službenika za korupciju
+- policijskog službenika za krađe
+- policijskog službenika za krvne delikte
+- policijskog službenika za maloljetničku delinkvenciju
+- policijskog službenika za nadzor organiziranog kriminaliteta
+- policijskog službenika za nedozvoljenu proizvodnju, trgovinu i krijumčarenje pravnih osoba
+- policijskog službenika za obradu općeg kriminaliteta
+- policijskog službenika za obradu organiziranog kriminaliteta
+- policijskog službenika za očevide
+- policijskog službenika za potrage
+- policijskog službenika za proizvodnju i obrtništvo
+- policijskog službenika za ratne zločine
+- policijskog službenika za razbojništva
+- policijskog službenika za seksualne delikte
+- policijskog službenika za terorizam
+- policijskog službenika za terorizam i ekstremno nasilje
+- policijskog službenika za terorizam, ratne zločine i ekstremno nasilje
+- policijskog službenika za trgovinu
+- pomoćnika zapovjednika interventne jedinice policije
+- samostalnog kriminalističkog tehničara u policijskoj upravi
+- višeg kriminalističkog tehničara u policijskoj upravi
+- voditelja Odjela za pripremu i planiranje
+- voditelja Službe za osiguranja
+- vođe grupe za delikte protiv opće sigurnosti
+- vođe grupe za financijske institucije, izvangospodarsku djelatnost, intelektualno vlasništvo i kompjutorski kriminalitet
+- vođe grupe za gospodarski kriminalitet
+- vođe grupe za kazneno pravnu zaštitu djece i maloljetnika
+- vođe grupe za krađe
+- vođe grupe za krvne delikte
+- vođe grupe za maloljetničku delinkvenciju
+- vođe grupe za nadzor organiziranog kriminaliteta
+- vođe grupe za nedozvoljenu proizvodnju, trgovinu i krijumčarenje pravnih osoba
+- vođe grupe za obradu općeg kriminaliteta
+- vođe grupe za organizirani kriminalitet
+- vođe grupe za proizvodnju i obrtništvo
+- vođe grupe za razbojništva
+- vođe grupe za seksualne delikte
+- vođe grupe za suzbijanje maloljetničke delinkvencije
+- vođe grupe za trgovinu
+- zamjenika zapovjednika interventne jedinice policije
+- zapovjednika interventne jedinice policije.

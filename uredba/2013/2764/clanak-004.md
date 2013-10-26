@@ -1,0 +1,38 @@
+# Članak 4.
+U sjedištu Ministarstva unutarnjih poslova policijskom službeniku se kao 16 mjeseci staža osiguranja računa svakih 12 mjeseci stvarno provedenih na radnom mjestu:
+- detektiva za posebne kriminalističke poslove
+- instruktora za padobranstvo specijalne policije
+- policijskog službenika - motociklista
+- policijskog službenika - rtg operatera
+- policijskog službenika - vodiča službenog psa za detekciju eksploziva
+- policijskog službenika - pomoćnika voditelja osiguranja štićenog objekta
+- policijskog službenika specijalne policije
+- policijskog službenika - vodiča službenog psa u specijalnoj jedinici policije
+- policijskog službenika voditelja osiguranja štićenog objekta
+- policijskog službenika za nadzor i potporu
+- policijskog službenika za osiguranje objekta
+- policijskog službenika za posebno osiguranje
+- policijskog službenika za promet
+- policijskog službenika za protueksplozijsku zaštitu
+- policijskog službenika za provedbu nadzora državne granice
+- policijskog službenika za provedbu nadzora državne granice - vodič službenog psa za otkrivanje droga
+- policijskog službenika za sigurnost Policijske akademije
+- policijskog službenika za unutarnje osiguranje
+- policijskog službenika za vanjsko osiguranje
+- pratitelja
+- šefa osiguranja štićenog objekta
+- voditelja grupe za provedbu nadzora državne granice
+- voditelja poslova osiguranja domaćih i stranih štićenih osoba
+- voditelja poslova osiguranja predsjednika Hrvatskoga sabora
+- voditelja poslova osiguranja predsjednika Republike Hrvatske
+- voditelja poslova osiguranja predsjednika Vlade Republike Hrvatske
+- voditelja za sigurnosne prethodnice i koordinaciju
+- vođe grupe
+- vođe grupe - pratitelja
+- vođe grupe za posebna osiguranja
+- vođe grupe za protueksplozijsku zaštitu
+- vođe prometne ophodnje
+- vođe specijalističke grupe specijalne policije
+- vozača u Službi za osiguranje i zaštitu štićenih osoba
+- vozača - motorista
+- zapovjednika voda specijalne policije.

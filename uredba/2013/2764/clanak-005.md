@@ -1,0 +1,38 @@
+# Članak 5.
+U sjedištu policijske uprave policijskom službeniku se kao 16 mjeseci staža osiguranja računa svakih 12 mjeseci stvarno provedenih na radnom mjestu:
+- detektiva - vodiča službenog psa za otkrivanje droga
+- kriminalističkog tehničara u policijskoj upravi
+- policijskog službenika - dokumentarista
+- policijskog službenika - poslužitelja oklopnog vozila
+- policijskog službenika - poslužitelja vodenog topa
+- policijskog službenika - vezista
+- policijskog službenika - vodiča službenog psa
+- policijskog službenika - vodiča službenog psa za detekciju eksploziva
+- policijskog službenika ekipe za posebne zadaće
+- policijskog službenika interventne jedinice policije
+- policijskog službenika za foto i video dokumentaciju
+- policijskog službenika za organizaciju sustava veza
+- policijskog službenika za osiguranje u Operativno-komunikacijskom centru policije
+- policijskog službenika za protueksplozijsku zaštitu
+- policijskog službenika za zadržavanje
+- pomoćnika zapovjednika interventne satnije
+- pomoćnika zapovjednika satnije za podršku
+- voditelja Protueksplozijske službe
+- voditelja Protueksplozijskog odjela
+- vođe grupe ekipe za posebne zadaće
+- vođe grupe za protueksplozijsku zaštitu
+- vođe interventne grupe
+- vođe ophodnje za zadržavanje
+- zapovjednika ekipe za posebne zadaće
+- zapovjednika interventne satnije
+- zapovjednika interventnog odjeljenja
+- zapovjednika interventnog voda
+- zapovjednika odjeljenja ekipe za posebne zadaće
+- zapovjednika odjeljenja sa zaštitno - tragačkim psima
+- zapovjednika odjeljenja vodenog topa
+- zapovjednika oklopnog odjeljenja
+- zapovjednika oklopnog voda
+- zapovjednika satnije za podršku
+- zapovjednika voda sa zaštitno - tragačkim psima
+- zapovjednika voda vodenih topova
+- zapovjednika voda za podršku.

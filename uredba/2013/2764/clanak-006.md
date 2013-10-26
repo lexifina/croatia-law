@@ -1,0 +1,39 @@
+# Članak 6.
+U policijskoj postaji policijskom službeniku se kao 16 mjeseci staža osiguranja računa svakih 12 mjeseci stvarno provedenih na radnom mjestu:
+- detektiva za obradu kriminaliteta
+- kontakt policajca
+- kriminalističkog tehničara u policijskoj postaji
+- policijskog službenika
+- policijskog službenika - kriminalističko prometnog tehničara
+- policijskog službenika - mornara
+- policijskog službenika - operatera protudiverzijske zaštite
+- policijskog službenika - prometnog motociklista
+- policijskog službenika - vodiča službenog psa za detekciju eksploziva
+- policijskog službenika - vodiča službenog psa za zaštitu granice
+- policijskog službenika vođe ekipe za očevide u cestovnom prometu
+- policijskog službenika za gospodarski kriminalitet
+- policijskog službenika za graničnu kontrolu
+- policijskog službenika za graničnu kontrolu u lukama na moru
+- policijskog službenika za graničnu kontrolu u zračnoj luci
+- policijskog službenika za maloljetničku delinkvenciju
+- policijskog službenika za maloljetničku delinkvenciju i obradu kriminaliteta
+- policijskog službenika za nezakonite migracije
+- policijskog službenika za obradu kriminaliteta
+- policijskog službenika za protueksplozijsku zaštitu
+- policijskog službenika za sigurnost cestovnog prometa
+- policijskog službenika za suzbijanje prekograničnog kriminaliteta
+- policijskog službenika za zaštitu granice
+- upravitelja stroja ophodnog broda TIP A
+- upravitelja stroja ophodnog broda TIP B
+- voditelja ophodne brodice
+- voditelja ophodnog čamca
+- voditelja smjene graničnog prijelaza
+- vođe grupe za kriminalističku obradu
+- vođe grupe za obradu kriminaliteta
+- vođe grupe za protueksplozijsku zaštitu
+- vođe grupe za zaštitu granice
+- vođe ophodnje
+- vođe ophodnje za sigurnost cestovnog prometa
+- zamjenika zapovjednika ophodnog broda TIP A
+- zapovjednika ophodnog broda TIP A
+- zapovjednika ophodnog broda TIP B.

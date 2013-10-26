@@ -1,0 +1,37 @@
+# Članak 9.
+U policijskoj postaji policijskom službeniku se kao 14 mjeseci staža osiguranja računa svakih 12 mjeseci stvarno provedenih na radnom mjestu:
+- detektiva za kriminalističke evidencije, potrage i identifikaciju
+- detektiva za kriminalističku obradu, evidencije, potrage i identifikaciju
+- policijskog službenika - operatera na sredstvima veze
+- policijskog službenika - operatera pomorskog prometa
+- policijskog službenika za kriminalističku obradu u cestovnom prometu
+- policijskog službenika za prevenciju
+- policijskog službenika za preventivu u cestovnom prometu
+- policijskog službenika za sigurnost i preventivu cestovnog prometa
+- pomoćnika načelnika policijske postaje
+- pomoćnika načelnika policijske postaje za aerodromsku policiju
+- pomoćnika načelnika policijske postaje za granicu
+- pomoćnika načelnika policijske postaje za graničnu kontrolu
+- pomoćnika načelnika policijske postaje za graničnu kontrolu i aerodromsku policiju
+- pomoćnika načelnika policijske postaje za kontrolu i upravljanje u cestovnom prometu
+- pomoćnika načelnika policijske postaje za kriminalističku obradu i očevide cestovnih prometnih nezgoda
+- pomoćnika načelnika policijske postaje za kriminalističku policiju
+- pomoćnika načelnika policijske postaje za policiju
+- pomoćnika načelnika policijske postaje za policiju i kriminalističku policiju
+- pomoćnika načelnika policijske postaje za pomorsku policiju
+- pomoćnika načelnika policijske postaje za pomorsku policiju i graničnu kontrolu
+- pomoćnika načelnika policijske postaje za preventivu u cestovnom prometu
+- pomoćnika načelnika policijske postaje za sigurnost cestovnog prometa
+- pomoćnika načelnika policijske postaje za sigurnost i preventivu cestovnog prometa
+- pomoćnika načelnika policijske postaje za ustroj i organizaciju rada
+- pomoćnika načelnika policijske postaje za zaštitu granice
+- pomoćnika šefa smjene policijske ispostave
+- pomoćnika šefa smjene policijske postaje
+- šefa smjene policijske postaje
+- šefa smjene postaje aerodromske policije
+- šefa smjene postaje granične policije
+- vođe aerodromskog sektora
+- vođe graničnog sektora
+- vođe pomorskog sektora
+- vođe sektora
+- vođe sektora za sigurnost cestovnog prometa.
