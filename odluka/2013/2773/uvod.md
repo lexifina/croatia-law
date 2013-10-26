@@ -1,0 +1,1 @@
+Na temelju članka 28. stavka 4. Zakona o sigurnosti i interoperabilnosti željezničkog sustava (»Narodne novine«, br. 82/2013) ravnatelj Agencije za sigurnost željezničkog prometa uz suglasnost ministra pomorstva, prometa i infrastrukture donosi
