@@ -1,0 +1,3 @@
+# Članak 6.
+(1) Na darovanje nekretnina pravnim i fizičkim osobama, bez obzira na vlasništvo, trgovačkim društvima čiji je Republika Hrvatska jedini osnivač i vlasnik te ustanovama čiji je jedan od osnivača Republika Hrvatska, a ukoliko obavljaju gospodarsku djelatnost i sudjeluju u prometu roba i usluga, primjenjuju se propisi o državnim potporama.
+(2) Propisi o državnim potporama primjenjuju se i u slučaju kad jedinica lokalne i područne (regionalne) samouprave darovanu nekretninu dalje daruje, proda ili dade u najam ispod tržišne cijene, u korist poduzetnika koji se u smislu Zakona o državnim potporama mogu smatrati korisnicima državnih potpora.
