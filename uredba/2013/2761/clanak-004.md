@@ -1,0 +1,3 @@
+# Članak 4.
+(1) Državni ured će, po prethodno donesenoj odluci o dodjeli nekretnine na korištenje od strane tijela nadležnog iz članka 54. Zakona o upravljanju i raspolaganju imovinom u vlasništvu Republike Hrvatske (u daljnjem tekstu: Zakon), sklopiti ugovor o korištenju nekretnine za osiguranje potreba korisnika iz članka 2. ove Uredbe.
+(2) Tijela iz članka 2. ove Uredbe dužna su dodijeljene nekretnine privesti svrsi najkasnije u roku od 3 godine od dana stupanja u posjed, u suprotnom ugovor o korištenju se raskida, a tijela su nekretninu dužna predati Državnom uredu radi daljnjeg raspolaganja.

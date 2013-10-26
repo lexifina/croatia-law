@@ -1,0 +1,5 @@
+# Članak 24.
+(1) Dužnosnik koji koristi stan za službene potrebe, bez obzira nalazi li se stan u objektu za službene potrebe ili je unajmljeni stan, sukladno članku 18. ove Uredbe, dužan je sam snositi troškove po osnovi korištenja stana (utrošak električne i toplinske energije, plina, vode, dimnjačarskih usluga, čistoće, komunalne i vodne naknade i drugih troškova stanovanja).
+(2) Troškove pričuve te troškove tekućeg i investicijskog održavanja za stanove za službene potrebe u vlasništvu Republike Hrvatske snosi Državni ured.
+(3) U slučaju najma stana iz članka 18. ove Uredbe, tijelo državne uprave ili drugo tijelo korisnik državnog proračuna u kojem dužnosnik obavlja svoju dužnost snosi i sve druge troškove vezane uz sklapanje ugovora o najmu stana poput pologa, agencijskih troškova ili slično do maksimalnog iznosa jedne mjesečne najamnine.
+(4) Tijelo državne uprave ili drugo tijelo korisnik državnog proračuna u kojem dužnosnik obavlja svoju dužnost dužno je osigurati sredstva za troškove iz stavaka 1. i 3. ovog članka u državnom proračunu na svojoj poziciji.

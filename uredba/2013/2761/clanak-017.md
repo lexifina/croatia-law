@@ -1,0 +1,2 @@
+# Članak 17.
+Iznimno od odredbe iz članka 12. ove Uredbe, stanovi za službene potrebe dodjeljuju se na korištenje i drugim osobama koje rade u tijelima državne uprave, odnosno drugim tijelima korisnicima državnog proračuna, za vrijeme obavljanja poslova na koje su raspoređeni, na temelju prijedloga tih tijela i na njihov obrazloženi zahtjev, po kriterijima iz članka 14. stavka 1. podstavka 3. ove Uredbe.

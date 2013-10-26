@@ -1,0 +1,3 @@
+# Članak 15.
+(1) Dužnosnik ostvaruje pravo na dodjelu stana za službene potrebe u skladu s odredbama ove Uredbe, ako on, njegov bračni ili izvanbračni drug odnosno osoba s kojom dužnosnik živi u istospolnoj zajednici nemaju u vlasništvu ili u najmu useljiv stan ili kuću u mjestu obavljanja dužnosti odnosno mjestu udaljenom više od 50 km od mjesta obavljanja dužnosti.
+(2) Odredbe iz stavka 1. ovog članka ne odnose se na predsjednika Republike Hrvatske, predsjednika Hrvatskoga sabora i predsjednika Vlade Republike Hrvatske iz razloga što isti ostvaruju pravo na smještaj i rezidencijalne objekte u vlasništvu Republike Hrvatske.
