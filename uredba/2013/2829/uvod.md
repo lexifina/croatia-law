@@ -1,0 +1,1 @@
+Na temelju članka 24. stavaka 6. i 7. Zakona o upravljanju i raspolaganju imovinom u vlasništvu Republike Hrvatske (»Narodne novine«, broj 94/2013), Vlada Republike Hrvatske je na sjednici održanoj 24. listopada 2013. godine donijela

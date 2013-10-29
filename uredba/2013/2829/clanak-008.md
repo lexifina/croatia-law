@@ -1,0 +1,4 @@
+# Članak 8.
+(1) Naknada za provođenje postupka restrukturiranja utvrdit će se ugovorom o provođenju restrukturiranja ovisno o veličini trgovačkog društva koje se restrukturira, visini temeljnog kapitala trgovačkog društva koje se restrukturira, visini obveza trgovačkog društva koje se restrukturira, broju zaposlenih u trgovačkom društvu koje se restrukturira te drugim bitnim parametrima o kojima će ovisiti složenost postupka restrukturiranja.
+(2) Naknada iz stavka 1. ovoga članka uplaćuje se na račun Centra sukladno sklopljenom ugovoru iz stavka 1. ovoga članka.
+(3) Odredbe ovoga članka primjenjuju se i na naknade za provođenje postupka restrukturiranja trgovačkih društava od strateškog i posebnog interesa za Republiku Hrvatsku, a koje poslove Centar obavlja na temelju posebnih propisa i akata u skladu sa Zakonom.
