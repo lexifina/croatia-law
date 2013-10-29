@@ -1,0 +1,7 @@
+# Članak 92.
+(1) Udovoljavanje uvjetima glede trajanja plovidbene službe u odgovarajućem svojstvu i na odgovarajućoj vrsti broda koja je započela prije 1. siječnja 2008. godine, dokazuje se:
+- ako je pomorac bio ukrcan na hrvatskom brodu - ovjerenim bilješkama u svojoj pomorskoj knjižici, odnosno odobrenju za ukrcavanje,
+- ako je pomorac bio ukrcan na stranom brodu - ovjerenim bilješkama u svojoj pomorskoj knjižici ili sukladno s nacionalnim propisima države čiju zastavu brod vije.
+(2) Udovoljavanje uvjetima glede trajanja plovidbene službe za pomorce koji sukladno posebnom propisu moraju imati pomorsku knjižicu ili odobrenje za ukrcavanje izdano od nadležnih tijela Republike Hrvatske, a koja je započela nakon 1. siječnja 2008. godine dokazuje se ovjerenim bilješkama u pomorskoj knjižici, odnosno odobrenju za ukrcavanje izdanim od strane Republike Hrvatske.
+(3) U slučajevima iz stavka 1. alineja 2. ovoga članka Ministarstvo, odnosno nadležna lučka kapetanija može tražiti i druge neosporne dokaze plovidbene službe (npr. ugovor o radu, iskrcajne liste, preslike viza, putne karte i dr.).
+(4) Udovoljavanje uvjetima glede trajanja plovidbene službe za pomorce na koje se ne primjenjuje odredba stavka 2. ovog članka dokazuje se sukladno nacionalnim propisima države zastave broda, odnosno uvidom u druge dokaze o plovidbenoj službi (npr. ugovor o radu, iskrcajne liste, preslike viza, putnih karata i dr.).

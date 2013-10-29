@@ -1,0 +1,3 @@
+# Članak 84.
+(1) Pristupnici za stjecanje svjedodžbi iz članka 20., 21., 22., 23., 24., 33., 34., 35., 36., 37. ovog Pravilnika, koji nisu završili srednjoškolsko obrazovanje nautičkog, brodostrojarskog ili drugog odgovarajućeg smjera, a upisali su preddiplomski sveučilišni studija nautičkog, brodostrojarskog ili drugoga odgovarajućeg smjera, dužni su tijekom studija, a prije pohađanja odgovarajućih kolegija na upravljačkoj razini završiti uvodni razlikovni program, sukladno programu iz Priloga E ovog Pravilnika.
+(2) Uvodni razlikovni program iz stavka 1. ovog članka provode visoka pomorska učilišta.

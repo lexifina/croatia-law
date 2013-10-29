@@ -1,0 +1,11 @@
+# Članak 31.
+(1) Svjedodžbu o osposobljenosti za časnika stroja odgovornog za stražu u strojarnici sa strojem porivne snage od 750 kW ili jačim (STCW III/1), stječe pomorac koji:
+- ima najmanje 18 godina života,
+- je završio srednjoškolsko obrazovanje brodostrojarskog smjera ili drugog odgovarajućeg smjera u trajanju od najmanje 4 godine, u kojem su obuhvaćeni najmanje sadržaji sukladno programu iz dijela A-III/1 STCW Pravilnika odnosno iz Priloga A3 ovog Pravilnika ili
+- je odslušao i položio sve ispite prve dvije godine preddiplomskog sveučilišnog studija brodostrojarskog smjera ili drugog odgovarajućeg smjera u kojima su obuhvaćeni najmanje sadržaji sukladno programu iz dijela A-III/1 STCW Pravilnika odnosno iz Priloga A3 ovog Pravilnika, ili
+- je završio preddiplomski sveučilišni studij brodostrojarskog smjera ili drugog odgovarajućeg smjera u trajanju od tri godine u kojima su obuhvaćeni najmanje sadržaji sukladno programu iz dijela A-III/1 STCW Pravilnika odnosno iz Priloga A3 ovog Pravilnika,
+- položi ispit za stjecanje takve svjedodžbe, sukladno programu iz Priloga C10 koji je sastavni dio ovoga Pravilnika.
+- ima najmanje 12 mjeseci plovidbene službe u svojstvu vježbenika u strojarnici broda sa strojem porivne snage od 750 kW ili jačim u međunarodnoj plovidbi, ili 12 mjeseci plovidbene službe u svojstvu vježbenika u strojarnici broda sa strojem porivne snage od 750 kW ili jačim od čega najmanje 6 mjeseci plovidbene službe u svojstvu vježbenika u strojarnici broda sa strojem porivne snage od 3.000 kW ili jačim,
+- udovoljava propisanim zdravstvenim uvjetima.
+(2) Pristupnik za stjecanje svjedodžbe iz stavka 1. ovog članka, koji u tijeku obrazovanja nije ovladao programima iz Priloga D, dio D2 (Temeljna sigurnosti na brodu), D12 (Upravljanje gašenjem požara), D17 (Osposobljenost za rukovanje brodicom za spašavanje i spasilačkom brodicom, osim brze spasilačke brodice), D19 (Medicinska prva pomoć), D46 (Upravljanje ljudskim potencijalima u strojarnici), D47A (Rukovođenje, upravljanje posadom i unapređenje timskog rada na brodu - radna razina), D48 (Sprečavanje onečišćenja morskog okoliša) dužan je prije pristupanja ispitu iz stavka 1. alineje 5. ovog članka savladati odnosne programe.
+(3) Svjedodžba iz stavka 1. ovoga članka ima valjanost za razdoblje od pet godina od dana izdavanja.

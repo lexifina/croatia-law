@@ -1,0 +1,10 @@
+# Članak 128.
+(1) Pomorci koji su stekli određena zvanja po dosadašnjim propisima, mogu danom stupanja na snagu ovoga Pravilnika steći sljedeće svjedodžbe o osposobljenosti:
+1. Svjedodžbu o osposobljenosti za brodskog električara (STCW III/7) može steći pomorac koji posjeduje svjedodžbu o osposobljenosti za brodskog električara (HR III/2),
+2. Svjedodžbu o osposobljenosti za časnika elektrotehnike (STCW III/6) može steći pomorac koji posjeduje svjedodžbu o osposobljenosti za brodskog elektroničara (HR III/3),
+(2) Pomorci koji su do 25. svibnja 2007. godine stekli određena zvanja u službi stroja, mogu steći sljedeće svjedodžbe o osposobljenosti:
+1. Svjedodžbu o osposobljenosti za upravitelja stroja na brodu sa strojem porivne snage do 750 kW u nacionalnoj plovidbi (HR III/26) može je zamijeniti za Svjedodžbu o osposobljenosti za upravitelja stroja na brodu sa strojem porivne snage do 1.000 kW u nacionalnoj plovidbi (HR III/6),
+2. Svjedodžbu o osposobljenosti za časnika stroja na brodu sa strojem porivne snage do 750 kW u nacionalnoj plovidbi (HR III/25) može je zamijeniti za Svjedodžbu o osposobljenosti za časnika stroja na brodu sa strojem porivne snage do 1.000 kW u nacionalnoj plovidbi (HR III/5),
+3. Svjedodžbu o osposobljenosti za upravitelja stroja na brodu sa strojem porivne snage do 350 kW u nacionalnoj plovidbi (HR III/24) može je zamijeniti za Svjedodžbu o osposobljenosti za upravitelja stroja na brodu sa strojem porivne snage do 500 kW u nacionalnoj plovidbi (HR III/4).
+(3) Pomorci iz stavka 2. ovog članka mogu steći svjedodžbe ako imaju najmanje 12 mjeseci potvrđene plovidbene službe u posljednji 5 godina ili ako polože ispit prema programu i na način kako je propisano u Prilogu C 37 ovog Pravilnika,
+(4) Svjedodžbe o osposobljenosti iz stavka 1. i 2. ovog članka izdat će se pomorcu koji udovoljava propisanim zdravstvenim uvjetima i posjeduje svjedodžbe o dopunskoj osposobljenosti, kao i potvrde o osposobljenosti, koje su propisane uvjetima za stjecanje odnosnih svjedodžaba o osnovnoj osposobljenosti.

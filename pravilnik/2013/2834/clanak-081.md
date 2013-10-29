@@ -1,0 +1,4 @@
+# Članak 81.
+(1) Svako pomorsko učilište, kojemu je povjereno obrazovanje ili izobrazba pomoraca, dužno je u sklopu svog unutarnjeg ustroja uspostaviti sustave kvalitete sukladno međunarodnim ISO standardima upravljanja, a u skladu s odredbama ovog Pravilnika, STCW Konvencije i STCW Pravilnika, koji moraju biti ocijenjeni od nezavisne certifikacijske ustanove.
+(2) Svako pomorsko učilište, koje po prvi put predaje zahtjev za izdavanje suglasnosti na održavanje obrazovanja, odnosno izdavanje dopusnice za održavanje izobrazbe pomoraca Ministarstvu, dužno je uvesti/prilagoditi sustav upravljanja kvalitetom najkasnije godinu od dana izdavanja dopusnice, te o uvođenju i ocjenjivanju sustava izvijestiti Ministarstvo.
+(3) Pomorsko učilište je dužno izvijestiti Ministarstvo o rezultatima nezavisne prosudbe, neposredno nakon provedene prosudbe, a najkasnije u roku od 15 dana nakon provedene prosudbe.

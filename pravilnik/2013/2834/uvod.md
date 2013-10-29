@@ -1,0 +1,1 @@
+Na temelju članka 1021. stavka 3. alineje 8. Pomorskog zakonika (»Narodne novine«, br. 181/2004, 76/2007, 146/2008, 61/2011, 56/2013) i članka 56. stavak 1. alineja 1. Zakona o sigurnosnoj zaštiti pomorskih brodova i luka (»Narodne novine« br. 124/2009, 59/2012), ministar pomorstva, prometa i infrastrukture donosi

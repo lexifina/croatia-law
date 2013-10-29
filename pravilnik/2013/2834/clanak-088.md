@@ -1,0 +1,4 @@
+# Članak 88.
+(1) Ako Ministarstvo ili lučka kapetanija utvrdi da pomorsko učilište ne zadovoljava uvjete na temelju kojih mu je izdano rješenje o povjeravanju izobrazbe odnosno suglasnost za obrazovanje pomoraca ili se utvrdi bilo koja druga nepravilnost u radu pomorskog učilišta, pomorskom učilištu oduzet će se dopusnica o povjeravanju izobrazbe odnosno suglasnost za obrazovanje pomoraca.
+(2) U slučaju oduzimanja rješenja iz stavka 1. ovog članka, pomorsko učilište može podnijeti novi zahtjev za isti program izobrazbe odnosno program obrazovanja tek nakon isteka roka od najmanje tri mjeseca od dana oduzimanja dopusnice ili suglasnosti.
+(3) U razdoblju iz stavka 2. ovog članka, neće se izdati nova dopusnica odnosno suglasnost pomorskom učilištu koje je na bilo koji način (npr. vlasnička struktura, odgovorna osoba, sjedište i sl.) povezano s pomorskim učilištem iz stavka 1. ovog članka.
