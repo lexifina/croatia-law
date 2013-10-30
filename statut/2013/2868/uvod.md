@@ -1,0 +1,1 @@
+Na temelju članka 35., članka 38. stavka 2. točke 1. Zakona o reviziji (»Narodne novine« broj 146/05, 139/08 i 144/12, dalje u tekstu: Zakon), Skupština Hrvatske revizorske komore, na sjednici održanoj 6. travnja 2013., usvojila je
