@@ -1,0 +1,1 @@
+Na temelju članka 125. alineje 9. Ustava Republike Hrvatske (»Narodne novine« broj 56/90., 135/97., 113/00., 28/01. i 76/10.) i članka 87. alineje 2. u vezi s člankom 89. Ustavnog zakona o Ustavnom sudu Republike Hrvatske (»Narodne novine« broj 99/99., 29/02. i 49/02. - pročišćeni tekst), Ustavni sud Republike Hrvatske objavljuje
