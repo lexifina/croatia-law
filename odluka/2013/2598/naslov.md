@@ -1,0 +1,1 @@
+Odluka o iznosu tarifnih stavki u tarifnom sustavu za usluge energetskih djelatnosti proizvodnje, distribucije i opskrbe toplinskom energijom za energetski subjekt Stambeno komunalno gospodarstvo d.o.o., Ivan Goran Kovačića 8, Ogulin, u Gradu Ogulinu
