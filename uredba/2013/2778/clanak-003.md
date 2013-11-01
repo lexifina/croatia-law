@@ -1,0 +1,5 @@
+## II. KORIŠTENJE NAKNADE ZA POTICANJE
+# Članak 3.
+(1) Sredstva naknade za poticanje koriste se za isplatu poticajne cijene električne energije povlaštenim proizvođačima koji su u sustavu poticanja proizvodnje električne energije za isporučenu električnu energiju sukladno odredbama tarifnog sustava za proizvodnju električne energije iz obnovljivih izvora energije i kogeneracije.
+(2) Udio električne energije iz proizvodnih postrojenja koja proizvode električnu energiju iz obnovljivih izvora energije određen je Nacionalnim akcijskim planom za obnovljive izvore energije do 2020. godine i predstavlja osnovu za određivanje dinamike ulaska u pogon proizvodnog postrojenja povlaštenog proizvođača električne energije čija se proizvodnja potiče kao i za sklapanje ugovora o otkupu električne energije s operatorom tržišta.
+(3) Ukupnu električnu energiju koju proizvedu povlašteni proizvođači električne energije iz proizvodnih postrojenja koja koriste obnovljive izvore energije i kogeneracijskih postrojenja, a čija se proizvodnja potiče, otkupljuje operator tržišta, odnosno preuzima svaki pojedini opskrbljivač na način i pod uvjetima propisanima ovom Uredbom.

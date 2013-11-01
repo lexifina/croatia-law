@@ -1,0 +1,4 @@
+## I. OPĆE ODREDBE
+# Članak 1.
+(1) Ovom Uredbom određuje se način korištenja, visina, obračun, prikupljanje, raspodjela i plaćanje naknade za poticanje proizvodnje električne energije iz postrojenja koja koriste obnovljive izvore energije i kogeneracijskih postrojenja (u daljnjem tekstu: naknada za poticanje), sukladno strateškim ciljevima Republike Hrvatske koji se odnose na udio obnovljivih izvora energije i kogeneracije u ukupnoj potrošnji električne energije, vodeći računa o stanju na energetskom tržištu Republike Hrvatske i troškovima proizvodnje električne energije iz proizvodnih postrojenja koja koriste obnovljive izvore energije i kogeneracijskih postrojenja.
+(2) Ovom se Uredbom određuje i udio električne energije proizvedene iz proizvodnih postrojenja koja koriste obnovljive izvore energije i kogeneracijskih postrojenja čija se proizvodnja električne energije potiče.

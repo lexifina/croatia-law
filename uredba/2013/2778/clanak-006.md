@@ -1,0 +1,3 @@
+# Članak 6.
+(1) Sredstva naknade za poticanje ne mogu se koristiti za plaćanje troškova uravnoteženja nastalih zbog odstupanja u vrijednostima planirane i proizvedene električne energije u proizvodnim postrojenjima proizvođača koji su u sustavu poticanja proizvodnje električne energije, osim za proizvodna postrojenja čija se proizvodnja koristi za opću potrošnju objekta na kojemu je integrirano proizvodno postrojenje.
+(2) Obračun i naplatu troškova iz stavka 1. ovoga članka obavlja operator tržišta sukladno odredbama pravila organiziranja tržišta električne energije čiji su sastavni dio pravila organiziranja tržišta električne energije uravnoteženja koja uključuju pravila o obračunu energije uravnoteženja.

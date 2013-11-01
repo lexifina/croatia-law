@@ -1,0 +1,10 @@
+## IV. PRIKUPLJANJE, OBRAČUN I NAPLATA NAKNADE ZA POTICANJE
+# Članak 8.
+(1) Operator tržišta prikuplja naknadu za poticanje od opskrbljivača, a koju opskrbljivač naplaćuje svojim kupcima sukladno ugovoru o opskrbi krajnjega kupca.
+(2) Operator tržišta sa svakim pojedinim opskrbljivačem sklapa ugovor kojim će se detaljno urediti sva međusobna prava i obveze u svezi s prikupljanjem naknade za poticanje, uključujući i obvezu opskrbljivača da izda operatoru tržišta jamstva radi osiguranja naplate naknade iz stavka 1. ovoga članka, kao i ugovor kojim će se detaljno urediti sva međusobna prava i obveze u svezi s preuzimanjem, obračunom i naplatom pripadajućeg udjela električne energije proizvedene iz proizvodnih postrojenja koja koriste obnovljive izvore energije i kogeneracijska postrojenja uključujući i obvezu opskrbljivača da izda operatoru tržišta jamstva radi osiguranja naplate.
+(3) Operator tržišta utvrđuje udio električne energije koji je obvezan preuzeti pojedini opskrbljivač, sukladno njegovom, u postotku izraženom, udjelu u ukupnoj opskrbi električnom energijom u Republici Hrvatskoj.
+(4) Udio svakog opskrbljivača utvrđuje se na mjesečnoj razini.
+(5) Pri utvrđivanju obveze pojedinoga opskrbljivača, operator tržišta razmatra odvojeno odgovarajući udio električne energije proizvedene iz proizvodnih postrojenja koja koriste obnovljive izvore energije i udio električne energije proizvedene iz kogeneracijskih postrojenja.
+(6) Operator tržišta obračunava i razdjeljuje sredstva prikupljena od naknade za poticanje na proizvođače električne energije iz proizvodnih postrojenja koja koriste obnovljive izvore energije i kogeneracijskih postrojenja, na temelju sklopljenih ugovora o otkupu električne energije.
+(7) Ukupnu cijenu udjela električne energije kao i udio električne energije iz obnovljivih izvora koju je opskrbljivač isporučio krajnjim kupcima temeljem obveze iz stavka 3. ovoga članka, opskrbljivač je dužan prikazati kao zasebnu stavku na računu krajnjega kupca.
+(8) Sredstva prikupljena od naknade za poticanje ne smatraju se prihodom operatora tržišta, osim u dijelu financiranja poslova sukladno članku 4. ove Uredbe.

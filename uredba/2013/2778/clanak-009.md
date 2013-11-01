@@ -1,0 +1,3 @@
+# Članak 9.
+(1) Pojedinačnu obvezu opskrbljivača iz članka 8. ove Uredbe utvrđuje operator tržišta jednom mjesečno za prethodni mjesec, na temelju relevantnih podataka iz prethodnog obračunskog razdoblja, koje operatoru tržišta dostavljaju operator prijenosnog sustava i operator distribucijskog sustava, na način uređen ugovorom iz članka 8. stavka 2. ove Uredbe.
+(2) Relevantni podaci iz stavka 1. ovoga članka odnose se na ukupno ostvarenu opskrbu električnom energijom, udio pojedinog opskrbljivača u ukupno ostvarenoj opskrbi električnom energijom i ukupni iznos električne energije koju su povlašteni proizvođači u sustavu poticanja isporučili u elektroenergetski sustav.
