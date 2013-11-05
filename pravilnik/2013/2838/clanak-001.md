@@ -1,0 +1,2 @@
+# Članak 1.
+U Pravilniku o obliku, sadržaju i načinu vođenja Registra kulturnih dobara Republike Hrvatske (»Narodne novine«, broj 89/11) u članku 2. stavku 2. riječi: »Uprava za zaštitu kulturne baštine Ministarstva kulture (u daljnjem tekstu: Uprava)« zamjenjuju se riječima: »Unutarnja ustrojstvena jedinica Ministarstva kulture u čijem djelokrugu je zaštita kulturne baštine (u daljnjem tekstu: ustrojstvena jedinica)«, a riječi: »i nematerijalnog kulturnog dobra« brišu se.
