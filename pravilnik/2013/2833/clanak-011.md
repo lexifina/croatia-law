@@ -1,0 +1,11 @@
+## VIII. USKLAĐIVANJE VISINE INFRASTRUKTURNE PRISTOJBE
+# Članak 11.
+(1) Usklađivanje cestarine s rastom troškova upravljanja, redovnog i izvanrednog održavanja te razvoja autocesta i objekata s naplatom znači promjenu jedinične cijene infrastrukturne pristojbe po kilometru autoceste za određenu ili sve skupine vozila.
+(2) Postupak usklađivanja cestarina pokreće se najkasnije do 30. lipnja tekuće godine sukladno podacima Državnog zavoda za statistiku objavljenim za proteklu kalendarsku godinu.
+(3) Usklađivanje infrastrukturne pristojbe vrši se godišnje, primjenom proračunatog indeksa Ip utvrđenog kao zbroj ponderiranih godišnjih indeksa i to:
+- indeksa proizvođačkih cijena industrije na ukupnom tržištu iskazanog ukupno za industriju, uz ponder od 70%,
+- indeksa potrošačkih cijena po posebnim skupinama za usluge, uz ponder od 30%.
+(4) Hrvatske autoceste d.o.o. odnosno koncesionar pokrenut će postupak usklađivanja infrastrukturne pristojbe uz uvjet da prosječni godišnji indeks prometa vozila na autocesti i objektu s naplatom za sve skupine vozila u odnosu na prethodnu godinu iskazuje manji rast prometa od proračunatog indeksa iz stavka 3. ovoga članka.
+(5) Ukoliko je zadovoljen uvjet iz stavka 4. ovoga članka, infrastrukturna pristojba se usklađuje primjenom izvedenog indeksa Ii koji predstavlja razliku proračunatog indeksa iz stavka 3. ovoga članka i utvrđenog indeksa prometa vozila iz stavka 4. ovoga članka, a iznosi najmanje 5 indeksnih bodova.
+(6) Postupak usklađivanja infrastrukturne pristojbe može se pokrenuti i kada je izvedeni indeks Ii iz stavka 5. ovoga članka manji od 5 indeksnih bodova, pod uvjetom da je u razdoblju od posljednjeg usklađenja infrastrukturne pristojbe kumulativni izvedeni indeks Ii veći od 5 indeksnih bodova, za sve godine u kojima razlika izvedenog indeksa nije prelazila 5 indeksnih bodova.
+(7) Hrvatske autoceste d.o.o. odnosno koncesionar pokreću postupak usklađivanja infrastrukturne pristojbe sukladno Zakonu odnosno ugovoru o koncesiji. U slučaju da ministar pomorstva, prometa i infrastrukture odnosno davatelj koncesije ne odobri usklađenje infrastrukturne pristojbe, novi postupak usklađivanja infrastrukturne pristojbe može se provesti za čitavo razdoblje u kojem su bili ispunjeni uvjeti prema ovom Pravilniku ali godišnje usklađivanje infrastrukturne pristojbe nije provedeno.
