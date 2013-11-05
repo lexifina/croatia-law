@@ -1,0 +1,6 @@
+# Članak 1.
+U Uredbi o sastavljanju i predaji Izjave o fiskalnoj odgovornosti i izvještaja o primjeni fiskalnih pravila (»Narodne novine«, br. 78/2011 i 106/2012), u obrascu Upitnik o fiskalnoj odgovornosti (Prilog 2) iz članka 20., pitanja 6. i 14. iz područja planiranja proračuna/financijskog plana mijenjaju se i glase:
+»6. Financijski plan proračunskog korisnika jedinice lokalne i područne (regionalne) samouprave sadrži prihode i primitke iskazane po vrstama, rashode i izdatke predviđene za trogodišnje razdoblje, razvrstane prema proračunskim klasifikacijama te obrazloženje prijedloga financijskog plana.
+14. Proračun te izmjene i dopune i odluka o izvršavanju dostavljeni su Ministarstvu financija u roku od 15 dana od dana njihova stupanja na snagu.«.
+Pitanje 66. iz područja izvještavanja mijenja se i glasi:
+»66. Godišnji izvještaj o izvršenju proračuna jedinice lokalne i područne (regionalne) samouprave dostavljen je Ministarstvu financija i Državnom uredu za reviziju u roku od 15 dana nakon što ga je donijelo predstavničko tijelo, odnosno u slučaju da ga predstavničko tijelo nije donijelo, u roku od 60 dana od dana podnošenja navedenog izvještaja predstavničkom tijelu (odgovaraju jedinice lokalne i područne (regionalne) samouprave).«.
