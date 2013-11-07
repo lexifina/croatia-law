@@ -1,0 +1,4 @@
+# Članak 17.
+(1) Dosadašnji korisnici prava na naknadu troškova zbog odvojenog života od obitelji i naknade troškova prijevoza na posao i s posla dužni su podnijeti nove zahtjeve za priznavanje prava na prijevoz u skladu s odredbama ovoga Pravilnika u roku od 30 dana od dana stupanja na snagu ovoga Pravilnika.
+(2) Dosadašnji korisnici prava iz stavka 1. ovoga članka koji podnesu zahtjev u roku iz stavka 1. ovoga članka ostvaruju pravo na naknadu u skladu s rješenjem kojim im je to pravo priznato, sve do priznavanja prava u skladu s odredbama ovoga Pravilnika, a najdulje 90 dana od dana stupanja na snagu ovoga Pravilnika.
+(3) Istekom roka od 90 dana od dana stupanja na snagu ovoga Pravilnika prestaju važiti sva ranije izdana rješenja o pravu na naknadu troškova zbog odvojenog života od obitelji i rješenja o pravu na naknadu troškova prijevoza te se obustavljaju isplate naknada po ranijim rješenjima.

@@ -1,0 +1,3 @@
+# Članak 5.
+(1) Djelatna vojna osoba zahtjev za ostvarivanje prava na prijevoz (Obrazac 1.) iz članka 2. stavka 1. ovoga Pravilnika podnosi čelniku ustrojstvene jedinice Ministarstva obrane u koju je raspoređena odnosno nadređenom zapovjedniku bojne, njemu ravne ili više razine.
+(2) Ako postoji više mogućnosti prijevoza, čelnik ustrojstvene jedinice Ministarstva obrane u koju je djelatna vojna osoba raspoređena, odnosno nadređeni zapovjednik bojne, njemu ravne ili više razine utvrđuje odgovarajući način prijevoza za svaku djelatnu vojnu osobu, uzimajući u obzir prijevoz koji je najjeftiniji za poslodavca i koji omogućuje redoviti dolazak na posao i odlazak s posla.

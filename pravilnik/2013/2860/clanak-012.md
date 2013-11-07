@@ -1,0 +1,5 @@
+# Članak 12.
+(1) Djelatnoj vojnoj osobi neće se isplaćivati naknada troškova prijevoza za vrijeme bolovanja, godišnjeg odmora, korištenja slobodnih dana, udaljenja iz službe i drugih slučajeva privremene spriječenosti za rad kada ne putuje i nema trošak prijevoza na posao i s posla.
+(2) Djelatnoj vojnoj osobi koja pravo na naknadu troškova prijevoza ostvaruje u visini cijene mjesečne karte za poslodavca najjeftinijeg javnog prijevoza, u slučajevima iz stavka 1. ovoga članka, naknada troškova prijevoza obračunava se na način da se iznos cijene mjesečne karte podijeli s brojem radnih dana u mjesecu i dobiveni iznos pomnoži s brojem dolazaka na posao.
+(3) Djelatnoj vojnoj osobi koja pravo na naknadu troškova prijevoza ostvaruje u visini od 0,75 kn po prijeđenom kilometru, u slučajevima iz stavka 1. ovoga članka naknada troškova prijevoza obračunava se s obzirom na broj dolazaka na posao.
+(4) Djelatna vojna osoba ne ostvaruje pravo na naknadu troškova prijevoza na posao i s posla za vrijeme kada ima pravo korištenja službenoga motornog vozila.

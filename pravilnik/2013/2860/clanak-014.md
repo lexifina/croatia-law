@@ -1,0 +1,3 @@
+# Članak 14.
+(1) Djelatna vojna osoba kojoj je priznato pravo po odredbama ovoga Pravilnika obvezna je najkasnije u roku od osam dana čelnika ustrojstvene jedinice Ministarstva obrane u koju je raspoređena odnosno nadređenog zapovjednika bojne, njemu ravne ili više razine obavijestiti o svakoj promjeni činjenica koje su od utjecaja na ostvarivanje prava, odnosno podnijeti novi zahtjev za ostvarivanje prava na prijevoz.
+(2) Ako se na temelju činjenica utvrdi da djelatna vojna osoba ne ispunjava uvjete za ostvarivanje prava na naknadu troškova prijevoza u skladu s odredbama ovoga Pravilnika, donijet će se odluka o prestanku prava.

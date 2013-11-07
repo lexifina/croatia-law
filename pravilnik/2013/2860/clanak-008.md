@@ -1,0 +1,3 @@
+# Članak 8.
+(1) Ako čelnik ustrojstvene jedinice Ministarstva obrane u koju je djelatna vojna osoba raspoređena utvrdi da mjesni i međumjesni prijevoz nije organiziran na način propisan člankom 2. stavkom 1. ovoga Pravilnika, zahtjev za ostvarivanje prava na naknadu troškova prijevoza dostavlja se čelniku ustrojstvene jedinice Ministarstva obrane nadležne za odlučivanje o materijalnim pravima.
+(2) Ako nadređeni zapovjednik bojne, njemu ravne ili više razine utvrdi da mjesni i međumjesni prijevoz nije organiziran na način propisan člankom 2. stavkom 1. ovoga Pravilnika, zahtjev za ostvarivanje prava na naknadu troškova prijevoza dostavlja se čelniku ustrojstvene jedinice Oružanih snaga nadležne za odlučivanje o materijalnim pravima.
