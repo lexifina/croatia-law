@@ -1,0 +1,5 @@
+# Članak 2.
+(1) Vijeće objavljuje obavijest o namjeri davanja koncesija za obavljanje djelatnosti pružanja medijskih usluga televizije i radija (u daljnjem tekstu: obavijest) na tehničkoj podlozi koju utvrđuje Hrvatska agencija za poštu i elektroničke komunikacije u skladu s propisima o elektroničkim komunikacijama.
+(2) Obavijest iz stavka 1. ovoga članka objavljuje se za slobodnu radijsku frekvenciju ili više radijskih frekvencija koje čine zasebnu koncesiju, odnosno kod digitalnog radija i televizije za slobodni prijenosni kapacitet zasebnog radijskog ili televizijskog programa unutar multipleksa.
+(3) Prije objavljivanja obavijesti provest će se pripremne radnje za davanje koncesije, a osobito procjena vrijednosti koncesije te izraditi studiju opravdanosti davanja koncesije ili analizu davanja koncesije sukladno člancima 10. - 18. Zakona o koncesijama.
+(4) Vijeće će prilikom donošenja odluke o objavljivanju obavijesti iz stavka 1. ovoga članka odrediti vrstu programa (opći ili specijalizirani) za koju se obavijest objavljuje.
