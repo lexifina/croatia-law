@@ -1,0 +1,5 @@
+## Zaštita podataka
+# Članak 6.
+Ministarstvo osigurava da se svi osobni podaci koji se obrađuju prema odredbama ovoga Pravilnika koriste u svrhu osiguranja visoke razine zaštite svih sudionika u prometu na cestama i olakšavanja prekogranične razmjene podataka o prekršajima protiv sigurnosti prometa na cestama, a time i provedbu sankcija kada su ti prekršaji počinjeni vozilom koje je registrirano u nekoj od država članica Europske unije.
+U skladu s odredbama Okvirne odluke 2008/977/PUP Ministarstvo osigurava da se svi osobni podaci koji se obrađuju prema odredbama ovoga Pravilnika isprave ako su neispravni, brišu ili blokiraju kada više ne postoji potreba za njihovom obradom te čuvaju ne duže no što je to potrebno za svrhu u koju se podaci prikupljaju i dalje obrađuju.
+Svaka osoba ima pravo dobiti informaciju o tome koji su njezini osobni podaci dostavljeni državi članici Europske unije u kojoj je počinjen prekršaj, uključujući datum zahtjeva i nadležno tijelo države članice Europske unije u kojoj je počinjen prekršaj.
