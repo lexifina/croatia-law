@@ -1,0 +1,1 @@
+Obvezatne upute broj - DR III, o glasovanju birača na službi u oružanim snagama Republike Hrvatske, birača članova posade pomorskih i riječnih brodova pod hrvatskom zastavom te na plutajućim objektima u unutrašnjim morskim vodama i teritorijalnom moru Republike Hrvatske i birača lišenih slobode
