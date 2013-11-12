@@ -1,0 +1,5 @@
+# Članak 8.
+(1) U slučajevima povrede prava učenika iz članka 5. stavka 2. ovoga pravilnika školska ustanova obvezna je izvijestiti sljedeća tijela: ured državne uprave nadležan za poslove obrazovanja odnosno Gradski ured za obrazovanje, kulturu i šport Grada Zagreba (u daljnjem tekstu: Ured), Zavod za javno zdravstvo područne (regionalne) samouprave u djelatnosti školske i sveučilišne medicine, nadležni centar za socijalnu skrb, tim školske medicine, nadležnu policijsku postaju i ministarstvo nadležno za poslove obrazovanja.
+(2) U slučaju povrede prava učenika iz članka 5. stavka 2. ovoga pravilnika ministarstvo nadležno za obrazovanje može o tome obavijestiti tim za krizne intervencije.
+(3) Nadležne institucije i tijela iz stavka 1. ovoga članka obvezne su izvijestiti školsku ustanovu o poduzetim mjerama.
+(4) U slučaju potrebe nadležno tijelo iz stavka 1. ovoga članka dogovorit će s ravnateljem zajedničke aktivnosti koje će se ostvarivati u školskoj ustanovi, a vezano uza zaštitu prava učenika.
