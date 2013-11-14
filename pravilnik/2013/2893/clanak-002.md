@@ -1,0 +1,4 @@
+# Članak 2.
+1) Promet medicinskih proizvoda na malo obavljaju pravne i fizičke osobe kojima je sukladno posebnom zakonu, odobreno obavljanje ljekarničke djelatnosti te specijalizirane prodavaonice za promet na malo medicinskim proizvodima kojima je dana dozvola Agencije za lijekove i medicinske proizvode (u daljnjem tekstu: Agencija) za promet na malo medicinskim proizvodima.
+2) U specijaliziranoj prodavaonici mogu se prodavati samo oni medicinski proizvodi koji ispunjavaju sve zahtjeve propisane Zakonom o medicinskim proizvodima (u daljnjem tekstu: Zakon) te su prikladni za takvu prodaju uzevši u obzir njihovu namjenu, odnosno okolinu u kojoj su medicinski proizvodi predviđeni za uporabu.
+3) Specijalizirana prodavaonica može prodavati medicinske proizvode samo u originalnom pakiranju proizvođača.
