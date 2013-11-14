@@ -1,0 +1,5 @@
+# Članak 1.
+(1) Ovim se Pravilnikom propisuju uvjeti za stavljanje na tržište hrane za životinje za posebne hranidbene namjene i uspostavlja popis predviđenih namjena korištenja hrane za životinje za posebne hranidbene namjene.
+(2) Ovim se Pravilnikom u pravni poredak Republike Hrvatske prenosi Direktiva Komisije 2008/38/EZ od 5. ožujka 2008. o uspostavi popisa predviđenih namjena korištenja hrane za životinje za posebne hranidbene namjene (SL L 62, 6. 3. 2008.), kako je izmijenjena i dopunjena sljedećim pravnim aktima Europske unije:
+- Direktivom Komisije 2008/82/EZ od 30. srpnja 2008. o izmjeni direktive 2008/38/EZ u pogledu hrane za životinje namijenjene potpori radu bubrega u slučaju kroničnog zatajivanja bubrega (SL L 202, 31. 7. 2008.) i
+- Uredbom Komisije (EU) br.1070/2010 od 22. studenoga 2010. o izmjeni Direktive 2008/38/EZ dodavanjem potpore metabolizmu zglobova u slučaju osteoartritisa kod pasa i mačaka na popis predviđenih uporaba za posebne hranidbene namjene (SL L 306, 23. 11. 2010.).
