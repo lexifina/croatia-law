@@ -1,0 +1,8 @@
+# Članak 7.
+(1) Podnositelj zahtjeva koji se stambeno zbrinjava načinom iz članka 2. stavka 1. točke 1. ove Uredbe sklapa s Državnim uredom za obnovu i stambeno zbrinjavanje ugovor o najmu sukladno odredbama Zakona o najmu stanova.
+(2) Podnositelj zahtjeva plaća zaštićenu najamninu na ukupnu površinu stana.
+(3) Podnositelj zahtjeva - najmoprimac može podnijeti zahtjev za kupnju stana u vlasništvu Republike Hrvatske sukladno posebnom propisu o prodaji stanova u vlasništvu Republike Hrvatske.
+(4) Podnositelj zahtjeva koji se stambeno zbrinjava na način iz članka 2. stavka 1. točke 2. sklapa s Državnim uredom za obnovu i stambeno zbrinjavanje ugovor o darovanju građevnog materijala, odnosno na temelju suglasnosti iz članka 2. stavka 4. ove Uredbe, ugovor o organiziranoj ugradnji obiteljske kuće.
+(5) Trošak priključka na elektroenergetsku mrežu stambenog objekta iz članka 2. stavka 1. točke 2. ove Uredbe, koji ranije nije imao priključak na elektroenergetsku mrežu snosit će Državni ured za obnovu i stambeno zbrinjavanje.
+(6) Ako je oštećena obiteljska kuća ili građevinsko zemljište iz članka 2. stavka 1. točke 2. ove Uredbe u suvlasništvu, pravo na stambeno zbrinjavanje na toj nekretnini darovanjem građevnog materijala, odnosno gradnjom obiteljske kuće, može se ostvariti samo uz pisanu suglasnost svih suvlasnika.
+(7) Podnositelj zahtjeva iz članka 2. stavka 1. točke 1. ove Uredbe koji ostvaruje uvjete na stambeno zbrinjavanje, gubi pravo prvenstva na stambeno zbrinjavanje ako se neosnovano, bez konkretnih dokaza, ne suglasi s ponuđenim useljivim stanom u vlasništvu Republike Hrvatske.

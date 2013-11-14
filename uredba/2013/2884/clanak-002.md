@@ -1,0 +1,8 @@
+# Članak 2.
+(1) Stambeno zbrinjavanje osigurava se:
+1. davanjem u najam stana u vlasništvu Republike Hrvatske,
+2. darovanjem i organiziranom ugradnjom građevnog materijala za popravak, obnovu i nadogradnju obiteljske kuće ili stana, odnosno izgradnju obiteljske kuće na građevinskom zemljištu u vlasništvu podnositelja zahtjeva ili člana njegovog obiteljskog domaćinstva, uz suglasnost tog člana obiteljskog domaćinstva.
+(2) Podnositelj zahtjeva koji se zbrinjava na način iz stavka 1. točke 1. ovog članka bit će prvenstveno zbrinut na području općine i grada gdje se nalazio stan na kojemu je ostvarivao stanarsko pravo. Ako to nije moguće, stambeno zbrinjavanje će se uz suglasnost podnositelja zahtjeva osigurati na području druge općine ili grada, u skladu s raspoloživošću useljivih stambenih jedinica.
+(3) Podnositelj zahtjeva koji se zbrinjava na način iz stavka 1. točke 2. ovog članka, ostvarit će to pravo na području gdje on ili član njegove obitelji koji živi u zajedničkom kućanstvu ima u (su)vlasništvu oštećenu obiteljsku kuću ili stan, odnosno građevinsko zemljište.
+(4) Pravo iz stavka 3. ovog članka može se ostvariti organiziranom ugradnjom darovanog građevnog materijala, uz suglasnost Državnog ureda za obnovu i stambeno zbrinjavanje a na obrazloženi prijedlog mjesno nadležnog ureda državne uprave odnosno nadležnog upravnog tijela Grada Zagreba, koji donosi rješenje u prvom stupnju.
+(5) Pravo na stambeno zbrinjavanje po ovoj Uredbi može ostvariti član uže obitelji bivšeg nositelja stanarskog prava pod uvjetom da je s njim živio neprekidno u stanu u društvenom vlasništvu na području Republike Hrvatske do dana gubitka stanarskog prava.
