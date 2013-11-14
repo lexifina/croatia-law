@@ -1,0 +1,2 @@
+# Članak 15.
+Državni ured za obnovu i stambeno zbrinjavanje će za prognanike, povratnike i izbjeglice koji su ostvarili pravo na stambeno zbrinjavanje, obnovu ili isplatu novčane potpore iz članka 14. i članka 68b. Zakona o obnovi kontinuirano dostavljati mjesno nadležnim uredima državne uprave u županijama odnosno nadležnom upravnom tijelu Grada Zagreba zapisnike o tehničkom pregledu odnosno obavijesti o isplati novčane potpore radi ukidanja statusa.

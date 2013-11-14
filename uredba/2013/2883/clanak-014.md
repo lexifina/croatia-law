@@ -1,0 +1,2 @@
+# Članak 14.
+Mjesno nadležni ured državne uprave u županiji odnosno nadležno upravno tijelo Grada Zagreba će, temeljem podataka Državnog ureda za obnovu i stambeno zbrinjavanje, po službenoj dužnosti pokrenuti postupak radi utvrđivanja jesu li ispunjeni uvjeti za ukidanje statusa prognanika, povratnika i izbjeglice, i prava koja iz istog proizlaze, u smislu članaka 10. i 11. ove Uredbe te prema utvrđenim činjenicama donijeti rješenje.

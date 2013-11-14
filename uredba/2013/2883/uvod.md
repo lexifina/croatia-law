@@ -1,0 +1,1 @@
+Na temelju članka 8. stavka 1. Zakona o statusu prognanika i izbjeglica (»Narodne novine«, br. 96/93, 39/95, 29/99, 128/99 i 51A/2013), Vlada Republike Hrvatske je na sjednici održanoj 31. listopada 2013. godine donijela
