@@ -1,0 +1,3 @@
+# Članak 7.
+Potrošnja goriva, kao i emisije CO2 i emisije onečišćujućih tvari iz tablice 2. u Prilogu po kilometru za rad vozila, moraju se temeljiti na standardiziranim postupcima ispitivanja za vozila za koja su takvi postupci ispitivanja utvrđeni u zakonodavstvu EU-a o homologaciji vozila. Za vozila koja nisu obuhvaćena takvim standardiziranim postupcima ispitivanja, usporedivost među različitim ponudama mora se osigurati uporabom općepriznatih postupaka ispitivanja, rezultatima ispitivanja obavljenih za nadležno tijelo ili na temelju podataka koje je dostavio proizvođač.
+Ukoliko nije drukčije utvrđeno, kilometri prijeđeni tijekom radnog vijeka vozila uzimaju se iz tablice 3. u Prilogu.

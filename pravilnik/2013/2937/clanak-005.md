@@ -1,0 +1,2 @@
+# Članak 5.
+Operativni troškovi emisija CO2, koji nastaju tijekom radnog vijeka vozila, izračunavaju se tako da se pomnože kilometri prijeđeni tijekom radnog vijeka vozila i, po potrebi, uzimajući u obzir već prijeđene kilometre, u skladu sa člankom 7. stavkom 2. ovoga Pravilnika, s emisijama CO2 u kilogramima po kilometru u skladu s člankom 7. stavkom 1. i troškom po kilogramu iz tablice 2. u Prilogu.
