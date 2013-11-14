@@ -1,0 +1,4 @@
+# Članak 25.
+(1) Središnje tijelo državne uprave nadležno za zaštitu okoliša i prirode dužno je utvrditi potrebu, ako ona postoji, provedbe nekog od postupaka predviđenih posebnim propisima kojima se uređuje zaštita okoliša i prirode u roku od 15 dana od zaprimanja podnesenog zahtjeva voditelja Operativne skupine.
+(2) U slučaju obveze provođenja postupka procjene utjecaja na okoliš, ishođenja okolišne dozvole, ishođenja suglasnosti na izvješće o sigurnosti na sanacijski program, i/ili ocjene prihvatljivosti za ekološku mrežu, postupak se provodi sukladno posebnim propisima kojima se uređuje zaštita okoliša i prirode.
+(3) Ako nadležno tijelo iz stavka 1. ovoga članka smatra da zbog složenosti ili drugih opravdanih razloga nije u mogućnosti utvrditi potrebu u roku od 15 dana, dužno je odmah pisanim putem, unutar roka od 15 dana, obavijestiti Povjerenstvo i zainteresiranog investitora o potrebi za rokom od dodatnih 15 dana.

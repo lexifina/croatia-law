@@ -1,0 +1,2 @@
+# Članak 4.
+Nadležna tijela Republike Hrvatske dužna su u provedbi ovoga Zakona poštivati načelo slobode kretanja robe, načelo slobode poslovnog nastana, načelo slobode pružanja usluga, načelo slobode kretanja kapitala, načelo učinkovitosti, načelo tržišnog natjecanja, načelo jednakog tretmana, načelo zabrane diskriminacije, načelo uzajamnog priznavanja, načelo razmjernosti i načelo transparentnosti.
