@@ -1,0 +1,1 @@
+Na temelju članka 1021. stavak 3., a u svezi članka 132. stavak 4. Pomorskog zakonika (»Narodne novine« br. 181/04, 76/07, 146/08, 61/11, 56/13) i članka 86. stavak 8. Pravilnika o zvanjima i svjedodžbama o osposobljenosti pomoraca (»Narodne novine« br. 130/13) ministar pomorstva, prometa i infrastrukture donosi
