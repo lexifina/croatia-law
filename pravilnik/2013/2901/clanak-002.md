@@ -1,0 +1,32 @@
+# Članak 2.
+Pojedini izrazi u smislu ovoga Pravilnika imaju sljedeće značenje:
+1) pomorska plovidba jest plovidba koja se obavlja na moru i rijekama hrvatskoga Jadranskog slijeva do granice do koje su one plovne s morske strane,
+2) plovni objekt jest pomorski objekt namijenjen za plovidbu morem. Plovni objekt može biti brod, ratni brod, jahta ili brodica,
+3) plutajući objekt jest pomorski objekt stalno privezan ili usidren na vodi, koji nije namijenjen za plovidbu (npr. plutajući dok, plutajuće skladište, plutajući restoran, plutajuća elektrana, pontonski most, pontonska marina i sl.),
+4) brod, osim ratnog broda, jest plovni objekt namijenjen za plovidbu morem čija je duljina veća od 12 metara, a bruto tonaža veća od 15 ili je ovlašten prevoziti više od 12 putnika. Brod može biti putnički, teretni, tehnički plovni objekt, ribarski, javni ili znanstvenoistraživački,
+5) brodica jest plovni objekt namijenjen za plovidbu morem koji nije brod ili jahta čija je duljina veća od 2,5 metara ili ukupne snage porivnih strojeva veća od 5 kW.
+Pojam brodica ne obuhvaća:
+- plovila koja pripadaju drugom pomorskom objektu u svrhu prikupljanja, spašavanja ili obavljanja radova,
+- plovila namijenjena isključivo za natjecanja,
+- kanue, kajake, gondole i pedaline,
+- daske za jedrenje i daske za jahanje na valovima,
+6) javni brod jest brod, osim ratnog broda, namijenjen i opremljen za obavljanje djelatnosti od općeg interesa države, a čiji je vlasnik odnosno brodar država ili neko drugo tijelo ovlašteno od države (npr. policijski brod, brod lučke kapetanije, Obalne straže i sl.) i koji služi isključivo u negospodarske svrhe,
+7) hrvatski ratni brod jest plovni objekt, uključujući podmornicu, koja je pod zapovjedništvom pripadnika Oružanih snaga Republike Hrvatske, a čija je posada vojna, odnosno podvrgnuta vojnoj disciplini i koji je dužan isticati vanjske znakove raspoznavanja ratnih brodova hrvatske državne pripadnosti kad god je potrebno da svoje svojstvo učini poznatim,
+8) strani ratni brod je plovni objekt koji ima stranu državnu pripadnost, pripada ratnoj mornarici, nosi vanjske znakove raspoznavanja ratnog plovnog objekta i njegove države pripadnosti, nalazi se pod zapovjedništvom vojne osobe i ima vojnu posadu,
+9) putnik jest svaka osoba na pomorskom objektu, osim djece ispod jedne godine života te osoba zaposlenih na brodu u bilo kojem svojstvu,
+10) unutarnje vode su rijeke, kanali i jezera, osim rijeka hrvatskoga jadranskog slijeva u onom dijelu toka kojim se obavlja pomorska plovidba,
+11) vodni put je dio unutarnjih voda na kojima se obavlja plovidba, klasificiran i otvoren za plovidbu,
+12) plovni put je dio vodnog puta propisane dubine, širine i drugih mjera koji je uređen,
+13) plovilo je plovni objekt namijenjen za plovidbu ili plutanje unutarnjim vodama,
+14) javno plovilo je plovilo namijenjeno za obavljanje djelatnosti od općeg interesa države, čiji je vlasnik, odnosno brodar država ili neko drugo državno tijelo koje služi isključivo u negospodarske svrhe, osim vojnog plovila (npr. plovila policije, lučke kapetanije, carine, lučke uprave, Agencije za vodne putove i sl.),
+15) motorno plovilo je plovilo na vlastiti motorni pogon,
+16) čamac je plovilo kraće od 20 m i volumena manjeg od 100 m³, osim tegljača, potiskivača, putničkog plovila i plovila osposobljenog za pokretanje bočnog sustava,
+17) tegljač je plovilo posebno konstruirano i opremljeno za pokretanje tegljenog sastava,
+18) potiskivač je plovilo posebno konstruirano i opremljeno za pokretanje potiskivanog sastava,
+19) potiskivani sastav je čvrsto povezana skupina plovila osim čamca od kojih je barem jedno smješteno ispred potiskivača,
+20) tegljeni sastav je skupina od jednog ili više plovila osim čamca koje tegli jedan ili više tegljača koji čine tegljeni sastav,
+21) sastav je potiskivani, tegljeni ili bočni sastav,
+22) međunarodni vodni put je vodni put na kojemu je dozvoljena plovidba plovilima svih zastava,
+23) međudržavni vodni put je vodni put na kojemu je dozvoljena plovidba plovila pod zastavom Republike Hrvatske i granične države na tome vodnom putu,
+24) »državni vodni put« je vodni put na kojemu je bez posebnog odobrenja dozvoljena plovidba samo plovilima pod zastavom Republike Hrvatske,
+25) plovilo Carinske uprave je javni brod ili brodica koje je označeno carinskim znakom sukladno članku 2. stavak 3. Zakona o carinskoj službi i čiju posadu čine ovlašteni carinski službenici.
