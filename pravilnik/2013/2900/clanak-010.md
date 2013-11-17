@@ -1,0 +1,7 @@
+# Članak 10.
+(1) Zvučne i svjetlosne znakove iz službenog vozila ovlašteni carinski službenici dat će u slučaju kada izdaju naredbu za zaustavljanje vozila zbog sumnje da se vozilo koristilo u svrhu povrede propisa za provođenje kojih je nadležna Carinska uprava.
+(2) Znakove kojima se naređuje zaustavljanje određenog sudionika u prometu, ovlašteni carinski službenik može davati i iz carinskog vozila.
+(3) U slučajevima iz stavka 2. ovoga članka, na ili u carinskom vozilu mora biti uključeno plavo rotacijsko svjetlo ili bljeskalice plave boje i zvučni signali, carinsko vozilo kreće se iza ili ispred vozila koje se namjerava zaustaviti, a ovlašteni carinski službenik pomoću pločice »Stop carina«, rukom ili drugim tehničkim sredstvom izdaje sudioniku u prometu odgovarajuća upozorenja odnosno zapovijedi.
+(4) Kada je na carinskom vozilu ugrađen zaslon s naredbama i zapovijedima: »obavezno zaustavljanje«, »stop carina«, »smanjite brzinu«, »slijedi me«, i sl., carinski službenik uz plavo rotacijsko svjetlo ili bljeskalice plave boje uključuje i zaslon s izdanom odgovarajućom naredbom.
+(5) Vozač kojemu su izdane naredbe i naredbe iz stavka 2. i 3. ovoga članka, dužan je postupiti sukladno izdanom naredbi ili zapovijedi.
+(6) Ako vozač odbije postupiti sukladno izdanom upozorenju ili naredbi o istom će se obavijestiti nadležni Operativno komunikacijski centar ili najbliža policijska uprava.
