@@ -1,0 +1,1 @@
+Na temelju odredbe članka 69. stavka 1. podstavka 7. i članka 75. stavka 6. Zakona o elektroničkim medijima (»Narodne novine«, broj 153/09., 84/11. i 94/13.), a u svezi s odredbom članka 39. Zakona o izmjenama i dopunama Zakona o elektroničkim medijima (»Narodne novine«, broj 94/13.) Vijeće za elektroničke medije donosi
