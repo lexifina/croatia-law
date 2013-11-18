@@ -1,0 +1,1 @@
+Na temelju točke II. i točke IV. Odluke Vlade Republike Hrvatske o osnivanju Povjerenstva za koordinaciju i podršku u ostvarenju izvoznih mogućnosti i infrastrukturnih projekata iz programa NATO od 22. rujna 2009. godine, ministar gospodarstva donosi
