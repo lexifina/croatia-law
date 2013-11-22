@@ -1,0 +1,5 @@
+# Članak 80.
+(1) Poslodavac može donijeti odluku o sklapanju sporazumnog prekida radnog odnosa radi odlaska u mirovinu uz isplatu otpremnine, s radnicima koji ispunjavaju uvjete za ostvarivanje prava na starosnu ili prijevremenu starosnu mirovinu prema odredbama Zakona o mirovinskom osiguranju, a najviše do 5 godina.
+(2) Radnicima iz prethodnog stavka ovog članka osim otpremnine iz članka 77. ovog Ugovora, isplatit će se otpremnina u iznosu koji predstavlja razliku između prosječne neto plaće radnika ostvarene u posljednja tri mjeseca koja su prethodila mjesecu utvrđenom za prestanak ugovora o radu i mjesečne mirovine radnika koju čine ukupna mjesečna mirovinska primanja radnika s osnova radnog staža provedenog u Republici Hrvatskoj i to za svaki mjesec ranijeg odlaska u mirovinu prije navršene 65-e godine života radnika, ali najviše za 60 (šezdeset) mjeseci.
+(3) Maksimalni iznos otpremnine opisane u ovom članku ne može biti veći od 200.000,00 kuna neto.
+(4) Otpremnina će se radnicima isplatiti najkasnije u roku 30 dana od dana prestanka radnog odnosa utvrđenog Sporazumom o prestanku ugovora o radu.

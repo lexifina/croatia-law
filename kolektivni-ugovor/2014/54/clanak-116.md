@@ -1,0 +1,48 @@
+# Članak 116.
+Kada se ovim Ugovorom (čl. 79., 80. i 115.) radniku osiguravaju određena prava po osnovi stjecanja uvjeta za starosnu ili prijevremenu starosnu mirovinu, sukladno odredbama Zakona o mirovinskom osiguranju (»Narodne novine« 130/10, pročišćeni tekst), smatra se da je radnik ostvario pravo na:
+1. starosnu mirovinu kada ostvari jedan od sljedećih uvjeta:
+- radnik (muškarac i žena) kada navrši 65 godina života i 15 godina mirovinskog staža, odnosno
+- radnica kada navrši 15 godina mirovinskog staža i:
+- u 2010. godini - 60 godina života,
+- u 2011. godini - 60 godina i 3 mjeseca života,
+- u 2012. godini - 60 godina i 6 mjeseci života,
+- u 2013. godini - 60 godina i 9 mjeseci života,
+- u 2014. godini - 61 godinu života,
+- u 2015. godini - 61 godinu i 3 mjeseca života,
+- u 2016. godini - 61 godinu i 6 mjeseci života,
+- u 2017. godini - 61 godinu i 9 mjeseci života,
+- u 2018. godini - 62 godine života,
+- u 2019. godini - 62 godine i 3 mjeseca života,
+- u 2020. godini - 62 godine i 6 mjeseci života,
+- u 2021. godini - 62 godine i 9 mjeseci života,
+- u 2022. godini - 63 godine života,
+- u 2023. godini - 63 godine i 3 mjeseca života,
+- u 2024. godini - 63 godine i 6 mjeseci života,
+- u 2025. godini - 63 godine i 9 mjeseci života,
+- u 2026. godini - 64 godine života,
+- u 2027. godini - 64 godine i 3 mjeseca života,
+- u 2028. godini - 64 godine i 6 mjeseci života,
+- u 2029. godini - 64 godine i 9 mjeseci života.
+2. na prijevremenu starosnu mirovinu kada ostvari jedan od sljedećih uvjeta:
+- radnik (muškarac i žena) kada navrši 60 godina života i 35 godina mirovinskog staža, odnosno,
+- radnica kada navrši:
+- u 2010. godini - 55 godina života i 30 godina mirovinskog staža,
+- u 2011. godini - 55 godina i 3 mjeseca života i 30 godina i 3 mjeseca mirovinskog staža,
+- u 2012. godini - 55 godina i 6 mjeseci života i 30 godina i 6 mjeseci mirovinskog staža,
+- u 2013. godini - 55 godina i 9 mjeseci života i 30 godina i 9 mjeseci mirovinskog staža,
+- u 2014. godini - 56 godina života i 31 godinu mirovinskog staža,
+- u 2015. godini - 56 godina i 3 mjeseca života i 31 godinu i 3 mjeseca mirovinskog staža,
+- u 2016. godini - 56 godina i 6 mjeseci života i 31 godinu i 6 mjeseci mirovinskog staža,
+- u 2017. godini - 56 godina i 9 mjeseci života i 31 godinu i 9 mjeseci mirovinskog staža,
+- u 2018. godini - 57 godina života i 32 godine mirovinskog staža,
+- u 2019. godini - 57 godina i 3 mjeseca života i 32 godine i 3 mjeseca mirovinskog staža,
+- u 2020. godini - 57 godina i 6 mjeseci života i 32 godine i 6 mjeseci mirovinskog staža,
+- u 2021. godini - 57 godina i 9 mjeseci života i 32 godine i 9 mjeseci mirovinskog staža,
+- u 2022. godini - 58 godina života i 33 godine mirovinskog staža,
+- u 2023. godini - 58 godina i 3 mjeseca života i 33 godine i 3 mjeseca mirovinskog staža,
+- u 2024. godini - 58 godina i 6 mjeseci života i 33 godine i 6 mjeseci mirovinskog staža,
+- u 2025. godini - 58 godina i 9 mjeseci života i 33 godine i 9 mjeseci mirovinskog staža,
+- u 2026. godini - 59 godina života i 34 godine mirovinskog staža,
+- u 2027. godini - 59 godina i 3 mjeseca života i 34 godine i 3 mjeseca mirovinskog staža,
+- u 2028. godini - 59 godina i 6 mjeseci života i 34 godine i 6 mjeseci mirovinskog staža,
+- u 2029. godini - 59 godina i 9 mjeseci života i 34 godine i 9 mjeseci mirovinskog staža.

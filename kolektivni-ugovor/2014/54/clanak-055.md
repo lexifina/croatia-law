@@ -1,0 +1,3 @@
+# Članak 55.
+(1) Radnik koji nije koristio godišnji odmor ili je prekinuo korištenje godišnjeg odmora u kalendarskoj godini u kojoj je stečen, zbog bolesti, ima pravo taj godišnji odmor iskoristiti do 30. lipnja iduće godine.
+(2) Radnik majka ili otac koji radi korištenja rodiljnog, roditeljskog ili posvojiteljskog dopusta ili drugog prava utvrđenog posebnim zakonom nisu iskoristili godišnji odmor iz prethodne godine do 30. lipnja tekuće godine, neiskorišteni godišnji odmor koristit će odmah po prestanku korištenja rodiljnog, roditeljskog, posvojiteljskog ili nekog drugog dopusta utvrđenog posebnim propisom.
