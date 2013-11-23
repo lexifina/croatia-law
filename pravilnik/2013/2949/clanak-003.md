@@ -1,0 +1,2 @@
+# Članak 3.
+U članku 3. stavak 1. mijenja se i glasi »Raspored sredstava u iznosu od 103.210.000 kuna vrši se na temelju mjerila iz čl. 92. Zakona o cestama. Sredstva u ukupnom iznosu od 17.847.624 kuna namijenjena ujednačavanju redovnog održavanja doznačavat će se dvjema županijskim upravama za ceste mjesečno u visini 1/12 utvrđenog iznosa, a iznos od 3.210.000 kuna doznačit će se županijskim upravama za ceste za nabavu automatskih brojača prometa.«
