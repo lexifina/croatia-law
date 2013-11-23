@@ -1,0 +1,1 @@
+Na temelju članka 63. stavka 2. Zakona o sustavu državne uprave (»Narodne novine«, br. 150/2011 i 12/2013 - Odluka Ustavnog suda Republike Hrvatske) i članka 8. stavka 5. Zakona o policiji (»Narodne novine«, br. 34/2011 i 130/2012), Vlada Republike Hrvatske je na sjednici održanoj 21. studenoga 2013. godine donijela
