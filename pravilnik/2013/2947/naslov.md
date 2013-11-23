@@ -1,0 +1,1 @@
+Pravilnik o uvjetima kojima moraju udovoljavati operatori zrakoplova, osoblje i organizacije uključeni u održavanje i vođenje kontinuirane plovidbenosti EASA zrakoplova tijekom korištenja u državnim aktivnostima
