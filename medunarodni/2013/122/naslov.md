@@ -1,0 +1,1 @@
+Zakon o potvrđivanju Sporazuma o financiranju između Vlade Republike Hrvatske i Europske komisije koji se odnosi na "IPA Program Jadranska prekogranična suradnja" u okviru Instrumenta pretpristupne pomoći
