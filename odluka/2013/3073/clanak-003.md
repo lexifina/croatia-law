@@ -1,0 +1,2 @@
+# Članak 3.
+Strategija određuje dugoročne zadaće prostornog razvoja, strateška usmjerenja razvoja djelatnosti u prostoru i polazišta za koordinaciju njihovih razvojnih mjera u prostoru na temelju ciljeva prostornog razvoja utvrđenih Zakonom o prostornom uređenju i gradnji i u skladu s ukupnim gospodarskim, društvenim i kulturnim razvojem, te u vezi s drugim temeljnim državnim razvojnim i strateškim dokumentima.
