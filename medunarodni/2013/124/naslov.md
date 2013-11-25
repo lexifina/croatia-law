@@ -1,0 +1,1 @@
+Zakon o potvrđivanju Sporazuma o financiranju između Vlade Republike Hrvatske i Europske komisije koji se odnosi na "IPA Program prekogranične suradnje Mađarska - Hrvatska" u okviru Instrumenta pretpristupne pomoći
