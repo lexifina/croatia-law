@@ -1,0 +1,4 @@
+## VI. PRIJELAZNE I ZAVRŠNE ODREDBE
+# Članak 20.
+(1) Svi udžbenici i pripadajuća nastavna sredstva iz članka 35. stavka 4. Zakona o udžbenicima za osnovnu i srednju školu, koji se ne smatraju obveznima sukladno odredbama Pravilnika o obveznim udžbenicima i pripadajućim nastavnim sredstvima i koji su prošli postupak uvrštavanja na Popis udžbenika i pripadajućih dopunskih nastavnih sredstava sukladno odredbama navedenog Zakona te imaju pozitivno stručno mišljenje Ministarstva znanosti, obrazovanja i sporta o usklađenosti s nacionalnim i predmetnim kurikulumom, uvrstit će se na Popis iz članka 17. ovog Pravilnika.
+(2) U slučaju da Ministarstvo znanosti, obrazovanja i sporta ne dostavi pozitivno stručno mišljenje iz prethodnog stavka ovog članka, provest će se postupak sukladno ovom Pravilniku.

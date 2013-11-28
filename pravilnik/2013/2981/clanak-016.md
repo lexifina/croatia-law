@@ -1,0 +1,4 @@
+# Članak 16.
+(1) Kada su zbog izmjena nacionalnog, odnosno predmetnog kurikuluma, izmjena udžbeničkog standarda ili drugih bitnih sadržaja nužne izmjene pomoćnog nastavnog sredstva, mora se podnijeti zahtjev za odobrenjem izmjena i/ili dopuna pomoćnog nastavnog sredstva.
+(2) Ravnatelj Agencije će imenovati povjerenstvo sukladno odredbi članka 8. ovog Pravilnika koje će utvrditi jesu li izmjene i/ili dopune nužne te je li pomoćno nastavno sredstvo usklađeno s izmjenama iz stavka 1. ovog članka.
+(3) Ako povjerenstvo ocjeni izmjene i/ili dopune nužnima i pomoćno nastavno sredstvo usklađenim s izmjenama iz stavka 1. ovog članka, ravnatelj će donijeti odluku o brisanju s Popisa iz članka 17. ovog Pravilnika i odluku o uvrštavanju tako izmijenjenog i/ili dopunjenog pomoćnog nastavnog sredstva na popis.

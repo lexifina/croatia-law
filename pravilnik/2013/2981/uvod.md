@@ -1,0 +1,1 @@
+Na temelju članka 3. stavka 4. Zakona o udžbenicima za osnovnu i srednju školu (»Narodne novine«, 27/10, 55/11 i 101/13), Upravno vijeće Agencije za odgoj i obrazovanje na sjednici održanoj 11. studenoga 2013. godine donosi
