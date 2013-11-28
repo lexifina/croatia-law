@@ -1,0 +1,2 @@
+# Članak 1.
+U Pravilniku o parametrima sukladnosti i metodama analize vode za ljudsku potrošnju (»Narodne novine« broj 125/2013), u Prilogu I. PARAMETRI ZDRAVSTVENE ISPRAVNOSTI VODE ZA LJUDSKU POTROŠNJU (MIKROBIOLOŠKI, KEMIJSKI I PARAMETRI RADIOAKTIVNOSTI), Tablici 4. INDIKATORSKI PARAMETRI, u prvom stupcu Pokazatelj, u drugom redu riječ: »Amonijak« zamjenjuje se riječju: »Amonij«, i u drugom stupcu Jedinice, u desetom redu kod riječi: »Fosfati«, mjerna jedinica: »µg/l« zamjenjuje se mjernom jedinicom: »µgP/l«.
