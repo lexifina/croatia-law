@@ -1,0 +1,1 @@
+Na temelju članka 8. stavka 2. Pravilnika o stručnoj spremi i pedagoško-psihološkom obrazovanju učitelja i stručnih suradnika u osnovnom školstvu (»Narodne novine«, broj: 47/1996) i članka 57. stavka 3. Pravilnika o stručnoj spremi i pedagoško-psihološkom obrazovanju nastavnika u srednjem školstvu (»Narodne novine«, broj: 1/1996) Ministarstvo znanosti, obrazovanja i sporta donosi
