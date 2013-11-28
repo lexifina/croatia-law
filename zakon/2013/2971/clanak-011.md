@@ -1,0 +1,2 @@
+# Članak 11.
+Predsjednik i članovi upravnog vijeća veleučilišta ili visoke škole imenovani, odnosno izabrani sukladno odredbama Zakona o znanstvenoj djelatnosti i visokom obrazovanju (»Narodne novine«, br. 123/03., 105/04., 174/04., 2/07. - Odluka Ustavnog suda Republike Hrvatske, 46/07., 45/09., 63/11. i 94/13.), nastavljaju s radom do imenovanja, odnosno izbora sukladno odredbi članka 4. ovoga Zakona.
