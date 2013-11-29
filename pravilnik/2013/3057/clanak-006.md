@@ -1,0 +1,12 @@
+## IZVJEŠTAJNA RAZDOBLJA
+# Članak 6.
+(1) UAIF je dužan izrađivati:
+- financijske izvještaje iz članka 4. stavka 1. ovog Pravilnika za razdoblje poslovne godine i polugodišnje izvještaje za prvih šest mjeseci poslovne godine i
+- izvještaje o strukturi financijske imovine i obveza iz članka 5. ovog Pravilnika za razdoblje poslovne godine i za prvih šest mjeseci poslovne godine.
+(2) UAIF je dužan izvještaje iz stavka 1. ovoga članka sastaviti sukladno strukturi i sadržaju koji su definirani tehničkom uputom Agencije.
+(3) Godišnji financijski izvještaji iz članka 4. stavka 1. ovog Pravilnika moraju biti revidirani od strane vanjskog neovisnog ovlaštenog revizora, a sastavljeni sukladno strukturi i sadržaju koji su definirani obrascima Financijski izvještaji UAIF-a iz Priloga 2 ovog Pravilnika.
+(4) Konsolidirani godišnji financijski izvještaji iz članka 63. stavka 4. Zakona moraju biti revidirani od strane vanjskog neovisnog ovlaštenog revizora, a sastavljeni sukladno strukturi i sadržaju koji su definirani obrascima Financijski izvještaji UAIF-a iz Priloga 2 ovog Pravilnika.
+(5) Bilješke uz financijske izvještaje koje su sastavni dio polugodišnjih financijskih izvještaja trebaju obuhvaćati samo značajne poslovne događaje i promjene računovodstvenih politika u odnosu na zadnje objavljene godišnje financijske izvještaje.
+(6) UAIF je dužan u Bilješkama uz godišnje financijske izvještaje iz članka 4. stavka 1. alineje 5. ovog Pravilnika objaviti podatke iz članka 57. stavka 9. Zakona.
+(7) UAIF prilikom sastavljanja izvještaja o novčanom tijeku može koristiti direktnu ili indirektnu metodu.
+(8) Pored podataka iz financijskih izvještaja iz članka 4. stavka 1. i izvještaja iz članka 5. ovog Pravilnika Agencija može od UAIF-a zatražiti dodatne podatke, informacije i objašnjenja pojedinih stavki u izvještajima.

@@ -1,0 +1,6 @@
+# Članak 8.
+(1) UAIF dostavlja Agenciji izvještaje iz članka 6. stavka 1. ovog Pravilnika u elektroničkom obliku potpisane naprednim elektroničkim potpisom u skladu s tehničkom uputom Agencije.
+(2) Smatra se da je UAIF dostavilo izvještaje iz stavka 1. ovog članka u trenutku kada je izvještaj prihvaćen na poslužitelju Agencije za zaprimanje izvještaja.
+(3) U opravdanim slučajevima nemogućnosti dostave na način propisan stavkom 1. ovog članka, UAIF je dužan izvještaje dostaviti u pisanom obliku, neposredno ili poštom u svrhu pravodobnog izvješćivanja. UAIF je dužan dostaviti izvještaje na način propisan stavkom 1. ovog članka čim prestanu razlozi nemogućnosti dostave, a najkasnije u roku od osam dana od isteka roka za dostavu izvještaja.
+(4) UAIF je dužan godišnje financijske izvještaje iz članka 6. stavka 3. ovog Pravilnika dostaviti u pisanom obliku zajedno s revizorskim izvješćem o obavljenoj reviziji godišnjih financijskih izvještaja i godišnjim izvješćem.
+(5) UAIF je dužan godišnje konsolidirane financijske izvještaje iz članka 6. stavka 4. ovog Pravilnika dostaviti u pisanom obliku zajedno s revizorskim izvješćem o obavljenoj reviziji konsolidiranih godišnjih financijskih izvještaja i godišnjim izvješćem.
