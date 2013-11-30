@@ -1,0 +1,105 @@
+PRILOG I. - PRILOG V.
+PRILOG VI.
+POPIS NOVIH POMAGALA, PRIBORA I OPREME KOJA SE KORISTI U PČELARSTVU ZA KOJU JE MOGUĆE PODNIJETI ZAHTJEV ZA SUFINANCIRANJE
+OPREMA U PČELARSTVU:
+- košnice
+- dijelovi košnica
+- podnice, hranilice, krovovi, bježalice, snelgrove daske, matične rešetke, vratašca, spojka, ručka za košnice, satne osnove
+- ometač pčela s okvira
+- sakupljač cvjetnog praha
+- mlin za cvjetni prah*
+- vrcaljka * (SAMO ONE S ELEKTROMOTOROM)
+- odgovarajuća posuda za skladištenje i punjenje meda, matične mliječi, cvjetnog praha, propolisa, pčelinjeg voska i pčelinjeg otrova (staklena ambalaža (staklenke za med različitog volumena i staklene bočice raznog volumena), inox kante (posude) i bačve, plastične kante (pomade) i bačve)
+- separator meda, voska i matične mliječi
+- dekristalizator*
+- elektronske vage i njihova oprema *
+- agregat *
+- posuda (korito) za otklapanje saća
+- otklapač saća
+- parni topionik voska
+- posuda za zagrijavanje i raskuživanje voska
+- kalup za lijevanje satnih osnova
+- inkubator za proizvodnju matica
+- inkubator za matice
+- oplodnjaci
+- kalupi za izradu matične osnove
+- mlin za šećer *
+- miješalica za pogače *
+- stol za otklapanje saća
+- pčelarske košulje i kombinezoni
+- pčelarske rukavice
+- dimilice
+- okviri
+- nukleusi
+- transformatori za utapanje satne osnove *
+- grijači za med *
+- ručni viličar
+- nastavci
+- elektromotor i/ili elektroupravljačka jedinica za vrcaljke *
+- ventilacijske mreže
+- pojilica
+- dijelovi vrcaljke (koš, kazete)
+- zbjeg
+- sakupljač otrova
+- bušilica za okvire (s jednom i više bušećih glava) *
+- kalup za izradu satnih osnova
+- posuda za sterilizaciju voska
+- pumpe za med *
+- poklopna daska
+- priključna vozila
+- mehanička dizalica
+- hidraulična dizalica *
+- utovarna rampa
+- hidraulična rampa *
+- kontejner.
+PRIBOR I POMAGALA U PĆELARSTVU
+- čistač cvjetnog praha
+- sušionik za cvjetni prah *
+- posuda za cijeđenje
+- preša
+- sunčani topionik voska
+- posuda za pročišćavanje voska
+- pribor za uzgoj i označavanje matica
+- matičnjak (PVC)
+-.igle za presađivanje ličinki (inox, PVC)
+- pribor za obilježavanje matica (opalitne pločice - brojevi, ljepilo, tuljak mrežica za označavanje, flomasteri - boje za označavanje)
+- transportni i kavezi za dodavanje matica (PVC, drveni)
+- kavez za matičnjak (za leženje matica)
+- setovi za uzgoj matica - jenter, nicot
+- izolator
+- uređaj za umjetnu insiminaciju (oplodnju) matica
+- hvatač matice - staklena lulica
+- lupa za presađivanje
+- dlijeta
+- žica za žičenje okvira
+- vilice za otklapanje saća
+- nož za otklapanje saća
+- razmaci okvira za AŽ kosilicu
+- kopče i stege za selidbu
+- cjedila za med
+- pčelarska četka
+- kliješta za vađenje okvira
+- sipaonik za pčele
+- stalak (i taca) za okvire prilikom pregleda
+- kutija za paketne rojeve (multiboks)
+- rešetke za pelud (PVC skidač peluda)
+- mrežice za skupljanje propolisa
+- refraktometar
+- pipa za med (slavina)
+- mjeh za dimilicu
+- skidač roja (hvatač roja)
+- zatvarač leta (metalni češljevi)
+- brojevi za košnice
+- stalak za sita
+- američki koturić
+- zatezač žice (španer)
+- APILIFT (dizalica za nastavke) *
+- automatski aplikator (dozator) za liječenje pčela
+- usisavač za matičnu mliječ
+- pneumatske klamerice (pištolji) za sastavljanje dijelova pčelarske opreme (okvira, nastavaka, podnica) *
+- zračni kompresori za pogon klamerica (mogu biti raznog volumena) *
+- električni pastir *
+Objašnjenje
+* označava dijelove opreme, pomagala i pribora koja se priključuje na izvor električne energije i za koje je potrebno imati oznaku EU sukladnosti, odnosno CE oznaku.
+PRILOG VII. - PRILOG IX.
+142 29.11.2013 Pravilnik o izmjenama i dopunama Pravilnika o uvjetima i načinu provedbe posebnih mjera pomoći za sektor pčelarstva u 2014. godini prema Nacionalnom pčelarskom programu za razdoblje od 2014. do 2016. godine 142 29.11.2013 Pravilnik o izmjenama i dopunama Pravilnika o uvjetima i načinu provedbe posebnih mjera pomoći za sektor pčelarstva u 2014. godini prema Nacionalnom pčelarskom programu za razdoblje od 2014. do 2016. godine
