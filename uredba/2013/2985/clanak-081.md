@@ -1,0 +1,3 @@
+# Članak 81.
+Odjel za informatičko-tehničku podršku osigurava i daje potporu korisnicima informacijskih sustava službe vanjskih poslova; planira i provodi opremanje informatičkom opremom; prati i analizira informacijske tehnologije, predlaže i utvrđuje kriterije i norme za nabavu, raspodjelu i korištenje osnovne i dopunske strojne i programske opreme za korisnički rad u zemlji i inozemstvu; rješava zahtjeve korisnika za opremanjem informatičkom opremom u zemlji i inozemstvu sukladno utvrđenom standardu; organizira i provodi informatičko osposobljavanje zaposlenika Ministarstva; priprema za rad i održava korisnička računala u zemlji i inozemstvu, te obavlja i druge poslove iz svog djelokruga rada.
+8.2.2.3. Odjel za telekomunikacije

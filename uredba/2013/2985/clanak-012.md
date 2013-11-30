@@ -1,0 +1,3 @@
+# Članak 12.
+Odjel za poljoprivredu i ribarstvo u suradnji s nadležnim tijelima državne uprave, kao i Stalnim predstavništvom RH pri EU, u skladu s procedurama propisanima Odlukom o osnivanju Međuresorne radne skupine za europske poslove koordinira pripremu i izradu prijedloga stajališta za rad radnih skupina u okviru COREPER-a I i stajališta za sastanke COREPER-a I u području poljoprivrede i ribarstva, stajališta RH za sastanke Vijeća za poljoprivredu i ribarstvo, te obavlja i druge poslove iz svog djelokruga.
+3.2.1.2. Odjel za unutarnje tržište, konkurentnost, socijalnu politiku, zdravlje, obrazovanje i kulturu

@@ -1,0 +1,6 @@
+# Članak 19.
+Služba za EU institucije, regionalne politike EU i projekte prati i analitički obrađuje razvoj regionalne politike EU te rad institucija EU, njihovo funkcioniranje i procedure; surađuje s predstavnicima EU institucija u RH; posebno prati reforme ovih institucija, sudjeluje u koordinaciji pripreme i aktivnosti hrvatskih predstavnika u institucijama EU radi njihovog učinkovitijeg sudjelovanja u radu istih; potiče aktivnu suradnju hrvatskih tijela državne uprave i tijela jedinica lokalne i područne (regionalne) samouprave u okviru regionalne politike EU; prati rad tijela u okviru programa i inicijativa u kojima sudjeluju hrvatska državna tijela i/ili tijela jedinica lokalne i područne (regionalne) samouprave, a koji se provode u okviru Kohezijske politike; aktivno prati razvoj politika EU vezanih uz uspostavu i provedbu makroregionalne suradnje te drugih oblika regionalne suradnje u okviru politika EU; priprema, nadzire i odgovara za izradu projekata koje kandidira Ministarstvo, te obavlja i druge poslove iz svog djelokruga.
+U Službi za EU institucije, regionalne politike EU i projekte ustrojavaju se:
+3.2.3.1. Odjel za EU institucije;
+3.2.3.2. Odjel za regionalne politike EU i projekte.
+3.2.3.1. Odjel za EU institucije
