@@ -1,0 +1,4 @@
+# Članak 18.
+Ugovorne stranke obavijestit će jedna drugu u pisanom obliku, diplomatskim putem o ispunjenju uvjeta propisanih nacionalnim zakonodavstvom za stupanje na snagu ovoga Sporazuma.
+Ovaj Sporazum stupa na snagu prvog dana drugog mjeseca koji slijedi nakon dana primitka posljednje obavijesti iz stavka 1. ovoga članka, pod uvjetom da je Republika Hrvatska u međuvremenu postala stranka Konvencije Vijeća Europe o zaštiti osoba kod automatske obrade osobnih podataka. U protivnom, ovaj će Sporazum stupiti na snagu na dan kada Republika Hrvatska postane stranka navedene Konvencije.
+Ovaj Sporazum sklapa se na neodređeno vrijeme. Svaka ugovorna stranka može otkazati ovaj Sporazum pisanom obaviješću upućenom diplomatskim putem drugoj ugovornoj stranci. Otkaz ima pravni učinak šest mjeseci od dana primitka obavijesti o otkazu.

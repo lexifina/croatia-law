@@ -1,0 +1,3 @@
+# Članak 6.
+1. Ugovorne stranke obvezuju se da će njihove policijske službe, poštujući svoje nacionalno zakonodavstvo, a u okviru svoje nadležnosti pružati pomoć u cilju prevencije i istraga kaznenih djela, ukoliko nacionalno zakonodavstvo ugovorne stranke kojoj je podnesen zahtjev ne predviđa prosljeđivanje zahtjeva ili njegovog izvršenja pravosudnim tijelima.
+2. U pojedinačnim slučajevima, svaka ugovorna stranka može, poštujući svoje nacionalno zakonodavstvo te na vlastitu inicijativu, proslijediti informacije dotičnoj ugovornoj stranci koje njoj mogu biti od važnosti u cilju pomoći u prevenciji i suzbijanju kaznenih djela ili u prevenciji ugrožavanja javnog reda i sigurnosti.

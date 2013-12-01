@@ -1,0 +1,4 @@
+# Članak 8.
+1. Zahtjeve za pružanje pomoći upućuju i odgovore na te zahtjeve zaprimaju središnja tijela za međunarodnu policijsku suradnju i migraciju imenovana od strane svake ugovorne stranke.
+Kada se zahtjev ne može na vrijeme podnijeti na gore navedeni način, iznimno i jedino u slučaju hitnosti, nadležno ga tijelo ugovorne stranke koja podnosi zahtjev može podnijeti izravno nadležnim tijelima ugovorne stranke kojoj se zahtjev podnosi, a ono može izravno na njega odgovoriti. U ovim iznimnim slučajevima, tijelo koje je podnijelo zahtjev treba, u najkraćem roku, obavijestiti središnje tijelo nadležno za međunarodnu suradnju ugovorne stranke kojoj je zahtjev podnesen o svom izravnom zahtjevu te obrazložiti njegovu hitnost.
+2. Ugovorne stranke će se međusobno, diplomatskim putem, obavještavati o popisima središnjih tijela nadležnih za međunarodnu suradnju.
