@@ -1,0 +1,1 @@
+Na temelju članka 39. Zakona o sustavu državne uprave (»Narodne novine« br. 150/11, 12/13), i članka 24. stavak 4. Zakona o volonterstvu (»Narodne novine« br. 58/07, 22/13), Pravilnika o državnoj nagradi za volontiranje (»Narodne novine« br. 106/07) te prijedloga Nacionalnog odbora za razvoj volonterstva sa Sjednice održane 18. studenoga 2013. godine, donosim
