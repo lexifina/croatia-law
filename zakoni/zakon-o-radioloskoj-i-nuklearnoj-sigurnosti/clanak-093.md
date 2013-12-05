@@ -1,0 +1,27 @@
+# Članak 93.
+(1) Novčanom kaznom u iznosu od 50.000,00 do 100.000,00 kuna kaznit će se za prekršaj pravna osoba ako:
+1. koristi izvor ionizirajućeg zračenja protivno načelima radiološke sigurnosti (članak 23.)
+2. ne osigura da ozračenje pojedinog stanovnika, izloženog radnika, osoba koje se obučavaju ili obrazuju za rad s izvorima ionizirajućeg zračenja bude niže od propisane granice (članak 24.)
+3. izvore ionizirajućeg zračenja primjenjuje u medicinske svrhe protivno propisanim uvjetima (članak 27.)
+4. u području izloženosti rade osobe bez prethodnog zdravstvenog pregleda ili koje ne udovoljavaju posebnim zdravstvenim uvjetima (članak 29. stavak 1.)
+5. ne osigura redoviti zdravstveni pregled izloženih radnika i/ili polaznika ili ne zabrani rad u području izloženosti (članak 29. stavak 3., članak 31. stavak 1. i članak 33. podstavak 1.)
+6. provodi provjeru zdravstvene sposobnosti izloženih radnika, učenika i studenata te izloženih pripravnika bez ovlaštenja ministra nadležnog za zdravstvo (članak 30.)
+7. upišu kandidate koji ne ispunjavaju propisane uvjete (članak 31. stavak 2.)
+8. ne osigura ispitivanje izvora ionizirajućeg zračenja i uvjeta rada te mjerenje propisanih parametara (članak 33. podstavak 5.)
+9. ne osigura osobna zaštitna sredstva i opremu za izložene radnike te provjeru ispravnosti tih sredstava (članak 33. podstavak 8.)
+10. ne osigura redovito umjeravanje i provjeru ispravnosti mjernih instrumenata (članak 33. podstavak 9.)
+11. ne osigura provjeru radioaktivnog onečišćenja osoba, predmeta, okoliša, prostorija i zraka u prostorijama u kojima se obavljaju djelatnosti ili su smješteni izvori ionizirajućeg zračenja (članak 33. podstavak 10.)
+12. ne osigura program osiguranja kvalitete i/ili njegovo provođenje (članak 33. podstavak 6. i članak 46. stavak 2.)
+13. na propisan način i u propisanom roku ne izvještava Zavod (članak 34., članak 39. stavak 3., članak 40. stavak 2., članak 41. stavak 1., članak 63. stavak 3., članak 72. stavak 3.)
+14. ne osigura da izloženi radnici tijekom rada provode sve propisane i uobičajene mjere samozaštite od ionizirajućeg zračenja, kao i zaštite drugih osoba, koriste zaštitnu opremu i uređaje za mjerenje osobnoga ozračenja te koriste sve druge potrebne mjere za zaštitu od ionizirajućeg zračenja (članak 35.)
+15. ne imenuje osobu odgovornu za zaštitu od ionizirajućeg zračenja odgovarajućeg stručnog obrazovanja (članak 36.)
+16. osigura mjerenje osobnog ozračenja izloženih radnika ili polaznika (članak 28. i članak 33. podstavak 2.)
+17. obavlja poslove radiološke sigurnosti bez ovlaštenja Zavoda ili protivno odredbama ovoga Zakona i pravilnika donesenih na temelju ovoga Zakona (članak 42.)
+18. izvorima ionizirajućeg zračenja rukuju radnici koji nemaju posebno stručno obrazovanje za rukovanje izvorima ionizirajućeg zračenja (članak 47. stavak 1.)
+19. izloženi radnici nemaju posebno stručno obrazovanje o primjeni mjera radiološke sigurnosti (članak 47. stavak 2. i članak 33. podstavak 3.)
+20. izloženi radnici periodično ne obnavljaju znanje o primjeni mjera radiološke sigurnosti (članak 47. stavak 4.)
+21. ne izradi Plan i program mjera za slučaj izvanrednog događaja (članak 61. stavak 1.)
+22. o važnim činjenicama iz Plana i programa iz članka 61. stavka 1. ovoga Zakona ne izvješćuje javnost (članak 61. stavak 3.)
+23. ne vodi propisane očevidnike (članak 72. stavak 1.)
+24. ne izvrši naređene mjere iz članka 86. ovoga Zakona.
+(2) Za prekršaj iz stavka 1. ovoga članka kaznit će se i odgovorna osoba u pravnoj osobi i fizička osoba novčanom kaznom u iznosu od 10.000,00 do 15.000,00 kuna.

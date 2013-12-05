@@ -1,0 +1,8 @@
+## Uvoz, izvoz, prijevoz i provoz
+# Članak 21.
+(1) Uvoz, izvoz, prijevoz i provoz izvora ionizirajućeg zračenja, posebne opreme te radioaktivnog otpada, istrošenog nuklearnog goriva, iskorištenih izvora mogu obavljati pravne i fizičke osobe na temelju odobrenja, odnosno dozvole Zavoda.
+(2) Pravne i fizičke osobe iz stavka 1. ovoga članka mogu obavljati djelatnost prijevoza ili provoza ako zadovoljavaju uvjete propisane ovim Zakonom i uvjete propisane podzakonskim propisima na temelju ovoga Zakona, kao i uvjete iz zakona kojim se propisuje prijevoz opasnih tvari i uvjete iz podzakonskih propisa na temelju zakona kojim se propisuje prijevoz opasnih tvari te u odnosu na prijevoz morem uvjete propisane zakonima i podzakonskim aktima iz područja pomorstva.
+(3) Popis dokumenata kojima se u postupku davanja odobrenja, odnosno dozvole iz stavka 1. ovoga članka dokazuje da je udovoljeno uvjetima propisanim ovim Zakonom propisat će pravilnikom ravnatelj Zavoda.
+(4) Odobrenje, odnosno dozvola iz stavka 1. ovoga članka daje se, odnosno uskraćuje rješenjem protiv kojeg nije dopuštena žalba, već se protiv toga rješenja može pokrenuti upravni spor.
+(5) Odobrenje, odnosno dozvola iz stavka 1. ovoga članka daje se na rok od najduže šest mjeseci.
+(6) Načine financijskih osiguranja, načine prijave prometa izvora ionizirajućeg zračenja, radioaktivnog otpada i istrošenog nuklearnog goriva, načine i rokove obavješćivanja nadležnih tijela drugih država o prometu, uvjete sigurnosti od zračenja i nuklearne sigurnosti te provjeru kapaciteta drugih zemalja za prihvat, odnosno slanje pošiljaka koje sadrže radioaktivni otpad i istrošeno nuklearno gorivo i izvore ionizirajućeg zračenja propisat će se pravilnikom koji donosi ravnatelj Zavoda.

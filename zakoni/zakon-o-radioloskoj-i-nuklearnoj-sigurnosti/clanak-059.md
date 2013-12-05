@@ -1,0 +1,14 @@
+# Članak 59.
+Nacionalni program iz članka 57. mora sadržavati najmanje sljedeće:
+– sveukupne ciljeve Strategije zbrinjavanja radioaktivnog otpada, iskorištenih izvora i istrošenog nuklearnog goriva
+– važne prekretnice s pripadnim rokovima njihovog ostvarivanja radi postizanja sveukupnog cilja Nacionalnog programa provedbe Strategije zbrinjavanja radioaktivnog otpada, iskorištenih izvora i istrošenog nuklearnog goriva
+– Inventar radioaktivnog otpada, istrošenog nuklearnog goriva, iskorištenih izvora uključujući razgradnju i prirodne radioaktivne tvari sa svojstvima promijenjenim korištenjem tehnoloških postupaka, za postojeće stanje i očekivano nastajanje u budućnosti, na način da se jasno razaznaju pripadne lokacije s količinama materijala klasificiranim prema razini radiološke opasnosti
+– koncepte, planove i tehnička rješenja za zbrinjavanje Inventara iz podstavka 3. ovoga članka od nastajanja do konačnog odlaganja
+– koncepte ili planove za razdoblje nakon zatvaranja odlagališta, uključujući razdoblje tijekom kojega je potrebno provoditi odgovarajuće kontrole te koja su sredstva potrebna kako bi se dugoročno sačuvalo znanje o predmetnom objektu
+– opis istraživačkih i razvojnih aktivnosti potrebnih za demonstriranje opravdanosti rješenja za zbrinjavanje radioaktivnog otpada, istrošenog nuklearnog goriva, iskorištenih izvora uključujući i prirodne radioaktivne tvari sa svojstvima promijenjenim korištenjem tehnoloških postupaka
+– osnovne korake koji bi služili učinkovitom praćenju implementacije pojedinih dijelova Nacionalnog programa iz članka 57. ovoga Zakona, s jasnim pripadnim vremenskim okvirima u kojima se koraci moraju ostvariti i podjelom odgovornosti za primjenu
+– osnovne pokazatelje uspješnosti primjene Nacionalnog programa iz članka 57. ovoga Zakona
+– procjenu troškova primjene Nacionalnog programa iz članka 57. ovoga Zakona, s jasnim uključenim pretpostavkama i hipotezama procjene prikazanim u vremenskom profilu od interesa
+– opis financijske sheme koja mora uključivati sve troškove s osiguranjem primjene prema predviđenom vremenskom rasporedu
+– strategiju informiranja i komuniciranja s javnosti kojom se osigurava da su potrebne informacije o zbrinjavanju istrošenog nuklearnog goriva i radioaktivnog otpada dostupne radnicima i stanovništvu na način da će Zavod obavješćivati javnost o događanjima na svome području nadležnosti, uz izuzetak informacija kojima se potencijalno mogu ugroziti sigurnosni interesi. Strategijom mora biti predviđen i način osiguravanja učinkovitog sudjelovanja zainteresirane javnosti u postupku odlučivanja o zbrinjavanju istrošenog nuklearnog goriva i radioaktivnog otpada
+– sporazum ili sporazume o zbrinjavanju istrošenog nuklearnog goriva ili radioaktivnog otpada, uključujući uporabu odlagališta, sklopljen(e) s državom članicom Europske unije ili trećom zemljom, ako postoji/postoje.
