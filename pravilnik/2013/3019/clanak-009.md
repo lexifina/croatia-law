@@ -1,0 +1,4 @@
+# Članak 9.
+(1) Obavijest o podnesenom valjanom zahtjevu za prodaju poljoprivrednog zemljišta u vlasništvu države izravnom pogodbom Agencija objavljuje na oglasnoj ploči jedinice lokalne samouprave, odnosno Grada Zagreba, na čijem se području poljoprivredno zemljište nalazi i na mrežnoj stranici Agencije.
+(2) Ako je više osoba podnijelo valjani zahtjev za prodaju istog poljoprivrednog zemljišta u vlasništvu države izravnom pogodbom do obavijesti iz stavka 1. ovoga članka, odnosno u roku od 15 dana od te obavijesti, kupac se utvrđuje javnim nadmetanjem, sukladno Pravilniku o postupku javnog nadmetanja za utvrđivanje najpovoljnijeg ponuditelja na javnom pozivu za dodjelu poljoprivrednog zemljišta u vlasništvu Republike Hrvatske u zakup i zakup za ribnjake (»Narodne novine«, broj 120/2013).
+(3) Zahtjev iz stavka 1. i 2. ovoga članka je valjan ako zainteresirana osoba dostavi Agenciji dokaz o ispunjavanju uvjeta iz članka 50. stavka 1. Zakona.

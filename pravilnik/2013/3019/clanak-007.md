@@ -1,0 +1,2 @@
+# Članak 7.
+Ako Agencija utvrdi da je trenutna tržišna cijena poljoprivrednog zemljišta na području jedinice područne (regionalne) samouprave veća od utvrđene tržišne cijene (TC) za prodaju poljoprivrednog zemljišta u vlasništvu države izravnom pogodbom sukladno odredbama članka 6. ovoga Pravilnika, može za utvrđivanje tržišne cijene (TC) koristiti faktor lokacije i prometne povezanosti (Fl) i faktor ponude i potražnje (Fpp) bez ograničenja gornje vrijednosti iz članka 5. ovoga Pravilnika.
