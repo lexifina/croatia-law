@@ -1,0 +1,4 @@
+# Članak 14.
+(1) Odredba članka 3. ovoga Zakona primjenjuje se na glazbena djela s riječima kod kojih je autorsko pravo autora glazbe ili autora teksta zaštićeno barem u jednoj od država članica Europske unije na dan 1. studenoga 2013., kao i na glazbena djela s riječima koja nastanu nakon toga dana.
+(2) Odredba stavka 1. ovoga članka neće utjecati na radnje iskorištavanja glazbenih djela s riječima koje su poduzete prije 1. studenoga 2013. Treće osobe koje su prije toga dana u dobroj vjeri stekle neka prava u odnosu na takva djela mogu, prema ovome Zakonu, nastaviti izvršavati ta prava pod istim uvjetima.
+(3) Odredbe članka 6. ovoga Zakona primjenjuju se na izvedbe koje su fiksirane na fonograme i na fonograme kod kojih je pravo umjetnika izvođača, odnosno pravo proizvođača fonograma bilo zaštićeno u Republici Hrvatskoj na dan 1. studenoga 2013., kao i na izvedbe i fonograme koji nastanu nakon toga dana.

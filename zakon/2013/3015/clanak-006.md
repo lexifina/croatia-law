@@ -1,0 +1,26 @@
+# Članak 6.
+Iza članka 137. dodaje se poglavlje 2.a te naslovi iznad članaka i članci 137.a, 137.b, 137.c i 137.d koji glase:
+»Poglavlje 2.a ODNOS PRAVA UMJETNIKA IZVOĐAČA I PRAVA PROIZVOĐAČA FONOGRAMA
+OTKAZ UGOVORA IZMEĐU UMJETNIKA IZVOĐAČA I PROIZVOĐAČA FONOGRAMA
+Članak 137.a
+(1) Ako 50 godina od zakonitog izdavanja fonograma, odnosno ako fonogram nije zakonito izdan, 50 godina od njegova zakonitog priopćavanja javnosti, proizvođač fonograma ne ponudi primjerke fonograma na prodaju u količini koja zadovoljava razumne potrebe javnosti ili ga ne stavi na raspolaganje javnosti, umjetnik izvođač može otkazati ugovor koji je sklopljen za cijelo vrijeme trajanja zaštite prava umjetnika izvođača i kojim je za proizvođača fonograma osnovano pravo iskorištavanja fiksirane izvedbe na fonogramu.
+(2) Prije otkaza ugovora iz stavka 1. ovoga članka umjetnik izvođač dužan je obavijestiti proizvođača fonograma da ima obvezu ponuditi primjerke fonograma na prodaju u količini koja zadovoljava razumne potrebe javnosti i staviti ga na raspolaganje javnosti u roku od godine dana, računajući od dana primitka pisane obavijesti umjetnika izvođača.
+(3) Umjetnik izvođač ne može se odreći prava na otkaz ugovora iz stavka 1. ovoga članka.
+(4) Ako je u stvaranju umjetničke izvedbe sudjelovalo više umjetnika izvođača, oni mogu otkazati ugovor o osnivanju prava iskorištavanja njihove fiksirane izvedbe na fonogramu u skladu s odredbom članka 123. ovoga Zakona.
+(5) Ako je umjetnik izvođač otkazao ugovor o osnivanju prava iskorištavanja fiksirane izvedbe na fonogramu u skladu sa stavkom 1. ovoga članka, prava proizvođača fonograma na tom fonogramu prestaju istekom 50 godina od zakonitog izdavanja javnosti fonograma, odnosno 50 godina od njegova zakonitog priopćavanja javnosti ako fonogram nije izdan.
+DODATNA GODIŠNJA NAKNADA UMJETNIKU IZVOĐAČU
+Članak 137.b
+(1) Ako je prema ugovoru između umjetnika izvođača i proizvođača fonograma koji je sklopljen za cijelo vrijeme trajanja zaštite prava umjetnika izvođača i kojim je za proizvođača fonograma osnovano pravo iskorištavanja fiksirane izvedbe na fonogramu, umjetnik izvođač stekao pravo na jednokratnu naknadu, umjetnik izvođač, prema ovome Zakonu, stječe pravo na dodatnu godišnju naknadu. Proizvođač fonograma dužan je umjetniku izvođaču plaćati dodatnu godišnju naknadu za svaku punu godinu koja slijedi pedesetu godinu od zakonitog izdavanja fonograma, odnosno pedesetu godinu od njegova zakonitog priopćavanja javnosti ako fonogram nije tako izdan.
+(2) Umjetnik izvođač ne može se odreći prava na dodatnu godišnju naknadu iz stavka 1. ovoga članka.
+(3) Dodatna godišnja naknada, prema ovome Zakonu, iznosi 20 % od prihoda kojega proizvođač fonograma ostvari od reproduciranja, distribuiranja i stavljanja na raspolaganje javnosti fonograma na kojem se nalazi izvedba umjetnika izvođača iz stavka 1. ovoga članka. Dodatna godišnja naknada obračunava se prema prihodu kojeg proizvođač fonograma ostvari u godini koja prethodi godini njezina dospijeća.
+(4) Obveza plaćanja dodatne godišnje naknade, prema ovome Zakonu, nastaje u godini koja slijedi pedesetu godinu od zakonitog izdavanja fonograma, odnosno pedesetu godinu od njegova zakonitog priopćavanja javnosti ako fonogram nije tako izdan.
+(5) Proizvođač fonograma dužan je, prema ovome Zakonu, umjetniku izvođaču koji je ovlašten primati dodatnu godišnju naknadu, osobi koju on ovlasti, kao i udruzi koja pravo na dodatnu godišnju naknadu ostvaruje u kolektivnom sustavu dati sve podatke koji su potrebni za njezinu isplatu.
+PROMJENA SADRŽAJA UGOVORA U KORIST UMJETNIKA IZVOĐAČA
+Članak 137.c
+(1) Ako je prema ugovoru između umjetnika izvođača i proizvođača fonograma koji je sklopljen za cijelo vrijeme trajanja zaštite prava umjetnika izvođača i kojim je za proizvođača fonograma osnovano pravo iskorištavanja fiksirane izvedbe na fonogramu, umjetnik izvođač stekao pravo na naknadu koja dospijeva u obrocima, pri obračunu iznosa takve naknade, prema ovome Zakonu, ne oduzimaju se eventualno ranije plaćeni predujmovi kao ni eventualni drugi odbici koji su određeni u takvom ugovoru.
+(2) Odredba iz stavka 1. ovoga članka primjenjuje se nakon što istekne 50 godina od zakonitog izdavanja fonograma, odnosno 50 godina od njegova zakonitog priopćavanja javnosti ako fonogram nije zakonito izdan.
+(3) Umjetnik izvođač, prema ovome Zakonu, ima pravo zahtijevati izmjenu ugovora iz stavka 1. ovoga Zakona sklopljenog prije 1. studenoga 2013. nakon što istekne 50 godina od zakonitog izdavanja fonograma, odnosno 50 godina od njegova zakonitog priopćavanja javnosti ako fonogram nije izdan.
+(4) Ako umjetnik izvođač i proizvođač fonograma ne postignu sporazum u vezi pravične izmjene ugovora iz stavka 3. ovoga članka, prava proizvođača fonograma na tom fonogramu prestaju istekom 50 godina od zakonitog izdavanja javnosti fonograma, odnosno 50 godina od njegova zakonitog priopćavanja javnosti ako fonogram nije zakonito izdan.
+UGOVORI KOJI OSTAJU NA SNAZI
+Članak 137.d
+Ugovor između umjetnika izvođača i proizvođača fonograma o osnivanju prava iskorištavanja izvedbe fiksirane na fonogram koji je sklopljen prije 1. studenoga 2013. proizvodi učinke do isteka roka zaštite umjetnika izvođača iz članka 131. ovoga Zakona, osim ako je u ugovoru izrijekom drukčije određeno.«.
