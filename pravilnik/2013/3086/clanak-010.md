@@ -1,0 +1,3 @@
+# Članak 10.
+(1) Danom stupanja na snagu ovoga Pravilnika prestaje važiti Pravilnik o proglašavanju divljih svojti zaštićenim i strogo zaštićenim (»Narodne novine«, broj 99/2009), osim Priloga III. toga Pravilnika koji prestaje važiti danom stupanja na snagu pravilnika o mjerama upravljanja i zaštite te uvjetima korištenja zavičajnih divljih vrsta.
+(2) Iznimno od odredbe stavka 1. ovoga članka popis zaštićenih vrsta iz Priloga III. Pravilnika o proglašavanju divljih svojti zaštićenim i strogo zaštićenim (»Narodne novine«, broj 99/2009) koje se proglašavaju strogo zaštićenim vrstama temeljem odredbi ovoga Pravilnika prestaje važiti danom stupanja na snagu ovoga Pravilnika.

@@ -1,0 +1,2 @@
+# Članak 1.
+Ovim se pravilnikom proglašavaju strogo zaštićene vrste, propisuje se detaljni sadržaj zahtjeva za izdavanje dopuštenja za odstupanja od strogih mjera zaštite, postupanje s mrtvim ili ozlijeđenim primjercima strogo zaštićenih vrsta, sadržaj, način izrade i postupak donošenja plana upravljanja strogo zaštićenim vrstama s akcijskim planom, dodatna pravila označavanja strogo zaštićenih životinja, iznimke od propisanih načina označavanja te postupanje u slučaju oštećenja ili gubitka izvorne oznake strogo zaštićene životinje.
