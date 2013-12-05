@@ -1,0 +1,3 @@
+# Članak 131.
+(1) Broj uzastopnih revizija financijskih izvještaja iz članka 74. stavka 3. ovoga Zakona koje je obavilo isto revizorsko društvo u istom leasing-društvu računa se na temelju broja obavljenih uzastopnih revizija neovisno o tome koja je od sedam uzastopnih revizija bila po redu na dan stupanja na snagu ovoga Zakona, odnosno broj obavljenih uzastopnih revizija se ne prekida stupanjem na snagu ovoga Zakona.
+(2) Postupci likvidacije leasing-društava koji su pokrenuti prema odredbama Zakona o trgovačkim društvima i odredbama Zakona o leasingu (»Narodne novine«, br. 135/06.), dovršit će se u skladu s odredbama tih zakona.

@@ -1,0 +1,3 @@
+## Naknada za nadzor
+# Članak 80.
+Za obavljanje nadzora leasing-društva iz članka 3. ovoga Zakona i njihove podružnice izvan Republike Hrvatske, podružnice leasing-društava iz države članice koje posluju u Republici Hrvatskoj iz članka 46. ovoga Zakona, leasing-društva iz države članice u dijelu poslovanja koje se obavlja neposrednim pružanjem usluga na području Republike Hrvatske iz članka 46. ovoga Zakona te podružnice leasing-društava iz treće države koje posluju u Republici Hrvatskoj iz članka 48. ovoga Zakona, plaćaju Agenciji naknadu za nadzor, čiju će visinu, način izračuna i način plaćanja Agencija propisati pravilnikom.
