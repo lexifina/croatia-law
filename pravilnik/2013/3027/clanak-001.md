@@ -1,0 +1,4 @@
+# Članak 1.
+U Pravilniku o keksima i keksima srodnim proizvodima (»Narodne novine«, br. 73/2005 i 69/2008) članak 1a. mijenja se i glasi:
+»Članak 1a.
+Smatra se da proizvodi koji su zakonito stavljeni na tržište u drugim državama članicama Europske unije, Europskog gospodarskog prostora ili u Turskoj, ako su proizvedeni u skladu s nacionalnim zakonodavstvom koje osigurava jednaku razinu zaštite javnog interesa, ispunjavaju zahtjeve utvrđene ovim Pravilnikom te se mogu staviti na tržište, osim ako je postupak proveden u skladu s Uredbom (EZ) br. 764/2008 Europskog parlamenta i Vijeća od 9. srpnja 2008. o utvrđivanju postupaka koji se odnose na primjenu određenih nacionalnih tehničkih propisa na proizvode koji se zakonito stavljaju na tržište u drugoj državi članici i o stavljanju izvan snage Odluke br. 3052/95/EZ (SL L 218, 13. 8. 2008., str. 21.).«
