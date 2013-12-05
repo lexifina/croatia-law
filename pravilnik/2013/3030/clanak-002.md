@@ -1,0 +1,5 @@
+# Članak 2.
+Osiguranik iz članka 1. ovoga Pravilnika oslobađa se plaćanja doprinosa za obvezno zdravstveno osiguranje (u daljnjem tekstu: doprinos) pod sljedećim uvjetima:
+1. da je korisnik prava iz sustava socijalne skrbi namijenjena za zadovoljavanje osnovnih životnih potreba prema propisima o socijalnoj skrbi ili to pravo koristi kao član obitelji koja je korisnik prava iz sustava socijalne skrbi namijenjena za zadovoljavanje osnovnih životnih potreba,
+2. da je rješenjem nadležnog centra za socijalnu skrb smješten u dom socijalne skrbi ili kod drugog pružatelja usluga socijalne skrbi temeljem Zakona o socijalnoj skrbi, a troškovi skrbi izvan vlastite obitelji terete sredstava ministarstva nadležnog za poslove socijalne skrbi,
+3. da su u godini koja prethodi godini podnošenja zahtjeva za oslobađanje od plaćanja doprinosa za obvezno zdravstveno osiguranje osiguranik i članovi njegove obitelji ostvarili prihod koji po članu obitelji mjesečno iznosi manje od trostrukog iznosa osnovice na temelju koje se utvrđuje visina prava iz sustava socijalne skrbi namijenjena za zadovoljavanje osnovnih životnih potreba.
