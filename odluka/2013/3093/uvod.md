@@ -1,0 +1,1 @@
+Na temelju članka 47. stavka 2. Zakona o referendumu i drugim oblicima osobnog sudjelovanja u obavljanju državne vlasti i lokalne i područne (regionalne) samouprave (»Narodne novine«, br. 33/96, 92/2001, 44/2006, 58/2006, 69/2007 i 38/2009), Vlada Republike Hrvatske je na sjednici održanoj 5. prosinca 2013. godine donijela
