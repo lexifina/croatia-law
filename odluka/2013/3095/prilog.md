@@ -1,0 +1,3 @@
+PRILOG 1.
+Karta zimskih dionica javnih cesta u Republici Hrvatskoj na kojima je obvezna uporaba zimske opreme u razdoblju od 15. 11. tekuće godine do 15. 4. iduće godine
+| 145 06.12.2013 Odluka o obveznoj uporabi zimske opreme na zimskim dionicima javnih cesta u Republici Hrvatskoj 145 06.12.2013 Odluka o obveznoj uporabi zimske opreme na zimskim dionicima javnih cesta u Republici Hrvatskoj 145 06.12.2013 Odluka o obveznoj uporabi zimske opreme na zimskim dionicima javnih cesta u Republici Hrvatskoj 145 06.12.2013 Odluka o obveznoj uporabi zimske opreme na zimskim dionicima javnih cesta u Republici Hrvatskoj
