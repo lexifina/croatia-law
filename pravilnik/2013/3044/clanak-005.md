@@ -1,0 +1,7 @@
+# Članak 5.
+(1) Jamstva za troškove sanacije istražnog prostora mogu biti zadužnice, bankarske garancije, osobna jamstva, mjenice, polog i ostalo, a vrstu i iznos jamstva određuje tijelo nadležno za rudarstvo u odluci o odabiru najpovoljnijeg ponuditelja za istraživanje mineralnih sirovina radi davanja koncesije za eksploataciju, ovisno o predviđenim rudarskim radovima.
+(2) Jamstva iz stavka 1. ovoga članka dužno je čuvati tijelo nadležno za rudarstvo na prikladnom mjestu za vrijeme trajanja roka važenja rješenja o odobrenju za istraživanje mineralnih sirovina.
+(3) Jamstvo iz stavka 1. ovoga članka može se po završetku određene faze odobrenih istražnih radova zamijeniti istovjetnim jamstvom umanjene vrijednosti nakon utvrđenja da su provedene mjere osiguranja u skladu s odredbama članka 44. Zakona o rudarstvu.
+(4) Tijelo nadležno za rudarstvo dužno je redovito provjeravati valjanost jamstva iz stavka 1. ovoga članka, a način provjere se određuje u rješenju o odobrenju za istraživanje mineralnih sirovina.
+(5) U slučaju da jamstvo iz stavka 1. ovoga članka nije valjano, tijelo nadležno za rudarstvo dužno je bez odgode zatražiti od ovlaštenika istražnog prostora dostavu novog odgovarajućeg jamstva.
+(6) U slučaju iz stavka 5. ovoga članka, ako ovlaštenik istražnog prostora nije dostavio novo odgovarajuće jamstvo u roku od 15 dana, tijelo nadležno za rudarstvo dužno je poduzeti radnje određene člankom 46. Zakona o rudarstvu.

@@ -1,0 +1,8 @@
+## III. UTVRĐIVANJE EKSPLOATACIJSKOG POLJA MINERALNIH SIROVINA
+# Članak 8.
+(1) Ako ovlaštenik istražnog prostora, sukladno odredbama članka 61. Zakona o rudarstvu, podnosi zahtjev za utvrđivanje eksploatacijskog polja mineralnih sirovina, dužan je uz zahtjev tijelu nadležnom za rudarstvo priložiti:
+1. dokaz da ovlaštenik istražnog prostora nije pokrenuo postupak obustavljanja poslovne djelatnosti, likvidacije, odnosno da ovlaštenik istražnog prostora nije u stečajnom postupku i/ili u postupku predstečajne nagodbe,
+2. dokaze o bonitetu ovlaštenika istražnog prostora na obrascu BON-1 izdanom od Financijske agencije, te o solventnosti ovlaštenika istražnog prostora na obrascu BON-2 ili na drugom odgovarajućem obrascu poslovne banke,
+3. za utvrđivanje eksploatacijskog polja mineralnih sirovina zemljovidi iz članka 61. Zakona o rudarstvu moraju biti izrađeni od ovlaštene osobe odgovarajuće struke po posebnom propisu,
+4. za utvrđivanje eksploatacijskog polja mineralnih sirovina iz članka 5. točke 2., 3., 4. i 5. Zakona o rudarstvu uz priložene zemljišnoknjižne izvatke izdane od nadležnog suda ovlaštenik istražnog prostora dužan je priložiti i posjedovne listove za katastarske čestice unutar obuhvata zatraženog eksploatacijskog polja izdane od nadležnog tijela,
+(2) Tijelo nadležno za rudarstvo rješenjem će odbaciti zahtjev ovlaštenika istražnog prostora za utvrđivanje eksploatacijskog polja mineralnih sirovina ako ovlaštenik istražnog prostora ne ispunjava uvjete određene Zakonom o rudarstvu, odnosno ako nije dostavio sve propisano i određeno odredbama Zakona o rudarstvu i odredbama ovoga Pravilnikom glede postupka utvrđivanja eksploatacijskog polja.

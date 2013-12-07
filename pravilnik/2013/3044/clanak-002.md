@@ -1,0 +1,14 @@
+## II. ISTRAŽIVANJE MINERALNIH SIROVINA
+# Članak 2.
+(1) Ako fizička osoba ili pravna osoba, sukladno odredbama članka 24. Zakona o rudarstvu, podnosi prijedlog za raspisivanje javnog nadmetanja za istraživanje mineralnih sirovina radi davanja koncesije za eksploataciju (u daljnjem tekstu: Podnositelj prijedloga), dužna je uz prijedlog tijelu nadležnom za rudarstvo priložiti:
+1. dokaz da Podnositelj prijedloga nije pokrenuo postupak obustavljanja poslovne djelatnosti, likvidacije, odnosno da Podnositelj prijedloga nije u stečajnom postupku i/ili u postupku predstečajne nagodbe,
+2. dokaze o bonitetu Podnositelja prijedloga na obrascu BON-1 izdanom od Financijske agencije, te o solventnosti na obrascu BON-2 ili na drugom odgovarajućem obrascu poslovne banke,
+3. dokaz sukladno članku 23. stavku 1. Zakona o rudarstvu, da je predloženi istražni prostor dokumentima prostornog uređenja planiran za izvođenje rudarskih radova,
+4. za istraživanje mineralnih sirovina iz članka 5. točke 2., 3., 4. i 5. Zakona o rudarstvu zemljovid iz članka 24. točke 8. Zakona o rudarstvu mora biti izrađen od ovlaštene osobe odgovarajuće struke po posebnom propisu,
+5. za istraživanje mineralnih sirovina iz članka 5. točke 2., 3., 4. i 5. Zakona o rudarstvu uz priložene zemljišnoknjižne izvatke izdane od nadležnog suda Podnositelj prijedloga dužan je priložiti i posjedovne listove za katastarske čestice unutar obuhvata predloženog istražnog prostora izdane od nadležnog tijela,
+6. dokaze sukladno članku 20. Zakona o rudarstvu.
+(2) Tijelo nadležno za rudarstvo rješenjem će odbaciti prijedlog za raspisivanje javnog nadmetanja za istraživanje mineralnih sirovina radi davanja koncesije za eksploataciju:
+1. ako Podnositelj prijedloga ne ispunjava uvjete određene Zakonom o rudarstvu, odnosno ako nije dostavio sve propisano i određeno odredbama Zakona o rudarstvu i odredbama ovoga Pravilnikom glede prijedloga za raspisivanje javnog nadmetanja,
+2. ako priloženi program ukupnih istražnih radova po vrsti i opsegu s troškovnikom te podrobni plan radova, koji će biti izvedeni u prvoj godini istraživanja nije u skladu sa Zakonom o rudarstvu i podzakonskim propisima kojima je uređeno prikupljanje podataka, način evidentiranja i utvrđivanja rezervi mineralnih sirovina,
+3. ako je drugom rudarskom gospodarskom subjektu već izdano važeće rješenje o odobrenju za istraživanje iste vrste mineralne sirovine ili već dana koncesija za eksploataciju iste vrste mineralne sirovine unutar predloženog istražnog prostora,
+4. ako je drugom rudarskom gospodarskom subjektu već izdano važeće rješenje o odobrenju za istraživanje druge vrste mineralne sirovine ili već dana koncesija za eksploataciju druge vrste mineralne sirovine unutar predloženog istražnog prostora, ako se rudarski radovi ne mogu istodobno i nesmetano obavljati.
