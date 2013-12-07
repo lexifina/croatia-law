@@ -1,0 +1,2 @@
+# Članak 9.
+U Odjelu za online komunikaciju obavljaju se poslovi informiranja javnosti o funkciji, ulozi i aktivnostima Vlade putem Vladinog internet portala i službenih računa Vlade na društvenim mrežama, poslovi koordinacije i nadzora provedbe projekta e-Građanin, posebno u stvaranju Središnjeg državnog portala, provedbe i koordinacije projekta »Your Europe«, poslove razvoja i oblikovanja multimedijalnih sadržaja (video materijali, slike i fotografije) za komunikaciju s javnosti.
