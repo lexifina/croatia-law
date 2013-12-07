@@ -1,0 +1,2 @@
+# Članak 11.
+Ministarstvo može rješenjem priznati u cijelosti ili djelomično pripravnički staž obavljen u inozemstvu hrvatskom državljaninu, državljaninu EGP-a i državljaninu treće države, koji su stekli stručnu kvalifikaciju doktora dentalne medicine u državi članici EGP-a ili u trećoj državi, ako plan i program obavljenog pripravničkog staža bitno ne odstupa od plana i programa koji je važeći na području Republike Hrvatske.

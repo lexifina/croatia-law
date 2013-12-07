@@ -1,0 +1,2 @@
+# Članak 6.
+Pripravnički staž doktor dentalne medicine može provoditi i kod doktora dentalne medicine sa završenim sveučilišnim diplomskim studijem koji obavlja privatnu praksu, koji ima važeće odobrenje za samostalan rad i najmanje pet godina radnog iskustva u struci te u vojno zdravstvenoj ustanovi i drugoj pravnoj osobi u kojoj se zdravstvena djelatnost obavlja u skladu sa Zakonom o zdravstvenoj zaštiti i posebnim zakonom, a koja ispunjava uvjete iz članka 5. ovoga Pravilnika.

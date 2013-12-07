@@ -1,0 +1,2 @@
+# Članak 26.
+Danom stupanja na snagu ovoga Pravilnika prestaju važiti odredbe Pravilnika o pripravničkom stažu zdravstvenih radnika (»Narodne novine«, broj 2/2011 i 14/2013) i Plana i programa pripravničkog staža, temeljnog staža i sekundarijata iz Pravilnika o pripravničkom stažu zdravstvenih djelatnika (»Narodne novine«, broj 18/1994, 20/1994, 21/1995, 47/1995, 62/1996, 39/1996, 130/1999 i 11/2003), u dijelu koji se odnosi na doktore dentalne medicine.
