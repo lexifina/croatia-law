@@ -1,0 +1,1 @@
+Na temelju članka 36. stavka 3. Zakona o vinu (»Narodne novine« br. 96/03 i 55/11) i članka 3. stavka 4. Zakona o zajedničkoj organizaciji tržišta poljoprivrednih proizvoda i posebnim mjerama i pravilima vezanim za tržište poljoprivrednih proizvoda (»Narodne novine« br. 82/13), ministar poljoprivrede donosi
