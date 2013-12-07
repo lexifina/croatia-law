@@ -1,0 +1,3 @@
+# Članak 14.
+(1) Obveznici obilježavanja brašna evidencijskim markicama sukladno propisima koji su važili do 20. 07. 2013., dužni su zaključno do 31. 12. 2013. dostaviti Ministarstvu popunjeni izvještaj za razdoblje 01. 01.-20. 07. 2013. godine, na obrascu evidencije o izdanim i iskorištenim evidencijskim markicama (obrazac A3) iz Pravilnika o obilježavanju brašna evidencijskim markicama (»Narodne novine« br. 90/2004., 124/2004., 135/2009. i 123/2012.).
+(2) Proizvođači brašna dužni su do zaključno 31. 01. svake godine, za prethodnu godinu dostaviti Ministarstvu popunjeni izvještaj o sveukupnoj proizvodnji brašna za razdoblje 1. 1. - 31. 12. prethodne godine, na obrascu evidencije proizvodnje brašna (Obrazac EPB) iz priloga ovoga Pravilnika.

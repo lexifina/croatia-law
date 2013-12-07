@@ -1,0 +1,5 @@
+# Članak 3.
+(1) »Uslužnom meljavom« smatra se pružanje usluge mljevenja i proizvodnje brašna po nalogu i za račun vlasnika pšenice, raži i kukuruza (u daljnjem tekstu: vlasnik žitarica).
+(2) »Zamjenskim poslom« smatra se kada vlasnik žitarica uskladišti svoju pšenicu, raž ili kukuruz kod proizvođača mlinskih proizvoda radi zamjene za određene količine brašna.
+(3) Proizvođač mlinskih proizvoda, pravna ili fizička osoba koja proizvodi brašno namijenjeno ljudskoj prehrani mljevenjem pšenice, raži i kukuruza ili koja prva stavlja brašno na tržište (u daljnjem tekstu: Proizvođač brašna) dužan je podatke o proizvodnji brašna iz stavka 1. i 2. ovoga članka, evidentirati pojedinačno po vlasnicima žitarica, te dati na uvid osobama ovlaštenim za provedbu službenih kontrola ili dostaviti na zahtjev Ministarstvu.
+(4) Međusobni odnosi proizvođača brašna i vlasnika žitarica u uslužnoj meljavi i zamjenskim poslovima reguliraju se cjenikom usluga proizvođača brašna objavljenim na oglasnoj ploči ili posebnim ugovorom.
