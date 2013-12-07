@@ -1,0 +1,1 @@
+Na temelju članka 37. stavka 6. Zakona o vinu (»Narodne novine« br. 96/03 i 55/11), ministar poljoprivrede, donosi
