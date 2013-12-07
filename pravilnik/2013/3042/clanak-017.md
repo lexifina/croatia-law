@@ -1,0 +1,2 @@
+# Članak 17.
+Nakon obavljenih radnji propisanih člankom 16. ovoga Pravilnika i donošenja rudarsko-geološke studije, Županija je dužna jedan primjerak rudarsko-geološke studije dostaviti ministarstvu nadležnom za rudarstvo, ministarstvu nadležnom za prostorno uređenje i ministarstvu nadležnom za zaštitu prirode i okoliša, u roku od 30 dana po njezinom donošenja u papirnatom obliku i digitalnom obliku.
