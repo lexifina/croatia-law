@@ -1,0 +1,4 @@
+# Članak 3.
+(1) Glavni projektant, odnosno projektant dijela glavnog projekta građenja rudarskih objekata i postrojenja dužan je na tehničkom pregledu dati mišljenje o usklađenosti izgrađenih rudarskih objekta i postrojenja ili njihovih dijelova, s glavnim projektom koji je sastavni dio građevinske dozvole.
+(2) Ako koji od sudionika u gradnji rudarskih objekata i postrojenja ne pristupi tehničkom pregledu, predsjednik povjerenstva može odgoditi obavljanje tehničkog pregleda ili odrediti provedbu onih radnji koje se po prirodi stvari mogu provoditi bez prisutnosti tog sudionika.
+(3) U slučaju iz stavka 2. ovoga članka, ako to priroda stvari dopušta, predsjednik povjerenstva može odlučiti da je za provedbu tehničkog pregleda, umjesto sudjelovanja određenog sudionika u gradnji, dostatno njegovo mišljenje ili drugo očitovanje u pisanom obliku.
