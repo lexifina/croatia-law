@@ -1,0 +1,1 @@
+Na temelju članka 17. stavka 2. Zakona o Fondu za zaštitu okoliša i energetsku učinkovitost (»Narodne novine« br. 107/2003 i 144/2012), ministar zaštite okoliša i prirode uz suglasnost ministra gospodarstva, donosi
