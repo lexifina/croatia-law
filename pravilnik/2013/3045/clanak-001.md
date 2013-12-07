@@ -1,0 +1,3 @@
+## I. OPĆE ODREDBE
+# Članak 1.
+Ovim Pravilnikom određuju se ustroj i način vođenja Jedinstvenog informacijskog sustava mineralnih sirovina, ustroj i način vođenja Bilance stanja rezervi mineralnih sirovina Republike Hrvatske, način vođenja evidencije o svim rudarskim gospodarskim subjektima, način vođenja evidencije o traženim istražnim prostorima i/ili eksploatacijskim poljima mineralnih sirovina, ustroj i način vođenja registra istražnih prostora mineralnih sirovina, ustroj i način vođenja registar utvrđenih eksploatacijskih polja mineralnih sirovina, ustroj i način vođenja zbirke isprave istražnih prostora i/ili eksploatacijskih polja mineralnih sirovina, ustroj i način vođenja popisa rudarskih gospodarskih subjekta.

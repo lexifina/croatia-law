@@ -1,0 +1,3 @@
+# Članak 9.
+(1) Ako se na cijeloj površini odobrenog istražnog prostora mineralnih sirovina utvrdi eksploatacijsko polje mineralnih sirovina, ta okolnost se navodi na zasebnom listu istražnog prostora mineralnih sirovina prije brisanja iz registra istražnih prostora mineralnih sirovina, uz naznačenje akta temeljem kojeg je utvrđeno eksploatacijsko polje mineralnih sirovina.
+(2) Ako se na dijelu površine odobrenog istražnog prostora mineralnih sirovina utvrdi eksploatacijsko polje mineralnih sirovina, ta okolnost se navodi na zasebnom listu istražnog prostora mineralnih sirovina, uz naznačenje akta temeljem kojeg je utvrđeno eksploatacijsko polje mineralnih sirovina.
