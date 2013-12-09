@@ -1,0 +1,1 @@
+Ustavni sud Republike Hrvatske, u sastavu Marko Babić, predsjedavajući sudac, te suci Mato Arlović, Slavica Banić, Mario Jelušić, Davor Krapac, Ivan Matija, Antun Palarić, Aldo Radolović, Duška Šarin i Miroslav Šeparović, rješavajući o zahtjevu za provođenje nadzora nad ustavnošću i zakonitošću državnog referenduma, na sjednici održanoj 9. prosinca 2013. donio je
