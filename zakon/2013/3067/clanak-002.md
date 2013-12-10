@@ -1,0 +1,37 @@
+# Članak 2.
+U članku 2. stavak 1. mijenja se i glasi:
+»Pojedini izrazi, u smislu ovoga Zakona, imaju sljedeće značenje:
+Stranac je državljanin treće zemlje koji nema hrvatsko državljanstvo i osoba bez državljanstva.
+Izbjeglica je stranac koji se ne nalazi u zemlji svog državljanstva te se zbog osnovanog straha od proganjanja zbog svoje rase, vjere, nacionalnosti, pripadnosti određenoj društvenoj skupini ili političkog mišljenja, ne može ili se zbog tog straha ne želi staviti pod zaštitu te zemlje, odnosno osoba bez državljanstva koja se nalazi izvan zemlje uobičajenog boravišta, a koja se ne može ili se zbog osnovanog straha ne želi vratiti u tu zemlju.
+Tražitelj azila je stranac koji podnese zahtjev za azil o kojemu nije donesena izvršna odluka.
+Azilant je izbjeglica koji ispunjava uvjete iz članka 4. ovoga Zakona.
+Stranac pod supsidijarnom zaštitom je državljanin treće zemlje ili osoba bez državljanstva kojoj je odobrena zaštita iz članka 7. ovoga Zakona.
+Stranac pod privremenom zaštitom je državljanin treće zemlje ili osoba bez državljanstva kojoj je odobrena zaštita iz članka 83. ovoga Zakona.
+Azil je zaštita kojom se ostvaruje ustavna odredba o pružanju utočišta izbjeglici u Republici Hrvatskoj, na temelju odluke nadležnog tijela o ispunjavanju uvjeta iz članka 4. ovoga Zakona.
+Supsidijarna zaštita je zaštita koja se odobrava strancu sukladno odredbi članka 7. ovoga Zakona, a koji ne ispunjava uvjete za odobrenje azila.
+Privremena zaštita je zaštita koja se odobrava strancu sukladno odredbi članka 83. ovoga Zakona.
+Namjera za podnošenje zahtjeva za azil je verbalno ili pisano izražena volja stranca pred tijelima i institucijama Republike Hrvatske za podnošenje zahtjeva za azil.
+Zahtjev za azil je zahtjev kojim stranac traži zaštitu u smislu članka 4. i članka 7. ovoga Zakona.
+Dublinski postupak je postupak kojim se provodi Uredba (EZ) br. 343/2003.
+Maloljetnik bez pratnje je stranac mlađi od 18 godina, koji je ušao u Republiku Hrvatsku bez pratnje odrasle osobe odgovorne za njega sukladno zakonu ili običaju, sve dok se ne stavi pod skrb takve osobe, a uključuje i maloljetnike koji su ostali bez pratnje nakon što su ušli u Republiku Hrvatsku.
+Članom obitelji, ako je ta obitelj već postojala u zemlji podrijetla tražitelja azila, azilanta, stranca pod supsidijarnom zaštitom i stranca pod privremenom zaštitom, smatra se:
+- bračni ili izvanbračni drug prema propisima Republike Hrvatske, kao i osobe koje su u trajnoj vezi koja se može dokazivati zajedničkim boravkom na istoj adresi u trajanju od najmanje 3 godine te ako je razvidna namjera daljnjeg zajedničkog života,
+- maloljetno zajedničko dijete bračnih i izvanbračnih drugova, njihovo maloljetno posvojeno dijete te maloljetno dijete svakog od njih, a koja nisu zasnovala vlastitu obitelj,
+- roditelj ili drugi zakonski zastupnik maloljetnog tražitelja azila, azilanta, stranca pod supsidijarnom zaštitom ili stranca pod privremenom zaštitom,
+- srodnik u ravnoj lozi, ako se utvrdi da je živio u zajedničkom kućanstvu s tražiteljem azila, azilantom, strancem pod supsidijarnom zaštitom ili strancem pod privremenom zaštitom.
+Ranjive skupine su poslovno nesposobne osobe, maloljetnici, starije i nemoćne osobe, teško bolesne osobe, osobe s invaliditetom, trudnice, samohrani roditelji s maloljetnom djecom, osobe s duševnim smetnjama te žrtve trgovanja ljudima, kao i žrtve mučenja, silovanja ili drugog psihičkog, fizičkog i seksualnog nasilja.
+Prebivalište je mjesto i adresa u Republici Hrvatskoj na kojoj se osoba trajno nastanila radi ostvarivanja svojih prava i obveza vezanih za životne interese kao što su obiteljski, profesionalni, ekonomski, socijalni, kulturni i drugi interesi.
+Boravište je mjesto i adresa u Republici Hrvatskoj gdje osoba privremeno boravi, ali se na toj adresi nije trajno nastanila.
+Prihvatilište za tražitelje azila (u daljnjem tekstu: Prihvatilište) je objekt koji služi kolektivnom smještaju tražitelja azila.
+Putna isprava za azilanta je putna isprava za izbjeglice propisana Konvencijom o statusu izbjeglica iz 1951. godine (u daljnjem tekstu: Konvencija iz 1951.).
+Zemlja podrijetla je zemlja čije državljanstvo ima stranac ili zemlja u kojoj je osoba bez državljanstva imala svoje ranije boravište. Ako stranac ima više od jednog državljanstva, zemlja podrijetla je svaka zemlja čije državljanstvo ima.
+Rasa posebno podrazumijeva boju kože, podrijetlo te pripadnost određenoj etničkoj skupini.
+Vjera posebno uključuje teistička, neteistička i ateistička uvjerenja, sudjelovanje ili nesudjelovanje u privatnim ili javnim formalnim vjerskim obredima, bilo samostalno ili u zajednici s drugima, druge vjerske obrede ili izražavanje vjere, ili oblike osobnog ili zajedničkog ponašanja koji se temelje na vjerskom uvjerenju ili iz njega proizlaze.
+Nacionalnost posebno podrazumijeva pripadnost grupi ljudi koja je određena po svom kulturnom, etničkom ili jezičnom identitetu, zajedničkom zemljopisnom ili političkom podrijetlu ili odnosom sa stanovništvom neke druge zemlje, a može obuhvatiti i državljanstvo.
+Političko mišljenje posebno uključuje mišljenje, stajalište ili uvjerenje o stvarima povezanim s potencijalnim vršiteljima proganjanja iz članka 10. ovoga Zakona te njihove politike ili metode, bez obzira je li tražitelj azila postupao po tom mišljenju, stajalištu ili uvjerenju.
+Određena društvena skupina posebno uključuje članove koji imaju zajedničke urođene osobine ili zajedničko podrijetlo koje se ne može izmijeniti, odnosno karakteristike ili uvjerenja, u toj mjeri značajna za njihov identitet ili svijest da se te osobe ne smije prisiliti da ih se odreknu, a ta skupina ima poseban identitet u konkretnoj zemlji jer ju društvo koje ju okružuje smatra različitom. Ovisno o okolnostima u zemlji podrijetla, određena društvena skupina može označavati i skupinu koja se temelji na zajedničkim karakteristikama spolne orijentacije. Spolnom orijentacijom ne mogu se smatrati djela koja se smatraju kaznenim djelima sukladno zakonodavstvu Republike Hrvatske. Značajke vezane za spol, uključujući rodni identitet, moraju se uzeti u obzir za potrebe određivanja pripadnosti određenoj društvenoj skupini ili utvrđivanja osobina takve skupine, ali one same za sebe ne predstavljaju presumpciju postojanja razloga za proganjanje u smislu članka 4. ovoga Zakona.
+Ozbiljna nepravda podrazumijeva prijetnju smrtnom kaznom ili smaknućem, mučenje, nečovječno ili ponižavajuće postupanje ili kažnjavanje te ozbiljnu i individualnu prijetnju životu civilnog stanovništva zbog proizvoljnog nasilja u situacijama međunarodnog ili unutarnjeg oružanog sukoba.
+Sigurna zemlja podrijetla je zemlja u kojoj je stranac boravio prije dolaska u Republiku Hrvatsku kao državljanin te zemlje ili osoba bez državljanstva s posljednjim uobičajenim boravištem u toj zemlji, ako na temelju pravnog stanja, primjene propisa unutar demokratskog sustava, kao i općenito političkih okolnosti proizlazi da u njoj u cijelosti i dosljedno ne postoje djela proganjanja iz članka 5. ovoga Zakona niti trpljenja ozbiljne nepravde u smislu podstavka 26. ovoga stavka.
+Sigurna treća zemlja je zemlja u kojoj je stranac boravio prije dolaska u Republiku Hrvatsku, pod uvjetom da je u njoj siguran od proganjanja iz razloga navedenih u članku 4. ovoga Zakona i od trpljenja ozbiljne nepravde, uključujući poštivanje načela iz članka 3. ovoga Zakona te je u njoj u mogućnosti dobiti azil.
+U stavku 3. riječ: »efikasnog« zamjenjuje se riječju: »učinkovitog«.
+U stavku 5. iza riječi: »Vlada« dodaju se riječi: »Republike Hrvatske«.

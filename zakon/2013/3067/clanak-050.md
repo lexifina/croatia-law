@@ -1,0 +1,2 @@
+# Članak 50.
+Na zahtjeve za azil podnesene do 19. siječnja 2014. primjenjuje se Uredba (EZ) br. 343/2003, a na zahtjeve za azil podnesene od 20. siječnja 2014. primjenjuje se Uredba Europskog parlamenta i Vijeća (EU) br. 604/2013 od 26. lipnja 2013. o uvođenju kriterija i mehanizama za utvrđivanje države članice odgovorne za ispitivanje zahtjeva za međunarodnu zaštitu podnesenog u jednoj od država članica od strane državljanina treće zemlje ili osobe bez državljanstva.
