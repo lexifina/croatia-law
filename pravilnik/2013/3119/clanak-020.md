@@ -1,0 +1,5 @@
+# Članak 20.
+(1) Fiksna udlaga odobrava se osiguranoj osobi u koje je parodontopatija napredovala, te je potrebna stabilizacija zuba, za fiksaciju čeljusti kod prijeloma u području čeljusti, kod izbijanja zubi iz čeljusti i za zaštitu zubi prilikom zračenja.
+(2) Nagrizna udlaga odobrava se u svrhu dijagnostike i liječenja bolesti stomatognatog sustava.
+(3) Akrilatna grizna ploča (palatinalna i mandibularna) odobrava se osiguranoj osobi nakon terapijskog postupka vestibuloplastike sa ciljem zadržavanja poslije operativnog stanja i kod terapije otvorenog sinusa.
+(4) Akrilatna grizna ploča u inicijalnoj protetskoj terapiji (maksilarna i mandibularna) odobrava se osiguranoj osobi u terapijskom postupku liječenja disfunkcija stomatognatog sustava (poremećaji okluzije, funkcije čeljusnog zgloba i žvačnih mišića) radi vraćanja normalnih među čeljusnih odnosa, uspostavljanja normalnih intrakapsularnih odnosa, terapiju boli i zvukova u zglobu, te vraćanja normalne funkcije žvačnih mišića bez ograničavanja pokreta.

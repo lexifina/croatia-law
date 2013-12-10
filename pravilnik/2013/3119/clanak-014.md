@@ -1,0 +1,3 @@
+# Članak 14.
+(1) Tiskanica potvrde o pomagalu/napravi iz članka 8. ovoga Pravilnika vrijedi 30 dana od dana propisivanja, odnosno 30 dana od dana odobrenja ovlaštenog radnika Zavoda, te je u tom roku osigurana osoba obvezna naručiti propisano dentalno pomagalo/ortodontsku napravu kod ugovornog doktora dentalne medicine.
+(2) Ako osigurana osoba ne naruči pomagalo/napravu u propisanom roku ili potvrdu o pomagalu/napravi ne može iskoristiti iz bilo kojeg drugog razloga (gubitak potvrde, neupotrebljivost potvrde zbog oštećenja ili nečitljivosti podataka i slično), obvezna je ponoviti postupak propisivanja.

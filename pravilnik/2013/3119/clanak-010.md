@@ -1,0 +1,6 @@
+# Članak 10.
+(1) Osigurana osoba obvezna je sudjelovati u dijelu troškova dentalnog pomagala, u visini 20% pune cijene pomagala u skladu s člankom 19. stavkom 3. Zakona o obveznom zdravstvenom osiguranju.
+(2) Propisani postotak sudjelovanja iz stavka 1. ovoga članka za dentalna pomagala iz članka 15. ovog Pravilnika utvrđuje se na ukupnu cijenu pomagala ostvarenih na osnovi jedne tiskanice potvrde o pomagalu iz članka 8. ovoga Pravilnika.
+(3) Iznimno, osigurane osobe - djeca do navršene 18. godine života i osigurane osobe - djeca iz članka 12. stavka 2. i 3. Zakona o obveznom zdravstvenom osiguranju, osigurane osobe iz članka 15. Zakona o obveznom zdravstvenom osiguranju, te osigurane osobe kojima se pomagalo propisuje u vezi liječenja zbog priznate ozljede na radu odnosno profesionalne bolest, nisu obvezne sudjelovati u dijelu troškova pomagala iz stavka 1. ovog članka.
+(4) Iznos sudjelovanja osigurane osobe utvrđen u skladu sa stavkom 2. ovog članka ne smije za dentalna pomagala osiguranih osoba od 18. do 65. godina starosti iznositi manje od 30,07 % proračunske osnovice, odnosno osiguranih osoba starijih od 65 godina manje od 15,03 % proračunske osnovice.
+(5) Ako bi iznos ukupne cijene pomagala po jednoj tiskanici potvrde o pomagalu iznosio manje od iznosa utvrđenog stavkom 4. ovoga članka osigurana osoba je obvezna platiti ukupnu cijenu pomagala.

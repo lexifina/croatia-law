@@ -1,0 +1,5 @@
+# Članak 13.
+(1) Osiguranoj osobi odobrava se popravak dentalnog pomagala, nakon isteka jamstvenog roka, a unutar roka uporabe dentalnog pomagala utvrđenog u Popisu dentalnih pomagala, jednom tijekom godine dana na teret sredstava Zavoda.
+(2) Osiguranoj osobi odobrava se popravak ortodontske naprave, nakon isteka jamstvenog roka, jednom tijekom godine dana na teret sredstava Zavoda.
+(3) Ako je popravak proveden u skladu sa stavkom 1. ovog članka, a nakon isteka propisanog roka uporabe dentalno-protetskog pomagala, osigurana osoba ima pravo na izradu novoga, istovrsnog dentalno-protetskog pomagala na teret sredstava Zavoda tek nakon isteka 6 mjeseci od dana izvršenog popravka.
+(4) Troškove popravka dentalnog pomagala/ortodontske naprave koje unutar jamstvenog roka nije bilo uporabivo ili čije je oštećenje nastalo unutar tog roka, a koje nije posljedica namjernog oštećenja ili nepažnje osigurane osobe, snosi ugovorna zdravstvena ustanova ili ugovorni doktor dentalne medicine privatne prakse koji su osiguranoj osobi izradili rečeno pomagalo/napravu.

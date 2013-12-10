@@ -1,0 +1,3 @@
+OBRASCI
+** u slučaju kada se zbog ubrzanog rasta i razvoja čeljusti ne može prilagoditi postojeća mobilna ortodontska naprava osigurana osoba pod uvjetom da se terapija provodi isključivo mobilnim ortodontskim napravama može ostvariti pravo na dodatne istovjetne (dvije monomaksilarne ili jednu bimaksilarnu) mobilne ortodontske naprave u skladu s općim aktom Zavoda
+| 146 09.12.2013 Pravilnik o dentalnoj zdravstvenoj zaštiti iz obveznog zdravstvenog osiguranja 146 09.12.2013 Pravilnik o dentalnoj zdravstvenoj zaštiti iz obveznog zdravstvenog osiguranja 146 09.12.2013 Pravilnik o dentalnoj zdravstvenoj zaštiti iz obveznog zdravstvenog osiguranja 146 09.12.2013 Pravilnik o dentalnoj zdravstvenoj zaštiti iz obveznog zdravstvenog osiguranja
