@@ -1,0 +1,3 @@
+# Članak 24.
+(1) Iznimno od članka 23. stavka 2. ovoga Zakona, obrtnik koji u izdvojenom pogonu na području određenom Zakonom o područjima posebne državne skrbi, Zakonom o brdsko-planinskim područjima i Zakonom o otocima obavlja vezane obrte za koje je propisan majstorski ispit, ako izdvojeni pogon prvi put prijavljuje mjesno nadležnom uredu državne uprave u županiji, mora imenovati stručnog poslovođu koji osim uvjeta iz članka 8. stavka 1. točke 1. i članka 9. stavka 2. ovoga Zakona ima odgovarajuće srednje strukovno obrazovanje.
+(2) Stručni poslovođa iz stavka 1. ovoga članka dužan je u roku od tri godine od dana upisa izdvojenog pogona u Obrtni registar položiti majstorski ispit za odgovarajuće zanimanje.

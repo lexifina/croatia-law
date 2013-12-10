@@ -1,0 +1,8 @@
+# Članak 65.
+(1) Majstorskom ispitu mogu pristupiti osobe koje nakon položenog pomoćničkog ispita imaju najmanje dvije godine radnog iskustva u zanimanju za koje žele polagati majstorski ispit.
+(2) Majstorskom ispitu mogu pristupiti i osobe koje nakon završetka neodgovarajućeg srednje strukovnog obrazovanja, opće srednjoškolskog obrazovanja ili obrazovanja u umjetničkim srednjim školama, imaju najmanje tri godine radnog iskustva u zanimanju za koje žele polagati majstorski ispit.
+(3) Majstorskom ispitu mogu pristupiti i osobe s položenim pomoćničkim ispitom u odgovarajućem zanimanju i završenim obrazovanjem u majstorskoj školi u trajanju od godine dana.
+(4) Majstorskom ispitu mogu pristupiti i osobe koje su stekle odgovarajuću srednju stručnu spremu do školske godine 1999./2000., ako na dan pristupanja ispitu imaju najmanje dvije godine radnog iskustva u zanimanju za koje žele polagati majstorski ispit.
+(5) Majstorskom ispitu mogu pristupiti i osobe s neodgovarajućim srednje strukovnim ili općim srednje školskim obrazovanjem te obrazovanjem u umjetničkim srednjim školama ako na dan pristupanja ispitu imaju najmanje godinu dana radnog iskustva u zanimanju za koje žele polagati majstorski ispit i završeno obrazovanje u majstorskoj školi u trajanju od godine dana.
+(6) Radno iskustvo u određenom zanimanju je iskustvo koje osoba stječe unutar radnog odnosa, tijekom stručnog osposobljavanja za rad bez zasnivanja radnog odnosa, radom u svojstvu volontera ili drugim oblikom rada u skladu sa zakonom.
+(7) Radno iskustvo iz stavka 6. ovoga članka dokazuje se javnim ispravama te ugovorom o radu, odgovarajućim potvrdama, preporukama i izjavama svjedoka o radu na određenim poslovima.

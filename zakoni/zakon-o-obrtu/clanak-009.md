@@ -1,0 +1,6 @@
+# Članak 9.
+(1) Fizička osoba može obavljati vezani obrt ako uz opće uvjete iz članka 8. ovoga Zakona ispunjava i poseban uvjet stručne osposobljenosti, odgovarajućeg srednjeg strukovnog obrazovanja ili položenoga majstorskog ispita.
+(2) Fizička osoba može obavljati djelatnost ako udovoljava i posebnim zdravstvenim uvjetima, ako je to propisano zakonom.
+(3) Fizička osoba koja ispunjava opće uvjete iz članka 8. stavka 1. ovoga Zakona, a ne ispunjava poseban uvjet stručne osposobljenosti, odgovarajućeg srednje strukovnog obrazovanja ili položenoga majstorskog ispita iz stavka 1. ovog članka i poseban uvjet iz stavka 2. ovog članka, može obavljati vezani obrt ako na tim poslovima zaposli radnika, u punom radnom vremenu, koji udovoljava ovim uvjetima.
+(4) Iznimno od stavaka 1., 2. i 3. ovoga članka, fizička osoba koja ima registrirani obrt na teritoriju države članice Europske unije ili države ugovornice Ugovora o europskom gospodarskom prostoru može u Republici Hrvatskoj obavljati vezani obrt sukladno odredbama ovoga Zakona.
+(5) Fizička osoba koja ima registrirani obrt na teritoriju države članice Europske unije ili države ugovornice Ugovora o europskom gospodarskom prostoru može obavljati uslužnu djelatnost u Republici Hrvatskoj na privremenoj ili povremenoj osnovi sukladno odredbama Zakona o uslugama.

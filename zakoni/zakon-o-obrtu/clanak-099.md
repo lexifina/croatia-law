@@ -1,0 +1,2 @@
+# Članak 99.
+Danom stupanja na snagu ovoga Zakona prestaje važiti Pravilnik o obliku i načinu vođenja odobrenja za obavljanje domaće radinosti ili sporednog zanimanja s listama proizvoda i usluga (»Narodne novine«, br. 100/07., 132/08., 93/09., 7/11. i 82/11.) Pravilnik o obliku i sadržaju svjedodžbe o pomoćničkom zvanju (»Narodne novine«, br. 52/02.) i Pravilnik o postupku i načinu polaganja pomoćničkog ispita (»Narodne novine«, br. 116/02.).

@@ -1,0 +1,8 @@
+# Članak 92.
+(1) Nadležni inspektor rješenjem će privremeno zabraniti obrtniku, odnosno pravnoj osobi koja obavlja obrt, obavljanje obrta i uporabu uređaja i opreme, dok ne ukloni utvrđene nedostatke, odnosno nepravilnosti, ako u provedbi inspekcijskog nadzora utvrdi da:
+– obrt obavlja suprotno obrtnici ili povlastici (članak 27.), odnosno suprotno rješenju iz članka 41. stavka 5. ovoga Zakona
+– obrt obavlja za vrijeme privremene obustave obavljanja obrta (članak 31. stavak 4.)
+– obrt obavlja u sjedištu ili izdvojenom pogonu bez rješenja mjesno nadležnog ureda državne uprave u županiji, odnosno nadležnog ureda Grada Zagreba (članak 25. stavak 2.), odnosno ako je u rješenju navedeno ime poslovođe koji više nije u radnom odnosu kod obrtnika (članak 28. stavak 1.).
+(2) Nadležni inspektor iz stavka 1. ovoga Zakona rješenjem će privremeno zabraniti fizičkoj osobi koja obavlja domaću radinost ili sporedno zanimanje obavljanje te djelatnosti i uporabu uređaja i opreme do otklanjanja utvrđenih nedostataka, odnosno nepravilnosti ako u inspekcijskom nadzoru utvrdi da tu djelatnost obavlja suprotno izdanom odobrenju.
+(3) Mjera privremene zabrane obavljanja obrta iz stavka 1. ovoga članka i mjera privremene zabrane obavljanja domaće radinosti ili sporednog zanimanja iz stavka 2. ovoga članka donosi se samo za onaj dio djelatnosti za koji je utvrđen nedostatak, odnosno nepravilnost.
+(4) Žalba izjavljena protiv rješenja o privremenoj zabrani obavljanja obrta iz stavka 1. ovoga članka i o privremenoj zabrani obavljanja domaće radinosti ili sporednog zanimanja iz stavka 2. ovoga članka ne odgađa izvršenje rješenja.

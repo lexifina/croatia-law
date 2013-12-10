@@ -1,0 +1,7 @@
+# Članak 41.
+(1) Pravna osoba iz članka 2. stavka 2. ovoga Zakona mora zaposliti najmanje jednog radnika koji ispunjava uvjete iz članka 8. stavka 1. točke 1. i članka 9. stavaka 1. i 2. ovoga Zakona.
+(2) Pravna osoba iz stavka 1. ovoga članka, ako obrt obavlja na područjima određenim Zakonom o područjima posebne državne skrbi, Zakonom o brdsko-planinskim područjima i Zakonom o otocima, mora zaposliti najmanje jednog radnika koji ispunjava uvjete iz članka 8. stavka 1. točke 1. i članka 9. stavka 2. ovoga Zakona i ima završeno odgovarajuće srednje strukovno obrazovanje.
+(3) Mjesno nadležni ured državne uprave u županiji, odnosno nadležni ured Grada Zagreba na čijem području se nalazi poslovni prostor u kojem pravna osoba obavlja vezani obrt sukladno odredbama ovog Zakona, vodi evidenciju o pravnim osobama i radnicima iz stavka 1. ovoga članka.
+(4) Radnik iz stavka 2. ovoga članka dužan je u roku od dvije godine od dana upisa u evidenciju o pravnim osobama i radnicima iz stavka 3. ovoga članka položiti majstorski ispit za odgovarajuće zanimanje.
+(5) Pravna osoba iz članka 2. stavka 2. ovoga Zakona može početi obavljati obrte nakon izvršnosti rješenja mjesno nadležnog ureda državne uprave u županiji, odnosno nadležnog ureda Grada Zagreba o udovoljavanju svim uvjetima iz stavaka 1. i 2. ovoga članka.
+(6) Nadležno ministarstvo donosi rješenje o davanju povlastice, odnosno dozvole pravnoj osobi iz stavka 1. ovoga članka kada obavlja obrt iz članka 6. stavka 1. točke 3. ovoga Zakona.
