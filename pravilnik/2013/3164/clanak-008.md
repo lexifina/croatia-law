@@ -1,0 +1,14 @@
+## Izvedenice
+# Članak 8.
+(1) Ulaganja u financijske izvedenice vrednuju se po javno dostupnoj dnevnoj cijeni obračuna (final settlement price) na uređenim tržištima ili službenim financijsko-informacijskim servisima.
+(2) Iznimno, financijske izvedenice za koje na tržištu nije dostupna cijena iz stavka 1. ovoga članka vrednuju se po fer vrijednosti za dan vrednovanja na način da se zadnja cijena ponude na kupnju, koja je dostupna na službenom financijsko-informacijskom servisu, primjenjuje za na taj način zauzete duge pozicije, dok se službeno dostupna cijena zadnje ponude za prodaju primjenjuje za na taj način zauzete kratke pozicije.
+(3) Ulaganje u devizne terminske transakcije dnevno se vrednuju po fer vrijednosti primjenom jedinstvene međubankarske referentne kamatne stope (close-out metoda) za određenu valutu (Zibor, Zibid, Euribor, Eurbid, Libor, Libid i sl.) koja je dostupna na službenom financijsko-informacijskom servisu te se pritom kao referentni tečaj uzima srednji tečaj Hrvatske narodne banke.
+(4) UAIF je dužan u računovodstvenim politikama AIF-a propisati vrednovanje neuvrštenih (OTC) izvedenica, ako je pravilima AIF-a i prospektom kada je to primjenjivo predviđeno kako može ulagati u neuvrštene (OTC) izvedenice.
+(5) Prilikom procjene vrijednosti neuvrštenih (OTC) izvedenica UAIF je dužan osigurati i odgovarajućom dokumentacijom potvrditi da se prilikom vrednovanja neuvrštenih (OTC) izvedenica AIF-a koriste fer vrijednosti koje se ne temelje isključivo na tržišnim cijenama koje kotira druga ugovorna strana u transakcijama na neformalnom tržištu i koje ispunjavaju sljedeće uvjete:
+a) osnova za fer vrijednost je relevantna tržišna vrijednost preuzeta od odgovarajućeg izvora ili ako takva vrijednost nije dostupna, vrijednost izračunata odgovarajućom metodom procjene vrijednosti,
+b) potvrda vrednovanja provedena je od:
+- treće strane neovisne od druge ugovorne strane neuvrštene (OTC) izvedenice, redovito i na takav način da AIF istu može provjeriti ili
+- primjerene organizacijske jedinice unutar UAIF-a neovisne od djelatnosti upravljanja imovinom AIF-a.
+(6) UAIF je dužan, u smislu stavka 5. ovoga članka te uzimajući u obzir vrstu i složenost neuvrštenih OTC izvedenica uspostaviti, provoditi, redovito ažurirati i primjereno dokumentirati mjere i postupke koji osiguravaju primjereno, transparentno i fer vrednovanje ulaganja AIF-a u neuvrštene (OTC) izvedenice.
+(7) Iznimno od stavaka 1., 2. i 3. ovog članka, UAIF može izvedenice iz portfelja AIF-a, koje su definirane kao instrument zaštite, vrednovati primjenom odredbi Međunarodnog računovodstvenog standarda 39 - Financijski instrumenti: priznavanje i mjerenje (dalje: MRS 39) u dijelu koji se odnosi na računovodstvo zaštite.
+(8) Ako UAIF primjenjuje računovodstvo zaštite iz stavka 7. ovoga članka dužno je u pisanom obliku sastaviti interni akt o definiranju instrumenata zaštite i zaštićenih stavaka, kao i dokaze o udovoljavanju uvjetima iz MRS-a 39.
