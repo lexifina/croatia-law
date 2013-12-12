@@ -1,0 +1,1 @@
+155 20.12.2013 Odluka o izmjeni i dopuni Odluke o izmjeni odluka o koncesiji pomorskog dobra u svrhu gospodarskog korištenja luka posebne namjene - luka nautičkog turizma Pula, Rab, Šimuni, Žut, Skradin, Trogir, Milna, Vrboska, Palmižana i Korčula
