@@ -1,0 +1,1 @@
+Na temelju članka 9. stavka 2. Zakona o pravnom položaju vjerskih zajednica (»Narodne novine«, br. 83/2002 i 73/2013), te članka 26. i članka 27. stavaka 2. i 3. Zakona o Vladi Republike Hrvatske (»Narodne novine«, broj 150/2011), Vlada Republike Hrvatske je na sjednici održanoj 5. prosinca 2013. godine donijela
