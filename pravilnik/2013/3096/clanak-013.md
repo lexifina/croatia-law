@@ -1,0 +1,4 @@
+# Članak 13.
+(1) Obrasci za dostavu podataka o cijenama i količinama moraju biti ispunjeni u skladu s uputama koje se nalaze na internetskoj stranici http://www.tisup.mps.hr/Download.aspx?path=obrasci/Uputa za WEB.pdf i http://www.tisup.mps.hr/Download.aspx?path=obrasci/Upute za EXCEL-SVE Grupe Proizvoda.doc.
+(2) Obveznik koji je dostavio podatke jamči da je upoznat s odredbama Zakona o zajedničkoj organizaciji tržišta poljoprivrednih proizvoda i posebnim mjerama i pravilima vezanim uz tržište poljoprivrednih proizvoda (»Narodne novine« 82/2013) i ovoga Pravilnika te da je dostavio istinite podatke sukladno propisanim uputama.
+(3) Računalni ispis obrazaca dostavljenih elektroničkim putem potpisan od strane odgovorne osobe, presliku obrazaca dostavljenih telefaksom ili poštom i prateću dokumentaciju obveznik je dužan čuvati tri (3) godine računajući od 1. siječnja one godine u kojoj je dostavio prve podatke.
