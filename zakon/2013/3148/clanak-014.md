@@ -1,0 +1,5 @@
+# Članak 14.
+U članku 116. stavak 1. mijenja se i glasi:
+»(1) Ako sudac istrage za mladež, odnosno predsjednik vijeća za mladež utvrdi da je radi zaštite prava i interesa djeteta oštećenika ili djeteta žrtve kaznenog djela potrebno postaviti mu opunomoćenika, podnijet će prijedlog predsjedniku suda koji će opunomoćenika postaviti iz reda odvjetnika koji moraju imati izraženu sklonost za odgoj, potrebe i probitke mladeži te vladati osnovnim znanjima s područja kriminologije, socijalne pedagogije, psihologije mladih i socijalnog rada za mlade osobe. Imenovanog odvjetnika ne može zamijeniti odvjetnički vježbenik.«.
+Stavak 3. mijenja se i glasi:
+»(3) Djetetu žrtvi kaznenog djela bit će u postupku osigurana pomoć i podrška koju će pružiti stručni suradnik županijskog, odnosno općinskog suda u sjedištu županijskog suda. Iznimno, pomoć i podršku djetetu žrtvi kaznenog djela može pružiti i druga stručna osoba na teret proračunskih sredstava ako županijski, odnosno općinski sud u sjedištu županijskog suda nema stručnog suradnika.«.
