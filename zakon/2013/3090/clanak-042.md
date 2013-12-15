@@ -1,0 +1,6 @@
+# Članak 42.
+Članak 86. mijenja se i glasi:
+»(1) Sudac istrage će do završetka istrage, odnosno predsjednik optužnog vijeća nakon primitka optužnice na potvrđivanje, a prije njezina ispitivanja (članak 344. stavak 4.) na prijedlog stranaka ili po službenoj dužnosti rješenjem odlučiti o izdvajanju nezakonitog dokaza iz spisa. Sudac istrage je dužan odlučiti o izdvajanju nezakonitog dokaza odmah, a najkasnije u roku od tri dana od saznanja. Protiv rješenja kojim je odlučeno o prijedlogu stranaka ili o izdvajanju dopuštena je posebna žalba. O žalbi odlučuje viši sud.
+(2) Nakon pravomoćnosti rješenja izdvojeni se dokazi zatvaraju u poseban omot i čuvaju kod suca istrage odvojeno od ostalih spisa i ne mogu se razgledati niti se njima može služiti u postupku.
+(3) Državni odvjetnik uz optužnicu za kaznena djela za koja je propisana kazna zatvora teža od pet godina ne dostavlja obavijesti koje su u skladu s člankom 208. ovog Zakona dali građani, zapisnike iz članka 206.g stavka 4. ovog Zakona te izjave iz članka 205. stavka 6. ovog Zakona.
+(4) Ako je državni odvjetnik dostavio obavijesti i zapisnike protivno stavku 3. ovog članka, predsjednik optužnog vijeća dužan ih je izdvojiti nakon primitka optužnice te vratiti državnom odvjetniku.«.

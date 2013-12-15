@@ -1,0 +1,6 @@
+# Članak 115.
+Članak 229. mijenja se i glasi:
+»(1) Državni odvjetnik dužan je završiti istragu u roku od šest mjeseci. Ako se istraga ne završi u roku od šest mjeseci, državni odvjetnik je dužan izvijestiti višeg državnog odvjetnika o razlozima zbog kojih istraga nije završena.
+(2) Viši državni odvjetnik dužan je poduzeti mjere da se istraga završi. U složenim predmetima viši državni odvjetnik može na obrazloženi prijedlog državnog odvjetnika rok iz stavka 1. ovog članka produljiti za najviše šest mjeseci. U posebno složenim i teškim predmetima, Glavni državni odvjetnik može na obrazloženi prijedlog državnog odvjetnika rok završetka istrage iz stavka 1. ovog članka produljiti za najviše dvanaest mjeseci.
+(3) Okrivljenik i oštećenik mogu se tijekom istrage obratiti pritužbom višem državnom odvjetniku zbog odugovlačenja postupka i drugih nepravilnosti u tijeku istrage. Okrivljenik se može obratiti pritužbom višem državnom odvjetniku i ako u slučaju iz članka 216. stavka 4. ovog zakona državni odvjetnik nije donio rješenje o provođenju istrage niti podigao optužnicu iz članka 341. stavka 3. ovog Zakona.
+(4) Viši državni odvjetnik ispitat će navode u pritužbi, a ako je podnositelj zahtijevao, obavijestit će ga o tome što je poduzeto.«.

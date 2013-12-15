@@ -1,0 +1,41 @@
+# Članak 81.
+Iza članka 188. dodaju se članci 188.a, 188.b, 188.c, 188.d, 188.e, 188.f i 188.g koji glase:
+»Članak 188.a
+(1) Osobni podaci prikupljeni za potrebe kaznenog postupka mogu se sukladno odredbama ovog Zakona i posebnih propisa kojima se uređuje zaštita osobnih podataka dostaviti ili staviti na raspolaganje nadležnim tijelima država članica Europske unije.
+(2) Pod uvjetima propisanim ovim Zakonom i posebnim propisima kojima se uređuje zaštita osobnih podataka osobni podaci iz stavka 1. ovog članka mogu se dostaviti ili staviti na raspolaganje drugim državama i međunarodnim tijelima.
+(3) Svaki prijenos osobnih podataka se evidentira u svrhu provjeravanja zakonitosti obrade podataka, unutarnjeg nadzora i osiguravanja nepovredivosti i sigurnosti podataka.
+(4) Evidencija iz stavka 3. ovog članka dostavit će se nadzornom tijelu nadležnom za kontrolu zaštite podataka, na njegov zahtjev.
+Članak 188.b
+(1) Nadležna tijela dužna su poduzeti mjere kojima se osigurava da se osobni podaci koji nisu točni, potpuni ili ažurni ne prenose niti stavljaju na raspolaganje državama članicama. U tu svrhu, prije prijenosa ili stavljanja na raspolaganje osobnih podataka, u mjeri u kojoj je to moguće, provjerit će kvalitetu tih podataka. Ako je to moguće, prilikom prijenosa, osobnim će se podacima pridodati i dostupne informacije koje državi članici koja te podatke prima omogućuju ocjenu stupnja njihove točnosti, potpunosti, ažurnosti i pouzdanosti. Ako su osobni podaci preneseni bez zahtjeva za njihov prijenos, tijelo koje je te osobne podatke primilo bez odgode će provjeriti jesu li podaci potrebni u svrhu u koju su preneseni.
+(2) Ako se naknadno utvrdi da su osobni podaci koji su preneseni odnosno stavljeni na raspolaganje državama članicama netočni ili da su preneseni protivno odredbama ovog Zakona ili posebnih propisa, nadležno tijelo o tome će bez odgode obavijestiti primatelja, a takve će podatke bez odgode ispraviti ili izbrisati.
+Članak 188.c
+(1) Nadležno tijelo prilikom prijenosa osobnih podataka sukladno članku 188.a stavku 1. ovog Zakona može navesti rokove za čuvanje prenesenih podataka, nakon čijeg isteka ih je primatelj dužan izbrisati ili onemogućiti pristup tim podacima, odnosno provjeriti da li i dalje postoji potreba za njihovim korištenjem. Iznimno, ova se obveza ne primjenjuje ako su dostavljeni podaci u trenutku isteka naznačenih rokova čuvanja potrebni za progon kaznenih djela ili izvršavanje kaznenopravnih sankcija.
+(2) Ako nadležno tijelo prilikom prijenosa osobnih podataka nije navelo rok za čuvanje podataka sukladno odredbi stavka 1. ovog članka, primjenit će se rokovi čuvanja propisani odredbama nacionalnog prava države članice koja je osobne podatke primila.
+Članak 188.d
+(1) Nadležna tijela mogu osobne podatke primljene ili dobivene na raspolaganje od nadležnih tijela država članica Europske unije obrađivati samo kada je to ovim Zakonom ili posebnim propisima kojima se uređuje zaštita osobnih podataka određeno i samo u svrhu zbog koje su podaci prikupljeni.
+(2) Daljnja obrada osobnih podataka iz stavka 1. ovog članka, uz uvjete propisane člankom 186. stavkom 2. ovog Zakona, dopuštena je samo ako je potrebna u sljedeće svrhe:
+1) radi sprečavanja, otkrivanja ili progona kaznenih djela ili izvršavanja kaznenopravnih sankcija,
+2) za sudske i druge postupke koji su izravno povezani sa sprečavanjem, otkrivanjem ili progonom kaznenih djela ili izvršavanjem kaznenopravnih sankcija,
+3) radi sprečavanja neposredne i ozbiljne prijetnje javnoj sigurnosti, ili
+4) u bilo koju drugu svrhu, ali samo uz prethodno odobrenje države članice koja ih prenosi ili uz pristanak osobe čiji se podaci obrađuju.
+(3) Nadležna tijela mogu osobne podatke iz stavka 1. ovog članka obrađivati i u povijesne, statističke ili znanstvene svrhe, pod uvjetom da osiguraju primjerene mjere zaštite tih podataka.
+(4) Nadležno tijelo države članice koje je zaprimilo osobne podatke obavijestit će o njihovoj obradi tijelo koje mu je te podatke prenijelo, na zahtjev tog tijela.
+Članak 188.e
+Ako su za razmjenu osobnih podataka između nadležnih tijela unutar države članice propisana posebna ograničenja obrade tih podataka, nadležno tijelo će o tim ograničenjima obavijestiti nadležno tijelo druge države članice kojem prenosi takve osobne podatke. Nadležno tijelo države članice koje je zaprimilo osobne podatke dužno je osigurati da se prilikom obrade dostavljenih podataka poštuju ograničenja obrade koja se na te podatke odnose.
+Članak 188.f
+(1) Osobni podaci koje su prenijela ili stavila na raspolaganje nadležna tijela druge države članice mogu se prenositi državama koje nisu članice Europske unije ili međunarodnim tijelima samo ako:
+1) je to potrebno za sprečavanje, otkrivanje ili progon kaznenih djela ili izvršavanje kaznenopravnih sankcija,
+2) je tijelo koje je primatelj osobnih podataka u trećoj zemlji ili međunarodno tijelo koje je primatelj osobnih podataka odgovorno za sprečavanje, otkrivanje ili progon kaznenih djela ili izvršavanje kaznenopravnih sankcija,
+3) je država članica iz koje su podaci dobiveni dala odobrenje za prijenos osobnih podataka u skladu sa svojim nacionalnim pravom i
+4) ako država koja nije članica Europske unije ili međunarodno tijelo osiguravaju odgovarajuću razinu zaštite za namjeravanu obradu podataka.
+(2) Iznimno, ako država članica iz koje su osobni podaci dobiveni nije dala odobrenje za njihov prijenos (stavak 1. točka 3) ovog članka), podaci iz stavka 1. ovog članka mogu se prenijeti državama koje nisu članice Europske unije ili međunarodnim tijelima samo ako je njihovo prenošenje nužno za sprečavanje neposredne i ozbiljne prijetnje javnoj sigurnosti države članice ili države koja nije članica Europske unije, ili bitnim interesima države članice, pod uvjetom da se prethodno odobrenje nije moglo pribaviti na vrijeme. O prijenosu bez prethodnog odobrenja odmah će se obavijestiti nadležno tijelo države članice iz koje su podaci dobiveni.
+(3) Iznimno, osobni podaci iz stavka 1. ovog članka mogu se prenositi državama koje nisu članice Europske unije ili međunarodnim tijelima koje ne osiguravaju odgovarajuću razinu zaštite za namjeravanu obradu podataka (stavak 1. točka 4) ovog članka), ako pravo države članice koja prenosi podatke to predvidi zbog zakonitih posebnih interesa osobe čiji se podaci obrađuju ili zakonitih prevladavajućih interesa, a posebice važnih javnih interesa, ili ako država ili međunarodno tijelo koje prima podatke osigura zaštitu koja se prema pravu države članice iz koje podaci potječu smatra odgovarajućom.
+(4) Odgovarajuća razina zaštite u smislu stavka 1. točke 4) ovog članka ocjenjuje se uzimajući u obzir sve okolnosti povezane s postupcima prenošenja osobnih podataka. Pri ocjeni će se osobito imati u vidu vrsta podataka, svrha i trajanje obrade, država podrijetla i država ili međunarodno tijelo koje je krajnje odredište podataka, pravni propisi, kako opći tako i posebni, koji su na snazi u državi ili međunarodnom tijelu koje je primatelj podataka, te važeća pravila struke i mjere sigurnosti.
+(5) Primatelj osobnih podataka iz stavka 1. ovog članka o njihovoj će obradi, na zahtjev tijela koje mu je osobne podatke prenijelo, obavijestiti to tijelo.
+Članak 188.g
+(1) Osobni podaci koje su prenijela ili stavila na raspolaganje nadležna tijela druge države članice mogu se prenositi privatnim osobama samo ako:
+1) je nadležno tijelo države članice od koje su podaci dobiveni odobrilo to prenošenje u skladu sa svojim nacionalnim pravom,
+2) ne postoje zakoniti posebni interesi osobe čiji se podaci obrađuju koji bi sprečavali prenošenje, i
+3) je prijenos nužan radi obavljanja zadataka koji su nadležnom tijelu dodijeljeni zakonom, ili radi sprečavanja, otkrivanja ili progona kaznenih djela ili izvršavanja kaznenopravnih sankcija, sprečavanja neposredne i ozbiljne prijetnje javnoj sigurnosti ili sprečavanja ozbiljne štete pravima pojedinaca.
+(2) Nadležno tijelo koje prenosi podatke dužno je privatnu osobu kojoj te podatke prenosi upozoriti u koju se svrhu dostavljeni podaci mogu koristiti.
+(3) Primatelj osobnih podataka iz stavka 1. ovog članka o njihovoj će obradi, na zahtjev tijela koje mu je osobne podatke prenijelo, obavijestiti to tijelo.«.

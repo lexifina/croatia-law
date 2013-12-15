@@ -1,0 +1,4 @@
+# Članak 216.
+U članku 475. stavci 2. i 3. mijenjaju se i glase:
+»(2) O sjednici vijeća izvijestit će se stranke ako je neka od stranaka u roku predviđenom za žalbu ili u odgovoru na žalbu zahtijevala da bude izviještena o sjednici. Predsjednik vijeća ili vijeće može odlučiti da se o sjednici vijeća izvijeste stranke i kad nisu to zahtijevale, ako bi njihova prisutnost bila korisna za razjašnjenje stvari.
+(3) Iznimno od stavka 2. ovog članka, kad drugostupanjski sud rješava o žalbi protiv presude prvostupanjskog suda donesene zbog kaznenog djela za koje je propisana novčana kazna ili kazna zatvora do pet godina, stranke će se obavijestiti o sjednici vijeća drugostupanjskog suda ako je u prvostupanjskoj presudi izrečena kazna zatvora i ako je neka od stranaka zahtijevala da bude obaviještena o sjednici, ili ako predsjednik vijeća ili vijeće drugostupanjskog suda smatra da bi prisutnost stranaka bila korisna za razjašnjenje stvari.«.

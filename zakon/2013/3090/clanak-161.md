@@ -1,0 +1,13 @@
+# Članak 161.
+Iza članka 339. dodaje se naslov i članak 339.a koji glase:
+»13. Provjera uspostavljanja telekomunikacijskog kontakta
+Članak 339.a
+(1) Ako postoji sumnja da je registrirani vlasnik ili korisnik telekomunikacijskog sredstva počinio kazneno djelo za koja se kazneni postupak pokreće po službenoj dužnosti policija će, na temelju naloga suca istrage, a radi prikupljanja dokaza, od operatora javnih komunikacijskih usluga zatražiti provjeru istovjetnosti, trajanja i učestalosti komunikacije s određenim elektroničkim komunikacijskim adresama, utvrđivanje položaja komunikacijskog uređaja, kao i utvrđivanje mjesta na kojima se nalaze osobe koje uspostavljaju elektroničku komunikaciju, te identifikacijske oznake uređaja.
+(2) Za registriranog vlasnika ili korisnika telekomunikacijskog sredstva koji je povezan s osobom za koju postoji sumnja da je počinila kazneno djelo za koje se kazneni postupak pokreće po službenoj dužnosti policija može, na temelju naloga suca istrage, zatražiti od operatora javnih komunikacijskih usluga provjeru iz stavka 1. ovog članka.
+(3) Odluku o zahtjevu državnog odvjetnika sudac istrage dužan je donijeti u roku od četiri sata. Nalog za provjeru iz stavka 1. i 2. ovog članka sudac istrage izdaje na temelju obrazloženog prijedloga nadležnog državnog odvjetnika.
+(4) Iznimno, ako postoji opasnost od odgode i ako državni odvjetnik ima razloga vjerovati da na vrijeme neće moći pribaviti nalog suca, nalog iz stavka 1. i 2. ovog članka može izdati nadležni državni odvjetnik.
+(5) Nalog iz stavka 4. ovog članka i dopis u kojem će obrazložiti razloge za njegovo izdavanje državni odvjetnik mora odmah, a najkasnije u roku od 24 sata od izdavanja, dostaviti sucu istrage.
+(6) Sudac istrage odlučuje rješenjem o zakonitosti naloga državnog odvjetnika u roku od 48 sati od primitka naloga i dopisa. Protiv rješenja suca istrage državni odvjetnik nema prava žalbe.
+(7) U nalogu iz stavka 1., 2. i 4. ovog članka, uz podatke iz članka 168. stavka 2. ovog Zakona, navode se osobni podaci osobe koja je registrirani vlasnik ili korisnik komunikacijskog sredstva te svrha radi koje se nalog izdaje.
+(8) Nalog za provjeru uspostavljanja telekomunikacijskih kontakata nije potreban ako je registrirani vlasnik ili korisnik komunikacijskog sredstva dao pisani pristanak.
+(9) Ako su podaci iz stavka 1. i 2. ovog članka pribavljeni bez naloga suca istrage odnosno ako državni odvjetnik nije u roku iz stavka 5. ovog članka dostavio sucu istrage nalog ili ako je odbijen zahtjev državnog odvjetnika za ovjeru naloga za provjeru uspostavljanja telekomunikacijskih kontakata, tako prikupljeni podaci ne mogu se upotrijebiti kao dokaz u postupku.«.

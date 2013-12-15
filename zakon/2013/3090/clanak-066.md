@@ -1,0 +1,4 @@
+# Članak 66.
+Naziv glave XII. mijenja se i glasi:
+»Glava XII.
+ODLUKE, DOSTAVA, UVID U SPIS, KAZNENA EVIDENCIJA, OSOBNI PODACI, PRONAĐENE I ODUZETE STVARI«.

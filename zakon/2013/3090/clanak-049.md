@@ -1,0 +1,5 @@
+# Članak 49.
+Članak 103. mijenja se i glasi:
+»(1) Sud će rješenjem odrediti visinu jamstva i oblik polaganja jamčevine, a koja se može sastojati u polaganju gotovog novca, vrijednosnih papira, dragocjenosti ili drugih pokretnina veće vrijednosti koje se lako mogu unovčiti i čuvati ili u stavljanju hipoteke za iznos jamstva na nekretnine osobe koja daje jamstvo.
+(2) Protiv odluke o visini jamstva i obliku polaganja jamčevine stranke imaju pravo žalbe u roku od tri dana. Nakon što rješenje o jamstvu postane pravomoćno te okrivljenik dade obećanje iz članka 102. stavka 1. ovog Zakona, a jamčevina bude položena, sud će donijeti rješenje o ukidanju istražnog zatvora u kojem će navesti osnovu zbog koje je protiv okrivljenika bio određen istražni zatvor i uvjete kojih se okrivljenik mora pridržavati.
+(3) Nakon što rješenje o ukidanju istražnog zatvora postane pravomoćno sud će pravomoćno rješenje o jamstvu dostaviti policiji radi postupanja u smislu članka 104. stavka 1. ovog Zakona. Tako će sud postupiti i kada okrivljeniku odobri napuštanje boravišta.«.

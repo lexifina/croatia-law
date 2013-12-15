@@ -1,0 +1,9 @@
+# Članak 78.
+Članak 186. mijenja se i glasi:
+»(1) Osobne podatke nadležna tijela mogu prikupljati samo u zakonom određene svrhe u okviru svojih poslova propisanim ovim Zakonom.
+(2) Obrada osobnih podataka može se vršiti samo kad je to zakonom ili drugim propisom određeno i mora biti ograničena na svrhu zbog koje su podaci prikupljeni. Daljnja obrada tih podataka dopuštena je ako nije u suprotnosti sa svrhom u koju su podaci prikupljeni te ako su nadležna tijela ovlaštena obrađivati takve podatke u drugu svrhu propisanu zakonom, a obrada je potrebna i razmjerna toj drugoj svrsi.
+(3) Obrada osobnih podataka koji se odnose na zdravlje ili seksualni život dopuštena je samo iznimno ako se otkrivanje i dokazivanje kaznenog djela za koje je propisana kazna zatvora od pet godina ili teža ne bi moglo provesti na drugi način ili bi bilo skopčano s nerazmjernim teškoćama.
+(4) Obrada osobnih podataka koji se odnose na rasno ili etničko podrijetlo, politička uvjerenja, vjerska ili filozofska uvjerenja ili članstvo u sindikatima nije dopuštena.
+(5) Osobni podaci prikupljeni za potrebe kaznenog postupka mogu se dostavljati tijelima državne uprave sukladno posebnom zakonu, a drugim pravnim osobama samo ako državno odvjetništvo ili sud utvrdi da su im ti podaci potrebni u skladu sa zakonom propisanom svrhom. Prilikom dostave, te će se pravne osobe upozoriti da su dužne primijeniti mjere zaštite podataka osoba na koju se podaci odnose.
+(6) Osobni podaci iz stavka 1. ovog članka mogu se, u skladu s propisima, upotrijebiti u drugim kaznenim postupcima, u drugim postupcima za kažnjive radnje u Republici Hrvatskoj, u postupcima međunarodne kaznenopravne pomoći i međunarodne policijske suradnje.
+(7) Ministar nadležan za pravosuđe donosi pravilnik o automatiziranim zbirkama osobnih podataka za potrebe državnog odvjetništva i sudova.«.

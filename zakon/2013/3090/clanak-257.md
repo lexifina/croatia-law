@@ -1,0 +1,8 @@
+## PRIJELAZNE I ZAVRŠNE ODREDBE
+# Članak 257.
+(1) Sve radnje i mjere koje su provedene ili se provode sukladno Zakonu o kaznenom postupku (»Narodne novine«, br. 152/08., 76/09., 80/11., 121/11., 91/12., 143/12. i 56/13.) do stupanja na snagu ovog Zakona su valjane u skladu s točkom IV. izreke Odluke Ustavnog suda Republike Hrvatske, broj: U-I-448/2009, U-I-602/2009, U-I-1710/2009, U-I-18153/2009, U-I-5813/2010 i U-I-2871/2011, od 19. srpnja 2012. (»Narodne novine«, br. 91/12.).
+(2) Ako je na dan stupanja na snagu ovoga Zakona bio u tijeku kakav rok, taj rok će se računati prema odredbama ovog Zakona, osim ako je dosadašnji rok bio dulji ili je prijelaznim i završnim odredbama ovog Zakona drukčije propisano.
+(3) Ako nakon stupanja na snagu ovog Zakona povodom žalbe ili izvanrednog pravnog lijeka postupak treba ponoviti, novi postupak provest će se po odredbama ovog Zakona.
+(4) Ako je do stupanja na snagu ovog Zakona donesena kakva odluka protiv koje je po odredbama zakona po kojem je postupak vođen dopušten pravni lijek ili još teče rok za podnošenje pravnog lijeka, ili je pravni lijek podnesen, ali o njemu još nije odlučeno, u tom postupku primijenit će se odredbe zakona po kojem je donesena odluka, osim ako ovim Zakonom nije drukčije propisano.
+(5) Provođenje dokaznih radnji te istrage i kazneni postupak koji su započeli prije stupanja na snagu ovog Zakona nastavit će se po odredbama ovog Zakona, osim ako je prijelaznim i završnim odredbama ovog Zakona drukčije propisano.
+(6) U kaznenom postupku za kaznena djela iz članka 19.c točke 1. podtočke d) Zakona o kaznenom postupku (»Narodne novine«, br. 152/08., 76/09., 80/11., 121/11., 91/12., 143/12. i 56/13.), postupak će se dovršiti pred sudom koji je bio nadležan u trenutku podizanja optužbe.

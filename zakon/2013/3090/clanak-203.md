@@ -1,0 +1,6 @@
+# Članak 203.
+U članku 420. stavci 2., 3. i 4. mijenjaju se i glase:
+»(2) Tijekom iznošenja iskaza svjedoka ili izlaganja nalaza i mišljenja vještaka, svjedoku ili vještaku neposredno postavljaju pitanja stranke te predsjednik i članovi sudskog vijeća. Ako se drukčije ne dogovore, najprije postavlja pitanje stranka koja je predložila izvođenje tog dokaza, a zatim protustranka. Nakon toga pitanja postavlja predsjednik i članovi sudskog vijeća. Ako je sud odredio izvođenje dokaza i bez prijedloga stranaka, pitanja prvi postavlja predsjednik vijeća, zatim članovi vijeća, te naposlijetku tužitelj, okrivljenik i branitelj. Oštećenik, zakonski zastupnik, punomoćnik i vještaci mogu neposredno postavljati pitanja uz odobrenje predsjednika vijeća.
+(3) Predsjednik vijeća će zabraniti pitanje ili odgovor na već postavljeno pitanje ako je ono nedopušteno (članak 277. i članak 289. stavak 3. ovog Zakona) ili se pitanje ne odnosi na predmet. Ako predsjednik vijeća zabrani postavljanje određenog pitanja ili davanje odgovora, stranke mogu zahtijevati da o tome odluči vijeće.
+(4) Stranke i branitelj mogu staviti prigovor na pitanja iz stavka 3. ovog članka, o kojem će odlučiti predsjednik vijeća.«.
+Dosadašnji stavci 5. do 10. brišu se.

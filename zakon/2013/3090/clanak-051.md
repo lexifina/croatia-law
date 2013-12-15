@@ -1,0 +1,5 @@
+# Članak 51.
+U članku 105. stavci 1., 2. i 3. mijenjaju se i glase:
+»(1) Visina jamstva i oblik polaganja jamčevine mogu se izmijeniti rješenjem ako to opravdavaju naknadno utvrđene okolnosti.
+(2) Ako se utvrdi da je okrivljenik prikrio prave okolnosti odlučne za odmjeravanje visine jamstva ili oblika polaganja jamčevine, ili ako se utvrdi postojanje razloga za istražni zatvor različitih od onih zbog kojih je bio određen istražni zatvor koji je zamijenjen jamstvom, a dano jamstvo nije primjereno novim okolnostima, protiv okrivljenika će se odrediti istražni zatvor, a nakon zatvaranja okrivljenika, jamstvo će se ukinuti, položena jamčevina vratiti, a hipoteka obrisati. Tim rješenjem može se odrediti nova visina jamstva i oblik polaganja jamčevine koje bi zamijenilo istražni zatvor.
+(3) Ako postoji ozbiljna vjerojatnost da će okrivljenik postupiti protivno uvjetima rješenja o jamstvu, na prijedlog državnog odvjetnika, može se odrediti istražni zatvor protiv okrivljenika, a jamstvo će se ukinuti te će se jamčevina vratiti osobi koja ju je dala.«.

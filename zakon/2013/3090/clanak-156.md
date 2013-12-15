@@ -1,0 +1,22 @@
+# Članak 156.
+Članak 332. mijenja se i glasi:
+»(1) Ako se izvidi kaznenih djela ne bi mogli provesti na drugi način ili bi to bilo moguće samo uz nerazmjerne teškoće, na pisani obrazloženi zahtjev državnog odvjetnika, sudac istrage može protiv osobe za koju postoje osnove sumnje da je sama počinila ili zajedno s drugim osobama sudjelovala u kaznenom djelu iz članka 334. ovog Zakona, pisanim, obrazloženim nalogom odrediti posebne dokazne radnje kojima se privremeno ograničavaju određena ustavna prava građana, i to:
+1) nadzor i tehničko snimanje telefonskih razgovora i drugih komunikacija na daljinu,
+2) presretanje, prikupljanje i snimanje računalnih podataka,
+3) ulazak u prostorije radi provođenja nadzora i tehničko snimanje prostorija,
+4) tajno praćenje i tehničko snimanje osoba i predmeta,
+5) uporabu prikrivenih istražitelja i pouzdanika,
+6) simuliranu prodaju i otkup predmeta te simulirano davanje potkupnine i simulirano primanje potkupnine,
+7) pružanje simuliranih poslovnih usluga ili sklapanje simuliranih pravnih poslova,
+8) nadzirani prijevoz i isporuku predmeta kaznenog djela.
+(2) Iznimno, ako postoji opasnost od odgode i ako državni odvjetnik ima razloga vjerovati da na vrijeme neće moći pribaviti nalog suca istrage, nalog iz stavka 1. ovog članka, može na vrijeme od dvadeset četiri sata izdati državni odvjetnik.
+(3) Nalog iz stavka 2. ovog članka državni odvjetnik ne može izdati za posebne dokazne radnje iz:
+- stavka 1. točke 2) ovog članka, ako način izvršenja te radnje zahtijeva ulazak u dom, ili udaljeni ulazak u računalo osumnjičenika koje se nalazi u njegovom domu,
+- stavka 1. točke 3) ovog članka, ako je radi provođenja nadzora i tehničkog snimanja potrebno ući u dom.
+(4) Nalog s oznakom vremena izdavanja i dopis u kojem će obrazložiti razloge za njegovo izdavanje državni odvjetnik mora u roku od osam sati od izdavanja dostaviti sucu istrage. Ujedno će ako smatra da treba nastaviti s provođenjem posebne dokazne radnje podnijeti sucu istrage pisani obrazloženi zahtjev za njezino daljnje provođenje. Sudac istrage odmah po primitku naloga i dopisa ispituje jesu li postojali uvjeti za izdavanje naloga te je li postojala opasnost od odgode iz stavka 2. ovog članka.
+(5) Sudac istrage odlučuje rješenjem o zakonitosti naloga državnog odvjetnika. Ako sudac istrage odobri nalog državnog odvjetnika, a državni odvjetnik je podnio zahtjev za daljnje provođenje dokazne radnje, postupit će prema stavku 1. ovog članka. Ako se sudac istrage ne složi s nalogom državnog odvjetnika, zatražit će da o tome odluku donese vijeće. Ako je zahtijevano daljnje provođenje dokazne radnje određene prema stavku 2. ovog članka ono se nastavlja do odluke vijeća. Vijeće o zahtjevu suca istrage odlučuje u roku od dvanaest sati od primitka zahtjeva. Ako je vijeće potvrdilo nalog državnog odvjetnika, a državni odvjetnik je zahtijevao daljnje provođenje dokazne radnje, vijeće će izdati nalog iz stavka 1. ovog članka. Ako vijeće ne odobri nalog, u rješenju će naložiti da se odmah obustave radnje, a podaci prikupljeni na temelju naloga državnog odvjetnika će se predati sucu istrage koji će ih uništiti. O uništenju podataka sudac istrage sastavlja zapisnik.
+(6) Posebne dokazne radnje iz članka 332. stavka 1. točke 3. ovog Zakona kada je radi njezinog provođenja potrebno ući u dom određuju se isključivo po nalogu suda koji je dužan voditi računa o razmjernom ograničenju prava na nepovredivost osobnog i obiteljskog života.
+(7) Radnje iz točke 1. stavka 1. ovog članka mogu se odrediti i prema osobama za koje postoje osnove sumnje da počinitelju ili od počinitelja kaznenih djela iz članka 334. ovog Zakona prenose priopćenja i poruke u svezi s djelom, odnosno da se počinitelj služi njihovim priključcima na telefon ili drugim telekomunikacijskim uređajem, koje kriju počinitelja kaznenog djela ili mu prikrivanjem sredstava kojima je kazneno djelo počinjeno, tragova kaznenog djela ili predmeta nastalih ili pribavljenih kaznenim djelom ili na drugi način pomažu da ne bude otkriven.
+(8) Pod uvjetima iz stavka 1. ovog članka, radnje iz stavka 1. točke 1., 2., 3., 4., 6., 7. i 8. ovog članka, mogu se uz pisani pristanak osobe, primijeniti na sredstva, prostorije i predmete te osobe.
+(9) U slučaju kad se ne raspolaže saznanjima o identitetu sudionika kaznenog djela, radnja iz stavka 1. točke 8. ovog članka može se odrediti prema predmetu kaznenog djela.
+(10) Izvršenje radnji iz stavka 1. točke 5. i 6. ovog članka ne smije predstavljati poticanje na počinjenje kaznenog djela.«.

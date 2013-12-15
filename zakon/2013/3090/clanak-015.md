@@ -1,0 +1,9 @@
+# Članak 15.
+U članku 19.b stavak 2. mijenja se i glasi:
+»(2) Za kaznena djela za koja je propisana kao glavna kazna novčana kazna ili kazna zatvora do pet godina sudi sudac općinskog suda kao sudac pojedinac.«.
+Iza stavka 2. dodaje se novi stavak 3. koji glasi:
+»(3) Za kaznena djela za koja je propisana kazna zatvora do deset godina stranke se mogu do početka rasprave suglasiti da raspravu provede predsjednik vijeća kao sudac pojedinac, osim za sljedeća kaznena djela:
+a) čedomorstvo (članak 93.), usmrćenje na zahtjev (članak 94.), prouzročenje smrti iz nehaja (članak 95.), sudjelovanje u samoubojstvu (članak 96. stavak 2.), spolni odnošaj s nemoćnom osobom (članak 189. stavak 1.), prisila na spolni odnošaj (članak 190.), spolni odnošaj zlouporabom položaja (članak 191. stavak 2.), iskorištavanje djece ili maloljetnih osoba za pornografiju (članak 196. stavak 1.), teška kaznena djela protiv zdravlja ljudi (članak 249. stavak 4.) i izazivanje prometne nesreće (članak 272. stavak 4.) iz Kaznenog zakona (»Narodne novine«, br. 110/97., 27/98., 50/00., 129/00., 51/01., 111/03., 190/03., 105/04., 84/05., 71/06., 110/07., 152/08., 57/11. i 77/11.),
+b) usmrćenje (članak 112. stavak 2. i 3.), prouzročenje smrti iz nehaja (članak 113.), sudjelovanje u samoubojstvu (članak 114. stavak 2.), spolni odnošaj bez pristanka (članak 152.), teška kaznena djela protiv zdravlja ljudi (članak 192. stavak 6.), izazivanje prometne nesreće u cestovnom prometu (članak 227. stavak 6.), teška kaznena djela protiv okoliša (članak 214. stavak 4.), teška kaznena djela protiv opće sigurnosti (članak 222. stavak 4.) iz Kaznenog zakona.«.
+U dosadašnjem stavku 3., koji postaje stavak 4., u prvoj rečenici, iza riječi: »osim« dodaju se riječi: »za kaznena djela za koja je propisana kazna zatvora teža od deset godina ili«.
+Dosadašnji stavci 4. i 5. postaju stavci 5. i 6.
