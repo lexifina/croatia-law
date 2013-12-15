@@ -1,0 +1,7 @@
+# Članak 9.
+U članku 11. stavku 1. riječi: »stavka 5.« zamjenjuju se riječima: »stavka 3.«, riječi: »točke 1., 2., 3. i 4. ovoga Zakona« zamjenjuju se riječima: »točke 1., 2., 3., 4. i 5. ovoga Zakona te članka 22. stavka 1. točke 6. ovoga Zakona kad je ista primjenjiva«, a iza prve rečenice dodaje se druga rečenica koja glasi: »U slučaju iz članka 24.a ovoga Zakona, obavijesti iz članka 9. stavka 3. i članka 10. stavka 2. ovoga Zakona obvezno sadrže napomenu o tome da su ishođene odgovarajuće suglasnosti javnopravnog tijela, odnosno napomenu o obvezi ishođenja posebne suglasnosti odgovarajućeg javnopravnog tijela te mogućnosti da, ako ponuditelj takvu suglasnost ne ishodi, ne bude objavljena ponuda za preuzimanje, osim u slučaju naknadnog ishođenja suglasnosti.«.
+Stavak 2. briše se.
+Dosadašnji stavak 3. koji postaje stavak 2. mijenja se i glasi:
+»(2) Nakon što je putem tržišnog operatera uređenog tržišta objavljena obavijest iz stavka 1. ovoga članka, ciljno društvo je obvezno bez odgode o sadržaju objavljene obavijesti obavijestiti predstavnike radnika, ili u njihovoj odsutnosti radnike.«.
+Dosadašnji stavak 4. koji postaje stavak 3. mijenja se i glasi:
+»(3) Ciljno društvo je obvezno u roku od tri dana nakon što je putem tržišnog operatera uređenog tržišta objavljena obavijest iz stavka 1. ovoga članka, obavijestiti Agenciju o svim postupcima ili pregovorima s ponuditeljem ili osobama koje djeluju zajednički s ponuditeljem, ili o tome da takvi postupci ili pregovori nisu u tijeku, te dostaviti dokaz o izvršenju obveze iz stavka 2. ovoga članka.«.

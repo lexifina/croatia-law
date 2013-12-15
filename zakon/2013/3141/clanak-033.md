@@ -1,0 +1,2 @@
+# Članak 33.
+U članku 49. iza riječi: »Ako ponuditelj« stavlja se zarez i dodaju riječi: »nakon nastanka obveze objavljivanja ponude za preuzimanje, neovisno o tome je li ista utvrđena rješenjem Agencije sukladno odredbama ovoga Zakona, u zakonskom roku ne podnese uredan zahtjev za odobrenje objavljivanja ponude za preuzimanje ili mu Agencija odbije ili odbaci zahtjev za odobrenje objavljivanja ponude za preuzimanje ili nakon što mu je Agencija odobrila zahtjev za objavljivanje ponude za preuzimanje,«.

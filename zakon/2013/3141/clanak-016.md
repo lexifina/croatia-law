@@ -1,0 +1,5 @@
+# Članak 16.
+U članku 19. stavak 1. mijenja se i glasi:
+»(1) Radi osiguranja novčane naknade ponuditelj je obvezan na transakcijski račun depozitara otvoren kod kreditne institucije u svrhu provođenja ponude za preuzimanje izdvojiti novčana sredstva potrebna za plaćanje svih dionica koje su predmet ponude za preuzimanje i/ili depozitaru dostaviti neopozivu bankovnu garanciju na prvi poziv izdanu u korist osoba koje će pohraniti svoje dionice u ponudi za preuzimanje, na iznos potreban za plaćanje svih dionica koje su predmet ponude za preuzimanje. Novčana sredstva pohranjena na transakcijskom računu depozitara ne ulaze u likvidacijsku ili stečajnu masu depozitara i/ili kreditne institucije, niti mogu biti predmetom ovrhe u vezi s potraživanjem prema depozitaru i/ili kreditnoj instituciji.«.
+Stavak 4. mijenja se i glasi:
+»(4) Ponuditelj ne smije raspolagati novčanim sredstvima koja su, radi osiguranja isplate pohranjenih dionica, izdvojena na transakcijskom računu depozitara otvorenom kod kreditne institucije, osim radi isplate pohranjenih dionica.«.

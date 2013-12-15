@@ -1,0 +1,18 @@
+# Članak 6.
+U članku 8. stavku 1. točki 4. riječi: »ponuditelj može« zamjenjuju se riječima: »te osobe mogu«.
+U stavku 3. u drugoj rečenici riječi: »a kojim potvrdama se trguje na uređenom tržištu i multilateralnoj trgovinskoj platformi,« brišu se, a treća rečenica zamjenjuje se rečenicom koja glasi: »Odredbe stavka 1. točaka 2. do 5. ovoga članka primjenjuju se na odgovarajući način i na ove potvrde.«.
+Iza stavka 3. dodaju se stavci 4., 5., 6., 7. i 8. koji glase:
+»(4) U smislu ovoga Zakona, za potrebe utvrđivanja broja dionica s pravom glasa ciljnog društva koje drži ponuditelj i osobe koje s njim djeluju zajednički, kad je riječ o dionicama s pravom glasa ciljnog društva koje drži fond kojim upravlja društvo za upravljanje investicijskim fondovima ili društvo za upravljanje mirovinskim fondovima, smatrat će se da ta društva drže dionice s pravom glasa i ostvaruju pravo glasa iz tih dionica, osim kad je investicijskom ili mirovinskom fondu kojim upravlja društvo za upravljanje investicijskim fondovima ili društvo za upravljanje mirovinskim fondovima dopušteno ulaganje kojim se prelazi prag iz članka 9. stavka 1. ovoga Zakona.
+(5) Odredbe stavka 4. ovoga članka na odgovarajući način odnose se na društva za upravljanje investicijskim fondovima ili društva za upravljanje mirovinskim fondovima koja imaju odobrenje za rad u drugoj državi članici ili trećoj državi, a koja bi, da imaju sjedište u Republici Hrvatskoj, tražila odobrenje za pružanje usluge upravljanja investicijskim fondom ili obveznim ili dobrovoljnim mirovinskim fondom, sukladno propisima kojima se uređuje osnivanje i poslovanje investicijskih i mirovinskih fondova.
+(6) Odredbe stavka 1. ovoga članka ne odnose se na dionice s pravom glasa ciljnog društva:
+1. koje su stečene isključivo u svrhu poravnanja i namire unutar uobičajenog vremena za provođenje poravnanja i namire na relevantnom tržištu,
+2. koje drži skrbnik u okviru pružanja usluge skrbništva, pod uvjetom da skrbnik glasačka prava može ostvarivati isključivo uz uputu dioničara dobivenu u pisanom obliku ili korištenjem elektroničkih sredstava,
+3. koje se vode kao pozicije u knjizi trgovanja kreditne institucije ili investicijskog društva sukladno propisima kojima se uređuje knjiga trgovanja kreditne institucije, odnosno investicijskog društva ako:
+- kreditna institucija ili investicijsko društvo koje želi koristiti iznimku o istome bez odgode obavijesti Agenciju,
+- glasačka prava koja proizlaze iz dionica s pravom glasa koje su pozicije u knjizi trgovanja ne prelaze 5% od ukupnog broja glasova koje daju dionice s pravom glasa ciljnog društva i
+- kreditna institucija ili investicijsko društvo ne ostvaruje glasačka prava niti se ista koriste za utjecaj na upravljanje ciljnim društvom,
+4. koje stječe ili otuđuje osoba koja djeluje kao održavatelj tržišta, pod uvjetom da glasačka prava ne prelaze 5% od ukupnog broja glasova koje daju dionice s pravom glasa ciljnog društva i da održavatelj tržišta:
+- ima odobrenje za pružanje investicijskih usluga i obavljanje investicijskih aktivnosti od strane nadležnog tijela, i
+- ne ostvaruje glasačka prava niti se ista koriste za utjecaj na upravljanje ciljnim društvom.
+(7) Održavatelj tržišta koji želi koristiti iznimku iz stavka 6. točke 4. ovoga članka, obvezan je bez odgode obavijestiti Agenciju da djeluje ili namjerava djelovati kao održavatelj tržišta u odnosu na određeno ciljno društvo te Agenciji dostaviti sporazum o održavanju tržišta koji je sklopio s tržišnim operaterom uređenog tržišta, odnosno određenim ciljnim društvom ako je takav ugovor sklopljen.
+(8) Kada održavatelj tržišta prestane djelovati kao održavatelj tržišta u odnosu na određeno ciljno društvo, obvezan je o istome bez odgode obavijestiti Agenciju.«.

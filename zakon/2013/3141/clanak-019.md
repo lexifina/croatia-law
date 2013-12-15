@@ -1,0 +1,8 @@
+# Članak 19.
+Iza članka 24. dodaje se članak 24.a koji glasi:
+»Članak 24.a
+(1) Ako je prema odredbama posebnog zakona ponuditelj za stjecanje dionica koje su predmet ponude prethodno obvezan ishoditi odobrenje (suglasnost i sl.) javnopravnog tijela, početak roka od 30 dana za podnošenje zahtjeva za odobrenje objavljivanja ponude za preuzimanje iz članka 24. stavka 1. ovoga Zakona odgađa se do ishođenja takvog odobrenja.
+(2) Ako ponuditelj ne ishodi odobrenje iz stavka 1. ovoga članka, bilo zbog toga što je propustio postaviti odgovarajući zahtjev bilo zbog toga što je odgovarajući zahtjev odbijen ili odbačen, obveza objavljivanja ponude za preuzimanje miruje (ponuditelj nema obvezu podnijeti zahtjev za odobrenje objavljivanja ponude za preuzimanje i objaviti ponudu za preuzimanje), ali ponuditelj za to vrijeme nema pravo glasa iz dionica kojima prelazi prag od 25% od ukupnog broja dionica s pravom glasa.
+(3) Ako ponuditelj padne do ili ispod praga od 25% od ukupnog broja dionica, obveza objavljivanja ponude za preuzimanje prestaje.
+(4) Smatrat će se da je ponuditelj pao do ili ispod praga od 25% ako je obveza objavljivanja ponude za preuzimanje nastala stjecanjem dionica pravnim poslom sklopljenim pod suspenzivnim uvjetom, pa učinci tog pravnog posla zbog neishođenja odobrenja nadležnog tijela prestanu. Pritom se na odgovarajući način primjenjuju odredbe članka 40. stavka 3. ovoga Zakona.
+(5) Ako ponuditelj ipak naknadno ishodi odobrenje iz stavka 1. ovoga članka, obveza prestaje mirovati te će ponuditelj biti obvezan podnijeti zahtjev za odobrenje objavljivanja ponude za preuzimanje i objaviti ponudu za preuzimanje, tj. provesti postupak preuzimanja.«.
