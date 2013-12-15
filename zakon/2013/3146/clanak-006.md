@@ -1,0 +1,2 @@
+# Članak 6.
+U članku 24. iza riječi: »uvjeta za rad državnih odvjetništava,« dodaju se riječi: »informatizacija državnih odvjetništava,«, a riječi: »ispitivanje predstavki i pritužbi građana na rad državnih odvjetništava koje se odnose na odugovlačenje u davanju ocjene o osnovanosti podnesene kaznene prijave« zamjenjuju se riječima: »ispitivanje predstavki građana na rad državnih odvjetništava koje se odnose na odugovlačenje postupka«.
