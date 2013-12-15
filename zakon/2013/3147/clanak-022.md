@@ -1,0 +1,3 @@
+# Članak 22.
+U članku 61. stavak 1. mijenja se i glasi:
+»(1) Osiguranje sredstava, prihoda ili imovine u vezi s kaznenim djelima iz članka 21. stavka 1. točke 2. i 3. ovoga Zakona te kaznenim djelima zlouporabe položaja i ovlasti iz članka 291. Kaznenog zakona, ako je to djelo počinila službena osoba označena u članku 87. stavku 3. Kaznenog zakona, zločinačkog udruženja iz članka 328. Kaznenog zakona i počinjenja kaznenog djela u sastavu zločinačkog udruženja iz članka 329. Kaznenog zakona može se u Republici Hrvatskoj odrediti i provesti prema uvjetima propisanim međunarodnim ugovorom i ovim Zakonom.«.
