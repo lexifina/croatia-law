@@ -1,0 +1,1 @@
+Na temelju članka 8. stavka 1. Zakona o strateškim investicijskim projektima Republike Hrvatske (»Narodne novine«, broj 133/2013), Vlada Republike Hrvatske je na sjednici održanoj 18. prosinca 2013. godine donijela
