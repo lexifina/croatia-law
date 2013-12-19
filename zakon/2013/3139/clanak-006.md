@@ -1,0 +1,3 @@
+# Članak 6.
+U članku 31. stavak 10. mijenja se i glasi:
+»(10) Porez po odbitku plaća se po stopi od 20 % na sve vrste usluga koje nisu navedene u ovome članku Zakona, a koje su plaćene osobama koje imaju sjedište ili mjesto stvarne uprave, odnosno nadzora poslovanja u državama koje se smatraju poreznim utočištima ili financijskim centrima, osim država članica Europske unije te država s kojima je Republika Hrvatska sklopila i primjenjuje ugovore o izbjegavanju dvostrukog oporezivanja, a država je objavljena na Popisu država koji donosi ministar financija i koji se objavljuje na mrežnim stranicama Ministarstva financija i Porezne uprave Republike Hrvatske.«.

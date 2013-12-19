@@ -1,0 +1,2 @@
+# Članak 10.
+Ovlašćuje se ministar financija da donese Pravilnik o načinu ostvarivanja poreznih olakšica od obavljanja djelatnosti na potpomognutim područjima iz članka 5. ovoga Zakona, Popis država iz članka 6. ovoga Zakona te da uskladi provedbene propise iz članka 37. Zakona o porezu na dobit (»Narodne novine«, br. 177/04., 90/05., 57/06., 146/08., 80/10. i 22/12.) s odredbama ovoga Zakona u roku od 60 dana od dana njegova stupanja na snagu.

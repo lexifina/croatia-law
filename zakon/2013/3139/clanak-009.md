@@ -1,0 +1,2 @@
+# Članak 9.
+Iznimno od odredbe članka 3. stavka 1. ovoga Zakona i članka 9. stavka 4. Zakona o porezu na dobit (»Narodne novine«, br. 177/04., 90/05., 57/06., 146/08., 80/10. i 22/12.) priznaje se otpis zastarjelih potraživanja od nepovezanih fizičkih osoba u iznosu do 2.000,00 kuna, ako ukupno utvrđeno potraživanje po pojedinoj osobi na zadnji dan poreznog razdoblja ne prelazi navedeni iznos i ako je otpisano najkasnije do 31. prosinca 2013.
