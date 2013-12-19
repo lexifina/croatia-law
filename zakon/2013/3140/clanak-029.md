@@ -1,0 +1,6 @@
+# Članak 29.
+Članak 251. mijenja se i glasi:
+»(1) Novčanom kaznom u iznosu od 5.000,00 do 50.000,00 kuna kaznit će se za prekršaj:
+1. obveznik doprinosa te obveznik obračunavanja i plaćanja posebnog doprinosa za zdravstveno osiguranje za korištenje zdravstvene zaštite u inozemstvu koji za osiguranika po toj osnovi ne obračuna poseban doprinos (članak 192. stavak 2. u svezi s člankom 190.) ili ne utvrdi osnovicu (članak 191.), odnosno ne uplati doprinose u roku (članak 192. stavak 1.) ili ne izvijesti Poreznu upravu o utvrđenoj obvezi doprinosa (članak 192. stavak 2.),
+2. poslodavac koji zapošljava radnike na radnome mjestu na kojemu se staž osiguranja računa s povećanim trajanjem i/ili radnike koji obavljaju poslove zanimanja za koja se staž osiguranja računa s povećanim trajanjem, a koji za osiguranike po toj osnovi ne obračuna dodatne doprinose (članak 195. stavak 1. u svezi s člankom 194.) ili ne utvrdi osnovicu (članak 194.), odnosno ne uplati doprinose u roku (članak 195. stavak 1.) ili ne izvijesti Poreznu upravu o utvrđenim obvezama doprinosa (članak 195. stavak 2.).
+(2) Novčanom kaznom u iznosu od 3.000,00 do 20.000,00 kuna kaznit će se za prekršaj iz stavka 1. ovoga članka i odgovorna osoba u pravnoj osobi.«.
