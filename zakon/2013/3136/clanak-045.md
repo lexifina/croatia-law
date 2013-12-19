@@ -1,0 +1,7 @@
+## Privremeno oduzimanje predmeta, domaćih ili stranih sredstava plaćanja, vrijednosnica i dokumentacije
+# Članak 45.
+(1) Ovlašteni službenici Porezne uprave koji obavljaju poslove poreznog nadzora, porezno - kaznenih djela i poreznih prijevara ovlašteni su privremeno oduzeti predmete, domaća ili strana sredstva plaćanja, vrijednosnice i dokumentaciju, u skladu s deviznim i drugim propisima, o čemu se izdaje potvrda.
+(2) Domaća ili strana sredstva plaćanja oduzeta u prekršajnom ili kaznenom postupku po pravomoćnoj odluci nadležnog tijela uplaćuju se u državni proračun, o čemu se izdaje potvrda.
+(3) Potvrda iz stavka 1. ovoga članka mora sadržavati osnovne značajke privremeno oduzetih predmeta, domaćih i stranih sredstava plaćanja, vrijednosnica i dokumentacije po kojima ih se može identificirati te podatke o osobi od koje su oduzeti.
+(4) Nakon izdavanja potvrde o privremenom oduzimanju predmeta iz stavka 1. ovoga članka nadležna ustrojstvena jedinica Porezne uprave u roku od 30 dana donosi rješenje kojim se određuje rok zadržavanja predmeta do okončanja postupka obračuna i naplate dužnih javnih davanja. Ako se podnese primjereni instrument osiguranja plaćanja u visini pripadajućeg duga, privremeno oduzeti predmeti vratit će se osobi od koje su oduzeti. Instrument osiguranja duga može podnijeti i druga osoba.
+(5) Ministar će pravilnikom propisati postupanje s privremeno oduzetim predmetima, domaćim ili stranim sredstvima plaćanja, vrijednosnicama i dokumentacijom.

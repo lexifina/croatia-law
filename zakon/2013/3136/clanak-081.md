@@ -1,0 +1,3 @@
+# Članak 81.
+(1) Javnopravnim tijelima, kojima je u zakonom utvrđenom djelokrugu za provedbu postupaka nužno saznanje o vlasništvu imovine osoba, Porezna uprava kao koordinacijsko tijelo omogućit će korištenje uspostavljenog sustava elektroničkog pristupa podacima o imovini uz sklapanje sporazuma o suradnji ili dobivanje suglasnosti te sklapanje protokola o razmjeni podataka između javnopravnog tijela voditelja službene evidencije o imovini, tražitelja podataka te Porezne uprave kao koordinacijskog tijela.
+(2) U postupcima iz stavka 1. ovoga članka Porezna uprava, kao koordinacijsko tijelo, ne odgovara za točnost te korištenje razmijenjenih podataka.

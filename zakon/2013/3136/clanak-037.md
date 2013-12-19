@@ -1,0 +1,10 @@
+## Prikupljanje obavijesti od poreznih obveznika i trećih osoba
+# Članak 37.
+(1) Porezni obveznik i druge osobe koje raspolažu podacima bitnima za oporezivanje ili vode vlasničke pozicije vrijednosnih papira te upisnike o imovini i pravima poreznih obveznika dužni su na zahtjev službenika Porezne uprave dostaviti podatke potrebne za utvrđivanje porezne obveze, provedbu ovrhe i mjera osiguranja.
+(2) Osobe iz stavka 1. ovoga članka koje podatke vode u elektroničkom obliku dužne su ih na zahtjev službenika Porezne uprave dostaviti u elektroničkom obliku.
+(3) U vođenju poreznog postupka službenik Porezne uprave može od poreznog obveznika, druge osobe i nadležnih tijela tražiti obavijesti o njegovu poslovanju u tuzemstvu i inozemstvu, o njegovim pojedinim poslovima te o izvorima sredstava za nabavu poslovne i osobne imovine, a porezni obveznik, druge osobe i nadležna tijela dužni su tražene podatke dostaviti.
+(4) Službenik Porezne uprave može zatražiti od poreznog obveznika i drugih osoba usmeno davanje obavijesti iz stavaka 1. i 3. ovoga članaka i o tome sastaviti zabilješku, a porezni obveznik i druge osobe dužni su dati obavijesti.
+(5) O usmenoj obavijesti sastavit će se zabilješka koja mora sadržavati imena i prezimena nazočnih osoba, mjesto, dan i bitan sadržaj obavijesti, a potpisuju je službenik Porezne uprave i osoba koja daje obavijest. Osobi koja je dala usmenu obavijest može se na njezin zahtjev dati prijepis zabilješke.
+(6) Na traženje osobe koja je dužna dati obavijest zahtjev se mora podnijeti u pisanom obliku. U zahtjevu za davanje obavijesti treba navesti na koga i na što se ona odnosi.
+(7) Na traženje službenika Porezne uprave osobe iz stavka 1. ovoga članka dužne su dati obavijest u pisanom obliku u roku od osam dana od primitka zahtjeva za davanje obavijesti.
+(8) U poreznom postupku službenik Porezne uprave može koristiti obavijesti o činjenicama utvrđenima u jednom poreznom postupku, a koje mogu utjecati na utvrđivanje činjenica i okolnosti bitnih za oporezivanje drugoga poreznog obveznika.

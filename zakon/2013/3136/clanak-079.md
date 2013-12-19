@@ -1,0 +1,5 @@
+# Članak 79.
+(1) Radi praćenja pravilnosti utvrđivanja porezne osnovice i ispunjenja poreznih obveza Porezna uprava surađuje i razmjenjuje podatke s domaćim i inozemnim javnopravnim tijelima koja vode službene evidencije o osobama, djelatnostima, primicima i vlasništvu imovine (nekretnina, motornih vozila, plovila, zrakoplova, vrijednosnih papira, računa te ostale imovine).
+(2) Temeljem sklopljenih sporazuma o suradnji između nadležnih državnih tijela, ovlašteni službenici Porezne uprave dužni su inicirati organiziranje koordinativnih radnih sastanaka s predstavnicima drugih nadležnih državnih tijela, a koja u svom djelokrugu imaju suzbijanje gospodarskog kriminala te suzbijanje organiziranog kriminala i korupcije.
+(3) Domaća javnopravna tijela iz stavka 1. ovoga članka omogućit će Poreznoj upravi razmjenu te pravodobnu dostupnost podacima iz službenih evidencija uspostavljanjem sustava elektroničkog pristupa podacima, razmjenom podataka u realnom vremenu.
+(4) Radi ostvarivanja suradnje i razmjene podataka s javnopravnim tijelima iz stavka 1. ovoga članka Porezna uprava sklapa sporazume o suradnji te protokol o razmjeni podataka.

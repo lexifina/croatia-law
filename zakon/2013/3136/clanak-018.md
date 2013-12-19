@@ -1,0 +1,2 @@
+# Članak 18.
+Ovlašteni službenici Porezne uprave koji obavljaju poslove otkrivanja porezno kaznenih djela i poreznih prijevara, osim ovlasti iz članka 29. ovoga Zakona, ovlašteni su poduzimati i druge radnje i postupke propisane posebnim zakonima, radi prikupljanja podataka i dokaza koji mogu poslužiti u svrhu otkrivanja i sankcioniranja porezno-kaznenih djela te u podnošenju kaznenih prijava na odgovarajući način postupati sukladno odredbama Zakona o kaznenom postupku.
