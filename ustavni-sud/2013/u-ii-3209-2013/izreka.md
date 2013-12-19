@@ -1,0 +1,2 @@
+R J E Š E N J E
+Odbacuju se prijedlozi za pokretanje postupka za ocjenu suglasnosti s Ustavom i zakonom Odluke o uvođenju, praćenju i vrednovanju provedbe Kurikuluma zdravstvenog odgoja u osnovnim i srednjim školama klasa: 602/01-12-01/00431, ur. broj: 533-21-13-0006 od 31. svibnja 2013., koju je donio ministar znanosti, obrazovanja i sporta Republike Hrvatske, i njezinog sastavnog dijela: Kurikuluma zdravstvenog odgoja.
