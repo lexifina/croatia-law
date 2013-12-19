@@ -1,0 +1,2 @@
+# Članak 1.
+U Zakonu o provedbi Uredbe (EU) br. 211/2011 Europskog parlamenta i Vijeća od 16. veljače 2011. godine o građanskoj inicijativi (»Narodne novine«, br. 56/13. i 62/13.) u članku 1. iza riječi: »(SL L 65, 11. 03. 2011.)« dodaju se riječi: »kako je posljednji put izmijenjena Delegiranom uredbom Komisije (EU) br. 887/2013 od 11. srpnja 2013. godine kojom se zamjenjuju prilozi II. i III. Uredbe (EU) br. 211/2011 Europskog parlamenta i Vijeća o građanskoj inicijativi (SL L 247, 18. 09. 2013.)«.
