@@ -1,0 +1,8 @@
+# Članak 6.
+Iznad članka 54. naslov koji glasi: »2. Olakšice za područja posebne državne skrbi i brdsko-planinska područja« mijenja se i glasi: »2. Olakšice za potpomognuta područja i područje Grada Vukovara«.
+U članku 54. stavak 1. mijenja se i glasi:
+»(1) Rezidentima koji imaju prebivalište i borave na području jedinica lokalne samouprave razvrstanih u potpomognuta područja prema posebnom propisu o regionalnom razvoju Republike Hrvatske i na području Grada Vukovara utvrđenog prema posebnom propisu o obnovi i razvoju Grada Vukovara, iznimno od članka 36. stavka 1. ovoga Zakona, osnovni osobni odbitak utvrđuje se u visini:
+1. 3.200,00 kuna mjesečno, za porezne obveznike koji imaju prebivalište i borave na području jedinica lokalne samouprave razvrstanih u I. skupinu po stupnju razvijenosti prema posebnom propisu o regionalnom razvoju Republike Hrvatske i na području Grada Vukovara utvrđenog prema posebnom propisu o obnovi i razvoju Grada Vukovara,
+2. 2.700,00 kuna mjesečno, za porezne obveznike koji imaju prebivalište i borave na području jedinica lokalne samouprave razvrstanih u II. skupinu po stupnju razvijenosti prema posebnom propisu o regionalnom razvoju Republike Hrvatske.«.
+U stavku 2. riječi: »područjima posebne državne skrbi ili imaju prebivalište i borave na brdsko-planinskim područjima« zamjenjuju se riječima: »potpomognutim područjima i području Grada Vukovara iz stavka 1. ovoga članka«.
+U stavku 3. riječi: »područjima posebne državne skrbi ili imaju prebivalište i borave na brdsko-planinskim područjima« zamjenjuju se riječima: »potpomognutim područjima i području Grada Vukovara iz stavka 1. ovoga članka«.
