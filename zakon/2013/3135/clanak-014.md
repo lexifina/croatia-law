@@ -1,0 +1,10 @@
+## IV. PREKRŠAJNE ODREDBE
+# Članak 14.
+(1) Novčanom kaznom od 50.000,00 do 100.000,00 kuna kaznit će se za prekršaj pravna osoba ako:
+- proizvodi, stavlja na tržište i upotrebljava tvari navedene u Dodatku I. Uredbe (EZ) br. 850/2004, zasebno, u proizvodima ili kao sastavni dio proizvoda, izuzev primjene sukladno članku 4. Uredbe (EZ) br. 850/2004 (članak 3. stavak 1. Uredbe (EZ) br. 850/2004)
+- ne upravlja sa zalihama koje sadrže bilo koju od tvari iz Dodatka I. ili Dodatka II. Uredbe (EZ) br. 850/2004, zasebno ili u proizvodima kao da se radi o otpadu sukladno članku 7. Uredbe (EZ) br. 850/2004 (članak 5. stavak 1. Uredbe (EZ) br. 850/2004)
+- je posjednik otpada, a ne poduzme sve razumne mjere da, kada je to moguće, izbjegne onečišćenje toga otpada tvarima iz Dodatka IV. Uredbe (EZ) br. 850/2004 (članak 7. stavak 1. Uredbe (EZ) br. 850/2004)
+- je posjednik otpada, koji se sastoji, sadrži ili je onečišćen bilo kojom tvari iz Dodatka IV. Uredbe (EZ) br. 850/2004, a ne zbrine ili oporabi ga bez odlaganja u skladu s Dodatkom V. 1. dijelom Uredbe (EZ) br. 850/2004, na način koji osigurava da se sadržaj postojanih organskih onečišćujućih tvari uništi, odnosno nepovratno transformira, tako da preostali otpad i ispuštene tvari ne pokazuju svojstva postojanih organskih onečišćujućih tvari, osim u slučajevima propisanim odredbama članka 7. stavka 4. podstavaka a i b Uredbe (EZ) br. 850/2004 (članak 7. stavak 2. Uredbe (EZ) br. 850/2004)
+- provodi postupke kojima zbrinjava ili oporabljuje, odnosno provodi postupke koji mogu dovesti do oporabe, recikliranja, regeneracije ili ponovne uporabe tvari iz Dodatka IV. Uredbe (EZ) br. 850/2004 (članak 7. stavak 3. Uredbe (EZ) br. 850/2004).
+(2) Novčanom kaznom u iznosu od 7000,00 do 30.000,00 kuna kaznit će se za prekršaj iz stavka 1. ovoga članka fizička osoba i odgovorna osoba u pravnoj osobi.
+(3) Novčanom kaznom od 10.000,00 do 50.000,00 kuna kaznit će se i fizička osoba obrtnik i osoba koja obavlja drugu samostalnu djelatnost ako je prekršaj iz stavka 1. ovoga članka počinila u vezi s obavljanjem njezina obrta ili druge samostalne djelatnosti.

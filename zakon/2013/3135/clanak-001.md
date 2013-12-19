@@ -1,0 +1,14 @@
+## I. OPĆE ODREDBE
+## Svrha Zakona
+# Članak 1.
+Ovim se Zakonom utvrđuju nadležna tijela i zadaće nadležnih tijela za provedbu sljedećih akata Europske unije:
+- Uredbe (EZ) br. 850/2004 Europskoga parlamenta i Vijeća od 29. travnja 2004. o postojanim organskim onečišćujućim tvarima kojom se izmjenjuje i dopunjuje Direktiva 79/117/EEZ (SL L 158, 30. 4. 2004.) (u daljnjem tekstu: Uredba (EZ) br. 850/2004)
+- Uredbe Vijeća (EZ) br. 1195/2006 od 18. srpnja 2006. kojom se dopunjuje Dodatak IV. Uredbe (EZ) br. 850/2004 Europskoga parlamenta i Vijeća o postojanim organskim onečišćujućim tvarima (SL L 217, 8. 8. 2006.)
+- Uredbe Vijeća (EZ) br. 172/2007 od 16. veljače 2007. o izmjenama i dopunama Dodatka V. Uredbe (EZ) br. 850/2004 Europskoga parlamenta i Vijeća o postojanim organskim onečišćujućim tvarima (SL L 55, 23. 2. 2007.)
+- Uredbe Komisije (EZ) br. 323/2007 od 26. ožujka 2007. o izmjenama i dopunama Dodatka V. Uredbe (EZ) br. 850/2004 Europskoga parlamenta i Vijeća o postojanim organskim onečišćujućim tvarima te o izmjenama i dopunama Direktive 79/117/EEZ (SL L 85, 27. 3. 2007.)
+- Uredbe Europskoga parlamenta i Vijeća (EZ) br. 219/2009 od 11. ožujka 2009. o prihvaćanju brojnih instrumenata vezanih uz članak 251. Ugovora s Odlukom vijeća 1999/468/EZ vezano na regulatornu proceduru ispitivanja, prihvaćanje regulatorne procedure vezano uz ispitivanje - Drugi dio (SL L 87, 31. 3. 2007.)
+- Uredbe Komisije (EZ) br. 304/2009 od 26. ožujka 2007. o izmjenama i dopunama Dodataka IV. i V. Uredbe (EZ) br. 850/2004 Europskoga parlamenta i Vijeća vezano uz obradu otpada koji sadrži postojane organske onečišćujuće tvari iz toplinskih i metalurških proizvodnih procesa ili tretiranje/upravljanje otpada/otpadom koji sadrži postojane organske onečišćujuće tvari u termičkim i metalurškim proizvodnim procesima (SL L 96, 27. 3. 2007.)
+- Uredbe Komisije (EU) br. 756/2010 od 24. kolovoza 2010. koja dopunjuje Uredbu (EZ) br. 850/2004 Europskoga parlamenta i Vijeća od 29. travnja 2004. o postojanim organskim onečišćujućim tvarima vezano uz Dodatke IV. i V. (SL L 223, 25. 8. 2010.)
+- Uredbe Komisije (EU) br. 757/2010 od 24. kolovoza 2010. koja dopunjuje Uredbu (EZ) br. 850/2004 Europskoga parlamenta i Vijeća od 29. travnja 2004. o postojanim organskim onečišćujućim tvarima vezano uz Dodatke I. i III. (SL L 223, 25. 8. 2010.)
+- Uredbe Komisije (EU) br. 519/2012 od 19. lipnja 2012. koja dopunjuje Uredbu (EZ) br. 850/2004 Europskoga parlamenta i Vijeća od 29. travnja 2004. o postojanim organskim onečišćujućim tvarima vezano uz Dodatak I. (SL L 159, 20. 6. 2012.)
+- Odluke Komisije od 2. listopada 2007. o utvrđivanju zajedničkog obrasca za dostavu podataka i informacija u skladu s Uredbom (EZ) br. 850/2004 Europskoga parlamenta i Vijeća o postojanim organskim onečišćujućim tvarima (objavljeno pod brojem dokumenta C(2007) 4409) (2007/639/EZ) (SL L 258, 4. 10. 2007.).

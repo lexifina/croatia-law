@@ -1,0 +1,4 @@
+# Članak 15.
+(1) Novčanom kaznom od 50.000,00 do 100.000,00 kuna kaznit će se za prekršaj pravna osoba ako ne dostavi središnjem tijelu državne uprave nadležnom za zdravlje informacije o prirodi i veličini zalihe, mase veće od 50 kilograma, koja se sastoji ili sadrži bilo koju tvar iz Dodatka I. ili Dodatka II. Uredbe (EZ) br. 850/2004 čija je uporaba dozvoljena, sukladno članku 5. stavku 2. Uredbe (EZ) br. 850/2004.
+(2) Novčanom kaznom u iznosu od 7000,00 do 30.000,00 kuna kaznit će se za prekršaj iz stavka 1. ovoga članka fizička osoba i odgovorna osoba u pravnoj osobi.
+(3) Novčanom kaznom od 10.000,00 do 50.000,00 kuna kaznit će se i fizička osoba obrtnik i osoba koja obavlja drugu samostalnu djelatnost ako je prekršaj iz stavka 1. ovoga članka počinila u vezi s obavljanjem njezina obrta ili druge samostalne djelatnosti.
