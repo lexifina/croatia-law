@@ -1,0 +1,6 @@
+# Članak 10.
+(1) U roku od 30 dana od dana usklađenja akata iz članka 9. stavka 2. ovoga Zakona Služba će preuzeti poslove, zaposlenike koji obavljaju poslove koje Služba preuzima, opremu, pismohranu i drugu dokumentaciju, sredstva za rad, pokretnine, prava, obveze i financijska sredstva od trgovačkog društva Hrvatske šume d.o.o. koji se odnose na djelatnost koju obavlja Služba za šume šumoposjednika.
+(2) Preuzimanje poslova, zaposlenika, opreme, pismohrane i druge dokumentacije, sredstava za rad, pokretnina, prava i obveza i financijskih sredstava iz stavka 1. ovoga članka trgovačko društvo Hrvatske šume d.o.o. i Služba pobliže će urediti sporazumom, uz suglasnost ministra nadležnog za poljoprivredu.
+(3) Preuzetim zaposlenicima Služba će nakon usklađenja akata iz članka 9. stavka 2. ovoga Zakona ponuditi sklapanje ugovora o radu na koje se primjenjuje zakon kojim se uređuju plaće u javnim službama i opći propisi o radu, odnosno u skladu s njima sklopljeni kolektivni ugovori.
+(4) Do sklapanja novih ugovora o radu preuzeti zaposlenici nastavit će obavljati poslove utvrđene dosadašnjim ugovorima o radu te zadržavaju pravo na plaću i druga prava iz radnog odnosa te obveze i odgovornosti prema dosadašnjim ugovorima o radu.
+(5) Zaposlenicima koji odbiju sklapanje novih ugovora o radu prestat će radni odnos sukladno s propisima o radu.
