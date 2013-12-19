@@ -1,0 +1,2 @@
+# Članak 1.
+Ovom Odlukom uređuje se postupak provjere kriterija za izuzeće od obveze izrade analize koristi i troškova proizvodnih postrojenja za proizvodnju električne i toplinske energije koja se koriste kod vršnih opterećenja i postrojenja za proizvodnju rezervne električne energije za koja se planira da će raditi manje od 1500 radnih sati godišnje kao tekući prosjek u razdoblju od pet godina (u daljnjem tekstu: postrojenja), iz članka 15. stavka 13. točke 1. Zakona o tržištu toplinske energije (»Narodne novine«, broj 80/13).

@@ -1,0 +1,1 @@
+Na temelju članka 11. stavka 3. Zakona o regulaciji energetskih djelatnosti (»Narodne novine«, broj 120/12) te članka 15. stavka 14. Zakona o tržištu toplinske energije (»Narodne novine«, broj 80/13), Hrvatska energetska regulatorna agencija je na sjednici Upravnog vijeća održanoj 12. prosinca 2013. godine donijela

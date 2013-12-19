@@ -1,0 +1,1 @@
+Odluka o postupku provjere kriterija za izuzeće od obveze i izrade analize koristi i troškova proizvodnih postrojenja za proizvodnju električne i toplinske energije koja se koriste kod vršnih opterećenja i postrojenja za proizvodnju rezervne električne energije
