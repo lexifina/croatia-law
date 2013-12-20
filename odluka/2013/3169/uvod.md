@@ -1,0 +1,1 @@
+Na temelju članka 30a. Zakona o financiranju jedinica lokalne i područne (regionalne) samouprave (»Narodne novine« broj 117/93, 33/00, 73/00, 59/01, 107/01, 117/01, 150/02, 147/03, 73/08 i 25/12) i članka 32. Statuta Općine Antunovac (»Službeni glasnik Općine Antunovac« broj 2/13), Općinsko vijeće Općine Antunovac na svojoj 5. sjednici održanoj 4. prosinca 2013. godine, donosi
