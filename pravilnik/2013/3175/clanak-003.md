@@ -1,0 +1,8 @@
+## III. POVJERENSTVO ZA UTVRĐIVANJE REZERVI MINERALNIH SIROVINA
+# Članak 3.
+(1) Ocjenu Dokumentacije o rezervama mineralnih sirovina u skladu sa odredbom članka 55. stavka 1. Zakona o rudarstvu obavlja Povjerenstvo za utvrđivanje rezervi mineralnih sirovina ministarstva nadležnog za rudarstvo.
+(2) Predsjednika, zamjenika predsjednika, članove, tajnika i izvjestitelje Povjerenstva za utvrđivanje rezervi mineralnih sirovina ministarstva nadležnog za rudarstvo imenuje rješenjem ministar nadležan za rudarstvo iz redova ministarstva nadležnog za rudarstvo, znanstvenih i stručnih djelatnika.
+(3) Predsjednik, zamjenik predsjednika i tajnik Povjerenstva za utvrđivanje rezervi mineralnih sirovina ministarstva nadležnog za rudarstvo imenuju se iz redova ministarstva nadležnog za rudarstvo.
+(4) Sva pismena - primjerice: pozive, odluke, prijedloge, zaključke, rješenja, ugovorne odnose, zapisnike, očitovanja, pojašnjenja, mišljenja, koja se donose u radu i vezano za rad Povjerenstva za utvrđivanje rezervi mineralnih sirovina ministarstva nadležnog za rudarstvo potpisuje predsjednik ili zamjenik predsjednika.
+(5) Tajnik Povjerenstva za utvrđivanje rezervi mineralnih sirovina ministarstva nadležnog za rudarstvo izrađuje sva pismena iz stavka 4. ovoga članka i sudjeluje u radu Povjerenstva za utvrđivanje rezervi mineralnih sirovina ministarstva nadležnog za rudarstvo bez prava odlučivanja.
+(6) Izvjestitelji Povjerenstva za utvrđivanje rezervi mineralnih sirovina ministarstva nadležnog za rudarstvo sudjeluju u radu Povjerenstva za utvrđivanje rezervi mineralnih sirovina ministarstva nadležnog za rudarstvo bez prava odlučivanja.

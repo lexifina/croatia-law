@@ -1,0 +1,4 @@
+# Članak 9.
+(1) Nakon primitka izvješća iz članka 6. stavka 2. ovoga Pravilnika, predsjednik ili zamjenik predsjednika Povjerenstva za utvrđivanje rezervi mineralnih sirovina zaključkom određuje mjesto i vrijeme održavanja sjednice Povjerenstva za utvrđivanje rezervi mineralnih sirovina i o tome obavještava članove i izvjestitelja Povjerenstva za utvrđivanje rezervi mineralnih sirovina i Podnositelja zahtjeva.
+(2) Podnositelj zahtjeva dužan je osigurati nazočnost odgovornog voditelja izrade i po potrebi suradnika koji su sudjelovali u izradi Dokumentacije o rezervama mineralnih sirovina na sjednicama Povjerenstva za utvrđivanje rezervi mineralnih sirovina.
+(3) Predsjednik ili zamjenik predsjednika Povjerenstva za utvrđivanje rezervi mineralnih sirovina uz poziv na sjednicu Podnositelju zahtjeva dostavlja i po jedan primjerak pisanog izvješća izvjestitelja Povjerenstva za utvrđivanje rezervi mineralnih sirovina.
