@@ -1,0 +1,4 @@
+## VI. SADRŽAJ I OBLIK IZJAVE O OBAVLJENOJ PROVJERI RUDARSKIH PROJEKTA
+# Članak 11.
+(1) Temeljem zaključka Stručnog povjerenstva iz članka 10. stavka 3. ovoga Pravilnika, o prihvaćanju projektnih rješenja predviđenih rudarskim projektom glede racionalnog iskorištavanja mineralnih sirovina, mjera i normativa zaštite na radu, sigurnosti pogona i ljudi, podzemnih, površinskih i susjednih objekata, te usklađenosti s odredbama Zakona o rudarstvu, te drugim zakonima i propisima za njihovo provođenje, na rudarski projekt se stavlja izjava o obavljenoj provjeri rudarskog projekta, koju potpisuju svi članovi Stručnog povjerenstva.
+(2) Izjava iz stavka 1. ovoga članka stavlja se na naslovnu stranicu provjerenoga rudarskog projekta, iza popisa priloga i iza zaključka odgovornog projektanta rudarskog projekta.
