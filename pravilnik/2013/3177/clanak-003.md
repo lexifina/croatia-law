@@ -1,0 +1,4 @@
+# Članak 3.
+(1) Sigurnosna mjera obveznog psihijatrijskog liječenja provodi se se u zdravstvenim ustanovama koje obavljaju dijagnostiku i liječenje psihičkih bolesti i poremećaja.
+(2) Sigurnosna mjera obveznog liječenja radi zlouporabe sredstava ovisnosti i/ili ovisnosti o istima provodi se u zdravstvenim ustanovama koje obavljaju dijagnostiku i liječenje bolesti ovisnosti.
+(3) Sigurnosna mjera obveznog liječenja radi zlouporabe sredstava ovisnosti i/ili od ovisnosti o istima i obveznog psihijatrijskog liječenja (u daljnjem tekstu: sigurnosna mjera) može se provoditi u zavodima za javno zdravstvo jedinica područne (regionalne) samouprave (u daljnjem tekstu: zavodi) u djelatnosti zaštite mentalnog zdravlja, prevencije i izvanbolničkog liječenja ovisnosti, specijalnim bolnicama za psihijatriju, općim i kliničkim bolnicama te poliklinikama koje se bave zaštitom mentalnog zdravlja, liječenjem duševnih bolesti ili poremećaja i liječenjem bolesti ovisnosti.
