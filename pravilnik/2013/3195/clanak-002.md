@@ -1,0 +1,9 @@
+# Članak 2.
+Članak 16. mijenja se i glasi:
+»Ispitu iz nastavnog predmeta Upravljanje vozilom može pristupiti kandidat koji je završio osposobljavanje prema propisanom programu i ako je navršio broj godina potrebnih za izdavanje vozačke dozvole za kategoriju za koju se osposobio, nakon što mu je stručni voditelj autoškole u kojoj se osposobljavao potpisao i ovjerio u Knjižici kandidata za vozača.
+Kandidat za vozača vozila C1, C, D1, D ili H kategorije smije polagati vozački ispit ako ima važeću vozačku dozvolu B kategorije ili potvrdu o podnesenom zahtjevu za izdavanje vozačke dozvole u skladu s posebnim propisom.
+Kandidat za vozača vozila BE, C1E, CE, D1E ili DE kategorije smije polagati vozački ispit ako ima važeću vozačku dozvolu za onu kategoriju ili potvrdu o podnesenom zahtjevu za izdavanje vozačke dozvole, u koju spada vučno vozilo.
+Vozač koji namjerava upravljati kombinacijom vozila B kategorije i priključnim vozilom čija je najveća dopuštena masa veća od 750 kg, a u slučaju da je najveća dopuštena masa takve kombinacije vozila veća od 3.500 kg, a ne pelazi 4.250 kg, takvom kombinacijom smije upravljati samo nakon što je položio vozački ispit za tu kombinaciju vozila iz nastavnog predmeta Upravljanje vozilom.
+Iznimno, od stavka 2. ovoga članka kandidat za vozača može pristupiti polaganju vozačkog ispita, ako je navršio minimalnu starosnu dob za upravljanje vozilom C ili CE ili D ili DE kategorije uvjetovanu posjedovanjem početne kvalifikacije sukladno propisima.
+Osoba iz države članice Europskog gospodarskog prostora koja želi polagati vozački ispit za određenu kategoriju vozila, a pri tome posjeduje vozačku dozvolu određene kategorije izdanu u svojoj državi, mora imati valjanu vozačku dozvolu koju je izdala Republika Hrvatska ili potvrdu o podnesenom zahtjevu za izdavanje vozačke dozvole.
+Osoba koja ima status stranca može pristupiti polaganju vozačkog ispita i uz nazočnost ovlaštenog sudskog prevoditelja.«.
