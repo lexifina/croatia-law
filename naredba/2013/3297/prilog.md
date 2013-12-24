@@ -1,0 +1,1 @@
+| 157 24.12.2013 Naredba o iznosima osnovica za obračun doprinosa za obvezna osiguranja za 2014. godinu 157 24.12.2013 Naredba o iznosima osnovica za obračun doprinosa za obvezna osiguranja za 2014. godinu
