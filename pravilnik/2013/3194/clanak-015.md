@@ -1,0 +1,8 @@
+# Članak 15.
+(1) Ako se u postupku utvrdi da je štetnik štetu počinio namjerno ili krajnjom nepažnjom, Sud će donijeti odluku kojom će ga obvezati na naknadu štete.
+(2) Odluka kojom se štetnik obvezuje na naknadu štete isplatom određenoga novčanoga iznosa, osim podnositelju zaključka i štetniku dostavlja se i Upravi za informacijske sustave, financije i proračun.
+(3) Ako je šteta počinjena običnom nepažnjom, slučajem ili višom silom, Sud će donijeti odluku kojom se štetnik oslobađa od odgovornosti i obveze naknade štete, a knjiga manjkova i šteta se razdužuje.
+(4) Ako se u postupku utvrdi da za počinjenu štetu nije odgovorna vojna osoba protiv koje je postupak pokrenut nego neka druga vojna osoba, Sud će donijeti odluku kojom će vojnu osobu protiv koje je postupak pokrenut osloboditi od odgovornosti i obveze naknade štete, ali se knjiga manjkova i šteta neće razdužiti, nego će nadležnoj osobi naložiti da u roku od osam dana pokrene postupak protiv vojne osobe koja je počinila štetu.
+(5) Ako se u postupku utvrdi da je za počinjenu štetu odgovoran državni službenik ili namještenik, Sud će predmet vratiti podnositelju te ga uputiti da pokrene postupak za utvrđivanje odgovornosti u skladu sa Zakonom o državnim službenicima.
+(6) Ako se u postupku utvrdi da počinjenu štetu nije počinila vojna osoba protiv koje je postupak pokrenut nego civilna osoba, Sud će donijeti odluku kojom će postupak obustaviti te knjigu manjkova i šteta razdužiti, a predmet dostaviti Sektoru za pravne i upravne poslove na nadležno postupanje.
+2. Odlučivanje o naknadi štete u stegovnom postupku za stegovni prijestup
