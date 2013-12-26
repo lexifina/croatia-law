@@ -1,0 +1,5 @@
+# Članak 19.
+(1) Obveze za isplatu dokupljenih mirovina kojima upravlja društvo za dokup mirovine utvrđuju se sukladno važećim tablicama aktuarske matematike za izračun obveza u hrvatskom mirovinskom osiguranju na temelju generacijske solidarnosti uz prilagodbu za buduće produljenje očekivanog trajanja života. Društvo za dokup mirovine dužno je izračunavati obveze za isplatu dokupljenih mirovina svake godine. Izračun izrađuje i potvrđuje ovlašteni aktuar.
+(2) Ukupne obveze za isplatu dokupljenih mirovina kojim upravlja društvo za dokup mirovine mogu biti veće od vrijednosti pričuva za isplatu dokupljenih mirovina u razdoblju ne duljem od tri uzastopne godine.
+(3) Kada su obveze za isplatu dokupljenih mirovina u razdoblju duljem od tri uzastopne godine veće od imovine za isplatu tih mirovina, društvo za dokup mirovine mora u četvrtoj poslovnoj godini uplatiti razliku iz vlastitih izvora.
+(4) U svrhu pokrića obveza prema stavku 2. i 3. ovoga članka društvo za dokup mirovine uspostavlja i održava posebna sredstva pričuve, koja iznose najmanje 10 % pričuva za isplatu dokupljenih mirovina.

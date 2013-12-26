@@ -1,0 +1,4 @@
+# Članak 15.
+(1) Premija za financiranje dokupa mirovine određuje se u jednokratnoj svoti, na temelju izračuna razlike mirovine iz članka 14. stavka 1. ovoga Zakona, primjenom tablica aktuarske matematike važećih u hrvatskom obveznom mirovinskom osiguranju na temelju generacijske solidarnosti i drugih veličina koje se tom prigodom uzimaju u obzir.
+(2) Premija iz stavka 1. ovoga članka utvrđuje se i uplaćuje jednokratno i u cijelosti, ali poslodavac i društvo za dokup mirovine mogu ugovoriti njezinu obročnu uplatu za razdoblje koje ne može biti dulje od tri godine.
+(3) Ako ugovorena premija ne bude uplaćena u cijelosti prema stavku 2. ovoga članka, društvo za dokup mirovine isplaćivat će ugovorenu dokupljenu mirovinu sljedećih 12 mjeseci od dana dospijeća neuplaćenog obroka, a nakon toga nastaviti s isplatom dokupljene mirovine određene razmjerno stvarno uplaćenom iznosu premije.
