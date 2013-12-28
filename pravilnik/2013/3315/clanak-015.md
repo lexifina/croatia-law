@@ -1,0 +1,2 @@
+# Članak 15.
+Kandidat koji je prijavu za prijam u djelatnu vojnu službu podnio za vrijeme dragovoljnog vojnog osposobljavanja upućuje se na provjere, preglede i testiranja na koja nije bio upućen prije ili tijekom dragovoljnog vojnog osposobljavanje ili im je istekla valjanost propisana pravilnikom kojim se utvrđuju zdravstveni, psihički, tjelesni i sigurnosni uvjeti te oblici uvjerenja za prijam u djelatnu vojnu službu.
