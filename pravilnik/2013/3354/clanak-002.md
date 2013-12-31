@@ -1,0 +1,4 @@
+# Članak 2.
+U članku 22. iza stavka 11. dodaju se stavci 12. i 13. koji glase:
+»(12) Ako porezni obveznik u poslovnim knjigama iskazuje vrijednosno usklađenje dugotrajne imovine, navedene u članku 12. Zakona i ovom članku, u porezno priznate rashode uključuje se iznos koji bi bio utvrđen primjenom godišnjih amortizacijskih stopa iz članka 12. stavka 5. Zakona. Razlika između iznosa utvrđenog vrijednosnim usklađenjem dugotrajne imovine i iznosa utvrđenog primjenom propisanih amortizacijskih stopa iskazuje se kao povećanje porezne osnovice u Obrascu PD.
+(13) Porezni obveznik iz stavka 12. ovoga članka uz prijavu poreza na dobit dostavlja posebnu evidenciju o iznosima porezno priznatih rashoda amortizacije dugotrajne imovine utvrđene na način propisan člankom 12. Zakona i ovim člankom te iznose vrijednosnog usklađenja, od početka korištenja određene dugotrajne imovine.«.
