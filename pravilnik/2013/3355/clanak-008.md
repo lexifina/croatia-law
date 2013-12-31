@@ -1,0 +1,3 @@
+# Članak 8.
+U članku 52. iza stavka 6. dodaje se stavak 7. koji glasi:
+»(7) Iznimno od stavka 2. ovoga članka, fizička osoba koja je rezident države članice Europske unije ili Europskog gospodarskog prostora, osim Republike Hrvatske i u Republici Hrvatskoj ostvari dohodak prema članku 5. Zakona, može u godišnjem obračunu poreza na dohodak na temelju podnesene godišnje porezne prijave koristiti i osobni odbitak iz članka 36. stavka 2. Zakona, uz uvjet da vjerodostojnim ispravama dokaže da navedeni dohodak ostvaren u Republici Hrvatskoj čini najmanje 90% njezina ukupnog (svjetskog) dohotka ostvarenog u poreznom razdoblju i da je isti izuzet ili oslobođen oporezivanja u državi članici čiji je rezident.«.

@@ -1,0 +1,3 @@
+# Članak 2.
+U članku 5. iza stavka 6. dodaje se stavak 7. koji glasi:
+»(7) Iznimno od stavka 4. ovoga članka osnovica poreza na dohodak iz stavka 1. ovoga članka utvrđuje se za fizičke osobe koje su rezidenti država članica Europske unije i Europskog gospodarskog prostora, osim Republike Hrvatske i koji u Republici Hrvatskoj ostvare dohodak prema članku 5. Zakona koji čini najmanje 90% njihovog ukupnog (svjetskog) dohotka ostvarenog u poreznom razdoblju, a koji je izuzet ili oslobođen oporezivanja u državi članici čiji je rezident, prema načelu tuzemnog dohotka odnosno od ukupnog iznosa dohotka koji takva fizička osoba ostvari u tuzemstvu, umanjenog za osobni odbitak iz članka 36. Zakona.«.

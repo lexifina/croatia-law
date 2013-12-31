@@ -1,0 +1,3 @@
+# Članak 10.
+U članku 61. stavku 8. riječi: »područjima posebne državne skrbi, u Gradu Vukovaru ili brdsko-planinskim područjima« zamjenjuju se riječima: »potpomognutim područjima jedinica lokalne samouprave razvrstanih u I. i II. skupinu po stupnju razvijenosti i u Gradu Vukovaru«.
+U stavku 11. iza riječi: »diplomatski imunitet« dodaje se zarez i riječi: »osim ako diplomatsko ili konzularno predstavništvo strane države, međunarodna organizacija ili predstavništvo ili organizacija koja na teritoriju Republike Hrvatske ima diplomatski imunitet, na vlastiti zahtjev, preuzme obvezu obračunavanja, obustavljanja i plaćanja predujmova poreza na dohodak sukladno članku 45. stavku 8. Zakona«.

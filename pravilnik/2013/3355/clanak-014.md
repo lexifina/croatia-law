@@ -1,0 +1,9 @@
+# Članak 14.
+U članku 77. stavku 3. točki 6. riječi: »upisuje se 99999« zamijenjuju se riječima: »upisuju se prve dvije znamenke 99 te oznaka države rezidentnosti prema popisu koji se objavljuje na internet stranici Porezne uprave Republike Hrvatske«.
+U točki 10. iza riječi: »obvezna osiguranja« stavlja se zarez i dodaju riječi: »osim kod iskazivanja prava, odnosno isplate neoporezivog primitka po osnovi toga prava kada se upisuje oznaka korištenja prava, a koju poslodavac prikazuje samo ukoliko takvo pravo utječe na ukupan fond radnih sati u jednom mjesecu osiguranja«.
+U točki 15. riječi: »radi njege djeteta s teškoćama u razvoju« brišu se.
+U točki 17. podtočki 1.4. riječi: »isti se iskazuju« zamjenjuju se riječima: »isti se mogu iskazati«.
+Iza podtočke 1.6. dodaje se podtočka 1.7. koja glasi:
+« 1.7. kada osiguranik tijekom mjeseca kod istog poslodavca obavlja poslove zanimanja za koje se staž mirovinskog osiguranja računa s povećanim trajanjem i poslove zanimanja za koje se staž mirovinskog osiguranja ne računa s povećanim trajanjem, iskazuje se mjesec dana ili dio mjeseca (ukoliko u jednom mjesecu počinje i/ili završava razdoblje osiguranja po osnovi rada za tog poslodavca) za koji se primitak isplaćuje/obveza doprinosa obračunava i uplaćuje, pri čemu se zasebno iskazuju podaci koji se odnose na staž mirovinskog osiguranja s povećanim trajanjem, a zasebno podaci koji se odnose na staž mirovinskog osiguranja koji se ne računa s povećanim trajanjem. Ako unutar istog mjeseca postoji više takvih razdoblja, podaci se iskazuju u zbirnom iznosu za ona razdoblja unutar tog mjeseca za koja je obračunata istovrsna obveza doprinosa.«.
+U podtočki 2. riječi: »što se upisuje« brišu se, a riječi: »te se upisuje« zamjenjuju se riječima: »može se upisati«.
+U točki 40. iza riječi: »ovoga stavka« stavlja se zarez i dodaju riječi: »osim za oznake stjecatelja primitka/osiguranika iz Priloga 2. Stjecatelj primitka/osiguranik 5701-5799«.

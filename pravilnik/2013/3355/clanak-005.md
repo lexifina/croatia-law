@@ -1,0 +1,5 @@
+# Članak 5.
+U članku 16. stavku 3. točki 9. iza riječi: »pri davanju dionica« stavlja se zarez i dodaju riječi: »uključujući i dodjelu vlastitih dionica koje ne kotiraju na burzi ili uređenim javnim tržištima«.
+Iza točke 9. briše se točka, stavlja se zarez i dodaju točke 10. i 11. koje glase:
+»10. pri opcijskoj kupnji dionica - primitak od nesamostalnog rada je razlika između tržišne vrijednosti dionice i opcijskim ugovorom utvrđene cijene dionica koje poslodavac/isplatitelj plaće prodaje svojim radnicima odnosno osobama koje ostvaruju primitke iz članka 14. Zakona, ako je tržišna vrijednost viša u trenutku realizacije prava iz opcije. Realizacijom prava iz opcije smatra se trenutak kupnje dionica društva od strane vlasnika opcije (radnika odnosno osobe koja ostvaruje primitke iz članka 14. Zakona) ili trenutak prijenosa prava na kupnju dionica društva na treću osobu,
+11. pri dodjeli vlastitih dionica koje kotiraju na burzi ili uređenim javnim tržištima - primitak se utvrđuje u visini tržišne vrijednosti ili razlike između tržišne vrijednosti dodijeljenih dionica i plaćene naknade, ako se dionice stječu uz djelomičnu naknadu.«.

@@ -1,0 +1,11 @@
+# Članak 13.
+U članku 76. stavku 3. točki 1. riječi: »primitke po osnovi darovanja fizičkih osoba«, zamjenjuju se riječima: »primitke koje fizičke osobe ostvaruju po osnovi darovanja fizičkih osoba koje ne obavljaju samostalnu djelatnost iz članka 18. Zakona«.
+Iza točke 10. briše se točka, stavlja se zarez i dodaju točke 11., 12. i 13. koje glase:
+»11. potpore članovima sindikata povodom blagdana od strane sindikata iz sredstava sindikalne članarine u novcu ili naravi, te pomoći članovima sindikata kod podmirenja troškova organizacije sindikalnih sportskih igara iz sredstava sindikalne članarine koje sindikati organiziraju jednom godišnje za svoje članove,
+12. primitke od kamata na kunsku i deviznu štednju, na pologe (po viđenju i oročene) na žiroračunu, tekućem i deviznom računu koji su ostvareni od banaka, štedionica i štedno-kreditnih zadruga, iz članka 9. stavka 1. točke 1. Zakona,
+13. primitke od kamata po vrijednosnim papirima izdanim u skladu s posebnim zakonom, iz članka 9. stavka 1. točke 2. Zakona.«
+Stavak 8. mijenja se i glasi:
+»(8) Iznimno od stavaka 4. i 7. ovoga članka, izvješće iz stavka 1. ovoga članka isplatitelji primitaka od osiguranja stvari, odgovornosti, života i imovine iz članka 9. stavka 3. Zakona, podnose Poreznoj upravi zbirno godišnje izvješće za sve isplate (a koje se ne smatraju odštetom iz članka 9. stavka 2. točke 2.5. Zakona, odnosno naknadom štete) u tijeku poreznog razdoblja, po istoj osnovi, po pojedinoj fizičkoj osobi i to najkasnije do kraja veljače tekuće godine za prethodnu godinu.«.
+Iza stavka 8. dodaju se stavci 9. i 10. koji glase:
+»(9) Primicima iz stavka 8. ovoga članka, za potrebe izvješćivanja, smatraju se primici po osnovi osiguranja (osigurane svote), pripisane dobiti po određenoj polici i svi ostali primici koji su vezani uz policu osiguranja, a koje osiguravatelj isplaćuje osiguranoj osobi odnosno drugoj osobi (nasljednicima ili trećoj osobi ukoliko je tako ugovoreno policom osiguranja) po dospijeću ili prekidu police ili po nastupu osiguranog slučaja.
+(10) Podaci o primicima iz stavka 3. točaka 12. i 13. ovoga članka dostavljaju se i za rezidente Republike Hrvatske i rezidente zemalja izvan Europske unije, na način, prema vrstama i u roku kako je to propisano glavom IX. Općeg poreznog zakona, u ukupnom iznosu na godišnjoj razini po pojedinoj fizičkoj osobi.«.
