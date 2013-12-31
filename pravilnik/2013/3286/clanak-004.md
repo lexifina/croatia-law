@@ -1,0 +1,12 @@
+## Društva za osiguranje i društva za reosiguranje
+# Članak 4.
+1) Društva za osiguranje i društva za reosiguranje iz članka 2. stavka 1. točke 1. ovoga Pravilnika dužna su Agenciji platiti naknadu u visini od 0,6 ‰ (tisućinki) računano od iznosa zaračunate bruto premije osiguranja odnosno reosiguranja.
+2) Naknadu iz stavka 1. ovoga članka društva za osiguranje i društva za reosiguranje izračunavaju na temelju podataka o zaračunatoj bruto premiji za svaki mjesec tekuće godine.
+3) Društva za osiguranje i društva za reosiguranje naknadu izračunavaju primjenom sljedeće formule:
+zaračunatu bruto premiju pomnožiti s 0,6 ‰ (tisućinki)
+4) Izračunata naknada iz stavka 3. ovog članka mjesečni je iznos obveze plaćanja naknade Agenciji, a društva za osiguranje i društva za reosiguranje dužna su je uplatiti do 15. dana u mjesecu za prethodni mjesec.
+5) Društvo za osiguranje odnosno društvo za reosiguranje iz države članice koje neposredno obavlja poslove osiguranja odnosno poslove reosiguranja u Republici Hrvatskoj dužno je Agenciji platiti godišnju paušalnu naknadu u iznosu od 5.000,00 kuna, u roku od mjesec dana od završetka godine za koju se naknada obračunava.
+6) Društvo za osiguranje odnosno društvo za reosiguranje iz države članice koje u Republici Hrvatskoj obavlja poslove osiguranja odnosno poslove reosiguranja preko podružnice osnovane u Republici Hrvatskoj dužno je Agenciji platiti godišnju paušalnu naknadu u iznosu od 10.000,00 kuna, u roku od mjesec dana od završetka godine za koju se naknada obračunava.
+7) Strano društvo za osiguranje koje u Republici Hrvatskoj obavlja poslove osiguranja preko podružnice osnovane u Republici Hrvatskoj dužno je Agenciji platiti godišnju paušalnu naknadu u iznosu od 10.000,00 kuna, u roku od mjesec dana od završetka godine za koju se naknada obračunava.
+8) Društvo za osiguranje Švicarske Konfederacije koje u Republici Hrvatskoj obavlja poslove osiguranja preko podružnice osnovane u Republici Hrvatskoj dužno je Agenciji platiti godišnju paušalnu naknadu u iznosu od 10.000,00 kuna, u roku od mjesec dana od završetka godine za koju se naknada obračunava.
+Društva za zastupanje u osiguranju, obrti za zastupanje u osiguranju, društva za posredovanje u osiguranju i reosiguranju, banke, stambene štedionice, Financijska agencija i HP-Hrvatska pošta d.d. koji obavljaju poslove zastupanja u osiguranju
