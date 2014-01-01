@@ -1,0 +1,4 @@
+# Članak 43.
+(1) Samcu ili kućanstvu korisniku zajamčene minimalne naknade koji se grije na drva priznaje se pravo na troškove ogrjeva na način da mu se jednom godišnje osigura 3 m³ drva ili odobri novčani iznos za podmirenje tog troška u visini koju odlukom odredi nadležna jedinica područne (regionalne) samouprave, odnosno Grad Zagreb.
+(2) Odluku iz stavka 1. ovoga članka nadležna jedinica područne (regionalne) samouprave, odnosno Grad Zagreb donijet će najkasnije do 30. rujna za tekuću godinu.
+(3) Radi osiguranja sredstava za troškove ogrjeva iz stavka 1. ovoga članka, jedinica lokalne samouprave podnosi zahtjev s podacima o korisnicima zajamčene minimalne naknade koji se griju na drva nadležnoj jedinici područne (regionalne) samouprave najkasnije do rujna tekuće godine za sljedeću godinu.

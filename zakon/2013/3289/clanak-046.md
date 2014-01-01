@@ -1,0 +1,6 @@
+# Članak 46.
+(1) Jednokratna naknada priznaje se samcu ili kućanstvu koje zbog trenutačnih materijalnih teškoća nije u mogućnosti podmiriti osnovne životne potrebe nastale zbog rođenja ili školovanja djeteta, bolesti ili smrti člana obitelji, elementarne nepogode i slično.
+(2) Jednokratna naknada iz stavka 1. ovoga članka može se priznati zbog nabave osnovnih predmeta u kućanstvu ili nabave nužne odjeće i obuće ako ne postoji mogućnost da se nabava nužnih predmeta u kućanstvu i odjeće i obuće osigura u suradnji s humanitarnim organizacijama.
+(3) Jednokratna naknada priznaje se korisniku prava na smještaj u udomiteljsku obitelj koji je učenik osnovne ili srednje škole za kupnju obveznih školskih udžbenika, ako to pravo ne ostvaruje po drugoj osnovi.
+(4) Jednokratna naknada može se priznati korisnicima privremenog smještaja u kriznim situacijama radi naknade troškova prijevoza u mjesto prebivališta, vlastitu ili udomiteljsku obitelj, dom socijalne skrbi, kod drugog pružatelja usluge odnosno drugu ustanovu.
+(5) Centar za socijalnu skrb može iznimno priznati jednokratnu naknadu korisnicima usluge smještaja, odnosno organiziranog stanovanja u slučaju ako potreba iz stavka 1. ovoga članka nije zadovoljena u okviru usluge smještaja, organiziranog stanovanja ili naknade ostvarene po drugoj osnovi.

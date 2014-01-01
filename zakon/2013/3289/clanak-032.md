@@ -1,0 +1,3 @@
+# Članak 32.
+(1) Poljoprivredniku i članu njegovog kućanstva koji obavlja poljoprivrednu djelatnost kao jedino ili glavno zanimanje te na temelju poljoprivredne djelatnosti ima obvezno mirovinsko i zdravstveno osiguranje, prosječni mjesečni prihod iz članka 30. stavka 2. ovoga Zakona utvrđuje se prema poreznoj prijavi ili prema rješenju nadležne porezne uprave o godišnjem paušalnom iznosu poreza na dohodak.
+(2) Odredba stavka 1. ovoga članka ne primjenjuje se na poljoprivrednika samca starijeg od 65 godina života, kao ni na kućanstvo koje obavlja poljoprivrednu djelatnost kao jedino ili glavno zanimanje, čiji su svi članovi stariji od 65 godina života.

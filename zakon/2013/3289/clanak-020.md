@@ -1,0 +1,4 @@
+# Članak 20.
+(1) Korisnik prava u sustavu socijalne skrbi koji nije zadovoljan pruženom uslugom ili postupkom osoba koje obavljaju djelatnost socijalne skrbi može podnijeti pritužbu ravnatelju ili drugoj odgovornoj osobi u ustanovi socijalne skrbi, odgovornoj osobi u vjerskoj zajednici, drugoj pravnoj osobi koja pruža socijalnu uslugu, obrtniku odnosno drugoj fizičkoj osobi koja obavlja poslove socijalne skrbi.
+(2) Ravnatelj i druge odgovorne osobe pružatelja usluga iz stavka 1. ovoga članka dužne su bez odgađanja postupiti po pritužbi i pisanim putem obavijestiti korisnika o poduzetim mjerama najkasnije u roku od petnaest dana od dana podnošenja pritužbe.
+(3) Ako korisnik nije zadovoljan poduzetim mjerama, može Ministarstvu podnijeti pritužbu na rad pružatelja usluge. Ako je pritužba osnovana, Ministarstvo će dati upute pružatelju usluga kako treba postupiti i odrediti rok u kojem je pružatelj usluge dužan dostaviti obavijest o poduzetim radnjama.

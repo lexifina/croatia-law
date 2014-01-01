@@ -1,0 +1,4 @@
+# Članak 254.
+(1) Centar za socijalnu skrb može s korisnikom, odnosno s obveznikom povrata isplaćenog iznosa sklopiti nagodbu o načinu i vremenu povrata neosnovano ostvarenog iznosa novčane naknade, troška usluge ili naknade štete iz članka 251. ovoga Zakona, uvažavajući njegovo imovno stanje i socijalni položaj uz mogućnost odgode najduže za razdoblje od tri godine.
+(2) Korisnik odnosno obveznik povrata isplaćenog iznosa dužan je centru za socijalnu skrb dostavljati dokaze o izvršenim uplatama u skladu s nagodbom iz stavka 1. ovoga članka.
+(3) Centar za socijalnu skrb dužan je voditi evidenciju o sklopljenim nagodbama s podacima o imenu i prezimenu korisnika, odnosno obveznika povrata isplaćenog iznosa, iznosu duga, vremenu i načinu povrata te o tome do 15. siječnja svake godine za prethodnu godinu dostavljati izvješće Ministarstvu.

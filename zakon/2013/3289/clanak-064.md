@@ -1,0 +1,4 @@
+# Članak 64.
+(1) Iznimno, kada su roditelji djeteta s teškoćama u razvoju umrli ili nijedan od roditelja ne živi s djetetom i o njemu se ne brine, ili živi s djetetom ali nije u mogućnosti pružiti mu potrebnu njegu zbog svog psihofizičkog stanja, status njegovatelja može se priznati jednom od članova obitelji s kojim živi u obiteljskoj zajednici.
+(2) Pravo na status roditelja njegovatelja, umjesto roditelju, može se priznati i bračnom ili izvanbračnom drugu roditelja djeteta s teškoćama u razvoju ili osobe s invaliditetom iz članka 63. ovoga Zakona s kojim živi u obiteljskoj zajednici.
+(3) Ako u jednoroditeljskoj obitelji ima dvoje ili više djece s teškoćama u razvoju, odnosno osoba s invaliditetom, status roditelja njegovatelja iz članka 63. ovog Zakona može se priznati, osim roditelja, i jednom od članova obitelji s kojim živi u obiteljskoj zajednici.

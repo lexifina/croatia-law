@@ -1,0 +1,7 @@
+# Članak 195.
+(1) Jedinica područne (regionalne) samouprave, odnosno Grad Zagreb osniva savjet za socijalnu skrb, radi planiranja i razvoja mreže socijalnih usluga i ostvarivanja prava, obveza, mjera i ciljeva socijalne skrbi na svom području.
+(2) Savjet za socijalnu skrb u županiji osniva se odlukom skupštine jedinice područne (regionalne) samouprave, a savjet za socijalnu skrb Grada Zagreba odlukom Skupštine Grada Zagreba.
+(3) Broj članova savjeta za socijalnu skrb određuje se odlukom iz stavka 2. ovoga članka, a čine ga predstavnici jedinice područne (regionalne) i lokalne samouprave, centara za socijalnu skrb, domova socijalne skrbi, centara za pomoć u kući, korisnika, vjerskih zajednica te drugih pravnih osoba, obrtnika i drugih fizičkih osoba koje obavljaju djelatnost socijalne skrbi, ustanova iz područja obrazovanja, zdravstva, zapošljavanja, strukovnih komora i udruga te udruga za promicanje prava korisnika socijalne skrbi.
+(4) Savjet za socijalnu skrb predlaže socijalni plan skrbi za područje jedinice područne (regionalne) samouprave, odnosno Grada Zagreba, a donosi ga predstavničko tijelo jedinice područne (regionalne) samouprave, odnosno Grada Zagreba.
+(5) Socijalni plan obuhvaća analizu kapaciteta, dostupnost mreže socijalnih usluga i specifične ciljeve razvoja institucionalnih i izvaninstitucionalnih socijalnih usluga, s posebnim naglaskom na usluge za skupine u većem riziku od socijalne isključenosti.
+2. Standardi za pružanje socijalnih usluga

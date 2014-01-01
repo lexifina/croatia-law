@@ -1,0 +1,7 @@
+# Članak 260.
+(1) Novčanom kaznom u iznosu od 10.000,00 do 50.000,00 kuna kaznit će se za prekršaj pravna ili fizička osoba ako:
+1. započne s radom prije no što se rješenjem nadležnog tijela utvrdi da su ispunjeni propisani minimalni uvjeti za pružanje socijalnih usluga (članak 185. stavak 1.)
+2. nastavi s radom nakon što je pravomoćnim rješenjem nadležnog tijela utvrđen prestanak pružanja socijalnih usluga kao profesionalne djelatnosti (članak 187. stavak 9.) ili joj je zabranjen rad (članak 187. stavak 8. podstavak 2., članak 231. stavak 1. točke 2. i 4.)
+3. pruža usluge smještaja većem broju korisnika od kapaciteta utvrđenog rješenjem nadležnog tijela o ispunjavanju propisanih minimalnih uvjeta za pružanje socijalnih usluga (članak 185. stavak 1.)
+4. jedan ili više članova kućanstva sklope više od tri ugovora o doživotnom ili dosmrtnom uzdržavanju, a uzdržavanim osobama pružaju usluge stanovanja, prehrane, njege i brige o zdravlju te zadovoljavanje ostalih osnovnih životnih potreba, u svome stambenom ili poslovnom prostoru osobno, putem treće osobe ili zaposlenih radnika kod fizičke osobe ili radnika zaposlenih u pravnoj osobi koja je u vlasništvu davatelja uzdržavanja odnosno članova njegovog kućanstva, nisu pribavili rješenje o ispunjavanju minimalnih uvjeta za pružanje socijalnih usluga sukladno odredbama ovoga Zakona (članak 192. stavci 1. i 2.).
+(2) Za prekršaj iz stavka 1. ovoga članka kaznit će se i odgovorna osoba u pravnoj osobi novčanom kaznom u iznosu od 5000,00 do 20.000,00 kuna.

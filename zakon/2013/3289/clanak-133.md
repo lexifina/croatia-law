@@ -1,0 +1,4 @@
+# Članak 133.
+(1) Za ravnatelja centra za socijalnu skrb može biti imenovan hrvatski državljanin koji ima završen preddiplomski i diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij socijalnog rada, socijalne politike, prava, psihologije, socijalne pedagogije ili edukacijske rehabilitacije, najmanje pet godina radnog staža na stručnim poslovima u propisanom akademskom zvanju i akademskom stupnju u djelatnosti socijalne skrbi i položen stručni ispit te u odnosu na kojeg ne postoji zapreka iz članka 213. stavka 1. ovoga Zakona.
+(2) Ravnatelja centra za socijalnu skrb imenuje upravno vijeće na temelju javnog natječaja, uz prethodnu suglasnost ministra nadležnog za poslove socijalne skrbi.
+(3) Kandidat za ravnatelja koji je član upravnog vijeća ne može sudjelovati u raspravi i donošenju odluke o prijedlogu da se njega imenuje za ravnatelja centra za socijalnu skrb.

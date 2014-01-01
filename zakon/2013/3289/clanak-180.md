@@ -1,0 +1,3 @@
+# Članak 180.
+(1) Stranci mogu obavljati usluge savjetovanja u savjetovalištu iz članka 178. ovoga Zakona prema propisima koji uređuju rad stranaca u Republici Hrvatskoj ako, osim uvjeta iz članka 178. stavaka 2. i 3. ovoga Zakona, ispunjavaju uvjet znanja hrvatskog jezika najmanje na razini koja je potrebna za nesmetanu i nužnu komunikaciju s korisnikom usluge savjetovanja.
+(2) Uvjet znanja hrvatskog jezika iz stavka 1. ovoga članka ne odnosi se na fizičke osobe državljane država članica Europske unije i država ugovornica Ugovora o Europskom gospodarskom prostoru koji usluge savjetovanja u savjetovalištu pružaju izvan mreže socijalnih usluga.

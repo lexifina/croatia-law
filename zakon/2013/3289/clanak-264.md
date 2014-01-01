@@ -1,0 +1,4 @@
+## XVI. PRIJELAZNE I ZAVRŠNE ODREDBE
+# Članak 264.
+(1) Korisnik novčanih naknada, potpora i usluga priznatih na osnovi i pod uvjetima propisanima Zakonom o socijalnoj skrbi (»Narodne novine«, br. 73/97., 27/01., 59/01., 82/01., 103/03., 44/06. i 79/07.), Zakonom o socijalnoj skrbi (»Narodne novine«, br. 57/11.) ili Zakonom o socijalnoj skrbi (»Narodne novine«, br. 33/12., 46/13. i 49/13.) ostvaruje priznata prava i nakon dana stupanja na snagu ovoga Zakona, dok centar za socijalnu skrb, odnosno drugo nadležno tijelo rješenjem ne utvrdi ispunjava li korisnik uvjete za ostvarivanje prava po ovom Zakonu.
+(2) Centar za socijalnu skrb i drugo nadležno tijelo dužno je provesti postupak radi ponovnog utvrđivanja ispunjavanja uvjeta za priznanje prava u sustavu socijalne skrbi u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.

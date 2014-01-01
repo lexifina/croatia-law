@@ -1,0 +1,16 @@
+# Članak 131.
+(1) Centrom za socijalnu skrb upravlja upravno vijeće koje se imenuje na mandat od četiri godine. Upravno vijeće obavlja poslove u skladu s odredbama Zakona o ustanovama i statuta.
+(2) Upravno vijeće čine tri predstavnika osnivača, jedan predstavnik radnika zaposlen u centru za socijalnu skrb i jedan predstavnik jedinice područne (regionalne) samouprave, odnosno Grada Zagreba.
+(3) Predstavnici osnivača i predstavnik jedinice područne (regionalne) samouprave, odnosno Grada Zagreba, za čije područje se osniva centar za socijalnu skrb, moraju imati završen najmanje preddiplomski i diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij i radni staž na poslovima u djelatnosti socijalne skrbi, iznimno u drugoj društvenoj ili humanističkoj djelatnosti.
+(4) Predstavnike osnivača u upravno vijeće imenuje ministar nadležan za poslove socijalne skrbi. Predstavnika jedinice područne (regionalne) samouprave, odnosno predstavnika Grada Zagreba, imenuje ministar nadležan za poslove socijalne skrbi na prijedlog jedinice područne (regionalne) samouprave, odnosno Grada Zagreba.
+(5) Člana upravnog vijeća, predstavnika radnika zaposlenih u centru za socijalnu skrb, na mandat od četiri godine imenuje radničko vijeće, a ako ono nije utemeljeno, predstavnika radnika biraju radnici na slobodnim i neposrednim izborima, tajnim glasovanjem, sukladno posebnom propisu.
+(6) Predsjednika i zamjenika predsjednika upravnog vijeća biraju članovi upravnog vijeća između predstavnika osnivača.
+(7) Upravno vijeće donosi poslovnik o radu kojim se utvrđuje način rada. Upravno vijeće odluke donosi većinom glasova od ukupnog broja članova.
+(8) Ovlasti članova upravnog vijeća te druga pitanja rada upravnog vijeća osnivač utvrđuje aktom o osnivanju, odnosno statutom centra za socijalnu skrb u skladu sa zakonom.
+(9) Upravno vijeće centra za socijalnu skrb dužno je 90 dana prije isteka mandata obavijestiti osnivača o isteku mandata člana upravnog vijeća.
+(10) Član upravnog vijeća može biti razriješen i prije isteka mandata.
+(11) Odluku o razrješenju člana upravnog vijeća, predstavnika osnivača, donosi ministar nadležan za poslove socijalne skrbi, a odluku o razrješenju predstavnika jedinice područne (regionalne) samouprave, odnosno Grada Zagreba u upravnom vijeću donosi ministar nadležan za poslove socijalne skrbi, na prijedlog jedinice područne (regionalne) samouprave, odnosno Grada Zagreba.
+(12) Odlukom iz stavka 11. ovoga članka o razrješenju člana upravnog vijeća, predstavnika osnivača imenuje se novi član upravnog vijeća kojemu mandat traje do isteka mandata razriješenog člana upravnog vijeća.
+(13) Odlukom iz stavka 11. ovoga članka o razrješenju člana upravnog vijeća predstavnika jedinice područne (regionalne) samouprave, odnosno predstavnika Grada Zagreba, za čije područje se osniva centar za socijalnu skrb na prijedlog jedinice područne (regionalne) samouprave, odnosno Grada Zagreba, imenuje se novi član upravnog vijeća kojemu mandat traje do isteka mandata razriješenog člana upravnog vijeća.
+(14) Naknadu za rad članova upravnog vijeća centra za socijalnu skrb odlukom utvrđuje osnivač ako za tu namjenu centar za socijalnu skrb ima osigurana sredstva.
+1.1.2. Ravnatelj centra za socijalnu skrb

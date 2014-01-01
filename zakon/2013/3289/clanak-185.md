@@ -1,0 +1,5 @@
+# Članak 185.
+(1) Rješenje o ispunjavanju minimalnih uvjeta za pružanje socijalnih usluga (licenciju), na temelju nalaza povjerenstva iz članka 184. stavka 2. ovoga Zakona donosi Ministarstvo, osim rješenja o utvrđivanju minimalnih uvjeta za pružanje socijalnih usluga starijim i nemoćnim osobama, beskućnicima, usluga pomoći u kući te usluga koje pružaju fizičke osobe kao profesionalnu djelatnost, koje donosi jedinica područne (regionalne) samouprave, odnosno Grad Zagreb.
+(2) Protiv rješenja Ministarstva iz stavka 1. ovoga članka nije dopuštena žalba, ali se može pokrenuti upravni spor pred nadležnim upravnim sudom.
+(3) Protiv rješenja jedinice područne (regionalne) samouprave odnosno Grada Zagreba iz stavka 1. ovoga članka može se izjaviti žalba Ministarstvu.
+(4) Ako se tijekom obavljanja djelatnosti promijene uvjeti prostora u kojem pružatelj usluga obavlja djelatnost ili dio djelatnosti, ili ako se djelatnost za koju je pribavljeno rješenje iz stavka 1. ovoga članka proširuje ili mijenja, pružatelj usluga dužan je podnijeti zahtjev za izdavanje novog rješenja nadležnom tijelu iz stavka 1. ovoga članka.

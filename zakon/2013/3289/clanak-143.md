@@ -1,0 +1,3 @@
+# Članak 143.
+Za predstojnika podružnice može biti imenovan hrvatski državljanin koji ima završen preddiplomski i diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij socijalnog rada, socijalne politike, prava, psihologije, socijalne pedagogije ili edukacijske rehabilitacije, najmanje tri godine radnog staža na stručnim poslovima propisanog akademskog zvanja i akademskog stupnja u djelatnosti socijalne skrbi i položen stručni ispit te u odnosu na kojega ne postoji zapreka iz članka 213. stavka 1. ovoga Zakona.
+1.1.6. Evidencija i dokumentacija centra za socijalnu skrb

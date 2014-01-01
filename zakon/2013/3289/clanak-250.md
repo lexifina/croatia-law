@@ -1,0 +1,8 @@
+# Članak 250.
+(1) Za slučaj smrti korisnika zajamčene minimalne naknade ili usluge smještaja ili boravka, kojem su u cijelosti ili dijelom isplaćivani iznosi iz sredstava državnog proračuna, Republika Hrvatska ima pravo na povrat iznosa isplaćenih po osnovi priznatog prava od njegovih nasljednika do visine vrijednosti naslijeđene imovine.
+(2) Za slučaj da korisnik zajamčene minimalne naknade ili usluge smještaja ili boravka, kojem su u cijelosti ili dijelom isplaćivani iznosi iz sredstava državnog proračuna, darovanjem otuđi svoju imovinu, Republika Hrvatska ima pravo od daroprimca na povrat iznosa isplaćenih po osnovi priznatog prava.
+(3) Republika Hrvatska neće podići tužbu radi povrata iznosa iz stavaka 1. i 2. ovoga članka ako bi ostvarivanjem tražbine nasljednici i članovi njegove obitelji, te daroprimac i članovi njegove obitelji ostali bez imovine, odnosno prihoda potrebnog za podmirenje osnovnih stambenih i drugih osnovnih životnih potreba.
+(4) Republika Hrvatska ima pravo na povrat iznosa isplaćenih na ime zajamčene minimalne naknade i usluge smještaja ili boravka od osobe koja je po zakonu dužna uzdržavati korisnika, ako je tijekom ispitnog postupka koji je prethodio donošenju rješenja o priznavanju tog prava nedvojbeno dokazano da ga te osobe neosnovano ne uzdržavaju ili su neopravdano odbile njegovo uzdržavanje.
+(5) Zastarni rok za tražbine iz stavka 1. ovoga članka počinje teći od dana pokretanja ostavinskog postupka.
+(6) Zastarni rok za tražbine u smislu stavka 2. ovoga članka počinje teći od dana saznanja nadležnog centra za socijalnu skrb za darovanje.
+3. Naknada štete

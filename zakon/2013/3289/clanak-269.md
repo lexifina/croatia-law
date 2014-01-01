@@ -1,0 +1,2 @@
+# Članak 269.
+Domovi socijalne skrbi čiji je osnivač Republika Hrvatska i decentralizirani domovi za starije i nemoćne osobe čiji su osnivači jedinice područne (regionalne) samouprave i Grad Zagreb koji nisu pribavili rješenje o ispunjavanju uvjeta za pružanje socijalnih usluga u skladu s ranije važećim propisima, dužni su ga pribaviti u roku od godinu dana od dana stupanja na snagu pravilnika iz članka 184. stavka 1. ovoga Zakona.

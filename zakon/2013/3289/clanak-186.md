@@ -1,0 +1,17 @@
+# Članak 186.
+(1) Dom socijalne skrbi, centar za pružanje usluga u zajednici te centar za pomoć u kući, može početi s pružanjem socijalnih usluga nakon upisa u upisnik ustanova socijalne skrbi.
+(2) Pružatelj usluga iz stavka 1. ovoga članka dužan je uz zahtjev za upis u upisnik ustanova socijalne skrbi priložiti izvršno rješenje o ispunjavanju minimalnih uvjeta za pružanje socijalnih usluga (licenciju) i rješenje nadležnog trgovačkog suda o upisu u sudski registar.
+(3) Pravna osoba, odnosno obrtnik iz članka 169. ovoga Zakona može početi s pružanjem socijalnih usluga nakon upisa u evidenciju pravnih osoba, odnosno obrtnika koje pružaju socijalne usluge.
+(4) Fizička osoba iz članka 172. stavka 1. ovoga Zakona može početi s pružanjem socijalnih usluga nakon upisa u evidenciju fizičkih osoba koje profesionalno pružaju socijalne usluge.
+(5) Pružatelj usluga iz stavaka 3. i 4. ovoga članka dužan je uz zahtjev za upis u odgovarajuću evidenciju iz stavaka 3. i 4. ovoga članka priložiti izvršno rješenje o ispunjavanju minimalnih uvjeta za pružanje socijalnih usluga (licenciju).
+(6) Iznimno od stavaka 2. i 5. ovoga članka, pravne i fizičke osobe koje su u drugoj državi članici Europske unije ili drugoj državi ugovornici Ugovora o Europskom gospodarskom prostoru ispunile uvjete za pružanje socijalnih usluga, mogu pružati socijalne usluge izvan mreže koje se pružaju u obitelji korisnika u skladu s ovim Zakonom nakon upisa u upisnik ustanova socijalne skrbi odnosno evidenciju iz stavaka 3. i 4. ovoga članka.
+(7) Pravne i fizičke osobe iz stavka 6. ovoga članka, uz zahtjev za upis u upisnik ustanova socijalne skrbi, odnosno evidenciju iz stavaka 3. i 4. ovoga članka dužne su priložiti dokaz o ispunjavanju uvjeta za obavljanje socijalnih usluga iz stavka 6. ovoga članka sukladno propisima države u kojoj imaju poslovni nastan.
+(8) Pravne i fizičke osobe iz stavka 6. ovoga članka koje su u drugoj državi članici Europske unije ili drugoj državi ugovornici Ugovora o Europskom gospodarskom prostoru ispunile uvjete za pružanje socijalnih usluga, mogu socijalne usluge koje se pružaju u obitelji korisnika pružati izvan mreže u skladu s ovim Zakonom, bez obveze upisa u upisnik ustanova socijalne skrbi odnosno evidenciju iz stavaka 3. i 4. ovoga članka ako takve usluge ne pružaju trajno.
+(9) Pravne i fizičke osobe iz stavka 8. ovoga članka dužne su prije početka pružanja socijalnih usluga Ministarstvu dostaviti prethodnu pisanu izjavu o namjeri obavljanja djelatnosti socijalnih usluga.
+(10) Izjava iz stavka 9. ovoga članka sadrži sve bitne informacije o pružatelju socijalnih usluga te služi u svrhu informiranja i jednake dostupnosti svih subjekata koji obavljaju djelatnost socijalnih usluga na teritoriju Republike Hrvatske.
+(11) Izjava iz stavka 9. ovoga članka može se dostaviti i elektroničkim putem jedinstvenoj kontaktnoj točki za usluge koja je uspostavljena pri Hrvatskoj gospodarskoj komori.
+(12) Upisnik iz stavka 1. ovoga članka te evidencije iz stavaka 3. i 4. ovoga članka vodi Ministarstvo i javno objavljuje na mrežnoj stranici Ministarstva.
+(13) Sadržaj i način vođenja upisnika iz stavka 1. ovoga članka te evidencija iz stavaka 3. i 4. ovoga članka pravilnikom propisuje ministar nadležan za poslove socijalne skrbi.
+(14) Pružatelji usluga iz stavaka 1., 3. i 4. ovoga članka dužni su o početku, načinu i djelokrugu rada izvijestiti centar za socijalnu skrb na čijem području djeluju.
+5.2. Prestanak pružanja socijalnih usluga
+5.2.1. Razlozi prestanka pružanja socijalnih usluga

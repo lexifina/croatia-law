@@ -1,0 +1,6 @@
+# Članak 78.
+(1) Savjetovanje i pomaganje obitelji je socijalna usluga koja obuhvaća sve oblike stručne pomoći pri prevladavanju obiteljskih poteškoća i poteškoća roditelja u odgoju i skrbi za djecu, te osposobljavanje obitelji za funkcioniranje u svakodnevnom životu.
+(2) Savjetovanje i pomaganje obitelji uključuje podršku obitelji, intenzivnu podršku obitelji u krizi i dugoročni rad s članovima obitelji usmjeren na poboljšanje obiteljskih odnosa. Savjetovanje i pomaganje obitelji uključuje i psihološku pripremu djeteta za odlazak roditelja na izdržavanje kazne zatvora te za kontakte djeteta s roditeljem zatvorenikom u penalnoj ustanovi.
+(3) Usluga intenzivne podrške obitelji u krizi je savjetodavno-
+-terapijska i socijalno-edukativna usluga koja se pruža obitelji u krizi, kao i udomiteljskoj obitelji s ciljem unaprjeđivanja obiteljskih odnosa, prevladavanja kriznih situacija i usvajanja znanja i vještina za uspješno roditeljstvo odnosno udomiteljstvo.
+(4) Usluga iz stavka 3. ovoga članka provodi se nakon sveobuhvatne procjene obiteljskih rizika, snaga i potreba, u skladu s planom promjene i planom intervencija kojima se u vremenski ograničenom razdoblju od najduže šest mjeseci očekuje osnaživanje obitelji za promjenu i osposobljavanje roditelja za skrb o djeci u obitelji.

@@ -1,0 +1,4 @@
+# Članak 55.
+(1) Osobna invalidnina za osobu koja nema vlastiti prihod iznosi mjesečno 250% osnovice iz članka 27. stavka 2. ovoga Zakona.
+(2) Ako osoba iz članka 54. stavka 1. ovoga Zakona ostvaruje prihod po bilo kojoj osnovi, osobna invalidnina utvrđuje se kao razlika između iznosa iz stavka 1. ovoga članka i prosječnog prihoda ostvarenog u prethodna tri mjeseca prije mjeseca u kojem je podnesen zahtjev, odnosno u kojem je pokrenut postupak po službenoj dužnosti.
+(3) U prihod iz stavka 2. ovoga članka ne uračunava se zajamčena minimalna naknada, naknada za troškove stanovanja koja je ostvarena na temelju ovoga Zakona, mirovina do iznosa najniže, odnosno minimalne mirovine ostvarene za 40 godina mirovinskog staža, ortopedski dodatak, sredstva za uzdržavanje koje dijete ostvaruje na temelju propisa o obiteljskim odnosima i doplatak za djecu.

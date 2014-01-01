@@ -1,0 +1,5 @@
+# Članak 255.
+(1) Centar za socijalnu skrb može na prijedlog korisnika, odnosno obveznika povrata isplaćenog iznosa odlučiti da se njegov dug po osnovi povrata isplaćenog iznosa, odnosno naknade štete iz članka 251. ovoga Zakona djelomično ili u cijelosti otpiše, uvažavajući njegovo imovinsko stanje i socijalni položaj.
+(2) Ako dug korisnika, obveznika povrata isplaćenog iznosa, odnosno naknade štete iz članka 251. ovoga Zakona koji se otpisuje iznosi 10.000,00 kuna ili više, centar za socijalnu skrb može na prijedlog korisnika, odnosno obveznika povrata isplaćenog iznosa odlučiti da se dug djelomično ili u cijelosti otpiše, samo uz prethodnu suglasnost Ministarstva.
+(3) Centar za socijalnu skrb dužan je voditi evidenciju o otpisu potraživanja korisnicima, odnosno obveznicima povrata isplaćenog iznosa s podacima o imenu i prezimenu korisnika, odnosno obveznika povrata isplaćenog iznosa, iznosu ukupnog duga i iznosu duga koji se otpisuje te o tome do 15. siječnja svake godine za prethodnu godinu dostavljati izvješće Ministarstvu.
+5. Povrat nepripadajuće naknade

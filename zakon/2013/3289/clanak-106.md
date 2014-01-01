@@ -1,0 +1,5 @@
+# Članak 106.
+(1) Ako je u postupku prije donošenja rješenja o pravima u sustavu socijalne skrbi ili drugim pravima po posebnim propisima, potrebno utvrditi činjenice vezane za zdravstveno stanje propisane kao uvjet za priznavanje prava po ovom Zakonu ili po posebnim propisima, centar za socijalnu skrb ili drugo nadležno tijelo će zatražiti nalaz i mišljenje prvostupanjskog tijela vještačenja.
+(2) Ako se žalbom pobija prvostupanjsko rješenje o pravima iz socijalne skrbi, odnosno drugim pravima po posebnim propisima u svezi s nalazom i mišljenjem tijela vještačenja u prvom stupnju, Ministarstvo ili drugo nadležno tijelo drugog stupnja, prije donošenja rješenja o žalbi može pribaviti nalaz i mišljenje drugostupanjskog tijela vještačenja.
+(3) Tijela vještačenja iz stavaka 1. i 2. ovoga članka odlukom osniva ministar nadležan za poslove socijalne skrbi.
+(4) Sastav i način rada tijela vještačenja iz stavka 1. ovoga članka, sadržaj potrebne medicinske dokumentacije, sadržaj nalaza i mišljenja i obrasce za rad tijela vještačenja propisuje pravilnikom ministar nadležan za poslove socijalne skrbi u suradnji s ministrom nadležnim za zdravstvo.

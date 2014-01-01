@@ -1,0 +1,2 @@
+# Članak 150.
+Predstavnici osnivača u upravnom vijeću doma kojem je osnivač Republika Hrvatska ili jedinica lokalne i područne (regionalne) samouprave moraju imati najmanje završen preddiplomski i diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij i radni staž na poslovima u djelatnosti socijalne skrbi, iznimno u drugoj društvenoj ili humanističkoj djelatnosti.
