@@ -1,0 +1,3 @@
+# Članak 35.
+(1) Stupanjem na snagu ovoga Zakona prestaje važiti Uredba o osnivanju Središnjeg registra osiguranika (»Narodne novine«, br. 101/99. i 83/12.) i članak 21. stavci 1. i 2. Zakona o prikupljanju podataka po osiguranicima o doprinosima za obvezna mirovinska osiguranja (»Narodne novine«, br. 177/04. i 90/11.).
+(2) Do stupanja na snagu odluke iz članka 27. stavka 3. ovoga Zakona, naknada za obavljanje poslova iz članka 27. stavka 1. ovoga Zakona određuje se u iznosu od 2,50 kuna mjesečno po članu obveznog mirovinskog fonda. Obračun naknade obavlja se na dnevnoj osnovi, a račun se ispostavlja mjesečno.

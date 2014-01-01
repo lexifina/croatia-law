@@ -1,0 +1,4 @@
+# Članak 19.
+(1) REGOS podatke iz članka 14. točke 8. ovoga Zakona, za doprinos za mirovinsko osiguranje na temelju individualne kapitalizirane štednje te doprinos za mirovinsko osiguranje na temelju generacijske solidarnosti, povezuje s odgovarajućim podacima o uplatama, iz članka 18. ovoga Zakona, po osiguranicima i drugim osobama, sukladno posebnim propisima.
+(2) Za uplaćena sredstva doprinosa za mirovinsko osiguranje temeljem individualne kapitalizirane štednje u vezi s prijenosom sredstava na privremeni račun i prosljeđivanja povezanih iznosa doprinosa u obvezne mirovinske fondove i društva primjenjuju se odredbe propisa kojima je regulirano to područje.
+(3) Način, rokovi povezivanja podatka te evidentiranje i izvješćivanje o povezanim podacima i raspored nepovezanih uplata iz članka 31. stavka 6. ovoga Zakona propisuje pravilnikom ministar nadležan za mirovinski sustav, u suradnji s ministrom nadležnim za financije.
