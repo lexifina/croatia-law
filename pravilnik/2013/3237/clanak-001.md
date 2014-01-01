@@ -1,0 +1,3 @@
+# Članak 1.
+U Pravilniku o načinu i rokovima obavješćivanja Ureda za sprječavanje pranja novca o sumnjivim transakcijama i osobama te vođenju evidencija od strane odvjetnika, odvjetničkih društava, javnih bilježnika, revizorskih društava i samostalnih revizora te pravnih i fizičkih osoba koje obavljaju računovodstvene poslove i poslove poreznog savjetovanja (»Narodne novine«, br. 1/09) članak 3. stavak 1. mijenja se i glasi:
+»(1) Podatke o sumnjivim transakcijama i osobama obveznici dostavljaju Uredu na Obrascu za obavješćivanje o sumnjivim transakcijama i osobama od strane profesionalnih djelatnosti (UZSPN-O-54/2013) koji zajedno s privitkom Obrascu i Uputom za popunjavanje obrasca čini sastavni dio ovog Pravilnika.«

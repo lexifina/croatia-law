@@ -1,0 +1,1 @@
+Pravilnik o izmjenama Pravilnika o načinu i rokovima obavješćivanja Ureda za sprečavanje pranja novca o sumnjivim transakcijama i osobama te vođenju evidencija od strane odvjetnika, odvjetničkih društava, javnih bilježnika, revizorskih društava i samostalnih revizora te pravnih i fizičkih osoba koje obavljaju računovodstvene poslove i poslove poreznog savjetovanja

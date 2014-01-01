@@ -1,0 +1,3 @@
+# Članak 2.
+Prilog 1. (Obrazac za obavješćivanje Ureda za sprječavanje pranja novca o sumnjivim transakcijama i osobama od strane profesionalnih djelatnosti i uputa o načinu popunjavanja obrasca za obavješćivanje ureda za sprječavanje pranja novca o sumnjivim transakcijama od strane odvjetnika, odvjetničkog društva, javnog bilježnika, revizorskog društva, samostalnog revizora te pravne i fizičke osobe koja obavlja računovodstvene poslove i poslove poreznog savjetovanja) mijenja se i glasi:
+Obrazac za obavješćivanje Ureda za sprječavanje pranja novca o sumnjivim transakcijama i osobama od strane profesionalnih djelatnosti
