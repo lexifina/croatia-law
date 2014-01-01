@@ -1,0 +1,3 @@
+# Članak 73.
+U članku 198. stavak 1. mijenja se i glasi:
+»(1) Isporuke dobara i usluga te stjecanje dobara koja se financiraju iz pretpristupnih programa i Programa Unije sklopljenima prije 1. srpanja 2013., godine oslobođene su plaćanja PDV-a. Oslobođenje od plaćanja PDV-a za projekte iz komponenata IPA II. Prekogranična suradnja programi sa Slovenijom i Mađarskom, IPA lll. - Regionalni razvoj te IPA IV. - Razvoj ljudskih potencijala primjenjuje se na sve postupke nabave koje je provedbeno tijelo (provedbena agencija) pokrenula do 30. lipnja 2013. te na sve postupke nabave koje provodi korisnik projekta temeljem glavnog ugovora sklopljenog sa provedbenim tijelom.«.

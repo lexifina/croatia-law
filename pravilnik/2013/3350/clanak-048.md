@@ -1,0 +1,6 @@
+# Članak 48.
+Članak 150. mijenja se i glasi:
+»(1) PDV prema članku 75. stavku 1. točki 6. Zakona treba plaćati svaki porezni obveznik ili pravna osoba koja nije porezni obveznik, a registrirana je za potrebe PDV-a, kojoj usluge iz članka 17. stavka 1. Zakona obavlja porezni obveznik koji nema sjedište, prebivalište ili uobičajeno boravište u tuzemstvu, nego u drugoj državi članici ili trećoj zemlji.
+(2) Osoba iz članka 75. stavka 2. Zakona koja plaća PDV je osoba registrirana za potrebe PDV-a u tuzemstvu. Osoba registrirana za potrebe PDV-a u tuzemstvu obvezna je platiti PDV, ako joj isporuke dobara i usluga za koje je mjesto oporezivanja u tuzemstvu obavi porezni obveznik koji nema sjedište, prebivalište ili uobičajeno boravište u tuzemstvu.
+(3) PDV prema članku 75. stavku 2. Zakona plaćaju i osobe iz članka 6. stavka 5. Zakona koje su registrirane za potrebe PDV-a, odnosno kojima je dodijeljen PDV identifikacijski broj, ako im isporuke dobara ili usluga obavlja porezni obveznik koji nema sjedište, prebivalište ili uobičajeno boravište u tuzemstvu.
+(4) Poreznim obveznikom iz članka 75. stavka 2. Zakona koji nema sjedište, prebivalište ili uobičajeno boravište u tuzemstvu smatra se porezni obveznik sa sjedištem, prebivalištem ili uobičajenim boravištem u drugoj državi članici Europske unije, odnosno u trećoj zemlji.«.
