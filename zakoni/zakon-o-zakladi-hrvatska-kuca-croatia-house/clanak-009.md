@@ -1,0 +1,2 @@
+# Članak 9.
+Član Upravnog odbora ili drugog tijela Zaklade ne može glasovati niti odlučivati o pitanjima u kojima on, njegov bračni drug, njegov usvojitelj ili usvojenik, njegov srodnik po krvi u pravoj liniji ili u pobočnoj liniji do četvrtog stupnja te njegov srodnik po tazbini do drugog stupnja, ima imovinski interes, kao ni o pitanjima koja se odnose na pravnu osobu čiji je on član, u kojoj je zaposlen, u čijem upravljanju sudjeluje, ili u kojoj ima imovinski interes.
