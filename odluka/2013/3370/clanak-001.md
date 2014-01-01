@@ -1,0 +1,2 @@
+# Članak 1.
+U Odluci o ograničenju ulaganja kreditnih institucija u kapital nefinancijskih institucija i materijalnu imovinu (»Narodne novine«, br. 1/2009., 75/2009. i 67/2013.) naziv Odluke mijenja se i glasi »Odluka o provedbi Uredbe (EU) br. 575/2013 u dijelu kojim se uređuju ulaganja kreditnih institucija u kvalificirane udjele izvan financijskog sektora i o ograničenju ulaganja kreditnih institucija u materijalnu imovinu«.
