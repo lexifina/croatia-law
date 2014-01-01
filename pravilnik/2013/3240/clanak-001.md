@@ -1,0 +1,3 @@
+# Članak 1.
+U Pravilniku o proglašavanju turističkih općina i gradova i o razvrstavanju naselja u turističke razrede (»Narodne novine«, broj 122/09., 9/10. - isp., 61/10., 82/10., 36/11., 89/11., 146/11., 141/12., 144/12. i 38/13.) u Tabeli I, u točki VIII. PRIMORSKO-GORANSKA ŽUPANIJA u popisu općina, za općinu Vinodolska općina, u popisu razreda, razred C mijenja se u razred B, a u popisu naselja dodaje se naselje Drivenik s pripadajućim razredom C.
+U točki XVIII. ISTARSKA ŽUPANIJA u popisu općina, za općinu Marčana, u popisu razreda, razred D mijenja se u razred C, a u popisu naselja, naselja Divšići i Kavran, brišu se.
