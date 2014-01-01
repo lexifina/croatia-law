@@ -1,0 +1,1 @@
+Na temelju članka 50. stavka 3. Zakona o deviznom poslovanju (»Narodne novine«, br. 96/03, 140/05, 132/06, 150/08, 92/09, 133/09 - Zakon o platnom prometu, 153/09, 145/10 i 76/13, u daljnjem tekstu: Zakon), ministar financija donosi
