@@ -1,0 +1,2 @@
+# Članak 45.
+Nadležni ured državne uprave u jedinici područne (regionalne) samouprave, odnosno nadležno upravno tijelo Grada Zagreba donijet će rješenja o prestanku isplate prava na doplatak za pripomoć u kući, u svim upravnim predmetima u kojima je ovo pravo priznato sukladno odredbama Zakona o zaštiti vojnih i civilnih invalida rata (»Narodne novine«, br. 33/92., 57/92., 77/92., 27/93., 58/93., 2/94., 76/94., 108/95., 108/96., 82/01. i 103/03.).
