@@ -1,0 +1,3 @@
+# Članak 14.
+U članku 14. stavak 3. mijenja se i glasi:
+»(3) Informacije iz stavka 2. ovog članka trebaju najmanje sadržavati odgovarajuće informacije o izloženosti pojedinim rizicima, uključujući informacije o profilu rizičnosti i njegovim promjenama, podatke o značajnim internim gubicima, informacije o mjerama i aktivnostima koje se namjeravaju poduzeti ili jesu poduzete radi ovladavanja rizikom, informacije o prekoračenju limita i ostalim iznimkama od postupanja u skladu s internim aktima, uključujući i iznimke od utvrđene sklonosti preuzimanju rizika te informacije o pozitivnim i negativnim promjenama u pokazateljima poslovanja koje upućuju ili mogu upućivati na promjenu izloženosti riziku.«.
