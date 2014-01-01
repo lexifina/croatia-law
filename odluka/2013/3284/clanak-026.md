@@ -1,0 +1,3 @@
+# Članak 26.
+Posebni standard primjenjuje se na timove koji se nalaze se na području koje ostvaruje pravo na poseban standard i čija su sredstva osnovom broja opredijeljenih osiguranih osoba veća od godišnje novčane vrijednosti koju ostvaruje standardni tim ugovoren u djelatnosti osnovom broja opredijeljenih osiguranih osoba.
+Dodatna sredstva za timove iz stavka 1. ovog članka utvrđuju se kao razlika iznosa za plaćanje po dijagnostičko terapijskim postupcima utvrđenog u skladu s odredbama Odluke o ugovaranju i iznosa za plaćanje po dijagnostičko terapijskim postupcima koji utvrđuje posebno povjerenstvo iz članka 2. ove Odluke.
