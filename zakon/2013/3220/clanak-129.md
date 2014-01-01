@@ -1,0 +1,6 @@
+# Članak 129.
+(1) Sastavni dio idejnog projekta za lokacijsku dozvolu kojom se određuje formiranje građevne čestice ili smještaj jedne ili više građevina na građevnoj čestici uz nacrte i dokumente iz članka 128. stavka 1. ovoga Zakona je i geodetski projekt.
+(2) Geodetskim projektom prikazuje se smještaj jedne ili više građevina na građevnoj čestici te oblik i veličina građevne čestice čije se formiranje određuje lokacijskom dozvolom.
+(3) Geodetski projekt izrađuje se kao zasebni dio idejnog projekta.
+(4) Na temelju geodetskog projekta koji je sastavni dio idejnog projekta koji je sastavni dio lokacijske dozvole međusobno se usklađuje stanje u katastru, zemljišnoj knjizi i naravi, ako je to potrebno te se provodi formiranje građevne čestice u katastru, iskolčenje građevine i evidentiranje građevine u katastru, bez izrade dodatnih snimaka i elaborata te izdavanja potvrda, propisanih posebnih propisima koji uređuju državnu izmjeru i katastar.
+(5) Geodetski projekt smatra se u smislu posebnih propisa kojima se uređuje državna izmjera i katastar nekretnina parcelacijskim elaboratom, odnosno drugim geodetskim elaboratom na temelju kojega se u katastru provodi evidentiranje i promjena podataka u pogledu katastarskih čestica zgrada i drugih građevina.

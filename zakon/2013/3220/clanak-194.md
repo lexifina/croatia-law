@@ -1,0 +1,3 @@
+# Članak 194.
+(1) Zavod za prostorno uređenje županije, Zavod za prostorno uređenje Grada Zagreba, odnosno zavod za prostorno uređenje velikog grada ustrojen na temelju Zakona o prostornom uređenju i gradnji (»Narodne novine«, br. 76/07., 38/09., 55/11., 90/11., 50/12. i 55/12.), nastavlja s radom kao zavod za prostorno uređenje županije, Zavod za prostorno uređenje Grada Zagreba, odnosno zavod za prostorno uređenje velikog grada prema ovom Zakonu.
+(2) Županije i Grad Zagreb dužni su uskladiti akte o osnivanju i statute zavoda za prostorno uređenje županije, odnosno Grada Zagreba u skladu s ovim Zakonom u roku od tri mjeseca od dana stupanja na snagu ovoga Zakona.

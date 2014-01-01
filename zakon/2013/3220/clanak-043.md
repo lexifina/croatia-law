@@ -1,0 +1,7 @@
+# Članak 43.
+(1) Na zemljištu poljoprivredne namjene, zemljištu namijenjenom šumi i šumskom zemljištu te izdvojenom građevinskom području izvan naselja, određenom Državnim planom prostornog razvoja ne može se prostornim planom županije, Prostornim planom Grada Zagreba i prostornim planom uređenja grada, odnosno općine, određivati (planirati niti proširivati) građevinsko područje niti određivati namjena.
+(2) Na izdvojenom građevinskom području izvan naselja određenom prostornim planom županije ne može se prostornim planom uređenja grada, odnosno općine određivati (planirati niti proširivati) građevinsko područje niti određivati druga namjena.
+(3) Nova izdvojena građevinska područja izvan naselja mogu se određivati prostornim planom grada, odnosno općine i Prostornim planom Grada Zagreba samo ako su postojeća izdvojena građevinska područja izvan naselja izgrađena 50% ili više svoje površine.
+(4) Građevinska područja naselja mogu se proširivati samo ako je postojeće područje izgrađeno 50% ili više svoje površine.
+(5) Ako je ispunjen uvjet iz stavka 3., odnosno 4. ovoga članka građevinska područja izvan naselja, odnosno građevinska područja naselja mogu se povećati do 30% njihove površine.
+(6) Izdvojeno građevinsko područje izvan naselja za koje u roku od pet godina od dana njegova određivanja nije donesen urbanistički plan uređenja ili do kojega nije izgrađena osnovna infrastruktura, prestaje biti građevinsko područje.

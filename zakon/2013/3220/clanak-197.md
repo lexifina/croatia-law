@@ -1,0 +1,5 @@
+# Članak 197.
+(1) Do stupanja na snagu pravilnika, odnosno uredbe koji se donose na temelju ovlasti iz ovoga Zakona, u dijelu u kojem nisu u suprotnosti s odredbama ovoga Zakona, ostaju na snazi:
+1. Pravilnik o sadržaju, mjerilima kartografskih prikaza, obveznim prostornim pokazateljima i standardu elaborata prostornih planova (»Narodne novine«, br. 106/98., 39/04., 45/04. - ispravak i 163/04.) u dijelu kojim se propisuju pravna pravila koja se odnose na sadržaj, mjerila kartografskih prikaza, obvezne prostorne pokazatelje i standard elaborata prostornih planova i
+2. Pravilnik o mjerama zaštite od elementarnih nepogoda i ratnih opasnosti u prostornom planiranju i uređivanju prostora (»Narodne novine«, br. 29/83., 36/85. i 42/86.).
+(2) Iznimno od stavka 1. ovoga članka pravilnici iz tog stavka u dijelu u kojem nisu u suprotnosti s odredbama ovoga Zakona u odnosu na dokumente prostornog uređenja donesene na temelju propisa koji su važili prije stupanja na snagu ovoga Zakona i njihove izmjene i/ili dopune donesene nakon stupanja na snagu ovoga Zakona ostaju na snazi do prestanka važenja tih dokumenata, ako ovim Zakonom nije propisano drukčije.

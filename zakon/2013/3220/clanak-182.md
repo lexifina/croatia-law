@@ -1,0 +1,3 @@
+# Članak 182.
+(1) Ministarstvo rješenjem naređuje upravnom tijelu, stručnom upravnom tijelu, Zavodu, zavodu, pravnoj osobi s javnim ovlastima, osobi koje obavlja stručne poslove prostornog uređenja, ovlaštenom arhitektu, odnosno ovlaštenom inženjeru otklanjanje nezakonitosti koja se utvrdi u provedbi nadzora te rok za njeno otklanjanje.
+(2) Nepostupanje po rješenju iz stavka 1. ovoga članka iz neopravdanog razloga je teška povreda službene dužnosti čelnika upravnog tijela, čelnika stručnog upravnog tijela, ravnatelja Zavoda, ravnatelja zavoda, odgovorne osobe u pravnoj osobi s javnim ovlastima, odnosno teža povreda dužnosti i ugleda ovlaštenog arhitekta, odnosno ovlaštenog inženjera.

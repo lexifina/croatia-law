@@ -1,0 +1,3 @@
+# Članak 183.
+(1) Ako tijelo jedinice lokalne i područne (regionalne) samouprave, upravno tijelo, stručno upravno tijelo, zavod, pravna osoba s javnim ovlastima, osoba koja obavlja stručne poslove prostornog uređenja, odnosno ovlašteni arhitekt ili ovlašteni inženjer ne postupi po rješenju Ministarstva iz članka 181. stavka 2., odnosno članka 182. stavka 1. ovoga Zakona na izvršenje će se ga prisiliti novčanom kaznom.
+(2) U svrhu prisile na izvršenje rješenja tijela jedinice lokalne i područne (regionalne) samouprave, upravnog tijela i stručnog upravnog tijela, novčana kazna iz stavka 1. ovoga članka se izriče jedinici lokalne, odnosno područne (regionalne) samouprave čije je to tijelo.

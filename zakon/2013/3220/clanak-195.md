@@ -1,0 +1,3 @@
+# Članak 195.
+(1) Upravna tijela županija i velikih gradova nadležna za stručne i upravne poslove prostornog uređenja ustrojena na temelju Zakona o prostornom uređenju i gradnji (»Narodne novine«, br. 76/07., 38/09., 55/11., 90/11., 50/12. i 55/12.) do dana stupanja na snagu ovoga Zakona, nastavljaju s radom kao upravna tijela, odnosno stručna upravna tijela županija i velikih gradova prema ovom Zakonu.
+(2) Upravna tijela gradova na koje je županija sukladno posebnom zakonu prenijela nadležnost za obavljanje upravnih poslova prostornog uređenja do dana stupanja na snagu ovoga Zakona, nastavljaju s radom i imaju djelokrug i ovlasti upravnog tijela velikog grada određene ovim Zakonom.

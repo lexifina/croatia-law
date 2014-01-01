@@ -1,0 +1,3 @@
+# Članak 159.
+(1) Građevna čestica određuje se u skladu s prostornim planom, a ako to nije moguće tada u skladu s pravilima struke, vodeći računa da se građevna čestica utvrdi tako da oblikom i veličinom omogućava redovitu uporabu građevine.
+(2) Iznimno od stavka 1. ovoga članka građevna čestica zgrade koja ima više samostalnih uporabnih cjelina (stanova, poslovnih prostora, garaža i sl.) i/ili funkcionalnih jedinica (hotelskih soba, apartmana i sl.), a koja je planirana, projektirana i/ili izgrađena tako da s više svojih strana graniči s površinom javne namjene, određuje se kao zemljište koje je ispod te zgrade.

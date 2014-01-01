@@ -1,0 +1,4 @@
+# Članak 156.
+(1) Dokaz o izjavljivanju žalbe, odnosno pokretanju upravnog spora protiv rješenja kojim se odbija izdavanje potvrde podnositelj zahtjeva je u roku od deset dana od dana izjavljivanja žalbe, odnosno pokretanja upravnog spora dužan dostaviti upravnom tijelu, odnosno Ministarstvu koje u tom slučaju postupak izdavanja dozvole za promjenu namjene i uporabu građevine prekida do donošenja odluke o žalbi, odnosno tužbi.
+(2) Tijelo nadležno za odlučivanje o žalbi dužno je upravnom tijelu, odnosno Ministarstvu radi znanja dostaviti odluku o žalbi protiv rješenja o odbijanju izdavanja potvrde.
+(3) Ako podnositelj zahtjeva ne postupi u skladu sa stavkom 1. ovoga članka ili protiv rješenja o odbijanju izdavanja potvrde ne izjavi žalbu, odnosno ne pokrene upravni spor, zahtjev za izdavanje dozvole za promjenu namjene i uporabu građevine se odbija.

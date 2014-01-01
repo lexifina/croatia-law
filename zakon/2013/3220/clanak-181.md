@@ -1,0 +1,3 @@
+# Članak 181.
+(1) Upravna tijela, stručna upravna tijela, Zavod, zavodi, pravne osobe s javnim ovlastima, osobe koje obavljaju stručne poslove prostornog uređenja te ovlašteni arhitekti i ovlašteni inženjeri dužni su Ministarstvu u svrhu provedbe nadzora omogućiti pristup njihovim službenim prostorijama i dostaviti sve zatražene podatke, dokumente i izvješća u zatraženom roku.
+(2) Ako upravno tijelo, stručno upravno tijelo, Zavod, zavod, pravna osoba s javnim ovlastima, osoba koja obavlja stručne poslove prostornog uređenja, ovlašteni arhitekt ili ovlašteni inženjer ne postupi po traženju Ministarstva iz stavka 1. ovoga članka, na ispunjenje zatraženog ga se poziva rješenjem.

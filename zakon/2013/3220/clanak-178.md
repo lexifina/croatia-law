@@ -1,0 +1,4 @@
+# Članak 178.
+(1) Vlasnik nekretnine na području na kojemu postoji pravo prvokupa koji namjerava prodati ovu nekretninu dužan je putem javnog bilježnika ili na drugi odgovarajući način istu ponuditi na prodaju nositelju prava prvokupa i priopćiti mu cijenu i uvjete prodaje.
+(2) Ako nositelj prava prvokupa kojemu je stavljena ponuda ne izjavi u roku od šezdeset dana od dana priopćenja ponude da prihvaća ponudu, vlasnik nekretnine može istu prodati drugom, ali samo pod istim uvjetima ili za višu cijenu.
+(3) Kada se prema uvjetima prodaje cijena treba u cijelosti ili djelomice isplatiti u novcu, izjava o prihvaćanju ponude može imati učinak samo ako nositelj prava prvokupa kome je stavljena ponuda vlasniku nekretnine ili kod javnog bilježnika, odnosno nadležnog suda deponira cijeli iznos koji se prema ponudi treba isplatiti u novcu.

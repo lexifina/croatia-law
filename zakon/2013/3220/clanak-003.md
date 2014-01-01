@@ -1,0 +1,44 @@
+## Pojmovi
+# Članak 3.
+(1) Pojedini pojmovi u smislu ovoga Zakona te propisa i akata koji se donose na temelju ovoga Zakona, imaju sljedeće značenje:
+1. etapno građenje je građenje pojedinih građevina od kojih se sastoji složena građevina određenih lokacijskom dozvolom, a za koje se građevine izdaju posebne građevinske dozvole
+2. fazno građenje je građenje građevine po njezinim dijelovima određenim lokacijskom dozvolom, a za koje se dijelove izdaju posebne građevinske dozvole
+3. građevinska (bruto) površina zgrade je zbroj površina mjerenih u razini podova svih dijelova (etaža) zgrade (Po, S, Pr, K, Pk) određenih prema vanjskim mjerama obodnih zidova s oblogama u koje se ne uračunava površina dijela potkrovlja i zadnje etaže svijetle visine manje od 2,00 m te se ne uračunava površina lođa, vanjskih stubišta, balkona, terasa, prolaza i drugih otvorenih dijelova zgrade
+4. građevna čestica je u načelu jedna katastarska čestica čiji je oblik, smještaj u prostoru i veličina u skladu s prostornim planom te koja ima pristup na prometnu površinu sukladan prostornom planu, ako ovim Zakonom nije propisano drukčije
+5. građevine javne i društvene namjene su građevine namijenjene obavljanju djelatnosti u području društvenih djelatnosti (odgoja, obrazovanja, prosvjete, znanosti, kulture, sporta, zdravstva i socijalne skrbi), radu državnih tijela i organizacija, tijela i organizacija lokalne i područne (regionalne) samouprave, pravnih osoba s javnim ovlastima i udruga građana i vjerskih zajednica
+6. građevinsko zemljište je zemljište koje je izgrađeno, uređeno ili prostornim planom namijenjeno za građenje građevina ili uređenje površina javne namjene
+7. građevinsko područje je područje određeno prostornim planom na kojemu je izgrađeno naselje i područje planirano za uređenje, razvoj i proširenje naselja, a sastoji se od građevinskog područja naselja, izdvojenog dijela građevinskog područja naselja i izdvojenog građevinskog područja izvan naselja
+8. infrastruktura su komunalne, prometne, energetske, vodne, pomorske, komunikacijske, elektroničke komunikacijske i druge građevine namijenjene gospodarenju s drugim vrstama stvorenih i prirodnih dobara
+9. izdvojeno građevinsko područje izvan naselja je područje određeno prostornim planom kao prostorna cjelina izvan građevinskog područja naselja planirana za sve namjene, osim za stambenu
+10. izdvojeni dio građevinskog područja naselja je odvojeni dio postojećega građevinskog područja istog naselja nastao djelovanjem tradicijskih, prostornih i funkcionalnih utjecaja, određen prostornim planom
+11. izgrađeni dio građevinskog područja je područje određeno prostornim planom koje je izgrađeno
+12. javnopravna tijela su tijela državne uprave, druga državna tijela, upravni odjeli, odnosno službe velikih gradova, Grada Zagreba i županija nadležni za obavljanje poslova iz određenih upravnih područja, pravne osobe koje imaju javne ovlasti te druge osobe, određene posebnim zakonima, koja davanjem zahtjeva i mišljenja u postupku izrade i donošenja prostornih planova i/ili utvrđivanjem posebnih uvjeta, odnosno potvrđivanjem idejnog projekta na način propisan ovim Zakonom sudjeluju u sustavu prostornog uređenja
+13. katastar je katastar zemljišta, odnosno katastar nekretnina
+14. katastarski ured je područni ured za katastar Državne geodetske uprave, odnosno Gradski ured za katastar i geodetske poslove Grada Zagreba
+15. komunalna infrastruktura su građevine namijenjene opskrbi pitkom vodom, odvodnji i pročišćavanju otpadnih voda, održavanju čistoće naselja, sakupljanju i obradi komunalnog otpada, te ulična rasvjeta, tržnice na malo, groblja, krematoriji i površine javne namjene u naselju
+16. lokacijski uvjeti su kvantitativni i kvalitativni uvjeti i mjere za provedbu zahvata u prostoru koji se na temelju prostornog plana i posebnih propisa određuju lokacijskom dozvolom ili građevinskom dozvolom
+17. ministar je čelnik središnjeg tijela državne uprave nadležnog za poslove prostornog uređenja
+18. Ministarstvo je središnje tijelo državne uprave nadležno za poslove prostornog uređenja
+19. namjena prostora, površina, zemljišta, odnosno građevina je planirani sustav korištenja prostora, površina, zemljišta, odnosno uporabe građevina, određena, odnosno propisana prostornim planom
+20. neizgrađeni dio građevinskog područja je područje određeno prostornim planom planirano za daljnji razvoj
+21. neuređeni dio građevinskog područja je neizgrađeni dio građevinskog područja određen prostornim planom na kojemu nije izgrađena planirana osnovna infrastruktura
+22. osnovna infrastruktura je prometna površina preko koje se osigurava pristup do građevne čestice, odnosno zgrade, javno parkiralište, građevine za odvodnju otpadnih voda i niskonaponska elektroenergetska mreža
+23. obalna crta je crta plimnog vala na obali
+24. obuhvat prostornog plana je prostorna ili administrativno određena cjelina za koju se donosi ili je donesen prostorni plan
+25. prostorno planiranje kao interdisciplinarna djelatnost je institucionalni i tehnički oblik za upravljanje prostornom dimenzijom održivosti, kojom se na temelju procjene razvojnih mogućnosti u okviru zadržavanja osobnosti prostora, zahtjeva zaštite prostora, te očuvanja kakvoće okoliša i prirode, određuje namjena prostora/površina, uvjeti za razvoj djelatnosti i infrastrukture te njihov razmještaj u prostoru, uvjeti za urbanu preobrazbu i urbanu sanaciju izgrađenih područja te uvjeti za ostvarivanje planiranih zahvata u prostoru
+26. posebni uvjeti su uvjeti za provedbu zahvata u prostoru koje u slučaju propisanom posebnim propisom u svrhu provedbe tog propisa javnopravno tijelo utvrđuje na način propisan ovim Zakonom, osim uvjeta koji se utvrđuju u postupku procjene utjecaja zahvata na okoliš i u postupku ocjene prihvatljivosti zahvata za ekološku mrežu
+27. površina javne namjene je svaka površina čije je korištenje namijenjeno svima i pod jednakim uvjetima (javne ceste, nerazvrstane ceste, ulice, biciklističke staze, pješačke staze i prolazi, trgovi, tržnice, igrališta, parkirališta, groblja, parkovne i zelene površine u naselju, rekreacijske površine i sl.)
+28. prometna površina je površina javne namjene, površina u vlasništvu vlasnika građevne čestice ili površina na kojoj je osnovano pravo služnosti prolaza u svrhu pristupa do građevne čestice
+29. prostor je sastav fizičkih sklopova na površini te ispod i iznad zemlje i mora, do kojih dopiru ili mogu doprijeti utjecaji djelovanja ljudi
+30. prostorni standardi su skup uvjeta zaštite, uređenja i korištenja prostora koji se primjenjuju u izradi prostornih planova
+31. prostorni planovi su Državni plan prostornog razvoja, prostorni planovi područja posebnih obilježja, urbanistički plan uređenja državnog značaja, prostorni plan županije, Prostorni plan Grada Zagreba, urbanistički plan uređenja županijskog značaja, prostorni plan uređenja grada, odnosno općine, generalni urbanistički plan i urbanistički plan uređenja
+32. stručno upravno tijelo je upravni odjel, odnosno služba općine, grada, velikog grada, Grada Zagreba, odnosno županije nadležna za obavljanje stručnih poslova prostornog uređenja
+33. upravno tijelo je upravni odjel, odnosno služba velikog grada, Grada Zagreba, odnosno županije, nadležna za obavljanje upravnih poslova prostornog uređenja
+34. urbana preobrazba je skup planskih mjera i uvjeta kojima se bitno mijenjaju obilježja izgrađenog dijela građevinskog područja promjenom urbane mreže javnih površina, namjene i oblikovanja građevina, i/ili rasporeda, oblika i veličine građevnih čestica
+35. urbana sanacija je skup planskih mjera i uvjeta kojima se poboljšava karakter izgrađenog dijela građevinskog područja i urbane mreže javnih površina devastiranih nezakonitim građenjem
+36. veliki grad je veliki grad i grad u kojem je sjedište županije određeni prema posebnom zakonu
+37. vrsnoća izgrađenog prostora je opći interes koji se osigurava provedbom dokumenta »Arhitektonske politike Republike Hrvatske 2013.-2020., ApolitikA, Nacionalne smjernice za vrsnoću i kulturu građenja«, prilikom izrade prostornih planova i projekata na temelju ovoga Zakona i posebnog zakona kojim se uređuje građenje
+38. zahvat u prostoru je svako građenje građevine, rekonstrukcija postojeće građevine i svako drugo privremeno ili trajno djelovanje ljudi u prostoru kojim se uređuje ili mijenja stanje u prostoru
+39. zahtjevi za izradu prostornog plana su prijedlozi, podaci, planske smjernice, propisani dokumenti i drugi akti s kojima javnopravna tijela prema posebnom propisu sudjeluju u izradi prostornog plana ili koji se prema tim propisima koriste u postupku izrade plana.
+(2) Pojmovi uporabljeni u ovom Zakonu imaju značenje određeno posebnim zakonom kojim se uređuje područje gradnje te drugim posebnim zakonom koji su od utjecaja na prostorno uređenje, ako ovim Zakonom nije propisano drukčije.
+(3) Izrazi koji u ovom Zakonu imaju rodno značenje koriste se neutralno i odnose se na muške i ženske osobe.

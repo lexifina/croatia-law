@@ -1,0 +1,4 @@
+## Lokacijska dozvola i rješenja Ministarstva
+# Članak 190.
+(1) Lokacijska dozvola izdana na temelju Zakona o prostornom uređenju (»Narodne novine«, br. 30/94., 68/98., 61/00., 32/02. i 100/04.) odnosno Zakona o prostornom uređenju i gradnji (»Narodne novine«, br. 76/07., 38/09., 55/11., 90/11., 50/12. i 55/12.) može se mijenjati, dopunjavati, ukinuti i/ili poništiti pod istim uvjetima kao i lokacijska dozvola donesena na temelju ovoga Zakona.
+(2) U slučaju kada je protiv rješenja Ministarstva donesenog na temelju Zakona o prostornom uređenju (»Narodne novine«, br. 30/94., 68/98., 61/00., 32/02. i 100/04.), odnosno Zakona o prostornom uređenju i gradnji (»Narodne novine«, br. 76/07., 38/09., 55/11., 90/11., 50/12. i 55/12.) ili donesenog u vezi s tim zakonom pokrenut upravni spor, Ministarstvo može do okončanja spora poništiti ili izmijeniti svoje rješenje iz onih razloga iz kojih bi sud mogao poništiti takvo rješenje.

@@ -1,0 +1,8 @@
+## Državni plan prostornog razvoja, uredbe i pravilnici
+# Članak 196.
+(1) Državni plan prostornog razvoja donijet će se najkasnije u roku od dvije godine od dana stupanja na snagu ovoga Zakona.
+(2) Vlada je dužna donijeti uredbu iz članka 37. i članka 56. stavka 2. ovoga Zakona u roku od devedeset dana od dana stupanja na snagu ovoga Zakona.
+(3) Ministar je dužan donijeti pravilnike iz članka 40. stavka 2., članka 56. stavka 3. i članka 133. stavka 1. ovoga Zakona u roku od devedeset dana od dana stupanja na snagu ovoga Zakona, a naputak iz članka 5. stavka 1. ovoga Zakona kojim se propisuje sustav provedbe postupaka i izrade akata koji se donose na temelju ovoga Zakona elektroničkim putem u roku od dvanaest mjeseci od dana stupanja na snagu ovoga Zakona.
+(4) Ravnatelj Državne geodetske uprave dužan je donijeti pravilnik iz članka 133. stavka 2. ovoga Zakona u roku od devedeset dana od dana stupanja na snagu ovoga Zakona.
+(5) Državna geodetska uprava dužna je granice i područje prostora ograničenja ucrtati na Hrvatsku osnovnu kartu (HOK) dopunjenu ortofotokartama u roku od devedeset dana od dana stupanja na snagu ovoga Zakona. Do ispunjenja ove obveze granice i područje zaštićenog obalnog područja mora prikazane na Hrvatskoj osnovnoj karti (HOK) dopunjenoj ortofotokartama smatra se granicama i područjem prostora ograničenja.
+(6) Ovlašćuje se Vlada za donošenje uredbe kojom će se za potrebe provedbe ovoga Zakona i drugih zakona urediti način procjene vrijednosti nekretnina, način prikupljanja podataka i njihovu evaluaciju, a ministar za donošenje pravilnika kojim se razrađuju metode procjena nekretnina i druga pitanja s tim u vezi.

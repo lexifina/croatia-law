@@ -1,0 +1,3 @@
+# Članak 171.
+(1) Vlasnik građevinskog zemljišta unutar granica građevinskog područja dužan je prije dobivanja lokacijske dozvole, prenijeti jedinici lokalne samouprave u vlasništvo dio tog zemljišta koje je prostornim planom određeno za građenje komunalne infrastrukture koja služi njegovoj građevnoj čestici ili građevini koja će se izgraditi na toj čestici.
+(2) Vlasnik građevinskog zemljišta unutar granica građevinskog područja dužan je prije dobivanja lokacijske dozvole s jedinicom lokalne samouprave ili drugom ovlaštenom osobom sklopiti ugovor o osnivanju služnosti provoza i/ili prolaza ili druge služnosti na svojoj građevnoj čestici ili građevini koja će na njoj biti izgrađena za korist komunalne infrastrukture kada je to prema prostornom planu potrebno.

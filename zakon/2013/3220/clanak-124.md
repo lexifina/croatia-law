@@ -1,0 +1,4 @@
+## Odluka o koncesiji prema posebnom propisu
+# Članak 124.
+(1) Odluka o koncesiji koja se donosi prema posebnom propisu koja obuhvaća provedbu zahvata u prostoru može se donijeti ako je taj zahvat planiran prostornim planom, a što tijelo koje priprema dodjelu koncesije utvrđuje uvidom u lokacijsku informaciju ili na drugi način propisan posebnim propisom.
+(2) Iznimno od stavka 1. ovoga članka, odluka o provedbi javnog nadmetanja za odabir najpovoljnijeg ponuditelja za istraživanje ugljikovodika, geotermalnih voda iz kojih se može koristiti akumulirana toplina u energetske svrhe ili skladištenja ugljikovodika i trajno zbrinjavanje plinova radi davanja koncesije za eksploataciju može se donijeti za sve prostore na kojima ne postoje zapreke u dokumentima prostornog uređenja za obavljanje istraživanja tih mineralnih sirovina.

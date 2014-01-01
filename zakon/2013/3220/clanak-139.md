@@ -1,0 +1,4 @@
+# Članak 139.
+(1) Dokaz o izjavljivanju žalbe, odnosno pokretanju upravnog spora protiv rješenja o odbijanju utvrđivanja posebnih uvjeta donesenog tijekom postupka za izdavanje lokacijske dozvole zainteresirana osoba je dužna u roku od deset dana od dana izjavljivanja žalbe, odnosno pokretanja upravnog spora dostaviti upravnom tijelu, odnosno Ministarstvu koje u tom slučaju postupak izdavanja lokacijske dozvole prekida do donošenja odluke o žalbi, odnosno tužbi.
+(2) Tijelo nadležno za odlučivanje o žalbi dužno je upravnom tijelu, odnosno Ministarstvu radi znanja dostaviti odluku o žalbi protiv rješenja o odbijanju utvrđivanja posebnih uvjeta.
+(3) Ako zainteresirana osoba ne postupi u skladu sa stavkom 1. ovoga članka ili protiv rješenja o odbijanju utvrđivanja posebnih uvjeta ne izjavi žalbu, odnosno ne pokrene upravni spor, zahtjev za izdavanje lokacijske dozvole se odbija.
