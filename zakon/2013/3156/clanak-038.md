@@ -1,0 +1,2 @@
+# Članak 38.
+Nadležni ured državne uprave u jedinici područne (regionalne) samouprave, odnosno nadležno upravno tijelo Grada Zagreba donijet će rješenja o prestanku isplate prava na doplatak za pripomoć u kući u svim upravnim predmetima u kojima je ovo pravo priznato sukladno odredbama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 174/04., 92/05., 2/07., 107/07., 65/09., 137/09., 146/10., 55/11., 140/12. i 33/13.).

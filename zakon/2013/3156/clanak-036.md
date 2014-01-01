@@ -1,0 +1,4 @@
+# Članak 36.
+U članku 145. stavku 1. iza točke 4. dodaje se nova točka 5. koja glasi:
+»5. Javne službe i javne ustanove kojima je osnivač ili jedan od osnivača Republika Hrvatska, općina, grad, županija, izvanproračunski i proračunski fondovi, pravne osobe u vlasništvu ili pretežitom vlasništvu Republike Hrvatske, pravne osobe u vlasništvu ili pretežitom vlasništvu jedinica lokalne i područne (regionalne) samouprave i pravne osobe s javnim ovlastima, ako s osobom, odnosno osobama, iz članka 35. stavka 1. ovoga Zakona kojoj, odnosno kojima, je rješenjem iz članka 35. stavka 16. ovoga Zakona utvrđena povreda prava prednosti pri zapošljavanju, ne sklope ugovor o radu u roku od osam dana od otkaza ugovora čijim sklapanjem je povrijeđeno pravo prednosti pri zapošljavanju (članak 35. stavak 17. ovoga Zakona).«.
+Dosadašnja točka 5. postaje točka 6.

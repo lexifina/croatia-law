@@ -1,0 +1,2 @@
+# Članak 41.
+Postupci na koje se odnose odredbe članka 37. stavka 1. podstavka 9. Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 174/04., 92/05., 2/07., 107/07., 65/09., 137/09., 146/10., 55/11., 140/12. i 33/13.) koji su započeti do stupanja na snagu ovoga Zakona, a nisu okončani, dovršit će se prema odredbama ovoga Zakona ako je to za stranku povoljnije.
