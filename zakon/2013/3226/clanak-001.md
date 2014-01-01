@@ -1,0 +1,3 @@
+# Članak 1.
+U Zakonu o posredovanju pri zapošljavanju i pravima za vrijeme nezaposlenosti (»Narodne novine«, br. 80/08., 121/10., 25/12., 118/12. i 12/13. - pročišćeni tekst) članak 1. mijenja se i glasi:
+»Ovim se Zakonom uređuje posredovanje pri zapošljavanju, profesionalno usmjeravanje, obrazovanje i osposobljavanje u cilju povećanja zapošljivosti radne snage, osiguranje za slučaj nezaposlenosti, mjere aktivne politike zapošljavanja te ostale aktivnosti u cilju poticanja prostorne i profesionalne pokretljivosti radne snage te novog zapošljavanja i samozapošljavanja, izvori sredstava za djelatnosti Hrvatskog zavoda za zapošljavanje (u daljnjem tekstu: Zavod) te ustroj, upravljanje i obavljanje djelatnosti Zavoda.«.
