@@ -1,0 +1,3 @@
+## IV. OSLOBOĐENJE OD PLAĆANJA POREZA ZA INSTITUCIJE I TIJELA EUROPSKE UNIJE SA SJEDIŠTEM U REPUBLICI HRVATSKOJ
+# Članak 8.
+Izravno oslobođenje od plaćanja poreza pri nabavi dobara, odnosno trošarinskih proizvoda ili usluga u Republici Hrvatskoj za službene potrebe ostvaruju institucije ili tijela Europske unije sa sjedištem u Republici Hrvatskoj na koja se primjenjuje Protokol u okvirima i pod uvjetima koji su utvrđeni tim Protokolom i Sporazumom između Republike Hrvatske i Europske unije o provedbi Protokola o povlasticama i imunitetima Europske unije u Republici Hrvatskoj (»Narodne novine« - Međunarodni ugovori, broj 7/2012).

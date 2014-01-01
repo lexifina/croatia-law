@@ -1,0 +1,3 @@
+# Članak 4.
+(1) Ako državno tijelo nadležno za vanjske i europske poslove sukladno članku 3. stavku 4. ovoga Pravilnika utvrdi da uvjet uzajamnosti nije utvrđen, oslobođenje od plaćanja poreza pri nabavi dobara, odnosno trošarinskih proizvoda ili usluga u Republici Hrvatskoj ostvaruje se putem povrata na način propisan člankom 3. stavkom 2. ovoga Pravilnika pod uvjetom da je ukupna vrijednost isporuke veća od 740,00 kuna, uključujući PDV, po jednom računu. Isto ograničenje odnosi se i na osobe iz članka 2. stavka 1. točke 2. i članka 2. stavka 3. ovoga Pravilnika ako međunarodnim ugovorom koji obvezuje Republiku Hrvatsku nije drugačije određeno.
+(2) Vrijednosno ograničenje iz stavka 1. ovoga članka ne odnosi se na isporuke goriva za pogon prijevoznih sredstava.

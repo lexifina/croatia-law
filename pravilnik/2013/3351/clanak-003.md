@@ -1,0 +1,20 @@
+## 1. ISPORUKE U REPUBLICI HRVATSKOJ
+# Članak 3.
+(1) Isporuke dobara odnosno trošarinskih proizvoda ili obavljene usluge osobama iz članka 2. ovoga Pravilnika oslobođene su plaćanja poreza u Republici Hrvatskoj, pod uvjetima koji su propisani ovim Pravilnikom.
+(2) Oslobođenje od plaćanja poreza iz stavka 1. ovoga članka ostvaruje se podnošenjem zahtjeva za povrat poreza koji se podnosi državnom tijelu nadležnom za vanjske i europske poslove na Obrascu P-DIP čiji je oblik i sadržaj sastavni dio ovoga Pravilnika, a otisnut je na hrvatskom i engleskom jeziku.
+(3) Uz zahtjev za povrat poreza iz stavka 2. ovoga članka moraju biti priloženi izvornici računa koji moraju sadržavati podatke propisane člankom 79. Zakona o porezu na dodanu vrijednost, a zahtjev za povrat poreza mora sadržavati podatak o bankovnom računu (uključujući IBAN i BIC) podnositelja zahtjeva otvorenog u Republici Hrvatskoj na koji će se vratiti plaćeni porez. Ako se zahtjev za povrat poreza odnosi na trošarinske proizvode, uz zahtjev mora biti priložen račun izdan isključivo za trošarinske proizvode sa iskazanom trošarinskom osnovicom.
+(4) Državno tijelo nadležno za vanjske i europske poslove po primitku zahtjeva za povrat poreza utvrđuje:
+a) je li podnositelj zahtjeva osoba iz članka 2. ovoga Pravilnika koja ima pravo na povrat poreza te
+b) je li ispunjen uvjet uzajamnosti.
+(5) Ako su uvjeti iz stavka 4. ovoga članka ispunjeni, državno tijelo nadležno za vanjske i europske poslove dostavlja zahtjev za povrat poreza ustrojstvenoj jedinici koju odlukom određuje ravnatelj Porezne uprave zajedno sa izvornicima računa temeljem kojih ima pravo na povrat, u roku od 30 dana od dana njegova zaprimanja.
+(6) Ustrojstvena jedinica koju odlukom određuje ravnatelj Porezne uprave po primitku zahtjeva za povrat poreza utvrđuje:
+- jesu li zahtjevu za povrat poreza priloženi izvornici računa navedenih u zahtjevu,
+- jesu li priloženi računi izdani u skladu sa člankom 79. Zakona o PDV-u te
+- je li zahtjev za povrat poreza podnesen u roku iz stavka 8. ovoga članka.
+(7) Ustrojstvena jedinica koju odlukom određuje ravnatelj Porezne uprave vratit će zahtjev za povrat poreza zajedno sa izvornicima računa podnositelju zahtjeva ako bilo koji od uvjeta iz stavka 6. ovoga članka nije ispunjen. Podnositelj zahtjeva može ustrojstvenoj jedinici koju odlukom određuje ravnatelj Porezne uprave podnijeti novi, odnosno ispravljeni obrazac zahtjeva u roku od 30 dana od dana zaprimanja obavijesti o neispunjenju uvjeta iz stavka 6. ovoga članka. Dopuna zahtjeva koja se odnosi na zahtjev za određeno tromjesečje može se podnijeti najkasnije do isteka roka iz stavka 8. ovoga članka.
+(8) Zahtjev za povrat poreza iz stavka 2. ovoga članka podnosi se za kalendarsko tromjesečje najkasnije u roku od 12 mjeseci od tromjesečja na koje se zahtjev odnosi.
+(9) Ako se nakon podnošenja zahtjeva za povrat poreza za kalendarsko tromjesečje utvrdi da postoji račun koji nije uključen u zahtjev, isti se može uključiti u zahtjev za povrat poreza za sljedeće kalendarsko tromjesečje najkasnije do isteka roka iz stavka 8. ovoga članka.
+(10) Ustrojstvena jedinica koju odlukom određuje ravnatelj Porezne uprave donosi rješenje u roku od 2 mjeseca od dana podnošenja zahtjeva za povrat poreza i doznačuje iznos poreza podnositelju zahtjeva.
+(11) Nakon donošenja rješenja o povratu poreza ustrojstvena jedinica koju odlukom određuje ravnatelj Porezne uprave izvršava povrat poreza uplatom u kunama na račun otvoren u tuzemstvu najkasnije u roku od 10 dana po isteku roka iz stavka 10. ovoga članka.
+(12) Nakon odobrenog povrata poreza ustrojstvena jedinica koju odlukom određuje ravnatelj Porezne uprave poništava izvornike računa pečatom s natpisom »Iskorišteno pravo na povrat poreza« i vraća ih izravno podnositelju zahtjeva.
+(13) Ako ustrojstvena jedinica koju odlukom određuje ravnatelj Porezne uprave ospori zahtjev u cijelosti ili djelomično, tada izdaje rješenje o odbijanju zahtjeva za povrat plaćenog poreza ili donosi rješenje o novoutvrđenom iznosu poreza za povrat.

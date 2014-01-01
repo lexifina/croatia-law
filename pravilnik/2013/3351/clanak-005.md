@@ -1,0 +1,5 @@
+# Članak 5.
+(1) Osobe iz članka 2. ovoga Pravilnika za službene potrebe ostvaruju oslobođenje od plaćanja poreza za gorivo za pogon koje koriste za službena prijevozna sredstva, registrirana kod nadležnog tijela u Republici Hrvatskoj, i to najviše do 5.500 litara u jednoj kalendarskoj godini po prijevoznom sredstvu.
+(2) Osobe iz članka 2. ovoga Pravilnika za osobne potrebe ostvaruju oslobođenje od plaćanja poreza na gorivo za pogon koje koriste za vlastita prijevozna sredstva, registrirana kod nadležnog tijela u Republici Hrvatskoj, i to najviše do 3.200 litara u jednoj kalendarskoj godini po prijevoznom sredstvu.
+(3) Ako se oslobođenje od plaćanja poreza za pogonsko gorivo za pojedino prijevozno sredstvo koristi tijekom dijela kalendarske godine, količine iz stavka 1. i 2. ovoga članka razmjerno se umanjuju.
+(4) Ako se u jednoj kalendarskoj godini nije iskoristilo oslobođenje od plaćanja poreza za cjelokupnu količinu pogonskog goriva iz stavka 1. i 2. ovoga članka, neiskorištene količine ne mogu se prenijeti u sljedeću kalendarsku godinu.

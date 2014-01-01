@@ -1,0 +1,1 @@
+Na temelju članka 44. stavka 3. i članka 48. stavka 2. Zakona o porezu na dodanu vrijednost (»Narodne novine«, broj 73/2013, 99/2013 - Rješenje USRH, 148/2013 i 153/2013 - Rješenje USRH) te članka 30. stavka 3. Zakona o trošarinama (»Narodne novine«, broj 22/2013, 32/2013 i 81/2013) ministar financija donosi

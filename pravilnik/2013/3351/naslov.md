@@ -1,0 +1,1 @@
+Pravilnik o postupku ostvarivanja oslobođenja od plaćanja poreza na dodanu vrijednost i trošarina za diplomatska i konzularna predstavništva, institucije i tijela Europske unije te međunarodne organizacije
