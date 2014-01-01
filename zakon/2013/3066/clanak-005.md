@@ -1,0 +1,4 @@
+# Članak 5.
+U članku 12. iza stavka 3. dodaju se stavci 4. i 5. koji glase:
+»(4) Vjerovnik je dužan na ugovoreni način obavijestiti potrošača o umanjenju ili ukidanju dopuštenog prekoračenja po tekućem računu najmanje 30 dana prije dana efektivnog umanjenja ili ukidanja dopuštenog prekoračenja.
+(5) Vjerovnik je dužan omogućiti potrošaču, protiv kojeg vjerovnik nije pokrenuo postupak prisilne naplate, bez njegova zahtjeva i bez ikakvog dopunskog troška otplatu iznosa za koji je prethodno dopušteno prekoračenje umanjeno ili iznosa ukinutog prethodno dopuštenog prekoračenja, u 12 mjesečnih obroka i primjenom kamatne stope koja je važeća za dopušteno prekoračenje po tekućem računu. Ukoliko potrošaču nije omogućena navedena otplata iznosa za koji je prekoračenje umanjeno ili iznosa ukinutog prethodno dopuštenog prekoračenja, nije dužan prihvatiti smanjenje, odnosno ukidanje odobrenog prekoračenja po tekućem računu.«.
