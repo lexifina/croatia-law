@@ -1,0 +1,2 @@
+# Članak 48.
+Povjerenstvo prati i analizira stanje u odobravanju i korištenju pravne pomoći prema odredbama ovoga Zakona, razmatra prijedlog godišnjeg izvješća o ostvarivanju prava na pravnu pomoć i utrošku sredstava Ministarstva, daje mišljenja na projekte ovlaštenih udruga i pravnih klinika, razmatra godišnja izvješća ovlaštenih udruga i pravnih klinika te daje prijedloge i mišljenje za unapređivanje sustava pravne pomoći.

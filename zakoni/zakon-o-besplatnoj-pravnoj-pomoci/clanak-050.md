@@ -1,0 +1,4 @@
+# Članak 50.
+(1) Izbor člana Povjerenstva u ime ovlaštenih udruga provest će se tako da će ovlaštene udruge natpolovičnom većinom glasova ovlaštenih udruga, u roku od 90 dana od dana dostave poziva ministra nadležnog za poslove pravosuđa za predlaganje članova, predložiti svojeg predstavnika iz redova ovlaštenih udruga.
+(2) U slučaju da u roku i na način iz stavka 1. ovoga članka predstavnik ne bude predložen natpolovičnom većinom glasova ovlaštenih udruga, članom Povjerenstva smatrat će se osoba ovlaštena za zastupanje one ovlaštene udruge koja je u prethodnoj godini pružila pravnu pomoć u najvećem broju slučajeva ili druga osoba iz ovlaštene udruge koju ta ovlaštena udruga odredi.
+(3) Odredbe stavaka 1. i 2. ovoga članka primjenjivat će se na odgovarajući način i na izbor člana Povjerenstva pravnih fakulteta.
