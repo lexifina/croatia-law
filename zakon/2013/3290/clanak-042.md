@@ -1,0 +1,8 @@
+# Članak 42.
+Ozljedom na radu prema ovome Zakonu smatra se svaka:
+1. ozljeda osiguranika izazvana neposrednim i kratkotrajnim mehaničkim, fizikalnim ili kemijskim djelovanjem te ozljeda uzrokovana naglim promjenama položaja tijela, iznenadnim opterećenjem tijela ili drugim promjenama fiziološkog stanja organizma, ako je takva ozljeda uzročno vezana uz obavljanje poslova na kojima radi, odnosno djelatnosti na osnovi koje ozlijeđena osoba ima svojstvo osiguranika prema ovome Zakonu
+2. bolest osiguranika koja je nastala izravno i isključivo kao posljedica nekog nesretnog slučaja ili sile za vrijeme rada, odnosno za vrijeme obavljanja djelatnosti ili u vezi s obavljanjem te djelatnosti na osnovi koje oboljela osoba ima svojstvo osiguranika prema ovome Zakonu
+3. ozljeda nanesena na način naveden u točki 1. ovoga članka koju osiguranik pretrpi na redovitom putu od mjesta stanovanja do mjesta rada i obratno, te na putu poduzetom radi stupanja na posao koji mu je osiguran, odnosno na posao na osnovi kojega je osiguran
+4. ozljeda nanesena na način naveden u točki 1. ovoga članka koju osiguranik pretrpi u vezi s korištenjem prava na zdravstvenu zaštitu prema propisima o obveznom zdravstvenom osiguranju i prava na profesionalnu rehabilitaciju prema odredbama ovoga Zakona
+5. ozljeda, odnosno bolest iz točaka 1. i 2. ovoga članka koju pretrpi osigurana osoba iz članaka 19. do 21. ovoga Zakona
+6. ozljeda nastala na način naveden u točki 1. ovoga članka koju osoba pretrpi u vezi s prethodnim utvrđivanjem zdravstvene sposobnosti kada je to prema zakonu obvezno prigodom zasnivanja radnog odnosa.

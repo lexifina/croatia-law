@@ -1,0 +1,3 @@
+# Članak 70.
+(1) Dijete ima pravo na obiteljsku mirovinu i koristiti se tim pravom nakon navršene 15. godine života ako je u trenutku smrti osiguranika na redovitom školovanju ili započne takvo školovanje nakon smrti osiguranika. To pravo pripada djeci do kraja redovitog školovanja, ali najduže do navršene 26. godine života.
+(2) Ako je redovito školovanje prekinuto zbog bolesti, dijete ima pravo na obiteljsku mirovinu i koristi se tim pravom za vrijeme bolesti - do navršene 26. godine života, kao i nakon tih godina - ali najviše onoliko vremena koliko je zbog bolesti izgubljeno za redovito školovanje, ako je ono nastavljeno prije navršenih 26 godina života.

@@ -1,0 +1,3 @@
+# Članak 124.
+(1) Zahtjev za ostvarivanje prava iz mirovinskog osiguranja primjenom uredbi Europske unije o koordinaciji sustava socijalne sigurnosti ili međunarodnih ugovora o socijalnom osiguranju smatra se urednim kada Zavod od nadležnog inozemnog nositelja osiguranja zaprimi kompletirane podatke potrebne za ostvarivanje prava.
+(2) Iznimno od odredbi Zakona o općem upravnom postupku, kada se osoba koja je pokrenula postupak ili vodi upravni spor radi ostvarivanja prava iz mirovinskog osiguranja nalazi u inozemstvu, ta osoba nije obvezna odrediti opunomoćenika za primanje pismena s prebivalištem u Republici Hrvatskoj.

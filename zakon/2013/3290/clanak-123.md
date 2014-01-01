@@ -1,0 +1,6 @@
+# Članak 123.
+(1) Postupak za ostvarivanje prava iz mirovinskog osiguranja pokreće se na zahtjev osiguranika, odnosno osigurane osobe, ako ovim Zakonom nije drukčije određeno.
+(2) Za vrijeme zaposlenja ili drugog svojstva koje je osnova osiguranja prema ovome Zakonu, postupak za ostvarivanje prava na temelju smanjenja radne sposobnosti uz preostalu radnu sposobnost ili djelomičnog, odnosno potpunog gubitka radne sposobnosti može se pokrenuti i na prijedlog izabranog doktora medicine primarne zdravstvene zaštite (u daljnjem tekstu: doktor medicine) ili samog osiguranika, po završetku liječenja, odnosno po završenoj zdravstvenoj rehabilitaciji.
+(3) Odredbe iz stavaka 1. i 2. ovoga članka primjenjuju se i u slučaju kada se prava iz mirovinskog osiguranja ponovno određuju zbog nastalih promjena u stanju preostale radne sposobnosti.
+(4) Postupak radi kontrolnog pregleda iz članka 126. stavaka 1. i 2. ovoga Zakona obvezno pokreće Zavod po službenoj dužnosti, a vještačenje provodi ovlašteni vještak kada se vještači u prvom stupnju, odnosno u povodu žalbe na rješenje toga tijela vještačenje provodi ovlašteni viši vještak Zavoda.
+(5) Tijekom postupka za ostvarivanja prava na starosnu mirovinu, ako osiguranik nastavlja raditi do polovice punog radnog vremena, poslodavac je dužan dostaviti prijavu o promjeni nastaloj tijekom osiguranja.

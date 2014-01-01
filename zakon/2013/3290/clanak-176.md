@@ -1,0 +1,5 @@
+# Članak 176.
+(1) Radi primjene članaka 88. ovoga Zakona, za određivanje i usklađivanje mirovina prema članku 79. stavcima 1. i 2. i člancima 81. do 87. ovoga Zakona primjenjuje se aktualna vrijednost mirovine važeća na dan 31. prosinca 2013.
+(2) Radi primjene članaka 89. ovoga Zakona, za određivanje i usklađivanje mirovina ili dijela mirovina određenih, odnosno ostvarenih prema posebnim propisima pod povoljnijim uvjetima primjenjuje se aktualna vrijednost mirovine važeća na dan 31. prosinca 2013.
+(3) Za određivanje i usklađivanje mirovina određenih, odnosno ostvarenih prema posebnim propisima pod povoljnijim uvjetima, u razdoblju od 1. siječnja do 31. prosinca 2014. aktualna vrijednost mirovine iz članka 89. ovoga Zakona primjenjuje se na cijelu mirovinu.
+(4) Za određivanje i usklađivanje mirovina određenih, odnosno ostvarenih prema posebnim propisima pod povoljnijim uvjetima iz stavka 3. ovoga članka na dio mirovine određen prema članku 80. stavku 3. ovoga Zakona od 1. siječnja 2015. primjenjuje se aktualna vrijednost mirovine iz članka 88. ovoga Zakona.

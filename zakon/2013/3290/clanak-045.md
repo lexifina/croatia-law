@@ -1,0 +1,5 @@
+# Članak 45.
+(1) Pravo na profesionalnu rehabilitaciju prema ovome Zakonu ima osiguranik iz članka 9. stavka 1., članaka 10. i 12. i osigurana osoba iz članaka 19. do 21. ovoga Zakona kod koje je nastalo smanjenje radne sposobnosti iz članka 39. stavka 1. ovoga Zakona i kod koje postoji preostala radna sposobnost iz članka 39. stavka 2. ovoga Zakona.
+(2) Pravo na profesionalnu rehabilitaciju može se steći ako je kod osiguranika ili osigurane osobe smanjenje radne sposobnosti uz preostalu radnu sposobnost nastalo prije navršene 53. godine života.
+(3) Ako je smanjenje radne sposobnosti uz preostalu radnu sposobnost nastalo zbog ozljede izvan rada ili bolesti, osiguranik ima pravo na profesionalnu rehabilitaciju ako ispunjava uvjete mirovinskog staža za stjecanje prava na invalidsku mirovinu.
+(4) Ako je smanjenje radne sposobnosti uz preostalu radnu sposobnost nastalo zbog ozljede na radu ili profesionalne bolesti, osiguranik ima pravo na profesionalnu rehabilitaciju bez obzira na dužinu mirovinskog staža.

@@ -1,0 +1,2 @@
+# Članak 179.
+Na mirovine ostvarene prema Zakonu o posebnim pravima iz mirovinskog osiguranja i prava po osnovi nezaposlenosti zaposlenika u Istarskim ugljenokopima »Tupljak« d.d. Labin (»Narodne novine«, br. 19/99.) i Zakonu o uvjetima za stjecanje prava na starosnu mirovinu radnika profesionalno izloženih azbestu (»Narodne novine«, br. 79/07., 149/09. i 139/10.) za određivanje i usklađivanje mirovine primjenjuje se aktualna vrijednost mirovine iz članka 88. ovoga Zakona.

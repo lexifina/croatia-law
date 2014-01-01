@@ -1,0 +1,2 @@
+# Članak 41.
+Neposredna opasnost od nastanka smanjenja radne sposobnosti postoji kada pri obavljanju određenih poslova uvjeti rada, bez obzira na mjere zaštite na radu koje se primjenjuju ili se mogu primijeniti, utječu na zdravstveno stanje i radnu sposobnost osiguranika iz članka 9. stavka 1. točke 1. ovoga Zakona toliko da je prijeko potrebno, radi sprječavanja nastanka smanjenja ili gubitka radne sposobnosti, premjestiti ga na drugi posao primjeren njegovoj razini obrazovanja na kojemu može raditi s radnim naporom koji ne pogoršava njegovo zdravstveno stanje.

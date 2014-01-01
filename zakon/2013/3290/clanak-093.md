@@ -1,0 +1,6 @@
+# Članak 93.
+(1) Osobni bodovi za osnovnu mirovinu određuju se tako da se osobni bodovi određeni na temelju mirovinskog staža navršenog od početka osiguranja u obveznom mirovinskom osiguranju na temelju individualne kapitalizirane štednje pomnože s faktorom osnovne mirovine određenim za kalendarsku godinu u kojoj osiguranik stječe pravo na mirovinu.
+(2) Faktor osnovne mirovine iz stavka 1. ovoga članka određuje se 1. siječnja svake godine u visini prosjeka udjela stope doprinosa za obvezno mirovinsko osiguranje na temelju generacijske solidarnosti propisane za osiguranike osigurane u oba obvezna mirovinska osiguranja u ukupnoj stopi doprinosa za mirovinsko osiguranje u razdoblju od 1. siječnja 2002. do tekuće godine.
+(3) Faktor osnovne mirovine primjenjuje se i na najnižu mirovinu i najvišu mirovinu određenu na temelju mirovinskog staža navršenog od početka osiguranja u obveznom mirovinskom osiguranju na temelju individualne kapitalizirane štednje, a na temelju mirovinskog staža ostvarenog do toga dana, najniža mirovina i najviša mirovina prema Zakonu o najvišoj mirovini (»Narodne novine«, br. 162/98. i 82/01.) određuju se kao da je osiguranik bio osiguran samo u obveznom mirovinskom osiguranju na temelju generacijske solidarnosti.
+(4) Faktor osnovne mirovine iz stavka 2. ovoga članka utvrđuje Upravno vijeće Zavoda.
+11. Usklađivanje mirovina

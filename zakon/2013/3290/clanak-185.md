@@ -1,0 +1,4 @@
+# Članak 185.
+(1) Na zahtjev korisnika mirovine hrvatskog državljanina, kojemu je priznato pravo na mirovinu od 1. siječnja 1992. do dana stupanja na snagu ovoga Zakona, prema općim propisima iz mirovinskog osiguranja Republike Hrvatske, a kojemu je u ukupan mirovinski staž uračunat i staž osiguranja navršen do 8. listopada 1991. prema prijašnjim propisima kojima su bila uređena prava vojnih osiguranika, ponovo će se odrediti mirovina na način da će se za razdoblja toga staža osiguranja plaće (osobni dohodak i posebni dodaci) ostvarene u bivšoj JNA uračunati u visini od 63,22%.
+(2) Mirovina iz stavka 1. ovoga članka pripada od prvog dana idućeg mjeseca nakon podnošenja zahtjeva.
+(3) Odredba stavaka 1. i 2. ovoga članka se ne primjenjuje ako je osoba na temelju staža osiguranja navršenog u bivšoj JNA ostvarila pravo na mirovinu izvan hrvatskog mirovinskog osiguranja ili ako je ukupni mirovinski staž navršen u Republici Hrvatskoj kraći od dvanaest mjeseci.

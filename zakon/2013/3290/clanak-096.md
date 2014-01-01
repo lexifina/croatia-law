@@ -1,0 +1,5 @@
+# Članak 96.
+(1) Mirovine i druga primanja iz mirovinskog osiguranja koja su ostvarena i isplaćivana do 31. prosinca 2013. isplaćuju se u Republici Hrvatskoj ili u inozemstvo putem banaka, odnosno putem pošte na adresu korisnika u Republici Hrvatskoj.
+(2) Za mirovine i druga primanja iz mirovinskog osiguranja koja su ostvarena i isplaćivana do 31. prosinca 2013. putem pošte na adresu korisnika u Republici Hrvatskoj i nakon 1. siječnja 2014., troškovi isplate terete sredstva državnog proračuna.
+(3) Mirovine i druga primanja iz mirovinskog osiguranja koja su ostvarena i isplaćuju se od 1. siječnja 2014. isplaćuju se u Republici Hrvatskoj ili u inozemstvo putem banaka.
+(4) Isplata mirovina i drugih primanja iz mirovinskog osiguranja u inozemstvo obavlja se primjenom uredbi Europske unije o koordinaciji sustava socijalne sigurnosti, međunarodnog ugovora o socijalnom osiguranju ili primjenom uzajamnosti, odnosno na temelju rješenja Zavoda o odobravanju isplate u državu s kojom nije sklopljen ugovor ili nema uzajamnosti.

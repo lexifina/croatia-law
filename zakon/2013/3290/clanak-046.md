@@ -1,0 +1,4 @@
+# Članak 46.
+(1) Profesionalnu rehabilitaciju osiguranika kojemu je priznato to pravo prema ovome Zakonu provodi centar za profesionalnu rehabilitaciju.
+(2) Na postupak provedbe profesionalne rehabilitacije i zapošljavanja osiguranika koji se profesionalnom rehabilitacijom osposobljavaju za rad ili su se osposobili za rad na odgovarajući način primjenjuju se propisi kojima je uređena profesionalna rehabilitacija i zapošljavanje osoba s invaliditetom, ako ovim Zakonom nije drukčije propisano.
+(3) Troškove profesionalne rehabilitacije za osiguranike iz članka 9. stavka 1., članaka 10. i 12., članka 19. stavka 1. točaka 2. i 3. i stavka 2., članaka 20. i 21. ovoga Zakona snosi i isplaćuje Zavod, a za osigurane osobe iz članka 19. stavka 1. točke 1. ovoga Zakona troškove profesionalne rehabilitacije isplaćuje Zavod na teret državnog proračuna.

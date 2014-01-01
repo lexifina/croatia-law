@@ -1,0 +1,3 @@
+# Članak 84.
+(1) Kada je osiguranik tijekom kalendarske godine ostvario naknadu plaće prema kojoj je propisana obveza obračunavanja doprinosa prema propisima o doprinosima za obvezna osiguranja, za izračun vrijednosnih bodova uzima se iznos naknade, odnosno osnovice prema kojoj su obračunati doprinosi.
+(2) Iznimno od odredbe stavka 1. ovoga članka, kada je osiguranik ostvario naknadu plaće zbog privremene nesposobnosti za rad prema propisima o zdravstvenom osiguranju u razdoblju do 31. prosinca 1998., za to razdoblje uzimaju se prosječni vrijednosni bodovi iz razdoblja u kojem je osiguranik ostvario plaću, odnosno osnovicu osiguranja.

@@ -1,0 +1,9 @@
+# Članak 181.
+(1) Iznimno od odredbe članka 33. ovoga Zakona, osiguranicima kojima se do 15. srpnja 1999. staž osiguranja računao s povećanim trajanjem prema propisima koji su bili na snazi do toga dana, dobna granica propisana za stjecanje starosne mirovine snižava se ovisno o stupnju povećanja staža i to:
+1. po jednu godinu za svakih 6 godina staža osiguranja koji se za efektivno navršenih 12 mjeseci računa kao 14 mjeseci staža osiguranja
+2. po jednu godinu za svakih 5 godina staža osiguranja koji se za efektivno navršenih 12 mjeseci računa kao 15 mjeseci staža osiguranja
+3. po jednu godinu za svake 4 godine staža osiguranja koji se za efektivno navršenih 12 mjeseci računa kao 16 mjeseci staža osiguranja
+4. po jednu godinu za svake 3 godine staža osiguranja koji se za efektivno navršenih 12 mjeseci računa kao 18 mjeseci staža osiguranja.
+(2) Osiguranicima kojima se staž osiguranja računao s povećanim trajanjem u razdoblju od 16. srpnja 1999. dobna granica propisana za stjecanje prava na starosnu mirovinu prema članku 33. ovoga Zakona, snižava se ovisno o stupnju povećanja staža ostvarenog od 16. srpnja 1999. do stupanja na snagu ovoga Zakona, i to prema člancima 8. i 14. Zakona o stažu osiguranja s povećanim trajanjem (»Narodne novine«, br. 71/99., 46/07. i 41/08.).
+(3) U razdoblju od stupanja na snagu ovoga Zakona do 31. prosinca 2029., osiguraniku - ženi za stjecanje prava na starosnu mirovinu snižava se dobna granica za tu mirovinu na temelju staža osiguranja s povećanim trajanjem prema dobnoj granici određenoj člankom 180. ovoga Zakona.
+(4) Osiguranicima iz članka 16. stavaka 2. i 3. ovoga Zakona staž osiguranja s povećanim trajanjem računa se samo u razdoblju od ukrcaja na brod do iskrcaja s broda na osnovi podataka o ukrcaju i iskrcaju upisanih u pomorskoj knjižici osiguranika.

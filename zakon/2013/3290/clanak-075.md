@@ -1,0 +1,7 @@
+# Članak 75.
+(1) Stupanjem u brak, odnosno postojanjem izvanbračne zajednice pravo na obiteljsku mirovinu gube:
+1. udovica, odnosno udovac mlađi od 50 godina, osim ako to pravo imaju zbog potpunog gubitka radne sposobnosti
+2. djeca osiguranika, braća, sestre i druga djeca bez roditelja, osim djece koja to pravo imaju zbog potpunog gubitka radne sposobnosti i djece koja se nalaze na redovitom školovanju te djece sa statusom osobe s invaliditetom s preostalom radnom sposobnosti utvrđenom prema propisima o profesionalnoj rehabilitaciji i zapošljavanju osoba s invaliditetom iz članka 69. stavka 5. ovoga Zakona.
+(2) Udovici, odnosno udovcu koji je stupanjem u novi brak ili postojanjem nove izvanbračne zajednice izgubio pravo na obiteljsku mirovinu, a po bračnom, odnosno izvanbračnom drugu iz novoga braka ili nove izvanbračne zajednice nije ostvario obiteljsku mirovinu, uspostavlja se pravo na prijašnju obiteljsku mirovinu uz uvjet da u trenutku prestanka novog braka ili nove izvanbračne zajednice ima dijete iz prijašnjeg braka ili izvanbračne zajednice koje se koristi obiteljskom mirovinom i da prema tome djetetu obavlja roditeljske dužnosti.
+(3) Odredbe ovoga Zakona o stjecanju, određivanju, korištenju, ponovnom određivanju i gubitku prava na obiteljsku mirovinu udovice, odnosno udovca odgovarajuće se primjenjuju na izvanbračnog druga i razvedenog bračnog druga koji je ostvario pravo na uzdržavanje.
+7. Naknada putnih troškova

@@ -1,0 +1,4 @@
+# Članak 16.
+(1) Obvezno su osigurani članovi posade broda u međunarodnoj plovidbi čiji je poslodavac, brodar ili kompanija domaća ili strana pravna osoba, ako uredbama Europske unije o koordinaciji sustava socijalne sigurnosti ili međunarodnim ugovorom o socijalnom osiguranju nije drukčije određeno.
+(2) Osobama iz stavka 1. ovoga članka svojstvo osiguranika priznaje se danom ukrcaja na brod, a prestaje danom iskrcaja s broda, na osnovi prijave/odjave koju podnosi poslodavac, brodar ili kompanija domaća pravna osoba, odnosno lučka kapetanija i podataka o ukrcaju i iskrcaju u pomorskoj knjižici osiguranika.
+(3) Iznimno od stavka 2. ovoga članka, članovima posade broda u međunarodnoj plovidbi čiji je poslodavac, brodar ili kompanija domaća ili strana pravna osoba koji s poslodavcem imaju sklopljen ugovor o radu na razdoblje duže od razdoblja ukrcaja na brod, svojstvo osiguranika priznaje se za cijelo vrijeme trajanja ugovora.
