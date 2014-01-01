@@ -1,0 +1,3 @@
+# Članak 24.
+(1) Radi praćenja prosječne stope bolovanja u djelatnosti opće/obiteljske medicine i zdravstvene zaštite žena Zavod je obvezan mjesečno pratiti prosječnu stopu privremene nesposobnosti za rad putem utvrđene forme izviješća o stopi privremene nesposobnosti za rad te poduzimati odgovarajuće mjere iz svoje nadležnosti u skladu sa sklopljenim ugovorom o provođenju primarne zdravstvene zaštite iz obveznog zdravstvenog osiguranja.
+(2) Na izviješću o stopi privremene nesposobnosti za rad iz stavka 1. ovog članka prati se u djelatnosti opće/obiteljske medicine i privremena nesposobnost za rad zbog priznate ozljede na radu i profesionalne bolesti.

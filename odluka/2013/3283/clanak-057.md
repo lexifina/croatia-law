@@ -1,0 +1,2 @@
+# Članak 57.
+Higijensko-epidemiološku zdravstvenu zaštitu, preventivno-odgojne mjere za zdravstvenu zaštitu školske djece i studenata, javno zdravstvo i zdravstvenu zaštita mentalnog zdravlja, prevencije i izvanbolničkog liječenja ovisnosti provode županijski zavodi za javno zdravstvo i Zavod za javno zdravstvo Grada Zagreba s kojim Zavod sklopa ugovore o provođenju zdravstvene zaštite iz obveznog zdravstvenog osiguranja u skladu sa Zakonom i ovom Odlukom te osnovom provedenog natječaja za popunu mreže.
