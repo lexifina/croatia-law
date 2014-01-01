@@ -1,0 +1,3 @@
+# Članak 2.
+U članku 3. stavku 4. na kraju rečenice iza riječi: »obveznika« dodaje se zarez te tekst: »a dohodovni razred utvrđuje se na način da se od prosječnog primitka ostvarenog tijekom poreznog razdoblja u kojem se djelatnost obavlja (ukupni primitak podijeljen sa brojem mjeseci obavljanja djelatnosti) utvrđuje godišnji primitak množenjem prosječnog primitka sa dvanaest (12) mjeseci. Na isti način paušalni dohodak se utvrđuje i za registrirani sezonski obrt«.
+U stavku 5. iza riječi: »poreznog obveznika,« dodaju se riječi: »dohodovni razred utvrđuje se na način iz stavka 4. ovoga članka,«.
