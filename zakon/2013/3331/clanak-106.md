@@ -1,0 +1,3 @@
+# Članak 106.
+U članku 382. stavku 5. riječi: »Agencija može od izdavatelja, ponuditelja ili podnositelja zahtjeva za uvrštenje zatražiti« zamjenjuju se riječima: »Agenciji je izdavatelj, ponuditelj ili podnositelj zahtjeva za uvrštenje obvezan dostaviti«.
+U stavku 6. riječ: »nadležnog« zamjenjuje se riječju: »nadležnih«, riječi: « članice ili« zamjenjuju se riječima: »članice i« te se iza prve rečenice dodaje rečenica koja glasi: »Ako u prethodnom slučaju prospekt nije izrađen na hrvatskom jeziku, izdavatelj, ponuditelj ili podnositelj zahtjeva za uvrštenje na uređeno tržište u Republici Hrvatskoj obvezan je izraditi sažetak na hrvatskom jeziku.«.

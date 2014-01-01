@@ -1,0 +1,10 @@
+# Članak 53.
+Članak 254. mijenja se i glasi:
+»(1) Pri obavljanju nadzora Agencija posebice:
+1. provjerava organizacijske uvjete, strategije, politike i postupke koje je investicijsko društvo uspostavilo u svrhu usklađenja svojeg poslovanja s odredbama ovoga Zakona, propisa donesenih na temelju ovoga Zakona i drugih relevantnih propisa,
+2. provjerava i procjenjuje financijsku stabilnost i položaj subjekta nadzora te rizike kojima je investicijsko društvo izloženo ili bi moglo biti izloženo u svojem poslovanju, rizike koje investicijsko društvo predstavlja za financijski sustav, uzimajući u obzir utvrđivanje i mjerenje sistemskog rizika prema članku 23. Uredbe (EU) br. 1093/2010 i preporuke ESRB-a, ako je to primjereno, i rizike koji se otkrivaju testiranjem otpornosti na stres, uzimajući u obzir prirodu, opseg i složenost djelatnosti investicijskog društva.
+(2) Na temelju provjera i ocjena iz stavka 1. ovoga članka Agencija utvrđuje posluje li investicijsko društvo u skladu sa zakonskim propisima, ima li uspostavljen odgovarajući organizacijski ustroj, strategije, politike i postupke, stabilan sustav upravljanja u društvu, kao i regulatorni kapital koji osigurava primjeren sustav upravljanja i pokriće rizika kojima je ono izloženo ili bi moglo biti izloženo u svojem poslovanju.
+(3) Agencija se pri utvrđivanju učestalosti i intenziteta obavljanja provjere i ocjene iz stavka 1. ovoga članka za pojedino investicijsko društvo rukovodi načelom proporcionalnosti, uzimajući u obzir veličinu i značaj investicijskog društva za tržište kapitala u Republici Hrvatskoj te prirodu, opseg i složenost poslova koje investicijsko društvo obavlja.
+(4) Provjere i ocjene iz stavka 1. ovoga članka Agencija obavlja najmanje jednom godišnje za svako investicijsko društvo obuhvaćeno planom nadzora iz članka 254.b ovoga Zakona.
+(5) Agencija će, kada je to primjereno, prilikom procjena iz stavka 1. ovoga članka koristiti metode koje svojim smjernicama propisuje ESMA.
+(6) Kad Agencija utvrdi da investicijsko društvo može predstavljati sistemski rizik u smislu članka 23. Uredbe (EU) br. 1093/2010, o tome bez odgode obavještava EBA-u.«.

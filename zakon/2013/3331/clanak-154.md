@@ -1,0 +1,9 @@
+# Članak 154.
+Iza članka 556. dodaje se članak 556.a koji glasi:
+»Članak 556.a
+(1) Agencija će surađivati s nadležnim tijelima države članice u nadzoru investicijskog društva sa sjedištem u Republici Hrvatskoj koje neposredno ili putem podružnice pruža usluge na području te države članice.
+(2) Agencija će na zahtjev nadležnog tijela države članice domaćina dostaviti bez odgode sve podatke i nalaze koji se odnose na nadzor likvidnosti investicijskih društava, do mjere u kojoj su ti podaci i nalazi relevantni za zaštitu ulagatelja u državi članici domaćinu.
+(3) Ako u postupku nadzora nad investicijskim društvom iz stavka 1. ovoga članka utvrdi likvidonosne poteškoće ili ako se razumno može očekivati da će se iste pojaviti, Agencija će nadležna tijela svih država članica domaćina u kojima investicijsko društvo sa sjedištem u Republici Hrvatskoj neposredno ili putem podružnice pruža usluge bez odgode obavijestiti o tome te im dostaviti pojedinosti o planiranju i provedbi plana oporavka, kao i pojedinosti o svim poduzetim nadzornim mjerama odnosno mjerama bonitetnog nadzora.
+(4) Na zahtjev nadležnog tijela države članice domaćina u kojoj investicijsko društvo iz stavka 1. ovoga članka pruža usluge, Agencija će istome dostaviti obrazloženu obavijest o tome kako su u nadzoru nad tim investicijskim društvom uzeti u obzir podaci i nalazi koje je dostavilo nadležno tijelo države članice domaćina.
+(5) Nadležno tijelo države članice domaćina, ako nije zadovoljno mjerama koje je Agencija poduzela prema investicijskom društvu iz stavka 1. ovoga članka, može poduzeti odgovarajuće mjere za sprečavanje daljnjih kršenja i radi zaštite interesa ulagatelja ili stabilnosti financijskog sustava, nakon što o tome obavijesti Agenciju i EBA-u/ESMA-u.
+(6) Ako Agencija mjere iz stavka 5. ovoga članka smatra neprimjerenima, može se obratiti EBA-i/ESMA-i na način propisan člankom 19. Uredbe (EU) broj 1093/2010.«.
