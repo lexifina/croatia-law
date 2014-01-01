@@ -1,0 +1,7 @@
+## Uvjeti koje moraju zadovoljavati osobe koje nude udjele AIF-a s privatnom ponudom
+# Članak 3.
+(1) Radnik u pravnoj osobi iz članka 2. stavka 1. ovoga pravilnika koji obavlja poslove nuđenja udjela u Republici Hrvatskoj mora ispunjavati najmanje sljedeće uvjete:
+1. znanje hrvatskog jezika (strani državljani dokazuju potvrdom o znanju hrvatskog jezika izdanom od Odsjeka za kroatistiku Filozofskog fakulteta u Republici Hrvatskoj),
+2. ima najmanje srednju stručnu spremu (dokazuje se ovjerenom preslikom svjedodžbe o završenoj srednjoj školi, odnosno svjedodžbom o položenoj maturi ili završnom ispitu, a strani državljani odgovarajućom ispravom kojom se dokazuje potreban stupanj obrazovanja, koja mora biti prevedena i potpisana od ovlaštenog sudskog tumača za hrvatski jezik, odnosno za taj strani jezik, te ovjerena od javnog bilježnika u Republici Hrvatskoj ili u diplomatskom predstavništvu Republike Hrvatske u toj državi),
+3. nije pravomoćno osuđivana niti je pokrenuta istraga ili potvrđena optužnica za kaznena djela iz područja gospodarskog kriminala (dokazuje se uvjerenjem o nekažnjavanju izdanim od nadležnog tijela Republike Hrvatske, a strani državljani i uvjerenjem nadležnog tijela države čiji su državljani, ovjerenom kao pod točkom 2. ovoga stavka).
+(2) Radnik u pravnoj osobi iz članka 2. stavka 1. ovoga pravilnika mora imati potrebna znanja o bitnim karakteristikama AIF-a s privatnom ponudom čije udjele nudi i značaju svih rizika povezanih s ulaganjem u udjele konkretnog AIF-a.
