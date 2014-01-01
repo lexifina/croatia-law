@@ -1,0 +1,14 @@
+## Razmjena informacija s drugim subjektima
+# Članak 211.
+(1) Hrvatska narodna banka može povjerljive informacije dostaviti ministarstvu nadležnom za financije, odnosno državnom tijelu ovlaštenom za predlaganje zakona iz područja supervizije kreditnih institucija, financijskih institucija, investicijskih društava i društava za osiguranje, samo za potrebe provođenja nadzora iz svoje nadležnosti, te za provođenje preventivnih i sanacijskih mjera za kreditne institucije koje posluju s poteškoćama.
+(2) Ako nastupi izvanredno stanje iz članka 286. stavka 1. ovoga Zakona, Hrvatska narodna banka dostavlja informacije relevantne za osobe iz stavka 1. ovoga članka svim dotičnim državama članicama.
+(3) Hrvatska narodna banka može povjerljive informacije povezane s bonitetnom supervizijom dostaviti istražnim povjerenstvima Hrvatskog sabora, Državnom uredu za reviziju i drugim istražnim tijelima ako su ispunjeni svi sljedeći uvjeti:
+1) tijela imaju na zakonu utemeljene ovlasti za provođenje temeljite kontrole i istraživanja djelovanja Hrvatske narodne banke u obavljanju supervizije kreditnih institucija
+2) tijelima su povjerljive informacije neophodne u svrhu ispunjenja njihovih zakonskih ovlasti
+3) na radnike ili članove tijela primjenjuje se obveza čuvanja povjerljivih informacija iz članka 206. ovoga Zakona
+4) ako su povjerljive informacije dobivene od nadležnih tijela druge države članice, one se ne smiju učiniti dostupnima bez izričite suglasnosti tih nadležnih tijela i mogu se upotrijebiti samo u svrhu za koju su dane
+5) ako povjerljive informacije sadrže osobne podatke, pri korištenju tih podataka ta su tijela dužna postupati u skladu s propisom kojim se uređuje zaštita osobnih podataka.
+(4) Informacije dobivene u skladu s člankom 194. stavcima 4. i 6., člankom 206. stavkom 4. i člankom 208. ovoga Zakona kao i informacije dobivene tijekom obavljenog neposrednog nadzora iz članka 194. stavaka 1. i 2. ovoga Zakona Hrvatska narodna banka ne smije priopćiti tijelima iz stavaka 3. i 5. ovoga članka bez izričite suglasnosti nadležnog tijela koje je informaciju dalo ili nadležnih tijela države članice u kojoj je obavljen neposredni nadzor.
+(5) Hrvatska narodna banka može povjerljive informacije iz članaka 206., 207. i 212. ovoga Zakona dostaviti društvu za poravnanje koje obavlja poslove poravnanja i namire, a koje je priznato prema zakonu kojim se uređuje tržište financijskih instrumenata, ako ocijeni da su ti podaci potrebni za stabilno poslovanje s obzirom na rizik neispunjenja ili mogućeg neispunjenja obveza sudionika tog tržišta.
+(6) Hrvatska narodna banka može informacije iz članka 206. stavka 4. ovoga Zakona priopćiti tijelima iz stavka 7. ovoga članka samo uz izričitu suglasnost nadležnog tijela od kojeg je informacije primila.
+(7) Na osobe iz stavaka 1., 2. i 7. ovoga članka primjenjuje se obveza čuvanja povjerljivih informacija iz članka 206. ovoga Zakona.

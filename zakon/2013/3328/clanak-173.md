@@ -1,0 +1,7 @@
+## Odbijanje revizorskog izvješća
+# Članak 173.
+(1) Ako isto revizorsko društvo obavi reviziju financijskih izvještaja kreditne institucije suprotno članku 170. ili članka 171. ovoga Zakona, Hrvatska narodna banka neće prihvatiti izvješće o reviziji financijskih izvještaja kreditne institucije za tu godinu.
+(2) Ako Hrvatska narodna banka utvrdi da revizija financijskih izvještaja nije obavljena ili da revizorsko izvješće nije sastavljeno u skladu s ovim Zakonom, podzakonskim propisima donesenima na temelju ovoga Zakona, zakona kojim se uređuje revizija i pravilima revizorske struke ili ako obavljenom supervizijom poslovanja kreditne institucije ili na drugi način utvrdi da revizorsko mišljenje o financijskim izvještajima kreditne institucije iz članka 168. ovoga Zakona nije zasnovano na istinitim i objektivnim činjenicama, ona može odbiti revizorsko izvješće i zahtijevati od kreditne institucije da reviziju obave ovlašteni revizori drugog revizorskog društva, a na trošak kreditne institucije.
+(3) Odbijanje revizorskog izvješća o obavljenoj reviziji financijskih izvještaja kreditne institucije ima za posljedicu odbijanje ocjene iz članka 174. ovoga Zakona.
+(4) U slučaju iz stavka 3. ovoga članka Hrvatska narodna banka neće sljedeće dvije kalendarske godine prihvaćati revizorsko izvješće o obavljenoj reviziji financijskih izvještaja koje je izdalo isto revizorsko društvo.
+(5) Hrvatska narodna banka donosi podzakonski propis kojim pobliže uređuje razloge za odbijanje revizorskog izvješća iz stavka 2. ovoga članka.

@@ -1,0 +1,6 @@
+## Nedostupnost depozita
+# Članak 70.
+(1) Hrvatska narodna banka donijet će rješenje o nedostupnosti depozita kada ocijeni da kreditna institucija, zbog razloga izravno povezanih s njezinom financijskom situacijom, nije sposobna u danom trenutku isplatiti depozit utvrđen zakonom kojim se uređuje osiguranje depozita, a koji je dospio, i kada ocijeni da se u tom trenutku ne može očekivati da će biti sposobna to učiniti.
+(2) Hrvatska narodna banka donijet će rješenje iz stavka 1. ovoga članka u najkraćem mogućem roku, a najkasnije u roku od pet radnih dana nakon što je utvrdila da kreditna institucija nije isplatila dospjele i plative depozite utvrđene zakonom kojim se uređuje osiguranje depozita.
+(3) U slučajevima kada je prestalo važiti odobrenje za rad kreditne institucije na temelju članka 68. stavka 1. točke 1. ovoga Zakona ili kada je rješenje poništeno ili ukinuto, Hrvatska narodna banka može, ako utvrdi postojanje razloga iz stavka 1. ovoga članka, donijeti rješenje o nedostupnosti njezinih depozita.
+(4) Rješenje iz stavka 1. ovoga članka Hrvatska narodna banka dostavit će bez odgode instituciji nadležnoj za osiguranje depozita i drugim nadležnim i nadzornim tijelima te objaviti u »Narodnim novinama«.

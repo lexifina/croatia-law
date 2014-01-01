@@ -1,0 +1,3 @@
+## Obavještavanje o poduzimanju preventivnih mjera
+# Članak 371.
+Iznimno od odredbi članka 370. ovoga Zakona, u izvanrednim situacijama kada Hrvatska narodna banka ocijeni da su ugroženi ili bi mogli biti ugroženi interesi deponenata, investitora i drugih osoba korisnika usluga kreditne institucije iz druge države članice koja pruža usluge na području Republike Hrvatske, Hrvatska narodna banka će protiv kreditne institucije poduzeti preventivne mjere. O poduzetim preventivnim mjerama Hrvatska narodna banka bez odgode će obavijestiti nadležno tijelo matične države članice, Europsko nadzorno tijelo za bankarstvo i Europsku komisiju.

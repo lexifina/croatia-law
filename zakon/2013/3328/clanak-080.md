@@ -1,0 +1,7 @@
+## Neposredno pružanje usluga u drugoj državi članici
+# Članak 80.
+(1) Kreditna institucija sa sjedištem u Republici Hrvatskoj koja namjerava početi neposredno pružati uzajamno priznate usluge na području druge države članice dužna je o tome prethodno obavijestiti Hrvatsku narodnu banku i navesti državu članicu u kojoj namjerava početi neposredno pružati usluge.
+(2) Matična kreditna institucija sa sjedištem u Republici Hrvatskoj kojoj je financijska institucija društvo kći, koja ispunjava uvjete iz članka 84. stavka 1. ovoga Zakona, a koja namjerava početi neposredno pružati uzajamno priznate usluge na području druge države članice, dužna je o tome prethodno obavijestiti Hrvatsku narodnu banku i navesti državu članicu u kojoj ta financijska institucija namjerava početi neposredno pružati usluge.
+(3) Obavijesti iz stavaka 1. i 2. ovoga članka kreditna institucija dužna je priložiti popis usluga koje namjerava pružati u državi članici te poslovni plan za prve tri poslovne godine.
+(4) Hrvatska narodna banka najkasnije će u roku od mjesec dana od dana primitka obavijesti iz stavaka 1. i 2. ovoga članka tu obavijest dostaviti nadležnom tijelu države članice domaćina i o tome obavijestiti kreditnu instituciju.
+(5) Kreditna ili financijska institucija može početi neposredno pružati uzajamno priznate usluge navedene u obavijesti iz stavaka 1. i 2. ovoga članka od dana primitka obavijesti od Hrvatske narodne banke da je nadležnom tijelu države članice dostavila obavijest iz prethodnog stavka.

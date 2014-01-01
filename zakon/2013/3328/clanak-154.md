@@ -1,0 +1,6 @@
+## Plan oporavka i sanacije
+# Članak 154.
+(1) Kreditna institucija dužna je u rokovima i na način iz podzakonskog propisa donesenog na temelju članka 101. stavka 2. točke 8. ovoga Zakona izraditi i Hrvatskoj narodnoj banci dostaviti plan oporavka za poboljšanje financijskog položaja kreditne institucije za slučajeve njegova znatnog pogoršanja.
+(2) Hrvatska narodna banka može podzakonskim propisom iz članka 101. stavka 2. točke 8. ovoga Zakona za kreditne institucije čija veličina, model poslovanja i povezanost s drugim institucijama ili financijskim sustavom u cjelini osiguravaju da njihova propast neće imati negativan učinak na financijska tržišta, druge institucije ili na uvjete financiranja urediti manji opseg plana oporavka i manju učestalost njegova ažuriranja.
+(3) Prije donošenja podzakonskih propisa iz članka 101. stavka 2. točke 8. ovoga Zakona Hrvatska narodna banka će se, o okolnostima iz stavka 2. ovoga članka, savjetovati s makrobonitetnim tijelom Republike Hrvatske.
+(4) Kreditna institucija dužna je surađivati s tijelom za sanaciju i dostaviti mu sve informacije potrebne za izradu održivog plana sanacije u kojem su navedeni mogući načini sanacije u slučaju upitnosti nastavka poslovanja kreditne institucije.

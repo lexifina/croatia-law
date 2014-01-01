@@ -1,0 +1,5 @@
+## Početak primjene protucikličkog zaštitnog sloja
+# Članak 380.
+(1) U razdoblju od 1. siječnja 2015. do 31. prosinca 2018. kreditna institucija dužna je izračunavati protuciklički zaštitni sloj kapitala u skladu s člancima 118. do 128. ovoga Zakona samo na osnovi izloženosti u Republici Hrvatskoj i u drugim državama članicama koje primjenjuju protuciklički zaštitni sloj kapitala u istom tom razdoblju i za koje je Hrvatska narodna banka donijela odluku o priznavanju tog prijelaznog razdoblja primjene zahtjeva za protuciklički zaštitni sloj.
+(2) Hrvatska narodna banka može donijeti odluku o priznavanju prijelaznog razdoblja primjene zahtjeva za protuciklički zaštitni sloj koje je odredilo imenovano tijelo drugih država članica, a koje je kraće od 31. prosinca 2018.
+(3) Ako Hrvatska narodna banka priznaje prijelazno razdoblje primjene zahtjeva za protuciklički zaštitni sloj iz stavka 2. ovoga članka, o tome će obavijestiti Europsku komisiju, Europski odbor za sistemske rizike, Europsko nadzorno tijelo za bankarstvo i relevantni kolegij supervizora.

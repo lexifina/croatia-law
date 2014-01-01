@@ -1,0 +1,6 @@
+## Kršenje pojedinih odredbi Zakona od strane kreditne institucije iz druge države članice
+# Članak 370.
+(1) Ako Hrvatska narodna banka utvrdi da kreditna institucija iz druge države članice koja pruža usluge u Republici Hrvatskoj krši odredbe članka 367. ovoga Zakona, Hrvatska narodna banka naložit će kreditne institucije supervizorske mjere i rokove za otklanjanje tih neusklađenosti.
+(2) Ako kreditna institucija u roku iz stavka 1. ovoga članka ne otkloni utvrđene neusklađenosti te Hrvatskoj narodnoj banci ne dostavi dokaze o njihovu otklanjanju, Hrvatska narodna banka o tome će obavijestiti nadležno tijelo matične države članice.
+(3) Ako nadležno tijelo matične države članice ne poduzme nikakve mjere ili su te mjere neprimjerene ili nisu provedive toliko da kreditna institucija nastavlja s kršenjem odredbi članka 368. ovoga Zakona, Hrvatska narodna banka obavijestit će nadležno tijelo matične države članice o mjerama koje će poduzeti kako bi se kreditna institucija spriječila da krši navedene odredbe.
+(4) Nakon dostave obavijesti iz prethodnog stavka nadležnom tijelu matične države članice, Hrvatska narodna banka može kreditnoj instituciji koja na području Republike Hrvatske krši odredbe članka 368. ovoga Zakona naložiti mjere uključujući zabranu pružanja usluga toj kreditnoj instituciji na području Republike Hrvatske.

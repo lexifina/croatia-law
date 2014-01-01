@@ -1,0 +1,8 @@
+# Članak 210.
+(1) Hrvatska narodna banka dostavit će povjerljive informacije u svrhu obavljanja njihovih zadataka sljedećim tijelima u Republici Hrvatskoj ili u drugim državama članicama:
+1) središnjim bankama članicama Europskog sustava središnjih banaka i drugim tijelima s ovlastima i odgovornostima za provođenje monetarne politike, kada je ta povjerljiva informacija relevantna za ostvarenje njihovih ciljeva vezanih uz provođenje monetarne politike i održavanje likvidnosti, nadzor nad platnim sustavima, sustavima za poravnanje i namiru financijskih instrumenata te očuvanje stabilnosti financijskog sustava, a osobito u izvanrednim situacijama iz članka 286. ovoga Zakona, kada je takve informacije potrebno dostaviti bez odgode
+2) ugovorni ili obvezni sustavi osiguranja depozita iz članka 113. stavka 7. Uredbe (EU) br. 575/2013
+3) drugim tijelima nadležnima za nadzor nad platnim sustavima i
+4) Europskom odboru za sistemske rizike, Europskom nadzornom tijelu za osiguranje i strukovno mirovinsko osiguranje, Europskom nadzornom tijelu za vrijednosne papire i tržišta kapitala, ako su te informacije relevantne za ispunjavanje njihovih zakonom propisanih zadataka prema uredbama (EU) br. 1092/2010, (EU) br. 1094/2010 ili (EU) br. 1095/2010.
+(2) Hrvatska narodna banka može od tijela iz stavka 1. ovoga članka zatražiti informacije u slučaju kada su te informacije nužne u svrhu obavljanja supervizije ili drugih poslova iz svoje nadležnosti u skladu s člankom 207. ovoga Zakona.
+(3) Na osobe iz ovoga članka primjenjuje se obveza čuvanja povjerljivih informacija iz članka 206. ovoga Zakona.

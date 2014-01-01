@@ -1,0 +1,4 @@
+## Kreditna institucija
+# Članak 5.
+(1) Kreditna institucija sa sjedištem u Republici Hrvatskoj može se, pod uvjetima utvrđenima ovim Zakonom, osnovati kao banka, štedna banka ili stambena štedionica.
+(2) Pojam »kreditna institucija« koji ne sadrži dodatak »iz države članice« ili »iz treće zemlje«, u smislu ovoga Zakona, odnosi se na kreditnu instituciju sa sjedištem u Republici Hrvatskoj koja je od Hrvatske narodne banke dobila odobrenje za rad. Iznimno, pojam »kreditna institucija«, u smislu ove glave, upotrebljava se za svaku kreditnu instituciju neovisno o državi u kojoj se nalazi njezino sjedište. Pojam »kreditna institucija kći«, u smislu glave XXII. Supervizija na konsolidiranoj osnovi, upotrebljava se za svaku kreditnu instituciju koja ima položaj kreditne institucije kćeri neovisno o državi u kojoj kreditna institucija ima sjedište.

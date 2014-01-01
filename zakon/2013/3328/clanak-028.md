@@ -1,0 +1,11 @@
+## Odlučivanje o prethodnoj suglasnosti za stjecanje kvalificiranog udjela
+# Članak 28.
+(1) Pri odlučivanju o izdavanju prethodne suglasnosti za stjecanje kvalificiranog udjela Hrvatska narodna banka procjenjuje primjerenost i financijsko stanje stjecatelja kvalificiranog udjela prema sljedećim kriterijima:
+1) ugledu stjecatelja
+2) ugledu, odgovarajućim stručnim znanjima, sposobnostima i iskustvu članova uprave kreditne institucije u skladu s člankom 35. stavkom 2. i člankom 38. ovoga Zakona i članova nadzornog odbora u skladu s člankom 35. stavkom 3. i člankom 45. ovoga Zakona
+3) stručnim znanjima, sposobnostima i iskustvu bilo kojeg člana višeg rukovodstva kreditne institucije ako će voditi poslove kreditne institucije, potrebnima za obavljanje izvršnih funkcija
+4) financijskom stanju stjecatelja, posebno u odnosu na vrstu poslova koje obavlja kreditna institucija u kojoj se stječe kvalificirani udio
+5) mogućnostima kreditne institucije da se pridržava, odnosno nastavi pridržavati odredbi ovoga Zakona i Uredbe (EU) br. 575/2013 i kada je primjenjivo ostalih propisa Europske unije, propisa kojima se uređuje poslovanje financijskih konglomerata i propisa kojima se uređuje poslovanje institucija za elektronički novac, a posebno prema tome ima li grupa čijim će članom postati kreditna institucija strukturu koja omogućava provođenje djelotvorne supervizije, djelotvornu razmjenu informacija među nadležnim nadzornim tijelima i određivanje podjele odgovornosti među nadležnim tijelima te
+6) prema tome postoje li opravdani razlozi za sumnju, u skladu s propisima o sprječavanju pranja novca i financiranja terorizma, da se u vezi s predmetnim stjecanjem provodi ili pokušava provesti pranje novca ili financiranje terorizma, ili da predmetno stjecanje može povećati rizik od provođenja pranja novca ili financiranja terorizma.
+(2) Hrvatska narodna banka neće postavljati prethodne uvjete u vezi s visinom udjela koje stjecatelj namjerava steći niti će procjenjivati zahtjev za izdavanje prethodne suglasnosti za stjecanje kvalificiranog udjela s osnova ekonomskih potreba tržišta.
+(3) Hrvatska narodna banka može donijeti podzakonski propis kojim pobliže uređuje kriterije na temelju kojih procjenjuje primjerenost i financijsko stanje stjecatelja kvalificiranog udjela.

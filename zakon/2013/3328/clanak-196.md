@@ -1,0 +1,4 @@
+## Mjere za zaštitu općeg dobra i zaštitu deponenata
+# Članak 196.
+(1) Iznimno od odredbi članaka 195. i 197. ovoga Zakona, Hrvatska narodna banka može, u okviru svojih ovlasti, kreditnoj instituciji iz druge države članice koja pruža usluge na području Republike Hrvatske naložiti mjere radi sprječavanja ili otklanjanja kršenja propisa donesenih radi zaštite općeg dobra. Kao krajnju mjeru Hrvatska narodna banka može zabraniti toj kreditnoj instituciji pružanje uzajamno priznatih usluga na području Republike Hrvatske.
+(2) Hrvatska narodna banka dužna je poduzeti odgovarajuće mjere kako bi spriječila kreditnu instituciju iz druge države članice koja pruža usluge u Republici Hrvatskoj preko podružnice ili neposredno, a kojoj je nadležno tijelo matične države članice ukinulo odobrenje za rad, da započne daljnje transakcije na području Republike Hrvatske te kako bi zaštitila interese deponenata.

@@ -1,0 +1,10 @@
+## Značenje pojedinih izraza
+# Članak 331.
+Pojedini izrazi upotrijebljeni za potrebe ove glave, a u skladu s pravom svake države članice, imaju sljedeće značenje:
+- »upravitelj« označuje svaku osobu ili tijelo koje je postavila upravna vlast, tijelo s javnim ovlastima ili sud radi provođenja reorganizacijskih mjera
+- »upravne vlasti, agencije i druga tijela s javnim ovlastima ili sudovi« označuju upravne vlasti, agencije, tijela s javnim ovlastima ili sudove država članica koji su nadležni za reorganizacijske mjere ili likvidacijske, odnosno stečajne postupke
+- »likvidator« označuje svaku osobu ili tijelo koje je postavila upravna vlast, tijelo s javnim ovlastima ili sud radi provođenja likvidacijskog postupka
+- »likvidacijski postupak« označuje postupak koji je otvorila upravna vlast, tijelo s javnim ovlastima ili sud neke države članice i koji se vodi pod njezinim odnosno njegovim nadzorom s ciljem unovčenja imovinskih vrijednosti, uključujući i postupke koji se okončavaju nagodbom ili nekom drugom sličnom mjerom
+- »stečajni upravitelj« označuje svaku osobu ili tijelo koje je imenovano od strane upravne vlasti, tijela s javnim ovlastima, suda ili vjerovnika, čija je zadaća da upravlja stečajnom masom i unovčava je, odnosno da nadzire poslovnu djelatnost stečajnog dužnika
+- »stečajni postupak« označuje postupak koji je otvorio sud ili drugo tijelo neke države članice nakon utvrđenja postojanja stečajnog razloga, a čija je posljedica potpuna ili djelomična zapljena imovine dužnika i imenovanje stečajnog upravitelja, koji se vodi pod nadzorom dotičnog suda, odnosno tijela te čiji je cilj skupna namira vjerovnika stečajnog dužnika, odnosno uređenje pravnog odnosa dužnika i njegovih vjerovnika, a osobito radi održavanja njegove djelatnosti
+- »reorganizacijska mjera« označuje mjeru kojoj je svrha očuvati ili obnoviti financijsku stabilnost kreditne institucije i koja bi mogla utjecati na postojeća prava trećih osoba uključujući zabranu plaćanja, zabranu provedbe ovrhe, kao i smanjenje tražbina.

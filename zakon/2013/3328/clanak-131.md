@@ -1,0 +1,6 @@
+## Način određivanja stope zaštitnog sloja za strukturni sistemski rizik
+# Članak 131.
+(1) Hrvatska narodna banka određuje stopu iz članka 129. stavka 1. ovoga Zakona u visini od najmanje 1% ukupnog iznosa izloženosti riziku kreditne institucije u Republici Hrvatskoj, drugoj državi članici ili trećoj zemlji na koju se primjenjuje zaštitni sloj za strukturni sistemski rizik, i to kao višekratnik 0,5 postotnih bodova. Ta stopa može biti različita za različite podskupine kreditnih institucija.
+(2) Ako Hrvatska narodna banka odlučiti primijeniti zaštitni sloj za strukturni sistemski rizik u visini do 3% na osnovi izloženosti iz drugih država članica, dužna je odrediti istu stopu zaštitnog sloja za sve te države članice.
+(3) Hrvatska narodna banka dužna je pri određivanju potrebnog zaštitnog sloja za strukturni sistemski rizik voditi računa o tome da obveza njegova održavanja ne dovodi do nerazmjerno nepovoljnih učinaka na cijeli financijski sustav drugih država članica ili na dijelove tog sustava ili na financijski sustav Europske unije kao cjeline stvaranjem zapreka funkcioniranju unutarnjeg tržišta.
+(4) Hrvatska narodna banka dužna je preispitati obvezu održavanja zaštitnog sloja za strukturni sistemski rizik najmanje svake dvije godine.

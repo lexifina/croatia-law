@@ -1,0 +1,4 @@
+## Posebni primjeri uključivanja u grupu kreditnih institucija u RH
+# Članak 279.
+(1) Hrvatska narodna banka može naložiti matičnoj kreditnoj instituciji u RH, pravnoj osobi koja nije kreditna ni financijska institucija, odnosno kreditnoj instituciji koja je s takvom pravnom osobom povezana na način iz članka 15. ovoga Zakona, da u grupu kreditnih institucija u RH uključi sve članove grupe te da u skladu s ovim Zakonom i propisima Europske unije kojima se uređuje poslovanje kreditne institucije, provede konsolidaciju svih članova grupe, neovisno o njihovoj djelatnosti, ako je to potrebno za potpuno i objektivno prikazivanje financijskog stanja i rezultata poslovanja kreditne institucije.
+(2) U slučaju iz stavka 1. ovoga članka, Hrvatska narodna banka rješenjem će odrediti način provođenja konsolidacije.

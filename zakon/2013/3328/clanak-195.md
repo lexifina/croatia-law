@@ -1,0 +1,4 @@
+## Supervizorske mjere nad kreditnom institucijom iz druge države članice
+# Članak 195.
+(1) Ako Hrvatska narodna banka na temelju informacija iz članka 202. ovoga Zakona utvrdi da kreditna institucija iz druge države članice koja pruža usluge u Republici Hrvatskoj krši odredbe članka 88. ovoga Zakona, ili Uredbe (EU) br. 575/2013, te ako postoji značajan rizik da se neće uskladiti s odredbama članka 88. ovoga Zakona ili odredbama Uredbe (EU) br. 575/2013, Hrvatska narodna banka o tome će obavijestiti nadležno tijelo matične države članice.
+(2) Ako Hrvatska narodna banka smatra da nadležno tijelo matične države članice nije poduzelo mjere za okončanje neusklađenosti ili mjere za sprječavanje rizika neusklađenosti iz stavka 1. ovoga članka ili ako ocijeni da takve mjere neće ni poduzeti, može se zatražiti posredovanje Europskog nadzornog tijela za bankarstvo u skladu s člankom 19. Uredbe (EU) br. 1093/2010.

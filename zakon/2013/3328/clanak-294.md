@@ -1,0 +1,4 @@
+# Članak 294.
+(1) U slučaju kada kreditna institucija, financijski holding, mješoviti financijski holding ili mješoviti holding kontrolira jedno ili više društava kćeri koja su društva za osiguranje ili društva ovlaštena za pružanje investicijskih usluga, koja podliježu izdavanju odobrenja za rad, Hrvatska narodna banka surađivat će s nadzornim tijelima odgovornima za nadzor tih društava.
+(2) U slučaju iz stavka 1. ovoga članka, Hrvatska narodna banka s nadzornim će tijelima razmjenjivati informacije koje bi mogle olakšati obavljanje njihovih zadaća te omogućiti nadzor nad aktivnostima i općim financijskim položajem nadziranih društava.
+(3) Informacije dobivene u okviru supervizije na konsolidiranoj osnovi, a osobito svaka razmjena informacija između nadzornih tijela, podliježu obvezi čuvanja povjerljivih informacija.

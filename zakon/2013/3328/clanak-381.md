@@ -1,0 +1,13 @@
+## Postupak pri određivanju zaštitnog sloja za strukturni sistemski rizik u prijelaznom razdoblju
+# Članak 381.
+(1) Ako Hrvatska narodna banka u razdoblju od 1. siječnja 2014. do 31. prosinca 2014. odredi ili promijeni stopu zaštitnog sloja za strukturni sistemski rizik u visini koja ne prelazi 3% ukupnog iznosa izloženosti riziku, dužna je najkasnije mjesec dana prije nego što objavi odluku u skladu s člankom 381. ovoga Zakona obavijestiti Europsku komisiju, Europski odbor za sistemske rizike, Europsko nadzorno tijelo za bankarstvo te nadležna i imenovana tijela relevantnih država članica. Ako se obveza održavanja ovoga zaštitnog sloja primjenjuje i na izloženosti iz trećih zemalja, Hrvatska narodna banka dužna je obavijestiti i nadležna tijela tih država.
+(2) Obavijest iz stavka 1. ovoga članka sadrži detaljan opis sljedećih informacija:
+1) sistemski ili makrobonitetni rizik u Republici Hrvatskoj
+2) razloge zbog kojih veličina sistemskog ili makrobonitetnog rizika ugrožava stabilnost financijskog sustava u Republici Hrvatskoj te opravdava stopu zaštitnog sloja za strukturni sistemski rizik
+3) obrazloženje zašto Hrvatska narodna banka smatra da je vjerojatno da će predloženi zaštitni sloj za strukturni sistemski rizik biti razmjeran i učinkovit za smanjenje rizika
+4) procjenu vjerojatnog pozitivnog ili negativnog utjecaja zaštitnog sloja za strukturni sistemski rizik na unutarnje tržište, na osnovi dostupnih informacija
+5) obrazloženje zašto nijedna od mjera propisanih na osnovi ovoga Zakona ili Uredbe (EU) br. 575/2013, ne uzimajući u obzir članke 458. i 459. te Uredbe, ako bi se naložile pojedinačno ili zajedno, ne bi bila dovoljna za rješavanje pitanja utvrđenog makrobonitetnog ili sistemskog rizika uzimajući u obzir relativnu učinkovitost tih mjera i
+6) visinu stope zaštitnog sloja za strukturni sistemski rizik koju Hrvatska narodna banka namjerava propisati.
+(3) Ako Hrvatska narodna banka u razdoblju od 1. siječnja 2014. do 31. prosinca 2014. namjerava odrediti ili promijeniti stopu zaštitnog sloja za strukturni sistemski rizik na način da ona bude veća od 3% ukupnog iznosa izloženosti riziku, dužna je prethodno obavijestiti Europsku komisiju, Europski odbor za sistemske rizike, Europsko nadzorno tijelo za bankarstvo te nadležna i imenovana tijela relevantnih država članica. Ako se obveza održavanja ovoga zaštitnog sloja primjenjuje i na izloženosti iz trećih zemalja, Hrvatska narodna banka dužna je obavijestiti i nadležna tijela tih država.
+(4) Obavijest iz stavka 3. ovoga članka mora sadržavati sve informacije iz stavka 2. ovoga članka.
+(5) Hrvatska narodna banka može primijeniti stopu iz stavka 3. ovoga članka tek nakon što Europska komisija provedbenim aktom odobri primjenu te stope.

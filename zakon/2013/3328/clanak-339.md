@@ -1,0 +1,6 @@
+## Pravo na prijavu tražbina stranih vjerovnika
+# Članak 339.
+(1) Vjerovnik kreditne institucije nad kojom je otvoren likvidacijski, odnosno stečajni postupak u Republici Hrvatskoj kao matičnoj državi članici, a koji svoje prebivalište, uobičajeno boravište ili sjedište ima u nekoj drugoj državi članici te vjerovnik s javnopravnim tražbinama ovlašteni su u dotičnom likvidacijskom, odnosno stečajnom postupku koji se vodi u Republici Hrvatskoj prijaviti svoju tražbinu.
+(2) S tražbinama vjerovnika iz stavka 1. ovoga članka postupa se na isti način i one imaju isti isplatni red kao i ekvivalentne tražbine koje su prijavili vjerovnici koji svoje prebivalište, boravište ili sjedište imaju u Republici Hrvatskoj.
+(3) Vjerovnici iz stavka 1. ovoga članka prijavljuju svoju tražbinu u skladu s uputama dobivenima u obavijesti iz članka 338. stavka 2. ovoga Zakona.
+(4) Vjerovnik može svoju tražbinu prijaviti na službenom jeziku, odnosno jednom od službenih jezika države članice u kojoj ima prebivalište, boravište ili sjedište pod uvjetom da prijava njegove tražbine i njezino obrazloženje nosi naslov »Prijava i obrazloženje tražbine« na hrvatskom jeziku. Likvidator, odnosno stečajni upravitelj može zahtijevati od vjerovnika da priloži ovjerovljene prijevode na hrvatski jezik prijave i obrazloženja tražbine.

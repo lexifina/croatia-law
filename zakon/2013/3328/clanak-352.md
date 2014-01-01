@@ -1,0 +1,5 @@
+## Upravitelj, likvidator, stečajni upravitelj
+# Članak 352.
+(1) Ako je u drugoj državi članici imenovan upravitelj, likvidator, odnosno stečajni upravitelj nad kreditnom institucijom iz druge države članice, svoje imenovanje dokazuje u Republici Hrvatskoj ovjerenim prijepisom izvornika strane odluke kojom je imenovan ili potvrdom koju je izdala upravna vlast, tijelo s javnim ovlastima ili sud države članice. U Republici Hrvatskoj može se zahtijevati prijevod te odluke, odnosno potvrde na hrvatski jezik bez legalizacije ili neke druge formalnosti.
+(2) Upravitelj, likvidator, odnosno stečajni upravitelj imenovan u drugoj državi članici, na području Republike Hrvatske ima sva ovlaštenja koja mu pripadaju prema pravu države članice te može imenovati osobe za provođenje postupka i zastupanje.
+(3) Osobe iz stavaka 1. i 2. ovoga članka pri izvršavanju svojih ovlaštenja dužne su poštivati zakone i propise Republike Hrvatske, a posebice glede načina unovčenja imovine i glede obavještavanja radnika. Ta ovlaštenja ne uključuju ovlaštenje na primjenu prisilnih sredstava ni ovlaštenje da odlučuju u sudskim ili drugim sporovima.

@@ -1,0 +1,4 @@
+## Zaštita trećih
+# Članak 355.
+(1) Kada se kreditna institucija iz Republike Hrvatske ili druge države članice nakon uvođenja reorganizacijske mjere ili otvaranja likvidacijskog, odnosno stečajnog postupka namiruje prodajom nekretnine, tada se pravni učinak te pravne radnje određuje prema pravu države članice na čijem se području nalazi nekretnina.
+(2) Kada se kreditna institucija iz Republike Hrvatske ili druge države članice nakon uvođenja reorganizacijske mjere ili otvaranja likvidacijskog, odnosno stečajnog postupka namiruje prodajom broda, zrakoplova te instrumenata ili prava na instrumentima čije postojanje i prijenos pretpostavlja upis u javnu knjigu ili na račun ili u središnji depozitarni sustav koji se vodi u dotičnoj državi članici, tada se pravni učinak te pravne radnje određuje prema pravu države članice u kojoj se vodi ta javna knjiga, račun ili središnji depozitarni sustav.

@@ -1,0 +1,12 @@
+## Odlučivanje o statusu značajne podružnice kada je Hrvatska narodna banka konsolidirajuće nadzorno tijelo
+# Članak 204.
+(1) Ako Hrvatska narodna banka zaprimi zahtjev nadležnog tijela druge države članice da podružnicu kreditne institucije iz Republike Hrvatske koja pruža usluge na području te države članice smatra značajnom podružnicom, Hrvatska narodna banka surađivat će s nadležnim tijelom te države članice pri donošenju zajedničke odluke o značajnosti podružnice.
+(2) Odluka iz stavka 1. ovoga članka mora biti u pisanom obliku i obrazložena, a dostavlja se relevantnim nadležnim tijelima.
+(3) Ako zajednička odluka o značajnosti podružnice nije donesena u roku dva mjeseca od dana zaprimanja zahtjeva iz stavka 1. ovoga članka, a nadležno tijelo te države članice u roku od iduća dva mjeseca donese odluku da se podružnici iz stavka 1. ovoga članka dodjeljuje status značajne podružnice, ta je odluka obvezujuća i za Hrvatsku narodnu banku.
+(4) Hrvatska narodna banka nadležnim će tijelima države članice u kojoj kreditna institucija sa sjedištem u Republici Hrvatskoj ima značajnu podružnicu proslijediti informacije iz članka 288. stavka 5. točaka 3. i 4. ovoga Zakona te u suradnji s tim nadležnim tijelima planirati i koordinirati aktivnosti iz članka 282. stavka 1. točke 3. ovoga Zakona.
+(5) Ako u kreditnoj instituciji iz stavka 1. nastane izvanredno stanje, Hrvatska narodna banka o tome će bez odgode obavijestiti osobe iz članka 210. stavka 1. točke 1. i članka 211. stavka 1. ovoga Zakona te Europski odbor za sistemske rizike.
+(6) Hrvatska narodna banka nadležnim tijelima države članice u kojoj kreditna institucija sa sjedištem u Republici Hrvatskoj ima značajnu podružnicu proslijedit će sljedeće informacije:
+1) procjenu rizika kreditne institucije koja ima značajnu podružnicu na pojedinačnoj ili konsolidiranoj osnovi u skladu s člankom 180. stavkom 1. i člankom 181. stavkom 1. ovoga Zakona i ako je primjenjivo procjenu rizika iz članka 284. stavaka 2. i 3. ovoga Zakona i
+2) odluke o izrečenim supervizorskim mjerama iz članaka 224. i 225. ovoga Zakona koje su relevantne za tu podružnicu i
+3) odluke u vezi s validacijom internih modela koje su relevantne za tu podružnicu.
+(7) Hrvatska narodna banka savjetovat će se s nadležnim tijelom države članice u kojoj kreditna institucija sa sjedištem u Republici Hrvatskoj ima značajnu podružnicu o operativnim postupcima propisanima za planove oporavka likvidnosti, ako je to relevantno za likvidnosni rizik u valuti države članice domaćina.

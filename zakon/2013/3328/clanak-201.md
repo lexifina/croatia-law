@@ -1,0 +1,6 @@
+## XVII. SURADNJA S NADLEŽNIM TIJELIMA I RAZMJENA INFORMACIJA
+## Suradnja između nadležnih i nadzornih tijela Republike Hrvatske
+# Članak 201.
+(1) Hrvatska narodna banka, Hrvatska agencija za nadzor financijskih usluga i nadzorna tijela u Republici Hrvatskoj dostavit će na zahtjev pojedinog nadležnog tijela tom tijelu sve informacije o kreditnoj ili financijskoj instituciji ili investicijskom društvu koje su mu potrebne u postupku provođenja zadataka supervizije i nadzora nad kreditnom ili financijskom institucijom ili investicijskim društvom, u postupku vezanom za izdavanje odobrenja i suglasnosti ili pri odlučivanju o drugim pojedinačnim zahtjevima iz svoje nadležnosti.
+(2) Tijela iz stavka 1. ovoga članka dužna su se međusobno obavještavati o ukidanju odobrenja, nezakonitostima i nepravilnostima koje utvrde tijekom obavljanja supervizije i nadzora i o izrečenim mjerama za njihovo otklanjanje ako su ti nalazi i izrečene mjere bitni za rad tog drugog tijela.
+(3) Ako neko tijelo u Republici Hrvatskoj koje nije Hrvatska narodna banka ima sanacijske ovlasti, Hrvatska narodna banka i to tijelo međusobno će razmjenjivati informacije o kreditnoj instituciji koje su potrebne u postupku provođenja sanacije kreditne institucije.

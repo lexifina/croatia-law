@@ -1,0 +1,5 @@
+## Zahtjev za održavanje zaštitnog sloja za strukturni sistemski rizik
+# Članak 130.
+(1) Kreditna institucija dužna je održavati zaštitni sloj za strukturni sistemski rizik u obliku redovnog osnovnog kapitala u visini i na način koji odredi Hrvatska narodna banka.
+(2) Kreditna institucija ne smije se iznosom redovnog osnovnog kapitala koji održava radi ispunjavanja zahtjeva iz stavka 1. ovoga članka koristiti za ispunjavanje zahtjeva iz članka 92. Uredbe (EU) br. 575/2013, zahtjeva za održavanje zaštitnog sloja za očuvanje kapitala iz članka 117. ovoga Zakona, zahtjeva za održavanje protucikličkog zaštitnog sloja kapitala iz članka 118. ovoga Zakona, kao ni zahtjeva naloženih na temelju članaka 220., 224. i 228. ovoga Zakona.
+(3) Na kreditnu instituciju koja ne ispunjava zahtjev iz stavka 2. ovoga članka primjenjuju se odredbe članka 140. stavaka 2., 3. i 5. i članka 143. ovoga Zakona. Ako primjena tih odredbi ne dovede do zadovoljavajućeg poboljšanja redovnog osnovnog kapitala kreditne institucije za potrebe relevantnog strukturnog sistemskog rizika, Hrvatska narodna banka može naložiti dodatne mjere u skladu s ovim Zakonom.
