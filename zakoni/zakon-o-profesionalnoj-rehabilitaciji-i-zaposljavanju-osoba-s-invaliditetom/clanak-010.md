@@ -1,0 +1,7 @@
+# Članak 10.
+(1) Poslodavci iz članka 8. stavka 1. ovoga Zakona koji ne ispunjavaju obvezu kvotnog zapošljavanja osoba s invaliditetom obveznici su novčane naknade te obveznici obračunavanja i plaćanja novčane naknade.
+(2) Osnovica za obračun novčane naknade jest umnožak broja osoba s invaliditetom koje je obveznik bio dužan zaposliti i iznosa minimalne plaće za razdoblje na koje se obveza odnosi, a visina naknade obračunava se po stopi od 30 %.
+(3) Novčana naknada se obračunava i dospijeva na naplatu do zadnjeg dana u mjesecu za prethodni mjesec.
+(4) O iznosu obračunate novčane naknade obveznik je dužan sastaviti izvješće i dostaviti ga Zavodu za vještačenje, profesionalnu rehabilitaciju i zapošljavanje osoba s invaliditetom.
+(5) Na obvezu podnošenja izvješća iz stavka 4. ovoga članka, obvezu plaćanja zatezne kamate u slučaju neplaćanja novčane naknade u propisanom roku i ostale obveze poslodavca vezane uz novčanu naknadu te na mjerodavnost zaprimanja izvješća, evidentiranje, naplatu, nadzor, zastaru prava na naplatu novčane naknade, vođenje prekršajnog postupka primjenjuju se posebni propisi koji uređuju doprinose za obvezna osiguranja, kao i opći porezni propisi te provedbeni propisi doneseni na temelju istih, ako ovim Zakonom nije drukčije propisano.
+(6) Novčana naknada uplaćuje se u korist uplatnog računa propisanog provedbenim propisom o načinu uplaćivanja prihoda proračuna, doprinosa za obvezna osiguranja te prihoda za financiranje drugih javnih potreba koje donosi ministar financija.

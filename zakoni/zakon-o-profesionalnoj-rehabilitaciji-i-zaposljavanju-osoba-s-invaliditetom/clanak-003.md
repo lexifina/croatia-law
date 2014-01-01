@@ -1,0 +1,4 @@
+# Članak 3.
+(1) Osoba s invaliditetom je osoba koja ima dugotrajna tjelesna, mentalna, intelektualna ili osjetilna oštećenja koja u međudjelovanju s različitim preprekama mogu sprječavati njezino puno i učinkovito sudjelovanje u društvu na ravnopravnoj osnovi s drugima.
+(2) Osoba s invaliditetom s preostalom radnom sposobnosti je osoba čiji invaliditet u odnosu na sposobnosti osobe bez invaliditeta jednake ili slične životne dobi, jednake ili slične naobrazbe, u jednakim ili sličnim uvjetima rada, na jednakim ili sličnim poslovima ima za posljedicu smanjenu mogućnost radno se osposobiti i zaposliti.
+(3) Iznimno, osobom s invaliditetom s preostalom radnom sposobnosti smatra se i osoba s invaliditetom čiji je radni učinak u granicama očekivanog, ali se na temelju smanjenih stvarnih i procijenjenih općih sposobnosti takve osobe ocijeni da je to u interesu očuvanja njezinih tjelesnih, osjetilnih i mentalnih sposobnosti.

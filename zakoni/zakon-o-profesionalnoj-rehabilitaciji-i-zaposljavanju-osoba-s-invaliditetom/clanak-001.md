@@ -1,0 +1,3 @@
+## I. OPĆE ODREDBE
+# Članak 1.
+Ovim se Zakonom radi zaštite osoba s invaliditetom propisuju prava osoba s invaliditetom na profesionalnu rehabilitaciju, zapošljavanje i rad te uređuje zapošljavanje i rad osoba s invaliditetom na otvorenom tržištu rada i pod posebnim uvjetima, osnivanje, djelatnost te upravna i stručna tijela u centru za profesionalnu rehabilitaciju, integrativnoj radionici i zaštitnoj radionici, mjere za poticanje zapošljavanja i rada osoba s invaliditetom, djelatnost i nadležnost Zavoda za vještačenje, profesionalnu rehabilitaciju i zapošljavanje osoba s invaliditetom te odgovornost za povrede odredaba ovoga Zakona.

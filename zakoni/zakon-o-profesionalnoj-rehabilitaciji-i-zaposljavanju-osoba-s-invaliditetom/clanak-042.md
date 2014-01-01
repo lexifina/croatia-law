@@ -1,0 +1,4 @@
+## IX. PRIJELAZNE I ZAVRŠNE ODREDBE
+# Članak 42.
+(1) Poslodavci koji su sukladno Zakonu o profesionalnoj rehabilitaciji i zapošljavanju osoba s invaliditetom (»Narodne novine«, br. 143/02. i 33/05.) obveznici Posebnog doprinosa za poticanje zapošljavanja osoba s invaliditetom te obveznici obračunavanja i plaćanja Posebnog doprinosa za poticanje zapošljavanja osoba s invaliditetom, dužni su obračunavati i uplaćivati taj doprinos sve do ispunjenja obveze kvotnog zapošljavanja osoba s invaliditetom sukladno odredbi članka 8. ovoga Zakona, a najkasnije do 1. siječnja 2015.
+(2) Poslodavci iz stavka 1. ovoga članka koji do 1. siječnja 2015. ne ispune obvezu kvotnog zapošljavanja osoba s invaliditetom postaju obveznici novčane naknade te obveznici obračunavanja i plaćanja novčane naknade sukladno odredbi članka 10. ovoga Zakona.
