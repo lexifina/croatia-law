@@ -1,0 +1,4 @@
+# Članak 169.
+(1) Novčanom kaznom u iznosu od 15.000,00 do 30.000,00 kuna kaznit će se nadzorni inženjer i glavni nadzorni inženjer ako obavlja poslove stručnog nadzora, a istodobno je zaposlen kod izvođača radova (članak 56. stavak 2.).
+(2) Novčanom kaznom u iznosu od 15.000,00 do 30.000,00 kuna kaznit će se za prekršaj glavni nadzorni inženjer ako stručni nadzor građenja nije cjelovit i međusobno usklađen i/ili ako o tome ne sastavi završno izvješće (članak 57. stavak 3.).
+(3) Uz kaznu za prekršaj iz stavaka 1. i 2. ovoga članka osobi koja obavlja stručni nadzor može se izreći zaštitna mjera zabrane obavljanja poslova provedbe stručnog nadzora u trajanju od tri do šest mjeseci, a za prekršaj počinjen drugi puta uz novčanu kaznu izreći će se navedena mjera u trajanju od šest mjeseci do jedne godine.

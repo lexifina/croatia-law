@@ -1,0 +1,7 @@
+# Članak 175.
+(1) Akt za uporabu građevine u smislu članka 174. stavaka 1. i 2. ovoga Zakona je svaki akt za uporabu građevine, akt kojim je građevina ozakonjena te akt, odnosno dokumenti kojima se nezakonito izgrađena građevina izjednačava sa zakonito izgrađenom građevinom, izdan, odnosno pribavljen na temelju zakona koji je važio prije stupanja na snagu ovoga Zakona.
+(2) Akti za uporabu građevine su uporabna dozvola, potvrda upravnog tijela da mu je dostavljeno završno izvješće nadzornog inženjera, uvjerenje za uporabu, pravomoćna građevinska dozvola, odnosno drugi odgovarajući akt izdan do 19. lipnja 1991. s potvrdom građevinske inspekcije da nije u tijeku postupak građevinske inspekcije i dozvola za upotrebu.
+(3) Akti za ozakonjenje su rješenje o izvedenom stanju i potvrda izvedenog stanja.
+(4) Akti kojima se nezakonito izgrađena građevina izjednačava sa zakonito izgrađenom građevinom su uvjerenje katastarskog ureda, odnosno Središnjeg ureda Državne geodetske uprave da je zgrada izgrađena do 15. veljače 1968. i uvjerenje upravnog tijela da je zgrada izgrađena do 15. veljače 1968.
+(5) Dokumenti kojima se nezakonito izgrađena građevina izjednačava sa zakonito izgrađenom građevinom su dokumenti iz članka 332. stavaka 1., 2. i 3. Zakona o prostornom uređenju i gradnji (»Narodne novine«, br. 76/07., 38/09., 55/11., 90/11., 50/12. i 55/12.).
+(6) Akti i dokumenti iz stavka 1. ovoga članka smatraju se uporabnom dozvolom u smislu ovoga Zakona.

@@ -1,0 +1,8 @@
+# Članak 31.
+(1) Ovlaštenje za energetsko certificiranje i energetski pregled zgrade s jednostavnim tehničkim sustavom daje se fizičkoj osobi koja ispunjava uvjete iz članka 29. stavka 1. podstavka 1., 2. i 3. ili stavka 2. ovoga Zakona i koja je uspješno završila program stručnog osposobljavanja Modul 1 propisan pravilnikom iz članka 47. ovoga Zakona, odnosno pravnoj osobi koja zapošljava najmanje jednu fizičku osobu koja je uspješno završila navedeni program osposobljavanja.
+(2) Ovlaštenje za energetsko certificiranje zgrada sa složenim tehničkim sustavom daje se pravnoj osobi koja zapošljava najmanje jednu fizičku osobu koja ispunjava uvjete iz članka 29. stavka 1. podstavaka 1., 2. i 3. ovoga Zakona i koja je uspješno završila program stručnog osposobljavanja Modul 2 propisan pravilnikom iz članka 47. ovoga Zakona.
+(3) Ovlaštenje za energetski pregled zgrade sa složenim tehničkim sustavom daje se fizičkoj osobi koja ispunjava uvjete iz članka 29. stavka 1. podstavaka 1., 2. i 3. ovoga Zakona i koja je uspješno završila program stručnog osposobljavanja Modul 2 propisan pravilnikom iz članka 47. ovoga Zakona, odnosno pravnoj osobi koja zapošljava najmanje jednu fizičku osobu koja je uspješno završila navedeni program stručnog osposobljavanja, i to u dijelu njezine struke, kako slijedi:
+1. za strojarski dio tehničkog sustava ovlašćuje se osoba strojarske struke
+2. za elektrotehnički dio tehničkog sustava ovlašćuje se osoba elektrotehničke struke
+3. za sustave automatskog reguliranja i upravljanja ovlašćuje se osoba elektrotehničke struke ili strojarske struke
+4. za građevinski dio zgrade ovlašćuje se osoba arhitektonske ili građevinske struke.

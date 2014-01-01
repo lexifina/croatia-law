@@ -1,0 +1,3 @@
+# Članak 164.
+(1) Novčanom kaznom u iznosu od 15.000,00 do 30.000,00 kuna kaznit će se glavni projektant ako u projektiranju sudjeluje više projektanata, a projekt nije cjelovit i međusobno usklađen (članak 52. stavak 1.).
+(2) Uz kaznu za prekršaj iz članka 163. stavaka 1. i 2. ovoga Zakona i stavka 1. ovoga članka pravnoj, odnosno fizičkoj osobi koja obavlja poslove projektiranja može se izreći zaštitna mjera zabrane obavljanja tih poslova u trajanju od tri do šest mjeseci, a za prekršaj počinjen drugi put uz novčanu kaznu izreći će se navedena mjera u trajanju od šest mjeseci do jedne godine.

@@ -1,0 +1,9 @@
+## 11. PRIJELAZNE I ZAVRŠNE ODREDBE
+## 11.1. ZAPOČETI POSTUPCI, IZDANI AKTI I PRIMJENA PROPISA
+## Započeti postupci
+# Članak 173.
+(1) Postupci započeti po odredbama Zakona o prostornom uređenju i gradnji (»Narodne novine«, br. 76/07., 38/09., 55/11., 90/11., 50/12. i 55/12.) do stupanja na snagu ovoga Zakona koji se odnose na gradnju i donošenje rješenja za obavljanje djelatnosti prema posebnom zakonu, na evidentiranje građevina u katastru i zemljišnim knjigama te na stavljanje zabilježbi u zemljišnoj knjizi dovršit će se po odredbama tog Zakona i propisa donesenih na temelju tog Zakona.
+(2) Iznimno od stavka 1. ovoga članka, postupci pokrenuti po članku 330. stavku 3. i članku 333. stavku 1. Zakona o prostornom uređenju i gradnji (»Narodne novine«, br. 76/07., 38/09., 55/11., 90/11., 50/12. i 55/12.) do stupanja na snagu ovoga Zakona dovršit će se kao postupci iz članaka 184. i 185., odnosno članaka 182. i 183. ovoga Zakona, ako se tome ne protivi podnositelj zahtjeva.
+(3) Postupci započeti po odredbama Zakona o postupanju i uvjetima gradnje radi poticanja ulaganja (»Narodne novine«, br. 69/09., 128/10., 136/12. i 76/13.) dovršit će se po odredbama tog Zakona.
+(4) Iznimno od stavaka 1. i 3. ovoga članka, u postupcima donošenja rješenja o uvjetima građenja i rješenja za građenje koji se dovršavaju po odredbama Zakona o prostornom uređenju i gradnji (»Narodne novine«, br. 76/07., 38/09., 55/11., 90/11., 50/12. i 55/12.), odnosno odredbama Zakona o postupanju i uvjetima gradnje radi poticanja ulaganja (»Narodne novine«, br. 69/09., 128/10., 136/12. i 76/13.) primjenjuje se dokument prostornog uređenja koji je važio u vrijeme podnošenja zahtjeva za izdavanje tog rješenja, ako je to povoljnije za investitora.
+(5) Postupci započeti po odredbama Zakona o učinkovitom korištenju energije u neposrednoj potrošnji (»Narodne novine«, br. 152/08., 55/12. i 101/13.) završit će se po odredbama tog Zakona i propisa donesenih na temelju tog Zakona.

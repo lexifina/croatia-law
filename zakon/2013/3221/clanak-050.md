@@ -1,0 +1,4 @@
+# Članak 50.
+(1) Investitor koji je ujedno i izvođač mora stručni nadzor građenja povjeriti drugoj osobi koja ispunjava uvjete za obavljanje stručnog nadzora građenja prema posebnom zakonu.
+(2) Fizička osoba koja je investitor građevine iz 4. i 5. skupine za svoje potrebe može sama izraditi cijeli glavni projekt, osim geodetskog projekta, i obavljati stručni nadzor građenja ako ima završen diplomski sveučilišni ili preddiplomski sveučilišni studij ili preddiplomski stručni studij arhitektonske ili građevinske struke i ima položeni stručni ispit prema posebnom propisu.
+(3) Fizička osoba koja je investitor građevine iz 4. i 5. skupine za svoje potrebe može sama izraditi geodetski projekt koji je sastavni dio glavnog projekta ako ima završen diplomski sveučilišni ili preddiplomski sveučilišni studij ili preddiplomski stručni studij geodetske struke.

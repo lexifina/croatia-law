@@ -1,0 +1,4 @@
+# Članak 66.
+(1) Projekti, odnosno njihovi dijelovi moraju biti izrađeni na način koji osigurava njihovu jedinstvenost s obzirom na građevinu za koju su izrađeni (ime projektanta, tvrtka osobe registrirane za poslove projektiranja, naziv građevine, ime ili tvrtka investitora, datum izrade i dr.).
+(2) Projekti, odnosno njihovi dijelovi izrađuju se na papiru, drugom odgovarajućem materijalu za pisanje, odnosno crtanje ili kao elektronički zapis tako da je onemogućena promjena njihova sadržaja, odnosno zamjena njihovih dijelova, osim u propisanom slučaju.
+(3) Obvezni sadržaj i elemente projekta, način opremanja, uvjete promjene sadržaja, označavanja projekta, način i značenje ovjere projekta od strane odgovornih osoba, kao i način razmjene elektroničkih zapisa, u skladu s posebnim propisima, propisuje ministar pravilnikom.

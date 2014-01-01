@@ -1,0 +1,6 @@
+# Članak 70.
+(1) Sastavni dio glavnog projekta za građevinsku dozvolu za građenje građevine za koju se prema posebnom zakonu ne izdaje lokacijska dozvola, a kojom se određuje formiranje građevne čestice i/ili smještaj jedne ili više građevina na građevnoj čestici uz projekte iz članka 69. stavka 1. ovoga Zakona je i geodetski projekt.
+(2) Geodetski projekt iz stavka 1. ovoga članka izrađuje se i ovjerava na isti način te ima isti sadržaj i značenje kao i geodetski projekt koji je sastavni dio lokacijske dozvole prema posebnim propisima kojima se uređuje prostorno uređenje.
+(3) Geodetskim projektom prikazuje se smještaj jedne ili više građevina na građevnoj čestici te oblik i veličina građevne čestice čije se formiranje određuje građevinskom dozvolom.
+(4) Geodetski projekt izrađuje se kao fizički zasebni dio glavnog projekta.
+(5) Na temelju geodetskog projekta koji je sastavni dio glavnog projekta koji je sastavni dio građevinske dozvole međusobno se usklađuje stanje u katastru, zemljišnoj knjizi i naravi, ako je to potrebno, te se provodi formiranje građevne čestice u katastru, iskolčenje građevine i evidentiranje građevine u katastru, bez izrade dodatnih snimaka i elaborata te izdavanja potvrda, propisanih posebnim propisima koji uređuju državnu izmjeru i katastar.

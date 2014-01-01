@@ -1,0 +1,6 @@
+## Prekršaji u vezi s nostrifikacijom projekata
+# Članak 166.
+(1) Novčanom kaznom u iznosu od 100.000,00 do 150.000,00 kuna kaznit će se za prekršaj pravna osoba koja provede nostrifikaciju, a nema zaposlenu osobu koja ima pravo uporabe strukovnog naziva ovlašteni arhitekt ili ovlašteni inženjer (članak 97. stavak 1.).
+(2) Novčanom kaznom u iznosu od 25.000,00 do 50.000,00 kuna kaznit će se za prekršaj pravna osoba koja provede nostrifikaciju projekta ako projekt ili dio projekta za koji je provedena nostrifikacija i izdana potvrda nije usklađen s hrvatskim propisima i pravilima struke (članak 96. stavak 1.).
+(3) Novčanom kaznom u iznosu od 15.000,00 do 30.000,00 kuna kaznit će se fizička osoba koja ima pravo uporabe strukovnog naziva ovlašteni arhitekt ili ovlašteni inženjer za prekršaj iz stavka 2. ovoga članka koja poslove nostrifikacije obavlja u vlastitom ili zajedničkom uredu.
+(4) Uz kaznu za prekršaj iz stavaka 2. i 3. ovoga članka osobi koja provede nostrifikaciju može se izreći zaštitna mjera zabrane obavljanja poslova nostrifikacije projekata u trajanju od tri do šest mjeseci, a za prekršaj počinjen drugi put uz novčanu kaznu izreći će se navedena mjera u trajanju od šest mjeseci do jedne godine.

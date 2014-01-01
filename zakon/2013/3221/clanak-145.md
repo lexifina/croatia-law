@@ -1,0 +1,4 @@
+## Privremena uporabna dozvola
+# Članak 145.
+(1) Za građevinu za koju nema konačnih rezultata ispitivanja u pogledu ocjenjivanja sukladnosti, odnosno dokazivanja kvalitete određenih dijelova građevine, a na tehničkom pregledu je utvrđeno da je građevina izgrađena u skladu s građevinskom dozvolom te da su provedeni svi kontrolni postupci u pogledu ocjenjivanja sukladnosti, odnosno dokazivanja kvalitete određenih dijelova građevine za sve radove tijekom građenja kada je ta obveza propisana ovim Zakonom, propisima donesenim na temelju ovoga Zakona, posebnim propisima ili određena glavnim projektom, može se izdati privremena uporabna dozvola.
+(2) Privremena uporabna dozvola izdaje se na rok koji nije duži od devedeset dana, a istekom tog roka prestaje važiti, a u svrhu nastavka njezina korištenja, rada pogona, evidentiranja u katastru te obavljanje djelatnosti prema posebnom zakonu u toj građevini potrebno je ishoditi uporabnu dozvolu.

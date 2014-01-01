@@ -1,0 +1,5 @@
+## Glavni projekt
+# Članak 68.
+(1) Glavni projekt je skup međusobno usklađenih projekata kojima se daje tehničko rješenje građevine i dokazuje ispunjavanje temeljnih zahtjeva za građevinu te drugih propisanih i određenih zahtjeva i uvjeta.
+(2) Glavni projekt za građenje građevine za koju se prema posebnom zakonu izdaje lokacijska dozvola izrađuje se u skladu s lokacijskim uvjetima određenim tom dozvolom, posebnim uvjetima koji se utvrđuju u postupku procjene utjecaja na okoliš i u postupku ocjene prihvatljivosti zahvata za ekološku mrežu, posebnim propisima, ovim Zakonom, tehničkim propisima i drugim propisima donesenim na temelju ovoga Zakona, drugim propisima kojima se uređuju zahtjevi i uvjeti za građevinu te pravilima struke.
+(3) Glavni projekt za građenje građevine za koju se prema posebnom zakonu ne izdaje lokacijska dozvola izrađuje se u skladu s uvjetima za građenje građevina propisanim prostornim planom, posebnim uvjetima, ovim Zakonom, tehničkim propisima i drugim propisima donesenim na temelju ovoga Zakona, drugim propisima kojima se uređuju zahtjevi i uvjeti za građevinu te pravilima struke.

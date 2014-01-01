@@ -1,0 +1,5 @@
+# Članak 82.
+(1) Javnopravno tijelo dužno je na zahtjev investitora utvrditi posebne uvjete za građenje građevine prikazane u glavnom projektu, izdati potvrdu glavnog projekta ili zahtjev za njihovo utvrđivanje rješenjem odbiti u roku od petnaest dana od dana primitka urednog zahtjeva.
+(2) Ako je glavni projekt izrađen u skladu s posebnim propisom u pogledu pitanja u vezi s kojima se utvrđuju posebni uvjeti, javnopravno tijelo, umjesto posebnih uvjeta, izdaje potvrdu glavnog projekta.
+(3) Ako glavni projekt nije izrađen u skladu s posebnim propisom u pogledu pitanja u vezi s kojima se utvrđuju posebni uvjeti, javnopravno tijelo dužno je u posebnim uvjetima navesti i obrazložiti u pogledu čega i kojeg pitanja projekt nije usklađen s posebnim propisom, odnosno uvjetima.
+(4) Javnopravno tijelo od projektanta, odnosno investitora ne može u svrhu utvrđivanja posebnih uvjeta tražiti izradu, odnosno dostavu drugih dokumenata, osim elaborata koji prema posebnom zakonu prethodi izradi glavnog projekta.

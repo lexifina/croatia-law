@@ -1,0 +1,33 @@
+## Pojmovi
+# Članak 3.
+(1) Pojedini pojmovi u smislu ovoga Zakona te propisa i akata koji se donose na temelju ovoga Zakona imaju sljedeće značenje:
+1. energetsko svojstvo zgrade je izračunata ili izmjerena količina energije potrebna za zadovoljavanje potreba za energijom prilikom karakteristične uporabe zgrade, a koja među ostalim uključuje energiju koja se koristi za grijanje, hlađenje, ventilaciju, pripremu tople vode i osvjetljenje
+2. gradilište je zemljište i/ili građevina, uključivo i privremeno zauzete površine, na kojima se izvodi građenje ili radovi potrebni za primjenu odgovarajuće tehnologije građenja i zaštitu
+3. gradnja je projektiranje i građenje građevina te stručni nadzor građenja
+4. građenje je izvedba građevinskih i drugih radova (pripremni, zemljani, konstruktorski, instalaterski, završni te ugradnja građevnih proizvoda, opreme ili postrojenja) kojima se gradi nova građevina, rekonstruira, održava ili uklanja postojeća građevina
+5. građevina je građenjem nastao i s tlom povezan sklop, izveden od svrhovito povezanih građevnih proizvoda sa ili bez instalacija, sklop s ugrađenim postrojenjem, samostalno postrojenje povezano s tlom ili sklop nastao građenjem
+6. iskolčenje građevine je geodetski prijenos tlocrta vanjskog obrisa, odnosno osi građevine koja će se graditi, na teren unutar građevne čestice, odnosno obuhvata zahvata u prostoru koji izvodi ovlašteni inženjer geodezije sukladno posebnom propisu
+7. javnopravna tijela su tijela državne uprave, druga državna tijela, upravni odjeli, odnosno službe velikih gradova, Grada Zagreba i županija nadležni za obavljanje poslova iz određenih upravnih područja te pravne osobe koje imaju javne ovlasti, određeni posebnim zakonima, koji utvrđivanjem posebnih uvjeta, odnosno potvrđivanjem projekta na način propisan ovim Zakonom sudjeluju u gradnji građevina
+8. katastar je katastar zemljišta, odnosno katastar nekretnina prema posebnom zakonu koji uređuje državnu izmjeru i katastar nekretnina
+9. kotao je sklop tijela kotla i plamenika namijenjen prijenosu topline koja se oslobađa izgaranjem u vodu
+10. ministar je čelnik središnjeg tijela državne uprave nadležnog za poslove graditeljstva
+11. Ministarstvo je središnje tijelo državne uprave nadležno za poslove graditeljstva
+12. održavanje građevine je izvedba građevinskih i drugih radova na postojećoj građevini radi očuvanja temeljnih zahtjeva za građevinu tijekom njezina trajanja, kojima se ne mijenja usklađenost građevine s lokacijskim uvjetima u skladu s kojima je izgrađena
+13. oprema su pojedinačni uređaji, strojevi, procesne instalacije i drugi proizvodi od kojih se sastoji postrojenje ili su samostalno ugrađeni u građevinu radi tehnološkog ili drugog procesa kojemu je namijenjena građevina
+14. postojeća građevina je građevina izgrađena na temelju građevinske dozvole ili drugog odgovarajućeg akta i svaka druga građevina koja je prema ovom ili posebnom zakonu s njom izjednačena
+15. posebni uvjeti su uvjeti za građenje koje u slučaju propisanom posebnim propisom u svrhu provedbe tog propisa javnopravno tijelo utvrđuje na način propisan ovim Zakonom, odnosno posebnim zakonom kojim se uređuje prostorno uređenje, osim uvjeta koji se utvrđuju u postupku procjene utjecaja na okoliš i u postupku ocjene prihvatljivosti zahvata za ekološku mrežu
+16. potvrda glavnog projekta je potvrda da je glavni projekt izrađen u skladu s posebnim propisima i/ili posebnim uvjetima koju izdaje javnopravno tijelo u slučajevima propisanim posebnim zakonom na način propisan ovim Zakonom
+17. postrojenje je skup svrhovito povezane opreme za obavljanje tehnološkog ili drugog procesa kojemu je namijenjena građevina
+18. pripremni radovi su građenje privremenih građevina i izvedba drugih radova radi organizacije i uređenje gradilišta, te omogućavanja primjene odgovarajuće tehnologije građenja
+19. rekonstrukcija građevine je izvedba građevinskih i drugih radova na postojećoj građevini kojima se utječe na ispunjavanje temeljnih zahtjeva za tu građevinu ili kojima se mijenja usklađenost te građevine s lokacijskim uvjetima u skladu s kojima je izgrađena (dograđivanje, nadograđivanje, uklanjanje vanjskog dijela građevine, izvođenje radova radi promjene namjene građevine ili tehnološkog procesa i sl.), odnosno izvedba građevinskih i drugih radova na ruševini postojeće građevine u svrhu njezine obnove
+20. složena građevina je sklop više međusobno funkcionalno i/ili tehnološki povezanih građevina
+21. sustav za klimatizaciju je sklop kojim se djeluje na temperaturu, vlažnost i kvalitetu zraka te ostvaruje prisilna izmjena zraka u prostoriji u svrhu postizanja mikro-higijenskih uvjeta i odgovarajućeg stupnja ugodnosti prostora
+22. ugradnja je izvedba građevinskih i drugih radova kojim se povezuju građevni proizvodi, instalacije ili postrojenja tako da postaju sastavni dio građevine i ne mogu se bez uklanjanja ili bez utjecaja na ispunjavanje temeljnih zahtjeva za građevinu odvojiti od građevine
+23. uklanjanje građevine ili njezina dijela je izvedba radova razgradnje građevine ili njezina dijela s mjesta na kojem se nalazi, uključivo i gospodarenje zatečenim otpadom u građevini i na građevnoj čestici, te građevnog materijala i građevnog otpada nastalog razgradnjom građevine sukladno propisima koji uređuju gospodarenje otpadom, te dovođenje građevne čestice, odnosno zemljišta na kojemu se nalazila građevina u uredno stanje
+24. ukupna korisna površina zgrade je ukupna neto podna površina zgrade koja odgovara namjeni uporabe zgrade, a koja se računa prema točki 5.1.7. HRN EN ISO 9836:2011
+25. upravno tijelo je upravni odjel, odnosno služba velikog grada, Grada Zagreba, odnosno županije nadležna za obavljanje upravnih poslova graditeljstva
+26. uvjeti priključenja su posebni uvjeti kojima se određuje mogućnost i uvjeti priključenja građevine na infrastrukturu
+27. zgrada je zatvorena i/ili natkrivena građevina namijenjena boravku ljudi, odnosno smještaju životinja, biljaka i stvari. Zgradom se ne smatra pojedinačna građevina unutar sustava infrastrukturne građevine
+28. zgrada javne namjene je zgrada ili dio zgrade koju koristi tijelo javne vlasti za obavljanje svojih poslova, zgrada ili dio zgrade za stanovanje zajednice te zgrada ili dio zgrade koja nije stambena u kojoj boravi više ljudi ili u kojoj se pruža usluga većem broju ljudi.
+(2) Pojmovi uporabljeni u ovom Zakonu imaju značenje određeno posebnim zakonom kojim se uređuje područje prostornoga uređenja te drugim posebnim zakonom, ako ovim Zakonom nije propisano drukčije.
+(3) Izrazi koji u ovom Zakonu imaju rodno značenje koriste se neutralno i odnose se na muške i ženske osobe.
