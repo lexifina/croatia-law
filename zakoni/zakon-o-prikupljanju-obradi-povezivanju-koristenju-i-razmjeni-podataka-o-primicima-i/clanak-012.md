@@ -1,0 +1,3 @@
+# Članak 12.
+(1) Nositelji prikupljanja podatka dužni su ustrojiti i voditi evidenciju nepovezanih obračunanih obveza javnih davanja i evidenciju nepovezanih uplata javnih davanja iz članka 10. ovoga Zakona te podnositelju izvješća, odnosno obvezniku plaćanja omogućiti dostupnost podacima iz evidencije nepovezanih uplata javnih davanja.
+(2) Za uplaćena sredstva doprinosa za mirovinsko osiguranje temeljem individualne kapitalizirane štednje u vezi prijenosa sredstava na privremeni račun i prosljeđivanja povezanih iznosa doprinosa u obvezne mirovinske fondove i društva primjenjuju se odredbe propisa koji uređuju sustav individualne kapitalizirane štednje.

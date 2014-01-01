@@ -1,0 +1,11 @@
+# Članak 11.
+(1) Povezivanje podataka prikupljenih temeljem ovoga Zakona obavlja se prema vrstama primitaka iz Obrasca JOPPD s podacima o uplaćenim javnim davanjima za istog obveznika i istu vrstu primitka.
+(2) Osnova za povezivanje podataka iz Obrasca JOPPD o obračunanim doprinosima s podacima o pripadajućim uplatama su:
+– OIB podnositelja izvješća, odnosno obveznika plaćanja
+– oznaka Izvješća iz Obrasca JOPPD i naloga za plaćanje
+– vrsta javnog davanja iz Obrasca JOPPD i naloga za plaćanje.
+(3) Ako je podatak o zaduženju iz Obrasca JOPPD po pojedinoj vrsti primitka za određenog podnositelja izvješća, odnosno obveznika plaćanja istovjetan uplaćenom iznosu javnog davanja, Obrazac JOPPD se evidentira kao povezan u cijelosti i uplaćeni iznos raspoređuje se po osiguranicima ili stjecateljima primitka prema podatku iz Obrasca JOPPD.
+(4) Ako je podatak o zaduženju iz Obrasca JOPPD po pojedinoj vrsti primitka za određenog podnositelja izvješća, odnosno obveznika plaćanja veći od uplaćenog iznosa javnog davanja za tu vrstu primitka, uplaćeni iznos javnog davanja proporcionalno se raspoređuje po osiguranicima ili stjecateljima primitka prema podacima iz Obrasca JOPPD, a Obrazac JOPPD se evidentira kao djelomično povezan. U tom slučaju će Ministarstvo financija, Porezna uprava pozvati obveznika plaćanja na plaćanje javnih davanja sukladno posebnom propisu.
+(5) Ako je podatak o zaduženju iz Obrasca JOPPD po pojedinoj vrsti primitka za određenog podnositelja izvješća, odnosno obveznika plaćanja manji od uplaćenog iznosa javnog davanja za tu vrstu primitka, Obrazac JOPPD se evidentira kao povezan u cijelosti.
+(6) Preplaćeni iznosi javnih davanja po pojedinim vrstama evidentiraju se kao nepovezane uplate, o kojima se izvješćuje obveznika preplaćenih javnih davanja i poziva da postupi sukladno odredbi članka 14. ovoga Zakona.
+(7) Ako je po nekom Obrascu JOPPD povećan iznos zaduženja zbog podnošenja dopunjujućeg Obrasca JOPPD ili ispravka podatka za pojedinog osiguranika kojem se povećava zaduženje u odnosu na izvorni Obrazac JOPPD, svaka sljedeća uplata raspoređuje se proporcionalno udjelu iznosa nepodmirenog zaduženja po osiguraniku u ukupnom iznosu nepodmirenog iznosa zaduženja. Iznos uplata koje su već prije povezane i raspoređene po osiguranicima ili stjecateljima primitka temeljem tadašnjeg udjela u ukupnom zaduženju se ne mijenja.

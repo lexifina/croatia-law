@@ -1,0 +1,2 @@
+# Članak 5.
+Na Obrascu JOPPD, koji se sastoji od stranice A i stranice B, čiji je oblik, sadržaj, rokovi te način dostavljanja propisan posebnim propisima, prikupljaju se podaci o podnositelju izvješća, obvezniku plaćanja, osiguranicima i stjecateljima primitaka, vrstama i iznosima primitaka, razdoblju za koje se obveza doprinosa obračunava ili primitak isplaćuje, obračunanim iznosima javnih davanja, te ostali podaci.
