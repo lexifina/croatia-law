@@ -1,0 +1,2 @@
+# Članak 13.
+Stupanjem na snagu ove Naredbe prestaje važiti Naredba o visini naknade za upis broda, jahte i brodice u upisnik brodova, odnosno jahti i očevidnik brodica (»Narodne novine«, br. 14/13), Naredba o visini naknade za sigurnost plovidbe koju plaćaju strane jahte i brodice (»Narodne novine« broj 2/05) i Naredba o visini naknade za upotrebu pomorskog dobra koju plaćaju vlasnici brodica i jahti upisanih u očevidnik brodica, odnosno upisnik jahti (»Narodne novine« broj 179/04).
