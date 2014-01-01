@@ -1,0 +1,2 @@
+# Članak 5.
+Kod izvještavanja o platnim instrumentima (platne kartice i elektronički novac) izvještajni obveznici dužni su Hrvatskoj narodnoj banci kod uvođenja novog platnog instrumenta i pri svakoj promjeni funkcije, obilježja i/ili karakteristike platnog instrumenta dostaviti popunjen Obrazac 1. iz Upute i to trideset dana prije počeka izvještajnog razdoblja u kojem će platni instrument biti izdan ili u kojem će se promjena početi primjenjivati.

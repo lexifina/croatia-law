@@ -1,0 +1,2 @@
+Uputa o načinu prikupljanja i sastavljanja te obvezi dostavljanja podataka o platnom prometu i elektroničkom novcu
+| 147 10.12.2013 Odluka o obvezi dostavljanja podataka o platnom prometu i elektroničkom novcu 147 10.12.2013 Odluka o obvezi dostavljanja podataka o platnom prometu i elektroničkom novcu 147 10.12.2013 Odluka o obvezi dostavljanja podataka o platnom prometu i elektroničkom novcu 147 10.12.2013 Odluka o obvezi dostavljanja podataka o platnom prometu i elektroničkom novcu 147 10.12.2013 Odluka o obvezi dostavljanja podataka o platnom prometu i elektroničkom novcu
