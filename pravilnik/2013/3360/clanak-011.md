@@ -1,0 +1,2 @@
+# Članak 11.
+Podnositelj prijave iz članka 8. ovoga Pravilnika obvezan je u roku od 8 dana od dana prestanka rada, stručnog usavršavanja, odnosno obrazovanja u ugovornoj državi ili trećoj državi podnijeti odjavu rada, stručnog usavršavanja, odnosno obrazovanja osiguranika u ugovornoj državi ili trećoj državi područnoj službi, odnosno regionalnom uredu Zavoda na tiskanici iz članka 9. ovoga Pravilnika.

@@ -1,0 +1,2 @@
+# Članak 42.
+Stupanjem na snagu ovog Pravilnika prestaje važiti Pravilnik o pravima, uvjetima i načinu korištenja zdravstvene zaštite u inozemstvu (»Narodne novine« broj 50/09., 118/09., 4/10., 13/10., 14/10., 1/11., 16/11., 31/11., 93/11., 145/11., 41/12., 76/12, 129/12., 77/13. i 103/13.) i Odluka o osnovici i stopi posebnog doprinosa za korištenje zdravstvene zaštite u inozemstvu osiguranih osoba Hrvatskog zavoda za zdravstveno osiguranje koje u inozemstvu borave radi privatnog posla (»Narodne novine« broj 93/11.).

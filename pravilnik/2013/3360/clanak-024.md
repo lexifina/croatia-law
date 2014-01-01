@@ -1,0 +1,4 @@
+# Članak 24.
+(1) Osigurana osoba kojoj je rješenjem iz članka 22. ovoga Pravilnika odobreno korištenje zdravstvene zaštite u ugovornoj državi ili trećoj državi obvezna je prije odlaska u ugovornu državu ili treću državu izvršiti prijavu boravka u ugovornoj državi ili trećoj državi, a u slučaju odlaska u treću državu obvezna je i uplatiti posebni doprinos u skladu s člankom 18. ovoga Pravilnika.
+(2) Na osnovi prijave i uplaćenog posebnog doprinosa iz stavka 1. ovog članka osiguranoj osobi izdaje se potvrda iz članka 10. stavka 1. ili 2. ovoga Pravilnika.
+(3) Osigurana osoba koja ne postupi prema odredbi stavka 1. ovoga članka i ne pribavi potvrdu iz stavka 2. ovoga članka te osigurana osoba koja je bikarbonatnu hemodijalizu, odnosno terapiju kisikom u ugovornoj državi ili trećoj državi koristila bez rješenja Direkcije Zavoda iz članka 22. stavka 1. ovoga Pravilnika obvezna je troškove te zdravstvene zaštite snositi osobno.

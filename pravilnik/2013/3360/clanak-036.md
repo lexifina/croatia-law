@@ -1,0 +1,3 @@
+# Članak 36.
+(1) Osiguranoj osobi koja je u drugoj državi EU koristila zdravstvenu zaštitu u skladu s člankom 19. Uredbe, a kojoj je ta zdravstvena zaštita naplaćena, Zavod će na njezin zahtjev priznati troškove zdravstvene zaštite prema propisima EU, a na osnovi nalaza, mišljenja i ocjene liječničkog povjerenstva područne službe odnosno regionalnog ureda Zavoda.
+(2) Osigurana osoba iz stavka 1. ovog članka obvezna je uz zahtjev za naknadu troškova priložiti medicinsku dokumentaciju o pruženim zdravstvenim uslugama i original računa koji glasi na ime osigurane osobe iz kojeg je vidljivo koje su zdravstvene usluge pružene osiguranoj osobi, te da je račun plaćen.
