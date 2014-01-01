@@ -1,0 +1,4 @@
+# Članak 34.
+(1) U slučaju pojedinačne građevine koja je upisana u Registar kulturnih dobara Republike Hrvatske ili građevine koja se nalazi u kulturno-povijesnoj cjelini upisanoj u taj Registar, građevinski inspektor će prije donošenja rješenja kojim se naređuje uklanjanje njezina nezakonito rekonstruiranog dijela zatražiti od tijela državne uprave nadležnog za poslove zaštite kulturnih dobara suglasnost za donošenje tog rješenja.
+(2) Ako tijelo državne uprave iz stavka 1. ovoga članka u roku od šezdeset dana ne izda suglasnost za donošenje rješenja kojim se naređuje uklanjanje građevine, odnosno njezina dijela, inspekcijski postupak se obustavlja, a s građevinom, odnosno njezinim dijelom se postupa prema posebnom zakonu kojim se uređuje zaštita i očuvanje kulturnih dobara.
+(3) Rješenje o obustavi inspekcijskog postupka iz stavka 2. ovoga članka se na znanje dostavlja tijelu državne uprave nadležnom za poslove zaštite kulturnih dobara.

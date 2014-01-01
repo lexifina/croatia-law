@@ -1,0 +1,3 @@
+# Članak 63.
+(1) Državni službenici zatečeni na radnim mjestima građevinskih inspektora u Upravi za inspekcijske poslove Ministarstva danom stupanja na snagu ovoga Zakona smatraju se građevinskim inspektorima u smislu ovoga Zakona, a službenici zatečeni na radnim mjestima urbanističkih inspektora raspoređuju se na odgovarajuća radna mjesta u Ministarstvu.
+(2) Povjerenstvo Ministarstva za rješavanje žalbi iz članka 290. Zakona o prostornom uređenju i gradnji (»Narodne novine«, br. 76/07., 38/09., 55/11., 90/11., 50/12. i 55/12.) imenovano Odlukom o imenovanju Povjerenstva ministra Ministarstva, klase: 080-03/12-01/3, urbroj: 531-01-12-1 od 22. veljače 2012. nastavlja s radom do dovršenja postupaka iz članka 62. ovoga Zakona.

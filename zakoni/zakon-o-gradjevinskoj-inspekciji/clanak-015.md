@@ -1,0 +1,2 @@
+# Članak 15.
+Ako javnopravno tijelo, odnosno stranka građevinskom inspektoru ne omogući provedbu inspekcijskog nadzora ili mu ne osigura uvjete za neometan rad u smislu članaka 10. i 13. ovoga Zakona, a ne radi se o pružanju fizičkog otpora, na omogućavanje provedbe nadzora, odnosno osiguravanja uvjeta za neometan rad će se prisiliti rješenjem koje se izvršava novčanim kaznama u iznosu od 2000,00 kn do izvršenja rješenja.
