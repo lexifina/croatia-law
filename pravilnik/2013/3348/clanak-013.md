@@ -1,0 +1,3 @@
+# Članak 13.
+(1) Ako se u propisanom postupku ili u postupku kontrole utvrdi da su podaci u evidencijama Zavoda netočni i nepotpuni ili se posumnja u njihovu vjerodostojnost, Zavod će zatražiti od obveznika da prijavama propisanim ovim Pravilnikom ispravi netočne podatke, dopuni nepotpune podatke, odnosno provjeri vjerodostojnost podataka na temelju evidencije o radnicima koju vodi obveznik i drugih odgovarajućih evidencija.
+(2) Ako obveznik ne postupi prema zahtjevu Zavoda iz stavka 1. ovog članka ili je brisan iz odgovarajućeg registra ili je nedostupan, Zavod može pokrenuti upravni postupak po službenoj dužnosti i rješenjem utvrditi nove činjenice bitne za rješavanje upravne stvari.

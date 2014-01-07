@@ -1,0 +1,2 @@
+# Članak 22.
+Za osiguranika koji je u razdoblju za koje se utvrđuje staž osiguranja radio na sezonskim poslovima na kojima je ostvaren veći broj sati od punog radnog vremena, staž osiguranja utvrđuje se na način da se stažu osiguranja izračunatom za puno radno vrijeme dodaje broj dana koji se dobije kad se broj sati za koje je radnik ostvario u tom razdoblju podijeli s prosječnim dnevnim radnim vremenom obveznika.
