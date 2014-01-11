@@ -1,0 +1,2 @@
+# Članak 1.
+Ovom se Uredbom određuju zone i aglomeracije te njihova klasifikacija prema razinama onečišćenosti zraka na teritoriju Republike Hrvatske, a na osnovi Plana zaštite zraka, ozonskog sloja i ublažavanja klimatskih promjena u Republici Hrvatskoj za razdoblje od 2013. do 2017. godine i Izvješća o stanju kakvoće zraka za područje Republike Hrvatske od 2008. do 2011. godine (»Narodne novine«, broj 95/2013).
