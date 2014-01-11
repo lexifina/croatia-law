@@ -1,0 +1,3 @@
+# Članak 2.
+(1) Pravna i fizička osoba koja obavlja djelatnost uvoza, proizvodnje i distribucije, materijala i predmeta koji dolaze u neposredan dodir s hranom, obvezna je Ministarstvu zdravlja prijaviti djelatnost uvoza, proizvodnje i distribucije materijala i predmeta koji dolaze u neposredan dodir s hranom putem obrasca koji je otisnut uz ovaj Pravilnik i čini njegov sastavni dio.
+(2) Obveza prijave iz stavka 1. ovoga članka odnosi se i na one proizvode (materijale i predmete koji dolaze u neposredan dodir s hranom) koji su uvezeni, proizvedeni i distribuirani prije stupanja na snagu ovoga Pravilnika.
