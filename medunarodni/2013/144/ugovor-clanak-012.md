@@ -1,0 +1,7 @@
+# Članak 12.
+POSTUPAK ZA PRIJENOS OVLASTI UPRAVLJANJA OD STRANE
+KOMISIJE (1) Komisija prenosi ovlasti za upravljanje na Korisnika tek nakon imenovanja i uspostavljanja tijela iz prethodnog članka 6. i nakon što se ispune uvjeti iz ovoga članka.
+(2) Prije prijenosa ovlasti upravljanja, Komisija preispituje akreditacije nacionalnog dužnosnika za ovjeravanje i operativnih struktura kako je navedeno u prethodnim člancima 10. i 11. i provjerava postupke i strukture svih odnosnih tijela u Republici Hrvatskoj. Ovo može uključiti provjere na terenu od strane službi Komisije ili podugovaranje nekoj revizorskoj kući.
+(3) Komisija može, pri svojoj odluci o prijenosu ovlasti upravljanja, odrediti dodatne uvjete, u svrhu osiguranja ispunjavanja zahtjeva iz članka 11. IPA Provedbene uredbe. Ti dodatni uvjeti moraju se ispuniti unutar utvrđenog roka koji određuje
+Komisija kako bi prijenos ovlasti upravljanja ostao na snazi.
+(4) Odluka Komisije o prijenosu ovlasti upravljanja navodi popis ex ante kontrola, prema potrebi, koje će Komisija provesti o nadmetanju za ugovore, objavljivanju poziva za dostavu prijedloga i dodjeli ugovora i bespovratnih sredstava. Ovaj popis može se razlikovati ovisno o komponenti ili programu. Ex ante kontrole se primjenjuju, ovisno o komponenti ili programu, sve dok Komisija ne dopusti decentralizirano upravljanje bez ex ante kontrola kako je navedeno u donjem članku 16.

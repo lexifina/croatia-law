@@ -1,0 +1,20 @@
+# Članak 24.
+PROMIDŽBA I VIDLJIVOST (1) U slučaju centraliziranog i zajedničkog upravljanja, informacije o programima i operacijama osigurava Komisija uz pomoć nacionalnog koordinatora programa IPA, po potrebi. U slučaju decentraliziranog upravljanja i u svim slučajevima za programe ili dijelove programa unutar komponente »Prekogranična suradnja« koji se ne provode kroz podijeljeno upravljanje, Korisnik, posebice nacionalni koordinator programa IPA, osigurava informacije i promidžbu programa i operacija. U slučaju podijeljenog upravljanja, države članice i Korisnik osiguravaju informacije i promidžbu programa i operacija. Informacije se usmjeravaju na građane i korisnike, s ciljem naglašavanja uloge Zajednice i osiguranja transparentnosti.
+(2) U slučaju decentraliziranog upravljanja, operativne strukture su nadležne za organiziranje objavljivanja popisa krajnjih korisnika, naziva operacija i iznosa fi nanciranja iz sredstava
+Zajednice alociranih na operacije dodjelom nepovratnih sredstava na sljedeći način:
+a) promidžba se obavlja prema standardnoj prezentaciji, na za to određenom i lako dostupnom mjestu na internetskim stranicama Korisnika. Ukoliko takva promidžba putem interneta nije moguća, informacija se objavljuje bilo kojim drugim odgovarajućim sredstvom, uključujući nacionalni službeni list;
+b) promidžba se održava tijekom prvih šest mjeseci u godini nakon zatvaranja proračunske godine prema kojoj su sredstva dodijeljena Korisniku;
+c)
+Korisnik je dužan Komisiji dostaviti adresu mjesta promidžbe.
+Ukoliko se informacije objavljuju drukčije, Korisnik je dužan
+Komisiji dostaviti potpune podatke o korištenim sredstvima;
+d)
+Operativne strukture dužne su osigurati da krajnji korisnik bude informiran o tome da prihvaćanje sredstava ujedno predstavlja i prihvaćanje njihovog uključivanja na ovaj objavljeni popis korisnika. Svi osobni podaci sadržani u ovom popisu svejedno se obrađuju u skladu sa zahtjevima Uredbe (EZ-a) br. 45/2001 Europskoga parlamenta i Vijeća od 18. prosinca
+2000. godine o zaštiti osoba pri obradi osobnih podataka u ustanovama i tijelima Zajednice te o slobodnome protoku takvih podataka(19) i uz propisno poštivanje zahtjeva sigurnosti.
+(3) U slučaju decentraliziranog upravljanja, nadležna tijela pripremaju obavijest o dodjeli ugovora, nakon potpisivanja ugovora, i šalju ga Komisiji radi objave. Obavijest o dodjeli ugovora može objaviti i Korisnik u odgovarajućim nacionalnim publikacijama.
+19 SL L 8. 12. siječnja 2011. godine, str. 1.
+BROJ 13 - STRANICA 39 dodatak MEĐUNARODNI UGOVORI
+NARODNE NOVINE
+SLUŽBENI LIST REPUBLIKE HR VA TSKE (4) Komisija i nadležna nacionalna, regionalna ili lokalna vlast
+Korisnika ugovaraju usklađen niz aktivnosti radi dostupnosti i promidžbe u Republici Hrvatskoj informacija o pomoći u okviru programa IPA. Postupci za provedbu takvih aktivnosti navode se u Sektorskim sporazumima i Sporazumima o fi nanciranju.
+(5) Provedba aktivnosti iz stavka 4. odgovornost je krajnjih korisnika, a može se fi nancirati iz iznosa alociranog odnosnim programima ili operacijama.

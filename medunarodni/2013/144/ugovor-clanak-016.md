@@ -1,0 +1,4 @@
+# Članak 16.
+DECENTRALIZACIJA BEZ EX-ANTE KONTROLE KOMISIJE (1) Decentralizacija bez ex-ante kontrole Komisije cilj je provedbe svih komponenti programa IPA gdje se pomoć provodi na decentraliziranoj osnovi u skladu s prethodnim člankom
+5. Vrijeme postizanja ovog cilja može se razlikovati ovisno o predmetnoj komponenti programa IPA.
+(2) Prije odustajanja od ex-ante kontrola navedenih u Odluci Komisije o prijenosu upravljanja, Komisija je dužna uvjeriti se u djelotvorno funkcioniranje predmetnog sustava upravljanja i kontrole u skladu s mjerodavnim pravilima Zajednice i nacionalnim pravilima. Komisija posebice nadzire provedbu, od strane Korisnika, plana sadržanog u Sporazumu o fi nanciranju, koji se može odnositi na postupno odricanje od različitih vrsta ex-ante kontrola. Komisija propisno razmatra rezultate koje Korisnik postiže s tim u vezi, posebno u pružanju pomoći i procesu pregovaranja.
