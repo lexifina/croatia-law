@@ -1,0 +1,3 @@
+## I. TEMELJNE ODREDBE
+# Članak 1.
+Ovim Pravilnikom propisuju se opći i posebni uvjeti za određivanje službenog mjesta te postupak izdavanja odobrenja o ispunjavanju uvjeta za utvrđivanje službenog mjesta za poslovne prostorije, prostore i objekte u zračnoj, pomorskoj i riječnoj luci, poštanskom uredu, željezničkom kolodvoru, čvorištima i instalacijama ili drugom mjestu (u daljnjem tekstu: prostori) ako se na njima obavlja promet robom koja podliježe primjeni carinskih propisa i drugih propisa iz nadležnosti Ministarstva financija, Carinske uprave (u daljnjem tekstu: Carinska uprava) ili promet putnika između Europske unije i trećih zemalja.
