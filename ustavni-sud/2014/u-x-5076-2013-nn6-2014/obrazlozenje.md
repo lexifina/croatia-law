@@ -1,0 +1,3 @@
+Obrazloženje
+1. »Izvješće u povodu postupka pete promjene Ustava Republike Hrvatske pokrenutog 10. srpnja 2013. prijedlogom 46 zastupnika Hrvatskog sabora« Ustavni sud Republike Hrvatske donio je na sjednici 15. listopada 2013. Izvješće je objavljeno u »Narodnim novinama« broj 127/13.
+2. U skladu s točkom 10.1. obrazloženja »Odluke u povodu okončanja postupka nadzora nad ustavnošću i zakonitošću provođenja državnog referenduma održanog 1. prosinca 2013., na kojem je članak 62. Ustava Republike Hrvatske dopunjen novim stavkom 2.« broj: SuP-O-1/2014 od 14. siječnja 2014., Ustavni sud zaključio je kao u izreci.
