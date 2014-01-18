@@ -1,0 +1,1 @@
+Na temelju članka 42. stavka 1. alineje 9. Statuta Grada Daruvara (»Službeni glasnik Grada Daruvara«, broj 1/13), na prijedlog gradonačelnika Grada Daruvara, Gradsko vijeće Grada Daruvara na svojoj 6. sjednici održanoj 23. prosinca 2013. g. donijelo je
