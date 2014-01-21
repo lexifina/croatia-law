@@ -1,0 +1,1 @@
+Na temelju članka 44. stavka 2. Zakona o plovidbi i lukama unutarnjih voda (»Narodne novine«, br. 109/07, 132/07 i 51/13) a u skladu sa člankom 4. stavkom 4. Pravilnika o čamcima (»Narodne novine«, br. 38/06 i 91/06) ministar pomorstva, prometa i infrastrukture donosi
