@@ -1,0 +1,3 @@
+# Članak 2.
+(1) Raspored radnog vremena, a posebno početak i završetak radnog vremena utvrđuje općim aktom zdravstvena ustanova u skladu s ovim Pravilnikom i drugim propisima, vodeći računa o djelatnosti ustanove, procesu rada u pojedinim njezinim dijelovima, godišnjem dobu te potrebama osiguranih osoba Hrvatskog zavoda za zdravstveno osiguranje (u daljnjem tekstu: Zavod) uz poštivanje načela kontinuiranosti, učinkovitosti i dostupnosti zdravstvene zaštite.
+(2) Početak i završetak radnog vremena u pojedinim dijelovima zdravstvene ustanove kao i preraspodjelu radnog vremena kada se za to ukaže potreba određuje ravnatelj zdravstvene ustanove.

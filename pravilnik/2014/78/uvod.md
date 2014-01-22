@@ -1,0 +1,1 @@
+Na temelju članka 162. stavka 10. Zakona o zdravstvenoj zaštiti (»Narodne novine«, broj 150/08., 71/10., 139/10., 22/11., 84/11., 12/12., 35/12., 70/12., 82/13. i 159/13.) uz prethodno mišljenje nadležnih komora ministar zdravlja donosi
