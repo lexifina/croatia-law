@@ -1,0 +1,1 @@
+Na temelju članka 125.a stavka 1. Zakona o zdravstvenoj zaštiti (»Narodne novine«, broj 150/08, 71/10, 139/10, 22/11, 84/11, 12/12, 35/12 - Odluka Ustavnog suda Republike Hrvatske, 70/12, 82/13 i 159/13) ministar zdravlja donosi
