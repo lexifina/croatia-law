@@ -1,0 +1,1 @@
+Odluka o izmjenama i dopunama Odluke o preporukama za poticanje alternativnog i izvansudskog rješavanja sporova u građanskopravnim predmetima u kojima je jedna od stranaka u sporu trgovačko društvo u vlasništvu ili pretežitom vlasništvu Republike Hrvatske odnosno pravna osnova s javnim ovlastima
