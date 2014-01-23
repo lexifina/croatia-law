@@ -1,0 +1,2 @@
+# Članak 2.
+Kada centar za socijalnu skrb procijeni da je imovina štićenika znatno uvećana izvanrednim zalaganjem skrbnika ili da je skrbnik u određenom razdoblju morao uložiti povećane napore u ostvarivanju brige o štićeniku, može, u jednokratnom iznosu, odobriti veću naknadu od iznosa naknade predviđene stavkom 1. članka 1. ovoga Pravilnika, najviše do trostrukog iznosa te naknade, ali samo iz novčanih sredstava štićenika.
