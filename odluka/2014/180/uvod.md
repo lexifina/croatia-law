@@ -1,0 +1,1 @@
+Na temelju članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, broj 150/2011) i članka 65. stavka 1. Zakona o posredovanju pri zapošljavanju i pravima za vrijeme nezaposlenosti (»Narodne novine«, br. 80/2008, 121/2010, 25/2012, 118/2012 i 153/2013), Vlada Republike Hrvatske je na sjednici održanoj 23. siječnja 2014. godine donijela
