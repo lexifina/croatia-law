@@ -1,0 +1,3 @@
+# Članak 44.
+(1) Kada u luku (sidrište) na teritoriju Republike Hrvatske u kojoj nema pomorskog zapovjedništva ili ustanove (vojne ili civilne) uplovi strani ratni brod, zapovjednik broda koji je u toj luci (sidrištu) obvezan je odmah o tome izvijestiti Operativno središte Hrvatske ratne mornarice.
+(2) Kada uoči da u teritorijalnom moru Republike Hrvatske ili u zaštićenom ekološko-ribolovnom pojasu strani ili domaći brodovi provode nedopuštene radnje, zapovjednik broda izvijestit će Operativno središte Hrvatske ratne mornarice i postupiti u skladu s odredbama međunarodnog prava mora, Zakona o Obalnoj straži Republike Hrvatske i drugim propisima.

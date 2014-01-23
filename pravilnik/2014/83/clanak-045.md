@@ -1,0 +1,2 @@
+# Članak 45.
+Ako tijekom boravka u inozemstvu član posade broda teško oboli ili se ozlijedi, zapovjednik broda je obvezan odmah o tome izvijestiti najbliže diplomatsko-konzularno predstavništvo Republike Hrvatske i Operativno središte Hrvatske ratne mornarice, a ako takvog predstavništva nema, izravno stupiti u vezu s mjesnim vlastima i oboljelog najžurnije predati na skrb u najbližu zdravstvenu ustanovu.
