@@ -1,0 +1,3 @@
+# Članak 6.
+(1) U slučaju rasporeda na novo ustrojbeno mjesto na brodu Hrvatske ratne mornarice, pomorac je dužan polagati ispit za samostalno obnašanje ustrojbene dužnosti ili dio ispita za samostalno obnašanje ustrojbene dužnosti, kojim će se provjeriti njegova osposobljenost za obnašanje nove ustrojbene dužnosti.
+(2) Obvezu polaganja ispita ili dijela ispita iz stavka 1. ovoga članka određuje zapovjednik plovne postrojbe, razine odreda ili više, pisanom zapovijedi za svakog pomorca, a rok za polaganje ispita zajedno s rokom za ponavljanje ispita ili dijela ispita ne može biti dulji od roka propisanog člankom 5. ovoga Pravilnika.
