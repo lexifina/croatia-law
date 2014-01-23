@@ -1,0 +1,18 @@
+# Članak 3.
+(1) Ovaj Pravilnik sadrži odredbe koje su u skladu sa sljedećim aktima:
+1. Ugovor o Europskoj uniji (konsolidirana verzija, SL C 115/13, 9. 5. 2008.),
+2. Ugovor o funkcioniranju Europske unije (konsolidirana verzija, SL C 115/47, 9. 5. 2008.) (u daljnjem tekstu: UFEU),
+3. Uredba Vijeća (EZ) br. 1083/2006 od 11. srpnja 2006. o utvrđivanju općih odredbi o Europskom fondu za regionalni razvoj, Europskom socijalnom fondu i Kohezijskom fondu i stavljanju izvan snage Uredbe (EZ) br. 1260/1999 (SL L 210/25, 31. 7. 2006.) (u daljnjem tekstu: Opća uredba),
+4. Uredba (EZ) br. 1080/2006 Europskog parlamenta i Vijeća od 5. srpnja 2006. o Europskom fondu za regionalni razvoj i stavljanju izvan snage Uredbe (EZ) br. 1783/1999 (SL L 210/1, 31. 7. 2006.),
+5. Uredba (EZ) br. 1081/2006 Europskog parlamenta i Vijeća od 5. srpnja 2006. o Europskom socijalnom fondu i stavljanju izvan snage Uredbe (EZ) br. 1784/1999 (SL L 210/12, 31. 7. 2006.) (u daljnjem tekstu: Uredba ESF),
+6. Uredba Vijeća (EZ) br. 1084/2006 od 11. srpnja 2006. o uspostavi Kohezijskog fonda i stavljanju izvan snage Uredbe (EZ) br. 1164/94 (SL L 210/79, 31. 7. 2006.),
+7. Uredba Komisije (EZ) br. 1828/2006 od 8. prosinca 2006. o utvrđivanju pravila za provedbu Uredbe Vijeća (EZ) br. 1083/2006 o utvrđivanju općih odredaba o Europskom fondu za regionalni razvoj, Europskom socijalnom fondu i Kohezijskom fondu i o Uredbi (EZ) br. 1080/2006 Europskoga parlamenta i Vijeća o Europskom fondu za regionalni razvoj (OJ L 371/1, 27. 12. 2006.) (s izmjenama i dopunama: br. 846/2009 i br. 832/2010),
+8. Uredba (EU, EURATOM) br. 966/2012 Europskog parlamenta i Vijeća od 25. listopada 2012. o financijskim pravilima primjenjivima na opći proračun Unije, stavljanju izvan snage Uredbe Vijeća (EZ, Euratom) br. 1605/2002 (SL L 298/1, 26. 10. 2012.),
+9. Uredba Komisije (EZ) br. 718/2007 od 12. lipnja 2007. o provedbi Uredbe Vijeća (EZ) br. 1085/2006 o uspostavi Instrumenta pretpristupne pomoći (IPA),
+10. Uredba Vijeća (EZ) br. 1085/2006 od 17. srpnja 2006. o uspostavljanju Instrumenta pretpristupne pomoći,
+11. Revidirane smjernice o instrumentima financijskog inženjeringa prema članku 44. Uredbe Vijeća (EZ) br. 1083/2006, Odbor za koordinaciju fondova (COCOF) 10/0014/05-EN,
+12. Informativne napomene za članak 55. stavak 6. Uredbe (EZ) br. 1083/2006, Odbor za koordinaciju fondova (COCOF) 08/0012/02-EN,
+13. Zakon o potvrđivanju Ugovora između Kraljevine Belgije, Republike Bugarske, Češke Republike, Kraljevine Danske, Savezne Republike Njemačke, Republike Estonije, Republike Irske, Helenske Republike, Kraljevine Španjolske, Francuske Republike, Talijanske Republike, Republike Cipra, Republike Latvije, Republike Litve, Velikog Vojvodstva Luksemburga, Republike Mađarske, Republike Malte, Kraljevine Nizozemske, Republike Austrije, Republike Poljske, Portugalske Republike, Rumunjske, Republike Slovenije, Slovačke Republike, Republike Finske, Kraljevine Švedske, Ujedinjene Kraljevine Velike Britanije i Sjeverne Irske (države članice Europske unije) i Republike Hrvatske o pristupanju Republike Hrvatske Europskoj uniji (»Narodne novine«, Međunarodni ugovori, broj 2/2012),
+14. Zakon o uspostavi institucionalnog okvira za korištenje strukturnih instrumenata Europske unije u Republici Hrvatskoj (»Narodne novine«, broj 78/2012 i 143/2013, u daljnjem tekstu: Zakon);
+15. Zakon o volonterstvu (»Narodne novine«, broj 58/2007, 22/2013),
+16. Uredba o tijelima u sustavu upravljanja i kontrole korištenja strukturnih instrumenata Europske unije u Republici Hrvatskoj (»Narodne novine«, broj 97/2012, u daljnjem tekstu: Uredba);

@@ -1,0 +1,4 @@
+## Opće odredbe
+# Članak 1.
+(1) Ovim se Pravilnikom utvrđuju pravila prihvatljivosti izdataka u okviru projekata sufinanciranih sredstvima strukturnih instrumenata Europske unije iz članka 2. točka 8. ovoga Pravilnika, a time i uvjeti pod kojima izdaci mogu biti uključeni u Izjavu o izdacima koju priprema Tijelo za ovjeravanje.
+(2) Odredbe ovog Pravilnika ne odnose se na projekte odobrene prije 1. srpnja 2013. na temelju Uredbe Vijeća (EZ) broj 1085/2006, koji se nakon navedenog datuma, u skladu s odredbama članka 105. (a) stavka 4. Uredbe Vijeća (EZ) broj 1083/2006, nastavljaju provoditi u skladu s pravilima za korištenje sredstava strukturnih instrumenata iz članka 2. točka 8. ovoga Pravilnika. Prihvatljivost izdataka u navedenim projektima utvrđuje se na temelju odredbi Uredbe Komisije (EZ) br. 718/2007, osim u opravdanim slučajevima o kojima na zahtjev Upravljačkog tijela odlučuje Europska komisija.

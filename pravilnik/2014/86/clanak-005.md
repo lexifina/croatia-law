@@ -1,0 +1,16 @@
+## Opći uvjeti prihvatljivosti izdataka
+# Članak 5.
+(1) Opći uvjeti prihvatljivosti izdataka su:
+1. povezanost s projektom i nastanak u okviru projekta kojega je odabralo nadležno tijelo u skladu s kriterijima utvrđenima od strane odbora za praćenje, a za koje je preuzeta obveza u ugovoru o dodjeli bespovratnih sredstava;
+2. stvarnost nastanka kod Korisnika osim u slučajevima navedenima u članku 11. stavku 3. točki (a) Uredbe ESF;
+3. izvršenje plaćanja Korisnika prema dobavljačima roba, izvođačima radova te pružateljima usluga tijekom razdoblja prihvatljivosti izdataka, uz uvjet da projekt nije završen prije početka istog razdoblja;
+4. dokazivost putem računa ili računovodstvenih dokumenata jednake dokazne vrijednosti, pri čemu su predujmovi isplaćeni dobavljačima roba, izvođačima radova te pružateljima usluga u skladu s odredbama ugovora sklopljenih s tim subjektima prihvatljivi za sufinanciranje;
+5. usklađenost s pravilima o državnim potporama, kao što je utvrđeno u članku 107. UFEU ili pravilima o de minimis potporama, ako je primjenjivo;
+6. usklađenost s primjenjivim pravilima javne nabave;
+7. usklađenost s odredbama članka 54. stavka 5. Opće uredbe koje se odnose na zabranu dvostrukog financiranja iz drugog financijskog instrumenta Europske unije;
+(2) Kriteriji iz stavka 1. ovoga članka primjenjuju se kumulativno.
+(3) Kriterij iz stavka 1. točke 4. ovoga članka ne primjenjuje se u slučajevima neizravnih troškova koji su prijavljeni na temelju fiksnih troškova. Za navedene troškove, dodatni zahtjevi bit će utvrđeni u skladu s odredbama članka 7. stavka 2. ovoga Pravilnika.
+(4) Da bi bila prihvatljiva, vrsta izdatka iz članka 2. točke 3. ovoga Pravilnika, mora biti potkrijepljena ugovorom o volontiranju, evidencijom radnih sati volontera i dnevnikom volontiranja. Ugovorom o volontiranju utvrđuje se stvarna vrijednost jedinice rada (u odnosu na konkretne referentne statističke podatke, primjerice, službeno dostupan podatak o cijeni radnog sata studenta) koja će se uračunavati u troškove projekta. Volonteri imaju pravo na naknadu drugih troškova povezanih s volonterskim aktivnostima (kao što su troškovi prijevoza), a u skladu s relevantnim nacionalnim okvirom koji uređuje aktivnosti volontiranja. Najviši i najniži iznosi vrijednosti volonterskog rada, prihvatljivi u okviru određenog poziva na dostavu prijedloga, utvrđuju se u uputama za prijavitelje, na temelju procjene realnog opsega rada volontera u projektnim aktivnostima prihvatljivim u okviru istog poziva za dostavu prijedloga.
+(5) Izdaci koji proizlaze iz korištenja instrumenta iz članka 2. točke 9. ovoga Pravilnika podliježu pravilima prihvatljivosti za relevantni Fond. Tako za projekt u okviru ESF-a bilo koja aktivnost vrste EFRR-a mora se potvrditi kao prihvatljiva u okviru pravila za EFRR i obrnuto. Odredbe i uvjete za rad s ovim instrumentom za pojedine projekte donosi nadležno tijelo u skladu s uvjetima za financiranje.
+(6) Uvjeti prihvatljivosti izdataka primjenjivi u određenom projektu utvrđuju se u Ugovoru o dodjeli bespovratnih sredstava.
+(7) Nove kategorije izdataka dodane revizijom Operativnog programa prihvatljive su od datuma podnošenja zahtjeva za reviziju Operativnog programa Europskoj komisiji pod uvjetima navedenima u članku 56. stavku 3. Opće uredbe.
