@@ -1,0 +1,2 @@
+# Članak 5.
+U cilju ostvarivanja bolje suradnje ugovorne stranke su se suglasile da će poduzeti potrebne mjere u skladu sa svojim važećim zakonodavstvom, te izvršavajući važeće međunarodne ugovore kojih su stranke da bi spriječile nelegalan uvoz, izvoz i prenošenje vlasništva nad dobrima koja su dio kulturne baštine svake od njih, bez obzira na to jesu li to arheološka, umjetnička ili povijesna dobra.

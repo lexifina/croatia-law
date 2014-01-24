@@ -1,0 +1,2 @@
+# Članak 2.
+Radi jednostavnijeg i bržeg provođenja postupka uzajamnog priznavanja školskih svjedodžaba, diploma i akademskih stupnjeva stečenih u obrazovnim ustanovama u Republici Hrvatskoj i Istočnoj Republici Urugvaju, ugovorne stranke obvezuju se da će jedna drugoj pružati potrebne informacije o svojem sustavu obrazovanja kao i informacije o važećim propisima koji se odnose na postupak priznavanja svjedodžaba, diploma i akademskih stupnjeva.
