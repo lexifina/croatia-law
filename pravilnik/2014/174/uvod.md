@@ -1,0 +1,1 @@
+Na temelju odredbe članka 38. st. 2. Zakona o odvjetništvu (»Narodne novine« br. 9/94, 117/08, 50/09, 75/09 i 18/11) i članka 86. st. 3. Statuta Hrvatske odvjetničke komore (»Narodne novine« br. 115/13), Upravni odbor Hrvatske odvjetničke komore na sjednici održanoj 19. listopada 2013. godine donio je

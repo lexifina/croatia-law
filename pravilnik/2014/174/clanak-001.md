@@ -1,0 +1,2 @@
+# Članak 1.
+Ovim Pravilnikom uređuju se troškovi u postupku evidentiranja osnivanja podružnica koje osnivaju odvjetnička društva sa sjedištem na području države koja je članice Europske unije ili Svjetske trgovinske organizacije (dalje: podružnice stranih društava) u Imenik podružnica stranih društava koji vodi Hrvatska odvjetnička komora (dalje: Imenik), u skladu s člankom 27.a. Zakona o odvjetništvu, kao i troškovi evidentiranja promjena koje se odnose na podružnice stranih društava, te troškovi izdavanja izvadaka iz odgovarajućih evidencija.
