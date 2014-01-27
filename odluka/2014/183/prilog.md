@@ -1,0 +1,3 @@
+[1] Središnja banka Čilea mijenja brojčanu oznaku manje jedinice valute unidad de fomento s 0 na 4. Promjena stupa na snagu 15. ožujka 2014.
+[2] Letonija je uvela euro 1. siječnja 2014. Središnja banka Letonije (Bank of Latvia) zamjenjivat će letonske latse (LVL/428/2) za eure.
+| 10 27.01.2014 Odluka o izmjenama i dopunama Odluke o načinu otvaranja transakcijskih računa 10 27.01.2014 Odluka o izmjenama i dopunama Odluke o načinu otvaranja transakcijskih računa 10 27.01.2014 Odluka o izmjenama i dopunama Odluke o načinu otvaranja transakcijskih računa 10 27.01.2014 Odluka o izmjenama i dopunama Odluke o načinu otvaranja transakcijskih računa 10 27.01.2014 Odluka o izmjenama i dopunama Odluke o načinu otvaranja transakcijskih računa
