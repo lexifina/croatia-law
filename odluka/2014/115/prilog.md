@@ -1,0 +1,1 @@
+7 20.01.2014 Odluka o minimalnim financijskim standardima za decentralizirano financiranje redovite djelatnosti javnih vatrogasnih postrojbi u 2014. godini 7 20.01.2014 Odluka o minimalnim financijskim standardima za decentralizirano financiranje redovite djelatnosti javnih vatrogasnih postrojbi u 2014. godini
