@@ -1,0 +1,3 @@
+# Članak 1.
+U Odluci o cijeni police dopunskog zdravstvenog osiguranja (»Narodne novine« broj 118/13.) u članku 4. iza stavka 1. dodaje se novi stavak 2. koji glasi:
+»Iznimno od odredbe stavka 1. ovog članka Upravno vijeće Hrvatskog zavoda za zdravstveno osiguranje (u daljnjem tekstu: Zavod) ovlašćuje ravnatelja Zavoda da može, u postupcima javne nabave u kojima je predmet nabave provođenje usluge dopunskog zdravstvenog osiguranja, odobriti popust na cijenu police ukoliko se radi o poslovnom subjektu koji zapošljava najmanje 15.000 radnika, osim u slučaju kada je ukupna vrijednost nabave veća od vrijednosti pravnog posla utvrđenog člankom 36. stavkom 3. Statuta Zavoda«.
