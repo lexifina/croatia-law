@@ -1,0 +1,1 @@
+Na temelju članka 13. Zakona o slobodnim zonama (»Narodne novine«, br. 44/96, 78/99, 127/2000, 92/2005, 85/2008 i 148/2013), Vlada Republike Hrvatske je na sjednici održanoj 30. siječnja 2014. godine donijela
