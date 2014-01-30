@@ -1,0 +1,1 @@
+Na temelju članka 88. Zakona o sudovima (»Narodne novine«, br. 28/13), članka 126. Zakona o državnom odvjetništvu (»Narodne novine« br. 153/09, 116/10, 145/10, 57/11, 130/11, 72/13) i Uredbe o upućivanju državnog službenika na rad izvan državne službe (»Narodne novine«, br. 33/06), ministar pravosuđa donosi
