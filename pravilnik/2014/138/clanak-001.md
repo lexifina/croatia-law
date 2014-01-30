@@ -1,0 +1,2 @@
+# Članak 1.
+Ovim se Pravilnikom određuje visina pristojbi za obavljeni veterinarski pregled pri unošenju pošiljaka životinja, proizvoda životinjskog podrijetla, hrane za životinje i nusproizvoda životinjskog podrijetla koji nisu za prehranu ljudi (u daljnjem tekstu: nusproizvodi životinjskog podrijetla) iz trećih zemalja na područje Republike Hrvatske te pošiljaka životinja na izlaznim točkama iz Republike Hrvatske, kao i način plaćanja pristojbi.

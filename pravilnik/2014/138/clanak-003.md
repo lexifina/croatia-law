@@ -1,0 +1,2 @@
+# Članak 3.
+Ako osoba odgovorna za pošiljku pravovremeno ne pripremi pošiljku za veterinarski pregled, a pozove graničnoga veterinarskog inspektora, službenika Carinske uprave ili veterinarskog inspektora da pregleda pošiljku te inspektor, odnosno službenik izađe na mjesto pregleda u određeno vrijeme, osoba odgovorna za pošiljku obvezna je za njegov izlazak platiti naknadu za izgubljeno vrijeme u iznosu od 250,00 kuna po satu čekanja.
