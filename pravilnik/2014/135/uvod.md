@@ -1,0 +1,1 @@
+Na temelju članka 5. stavka 2. Zakona o posredovanju pri zapošljavanju i pravima za vrijeme nezaposlenosti (»Narodne novine«, broj 80/08, 121/10, 25/12, 118/12 i 153/13), ministar nadležan za rad donosi
