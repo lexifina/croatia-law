@@ -1,0 +1,2 @@
+# Članak 9.
+U pojedinim slučajevima u kojima ugovorna stranka smatra da udovoljavanje zahtjevu prema ovom Sporazumu može imati nepovoljan učinak na njezinu nacionalnu sigurnost, javni red, državne interese ili nacionalno zakonodavstvo, ta ugovorna stranka može odbiti suradnju u cijelosti ili djelomično, ili pružati suradnju pod određenim specifičnim uvjetima poštujući istodobno druge obveze međunarodne suradnje.

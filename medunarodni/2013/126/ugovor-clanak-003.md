@@ -1,0 +1,2 @@
+# Članak 3.
+Uzajamno dogovoreni uvjeti za premještanje, podršku i zaštitu osoba utvrđuju se za svaki pojedini slučaj posebnim dokumentom sklopljenim između nacionalnih središta za kontakt navedenih u članku 10. ugovornih stranaka uključenih u takve pojedine slučajeve. Značajnije promjene do kojih je došlo u životnim okolnostima štićenih osoba navode se u izmjenama i dopunama ili u novom posebnom dokumentu.
