@@ -1,0 +1,1 @@
+Na temelju članka 9. stavaka 8. i 10. Zakona o morskom ribarstvu (»Narodne novine« broj 81/2013) i na temelju članka 4. stavaka 6., 7., 15. i 16. Pravilnika o ulovu, uzgoju i prometu tune (Thunnus thynnus), igluna (Xiphias gladius) i iglana (Tetrapturus belone) (»Narodne novine« broj 11/2014) (u daljnjem tekstu: Pravilnika), ministar poljoprivrede donosi
