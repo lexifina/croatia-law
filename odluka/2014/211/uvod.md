@@ -1,0 +1,1 @@
+Na temelju članka 54.a točke 1. Zakona o posredovanju pri zapošljavanju i pravima za vrijeme nezaposlenosti (»Narodne novine«, br. 80/2008, 121/2010, 25/2012, 118/2012 i 153/2013), Vlada Republike Hrvatske je na sjednici održanoj 30. siječnja 2014. godine donijela
