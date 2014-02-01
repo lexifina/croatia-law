@@ -1,0 +1,4 @@
+# Članak 8.
+Nakon provedenog testiranja znanja stranog jezika kandidata za redovito promicanje u čin viših časnika te promicanje u čin generala i admirala Škola stranih jezika »Katarina Zrinska« izdat će potvrdu o razini znanja stranog jezika (za dijagnostičke testove isključivo za rezultat 65% i više) i u roku od sedam dana od dana provedbe testiranja ažurirati podatke u Informatičkom sustavu personalnog upravljanja.
+Odsjek za testiranje - STANAG tim koji provodi testiranje iz engleskog jezika prema normi HRVN STANAG 6001 potvrde izdaje u roku od tri tjedna od dana provedbe testiranja i prosljeđuje ih Središnjici za upravljanje osobljem radi ažuriranja podataka u Informatičkom sustavu personalnog upravljanja.
+Potvrde o razini znanja stranog jezika sastavni su dio službene dokumentacije za promicanje.
