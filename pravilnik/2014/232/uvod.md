@@ -1,0 +1,1 @@
+Na temelju članka 133. stavka 2. Zakona o prostornom uređenju (»Narodne novine« br. 153/2013) ravnatelj Državne geodetske uprave uz suglasnost ministrice nadležne za poslove prostornog uređenja donosi

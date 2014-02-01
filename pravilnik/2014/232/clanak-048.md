@@ -1,0 +1,3 @@
+# Članak 48.
+Na naslovnoj stranici parcelacijskog i geodetskog elaborata za evidentiranje zgrada i drugih građevina navodi se ime i prezime ovlaštenog inženjera geodezije te njegov pečat i potpis, pečat i potpis ovlaštene osobe (može se staviti i logotip), naziv zahvata u prostoru i ime katastarske općine, ime i prezime odnosno naziv naručitelja izrade geodetskog projekta i datum izrade.
+Na naslovnoj stranici elaborata navode se i podaci o idejnom odnosno glavnom projektu u okviru kojeg se geodetski projekt izrađuje te podaci o oznaci geodetskog projekta i elaborata prema Upisniku obavljanja stručnih geodetskih poslova (djelatnosti).

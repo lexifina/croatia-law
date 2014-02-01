@@ -1,0 +1,2 @@
+# Članak 53.
+Za potrebe izrade izjave, a ovisno o vrsti građevine, ovlašteni inženjer geodezije započinje prikupljati podatke u fazi izvođenja građevinskih radova za građevine (npr: podzemne građevine čije se osnovne lomne točke ne vide po završetku građenja, podzemne infrastrukturne građevine, zgrade koje imaju svoje dijelove koji se zatrpavaju i sl.) na način da se položajno i visinski snime sve karakteristične točke, ali i druge potrebne točke, linije i oznake.

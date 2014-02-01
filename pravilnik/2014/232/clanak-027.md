@@ -1,0 +1,2 @@
+# Članak 27.
+Kada je nakon pregledanog i potvrđenog geodetskog elaborata iz članka 25. ovoga pravilnika potrebno riješiti imovinskopravne odnose, za nastavne postupke u izradi idejnog/glavnog projekta može se koristiti i kopija katastarskog plana s prikazom novog stanja koja je dio geodetskog elaborata iz članka 25. ovoga pravilnika, a koja je ovjerena od strane katastarskog ureda te sadrži oznaku potvrde katastarskog ureda sukladno posebnom propisu.
