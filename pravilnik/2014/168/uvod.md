@@ -1,0 +1,1 @@
+Na temelju članka 9. stavka 2. Zakona o potpori poljoprivredi i ruralnom razvoju (»Narodne novine« broj 80/2013) i članka 25. stavka 3. Zakona o poljoprivredi (»Narodne novine« broj 149/2009, 127/2010, 50/2012 i 120/2012), ministar poljoprivrede donosi

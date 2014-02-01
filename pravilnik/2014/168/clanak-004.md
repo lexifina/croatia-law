@@ -1,0 +1,4 @@
+# Članak 4.
+U Prilogu, u tablici Šifrarnik s vrstama uporabe poljoprivrednog zemljišta, opis šifre 210 Staklenici na oranici mijenja se i glasi: »Oranice na kojima se nalaze staklenici ili plastenici (višegodišnji zaštićeni prostori) za intenzivnu poljoprivrednu proizvodnju na tlu. Proizvodnja na tlu ne podrazumijeva uzgoj u posudama, na supstratima, stolovima ili hidroponski uzgoj.«
+Opis šifre 320 Pašnjak mijenja se i glasi: »Trajni travnjak koji se koristi za ispašu životinja ili alternativno i za ispašu životinja i proizvodnju krmiva i nije u sustavu plodoreda. Površina pašnjaka određuje se umnoškom ukupne površine ARKOD parcele i koeficijentom prihvatljivosti. Koeficijenti su: 1,0; 0,8; 0,6; 0,4 i 0,2 i označavaju postotak prihvatljivosti predmetne ARKOD parcele.«
+U opisu šifre 900 Ostale vrste korištenja zemljišta iza riječi »grmlja« dodaje se zarez i riječ »ribnjaci«.
