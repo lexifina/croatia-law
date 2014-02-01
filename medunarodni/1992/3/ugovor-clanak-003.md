@@ -1,2 +1,0 @@
-# Članak 3.
-Izvoz i uvoz roba i usluga između Republike Hrvatske i Ruske Federacije ostvarivat će se sklapanjem ugovora pravnih i fizičkih osoba u skladu sa zakonodavstvom koje je na snazi u svakoj državi i prema tekućim cijenama glavnih svjeiskih tržišta za odgovarajuće robe i usluge. Robe koje se isporučuju na temelju ovog Sporazuma mogu se reeksportirati u treće zemlje samo uz pismenu suglasnost izvoznika.
