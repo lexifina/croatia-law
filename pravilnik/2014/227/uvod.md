@@ -1,0 +1,1 @@
+Na temelju članka 26. stavka 3. Zakona o mirovinskom osiguranju (»Narodne novine«, br. 157/2013), ministar nadležan za mirovinski sustav, uz prethodno mišljenje ministra nadležnog za financije, donosi

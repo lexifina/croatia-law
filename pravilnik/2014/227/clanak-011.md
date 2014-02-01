@@ -1,0 +1,4 @@
+# Članak 11.
+Utvrđivanju staža osiguranja prethodi kontrola pravilnosti primjene zakonskih propisa i drugih podzakonskih akata koji se odnose na uspostavu prijavno-odjavnih podataka i osnovica za obračun doprinosa koje služe za ostvarivanje prava iz mirovinskog osiguranja te na kontrolu zaduženja i uplata doprinosa.
+Kontrolu obavlja nadležna područna ustrojstvena jedinica Zavoda uvidom u podatke i dokumentaciju Zavoda, uvidom u potvrdu, podatke i dokumentaciju Porezne uprave te uvidom u dokumentaciju i podatke Središnjeg registra osiguranika, Hrvatskog zavoda za zdravstveno osiguranje i centara za socijalnu skrb, kao i uvidom u druge evidencije vezane uz status osiguranika.
+Kada se tijekom kontrole utvrde nepravilnosti u potvrdi, podacima i dokumentaciji Porezne uprave, koje utječu na ostvarivanje prava iz mirovinskog osiguranja, Zavod o tome izvješćuje Poreznu upravu koja je dužna obaviti ispravak i usklađenje te izdati novu potvrdu.
