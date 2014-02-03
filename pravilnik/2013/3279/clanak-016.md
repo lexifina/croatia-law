@@ -1,0 +1,5 @@
+## VII. PRIJELAZNE I ZAVRŠNE ODREDBE
+# Članak 16.
+(1) Obveznici su dužni uskladiti podatke o transakcijskim računima i novčanima sredstvima otvorenim prije stupanja na snagu ovoga Pravilnika sukladno ovome Pravilniku najkasnije do 30. travnja 2014. godine, odnosno do 30. travnja 2014. zatvoriti transakcijski račun, odnosno račun novčanih sredstava.
+(2) Iznimno od stavka 1. ovoga članka, nakon preuzimanja podataka iz Jedinstvenog registra računa obveznici su dužni za transakcijske račune i novčana sredstva za koje utvrde da podaci o imenu i prezimenu odnosno nazivu vlasnika transakcijskog računa, odnosno novčanih sredstava nisu istovjetni podacima o imenu i prezimenu, odnosno nazivu vlasnika računa koje je Agencija sukladno članku 7. stavku 1. točki 2. ovoga Pravilnika upisala u Jedinstveni registar računa, uskladiti podatke u roku 1 godine od dana stupanja na snagu ovoga Pravilnika.
+(3) Transakcijski račun iz članka 3. točke 3., članka 4. točke 2. i članka 5. točke 3. ovoga Pravilnika kojeg obveznik otvara nakon 1. lipnja 2013. mora biti dostavljen u Jedinstveni registar računa u IBAN konstrukciji.
