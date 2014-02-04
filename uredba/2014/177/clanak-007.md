@@ -1,0 +1,5 @@
+# Članak 7.
+Naslov iznad članka 10. i članak 10. mijenjaju se i glase:
+»2.1.3.1. Odjel za pripremu i provedbu postupaka javne nabave
+Članak 10.
+Odjel za pripremu i provedbu postupaka javne nabave obavlja poslove pripreme i provedbe postupaka javne nabave robe, radova i usluga za potrebe Ministarstva po postupku propisanom Zakonom o javnoj nabavi osim onih kojih su posebnim propisima stavljeni u nadležnost Državnog ureda za središnju javnu nabavu, pruža stručnu pomoć ovlaštenim predstavnicima naručitelja za nabavu, prati odvijanje postupaka nabave sukladno planu nabave i sredstvima osiguranim planom proračuna u pogledu zadanih okvira visine i namjene sredstava, izrađuje dokumentaciju za nadmetanje. Prati zakonske propise iz djelokruga javne nabave, definira vrstu postupka javne nabave sukladno zakonskim i podzakonskim propisima, planu nabave i osiguranim sredstvima u proračunu za pojedinu proračunsku godinu. Izrađuje objedinjeni plan nabave i rebalans plana nabave na temelju dostavljenih prijedloga planova nabave pojedinih ustrojstvenih jedinica Ministarstva sukladno Zakonu o javnoj nabavi, obavlja druge poslove u okviru djelokruga Službe.«.
