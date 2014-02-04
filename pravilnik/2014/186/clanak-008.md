@@ -1,0 +1,2 @@
+# Članak 8.
+Kad nastupi slučaj iz članka 7. ovoga Pravilnika, depozitar je dužan svu imovinu AIF-a prenijeti na pohranu i administriranje drugom depozitaru s kojim je UAIF zaključio ugovor, odmah po zaključivanju istog, pri čemu mora predati i knjige računa, evidencije i sve druge dokumente i materijale bitne za poslovanje AIF-a za koji je do tada obavljao poslove depozitara, i to u pisanom ili elektroničkom obliku, ovisno o načinu vođenja naznačenih podataka.
