@@ -1,0 +1,23 @@
+# Članak 6.
+Javni poziv za javno prikupljanje ponuda sadrži:
+- opis nekretnine (oznaka adrese nekretnine i zemljišnoknjižnih podataka);
+- početni iznos naknade za pravo građenja;
+- rok za podnošenje prijave, koji je 60 dana od dana objave poziva u dnevnom listu, a iznimno može biti i kraći;
+- visinu jamčevine i oznaku računa na koji se ista uplaćuje;
+- obavijest da je poziv za javno prikupljanje ponuda objavljen na službenim internetskim stranicama Državnog ureda i Hrvatske gospodarske komore;
+- mjesto, datum i sat otvaranja ponuda;
+- odredbu o tome tko može sudjelovati u javnom prikupljanju ponuda;
+- odredbu o kriterijima za ocjenu ponude, njihovom rangiranju i bodovanju;
+- odredbu o tome tko se smatra najpovoljnijim ponuditeljem;
+- odredbu da će se u slučaju odustanka prvog najpovoljnijeg ponuditelja, najpovoljnijim ponuditeljem smatrati sljedeći ponuditelj koji je ponudio najviši iznos naknade za osnovano pravo građenja uz uvjet da prihvati najviši ponuđeni iznos naknade prvog ponuditelja;
+- odredbu da prvi najpovoljniji ponuditelj koji je odustao od ponude gubi pravo na jamčevinu;
+- odredbu do kojeg se trenutka Državnom uredu može valjano predati ponuda za sudjelovanje u javnom prikupljanju ponuda;
+- odredbu da se danom predaje ponude smatra dan predaje ponude u Državnom uredu, odnosno dan predaje ponude na poštu preporučenom pošiljkom;
+- odredbu o pravu osnivača prava građenja da odustane od osnivanja prava građenja u svako doba prije potpisivanja ugovora;
+- odredbu da nositelj prava građenja može prenijeti pravo građenja na drugu osobu uz suglasnost tijela ovlaštenih za odlučivanje sukladno članku 54. Zakona;
+- odredbu da se u slučaju prijenosa prava građenja na drugu osobu bez suglasnosti tijela ovlaštenih za odlučivanje ugovor smatra raskinutim po sili zakona;
+- odredbu da nositelj prava građenja može opteretiti nekretnine koje su predmet prava građenja na rok na koji je osnovano pravo građenja;
+- odredbu da se ugovor o osnivanju prava građenja sklapa kao ovršna isprava sukladno odredbama Ovršnog zakona i Zakona o javnom bilježništvu;
+- odredbu da se nepotpune prijave i prijave podnesene izvan roka neće razmatrati;
+- napomenu da izgradnja u rokovima koji se utvrde ugovorom predstavlja bitan sastojak ugovora;
+- odredbu da nakon isteka roka na koje je osnovano pravo građenja Republici Hrvatskoj prelazi pravo vlasništva na nekretnini, slobodnoj od bilo kakvih tereta, osoba i stvari, bez obveze naknade tržišne vrijednosti iste nositelju prava građenja.

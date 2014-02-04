@@ -1,0 +1,2 @@
+# Članak 22.
+Pravo građenja na nekretninama u vlasništvu Republike Hrvatske u svrhu izgradnje postrojenja obnovljivih izvora energije i kogeneracije te infrastrukturnih građevina neposredno vezanih za rad postrojenja, osniva se neposrednom pogodbom s investitorom - nositeljem projekta, koji je prema kriterijima i uvjetima natječaja provedenog po posebnom propisu izabran od nadležnog tijela kao najpovoljniji ponuditelj.

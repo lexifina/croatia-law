@@ -1,0 +1,7 @@
+# Članak 24.
+(1) Nositelj prava građenja može za postrojenje obnovljivog izvora energije i kogeneracije te za infrastrukturne građevine koje služe za rad postrojenja obnovljivog izvora energije, prenijeti osnovano pravo građenja ili dio osnovanog prava građenja na drugu osobu prije isteka roka na koji je osnovano pravo građenja, uz prethodnu pisanu suglasnost osnivača prava građenja.
+(2) Uz zahtjev za davanje suglasnosti za prijenos prava građenja ili dijela prava građenja na drugu osobu, nositelj osnovanog prava građenja prilaže uvjerenje o bonitetu i ovjerenu izjavu stjecatelja osnovanog prava građenja ili dijela osnovanog prava građenja kojom preuzima sva prava i obveze iz ugovora o osnivanju prava građenja.
+(3) Stjecatelj osnovanog prava građenja ili dijela osnovanog prava građenja mora ispunjavati sve uvjete propisane natječajem za najpovoljnijeg ponuditelja o čemu je odlučilo nadležno tijelo iz članka 22. ove Uredbe.
+(4) Suglasnost o prijenosu osnovanog prava građenja ili dijela osnovanog prava građenja na drugu osobu donosi tijelo nadležno sukladno odredbama članka 54. Zakona, ukoliko osoba na koju se prenosi pravo građenja ispunjava sve uvjete koje je ispunjavao i dosadašnji nositelj prava građenja.
+(5) Ukoliko nositelj prava građenja prenese osnovano pravo građenja na drugu osobu bez pisane suglasnosti iz stavka 1. ovog članka, ugovor se raskida.
+(6) Stjecatelj osnovanog prava građenja ili njegovog dijela mora upisati prijenos osnovanog prava građenja odmah nakon dostave pisane suglasnosti.

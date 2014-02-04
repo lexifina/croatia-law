@@ -1,0 +1,6 @@
+## I. OPĆE ODREDBE
+# Članak 1.
+(1) Ovom Uredbom propisuju se način i uvjeti osnivanja prava građenja i prava služnosti na nekretninama u vlasništvu Republike Hrvatske kojima upravlja Državni ured za upravljanje državnom imovinom (u daljnjem tekstu: Državni ured).
+(2) Ovom Uredbom propisuju se i način i uvjeti za osnivanje prava građenja i prava služnosti na nekretninama u vlasništvu Republike Hrvatske u svrhu izgradnje postrojenja obnovljivih izvora energije i kogeneracije, kao što su vjetroelektrane, sunčane elektrane, postrojenja na bioplin, postrojenja na biomasu i dr., te infrastrukturnih objekata vezanih uz rad postrojenja, kao i u svrhu realizacije turističkih projekata.
+(3) Način određivanja naknade za osnivanje prava građenja te način određivanja umanjenja tržišne vrijednosti nekretnina u vlasništvu Republike Hrvatske kojima upravlja Državni ured uslijed osnivanja prava služnosti utvrđuje se Uredbom o metodama procjene tržišne vrijednosti, naknade za osnivanje prava građenja i naknade za osnivanje prava služnosti na nekretninama u vlasništvu Republike Hrvatske (»Narodne novine« broj 127/2013).
+(4) Pored naknade za pravo građenja i naknade za osnivanje prava služnosti, nositelj prava građenja i ovlaštenik prava služnosti dužan je snositi i trošak sudskog vještaka.

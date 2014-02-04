@@ -1,0 +1,3 @@
+# Članak 18.
+(1) Državni ured će sukladno Uredbi o metodama procjene tržišne vrijednosti, naknade za osnivanje prava građenja i naknade za osnivanje prava služnosti na nekretninama u vlasništvu Republike Hrvatske, utvrditi iznos umanjenja tržišne vrijednosti nekretnine uslijed osnivanja prava služnosti, osim ako je posebnim propisima određeno da se uslijed osnivanja prava služnosti Republici Hrvatskoj ne plaća naknada.
+(2) Naknada za osnovano pravo služnosti plaća se jednokratno i to u roku 30 dana od dana stupanja na snagu ugovora o osnivanju prava služnosti, ukoliko posebnim propisima nije drugačije određeno.
