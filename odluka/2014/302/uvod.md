@@ -1,0 +1,1 @@
+Na temelju članka 14. stavka 4. Zakona o biljnom zdravstvu (»Narodne novine«, broj 75/2005 i 55/2011) i članka 8. stavka 1. podtočke (a) Pravilnika o mjerama za sprječavanje unošenja i širenja crvene palmine pipe - Rhynchophorus ferrugineus (Olivier) (»Narodne novine«, broj 35/2009 i 103/2011), ministar poljoprivrede donosi
