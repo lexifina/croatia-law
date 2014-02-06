@@ -1,0 +1,6 @@
+# Članak 3.
+U članku 7. stavku 2. točki b) riječi: »gospodarski inspektori« zamjenjuju se riječima: »inspekcija za kakvoću hrane«.
+U stavku 3. riječi: »provode gospodarski inspektori« zamjenjuju se riječima: »provodi inspekcija za kakvoću hrane«.
+Stavci 8. i 9. mijenjaju se i glase:
+»(8) Službenu kontrolu zaštićenih oznaka izvornosti, zaštićenih oznaka zemljopisnog podrijetla i zajamčeno tradicionalnih specijaliteta poljoprivrednih i prehrambenih proizvoda provodi na razini primarne proizvodnje i pripadajućih djelatnosti, na razini proizvodnje i prerade hrane bez obzira na podrijetlo te na razini maloprodaje hrane bez obzira na podrijetlo inspekcija za kakvoću hrane, prema posebnom propisu, a službene kontrole zdravstvene ispravnosti i higijene/sigurnosti ovih proizvoda provode se prema stavku 1. ovoga članka.
+(9) Službenu kontrolu u ekološkoj proizvodnji i označivanju ekoloških proizvoda provodi na razini primarne proizvodnje i pripadajućih djelatnosti, na razini proizvodnje i prerade hrane te na razini maloprodaje hrane bez obzira na podrijetlo poljoprivredna inspekcija, prema posebnom propisu, a službene kontrole zdravstvene ispravnosti i higijene ili sigurnosti ovih proizvoda provode se prema stavku 1. ovoga članka.«.
