@@ -1,0 +1,6 @@
+# Članak 9.
+(1) Poslove inspekcijskog nadzora obavljaju inspektori Ministarstva (u daljnjem tekstu: inspektori).
+(2) Inspektori, sukladno odredbama ovoga Zakona kojima se propisuje inspekcijski nadzor za pojedina upravna područja i uvjeti koje moraju ispunjavati inspektori, raspoređuju se na radna mjesta: viši tržišni inspektor – specijalist, viši tržišni inspektor, tržišni inspektor i tržišni inspektor II. vrste, viši rudarski inspektor – specijalist, viši rudarski inspektor, rudarski inspektor, viši elektroenergetski inspektor – specijalist, viši elektroenergetski inspektor, elektroenergetski inspektor, viši inspektor opreme pod tlakom – specijalist, viši inspektor opreme pod tlakom, inspektor opreme pod tlakom, viši inspektor gospodarenja otrovnim kemikalijama i inspektor gospodarenja otrovnim kemikalijama.
+(3) Inspekcijski poslovi su poslovi kod kojih postoje posebni uvjeti rada.
+(4) Inspektori su dužni, po nalogu nadređenog službenika, inspekcijski nadzor obavljati i duže od punoga radnog vremena, ako je to nužno radi uspješnog i pravodobnog obavljanja tih poslova.
+(5) Inspektorima se može odgoditi početak godišnjeg odmora ili prekinuti započeto korištenje godišnjeg odmora radi obavljanja inspekcijskog nadzora koji ne trpi odgodu.

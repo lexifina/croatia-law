@@ -1,0 +1,6 @@
+# Članak 55.
+(1) Do stupanja na snagu pravilnika i naputka iz članka 54. ovoga Zakona, u dijelu u kojem se odnose na inspektore koji su na dan stupanja na snagu ovoga Zakona zatečeni u obavljanju poslova iz članaka 3., 4., 5. i 6. ovoga Zakona i u dijelu u kojem nisu u suprotnosti s odredbama ovoga Zakona, na odgovarajući se način primjenjuju:
+– Pravilnik o načinu vođenja očevidnika o obavljenim inspekcijskim nadzorima i poduzetim mjerama inspektora Državnog inspektorata (»Narodne novine«, br. 134/09. i 68/13.)
+– Pravilnik o obrascu službene iskaznice i izgledu znaka gospodarskog inspektora, rudarskog i elektroenergetskog inspektora, te inspektora rada i posuda pod tlakom (»Narodne novine«, br. 105/09.)
+– Naputak o načinu pečaćenja kada se rješenje inspektora Državnog inspektorata izvršava pečaćenjem (»Narodne novine«, br. 134/09.).
+(2) Do stupanja na snagu pravilnika iz članka 20. stavka 2. ovoga Zakona te preuzimanja novih službenih iskaznica i znački u skladu s tim pravilnikom, inspektori koji su na dan stupanja na snagu ovoga Zakona zatečeni u obavljanju poslova iz članaka 3., 4., 5. i 6. ovoga Zakona nastavljaju koristiti već zadužene službene iskaznice i značke u skladu s Pravilnikom iz stavka 1. podstavka 2. ovog članka.
