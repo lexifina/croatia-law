@@ -1,0 +1,1 @@
+Na temelju članka 14. stavka 2. i članka 15. stavka 2. Zakona o ugostiteljskoj djelatnosti (»Narodne novine«, broj: 138/06., 152/08., 43/09., 88/10., 50/12. i 80/13.), ministar nadležan za ugostiteljstvo i turizam uz suglasnost ministra nadležnog za zdravstvo, donosi
