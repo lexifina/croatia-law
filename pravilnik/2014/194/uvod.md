@@ -1,0 +1,1 @@
+Na temelju članka 7. Zakona o promicanju čistih i energetsko učinkovitih vozila u cestovnom prijevozu (»Narodne novine« broj 127/13) ministar gospodarstva, uz prethodno pribavljeno mišljenje ministra nadležnog za poslove zaštite okoliša, ministra nadležnog za poslove prometa i Državnog zavoda za mjeriteljstvo, donosi
