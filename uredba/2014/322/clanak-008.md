@@ -1,0 +1,2 @@
+# Članak 8.
+Okvirni broj potrebnih državnih službenika i namještenika u Ministarstvu poljoprivrede prikazan u tablici koja je sastavni dio Uredbe o unutarnjem ustrojstvu Ministarstva poljoprivrede (»Narodne novine« broj 80/2013), zamjenjuje se Okvirnim brojem potrebnih državnih službenika i namještenika u Ministarstvu poljoprivrede koji je sadržan u tablici tiskanoj u prilogu ove Uredbe i čini sastavni dio Uredbe o unutarnjem ustrojstvu Ministarstva poljoprivrede.
