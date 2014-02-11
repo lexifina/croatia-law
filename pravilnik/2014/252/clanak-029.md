@@ -1,0 +1,5 @@
+# Članak 29.
+(1) Psihologijski kriteriji (temeljni i dodatni), postupci i psihologijski mjerni instrumenti kojima se mjere psihičke značajke i postignuća na psihologijskim ispitivanjima određuju se posebnim naputcima koje odobrava pomoćnik ministra obrane zadužen za ljudske resurse na prijedlog psihološke struke nadležne ustrojstvene jedinice Ministarstva obrane.
+(2) Naputci iz stavka 1. ovoga članka dopuna su Metodologijskih uputa, predstavljaju profesionalnu tajnu i dostavljaju se isključivo vojnim psiholozima, provoditeljima psihologijskih ispitivanja.
+(3) Planiranje, sudjelovanje u nabavi, raspodjelu, odobravanje uporabe i nadzor nad uporabom psihologijskih mjernih instrumenata provodi psihološka struka ustrojstvene jedinice Ministarstva obrane nadležne za vojnopsihološku djelatnost.
+(4) Vojni psiholozi dužni su pridržavati se Zakona o psihološkoj djelatnosti i Kodeksa etike psihološke djelatnosti tijekom provedbe postupka utvrđivanja psihičke sposobnosti propisanog ovim Pravilnikom.

@@ -1,0 +1,5 @@
+# Članak 38.
+(1) Pripadnici koji tijekom redovitih psihologijskih ispitivanja ne zadovolje kriterije na skupnim psihologijskim ispitivanjima, obvezno se upućuju na dodatna skupna psihologijska ispitivanja. Po potrebi upućuju se i na pojedinačna psihologijska ispitivanja, a po indikaciji i kliničkom vojnom psihologu.
+(2) Pripadnici koji su na izvanredno psihologijsko ispitivanje upućeni radi odabira za neku dužnost ili aktivnost (npr. odabir za vojnu izobrazbu) u pravilu pristupaju samo skupnom ispitivanju i ne upućuju se na dodatna skupna i pojedinačna psihologijska ispitivanja.
+(3) Za pripadnike koji su na izvanredno psihologijsko ispitivanje upućeni na osobni zahtjev, zahtjev vojnog psihologa, liječnika ili na zahtjev zapovjednika u pravilu se provode samo pojedinačna psihologijska ispitivanja.
+(4) U slučaju da je nezadovoljavanje psihologijskih kriterija vezano uz mogući psihički poremećaj, psiholog o svojem nalazu mora obavijestiti nadležnog izvršitelja zdravstvenog pregleda radi mogućeg pokretanja psihijatrijskog liječenja/obrade.
