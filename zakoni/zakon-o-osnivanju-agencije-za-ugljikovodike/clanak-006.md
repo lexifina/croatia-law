@@ -1,0 +1,2 @@
+# Članak 6.
+Kod davanja prijedloga ministarstvu nadležnom za rudarstvo za donošenje odluke o provođenju javnog nadmetanja Agencija je dužna uz isti prijedlog priložiti svu relevantnu dokumentaciju koja je potrebna za donošenje takve odluke uključivši dokumentaciju iz koje su razvidne granice predloženog istražnog prostora te prijedloge ugovora koje bi investitor kojem bude izdana dozvola trebao sklopiti s Vladom Republike Hrvatske.
