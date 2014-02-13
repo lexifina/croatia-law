@@ -1,0 +1,1 @@
+Na temelju članka 17. stavka 1. Pravilnika o zaštiti i čuvanju arhivskog i registraturnog gradiva izvan arhiva (»Narodne novine«, broj 63/04 i 106/07) i članka 11. stavka 3. Pravilnika o vrednovanju te postupku odabiranja i izlučivanja arhivskog gradiva (»Narodne novine«, broj 90/02), predsjednik Državnog sudbenog vijeća 30. siječnja 2014. donosi

@@ -1,0 +1,6 @@
+## III/1 Konvencionalno gradivo
+# Članak 10.
+Riješeni i dovršeni predmeti (u daljnjem tekstu: gradivo) stavljaju se u za to određene omote, fascikle, registratore, arhivske kutije, svežnjeve, uveze ili arhivske mape (fascikle s preklopom)... i sl. tehničke arhivske jedinice. Gradivo se pismohrani obvezno predaje tehnički opremljeno i popisano. U pismohrani, nakon arhiviranja predmeta, gradivo se sređuje te se provodi postupak izlučivanja i vrednovanja redovito, a najmanje 5 (pet) godina od posljednjeg provedenog postupka. Odabrano gradivo se obavezno predaje tehnički opremljeno i popisano.
+Predsjednik DSV-a odgovoran je za arhivsko i registraturno gradivo koje nastaje u njegovom poslovnom području, od trenutka zaprimanja i obrade do predaje na daljnje čuvanje.
+Svaki službenik i namještenik odgovoran je za gradivo za koje je zadužen u pogledu sadržaja podataka, pravodobne obrade, te ukupnog stanja svakog predmeta kojim raspolaže.
+Svaki službenik i namještenik koji je zadužen za gradivo do predaje u pismohranu, dužan ga je tijekom godine odlagati po utvrđenom planu koji odgovara naravi posla, te ga svrstavati u odgovarajuće arhivske jedinice. Na svaku arhivsku jedinicu, ispisuju se sljedeći podaci: naziv institucije, ustrojstvena jedinica, godina nastanka gradiva, naziv i vrsta gradiva, raspon brojeva predmeta u arhivskoj jedinici, rok čuvanja gradiva.
