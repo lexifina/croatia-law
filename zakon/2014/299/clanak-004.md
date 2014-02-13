@@ -1,0 +1,9 @@
+# Članak 4.
+Iza članka 5. dodaje se članak 5.a koji glasi:
+»Članak 5.a
+(1) Vlada Republike Hrvatske, na prijedlog Ministarstva, može odlukom na određeno vremensko razdoblje, ne dulje od tri godine, odrediti opskrbljivača na veleprodajnom tržištu koji je dužan, po reguliranim uvjetima, prodavati plin opskrbljivačima u javnoj usluzi opskrbe za potrebe kupaca iz kategorije kućanstvo te osigurati pouzdanu i sigurnu opskrbu, uključujući i uvoz plina.
+(2) Vlada Republike Hrvatske na prijedlog Ministarstva, može odlukom na određeno vremensko razdoblje, ne dulje od tri godine, odrediti proizvođaču prirodnog plina na području Republike Hrvatske obvezu prodaje prirodnog plina, po reguliranim uvjetima, opskrbljivaču na veleprodajnom tržištu koji opskrbljuje opskrbljivače u javnoj usluzi opskrbe za kupce iz kategorije kućanstvo.
+(3) Vlada Republike Hrvatske, na prijedlog Ministarstva, može za imenovanog opskrbljivača na veleprodajnom tržištu koji prodaje plin opskrbljivačima u javnoj usluzi opskrbe za potrebe kupaca iz kategorije kućanstvo odlukom propisati prioritet (pravo prednosti) prilikom provođenja postupka za rezervaciju i raspodjelu kapaciteta sustava skladišta plina.
+(4) Vlada Republike Hrvatske, na prijedlog Ministarstva, može odlukom na određeno vremensko razdoblje, ne dulje od tri godine, odrediti cijenu plina po kojoj je proizvođač prirodnog plina, prirodni plin proizveden na području Republike Hrvatske, dužan prodavati opskrbljivaču na veleprodajnom tržištu koji prodaje plin opskrbljivačima u javnoj usluzi opskrbe za kupce iz kategorije kućanstvo.
+(5) Vlada Republike Hrvatske, na prijedlog Ministarstva, može odlukom na određeno vremensko razdoblje, ne dulje od tri godine, odrediti cijenu plina po kojoj je opskrbljivač na veleprodajnom tržištu dužan prodavati plin opskrbljivačima u javnoj usluzi za kupce iz kategorije kućanstvo.
+(6) Prilikom donošenja odluka iz ovoga članka Ministarstvo će zatražiti mišljenje Agencije.«.
