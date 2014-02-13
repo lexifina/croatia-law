@@ -1,0 +1,6 @@
+# Članak 11.
+(1) Turistički inspektor u prikupljanju, evidentiranju, obradi i korištenju osobnih te drugih podataka i obavijesti posebno skrbi o zaštiti osobnih i drugih podataka te o njihovoj tajnosti i povjerljivosti.
+(2) Prilikom obavljanja poslova turističkog inspektora primjenjuju se propisi kojima se uređuje zaštita osobnih podataka i propisa kojima se uređuje tajnost podataka.
+(3) Turistički inspektor smije samo u službene svrhe koristiti informacije, podatke ili saznanja koja ima ili su mu dostupna prilikom obavljanja poslova inspekcijskog nadzora, te ne smije koristiti i davati obavijesti, podatke ili saznanja za ostvarivanje bilo kakve imovinske ili druge koristi za sebe ili za drugu osobu.
+(4) Turistički inspektor dužan je kao službenu tajnu čuvati svu dokumentaciju te sve druge podatke i dokaze utvrđene, odnosno nastale u vezi s inspekcijskim postupkom, kao i identitet podnositelja predstavke.
+(5) Dokumentaciju i podatke iz stavka 4. ovoga članka prikupljene ili utvrđene u inspekcijskom nadzoru te identitet podnositelja predstavke, turistički inspektor može dati samo sudovima, tijelima državne uprave i drugim državnim tijelima, na njihov obrazloženi pisani zahtjev u postupcima iz njihove nadležnosti.

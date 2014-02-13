@@ -1,0 +1,3 @@
+# Članak 20.
+(1) Turistički inspektor će kontrolu izvršenja rješenja iz članka 18. stavka 1. i članka 19. ovoga Zakona obaviti neposredno po izvršnosti rješenja, a najkasnije u roku od osam dana od dana izvršnosti te će poduzeti i druge radnje potrebne za izvršenje rješenja.
+(2) Ako je pravna ili fizička osoba izvršila mjeru izrečenu rješenjem iz članka 18. stavka 1. i članka 19. ovoga Zakona ili je iz nekog drugog razloga prestala obveza izvršenja toga rješenja, turistički inspektor će po službenoj dužnosti u zapisniku o kontroli izvršenja rješenja navesti da je rješenje izvršeno, osim ako posebnim zakonom nije drugačije propisano.

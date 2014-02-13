@@ -1,0 +1,2 @@
+# Članak 33.
+Gospodarski inspektori koji su u Državnom inspektoratu obavljali poslove iz područja ugostiteljstva i pružanja usluga u turizmu koji odgovaraju poslovima iz članka 3. ovoga Zakona danom stupanja na snagu ovoga Zakona nastavljaju obavljanje tih poslova kao turistički inspektori u Ministarstvu i u slučaju da ne ispunjavaju uvjete propisane člankom 8. ovoga Zakona u pogledu smjera i stupnja obrazovanja i vozačkog ispita.

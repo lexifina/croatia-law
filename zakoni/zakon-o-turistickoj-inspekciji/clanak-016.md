@@ -1,0 +1,5 @@
+# Članak 16.
+(1) Pravna ili fizička osoba koja podliježe inspekcijskom nadzoru dužna je turističkom inspektoru omogućiti obavljanje toga nadzora i osigurati mu uvjete za neometan rad.
+(2) Smatra se da pravna ili fizička osoba nije omogućila obavljanje nadzora iz stavka 1. ovoga članka i u slučaju kada u roku određenom u zapisniku o inspekcijskom nadzoru ili pisanom nalogu turističkog inspektora ne osigura uvid u traženu poslovnu dokumentaciju i druge isprave potrebne za utvrđivanje činjeničnog stanja u započetom inspekcijskom nadzoru, ili se u roku određenom u pozivu za saslušanje tom pozivu neopravdano ne odazove, ili ne izvrši radnju iz članka 13. stavaka 4. i 5. ovoga Zakona.
+(3) Pravna ili fizička osoba je dužna, na traženje turističkog inspektora, privremeno obustaviti poslovanje nadziranog objekta za vrijeme inspekcijskog nadzora u trajanju koje odredi inspektor ako turistički inspektor ne bi mogao na drugi način obaviti inspekcijski nadzor ili utvrditi činjenično stanje.
+(4) Zahtjev za privremenu obustavu poslovanja i trajanje obustave turistički inspektor dužan je naznačiti u zapisniku o obavljenom inspekcijskom nadzoru.

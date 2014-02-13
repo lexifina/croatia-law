@@ -1,0 +1,6 @@
+# Članak 35.
+(1) Do stupanja na snagu pravilnika i naputka iz članka 34. ovoga Zakona, u dijelu koji se odnosi na inspekcijske poslove iz područja ugostiteljstva i pružanja usluga u turizmu, a nije u suprotnosti s odredbama ovoga Zakona, na obavljanje poslova turističke inspekcije na odgovarajući se način primjenjuju:
+1. Pravilnik o sadržaju, obliku i načinu vođenja očevidnika inspektora Državnog inspektorata (»Narodne novine«, br. 134/09. i 68/13.)
+2. Pravilnik o obrascu službene iskaznice i izgledu znaka gospodarskog inspektora, rudarskog i elektroenergetskog inspektora, te inspektora rada i posuda pod tlakom (»Narodne novine«, br. 105/99.)
+3. Naputak o načinu pečaćenja kada se rješenje inspektora Državnog inspektorata izvršava pečaćenjem (»Narodne novine«, br. 134/09.).
+(2) Do stupanja na snagu pravilnika iz članka 9. stavka 2. ovoga Zakona te preuzimanja novih službenih iskaznica i znački u skladu s tim pravilnikom, turistički inspektori nastavljaju koristiti već zadužene službene iskaznice i značke sukladno Pravilniku o obrascu službene iskaznice i izgledu znaka gospodarskog inspektora, rudarskog i elektroenergetskog inspektora, te inspektora rada i posuda pod tlakom (»Narodne novine«, br. 105/99.).

@@ -1,0 +1,2 @@
+# Članak 23.
+Ako turistički inspektor utvrdi postojanje sumnje da je počinjen prekršaj ili kazneno djelo, uz rješenje za čije je donošenje ovlašten dužan je bez odgađanja naplatiti kaznu na mjestu izvršenja prekršaja, odnosno najkasnije u roku od 15 dana od dana završetka inspekcijskog nadzora s utvrđenim činjenicama odlučnim za poduzimanje mjera donijeti prekršajni nalog ili podnijeti optužni prijedlog za pokretanje prekršajnog postupka, odnosno kaznenu prijavu. Nepodnošenje optužnog prijedloga, odnosno prijave do toga roka ne isključuje obvezu podnošenja.
