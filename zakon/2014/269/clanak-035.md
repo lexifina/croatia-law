@@ -1,0 +1,4 @@
+## Prijelazne odredbe
+# Članak 35.
+(1) Do donošenja propisa iz članka 22. ovoga Zakona pružanje usluga tretiranja mogu obavljati samo one pravne i fizičke osobe koje su upisane u Upisnik pravnih i fizičkih osoba koje obavljaju poslove suzbijanja i iskorjenjivanja štetnih organizama u poljoprivredi i šumarstvu sredstvima za zaštitu bilja sukladno Zakonu o sredstvima za zaštitu bilja (»Narodne novine«, br. 70/05.) i Pravilniku o uspostavi akcijskog okvira za postizanje održive uporabe pesticida (»Narodne novine«, br. 142/12.).
+(2) Distributeri ili vlasnici rješenja o registraciji pesticida koji su obavljali poslove distribucije i prodaje pesticida do stupanja na snagu ovoga Zakona obvezni su dostaviti podatke za upis u središnju evidenciju FIS-a iz članka 9. stavka 2. ovoga Zakona i podatke o prodaji pesticida iz članka 9. stavka 2. i 3. ovoga Zakona najkasnije do 1. travnja 2014.

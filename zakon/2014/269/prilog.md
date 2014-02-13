@@ -1,0 +1,1 @@
+[1] Pravilnik je preuzeo odredbe Direktive 2009/127/EZ Europskog Parlamenta i Vijeća od 21. listopada 2009. kojom se nadopunjuje Direktiva 2006/42/EZ u dijelu koji se odnosi na strojeve za primjenu pesticida.

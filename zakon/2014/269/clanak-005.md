@@ -1,0 +1,8 @@
+## III. IZOBRAZBA PROFESIONALNIH KORISNIKA, DISTRIBUTERA I SAVJETNIKA
+## Izobrazba
+# Članak 5.
+(1) Svi profesionalni korisnici, distributeri i savjetnici (u daljnjem tekstu: obveznici izobrazbe) moraju imati primjerenu izobrazbu koja se sastoji od osnovnog modula i dopunskog modula izobrazbe za stjecanje i obnavljanje odgovarajućih znanja o sigurnom rukovanju s pesticidima i pravilnoj primjeni pesticida.
+(2) Obveznici izobrazbe dužni su položiti ispit kojim potvrđuju da posjeduju razinu znanja za sigurno rukovanje i pravilnu primjenu pesticida, obavljanje poslova distribucije i prodaje pesticida te davanja savjeta u prodaji pesticida te savjeta za primjenu pesticida u proizvodnji hrane i zaštite bilja, biljnih proizvoda i objekata od štetnih organizama.
+(3) Područja izobrazbe, stručne uvjete za obveznike izobrazbe, krajnji rok do kojeg obveznici izobrazbe moraju završiti osnovni modul izobrazbe, rok za obnavljanje stečenog znanja dopunskom izobrazbom, vrste modula i duljinu trajanja pojedinog modula, minimalne uvjete za pristup kandidata izobrazbi, detaljan način i tijek provedbe izobrazbe, način i tijek polaganja ispita, izgled, sadržaj i način izdavanja potvrde o položenom ispitu propisat će ministar pravilnikom.
+(4) Priručnik za izobrazbu i testove za polaganje ispita priprema povjerenstvo koje imenuje ministar.
+(5) Sadržaj priručnika, djelokrug povjerenstva za izradu priručnika i testova za polaganje ispita, kriterije za imenovanje članova povjerenstva, broj članova povjerenstva te trajanje njihovog mandata, način rada i odlučivanja, pravo na naknadu za rad u povjerenstvu i visinu naknade te druge pojedinosti vezane uz priručnik i rad povjerenstva propisat će ministar pravilnikom.

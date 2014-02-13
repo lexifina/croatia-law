@@ -1,0 +1,8 @@
+## Redoviti pregled strojeva za primjenu pesticida
+# Članak 12.
+(1) Strojevi za primjenu pesticida koji su u uporabi i koje koriste profesionalni korisnici podliježu redovitom pregledu.
+(2) Pregledima se provjerava zadovoljavaju li strojevi za primjenu pesticida određene tehničke zahtjeve radi postizanja visoke razine zaštite zdravlja ljudi, životinja i okoliša.
+(3) Pregledani strojevi za uporabu pesticida se označavaju znakom o obavljenom pregledu koji izdaju ovlaštene ispitne stanice.
+(4) Iznimno od stavka 1. i 2. ovoga članka na temelju procjene rizika za zdravlje ljudi, životinja i okoliša te učestalosti uporabe mogu se izuzeti od obveze redovitog pregleda određene vrste strojeva za primjenu pesticida, a novi uređaji kupljeni nakon 1. siječnja 2013. dobivaju znak o obavljenom pregledu bez obavljenog redovitog pregleda ako su u skladu s posebnim zakonom kojim se uređuju tehnički zahtjevi za proizvode i ocjenjivanje sukladnosti i posebnim propisom kojim se uređuje sigurnost strojeva.
+(5) Priznati se može pregled obavljen u drugoj državi članici Europske unije ako je pregled u pogledu tehničkih i sigurnosnih zahtjeva te istog razdoblja učestalosti pregleda istovjetan pregledu koji se obavlja u Republici Hrvatskoj.
+(6) Detaljnije uvjete o redovitom pregledu i priznavanju pregleda, tehničkim zahtjevima za pregled strojeva za primjenu pesticida, učestalost redovitih pregleda, rokove do kojih strojevi za primjenu pesticida moraju biti najmanje jednom pregledani, iznimke od redovitog pregleda te izgled i način izdavanja znaka o obavljenom pregledu, izdavanje novog znaka u slučaju gubitka i oštećenja znaka propisat će ministar pravilnikom.

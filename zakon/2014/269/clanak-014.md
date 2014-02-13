@@ -1,0 +1,5 @@
+## Obveza vlasnika ili korisnika strojeva za primjenu pesticida
+# Članak 14.
+(1) Vlasnici strojeva za primjenu pesticida ili njihovi trajni korisnici obvezni su prijaviti ovlaštenoj ispitnoj stanici nove strojeve za primjenu pesticida radi dobivanja znaka, obaviti redoviti pregled strojeva za primjenu pesticida u uporabi u propisanom roku, kao i zatražiti priznavanje pregleda i izdavanje znaka za rabljene strojeve koji su pregledani u nekoj od država članica Europske unije i imaju važeći znak o pregledu izdan od ovlaštenog tijela te države.
+(2) Vlasnici strojeva iz stavka 1. ovoga članka obvezni su čuvati izvještaj o pregledu do sljedećeg pregleda i prijaviti ispitnoj stanici svaku promjenu podataka o vlasništvu najkasnije u roku od 30 dana od nastanka promjene u pisanom obliku i priložiti dokaze o promjenama.
+(3) Vlasnici strojeva iz stavka 1. ovoga članka obvezni su prijaviti ovlaštenoj ispitnoj stanici strojeve koje ne planiraju koristiti ili je prošlo više od 30 dana od isteka znaka radi odjave takvih strojeva.
