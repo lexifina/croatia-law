@@ -1,0 +1,1 @@
+Na temelju članka 19. stavka 7. Zakona o udžbenicima za osnovnu i srednju školu (»Narodne novine«, broj 27/10., 55/11. i 101/13.) ministar znanosti, obrazovanja i sporta, na prijedlog Povjerenstva za provođenje postupka uvrštavanja udžbenika i pripadajućih dopunskih nastavnih sredstava u Katalog (u daljnjem tekstu: Povjerenstvo), donosi
