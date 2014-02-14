@@ -1,0 +1,3 @@
+# Članak 3.
+1. Za obavljanje usluga u poslovima kreditiranja potrošača vjerovnik može obračunavati i naplatiti naknade, i to: naknadu za obradu kreditnog zahtjeva, naknadu za vođenje kredita, naknade za promjene po kreditu, naknade za prijevremenu otplatu kredita, naknade za otkaz ugovora o kreditu, naknade za izdavanje obavijesti i potvrda na zahtjev klijenta ili zbog okolnosti na koje vjerovnik nije mogao utjecati, naknada/premija za osiguranje potraživanja.
+2. Osim naknada iz stavka 1. ovoga članka, vjerovnik može naplatiti i drugu naknadu pod uvjetom da je bila sadržana u tarifi odnosno aktu vjerovnika kojim su određene naknade u vrijeme zaključenja ugovora.
