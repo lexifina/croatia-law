@@ -1,0 +1,3 @@
+# Članak 5.
+(1) Osnovne mjere očuvanja ptica propisane Prilogom I. ovoga Pravilnika provode se u okviru planova gospodarenja prirodnim dobrima, dokumenata prostornog uređenja, planova upravljanja područjima ekološke mreže i planova upravljanja strogo zaštićenim vrstama.
+(2) Obveznici provedbe osnovnih mjera očuvanja su središnja tijela državne uprave, pravne osobe s javnim ovlastima, jedinice lokalne i područne (regionalne) samouprave i druge pravne i fizičke osobe koje su nadležne, odnosno dužne provoditi planske dokumente iz stavka 1. ovoga članka sukladno propisima iz područja zaštite prirode i posebnim propisima, svako u svom upravnom području.

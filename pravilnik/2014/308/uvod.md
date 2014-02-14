@@ -1,0 +1,1 @@
+Na temelju članka članka 55. stavka 3. Zakona o zaštiti prirode (»Narodne novine« broj 80/2013), ministar zaštite okoliša i prirode, uz uz suglasnost središnjeg tijela državne uprave nadležnog za poslove poljoprivrede, šumarstva, lovstva, ribarstva i vodnoga gospodarstva, donosi
