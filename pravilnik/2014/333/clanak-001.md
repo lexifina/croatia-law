@@ -1,0 +1,10 @@
+# Članak 1.
+U Pravilniku o uvjetima i načinu stjecanja stručnih zvanja u knjižničarskoj struci (»Narodne novine«, broj 28/11) u članku 2. točke 2. i 3. mijenjaju se i glase:
+»2. za zvanje knjižničar:
+- završen preddiplomski sveučilišni studij iz polja informacijskih i komunikacijskih znanosti s najmanje 30 ECTS bodova iz temeljnih predmeta knjižničarstva,
+- završen drugi preddiplomski studij, odnosno studij kojim je stečena viša stručna sprema sukladno propisima koji su bili na snazi prije stupanja na snagu Zakona o znanstvenoj djelatnosti i visokom obrazovanju (»Narodne novine«, broj 123/03, 105/04, 174/04, 2/07 - Odluka Ustavnog suda Republike Hrvatske, 46/07, 45/09, 63/11, 94/13 i 139/13), uz obvezu stjecanja najmanje 30 ECTS bodova iz temeljnih predmeta knjižničarstva na preddiplomskom studiju iz informacijskih i komunikacijskih znanosti u roku od 3 godine od zapošljavanja te
+- položen stručni ispit za knjižničara.
+3. za zvanje diplomirani knjižničar:
+- završen diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij ili specijalistički diplomski stručni studij iz polja informacijskih i komunikacijskih znanosti s najmanje 60 ECTS bodova iz temeljnih predmeta knjižničarstva, odnosno studij knjižničarstva kojim je stečena visoka stručna sprema sukladno propisima koji su bili na snazi prije stupanja na snagu Zakona o znanstvenoj djelatnosti i visokom obrazovanju,
+- završen drugi preddiplomski i diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij ili specijalistički diplomski stručni studij, odnosno studij kojim je stečena visoka stručna sprema sukladno propisima koji su bili na snazi prije stupanja na snagu Zakona o znanstvenoj djelatnosti i visokom obrazovanju, uz obvezu stjecanja 60 ECTS bodova iz temeljnih predmeta knjižničarstva na diplomskom studiju iz informacijskih i komunikacijskih znanosti u roku od 3 godine od dana zapošljavanja, te
+- položen stručni ispit za diplomiranog knjižničara.«.

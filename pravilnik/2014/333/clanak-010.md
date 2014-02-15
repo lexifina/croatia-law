@@ -1,0 +1,4 @@
+# Članak 10.
+Članak 37. mijenja se i glasi:
+»Dopunski stručni ispit može polagati osoba koja je već položila stručni ispit u knjižničarskoj struci za pomoćnog knjižničara, odnosno knjižničara i koja, nakon stjecanja propisanog obrazovanja želi steći stručno zvanje knjižničara, odnosno diplomiranog knjižničara kao i osoba koja je položila stručni ispit prema Pravilniku o polaganju stručnog ispita učitelja i stručnih suradnika u osnovnom školstvu i nastavnika u srednjem školstvu (»Narodne novine«, broj 88/03).
+Osoba koja je položila stručni ispit prema Pravilniku o polaganju stručnog ispita učitelja i stručnih suradnika u osnovnom školstvu i nastavnika u srednjem školstvu polaže u općem dijelu stručnog ispita za zvanje knjižničar ili diplomirani knjižničar razlikovni dio ispita koji se odnosi na zakonodavstvo Republike Hrvatske u području knjižničarske djelatnosti i kulture, a posebni dio ispita polaže u cijelosti.«.
