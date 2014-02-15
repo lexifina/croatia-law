@@ -1,0 +1,2 @@
+# Članak 7.
+Osnuju li jedinice lokalne samouprave pravni subjekt iz članka 202. stavak 1. Zakona o vodama (»Narodne novine« br. 153/2009, 63/2011, 130/2011 i 56/2013) za djelatnost javne vodoopskrbe radi ispunjenja članka 146. Zakona o izmjenama i dopunama Zakona o vodama (»Narodne novine« br. 56/2013) Ministarstvo je ovlašteno takvom pravnom subjektu izdati privremeno rješenje o ispunjenju posebnih uvjeta, za razdoblje od najviše 2 godine, i ako nisu ispunjeni svi posebni uvjeti za obavljanje djelatnosti javne vodoopskrbe iz ovoga Pravilnika.
