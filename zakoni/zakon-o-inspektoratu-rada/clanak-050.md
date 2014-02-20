@@ -1,0 +1,7 @@
+# Članak 50.
+(1) Novčanom kaznom od 120.000,00 do 150.000,00 kuna kaznit će se za prekršaj poslodavac pravna osoba ako:
+1) inspektoru rada ne omogući obavljanje inspekcijskog nadzora ili mu ne osigura uvjete za neometan rad ili na njegovo traženje privremeno ne obustavi poslovanje nadziranog objekta za vrijeme inspekcijskog nadzora u slučaju kada inspektor ne može na drugi način obaviti inspekcijski nadzor ili utvrditi činjenično stanje (članak 30. stavci 1., 2. i 3.)
+2) na pisano traženje inspektora rada, u određenom roku ne pripremi ili ne dostavi točne i potpune podatke, obavijesti i materijale koji su mu potrebni za obavljanje inspekcijskog nadzora, ili ako dostavi netočne ili nepotpune podatke, obavijesti ili materijale, ili ako i nakon obavljenog inspekcijskog nadzora ne izvrši zatražene radnje ili ih ne izvrši u određenom roku (članak 33. stavci 4. i 6.)
+3) na zahtjev inspektora rada, do donošenja pravomoćne odluke o prekršaju, odnosno pravomoćne presude o počinjenom kaznenom djelu, ne preda zatraženu dokumentaciju ili predmete koji u prekršajnom ili kaznenom postupku mogu poslužiti kao dokaz (članak 34. stavak 1.)
+4) ne izvrši izvršno rješenje inspektora rada doneseno na temelju ovoga ili drugoga zakona (članci 36. i 38.).
+(2) Za prekršaj iz stavka 1. ovoga članka kaznit će se poslodavac fizička osoba i odgovorna osoba u pravnoj osobi novčanom kaznom od 30.000,00 do 50.000,00 kuna.

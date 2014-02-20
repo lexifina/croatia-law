@@ -1,0 +1,2 @@
+# Članak 13.
+Ako se u skladu s odredbom članka 12. ovoga Zakona tijekom obavljanja inspekcijskih poslova utvrdi da postoje sigurnosne zapreke za obavljanje tih poslova ili ako osoba iz članka 7. stavka 1. ovoga Zakona na zahtjev čelnika tijela osobno ne ispuni upitnik za sigurnosnu provjeru ili ne potpiše suglasnost za provođenje sigurnosne provjere u skladu s posebnim propisom, raspoređuje se na drugo radno mjesto za koje ispunjava uvjete, a ako nema odgovarajućeg radnog mjesta na koje se može rasporediti, donosi se rješenje o stavljanju na raspolaganje.

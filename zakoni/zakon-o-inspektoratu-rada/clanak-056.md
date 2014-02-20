@@ -1,0 +1,7 @@
+# Članak 56.
+(1) Do stupanja na snagu pravilnika iz članka 55. ovoga Zakona, u dijelu u kojem se odnose na inspektore rada i u dijelu u kojem nisu u suprotnosti s odredbama ovoga Zakona, na odgovarajući se način primjenjuju:
+1) Pravilnik o načinu vođenja očevidnika o obavljenim inspekcijskim nadzorima i poduzetim mjerama inspektora Državnog inspektorata (»Narodne novine«, br. 134/09. i 68/13.)
+2) Pravilnik o obrascu službene iskaznice i izgledu znaka gospodarskog inspektora, rudarskog i elektroenergetskog inspektora, te inspektora rada i posuda pod tlakom (»Narodne novine«, br. 105/99.)
+3) Naputak o načinu pečaćenja kada se rješenje inspektora Državnog inspektorata izvršava pečaćenjem (»Narodne novine«, br. 134/09.).
+(2) Do stupanja na snagu Naputka o podacima koji sadrži izvješće povodom događaja koji je prouzročio smrt ili skupnu ozljedu radnika, koji se donosi na temelju posebnog propisa o zaštiti na radu, u dijelu u kojem nije u suprotnosti s odredbama ovoga Zakona, na odgovarajući se način primjenjuje Naputak o podacima koji sadrži izvješće povodom događaja koji je prouzročio smrt ili skupnu ozljedu radnika (»Narodne novine«, br. 86/12.).
+(3) Do stupanja na snagu pravilnika iz članka 21. stavka 2. ovoga Zakona te preuzimanja novih službenih iskaznica i znački u skladu s tim pravilnikom, inspektori rada nastavljaju koristiti već zadužene službene iskaznice i značke u skladu s Pravilnikom iz stavka 1. podstavka 2. ovoga članka.

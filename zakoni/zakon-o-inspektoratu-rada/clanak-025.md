@@ -1,0 +1,7 @@
+# Članak 25.
+(1) Na prikupljanje i daljnju obradu podataka koje obrađuje Inspektorat rada primjenjuju se propisi kojima se uređuje zaštita osobnih podataka, tajnost podataka i informacijska sigurnost.
+(2) Inspektorat rada može prikupljati osobne te druge podatke i obavijesti radi provođenja inspekcijskog nadzora iz već postojećih izvora podataka, neposredno od osobe na koju se ti podaci odnose i od drugih osoba za koje je vjerojatno da imaju saznanja o tim podacima.
+(3) Prikupljanje osobnih te drugih podataka i obavijesti iz stavka 1. ovoga članka od maloljetnika poduzima se u nazočnosti zakonskog zastupnika maloljetnika, a po potrebi i stručne osobe centra za socijalnu skrb, osim ako je maloljetnik prije punoljetnosti stekao potpunu ili ograničenu poslovnu sposobnost na neki od zakonom dopuštenih načina.
+(4) Inspektor rada koji prikuplja osobne te druge podatke i obavijesti nije o tome dužan obavijestiti osobe na koje se ti podaci odnose ako bi to onemogućilo ili nerazmjerno otežalo njihovo prikupljanje u svrhu provođenja inspekcijskog nadzora.
+(5) Tijela, ustanove i drugi subjekti koji na temelju zakona i u okviru svojih djelatnosti raspolažu podacima i obavijestima dužni su na zahtjev inspektora rada dostaviti tražene osobne te druge podatke i obavijesti koje su nužne za provođenje inspekcijskog nadzora te obavljanje drugih poslova iz nadležnosti Inspektorata rada.
+(6) Osobne te druge podatke i obavijesti inspektor rada može prikupljati u službenim prostorima, na radnom mjestu osobe, a uz prethodni pristanak osobe i u njezinu domu.

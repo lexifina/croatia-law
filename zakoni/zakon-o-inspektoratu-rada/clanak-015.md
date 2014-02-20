@@ -1,0 +1,4 @@
+# Članak 15.
+(1) Inspektoru rada u područnom uredu i ispostavi područnog ureda može se, zbog potrebe posla ili učinkovitijeg obavljanja poslova inspekcijskog nadzora, privremeno naložiti obavljanje tih poslova u drugoj ispostavi područnog ureda ili drugom područnom uredu, odnosno središnjem uredu, neovisno o udaljenosti mjesta rada od mjesta stanovanja.
+(2) Inspektor rada koji privremeno obavlja poslove inspekcijskog nadzora u drugom mjestu rada udaljenom više od sto kilometara od mjesta stanovanja ostvaruje prava u skladu s posebnim propisom kojim se uređuju plaće i druga materijalna prava zaposlenih u državnim službama.
+(3) Privremeno obavljanje poslova inspekcijskog nadzora u drugoj ispostavi, drugom područnom uredu, odnosno središnjem uredu može trajati neprekidno najduže tri mjeseca, odnosno najduže šest mjeseci s prekidima u godini, a nalaže ga ministar na prijedlog ravnatelja.

@@ -1,0 +1,6 @@
+# Članak 10.
+(1) Načelnik sektora upravlja radom sektora u središnjem uredu te obavlja druge poslove iz djelokruga Inspektorata rada u skladu s pravilnikom o unutarnjem redu, a za svoj rad i rad sektora kojim upravlja odgovoran je ravnatelju i ministru.
+(2) Pročelnik ureda upravlja radom područnog ureda te obavlja druge poslove iz djelokruga Inspektorata rada u skladu s pravilnikom o unutarnjem redu, a za svoj rad i rad područnog ureda kojim upravlja odgovoran je ravnatelju i ministru.
+(3) Voditelj službe upravlja radom službe u središnjem ili područnom uredu te obavlja druge poslove iz djelokruga Inspektorata rada u skladu s pravilnikom o unutarnjem redu, a za svoj rad i rad službe kojom upravlja odgovoran je pročelniku ureda, načelniku sektora, ravnatelju i ministru.
+(4) Voditelj odjela upravlja radom odjela u službi te obavlja druge poslove iz djelokruga Inspektorata rada u skladu s pravilnikom o unutarnjem redu, a za svoj rad i rad odjela kojim upravlja odgovoran je voditelju službe, pročelniku ureda, načelniku sektora, ravnatelju i ministru.
+(5) Voditelj ispostave upravlja radom ispostave područnog ureda te obavlja druge poslove iz djelokruga Inspektorata rada u skladu s pravilnikom o unutarnjem redu, a za svoj rad i rad ispostave kojom upravlja odgovoran je voditelju službe, pročelniku područnog ureda, ravnatelju i ministru.
