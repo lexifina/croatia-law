@@ -1,0 +1,6 @@
+# Članak 5.
+(1) Energetski subjekti koji obavljaju energetsku djelatnost iz članka 4. stavka 1. točke 2. i 3. ovoga Zakona dužni su pravnoj ili fizičkoj osobi koja podnese zahtjev za pristup transportnom sustavu, uz ispunjavanje tehničkih uvjeta pristupa i priključenja sukladno posebnim propisima, omogućiti pristup na nepristran i razvidan način prema načelu pregovornog pristupa treće strane.
+(2) Energetski subjekti iz stavka 1. ovoga članka mogu odbiti pristup transportnom sustavu trećoj strani ako postoje tehnička ili sigurnosna ograničenja ili u slučaju popunjenog kapaciteta naftovoda, odnosno produktovoda.
+(3) Energetski subjekti iz stavka 1. ovoga članka dužni su u slučaju odbijanja pristupa transportnom sustavu dostaviti stranci odluku s razlozima odbijanja pristupa.
+(4) Nezadovoljna stranka ima pravo podnijeti žalbu Hrvatskoj energetskoj regulatornoj agenciji na odluku energetskog subjekta iz stavka 3. ovoga članka o odbijanju pristupa transportnom sustavu ili na uvjete pristupa transportnom sustavu.
+(5) Hrvatska energetska regulatorna agencija dužna je donijeti rješenje u roku od 60 dana od dana podnošenja žalbe. Odluka Hrvatske energetske regulatorne agencije je izvršna, a nezadovoljna stranka može protiv rješenja Hrvatske energetske regulatorne agencije pokrenuti upravni spor.
