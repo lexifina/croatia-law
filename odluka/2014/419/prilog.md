@@ -1,0 +1,1 @@
+23 20.02.2014 Odluka o raspisivanju prijevremenih izbora za gradsko vijeće i gradonačelnika te zamjenika gradonačelnika u gradovima Đurđevcu, Kutjevu i Glini te za općinsko vijeće i općinskog načelnika i zamjenika općinskog načelnika u općinama Čavle, Tuhelj i Zadvarje
