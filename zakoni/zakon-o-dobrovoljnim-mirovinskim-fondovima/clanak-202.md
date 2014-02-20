@@ -1,0 +1,2 @@
+# Članak 202.
+Mirovinska društva i pokrovitelji zatvorenih fondova dužni su izaslanim radnicima – članovima zatvorenih fondova pružiti adekvatne informacije o zatvorenom fondu, njihovim mirovinskim pravima i mogućnostima dostupnima u dodatnom mirovinskom sustavu druge države članice u koju su izaslani na rad. Takve informacije moraju najmanje odgovarati onim informacijama koje mirovinska društva i pokrovitelji zatvorenih fondova pružaju članovima zatvorenih fondova za koje su prestale uplate izaslanih radnika.

@@ -1,0 +1,2 @@
+# Članak 306.
+Kada Agencija zaprimi obavijest nadležnog tijela matične države članice društva koje upravlja zatvorenim fondom na području Republike Hrvatske, o oduzimanju, odnosno ukidanju odobrenja za rad tom mirovinskom društvu, u cijelosti ili u odnosu na pojedine djelatnosti, Agencija može poduzeti odgovarajuće mjere za zaštitu interesa članova fonda, uključujući između ostaloga i zabranu obavljanja djelatnosti ili zabranu ponude mirovinskih programa na području Republike Hrvatske.

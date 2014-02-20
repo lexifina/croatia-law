@@ -1,0 +1,10 @@
+## Izbor drugog mirovinskog društva i prijenos poslova upravljanja
+# Članak 94.
+(1) Depozitar će u roku od 60 dana od dana nastupanja razloga za prisilni prijenos poslova upravljanja fondom iz članka 92. ovoga Zakona provesti odgovarajući postupak prikupljanja ponuda od društava koja ispunjavaju uvjete za upravljanje fondom i zainteresirani su preuzeti upravljanje fondom te postupak izbora novoga mirovinskog društva.
+(2) Ako se na poziv iz stavka 1. ovoga članka depozitaru javi više mirovinskih društava koja ispunjavaju uvjete za preuzimanje poslova upravljanja fondom, depozitar je dužan prilikom izbora društva isključivo voditi računa o interesima članova fonda.
+(3) Depozitar i društvo preuzimatelj će sklopiti ugovor o prijenosu poslova upravljanja.
+(4) Na ugovor iz stavka 3. ovoga članka na odgovarajući se način primjenjuju odredbe članka 87. stavka 3. ovoga Zakona, s tim da rok u kojem će depozitar i društvo preuzimatelj izvršiti prijenos poslova upravljanja ne smije biti duži od mjesec dana od dana sklapanja ugovora.
+(5) Na prisilni prijenos poslova upravljanja na odgovarajući se način primjenjuju odredbe članka 87. stavka 4. i članaka 88. do 91. ovoga Zakona.
+(6) Ako na javni poziv iz stavka 1. ovoga članka ponudu ne podnese niti jedno mirovinsko društvo koje ispunjava uvjete za upravljanje fondom, depozitar će članove fondova izvijestiti o potrebi izbora fonda kojim upravlja drugo mirovinsko društvo i odrediti rok u kojem mogu pristupiti novom fondu.
+(7) Članove fonda koji u roku iz stavka 6. ovoga članka ne izvrše izbor fonda kojim upravlja drugo mirovinsko društvo, depozitar će po službenoj dužnosti rasporediti u druge otvorene fondove po načelu ravnopravnosti, na način da se svakom mirovinskom društvu dodijeli jednak broj članova te izvršiti likvidaciju fonda.
+(8) Agencija će pravilnikom detaljnije propisati obveze, postupke, uvjete i način prisilnog prijenosa poslova upravljanja fondovima, preraspodjele članova fonda po službenoj dužnosti u druge otvorene fondove te likvidacije samog fonda i njegova brisanja iz registra fondova.

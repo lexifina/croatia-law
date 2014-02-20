@@ -1,0 +1,3 @@
+# Članak 78.
+(1) Mirovinsko društvo je dužno postupati u najboljem interesu članova fonda kojim upravlja te stručno i s posebnom pažnjom prilikom donošenja investicijskih odluka, delegiranja poslova na treće osobe, korištenja vanjskih usluga i drugih poslova koji su od značaja za mirovinsko društvo i mirovinske fondove kojima upravlja.
+(2) Mirovinsko društvo je dužno utvrditi i implementirati interne politike i procedure kako bi osiguralo postupanje u skladu sa stavkom 1. ovoga članka Zakona, a koje su u skladu s odredbama ovoga Zakona i propisima donesenima na temelju ovoga Zakona, statutom fonda, ciljevima fonda, investicijskom strategijom te strategijom i politikom upravljanja rizicima, uključujući i ograničenja rizika.

@@ -1,0 +1,5 @@
+## Donošenje provedbenih propisa
+# Članak 325.
+(1) Agencija će u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona donijeti propise za provedbu ovoga Zakona, kada je za to ovlaštena ovim Zakonom.
+(2) Iznimno od stavka 1. ovoga članka, Agencija će provedbene propise iz članka 67., članka 73. stavaka 4. i 5., članka 75. stavka 3., članka 155. stavka 2., članka 173. stavka 3., članka 191. stavka 3., članka 192. stavka 2., članka 193. stavka 2., članka 247. stavka 2., članka 268. stavka 3. i članka 271. stavka 3. ovoga Zakona, donijeti u roku od jedne godine od dana stupanja na snagu ovoga Zakona.
+(3) Do donošenja propisa na temelju ovoga Zakona na odgovarajući se način primjenjuju propisi doneseni na temelju Zakona o obveznim i dobrovoljnim mirovinskim fondovima (»Narodne novine«, br. 49/99., 63/00., 103/03., 177/04., 140/05., 71/07., 124/10., 114/11. i 51A/13.), ako nisu u suprotnosti s odredbama ovoga Zakona u dijelu koji se odnosi na poslovanje dobrovoljnih mirovinskih društava i dobrovoljnih mirovinskih fondova.

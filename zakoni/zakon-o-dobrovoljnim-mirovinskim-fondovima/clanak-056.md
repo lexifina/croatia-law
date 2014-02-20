@@ -1,0 +1,4 @@
+## Praćenje usklađenosti s relevantnim propisima
+# Članak 56.
+(1) Mirovinsko društvo je dužno uspostaviti, provoditi te redovito ažurirati, procjenjivati i nadzirati primjerene politike i postupke, čija je svrha otkrivanje svakog rizika neusklađenosti s relevantnim propisima, kao i povezanih rizika te uspostaviti primjerene mjere i postupke radi smanjivanja takvih rizika.
+(2) Mirovinsko društvo je dužno uspostaviti, provoditi te redovito ažurirati, procjenjivati i nadzirati politike i postupke kako bi osiguralo da posluje u skladu s ovim Zakonom i propisima donesenima na temelju ovoga Zakona kao i s drugim relevantnim propisima te osigurati da članovi uprave i druge relevantne osobe postupaju u skladu s ovim Zakonom i propisima donesenima na temelju ovoga Zakona te internim aktima mirovinskog društva.

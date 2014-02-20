@@ -1,0 +1,9 @@
+## Provedba pripajanja
+# Članak 225.
+(1) Pet radnih dana prije dana izračuna omjera zamjene zabranjeno je svako daljnje pristupanje članova te uplate i isplate ili zatvaranje osobnih računa u fondu prenositelju i fondu preuzimatelju.
+(2) Zabrana iz stavka 1. ovoga članka traje do dana provođenja statusne promjene, ali ne duže od 15 dana.
+(3) Mirovinska društva koja upravljaju fondom prenositeljem i fondom preuzimateljem moraju, prema stanju na dan izračuna omjera zamjene i prema metodologiji opisanoj u nacrtu pripajanja, na temelju kojega je Agencija izdala suglasnost za pripajanje, odrediti omjer zamjene prema kojem će se provesti zamjena udjela u fondu prenositelju za udjele u fondu preuzimatelju. Pri tome se mora poštovati neto vrijednost imovine fondova koji sudjeluju u postupku pripajanja.
+(4) Mirovinska društva koja upravljaju fondom prenositeljem i fondom preuzimateljem dužna su na dan provedbe statusne promjene provesti nacrtom pripajanja predviđen cjelokupni prijenos imovine i obveza u vezi sa svakim fondom koji sudjeluje u postupku pripajanja.
+(5) Mirovinska društva koja upravljaju fondom prenositeljem i fondom preuzimateljem dužna su na dan provedbe statusne promjene članovima fonda prenositelja zamijeniti udjele u fondu prenositelju za udjele u fondu preuzimatelju, u skladu s omjerom zamjene iz stavka 1. ovoga članka.
+(6) Mirovinska društva koja upravljaju fondom prenositeljem i fondom preuzimateljem ne smiju provesti prijenos imovine i obveza te zamjenu udjela u skladu s odredbama ovoga članka ako revizor prethodno nije izdao pozitivno mišljenje o pripajanju.
+(7) Imovina fonda preuzimatelja u dijelu koji se odnosi na ograničenja ulaganja ne mora biti u potpunosti usklađena s odredbama ovoga Zakona i prospektom fonda preuzimatelja najviše 60 dana od dana provedbe statusne promjene.

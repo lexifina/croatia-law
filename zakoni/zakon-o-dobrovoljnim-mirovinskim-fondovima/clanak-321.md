@@ -1,0 +1,4 @@
+## Članovi uprave mirovinskog društva
+# Članak 321.
+(1) Osoba koja je od Agencije dobila suglasnost za obavljanje funkcije člana uprave mirovinskog društva na temelju odredaba Zakona o obveznim i dobrovoljnim mirovinskim fondovima (»Narodne novine«, br. 49/99., 63/00., 103/03., 177/04., 140/05., 71/07., 124/10., 114/11. i 51A/13.) smatra se da ima suglasnost za obavljanje funkcije člana uprave mirovinskog društva izdanu prema odredbama članka 45. ovoga Zakona, ali najduže na mandat od pet godina od dana imenovanja. U slučaju da je od dana imenovanja člana uprave prošlo više od pet godina, mirovinsko društvo dužno je osigurati da kandidat za člana uprave Agenciji podnese zahtjev za izdavanje suglasnosti za obavljanje funkcije člana uprave u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.
+(2) Osoba iz stavka 1. ovoga članka dužna je u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona ispunjavati uvjete iz članka 43. ovoga Zakona.

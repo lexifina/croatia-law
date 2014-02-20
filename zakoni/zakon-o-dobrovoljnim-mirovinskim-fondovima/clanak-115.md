@@ -1,0 +1,7 @@
+## Ugovor o članstvu
+# Članak 115.
+(1) Odnos mirovinskog društva i člana fonda temelji se na ugovoru o članstvu.
+(2) Ugovor o članstvu smatra se sklopljenim prihvaćanjem prospekta i statuta fonda od strane potencijalnog člana, pod uvjetom da je izvršena prva uplata u fond.
+(3) Ugovor o članstvu obvezno mora sadržavati ime i prezime, osobni identifikacijski broj, datum rođenja i spol člana, naziv mirovinskog društva i fonda, datum sklapanja ugovora i potpis ili suglasnost člana fonda na uvjete iz ugovora.
+(4) Ugovorom o članstvu mirovinsko društvo se obvezuje preračunati uplate na osobne račune člana fonda u udjele, izvršiti upis istoga u registar članova, upravljati fondom za zajednički račun članova i poduzimati sve ostale pravne poslove i radnje potrebne za upravljanje fondom u skladu s odredbama ovoga Zakona, propisa donesenih na temelju ovoga Zakona te prospekta i statuta fonda.
+(5) Ugovorom o članstvu društvo je dužno upoznati člana fonda o svim oblicima naknada koje će se zaračunavati članu fonda i podmirivati iz imovine fonda za vrijeme trajanja njegova članstva u fondu, mogućnostima isplata po ostvarenju prava na mirovinu, uvjetima za ostvarenje prava na mirovinu u slučaju smrti člana fonda (članak 123. stavak 2.), uvjetima za izlazak iz članstva u fondu (članak 118. stavak 3.), kao i mogućim naknadama pri isplati mirovine te načinu i rokovima obavještavanja člana fonda.

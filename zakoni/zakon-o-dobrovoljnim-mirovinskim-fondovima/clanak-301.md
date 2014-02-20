@@ -1,0 +1,9 @@
+## Nadzorne mjere koje Agencija može izreći depozitaru
+# Članak 301.
+(1) Agencija depozitaru, pod uvjetima propisanim ovim Zakonom, može odrediti sljedeće nadzorne mjere:
+1. preporuke upravi depozitara
+2. opomenu
+3. naložiti otklanjanje nezakonitosti i nepravilnosti
+4. ukinuti izdano odobrenje na izbor depozitara u skladu s člankom 265. ovoga Zakona
+5. naložiti promjenu poddepozitara, osobito u slučaju neispunjenja i/ili neurednog ispunjenja obveze te propusta poddepozitara, ili ako postoje okolnosti koje dovode u sumnju sposobnost poddepozitara za uredno, pravodobno i kvalitetno ispunjenje poslova u skladu s preuzetim obvezama i odredbama ovoga Zakona ili propisa donesenih na temelju ovoga Zakona.
+(2) Na nadzorne mjere iz stavka 1. točaka 1. do 3. ovoga članka koje se mogu izreći depozitaru na odgovarajući se način primjenjuju odredbe članaka 291. do 296. ovoga Zakona.

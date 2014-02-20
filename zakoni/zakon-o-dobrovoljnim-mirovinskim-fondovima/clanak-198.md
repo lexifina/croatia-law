@@ -1,0 +1,5 @@
+## Način dostave dokumenata i izvještaja
+# Članak 198.
+(1) Prospekt fonda i ključni podaci za članove fonda dostavljaju se članu fonda u tiskanom obliku, kao i na drugom trajnom mediju ili putem mrežne stranice mirovinskog društva, u skladu s odredbama članka 173. stavaka 1. i 2. ovoga Zakona. Mirovinsko društvo je dužno članu fonda, na njegov zahtjev, besplatno jednom godišnje dostaviti ključne podatke za članove fonda u tiskanom obliku.
+(2) Posljednji revidirani godišnji izvještaji i polugodišnji izvještaji zatvorenog fonda članu fonda se dostavljaju na način predviđen prospektom fonda, a ako prospekt to ne predviđa, onda na način predviđen za dostavu prospekta, opisan u stavku 1. ovoga članka.
+(3) Neovisno o odredbi stavka 2. ovoga članka, mirovinsko društvo je dužno članu zatvorenog fonda, na njegov izričit zahtjev jednom godišnje za prethodnu poslovnu godinu ili prethodno izvještajno razdoblje, besplatno dostaviti posljednje revidirane godišnje izvještaje i polugodišnje izvještaje fonda u tiskanom obliku.

@@ -1,0 +1,13 @@
+## Politike nagrađivanja
+# Članak 62.
+(1) Mirovinsko društvo je dužno, radi sprječavanja preuzimanja neprimjerenih rizika u svom poslovanju, propisati i implementirati jasne politike i procedure nagrađivanja radnika, članova uprave i nadzornog odbora, čiji rad može imati materijalni utjecaj na profil rizičnosti mirovinskog društva ili fonda.
+(2) Politike i procedure nagrađivanja mirovinskog društva moraju dosljedno promicati učinkovito upravljanje rizicima i ne ohrabrivati preuzimanje rizika koji nisu u skladu s profilom rizičnosti ili statutom fonda.
+(3) Politika nagrađivanja mirovinskog društva mora biti u skladu s poslovnom strategijom, ciljevima i veličinom mirovinskog društva i fondova, kao i interesima mirovinskog društva, fondova i njihovih članova te uključivati mjere za izbjegavanje sukoba interesa.
+(4) Uprava mirovinskog društva dužna je usvojiti i najmanje jednom godišnje preispitivati opća načela politika nagrađivanja te je odgovorna za njihovu primjenu.
+(5) Primjena politika i procedura nagrađivanja mora najmanje jednom godišnje, u funkciji nadzora nad poslovanjem mirovinskog društva, biti interno revidirana u smislu usklađenosti s politikama i procedurama nagrađivanja usvojenima od uprave mirovinskog društva.
+(6) Ako je nagrađivanje povezano s uspješnošću, ukupni iznos nagrade mora se temeljiti na uspješnosti pojedinca i relevantne poslovne jedinice, te na ukupnim rezultatima mirovinskog društva ili fondova, pri čemu se kod ocjene uspješnosti pojedinca uzimaju u obzir financijski i nefinancijski kriteriji.
+(7) Mirovinsko društvo smije isplaćivati nagrade radnicima, prokuristima, članovima uprave i nadzornog odbora samo ako su one održive, uzimajući u obzir financijsko stanje mirovinskog društva u cjelini te ako je to opravdano s obzirom na uspješnost fondova i mirovinskog društva, odnosno njegovih radnika. Ukupni primici od nagrada ne smiju ograničavati sposobnost mirovinskog društva da ojača kapitalnu osnovu mirovinskog društva.
+(8) U slučaju slabijih ili negativnih poslovnih rezultata mirovinskog društva i/ili fondova, mirovinsko društvo iste rezultate mora uzeti u obzir prilikom razmatranja isplate nagrade članovima uprave, nadzornog odbora, prokuristima i radnicima.
+(9) U godišnjim financijskim izvještajima mirovinskog društva potrebno je objaviti:
+1. ukupan iznos bonusa i nagrada, odijeljenih na fiksne i varijabilne iznose, koji su od strane mirovinskog društva isplaćeni radnicima mirovinskog društva, kao i broj korisnika takvih bonusa i nagrada
+2. ukupan iznos bonusa i nagrada, odijeljenih na iznose koje su primili članovi uprave, nadzornog odbora, prokurist ili pak radnici mirovinskog društva čiji rad može imati materijalni utjecaj na profil rizičnosti mirovinskog društva ili fonda.

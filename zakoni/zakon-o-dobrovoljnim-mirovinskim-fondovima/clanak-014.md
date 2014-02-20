@@ -1,0 +1,3 @@
+# Članak 14.
+(1) Osim mirovinskog društva iz druge države članice, upravljanje zatvorenim fondom kojega su jedan ili više pokrovitelja iz Republike Hrvatske može obavljati i upravitelj osnovan u drugoj državi članici koji ima dozvolu za obavljanje te aktivnosti, u skladu s propisima države članice koji uređuju osnivanje i poslovanje društava za upravljanje otvorenim investicijskim fondovima s javnom ponudom, investicijskih društava, kreditnih institucija i društava za životno osiguranje.
+(2) Odredbe ovoga Zakona koje se odnose na mirovinsko društvo iz druge države članice također se primjenjuju na upravitelja iz stavka 1. ovoga članka.

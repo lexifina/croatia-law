@@ -1,0 +1,5 @@
+## Pozajmljivanje
+# Članak 159.
+(1) Otvoreni fond može pozajmiti novčana sredstva od trećih osoba u ukupnom iznosu do 5% neto vrijednosti imovine fonda, ali samo putem repo poslova i transakcija prodaje i ponovne kupnje, i to ne na rok duži od tri mjeseca.
+(2) Najviše 5% neto vrijednosti imovine otvorenog fonda, a najviše do 50% svakog pojedinog ulaganja dopušteno je pozajmiti trećim osobama. Imovina otvorenog fonda može se pozajmljivati isključivo temeljem pisanog ugovora ili u sklopu organiziranih sustava za pozajmljivanje vrijednosnih papira koji djeluju u sklopu sustava za poravnanje i namiru. Pozajmljivanje je dopušteno samo na isključivu korist otvorenog fonda radi povećanja prinosa fonda, bez neprimjerenog povećanja rizika. U tom smislu, pozajmljeni vrijednosni papiri moraju biti primjereno osigurani kolateralom. Ugovori o zajmu moraju sadržavati odredbu kojom se omogućava povlačenje pozajmljenih vrijednosnih papira na poziv u roku od 15 radnih dana.
+(3) Zatvoreni fond može pozajmiti novčana sredstva od trećih osoba u ukupnom iznosu do 5% neto vrijednosti imovine fonda, ali samo u svrhu osiguravanja likvidnosti, i to na rok ne duži od tri mjeseca.
