@@ -1,0 +1,10 @@
+## Statusne promjene mirovinskog društva
+# Članak 28.
+(1) Ako je mirovinsko društvo uključeno u pripajanje, spajanje, podjelu ili preoblikovanje društva, mora za tu statusnu promjenu prije upisa u sudski registar dobiti odobrenje Agencije. Prilikom odlučivanja o davanju odobrenja Agencija će posebice voditi računa o tome dolazi li zbog statusne promjene do prestanka postojanja mirovinskog društva, te tko će i na koji način preuzeti obavljanje djelatnosti mirovinskog društva predviđene člankom 7. ovoga Zakona, odnosno tko će i na koji način preuzeti upravljanje mirovinskim fondovima i/ili dobrovoljnim mirovinskim fondovima kojima upravlja mirovinsko društvo koje prestaje postojati.
+(2) Za odlučivanje o izdavanju odobrenja za statusne promjene društva iz stavka 1. ovoga članka na odgovarajući način se primjenjuju odredbe ovoga Zakona za izdavanje odobrenja za rad mirovinskom društvu.
+(3) Ako se mirovinsko društvo spaja s drugim mirovinskim ili trgovačkim društvom, novo društvo mora prije upisa statusne promjene u sudski registar od Agencije dobiti odobrenje za rad.
+(4) Ako mirovinsko društvo pripoji drugo mirovinsko ili trgovačko društvo, ono nastavlja poslovati kao mirovinsko društvo. Međutim, ako se mirovinsko društvo kao pripojeno društvo pripaja od strane nekog trgovačkog društva koje nije mirovinsko društvo, to društvo (društvo preuzimatelj) mora prije upisa pripajanja osim odobrenja Agencije za pripajanje dobiti i odobrenje Agencije za rad, kako bi moglo nastaviti poslovati kao mirovinsko društvo i upravljati fondovima kojima je upravljalo pripojeno mirovinsko društvo.
+(5) Ako mirovinsko društvo prestaje postojati zbog razdvajanja, prestaje važiti i njegovo odobrenje za rad te najmanje jedno od društava na koje se dijeli imovina mora prije upisa podjele u sudski registar ishoditi od Agencije odobrenje za rad.
+(6) Statusne promjene moraju biti u skladu i s propisima koji reguliraju zaštitu tržišnog natjecanja.
+(7) Agencija će pravilnikom detaljnije propisati uvjete koje je potrebno ispuniti u svrhu davanja odobrenja na statusne promjene iz ovoga članka.
+Glava 2.

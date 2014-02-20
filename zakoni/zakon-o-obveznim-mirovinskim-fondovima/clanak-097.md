@@ -1,0 +1,6 @@
+# Članak 97.
+(1) Ako član mirovinskog fonda sam želi izabrati ili promijeniti mirovinski fond mora to obaviti prijavom Središnjem registru osiguranika, na temelju koje postaje član novoizabranog mirovinskog fonda.
+(2) Prijava iz stavka 1. ovoga članka obvezno mora sadržavati ime i prezime, osobni identifikacijski broj, datum rođenja, spol i adresu osiguranika, ime mirovinskog društva i kategoriju mirovinskog fonda koji osiguranik bira, datum podnošenja prijave i vlastoručni potpis osiguranika. Središnji registar osiguranika dužan je sve podatke iz prijave učiniti dostupnim mirovinskom društvu koje upravlja izabranim mirovinskim fondom kako bi ono moglo unijeti podatke iz prijave, odnosno izmjene podataka u slučaju promjene mirovinskog fonda u svoju evidenciju o članovima mirovinskog fonda.
+(3) Središnji registar osiguranika koristi jedan oblik prijave za sve slučajeve pristupanja članova mirovinskom fondu te poseban oblik prijave za promjenu mirovinskog fonda s obzirom na kategoriju.
+(4) Agencija će pravilnikom propisati sadržaj obrazaca prijave iz stavka 3. ovoga članka.
+(5) Članstvo u mirovinskom fondu ne može se uskratiti, osim ako osoba koja podnosi zahtjev za članstvo ne ispunjava uvjete utvrđene ovim Zakonom.

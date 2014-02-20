@@ -1,0 +1,4 @@
+# Članak 68.
+(1) Mirovinsko društvo dužno je u roku od dva mjeseca od upućivanja obavijesti iz članka 67. stavka 2. ovoga Zakona provesti postupak prijenosa poslova upravljanja mirovinskim fondovima na drugo mirovinsko društvo, u skladu s odredbama članaka 69. do 71. ovoga Zakona.
+(2) Ako mirovinsko društvo ne pronađe drugo mirovinsko društvo i na njega ne prenese upravljanje mirovinskim fondovima u skladu s odredbama stavka 1. ovoga članka, dužno je o navedenom odmah izvijestiti Agenciju. U tom slučaju nastupaju uvjeti za prisilni prijenos, te se na odgovarajući način primjenjuju odredbe članaka 75. do 77. ovoga Zakona.
+(3) Nakon provedbe postupka prijenosa upravljanja mirovinskim fondovima na drugo društvo za upravljanje ili završetka prisilnog prijenosa Agencija će ukinuti izdano odobrenje za rad, na zahtjev mirovinskog društva.

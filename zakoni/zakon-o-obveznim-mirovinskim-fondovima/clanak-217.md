@@ -1,0 +1,3 @@
+## Izvješće ovlaštenog revizora o otklanjanju nezakonitosti i nepravilnosti
+# Članak 217.
+Ako pri obavljanju nadzora Agencija utvrdi nezakonitosti i nepravilnosti koje se odnose na vođenje poslovnih knjiga i druge poslovne dokumentacije koju je mirovinsko društvo dužno voditi prema odredbama ovoga Zakona, na temelju njega donesenih propisa ili drugih zakona kojima se uređuje poslovanje mirovinskog društva i propisa donesenih na temelju istih, odnosno ako utvrdi druge značajnije nezakonitosti, može naložiti mirovinskom društvu da podnese izvješće o otklanjanju nezakonitosti i nepravilnosti, kojemu je dužno priložiti mišljenje revizora iz kojeg je vidljivo jesu li nezakonitosti i nepravilnosti otklonjene.

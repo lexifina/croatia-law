@@ -1,0 +1,8 @@
+## Obveze depozitara
+# Članak 75.
+(1) Od trenutka nastupanja razloga za prisilni prijenos poslova upravljanja mirovinskim fondovima do nastupanja pravnih posljedica prijenosa poslova upravljanja na drugo mirovinsko društvo (društvo preuzimatelj), depozitar je dužan obavljati one poslove upravljanja mirovinskim fondovima koje u svrhu zaštite interesa članova mirovinskih fondova nije moguće odgađati.
+(2) Poslovi upravljanja mirovinskim fondovima, iz stavka 1. ovoga članka, koji se ne mogu odgađati, smatraju se, primjerice:
+a) administrativni poslovi iz članka 7. stavka 3. točaka 3., 5., 6., 7. i 8. ovoga Zakona
+b) ostali poslovi zbog kojih bi, da ih depozitar ne obavi, za mirovinske fondove nastala šteta.
+(3) Od nastupanja razloga za prisilni prijenos poslova upravljanja mirovinskim fondovima Agencija može u iznimnim slučajevima, radi zaštite imovine članova mirovinskih fondova, izdati nalog Središnjem registru osiguranika za obustavu uplata doprinosa članova mirovinskih fondova u mirovinske fondove, obustavu prijelaza članova mirovinskih fondova u druge mirovinske fondove i obustavu zatvaranja osobnih računa.
+(4) Od nastupanja razloga za prisilni prijenos poslova upravljanja mirovinskim fondovima do nastupanja pravnih posljedica prijenosa poslova upravljanja na društvo preuzimatelja, depozitar, osim naknade propisane člankom 191. ovoga Zakona, za obavljanje poslova iz stavka 2. ovoga članka ima pravo i na dodatnu naknadu, sukladno ugovoru sklopljenom s društvom preuzimateljem iz članka 76. stavka 5. ovoga Zakona. Naknada od uplaćenih doprinosa u navedenom razdoblju prihod je društva preuzimatelja.

@@ -1,0 +1,2 @@
+# Članak 188.
+U slučaju raskida ili otkaza ugovora o obavljanju poslova depozitara, depozitar je dužan, u roku od 30 dana, svu imovinu mirovinskog fonda prenijeti na pohranu i administriranje novom depozitaru s kojim mirovinsko društvo zaključi ugovor o obavljanju poslova depozitara, pri čemu mora predati i knjige računa, evidenciju i sve druge dokumente i materijale bitne za poslovanje mirovinskog fonda za koji je do tada obavljao poslove depozitara, i to u pisanom ili elektroničkom obliku, ovisno o načinu vođenja naznačenih podataka.

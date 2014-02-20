@@ -1,0 +1,7 @@
+## Revizija izvještaja mirovinskog fonda
+# Članak 146.
+(1) Godišnje izvještaje mirovinskog fonda mora revidirati revizor na način i pod uvjetima određenima propisima kojima se uređuje računovodstvo i revizija te pravilima revizorske struke ako ovim Zakonom i propisima donesenim na temelju ovoga Zakona nije drugačije određeno.
+(2) Agencija može detaljnije pravilnikom propisati opseg i sadržaj revizije, odnosno revizijskih postupaka i revizorskog izvješća o obavljenoj reviziji godišnjih izvještaja mirovinskog fonda.
+(3) Agencija od revizora može tražiti dodatna pojašnjenja u vezi s revidiranim godišnjim izvještajima.
+(4) Isto revizorsko društvo može revidirati najviše sedam uzastopnih godišnjih izvještaja istog mirovinskog fonda.
+(5) Ako Agencija utvrdi da revizija godišnjih izvještaja mirovinskog fonda nije obavljena ili revizorsko izvješće nije sastavljeno u skladu s ovim Zakonom, propisima donesenima na temelju ovoga Zakona, propisima kojima se uređuje računovodstvo i revizija, te pravilima revizorske struke, ili ako obavljenim nadzorom poslovanja mirovinskog fonda ili na drugi način utvrdi da revizija i revizorsko izvješće o godišnjim izvještajima mirovinskog fonda nije zasnovano na istinitim i objektivnim činjenicama, može odbiti revizorsko izvješće i zahtijevati od mirovinskog društva da reviziju obave ovlašteni revizori drugog revizorskog društva, a na trošak mirovinskog društva.

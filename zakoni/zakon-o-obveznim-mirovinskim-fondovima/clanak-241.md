@@ -1,0 +1,4 @@
+## Članovi uprave mirovinskog društva
+# Članak 241.
+(1) Osoba koja je od Agencije dobila odobrenje za obavljanje funkcije člana uprave mirovinskog društva na temelju odredbi Zakona o obveznim i dobrovoljnim mirovinskim fondovima, smatra se da ima odobrenje za obavljanje funkcije člana uprave mirovinskog društva izdano prema odredbama članka 34. ovoga Zakona, ali najduže na mandat od pet godina od dana imenovanja. U slučaju da je od dana imenovanja člana uprave prošlo više od pet godina, mirovinsko društvo dužno je osigurati da kandidat za člana uprave Agenciji podnese zahtjev za izdavanje odobrenja za obavljanje funkcije člana uprave u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.
+(2) Osoba iz stavka 1. ovoga članka dužna je u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona ispunjavati uvjete iz članka 31. stavka 1. točke 8. i članka 32. ovoga Zakona.

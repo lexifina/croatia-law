@@ -1,0 +1,3 @@
+# Članak 83.
+(2) Ako je uredno dostavljena sva dokumentacija i informacije u skladu s člankom 82. ovoga Zakona, te je pribavljeno odobrenje Agencije u smislu članka 82. stavka 3. ovoga Zakona, kada je ono bilo potrebno, Agencija će izdati odobrenje za osnivanje i upravljanje mirovinskim fondovima u roku od 15 dana od primitka urednog zahtjeva, odnosno primitka posljednjeg dokumenta i informacija pribavljenih u skladu s člankom 82. ovoga Zakona, ako joj nije poznat niti jedan razlog naveden u članku 14. ovoga Zakona zbog kojega bi trebalo odbiti izdavanje navedenog odobrenja.
+(3) Obavijest o odluci iz stavka 1. ovoga članka Agencija će dostaviti Središnjem registru osiguranika.

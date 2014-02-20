@@ -1,0 +1,9 @@
+# Članak 21.
+(1) Prilikom podnošenja zahtjeva za izdavanje odobrenja za namjeravane transakcije dionicama ili poslovnim udjelima u mirovinskom društvu iz članka 20. ovoga Zakona, mirovinsko društvo dužno je Agenciji dostaviti podatke o osobama koje namjeravaju postati članovi mirovinskog društva (namjeravani stjecatelj), visinu njihovih udjela u temeljnom kapitalu mirovinskog društva, kao i dodatnu dokumentaciju propisanu pravilnikom iz članka 31. stavka 8. ovoga Zakona.
+(2) Agencija će na temelju dokumentacije i informacija iz stavaka 1. i 3. ovoga članka procijeniti primjerenost, prikladnost i financijsku stabilnost namjeravanog stjecatelja, a u cilju provjere hoće li se poslovi mirovinskog društva u kojem se namjeravaju izvršiti transakcije dionicama ili poslovnim udjelima voditi s pažnjom dobrog stručnjaka, uzimajući u obzir mogući utjecaj namjeravanog stjecatelja dionica ili poslovnog udjela na mirovinsko društvo. Prilikom procjene Agencija će uzeti u obzir sljedeće kriterije:
+1. ugled članova mirovinskog društva i namjeravanog stjecatelja
+2. profesionalni ugled i iskustvo osoba koje će kao posljedicu namjeravanog stjecanja voditi poslovanje mirovinskog društva
+3. financijsku stabilnost članova mirovinskog društva i namjeravanog stjecatelja
+4. hoće li mirovinsko društvo biti u mogućnosti udovoljiti i nastaviti udovoljavati zahtjevima iz ovoga Zakona, kao i drugih zakona kada je to primjenjivo na pojedinačnoj i konsolidiranoj osnovi, a posebno ima li mirovinsko društvo strukturu koja omogućava učinkovito provođenje nadzora
+5. postoje li osnove sumnje da su namjeravani stjecatelji počinili ili pokušali počiniti kazneno djelo pranja novca ili financiranja terorizma.
+(3) Agencija može surađivati s nadležnim tijelima državne vlasti i prikupljati dokumente i informacije iz drugih izvora kada vrši procjene iz stavka 2. ovoga članka.
