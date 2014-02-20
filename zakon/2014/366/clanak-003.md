@@ -1,0 +1,12 @@
+# Članak 3.
+U članku 4. točke 1. i 2. mijenjaju se i glase:
+»1. Manjak/višak općeg proračuna je razlika između ukupnih prihoda i ukupnih rashoda općeg proračuna iskazanih prema metodologiji europskog sustava nacionalnih računa (ESA).
+2. Izjava o fiskalnoj odgovornosti je godišnja izjava kojom čelnik proračunskog i izvanproračunskog korisnika državnog proračuna i proračuna jedinica lokalne i područne (regionalne) samouprave i čelnik jedinice lokalne i područne (regionalne) samouprave te predsjednik uprave trgovačkog društva u vlasništvu Republike Hrvatske, odnosno jedne ili više jedinica lokalne i područne (regionalne) samouprave, čelnik druge pravne osobe kojoj je osnivač Republika Hrvatska, odnosno jedna ili više jedinica lokalne i područne (regionalne) samouprave (u daljnjem tekstu: čelnik) potvrđuje da je u radu osigurao zakonito, namjensko i svrhovito korištenje sredstava te učinkovito i djelotvorno funkcioniranje sustava financijskog upravljanja i kontrola.«.
+Točka 4. briše se.
+Iza dosadašnje točke 5. koja postaje točka 4. dodaje se nova točka 5. i točke 6., 7., 8., 9. i 10. koje glase:
+»5. Europski semestar je mehanizam za koordinaciju i nadzor ekonomskih politika država članica Europske unije u skladu s ciljevima fiskalne stabilnosti i rasta.
+6. Strukturni saldo je manjak, odnosno višak općeg proračuna koji ne uključuje cikličke ekonomske učinke i jednokratne te privremene mjere koje imaju utjecaj na prihode odnosno rashode općeg proračuna. Strukturni saldo izračunava se sukladno odredbama Pakta o stabilnosti i rastu, a prema metodologiji europskog sustava nacionalnih računa (ESA) i pravilima Europske unije.
+7. Ciklički ekonomski učinci dio su promjene prihoda, odnosno rashoda općeg proračuna koji proizlaze izravno iz prevladavajućih cikličkih gospodarskih uvjeta.
+8. Porezni rashod predstavlja gubitak poreznog prihoda zbog priznavanja odbitaka, izuzeća i slično od porezne osnovice, odbitka od porezne obveze i povlaštenih poreznih stopa.
+9. Katastrofa je događaj definiran propisima iz područja zaštite i spašavanja, a u isto vrijeme ima značajan utjecaj na financijsko stanje općeg proračuna.
+10. Veći gospodarski poremećaj odnosi se na međugodišnji realni pad bruto domaćeg proizvoda ili kumulativni gubitak outputa u dužem razdoblju koje karakteriziraju međugodišnje realne stope gospodarskog rasta znatno niže od potencijalnih, a sukladno odredbama Pakta o stabilnosti i rastu.«.
