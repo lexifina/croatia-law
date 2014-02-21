@@ -1,0 +1,16 @@
+## Tehnološki proces skladištenja otpada
+# Članak 9.
+(1) Tehnološki proces skladištenja otpada mora se obavljati na način da se otpad skladišti odvojeno po svojstvu, vrsti i agregatnom stanju.
+(2) Skladište u kojem se obavlja tehnološki proces skladištenja opasnog otpada mora biti pod neprekidnim nadzorom.
+(3) Skladište u kojem se obavlja tehnološki proces skladištenja otpada mora biti opremljeno primarnim spremnicima za skladištenje otpada koji moraju biti:
+1. izrađeni od materijala otpornog na djelovanje uskladištenog otpada,
+2. izrađeni na način koji omogućava sigurno punjenje, pražnjenje, odzračivanje, uzimanje uzoraka te po potrebi osigurati nepropusno zatvaranje,
+3. označeni čitljivom oznakom koja sadrži podatke o nazivu posjednika otpada, ključni broj i naziv otpada, datum početka skladištenja otpada, naziv proizvođača otpada, te u slučaju opasnog otpada, oznaku odgovarajućeg opasnog svojstva otpada.
+(4) Podna površina skladišta mora biti lako periva i otporna na djelovanje otpada koji se skladišti.
+(5) Skladište mora biti opremljeno prirodnom ventilacijom.
+(6) Tehnološki proces skladištenja tekućeg otpada i otpada koji sadrži tekućine mora se obavljati na način da se u slučaju izlijevanja ili rasipanja tekućeg otpada spriječi da otpad dospije u okoliš ili sustav javne odvodnje otpadnih voda.
+(7) Skladište u kojem se obavlja tehnološki proces skladištenja tekućeg otpada i otpada koji sadrži tekućine mora biti opremljeno sekundarnim spremnikom kapaciteta od najmanje 110 posto kapaciteta najvećeg primarnog spremnika koji se nalazi na slijevnoj površini tog sekundarnog spremnika, odnosno 25 posto kapaciteta svih primarnih spremnika na istoj slijevnoj površini, a odvodi tekućine sa slijevne površine skladišta, ukoliko postoje, moraju biti povezani s nepropusnim kolektorom do spremnika za obradu otpadne vode.
+(8) Tekući otpad nepodudarnih kemijskih svojstava (npr. otpadne lužine i kiseline, oksidansi, zapaljive kemikalije i dr.) ne smije se skladištiti jedan pokraj drugoga ili jedan iznad drugoga već se isti mora skladištiti u odvojenim prostorijama ili u istoj prostoriji ali u prostorima razdvojenim barijerom koja u slučaju istovremenog izlijevanja ili rasipanja sprečava kemijske reakcije.
+(9) Tehnološki proces skladištenja otpada koji ima svojstvo H1, H2, H3-A, H3-B i/ili H12 mora se obavljati u zatvorenom skladištu i odvojeno od drugog otpada.
+(10) Ako tehnološki proces skladištenja otpada uključuje skladištenje plinovitog otpada, skladište u kojem se obavlja takav tehnološki proces mora biti opremljeno primarnim spremnicima koji se mogu hermetički zatvoriti i koji udovoljavaju posebnim propisima kojima se uređuje oprema pod tlakom.
+(11) Iznimno od stavka 3. ovoga članka, ako tehnološki proces skladištenja otpada uključuje samo skladištenje krutog otpada, skladište u kojem se obavlja takav tehnološki proces ne mora biti opremljeno primarnim spremnicima već se takav otpad može skladištiti u rasutom stanju, ako se elaboratom iznesu i obrazlože razlozi koji opravdavaju obavljanje takvog tehnološkog procesa skladištenja bez upotrebe spremnika, odnosno ako je to propisano posebnim propisom kojim se uređuje gospodarenje posebnom kategorijom otpada.

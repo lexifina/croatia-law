@@ -1,0 +1,5 @@
+## Uvjeti za obavljanje postupka gospodarenja otpadom
+# Članak 4.
+(1) Uvjeti za obavljanje postupka gospodarenja otpadom su opći i posebni uvjeti, te uvjeti za obavljanje pojedinih tehnoloških procesa, propisani ovim Pravilnikom te drugim propisima kojima se uređuje gospodarenje posebnim kategorijama otpada.
+(2) Opći uvjeti za obavljanje postupka gospodarenja otpadom (u daljnjem tekstu: opći uvjeti) su uvjeti koji se moraju ispuniti neovisno od toga za koju je djelatnost, postupak, odnosno tehnološki proces zatraženo izdavanje dozvole za gospodarenje otpadom, osim ako je što drugo propisano ovim Pravilnikom i posebnim propisima kojima se uređuje gospodarenje posebnim kategorijama otpada.
+(3) Posebni uvjeti za obavljanje postupka gospodarenja otpadom (u daljnjem tekstu: posebni uvjeti), odnosno uvjeti za obavljanje pojedinih tehnoloških procesa su uvjeti koji se moraju ispuniti ovisno od toga za koju je određenu djelatnost, postupak odnosno tehnološki proces zatraženo izdavanje dozvole za gospodarenje otpadom.
