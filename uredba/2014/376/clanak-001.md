@@ -1,0 +1,2 @@
+# Članak 1.
+U Uredbi o uspostavi sustava jamstva podrijetla električne energije (»Narodne novine«, broj 84/2013), u članku 1. stavku 3. riječi: »temeljem mjernih podataka s obračunskog mjernog mjesta u obračunskom mjernom razdoblju za proizvodno postrojenje, odnosno s kontrolnog mjernog mjesta za proizvodnu jedinicu« zamjenjuju se riječima: »prema metodologiji utvrđivanja podrijetla električne energije i načinu izvještavanja krajnjih kupaca, koju donosi Agencija, sukladno zakonu kojim se uređuje energetski sektor.«.
