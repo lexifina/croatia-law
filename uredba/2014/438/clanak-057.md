@@ -1,0 +1,2 @@
+# Članak 57.
+Okvirni broj potrebnih državnih službenika i namještenika u Ministarstvu financija prikazan u tablici koja je sastavni dio Uredbe o izmjenama i dopunama uredbe o unutarnjem ustrojstvu Ministarstva financija (»Narodne novine«, broj 102/2013), zamjenjuje se Okvirnim brojem potrebnih državnih službenika i namještenika u Ministarstvu financija koji je sadržan u tablici tiskanoj u prilogu ove Uredbe i čini sastavni dio Uredbe o unutarnjem ustrojstvu Ministarstva financija.

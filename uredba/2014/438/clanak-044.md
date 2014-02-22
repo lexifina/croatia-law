@@ -1,0 +1,4 @@
+# Članak 44.
+U članku 53. točki 4.1. iza točke 4.1.1. dodaje se točka 4.1.2. koja glasi:
+»4.1.2. Odjel za opće, tehničke i pomoćne poslove
+Odjel za tehničke i pomoćne poslove obavlja poslove u svezi sa zaštitom na radu i protupožarnom zaštitom; obavlja tehničke poslove koji se odnose na upravljanja voznim parkom; poslove održavanja motornih vozila (servis, registracija, čistoća); vodi evidencije putnih voznih listova; obavlja dostave pošiljki; prijevoz državnih službenika; poslove održavanja zgrada u kojima rade djelatnici Središnjeg ureda; sastavlja predračune troškova za tekuće i investicijsko održavanje zgrade; poslove telefonske centrale (primanje i spajanje telefonskih poziva); poslove pripreme i posluživanja napitaka u čajnoj kuhinji i evidencije o dnevnom utršku te održavanja čistoće službenih prostorija.«.
