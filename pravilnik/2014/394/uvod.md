@@ -1,0 +1,1 @@
+Na temelju članka članka 18. stavka 2. i članka 25. stavka 3. Zakona o leasingu (»Narodne novine« br. 141/2013 dalje: Zakon), Hrvatska agencija za nadzor financijskih usluga (dalje: Agencija) na sjednici Upravnog vijeća održanoj 7. veljače 2014. godine donosi
