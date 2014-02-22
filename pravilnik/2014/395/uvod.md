@@ -1,0 +1,1 @@
+Na temelju odredbi članka 45. stavak 2. i članka 46. stavak 3. Zakona o obveznim osiguranjima u prometu (»Narodne novine« broj 151/05, 36/09, 75/09 i 76/13; u daljnjem tekstu: ZOOP) Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća održanoj 7. veljače 2014. donosi
