@@ -1,0 +1,2 @@
+# Članak 20.
+Služba za upravne poslove obavlja normativne, upravne i stručne poslove u vezi sa zaštitom na radu, izrađuje normativne prijedloge iz područja zaštite na radu, usklađuje postojeće zakonodavstvo s europskim i međunarodnim izvorima prava, rješava u upravnim predmetima iz područja zaštite na radu, poduzima pravne postupke u vezi s upravnim sporovima iz područja zaštite na radu, osigurava jedinstvenu provedbu zakona i drugih propisa iz područja zaštite na radu, te obavlja i druge poslove u okviru svojega djelokruga.

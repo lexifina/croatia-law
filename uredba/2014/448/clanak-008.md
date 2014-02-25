@@ -1,0 +1,4 @@
+# Članak 8.
+Pododsjek za poslove pisarnice i pismohrane obavlja stručne i administrativne poslove vezane za primitak pismena i drugih pošiljki, otvaranje i pregled pošiljki, razvrstavanje i raspoređivanje pismena, upisivanje pismena u propisane evidencije uredskog poslovanja, otpremanje akata, razvođenje spisa predmeta, odlaganje, sređivanje, zaštitu i čuvanje arhivske i registraturne građe, odabir i izlučivanje građe, sudjeluje u pripremi općih i pojedinačnih akata iz svojega djelokruga, predlaže mjere za ujednačavanje i standardiziranje procesa rada iz svojega djelokruga, te obavlja i druge poslove u okviru svojega djelokruga.
+Za obavljanje poslova pisarnice i pismohrane određuju se samostalni izvršitelji u Inspektoratu rada i to u Središnjoj službi i područnim uredima te ispostavama područnih ureda.
+2.1.2.2. Pododsjek za opće poslove i upravljanje imovinom
