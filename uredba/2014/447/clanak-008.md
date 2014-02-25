@@ -1,0 +1,8 @@
+# Članak 8.
+(1) U Izvješću doktora medicine iz članka 6. stavka 1. ove Uredbe dijagnoze se razvrstavaju u tri skupine:
+a) glavna bolest;
+b) druge bolesti koje utječu na smanjenje radne sposobnosti, djelomični gubitak radne sposobnosti ili potpuni gubitak radne sposobnosti;
+c) sporedne bolesti koje ne utječu na smanjenje radne sposobnosti, djelomični gubitak radne sposobnosti ili potpuni gubitak radne sposobnosti.
+(2) Glavna bolest je ona bolest koja sama ili pretežito uzrokuje trajno smanjenje radne sposobnosti uz preostalu radnu sposobnost, djelomični gubitak radne sposobnosti ili potpuni gubitak radne sposobnosti osiguranika za sve poslove koji odgovaraju njegovim tjelesnim i psihičkim sposobnostima, a smatraju se odgovarajućim njegovim dosadašnjim poslovima. Njezin je utjecaj na radnu sposobnost osiguranika odlučujući.
+(3) Druge bolesti koje utječu na smanjenje radne sposobnosti uz preostalu radnu sposobnost, djelomični gubitak radne sposobnosti ili potpuni gubitak radne sposobnosti osiguranika za sve poslove koji odgovaraju njegovim tjelesnim i psihičkim sposobnostima, a smatraju se odgovarajućim dosadašnjim poslovima, jesu one koje pojedinačno ili u skupini utječu nepovoljno na radnu sposobnost ili pojačavaju nepovoljno djelovanje glavne bolesti na radnu sposobnost. U slučaju da postoje dvije ili više bolesti koje jednako negativno djeluju na radnu sposobnost, glavna je ona koja ima očekivanu lošiju prognozu.
+(4) Sporedne bolesti ne utječu na smanjenje radne sposobnosti uz preostalu radnu sposobnost, djelomični ili potpuni gubitak radne sposobnosti osiguranika za sve poslove koji odgovaraju njegovim tjelesnim i psihičkim sposobnostima, a smatraju se odgovarajućim dosadašnjim poslovima.

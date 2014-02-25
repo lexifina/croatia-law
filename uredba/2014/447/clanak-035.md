@@ -1,0 +1,4 @@
+## VII. ŽALBENI POSTUPAK U CENTRU ZA MEDICINSKO VJEŠTAČENJE
+# Članak 35.
+(1) Kada osiguranik, odnosno osigurana osoba podnese žalbu protiv rješenja nadležne ustrojstvene jedinice Zavoda kojom se pobija nalaz i mišljenje vještaka o postojanju, odnosno nepostojanju smanjenja radne sposobnosti uz preostalu radnu sposobnost, djelomičnom gubitku radne sposobnosti ili potpunom gubitku radne sposobnosti, neposrednoj opasnosti od nastanka smanjenja radne sposobnosti, tjelesnom oštećenju, i potpunom gubitku radne sposobnosti člana obitelji, nadležna ustrojstvena jedinica Zavoda dostavlja žalbu zajedno s predmetom središnjoj ustrojstvenoj jedinici Zavoda.
+(2) Središnja ustrojstvena jedinica Zavoda dostavlja žalbu iz stavka 1. ovoga članka s predmetom, višem vještaku u Centru radi donošenja nalaza i mišljenja.

@@ -1,0 +1,6 @@
+# Članak 2.
+(1) Kada je za rješavanje o pravu iz mirovinskog osiguranja potrebno za osiguranika utvrditi smanjenje radne sposobnosti uz preostalu radnu sposobnost, djelomični gubitak radne sposobnosti ili potpuni gubitak radne sposobnosti i tjelesno oštećenje, a za člana obitelji potpuni gubitak radne sposobnosti, nadležna ustrojstvena jedinica Zavoda koja rješava o pravu utvrđuje te činjenice na osnovi nalaza i mišljenja ovlaštenih vještaka.
+(2) Ovlašteni vještaci iz stavka 1. ovoga članka donose nalaz i mišljenje i o neposrednoj opasnosti od nastanka smanjenja radne sposobnosti.
+(3) Nalaz i mišljenje o činjenicama iz stavaka 1. i 2. ovoga članka daju u prvom stupnju ovlašteni vještaci (u daljnjem tekstu: vještaci) u Centru za medicinsko vještačenje Zavoda (u daljnjem tekstu: Centar), a nalaz i mišljenje u drugom stupnju daju ovlašteni viši vještaci Centra (u daljnjem tekstu: viši vještaci).
+(4) Vještačenje u postupku kontrole i nadzora iz članka 126. stavka 3. Zakona obavljaju vještaci - revizori i vijeće vještaka - revizora u ministarstvu nadležnom za mirovinski sustav i vještaci i viši vještaci Centra.
+(5) Vještaci i viši vještaci, vještaci - revizori i vijeće vještaka - revizora u ministarstvu nadležnom za mirovinski sustav moraju se u svojem radu držati Zakona, ove Uredbe i drugih propisa, te načela i dostignuća suvremene medicinske znanosti.

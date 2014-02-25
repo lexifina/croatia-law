@@ -1,0 +1,3 @@
+# Članak 14.
+(1) Viši vještak, u pravilu, daje nalaz i mišljenje postoji li kod osiguranika smanjenje radne sposobnosti osiguranika, odnosno je li nastalo smanjenje radne sposobnosti uz preostalu radnu sposobnost, djelomični gubitak radne sposobnosti ili potpuni gubitak radne sposobnosti, neposredna opasnost od nastanka smanjenja radne sposobnosti i tjelesno oštećenje, kao i potpuni gubitak radne sposobnosti člana obitelji osiguranika, na temelju odgovarajuće medicinske i druge dokumentacije.
+(2) Iznimno od odredbe stavka 1. ovoga članka, viši vještak, kada smatra da je to potrebno, može dati nalaz i mišljenje o činjenicama iz stavka 1. ovoga članka i na temelju neposrednog pregleda osigurane osobe.
