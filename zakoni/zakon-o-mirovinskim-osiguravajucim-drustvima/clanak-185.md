@@ -1,0 +1,3 @@
+## Objava sažetka odluke o početku postupka prisilne likvidacije u Službenom listu Europske unije i Europskoga gospodarskog prostora
+# Članak 185.
+Rješenje o ukidanju rješenja o odobrenju za rad Društvu sa sjedištem u Republici Hrvatskoj koje ima podružnicu u drugoj državi članici Agencija je dužna objaviti u »Narodnim novinama«, a sažetak rješenja dužna je objaviti u Službenom listu Europske unije i Europskog gospodarskog prostora. Na isti način dužno je postupiti nadležno tijelo države članice u slučaju prestanka važenja odobrenja za rad mirovinskog osiguravajućeg društva koje ima sjedište u toj državi članici, a podružnicu u Republici Hrvatskoj.

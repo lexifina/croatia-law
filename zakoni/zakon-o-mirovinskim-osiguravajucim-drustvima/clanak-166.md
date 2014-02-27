@@ -1,0 +1,3 @@
+## Postupanje Agencije kada je nadležnom tijelu iz države članice oduzeto odobrenje za rad
+# Članak 166.
+Kada Agencija zaprimi obavijest nadležnog tijela države članice da je mirovinskom osiguravajućem društvu iz druge države članice koje obavlja poslove iz članka 9. stavka 1. točke 3. na području Republike Hrvatske oduzeto odobrenje za rad, u cijelosti ili u odnosu na pojedine poslove, Agencija može poduzeti odgovarajuće mjere za zaštitu interesa korisnika mirovina, uključujući, između ostaloga, i zabranu obavljanja transakcija ili zabranu ponude mirovinskih programa na području Republike Hrvatske.

@@ -1,0 +1,12 @@
+## Odobrenje za obavljanje funkcije člana uprave
+# Članak 41.
+(1) Članom uprave Društva može biti imenovana osoba koja je dobila rješenje Agencije o odobrenju za obavljanje funkcije člana uprave Društva.
+(2) Zahtjev za izdavanje rješenja o odobrenju za obavljanje funkcije člana uprave Društva Agenciji podnosi kandidat za člana uprave za mandat koji ne može biti duži od pet godina. Uz zahtjev obvezno se prilaže pisana suglasnost nadzornog odbora Društva.
+(3) Rješenje o odobrenju ili odbijanju odobrenja Agencija dostavlja i Društvu o čijem se kandidatu radi. Agencija može izdati odobrenje i za kraći mandat nego što je zatraženo.
+(4) Iznimno, ako člana uprave Društva imenuje nadležni sud u skladu s odredbama zakona koji uređuje osnivanje i poslovanje trgovačkih društava, njegov mandat ne može trajati duže od šest mjeseci, ali i u tom slučaju osoba koja se imenuje mora ispunjavati uvjete iz članka 38. ovoga Zakona, osim uvjeta iz stavka 6. istoga članka.
+(5) Društvo je dužno osigurati da zahtjev za izdavanje rješenja o odobrenju za obavljanje funkcije člana uprave Društva i program vođenja poslova Društva za mandatno razdoblje budu podneseni Agenciji najmanje tri mjeseca prije isteka mandata pojedinom članu uprave.
+(6) Društvo je dužno osigurati da novi zahtjev za izdavanje odobrenja iz stavka 2. ovoga članka i program vođenja poslova Društva budu podneseni Agenciji u roku od 45 dana od dana izvršnosti rješenja kojim se ukida rješenje o odobrenju za rad ili rješenje o odbijanju izdavanja odobrenja za obavljanje funkcije člana uprave Društva, u situaciji kada Društvo ne ispunjava uvjet o najmanjem potrebnom broju članova uprave u skladu s odredbama ovoga Zakona.
+(7) Podnositelj zahtjeva za izdavanje odobrenja iz stavka 1. ovoga članka dužan je priložiti dokaze o ispunjavanju uvjeta iz članka 38. ovoga Zakona i pravilnika iz stavka 10. ovoga članka.
+(8) U postupku odlučivanja o odobrenju za obavljanje funkcije člana uprave Agencija može zatražiti da kandidat za člana uprave Društva predstavi program vođenja poslova Društva za mandatno razdoblje.
+(9) Osoba kojoj je Agencija izdala odobrenje za obavljanje funkcije člana uprave Društva dužna je prije nego što bude imenovana na istu funkciju za novi mandat odnosno na istu funkciju u drugom Društvu, ponovno ishoditi odobrenje Agencije.
+(10) Agencija će pravilnikom propisati sadržaj programa vođenja poslova Društva te kriterije za ocjenjivanje programa i kandidata koji predstavljaju program.

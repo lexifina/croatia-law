@@ -1,0 +1,3 @@
+## Status licencije prema ranijim propisima
+# Članak 209.
+Licencija za upravljanje mirovinskim osiguravajućim društvom koju je izdala Agencija u skladu s odredbom članka 10. stavka 4. Zakona o mirovinskim osiguravajućim društvima i isplati mirovina na temelju individualne kapitalizirane štednje (»Narodne novine«, br. 106/99., 63/00., 140/05., 107/07. i 114/11.), odnosno posljednja obnova predmetne licencije u skladu s odredbom članka 10. stavka 5. istog Zakona, smatra se položenim ispitom za stjecanje zvanja ovlaštenog upravitelja mirovinskog osiguravajućeg društva iz članka 38. stavka 6. ovoga Zakona, te stupanjem na snagu ovoga Zakona istu nije potrebno obnavljati.

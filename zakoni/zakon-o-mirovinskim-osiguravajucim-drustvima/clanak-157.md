@@ -1,0 +1,3 @@
+## Izvješće Društva s mišljenjem ovlaštenog revizora
+# Članak 157.
+Ako pri obavljanju nadzora Agencija utvrdi nezakonitosti ili nepravilnosti koje se odnose na vođenje poslovnih knjiga i druge poslovne dokumentacije koju je Društvo dužno voditi prema odredbama ovoga Zakona, na temelju njega donesenih propisa ili drugih zakona kojima se uređuje poslovanje Društva i propisa donesenih na temelju istih, odnosno ako utvrdi druge značajnije nezakonitosti, može naložiti Društvu da podnese izvješće o otklanjanju nezakonitosti ili nepravilnosti, kojemu je dužno priložiti mišljenje revizora iz kojeg je vidljivo jesu li nezakonitosti ili nepravilnosti otklonjene.

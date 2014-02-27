@@ -1,0 +1,3 @@
+# Članak 119.
+(1) U slučajevima primjene odredbi članka 112. stavka 2. na zahtjev Hrvatskog zavoda za mirovinsko osiguranje, Središnji registar osiguranika dužan je od Društva pribaviti podatke o mirovini koja bi se ostvarila iz obveznog mirovinskog osiguranja. Društvo je dužno dostaviti te podatke Središnjem registru osiguranika u roku od osam dana od dana traženja.
+(2) Hrvatski zavod za mirovinsko osiguranje dužan je u roku od osam dana od dana donošenja rješenja o ostvarenom pravu na osnovnu mirovinu člana obveznoga mirovinskog fonda, odnosno člana njegove obitelji izvijestiti Središnji registar osiguranika.
