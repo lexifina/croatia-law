@@ -1,0 +1,3 @@
+# Članak 33.
+(1) Ako inspektor utvrdi postojanje osnovane sumnje da je povredom propisa počinjen prekršaj ili kazneno djelo, uz rješenje za čije je donošenje ovlašten, odnosno uz zapisnik ako ne postoji ovlaštenje za donošenje rješenja, dužan je bez odgode, a najkasnije u roku od 15 dana od dana završetka nadzora s utvrđenim činjenicama odlučnim za poduzimanje mjera, izdati prekršajni nalog, obavezni prekršajni nalog ili podnijeti optužni prijedlog za pokretanje prekršajnog postupka, odnosno prijavu za pokretanje postupka zbog kaznenog djela.
+(2) Inspektor je u obavljanju inspekcijskog nadzora samostalan te vodi postupak, donosi rješenja i poduzima mjere u okviru prava, dužnosti i ovlasti utvrđenih ovim Zakonom ili drugim propisima.

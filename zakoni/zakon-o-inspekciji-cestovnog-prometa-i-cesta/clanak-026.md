@@ -1,0 +1,2 @@
+# Članak 26.
+U obavljanju inspekcijskog nadzora, ako drugim propisom nije drukčije određeno, inspektor će donijeti rješenje kojim će narediti otklanjanje utvrđenih nepravilnosti ako utvrdi da se prijevoz u cestovnom prometu ne obavlja u skladu s međudržavnim sporazumima, zakonima i drugim propisima kojima se uređuje obavljanje prijevoza u cestovnom prometu, sigurnost prometa na cestama ili ako utvrdi nedostatke i nepravilnosti na cestama koje su u suprotnosti s propisima o cestama, te u svim slučajevima u kojima je ovlašten u člancima 13., 14., 15. i 16. ovoga Zakona.
