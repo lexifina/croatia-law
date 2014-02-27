@@ -1,0 +1,5 @@
+## Kontrola višestruke sukladnosti
+# Članak 8.
+(1) Kontrolu ispunjavanja višestruke sukladnosti kod Obveznika iz članka 7. ovoga Pravilnika provodi Agencija za plaćanja u poljoprivredi, ribarstvu i ruralnom razvoju (u daljnjem tekstu: Agencija za plaćanja).
+(2) Ako Agencija za plaćanja prilikom kontrole iz stavka 1. ovoga članka utvrdi da neki od zahtjeva i/ili uvjeta višestruke sukladnosti iz članaka 4. i 5. ovoga Pravilnika nije ispunjen, Obvezniku će se zbog neispunjavanja obveza odrediti umanjenje odnosno isključenje iz plaćanja za izravna plaćanja, IAKS mjera ruralnog razvoja, plaćanja u iznimno osjetljivim sektorima i tržišne potpore vezano uz površinu.
+(3) Agencija za plaćanja koristi zaprimljene zapisnike i izvještaje o obavljenom inspekcijskom nadzoru i rješenja tijela nadležnih za inspekcijski nadzor uvjeta i zahtjeva navedenih u dodacima I. i II. ovoga Pravilnika kao pravovaljan izvještaj o kontroli na terenu nad Obveznicima te temeljem njih također određuje umanjenja odnosno isključenja iz plaćanja iz stavka 2. ovoga članka.

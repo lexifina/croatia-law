@@ -1,0 +1,1 @@
+Na temelju članka 3. stavka 2. i članka 22. Zakona o potpori poljoprivredi i ruralnom razvoju (»Narodne novine«, broj 80/2013) te članka 3. stavka 4. Zakona o zajedničkoj organizaciji tržišta poljoprivrednih proizvoda i posebnim mjerama i pravilima vezanim uz tržište poljoprivrednih proizvoda (»Narodne novine«, broj 82/2013), ministar poljoprivrede donosi

@@ -1,0 +1,2 @@
+# Članak 1.
+Ovim Pravilnikom propisuju se zahtjevi i uvjeti višestruke sukladnosti (u daljnjem tekstu: višestruka sukladnost) u poljoprivrednoj proizvodnji, obveznici ispunjavanja višestruke sukladnosti, kontrola višestruke sukladnosti, način umanjenja prava za neizvršavanje obveza i rokovi u kojima ispunjavanje višestruke sukladnosti postaje obveza u ostvarivanju prava na izravna plaćanja, IAKS mjere ruralnog razvoja, plaćanja u iznimno osjetljivim sektorima i tržišne potpore vezano uz površinu.

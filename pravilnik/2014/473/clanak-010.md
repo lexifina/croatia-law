@@ -1,0 +1,10 @@
+# Članak 10.
+U smislu odredbi članka 9. ovoga Pravilnika pojmovi vezani uz utvrđivanje umanjenja plaćanja zbog neispunjavanja jednog ili više zahtjeva i/ili uvjeta višestruke sukladnosti iz članaka 4. i 5. ovoga Pravilnika jesu:
+1. »Nesukladnost« znači postupanje Obveznika na način da ne ispunjava jedan ili više zahtjeva i/ili uvjeta višestruke sukladnosti iz članaka 4. i 5. ovoga Pravilnika.
+2. »Ponovljena nesukladnost« znači nesukladnost sa istim zahtjevom i/ili uvjetom višestruke sukladnosti iz članaka 4. i 5. ovoga Pravilnika koja je utvrđena više od jednog puta kod istog Obveznika u razdoblju od tri uzastopne kalendarske godine pod uvjetom da je Obveznik bio obaviješten o prethodnoj nesukladnosti te je imao mogućnost poduzeti potrebne mjere u svrhu otklanjanja prethodne nesukladnosti.
+3. »Opseg nesukladnosti« određuje se prema tome jesu li posljedice nesukladnosti proširene izvan gospodarstva Obveznika ili su ograničene samo na gospodarstvo Obveznika na kojem je nesukladnost utvrđena.
+4. »Ozbiljnost nesukladnosti« ovisi o težini i važnosti posljedica nesukladnosti s određenim zahtjevom i/ili uvjetom višestruke sukladnosti iz članaka 4. i 5. ovoga Pravilnika. Ozbiljnost nesukladnosti se procjenjuje kroz četiri stupnja: vrlo mala, mala, srednja i velika.
+5. »Trajanje nesukladnosti« ovisi o dužini trajanja učinka nesukladnosti ili o mogućnosti uklanjanja posljedice nesukladnosti. Trajnost nesukladnosti definira se kao »popravljiva« ako se njeni učinci ili posljedice mogu popraviti i »trajna« ako se njeni učinci ili posljedice ne mogu popraviti.
+6. »Namjera« ovisi o tome da li je Obveznik postupio suprotno odredbama o usklađenosti sa zahtjevima uslijed nemara ili s namjerom.
+7. »Postupanjem iz nemara« smatra se kada Obveznik ne ispuni neki od zahtjeva i/ili uvjeta višestruke sukladnosti iz članaka 4. i 5. ovoga Pravilnika na način da nije primijenio uobičajenu pažnju, brigu ili stručnost.
+8. »Postupanjem iz namjere« smatra se kada Obveznik ne ispuni neki od zahtjeva i/ili uvjeta višestruke sukladnosti iz članka 4. i 5. ovoga Pravilnika pri čemu je svjestan toga što čini kao i mogućih posljedica svojih postupaka.
