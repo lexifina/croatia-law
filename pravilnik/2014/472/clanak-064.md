@@ -1,0 +1,4 @@
+## Umanjenja i isključenja plaćanja u slučaju nepravilnosti vezano uz višestruku sukladnost
+# Članak 64.
+(1) Ako se kontrolom i/ili inspekcijskim nadzorom u bilo kojem trenutku u kalendarskoj godini utvrdi da nisu poštivani uvjeti višestruke sukladnosti, te je takvo neispunjavanje uvjeta posljedica djelovanja ili propusta za koje je izravno odgovoran korisnik koji je u toj kalendarskoj godini podnio zahtjev za potporu, ukupni iznos izravnih plaćanja i državne potpore, koji je dodijeljen ili koji se treba dodijeliti tome korisniku Agencija za plaćanja smanjuje ovisno o namjeri ili nemarnosti, opsegu, trajanju i ponavljanju utvrđene nesukladnosti u skladu s pravilima utvrđenim u Pravilniku o uvjetima višestruke sukladnosti u poljoprivrednoj proizvodnji.
+(2) Kod izračuna nepravilnosti vezano uz višestruku sukladnost primjenjuju se odredbe članaka 70. do 72. Uredbe 1122/2009.

@@ -1,0 +1,4 @@
+# Članak 76.
+(1) Danom stupanja na snagu ovoga Pravilnika prestaju važiti odredbe Pravilnika o provedbi izravnih plaćanja i IAKS mjera ruralnog razvoja (»Narodne novine« br. 145/2012 i 29/2013), osim odredbi koje se odnose na IAKS mjere ruralnog razvoja, a koje su prijavljene Europskoj Komisiji kao postojeće mjere državne potpore sukladno odredbama članka 34. Zakona.
+(2) IAKS mjere ruralnog razvoja iz stavka 1. ovoga članka obuhvaćaju potporu za očuvanje izvornih i zaštićenih pasmina domaćih životinja, potporu za ekološku poljoprivrednu proizvodnju, potporu za integriranu poljoprivrednu proizvodnju, potporu za područja s težim uvjetima gospodarenja u poljoprivredi i potporu za očuvanje izvornih i zaštićenih vrsta kultivara poljoprivrednog bilja.
+(3) IAKS mjere ruralnog razvoja iz stavka 1. ovoga članka primjenjivati će se kao postojeća državna potpora do početka primjene odgovarajućih mjera u Programu ruralnog razvoja iz članka 30. Zakona.

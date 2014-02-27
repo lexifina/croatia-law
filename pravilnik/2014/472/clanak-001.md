@@ -1,0 +1,17 @@
+## I. TEMELJNE ODREDBE
+## Područje i razdoblje primjene
+# Članak 1.
+(1) Ovim se Pravilnikom propisuju:
+1. način provedbe programa izravne potpore:
+- detaljni uvjeti, kriteriji i postupci za korištenje i dodjelu prava na plaćanja, prava na plaćanja iz nacionalne rezerve i prava na plaćanja iz posebne nacionalne rezerve za razminirano zemljište,
+- detaljni uvjeti, kriteriji i postupci za izračun i dodjelu premija za proizvodno vezana plaćanja,
+- detaljni uvjeti, kriteriji i postupci za izračun i dodjelu specifičnih plaćanja;
+2. način provedbe pojedinih mjera državne potpore u poljoprivredi.
+(2) Za potrebe provedbe programa izravne potpore iz stavka 1. podstavka 1. ovoga članka, ovim Pravilnikom se utvrđuju specifične odredbe u smislu slijedećih uredbi Europske unije izravno primjenjivih na korisnike programa izravne potpore:
+- Uredba Vijeća (EZ) br. 73/2009 od 19. siječnja 2009. o utvrđivanju zajedničkih pravila za programe izravne potpore za poljoprivrednike u okviru Zajedničke poljoprivredne politike i utvrđivanju određenih programa potpore za poljoprivrednike, o izmjeni uredaba (EZ) br. 1290/2005, (EZ) br. 247/2006, (EZ) br. 378/2007, te ukida Uredba (EZ) br. 1782/2003 (SL L 30, od 31. siječnja 2009.), kako je posljednji put izmijenjena Uredbom Komisije (EU) br. 287/2013 (u daljnjem tekstu: Uredba (EZ) br. 73/2009),
+- Uredba Komisije (EZ) br. 1120/2009 od 29. listopada 2009. o podrobnim pravilima za provedbu programa jedinstvenog plaćanja iz glave III. Uredbe Vijeća (EZ) br. 73/2009 kojom se uvode zajednička pravila za programe izravne potpore za poljoprivrednike u sklopu zajedničke poljoprivredne politike i određeni programi potpore za poljoprivrednike (SL L 316, od 2. prosinca 2009.), kako je posljednji put izmijenjena Uredbom Komisije (EU) br. 426/2013 (u daljnjem tekstu: Uredba 1120/2009),
+- Uredba Komisije (EZ) br. 1121/2009 od 29. listopada 2009. o podrobnim pravilima za provedbu Uredbe Vijeća (EZ) br. 73/2009 vezano uz sheme potpora za poljoprivrednike iz Naslova IV i V te Uredbe (SL L 316, od 2. prosinca 2009.), kako je posljednji put izmijenjena Uredbom Komisije (EU) br. 426/2013 (u daljnjem tekstu: Uredba 1121/2009),
+- Uredba Komisije (EZ) br. 1122/2009 od 30. studenog 2009. o podrobnim pravilima za provedbu Uredbe Vijeća (EZ) br. 73/2009 u vezi s međusobnom usklađenosti, modulacijom i integriranim sustavom upravljanja i nadzora u sklopu programa izravnih potpora za poljoprivrednike predviđenih navedenom uredbom te za provedbu Uredbe Vijeća (EZ) br. 1234/2007 u vezi s međusobnom usklađenosti u sklopu programa potpore predviđenih za sektor vina (SL L 316, od 2. prosinca 2009.), kako je posljednji put izmijenjena Uredbom Komisije (EU) br. 426/2013 (u daljnjem tekstu: Uredba 1122/2009) i
+- Uredba (EU) br. 1310/2013 Europskog parlamenta i Vijeća od 17. prosinca 2013. o utvrđivanju određenih prijelaznih odredaba o potpori ruralnom razvoju Europskog poljoprivrednog fonda za ruralni razvoj (EPFRR) i o izmjenama Uredbe (EU) br. 1305/2013 Europskog parlamenta i Vijeća u pogledu sredstava i njihove raspodjele za godinu 2014. i o izmjeni Uredbe Vijeća (EZ) br. 73/2009 i uredaba (EU) br. 1307/2013, (EU) br. 1306/2013i (EU) br. 1308/2013 Europskog parlamenta i Vijeća u pogledu njihove primjene u 2014. godini.
+(3) Pojmovi u smislu ovoga Pravilnika imaju jednako značenje kao pojmovi korišteni u Uredbama iz stavka 2. ovoga članka.
+(4) Korisnik u smislu ovoga Pravilnika je korisnik mjera programa izravne potpore i mjera potpore iznimno osjetljivim sektorima (dalje u tekstu »korisnik«).
