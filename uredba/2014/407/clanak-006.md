@@ -1,0 +1,5 @@
+# Članak 6.
+Naslov iznad članka 27. i članak 27. mijenjaju se i glase:
+»3.4.1. Odjel za postupanja u drugom stupnju
+Članak 27.
+Odjel za postupanja u drugom stupnju prati, analizira i nadzire stanje na području katastra zemljišta i katastra nekretnina, predlaže mjere za unaprjeđenje katastra a naročito mjere koje proizlaze iz potreba uočenih u drugostupanjskim postupanjima, rješava u drugom stupnju povodom žalbi na prvostupanjska rješenja u održavanju katastra zemljišta i katastra nekretnina, žalbi na rješenja izjavljena u postupku izlaganja na javni uvid katastarskih podataka prikupljenih u postupcima katastarskih izmjera i tehničkih reambulacija, te žalbi na rješenja o određivanju kućnih brojeva, rješava po izvanrednim pravnim lijekovima iz svoje nadležnosti, priprema stručne podloge i rješenja za izradbu zakonskih i drugih propisa iz područja katastra, sudjeluje u izradbi tih propisa, priprema podloge za stručna tumačenja, mišljenja i upute vezane uz primjenu tih propisa te izrađuje godišnji plan rada Odjela i izvješće o njegovom radu.«.

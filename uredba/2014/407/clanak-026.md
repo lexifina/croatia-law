@@ -1,0 +1,2 @@
+# Članak 26.
+Okvirni broj državnih službenika i namještenika u Državnoj geodetskoj upravi prikazan u tablici koja je sastavni dio Uredbe o unutarnjem ustrojstvu Državne geodetske uprave (»Narodne novine«, broj 39/2012) zamjenjuje se Okvirnim brojem državnih službenika i namještenika potrebnih za obavljanje poslova iz djelokruga Državne geodetske uprave koji je sadržan u tablici tiskanoj u privitku ove Uredbe i čini sastavni dio Uredbe o unutarnjem ustrojstvu Državne geodetske uprave.
