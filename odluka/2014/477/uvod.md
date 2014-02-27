@@ -1,0 +1,1 @@
+Na temelju članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, broj 150/2011) i članka 144. stavka 1. Zakona o mirovinskom osiguranju (»Narodne novine«, broj 157/2013), Vlada Republike Hrvatske je na sjednici održanoj 27. veljače 2014. godine donijela
