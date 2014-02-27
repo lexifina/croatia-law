@@ -1,0 +1,5 @@
+# Članak 19.
+Članak 60. mijenja se i glasi:
+»(1) Ako se za vrijeme trajanja ugovora o koncesiji javi potreba za izvođenjem određenih radova čije izvođenje ne predstavlja promjenu bitnih zahtjeva propisanih ovim Zakonom u odnosu na uvjete u skladu s kojima je žičara izgrađena, upravitelj žičare mora podnijeti davatelju koncesije prijedlog za sklapanje dodatka ugovoru o koncesiji. Dodatak ugovoru o koncesiji predstavlja izmjenu ugovora o koncesiji i provodi se u skladu s propisom kojim se uređuju koncesije.
+(2) Davatelj koncesije nastojat će pri izradi dokumentacije za nadmetanje, nacrta ugovora o koncesiji i sklapanju ugovora o koncesiji, predvidjeti moguće promjene uvjeta pružanja usluge i/ili potrebe izvođenja određenih radova.
+(3) Ako se određenim radovima namjerava mijenjati kapacitet žičare i/ili trasa žičare ili drugi bitni zahtjevi propisani ovim Zakonom u odnosu na uvjete u skladu s kojima je izgrađena, provodi se postupak davanja nove koncesije, osim ako takve promjene nisu bile predviđene samim ugovorom o koncesiji te dokumentacijom za nadmetanje u postupku davanja koncesije.«.
