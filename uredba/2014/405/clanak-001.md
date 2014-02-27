@@ -1,0 +1,5 @@
+# Članak 1.
+(1) Uredbom o dražbi određenih drvnih sortimenata propisuju se uvjeti za organiziranje dražbe određenih drvnih sortimenata, način poslovanja te postupak prodaje robe putem dražbe i to za ogrjevno drvo višemetrica (VM) i neobrađeno drvo, neovisno o tome ima li skinutu koru ili bjeliku i da li je grubo učetvoreno ili ne, sukladno tarifnim oznakama 4401 i 4403 Kombinirane nomenklature Europske unije, a na temelju javne objave putem javnog nadmetanja (u daljnjem tekstu: nadmetanje) koje se obavlja na određenom mjestu i u određeno vrijeme.
+(2) Trgovačko društvo Hrvatske šume d.o.o. utvrđuje vrste i količine drvnih sortimenata koje će objaviti na nadmetanju, porijeklom iz šuma kojima gospodare, a sukladno godišnjim planovima gospodarenja šumama.
+(3) Putem nadmetanja provodi se prodaja drvnih sortimenata iz tarifnih oznaka iz stavka 1. ovoga članka, porijeklom iz šuma kojima gospodari trgovačko društvo Hrvatske šume d.o.o.
+(4) Putem nadmetanja, na zahtjev ostalih korisnika, odnosno šumoposjednika, prodaju se i drvni sortimenti porijeklom iz šuma kojima ne gospodari trgovačko društvo Hrvatske šume d.o.o.
