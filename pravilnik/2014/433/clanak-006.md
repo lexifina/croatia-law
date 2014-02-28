@@ -1,0 +1,20 @@
+## Dobar ugled članova uprave leasing društva
+# Članak 6.
+(1) Prilikom procjene dobrog ugleda propisanog člankom 34. stavkom 1. točkom 4. Zakona potrebnog za obavljanje funkcije člana uprave leasing društva, osobito će se uzeti u obzir:
+a) je li kandidatu zbog nepoštivanja odgovarajućih propisa oduzeta ili uskraćena odgovarajuća suglasnost ili odobrenje za obavljanje određenih poslova prema zakonima koji su u nadležnosti Agencije ili drugog nadležnog tijela, odnosno je li mu od strane inozemnog nadzornog tijela oduzeta suglasnost ili izrečena kakva mjera zabrane obavljanja odgovarajućih poslova u leasing industriji, bankarstvu, osiguravateljskoj industriji, tržištu kapitala, factoring industriji ili nekom drugom području obavljanja financijskih usluga
+b) je li protiv kandidata pokrenuta istraga odnosno vodi li se kazneni postupak ili je pravomoćno osuđen za kaznena djela propisana Zakonom o tržištu vrijednosnih papira (»Narodne novine«, br. 84/02 i 138/06), Zakonom o kaznenim djelima protiv tržišta kapitala (»Narodne novine«, br. 152/08) i Zakonom o trgovačkim društvima (»Narodne novine«, br. 111/93, 34/99, 121/99, 52/00, 118/03, 107/07, 146/08, 137/09, 152/11, 111/12, 144/12 i 68/13), odnosno za stranu osobu, je li protiv iste pokrenuta istraga, vodi li se postupak ili je pravomoćno osuđena za djela koja po svom opisu i posljedicama odgovaraju navedenim kaznenim djelima,
+c) je li protiv kandidata pokrenuta istraga, odnosno vodi li se kazneni postupak ili je pravomoćno osuđen za sljedeća kaznena djela propisana Kaznenim zakonom (»Narodne novine«, br. 125/11 i 144/12):
+- kaznena djela protiv imovine (osim za kazneno djelo neovlaštene uporabe tuđe pokretne stvari i kazneno djelo oštećenja tuđe stvari), kod kojih se kazneni postupak pokreće po službenoj dužnosti,
+- kaznena djela protiv čovječnosti i ljudskog dostojanstva,
+- kaznena djela protiv gospodarstva,
+- kaznena djela krivotvorenja,
+- kaznena djela protiv službene dužnosti,
+- kaznena djela protiv pravosuđa,
+- kaznena djela protiv radnih odnosa i socijalnog osiguranja, odnosno za stranu osobu, je li protiv iste pokrenuta istraga, vodi li se postupak ili je pravomoćno osuđena za djela koja po svom opisu i posljedicama odgovaraju navedenim kaznenim djelima,
+d) je li protiv kandidata pokrenuta istraga ili je potvrđena optužnica odnosno vodi li se kazneni postupak ili je pravomoćno osuđen za kaznena djela iz Kaznenog zakona (»Narodne novine«, br. 110/97, 27/98, 50/00, 129/00, 51/01, 111/03, 190/03 - odluka Ustavnog suda, 105/04, 84/05, 71/06, 110/07, 152/08 i 57/11) koja su u pravnom kontinuitetu s navedenim kaznenim djelima iz točke c) ovoga članka, odnosno za stranu osobu, je li protiv iste pokrenuta istraga, vodi li se postupak ili je pravomoćno osuđena za djela koja po svom opisu i posljedicama odgovaraju navedenim kaznenim djelima,
+e) dosadašnji profesionalni rad i osobni integritet kandidata,
+f) ugrožavaju li poslovni rezultati i/ili financijska stabilnost trgovačkog društva ugled kandidata,
+g) postoje li drugi razlozi za sumnju u dobar ugled kandidata.
+(2) Prilikom procjene uvjeta iz stavka 1. točaka a) do d) ovoga članka, Agencija će uzeti u obzir sve dostupne informacije vezane uz vrstu presude, stupanj u kojemu se postupak nalazi, izjavljene pravne lijekove, izrečenu sankciju, postojeće okolnosti, značaj prijestupa ili prekršaja, razdoblje koje je proteklo od vremena počinjenja djela i ponašanje osobe u tom vremenu. Agencija će voditi računa i o većem broju lakših djela koja pojedinačno ne narušavaju, ali zajedno mogu narušiti dobar ugled osobe.
+(3) Prilikom procjene uvjeta iz stavka 1. točka e) ovoga članka, Agencija će analizirati informacije koje upućuju na nekorektno ponašanje kandidata u dosadašnjem profesionalnom radu, a naročito na netransparentno postupanje, nesuradnju s nadležnim tijelima ili nepostupanje po izrečenim mjerama Agencije ili drugog nadležnog tijela.
+(4) Prilikom procjene uvjeta iz stavka 1. točka f) ovoga članka, Agencija će uzeti u obzir financijske i poslovne rezultate i stabilnost trgovačkog društva u kojem kandidat ima značajni udio i/ili rukovodeću funkciju.
