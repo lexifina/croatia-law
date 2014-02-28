@@ -1,0 +1,1 @@
+Na temelju članka 20. Zakona o posredovanju pri zapošljavanju i pravima za vrijeme nezaposlenosti (»Narodne novine« br. 80/08, 121/10, 25/12, 118/12 i 153/13) i članka 21. Statuta Hrvatskoga zavoda za zapošljavanje (»Narodne novine« br. 109/12) Upravno vijeće Hrvatskoga zavoda za zapošljavanje je na sjednici održanoj 31. 1. 2014. godine donijelo

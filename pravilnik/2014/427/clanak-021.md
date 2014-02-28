@@ -1,0 +1,2 @@
+# Članak 21.
+Profesionalnim planom utvrđuje se popis poslova i zanimanja koje nezaposlena osoba može obavljati prema svojim stručnim, radnim i osobnim mogućnostima te potrebama tržišta rada, popis aktivnosti koje će nezaposlena osoba provoditi u cilju zapošljavanja, kao i popis aktivnosti u svrhu pripreme za zapošljavanje i rokovi njihova izvršenja i vrijeme međusobnih kontakata nezaposlene osobe i savjetnika za zapošljavanje kroz dogovorenu aktivnost individualne konzultacije.

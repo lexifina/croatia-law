@@ -1,0 +1,2 @@
+# Članak 26.
+Informirani pristanak za prikupljanje podataka psihologijsko--medicinskom obradom u postupku profesionalne selekcije sadrži izjavu nezaposlene osobe/tražitelja zaposlenja o spremnosti sudjelovanja u psihologijsko-medicinskoj obradi (psihologijskom testiranju, intervju s psihologom te po potrebi liječničkom pregledu specijaliste medicine rada) u postupku profesionalnog usmjeravanja i selekcije.
