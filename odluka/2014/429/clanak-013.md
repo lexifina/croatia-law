@@ -1,0 +1,4 @@
+# Članak 13.
+(1) Ako su neposrednim nadzorom u poslovanju kreditne institucije utvrđene nezakonitosti, ovlaštena osoba obvezna je u zapisniku precizno navesti činjenice, odnosno opisati radnje kojima je kreditna institucija, odnosno odgovorna osoba u kreditnoj instituciji, postupila suprotno odredbama zakona i drugih propisa te o tome pribaviti dokaze.
+(2) Za nezakonitosti konstatirane u zapisniku ovlaštena je osoba obvezna utvrditi odgovornu osobu na temelju statuta ili drugih internih akata kreditne institucije.
+(3) Kreditna institucija dužna je u očitovanju na zapisnik iz članka 11. stavka 4. ove Odluke očitovati se i o odgovornim osobama koje su navedene u zapisniku. Ako je, prema mišljenju kreditne institucije, odgovorna druga osoba iz uprave kreditne institucije a ne ona navedena u zapisniku, kreditna institucija dužna je za tu svoju tvrdnju dostaviti i dokaz.
