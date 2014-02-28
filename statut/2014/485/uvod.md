@@ -1,0 +1,1 @@
+Na temelju članka 144. i članka 189. stavka 2. Zakona o mirovinskom osiguranju (»Narodne novine«, br. 157/13.) i članka 54. stavka 1. Zakona o ustanovama (»Narodne novine«, br. 76/93., 29/97., 47/99. i 35/08.), Upravno vijeće Hrvatskog zavoda za mirovinsko osiguranje, na sjednici održanoj 24. veljače 2014., donijelo je

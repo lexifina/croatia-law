@@ -1,0 +1,34 @@
+## Poslovi ustrojstvenih jedinica Zavoda
+# Članak 15.
+U Središnjoj službi Zavoda obavljaju se sljedeći poslovi:
+- koordinacija i nadzor u primjeni Zakona, Statuta i drugih općih akata Zavoda te uredbi Europske unije o koordinaciji sustava socijalne sigurnosti i međunarodnih ugovora o socijalnom osiguranju
+- utvrđivanje i provedba politike razvoja i unapređenja mirovinskog osiguranja predlaganjem nadležnom ministarstvu potrebnih mjera i iniciranje donošenja odgovarajućih propisa
+- poslovi tijela za vezu primjenom uredbi Europske unije o koordinaciji sustava socijalne sigurnosti na području mirovinskog osiguranja, doplatka za djecu i određivanja zakonodavstva države članice Europske unije koje se na osiguranika primjenjuje
+- sudjelovanje u radu izaslanstava u međudržavnim pregovorima i pregovorima s inozemnim nositeljima socijalnog osiguranja u vezi s provedbom međunarodnih ugovora o socijalnom osiguranju i sklapanjem novih ugovora iz toga područja
+- pružanje međunarodne pravne pomoći u provedbi uredbi Europske unije o koordinaciji sustava socijalne sigurnosti i međunarodnih ugovora o socijalnom osiguranju
+- izrada prijedloga općih akata za provedbu mirovinskog osiguranja i drugih općih akata Zavoda
+- upravljanje sredstvima za ostvarivanje prava iz mirovinskog osiguranja
+- rješavanje u drugom stupnju o pravu na mirovinsko osiguranje, pravima i obvezama iz mirovinskog osiguranja i pravu na doplatak za djecu
+- poslovi medicinskog vještačenja
+- poslovi nadzora, kontrole i instruktaže
+- poslovi unutarnje revizije te poslovi razvoja i koordinacije financijskog upravljanja i kontrole
+- rješavanje u drugom stupnju o pravima iz mirovinskog osiguranja i doplatka za djecu primjenom međunarodnih ugovora o socijalnom osiguranju
+- rješavanje u drugom stupnju o pravima primjenom uredbi Europske unije o koordinaciji sustava socijalne sigurnosti na području mirovinskog osiguranja, doplatka za djecu i zakonodavstva države članice Europske unije koje se primjenjuje na osiguranika
+- poslovi medicinskog vještačenja primjenom uredbi Europske unije o koordinaciji sustava socijalne sigurnosti i međunarodnih ugovora o socijalnom osiguranju
+- revizija rješenja o svojstvu osiguranika i mirovinskom stažu
+- oglašavanje rješenja ništavim, poništavanje i ukidanje rješenja
+- postupak u vezi s upravnim sporovima
+- poslovi u vezi s naknadom štete s inozemnim elementom
+- poslovi u vezi s povratom nepripadne isplate iz mirovinskog osiguranja s inozemnim elementom
+- poslovi u vezi s naplatom potraživanja između država primjenom uredbi Europske unije o koordinaciji sustava socijalne sigurnosti i međunarodnih ugovora o socijalnom osiguranju
+- upravljanje i raspolaganje imovinom Zavoda, obavljanje pravnih poslova u vezi s imovinom Zavoda i drugih imovinskopravnih poslova
+- zastupanje Zavoda na sudu, pred državnim tijelima i pravnim osobama s javnim ovlastima
+- poslovi razvoja i osiguranja cjelovite informatičke podrške poslovnom sustavu Zavoda i razmjene podataka s drugim sustavima
+- priprema sjednica tijela Zavoda, poslovi internog informiranja u Zavodu, davanje službenih priopćenja i komunikacija s medijima te ostali poslovi predstavljanja poslovanja Zavoda u javnosti
+- planiranje rashoda za obavljanje djelatnosti Zavoda i njegovih tijela, za rad stručne službe te drugih rashoda
+- provedba postupka javne nabave
+- provedba platnog prometa preko sustava Državne riznice
+- izrada financijskih izvješća propisanih zakonom i izrada drugih izvješća potrebnih za donošenje poslovnih odluka
+- poslovi u vezi s financijskim poslovanjem Zavoda za prava koja se osiguravaju iz obveznog mirovinskog osiguranja i druge namjene određene zakonom
+- administrativno-tehnički i drugi poslovi utvrđeni Zakonom i drugim propisima, Statutom i općim aktima iz članka 14. ovoga Statuta
+- ostali poslovi u skladu s obvezama utvrđenim propisima.
