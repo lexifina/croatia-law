@@ -1,0 +1,2 @@
+# Članak 2.
+U postupku za izdavanje licencije za obavljanje unutarnjeg javnog cestovnog prijevoza putnika i tereta, ured državne uprave u županiji, odnosno upravno tijelo Grada Zagreba nadležno za poslove prometa (u daljnjem tekstu: nadležno tijelo) utvrđuje da li pravna ili fizička osoba-obrtnik koja je registrirana za tu djelatnost, ispunjava uvjete propisane Zakonom o prijevozu u cestovnom prometu (»Narodne novine«, broj 82/2013, u daljnjem tekstu: Zakon) i Uredbom (EZ) br. 1071/2009. za dobivanje licencije.
