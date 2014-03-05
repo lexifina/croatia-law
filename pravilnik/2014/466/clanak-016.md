@@ -1,0 +1,12 @@
+# Članak 16.
+Sadržaj sporazuma iz članka 15. ovoga Pravilnika uključuje:
+1. definiranje dokumentacije i informacija koje revizorska društva trebaju redovito razmjenjivati,
+2. odredbu da li te informacije i dokumentaciju jedno revizorsko društvo redovno dostavlja drugome ili su dostupni na zahtjev,
+3. informacije o načinu i rokovima u kojima informacije i dokumentaciju revizorsko društvo glavnog AIF-a dostavlja revizorskom društvu napajajućeg AIF-a,
+4. način usklađivanja djelovanja revizorskih društava u postupcima pri zaključenju poslovne godine za svaki pojedini AIF,
+5. definiranje činjenica koje se smatraju nezakonitostima i nepravilnostima objavljenim u revizorskom izvješću revizorskog društva glavnog AIF-a, u smislu članka 15. stavka 2. točke b) ovoga pravilnika,
+6. način i rok za postupanje s ad hoc zahtjevima za pomoć koje jedno revizorsko društvo zatraži od drugog, uključujući zahtjeve za dodatnim informacijama o nepravilnostima objavljenim u revizijskom izvješću revizorskog društva glavnog AIF-a,
+7. odredbe o sastavljanju revizorskih izvješća na temelju Zakona, podzakonskih i drugih relevantnih propisa, te o načinu i vremenu dostave revizorskog izvješća glavnog AIF-a i njegovih nacrta revizorskom društvu napajajućeg AIF-a,
+8. kada napajajući i glavni AIF imaju različite datume zaključenja poslovne godine, sporazum mora uključivati način i rokove do kojih revizorsko društvo glavnog AIF-a treba izraditi dodatno izvješće u skladu s člankom 15. stavkom 5. ovoga Pravilnika i dostaviti navedeno izvješće i njegove nacrte revizorskom društvu napajajućeg AIF-a,
+9. kada je zaključen sporazum iz članka 8. ovog Pravilnika, odredbu da je za sporazum između revizorskih društava glavnog i napajajućeg AIF-a također mjerodavno pravo države članice koje je mjerodavno za sporazum iz članka 8. u skladu s člankom 15. stavcima 3. i 4. ovog Pravilnikai da su oba revizorska društva suglasna s isključivom nadležnošću sudova te države članice,
+10. kada je sporazum iz članka 8. ovog Pravilnika zamijenjen internim pravilima poslovanja u skladu s člankom 10. ovog Pravilnika, odredbu kojom se definira da je za sporazum između revizorskih društava glavnog i napajajućeg AIF-a mjerodavno pravo države članice u kojoj je osnovan napajajući AIF ili pravo države članice u kojoj je osnovan glavni AIF i da su oba revizorska društva suglasna s isključivom nadležnošću sudova te države članice.
