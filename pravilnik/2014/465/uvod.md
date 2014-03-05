@@ -1,0 +1,1 @@
+Na temelju članka 38. stavka 1., u svezi s člankom 10. stavak 4. Zakona o izmjenama i dopunama Zakona o prijevozu u linijskom i povremenom obalnom pomorskom prometu (»Narodne novine«, br. 80/13), ministar pomorstva, prometa i infrastrukture donosi

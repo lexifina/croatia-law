@@ -1,0 +1,2 @@
+# Članak 7.
+Davatelj koncesije odnosno javni naručitelj može prilikom razmatranja ponuda u postupku sklapanja ugovora o javnoj usluzi provjeriti putem nadležne lučke kapetanije ili stručnog povjerenstva koje imenuje davatelj koncesije odnosno javni naručitelj da li brod ima manevarska svojstva za luke ticanja, minimalnu brzinu određenu za pojedinu liniju i druge uvjete iz odgovarajuće objave kojom je postupak pokrenut.
