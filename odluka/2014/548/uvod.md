@@ -1,0 +1,1 @@
+Na temelju članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, broj 150/2011) i članka 12. stavka 3. Zakona o istraživanju i eksploataciji ugljikovodika (»Narodne novine«, br. 94/2013 i 14/2014), Vlada Republike Hrvatske je na sjednici održanoj 5. ožujka 2014. godine donijela
