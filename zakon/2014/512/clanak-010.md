@@ -1,0 +1,3 @@
+# Članak 10.
+U cijelom tekstu Zakona o ugostiteljskoj djelatnosti (»Narodne novine«, br. 138/06., 152/08., 43/09., 88/10., 50/12. i 80/13.) riječi: »gospodarski inspektor« u odgovarajućem broju i padežu zamjenjuju se riječima: »turistički inspektor« u odgovarajućem broju i padežu.
+U cijelom tekstu Zakona o ugostiteljskoj djelatnosti (»Narodne novine«, br. 138/06., 152/08., 43/09., 88/10., 50/12. i 80/13.) riječi: »nadležnoj ispostavi područne jedinice Državnog inspektorata« u odgovarajućem broju i padežu zamjenjuju se riječima: »mjesno nadležnoj službi turističke inspekcije Ministarstva« u odgovarajućem broju i padežu.
