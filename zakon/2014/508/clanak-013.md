@@ -1,0 +1,27 @@
+# Članak 13.
+Članak 68. mijenja se i glasi:
+»(1) Nadležni inspektor će u provedbi inspekcijskog nadzora rješenjem, do otklanjanja utvrđenih nedostataka, a najkraće na rok od 30 dana od dana donošenja rješenja, zabraniti pravnoj ili fizičkoj osobi daljnje obavljanje djelatnosti trgovine ako:
+- djelatnost trgovine obavlja bez registracije, odobrenja ili dozvole izdane od nadležnog tijela (članak 4., 7., 8. i 9.),
+- trgovinu na veliko i trgovinu s trećim zemljama za određenu robu ne obavlja u posebno uređenim i opremljenim skladištima, a radi osiguravanja zaštite života i zdravlja ljudi i životinja te zaštite prirode i okoliša (članak 8.),
+- prodaje proizvode čija je prodaja drugim propisima zabranjena (članak 10. stavak 2.),
+- prodaje alkoholna pića i pića koja sadrže alkohol ili prodaje duhanske proizvode ili oglašava, izlaže i prodaje robu pornografskog sadržaja osobama mlađim od 18 godina (članak 11. stavci 1., 3. i 4.),
+- djelatnost trgovine obavlja u prodajnom objektu za koji mjesno nadležni ured državne uprave u županiji, odnosno nadležno upravno tijelo Grada Zagreba nije izdalo rješenje kojim se utvrđuje da prodajni objekt, oprema i sredstva ispunjavaju propisane uvjete za obavljanje djelatnosti trgovine (članak 13.),
+- trgovac ne osigura nadležnom inspektoru isprave o stanju robe u prodajnom objektu iz kojih se može spoznati poslovni događaj (članak 16.),
+- predstavništvo strane osobe obavlja djelatnost trgovine ili ako predstavništvo prije otvaranja nije upisano u Registar (članak 52. stavci 4. i 5.),
+- trgovac učini neku radnju koja se smatra nepoštenim trgovanjem (članak 64.),
+- se zbog utvrđene povrede propisa treba izreći posebnim propisom predviđena mjera zabrane prometa određenih proizvoda, a postoji opasnost od njihove prodaje, prikrivanja, zamjene ili uništenja.
+(2) Nadležni inspektor će u slučajevima iz stavka 1. podstavaka 2., 4. i 9. ovoga članka zabraniti pravnoj ili fizičkoj osobi obavljanje djelatnosti trgovine usmenim rješenjem.
+(3) U slučaju nepoštivanja odredbi iz stavka 1. podstavaka 4., 6. i 8. ovoga članka nadležni inspektor može izreći mjeru zabrane obavljanja djelatnosti trgovine onim proizvodima za koje je utvrđena povreda propisa.
+(4) Mjera iz stavka 1. ovoga članka izvršit će se pečaćenjem prodajnog objekta, opreme i sredstava pomoću kojih se obavlja trgovina ili na drugi pogodan način.
+(5) Iznimno, mjera iz stavka 1. ovoga članka za radnje iz stavka 1. podstavaka 1., 2., 4., 5., 6., 7. i 8. ovoga članka neće se provesti pečaćenjem ili na drugi pogodan način ako trgovac najkasnije u roku od pet radnih dana od dana donošenja rješenja o zabrani obavljanja djelatnosti trgovine nadležnom inspektoru dostavi dokaze da su utvrđeni nedostaci iz stavka 1. podstavaka 1., 2., 4., 5., 6., 7. i 8. ovoga članka otklonjeni, kao i o izvršenoj uplati novčanog iznosa od 30.000,00 kuna u državni proračun. U protivnom, rješenje će se provesti pečaćenjem ili na drugi pogodan način sljedeći radni dan nakon isteka roka za dostavu propisanih dokaza.
+(6) U slučaju iz stavka 5. ovoga članka, nadležni inspektor rješenjem će obustaviti upravni postupak kojim se utvrđuje prestanak izrečene mjere zabrane obavljanja djelatnosti trgovine.
+(7) Navedena mjera iz stavka 5. ovoga članka, ako je izvršena, rješenjem će se obustaviti, a zapečaćeni prodajni objekt, oprema i sredstva će se otpečatiti i prije isteka roka od 30 dana, ako se nadležnom inspektoru dostavi dokaz o otklanjanju utvrđenih nedostataka i dokaz o izvršenoj uplati novčanog iznosa od 30.000,00 kuna u državni proračun.
+(8) Rješenje iz stavka 2. ovoga članka inspektor je dužan u pisanom obliku dostaviti stranki u roku od osam dana od dana donošenja usmenog rješenja. Žalba se može izjaviti samo na pisani otpravak rješenja. Inspektor je dužan na zahtjev stranke izdati pisano rješenje, iako su nedostaci otklonjeni.
+(9) Ako se u poslovnim prostorijama nalaze pokvarljivi proizvodi, trgovac može pisanim putem, u roku od 24 sata od dana pečaćenja prostorija, zatražiti da se one privremeno otpečate i da se u nazočnosti inspektora iz njih odmah iznesu pokvarljivi proizvodi te poduzmu sigurnosne i druge mjere radi sprječavanja nastanka štete, nakon čega će inspektor poslovne prostorije ponovo zapečatiti.
+(10) Žalba izjavljena protiv rješenja iz stavaka 1. i 2. ovoga članka ne odgađa izvršenje rješenja.
+(11) Nadležni inspektor će u provedbi inspekcijskog nadzora rješenjem narediti otklanjanje nadzorom utvrđenih nedostataka i odrediti primjereni rok u kojem nedostatke treba otkloniti ako:
+- na prodajnom mjestu na kojem se prodaju alkoholna pića i pića koja sadrže alkohol nema istaknute oznake o zabrani njihove prodaje osobama mlađim od 18 godina i/ili nema istaknute oznake o zabrani prodaje robe pornografskog sadržaja osobama mlađim od 18 godina (članak 11. stavci 2. i 6.),
+- prodajni objekt ne ispunjava propisane minimalne tehničke i druge uvjete ili ako nisu ispunjeni propisani uvjeti za prodaju izvan prodajnog objekta (članak 12.),
+- proizvodi stavljeni u promet tijekom jamstvenog roka nemaju osiguran servis i rezervne dijelove (članak 16.a).
+(12) Ako nedostaci iz stavka 11. ovoga članka ne budu otklonjeni u određenom roku, nadležni inspektor će donijeti rješenje kojim će zabraniti obavljanje djelatnosti trgovine proizvodima za koje i/ili zbog kojih je utvrđena povreda propisa, dok se utvrđeni nedostaci ne otklone.
+(13) Prestanak izrečene mjere iz stavka 11. ovoga članka inspektor će utvrditi u zapisniku o kontroli izvršenja rješenja.«.

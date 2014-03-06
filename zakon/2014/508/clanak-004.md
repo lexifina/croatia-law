@@ -1,0 +1,4 @@
+# Članak 4.
+Članak 8. mijenja se i glasi:
+»(1) Vlada će na prijedlog Ministarstva, radi osiguravanja zaštite života i zdravlja ljudi i životinja te zaštite prirode i okoliša, za određenu robu uredbom propisati posebne uvjete za obavljanje djelatnosti trgovine na veliko i trgovine s trećim zemljama, samo u posebno uređenim i opremljenim skladištima. Ovom uredbom određuju se i posebni uvjeti za skladišta i skladištenje te robe i druga pitanja s tim u vezi.
+(2) Odredbe uredbe iz stavka 1. ovoga članka neće se primjenjivati na zemlje koje su članice Europske unije, odnosno članice Europskog gospodarskog prostora i Republiku Tursku. Za potrebe ovoga Zakona, s obzirom na primjenu važećih odnosnih propisa Europske unije, ove zemlje se ne smatraju »trećim zemljama« u smislu odredbe stavka 1. ovoga članka.«.
