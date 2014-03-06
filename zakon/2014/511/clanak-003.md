@@ -1,0 +1,3 @@
+# Članak 3.
+U članku 10. stavku 1. riječi: »ne može pružati usluge turističke agencije prije nego što ishodi rješenje ureda državne uprave u županiji, odnosno upravnog tijela Grada Zagreba nadležnog za poslove turizma (u daljnjem tekstu: nadležni ured) prema sjedištu, odnosno mjestu poslovnice, odnosno poslovnog prostora turističke agencije« zamjenjuju se riječima: »smije pružati usluge u turizmu koje su utvrđene rješenjem ureda državne uprave u županiji, odnosno upravnog tijela Grada Zagreba nadležnog za poslove turizma (u daljnjem tekstu: nadležni ured) prema sjedištu, odnosno mjestu poslovnice, odnosno poslovnog prostora ili prostora stambene namjene turističke agencije«.
+U stavku 2. iza riječi: »prostor« dodaju se riječi: »ili prostor stambene namjene«.
