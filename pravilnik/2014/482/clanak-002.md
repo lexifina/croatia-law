@@ -1,0 +1,2 @@
+# Članak 2.
+Na obrazovanje maloljetnika za vrijeme izvršavanja maloljetničkih sankcija primjenjuju se odredbe Zakona o sudovima za mladež, Zakona o izvršavanju sankcija izrečenih maloljetnicima za kaznena djela i prekršaje, Zakona o izvršavanju kazne zatvora, Zakona o socijalnoj skrbi, Zakona o obrazovanju odraslih, Zakona o odgoju i obrazovanju u osnovnoj i srednjoj školi i provedbenih propisa koji proizlaze iz navedenih zakona.

@@ -1,0 +1,1 @@
+Na temelju članka 63. stavka 2. točke 5. Zakona o izvršavanju sankcija izrečenih maloljetnicima za kaznena djela i prekršaje (»Narodne novine« broj 133/12), ministar nadležan za poslove pravosuđa, uz suglasnost ministra nadležnog za poslove socijalne skrbi i ministra nadležnog za poslove obrazovanja, donosi
