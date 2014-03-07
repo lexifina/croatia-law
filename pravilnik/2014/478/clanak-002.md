@@ -1,0 +1,6 @@
+# Članak 2.
+Pojmovi koji se koriste u ovom Pravilniku imaju sljedeće značenje:
+- vojne lokacije i građevine su vojne nekretnine dane na upravljanje i raspolaganje Ministarstvu obrane za rad, smještaj i obuku zapovjedništava, postrojbi i ustanova te posebne vojne građevine specifične namjene (postrojenja, vojno-skladišni kompleksi i slično)
+- vojne lokacije i građevine posebno važne za obranu su lokacije i građevine koje su zbog svojega strateškog značaja ili namjene bitne za funkcioniranje Oružanih snaga Republike Hrvatske (u daljnjem tekstu Oružane snage)
+- osiguranje vojnih lokacija i građevina posebno važnih za obranu podrazumijeva organizaciju i provedbu sustava višestrukih mjera zaštite namijenjenih za sprječavanje neovlaštenog pristupa, uništenja ili oštećenja nekretnina, odnosno otkrivanja tajnih podataka o vojnoj lokaciji i građevini i djelatnostima u njima
+- plan zaštite vojnih lokacija i građevina je dokument kojim se na temelju procjene ugroženosti definiraju mjere osiguranja i zaštite, nositelji, zadaće i aktivnosti, tvarna potpora radi neprekidnog osiguranja i zaštite vojnih lokacija i građevina u miru, u stanju neposredne ugroženosti neovisnosti, jedinstvenosti i opstojnosti Republike Hrvatske i u ratu (u daljnjem tekstu Plan zaštite).
