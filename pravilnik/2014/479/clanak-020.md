@@ -1,0 +1,5 @@
+# Članak 20.
+(1) Vojni zrakoplov ne smije se ukloniti prije nego što se osigura očuvanje tragova i dobije suglasnost čelnika Povjerenstva, a u slučaju postojanja opravdane sumnje o postojanju kaznenog djela i uz suglasnost nadležnoga istražnog tijela.
+(2) Vojni zrakoplov može se pomaknuti bez odobrenja samo ako je to potrebno radi spašavanja osoba ili radi sprječavanja uništenja zrakoplova požarom ili na drugi način te zbog uklanjanja opasnosti odvijanja zračnog prometa.
+(3) Uklanjanje oštećenoga ili uništenoga vojnog zrakoplova, prikupljanje ostataka, čišćenje i saniranje terena na mjestu nesreće ili ozbiljne nezgode te njihov prijevoz nakon očevida na mjestu događaja obavit će operator zrakoplova prema uputama čelnika Povjerenstva.
+(4) Ako je za saniranje terena ili uklanjanje ostataka vojnoga zrakoplova potrebna specijalizirana oprema, uređaji ili sredstva prijevoza, a Oružane snage ne raspolažu takvom opremom, uređajima ili sredstvima, operator zrakoplova zatražit će je od nadležne ustrojstvene jedinice Oružanih snaga odnosno Samostalna služba za vojni zračni promet.
