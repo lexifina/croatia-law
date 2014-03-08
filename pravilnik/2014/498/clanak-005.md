@@ -1,0 +1,2 @@
+# Članak 5.
+Ako je sudac, državni odvjetnik, odnosno zamjenik državnog odvjetnika obavljao poslove dežurstva u vremenu kraćem od utvrđenog vremena dežurstva iz članka 2. ovoga Pravilnika, paušalna naknada se izračunava dijeljenjem bruto iznosa iz članka 3. i 4. s 6 i tako dobiveni iznos pomnoži s brojem sati koje je dužnosnik proveo u obavljanju poslova iz članka 2. ovoga Pravilnika (aktivno dežurstvo), ali tako da iznos isplaćene naknade ne prelazi utvrđene iznose u članku 3. i 4. ovoga Pravilnika.
