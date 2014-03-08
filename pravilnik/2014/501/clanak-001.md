@@ -1,0 +1,8 @@
+# Članak 1.
+U Pravilniku o stavljanju na tržište sjemena povrća (»Narodne novine« br. 129/2007, 78/2010 i 43/2013) u članku 1a. ispred podstavka 1. dodaju novi podstavci 1., 2. i 3. koji glase:
+»- Direktiva Vijeća 2002/55/EC od 13. lipnja 2002. o stavljanju na tržište sjemena povrća (SL L 193, 20. 7. 2002);
+- Direktiva Vijeća 2003/61/EC od 18. lipnja 2003 o izmjeni Direktiva 66/401/EEZ o stavljanju na tržište sjemena krmnog bilja, 66/402/EEZ o stavljanju na tržište sjemena žitarica, 68/193/EEZ o stavljanju na tržište materijala za vegetativno umnažanje vinove loze, 92/33/EEZ o stavljanju na tržište reprodukcijskog sadnog materijala povrća, osim sjemena, 92/34/EEZ o stavljanju na tržište voćnog reprodukcijskog sadnog materijala, 98/56/EZ o stavljanju na tržište reprodukcijskog materijala ukrasnog bilja, 2002/54/EZ o stavljanju na tržište sjemena repe, 2002/55/EZ o stavljanju na tržište sjemena povrća, 2002/56/EZ o stavljanju na tržište sjemenskog krumpira i 2002/57/EZ o stavljanju na tržište sjemena uljarica i predivog bilja, s obzirom na usporedna ispitivanja i pokuse Zajednice (SL L 165, 3. 7. 2003);
+- Direktiva Vijeća 2004/117/EC od 22. prosinca 2004. o izmjeni Direktive 66/401/EEZ, Direktive 66/402/EEZ, Direktive 2002/54/EZ, Direktive 2002/55/EZ i Direktive 2002/57/EZ u pogledu ispitivanja koja se provode pod službenim nadzorom i jednakovrijednosti sjemena proizvedenog u trećim zemljama (SL L 14, 18. 1. 2005.);
+Dosadašnji podstavci 1., 2. i 3. postaju podstavci 4., 5. i 6.
+Iza podstavka 6. dodaje se podstavak 7. koji glasi:
+»- Provedbena direktiva Komisije 2013/45/EU od 7. kolovoza 2013. o izmjeni Direktiva Vijeća 2002/55/EZ i 2008/72/EZ i Direktive Komisije 2009/145/EZ u vezi s botaničkim nazivima rajčice (SL L 213, 8. 8. 2013.).«.

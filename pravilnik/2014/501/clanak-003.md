@@ -1,0 +1,3 @@
+# Članak 3.
+U članku 31. iza stavka 4. dodaje se stavak 5. koji glasi:
+»Sjeme povrća sitnih pakiranja kategorije standard i kategorije certificirano, koje sukladno Dodatku 4. točki B. na Certifikatu proizvođača ili proizvođačkoj informaciji na pakiranju ima oznaku »RH pravila i standardi« može se stavljati isključivo na tržište Republike Hrvatske u prijelaznom razdoblju od 1. srpnja 2013. godine do 31. prosinca 2014. godine. Od dana 1. siječnja 2015. godine na tržištu Republike Hrvatske ne smiju se nalaziti sitna pakiranja sjemena kategorije standard i kategorije certificirano koje na Certifikatu proizvođača ili proizvođačkoj informaciji na pakiranju ima oznaku »RH pravila i standardi«, a plombirana su 2014. godine.«.
