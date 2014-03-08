@@ -1,0 +1,3 @@
+# Članak 1.
+U Pravilniku o uvjetima i načinu dodjeljivanja sredstava Fonda za zaštitu okoliša i energetsku učinkovitost, te kriterijima i mjerilima za ocjenjivanje zahtjeva za dodjeljivanje sredstava Fonda (»Narodne novine« broj 18/09, 42/12 i 73/13), (u daljnjem tekstu: Pravilnik), članak 2. mijenja se i glasi:
+»Korisnici sredstava Fonda, u smislu ovog Pravilnika, jesu trgovačka društva i druge pravne osobe, fizičke osobe (obrtnici), jedinice područne (regionalne) samouprave i jedinice lokalne samouprave, tijela državne uprave i ostali proračunski i izvanproračunski korisnici, te neprofitne organizacije i druge fizičke osobe.«
