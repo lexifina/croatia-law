@@ -1,0 +1,2 @@
+R J E Š E N J E
+Odbacuje se prijedlog za pokretanje postupka za ocjenu suglasnosti s Ustavom Stečajnog zakona ("Narodne novine" broj 44/96., 161/98., 29/99., 129/00. i 123/03.) i to u primjeni odredaba koje se odnose na ostvarivanje prava vlasnika (dioničara i udjeličara) u stečajnom postupku nad trgovačkim društvima u privatnom vlasništvu, posebno čl. 179. i čl. 180. u svezi s Poglavljem 23. pregovora o ulasku Republike Hrvatske u Europsku Uniju."
