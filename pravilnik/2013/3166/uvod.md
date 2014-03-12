@@ -1,0 +1,1 @@
+Na temelju članka 12. stavka 1. točka 1. i čl. 34 Zakona o elektroničkim komunikacijama (»Narodne novine« broj 73/2008., 90/2011., 133/2012. i 80/2013.), Vijeće Hrvatske agencije za poštu i elektroničke komunikacije, na sjednici održanoj 29. studenoga 2013.godine donosi
