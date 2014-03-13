@@ -1,0 +1,2 @@
+# Članak 49.
+Odredbe ovog Pravilnika koje se odnose na sadržaj Planova, Operativnih planova, Planova civilne zaštite, Vanjskih planova i Operativnog plana djelovanja Državnih intervencijskih postrojbi civilne zaštite, adekvatno se primjenjuju i kod uporabe operativnih snaga zaštite i spašavanja u otklanjanju posljedica od ratnih djelovanja i većih posljedica od terorizma na svim razinama za koje se ti planovi donose.

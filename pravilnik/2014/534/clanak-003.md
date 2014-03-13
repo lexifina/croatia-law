@@ -1,0 +1,4 @@
+# Članak 3.
+(1) Planom zaštite i spašavanja za područje Republike Hrvatske utvrđuju se nositelji, mjere i postupci u slučaju katastrofe i velike nesreće s opasnim tvarima takvih razmjera koji će tijekom provođenja aktivnosti operativnih snaga i sudionika zaštite i spašavanja na saniranju nastalih posljedica zahtijevati koordiniranje Stožera zaštite i spašavanja Republike Hrvatske.
+(2) Ravnatelj Državne uprave, uz potporu Stožera zaštite i spašavanja Republike Hrvatske, postupa po odredbama Plana zaštite i spašavanja za područje Republike Hrvatske, u pravilu kada izvanredni događaj zahvati područje dviju ili više županija i/ili prijeti mogućim prekograničnim učincima.
+(3) U provođenju aktivnosti iz stavka 2. ovog članka, ravnatelju Državne uprave potporu za provođenje mjera utvrđenih Vanjskim planovima pružaju župani, gradonačelnik Grada Zagreba i stožeri zaštite i spašavanja zahvaćenih županija i Grada Zagreba.

@@ -1,0 +1,6 @@
+# Članak 16.
+(1) Izradu Procjene ugroženosti stanovništva, materijalnih i kulturnih dobara i okoliša Republike Hrvatske (u daljnjem tekstu: državna Procjena) koordinira Državna uprava.
+(2) Državna Procjena, uz uvod, sadrži cjelovite ocjene o ugrozama u suvremenim uvjetima, svrhu i područja primjene, upravljačkim aktivnostima i nadležnostima u katastrofama i velikim nesrećama, okvirni koncept ustrojavanja sustava zaštite i spašavanja, planiranju - procjenama i potencijalima za odgovor na rizike i posljedice, ulozi države, lokalnih zajednica, nevladinih organizacija, udruga građana i dobrovoljačkih organizacija, privatnog sektora i pojedinaca u sustavu zaštite i spašavanja, privatno - javnom partnerstvu u zaštiti i spašavanju, konceptu djelovanja (na temelju planova i po razinama ustrojavanja i odgovornosti), održavanju i razvoju jedinstvenog sustava zaštite i spašavanja u Republici Hrvatskoj i drugim pitanjima od značaja za sustav zaštite i spašavanja u cjelini.
+(3) Državnu Procjenu donosi Vlada Republike Hrvatske na prijedlog Državne uprave.
+(4) Državna Procjena je javni dokument i objavljuje se u »Narodnim novinama«.
+(5) Ostali nositelji izrade obvezni su vlastite Procjene uskladiti s državnom Procjenom.

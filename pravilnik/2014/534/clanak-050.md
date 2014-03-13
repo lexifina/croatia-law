@@ -1,0 +1,5 @@
+# Članak 50.
+(1) Nositelji izrade Planova, Operativnih planova, Planova civilne zaštite, Vanjskih planova i Operativnog plana djelovanja Državnih intervencijskih postrojbi civilne zaštite dužni su kontinuirano ili najmanje jedanput godišnje, sukladno promjenama u Procjeni ili metodološkim promjenama, provoditi njihovo usklađivanje i ažuriranje.
+(2) Postupak ažuriranja planskih dokumenata na području zaštite i spašavanja iz stavka 1. ovog članka provodi se na dva načina:
+1. redovno tekuće ažuriranje priloga i podataka iz sadržaja dokumenata koje, što se tiče procedure, ne implicira identičan postupak kao prilikom njihovog usvajanja, ali se o provedenom postupku vodi službena zabilješka
+2. suštinske promjene u njihovom sadržaju, na temelju promjena u normativnom području, stanja u prostoru i povećanja urbane ranjivosti, koje zahtijevaju intervencije u drugim planskim dokumentima iste ili niže hijerarhijske razine i koje obuhvaćaju potrebu postupanja u postupku identičnom kao u postupku prilikom njihovog usvajanja.

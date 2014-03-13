@@ -1,0 +1,2 @@
+# Članak 35.
+Unutarnji plan operatera iz članka 2. stavka 10. ovog Pravilnika, pored dijelova koje propisuje središnje tijelo državne uprave za zaštitu okoliša, sadrži i podatke o sudjelovanju u zaštiti i spašavanju na razini JLP(R)S u slučajevima kada se posljedice akcidenta na postrojenju prošire izvan područja postrojenja operatera, s pregledom vlastitih snaga i sredstava za ostvarivanje Vanjskog plana.

@@ -1,0 +1,20 @@
+# Članak 2.
+(1) Procjena je polazni dokument za izradu Planova, Operativnih planova, Planova civilne zaštite i Vanjskih planova, a izrađuje se i donosi za područje općina, gradova, županija, Grada Zagreba i Republike Hrvatske.
+(2) Procjenu su dužne donijeti i pravne osobe iz stavaka 5., 6., 7., i 9. ovog članka.
+(3) Procjene pravnih osoba iz stavka 2. ovog članka obuhvaćaju građevine i prostor u njihovom vlasništvu ili na korištenju te prostor oko tih lokacija koji može biti ugrožen učincima nesreća na postrojenjima u kojima obavljaju djelatnost.
+(4) Planovi se izrađuju za područje općina, gradova, županija, Grada Zagreba i Republike Hrvatske.
+(5) Operativne planove izrađuju pravne osobe koje se bave takvom vrstom djelatnosti koja svojom naravi može ugroziti život ili zdravlje ljudi, materijalna dobra ili okoliš te pravne osobe kojima su Planovima određene razine utvrđene obveze - zadaće na području zaštite i spašavanja.
+(6) Operativne planove izrađuju pravne osobe kod kojih se u postrojenju utvrdi prisutnost opasnih tvari u količinama manjim od graničnih koje su propisane u Popisu opasnih tvari u dijelovima 1. i 2. u stupcu 2. iz Priloga I. Uredbe o sprječavanju velikih nesreća koje uključuju opasne tvari (»Narodne novine«, br. 114/08) (u daljnjem tekstu: Uredba), koje proizvode, skladište, prerađuju, rukuju, prevoze, skupljaju i obavljaju druge radnje s opasnim tvarima iz kojih proizlazi stvarna ili potencijalna opasnost (ukoliko su na lokacijama postrojenja izvedeni maksimalni kapaciteti za manipulaciju opasnim tvarima u količinama u rasponu od minimalno 1% do maksimalno 100% od graničnih količina iz Priloga I. stupca 2. Uredbe), odnosno koje:
+1. u procesu proizvodnje koriste opasne tvari
+2. posjeduju i/ili upravljaju skladištima opasnih tvari
+3. posjeduju ili upravljaju dokovima, pristaništima i ranžirnim kolodvorima ili drugom lokacijom za pretovar opasnih tvari
+4. iskorištavaju, odnosno eksploatiraju (istražuju, vade i obrađuju) mineralne sirovine u rudnicima, kamenolomima i bušotinama
+5. istražuju i vade mineralne sirovine na platformama, uključujući ugljikovodike
+6. upravljaju odlagalištima otpada.
+(7) Operativne planove izrađuju pravne osobe kod kojih se u postrojenju utvrdi prisutnost opasnih tvari u količinama iznad graničnih količina opasnih tvari u stupcu 2., a manjih od graničnih u stupcu 3. u dijelovima 1. i 2. iz Priloga I. Uredbe (pravne osobe koje su dužne sačiniti obavijest o prisutnosti malih količina opasnih tvari u postrojenju).
+(8) Pravne osobe koje obavezno izrađuju operativne planove zaštite i spašavanja dužne su pri njihovoj izradi primjenjivati odredbe iz članka 33. ovog Pravilnika, u kontekstu stvarnih uvjeta vezanih uz lokaciju postrojenja (naseljenost, vodozaštitna područja, zaštićene dijelove prirode, gospodarsko okruženje, prometno, kulturno i turističko značenje područja uz lokaciju, zaštitne udaljenosti i dr.).
+(9) Pravne osobe koje posjeduju benzinske postaje nisu dužne izraditi Operativni plan, ali za te postaje obvezne su izraditi procjene koje su na zahtjev jedinice lokalne samouprave (općine i grada) na čijem se području postaje nalaze dužne dostaviti za potrebe izrade Procjene i Planova koje te jedinice izrađuju temeljem odredbi članka 8. ovog Pravilnika.
+(10) Pravne osobe - operateri koji posjeduju ili upravljaju postrojenjem u kojem su prisutne opasne tvari po vrstama i količinama jednakim ili iznad graničnih količina iz Priloga I. u dijelu 1. i 2. u stupcu 3. Uredbe o sprječavanju velikih nesreća koje uključuju opasne tvari, umjesto Operativnih planova izrađuju unutarnje planove prema metodologiji koju propisuje središnje tijelo državne uprave nadležno za zaštitu okoliša.
+(11) Planove civilne zaštite, kao dio vlastitog Plana izrađuju jedinice lokalne i područne (regionalne) samouprave (u daljnjem tekstu: JLP(R)S).
+(12) Vanjske planove, sukladno odredbama Zakona o zaštiti i spašavanju i ovog Pravilnika izrađuju županije i Grad Zagreb.
+(13) Operativni plan djelovanja Državnih intervencijskih postrojbi civilne zaštite izrađuje Državna uprava.
