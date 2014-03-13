@@ -1,0 +1,3 @@
+# Članak 10.
+Operator, druga pravna osoba, obrtnik ili druga fizička osoba, koji na području graničnog prijelaza obavlja gospodarsku djelatnost ili se kreće i zadržava iz drugih opravdanih razloga, dužan je najmanje 24 sata prije nego što zaposlenik započne s radom, odnosno od dana saznanja o dolasku osobe koja će se privremeno kretati ili zadržavati na području graničnog prijelaza, pisanim ili elektroničkim putem dostaviti osobne podatke zaposlenika i osoba koje će se privremeno kretati i zadržavati na području graničnih prijelaza.
+Podaci koji se dostavljaju moraju sadržavati: ime i prezime zaposlenika, OIB, datum rođenja, broj osobne isprave, prebivalište, državljanstvo, naziv pravne ili fizičke osobe kao obrtnika, OIB i naziv graničnog prijelaza.
