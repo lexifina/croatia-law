@@ -1,0 +1,2 @@
+# Članak 7.
+Rješavanje zahtjeva korisnika koji su podnijeli zahtjev za stambeno zbrinjavanje davanjem u najam stana ili obiteljske kuće u državnom vlasništvu i nalaze se na prvoj listi prvenstva mjesno nadležni ured državne uprave u županiji, odnosno nadležno upravno tijelo Grada Zagreba vrši prema broju i površini raspoloživih stambenih jedinica. Raspoloživa stambena jedinica daje se u najam obitelji s prve liste prvenstva kojoj odgovara površina raspoložive stambene jedinice i koja ima najveći broj bodova na listi.

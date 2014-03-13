@@ -1,0 +1,3 @@
+# Članak 10.
+(1) Rješavanje zahtjeva korisnika koji su podnijeli zahtjev za stambeno zbrinjavanje darovanjem građevinskog materijala za popravak, obnovu i nadogradnju obiteljske kuće ili stana, odnosno izgradnju obiteljske kuće na građevinskom zemljištu u svom vlasništvu i nalaze se na četvrtoj listi prvenstva mjesno nadležni ured državne uprave u županiji, odnosno nadležno upravno tijelo Grada Zagreba vrši prema broju bodova na listi prvenstva na način da se prvo rješavaju zahtjevi koji imaju najveći broj bodova na listi.
+(2) Broj zahtjeva korisnika koji se rješavaju u tekućoj godini ovisi o osiguranim sredstvima u tekućoj proračunskoj godini za tu namjenu.

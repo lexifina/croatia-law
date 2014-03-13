@@ -1,0 +1,2 @@
+# Članak 9.
+Rješavanje zahtjeva korisnika koji su podnijeli zahtjev za stambeno zbrinjavanje darovanjem građevinskog zemljišta i nalaze se na trećoj listi prvenstva mjesno nadležni ured državne uprave u županiji, odnosno nadležno upravno tijelo Grada Zagreba vrši prema broju i površini raspoloživih građevinskih čestica. Raspoloživa građevinska čestica daruje se obitelji s treće liste prvenstva kojoj odgovara površina raspoložive građevinske čestice i koja ima najveći broj bodova na listi.
