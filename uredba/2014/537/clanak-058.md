@@ -1,0 +1,4 @@
+## VIII. ZAMJENA BRODA
+# Članak 58.
+Kada to zahtijevaju prometne potrebe davatelj koncesije odnosno javni naručitelj može odobriti na zahtjev brodara da se na nekoj liniji umjesto broda za koji je potpisan ugovor o javnoj usluzi, koristi brod manjeg ili većeg kapaciteta, uz uvjet da se radi o manjem odstupanju i da to ne utječe na kvalitetu prijevoza, sve u cilju redovitog obavljanja javnog prijevoza na toj liniji.
+U cilju racionalizacije, davatelj koncesije odnosno javni naručitelj može, iznimno, odobriti na zahtjev brodara da se na nekoj liniji veći broj brodova manjeg kapaciteta zamijeni sa manjim brojem tehnološki novijih brodova većeg kapaciteta uz odgovarajuće smanjenje broja putovanja, pod uvjetom poštivanja zadanog kapaciteta odnosno da ne dođe do smanjenja ukupnog kapaciteta, da se ne ugrozi odnosno pogorša povezivanje otoka s kopnom i da se ne poveća naknada za obavljanje javne usluge.

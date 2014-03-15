@@ -1,0 +1,6 @@
+## IV. KRITERIJI ZA DAVANJE NAKNADE ZA OBAVLJANJE JAVNE USLUGE NA LINIJAMA ISPOD PRAGA OD 300.000 PUTNIKA
+# Članak 37.
+Za naknade za obavljanje javne usluge na linijama koje javni naručitelj definira kao linije na kojima prosječni godišnji promet u dvije godine koje prethode godini u kojoj je povjereno obavljanje usluge od općeg gospodarskog interesa ne prelazi 300 000 putnika izravno se primjenjuju odredbe Odluke Komisije 2012/21/EU od 20. prosinca 2011. o primjeni članka 106. stavka 2. Ugovora o funkcioniranju Europske unije u odnosu na državne potpore u obliku naknade za pružanje javnih usluga koje se dodjeljuju određenim poduzetnicima kojima je povjereno obavljanje usluga od općeg gospodarskog interesa (SL L7, 11. 1. 2012.).
+Način ostvarivanja naknade za pružanje javnih usluga prema stavku 1. ovoga članka, rokovi, kriteriji i drugi uvjeti sukladno propisima o državnim potporama detaljnije se utvrđuju programom državnih potpora za obavljanje javne usluge na linijama ispod praga od 300 000 putnika.
+Za linije iz stavka 1. ovoga članka javni naručitelj sklapa ugovor o obavljanju javnog prijevoza s najpovoljnijim ponuditeljem.
+Svake dvije godine Ministarstvo putem Agencije za zaštitu tržišnog natjecanja podnosi Europskoj Komisiji izvješće o provedbi ove Odluke, sukladno obvezi koja proizlazi iz iste.

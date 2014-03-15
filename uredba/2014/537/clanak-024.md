@@ -1,0 +1,2 @@
+# Članak 24.
+Ako u slučaju iz članka 13. ove Uredbe jedan ponuditelj s istim brodom bude od strane stručnog povjerenstva odnosno ovlaštenih predstavnika naručitelja ocijenjen kao najpovoljniji na više linija, nadležno tijelo za donošenje odluke o odabiru najpovoljnijeg ponuditelja odlučuje na kojoj će liniji tom ponuditelju ponuditi sklapanje ugovora, a ponuda neće biti prihvaćena na drugim linijama.

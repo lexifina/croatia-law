@@ -1,0 +1,8 @@
+# Članak 49.
+Na kraju poslovne godine brodar dostavlja financijska izvješća za svaku liniju pojedinačno po principu odvojenog knjigovodstva. Javni naručitelj je obvezan izvršiti računovodstvenu kontrolu kojom se utvrđuju konačni stvarni troškovi i prihodi linije na kraju svake poslovne godine.
+Brodar dostavlja financijsko izvješće linije (Račun dobiti i gubitka linije) javnom naručitelju najkasnije do 15. travnja tekuće godine za proteklu godinu.
+U slučaju da se računovodstvenom kontrolom utvrdi da je brodaru isplaćen veći iznos naknade za obavljanje javne usluge, u odnosu na konačne troškove i prihode utvrđene na način iz stavka 1. i 2. ovoga članka, javni naručitelj će zatražiti od brodara povrat više uplaćenih sredstava naknade za obavljanje javne usluge u proračun.
+Povrat naknade za obavljanje javne usluge temeljem stavka 3. ovoga članka izvršit će se do 1. srpnja tekuće godine.
+U slučaju da konačni stvarni troškovi i prihodi, utvrđeni na način predviđen u stavcima 1. i 2. ovoga članka, rezultiraju potrebnom većom potporom u odnosu na naknadu za obavljanje javne usluge izračunatu prema članku 48. ove Uredbe, javni naručitelj će izvršiti korekciju naknade za obavljanje javne usluge.
+Korekcija potpore prema stavku 5. ovoga članka može iznositi najviše do 10% naknade za obavljanje javne usluge iz članka 48. ove Uredbe, bez obzira na utvrđeni rezultat razlike.
+Javni naručitelj pored dostavljenog financijskog izvješća može zatražiti stručno mišljenje od nezavisne i ovlaštene pravne ili fizičke osobe, a sve u svrhu dobro obavljene računovodstvene kontrole i sprečavanja isplate prekomjerne naknade za obavljanje javne usluge.

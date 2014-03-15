@@ -1,0 +1,2 @@
+# Članak 40.
+Naknada mora biti dodijeljena za stvarnu i jasno utvrđenu uslugu od općeg gospodarskog interesa u skladu sa člankom 106. stavkom 2. Ugovora o funkcioniranju Europske unije i smjernicama o zahtjevima koji se odnose na definiciju javne usluge od općeg gospodarskog interesa iz Priopćenja o primjeni pravila o državnim potporama Europske unije na naknade koje se dodjeljuju za pružanje usluga od općeg gospodarskog interesa.
