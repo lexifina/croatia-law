@@ -1,0 +1,8 @@
+## V. DODATNI ORGANIZACIJSKI ZAHTJEVI ZA INVESTICIJSKA DRUŠTVA KOJA IZRAĐUJU I/ILI DISTRIBUIRAJU INVESTICIJSKA ISTRAŽIVANJA
+# Članak 35.
+U smislu ovog Pravilnika investicijsko istraživanje je istraživanje ili druga vrsta izvještaja koja sadrži izričitu ili prešutnu preporuku ili prijedlog u svezi investicijske strategije koja se odnosi na jedan ili više financijskih instrumenata ili izdavatelja financijskih instrumenata, a koje može uključivati vrijednosni sud o sadašnjoj ili budućoj vrijednosti tih instrumenata, namijenjeno distribucijskim kanalima ili javnosti i ako se na navedena istraživanja ili izvještaje odnose sljedeći uvjeti:
+1. da je označeno ili opisano kao investicijsko istraživanje, ili sličnim izrazima, ili na drugi način predstavljeno kao objektivno ili nezavisno objašnjenje materije sadržane u preporuci,
+2. ako je preporuku o kojoj je riječ izradilo investicijsko društvo za klijenta, to neće predstavljati pružanje usluge investicijskog savjetovanja u smislu Zakona.
+Preporuka iz članka 471. Zakona koja se odnosi na financijske instrumente u smislu Zakona, ali koja ne ispunjava uvjete iz stavka 1. ovog članka smatrat će se promidžbenom komunikacijom u smislu Zakona, te je investicijsko društvo koje ih izrađuje i distribuira dužno jasno navesti kao promidžbenu komunikaciju.
+Investicijsko društvo dužno je osigurati da preporuka iz stavka 2. ovog članka sadrži jasno istaknutu izjavu da nije izrađena u skladu sa zakonskim zahtjevima koji osiguravaju neovisnost investicijskog istraživanja te da ne podliježe zabrani trgovanja prije distribuiranja investicijskog istraživanja.
+Ako je preporuka iz stavka 2. ovog članka dana usmeno, mora sadržavati izjavu učinka istovjetnog izjavi iz stavka 3. ovog članka.

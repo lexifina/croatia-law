@@ -1,0 +1,9 @@
+# Članak 27.
+(1) Investicijsko društvo može koristiti financijske instrumente klijenata za transakcije financiranja vrijednosnih papira ili na drugi način (za vlastiti račun ili za račun drugog klijenta investicijskog društva), samo ako je klijent prethodno dao izričitu suglasnost za korištenje njegovih financijskih instrumenata pod točno određenim uvjetima, pri čemu korištenje financijskih instrumenata klijenta mora biti ograničeno na točno određene uvjete, s kojima se klijent usuglasio. Mali ulagatelj svoju izričitu suglasnost potvrđuje potpisom.
+(2) Investicijsko društvo može financijske instrumente klijenata koje drži na zbirnom računu kod treće strane koristiti za transakcije kojima se financiraju vrijednosni papiri ili na drugi način (za vlastiti račun ili za račun drugog klijenta investicijskog društva), samo ako je uz uvjete propisane stavkom 1. ovog članka ispunjen i najmanje jedan od sljedećih uvjeta:
+1. svaki od klijenata čiji se financijski instrumenti drže zajedno na zbirnom računu mora dati izričitu prethodnu suglasnost, na način propisan stavkom 1. ovog članka, ili
+2. investicijsko društvo mora ustrojiti sustav kontrole koji osigurava da se koriste isključivo financijski instrumenti klijenata koji su dali izričitu prethodnu suglasnost, na način propisan stavkom 1. ovog članka.
+(3) Investicijsko društvo dužno je voditi evidencije o korištenju financijskih instrumenata klijenata, a koje uključuju najmanje:
+1. pojedinosti o klijentu po čijoj uputi je korištenje financijskih instrumenata bilo provedeno i
+2. količinu korištenih financijskih instrumenata, razvrstano po klijentima koji su dali prethodnu suglasnost za korištenje njihovih financijskih instrumenata.
+(4) Evidencije iz stavka 3. ovog članka moraju se voditi na način koji će omogućavati ispravnu alokaciju mogućih gubitaka.

@@ -1,0 +1,9 @@
+## Odbor za imenovanja
+# Članak 45.
+(1) Odbor za imenovanja iz članka 23.a. stavka 1. točke 1. Zakona obavlja sljedeće zadaće:
+1. određuje i preporučuje kandidate za popunjavanje slobodnih radnih mjesta u upravljačkom tijelu, koje odobrava upravljačko tijelo ili glavna skupština, ocjenjuje ravnotežu između znanja, vještina, raznolikosti i iskustva upravljačkog tijela i priprema opis uloga i kvalifikacija za određeno imenovanje te predlaže trajanje mandata članova upravljačkog tijela. Nadalje, odbor za imenovanja odlučuje o ciljanoj zastupljenosti spola koji je premalo zastupljen u upravljačkom tijelu i priprema politiku o načinu povećavanja broja premalo zastupljenog spola u upravljačkom tijelu kako bi se postigla ciljana zastupljenost. Ciljana zastupljenost, politika i njezina provedba javno se objavljuju u skladu s člankom 435. stavkom 2. točkom (c) Uredbe (EU) br. 575/2013;
+2. periodično, a barem jednom godišnje, ocjenjuje strukturu, veličinu, sastav i uspješnost upravljačkog tijela te daje preporuke upravljačkom tijelu vezane uz bilo kakve promjene;
+3. periodično, a barem jednom godišnje, ocjenjuje znanje, vještine i iskustvo pojedinih članova upravljačkog tijela i upravljačkog tijela kao cjeline te o tome izvješćuje upravljačko tijelo;
+4. periodično provjerava politike upravljačkog tijela za odabir i imenovanje višeg rukovodstva i daje preporuke upravljačkom tijelu.
+(2) U izvršavanju svojih dužnosti odbor za imenovanja, u mjeri u kojoj je to moguće i na kontinuiranoj osnovi, vodi računa o potrebi osiguravanja izbjegavanja dominacije pojedinca ili male grupe pojedinaca pri odlučivanju upravljačkog tijela na način koji je štetan za interese društva kao cjeline.
+(3) Odbor za imenovanja može se koristiti bilo kojim oblicima resursa koje smatra prikladnim, uključujući vanjsko savjetovanje te za to prima odgovarajuća financijska sredstva.

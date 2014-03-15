@@ -1,0 +1,1 @@
+Na temelju odredbi članka 23.a stavaka 8. i 9., članka 38.a stavka 3. i članaka 43. i 53. Zakona o tržištu kapitala (»Narodne novine« br. 88/08, 146/08, 74/09, 54/13 i 159/13), Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća 28. veljače 2014. godine donosi

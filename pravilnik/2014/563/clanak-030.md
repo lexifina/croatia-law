@@ -1,0 +1,16 @@
+# Članak 30.
+POLITIKA UPRAVLJANJA SUKOBOM INTERESA
+(1) Investicijsko društvo dužno je u pisanom obliku izraditi te primjenjivati i redovito ažurirati učinkovitu politiku upravljanja sukobom interesa.
+(2) Politika iz stavka 1. ovog članka mora biti primjerena veličini i organizacijskom ustroju investicijskog društva, kao i prirodi, opsegu i složenosti poslova koje investicijsko društvo obavlja.
+(3) Kada je investicijsko društvo član grupe, politika upravljanja sukobom interesa mora sadržavati sve okolnosti koje su poznate investicijskom društvu ili su mu s obzirom na okolnosti morale biti poznate a koje mogu dovesti do sukoba interesa koji proizlazi iz strukture i poslovnih aktivnosti drugih članova grupe.
+(4) Politika iz stavka 1. ovog članka mora sadržavati sljedeće:
+1. utvrđene okolnosti koje predstavljaju ili koje mogu dovesti do sukoba interesa na štetu jednog ili više klijenata, a vezano uz pojedinu investicijsku uslugu, aktivnost i pomoćnu uslugu izvršenu od strane ili za investicijsko društvo,
+2. postupke kojih se investicijsko društvo mora pridržavati i mjere koje mora primjenjivati za upravljanje navedenim sukobom interesa.
+(5) Prilikom utvrđivanja postupaka i mjera iz stavka 4. točke 2. ovog članka, investicijsko društvo dužno je osigurati da relevantne osobe uključene u različite poslovne aktivnosti, a koje uključuju mogući sukob interesa iz stavka 4. točke 1. ovog članka, obavljaju te aktivnosti neovisno uzevši u obzir veličinu i poslovne aktivnosti investicijskog društva i grupe kojoj investicijsko društvo pripada, kao i značaj rizika od štete za interese klijenata.
+(6) Mjere i postupci iz stavka 4. točke 2. ovog članka moraju, u svrhu osiguranja potrebnog stupnja neovisnosti propisanog stavkom 5. ovog članka, uključivati sljedeće:
+1. učinkovite postupke za sprječavanje ili kontrolu razmjene podataka između relevantnih osoba uključenih u različite poslovne aktivnosti koji uključuju sukob interesa, a kada bi razmjena podataka mogla naštetiti interesima jednog ili više klijenata,
+2. odvojeni nadzor nad relevantnim osobama čija primarna funkcija uključuje poslovne aktivnosti za klijenta ili pružanje usluga klijentima čiji interesi mogu doći u sukob ili koje na drugi način zastupaju različite interese koji mogu biti u sukobu, uključujući i interese samog investicijskog društva,
+3. uklanjanje svake neposredne povezanosti između primanja relevantnih osoba koje su većim dijelom uključene u jednu poslovnu aktivnosti i primanja ili dobiti koju ostvare druge relevantne osobe većim dijelom uključene u drugu poslovnu aktivnost kada do sukoba interesa može doći u svezi s tim aktivnostima,
+4. mjere kojima se bilo kojoj osobi sprječava ili ograničava neprimjeren utjecaj na način na koji relevantne osobe obavljaju i pružaju investicijske ili pomoćne usluge ili aktivnosti,
+5. mjere kojima se sprječava ili kontrolira istovremeno ili uzastopno sudjelovanje relevantnih osoba u različitim investicijskim ili pomoćnim uslugama ili investicijskim aktivnostima, kada takvo sudjelovanje može imati negativan utjecaj na upravljanje sukobom interesa.
+(7) Ako donošenje ili postupanje po jednoj ili više mjera i postupaka ne osigurava traženi stupanj neovisnosti, investicijsko društvo je dužno donijeti zamjenske ili dodatne mjere i postupke koji su potrebni i prikladni za navedenu svrhu.
