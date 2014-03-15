@@ -1,0 +1,6 @@
+# Članak 3.
+Nakon zaprimljenog zahtjeva, nadležna policijska uprava pribavlja od nadležnog područnog carinskog ureda i drugih nadležnih službi mišljenje potrebno za odlučivanje o opravdanosti donošenja rješenja o određivanju privremenog graničnog prijelaza te mišljenje nadležnih regionalnih tijela susjedne države. Pribavljena mišljenja, uz svoje mišljenje, nadležna policijska uprava dostavlja Ministarstvu.
+Kada je podnesen zahtjev za određivanje privremenog graničnog prijelaza na granici s Mađarskom ili Republikom Slovenijom, nije potrebno pribavljati mišljenja od nadležnog područnog carinskog ureda i drugih nadležnih službi.
+Kada je podnesen zahtjev za određivanje privremenog graničnog prijelaza na aerodromu, morskoj luci i luci unutarnjih voda, potrebno je pribaviti prethodnu suglasnost ministra nadležnog za poslove financija i ministra nadležnog za pomorstvo, promet i infrastrukturu za donošenje rješenja o određivanju takvog privremenog graničnog prijelaza.
+Na temelju dokumentacije iz stavaka 1. i 3. ovoga članka, ministar unutarnjih poslova rješenjem će odlučiti o zahtjevu iz članka 2. ovoga Pravilnika.
+Rješenje o određivanju privremenog graničnog prijelaza, nadležna ustrojstvena jedinica Ministarstva bez odgode dostavlja nadležnoj policijskoj upravi.

@@ -1,0 +1,47 @@
+Obrazac 1
+___________________________________________
+(naziv pravne osobe, odnosno ime i prezime fizičke osobe)
+___________________________________________
+(OIB)
+__________________________________________________
+(mjesto, ulica i broj sjedišta pravne osobe,
+odnosno prebivališta fizičke osobe)
+___________________________________________
+(broj kontakt telefona/faksa)
+POLICIJSKA UPRAVA __________________________
+__________________________________________________
+(mjesto sjedišta i adresa nadležne policijske uprave)
+Na temelju članka 2. Pravilnika o određivanju privremenih graničnih
+prijelaza podnosim:
+ZAHTJEV
+za određivanje privremenoga graničnog prijelaza
+Zahtjev se podnosi radi održavanja kratkotrajne djelatnosti: _____
+_________________________________________________
+__________________________________________________
+__________________________________________________
+(opis djelatnosti za koju postoji opravdani interes podnositelja zahtjeva)
+Mjesto u kojem se traži određivanja privremenoga graničnog prijelaza: __
+__________________________________________________
+__________________________________________________
+__________________________________________________
+(mjesto određivanja privremenog graničnog prijelaza, s precizno navedenim
+mjestom prelaženja državne granice)
+Vrijeme održavanja djelatnosti: ___________________________
+__________________________________________________
+__________________________________________________
+(vrijeme održavanja djelatnosti, odnosno vrijeme za koje je potrebno odrediti
+privremeni granični prijelaz)
+Način prelaženja državne granice tijekom održavanja kratkotrajne
+djelatnosti:
+__________________________________________________
+__________________________________________________
+__________________________________________________
+__________________________________________________
+__________________________________________________
+(pješice ili navesti sredstvo prelaska i stvari koje će osobe nositi tijekom
+obavljanja djelatnosti)
+Mjesto i datum: Potpis podnositelja zahtjeva
+_______________ ____________________________
+(potpis odgovorne osobe
+u pravnoj osobi ili fizičke osobe)
+| 31 07.03.2014 Pravilnik o određivanju privremenih graničnih prijelaza 31 07.03.2014 Pravilnik o određivanju privremenih graničnih prijelaza 31 07.03.2014 Pravilnik o određivanju privremenih graničnih prijelaza
