@@ -1,0 +1,5 @@
+# Članak 5.
+(1) Osobni automobil (7+1) i (8+1) kojim se obavlja shuttle prijevoz i povremeni prijevoz, te osobni automobil (8+1) kojim se obavlja posebni linijski i linijski prijevoz putnika mora ispunjavati sljedeće uvjete: ime i prezime te prebivalište fizičke osobe - obrtnika, odnosno naziv tvrtke i sjedište pravne osobe istaknuto najmanje na vanjskim bočnim stranama vozila. Podaci navedeni na bočnim stranama vozila moraju odgovarati podacima navedenim u licenciji za obavljanje djelatnosti javnog cestovnog prijevoza. Visina slova u natpisu ne smije biti manja od 30 mm.
+(2) Prilikom obavljanja prijevoza iz stavka 1. ovoga članka, ovisno o vrsti prijevoza kojeg obavlja, u vozilu mora biti istaknut natpis o vrsti prijevoza: » SHUTTLE PRIJEVOZ, »POVREMENI PRIJEVOZ«, »POSEBNI LINIJSKI« ili »LINIJSKI PRIJEVOZ PUTNIKA«.
+(3) Ako se osobnim vozilom (8+1) obavlja linijski prijevoz putnika potrebno je istaknuti natpis s naznakom polaznog i dolaznog mjesta, ili naziv odredišta ako se prijevoz obavlja unutar zona koje određuju jedinice lokalne samouprave.
+3. Autobus
