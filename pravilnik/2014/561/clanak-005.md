@@ -1,0 +1,5 @@
+# Članak 5.
+(1) Investicijsko društvo dužno je redovito provjeravati točnost ulaznih podataka koji se upotrebljavaju pri izračunu pokazatelja likvidnosti.
+(2) Investicijsko društvo dužno je aktivno upravljati imovinom, odvojeno voditi evidencije o založenoj i slobodnoj imovini te pratiti visinu raspoložive imovine prema fizičkim i pravnim osobama kod kojih je u posjedu i državi u kojoj je zakonski upisana u registar ili na račun. Investicijsko društvo dužno je pratiti prihvatljivost instrumenata osiguranja radi njihova pravodobnog korištenja, a osobito korištenja u izvanrednim situacijama.
+(3) Investicijsko društvo dužno je također uzimati u obzir postojeća pravna, regulatorna i operativna ograničenja u prijenosu likvidne i neopterećene imovine između subjekata unutar i izvan Europskoga gospodarskog prostora.
+(4) Investicijsko društvo dužno je izraditi metodologiju utvrđivanja, mjerenja i praćenja pozicija financiranja te upravljanja istima koja obuhvaća tekuće i planirane materijalno značajne novčane tokove koji proizlaze iz imovine, obveza i izvanbilančnih stavki, uključujući i potencijalne obveze te mogući utjecaj reputacijskog rizika.

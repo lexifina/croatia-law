@@ -1,0 +1,1 @@
+Na temelju odredbe članka 163. stavka 4. Zakona o tržištu kapitala (»Narodne novine« broj 88/08, 146/08, 74/09, 54/13 i 159/13), Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća 28. veljače 2014. godine donosi
