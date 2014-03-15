@@ -1,0 +1,4 @@
+# Članak 8.
+U članku 11. stavku 1. iza riječi: »ove Uredbe« briše se zarez i dodaju riječi: »odnosno ukoliko poslodavac nije putem Obrasca JOPPD za svakog pojedinog osiguranika s osnove radnog odnosa i/ili osiguranika s osnove radnog odnosa - izaslanog radnika kod tog poslodavca dostavio podatak o mjesečnoj obvezi doprinosa dospjeloj u tom mjesecu ili podatak o činjenici da u tom mjesecu ne postoji obveza doprinosa zbog korištenja prava iz socijalnih osiguranja,«.
+U stavku 2. briše se točka i dodaju riječi: »odnosno zabrani banci da poslodavcu koji ne uplaćuje doprinose ili trećoj osobi, po nalogu poslodavca, isplati s njegovog računa novčani iznos za koji je određena mjera osiguranja.«.
+U stavku 3. iza riječi: »rješenjem« dodaju se riječi: »kojim stječe založno pravo na predmetu osiguranja iz stavka 2. ovoga članka«.

@@ -1,0 +1,1 @@
+Na temelju članka 248.b Zakona o doprinosima (»Narodne novine«, br. 84/2008, 152/2008, 94/2009, 18/2011, 22/2012, 144/2012 i 148/2013), Vlada Republike Hrvatske je na sjednici održanoj 5. ožujka 2014. godine donijela
