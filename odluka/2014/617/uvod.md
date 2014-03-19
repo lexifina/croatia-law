@@ -1,0 +1,1 @@
+Na osnovi članka 24. Statuta Hrvatskog zavoda za zdravstveno osiguranje (»Narodne novine« broj 18/09., 33/10., 8/11., 18/13. i 1/14.) Upravno vijeće Hrvatskog zavoda za zdravstveno osiguranje na 58. sjednici održanoj 26. veljače 2014. godine donijelo je
