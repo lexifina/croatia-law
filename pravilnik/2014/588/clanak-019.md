@@ -1,0 +1,7 @@
+## Aktivnosti koje slijede nakon provedenog postupka procjene ispunjavanja uvjeta za člana uprave
+# Članak 19.
+(1) Nadzorni odbor izdaje pisanu suglasnost iz članka 9. stavka 2. Pravilnika kandidatu za člana uprave temeljem procjene koja mu je dostavljena u skladu s politikom o postupku procjene ispunjenja uvjeta za člana uprave burze iz članka 17. Pravilnika.
+(2) Ako burza u postupku naknadne procjene ispunjavanja uvjeta članova uprave utvrdi da član uprave više nije primjeren, dužna je obavijestiti Agenciju. Ako burza ocijeni da su nedostaci u primjerenosti manji i da ih je moguće otkloniti u kratkom roku, burza može poduzeti odgovarajuće mjere kojima će se ponovno uspostaviti primjerenost tog člana.
+(3) U slučaju iz stavka 2. ovoga članka burza je dužna u roku iz članka 15. stavka 3. Pravilnika, računajući od dana završetka postupka procjene, obavijestiti Agenciju o rezultatima procjene i svojoj odluci te mjerama koje je odlučila poduzeti radi uspostave njegove ponovne primjerenosti. Rezultate procjene i odluku burza je dužna obrazložiti.
+(4) Burza je dužna sve postupke procjene ispunjavanja uvjeta pojedinih članova uprave adekvatno dokumentirati.
+(5) Burza je dužna obvezati članove uprave da je obavijeste o svakom bitnom događaju ili okolnosti koja značajno utječe na njihovu primjerenost za obnašanje dužnosti na koju su imenovani, odnosno najmanje jednom godišnje da je obavijeste o činjenici da su podaci na temelju kojih je izvršena inicijalna procjena ispunjavanja uvjeta za člana uprave burze, nepromijenjeni.

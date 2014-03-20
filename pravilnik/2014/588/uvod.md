@@ -1,0 +1,1 @@
+Na temelju odredbi članka 286. stavak 6. Zakona o tržištu kapitala (»Narodne novine« broj 88/08, 146/08, 74/09, 54/13 i 159/13) Hrvatska agencija za nadzor financijskih usluga je na sjednici Upravnog vijeća održanoj 7. ožujka 2014. donijela
