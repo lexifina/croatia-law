@@ -1,0 +1,3 @@
+## Likvidacija otvorenog AIF-a s javnom ponudom
+# Članak 5.
+Ako se radi o otvorenom AIF-u s javnom ponudom, na postupak njegove likvidacije, dostavu i sadržaj obavijesti imateljima udjela o početku likvidacije, izvještavanje Agencije o tijeku likvidacije, rokove za provođenje likvidacije, na unovčavanje imovine i isplatu imatelja udjela, na troškove likvidacije te na prestanak i produljenje trajanja AIF-a osnovanog na određeno vrijeme primjenjuju se na odgovarajući način odredbe Pravilnika o likvidaciji i prestanku UCITS fondova, ako odredbama ovoga Pravilnika nije izričito drugačije propisano.

@@ -1,0 +1,9 @@
+## Izvještavanje Agencije o tijeku likvidacije otvorenog AIF-a s privatnom ponudom
+# Članak 7.
+(1) Likvidator otvorenog AIF-a je dužan u roku od 30 dana od dana donošenja odluke o likvidaciji, odnosno od dana imenovanja likvidatorom izraditi i dostaviti Agenciji i depozitaru plan likvidacijskog postupka i izvještaj o stanju imovine i obveza otvorenog AIF-a sa stanjem na dan koji prethodi danu donošenja odluke o likvidaciji otvorenog AIF-a.
+(2) Likvidator je dužan u roku od 60 dana od dana donošenja odluke o likvidaciji otvorenog AIF-a izraditi i dostaviti Agenciji revidirane godišnje izvještaje iz članka 215. Zakona sa stanjem na dan koji prethodi danu donošenja odluke o likvidaciji otvorenog AIF-a.
+(3) Likvidator je dužan dostavljati mjesečno, najkasnije do 5-og radnog dana u mjesecu za prethodni mjesec, izvještaj o tijeku postupka likvidacije i radnjama provođenja plana likvidacijskog postupka.
+(4) Izvještaj iz stavka 3. ovoga članka likvidator dostavlja Agenciji u pisanom obliku poštom ili na drugom odgovarajućem trajnom mediju.
+(5) Likvidator je dužan u roku od 15 dana od dana podmirenja svih obveza otvorenog AIF-a i isplate preostale imovine imateljima udjela izraditi i Agenciji dostaviti zaključna likvidacijska izvješća i izvješće o provedenoj likvidaciji otvorenog AIF-a.
+(6) Iznimno od odredaba stavka 1.,2., 3. i 5. ovoga članka, u slučaju likvidacije iz članka 3. stavak 4. ovoga Pravilnika, likvidator je dužan u roku od 30 dana od dana donošenja odluke o likvidaciji izraditi i dostaviti Agenciji i depozitaru samo izvještaj o stanju imovine i obveza AIF-a sa stanjem na dan koji prethodi danu donošenja odluke o likvidaciji. Ova iznimka se primjenjuje i na likvidaciju otvorenih AIF-ova s javnom ponudom.
+(7) Nakon završetka postupka likvidacije, likvidator je dužan sve poslovne knjige otvorenog AIF-a čuvati sukladno računovodstvenim propisima.

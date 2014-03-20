@@ -1,0 +1,7 @@
+## LIKVIDACIJA ZATVORENOG AIF-a
+# Članak 2.
+(1) Ako Zakonom nije drugačije propisano, likvidacija zatvorenog AIF-a provodi se u skladu s odredbama zakona koji uređuje osnivanje i poslovanje trgovačkih društava.
+(2) Likvidator zatvorenog AIF-a je dužan sljedeći radni dan od donošenja odluke o likvidaciji, odnosno od dana imenovanja likvidatorom o tome obavijestiti Agenciju te joj u roku od 30 dana dostaviti plan likvidacijskog postupka i izvještaj o stanju imovine i obveza AIF-a sa stanjem na dan koji prethodi danu donošenja odluke o likvidaciji.
+(3) Likvidator je dužan u roku od 60 dana od dana donošenja odluke o likvidaciji zatvorenog AIF-a izraditi i dostaviti Agenciji revidirane godišnje izvještaje iz članka 215. Zakona, sa stanjem na dan koji prethodi danu donošenja odluke o likvidaciji zatvorenog AIF-a.
+(4) Likvidator je dužan dostavljati mjesečno, u pisanom obliku poštom ili na drugom odgovarajućem trajnom mediju najkasnije do 5-og radnog dana u mjesecu za prethodni mjesec, izvještaj o tijeku postupka likvidacije i aktivnostima poduzetim vezano uz izvršenje plana likvidacijskog postupka.
+(5) Likvidator je dužan u roku od 15 dana od dana podmirenja svih obveza zatvorenog AIF-a i isplate ili prijenosa preostale imovine AIF-a imateljima udjela, odnosno dioničarima izraditi i Agenciji dostaviti zaključna likvidacijska izvješća i izvješće o provedenoj likvidaciji zatvorenog AIF-a.
