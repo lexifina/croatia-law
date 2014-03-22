@@ -1,0 +1,7 @@
+# Članak 15.
+Položaj motrionice ili motriteljskog mjesta mora biti takav da osigurava širok i slobodan pregled okoline, a određivanje broja motrionica odnosno motriteljskih mjesta ovisi o obliku terena.
+Udaljenost između motrionica i motriteljskih mjesta u pravilu ne smije biti veća od 15 km u slučaju da nije organizirana ophodarska služba, a smjer motrenja u pravilu ne smije ići preko morske površine.
+Motrionica i motriteljsko mjesto moraju biti opskrbljeni dalekozorom, preglednim zemljovidom područja motrenja, odgovarajućim sustavom za dojavu požara i popisom čimbenika koji su uključeni u gašenje požara (vatrogasci, policija, centar motrenja i obavješćivanja, ovlaštene ustrojstvene jedinice pravnih osoba za gospodarenje i upravljanje šumama i šumskim zemljištem i drugi) te, ukoliko se motrionica ili motriteljsko mjesto nalazi unutar šume, i osnovnim priručnim alatom za gašenje početnih požara (metlanica, brentača ili naprtnjača, sjekira, lopata).
+Dojava požara s motrionice ili motriteljskog mjesta obavlja se radiovezom koja radi na vatrogasnim kanalima, te mobitelom ili telefonom.
+Za potrebe motriteljsko-dojavne službe vode se dnevnici motrenja odnosno ophodarenja na Obrascima 3a, 3b, 4a, 4b i 4c, koji su tiskani u Prilogu 2. ovog Pravilnika i njegov su sastavni dio.
+Za potrebe unutarnjeg nadzora motriteljsko-dojavne službe koriste se Obrasci 3c i 4d, koji su tiskani u Prilogu 2. ovog Pravilnika i njegov su sastavni dio.

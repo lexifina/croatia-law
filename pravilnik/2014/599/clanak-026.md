@@ -1,0 +1,2 @@
+# Članak 26.
+Pravne osobe koje temeljem posebnih propisa imaju obvezu održavanja željezničkih pruga, dužne su uz željezničke pruge u području krša, a koje prolaze kroz šumska područja razvrstana u I. i II. stupanj opasnosti od požara, poduzimati mjere zaštite od požara tako da pružni pojas bude potpuno očišćen od lakozapaljivih tvari, suhe trave i korova, suhog šiblja, granja i drveća, papira, otpadaka i drugih tvari koje bi mogle izazvati požar ili preko kojih bi se požar mogao širiti.

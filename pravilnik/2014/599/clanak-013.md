@@ -1,0 +1,8 @@
+# Članak 13.
+Motriteljsko-dojavna služba obuhvaća motrenje s motrionice ili motriteljskog mjesta te ophodarenje pješice i prijevoznim sredstvima (vozilom - motorkotačem, osobnim automobilom, furgonom, kombijem ili terenskom vozilom, brodom i dr.).
+Motriteljsko-dojavna služba uspostavlja se u periodu ljetne požarne sezone koja traje od 1. lipnja do 15. rujna tekuće godine. Skraćivanje navedenog roka uslijed promjena klimatskih i drugih okolnosti koje umanjuju opasnost od požara na određenom lokalitetu, može odobriti Ministarstvo rješenjem, na temelju podnesenog pisanog zahtjeva osoba iz članka 4. stavka 2. ovog Pravilnika, uz prethodno pribavljenu suglasnost Ministarstva poljoprivrede. Motriteljsko-dojavna služba može se na isti način uspostaviti i izvan navedenog roka ovisno o klimatskim i drugim okolnostima koje povećavaju opasnost od šumskog požara, a prema prosudbi nadležnih tijela Ministarstva ili Državne uprave za zaštitu i spašavanje uz prethodno pribavljenu suglasnost Ministarstva poljoprivrede. Raspored obavljanja službe propisuje se općim aktom pravne osobe.
+U vrijeme vrlo velike i velike opasnosti od nastanka požara u šumama razvrstanim u I. stupanj opasnosti od požara, motriteljsko-
+-dojavna služba radi danonoćno (od 0-24 sata).
+Motriteljsko-dojavnu službu obavljaju punoljene osobe osposobljene za obavljanje poslova motriteljsko-dojavne službe, koje su za to pisano ovlastile pravne osobe koje su dužne ustrojiti motriteljsko-
+-dojavnu službu.
+Djelatnici motriteljsko-dojavne službe moraju biti odjeveni u prepoznatljivu odjeću na kojoj su istaknute oznake djelatnosti pravne osobe te imati odgovarajuće službene iskaznice koje je izdala pravna osoba za koju rade.

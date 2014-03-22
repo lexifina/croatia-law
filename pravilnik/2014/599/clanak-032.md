@@ -1,0 +1,2 @@
+# Članak 32.
+Pravne osobe koje temeljem posebnih propisa gospodare i upravljaju šumama i šumskim zemljištima te županije, gradovi i općine na čijem području se nalaze šume i šumska zemljišta koji su u vlasništvu šumoposjednika kao i ovlaštenici drugih stvarnih prava na šumama i šumskim zemljištima dužni su redovito pratiti obavijesti o opasnosti za nastanak šumskih požara na pojedinim područjima i sukladno tome poduzimati odgovarajuće mjere i radnje propisane ovim Pravilnikom i Zakonom o šumama.

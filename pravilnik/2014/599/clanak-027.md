@@ -1,0 +1,8 @@
+# Članak 27.
+Pravne osobe koje temeljem posebnih propisa imaju obvezu održavanja elektroenergetskih objekata, dužne su u šumama razvrstanim u I. i II. stupanj opasnosti od šumskog požara, prilikom uspostave sigurnosnih visina i udaljenosti na trasama elektroenergetskih vodova, posječenu gorivu masu ukloniti s trase ili poslagati (uhrpiti) unutar postojeće širine trase tako da se maksimalno smanji požarno opterećenje.
+Pravne osobe koje temeljem posebnih propisa imaju obvezu održavanja elektroenergetskih objekata, dužne su ukloniti sav posječeni i očišćeni biljni materijal ispod trasa elektroenergetskih vodova koje prolaze neposredno uz javne ceste i željezničku prugu ili se s njima križaju.
+Postupak uklanjanja biljnog materijala iz stavka 2. ovog članka podrazumijeva:
+a) spaljivanje na za to predviđenim mjestima i u određeno vrijeme, sukladno odredbama Zakona o šumama i odlukama o spaljivanju korova i biljnog otpada koje donose gradovi, općine ili županije;
+b) ukoliko vlasnik namjerava iskoristiti posječeni biljni materijal za osobne potrebe, spaljivanje nije nužno, već se u tom slučaju vlasnik obvezuje ukloniti posječeni biljni materijal s trase dalekovoda na zemljište čiji je vlasnik, ali na udaljenost najmanje 10 m od svih cesta i željezničke pruge.
+Čišćenje vegetacije ispod trasa elektroenergetskih vodova i izrada protupožarnih prosjeka u neposrednoj blizini trasa elektroenergetskih vodova mora biti sukladno propisima o zaštiti na radu pri korištenju električne energije.
+Čišćenje i uspostava sigurnosnih visina i udaljenosti na trasama elektroenergetskih vodova provodi se sukladno propisima o tehničkim normativima za izgradnju nadzemnih elektroenergetskih vodova nazivnog napona od 1 kV do 400 kV.

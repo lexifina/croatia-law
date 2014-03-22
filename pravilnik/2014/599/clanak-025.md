@@ -1,0 +1,2 @@
+# Članak 25.
+Pravne osobe koje temeljem posebnih propisa imaju obvezu održavanja javnih prometnica dužne su na bankinama i razdjelnom pojasu cesta uz šume razvrstane u I. i II. stupanj opasnosti od šumskog požara pokositi travu do početka lipnja, na području unutrašnjosti i u rujnu, a cestovni pojas očistiti od lakozapaljivih tvari, suhe trave i korova, suhog šiblja, granja i drveća, papira, otpadaka i drugih tvari koje bi mogle izazvati požar ili preko kojih bi se požar mogao širiti.

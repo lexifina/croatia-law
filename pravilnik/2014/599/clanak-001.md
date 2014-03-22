@@ -1,0 +1,3 @@
+## I. OPĆE ODREDBE I DEFINICIJE POJMOVA
+# Članak 1.
+Ovim Pravilnikom propisuju se tehničke, preventivno-uzgojne i druge mjere zaštite šuma od požara koje su dužni provoditi vlasnici odnosno korisnici šuma i šumskog zemljišta, ovlaštenici drugih stvarnih prava na šumama i šumskim zemljištima, pravne osobe koje temeljem posebnih propisa gospodare i upravljaju šumama i šumskim zemljištima te županije, gradovi i općine na čijem području se nalaze šume i šumska zemljišta koji su u vlasništvu šumoposjednika, u cilju smanjenja opasnosti od nastanka i brzog širenja šumskih požara i ranog otkrivanja i dojave šumskog požara te pravovremenog djelovanja u gašenju šumskog požara.

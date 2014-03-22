@@ -1,0 +1,3 @@
+# Članak 33.
+Svaka osoba koja se nalazi u šumi ili u blizini šume, a primijeti neposrednu opasnost od nastanka šumskog požara ili šumski požar, dužna je tu opasnost ukloniti odnosno ugasiti požar, ako to može učiniti bez opasnosti za sebe ili drugu osobu.
+Ako osoba iz stavka 1. ovog članka nije u mogućnosti ukloniti opasnost odnosno ugasiti požar bez opasnosti za sebe ili drugu osobu, dužna je o uočenoj opasnosti od šumskog požara odnosno o šumskom požaru obavijestiti najbližu policijsku postaju, vatrogasnu postrojbu, centar za motrenje i obavješćivanje, šumariju ili drugo tijelo jedinice lokalne i područne samouprave.

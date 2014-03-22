@@ -1,0 +1,9 @@
+# Članak 4.
+Pravne osobe koje temeljem posebnih propisa gospodare i upravljaju šumama i šumskim zemljištima, ovlaštenici drugih stvarnih prava na šumama i šumskim zemljištima te županije, gradovi i općine na čijem području se nalaze šume i šumska zemljišta koji su u vlasništvu šumoposjednika, dužni su:
+a) prilikom prijama u službu ili rasporeda s jednog radnog mjesta na drugo, upoznati djelatnike s opasnostima od požara na tom radnom mjestu i osposobiti ih za provođenje mjera zaštite od požara, rukovanje sredstvima za dojavu i gašenje požara te za vođenje potrebne evidencije;
+b) provoditi promidžbu radi upoznavanja pučanstva i turista, a posebice školske djece, za što bolje i djelotvornije preventivno djelovanje u sprečavanju nastanka šumskih požara.
+Pravne osobe koje temeljem posebnih propisa gospodare i upravljaju šumama i šumskim zemljištima, te županije, gradovi i općine na čijem području se nalaze šume i šumska zemljišta koji su u vlasništvu šumoposjednika, dužne su:
+a) ustrojiti video sustav otkrivanja i nadzora šumskih požara (u daljnjem tekstu: video sustav) ili motriteljsko-dojavnu službu;
+b) ustrojiti vlastitu službu zaštite šuma od požara ili tu zadaću povjeriti za to specijaliziranoj pravnoj osobi;
+c) ustrojiti i osposobiti interventne skupine šumskih radnika, opskrbiti ih potrebnom opremom za sječu stabala i izradu protupožarnih prosjeka u svrhu izgradnje protupožarnih prosjeka za zaustavljanje daljnjeg širenja požara ili tu zadaću povjeriti za to specijaliziranoj pravnoj osobi.
+Pravne osobe koje temeljem posebnih propisa gospodare i upravljaju šumama i šumskim zemljištima te županije, gradovi i općine na čijem području se nalaze šume i šumska zemljišta koji su u vlasništvu šumoposjednika dužne su provoditi mjere unutarnjeg nadzora radi otklanjanja nedostataka u organizaciji zaštite šuma od požara te o obavljenom izvješćivati nadležna inspekcijska tijela na njihov zahtjev, sukladno posebnim propisima.
