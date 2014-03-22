@@ -1,0 +1,5 @@
+# Članak 26.
+(1) Iznimno od članka 25. stavak 2. ukoliko korisnik ne dostavi propisanu dokumentaciju koja je prilog prijave na natječaj Agencija za plaćanja će izdati Zahtjev za dopunu kojim će od podnositelja tražiti dostavljanje dokumentacije koja nedostaje. Podnositelj je dužan dostaviti traženu dokumentaciju preporučenom pošiljkom u roku od 10 dana od dana zaprimanja Zahtjeva za dopunu.
+(2) Ukoliko podnositelj nije preuzeo Zahtjev za dopunu prilikom prve dostave, dostava preporučene pošiljke bit će ponovljena još jednom. Ukoliko podnositelj ne preuzme Zahtjev za dopunu nakon niti nakon ponovljene dostave, Zahtjev za dopunu će se objaviti na oglasnoj ploči te se dostava se smatra obavljenom istekom osmoga dana od dana stavljana Zahtjeva za dopunu na oglasnu ploču.
+(3) Datumom podnošenja kompletne prijave smatra se datum dostave dokumentacije tražene u Zahtjevu za dopunu.
+(4) Nepravovremene prijave neće se uzimati u obzir te će Agencija za plaćanja u roku od 15 dana od zaprimanja prijave donijeti Odluku o odbijanju prijave.
