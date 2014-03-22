@@ -1,0 +1,3 @@
+# Članak 9.
+(1) Ako je iz opravdanih razloga (otklanjanja kvara na instalacijama ili radi poduzimanja nekih drugih radnji u svezi sa sigurnošću, zaštitom okoliša ili sprečavanjem nastanka štete) nakon pečaćenja potrebno nakratko otpečatiti poslovne prostorije, objekte ili sredstva rada, dok mjera zabrane obavljanja djelatnosti traje, inspektor će stranci, ili njenom predstavniku, po zaprimljenom zahtjevu to dopustiti.
+(2) Novo pečaćenje će obaviti inspektor koji vodi postupak, a u njegovoj odsutnosti ili spriječenosti, drugi nadležni inspektor, uz obavezno sastavljanje zapisnika o tim radnjama.

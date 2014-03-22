@@ -1,0 +1,2 @@
+# Članak 7.
+Nakon što je obavio pečaćenje u poslovne prostorije, objekte, odnosno sredstva rada, inspektor će na vidnome mjestu zapečaćenih poslovnih prostorija, objekta ili sredstava rada istaknuti OBAVIJEST u kojoj će istaći naziv akta na temelju kojega je pečaćenje provedeno uz isticanje KLASE, URBROJA i datuma donošenja toga akta te upozorenje o kaznenom djelu skidanja i povrede službenog pečata ili znaka (članak 317. Kaznenog zakona, »Narodne novine«, br. 125/2011 i 144/2012).
