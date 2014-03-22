@@ -1,0 +1,3 @@
+# Članak 36.
+(1) Kontrolu na terenu provode djelatnici Agencije za plaćanja (u daljnjem tekstu: kontrolori), kontrolom prije ugovaranja, prije plaćanja i tijekom petogodišnjeg razdoblja nakon izvršenog konačnog plaćanja. Osim redovnih kontrola, kontrole na terenu mogu se obavljati i u bilo kojem trenutku za vrijeme trajanja investicije.
+(2) Osim djelatnika iz stavka 1. ovoga članka kontrolu na terenu svakog IPARD projekta mogu obavljati i djelatnici unutarnje revizije Agencije za plaćanja, djelatnici Ministarstva financija, djelatnici Agencije za reviziju sustava provedbe programa Europske unije, predstavnici Europske komisije, predstavnici Europske agencije za borbu protiv prijevara (OLAF) i Europski revizorski sud.

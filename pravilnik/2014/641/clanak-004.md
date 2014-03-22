@@ -1,0 +1,10 @@
+# Članak 4.
+U smislu ovoga Pravilnika definiraju se sljedeći pojmovi:
+- »Projekt« je cjelokupna sveobuhvatna investicijska aktivnost koja se sastoji od prihvatljivog i neprihvatljivog dijela za sufinanciranje iz IPARD programa.
+- »Ulaganje« je prihvatljivi dio projekta navedenog u alineji 1. ovoga članka za koji se traži potpora putem natječaja raspisanog temeljem odredbi ovoga Pravilnika, a može sadržavati prihvatljive i neprihvatljive izdatke (kako je navedeno u članku 20. i 21. ovoga Pravilnika) od čega samo prihvatljivi izdaci mogu biti sufinancirani sredstvima IPARD programa.
+- »Podnositelj« je svaka fizička ili pravna osoba sukladno članku 5. ovoga Pravilnika, koja podnosi prijavu temeljem natječaja za dodjelu sredstava iz IPARD programa
+- »Korisnik« je svaka fizička ili pravna osoba koja udovoljava uvjetima navedenim u članku 5. ovoga Pravilnika, koja s Agencijom za plaćanja potpiše Ugovor o dodjeli sredstava iz IPARD programa u (daljnjem tekstu IPARD Ugovor).
+- »Početak ulaganja« u smislu ispunjavanja općih i specifičnih kriterija prihvatljivosti je dan podnošenja prijave na natječaj iz članka 22. stavka 1. ovoga Pravilnika.
+- »Kraj ulaganja« u smislu ispunjavanja općih i specifičnih kriterija prihvatljivosti je dan podnošenja Zahtjeva za isplatu iz članka 33. stavka 1. ovoga Pravilnika.
+- »Izgradnja i/ili rekonstrukcija« podrazumijeva građenje sukladno Zakonu o gradnji (»Narodne novine« broj 153/2013) isključujući održavanje koje nije prihvatljivo sukladno ovom pravilniku, građenje sukladno Pravilniku o jednostavnim građevinama i radovima (»Narodne novine« br. 21/2009, 57/2010, 126/2010, 48/2011, 81/2012 i 68/2013) i dovršetak građenja nezavršene zgrade sukladno Zakonu o postupanju s nezakonito izgrađenim zgradama (»Narodne novine« br. 82/2012 i 143/2013).
+- »Integrirana prevencija i kontrola onečišćenja« (u daljnjem tekstu: IPPC) predstavlja integrirani pristup za kontrolu onečišćenja i sprječavanje emisije u zrak, vodu ili tlo, vodeći računa o gospodarenju otpadom kako bi se postigla visoka razina zaštite okoliša u cjelini.

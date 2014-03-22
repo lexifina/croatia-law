@@ -1,0 +1,8 @@
+# Članak 32.
+(1) Sve promjene navedene u članku 29., 30. i 31. ovoga Pravilnika moraju se obostrano usuglasiti potpisivanjem Aneksa IPARD Ugovora. U Aneksu IPARD Ugovora, bez obzira na tip i vrijednost odobrene promjene, ni pod kojim okolnostima iznos potpore ne može biti veći od maksimalnog iznosa potpore koji je određen IPARD Ugovorom.
+(2) U slučaju zatraženih promjena navedenih u članku 29., 30. i 31. Agencija za plaćanja zadržava pravo odbiti zahtjev korisnika o čemu će ga obavijestiti Pismom odbijanja.
+(3) Zatražene promjene koje nisu odobrene Pismom odobrenja odnosno Aneksom IPARD Ugovora smatrat će se neprihvatljivim troškom i njihov iznos oduzet će se od iznosa potpore odobrenog IPARD Ugovorom.
+(4) Ako se traženom izmjenom dovodi do promjene u prihvatljivost projekta, Agencija za plaćanja promjenu neće odobriti, a ako se utvrdi da je korisnik takvu izmjenu obavio bez odobrenja Agencije za plaćanja, IPARD Ugovor sklopljen s korisnikom se raskida.
+(5) Agencija za plaćanja će raskinuti IPARD Ugovor sklopljen s korisnikom ukoliko korisnik izmjeni odobreni projekt, a da prethodno nije zatražio odobrenje promjena sukladno odredbama ovog Pravilnika.
+(6) U slučaju promjena IPARD Ugovora iniciranih od strane Agencije za plaćanja, ugovorne strane sklopit će Aneks IPARD Ugovora.
+(7) Ukoliko se nakon konačne isplate sredstava potpore korisniku promjene podaci koji se odnose na korisnika - ime, prezime/naziv korisnika, adresa, ime osobe ovlaštene za zastupanje, korisnik je obvezan obavijestiti Agenciju za plaćanja o navedenoj promjeni tijekom cijelog razdoblja važenja IPARD Ugovora, ali se Aneks IPARD Ugovora u tom slučaju neće sklapati.
