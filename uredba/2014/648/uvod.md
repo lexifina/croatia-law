@@ -1,0 +1,1 @@
+Na temelju članka 30. stavka 2. Zakona o istraživanju i eksploataciji ugljikovodika (»Narodne novine«, br. 94/2013 i 14/2014), Vlada Republike Hrvatske je na sjednici održanoj 19. ožujka 2014. godine donijela
