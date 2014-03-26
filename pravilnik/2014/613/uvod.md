@@ -1,0 +1,1 @@
+Na temelju članka 104. stavka 7. Zakona o odgoju i obrazovanju u osnovnoj i srednjoj školi (»Narodne novine«, broj 87/08., 86/09., 92/10., 105/10. - ispr., 90/11., 16/12., 86/12. i 94/13.) ministar znanosti, obrazovanja i sporta donosi

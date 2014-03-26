@@ -1,0 +1,6 @@
+# Članak 37.
+(1) Učitelji razredne nastave obvezni su izvoditi nastavu i druge oblike neposrednoga odgojno-obrazovnog rada s učenicima u količini propisanoj nastavnim planom za I., II., III. ili IV. razred te obavljati razredničke i ostale poslove iz članka 26. ovoga Pravilnika u sklopu satnice do punoga radnog vremena.
+(2) U radnu obvezu iz stavka 1. ovog članka ne ubrajaju se sati stranoga jezika i izborne nastave vjeronauka, a ni sati nastavnih predmeta odgojnih područja ako ih izvode učitelji predmetne nastave.
+(3) Učitelj razredne nastave može se osloboditi od obveze izvođenja dodatne i dopunske nastave i izvannastavnih aktivnosti te nastavnih predmeta odgojnih područja ako obavlja posebne poslove iz članka 27. ovoga Pravilnika, ili ako koristi pravo na manje tjedne obveze neposrednog odgojno-obrazovnog rada s učenicima ili ako je to propisano nastavnim planom i programom, ili ako obavlja poslove vođenja županijskog stručnog aktiva u opsegu od 2 sata tjedno.
+(4) U slučajevima iz stavka 3. ovog članka, nastavne predmete odgojnih područja izvode učitelji predmetne nastave.
+(5) Broj sati neposrednoga odgojno-obrazovnog rada s učenicima veći od broja sati utvrđenih prema odredbama ovog članka smatra se prekovremenim radom.

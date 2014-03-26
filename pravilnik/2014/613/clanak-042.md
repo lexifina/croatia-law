@@ -1,0 +1,5 @@
+# Članak 42.
+(1) Tjedne radne obveze u neposrednome odgojno-obrazovnom radu s učenicima za puno radno vrijeme iz članka 40. stavka 1. ovog Pravilnika povećavaju se za 2 sata tjedno poslovima utvrđenim odredbama ovog članka.
+(2) Do ukupne tjedne radne obveze iz stavka 1. ovog članka, učitelji predmetne nastave izvode dodatnu i dopunsku nastavu, rade u izvannastavnim aktivnostima, vode učeničku zadrugu te učenički klub ili društvo, a mogu izvoditi i izbornu nastavu ili obavljati poslove razrednika u neposrednome odgojno-obrazovnom radu s učenicima ako tim oblicima rada nisu zaduženi u sklopu obveza iz članka 40. stavka 1. ovog Pravilnika.
+(3) Do ukupne tjedne radne obveze iz stavka 1. ovog članka, učitelji Tjelesne i zdravstvene kulture mogu obavljati i poslove poduke plivanja te kinezioterapeutski rad s učenicima s većim teškoćama u razvoju, učitelji defektolozi ili stručnjaci edukacijsko-rehabilitacijskog profila produženi stručni postupak i posebnu edukacijsko-rehabilitacijska pomoć.
+(4) Broj sati ukupnoga neposrednog odgojno-obrazovnog rada s učenicima veći od broja sati obveza iz stavka 1. ovog članka smatra se prekovremenim radom.

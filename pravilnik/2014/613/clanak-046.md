@@ -1,0 +1,5 @@
+# Članak 46.
+(1) Stručni suradnici obvezni su obavljati poslove u neposrednome pedagoškom radu 25 sati tjedno, a ostale poslove u sklopu satnice do punoga radnog vremena.
+(2) Poslovi iz stavka 1. ovog članka koji se obavljaju u neposrednome pedagoškom radu i drugi odgovarajući poslovi raspoređuju se na šestosatni dnevni rad u školi (sat po 60 minuta), a ostatak dnevnoga rada odnosi se na poslove vezane uz ustanove, poslove stručnoga usavršavanja, planiranja, programiranja i pripremanja za rad i na druge poslove.
+(3) Stručni suradnik defektolog ili stručnjak edukacijsko-rehabilitacijskog profila u redovitoj školi obvezan je obavljati poslove u neposrednome odgojno-obrazovnom radu s učenicima 20 nastavnih sati tjedno, poslove u neposrednome pedagoškom radu s učiteljima, stručnim suradnicima i roditeljima 5 sati tjedno, a ostale poslove u sklopu satnice do punoga radnog vremena, s tim da poslove u neposrednome radu obavlja u šestosatnom dnevnom radu u školi (sat po 60 minuta).
+(4) Zdravstveni radnik u osmosatnom dnevnom radu obavlja poslove u neposrednome radu s učenicima 30 sati tjedno, a ostale poslove u sklopu satnice do punog radnog vremena.

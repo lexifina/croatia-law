@@ -1,0 +1,3 @@
+# Članak 34.
+(1) Stručni suradnik defektolog ili stručnjak edukacijsko-rehabilitacijskog profila u posebnim školama obavlja poslove iz članka 33. stavka 4. ovoga Pravilnika, a u sklopu neposrednoga pedagoškog rada i poslove produženoga stručnog postupka i pružanja posebne edukacijsko-rehabilitacijske pomoći učenicima s većim teškoćama u razvoju.
+(2) Stručni suradnik defektolog ili stručnjak edukacijsko-rehabilitacijskog profila u redovitim osnovnim školama koje u svojem sastavu imaju posebne odjele za djecu s većim teškoćama u razvoju, uz poslove iz stavka 1. ovog članka, obavlja i poslove voditeljstva posebnih razrednih odjela.

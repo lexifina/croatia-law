@@ -1,0 +1,6 @@
+# Članak 27.
+Posebni poslovi
+(1) Učitelji u osnovnoj školi mogu obavljati i posebne poslove koji proizlaze iz ustroja rada škole ili iz odredaba zakona i drugih propisa.
+(2) Posebni poslovi u smislu stavka 1. ovog članka jesu satničarski i voditeljski poslovi, poslovi sindikalnoga povjerenika, poslovi zaposleničkoga vijeća odnosno sindikalnoga vijećnika, poslovi povjerenika zaštite na radu, poslovi osobe koja je ovlaštena za primanje i rješavanje pritužbi vezanih za zaštitu dostojanstva radnika, te drugi odgovarajući poslovi.
+(3) Stručni suradnici mogu obavljati i poslove sindikalnoga povjerenika, poslove zaposleničkoga vijeća odnosno sindikalnoga vijećnika, poslove povjerenika zaštite na radu, poslove osobe koja je ovlaštena za primanje i rješavanje pritužbi vezanih za zaštitu dostojanstva radnika i druge poslove koji proizlaze iz zakona ili drugih propisa, a posebne poslove koji proizlaze iz ustroja rada škole samo u iznimnim slučajevima.
+(4) Poslovi iz stavka 3. ovog članka obavljaju se kao posebna radna obveza za koju se stručnom suradniku s punim radnim vremenom razmjerno smanjuju redovite tjedne radne obveze, a stručnom suradniku s nepunim radnim vremenom povećava tjedno radno vrijeme.
