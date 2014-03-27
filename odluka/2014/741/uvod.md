@@ -1,0 +1,1 @@
+Na temelju članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, broj 150/2011) i članka 15. Zakona o Hrvatskom registru brodova (»Narodne novine«, br. 81/96 i 76/2013), Vlada Republike Hrvatske je na sjednici održanoj 27. ožujka 2014. godine donijela
