@@ -1,0 +1,23 @@
+I.
+Ovom Odlukom utvrđuje se visina naknade za rad predsjednicima, potpredsjednicima i članovima izbornih povjerenstava i biračkih odbora za provedbu prijevremenih izbora u jedinicama lokalne i područne (regionalne) samouprave u 2014. godini.
+II.
+Predsjedniku, potpredsjedniku i članovima stalnog sastava županijskih izbornih povjerenstava i izbornih povjerenstava gradova sa 101 i više biračkih mjesta za provedbu izbora iz točke I. ove Odluke određuje se naknada u iznosu od 3.600,00 kuna neto po osobi.
+III.
+Predsjedniku, potpredsjedniku i članovima stalnog sastava izbornih povjerenstava gradova sa 51 do 100 biračkih mjesta za provedbu izbora iz točke I. ove Odluke određuje se naknada u iznosu od 2.400,00 kuna neto po osobi.
+IV.
+Predsjedniku, potpredsjedniku i članovima stalnog sastava izbornih povjerenstava gradova i općina sa 26 do 50 biračkih mjesta za provedbu izbora iz točke I. ove Odluke određuje se naknada u iznosu od 1.800,00 kuna neto po osobi.
+V.
+Predsjedniku, potpredsjedniku i članovima stalnog sastava izbornih povjerenstava gradova i općina sa 1 do 25 biračkih mjesta za provedbu izbora iz točke I. ove Odluke određuje se naknada u iznosu od 1.200,00 kuna neto po osobi.
+VI.
+Članovima proširenog sastava izbornih povjerenstava određuje se naknada u visini od 65% iznosa naknade iz točaka II., III. IV. i V. ove Odluke.
+VII.
+Za održavanje drugog, odnosno trećeg kruga glasovanja za izbor općinskog načelnika, gradonačelnika, odnosno župana i njihovih zamjenika, predsjedniku, potpredsjedniku i članovima stalnog i proširenog sastava izbornih povjerenstava određuje se naknada u visini od 20% iznosa naknade iz točaka II., III., IV., V. i VI. ove Odluke.
+VIII.
+Predsjedniku, potpredsjedniku i članovima biračkih odbora za provedbu izbora iz točke I. ove Odluke, određuje se naknada u iznosu od 300,00 kuna neto po osobi, koja će biti isplaćena za svaki krug glasovanja.
+IX.
+Sredstva za pokriće troškova izbora pojedine jedinice, a time i troškova naknade za rad izbornih tijela osiguravaju se u proračunu te jedinice.
+Sredstvima za provedbu izbora raspolaže izborno povjerenstvo jedinice, koje je odgovorno za raspodjelu i trošenje sredstava te dodjelu odgovarajućih sredstava izbornim tijelima.
+X.
+Izborna povjerenstva jedinica objavit će cjelovito izvješće o visini troškova izbora i načinu njihova korištenja, u roku od 30 dana od dana objave službenih rezultata izbora.
+XI.
+Ova Odluka stupa na snagu danom donošenja, a objavit će se u »Narodnim novinama«.
