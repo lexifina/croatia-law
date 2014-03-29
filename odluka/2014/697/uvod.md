@@ -1,0 +1,1 @@
+Na temelju članka 10. stavka 5. Zakona o istraživanju i eksploataciji ugljikovodika (»Narodne novine«, br. 94/2013 i 14/2014), Vlada Republike Hrvatske je na sjednici održanoj 27. ožujka 2014. godine donijela
