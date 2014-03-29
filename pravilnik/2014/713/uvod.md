@@ -1,0 +1,1 @@
+Na temelju članaka 102. i 103. Zakona o odgoju i obrazovanju u osnovnoj i srednjoj školi (»Narodne novine«, broj: 87/2008., 86/2009., 92/2010., 105/2010. - ispr., 90/2011., 16/2012., 86/2012. i 94/2013.), ministar znanosti, obrazovanja i sporta donosi
