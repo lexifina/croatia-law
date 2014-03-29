@@ -1,0 +1,2 @@
+# Članak 11.
+Danom stupanja na snagu ovoga Pravilnika prestaje važiti Pravilnik o obrascu službene iskaznice i izgledu znaka inspektora Državnog inspektorata (»Narodne novine«, broj 41/2009), u dijelu koji se odnosi na gospodarske, rudarske, elektroenergetske i inspektore opreme pod tlakom koji su preuzeti sukladno članku 3. i članku 12. Zakona o izmjenama i dopunama Zakona o ustrojstvu i djelokrugu ministarstava i drugih središnjih tijela državne uprave (»Narodne novine«, broj 148/2013).
