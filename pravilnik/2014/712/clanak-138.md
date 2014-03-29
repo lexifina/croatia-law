@@ -1,0 +1,3 @@
+# Članak 138.
+(1) Radne aktivnosti uključuju: osposobljavanje za obavljanje radnih aktivnosti (uvježbavanje pojedinih faza radnih operacija, održavanje sredstva za rad, organiziranje pravilne izmjene rada i odmora, razvijanje osjećaja reda i točnosti); održavanje stečenih sposobnosti (omogućavanje postupnog prilagođavanja odgovarajućem poslu u svrhu bržeg i produktivnijeg uključivanja u radni proces); prateći programi (razvijanje radnih i kulturno higijenskih navika, razvijanje sigurnosti u svakodnevnim situacijama, razvijanje primjerenih oblika ponašanja u poznatim i nepoznatim situacijama, upoznavanje uže i šire okoline, zanatski radovi u radionicama, pomaganje u obavljanju svakodnevnih poslova).
+(2) Radne aktivnosti iz stavka 1. ovoga članka provodi radni instruktor.

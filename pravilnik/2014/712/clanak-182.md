@@ -1,0 +1,3 @@
+# Članak 182.
+(1) Aktivnosti podrške u organiziranom stanovanju mogu uključivati: spremanje i čišćenje stana, te obavljanje drugih kućanskih poslova, obavljanje poslova nabavke i kupovine, pranje i glačanje rublja, pomoć u pripremanju obroka ili dostava gotovih obroka, njega i održavanje osobne higijene, briga o zdravlju, fizikalna terapija, usluge socijalnog rada i radne aktivnosti, organiziranje prijevoza, te druge usluge kojima se zadovoljavaju potrebe starijih osoba (frizer, pediker i sl.).
+(2) Aktivnosti podrške u organiziranom stanovanju iz stavka 1. ovoga članka pružatelj usluga može povjeriti ovlaštenim pravnim ili fizičkim osobama ili ih osigurati na drugi način.

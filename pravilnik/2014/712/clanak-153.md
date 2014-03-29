@@ -1,0 +1,2 @@
+# Članak 153.
+(1) Usluga individualne psihosocijalne podrške u obitelji, usluga individualne psihosocijalne podrške kod pružatelja usluga, te usluga grupne psihosocijalne podrške kod pružatelja usluga može se provoditi kao pojedinačna aktivnost ili kao više aktivnosti navedenih u Prilogu 1. - Katalog socijalnih usluga, uzimajući u obzir vremensko mjerilo po jedinici pružene aktivnosti iz članka 149. stavka 2. ovoga Pravilnika, te tjedni limit propisan člankom 83. stavkom 5. Zakona o socijalnoj skrbi.

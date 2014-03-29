@@ -1,0 +1,3 @@
+# Članak 129.
+(1) Terapija senzorne integracije uključuje: primjenu senzoričkih iskustava kroz igru i djetetu smislene i primjerene aktivnosti, sudjelovanje djeteta u igri i smislenim aktivnostima (okupacijama) te pravovremeno i primjereno osiguravanje aktivnosti bogatih proprioceptivnim, vestibularnim i taktilnim podražajima koji će potaknuti pojavu i incidenciju adaptivnih odgovora, te intrinzičnu motivaciju djeteta, odnosno osposobiti dijete za uporabu novih i korisnijih strategija u izazovima koje okruženje postavlja na njega.
+(2) Terapiju senzorne integracije iz stavka 1. ovoga članka provodi terapeut senzorne integracije.

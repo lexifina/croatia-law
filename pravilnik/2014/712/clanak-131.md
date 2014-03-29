@@ -1,0 +1,3 @@
+# Članak 131.
+(1) Psihološka podrška uključuje: pružanje podrške i pomoći u razdoblju adaptacije, psihologijska obrada korisnika (utvrđivanje inicijalnog stanja - kognitivnog, socio-emocionalnog i funkcionalnog, utvrđivanje stupnja potrebne podrške, praćenje, evaluacija), psihološko osnaživanje korisnika, prevencija rizičnog ponašanja, pomoć pri rješavanju konfliktnih i drugih kriznih situacija, poticanje razvijanja primjerenih oblika ponašanja, razvijanje i podržavanje interpersonalnih odnosa korisnika, edukacija i savjetodavni rad s roditeljima/skrbnicima, priprema za stanovanje uz podršku i podrška pri zapošljavanju.
+(2) Psihološku podršku iz stavka 1. ovoga članka provodi psiholog.

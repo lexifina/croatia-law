@@ -1,0 +1,3 @@
+# Članak 98.
+(1) Usluga privremenog smještaja u kriznim situacijama pruža se djeci i mlađim punoljetnim osobama s problemima u ponašanju i teškoćama mentalnog zdravlja koja se zateknu u skitnji, bez nadzora roditelja ili drugih odraslih osoba, do povratka u vlastitu ili udomiteljsku obitelj, dom socijalne skrbi ili dok im se ne osigura smještaj na drugi način, u najduljem trajanju do 72 h.
+(2) Usluga privremenog smještaja u kriznim situacijama pruža se i djeci bez pratnje, stranim državljanima, u dobi od 14. do 18. godine, dok im se ne osigura smještaj na drugi način ili do povratka u zemlju podrijetla, a najduže do šest mjeseci.

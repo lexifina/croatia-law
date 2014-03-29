@@ -1,0 +1,7 @@
+# Članak 174.
+(1) Njega za korisnike usluge smještaja, usluge smještaja u obiteljskom domu i usluge boravka uključuje:
+- korisnicima prvog stupnja usluge u sklopu aktivnosti osigurava se pomoć u održavanju osobne higijene samo u zdravstveno opravdanim slučajevima, najduže 2 tjedna u kontinuitetu
+- korisnicima drugog stupnja usluge u sklopu aktivnosti osigurava se pripomoć u odijevanju i svlačenju, održavanju osnovne higijene (za korisnike usluge smještaja i smještaja u obiteljskom domu pripomoć kod kupanja 1 tjedno uz obavezno pranje kose, uređivanje noktiju i brijanje), pripomoć kod promjene položaja, pratnja pri ostvarivanju usluga primarne zdravstvene zaštite i specijalističke zdravstvene zaštite, ako se to ne može osigurati uz pomoć članova obitelji ili na drugi način
+- korisnicima trećeg stupnja usluge u sklopu aktivnosti osigurava se svakodnevno pomoć pri održavanju osobne higijene, promjeni položaja, kupanju, oblačenju, svlačenju, hranjenju, kontroli i pomoći kod uzimanja tekućine. Korisnicima trećeg stupnja usluge osigurava se i pratnja pri ostvarivanju usluga primarne zdravstvene zaštite i specijalističke zdravstvene zaštite, ako se to ne može osigurati uz pomoć članova obitelji ili na drugi način
+- korisnicima četvrtog stupnja usluge u sklopu aktivnosti uz sadržaj iz trećeg stupnja dodatno se osigurava nadzor nad cjelokupnim funkcioniranjem.
+(2) Njegu iz stavka 1. ovoga članka provodi njegovateljica.

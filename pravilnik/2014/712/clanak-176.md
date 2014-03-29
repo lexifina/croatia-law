@@ -1,0 +1,3 @@
+# Članak 176.
+(1) Socijalni rad za korisnike smještaja i boravka uključuje: prihvat i upoznavanje korisnika s novom sredinom, te pomoć pri uključivanju, praćenje razdoblja adaptacije, pomoć pri rješavanju konfliktnih i drugih kriznih situacija, suradnja s obitelji korisnika, savjetodavni rad i podrška korisniku i članovima obitelji, organiziranje i suradnja u organiziranju aktivnog provođenja vremena korisnika, rad sa stručnim i pomoćnim radnicima koji dolaze u kontakt s korisnicima u cilju učenja o specifičnostima rada i ophođenja sa starijim osobama, prikupljanje dokumentacije vezane za prijam, vođenje evidencije i davanje izvješća o korisnicima.
+(2) Socijalni rad iz stavka 1. ovoga članka provodi socijalni radnik.

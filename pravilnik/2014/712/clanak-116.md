@@ -1,0 +1,3 @@
+# Članak 116.
+(1) Njega za korisnike smještaja, smještaja u obiteljskom domu i boravka uključuje: pomoć pri obavljanju osobne higijene, te pomoć kod oblačenja i svlačenja korisnika, pomoć kod hranjenja korisnika, pomoć pri obavljanju fizioloških potreba korisnika, održavanje higijene posteljine korisnika, održavanje higijene prostora, dezinfekcija pomagala i ostalog upotrijebljenog pribora i instrumenata, provođenje preventivnih mjera za sprečavanje dekubitusa, kontraktura, tromboze i respiratornih komplikacija, uočavanje promjena na korisniku i izvještavanje medicinskog osoblja.
+(2) Njegu iz stavka 1. ovoga članka za korisnike smještaja provodi njegovatelj i medicinska sestra, a za korisnike smještaja u obiteljskom domu i boravka provodi njegovatelj.

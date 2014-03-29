@@ -1,0 +1,4 @@
+# Članak 152.
+(1) Usluga smještaja, te usluge cjelodnevnog i poludnevnog boravka provode se u osnovnom opsegu usluge iz Priloga 1. - Katalog socijalnih usluga, pri čemu se uz osnovni opseg usluge korisniku može pružati jedna specifična dodatna aktivnost dnevno.
+(2) Specifične dodatne aktivnosti ovisno o vrsti usluge mogu biti logopedska terapija, psihološka podrška, socijalno-pedagoška podrška, senzorna integracija, kineziterapija i sportsko-rekreacijske aktivnosti, glazboterapija i glazbene aktivnosti, likovna terapija i likovne aktivnosti, radna terapija i fizikalna terapija.
+(3) Aktivnosti radne terapije i fizikalne terapije koje se provode kao specifične dodatne aktivnosti provode se u vremenskom mjerilu od 60 minuta po jedinici usluge, a ostale aktivnosti iz stavka 2. ovoga članka provode se mjerilu iz članka 149. stavka 2. ovoga Pravilnika.

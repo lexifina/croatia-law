@@ -1,0 +1,2 @@
+# Članak 111.
+Centar za pružanje usluga u zajednici djeci s teškoćama u razvoju i odraslim osobama s tjelesnim, intelektualnim ili osjetilnim oštećenjem u pravilu pruža usluge iz članka 104. točke 2., 3., 4., 5., 6., 7., 8. i 9. ovoga Pravilnika i članka 105. točke 3., 4., 5., 6., 7., 8., 9., 10., 11. i 12. ovoga Pravilnika, a iznimno može pružati usluge iz članka 104. točke 1. ovoga Pravilnika i članka 105. točke 1. ovoga Pravilnika.

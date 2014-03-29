@@ -1,0 +1,2 @@
+# Članak 8.
+Zgrada u kojoj se obavlja djelatnost socijalne skrbi, mora ispunjavati minimalne zahtjeve prema posebnim propisima za radne i pomoćne prostorije glede sigurnosti i zaštite zdravlja radnika za sve radne i pomoćne prostorije i prostore u kojima se stalno ili povremeno obavlja rad, povremeno zadržavaju osobe na radu i u koje dolaze druge osobe po bilo kojoj osnovi rada ili korištenja usluga.

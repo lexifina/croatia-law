@@ -1,0 +1,4 @@
+# Članak 10.
+(1) Oko zgrade treba osigurati površinu neizgrađenog zemljišta prema posebnim propisima, za prilaz objektu, te dvorište, park, igralište, parkiralište i slično, ovisno o potrebama korisničkih skupina kojima se pružaju usluge.
+(2) Zelene površine neizgrađenog zemljišta iz stavka 1. ovoga članka trebaju iznositi najmanje 50 m² na objekt u kojem se pružaju usluge smještaja i boravka do 50 korisnika, odnosno 50 m² više za svakih sljedećih 50 korisnika, osim ako su korisnici djeca i odrasle osobe - žrtve nasilja u obitelji ili žrtve trgovanja ljudima. Zelene površine trebaju biti uređene.
+(3) Iznimno, ako se zgrada nalazi u neposrednoj blizini javnog parka ili ako se u zgradi pružaju usluge prihvatilišta ili prenoćišta, površina neizgrađenog zemljišta iz stavka 2. ovog članka ne mora imati predviđenu zelenu površinu.

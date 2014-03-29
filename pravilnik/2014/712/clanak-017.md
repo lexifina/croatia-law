@@ -1,0 +1,8 @@
+# Članak 17.
+Stambene jedinice iz članaka 15. i 16. ovoga Pravilnika za pružanje usluga organiziranog stanovanja i usluga u obiteljskom domu moraju udovoljavati sljedećim uvjetima:
+- lokacija stambene jedinice treba biti u naselju ili njegovoj blizini, radi mogućnosti korištenja usluga odgoja i obrazovanja, zdravstva i drugih djelatnosti, u skladu s dobi i potrebama korisnika, te mora biti prometno povezana s naseljem i imati prilaz prijevoznim sredstvima
+- stambena jedinica mora imati priključak na električnu i telefonsku mrežu te provedene instalacije unutar objekta, priključak i instalacije za dovod pitke vode i odvod otpadnih voda
+- oko zgrade u kojoj se nalazi stambena jedinica treba osigurati određenu površinu neizgrađenog zemljišta za prilaz, te dvorište, ako u blizini nije javni park
+- stambena jedinica u kojoj se pružaju usluge za korisnike smanjene pokretljivosti i korisnike koji koriste pomagala za pokretljivost mora osiguravati tim korisnicima nesmetan pristup, kretanje i boravak u prostoru kao i pokretnim korisnicima
+- stambena jedinica mora imati potreban broj funkcionalno raspoređenih prostorija namijenjenih korisnicima kao što su: spavaonice, prostor za dnevni odmor, prostorija za pripremu i serviranje hrane te pranje posuđa, kupaonica i zahod, te prostor za održavanje čistoće rublja, a u iznimnim slučajevima ovisno o stupnju podrške potrebno je osigurati prostoriju za potrebe radnika
+- stambena jedinica mora imati odgovarajući prostor za skladištenje prehrambenih proizvoda odvojen od prostora namijenjenog za skladištenje sredstava za čišćenje i osobnu higijenu.

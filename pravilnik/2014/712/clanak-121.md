@@ -1,0 +1,3 @@
+# Članak 121.
+(1) Vježbe orijentacije i kretanja u prostoru uključuju: svladavanje vještina samostalnog kretanja i orijentacije u prostoru (u zatvorenom prostoru u kontroliranim uvjetima, na otvorenom više ili manje kontroliranom prostoru, te ostalim javnim pješačkim površinama). Orijentacija je sposobnost određivanja položaja tijela u prostoru, te položaja i međusobnog odnosa predmeta u prostoru. Tehnike orijentacije i kretanja uključuju: kretanje uz pomoć videćeg vodiča, kretanje uz pomoć dugog bijelog štapa, tehniku praćenja zida uz zaštitne tehnike, kretanje uz pomoć psa vodiča, kretanje uz pomoć elektronskih pomagala.
+(2) Vježbe orijentacije i kretanja u prostoru iz stavka 1. ovoga članka provodi rehabilitator.

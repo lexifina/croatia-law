@@ -1,0 +1,3 @@
+# Članak 136.
+(1) Fizikalna terapija uključuje: procjenu, utvrđivanje funkcionalnog statusa, planiranje, intervenciju i evaluaciju, manualnu terapiju, terapijske vježbe, primjena fizikalnih agensa, mehaničke procedure, funkcionalni trening, opskrba pomoćnim sredstvima i pomagalima, upute i savjete u svezi s pacijentom, vođenje dokumentacije, te koordinacija i komunikacija s pacijentom/klijentom, po potrebi s njegovom obitelji odnosno skrbnikom. Intervencija može također biti usmjerena na prevenciju oštećenja, funkcionalnih ograničenja, nesposobnosti i ozljeda uključujući unapređenje i održavanje zdravlja.
+(2) Fizikalnu terapiju iz stavka 1. ovoga članka provodi fizioterapeut.

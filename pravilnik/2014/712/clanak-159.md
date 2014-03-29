@@ -1,0 +1,27 @@
+# Članak 159.
+Aktivnosti iz članka 115. ovoga Pravilnika mogu pružati izvršitelji koji zadovoljavaju sljedeće minimalne uvjete:
+- njegovatelj - završena osnovna škola i tečaj za njegu
+- rehabilitator - završen preddiplomski ili diplomski sveučilišni studij iz područja edukacijsko-rehabilitacijskih znanosti ili završen diplomski sveučilišni studij iz područja odgojnih znanosti, obrazovnih znanosti, pedagogije, logopedije ili kineziologije
+- rehabilitator slušanja - završen diplomski sveučilišni studij logopedije ili fonetike
+- logoped - završen diplomski sveučilišni studij logopedije
+- kineziterapeut - završen preddiplomski ili diplomski sveučilišni studij kineziologije
+- sportski instruktor - završen stručni studij trenerske struke
+- glazbeni terapeut - završen preddiplomski ili diplomski sveučilišni studij glazbene pedagogije/glazbene umjetnosti
+- glazbeni instruktor - završeno srednjoškolsko glazbeno obrazovanje
+- likovni terapeut - završen preddiplomski ili diplomski sveučilišni studij likovne pedagogije/likovne umjetnosti
+- likovni instruktor - završeno srednjoškolsko obrazovanje primijenjenih umjetnosti
+- socijalni radnik - završen preddiplomski ili diplomski sveučilišni studij socijalnog rada
+- psiholog - završen preddiplomski ili diplomski sveučilišni studij psihologije
+- socijalni pedagog - završen preddiplomski ili diplomski sveučilišni studij socijalne pedagogije
+- odgajatelj - završen preddiplomski ili diplomski sveučilišni studij iz područja edukacijsko-rehabilitacijskih znanosti ili završen diplomski sveučilišni studij iz područja odgojnih znanosti, obrazovnih znanosti, pedagogije, logopedije ili kineziologije
+- instruktor znakovnog jezika - završen preddiplomski ili diplomski sveučilišni studij iz područja edukacijsko-rehabilitacijskih znanosti ili završen diplomski sveučilišni studij iz područja odgojnih znanosti, obrazovnih znanosti, pedagogije, logopedije ili kineziologije
+- terapeut senzorne integracije - završen preddiplomski ili diplomski sveučilišni studij iz područja edukacijsko-rehabilitacijskih znanosti
+- radni terapeut - završen stručni studij radne terapije
+- medicinska sestra/tehničar - završen stručni studij sestrinstva ili srednjoškolsko obrazovanje za medicinsku sestru/tehničara
+- fizioterapeut - stručni studij fizioterapije ili srednjoškolsko obrazovanje za fizioterapeutskog tehničara
+- radni instruktor - srednjoškolsko obrazovanje ili stručni studij ili preddiplomski ili diplomski sveučilišni studij iz odgovarajućeg područja aktivnosti
+- pratitelj-nosač - osnovnoškolsko obrazovanje
+- dostavljač obroka - osnovnoškolsko obrazovanje i položen vozački ispit B-kategorije
+- gerontodomaćica - osnovnoškolsko obrazovanje
+- pomoćni radnik - osnovnoškolsko obrazovanje
+- asistent u organiziranom stanovanju - osnovnoškolsko obrazovanje i tečaj za njegu.

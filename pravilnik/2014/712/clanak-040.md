@@ -1,0 +1,4 @@
+# Članak 40.
+(1) Stručni radnici koji pružaju usluge individualne psihosocijalne podrške u obitelji, te usluge pomoći pri uključivanju u programe odgoja i obrazovanja obvezni su u neposrednom radu provesti 22,5 sati tjedno, a ostale poslove u sklopu satnice do punog radnog vremena.
+(2) Stručni radnici koji u okviru usluge organiziranog stanovanja provode aktivnosti odgoja, odgoja i edukacijske rehabilitacije, socijalnog rada, psihološke podrške, socijalne rehabilitacije i brige o zdravlju, te radnici koji pružaju usluge pomoći u kući obvezni su u neposrednom radu provesti 22,5 sati tjedno, a ostale poslove u sklopu satnice do punog radnog vremena.
+(3) Ostali poslovi iz stavaka 1. i 2. ovoga članka, ovisno o sadržaju aktivnosti, u pravilu obuhvaćaju planiranje, programiranje i vrednovanje rada, vrijeme provedeno u dolasku i odlasku korisniku, poslove stručnog usavršavanja i druge poslove.

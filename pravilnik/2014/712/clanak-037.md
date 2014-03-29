@@ -1,0 +1,3 @@
+# Članak 37.
+(1) Pružatelj usluga može imati ustrojstvene jedinice (odjele) ovisno o srodnosti i povezanosti poslova, te potrebnog broja izvršitelja za njihovo obavljanje koji se uređuju općim aktom.
+(2) Za uspostavu unutarnjeg ustrojstva iz stavka 1. ovoga članka u ustanovi socijalne skrbi čiji je osnivač Republika Hrvatske i jedinice područne (regionalne) samouprave, potrebno je ustrojiti najmanje dva odjela, pri čemu odjel u kojem su zaposleni stručni i drugi radnici u neposrednom radu s korisnicima mora imati najmanje 9 radnika, a odjel u kojem su zaposleni pomoćno-tehnički radnici mora imati najmanje 12 radnika, uključujući i voditelja.

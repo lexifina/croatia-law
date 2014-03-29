@@ -1,0 +1,2 @@
+# Članak 172.
+Usluge iz članka 162. i 163. ovoga Pravilnika za starije osobe i teško bolesne odrasle osobe mogu obuhvaćati sljedeće aktivnosti: brigu o zdravlju, njegu, fizikalnu terapiju, socijalni rad, aktivno provođenje vremena i radne aktivnosti, organiziranje prehrane u kući korisnika, obavljanje kućnih poslova u kući korisnika, održavanje osobne higijene u kući korisnika, uređenje okućnice i tehničkih poslova u kući korisnika, te aktivnosti podrške u organiziranom stanovanju.

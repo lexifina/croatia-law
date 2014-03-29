@@ -1,0 +1,3 @@
+# Članak 118.
+(1) Socijalni rad uključuje: upoznavanje korisnika s novom sredinom, te pomoć pri uključivanju, praćenje razdoblja adaptacije, pomoć pri zadovoljavanju svakodnevnih potreba, iniciranje primjene potrebnih oblika zaštite, stručni rad i suradnja s obitelji korisnika, priprema korisnika za primjenu drugih oblika zaštite, suradnja s nadležnim centrima za socijalnu skrb, suradnja s ostalim subjektima, praćenje programa rada, primjena različitih metoda podrške u svrhu usmjeravanja i osposobljavanja za rješavanje problema, savjetodavni rad i podrška korisniku i članovima obitelji, vođenje evidencije i dokumentacije.
+(1) Socijalni rad iz stavka 1. ovoga članka provodi socijalni radnik.
