@@ -1,0 +1,3 @@
+## Neadekvatni instrumenti osiguranja
+# Članak 39.
+Svi ostali instrumenti osiguranja prihvaćeni od strane kreditne institucije koji nisu obuhvaćeni člankom 36. - 38. ove Odluke (npr. mjenice dužnika, zadužnice, ovršne izjave dužnika, jamstva osoba koje nemaju odgovarajući bonitet ili koje nemaju kreditnu procjenu vanjskih institucija za procjenu kreditnog rizika) smatraju se u smislu ove Odluke neadekvatnim instrumentima osiguranja i kreditna institucija ih ne može uzeti u obzir pri procjeni budućih novčanih tokova, odnosno radi umanjenja ispravka vrijednosti plasmana ili rezerviranja za gubitke s osnove preuzetih izvanbilančnih obveza.
