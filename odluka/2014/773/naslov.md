@@ -1,0 +1,1 @@
+Odluka o provedbi Uredbe (EU) Br. 575/2013 u dijelu kojim se uređuju ulaganja kreditnih institucija u kvalificirane udjele izvan financijskog sektora i o ograničenju ulaganja kreditnih institucija u materijalnu imovinu (NN br. 41A)
