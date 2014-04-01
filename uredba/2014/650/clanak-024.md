@@ -1,0 +1,5 @@
+# Članak 24.
+Naslov iznad članka 32. i članak 32. mijenjaju se i glase:
+»4.2.2.1. Odjel za upravno-pravne poslove
+Članak 32.
+Odjel za upravno-pravne poslove sudjeluje u izradi nacrta prijedloga zakona i prijedloga drugih propisa koji uređuju uvjete i način poslovanja obrtnika; prati provođenje zakona i podzakonskih propisa te predlaže izmjene; izrađuje procjenu učinaka propisa za zakone iz djelokruga obrta; prati međunarodne propise u području obrtništva te surađuje u izradi nacrta prijedloga međudržavnih ugovora iz nadležnosti Odjela; vodi drugostupanjski upravni postupak o žalbama protiv rješenja nadležnih ureda državne uprave u županijama odnosno nadležnom uredu Grada Zagreba, upravni i stručni nadzor u upravnim stvarima, putem aplikacije za vođenje obrtnog registra nadzire vođenje Obrtnog registra u registarskim tijelima, zastupa Ministarstvo u postupcima pred upravnim sudovima i Visokim upravnim sudom Republike Hrvatske iz djelokruga obrta, daje stručna mišljenja i objašnjenja zakona i podzakonskih akata, pruža stručnu pomoć obrtnicima, u okviru svoje nadležnosti surađuje s ostalim tijelima državne uprave, te obavlja i druge poslove iz svoga djelokruga.«.
