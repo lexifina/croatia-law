@@ -1,0 +1,2 @@
+# Članak 17.
+Djelatnoj vojnoj osobi raspoređenoj na ustrojbeno mjesto za obavljanje poslova administriranja, projektiranja, programiranja, testiranja i implementacije te nadzora i upravljanja računalnih i mrežnih informacijskih sustava, a koja ima odgovarajući industrijski certifikat (Cisco, Microsoft, IBM, UNIX, Linux, ISO 27000, ISACA, ITIL i sl.) pripada dodatak na plaću za deficitarna zvanja i struke u iznosu od 40%.
