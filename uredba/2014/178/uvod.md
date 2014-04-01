@@ -1,0 +1,1 @@
+Na temelju članka 27. stavka 1. Zakona o financiranju vodnoga gospodarstva (»Narodne novine«, br. 153/2009, 90/2011 i 56/2013), Vlada Republike Hrvatske je na sjednici održanoj 23. siječnja 2014. godine donijela
