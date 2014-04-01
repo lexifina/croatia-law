@@ -1,0 +1,2 @@
+# Članak 12.
+U postupku dokazivanja statusa kuće za odmor u smislu članka 10. ove Odluke, osim osobne iskaznice vlasnika kuće za odmor, uzimat će se u obzir i sljedeća dokumentacija: putovnica, mjesto i visina nastanka troška električne energije, vode i telefona, RTV pristojba, prijam pošte, potvrda o zasnovanom radnom odnosu, prijava zdravstvenog osiguranja, izjava svjedoka, mjesto podnošenja porezne prijave, očevid i drugi rapoloživi podaci.
