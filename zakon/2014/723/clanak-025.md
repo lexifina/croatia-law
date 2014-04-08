@@ -1,0 +1,10 @@
+## Reklamacije potrošača - korisnika javnih usluga
+# Članak 25.
+(1) Tijelo javne vlasti koje uređuje pružanje javnih usluga potrošačima dužno je osnovati savjetodavno tijelo u čijem sastavu mora biti i predstavnik udruge za zaštitu potrošača te donositi odluke, nakon mišljenja savjetodavnog tijela, na transparentan, objektivan i nediskriminirajući način.
+(2) Jedinica lokalne i područne (regionalne) samouprave koja odlučuje o pravima i obvezama potrošača javnih usluga dužna je osnovati savjetodavno tijelo u čijem sastavu mora biti i predstavnik udruge za zaštitu potrošača, ako djeluje na lokalnom području, te donositi odluke, nakon mišljenja savjetodavnog tijela, na transparentan, objektivan i nediskriminirajući način.
+(3) Trgovac koji pruža javnu uslugu dužan je osnovati povjerenstvo za reklamacije potrošača u čijem sastavu mora biti i predstavnik udruge za zaštitu potrošača.
+(4) Iznimno od stavka 3. ovoga članka, za pojedine djelatnosti koje obavljaju trgovci koji imaju do pet zaposlenih može se pri Hrvatskoj obrtničkoj komori ili Hrvatskoj gospodarskoj komori osnovati povjerenstvo za reklamacije potrošača u čijem sastavu mora biti i predstavnik udruge za zaštitu potrošača.
+(5) Po primitku odgovora na pisani prigovor iz članka 10. stavaka 1. i 2. ovoga Zakona, a koji se odnosi na javne usluge, potrošač može podnijeti reklamaciju povjerenstvu iz stavaka 3. i 4. ovoga članka.
+(6) Povjerenstvo mora pisano odgovoriti potrošaču na zaprimljene reklamacije u roku od 30 dana od dana zaprimanja reklamacije.
+(7) U vezi s prigovorom, odnosno reklamacijom koja se odnosi na javne usluge, potrošač može pokrenuti sudski ili izvansudski postupak tek nakon što je iscrpio postupke iz stavka 5. ovoga članka te postupak utvrđen zakonom kojim se uređuje opći upravni postupak u odnosu na zaštitu od postupanja pružatelja javnih usluga.
+(8) Savjetodavno tijelo iz stavaka 1. i 2. ovoga članka i povjerenstvo za reklamacije potrošača iz stavaka 3. i 4. ovoga članka financira tijelo, odnosno trgovac koji ga osniva sukladno svojim internim aktima.

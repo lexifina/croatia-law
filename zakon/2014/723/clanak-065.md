@@ -1,0 +1,4 @@
+# Članak 65.
+(1) Ako se ugovor sklopljen izvan poslovnih prostorija odnosi na usluge popravka ili održavanja, a sklopljen je na izričit zahtjev potrošača, a iznos koji je potrošač dužan platiti ne prelazi 1500,00 kuna, te je predviđeno da strane svoje ugovorne obveze ispune odmah, trgovac mora potrošaču dati na papiru ili, uz suglasnost potrošača, na drugom trajnom mediju obavijesti iz članka 57. stavka 1. točaka 2. i 3. ovoga Zakona, kao i obavijest o cijeni ili načinu izračuna cijene s procjenom ukupne cijene, dok obavijesti iz članka 57. stavka 1. točaka 1., 8. i 11. ovoga Zakona trgovac može dati u usmenom obliku samo uz izričitu suglasnost potrošača.
+(2) U slučaju sklapanja ugovora iz stavka 1. ovoga članka, pisana potvrda usmeno sklopljenog ugovora mora sadržavati sve obavijesti iz članka 57. stavka 1. ovoga Zakona.
+Odsjek III.

@@ -1,0 +1,4 @@
+# Članak 139.
+Novčanom kaznom u iznosu od 15.000,00 do 100.000,00 kuna kaznit će se za prekršaj odgovorna osoba u tijelu javne vlasti ako:
+1. tijelo javne vlasti koje uređuje pružanje javnih usluga potrošačima ne osnuje savjetodavno tijelo u čijem sastavu mora biti i predstavnik udruge za zaštitu potrošača i ako donosi odluke bez mišljenja savjetodavnog tijela ili ih donosi na netransparentan, neobjektivan i diskriminirajući način (članak 25. stavak 1.)
+2. jedinica lokalne i područne (regionalne) samouprave koja odlučuje o pravima i obvezama potrošača javnih usluga ne osnuje savjetodavno tijelo u čijem sastavu mora biti i predstavnik udruge za zaštitu potrošača, ako djeluje na lokalnom području i ako donosi odluke bez mišljenja savjetodavnog tijela ili ih donosi na netransparentan, neobjektivan i diskriminirajući način (članak 25. stavak 2.).

@@ -1,0 +1,4 @@
+## Plaćanje predujmom
+# Članak 13.
+(1) Osim ako nije drukčije ugovoreno, ako trgovac zahtijeva ili izričito uvjetuje kupnju proizvoda ili pružanje usluge djelomičnim ili ukupnim jednokratnim ili obročnim predujmom, dužan je potrošaču prigodom isporuke proizvoda ili pružene usluge obračunati i isplatiti kamate po kamatnoj stopi poslovne banke trgovca za oročene štedne uloge na tri mjeseca za cijelo razdoblje, računajući od dana primljenog predujma do dana isporuke proizvoda ili pružanja usluge, ako je rok isporuke proizvoda ili pružanja usluge dulji od 30 dana.
+(2) U slučaju da trgovac ne može isporučiti proizvod dužan je vratiti potrošaču uplaćeni predujam te obračunati i isplatiti kamate po kamatnoj stopi poslovne banke trgovca za oročene štedne uloge na tri mjeseca za cijelo razdoblje, računajući od dana primljenog predujma do dana isplate, što je moguće prije, a najkasnije u roku od sedam dana od dana kada je nastupilo zakašnjenje.

@@ -1,0 +1,4 @@
+## Plaćanje unaprijed
+# Članak 102.
+(1) Prije isteka roka za jednostrani raskid ugovora iz članka 100. ovoga Zakona zabranjeno je od potrošača zahtijevati bilo kakvo plaćanje unaprijed, davanje jamstava, rezervaciju novca na računu, izričito priznanje duga ili izvršenje bilo koje druge financijske transakcije u vezi s ugovorom o pravu na vremenski ograničenu uporabu (timeshare), ugovorom o dugotrajnom turističkom proizvodu te ugovorom o zamjeni.
+(2) U vezi s ugovorom o ponovnoj prodaji, zabranjeno je zahtijevati od potrošača bilo kakvo plaćanje unaprijed, davanje jamstava, rezervaciju novca na računu, izričito priznanje duga ili izvršenje bilo koje druge financijske transakcije prije nego što ponovna prodaja prava bude izvršena, odnosno ugovor o ponovnoj prodaji prestane na neki drugi način.

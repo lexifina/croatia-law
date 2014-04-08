@@ -1,0 +1,5 @@
+# Članak 82.
+(1) Obavijest o trgovcu sadrži: njegovo ime, naziv ili tvrtku, njegovu djelatnost, punu adresu njegova prebivališta ili sjedište, bilo koju drugu adresu koja utječe na njegov odnos s potrošačem te njegov matični broj i registar u kojem je upisan.
+(2) Ako je djelatnost trgovca podložna izdavanju određene dozvole ili dopuštenja od strane tijela javne vlasti, obavijest o trgovcu uključuje i navođenje pojedinosti te dozvole ili dopuštenja, poput navođenja tijela koje je izdalo dozvolu ili dopuštenje, na koji je rok i s kojim sadržajem izdana ta dozvola ili dopuštenje.
+(3) Ako trgovac u Republici Hrvatskoj ima svog predstavnika, obavijest o trgovcu uključuje i ime, naziv ili tvrtku tog predstavnika, kao i adresu koja utječe na odnos potrošača s tim predstavnikom.
+(4) Ako potrošač stupa u ugovorni odnos s trgovcem putem neke druge osobe, koja nije njegov predstavnik, obavijest o trgovcu uključuje i ime, naziv ili tvrtku te osobe, svojstvo u kojem ona djeluje te sjedište ili drugu adresu koja utječe na odnos potrošača s tom osobom.

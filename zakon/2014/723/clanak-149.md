@@ -1,0 +1,3 @@
+## Stupanje na snagu
+# Članak 149.
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«, osim odredbi članka 4. stavka 1., članaka 39. i 40., članka 42., članaka 44. do 48. i članaka 57. do 79., članka 137. stavka 3. točke 7., stavka 4. točke 3. i 4., članka 138. stavka 1. točke 30. do 36., stavaka 2. i 3. i članka 140. stavka 1. točke 19. i stavaka 2. i 3. ovoga Zakona koje stupaju na snagu 13. lipnja 2014. i članaka 18. do 23., članka 137. stavka 1. točke 4. do 8., članka 138. stavka 1. točke 19. do 27., stavka 2. i 3. ovoga Zakona koje stupaju na snagu 1. siječnja 2015.

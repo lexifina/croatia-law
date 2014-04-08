@@ -1,0 +1,6 @@
+## Obveze trgovca u slučaju jednostranog raskida ugovora
+# Članak 76.
+(1) Iskoristi li potrošač svoje pravo na jednostrani raskid ugovora iz članka 72. ovoga Zakona, trgovac mora bez odgađanja, a najkasnije u roku od 14 dana od dana kad je zaprimio obavijest o odluci potrošača da raskida ugovor sukladno članku 74. ovoga Zakona, vratiti potrošaču sve što je ovaj platio na temelju ugovora.
+(2) Iznimno od stavka 1. ovoga članka, trgovac nije u obvezi izvršiti povrat dodatnih troškova koji su rezultat potrošačeva izričitog izbora vrste prijevoza koji je različit od najjeftinije vrste standardnog prijevoza koji je ponudio trgovac.
+(3) Kod ugovora o kupoprodaji, osim ako nije ponudio da robu koju potrošač vraća sam preuzme, trgovac mora izvršiti povrat plaćenog tek nakon što mu roba bude vraćena, odnosno, nakon što mu potrošač dostavi dokaz da je robu poslao natrag trgovcu, ako bi o tome trgovac bio obaviješten prije primitka robe.
+(4) Trgovac mora izvršiti povrat plaćenoga iz stavka 1. ovoga članka služeći se istim sredstvima plaćanja kojim se koristio potrošač prilikom plaćanja osim ako potrošač izričito ne pristane na neko drugo sredstvo plaćanja, te uz pretpostavku da potrošač ne bude obvezan platiti nikakve dodatne troškove za takav povrat.

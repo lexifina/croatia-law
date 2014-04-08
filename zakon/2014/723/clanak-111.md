@@ -1,0 +1,5 @@
+## Teret dokaza
+# Članak 111.
+(1) Ako je postupak iz članka 106. stavka 1. ovoga Zakona pokrenut povodom povrede odredbi članka 4. stavka 1., članaka 39. i 40., članka 42., članaka 44. do 48. i članaka 57. do 79. ovoga Zakona, trgovac je dužan dokazati da je potrošaču dostavio prethodnu obavijest, odnosno da se pridržavao rokova za ispunjenje ugovora.
+(2) Ako je postupak iz članka 106. ovoga Zakona pokrenut povodom povrede odredbi članaka 80. do 94. ovoga Zakona, trgovac je dužan dokazati da je ispunio svoju obvezu prethodnog obavještavanja potrošača te da je potrošač pristao sklopiti ugovor, odnosno pristao na to da mu trgovac počne pružati ugovorenu uslugu prije isteka roka za jednostrani raskid ugovora iz članka 87. ovoga Zakona.
+(3) U slučaju iz stavka 2. ovoga članka, ugovorna odredba kojom je predviđeno da će teret dokaza u odnosu na činjenice navedene u stavku 2. ovoga članka ležati na potrošaču smatra se nepoštenom ugovornom odredbom, u smislu odredbi dijela III. glave II. ovoga Zakona.
