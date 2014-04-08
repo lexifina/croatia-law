@@ -1,0 +1,8 @@
+## V. KONSTITUIRANJE SAVJETA MLADIH
+# Članak 11.
+(1) Rezultati izbora za članove i zamjenike članova savjeta mladih objavljuju se na mrežnim stranicama jedinice lokalne, odnosno područne (regionalne) samouprave, a ako jedinica lokalne, odnosno područne (regionalne) samouprave nema mrežne stranice, rezultati izbora za članove i zamjenike članova savjeta mladih objavljuju se u službenom glasilu jedinice lokalne, odnosno područne (regionalne) samouprave, te u sredstvima javnog priopćavanja.
+(2) Savjet mladih mora se konstituirati u roku od 30 dana od dana objave rezultata izbora.
+(3) Prvu sjednicu savjeta mladih dužan je sazvati predsjednik predstavničkog tijela jedinice lokalne, odnosno područne (regionalne) samouprave.
+(4) Savjet mladih je konstituiran izborom predsjednika savjeta mladih. Obavijest o konstituiranju savjeta mladih jedinice lokalne, odnosno područne (regionalne) samouprave dužne su objaviti na svojim mrežnim stranicama, a ako jedinica lokalne, odnosno područne (regionalne) samouprave nema mrežne stranice, obavijest se objavljuje u službenom glasilu jedinice lokalne, odnosno područne (regionalne) samouprave te u sredstvima javnog priopćavanja.
+(5) Predsjednika i zamjenika predsjednika savjeta mladih biraju i razrješuju članovi savjeta mladih većinom glasova svih članova, sukladno odredbama ovoga Zakona.
+(6) Ako savjet mladih u roku od 30 dana od dana proglašenja službenih rezultata izbora za članove savjeta mladih ne izabere predsjednika savjeta mladih, predstavničko tijelo jedinice lokalne, odnosno područne (regionalne) samouprave objavit će novi javni poziv za izbor članova i zamjenika članova savjeta mladih.
