@@ -1,0 +1,2 @@
+R J E Š E N J E
+Obustavlja se postupak u povodu prijedloga za pokretanje postupka za ocjenu suglasnosti s Ustavom i zakonom točke II. Naredbe o visini naknade za upis broda, jahte i brodice u upisnik brodova, odnosno jahti i očevidnik brodica ("Narodne novine" broj 41/05.) i Naredbe o izmjeni i dopuni Naredbe o visini naknade za upis broda, jahte i brodice u upisnik brodova, odnosno jahti i očevidnik brodica ("Narodne novine" broj 24/06.).
