@@ -1,0 +1,6 @@
+# Članak 4.
+Članak 4. mijenja se i glasi:
+»(1) Pozivanje na pododjeljak M Dodatka I ovoga Pravilnika, ili neku od njegovih odredaba, odnosi se na propis kojim se uređuje kontinuirana plovidbenost helikoptera odnosno na Part M Uredbe Komisije (EZ) br. 2042/2003 od 20. studenoga 2003. o kontinuiranoj plovidbenosti zrakoplova i aeronautičkih proizvoda, dijelova i uređaja, te o ovlaštenju organizacija i osoblja uključenih u te poslove, te na njene izmjene i dopune.
+(2) Kada se u Dodatku I ovoga Pravilnika poziva na propise za kontinuiranu plovidbenost, primjenjivi propis za Aneks II helikopter je posebni propis kojim je regulirana kontinuirana plovidbenost Aneks II zrakoplova.
+(3) Kada se u Dodatku I i Dodatku II ovoga Pravilnika poziva na zajedničke naredbe o tehničkim standardima (Joint Technical Standard Orders - JTSO), primjenjivim naredbama o tehničkim standardima smatraju se i Europske naredbe o tehničkim standardima (European Technical Standard Order ETSO) i Naredba o tehničkim standardima (Technical Standard Order TSO).
+(4) Kada se u Dodatku I ovoga Pravilnika zahtijeva Svjedodžba o plovidbenosti, za Aneks II helikopter prihvatljiva je Svjedodžba o plovidbenosti izdana u skladu s Aneksom 8 Čikaške konvencije.«
