@@ -1,0 +1,5 @@
+## Specijalist medicine rada
+# Članak 22.
+(1) Specijalist medicine rada na temelju donesene ocjene zdravstvene sposobnosti izdaje Uvjerenje o zdravstvenoj sposobnosti za vojnu službu na tiskanici UZS-RI koja se nalazi u prilogu ovoga Pravilnika i njegov je sastavni dio (Prilog 7). Tiskanica se popunjava u skladu s uputom za popunjavanje Uvjerenja o zdravstvenoj sposobnosti za vojnu službu koja se nalazi u prilogu ovoga Pravilnika i njegov je sastavni dio (Prilog 7a).
+(2) Uvjerenja o zdravstvenoj sposobnosti valjana su od datuma izdavanja uvjerenja do datuma isteka valjanosti koji se utvrđuje u skladu s rokovima provedbe redovitih zdravstvenih pregleda propisanim člankom 17. ovoga Pravilnika i rokovima valjanosti uvjerenja propisanim člankom 42. stavkom 1. ovoga Pravilnika.
+(3) Valjanost uvjerenja o zdravstvenoj sposobnosti izdanog na temelju izvanrednog zdravstvenog pregleda je godinu dana od datuma izdavanja osim u slučaju navedenom u članku 42. stavku 1. ovoga Pravilnika te u slučaju zdravstvenog pregleda kandidata za izobrazbu u inozemstvu kada je uvjerenje o zdravstvenoj sposobnosti valjano dvadeset četiri (24) mjeseca od datuma izdavanja uvjerenja.

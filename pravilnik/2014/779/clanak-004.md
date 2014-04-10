@@ -1,0 +1,5 @@
+# Članak 4.
+(1) Zdravstvena sposobnost za vojnu službu utvrđuje se za pripadnike Oružanih snaga: djelatne vojne osobe, kadete, vojne stipendiste, državne službenike i namještenike na rasporedu u Oružanim snagama, pričuvnike i za zrakoplovno osoblje u skladu s odredbama ovoga Pravilnika.
+(2) Odredbe ovoga Pravilnika o djelatnim vojnim osobama primjenjuju se i na djelatne vojne osobe raspoređene na službu izvan Oružanih snaga.
+(3) Službenim osobama (državnim službenicima) zaposlenim u Vojnoj sigurnosno-obavještajnoj agenciji (u daljnjem tekstu: VSOA) utvrđuje se zdravstvena sposobnost za poslove koje obavljaju prema načinu, kriterijima i ovlastima propisanim ovim Pravilnikom za časnike.
+(4) Odredbe ovoga Pravilnika o utvrđivanju zdravstvene sposobnosti ne primjenjuju se na djelatnike Vojnog ordinarijata u Republici Hrvatskoj (u daljnjem tekstu: Vojni ordinarijat) i vojne kapelane u vojnim kapelanijama koji se mogu uputiti na zdravstveni pregled radi preventivnog utvrđivanja zdravstvenog stanja.

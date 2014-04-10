@@ -1,0 +1,7 @@
+# Članak 20.
+(1) Utvrđivanje zdravstvene sposobnosti provodi se u skladu s Metodologijskim uputama za provedbu zdravstvenih pregleda (Prilog 1) te prema kriterijima utvrđenim Popisom bolesti i srodnih zdravstvenih problema (Prilog 5), Popisom minimalnih zdravstvenih zahtjeva i Zdravstvenim standardima za dužnosti zrakoplovnog osoblja (Prilog 6).
+(2) Popis minimalnih zdravstvenih zahtjeva utvrđuje i donosi čelnik ustrojstvene jedinice Ministarstva obrane nadležne za poslove vojnog zdravstva. Ovim popisom utvrđuju se minimalni zdravstveni zahtjevi za odabir i raspoređivanje - rotaciju na ustrojbeno/radno mjesto/dužnost, skupinu dužnosti i specijalnost roda/službe/struke u ustrojstvenim jedinicama Oružanih snaga.
+(3) Utvrđivanje psihičke sposobnosti za vojnu službu uređeno je pravilnikom kojim se utvrđuju zdravstveni, psihički, tjelesni i sigurnosni uvjeti za prijam u službu u Oružane snage.
+(4) Utvrđivanje zdravstvene sposobnosti osoba na mjestima s posebnim uvjetima rada provodi se i na temelju dodatnih kriterija u skladu s pravilnikom kojim se propisuju kriteriji zdravstvenih pregleda osoba na poslovima s posebnim uvjetima rada.
+(5) Ocjena zdravstvene sposobnosti donosi se na temelju obavljenog zdravstvenog pregleda, medicinske i druge dokumentacije te psihologijskih ispitivanja.
+(6) Za potrebe redovitog i izvanrednog zdravstvenog pregleda valjana je zdravstvena dokumentacija koja nije starija od šest (6) mjeseci, uz mogućnost ponavljanja odnosno dodatne obrade po indikaciji.

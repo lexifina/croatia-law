@@ -1,0 +1,6 @@
+# Članak 36.
+(1) Viša zdravstvena komisija odlučuje o pritužbi na odluku prvostupanjske zdravstvene komisije o ocjeni zdravstvene sposobnosti u neupravnom postupku.
+(2) Viša zdravstvena komisija rješava o pritužbi na temelju dokumentacije pribavljene od prvostupanjske zdravstvene komisije, a može po potrebi dopuniti postupak pribavljanjem dodatne dokumentacije, dodatnim specijalističkim pregledima, dodatnim psihologijskim ispitivanjima u skladu s postupkom uređenim pravilnikom kojim se utvrđuju zdravstveni, psihički, tjelesni i sigurnosni uvjeti za prijam u službu u Oružane snage.
+(3) U radu Više zdravstvene komisije pri rješavanju pritužbi na ocjenu zdravstvene sposobnosti zrakoplovnog osoblja i stalno ukrcanih osoba na brodovima Oružanih snaga na poziv predsjednika komisije sudjeluju specijalisti iz drugih područja medicine i stručnjaci iz članka 21. stavka 2. ovoga Pravilnika.
+(4) Viša zdravstvena komisija dužna je odluku po pritužbi donijeti u roku od petnaest (15) dana od dana zaprimanja pritužbe, odnosno najdulje u roku od šezdeset (60) dana kada je za rješavanje pritužbe potrebno pribaviti dodatnu dokumentaciju.
+(5) Odluka Više zdravstvene komisije dostavlja se putem prvostupanjske zdravstvene komisije osobama i ustrojstvenim jedinicama iz članka 34. stavka 1. ovoga Pravilnika.

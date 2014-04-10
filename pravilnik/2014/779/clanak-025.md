@@ -1,0 +1,3 @@
+# Članak 25.
+(1) Kada je pripadnik Oružanih snaga ocijenjen sposobnim za djelatnu vojnu službu odnosno za službu u Oružanim snagama, a nesposobnim za rad na ustrojbenom ili radnom mjestu i/ili nesposobnim za obavljanje poslova iz skupine dužnosti i/ili nesposobnim za obavljanje poslova za dodijeljenu specijalnost roda/službe/struke, nadležni personalni odjel/djelatnik pokrenut će postupak rasporeda na drugo odgovarajuće ustrojbeno ili radno mjesto.
+(2) Ocjena nesposoban za službu u Oružanim snagama za državne službenike i namještenike temelj je za pokretanje postupka ocjene radne sposobnosti pri nadležnoj ispostavi Hrvatskog zavoda za mirovinsko osiguranje.
