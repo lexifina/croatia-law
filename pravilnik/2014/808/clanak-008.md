@@ -1,0 +1,5 @@
+# Članak 8.
+(1) Ako je u postupku kontrole utvrđeno, uvidom u evidencije iz članka 5. ovoga Pravilnika, da osoba radi ili je radila kod obveznika, ali da ju obveznik nije u roku propisanom ZOMO-om prijavio Zavodu i uspostavio za nju prijavno-odjavne podatke, kontrolor će to naznačiti u zapisniku, navodeći i dokumentaciju na temelju koje je to utvrđeno i zatražiti od obveznika da dostavi Zavodu prijavno-odjavne podatke za osiguranika.
+(2) Ako je u postupku kontrole, uvidom u evidencije o osiguranicima, utvrđeno da je Zavod zaprimio prijavno-odjavne podatke i propisno ih ovjerio, ali ih nije evidentirao u evidencijama Zavoda, tada će kontrolor na osnovi prijavno-odjavnih podataka koji se nalaze u evidencijama obveznika uspostaviti istovjetne preslike i evidentirati ih u evidencijama Zavoda.
+(3) Uspostavljanje i promjenu podataka na osnovi zapisnika iz članka 9. stavka 1. i 2. ovoga Pravilnika obvezan je obaviti obveznik na propisanim prijavama.
+(4) U slučaju da obveznik ne uspostavi propisane prijave iz stavka 3. ovoga članka, podliježe odgovornosti u smislu odredaba glave XII. ZOMO.
