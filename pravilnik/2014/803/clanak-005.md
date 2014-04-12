@@ -1,0 +1,2 @@
+# Članak 5.
+U slučaju kada je određen izvođač koji je odgovoran za međusobno usklađivanje radova (u daljnjem tekstu: glavni izvođač) pisana izjava glavnog izvođača sadrži podatke o građevini i građevinskoj dozvoli, podatke o glavnom izvođaču (naziv i sjedište odnosno ime i adresu te OIB), podatke o glavnom inženjeru gradilišta (ime i prezime), izjavu o cjelovitosti i međusobnoj usklađenosti radova, te popis pisanih izjava svih izvođača koji su sudjelovali u građenju građevine.
