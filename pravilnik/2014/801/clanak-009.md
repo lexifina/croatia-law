@@ -1,0 +1,10 @@
+## PRIJELAZNE I ZAVRŠNE ODREDBE
+# Članak 9.
+Vodopravne dozvole izdane do stupanja na snagu ovoga Pravilnika, po odredbama Pravilnika o graničnim vrijednostima opasnih i drugih tvari u otpadnim vodama (»Narodne novine«, broj 94/2008), Pravilnika o graničnim vrijednostima emisija otpadnih voda (»Narodne novine« br. 87/2010) i Pravilnika o graničnim emisijama otpadnih voda (»Narodne novine«, broj 80/2013) moraju se uskladiti s odredbama ovoga Pravilnika do 1. siječnja 2017.
+Granične vrijednosti emisija otpadnih voda za postrojenja za koje se izdaje okolišna dozvola, a ne nalaze se u popisu Ugovora o pristupanju Republike Hrvatske Europskoj uniji (»Narodne novine - Međunarodni ugovori«, broj 2/2012), određuju se sukladno odredbama ovoga Pravilnika koje se odnose na postrojenja za koje se izdaje okolišna dozvola, te sukladno članku 44. Uredbe o okolišnoj dozvoli (»Narodne novine«, broj 8/2014), ako je to predmetno.
+Granične vrijednosti emisija otpadnih voda za postrojenja navedena u popisu Ugovora o pristupanju Republike Hrvatske Europskoj uniji (»Narodne novine - Međunarodni ugovori«, broj 2/2012), određuju sukladno odredbama ovoga Pravilnika koje se odnose na postrojenja za koje se izdaje okolišna dozvola, te sukladno odredbama članaka 44. i članka 48. Uredbe o okolišnoj dozvoli (»Narodne novine«, broj 8/2014), ako je to predmetno.
+Svi upravni i drugi postupci izdavanja vodopravnih akata, osim obvezujućeg vodopravnog mišljenja u postupku utvrđivanja objedinjenih uvjeta zaštite okoliša ili mišljenja u postupku izdavanja okolišnih dozvola, započeti do stupanja na snagu ovoga Pravilnika, po odredbama pravilnika iz stavka 1. ovoga članka, dovršit će se će se po odredbama tih pravilnika s rokom važenja tih akata do 1. siječnja 2017.
+Članak 11.
+Danom stupanja na snagu ovoga Pravilnika prestaju važiti odredbe članka 18. stavaka 2., 3., 4. i 5., i članak 19. Pravilnika o načinima i uvjetima termičke obrade otpada (»Narodne novine«, broj 45/2007).
+Članak 12.
+Ovaj Pravilnik stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
