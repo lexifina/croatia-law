@@ -1,0 +1,3 @@
+# Članak 3.
+(1) Osiguranik odnosno osigurana osoba, ima pravo na naknadu troškova za smještaj i prehranu kada je u postupku ostvarivanja prava iz mirovinskog osiguranja potrebno da duže vrijeme boravi u drugom mjestu (za potrebe medicinskog vještačenja).
+(2) Invalid rada - korisnik profesionalne rehabilitacije ima pravo na naknadu troškova za smještaj i prehranu tijekom profesionalne rehabilitacije u slučajevima kada se profesionalna rehabilitacija provodi izvan mjesta prebivališta invalida rada, a ne može se osigurati stalni dnevni prijevoz od mjesta stanovanja do mjesta gdje se odvija profesionalna rehabilitacija.

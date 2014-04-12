@@ -1,0 +1,1 @@
+Na temelju članka 54. i članka 76. stavka 4. točke 2. Zakona o mirovinskom osiguranju (»Narodne novine«, broj 157/2013) i članka 21. točka 1. i članka 22. točka 8. Statuta Hrvatskog zavoda za mirovinsko osiguranje (»Narodne novine«, broj 28/2014) Upravno vijeće Hrvatskog zavoda za mirovinsko osiguranje, na sjednici održanoj 20. ožujka 2014., donosi
