@@ -1,0 +1,1 @@
+Na temelju članka 93. stavka 4. Zakona o mirovinskom osiguranju (»Narodne novine«, broj 157/2013), članka 21. i 22. Statuta Hrvatskog zavoda za mirovinsko osiguranje (»Narodne novine«, broj 28/2014), Upravno vijeće Hrvatskog zavoda za mirovinsko osiguranje, na sjednici održanoj 20. ožujka 2014., donosi
