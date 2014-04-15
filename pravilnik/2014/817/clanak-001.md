@@ -1,0 +1,2 @@
+# Članak 1.
+Ovim Pravilnikom se propisuje oblik i sadržaj obrasca zahtjeva za izdavanje izvozne dozvole i dozvole za prijenos robe s dvojnom namjenom, dozvole za pružanje brokerskih usluga, dozvole za pružanje tehničke pomoći, popis dokumenata koji se prilažu uz zahtjev, uvjete za izdavanje globalne dozvole te obrazac zahtjeva za izdavanje potvrde za korištenje Opće izvozne dozvole Europske unije.

@@ -1,0 +1,5 @@
+# Članak 2.
+(1) Zahtjev za izdavanje izvozne dozvole i dozvole za prijenosu u skladu sa člankom 9. točkama a., b. i d. i člankom 13. stavkom 2. Zakona o nadzoru robe s dvojnom namjenom (»Narodne novine« br. 80/11. i 68/13.; u daljnjem tekstu: Zakon) podnosi se Ministarstvu vanjskih i europskih poslova (u daljnjem tekstu: Ministarstvo), u sadržaju i obliku sukladno obrascu koji je sastavni dio ovog Pravilnika (Prilog I.).
+(2) Zahtjev za izdavanje dozvole za pružanje brokerskih usluga s robom s dvojnom namjenom u skladu sa člankom 9. točkom c. Zakona podnosi se Ministarstvu, u sadržaju i obliku sukladno obrascu koji je sastavni dio ovog Pravilnika (Prilog II.).
+(3) Zahtjev za izdavanje dozvole za pružanje tehničke pomoći s robom s dvojnom namjenom u skladu sa člankom 9. točkom e. Zakona podnosi se Ministarstvu, u sadržaju i obliku sukladno obrascu koji je sastavni dio ovog Pravilnika (Prilog III.).
+(4) Zahtjev za izdavanje potvrde o korištenju Opće izvozne dozvole Europske unije u skladu sa člankom 13. stavkom 7. Zakona, podnosi se Ministarstvu, u sadržaju i obliku sukladno obrascu koji je sastavni dio ovog Pravilnika (Prilog IV.).
