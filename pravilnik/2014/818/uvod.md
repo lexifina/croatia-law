@@ -1,0 +1,1 @@
+Na temelju članka 16. stavka 2. Zakona o nadzoru robe s dvojnom namjenom (»Narodne novine« br. 80/11. i 68/13.) i članka 7. Zakona o ustrojstvu i djelokrugu ministarstava i drugih središnjih tijela državne uprave (»Narodne novine« br. 150/11., 22/12., 39/13., 125/13. i 148/13.), prva potpredsjednica Vlade i ministrica vanjskih i europskih poslova donosi
