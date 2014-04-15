@@ -1,0 +1,6 @@
+## V. NAGRADE ZA ZAPOŠLJAVANJE IZVAN KVOTE
+# Članak 16.
+(1) Poslodavac koji zapošljava više osoba s invaliditetom od propisane kvote te poslodavac koji zapošljava manje od 20 radnika, među kojima su osobe s invaliditetom čiji invaliditet nije posljedica ozljede ili profesionalne bolesti nastale pri radu kod tog poslodavca, ima pravo na novčanu nagradu u iznosu od 15% minimalne plaće mjesečno za svakog radnika s invaliditetom koji predstavlja višak u odnosu na propisanu kvotu. Poslodavac može ostvariti novčanu nagradu za razdoblje od najduže šest mjeseci kontinuirano za pojedinu osobu s invaliditetom koju zapošljava.
+(2) Pravo na novčanu nagradu ne može ostvariti poslodavac koji ima nepodmirene novčane obveze prema državi ili radnicima po bilo kojoj osnovi.
+(3) Pravo na novčanu nagradu ne može ostvariti na svoje ime osoba s invaliditetom koja se samozapošljava.
+(4) Novčanu nagradu iz stavka 1. ovoga članka ne mogu ostvariti tijela državne uprave, tijela sudbene vlasti, tijela državne vlasti i druga državna tijela, tijela jedinica lokalne i područne (regionalne) samouprave, javne službe, javne ustanove, izvanproračunski i proračunski fondovi, pravne osobe u vlasništvu ili u pretežitom vlasništvu Republike Hrvatske, pravne osobe u vlasništvu ili pretežitom vlasništvu jedinica lokalne i područne (regionalne) samouprave, te pravne osobe s javnim ovlastima.

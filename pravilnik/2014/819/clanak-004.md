@@ -1,0 +1,9 @@
+## II. ISPUNJENJE KVOTE ZA ZAPOŠLJAVANJE OSOBA S INVALIDITETOM
+# Članak 4.
+Obvezu kvotnog zapošljavanja poslodavac može ispuniti tako da zaposli propisani broj osoba s invaliditetom, a u suprotnom tako da:
+- zaključi jedan ili više ugovora o poslovnoj suradnji s osobom s invaliditetom koja se samozapošljava, čija je ukupna vrijednost jednaka najmanje minimalnoj mjesečnoj plaći svake osobe s invaliditetom koju bi poslodavac morao zaposliti unutar propisane kvote, odnosno u slučaju sklapanja ugovora na rok duži od jednog mjeseca, čija je prosječna mjesečna vrijednost jednaka najmanje minimalnoj mjesečnoj plaći svake osobe s invaliditetom koju bi poslodavac morao zaposliti unutar propisane kvote,
+- primi na obavljanje prakse, utvrđene nastavnim planom, učenike s teškoćama u razvoju ili studente s invaliditetom, s time da se 4 praktikanta priznaju kao 1 zaposlena osoba s invaliditetom,
+- primi na obavljanje prakse rehabilitante u sklopu profesionalne rehabilitacije koju provodi centar za profesionalnu rehabilitaciju, s time da se 2 rehabilitanta priznaju kao 1 zaposlena osoba s invaliditetom,
+- sklopi jedan ili više ugovora o djelu sa studentom s invaliditetom koji ima status redovitog studenta prema kojima su ukupni priznati troškovi rada jednaki najmanje minimalnoj mjesečnoj plaći svake osobe s invaliditetom koju bi poslodavac morao zaposliti unutar propisane kvote,
+- primi na stručno osposobljavanje za rad bez zasnivanja radnog odnosa osobe s invaliditetom, s time da se 4 takve osobe priznaju kao 1 zaposlena osoba s invaliditetom,
+- daje jednu ili više stipendija za redovno obrazovanje osobama s invaliditetom čija je ukupna visina jednaka najmanje minimalnoj mjesečnoj plaći svake osobe s invaliditetom koju bi poslodavac morao zaposliti unutar propisane kvote (u daljnjem tekstu: zamjenska kvota).

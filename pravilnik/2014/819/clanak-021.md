@@ -1,0 +1,4 @@
+## VII. PRIJELAZNE I ZAVRŠNE ODREDBE
+# Članak 21.
+(1) Poslodavci koji u vrijeme stupanja na snagu ovoga Pravilnika zapošljavaju osobe s invaliditetom, dužni su te osobe prijaviti Hrvatskom zavodu za mirovinsko osiguranje sukladno propisanom obrascu Hrvatskog zavoda za mirovinsko osiguranje i Pravilniku o sadržaju i načinu vođenja očevidnika zaposlenih osoba s invaliditetom, u razdoblju od 1. svibnja 2014. godine do 31. listopada 2014. godine. U suprotnom, poslodavci te osobe ne mogu ubrojiti u kvotu niti na taj način retrogradno ostvariti novčanu nagradu predviđenu ovim Pravilnikom.
+(2) Radi ispunjenja zamjenske kvote za siječanj 2015. godine poslodavci obveznici kvote dužni su dostaviti Zavodu ugovore i obrasce za najavu zamjenskog ispunjavanja kvote iz članka 8. ovoga Pravilnika najkasnije do 31. prosinca 2014. godine. U suprotnom, tim ugovorima nije moguće ispuniti zamjensku kvotu.

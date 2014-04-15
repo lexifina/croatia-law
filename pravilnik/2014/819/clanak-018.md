@@ -1,0 +1,2 @@
+# Članak 18.
+Poslodavci koji zapošljavaju više osoba s invaliditetom od propisane kvote moraju, pri korištenju novčane nagrade, poštovati kronološko načelo na način da se osobe s invaliditetom ubrajaju u kvotu prema datumu sklapanja ugovora o radu s tim poslodavcem bez obzira na vrijeme nastanka invaliditeta. U kvotu se ubrajaju osobe s invaliditetom koje imaju ugovor o radu s ranijim datumom, dok novčanu nagradu za prekoračenje kvote poslodavci mogu ostvariti za osobe s invaliditetom koje imaju ugovor o radu s kasnijim datumom.
