@@ -1,0 +1,6 @@
+# Članak 51.
+Sektor lokacijskih dozvola i investicija obavlja upravne i stručne poslove iz područja prostornog uređenja, te zastupa Ministarstvo u upravnim sporovima protiv akata za provedbu prostornih planova. U okviru tog područja izdaje akte za provedbu prostornih planova; sudjeluje u pripremi i praćenju strateških infrastrukturnih projekata i investicija, kao i ostalih investicija za koje se odredi poseban interes; te sudjeluje u uspostavi i praćenju elektroničkih akata. Sudjeluje u izradi i daje stručna mišljenja i objašnjenja za provedbu zakona i drugih propisa; sudjeluje u radu povjerenstava za stratešku procjenu utjecaja na okoliš, procjenu utjecaja na okoliš i tehničke preglede; daje mišljenja za potrebe rješavanja imovinsko-pravnih odnosa na zemljištu u vlasništvu Republike Hrvatske, te druga mišljenja propisana posebnim zakonima; sudjeluje u koordinaciji projekata infrastrukture i gospodarenja otpadom koji se kandidiraju za dobivanje financijskih sredstava iz fondova Europske unije.
+U Sektoru lokacijskih dozvola i investicija ustrojavaju se sljedeće ustrojstvene jedinice:
+6.1.1. Služba za izdavanje lokacijskih dozvola
+6.1.2. Služba za investicije.
+6.1.1. Služba za izdavanje lokacijskih dozvola

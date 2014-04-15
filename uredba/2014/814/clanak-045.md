@@ -1,0 +1,3 @@
+# Članak 45.
+Odjel za međunarodno i europsko pravo priprema i koordinira mišljenja na prijedloge međunarodnih, bilateralnih ugovora i sporazuma; obavlja poslove i zadatke u vezi sa zakonodavnim projektima koji se temelje na međunarodnoj suradnji, odnosno međunarodnim, bilateralnim ugovorima i sporazumima, zakonodavnim projektima u okviru programa pomoći i suradnje s Europskom unijom te drugim zakonodavnim projektima; koordinira primjenu propisa te poslove i zadatke međunarodnopravne suradnje; obavlja poslove suradnje s međunarodnim organizacijama i institucijama; obavlja i druge poslove iz svog djelokruga.
+5.2.2. Služba za žalbe i zastupanje

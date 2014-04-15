@@ -1,0 +1,3 @@
+# Članak 47.
+Odjel za žalbe rješava upravne stvari po žalbama iz područja prostornoga uređenja, graditeljstva, komunalnog gospodarstva i stanovanja; provodi postupak po izvanrednim pravnim lijekovima te priprema rješenja po prigovorima koja donosi ministar, priprema, izrađuje i daje odgovore na predstavke stranaka; daje mišljenja i objašnjenja u pogledu provedbe zakona i drugih propisa iz područja rješavanja upravne stvari; surađuje s upravnim sudovima, Državnim odvjetništvom Republike Hrvatske, drugim tijelima državne vlasti i prvostupanjskim tijelima u vezi drugostupanjskog postupanja; obavlja i druge poslove iz svog djelokruga.
+5.2.2.2. Odjel za zastupanje
