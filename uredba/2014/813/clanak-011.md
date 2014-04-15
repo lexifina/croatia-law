@@ -1,0 +1,6 @@
+# Članak 11.
+(1) Središnje tijelo državne uprave nadležno za zaštitu i spašavanje izvršava provjeru podataka dostavljenih na obrascu iz Priloga II.A ove Uredbe unutar Registra postrojenja u kojima su prisutne opasne tvari na način da utvrdi:
+- je li postrojenje ispod graničnih vrijednosti iz popisa Priloga I.A, dijelova 1. i 2., stupca 2., odnosno iz popisa Priloga I.B, stupca 2. ove Uredbe (točnost izračuna u skladu s Prilogom I.A, odnosno Prilogom I.B ove Uredbe);
+- jesu li operativni plan i ostali planovi, koji se izrađuju u skladu s odredbama propisa kojima se uređuje zaštita i spašavanje, ispravni u odnosu na rezultate procjene rizika.
+(2) Ministarstvo će izvršiti provjeru podataka dostavljenih na obrascu iz Priloga II.B ove Uredbe unutar Registra postrojenja u kojima su prisutne opasne tvari, točnije provjeru administrativnog položaja postrojenja (niži i viši razred) u skladu s popisima Priloga I.A, dijelom 1. i 2., odnosno s popisa Priloga I.B ove Uredbe (točnost izračuna u skladu s Prilogom I.A, odnosno Prilogom I.B ove Uredbe).
+(3) Ako je potrebno, po pregledu obavijesti iz stavka 1. ovoga članka, Ministarstvo i središnje tijelo državne uprave nadležno za zaštitu i spašavanje, zatražit će dodatne podatke.
