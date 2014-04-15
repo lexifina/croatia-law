@@ -1,0 +1,20 @@
+# Članak 5.
+Osim podataka iz članka 4. ovoga Pravilnika očevidnik sadrži i sljedeće podatke vezane uz osobu s invaliditetom:
+- ime i prezime,
+- osobni identifikacijski broj (OIB),
+- osobni broj osiguranika mirovinskog osiguranja,
+- datum rođenja,
+- spol,
+- adresa prebivališta i mjesta rada,
+- datum stjecanja invaliditeta,
+- stupanj oštećenja ako je određen postotkom,
+- osnova osiguranja,
+- datum stjecanja svojstva osiguranika mirovinskog osiguranja,
+- datum prestanka svojstva osiguranika mirovinskog osiguranja,
+- razlog prestanka svojstva osiguranika mirovinskog osiguranja,
+- radno vrijeme,
+- zanimanje,
+- najviša završena škola,
+- stručno obrazovanje,
+- stručna sprema za obavljanje poslova,
+- vrijeme na koje je sklopljen ugovor o radu (neodređeno s punim radnim vremenom, neodređeno s nepunim radnim vremenom, određeno s punim radnim vremenom ili određeno s nepunim radnim vremenom).

@@ -1,0 +1,4 @@
+# Članak 8.
+(1) U svrhu utvrđivanja statusa i uvjeta za upis u očevidnik iz članka 4. ovoga Pravilnika Hrvatski zavod za mirovinsko osiguranje koristi podatke iz Hrvatskog registra o osobama s invaliditetom i drugih nadležnih tijela.
+(2) Osiguranici koji nisu navedeni u članku 4. točka 1. do 12. ovoga Pravilnika, za potrebe upisa u očevidnik, moraju imati nalaz i mišljenje Zavoda za vještačenje, profesionalnu rehabilitaciju i zapošljavanje osoba s invaliditetom u skladu s člankom 4. točka 13. ovoga Pravilnika.
+(3) Za osiguranika koji je stekao status osobe s invaliditetom prema propisima drugih država članica Europske unije, kao dokaz o invaliditetu za potrebe upisa u očevidnik, poslodavac je dužan priložiti ovjereni prijevod isprave nadležnog tijela države članice Europske unije o utvrđenju invaliditeta.
