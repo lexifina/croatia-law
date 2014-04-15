@@ -1,0 +1,5 @@
+# Članak 20.
+(1) Osobama s invaliditetom zaposlenim u integrativnoj radionici mora se, u obavljanju poslova, osigurati stručna pomoć, nadzor i vodstvo stručnih radnika koji rade u integrativnoj radionici.
+(2) Integrativna radionica može temeljem uputnice centra za profesionalnu rehabilitaciju primati na praksu rehabilitante koji su u postupku profesionalne rehabilitacije. Broj zaposlenika integrativne radionice koji nisu osobe s invaliditetom zajedno s brojem rehabilitanata na praksi ne smije biti veći od broja zaposlenih osoba s invaliditetom u integrativnoj radionici.
+(3) Ako broj zaposlenih osoba s invaliditetom i rehabilitanata na praksi zahtijeva, sukladno odredbama članka 23. stavak 4. ovoga Pravilnika, veći broj stručnih radnika od onog koji je zaposlen u integrativnoj radionici, centar za profesionalnu rehabilitaciju koji je izdao uputnicu iz stavka 2. ovoga članka dužan je osigurati dovoljan broj stručnih radnika za vrijeme obavljanja prakse.
+(4) Radi uvođenja osobe s invaliditetom u rad i radnu okolinu, integrativna radionica može koristiti usluge centra za profesionalnu rehabilitaciju ili osposobiti svoje zaposlenike za taj posao.

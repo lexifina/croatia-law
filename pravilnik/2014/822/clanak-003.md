@@ -1,0 +1,6 @@
+# Članak 3.
+(1) Zaštitno zapošljavanje je zapošljavanje osobe s invaliditetom na radnom mjestu i u radnoj okolini koji su prilagođeni radnim sposobnostima i potrebama osobe s invaliditetom koja nije zapošljiva na uobičajenom radnom mjestu.
+(2) Zaštitna radna mjesta utvrđuju se posebnim aktom poslodavca i to na način da se redovno radno mjesto razdijeli na više funkcionalno povezanih zaštitnih radnih mjesta na kojima se zapošljavaju osobe s invaliditetom.
+(3) Zaštitna radna mjesta mogu se osigurati i u integrativnoj radionici sukladno članku 19. stavak 3. ovoga Pravilnika, a utvrđuju se posebnim aktom.
+(4) U iznimnim slučajevima, radno mjesto osobe s invaliditetom koja posao obavlja kod kuće, a zaposlena je kod poslodavca koji nema status zaštitne ili integrativne radionice, može se smatrati zaštitnim radnim mjestom ako je nalazom i mišljenjem centra utvrđeno da je osoba zapošljiva samo na zaštitnom radnom mjestu, a radno mjesto kod kuće je u cijelosti prilagođeno vrsti i težini invaliditeta te obavljanju radnih zadataka.
+(5) Na utvrđivanje radnog mjesta kod kuće kao zaštitnog radnog mjesta na odgovarajući način se primjenjuju odredbe ovoga Pravilnika koje se odnose na zaštitne radionice.

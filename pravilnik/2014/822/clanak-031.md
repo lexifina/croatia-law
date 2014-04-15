@@ -1,0 +1,4 @@
+# Članak 31.
+(1) Kada Zavod u obavljanju nadzora iz članka 29. ovoga Pravilnika ustanovi nepravilnosti, obvezan je dostaviti izvješće o utvrđenim nepravilnostima ministarstvu nadležnom za rad i integrativnoj radionici u roku od 15 dana od dana završetka nadzora.
+(2) Ministarstvo nadležno za rad, temeljem dostavljenog izvješća iz stavka 1. ovoga članka, naložit će integrativnoj radionici da otkloni nepravilnosti u određenom roku. Ako integrativna radionica ne otkloni nepravilnosti u tome roku, ukinut će joj se status integrativne radionice.
+(3) U slučajevima kada se u radu integrativne radionice utvrde veće nepravilnosti ili nenamjensko trošenje sredstava primljenih od Zavoda, ministarstvo nadležno za rad može joj ukinuti status integrativne radionice bez davanja roka za otklanjanje nepravilnosti.

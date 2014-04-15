@@ -1,0 +1,5 @@
+# Članak 14.
+(1) Zaštitna radionica dužna je prije donošenja odluke o povećanju ili smanjenju osnovnog kapitala, promjeni vlasništva, promjeni djelatnosti, odluke o kupnji i prodaji nekretnina, te odluke o prestanku rada, obavijestiti o tome ministarstvo nadležno za rad i Zavod.
+(2) Ako ministar nadležan za rad procijeni da odluka iz stavka 1. ovoga članka može imati štetan utjecaj na očuvanje radnih mjesta osoba s invaliditetom, naložit će Zavodu da provede postupak za davanje mišljenja o ispunjavanju uvjeta za ostvarivanje statusa zaštitne radionice. U slučaju da Zavod utvrdi da zaštitna radionica ne ispunjava uvjete za ostvarivanje statusa zaštitne radionice, istoj će se oduzeti status zaštitne radionice.
+(3) Ako zaštitna radionica namjerava povećati broj zaposlenika s invaliditetom na zaštitnim radnim mjestima za više od 10, mora dobiti suglasnost ministarstva nadležnog za rad.
+(4) Na postupak za pribavljanje suglasnosti za povećanje broja zaposlenih osoba s invaliditetom na zaštitnim radnim mjestima iz stavka 3. ovoga članka primjenjuju se odredbe članaka 11. i 12. ovoga Pravilnika.

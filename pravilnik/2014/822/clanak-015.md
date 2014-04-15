@@ -1,0 +1,5 @@
+# Članak 15.
+(1) Zaštitna radionica ostvaruje pravo na subvenciju plaće osoba s invaliditetom i druge poticaje predviđene Pravilnikom o poticajima pri zapošljavanju osoba s invaliditetom odnosno drugim posebnim propisima.
+(2) Osnivač je dužan osigurati sredstva za redovno funkcioniranje zaštitnih radionica.
+(3) Novčana sredstva iz stavka 1. ovoga članka zaštitna radionica dužna je voditi na posebnom računu i upotrijebiti ih isključivo za namjenu za koju su dobivena, odnosno mora ih utrošiti isključivo za troškove plaće, investicije u osnovna sredstva koja su povezana s radom zaposlenih osoba s invaliditetom, poboljšanje radnih uvjeta za osobe s invaliditetom, obrazovanje i osposobljavanje zaposlenih te druge razvojne namjene koje osiguravaju veću zapošljivost osoba s invaliditetom.
+(4) Na zaštitno radno mjesto u integrativnoj radionici i radno mjesto kod kuće koje ostvari status zaštitnog radnog mjesta primjenjuju se odredbe Pravilnika o poticajima pri zapošljavanju osoba s invaliditetom koje se odnose na zaštitne radionice.
