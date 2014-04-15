@@ -1,0 +1,2 @@
+# Članak 46.
+Ustanovama, odnosno trgovačkim društvima koja se bave profesionalnom rehabilitacijom i zapošljavanjem osoba s invaliditetom u vrijeme stupanja na snagu ovoga Pravilnika, a koji će ostvariti status centra u skladu sa Zakonom o profesionalnoj rehabilitaciji i zapošljavanju osoba s invaliditetom (»Narodne novine«, broj 157/13), priznaje se zatečeno stanje u smislu članaka 36. i 37. ovoga Pravilnika.

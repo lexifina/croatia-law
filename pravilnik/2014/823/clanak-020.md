@@ -1,0 +1,5 @@
+# Članak 20.
+(1) Nakon dostave nalaza i mišljenja iz članka 19. stavka 5. ovoga Pravilnika, naručitelj usluge dužan je u roku od 15 dana odlučiti o prihvaćanju individualnog plana profesionalne rehabilitacije.
+(2) Ako je naručitelj usluge suglasan s provođenjem daljnjih mjera profesionalne rehabilitacije iz individualnog plana profesionalne rehabilitacije, centar za profesionalnu rehabilitaciju i naručitelj sklopit će ugovor kojim se, između ostaloga, mogu definirati i rokovi za eventualna međuizvješća o tijeku profesionalne rehabilitacije.
+(3) Mjere profesionalne rehabilitacije utvrđene individualnim planom moraju se početi provoditi u roku od 30 dana od dana sklapanja ugovora iz stavka 2. ovoga članka, a samo u iznimnim slučajevima i nakon toga roka ako je to opravdano objektivnim razlozima.
+(4) Nakon završenog postupka profesionalne rehabilitacije, centar za profesionalnu rehabilitaciju će u roku od 15 dana naručitelju usluge dostaviti završno izvješće na obrascu koji je propisan Standardima usluga.

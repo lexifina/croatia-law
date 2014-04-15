@@ -1,0 +1,5 @@
+# Članak 31.
+(1) Uslugu stručne podrške može pružati centar za profesionalnu rehabilitaciju, odnosno centar može predložiti drugog pružatelja usluge ako sam ne može osigurati uslugu stručne podrške. Pružatelja usluge stručne podrške predlaže centar u dogovoru s osobom s invaliditetom, poslodavcem, odnosno osobom s invaliditetom koja se samozapošljava, te s pružateljem usluge.
+(2) U slučaju kada uslugu stručne podrške ne pruža sam centar za profesionalnu rehabilitaciju, centar će sklopiti ugovor o pružanju te usluge s odabranim pružateljem usluge.
+(3) Hrvatski zavod za zapošljavanje može koristiti usluge centra za profesionalnu rehabilitaciju za procjenu potrebne stručne podrške te izradu plana individualne stručne podrške za nezaposlenu osobu s invaliditetom koja je u postupku pripreme za zapošljavanje. U tom slučaju, centar surađuje s Hrvatskim zavodom za zapošljavanje pri odabiru mogućih pružatelja usluge stručne podrške.
+(4) Centar za profesionalnu rehabilitaciju vodi evidenciju pružatelja usluge stručne podrške za svoju regiju.
