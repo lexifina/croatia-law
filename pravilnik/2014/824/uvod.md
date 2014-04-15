@@ -1,0 +1,1 @@
+Na temelju članka 10. stavka 2. podstavka 2. Zakona o vodi za ljudsku potrošnju (»Narodne novine«, broj 56/2013), ministar zdravlja uz suglasnost ministra nadležnog za prostorno uređenje i graditeljstvo, donosi
