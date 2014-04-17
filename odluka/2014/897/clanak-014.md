@@ -1,0 +1,2 @@
+# Članak 14.
+U područjima gdje postoje veća odstupanja u organiziranju zdravstvene zaštite (zemljopisno-demografska obilježja, prometna povezanost, gustoća naseljenosti, morbiditetna specifičnost, broj gravitirajućih osiguranika, zaposlenih na poslovima na kojima se, sukladno važećim propisima, može raditi samo nakon prethodnog i redovnog utvrđivanja zdravstvene sposobnosti određenim ordinacijama medicine rada i sl.), Upravno vijeće Zavoda odlukom utvrđuje poseban standard po timu i kriterije za njegovu primjenu za provođenje specifične zdravstvene zaštite.

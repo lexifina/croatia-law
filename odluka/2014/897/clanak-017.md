@@ -1,0 +1,3 @@
+# Članak 17.
+(1) Ugovorna zdravstvena ustanova obvezna je u slučaju spriječenosti svojih radnika - specijalista medicine rada u obavljanju ugovorne specifične zdravstvene zaštite osigurati zamjenu te unaprijed, odnosno odmah nakon saznanja o tome izvijestiti nadležni regionalni ured odnosno područnu službu Zavoda, sukladno nadležnostima utvrđenim Statutom Hrvatskog zavoda za zdravstveno osiguranje.
+(2) Ugovorni specijalist medicine rada u privatnoj praksi obvezan je u slučaju spriječenosti u provođenju ugovorene zdravstvene zaštite osigurati zamjenu, te unaprijed, odnosno odmah nakon saznanja o tome izvijestiti nadležni regionalni ured odnosno područnu službu Zavoda sukladno nadležnostima utvrđenim Statutom Hrvatskog zavoda za zdravstveno osiguranje.

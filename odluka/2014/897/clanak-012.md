@@ -1,0 +1,2 @@
+# Članak 12.
+Ugovorni subjekt iz članka 8. stavka 3. ove Odluke obvezuje se da će se u provođenju specifične zdravstvene zaštite radnika iz članka 1. ove Odluke dosljedno pridržavati odredaba Zakona, Zakona o zdravstvenoj zaštiti, odredaba ove Odluke i drugih općih akata Zavoda te da osiguranicima iz članka 2. ove Odluke neće uskraćivati pravo na specifičnu zdravstvenu zaštitu koja im pripada prema Zakonu.
