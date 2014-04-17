@@ -1,0 +1,3 @@
+# Članak 9.
+Radi provedbe članka 108. stavka 2. podstavka 2. Zakona o cestama, županijske uprave za ceste od ukupno dobivenih sredstava iz Tablice br. 1. članka 7. ovoga Pravilnika, dužne su dio sredstava doznačiti gradovima s više od 35.000 stanovnika te gradovima koji su sjedišta županija (u daljnjem tekstu veliki gradovi).
+Sredstva iz članka 9. stavak 1. ovoga Pravilnika, županijske uprave za ceste doznačit će velikim gradovima mjesečno, sukladno priljevu sredstava iz članka 4. ovoga Pravilnika, a prema metodologiji utvrđenoj Pravilnikom o izmjenama i dopunama Pravilnika o rasporedu sredstava za održavanje i građenje županijskih i lokalnih cesta iz izvora sredstava Hrvatskih cesta d.o.o. u 2012 godini, članak 6.b i 6.c (»Narodne novine«, br. 122/12).
