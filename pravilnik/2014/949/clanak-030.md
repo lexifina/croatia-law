@@ -1,0 +1,6 @@
+# Članak 30.
+(1) Laboratorijska dijagnostika na razini primarne zdravstvene zaštite ostvaruje se na osnovi uputnice izabranog doktora obiteljske (opće) medicine, pedijatra i ginekologa izdane na tiskanici uputnice za primarni laboratorij ili uputnice ispostavljene elektroničkim putem kao elektronička isprava sukladno Zakonu o elektroničkoj ispravi (u daljnjem tekstu: e-uputnica za primarni laboratorij).
+(2) Tiskanica uputnice za primarni laboratorij veličine je 21 cm x14,5 cm (format A-5), a oblik i sadržaj otisnut je uz ovaj Pravilnik i čini njegov sastavni dio.
+(3) Tiskanica e-uputnice za primarni laboratorij izrađena na osnovi elektroničkog zapisa (vanjski obrazac prikaza e-uputnice za primarni laboratorij) mora sadržavati sve podatke kao i tiskanica uputnice iz stavka 2. ovog članka.
+(4) E-uputnicu za primarni laboratorij, otisnutu prema vanjskom obrascu iz stavka 3. ovoga članka, ne može se koristiti za ostvarivanje prava na laboratorijsku dijagnostiku na razini primarne zdravstvene zaštite, a izdaje se osiguranoj osobi samo na njezin zahtjev radi provedbe upravnih i drugih postupaka vezanih uz ostvarivanje prava iz obveznog zdravstvenog osiguranja.
+1.3. Specijalističko-konzilijarna zdravstvena zaštita

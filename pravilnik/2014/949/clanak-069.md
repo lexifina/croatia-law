@@ -1,0 +1,3 @@
+# Članak 69.
+(1) Pravo na naknadu troškova prijevoza ima i jedna osoba koju je izabrani doktor odredio za pratitelja osigurane osobe, pod uvjetom da osigurana osoba kojoj je određen pratitelj ne ispunjava uvjete za korištenje sanitetskog prijevoza propisane općim aktom ministra nadležnog za zdravlje iz članka 26. ovoga Pravilnika i to pod istim uvjetima kao i osigurana osoba za čijeg je pratitelja određena.
+(2) Pravo na potrebu pratitelja utvrđuje izabrani doktor ovisno o zdravstvenom stanju osigurane osobe, osim u slučajevima djece do 18. godine života, kao i osiguranim osobama iz članka 12. stavka 2. i 3. Zakona za koju se smatra da im je potrebna pratnja neovisno o tome ispunjavaju li uvjete za korištenje sanitetskog prijevoza.

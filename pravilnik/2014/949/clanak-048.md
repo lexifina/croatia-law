@@ -1,0 +1,3 @@
+# Članak 48.
+(1) Osiguraniku kojemu je prestao radni odnos, odnosno obavljanje djelatnosti osobnim radom za vrijeme trajanja privremene nesposobnosti za koju je u skladu sa Zakonom ostvarivao naknadu plaće, pripada pravo na nastavak isplate naknade plaće i nakon prestanka radnog odnosa, odnosno nakon prestanka obavljanja djelatnosti osobnim radom pod uvjetima utvrđenim člankom 51. Zakona.
+(2) Isplatu naknade plaće iz stavka 1. ovoga članka izvršit će Zavod neposredno osiguraniku na temelju dostavljenog izvješća o privremenoj nesposobnosti/spriječenosti za rad te potvrdi o plaći ili na osnovi podataka o plaći kojima raspolaže Zavod.

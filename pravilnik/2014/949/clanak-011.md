@@ -1,0 +1,4 @@
+# Članak 11.
+(1) Ako je članu obitelji osiguranika priznat status osigurane osobe u skladu s uvjetima utvrđenim člankom 9. i 10. ovoga Pravilnika, član obitelji obvezno zdravstveno osiguranje ostvaruje sve dok ispunjava te uvjete, s tim da je obvezan 30 dana prije isteka roka od godine dana od dana priznatog statusa osigurane osobe po tom osnovu ponovno dostaviti regionalnom uredu, odnosno područnoj službi Zavoda dokaz da i dalje ispunjava propisane uvjete.
+(2) Pri utvrđivanju statusa osigurane osobe iz članka 8. ovoga Pravilnika Zavod obvezno donosi pisano rješenje.
+(3) Osiguranik preko kojeg je osigurana osoba iz stavka 1. ovoga članka stekla status osigurane osobe u obveznom zdravstvenom osiguranju obvezan je u roku 8 dana prijaviti svaku promjenu koja je od utjecaja na ispunjenje uvjeta uzdržavanja iz članka 9. ovoga Pravilnika.

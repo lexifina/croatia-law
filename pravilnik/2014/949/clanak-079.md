@@ -1,0 +1,2 @@
+# Članak 79.
+Iznimno od članka 78. ovoga Pravilnika u slučajevima kad se prema odredbi članka 54. stavka 5. Zakona i članka 73. stavka 3., odnosno članka 75. stavka 3. ovoga Pravilnika za utvrđivanje naknade plaće kao osnovica za naknadu plaće uzima najniža osnovica osiguranja, naknada plaće obračunava se od te najniže osnovice osiguranja neovisno da li je u posljednjih šest mjeseci prije mjeseca u kojem je nastupio slučaj na osnovi kojeg se stječe pravo na naknadu osiguranik ostvario primitke od kojih se, prema propisima o porezu na dohodak, utvrđuje drugi dohodak.

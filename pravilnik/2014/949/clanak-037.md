@@ -1,0 +1,4 @@
+# Članak 37.
+(1) Pravo na cjelodnevni smještaj uz dijete u ugovornoj specijalnoj bolnici za medicinsku rehabilitaciju može ostvariti osigurana osoba - jedan od roditelja djeteta s posebnim zdravstvenim potrebama, odnosno osoba koja o njemu skrbi, a određena je za pratitelja djeteta u skladu s člankom 64. stavkom 2. Zakona.
+(2) Pravo iz stavka 1. ovoga članka ostvaruje se na osnovi uputnice iz članka 36. stavka 2. ovoga Pravilnika.
+(3) Osigurana osoba koja ostvaruje pravo na smještaju uz dijete iz stavka 1. ovoga članka nije obvezna sudjelovati u troškovima zdravstvene zaštite, a osiguranik koji u skladu s odredbama Zakona može ostvariti pravo na naknadu plaće, za vrijeme korištenja tog prava ima pravo na naknadu plaće na ime privremene spriječenosti za rad zbog njege osigurane osob - djeteta.

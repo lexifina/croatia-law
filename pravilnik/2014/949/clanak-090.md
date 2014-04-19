@@ -1,0 +1,3 @@
+# Članak 90.
+(1) O pravu na naknadu plaće odlučuje se, u pravilu, bez donošenja pisanog rješenja na osnovi tiskanice »Izvješće o privremenoj nesposobnosti/spriječenosti za rad« koje izdaje izabrani doktor iz članka 21. stavka 3. ovoga Pravilnika.
+(2) Iznimno od stavka 1. ovoga članka kad se privremena nesposobnosti za rad utvrđuje zbog korištenja prava na dopust za slučaj smrti djeteta iz članka 39. točke 8. Zakona, odnosno zbog privremene nesposobnosti za rad zbog rane, ozljede ili bolesti koja je neposredna posljedica sudjelovanja u Domovinskom ratu iz članka 39. točke 9. Zakona, o pravu na naknadu plaće odlučuje se pisanim rješenjem, a na osnovi zahtjeva osiguranika.

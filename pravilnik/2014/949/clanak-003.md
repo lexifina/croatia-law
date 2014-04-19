@@ -1,0 +1,2 @@
+# Članak 3.
+Osiguranom osobom Zavoda (u daljnjem tekstu: osigurana osoba) smatra se osoba kojoj je prema osnovama osiguranja utvrđenim Zakonom i Zakonom o obveznom zdravstvenom osiguranju i zdravstvenoj zaštiti stranaca u Republici Hrvatskoj (u daljnjem tekstu: ZOZZ), na način i pod uvjetima utvrđenim tim Zakonima, ovim Pravilnikom i drugim općim aktima Zavoda utvrđen status osiguranika, odnosno osigurane osobe u obveznom zdravstvenom osiguranju.

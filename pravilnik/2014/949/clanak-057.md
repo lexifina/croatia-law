@@ -1,0 +1,2 @@
+# Članak 57.
+Rješenjem iz članka 55. stavka 1. ovoga Pravilnika, kojim se osiguraniku priznaje pravo na novčanu naknadu za vrijeme privremene nesposobnosti, obvezno se rješava o iznosu novčane naknade i razdoblju za koje mu pripada, uz navođenje osnovice i postotka na osnovi kojih je izračunata te oznake nalaza, mišljenja i ocjene liječničkog povjerenstva Zavoda o privremenoj nesposobnosti osiguranika.

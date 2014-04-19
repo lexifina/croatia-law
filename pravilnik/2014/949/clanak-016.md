@@ -1,0 +1,2 @@
+# Članak 16.
+Kada ugovorna zdravstvena ustanova ili ugovorni zdravstveni radnik privatne prakse nije u mogućnosti pružiti osiguranoj osobi potrebnu zdravstvenu zaštitu, obvezni su poduzeti sve mjere u svrhu pružanja hitne medicinske pomoći i upućivanja osigurane osobe u najbližu ugovornu zdravstvenu ustanovu ili ugovornom zdravstvenom radniku privatne prakse koji su u mogućnosti osiguranoj osobi pružiti potrebnu zdravstvenu zaštitu.

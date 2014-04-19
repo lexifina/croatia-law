@@ -1,0 +1,3 @@
+# Članak 46.
+(1) Naknada plaće za vrijeme privremene nesposobnosti pripada osiguraniku - radniku od prvog dana utvrđene privremene nesposobnosti, a osiguraniku koji obavlja gospodarsku djelatnost, odnosno samostalno u obliku zanimanja obavlja profesionalnu djelatnost od 43. dana privremene nesposobnosti.
+(2) Iznimno od stavka 1. ovoga članka kad se naknada plaće u skladu s odredbama Zakona isplaćuje od prvog dana privremene nesposobnosti na teret sredstava Zavoda, osiguraniku koji obavlja gospodarsku djelatnost, odnosno samostalno u obliku zanimanja obavlja profesionalnu djelatnost ona pripada od prvog dana privremene nesposobnosti.

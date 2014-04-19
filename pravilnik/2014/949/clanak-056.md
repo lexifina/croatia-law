@@ -1,0 +1,4 @@
+# Članak 56.
+(1) Liječničko povjerenstvo Zavoda nalaz, mišljenje i ocjenu donosi na osnovi dokumentacije iz članka 55. stavka 4. ovoga Pravilnika i pregleda osiguranika.
+(2) Nalazom, mišljenjem i ocjenom liječničko povjerenstvo Zavoda utvrđuje početak, trajanje, odnosno prestanak privremene nesposobnosti osiguranika za obavljanje ugovorenih poslova, određujući pri tome da li je nastala bolest od utjecaja na obavljanje ugovorenih poslova s obzirom na vrstu posla te rok njegovog izvršenja.
+(3) Osiguraniku koji nije podnio zahtjev u roku iz članka 55. stavka 3. ovoga Pravilnika, odnosno koji se nije javio liječničkom povjerenstvu Zavoda u roku iz članka 55. stavka 4. ovoga Pravilnika, liječničko povjerenstvo Zavoda može utvrditi početak privremene nesposobnosti najviše za 6 dana koji prethode danu donošenja nalaza, mišljenja i ocjene.
