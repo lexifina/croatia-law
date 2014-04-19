@@ -1,0 +1,4 @@
+# Članak 2.
+Nagrada za sportska ostvarenja dodjeljuje se sportašima pojedincima i članovima sportskih ekipa koji su ostvarili određeni sportski rezultat odnosno poredak na službenim međunarodnim natjecanjima kao znak priznanja za ostvarene sportske rezultate međunarodne vrijednosti.
+Pravo na nagradu za sportska ostvarenja na temelju rezultata odnosno poretka ostvarenog na međunarodnom natjecanju ostvaruju sportaši koji su na to međunarodno natjecanje upućeni kao članovi nacionalne selekcije odgovarajućega nacionalnoga sportskog saveza odnosno kao članovi sportskoga kluba čiji nastup je odobren ili je u programu odgovarajućega nacionalnoga sportskog saveza.
+Pravo na nagradu za sportska ostvarenja mogu dobiti sportaši u svim dobnim kategorijama (kadeti, juniori, seniori) u skladu s pravilima pripadajućega sporta.

@@ -1,0 +1,1 @@
+Na temelju članka 7. stavka 2. Zakona o sportu (»Narodne novine«, broj 71/06, 124/10, 124/11, 86/12 i 94/13), a na prijedlog Hrvatskoga olimpijskog odbora, Hrvatskoga paraolimpijskog odbora i Hrvatskoga sportskog saveza gluhih, ministar znanosti, obrazovanja i sporta donosi

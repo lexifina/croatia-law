@@ -1,0 +1,2 @@
+# Članak 3.
+Nagrada za sportska ostvarenja iz članka 2. ovoga pravilnika ostvaruje se u sportovima čiji su nacionalni sportski savezi udruženi u Hrvatski olimpijski odbor ili Hrvatski paraolimpijski odbor ili Hrvatski sportski savez gluhih odnosno u kojima su sportaši ostvarili poredak ili rezultat na natjecanjima koja organizira taj nacionalni sportski savez ili su pod nadležnošću njegova međunarodnoga sportskog saveza.

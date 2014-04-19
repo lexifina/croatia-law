@@ -1,0 +1,3 @@
+# Članak 6.
+Iznimno od članka 4. i 5. ovoga pravilnika nagrada sportašima za sportska ostvarenja može se ostvariti i na temelju drugoga značajnog rezultata odnosno poretka na natjecanjima iz članka 4. i 5. ovoga pravilnika kada su oni značajni za razvoj sporta i promociju vrijednosti Republike Hrvatske, odnosno jedinica lokalne i područne (regionalne) samouprave.
+U slučaju ostvarenja značajnoga sportskoga rezultata odnosno poretka za određeno područje lokalne i područne (regionalne) samouprave te za određenu sportsku udrugu, nagrada za sportska ostvarenja može se dodijeliti i za druga službena natjecanja na nacionalnoj, lokalnoj ili regionalnoj razini, u sustavu sportskih natjecanja nacionalnih sportskih saveza.
