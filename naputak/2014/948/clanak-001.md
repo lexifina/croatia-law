@@ -1,0 +1,2 @@
+# Članak 1.
+Ovim Naputkom propisuju se uvjeti i postupak za oslobađanje sanitarnog inspekcijskog nadzora uvoza voća i povrća u pogranično područje Republike Hrvatske, namijenjenog za komercijalne svrhe, proizvedenog u pograničnom području Bosne i Hercegovine od strane državljana Republike Hrvatske koji imaju prebivalište ili boravište u pograničnom području Republike Hrvatske i oslobođenog od uvoznih davanja sukladno carinskim i poreznim propisima.

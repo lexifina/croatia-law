@@ -1,0 +1,4 @@
+# Članak 2.
+Pojedini pojmovi u smislu ovoga Naputka imaju sljedeće značenje:
+Pogranično područje sa Bosnom i Hercegovinom je dio područja uz državnu granicu čija širina je određena Sporazumom između Republike Hrvatske i Bosne i Hercegovine o pograničnom prometu potpisanom 19. lipnja 2013. godine, odnosno područje koje uključuje naselja u Republici Hrvatskoj i Bosni i Hercegovini navedena u Dodatku A i B navedenog Sporazuma. Pogranično područje ne obuhvaća morski prostor Republike Hrvatske i Bosne i Hercegovine.
+Korisnik prava za potrebe ovog Naputka je državljanin Republike Hrvatske koji ima prebivalište ili boravište u pograničnom području Republike Hrvatske, čije zemljište ili objekt dijeli granična crta ili se u cijelosti nalaze u pograničnom području Bosne i Hercegovine i koji državnu granicu prelazi uz predočenje pogranične propusnice.

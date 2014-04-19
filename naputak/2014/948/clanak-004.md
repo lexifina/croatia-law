@@ -1,0 +1,3 @@
+# Članak 4.
+Teritorijalno nadležni sanitarni inspektor za pogranično područje Republike Hrvatske u kojem se nalazi prebivalište ili boravište korisnika prava može od njega zatražiti na uvid evidencijski list izdan od strane ovlaštenog graničnog carinskog ureda te nasumičnim sanitarno-inspekcijskim nadzorom provjeriti pridržava li se korisnik prava odredbi ovoga Naputka.
+Ako teritorijalno nadležni sanitarni inspektor, prilikom sanitarno-inspekcijskog nadzora, iz stavka 1. ovoga članka utvrdi da korisnik prava ne postupa u skladu s odredbama ovoga Naputka, provest će postupak po službenoj dužnosti uz izricanje odgovarajuće mjere.
