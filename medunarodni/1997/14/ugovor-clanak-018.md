@@ -1,3 +1,0 @@
-# Članak 18.
-Ništavost ugovornih odredaba
-Svaka ugovorna odredba koja se sklopi prije nego što nastane događaj koji je prouzročio smrt ili tjelesnu ozljedu putnika ili gubitak ili oštećenje prtljage, sa svrhom da oslobodi vozara od odgovornosti prema putniku ili da odredi nižu granicu odgovornosti od one koja je utvrđena u ovoj Konvenciji, osim što je predviđeno u stavku 4. članka 8., te svaka takva odredba sklopljena sa svrhom da prebacuje teret dokaza koji leži na vozaru, ili s učinkom da ograniči pravo izbora koje je uređeno u stavku 1. članka 17., ništava je i bez učinka, ali ništavost takve odredbe ne čini nevaljalim ugovor o prijevozu koji ostaje podvrgnut odredbama ove Konvencije.

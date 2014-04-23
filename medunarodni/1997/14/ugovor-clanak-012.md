@@ -1,5 +1,0 @@
-# Članak 12.
-Kumulacija tužbi
-1. Kada se ostvare uvjeti za ograničenje odgovornosti propisane u člancima 7. i 8., te granice vrijede na ukupni iznos koji se može naknaditi u okviru svih tužbi zbog smrti ili tjelesne ozljede svakog putnika ili zbog gubitka ili oštećenja njegove prtljage.
-2. U slučaju prijevoza koji je obavio stvarni vozar, ukupna svota koja se može naknaditi od vozara i stvarnog vozara i njihovih službenika i punomoćnika koji rade u okviru svoje službe ne može prijeći najvišu svotu što bi se mogla dosuditi prema vozaru ili stvarnom vozaru na osnovi ove Konvencije, s time da nijedna od tih osoba ne odgovara za svotu koja prekoračuje granicu koja se na nju može primijeniti.
-3. U svakom slučaju kad se službenik ili punomoćnik vozara ili stvarnog vozara može pozvati prema članku 11. ove Konvencije na ograničenje odgovornosti propisano u člancima 7. i 8., ukupna svota koja se može naknaditi od vozara ili stvarnog vozara, prema slučaju, i od službenika ili punomoćnika, neće prijeći to ograničenje.
