@@ -1,0 +1,4 @@
+# Članak 2.
+Liječenje posebno skupim lijekom iz članka 1. stavka 2. ove Odluke provodi se u ugovornim bolničkim zdravstvenim ustanovama na osnovi odobrenja povjerenstva za lijekove bolničke zdravstvene ustanove u kojoj se osigurana osoba Zavoda liječi.
+Direkcija Zavoda utvrđuje je li primjena određenog lijeka u skladu sa smjernicama za primjenu posebno skupog lijeka, utvrđenim Osnovnom listom lijekova Zavoda.
+Osigurane osobe Zavoda lijekove iz članka 1. stavka 3. ove Odluke ostvaruju u odgovarajućoj ljekarni ili bolničkoj zdravstvenoj ustanovi u kojoj se liječe, kojima ovlašteni distribucijski centri s kojima je Zavod sklopio ugovor o pohrani i distribuciji lijekova dostavljaju lijekove za liječenje hemofilije, a na osnovi odobrenja Liječničkog povjerenstva za lijekove Direkcije Zavoda, a prema prethodnom odobrenju bolničke zdravstvene ustanove.
