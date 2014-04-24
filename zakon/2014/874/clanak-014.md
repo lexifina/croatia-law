@@ -1,0 +1,10 @@
+# Članak 14.
+Iza članka 54. dodaje se članak 54.a koji glasi:
+»Članak 54.a
+(1) Pravna osoba - ispitni laboratorij koji ima sjedište u državi ugovornici Ugovora o Europskom gospodarskom prostoru (u daljnjem tekstu: država ugovornica EGP-a) može u Republici Hrvatskoj obavljati djelatnosti iz članka 54. ovoga Zakona ako ishodi dozvolu Ministarstva.
+(2) Dozvola iz stavka 1. ovoga članka izdaje se pravnoj osobi koja udovoljava sljedećim uvjetima:
+- da ima registriranu djelatnost prema kojoj u državi svoga sjedišta ima pravo obavljanja poslova praćenja kvalitete zraka, odnosno praćenja emisija onečišćujućih tvari u zrak iz nepokretnih izvora i/ili provjere ispravnosti mjernog sustava za kontinuirano mjerenje emisija onečišćujućih tvari u zrak iz nepokretnih izvora te da prema registriranoj djelatnosti u državi svoga sjedišta smije obavljati iste poslove u svezi s kojim zaključuje ugovor s naručiteljem iz Republike Hrvatske, odnosno da u tom pogledu nema ograničenja;
+- da na odgovarajući način ispunjava uvjete propisane u članku 55. ovoga Zakona.
+(3) Pravna osoba - ispitni laboratorij koji ima sjedište izvan Europske unije može u Republici Hrvatskoj obavljati stručne poslove iz članka 54. ovoga Zakona uz uvjet da ispuni uvjete iz stavka 1. ovoga članaka te dodatno dostavi dokaz o postojanju uzajamnosti, odnosno podatke o propisu kojim je propisana uzajamnost za pravne osobe u Republici Hrvatskoj u državi njegova sjedišta i službenom glasilu u kojem je propis objavljen.
+(4) O ispunjavanju uvjeta u skladu s odredbama ovoga članka Ministarstvo izdaje dozvolu. Za potrebe izdavanja dozvole Ministarstvo traži mišljenje referentnog laboratorija o ispunjavanju uvjeta iz članka 55. stavka 1. podstavka 4. ovoga Zakona u dijelu koji se odnosi na potvrdu referentnog laboratorija za osiguranje kvalitete mjerenja i podataka za svaku referentnu metodu mjerenja. Ako Ministarstvo utvrdi da propisani uvjeti nisu ispunjeni, o tome izdaje posebno rješenje.
+(5) Protiv rješenja iz stavka 4. ovoga članka nije dopuštena žalba, ali se može pokrenuti upravni spor.«.

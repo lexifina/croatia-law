@@ -1,0 +1,3 @@
+# Članak 23.
+Članak 65. mijenja se i glasi:
+»Postupanje s kontroliranim tvarima, novim tvarima te fluoriranim stakleničkim plinovima, postupanje s uređajima i opremom koji sadrže te tvari ili o njima ovise, postupanje s tim tvarima nakon prestanka uporabe uređaja i opreme koji ih sadrže, provjeru propuštanja tih tvari, način prikupljanja, obnavljanja, oporabe i uništavanja tih tvari, visinu naknade za pokriće troškova prikupljanja, obnavljanja, oporabe i uništavanja tih tvari i način obračuna troškova prikupljanja, obnavljanja, oporabe i uništavanja tih tvari, način označavanja uređaja i opreme koji sadrže te tvari ili o njima ovise, način izvješćivanja o tim tvarima te druga pitanja s tim u vezi, propisuje Vlada uredbom.«.

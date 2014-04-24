@@ -1,0 +1,7 @@
+# Članak 77.
+Članak 130. mijenja se i glasi:
+»(1) Stranke u inspekcijskom postupku nad primjenom ovoga Zakona i propisa donesenih na temelju njega mogu biti onečišćivač, pravna osoba koja obavlja djelatnost praćenja kvalitete zraka, praćenje emisija onečišćujućih tvari iz nepokretnih izvora i provjeru ispravnosti mjernog sustava za kontinuirano mjerenje emisija onečišćujućih tvari iz nepokretnih izvora, pravna osoba koja obavlja djelatnost osiguranja kvalitete mjerenja i podataka kvalitete zraka, pravna ili fizička osoba - obrtnik koja postupa s kontroliranim tvarima i/ili s flouriranim stakleničkim plinovima, pravna ili fizička osoba - obrtnik dobavljač, pravna ili fizička osoba - obrtnik operater postrojenja i operator zrakoplova te jedinica lokalne i područne (regionalne) samouprave (u daljnjem tekstu: nadzirana osoba).
+(2) Podnositelj prijave može, ako inspektor na temelju sadržaja prijave ocijeni opravdanim, biti nazočan na pregledu lokacije tijekom provedbe inspekcijskog nadzora.
+(3) Podnositelj prijave nije stranka u inspekcijskom postupku nad primjenom ovoga Zakona i propisa donesenih na temelju ovoga Zakona.
+(4) Inspektor će pisano obavijestiti poznatog podnositelja prijave o utvrđenom činjeničnom stanju u inspekcijskom nadzoru najkasnije trideset dana od dana utvrđenja činjeničnog stanja.
+(5) Ako se tijekom inspekcijskoga nadzora utvrdi da nema povrede ovoga Zakona i propisa donesenih na temelju njega koje je ovlaštena nadzirati Inspekcija zaštite okoliša i opravdanog razloga za daljnje vođenje postupka, postupak će se obustaviti.«.

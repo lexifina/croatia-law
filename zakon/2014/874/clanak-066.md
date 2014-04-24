@@ -1,0 +1,10 @@
+# Članak 66.
+Članak 115. mijenja se i glasi:
+»(1) Za svaku godinu u razdoblju od 2013. do 2020. godine, količina emisija stakleničkih plinova koja se ispušta iz sektora koji nisu obuhvaćeni sustavom trgovanja emisijskim jedinicama ograničava se do visine nacionalne godišnje kvote sukladno Odluci Komisije 2013/162/EU i Odluci Komisije 2013/634/EU.
+(2) Ispunjavanje obveze ograničenja emisija do visine nacionalne godišnje kvote iz stavka 1. ovoga članka u nadležnosti je središnjih tijela državne uprave nadležnih za poslove zaštite okoliša, graditeljstva, gospodarstva, energetike, poduzetništva, prometa, poljoprivrede, šumarstva i turizma.
+(3) Mjere za smanjivanje emisija stakleničkih plinova iz stavka 1. ovoga članka propisuju se Niskougljičnom strategijom iz članka 74.a i Planom iz članka 10. ovoga Zakona.
+(4) Ministarstvo kontrolira ispunjenje obveze iz stavka 1. na temelju izvješća iz članka 75. stavka 3. ovoga Zakona i verificiranih izvješća iz članka 108. ovoga Zakona.
+(5) Vlada na prijedlog Ministarstva odlukom može odrediti dodatne mjere za smanjenje emisija stakleničkih plinova s ciljem ispunjenja obveza iz stavka 1. ovoga članka.
+(6) Ministarstvo u suradnji sa središnjim tijelima državne uprave iz stavka 2. ovoga članka izrađuje korektivni akcijski plan sukladno članku 7. Odluke 406/2009/EZ.
+(7) Za izvršenje trgovanja sukladno članku 3. stavcima 3., 4. i 5. i članku 5. Odluke 406/2009/EZ Vlada, na prijedlog Ministarstva, donosi odluku o kupovini jedinica proizašlih iz provedbe projektnih aktivnosti iz članka 116. ovoga Zakona, odnosno o kupovini ili prodaji dijela nacionalne godišnje kvote iz stavka 1. ovoga članka.
+(8) Način praćenja ispunjenja nacionalne godišnje kvote, način trgovanja s dijelom nacionalne godišnje kvote, način korištenja jedinica proizašlih iz provedbe projektnih aktivnosti, način izvješćivanja Europske komisije o ispunjenju obveze ograničenja emisija do visine nacionalne godišnje kvote iz stavka 1. ovoga članka, pobliže propisuje Vlada uredbom iz članka 81. stavka 1. ovoga Zakona.«.

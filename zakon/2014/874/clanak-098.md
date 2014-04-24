@@ -1,0 +1,3 @@
+# Članak 98.
+(1) Državni hidrometeorološki zavod dužan je osigurati obavljanje poslova praćenja kvalitete zraka iz članka 28. stavka 2. ovoga Zakona do stjecanja prava da postane referentni laboratorij, u suradnji s referentnim laboratorijem koji je ishodio dozvolu iz članka 61. stavka 1. ovoga Zakona, a najkasnije do 1. siječnja 2016.
+(2) Iznimno od odredbe stavka 1. ovoga članka, u slučaju da referentni laboratorij prestane s obavljanjem poslova praćenja kvalitete zraka iz članka 28. stavaka 2. i 3. ovoga Zakona prije propisanoga roka, navedene poslove dužan je obavljati Državni hidrometeorološki zavod bez odgađanja, ali ne duže od šest mjeseci.

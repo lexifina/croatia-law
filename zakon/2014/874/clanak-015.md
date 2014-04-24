@@ -1,0 +1,8 @@
+# Članak 15.
+U članku 55. stavku 1. podstavku 5. iza riječi: »posebno,« dodaju se riječi: »odnosno za svaku metodu posebno sukladno CEN i ISO normama navedenim u tehničkoj specifikaciji HRS CEN/TS 15675,«.
+Stavak 2. mijenja se i glasi:
+»(2) Za praćenje kvalitete zraka pravna osoba - ispitni laboratorij može koristiti i druge metode mjerenja za praćenje onečišćujućih tvari u zraku za koje su propisane referentne metode mjerenja pravilnikom iz članka 52. ovoga Zakona ako je za iste akreditirana ili ima potvrdu referentnog laboratorija o osiguranju kvalitete mjerenja i podataka za svaku metodu mjerenja posebno i ima potvrdu referentnog laboratorija da su provedeni testovi ekvivalencije drugih metoda mjerenja s referentnim metodama sukladno standardima Europske komisije.«.
+Iza stavka 2. dodaju se novi stavci 3. i 4. koji glase:
+»(3) Iznimno od stavka 1. podstavka 4. ovoga članka, za metode mjerenja za H2S i NH3 uvjet za izdavanje dozvole za mjerenje H2S je potvrda o akreditaciji ili potvrda referentnog laboratorija za mjerenje SO2 i uvjet za mjerenje NH3 je potvrda o akreditaciji ili potvrda referentnog laboratorija za mjerenje NO2. Za mjerenje merkaptana uvjet za izdavanje dozvole je potvrda o akreditaciji ili potvrda referentnog laboratorija za mjerenje benzena.
+(4) Iznimno od stavka 2. ovoga članka, za praćenje onečišćujućih tvari u zraku za koje nisu propisane referentne metode pravna osoba - ispitni laboratorij može koristi druge metode mjerenja ako je za iste akreditirana prema zahtjevu norme HRN EN ISO/IEC 17025. Mjerenja u državnoj mreži provode se na način da referentni laboratorij za mjerenje SO2 provodi automatska mjerenja H2S, a za mjerenje NO2 provodi automatska mjerenja za NH3.«.
+Dosadašnji stavci 3. i 4. postaju novi stavci 5. i 6.

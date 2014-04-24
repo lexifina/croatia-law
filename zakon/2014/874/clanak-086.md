@@ -1,0 +1,4 @@
+# Članak 86.
+Članak 141. mijenja se i glasi:
+»(1) Ako nadzirana osoba ne izvrši rješenjem naređenu mjeru iz članka 132. stavaka 1., 2. i 3., članka 133. stavka 1., članka 135. stavka 1. podstavaka 2., 3., 4., 5., 6. i 7., članka 135. stavka 3., članka 137. stavka 1. i članka 138. stavka 2. i stavka 6. ovoga Zakona, inspektor će izvršenika prisiliti na izvršenje novčanom kaznom, u skladu s posebnim propisom kojim se uređuje opći upravni postupak.
+(2) Novčanu kaznu iz stavka 1. ovoga članka izvršenik uplaćuje u korist državnog proračuna Republike Hrvatske u roku od trideset dana od dana primitka rješenja o izvršenju. Ako izvršenik istekom roka od trideset dana ne dostavi inspektoru dokaz o uplati novčane kazne, naplati će se pristupiti prisilnim putem sukladno odredbama o izvršenju novčanih obveza propisanim posebnim propisom kojim se uređuje opći upravni postupak.«.
