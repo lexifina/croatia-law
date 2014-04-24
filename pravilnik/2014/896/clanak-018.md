@@ -1,0 +1,3 @@
+# Članak 18.
+(1) Izvanredna kontrola privremene nesposobnosti osiguranika obavlja se po nalogu ravnatelja Zavoda ili po njemu ovlaštenih osoba, pomoćnika ravnatelja Zavoda za kontrolu i kvalitetu te voditelja regionalnog ureda, u skladu s ovim Pravilnikom.
+(2) Kontrolu iz stavka 1. ovoga članka može u određenim slučajevima, prema nalogu ravnatelja Zavoda provoditi i posebno povjerenstvo imenovano odlukom ravnatelja Zavoda u čiji sastav mogu biti imenovani službene osobe kontrolori Zavoda, ali i drugi radnici Zavoda ovisno o prirodi svakog pojedinačnog slučaja obuhvaćenog izvanrednom kontrolom.

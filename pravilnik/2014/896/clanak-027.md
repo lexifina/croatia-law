@@ -1,0 +1,4 @@
+# Članak 27.
+(1) Izvješće iz članka 26. ovoga Pravilnika, prema nalogu ravnatelja Zavoda dostavlja se voditelju kontroliranog regionalnog ureda, odnosno rukovoditelju kontrolirane službe Direkcije Zavod, koji su u roku od 8 dana dužni dostaviti očitovanje o zaključcima iz izvješća.
+(2) Nakon zaprimljenog očitovanja iz stavka 1. ovoga članka ravnatelj Zavoda izdaje nalog za otklanjanje utvrđenih nepravilnosti uz određivanje roka u kojem se potonje moraju otkloniti, a pomoćnik ravnatelja Zavoda za kontrolu i kvalitetu o utvrđenim nepravilnostima izvješćuje nadležne službe i odgovorne osobe u Direkciji Zavoda te ujedno predlaže plan preventivnih mjera i potrebnih radnji za sprječavanje budućih nepravilnosti u radu.
+(3) Rukovoditelj Službe za upravljanje sustavom kvalitete Direkcije Zavoda obvezan je provjeriti da li su utvrđeni nedostaci otklonjeni te o istome izvijestiti pomoćnika ravnatelja Zavoda za kontrolu i kvalitetu uz prijedlog mogućih daljnjih mjera.

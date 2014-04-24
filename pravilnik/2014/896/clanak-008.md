@@ -1,0 +1,8 @@
+# Članak 8.
+(1) Način provođenja kontrole pojedinog ugovornog subjekta Zavoda iz članka 5. stavka 2. točke 2. ovoga Pravilnika te obveznika uplate doprinosa iz članka 6. ovoga Pravilnika, u pravilu, sastoje se od pripremnih radnji, provođenja kontrole, sačinjavanja zapisnika, izrade izvješća s prijedlogom za postupanje i prijedlogom mjera, koje mogu obuhvaćati i prijedlog za primjenu ugovorne kazne ili druge odgovarajuće mjere.
+(2) Pripremne radnje za provođenje nadzora obuhvaćaju postupke i radnje prije same kontrole, a sastoje se od prikupljanja podataka i dokumentacije o predmetu kontrole.
+(3) Sve ustrojstvene jedinice Zavoda obvezne su radi provođenja kontrole na zahtjev rukovoditelja nadležne ustrojstvene jedinice u Direkciji Zavoda ili regionalnom uredu Zavoda, pripremiti i dostaviti potrebne podatke kojima raspolažu.
+(4) Kontrola iz stavka 1. ovoga članka u prostorijama kontroliranog subjekta provodi se uvidom u dokumentaciju, prostor, opremu, provjerom standardom utvrđenih kadrovskih normativa te načina rada ugovornog subjekta u vezi provođenja ugovorene zdravstvene zaštite za osigurane osobe ili u nadzoru točnosti podataka i činjenica o kojima ovisi ostvarivanje prava osiguranih osoba te nadzoru podataka i izvješća, odnosno evidencija o kontroliranom subjektu u prostorijama Zavoda.
+(5) Nakon provedene kontrole ovlaštene osobe Zavoda koje su provele kontrolu na temelju utvrđenih činjenica sastavljaju zapisnik o provedenoj kontroli u pisanom obliku te u slučaju potrebe odmah zahtijevaju poduzimanje radnji za otklanjanje utvrđenih nepravilnosti.
+(6) Zapisnik iz stavka 5. ovog članka sastavni je dio pisanog izvješća o provedenoj kontroli.
+5. Zapisnik o provedenoj kontroli
