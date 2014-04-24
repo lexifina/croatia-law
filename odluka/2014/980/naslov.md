@@ -1,0 +1,1 @@
+Odluka o davanju koncesije društvu 007 Miletić d.o.o., Solin, za zahvaćanje voda namijenjenih za ljudsku potrošnju, radi stavljanja na tržište u izvornom ili prerađenom obliku, u bocama ili drugoj ambalaži
