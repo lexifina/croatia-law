@@ -1,0 +1,2 @@
+# Članak 4.
+Korisniku i članovima njegove obitelji koji su navedeni na zahtjevu za darovanje osnovnog građevinskog materijala (u daljnjem tekstu: zahtjev), daruje se odgovarajuća količina građevinskog materijala za obnovu ili izgradnju obiteljske kuće prema broju članova obitelji i to za obnovu ili izgradnju obiteljske kuće neto-površine od 35 m² za prvog člana te po 10 m² za svakog sljedećeg člana.

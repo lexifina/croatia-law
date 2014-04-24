@@ -1,0 +1,6 @@
+# Članak 10.
+(1) Nakon izrađene Upute o sanaciji za obnovu ili izgradnju obiteljske kuće, Državni ured s korisnikom sklapa ugovor o darovanju građevinskog materijala (u daljnjem tekstu: Ugovor) sukladno Suglasnosti i Uputi o sanaciji.
+(2) Narudžbu za isporuku građevnog materijala Državni ured izdaje nakon potpisivanja Ugovora između Državnog ureda i korisnika.
+(3) Korisnik koji odustane od donacije građevinskog materijala nakon potpisivanja Ugovora ili ako se utvrde razlozi za raskid Ugovora, navedeni u članku 13. stavku 8. ove Uredbe, teretit će se za troškove nastale izradom Upute o sanaciji.
+(4) Nakon izdavanja Suglasnosti, korisnik je dužan u razumnom roku Državnom uredu dostaviti građevinsku dozvolu ili drugu ispravu sukladno zakonima i propisima Bosne i Hercegovine. Ukoliko korisnik istu ne ishodi, smatra se da je Suglasnost prestala važiti o čemu će Državni ured pismenim putem obavijestiti korisnika.
+(5) Za važeće i potpisane ugovore do dana stupanja na snagu ove Uredbe, Državni ured izvršit će reviziju i naknadnu provjeru korisnika službenim putem kod mjerodavnih institucija u Republici Hrvatskoj. Ukoliko se revizijom i provjerom utvrdi da je korisnik osigurao svoje stambeno zbrinjavanje, Državni ured će sa njim raskinuti Ugovor, sukladno članku 13. stavku 8. ove Uredbe, te zatražiti povrat uloženih sredstava.

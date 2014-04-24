@@ -1,0 +1,7 @@
+# Članak 5.
+(1) Korisnik koji ima u vlasništvu oštećenu, odnosno uništenu obiteljsku kuću može ostvariti pravo na darovanje građevinskog materijala za popravak, odnosno izgradnju obiteljske kuće u vrsti i količini građevinskog materijala za izgradnju obiteljske kuće površine iz članka 4. ove Uredbe.
+(2) Korisnik koji ima u vlasništvu građevinsko zemljište može ostvariti pravo na darovanje građevinskog materijala sukladno članku 2. stavku 6. ove Uredbe.
+(3) Pravo na darovanje osnovnog građevinskog materijala može ostvariti podnositelj zahtjeva i članovi njegove obitelji koji žive u zajedničkom kućanstvu i koji su navedeni u zahtjevu za darovanje osnovnog građevinskog materijala:
+- ako nemaju u vlasništvu ili suvlasništvu drugu useljivu obiteljsku kuću ili stan na području Republike Hrvatske, ili ako ju nisu prodali, darovali ili na bilo koji drugi način otuđili nakon 8. listopada 1991. godine, odnosno ako nisu stekli pravi položaj zaštićenog najmoprimca;
+- ako nemaju u vlasništvu ili suvlasništvu drugu useljivu obiteljsku kuću ili stan na području država nastalih raspadom Socijalističke Federativne Republike Jugoslavije ili drugim državama u kojima borave, odnosno u kojima su boravili ili da ju nisu prodali, darovali ili na bilo koji drugi način otuđili nakon 8. listopada 1991. godine, odnosno nisu stekli pravni položaj zaštićenog najmoprimca;
+- ako korisnik i članovi njegove obitelji nisu već ostvarili pravo na pomoć u svrhu stambenog zbrinjavanja.
