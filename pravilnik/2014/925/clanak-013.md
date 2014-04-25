@@ -1,0 +1,3 @@
+# Članak 13.
+(1) Prilikom prodaje grožđa ili vina i drugih proizvoda od grožđa i vina kao otvorene robe (rinfuze) podrijetlom iz Republike Hrvatske krajnjem potrošaču (izravna prodaja na poljoprivrednom gospodarstvu), original i prvu kopiju PD potpisuje primatelj (kupac), a drugu kopiju PD pošiljatelj zadržava za sebe. Prva kopija PD ostaje primatelju (kupcu). Original PD pošiljatelj, u roku propisanom u članku 11. stavku 3. ovoga Pravilnika, dostavlja regionalnom uredu Agencije u kojem je prijavljen u Vinogradarski registar.
+(2) Iznimno od stavka 1. ovoga članka, pošiljatelj, koji prema prijavi o proizvodnji godišnje proizvede manje od 100 hl vina, može regionalnom uredu Agencije dostaviti prateći dokument najkasnije do sljedeće prijave proizvodnje.

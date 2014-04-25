@@ -1,0 +1,5 @@
+# Članak 12.
+(1) Prilikom prijevoza grožđa (u slučaju promjene vlasnika) podrijetlom iz Republike Hrvatske, na teritoriju Republike Hrvatske, koristi se PD za prijevoz grožđa, a izdaje ga Agencija, odnosno regionalni uredi Agencije sukladno članku 9. ovoga Pravilnika.
+(2) PD iz stavka 1. ovoga članka izdaje regionalni ured Agencije u kojem je proizvođač prijavljen u Vinogradarski registar, a na temelju prijavljene količine grožđa u izjavi o berbi.
+(3) Potpisani original i prva kopija PD prate pošiljku do primatelja, a drugu kopiju PD pošiljatelj zadržava za sebe. Primatelj potpisom na PD potvrđuje primitak pošiljke. Original i prva kopija ostaju primatelju. Original PD primatelj, u roku od mjesec dana od dana primitka pošiljke, dostavlja regionalnom uredu Agencije u kojem je prijavljen u Vinogradarski registar, što se smatra kao prijava te količine u Vinogradarski registar.
+(4) Iznimno od stavka 1. ovoga članka, grožđe koje se prevozi između dvije lokacije istog proizvođača ili u zadružnu ili kooperativnu vinariju, a cestovna udaljenost prelazi 40 kilometara, kao prateći dokument može se koristiti dokumentacija iz članka 15. ovoga Pravilnika.
