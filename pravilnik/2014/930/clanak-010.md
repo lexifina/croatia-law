@@ -1,0 +1,4 @@
+## Pristup podacima za potrebe izrade Izvješća
+# Članak 10.
+(1) Nadležna državna tijela, tijela jedinica područne (regionalne) i lokalne samouprave, javne ustanove te druge pravne osobe s javnim ovlastima određene posebnim propisima, koje obavljaju poslove od utjecaja na sadržaj Izvješća, dužna su omogućiti elektronički i drugi pristup potrebnim podacima, odnosno dostaviti tražene podatke iz članka 2. ovoga Pravilnika, u roku od 30 dana na zahtjev izrađivača Izvješća.
+(2) Nadležna državna tijela, tijela jedinica područne (regionalne) i lokalne samouprave, javne ustanove te druge pravne osobe s javnim ovlastima određene posebnim propisima iz stavka 1. ovog članka, dužna su dostaviti obrazloženje problematike provedbe dokumenata prostornog uređenja u dijelu koji se odnosi na njihov djelokrug nadležnosti.

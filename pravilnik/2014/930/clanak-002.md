@@ -1,0 +1,2 @@
+# Članak 2.
+Za izradu Izvješća koriste se podaci iz informacijskog sustava prostornog uređenja (u daljnjem tekstu: ISPU), prostornih planova, službeno objavljeni i dostupni podaci nadležnih tijela i ustanova, te drugih pravnih osoba s javnim ovlastima određenih posebnim propisima, podaci iz usvojenih i objavljenih pojedinih sektorskih strateških, razvojnih, planskih i provedbenih dokumenata i drugi koji su od utjecaja na održiv razvoj u prostoru.
