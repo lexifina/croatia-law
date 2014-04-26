@@ -1,0 +1,7 @@
+1. U povodu obilježavanja 20. obljetnice uvođenja kune kao novčane jedinice Republike Hrvatske, 1994. - 2014., Hrvatska narodna banka izdaje prigodnu optjecajnu novčanicu od 20 kuna s datumom izdanja 30. svibnja 2014.
+2. Prigodna optjecajna novčanica iz točke 1. ove Odluke izdaje se u količini od 5.000.000 komada i u ukupnoj svoti od 100.000.000,00 kuna.
+3. Prigodna optjecajna novčanica od 20 kuna s datumom izdanja 30. svibnja 2014. imat će osnovna obilježja utvrđena Odlukom o osnovnim obilježjima novčanice od 20 kuna izdanje 7. ožujka 2001. (»Narodne novine«, br. 44/2001. i 62/2001.), izuzevši sljedeće:
+a) S lica: na lijevom polju novčanice, na dijelu gdje je ugrađen vodeni znak s likom Josipa Jelačića, otisnut je okomito, u trideset i četiri retka, u neprekinutom nizu tekst »DVADESETA OBLJETNICA HRVATSKOGA NOVCA KUNE I LIPE 2014.«. Tekst je otisnut mikropismom i tvori pravokutnu podlogu unutar koje je zadebljanjem pojedinih slova i brojki dobiven vidljiv efekt broja »20.«. Preko pravokutne podloge u tri je retka bojom koja se prelijeva otisnuta riječ »OBLJETNICA«. Na podlozi prevladava ljubičasto-crvenkasta boja.
+b) S naličja: u gornjem dijelu višetonskog papira, uz vodoravni rub novčanice, tiskan je u dva retka tekst »ZAGREB, 30. SVIBNJA 2014.«, »GUVERNER«. Ispod teksta tiskan je faksimil potpisa prof. dr. sc. Borisa Vujčića, guvernera Hrvatske narodne banke.
+4. Ova odluka stupa na snagu prvoga dana nakon dana njezine objave u »Narodnim novinama«.
+O.br. 794/2014.
