@@ -1,0 +1,4 @@
+# Članak 2.
+Ovaj Pravilnik sadrži odredbe koje su u skladu sa sljedećim propisima Europske unije:
+- Uredba Europskog parlamenta i Vijeća (EU) br. 1308/2013. od 17. prosinca 2013. o uspostavljanju zajedničke organizacije tržišta poljoprivrednih proizvoda i stavljanju izvan snage uredbi Vijeća (EEZ) br. 922/72., (EEZ) br. 234/79., (EZ) br. 103/2001. i (EZ) br. 1234/2007. (SL L 347 20. 12. 2013), (u daljnjem tekstu: Uredba (EZ) br. 1308/2013), koja se odnosi na razvrstavanje i ocjenjivanje ovčjih trupova i
+- Uredba Komisije (EZ) br. 1249/2008. od 10. prosinca 2008. o utvrđivanju detaljnih pravila primjene ljestvice Zajednice za klasifikaciju goveđih, svinjskih i ovčjih trupova i izvješćivanja o njihovim cijenama (SL L 337 16. 12. 2008), (u daljnjem tekstu: Uredba (EZ) br. 1308/2013), koja se odnosi na razvrstavanje i ocjenjivanje ovčjih trupova.
