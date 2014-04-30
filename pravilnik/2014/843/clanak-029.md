@@ -1,0 +1,5 @@
+# Članak 29.
+(1) Ako se prilikom provođenja kontrolnog razvrstavanja utvrdi da je razlika u razvrstavanju veća od vrijednosti iz članka 27. ovoga Pravilnika HPA će provesti novo kontrolno razvrstavanje u roku ne dužem od 30 dana.
+(2) Ako je razlika pri ponovljenom razvrstavanju veća od vrijednosti iz članka 27. ovoga Pravilnika, HPA o tome obavještava Ministarstvo. Ministarstvo klasifikatoru uskraćuje pravo na obavljanje poslova razvrstavanja trupova te ga upućuje na ponovno osposobljavanje.
+(3) Ministarstvo će klasifikatoru odobriti pravo na razvrstavanje ako dokaže da je uspješno završio ponovljeni program osposobljavanja za obavljanje poslova razvrstavanja i označivanja trupova.
+(4) Ako se pri prvom kontrolnom razvrstavanju nakon ponovnog osposobljavanja klasifikatora utvrdi da je razlika između rezultata razvrstavanja veća od vrijednosti iz članka 27. ovoga Pravilnika, HPA o tome obavještava Ministarstvo koje u tom slučaju klasifikatoru koji ne udovoljava ovim uvjetima poništava ovlaštenje za obavljanje poslova razvrstavanja goveđih trupova te ga briše sa popisa iz članka 15. stavka 3. ovoga Pravilnika.

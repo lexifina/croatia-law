@@ -1,0 +1,3 @@
+## I. OPĆE ODREDBE
+# Članak 1.
+Ovim se Pravilnikom propisuje postupak razvrstavanja i ocjenjivanja goveđih trupova i polovica (u daljnjem tekstu: trupovi), način i postupak njihove obrade, označivanje trupova i mesa koje potječe od goveda starih manje od 12 mjeseci (u daljnjem tekstu: meso teladi i mlade junadi), utvrđivanje mase trupova i njihovo označivanje propisanim oznakama, uvjeti kojima moraju udovoljavati osobe koje provode postupak razvrstavanja i označivanja trupova, uvjete koje treba ispuniti kada se trupovi koji potječu od goveda starih manje od 12 mjeseci ili meso teladi i mlade junadi uvoze iz trećih zemalja te nadzor nad obavljanjem ovih poslova.
