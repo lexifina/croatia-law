@@ -1,8 +1,0 @@
-# Članak 19.
-OBRAČUN RAZMJERNOG DIJELA DAVANJA
-(1) Ako, prema pravnim pitanjima jedne države ugovornice, postoji pravo na davanje samo uz primjenu članka 16. ovog ugovora, nadležni nositelj te države ugovornice utvrđuje davanje na taj način što:
-1. izračunava teorijsku svotu davanja, koja bi pripadala da je ukupan mirovinski staž, koji se uzima u obzir za izračun davanja, navršen prema pravnim propisima koje on primjenjuje. Ako svota davanja ne zavisi od dužine mirovinskog staža uzima se kao teorijska svota;
-2. na osnovi tako izračunate svote, utvrđuje svotu davanja razmjerno odnosu između mirovinskog staža navršenog isključivo prema pravnim proposima koje on primjenjuje i ukupnoga mirovinskog staža, koji se uzima u obzir za obračun davanja;
-3. utvrđuje svotu davanja, razmjerno mirovinskom stažu navšenom prema pravnim propisima te države ugovornice i njenom najdužem mirovinskom stažu na osnovi kojega se utvrđuje visina davanja, u slučaju kada je ukupan mirovinski staž koji se uzima u obzir primjenom članka 16. ovoga ugovora, veći od najdužega mirovinskog staža, prema pravnim propisima te države ugovornice.
-(2) Hrvatski nadležni nositelj neće primijeniti odredbe stavka 1. ovoga članka u slučaju kada je za osiguranika povoljnije utvrđivanje svote davanja samo na osnovi hrvatskoga mirovinskog staža.
-(3) Ako se, prema pravnim propisima svota davanja obračunava na osnovi zarade, plaće, osnovice osiguranja, odnosno uplaćenog doprinosa u određenom razdoblju, nadležni nositelj uzima u obzir zaradu, plaću, osnovicu osiguranja, odnosno uplaćeni doprinos isključivo iz razdoblja osiguranja navršenog prema pravnim propisima koje on primjenjuje.
