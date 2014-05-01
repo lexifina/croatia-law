@@ -1,0 +1,10 @@
+# Članak 17.
+Naslov iznad članka 241. i članak 241. mijenjaju se i glase:
+»13.4.2. Služba kontrole ribarstva - jug - Područna jedinica Split
+Članak 241.
+Služba kontrole ribarstva - jug - Područna jedinica Split vrši inspekcijski nadzor nad provedbom odredaba zakonskih i podzakonskih propisa iz djelokruga morskog i slatkovodnog ribarstva i zajedničkog koordinativnog tijela za nadzor na moru; vrši kontrolu isprava i poslovnih spisa pravnih i fizičkih osoba koje obavljaju ribolov, te nadzire obavljanje ribolova, nadzire rad ovlaštenika ribolovnog prava, ovlaštenika povlastica za obavljanje gospodarskog ribolova te zakonom ovlaštenih distributera dozvola za rekreacijski i sportski ribolov; nadzire provođenje mjera propisanih ribolovno gospodarskim osnovama; vrši kontrolu isprava i poslovnih spisa pravnih i fizičkih osoba koje obavljaju akvakulturu i promet riba i drugih morskih/vodenih organizama, nadzire obavljanje akvakulture i tržišta proizvoda ribarstva te ovlaštenika povlastica za uzgoj morskih i slatkovodnih organizama; izrađuje prijedloge programa rada inspekcije prema odredbama pravne stečevine Europske unije; predlaže mehanizme i mjere za provođenje nadzora u vezi tržišta proizvoda ribarstva; osigurava i prati korištenje i ispravnost službenih plovila ribarske inspekcije, obavlja poslove vezane za održavanje i plovidbu u sklopu poslova nadzora i kontrole, te obavlja i druge poslove u okviru svoga djelokruga. Služba kontrole ribarstva - jug - Područna jedinica Split obavlja poslove na području sljedećih županija: Dubrovačko-neretvanske, Splitsko-dalmatinske, Zadarske i Šibensko-kninske, a može obavljati poslove iz svoga djelokruga i na području drugih županija.
+Za obavljanje poslova Službe kontrole ribarstva - jug - Područna jedinica Split ustrojavaju se:
+13.4.2.1. Odjel za kontrolu ribarstva,
+13.4.2.2. Odjel za kontrolu ribarstva - Ispostava Zadar.
+Služba kontrole ribarstva - jug - Područna jedinica Split ima ispostavu 13.4.2.3. u Šibeniku u kojoj se predviđaju samostalni izvršitelji.
+Voditelj Odjela za kontrolu ribarstva - Ispostava Zadar koordinira rad samostalnih izvršitelja u Šibeniku.«.

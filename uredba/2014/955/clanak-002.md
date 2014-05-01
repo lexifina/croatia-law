@@ -1,0 +1,8 @@
+# Članak 2.
+Naslov iznad članka 222. i članak 222. mijenjaju se i glase:
+»13.1. Sektor za ribarski monitoring centar, upravljanje flotom i prikupljanje podataka
+članak 222.
+Sektor za Ribarski monitoring centar, upravljanje flotom i prikupljanje podataka obavlja poslove iz područja praćenja ribolova i poslove vezane uz Geoinformacijski sustav ribarstva, vodi rad Ribarskog monitoring centra; obavlja poslove vezane uz upravljanje flotom; koordinira i objedinjava rad službi i odjela unutar svoga ustroja; prati stanje u području praćenja ribolova i ribarske statistike te priprema stručne podloge i predlaže potrebne državne mjere u okviru svoga djelokruga; usmjerava i daje inicijativu za rješavanje pojedinih pitanja i predlaže mjere unaprjeđenja ribarstva iz djelokruga ovoga Sektora; vodi ribarsku statistiku i ekonomsko prikupljanje podataka, izrađuje i provodi program prikupljanja podataka u ribarstvu, izrađuje zakonske i podzakonske propise i provodi postupak usklađenja hrvatskog zakonodavstva sa zakonodavstvom Europske unije; sudjeluje u izradi proračuna iz djelokruga Sektora; predlaže provođenje strukturnih mjera u okviru svoga djelokruga; obavlja i koordinira poslove međunarodne suradnje na razini Sektora koordinira poslove međunarodne suradnje iz djelokruga rada Sektora; obavlja i druge poslove u okviru svoga djelokruga.
+Za obavljanje poslova Sektora za Ribarski monitoring centar, upravljanje flotom i prikupljanje podataka ustrojavaju se:
+13.1.1. Služba za ribarsku statistiku i upravljanje flotom - Područna jedinica Šibenik,
+13.1.2. Služba za Ribarski monitoring centar i program prikupljanja podataka.«.

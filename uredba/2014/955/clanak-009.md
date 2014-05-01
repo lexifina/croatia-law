@@ -1,0 +1,5 @@
+# Članak 9.
+Naslov iznad članka 226. i članak 226. mijenjaju se i glase:
+»13.3.2.1. Odjel za praćenje i procjenu provedbe EU fondova u ribarstvu
+Članak 226.
+Odjel za praćenje i procjenu provedbe EU fondova u ribarstvu obavlja upravne i druge stručne poslove iz područja EU fondova; prati realizaciju te mjeri postignute učinke Operativnog programa za ribarstvo; priprema i vodi proces evaluacije te postupanje po evaluacijskim izvješćima; izrađuje potrebna izvješća vezana uz provedbu Operativnog programa za ribarstvo; prikuplja informacije o potrebama za korištenje mjere tehničke pomoći te istu provodi; vrši promidžbu Operativnog programa za ribarstvo; sudjeluje u izradi Strategije informiranja; sudjeluje u izradi zakonskih i podzakonskih propisa iz svoje nadležnosti; ostvaruje suradnju s drugim tijelima državne uprave, tijelima jedinica lokalne i područne (regionalne) samouprave i pravnim osobama s javnim ovlastima u pitanjima iz svoga djelokruga, te obavlja i druge poslove u okviru svoga djelokruga.«.

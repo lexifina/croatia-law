@@ -1,0 +1,8 @@
+# Članak 12.
+Naslov iznad članka 235. i članak 235. mijenjaju se i glase:
+»13.4. Sektor ribarske inspekcije
+Članak 235.
+Sektor ribarske inspekcije, organizira i izvršava zakonito i svrhovito obavljanje poslova ribarske inspekcije iz djelokruga morskog i slatkovodnog ribarstva; koordinira rad ribarskih inspektora i državnih službenika ovlaštenih za obavljanje poslova inspekcijskog nadzora u ribarstvu; izrađuje godišnje planove i izvješća; obavlja stručno osposobljavanje ribarskih inspektora i osoba ovlaštenih za obavljanje poslova inspekcijskog nadzora u ribarstvu; predlaže i provodi programe usklađivanja rada inspekcije s pravnom stečevinom Europske unije; izravno komunicira s nadležnim tijelima Europske unije po pitanju ribarske inspekcije; obavlja i druge upravne i stručne poslove iz svoje nadležnosti. Sektor ribarske inspekcije vodi brigu o plovilima ribarske inspekcije, te obavlja poslove vezane uz održavanje i plovidbu u sklopu poslova nadzora i kontrole. Obavlja pravne i administrativne poslove iz područja ribarske inspekcije; obavlja i koordinira poslove međunarodne suradnje na razini Sektora sudjeluje u pripremi podloge za donošenje zakona i drugih propisa iz ribarstva, sudjeluje u izradi potrebnih strateških dokumenata vezanih uz strukturne mjere u okviru svoga djelokruga; sudjeluje u izradi zakonskih i podzakonskih propisa i provodi postupak usklađenja hrvatskog zakonodavstva sa zakonodavstvom Europske unije iz svoga djelokruga, te obavlja i druge poslove u okviru svoga djelokruga.
+Za obavljanje poslova Sektora ribarske inspekcije ustrojavaju se:
+13.4.1. Služba kontrole ribarstva - sjever,
+13.4.2. Služba kontrole ribarstva - jug - Područna jedinica Split.«.
