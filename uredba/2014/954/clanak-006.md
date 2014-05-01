@@ -1,0 +1,3 @@
+# Članak 6.
+Članak 154. mijenja se i glasi:
+»POSTAJA GRANIČNE POLICIJE DONJI SRB je specijalizirana - granična policijska postaja III. kategorije sa sjedištem u Srbu, a obuhvaća dio Općine Gračac, odnosno mjesni odbor Srb. Nadležna je za nadzor državne granice, odnosno kontrolu prelaska državne granice na pripadajućim graničnim prijelazima i zaštitu dijela državne granice s Bosnom i Hercegovinom u dužini od 48,9 km. Nadležna je i za obavljanje drugih policijskih poslova i poslova u vezi izravnog ostvarivanja prava, obveza i pravnih interesa građana, pravnih osoba, državnih i drugih tijela u području unutarnjih poslova te poslova sigurnosti cestovnog prometa.«.
