@@ -1,0 +1,4 @@
+# Članak 3.
+U članku 631. točka 11.6.8. mijenja se i glasi:
+»11.6.8. Postaja granične policije Donji Srb
+Ustrojava se kao policijska postaja III. kategorije radi obavljanja sljedećih poslova: zaštite i prelaska državne granice i suzbijanja nezakonitih migracija; zaštite života, slobode, sigurnosti i nepovredivosti osoba, zaštite imovine, sprječavanja i otkrivanja kaznenih djela i prekršaja, traganja za počiniteljima kaznenih djela i prekršaja i njihovog dovođenja nadležnim tijelima; održavanja povoljnog stanja javnog reda; pružanja potrebne pomoći tijelima državne vlasti te pravnim osobama koje imaju javne ovlasti radi osiguranja provedbe njihovih izvršnih akata; izrade cjelovite sigurnosne prosudbe; vođenja kaznenog upisnika i ostalih propisanih evidencija; poslova u vezi izravnog ostvarivanja prava, obveza i pravnih interesa građana, pravnih osoba, državnih i drugih tijela u području unutarnjih poslova te poslova sigurnosti cestovnog prometa.«.
