@@ -1,0 +1,7 @@
+# Članak 34.
+(1) Zahtjev, izjava ili pravno sredstvo, koje je u primjeni ovoga Ugovora ili pravnih propisa jedne države ugovornice podneseno tijelu, nositelju ili nekoj drugoj nadležnoj službi ili ustanovi, odnosno instituciji, jedne države ugovornice, smatra se zahtjevom, izjavom ili pravnim sredstvom podnesenim tijelu, nositelju ili nekoj drugoj nadležnoj službi ili ustanovi, odnosno instituciji druge države ugovornice.
+(2) Zahtjev za davanje, podnesen prema pravnim propisima jedne države ugovornice, smatra se istodobno i zahtjevom za odgovarajuće davanje prema pravnim propisima druge države ugovornice, koje dolazi u obzir primjenom ovoga Ugovora.
+(3) Zahtjev, izjava ili pravno sredstvo, koje primjenom pravnih propisa jedne države ugovornice treba podnijeti tijelu, nositelju ili nekoj drugoj nadležnoj službi ili ustanovi, odnosno instituciji, te države ugovornice, može se u istom roku podnijeti odgovarajućem tijelu, nositelju ili nekoj drugoj nadležnoj službi ili ustanovi odnosno instituciji, druge države ugovornice.
+(4) U slučajevima iz stavaka 1. do 3. ovoga članka, tijelo, nositelj ili neka druga nadležna služba, ustanova, odnosno institucija, bez odgode prosljeđuje zahtjev, izjavu ili pravno sredstvo odgovarajućoj službi druge države ugovornice, izravno ili putem tijela za vezu.
+(5) Javne isprave, potvrde odnosno isprave koje u svrhu primjene ovoga Ugovora ispostavlja tijelo ili nositelj jedne države ugovornice, smatraju se važećim i za tijelo ili nositelja druge države ugovornice.
+ISPLATA DAVANJA

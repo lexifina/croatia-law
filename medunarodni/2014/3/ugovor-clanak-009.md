@@ -1,0 +1,10 @@
+# Članak 9.
+(1) Ako poslodavac, sa sjedištem na državnom području jedne države ugovornice, uputi radnika na državno područje druge države ugovornice, na njega se, najduže do kraja 24. kalendarskog mjeseca od dana izaslanja, primjenjuju pravni propisi prve države ugovornice, kao da je zaposlen na njenom državnom području.
+(2) Ako osoba koja obavlja samostalnu djelatnost na državnom području jedne države ugovornice, ode u drugu državu ugovornicu radi privremenog obavljanja te djelatnosti, na nju se, najduže do kraja 12. kalendarskog mjeseca od dana njenog odlaska, primjenjuju pravni propisi prve države ugovornice, kao da obavlja djelatnost na njenom državnom području.
+(3) Ako poslodavac koji obavlja djelatnost zračnog ili kopnenog prometa sa sjedištem na državnom području jedne države ugovornice uputi radnika na državno područje druge države ugovornice, primjenjuju se pravni propisi prve države ugovornice kao da je zaposlen na njenom državnom području.
+(4) Na posadu broda, kao i na druge osobe zaposlene na brodu, primjenjuju se pravni propisi države ugovornice pod čijom zastavom brod plovi.
+(5) Na osobe koje obavljaju poslove utovara i istovara broda, popravka ili nadzora broda u luci druge države ugovornice primjenjuju se pravni propisi države ugovornice kojoj luka pripada.
+(6) Na osobe zaposlene na državnom području jedne države ugovornice u poslovnici ili stalnom predstavništvu poslodavca čije je sjedište na državnom području druge države ugovornice, primjenjuju se pravni propisi druge države ugovornice.
+(7) Na osobe zaposlene u državnim i javnim službama, službene predstavnike i s njima izjednačene osobe izaslane na državno područje druge države ugovornice, primjenjuju se pravni propisi države ugovornice koja ih je izaslala.
+(8) Primjena pravnih propisa prve države ugovornice iz stavaka 1. i 2. ovoga članka, može se, iznimno, na zajednički zahtjev poslodavca i radnika, odnosno na zahtjev osobe koja samostalno obavlja djelatnost, i uz suglasnost nadležnog tijela druge države ugovornice, produžiti za još 24, odnosno 12 mjeseci.
+ZAPOSLENI U DIPLOMATSKOJ MISIJI I KONZULARNOM UREDU
