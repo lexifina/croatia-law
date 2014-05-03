@@ -1,0 +1,5 @@
+## Zadaće SVS
+# Članak 2.
+(1) Osnovna zadaća SVS na aerodromu i helidromu jest spašavanje putnika i članova posade u slučaju nesreće ili nezgode zrakoplova ili helikoptera, te gašenje požara na zrakoplovu ili helikopteru, objektima i otvorenom prostoru, a uzrokovanih nesrećom ili nezgodom zrakoplova ili helikoptera, ili bilo kojim drugim izvanrednim događajem na aerodromu i helidromu ili njihovoj neposrednoj okolini.
+(2) Pored osnovne zadaće iz stavka 1. ovoga članka, zadaća SVS jest planiranje i provođenje svih preventivnih djelovanja usmjerenih na sigurnost zrakoplova i helikoptera tijekom slijetanja, uzlijetanja i boravka na aerodromu ili helidromu, uključivo ali ne ograničavajući se na zaštitu od požara tijekom prihvata i otpreme zrakoplova ili helikoptera.
+(3) Djelovanje SVS organizirano je u vrijeme otvorenosti aerodroma i helidroma za slijetanje i uzlijetanje. U slučaju kada je uzlijetanje zrakoplova ili helikoptera planirano u vrijeme neposredno pred zatvaranje aerodroma ili helidroma, SVS mora produžiti s radom minimalno 15 minuta od trenutka uzlijetanja posljednjeg zrakoplova ili helikoptera.
