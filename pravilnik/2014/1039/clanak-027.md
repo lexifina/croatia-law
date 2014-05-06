@@ -1,0 +1,7 @@
+## XI. PRIJELAZNE I ZAVRŠNE ODREDBE
+# Članak 27.
+(1) Iznimno od odredbe članka 10. ovoga Pravilnika, za promicanje u 2014. godini, popis djelatnih vojnih osoba koje ispunjavaju Zakonom propisane uvjete za promicanje i rangirani popis kandidata za promicanje utvrđuje Uprava za personalne poslove Glavnog stožera odnosno Središnjica za upravljanje osobljem u roku od osam dana od dana stupanja na snagu ovoga Pravilnika.
+(2) Iznimno od odredbe članka 11. ovoga Pravilnika, za promicanje u 2014. godini, popis djelatnih vojnih osoba koje ispunjavaju Zakonom propisane uvjete za promicanje u čin generala/admirala utvrđuje Uprava za ljudske resurse u roku od osam dana od dana stupanja na snagu ovoga Pravilnika.
+(3) Iznimno od odredbe članka 13. ovoga Pravilnika, za promicanje u 2014. godini, prijedlozi izmjena i dopuna rangiranih popisa kandidata za promicanje s obrazloženjima dostavljaju se Upravi za personalne poslove Glavnog stožera odnosno Središnjici za upravljanje osobljem koje izrađuju revidirani popis kandidata.
+(4) Popisi iz stavaka 1. i 3. ovoga članka obuhvaćaju i djelatne vojne osobe koje će do kraja 2014. godine ispuniti Zakonom propisane uvjete za promicanje s očekivanim datumom ispunjenja.
+(5) Djelatne vojne osobe iz stavka 4. ovoga članka promiču se u skladu s dinamikom promicanja iz godišnjeg plana promicanja, ako na dan promicanja ispunjavaju Zakonom propisane uvjete za promicanja.

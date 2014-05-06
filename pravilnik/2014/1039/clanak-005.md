@@ -1,0 +1,5 @@
+# Članak 5.
+(1) Ustrojstvena jedinica Ministarstva obrane nadležna za ljudske resurse po službenoj dužnosti pribavlja uvjerenja o nekažnjavanju Ministarstva pravosuđa za kandidate za dodjelu čina skupnika i poručnika/poručnika korvete te za promicanje u vojničke/mornaričke, dočasničke i časničke činove odnosno za promicanje u činove generala/admirala.
+(2) Ustrojstvena jedinica iz stavka 1. ovoga članka po službenoj dužnosti pribavlja i uvjerenja o nekažnjavanju vojnostegovnog suda za kandidate za dodjelu čina poručnika/poručnika korvete te za promicanje u časničke činove odnosno za promicanje u činove generala/admirala.
+(3) Ustrojstvena jedinica Oružanih snaga Republike Hrvatske (u daljnjem tekstu Oružane snage) nadležna za upravljanje osobljem po službenoj dužnosti pribavlja uvjerenja o nekažnjavanju vojnostegovnog suda za kandidate za dodjelu čina skupnika te za promicanje u vojničke/mornaričke i dočasničke činove.
+(4) Uvjerenja o nevođenju kaznenog postupka nadležnoga općinskog suda pribavljaju kandidati za dodjelu čina odnosno kandidati za promicanje u činove.

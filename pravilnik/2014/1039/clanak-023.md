@@ -1,0 +1,3 @@
+# Članak 23.
+(1) U ratnom stanju i u stanju neposredne ugroženosti neovisnosti, jedinstvenosti i opstojnosti Republike Hrvatske prijedlog za izvanrednu dodjelu čina ili izvanredno promicanje može podnijeti zapovjednik bojne, njemu ravne ili više razine ili voditelj odgovarajuće razine za svoje podređene na Tiskanici IP.
+(2) U postupku izvanredne dodjele čina i izvanrednog promicanja u ratnom stanju i stanju neposredne ugroženosti neovisnosti, jedinstvenosti i opstojnosti Republike Hrvatske primjenjuju se odredbe ovoga Pravilnika kojima se propisuje postupak za izvanredno promicanje časnika i dočasnika.
