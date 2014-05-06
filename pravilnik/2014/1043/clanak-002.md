@@ -1,0 +1,3 @@
+# Članak 2.
+(1) Idejni projekt izrađuje se za provedbu zahvata u prostoru određenog projektnim zadatkom i po potrebi prethodno izrađenim idejnim rješenjima.
+(2) Idejni projekt izrađuje se u skladu sa Zakonom o prostornom uređenju (u daljnjem tekstu: Zakon), prostornim planom i drugim propisima donesenim na temelju Zakona, idejnim rješenjem odabranim na temelju Zakona, posebnim propisima, posebnim uvjetima, elaboratima čija izrada prethodi izradi idejnog projekta na temelju posebnih propisa te uvjeta koji se utvrđuju u postupku procjene utjecaja zahvata na okoliš i u postupku ocjene prihvatljivosti zahvata za ekološku mrežu.

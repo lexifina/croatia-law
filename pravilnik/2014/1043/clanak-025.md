@@ -1,0 +1,2 @@
+# Članak 25.
+Ovaj Pravilnik stupa na snagu prvog dana od dana objave u »Narodnim novinama«, osim odredbi članka 10. u dijelu koji se odnosi na elektronički zapis i članaka 19., 20., 21., 22. i 23., a koji stupaju na snagu 1. srpnja 2015. godine za postupke lokacijskih dozvola koje izdaje ministarstvo nadležno za poslove prostornoga uređenja, odnosno 1. srpnja 2016. godine za postupke lokacijskih dozvola koje izdaje upravno tijelo.
