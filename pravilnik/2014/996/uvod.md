@@ -1,0 +1,1 @@
+Na temelju članka 7. stavka 6. Zakona o dobrovoljnim mirovinskim fondovima (»Narodne novine« broj 19/2014), Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća održanoj 18. travnja 2014. godine donosi
