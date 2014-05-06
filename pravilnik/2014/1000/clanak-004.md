@@ -1,0 +1,3 @@
+# Članak 4.
+(1) U skladu s člankom 76. stavkom 1. Zakona, depozitar će u roku od 7 dana objaviti javni poziv za prikupljanje ponuda za preuzimanje upravljanja mirovinskim fondovima. Poziv se objavljuje u jednim ili više dnevnih novina koje se prodaju na cijelom ili pretežitom području Republike Hrvatske, te na internetskoj stranici depozitara.
+(2) Pozivom iz stavka 1. ovoga članka depozitar poziva sva zainteresirana mirovinska društva, koja ispunjavaju uvjete za upravljanje mirovinskim fondovima i zainteresirana su preuzeti upravljanje mirovinskim fondovima, da u roku od 45 dana podnesu ponudu za upravljanje mirovinskim fondovima koji su pod privremenom upravom depozitara.

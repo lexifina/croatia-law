@@ -1,0 +1,1 @@
+Na temelju članka 69. stavka 6., članka 72. stavka 5., članka 76. stavka 3. i članka 76. stavka 13. Zakona o obveznim mirovinskim fondovima (»Narodne novine« broj 19/2014, dalje: Zakon), Hrvatska agencija za nadzor financijskih usluga (dalje: Agencija) na sjednici Upravnog vijeća održanoj 18. travnja 2014. godine donosi
