@@ -1,0 +1,3 @@
+# Članak 15.
+(1) Najmoprimac je dužan snositi troškove tekućeg održavanja stambene jedinice koju je dobio u najam (bojanje zidova, stropova, vanjske i unutarnje stolarije, bojanje bravarije, keramičarski i drugi radovi, popravak i zamjena stolarije - vrata, kapci, žaluzine, grilje, popravak i održavanje sanitarija, i sl.).
+(2) Na suvlasničkim dijelovima zgrade investicijsko održavanje obavljat će, sukladno Zakonu o vlasništvu i drugim stvarnim pravima (»Narodne novine« broj 91/96, 68/98, 137/99, 22/00, 73/00, 129/00, 114/01, 79/06, 141/06, 146/08, 38/09, 153/09, 90/10 i 143/12) upravitelj zgrade iz sredstava uplaćene zajedničke pričuve.

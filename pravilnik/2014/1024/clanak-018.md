@@ -1,0 +1,4 @@
+## VI. POVJERENSTVO ZA PROCJENU STAMBENIH JEDINICA
+# Članak 18.
+(1) Radi utvrđivanja posebnih okolnosti vezanih za nekretnine i korisnike, utvrđivanje stvarne površine u stambenom prostoru za koju se plaća najam, privremeno preseljenje korisnika u drugu stambenu jedinicu uslijed razloga koji su posljedica više sile, pravomoćnih sudskih presuda u slučajevima utvrđivanja titulara vlasništva na nekretninama dodjeljenim korisnicima u postupku stambenog zbrinjavanja, oštećenja na nekretnini te zahtjeva drugih tijela državne uprave za uklanjanjem nekretnine zbog općih interesa utvrđenih temeljem zakona (rušenje useljene nekretnine zbog izgradnje ceste, groblja, infrastrukturnih objekata) Državni ured osnovat će povjerenstvo za procjenu stambenih jedinica (u daljenjm tekstu: povjerenstvo).
+(2) Povjerenstvo utvrđuje da li skup prostorija dodijeljen korisniku predstavlja stan ili stambeni prostor u slučajevima utvrđivanja stvarne površine za koju se plaća najamnina.

@@ -1,0 +1,1 @@
+Na temelju članka 11.a stavka 1. Zakona o područjima posebne državne skrbi (»Narodne novine« broj 86/08, 57/11, 51A/13 i 148/13), u daljnjem tekstu: Zakon, predstojnica Državnog ureda za obnovu i stambeno zbrinjavanje, donosi
