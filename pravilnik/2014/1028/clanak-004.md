@@ -1,0 +1,3 @@
+# Članak 4.
+(1) Leasing društva dužna su Agenciji dostavljati dokumentaciju iz odredbe članka 3. ovog Pravilnika u običnom presliku, osim dokumentacije iz članka 3. stavka 1. točaka 1. (osim rješenja o upisu u sudski registar koja se mogu dostaviti u običnom presliku), 2. i 12. ovoga Pravilnika koja se dostavlja u izvorniku ili ovjerenoj preslici. Dostavljena dokumentacija se ne vraća.
+(2) Osim dokumentacije propisane člankom 3. ovog Pravilnika, leasing društva su dužna dostaviti na zahtjev Agencije i drugu dokumentaciju ili podatke za potrebe nadzora ili za obavljanje drugih poslova iz nadležnosti i djelokruga Agencije u vezi s poslovanjem leasing društva, na način i u roku određenom u zahtjevu.
