@@ -1,0 +1,4 @@
+# Članak 7.
+U članku 74. stavku 1. ispod Tablice 1.3. Godišnja vrijednost standardnog tima za djelatnost zdravstvene zaštite žena, tekst pod oznakom: »*« mijenja se i glasi:
+»*na svakih 5 članova skupne prakse mogu se ostvariti sredstva za 40 satno tjedno radno vrijeme dodatne medicinske sestre/medicinskog tehničara u maksimalnom iznosu od 77.450,44 kuna.
+Sredstva za svakog pojedinog člana skupne prakse koji koriste usluge/sudjeluju u plaćanju dodatne medicinske sestre/medicinskog tehničara utvrđuju se ovisno o sklopljenom ugovoru o radu s med. sestrom/medicinskim tehničarom, međusobno sklopljenim ugovorima članova skupne prakse kao i brojem članova skupne prakse koji koriste usluge/sudjeluju u plaćanju dodatne med. sestre/med (iznos se umanjuje proporcionalno broju članova skupne prakse koji koriste usluge/sudjeluju u plaćanju dodatne med. sestre (med. tehničara).«

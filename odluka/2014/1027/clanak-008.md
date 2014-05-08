@@ -1,0 +1,4 @@
+# Članak 8.
+U članku 81. stavku 1. ispod Tablice 1.4. Godišnja vrijednost standardnog tima za djelatnost dentalne zdravstvene zaštite (polivalentne), tekst pod oznakom: »*« mijenja se i glasi:
+»*na svakih 7 članova skupne prakse mogu se ostvariti sredstva za dodatnog doktora dentalne medicine u maksimalnom iznosu od 156.129,79 kuna.
+Sredstva za svakog pojedinog člana skupne prakse koji koriste usluge/sudjeluju u plaćanju dodatnog doktora dentalne medicine utvrđuju se ovisno o sklopljenom ugovoru o radu s doktorom dentalne medicine, međusobno sklopljenim ugovorima članova skupne prakse kao i brojem članova skupne prakse koji koriste usluge/sudjeluju u plaćanju dodatnog doktora dentalne medicine (iznos se umanjuje proporcionalno broju članova skupne prakse koji koriste usluge/sudjeluju u plaćanju dodatnog doktora dentalne medicine).«
