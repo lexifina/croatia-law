@@ -1,0 +1,5 @@
+# Članak 13.
+(1) Zapovjednik odnosno čelnik ustrojstvene jedinice razine samostalne bojne ili njoj ravne i više razine dužan je omogućiti pravovremeno korištenje godišnjeg odmora djelatnim vojnim osobama koje su planirane za izdvajanje s pravom na mirovinu.
+(2) Djelatnoj vojnoj osobi kojoj prestaje služba, a koja nije iskoristila godišnji odmor u cijelosti pripada pravo na naknadu za neiskorišteni godišnji odmor razmjerno broju dana neiskorištenoga godišnjeg odmora.
+(3) O zahtjevu za naknadu neiskorištenog godišnjeg odmora odlučuje ustrojstvena jedinica Ministarstva obrane nadležna za upravljanje ljudskim resursima odlukom na temelju potvrde zapovjednika odnosno čelnika ustrojstvene jedinice razine samostalne bojne ili njoj ravne i više razine o broju dana neiskorištenoga godišnjeg odmora.
+(4) Naknada za neiskorišteni godišnji odmor isplaćuje se u visini plaće djelatne vojne osobe u mjesecu koji je prethodio mjesecu u kojem joj je prestala služba i to kao da je radila u redovnom radnom vremenu, a razmjerno broju dana neiskorištenoga godišnjeg odmora.

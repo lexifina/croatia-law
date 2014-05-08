@@ -1,0 +1,4 @@
+# Članak 10.
+(1) Djelatna vojna osoba može godišnji odmor koristiti u više dijelova od kojih prvi dio od najmanje dva tjedna u neprekidnom trajanju mora koristiti tijekom kalendarske godine za koju ostvaruje pravo na godišnji odmor, a preostali dio mora iskoristiti najkasnije do 30. lipnja iduće godine.
+(2) Iznimno od stavka 1. ovoga članka, djelatna vojna osoba koja zbog privremene nesposobnosti za rad ili obavljanja službe u inozemstvu nije bila u mogućnosti iskoristiti godišnji odmor za prethodnu godinu u propisanom roku može navedeni godišnji odmor koristiti do 30. rujna tekuće godine.
+(3) Godišnji odmor odnosno prvi dio godišnjeg odmora koji je prekinut ili nije korišten u kalendarskoj godini u kojoj je stečen i to zbog rodiljnog i roditeljskog dopusta odnosno zbog vježbe ili drugog opravdanog razloga, djelatna vojna osoba ima pravo iskoristiti do 30. lipnja iduće godine.
