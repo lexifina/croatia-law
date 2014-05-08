@@ -1,0 +1,1 @@
+Ustavni sud Republike Hrvatske, u Drugom vijeću za odlučivanje o ustavnim tužbama, u sastavu sutkinja Snježana Bagić, predsjednica Vijeća, te suci Mato Arlović, Marko Babić, Davor Krapac, Ivan Matija i Duška Šarin, članovi Vijeća, odlučujući o ustavnoj tužbi koju je podnio D. D. iz K., kojeg zastupa V. V., odvjetnik u R., na sjednici održanoj 8. svibnja 2014. jednoglasno je donio
