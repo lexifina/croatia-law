@@ -1,0 +1,2 @@
+# Članak 5.
+Standardi iz propisa koji uređuje uvjete i način održavanja straže, te obavljanje drugih poslova na brodovima hrvatske državne pripadnosti na odgovarajući se način primjenjuju na brodovima strane državne pripadnosti do 650 BT koji obavljaju obalnu kabotažu i na brodovima za kružna putovanja do 650 BT te na svim brodovima koji obavljaju otočnu kabotažu u Republici Hrvatskoj, osim teretnih brodova većih od 650 BT u kabotaži kada predmetno putovanje slijedi nakon putovanja ili prethodi putovanju prema nekoj drugoj državi ili iz nje.

@@ -1,0 +1,2 @@
+# Članak 4.
+Svi članovi posade zaduženi za poslove sigurnosti putnika (muster lista) na brodovima do 650 BT koji obavljaju obalnu kabotažu, brodovima za kružna putovanja do 650 BT, te na svim brodovima koji obavljaju otočnu kabotažu u Republici Hrvatskoj, osim teretnih brodova većih od 650 BT u kabotaži kada predmetno putovanje slijedi nakon putovanja ili prethodi putovanju prema nekoj drugoj državi ili iz nje, moraju razumjeti i sukladno svojim dužnostima davati naredbe upute i izvješća na hrvatskom jeziku.
