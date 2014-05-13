@@ -1,0 +1,2 @@
+# Članak 4.
+Zahtjev za izdavanje odobrenja za paralelnu trgovinu biocidnim proizvodom u skladu s člankom 53. Uredbe (EU) br. 528/2012, zahtjev za izdavanje odobrenja za biocidni proizvod zbog nepredviđene opasnosti u skladu s člankom 55. stavkom 1. Uredbe (EU) br. 528/2012, te zahtjev za izdavanje odobrenja za biocidni proizvod u svrhu istraživanja i razvoja u skladu s člankom 56. Uredbe (EU) br. 528/2012, podnosi se svaki pojedinačno na odgovarajućem obrascu koji je dostupan na mrežnim stranicama Ministarstva zdravlja www.miz.hr.

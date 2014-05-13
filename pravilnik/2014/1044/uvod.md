@@ -1,0 +1,1 @@
+Na temelju članka 8. stavka 4. Zakona o provedbi Uredbe (EU) br. 528/2012 Europskoga parlamenta i Vijeća u vezi sa stavljanjem na raspolaganje na tržištu i uporabi biocidnih proizvoda (»Narodne novine«, broj 39/2013) ministar zdravlja donosi

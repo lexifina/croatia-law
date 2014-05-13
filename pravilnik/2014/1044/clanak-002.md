@@ -1,0 +1,2 @@
+# Članak 2.
+Zahtjev za izdavanje odobrenja za biocidni proizvod pored podataka propisanih Uredbom (EU) br. 528/2012 Europskoga parlamenta i Vijeća u vezi sa stavljanjem na raspolaganje na tržištu i uporabi biocidnih proizvoda (u daljnjem tekstu: Uredba (EU) br. 528/2012), obvezno mora sadržavati i podatke o podnositelju zahtjeva (naziv, sjedište, MB, OIB), vrstu odobrenja čije se izdavanje zahtijeva te podatke o nositelju odobrenja, odnosno distributerima.
