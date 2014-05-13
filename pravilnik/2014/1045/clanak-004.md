@@ -1,0 +1,3 @@
+# Članak 4.
+(1) Naknade iz ovoga Pravilnika prihodi su državnog proračuna za poslove koje obavlja Ministarstvo, odnosno pravnih osoba s javnim ovlastima i drugih javnih ustanova ovlaštenih za pojedine stručne poslove sukladno članku 3. Zakona o provedbi Uredbe (EU) br. 528/2012 Europskoga parlamenta i Vijeća u vezi sa stavljanjem na raspolaganje na tržištu i uporabi biocidnih proizvoda (»Narodne novine«, broj 39/2013), u skladu s poslovima za koje se naknada plaća.
+(2) Naknade iz Priloga I. ovoga Pravilnika dijele se na način kako je navedeno u Prilogu II. koji je otisnut uz ovaj Pravilnik i čini njegov sastavni dio.
