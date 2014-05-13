@@ -1,0 +1,1 @@
+55 05.05.2014 Uredba o nazivima radnih mjesta i koeficijentima složenosti poslova, dodatku na uvjete rada te kriterijima i najvišem mogućem iznosu dodatka za natprosječne rezultate u radu za službenike Porezne uprave
