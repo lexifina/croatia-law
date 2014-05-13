@@ -1,0 +1,2 @@
+# Članak 1.
+Ovim Pravilnikom propisuje se način vođenja, kao i način uvida u podatke i uvjete izdavanja izvoda iz Evidencije o izdanim skladišnicama u postupcima skladištenja žitarica i industrijskog bilja, način i uvjeti postupanja sa skladišnicom pri upisu zaloga u slučaju prodaje, postupci ovlaštenih osoba pri evidentiranju prijenosa zaloga ili promjene vlasnika skladišnice, izvori podataka o kretanju cijena za pojedine robe te uvjeti utvrđivanja vrijednosti, način prikupljanja i korištenje podataka.

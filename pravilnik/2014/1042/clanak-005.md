@@ -1,0 +1,2 @@
+# Članak 5.
+U slučaju oduzimanja ovlaštenja od strane Ministarstva, u postupku koji je pokrenut po službenoj dužnosti, kad su tijekom nadzora utvrđene činjenice koje su razlog za njegovo oduzimanje, skladištar je dužan u roku od 15 dana od oduzimanja ovlaštenja dostaviti dokaze iz kojih je razvidno da je izvijestio vlasnike skladišnica i vjerovnike o oduzimanju ovlaštenja, te da je s njima regulirao obveze.

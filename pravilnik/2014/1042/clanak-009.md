@@ -1,0 +1,5 @@
+# Članak 9.
+1) U slučajevima kada vlasnik skladišnice koristi skladišnicu kao jamstvo vlasnik robe i založni vjerovnik svoje međusobne odnose regulirat će Ugovorom.
+2) Ukoliko se skladišnica koristi kao jamstvo, pri upisu zaloga vlasnik skladišnice dužan je vjerovniku priložiti Izjavu o suglasnosti da se uskladištena roba temeljem skladišnice izvansudski proda radi namirenja tražbine vjerovnika, te da se iznos dobiven prodajom isplati vjerovniku na njegov račun u iznosu glavnice uvećano za iznos ugovorene kamate i ostalih sporednih tražbina uključujući zateznu kamatu koja teče od dospijeća do namirenja (u visini zakonom propisane).
+3) Izjavom iz stavka 2. ovoga članka vlasnik skladišnice može dati uputu ovlaštenom skladištaru, koji je skladišnicu izdao, da je odobrio vjerovniku da odredi opseg ili krajnji rok ispunjenja tražbine prilikom podnošenja skladišnice na naplatu.
+4) Izjava iz stavka 2. ovoga članka mora biti javnobilježnički ovjerena i odnositi se na točan broj skladišnice koja se uz nju prilaže.
