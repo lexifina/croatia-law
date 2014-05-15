@@ -1,0 +1,1 @@
+Na temelju članka 75. Zakona o upravljanju i raspolaganju imovinom u vlasništvu Republike Hrvatske (»Narodne novine«, broj 94/2013), Vlada Republike Hrvatske je na sjednici održanoj 15. svibnja 2014. godine donijela
