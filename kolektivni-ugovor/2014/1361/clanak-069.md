@@ -1,0 +1,5 @@
+# Članak 69.
+(1) Poslodavac je dužan sindikalnom povjereniku, odnosno sindikalnom predstavniku kao i članovima povjereništva omogućiti obavljanje sindikalnih aktivnosti u radno vrijeme na način i u opsegu koji ovisi o veličini i organizaciji rada srednjoškolske ustanove, a koje ne šteti radu srednjoškolske ustanove.
+(2) Članovi povjereništva sindikata imaju pravo održati sindikalne sastanke u radno vrijeme srednjoškolske ustanove vodeći računa da se sastanci organiziraju u vrijeme i na način koji ne šteti radu srednjoškolske ustanove.
+(3) Svi članovi Sindikata ustanova imaju pravo jednom u šest mjeseci održati sindikalni skup u radno vrijeme srednjoškolske ustanove, o čemu trebaju obavijestiti poslodavca, pazeći da se sastanak organizira na vrijeme i na način koji najmanje narušavaju redovno poslovanje srednjoškolske ustanove.
+(4) Sindikalni predstavnik, povjerenik odnosno članovi sindikalnog povjereništva imaju pravo na plaćeni dopust za sindikalne tečajeve, seminare, kongrese i konferencije u trajanju od ukupno 10 dana godišnje.
