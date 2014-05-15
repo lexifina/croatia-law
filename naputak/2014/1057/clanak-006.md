@@ -1,0 +1,3 @@
+# Članak 6.
+Pojedina upravna tijela, odnosno Ministarstvo dužni su započeti s izradom nacrta akata i provedbom postupaka u skladu s ovim Naputkom najkasnije u roku od deset dana od dana završetka obuke službenika pojedinoga upravnog tijela, odnosno Ministarstva iz članka 5. ovoga Naputka.
+Upravna tijela koja su započela izradu nacrta akata i provedbu postupaka u skladu s ovim Naputkom dužna su bez odlaganja u svojim službenim prostorijama na vidljivom mjestu koje je lako dostupno svim strankama istaknuti obavijest o obvezi predaje zahtjeva na obrascu i o mogućnosti popunjavanja i predaje zahtjeva elektroničkim putem, te o pravu uvida u tijek postupka izdavanja akta putem internetske adrese Ministarstva: »https://dozvola.mgipu.hr« uporabom korisničkog imena i zaporke.

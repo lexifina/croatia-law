@@ -1,0 +1,3 @@
+# Članak 4.
+Podnositelji zahtjeva za izdavanje upravnih i drugih akata koji se izdaju na temelju Zakona o prostornom uređenju i Zakona o gradnji, čiji se postupak izdavanja provodi primjenom elektroničkog programa iz članka 2. stavka 1. ovoga Naputka ostvaruje svoje pravo uvida u tijek postupka izdavanja akta putem internetske adrese Ministarstva: »https://dozvola.mgipu.hr« uporabom korisničkog imena i zaporke.
+Korisničko ime i zaporka iz stavka 1. ovoga članka određuje se automatski u slučaju predaje zahtjeva elektroničkim putem, a u slučaju predaje samo ispisa obrasca zahtjeva korisničko ime i zaporku određuje upravno tijelo, odnosno Ministarstvo na zahtjev podnositelja zahtjeva.

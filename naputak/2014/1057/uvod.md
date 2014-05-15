@@ -1,0 +1,1 @@
+Na temelju članka 5. stavka 1. Zakona o prostornom uređenju (»Narodne novine«, br. 153/2013) i članka 6. stavka 1. Zakona o gradnji (»Narodne novine«, br. 153/2013) ministrica graditeljstva i prostornoga uređenja, donosi
