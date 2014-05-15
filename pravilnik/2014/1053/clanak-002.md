@@ -1,0 +1,3 @@
+# Članak 2.
+U Registar prijevoznika upisuju se podaci o pravnim i fizičkim osobama kojima je ured državne uprave u županiji, odnosno upravno tijelo Grada Zagreba nadležno za poslove prometa (u daljnjem tekstu: izdavatelj licencije) izdao licenciju za obavljanje djelatnosti javnoga cestovnog prijevoza putnika ili tereta u unutarnjem cestovnom prometu, te autotaksi prijevoz.
+U Registru prijevoznika izdvojeno se vodi evidencija posrednika u cestovnom prijevozu, u koju se upisuju podaci o pravnim i fizičkim osobama kojima je izdavatelj licencije izdao licenciju za obavljanje agencijske djelatnosti u cestovnom prometu.
