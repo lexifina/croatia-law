@@ -1,0 +1,2 @@
+# Članak 7.
+Ako centar obavlja poslove zbrinjavanja djece odbjegle iz obitelji, udomiteljske obitelji ili doma socijalne skrbi, provođenja odgojnih mjera nad djecom s poremećajima u ponašanju izvan vlastite obitelji ili s boravkom u obitelji te poslove pomoći u kući, prostor u kojem se obavljaju ti poslovi, mora udovoljavati uvjetima propisanim provedbenim propisom koji uređuje to područje sukladno Zakonu o socijalnoj skrbi (»Narodne novine« broj 157/13).
