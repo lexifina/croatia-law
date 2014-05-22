@@ -1,0 +1,5 @@
+# Članak 6.
+(1) Jakna (zimska i ljetna) jest skupna odora koju koristi više inspektora.
+(2) Skupnu odoru i cipele sa zaštitom gležnja za inspektore u područnim uredima Inspektorata rada i njima pripadajućim ispostavama u Glavnom tajništvu ministarstva nadležnog za rad preuzimaju pročelnici područnih ureda, a za inspektore u središnjem uredu Inspektorata rada načelnici sektora.
+(3) Pročelnici područnih ureda Inspektorata rada i načelnici sektora u središnjem uredu Inspektorata rada brinu se o smještaju i čuvanju skupne odore, vode evidenciju odora, raspoređuju skupnu odoru prema potrebi inspektorima u područnim uredima s pripadajućim ispostavama odnosno inspektorima u središnjem uredu te se brinu o njezi i održavanju skupne odore.
+(4) Inspektori u područnim uredima s pripadajućim ispostavama preuzimaju cipele sa zaštitom gležnja, ako su im osigurane, od pročelnika područnih ureda, a inspektori u središnjem uredu od načelnika sektora središnjeg ureda Inspektorata rada i dužni su ih uredno održavati i čuvati.

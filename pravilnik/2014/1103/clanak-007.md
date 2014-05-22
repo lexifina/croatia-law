@@ -1,0 +1,4 @@
+# Članak 7.
+(1) Jakna (zimska i ljetna) i/ili cipele sa zaštitom gležnja ako su oštećene ili uništene u obavljanju službe ili povodom obavljanja službe, zamijenit će se bez naknade, na temelju pisanog zahtjeva nadležnog nadređenog službenika.
+(2) U slučaju oštećenja ili uništenja službene odore iz članka 3. stavka 1. ovog Pravilnika, do kojeg je došlo izvan obavljanja službenog zadatka ili grubom nepažnjom inspektora za vrijeme obavljanja službenog zadatka, nova odora će se nabaviti na trošak inspektora koji je uzrokovao oštećenje ili uništenje službene odore.
+(3) Jakna (zimska i ljetna) zamjenjuje se u pravilu istekom pete godine uporabe, a cipele sa zaštitom gležnja istekom treće godine uporabe. Dijelovi odore mogu se zamijeniti i prije ukoliko su jače oštećeni ili dotrajali temeljem zahtjeva nadležnog nadređenog službenika, koji utvrđuje opravdanost zamjene.
