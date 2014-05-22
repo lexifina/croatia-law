@@ -1,0 +1,7 @@
+## Statistički poslovni registar
+# Članak 5.
+Statistički poslovni registar (u daljnjem tekstu: eSPRi) je registar koji sadrži podatke o poslovnim subjektima (pravnim i fizičkim osobama), njihovim dijelovima i grupacijama, koji su institucionalno i formalno uključeni u proizvodne i financijske procese nacionalnog gospodarstva.
+Jedinice eSPRi-a su jedinice definirane u Uredbi o statističkim registrima (Uredba (EZ) br. 177/2008 Europskog parlamenta i Vijeća od 20. veljače 2008. o uspostavljanju zajedničkog okvira za poslovne registre u statističke svrhe i opozivu Uredbe Vijeća (EEZ) br. 2186/93), a to su: pravne jedinice, poduzeća, lokalne jedinice i grupe poduzeća.
+eSPRi sadrži sljedeća obilježja spomenutih jedinica ovisno o tipu: identifikacijska (jedinstveni identifikator, naziv), stratifikacijska (prostorna obilježja, veličina, djelatnost), ekonomska (broj zaposlenih, promet) i druge podatke o pojedinim jedinicama eSPRi-a.
+Svrha eSPRi-a je omogućiti efikasno prikupljanje podataka o poslovnim subjektima, njihovu obradu i analizu koje provode ustrojstvene jedinice DZS-a usmjereni na praćenje poslovnih subjekata te drugi nositelji službene statistike.
+eSPRi je glavni izvor podataka za statistiku poslovne demografije budući da bilježi demografske događaje vezane uz poslovne subjekte (osnivanja,prestanci poslovanja,pripajanja, spajanja, izdvajanja dijelova, dijeljenja ili rekonstruiranja poduzeća i druge).Glavni izvori podataka za ažuriranje eSPRi-a su administrativni izvori i statistička istraživanja poslovnih i drugih statistika.
