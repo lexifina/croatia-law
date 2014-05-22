@@ -1,0 +1,3 @@
+# Članak 5.
+(1) U članku 5. stavak (3) mijenja se i glasi:
+»(3) Maksimalna godišnja kvota po pojedinoj grupi raspodijelit će se na odobreni broj grupa tako da izlovna kvota pojedine grupe ne smije prelaziti 30% ukupne godišnje izlovne kvote za plivarice tunolovke, osim u slučaju kad dva ili više ovlaštenika za uzgoj tuna koji su upisani u registar ICCAT-a prijave zajedničke ribolovne radnje s tim da nijedan od ovlaštenika u novonastalu grupu ne može unijeti više od 30% kvote dodijeljene plivaricama tunolovkama. Jedan ovlaštenik za uzgoj tuna upisan u Registar ICCAT-a smije imati najviše jednu grupu plovila bez obzira na broj uzgajališta. Ribolov tuna plivaricom tunolovkom izvan grupe nije dopušten.«.
