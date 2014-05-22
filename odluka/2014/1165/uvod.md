@@ -1,0 +1,1 @@
+Na temelju članka 18. stavka 6. Zakona o tržištu nafte i naftnih derivata (»Narodne novine«, broj 19/2014) i članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, broj 150/2011), Vlada Republike Hrvatske je na sjednici održanoj 22. svibnja 2014. godine donijela
