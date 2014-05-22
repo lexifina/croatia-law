@@ -1,0 +1,1 @@
+Na temelju članka 10. stavka 4. Pravilnika o početnoj i periodičkoj izobrazbi vozača (»Narodne novine«, broj: 31/2014.) Upravni odbor Hrvatskog autokluba na svojoj 19. sjednici održanoj 14. travnja 2014. donio je
