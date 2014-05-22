@@ -1,0 +1,5 @@
+# Članak 9.
+Članak 17. mijenja se i glasi:
+»(1) Ukoliko Nadzorno tijelo ustanovi da nisu ispunjeni zahtjevi propisani ovim Pravilnikom i Tehnološkim uputama za pojedino područje integrirane proizvodnje, neće izdati potvrdu proizvođaču za to područje. Jednako tako ako nisu ispunjeni zahtjevi propisani ovim Pravilnikom i Tehnološkim uputama za pojedinu kulturu iz pojedinog područja neće se izdati potvrda za pojedino područje.
+(2) Ukoliko Nadzorno tijelo ustanovi uporabu genetski modificiranih organizama i svih proizvoda koji sadrže njihove sastavne dijelove ili su proizvedeni od tih organizama ili se ustanove nepravilnosti vezane za pojedino područje integrirane proizvodnje, neće izdati potvrdu proizvođaču za to područje. Jednako tako ako se navedene nepravilnosti utvrde za pojedinu kulturu iz pojedinog područja neće se izdati potvrda za to područje.«
+(3) Nadzorno tijelo može uzimati uzorke ukoliko postoji sumnja da su korištena sredstva koja nisu u skladu s pravilima integrirane proizvodnje i Tehnološkim uputama.«
