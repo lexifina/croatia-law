@@ -1,0 +1,2 @@
+# Članak 112.
+Kada ovlašteno tijelo (invalidske komisije HZMO) ili nadležni specijalist medicine rada utvrdi da je kod radnika nastupila profesionalna nesposobnost za rad, neposredna opasnost od nastanka invalidnosti odnosno nesposobnost ili privremena nesposobnost za obavljanje poslova s posebnim uvjetima rada, a koja nije nastala kao posljedica nesreće na radu ili profesionalne bolesti za vrijeme dok je radnik bio u radnom odnosu kod Poslodavca, Poslodavac je obavezan postupiti na način utvrđen Zakonom.

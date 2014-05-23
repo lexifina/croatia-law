@@ -1,0 +1,3 @@
+Na temelju članka 255. Zakona o radu (»Narodne novine« broj 149/09, 61/11, 82/12, 73/13), daljnjem tekstu: Zakon) i članka 7. Zakona o kriterijima za sudjelovanje u tripartitnim tijelima i reprezentativnosti za kolektivno pregovaranje (»Narodne novine« broj 82/12, 88/12) HRVATSKE AUTOCESTE ODRŽAVANJE I NAPLATA CESTARINE d.o.o, Zagreb, Koturaška cesta 43, (u daljnjem tekstu: Poslodavac), s jedne strane i Nezavisni cestarski sindikat, Zagreb, Širolina 4, i Sindikat radnika hrvatskih cesta i autocesta, Zagreb, Širolina 4, s druge strane (u daljnjem tekstu: Sindikati) zaključili su u Zagrebu 23. svibnja 2014. godine
+KOLEKTIVNI UGOVOR
+I. OPĆE ODREDBE
