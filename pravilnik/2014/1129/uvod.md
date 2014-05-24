@@ -1,0 +1,1 @@
+Na temelju članka 66. stavka 4. Zakona o osiguranju (»Narodne novine« broj 151/05, 87/08, 82/09 i 54/13) i članka 55. stavka 4. Zakona o mirovinskim osiguravajućim društvima (»Narodne novine« broj 22/14), Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća održanoj 9. svibnja 2014. donosi
