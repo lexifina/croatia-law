@@ -1,0 +1,1 @@
+Na temelju Odluke o donošenju Plana izdavanja prigodnoga kovanog novca i numizmatičkih kompleta u 2014. godini, koju je Savjet Hrvatske narodne banke pod Z. br. 1971/2014. donio na sjednici održanoj 15. veljače 2014., te članka 22. i članka 43. stavka 3. Zakona o Hrvatskoj narodnoj banci (»Narodne novine«, br. 75/2008. i 54/2013.) guverner Hrvatske narodne banke donio je
