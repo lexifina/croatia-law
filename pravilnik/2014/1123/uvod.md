@@ -1,0 +1,1 @@
+Na temelju članka 159. stavka 6. Zakona o obveznim mirovinskim fondovima (»Narodne novine« broj 19/2014), Hrvatska agencija za nadzor financijskih usluga (dalje: Agencija) na sjednici Upravnog vijeća održanoj 9. svibnja 2014. godine donosi

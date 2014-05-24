@@ -1,0 +1,4 @@
+## NAČIN DOSTAVE OBAVIJESTI O PRIPAJANJU MIROVINSKIH FONDOVA
+# Članak 4.
+(1) Obavijest iz članka 3. ovog Pravilnika mirovinska društva fonda preuzimatelja i fonda prenositelja dužna su u pisanom obliku dostaviti REGOS-u i to pravovremeno, kako bi REGOS istu mogao učiniti dostupnom svim članovima unutar roka iz članka 159. stavak 4. Zakona.
+(2) Obavijest iz stavka 2. ovog Pravilnika dužan je REGOS objaviti u elektroničkom obliku na svojim mrežnim (internetskim) stranicama i učiniti je dostupnom besplatnim stavljanjem na uvid u tiskanom obliku na prijemnim mjestima REGOS-a, kao i poslati je svakom članu fonda preuzimatelja i fonda prenositelja putem elektroničke pošte, ako je član mirovinskom društvu ili REGOS-u dostavio valjanu adresu elektroničke pošte te je odabrao takav način dostave podataka.
