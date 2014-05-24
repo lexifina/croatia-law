@@ -1,0 +1,1 @@
+Na temelju članka 13. stavka 6. Zakona o mirovinskim osiguravajućim društvima (»Narodne novine« broj 22/14, dalje u tekstu: Zakon), Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća održanoj 9. svibnja 2014. donosi
