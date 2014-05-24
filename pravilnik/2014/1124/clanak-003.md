@@ -1,0 +1,5 @@
+# Članak 3.
+(1) Mirovinsko društvo koje je dioničko društvo može se preoblikovati u društvo s ograničenom odgovornošću i obratno.
+(2) Mirovinsko društvo može se podijeliti, pripojiti ili spojiti.
+(3) Na statusne promjene mirovinskih društava, u dijelu u kojemu iste nisu regulirane odredbama Zakona, primjenjuju se odredbe Zakona o trgovačkim društvima (»Narodne novine« broj 111/93, 34/99, 121/99 - vjerodostojno tumačenje, 52/2000 - Odluka Ustavnog suda Republike Hrvatske, 118/2003, 107/2007, 146/2008, 137/2009, 152/2011 - pročišćeni tekst, 111/2012 i 68/2013, dalje: ZTD).
+(4) Položaj članova mirovinskih fondova kojima upravlja mirovinsko društvo koje sudjeluje u statusnoj promjeni ne smije uslijed statusne promjene biti promijenjen na štetu članova tih fondova. Agencija se prilikom odlučivanja o zahtjevu za odobrenje statusne promjene dužna voditi zaštitom imovine mirovinskih fondova kojima upravlja mirovinsko društvo koje sudjeluje u statusnoj promjeni, odnosno zaštitom imovinskih prava članova tih fondova, kao i zaštitom sustava obveznih mirovinskih fondova u cjelini.

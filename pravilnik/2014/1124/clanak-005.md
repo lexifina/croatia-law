@@ -1,0 +1,6 @@
+## PODJELA
+## Opće odredbe
+# Članak 5.
+(1) Podnositelj zahtjeva uz zahtjev za odobrenje podjele prilaže plan podjele iz članka 550.b ZTD-a, izvješće o podjeli iz članka 550.d ZTD-a i odluku glavne skupštine, odnosno skupštine društva o podjeli iz članka 550.h ZTD-a.
+(2) Rješenje Agencije kojim se odobrava podjela mirovinskog društva uslijed koje se djelatnosti mirovinskog društva koje se dijeli prenose na društvo koje do tada te djelatnosti nije obavljalo, sadrži ujedno i odobrenja za obavljanje funkcije članova uprave i člana nadzornog odbora, odobrenje za osnivanje i rad mirovinskog društva iz članka 10. Zakona te odobrenje za osnivanje i upravljanje mirovinskim fondovima iz članka 82. Zakona, kao i odgovarajuća odobrenja predviđena člankom 21. te člankom 100. Zakona o dobrovoljnim mirovinskim fondovima (»Narodne novine« broj 19/2014, dalje: ZDMF), ako mirovinsko društvo uslijed podjele prestaje obavljati djelatnost osnivanja i upravljanja dobrovoljnim mirovinskim fondovima.
+(3) Po upisu podjele u sudski registar suda nadležnog po mjestu sjedišta društva koje se dijeli, društvo koje nastavlja poslovati kao mirovinsko društvo dužno je bez odlaganja o upisu obavijestiti Agenciju i dostaviti joj presliku sudskog rješenja o upisu.

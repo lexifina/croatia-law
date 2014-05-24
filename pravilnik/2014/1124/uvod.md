@@ -1,0 +1,1 @@
+Na temelju članka 28. stavka 7. Zakona o obveznim mirovinskim fondovima (»Narodne novine« broj 19/2014, dalje: Zakon), Hrvatska agencija za nadzor financijskih usluga (dalje: Agencija) na sjednici Upravnog vijeća održanoj 9. svibnja 2014. godine donosi
