@@ -1,2 +1,0 @@
-# Članak 10.
-Ugovorne stranke su odlučile utemeljiti Zajednički trgovinski odbor u svrhu raspravljanja o mjerama za proširenje direktne trgovine između dvije zemlje, te o pitanjima koja mogu nastati uslijed provedbe ovoga Ugovora. Zajednički trgovinski odbor može također davati prijedloge neophodne za ostvarivanje ciljeva ovoga Ugovora, te će se sastajati naizmjence u jednoj od zemalja, u vrijeme o kojem se zajednički dogovore.
