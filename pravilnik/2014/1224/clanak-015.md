@@ -1,0 +1,2 @@
+# Članak 15.
+Za građevinu za koju je izdana lokacijska dozvola na temelju zakona koji je važio prije stupanja na snagu Zakona o gradnji (»Narodne novine«, broj 153/13), a zahtjev za izdavanje građevinske dozvole je podnesen nakon stupanja na snagu Zakona o gradnji (»Narodne novine«, broj 153/13) i izdaje se u skladu s tom lokacijskom dozvolom, sastavni dio glavnog projekta može biti Geodetski projekt, o čemu odluku donosi investitor.

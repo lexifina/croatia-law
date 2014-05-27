@@ -1,0 +1,6 @@
+## Tehnički opis
+# Članak 18.
+(1) Tehnički opis građevine, odnosno njezinog dijela, sadrži sve relevantne tehničke podatke o projektiranoj građevini odnosno njezinom dijelu, uvjetima i zahtjevima koji moraju biti ispunjeni pri izvođenju radova i koje način izvođenja radova mora ispuniti i ugrađenim građevnim proizvodima i opremi te konstrukciji, ovisno o vrsti građevine.
+(2) Tehnički opis zgrade sadrži iskaz ukupne ploštine podne površine zgrade, ukupne ploštine korisne površine zgrade i ukupnog obujma zgrade izračunate prema točkama 5.1.3., 5.1.7 i 5.2.2. norme HRN ISO 9836.
+(3) Tehnički opis zgrade koja prema posebnom propisu podliježe energetskom certificiranju sadrži, osim iskaza ploština i obujma iz stavka 2. ovoga članka, i iskaz ploštine korisne površine zgrade Ak, koja se izračunava u skladu s odredbama tog propisa.
+(4) Tehnički opis zgrade koja podliježe posebnom propisu kojim se uređuje racionalna uporaba energije i toplinska zaštita u zgradama, osim iskaza ploština i obujma iz stavka 2. ovoga članka, sadrži i iskaz ploštine bruto podne površine zgrade, ploštine korisne površine zgrade Ak, ploštine neto podne površine zgrade i ploštine ukupne korisne površine zgrade, koje se izračunavaju u skladu s odredbama tog propisa.

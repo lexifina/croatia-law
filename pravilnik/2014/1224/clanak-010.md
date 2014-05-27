@@ -1,0 +1,7 @@
+## Potpisivanje i odgovornosti za potpisani projekt odnosno dio projekta
+# Članak 10.
+(1) Naslovnu stranicu projekta odnosno pojedine mape koja je sastavni dio projekta te pojedini tekstualni dio ili grafički prikaz potpisuje projektant.
+(2) Pojedini dio projekta koji se odnosi na zajedničko definiranje tehničkog rješenja građevine (zajednički tehnički opis, zajednički iskaz procijenjenih troškova građenja, ukupne podatke o višku iskopa koji sadrži mineralnu sirovinu koji će preostati prilikom građenja građevine u skladu s posebnim propisom kojim je uređeno područje rudarstva i sl.) potpisuje glavni projektant. Glavni projektant potpisuje i naslovnu stranicu projekta, odnosno svake mape koja je sastavni dio projekta.
+(3) Odgovorna osoba u projektantskom uredu potpisuje naslovnu stranicu mape koja je sastavni dio cjelovitog projekta koji je projektiran u tom projektantskom uredu.
+(4) Potpisom naslovne stranice mape koja je sastavni dio cjelovitog projekta te potpisom pojedinog tekstualnog, proračunskog, tabličnog i drugog tehničkog dijela projekta, odnosno potpisom pojedinog grafičkog prikaza, projektant i glavni projektant preuzimaju odgovornosti u propisanom dijelu, u skladu s odredbama Zakona o gradnji i drugim posebnim propisima.
+(5) Potpisom naslovne stranice mape koja je sastavni dio cjelovitog projekta odgovorna osoba u projektantskom uredu preuzima odgovornost u skladu s odredbama posebnih propisa.
