@@ -1,0 +1,1 @@
+Na temelju članka 123. stavka 2. Zakona o općem upravnom postupku (»Narodne novine«, broj 47/09.), te sukladno članku 166. Poslovnika Hrvatskoga sabora (»Narodne novine«, broj 81/13), Odbor za Ustav, Poslovnik i politički sustav Hrvatskoga sabora na sjednici održanoj 28. svibnja 2014. donio je
