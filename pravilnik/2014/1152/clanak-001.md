@@ -1,0 +1,2 @@
+# Članak 1.
+U Pravilniku o javnim ispravama u obrazovanju odraslih (»Narodne novine«, broj 129/2008 i 50/2010) obrazac razredne svjedodžbe za četverogodišnje strukovne programe broj 2-02, obrazac razredne svjedodžbe za trogodišnje strukovne programe broj 5-02, obrazac uvjerenje o usavršavanju broj 12-02 i obrazac uvjerenje o osposobljavanju broj 13-02 iz članka 9. stavka 1. zamjenjuju se novim obrascima i čine sastavni dio Pravilnika.
