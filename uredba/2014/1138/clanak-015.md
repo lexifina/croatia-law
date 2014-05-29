@@ -1,0 +1,4 @@
+# Članak 15.
+(1) Kada nakon razmotrenih mišljenja, primjedbi i prijedloga s javne rasprave povjerenstvo utvrdi da je studiju potrebno doraditi i/ili pribaviti mišljenja tijela i/ili osobe određene posebnim propisima i/ili pribaviti mišljenje jedinice lokalne i područne (regionalne) samouprave, o tome će se očitovati nadležnom tijelu.
+(2) Ako je utvrđena potreba iz stavka 1. ovoga članka, nadležno tijelo provodi daljnji postupak (traži mišljenje tijela i/ili osobe određene posebnim propisima i/ili jedinice lokalne i područne (regionalne) samouprave, odnosno zahtijeva dopunu ili doradu studije od nositelja zahvata i slično). U ovom postupku nadležno tijelo određuje i primjereni rok za izvršenje traženog, ali ne duže od 30 dana.
+(3) Ako nadležno tijelo provodi postupak prema stavku 2. ovoga članka, nakon toga postupka obvezno se saziva sjednica povjerenstva radi donošenja mišljenja o prihvatljivosti zahvata.

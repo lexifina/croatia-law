@@ -1,0 +1,5 @@
+## Postupak po zahtjevu za izdavanje upute o sadržaju studije
+# Članak 29.
+(1) Kada nadležno tijelo utvrdi da zahtjev za izdavanje upute o sadržaju studije sadrži sve podatke iz članka 28. ove Uredbe, dostavlja ga na mišljenje tijelima i/ili osobama određenim posebnim propisima i jedinicama lokalne i područne (regionalne) samouprave, ovisno o lokaciji i obilježjima zahvata. Zahtjev se obvezno dostavlja na mišljenje jedinicama lokalne i područne (regionalne) samouprave na čijem području se nalazi zahvat.
+(2) Tijela i/ili osobe te jedinice lokalne i područne (regionalne) samouprave dužni su nadležnom tijelu dostaviti mišljenja iz stavka 1. ovoga članka u roku od 30 dana od dostave zahtjeva. Ako mišljenje ne bude dostavljeno u propisanom roku, smatra se da prema posebnim propisima nema dodatnih zahtjeva u pogledu sadržaja studije, u odnosu na minimalni sadržaj propisan ovom Uredbom.
+(3) Ako nadležno tijelo ocijeni potrebnim, na primjeren način provest će dodatna pojašnjenja s tijelom i/ili osobom i/ili jedinicom lokalne i područne (regionalne) samouprave iz stavka 2. ovoga članka.

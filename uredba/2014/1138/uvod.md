@@ -1,0 +1,1 @@
+Na temelju članka 78. stavaka 1. i 3. i članka 84. stavka 3. Zakona o zaštiti okoliša (»Narodne novine«, br. 80/2013 i 153/2013), Vlada Republike Hrvatske je na sjednici održanoj 15. svibnja 2014. godine donijela

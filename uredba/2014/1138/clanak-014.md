@@ -1,0 +1,5 @@
+## Mišljenje povjerenstva o prihvatljivosti zahvata
+# Članak 14.
+(1) Nakon provedene javne rasprave prema odluci iz članka 13. stavka 1. ove Uredbe, nadležno tijelo sva mišljenja, primjedbe i prijedloge iz javne rasprave, dostavlja na očitovanje nositelju zahvata putem ovlaštenika. Svojim očitovanjem nositelj zahvata obvezan je predložiti i konačne mjere zaštite okoliša i program praćenja stanja okoliša vezano uz zahvat. Ako se u okviru postupka procjene utjecaja na okoliš provodi i glavna ocjena, očitovanje treba sadržavati i prijedlog mjera ublažavanja negativnih utjecaja na ekološku mrežu te program praćenja i izvješćivanja o stanju ekološke mreže.
+(2) Očitovanje nositelja zahvata iz stavka 1. ovoga članka sa svim mišljenjima, primjedbama i prijedlozima iz javne rasprave nadležno tijelo dostavlja povjerenstvu na razmatranje i donošenje mišljenja o prihvatljivosti zahvata.
+(3) Povjerenstvo će razmotriti mišljenja, primjedbe i prijedloge te očitovanje iz stavka 2. ovoga članka, obrazložiti razloge njihova prihvaćanja, odnosno neprihvaćanja u odnosu na najprihvatljiviju varijantu zahvata, te će donijeti mišljenje o prihvatljivosti zahvata.

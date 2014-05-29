@@ -1,0 +1,3 @@
+# Članak 17.
+(1) Član povjerenstva koji glasuje protiv utvrđenog prijedloga mišljenja o prihvatljivosti zahvata za okoliš, dužan je obrazložiti razloge glasovanja protiv. Ove razloge član povjerenstva dužan je obrazložiti izjavom na zapisnik sa sjednice povjerenstva na kojoj se odlučivalo o utvrđenom prijedlogu mišljenja, odnosno pisanim podneskom koji predaje najkasnije na toj sjednici povjerenstva. Obrazloženje člana povjerenstva ovjereno potpisom člana, sastavni je dio zapisnika sa sjednice povjerenstva na kojoj je doneseno mišljenje o prihvatljivosti zahvata.
+(2) U slučaju iz stavka 1. ovoga članka nadležno tijelo razmatra utemeljenost razloga glasovanja protiv utvrđenog prijedloga mišljenja povjerenstva prije donošenja rješenja o prihvatljivosti zahvata za okoliš.

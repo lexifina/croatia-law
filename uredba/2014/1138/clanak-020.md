@@ -1,0 +1,5 @@
+## Način postupanja u slučaju mogućeg prekograničnog utjecaja zahvata
+# Članak 20.
+(1) Nadležno upravno tijelo u županiji i Gradu Zagrebu će, u postupku procjene utjecaja zahvata na okoliš, u slučaju ocjene povjerenstva da bi zahvat mogao značajno utjecati na okoliš druge države, o toj ocjeni obavijestiti Ministarstvo u svrhu postupka prema drugoj državi. Istodobno s dostavom ove obavijesti dostavit će Ministarstvu i zahtjev za pravnu pomoć s preslikom predmeta. U tom slučaju nadležno upravno tijelo u županiji i Gradu Zagrebu ne može donijeti odluku o upućivanju studije na javnu raspravu.
+(2) Kada u postupku ocjene o potrebi procjene nadležno upravno tijelo u županiji, odnosno u Gradu Zagrebu utvrdi da bi zahvat mogao značajno utjecati na okoliš druge države, postupit će sukladno odredbi stavka 1. ovoga članka.
+(3) Ministarstvo će o postupcima slijedom odredbi stavaka 1. i 2. ovoga članka izvijestiti nadležno upravno tijelo u županiji, odnosno u Gradu Zagrebu radi možebitne svoje nadležnosti u skladu sa Zakonom i odredbom članka 6. stavka 4. ove Uredbe.

@@ -1,0 +1,7 @@
+## Način sudjelovanja ovlaštenika koji je izradio studiju
+# Članak 18.
+(1) Nadležno tijelo na sjednicu povjerenstva poziva nositelja zahvata. Nositelj zahvata dužan je osigurati na sjednici povjerenstva nazočnost predstavnika ovlaštenika koji je voditelj izrade studije i po potrebi druge suradnike u izradi studije, te s projektantom koji ispunjava uvjete za obavljanje poslova izrade idejnog projekta prema posebnom propisu, a izradio je idejnu skicu ili idejno rješenje zahvata.
+(2) Nositelj zahvata i osobe iz stavka 1. ovoga članka sudjeluju u radu povjerenstva bez prava odlučivanja.
+(3) Nositelj zahvata s osobama iz stavka 1. ovoga članka ne može biti nazočan u dijelu sjednice povjerenstva na kojem se glasuje o mišljenju povjerenstva o prihvatljivosti zahvata za okoliš.
+(4) Nositelj zahvata dužan je tijekom postupka procjene, odnosno postupka ocjene o potrebi procjene, na zahtjev nadležnog tijela, putem ovlaštenika, odnosno projektanta osigurati odgovarajuće sažetke, stručne podloge i sl. koje se odnose na materiju u svezi sa zahvatom te dostatan broj primjeraka studije potrebnih za provedbu postupka. Ova obveza na odgovarajući način primjenjuje se na nositelja zahvata i u postupku izdavanja upute o sadržaju studije na njegov zahtjev.
+(5) Nositelj zahvata dužan je odazvati se pozivu nadležnog tijela da sudjeluje u javnom izlaganju tijekom javne rasprave te je tom prilikom dužan osigurati nazočnost predstavnika ovlaštenika i projektanta.
