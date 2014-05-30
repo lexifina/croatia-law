@@ -1,0 +1,1 @@
+Na temelju članka 12. stavka 3. i članka 14. stavka 6. Zakona o Hrvatskom kvalifikacijskom okviru (»Narodne novine« br. 22/2013) ministar znanosti, obrazovanja i sporta, uz suglasnost ministara nadležnih za rad, regionalni razvoj, gospodarstvo, poduzetništvo i obrt, donosi

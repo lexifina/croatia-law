@@ -1,0 +1,4 @@
+# Članak 22.
+(1) Sektorsko vijeće vrednuje prijedloge standarda zanimanja i skupova kompetencija te analizira potrebne kompetencije unutar pojedinog sektora korištenjem stručnih podloga i dokumenata iz članka 12. ovog Pravilnika.
+(2) Vrednovanje iz stavka 1. ovog članka koje provodi sektorsko vijeće, obuhvaća sve informacije dostavljene u zahtjevu, a posebno relevantnost standarda zanimanja, relevantnost skupova kompetencija, opis zanimanja i kompetencija te rok do kojega se predloženi standard zanimanja može koristiti kao opravdani razlog za predlaganje standarda kvalifikacija.
+(3) Ako sektorsko vijeće na temelju provedenih analiza i vrednovanja utvrdi da je prijedlog standarda zanimanja opravdan te da sadrži elemente propisane ovim Pravilnikom i sve dodatne elemente koji su važni za osiguravanje kvalitete, donijet će pozitivno mišljenje o ispunjenju stručnih uvjeta za upis u Registar.

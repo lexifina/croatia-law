@@ -1,0 +1,3 @@
+# Članak 43.
+(1) Za vrednovanje određenih prijedloga za koje članovi sektorskih vijeća nemaju odgovarajući profil, odnosno razinu kvalifikacije, dužni su uključiti vanjske stručnjake iz stavka 2. ovog članka.
+(2) U svrhu osiguravanja kvalificiranih stručnjaka svih profila i razina i uspostave evidencije vanjskih sektorskih stručnjaka koja će sektorskim vijećima pomoći pri odabiru mogućih članova radne skupine i radu, ministarstvo nadležno za obrazovanje i znanost i ministarstvo nadležno za rad najmanje jednom godišnje raspisat će javne pozive za iskazivanje interesa za stručnjake zainteresirane za sudjelovanje u radu radnih skupina sektorskih vijeća.

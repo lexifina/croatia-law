@@ -1,0 +1,4 @@
+# Članak 33.
+(1) Upis programa u Registar provodi se na temelju pozitivnog mišljenja o usklađenosti programa iz članka 32. ovog Pravilnika s odgovarajućim standardom kvalifikacije, odnosno odgovarajućim skupovima ishoda učenja upisanima u Registar.
+(2) Vrednovanje usklađenosti iz stavka 1. ovog članka provodi ministarstvo nadležno za obrazovanje i znanost za kvalifikacije koje se sukladno članku 7. Zakona o Hrvatskom kvalifikacijskom okviru smještaju na razine 1, 2, 3, 4.1, 4.2 i 5 ovisno o profilu kvalifikacije.
+(3) Vrednovanje usklađenosti iz stavka 1. ovog članka provodi agencija nadležna za znanost i visoko obrazovanje za vrednovanje kvalifikacija koje se sukladno članku 7. Zakona o Hrvatskom kvalifikacijskom okviru smještaju na razine 5, 6, 7, 8.1 i 8.2, ovisno o profilu kvalifikacije.

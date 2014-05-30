@@ -1,0 +1,6 @@
+# Članak 47.
+(1) Predsjednici sektorskih vijeća izrađuju godišnja izvješća o radu sektorskih vijeća koja dostavljaju nacionalnom koordinatoru sektorskih vijeća.
+(2) Ministarstvo nadležno za obrazovanje i znanost i agencija nadležna za znanost i visoko obrazovanje izrađuju godišnja izvješća o provedenim postupcima provjere usklađenosti programa iz članka 32. s odgovarajućim standardom kvalifikacije, odnosno s odgovarajućim skupovima ishoda učenja, koja dostavljaju nacionalnom koordinatoru sektorskih vijeća.
+(3) Na temelju godišnjih izvješća iz stavaka 1. i 2. ovog članka, nacionalni koordinator sektorskih vijeća, u suradnji s ministarstvom nadležnim za rad i ministarstvom nadležnim za regionalni razvoj, izrađuje cjelovito godišnje izvješće o primjeni HKO-a.
+(4) Nacionalni koordinator sektorskih vijeća u suradnji s nacionalnom kontakt točkom za povezivanje HKO-a s EQF-om, izrađuje izvješća o povezivanju HKO-a s EQF-om i QF-EHEA-om koja se podnose Europskoj komisiji i Vijeću Europe.
+(5) Cjelovito godišnje izvješće o primjeni HKO-a i povezivanju HKO-a s EQF-om nacionalni koordinator sektorskih vijeća predstavlja Nacionalnom vijeću za razvoj ljudskih potencijala te, nakon njegovog usvajanja, objavljuje na mrežnim stranicama HKO-a.
