@@ -1,0 +1,1 @@
+Na temelju članka 246. stavka 3., članka 247. stavka 2., članka 248. stavka 4., članka 249. stavka 4., članka 253. stavka 6. i članka 265. stavka 3. Zakona o dobrovoljnim mirovinskim fondovima (»Narodne novine« broj 19/2014) Hrvatska Agencija za nadzor financijskih usluga je na sjednici Upravnog vijeća održanoj 16. svibnja 2014. donijela
