@@ -1,0 +1,1 @@
+Na temelju članka 44. Zakona o upravljanju i raspolaganju imovinom u vlasništvu Republike Hrvatske (»Narodne novine«, broj 94/2013), Vlada Republike Hrvatske je na sjednici održanoj 29. svibnja 2014. godine donijela
