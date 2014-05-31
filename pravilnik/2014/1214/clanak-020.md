@@ -1,0 +1,2 @@
+# Članak 20.
+U svrhu obavljanja poslova iz članka 172. stavka 1. točke 6. Zakona depozitar je dužan, uzimajući u obzir opseg i složenost mirovinskog fonda, uspostaviti i primjenjivati primjerene procedure za provjeru usklađenosti poslovanja mirovinskog društva sa Zakonom, propisima donesenim na temelju Zakona, informativnim prospektom i statutom mirovinskog fonda, a posebno s obzirom na ograničenja ulaganja mirovinskog fonda.

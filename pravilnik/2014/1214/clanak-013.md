@@ -1,0 +1,9 @@
+## IV. POSLOVI DEPOZITARA
+# Članak 13.
+(1) Transakcijski računi za poslovne namjene i drugi računi mirovinskog fonda iz članka 125. stavka 1. točke 10. Zakona moraju ispunjavati sljedeće uvjete:
+1. otvoreni su u ime mirovinskog društva ili depozitara, a za račun mirovinskog fonda,
+2. otvoreni su kod kreditne institucije ili banke sa sjedištem u trećoj državi s odobrenjem za rad izdanim od nadležnog tijela, na tržištima gdje su takvi transakcijski računi potrebni za poslovanje mirovinskog fonda i koji su predmet propisa koji imaju isti učinak kao i hrvatsko pravo i nad kojima se učinkovito provodi nadzor,
+3. vode se u skladu s načelima zaštite imovine klijenata propisane zakonom koji uređuje tržište kapitala i propisima donesenim na temelju istog u dijelu koji se odnosi na zaštitu imovine klijenata.
+(2) Mirovinsko društvo će transakcijski račun za poslovne namjene mirovinskog fonda otvoriti kod depozitara. Depozitar takve račune može za račun mirovinskog fonda otvoriti kod osoba iz stavka 1. točke 2. ovoga članka na tržištima gdje su takvi računi potrebni za poslovanje mirovinskog fonda i koji su predmet propisa koji imaju isti učinak kao i hrvatsko pravo i nad kojima se učinkovito provodi nadzor.
+(3) U svrhu pristupa svim informacijama vezanim uz transakcijske račune za poslovne namjene mirovinskog fonda i jasno praćenje tijeka novca mirovinskog fonda, depozitar će najmanje dnevno dobivati ili imati uvid u informacije vezane za stanje i promjene po transakcijskim računima za poslovne namjene mirovinskog fonda otvorenim kod osoba iz stavka 1. točke 2. ovoga članka izravno od tih osoba.
+(4) U svrhu pristupa svim informacijama vezanim uz druge račune mirovinskog fonda iz članka 125. stavka 1. točke 10. Zakona i jasno praćenje tijeka novca mirovinskog fonda, mirovinsko društvo je dužno osigurati da depozitar namjanje dnevno dobiva ili ima uvid u informacije vezane za stanje i promjene po tim računima.

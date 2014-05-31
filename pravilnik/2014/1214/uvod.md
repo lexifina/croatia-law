@@ -1,0 +1,1 @@
+Na temelju članka 171. stavka 2., članka 172. stavka 2., članka 173. stavka 4., članka 174. stavka 4., članka 178. stavka 6. i članka 190. stavka 3. Zakona o obveznim mirovinskim fondovima (»Narodne novine« broj 19/2014) Hrvatska Agencija za nadzor financijskih usluga je na sjednici Upravnog vijeća održanoj 16. svibnja 2014. donijela
