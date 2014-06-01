@@ -1,0 +1,2 @@
+# Članak 37.
+Stupanjem na snagu ovoga Ugovora prestaje važiti Granski kolektivni ugovor za zaposlenike u ustanovama kulture koje se financiraju iz državnog proračuna (»Narodne novine«, broj 146/11), Dodatak kolektivnom ugovoru za zaposlenike u ustanovama kulture čije se plaće osiguravaju iz Državnog proračuna (»Narodne novine« 77/2007) i Dodatak III. Temeljnom kolektivnom ugovoru za službenike i namještenike u javnim službama (dodatak za kulturu) (»Narodne novine«, broj 64/2006).
