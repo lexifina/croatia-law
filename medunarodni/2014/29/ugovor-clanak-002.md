@@ -1,0 +1,9 @@
+# Članak 2.
+UVJETI ZA KORIŠTENJE BESPOVRATNIH SREDSTAVA/POTPORE NPSZ-u
+Bespovratna sredstva: Razvojna banka Vijeća Europe dodjeljuje sva bespovratna sredstva uzimajući u obzir obvezu zemlje partnera za korištenje tih bespovratnih sredstava samo u svrhu financiranja svog Nacionalnog programa stambenog zbrinjavanja kako je opisano u Prilogu 1. i svakog njegovog potprojekta kako je opisano u relevantnom Sporazumu o dodjeli bespovratnih sredstava i za provođenje svog Nacionalnog programa stambenog zbrinjavanja i svakog potprojekta s tim u vezi. Zemlja partner se obvezuje da će, ukoliko ostvari bilo koju vrstu prihoda nakon provedbe nekog potprojekta u okviru Nacionalnog programa stambenog zbrinjavanja, iz bilo koje dodjele bespovratnih sredstava, iste ponovno investirati u Nacionalni program stambenog zbrinjavanja, osim ako nije drugačije odlučeno između zemlje partnera i Razvojne banke Vijeća Europe.
+Sukladno Općim uvjetima, svaki Nacionalni program stambenog zbrinjavanja i svaki njegov potprojekt provode se sukladno(i) Općim uvjetima, (ii) Pravilima i postupcima Razvojne banke Vijeća Europe, uključujući posebno:
+• smjernice Razvojne banke Vijeća Europe za nabavu;
+• politiku zaštite okoliša Razvojne banke Vijeća Europe; i
+• pravila Razvojne banke Vijeća Europe o zajmovima i financiranju projekata ako nije drugačije navedeno u Općim uvjetima,
+i (iii) kriterijima za ocjenu zahtjeva za dodjelu bespovratnih sredstava i (iv) bilo kojim uvjetima koje određuje Skupština donatora sukladno važećem Sporazumu o dodjeli bespovratnih sredstava.
+Potpore NPSZ-u: bilo kakvu potporu NPSZ-u Razvojna banka Vijeća Europe dodjeljuje sukladno (i) Sporazumu o doprinosu Europske unije, (ii) pravilima i postupcima Razvojne banke Vijeća Europe, uključujući posebno smjernice za nabavu Razvojne banke Vijeća Europe.
