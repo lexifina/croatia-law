@@ -1,0 +1,1 @@
+Na temelju članka 13. stavka 5., a u vezi s člankom 91. stavkom 2. Zakona o obrani (»Narodne novine«, br. 73/2013) i člankom 3. stavkom 1. točkom 1. podstavkom 2. Zakona o upravljanju i raspolaganju imovinom u vlasništvu Republike Hrvatske (»Narodne novine«, br. 94/2013) i u vezi s Odlukom o utvrđivanju visine slobodno ugovorene najamnine (»Narodne novine«, br. 120/2000) donosim
