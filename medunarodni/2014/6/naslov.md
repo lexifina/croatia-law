@@ -1,0 +1,1 @@
+Zakon o potvrđivanju Konvencije o uzajamnoj administrativnoj pomoći u poreznim stvarima, kako je izmijenjena i dopunjena Protokolom kojim se mijenja i dopunjuje Konvencija o uzajamnoj administrativnoj pomoći u poreznim stvarima

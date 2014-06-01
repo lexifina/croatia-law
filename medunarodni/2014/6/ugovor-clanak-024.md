@@ -1,0 +1,9 @@
+# Članak 24.
+PROVEDBA KONVENCIJE
+1. Stranke će uzajamno komunicirati radi provedbe ove Konvencije putem svojih nadležnih tijela. Nadležna tijela mogu u tu svrhu izravno komunicirati te mogu ovlastiti podređena tijela da djeluju u njihovo ime. Nadležna tijela dviju ili više stranaka mogu se uzajamno sporazumjeti o načinu primjene Konvencije.
+2. Kada zamoljena država smatra da bi primjena ove Konvencije u pojedinom slučaju mogla imati ozbiljne i neželjene posljedice, nadležna tijela zamoljene države i države podnositeljice zamolbe savjetovat će se i nastojati riješiti situaciju uzajamnim dogovorom.
+3. Tijelo za koordinaciju sastavljeno od predstavnika nadležnih tijela stranaka prati provedbu i razvoj ove Konvencije, pod pokroviteljstvom OECD-a. U tu svrhu tijelo za koordinaciju predlaže svaku mjeru koja bi mogla unaprijediti opće ciljeve Konvencije. Osobito, ono će djelovati kao mjesto za proučavanje novih metoda i postupaka radi unaprjeđenja međunarodne suradnje u poreznim stvarima i, kada je to primjereno, može preporučiti reviziju ili izmjene i dopune
+Konvencije. Države koje su potpisale, ali još nisu ratifi cirale, prihvatile ili odobrile Konvenciju imaju pravo sudjelovati na sastancima tijela za koordinaciju u svojstvu promatrača.
+4. Stranka može zatražiti od tijela za koordinaciju dostavu mišljenja o tumačenju odredaba Konvencije.
+5. Kada između dviju ili više stranaka nastanu poteškoće ili dvojbe u vezi s provedbom ili tumačenjem Konvencije, nadležna tijela tih stranaka nastoje pitanje riješiti uzajamnim dogovorom. O dogovoru će biti obaviješteno tijelo za koordinaciju.
+6. Glavni tajnik OECD-a obavješćuje stranke, i države potpisnice koje nisu ratifi cirale, prihvatile ili odobrile Konvenciju, o mišljenjima koje dostavi tijelo za koordinaciju sukladno odredbama gornjeg stavka 4. te o uzajamnim dogovorima postignutim sukladno gornjem stavku 5.

@@ -1,0 +1,2 @@
+# Članak 1.
+Potvrđuje se Konvencija o uzajamnoj administrativnoj pomoći u poreznim stvarima, sastavljena u Strasbourgu 25. siječnja 1988. kako je izmijenjena i dopunjena Protokolom kojim se mijenja i dopunjuje Konvencija o uzajamnoj administrativnoj pomoći u poreznim stvarima, sastavljenim u Parizu 27. svibnja 2010. u tekstu koji su, u izvorniku na engleskom i francuskom jeziku, utvrdili depozitari 1. lipnja 2011., a koju je Republika Hrvatska potpisala 11. listopada 2013.
