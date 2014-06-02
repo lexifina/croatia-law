@@ -1,0 +1,1 @@
+Na temelju članka 105. stavka 1. podstavka 7. Poslovnika Hrvatskoga sabora (»Narodne novine«, br. 81/13.), i točke VII. stavka 2. Odluke o osnivanju Povjerenstva za fiskalnu politiku (»Narodne novine«, br. 156/13., u daljnjem tekstu: Odluka) Odbor za izbor, imenovanja i upravne poslove Hrvatskoga sabora je na 32. sjednici održanoj 29. svibnja 2014., donio
