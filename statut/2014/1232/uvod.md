@@ -1,0 +1,1 @@
+Na temelju članka 133. stavka 1. točke 1. Zakona o javnom bilježništvu (»Narodne novine«, br. 78/93, 29/94, 162/98, 16/07 i 75/09) Skupština Hrvatske javnobilježničke komore na sjednici održanoj 17. svibnja 2014. godine donijela je

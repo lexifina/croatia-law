@@ -1,0 +1,1 @@
+Statut Hrvatske javnobilježničke komore
