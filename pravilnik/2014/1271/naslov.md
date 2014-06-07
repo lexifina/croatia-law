@@ -1,0 +1,1 @@
+Pravilnik o podacima koje su izdavatelji čiji su vrijednosni papiri uvršteni na uređeno tržište u Republici Hrvatskoj obvezni dostavljati Hrvatskoj agenciji za nadzor financijskih usluga, te o obliku, rokovima i načinu njihovog dostavljanja

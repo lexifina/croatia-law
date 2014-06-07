@@ -1,0 +1,1 @@
+Na temelju odredbi članka 448.a stavka 3. Zakona o tržištu kapitala (»Narodne novine« br. 88/08, 146/08, 74/09, 54/13 i 159/13), Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća održanoj 23. svibnja 2014. donosi

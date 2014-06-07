@@ -1,0 +1,2 @@
+# Članak 9.
+Stupanjem na snagu ovog Pravilnika prestaju važiti Odluka o obliku i načinu dostave podataka Hrvatskoj agenciji za nadzor financijskih usluga iz upitnika za izradu godišnjeg izvještaja o korporativnom upravljanju od 22. prosinca 2011. i Odluka o izmjeni Odluke o obliku i načinu dostave podataka Hrvatskoj agenciji za nadzor financijskih usluga iz upitnika za izradu godišnjeg izvještaja o korporativnom upravljanju od 22. ožujka 2013.
