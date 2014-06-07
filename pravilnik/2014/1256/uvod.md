@@ -1,0 +1,1 @@
+Na temelju članka 100. stavka 6. Zakona o kaznenom postupku (»Narodne novine«, br. 152/08, 76/20, 80/11, 91/12, 143/12, 56/13 i 145/13) ministar pravosuđa uz suglasnost ministra unutarnjih poslova i ministra obrane donosi
