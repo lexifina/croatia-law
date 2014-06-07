@@ -1,0 +1,3 @@
+## Pristup dokumentaciji i podacima
+# Članak 7.
+Leasing-društvo dužno je ugovorno obvezati pružatelja usluga, da pružatelj usluga omogući samom leasing-društvu, ovlaštenom revizoru leasing-društva, internom revizoru leasing-društva i Agenciji pravodoban pristup cjelokupnoj dokumentaciji i svim podacima koji su povezani s izdvojenim poslovnim procesima, a u posjedu su pružatelja usluga, te ga u slučaju potrebe na način i u obliku koji je propisan za odnosnu djelatnost pružatelja usluga, bez odgode osloboditi čuvanja profesionalne, odnosno odvjetničke ili druge tajne, u dijelu koji je potreban za ispunjenje zahtjeva ovlaštenog revizora, internog revizora ili Agencije.
