@@ -1,0 +1,2 @@
+# Članak 1.
+U Pravilniku o uvjetima i načinu oslobođenja od plaćanja trošarine na energente koji se koriste kao pogonsko gorivo za plovidbu (»Narodne novine«, br. 58/2013 i 72/2013) Prilog 1 zamjenjuje se novim Prilogom 1 - Kriteriji za utvrđivanje prava na potrošnju (godišnje kvote) energenata koji se uz oslobođenje od plaćanja trošarine koriste kao pogonsko gorivo za plovidbu plovnih objekata, odnosno plovila koji je sastavni dio ovoga Pravilnika.
