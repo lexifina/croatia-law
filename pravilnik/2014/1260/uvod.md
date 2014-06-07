@@ -1,0 +1,1 @@
+Na temelju članka 107. stavka 4. Zakona o prijevozu u cestovnom prometu (»Narodne novine«, broj 82/2013) ministar pomorstva, prometa i infrastrukture, uz mišljenje ministra nadležnog za unutarnje poslove, donosi
