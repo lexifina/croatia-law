@@ -1,0 +1,1 @@
+Na temelju članka 18. stavka 6. Zakona o tržištu nafte i naftnih derivata (»Narodne novine« br. 19/14) Upravno vijeće Hrvatske agencije za obvezne zalihe nafte i naftnih derivata, na 2. sjednici 4. saziva održanoj 29. svibnja 2014. godine, donijelo je
