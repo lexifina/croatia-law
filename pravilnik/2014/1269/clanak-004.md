@@ -1,0 +1,5 @@
+## Sadržaj ugovora o leasingu
+# Članak 4.
+(1) Ugovor, sukladno članku 52. stavku 1. Zakona mora sadržavati sljedeće odredbe: naziv »ugovor o operativnom leasingu« ili »ugovor o financijskom leasingu«, datum sklapanja Ugovora, tvrtku i sjedište davatelja leasinga, tvrtku i sjedište, odnosno ime, prezime i adresu primatelja leasinga, tvrtku i sjedište, odnosno ime, prezime i adresu dobavljača objekta leasinga, detaljno određenje objekta leasinga, vrijednost objekta leasinga, ukupni iznos naknada (zbroj iznosa pojedinih naknada), iznos pojedine naknade, vrijeme trajanja Ugovora, razloge i uvjete prijevremenog prestanka Ugovora.
+(2) Ugovor o financijskom leasingu, osim odredaba iz stavka 1. ovoga članka, obvezno sadrži i sljedeće odredbe: iznos učešća u ukupnoj vrijednosti objekta leasinga, iznos, broj i rokove plaćanja pojedinih rata (otplatna tablica), nominalnu kamatnu stopu i efektivnu kamatnu stopu.
+(3) Ugovor o operativnom leasingu, osim odredaba iz stavka 1. ovoga članka, obvezno sadrži i sljedeće odredbe: iznos, broj i rokove plaćanja pojedinih obroka i ostatak vrijednosti objekta leasinga.
