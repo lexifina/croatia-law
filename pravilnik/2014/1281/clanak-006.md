@@ -1,0 +1,3 @@
+# Članak 6.
+U članku 9. točka 4. mijenja se i glasi:
+»4. Procjena učinaka nuklearne nesreće I. i II. kategorije ugroze primarno se obrađuje na državnoj razini. JLP(R)S, kao sudionici sustava pripravnosti i odgovora na izvanredne događaje u Republici Hrvatskoj koji mogu nastati u nuklearnim postrojenjima u okruženju i plovilima na nuklearni pogon, u svojim Procjenama razrađuju učinke iz Procjene Republike Hrvatske uz obvezu procjenjivanja u konkretnim prostornim uvjetima mogućih učinaka nuklearne nesreće u svakoj JLP(R)S koja je njima izložena. Pored navedenog, JLP(R)S u vlastitim Procjenama obrađuju razvoj potencijalnih opasnosti u slučaju radioloških nesreća s opasnim izvorima ionizirajućeg zračenja I., II., III. i IV. kategorije.«
