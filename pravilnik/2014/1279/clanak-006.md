@@ -1,0 +1,5 @@
+# Članak 6.
+(1) Liječnički pregled djeteta liječnik obavlja u zdravstvenoj ustanovi, a iznimno se može obaviti i u osnovnoj školi u koju se dijete treba upisati. Ostali članovi Stručnog povjerenstva škole procjenjuju psihofizičko stanje djeteta radi upisa u prvi razred osnovne škole u školi.
+(2) Članovi Stručnog povjerenstva škole procjenjuju i u pisanom obliku daju mišljenje o psihofizičkome stanju djeteta u skladu sa zahtjevima svoje struke (Obrazac 3. i 4.a).
+(3) Pri pregledu odnosno razgovoru s djetetom svaki član Stručnog povjerenstva škole dužan je poštovati prava i interese djeteta te postupati u skladu s etičkim kodeksom svoje struke, prema odredbama Ustava Republike Hrvatske, Konvencije o pravima djeteta, drugim međunarodnim dokumentima i propisima Republike Hrvatske.
+(4) Nakon završenog postupka procjene psihofizičkog stanja djeteta Stručno povjerenstvo škole obavlja razgovor s roditeljem. Roditelj ima pravo uvida u mišljenje i prijedlog svakog člana Stručnog povjerenstva škole (Obrazac 3. i 4.a).
