@@ -1,0 +1,1 @@
+Na temelju članka 46.a Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 2014. godinu (»Narodne novine«, br. 152/2013 i 39/2014), Vlada Republike Hrvatske je na sjednici održanoj 11. lipnja 2014. godine donijela
