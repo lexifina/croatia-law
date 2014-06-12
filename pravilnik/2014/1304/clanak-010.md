@@ -1,0 +1,4 @@
+# Članak 10.
+(1) Skupština leasing društva donosi odluku o izboru i imenovanju revizorskog društva koje će obaviti reviziju godišnjih financijskih izvještaja i drugih izvještaja za potrebe Agencije najkasnije do 30. rujna poslovne godine na koju se revizija odnosi.
+(2) Leasing društvo dužno je izvijestiti Agenciju o revizorskom društvu iz stavka 1. ovoga članka najkasnije u roku od osam dana od dana održavanja skupštine leasing društva na kojoj je donesena odluka o izboru i imenovanju.
+(3) Kao dokaz o poštivanju odredbe članka 74. stavka 8. Zakona, pri dostavljanju izvješća iz stavka 2. ovog članka, leasing društvo dužno je izvijestiti Agenciju o visini ukupnih prihoda revizorskog društva ostvarenih u protekloj godini i prihoda ostvarenih obavljanjem revizije tog leasing društva u protekloj godini.

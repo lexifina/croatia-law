@@ -1,0 +1,3 @@
+## Odbijanje revizorskog izvješća
+# Članak 12.
+Ako Agencija utvrdi da revizija izvještaja leasing društva nije obavljena ili da revizorsko izvješće nije sastavljeno u skladu sa Zakonom, propisima donesenim na temelju Zakona, propisima kojima se uređuje računovodstvo i revizija te pravilima revizorske struke, ili ako obavljenim nadzorom poslovanja leasing društva ili na drugi način utvrdi da revizorsko izvješće o izvještajima leasing društva nije zasnovano na istinitim i objektivnim činjenicama, može odbiti revizorska izvješća i zahtijevati od leasing društva da reviziju obave ovlašteni revizori drugog revizorskog društva, a na trošak leasing društva.
