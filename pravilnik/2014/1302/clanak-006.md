@@ -1,0 +1,3 @@
+# Članak 6.
+(1) Leasing društvo države članice (dalje: Osnivač) koje je u skladu s propisima države članice ovlašteno obavljati poslove leasinga (financijskog i/ili operativnog) u toj državi članici, a koje ne ispunjava uvjete za poslovanje kao financijska institucija koja obavlja te poslove kao uzajamno priznatu uslugu (financijski leasing) te druge propisane uvjete u skladu sa ZOKI-jem, može obavljati poslove leasinga na području Republike Hrvatske samo putem podružnice.
+(2) Osnivač može obavljati poslove leasinga na području Republike Hrvatske putem podružnice i to pod uvjetom da je te poslove ovlašten obavljati u državi u kojoj ima registrirano sjedište.

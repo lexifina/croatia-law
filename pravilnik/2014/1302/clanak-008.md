@@ -1,0 +1,5 @@
+# Članak 8.
+(1) Uz zahtjev za izdavanje odobrenja iz članka 7. stavka 1. ovoga Pravilnika, potrebno je priložiti dokumentaciju propisanu člankom 48. stavak 5. Zakona.
+(2) Agencija može u roku od mjesec dana od dana zaprimanja zahtjeva iz stavka 1. ovoga članka zatražiti dodatne informacije i dokumentaciju. Ako je Agencija zatražila dodatne informacije ili dokumentaciju, dan njihove dostave smatra se danom zaprimanja urednog zahtjeva.
+(3) Agencija može, kao uvjet za izdavanje odobrenja za obavljanje poslova leasinga za podružnicu, zahtijevati da Osnivač položi na račun bilo koje kreditne institucije sa sjedištem u Republici Hrvatskoj novčani iznos koji ne može biti manji od 1 milijun kuna kao jamstvo za namiru obveza koje proizlaze iz poslova zaključenih na području Republike Hrvatske. Po upisu podružnice Osnivača u sudski registar navedena se sredstva mogu prenijeti na račun podružnice koji se vodi u Republici Hrvatskoj.
+(4) Agencija će odbiti zahtjev za izdavanje odobrenja za obavljanje poslova leasinga za podružnicu ukoliko nastupe uvjeti iz članka 48. stavak 8. Zakona.
