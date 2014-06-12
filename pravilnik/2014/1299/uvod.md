@@ -1,0 +1,1 @@
+Na osnovi članka 108. stavka 1. točke 7. i stavka 2., a u vezi s člankom 72. stavcima 1. i 2. Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine« broj 174/04, 92/05, 2/07, 107/07, 65/09, 137/09, 146/10, 55/11, 140/12, 33/13 i 148/13), ministar branitelja uz suglasnost ministra zdravlja donosi
