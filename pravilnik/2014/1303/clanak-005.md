@@ -1,0 +1,11 @@
+## MEHANIZMI UNUTARNJIH KONTROLA
+# Članak 5.
+(1) Leasing društvo dužno je sukladno članku 68. stavak 2. Zakona u okviru mehanizama unutarnjih kontrola, uzimajući u obzir vrstu, opseg i složenost svoga poslovanja te vrstu i opseg usluga koje pruža i obavlja, ustrojiti funkcije upravljanja rizicima i interne revizije te osigurati neovisnost tih funkcija od ostalih funkcija i aktivnosti leasing društva.
+(2) Leasing društvo u okviru mehanizama unutarnje kontrole, ako je to primjenjivo, osim funkcija iz stavka 1. ovoga članka može ustrojiti i funkciju praćenja usklađenosti s relevantnim propisima na način iz stavka 1. ovoga članka.
+(3) Poslovi iz stavaka 1. i 2. ovoga članka trebaju osigurati da leasing društvo posluje u skladu s pravilima o upravljanju rizicima te strategijama i politikama upravljanja rizicima.
+(4) Leasing društvo odgovorno je za obavljanje poslova iz stavaka 1. i 2. ovoga članka čak i kad su te funkcije izdvojene/prenesene na drugu osobu.
+(5) Funkciju interne revizije, leasing društvo dužno je, ustrojiti kao organizacijski zasebnu funkciju, ukoliko se ti poslovi obavljaju u leasing društvu odnosno nisu izdvojeni/preneseni na drugu osobu.
+(6) U slučaju iz stavka 5. ovoga članka, za obavljanje poslova interne revizije, leasing društvo može zaposliti jednu ili više osoba pri čemu najmanje jedna osoba mora imati zvanje ovlaštenog revizora ili ovlaštenoga internog revizora stečenim sukladno zakonu kojim se uređuje revizija, odnosno stečenim sukladno pravilima i programu kompetentne strukovne organizacije za stručno obrazovanje unutarnjih revizora.
+(7) Leasing društvo dužno je prilikom internog raspoređivanja funkcija iz stavaka 1. i 2. ovoga članka definirati odgovornosti uprave i osoba koje obavljaju funkcije iz stavaka 1. i 2. u skladu s odredbama Zakona i propisima donesenim na temelju Zakona.
+(8) Uprava leasing društva dužna je periodično, a najmanje jedanput godišnje, preispitati primjerenost postupaka i djelotvornost funkcija iz stavka 1. i 2. ovoga članka, a svoje zaključke dokumentirati i o njima obavijestiti nadzorni odbor.
+Plan rada funkcije upravljanja rizicima, funkcije interne revizije te, ako je uspostavljena, funkcije usklađenosti s relevantnim propisima
