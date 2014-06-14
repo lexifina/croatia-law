@@ -1,0 +1,3 @@
+# Članak 2.
+Smotra je festivalska priredba nacionalnog značenja. Svojim programom promiče, predstavlja i čuva bogatstvo folklornog nasljeđa, narodnog stvaralaštva te raznolikost etnografskog obilja u glazbi, plesu, običajima, igrama, narodnom ruhu, obredima, predajama, jeziku, narječjima i narodnim govorima. Afirmirajući specifične vrijednosti nacionalne kulture, ali i vrijednosti zavičajnog plesnog, glazbenog, jezičnog i običajnog izražavanja te svjetske kulturne baštine, Smotra udovoljava zahtjevima javnih potreba u obavljanju kulturne djelatnosti na razini Republike Hrvatske i od njezina je posebna interesa.
+Smotra se održava u Zagrebu, u pravilu u srpnju svake godine.

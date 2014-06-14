@@ -1,0 +1,3 @@
+# Članak 3.
+Sredstva za ostvarivanje programa Smotre osiguravaju se u državnom proračunu putem Ministarstva kulture i u proračunu Grada Zagreba u jednakom omjeru, na temelju prihvaćenog programa i financijskog plana Smotre u skladu s Programom javnih potreba u kulturi Republike Hrvatske i Programom javnih potreba u kulturi Grada Zagreba, a sve u skladu sa zakonom i drugim propisima.
+Sredstva za ostvarivanje programa Smotre osiguravaju se i obavljanjem djelatnosti Smotre, iz sponzorstva, zaklada, fundacija, darova i drugih izvora u skladu sa zakonom te predstavljaju namjenska sredstva za ostvarivanje programa Smotre.
