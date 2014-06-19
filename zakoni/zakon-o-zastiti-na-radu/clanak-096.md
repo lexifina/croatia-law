@@ -1,0 +1,9 @@
+# Članak 96.
+(1) Novčanom kaznom u iznosu od 30.000,00 kuna kaznit će se pravna osoba investitor, vlasnik građevine, koncesionar ili druga osoba za koju se po posebnom propisu izrađuje projekt, odnosno izvode radovi:
+1) ako kao investitor ne osigura da se pri projektiranju izradi elaborat zaštite na radu koji obuhvaća i razrađuje način primjene pravila zaštite na radu pri korištenju građevina namijenjenih za rad ili kao investitor, vlasnik građevine, koncesionar ili druga osoba za koju se izrađuje projekt ne imenuje koordinatora zaštite na radu pri izradi projekta ili tijekom građenja (članak 73. stavci 3. i 4.)
+2) ako najkasnije jedan dan prije početka izvođenja radova na iskorištavanju šuma na privremenom radilištu na kojem će radovi trajati duže od pet dana i na kojemu će radove izvoditi dva ili više izvođača nije tijelu nadležnom za poslove inspekcije rada dostavio obavijest iz članka 74. stavka 2. ovoga Zakona
+3) ako najkasnije jedan dan prije početka izvođenja građevinskih radova na gradilištu na kojemu će radove izvoditi dva ili više izvođača nije dostavio prijavu gradilišta tijelu nadležnom za poslove inspekcije rada u skladu s provedbenim propisom (članak 75. stavci 3. i 4.)
+4) ako na gradilištu nema plan izvođenja radova ili ako takav plan nema propisani sadržaj (članak 75. stavak 2.).
+(2) Za prekršaj iz stavka 1. ovoga članka kaznit će se novčanom kaznom u iznosu od 4.900,00 kuna poslodavac fizička osoba i odgovorna osoba pravne osobe.
+(3) U slučaju ponavljanja prekršaja iz stavka 1. ovoga članka počinitelj će se kazniti novčanom kaznom u dvostrukom iznosu.
+(4) Za prekršaj iz stavka 1. ovoga članka može se izreći novčana kazna na mjestu izvršenja prekršaja poslodavcu pravnoj osobi u iznosu od 10.000,00 kuna, a poslodavcu fizičkoj osobi i odgovornoj osobi pravne osobe u iznosu od 1.900,00 kuna.

@@ -1,0 +1,3 @@
+## Usklađivanje obavljanja radova
+# Članak 76.
+Poslodavci koji obavljaju poslove na istom mjestu rada, odnosno kada više poslodavaca dijeli mjesto rada ili kada na istom mjestu rada radove izvode ili je predviđeno da ih izvode dva ili više poslodavca, odnosno drugih osoba (izvođača), obvezni su, uzimajući u obzir prirodu poslova, provoditi zaštitu na radu, koordinirati svoje aktivnosti, provoditi informiranje i surađivati u primjeni sigurnosnih i zdravstvenih odredbi ovoga Zakona radi zaštite i prevencije od rizika na radu te organizirati rad i osigurati izvođenje radova tako da pri izvođenju radova ne ugrožavaju sigurnost i zdravlje radnika drugih poslodavaca i drugih osoba.
