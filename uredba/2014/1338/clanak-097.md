@@ -1,0 +1,3 @@
+# Članak 97.
+Odjel za koordinaciju europskih poslova obavlja stručne poslove vezane uz vođenje dijaloga s institucijama Europske unije, priprema, koordinira i sudjeluje u izradi materijala potrebnih za sudjelovanje predstavnika Ministarstva u radu institucija i drugih tijela Europske unije, koordinira i sudjeluje u izradi prijedloga stajališta o dokumentima Europske unije iz nadležnosti Ministarstva; priprema stručne podloge za sastanke ministara pravosuđa država članica Europske unije, daje mišljenja na nacrte propisa u pitanjima iz djelokruga Službe, te obavlja i druge poslove iz svojega djelokruga.
+6.1.1.2. Odjel za prilagodbu pravnoj stečevini Europske unije

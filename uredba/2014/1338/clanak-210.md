@@ -1,0 +1,3 @@
+# Članak 210.
+Odjel tretmana obavlja poslove predlaganja, provedbe i praćenja pojedinačnih programa izvršavanja kazne zatvora, izvršavanja sigurnosnih mjera izrečenih uz kaznu zatvora, izobrazbe zatvorenika, organiziranja slobodnog vremena zatvorenika, izrade stručnog mišljenja u vezi s tijekom izvršavanja kazne zatvora, sigurnosne mjere izrečene uz kaznu zatvora, vođenja matice zatvorenika i drugih propisanih evidencija zatvorenika, računanje isteka izdržavanja kazne te izrade i obrade statističkih podataka o zatvorenicima, izrada programa prihvata poslije otpusta i otpuštanja zatvorenika, vođenja stručnog tima za izvršavanje kazne zatvora i druge stručne poslove.
+7.2.6.3. Odjel za rad i strukovnu izobrazbu zatvorenika

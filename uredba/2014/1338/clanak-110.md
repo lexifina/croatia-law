@@ -1,0 +1,3 @@
+# Članak 110.
+Odjel za pravosudnu suradnju u građanskim stvarima s državama članicama Europske unije obavlja stručne i upravne poslove praćenja izrade pravnih akata Europske unije iz područja pravosudne suradnje u građanskim stvarima s državama članicama Europske unije; izrade nacrta prijedloga zakona i podzakonskih akata iz područja pravosudne suradnje u građanskim stvarima s državama članicama Europske unije; djeluje kao središnje tijelo za koordinaciju primjene instrumenata pravosudne suradnje u građanskim stvarima s državama članicama Europske unije, pruža potporu Europskoj pravosudnoj mreži u građanskim i trgovačkim stvarima; te obavlja i druge poslove iz svojega djelokruga.
+6.2.2.2. Odjel za međunarodnu pravnu pomoć u građanskim stvarima

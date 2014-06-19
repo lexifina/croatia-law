@@ -1,0 +1,3 @@
+# Članak 191.
+Odsjek unutarnjeg i vanjskog osiguranja zatvorenica obavlja poslove unutarnjeg osiguranja održavanja reda i stege među zatvorenicama i maloljetnicama, nadzor nad zatvorenicama i maloljetnicama, poslove sudjelovanja u pojedinačnom programu izvršavanja kazne zatvora i maloljetničkog zatvora, poslove materijalno-tehničkih sredstava i opreme te protupožarne zaštite, unutarnjeg osiguranja poluotvorenih odjela i osiguranja zatvorenica na radu, poslove vanjskog osiguranja i sprovođenja zatvorenica i maloljetnica.
+7.2.4.6.3. Odsjek unutarnjeg i vanjskog osiguranja zatvorenika i maloljetničkog zatvora

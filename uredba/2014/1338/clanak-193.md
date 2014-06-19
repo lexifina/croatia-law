@@ -1,0 +1,3 @@
+# Članak 193.
+Odsjek unutarnjeg i vanjskog osiguranja zatvora obavlja poslove osiguranja zatvora, obavlja poslove unutarnjeg osiguranja održavanja reda i stege među zatvorenicama, zatvorenicima i maloljetnicima, nadzor nad zatvorenicama, zatvorenicima i maloljetnicima, poslove sudjelovanja u pojedinačnom programu izvršavanja kazne zatvora i maloljetničkog zatvora, poslove materijalno-tehničkih sredstava i opreme te protupožarne zaštite i osiguranja zatvorenica, zatvorenika i maloljetnika na radu, poslove vanjskog osiguranja i sprovođenja zatvorenica, zatvorenika i maloljetnika.
+7.2.4.7. Odjel zdravstvene zaštite

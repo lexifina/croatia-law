@@ -1,0 +1,3 @@
+# Članak 79.
+Služba za propise kaznenog prava obavlja upravne i stručne poslove vezane za izradu nacrta prijedloga zakona i podzakonskih akata iz područja kaznenog materijalnog, kaznenog procesnog prava, maloljetničkog kaznenog prava i prekršajnog prava, analizira učinke primjene zakona i podzakonskih akata, sudjeluje u praćenju zakonodavnih prijedloga Europske unije iz svog djelokruga, analizira zakonodavne prijedloge Europske unije iz svog djelokruga, analizira i daje prijedloge za usklađenje propisa iz svog djelokruga s pravom Europske unije, daje prijedloge i stručna mišljenja na nacrte propisa iz drugih oblasti prava u odnosu na kaznene odredbe, te obavlja i druge poslove iz svojega djelokruga.
+5.1.1.1. Odjel za propise kaznenog materijalnog i prekršajnog prava

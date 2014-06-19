@@ -1,0 +1,3 @@
+# Članak 192.
+Odsjek unutarnjeg i vanjskog osiguranja zatvorenika i maloljetničkog zatvora obavlja poslove unutarnjeg osiguranja održavanja reda i stege među zatvorenicima i maloljetnicima, nadzor nad zatvorenicima i maloljetnicima, poslove sudjelovanja u pojedinačnom programu izvršavanja kazne zatvora i maloljetničkog zatvora, poslove materijalno-tehničkih sredstava i opreme te protupožarne zaštite, unutarnjeg osiguranja poluotvorenih odjela, zatvorenika i maloljetnika u zatvorenim uvjetima i osiguranja zatvorenika i maloljetnika na radu, poslove vanjskog osiguranja i sprovođenja zatvorenika i maloljetnika.
+7.2.4.6.4. Odsjek unutarnjeg i vanjskog osiguranja zatvora

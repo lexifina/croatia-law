@@ -1,0 +1,3 @@
+# Članak 8.
+Služba za upravljanje ljudskim potencijalima kaznenih tijela obavlja pravne i stručne poslove u svezi pripreme nacrta akata vezanih uz prijam, raspoređivanje na radna mjesta, postavljanje u zvanje, imenovanja na položaj, napredovanja, premještaje i prestanka državne službe službenika u kaznenim tijelima, ustrojava službene evidencije i statističke obrade podataka te priprema nacrte akata i službene korespondencije vezanih uz poslove u vezi sa ostvarivanjem prava službenika i namještenika iz područja ovlasti ministra za potrebe kaznenih tijela sukladno Zakonu o izvršavanju kazne zatvora.
+2.1.3. Služba za razvoj ljudskih potencijala

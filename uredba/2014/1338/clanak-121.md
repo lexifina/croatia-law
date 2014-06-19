@@ -1,0 +1,3 @@
+# Članak 121.
+Sektor za gospodarske aktivnosti i rad zatvorenika obavlja upravne i stručne poslove koji se odnose na pripremu strateških smjernica, planiranje, praćenje stanja i predlaganje mjera za unaprjeđenje gospodarskih aktivnosti i materijalnih resursa kaznenih tijela i Centra za izobrazbu te obavljanju poslova iz djelokruga rada Centra za izobrazbu, sudjeluje u predlaganju i provođenju projekata. Surađuje s drugim državnim tijelima, institucijama i organizacijama civilnog društva. Obavlja upravni i inspekcijski nadzor nad pravilnosti i zakonitosti rada kaznenih tijela i Centra za izobrazbu iz djelokruga Sektora, priprema nacrte propisa, vodi evidencije te obavlja i druge poslove iz svojega djelokruga.
+7.1.4. Sektor tretmana

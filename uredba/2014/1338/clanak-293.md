@@ -1,0 +1,3 @@
+# Članak 293.
+Odjel osiguranja obavlja poslove osiguranja zatvora, nadzora nad zatvorenicima i maloljetnicima, održavanja unutarnjeg reda među zatvorenicima i maloljetnicima, sudjelovanja u provedbi pojedinačnih programa izvršavanja kazne zatvora i maloljetničkog zatvora, dežurstva, sprovođenja zatvorenika i maloljetnika, izrade plana osiguranja, utvrđivanja potreba za materijalno-tehničkim sredstvima i sigurnosnom opremom, protupožarne zaštite i druge stručne poslove.
+7.3.7.4. Odjel zdravstvene zaštite zatvorenika

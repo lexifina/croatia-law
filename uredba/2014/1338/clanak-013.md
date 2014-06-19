@@ -1,0 +1,3 @@
+# Članak 13.
+Odjel za riznicu obavlja upravne i stručne poslove za proračunske korisnike unutar Razdjela vezane za implementaciju u sustav državne riznice, predlaže preraspodjelu proračunskih sredstava tijekom proračunske godine, analizira ostvarenje financijskih planova i sastavlja potrebna izvješća, prati propise iz djelokruga Državne riznice, obavlja nadzor nad provedbom riznice, izrađuje upute za implementaciju Državne riznice, priprema i kontrolira ispravnost dokumentacije prije unosa u sustav riznice, vodi brigu o rokovima za podnošenje rezervacija i zahtjeva za plaćanje iz sustava riznice, te obavlja i druge poslove u okviru svog djelokruga.
+2.2.1.3. Odjel za računovodstvo

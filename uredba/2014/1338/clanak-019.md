@@ -1,0 +1,3 @@
+# Članak 19.
+Služba za projekte obavlja stručne poslove vezane uz pripremu, izradu, provedbu, nadzor i koordinaciju projekata Ministarstva financiranih iz različitih izvora uključujući između ostalog programe Europske unije, međunarodne financijske institucije te bilateralne izvore financiranja kojima je korisnik Ministarstvo pravosuđa i ostala pravosudna i kaznena tijela. Služba za projekte koordinira i poslove vezane uz pružanje razvojne pomoći koju Ministarstvo pravosuđa osigurava drugim zemljama uključujući i pripremu i praćenje provedbe twinning projekata financiranih sredstvima Europske unije, te obavlja i druge poslove iz svog djelokruga.
+2.3.1.1. Odjel za pripremu projekata

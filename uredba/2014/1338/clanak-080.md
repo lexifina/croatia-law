@@ -1,0 +1,3 @@
+# Članak 80.
+Odjel za propise kaznenog materijalnog i prekršajnog prava obavlja upravne i stručne poslove vezane za izradu nacrta zakona i podzakonskih akta iz područja kaznenog materijalnog i prekršajnog prava, analizira i prati primjenu navedenih propisa, sudjeluje u praćenju zakonodavnih prijedloga Europske unije iz svog djelokruga, analizira zakonodavne prijedloge Europske unije iz svog djelokruga, analizira i daje prijedloge za usklađenje propisa iz svog djelokruga s pravom Europske unije, priprema stručna mišljenja o nacrtima prijedloga zakona i podzakonskih akata iz drugih oblasti prava u odnosu na kazneno materijalno i prekršajno pravo, te obavlja i druge poslove iz svojega djelokruga.
+5.1.1.2. Odjel za propise kaznenog procesnog prava i maloljetničkog prava

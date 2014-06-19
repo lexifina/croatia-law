@@ -1,0 +1,3 @@
+# Članak 43.
+Odjel za predstavke i pritužbe ispituje predstavke građana na rad sudova koje se odnose na odugovlačenje sudskog postupka ili na ponašanje suca ili drugog djelatnika suda prema stranci u tijelu postupka ili obavljanja drugih službenih radnji te na rad državnih odvjetništava koje se odnose na odugovlačenje postupka ili na ponašanje državnog odvjetnika, zamjenika državnog odvjetnika ili drugog djelatnika državnog odvjetništva prema stranci u tijeku postupka ili obavljanja drugih službenih radnji. Prima stranke koje usmeno i neposredno podnose predstavke na rad pravosudnih tijela. Obavlja i druge poslove u okviru svog djelokruga.
+3.1.2.3. Odjel nadzora nad materijalnim i financijskim poslovanjem pravosudnih tijela

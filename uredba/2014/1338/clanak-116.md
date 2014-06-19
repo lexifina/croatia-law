@@ -1,0 +1,8 @@
+# Članak 116.
+Sektor pravnih poslova i upravljanja kaznenim tijelima i Centrom za izobrazbu obavlja upravne i stručne poslove u vezi s provedbom zakona i drugih nacionalnih i međunarodnih propisa iz područja izvršavanja kaznenopravnih sankcija i mjera te odgojne mjere upućivanja u odgojni zavod, poslove planiranja i nadzora nad upravljanjem kaznenim tijelima i Centrom za izobrazbu, poslove ujednačavanja prakse i postupanja i praćenja ostvarivanja prava zatvorenika, istražnih zatvorenika, kažnjenika i maloljetnika, priprema odgovore i daje obavijesti na temelju upita državnih tijela o podacima iz evidencija zatvorenika, istražnih zatvorenika, kažnjenika i maloljetnika. Surađuje s drugim državnim tijelima, institucijama i organizacijama civilnog društva. Obavlja upravni i inspekcijski nadzor nad pravilnosti i zakonitosti rada kaznenih tijela i Centra za izobrazbu iz djelokruga Sektora, obavlja pripremu, izradu, koordinaciju i nadzor nad provedbom aktivnosti koje se odnose na jedinstveni način postupanja u obavljanju poslova iz djelokruga Sektora, priprema provedbu izručenja i premještaja (transfera), priprema nacrte propisa, vodi evidencije te obavlja i druge poslove iz svojega djelokruga.
+Za obavljanje poslova iz djelokruga Sektora, pravnih poslova i upravljanja kaznenim tijelima i Centrom za izobrazbu ustrojavaju se sljedeće ustrojstvene jedinice:
+7.1.2.1. Služba upravljanja kaznenim tijelima i Centrom za izobrazbu
+7.1.2.1.1. Odjel za nadzor nad radom kaznenih tijela i Centra za izobrazbu i međunarodnu suradnju
+7.1.2.1.2. Odjel za nadzor i praćenje ostvarivanja prava zatvorenika
+7.1.2.2. Služba za psihosocijalnu pomoć ovlaštenim službenim osobama.
+7.1.2.1. Služba upravljanja kaznenim tijelima i Centrom za izobrazbu
