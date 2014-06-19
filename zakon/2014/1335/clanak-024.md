@@ -1,0 +1,5 @@
+## Suradnja u regulaciji tržišta željezničkih usluga
+# Članak 24.
+(1) Agencija je dužna surađivati s tijelom nadležnim za sigurnost i interoperabilnost željezničkog sustava i s tijelom nadležnim za izdavanje dozvola za obavljanje usluga željezničkog prijevoza i izraditi okvir za razmjenu informacija s ciljem sprječavanja negativnih učinaka na tržišno natjecanje ili sigurnost prometa na željezničkom tržištu.
+(2) Agencija daje preporuke tijelu nadležnom za sigurnost i interoperabilnost željezničkog sustava i tijelu nadležnom za izdavanje dozvola za obavljanje usluga željezničkog prijevoza o pitanjima koja mogu utjecati na tržišno natjecanje na tržištu željezničkih usluga.
+(3) Ako tijela iz stavka 2. ovoga članka odstupe od preporuke Agencije, dužna su u svojim odlukama navesti razloge za takvo postupanje. Isto vrijedi za postupanje Agencije kad preporuku daje tijelo nadležno za sigurnost i interoperabilnost željezničkog sustava i tijelo nadležno za izdavanje dozvola za obavljanje usluga željezničkog prijevoza o pitanjima koja mogu utjecati na sigurnost željezničkog prometa.

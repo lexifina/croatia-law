@@ -1,0 +1,7 @@
+## Financiranje rada
+# Članak 7.
+(1) Sredstva za obavljanje poslova Agencije u području regulacije tržišta željezničkih usluga osiguravaju se na temelju godišnjeg financijskog plana Agencije koji se donosi u skladu s odredbama zakona kojim se uređuje područje elektroničkih komunikacija, i to od godišnje naknade koju je obvezan plaćati upravitelj infrastrukture za obavljanje poslova Agencije u području regulacije tržišta željezničkih usluga, u postotku od ukupnoga godišnjeg bruto prihoda od željezničkih usluga koje je ostvario u prethodnoj godini.
+(2) Iznos godišnje naknade za obavljanje poslova Agencije u području regulacije tržišta željezničkih usluga upravitelj infrastrukture naplaćuje od željezničkih prijevoznika sukladno postotku od bruto prihoda iz stavka 1. ovoga članka i pravilnika iz stavka 3. ovoga članka.
+(3) Izračun i visina naknade te način plaćanja naknade iz stavka 1. ovoga članka propisuju se pravilnikom koji donosi Vijeće Agencije u skladu s odredbama zakona kojim je uređeno područje elektroničkih komunikacija, najkasnije do kraja godine za sljedeću kalendarsku godinu, na temelju godišnjeg financijskog plana Agencije za sljedeću kalendarsku godinu.
+(4) Naknada iz stavka 1. ovoga članka utvrđuje se u skladu s načelima objektivnosti, transparentnosti, razmjernosti i nediskriminacije.
+(5) Ako Agencija ostvari višak prikupljenih sredstava u odnosu na ostvarenje godišnjega financijskog plana Agencije, na odgovarajući se način primjenjuju odredbe posebnog zakona kojim je uređeno područje elektroničkih komunikacija.
