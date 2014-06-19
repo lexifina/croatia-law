@@ -1,0 +1,2 @@
+# Članak 1.
+Ovim se Pravilnikom utvrđuju nadležno tijelo i zadaće nadležnog tijela za provedbu Odluke Komisije 2008/185/EZ od 21. veljače 2008. o dodatnim jamstvima u trgovini svinjama unutar Zajednice vezano uz bolest Aujeszkoga i kriterijima za dostavu informacija o bolesti (SL L 59, 4. 3. 2008.), pročišćena verzija, posljednji put izmijenjena i dopunjena Provedbenom Odlukom Komisije 2012/701/EU od 13. studenoga 2012., u daljnjem tekstu: Odluka 2008/185/EZ.
