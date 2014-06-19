@@ -1,0 +1,9 @@
+# Članak 7.
+Iza članka 11. dodaje se članak 11.a koji glasi:
+»Članak 11.a
+Fizička ili pravna osoba koja obavlja zahvate ili aktivnosti u područjima iz članka 2. ovoga Zakona dužna je prije njihove provedbe dostaviti podatke o istima nadležnoj lučkoj kapetaniji koja će ih bez odgode dostaviti Hrvatskom hidrografskom institutu.
+Investitor građevine ili drugog zahvata u prostoru ili ovlaštenik koncesije na pomorskom dobru u područjima iz članka 2. ovoga Zakona dužan je hidrografski elaborat izvedenog stanja ovjeren u skladu s člankom 11. stavkom 2. ovoga Zakona bez odgode dostaviti Hrvatskom hidrografskom institutu nakon izgradnje ili rekonstrukcije građevine ili drugog zahvata u prostoru za koji je prema posebnim propisima potrebno ishoditi akt prostornog uređenja ili gradnje, a prije njezine uporabe, odnosno prije izdavanja uporabne dozvole u skladu s posebnim propisima.
+Nositelj zahvata, investitor građevine ili drugog zahvata u prostoru ili ovlaštenik koncesije na pomorskom dobru dužan je dostaviti nadležnom tijelu i službeni podatak o svakoj promjeni nastaloj nakon dostave podataka iz stavaka 1. i 2. ovoga članka bez odgode.
+Fizička ili pravna osoba koja upravlja lukom, osim vojne luke, dužna je najmanje jednom u pet godina Hrvatskom hidrografskom institutu dostaviti službenu hidrografsku izmjeru na cjelovitom lučkom području.
+Iznimno od stavka 4. ovoga članka, dostavu izmjere nadležna lučka kapetanija može odrediti u razdobljima kraćim od pet godina, ako je dubina podložna češćoj promjeni (zamuljivanje, taloženje i drugo), odnosno može odrediti i dulja razdoblja od pet godina ako je dubina manje podložna promjenama, ali ne na razdoblja duža od deset godina.
+Podatke iz stavaka 1., 2., 3. i 4. ovoga članka u službenim pomorskim navigacijskim kartama i publikacijama te »Oglasima za pomorce« objavljuje Hrvatskih hidrografski institut uz prethodnu obavijest nadležnoj lučkoj kapetaniji.«.
