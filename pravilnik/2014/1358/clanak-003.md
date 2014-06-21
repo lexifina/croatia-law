@@ -1,0 +1,7 @@
+## Stručne kvalifikacije i sposobnost za obavljanje funkcije člana uprave
+# Članak 3.
+(1) Stručne kvalifikacije propisane člankom 38. stavkom 1. točkom 1. Zakona potrebne za obavljanje funkcije člana uprave Društva ima osoba koja je završila jedan od sljedećih studija:
+a) preddiplomski i diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij ili stručni studij i specijalistički diplomski stručni studij, čijim završetkom je stekla najmanje 300 ECTS bodova, ili
+b) sveučilišni dodiplomski studij, čijim završetkom je stekla visoku stručnu spremu, odnosno stručni dodiplomski studij, u trajanju od najmanje četiri godine čijim završetkom je stekla visoku stručnu spremu.
+(2) Odredba iz stavka 1. točke b. ovog članka primjenjuje se na osobe koje su studij završile prema propisima koji su bili na snazi prije stupanja na snagu Zakona o znanstvenoj djelatnosti i visokom obrazovanju (»Narodne novine« broj 123/03, 198/03, 105/04, 174/04, 2/07 Odluka USRH, 46/07, 45/09 i 63/11) i imaju pravo koristiti odgovarajući akademski ili stručni naziv ili akademski stupanj utvrđen Zakonom o akademskim i stručnim nazivima i akademskom stupnju (»Narodne novine« broj 107/07 i 118/2012), u skladu s člankom 120. stavkom 2. Zakona o znanstvenoj djelatnosti i visokom obrazovanju.
+(3) Osim uvjeta propisanog stavkom 1. ovoga članka, osoba mora imati položen ispit za stjecanje zvanja ovlaštenog upravitelja Društva ili drugi međunarodno priznati stručni ispit iz područja upravljanja investicijama koji odobri Agencija.
