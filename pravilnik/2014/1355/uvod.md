@@ -1,0 +1,1 @@
+Na temelju članka 207. stavka 5., članka 214. stavka 3., članka 221. stavka 5. i članka 235. stavka 5. Zakona o dobrovoljnim mirovinskim fondovima (»Narodne novine« broj 19/2014, dalje: Zakon), Hrvatska agencija za nadzor financijskih usluga (dalje: Agencija) na sjednici Upravnog vijeća održanoj 6. lipnja 2014. godine donosi
