@@ -1,0 +1,1 @@
+Na temelju članka 22. stavka 2. Zakona o doživotnoj otpremnini odnosno dokupu mirovine (»Narodne novine« broj 153/13,) te članka 15. stavka 5. Zakona o računovodstvu (»Narodne novine« broj 109/07 i 54/13) Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća održanoj 6. lipnja 2014. godine donosi

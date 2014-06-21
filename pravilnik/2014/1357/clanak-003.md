@@ -1,0 +1,5 @@
+## Vođenje poslovnih knjiga i priprema financijskih izvještaja
+# Članak 3.
+(1) Društvo za dokup mirovine dužno je voditi poslovne knjige, sastavljati knjigovodstvene isprave, vrednovati imovinu i obveze te sastavljati godišnje financijske izvještaje i financijske izvještaje za razdoblja tijekom poslovne godine (dalje u tekstu: financijski izvještaji) sukladno Zakonu o dokupu mirovine, propisima kojima se uređuje računovodstvo i Međunarodnim standardima financijskog izvještavanja (dalje u tekstu: MSFI).
+(2) Društvo za dokup mirovine dužno je poslovne događaje evidentirati u svojim poslovnim knjigama koristeći kontni plan propisan u skladu s vrstom, opsegom i složenosti poslovanja društva za dokup mirovine.
+(3) Društvo za dokup mirovine dužno je voditi poslovne knjige i drugu poslovnu dokumentaciju na način koji u svakom trenutku omogućuje provjeru posluje li društvo u skladu s propisima i pravilima o upravljanju rizicima, u skladu sa Zakonom o dokupu mirovine i na temelju njega donesenim propisima i drugim propisima kojih se dužno pridržavati.

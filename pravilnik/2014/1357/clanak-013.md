@@ -1,0 +1,4 @@
+# Članak 13.
+(1) Revizijom godišnjih financijskih izvještaja propisanih člankom 4. stavkom 1. ovoga Pravilnika revizorsko društvo dužno je provjeriti i ocijeniti usklađenost izvještaja sa Zakonom o računovodstvu, odnosno s Međunarodnim standardima financijskog izvještavanja, Zakonom o dokupu mirovine i na temelju njega donesenim propisima.
+(2) Revizorsko društvo donosi ocjenu o usklađenosti financijskih izvještaja iz stavka 1. ovoga članka sa Zakonom o računovodstvu odnosno sa MSFI i Zakonom o dokupu mirovine, kao i ocjenu o usklađenosti pojedinih stavki revidiranog financijskog izvještaja sa stavkama iz izvještaja propisanih člankom 4. stavkom 1. točkama 1. do 4. ovoga Pravilnika.
+(3) Ocjenu iz stavka 2. ovoga članka daje revizorsko društvo u pisanom obliku kao mišljenje o financijskim izvještajima promatranim kao cjelina.

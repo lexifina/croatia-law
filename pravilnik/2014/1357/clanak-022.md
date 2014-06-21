@@ -1,0 +1,5 @@
+## Odbijanje revizorskog pregleda, odnosno revizorskog izvješća
+# Članak 22.
+(1) Agencija će odbiti revizorski pregled, odnosno revizorsko izvješće o provedenoj reviziji financijskih izvještaja ako utvrdi da je isto nije sastavljeno u skladu s odredbama Zakona o dokupu mirovine te odredbama ovoga Pravilnika.
+(2) Revizorski pregled, odnosno revizorsko izvješće nije sastavljeno u skladu s odredbama Zakona o dokupu mirovine te odredbama ovoga Pravilnika, a sadržaj odstupanja korisnika može navesti na pogrešnu poslovnu odluku ili ako postoje značajna odstupanja između revidiranih financijskih izvještaja i stanja koje je Agencija utvrdila neposrednim i/ili posrednim nadzorom.
+(3) U slučaju odbijanja revizorskog pregleda, odnosno revizorskog izvješća, Agencija donosi rješenje o odbijanju revizorskog pregleda, odnosno revizorskog izvješća kojim nalaže društvu za dokup mirovine da odredi drugo revizorsko društvo koje će obaviti reviziju financijskih izvještaja, navodi razloge za odbijanje te određuje rok za dostavu novog revizorskog pregleda, odnosno revizorskog izvješća.
