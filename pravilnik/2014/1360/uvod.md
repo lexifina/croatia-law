@@ -1,0 +1,1 @@
+Na temelju članka 74. stavka 2. Zakona o mirovinskim osiguravajućim društvima (»Narodne novine« broj 22/14), Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća održanoj 6. lipnja 2014. godine donosi
