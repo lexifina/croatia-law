@@ -1,0 +1,6 @@
+## 7. PRIVICI UZ PRAVILNIK
+# Članak 18.
+Sastavni dio ovoga Pravilnika su:
+Obrazac broj 1 - zahtjev za priznavanje prava na besplatne udžbenike i popis priloženih isprava
+Obrazac broj 2 - izjava o korištenju prava na besplatne udžbenike
+Obrazac broj 3 - izjava o sastavu kućanstva i ukupnom prihodu članova kućanstva.
