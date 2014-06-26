@@ -1,0 +1,3 @@
+# Članak 32.
+(1) U slučaju izvlaštenja većeg broja nekretnina (više od deset) i više vlasnika nekretnina (više od deset) korisnik izvlaštenja dužan je dostaviti dokaz o objavi ponude vlasnicima nekretnina.
+(2) Ponuda se objavljuje u dnevnom tisku ili na lokalno uobičajen način javnog priopćavanja (radio, televizija, društvene mreže i slično) te sadrži naznaku objekta koji se planira graditi, naznaku katastarskih čestica i katastarskih općina koje su obuhvaćene planom izvlaštenja te visinu tržišne naknade koja se nudi za stjecanje prava vlasništva, ustanovljenja služnosti ili ustanovljenja zakupa na tim nekretninama s rokovima isplate.

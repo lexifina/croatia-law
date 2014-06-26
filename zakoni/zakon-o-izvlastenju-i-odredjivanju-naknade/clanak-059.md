@@ -1,0 +1,3 @@
+# Članak 59.
+(1) Po podnošenju urednog zahtjeva vlasnika za određivanje naknade iz članaka 57. i 58. ovog Zakona nadležno tijelo, po službenoj dužnosti, u roku od 30 dana od dana zaprimanja urednog zahtjeva, osigurava dokaze o stanju i vrijednosti nekretnine za koju se traži određivanje naknade (nalaz i mišljenje vještaka ili procjene procjenitelja) odgovarajućom primjenom članka 27. ovog Zakona.
+(2) U roku od osam dana od dana kada su osigurani dokazi o stanju i vrijednosti nekretnine nadležno tijelo zakazat će usmenu raspravu za sporazumno određivanje naknade, a radi pripremanja usmene rasprave strana osoba odnosno prijašnji vlasnik nekretnine iz članka 58. stavka 1. i obveznik naknade mogu, pisanim putem, podnijeti svoje ponude.
