@@ -1,0 +1,31 @@
+## Pojmovi
+# Članak 2.
+Pojedini pojmovi koji se upotrebljavaju u ovoj Odluci imaju sljedeće značenje:
+1) Primici jesu svi oblici plaćanja i pogodnosti, u novcu ili u naravi, koje kreditna institucija isplaćuje radniku u zamjenu za poslove koje taj radnik obavlja za kreditnu instituciju, a koji uključuju:
+- primitke na osnovi nesamostalnog rada - plaću, uključujući diskrecijske mirovinske pogodnosti,
+- primitke na osnovi nesamostalnog rada - primitke u naravi i
+- druge primitke.
+Primici obuhvaćaju i neizravna plaćanja i pogodnosti koje radnicima kreditne institucije daje matična institucija kreditne institucije ili društva koja su povezana s kreditnom institucijom.
+Iznimno, primicima se ne smatraju plaćanja i pogodnosti kod kojih su ispunjeni svi sljedeći uvjeti:
+- koji ne ovise o donošenju diskrecijske odluke,
+- na koje pravo imaju svi radnici kreditne institucije te
+- koji radnike kreditne institucije ne potiču na preuzimanje rizika (npr. kolektivne police osiguranja svih radnika).
+Ukupni primici mogu se sastojati od fiksnih i varijabilnih primitaka. Za ispunjavanje zahtjeva iz ove Odluke iznos primitaka uzima se na bruto osnovi.
+2) Poslovna jedinica jest organizacijska jedinica kreditne institucije za čije poslovanje kreditna institucija smatra da se može samostalno ocjenjivati.
+3) Varijabilni primici jesu primici koji ovise o uspješnosti radnika, poslovne jedinice i kreditne institucije ili o drugim ugovorenim kriterijima. U varijabilne primitke uključuje se i iznos otpremnine radniku u iznosu koji prelazi zakonom utvrđeni iznos.
+4) Fiksni primici jesu primici koji nisu varijabilni primici.
+5) Radnik je fizička osoba koja na temelju ugovora o radu ili nekoga drugog ugovora sklopljenog s kreditnom institucijom obavlja određene poslove za kreditnu instituciju. U slučaju eksternalizacije kojom je kreditna institucija ugovorno povjerila obavljanje određenih aktivnosti pružatelju usluga koji je član grupe kreditne institucije, radnikom se smatra i fizička osoba koja je na temelju ugovora o radu ili nekoga drugog ugovora sklopljenog s pružateljem usluga izravno uključena u pružanje usluga kreditnoj instituciji za njezine potrebe obavljanja određenih poslova. U smislu ove Odluke radnikom se smatra i prokurist kreditne institucije.
+6) Više rukovodstvo ima značenje kako je uređeno člankom 3. točkom 53. Zakona o kreditnim institucijama.
+7) Osobe koje preuzimaju rizik jesu radnici čije profesionalne aktivnosti imaju utjecaj na profil rizičnosti kreditne institucije, uključujući osobe koje su ovlaštene sklapati ugovore ili zauzimati rizične pozicije, odnosno donositi odluke koje utječu na izloženost kreditne institucije riziku. Osim onih radnika čije individualne profesionalne aktivnosti imaju utjecaj na profil rizičnosti kreditne institucije, za potrebe ove Odluke obuhvaćeni su i oni radnici čije profesionalne aktivnosti na kolektivnoj osnovi (kao članovi skupine radnika) imaju utjecaj na profil rizičnosti kreditne institucije.
+8) Kontrolne funkcije jesu funkcija kontrole rizika, funkcija praćenja usklađenosti i funkcija unutarnje revizije.
+9) Profil rizičnosti ima značenje kako je uređeno Odlukom o upravljanju rizicima.
+10) Diskrecijske mirovinske pogodnosti imaju značenje kako je uređeno člankom 4. stavkom 1. točkom 73. Uredbe (EU) br. 575/2013 Europskog parlamenta i Vijeća od 26. lipnja 2013. o bonitetnim zahtjevima za kreditne institucije i investicijska društva i o izmjeni Uredbe (EU) br. 648/2012 (SL, L 176, 27. 6. 2013., u nastavku teksta: Uredba (EU) br. 575/2013).
+11) Razdoblje procjene jest razdoblje za koje se procjenjuje i mjeri uspješnost radnika, poslovne jedinice i kreditne institucije za potrebe utvrđivanja varijabilnih primitaka radnika.
+12) Utvrđivanje varijabilnih primitaka jest određivanje iznosa varijabilnih primitaka za pojedine radnike.
+13) Odgoda primitaka jest ugovorna odredba prema kojoj se varijabilni primici ne isplaćuju neposredno nakon proteka razdoblja procjene. Primici su odgođeni ako su ispunjena oba sljedeća uvjeta: prvo, ako primatelju primici nisu isplaćeni, odnosno ako mu nisu prenesena prava iz instrumenata; drugo, ako je ugovorena odredba o malusu.
+14) Razdoblje odgode jest razdoblje tijekom kojega se isplaćuju odgođeni primici i tijekom kojega su neisplaćeni odgođeni primici podložni odredbi o malusu. Razdoblje odgode počinje isplatom dijela varijabilnih primitaka koji se ne odgađa ili prijenosom prava iz instrumenata koji nisu predmet odgode. Ako se odgađa cjelokupna isplata varijabilnog primitka, razdoblje odgode počinje danom utvrđivanja varijabilnog primitka. Razdoblje odgode završava isplatom posljednjeg dijela odgođenih varijabilnih primitaka ili posljednjim prijenosom prava iz instrumenata koji su predmet odgode.
+15) Malus jest ugovorna odredba prema kojoj je radnik suglasan s time da mu kreditna institucija nije dužna isplatiti odnosno prenijeti prava nad dijelom odgođenih neisplaćenih varijabilnih primitaka ili nad cijelim odgođenim neisplaćenim varijabilnim primicima ako ostvarenje prethodno preuzetih rizika dovede do narušene uspješnosti odnosno lošijega financijskog rezultata.
+16) Povrat primitaka jest ugovorna odredba prema kojoj se radnik obvezuje kreditnoj instituciji vratiti određeni iznos varijabilnih primitaka, bilo isplaćeni iznos bilo prava iz instrumenata, ako ostvarenje prethodno preuzetih rizika dovede do narušavanja uspješnosti odnosno lošijega financijskog rezultata. Ova se odredba može ugovoriti na odgođene i neodgođene varijabilne primitke.
+17) Zadržavanje primitaka jest ugovorna odredba prema kojoj je radnik suglasan s time da varijabilne primitke koji su mu isplaćeni u obliku instrumenata i za koje su mu prenesena prava iz tih instrumenata, ne smije prodati tijekom unaprijed ugovorenog razdoblja.
+18) Razdoblje zadržavanja jest razdoblje tijekom kojega radnik zadržava varijabilne primitke isplaćene u obliku instrumenata. Razdoblje zadržavanja počinje prijenosom prava iz instrumenata. Ako su predmet odgode primitaka instrumenti, razdoblje zadržavanja počinje prijenosom prava iz tih instrumenata za svaki odgođeni dio primitaka.
+19) Razred primitaka jest raspon od najnižeg do najvišeg iznosa primitaka u određenoj skupini radnika.
