@@ -1,0 +1,4 @@
+# Članak 6.
+U članku 25. iza stavka 9. dodaje se novi stavak 10. koji glasi:
+»(10) Nadležno tijelo Republike Hrvatske izdat će potvrdu doktoru medicine, doktoru medicine specijalistu, medicinskoj sestri za djelatnost opće zdravstvene njege, doktoru dentalne medicine, magistru farmacije i primalji koji posjeduju javnu ispravu koja dokazuje formalnu kvalifikaciju iz točaka 5.1.1., 5.1.2., 5.1.3., 5.1.4., 5.2.2., 5.3.2., 5.5.2. i 5.6.2. Priloga V. Direktive 2013/25/EU kojom se mijenjaju odredbe Direktive 2005/36/EZ Europskog parlamenta i Vijeća od 7. rujna 2005. o priznavanju stručnih kvalifikacija, koja potvrđuje da je osoba tijekom svog osposobljavanja, gdje je to primjereno, stekla potrebne kompetencije (znanja i vještine) iz članka 27., članka 32. stavka 3., članka 35. stavka 3., članka 39. stavka 3., članka 42. stavka 4. ovoga Zakona.«.
+Dosadašnji stavci 10. do 12. postaju stavci 11. do 13.
