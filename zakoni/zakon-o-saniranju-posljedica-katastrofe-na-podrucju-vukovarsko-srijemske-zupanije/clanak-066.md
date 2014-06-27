@@ -1,0 +1,2 @@
+# Članak 66.
+HRVI koji ima prebivalište na području Vukovarsko-srijemske županije koje je pogođeno katastrofom može ostvariti pravo na stambeno zbrinjavanje mimo utvrđenog redoslijeda na Listi prvenstva za dodjelu stambenog kredita za 2014. godinu pod uvjetom da se nalazi na istoj i da ispunjava ostale uvjete iz važećeg Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji.

@@ -1,0 +1,3 @@
+# Članak 53.
+Ako je osuđeniku odobrena molba za odgodu ili prekid rada za opće dobro sukladno članku 25. stavku 3. Zakona o probaciji (»Narodne novine«, br. 143/12.), trajanje odgode ili prekida može biti i dulje od 60 dana ako je utvrđeno da je šteta nastala kao posljedica katastrofe na području Vukovarsko-srijemske županije koje je pogođeno poplavom.
+Ako se radi o osobi uključenoj u probaciju za koju se utvrdi da je zbog katastrofe morala napustiti prebivalište, odnosno boravište, poslove probacije može izvršavati probacijski ured prema privremenom mjestu stanovanja osobe, nakon što mu je predmet ustupljen od nadležnog probacijskog ureda.

@@ -1,0 +1,4 @@
+# Članak 63.
+Za vrijeme trajanja mjera za otklanjanje posljedica katastrofe proglašene na području Vukovarsko-srijemske županije koje je pogođeno poplavom, može se državnog službenika privremeno premjestiti na odgovarajuće radno mjesto u drugo nadležno javnopravno tijelo za obavljanje privremenih poslova ili poslova čiji se opseg privremeno povećao, a koji poslovi nisu u opisu poslova radnog mjesta na koje je raspoređen, neovisno o broju izvršitelja utvrđenom u uredbi o unutarnjem ustrojstvu i pravilniku o unutarnjem redu državnoga tijela.
+Radi obavljanja poslova koji zahtijevaju posebne vještine i stručno iskustvo osoba zaposlena u jedinici lokalne i područne (regionalne) samouprave ili pravnoj osobi s javnim ovlastima može se, za vrijeme trajanja mjera za uklanjanje posljedica štete, uputiti na rad u državnu službu.
+14. HRVATSKI BRANITELJI IZ DOMOVINSKOG RATA

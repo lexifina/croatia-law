@@ -1,0 +1,2 @@
+# Članak 60.
+Osobe na čiji se zahtjev ili u čijem se interesu poduzimaju radnje u sudskim postupcima koji se vode radi ostvarenja prava nastalih radi saniranja posljedica katastrofe proglašene na području Vukovarsko-srijemske županije koje je pogođeno poplavom, oslobođene su od plaćanja sudskih pristojbi propisanih odredbama zakona kojim se uređuju sudske pristojbe, u visini utvrđenoj Tarifom sudskih pristojbi.

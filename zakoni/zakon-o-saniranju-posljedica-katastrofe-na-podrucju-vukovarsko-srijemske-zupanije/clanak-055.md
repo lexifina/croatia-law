@@ -1,0 +1,2 @@
+# Članak 55.
+Za vrijeme provedbe mjera radi saniranja posljedica katastrofe na području Vukovarsko-srijemske županije koje je pogođeno poplavama, od ovrhe su izuzeti svi iznosi naknada koje je kao pomoć za ublažavanje i uklanjanje posljedica katastrofe dobila osoba koja je na dan donošenja odluke o proglašenju katastrofe imala prebivalište ili sjedište i obavljala svoju djelatnost na području za koje je proglašena katastrofa, ako ovim Zakonom nije drukčije propisano.

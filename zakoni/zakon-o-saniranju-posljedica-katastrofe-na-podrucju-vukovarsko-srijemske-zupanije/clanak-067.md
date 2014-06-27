@@ -1,0 +1,2 @@
+# Članak 67.
+Hrvatskim braniteljima iz Domovinskog rata i djeci smrtno stradalih, zatočenih ili nestalih hrvatskih branitelja iz Domovinskog rata s prebivalištem na području Vukovarsko-srijemske županije pogođenog katastrofom, korisnicima mjera Programa stručnog osposobljavanja i zapošljavanja Ministarstva branitelja produžuje se ugovorna obveza glede dokazivanja namjenskog utroška sredstava do 31. prosinca 2015.
