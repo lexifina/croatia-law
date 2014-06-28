@@ -1,0 +1,4 @@
+# Članak 18.
+Provjeru stručne osposobljenosti može provesti pravna osoba ako ispunjava potrebne kadrovske i materijalne uvjete.
+Pod kadrovskim uvjetima iz stavka 1. ovoga članka podrazumijevaju se osobe tehničke struke koje imaju akademski naziv magistar, stručni naziv stručni specijalist, odnosno stručni specijalist inženjer, akademski naziv sveučilišni prvostupnik (baccalaureus), stručni naziv stručni prvostupnik (baccalaureus) ili stručni naziv stručni pristupnik, odnosno fizička osoba navedene struke koja je na drugi način propisan posebnim propisom stekla odgovarajući stupanj obrazovanja.
+Pod materijalnim uvjetima iz stavka 1. ovoga članka podrazumijeva se odgovarajući poligon za izvedbu radova redovitog održavanja manjeg opsega, ophodarsko vozilo, sredstva rada koja koristi ophodar, odgovarajući prostor (učionicu) s odgovarajućim didaktičkim pomagalima, shemama i skicama, fotografijama i videozapisima.

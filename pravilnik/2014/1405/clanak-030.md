@@ -1,0 +1,2 @@
+# Članak 30.
+Provjera osposobljenosti ophodara za obavljanje radova redovitog održavanja manjeg opsega te obavljanja i drugih poslova obuhvaća poznavanje osnovnih radnih procesa i radnih postupaka, pravilnu upotrebu propisanog alata i sredstava, način ophođenja prema korisnicima javnih cesta i način neposrednog davanja osnovnih informacija o stanju i prohodnosti ophodarske dionice te svih propisanih procedura za vođenje dokumentacije ophodara.

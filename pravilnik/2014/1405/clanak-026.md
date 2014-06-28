@@ -1,0 +1,4 @@
+# Članak 26.
+Provjera osposobljenosti ophodara za pregled cestovnih objekata obuhvaća sve glavne vrste cestovnih objekata, glavne dijelove objekata i njihovu namjenu, oštećenja na objektima koja utječu na stabilnost i trajnost objekta ili koja mogu ugroziti sigurnost odvijanja prometa te manje radove na održavanju objekata.
+Provjera osposobljenosti ophodara obuhvaća i poznavanje prometnog i slobodnog profila javne ceste, zaštitnog pojasa, polja preglednosti te preglednosti berme.
+Za pregledavanje svih ostalih sastavnih dijelova ceste uključujući i zaštitni pojas, provjera osposobljenosti ophodara obuhvaća poznavanje svih prirodnih pojava koje utječu na stabilnost pokosa javne ceste, svih tehničkih i bioloških zahvata i mjera za zaštitu pokosa, posljedica koje mogu nastati zbog nedopustivih zahvata u zaštitnom pojasu i njihov utjecaja na javnu cestu i sigurnost prometa te važnost izvođenja određenih manjih radova u određenom trenutku.

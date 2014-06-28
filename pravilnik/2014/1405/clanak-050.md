@@ -1,0 +1,3 @@
+# Članak 50.
+U slučaju opasnosti na javnoj cesti, ophodar je dužan odmah po dolasku na to mjesto, započeti s postavljanjem prometnih znakova, prema određenoj regulaciji, koristeći one znakove koji se nalaze u ophodarskom vozilu i koji čine sastavni dio obvezne opreme.
+Zatvaranje kolnika na autocesti i preusmjeravanje prometa na drugi kolnik, u pravilu ne izvodi ophodar, već u skladu sa člankom 6. stavak 1. ovog Pravilnika, posebna grupa iz mjesta stalne pripravnosti, odmah nakon primljene dojave. Komplet prometnih znakova za uspostavu takve regulacije treba se nalaziti u mjestu stalne pripravnosti.
