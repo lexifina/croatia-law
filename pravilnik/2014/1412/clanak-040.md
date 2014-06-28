@@ -1,0 +1,5 @@
+# Članak 40.
+(1) Postupak utvrđivanja i priznavanja ozljede ili bolesti za ozljedu na radu, odnosno profesionalnu bolest pokreće se podnošenjem prijave o ozljedi na radu odnosno profesionalnoj bolesti sukladno članku 128. Zakona.
+(2) Postupak utvrđivanja i priznavanja ozljede ili bolesti za ozljedu na radu, odnosno profesionalnu bolest pokrenut će se pri nadležnom regionalnom uredu Zavoda odnosno nadležnoj područnoj službi Zavoda, prema mjestu prebivališta, odnosno boravišta osigurane osobe na pisani zahtjev ozlijeđene ili oboljele osigurane osobe, odnosno člana obitelji u slučaju smrti osigurane osobe, kojoj se prema Zakonu osiguravaju prava za slučaj ozljede na radu, odnosno profesionalne bolesti.
+(3) Postupak utvrđivanja i priznavanja ozljede odnosno bolesti za ozljedu na radu može pokrenuti i nadležni regionalni ured odnosno nadležna područna služba Zavoda iz stavka 2. ovog članka ako sazna za činjenice i okolnosti nastanka ozljede odnosno bolesti osigurane osobe na radu ili u vezi s radom.
+2. Podnošenje prijave o ozljedi na radu, odnosno profesionalnoj bolesti

@@ -1,0 +1,4 @@
+## VI. PRIJELAZNE I ZAVRŠNE ODREDBE
+# Članak 58.
+(1) Postupci radi utvrđivanja prava iz obveznog zdravstvenog osiguranja za slučaj ozljede na radu odnosno profesionalne bolesti, pokrenuti do dana stupanja na snagu ovog Pravilnika, dovršit će se primjenom odredbi Pravilnika o pravima, uvjetima i načinu ostvarivanja prava iz obveznog zdravstvenog osiguranja u slučaju ozljede na radu i profesionalne bolesti (»Narodne novine« broj 1/11., 153/11., 51/12., 126/12., 147/12., 38/13. i 67/13.), u dijelu u kojem nisu u suprotnosti s odredbama Zakona.
+(2) Zahtjevi osiguranih osoba radi ostvarivanja prava iz obveznog zdravstvenog osiguranja za slučaj ozljede na radu i profesionalne bolesti, zaprimljeni u Zavodu nakon stupanja na snagu ovog Pravilnika, rješavat će se u skladu s odredbama ovog Pravilnika.

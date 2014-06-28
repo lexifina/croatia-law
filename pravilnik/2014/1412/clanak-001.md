@@ -1,0 +1,3 @@
+## I. OPĆE ODREDBE
+# Članak 1.
+Ovim Pravilnikom, u skladu s odredbama Zakona o obveznom zdravstvenom osiguranju (u daljnjem tekstu: Zakon), uređuju se prava i obveze iz obveznoga zdravstvenog osiguranja za slučaj ozljede na radu i profesionalne bolesti koje obuhvaćaju i mjere specifične zdravstvene zaštite radnika, postupak utvrđivanja i priznavanja ozljede na radu, odnosno profesionalne bolesti te postupak utvrđivanja i priznavanja druge/drugih bolesti kao posljedice već priznate ozljede na radu odnosno profesionalne bolesti osiguranih osoba, kao i opseg prava, uvjeti i način njihovog ostvarivanja.

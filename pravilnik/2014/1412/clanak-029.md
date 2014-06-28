@@ -1,0 +1,3 @@
+# Članak 29.
+Pravna ili fizička osoba koja je izvršila pokop umrle osigurane osobe ostvaruje pravo na naknadu za pogrebne troškove u visini propisanoj člankom 22. ovog Pravilnika, na osnovi pisanog zahtjeva koji se podnosi nadležnom regionalnom uredu Zavoda odnosno područnoj službi Zavoda prema mjestu prebivališta odnosno boravišta umrle osigurane osobe uz koji se prilaže dokaz o smrti osigurane osobe (smrtni list), dokaz da je smrt neposredna posljedica priznate ozljede na radu, odnosno profesionalne bolesti, o čemu nalaz, mišljenje i ocjenu daje liječničko povjerenstvo Zavoda, kao i dokaz o izvršenom pokopu osigurane osobe.
+3. Zaštita prava iz obveznoga zdravstvenog osiguranja za slučaj ozljede na radu i profesionalne bolesti

@@ -1,0 +1,6 @@
+# Članak 9.
+(1) Osigurane osobe iz članka 8. ovog Pravilnika pravo na zdravstvenu zaštitu iz obveznoga zdravstvenog osiguranja za slučaj priznate ozljede na radu i profesionalne bolesti utvrđenu člankom 18. stavkom 1. točkom 1. do 6. Zakona ostvaruju na području Republike Hrvatske kod ugovornih subjekata Zavoda u skladu s člankom 18. stavkom 4. i 5. Zakona, općim aktima Zavoda donesenim osnovom tog Zakona, te na način i pod uvjetima utvrđenim općim aktom Zavoda iz članka 7. stavka 3. ovog Pravilnika.
+(2) Osiguranik Zavoda koji ima prebivalište na području druge države (pogranični migrant), ostvaruje zdravstvenu zaštitu za slučaj priznate ozljede na radu, odnosno profesionalne bolesti kod ugovornih subjekata Zavoda, koji su najbliži njegovom mjestu rada, a u skladu s propisima iz stavka 1. ovog članka.
+(3) Osigurane osobe iz stavka 1. ovog članka ostvaruju pravo na prekograničnu zdravstvenu zaštitu u skladu s propisima Europske unije o koordinaciji sustava socijalne sigurnosti, člankom 26. i 27. Zakona te sukladno odredbama općeg akta Zavoda kojim se uređuju prava na korištenje prekogranične zdravstvene zaštite.
+b) Novčane naknade
+1. Naknada plaće za vrijeme privremene nesposobnosti za rad

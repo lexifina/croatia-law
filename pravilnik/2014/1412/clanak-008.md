@@ -1,0 +1,2 @@
+# Članak 8.
+Osiguranici iz članka 7. stavka 4. te osigurane osobe iz članka 16., kao i osiguranici iz 69. stavka 1. Zakona ostvaruju pravo na zdravstvenu zaštitu iz obveznoga zdravstvenog osiguranja za slučaj priznate ozljede na radu, odnosno profesionalne bolesti utvrđenu člankom 18. Zakona u opsegu, na način i pod uvjetima propisanim Zakonom, ovim Pravilnikom i drugim općim aktima Zavoda, u cijelosti na teret sredstava obveznoga zdravstvenog osiguranja u skladu sa člankom 19. stavkom 2. točkom 12. Zakona.

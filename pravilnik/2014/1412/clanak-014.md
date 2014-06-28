@@ -1,0 +1,3 @@
+# Članak 14.
+(1) Osiguraniku koji je upućen na rad u inozemstvo naknada plaće zbog priznate ozljede na radu, odnosno profesionalne bolesti pripada u skladu s odredbama Zakona, ovog Pravilnika i propisa Europske unije o koordinaciji sustava socijalne sigurnosti te međunarodnih ugovora o socijalnom osiguranju.
+(2) Osiguraniku upućenom u inozemstvo izvan područja primjene propisa Europske unije, naknada plaće iz stavka 1. isplaćuje se na teret sredstava Zavoda u skladu s odredbama Zakona i ovog Pravilnika samo za vrijeme njegovog boravka u Republici Hrvatskoj, ukoliko to nije u suprotnosti sa sklopljenim međunarodnim ugovorima o socijalnom osiguranju.

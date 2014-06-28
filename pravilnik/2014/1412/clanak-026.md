@@ -1,0 +1,2 @@
+# Članak 26.
+Izabrani doktor koji je utvrdio početak i prestanak privremene nesposobnosti za rad osiguranika u skladu s odredbom članka 48. stavkom 1. Zakona, drugih propisa, ovog Pravilnika i drugih općih akata Zavoda, ispunjava i izdaje osiguraniku tiskanicu - Izvješće o privremenoj nesposobnosti za rad na način utvrđen općim aktom Zavoda iz članka 7. stavka 3. ovog Pravilnika i na tiskanici koja je propisana tim općim aktom.

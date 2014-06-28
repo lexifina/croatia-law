@@ -1,0 +1,3 @@
+# Članak 55.
+(1) U postupku iz članka 54. ovog Pravilnika obvezno se pribavlja nalaz, mišljenje i ocjena Liječničkog povjerenstva Zavoda, sukladno članku 127. stavku 2. Zakona, da li se radi o oštećenju zdravlja označenom određenom dijagnozom/dijagnozama po Međunarodnoj klasifikaciji bolesti kao posljedici koja je s medicinskog stajališta uzročno-posljedično povezano s priznatom ozljedom na radu odnosno profesionalnom bolešću.
+(2) Radi utvrđivanja činjenica u postupku iz članka 54. ovog Pravilnika može se tražiti i mišljenje nadležnog doktora specijaliste medicine rada kao i Hrvatskog zavoda za zaštitu zdravlja i sigurnost na radu.
