@@ -1,0 +1,2 @@
+# Članak 8.
+Ukupna kratka devizna pozicija kreditne institucije zbroj je svih kratkih deviznih pozicija kreditne institucije u pojedinim valutama. Ukupna duga devizna pozicija kreditne institucije zbroj je svih dugih deviznih pozicija kreditne institucije u pojedinim valutama. Ukupnu otvorenu deviznu poziciju čini veći od tih dvaju zbrojeva. Apsolutna otvorena pozicija u zlatu pribraja se ukupnoj otvorenoj deviznoj poziciji.
