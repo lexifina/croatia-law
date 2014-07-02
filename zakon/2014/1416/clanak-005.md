@@ -1,0 +1,7 @@
+# Članak 5.
+Iznimno, u slučajevima koji nisu riješeni na temelju odredaba članka 9. stavaka 3., 4. i 5. Zakona o izmjenama i dopunama Zakona o područjima posebne državne skrbi (»Narodne novine«, br. 57/11.), kada je privremeni korisnik koristio stambeni i poslovni objekt koji je vraćen u posjed vlasniku na temelju Programa povratka i zbrinjavanja prognanika, izbjeglica i raseljenih osoba (»Narodne novine«, br. 92/98.) i Zakona o izmjenama i dopunama Zakona o područjima posebne državne skrbi (»Narodne novine«, br. 88/02.), a u taj objekt je uložio vlastita sredstva i time povećao njegovu vrijednost, te ako je do dana stupanja na snagu ovoga Zakona pokrenuo sudski postupak za naknadu uloženih sredstava, Republika Hrvatska će vlasniku objekta predložiti sklapanje nagodbe u razumnom roku, u svrhu rješavanja tog pitanja na razuman, primjeren i razmjeran način.
+Na temelju nagodbe iz stavka 1. ovoga članka:
+- vlasnici nekretnina izuzimaju se od obveze povrata sredstava nenaplaćenih tražbina i troškova parničnog i ovršnog postupka, a Republika Hrvatska preuzima na sebe plaćanje nenaplaćenih tražbina i troškove parničnog postupka
+- podnosi se zahtjev za brisanje zabilježbi založnih prava na nekretninama vlasnika
+- može se predložiti zamjena nekretnine.
+Nagodbu iz stavka 1. ovoga članka, u ime Republike Hrvatske, sklapa Državni ured za obnovu i stambeno zbrinjavanje uz prethodno mišljenje nadležnog državnog odvjetništva.
