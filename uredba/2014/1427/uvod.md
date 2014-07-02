@@ -1,0 +1,1 @@
+Na temelju članka 8. Zakona o Vladi Republike Hrvatske (»Narodne novine«, broj 150/2011) i članka 58. stavka 2. Zakona o šumama (»Narodne novine«, br. 140/2005, 82/2006, 129/2008, 80/2010, 124/2010, 25/2012, 68/2012 i 148/2013), Vlada Republike Hrvatske je na sjednici održanoj 18. lipnja 2014. godine donijela
