@@ -1,0 +1,2 @@
+# Članak 2.
+Ovom Uredbom omogućuje se provedba Uredbe (EZ) br. 1221/2009 Europskoga parlamenta i Vijeća od 25. studenoga 2009. o dobrovoljnom sudjelovanju organizacija u sustavu upravljanja okolišem i neovisnog ocjenjivanja Zajednice (EMAS) te stavljanju izvan snage Uredbe (EZ) br. 761/2001 i odluka Komisije 2001/681/EZ i 2006/193/EZ (SL L 342, 22. 12. 2009.) (u daljnjem tekstu: Uredba (EZ) br. 1221/2009).
