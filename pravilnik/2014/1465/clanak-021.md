@@ -1,0 +1,2 @@
+# Članak 21.
+Ugovori sklopljeni na temelju Pravilnika o korištenju cestovnog zemljišta i obavljanju pratećih djelatnosti (»Narodne novine«, broj 119/07. i 39/11.) i Pravilnika o mjerilima za izračun naknade za korištenje cestovnog zemljišta i naknade za obavljanje pratećih djelatnosti (»Narodne novine«, broj 119/07., 91/08. i 39/11.) koji se odnose na građevine (priključci i prilazi) koje nisu obuhvaćene odredbama ovog Pravilnika, uskladit će se sukladno ovom Pravilniku.

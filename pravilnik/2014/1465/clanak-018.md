@@ -1,0 +1,4 @@
+# Članak 18.
+Ako bi zbog izvanrednih okolnosti nastalih nakon sklapanja ugovora, a koje se nisu mogle predvidjeti u vrijeme sklapanja ugovora, ispunjenje obveze plaćanja naknade za korisnika postalo pretjerano otežano ili bi mu nanijelo pretjerano veliki gubitak, uz uvjet da sam nije odgovoran za nastupanje okolnosti na koje se poziva, korisnik može zahtijevati da se ugovor izmijeni. Naknada za korištenje cestovnog zemljišta i obavljanje pratećih djelatnosti ne može biti niža od početnih iznosa naknada utvrđenih u ovom Pravilniku.
+Zahtjev iz prethodnog stavka mora biti obrazložen, uz iznošenje svih činjenica i dokaza u prilog tvrdnji iz zahtjeva i ne može se postaviti prije isteka roka od 5 (pet) godina od dana sklapanja ugovora.
+Zahtjev se podnosi pravnoj osobi koja upravlja javnom cestom, a odluku na prijedlog pravne osobe koja upravlja javnom cestom donosi ministar.
