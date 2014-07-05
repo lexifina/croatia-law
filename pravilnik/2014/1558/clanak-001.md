@@ -1,0 +1,3 @@
+# Članak 1.
+U Pravilniku o stjecanju statusa povlaštenog proizvođača električne energije (»Narodne novine«, broj 133/2013) u članku 16. iza stavka 5. dodaje se stavak 6. koji glasi:
+»(6) Razdoblje važenja prethodnih rješenja koja su izdana prema Pravilniku o stjecanju statusa povlaštenog proizvođača električne energije (»Narodne novine«, br. 67/2007 i 35/2011) može se produžiti na zahtjev nositelja projekta za postrojenja s priključkom na elektroenergetsku mrežu naponske razine 10 ili 20 kV; na ukupno tri godine od dana izvršnosti prethodnog rješenja, te za postrojenja s priključkom na elektroenergetsku mrežu naponske razine 30 kV ili više na ukupno četiri godine od dana izvršnosti prethodnog rješenja.«
