@@ -1,0 +1,1 @@
+Na temelju odredbi članka 29. stavka 2. Zakona o ugostiteljskoj djelatnosti (»Narodne novine«, broj: 138/2006., 43/2009., 88/2010., 50/2012., 80/2013. i 30/2014), ministar turizma uz suglasnost ministra zdravlja, donosi
