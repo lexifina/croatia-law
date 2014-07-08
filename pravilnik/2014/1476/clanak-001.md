@@ -1,0 +1,3 @@
+# Članak 1.
+(1) Ovim se Pravilnikom određuju jednostavne i druge građevine te radovi koji se mogu graditi, odnosno izvoditi bez građevinske dozvole u skladu s glavnim projektom i bez glavnog projekta, građevine koje se mogu uklanjati bez projekta uklanjanja te se propisuje obveza prijave početka građenja i stručni nadzor građenja tih građevina, odnosno izvođenja radova.
+(2) U projektiranju i građenju građevina te izvođenju radova iz stavka 1. ovoga članka investitor, projektant i izvođač dužni su pridržavati se svih propisa i pravila struke koji se odnose na njihovo građenje te se iste ne smiju projektirati, graditi, odnosno izvoditi ako je to zabranjeno prostornim planom.
