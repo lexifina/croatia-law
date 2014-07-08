@@ -1,0 +1,3 @@
+# Članak 14.
+(1) Do određivanja lokacija za odlaganje viška iskopa na način propisan člankom 5. ovoga Pravilnika, jedinice područne (regionalne) samouprave dužne su u roku od 15 dana od dana zaprimanja obavijesti iz članka 3. ovoga Pravilnika odrediti lokaciju za odlaganje viška iskopa i o istome izvijestiti Nadležno tijelo i investitora.
+(2) U slučaju kada jedinice područne (regionalne) samouprave ne postupe sukladno odredbama stavka 1. ovoga članka isto će se odrediti Nadležnog tijela uz suglasnost ministarstva nadležnog za prostorno uređenje u roku od 15 dana, a sve troškove dužna je podmiriti jedinica područne (regionalne) samouprave.
