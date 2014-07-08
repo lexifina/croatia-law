@@ -1,0 +1,7 @@
+# Članak 2.
+(1) Tijela vještačenja iz članka 1. ovoga pravilnika su prvostupanjska i drugostupanjska tijela.
+(2) Odlukom o osnivanju tijela vještačenja i liste stručnjaka za tijela vještačenja ministar nadležan za poslove socijalne skrbi imenuje predsjednike i članove tijela vještačenja, njihove zamjenike, listu stručnjaka za određena prvostupanjska i drugostupanjska tijela vještačenja, utvrđuje mjesnu nadležnost i sjedište tijela vještačenja i liste stručnjaka, te razloge za razrješenje članova tijela vještačenja i stručnjaka s liste stručnjaka prije isteka vremena na koje su imenovani.
+(3) Predsjednik, članovi prvostupanjskog i drugostupanjskog tijela vještačenja i njihovi zamjenici, te stručnjaci za listu stručnjaka imenuju se na četiri godine, a ista osoba može se ponovno imenovati za predsjednika ili člana tijela vještačenja, te stručnjaka za listu stručnjaka.
+(4) Za predsjednika, zamjenika predsjednika, članove i njihove zamjenike, te stručnjake za listu stručnjaka imenuju se osobe s najmanje 4 godina radnog iskustva u struci.
+(5) Član prvostupanjskog tijela vještačenja i stručnjak s liste stručnjaka ne može biti istodobno i član drugostupanjskog tijela vještačenja i stručnjak na listi stručnjaka.
+(6) Predsjednik, zamjenik predsjednika, član i zamjenik prvostupanjskog tijela vještačenja, te stručnjak na listi stručnjaka ne može biti ravnatelj centra za socijalnu skrb niti predstojnik podružnice.

@@ -1,0 +1,3 @@
+## I. OPĆE ODREDBE
+# Članak 1.
+Ovim pravilnikom propisuje se sastav i način rada tijela vještačenja u postupku utvrđivanja vrste i težine invaliditeta i vrste i težine promjene u zdravstvenom stanju, vrste i opsega prijeke potrebe trajne ili privremene pomoći i njege, trajne ili privremene promjene u zdravstvenom stanju, vrsti specifične njege uz izvođenje medicinsko tehničkih zahvata, radne sposobnosti osobe, sadržaj medicinske i druge dokumentacije, sadržaj nalaza i mišljenja, sadržaj obrazaca za postupanje tijela vještačenja radi ostvarivanja prava iz socijalne skrbi, te vrste i stupnja težine oštećenja zdravlja u postupku ostvarivanja prava na doplatak za djecu i potpune nesposobnosti za rad u postupku ostvarivanja prava na zdravstvenu zaštitu.

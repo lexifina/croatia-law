@@ -1,0 +1,3 @@
+# Članak 46.
+Potreba individualnoga rada u provođenju psihosocijalne rehabilitacije
+Potreba individualnoga rada u provođenju psihosocijalne rehabilitacije postoji kada je osobi zbog vrste, stupnja i težine tjelesnog, intelektualnog, osjetilnog ili mentalnog oštećenja potreban individualni rad u svrhu poticanja grafo-motorike, poticanja perceptivno-motoričke sposobnosti, poticanja kognitivnog razvoja, stimulacije ostatka vida, kretanja u prostoru, auditivnog treninga, služenja Brajevim pismom, neverbalne komunikacije, razvoja aktivnosti samoposluživanja i druge aktivnosti s ciljem zadovoljavanja socijalnih, radnih, kulturnih, rekreacijskih i drugih potreba.
