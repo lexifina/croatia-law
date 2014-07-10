@@ -1,0 +1,8 @@
+# Članak 1.
+U Pravilniku o prostoru, nastavnim sredstvima, opremi i drugim uvjetima koje moraju osiguravati Hrvatski Crveni križ i ovlaštene zdravstvene ustanove za provođenje nastave iz premeta »Pružanje prve pomoći osobama ozlijeđenim u prometnoj nesreći« (»Narodne novine«, broj 78/2009.) članak 5. mijenja se i glasi:
+»Osposobljavanje kandidata iz nastavnog predmeta Pružanje prve pomoći osobama ozlijeđenim u prometnoj nesreći može provoditi Hrvatski Crveni križ u svojim ustrojstvenim oblicima (općinska, gradska i županijska društva Crvenog križa) sukladno djelokrugu i načinu rada propisanog Zakonom o Hrvatskom Crvenom križu (»Narodne novine«, broj 71/2010.) i Statutom Hrvatskog Crvenog križa i zdravstvene ustanove u sjedištu zdravstvene ustanove, odnosno sjedištu podružnice koje imaju rješenje ministra nadležnog za zdravlje kojim je utvrđeno da su ispunjeni uvjeti s obzirom na prostor, radnike i medicinsko-tehničku opremu.
+Osim uvjeta propisanih stavkom 1. ovoga članka pravne osobe iz stavka 1. ovoga članka mogu provoditi osposobljavanje kandidata iz nastavnog predmeta Pružanje prve pomoći osobama ozlijeđenim u prometnoj nesreći ako ispunjavaju i sljedeće uvjete:
+1. izrade godišnji plan i program osposobljavanja na temelju Nastavnog plana,
+2. u skladu s godišnjim planom osiguraju potreban broj predavača iz nastavnog predmeta Pružanje prve pomoći osobama ozlijeđenim u prometnoj nesreći,
+3. imaju odgovarajući prostor (u vlasništvu ili zakupu), nastavna sredstva, pomagala i opremu sukladno ovom Pravilnikom,
+4. imaju ovlaštenje ministarstva nadležnog za zdravlje (u daljnjem tekstu: Ministarstvo).«

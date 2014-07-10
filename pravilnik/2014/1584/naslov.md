@@ -1,0 +1,1 @@
+Pravilnik o izmjeni Pravilnika o prostoru, nastavnim sredstvima, opremi i drugim uvjetima koje moraju osigurati Hrvatski Crveni križ i ovlaštene zdravstvene ustanove za provođenje nastave iz predmeta "Pružanje prve pomoći osobama ozlijeđenim u prometnoj nesreći"

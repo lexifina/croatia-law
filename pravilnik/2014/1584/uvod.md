@@ -1,0 +1,1 @@
+Na temelju članka 235. stavka 3. Zakona o sigurnosti prometa na cestama (»Narodne novine« broj 67/2008, 48/2010, 74/2011, 80/2013 i 158/2013) ministar zdravlja uz suglasnost ministra unutarnjih poslova donosi
