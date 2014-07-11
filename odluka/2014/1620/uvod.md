@@ -1,0 +1,1 @@
+Na temelju članka 47. stavka 2. Zakona o cestama (»Narodne novine«, br. 84/11., 18/13., 22/13., 54/13. i 148/13.) i članka 17. stavka 2. Izjave o osnivanju Hrvatskih cesta, društva s ograničenom odgovornošću, za upravljanje, građenje i održavanje državnih cesta, Uprava Društva 3. srpnja 2014. godine donosi
