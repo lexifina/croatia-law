@@ -1,0 +1,2 @@
+# Članak 16.
+Općim aktom REGOS-a o unutarnjem ustrojstvu i sistematizaciji radnih mjesta pobliže će se, u skladu s ovim Statutom, utvrditi djelatnost ustrojstvenih jedinica, nazivi unutarnjih ustrojstvenih jedinica, odgovornost u vezi s njihovim upravljanjem i radom, radna mjesta, okvirni broj potrebnih radnika, posebni uvjeti za obavljanje poslova, kao i druga pitanja značajna za obavljanje poslova u REGOS-u.

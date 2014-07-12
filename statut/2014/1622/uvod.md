@@ -1,0 +1,1 @@
+Na temelju članka 4. stavka 3. Zakona o Središnjem registru osiguranika (»Narodne novine«, br. 159/2013) i članka 54. stavka 1. Zakona o ustanovama (»Narodne novine«, br. 76/93, 29/97, 47/99 i 35/2008), Upravno vijeće Središnjeg registra osiguranika na 121. sjednici održanoj 30. lipnja 2014., donijelo je
