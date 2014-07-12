@@ -1,0 +1,4 @@
+# Članak 6.
+(1) Komora uspoređuje dokumentaciju o stručnim kvalifikacijama podnositelja zahtjeva sa stručnim kvalifikacijama koje kao uvjet propisuju propisi Republike Hrvatske za obavljanje regulirane profesije ovlaštenog inženjera geodezije, stručnog suradnika i suradnika ovlaštenog inženjera geodezije.
+(2) Odlučivanje o zahtjevu o priznavanju inozemnih stručnih kvalifikacija i usporedbu propisane dokumentacije obavlja na temelju stručne procjene nadležan odbor Komore.
+(3) U postupku vrednovanja inozemnih stručnih kvalifikacija, mišljenja, preporuke i informacije mogu se pribaviti od Agencije za znanost i visoko obrazovanje odnosno nacionalnog ENIC-NARIC ureda, odgovarajućih visoko školskih ustanova, strukovnih organizacija, kontaktnih točaka država ugovornica EGP-a i Švicarske konfederacije, uvidom u baze podataka reguliranih profesija te upravnom suradnjom putem Informacijskog sustava unutarnjeg tržišta (IMI sustav).
