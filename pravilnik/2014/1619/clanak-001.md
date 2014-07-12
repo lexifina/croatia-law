@@ -1,0 +1,3 @@
+# Članak 1.
+U Pravilniku o poticanju ulaganja u proizvodnju audiovizualnih djela (»Narodne novine«, broj 86/12, 104/12 i 105/13 ) članak 10. stavak 1. mijenja se i glasi:
+»Sredstva za financijske poticaje planiraju se u godišnjem iznosu u državnom proračunu Republike Hrvatske, koja Ministarstvo kulture, kao namjenska sredstva, doznačuje na račun Centra odmah po pravomoćnosti rješenja o jamstvu. Centar je ovlašten neiskorištena sredstva po izdanim rješenjima o jamstvu iskoristiti za projekte prijavljene u prethodnoj godini za koje nije izdano rješenje o jamstvu u toj godini. Centar je obvezan sva preostala neiskorištena sredstva iz prethodne godine doznačena s te osnove, uplatiti u državni proračun najkasnije do 30. lipnja tekuće godine.«
