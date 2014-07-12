@@ -1,0 +1,1 @@
+Na temelju članka 8. stavka 5. Zakona o osnutku Hrvatske kontrole zračne plovidbe (»Narodne novine«, br. 19/98, 20/2000 i 51A/2013) i članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, broj 150/2011), Vlada Republike Hrvatske je na sjednici održanoj 3. srpnja 2014. godine donijela
