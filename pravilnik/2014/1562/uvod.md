@@ -1,0 +1,1 @@
+Na temelju članka 62. stavaka 2., 3. i 5. Zakona o otvorenim investicijskim fondovima s javnom ponudom (»Narodne novine«, broj 16/2013) i članka 15. stavka 5. Zakona o računovodstvu (»Narodne novine«, broj 109/07 i 144/12) Hrvatska agencija za nadzor financijskih usluga (dalje: Agencija) na sjednici Upravnog vijeća održanoj 27. lipnja 2014. godine donijela je
