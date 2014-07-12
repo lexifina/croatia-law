@@ -1,0 +1,5 @@
+## Poslovne knjige i financijski izvještaji
+# Članak 7.
+(1) Podružnica je dužna voditi poslovne knjige, ostalu poslovnu dokumentaciju i evidencije, vrednovati imovinu i obveze te sastavljati, kontrolirati i čuvati knjigovodstvene isprave u skladu s važećim propisima u Republici Hrvatskoj i standardima struke.
+(2) Podružnica je dužna sastavljati i objavljivati godišnje financijske izvještaje i godišnje izvješće za njezino poslovanje u skladu s važećim propisima u Republici Hrvatskoj i standardima struke i na hrvatskom jeziku. Podružnica je dužna svoje godišnje izvješće dostaviti Hrvatskoj narodnoj banci najkasnije u roku od četiri mjeseca od isteka poslovne godine na koju se odnosi.
+(3) Iznimno od stavka 2. ovog članka, podružnica može sastaviti godišnje financijske izvještaje i godišnje izvješće za njezino poslovanje u skladu s važećim propisima države u kojoj je sjedište kreditne institucije iz treće zemlje (osnivača) ako oni značajno ne odstupaju od propisa važećih u Republici Hrvatskoj.
