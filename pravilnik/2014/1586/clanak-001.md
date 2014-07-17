@@ -1,0 +1,4 @@
+## I. OPĆE ODREDBE
+# Članak 1.
+(1) Ovim Pravilnikom, u skladu s odredbama Zakona o obveznom zdravstvenom osiguranju (u daljnjem tekstu: Zakon) i Pravilnika o uvjetima i načinu ostvarivanja prava iz obveznog zdravstvenog osiguranja, propisuju se obveznici podnošenja prijave, promjene i odjave u obveznom zdravstvenom osiguranju, način prijavljivanja i odjavljivanja te utvrđivanja statusa osigurane osobe, datum početka i prestanka statusa osigurane osobe, datum početka i datum prestanka ostvarivanja prava i obveza iz obveznog zdravstvenog osiguranja, kao i način utvrđivanja i provjere okolnosti koje su osnova za stjecanje, odnosno gubitak statusa osigurane osobe u obveznom zdravstvenom osiguranju.
+(2) Ovim Pravilnikom propisuje se i dokumentacija kojom se dokazuje zakonska osnova osiguranja u obveznom zdravstvenom osiguranju.

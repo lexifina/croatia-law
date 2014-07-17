@@ -1,0 +1,5 @@
+# Članak 6.
+(1) Prijavu na obvezno zdravstveno osiguranje podnosi obveznik plaćanja doprinosa za obvezno zdravstveno osiguranje, osigurana osoba kada je ona obveznik plaćanja doprinosa, odnosno pravna ili fizička osoba za osiguranu osobu.
+(2) Status osigurane osobe područna služba, odnosno regionalni ured Zavoda može utvrditi po službenoj dužnosti na osnovi podataka dostavljenih od nadležnog tijela koje ima ovlasti prikupljanja i dostave podataka radi prijave na obvezno zdravstveno osiguranje.
+(3) Ako podnositelj prijave iz stavka 1. ovoga članka ne podnese prijavu na obvezno zdravstveno osiguranje u zakonskom roku od dana nastanka okolnosti koja je osnova za stjecanje statusa osigurane osobe Zavod će u roku od 30 dana od saznanja za navedene okolnosti, po službenoj dužnosti, rješenjem utvrditi status osiguranika, odnosno osigurane osobe Zavoda.
+(4) Rješenje o priznavanju statusa iz stavka 3. ovoga članka dostavlja se osiguraniku, odnosno osiguranoj osobi Zavoda te obvezniku podnošenja prijave na obvezno zdravstveno osiguranje.

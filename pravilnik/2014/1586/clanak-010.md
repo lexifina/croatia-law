@@ -1,0 +1,2 @@
+# Članak 10.
+Status člana obitelji osiguranika može se utvrditi samo osobama koje imaju prebivalište, odnosno odobren stalni boravak u Republici Hrvatskoj, a državljanima drugih država članica Europske unije te Kraljevine Norveške, Islanda i Kneževine Lihtenštajn pod uvjetom da u Republici Hrvatskoj imaju odobren privremeni boravak ako propisima Europske unije te međunarodnim ugovorom nije drukčije određeno, pod uvjetom da ispunjavaju i sve druge uvjete propisane Zakonom, Zakonom za strance i općim aktima Zavoda.

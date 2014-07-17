@@ -1,0 +1,3 @@
+# Članak 5.
+(1) Prijava na obvezno zdravstveno osiguranje, prijava promjene u obveznom zdravstvenom osiguranju te prijava prestanka statusa u obveznom zdravstvenom osiguranju (u daljnjem tekstu: prijava) podnosi se u roku od 8 dana od dana nastanka, promjene ili prestanka okolnosti na osnovi kojih se stječe ili prestaje status osigurane osobe.
+(2) Prijavu je obvezna zaprimiti i provesti svaka područna služba, odnosno regionalni ured Zavoda neovisno o mjestu prebivališta, odnosno odobrenog stalnog ili privremenog boravka osobe za koju je podnesena, odnosno neovisno o sjedištu pravne ili fizičke osobe- obveznika podnošenja prijave na obvezno zdravstveno osiguranje (u daljnjem tekstu: nadležna područna služba, odnosno regionalni ured).

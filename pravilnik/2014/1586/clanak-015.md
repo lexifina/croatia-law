@@ -1,0 +1,5 @@
+# Članak 15.
+(1) Za pokretanje postupka prijave na obvezno zdravstveno osiguranje, promjene u obveznom zdravstvenom osiguranju, odnosno odjave s obveznog zdravstvenog osiguranja obveznik podnošenja prijave nadležnoj područnoj službi, odnosno regionalnom uredu Zavoda podnosi 3 primjerka tiskanica iz članka 14. stavka 1. točke 1. i 2. ovoga Pravilnika, s podacima koje je obvezan ispuniti podnositelj prijave.
+(2) Primjerak tiskanice iz stavka 1. ovoga članka zadržava Zavod kao dokaz podnesene prijave.
+(3) Nakon zaprimanja tiskanica iz stavka 1. ovoga članka i pripadajuće dokumentacije iz članka 9. ovoga Pravilnika ovlašteni radnik Zavoda obvezan je izvršiti njihovu provjeru kako bi se utvrdilo postojanje zakonske osnove za prihvaćanje prijave.
+(4) Ako su svi zakonski uvjeti za prihvaćanje prijave ispunjeni, ovlašteni radnik Zavoda obvezan je putem informatičkog sustava Zavoda provesti prijavu te ovjeriti primjerke tiskanica prijave iz članka 14. stavka 1. ovoga Pravilnika od kojih jedan primjerak zadržava Zavod, dok po jedan primjerak pripada obvezniku podnošenja prijave, odnosno osiguraniku/osiguranoj osobi.

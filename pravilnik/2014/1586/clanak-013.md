@@ -1,0 +1,5 @@
+## IV. POČETAK I PRESTANAK OSTVARIVANJA PRAVA I OBVEZA IZ OBVEZNOG ZDRAVSTVENOG OSIGURANJA
+# Članak 13.
+(1) Osigurana osoba prava i obveze iz obveznog zdravstvenog osiguranja stječe danom stjecanja statusa osigurane osobe u obveznom zdravstvenom osiguranju.
+(2) Iznimno od stavka 1. ovoga članka osiguranici iz članka 7. stavka 1. točke 4., 6., 7., 8. i 9. Zakona koji prijavu na obvezno zdravstveno osiguranje ne podnesu u roku od 8 dana od dana nastanka okolnosti na osnovi kojih im se utvrđuje status u obveznom zdravstvenom osiguranju (npr. datum početka obavljanja djelatnosti) prava iz obveznog zdravstvenog osiguranja stječu danom zaprimanja prijave u nadležnoj područnoj službi, odnosno regionalnom uredu Zavoda.
+(3) Osigurane osobe kojima je prestao status osigurane osobe u obveznom zdravstvenom osiguranju prava iz obveznog zdravstvenog osiguranja, koja im pripadaju u skladu sa zakonskom osnovom osiguranja prema kojoj su bili osigurani, ostvaruju još najviše 30 dana od dana prestanka statusa osigurane osobe po toj osnovi.

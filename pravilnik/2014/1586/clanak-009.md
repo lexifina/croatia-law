@@ -1,0 +1,4 @@
+# Članak 9.
+(1) Obveznik podnošenja prijave na obvezno zdravstveno osiguranje iz članka 6. ovoga Pravilnika obvezan je uz prijavu priložiti odgovarajuću dokumentaciju kojom se dokazuje zakonska osnova osiguranja.
+(2) Dokumentacija iz stavka 1. ovoga članka utvrđena je u Popisu osnova osiguranja u obveznom zdravstvenom osiguranju (u daljnjem tekstu: Popis), koji je sastavni dio ovoga Pravilnika.
+(3) Popis iz stavka 2. ovoga članka sadržava: zakonsku osnovu osiguranja u obveznom zdravstvenom osiguranju, podatak o obvezniku podnošenja prijave, odredbu Zakona kojom je regulirana osnova osiguranja, podatak o obvezniku plaćanja doprinosa, popis dokumentacije potrebne za dokazivanje ispunjenja uvjeta za stjecanje statusa osigurane osobe, početak stjecanja statusa osigurane osobe i prestanak statusa osigurane osobe.
