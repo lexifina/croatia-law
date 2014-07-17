@@ -1,0 +1,2 @@
+# Članak 1.
+U Pravilniku o provedbi mjere Promidžba na tržištima trećih zemalja iz Nacionalnog programa pomoći sektoru vina 2014. - 2018. (»Narodne novine«, br. 146/2013. i 49/2014.) u članku 15. stavku 11. riječi: »Agencija za plaćanja će utvrditi da takva prijava ne udovoljava uvjete.« zamjenjuju se riječima: »Agencija za plaćanja neće prihvatiti takve ponude niti će odobriti trošak na koji se u Planu aktivnosti navedene ponude odnose.«.

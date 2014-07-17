@@ -1,0 +1,18 @@
+# Članak 4.
+Iza članka 22. dodaje se novi članak 22.a. koji glasi:
+»Članak 22a.
+(1) Uz Zahtjev za isplatu predujma korisnik je dužan dostaviti odgovarajuće i valjano jamstvo u protuvrijednosti od 110% iznosa zatraženog predujma.
+(2) Prihvatljivi oblik jamstva je bankovna garancija ovlaštenih banaka, sukladno predlošku koji se objavljuje na stranici Agencije za plaćanje www.apprrr.hr.
+(3) Korisniku se može isplatiti predujam do najviše 20% vrijednosti odobrene potpore navedene u Odluci o odobrenju projekta, a iznimno 50% ako je Odluka o odobrenju projekta donesena u financijskoj 2014. i 2015. godini.
+(4) Po primitku potpunog Zahtjeva za isplatu predujma i dostavljanju valjanog jamstva iz stavka 1. ovoga članka Agencija za plaćanja korisniku izdaje Odluku o isplati predujma i isplaćuje predujam.
+(5) U slučaju da korisnik ne dostavi Agenciji za plaćanja prihvatljivo jamstvo iz stavka 1. ovoga članka, Agencija za plaćanja će donijeti Odluku o odbijanju zahtjeva za isplatu predujma.
+(6) Sredstva isplaćenog predujma za provedbu odobrenog projekta namjenska su i korisnik ih je dužan iskoristiti za provedbu odobrenih aktivnosti navedenih u Odluci o odobrenju projekta u roku važenja Odluke o odobrenju projekta.
+(7) Korisnik je dužan Agenciji za plaćanja o planiranom korištenju predujma dostavljati kvartalna Izvješća o planiranim aktivnostima sukladno članku 18. stavku 3. točki b. ovoga Pravilnika.
+(8) Korisnik je dužan Agenciji dokumentirati korištenje isplaćenog predujma iz stavka 3. ovoga članka Izvješćem o utrošenom predujmu po završetku aktivnosti sukladno Planu aktivnosti u pojedinoj godini provedbe projekta, a koje treba sadržavati sve plaćene račune sukladno odabranoj ponudi i Odluci o odobrenju projekta (priloženi računi moraju biti plaćeni u cijelosti) te dodatnu dokumentaciju na obrascima sukladno listi potrebne dokumentacije i pojašnjenjima za njihovo popunjavanje koji se objavljuju na stranici Agencije za plaćanje www.apprrr.hr.
+(9) Ukoliko je Izvješće o utrošenom predujmu nepotpuno, Agencija za plaćanja zatražit će njegovu dopunu od podnositelja na način sukladan članku 13. stavku 3. ovoga Pravilnika tražiti dostavljanje dopuna, ispravka i obrazloženja.
+(10) Korisnik je dužan Izvješće o utrošenom predujmu dopuniti, ispraviti, obrazložiti, dostavom tražene dokumentacije preporučenom poštom u roku iz Zahtjeva za dopunu Izvješća o utrošenom predujmu.
+(11) Korisnik je dužan Agenciji po iskorištenju ukupnog iznosa isplaćenog predujma dostaviti Izvješće o utrošenom predujmu te poslati Zahtjev za oslobađanje jamstva.
+(12) Obrazac Izvješća o utrošenom predujmu i Zahtjev za oslobađanje jamstva korisnik dostavlja Agenciji za plaćanja preporučeno s povratnicom na propisanom obrascu dostupnom na internetskoj stranici Agencije za plaćanje www.apprrr.hr.
+(13) Po primitku Zahtjeva za oslobađanje jamstva korisnika Agencija će po završenoj administrativnoj kontroli prihvatljivosti plaćenih računa i dokaza o provedenim aktivnostima priloženih uz Izvješća o utrošenom predujmu izdati Odluku o oslobađanju jamstva.
+(14) Jamstvo iz stavka 3. ovoga članka bit će oslobođeno i vraćeno korisniku po prihvaćanju opravdanosti odobrenih ulaganja iz stavka 8. ovoga članka i stavka 1. članka 18. Uredbe Komisije (EK) broj 282/2012 o utvrđivanju zajedničkih detaljnih pravila sustava jamstava za poljoprivredne proizvode.
+(15) Jamstvo iz stavka 3. ovoga članka bit će aktivirano radi povrata sredstava isplaćenog predujma u slučaju donošenja Odluke o odbijanju zahtjeva za isplatu ili u slučaju poništenja Odluke o odobrenju projekta u potpunosti ili razmjerno visini prihvatljivo opravdanih troškova sukladno stavku 8. ovog članka.«.
