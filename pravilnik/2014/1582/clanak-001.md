@@ -1,0 +1,4 @@
+## I. OPĆE ODREDBE
+# Članak 1.
+(1) Ovim se Pravilnikom propisuju posebna pravila organizacije i provedbe službenih kontrola koje se provode na proizvodnim područjima i područjima za ponovno polaganje živih školjkaša i svrha izrade Plana praćenja kakvoće mora i školjkaša na proizvodnim područjima i područjima za ponovno polaganje živih školjkaša (u daljnjem tekstu: Plan).
+(2) Ovim se Pravilnikom provode odredbe Priloga II. Poglavlja II. Dijela A stavka 1. i Dijela B stavka 1. i 2. Uredbe (EZ) br. 854/2004 Europskog parlamenta i Vijeća od 29. travnja 2004. o utvrđivanju posebnih pravila organizacije službenih kontrola proizvoda životinjskog podrijetla namijenjenih prehrani ljudi (SL L 139, 30. 4. 2004., kako je posljednji put izmijenjena i dopunjena Uredbom Vijeća (EU) br. 517/2013 od 13. svibnja 2013. - u daljnjem tekstu: Uredba (EZ) br. 854/2004).
