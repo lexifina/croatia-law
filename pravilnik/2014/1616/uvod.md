@@ -1,0 +1,1 @@
+Na temelju članka 3. stavka 4. i članka 11. stavka 1. podstavka 4. Zakona o zajedničkoj organizaciji tržišta poljoprivrednih proizvoda i posebnim mjerama i pravilima vezanim uz tržište poljoprivrednih proizvoda (»Narodne novine«, br. 82/2013 i 14/2014) i članka 42. stavka 3. Zakona o vinu (»Narodne novine«, br. 96/2003, 55/2011 i 14/2014) ministar poljoprivrede donosi
