@@ -1,0 +1,1 @@
+Na temelju članka 22. stavka 3. i članka 27. stavka 3. Zakona o elektroničkim medijima (»Narodne novine«, broj 153/09., 84/11., 94/13. i 136/13.), uz prethodno mišljenje Hrvatske regulatorne agencije za mrežne djelatnosti o tehničkim i prostornim uvjetima, Vijeće za elektroničke medije donosi

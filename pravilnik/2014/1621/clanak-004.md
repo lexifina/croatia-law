@@ -1,0 +1,3 @@
+# Članak 4.
+(1) Pružatelj medijske usluge televizije obvezan je mrežnim operatorima koje koristi za distribuciju svoga programskog kanala dostaviti osnovne podatke o emisijama i vremenima u kojima ih planira objaviti radi usluge elektroničkog programskog vodiča (EPG). Osnovni podaci moraju sadržavati ime emisije, vrstu (informativni, zabavni…), te odgovarajuće oznake propisane Pravilnikom za zaštitu maloljetnika. Pružatelj medijske usluge televizije dužan je dostaviti ove podatke najmanje za sedam dana unaprijed te ih održavati točnima.
+(2) Podatke iz stavka 1. ovoga članka potrebno je čuvati 90 dana od dana objave programa te na zahtjev Vijeća dostaviti u odgovarajućem obliku na prijenosnom digitalnom mediju.
