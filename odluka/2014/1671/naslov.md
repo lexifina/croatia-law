@@ -1,0 +1,1 @@
+Odluka o jednostranom priznavanju određenih isprava kao jednakovrijednih hrvatskoj vizi, za tranzit ili namjeravani boravak na području Republike Hrvatske koji ne prelazi 90 dana u svakom razdoblju od 180 dana
