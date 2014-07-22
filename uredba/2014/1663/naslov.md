@@ -1,0 +1,1 @@
+Uredba o određivanju tijela za provedbu Uredbe (EZ-a) br. 2006/2004 Europskog parlamenta i Vijeća od 27. listopada 2004. o suradnji između nacionalnih tijela odgovornih za provedbu propisa o zaštiti potrošača (Uredba o suradnji u zaštiti potrošača)
