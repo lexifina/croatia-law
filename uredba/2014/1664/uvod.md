@@ -1,0 +1,1 @@
+Na temelju članka 12. stavka 2. Zakona o ustanovama, br. 76/93, 29/97, 47/99 i 35/2008), a u vezi s člankom 38. Zakona o zaštiti okoliša (»Narodne novine«, br. 80/2013 i 153/2013), Vlada Republike Hrvatske je na sjednici održanoj 10. srpnja 2014. godine donijela
