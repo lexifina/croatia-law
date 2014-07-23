@@ -1,0 +1,1 @@
+Na temelju članka 6. stavka 7. Pomorskog zakonika (»Narodne novine«, br. 181/2004, 76/2007, 146/2008, 61/2011 i 56/2013), te članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, broj 150/2011), Vlada Republike Hrvatske je na sjednici održanoj 23. srpnja 2014. godine donijela
