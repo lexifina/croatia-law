@@ -1,0 +1,7 @@
+## II. VJEŠTAČENJE I PODRUČJA VJEŠTAČENJA
+# Članak 3.
+(1) Vještačenje u smislu ovoga Zakona je utvrđivanje tjelesnog, intelektualnog, osjetilnog i mentalnog oštećenja, invaliditeta, funkcionalne sposobnosti, razine potpore te radne sposobnosti osobe.
+(2) Vještačenje iz stavka 1. ovoga članka provodi se u svrhu ostvarivanja prava u području socijalne skrbi, mirovinskog osiguranja, profesionalne rehabilitacije i zapošljavanja osoba s invaliditetom, prava po osnovi rodiljnih i roditeljskih potpora, zaštite ratnih i civilnih žrtava rata te u svrhu utvrđivanja psihofizičkog stanja djeteta pri ostvarivanju prava u sustavu obrazovanja, kao i u svrhu ostvarivanja prava u drugim područjima u kojima se prava ostvaruju na temelju nalaza i mišljenja tijela vještačenja kada je to propisano ovim Zakonom ili posebnim propisom.
+(3) Vještačenje iz stavka 1. ovoga članka provodi se na zahtjev nadležnog tijela koje odlučuje o pravima u područjima iz stavka 2. ovoga članka, a za ostvarivanje kojih je potreban nalaz i mišljenje tijela vještačenja.
+(4) Vještačenje iz stavka 1. ovoga članka obavljaju doktori medicine specijalisti odgovarajuće specijalizacije, socijalni radnici, psiholozi, stručnjaci edukacijsko-rehabilitacijskog profila i drugi stručnjaci prema potrebi.
+(5) Vještaci iz stavka 4. ovoga članka zaposlenici su Zavoda za vještačenje, profesionalnu rehabilitaciju i zapošljavanje osoba s invaliditetom (u daljnjem tekstu: Zavod).
