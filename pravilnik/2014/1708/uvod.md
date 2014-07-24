@@ -1,0 +1,1 @@
+Na temelju članka 236. stavka 4. Zakona o sigurnosti u cestovnom prometu (»Narodne novine«, br. 67/08, 48/10, 74/11, 80/13 i 158/13) ministar pomorstva, prometa i infrastrukture, uz suglasnost ministra nadležnog za unutarnje poslove, donosi
