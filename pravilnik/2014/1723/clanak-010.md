@@ -1,0 +1,3 @@
+# Članak 10.
+Doktor medicine iz članka 3. ovoga Pravilnika dužan je popuniti Obrazac AUK-2 u dva primjerka te svojim potpisom i pečatom zdravstvene ustanove potvrditi točnost upisanih podataka. Prije stavljanja obrasca AUK-2 u omot iz članka 4. ovog Pravilnika policijski službenik dužan je provjeriti je li obrazac AUK-2 ispunjen u cijelosti. Monovete s uzetim uzorcima te ispunjene Obrasce AUK-1 i AUK-2 doktor medicine ili drugi zdravstveni radnik iz članka 3. ovoga Pravilnika kontrolira i pakira u omot iz članka 4. ovoga Pravilnika, zatvara ga metalnom kopčom te preko nje stavlja ljepljivu vrpcu na koju otiskuje pečat zdravstvene ustanove.
+Omot iz stavka 1. ovoga članka predaje se policijskom službeniku na čiji su zahtjev uzorci uzeti.

@@ -1,0 +1,2 @@
+# Članak 11.
+Radi utvrđivanja koncentracije alkohola, prisutnosti droga, psihotropnih tvari te lijekova koji utječu na psihofizičke sposobnosti, omot iz članka 10. stavka 2. ovoga Pravilnika dostavlja se u najkraćem mogućem roku Centru za forenzična ispitivanja, istraživanja i vještačenja »Ivan Vučetić« Ministarstva unutarnjih poslova ili ovlaštenoj ustanovi ili tijelu sukladno članku 18. ovoga Pravilnika.

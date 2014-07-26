@@ -1,0 +1,1 @@
+Na temelju članka 326. stavka 9. Zakona o kaznenom postupku (»Narodne novine« broj 152/2008, 76/2009, 80/2011, 91/2012, 143/2012, 56/2013 i 145/2013) ministar unutarnjih poslova, u suradnji s ministrom nadležnim za pravosuđe i ministrom nadležnim za zdravlje, donosi
