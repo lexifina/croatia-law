@@ -1,0 +1,1 @@
+Na temelju članka 27. stavak 12. Zakona o odgoju i obrazovanju u osnovnoj i srednjoj školi (»Narodne novine« broj 87/08, 86/09, 91/10, 90/11, 16/12, 86/12 i 94/13) i članka 8. stavka 4. Zakona o strukovnom obrazovanju (»Narodne novine« broj 30/09 i 24/10), ministar znanosti obrazovanja i sporta donosi
