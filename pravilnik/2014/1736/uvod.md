@@ -1,0 +1,1 @@
+Na temelju odredbi članka 98. stavka 4. točaka 1. i 2. Zakona o mirovinskim osiguravajućim društvima (»Narodne novine« broj 22/14) i članka 15. stavak 5. Zakona o računovodstvu (»Narodne novine« broj 109/07 i 54/13) Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća održanoj 11. srpnja 2014. godine donosi
