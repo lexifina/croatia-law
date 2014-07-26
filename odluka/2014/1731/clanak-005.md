@@ -1,0 +1,3 @@
+# Članak 5.
+(1) Vođenjem razdvojenog računovodstva energetskih subjekata te pravilnim raspoređivanjem računovodstvenih kategorija imovine, obveza, prihoda i rashoda (u daljnjem tekstu: računovodstvene kategorije) osigurava se provođenje redovitog i učinkovitog nadzora nad cijenama odnosno važećim tarifama, naknadama i cjenicima za obavljanje pojedine energetske djelatnosti.
+(2) Vođenjem razdvojenog računovodstva osiguravaju se preduvjeti potrebni za donošenje ili odobravanje cijena, iznosa tarifnih stavki i naknada u skladu s metodologijama, odnosno tarifnim sustavima za pojedine energetske djelatnosti.
