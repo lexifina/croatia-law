@@ -1,0 +1,1 @@
+Odluka o davanju prethodne suglasnosti Ministarstvu poduzetništva i obrta za angažiranje fizičke ili pravne osobe za obavljanje poslova odnosa s javnošću za aktivnosti promidžbe i informiranja javnosti o otvorenim javnim pozivima za dodjelu bespovratnih sredstava i uspješno provedenim projektima financiranim sredstvima Europskog fonda za regionalni razvoj
