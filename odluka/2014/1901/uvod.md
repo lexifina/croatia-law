@@ -1,0 +1,1 @@
+Na temelju članka 20. Zakona o Hrvatskoj gospodarskoj komori (»Narodne novine« broj 66/91 i 73/91) i članka 79. Statuta Hrvatske gospodarske komore (»Narodne novine« broj 11/94. - pročišćeni tekst 108/95, 19/96, 64/01, 142/11 i 9/14) Skupština Hrvatske gospodarske komore na 8. sjednici 8. srpnja 2014. godine donosi
