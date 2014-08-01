@@ -1,0 +1,17 @@
+## Obveze posjednika upisanih u Fitoupisnik
+# Članak 21.
+(1) Posjednik upisan u Fitoupisnik u skladu sa ovim Pravilnikom, obvezan je:
+1. koristiti službenu oznaku samo za označavanje drvenog materijala za pakiranje koji je tretiran u skladu sa člankom 4. ovoga Pravilnika,
+2. voditi evidenciju i čuvati u evidenciji podatke o obavljenom tretiranju i/ili označavanju te o prometu označenog drvenog materijala za pakiranje najmanje godinu dana od njihova nastanka te osigurati sljedivost tih podataka,
+3. pratiti temperaturu drvenog materijala za pakiranje tijekom tretiranja u njegovom najhladnijem dijelu i osigurati održavanje propisane temperature za vrijeme trajanja tretiranja u cijeloj količini drva koje se tretira,
+4. voditi evidenciju i čuvati u evidenciji podatke o kalibraciji i umjeravanju mjernih sondi najmanje godinu dana,
+5. omogućiti nadležnom inspektoru obavljanje inspekcijskog nadzora, a nadležnoj stručnoj ustanovi obavljanje stručnog nadzora, omogućiti im uvid u službenu dokumentaciju, po potrebi omogućiti uzimanje uzoraka drvenog materijala za pakiranje i biti na raspolaganju tijekom obavljanja inspekcijskog nadzora i stručnog nadzora,
+6. sve nedostatke uočene prilikom inspekcijskog nadzora i stručnog nadzora otkloniti prema uputama i u roku koji odredi nadležni inspektor odnosno službena osoba nadležne stručne ustanove,
+7. o svakoj novoj i neuobičajenoj pojavi štetnog organizma na drvu ili drvenom materijalu za pakiranje odmah izvijestiti nadležnog inspektora koji o tome odmah izvješćuje nadležnu upravu,
+8. u slučaju odsutnosti ili zamjene osobe odgovorne za zdravstvenu zaštitu bilja na vrijeme osigurati drugu osposobljenu osobu koja će obavljati propisane obveze u njezino ime,
+9. surađivati s nadležnom stručnom ustanovom i izvijestiti je o svim promjenama u obavljanju djelatnosti tretiranja i/ili označavanja drvenog materijala za pakiranje u roku od 30 dana od njihova nastanka, a osobito o pojedinostima vezanima uz promjenu: tehničke opremljenosti za obavljanje djelatnosti tretiranja, djelatnosti za koje posjeduje ovlaštenje nadležne uprave, osobe odgovorne za zdravstvenu zaštitu bilja i sadržaja službene oznake te dostaviti nadležnoj stručnoj ustanovi svu potrebnu dokumentaciju,
+10. surađivati s nadležnom upravom i izvijestiti je o svim promjenama podataka koji se vode u Fitoupisniku u roku od 30 dana od njihova nastanka, a osobito o pojedinostima vezanima uz promjenu: osobe odgovorne za zdravstvenu zaštitu bilja, djelatnosti za koje posjeduje ovlaštenje nadležne uprave, statusa, naziva, sjedišta, adrese i kontaktnih podataka posjednika,
+11. ako je tako propisano, završiti osnovnu fitosanitarnu izobrazbu (prvi stupanj izobrazbe) i osposobljavanje za primjenu MNFM 15 (drugi stupanj izobrazbe) pri Sveučilištu u Zagrebu Šumarskom fakultetu,
+12. izraditi Priručnik o obavljanju djelatnosti tretiranja i/ili označavanja drvenog materijala za pakiranje sukladno uputama koje dobije od nadležne stručne ustanove,
+13. putem osobe odgovorne za zdravstvenu zaštitu bilja surađivati s nadležnom upravom, nadležnom stručnom ustanovom i nadležnim inspektorom u provođenju zdravstvene zaštite bilja te postupati u skladu s njihovim uputama.
+(2) Posjednik je obvezan sve promjene u podacima koji se vode u Fitoupisniku unijeti u Fitosanitarni informacijski sustav ili o tim promjenama pisanim putem obavijestiti nadležnu upravu u roku od 30 dana od dana njihova nastanka.

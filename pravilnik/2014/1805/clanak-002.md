@@ -1,0 +1,16 @@
+## Značenje izraza
+# Članak 2.
+Izrazi koji se rabe u zakonu kojim se uređuje zdravstvena zaštita bilja upotrebljavaju se i u ovom Pravilniku, a izrazi koji se rabe samo u smislu ovoga Pravilnika imaju sljedeće značenje:
+1. Drveni materijal za pakiranje jesu drvo i proizvodi od drva, isključujući proizvode od papira, koji se koriste za pakiranje, podupiranje, učvršćivanje, zaštitu ili prijevoz bilo koje vrste robe, što obuhvaća gajbe, kutije, sanduke za pakiranje, potporno drvo, palete, bubnjeve za kablove, kaleme, okvire, nosače, pregrade, obloge i druge proizvode, osim onih koji su izrađeni od netretiranog drva tanjeg od 6 mm.
+2. Potporno drvo jest drvo koje nije dio pošiljke, a upotrebljava se za učvršćivanje ili podupiranje robe u pošiljci.
+3. Netretirano drvo jest drvo koje tijekom primarne obrade nije bilo podvrgnuto nekom od postupaka propisanih člankom 4. ovoga Pravilnika.
+4. Obrađeni drveni materijal jest proizvod od drva izrađenog pomoću ljepila, topline i tlaka ili njihovom kombinacijom, kao što su uslojeno drvo, iverica, OSB (oriented strand board) ploče, vlaknatice, furnir i drugo.
+5. Okorano drvo jest drvo koje je bilo podvrgnuto bilo kojem procesu koji rezultira uklanjanjem kore.
+6. Tretiranje je postupak u kojem se drveni materijal za pakiranje ili komadi drva koji će se koristiti za njegovu izradu učinkovito obrađuju pomoću topline, fumigacijom ili na drugi prikladan način koji osigurava uništenje štetnih organizama.
+7. Toplinsko tretiranje jest postupak tretiranja drva zagrijavanjem dok se u drvu ne postigne minimalna propisana temperatura tijekom minimalnog propisanog vremenskog razdoblja.
+8. Službena oznaka jest žig ili na drugi prihvatljiv način nanijeta trajna oznaka koja je međunarodno priznata, a upotrebljava se za potvrđivanje fitosanitarnog statusa drvenog materijala za pakiranje.
+9. Označavanje je primjena službene oznake u skladu sa člankom 5. ovoga Pravilnika, čime se potvrđuje da je drveni materijal za pakiranje podvrgnut nekom od odobrenih postupaka tretiranja u skladu s ovim Pravilnikom i omogućava utvrđivanje identiteta posjednika koji je obavio tretiranje drvenog materijala za pakiranje.
+10. Nadležna stručna ustanova jest pravna osoba koja obavlja službenu provjeru pravnih i fizičkih osoba koje namjeravaju obavljati djelatnost tretiranja i/ili označavanja drvenog materijala za pakiranje i stručni nadzor posjednika u skladu s nacionalnim zakonodavstvom, međunarodnim konvencijama i normama koje reguliraju zdravstvenu zaštitu bilja.
+11. Službena provjera jest postupak kojim nadležna stručna ustanova utvrđuje udovoljavaju li pravne i fizičke osobe uvjetima za obavljanje djelatnosti tretiranja i/ili označavanja drvenog materijala za pakiranje.
+12. Stručni nadzor jest postupak kojim nadležna stručna ustanova utvrđuje obavljaju li se postupci tretiranja i/ili označavanja drvenog materijala za pakiranje sukladno ovom Pravilniku, tj. ispunjavaju li posjednici uvjete propisane ovim Pravilnikom.
+13. Certifikat o udovoljavanju uvjetima za obavljanje djelatnosti tretiranja i/ili označavanja drvenog materijala za pakiranje jest dokument što ga izdaje nadležna stručna ustanova kad postupkom službene provjere utvrdi da pravna ili fizička osoba udovoljava uvjetima za obavljanje djelatnosti tretiranja i/ili označavanja drvenog materijala za pakiranje.

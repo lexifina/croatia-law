@@ -1,0 +1,10 @@
+## II. POSTUPCI TRETIRANJA I OZNAČAVANJA DRVENOG MATERIJALA ZA PAKIRANJE
+## Postupci tretiranja
+# Članak 4.
+(1) Radi uništavanja štetnih organizama, drveni materijal za pakiranje prije upotrebe mora biti podvrgnut jednom od postupaka tretiranja:
+1. Toplinskom tretiranju u konvencionalnim parnim toplinskim komorama ili komorama za sušenje (međunarodna kratica primijenjenog postupka: HT), pri kojem se drvo zagrijava sve dok se ne postigne minimalna temperatura od 56 °C duž cijelog profila elementa, uključujući u njegovoj jezgri, i to u neprekidnom trajanju od najmanje 30 minuta;
+2. Toplinskom tretiranju dielektričnim grijanjem (međunarodna kratica primijenjenog postupka: DH), pri kojem se drveni materijal za pakiranje načinjen od drva ne većeg od 20 cm (mjerenjem najmanje dimenzije pojedinačnog komada ili hrpe) mora zagrijavati sve dok se ne postigne minimalna temperatura od 60 °C duž cijelog profila elementa, uključujući njegovu površinu, i to u neprekidnom trajanju od najmanje jedne minute. Propisana temperatura mora se postići u roku od 30 minuta od početka tretiranja.
+(2) Toplinskim tretiranjem iz točke 1. stavka 1. ovoga članka smatraju se i drugi postupci, kao što je kemijska impregnacija pod tlakom, ako se njihovom primjenom postižu uvjeti jednaki propisanima.
+(3) Uvjeti provođenja tretiranja drvenog materijala za pakiranje (shema tretiranja, izvor energije, sredstvo koje se koristi za zagrijavanje, cirkulacija zraka, veličina i konfiguracija drva, vrsta drva, metoda slaganja drva i drugo) utvrđuju se sukladno publikacijama nadležne stručne ustanove.
+(4) Postupci tretiranja iz stavka 1. ovoga članka mogu se primijeniti na drveni materijal za pakiranje ili na komade drva koji se koriste za njegovu izradu.
+(5) Ako se u okviru MNFM 15 usvoji novi postupak tretiranja drvenog materijala za pakiranje ili se za postojeći postupak tretiranja usvoji nova shema tretiranja, drveni materijal za pakiranje koji je već tretiran sukladno važećim postupcima tretiranja propisanima ovim Pravilnikom ne mora biti ponovno tretiran i označen.

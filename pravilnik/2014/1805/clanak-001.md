@@ -1,0 +1,4 @@
+## I. OPĆE ODREDBE
+## Sadržaj Pravilnika
+# Članak 1.
+Ovim se Pravilnikom propisuju fitosanitarni zahtjevi kojima mora udovoljavati drveni materijal za pakiranje u međunarodnom prometu, postupci tretiranja i označavanja drvenog materijala za pakiranje, sadržaj i način primjene službene oznake, uvjeti koje moraju ispunjavati pravne i fizičke osobe koje obavljaju djelatnost tretiranja i/ili označavanja drvenog materijala za pakiranje (u daljnjem tekstu: posjednici), obveza, uvjeti i postupak njihova upisa u Fitosanitarni upisnik proizvođača, prerađivača, uvoznika i distributera određenog bilja, biljnih proizvoda i drugih nadziranih predmeta (u daljnjem tekstu: Fitoupisnik), obveze koje preuzimaju upisom u Fitoupisnik te uvjeti i način obavljanja službene provjere, stručnog nadzora i inspekcijskog nadzora nad provedbom ovoga Pravilnika.

@@ -1,0 +1,5 @@
+## Postupak službene provjere
+# Članak 16.
+(1) Pravna ili fizička osoba koja namjerava obavljati djelatnost tretiranja i/ili označavanja drvenog materijala za pakiranje podnosi nadležnoj stručnoj ustanovi pisani zahtjev za obavljanje službene provjere na obrascu iz Priloga 4. ovoga Pravilnika. Zahtjevu prilaže popunjen upitnik o tehničkoj opremljenosti za obavljanje djelatnosti tretiranja i/ili označavanja drvenog materijala za pakiranje na obrascu iz Priloga 5. ovoga Pravilnika.
+(2) Na temelju podataka iz upitnika iz stavka 1. ovoga članka, službena osoba nadležne stručne ustanove provjerava jesu li ispunjeni uvjeti iz članka 14. stavka 2. i članka 15. stavka 1. ovoga Pravilnika, sastavlja zapisnik o utvrđenom stanju i jedan primjerak zapisnika dostavlja pravnoj ili fizičkoj osobi iz stavka 1. ovoga članka.
+(3) Ako su ispunjeni uvjeti propisani ovim Pravilnikom, nadležna stručna ustanova izdaje pravnoj ili fizičkoj osobi iz stavka 1. ovoga članka certifikat o udovoljavanju uvjetima za obavljanje djelatnosti tretiranja i/ili označavanja drvenog materijala za pakiranje na obrascu iz Priloga 2. ovoga Pravilnika.
