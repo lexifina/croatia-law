@@ -1,0 +1,2 @@
+# Članak 6.
+Poduzetnik smije prodavati kontrolirane tvari i fluorirane stakleničke plinove samo pravnim ili fizičkim osobama - obrtnicima te Centru, koji predoče dozvolu Ministarstva zaštite okoliša i prirode (u daljnjem tekstu: Ministarstvo) za obavljanje djelatnosti prikupljanja, provjere propuštanja, ugradnje i servisiranja ili potvrdu o upisu u Registar pravnih i fizičkih osoba - obrtnika koju izdaje Ministarstvo. Zahtjev za upis u Registar podnosi se na obrascu REG.

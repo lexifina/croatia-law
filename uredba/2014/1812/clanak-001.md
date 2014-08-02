@@ -1,0 +1,3 @@
+## I. OPĆE ODREDBE
+# Članak 1.
+Ovom Uredbom propisuje se postupanje s tvarima koje oštećuju ozonski sloj i fluoriranim stakleničkim plinovima, postupanje s uređajima i opremom koji sadrže te tvari ili o njima ovise, postupanje s tim tvarima nakon prestanka uporabe uređaja i opreme koji ih sadrže, provjera propuštanja tih tvari, način prikupljanja, obnavljanja, oporabe i uništavanja tih tvari, visina naknade za pokriće troškova prikupljanja, obnavljanja, oporabe i uništavanja tih tvari i način obračuna troškova prikupljanja, obnavljanja, oporabe i uništavanja tih tvari, način označavanja uređaja i opreme koji sadrže te tvari ili o njima ovise te način izvješćivanja o tim tvarima.

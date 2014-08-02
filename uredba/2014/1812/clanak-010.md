@@ -1,0 +1,4 @@
+# Članak 10.
+(1) Centar preuzima prikupljene kontrolirane tvari i/ili fluorirane stakleničke plinove iz rashladnih i klimatizacijskih uređaja i opreme, dizalica topline, protupožarnih sustava i aparata za gašenje požara koje ovlašteni serviser dovozi u spremnicima s povratnim ventilom koji imaju oznaku vrste i naziva uporabljene kontrolirane tvari ili fluoriranog stakleničkog plina i skladišti te tvari i/ili plinove u za tu svrhu određenom prostoru.
+(2) Nakon preuzimanja kontroliranih tvari i/ili fluoriranih stakleničkih plinova, Centar ovlaštenom serviseru vraća prazne spremnike iz stavka 1. ovoga članka i izdaje potvrdu o preuzetoj količini kontroliranih tvari i/ili fluoriranih stakleničkih plinova.
+(3) Centar isplaćuje naknadu ovlaštenom serviseru u iznosu od 1,00 kune po kilogramu preuzetih kontroliranih tvari i/ili fluoriranih stakleničkih plinova, osim za preuzete halone.
