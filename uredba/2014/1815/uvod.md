@@ -1,0 +1,1 @@
+Na temelju članka 130. stavka 2., a u vezi s člankom 240. stavkom 1. Zakona o zaštiti prirode (»Narodne novine«, broj 80/2013), Vlada Republike Hrvatske je na sjednici održanoj 23. srpnja 2014. godine donijela
