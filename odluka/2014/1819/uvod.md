@@ -1,0 +1,1 @@
+Na temelju članka 26. Zakona o udžbenicima za osnovnu i srednju školu (»Narodne novine«, br. 27/2010, 55/2011 i 101/2013), Vlada Republike Hrvatske je na sjednici održanoj 23. srpnja 2014. godine donijela
