@@ -1,0 +1,7 @@
+# Članak 6.
+U članku 8. stavku 2. iza riječi: »Vlada«, briše se točka i dodaju se riječi: »na prijedlog ministra«.
+Stavci 4., 5., 6. i 7. mijenjaju se i glase:
+»Natječaj za ravnatelja traje 8 dana i objavljuje se u dnevnom tisku i Narodnim novinama. Natječaj se provodi uvidom u dostavljenu dokumentaciju i obavljanjem razgovora (intervjua) s kandidatima koji ispunjavaju uvjete iz natječaja. Provodi ga stručno povjerenstvo od tri člana koje imenuje Upravno vijeće. Stručno povjerenstvo dužno je završiti svoj rad u roku od 8 dana od dana isteka roka za podnošenje ponuda, te bez odgode cjelokupnu natječajnu dokumentaciju zajedno sa zapisnikom o obavljenom razgovoru s kandidatima putem Zavoda dostaviti ministru koji utvrđuje prijedlog kandidata za ravnatelja Zavoda i sukladno propisanoj proceduri dostavlja ga na usvajanje Vladi.
+Ravnatelj Zavoda se imenuje na vrijeme od četiri godine. Nakon isteka razdoblja na koje je imenovan, Ravnatelj može biti ponovno imenovan na tu dužnost.
+Za ravnatelja može se imenovati osoba koja ima završen preddiplomski i diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij ili specijalistički diplomski stručni studij, s najmanje pet godina radnog iskustva u struci, te ispunjava druge uvjete propisane statutom Zavoda.
+Ravnatelj Zavoda razriješit će se dužnosti i prije isteka vremena na koji je imenovan na način i pod uvjetima propisanim posebnim zakonom.«.
