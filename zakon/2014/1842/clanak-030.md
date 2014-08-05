@@ -1,0 +1,2 @@
+# Članak 30.
+Postupci povodom zahtjeva za izdavanje vozačkih dozvola i zahtjeva za registraciju i označavanje motornih i priključnih vozila započeti prije stupanja na snagu ovoga Zakona dovršit će se prema odredbama Zakona o sigurnosti prometa na cestama (»Narodne novine«, br. 67/08., 48/10. - Odluka Ustavnog suda Republike Hrvatske, 74/11., 80/13. i 158/13. - Odluka Ustavnog suda Republike Hrvatske).

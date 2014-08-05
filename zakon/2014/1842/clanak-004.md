@@ -1,0 +1,10 @@
+# Članak 4.
+Članak 163. mijenja se i glasi:
+»(1) Vozač i putnici tijekom vožnje u motornom vozilu na sjedalima na kojima su ugrađeni sigurnosni pojasevi, dužni su koristiti pojas na način koji je odredio proizvođač sigurnosnog pojasa.
+(2) Iznimno od odredbe stavka 1. ovoga članka, sigurnosni pojas ne moraju koristiti osobe koje imaju uvjerenje da iz zdravstvenih razloga ne mogu koristiti pojas.
+(3) Ministar nadležan za zdravstvo propisat će postupak, uvjete i način izdavanja uvjerenja iz stavka 2. ovoga članka.
+(4) Vozač motornog vozila za prijevoz osoba koje osim sjedala za vozača ima još najviše 8 sjedala i vozila za prijevoz tereta u kojima su ugrađeni sigurnosni pojasevi ne smije u takvim motornim vozilima prevoziti djecu nižu od 150 centimetara ako nisu smještena u posebnoj sigurnosnoj sjedalici/postolju koja su za vozilo pričvršćena sigurnosnim pojasom vozila ili posebnim kopčama u vozilu i suprotno načinu koji je odredio proizvođač posebne sigurnosne sjedalice.
+(5) Vozač motornog vozila koje osim sjedala za vozača ima još najviše 8 sjedala i u kojem su ugrađeni sigurnosni pojasevi smije na sjedalima koja nisu prednja prevoziti djecu nižu od 150 cm, a visoku barem 135 cm, koja nisu smještena u sigurnosnoj sjedalici/postolju, ukoliko su ona pravilno vezana sigurnosnim pojasom za odrasle osobe.
+(6) Vozač motornog vozila za prijevoz osoba koje osim sjedala za vozača ima još najviše 8 sjedala i vozila za prijevoz tereta u koja nisu ugrađeni sigurnosni pojasevi ne smije u takvim vozilima prevoziti djecu mlađu od tri godine, a djeca stara tri godine i više, a niža od 150 cm ne smiju se smjestiti na prednje sjedalo.
+(7) Vozač motornog vozila ne smije prevoziti dijete smješteno u sigurnosnoj sjedalici okrenutoj suprotno od smjera vožnje na putničkom sjedalu zaštićenom prednjim zračnim jastukom, ako zračni jastuk nije deaktiviran, čak i u slučajevima kada se zračni jastuk automatski isključuje.
+(8) Novčanom kaznom u iznosu od 500,00 kuna kaznit će se za prekršaj vozač i druga osoba ako postupi suprotno odredbama ovoga članka.«.

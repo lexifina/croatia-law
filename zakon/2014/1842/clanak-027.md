@@ -1,0 +1,3 @@
+# Članak 27.
+U članku 296. stavak 1. mijenja se i glasi:
+»(1) O izrečenim zaštitnim mjerama, negativnim prekršajnim bodovima, mjerama upozorenja, prometnim nesrećama i njihovim posljedicama te o vozačima vozila i vozilima ministarstvo nadležno za unutarnje poslove vodi evidenciju. Podaci o prekršajima i njihovim počiniteljima vode se na Informacijskom sustavu ministarstva nadležnog za unutarnje poslove i čuvaju se najmanje 10 godina. Podaci o prometnim nesrećama i drugim događajima u prometu na cestama vode se na Informacijskom sustavu ministarstva nadležnog za unutarnje poslove i čuvaju se najmanje 15 godina. O podacima o prometnim nesrećama i drugim događajima u prometu na cestama, na zahtjev stranke, izdaje se potvrda.«.
