@@ -1,0 +1,3 @@
+# Članak 9.
+(1) Za Sustave upravljanja i kontrole iz članka 5. podstavaka 2. – 4. ovoga Zakona funkcije Neovisnog revizijskog tijela obavlja pravna osoba s javnim ovlastima nadležna za poslove revizije sustava provedbe programa Europske unije.
+(2) Neovisno revizijsko tijelo, kao tijelo neovisno o Upravljačkom tijelu i Tijelu za ovjeravanje, osim funkcija iz članka 124. stavka 2. Uredbe (EU) br. 1303/2013 obavlja i dodatnu funkciju provođenja postupka procjene usklađenosti Sustava upravljanja i kontrole iz članka 5. podstavaka 2. – 4. ovoga Zakona te izrađuje izvješće o rezultatima navedene procjene.
