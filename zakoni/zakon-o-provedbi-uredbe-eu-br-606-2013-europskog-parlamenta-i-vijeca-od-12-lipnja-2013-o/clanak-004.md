@@ -1,0 +1,4 @@
+## Nadležno tijelo i postupak za prilagodbu zaštitne mjere
+# Članak 4.
+(1) U slučaju potrebe za prilagodbom zaštitne mjere u smislu članka 11. stavka 1. Uredbe (EU) br. 606/2013 nadležna policijska uprava bez odgađanja o tome dostavlja pisanu obavijest, zajedno s podacima i ispravama o zaštitnoj mjeri koje posjeduje, prekršajnom sudu nadležnom prema mjestu prebivališta, odnosno boravišta zaštićene osobe na području Republike Hrvatske. Prekršajni sud o prilagodbi zaštitne mjere odlučuje rješenjem u roku od tri dana od primitka pisane obavijesti i isprava o zaštitnoj mjeri.
+(2) Protiv rješenja o prilagodbi zaštitne mjere iz stavka 1. ovoga članka zaštićena osoba ili osoba koja predstavlja opasnost može podnijeti žalbu u roku od tri dana od primitka rješenja, o kojoj odlučuje Visoki prekršajni sud Republike Hrvatske u roku od osam dana od dostave žalbe sa spisom.
