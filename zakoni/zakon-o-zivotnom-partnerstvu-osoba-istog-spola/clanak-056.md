@@ -1,0 +1,5 @@
+## Porezna oslobođenja
+# Članak 56.
+(1) Životni partneri, njihova djeca, odnosno djeca nad kojom životni partner ostvaruje roditeljsku ili partnersku skrb te osobe koje su u braku, izvanbračnoj zajednici ili životnom partnerstvu s djecom ostavitelja ili darovatelja, a s ostaviteljem odnosno darovateljem su živjeli u zajedničkom kućanstvu u trenutku njegove smrti odnosno primitka dara, oslobođeni su poreza na nasljedstva i darove propisanog posebnim zakonom kojim se uređuje porez na nasljedstva i darove.
+(2) Životni partneri, njihova djeca i djeca nad kojom se ostvaruje roditeljska ili partnerska skrb predstavljaju prvi nasljedni red za potrebe oslobođenja od posebnog poreza na stjecanje rabljenih motornih vozila propisanog posebnim zakonskim propisom.
+(3) Porezni status životnog partnerstva u pogledu poreza iz stavka 1. i stavka 2. ovog članka dopušteno je mijenjati posebnim zakonom kojim se regulira tu vrstu poreza, poštujući pritom jamstvo zabrane nepovoljnog postupanja propisane člankom 60. ovog Zakona.
