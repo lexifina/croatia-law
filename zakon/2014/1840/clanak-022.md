@@ -1,0 +1,9 @@
+# Članak 22.
+(1) Tijela javnog sektora, nadležna za vođenje javnih registara, obvezna su u roku od dvije godine od stupanja na snagu ovoga Zakona javne registre, ustrojene do dana stupanja na snagu ovoga Zakona, uskladiti s odredbama ovoga Zakona.
+(2) Tijela javnog sektora, koja službene evidencije ne vode u elektroničkom obliku, dužna su ih prebaciti u elektronički oblik te uskladiti s odredbama ovoga Zakona u roku od dvije godine od dana stupanja na snagu ovoga Zakona.
+(3) Tijela javnog sektora dužna su uskladiti svoje podatke s autentičnim podacima iz temeljnih registara u roku od dvije godine od dana stupanja na snagu ovoga Zakona.
+(4) Središnje tijelo državne uprave nadležno za poslove e-Hrvatske obvezno je u roku od jedne godine od dana stupanja na snagu ovoga Zakona uspostaviti Metaregistar iz članka 16. ovoga Zakona.
+(5) Tijela javnog sektora obvezna su u roku od tri mjeseca od uspostave Metaregistra isti popuniti.
+(6) Središnja tijela državne uprave obvezna su središnjem tijelu državne uprave nadležnom za poslove e-Hrvatske, u roku od tri mjeseca od dana stupanja na snagu ovog Zakona, dostaviti plan usklađivanja svojih informacijskih sustava s odredbama ovog Zakona. Isto su dužna učiniti i za tijela javnog sektora iz svoje nadležnosti.
+(7) Središnja tijela državne uprave obvezna su svakih šest mjeseci od dana stupanja na snagu ovog Zakona izvijestiti središnje tijelo državne uprave nadležno za poslove e-Hrvatske o provedbi odredbi ovog Zakona do njegove pune implementacije. Isto su dužna učiniti i za tijela javnog sektora iz svoje nadležnosti.
+(8) Tijela javnog sektora dužna su u roku od šest mjeseci od uspostave registra ProDII unijeti sve projekte završene unazad šest mjeseci, odnosno sve projekte koji su u funkciji bez obzira na vrijeme implementacije projekta, planirane projekte, kao i projekte u tijeku koji se povezuju na državnu informacijsku infrastrukturu u svrhu njihove objave.
