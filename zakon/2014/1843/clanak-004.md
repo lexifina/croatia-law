@@ -1,0 +1,4 @@
+# Članak 4.
+U članku 132. stavci 3. i 4. mijenjaju se i glase:
+»(3) Ceste iz članka 98. stavka 1. ovoga Zakona koje nisu evidentirane u katastru ili nije evidentirano njihovo stvarno stanje, evidentiraju se u katastru na temelju odluke iz članka 98. stavka 2. ovoga Zakona, geodetskog elaborata izvedenog stanja nerazvrstane ceste, a koji pribavlja i nadležnom tijelu za katastar dostavlja jedinica lokalne samouprave, odnosno pravna osoba koja je ovlaštena upravljati nerazvrstanom cestom sukladno propisima iz članka 106. ovoga Zakona i rješenja nadležnog zemljišnoknjižnog suda o provedbi prijavnog lista.
+(4) Ceste iz stavka 3. ovoga članka upisat će se u zemljišnu knjigu kao javno dobro u općoj uporabi, kao neotuđivo vlasništvo jedinice lokalne samouprave uz upis pravne osobe koja upravlja javnom cestom, bez obzira na postojeće upise u zemljišnoj knjizi.«.

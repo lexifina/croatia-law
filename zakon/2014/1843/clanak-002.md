@@ -1,0 +1,6 @@
+# Članak 2.
+Članak 124. mijenja se i glasi:
+»(1) Javne ceste izgrađene do dana stupanja na snagu Zakona o cestama (»Narodne novine«, br. 84/11.) koje nisu evidentirane u katastru ili nije evidentirano njihovo stvarno stanje, evidentiraju se u katastru na temelju odluke iz članka 7. stavka 2. ovoga Zakona, geodetskog elaborata izvedenog stanja javne ceste i rješenja nadležnog zemljišnoknjižnog suda o provedbi prijavnog lista.
+(2) Javne ceste iz stavka 1. ovoga članka upisat će se u zemljišnu knjigu kao javno dobro u općoj uporabi, kao neotuđivo vlasništvo Republike Hrvatske uz upis pravne osobe koja upravlja javnom cestom, bez obzira na postojeće upise u zemljišnoj knjizi.
+(3) Prijavni list za prethodnu provedbu u zemljišnoj knjizi iz stavka 1. ovoga članka zemljišnoknjižnom sudu po službenoj dužnosti dostavlja nadležni ured za katastar na temelju pregledanog i potvrđenog geodetskog elaborata izvedenog stanja javne ceste, snimljenog prema pravilima propisanim posebnim zakonom, a koji pribavlja i tijelu nadležnom za katastar dostavlja pravna osoba koja upravlja javnim cestama.
+(4) Rješenje o upisu javne ceste u zemljišnu knjigu utemeljeno na odredbi članka 123. stavka 1. ovoga Zakona zemljišnoknjižni sud dostavit će nadležnom uredu za katastar, radi njezina evidentiranja u katastru.«.
