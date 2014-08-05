@@ -1,0 +1,1 @@
+Na temelju članka 6.a stavka 3. Zakona o reguliranim profesijama i priznavanju inozemnih stručnih kvalifikacija (»Narodne novine«, broj 124/09, 45/11 i 74/14) ministar nadležan za rad, u suradnji s ministrom nadležnim za obrazovanje i znanost, donosi
