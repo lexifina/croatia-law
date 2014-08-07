@@ -1,0 +1,6 @@
+## Rješenje o utvrđivanju reprezentativnosti sindikata ili zastupljenosti u pregovaračkom odboru
+# Članak 24.
+(1) U slučaju podnošenja zahtjeva za utvrđivanje reprezentativnosti sindikata za kolektivno pregovaranje ili zahtjeva za određivanje broja i sastava pregovaračkog odbora, Povjerenstvo će u roku od petnaest dana od dana isteka roka za dostavu podataka iz članka 23. stavka 4. ovoga Zakona, na temelju utvrđenih podataka, rješenjem utvrditi reprezentativnost sindikata, odnosno broj i sastav pregovaračkog odbora za kolektivno pregovaranje te ga dostaviti svim sindikatima koji su sudjelovali u postupku utvrđivanja reprezentativnosti.
+(2) Protiv rješenja iz stavka 1. ovoga članka žalba nije dopuštena, ali svaka udruga koja je sudjelovala u postupku utvrđivanja reprezentativnosti, odnosno postupku određivanja broja i sastava pregovaračkog odbora može protiv tog rješenja pokrenuti upravni spor pred nadležnim upravnim sudom.
+(3) U slučaju iz stavka 2. ovoga članka nadležni upravni sud donijet će odluku u roku od trideset dana od dana podnošenja tužbe.
+(4) Ako se odlukom upravnog suda poništi ili izmijeni rješenje iz stavka 1. ovoga članka na temelju kojeg je već sklopljen kolektivni ugovor, taj ugovor prestaje važiti danom pravomoćnosti sudske odluke.

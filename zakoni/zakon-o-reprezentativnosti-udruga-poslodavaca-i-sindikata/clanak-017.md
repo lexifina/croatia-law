@@ -1,0 +1,4 @@
+## Pokretanje postupka za utvrđivanje reprezentativnosti
+# Članak 17.
+(1) Udruga poslodavaca više razine, odnosno udruga sindikata više razine koja želi da se utvrdi njezina reprezentativnost za sudjelovanje u tripartitnim tijelima na nacionalnoj razini, mora najranije šest mjeseci prije isteka roka iz članka 20. stavka 2. ovoga Zakona, Povjerenstvu podnijeti prijedlog za pokretanje postupka za utvrđivanje reprezentativnosti.
+(2) Nakon što zaprimi prijedlog iz stavka 1. ovoga članka, Povjerenstvo će u roku od petnaest dana, u »Narodnim novinama« i na mrežnim stranicama ministarstva, objaviti javni poziv svim udrugama poslodavaca više razine i udrugama sindikata više razine da u roku od šezdeset dana od objave javnog poziva dostave zahtjeve za utvrđenje reprezentativnosti, uz upozorenje da se u slučaju neodazivanja tom pozivu njihova reprezentativnost u tom postupku neće utvrđivati.

@@ -1,0 +1,7 @@
+## Rad povjerenstva
+# Članak 23.
+(1) Nakon što zaprimi zahtjev za utvrđivanje reprezentativnosti, odnosno zahtjev za utvrđivanje broja i sastava pregovaračkog odbora iz članka 22. ovoga Zakona, Povjerenstvo će najkasnije u roku od osam dana utvrditi sadrži li podneseni zahtjev sve propisane podatke.
+(2) Ako podneseni zahtjev ne sadrži sve propisane podatke, Povjerenstvo će pozvati podnositelja zahtjeva da ga dopuni u roku od osam dana, uz upozorenje da će u slučaju neudovoljavanja tom pozivu njegov zahtjev biti odbačen.
+(3) Ako podnositelj zahtjeva svoj zahtjev ne dopuni u roku iz stavka 2. ovoga članka, Povjerenstvo će u daljnjem roku od osam dana rješenjem odbaciti zahtjev kao nepotpun.
+(4) Ako Povjerenstvo utvrdi da je zahtjev potpun, u roku od petnaest dana će javnim pozivom objavljenim na mrežnim stranicama ministarstva, pozvati sindikate koji djeluju na razini, odnosno području za koje se utvrđuje reprezentativnost, odnosno broj i sastav pregovaračkog odbora, da u roku od trideset dana od objave poziva, dostave podatke iz članka 22. ovoga Zakona, uz upozorenje da se u slučaju neodazivanja tom pozivu njihova reprezentativnost, odnosno zastupljenost u pregovaračkom odboru neće utvrđivati.
+(5) Ukupan broj sindikalno organiziranih radnika je zbroj radnika članova svih sindikata koji sudjeluju u postupku utvrđivanja reprezentativnosti, odnosno utvrđivanju broja i sastava pregovaračkog odbora.

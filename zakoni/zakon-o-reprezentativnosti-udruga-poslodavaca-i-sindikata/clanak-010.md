@@ -1,0 +1,5 @@
+## Trajanje reprezentativnosti sindikata za kolektivno pregovaranje
+# Članak 10.
+(1) Reprezentativnost ili zastupljenost u pregovaračkom odboru traje u razdoblju važenja kolektivnog ugovora.
+(2) Ako se tijekom trajanja reprezentativnosti sindikata ili prava na zastupljenost u pregovaračkom odboru iz stavka 1. ovoga članka žele pokrenuti pregovori o izmjenama, odnosno dopunama sklopljenog kolektivnog ugovora, poslodavac, poslodavci ili udruga poslodavaca može pregovarati s pregovaračkim odborom sindikata čija je reprezentativnost ili zastupljenost u pregovaračkom odboru utvrđena za sklapanje kolektivnog ugovora o čijim se izmjenama, odnosno dopunama želi pregovarati i koji su potpisnici toga kolektivnog ugovora.
+(3) Ako se tijekom trajanja reprezentativnosti sindikata ili prava na zastupljenost u pregovaračkom odboru iz stavka 1. ovoga članka žele pokrenuti pregovori o sklapanju novog kolektivnog ugovora, pregovori mogu započeti nakon utvrđivanja reprezentativnosti sindikata ili prava na zastupljenost u pregovaračkom odboru u skladu s ovim Zakonom.
