@@ -1,0 +1,3 @@
+## Broj članova pregovaračkog odbora
+# Članak 11.
+Pregovarački odbor čine predstavnici radnika iz pojedine države članice, a njegov broj članova razmjeran je broju radnika zaposlenih kod poslodavca ili povezanih poslodavaca u toj državi članici, na način da radnici iz svake države članice imaju pravo na jednog predstavnika na svakih započetih deset posto od ukupnog broja radnika zaposlenih kod poslodavaca iz članka 5. stavaka 1. i 3. ovoga Zakona u svim državama zajedno.
