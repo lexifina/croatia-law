@@ -1,0 +1,6 @@
+## III. POTPORA ZA SKRAĆIVANJE PUNOG RADNOG VREMENA RADNIKA
+# Članak 8.
+(1) Poslodavac koji s ciljem očuvanja radnih mjesta, na temelju programa za očuvanje radnih mjesta iz članka 4. stavka 1. podstavka 2. ovoga Zakona, skrati trajanje punog radnog vremena za pojedinog radnika, može koristiti potporu za skraćivanje punog radnog vremena za tog radnika za broj radnih sati za koje je skratio radno vrijeme.
+(2) Puno radno vrijeme koje je skraćeno u skladu s člankom 2. stavkom 1. podstavkom 7. ovoga Zakona tijekom razdoblja ostvarivanja potpore ne mora biti raspoređeno jednako po danima, tjednima i mjesecima, te se u tom slučaju skraćeno radno vrijeme utvrđuje kao prosječno skraćeno tjedno radno vrijeme unutar razdoblja ostvarivanja potpore.
+(3) Potpora za skraćivanje punog radnog vremena radnika iz stavka 1. ovoga članka se dodjeljuje i utvrđuje kao razmjerni dio iznosa plaće za broj radnih sati za koje je radniku skraćeno radno vrijeme, a najviše do iznosa minimalne plaće prema posebnom propisu.
+(4) Poslodavac iz stavka 1. ovoga članka je dužan radniku isplatiti plaću sukladno općem propisu o radu i iznos potpore za radnika za skraćeno radno vrijeme te na ukupno isplaćeni iznos obračunati i uplatiti poreze i doprinose u skladu s posebnim zakonom.

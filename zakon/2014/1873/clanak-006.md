@@ -1,0 +1,7 @@
+# Članak 6.
+(1) Program za očuvanje radnih mjesta iz članka 4. stavka 1. podstavka 2. ovoga Zakona za korištenje potpore za obrazovanje ili osposobljavanje radnika tijekom razdoblja u kojem ne rade iz opravdanih razloga mora sadržavati:
+- obrazložene razloge koji su doveli do značajnog smanjenja opsega posla, odnosno zbog kojih opravdanih poslovnih razloga utvrđenih kolektivnim ugovorom, sporazumom sklopljenim između radničkog vijeća i poslodavca, pravilnikom o radu ili ugovorom o radu, do dvadeset pet posto od ukupnog broja zaposlenih radnika kod toga poslodavca neće raditi u razdoblju od najviše šest mjeseci
+- popis i broj radnika te postotak radnika, koji zbog smanjenja opsega posla ne rade te ukupan broj zaposlenih radnika kod toga poslodavca
+- razdoblje u kojem će trajati smanjenje opsega posla
+- podatke o potrebnom obrazovanju, odnosno utvrđen program obrazovanja ili osposobljavanja radnika s očekivanim učincima i rezultatima učenja koji će omogućiti povratak na rad radnicima koji privremeno ne rade iz opravdanih razloga i broj takvih radnika.
+(2) U ukupan broj radnika iz stavka 1. podstavka 2. ovoga članka, koji se utvrđuje prema stanju zadnjeg dana u mjesecu koji prethodi mjesecu podnošenja zahtjeva za dodjelu potpore, ne ubrajaju se radnici kojima će u razdoblju od šest mjeseci od podnošenja zahtjeva za dodjelu potpore prestati radni odnos istekom otkaznog roka, odnosno istekom ugovora o radu sklopljenog na određeno vrijeme.
