@@ -1,0 +1,6 @@
+## Zabrana otkaza
+# Članak 34.
+(1) Za vrijeme trudnoće, korištenja rodiljnog, roditeljskog, posvojiteljskog dopusta, rada s polovicom punog radnog vremena, rada s polovicom punog radnog vremena radi pojačane brige i njege djeteta, dopusta trudnice ili majke koja doji dijete, te dopusta ili rada s polovicom punog radnog vremena radi brige i njege djeteta s težim smetnjama u razvoju, odnosno u roku od petnaest dana od prestanka trudnoće ili prestanka korištenja tih prava, poslodavac ne smije otkazati ugovor o radu trudnici i osobi koja se koristi nekim od tih prava.
+(2) Otkaz iz stavka 1. ovoga članka je ništetan, ako je na dan davanja otkaza poslodavcu bilo poznato postojanje okolnosti iz stavka 1. ovoga članka ili ako radnik u roku od petnaest dana od dostave otkaza obavijesti poslodavca o postojanju okolnosti iz stavka 1. ovoga članka te o tome dostavi odgovarajuću potvrdu ovlaštenog liječnika ili drugog ovlaštenog tijela.
+(3) Ugovor o radu osobe iz stavka 1. ovoga članka, prestaje smrću poslodavca fizičke osobe, prestankom obrta po sili zakona ili brisanjem trgovca pojedinca iz registra.
+(4) Ugovor o radu osobe iz stavka 1. ovoga članka, tijekom provedbe postupka likvidacije u skladu s posebnim propisom, može se otkazati zbog poslovno uvjetovanih razloga.

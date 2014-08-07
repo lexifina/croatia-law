@@ -1,0 +1,8 @@
+## GLAVA IX. PRIJELAZNE I ZAVRŠNE ODREDBE
+# Članak 232.
+(1) Postupci ostvarivanja i zaštite prava radnika započeti prije stupanja na snagu ovoga Zakona, dovršit će se po odredbama Zakona o radu (»Narodne novine«, br. 149/09., 61/11., 82/12. i 73/13.).
+(2) Odredbe ovoga Zakona o zastari potraživanja, neće se primjenjivati na potraživanja iz radnog odnosa radnika, kojima je rok zastare od tri godine istekao prije stupanja na snagu ovoga Zakona.
+(3) Na postupke nadomještanja suglasnosti radničkog vijeća o otkazu ugovora o radu radniku, odnosno nadomještanja suglasnosti sindikata o otkazu ugovora o radu sindikalnom povjereniku, započete nakon donošenja ovoga Zakona, a do donošenja provedbenih propisa iz članaka 151. i 188. ovoga Zakona, primjenjivat će se odredbe Zakona o radu (»Narodne novine«, br. 149/09., 61/11., 82/12. i 73/13.).
+(4) Postupci izbora radničkih vijeća pokrenuti prije stupanja na snagu ovoga Zakona, provest će se i dovršiti po odredbama Zakona o radu (»Narodne novine«, br. 149/09., 61/11., 82/12. i 73/13.), a mandat članova radničkih vijeća izabranih prije stupanja na snagu ovoga Zakona, trajat će do njegova isteka.
+(5) Pravna pravila iz kolektivnih ugovora kojima je istekao rok na koji su bili sklopljeni ili su otkazani prije stupanja na snagu ovoga Zakona, a koja se produženo primjenjuju kao dio prethodno sklopljenih ugovora o radu, prestat će se produženo primjenjivati istekom razdoblja od tri mjeseca od dana prestanka važenja kolektivnog ugovora.
+(6) Odluke o proširenju kolektivnih ugovora donesenih do dana stupanja na snagu ovoga Zakona, prestat će važiti istekom roka od šest mjeseci od dana stupanja na snagu ovoga Zakona.

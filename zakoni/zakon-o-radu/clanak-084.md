@@ -1,0 +1,8 @@
+## Prenošenje godišnjeg odmora u sljedeću kalendarsku godinu
+# Članak 84.
+(1) Neiskorišteni dio godišnjeg odmora u trajanju dužem od dijela godišnjeg odmora iz članka 83. ovoga Zakona radnik može prenijeti i iskoristiti najkasnije do 30. lipnja sljedeće kalendarske godine.
+(2) Radnik koji je ostvario pravo na razmjerni dio godišnjeg odmora u trajanju kraćem od dijela godišnjeg odmora iz članka 83. ovoga Zakona, može taj dio godišnjeg odmora prenijeti i iskoristiti najkasnije do 30. lipnja sljedeće kalendarske godine.
+(3) Radnik ne može prenijeti u sljedeću kalendarsku godinu dio godišnjeg odmora iz članka 83. ovoga Zakona ako mu je bilo omogućeno korištenje toga odmora.
+(4) Godišnji odmor, odnosno dio godišnjeg odmora koji je prekinut ili nije korišten u kalendarskoj godini u kojoj je stečen, zbog bolesti te korištenja prava na rodiljni, roditeljski i posvojiteljski dopust te dopust radi skrbi i njege djeteta s težim smetnjama u razvoju, radnik ima pravo iskoristiti po povratku na rad, a najkasnije do 30. lipnja sljedeće kalendarske godine.
+(5) Iznimno od stavka 4. ovoga članka, godišnji odmor, odnosno dio godišnjeg odmora koji radnik zbog korištenja prava na rodiljni, roditeljski i posvojiteljski dopust te dopust radi skrbi i njege djeteta s težim smetnjama u razvoju nije mogao iskoristiti ili njegovo korištenje poslodavac nije omogućio do 30. lipnja sljedeće kalendarske godine, radnik ima pravo iskoristiti do kraja kalendarske godine u kojoj se vratio na rad.
+(6) Član posade broda, radnik na radu u inozemstvu ili radnik koji je vršio dužnost i prava državljana u obrani, može godišnji odmor u cijelosti iskoristiti u sljedećoj kalendarskoj godini.

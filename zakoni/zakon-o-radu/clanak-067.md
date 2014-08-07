@@ -1,0 +1,11 @@
+## Preraspodjela radnog vremena
+# Članak 67.
+(1) Ako narav posla to zahtijeva, puno ili nepuno radno vrijeme može se preraspodijeliti tako da tijekom razdoblja koje ne može biti duže od dvanaest neprekidnih mjeseci, u jednom razdoblju traje duže, a u drugom razdoblju kraće od punog ili nepunog radnog vremena, na način da prosječno radno vrijeme tijekom trajanja preraspodjele ne smije biti duže od punog ili nepunog radnog vremena.
+(2) Ako preraspodjela radnog vremena nije ugovorena i uređena kolektivnim ugovorom, odnosno sporazumom sklopljenim između radničkog vijeća i poslodavca, poslodavac je dužan utvrditi plan preraspodijeljenog radnog vremena s naznakom poslova i broja radnika uključenih u preraspodijeljeno radno vrijeme, te takav plan preraspodjele prethodno dostaviti inspektoru rada.
+(3) Preraspodijeljeno radno vrijeme ne smatra se prekovremenim radom.
+(4) Ako je radno vrijeme preraspodijeljeno, ono tijekom razdoblja u kojem traje duže od punog ili nepunog radnog vremena, uključujući i prekovremeni rad, ne smije biti duže od četrdeset osam sati tjedno.
+(5) Iznimno od odredbe stavka 4. ovoga članka, preraspodijeljeno radno vrijeme tijekom razdoblja u kojem traje duže od punog ili nepunog radnog vremena može trajati duže od četrdeset osam sati tjedno, ali ne duže od pedeset šest sati tjedno, odnosno šezdeset sati tjedno ako poslodavac posluje sezonski, pod uvjetom da je isto predviđeno kolektivnim ugovorom i da radnik dostavi poslodavcu pisanu izjavu o dobrovoljnom pristanku na takav rad.
+(6) Radnik koji u preraspodijeljenom radnom vremenu ne pristane na rad duži od četrdeset osam sati tjedno, ne smije zbog toga trpjeti štetne posljedice.
+(7) Poslodavac je dužan inspektoru rada, na njegov zahtjev, dostaviti popis radnika koji su dali pisanu izjavu iz stavka 5. ovoga članka.
+(8) Preraspodijeljeno radno vrijeme u razdoblju u kojem traje duže od punog ili nepunog radnog vremena može trajati najduže četiri mjeseca, osim ako kolektivnim ugovorom nije drukčije određeno, u kojem slučaju ne može trajati duže od šest mjeseci.
+(9) Ugovor o radu na određeno vrijeme za poslove koji se obavljaju u preraspodijeljenom radnom vremenu, sklapa se u trajanju u kojem radnikovo prosječno radno vrijeme mora odgovarati ugovorenom punom ili nepunom radnom vremenu.

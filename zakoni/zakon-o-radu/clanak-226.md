@@ -1,0 +1,43 @@
+## GLAVA VII. UPRAVNE MJERE
+# Članak 226.
+(1) U provedbi inspekcijskog nadzora u području rada, inspektor će usmenim rješenjem u zapisniku poslodavcu narediti da u ostavljenom roku:
+1) tijelu nadležnom za vođenje podataka o osiguranicima prema posebnom propisu o mirovinskom osiguranju, na način, u sadržaju i u roku, u elektroničku bazu dostavi podatke o radniku ili promjene do kojih je došlo tijekom trajanja radnog odnosa (članak 6. stavak 2.)
+2) radniku omogući upoznavanje s propisima o radnim odnosima, odnosno s organizacijom rada i zaštitom zdravlja i sigurnosti na radu (članak 8. stavak 2.)
+3) propise o sigurnosti i zaštiti zdravlja na radu te kolektivni ugovor i pravilnik o radu učini na prikladan način dostupnima radnicima (članak 8. stavak 3.)
+4) pri uredu državne uprave u županiji, odnosno uredu Grada Zagreba nadležnom za poslove rada registrira ugovor o radu pomorca i radnika na pomorskim ribarskim plovilima (članak 14. stavak 6.)
+5) radniku s kojim je sklopio ugovor o radu koji ne sadrži sve sastojke propisane ovim Zakonom, ponudi izmjenu ugovora koji će sadržavati nedostajuće sastojke, odnosno da dopuni izdanu potvrdu o sklopljenom ugovoru o radu koja ne sadrži sastojke propisane ovim Zakonom (članak 15.)
+6) radniku s kojim je sklopio ugovor o radu za stalne sezonske poslove koji ne sadrži sve sastojke propisane ovim Zakonom, ponudi izmjenu ugovora koji će sadržavati nedostajuće sastojke, odnosno da dopuni izdanu potvrdu o sklopljenom ugovoru o radu koja ne sadrži sve sastojke propisane ovim Zakonom (članak 16.)
+7) radniku s kojim je sklopio ugovor o radu na izdvojenom mjestu rada koji ne sadrži sve sastojke propisane ovim Zakonom, ponudi izmjenu ugovora koji će sadržavati nedostajuće sastojke, odnosno da dopuni izdanu potvrdu o sklopljenom ugovoru o radu koja ne sadrži sve sastojke propisane ovim Zakonom, (članak 17. stavak 1.)
+8) radniku s kojim je sklopio ugovor ili mu je izdao potvrdu o privremenom upućivanju na rad u inozemstvo, a koji ne sadrži sve sastojke propisane ovim Zakonom, ponudi izmjenu ugovora koji će sadržavati nedostajuće sastojke, odnosno da dopuni izdanu potvrdu o sklopljenom ugovoru o radu koja ne sadrži sve sastojke propisane ovim Zakonom, ili ako radniku ne uruči primjerak prijave na obvezno zdravstveno osiguranje prije upućivanja na rad u inozemstvo, ako ga je na to osiguranje dužan osigurati (članak 18. stavci 1. i 3.)
+9) maloljetnika uputi na pregled ovlaštenom liječniku, ako su maloljetnik, njegov roditelj, odnosno skrbnik, radničko vijeće ili sindikat posumnjali da poslovi koje obavlja, ugrožavaju njegovu sigurnost, zdravlje, ćudoređe ili razvoj i podnijeli zahtjev poslodavcu da ovlašteni liječnik pregleda maloljetnika te da u nalazu i mišljenju ocijeni ugrožavaju li poslovi koje maloljetnik obavlja njegovu sigurnost, zdravlje, ćudoređe ili razvoj (članak 22. stavak 1.)
+10) maloljetniku ponudi sklapanje ugovora o radu za obavljanje drugih odgovarajućih poslova kada je to dužan učiniti na temelju nalaza i mišljenja ovlaštenoga liječnika (članak 22. stavak 3.)
+11) donese i objavi pravilnik o radu, ili da pravilnikom uredi pitanja koja pravilnikom moraju biti uređena (članak 26. stavak 1.)
+12) u propisanom sadržaju, načinu i roku, ministarstvu dostavi statističke podatke o obavljanju poslova ustupanja radnika (članak 44. stavak 7.)
+13) korisnik i agencija koji su sklopili ugovor o ustupanju radnika, koji ne sadrži sve sastojke propisane ovim Zakonom, izmijene ugovor koji će sadržavati nedostajuće sastojke (članak 45. stavak 2.)
+14) radniku s kojim je sklopio ugovor o radu za privremeno obavljanje poslova, koji ne sadrži sve podatke propisane ovim Zakonom, ponudi izmjenu ugovora koji će sadržavati nedostajuće sastojke, odnosno da dopuni izdanu potvrdu o sklopljenom ugovoru o radu koja ne sadrži sve sastojke propisane ovim Zakonom (članak 46. stavci 2. i 4.)
+15) uputnicu ustupljenog radnika koja ne sadrži podatke propisane ovim Zakonom, dopuni nedostajućim podacima (članak 49. stavak 1.)
+16) radničko vijeće obavijesti o broju i razlozima uzimanja na rad ustupljenih radnika, ili da ustupljene radnike obavijesti o slobodnim radnim mjestima za koje ispunjavaju uvjete (članak 50. stavak 3.)
+17) utvrdi raspored korištenja godišnjeg odmora u skladu s ovim Zakonom ili radnika obavijesti o trajanju i razdoblju korištenja godišnjeg odmora (članak 85.)
+18) dostavi radniku obračun iz kojeg je vidljivo kako je utvrđen iznos plaće, naknade plaće ili otpremnine, ili obračun s propisanim sadržajem (članak 93. stavci 1. i 4.)
+19) dostavi radniku obračun dugovane, a neisplaćene plaće, naknade plaće ili otpremnine, ili obračun s propisanim sadržajem (članak 93. stavci 2. i 4.)
+20) radniku, na njegov zahtjev, izda potvrdu o vrsti poslova koje obavlja i trajanju radnog odnosa (članak 130. stavak 1.)
+21) radniku nakon prestanka radnog odnosa vrati sve njegove isprave i primjerak odjave s obveznoga mirovinskog i zdravstvenog osiguranja, ili mu izda potvrdu o vrsti poslova koje je obavljao i trajanju radnog odnosa (stavak 130. stavak 2.)
+22) imenuje osobu koja je osim njega ovlaštena primati i rješavati pritužbe vezane za zaštitu dostojanstva radnika (članak 134. stavak 2.)
+23) pisano i potpuno obavijesti radničko vijeće ili sve radnike koji su prijenosom obuhvaćeni o prijenosu poduzeća, dijela poduzeća, gospodarske djelatnosti ili dijela gospodarske djelatnosti na novog poslodavca (članak 137. stavci 6. i 7.)
+24) kolektivni ugovor objavi na propisani način (članak 202. stavci 1. i 2.).
+(2) U provedbi inspekcijskog nadzora u području rada, inspektor će usmenim rješenjem u zapisniku zabraniti:
+1) rad osobe mlađe od petnaest godina ili osobe s petnaest i starije od petnaest, a mlađe od osamnaest godina koja pohađa obvezno osnovno obrazovanje (članak 19.)
+2) rad maloljetnika na poslovima koji mogu ugroziti njegovu sigurnost, zdravlje, ćudoređe ili razvoj (članak 21. stavak 1.)
+3) rad maloljetnika na poslovima na kojima može raditi samo nakon prethodnog utvrđivanja zdravstvene sposobnosti, ako mu ta sposobnost nije prethodno utvrđena (članak 21. stavak 3.)
+4) obavljanje poslova maloljetnika ako iz nalaza i mišljenja ovlaštenog liječnika proizlazi da poslovi koje maloljetnik obavlja ugrožavaju njegovu sigurnost, zdravlje, ćudoređe ili razvoj (članak 22. stavak 1.)
+5) agenciji obavljanje poslova ustupanja radnika korisnicima, ako nije registrirana prema posebnom propisu, odnosno upisana u evidenciju ministarstva nadležnog za rad (članak 44. stavak 3.)
+6) rad radnika na poslovima na kojima uz primjenu mjera zaštite zdravlja i sigurnosti na radu nije moguće zaštititi radnika od štetnih utjecaja, a koji je duži od skraćenoga radnoga vremena (članak 64. stavak 3.)
+7) prekovremeni rad maloljetnika (članak 65. stavak 5.)
+8) prekovremeni rad trudnice, roditelja s djetetom do tri godine života ili samohranog roditelja s djetetom do šest godina života ili radniku koji radi u nepunom radnom vremenu kod više poslodavaca, te radnika iz članka 61. stavka 3. i članka 62. stavka 3. ovoga Zakona, ako poslodavcu nisu dostavili pisani pristanak na takav rad (članak 65. stavak 6.)
+9) rad maloljetnika koji traje duže od osam sati tijekom razdoblja od dvadeset četiri sata (članak 68. stavak 1.)
+10) rad radnika koji radi u nepunom radnom vremenu za dva ili više poslodavca, trudnice, roditelja s djetetom do tri godine života ili samohranog roditelja s djetetom do šest godina života, u nejednakom rasporedu radnog vremena, ako poslodavcu nisu dostavili pisani pristanak na takav rad (članak 68. stavak 2.)
+11) rad noćnog radnika koji obavlja noćni rad, ako tijekom razdoblja od četiri mjeseca noćni rad traje duže od prosječno osam sati tijekom svakih dvadeset četiri sata (članak 69. stavak 6.)
+12) noćnom radniku, koji je temeljem procjene opasnosti u radu izložen osobitoj opasnosti ili teškom fizičkom ili mentalnom naporu, noćni rad duži od osam sati u razdoblju od dvadeset četiri sata (članak 69. stavak 7.)
+13) noćni rad maloljetnika ako je protivan odredbama ovoga Zakona, ili nije osigurano da se takav rad obavlja pod nadzorom punoljetne osobe (članak 70.)
+14) noćni rad radnika kod poslodavca kod kojeg je rad organiziran u smjenama, koje uključuju i noćni rad, a koji radi u noćnoj smjeni uzastopce duže od jednog tjedna (članak 71. stavak 3.).
+(3) Žalba izjavljena protiv rješenja iz stavaka 1. i 2. ovoga članka ne odgađa njegovo izvršenje.

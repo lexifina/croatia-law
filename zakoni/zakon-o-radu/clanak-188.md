@@ -1,0 +1,9 @@
+## Zaštita sindikalnih povjerenika
+# Članak 188.
+(1) Sindikalnom povjereniku za vrijeme obavljanja te dužnosti i šest mjeseci nakon prestanka te dužnosti, a bez suglasnosti sindikata nije moguće:
+1) otkazati ugovor o radu ili
+2) na drugi način staviti ga u nepovoljniji položaj u odnosu na njegove dotadašnje uvjete rada i u odnosu na ostale radnike.
+(2) Ako se sindikat u roku od osam dana ne izjasni o davanju ili uskrati suglasnosti, smatra se da je suglasan s odlukom poslodavca.
+(3) Ako sindikat uskrati suglasnost na otkaz, uskrata mora biti pisano obrazložena, a poslodavac može u roku od petnaest dana od dana dostave očitovanja sindikata zatražiti da suglasnost nadomjesti arbitražna odluka.
+(4) Na arbitražu iz stavka 3. ovoga članka na odgovarajući se način primjenjuje odredba članka 151. stavaka 4. do 8. ovoga Zakona.
+(5) Zaštitu iz stavka 1. ovoga članka uživa najmanje jedan sindikalni povjerenik, a najveći broj sindikalnih povjerenika koji kod određenog poslodavca uživaju zaštitu određuje se odgovarajućom primjenom odredbi ovoga Zakona o broju članova radničkog vijeća u odnosu na broj sindikalno organiziranih radnika kod toga poslodavca.

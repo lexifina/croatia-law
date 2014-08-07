@@ -1,0 +1,7 @@
+## Mogućnost drukčijeg uređenja za određene kategorije radnika
+# Članak 88.
+(1) Na radnike na pomorskim ribarskim plovilima ne primjenjuju se odredbe ovoga Zakona o radnom vremenu, stanci te o dnevnom i tjednom odmoru.
+(2) Ministar, uz prethodno mišljenje ministra nadležnog za pomorstvo i ministra nadležnog za ribarstvo, donosi pravilnik o radnom vremenu, odmorima i dopustima radnika na pomorskim ribarskim plovilima.
+(3) Na radnike za koje, zbog posebnosti njihovih poslova, radno vrijeme nije moguće mjeriti ili unaprijed odrediti ili ga radnici određuju samostalno (radnik koji ima status rukovodeće osobe, radnik član obitelji poslodavca fizičke osobe koji živi u zajedničkom kućanstvu s poslodavcem i koji u radnom odnosu obavlja određene poslove za poslodavca i slično), ne primjenjuju se odredbe ovoga Zakona o najdužem trajanju tjednog radnog vremena i razdoblju iz članka 66. stavka 8. ovoga Zakona, noćnom radu, te dnevnom i tjednom odmoru, ako su s poslodavcem ugovorili samostalnost u njihovu određivanju.
+(4) Pod rukovodećim osobljem iz stavka 3. ovoga članka, smatra se radnik koji je ovlašten voditi poslove poslodavca, samostalno zaključivati pravne poslove u ime i za račun poslodavca, kojem raspored radnog vremena nije moguće unaprijed odrediti i koji o tom rasporedu samostalno odlučuje.
+(5) Poslodavac je dužan obavijestiti radničko vijeće o ugovorima sklopljenim s radnicima iz stavka 3. ovoga članka.
