@@ -1,0 +1,8 @@
+## Europska zadruga čiji su osnivači fizičke osobe ili jedna pravna osoba i fizičke osobe
+# Članak 34.
+(1) Na europsku zadrugu čiji su osnivači isključivo fizičke osobe ili jedna pravna osoba i fizičke osobe, a koje zajedno zapošljavaju najmanje pedeset radnika u najmanje dvjema državama članicama primjenjuju se sve odredbe glave III. ovoga Zakona.
+(2) U slučaju iz stavka 1. ovoga članka fizičke osobe, odnosno jedna pravna osoba i fizičke osobe smatraju se poslodavcima sudionicima iz članka 31. stavka 2. ovoga Zakona.
+(3) U europskoj zadruzi sa sjedištem u Republici Hrvatskoj čiji su osnivači isključivo fizičke osobe ili jedna pravna osoba i fizičke osobe, a koje zajedno zapošljavaju manje od pedeset radnika ili zapošljavanju pedeset ili više radnika u samo jednoj državi članici, sudjelovanje radnika u odlučivanju uređuje se odgovarajućom primjenom odredbi glave III. ovoga Zakona.
+(4) U europskoj zadruzi osnovanoj sukladno stavku 3. ovoga članka, a koja ima sjedište u drugoj državi, a ima ovisnog poslodavca ili podružnicu u Republici Hrvatskoj, na sudjelovanje radnika u odlučivanju na odgovarajući se način primjenjuju odredbe glave III. ovoga Zakona.
+(5) U slučaju prijenosa sjedišta europske zadruge iz stavka 3. ovoga članka iz jedne u drugu državu članicu u kojoj je uređen postupak suodlučivanja, radnici i nakon prijenosa zadržavaju istu razinu tih prava.
+(6) Ako nakon osnivanja europske zadruge iz stavka 3. ovoga članka, najmanje jedna trećina ukupnog broja radnika europske zadruge, njezinih ovisnih poslodavaca ili podružnica u najmanje dvjema državama članicama zatraži ili ako ukupan broj zaposlenih radnika dostigne ili prijeđe pedeset radnika u najmanje dvjema državama članicama, primjenjuju se odredbe glave III. ovoga Zakona.

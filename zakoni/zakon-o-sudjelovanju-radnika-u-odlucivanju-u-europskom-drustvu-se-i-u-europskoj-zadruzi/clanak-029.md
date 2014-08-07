@@ -1,0 +1,3 @@
+## Zaštita predstavnika radnika u Republici Hrvatskoj
+# Članak 29.
+Na predstavnike radnika koji sudjeluju u postupcima obavješćivanja, savjetovanja i suodlučivanja, a koji su zaposleni u društvu sudioniku, ovisnom društvu ili podružnici u Republici Hrvatskoj, glede prava i zaštite na odgovarajući se način primjenjuju odredbe općeg propisa o radu kojim se propisuju uvjeti za rad radničkog vijeća i zabrana nejednakog postupanja prema članovima radničkog vijeća, uključujući i pravo na sudjelovanje na sastancima pregovaračkog odbora ili vijeća radnika, odnosno sastancima koji su utvrđeni sporazumom iz članka 15. ovoga Zakona.
