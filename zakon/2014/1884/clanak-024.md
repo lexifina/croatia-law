@@ -1,0 +1,8 @@
+# Članak 24.
+Članak 51. mijenja se i glasi:
+»(1) Šume i šumska zemljišta u vlasništvu Republike Hrvatske koja se Prostornim planom proglase građevinskim područjem, izdvajaju se iz šumskogospodarskoga područja Republike Hrvatske danom stupanja na snagu Prostornog plana kojim su uključene u građevinsko područje.
+(2) Šume i šumska zemljišta koja su sukladno stavku 1. ovoga članka izdvojena iz šumskogospodarskog područja Republike Hrvatske, od trenutka izdvajanja su u nadležnosti Tijela.
+(3) Iznimno od stavaka 1. i 2. ovoga članka, šume i šumska zemljišta na kojima je Prostornim planom planirana gradnja golf igrališta ili kampa ne uključuju se u građevinsko područje i ostaju u šumskogospodarskom području Republike Hrvatske.
+(4) Vlada Republike Hrvatske odnosno tijelo koje ona ovlasti može pojedine šume i šumska zemljišta u vlasništvu Republike Hrvatske izdvojiti iz šumskogospodarskog područja ako za to postoji interes obrane Republike Hrvatske te za nadzor državne granice odnosno osiguranja vidljivosti granične crte.
+(5) Vlada Republike Hrvatske može pojedine šume i šumska zemljišta u vlasništvu Republike Hrvatske izdvojiti iz šumskogospodarskog područja za potrebe provedbe strateškog projekta od interesa za Republiku Hrvatsku, sukladno posebnom propisu kojim se uređuje strateške investicijske projekte Republike Hrvatske.
+(6) Na šumi i šumskom zemljištu u vlasništvu Republike Hrvatske koje je izdvojeno sukladno stavcima 1. i 2. ovoga članka pravo gospodarenja zadržava osoba koja je imala ista prava prije izdvajanja. Pravo gospodarenja iz ovoga stavka se provodi sukladno odredbama ovoga Zakona sve dok Tijelo ne odredi treću osobu kojoj će se ista šuma i šumsko zemljište predati u svrhu određenu Prostornim planom.«.

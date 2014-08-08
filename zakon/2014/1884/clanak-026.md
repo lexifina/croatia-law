@@ -1,0 +1,8 @@
+# Članak 26.
+Članak 55. mijenja se i glasi:
+»(1) Za izdvojene šume i šumska zemljišta sukladno članku 51. stavku 1. ovoga Zakona, prenesena ili ograničena prava nad šumom i šumskim zemljištem te privremeno zauzimanje šumskoga zemljišta, plaća se naknada koja se sastoji od naknade za šume, naknade za šumsko zemljište i naknade za smanjenje općekorisnih funkcija šuma (u daljnjem tekstu: Naknada).
+(2) Naknada pripada Trgovačkom društvu, osobama iz članka 17. stavka 3. ovoga Zakona i šumoposjednicima, koji imaju pravo na naknadu za neostvareni dio prihoda.
+(3) Naknadu iz stavka 1. ovoga članka za šume i šumska zemljišta u vlasništvu Republike Hrvatske plaća treća osoba iz članka 51. stavka 6. ovoga Zakona, a pripada Trgovačkom društvu i osobama iz članka 17. stavka 3. ovoga Zakona koji su ta sredstva dužni uložiti u kupnju druge šume i/ili šumskog zemljišta u ime i za račun Republike Hrvatske ili za podizanje novih šuma.
+(4) Obvezu plaćanja i rok za uplatu Naknade iz stavka 3. ovoga članka propisuje Tijelo svojim aktom kojim određuje treću osobu iz članka 51. stavka 6. ovoga Zakona, u okviru kupoprodajne cijene odnosno ugovorene naknade prema posebnom propisu. Najmanja visina Naknade iz stavka 3. ovoga članka određuje se obračunom koji izrađuje Trgovačko društvo na poziv Tijela u čijoj se nadležnosti nalazi šuma i šumsko zemljište u vlasništvu Republike Hrvatske koje je izdvojeno sukladno članku 51. stavku 1. ovoga Zakona.
+(5) Ukoliko se izdvajanje šume i šumskog zemljišta iz članaka 51. i 51.a ovoga Zakona vrši bez naknade, po pravomoćnosti akta o izdvajanju drvna masa zatečena na šumi i šumskom zemljištu pripada Trgovačkom društvu.
+(6) Način izračuna Naknade iz stavka 1. ovoga članka ministar će propisati pravilnikom.«.
