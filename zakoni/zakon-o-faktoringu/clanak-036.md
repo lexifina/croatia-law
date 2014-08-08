@@ -1,0 +1,4 @@
+# Članak 36.
+(1) Osim dokumentacije iz članaka 31. i 32. ovoga Zakona, Agencija može, tijekom postupka obrade zahtjeva, zatražiti i druge podatke, odnosno dokumentaciju koju ocijeni potrebnom za odlučivanje o izdavanju suglasnosti, uključujući informacije koje su propisane zakonom kojim se uređuje sprječavanje pranja novca i financiranja terorizma, a koju prikupljaju obveznici toga zakona.
+(2) Agencija će, pri odlučivanju o izdavanju suglasnosti za stjecanje kvalificiranog udjela, ispitati primjerenost izvora sredstava kojima stjecatelj namjerava steći kvalificirani udjel u faktoring-društvu.
+(3) Agencija može, radi pribavljanja informacija potrebnih za odlučivanje o davanju suglasnosti za stjecanje kvalificiranog udjela, obaviti provjeru podataka koje je dostavio namjeravani stjecatelj kvalificiranog udjela.

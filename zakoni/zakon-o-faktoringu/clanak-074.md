@@ -1,0 +1,3 @@
+## Naknada za nadzor
+# Članak 74.
+Za obavljanje nadzora faktoring-društva iz članka 20. ovoga Zakona i njihove podružnice izvan Republike Hrvatske, podružnice faktoring-društava iz druge države članice koje posluju u Republici Hrvatskoj iz članka 59. stavka 2. ovoga Zakona, faktoring-društva iz druge države članice u dijelu poslovanja koje se obavlja neposrednim pružanjem usluga na području Republike Hrvatske iz članka 59. stavka 1. ovoga Zakona te podružnice faktoring-društava iz treće države koje posluju u Republici Hrvatskoj iz članka 61. ovoga Zakona plaćaju Agenciji naknadu za nadzor, čiju će visinu, način izračuna i način plaćanja Agencija propisati pravilnikom.
