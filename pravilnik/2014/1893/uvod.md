@@ -1,0 +1,1 @@
+Na temelju članka 59. stavka 2. Zakona o morskom ribarstvu (»Narodne novine«, br. 81/2013 i 14/2014) i Zaključka Vlade Republike Hrvatske o prihvaćanju Modela financiranja prilagodbe ribolovne flote i investicija u ribarska plovila (klasa: 022-03/14-07/164, urbroj: 50301-05/25-14-2 od 8. svibnja 2014. godine), ministar poljoprivrede donosi
