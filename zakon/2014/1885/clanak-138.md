@@ -1,0 +1,4 @@
+# Članak 138.
+Članak 288. mijenja se i glasi:
+»(1) Novčanom kaznom u iznosu od 500.000,00 do 1.000.000,00 kuna kaznit će se za prekršaj osiguravateljni holding, mješoviti osiguravateljni holding, mješoviti financijski holding, matično društvo za osiguranje odnosno matično društvo za reosiguranje u grupi osiguravatelja ili u slučaju horizontalne grupe predvodnik u grupi koji ne sastavlja izvješća o adekvatnosti kapitala u grupi osiguravatelja, odnosno ne izvještava nadzorno tijelo o adekvatnosti kapitala u grupi osiguravatelja sukladno članku 179. stavku 1. ovoga Zakona.
+(2) Novčanom kaznom u iznosu od 20.000,00 do 50.000,00 kuna kaznit će se za prekršaj iz stavka 1. ovoga članka i odgovorna osoba osiguravateljnog holdinga, mješovitog osiguravateljnog holdinga, mješovitog financijskog holdinga ili matičnog društva za osiguranje odnosno matičnog društva za reosiguranje u grupi osiguravatelja odnosno u slučaju horizontalne grupe predvodnika u grupi.«.

@@ -1,0 +1,5 @@
+# Članak 114.
+U članku 253. stavak 2. mijenja se i glasi:
+»(2) Društvo za posredovanje u osiguranju i reosiguranju smije obavljati samo poslove posredovanja u osiguranju i obavljati druge poslove sukladno odredbama ovoga Zakona.«.
+Stavak 4. mijenja se i glasi:
+»(4) Društvo za posredovanje u osiguranju i reosiguranju može osim poslova posredovanja u osiguranju i reosiguranju obavljati poslove iz članka 16. stavka 7. ovoga Zakona pod uvjetima propisanim pravilnikom nadzornog tijela, poslove nuđenja udjela investicijskih fondova te poslove ponude mirovinskih programa dobrovoljnih mirovinskih fondova i mirovinskih osiguravajućih društava u skladu s odredbama zakona kojima se uređuju poslovanje investicijskih fondova, dobrovoljnih mirovinskih fondova i mirovinskih osiguravajućih društava, kao i surađivati s drugim osobama ovlaštenim za obavljanje poslova posredovanja u osiguranju i reosiguranju u obavljanju poslova posredovanja u osiguranju i reosiguranju pod uvjetima propisanim pravilnikom nadzornog tijela.«.

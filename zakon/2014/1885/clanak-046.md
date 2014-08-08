@@ -1,0 +1,10 @@
+# Članak 46.
+Naslov iznad članka 85. mijenja se i glasi: »Mjere nadzora nad društvom za osiguranje, odnosno društvom za reosiguranje druge države članice.«
+Članak 85. mijenja se i glasi:
+»(1) Nadzorno tijelo može izreći odgovarajuće nadzorne mjere iz članka 159. ovoga Zakona, ako društvo za osiguranje, odnosno društva za reosiguranje druge države članice na području Republike Hrvatske krši članak 82. stavak 2. ovoga Zakona, članak 83. stavak 13. ovoga Zakona i druge propise kojima je uređeno poslovanje društava za osiguranje.
+(2) Ako društvo za osiguranje, odnosno društva za reosiguranje druge države članice u roku određenom rješenjem nadzornog tijela ne postupi sukladno rješenju iz stavka 1. ovoga članka, nadzorno tijelo će o tome obavijestiti nadležno nadzorno tijelo te matične države članice.
+(3) Ako su ispunjeni uvjeti iz članka 162. stavka 2. ovoga Zakona, nadzorno tijelo može društvu za osiguranje, odnosno društvu za reosiguranje zbog nezakonitosti i nepravilnosti počinjenih na području Republike Hrvatske izreći i dodatnu mjeru zabrane sklapanja novih ugovora o osiguranju, odnosno ugovora o reosiguranju.
+(4) Prije izricanja mjere iz stavka 3. ovoga članka nadzorno tijelo dužno je o tome obavijestiti nadležno nadzorno tijelo matične države članice.
+(5) Iznimno od stavka 4. ovoga članka, nadzorno tijelo može društvu za osiguranje odnosno društvu za reosiguranje druge države članice izreći privremenu zabranu sklapanja novih ugovora o osiguranju, odnosno ugovora o reosiguranju, a da prethodno nije obavijestilo nadležno nadzorno tijelo matične države članice ako to, radi zaštite osiguranika, nije moguće odgađati.
+(6) Nadzorno tijelo dužno je o mjeri iz stavka 5. ovoga članka neodgodivo obavijestiti nadležno nadzorno tijelo države članice, EIOPA-u i Europsku komisiju.
+(7) Ovaj članak na odgovarajući način primjenjuje se i na podružnicu društva za osiguranje, odnosno društva za reosiguranje druge države članice, koja na području Republike Hrvatske obavlja poslove osiguranja, ako krši članak 82. stavak 2. i članak 83. stavak 13. ovoga Zakona.«.

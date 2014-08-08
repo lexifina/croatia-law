@@ -1,0 +1,5 @@
+# Članak 120.
+U članku 264. stavak 3. mijenja se i glasi:
+»(3) Na društva za zastupanje u osiguranju iz stavka 2. ovoga članka na odgovarajući način primjenjuje se: članak 83. stavak 13., članak 233., članak 234., članak 235., članak 238., članak 239., članak 245., članak 247., članak 250., članak 251., članak 256., članak 257., članak 258.a, članak 259., članak 261. i članak 262. ovoga Zakona glede poslova koje društvo za zastupanje u osiguranju, odnosno društvo za posredovanje u osiguranju i reosiguranju obavlja na području Republike Hrvatske.«.
+Iza stavka 3. dodaje se stavak 4. koji glasi:
+»(4) Na društva za posredovanje u osiguranju i reosiguranju iz stavka 2. ovoga članka na odgovarajući način primjenjuje se: članak 83. stavak 13., članak 240., članak 241., članak 242., članak 244., članak 245., članak 247., članak 253., članak 256., članak 257., članak 258.a, članak 259., članak 261. i članak 262. ovoga Zakona glede poslova koje društvo za zastupanje u osiguranju, odnosno društvo za posredovanje u osiguranju i reosiguranju obavlja na području Republike Hrvatske.«.

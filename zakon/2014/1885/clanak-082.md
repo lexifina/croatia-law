@@ -1,0 +1,15 @@
+# Članak 82.
+Iza članka 159. dodaju se naslovi i članci 159. a i 159. b koji glase:
+»Preporuke
+Članak 159. a
+(1) Kada nadzorno tijelo u okviru nadzora te provjere i procjene financijske stabilnosti i položaja društva za osiguranje, kao i provjere i procjene rizika kojima je društvo za osiguranje izloženo ili bi moglo biti izloženo u svom poslovanju, utvrdi slabosti, manjkavosti, nedostatke i nepravilnosti koje nemaju značaj kršenja ovoga Zakona ili na temelju njega donesenih propisa te drugih zakona kojima se uređuje poslovanje društva za osiguranje i propisa donesenih na temelju istih ili ako nadzorno tijelo smatra potrebnim da društvo za osiguranje poduzme radnje i aktivnosti radi poboljšanja poslovanja, financijske stabilnosti i položaja te smanjenja rizika kojima je izloženo ili može biti izloženo u svom poslovanju, nadzorno tijelo dat će preporuke upravi društva za osiguranje.
+(2) Preporuke sadrže utvrđene i procijenjene značajne rizike i probleme kojima je društvo za osiguranje izloženo ili bi moglo biti izloženo, odnosno utvrđene slabosti, manjkavosti, nedostatke i nepravilnosti koje nemaju značaj kršenja ovoga Zakona te upute upravi društva za osiguranje u cilju njihovog otklanjanja, poboljšanja poslovanja, financijske stabilnosti i položaja te primjerenog upravljanja i smanjenja rizika kojima je društvo za osiguranje izloženo ili može biti izloženo u svom poslovanju.
+(3) Uprava društva za osiguranje dužna je nadzornom tijelu dostaviti plan, rokove i dinamiku postupanja po preporukama nadzornog tijela.
+(4) Kako bi utvrdilo poboljšanje poslovanja, financijske stabilnosti i položaja te smanjenja rizika kojima je društvo za osiguranje izloženo ili može biti izloženo u svom poslovanju, nadzorno tijelo može provesti ponovni nadzor nad društvom za osiguranje.
+Opomena
+Članak 159. b
+(1) Kad nadzorno tijelo tijekom nadzora utvrdi nezakonitosti i nepravilnosti, a priroda i opseg utvrđenih nezakonitosti i nepravilnosti nemaju značajan utjecaj i posljedice na poslovanje društva za osiguranje, na tržište i/ili osiguranike, ugovaratelje osiguranja i korisnike iz ugovora o osiguranju, nadzorno tijelo može izreći opomenu društvu za osiguranje.
+(2) Nadzorno tijelo može opomenu javno objaviti.
+(3) Opomena nadzornog tijela može sadržavati i nalog da društvo za osiguranje ispravi utvrđene nezakonitosti i nepravilnosti te rokove u kojima je društvo za osiguranje dužno to učiniti i dinamiku obavještavanja nadzornog tijela o poduzetim radnjama i aktivnostima.
+(4) Ako u roku iz stavka 3. ovoga članka društvo za osiguranje ne postupi po nalogu nadzornog tijela iz stavka 3. ovoga članka, nadzorno tijelo će donijeti rješenje za otklanjanje utvrđenih nezakonitosti i nepravilnosti.
+(5) Nadzorno tijelo je ovlašteno provesti ponovni nadzor nad društvom za osiguranje u mjeri i opsegu potrebnima kako bi se utvrdilo je li društvo za osiguranje postupilo po nalogu nadzornog tijela iz stavka 3. ovoga članka te jesu li utvrđene nezakonitosti i nepravilnosti otklonjene na odgovarajući način i u odgovarajućem opsegu.«.
