@@ -1,0 +1,2 @@
+# Članak 67.
+Okvirni broj potrebnih državnih službenika, namještenika i djelatnih vojnih osoba u Ministarstvu prikazan u tablici koja je sastavni dio Uredbe o unutarnjem ustrojstvu Ministarstva obrane (»Narodne novine«, br. 26/2012 i 112/2012) zamjenjuje se Okvirnim brojem potrebnih državnih službenika, namještenika i djelatnih vojnih osoba u Ministarstvu koji je sadržan u tablici u prilogu ove Uredbe i njezin je sastavni dio.

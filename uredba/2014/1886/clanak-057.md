@@ -1,0 +1,5 @@
+# Članak 57.
+Iza članka 124. dodaje se članak 124.a i naslov iznad njega koji glase:
+»9.4.5. Odjel prometa
+Članak 124.a
+Odjel prometa obavlja stručne i upravne poslove kroz propisivanje funkcioniranja prometa i prijevoznih procesa. Sudjeluje u procesu sklapanja ugovora za usluge prijevoza osoba i opreme u zemlji i inozemstvu te usluga u potpori tim prijevoznim procesima. Nadležan je za izradu podzakonskih propisa iz područja funkcioniranja prometa i prijevoznih procesa. Inicira izrade prometnih studija i izrađuje raščlambe sa ciljem usmjeravanja i optimalizacije prijevoznih procesa. Vodi evidenciju registriranih vozila te obavlja poslove registracije vojno-civilne i odjavu registriranih vozila. Izrađuje analizu sigurnosti cestovnog prometa, predlaže mjere za povećanje sigurnosti prometa te obavlja poslove likvidacije šteta od auto odgovornosti. Nadležan je za izradu podzakonskih akata za nesmetano funkcioniranje prometa i prijevoznih procesa. Sudjeluje s ostalim korisnicima Ministarstva i Oružanih snaga u procesu izrade informatičkih programa za praćenje prometa i programa za optimalizaciju prijevoznih procesa.«.

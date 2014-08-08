@@ -1,0 +1,5 @@
+# Članak 59.
+Iza članka 155. dodaje se članak 155.a i naslov iznad njega koji glase:
+»10.3.2.2. Odjel za materijalno zbrinjavanje informacijskim i elektroničkim sustavima
+Članak 155.a
+Odjel za materijalno zbrinjavanje informacijskim i elektroničkim sustavima obavlja upravne i stručne poslove: opremanja, modernizacije te osiguranja održavanja komunikacijskih, računalnih i drugih elektroničkih sustava, kao i osiguranja komunikacijsko-informacijskih usluga Ministarstva i Oružanih snaga. Odjel usklađuje prijedloge planova opremanja, planira i provodi opremanje u skladu s usvojenim planovima opremanja. Organizira ispitivanja, razvoj i integriranje sustava iz svoje nadležnosti. Prati razvojne i proizvodne mogućnosti gospodarstva za potrebe obrane u području komunikacijskih, informacijskih i elektroničkih sustava i usluga te predlaže njihovo angažiranje. Obavlja upravne i stručne poslove koji se odnose na izradu planova opremanja, modernizacije, održavanja informacijskih, komunikacijskih i elektroničkih sustava i usluga. Odjel je nositelj planiranja izgradnje i održavanja komunikacijsko-informacijske infrastrukture. Obavlja i druge poslove iz svog djelokruga.«.

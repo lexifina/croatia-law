@@ -1,0 +1,5 @@
+# Članak 7.
+Naslov iznad članka 10. i članak 10. mijenjaju se i glase:
+»2.1.5. Podregistar za distribuciju i prijevoz klasificiranih podataka NATO-a i EU-a
+Članak 10.
+Podregistar za distribuciju i prijevoz klasificiranih podataka NATO-a i EU-a je ustrojstvena jedinica razine odjela koja obavlja poslove unutarnje distribucije i prijevoza klasificiranih podataka NATO-a i EU-a, poslove razmjene informacija i dokumenata putem sustava Središnjeg registra i podregistara u skladu s prihvaćenim sigurnosnim standardima Republike Hrvatske, NATO-a i EU-a definiranim potpisivanjem sigurnosnih sporazuma. Podregistar prima, pohranjuje i distribuira dokumente svih stupnjeva tajnosti u komunikaciji s NATO-om i EU-om te implementira i brine se o provedbi sigurnosnih standarda koje je Republika Hrvatska preuzela potpisivanjem sigurnosnih sporazuma s NATO-om i EU-om. Podregistar za potrebe Republike Hrvatske organizira prijevoz klasificiranih podataka između NATO-a i Središnjeg registra Ureda Vijeća za nacionalnu sigurnost. U svezi s obavljanjem navedenih poslova, Podregistar neposredno surađuje s ustrojstvenim jedinicama Ministarstva i Oružanih snaga.«.
