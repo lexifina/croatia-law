@@ -1,0 +1,7 @@
+# Članak 4.
+(1) Iskaznice službenika koji obavljaju poslove poreznog nadzora (Obrazac »A«), osim podataka navedenih u članku 3. stavku 1. ovoga Pravilnika, na prednjoj strani, u nazivu, sadrže i ovlaštenje »POREZNI NADZOR« te slovo »A« ispred serijskog broja.
+(2) Iskaznice službenika koji obavljaju poslove otkrivanja porezno kaznenih djela (Obrazac »B«), osim podataka navedenih u članku 3. stavku 1. ovoga Pravilnika, na prednjoj strani, u nazivu, sadrže i ovlaštenje »OTKRIVANJE POREZNO KAZNENIH DJELA« te slovo »B« ispred serijskog broja.
+(3) Iskaznice službenika koji obavljaju poslove naplate (Obrazac »C«), osim podataka navedenih u članku 3. stavku 1. ovoga Pravilnika, na prednjoj strani, u nazivu, sadrže i ovlaštenje »NAPLATU« te slovo »C« ispred serijskog broja.
+(4) Iskaznice službenika koji obavljaju poslove unutarnje kontrole (Obrazac »D«), osim podataka navedenih u članku 3. stavku 1. ovoga Pravilnika, na prednjoj strani, u nazivu, sadrže i ovlaštenje »UNUTARNJU KONTROLU« te slovo »D« ispred serijskog broja.
+(5) Iskaznice službenika koji obavljaju poslove unutarnjeg nadzora (Obrazac »E«), osim podataka navedenih u članku 3. stavku 1. ovoga Pravilnika, na prednjoj strani, u nazivu, sadrže i ovlaštenje »UNUTARNJI NADZOR« te slovo »E« ispred serijskog broja.
+(6) Iskaznice službenika (Obrazac »F«), osim podataka navedenih u članku 3. stavku 2. ovoga Pravilnika, na prednjoj strani sadrže slovo »F« ispred serijskog broja.
