@@ -1,0 +1,4 @@
+# Članak 5.
+(1) Unutarnji nadzor i unutarnju kontrolu provode ovlašteni službenici Središnjeg ureda, Sektora za strategiju, unutarnju kontrolu i unutarnji nadzor, kao ustrojstvene jedinice nadležne za obavljanje poslova unutarnjeg nadzora i unutarnje kontrole (u daljnjem tekstu: Sektor), sukladno propisima o unutarnjem ustrojstvu i unutarnjem redu Ministarstva financija.
+(2) Osim osoba iz stavka 1. ovoga članka, za provođenje pojedinih zadataka u vezi s unutarnjim nadzorom i unutarnjom kontrolom, ravnatelj Porezne uprave (u daljnjem tekstu: ravnatelj) može odrediti i druge službenike Porezne uprave.
+(3) Kod određivanja ovlaštenih službenika za provođenje određenog unutarnjeg nadzora i određene unutarnje kontrole vodi se računa o okolnostima koje utječu ili bi mogle utjecati na obvezu izuzeća navedene osobe sukladno odredbama propisa kojima je uređeno izuzeće službene osobe.
