@@ -1,0 +1,6 @@
+## Ugovor o poslovnoj suradnji o ponudi mirovinskih programa
+# Članak 2.
+(1) Pravna osoba iz članka 120. Zakona obavlja ponudu mirovinskih programa Društva i pravodobno prosljeđuje Društvu sklopljene ugovore o mirovinama na temelju pisanog ugovora o poslovnoj suradnji sklopljenim s Društvom.
+(2) Prije sklapanja ugovora iz stavka 1. ovoga članka Društvo je dužno utvrditi da pravna osoba iz stavka 1. ovoga članka ispunjava zakonske uvjete i uvjete propisane člankom 3. ovoga Pravilnika za obavljanje ponude mirovinskih programa i prosljeđivanje Društvu sklopljenih ugovora o mirovinama.
+(3) Pravna osoba iz stavka 1. ovoga članka koja je s Društvom sklopila ugovor o poslovnoj suradnji iz stavka 1. ovoga članka, ne smije obavljanje navedenih poslova prenijeti na treću osobu.
+(4) Ugovor iz stavka 1. ovoga članka mora sadržavati odredbu sukladno kojoj Društvo u potpunosti odgovara za poslove koje je povjerilo pravnoj osobi iz stavka 1. ovoga članka i odredbu da pravna osoba iz stavka 1. ovoga članka odgovara Društvu za greške ili propuste fizičke osobe koja ima sklopljen ugovor s tom pravnom osobom, a ne pridržava se Zakona, ovoga Pravilnika i ugovornih odredbi u obavljanju poslova za Društvo.
