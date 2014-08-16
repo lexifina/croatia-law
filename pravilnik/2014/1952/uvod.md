@@ -1,0 +1,1 @@
+Na temelju članka 92. stavka 5., članka 93. stavka 5. i članka 98. stavka 4. točke 2. Zakona o mirovinskim osiguravajućim društvima (»Narodne novine« broj 22/14; dalje u tekstu: Zakon) Hrvatska agencija za nadzor financijskih usluga (dalje u tekstu: Agencija) na sjednici Upravnog vijeća održanoj 25. srpnja 2014. godine donosi
