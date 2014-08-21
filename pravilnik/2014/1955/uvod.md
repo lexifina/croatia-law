@@ -1,0 +1,1 @@
+Na temelju članka 78. Zakona o izmjenama i dopunama Zakona o strancima (»Narodne novine«, broj 74/13) ministar nadležan za unutarnje poslove uz pribavljeno mišljenje ministra nadležnog za socijalnu politiku i mlade, ministra nadležnog za zdravlje, ministra nadležnog za obrazovanje i pravobraniteljice za djecu, donosi
