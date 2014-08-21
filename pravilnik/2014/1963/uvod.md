@@ -1,0 +1,1 @@
+Na temelju članka 130. stavka 5. i članka 131. stavka 4. Zakona o mirovinskim osiguravajućim društvima (»Narodne novine«, br. 22/2014) Upravno vijeće Središnjeg registra osiguranika na svojoj 122. sjednici, uz suglasnost Hrvatske agencije za nadzor financijskih usluga, donijelo je
