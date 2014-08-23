@@ -1,0 +1,1 @@
+Na temelju članka 1. Zakona o ovlasti Vlade Republike Hrvatske da uredbama uređuje pojedina pitanja iz djelokruga Hrvatskoga sabora (»Narodne novine«, broj 121/2013), Vlada Republike Hrvatske je na sjednici održanoj 21. kolovoza 2014. godine donijela
