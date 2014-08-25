@@ -1,0 +1,1 @@
+Na temelju članka 10. stavak 3. Pravilnika o mjerilima za određivanje iznosa i namjeni naknade ostvarene za sklapanje životnog partnerstva izvan službene prostorije (»Narodne novine«, broj 99/14), ministar uprave donosi
