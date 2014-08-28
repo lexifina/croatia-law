@@ -1,0 +1,4 @@
+# Članak 16.
+(1) Mirovinsko društvo je dužno, kada je to moguće, bez odgode na svojim mrežnim stranicama na vidljivom i lako dostupnom mjestu objaviti svaki pravni i poslovni događaj u vezi s mirovinskim društvom ili otvorenim fondom, kada se radi o događajima koji bi mogli značajno utjecati na poslovanje otvorenog fonda.
+(2) Mirovinsko društvo je dužno, kada je to moguće, bez odgode objaviti ili obavijestiti članove zatvorenog fonda na način propisan prospektom fonda o svakom pravnom i poslovnom događaj u vezi s mirovinskim društvom ili zatvorenim fondom, kada se radi o događajima koji bi mogli značajno utjecati na poslovanje zatvorenog fonda.
+(3) Događaji iz stavka 1. i 2. ovoga članka moraju biti jasno obrazloženi, na način lako razumljiv članovima fonda, s detaljnjim objašnjenjem o utjecaju događaja na poslovanje fonda.
