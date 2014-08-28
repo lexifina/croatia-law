@@ -1,0 +1,1 @@
+Na temelju članka 150. stavka 3. i članka 151. stavka 3. Zakona o dobrovoljnim mirovinskim fondovima (»Narodne novine« broj 19/2014) Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća održanoj 14. kolovoza 2014. godine donosi
