@@ -1,0 +1,1 @@
+Na temelju članka 115. stavka 2., članka 118. stavka 6., članka 120. i članka 123. stavka 2. Zakona o obveznim mirovinskim fondovima (»Narodne novine« broj 19/2014) Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća održanoj 14. kolovoza 2014. godine donosi
