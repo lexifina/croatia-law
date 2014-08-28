@@ -1,0 +1,1 @@
+Na temelju članka 31. stavka 7. Zakona o obveznim mirovinskim fondovima (»Narodne novine« broj 19/14) i članka 42. stavka 7. Zakona o dobrovoljnim mirovinskim fondovima (»Narodne novine« broj 19/14) Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća održanoj 14. kolovoza 2014. godine donosi
