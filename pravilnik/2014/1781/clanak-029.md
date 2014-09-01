@@ -1,0 +1,6 @@
+## DISPEČER U ELEKTROENERGETSKOM SUSTAVU
+# Članak 29.
+Poslove i radne zadatke dispečera u elektroenergetskom sustavu može obavljati:
+1. radnik s visokom stručnom spremom, magistar inženjer - diplomski studij u trajanju pet godina (VII. stupanj obrazovanja) elektrotehničkog usmjerenja, s najmanje jednom godinom radnog iskustva na poslovima u vezi s proizvodnjom, prijenosom ili distribucijom električne energije, ako je nakon osposobljavanja uspješno obavio provjeru znanja (Stručni ispit) prema ovome Pravilniku, ili
+2. radnik s visokom stručnom spremom, prvostupnik (baccalaureus) inženjer - dodiplomski studij u trajanju tri (četiri) godine (VI. stupanj obrazovanja) elektrotehničkog usmjerenja, s najmanje tri godine radnog iskustva na poslovima u vezi s proizvodnjom, prijenosom ili distribucijom električne energije, ako je nakon osposobljavanja uspješno obavio provjeru znanja (Stručni ispit) prema ovome Pravilniku, ili
+3. radnik sa srednjom stručnom spremom - (IV. stupanj obrazovanja) četverogodišnji nastavni program, srednja tehnička škola elektrotehničkog usmjerenja, s najmanje tri godine radnog iskustva na poslovima u vezi s proizvodnjom, prijenosom ili distribucijom električne energije, ako je nakon osposobljavanja uspješno obavio provjeru znanja (Stručni ispit) prema ovome Pravilniku.

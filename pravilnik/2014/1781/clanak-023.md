@@ -1,0 +1,6 @@
+## RUKOVATELJ KLIMATIZACIJE
+# Članak 23.
+Poslove i radne zadatke rukovatelja klimatizacije može obavljati:
+1. radnik sa srednjom stručnom spremom - (IV. stupanj obrazovanja) četverogodišnji nastavni program, srednja tehnička škola strojarskog, brodarskog ili elektrotehničkog usmjerenja, s najmanje jednom godinom radnog iskustva u struci, ako je nakon osposobljavanja uspješno obavio provjeru znanja (Stručni ispit) prema ovome Pravilniku, ili
+2. radnik sa srednjom stručnom spremom - (IV. stupanj obrazovanja) četverogodišnji nastavni program, gimnazija ili srednja tehnička škola strukovnog područja prometa, drvoprerade, građevine-smjer mehanizacija, kemije, metalurgije, rudarstva ili poljoprivrede-smjer mehanizacija, s najmanje tri godine radnog iskustva u struci, ako je nakon osposobljavanja uspješno obavio provjeru znanja (Stručni ispit) prema ovome Pravilniku, ili
+3. radnik sa srednjom stručnom spremom - (III. stupanj obrazovanja) trogodišnji program industrijske tehničke ili obrtničke škole, prema obrazovnom programu strojarskog ili elektrotehničkog usmjerenja, s najmanje pet godina radnog iskustva u struci, ako je nakon osposobljavanja uspješno obavio provjeru znanja (Stručni ispit) prema ovome Pravilniku.

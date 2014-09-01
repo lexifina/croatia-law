@@ -1,0 +1,5 @@
+## IV. STRUČNO OSPOSOBLJAVANJE
+# Članak 33.
+Stručno osposobljavanje sadrži teorijski i praktični dio.
+Teorijski dio stručnog osposobljavanja provodi se temeljem »Programa stručnog osposobljavanja radnika koji obavljaju poslove i radne zadatke rukovanja energetskim sustavima, postrojenjima, strojevima i uređajima«, kojega donosi predsjednik ispitne komisije na temelju prijedloga područnih ispitnih komisija i koji se objavljuje na web stranicama Ministarstva gospodarstva (www.mingo.hr) i sadrži grupu općih predmeta i grupu stručnih predmeta. Opći predmeti sačinjavaju dio koji je jedinstven za sva zanimanja, dok je stručni dio ovisan o poslovima i radnim zadacima za koje se kandidat priprema.
+Temeljem Programa stručnog osposobljavanja radnika koji obavljaju poslove i radne zadatke rukovanja energetskim sustavima, postrojenjima, strojevima i uređajima, izvođač programa stručnog osposobljavanja na svojim web stranicama objavljuje detaljni plan i program teorijskog osposobljavanja s ispisanim cjelinama i brojem sati za pojedinu cjelinu.

@@ -1,0 +1,5 @@
+## STROJAR PARNIH TURBINA
+# Članak 8.
+Poslove i radne zadatke strojara parnih turbina može obavljati:
+1. radnik sa srednjom stručnom spremom - (IV. stupanj obrazovanja) četverogodišnji nastavni program, srednja tehnička škola strojarskog, brodarskog, elektrotehničkog ili kemijsko-tehnološkog usmjerenja, s prethodno položenim Stručnim ispitom za poslove Strojara kotla i/ili Strojara kotlovskog postrojenja, s najmanje jednom godinom radnog iskustva u struci, ako je nakon osposobljavanja uspješno obavio provjeru znanja (Stručni ispit) prema ovome Pravilniku, ili
+2. radnik sa srednjom stručnom spremom - (III. stupanj obrazovanja) trogodišnji program industrijske tehničke ili obrtničke škole, prema obrazovnom programu strojarskog ili elektrotehničkog usmjerenja, s prethodno položenim Stručnim ispitom za poslove Strojara kotla i/ili Strojara kotlovskog postrojenja, s najmanje tri godine radnog iskustva u struci, ako je nakon osposobljavanja uspješno obavio provjeru znanja (Stručni ispit) prema ovome Pravilniku.
