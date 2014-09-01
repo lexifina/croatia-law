@@ -1,0 +1,2 @@
+# Članak 81.
+Ministar nadležan za poslove pravosuđa donijet će u roku od trideset dana od dana stupanja na snagu ovoga Zakona pravilnike iz članka 43., članka 55. i članka 62. ovoga Zakona i pravilnike o izmjenama i dopunama Pravilnika o sadržaju i načinu vođenja očevidnika nekretnina i pokretnina koje se prodaju u ovršnom postupku, Pravilnika o obliku i sadržaju zahtjeva za izravnu naplatu i Pravilnika o registru zadužnica i bjanko zadužnica radi usklađenja s odredbama ovoga Zakona.

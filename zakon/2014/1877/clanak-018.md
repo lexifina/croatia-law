@@ -1,0 +1,4 @@
+# Članak 18.
+U članku 32. iza stavka 2. dodaju se stavci 3. i 4. koji glase:
+»(3) Ako tijekom ovršnog postupka dođe do promjene vjerovnika, novi vjerovnik nastavlja ovršni postupak kao ovrhovoditelj umjesto prvobitnog ovrhovoditelja, ako javnom ili ovjerovljenom privatnom ispravom dokaže da je nakon pokretanja ovršnog postupka tražbina na njega prenesena ili da je na njega na drugi način prešla. Ako se prijenos ne može dokazati na taj način, prijenos tražbine dokazuje se pravomoćnom odlukom donesenom u parničnom postupku. Novi ovrhovoditelj mora primiti ovršni postupak u onom stanju u kojem se on nalazi u trenutku kad u njega stupa. Za promjenu ovrhovoditelja nije potreban pristanak ovršenika.
+(4) Odredba stavka 3. ovoga članka na odgovarajući način se primjenjuje i ako tijekom ovršnog postupka dođe do promjene dužnika.«.

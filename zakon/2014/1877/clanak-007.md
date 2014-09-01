@@ -1,0 +1,2 @@
+# Članak 7.
+U članku 12. stavku 1. riječi: »dopuštena je samo revizija iz članka 382. stavka 2. Zakona o parničnom postupku (»Narodne novine«, br. 53/91., 91/92., 112/99., 88/01., 117/03., 88/05., 2/07., 84/08., 96/08., 123/08., 57/11. i 148/11. - pročišćeni tekst)« zamjenjuju se riječima: »revizija se može izjaviti samo ako odluka donesena u drugom stupnju ovisi o rješenju nekog materijalnopravnog ili postupovnopravnog pitanja važnog za osiguranje jedinstvene primjene prava i ravnopravnosti svih u njegovoj primjeni, u skladu s pravilima parničnog postupka«.
