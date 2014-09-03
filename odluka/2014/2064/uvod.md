@@ -1,0 +1,1 @@
+Na osnovi odredbi članka 20. stavka 6. Zakona o obveznom zdravstvenom osiguranju (»Narodne novine« 80/13. i 137/13.) i članka 26. točke 10. Statuta Hrvatskog zavoda za zdravstveno osiguranje (»Narodne novine« broj 18/09., 33/10., 08/11. i 1/14.) Upravno vijeće Hrvatskog zavoda za zdravstveno osiguranje na 68. sjednici održanoj 27. kolovoza 2014. godine, donijelo je
