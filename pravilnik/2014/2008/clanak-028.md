@@ -1,0 +1,15 @@
+# Članak 28.
+Mjerenje i upravljanje rizicima
+(1) Mirovinsko društvo dužno je, uzimajući u obzir profile rizičnosti i definiranu prihvatljivu razinu rizika mirovinskog društva i mirovinskih fondova kojima upravlja, propisati postupke, alate i tehnike mjerenja i upravljanja rizicima kako bi:
+1. rizici kojima su mirovinsko društvo i mirovinski fondovi kojima upravlja izloženi ili bi mogli biti izloženi u svakom trenutku mogli biti mjerljivi i kako bi se njima moglo upravljati,
+2. osiguralo usklađenost s ograničenjima ukupne izloženosti mirovinskog fonda, ograničenjima izloženosti riziku druge ugovorne strane i ograničenjima izloženosti riziku koncentracije u izdavatelju u skladu sa Zakonom i ovim pravilnikom.
+(2) Mirovinsko društvo dužno je, kako bi ispunilo odredbe iz stavka 1. ovoga članka, za mirovinske fondove kojim upravlja:
+1. osigurati primjenu postupaka, alata i tehnika za mjerenje rizika koji su nužni kako bi osigurali da su rizici preuzetih pozicija i njihov doprinos ukupnom profilu rizičnosti točno izmjereni na temelju ispravnih i pouzdanih podataka i da su postupci, alati i tehnike upravljanja rizicima primjereno dokumentirani,
+2. periodički provoditi retroaktivna testiranja (engl. back-testing) kako bi se provjerila ispravnost postupaka mjerenja rizika koja uključuju predviđanja na temelju modela i procjene,
+3. periodički provoditi stres testove i analize scenarija s ciljem otklanjanja rizika koji proizlaze iz mogućih promjena tržišnih uvjeta koji bi mogli imati negativan utjecaj na poslovanje mirovinskog fonda,
+4. propisati, primjenjivati i redovito ažurirati interna ograničenja izloženosti rizicima, uzimajući u obzir sve rizike koji su u skladu s člankom 26. stavkom 2. točkom 2. ovoga pravilnika značajni za mirovinsko društvo i mirovinski fond i osigurati dosljednost primjene profila rizičnosti mirovinskog društva i mirovinskog fonda,
+5. osigurati da je razina izloženosti rizicima za mirovinsko društvo i mirovinski fond kojim upravlja u svakom trenutku u skladu s ograničenjima izloženosti rizicima iz točke 4. ovoga stavka,
+6. propisati, primjenjivati i redovito ažurirati primjerene procedure i postupke koji, u slučaju postojećih ili očekivanih prekoračenja ograničenja izloženosti rizicima mirovinskog društva i mirovinskog fonda, u najboljem interesu članova mirovinskog fonda osiguravaju pravovremeno usklađenje s ograničenjima izloženosti rizicima mirovinskog društva i mirovinskog fonda.
+(3) Mirovinsko društvo dužno je primjereno upravljati rizikom likvidnosti s ciljem da u svakom trenutku osigura usklađenost imovine mirovinskog fonda kojim upravlja s obvezama, a posebice onima za koje procjenjuje da će nastati na temelju prestanka članstva u mirovinskom fondu.
+(4) Mirovinsko društvo dužno je periodički provoditi stres test koji omogućuje procjenu rizika likvidnosti mirovinskog društva i mirovinskog fonda u izvanrednim okolnostima.
+(5) Mirovinsko društvo dužno je osigurati da likvidnost ulaganja mirovinskog fonda kojim upravlja bude u skladu s obvezama nastalima temeljem prestanka članstva u mirovinskom fondu, profilom rizičnosti mirovinskog fonda, stukturom članova i tržišnim okolnostima.

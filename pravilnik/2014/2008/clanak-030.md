@@ -1,0 +1,7 @@
+# Članak 30.
+Rizik druge ugovorne strane i koncentracije u izdavatelju
+(1) Mirovinsko društvo dužno je osigurati da rizik druge ugovorne strane koji proizlazi iz OTC izvedenica, bude u skladu s ograničenjima iz članaka 125. do 129. Zakona.
+(2) Mirovinsko društvo dužno je prilikom izračuna izloženosti mirovinskog fonda drugoj ugovornoj strani u skladu s odredbom članka 132. stavka 2. točke 2. Zakona, u izračun uključiti pozitivnu tržišnu vrijednost ugovora o OTC izvedenicama koji je zaključen s tom ugovornom stranom.
+(3) Mirovinsko društvo dužno je, kada u ime mirovinskog fonda prenosi kolateral drugoj ugovornoj strani, vrijednost kolaterala uključiti u izračun izloženosti prema drugoj ugovornoj strani iz članka 132. stavka 2. točke 2. Zakona. Preneseni kolateral smije se uključiti u izračun izloženosti drugoj ugovornoj strani na neto osnovi samo ako je mirovinsko društvo u mogućnosti pravno izvršiti sporazume o netiranju s drugom ugovornom stranom u ime mirovinskog fonda.
+(4) Mirovinsko društvo dužno je ograničenja koncentracije izdavatelja iz članka 126. stavka 1. Zakona izračunavati na osnovi izloženosti temeljnoj imovini nastaloj korištenjem financijskih izvedenica, u skladu s metodom izloženosti utemeljenoj na obvezama.
+(5) Mirovinsko društvo dužno je uključiti svaku izloženost riziku druge ugovorne strane proizašlu iz transakcija OTC izvedenicama u izračun izloženosti prema drugoj ugovornoj strani iz članka 132. stavka 2. točke 2. Zakona.
