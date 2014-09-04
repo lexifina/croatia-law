@@ -1,0 +1,2 @@
+# Članak 19.
+Mirovinskom društvu nije dozvoljeno ulaganje imovine mirovinskog fonda u udjele UCITS fondova iz članka 125. stavka 1. točke 6. Zakona i/ili udjele ili dionice u otvorenim alternativnim investicijskim fondovima odnosno dionice ili poslovne udjele u zatvorenim alternativnim investicijskim fondovima iz članka 125. stavka 1. točke 7. Zakona kojima upravlja dioničar odnosno vlasnik udjela mirovinskog društva, odnosno bilo koja osoba koja je povezana osoba s prethodno navedenim osobama.

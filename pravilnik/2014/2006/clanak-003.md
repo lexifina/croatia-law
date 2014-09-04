@@ -1,0 +1,6 @@
+## Uređena tržišta
+# Članak 3.
+(1) Uređeno tržište u smislu Zakona je tržište iz Republike Hrvatske, druge države članice ili treće države koja je članica Organizacije za gospodarsku suradnju i razvoj (dalje: OECD), koje ispunjava uvjete za uređeno tržište u smislu odredbi zakona koji uređuje tržište kapitala u Republici Hrvatskoj i/ili drugoj državi članici.
+(2) Službeno tržište i drugi segment uređenog tržišta u smislu Zakona su tržišta iz Republike Hrvatske, druge države članice ili treće države koja je članica OECD-a za koja su odredbama zakona koji uređuje tržište kapitala, pripadajućim podzakonskim aktima i/ili relevantnim pravilima operatera uređenog tržišta propisani stroži uvjeti za uvrštenje i zaštitu ulagatelja u odnosu na najmanje strogi segment uređenog tržišta iz stavka 1. ovoga članka.
+(3) Mirovinsko društvo dužno je internim procedurama uspostaviti učinkoviti sustav provjere zadovoljavaju li tržišta iz trećih država članica OECD-a iz stavaka 1. i 2. ovoga članka uvjete da bi se mogla smatrati uređenim tržištem odnosno službenim tržištem i drugim segmentom uređenog tržišta, kako je to propisano stavcima 1. i 2. ovoga članka.
+(4) Mirovinsko društvo dužno je svaku provjeru iz stavka 3. ovoga članka dokumentirati i čuvati u rokovima propisanim Zakonom i pripadajućim podzakonskim aktima.
