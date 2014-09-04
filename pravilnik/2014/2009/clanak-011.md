@@ -1,0 +1,5 @@
+# Članak 11.
+(1) Mirovinsko društvo dužno je uspostaviti i dokumentirati postupke, procese i procedure unutar mirovinskog društva kojima se definira donošenje odluka o ulaganju imovine mirovinskog fonda i imenovati osobe zadužene za donošenje istih.
+(2) Odluke o ulaganju moraju biti donesene na način da, u skladu sa strategijom ulaganja, jasno određuju pojedina ulaganja i uvjete po kojima će se provoditi transakcije za račun mirovinskog fonda.
+(3) Mirovinsko društvo može osobama koje upravljaju imovinom mirovinskog fonda propisati i dodatna prava i uvjete vezane uz investicijski proces i ulaganje imovine mirovinskog fonda, u okviru donesene strategije ulaganja i odluka o ulaganju.
+(4) Odluke o ulaganju moraju biti valjano dokumentirane. Uz odluke, sastavni dio dokumentacije minimalno moraju činiti i podaci na temelju kojih se donose odluke o ulaganju, razlozi koji su utjecali na donošenje odluke i odabir predmetnog ulaganja kao i popis organizacijskih jedinica i/ili osoba odgovornih za provođenje svih odluka o ulaganju.
