@@ -1,0 +1,6 @@
+## Upravljanje likvidnošću
+# Članak 9.
+(1) Mirovinsko društvo dužno je prilikom ulaganja imovine fonda u prenosive vrijednosne papire i instrumente tržišta novca voditi računa o likvidnosti navedenih financijskih instrumenata i njihovom graničnom utjecaju na ukupnu likvidnost portfelja fonda.
+(2) Mirovinsko društvo dužno je kontinuirano voditi računa o likvidnosti portfelja fonda na način da periodično procjenjuje nalazi li se u portfelju fonda dovoljno likvidne imovine kako bi u svakom trenutku moglo udovoljiti zahtjevima likvidnosti nastalima temeljem prestanka članstva u fondu, kako je predviđeno člankom 118. Zakona.
+(3) Prilikom procjene likvidnosti iz stavka 2. ovoga članka mirovinsko društvo dužno je istovremeno voditi računa o imovini i obvezama fonda na način da je likvidnost imovine usklađena s obvezama fonda s obzirom na provođenje ulaganja imovine fonda, zahtjeve za prestanak članstva i redovite isplate mirovina iz fonda. Istovremeno, mirovinsko društvo je dužno provoditi stres testove koji omogućuju procjenu otpornosti likvidnosti fonda na iznimne okolnosti i ostale relevantne rizike koji utječu na likvidnost fonda, uključujući regulatorni rizik.
+(4) Mirovinsko društvo dužno je svaku procjenu iz stavaka 1. i 2. ovoga članka dokumentirati i čuvati u rokovima propisanim Zakonom i pripadajućim podzakonskim aktima.

@@ -1,0 +1,2 @@
+# Članak 2.
+Fond je otvoreni ili zatvoreni dobrovoljni mirovinski fond kojeg na temelju odobrenja Agencije može osnovati društvo za upravljanje dobrovoljnim mirovinskim fondovima, društvo za upravljanje obveznim mirovinskim fondovima ili društvo za upravljanje UCITS fondovima (dalje skupno: mirovinsko društvo) i kojim mirovinsko društvo upravlja u svoje ime, a za zajednički račun članova fonda u skladu s odredbama zakona koji uređuje osnivanje i poslovanje dobrovoljnih mirovinskih fondova.

@@ -1,0 +1,3 @@
+# Članak 10.
+(1) U slučaju dužničkih vrijednosnih papira i instrumenata tržišta novca izdanih u tranšama u okviru programa izdanja, za izračun ograničenja ulaganja iz članka 156. točke 11. i članka 158. stavka 1. Zakona koriste se nedospjeli vrijednosni papiri u opticaju.
+(2) Veličinom alternativnog investicijskog fonda koji zaprima višekratne uplate ulagatelja koje se vrše na poziv društva za upravljanje alternativnim investicijskim fondovima na temelju preuzetih obveza uplate kapitala ulagatelja u skladu s pravilima alternativnog investicijskog fonda, smatra se zbroj iznosa ukupno uplaćenog kapitala i iznosa obveza uplate kapitala na poziv od strane ulagatelja, utvrđen na dan početka rada alternativnog investicijskog fonda.

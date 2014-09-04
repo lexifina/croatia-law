@@ -1,0 +1,2 @@
+# Članak 20.
+Mirovinskom društvu nije dozvoljeno ulaganje imovine fonda u udjele UCITS fondova iz članka 155. stavka 1. točke 3. Zakona i/ili udjele ili dionice u otvorenim alternativnim investicijskim fondovima odnosno dionice ili poslovne udjele u zatvorenim alternativnim investicijskim fondovima iz članka 155. stavka 1. točke 4. Zakona kojima upravlja dioničar odnosno vlasnik udjela mirovinskog društva, odnosno bilo koja osoba koja je povezana osoba s prethodno navedenim osobama.
