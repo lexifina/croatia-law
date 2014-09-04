@@ -1,0 +1,7 @@
+## Umanjenje vrijednosti imovine mirovinskog osiguravajućeg društva
+# Članak 13.
+(1) Sva imovina mirovinskog osiguravajućeg društva, osim imovine klasificirane kao financijska imovina po fer vrijednosti u računu dobiti ili gubitka, podložna je izradi procjene o postojanju dokaza ili okolnosti vezanih uz umanjenje vrijednosti.
+(2) Procjena iz stavka 1. ovoga članka mora se izrađivati svaki put kada postoji objektivni dokaz ili okolnosti koje upućuju na potrebu procjene vrijednosti imovine radi umanjenja, a najmanje na datum sastavljanja tromjesečnih i godišnjih izvještaja mirovinskog osiguravajućeg društva.
+(3) Procjenu iz stavka 1. ovoga članka mirovinsko osiguravajuće društvo dužno je sastaviti u pisanom obliku, neovisno o rezultatu procjene za potrebom umanjenja imovine te uz nju priložiti svu potrebnu dokumentaciju i podatke na temelju kojih je donesena.
+(4) Ako je procjenom iz stavka 1. ovoga članka utvrđeno postojanje dokaza ili okolnosti koje upućuju na umanjenje vrijednosti imovine, mirovinsko osiguravajuće društvo dužno je u pisanom obliku izraditi procjenu umanjenja vrijednosti imovine iz koje su vidljivi svi ulazni podaci koji su korišteni u izračunu kao i njihovi izvori.
+(5) Procjene o postojanju dokaza ili okolnosti vezanih uz umanjenje vrijednosti i procjenu umanjenja vrijednosti imovine iz stavaka 1. i 4. ovoga članka mirovinsko osiguravajuće društvo dužno je izraditi u skladu s Međunarodnim standardima financijskog izvještavanja i odredbama ovoga Pravilnika.

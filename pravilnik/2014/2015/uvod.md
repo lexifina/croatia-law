@@ -1,0 +1,1 @@
+Na temelju članka 97. stavka 3. Zakona o mirovinskim osiguravajućim društvima (»Narodne novine« broj 22/14; dalje u tekstu: Zakon), Hrvatska agencija za nadzor financijskih usluga (dalje u tekstu: Agencija) na sjednici Upravnog vijeća održanoj 20. kolovoza 2014. godine donosi
