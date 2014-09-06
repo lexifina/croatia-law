@@ -1,0 +1,1 @@
+Na temelju članka 30. stavka 1. Zakona o Vladi Republike Hrvatske (»Narodne novine«, broj 150/2011), a u svezi s člankom 147. točkom 1. Zakona o zaštiti potrošača (»Narodne novine«, broj 41/2014), Vlada Republike Hrvatske je na sjednici održanoj 28. kolovoza 2014. godine donijela
