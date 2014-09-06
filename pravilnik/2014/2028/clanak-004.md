@@ -1,0 +1,4 @@
+## Javnost djelovanja Povjerenstva
+# Članak 4.
+(1) Javnost postupka pred Povjerenstvom ostvaruje se javnim objavljivanjem vremena održavanja zakazanih sjednica na internetskoj stranici Povjerenstva i nazočnošću javnosti na sjednicama Povjerenstva osim na dijelu sjednice na kojem se glasuje, objavljivanjem akata Povjerenstva (odluka, mišljenja, očitovanja, zaključaka i drugih akata iz nadležnosti Povjerenstva), te javnom objavom konačnih rezultata nakon provedenog postupka redovne provjere podataka iz podnesenih izvješća o imovinskom stanju dužnosnika.
+(2) Javnost djelovanja Povjerenstva ostvaruje se objavom priopćenja, izvješća, smjernica, uputa, provođenjem savjetovanja sa zainteresiranom javnošću prilikom donošenja općih akata iz nadležnosti Povjerenstva te održavanjem konferencija za medije.
