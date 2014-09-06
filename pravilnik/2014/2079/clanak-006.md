@@ -1,0 +1,6 @@
+## IV. POSTUPAK ZA OSTVARIVANJE PRAVA NA JEDNOKRATNU NOVČANU POMOĆ IZ ČLANKA 7. STAVKA 1. UREDBE
+# Članak 6.
+(1) Postupak za ostvarivanje prava na jednokratnu novčanu pomoć iz članka 7. stavka 1. Uredbe pokreće se na pisani zahtjev korisnika, odnosno njegovog zakonskog zastupnika, opunomoćenika ili skrbnika (Obrazac broj 2).
+(2) Korisnik je u postupku ostvarivanja prava na jednokratnu novčanu pomoć iz članka 7. stavka 1. Uredbe obvezan točno i istinito dati podatke o primljenoj pomoći za podmirenje osnovnih životnih potreba po osnovi drugog propisa.
+(3) Pravo na jednokratnu novčanu pomoć zbog situacije iz članka 7. stavka 1.Uredbe, odnosno teške akutne, teške kronične, maligne bolesti korisnika, te teške akutne, teške kronične, maligne bolesti članova uže obitelji korisnika koji žive u zajedničkom kućanstvu može se ostvariti ukoliko se zahtjev podnese za vrijeme trajanja te situacije.
+(4) Pravo na jednokratnu novčanu pomoć zbog situacije iz članka 7. stavka 1. Uredbe, odnosno teške ozljede korisnika nastale uslijed nesretnog slučaja i teške ozlijede članova uže obitelji korisnika koji žive u zajedničkog kućanstva nastale uslijed nesretnog slučaja te zbog situacije iz članka 7. stavka 1. točke c) i d) Uredbe može se ostvariti ukoliko se zahtjev podnese u roku od 30 dana od nastanka situacije.

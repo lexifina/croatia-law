@@ -1,0 +1,20 @@
+# Članak 10.
+Korisnik je radi ostvarivanja prava na jednokratnu novčanu pomoć iz članka 7. stavka 1. Uredbe, uz popunjeni i potpisani zahtjev iz članka 6. stavka 1. ovoga Pravilnika, dužan priložiti:
+a) Obrazac broj 3,
+b) Obrazac broj 4 (popunjen od strane korisnika i punoljetnih članova kućanstva),
+c) izvadak iz matice rođenih za korisnika i sve članove njegova kućanstva (ukoliko korisnik i članovi njegova kućanstva nisu upisani u nadležni Matični ured, a rođeni su u inozemstvu), ne stariji od šest mjeseci od dana podnošenja zahtjeva,
+d) izvadak iz matice vjenčanih (ukoliko je brak sklopljen u inozemstvu, a nije upisan u nadležni Matični ured), ne stariji od šest mjeseci od dana podnošenja zahtjeva,
+e) potvrda liječnika primarne zdravstvene zaštite o teškoj akutnoj, teškoj kroničnoj ili malignoj bolesti zbog koje se podnosi zahtjev za jednokratnu novčanu pomoć sa šifrom bolesti (MKB) i dijagnozom bolesti ispisanom na hrvatskom jeziku,
+f) potvrda o redovnom školovanju za djecu stariju od 15 godina života, koja su na redovnom školovanju (ne starija od šest mjeseci od dana podnošenja zahtjeva),
+g) dokaz je li korisnik inozemne mirovine, za korisnika i sve članove kućanstva (izjava korisnika i članova kućanstva, te potvrda banke u kojoj osoba prima inozemnu mirovinu ili isplatnog tijela, o visini ostvarene mirovine za prethodnu godinu),
+h) ovjereni kupoprodajni ugovor, ukoliko je došlo do otuđenja motornih vozila,
+i) ovjereni kupoprodajni ugovor, ukoliko je došlo do otuđenja nekretnina,
+j) pravomoćnu presudu o razvodu braka, ukoliko je brak korisnika razveden,
+k) pravomoćno rješenje o invalidnosti korisnika ili člana njegova kućanstva, u slučaju iz članka 23. stavka 1. točke a) ovoga Pravilnika, od nadležnog tijela,
+l) Obrazac broj 6 (potvrda liječnika primarne zdravstvene zaštite o osnovnoj bolesti zbog koje je potreban učestali prijevoz u zdravstvenu ustanovu, u slučaju iz članka 23. stavka 1. točke b) ovoga Pravilnika),
+m) ugovor o dodjeli stambenog prostora na korištenje, ukoliko korisnik i članovi njegova kućanstva stanuju u stambenom prostoru koje je u vlasništvu Republike Hrvatske, jedinice lokalne, područne (regionalne) samouprave, Grada Zagreba ili upravnog tijela, te ugovor o najmu stambenog prostora ukoliko korisnik i članovi njegova kućanstva stanuju u stambenom prostoru fizičke osobe, ovjeren na propisan način,
+n) presliku medicinske dokumentacije za tešku akutnu, tešku kroničnu ili malignu bolest koja nije starija od šest mjeseci od dana podnošenja zahtjeva, te presliku medicinske dokumentacije za tešku ozljedu zbog koje se podnosi zahtjev za jednokratnu novčanu pomoć odnosno otpusno pismo ili drugi dokaz iz kojeg je vidljivo trajanje bolničkog liječenja,
+o) dokaz o elementarnoj nepogodi u situaciji iz članka 7. stavka 1. točke c) Uredbe, (potvrda nadležnog tijela lokalne ili regionalne samouprave),
+p) račune o troškovima pogreba koji glase na podnositelja zahtjeva (u situaciji iz članka 7. stavka 1. točke d) Uredbe),
+q) smrtni list (u situaciji iz članka 7. stavka 1. točke d) Uredbe),
+r) preslika kartice tekućeg ili štednog računa korisnika ili iznimno člana uže obitelji (ako se prilaže preslika kartice tekućeg ili štednog računa člana uže obitelji, potrebno je priložiti i pisanu suglasnost).
