@@ -1,0 +1,1 @@
+Na temelju članka 10. stavka 4. Uredbe o načinu trgovanja emisijskim jedinicama stakleničkih plinova (»Narodne novine«, broj 69/2012), Vlada Republike Hrvatske je na sjednici održanoj 28. kolovoza 2014. godine donijela
