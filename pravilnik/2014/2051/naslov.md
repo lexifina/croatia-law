@@ -1,0 +1,1 @@
+Pravilnik o uvjetima koje moraju ispunjavati organizacije civilnog društva za provođenje programa stručne pripreme za posvojenje, obveznom sadržaju i načinu provedbe programa stručne pripreme potencijalnih posvojitelja te uvjetima stručne osposobljenosti radnika kao i načinu vođenja dokumentacije u svezi s provedbom stručne pripreme potencijalnih posvojitelja
