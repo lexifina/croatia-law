@@ -1,0 +1,3 @@
+# Članak 5.
+(1) Kada se bračni odnosno izvanbračni drugovi ili osoba koja želi posvojiti dijete (u daljnjem tekstu: podnositelji zahtjeva) obrate centru za socijalnu skrb nadležnom prema svojem prebivalištu pisanom prijavom namjere posvojenja i zahtjevom za izdavanje mišljenja o podobnosti i prikladnosti za posvojenje, bit će odmah informirani o postupku posvojenja i zakonskim pretpostavkama za posvojenje te upoznati sa svrhom i značajem posvojenja, pravnim učincima posvojenja te pravima i dužnostima u odnosu roditelja i djece.
+(2) Informiranje se vrši putem pisanih materijala i kroz razgovor sa stručnim radnicima nadležnog centra za socijalnu skrb.
