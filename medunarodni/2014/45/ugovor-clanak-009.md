@@ -1,0 +1,3 @@
+# Članak 9.
+1. Oslobođenje od zahtijevanja vize na temelju ovoga Sporazuma ne daje pravo državljanima ugovornih stranaka na rad ili na obavljanje bilo kakve profesionalne djelatnosti, osim u slučaju sklapanja ugovora o zapošljavanju članova obitelji članova diplomatskih misija ili konzularnih ureda jedne ugovorne stranke akreditiranih na državnom području druge ugovorne stranke.
+2. Odgovarajuće vize ili dozvole kojima se uređuju rad, studij, istraživanje, izobrazba, spajanje obitelji i/ili boravak dulji od devedeset (90) dana na državnom području svake ugovorne stranke podliježu odredbama nacionalnog zakonodavstva ugovornih stranaka.

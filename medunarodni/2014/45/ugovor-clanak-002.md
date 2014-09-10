@@ -1,0 +1,4 @@
+# Članak 2.
+1. Državljani bilo koje ugovorne stranke, nositelji valjane diplomatske, službene i posebne putovnice, koji su imenovani kao članovi diplomatskih misija, konzularnih ureda ili predstavništava međunarodnih organizacija akreditiranih na državnom području druge ugovorne stranke, oslobođeni su zahtijevanja vize za ulazak, boravak na i izlazak iz državnog područja druge ugovorne stranke tijekom trajanja njihove službene dužnosti.
+2. Odredbe stavka 1. ovoga članka primjenjuju se i na članove obitelji osoba iz stavka 1. ovoga članka te na njihove uzdržavane članove obitelji, koji su dio njihova kućanstva, i nositelji su valjane diplomatske, službene i posebne putovnice.
+3. Prijava osoba iz stavaka 1. i 2. ovoga članka uredit će se u skladu s odredbama nacionalnog zakonodavstva dotične ugovorne stranke u roku od trideset (30) dana nakon što te osobe preuzmu svoju dužnost.
