@@ -1,0 +1,1 @@
+Na temelju članka 143. Zakona o odgoju i obrazovanju u osnovnoj i srednjoj školi (»Narodne novine«, br. 87/2008, 86/2009, 92/2010, 105/2010, 90/2011, 16/2012, 86/2012 i 94/2013), Vlada Republike Hrvatske je na sjednici održanoj 4. rujna 2014. godine donijela
