@@ -1,0 +1,1 @@
+Na temelju članka 131. stavka 8. i članka 1022. podstavka 3. Pomorskog zakonika (»Narodne novine«, broj 181/2004, 76/2007, 146/2008, 61/2011 i 56/2013) ministar zdravlja uz suglasnost ministra pomorstva, prometa i infrastrukture, donosi
