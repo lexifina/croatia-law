@@ -1,0 +1,1 @@
+Na temelju članka 12. stavka 2. i stavka 3. Zakona o trgovini (»Narodne novine«, br. 87/2008, 116/2008, 76/2009, 114/2011, 68/2013 i 30/2014) ministar gospodarstva u suradnji s ministrom zaštite okoliša i prirode, ministricom graditeljstva i prostornog uređenja, ministrom poljoprivrede i ministrom zdravlja, donio je

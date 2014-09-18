@@ -1,0 +1,25 @@
+# Članak 13.
+Iza članka 39., dodaje se naslov i članak 39.a koji glase:
+»PRODAJA NA DALJINU
+(1) Prodajom na daljinu u smislu odredbi ovoga Pravilnika, kao posebnog oblika trgovine izvan prodavaonice, podrazumijeva se prodaja putem sredstva komunikacije na daljinu za obavljanje djelatnosti trgovine, prodaje robe i usluga što podrazumijeva nuđenje usluga kao i ostali oblici individualizirane prodaje robe i usluga kupcu (prodaja putem kataloga, TV prodaja, prodaja putem pošte, prodaja putem interneta i sl.).
+(2) Usluge prodaje putem interneta iz stavka 1. ovoga članka su usluge koje se uz naknadu pružaju elektroničkim putem na osobni zahtjev korisnika. Ponuda i prihvat te druga očitovanja volje poduzeta elektroničkim putem, primljena su kada im korisnik, odnosno kupac, može pristupiti.
+(3) Za pokretanje obavljanja djelatnosti prodaje putem interneta iz stavka 1. ovoga članka, potrebno je registrirati trgovačko društvo ili obrt koje se u registru djelatnosti upisuje pod nazivom - usluge informacijskog društva. Navedeno se ne odnosi na osobe iz članka 5. Zakona o trgovini, odnosno nositelja i/ili člana obiteljskog poljoprivrednog gospodarstva (OPG) koji djelatnost trgovine obavlja temeljem upisa u Upisnik poljoprivrednih gospodarstava.
+(4) Sukladno odredbi članka 6. Zakona o elektroničkoj trgovini, davatelj usluga informacijskog društva, odnosno trgovac, mora u obliku i na način koji je neposredno i stalno dostupan korisnicima/kupcima kao i nadležnim tijelima državne uprave Republike Hrvatske pružiti sljedeće informacije:
+- ime i prezime ili tvrtku davatelja usluga,
+- sjedište obrta ili sjedište pravne osobe davatelja usluga kao i ostale
+podatke o davatelju usluga na temelju kojih korisnik može brzo i nesmetano stupiti u vezu s davateljem usluga uključujući elektroničku adresu putem koje je moguće uspostaviti izravan kontakt,
+- broj sudskog ili drugog javnog registra u koji je davatelj usluga upisan te podatke o registru,
+- pojedinosti o nadležnom tijelu, ako djelatnost davatelja usluga podliježe službenom nadzoru i
+- porezni broj, ako je davatelj usluge obveznik plaćanja poreza na dodanu vrijednost.
+(5) U pogledu posebno reguliranih profesija, davatelj usluga informacijskog društva, odnosno trgovac, u smislu odredbe članka 6. Zakona o elektroničkoj trgovini, dužan je osigurati informacije o:
+- nazivu profesionalne ili slične institucije kod koje je davatelj usluga registriran kao i
+- o profesionalnom nazivu i zemlji koja ga je odobrila te uputu o profesionalnim pravilima u zemlji u kojoj se obavlja djelatnost i mjestu njihove dostupnosti.
+(6) Prodaja robe na daljinu obavlja se kao prodaja robe na daljinu na veliko i prodaja robe na daljinu na malo.
+(7) Prodaja robe na daljinu na veliko je kupnja robe radi daljnje prodaje profesionalnim korisnicima, odnosno drugim pravnim ili fizičkim osobama koje obavljaju neku registriranu ili zakonom određenu djelatnost.
+(8) Odredbe članaka 22. do članka 24. koje se odnose na poslovne prostorije u kojima se obavlja trgovina na veliko, na odgovarajući način se primjenjuju na prodaju robe na daljinu na veliko.
+(9) Prodaja robe na daljinu na malo je kupnja robe radi daljnje prodaje potrošačima za osobnu uporabu ili uporabu u kućanstvu, kao i profesionalnim korisnicima ako za tu prodaju nije potrebno ispunjavanje dodatnih minimalnih tehničkih i drugih uvjeta propisanih posebnim propisima.
+(10) Ukoliko se radi o obavljanju djelatnosti trgovine na daljinu na način da gospodarski subjekt trguje robom na malo, dužan je osigurati za tu robu skladište iz kojih razloga mora podnijeti zahtjev za ishođenje rješenja o ispunjavanju minimalno tehničkih i drugih uvjeta nadležnom uredu državne uprave u županiji, odnosno nadležnom upravnom tijelu Grada Zagreba te udovoljiti te udovoljiti svim propisanim uvjetima iz članka 12. i članka 13. Zakona o trgovini.
+(11) Ukoliko gospodarski subjekt namjerava obavljati djelatnosti trgovine na daljinu na način da nudi samo usluge, a ne i robu, tada nije dužan podnijeti zahtjev za ishođenje rješenja o ispunjavanju minimalno tehničkih i drugih uvjeta nadležnom tijelu iz stavka 10. ovoga članka Pravilnika.
+(12) Ukoliko se radi o obavljanju djelatnosti trgovine na daljinu na način da se naručeni proizvod bez skladištenja izravno od dobavljača dostavlja kupcu, gospodarski subjekt nije dužan podnijeti zahtjev za ishođenje rješenja o ispunjavanju minimalno tehničkih i drugih uvjeta nadležnom tijelu iz stavka 10. ovoga članka Pravilnika.
+(13) Ukoliko se radi o prodaji hrane ili hrane za životinje, trgovac je dužan prema odredbi članka 39. stavka 1. ovoga Pravilnika, pridržavati se posebnih propisa o hrani i hrani za životinje.
+(14) Odredba članka 39. stavka 1. ovoga Pravilnika te odredba stavka 10. ovoga članka, a vezano uz obvezu trgovca da osigura prostor, odnosno odgovarajuće skladište robe koju prodaje, odnosno nudi izvan prodavaonice, ne odnosi se na trgovce koji imaju rješenje o ispunjavanju minimalno tehničkih i drugih uvjeta za obavljanje registrirane djelatnosti trgovine sukladno odredbama članka 12. i članka 13. Zakona o trgovini (klasična trgovina).«.

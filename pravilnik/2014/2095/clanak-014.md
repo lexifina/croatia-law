@@ -1,0 +1,3 @@
+# Članak 14.
+Članak 41. mijenja se i glasi:
+»Stranke iz članka 40. ovoga Pravilnika uz zahtjev prilažu sljedeće dokumente: upravnu pristojbu, rješenje Trgovačkog suda o upisu u sudski registar (za pravne osobe) ili rješenje o upisu u Obrtni registar (za fizičke osobe - obrtnike) ili dokaz o upisu u Upisnik u smislu odredbe članka 5. Zakona o trgovini te sukladno posebnim propisima, dokaz o pravu korištenja poslovnog prostora (vlasnički list, ugovor o zakupu) kao i dokaz o ispunjavanju uvjeta poslovnog prostora temeljem posebnih propisa (o gradnji građevina, higijeni hrane, zaštiti okoliša, uređenju naselja, zaštiti i očuvanju kulturnih dobara, života i zdravlja ljudi te zaštite na radu).«.
