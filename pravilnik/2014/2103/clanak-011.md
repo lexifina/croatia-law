@@ -1,0 +1,2 @@
+# Članak 11.
+Do dana primjene ovog Pravilnika, primjenjuju se Pravilnik o izvještavanju o adekvatnosti kapitala investicijskih društava (»Narodne novine«, broj 48/09, 30/13 i 85/13), Pravilnik o objavljivanju informacija investicijskog društva (»Narodne novine«, broj 48/09 i 85/13), Pravilnik o adekvatnosti kapitala investicijskih društava (»Narodne novine«, broj 48/09 i 85/13) i Pravilnik o kapitalu investicijskih društava (»Narodne novine«, broj 48/09 i 85/13).

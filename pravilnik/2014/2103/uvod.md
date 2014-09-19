@@ -1,0 +1,1 @@
+Na temelju članka 216. stavka 2. Zakona o tržištu kapitala (»Narodne novine«, broj 88/08, 146/08, 74/09, 54/13 i 159/13, dalje: Zakon) Hrvatska agencija za nadzor financijskih usluga (dalje: Agencija) na sjednici Upravnog vijeća održanoj 5. rujna 2014. godine donosi
