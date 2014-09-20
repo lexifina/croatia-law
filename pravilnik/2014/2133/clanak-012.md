@@ -1,0 +1,6 @@
+## Obavijest o ukupnim iznosima potpore za koje se podnosi zahtjev i koeficijent dodjele
+# Članak 12.
+(1) Agencija za plaćanja obavijestit će Komisiju o ukupnim količinama proizvoda povučenih s tržišta, ukupnim površinama na kojima su provedeni postupci neubiranja ili zelene berbe i o ukupnim iznosima potpore za postupke povlačenja s tržišta, neubiranja ili zelene berbe u roku od šest tjedana od datuma kada je Komisija obavijestila države članice da neće zaprimati daljnje obavijesti koje se odnose na sve proizvode ili daljnje obavijesti koje se odnose na proizvode čiji je dodijeljen iznos prekoračen.
+(2) Obavijest iz stavka 1. ovoga članka dostavlja se Komisiji na obrascu iz Priloga II Delegirane Uredbe Komisije (EU) br. 932/2014.
+(3) Ako iznosi o kojima je dostavljena obavijest u skladu sa člankom 12. stavkom 1. Delegirane Uredbe Komisije (EU) br. 932/2014 prekorače jedan ili više iznosa utvrđenih u članku 2. Delegirane Uredbe Komisije (EU) br. 932/2014, Komisija utvrđuje jedan ili dva koeficijenta dodjele za odobrenje potpore i ograničava ukupne rashode Europske unije na te iznose te utvrđuje koeficijent dodjele.
+(4) Agencija za plaćanja će ujednačeno primijeniti koeficijente dodjele na sve podnesene zahtjeve za isplatu.
