@@ -1,0 +1,2 @@
+# Članak 1.
+Temeljem članka 1. Pravilnika o rasporedu sredstava za financiranje građenja i održavanja javnih cesta županijskim upravama za ceste u 2014. godini (»Narodne novine«, broj: 45/14. i 90/14), utvrđena su ukupno planirana sredstva u iznosu od 120,00 milijuna kuna. Prema članku 2. istog Pravilnika 20,00 milijuna kuna predviđeno je za interventne zahvate po posebnom nalogu ministra pomorstva, prometa i infrastrukture.

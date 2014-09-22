@@ -1,0 +1,1 @@
+Na temelju članka 2. stavka 2. Pravilnika o rasporedu sredstava za financiranje građenja i održavanja javnih cesta županijskim upravama za ceste u 2014. godini (»Narodne novine«, broj 45/14. i 90/14.), ministar pomorstva, prometa i infrastrukture donosi
