@@ -1,0 +1,1 @@
+Na temelju članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, broj 150/2011), a u vezi s člankom 28. stavkom 2. Ustavnog zakona o pravima nacionalnih manjina (»Narodne novine«, br. 155/2002, 47/2010, 80/2010 i 93/2011), Vlada Republike Hrvatske je na sjednici održanoj 25. rujna 2014. godine donijela
