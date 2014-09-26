@@ -1,0 +1,3 @@
+STANDARD ZANIMANJA
+TEHNIČAR ZA BRODOSTROJARSTVO
+113 25.09.2014 Odluka o donošenju standarda zanimanja za stjecanje strukovne kvalifikacije tehničar za brodostrojarstvo u obrazovnom sektoru strojarstvo, brodogradnja i metalurgija | 113 25.09.2014 Odluka o donošenju standarda zanimanja za stjecanje strukovne kvalifikacije tehničar za brodostrojarstvo u obrazovnom sektoru strojarstvo, brodogradnja i metalurgija | 113 25.09.2014 Odluka o donošenju standarda zanimanja za stjecanje strukovne kvalifikacije tehničar za brodostrojarstvo u obrazovnom sektoru strojarstvo, brodogradnja i metalurgija | 113 25.09.2014 Odluka o donošenju standarda zanimanja za stjecanje strukovne kvalifikacije tehničar za brodostrojarstvo u obrazovnom sektoru strojarstvo, brodogradnja i metalurgija
