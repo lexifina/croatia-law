@@ -1,0 +1,5 @@
+# Članak 8.
+(1) Razvrstanom pričuvniku ratni raspored priopćava ustrojstvena jedinica Ministarstva obrane nadležna za ljudske resurse.
+(2) Ratni raspored upisuje se u vojnu iskaznicu i druge dokumente evidencije u skladu s odredbama pravilnika kojim se propisuje način vođenja evidencije vojnih obveznika i izvršavanje vojne obveze.
+(3) Nakon priopćavanja ratnog rasporeda ustrojstvena jedinica Ministarstva obrane nadležna za ljudske resurse uzima od razvrstanog pričuvnika potrebne podatke zbog zaduženja osobne vojne opreme te daje informaciju o mjestu i vremenu izdavanja osobne vojne opreme odnosno njezinih dijelova.
+(4) Razvrstanom pričuvniku prestaje ratni raspored zbog: smrti, gubitka zdravstvene sposobnosti, prestanka državljanstva Republike Hrvatske, odlaska u inozemstvo dulje od 90 dana, pravomoćne presude kojom je osuđen za kazneno djelo koje se goni po službenoj dužnosti na bezuvjetnu kaznu zatvora u trajanju više od šest mjeseci te prestankom potrebe za njegovim služenjem u razvrstanoj pričuvi.
