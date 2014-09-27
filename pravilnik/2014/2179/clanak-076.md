@@ -1,0 +1,2 @@
+# Članak 76.
+Danom stupanja na snagu ovoga Pravilnika prestaje važiti Pravilnik o izvršavanju vojne obveze (»Narodne novine«, br. 15/2003) i Pravilnik o načinu vođenja očevidnika vojnih obveznika i obrascu vojne iskaznice (»Narodne novine«, br. 24/2003), osim članaka 2., 3., 4., 5., 6. i 7. iz glave II Pravilnika o načinu vođenja očevidnika vojnih obveznika i obrascu vojne iskaznice (»Narodne novine«, br. 24/2003) koji ostaju na snazi do stupanja na snagu Upute o vođenju evidencije vojnih obveznika iz članka 75. ovoga Pravilnika.

@@ -1,0 +1,2 @@
+# Članak 6.
+Novak koji se radi uvođenja u vojnu evidenciju prijavi diplomatskoj misiji odnosno konzularnom uredu Republike Hrvatske popunjava prijavu sa sljedećim podacima: ime i prezime; očevo ili majčino ime; osobni identifikacijski broj, datum, mjesto, općina/grad i država rođenja; državljanstvo; adresa u inozemstvu; datum početka boravka u inozemstvu; adresa prebivališta u Republici Hrvatskoj; zadnja adresa prebivališta roditelja u Republici Hrvatskoj; zvanje i stupanj obrazovanja, zanimanje te znanja važna za Oružane snage.

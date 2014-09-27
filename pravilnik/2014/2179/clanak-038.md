@@ -1,0 +1,4 @@
+# Članak 38.
+(1) Ročnika kod kojeg je nastala promjena zdravstvenog stanja koja utječe na njegovu sposobnost za vojnu službu nadležni vojni liječnik upućuje na ocjenu sposobnosti za vojnu službu nadležnom novačkom povjerenstvu.
+(2) Na temelju ocjene nadležnog novačkog povjerenstva o nesposobnosti ili potrebi daljnjeg liječenja/dijagnostičke obrade ročnika zapovjednik samostalne bojne, njemu ravne ili više razine donosi odluku o prekidu služenja vojnog roka te u vojnu iskaznicu upisuje temelj i datum prekida služenja vojnog roka i otpusta iz Oružanih snaga.
+(3) Ročnika kojemu je i drugi put prekinuto služenje vojnog roka zbog toga što je ocijenjen ocjenom daljnje liječenje/dijagnostička obrada neće se pozivati na dosluženje vojnog roka ako mu je do kraja vojnog roka ostalo manje od 30 dana.

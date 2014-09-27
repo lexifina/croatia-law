@@ -1,0 +1,3 @@
+# Članak 67.
+(1) U vojnu iskaznicu upisuju se podaci o vojnom obvezniku: ime, prezime, očevo ili majčino ime; osobni identifikacijski broj; datum, mjesto i država rođenja; krvna grupa; ocjena sposobnosti za vojnu službu; rod, struka, služba; služenje vojnog roka odnosno reguliranje obveze služenja vojnog roka na drugi način; vojnostručna specijalnost; dodjela čina i promicanje; sudjelovanje na vojnoj vježbi; naziv nadležne ustrojstvene jedinice Ministarstva obrane koja vojnog obveznika vodi u evidenciji; ratni raspored; sudjelovanje u ratu; zamjena vojne iskaznice; prestanak vojne obveze te mjesto i datum svečane prisege.
+(2) Vojnu iskaznicu potpisuje i ovjerava nadležna osoba Ministarstva obrane, a potpisuje je i njezin imatelj.

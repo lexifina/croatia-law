@@ -1,0 +1,3 @@
+# Članak 9.
+(1) Vojni obveznik obvezan je nadležni područni odsjek osobno obavijestiti o svakoj promjeni podataka u vezi sa zdravstvenim stanjem, zvanjem i stupnjem obrazovanja, zanimanjem, zaposlenjem i bračnim stanjem te dostaviti dokaz o nastaloj promjeni (potvrdu, zdravstveni nalaz i sl.) u roku od 30 dana od dana nastanka promjene.
+(2) Ako je sjedište nadležnoga područnog odsjeka za poslove obrane udaljeno više od 10 km od mjesta prebivališta vojnog obveznika, prijava promjena iz stavka 1. ovoga članka može se dostaviti preporučenom pošiljkom odnosno elektroničkim putem (faksom, e-poštom).
