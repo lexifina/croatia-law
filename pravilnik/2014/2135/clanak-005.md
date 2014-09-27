@@ -1,0 +1,9 @@
+# Članak 5.
+(1) U provedbi stručnog nadzora građenja, nadzorni inženjer određuje provedbu kontrolnih ispitivanja odnosno drugih kontrolnih postupaka koji se odnose na svojstva određenih dijelova građevine ili građevine u cjelini u svrhu provjere, odnosno dokazivanja ispunjavanja temeljnih zahtjeva za građevinu i/ili drugih zahtjeva, odnosno uvjeta predviđenih glavnim projektom ili izvješćem o obavljenoj kontroli projekta i obveze provjere u pogledu građevnih proizvoda na sljedeći način:
+1. određivanjem kontrolnog tijela i, ako je to potrebno, određivanjem načina provedbe postupaka koji su posebnim propisom propisani kao kontrolni postupci odnosno koji su normama na koje upućuju propisi određeni kao kontrolni postupci koje provodi treća strana,
+2. određivanjem kontrolnog tijela za postupke koji su programom kontrole i osiguranja kvalitete koji je sastavni dio projekta građevine određeni kao kontrolni postupci ili se smatraju kontrolnim postupcima u skladu s posebnim propisom kojim se određuje sadržaj programa kontrole i osiguranja kvalitete,
+3. određivanjem kontrolnog tijela i načina provedbe kontrolnih postupaka u slučaju sumnje, uz prethodnu obavijest investitoru,
+4. provjerom je li izvođač utvrdio činjenice koje se odnose na građevne proizvode proizvedene izvan gradilišta, odnosno je li dokazana uporabljivost proizvoda koji se izrađuju na gradilištu za potrebe te građevine, te odobravanjem odnosno zabranom ugradnje tih proizvoda upisom u građevinski dnevnik,
+5. provjerom je li izvođač proveo pripreme za izvođenje radova,
+6. provjerom izvodi li izvođač dio građevine i građevinu u cjelini u skladu s projektom.
+(2) Pri određivanju kontrolnog tijela iz stavka 1., podstavaka 1., 2. i 3. ovoga članka, nadzorni inženjer mora osigurati da to tijelo ispunjava propisane zahtjeve, te da je dokazana neovisnost i nepristranost tog tijela u odnosu na postupke i dokazivanja uređene člankom 54. stavkom 1. podstavkom 4. Zakona o gradnji.

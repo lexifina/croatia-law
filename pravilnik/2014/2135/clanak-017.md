@@ -1,0 +1,5 @@
+# Članak 17.
+(1) Građevinski dnevnik se vodi u paricama (kopijama) s jednako obilježenim listovima formata 21,0×29,7 cm.
+(2) Oblik i sadržaj parica prve i ostalih stranica građevinskog dnevnika prikazan je na obrascima koji su tiskani uz ovaj Pravilnik i čine njegov sastavni dio (prilog 1.).
+(3) Ako se prilikom građenja građevine izvodi više vrsta radova ili radovi većeg opsega, na prvoj stranici građevinskog dnevnika se upisuju podaci o glavnom nadzornom inženjeru.
+(4) Ako se prilikom građenja građevine uz građevinski dnevnik iz članka 14. stavka 1. odnosno stavka 2. ovoga Pravilnika vode i zasebni dijelovi građevinskog dnevnika, u građevinski dnevnik iz članka 14. stavka 1. odnosno stavka 2. ovoga Pravilnika upisuju se podaci o glavnom nadzornom inženjeru i o nadzornim inženjerima koji provode stručni nadzor nad dijelovima građevine za koje se ne vode zasebni dijelovi građevinskog dnevnika, a u zasebne dijelove građevinskog dnevnika se upisuju podaci o nadzornim inženjerima za pojedinačni tehnički i/ili funkcionalni sklop koji je sastavni dio cjelovite građevine odnosno za pojedine radove, na koje se zasebni dio građevinskog dnevnika odnosi.

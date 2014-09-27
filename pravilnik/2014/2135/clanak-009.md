@@ -1,0 +1,5 @@
+# Članak 9.
+(1) U provedbi stručnog nadzora građenja, nadzorni inženjer, u svrhu otklanjanja nedostataka odnosno nepravilnosti građenja, zabranjuje izvođenje, odnosno nastavak izvođenja radova ako izvođač ne ispunjava uvjete propisane posebnim zakonom.
+(2) U provedbi stručnog nadzora građenja nadzorni inženjer, u svrhu otklanjanja nedostataka odnosno nepravilnosti građenja, zabranjuje vođenje građenja, odnosno vođenje pojedinih radova ako odgovorna osoba ne ispunjava uvjete propisane posebnim zakonom.
+(3) Zabrane iz stavaka 1. i 2. ovoga članka se upisuju u građevinski dnevnik odmah nakon utvrđenja činjenica. Izvođač je obvezan nakon upisane zabrane osigurati građevinu odnosno dio građevine na kojoj se građenje prekida.
+(4) Izvođenje radova, vođenje građenja i vođenje pojedinih radova smije se nastaviti nakon što nadzorni inženjer utvrdi da su nedostaci odnosno nepravilnosti građenja građevine otklonjeni i upiše u građevinski dnevnik prestanak zabrane građenja, odnosno prestanak zabrane vođenja građenja ili vođenja pojedinih radova.
