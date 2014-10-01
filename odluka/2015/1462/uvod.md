@@ -1,0 +1,1 @@
+Na temelju članka 9. Zakona o Fondu za zaštitu okoliša i energetsku učinkovitost (»Narodne novine« broj 107/03 i 144/12 ), članka 15. i stavka 3. Statuta Fonda za zaštitu okoliša i energetsku učinkovitost (»Narodne novine« broj 193/03, 73/04, 116/08, 101/09, 118/2011, 67/2013 i 70/2014), Upravni odbor Fonda, na sjednici održanoj dana 1. listopada 2014. godine, donio je
