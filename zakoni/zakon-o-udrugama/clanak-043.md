@@ -1,0 +1,4 @@
+## Inspekcijski nadzor nad radom udruge
+# Članak 43.
+(1) Inspekcijski nadzor nad radom udruge, u smislu ovog Zakona, obavlja nadležni ured.
+(2) Inspekcijskim nadzorom nad radom udruge iz stavka 1. ovog članka smatra se nadzor koji se odnosi na to prijavljuju li udruge, sukladno članku 27. ovog Zakona, promjene statuta, naziva, adrese sjedišta, izbor osoba ovlaštenih za zastupanje i prestanak rada ili rabe li u pravnom prometu podatke o promjenama, odnosno postupaju li po promjenama prije nego što su upisane u registar udruga, rabe li naziv pod kojim su upisane u registar udruga, održavaju li sjednice skupštine i dostavljaju li zapisnike s redovnih sjednica skupštine udruge, vode li popis članova udruge na način propisan ovim Zakonom te jesu li prestale djelovati, sukladno članku 48. stavku 1. točkama 2., 3. i 6. ovog Zakona.

@@ -1,0 +1,10 @@
+## Likvidacija udruge
+# Članak 49.
+(1) U slučajevima iz članka 48. stavka 1. točaka 1., 3., 4. i 6. ovog Zakona provodi se postupak likvidacije.
+(2) Nadležni ured donosi rješenje o prestanku djelovanja i pokretanju likvidacijskog postupka, koje sadrži razloge za pokretanje postupka, osobno ime likvidatora i način provođenja likvidacijskog postupka te podatke o promjeni naziva udruge, tako da se uz naziv udruge dodaje oznaka »u likvidaciji«, a što mora biti upisano u registar udruga.
+(3) Pokretanjem postupka likvidacije prestaju ovlaštenja tijela i osoba ovlaštenih za zastupanje udruge.
+(4) Likvidator je dužan provesti likvidacijski postupak u roku od 60 dana od dana primitka rješenja nadležnog ureda o otvaranju likvidacijskog postupka.
+(5) U postupku likvidacije likvidator je dužan utvrditi stanje na poslovnom računu udruge, knjigovodstveno stanje dugovanja i potraživanja, utvrditi ostalu imovinu udruge te pribaviti iz službene evidencije Ministarstva financija – Porezne uprave potvrdu o nepostojanju duga s osnove javnih davanja. U slučaju da utvrdi da udruga ima dugovanja, likvidator je dužan objaviti poziv vjerovnicima da prijave svoje tražbine prema udruzi u roku od 30 dana od dana objave poziva, a za eventualna potraživanja dužan je pozvati dužnike na plaćanje dugova u roku od 30 dana. Preostalu imovinu likvidator će raspodijeliti u skladu s odredbom članka 53. ovog Zakona.
+(6) Nakon raspodjele preostale imovine u skladu sa stavkom 5. ovog članka likvidator je dužan u roku od osam dana od dana okončanja likvidacijskog postupka podnijeti nadležnom uredu završni račun i izvješće o provedenom likvidacijskom postupku.
+(7) U slučaju da likvidator utvrdi da imovina udruge nije dovoljna za namirenje obveza, dužan je u roku iz stavka 6. ovog članka o tome obavijestiti nadležni sud prema sjedištu udruge radi pokretanja stečajnog postupka.
+(8) Temeljem zaprimljenog izvješća o provedenom likvidacijskom postupku nadležni ured donosi rješenje o brisanju udruge iz registra udruga, osim ako su utvrđeni dugovi udruge.

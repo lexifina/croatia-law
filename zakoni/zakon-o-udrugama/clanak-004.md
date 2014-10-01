@@ -1,0 +1,3 @@
+## Pojam udruge
+# Članak 4.
+Udruga u smislu ovog Zakona je svaki oblik slobodnog i dobrovoljnog udruživanja više fizičkih, odnosno pravnih osoba koje se, radi zaštite njihovih probitaka ili zauzimanja za zaštitu ljudskih prava i sloboda, zaštitu okoliša i prirode i održivi razvoj, te za humanitarna, socijalna, kulturna, odgojno-obrazovna, znanstvena, sportska, zdravstvena, tehnička, informacijska, strukovna ili druga uvjerenja i ciljeve koji nisu u suprotnosti s Ustavom i zakonom, a bez namjere stjecanja dobiti ili drugih gospodarski procjenjivih koristi, podvrgavaju pravilima koja uređuju ustroj i djelovanje toga oblika udruživanja.

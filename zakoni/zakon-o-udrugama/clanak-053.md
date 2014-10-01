@@ -1,0 +1,7 @@
+## Raspolaganje imovinom udruge u slučaju prestanka postojanja udruge
+# Članak 53.
+(1) U slučaju prestanka postojanja udruge imovina se, nakon namirenja vjerovnika i troškova likvidacijskog, sudskog i drugih postupaka, predaje udruzi, ustanovi ili zakladi koje imaju iste ili slične statutarne ciljeve, a na osnovi odluke skupštine sukladno statutu.
+(2) Udruga nema pravo imovinu udruge dijeliti svojim osnivačima, članovima udruge, osobama ovlaštenima za zastupanje, zaposlenima ili s njima povezanim osobama.
+(3) Pod povezanim osobama, u smislu ovog Zakona, smatraju se osobe koje su bračni ili izvanbračni drug, istospolni partner, srodnici po krvi u uspravnoj lozi, braća i sestre, skrbnik te posvojitelj, odnosno posvojenik te ostale fizičke i pravne osobe koje se prema drugim osnovama i okolnostima opravdano mogu smatrati interesno povezanima s osnivačima, članovima udruge, osobama ovlaštenima za zastupanje i zaposlenima.
+(4) Udruga koja je primila financijska sredstava iz javnih izvora u smislu odredbi članka 32. ovog Zakona, u slučaju prestanka postojanja, ostatak sredstava vratit će u proračun iz kojega su financijska sredstva dodijeljena.
+(5) Ako se u slučaju prestanka postojanja udruge iz bilo kojih razloga ne može provesti postupak s imovinom udruge koji je udruga odredila svojim statutom, preostalu imovinu stječe jedinica lokalne samouprave na čijem je području sjedište udruge.
