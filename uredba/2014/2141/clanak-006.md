@@ -1,0 +1,6 @@
+## Pripadnost morskoj regiji, odnosno morskoj podregiji
+# Članak 6.
+(1) Ministarstvo je prilikom izvršavanja zadaća prema ovoj Uredbi, a zbog usklađivanja s ciljevima zaštite morskog okoliša određenima aktima Europske unije te ciljevima Protokola iz članka 2. ove Uredbe, dužno primjereno voditi računa da su morski okoliš i obalno područje pod suverenitetom Republike Hrvatske, odnosno u kojima Republika Hrvatska ostvaruje suverena prava i jurisdikciju sastavni dio morske podregije Jadranskog mora, odnosno morske regije Sredozemnog mora.
+(2) Ministarstvo je dužno, uzimajući u obzir posebnosti područja morskog okoliša, ovu Uredbu primjenjivati uz upućivanje na možebitnu potrebu daljnje podjele tog morskog okoliša na odgovarajućoj razini s obzirom na zaštitu morskog okoliša u smislu ove Uredbe, a pri tome vodeći računa o odgovarajućoj razini razgraničenja u podregiji.
+(3) Podjele morskog okoliša u smislu odredbe stavka 2. ovoga članka mogu se revidirati nakon izrade Početne procjene stanja morskog okoliša iz članka 7. stavka 2. točke a) alineje 1. ove Uredbe.
+(4) Ministarstvo će u suradnji s nadležnim tijelima obavijestiti Europsku komisiju o možebitnim daljnjim podjelama morskih voda u svrhu zaštite morskog okoliša u smislu stavka 2. ovoga članka.

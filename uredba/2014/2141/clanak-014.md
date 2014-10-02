@@ -1,0 +1,7 @@
+## Utvrđivanje Skupa ciljeva
+# Članak 14.
+(1) Na temelju Početne procjene ukupnog stanja i Skupa značajki dobroga stanja okoliša, radi postizanja dobroga stanja okoliša i njegova održavanja utvrđuje se Skup ciljeva.
+(2) Skup ciljeva u zaštiti okoliša se utvrđuje uzimajući u obzir okvirni popis opterećenja i utjecaja iz tablice 2. u Prilogu II. ove Uredbe kao i okvirni popis značajki iz Priloga III. ove Uredbe. Skup ciljeva u upravljanju morskim okolišem i obalnim područjem utvrđuje se uzimajući u obzir analizu ciljeva iz Priloga VI. ove Uredbe, te druge odgovarajuće analize izrađene u okviru primjene Barcelonske konvencije.
+(3) Pri utvrđivanju Skupa ciljeva u zaštiti okoliša mora se uzeti u obzir i daljnja primjena odgovarajućih postojećih ciljeva u zaštiti morskog okoliša i okoliša obalnog područja koji su, na temelju važećih posebnih propisa, već ranije određeni u Republici Hrvatskoj.
+(4) Ministarstvo je nositelj izrade Skupa ciljeva i njihova utvrđivanja. U izradi Skupa ciljeva sudjeluju nadležna tijela ovisno o propisanom djelokrugu. Nacionalni odbor daje mišljenje na Skup ciljeva, kojeg nakon toga razmatra i potvrđuje Povjerenstvo za koordinaciju. Nacionalni odbor, prema ocijenjenoj potrebi, predlaže Ministarstvu izmjene i dopune Skupa ciljeva.
+(5) Ministarstvo o Skupu ciljeva za morski okoliš obavještava Europsku komisiju putem Agencije za zaštitu okoliša u roku tri mjeseca od datuma njihova donošenja.

@@ -1,0 +1,23 @@
+## Informiranje, sudjelovanje javnosti i izvještavanje
+# Članak 25.
+(1) Ministarstvo je dužno osigurati informiranje i sudjelovanje javnosti u primjeni ove Uredbe sukladno Zakonu i odgovarajućom primjenom provedbenog propisa Zakona kojim je uređeno informiranje i sudjelovanje javnosti i zainteresirane javnosti u pitanjima zaštite okoliša, uključujući i tijela i strukture po Barcelonskoj konvenciji, znanstvena savjetodavna tijela i regionalna savjetodavna vijeća.
+(2) O aktivnostima i aktima koji nastaju provedbom ove Uredbe javnost se informira objavom i stavljanjem na uvid radi provedbe javne rasprave prikaza pojedinih elemenata Strategije uključujući i njezine izmjene i dopune a osobito: Početne procjene ukupnog stanja, Skupa značajki dobroga stanja okoliša i Skupa ciljeva, Sustava praćenja i promatranja i Programa mjera.
+(3) Ministarstvo će u suradnji s nadležnim tijelima u skladu sa Zakonom, Europskoj komisiji omogućiti pristup i uporabu podataka i informacija iz Početne procjene stanja okoliša za morski okoliš i Sustava praćenja i promatranja morskog okoliša radi ispunjavanja zahtjeva iz propisa Europske unije kojima se uređuje područje prostornog uređenja, a u svrhu izvršenja zadataka povezanih s propisima Europske unije kojima se uređuje djelovanje u području politike zaštite morskog okoliša,
+(4) Ministarstvo će u suradnji s nadležnim tijelima u skladu sa Zakonom, Mediteranskom akcijskom planu Programa Ujedinjenih naroda za okoliš omogućiti pristup informacijama iz Početne procjene ukupnog stanja, Sustava praćenja i promatranja te Programa mjera radi ispunjavanja zahtjeva o izvješćivanju u provedbi Barcelonske konvencije i pripadajućih protokola.
+(5) Podaci i informacije iz svih elemenata Strategije Početne procjene te iz Sustava praćenja i promatranja morskog okoliša i obalnog područja bit će u cijelosti dostupni Agenciji za zaštitu okoliša za potrebe Informacijskog sustava zaštite okoliša (ISZO) i Europskoj agenciji za okoliš. Nadležna tijela će podatke i informacije iz svojih nadležnosti, korištene za Početnu procjenu, Skup značajki dobrog stanja okoliša, Skup ciljeva u zaštiti okoliša i s njima povezanih pokazatelja, Sustav praćenja i promatranja te za Program mjera, kao i podatke iz sustava praćenja i promatranja koja provode, osiguravati putem podatkovnih servisa kako bi se osigurali transparentnost, adekvatni javni pristup, integritet, ažurnost i kontinuiranost razmjene podataka i informacija sa Agencijom za zaštitu okoliša, uz koordinaciju Ministarstva.
+(6) Za potrebe prikupljanja podataka i informacija i izvještavanja Agencija za zaštitu okoliša razvija, kao komponentu Informacijskog sustava zašite okoliša, Informacijski sustav more koji služi kao izvor podataka za Europski informacijski sustav za vode i more.
+(7) Informacijski sustav more sastavni je dio Informacijskog sustava zaštite okoliša prema Zakonu kojeg razvija i kojim upravlja Agencija za zaštitu okoliša.
+Sadržajne komponente Informacijskog sustava more moraju najmanje sadržavati:
+- bazu podataka iz stručnih podloga i elemenata za izradu Strategije, uključujući izmjene i dopune;
+- bazu podataka pokazatelja u vezi ciljeva i mjera zaštite morskog okoliša i obalnog područja;
+- baze podataka iz sustava praćenja i promatranja;
+- baze prostornih podataka vezano uz morski okoliš i obalno područje;
+- baze podataka o prostornim podacima (metadata) prema Direktivi 2007/2/EZ Europskoga parlamenta i Vijeća od 14. ožujka 2007. kojom se uspostavlja Infrastruktura za prostorne informacije u Europskoj zajednici (INSPIRE) i Nacionalnoj infrastrukturi prostornih podataka;
+- numeričke analize i modele u digitalnom zapisu i bazama podataka;
+- baze podataka o podacima (metadata) prema standardima direktiva Europske unije;
+- podatkovne servise za razmjenu s ostalim dionicima sustava;
+kao i druge podatke važne za morski okoliš i obalno područje. Informacijski sustav more usklađuje se i povezuje s informacijskim sustavima koja vode druga nadležna tijela iz Priloga VII. Ove Uredbe unutar podatkovnog portala podataka okoliša.
+(8) Informacijski sustav more služi kao sustav izvora podataka i informacija za potrebe dopuna i izmjena elemenata Strategije.
+(9) Podaci iz informacijskog sustava more, prikupljeni i obrađeni u odgovarajućem formatu razmjene podataka, koriste se za potrebe izvješćivanja nadležnih tijela Europske unije na način i u rokovima koji su određeni pravnom stečevinom.
+(10) Izvještavanje Europske komisije provodi se putem Agencije za zaštitu okoliša uz prethodnu suglasnost Ministarstva.
+(11) Izvještavanje UNEP/MAP-a provodi se putem nadležnog ministarstva za zaštitu okoliša.

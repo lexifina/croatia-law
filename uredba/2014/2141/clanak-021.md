@@ -1,0 +1,4 @@
+# Članak 21.
+(1) Hrvatski sabor u ime Republike Hrvatske donosi Strategiju na prijedlog Vlade Republike Hrvatske.
+(2) Ministarstvo u suradnji s nadležnim tijelima primjenjuje sve elemente Strategije prema ovoj Uredbi, ali nema obveze, osim u odnosu na Početnu procjenu ukupnog stanja, poduzimati posebne aktivnosti ukoliko nema znatne opasnosti za morski okoliš ili ako bi troškovi bili nerazmjerni s obzirom na opasnosti za morski okoliš, pod uvjetom da nema daljnjeg pogoršavanja.
+(3) Ukoliko se u Republici Hrvatskoj, iz bilo kojega razloga, ne poduzimaju aktivnosti u smislu stavka 2. ovoga članka, o tome će se dostavit izvješće Europskoj komisiji u kojem će se utemeljeno obrazložiti razlozi za takvo postupanje i istodobno nastojati izbjeći da se trajno ugrozi postizanje dobrog stanja okoliša.

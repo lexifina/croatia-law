@@ -1,0 +1,5 @@
+## Potreba žurnog djelovanja
+# Članak 8.
+(1) U slučaju ocijenjene potrebe žurnog djelovanja radi narušenog dobrog stanja pojedinih dijelova morskog okoliša, Ministarstvo će u suradnji s nadležnim tijelima izraditi odgovarajući plan žurnog djelovanja. Planom žurnog djelovanja predložit će se raniji početak primjene Programa mjera i možebitno strože zaštitne mjere, pod uvjetom da se time ne sprječava postizanje i/ili održavanje dobroga stanja okoliša u morskoj podregiji.
+(2) Plan žurnog djelovanja iz stavka 1. ovoga članka, na prijedlog Ministarstva, donosi Vlada Republike Hrvatske.
+(3) U slučaju donošenja Plana žurnog djelovanja, po ovlaštenju Vlade Republike Hrvatske, Ministarstvo će obavijestiti Europsku komisiju o svojem izmijenjenom rasporedu aktivnosti u vezi s donošenjem Plana žurnog djelovanja. Vezano za potrebu žurnog djelovanja, može se predložiti Europskoj komisiji da Plan žurnog djelovanja proglasi oglednim projektom i u tom smislu razmotri pružanje potpore u pojačanim naporima na poboljšanju stanja okoliša u morskoj podregiji.
