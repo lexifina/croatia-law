@@ -1,0 +1,6 @@
+## IV. STRUČNI ISPIT ZA KOORDINATORA ZAŠTITE NA RADU
+# Članak 23.
+(1) Pravo polaganja stručnog ispita za koordinatora zaštite na radu tijekom izrade projekta (koordinator I) i koordinatora zaštite na radu tijekom građenja (koordinator II) ima osoba koja ima završen najmanje preddiplomski studij arhitekture, građevinarstva, elektrotehnike ili strojarstva sa stečenim nazivom prvostupnik (baccalaureus) i položen stručni ispit propisan posebnim propisom iz graditeljstva, najmanje prema ispitnom programu za prvostupnika (baccalaureus).
+(2) Iznimno od stavka 1. ovoga članka, osoba koja ima najmanje završen studij arhitekture, građevinarstva, elektrotehnike ili strojarstva ili stručni studij sigurnosti sa stečenim nazivom prvostupnik (baccalaureus) i položen stručni ispit za stručnjaka zaštite na radu (posebni dio) ima pravo polaganja stručnog ispita samo za koordinatora II.
+(3) Status koordinatora I i II ima osoba koja ima završen najmanje preddiplomski studij arhitekture, građevinarstva, elektrotehnike ili strojarstva sa stečenim stručnim nazivom prvostupnik (baccalaureus) i koja je položila stručni ispit po posebnom propisu iz graditeljstva, najmanje prema ispitnom programu za prvostupnika (baccalaureus) i koja je stručnjak zaštite na radu (opći i posebni dio).
+(4) O statusu koordinatora iz stavka 3. ovoga članka, ministarstvo donosi rješenje.
