@@ -1,0 +1,5 @@
+## III. KADROVSKI UVJETI
+# Članak 3.
+(1) Fizička osoba koja rad obavlja kao samozaposlena osoba ili pravna osoba koja poslove obavlja samo s jednim zaposlenim iz članka 2. stavka 1, ovoga Pravilnika, može dobiti ovlaštenje za obavljanje poslova iz članka 2. stavka 1. podstavka 1. i 2. ovoga Pravilnika, ako ima najmanje završen preddiplomski i diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij odnosno završen specijalistički diplomski studij iz područja tehničkih, biotehničkih, prirodnih ili društvenih znanosti.
+(2) Fizička osoba koja rad obavlja kao samozaposlena osoba ili pravna osoba koja poslove obavlja samo s jednim zaposlenim iz članka 2. stavka 1. ovoga Pravilnika mora biti stručnjak zaštite na radu s najmanje tri godina radnog iskustva u zaštiti na radu.
+(3) Poslodavac fizička ili pravna osoba može dobiti ovlaštenje za obavljanje poslova zaštite na radu iz članka 2. stavka 2. ovoga Pravilnika, ako ispunjava kadrovske uvjete propisane člancima 4. do 8. ovoga Pravilnika.

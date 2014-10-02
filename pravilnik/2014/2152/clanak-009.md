@@ -1,0 +1,3 @@
+# Članak 9.
+(1) Ovlaštene osobe su obvezne izdavati isprave o provedenim ispitivanjima radne opreme, odnosno radnog okoliša te vode evidencije, čuvaju isprave, daju obavijesti te podatke u skladu sa Zakonom o zaštiti na radu i drugim propisima zaštite na radu, putem informacijskog sustava zaštite na radu Zavoda za unaprjeđivanje zaštite na radu (u daljnjem tekstu: Zavod) u skladu s provedbenim propisom.
+(2) O svim promjenama koje se odnose na ispunjavanje uvjeta potrebnih za dobivanje ovlaštenja, ovlaštena osoba dužna je obavijestiti Zavod odmah po nastanku promjene putem informacijskog sustava zaštite na radu Zavoda u skladu s provedbenim propisom.

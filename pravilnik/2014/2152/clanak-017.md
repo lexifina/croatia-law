@@ -1,0 +1,5 @@
+# Članak 17.
+(1) Ministar će u roku od 60 dana od stupanja na snagu ovoga Pravilnika, utvrditi listu članova komisije iz članka 12. stavka 3. ovoga Pravilnika.
+(2) Do donošenja liste iz stavka 1. ovoga članka primjenjivat će se Odluka ministra od 24. travnja 2012. donesena temeljem Pravilnika o uvjetima pod kojima pravne osobe mogu obavljati poslove zaštite na radu (»Narodne novine«, broj 114/02 i 126/03).
+(3) Danom stupanja na snagu ovoga Pravilnika prestaje važiti Pravilnik o uvjetima pod kojima pravne osobe mogu obavljati poslove zaštite na radu (»Narodne novine«, broj 114/02 i 126/03).
+(4) Danom stupanja na snagu ovoga Pravilnika prestaje važiti Pravilnik o ispitivanju radnog okoliša te strojeva i uređaja s povećanim opasnostima (»Narodne novine«, broj 114/02., 131/02. i 126/03.) osim članaka 14., 15., 16., 17., 18., 19. i 20. koji se odnose na postupak ispitivanja i sadržaj, oblik i način izdavanja isprava o ispitivanju te obrasci uvjerenja o ispitivanju - Obrazac - RO i Obrazac - SU.
