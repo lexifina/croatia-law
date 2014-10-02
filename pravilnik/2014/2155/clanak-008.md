@@ -1,0 +1,3 @@
+# Članak 8.
+(1) Kod poslodavca koji zapošljava od 250 do uključivo 499 radnika, poslove zaštite na radu obavlja najmanje jedan stručnjak zaštite na radu II. stupnja i jedan stručnjak zaštite na radu I. stupnja, a do svakih slijedećih 500 radnika, još najmanje jedan stručnjak zaštite na radu II. stupnja.
+(2) Iznimno od odredbe stavka 1. ovoga članka, kod poslodavca koji zapošljava više od 500 radnika i kod kojega najmanje 80 posto radnika obavlja isključivo poslove s malim rizicima, poslove zaštite na radu obavljaju najmanje jedan stručnjak zaštite na radu II. stupnja i jedan stručnjak zaštite na radu I. stupnja.

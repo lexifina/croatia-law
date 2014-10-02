@@ -1,0 +1,3 @@
+# Članak 5.
+(1) Kada poslodavac ugovori obavljanje poslova zaštite na radu s osobom ovlaštenom za obavljanje poslova zaštite na radu, ovlaštena osoba je o tome obvezna dostaviti elektroničku obavijest putem informacijskog sustava zaštite na radu Zavodu za unaprjeđivanje zaštite na radu u skladu s provedbenim propisom.
+(2) Stručnjak zaštite na radu kojega je ovlaštena osoba odredila za obavljanje poslova zaštite na radu kod poslodavca iz stavka 1. ovoga članka, obvezan ih je obavljati na mjestima rada poslodavca i o tome su ovlaštena osoba i poslodavac obvezni voditi evidencije i dostavljati ih Zavodu za unaprjeđivanje zaštite na radu u skladu s provedbenim propisom.
