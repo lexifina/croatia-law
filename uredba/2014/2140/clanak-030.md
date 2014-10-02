@@ -1,0 +1,6 @@
+# Članak 30.
+Služba za koordinaciju ekonomskih politika i procedure ekonomskog upravljanja organizira i provodi aktivnosti određene okvirom za ekonomsko upravljanje na razini Europske unije koji obuhvaća nadzor i koordinaciju fiskalnih i ekonomskih politika država članica s politikama Europske unije; koordinira sudjelovanje Republike Hrvatske u ciklusu Europskog semestra i aktivnosti koje proizlaze iz ostalih procedura ekonomskog upravljanja, koordinira pripremu reformskih mjera s ciljem uklanjanja neravnoteža i ostvarenja rasta, prati njihovu provedbu te analizira njihove učinke; uspostavlja sustav nacionalnog strateškog planiranja te obavlja i druge poslove iz svoje nadležnosti.
+Za obavljanje poslova iz nadležnosti Službe za koordinaciju ekonomskih politika i procedure ekonomskog upravljanja ustrojavaju se sljedeće ustrojstvene jedinice:
+4.1.1.1. Odjel za koordinaciju sudjelovanja Republike Hrvatske u Europskom semestru i provedbu procedura ekonomskog upravljanja,
+4.1.1.2. Odjel za analitičku procjenu učinaka ekonomskih politika i razvoj sustava strateškog planiranja.
+4.1.1.1. Odjel za koordinaciju sudjelovanja Republike Hrvatske u Europskom semestru i provedbu procedura ekonomskog upravljanja

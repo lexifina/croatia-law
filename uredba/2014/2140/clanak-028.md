@@ -1,0 +1,7 @@
+## 4. UPRAVA ZA STRATEŠKO PLANIRANJE, KOORDINACIJU FONDOVA EU I MEĐUNARODNIH PROGRAMA
+# Članak 28.
+Uprava za strateško planiranje, koordinaciju fondova EU i međunarodnih programa obavlja poslove vezane uz koordinaciju ekonomskih politika i procedure ekonomskog upravljanja, provodi aktivnosti određene okvirom za ekonomsko upravljanje na razini Europske unije koji obuhvaća nadzor i koordinaciju fiskalnih i ekonomskih politika država članica s politikama Europske unije, uključujući koordinaciju sudjelovanja Republike Hrvatske u Europskom semestru; obavlja sve funkcije Koordinancijskog tijela vezano uz koordinaciju, pripremu i praćenje provedbe Europskih strukturnih i investicijskih fondova; koordinira pripremu programa EU, praćenje provedbe programa EU i vrednovanje programa EU u pristupnom i post-pristupnom razdoblju; vodi računa o usklađenosti strateške dokumentacije s EU ciljevima i prioritetima te preuzetim međunarodnim obvezama; postavlja metodologiju izrade strategija i sustav kontrole kvalitete strateške dokumentacije te obavlja i druge poslove iz svoje nadležnosti.
+Za obavljanje poslova iz nadležnosti Uprave za strateško planiranje, koordinaciju fondova EU i međunarodnih programa ustrojavaju se sljedeće ustrojstvene jedinice:
+4.1. Sektor za koordinaciju ekonomskih politika i međunarodne programe,
+4.2. Sektor za planiranje i strateško praćenje ESI fondova.
+4.1. Sektor za koordinaciju ekonomskih politika i međunarodne programe

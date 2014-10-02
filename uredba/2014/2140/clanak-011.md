@@ -1,0 +1,3 @@
+# Članak 11.
+Odjel za uredsko poslovanje obavlja administrativne poslove prijma, klasifikacije i urudžbiranja akata, razvrstavanje, raspoređivanje, otpremu, dostavu i razvođenje akata, arhiviranje, čuvanje i izlučivanje registraturnog gradiva koje nastaje radom Ministarstva; pruža pomoć pri razvrstavanju, izlučivanju i pohranjivanju arhivskog gradiva, sudjeluje u izradi plana klasifikacijskih oznaka i brojčanih oznaka stvaratelja i primatelja pismena u Ministarstvu i pravilnika o obradi, zaštiti, čuvanju i korištenju arhivskog i registraturnog gradiva u Ministarstvu; vodi propisane evidencije; brine o pečatima i žigovima s grbom Republike Hrvatske i natpisnim pločama Ministarstva; obavlja i druge poslove iz svoje nadležnosti.
+2.2. Služba za nabavu

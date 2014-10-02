@@ -1,0 +1,3 @@
+# Članak 13.
+Odjel za pripremu nabave i obradu ponuda obavlja administrativne i stručne poslove vezane uz pripremu i provedbu postupaka javne nabave, određuje uvjete nabave i ugovaranja s obzirom na predmet nabave, priprema upute, obrasce i smjernice za provedbu postupaka javne nabave u skladu s propisima o javnoj nabavi za potrebe ugovaranja projekata koji se financiraju sredstvima Europske unije iz nadležnosti Ministarstva te drugih programa i projekata u nadležnosti Ministarstva, pruža podršku unutarnjim ustrojstvenim jedinicama Ministarstva u pripremi i provedbi razvojnih i drugih programa u dijelu koji se odnose na javnu nabavu te obavlja i druge poslove iz svoje nadležnosti.
+2.2.2. Odjel za kontrolu izvršenja nabave

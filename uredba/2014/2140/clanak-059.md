@@ -1,0 +1,7 @@
+# Članak 59.
+Sektor za pripremu i provedbu projekata obavlja poslove vezane uz: pripremu strateških projekata, uključujući i provedbu prethodne procjene kvalitete natječajne dokumentacije za nabavu radova, roba i usluga; koordinaciju postupaka neovisne procjene i odobrenja strateških projekata te osiguranje nacionalnog sufinanciranja korištenjem zajmova međunarodnih financijskih institucija; obavlja poslove pripreme dokumentacije te provedbe postupaka dodjele sredstava za područja ulaganja u nadležnosti Ministarstva odnosno poslove odobrenja dokumentacije za postupke dodjele sredstava u nadležnosti drugih tijela sustava sve u okviru provedbe Operativnog programa »Regionalna konkurentnost 2007. - 2013.« i Operativnog programa »Konkurentnost i kohezija 2014. - 2020.«; obavlja i druge poslove iz svoje nadležnosti.
+Za obavljanje poslova iz nadležnosti Sektora za pripremu i provedbu projekata ustrojavaju se sljedeće ustrojstvene jedinice:
+5.3.1. Služba za pripremu i provedbu projekata u područjima jačanja gospodarstva i konkurentnosti te socijalne zdravstvene i obrazovne infrastrukture,
+5.3.2. Služba za pripremu i provedbu projekata u područjima energetike, zaštite okoliša te prometne infrastrukture i mobilnosti,
+5.3.3. Služba za horizontalna pitanja pripreme i provedbe projekata.
+5.3.1. Služba za pripremu i provedbu projekata u područjima jačanja gospodarstva i konkurentnosti te socijalne zdravstvene i obrazovne infrastrukture

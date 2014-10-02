@@ -1,0 +1,6 @@
+# Članak 9.
+Služba za opće poslove i uredsko poslovanje obavlja poslove nadgledanja, održavanja, upravljanja zgradama/poslovnim prostorima koje koristi Ministarstvo, brine o njihovom održavanju, vodi i ažurira dokumentaciju o nekretninama, dostavlja dokumentaciju nadležnom državnom odvjetništvu u imovinskopravnim sporovima iz svoje nadležnosti; obavlja poslove obrane, sigurnosti i zaštite, izrađuje planove obrane i evakuacije, poslove zaštite na radu i protupožarne zaštite, poslove održavanja voznog parka i servisa službenih automobila; organizira pružanje internih ugostiteljskih usluga; obavlja poslove pisarnice, pismohrane i druge stručne i administrativne poslove vezane uz postupanje s dokumentacijom i pismenima u Ministarstvu; obavlja primitak i otpremu pošte, izrađuje nacrt i predlaže donošenje internih akata iz svog djelokruga rada, vodi materijalnu evidenciju o nabavi i raspodjeli uredskog materijala i sitnog inventara, daje prijedloge za poboljšanje rada u informacijskom sustavu uredskog poslovanja u Ministarstvu i obavlja druge poslove iz svoje nadležnosti.
+Za obavljanje poslova iz nadležnosti Službe za opće poslove i uredsko poslovanje ustrojavaju se sljedeće ustrojstvene jedinice:
+2.1.2.1. Odjel za opće poslove,
+2.1.2.2. Odjel za uredsko poslovanje.
+2.1.2.1. Odjel za opće poslove

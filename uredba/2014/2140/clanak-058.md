@@ -1,0 +1,3 @@
+# Članak 58.
+Odjel za provedbu međunarodnih instrumenata obavlja poslove provedbe Financijskog mehanizma Kraljevine Norveške, Instrumenta Europskog gospodarskog prostora te Švicarskog instrumenta, brine o provedbi odgovarajućih memoranduma o suglasnosti sklopljenih sa stranim donatorima; obavlja koordinaciju s donatorima i projektnim partnerima, prikuplja projektne prijedloge, vrši odabir i ugovaranje projekata, prati provedbu projekata i programa, izradu izvješća o provedbi programa i informiranje o programima te obavlja i druge poslove iz svoje nadležnosti.
+5.3. Sektor za pripremu i provedbu projekata
