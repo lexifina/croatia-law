@@ -1,0 +1,1 @@
+Na temelju članka 14. stavka 2. Zakona o radnom vremenu, obveznim odmorima mobilnih radnika i uređaja za bilježenje u cestovnom prijevozu (»Narodne novine«, broj 75/2013), ministar pomorstva, prometa i infrastrukture donosi
