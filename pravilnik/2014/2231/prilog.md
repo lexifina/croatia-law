@@ -1,0 +1,1 @@
+| 118 03.10.2014 Pravilnik o izmjeni i dopuni Pravilnika o obavljanju gospodarskog ribolova na moru pridnenom povlačnom mrežom - koćom 118 03.10.2014 Pravilnik o izmjeni i dopuni Pravilnika o obavljanju gospodarskog ribolova na moru pridnenom povlačnom mrežom - koćom
