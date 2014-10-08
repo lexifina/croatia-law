@@ -1,0 +1,3 @@
+# Članak 12.
+Služba za uredsko poslovanje obavlja prijam i dostavu pošte, urudžbiranje, raspoređivanje, otpremu i arhiviranje akata; brine o urednom funkcioniranju svih vrsta upisnika u elektronskom obliku putem e-aplikacije; brine o izradi, raspodjeli, zaduženju i poništenju pečata s grbom Republike Hrvatske, štambilja i natpisnih ploča Ministarstva, vodi evidencije o istima; priprema podloge za postupke javne nabave iz djelokruga rada; sudjeluje u planiranju državnog proračuna; izrađuje načine postupanja o različitim procesima rada; analizira funkcije iz djelokruga rada; podnosi izvješća o učinjenom u kvantitativnom i kvalitativnom smislu; brine o tome da je svaki rashod opravdan stvarnom potrebom i potvrđen prethodnom kontrolom.
+2.3.2. Služba za tehničke poslove

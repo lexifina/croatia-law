@@ -1,0 +1,6 @@
+# Članak 75.
+Služba za provedbu međunarodnih zajmova i strukturnih reformi surađuje i koordinira rad sukladno propisanim procedurama Međunarodne banke za obnovu i razvoj, Razvojne banke Vijeća Europe, Europske unije kao i ostalih međunarodnih financijskih institucija; surađuje s međunarodnim financijskim institucijama i organizacijama na području pripreme i provedbe projekata na području zdravstva financiranih iz sredstava međunarodnih zajmova i donacija; koordinira pripremu i provedbu projekata financiranih od strane međunarodnih financijskih institucija; priprema i provodi postupke nabave za potrebe projekata Svjetske banke, Vijeća Europe i ostalih međunarodnih financijskih institucija; koordinira pripremu i provedbu projekata strukturnih reformi u sustavu zdravstva; sudjeluje na sastancima predstavnika međunarodnih financijskih institucija; surađuje s nadležnim tijelima Vlade Republike Hrvatske i nadležnim državnim tijelima; brine da svaki rashod bude opravdan stvarnom potrebom i potvrđen prethodnom kontrolom; obavlja i druge poslove iz svog djelokruga.
+Za obavljanje poslova iz djelokruga rada Službe za provedbu međunarodnih zajmova i strukturnih reformi ustrojavaju se:
+9.1.1. Odjel za provedbu međunarodnih zajmova
+9.1.2. Odjel za provedbu strukturnih reformi.
+9.1.1. Odjel za provedbu međunarodnih zajmova
