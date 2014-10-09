@@ -1,0 +1,1 @@
+Na temelju članka 4. Zakona o saniranju posljedica katastrofe na području Vukovarsko-srijemske županije (»Narodne novine«, broj 77/2014), Vlada Republike Hrvatske je na sjednici održanoj 9. listopada 2014. godine donijela
