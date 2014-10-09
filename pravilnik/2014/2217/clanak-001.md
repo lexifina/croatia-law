@@ -1,0 +1,3 @@
+## I. OPĆE ODREDBE
+# Članak 1.
+Ovim Pravilnikom propisuje se sadržaj zahtjeva za upis u Očevidnik za ukidanje statusa otpada i Očevidnik nusproizvoda, posebni kriteriji za ukidanje statusa otpada, uključujući granične vrijednosti onečišćujućih tvari i štetan utjecaj tvari ili predmeta na okoliš, posebni kriteriji za određivanje nusproizvoda, sadržaj potvrda o upisu u Očevidnik za ukidanje statusa otpada i Očevidnik nusproizvoda, sadržaj i način vođenja Očevidnika za ukidanje statusa otpada i Očevidnika nusproizvoda te način i uvjeti provedbe propisa Europske unije kojima se utvrđuju kriteriji za ukidanje statusa pojedine vrste otpada.
