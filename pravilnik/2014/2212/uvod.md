@@ -1,0 +1,1 @@
+Na temelju članka 47. stavka 2. i članka 244. stavka 1. Zakona o plovidbi i lukama unutarnjih voda (»Narodne novine« br. 109/2007, 132/2007 i 51A/2013) ministar pomorstva, prometa i infrastrukture donosi
