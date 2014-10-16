@@ -1,0 +1,1 @@
+Odluka o konačnom popisu naselja u općinama Vukovarsko-srijemske županije za otpis dijela zakupnine, naknade za dugogodišnji zakup, naknade za dugogodišnji zakupu za ribnjake i nakade za koncesiju za poljoprivredno zemljište u vlasništvu Republike Hrvatske
