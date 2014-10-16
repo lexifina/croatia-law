@@ -1,0 +1,12 @@
+## Mišljenje Stručnog vijeća
+# Članak 14.
+(1) Nakon provjere Politike prema članku 12. ovoga Pravilnika i provjere Izvješća kako je utvrđeno u članku 13. ovog Pravilnika Stručno vijeće daje svoje mišljenje u skladu s Uredbom, uzimajući u obzir da:
+- predsjednik Stručnog vijeća, nakon što je pregledao provjeru Izvješća i provjeru Politike od strane Radne skupine za provjeru Izvješća o sigurnosti i Radne skupine za provjeru Politike sprječavanja velikih nesreća, daje članovima Stručnog vijeća na sjednici prijedlog mišljenja Stručnog vijeća (u daljnjem tekstu: Prijedlog mišljenja) kojem su u prilogu zapisnici iz članka 12. stavka 3. i članka 13. stavka 3 ovoga Pravilnika,
+- se svi članovi Stručnog vijeća moraju pismeno očitovati na Prijedlog mišljenja.
+(2) U slučaju iz članka 6. stavka 5. ovog Pravilnika Stručno vijeće razmatra utemeljenost razloga glasovanja protiv utvrđenog prijedloga mišljenja Stručnog vijeća.
+(3) Stručno vijeće uzima u obzir informacije dobivene od inspektora koji su sudjelovali u provjeri velikih i izbjegnutih nesreća te utvrđuje potrebne mjere na temelju naučenih lekcija.
+(4) Članovi koji nisu u mogućnosti prisustvovati sjednici dužni su dostaviti svoje primjedbe na prijedlog mišljenja pisanim podneskom, koji dostavljaju najkasnije jedan radni dan prije dana održavanja sjednice na kojoj se odlučuje o prijedlogu mišljenja te će primjedbe biti navedene u konačnom zapisniku ili prilozima uz njega. Primjedbe člana Stručnog vijeća ovjerene potpisom člana sastavni su dio zapisnika sa sjednice.
+(5) Prije donošenja mišljenja Stručno vijeće uzima u obzir mišljenja svih članova, zatim mišljenja, primjedbe i prijedloge javnosti i zainteresirane javnosti, te daje obrazloženje za ona koja nisu prihvaćena.
+(6) Ukoliko Izvješće sadrži sve propisane zahtjeve, a operater postupa protivno napisanom, Stručno vijeće će dati preporuku u kojem roku je potrebno provjeriti Seveso nadzorom provođenje propisanih mjera i aktivnosti.
+(7) Ukoliko mjere i aktivnosti iz članka 12. stavka 4. i članka 13. stavka 4. ovog Pravilnika zahtijevaju izmjene i dopune Izvješća, za koje koordinator procijeni uz savjetovanje s operaterom da ne mogu biti učinjene u propisanom roku sukladno Uredbi predlaže Ministarstvu da zastane s postupkom do dostave izmjena i dopuna Izvješća.
+(8) Ukoliko Stručno vijeće izglasuje protiv Prijedloga mišljenja, predložit će Ministarstvu da zahtjev operatera za izdavanje suglasnosti na Izvješće odbije kao neosnovan.

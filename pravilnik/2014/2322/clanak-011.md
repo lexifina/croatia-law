@@ -1,0 +1,6 @@
+## Tijek postupka
+# Članak 11.
+(1) Na prvoj sjednici Stručno vijeće ocjenjuje potpunost u svezi propisanog obveznog sadržaja, vjerodostojnost i točnost Izvješća na temelju pisanog dokumenta. Provjera vjerodostojnosti u smislu ovog stavka obuhvaća provjeru stručne utemeljenosti te sukladnosti s propisima.
+(2) Kada Stručno vijeće na prvoj sjednici utvrdi da Izvješće ima nedostatke, koji u bitnom nisu odlučujući za utvrđivanje potpunosti, vjerodostojnosti i točnosti Izvješća, predložit će Ministarstvu da od operatera, odnosno ovlaštenika, zaključkom traži dopunu Izvješća u roku od 8 dana, kojom prilikom će obrazložiti u kojem dijelu treba dopuniti Izvješće.
+(3) Kada Stručno vijeće na prvoj sjednici utvrdi da Izvješće ima nedostatke i ako procijeni da ga treba dopuniti podacima koji su takve prirode da, u bitnom, utječu na utvrđivanje potpunosti, vjerodostojnosti i točnosti Izvješća te da tu dopunu nije moguće provesti u roku od 8 dana, predložit će Ministarstvu da zahtjev operatera za izdavanje suglasnosti na Izvješće odbije kao neosnovan.
+(4) Ocjenu potpunosti, vjerodostojnosti i točnosti pisanog dokumenta u smislu stavka 1. ovog članka, svi članovi Stručnog vijeća daju pisanim podneskom koji predaju najkasnije na početku te sjednice, odnosno izjavom na zapisnik s te sjednice.
