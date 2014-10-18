@@ -1,0 +1,1 @@
+Na temelju članka 7. stavka 7. podstavaka 2. i 3. Zakona o uspostavi institucionalnog okvira za provedbu Europskih strukturnih i investicijskih fondova u Republici Hrvatskoj u financijskom razdoblju 2014. - 2020. (»Narodne novine«, broj 92/2014), Vlada Republike Hrvatske je na sjednici održanoj 9. listopada 2014. godine donijela
