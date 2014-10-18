@@ -1,0 +1,3 @@
+## O DOPUNI UREDBE O ODREĐIVANJU TIJELA ZA PROVEDBU UREDBE (EZ-a) BR. 2006/2004 EUROPSKOG PARLAMENTA I VIJEĆA OD 27. LISTOPADA 2004. O SURADNJI IZMEĐU NACIONALNIH TIJELA ODGOVORNIH ZA PROVEDBU PROPISA O ZAŠTITI POTROŠAČA (UREDBA O SURADNJI U ZAŠTITI POTROŠAČA)
+# Članak 1.
+U Uredbi o određivanju tijela za provedbu Uredbe (EZ-a) br. 2006/2004 Europskog parlamenta i Vijeća od 27. listopada 2004. o suradnji između nacionalnih tijela odgovornih za provedbu propisa o zaštiti potrošača (Uredba o suradnji u zaštiti potrošača) (»Narodne novine«, broj 84/2014), u članku 2. točki 4. iza riječi: »stvari« dodaju se riječi: »te na ugovor o organiziranju putovanja;«.
