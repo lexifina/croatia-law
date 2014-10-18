@@ -1,0 +1,4 @@
+## PRIJELAZNE I ZAVRŠNE ODREDBE
+# Članak 15.
+Ova Uredba ne primjenjuje se na osnovicu i visinu godišnje naknade za koncesije za gospodarsko i drugo korištenje javnog vodnog dobra s podizanjem trajnih građevina, odnosno ugradnjom uređaja, za koje su ugovori o koncesiji sklopljeni prije stupanja na snagu ove Uredbe.
+Na osnovicu i visinu godišnje naknade za koncesije za korištenje voda za postavljanje plutajućih ili plovećih objekata na unutarnjim vodama radi obavljanja ugostiteljske ili druge gospodarske djelatnosti i za korištenje voda za uzgoj riba i drugih vodenih organizama pogodnih za gospodarski uzgoj, za koje su ugovori o koncesiji sklopljeni prije stupanja na snagu ove Uredbe, primjenjuje se Uredba o uvjetima davanja koncesija za gospodarsko korištenje voda (»Narodne novine«, br. 89/2010, 46/2012 i 51/2013).
