@@ -1,0 +1,7 @@
+# Članak 9.
+(1) Troškovi održavanja mjeriteljske infrastrukture su troškovi održavanja sustava ovlaštenih tijela za ovjeravanje zakonitih mjerila i godišnji troškovi održavanja potporne infrastrukture Zavoda.
+(2) Ovlašteno tijelo za ovjeravanje zakonitih mjerila koje provodi prvu, redovnu i izvanrednu ovjeru zakonitih mjerila Zavodu plaća mjesečnu naknadu za održavanje sustava ovlaštenih tijela u visini od 15 % obračunatih troškova ovjeravanja mjerila određenih ovim Pravilnikom i godišnju naknadu za održavanje potporne infrastrukture određenu ovim Pravilnikom.
+(3) U postupku prve, redovne i izvanredne ovjere komunalnih mjerila (električna brojila, plinomjeri, vodomjeri, mjerila toplinske energije) ovlašteno tijelo za ovjeru zakonitih mjerila Zavodu plaća mjesečnu naknadu za održavanje sustava ovlaštenih tijela u visini od 10% obračunatih troškova određenih ovim Pravilnikom i godišnju naknadu za održavanje potporne infrastrukture određenu ovim Pravilnikom.
+(4) Troškovi održavanja sustava ovlaštenih tijela obračunavaju se prema ukupnom broju ovjerenih mjerila i izdanih ovjernica od strane ovlaštenog tijela u proteklom mjesecu.
+(5) Ovlašteno tijelo dužno je Zavodu dostaviti izvješće o ukupnom broju ovjerenih mjerila i izdanih ovjernica najkasnije do 10. u mjesecu za protekli mjesec.
+(6) Godišnji troškovi održavanja potporne infrastrukture Zavoda obračunavaju se prema ukupnom broju ovjerenih mjerila u protekloj kalendarskoj godini.

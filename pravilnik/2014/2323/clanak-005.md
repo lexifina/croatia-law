@@ -1,0 +1,2 @@
+# Članak 5.
+Ako ovlašteno tijelo za pripremu zakonitih mjerila za ovjeravanje kao podnositelj zahtjeva pravodobno ne pripremi mjerilo za ovjeravanje odnosno ne osigura potreban broj djelatnika i opremu za ispitivanje u postupku ovjeravanja, a ovlašteni mjeritelj izađe po pozivu na mjesto ispitivanja i na zahtjev stranke čeka da se mjerilo pripremi za ovjeravanje, naknada za vrijeme čekanja plaća se po započetom radnom satu.
