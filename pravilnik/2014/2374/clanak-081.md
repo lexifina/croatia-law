@@ -1,0 +1,5 @@
+## Utvrđivanje rezultata i zaključna knjiženja
+# Članak 81.
+(1) Na kraju izvještajnog razdoblja rezultat se utvrđuje tako da se za ukupan iznos rashoda i izdataka odobravaju računi rasporeda rashoda i izdataka u skupinama 39, 49 i 59 i zadužuju odgovarajući računi rezultata poslovanja skupine 92. Za ukupnu svotu prihoda i primitaka zadužuju se računi rasporeda prihoda i primitaka u skupinama 69, 79 i 89 i odobravaju odgovarajući računi rezultata poslovanja u skupini 92.
+(2) Ako je potražna strana na računima rezultata poslovanja skupine 92 veća od dugovne za utvrđenu razliku zadužuje se odgovarajući račun rezultata poslovanja i odobrava odgovarajući račun viška prihoda i primitaka u skupini 92. Ako je dugovna strana na računima rezultata poslovanja skupine 92 veća od potražne za utvrđenu razliku odobrava se odgovarajući račun rezultata poslovanja i zadužuje odgovarajući račun manjka prihoda i primitaka u skupini 92.
+(3) Na kraju godine svi računi u razredima 3, 4, 5, 6, 7 i 8 se zatvaraju.

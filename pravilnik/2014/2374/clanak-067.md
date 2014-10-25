@@ -1,0 +1,4 @@
+# Članak 67.
+(1) Skupina računa 63 - Pomoći iz inozemstva i od subjekata unutar općeg proračuna obuhvaća tekuće i kapitalne prijenose koje proračuni i proračunski korisnici dobiju od inozemnih vlada, međunarodnih organizacija te institucija i tijela EU, iz proračuna, od izvanproračunskih korisnika, pomoći izravnanja za decentralizirane funkcije, pomoći proračunskim korisnicima iz proračuna koji im nije nadležan te pomoći iz državnog proračuna temeljem prijenosa EU sredstava.
+(2) Pomoći od institucija i tijela EU i pomoći iz državnog proračuna temeljem prijenosa EU sredstava (tekuće i kapitalne) priznaju se u prihode izvještajnog razdoblja razmjerno troškovima provedbe ugovorenih programa i projekata.
+(3) Proračunski korisnici iskazuju sredstva koja ostvare iz proračuna koji im nije nadležan u podskupini računa 636 Pomoći proračunskim korisnicima iz proračuna koji im nije nadležan, i u slučaju kada ista ostvare preko nadležnog proračuna.

@@ -1,0 +1,3 @@
+# Članak 77.
+(1) Prodaja vrijednosnih papira evidentira se odobrenjem računa primitaka od prodaje vrijednosnih papira u skupini 82 i zaduženjem računa novčanih sredstava. Istovremeno se odobrava odgovarajući račun obveza za vrijednosne papire u skupini 25 i zadužuje odgovarajući račun ispravka vlastitih izvora u skupini 91.
+(2) Prodaja dionica i udjela u glavnici evidentira se odobrenjem računa primitaka od prodaje dionica i udjela u glavnici u skupini 83 i zaduženjem računa novčanih sredstava. Istovremeno se odobrava račun dionica i udjela u glavnici u skupini 15 i zadužuje račun izvora vlasništva u skupini 91.

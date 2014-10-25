@@ -1,0 +1,7 @@
+# Članak 32.
+(1) Skupina računa 12 - Depoziti, jamčevni polozi i potraživanja od zaposlenih te za više plaćene poreze i slično sadrži: depozite u kreditnim i ostalim financijskim institucijama, jamčevne pologe, potraživanja od zaposlenih, potraživanja za više plaćene poreze i doprinose te ostala potraživanja.
+(2) Depoziti su oblik potraživanja na temelju pologa novca kod depozitara - kreditnih i ostalih financijskih institucija.
+(3) Jamčevni polozi su jamčevine odnosno kaucije dane kao osiguranje izvršenja ugovorne obveze.
+(4) Kratkoročni depoziti evidentiraju se zaduženjem odgovarajućeg računa skupine 12 i odobrenjem računa novčanih sredstava, a dugoročni depoziti i kratkoročni depoziti koji se vraćaju u sljedećoj godini evidentiraju se i preko odgovarajućih računa razreda 5 i 8.
+(5) Potraživanja za prodana potraživanja (faktoring) evidentiraju se zaduženjem odgovarajućeg računa skupine 12 i odobrenjem odgovarajućeg računa potraživanja koje se prodaje. U trenutku naplate sredstava od faktora zadužuje se obračunati prihod skupine 96 ili 97 i odobrava odgovarajući izvorni prihod.
+(6) Predujmovi za nabavu nefinancijske imovine evidentiraju se zaduženjem osnovnog računa 12912 Potraživanja za predujmove uz odobrenje računa novčanih sredstava. Primitak fakture evidentira se zaduženjem odgovarajućeg osnovnog računa u razredu 4 Rashodi za nabavu nefinancijske imovine i odobrenjem odgovarajućeg osnovnog računa u skupini 24 Obveze za nabavu nefinancijske imovine. Potraživanje za predujam se odobrava uz zaduženje računa navedenih obveza.

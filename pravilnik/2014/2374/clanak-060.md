@@ -1,0 +1,5 @@
+# Članak 60.
+(1) Proračuni i proračunski korisnici koji mogu davati dugoročne zajmove i kratkoročne s dospijećem u sljedećoj godini evidentiraju ih zaduživanjem odgovarajućeg računa u skupini 51 Izdaci za dane zajmove i depozite i odobravanjem računa novčanih sredstava te se istovremeno zadužuje odgovarajući račun zajmova u skupini 13 i odobrava odgovarajući račun vlastitih izvora u razredu 9. Potraživanja za kamate evidentiraju se odvojeno na odgovarajućem računu potraživanja za prihode poslovanja u skupini 16.
+(2) Dugoročni depoziti i kratkoročni koji se vraćaju u sljedećoj godini evidentiraju se odobrenjem računa novčanih sredstava i zaduženjem odgovarajućeg računa izdataka u podskupini 518 Izdaci za depozite i jamčevne pologe te se istovremeno zadužuje račun u skupini 12 i odobrava odgovarajući račun vlastitih izvora u razredu 9.
+(3) Dani kratkoročni zajmovi koji se vraćaju u istoj godini evidentiraju se preko odgovarajućeg računa skupine 13 i odobrenjem računa novčanih sredstava.
+(4) Kratkoročni depoziti koji se vraćaju u istoj godini evidentiraju se preko odgovarajućeg računa skupine 12 i odobrenjem računa novčanih sredstava.

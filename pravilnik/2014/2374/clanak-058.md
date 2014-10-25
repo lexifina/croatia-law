@@ -1,0 +1,2 @@
+# Članak 58.
+Rashodi za dodatna ulaganja jesu ulaganja kojima se produžuje vijek upotrebe, povećava kapacitet, mijenja namjena ili znatno poboljšavaju funkcionalna svojstva nefinancijske imovine kao npr. ulaganja u obnovu, rekonstrukciju ili povećanje nefinancijske imovine koja ne moraju biti uvjetovana stanjem imovine. Za vrijednost dodatnih ulaganja povećava se vrijednost imovine na kojoj je ulaganje izvršeno.

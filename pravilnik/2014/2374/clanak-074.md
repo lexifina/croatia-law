@@ -1,0 +1,3 @@
+## Vg. PRIHODI OD PRODAJE NEFINANCIJSKE IMOVINE
+# Članak 74.
+Prodaja nefinancijske imovine evidentira se odobrenjem odgovarajućeg računa obračunatih prihoda od prodaje nefinancijske imovine u skupini računa 97 i zaduženjem odgovarajućeg računa potraživanja od prodaje nefinancijske imovine u skupini računa 17. Istovremeno se odobrava račun prodane nefinancijske imovine u razredu 0 i zadužuje odgovarajući račun izvora vlasništva u skupini 91. Kada kupac plati kupljenu imovinu zadužuje se račun novčanih sredstava i odobrava račun potraživanja od prodaje nefinancijske imovine u skupini računa 17, istovremeno se zadužuje račun obračunatih prihoda u skupini računa 97 i odobrava odgovarajući račun prihoda od prodaje nefinancijske imovine u razredu 7.
