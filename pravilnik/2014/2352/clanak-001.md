@@ -1,0 +1,3 @@
+# Članak 1.
+U Pravilniku o uvjetima za obavljanje djelatnosti proizvodnje, stavljanja na tržište i korištenja opasnih kemikalija (»Narodne novine«, broj 99/2013 i 157/2013) u članku 2. iza stavka 1. dodaje se stavak 2. koji glasi:
+»(2) Ovaj Pravilnik, osim članka 7., ne primjenjuje se na pravne i fizičke osobe koje obavljaju djelatnost prodaje na malo robe široke potrošnje (sredstva za čišćenje u kućanstvu) ili ih koriste, koji ne moraju slati radnike na zdravstvene preglede ciljane na rad s opasnim kemikalijama, kao niti na edukaciju - tečaj za rad s opasnim kemikalijama pod uvjetom da ne stavljaju po prvi puta opasnu kemikaliju na tržište.«
