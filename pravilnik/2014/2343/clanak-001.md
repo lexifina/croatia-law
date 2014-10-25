@@ -1,0 +1,4 @@
+## OPĆE ODREDBE
+# Članak 1.
+(1) Ovim Pravilnikom propisuju se uvjeti za održavanje i unapređivanje ispunjavanja temeljnih zahtjeva za građevinu, energetskih svojstava zgrada te nesmetanog pristupa i kretanja u građevini kao i način ispunjavanja i dokumentiranja ispunjavanja ovih zahtjeva i svojstava.
+(2) Ovaj Pravilnik se ne odnosi na izvođenje građevinskih i drugih radova na postojećoj građevini kojima se utječe na ispunjavanje temeljnih zahtjeva za tu građevinu ili kojima se mijenja usklađenost te građevine s lokacijskim uvjetima u skladu s kojima je izgrađena (dograđivanje, nadograđivanje, uklanjanje vanjskog dijela građevine, izvođenje radova radi promjene namjene građevine ili tehnološkog procesa i sl.), odnosno izvedba građevinskih i drugih radova na ruševini postojeće građevine u svrhu njezine obnove.

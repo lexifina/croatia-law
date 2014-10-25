@@ -1,0 +1,15 @@
+# Članak 11.
+(1) Redovito održavanje građevine obuhvaća provođenje skupa preventivnih mjera koje se provode prema prethodno utvrđenom planu i programu kako bi se trajno zadržala primjerena uporabljivost građevine tijekom njezina trajanja, te skup preventivnih ili interventnih mjera koje obuhvaćaju zamjenu, dopunu i/ili popunu dijelova građevine i ugrađene opreme u razmacima i opsegu određenim projektom građevine, odnosno u slučaju kada dio građevine više nije uporabljiv, a ta neuporabljivost nije posljedica kakvog izvanrednog događaja.
+(2) Redovito održavanje iz stavka 1. ovoga članka obuhvaća osobito:
+1. praćenje i kontrolu stanja građevine odnosno njezinog dijela radi uočavanja ili utvrđivanja nedostataka na njoj tijekom uporabe, a koji mogu ugroziti stabilnost građevine ili susjednih građevina, njezine funkcije, zdravlje ljudi i okoliš,
+2. otklanjanje nedostataka na način i u opsegu potrebnom da se zatečeno stanje građevine uskladi s projektiranim stanjem građevine,
+(3) Ovisno o vrsti građevine, skup preventivnih mjera koje se provode u okviru redovitog održavanja prema prethodno utvrđenom planu i programu kako bi se trajno zadržala primjerena uporabljivost građevine tijekom njezina trajanja, može obuhvatiti:
+1. održavanje čistim i prohodnim dijelova građevine u slučajevima u kojima o čistoći i prohodnosti tih dijelova ovisi ispunjavanje temeljnih zahtjeva za građevinu ili trajnost građevine,
+2. popravak dijelova građevine koji su oštećeni redovitom uporabom građevine, a kojima ovisi ispunjavanje temeljnih zahtjeva za građevinu ili trajnost građevine,
+3. obnova zaštitnih slojeva odnosno sustava zaštite građevine,
+4. ugađanje, čišćenje, podmazivanje, servisiranje ugrađene opreme i uređaja, provjera razine tekućina i druge aktivnosti koji su predviđeni projektom građevine i dokumentacijom te opreme, uređaja i instalacija.
+(4) Ovisno o vrsti građevine, skup preventivnih ili interventnih mjera koje se provode u okviru redovitog održavanja, a koje uključuju zamjenu, dopunu i/ili popunu dijelova građevine i ugrađene opreme u razmacima i opsegu određenim projektom građevine, odnosno u slučaju kada dio građevine više nije uporabljiv a ta neuporabljivost nije posljedica kakvog izvanrednog događaja, može obuhvatiti:
+1. zamjenu dijelova građevine i opreme, uređaja i instalacija za koje je istekao rok trajanja ili je dotrajala tijekom uporabe, odgovarajućim ispravnim dijelovima,
+2. otklanjanje nedostataka glede osiguravanja nesmetanog pristupa i kretanje osobama s invaliditetom i smanjene pokretljivosti, ako je primjenjivo,
+3. otklanjanje posljedica izazvanih predvidivim ili očekivanim erozijama okolnog tla, neposrednim djelovanjem vode ili djelovanjem atmosferilija na građevinu.
+(5) Za građevine koje se s obzirom na zahtjevnost postupka u vezi s gradnjom prema odredbama Zakona o gradnji razvrstavaju u građevine 1., 2. i 3. skupine vlasnik je dužan izraditi plan i program održavanja koji određuje koje će se radnje redovitog održavanja provoditi u razdoblju od pet godina.
