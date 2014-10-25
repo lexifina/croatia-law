@@ -1,0 +1,8 @@
+# Članak 6.
+1) Nositelji odobrenja za stavljanje lijeka u promet, nositelji odobrenja za paralelni uvoz lijeka, proizvođači lijekova, uvoznici i veleprodaje uključeni u proizvodnju ili obavljanje prometa na veliko lijekovima obvezni su pisanim putem obavijestiti Agenciju o svakom opaženom slučaju iz članka 2. ovoga Pravilnika koji može imati za posljedicu obustavu stavljanja lijeka u promet ili povlačenje lijeka iz prometa te ograničenja u primjeni lijeka koja nisu navedena u odobrenom sažetku opisa svojstava lijeka i odobrenoj uputi o lijeku.
+2) Fizičke i pravne osobe iz stavka 1. ovoga članka obvezne su kod sumnje u neispravnost u kakvoći lijeka Agenciji dostaviti pisanu obavijest u roku od:
+- 12 sati od utvrđivanja neispravnosti, ako neispravnost odgovara klasi I. iz članka 12. ovoga Pravilnika,
+- 24 sata od utvrđivanja neispravnosti, ako neispravnost odgovara klasi II. iz članka 12. ovoga Pravilnika, odnosno kod sumnje na krivotvorinu,
+- 7 dana od utvrđivanja neispravnosti, ako neispravnost odgovara klasi III. iz članka 12. ovoga Pravilnika.
+3) Fizičke i pravne osobe iz stavka 1. ovoga članka obvezne su provesti i sve ostale mjere koje se odnose na obustavu stavljanja lijeka u promet ili povlačenje lijeka iz prometa propisane važećim pravilnicima o dobroj proizvođačkoj praksi i dobroj praksi u prometu na veliko lijeka i njihovim standardnim operativnim postupcima.
+4) Fizičke i pravne osobe iz stavka 1. ovog članka, obvezne su dostaviti Agenciji pisano izvješće o provedenim mjerama u slučajevima iz stavaka 1., 2. i 3. ovoga članka u roku od 14 dana od dana poduzimanja mjera.
