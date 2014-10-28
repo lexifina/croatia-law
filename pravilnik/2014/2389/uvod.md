@@ -1,0 +1,1 @@
+Na temelju članka 81. Zakona o izmjenama i dopunama Ovršnog zakona (»Narodne novine«, broj 93/14), u vezi s člankom 216. stavkom 3. Ovršnog zakona (»Narodne novine«, broj 112/12 i 25/13), ministar pravosuđa donosi
