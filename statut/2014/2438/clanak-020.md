@@ -1,0 +1,30 @@
+# Članak 20.
+Upravni odbor:
+- provodi odluke i zaključke Skupštine
+- izrađuje prijedlog Statuta i drugih općih akata Komore na prijedlog Predsjedništva Komore
+- predlaže odluke i zaključke, zauzima stavove te daje mišljenja o pitanjima o kojima će raspravljati Skupština na prijedlog Predsjedništva Komore
+- utvrđuje i usklađuje interese članova Komore na prijedlog Predsjedništva Komore
+- predlaže Skupštini imenovanja i razrješenja u skladu sa Statutom na prijedlog Predsjedništva Komore
+- odlučuje u drugom stupnju o prigovorima službenika i namještenika Komore protiv pojedinačnih odluka iz radnih odnosa na prijedlog Predsjedništva Komore
+- odlučuje o prijemu i prestanku članstva u Komori na prijedlog Predsjedništva Komore
+- donosi sve potrebne pravilnike na prijedlog Predsjedništva Komore
+- odlučuje o osnivanju i pravilnikom određuje rad odbora za pojedine sektore u poljoprivredi na prijedlog Predsjedništva Komore
+- ustanovljuje listu arbitara te imenuje i razrješava članove arbitraže na prijedlog Predsjednika Komore
+- za specifična pitanja može osnovati posebne komisije i pravilnikom odrediti njihov rad na prijedlog Predsjedništva Komore
+- odlučuje u drugom stupnju o žalbama na odluke Suda časti na prijedlog Predsjedništva Komore
+- donosi odluke o osnivanju stalnih i povremenih tijela Komore na prijedlog Predsjedništva Komore
+- osniva javna glasila Komore i druge publikacije na prijedlog Predsjedništva Komore
+- odlučuje o sjedištu Komore na prijedlog Predsjedništva Komore
+- pribavlja i raspoređuje sredstva za rad Komore na prijedlog Predsjedništva Komore
+- odlučuje o tome što je službena odnosno poslovna tajna Komore
+- donosi odluke o osnivanju pravnih osoba i raspolaže njima
+- donosi odluke o udruživanju s drugim pravnim osobama uz verificiranje odluke na prvoj sljedećoj Skupštini Komore na prijedlog Predsjedništva Komore
+- donosi odluke o ulaganju kapitala na prijedlog Predsjedništva Komore
+- imenuje osobe u upravne i nadzorne odbore pravnih osoba koje je osnovala ili u upravne i nadzorne odbore drugih pravnih osoba, na prijedlog Predsjedništva Komore
+- obavlja i druge potrebne poslove u skladu sa Statutom i drugim općim aktima Komore
+- može uvesti naknade za pojedina tijela Komore
+- imenuje i razrješava Predstojnika Stručnih službi na prijedlog Predsjednika
+- odlučuje o zasnivanju i prestanku radnog odnosa zaposlenih, na prijedlog Predsjednika
+- raspisuje natječaje za radna mjesta u Komori i odlučuje o sklapanju radnog odnosa na prijedlog Predsjednika
+- donosi Pravilnik o ustroju i sistematizaciji radnih mjesta u Komori na prijedlog Predsjedništva
+- imenuje Povjerenstvo za provedbu izbora i potvrđuje Pravilnik o provođenju izbora na prijedlog Predsjedništva.

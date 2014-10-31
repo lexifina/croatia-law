@@ -1,0 +1,4 @@
+# Članak 58.
+(1) Komora određuje sredstva potrebna za rad Komore godišnjim financijskim planom na osnovi predviđenih troškova za izvršenje zadaća iz programa rada Komore, troškova za rad organa, radnih tijela i stručne službe Komore te drugih tekućih troškova.
+(2) Svaka županija ima pravo potrošiti 50% sredstava od prikupljenih članarina iz te županije temeljem usvojenog Plana rada i Financijskog plana za tu istu županiju, koji je prethodno usvojila Skupština u skladu s djelatnostima Komore odnosno mora osigurati minimalno 2.000,00 kuna godišnje za rad Stručne službe.
+(3) Izvanredni prihodi pojedine županije (donacije, sponzorstva darovi i dr.) potrošit će se u toj istoj županiji temeljem potpisanih ugovora ili drugih dokumenata u skladu s odredbama ovog Statutom ili s drugim aktima Komore.
