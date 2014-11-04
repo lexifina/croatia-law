@@ -1,0 +1,2 @@
+# Članak 9.
+Okvirni broj potrebnih državnih službenika i namještenika u Državnoj upravi za zaštitu i spašavanje prikazan u tablici koja je sastavni dio Uredbe o unutarnjem ustrojstvu Državne uprave za zaštitu i spašavanje (»Narodne novine«, broj 43/2012) zamjenjuje se Okvirnim brojem potrebnih državnih službenika i namještenika u Državnoj upravi za zaštitu i spašavanje koji je sadržan u tablici u prilogu ove Uredbe i njezin je sastavni dio.
