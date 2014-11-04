@@ -1,0 +1,1 @@
+Na temelju članka 79. Zakona o službenicima i namještenicima u lokalnoj i područnoj (regionalnoj) samoupravi (»Narodne novine«, br. 86/2008 i 61/2011), Vlada Republike Hrvatske je na sjednici održanoj 23. listopada 2014. godine donijela
