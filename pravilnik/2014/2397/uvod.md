@@ -1,0 +1,1 @@
+Na temelju članka 232. stavka 1. podstavka 1., 2., 5., 6., 11., 19., 20., 21., 22., 24. i 25. i stavka 2. točke 1. Zakona o strancima (»Narodne novine« broj 130/2011 i 74/2013) ministar unutarnjih poslova donosi
