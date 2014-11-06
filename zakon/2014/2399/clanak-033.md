@@ -1,0 +1,3 @@
+# Članak 33.
+(1) Sustav ovlašćivanja i/ili certificiranja, odnosno istovrijedan kvalifikacijski sustav za građevinske radnike koji ugrađuju građevne elemente povezane s energijom, instalatere dijelova zgrada povezanih s energijom, uključujući program certificiranja ili istovrijedni program kvalifikacije za instalatere manjih kotlova i peći na biomasu, fotonaponskih sustava, solarnih termalnih sustava, plitkih geotermalnih sustava i toplinskih crpki, propisuje pravilnikom ministar nadležan za poslove graditeljstva uz suglasnost ministra.
+(2) Ministar nadležan za poslove graditeljstva može poslove ovlašćivanja i/ili certificiranja prenijeti na druge osobe.

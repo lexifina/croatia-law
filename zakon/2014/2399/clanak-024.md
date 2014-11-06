@@ -1,0 +1,9 @@
+# Članak 24.
+(1) Dobavljači proizvoda, koji imaju značajan izravan ili neizravan utjecaj na potrošnju energije, i gdje je primjenjivo, na potrošnju drugih bitnih izvora tijekom korištenja, dužni su u tehničkoj dokumentaciji proizvoda navesti količinu energije koja se troši u propisanim uvjetima rada.
+(2) Dobavljač proizvoda dužan je:
+1. distributeru proizvoda osigurati oznaku energetske učinkovitosti i informacijski list
+2. osigurati tehničku dokumentaciju i na zahtjev nadležnog inspektora poslati elektroničku verziju dokumentacije na uvid u roku od deset dana od primitka zahtjeva.
+(3) Distributer proizvoda dužan je na proizvod, koji je u prodavaonicama izložen radi prodaje, vidljivo istaknuti oznaku energetske učinkovitosti, a ako se proizvod prodaje na način koji ne omogućuje kupcu proizvoda uvid u informacijski list, dužan je osigurati da se kupac proizvoda prije kupnje proizvoda upozna s podacima iz informacijskog lista i s oznake energetske učinkovitosti.
+(4) Prilikom oglašavanja proizvoda nužno je navesti razred energetske učinkovitosti proizvoda. U svim tehničkim materijalima vezanim uz proizvod, koji opisuje njegove tehničke karakteristike, potrebno je navesti informacije vezane uz potrošnju energije ili razred energetske učinkovitosti proizvoda.
+(5) Ministar, uz prethodnu suglasnost ministra nadležnog za poslove zaštite okoliša, propisuje pravilnikom oblik i sadržaj oznake, ovisno o vrsti proizvoda s obzirom na uporabu energije, zahtjeve minimalne energetske učinkovitosti proizvoda, obvezu određenih proizvoda da ispunjavaju uvjete minimalne energetske učinkovitosti, proizvode koji moraju biti opremljeni oznakom energetske učinkovitosti te postupke verifikacije u svrhu tržišnog nadzora.
+(6) Odredbe ovoga članka ne primjenjuju se na rabljene proizvode, proizvode namijenjene prijevozu ljudi i dobara te na natpisne pločice ili njihove ekvivalente nalijepljene na proizvode iz sigurnosnih razloga.

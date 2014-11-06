@@ -1,0 +1,5 @@
+## Sustav za praćenje, mjerenje i verifikaciju ušteda energije
+# Članak 22.
+(1) Sustav za praćenje, mjerenje i verifikaciju ušteda energije računalni je sustav za prikupljanje, obradu i verifikaciju informacija o energetskoj učinkovitosti i ostvarenim uštedama energije, a vodi ga Nacionalno koordinacijsko tijelo u skladu s pravilnikom za praćenje, mjerenje i verifikaciju ušteda energije koji donosi ministar.
+(2) Informacije iz stavka 1. ovoga članka dužni su u sustav za praćenje, mjerenje i verifikaciju ušteda energije unositi odgovorne osobe javnog sektora, pružatelji energetske usluge i davatelji subvencije.
+(3) Pravilnikom iz stavka 1. ovoga članka određuje se metodologija koja obuhvaća način praćenja i izračun pokazatelja potrošnje energije na nacionalnoj i sektorskoj razini, način izračuna uštede energije koja je rezultat provedbe mjera za poboljšanje energetske učinkovitosti i uštede energije koja je rezultat primjene energetskih usluga i postupak verifikacije ušteda energije, kao i metodologija za izradu Akcijskog plana, odnosno Godišnjeg plana.

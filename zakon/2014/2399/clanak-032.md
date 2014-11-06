@@ -1,0 +1,5 @@
+## Eko-dizajn proizvoda povezanih s energijom
+# Članak 32.
+(1) Proizvodi povezani s energijom mogu biti stavljeni na tržište samo ako su sukladni sa zahtjevima propisanim za eko-dizajn proizvoda i ako je njihova sukladnost utvrđena u propisanom postupku te ako su označeni u skladu s propisom koji se odnosi na tu grupu proizvoda.
+(2) Ministar, uz prethodnu suglasnost ministra nadležnog za zaštitu okoliša, pravilnikom propisuje opće uvjete za eko-dizajn proizvoda i zahtjeve za stavljanje proizvoda povezanih s energijom na tržište i uporabu, dužnosti uvoznika, postupak ocjene sukladnosti i oznaku sukladnosti te druge uvjete koji osiguravaju primjenu zahtjeva za eko-dizajnom proizvoda.
+(3) Ministar, uz prethodnu suglasnost ministra nadležnog za zaštitu okoliša donosi tehničke propise kao provedbene mjere eko-dizajna, u skladu s posebnim zakonom kojim se uređuju tehnički zahtjevi za proizvode i ocjena sukladnosti te pravilnikom iz stavka 2. ovoga članka, koji propisuju posebne tehničke zahtjeve za eko-dizajn pojedine vrste ili grupe proizvoda povezanih s energijom, osim za građevinske proizvode koji su u nadležnosti ministarstva nadležnog za poslove graditeljstva.

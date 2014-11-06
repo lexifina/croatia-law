@@ -1,0 +1,6 @@
+# Članak 43.
+(1) Akcijski plan iz članka 11. ovoga Zakona donosi se sukladno odredbama ovoga Zakona do 31. prosinca 2016.
+(2) Godišnji plan iz članka 12. ovoga Zakona donosi se sukladno odredbama ovoga Zakona do 31. prosinca 2014. za 2015. godinu.
+(3) Velika poduzeća iz članka 19. ovoga Zakona dužna su napraviti prvi energetski pregled sukladno odredbama ovoga Zakona do 5. prosinca 2015.
+(4) Javni sektor dužan je napraviti prvi energetski pregled javne rasvjete iz članka 20. ovoga Zakona sukladno odredbama ovoga Zakona do 1. srpnja 2015.
+(5) Stopa od 3 % ukupne površine poda iz članka 8. stavka 2. točke 6. ovoga Zakona izračunava se svake godine počevši od 1. siječnja 2014. na temelju ukupne površine poda zgrada u vlasništvu i uporabi središnje vlasti Republike Hrvatske čija je ukupna korisna površina poda veća od 500 m², a ne ispunjavaju nacionalne minimalne zahtjeve energetskih svojstava određene posebnim propisom. Prag se od 9. srpnja 2015. smanjuje na 250 m². U slučaju primjene alternativnog pristupa, uštede energije procjenjuju se pomoću odgovarajućih standardnih vrijednosti za potrošnju energije u zgradama središnje vlasti prije i nakon obnove te na temelju procijenjene površine njihova fonda.

@@ -1,0 +1,6 @@
+## Energetska usluga za zgrade javnog sektora
+# Članak 28.
+(1) APN provodi postupak javne nabave za energetsku uslugu u zgradarstvu u ime i za račun proračunskih i izvanproračunskih korisnika državnog proračuna Republike Hrvatske, u skladu s programom energetske obnove zgrada javnog sektora.
+(2) Ostali subjekti javnog sektora koji nisu određeni stavkom 1. ovoga članka mogu na temelju pisanog sporazuma, odnosno ugovora ovlastiti APN da u njihovo ime i račun provodi postupak javne nabave za energetsku uslugu u zgradarstvu. Subjekti u čije ime i račun APN provodi postupke javne nabave za energetsku uslugu plaćaju, odnosno podmiruju APN troškove tih postupaka, uz plaćanje troškova u vezi s provedbom tog postupka.
+(3) APN je dužna na svojim mrežnim stranicama objaviti obrazac sa standardiziranim dijelovima ugovora o energetskom učinku koji mora biti u skladu s odredbama ovoga Zakona.
+(4) Program iz stavka 1. ovoga članka donosi Vlada Republike Hrvatske, na prijedlog ministarstva nadležnog za graditeljstvo, a njime su obuhvaćeni: ciljevi provedbe programa, kriteriji za provedbu postupka javne nabave za energetsku uslugu, sudionici programa i njihova prava i obveze, troškovi programa i način namirenja troškova, način financiranja obveza koje proizlaze iz provedbe programa, indikatori realizacije programa i drugo.
