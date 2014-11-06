@@ -1,0 +1,6 @@
+# Članak 1.
+U Pravilniku o povlastici za obavljanje gospodarskog ribolova na moru i Registru povlastica (»Narodne novine«, br. 130/2013 i 99/2014) u članku 8. iza stavka (4) dodaju se stavci (5), (6), (7) i (8) koji glase:
+»(5) Iznimno od stavka (2) ovoga članka, a na zahtjev novog vlasnika plovila, dozvoljava se zamjena ribolovnih zona za pojedini ribolovni alat po principu brisanja upisane ribolovne zone i upisa nove na način da se vrši zamjena jedne unutarnje ribolovne zone za drugu unutarnju odnosno jedne vanjske za drugu vanjsku ribolovnu zonu.
+(6) Pod unutarnjim ribolovnim zonama iz stavka (5) ovog članka podrazumijevaju se ribolovne zone A, E, F i G, a pod vanjskim ribolovnim zonama podrazumijevaju se ribolovne zone A, B, C i D.
+(7) Zamjena ribolovnih zona iz stavka (5) ovog članka za ribolovne alate za koje je propisano Odobrenje za gospodarski ribolov sukladno članku 23. Zakona o morskom ribarstvu može se odobriti isključivo ako plovilo koje je predmet prodaje, darovanja ili nasljeđivanja posjeduje važeće Odobrenje za obavljanje gospodarskog ribolova predmetnim ribolovnim alatom.
+(8) Iznimno od stavaka (5) i (6) ovoga članka zamjena ribolovne zone A za ribolovne zone E, F i G nije dozvoljena za pridnene povlačne mreže - koće.«
