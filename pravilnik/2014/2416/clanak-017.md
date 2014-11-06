@@ -1,0 +1,3 @@
+# Članak 17.
+U članku 21. stavak 3. mijenja se i glasi:
+»Grupa podataka »osobe ovlaštene za zastupanje« sadrži podatke o osobama koje čine upravu gospodarskog interesnog udruženja, podatke o članovima ili više njih koji skupno zastupaju javno trgovačko društvo (u daljnjem tekstu: j.t.d.), ako svi članovi j.t.d. ne zastupaju društvo, podatke o prokuristi (ako je prokura dodijeljena) te podatke o likvidatoru, privremenom ili stečajnom upravitelju, ako su nastali razlozi za prestanak društva. U ovu grupu podataka uključeni su i podaci o zastupnicima u ustanovama i drugim subjektima koji se po zakonu upisuju u registar.«.

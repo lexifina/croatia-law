@@ -1,0 +1,5 @@
+# Članak 16.
+U članku 19. stavku 2. dodaje se druga rečenica koja glasi: »Ako se podaci o sjedištu i poslovnoj adresi preuzimaju elektroničkim putem, upis u glavnu knjigu provodi se na temelju obavijesti o elektroničkom upisu.«.
+U stavku 3. riječi: »podatke o djelatnostima koje ga čine« zamjenjuju se riječima: »naznaku djelatnosti koje ga čine, odnosno naznaku skupine djelatnosti ako se radi o više djelatnosti propisanih zakonom, uz izuzimanje djelatnosti koje nisu obuhvaćene predmetom poslovanja«.
+Iza stavka 3. dodaje se stavak 4. koji glasi:
+»Grupu podataka »tvrtka ili naziv, skraćena tvrtka ili naziv« čine podaci koji se upisuju u glavnu knjigu uz ograničenje da tekst tvrtke ili naziva može sadržavati najviše tisuću dvadeset i četiri (1024) znaka, a skraćene tvrtke ili naziva najviše pet stotina dvanaest (512) znakova. Tekst prijevoda tvrtke ili naziva može sadržavati najviše tisuću dvadeset i četiri (1024) znaka, a tekst prijevoda skraćene tvrtke ili skraćenoga naziva najviše pet stotina dvanaest (512) znakova.«.

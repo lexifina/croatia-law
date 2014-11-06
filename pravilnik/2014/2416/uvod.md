@@ -1,0 +1,1 @@
+Na temelju odredbe članka 3. stavka 9. Zakona o sudskom registru (»Narodne novine«, broj: 1/1995, 57/1996, 1/1998, 30/1999, 45/1999, 54/2005, 40/2007, 91/2010, 90/2011, 148/2013 i 93/2014) i članka 52. Zakona o izmjenama i dopunama Zakona o sudskom registru (»Narodne novine«, broj: 148/2013) ministar pravosuđa donosi
