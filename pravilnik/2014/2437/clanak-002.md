@@ -1,0 +1,2 @@
+# Članak 2.
+Doktorima medicine specijalistima, istaknutim stručnjacima koji se bave određenom propisanom užom specijalnošću 10 godina, koji imaju znanstveno-nastavno zvanje profesora ili docenta i kontinuirano publicirane stručne i znanstvene radove iz uže specijalnosti kroz tih 10 godina može se na temelju pribavljenog pozitivnog mišljenja Hrvatske liječničke komore o njihovom radu na području uže specijalnosti priznati status specijalista iz uže specijalnosti.
