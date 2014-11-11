@@ -1,0 +1,1 @@
+Na temelju odredbi članka članka 48. stavaka 6. i 8. i članka 54. stavka 4. Zakona o faktoringu (»Narodne novine«, br. 94/14), Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća održanoj 24. listopada 2014. donosi

@@ -1,0 +1,171 @@
+PRILOG 1.
+ZAHTJEV ZA IZDAVANJE SUGLASNOSTI ZA IMENOVANJE ČLANA UPRAVE FAKTORING DRUŠTVA
+(podaci dani u Upitniku su poslovna tajna Hrvatske agencije za nadzor financijskih usluga)
+Napomena: Upitnik mora biti u cijelosti popunjen i ispisan elektronički, uredno, čitljivo i bez naknadnog prepravljanja
+OSOBNI PODACI ZA KANDIDATA ZA ČLANA UPRAVE DRUŠTVA:
+Ime:
+Prezime (i djevojačko prezime):
+Datum i mjesto rođenja:
+Adresa prebivališta (grad i ulica):
+OIB:
+PODACI IZ OSOBNE ISKAZNICE ili PUTOVNICE:
+Broj OI ili putovnice/putne isprave:
+Datum izdavanja:
+Mjesto izdavanja:
+KONTAKT PODACI:
+Broj telefona:
+Elektronička pošta:
+PODACI O FAKTORING DRUŠTVU U KOJEM SE KANDIDIRATE:
+Tvrtka:
+Sjedište:
+OIB:
+Telefon:
+Fax:
+Elektronička pošta (e-mail):
+Internetska stranica:
+PODACI O SADAŠNJEM POSLODAVCU:
+Tvrtka i sjedište:
+OIB:
+Telefon:
+Fax:
+Elektronička pošta (E-mail):
+Internetska stranica:
+Mjesto i datum
+Vlastoručni potpis kandidata
+Prilozi zahtjevu:
+1. pisana odluka ili suglasnost organa u faktoring društvu nadležnog za imenovanje članova uprave prema članku 48. stavka 2. Zakona, odnosno članka 7. stavak 2. ovoga Pravilnika (u izvorniku ili ovjerenoj preslici),
+2. ovjeren preslik osobne iskaznice odnosno ovjerena preslika putovnice za strane državljane,
+3. ovjeren preslik diplome odnosno prijevod diplome stranog fakulteta koju je ovjerio stalni sudski tumač,
+4. za kandidate koji u trenutku podnošenja zahtjeva ne obavljaju funkciju člana uprave faktoring društva, potvrde poslodavaca o dosadašnjem radnom iskustvu (tvrtka društva, razdoblje rada, opis poslova i dužnosti), a vezano uz odredbu članka 47. stavka 3. Zakona,
+5. ispunjeni Upitnik iz Priloga 2. ovoga Pravilnika,
+6. ako su dostupne, preporuke izravno nadređenih osoba u poslodavcu barem za posljednje tri godine,
+7. izjava da kandidat za člana uprave nije počinio kazneno djelo ili prekršaj niti se protiv njega vodi kazneni ili prekršajni postupak,
+8. ako je dostupan, izvod iz kaznene i prekršajne evidencije, i to:
+• za državljane Republike Hrvatske uvjerenje općinskog suda o tome vodi li se protiv kandidata kazneni postupak, koje nije starije od tri mjeseca i
+• za strane državljane podaci o prekršajnoj neosuđivanosti kandidata, o tome vodi li se protiv kandidata kazneni ili prekršajni postupak te o tome je li kandidat pravomoćno osuđen za kazneno djelo, koji nisu stariji od tri mjeseca i
+9. program vođenja poslova iz članka 9. ovog Pravilnika,
+10. rezultati procjene primjerenosti koju je provelo faktoring društvo s obrazloženjem,
+11. životopis kandidata s detaljnim podacima o obrazovanju, stručnom usavršavanju i radnom iskustvu,
+12. dokaz o plaćenoj administrativnoj pristojbi i naknadi.
+PRILOG 2.
+UPITNIK ZA KANDIDATA ZA ČLANA UPRAVE FAKTORING DRUŠTVA
+(podaci dani u Upitniku su poslovna tajna Hrvatske agencije za nadzor financijskih usluga)
+Napomena: Upitnik mora biti u cijelosti popunjen i ispisan elektronički, uredno, čitljivo i bez naknadnog prepravljanja
+PODACI O FAKTORING DRUŠTVU U KOJEM SE KANDIDIRATE:
+Tvrtka:
+Sjedište:
+OIB:
+Telefon:
+Fax:
+Elektronička pošta (e-mail):
+Internetska stranica:
+OSOBNI PODACI ZA KANDIDATA ZA ČLANA UPRAVE DRUŠTVA:
+Ime:
+Prezime (i djevojačko prezime):
+Datum i mjesto rođenja:
+Adresa prebivališta (grad i ulica):
+OIB:
+PODACI IZ OSOBNE ISKAZNICE ili PUTOVNICE:
+Broj OI ili putovnice/putne isprave:
+Datum izdavanja:
+Mjesto izdavanja:
+KONTAKT PODACI:
+Broj telefona:
+Elektronička pošta:
+1. Je li protiv Vas pokrenuta istraga odnosno je li u tijeku kazneni postupak ili ste pravomoćno osuđeni za kaznena djela iz članka 6. stavka 1. točke 2., 3. i 4. ovog Pravilnika?
+DA
+NE
+Ako DA, navedite pojedinosti:
+2. Je li protiv Vas u tijeku kazneni ili prekršajni postupak ili ste u posljednjih 5 (pet) godina kažnjavani za kaznena djela ili prekršaje koja predstavljaju za grubo i trajno kršenje odredbi zakona iz djelatnosti Agencije, Hrvatske narodne banke ili drugog nadležnog tijela, a naročito iz:
+− zakona kojim se regulira osnivanje i poslovanje trgovačkih društava
+− zakona kojim se regulira tržište kapitala
+− zakona kojim se regulira tržište vrijednosnih papira
+− zakona kojim se regulira poslovanje kreditnih institucija
+− zakona kojim se regulira područje osiguranja
+− zakona kojim se regulira područje leasinga
+− zakona kojima se regulira osnivanje i rad investicijskih fondova i društava za upravljanje istima
+− zakona kojima se regulira osnivanje i rad obveznih i dobrovoljnih mirovinskih fondova te društava za upravljanje istima
+− zakona kojim se reguliraju mirovinska osiguravajuća društva
+− zakona kojim se regulira preuzimanje dioničkih društava
+− zakona kojima se regulira područje računovodstva
+− zakona kojima se reguliraju porezi.
+DA
+NE
+Ako DA, navedite pojedinosti:
+3. Jeste li imatelj udjela/dioničar u osnivaču i/ili faktoring društvu i postoje li bilo kakvi drugi financijski odnosi (zajmovi i sl.) s osnivačem ili imateljem udjela/dioničarom u faktoring društvu u kojem se kandidirate ili u drugom faktoring društvu?
+DA
+NE
+Ako DA, navedite pojedinosti:
+4. Jeste li član uprave, nadzornog ili upravnog odbora ili prokurist drugog trgovačkog društva, odnosno sudjelujete li na neki drugi način u stvaranju i provedbi poslovne politike drugog trgovačkog društva ili druge pravne osobe?
+DA
+NE
+Ako DA, navedite:
+Tvrtka:
+Sjedište:
+Funkciju koju obavljate:
+5. Ispunjavate li uvjete za člana uprave prema odredbama Zakona o trgovačkim društvima?
+DA
+NE
+6. Jeste li imatelj udjela/dioničar ili imate bilo koji drugi financijski interes u drugom trgovačkom društvu ili drugoj pravnoj osobi?
+DA
+NE
+Ako DA, navedite:
+Tvrtku:
+Sjedište:
+Oblik povezanosti:
+7. Jesu li trgovačka društva ili druge pravne osobe u kojima ste obavljali rukovodeće funkcije (kao član uprave ili nadzornog ili upravnog odbora ili kao izvršni direktor, prokurist ili na drugoj rukovodećoj poziciji) ili ste na bilo koji drugi način sudjelovali u stvaranju i provedbi poslovne politike, imala financijske poteškoće koje su dovele do pokretanja postupka sanacije, predstečajne nagodbe, stečaja ili likvidacije, ili im je ukinuto odobrenje za rad?
+DA
+NE
+Ako DA, navedite:
+Tvrtku:
+Sjedište:
+Funkcija koju ste obavljali:
+8. Jesu li u trgovačkom društvu ili drugoj pravnoj osobi u kojoj ste obavljali rukovodeće funkcije (kao član uprave, nadzornog ili upravnog odbora ili prokurist ili izvršni direktor ili na drugoj rukovodećoj funkciji), ili ste na bilo koji drugi način sudjelovali u stvaranju i provedbi poslovne politike), nadležna državna tijela utvrdila veću nepravilnost u poslovanju ili težu povredu zakona koji reguliraju rad faktoring društava, drugih trgovačkih društava, drugih financijskih institucija ili Zakona o trgovačkim društvima (u odnosu na vremenski period obavljanja rukovodeće funkcije)?
+DA
+NE
+Ako DA, navedite:
+Tvrtku:
+Sjedište:
+Funkcija koju ste obavljali:
+Nadzorno tijelo:
+Primijenjene mjere:
+9. Je li vam je izrečena mjera sigurnosti zabrane obavljanja zanimanja koje je u potpunosti ili djelomično obuhvaćeno predmetom poslovanja faktoring društva?
+DA
+NE
+Ako DA, navedite:
+10. Je li od strane nadležnih tijela zaduženih za nadzor faktoring društava ili drugih financijskih institucija ocjenjivana Vaša stručnost i primjerenost (fit & proper test), odnosno da li Vam je neko od tih tijela već uskratilo ili oduzelo suglasnost/odobrenje za obavljanje rukovodećih funkcija ili obavljanje djelatnosti na dotičnom području?
+DA
+NE
+Ako DA, navedite:
+Nadzorno tijelo:
+Odluka:
+11. Nalazite li se na popisu neurednih dužnika (npr. HROK-u, »crnoj listi«, listi poreznih dužnika Ministarstva financija, kreditnom registru i sl., a za strane državljane na odgovarajućim evidencijama strane države) i je li nad Vašom imovinom pokrenut ovršni ili stečajni postupak ili postupak osobnog bankrota?
+DA
+NE
+12. Smatrate li da postoje druge činjenice ili okolnosti koje bi prema razumnoj prosudbi mogle biti važne za ocjenu Vaše stručnosti i primjerenosti za obavljanje funkcije člana uprave društva za upravljanje (npr. činjenice ili okolnosti koje su vezane uz Vašu stručnu osposobljenost, eventualne financijske poteškoće, sukob interesa itd.)?
+DA
+NE
+Ako DA, navedite koje:
+13. Jeste li u nekim poslovnim odnosima ili s vama povezane osobe s faktoring društvom, članovima uprave faktoring društva, članovima nadzornog odbora faktoring društva te kvalificiranim imateljima?
+DA
+NE
+Ako DA, opišite povezanost:
+Potpisnik ovog Upitnika izjavljuje da ispunjava uvjete iz članka 47. stavka 1. i 2. Zakona, te da prihvaća članstvo u upravi faktoring društva.
+Potpisnik ovog Upitnika izjavljuje da ga je pročitao u cijelosti, u potpunosti ga razumio, iznio navedene podatke sukladno svim svojim osobnim i stručnim saznanjima i informacijama kojima raspolaže te u potpunosti jamči pod kaznenom i materijalnom odgovornošću za potpunost, istinitost i točnost, te da nije zatajio nikakvu informaciju koja bi mogla utjecati na odluku Agencije. Također se obvezuje Agenciju neodložno obavijestiti o svim promjenama koje bi mogle značajno utjecati na davanje suglasnosti, odnosno koje bi predstavljale razloge za ukidanje rješenja o suglasnosti.
+Potpisnik ovog Upitnika izjavljuje da je upoznat s činjenicom da navođenjem neistinitih podataka čini kazneno djelo.
+Ime i prezime kandidata:
+___________________________________
+Vlastoručni potpis kandidata:
+___________________________________
+Mjesto i datum:
+____________________________________
+PRILOG 3
+IZJAVA
+O ISPUNJAVANJU UVJETA ZA ČLANA NADZORNOG ODBORA FAKTORING DRUŠTVA
+kojom ja __________________ (ime/prezime/djevojačko prezime) rođen/a________(datum rođenja) s prebivalištem u __________, __________(državljanstvo), broj putovnice___________ (za strane državljane) pod materijalnom i kaznenom odgovornošću, izjavljujem i potpuno jamčim da ispunjavam sve uvjete za člana nadzornog odbora faktoring društva propisane odredbama Zakona o faktoringu i pripadajućeg Pravilnika o uvjetima za članstvo u upravi i nadzornom odboru faktoring društva te Zakona o trgovačkim društvima, te da prihvaćam izbor odnosno imenovanje za člana nadzornog odbora faktoring društva ______(tvrtka i sjedište faktoring društva, MBS i OIB).
+Ova Izjava služi kao dokaz o ispunjavanju uvjeta za izbor, odnosno imenovanje za člana nadzornog odbora faktoring društva za potrebe Hrvatske agencije za nadzor financijskih usluga kao nadzornog tijela za faktoring društva i ne može se upotrijebiti u druge svrhe.
+Potpisnik ove Izjave ujedno izjavljuje da je upoznat s činjenicom da davanjem lažne izjave čini kazneno djelo.
+U _________(mjesto) __________(datum)
+__________________________
+Vlastoručni potpis kandidat
+129 03.11.2014 Pravilnik o uvjetima za članstvo u upravi i nadzornom odboru faktoring društva 129 03.11.2014 Pravilnik o uvjetima za članstvo u upravi i nadzornom odboru faktoring društva 129 03.11.2014 Pravilnik o uvjetima za članstvo u upravi i nadzornom odboru faktoring društva
