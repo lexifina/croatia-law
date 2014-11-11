@@ -1,0 +1,1 @@
+Na temelju članka 31. stavka 2. i članka 38. stavka 3. Zakona o faktoringu (»Narodne novine«, br. 94/14, dalje: Zakon), Hrvatska agencija za nadzor financijskih usluga (dalje: Agencija) na sjednici Upravnog vijeća održanoj 24. listopada 2014. donosi
