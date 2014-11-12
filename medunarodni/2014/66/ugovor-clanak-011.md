@@ -1,0 +1,2 @@
+# Članak 11.
+Nadležna tijela dviju država posvećuju posebnu pažnju obrazovanju za filmska zvanja. Ona se konzultiraju u cilju zajedničkog razmatranja mjera koje treba poduzeti da bi se olakšalo početno i cjeloživotno profesionalno obrazovanje. Ona podržavaju potpisivanje ugovora ili sporazuma između škola ili ustanova s početnim i cjeloživotnim obrazovanjem omogućavajući, naročito, cirkuliranje njihovih studenata.
