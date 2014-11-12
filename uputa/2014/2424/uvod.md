@@ -1,0 +1,1 @@
+Na temelju članka 43. stavka 2. točke 9. Zakona o Hrvatskoj narodnoj banci (»Narodne novine«, br. 75/2008. i 54/2013.) i točke XIII. Odluke o obveznoj pričuvi (»Narodne novine«, br. 133/2010., 30/2011., 109/2011., 136/2011., 12/2012., 43/2012., 142/2013. i 121/2014.) guverner Hrvatske narodne banke donio je 22. listopada 2014.
