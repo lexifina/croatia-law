@@ -1,0 +1,2 @@
+# Članak 1.
+U cijelom tekstu Pravilnika o uvjetima kojima moraju udovoljavati veterinarske organizacije, veterinarska praksa i veterinarska služba u sustavu provedbe veterinarske djelatnosti (»Narodne novine«, broj 103/13.) riječi: »epizootiološko područje« zamjenjuju se riječima: »područje regionalne samouprave«, a riječi »epizootiološka jedinica« zamjenjuju se riječima: »jedinica lokalne samouprave« u odgovarajućem padežu.
