@@ -1,0 +1,1 @@
+Na temelju članka 81. Ustava Republike Hrvatske, članka 95. Ustavnog zakona o Ustavnom sudu Republike Hrvatske (»Narodne novine«, br. 99/99., 29/02. i 49/02. - pročišćeni tekst) i članka 159. Poslovnika Hrvatskoga sabora, Hrvatski sabor na sjednici 14. studenoga 2014. donio je
