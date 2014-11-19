@@ -1,0 +1,4 @@
+ODLUKU
+I. Pokreće se postupak za ocjenu suglasnosti s Ustavom i zakonom te se ukida Pravilnik o stavljanju izvan snage Pravilnika o stjecanju statusa specijalista iz uže specijalnosti (»Narodne novine« broj 145/13.).
+II. Na temelju članka 31. stavka 5. Ustavnog zakona o Ustavnom sudu Republike Hrvatske (»Narodne novine« broj 99/99., 29/02. i 49/02. - pročišćeni tekst), Ustavni sud Republike Hrvatske određuje da se Pravilnik o stjecanju statusa specijalista iz uže specijalnosti (»Narodne novine« broj 128/06. i 26/07.) primjenjuje do donošenja novog pravilnika sukladno članku 142. stavku 3. Zakona o zdravstvenoj zaštiti (»Narodne novine« broj 150/08., 71/10., 139/10., 22/11., 84/11., 154/11., 12/12., 35/12. - odluka USRH, 70/12., 144/12., 82/13., 159/13. i 22/14. - odluka USRH).
+III. Ova odluka objavit će se u »Narodnim novinama«.
