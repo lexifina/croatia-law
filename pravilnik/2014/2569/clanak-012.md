@@ -1,0 +1,3 @@
+# Članak 12.
+(1) Ukoliko društvo za osiguranje i Zavod do donošenja ovog Pravilnika nisu sastavili konačan obračun troškova za razdoblje od 17. studenog 2012. do 31. prosinca 2012, te za razdoblje od 1. siječnja 2013. do 31. prosinca 2013. godine, dužni su ga sastaviti primjenom odredaba ovoga Pravilnika i to u roku od 60 dana od dana stupanja na snagu ovoga Pravilnika.
+(2) Ukoliko u roku iz stavka 1. ovog članka društvo za osiguranje i Zavod ne sastave konačan obračun troškova, Zavod je dužan u roku od osam dana od dana isteka roka dostaviti nadležnoj ispostavi Porezne uprave podatke potrebne za utvrđivanje obveze za uplatu ili prava na povrat više uplaćene obveze.
