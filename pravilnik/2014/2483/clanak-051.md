@@ -1,0 +1,4 @@
+## Održavanje statusa slobodnih od bolesti
+# Članak 51.
+(1) Kada se proglasi status države članice slobodne od jedne ili više neegzotičnih bolesti s popisa navedenog u Prilogu IV. Dijelu II. ovoga Pravilnika u skladu s člankom 48. ovoga Pravilnika, nadležno tijelo može prekinuti ciljano nadziranje i zadržati status države članice slobodne od bolesti uz uvjet da se bolest klinički manifestira i ako se postupa u skladu s odredbama ovoga Pravilnika.
+(2) Ako su samo određene zone ili kompartmenti unutar države proglašeni slobodnima od bolesti iz stavka 1. ovoga članka i u svim slučajevima gdje nema jasnog kliničkog manifestiranja bolesti, ciljano nadziranje mora se nastaviti u skladu s člankom 48. stavkom 3. ovoga Pravilnika ili, ovisno o slučaju, člankom 49. stavkom 3. ovoga Pravilnika, ali na razini koja odgovara stupnju rizika.
