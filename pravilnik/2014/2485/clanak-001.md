@@ -1,0 +1,3 @@
+# Članak 1.
+U Pravilniku o provedbi Mjere 202 - »Priprema i provedba lokalnih strategija ruralnog razvoja« unutar IPARD programa (»Narodne novine« br. 24/2013, 36/2013, 112/2013 i 45/14) u članku 17. stavak 3. alineja d) mijenja se i glasi:
+»d) zabrana promjene vlasništva nad uredskom i/ili kompjuterskom opremom za koju je LAG ostvario sredstva potpore iz IPARD programa, osim u slučaju pripajanja LAG-a drugom LAG-u kada vlasništvo i sve obveze vezane uz navedenu opremu preuzima drugi LAG, te zabrana davanja u najam ili zakup uredske opreme ili kompjuterske opreme za koju je LAG ostvario sredstva potpore iz IPARD programa od dana sklapanja Ugovora i tijekom pet (5) godina od datuma konačne isplate Agencije za plaćanja,«
