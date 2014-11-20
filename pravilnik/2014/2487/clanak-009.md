@@ -1,0 +1,7 @@
+# Članak 9.
+(1) Predsjednik Nacionalnog zdravstvenog vijeća obvezan je u roku od 8 dana od dana primitka urednog zahtjeva iz članka 3. stavka 3. ovoga Pravilnika, zakazati sjednicu Nacionalnog zdravstvenog vijeća za davanje Mišljenja.
+(2) Nacionalno zdravstveno vijeće obvezno je donijeti Mišljenje u roku od 30 dana od dana zaprimanja urednog zahtjeva.
+(3) Ako nalaz, odnosno mišljenje stručnjaka iz dostavljene medicinske dokumentacije nisu jasni ili potpuni, ako su nalazi i mišljenja dvaju ili više stručnjaka proturječni, ako mišljenje stručnjaka nije dovoljno obrazloženo ili se pojavi osnovana sumnja u točnost danog mišljenja, a ti se nedostaci ne mogu otkloniti, Nacionalno zdravstveno vijeće može zatražiti nalaz i mišljenje drugih stručnjaka s Liste stručnjaka, a može zatražiti i mišljenje zdravstvene ustanove.
+(4) Mišljenje zdravstvene ustanove može se tražiti i onda kad se zbog složenosti slučaja može opravdano pretpostaviti da će se na taj način doći do zajedničkog Mišljenja.
+(5) U slučaju iz stavaka 3. i 4. ovoga članka, Nacionalno zdravstveno vijeće o tome bez odgode pisano obavještava podnositelja zahtjeva i u obavijesti navodi medicinsku dokumentaciju koju je podnositelj zahtjeva obvezan dodatno dostaviti.
+(6) Nacionalno zdravstveno vijeće obvezno je donijeti Mišljenje u roku od 30 dana od dana zaprimanja dodatne medicinske dokumentacije iz stavka 5. ovoga članka, a najkasnije u roku od 60 dana od dana podnošenja urednog zahtjeva.

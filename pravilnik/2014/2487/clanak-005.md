@@ -1,0 +1,5 @@
+# Članak 5.
+(1) Podnositelj zahtjeva obvezan je pribaviti medicinsku i drugu dokumentaciju iz članka 4. ovoga Pravilnika od stručnjaka s iskustvom i edukacijom iz područja zdravstvene zaštite transrodnih osoba, uvrštenih na Listu stručnjaka koju donosi ministar nadležan za zdravlje.
+(2) Stručnjaci iz stavka 1. ovog članka mogu svoj nalaz i mišljenje dati zajednički. Ako se ne slažu, svaki od njih je obvezan odvojeno izraditi svoj nalaz i mišljenje na propisanom Obrascu iz članka 4. ovoga Pravilnika.
+(3) Obrazac zajedničkog nalaza i mišljenja iz stavka 2. ovoga članka tiskan je u Prilogu III. ovoga Pravilnika i čini njegov sastavni dio.
+(4) Podnositelj zahtjeva može umjesto medicinske dokumentacije i mišljenja iz članka 4. ovoga Pravilnika, priložiti medicinsku dokumentaciju i mišljenja stručnjaka izvan Republike Hrvatske koji imaju iskustvo i edukaciju iz područja zdravstvene zaštite transrodnih osoba, a koji su izvan Republike Hrvatske pratili promjene rodnog identiteta podnositelja zahtjeva ili su sudjelovali u procesu promjene spola podnositelja zahtjeva.
