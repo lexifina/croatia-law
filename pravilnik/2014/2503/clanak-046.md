@@ -1,0 +1,6 @@
+# Članak 46.
+(1) Djelatnim vojnim osobama i kadetima u pravilu se kod prvog zaduženja uvijek izdaju odore I. kategorije, a iznimno se može izdavati i odora II. kategorije.
+(2) Prigodom zaduženja odora ročnika i pričuvnika te zanavljanja odora djelatnih vojnih osoba i kadeta, kad god je prikladno i u skladu s odredbama ovoga Pravilnika prvo se izdaju na zaduženje odore II. kategorije, a potom odore I. kategorije.
+(3) Prikrivne odore III. kategorije mogu se izdavati odnosno koristiti na zadaćama temeljne i specijalističke vojne obuke, intenzivne terenske obuke i na vježbama, na drugim terenskim zadaćama ili radovima i nose se samo u vojnim lokacijama ili na mjestu obavljanja terenskih zadaća i radova.
+(4) Pri zanavljanju prikrivnih odora provodi se kategorizacija na način da se osnovni dijelovi odore koje su bile na zaduženju prevode u III. kategoriju i ostaju na zaduženju, ažuriraju se u listama osobnih zaduženja i nose se po odluci nadležnih zapovjednika na zadaćama u skladu sa stavkom 3. ovoga članka.
+(5) Zamjena dijelova odora odobrava se u slučaju odstupanja veličine i pristajanja odore te zbog nepopravljivih oštećenja na odorama nastalih na obuci ili zadaćama. Dijelovi odore koji su izgubljeni, oštećeni nepažnjom i neovlašteno prekrajani ne mogu se nadomjestiti ili zamijeniti bez naknade nego se naplaćuju.
