@@ -1,0 +1,5 @@
+# Članak 8.
+(1) Novo vozilo MO i OS RH podliježe tehničkom pregledu u mjesecu u kojem istječe rok od 24 mjeseca od prvog tehničkog pregleda i registracije vozila, osim vozila za prijevoz tereta najveće dopuštene mase veće od 3500 kg, vozila za prijevoz osoba koja osim sjedala za vozača ima više od osam sjedala i vozila hitne medicinske pomoći za koja se redoviti tehnički pregled obavlja tijekom mjeseca u kojem istječe rok od 12 mjeseci od prvog tehničkog pregleda i registracije vozila.
+(2) Vozilo MO i OS RH staro dvije ili više godina podliježe tehničkom pregledu jedanput godišnje, i to u mjesecu isteka prometne dozvole.
+(3) Vozilo MO i OS RH podliježe izvanrednom tehničkom pregledu i prije isteka rokova iz stavaka 1. i 2. ovoga članka ako je oštećeno u prometnoj nesreći ili su na drugi način oštećeni sklopovi i uređaji čija neispravnost može utjecati na sigurno sudjelovanje u prometu.
+(4) Vozilo MO i OS RH čija najveća dopuštena masa prelazi 7500 kg, izuzev radnih strojeva i bojnih vozila, podliježe preventivnom tehničkom pregledu (periodični tehnički pregled i periodični tehnički pregled kočnica).
