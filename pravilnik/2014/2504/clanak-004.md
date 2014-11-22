@@ -1,0 +1,2 @@
+# Članak 4.
+Program osposobljavanja vojnih osoba za vozače motornih vozila u dijelu koji se odnosi na osposobljavanje iz nastavnih predmeta Prometni propisi i sigurnosna pravila, Upravljanje vozilom i Pružanje prve pomoći osobama ozlijeđenim u prometnoj nesreći temelji se na Pravilniku o osposobljavanju kandidata za vozače i Programu vozačkog ispita koji donosi ministar nadležan za unutarnje poslove.
