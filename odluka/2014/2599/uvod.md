@@ -1,0 +1,1 @@
+Na temelju članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/2011 i 119/2014) i članka 10. stavka 6. Zakona o vanjskim poslovima (»Narodne novine«, br. 48/96, 72/2013 i 127/2013), Vlada Republike Hrvatske je na sjednici održanoj 20. studenoga 2014. godine donijela
