@@ -1,0 +1,3 @@
+# Članak 6.
+(1) Ministarstvo po službenoj dužnosti, najmanje jednom u kalendarskoj godini, vrši uvid u stanje upisa u sudskom registru trgovačkih sudova koje je dostupno na internetskim stranicama Visokog trgovačkog suda Republike Hrvatske, radi provjere postojanja statusnih promjena zadruga upisanih u službenu evidenciju, što će se evidentirati na odgovarajući način.
+(2) Ukoliko je na internetskim stranicama sudskog registra trgovačkih sudova vidljivo da je određena zadruga trajno brisana iz sudskog registra, službena osoba će u službenoj evidenciji izvršiti upis brisanja zadruge iz sudskog registra nadležnog trgovačkog suda što će se evidentirati na odgovarajući način.
