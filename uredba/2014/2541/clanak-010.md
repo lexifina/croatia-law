@@ -1,0 +1,2 @@
+# Članak 10.
+U članku 47. iza riječi: »provjerava zakonitosti postupanja s robom sukladno propisima o koncesijama;« dodaju se riječi: »obavlja poslove praćenja plaćanja naknade za koncesije, obavlja inspekcijski nadzor ovlaštenika koncesije u pogledu zakonitosti, pravilnosti i pravodobnosti obračuna, prijava i uplate koncesija, utvrđuje da li davatelj koncesije poduzima propisane mjere za naplatu naknada za koncesije i druge poslove nadzora sukladno propisima o koncesijama;«.
