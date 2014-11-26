@@ -1,0 +1,1 @@
+Na temelju članka 8. i članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/2011 i 119/2014), Vlada Republike Hrvatske je na sjednici održanoj 26. studenoga 2014. godine donijela
