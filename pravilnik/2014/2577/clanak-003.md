@@ -1,0 +1,2 @@
+# Članak 3.
+Pravo na državnu stipendiju iz stavka 1. ovoga članka imaju redoviti studenti hrvatski državljani koji su upisani na visokim učilištima u Republici Hrvatskoj na preddiplomskim sveučilišnim studijima, diplomskim sveučilišnim studijima, integriranim preddiplomskim i diplomskim sveučilišnim studijima, kratkim stručnim studijima, preddiplomskim stručnim studijima i specijalističkim diplomskim stručnim studijima i studenti s invaliditetom poslijediplomskih sveučilišnih studija pod uvjetima određenim ovim pravilnikom (u daljnjem tekstu: studenti).
