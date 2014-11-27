@@ -1,0 +1,1 @@
+Na temelju članka 133. stavak 3., članka 101. točka 9., članka 103. stavak 1. točka 8. Zakona o osiguranju (»Narodne novine« broj 151/05, 87/08, 82/09, 54/13 i 94/14), Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća održanoj 14. studenog 2014. godine donosi
