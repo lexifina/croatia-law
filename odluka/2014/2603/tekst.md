@@ -1,0 +1,4 @@
+I.
+Daje se suglasnost na Odluku o izmjeni Odluke o utvrđivanju lučkog područja u lukama otvorenim za javni promet županijskog i lokalnog značaja na području Primorsko-goranske županije, klase: 021-04/14-01/6, urbroja: 2710/1-01-01/5-14-27, koju je donijela Županijska skupština Primorsko-goranske županije na 10. sjednici održanoj 17. srpnja 2014. godine, a koja se odnosi na proširenje lučkog područja za luke: Porozina, Selce, Veli Lošinj, Opatija - putnička luka, Opatija - privezište Portić, Opatija - privezište Ičići, Medveja, Mošćenička Draga, Volosko i Lopar, te utvrđivanje lučkog područja za luke: Bršćanovica (Dramalj), Crni molo (Crikvenica), Ćunski - Artatore (Mali Lošinj), Maračol (Unije), Punta Križa - Ul (Mali Lošinj), Banjol (Rab), Barbat (Rab), Grci (Rab), Janići (Rab), Padova II (Rab), Palit (Rab) i Supetarska Draga - Vardaškolj (Rab).
+II.
+Ova Odluka stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
