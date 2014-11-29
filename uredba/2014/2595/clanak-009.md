@@ -1,0 +1,6 @@
+# Članak 9.
+Naslov iznad članka 34. i članak 34. mijenjaju se i glase:
+»4.2.2.2. Odjel za regulativu
+Članak 34.
+Odjel za regulativu prati razvoj pravne stečevine Europske unije i ostalih izvora europskog prava, te priprema propise iz područja energetske učinkovitosti u zgradarstvu i nadzire njihovu primjenu, sudjeluje i surađuje s drugim ustrojstvenim jedinicama vezano na uvjete gradnje zgrada. Sudjeluje u sustavnom podizanju znanja svih uključenih u procesu gradnje zgrada, te izrađuje stručna mišljenja i priprema odgovore na upite vezano na primjenu propisa iz područja energetske učinkovitosti u zgradarstvu. Surađuje s drugim tijelima i institucijama iz područja energetske učinkovitosti u zgradarstvu. Priprema potvrde za ovlaštene osobe za potrebe priznavanja kvalifikacija u drugim državama Europske unije; obavlja poslove priznavanja inozemnih kvalifikacija iz drugih država Europske unije, te obavlja i druge poslove iz svoga djelokruga.
+Odjel priprema izvješća prema Europskoj komisiji o prijenosu i provedbi pravne stečevine Europske unije u nacionalno zakonodavstvo.«.

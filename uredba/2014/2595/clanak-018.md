@@ -1,0 +1,2 @@
+# Članak 18.
+Okvirni broj potrebnih državnih službenika i namještenika u Ministarstvu prikazan u tablici koja je sastavni dio Uredbe o unutarnjem ustrojstvu Ministarstva graditeljstva i prostornoga uređenja (»Narodne novine«, broj 44/2014), zamjenjuje se Okvirnim brojem potrebnih državnih službenika i namještenika u Ministarstvu koji je sadržan u tablici tiskanoj u prilogu ove Uredbe i čini sastavni dio Uredbe o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva graditeljstva i prostornoga uređenja.
