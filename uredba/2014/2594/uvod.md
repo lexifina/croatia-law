@@ -1,0 +1,1 @@
+Na temelju članka 10.b stavka 3. Zakona o područjima posebne državne skrbi (»Narodne novine«, br. 86/2008, 57/2011, 51A/2013, 148/2013 i 76/2014), Vlada Republike Hrvatske je na sjednici održanoj 20. studenoga 2014. godine donijela
