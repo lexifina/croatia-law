@@ -1,0 +1,2 @@
+# Članak 1.
+Potvrđuje se Protokol o pitanjima od važnosti za irski narod u pogledu Ugovora iz Lisabona, sastavljen u Bruxellesu 13. lipnja 2012., u izvorniku na bugarskom, češkom, danskom, engleskom, estonskom, finskom, francuskom, grčkom, irskom, latvijskom, litavskom, mađarskom, malteškom, nizozemskom, njemačkom, poljskom, portugalskom, rumunjskom, slovačkom, slovenskom, španjolskom, švedskom i talijanskom jeziku.

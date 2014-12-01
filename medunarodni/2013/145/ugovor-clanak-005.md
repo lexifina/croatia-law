@@ -1,0 +1,4 @@
+# Članak 5.
+Ovaj Protokol koji je sastavljen u jednom izvorniku na bugarskom, češkom, danskom, engleskom, estonskom, finskom, francuskom, grčkom, irskom, latvijskom, litavskom, mađarskom, malteškom, nizozemskom, njemačkom, poljskom, portugalskom, rumunjskom, slovačkom, slovenskom, španjolskom, švedskom i talijanskom jeziku, pri čemu su tekstovi na svakom od tih jezika jednako vjerodostojni, pohranjuje se u arhivu Vlade Talijanske Republike, koja vladama ostalih država članica dostavlja po jedan ovjereni primjerak.
+Kada Republika Hrvatska postane obvezana ovim Protokolom u skladu s člankom 2. Akta o uvjetima pristupanja Republike Hrvatske, hrvatski tekst ovog Protokola, koji je jednako vjerodostojan kao tekstovi iz prvog stavka, također se pohranjuje u arhivu Vlade Talijanske Republike, koja vladama ostalih država članica dostavlja po jedan ovjereni primjerak.
+U POTVRDU TOGA, niže potpisani opunomoćenici potpisali su ovaj Protokol.
