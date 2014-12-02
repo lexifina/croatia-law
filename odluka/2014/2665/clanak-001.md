@@ -1,0 +1,66 @@
+## Proglašavam Izmjene i dopune Državnog proračuna Republike Hrvatske za 2014. godinu i projekcije za 2015. i 2016. godinu, koje je Hrvatski sabor donio na sjednici 25. studenoga 2014. godine.
+## Klasa: 011-01/14-01/148
+## Urbroj: 71-05-03/1-14-2
+## Zagreb, 27. studenoga 2014.
+## Predsjednik
+## Republike Hrvatske
+## prof. dr. sc. Ivo Josipović, v. r.
+## IZMJENE I DOPUNE DRŽAVNOG PRORAČUNA REPUBLIKE HRVATSKE ZA 2014. GODINU I PROJEKCIJA ZA 2015. I 2016. GODINU
+## I. OPĆI DIO
+# Članak 1.
+U Državnom proračunu Republike Hrvatske za 2014. godinu (»Narodne novine«, br. 152/2013 i 39/2014) u članku 1. mijenjaju se: A. Račun prihoda i rashoda za 2014. godinu i B. Račun financiranja za 2014. godinu, kako slijedi:
+A. RAČUN PRIHODA I RASHODA
+Proračun za 2014.
+Povećanje/smanjenje
+Novi plan za 2014.
+PRIHODI POSLOVANJA
+116.748.961.832
+-2.839.092.755
+113.909.869.077
+PRIHODI OD PRODAJE NEFINANCIJSKE IMOVINE
+315.520.000
+243.130.810
+558.650.810
+RASHODI POSLOVANJA
+128.087.860.316
+-76.449.971
+128.011.410.345
+RASHODI ZA NABAVU NEFINANCIJSKE IMOVINE
+2.563.637.603
+-467.555.645
+2.096.081.958
+RAZLIKA - VIŠAK/MANJAK
+-13.587.016.087
+-2.051.956.329
+-15.638.972.416
+B. RAČUN FINANCIRANJA
+Proračun za
+2014.
+Povećanje/
+smanjenje
+Novi plan za
+2014.
+PRIMICI OD FINANCIJSKE IMOVINE I ZADUŽIVANJA
+35.602.529.471
+7.029.118.814
+42.631.648.285
+IZDACI ZA FINANCIJSKU IMOVINU I OTPLATE ZAJMOVA
+25.561.307.249
+1.412.959.180
+26.974.266.429
+PRIJENOS DEPOZITA IZ PRETHODNE GODINE
+9.745.793.865
+-3.564.203.305
+6.181.590.560
+PLANIRANI PRIJENOS DEPOZITA U NAREDNU GODINU
+-6.200.000.000
+0
+-6.200.000.000
+NETO FINANCIRANJE
+13.587.016.087
+2.051.956.329
+15.638.972.416
+VIŠAK/MANJAK + NETO FINANCIRANJE
+0
+0
+0
