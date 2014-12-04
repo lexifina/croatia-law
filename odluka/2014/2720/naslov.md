@@ -1,0 +1,1 @@
+Odluka o davanju prethodne suglasnosti Agenciji za ugljikovodike za angažiranje fizičke ili pravne osobe za obavljanje poslova odnosa s javnošću za aktivnosti promidžbe i informiranja javnosti o projektima istraživanja i eksploatacije ugljikovodika
