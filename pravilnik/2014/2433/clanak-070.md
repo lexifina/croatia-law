@@ -1,0 +1,7 @@
+## Operativno korištenje transpondera moda C
+# Članak 70.
+(1) Smatra se da se zrakoplov nalazi na dodijeljenoj razini ako prikazivanje transpondera moda C ne odstupa više od ±200 stopa od te razine u RVSM zračnom prostoru, a ± 300 stopa od te razine u ostalom zračnom prostoru.
+(2) Smatra se da je zrakoplov kojem je odobreno napuštanje razine započeo napuštanje i napustio prethodno zauzetu razinu kad informacija o razini SSR moda C prikazuje promjenu veću od 300 stopa u predviđenom smjeru od prethodno dodijeljene razine.
+(3) Smatra se da je zrakoplov u penjanju ili snižavanju prošao razinu kad informacija o razini SSR moda C prikazuje da je prošao tu razinu u zahtijevanom smjeru, za više od 300 stopa.
+(4) Smatra se da je zrakoplov dostigao odobrenu razinu kad informacija o razini SSR moda C prikazuje da razina zrakoplova ne odstupa više od ±200 stopa od te razine u RVSM zračnom prostoru, a ± 300 stopa od te razine u ostalom zračnom prostoru.
+(5) Ako se razina koju je pilot zrakoplova javio razlikuje od informacije o razini koju prikazuje SSR mod C za više od ±200 stopa u RVSM zračnom prostoru ili za više od ± 300 stopa u ostalom zračnom prostoru, nadležna kontrola zračnoga prometa mora obavijestiti pilota zrakoplova o odstupanju te mu izdati uputu da potvrdi visinu. Ukoliko odstupanje i nakon toga postoji, kao temelj za daljnje razdvajanje mora se uzeti razina koju je javio pilot.

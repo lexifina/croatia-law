@@ -1,0 +1,6 @@
+## Zahtjevi za komunikacije i SSR transponder
+# Članak 16.
+U smislu provedbe odredbe SERA.6005:
+(1) Zračni prostor klase C i D utvrđuje se kao područje obvezne uporabe radioopreme (RMZ), te u njemu posade zrakoplova moraju održavati stalnu govornu komunikaciju zrak-zemlja, te prema potrebi uspostavljati dvosmjernu komunikaciju na odgovarajućem komunikacijskom kanalu.
+(2) Zračni prostor klase C i D utvrđuje se kao područje obvezne uporabe transpondera (TMZ) pod sljedećim uvjetima: zrakoplovi moraju biti opremljeni jednim SSR transponderom za obavljanje VFR letova u kontroliranom zračnom prostoru klase C, kao i za druge letove koji se obavljaju iznad 5000 stopa MSL ili iznad 3500 stopa iznad zemlje, ovisno koja je razina veća. Transponder mora biti opremljen modom A s 4096 kodova i modom C sa sposobnošću automatskog prosljeđivanja visine, odnosno modom S sukladno zahtjevima posebnih propisa.
+(3) Iznimno od odredbe stavka (1) i (2) ovoga članka, nadležna kontrola zračnog prometa može, u pojedinom slučaju, odobriti obavljanje letova zrakoplova bez VHF primopredajnika i transpondera u kontroliranim zonama, obavljanje aerodromskog prometa na kontroliranom aerodromu i akrobatske letove u kontroliranom zračnom prostoru, ako time neće biti ugrožena sigurnost zračnog prometa.

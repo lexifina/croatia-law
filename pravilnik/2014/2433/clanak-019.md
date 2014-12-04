@@ -1,0 +1,6 @@
+## Letovi ispod mostova i sličnih građevina, dalekovoda i antena te letenje sa/na helidrome na objektu (zgradi)
+# Članak 19.
+(1) Odobrenje za letenje ispod mostova i sličnih građevina te dalekovoda i antena, izdat će se samo u svrhu raspršivanja kemijskih sredstava za uništavanje štetočina i sličnih poslova u poljoprivredi i šumarstvu te za obavljanje ostalih poslova sličnog odgovarajućeg značenja čije izvršenje zahtijeva obavljanje niskih letova.
+(2) Letove iz stavka 1. ovoga članka smiju obavljati piloti zrakoplova koji imaju odgovarajuću dozvolu profesionalnog pilota i najmanje 400 sati naleta na odgovarajućoj vrsti zrakoplova.
+(3) Letovi iz stavka 1. ovoga članka smiju se obavljati samo ako je pilot zrakoplova u stanju održavati razmak koje u potpunosti isključuje mogućnost oštećenja zrakoplova odnosno objekta ispod kojega se leti uzimajući pritom u obzir, u svakom pojedinom slučaju, sve postojeće utjecaje u danom trenutku.
+(4) Letenje sa/na helidrome na objektu (zgradi) smije obavljati pilot helikoptera koji ima odgovarajuću dozvolu i najmanje 400 sati naleta i to samo višemotornim helikopterima, koji su nakon otkaza jednog motora sposobni nastaviti let (helikopteri kategorije A i odgovarajuće performanse klase).

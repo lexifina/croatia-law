@@ -1,0 +1,5 @@
+## Staza u uporabi
+# Članak 73.
+(1) Za stazu u uporabi određuje se uzletno-sletna staza čiji je smjer najbliži smjeru vjetra.
+(2) Iznimno od odredbe stavka 1. ovoga članka, za stazu u uporabi može se odrediti i druga staza ako je to potrebno zbog smještaja aerodromskog prometnog kruga, dužine uzletno-sletne staze, kapaciteta uzletno-sletne staze, smještaja navigacijskih sredstava koji služe za izvršenje prilaženja, nesmetanijeg slijetanja ili odlaska zrakoplova, blizine drugih aerodroma, prometne situacije, postupaka za smanjenje buke ili utjecaja trenutne meteorološke situacije pod uvjetom da prosječna leđna komponenta vjetra na toj stazi u pravilu ne iznosi više od 5 čvorova, osim ako je pružatelj usluga u zračnoj plovidbi odobrio veću leđnu komponentu vjetra za tu stazu ili ako sigurnosni razlozi zahtijevaju trenutnu uporabu druge uzletno-sletne staze.
+(3) Ako staza u uporabi nije prikladna za neki tip zrakoplova, a na zahtjev pilota, nadležna kontrola zračnog prometa može odobriti uporabu druge staze, pod uvjetom da prometna situacija i postupci za smanjenje buke dopuštaju takvu izmjenu.

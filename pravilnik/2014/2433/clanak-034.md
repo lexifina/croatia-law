@@ -1,0 +1,11 @@
+## Opći postupci za obavljanje radiotelefonske komunikacije
+# Članak 34.
+(1) Za svako obavljanje radiotelefonske komunikacije između radiopostaja u zrakoplovu potrebno je zatražiti dozvolu zemaljske radiopostaje, osim ako se radi o kratkoj razmjeni poruka.
+(2) Zemaljska radiopostaja ne smije emitirati i prosljeđivati poruke radiopostajama u zrakoplovu tijekom uzlijetanja, posljednjeg dijela završnog prilaženja i zaustavljanja nakon slijetanja.
+(3) Svaka emisija mora biti jasna, nedvojbena i jednoznačna, uz uporabu propisane normirane frazeologije. Govor mora biti jasan, normalne jačine i jednolike brzine (do sto riječi u minuti). Nebitne i neprikladne izjave su zabranjene.
+(4) Uporaba kratica u radiotelefonskoj komunikaciji je zabranjena, osim ako se ne radi o kraticama koje se uobičajeno upotrebljavaju u zračnom prometu kao što su npr. ATC, FIR, IFR, VFR, VMC, VOR, NDB, IMC, ACAS, kao i kratice iz Q-skupine QNH, QFE, QNE, QDM, QDR i QTE itd.
+(5) Nakon uspostave radiokomunikacije, pozivni znak zemaljske radiopostaje i pojedine fraze kao što je npr. PRIMIO (ROGER) mogu se ispustiti, ako ne postoji mogućnost zabune.
+(6) Radiopostaja zrakoplova mora potvrditi prijam poruke emitiranjem vlastitog pozivnog znaka i fraze PRIMIO (ROGER).
+(7) Iznimno od odredbe stavka 6. ovoga članka, radiopostaja zrakoplova, doslovno ponavljajući odgovarajuću poruku, mora potvrditi prijam svih odobrenja, kao i uputa koje se odnose na kretanje zrakoplova (npr. ulazak, slijetanje, uzlijetanje, prelazak i povratnu vožnju po stazi, razina, brzina leta), uključenje moda i koda sekundarnog radara, vrijednosti tlaka zraka u svrhu postavljanja visinomjera, frekvencije u slučajevima promjene frekvencije, oznaku vrste prilaženja i stazu u uporabi. Prijam drugih uputa radiopostaja zrakoplova može potvrditi uporabom fraze WILCO.
+(8) Zemaljska radiopostaja potvrđuje prijam poruke radiopostaje zrakoplova, emitiranjem vlastitog pozivnog znaka i fraze PRIMIO (ROGER) ili emitiranjem pozivnog znaka radiopostaje u zrakoplovu i fraze PRIMIO (ROGER).
+(9) Pilot zrakoplova smije napustiti frekvenciju nadležne kontrole zračnoga prometa, samo uz njezino odobrenje, odnosno nakon što stigne na parkirališnu poziciju.
