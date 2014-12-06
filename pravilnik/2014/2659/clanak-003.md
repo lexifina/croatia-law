@@ -1,0 +1,6 @@
+## Radno iskustvo
+# Članak 3.
+(1) Kandidat za člana uprave ima iskustvo iz članka 27. stavka 1. točka 2. i stavka 3. Zakona potrebno za vođenje poslova Društva ako ima:
+1. najmanje tri godine iskustva na rukovodećim poslovima u Društvu koje čini radno iskustvo u obavljanju funkcije člana uprave, zamjenika člana uprave, prokurista, nositelja ključne funkcije i/ili u rukovođenju drugim organizacijskim dijelovima Društva.
+2. najmanje pet godina iskustva u rukovođenju poslovima koji se mogu usporediti s poslovima Društva, a koje čini radno iskustvo u rukovođenju poslovima, prvenstveno u financijskim institucijama odnosno pravnim osobama ili tijelima javne vlasti kojima su financijski poslovi temeljni poslovi ili čine njihovu osnovnu djelatnost te poslovima za koje Agencija ocijeni da su takvog karaktera da je obavljajući takve poslove kandidat mogao steći znanje potrebno za obavljanje funkcije člana uprave Društva.
+(2) Pri procjenjivanju trajanja iskustva Agencija može uzeti u obzir više kratkoročnih ili privremenih obavljanja poslova ako utvrdi da je, zajedno s ostalim prijašnjim poslovima koje je obavljao kandidat, stekao najmanje tri odnosno pet godina iskustva na poslovima iz stavka 1. ovog članka.
