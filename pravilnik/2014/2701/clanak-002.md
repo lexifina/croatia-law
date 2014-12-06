@@ -1,0 +1,3 @@
+# Članak 2.
+(1) Osnovom EKZO i Certifikata osigurane osobe Zavoda (u daljnjem tekstu: osigurane osobe) ostvaruju, za vrijeme privremenog boravka na području drugih država članica Europske unije (u daljnjem tekstu: EU) i Europskog ekonomskog prostora (u daljnjem tekstu: EEP), pravo na zdravstvene usluge koje su potrebne iz medicinskih razloga, uzimajući u obzir prirodu zdravstvenih usluga i očekivanu dužinu privremenog boravka u drugim državama članicama EU i EEP.
+(2) Certifikat iz stavka 1. ovoga članka je propisana isprava u papirnatom obliku koja u slučajevima iz članka 10. ovoga Pravilnika zamjenjuje EKZO.
