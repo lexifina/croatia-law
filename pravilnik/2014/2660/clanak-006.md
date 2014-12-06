@@ -1,0 +1,3 @@
+## Primjerenost namjeravanog stjecatelja kvalificiranog udjela
+# Članak 6.
+(1) Agencija će procijeniti primjerenost i financijsko stanje namjeravanog stjecatelja kvalificiranog udjela prema kriterijima iz članka 22.a Zakona te procijeniti postoje li podaci i/ili okolnosti koje ukazuju da bi, zbog pravnog ili financijskog položaja namjeravanog stjecatelja, postupaka koje je činio, djelatnosti i poslova kojima se bavio ili bavi namjeravani stjecatelj i s njim povezane osobe te njegovog dosadašnjeg postupanja, bilo opravdano zaključiti da neće negativno utjecati na Društvo te da poslovanje i nadzor nad Društvom, iz bilo kojih razloga nakon provedenog stjecanja, neće biti otežano ili onemogućeno.
