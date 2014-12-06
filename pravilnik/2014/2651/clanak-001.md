@@ -1,0 +1,3 @@
+## Sadržaj Pravilnika
+# Članak 1.
+Ovim se Pravilnikom propisuju visine naknada za provedbu izobrazbe profesionalnih korisnika pesticida, distributera pesticida i savjetnika o zaštiti bilja i sigurnoj uporabi pesticida u prodaji pesticida i proizvodnji hrane, polaganje ispita i izdavanje identifikacijskih iskaznica za profesionalne korisnike pesticida, savjetnike, distributere i ovlaštene predavače; redovite preglede strojeva za primjenu pesticida; izobrazbe odgovornih osoba i zaposlenika ispitnih stanica za pregled strojeva za primjenu pesticida te polaganje ispita; unos podataka u Fitosanitarni informacijski sustav kod prvog pregleda strojeva za primjenu pesticida; te izdavanje znaka o obavljenom redovitom pregledu strojeva za primjenu pesticida.
