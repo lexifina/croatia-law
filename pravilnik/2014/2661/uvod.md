@@ -1,0 +1,1 @@
+Na temelju članka 21. stavka 16., članka 158. stavka 5., članka 248.a stavka 7., članka 263. točaka 3. i 4., članka 274. stavaka 3. Zakona o osiguranju (»Narodne novine« broj 151/05, 87/08, 82/09, 54/13 i 94/14) Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća održanoj 21. studenoga 2014. donosi
