@@ -1,0 +1,1 @@
+Zakon o potvrđivanju sporazuma između Europske komisije u ime Europske unije i Vlade Republike Hrvatske kojim se mijenja i dopunjuje višegodišnji sporazum o financiranju 2007. - 2012. sklopljen 4. studenoga 2013.
