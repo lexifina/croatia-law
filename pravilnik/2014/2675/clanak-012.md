@@ -1,0 +1,9 @@
+## Unutarnji pregled
+# Članak 12.
+(1) Unutarnji pregled opreme pod tlakom nije potrebno provesti ukoliko OPT-AGENCIJA utvrdi da su obavljeni odgovarajući pregledi i ispitivanja na osnovi kojih se sa prihvatljivom sigurnošću može utvrditi stanje unutarnjih površina.
+(2) Prilikom unutarnjeg pregleda OPT-AGENCIJA provjerava stanje površina izvrgnutih tlaku s obzirom na moguće pojave korozije, pukotina, udubljenja, ispupčenja, slojevitosti, te utjecaj radne materije na unutarnje površine. Unutarnji se pregled u pravilu obavlja kao i vanjski, te se po potrebi proširuje odgovarajućim ispitivanjima drugim priznatim metodama.
+Ukoliko se stanje opreme pod tlakom ne može utvrditi radi nedostupnosti pojedinih dijelova ili drugih razloga, potrebno je odstraniti dijelove opreme koji onemogućuju unutarnji pregled.
+(3) Komponente opreme pod tlakom koje nije moguće pregledati iznutra podvrgavaju se vanjskom pregledu površina i, prema potrebi, mjerenju debljine stjenka, ispitivanju tlakom i drugim ispitivanjima bez razaranja. Ukoliko postoji opravdana sumnja o postojanju oštećenja koja nije moguće otkriti standardnim postupcima potrebno je provesti dodatne preglede i ispitivanja.
+(4) Prilikom unutarnjeg pregleda opreme pod tlakom izrađene iz umjetnih masa i kompozitnih materijala potrebno je naročito voditi računa o gradbenom materijalu, vrsti i konstrukciji opreme pod tlakom i primijeniti odgovarajuće ispitne metode.
+(5) Djelomični unutarnji pregled opreme pod tlakom zadovoljava ukoliko se na osnovi njega može po analogiji donijeti zaključak o cjelokupnom sigurnosno tehničkom stanju opreme pod tlakom. Pri tome se moraju pregledati reprezentativni dijelovi opreme pod tlakom.
+(6) OPT-AGENCIJA može provoditi unutarnji pregled opreme pod tlakom po dijelovima u različitim vremenskim periodima ukoliko to zahtijevaju radni uvjeti i ako se u tom slučaju može donijeti objektivna sigurnosno tehnička ocjena o opremi pod tlakom.
