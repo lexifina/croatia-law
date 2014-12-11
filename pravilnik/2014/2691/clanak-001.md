@@ -1,0 +1,5 @@
+## Opće odredbe
+# Članak 1.
+(1) Ovim se Pravilnikom utvrđuju pravila prihvatljivosti izdataka u okviru projekata Operativnog programa Konkurentnost i kohezija iz članka 4. stavka 2. točke 1.a) Zakona o uspostavi institucionalnog okvira za provedbu europskih strukturnih i investicijskih fondova u Republici Hrvatskoj u financijskom razdoblju 2014. - 2020. (»Narodne novine«, broj 92/2014) (u daljnjem tekstu: Operativni program), sufinanciranih iz Europskog fonda za regionalni razvoj i Kohezijskog fonda, i uvjeti pod kojima izdaci navedenih projekata mogu biti uključeni u Izjavu o izdacima koju priprema Tijelo za ovjeravanje.
+(2) Ovim se Pravilnikom utvrđuju pravila prihvatljivosti izdataka u okviru projekata Operativnog programa koji se, ako je primjenjivo, u skladu s člankom 98. stavkom 2. Uredbe (EU) br. 1303/2013, sufinanciraju iz Europskog socijalnog fonda, i uvjeti pod kojima izdaci mogu biti uključeni u Izjavu o izdacima koju priprema Tijelo za ovjeravanje.
+(3) Odredbe ovog Pravilnika ne odnose se na izdatke Operativnog programa financirane putem financijskih instrumenata, povratne pomoći ili nagrada.

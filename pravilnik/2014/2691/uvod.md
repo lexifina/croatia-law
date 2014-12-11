@@ -1,0 +1,1 @@
+Na temelju članka 5. stavka 3. točke 2. Uredbe o tijelima u sustavima upravljanja i kontrole korištenja Europskog socijalnog fonda, Europskog fonda za regionalni razvoj i Kohezijskog fonda, u vezi s ciljem »Ulaganje za rast i radna mjesta« (»Narodne novine«, broj 107/2014), ministar regionalnoga razvoja i fondova Europske unije donosi
