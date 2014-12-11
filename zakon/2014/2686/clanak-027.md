@@ -1,0 +1,12 @@
+# Članak 27.
+Iza članka 249. dodaje se članak 249.a koji glasi:
+»Članak 249.a
+(1) Društvo za upravljanje dužno je koristiti proces upravljanja rizicima koji u svakom trenutku omogućuje praćenje i mjerenje rizika svake pojedine pozicije u portfelju UCITS fonda i njegova utjecaja na ukupni profil rizičnosti portfelja UCITS fonda.
+(2) Društvo za upravljanje dužno je uspostaviti proces za točnu i neovisnu procjenu vrijednosti OTC izvedenica.
+(3) Društvo za upravljanje dužno je redovito obavještavati Agenciju o vrstama financijskih izvedenica, rizicima temeljne imovine, kvantitativnim ograničenjima ulaganja i odabranim metodama za procjenu rizika povezanih s transakcijama s financijskim izvedenicama za svaki UCITS fond kojim upravlja.
+(4) Agencija će podatke iz stavka 3. ovoga članka dostaviti ESMA-i i ESBR-u na njihov zahtjev.
+(5) Društvo za upravljanje može koristiti tehnike i instrumente vezane uz prenosive vrijednosne papire i instrumente tržišta novca ako se takve tehnike i instrumenti koriste u svrhu učinkovitog upravljanja portfeljem. Kada navedene tehnike i instrumenti uključuju korištenje financijskih izvedenica, uvjeti i ograničenja moraju biti u skladu s odredbama ovoga Zakona. Korištenje navedenih tehnika i instrumenata ne smije dovesti do odstupanja od investicijskih ciljeva navedenih u prospektu fonda.
+(6) Društvo za upravljanje dužno je osigurati da ukupna izloženost UCITS fonda prema financijskim izvedenicama ni u kom slučaju ne smije biti veća od neto vrijednosti imovine fonda. Izloženost se izračunava uzimajući u obzir trenutačnu vrijednost temeljne imovine, rizik druge ugovorne strane, buduća tržišna kretanja i raspoloživo vrijeme za likvidaciju pozicija.
+(7) Imovina UCITS fonda može se ulagati u financijske izvedenice u skladu s investicijskom politikom UCITS fonda i ograničenjima iz članka 250. stavka 1. točke 9. ovoga Zakona, uz uvjet da ukupna izloženost prema temeljnoj imovini ne prelazi ograničenja iz članka 250. stavka 1. ovoga Zakona. Kada se imovina UCITS fonda ulaže u financijske izvedenice čija je temeljna imovina indeks, sastavnice indeksa ne uključuju se u izračune ograničenja iz članka 250. stavka 1. ovoga Zakona.
+(8) Kada prenosivi vrijednosni papir ili instrument tržišta novca sadrži ugrađenu izvedenicu, ta izvedenica se uzima u obzir prilikom izračuna ukupne izloženosti.
+(9) Agencija će pravilnikom detaljnije odrediti uvjete i ograničenja za tehnike i instrumente iz stavka 5. ovoga članka.«.

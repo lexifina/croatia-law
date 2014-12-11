@@ -1,0 +1,3 @@
+# Članak 6.
+U članku 16. iza stavka 3. dodaje se stavak 4. koji glasi:
+»(4) Pravila o pružanju investicijskih usluga i obavljanju aktivnosti, propisana odredbama zakona kojim se uređuje tržište kapitala, ne primjenjuju se za pružanje usluga u svojstvu druge ugovorne strane, u transakcijama u kojima sudjeluju državna tijela, osobe javnog prava u svezi s upravljanjem javnim dugom, ili članovi Europskog sustava središnjih banaka koji obavljaju svoje zadaće u skladu s Ugovorom o osnivanju Europske zajednice i Statutom Europskog sustava središnjih banaka i Europske središnje banke ili koji obavljaju iste zadaće u skladu s propisima država članica.«.

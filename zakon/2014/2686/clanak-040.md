@@ -1,0 +1,7 @@
+# Članak 40.
+Članak 334. mijenja se i glasi:
+»(1) Nakon obavljenog neposrednog nadzora sastavlja se zapisnik o obavljenom nadzoru koji se uručuje subjektu nadzora, s detaljnim opisom utvrđenih činjenica. Uprava subjekta nadzora je dužna bez odgode zapisnik o obavljenom nadzoru dostaviti nadzornom odboru.
+(2) Na dostavljeni zapisnik subjekt nadzora ima pravo uložiti prigovor u roku koji ne može biti kraći od osam dana od dana primitka istog.
+(3) Iznimno od odredbe stavka 2. ovoga članka, Agencija može odrediti rok koji je kraći od roka iz stavka 2. ovoga članka, kad je to potrebno u svrhu sprječavanja mogućih značajnih štetnih posljedica za društvo za upravljanje, UCITS fond, depozitara, imatelja udjela ili treće osobe.
+(4) Ako su u postupku nadzora utvrđene nezakonitosti i/ili nepravilnosti za koje bi se donosila odgovarajuća nadzorna mjera, ali su iste otklonjene do izrade zapisnika, to će se unijeti u zapisnik. U tom će slučaju Agencija donijeti rješenje kojim se utvrđuje da je postupak nadzora okončan.
+(5) Ako nezakonitosti ili nepravilnosti utvrđene zapisnikom iz stavka 1. ovoga članka, za koje bi se donosila odgovarajuća nadzorna mjera, budu otklonjene prije donošenja rješenja kojim se izriče odgovarajuća nadzorna mjera, Agencija će o tome sastaviti dopunu zapisnika. U tom će slučaju Agencija donijeti rješenje kojim se utvrđuje da su nezakonitosti ili nepravilnosti utvrđene u nadzoru otklonjene te da je postupak nadzora okončan.«.
