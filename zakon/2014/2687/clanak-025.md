@@ -1,0 +1,12 @@
+# Članak 25.
+Članak 258. mijenja se i glasi:
+»(1) Ulaganje imovine AIF-a podliježe ograničenjima utvrđenim pravilnicima Agencije i pravilima AIF-a, odnosno prospektom AIF-a kada je to primjenjivo.
+(2) Ograničenje ulaganja iz stavka 1. ovoga članka AIF može prekoračiti kada ostvaruje prava prvenstva upisa ili prava upisa koja proizlaze iz prenosivih vrijednosnih papira ili instrumenata tržišta novca koji čine dio njegove imovine te prilikom prodaje imovine AIF-a radi isplate većeg broja udjela u AIF-u.
+(3) Ako je prekoračenje ograničenja iz stavka 1. ovoga članka posljedica okolnosti na koje UAIF nije mogao utjecati ili ostvarivanja prava upisa iz stavka 2. ovoga članka, UAIF je dužan uskladiti ulaganje AIF-a s javnom ponudom u roku od šest mjeseci od dana nastanka prekoračenja ulaganja i poduzimati transakcije s imovinom AIF-a ponajprije u svrhu usklađenja ulaganja imovine AIF-a, pri čemu mora uzimati u obzir interese imatelja udjela, nastojeći pri tome eventualni gubitak svesti na najmanju moguću mjeru.
+(4) Iznimno, na zahtjev UAIF-a Agencija može produžiti rok iz stavka 3. ovoga članka za dodatnih šest mjeseci, ako je to u interesu ulagatelja.
+(5) Ako je prekoračenje ograničenja iz stavka 1. ovoga članka posljedica okolnosti na koje UAIF nije mogao utjecati ili ostvarivanja prava upisa iz stavka 2. ovoga članka, UAIF je dužan uskladiti ulaganje AIF-a s privatnom ponudom na jedan od sljedećih načina:
+1. kako je to predviđeno pravilima AIF-a, odnosno prospektom AIF-a kada je to primjenjivo,
+2. ako to nije utvrđeno pravilima i/ili prospektom AIF-a, a postoji utvrđena procedura ishođenja suglasnosti i donošenja odluka ulagatelja u AIF-u o takvim predmetima, tada je dužan ishoditi suglasnost ulagatelja na postupanje koje će predložiti, vodeći računa o najboljem interesu ulagatelja,
+3. ako to nije moguće u skladu s točkama 1. i 2. ovoga stavka, uskladiti ulaganje u skladu s odredbom stavka 3. ovoga članka.
+(6) Ako je prekoračenje ograničenja iz stavka 1. ovoga članka posljedica transakcije koju je sklopio UAIF, a kojom se u trenutku njezina sklapanja prekoračilo ograničenje ulaganja ili dodatno povećalo prekoračenje, UAIF je dužan uskladiti ulaganje AIF-a po saznanju za prekoračenje ograničenja. UAIF je dužan AIF-u i/ili ulagateljima nadoknaditi tako nastalu štetu.
+(7) Ograničenja ulaganja navedena iz stavka 1. ovoga članka mogu biti prekoračena u prvih šest mjeseci od osnivanja AIF-a, uz dužno poštovanje načela razdiobe rizika i zaštite interesa imatelja udjela.«.
