@@ -1,0 +1,5 @@
+# Članak 7.
+(1) Fizička osoba koja ostvaruje dohodak od obrta i s obrtom izjednačenih djelatnosti obvezu plaćanja poreza na dobit za 2015. godinu utvrđuje prema uvjetima iz članka 2. stavka 1. ovoga Zakona.
+(2) Ovaj Zakon primjenjuje se u postupku podnošenja prijave poreza na dobit za 2014. godinu i nadalje, osim odredbi članka 3. stavaka 4. do 7. ovoga Zakona kojima se mijenja članak 6. stavci 5. do 7. Zakona o porezu na dobit (»Narodne novine«, br. 177/04., 90/05., 57/06., 146/08., 80/10., 22/12. i 148/13.), koje se primjenjuju u postupku podnošenja prijave poreza na dobit za 2015. godinu i nadalje.
+(3) Porez po odbitku iz članka 31. stavka 4. Zakona o porezu na dobit (»Narodne novine«, br. 177/04., 90/05., 57/06., 146/08., 80/10., 22/12. i 148/13.) ne plaća se pri isplati dividendi i udjela u dobiti ako se isplaćuju iz dobiti ostvarene do 29. veljače 2012.
+(4) Ovlašćuje se ministar financija da uskladi provedbene propise iz članka 37. Zakona o porezu na dobit (»Narodne novine«, br. 177/04., 90/05., 57/06., 146/08., 80/10., 22/12. i 148/13.) s odredbama ovoga Zakona u roku od 60 dana od dana njegova stupanja na snagu.
