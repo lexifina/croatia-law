@@ -1,0 +1,1 @@
+Na temelju Odluke Vlade Republike Hrvatske o pomoći poljoprivrednim proizvođačima na područjima zahvaćenim poplavom za provedbu naknadne sjetve za 2014. godinu (»Narodne novine«,broj 65/14) te članka 39. Zakona o sustavu državne uprave (»Narodne novine«,broj 150/11 i 12/13), ministar poljoprivrede donosi
