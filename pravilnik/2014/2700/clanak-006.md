@@ -1,0 +1,5 @@
+## Pružanje informacija o tvarima ili proizvodima koji uzrokuju alergije ili netolerancije
+# Članak 6.
+(1) Subjekti u poslovanju s hranom iz članka 5. ovoga Pravilnika obvezni su dati informacije o prisutnosti sastojaka ili pomoćnih tvari u procesu proizvodnje koji uzrokuju alergije ili netolerancije, a navedeni su u Prilogu II. Uredbe (EU) br. 1169/2011 ili su dobiveni od tvari ili proizvoda iz Priloga II., a koji su upotrijebljeni u procesu proizvodnje ili pripreme hrane i prisutni su u gotovom proizvodu, čak i u promijenjenom obliku.
+(2) Zahtjevi za navođenje informacija iz stavka 1. ovoga članka propisani su odredbama članka 21. Uredbe (EU) br. 1169/2011.
+(3) Informacije iz stavka 1. ovoga članka, iznimno, ne moraju biti pružene krajnjem potrošaču ako su posebne prehrambene potrebe potrošača povezane s tvarima ili proizvodima koji uzrokuju alergije ili netolerancije zabilježene unaprijed, a ponuđena hrana / obroci prilagođeni potrošačevim potrebama (ako se radi o bolnicama, domovima za starije i nemoćne osobe, jaslicama i dječjim vrtićima, kantinama itd.).
