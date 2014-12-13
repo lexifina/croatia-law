@@ -1,0 +1,2 @@
+# Članak 13.
+Odredbe ovoga Pravilnika u odnosu na trošarinske obrasce i obrasce posebnih poreza koji se s pravno obvezujućim učinkom mogu podnijeti isključivo uporabom sustava elektroničke razmjene podataka i pod uvjetima propisanim za uporabu sustava elektroničke razmjene podataka primjenjivat će se na odgovarajući način i u slučaju izmjena sadržaja i oblika obrazaca, uključujući i izmjene u brojčanom označavanju priloga u kojima su ti obrasci službeno objavljeni.
