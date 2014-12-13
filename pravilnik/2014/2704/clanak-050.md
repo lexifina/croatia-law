@@ -1,0 +1,2 @@
+# Članak 50.
+Razmatranje i vrednovanje natječajnih prijava u kategoriji poticanja razvoja scenarija i razvoja projekata televizijskih djela obavlja umjetnički savjetnik/ca za razvoj scenarija i razvoj projekata televizijskih djela kojeg imenuje AV Vijeće na prijedlog ravnatelja prvenstveno iz reda uglednih filmskih i televizijskih djelatnika, a po potrebi i iz redova drugih kulturnih djelatnika s potvrđenim znanjem i iskustvom u području scenaristike i produkcije.

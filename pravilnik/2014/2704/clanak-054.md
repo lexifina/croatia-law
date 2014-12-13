@@ -1,0 +1,4 @@
+# Članak 54.
+Pri razmatranju i vrednovanju projekta ocjenjuje se potencijal ideje, ostvarivost projekta i umjetnička relevantnost.
+Prema potrebi umjetnički savjetnici predlažu angažiranje vanjskih recenzenata za potrebe razmatranja i vrednovanja projekata koje odobrava AV Vijeće, ali konačnu odluku o tome koji će projekti biti uvršteni na listu prioriteta koja se predlaže Umjetničkom vijeću donose umjetnički savjetnici.
+Svaki producent/ica i/ili redatelj/ica koji su prijavili svoj projekt na Javni poziv imaju pravo u roku od tri mjeseca od dana donošenja odluke AV Vijeća na uvid u recenzije umjetničkih savjetnika koje se odnose na njihov projekt. Producent/ica ili redatelj/ica nemaju pravo uvida u recenzije nekog drugog projekta osim u slučaju pisanog dopuštenja nositelja dotičnog projekta. Recenzije za vlastiti projekt ne smiju se objavljivati osim u slučaju pisanog dopuštenja umjetničkih savjetnika i HAVC-a.
