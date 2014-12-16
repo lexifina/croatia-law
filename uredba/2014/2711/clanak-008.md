@@ -1,0 +1,2 @@
+# Članak 8.
+Okvirni broj potrebnih članova i državnih službenika u Državnoj komisiji prikazan u tablici koja je sastavni dio Uredbe o unutarnjem ustrojstvu Državne komisije za kontrolu postupaka javne nabave (»Narodne novine«, broj 84/2013), zamjenjuje se Okvirnim brojem potrebnih članova i državnih službenika Državne komisije koji je sadržan u tablici tiskanoj u prilogu ove Uredbe i čini sastavni dio Uredbe.

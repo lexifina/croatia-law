@@ -1,0 +1,1 @@
+Na temelju članka 5. stavka 2. Zakona o Državnoj komisiji za kontrolu postupaka javne nabave (»Narodne novine«, br. 18/2013, 127/2013 i 74/2014), Vlada Republike Hrvatske je na sjednici održanoj 4. prosinca 2014. godine donijela
