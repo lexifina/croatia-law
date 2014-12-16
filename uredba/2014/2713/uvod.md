@@ -1,0 +1,1 @@
+Na temelju članka 30. stavka 1. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/2011 i 119/2014), a u vezi s člankom 55. Zakona o upravljanju i raspolaganju imovinom u vlasništvu Republike Hrvatske (»Narodne novine«, broj 94/2013), Vlada Republike Hrvatske je na sjednici održanoj 4. prosinca 2014. godine donijela
