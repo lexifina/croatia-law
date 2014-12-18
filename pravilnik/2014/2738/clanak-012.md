@@ -1,0 +1,6 @@
+## Objava javne rasprave
+# Članak 12.
+(1) Kada nadležno tijelo utvrdi da zahtjev nositelja zahvata u svezi s predmetom javne rasprave sadrži sve podatke i dokaze sukladno Zakonu i ovom Pravilniku, donosi odluku o javnoj raspravi u svezi predmeta javne rasprave.
+(2) Kada je za provođenje postupka nadležno tijelo središnje tijelo državne uprave nadležno za zaštitu prirode (u daljnjem tekstu: Ministarstvo), javna rasprava u svezi predmeta javne rasprave objavljuje se na mrežnoj stranici Ministarstva i u dnevnom tisku.
+(3) Kada je za provođenje postupka nadležno tijelo upravno tijelo županije odnosno Grada Zagreba nadležno za zaštitu prirode (u daljnjem tekstu: upravno tijelo), javna rasprava u svezi predmeta javne rasprave objavljuje se na mrežnim stranicama jedinice područne (regionalne) samouprave i Ministarstva te u dnevnom tisku. Objava javne rasprave može se objaviti i u službenom glasilu jedinice lokalne, odnosno područne (regionalne) samouprave te na lokalno uobičajen način javnog priopćavanja.
+(4) Objava javne rasprave iz stavaka 2. i 3. ovoga članka sadrži naznaku predmeta javne rasprave, mjesto, datum početka i trajanje javnog uvida, mjesto i datum javnog izlaganja te rok u kojem se nadležnom tijelu dostavljaju pisana mišljenja, prijedlozi i primjedbe u svezi predmeta javne rasprave, a objavljuje se najmanje 8 dana prije početka javne rasprave.
