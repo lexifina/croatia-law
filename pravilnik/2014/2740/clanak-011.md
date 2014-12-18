@@ -1,0 +1,2 @@
+# Članak 11.
+Na javnom području za frekvencijsko područje iznad 10 MHz razine vršne gustoće snage impulsnog elektromagnetskog ravnog vala za pojedinačnu frekvenciju za vrijeme srednje vrijednosti širine impulsa ne smiju prelaziti 1000 puta granične razine navedene u Prilogu 2. Tablici 2. ovoga Pravilnika. To je ekvivalentno vrijednosti električnog polja impulsnog elektromagnetskog ravnog vala koja ne smije biti veća od umnoška broja 32 i granične razine električnog polja iz Priloga 2. Tablice 2. ovoga Pravilnika.

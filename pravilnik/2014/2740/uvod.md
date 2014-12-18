@@ -1,0 +1,1 @@
+Na temelju članka 8. stavka 2. i članka 17. Zakona o zaštiti od neionizirajućeg zračenja (»Narodne novine«, broj 91/10) ministar zdravlja uz prethodno pribavljeno mišljenje ministra pomorstva, prometa i infrastrukture, donosi

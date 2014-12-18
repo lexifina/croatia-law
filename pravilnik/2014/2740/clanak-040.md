@@ -1,0 +1,3 @@
+# Članak 40.
+(1) Ministar može putem posebnog stručnog povjerenstva provesti nadzor rada pravne osobe koja ima ovlaštenje iz članka 37. ovoga Pravilnika, a vezano za vjerodostojnost mjernog izvješća (odabir mjernih mjesta, postupci i točnost mjerenja, umjerenost mjerne opreme, odabir metode proračuna, pojednostavljenja u modeliranju strukture domene proračuna i sl.).
+(2) Ministar može ovlaštenoj pravnoj osobi oduzeti ovlaštenje iz članka 37. ovoga Pravilnika i prije isteka roka na koji je to ovlaštenje izdano, ako se utvrdi da je ta pravna osoba postupala protivno odredbama Zakona i ovoga Pravilnika, ili je pak prestala udovoljavati propisanim uvjetima.

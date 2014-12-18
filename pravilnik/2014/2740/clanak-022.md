@@ -1,0 +1,8 @@
+# Članak 22.
+(1) Investitor nepokretnog izvora elektromagnetskog polja (u daljnjem tekstu: investitor) za postavljanje određenog izvora mora pribaviti suglasnost ministarstva.
+(2) Uz zahtjev za dobivanje suglasnosti investitor je obvezan priložiti proračun očekivanih razina elektromagnetskog polja te mišljenje o udovoljavanju uvjetima iz članka 17. ovoga Pravilnika, izdano od pravne osobe ovlaštene iz članka 37. ovoga Pravilnika.
+(3) Suglasnost za postavljanje tipskih izvora niskofrekvencijskog elektromagnetskog polja investitor traži pojedinačno za svaki tipski izvor obuhvaćen studijom značaja korištenih tipskih izvora obzirom na razine elektromagnetskih polja (u daljnjem tekstu: Studija), iz članka 42. ovoga Pravilnika kojom se potvrđuje da razine elektromagnetskih polja u okolini tipskog izvora niskofrekvencijskog elektromagnetskog polja pri njegovu radu zadovoljavaju uvjete propisane člankom 17. ovoga Pravilnika.
+(4) Uz zahtjev za dobivanje suglasnosti iz stavka 3. ovoga članka, investitor je obvezan priložiti Rješenje koje se odnosi na Studiju iz članka 42. i članka 43. ovoga Pravilnika te prostorni plan smještaja izvora kao i izjavu projektanta da novi izvor pripada određenom tipu iz Studije. Ministarstvo može tražiti dodatno pojašnjenje od autora studije glede razina elektromagnetskih polja za svaki pojedinačni novoizgrađeni tipski izvor.
+(5) Proračun iz stavka 2. ovoga članka mora sadržavati:
+a) očekivane razine elektromagnetskih polja na mjestima (trasama) gdje se očekuju najviše razine polja u javnom području, području povećane osjetljivosti i području profesionalne izloženosti i to u najmanje 6 točaka.
+b) prostorni plan smještaja izvora na kojemu su označena mjesta (trase) proračuna iz podstavka a) ovoga stavka.

@@ -1,0 +1,3 @@
+# Članak 20.
+(1) Ako se mjerenjem od strane pravne osobe ovlaštene sukladno članku 37. ovoga Pravilnika utvrdi da u okolini jednoga ili više nepokretnih izvora razine elektromagnetskih polja ne zadovoljavaju uvjete propisane člankom 17. ovoga Pravilnika, sanitarni inspektor Ministarstva zdravlja (u daljem tekstu: Ministarstvo) naredit će ograničenje uporabe, primjenu tehničkih mjera ili prestanak rada nepokretnog izvora, i to tako dugo dok navedeni uvjeti ne budu zadovoljeni.
+(2) Ograničenje uporabe ili primjena tehničkih mjera odnosno prestanak rada u slučaju istovremenog djelovanja elektromagnetskih polja različitih frekvencija više nepokretnih izvora provode se uzastopno za izvore koji su zadnji puštani u uporabu.

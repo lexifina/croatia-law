@@ -1,0 +1,2 @@
+# Članak 18.
+Nepokretni izvor elektromagnetskog polja pri uporabi mora imati valjano izvješće o mjerenjima elektromagnetskog polja, izdano od pravne osobe ovlaštene sukladno članku 37. ovoga Pravilnika, kojim se potvrđuje da razine elektromagnetskih polja u okolini izvora pri njegovu radu zadovoljavaju uvjete propisane člankom 17. ovoga Pravilnika osim nepokretnih zatečenih i novih tipskih niskofrekvencijskih izvora iz članka 43. ovoga Pravilnika koji su Studijom oslobođeni obveze obavljanja mjerenja i proračuna elektromagnetskih polja u okolini pojedinih izvora.
