@@ -1,0 +1,3 @@
+# Članak 10.
+Svi hrvatski projektni partneri koji su potpisnici ugovora s Izvršnom agencijom i financirani su sredstvima Ministarstva kulture obvezni su u roku od 30 dana od zaprimanja završnog revizorskog izvješća projekta njegov preslik dostaviti Desku Kreativne Europe Ministarstva kulture.
+Svi hrvatski projektni partneri financirani sredstvima Ministarstva kulture obvezni su Desku Kreativne Europe Ministarstva kulture dostaviti preslik procjene završnog izvješća sufinanciranog projekta koji vodećem partneru dostavlja Izvršna agencija, i to u roku od 30 dana nakon što vodeći partner u projektu od Izvršne agencije zaprimi navedeno izvješće.

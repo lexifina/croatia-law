@@ -1,0 +1,5 @@
+# Članak 3.
+Ministarstvo kulture sufinancirat će aktivnosti hrvatskih projektnih partnera u projektu kako slijedi:
+- u okviru kategorija 1 i 2 Europskih projekata suradnje Ministarstvo kulture će sudjelovati s najmanje 20%, a najviše 50% financijskog udjela hrvatskog projektnog partnera koji u projektu sudjeluje u statusu vodećeg partnera, a što je vidljivo iz ugovora o bespovratnim sredstvima koji vodeći partner u projektu potpisuje s Izvršnom agencijom;
+- u okviru kategorija 1 i 2 Europskih projekata suradnje Ministarstvo kulture će sudjelovati s najmanje 20%, a najviše 40% financijskog udjela hrvatskog projektnog partnera koji u projektu sudjeluje u statusu suorganizatora, a što je vidljivo iz ugovora o bespovratnim sredstvima koji vodeći partner u projektu potpisuje s Izvršnom agencijom;
+- u okviru Projekata književnih prijevoda Ministarstvo kulture će sudjelovati s najmanje 10%, a najviše 30% financijskog udjela hrvatskog projektnog partnera u projektu, a što je vidljivo iz ugovora o bespovratnim sredstvima koji hrvatski projektni partner potpisuje s Izvršnom agencijom.
