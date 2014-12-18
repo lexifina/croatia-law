@@ -1,0 +1,3 @@
+# Članak 3.
+Prirez porezu na dohodak plaćaju fizičke osobe, rezidenti, obveznici poreza na dohodak od nesamostalnog rada, poreza na dohodak od samostalne djelatnosti, poreza na dohodak od imovine i imovinskih prava, porez na dohodak od kapitala, porez na dohodak od osiguranja i drugog dohotka koji imaju prebivalište ili uobičajno boravište na području Općine Donji Kukuruzari, i ne rezidenti koji su na području Općine Donji Kukuruzari ostvarili dohodak, a sve sukladno odredbama Zakona o porezu na dohodak i Pravilnika o porezu na dohodak.
+Osnovica prireza na dohodak je utvrđeni porez na dohodak.
