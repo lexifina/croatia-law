@@ -1,0 +1,2 @@
+# Članak 1.
+Potvrđuju se Izmjena i dopuna članka 8. Rimskog statuta Međunarodnoga kaznenog suda, kako je sadržana u Rezoluciji br. 5 od 10. lipnja 2010. i Izmjene i dopune Rimskog statuta Međunarodnoga kaznenog suda vezane uz zločin agresije, kako su sadržane u Rezoluciji br. 6 od 11. lipnja 2010., usvojene na Konferenciji za izmjene i dopune Rimskog statuta Međunarodnoga kaznenog suda, održanoj u Kampali, Republici Ugandi, u izvorniku na arapskom, kineskom, engleskom, francuskom, ruskom i španjolskom jeziku.
