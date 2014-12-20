@@ -1,0 +1,2 @@
+# Članak 19.
+Pravomoćna rješenja i suglasnosti, koja nisu izvršena, izmijenit će se ili ukinuti i zamijeniti novim sukladno odredbama ovog Zakona, ovisno o prirodi stvari i posljedicama koje bi nastale mijenjanjem ili ukidanjem, ako je u međuvremenu došlo do izmijenjenih okolnosti zbog kojih je stranka izgubila interes za izvršavanjem pravomoćnog rješenja ili suglasnosti, odnosno ako su se promijenile činjenice temeljem kojih je doneseno rješenje ili suglasnost, ako se time ne dira u stečena prava trećih.

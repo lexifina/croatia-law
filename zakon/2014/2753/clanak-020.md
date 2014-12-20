@@ -1,0 +1,4 @@
+# Članak 20.
+Za osobe koje borave na temelju akta tijela državne uprave, jedinica lokalne i područne (regionalne) samouprave ili javnih poduzeća u stanovima u državnom vlasništvu kojima upravlja Državni ured za obnovu i stambeno zbrinjavanje, a koje nemaju utvrđeno pravo na stambeno zbrinjavanje izdano od Državnog ureda za obnovu i stambeno zbrinjavanje ili njegovih prednika, niti im je to pravo regulirano posebnim zakonom, Državni ured za obnovu i stambeno zbrinjavanje zatražit će od nadležnog ureda državne uprave u županiji i nadležnog upravnog tijela Grada Zagreba utvrđivanje prava po službenoj dužnosti prema ovom Zakonu.
+Protiv rješenja iz stavka 1. ovog članka može se izjaviti žalba Državnom uredu za obnovu i stambeno zbrinjavanje, a protiv rješenja Državnog ureda za obnovu i stambeno zbrinjavanje žalba nije dopuštena, ali se može pokrenuti upravni spor.
+Tužba protiv rješenja iz stavka 2. ovog članka ima odgodni učinak.

@@ -1,0 +1,7 @@
+# Članak 13.
+Iza članka 19. dodaje se članak 19.a koji glasi:
+»Članak 19.a
+(1) Državni ured za obnovu i stambeno zbrinjavanje iznimno može omogućiti stambeno zbrinjavanje izvan Liste prvenstva u posebnim okolnostima kao što su teška oštećenja stambenih objekata zbog požara, poplave i drugih vremenskih nepogoda te teških zdravstvenih i socijalnih prilika podnositelja zahtjeva ili člana obitelji podnositelja zahtjeva, a sve uz pisanu preporuku nadležnog centra za socijalnu skrb ili načelnika općine ili gradonačelnika i uz prijedlog Povjerenstva osnovanog u tu svrhu.
+(2) Za potrebe stambenog zbrinjavanja iz stavka 1. ovoga članka čelnik Državnog ureda za obnovu i stambeno zbrinjavanje imenuje Povjerenstvo za hitno stambeno zbrinjavanje.
+(3) Povjerenstvo iz stavka 2. ovoga članka čini pet članova, i to jedan predstavnik ministarstva nadležnog za socijalnu skrb, jedan predstavnik ureda državne uprave u županiji, odnosno nadležnog upravnog tijela Grada Zagreba i tri predstavnika Državnog ureda za obnovu i stambeno zbrinjavanje.
+(4) Na prijedlog Povjerenstva iz stavka 2. ovoga članka nadležni ured državne uprave u županiji odnosno nadležno upravno tijelo Grada Zagreba, bez odgode, donose rješenje o darovanju građevinskog materijala ili o davanju u najam obiteljske kuće ili stana sukladno osiguranim financijskim sredstvima u državnom proračunu i raspoloživom stambenom fondu u državnom vlasništvu.«.

@@ -1,0 +1,2 @@
+# Članak 22.
+Državni ured za obnovu i stambeno zbrinjavanje preuzima od Ministarstva regionalnoga razvoja i fondova Europske unije dio poslova koji se odnose na tehničku realizaciju nabave, obnove i izgradnje stambenih jedinica za potrebe provedbe stambenih programa, u skladu s odredbama ovoga Zakona, te opremu, pismohranu i drugu dokumentaciju, sredstva za rad, financijska sredstva te prava i obveze, razmjerno preuzetim poslovima, kao i državne službenike i namještenike zatečene na preuzetim poslovima.
