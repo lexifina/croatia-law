@@ -1,0 +1,4 @@
+# Članak 6.
+(1) Ovjera podataka iz Izjave provodi se u regionalnom uredu, odnosno područnoj službi Zavoda nadležnima prema sjedištu ordinacije novoizabranog doktora koji je tiskanicu Izjave dostavio.
+(2) Nakon provedene ovjere podatka o izboru, odnosno promjeni izabranog doktora nadležna služba regionalnog ureda, odnosno područne službe Zavoda dostavlja jedan primjerak ovjerene tiskanice Izjave izabranom doktoru, a jedan primjerak dotadašnjem izabranom doktoru, odnosno zdravstvenoj ustanovi za izabranog doktora njezinog radnika.
+(3) Kada ovjeru podataka o izboru ili promjeni izabranog doktora nije moguće provesti, regionalni ured, odnosno područna služba Zavoda obvezni su odmah o tome pisano obavijestiti osiguranu osobu, navesti joj razloge zbog kojih ovjeru nije bilo moguće provesti te je uputiti o daljnjem postupanju.

@@ -1,0 +1,2 @@
+# Članak 12.
+Ne smatra se da je osigurana osoba promijenila izabranog doktora ako joj zdravstvenu zaštitu pruži doktor koji u skladu s općim aktom Zavoda privremeno zamjenjuje izabranog doktora za vrijeme dok se on nalazi na godišnjem odmoru, službenom putu, dok je privremeno nesposoban, odnosno spriječen za rad u skladu s odredbama Zakona o obveznom zdravstvenom osiguranju te u ostalim slučajevima njegove privremene nenazočnosti.

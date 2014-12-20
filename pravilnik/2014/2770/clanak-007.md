@@ -1,0 +1,3 @@
+# Članak 7.
+(1) Osigurana osoba koja je izvršila izbor doktora u skladu s odredbama ovoga Pravilnika, ostvaruje zdravstvenu zaštitu pri novoizabranom doktoru od datuma ovjere podataka iz Izjave, a najkasnije u roku od 10 dana od dana potpisivanja Izjave, pod uvjetom da nisu nastupile okolnosti iz članka 6. stavka 3. ovoga Pravilnika.
+(2) Dotadašnji izabrani doktor nakon primitka Izjave iz stavka 1. ovoga članka obvezan je odmah, a najkasnije u roku od 3 dana, u skladu s odredbama Zakona o liječništvu i Zakona o dentalnoj medicini, predati novoizabranom doktoru svu zdravstvenu dokumentaciju osigurane osobe.

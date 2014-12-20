@@ -1,0 +1,4 @@
+## III. POZIV NA IZBOR IZABRANOG DOKTORA
+# Članak 10.
+(1) Izbor doktora, kao i promjena izabranog doktora putem poziva na izbor izabranog doktora (u daljnjem tekstu: poziv na izbor) iznimno se obavlja tijekom kalendarske godine za područja na kojima je mreža javno zdravstvene službe nepopunjena. Poziv na izbor objavljuje Zavod na odgovarajućim mjestima u poslovnim prostorima regionalnih ureda, odnosno područnih službi Zavoda te domovima zdravlja.
+(2) Osnovom poziva na izbor osigurane osobe opredjeljuju se za doktora koji je u statusu kandidata za ugovornog doktora Zavoda na način propisan člankom 5. ovoga Pravilnika, a koji postaje izabrani doktor osiguranih osoba nakon što postane ugovorni doktor Zavoda te provedenog postupka potvrde podataka o provedenom izboru, na način propisan člankom 6. ovoga Pravilnika.
