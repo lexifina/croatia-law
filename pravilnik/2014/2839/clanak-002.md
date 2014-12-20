@@ -1,0 +1,3 @@
+# Članak 2.
+U članku 34. dodaje se novi stavak 2. i glasi:
+»(2) Iznimno od stavka 1. ovoga članka, trgovačkim društvima koja su stekla pravo priređivanja igara na sreću na automatima temeljem odluke Vlade Republike Hrvatske iz članka 23. stavka 3. Zakona, te koja na dan donošenja navedene odluke priređuju igre na sreću na automatima, mogu nastaviti s priređivanjem igara na sreću na lokacijama na kojima im je već odobreno priređivanje. Na navedenim lokacijama priređivač može nastaviti s priređivanjem igara na sreću od dana sklapanja novog ugovora o pravu priređivanja igara na sreću na automatima, uz uvjet da u roku od šest mjeseci od dana sklapanja navedenog ugovora pribavi odobrenje iz stavka 1. ovoga članka.«.
