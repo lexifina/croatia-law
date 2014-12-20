@@ -1,0 +1,2 @@
+# Članak 2.
+Iznimno od članka 1. ove Uredbe u dijelu koji se odnosi na članak 21. stavak 6. Zakona o stambenoj štednji i državnom poticanju stambene štednje, Vlada Republike Hrvatske će na prijedlog Ministarstva financija do 31. prosinca 2014. godine propisati postotak državnih poticajnih sredstava za stambenu štednju prikupljenu u 2015. godini sukladno formuli iz članka 1. ove Uredbe koji se odnosi na članak 21. stavak 2. Zakona o stambenoj štednji i državnom poticanju stambene štednje.

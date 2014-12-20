@@ -1,0 +1,13 @@
+# Članak 1.
+U Zakonu o stambenoj štednji i državnom poticanju stambene štednje (»Narodne novine«, br. 109/97, 117/97, 76/99, 10/2001, 92/2005, 21/2010, 15/2013 i 139/2013), članak 21. mijenja se i glasi:
+»(1) Državna poticajna sredstva za stambene štediše odobravaju se stambenoj štedionici iz državnog proračuna Republike Hrvatske na osnovi dokumentiranih podataka o prikupljenoj stambenoj štednji u prethodnoj kalendarskoj godini.
+(2) Postotak državnih poticajnih sredstava određuje se po sljedećoj formuli:
+% DPS = Kp + Fs
+pri čemu je:
+% DPS - postotak državnih poticajnih sredstava.
+Kp - prosječna kamatna stopa na nove devizne depozite stanovništva kod kreditnih institucija oročenih na razdoblje od 1 do 2 godine koja se izračunava jednom godišnje za razdoblje od 12 mjeseci počevši od srpnja prethodne godine do lipnja tekuće godine na temelju objavljenih statističkih podataka Hrvatske narodne banke,
+Fs - faktor stabilizacije kamatne stope izračunava se jednom godišnje kao pola aritmetičke sredine prinosa do dospijeća na obveznice Republike Hrvatske izdane u kunama uz valutnu klauzulu u eurima s preostalim rokom do dospijeća od pet godina za razdoblje od 12 mjeseci počevši od srpnja prethodne godine do lipnja tekuće godine temeljem objavljenih statističkih podatka Hrvatske narodne banke. Ako nije dostupan podatak o prinosu do dospijeća obveznica s preostalim rokom dospijeća od 5 godina, uzima se pola aritmetičke sredine prinosa do dospijeća najbližih obveznica s većim preostalim rokom do dospijeća. U izračun aritmetičke sredine prinosa ne uzimaju se mjeseci za koje nije raspoloživ podatak o mjesečnom prinosu.
+(3) Postotak državnih poticajnih sredstava iskazuje se na jednu decimalu u skladu s matematičkim pravilima o zaokruživanju.
+(4) Državna poticajna sredstva isplaćuju se prema postotku utvrđenom formulom iz stavka 2. ovoga članka od iznosa raspoložive stambene štednje uplaćene u godini za koju se isplaćuju državna poticajna sredstva, a najviše do iznosa od 5.000,00 kuna raspoložive stambene štednje po stambenom štediši tijekom jedne kalendarske godine. Pod raspoloživom stambenom štednjom u smislu ovoga Zakona podrazumijeva se iznos stambene štednje koju je stambeni štediša uplatio tijekom godine nakon umanjenja za iznose naknada koju naplaćuje stambena štedionica.
+(5) Državna poticajna sredstva tijekom jedne kalendarske godine odobrit će se stambenom štediši samo u jednoj stambenoj štedionici.
+(6) Vlada Republike Hrvatske na prijedlog Ministarstva financija do 31. listopada tekuće godine propisuje postotak državnih poticajnih sredstava za stambenu štednju prikupljenu u sljedećoj kalendarskoj godini.«.
