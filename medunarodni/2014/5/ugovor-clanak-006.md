@@ -1,0 +1,6 @@
+# Članak 6.
+ZABRANE
+1. Država stranka ne smije odobriti ni jedan prijenos konvencionalnog oružja obuhvaćenog člankom 2. stavkom 1. ili predmeta obuhvaćenih člankom 3. ili člankom 4., ako bi se takvim prijenosom kršile njezine obveze na temelju mjera koje je usvojilo Vijeće sigurnosti Ujedinjenih naroda djelujući na temelju glave VII. Povelje Ujedinjenih naroda, a posebno ako bi se kršio kakav embargo na oružje.
+2. Država stranka ne smije odobriti ni jedan prijenos konvencionalnog oružja obuhvaćenog člankom 2. stavkom 1. ili predmeta obuhvaćenih člankom 3. ili člankom 4., ako se takvim prijenosom krše njezine odgovarajuće međunarodne obveze koje proizlaze iz međunarodnih ugovora kojih je ona stranka, a posebno ugovora koji se odnose na prijenos konvencionalnog oružja ili na nezakonito trgovanje istim.
+3. Država stranka ne smije odobriti ni jedan prijenos konvencionalnog oružja obuhvaćenog člankom 2. stavkom 1. ili predmeta obuhvaćenih člankom 3. ili člankom 4., ako u vrijeme odobravanja ima saznanja da će to oružje ili da će ti predmeti biti upotrijebljeni za počinjenje genocida, zločina protiv čovječnosti, teških povreda
+Ženevskih konvencija iz 1949., napada na civilne ciljeve ili na civilno stanovništvo koje je kao takvo zaštićeno, ili drugih ratnih zločina kako su defi nirani međunarodnim sporazumima kojih je ona stranka.
