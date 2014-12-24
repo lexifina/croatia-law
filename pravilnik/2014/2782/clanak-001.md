@@ -1,0 +1,2 @@
+# Članak 1.
+Ovim Pravilnikom propisuje se način raspolaganja s oružjem i streljivom oduzetim od fizičkih i pravnih osoba u pravomoćno okončanom upravnom, prekršajnom i kaznenom postupku koje je dostavljeno na raspolaganje Ministarstvu unutarnjih poslova (u daljnjem tekstu: Ministarstvo) te način rada Povjerenstva Ministarstva za odlučivanje o oružju oduzetom u pravomoćno okončanom upravnom, prekršajnom i kaznenom postupku te o oružju predanom Ministarstvu (u daljnjem tekstu: Povjerenstvo).
