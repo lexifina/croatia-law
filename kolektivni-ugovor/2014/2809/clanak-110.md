@@ -1,0 +1,9 @@
+## Objava maksimalnih iznosa primjerene plaće
+# Članak 110.
+Zbog primjene odredbi članka 108. i prethodnog članka ovog Kolektivnog ugovora, Udruga u Časopisu »Privatna praksa u zdravstvu« objavljuje za radnika početnika maksimalni iznos primjerene plaće, na osnovi podataka o plaći radnika istog zanimanja/
+stupnja stručne spreme na radu u javnom zdravstvu, da bi se utvrdio parametar za usporedbu, zbog primjene pojma primjerene plaće = plaća za jednaki rad.
+Udruga postupa kako je navedeno u prethodnom stavku, da bi poslodavac mogao biti siguran, da je tako utvrđena/obračunata plaća primjerena plaći radnika istog zanimanja u javnom zdravstvu. Zbog toga, u obračunu takve plaće Udruga koristi sve propisane parametre za izračun iz Kolektivnog ugovora za javno zdravstvo, da bi mogla istu usporediti sa plaćom obračunatom prema ovom Kolektivnom ugovoru, pri čemu uzima u obzir i posebne dodatke na plaću u javnom zdravstvu (dodatak na plaću dr. med./med. dent., dodatak za teže uvjete rada i... = plaća za usporedbu).
+Udruga postupa u smislu rečenog u prethodnom stavku i za poslodavce iz članka 1. ovog Kolektivnog ugovora koji obavljaju djelatnost i sa većim brojem radnika, tj. 20 i više i koji ne ulazi u kategoriju tzv. malih poslodavaca.
+Kada poslodavac iz stavka 1. i 2. ovog članka, postupkom usklađenja plaće/prihod, dostigne razinu/visinu primjerene plaće iz stavka 1. ovog članka, on je ispunio uvjet obračuna primjerene plaće radniku prema ovom Kolektivnom ugovoru.
+Veći iznos plaće, u odnosu na iznos iz prethodnog stavka, poslodavac obračunava/isplaćuje prema mogućnostima i vlastitoj prosudbi/interesu, uz uvjete, sukladno ovom Kolektivnom ugovoru.
+U Časopisu »Privatna praksa u zdravstvu« Udruga objavljuje relevantne parametre za primjenu odredbi ovog Kolektivnog ugovora u domeni plaća

@@ -1,0 +1,7 @@
+## Saslušanje radnika na okolnost sumnje da je učinio povredu radne dužnosti
+# Članak 195.
+Poslodavac mora radniku omogućiti izjašnjenje glede postavljene sumnje da je učinio ili ne povredu radne dužnosti, osim ako postoje okolnosti zbog kojih nije opravdano očekivati od poslodavca da to učini.
+Riječi »nije opravdano očekivati od poslodavca da to učini« za poslodavca/radnika to znači, da je radnik učinio povredu ličnosti/osobe poslodavca ili člana njegovog obiteljskog domaćinstva ili drugih osoba, u nazočnosti trećih, povrede koje se mogu dokazati ili koje nije potrebno dokazivati.
+Protupravno ponašanje radnika i njegovu izjavu u odnosu na optužbu, u smislu odredbi prethodnog stavka, poslodavac registrira u pisanoj formi (dokument), kao dokaz da je saslušao radnika na okolnost presumpcije njegovog protupravnog ponašanja.
+Ako radnik odbije dati izjavu o njegovom navodnom protupravnom ponašanju, tu činjenicu poslodavac evidentira na istom dokumentu, kao svoju zabilježbu, uz naznaku vremena, kada je pokušao ishoditi od zaposlenika njegovu izjavu. Ako je/su tom činu bila/bile nazočna/ne osoba ili druge osobe, poslodavac navodi njihova imena, prezimena i njihov status u odnosu na poslodavca i radnika.
+Poslodavac, koji zapošljava manje od 20 radnika i poslodavac koji zapošljava 20 i više od 20 radnika, može otkazati radniku ugovor o radu za učinjene tzv. lakše povrede radnih obveza, ili tzv. otkaz uvjetovan skrivljenim ponašanjem radnika (redoviti otkaz ugovora o radu).

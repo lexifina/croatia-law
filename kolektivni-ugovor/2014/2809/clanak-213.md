@@ -1,0 +1,2 @@
+# Članak 213.
+Radniku, kojem je uručen otkaz ugovora o radu, a on nije u tijeku korištenja jednog od prava - bolovanje i sl. prema ZOR-u, prestaje ugovor o radu danom isteka otkaznog roka, s tim, da naknadno stečeno pravo prema opisu iz istog članka ZOR-a, radnik ostvaruje prema propisima koji reguliraju ostvarenje tih/tog prava, bilo na teret HZZO-a ili MO ili ..... (na primjer prava iz zdravstvenog osiguranja i sl.).

@@ -1,0 +1,5 @@
+## Utvrđivanje iznosa primjerene plaće
+# Članak 128.
+Kalkulativni iznos plaće radnika iz članka 107. ovog Kolektivnog ugovora, poslodavac, koji obavlja ljekarničku djelatnost, množi s koeficijentom odnosa prosječne vrijednosti boda iz stavka 6. prethodnog članka i baznog iznosa za usporedbu tj. od 10,00 kn/bod. Dobiveni iznos plaće za obračun, glede isplate, korigira iznos kalkulativne plaće/radnik na manji i/ili viši iznos, iznosa primjerene plaće iz članka 108. stavak 2. ovog Kolektivnog ugovora, a najviše do maksimalnog iznosa iz članka 109. i 110. istog Kolektivnog ugovora.
+Veći iznos plaće od najvišeg iznosa primjerene plaće, kako je navedeno u prethodnom stavku određuje poslodavac prema svom nahođenju i mogućnosti, vodeći računa da ne ugrozi djelatnost, razvoj i svoj drugi vlasnički interes, uz uvjete iz članka 115. ovog Kolektivnog ugovora.
+Elementi za izračun primjerene plaće za radnika, koji obavlja poslove za poslodavca MEDICINSKU SESTRU, u primarnoj razini zz, za poslove ZDRAVSTVENE NJEGE I REHABILITACIJE BOLESNIKA U KUĆI

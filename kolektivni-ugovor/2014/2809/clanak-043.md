@@ -1,0 +1,4 @@
+## Pravilnici o radu
+# Članak 43.
+Ustanove i/ili trgovačka društva članovi Udruge iz članka 1. ovog Kolektivnog ugovora, kao poslodavci, ako zapošljavaju najmanje 20 radnika, dužni su donijeti pravilnik o radu i regulirati prava u svezi plaće, organizacije rada, postupka i mjera za zaštitu dostojanstva radnika, te mjere zaštite od diskriminacije i druga pitanja važna za radnike, ako ta pitanja nisu uređena kolektivnim ugovorom.
+Dovodeći u svezu propisano u prethodnom stavku i odredbe ovog Kolektivnog ugovora, ustanove i trgovačka društva članovi Udruge pravilnikom moraju regulirati samo organizaciju rada i sistematizaciju radnih mjesta. Ostale nabrojene osnove isti članovi Udruge reguliraju samo, ako utvrđuju dodatne posebnosti, ali više/većeg opsega prava od zadanog okvira iz pravne regulative prema ovom Kolektivnom ugovoru.

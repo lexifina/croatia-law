@@ -1,0 +1,4 @@
+## Zajedničke odredbe o prihodu ostvarenom na tržištu zdravstvenih usluga uz prihod od HZZO-a
+# Članak 118.
+Ako poslodavac realizira prihod i na tržištu zdravstvenih usluga, pored prihoda iz ugovornog odnosa sa HZZO-om, taj prihod, nakon podmirenja troškova izrade usluge/
+postupka, poslodavac koncesionar koristi poglavito za kupnju zamjenske i/ili nove opreme za rad, investicijsko održavanje opreme i za eventualno pokriće razlike troškova plaća za radnike, koji se iskazuju kao višak u odnosu na broj, prema propisanom standardu/tim, te za pokriće troškova materijalnih prava radnika, prema odredbama ovog Kolektivnog ugovora, za koja poslodavcu HZZO nije osigurao sredstva u cijeni »glavarine« ili je osigurao samo za neka prava i/ili u manjem iznosu od propisanog maksimalnog iznosa/pravo, prema poreznim propisima.

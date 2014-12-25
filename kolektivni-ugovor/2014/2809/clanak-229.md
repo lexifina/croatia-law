@@ -1,0 +1,7 @@
+## Prijenos ugovora o radu na novog - istog poslodavca
+# Članak 229.
+Ako poslodavac promjeni statusni oblik svoje djelatnosti, na primjer iz statusa bilo kojeg oblika privatne prakse u status zdravstvene ustanove ili trgovačkog društva ili status ljekarničke ustanove, tj. iz statusa fizičke osobe koja obavlja registriranu djelatnost u djelatnost zdravstvene ustanove ili trgovačkog društva - pravne osobe tako, da je pravna osoba slijednik njegovog prethodnog vlasništva i oblika registrirane djelatnosti, temeljem čega zadržava prethodno i eventualno povećava svoje vlasništvo, poslodavac je pravni slijednik prethodnog oblika vlasništva, pa se slijedom toga i svi ugovori o radu njegovih radnika prenose na njega, za njih »novog« poslodavca.
+Prava radnika utemeljena ovim Kolektivnim ugovorom za koja se opseg prava veže za rad za istog poslodavca, u slučajevima kako ja opisano u prethodnom stavku, radnici zadržavaju kontinuitet trajanja radnog staža bez prekida.
+Primjena Kolektivnog ugovora prenosi se na novog poslodavca sve do vremena početka primjene za njega važećeg kolektivnog ugovora, a najduže godinu dana.
+Ako do prijenosa ugovora o radu dođe na način propisan ZOR-om i ovim Kolektivnim ugovorom, novi poslodavac solidarno s bivšim poslodavcem koji je prenio ugovor o radu, odgovara za obveze prema radniku/radnicima nastale do dana prenošenja ugovora o radu.
+Osim odredbi ovog članka, na prijenos ugovora o radu primjenjuju se odredbe ZOR-a.

@@ -1,0 +1,4 @@
+## Ostale zajedničke odredbe
+## Izračun plaće radniku koji pored poslova radnog mjesta obavlja i poslove rukovođenja po ugovoru o službi
+# Članak 134.
+Ravnatelj zdravstvene ustanove ili direktor trgovačkog društva ili drugi radnik zdravstvene ustanove, trgovačkog društva koji pored poslova radnog mjesta koje obavlja po ugovoru o radu obnaša i posebne dužnosti (šef odjela, voditelj ljekarne, laboratorija itd.), ostvaruje plaću primjenom mjerila i kriterija iz ovog Kolektivnog ugovora za radno mjesto iz ugovora o radu (npr. liječnik specijalist, farmaceut itd.), razmjerno vremenu obavljanja tih poslova u okviru punog radnog vremena (PRV) i plaću za obnašanje posebnih dužnosti, odnosno za posebna ovlaštenja u procesu rada (šef odsjeka, odjela, pomoćnik ravnatelja - direktora i sl.) sukladno dogovoru sa osnivačima, a legalizirano ugovorom o službi.

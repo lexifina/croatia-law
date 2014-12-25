@@ -1,0 +1,4 @@
+## Odgovornost pravne osobe za kazneno djelo koje je učinila fizička osoba koja vodi poslove pravne osobe
+# Članak 95.
+Ako fizička osoba, sa statusom radnika ili bez tog statusa, koja vodi poslovanje zdravstvene ustanove ili trgovačkog društva (pravne osobe), učini kazneno djelo, kojim je povrijeđena neka dužnost pravne osobe ili je njime pravna osoba ostvarila ili je trebala ostvariti protupravnu imovinsku korist za sebe ili za drugoga, kazniti će se pravna osoba za kazneno djelo propisano za odgovornu osobu u Kaznenom zakonu i drugim zakonima.
+Odgovorna osoba iz prethodnog stavka je radnik - fizička osoba koja vodi poslovanje pravne osobe ili joj je povjereno obavljanje poslova iz područja djelovanja pravne osobe, kao ravnatelj zdravstvene ustanove, privremeni ravnatelj zdravstvene ustanove ili v. d. ravnatelj ili direktor trgovačkog društva koje obavlja zdravstvenu djelatnost.

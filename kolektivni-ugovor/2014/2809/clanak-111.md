@@ -1,0 +1,3 @@
+# Članak 111.
+Zbog primjene odredbi prethodnog članka, Udruga u Časopisu »Privatna praksa u zdravstvu« objavljuje maksimalni iznos primjerene plaće/radnik/radno mjesto iz članka 109. stavak 2. ovog Kolektivnog ugovora, na osnovi podataka koji uvjetuju izračun maksimalnog iznosa primjerene plaće prema odredbama ovog Kolektivnog ugovora.
+U duhu i smislu rečenog u prethodnom stavku, Udruga, radi izračuna baznog iznosa za usporedbu i ocjenu realnosti visine primjerene plaće prati kalkulacije cijena usluga za djelatnosti primarne i sekundarne zdravstvene zaštite, od strane HZZO-a i druge parametre koji utječu na visinu prodajne cijene usluge/programa člana Udruge, bilo od strane HZZO-a, kao jedinog ili pretežnog kupca usluga/poslodavac ili od tržišta.

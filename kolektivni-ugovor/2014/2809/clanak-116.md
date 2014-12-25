@@ -1,0 +1,5 @@
+## Plaća radnika predstavlja akontaciju njegove plaće - vrijednosti njegovog rada za poslodavca
+# Članak 116.
+Mjerila za izračun kalkulativne plaće radnika iz članka 103. i 104. ovog Kolektivnog ugovora i bazni iznos za usporedbu i ocjenu realnosti visine prihoda/poslodavac/porezno razdoblje, su fiksni.
+Realizirani prihod u poreznom razdoblju, prema definiciji ekonomske snage je promjenjiva veličina, pa je slijedom toga i plaća radnika/radno mjesto, obračunata prema odredbama ovog Kolektivnog ugovora, do visine maksimalnog iznosa primjerene plaće iz članka 109. stavak 3. i članka 110. stavak 2. istog Kolektivnog ugovora također promjenjiva - varijabilna veličina.
+Slijedom iznijetog, plaća radnika iz prethodnog stavka je za njega akontacija plaće, u odnosu na plaću koju bi/je trebao ostvariti tijekom godine, do maksimalnog iznosa primjerene plaće iz članka 109., uvažavajući i odredbe članka i 115. ovog Kolektivnog ugovora, u odnosu na veličinu ostvarenog prihoda u istom razdoblju, a više od toga, samo voljom poslodavca.

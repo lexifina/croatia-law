@@ -1,0 +1,2 @@
+# Članak 75.
+Poslodavac koji je uključen u mrežu javne zdravstvene službe, pri utvrđivanju trajanja godišnjeg odmora/godina i rasporeda godišnjeg odmora, mora respektirati svoje obveze iz Zakona o zdravstvenoj zaštiti[33] i obveze iz ugovora sa HZZO-om, o kontinuitetu i jednakom opsegu pružanja zdravstvene zaštite osiguranicima/godina, o kojima skrbi, te činjenice, da je HZZO svojim aktima svojim poslovnim partnerima i za njihov rad osigurao opisano pravo u trajanju od 30 kalendarskih dana/godina.

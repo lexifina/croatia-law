@@ -1,0 +1,3 @@
+# Članak 138.
+Radniku - specijalizantu, za vrijeme svladavanja programa specijalizacije edukacijom u zdravstvenoj ustanovi /ustanovama i/ili trgovačkom društvu u kojoj/ima provodi program specijalizacije, pripada naknada plaće utvrđena primjenom mjerila i kriterija iz članka 103. i 104. ovog Kolektivnog ugovora, tj. kalkulativna plaća svedena na 30% utvrđenog iznosa.
+Za vrijeme sudjelovanja uz rad drugih za poslodavca u tijeku specijalizacije, specijalizant ostvaruje pravo na plaću prema mjerilima i kriterijima iz članka 107. ovog Kolektivnog ugovora za dr. opće/obiteljske medicine/dentalne medicine/ing. med. bioch. i dr., svedeno na najmanje 50% utvrđenog iznosa.

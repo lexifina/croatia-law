@@ -1,0 +1,7 @@
+## Neplaćeni dopust
+# Članak 92.
+Radnik ima pravo na dopust bez naknade plaće (neplaćeni dopust) do 30 radnih dana u tijeku kalendarske godine pod uvjetom da je takav dopust za njega opravdan i da tu opravdanost može dokazati, te uvjetom da njegovo odsustvo neće izazvati teškoće u obavljanju poslova za poslodavca. Smatra se opravdanim dopust ako je potreban radi gradnje, popravka ili adaptacije kuće ili stana radnika, njege/skrbi člana uže obitelji, liječenja na vlastiti trošak, sudjelovanja na kulturno umjetničkim i športskim priredbama, vlastitog školovanja, doškolovanja, osposobljavanja, usavršavanja ili specijalizacije.
+Iznimno, poslodavac može odobriti radniku neplaćeni dopust i za druge osnove i u duljem trajanju, s obvezom ponovnog povratka na rad za iste ili druge poslove, zavisno o potrebi procesa rada, trajanju neplaćenog dopusta radnika i mogućim promjenama u organizaciji rada poslodavca za vrijeme izbivanja radnika sa rada, većem ili manjem opsegu poslova na kojima je radnik radio i drugim razlozima na strani poslodavca.
+Za vrijeme neplaćenog dopusta radnika njegova prava iz rada i po osnovi rada miruju.
+Radnik ostvaruje pravo iz stavka 1. i 2. ovog članka na osnovi posebnog rješenja poslodavca.
+Za vrijeme trajanja neplaćenog dopusta radnik za sebe može ostvariti pravo na produženo mirovinsko i zdravstveno osiguranje na temelju rješenja iz prethodnog stavka, a sukladno propisima mirovinskog i zdravstvenog osiguranja, te propisima o doprinosima za obvezna osiguranja.

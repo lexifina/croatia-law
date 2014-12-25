@@ -1,0 +1,2 @@
+# Članak 20.
+Poslodavac je dužan provjeriti zdravstvenu sposobnost kandidata za status radnika poslodavca prije sklapanja ugovora o radu, ali i tijekom konzumacije radnog odnosa, u propisanim rokovima i to za ona radna mjesta koja su općim aktom poslodavca ili ovim Kolektivnim ugovorom označena kao radna mjesta za koja se traži ispunjenje uvjeta posebne zdravstvene sposobnosti.

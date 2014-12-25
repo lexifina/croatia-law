@@ -1,0 +1,6 @@
+## PRAVNI LIJEK/ZAŠTITA PRAVA RADNIKA
+# Članak 221.
+Ako radnik, koji obavlja poslove po ugovoru o radu za poslodavca iz članka 1. ovog Kolektivnog ugovora smatra da mu je poslodavac povrijedio neko pravo iz radnog odnosa, pa tako i u slučaju otkaza ugovora o radu, može u roku od 15 dana, računajući od dana dostave rješenja ili odluke kojom je povrijeđeno njegovo pravo, ili od dana saznanja za povredu prava, zahtijevati od poslodavca ostvarenje tog prava.
+Ako poslodavac svojom odlukom potvrdi prvostupanjsko rješenje ili odluku ili ne uzme u razmatranje zahtjev radnika u roku od 15 dana, računajući od dana dostave zahtjeva (šutnja poslodavca), radnik ima pravo u slijedećem roku od 15 dana tražiti zaštitu povrijeđenog prava pred nadležnim sudom.
+Zaštitu povrijeđenog prava pred nadležnim sudom ne može zahtijevati radnik koji prethodno nije poslodavcu podnio zahtjev za zaštitu svog prava, osim u slučaju podnošenja zahtjeva za naknadu štete ili drugim novčanim potraživanjima iz radnog odnosa.
+Propust radnika da zahtjeva naknadu štete ili drugo novčano potraživanje iz radnog odnosa u rokovima iz ovog članka, ne može imati za posljedicu gubitak prava na potraživanje.

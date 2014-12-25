@@ -1,0 +1,2 @@
+# Članak 34.
+Ako poslodavac zasnuje s radnikom radni odnos na određeno vrijeme, mora, prije isteka roka/osnova za koji je ugovor o radu sklopljen obavijestiti radnika o konzumaciji roka/osnova i prestanku ugovora o radu ili ponuditi radniku nastavak radnog odnosa, ali s novim vremenom, s istim ili različitim osnovom rada, također za rad na određeno vrijeme. O formi obavijesti - pisana ili usmena - odlučuje poslodavac.
