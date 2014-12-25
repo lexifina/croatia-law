@@ -1,0 +1,1 @@
+Na temelju članka 12. stavka 4. Zakona o potpori poljoprivredi i ruralnom razvoju (»Narodne novine«, br. 80/2013, 41/2014 i 107/2014), Vlada Republike Hrvatske je na sjednici održanoj 23. prosinca 2014. godine donijela
