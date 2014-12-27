@@ -1,0 +1,1 @@
+Na temelju članaka 151. stavka 12. i 154. stavka 2. Zakona o osiguranju (»Narodne novine« broj 151/05, 87/08, 82/09, 54/13 i 94/14), Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća održanoj 12. prosinca 2014. donosi
