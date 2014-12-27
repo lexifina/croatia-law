@@ -1,0 +1,2 @@
+# Članak 10.
+U članku 26.b stavku 3. riječi: »strukturi tijela koja će upravljati strukturnim instrumentima Europske unije« zamjenjuju se riječima: »tijelima uključenim u sustav upravljanja i kontrole korištenja strukturnih instrumenata Europske unije u financijskoj perspektivi Europske unije 2007. - 2013. i sustavima upravljanja i kontrole korištenja europskih strukturnih i investicijskih fondova u financijskoj perspektivi Europske unije 2014. - 2020. iz članka 26.a ove Uredbe, preduvjet su za povrat troškova plaća od Europske komisije.«.
