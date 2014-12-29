@@ -1,0 +1,1 @@
+Na temelju članka 46. stavka 4., članka 47. stavaka 4. i 9., članka 62. stavka 8. i članka 68. stavka 7. Zakona o veterinarstvu (»Narodne novine«, br. 82/2013 i 148/2013), ministar poljoprivrede donosi

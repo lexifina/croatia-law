@@ -1,0 +1,1 @@
+Pravilnik o izmjenama i dopunama Pravilnika o veterinarsko-zdravstvenim zahtjevima za stavljanje u promet i uvoz životinja, sjemena, jajnih stanica i zametaka koji ne podliježu zahtjevima iz Dodatka A Pravilnika o veterinarskim i zootehničkim pregledima određenih životinja i proizvoda u prometu s državama članicama Europske unije

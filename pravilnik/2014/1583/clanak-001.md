@@ -1,0 +1,3 @@
+# Članak 1.
+U Pravilniku o veterinarsko-zdravstvenim zahtjevima za stavljanje u promet i uvoz životinja, sjemena, jajnih stanica i zametaka koji ne podliježu zahtjevima propisa iz Dodatka A Dijela I. Pravilnika o veterinarskim i zootehničkim pregledima određenih životinja i proizvoda u prometu s državama članicama Europske unije (»Narodne novine«, broj 137/2013)[1], u članku 1. stavku 4. iza podstavka 13. briše se točka i dodaje se podstavak 14. koji glasi:
+»- Direktivom 2013/31/EU Europskog parlamenta i Vijeća od 12. lipnja 2013. o izmjenama i dopunama Direktive Vijeća 92/65/EEZ o zahtjevima zdravlja životinja kojima se uređuje trgovina pasa, mačaka i pitomih vretica između država članica i uvoz u Uniju (SL L 178, 28.06.2013.).«.
