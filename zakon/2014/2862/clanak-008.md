@@ -1,0 +1,4 @@
+# Članak 8.
+U članku 11. stavku 1. riječi: »članku 9.« zamjenjuju se riječju: »odredbama«.
+Iza stavka 6. dodaje se stavak 7. koji glasi:
+»(7) Ministarstvo financija može zatražiti izmjene i/ili dopune dokumentacije prijedloga projekta JPP-a prije davanja prethodne suglasnosti iz stavka 2. ovoga članka, odnosno u svojem mišljenju iz stavka 4. ovoga članka. U tom slučaju, rok od 30 dana iz stavka 6. ovoga članka počinje teći od dostave traženih izmjena i/ili dopuna dokumentacije prijedloga projekta JPP-a. Rok od 30 dana iz stavka 6. ovoga članka za davanje prethodne suglasnosti i novog mišljenja počinje teći od dostave izmjena i/ili dopuna dokumentacije prijedloga projekta JPP-a i ako izmjene i/ili dopune dokumentacije prijedloga projekta JPP-a zatraži i Ministarstvu financija dostavi Agencija.«.
