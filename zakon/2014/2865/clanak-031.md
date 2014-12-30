@@ -1,0 +1,3 @@
+# Članak 31.
+Postupci započeti, a koji nisu dovršeni do stupanja na snagu ovoga Zakona dovršit će se prema odredbama Zakona o zaštiti i očuvanju kulturnih dobara (»Narodne novine«, br. 69/99., 151/03., 157/03., 87/09., 88/10., 61/11., 25/12., 136/12. i 157/13.).
+Iznimno od stavka 1. ovoga članka, postupci koji su do dana stupanja na snagu ovoga Zakona pokrenuti po člancima 60., 61. i 62. Zakona o zaštiti i očuvanju kulturnih dobara (»Narodne novine«, br. 69/99., 151/03., 157/03., 87/09., 88/10., 61/11., 25/12., 136/12. i 157/13.), a nakon stupanja na snagu Zakona o gradnji (»Narodne novine«, br. 153/13.) i Zakona o prostornom uređenju (»Narodne novine«, br. 153/13.), dovršit će se prema odredbama članaka 12. do 15. ovoga Zakona.
