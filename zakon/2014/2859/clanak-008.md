@@ -1,0 +1,3 @@
+# Članak 8.
+U članku 339.a stavku 1. riječi: »za koja se kazneni postupak pokreće po službenoj dužnosti policija će« zamjenjuju se riječima: »iz članka 334. ovog Zakona ili neko drugo kazneno djelo za koje je propisana kazna zatvora teža od pet godina policija može«, a iza riječi: »dokaza,« dodaju se riječi: »putem Operativno-tehničkog centra za nadzor telekomunikacija«.
+U stavku 2. riječi: »za koje se kazneni postupak pokreće po službenoj dužnosti« zamjenjuju se riječima: »iz članka 334. ovog Zakona ili neko drugo kazneno djelo za koje je propisana kazna zatvora teža od pet godina«, a iza riječi: »istrage,« dodaju se riječi: »putem Operativno-tehničkog centra za nadzor telekomunikacija«.
