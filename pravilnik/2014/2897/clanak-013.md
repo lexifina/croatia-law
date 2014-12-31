@@ -1,0 +1,8 @@
+## Izdavanje dozvola i ovlaštenja
+# Članak 13.
+(1) Nakon položenog ispita iz članka 12. ovoga Pravilnika, stječu se uvjeti za izdavanje dozvole i ovlaštenja.
+(2) Smatra se da osoba koja pripada zrakoplovno-meteorološkom osoblju ima dozvolu i ovlaštenje od dana kad je položila ispit.
+(3) Poslodavac izdaje dozvolu i u nju upisuje stečena ovlaštenja.
+(4) Poslodavac će izdavati novi obrazac dozvole u slučaju promjene osobnih podataka, kada se određene rubrike dozvole za rad popune ili nakon oštećenja ili gubitka dozvole.
+(5) Osposobljavanja, ispite, dozvole i ovlaštenja koji su provedeni i stečeni u drugoj državi članici Europske unije poslodavac će priznati za izdavanje dozvola i ovlaštenja predviđenih ovim Pravilnikom ukoliko utvrdi da osiguravaju barem istu razinu stručne osposobljenosti propisanu ovim Pravilnikom. Za priznavanje već provedenih osposobljavanja i ispita, potrebno je odobrenje Agencije kojim se potvrđuje da su provedeni po programima koji osiguravaju najmanje jednaku kvalitetu stručnog osposobljavanja predviđenu ovim Pravilnikom. Agencija izdaje odobrenje temeljem zahtjeva poslodavca.
+(6) Osposobljavanja, ispite, dozvole i ovlaštenja koji su provedeni i stečeni izvan Europske unije poslodavac može priznati za izdavanje dozvola i ovlaštenja predviđenih ovim Pravilnikom, uzimajući u obzir načelo uzajamnosti i barem istu razinu stručne osposobljenosti kao što je propisana ovim Pravilnikom. Za priznavanje već provedenih osposobljavanja i ispita, potrebno je odobrenje Agencije kojim se potvrđuje da su provedeni po programima koji osiguravaju najmanje jednaku kvalitetu stručnog osposobljavanja predviđenu ovim Pravilnikom. Agencija izdaje odobrenje temeljem zahtjeva poslodavca.
