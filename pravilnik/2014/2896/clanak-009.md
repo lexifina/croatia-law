@@ -1,0 +1,6 @@
+# Članak 9.
+(1) Djelatne vojne osobe raspoređene u Ministarstvu obrane i Oružanim snagama obavljaju izbor vojnog doktora za izabranog doktora u skladu s postupkom koji je propisan općim aktom Zavoda kojim se uređuje slobodan izbor doktora medicine i dentalne medicine primarne zdravstvene zaštite.
+(2) Djelatne vojne osobe koje tijekom provedbe postupka izbora izabranih doktora iz stavka 1. ovoga članka sudjeluju u operacijama potpore miru obavit će izbor/promjenu izabranog doktora u roku od tri mjeseca po povratku u Republiku Hrvatsku.
+(3) Djelatna vojna osoba je teritorijalno pokrivena s izabranim vojnim doktorom u slučaju kada je sjedište najbliže ugovorne vojne ordinacije opće i dentalne medicine udaljeno do dvadeset kilometara od mjesta prebivališta ili mjesta službe djelatne vojne osobe.
+(4) Za provedbu opće medicinske i dentalne zdravstvene zaštite iz stavka 3. ovoga članka ustrojavaju se ugovorne vojne ordinacije opće i dentalne medicine u Vojno zdravstvenom središtu i drugim ustrojstvenim jedinicama Oružanih snaga nadležnim za provedbu zdravstvene potpore.
+(5) Iznimno od stavka 3. ovoga članka kada djelatnoj vojnoj osobi zbog teritorijalne nepokrivenosti nije moguće osigurati primarnu zdravstvenu zaštitu kod izabranog vojnog doktora odobrava se izbor civilnog doktora u ugovornom odnosu sa Zavodom.

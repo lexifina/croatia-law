@@ -1,0 +1,2 @@
+# Članak 2.
+Pripadnici Oružanih snaga ostvaruju prava na zdravstvenu zaštitu i prava na zdravstveno osiguranje u skladu sa Zakonom o zdravstvenoj zaštiti, Zakonom o obveznom zdravstvenom osiguranju, Zakonom o dobrovoljnom zdravstvenom osiguranju, Zakonom o službi u Oružanim snagama Republike Hrvatske, ovim Pravilnikom i drugim propisima iz nadležnosti Ministarstva obrane kojim se uređuje zdravstvena zaštita i zdravstveno osiguranje pripadnika Oružanih snaga.
