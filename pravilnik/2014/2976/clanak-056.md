@@ -1,0 +1,6 @@
+# Članak 56.
+Članak 209. mijenja se i glasi:
+»(1) Obvezniku koji od druge djelatnosti utvrđuje dohodak od samostalne djelatnosti, godišnja osnovica jest dohodak od samostalne djelatnosti - razlika između iznosa primitaka i iznosa izdataka, prije umanjenja dohotka za preneseni gubitak i ostalih umanjenja dohotka prema propisima o porezu na dohodak i posebnim propisima, sukladno članku 185. stavku 1. Zakona.
+(2) Obvezniku koji od druge djelatnosti utvrđuje dobit, godišnja osnovica jest dobit - razlika između iznosa ukupnih prihoda i ukupnih rashoda prije umanjenja dobiti za preneseni gubitak i ostalih umanjenja i uvećanja dobiti prema propisima o porezu na dobit i posebnim propisima, sukladno članku 185. stavku 2. Zakona.
+(3) Obvezniku koji od druge djelatnosti plaća porez na dohodak prema propisanom paušalnom dohotku, iznos godišnje osnovice utvrđuje se na temelju službenih podataka o obavljanju djelatnosti i o iznosu godišnjeg paušalnog dohotka prema kojemu je tom obvezniku utvrđena obveza poreza na dohodak u paušalnom iznosu, sukladno članku 185. stavku 3. Zakona.
+(4) Obvezniku iz stavka 1. i 2. ovoga članka koji obvezu doprinosa prema godišnjoj osnovici nije utvrdio na način i u rokovima propisanima Zakonom, niti o tome podnio propisano izvješće, obvezu doprinosa utvrđuje i iznose obračunava Porezna uprava u postupku nadzora ili u posebnom postupku.«.

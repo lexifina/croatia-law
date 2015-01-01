@@ -1,0 +1,5 @@
+# Članak 30.
+U članku 153. stavci 2. i 3. mijenjaju se i glase:
+»(2) Za osiguranika po osnovi rada kod poslodavca s registriranim sjedištem ili mjestom poslovanja u drugoj državi članici prema kojemu se, sukladno propisima Europske unije o koordinaciji sustava socijalne sigurnosti, primjenjuje zakonodavstvo Republike Hrvatske, iznos osnovice utvrđuje i posebni doprinos radi prava na korištenje zdravstvene zaštite u inozemstvu obračunava poslodavac, sukladno članku 188. točke 4. i 5. Zakona, odnosno zaposlena osoba preuzimatelj obveze doprinosa iz članka 248.a stavka 1. Zakona.
+(3) Iznimno od odredbe stavka 1. i 2. ovog članka za osiguranika po osnovi radnog odnosa i za osiguranika po osnovi rada kod poslodavca s registriranim sjedištem ili mjestom poslovanja u drugoj državi članici koji službeno boravi ili boravi na službenom putu u državi članici ili u državi s kojom je međunarodnim ugovorom o socijalnom osiguranju uređeno pitanje korištenja zdravstvene zaštite u inozemstvu ne obračunava se posebni doprinos radi prava na korištenje zdravstvene zaštite u inozemstvu.«.
+Stavak 4. briše se.

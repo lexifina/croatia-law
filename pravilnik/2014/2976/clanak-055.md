@@ -1,0 +1,4 @@
+# Članak 55.
+Članak 208. mijenja se i glasi:
+»(1) Obveznici doprinosa po osnovi obavljanja druge djelatnosti iz članka 7. točke 6. Zakona, koji od druge djelatnosti sukladno propisima o porezu na dohodak utvrđuju dohodak kao razliku poslovnih primitaka i izdataka ili sukladno propisima o porezu na dobit od druge djelatnosti utvrđuju dobit, sami utvrđuju obvezu doprinosa, iznos osnovice te vrste i godišnji iznos svakog od doprinosa što su ih dužni plaćati sukladno članku 183. stavku 1. Zakona.
+(2) Obveznicima doprinosa po osnovi obavljanja druge djelatnosti iz članka 7. točka 6. Zakona, koji od druge djelatnost porez na dohodak plaća prema paušalnom dohotku, Porezna uprava rješenjem po službenoj dužnosti bez provedbe ispitnog postupka utvrđuje obvezu doprinosa, iznos osnovice te vrste i godišnji iznos svakoga od doprinosa koje je dužan plaćati, sukladno članku 240. stavku 1. Zakona, vezano uz članak 183. stavak 2. Zakona.«.

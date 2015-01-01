@@ -1,0 +1,1 @@
+Na temelju članka 253. Zakona o doprinosima (»Narodne novine«, br. 84/2008, 152/2008, 94/2009, 18/2011, 22/2012, 144/2012, 148/2013 i 41/2014) i članka 41. stavka 2. Zakona o izmjenama i dopunama Zakona o doprinosima (»Narodne novine«, broj 143/2014), ministar financija donosi

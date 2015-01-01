@@ -1,0 +1,2 @@
+# Članak 76.
+Ovaj Pravilnik stupa na snagu prvog dana od dana objave u Narodnim novinama, osim članka 70. koji stupa na snagu 1. srpnja 2015. godine, članka 20., članka 39. u dijelu koji se odnosi na donošenje rješenja osiguraniku po osnovi pomorac - član posade broda u međunarodnoj plovidbi i obvezu plaćanja predujma do donošenja rješenja osiguraniku po osnovi pomorac - član posade broda u međunarodnoj plovidbi i članka 72. koji stupaju na snagu 1. siječnja 2016. godine.
