@@ -1,0 +1,5 @@
+# Članak 28.
+(1) Osoba iz članka 27. ovoga Zakona primit će se u odgovarajuću psihijatrijsku ustanovu na temelju uputnice doktora medicine koji je tu osobu osobno pregledao i napisao propisanu ispravu o tom pregledu. U ispravi moraju biti obrazloženi razlozi zbog kojih doktor medicine predlaže prisilni smještaj u psihijatrijsku ustanovu.
+(2) Ministar nadležan za poslove zdravlja pravilnikom će propisati sadržaj isprave o pregledu iz stavka 1. ovoga članka.
+(3) Osoba će se primiti u psihijatrijsku ustanovu i bez uputnice doktora medicine u osobito hitnim slučajevima ozbiljnog i izravnog ugrožavanja vlastitog ili tuđeg života, zdravlja ili sigurnosti.
+(4) Kad policija po pozivu ili po službenoj dužnosti u slučajevima iz stavka 3. ovoga članka dovodi osobu u psihijatrijsku ustanovu obvezna je postupati s posebnom pažnjom, štititi dostojanstvo osobe s duševnim smetnjama te se držati uputa liječnika. Naputak o postupanju policije u dovođenju osobe s duševnim smetnjama u psihijatrijsku ustanovu u suradnji će donijeti ministar nadležan za poslove zdravlja i ministar nadležan za unutarnje poslove.

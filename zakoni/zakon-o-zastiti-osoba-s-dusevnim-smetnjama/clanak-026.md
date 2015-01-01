@@ -1,0 +1,6 @@
+# Članak 26.
+(1) Psihijatrijska ustanova obvezna je o smještaju bez pristanka, bez odgode, a najkasnije u roku od 48 sati od dobivanja pisanog pristanka osobe od povjerenja ili zakonskog zastupnika, obavijestiti pravobranitelja za osobe s invaliditetom.
+(2) Pravobranitelj za osobe s invaliditetom provjerit će opravdanost smještaja bez pristanka ako je pisani pristanak dao zakonski zastupnik i o tome sastaviti pisanu bilješku koja se unosi u medicinsku dokumentaciju osobe s duševnim smetnjama.
+(3) Ako pravobranitelj za osobe s invaliditetom posumnja u opravdanost smještaja bez pristanka bez odgode će o tome obavijestiti nadležan sud koji će na odgovarajući način primijeniti odredbe ovoga Zakona o postupku prisilnog smještaja.
+(4) Ako se osoba smještena bez pristanka u bilo kojem trenutku usprotivi pristanku zakonskog zastupnika, psihijatrijska ustanova obvezna je bez odgode, a najkasnije u roku od 12 sati od protivljenja, neposredno ili telekomunikacijskim sredstvima dostaviti nadležnom sudu obavijest o prisilnom zadržavanju zajedno s medicinskom dokumentacijom. Bilješka o protivljenju s naznakom trenutka protivljenja mora se unijeti u medicinsku dokumentaciju.
+3. Prisilno zadržavanje i prisilni smještaj

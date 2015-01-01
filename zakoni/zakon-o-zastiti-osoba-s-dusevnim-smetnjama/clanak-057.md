@@ -1,0 +1,6 @@
+# Članak 57.
+(1) Privremeni izlazak neubrojive osobe iz psihijatrijske ustanove radi njezine forenzičke terapije i rehabilitacije te socijalne adaptacije ili iz drugih opravdanih razloga odobrit će se ako postoji visok stupanj vjerojatnosti da za vrijeme izlaska neće ugroziti vlastiti ili tuđi život, zdravlje ili sigurnost.
+(2) O prvom izlasku neubrojive osobe i o kasnijim izlascima duljim od 15 dana na temelju obrazloženog pisanog prijedloga voditelja odjela odlučuje nadležni sud. Odluku o ostalim izlascima donosi voditelj odjela, o čemu psihijatrijska ustanova izvješćuje sud.
+(3) Rješenjem kojim odlučuje o izlascima duljim od 15 dana sud može odrediti zabranu napuštanja boravišta, posjećivanja određenih mjesta, susreta i druženja s određenim osobama. Izvršenje ovih mjera nadzire policija kojoj sud dostavlja rješenje o privremenom izlasku.
+(4) Voditelj odjela obvezan je poduzeti sve mjere i radnje radi sprječavanja mogućeg opasnog ponašanja neubrojive osobe za vrijeme privremenog izlaska.
+4. Produženje prisilnog smještaja ili psihijatrijskog liječenja na slobodi, otpust iz psihijatrijske ustanove ili prestanak psihijatrijskog liječenja na slobodi i zamjena prisilnog smještaja psihijatrijskim liječenjem na slobodi
