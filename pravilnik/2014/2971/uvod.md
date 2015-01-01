@@ -1,0 +1,1 @@
+Na temelju članka 28.a Zakona o porezu na dobit (»Narodne novine«, br. 177/04, 90/05, 57/06, 146/08, 80/10, 22/12, 148/13 i 143/14) i članka 55. Zakona o porezu na dohodak (»Narodne novine«, br. 177/04, 73/08, 80/10, 114/11, 22/12, 144/12, Odluka USRH - 120/13, 125/13, 148/13, Odluka USRH - 83/14, 143/14) donosim
