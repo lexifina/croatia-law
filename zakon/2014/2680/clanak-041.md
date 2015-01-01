@@ -1,0 +1,4 @@
+# Članak 41.
+(1) Ministar financija će pravilnikom propisati način i rok te oblik i sadržaj izvješća iz članaka 11., 23. i 27. ovoga Zakona u roku od 60 dana od dana stupanja na snagu ovoga Zakona.
+(2) Ministar financija uskladit će propise donesene radi provedbe Zakona o doprinosima (»Narodne novine«, br. 84/08., 152/08., 94/09., 18/11., 22/12., 144/12., 148/13. i 41/14.) s odredbama ovoga Zakona u roku od 60 dana od dana stupanja na snagu ovoga Zakona.
+(3) Uredba o načinu provedbe plaćanja doprinosa prema plaći, primicima uz plaću, odnosno mjesečnoj osnovici za obračun doprinosa temeljem radnog odnosa (»Narodne novine«, br. 49/12. i 31/14.) donesena na temelju članka 248.b Zakona o doprinosima (»Narodne novine«, br. 84/08., 152/08., 94/09., 18/11., 22/12., 144/12., 148/13. i 41/14.) prestaje važiti 1. srpnja 2015.

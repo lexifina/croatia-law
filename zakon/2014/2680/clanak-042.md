@@ -1,0 +1,2 @@
+# Članak 42.
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2015., osim članaka 8., 9., 10., 11., 12., 24., 26., članka 32. u dijelu koji se odnosi na donošenje rješenja osiguraniku po osnovi pomorac - član posade broda u međunarodnoj plovidbi i obvezu plaćanja predujma do donošenja rješenja osiguraniku po osnovi pomorac - član posade broda u međunarodnoj plovidbi, članaka 34., 35. i 38. koji stupaju na snagu 1. siječnja 2016.

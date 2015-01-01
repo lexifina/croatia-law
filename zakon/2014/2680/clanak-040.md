@@ -1,0 +1,2 @@
+# Članak 40.
+Osiguranicima iz članka 31. ovoga Zakona koji su na dan 1. siječnja 2015. zatečeni u osiguranju po tim osnovama Porezna uprava će, po službenoj dužnosti i bez provedbe ispitnog postupka, rješenjem utvrditi obvezu doprinosa i vrste doprinosa za razdoblje od 1. siječnja 2015. koje će vrijediti do donošenja novog rješenja ili do promjene osnove osiguranja ili do prestanka osiguranja ili do prestanka obveze doprinosa sukladno odredbi članka 221. stavka 2. Zakona o doprinosima (»Narodne novine«, br. 84/08., 152/08., 94/09., 18/11., 22/12., 144/12., 148/13. i 41/14.).
