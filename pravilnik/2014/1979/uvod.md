@@ -1,0 +1,1 @@
+Na temelju članka 61. stavka 5. Zakona o obveznim mirovinskim fondovima (»Narodne novine« broj 19/2014), Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća održanoj 14. kolovoza 2014. godine donijela je

@@ -1,0 +1,5 @@
+## Izračun više vrijednosti obračunske jedinice
+# Članak 5.
+(1) Izračun više vrijednosti obračunske jedinice postoji kada je prvotno izračunata vrijednost obračunske jedinice viša od naknadno točno utvrđene vrijednosti obračunske jedinice za isti dan.
+(2) U slučaju bitne pogreške koja je dovela do izračuna više vrijednosti obračunske jedinice, mirovinsko društvo je dužno, putem Središnjeg registra osiguranika, osigurati provođenje korekcije broja obračunskih jedinica za članove koji su u razdoblju pogrešnog izračuna stjecali obračunske jedinice.
+(3) U slučaju bitne pogreške koja je dovela do izračuna više vrijednosti obračunske jedinice, mirovinsko društvo je dužno nadoknaditi time nastalu štetu mirovinskom fondu, u slučaju ako su u razdoblju pogrešnog izračuna otkupljivane obračunske jedinice. Visina naknade štete jednaka je razlici između prvotno izračunate vrijednosti obračunske jedinice i naknadno točno utvrđene vrijednosti obračunske jedinice pomnožene s brojem otkupljenih obračunskih jedinica u razdoblju pogrešnog izračuna.
