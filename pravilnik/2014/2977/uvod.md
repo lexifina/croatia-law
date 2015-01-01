@@ -1,0 +1,1 @@
+Na temelju članka 64. Zakona o porezu na dohodak (»Narodne novine«, br. 177/04, 73/08, 80/10, 114/11, 22/12, 144/12, 120/13, 125/13, 148/13, 83/14 i 143/14) i članka 253. Zakona o doprinosima (»Narodne novine«, br. 84/08, 152/08, 94/09, 18/11, 22/12, 144/12, 148/13, 41/14 i 143/14) donosim
