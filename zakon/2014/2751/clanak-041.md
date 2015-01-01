@@ -1,0 +1,5 @@
+## Mjere i projekti za razvoj potpomognutih područja i drugih područja s razvojnim posebnostima
+# Članak 41.
+(1) Mjere i projekti za razvoj potpomognutih područja i drugih područja s razvojnim posebnostima utvrđuju se Programom za potpomognuta područja, odredbama ovoga Zakona te drugih propisa čije su odredbe usmjerene na poticanje razvoja potpomognutih područja i drugih područja s razvojnim posebnostima.
+(2) Središnja tijela državne uprave dužna su prilikom planiranja mjera i projekta za razvoj upravnog područja iz svoje nadležnosti, ovisno o prirodi mjere i raspoloživim financijskim sredstvima, posebno voditi računa o učinku pojedine mjere na razvoj potpomognutih područja i drugih područja s razvojnim posebnostima uzimajući u obzir stupanj razvijenosti tih područja sukladno odluci o razvrstavanju jedinica lokalne i područne (regionalne) samouprave iz članka 37. ovoga Zakona te razvojne posebnosti temeljem kojih su izdvojena određena područja.
+(3) Ministarstvo je odgovorno za praćenje provedbe odredbi stavka 2. ovoga članka od strane središnjih tijela državne uprave.

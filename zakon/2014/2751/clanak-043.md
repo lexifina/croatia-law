@@ -1,0 +1,10 @@
+## Prihodi od poreza na dobit
+# Članak 43.
+(1) Prihod od poreza na dobit koji se ostvari na području jedinica lokalne samouprave razvrstanih u I. i II. skupinu iz članka 35. stavka 1. ovoga Zakona, a prihod je države, isplaćivat će se tim jedinicama kao pomoć iz državnog proračuna u visini prihoda od poreza na dobit ostvarenog na njihovu području u godini koja prethodi godini izrade proračuna, osim jedinicama lokalne samouprave koje prvi put stječu status potpomognutog područja.
+(2) Jedinice lokalne samouprave koje prvi put stječu status potpomognutog područja, u smislu stavka 1. ovog članka, su one jedinice lokalne samouprave koje nemaju status područja posebne državne skrbi u cijelosti kao ni status brdsko-planinskih područja, ali su Odlukom o razvrstavanju jedinica lokalne i područne (regionalne) samouprave prema stupnju razvijenosti (»Narodne novine«, br. 158/13.) razvrstane u I. odnosno II. skupinu.
+(3) Pomoć iz stavka 1. ovog članka se, jedinicama lokalne samouprave koje prvi put stječu status potpomognutog područja, isplaćuje na sljedeći način:
+- U prvoj godini primjene statusa potpomognutog područja jedinica lokalne samouprave ima pravo na dodjelu pomoći u visini 30 % prihoda od poreza na dobit ostvarenog na njezinu području u godini koja prethodi godini izrade proračuna.
+- U drugoj godini primjene statusa potpomognutog područja jedinica lokalne samouprave ima pravo na dodjelu pomoći u visini 50 % prihoda od poreza na dobit ostvarenog na njezinu području u godini koja prethodi godini izrade proračuna.
+- U trećoj godini primjene statusa potpomognutog područja jedinica lokalne samouprave ima pravo na dodjelu pomoći u visini 75 % prihoda od poreza na dobit ostvarenog na njezinu području u godini koja prethodi godini izrade proračuna.
+- U četvrtoj i svim sljedećim godinama jedinica lokalne samouprave ima pravo na dodjelu pomoći u visini ukupnog prihoda od poreza na dobit ostvarenog na njezinu području u godini koja prethodi godini izrade proračuna.
+(4) Namjena korištenja pomoći iz stavka 1. ovoga članka utvrdit će se zakonom kojim se uređuje izvršavanje državnog proračuna.

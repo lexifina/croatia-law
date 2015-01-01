@@ -1,0 +1,7 @@
+## Županijska razvojna strategija
+# Članak 13.
+(1) Županijska razvojna strategija je temeljni strateški planski dokument jedinice područne (regionalne) samouprave u kojem se određuju ciljevi i prioriteti razvoja za područje jedinice područne (regionalne) samouprave s posebnim naglaskom na ulogu velikih gradova i gradova sjedišta županija u poticanju razvoja te na razvoj slabije razvijenih područja.
+(2) Županijsku razvojnu strategiju donosi jedinica područne (regionalne) samouprave u skladu s načelom partnerstva i suradnje nakon prethodno pribavljenog mišljenja partnerskog vijeća za područje županije, uzimajući u obzir potrebu osiguranja ravnomjernog razvoja svih dijelova županije.
+(3) Plan razvojnih programa koji jedinice lokalne i područne (regionalne) samouprave donose sukladno posebnom zakonu kojim se uređuje proračun mora biti u suglasju sa županijskom razvojnom strategijom.
+(4) Dvije ili više jedinica područne (regionalne) samouprave mogu donijeti zajedničku razvojnu strategiju u skladu s načelom partnerstva i suradnje nakon prethodno pribavljenih mišljenja partnerskih vijeća za područje županija koje donose zajedničku razvojnu strategiju. Županije koje donose zajedničku razvojnu strategiju ne donose pojedinačne županijske razvojne strategije.
+(5) Ministarstvo će izraditi smjernice za izradu županijskih razvojnih strategija, praćenje i vrednovanje njihove provedbe te druga pitanja s tim u vezi.

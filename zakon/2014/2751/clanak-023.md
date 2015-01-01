@@ -1,0 +1,7 @@
+## Razvojni sporazum
+# Članak 23.
+(1) Radi olakšavanja provedbe ovoga Zakona i učinkovitije koordinacije politike regionalnog razvoja na razini statističke regije može se sklopiti razvojni sporazum za područje najmanje tri jedinice područne (regionalne) samouprave unutar statističke regije (u daljnjem tekstu: razvojni sporazum).
+(2) Razvojnim sporazumom usuglašavaju se prioriteti razvoja državne i županijske razine te razine urbanih područja s područja jedinica područne (regionalne) samouprave za koje se sklapa razvojni sporazum, utvrđuju se strateški projekti regionalnog razvoja koji pridonose razvoju tog područja te se planiraju sredstva za provedbu razvojnog sporazuma.
+(3) Razvojni sporazum sklapaju Ministarstvo kao nositelj politike regionalnog razvoja središnje razine i jedinice područne (regionalne) samouprave te veliki gradovi koji su središta urbanih područja s područja za koje se sklapa razvojni sporazum. Razvojni sporazum sklapa se na temelju planskih dokumenata politike regionalnog razvoja iz članka 12. ovoga Zakona.
+(4) Razvojnom sporazumu mogu se, na temelju poziva Ministarstva, priključiti i druga tijela državne uprave i ostala javnopravna tijela koja svojim djelovanjem mogu znatnije pridonijeti ostvarivanju ciljeva politike regionalnog razvoja u području za koje se sklapa razvojni sporazum.
+(5) Obavljanje administrativnih i stručnih poslova vezanih uz pripremu razvojnog sporazuma koordinira Ministarstvo.
