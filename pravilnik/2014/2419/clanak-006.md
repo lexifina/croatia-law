@@ -1,0 +1,6 @@
+## Obvezno isticanje kategorije filma
+# Članak 6.
+(1) Tijekom razdoblja javnog prikazivanja filma prikazivači su dužni na istaknutim mjestima u sklopu svih javno objavljenih kino programa i kataloga, na svim prodajnim mjestima na kojima je moguće kupiti ulaznicu (npr. kino-blagajne), te na svim platformama na kojima je moguće kupiti pravo gledanja određenog filma vidljivo označiti dodijeljenu kategoriju filma isticanjem grafičke oznake (simbola) odgovarajuće kategorije ili na drugi odgovarajući način, sukladno članku 4. ovog Pravilnika.
+(2) U slučaju besplatnih javnih projekcija prikazivači su dužni istaknuti grafičku oznaku (simbol) odgovarajuće kategorije prije početka prikazivanja filma javnosti.
+(3) Prije prvog stavljanja filma u promet, distributeri su dužni na svim videogramima koji se distribuiraju putem prodaje i iznajmljivanja, na prednjoj i stražnjoj strani omotnice istaknuti grafičku oznaku (simbol) odgovarajuće kategorije filma, sukladno članku 4. ovog Pravilnika.
+(4) Distributeri su dužni na svim videogramima kategorije »18« koji se distribuiraju putem prodaje i iznajmljivanja, pored grafičke oznake (simbola) iz članka 4. stavak 1. ovog Pravilnika na stražnjoj strani omotnice naznačiti sljedeće upozorenje: »Ne preporuča se distribucija, prodaja i iznajmljivanje ovog videograma maloljetnim osobama.«
