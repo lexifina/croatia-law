@@ -1,0 +1,4 @@
+# Članak 47.
+(1) Pravilnik o sustavu financijskog upravljanja i kontrola, izradi i izvršavanju financijskih planova neprofitnih organizacija iz članka 4. stavka 9. ovoga Zakona ministar financija donijet će u roku od 90 dana od dana stupanja na snagu ovoga Zakona.
+(2) Pravilnik o izvještavanju u neprofitnom računovodstvu i Registru neprofitnih organizacija iz članka 6. stavka 3. ovoga Zakona i pravilnik o neprofitnom računovodstvu i računskom planu iz članka 9. stavka 6. ovoga Zakona ministar financija donijet će u roku od 60 dana od dana stupanja na snagu ovoga Zakona.
+(3) Pravilnik o službenoj iskaznici i službenoj znački inspektora financijskog i proračunskog nadzora (»Narodne novine«, br. 125/13.) iz članka 40. stavka 4. ovoga Zakona uskladit će ministar financija s odredbama ovoga Zakona u roku od 30 dana od dana stupanja na snagu ovoga Zakona.
