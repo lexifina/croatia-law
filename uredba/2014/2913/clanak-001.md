@@ -1,0 +1,4 @@
+# Članak 1.
+U Uredbi o načinu trgovanja emisijskim jedinicama stakleničkih plinova (»Narodne novine«, broj 69/2012), u članku 2. stavku 2. iza podstavka 2. stavlja se zarez i dodaju se podstavci 3. i 4. koji glase:
+»- Uredba Komisije (EU) br. 1123/2013 оd 8. studenoga 2013. o utvrđivanju prava korištenja međunarodnih jedinica sukladno Direktivi 2003/87/EZ Europskog parlamenta i Vijeća, (Tekst značajan za EGP) (SL L 299, 9. 11. 2013., u daljnjem tekstu: Uredba Komisije (EU) br. 1123/2013),
+- Uredba (EU) br. 421/2014 Europskog parlamenta i Vijeća od 16. travnja 2014. o izmjeni Direktive 2003/87/EZ o uspostavi sustava trgovanja emisijskim jedinicama stakleničkih plinova unutar Zajednice s ciljem provedbe međunarodnog sporazuma o primjeni jedinstvene globalne tržišno utemeljene mjere na emisije iz međunarodnog zrakoplovstva do 2020. (Tekst značajan za EGP) (SL L 129, 30. 4. 2014., u daljnjem tekstu: Uredba (EU) br. 421/2014).«.
