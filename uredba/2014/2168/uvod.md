@@ -1,0 +1,1 @@
+Na temelju članka 17. stavka 1., a u vezi s člankom 16. Zakona o Fondu za zaštitu okoliša i energetsku učinkovitost (»Narodne novine«, br. 107/2003 i 144/2012), Vlada Republike Hrvatske je na sjednici održanoj 25. rujna 2014. godine donijela
