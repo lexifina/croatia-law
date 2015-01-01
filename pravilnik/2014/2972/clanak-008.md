@@ -1,0 +1,6 @@
+# Članak 8.
+(1) Prije 1. srpnja 2017. godine Komisija podnosi Izvješće koje sadrži pregled i ocjenu zaprimljenih statističkih podataka, pregled administrativnih i drugih relevantnih troškova te koristi od automatske razmjene informacija. Ako je potrebno, Komisija predlaže Vijeću izmjene vezano uz kategorije dohotka i kapitala i/ili uvjete utvrđene člankom 3. ovoga Pravilnika. Prijedlog može uključivati i odredbu da kategorije dohotka i kapitala iz članka 3. ovoga Pravilnika moraju biti dostupne u državama članicama.
+(2) Prilikom razmatranja prijedloga koje je podnijela Komisija, Vijeće procjenjuje daljnje jačanje učinkovitosti i funkcioniranja automatske razmjene informacija i podizanja standarda takve razmjene, kako bi se osiguralo da:
+1. nadležno tijelo svake države članice automatskom razmjenom priopćava nadležnom tijelu bilo koje druge države članice informacije vezano uz porezna razdoblja počevši od 1. siječnja 2017. godine o rezidentima u toj drugoj državi članici, za najmanje tri posebne kategorije dohotka i kapitala iz članka 3. ovoga Pravilnika prema tumačenju države članice koja dostavlja informacije.
+2. popis kategorija dohotka i kapitala iz članka 3. ovoga Pravilnika bude proširen kako bi uključivao dividende, kapitalne dobitke i autorske naknade.
+5. Rokovi razmjene
