@@ -1,0 +1,2 @@
+# Članak 8.
+Naknada iz članka 4. točke 4. ovoga Pravilnika sadrži naknadu Agencije za obavljanje poslova zaprimanja, skeniranja i čuvanja zahtjeva stranke za objavu poziva u sredstvima javnog priopćavanja, pribavljanja podatka o troškovima objave poziva u sredstvima javnog priopćavanja, izradu predračuna za troškove objave oglasa, izradu i dostavu poziva stranci na uplatu troškova objave u sredstvima javnog priopćavanja, trošak obrade izvršenja naloga za plaćanje u vezi s uplatom troškova objave poziva na sudjelovanje u sredstvima javnog priopćavanja.

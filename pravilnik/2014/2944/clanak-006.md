@@ -1,0 +1,2 @@
+# Članak 6.
+Naknada iz članka 4. točke 2. ovoga Pravilnika sadrži naknadu Agencije za uspostavu, vođenje i održavanje Očevidnika, obavljanje poslova primitka, skeniranja i čuvanja zahtjeva za upis podataka u Očevidniku, provjeru Agencije sadrži li zahtjev za upis podataka u Očevidnik sve podatke koji su potrebni za postupanje po zahtjevu i poslove upisa podataka u Očevidnik, poslove čuvanja podataka sadržanih u Očevidniku.
