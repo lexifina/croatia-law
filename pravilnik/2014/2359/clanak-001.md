@@ -1,0 +1,2 @@
+# Članak 1.
+Ovim se Pravilnikom u pravni poredak Republike Hrvatske prenosi Direktiva Komisije 2014/44/EU od 18. ožujka 2014. o izmjeni priloga I., II. i III. 2003/37/EZ Europskog parlamenta i Vijeća o homologaciji tipa traktora za poljoprivredu i šumarstvo, njihovih prikolica i priključnih vučenih strojeva, kao i njihovih sustava, sastavnih dijelova ili zasebnih tehničkih jedinica (Tekst značajan za EGP) (SL L 82, 20. 3. 2014.).
