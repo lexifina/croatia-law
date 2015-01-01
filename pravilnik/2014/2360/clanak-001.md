@@ -1,0 +1,2 @@
+# Članak 1.
+Ovim se Pravilnikom u pravni poredak Republike Hrvatske prenosi Direktiva Komisije 2014/43/EU od 18. ožujka 2014. o izmjeni priloga I., II. i III. Direktivi 2000/25/EZ Europskog parlamenta i Vijeća o mjerama koje treba poduzeti protiv emisije plinovitih i krutih onečišćujućih tvari iz motora namijenjenih za pogon traktora za poljoprivredu i šumarstvo (Tekst značajan za EGP) (SL L 82, 20. 3. 2014.).
