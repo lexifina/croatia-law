@@ -1,0 +1,3 @@
+## Uvodne odredbe
+# Članak 1.
+Ovim Pravilnikom Hrvatska agencija za nadzor financijskih usluga (dalje u tekstu: Agencija) detaljnije propisuje sustav upravljanja rizicima, funkciju upravljanja rizicima te zahtjeve društva za osiguranje odnosno društva za reosiguranje (dalje u tekstu: društvo za osiguranje) vezano za djelovanje sustava upravljanja rizicima iz članka 92.b Zakona o osiguranju, u svrhu osiguranja pravilnog i učinkovitog poslovanja društva za osiguranje te smanjenja rizika koji proizlaze iz redovitog poslovanja. Odredbe ovog Pravilnika na odgovarajući se način primjenjuju i na grupe.
