@@ -1,0 +1,6 @@
+## Izračun niže cijene udjela
+# Članak 6.
+(1) Izračun niže cijene udjela postoji kada je prvotno izračunata cijena udjela niža od naknadno točno utvrđene cijene udjela za isti dan.
+(2) U slučaju bitne pogreške koja je dovela do izračuna niže cijene udjela, mirovinsko društvo dužno je nadoknaditi time nastalu štetu članovima mirovinskog fonda kod kojih je došlo do isplata iz mirovinskog fonda sukladno člancima 124., 125., 126., 127. i 128. Zakona ili koji su prenijeli sredstva u drugi mirovinski fond, u razdoblju pogrešnog izračuna, isplatom novčanih sredstava na račun člana u novom mirovinskom fondu, mirovinskom osiguravajućem društvu ili članu fonda, u skladu s postupcima isplate novčanih sredstava iz mirovinskog fonda. Visina naknade štete jednaka je razlici između naknadno točno utvrđene cijene udjela i prvotno izračunate cijene udjela pomnožene s brojem isplaćenih udjela u razdoblju pogrešnog izračuna.
+(3) U slučaju bitne pogreške koja je dovela do izračuna niže cijene udjela, mirovinsko društvo dužno je provesti ispravak cijene udjela za članove koji su u razdoblju pogrešnog izračuna stjecali udjele u mirovinskom fondu.
+(4) Naknada štete iz stavka 2. ovoga članka neće se provoditi za one članove za koje je utvrđena visina nastale štete u razdoblju pogrešnog izračuna manja od 50 kuna.
