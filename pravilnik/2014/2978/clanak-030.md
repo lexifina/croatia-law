@@ -1,0 +1,3 @@
+# Članak 30.
+U članku 151. stavak 1. mijenja se i glasi:
+»(1) Obveznik plaćanja PDV-a temeljem članka 75. stavka 3. Zakona je svaki porezni obveznik primatelj dobara, odnosno usluga, upisan u registar obveznika PDV-a u tuzemstvu kada mu dobra isporuči ili obavi usluge iz članka 75. stavka 3. Zakona porezni obveznik koji je upisan u registar obveznika PDV-a u tuzemstvu. U slučaju da isporuke na koje se primjenjuje prijenos porezne obveze u tuzemstvu propisane člankom 75. stavkom 3. Zakona obavlja porezni obveznik koji nema sjedište, prebivalište ili uobičajeno boravište u tuzemstvu, a registriran je za potrebe PDV-a u Republici Hrvatskoj primjenjuju se odredbe članka 75. stavka 2. Zakona.«.

@@ -1,0 +1,4 @@
+# Članak 31.
+U članku 152. iza stavka 3. dodaju se novi stavci 4. i 5. koji glase:
+»(4) Ako isporučitelj dobara i usluga iz članka 75. stavka 3. Zakona izda račun bez PDV-a s napomenom »prijenos porezne obveze« ili ako izda račun sa zasebno iskazanim PDV-om, a primatelj takve isporuke smatra da isporučitelj nije ispravno postupio, tada pisanim putem u roku 8 dana od zaprimanja računa poziva isporučitelja da ispravi račun. U suprotnom smatrat će se da je suglasan s načinom na koji je račun izdan. Isporučitelj u roku 8 dana mora obavijestiti primatelja isporuke je li prihvatio njegov zahtjev za ispravak računa.
+(5) Ako isporučitelj ne prihvati prijedlog primatelja isporuke, tada primatelj mora prihvatiti takav račun te o navedenome pisanim putem može obavijestiti nadležnu ispostavu Porezne uprave prema svom sjedištu, prebivalištu ili uobičajenom boravištu.«.

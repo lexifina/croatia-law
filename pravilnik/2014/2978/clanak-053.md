@@ -1,0 +1,7 @@
+# Članak 53.
+Članak 187. mijenja se i glasi:
+»(1) Posebni postupak oporezivanja putničkih agencije primjenjuje se ako porezni obveznik u svoje ime obavlja uslugu organizacije putovanja. Organizator putovanja je osoba koja pribavlja usluge kupcu koje se sastoje od prijevoza, smještaja ili drugih turističkih usluga. Za primjenu posebnog postupka oporezivanja bitno je da se obavlja jedna od usluga vezana uz putovanje kao što su smještaj ili prijevoz.
+(2) Ako organizator putovanja obavlja uslugu organizacije putovanja koja se sastoji od dijela usluga koje obavlja sam organizator putovanja, a dio usluga se koristi od drugih poreznih obveznika, posebni postupak oporezivanja primjenjuje se samo na dio usluge koje organizator koristi od drugih poreznih obveznika.
+(3) Posebni postupak oporezivanja putničkih agencija primjenjuje se i ako porezni obveznik u svoje ime obavlja uslugu organizacije putovanja kojom pribavlja kupcu usluge koje se sastoje od prijevoza ili drugih turističkih usluga, ali ne uključuju noćenje (izlet).
+(4) Kupcem se smatra svaka osoba kojoj putnička agencija obavlja usluge.
+(5) Putnička agencija je obvezna na primljeni predujam obračunati PDV na način da u računu za primljeni predujam obračunava PDV od porezne osnovice koja je jednaka razlici između prodajne cijene koju će zaračunati i nabavne cijene. Ako u trenutku primanja predujma agencija ne raspolaže s točnim podatkom o razlici u cijeni koju će ostvariti, obvezu PDV-a utvrđuje polazeći od očekivane razlike u cijeni.«.

@@ -1,0 +1,3 @@
+# Članak 37.
+U članku 160. stavak 2. mijenja se i glasi:
+»(2) Ako je primatelj računa iz stavka 1. ovoga članka prije ispravka računa već odbio pretporez u svome obračunu PDV-a, ispravak iskazanog i obračunanog PDV-a može se provesti samo pod uvjetima iz članka 33. stavka 7. Zakona. Ovo se ne odnosi na ispravak računa izdanog poreznom obvezniku koji nema pravo na odbitak pretporeza ili krajnjem potrošaču. U tom slučaju obveza obračuna PDV-a može se ispraviti u razdoblju oporezivanja, u kojem je prodajna cijena ili dio prodajne cijene vraćen poreznom obvezniku koji nema pravo na odbitak pretporeza ili krajnjem potrošaču, a porezni obveznik raspolaže s odgovarajućim dokazom o povratu prodajne cijene.«.
