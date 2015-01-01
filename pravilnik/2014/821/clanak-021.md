@@ -1,0 +1,5 @@
+# Članak 21.
+(1) Poslodavac koji zapošljava osobu s invaliditetom na otvorenom tržištu rada, odnosno osoba s invaliditetom koja se samozapošljava te integrativna radionica, može ostvariti pravo na sufinanciranje troškova razumne prilagodbe uvjeta rada za zaposlenu osobu s invaliditetom, ako joj je radi vrste i težine invaliditeta potrebno tehničkom opremom prilagoditi radno mjesto.
+(2) Pravo na poticaj iz stavka 1. ovoga članka može se ostvariti ako je nalazom i mišljenjem centra utvrđena potreba za prilagodbu uvjeta rada, a prema planu prilagodbe radnog mjesta i uvjeta rada koji je sastavni dio nalaza i mišljenja centra.
+(3) Prilagodba uvjeta rada ne odnosi se na opremanje radnog mjesta koje je potrebno za obavljanje djelatnosti poslodavca, već isključivo na prilagodbu uvjeta rada u odnosu na vrstu i težinu invaliditeta zaposlene osobe s invaliditetom na konkretnom radnom mjestu.
+(4) Poslodavac ne može ostvariti pravo na sufinanciranje troškova prilagodbe uvjeta rada osobe s invaliditetom za prilagodbe koje su izvršene prije ili su u tijeku u trenutku podnošenja zahtjeva.

@@ -1,0 +1,4 @@
+# Članak 8.
+(1) Pravo na subvenciju plaće ostvaruje se danom podnošenja potpunog zahtjeva. Zahtjev se mora podnijeti najkasnije u roku od 30 dana od dana isplate plaće, doprinosa, poreza i prireza za mjesec za koji se traži poticaj. Propuštanjem roka za podnošenje zahtjeva podnositelj zahtjeva gubi pravo na poticaj za traženo razdoblje.
+(2) Ako podnositelj zahtjeva podnese nepotpun ili netočan zahtjev za subvenciju plaće, Zavod će ga pozvati da u roku od 8 dana od dana primitka poziva zahtjev nadopuni ili ispravi. Propuštanjem roka za nadopunu ili ispravak zahtjeva podnositelj zahtjeva gubi pravo na poticaj za traženo razdoblje.
+(3) Zavod je obvezan zaprimljeni zahtjev obraditi te ako podnositelj zahtjeva ispunjava uvjete, ravnatelj će dati odobrenje za isplatu na temelju kojeg se upućuje nalog Državnoj riznici za isplatu poticaja podnositelju zahtjeva u roku od 8 dana od dana odobrenja zahtjeva. Poticaj se isplaćuje na žiro-račun podnositelja zahtjeva.

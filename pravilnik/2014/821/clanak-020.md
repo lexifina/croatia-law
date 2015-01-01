@@ -1,0 +1,5 @@
+# Članak 20.
+(1) Pravo na sufinanciranje troškova prilagodbe radnog mjesta ostvaruje se danom podnošenja potpunog zahtjeva. Ako podnositelj zahtjeva podnese nepotpun ili netočan zahtjev za isplatu ovoga poticaja, Zavod će ga pozvati da u roku od 8 dana od primitka poziva zahtjev nadopuni ili ispravi. Propuštanjem roka za nadopunu ili ispravak zahtjeva podnositelj zahtjeva gubi pravo na isplatu poticaja.
+(2) Zavod je obvezan zaprimljeni zahtjev obraditi te predmet predati na razmatranje povjerenstvu Zavoda koje imenuje ravnatelj. Ako su ispunjeni svi uvjeti, povjerenstvo daje preporuku ravnatelju Zavoda za donošenje odluke o sklapanju ugovora. Na temelju odluke ravnatelja, Zavod i poslodavac sklopit će ugovor u skladu s člankom 18. ovoga Pravilnika. U roku od 8 dana od dana sklapanja ugovora, Zavod će dati nalog Državnoj riznici za isplatu poticaja. Poticaj se isplaćuje na žiro-račun podnositelja zahtjeva.
+(3) Zavod će, u svakom pojedinačnom slučaju, na prijedlog povjerenstva iz stavka 2. ovoga članka, utvrditi koji će se instrument osiguranja tražbine Zavoda koristiti.
+4. SUFINANCIRANJE TROŠKOVA ZA PRILAGODBU UVJETA RADA - tehnička prilagodba
