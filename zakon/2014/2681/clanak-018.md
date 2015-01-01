@@ -1,0 +1,3 @@
+# Članak 18.
+U članku 44. stavak 5. mijenja se i glasi:
+»(5) Godišnji porez u paušalnom iznosu utvrđuje Porezna uprava rješenjem. Rješenje o utvrđenom godišnjem porezu vrijedi do izmjene. Razlika godišnjeg paušalnog poreza za uplatu ili za povrat, koji ostvaruju obveznici poreza na dohodak od samostalne djelatnosti, utvrđuje se na temelju izvješća iz stavka 4. ovoga članka, koje porezni obveznik podnosi Poreznoj upravi najkasnije u roku od 15 dana od dana isteka godine za koju se izvješće podnosi. Porezni obveznik obvezan je razliku godišnjeg paušalnog poreza uplatiti s danom podnošenja izvješća.«.

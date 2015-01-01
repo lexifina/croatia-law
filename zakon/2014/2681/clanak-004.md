@@ -1,0 +1,6 @@
+# Članak 4.
+U članku 10. točka 19. mijenja se i glasi:
+»19. novčanu pomoć polaznicima stručnog osposobljavanja za rad bez zasnivanja radnog odnosa,«.
+Iza točke 20. dodaju se točke 21. i 22. koje glase:
+»21. primitke u visini razlike između primljenih bespovratnih sredstava isplaćenih iz fondova Europske unije i državnog proračuna Republike Hrvatske za provedbu mjere trajne obustave ribolovne aktivnosti uz uništenje plovila i knjigovodstvene vrijednosti tog plovila,
+22. stipendije studenata na poslijediplomskim studijima u skladu s točkama 12., 13. i 18. ovoga članka te primitke, osim primitaka iz članka 5. ovoga Zakona, koji se isplaćuju poslijediplomantima, poslijedoktorandima, istraživačima i znanstvenicima u skladu s točkama 13. i 18. ovoga članka odnosno iz fondova i programa Europske unije i drugih međunarodnih fondova i programa uređenih posebnim propisima i međunarodnim sporazumima, za pokriće troškova školovanja, usavršavanja i znanstvenih istraživanja, odobrenih na temelju javnih natječaja, vjerodostojnih isprava i do propisanih iznosa. Ministar financija pravilnikom će propisati visine neoporezivih iznosa i vrste porezno priznatih troškova, vjerodostojne isprave na temelju kojih se odobravaju troškovi te oblik i sadržaj evidencija i izvješća o ostvarenim primicima namijenjenih pokriću troškova. «.

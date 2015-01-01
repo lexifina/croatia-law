@@ -1,0 +1,2 @@
+# Članak 29.
+Porez na dohodak ne plaća se pri isplati dividendi i udjela u dobiti iz članka 11. ovoga Zakona ako se isplaćuju iz dobiti ostvarene do 29. veljače 2012., osim dividendi i udjela u dobiti na temelju udjela u kapitalu koji su ostvareni u razdoblju od 1. siječnja 2001. do 31. prosinca 2004., a isplaćuju se nakon stupanja na snagu ovoga Zakona te se oporezuju stopom predujma poreza na dohodak od 12%.

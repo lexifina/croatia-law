@@ -1,0 +1,7 @@
+# Članak 20.
+U članku 47. stavku 1. riječi: »plaća prema rješenju Porezne uprave« zamjenjuju se riječima: »utvrđuje i plaća na temelju podataka u podnesenoj godišnjoj prijavi poreza na dohodak.«
+Stavak 2. mijenja se i glasi:
+»(2) Mjesečni predujam poreza na dohodak od samostalne djelatnosti utvrđen na način iz stavka 1. ovoga članka porezni obveznici plaćaju za mjesece koji slijede iza mjeseca u kojemu je istekao rok za podnošenje godišnje porezne prijave do podnošenja sljedeće godišnje porezne prijave.«.
+Stavak 5. mijenja se i glasi:
+»(5) Predujmovi poreza na dohodak iz stavka 1. ovoga članka plaćaju se mjesečno do posljednjeg dana u mjesecu za prethodni mjesec i to na osnovi podataka iskazanih u godišnjoj poreznoj prijavi za prethodno porezno razdoblje tako da se porezna obveza za koju se utvrđuje predujam dijeli s brojem mjeseci istog razdoblja u kojem se samostalna djelatnost obavljala. Ako porezni obveznik u godišnjoj poreznoj prijavi uz dohodak od samostalne djelatnosti iskaže i dohodak iz ostalih izvora, predujam poreza za iduće razdoblje utvrđuje se samo od porezne obveze proizašle od obavljanja samostalne djelatnosti. Način izračuna tako utvrđenog predujma poreza na dohodak od samostalne djelatnosti pravilnikom propisuje ministar financija.«.
+U stavku 6. riječi: »iz stavka 1. ovoga članka« zamjenjuju se riječima: »o plaćanju predujmova ako je doneseno odnosno donijeti rješenje«.
