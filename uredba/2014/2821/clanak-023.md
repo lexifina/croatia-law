@@ -1,0 +1,4 @@
+# Članak 23.
+U članku 99. iza stavka 2. dodaju se stavci 3. i 4. koji glase:
+»(3) Korisniku invalidske mirovine zbog profesionalne ili opće nesposobnosti za rad prema posebnom propisu koji uređuje prava hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji, koji prema tom propisu za vrijeme obavljanja dužnosti upravitelja zadruge nije obvezno osiguran na mirovinsko osiguranje, ne obustavlja se isplata mirovine niti se po toj osnovi ponovno određuje, kada poslove upravitelja zadruge obavlja bez plaće i naknade.
+(4) Korisniku invalidske mirovine zbog opće nesposobnosti za rad, odnosno zbog potpunog gubitka radne sposobnosti kojemu je ta mirovina prevedena u starosnu mirovinu prema članku 58. stavku 1. i članku 175. stavcima 7. i 8. ovoga Zakona, ako se zaposli ili počne obavljati djelatnost na temelju koje postoji obveza na osiguranje obustavlja se isplata mirovine.«.
