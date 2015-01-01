@@ -1,0 +1,1 @@
+Na temelju članka 63. stavka 2. Zakona o sustavu državne uprave (»Narodne novine«, br. 150/2011 i 12/2013) i članka 32. stavka 1. Zakona o izmjenama i dopunama Zakona o Poreznoj upravi (»Narodne novine«, broj 141/2014), Vlada Republike Hrvatske je na sjednici održanoj 23. prosinca 2014. godine donijela

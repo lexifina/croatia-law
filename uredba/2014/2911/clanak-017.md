@@ -1,0 +1,111 @@
+# Članak 17.
+Naslov iznad članka 40. i članak 40. mijenjaju se i glase:
+»3. PODRUČNI URED SREDIŠNJA HRVATSKA
+Članak 40.
+U Područnom uredu Središnja Hrvatska obavljaju se upravni i drugi stručni poslovi koji se odnose na: utvrđivanje poreza i doprinosa te drugih javnih davanja, provođenje poreznog nadzora poreza i doprinosa te drugih javnih davanja, utvrđivanje nesrazmjera između ostvarenog dohotka i imovine i zlouporabe prava, utvrđivanje i analizu rizika u poštivanju poreznih propisa i ispunjavanju poreznih obveza, provođenje postupka naplate i ovrhe radi naplate poreza, doprinosa i drugih javnih davanja, provedbu mjera osiguranja te poslove vezane uz postupak predstečajne nagodbe i stečajni postupak, podnošenje optužnih prijedloga za pokretanje prekršajnog postupka i izdavanje prekršajnih naloga, podnošenje kaznenih prijava, vođenje prekršajnog postupka u prvom stupnju, informiranje poreznih obveznika po usmenim i pisanim upitima, nadziranje zakonitosti rada i postupanja ispostava prema teritorijalnoj nadležnosti, koordinaciju njihova rada i izvještavanje Središnjeg ureda, opće, pravne i financijske poslove te poslove vezane uz radnopravni status službenika i namještenika, čuvanje ili prodaju oduzetih predmeta u prekršajnom postupku po pravomoćnoj odluci nadležnog tijela, provođenje poslova administrativne suradnje, obavljanje i drugih poslova određenih Zakonom o Poreznoj upravi ili drugim propisima.
+U Područnom uredu Središnja Hrvatska ustrojavaju se:
+3.1. Ured pročelnika
+3.2. Služba za utvrđivanje poreza i doprinosa
+3.3. Služba za nadzor
+3.3.1. Odjel za planiranje, pripremu i analizu nadzora
+3.3.2. Odjel za nadzor poreza na dodanu vrijednost I
+3.3.3. Odjel za nadzor poreza na dodanu vrijednost II
+3.3.4. Odjel za nadzor poreza na dobit i doprinosa
+3.3.5. Odjel za nadzor poreza na dohodak i doprinosa
+3.3.6. Odjel za nadzor fiskalizacije
+3.3.7. Odjel za otkrivanje porezno kaznenih djela
+3.4. Služba za naplatu i ovrhu
+3.4.1. Odjel za stečajeve i likvidacije
+3.4.2. Odjel za naplatu i ovrhu I
+3.4.3. Odjel za naplatu i ovrhu II
+3.5. Služba za prekršajni postupak
+3.6. Služba za opće poslove
+3.7. Ispostava Dugo Selo
+3.7.1. Odjel za građane
+3.7.2. Odjel za poduzetnike - dobit
+3.7.3. Odjel za poduzetnike - dohodak
+3.8. Ispostava Karlovac
+3.8.1. Odjel za građane
+3.8.2. Odjel za poduzetnike - dobit
+3.8.3. Odjel za poduzetnike - dohodak
+3.9. Ispostava Krapina
+3.9.1. Odjel za građane
+3.9.2. Odjel za poduzetnike - dobit
+3.9.3. Odjel za poduzetnike - dohodak
+3.10. Ispostava Kutina
+3.10.1. Odjel za građane
+3.10.2. Odjel za poduzetnike - dobit
+3.10.3. Odjel za poduzetnike - dohodak
+3.11. Ispostava Ogulin
+3.11.1. Odjel za građane
+3.11.2. Odjel za poduzetnike - dobit
+3.11.3. Odjel za poduzetnike - dohodak
+3.12. Ispostava Samobor
+3.12.1. Odjel za građane
+3.12.2. Odjel za poduzetnike - dobit
+3.12.3. Odjel za poduzetnike - dohodak
+3.13. Ispostava Sisak
+3.13.1. Odjel za građane
+3.13.2. Odjel za poduzetnike - dobit
+3.13.3. Odjel za poduzetnike - dohodak
+3.14. Ispostava Velika Gorica
+3.14.1. Odjel za građane
+3.14.2. Odjel za naplatu
+3.14.3. Odjel za poduzetnike - dohodak
+3.15. Ispostava Zabok
+3.15.1. Odjel za građane
+3.15.2. Odjel za poduzetnike - dobit
+3.15.3. Odjel za poduzetnike - dohodak.
+3.1. URED PROČELNIKA
+Ured pročelnika ustrojava se kao služba te istom neposredno upravlja pročelnik. U uredu pročelnika obavljaju se administrativni, upravni i drugi stručni poslovi koji se odnose na upravljanje radom područnog ureda, osiguravanje zakonitog i pravodobnog izvršavanja poslova iz nadležnosti područnog ureda, organiziranje i koordiniranje rada službi, odjela i ispostava unutar područnog ureda i osiguravanje jedinstvenog postupanja u utvrđivanju, nadzoru i naplati poreza, doprinosa, pristojbi i drugih javnih prihoda. Obavljaju se i drugi poslovi određeni zakonom i podzakonskim aktima te se donose upravni akti iz djelokruga područnog ureda.
+3.2. SLUŽBA ZA UTVRĐIVANJE POREZA I DOPRINOSA
+Služba za utvrđivanje poreza i doprinosa obavlja upravne i druge stručne poslove koji se odnose na praćenje provedbe propisa o porezima i doprinosima u područnom uredu; koordinira rad ispostava sa ciljem jedinstvenog postupanja u primjeni propisa; surađuje i koordinira postupke utvrđivanja sa drugim područnim uredima; organizira seminare i radionice za službenike područnog ureda; izrađuje odgovore, mišljenja i upute u najsloženijim postupcima po upitima poreznih obveznika; koordinira izradu odgovora na upite u ispostavama; obavlja analitičke i statističke poslove po pojedinim vrstama poreza i poreznih obveznika za područni ured; izrađuje i dostavlja izvješća iz svoje nadležnosti i nadležnosti ispostava Uredu pročelnika i Središnjem uredu; sudjeluje u postupcima donošenja propisa, prisustvuje seminarima i radionicama o pojedinim vrstama poreza i doprinosa; samostalno provodi postupke te prati i koordinira rad u ispostavama vezano za RPO, OIB i PBZO te provodi postupke suradnje i razmjene podataka sa drugim tijelima vezano za sustav OIB-a.
+3.3. SLUŽBA ZA NADZOR
+Služba za nadzor obavlja upravne i druge stručne poslove koji se odnose na nadzor pojedinih vrsta poreza, doprinosa i drugih javnih davanja; obavlja upravne i druge stručne poslove koji se odnose na izradu planova nadzora, pripremu za obavljanje nadzora, određivanje prioriteta nadzora, analizu rezultata nadzora; surađuje sa drugim ustrojstvenim jedinicama Područnog ureda vezano za pokretanje postupka nadzora; objedinjava i jedinstveno ustrojava evidenciju pokrenutih postupaka nadzora u Područnom uredu te o istima sastavlja izvješća; provodi očevide i druge radnje po zahtjevima za pravnu pomoć drugih Područnih ureda i tijela državne uprave; obavlja upravne i druge stručne poslove u području administrativne suradnje i suzbijanja poreznih prijevara sa drugim državama članicama Europske unije; u suradnji sa Službom za ovrhu obavlja poslove utvrđivanja zlouporabe prava u poreznom postupku; obavlja upravne i druge stručne poslove koji se odnose na nadzor pravodobnosti i ispravnosti izdavanja računa te iskazivanja i plaćanja poreznih obveza; obavlja upravne i druge stručne poslove nadzora igara na sreću, zabavnih i nagradnih igara; postupa po nalozima Središnjeg ureda Porezne uprave; postupa po nalozima Državnog odvjetništva Republike Hrvatske i surađuje sa ustrojstvenim jedinicama Ministarstva unutarnjih poslova Republike Hrvatske u pogledu zajedničkih inspekcijskih nadzora; utvrđuje nesrazmjer između prijavljenog dohotka i evidentirane imovine; izrađuje i dostavlja izvješća iz svoje nadležnosti Uredu pročelnika i Središnjem uredu; obavlja i druge upravne i stručne poslove vezano za nadzor poreznih obveznika fizičkih i pravnih osoba.
+Za obavljanje poslova Službe za nadzor ustrojavaju se sljedeći odjeli:
+3.3.1. Odjel za planiranje, pripremu i analizu nadzora
+Odjel za planiranje, pripremu i analizu nadzora obavlja upravne i druge stručne poslove koji se odnose na izradu planova nadzora; provodi analizu i pripremne radnje po zaprimljenim zahtjevima za nadzor, utvrđuje razinu prioriteta i relevantnosti te dostavlja predmete u rad drugim odjelima u skladu sa planom; surađuje sa drugim ustrojstvenim jedinicama područnog ureda; sastavlja izvješća i analize provedenih nadzora; objedinjava i jedinstveno ustrojava evidenciju nadzora na razini područnog ureda; provodi očevide i druge radnje po zahtjevima za pravnu pomoć drugih područnih ureda.
+3.3.2. Odjel za nadzor poreza na dodanu vrijednost I
+Odjel za nadzor poreza na dodanu vrijednost i obavlja upravne i druge stručne poslove koji se odnose na nadzor ispravnosti obračunavanja i plaćanja poreza na dodanu vrijednost; provodi očevide i druge radnje po zahtjevima za pravnu pomoć drugih područnih ureda i tijela državne uprave; obavlja upravne i druge stručne poslove u području administrativne suradnje i suzbijanja poreznih prijevara sa drugim državama članicama Europske unije.
+3.3.3. Odjel za nadzor poreza na dodanu vrijednost II
+Odjel za nadzor poreza na dodanu vrijednost II obavlja upravne i druge stručne poslove koji se odnose na nadzor ispravnosti obračunavanja i plaćanja poreza na dodanu vrijednost; provodi očevide i druge radnje po zahtjevima za pravnu pomoć drugih Područnih ureda i tijela državne uprave; obavlja upravne i druge stručne poslove u području administrativne suradnje i suzbijanja poreznih prijevara sa drugim državama članicama Europske unije.
+3.3.4. Odjel za nadzor poreza na dobit i doprinosa
+Odjel za nadzor poreza na dobit i doprinosa obavlja upravne i druge stručne poslove koji se odnose na nadzor ispravnosti obračunavanja i plaćanja poreza na dobit, obveznih doprinosa kod obveznika koji od djelatnosti utvrđuju i plaćaju porez na dobit; obavlja upravne i druge stručne poslove u području administrativne suradnje u oporezivanju dobiti kod pravnih i fizičkih osoba; u suradnji sa Službom za ovrhu obavlja poslove utvrđivanja zlouporabe prava u poreznom postupku.
+3.3.5. Odjel za nadzor poreza na dohodak i doprinosa
+Odjel za nadzor poreza na dohodak i doprinosa obavlja upravne i druge stručne poslove koji se odnose na nadzor ispravnosti obračunavanja i plaćanja poreza na dohodak kod obveznika koji od djelatnosti utvrđuju i plaćaju porez na dobit ili porez na dohodak, obveznih doprinosa kod obveznika koji od djelatnosti utvrđuju i plaćaju porez na dobit ili dohodak; obavlja upravne i druge stručne poslove u području administrativne suradnje u oporezivanju dohotka kod pravnih i fizičkih osoba.
+3.3.6. Odjel za nadzor fiskalizacije
+Odjel za nadzor fiskalizacije obavlja upravne i druge stručne poslove vezano za nadzor izdavanja i evidentiranja računa u skladu sa posebnim propisima; upravne i druge stručne poslove vezano za nadzor pravodobnosti uplate poreza i doprinosa; poslove vezano za određivanje i provedbu mjera opreza u skladu sa posebnim propisima; obavlja poslove nadzora igara na sreću, zabavnih i nagradnih igara a koji se odnose na utvrđivanje prostornih i tehničkih uvjeta, sudjelovanje kod izdavanja prethodnih mišljenja, plombiranje automata kao i popis stanja brojčanika na automatima za igre na sreću kod skidanja plombi, provođenje nadzora, tehničkog pregleda automata, stolova, sustava i opreme za igre na sreću kao i kategorizacije automata te zaprimanje i izdavanje nadzornih markica za zabavne automate.
+3.3.7. Odjel za otkrivanje porezno kaznenih djela
+Odjel za otkrivanje porezno kaznenih djela obavlja upravne i druge stručne poslove u području nadzora po zahtjevima državnog odvjetništva Republike Hrvatske i ustrojstvenih jedinica Ministarstva financija; po zahtjevima i u suradnji sa Ministarstvom unutarnjih poslova Republike Hrvatske te po zahtjevima koji se odnose na nesrazmjer između prijavljenog dohotka i evidentirane imovine. Nadležan je za kontrolu nelegalnog priređivanja igara na sreću.
+3.4. SLUŽBA ZA NAPLATU I OVRHU
+Služba za naplatu i ovrhu obavlja upravne i druge stručne poslove vezano za naplatu i ovrhu poreza, doprinosa i drugih javnih davanja u skladu s Općim poreznim zakonom i posebnim propisima koji uređuju postupak naplate i ovrhe; obavlja upravne i druge stručne poslove pokretanja postupaka, prijavu i naplatu potraživanja iz nadležnosti Porezne uprave u likvidacijskim i stečajnim postupcima te postupcima predstečajnih nagodbi i brisanja društava iz sudskog registra; u suradnji sa Službom za nadzor obavlja poslove utvrđivanja zlouporabe prava u poreznom postupku; surađuje sa općinskim i županijskim državnim odvjetništvima te općinskim, županijskim i trgovačkim sudovima; obavlja upravne i druge stručne poslove u području administrativne suradnje u naplati poreznih prihoda sa drugim državama članicama Europske unije; izrađuje i dostavlja izvješća iz svoje nadležnosti Uredu pročelnika i Središnjem uredu.
+Za obavljanje poslova Službe za naplatu i ovrhu ustrojavaju se sljedeći odjeli:
+3.4.1. Odjel za stečajeve i likvidacije
+Odjel za stečajeve i likvidacije pokreće, provodi i sudjeluje u postupcima stečajeva nad fizičkim i pravnim osobama a radi naplate potraživanja iz nadležnosti Porezne uprave; pokreće postupke brisanja društava iz sudskog registra, te provodi postupak prijavljivanja potraživanja u likvidacijskim postupcima; surađuje sa općinskim i županijskim državnim odvjetništvima te općinskim, županijskim i trgovačkim sudovima; obavlja upravne i druge stručne poslove vezano za postupak predstečajne nagodbe kod dužnika u kojima je Ministarstvo financija vjerovnik te sudjeluje i glasuje na ročištima pred nadležnim tijelima.
+3.4.2. Odjel za naplatu i ovrhu I
+Odjel za naplatu i ovrhu I obavlja upravne i druge stručne poslove vezano za naplatu i ovrhu poreza, doprinosa i drugih javnih davanja u skladu s Općim poreznim zakonom i posebnim propisima koji uređuju postupak naplate i ovrhe; pokreće i vodi postupak naplate i ovrhe po službenoj dužnosti i po zahtjevima drugih ustrojstvenih jedinica Porezne uprave; provodi postupke naplate i ovrhe po zahtjevima drugih tijela u skladu sa posebnim propisima; pokreće postupke pred nadležnim sudovima radi naplate dospjelih potraživanja i podnosi kaznene prijave u postupcima u kojima postoji sumnja u kazneno djelo; u suradnji sa Službom za nadzor obavlja poslove utvrđivanja zlouporabe prava u poreznom postupku; surađuje sa općinskim i županijskim državnim odvjetništvima te općinskim, županijskim i trgovačkim sudovima; obavlja upravne i druge stručne poslove u području administrativne suradnje u naplati poreznih prihoda s drugim državama članicama Europske unije.
+3.4.3. Odjel za naplatu i ovrhu II
+Odjel za naplatu i ovrhu II obavlja upravne i druge stručne poslove vezano za naplatu i ovrhu poreza, doprinosa i drugih javnih davanja u skladu s Općim poreznim zakonom i posebnim propisima koji uređuju postupak naplate i ovrhe; pokreće i vodi postupak naplate i ovrhe po službenoj dužnosti i po zahtjevima drugih ustrojstvenih jedinica Porezne uprave; provodi postupke naplate i ovrhe po zahtjevima drugih tijela u skladu sa posebnim propisima; pokreće postupke pred nadležnim sudovima radi naplate dospjelih potraživanja i podnosi kaznene prijave u postupcima u kojima postoji sumnja u kazneno djelo; u suradnji sa Službom za nadzor obavlja poslove utvrđivanja zlouporabe prava u poreznom postupku; surađuje sa općinskim i županijskim državnim odvjetništvima te općinskim, županijskim i trgovačkim sudovima; obavlja upravne i druge stručne poslove u području administrativne suradnje u naplati poreznih prihoda sa drugim državama članicama Europske unije.
+3.5. SLUŽBA ZA PREKRŠAJNI POSTUPAK
+Služba za prekršajni postupak vodi prekršajni postupak u prvom stupnju zbog povreda poreznih propisa, propisa o plaćanju doprinosa za obvezna osiguranja i drugih posebnih propisa kojima je utvrđena njena nadležnost; pokreće postupak naplate utvrđenih novčanih kazni u skladu sa posebnim propisom; vodi evidencije, sastavlja izvješća, sudjeluje na seminarima i radionicama iz područja propisa koji uređuju prekršajni postupak; izrađuje i dostavlja izvješća iz svoje nadležnosti Uredu pročelnika i Središnjem uredu.
+3.6. SLUŽBA ZA OPĆE POSLOVE
+Služba za opće poslove obavlja stručne računovodstvene i materijalno financijske poslove te upravne i stručne poslove iz područja ljudskih resursa u dijelu nadležnosti područnog ureda; obavlja poslove pisarnice i pismohrane; obavlja poslove javne nabave u nadležnosti područnih ureda; obavlja stručne poslove vezano za imovinu područnog ureda, a posebice nekretnina, uredske i informatičke opreme te prijevoznih sredstava koje područni ured ima u vlasništvu ili posjedu; obavlja pomoćne poslove održavanja imovine područnog ureda; koordinira poslove pisarnice i pismohrane u ispostavama iz nadležnosti područnog ureda; izrađuje i dostavlja izvješća iz svoje nadležnosti Uredu pročelnika i Središnjem uredu.
+3.7. - 3.15. ISPOSTAVE PODRUČNOG UREDA SREDIŠNJA HRVATSKA
+U Područnom ured Središnja Hrvatska ustrojavaju se sljedeće ispostave:
+3.7. Ispostava Dugo Selo sa sjedištem u Dugom selu za područje gradova Dugo Selo, Ivanić Grad, Vrbovec i Sveti Ivan Zelina te općina: Brckovljani, Rugvica, Kloštar Ivanić, Križ, Bedenica, Dubrava, Farkaševac, Gradec, Preseka i Rakovec.
+3.8. Ispostava Karlovac sa sjedištem u Karlovcu za područje gradova Karlovac i Ozalj te općina: Draganić, Krnjak, Lasinja, Žakanje, Ribnik i Kamanje.
+3.9. Ispostava Krapina sa sjedištem u Krapini za područje gradova: Krapina, Pregrada i Zlatar te općina: Đurmanec, Petrovsko, Radoboj, Jesenje, Budinščina, Hrašćina, Konjščina, Lobor, Mače, Mihovljan, Zlatar Bistrica, Novi Golubovec, Desinić i Hum na Sutli.
+3.10 Ispostava Kutina sa sjedištem u Kutini za područje gradova Kutina, Hrvatska Kostajnica, Novska i Popovača te općina: Majur, Dvor, Velika Ludina, Jasenovac, Lipovljani, Donji Kukuruzari i Hrvatska Dubica.
+3.11. Ispostava Ogulin sa sjedištem u Ogulinu za područje gradova: Ogulin, Duga Resa i Slunj te općina: Josipdol, Plaški, Saborsko, Tounj, Barilović, Bosiljevo, Generalski Stol, Netretić, Cetingrad, Rakovica i Vojnić.
+3.12. Ispostava Samobor sa sjedištem u Samoboru za područje gradova Samobor, Jastrebarsko, Zaprešić i Sveta Nedelja te općina: Klinča Sela, Pisarovina, Krašić, Žumberak, Stupnik, Bistra, Brdovec, Dubravica, Jakovlje, Luka, Marija Gorica i Pušća.
+3.13. Ispostava Sisak sa sjedištem u Sisku za područje gradova Sisak, Glina i Petrinja te općina: Gvozd, Lekenik, Martinska Ves, Sunja i Topusko.
+3.14. Ispostava Velika Gorica sa sjedištem u Velikoj Gorici za područje Grada Velika Gorica te općina: Kravarsko, Pokupsko i Orle.
+3.15. Ispostava Zabok sa sjedištem u Zaboku za područje gradova: Zabok, Donja Stubica, Klanjec i Oroslavje te općina: Gornja Stubica, Marija Bistrica, Stubičke Toplice, Kraljevec na Sutli, Tuhelj, Zagorska Sela, Kumrovec, Bedekovčina, Krapinske Toplice, Sveti Križ Začretje i Veliko Trgovišće.
+U Ispostavama Dugo Selo, Karlovac, Krapina, Kutina, Ogulin, Samobor, Sisak, Velika Gorica i Zabok se obavljaju poslovi utvrđivanja i naplate poreza i doprinosa poreznim obveznicima rezidentima i nerezidentima; poslovi praćenja pravodobnosti, zakonitosti i ispravnosti utvrđivanja i prijavljivanja nastalih poreznih obveza; poslovi izdavanja isprava o činjenicama o kojima Porezna uprava vodi službenu evidenciju u odjelima; izrađuje i dostavlja izvješća iz svoje nadležnosti Službi za utvrđivanje poreza i doprinosa.
+Za obavljanje poslova ispostava Dugo Selo, Karlovac, Krapina, Kutina, Ogulin, Samobor, Sisak, Velika Gorica i Zabok ustrojavaju se sljedeći odjeli:
+Odjel za građane
+Odjel za građane obavlja upravne i druge stručne poslove za sve kategorije poreznih obveznika a koji se odnose na utvrđivanje i razrez poreza na promet nekretnina, lokalnih poreza te posebnog poreza na promet upotrebljavanih motornih vozila, izdavanje poreznih kartica te potvrda i uvjerenja o OIB-u; obavlja stručne poslove pisarnice i pismohrane te opće poslove iz nadležnosti ispostave; za porezne obveznike građane obavlja upravne i druge stručne poslove utvrđivanja i naplate poreza, doprinosa i drugih javnih davanja; za porezne obveznike građane obavlja poslove izdavanja isprava i potvrda o činjenicama o kojima Porezna uprava vodi službenu evidenciju.
+Odjel za poduzetnike - dobit
+Odjel za poduzetnike - dobit obavlja upravne i druge stručne poslove za fizičke i pravne osobe obveznike poreza na dobit i to: poslove utvrđivanja i naplate poreza, doprinosa i drugih javnih davanja; poslove usklađivanja statusnih podataka i vođenja dosjea; poslove zaprimanja i obrade podnesenih prijava; poslove provjere iskazanih podataka o poslovanju poreznih obveznika iz svoje nadležnosti; podnošenje optužnih prijedloga za pokretanje prekršajnog postupka; podnošenje zahtjeva za nadzor; izdavanje isprava i potvrda o činjenicama o kojima Porezna uprava vodi službenu evidenciju; poslove bilježenja poreznih obveza u poreznom knjigovodstvu; izrađuje odgovore na upite poreznih obveznika iz svoje nadležnosti; poslove utvrđivanja gospodarske snage; utvrđuje pravodobnost, zakonitost i ispravnost podnesenih poreznih prijava i poduzima daljnje radnje s ciljem utvrđivanja i naplate poreza i doprinosa.
+Odjel za poduzetnike - dohodak
+Odjel za poduzetnike - dohodak obavlja upravne i druge stručne poslove za fizičke osobe obveznike poreza na dohodak od samostalne djelatnosti obrta i slobodnih zanimanja te obveznike poreza na dohodak od imovine i imovinskih prava i to: poslove utvrđivanja i naplate poreza, doprinosa i drugih javnih davanja; poslove usklađivanja statusnih podataka i vođenja dosjea; poslove zaprimanja i obrade podnesenih prijava; poslove provjere iskazanih podataka o poslovanju poreznih obveznika iz svoje nadležnosti; podnošenje optužnih prijedloga za pokretanje prekršajnog postupka; podnošenje zahtjeva za nadzor; izdavanje isprava i potvrda o činjenicama o kojima Porezna uprava vodi službenu evidenciju; poslove bilježenja poreznih obveza u poreznom knjigovodstvu; izrađuje odgovore na upite poreznih obveznika iz svoje nadležnosti; poslove utvrđivanja gospodarske snage; utvrđuje pravodobnost, zakonitost i ispravnost podnesenih poreznih prijava i poduzima daljnje radnje s ciljem utvrđivanja i naplate poreza i doprinosa.«.
