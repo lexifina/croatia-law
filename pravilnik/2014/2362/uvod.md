@@ -1,0 +1,1 @@
+Na temelju članka 16. stavka 7. Zakona o elektroničkim komunikacijama (»Narodne novine« br. 73/08, 90/11 133/12, 80/13 i 71/14) Vijeće Hrvatske regulatorne agencije za mrežne djelatnosti na sjednici održanoj 17. listopada 2014. donosi
