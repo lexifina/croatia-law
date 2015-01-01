@@ -1,0 +1,2 @@
+# Članak 21.
+Obveznik poreza na tvrtku ili naziv dužan je prijaviti osnutak te svaku promjenu imena tvrtke ili naziva, kao i sve druge promjene koje utječu na pravilno utvrđivanje visine poreza upravnom tijelu koje obavlja poslove utvrđivanja, nadzora i naplate ovog poreza, u roku od 30 dana od dana od upisa u sudski ili obrtni registar, odnosno od dana nastale promjene.
