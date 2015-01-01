@@ -1,0 +1,4 @@
+# Članak 19.
+(1) Kada utvrdi da je kod osiguranika nastalo smanjenje radne sposobnosti uz preostalu radnu sposobnost, vijeće vještaka će utvrditi može li se s obzirom na njegovo zdravstveno stanje, životnu dob, naobrazbu i sposobnost osiguranik profesionalnom rehabilitacijom osposobiti za rad s punim radnim vremenom na drugim poslovima.
+(2) Vijeće vještaka će donijeti nalaz i mišljenje o profesionalnoj rehabilitaciji kojim će, sukladno pribavljenom mišljenju centra za profesionalnu rehabilitaciju, utvrditi druge poslove za koje se osiguranik može osposobiti za rad s punim radnim vremenom te trajanje i način provođenja profesionalne rehabilitacije.
+(3) Nalaz i mišljenje i stavka 2. ovoga članka vijeće vještaka dužno je donijeti u roku od 5 dana od dana primitka mišljenja centra za profesionalnu rehabilitaciju.

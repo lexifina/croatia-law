@@ -1,0 +1,2 @@
+# Članak 35.
+Za žene kod kojih postoje anatomska i funkcionalna oštećenja pojedinih dijelova tijela (amputacija, kontraktura, paraliza, skraćenje noge više od 3 cm, gubitak oka, pseudoartroza, teški varikoziteti selefantijazom, posttraumatska epilepsija, gluhoća, parkinsonizam, teški osteomielitis s fistulom), postoci predviđeni u Listi II mogu se povećati za 10% ako su manji od 60%, a ako su 60% ili veći od 60% povećavaju se za 20%. To povećanje može iznositi do 100% - II. skupina.

@@ -1,0 +1,3 @@
+# Članak 45.
+(1) Postotak oštećenja organizma utvrđuje se trajno ili privremeno.
+(2) Privremeni postotak oštećenja organizma utvrđuje se samo ako je to navedeno uz pojedinu točku Liste postotka oštećenja organizma ili ako postoje izgledi da će se oštećenje organizma invalida u znatnoj mjeri poboljšati primjenom bilo kojega medicinskog postupka (operativni zahvati, medicinska i fizikalna rehabilitacija, terapija lijekovima i drugo). Privremenost ocjene vezana uz pojedinu točku iz Liste II računa se od prve ocjene oštećenja organizma Vijeća viših vještaka koja je temelj za donošenja konačnoga rješenja o priznavanju statusa na temelju Zakona o pravima hrvatskih branitelja, odnosno Zakona o zaštiti.

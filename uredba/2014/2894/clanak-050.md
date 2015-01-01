@@ -1,0 +1,2 @@
+# Članak 50.
+U prvi stupanj doplatka za njegu i pomoć druge osobe razvrstava se i HRVI iz Domovinskog rata II., III. i IV. skupine, odnosno vojni i civilni invalid rata II., III. i IV. skupine, kojemu je organizam oštećen i neovisno o vojnom, odnosno civilnom invaliditetu, ako mu je ukupno oštećenje organizma jednako oštećenju predviđenom u članku 49. stavku 1. ove Uredbe, a potpuno su nesposobni za obavljanje svih životnih potreba te im je potrebna neprekidna njega i pomoć druge osobe.

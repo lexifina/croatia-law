@@ -1,0 +1,4 @@
+# Članak 5.
+(1) Za rad vještaka i viših vještaka potrebnu medicinsku i drugu opremu i pribor, namještaj i druga sredstva za obavljanje poslova vještačenja, te odgovarajuće radne prostorije osigurava Zavod za vještačenje.
+(2) Kada vještaci i viši vještaci vještače za potrebe ostvarivanja prava iz sustava socijalne skrbi i kada je to neophodno za postupak vještačenja, prostor i potrebne uvjete rada može osigurati nadležni centar za socijalnu skrb ako za to ima mogućnosti.
+(3) Kada osiguranik, odnosno osoba koja se vještači zbog svog zdravstvenog stanja ne može osobno ili u pratnji pristupiti neposrednom pregledu u službenim prostorijama Zavoda za vještačenje, a vještaci ne mogu dati nalaz i mišljenje na temelju isključivo priložene medicinske i druge dokumentacije, neposredni pregled obavlja se u kućnoj posjeti.

@@ -1,0 +1,4 @@
+# Članak 56.
+(1) Vijeća vještaka iz članka 27. ove Uredbe, u postupcima za ostvarenje prava na temelju Zakona o pravima hrvatskih branitelja, daju nalaz i mišljenje o sposobnosti za privređivanje prema utvrđenim kriterijima medicinske znanosti vodeći računa o zanimanju i godinama života pregledane osobe i drugim okolnostima važnim za donošenje pravilnog nalaza i mišljenja.
+(2) U slučajevima vještačenja o sposobnosti za privređivanje djeteta mlađeg od 15. godina života, u postupcima za ostvarenje prava na temelju Zakona o pravima hrvatskih branitelja, mišljenje koje se daje uz nalaz mora sadržavati i mišljenje o vremenu nastanka nesposobnosti za privređivanje.
+(3) Vijeća vještaka iz članka 27. ove Uredbe, u postupcima za ostvarenje prava na temelju Zakona o zaštiti, daju nalaz i mišljenje o sposobnosti za privređivanje uz primjenu odgovarajućih propisa o mirovinskom osiguranju i prema utvrđenim kriterijima medicinske znanosti.
