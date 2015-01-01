@@ -1,0 +1,1 @@
+Na temelju odredbi članka 15. stavak 1. točka 7. Zakona o Hrvatskoj agenciji za nadzor financijskih usluga (»Narodne novine« broj 140/05 i 12/12), članka 142. i članka 181. Zakona o osiguranju (»Narodne novine« br. 151/05, 87/08, 82/09, 54/13 i 94/14) Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća održanoj 19. prosinca 2014. godine donosi
