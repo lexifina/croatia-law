@@ -1,0 +1,1 @@
+Na temelju članka 92.a stavka 3. i članka 92.f stavka 2. Zakona o osiguranju (»Narodne novine« broj 151/05, 87/08, 82/09, 54/13 i 94/14), Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća održanoj 19. prosinca 2014. donosi
