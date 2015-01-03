@@ -1,0 +1,3 @@
+# Članak 35.
+(1) Skupina računa 36 - Ostali prihodi, sadrži prihode od naknade šteta i refundacija te prihode od prodaje dugotrajne nematerijalne i materijalne imovine. Unutar ove skupine evidentira se otpis obveza i naplaćena otpisana potraživanja.
+(2) Prodaja dugotrajne nematerijalne i materijalne imovine evidentira se zaduženjem odgovarajućeg računa potraživanja od kupaca u skupini 16 i odobrenjem računa prihoda od prodaje dugotrajne nematerijalne i materijalne imovine u skupini 36. Istovremeno se odobrava račun prodane dugotrajne materijalne i nematerijalne imovine u razredu 0 i zadužuju: odgovarajući račun ispravka vrijednosti imovine u razredu 0 i račun rashoda za prodanu dugotrajnu nematerijalnu i materijalnu imovinu - neotpisana vrijednost u skupini 46.

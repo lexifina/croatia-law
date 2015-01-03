@@ -1,0 +1,1 @@
+Na temelju članka 9. stavka 6., članka 12. stavka 8., članka 13. stavka 2. i članka 24. stavka 4. Zakona o financijskom poslovanju i računovodstvu neprofitnih organizacija (»Narodne novine«, br. 121/14.) ministar financija donosi
