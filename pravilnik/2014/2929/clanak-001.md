@@ -1,0 +1,5 @@
+# Članak 1.
+U Pravilniku o postupku objavljivanja natječaja i o odlučivanju o odabiru korisnika sredstava Fonda za zaštitu okoliša i energetsku učinkovitost (»Narodne novine« broj 153/11, 29/14), (u daljnjem tekstu: Pravilnik), u članku 2. stavku 1. riječi »se na temelju odluke Upravnog odbora Fonda o raspisivanju javnog natječaja.« zamjenjuju se riječima »direktora Fonda.«
+U stavku 2. riječi »Odluku o raspisivanju javnog natječaja Upravni odbor donosi na temelju godišnjeg programa raspisivanja natječaja, kojeg predlaže direktor Fonda,« zamjenjuju se riječima »Direktor Fonda raspisuje javni natječaj na temelju godišnjeg programa raspisivanja javnih natječaja i javnih poziva za neposredno sufinanciranje,«.
+Stavak 3. mijenja se i glasi:
+»Godišnji program raspisivanja javnih natječaja i javnih poziva sadrži predmet javnog natječaja odnosno javnog poziva, na koje se korisnike odnosi, maksimalnu visinu sredstava po pojedinom projektu, programu odnosno aktivnosti, te rok za objavu javnog natječaja odnosno javnog poziva.«
