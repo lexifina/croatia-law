@@ -1,0 +1,9 @@
+## VI. KONTROLA NA TERENU I ČUVANJE DOKUMENTACIJE
+# Članak 19.
+(1) Kontrolu na terenu provode djelatnici upravljačkog tijela.
+(2) Osim djelatnika upravljačkog tijela iz stavka 1. ovoga članka, kontrolu na terenu mogu obavljati i djelatnici tijela za potvrđivanje, Tijela za reviziju, Posredničkog tijela, predstavnici Europske komisije, predstavnici Europskog ureda za borbu protiv prijevara (OLAF), Europski revizorski sud i druga nadležna revizorska/nadzorna tijela.
+(3) Kontrola na terenu obuhvaća kontrolu putem VMS uređaja te kontrolu na terenu, a može se provoditi tijekom čitavog razdoblja navedenog u članku 3. stavku 3. ovoga Pravilnika.
+(4) U slučaju da ribarsko plovilo ne posjeduje VMS uređaj, kontrola se vrši isključivo kontrolom na terenu.
+(5) Korisnik je dužan čuvati i omogućiti uvid u svu dokumentaciju koja se odnosi na privremenu obustavu ovlaštenim osobama upravljačkog tijela, tijela za potvrđivanje, posredničkog tijela, tijela za reviziju i tijela uključenih u revizije operativnog programa iz članka 61. stavka 3. Uredbe Vijeća (EZ) br. 1198/2006 kao i ovlaštenim predstavnicima Europske komisije, Europskog revizorskog suda, Europskog ureda za borbu protiv prijevara (OLAF) i drugih nadležnih nadzornih/revizorskih tijela. Uputa za čuvanje dokumentacije nalazi se u Prilogu III. ovog Pravilnika, i njegov je sastavni dio.
+(6) Rok za čuvanje dokumentacije iz stavka 5. ovoga članka je najmanje pet godina od zadnje primljene uplate financijskih sredstava ili tri godine od dana zatvaranja Operativnog programa odnosno od djelomičnog zatvaranja Operativnog programa koje se može provesti sukladno članku 85. Uredbe Vijeća (EZ) br. 1198/2006, ovisno što je kasnije.
+(7) Upravljačko tijelo putem Agencije za plaćanja obavještava korisnike o datumu zatvaranja ili djelomičnog zatvaranja Operativnog programa od kojega počinje teći rok iz stavka 6. ovoga članka.
