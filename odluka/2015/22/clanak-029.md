@@ -1,0 +1,7 @@
+## Proces praćenja plasmana
+# Članak 29.
+(1) Proces praćenja pojedinačnog plasmana uključuje procjenjivanje kreditne sposobnosti dužnika, grupe povezanih osoba s dužnikom i kvalitete instrumenta osiguranja potraživanja tijekom trajanja pravnog odnosa koji čini izloženost.
+(2) Kreditna institucija dužna je tijekom trajanja pravnog odnosa koji čini izloženost kreditnom riziku pratiti poslovanje dužnika, kao i kvalitetu, utrživost, raspoloživost, vrijednost i pravnu valjanost instrumenata osiguranja svojih potraživanja uzimajući u obzir minimalne zahtjeve iz Odluke o klasifikaciji plasmana i izvanbilančnih obveza kreditnih institucija.
+(3) Kreditna institucija dužna je osigurati praćenje dužnikova ispunjavanja uvjeta iz ugovora i, u slučaju odobrenih namjenskih plasmana, praćenje namjenskoga korištenja plasiranih sredstava.
+(4) Praćenje pojedinačnih plasmana mora biti uspostavljeno tako da omogućuje pravodobno poduzimanje odgovarajućih mjera radi smanjenja kreditnog rizika u slučaju pogoršanja kreditne sposobnosti dužnika ili pružatelja instrumenta osiguranja potraživanja.
+(5) Kreditna institucija dužna je usvojiti procedure kojima propisuje prikupljanje i praćenje svih relevantnih informacija koje bi mogle upućivati na povećanje rizičnosti plasmana i instrumenta osiguranja potraživanja, kao i proceduru izvještavanja svih ovlaštenih osoba uključenih u proces upravljanja kreditnim rizikom o tim informacijama, kako bi se ponovno procijenila rizičnost plasmana.

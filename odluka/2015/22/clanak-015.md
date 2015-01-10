@@ -1,0 +1,4 @@
+## Rizik prekomjerne financijske poluge
+# Članak 15.
+(1) Kreditna institucija dužna je donijeti i provoditi primjerene politike i postupke za upravljanje rizikom prekomjerne financijske poluge. Pokazatelji rizika prekomjerne financijske poluge uključuju omjer financijske poluge koji se određuje u skladu s člankom 429. Uredbe (EU) br. 575/2013 i neusklađenost između imovine i obveza.
+(2) Kreditna institucija dužna je s oprezom tretirati rizik prekomjerne financijske poluge, uzimajući u obzir potencijalno povećanje rizika prekomjerne financijske poluge zbog smanjenja regulatornoga kapitala kreditne institucije zbog očekivanih ili realiziranih gubitaka, u skladu s računovodstvenim pravilima. U tu svrhu, kreditna institucija mora biti u mogućnosti podnijeti širok opseg različitih stresnih događaja s obzirom na rizik prekomjerne financijske poluge.
