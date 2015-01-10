@@ -1,0 +1,3 @@
+# Članak 20.
+(1) Pravne osobe koje su postale proračunski korisnici, a do tada su vodile računovodstvo poduzetnika ili neprofitno računovodstvo ne popunjavaju stupac »Ostvareno u izvještajnom razdoblju prethodne godine« u Izvještaj o prihodima i rashodima, primicima i izdacima na Obrascu: PR-RAS.
+(2) Za proračunske odnosno izvanproračunske korisnike kojima danom brisanja iz Registra proračunskih i izvanproračunskih korisnika prestaje status proračunskog odnosno izvanproračunskog korisnika, financijske izvještaje za proračunsku godinu sastavlja i potpisuje osoba koja je bila odgovorna za poslovanje proračuna ili korisnika do datuma brisanja iz Registra.
