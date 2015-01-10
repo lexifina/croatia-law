@@ -1,0 +1,2 @@
+# Članak 5.
+Iznimno od odredbe članka 4. stavka 1. točke 3. ovoga Pravilnika, podnositelj Zahtjeva može biti i pravna osoba koja u posljednje tri godine prije dana podnošenja Zahtjeva nije proizvela audiovizualno djelo, već je u svojstvu izvršitelja usluge proizvodnje surađivala u proizvodnji audiovizualnog djela koje je javno prikazano na barem jedan od sljedećih načina: komercijalno distribuirano u kinima i/ili na televiziji i/ili na najmanje jednom međunarodnom festivalu.
