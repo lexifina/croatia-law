@@ -1,0 +1,6 @@
+# Članak 13.
+(1) Športski ribolov tune, igluna i iglana dozvoljen je na natjecanjima u športskom ribolovu na moru s dozvolom za ribolov tuna igluna i iglana.
+(2) Organizator natjecanja u športskom ribolovu na moru prema ovom Pravilniku obvezan je dostaviti Savezu za športski ribolov na moru popis sudionika i plovila koja će sudjelovati u pojedinom natjecanju, a Savez za športski ribolov na moru dužan je ovaj popis proslijediti Ministarstvu najkasnije do 10. ožujka tekuće godine.
+(3) Prijedlog raspodjele kvote za športski ribolov po pojedinom natjecanju iz stavka 1. ovoga članka, predlaže Hrvatski savez za športski ribolov na moru najkasnije do 10. ožujka tekuće godine, a Ministarstvo ga potvrđuje Rješenjem za pojedino natjecanje.
+(4) Organizator natjecanja u športskom ribolovu na moru prema ovom Pravilniku obvezan je dostaviti Ministarstvu pismeni izvještaj o ulovu tune s podacima o broju i težini ulovljenih i zadržanih primjeraka, na Obrascu prijave ulova tuna u sportskom ribolovu (Prilog 3. ovoga Pravilnika), u roku od 24 sata nakon završetka natjecanja.
+(5) Iznimno od članka 12. stavka 7. u natjecanjima iz stavka 1. ovog članka, pojedino plovilo dnevno smije, do ispunjenja kvote određene za natjecanje, izvući na plovilo i zadržati samo jednu jedinku tune. Zadržana jedinka smije se iskrcati samo cijela, a iznimno, bez utrobe i škrga.
