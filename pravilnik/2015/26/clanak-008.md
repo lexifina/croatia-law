@@ -1,0 +1,3 @@
+## Zahtjev za izdavanje odobrenja za provođenje razdvajanja i odvajanja s preuzimanjem
+# Članak 8.
+Na sadržaj zahtjeva za izdavanje odobrenja za provođenje razdvajanja i odvajanja s preuzimanjem te dokumentaciju i podatke koji se dostavljaju uz taj zahtjev na odgovarajući se način primjenjuju odredbe ovoga Pravilnika o razdvajanju i odvajanju s osnivanjem pri čemu se plan podjele nadomješta ugovorom o podjeli i preuzimanju koji u obliku javnobilježničke isprave sklapaju uprave, odnosno izvršni direktori Društva koje se dijeli i Društva preuzimatelja, a novo se Društvo nadomješta Društvom preuzimateljem.

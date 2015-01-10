@@ -1,0 +1,3 @@
+# Članak 4.
+(1) Na zahtjev za izdavanje odobrenja za pripajanje koji Agenciji podnosi Društvo koje se pripaja Društvu preuzimatelju sa sjedištem izvan Republike Hrvatske na odgovarajući način se primjenjuju odredbe članka 2. stavka 1., 2., 3. i 4. ovog Pravilnika.
+(2) Društvo preuzimatelj mora imati dozvolu nadležnog nadzornog tijela za obavljanje poslova osiguranja u vrstama osiguranja za koje Društvo koje se pripaja ima dozvolu Agencije odnosno obavijestiti o namjeri obavljanja poslova osiguranja na području Republike Hrvatske u skladu s odredbama Zakona o slobodnom obavljanju poslova osiguranja u Republici Hrvatskoj.

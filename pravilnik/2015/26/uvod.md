@@ -1,0 +1,1 @@
+Na temelju članka 24.b stavka 11. Zakona o osiguranju (»Narodne novine« broj 151/05, 87/08, 82/09, 54/13 i 94/14), Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća održanoj 24. prosinca 2014. donosi
