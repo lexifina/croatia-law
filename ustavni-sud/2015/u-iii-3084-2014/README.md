@@ -1,0 +1,13 @@
+# Odluka Ustavnog suda Republike Hrvatske broj: U-III-3084/2014 od 14. siječnja 2015.
+
+- Case: `U-III-3084/2014`
+- Proceeding: Ustavna tužba
+- Decision: odluka
+- Decision date: `2015-01-14`
+- Outcome: odbijanje
+- Official database page: <https://sljeme.usud.hr/usud/praksaw.nsf/fOdluka.xsp?action=openDocument&documentId=C12570D30061CE54C1257DCD003A2E51>
+- Official DOCX: <https://sljeme.usud.hr/Usud/Praksaw.nsf/C12570D30061CE54C1257DCD003A2E51/%24FILE/U-III-3084-2014.docx>
+- Official PDF: <https://sljeme.usud.hr/Usud/Praksaw.nsf/C12570D30061CE54C1257DCD003A2E51/%24FILE/U-III-3084-2014.pdf>
+- Official database page SHA-256: `66767a81c42c8cbb6edc7585d78cdd0f1a09bc0a4fdf0df87f79d44440ec6b78`
+
+Metadata-only record: the decision concerns a named person (constitutional complaint and similar proceedings are listed as metadata only in this repository); use the official links above.
