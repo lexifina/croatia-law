@@ -1,0 +1,5 @@
+# Članak 2.
+Ovim se Pravilnikom utvrđuje okvir za provedbu pojedinih odredaba sljedećih Uredbi Europske unije:
+- Uredba (EZ) br. 882/2004 Europskog parlamenta i Vijeća od 29. travnja 2004. o službenim kontrolama koje se provode radi verifikacije postupanja u skladu s odredbama propisa o hrani i hrani za životinje te propisa o zdravlju i dobrobiti životinja (SL L 165, 30. 4. 2004.) (u daljnjem tekstu: Uredba (EZ) br. 882/2004), sa svim izmjenama i dopunama,
+- Uredba (EZ-a) br. 1981/2006 Europskoga parlamenta i Vijeća od 22. prosinca 2006. o detaljnim pravilima za provedbu članka 32. Uredbe (EZ) br. 1829/2003 Europskog parlamenta i Vijeća u pogledu referentnog laboratorija Zajednice za genetski modificirane organizme, (SL L 368, 23. 12. 2006., SL. L314M, 01. 12. 2007.) (u daljnjem tekstu: Uredba (EZ) br. 1981/2006)
+- Uredba Komisije (EZ) br. 120/2014 od 7. veljače 2014. o izmjeni Uredbe (EZ) br. 1981/2006 o detaljnim pravilima za provedbu članka 32. Uredbe (EZ) br. 1829/2003 Europskog parlamenta i Vijeća u pogledu referentnog laboratorija Zajednice za genetski modificirane organizme (SL L 39, 08. 02. 2014.) (u daljnjem tekstu Uredba (EZ) br. 120/2014)

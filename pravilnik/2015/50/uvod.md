@@ -1,0 +1,1 @@
+Na temelju članka 18. stavka 3. i članka 19. stavka 3. Zakona o službenim kontrolama koje se provode sukladno propisima o hrani, hrani za životinje, o zdravlju i dobrobiti životinja (»Narodne novine«, broj 81/2013. i 14/2014), ministar zdravlja donosi

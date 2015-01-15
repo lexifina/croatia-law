@@ -1,0 +1,4 @@
+# Članak 12.
+Referentni laboratoriji za GMO provode postupke analize referentnih uzoraka uzetih u provedbi službenih kontrola, koordiniraju za svoje područje nadležnosti aktivnosti službenih laboratorija za GMO, prema potrebi provode usporedne testove između službenih laboratorija za GMO i druge potrebne daljnje aktivnosti poslije takvih testova uspoređivanja te obavljaju i druge poslove propisane Uredbom (EZ) br. 882/2004.
+Ministar odlukom određuje jedan Nacionalni referentni laboratorij za GMO koji koordinira radom ostalih referentnih laboratorija za GMO.
+O provedenim analizama kontrole službenih uzoraka iz svojeg djelokruga Nacionalni referentni laboratorij za GMO najkasnije do 31. ožujka tekuće godine za prethodnu godinu podnosi Ministarstvu izvješće o svojem radu i radu referentnih laboratorija za GMO. Na osnovi tog izvješća izrađuje se zajednički godišnji plan službenih kontrola u svrhu ispitivanja GMO-a na području Republike Hrvatske.

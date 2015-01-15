@@ -1,0 +1,4 @@
+# Članak 3.
+U smislu ovoga Pravilnika pojedini pojmovi imaju sljedeće značenje:
+službeni laboratorij za GMO je pravna osoba ili organizacijska jedinica (cjelina) unutar pravne osobe koja je ovlaštena od strane ministarstva nadležnog za zdravlje (u daljnjem tekstu: Ministarstvo) za ispitivanje, kontrolu i praćenje GM hrane i GM hrane za životinje te hrane/ hrane za životinje koja može sadržavati i/ili se sastojati ili potjecati od GMO-a, za provedbu službenih kontrola
+referentni laboratorij za GMO je pravna osoba ili organizacijska jedinica (cjelina) unutar pravne osobe koja je ovlaštena od strane Ministarstva kao referentna organizacija ili jedinica za ispitivanje, kontrolu i praćenje GM hrane i GM hrane za životinje te hrane/hrane za životinje koja može sadržavati i/ili se sastojati ili potjecati od GMO-a, za provedbu službenih kontrola.

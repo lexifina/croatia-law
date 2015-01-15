@@ -1,0 +1,1 @@
+Pravilnik o ovlašćivanju službenih i referentnih laboratorija za genetski modificiranu hranu i genetski modificiranu hranu za životinje i hranu/hranu za životinje koja može sadržavati i/ili se sastojati ili potjecati od genetski modificiranih organizama
