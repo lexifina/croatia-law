@@ -1,0 +1,3 @@
+## I. OPĆE ODREDBE
+# Članak 1.
+Ovim Pravilnikom propisuje se oblik i sadržaj registra udruga i registra stranih udruga, zahtjeva za upis u registar udruga i registar stranih udruga, zahtjeva za upis promjena u registar udruga i registar stranih udruga, sadržaj izvatka iz registra udruga i registra stranih udruga, razvrstavanje udruga, način podnošenja zahtjeva za upis u registar udruga i registar stranih udruga, te način upisa i vođenja registra udruga i registra stranih udruga, zbirki isprava, prestanak postojanja udruga sa svojstvom pravne osobe i prestanak djelovanja stranih udruga u Republici Hrvatskoj.
