@@ -1,0 +1,7 @@
+# Članak 1.
+U Pravilniku o utvrđivanju kvote za zapošljavanje osoba s invaliditetom (»Narodne novine«, broj 44/14) u članku 2. stavku 3. briše se točka, dodaje se zarez i riječi: »pod uvjetom da je agencija upisana u evidenciju agencija za privremeno zapošljavanje ministarstva nadležnog za rad.«.
+Iza stavka 4. dodaje se novi stavak 5. koji glasi:
+»(5) Iz ukupnog broja zaposlenih na temelju kojeg se utvrđuje kvota izuzimaju se radnici zaposleni na poslovima Oružanih snaga Republike Hrvatske, policijskim poslovima, poslovima zaštite i spašavanja, poslovima zaštite osoba i imovine, te poslovima vatrogasaca i pirotehničara na koje se, sukladno Zakonu o zaštiti na radu, primjenjuju posebni propisi o zaštiti na radu.
+Dosadašnji stavci 5. i 6. koji postaju stavci 6. i 7. mijenjaju se i glase:
+»(6) Poslodavac koji smatra da se na određeno radno mjesto zbog posebnih uvjeta rada ne mogu zaposliti osobe s invaliditetom i da se isto treba izuzeti iz ukupnog broja radnih mjesta na temelju kojih se utvrđuje kvota, dužan je zatražiti suglasnost Zavoda za vještačenje, profesionalnu rehabilitaciju i zapošljavanje osoba s invaliditetom (u daljnjem tekstu: Zavod), uz prethodno pribavljeno mišljenje Hrvatskog zavoda za zaštitu zdravlja i sigurnosti na radu.
+(7) Odredbe ovoga Pravilnika ne primjenjuju se na predstavništva stranih osoba, strana diplomatska i konzularna predstavništva te integrativne i zaštitne radionice.«.
