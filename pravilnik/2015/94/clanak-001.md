@@ -1,0 +1,2 @@
+# Članak 1.
+U Pravilniku o uvjetima kriterijima i načinu dodjele potpore u okviru mjere 1.1. »Trajna obustava ribolovnih aktivnosti« (»Narodne novine«, broj 151/2014), u članku 4. na kraju točke d) umjesto točke-zarez stavlja se točka i dodaju riječi: »Za ribarska plovila koja su uvezena u Republiku Hrvatsku i koja su po uvozu upisana u Registar ribarske flote Republike Hrvatske, kod izračuna starosti plovila primjenjuje se godina kada je plovilu po prvi put izdana Svjedodžba o sigurnosti kao ribarskom plovilu od strane pomorske uprave države iz koje je plovilo uvezeno;«
