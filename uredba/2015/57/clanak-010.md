@@ -1,0 +1,3 @@
+# Članak 10.
+Služba za pravne poslove izrađuje opći dio dokumentacije za nadmetanje i ostalu potrebnu dokumentaciju, sudjeluje u izradi javno-nabavne strategije u okviru svoga djelokruga odnosno daje prijedlog adekvatne vrste postupka javne nabave i vrste okvirnog sporazuma za određenu nabavnu kategoriju; obavlja poslove vezane uz provedbu postupka, sklapanje i tumačenje ugovora i okvirnih sporazuma te izrađuje okvirne sporazume, ugovore o javnoj nabavi i upute; očituje se na podnesene pravne lijekove; objavljuje sklopljene okvirne sporazume i ugovore te obavlja i druge poslove u okviru svoga djelokruga.
+4.2. Služba za upravljanje ugovorima i okvirnim sporazumima
