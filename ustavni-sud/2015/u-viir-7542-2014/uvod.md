@@ -1,0 +1,1 @@
+Ustavni sud Republike Hrvatske, u sastavu Jasna Omejec, predsjednica te suci Mato Arlović, Marko Babić, Snježana Bagić, Slavica Banić, Mario Jelušić, Davor Krapac, Antun Palarić, Aldo Radolović, Duška Šarin i Miroslav Šeparović, rješavajući o zahtjevu za nadzor nad ustavnošću i zakonitošću provođenja državnog referenduma, na sjednici održanoj 12. siječnja 2015. donio je
