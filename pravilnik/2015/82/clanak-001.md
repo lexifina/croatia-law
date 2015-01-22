@@ -1,0 +1,3 @@
+## I. OPĆE ODREDBE
+# Članak 1.
+Ovim Pravilnikom se utvrđuje način obračuna i isplate novčanih naknada koje se ostvaruju na osnovi oštećenja organizma HRVI iz Domovinskog rata, gubitka, zatočenja ili nestanka hrvatskog branitelja iz Domovinskog rata, te materijalnih i drugih potreba HRVI i hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji prema Zakonu o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, broj 174/04., 92/05., 02/07., 107/07., 65/09., 137/09., 146/10., 55/11., 140/12., 19/13 - pročišćeni tekst, 33/13., 148/13. i 92/14, u daljnjem tekstu: Zakon).

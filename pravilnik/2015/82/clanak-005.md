@@ -1,0 +1,7 @@
+# Članak 5.
+1) Ministarstvo korisnicima prava isplaćuje novčana prava iz članka 2. ovoga Pravilnika uplatom na štedne knjižice i tekuće račune, jednom mjesečno putem Hrvatske poštanske banke ili druge poslovne banke koju izabere korisnik prava i s kojom Ministarstvo ima sklopljen ugovor o poslovnoj suradnji.
+2) Korisnik prava podatke o poslovnoj banci i podatke o štednoj knjižici ili tekućem računu za isplatu novčanih prava iz članka 2. ovoga Pravilnika dostavlja prvostupanjskom tijelu koje će te podatke i sve promjene tih podataka unijeti u zahtjev iz članka 6. stavka 2. ovoga Pravilnika, u slučaju kada se radi o poslovnoj banci s kojom je Ministarstvo sklopilo ugovor o poslovnoj suradnji.
+3) Kada korisnik novčanih prava izabere poslovnu banku s kojom Ministarstvo nema sklopljen ugovor o poslovnoj suradnji, prvostupanjsko tijelo će o izabranoj poslovnoj banci ili promjeni poslovne banke odmah po prijemu podataka obavijestiti Ministarstvo u smislu potrebe sklapanja ugovora o poslovnoj suradnji.
+4) Ministarstvo je obvezno u roku od dva mjeseca od dana prijema zahtjeva iz članka 6. stavka 2. ovoga Pravilnika isplatiti novčana prava putem izabrane ili promijenjene poslovne banke s kojom ima sklopljen ugovor o poslovnoj suradnji.
+5) Ministarstvo je obvezno u roku od šest mjeseci od dana prijema obavijesti o poslovnoj banci i tekućem računu iz stavka 3. ovoga članka isplatiti novčana prava putem izabrane ili promijenjene poslovne banke.
+6) Isplata novčanih naknada prema rješenjima o ovrsi obavlja se u rokovima za isplatu redovnih novčanih naknada.
