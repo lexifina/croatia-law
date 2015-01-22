@@ -1,0 +1,1 @@
+Na temelju članka 19., članka 21., članka 41., članka 43., članka 44. i članka 64. Zakona o slatkovodnom ribarstvu (»Narodne novine«, br. 106/01, 7/03, 174/04 i 10/05 - ispravak, 49/05 - pročišćeni tekst i 14/2014) ministar poljoprivrede donosi
