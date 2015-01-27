@@ -1,0 +1,2 @@
+# Članak 2.
+Tekst Sporazuma iz članka 1. ovog Zakona, u izvorniku na hrvatskom jeziku glasi:
