@@ -1,0 +1,2 @@
+R J E Š E N J E
+Ne prihvaćaju se prijedlozi za pokretanje postupka za ocjenu suglasnosti s Ustavom članka 2., članka 5., članka 6. stavaka 1. i 3., članka 7., članka 8. stavka 4., članaka 11., 12., 13., 14. i 15., članka 17. stavaka 2., 3. i 5., članka 19. stavka 1., članka 22. stavka 5. te članka 42. Zakona o postupanju s nezakonito izgrađenim zgradama ("Narodne novine" broj 86/12. i 143/13.), kao i Zakona o postupanju s nezakonito izgrađenim zgradama u cjelini.
