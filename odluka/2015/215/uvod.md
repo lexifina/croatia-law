@@ -1,0 +1,1 @@
+Na temelju članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/2011 i 119/2014), a u vezi s člankom 42. podstavkom 1. Zakona o kvaliteti zdravstvene zaštite i socijalne skrbi (»Narodne novine«, broj 124/2011), Vlada Republike Hrvatske je na sjednici održanoj 29. siječnja 2015. godine donijela
