@@ -1,0 +1,27 @@
+# Članak 3.
+Aplikacija iz članka 2. ovoga Pravilnika obavezno sadrži podatke o:
+- broju obavljenih inspekcijskih nadzora (redni broj u aplikaciji),
+- osobnom identifikacijskom broju (OIB), nazivu i sjedištu i adresi subjekta nadzora,
+- oznaci spisa predmeta prema propisima o uredskom poslovanju,
+- datumima, vremenu i mjestu pregleda
+- oznaci države i registraciji vozila
+- vrsti prijevoza, odnosno vrsti licencije
+- kategoriji prijevoznika po vrstama
+- broju analognog, odnosno digitalnog tahografa
+- ukupnom broj pregledanih tahografa
+- broju pregledanih vozača
+- broju pregledanih tvrtki i vozila u tvrtkama
+- broju poduzetih radnji u postupku inspekcijskog nadzora
+- propisima čija se primjena nadzire,
+- poduzetim upravnim mjerama (vrste upravnih rješenja)
+- opisu prekršaja
+- ukupno počinjenim prekršajima
+- ukupno počinjenim prekršajima kategorije I, II i III
+- količini tereta
+- izrečenim prekršajnim sankcijama, zaštitnim mjerama, mjerama upozorenja (PN, OPN, OP, RON, ROI i ROZ)
+- naplaćenim kaznama
+- izrečenim troškovima postupka
+- naplaćenim troškovima postupka
+- sudskim presudama
+- pravomoćnim sudskim presudama
+- ostalim podacima i napomenama inspektora u svezi s provedenim inspekcijskim pregledima.

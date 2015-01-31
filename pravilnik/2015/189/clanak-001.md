@@ -1,0 +1,3 @@
+# Članak 1.
+(1) Ovim Pravilnikom propisuje se sadržaj, oblik i način vođenja elektroničkog očevidnika (u daljnjem tekstu: e-očevidnik) kojeg vode inspektori cestovnog prometa i inspektori cesta (u daljnjem tekstu: inspektori) u provođenju inspekcijskih pregleda nad primjenom propisa u cestovnom prometu i cestovnoj infrastrukturi.
+(2) Radi osiguranja uvida u provođenje inspekcijskih pregleda i podataka o poduzetim mjerama Inspekcija cestovnog prometa i cesta Ministarstva pomorstva, prometa i infrastrukture (u daljnjem tekstu: inspekcija) dužna je voditi očevidnik svih obavljenih inspekcijskih pregleda iz djelatnosti inspekcije kao i voditi evidenciju o poduzetim mjerama.
