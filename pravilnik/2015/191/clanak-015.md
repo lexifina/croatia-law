@@ -1,0 +1,2 @@
+# Članak 15.
+Ukoliko način na koji se smije obavljati mali obalni ribolov i/ili način na koji se smiju koristiti ribolovni alati i oprema u malom obalnom ribolovu nije propisan ovim Pravilnikom, primjenjuju se odredbe Zakona o morskom ribarstvu i propisa donesenih na temelju njega koji se odnose na način uporabe i namjenu ribolovnih alata i opreme koji se smiju koristiti kod obavljanja gospodarskog ribolova na moru, kao i odredbe propisa koji se odnose na povlastice i registar povlastica te mjere upravljanja ribarskom flotom.
