@@ -1,0 +1,6 @@
+## II. SASTAV I OBVEZE LIJEČNIČKIH POVJERENSTAVA ZAVODA
+# Članak 5.
+(1) Liječnička povjerenstva Zavoda iz članka 3. ovoga Pravilnika djeluju u vijećima od 3 člana.
+(2) Članove vijeća liječničkog povjerenstva regionalnih ureda Zavoda imenuje i razrješuje voditelj regionalnog ureda Zavoda, a članove vijeća liječničkih povjerenstava Direkcije Zavoda iz članka 3. stavka 1. točke 2. do 4. ovoga Pravilnika imenuje i razrješuje ravnatelj Zavoda.
+(3) Za člana liječničkog povjerenstva regionalnog ureda Zavoda i liječničkih povjerenstva Direkcije Zavoda iz članka 3. stavka 1. točke 2. do 4. ovoga Pravilnika može biti imenovan doktor medicine s najmanje tri godina radnog iskustva u struci ili doktor medicine specijalist, odnosno doktor dentalne medicine s najmanje tri godina radnog iskustva u struci ili doktor dentalne medicine specijalist, koji imaju odobrenje (licencu) za rad nadležne komore.
+(4) Jedan član vijeća liječničkog povjerenstva Direkcije Zavoda iz članka 3. stavka 1. točke 2. i 4. ovoga Pravilnika obvezno mora biti doktor medicine specijalist, a jedan član liječničkog povjerenstva za ortopedska i druga pomagala Direkcije Zavoda iz članka 3. stavka 1. točke 3. ovoga Pravilnika doktor medicine specijalist ortoped ili fizijatar, koji imaju najmanje tri godina radnog iskustva u struci i odobrenje (licencu) za rad nadležne komore.

@@ -1,0 +1,3 @@
+# Članak 2.
+(1) Liječnička povjerenstva Zavoda sudjeluju u postupcima pokrenutim radi ostvarivanja prava iz obveznog zdravstvenog osiguranja provođenjem stručno-medicinskog vještačenja o postojanju medicinskih indikacija za priznavanje prava osiguranih osoba Zavoda (u daljnjem tekstu: osigurane osobe) na zdravstvenu zaštitu i drugih prava iz obveznog zdravstvenog osiguranja u skladu sa Zakonom, općim aktima Zavoda i ovim Pravilnikom.
+(2) Osim u postupcima iz stavka 1. ovoga članka liječnička povjerenstva Zavoda sudjeluju i u postupcima pokrenutim radi ostvarivanja drugih prava osiguranih osoba kada ih na to ovlašćuje poseban zakon.

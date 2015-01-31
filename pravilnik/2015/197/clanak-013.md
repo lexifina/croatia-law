@@ -1,0 +1,4 @@
+# Članak 13.
+(1) Kada liječničko povjerenstvo regionalnog ureda Zavoda daje nalaz, mišljenje i ocjenu na osnovi pregleda osigurane osobe pregled se obavlja u odgovarajućoj prostoriji područne službe, odnosno regionalnog ureda Zavoda.
+(2) Ako se osigurana osoba nalazi na bolničkom liječenju ili zbog svog zdravstvenog stanja nije u mogućnosti doći na pregled u prostorije Zavoda, liječničko povjerenstvo regionalnog ureda Zavoda pregled osigurane osobe obavlja u zdravstvenoj ustanovi ili u kući osigurane osobe.
+(3) U slučaju kada se pregled obavlja u zdravstvenoj ustanovi ili u kući osigurane osobe, pregled obavlja jedan član vijeća liječničkog povjerenstva regionalnog ureda Zavoda koji je o izvršenom pregledu obvezan sačiniti pisani nalaz koji se unosi u nalaz, mišljenje i ocjenu u okviru nalaza iz članka 8. stavka 1. ovoga Pravilnika.
