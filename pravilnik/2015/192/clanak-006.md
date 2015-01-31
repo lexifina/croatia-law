@@ -1,0 +1,2 @@
+# Članak 6.
+Količina plinskog ulja za koju korisnik može ostvariti potporu ne može biti veća od ukupno odobrene količinu plinskog ulja obojanog plavom bojom iz kartice »Gorivo za poljoprivredu i ribarstvo«, koju dodjeljuje nadležno tijelo koje je izdalo povlasticu za ribolov ili povlasticu za uzgoj ribe i drugih morskih organizama sukladno Pravilniku o primjeni Zakona o trošarinama što se odnosi na plinsko ulje obojano plavom bojom za namjene u poljoprivredi, ribolovu, ribogojstvu i akvakulturi (»Narodne novine«, broj 156/2013).
