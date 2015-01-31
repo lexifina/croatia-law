@@ -1,0 +1,2 @@
+# Članak 9.
+Okvirni broj državnih službenika i namještenika, potrebnih za obavljanje poslova iz djelokruga Ministarstva, prikazan u tablici, koja je sastavni dio Uredbe o unutarnjem ustrojstvu Ministarstva poduzetništva i obrta (»Narodne novine«, br. 21/2012, 19/2013 i 37/2014), zamjenjuje se Okvirnim brojem državnih službenika i namještenika Ministarstva poduzetništva i obrta, prikazan u tablici koja je sastavni dio ove Uredbe.
