@@ -1,0 +1,2 @@
+# Članak 3.
+U članku 9. stavak 3 mijenja se i sada glasi: »(3) Ukoliko je podnositelj ovlaštenik više povlastica za gospodarski ribolov na moru ili više povlastica za uzgoj ili akvakulturu, može ostvariti pravo na sufinanciranje po svakoj povlastici koje je ovlaštenik, pri čemu za svaku ne mora podnijeti zasebni Zahtjev za potporu, ali isto mora biti razvidno iz podnesenog Zahtjeva i prateće dokumentacije.«
