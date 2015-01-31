@@ -1,0 +1,47 @@
+PRILOG 1.
+I.
+IZJAVA
+O USTUPANJU DRŽAVNE KVOTE ZA ULOV TUNE
+(Thunnus thynnus)
+Ja, ____________________________________________________
+ime i prezime (broj osobne iskaznice) / naziv pravne osobe zastupana po - ime i prezime
+(broj osobne iskaznice) / vlasnik/ovlaštenik povlastice - koji ustupa kvotu
+izjavljujem da kvotu za ulov tune (Thunnus thynnus)
+koja je dodijeljena plovilu ___________________________________,
+(ime i/ili registarska oznaka)
+CFR_______________________, u količini od _____________tona od državne kvote namijenjene za ribolov plivaricama tunolovkama/udičarskim alatima u RH za 2015. godinu, ustupam
+_______________________________________________________
+ime i prezime (broj osobne iskaznice) / naziv pravne osobe zastupana po - ime i prezime
+(broj osobne iskaznice) / vlasniku/ ovlašteniku povlastice - kome se ustupa kvota
+za plovilo ______________________________________________,
+(ime i/ili registarska oznaka)
+CFR_______________________, u količini od _____________tona od državne kvote namijenjene za ribolov plivaricama tunolovkama/udičarskim alatima u RH za 2015. godinu.
+U__________________, ________________ 20___. godine
+mjesto i datum potpisivanja izjave
+____________________________ _______________________
+potpis i pečat davatelja kvote potpis i pečat primatelja kvote
+II.
+IZJAVA
+O USTUPANJU TRAJNE INDIVIDUALNE KVOTE ZA ULOV TUNE
+(Thunnus thynnus)
+Ja, ____________________________________________________
+ime i prezime (broj osobne iskaznice) / naziv pravne osobe zastupana po - ime i prezime
+(broj osobne iskaznice) / vlasnik/ovlaštenik povlastice - koji ustupa kvotu
+izjavljujem da kvotu za ulov tune (Thunnus thynnus)
+koja je dodijeljena plovilu ____________________________________,
+(ime i/ili registarska oznaka)
+CFR_______________________, u količini od _____________% od trajne individualne kvote namijenjene za ribolov plivaricama tunolovkama (367 tona) / udičarskim alatima (7,5 tona) u RH ustupam:
+a) za godinu____________
+b) za višegodišnji period od _________ godine do ___________ godine (maksimalno do 2019. godine)
+(zaokruži opciju)
+_______________________________________________________
+ime i prezime (broj osobne iskaznice) / naziv pravne osobe zastupana po - ime i prezime
+(broj osobne iskaznice) / vlasniku/ ovlašteniku povlastice - kome se ustupa kvota
+za plovilo _______________________________________________,
+(ime i/ili registarska oznaka)
+CFR_______________________, u količini od _____________tona od trajne individualne kvote namijenjene za ribolov plivaricama tunolovkama/udičarskim alatima u RH.
+U__________________, ________________ 20___. godine
+mjesto i datum potpisivanja izjave
+____________________________ _______________________
+potpis i pečat davatelja kvote potpis i pečat primatelja kvote
+11 30.01.2015 Pravilnik o izmjenama i dopunama Pravilnika o ulovu, uzgoju i prometu tune (Thunnus thynnus), iglua (Xiphias gladius) i iglana (Tetrapturus belone)

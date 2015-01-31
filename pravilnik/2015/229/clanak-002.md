@@ -1,0 +1,3 @@
+# Članak 2.
+(1) U članku 5. stavku 3. nakon druge rečenice dodaje se rečenica koja glasi: »Ograničenja koja se odnose na kvotu u zajedničkoj ribolovnoj radnji i postupci opisani ovim stavkom u slučaju prekoračenja istih, primjenjuju se na raspodjelu kvote po zajedničkim ribolovnim radnjama u okvirima izlovne kvote Republike Hrvatske dodijeljene plivaricama tunolovkama sukladno stavku 3. članka 4. te se ograničenja ne primjenjuju na kvotu koja je porijeklom iz kvote zemalja članica ICCAT-a (uključujući zemlje članice Europske unije i ugovorne strane ICCAT-a izvan Europske unije).«
+(2) U članku 5. stavcima 5. i 7. riječi »5. veljače« zamjenjuju se riječima »28. veljače«.
