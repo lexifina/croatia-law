@@ -1,0 +1,3 @@
+# Članak 16.
+Igre klađenja jesu igre u kojima sudionici (igrači) pogađaju ishode različitih događaja predloženih od priređivača klađenja, a okolnost koja odlučuje o dobitku ili gubitku ne smije biti nikome unaprijed poznata i mora biti takve naravi da na nju ne mogu utjecati ni priređivači ni igrači, a iznos dobitka ovisi o visini uloga po kombinaciji i o tečaju pojedinog događaja (sportsko klađenje, klađenje na virtualne događaje (npr. utrke konja i pasa), klađenje na ostale događaje prema ponudi priređivača i slično).
+2. Postupak izvješćivanja o dnevnom obračunu rezultata poslovanja od priređivanja igara klađenja

@@ -1,0 +1,2 @@
+# Članak 39.
+Obrasce za konačni mjesečni obračun naknade od priređivanja lutrijskih igara na sreću, igara na sreću u casinima, igara klađenja i igara na sreću na automatima, za mjesec siječanj 2015. godine, te obrasce za konačno mjesečno izvješće o obračunanom porezu na dobitke od lutrijskih igara i igara klađenja, za mjesec siječanj 2015. godine, priređivači su dužni dostaviti prema odredbama ovoga Pravilnika.

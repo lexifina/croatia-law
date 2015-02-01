@@ -1,0 +1,71 @@
+# Članak 29.
+(1) Priređivač je dužan dostaviti Ministarstvu financija obrazac Konačni mjesečni obračun naknade od priređivanja igara na sreću u casinima i održanih turnira (obrazac br. 19 NP-ISC) najkasnije do dvadesetog dana u tekućem mjesecu za prethodni mjesec, elektroničkim putem, korištenjem sustava elektroničkog servisa Porezne uprave ePorezna.
+(2) Obrazac Konačni mjesečni obračun naknade od priređivanja igara na sreću u casinima i održanih turnira (obrazac br. 19 NP-ISC) obvezno mora sadržavati sljedeće:
+1. podatke o tvrtki i sjedištu društva
+2. osobni identifikacijski broj priređivača (OIB)
+3. oznaku lokacije
+4. broj automata za igre na sreću
+5. broj elektronskih rouletta do 6 igraćih mjesta
+6. broj elektronskih rouletta s više od 6 igraćih mjesta
+7. broj stolova u uporabi
+8. broj elektronskih stolova za igre na sreću u uporabi
+9. razdoblje za koje se obračun podnosi
+10. popis vrsta igara koje priređivač priređuje u casinu
+11. ukupne uplate
+12. ukupne isplate
+13. osnovicu za obračun naknade
+14. iznos naknade
+15. mjesto i datum izrade obračuna
+16. odgovorna osoba.
+(3) Priređivač je obvezan izraditi mjesečni obračun i uplatiti naknadu odvojeno po vrstama igara navedenim u stavku 2. točka 10. ovoga članka.
+Obrazac br. 19 NP-ISC - Konačni mjesečni obračun naknade od priređivanja igara na sreću u casinima i održanih turnira
+PODACI O TVRTKI I SJEDIŠTU DRUŠTVA OIB PRIREĐIVAČA:
+OZNAKA LOKACIJE: BROJ AUTOMATA ZA IGRE NA SREĆU:
+BROJ ELEKTRONSKIH ROULETTA DO 6 IGRAĆIH MJESTA: BROJ ELEKTRONSKIH ROULETTA S VIŠE OD 6 IGRAĆIH MJESTA:
+BROJ STOLOVA U UPORABI: BROJ ELEKTRONSKIH STOLOVA ZA IGRE NA SREĆU U UPORABI:
+KONAČNI MJESEČNI OBRAČUN NAKNADE OD PRIREĐIVANJA IGARA NA SREĆU U CASINIMA I ODRŽANIH TURNIRA ZA ______ (mj) ______ (god)
+R. br.
+VRSTA IGRE
+UKUPNA UPLATA ZA REDNI BROJ 2., 3. i 4.
+UKUPNA ISPLATA ZA REDNI BROJ 2., 3. i 4.
+REZULTAT (OSNOVICA)
+IZNOS NAKNADE
+1
+2
+3
+4
+5
+6 (5.1, 5.2, 5.3, 5.4 × 15%)
+(5.5 × 25%)
+1.
+UKUPNO STOLOVI ZA IGRE NA SREĆU
+2.
+UKUPNO ELEKTRONSKI STOLOVI ZA IGRE NA SREĆU (GSB)
+3.
+AUTOMATI ZA IGRE NA SREĆU
+4.
+AUTOMATI ZA IGRE NA SREĆU S VIŠE SJEDEĆIH MJESTA
+UKUPNO
+5.
+TURNIR
+SVEUKUPNO
+Mjesto i datum izrade obračuna Odgovorna osoba
+___________________________ ______________________
+(4) Priređivač je dužan voditi mjesečnu evidenciju o izgubljenim, uništenim ili na drugi način otuđenim žetonima.
+(5) Priređivač koji je automate za igre na sreću povezao radi dobivanja kumulativnih dobitaka dužan je izraditi mjesečno Izvješće o ostvarenom dobitku jack-pota (obrazac br. 20-Prilog 3). Obrazac mora obavezno sadržavati podatke o serijskom broju automata na kojem je jack-pot ostvaren, datumu i vremenu kada je ostvaren te iznosu jack-pot dobitka.
+(6) Priređivač je dužan obrazac Izvješće o ostvarenom jack-potu (obrazac br. 20 - Prilog 3), dostaviti Ministarstvu financija elektroničkim putem, korištenjem sustava elektroničkog servisa Porezne uprave ePorezna zaključno dvadesetoga dana u tekućem mjesecu za prethodni mjesec. Obrazac se dostavlja u PDF formatu kao prilog obrascu br. 19.
+(7) Ako priređivač igara na sreću u casinima ima odobrenje Ministarstva financija i za priređivanje casino igara putem interaktivnih prodajnih kanala on-line igranja, dužan je podatke iz stavka 2. ovoga članka za interaktivne prodajne kanala on-line igranja iskazivati odvojeno od podataka za standardna casina.
+Obrazac br. 20 - Prilog 3
+Izvješće o ostvarenom jack-pot dobitku
+PODACI O TVRTKI I SJEDIŠTU DRUŠTVA:
+OIB PRIREĐIVAČA:
+IZVJEŠĆE O OSTVARENOM JACK-POT DOBITKU
+ZA ____ (mj) _____ (god)
+SERIJSKI BROJ AUTOMATA ZA IGRE NA SREĆU
+DATUM
+VRIJEME
+IZNOS JACK-POT DOBITKA
+UKUPNO
+Odgovorna osoba
+________________
+3. Obračun i plaćanje mjesečne naknade od priređivanja igara klađenja, te sadržaj konačnog mjesečnog obračuna naknade od priređivanja igara klađenja i konačnog mjesečnog izvješća o obračunanom porezu na dobitke od igara klađenja
