@@ -1,0 +1,1 @@
+Odluka o raspisivanju prijevremenih izbora za gradsko vijeće i gradonačelnika te zamjenike gradonačelnika u gradovima Dubrovniku, Novom Marofu, Svetom Ivanu Zelini, Rabu, Pagu, Hvaru, Omišu, Korčuli i Zlataru te za općinsko vijeće i općinskog načelnika te zamjenike općinskog načelnika u općinama Kukljica, Rugvica, Milna, Petlovac, Čaglin, Strahoninec, Lumbarda i Gundinci
