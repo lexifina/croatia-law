@@ -1,0 +1,1 @@
+Odluka o davanju suglasnosti Vladi Republike Hrvatske na donošenje Obavijesti o namjeri davanja koncesije i dodjelu koncesije na pomorskom dobru u svrhu izgradnje i gospodarskog korištenja plaže na dijelu k.o. Brašina, a u svrhu realizacije turističkog razvojnog projekta Kupari, na lokaciji Kupari I. u Općini Župa dubrovačka
