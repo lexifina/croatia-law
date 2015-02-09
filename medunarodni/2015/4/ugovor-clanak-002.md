@@ -1,0 +1,6 @@
+# Članak 2.
+Ugovorne stranke će u području planiranja i razvoja turizma, u skladu sa zakonima, propisima, pravilima, postupcima i ustanovljenoj politici na snazi u njihovim zemljama, surađivati u slijedećem:
+A. Planiranje i razvoj: ugovorne stranke razmjenjivat će stručna saznanja, publikacije, informacije, podatke i statističke pokazatelje između dviju zemalja;
+B. Marketing i promocija: ugovorne stranke surađivat će na ovom području razmjenom programa, reklamnog i promotivnog materijala, publikacija, filmova, promocijom i marketingom njihovih turističkih proizvoda putem medija, pozivanjem državljana i stanovnika svake od dviju zemalja na posjet u svrhu odmora, izleta i boravka u kampovima za mlade u drugoj zemlji, kao i pozivanjem predstavnika medija i turističkih stručnjaka na razmjenu turističkih obilazaka dviju zemalja;
+C. Suradnja između privatnih turističkih sektora: ugovorne stranke podržavat će snažnu suradnju između turističkih sektora, organizatora turističkih putovanja, putničkih agenata i drugih poduzeća i ureda iz privatnog turističkog sektora u dvjema zemljama;
+D. Ulaganja u turizam: ugovorne stranke poticat će javni i privatni sektor na ulaganje u turizam. Poseban značaj bit će usmjeren na razvoj i provedbu turističkih projekata na dobrobit ugovornih stranaka.
