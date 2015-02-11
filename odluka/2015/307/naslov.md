@@ -1,0 +1,1 @@
+Odluka o izmjenama i dopunama Odluke o provedbi Provedbene uredbe Komisije (EU) br. 680/2014 o utvrđivanju provedbenih tehničkih standarda o nadzornom izvješćivanju institucija u skladu s Uredbom (EU) br. 575/2013
