@@ -1,0 +1,1 @@
+Na temelju članka 77. i članka 43. stavka 2. točke 9. i stavka 5. Zakona o Hrvatskoj narodnoj banci (»Narodne novine«, br. 75/2008. i 54/2013.) guverner Hrvatske narodne banke donio je 6. veljače 2015.
