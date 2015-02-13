@@ -1,0 +1,1 @@
+Na temelju članka 23. stavka 4., članka 25. stavka 5. i članka 29. stavka 2. Zakona o radnom vremenu, obveznim odmorima mobilnih radnika i uređajima za bilježenje u cestovnom prijevozu (»Narodne novine«, broj 75/2013), ministar pomorstva, prometa i infrastrukture donosi
