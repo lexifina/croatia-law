@@ -1,0 +1,2 @@
+# Članak 1.
+U Uredbi o mjerama i naknadama za prekomjerne i špekulativne zalihe poljoprivrednih i prehrambenih proizvoda i proizvoda iz sektora šećera (»Narodne novine«, broj 77/2013) u članku 2. alineji 1. briše se točka zarez i dodaju se riječi: »kako je posljednji put izmijenjena Provedbenom uredbom Komisije (EU) br. 968/2014 od 12. rujna 2014. o izmijeni Provedbene uredbe (EU) br. 170/2013 o utvrđivanju prijelaznih mjera u sektoru šećera zbog pristupanja Hrvatske (SL L 272, 13. 9. 2014.)«.
