@@ -1,0 +1,8 @@
+# Članak 19.
+U članku 68. stavak 1. mijenja se i glasi:
+»(1) Vlada može na prijedlog Ministarstva financija, a po zahtjevu dužnika, uz mišljenje nadležnog tijela odgoditi plaćanje ili odobriti obročnu otplatu duga, odnosno prodati, otpisati ili djelomično otpisati potraživanje ako se time bitno poboljšavaju mogućnosti otplate duga dužnika od kojega inače ne bi bilo moguće naplatiti cjelokupan dug.«.
+Stavak 3. mijenja se i glasi:
+»(3) Iznimno od stavka 1. ovoga članka, Ministarstvo financija može po zahtjevu dužnika uz mišljenje nadležnog tijela odgoditi plaćanje ili odobriti obročnu otplatu duga, odnosno prodati, otpisati ili djelomično otpisati potraživanje do iznosa utvrđenog uredbom iz stavka 2. ovoga članka.«.
+Iza stavka 4. dodaju se stavci 5. i 6. koji glase:
+»(5) Vlada, Ministarstvo financija i jedinice lokalne i područne (regionalne) samouprave dužni su javno objaviti podatke o visini duga i dužnicima kojima su odobrili odgodu plaćanja ili obročnu otplatu duga, odnosno javno objaviti podatke o visini duga i dužnicima prema kojima su svoja potraživanja prodali, otpisali ili djelomično otpisali.
+(6) Pod javnom objavom iz stavka 5. ovog članka smatra se objava na mrežnim stranicama Vlade, Ministarstva financija ili jedinice lokalne i područne (regionalne) samouprave u roku od 30 dana od pravomoćnosti rješenja, a sadrži: ime i prezime ili naziv poreznog obveznika, godinu rođenja fizičke osobe, mjesto prebivališta ili boravišta fizičke osobe ili sjedišta pravne osobe, ukupan iznos duga, vrstu odobrene mjere iz stavka 1. i 3. ovog članka te iznos prodanog ili otpisanog potraživanja.«
