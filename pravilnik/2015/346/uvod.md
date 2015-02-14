@@ -1,0 +1,1 @@
+Na osnovi članka 126. stavka 3. Zakona o obveznom zdravstvenom osiguranju (»Narodne novine«, broj 80/13. i 137/13.) i članka 26. točke 7. Statuta Hrvatskog zavoda za zdravstveno osiguranje (»Narodne novine«, broj 18/09., 33/10., 8/11., 18/13. i 1/14.) Upravno vijeće Hrvatskog zavoda za zdravstveno osiguranje na 78. sjednici održanoj 29. siječnja 2015. godine donijelo je
