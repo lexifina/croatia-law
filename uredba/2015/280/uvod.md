@@ -1,0 +1,1 @@
+Na temelju članka 7. stavka 2., članka 9. stavaka 4. i 9., članka 10. stavka 3., članka 14. stavka 2., članka 18. stavka 2., članka 19. stavka 10. i članka 20.a stavka 1. Zakona o javno-privatnom partnerstvu (»Narodne novine«, br. 78/2012 i 152/2014), Vlada Republike Hrvatske je na sjednici održanoj 5. veljače 2015. godine donijela
