@@ -1,0 +1,4 @@
+## Otkup dospjelih tražbina
+# Članak 9.
+(1) U smislu ovog Pravilnika, otkup dospjelih tražbina predstavlja otkup dospjelih nenaplaćenih tražbina od poslovnih subjekata koje nije izvršeno u roku predviđenom računom, ugovorom ili propisima kojima su uređeni rokovi ispunjenja novčanih obveza.
+(2) Faktoring-društvo ne smije vršiti otkup dospjelih nenaplaćenih plasmana ili otkup rizika i koristi s osnove dospjelih nenaplaćenih plasmana kreditne institucije kako je to definirano zakonom kojim se uređuju uvjeti za osnivanje, poslovanje i prestanak rada kreditnih institucija te pružanje bankovnih i/ili financijskih usluga i relevantnim odlukama Hrvatske narodne banke, niti otkup dospjelih nenaplaćenih tražbina ili otkup rizika i koristi s osnove tih tražbina nastalih po osnovi onih financijskih usluga koje imaju osnovno obilježje i svrhu financiranja, a obavljaju ih i drugi subjekti na temelju propisa koji se na te subjekte primjenjuju.
