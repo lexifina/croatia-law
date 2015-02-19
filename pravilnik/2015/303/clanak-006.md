@@ -1,0 +1,4 @@
+# Članak 6.
+(1) Odluku o primjeni mjera prisile donosi psihijatar, sukladno Zakonu o zaštiti osoba s duševnim smetnjama, kao krajnju mjeru kada sve poduzeto u pripremnom postupku nije postiglo učinak.
+(2) U slučaju iznimne žurnosti, odluku o primjeni mjera prisile mogu donijeti doktor medicine druge specijalnosti ili medicinska sestra/medicinski tehničar i o tome su obvezni odmah obavijestiti psihijatra.
+(3) Medicinske sestre/medicinski tehničari mogu primijeniti mjere prisile samo u iznenadnim i hitnim situacijama kada procjene da postoje ozbiljna opasnost da pacijent ugrozi osobnu i sigurnost okoline, a pritom obvezno procjenjuju: znakove nasilnog i samodestruktivnog ponašanja i posljedice koje bi mogle nastati ako nebi primijenili mjeru prisile, vodeći se pritom svojim saznanjem i iskustvom o ponašanju svakog pacijenta pojedinačno.

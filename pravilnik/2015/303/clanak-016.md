@@ -1,0 +1,5 @@
+# Članak 16.
+(1) Medicinska sestra/medicinski tehničar koji kontinuirano nadzire pacijenta svakih 15 minuta obvezan je unositi zabilješke u sestrinsku dokumentaciju.
+(2) U sestrinsku dokumentaciju upisuju se sljedeći podaci: ime i prezime pacijenta, datum i vrijeme primjene mjere prisile, razlog primjene mjere prisile, alternativne mjere koje su primijenjene u pripremnom postupku, trajanje mjere, sve promjene ponašanja i ponašanje pacijenta nakon primjene mjere prisile, cjelokupna njega pacijenta i mjere sigurnosti, unos i izlučivanje tekućine te pauze od primjene mjere prisile.
+(3) Doktor medicine koji redovito obilazi pacijenta upisuje u medicinsku dokumentaciju postupke primjene mjere prisile, mentalno i fizičko stanje pacijenta, vrijeme obilaska, sve intervencije te datum i sat prekida primjene mjere prisile.
+(4) U roku od 24 sata od prestanka mjere prisile doktor medicine obvezan je upisati podatke o psihičkom statusu, stupnju samokontrole, učinku farmakoterapije i realizaciji plana zdravstvene njege.
