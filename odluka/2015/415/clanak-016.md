@@ -1,0 +1,4 @@
+## Kabinet za društvene djelatnosti
+# Članak 16.
+Kabinet za društvene djelatnosti obavlja poslove izrade stručnih materijala i priprema iz područja kulture, odgoja i obrazovanja, znanosti, informiranja i medija, civilnog društva športa, tehničke kulture, zdravstvene zaštite i zdravstvenog i mirovinskog osiguranja, radnih odnosa, javnih službi, socijalne skrbi, položaja i zaštite prava vjerskih zajednica, zaštite i promicanja ljudskih prava i prava manjina u Republici Hrvatskoj; razmatra zakone i druge propise te obavlja poslove pismene i usmene korespondencije s tijelima državne vlasti u pitanjima iz svoje nadležnosti.
+Pored poslova iz stavka 1. ovog članka Kabinet za društvene djelatnosti obavlja poslove organizacije i pripreme programa aktivnosti Predsjednice Republike u navedenim područjima te obavlja i druge poslove po nalogu predstojnika Ureda i savjetnika za društvene djelatnosti.

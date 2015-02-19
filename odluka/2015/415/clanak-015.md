@@ -1,0 +1,4 @@
+## Kabinet za gospodarstvo
+# Članak 15.
+Kabinet za gospodarstvo obavlja poslove izrade stručnih materijala i priprema iz područja gospodarstva, trgovine, poljoprivrede, turizma, monetarnog sustava, financijskog i bankarskog sustava, carinskog sustava i carinske politike, zapošljavanja, tržišta rada, financiranja javnih potreba, državnog proračuna i izvanproračunskih fondova; razmatra zakone i druge propise u pitanjima iz svoje nadležnosti te obavlja poslove pismene i usmene korespondencije s tijelima državne vlasti, trgovačkim društvima, sindikatima, Hrvatskom gospodarskom komorom, Hrvatskom udrugom poslodavaca i drugim subjektima u pitanjima iz svoje nadležnosti.
+Pored poslova iz stavka 1. ovog članka Kabinet za gospodarstvo obavlja poslove organizacije i pripreme programa aktivnosti Predsjednice Republike u navedenim područjima te obavlja i druge poslove po nalogu predstojnika Ureda i savjetnika za gospodarstvo.

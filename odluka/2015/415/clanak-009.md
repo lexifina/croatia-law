@@ -1,0 +1,3 @@
+## 1. KABINET PREDSJEDNICE REPUBLIKE
+# Članak 9.
+Kabinet Predsjednice Republike posebna je ustrojstvena jedinica koja obavlja administrativne, stručne, protokolarne i koordinacijske poslove u vezi s realizacijom dnevnih, tjednih, mjesečnih i godišnjih programa aktivnosti Predsjednice Republike, poslove u vezi s odnosima sa sredstvima javnog informiranja; poslove obrade i pohrane tekuće dokumentacije Predsjednice Republike, stručne i administrativne poslove u vezi s evidencijom i pohranom povjerljive pošte. Kabinet Predsjednice Republike obavlja i druge poslove po nalogu Predsjednice Republike i predstojnika Ureda.

@@ -1,0 +1,6 @@
+## Posebni savjetnici i povjerenici
+# Članak 6.
+Zbog specifičnosti poslova u Uredu, Predsjednica Republike može, za obavljanje savjetodavnih i analitičkih poslova te poslova vezanih uz pripremu programa aktivnosti Predsjednice Republike, imenovati istaknute stručnjake radi obrade jednog ili više stručnih područja iz djelokruga Ureda, bez zasnivanja radnog odnosa, odnosno bez zasnivanja dužnosničkog ili službeničkog statusa u Uredu, u rangu posebnih savjetnika i povjerenika.
+Za obavljanje najsloženijih savjetodavnih poslova koji zahtijevaju posebna znanja i vještine te poslova pripreme programa aktivnosti Predsjednice Republike u više stručnih područja iz djelokruga Ureda, Predsjednica Republike može, pod uvjetima iz stavka 1. ovog članka, imenovati posebne savjetnike.
+Za obavljanje poslova pripreme programa aktivnosti Predsjednice Republike u pojedinačnim stručnim područjima iz djelokruga Ureda, Predsjednica Republike može, pod uvjetima iz stavka 1. ovog članka, imenovati povjerenike.
+Osobe iz stavka 2. i 3. ovog članka odgovaraju za svoj rad Predsjednici Republike i predstojniku Ureda, koordiniraju i usklađuju svoj rad s dužnosnicima i službenicima Ureda te ostvaruju pravo na naknadu za svoj rad i druga prava sukladno Pravilniku o unutarnjem redu.

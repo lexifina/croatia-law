@@ -1,0 +1,4 @@
+## Kabinet za mlade
+# Članak 17.
+Kabinet za mlade obavlja poslove izrade stručnih materijala i priprema iz područja politike mladih koja se odnosi na podizanje razine obrazovne strukture mladih, podizanja razine uključenosti mladih u društvene procese; obavlja poslove izrade stručnih materijala i priprema koji se odnose na zaštitu zdravlja mladih, promociju sportskih aktivnosti i zdravog života te prevenciju ovisnosti; obavlja poslove usklađivanja s politikama mladih Europske unije poglavito u odnosu podizanje razine zapošljavanja i životnog standarda mladih; razmatra zakone i druge propise te obavlja poslove pismene i usmene korespondencije s tijelima državne vlasti u pitanjima iz svoje nadležnosti.
+Pored poslova iz stavka 1. ovog članka Kabinet za mlade obavlja poslove organizacije i pripreme programa aktivnosti Predsjednika Republike u navedenim područjima te obavlja i druge poslove po nalogu predstojnika Ureda i nadležnog savjetnika.
