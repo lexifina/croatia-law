@@ -1,0 +1,6 @@
+## Određenje stope kamate i načina obračuna
+# Članak 8.
+(1) Ugovorom o faktoringu mora biti određena vrsta, visina i način obračuna, rokovi dospijeća i naplate kamate koju pružatelj usluga faktoringa zaračunava na predujmljeni dio kupoprodajne cijene predmeta faktoringa za razdoblje između isplate predujma i ugovorenog dana dospijeća plaćanja kupoprodajne cijene predmeta faktoringa.
+(2) Ako datum dospijeća plaćanja kupoprodajne cijene predmeta faktoringa nije ugovoren, uzima se da je kao datum dospijeća plaćanja kupoprodajne cijene predmeta faktoringa kod regresnog faktoringa ugovoren dan na koji dužnik predmeta faktoringa ispuni svoju obvezu pružatelju usluga faktoringa bez obzira na datum dospijeća predmeta faktoringa (dan naplate predmeta faktoringa), a kod bezregresnog faktoringa datum dospijeća predmeta faktoringa.
+(3) Ugovorom o faktoringu ili posebnim pisanim sporazumom između pružatelja usluge faktoringa i snositelja troška može se odrediti kako će trošak kamate snositi neka druga osoba kao snositelj troška.
+(4) U slučaju postojanja posebnog pisanog sporazuma iz stavka 3. ovoga članka ugovor o faktoringu mora sadržavati i naznaku da je kamatna stopa i način obračuna utvrđen posebnim sporazumom između pružatelja usluga faktoringa i snositelja troška kamate.
