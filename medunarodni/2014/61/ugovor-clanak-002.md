@@ -1,0 +1,7 @@
+# Članak 2.
+DEFINICIJA STVARNOG KORISNIKA
+(1) U svrhu ovoga Sporazuma, »stvarni korisnik« znači fizičku osobu kojoj je kamata isplaćena ili svaku fizičku osobu kojoj je isplata kamate osigurana, osim ako ta osoba ne pruži dokaz da kamata nije primljena ili osigurana u njezinu osobnu korist. Fizička osoba ne smatra se stvarnim korisnikom ako:
+(a) djeluje kao isplatitelj u smislu članka 4.(1) ovoga Sporazuma;
+(b) djeluje u ime pravne osobe, subjekta čija se dobit oporezuje prema općim načelima oporezivanja trgovačkih društava, fonda UCITS ovlaštenog u skladu s Direktivom 2009/65/EZ ili istovrsnog poduzeća za zajedničko ulaganje sa sjedištem u Guernseyu, ili subjekta iz članka 4.(2) ovoga Sporazuma i, u potonjem slučaju, gospodarskom subjektu koji isplaćuje kamatu priopćuje naziv i adresu tog subjekta, a on priopćuje takve informacije nadležnom tijelu u svojoj ugovornoj stranki sjedišta;
+(c) djeluje u ime druge fizičke osobe koja je stvarni korisnik i isplatitelju priopćava podatke o identitetu tog stvarnog korisnika.
+(2) Ako isplatitelj raspolaže informacijama koje ukazuju na to da fizička osoba kojoj je kamata isplaćena ili za koju je isplata kamata osigurana ne može biti stvarni korisnik, i ako se ne primjenjuje ni stavak (1)(a) niti (1)(b) ovoga članka, poduzet će razumne mjere za utvrđivanje identiteta stvarnog korisnika. Ako isplatitelj ne može utvrditi identitet stvarnog korisnika, postupat će prema toj fizičkoj osobi kao prema stvarnom korisniku.

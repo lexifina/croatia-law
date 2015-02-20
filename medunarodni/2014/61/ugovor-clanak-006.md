@@ -1,0 +1,9 @@
+# Članak 6.
+PRIJELAZNE ODREDBE ZA PRENOSIVE DUŽNIČKE VRIJEDNOSNE PAPIRE
+(1) Tijekom prijelaznog razdoblja, kako je određeno u članku 10.(2) Direktive, posebne se odredbe primjenjuju na one domaće i međunarodne obveznice i druge prenosive vrijednosne papire:
+- koji sadrže klauzulu o obračunu bruto iznosa ili klauzulu o ranijem otkupu; i,
+- ako isplatitelj ima sjedište u ugovornoj stranki koja primjenjuje porez po odbitku i ako isplatitelj isplaćuje kamatu ili osigurava isplatu kamate za izravnu korist stvarnog korisnika rezidenta u drugoj ugovornoj stranki.
+Takvi »prenosivi dužnički vrijednosni papiri« koji su prvi put izdani prije 1. ožujka 2001. ili ako su ih prije toga datuma odobrila nadležna tijela u smislu Direktive 80/390/EEZ ili odgovorna tijela u trećim zemljama, ne smatraju se tražbinom u smislu članka 5.(1)(a) ovoga Sporazuma, pod uvjetom da nije bilo daljnjeg izdavanja takvih prenosivih dužničkih vrijednosnih papira na dan ili nakon 1. ožujka 2002.
+Ako na dan ili nakon 1. ožujka 2002. država ili s njom povezani subjekt koji djeluje kao javnopravno tijelo ili čija je uloga priznata međunarodnim ugovorom, kako je određeno u Dodatku ovome Sporazumu, izvrši daljnje izdanje gore navedenih prenosivih dužničkih vrijednosnih papira, ukupno izdanje takvih vrijednosnih papira koje se sastoji od prvog i svih daljnjih izdanja smatra se tražbinom u smislu članka 5.(1)(a) ovoga Sporazuma.
+Ako na dan ili nakon 1. ožujka 2002. gore navedene dužničke vrijednosne papire izdaje bilo koji drugi izdavatelj koji nije naveden u drugom podstavku, takvo daljnje izdavanje smatra se tražbinom u smislu članka 5.(1)(a) ovoga Sporazuma.
+(2) Ništa u ovom članku nije zapreka ugovornim strankama za oporezivanje dohotka od prenosivih dužničkih vrijednosnih papira iz stavka (1) u skladu s njihovim nacionalnim propisima.
