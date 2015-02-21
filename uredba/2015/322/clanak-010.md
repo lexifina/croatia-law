@@ -1,0 +1,2 @@
+# Članak 10.
+Okvirni broj potrebnih državnih službenika i namještenika u Ministarstvu, prikazan u tablici koja je sastavni dio Uredbe o unutarnjem ustrojstvu Ministarstva zaštite okoliša i prirode (»Narodne novine«, broj 10/2014), zamjenjuje se Okvirnim brojem državnih službenika i namještenika Ministarstva zaštite okoliša i prirode koji je sadržan u tablici tiskanoj u prilogu ove Uredbe i čini sastavni dio Uredbe o unutarnjem ustrojstvu Ministarstva zaštite okoliša i prirode.
