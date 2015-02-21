@@ -1,0 +1,2 @@
+# Članak 9.
+U članku 17. riječi: »provodi drugostupanjski upravni postupak vezano uz žalbe na rješenja o razvrstavanju i kategorizaciji ugostiteljskih i turističkih objekata iz skupina: »Hoteli«, »Kampovi i druge vrste ugostiteljskih objekata za smještaj« i »Luke nautičkog turizma« i objekata u domaćinstvu i seljačkom domaćinstvu iz nadležnosti ureda državne uprave u županiji; poduzima radnje u upravnim sporovima pred upravnim sudovima i Visokim upravnim sudom u postupcima razvrstavanja i kategorizacije ugostiteljskih i turističkih objekata« brišu se.

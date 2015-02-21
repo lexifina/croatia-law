@@ -1,0 +1,1 @@
+Na temelju članka 63. stavka 2. Zakona o sustavu državne uprave (»Narodne novine«, br. 150/2011 i 12/2013) i članka 5. Zakona o turističkoj inspekciji (»Narodne novine«, broj 19/2014), Vlada Republike Hrvatske je na sjednici održanoj 11. veljače 2015. godine donijela
