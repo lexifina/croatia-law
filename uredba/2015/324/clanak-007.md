@@ -1,0 +1,5 @@
+# Članak 7.
+Naslov iznad članka 18. i članak 18. mijenjaju se i glase:
+»2.2.1.2. Odjel za rashode za zaposlene u srednjim školama
+Članak 18.
+Odjel za rashode za zaposlene u srednjim školama odobrava sredstva srednjoškolskim ustanovama za isplatu bruto plaća i naknada sukladno važećim kolektivnim ugovorima i zakonskim propisima, izrađuje projekciju potrebnih sredstava za isplatu plaća i naknada, prati izvršenje plaćanja, u skladu sa svojim zakonskim ovlastima provodi kontrolu namjenskog trošenja sredstava koja se školskim ustanovama odobravaju iz državnog proračuna, prikuplja podatke i radi analize o rashodima zaposlenih u sustavu srednjeg obrazovanja te druge analitičke poslove, prati kretanje broja zaposlenika srednjih škola te odgovara na telefonske i pisane upite školskih ustanova i zaposlenika koji su vezani uz ostvarivanje materijalnih prava zaposlenika srednjih škola (obračun i isplatu plaća i naknada). Odjel rješava predmete (pisani upiti) koji su vezani uz ostvarivanje materijalnih prava zaposlenika srednjih škola (obračun i isplatu plaća i naknada). Odjel obavlja i druge poslove iz svoga djelokruga.«.

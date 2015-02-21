@@ -1,0 +1,2 @@
+# Članak 45.
+Okvirni broj potrebnih državnih službenika i namještenika u Ministarstvu znanosti, obrazovanja i sporta prikazan u tablici koja je sastavni dio Uredbe o unutarnjem ustrojstvu Ministarstva znanosti, obrazovanja i sporta (»Narodne novine«, br. 28/2012, 40/2013 i 123/2013), zamjenjuje se Okvirnim brojem potrebnih državnih službenika i namještenika u Ministarstvu koji je sadržan u tablici u prilogu ove Uredbe i njezin je sastavni dio.

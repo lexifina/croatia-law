@@ -1,0 +1,5 @@
+# Članak 17.
+Naslov iznad članka 28. i članak 28. mijenjaju se i glase:
+»3.1.2.2. Odjel za tehnologijski razvoj i inovacije
+Članak 28.
+Odjel za tehnologijski razvoj i inovacije obavlja upravne i stručne poslove vezane uz izradu strateških i operativnih dokumenata i mjera vezanih uz znanstvenu infrastrukturu, transfer tehnologija i inovacije; provedbu postojećih mjera u sustavu tehnologije i inovacija te suradnju s drugim nadležnim tijelima državne uprave na izradi strategija i mjera za unapređenje sustava tehnologije i inovacija; izradu priloga, praćenje strategija i mjera za razvoj velikih europskih istraživačkih infrastruktura te sudjeluje u izradi odgovarajućih mjera na nacionalnoj razini. Odjel prati rad i doprinosi umrežavanju ureda za transfer tehnologije, znanstveno-tehnologijskih parkova i drugih tijela u sustavu tehnologije. Odjel izrađuje i prati provedbu programa i projekata za povećanje transfera tehnologije s visokih učilišta i javnih znanstvenih instituta u gospodarstvo. Odjel obavlja i druge poslove iz svoga djelokruga.«.

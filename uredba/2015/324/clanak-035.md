@@ -1,0 +1,3 @@
+# Članak 35.
+Članak 43. mijenja se i glasi:
+»Odjel za međunarodnu suradnju i europske poslove provodi nadzor nad Agencijom za mobilnost i programe Europske unije u provedbi programa Europske unije za obrazovanje, mlade i sport, ERASMUS+, provodi poslove vezane za međunarodnu bilateralnu i regionalnu suradnju u području visokog obrazovanja te poslove vezane za hrvatske lektore u inozemstvu i inozemne lektore u Hrvatskoj, koordinira pripremu i izradu prijedloga nacionalnih stajališta u području obrazovanja za potrebe Europskog vijeća, Vijeća Europske unije i međunarodnih tijela u kojima sudjeluje Republika Hrvatska. Odjel obavlja i druge poslove iz svoga djelokruga.«.

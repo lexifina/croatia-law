@@ -1,0 +1,5 @@
+# Članak 6.
+Naslov iznad članka 17. i članak 17. mijenjaju se i glase:
+»2.2.1.1. Odjel za rashode za zaposlene u osnovnim školama
+Članak 17.
+Odjel za rashode za zaposlene u osnovnim školama odobrava sredstva osnovnoškolskim ustanovama za isplatu bruto plaća i naknada sukladno važećim kolektivnim ugovorima i zakonskim propisima, izrađuje projekciju potrebnih sredstava za isplatu plaća i naknada, prati izvršenje plaćanja, u skladu sa svojim zakonskim ovlastima provodi kontrolu namjenskog trošenja sredstava koja se školskim ustanovama odobravaju iz državnog proračuna, prikuplja podatke i radi analize o rashodima zaposlenih u sustavu osnovnog obrazovanja te druge analitičke poslove, prati kretanje broja zaposlenika osnovnih škola te odgovara na telefonske i pisane upite školskih ustanova i zaposlenika koji su vezani uz ostvarivanje materijalnih prava zaposlenika osnovnih škola (obračun i isplatu plaća i naknada). Odjel rješava predmete (pisani upiti) koji su vezani uz ostvarivanje materijalnih prava zaposlenika osnovnih škola (obračun i isplatu plaća i naknada). Odjel obavlja i druge poslove iz svoga djelokruga.«.

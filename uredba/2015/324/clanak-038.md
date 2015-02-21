@@ -1,0 +1,5 @@
+# Članak 38.
+Naslov iznad članka 52. i članak 52. mijenjaju se i glase:
+»5.2.1.2. Odjel za strukovno obrazovanje
+Članak 52.
+Odjel za strukovno obrazovanje prati, predlaže i provodi mjere za unapređenje strukovnog obrazovanja; sudjeluje u izradi metodologije i kriterija za planiranje mreže srednjih strukovnih škola i programa te priprema upise učenika u strukovne programe/škole; sudjeluje u izradi stručnih podloga za nacrte standarda i zakona te drugih propisa u strukovnom obrazovanju; obavlja pripremne poslove utvrđivanja uvjeta za početak rada i izvođenja programa strukovnih škola; provodi upravne postupke u prvom stupnju temeljem propisa koji uređuju sustav odgoja i obrazovanja; obavlja poslove na formiranju povjerenstava i koordiniranju njihova rada, surađuje s drugim institucijama i socijalnim partnerima kao i s drugim ustrojstvenim jedinicama Ministarstva, državnim tijelima, agencijama, institucijama i ustanovama u dijelu poslova Odjela; sudjeluje u izradi analiza i pregleda stanja u strukovnom obrazovanju. Odjel obavlja i druge poslove iz svoga djelokruga.«.

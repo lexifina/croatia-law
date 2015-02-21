@@ -1,0 +1,8 @@
+# Članak 15.
+Naslov iznad članka 26. i članak 26. mijenjaju se i glase:
+»3.1.2. Služba za razvoj znanstvene i inovacijske politike
+Članak 26.
+Služba za razvoj znanstvene i inovacijske politike obavlja upravne i stručne poslove vezane uz izradu stručnih podloga, praćenje i analize provedbe nacionalnih strategija, javnih politika i instrumenata povezanih s nacionalnim istraživačkim i inovacijskim sustavom i u ostvarenju ciljeva i politika strategija Europske unije u području istraživanja, razvoja i inovacija. Služba obavlja i poslove vezano uz pripremu, donošenje, provedbu i praćenje mjera za poticanje znanstvenih i tehnologijskih projekata, uspostave i razvoja informacijskog sustava u znanosti te znanstvene i inovacijske infrastrukture, kao i programa i projekata s ciljem unapređenja sustava znanosti i tehnologije. Služba prati i predlaže mjere za poticanje ulaganja privatnog sektora u istraživanje, razvoj i inovacije. Služba obavlja upravne i stručne poslove vezane uz: ulaganja, koordinaciju i rad Hrvatske zaklade za znanost, Hrvatske agencije za malo gospodarstvo, inovacije i investicije HAMAG - BICRO, ostalih subjekata znanstvenog i inovacijskog sustava, te vijeća i povjerenstava nadležnih za provedbu mjera poticanja znanstvene djelatnosti, tehnologijskog razvoja i inovacija. Služba obavlja poslove vezano uz izradu mjera poticanja profesionalnog razvoja istraživača i istraživačkih skupina, međunarodne mobilnosti i umrežavanja istraživača. Služba obavlja i druge poslove iz svoga djelokruga.
+U Službi se ustrojavaju:
+3.1.2.1. Odjel za pripremu, praćenje i provedbu politika
+3.1.2.2. Odjel za tehnologijski razvoj i inovacije.«.

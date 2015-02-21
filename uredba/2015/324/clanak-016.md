@@ -1,0 +1,5 @@
+# Članak 16.
+Naslov iznad članka 27. i članak 27. mijenjaju se i glase:
+»3.1.2.1. Odjel za pripremu, praćenje i provedbu politika
+Članak 27.
+Odjel za pripremu, praćenje i provedbu politika obavlja upravne i stručne poslove vezane uz suradnju s drugim institucijama u sustavu znanosti u osmišljavanju i provedbi optimalnih strategija i mjera za poticanje znanstvene izvrsnosti u skladu sa strategijama Europske unije, izradu priloga, praćenje i analize provedbe nacionalnih politika i instrumenata povezanih s istraživačkim i inovacijskim sustavom te razvoj doktorskih studija. Odjel obavlja poslove vezano uz planiranje, izradu i usklađivanje informacijskog sustava u znanosti, pripremu i provedbu višegodišnjeg ugovornog financiranja znanstvene djelatnosti sa svim javnim sveučilištima i javnim znanstvenim institutima. Odjel obavlja poslove vezano uz izdavanje odobrenja za istraživanja, ispitivanja, fotografiranja i/ili mjerenja mora, morskog dna i morskog podzemlja. Odjel obavlja i druge poslove iz svoga djelokruga.«.

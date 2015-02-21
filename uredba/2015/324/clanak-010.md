@@ -1,0 +1,5 @@
+# Članak 10.
+Naslov iznad članka 21. i članak 21. mijenjaju se i glase:
+»2.2.2.2. Odjel za kapitalne investicije i decentralizirane funkcije
+Članak 21.
+Odjel za kapitalne investicije i decentralizirane funkcije planira i izrađuje prijedloge programa za financiranje i sufinanciranje kapitalnih izdataka i posebnih programa, prati izgradnju, rekonstrukciju, adaptaciju i opremanje ustanova iz djelokruga Ministarstva, prikuplja i ujedinjuje podatke za izradu projekcije proračunskih sredstava, te predlaže odgovarajuća programska rješenja, priprema podloge za bilanciranje i realizaciju sredstava u fondu poravnanja za kapitalna ulaganja u obrazovanju, priprema podloge za bilanciranje potreba i iznose minimalnog financijskog standarda u dijelu kapitalnih ulaganja u osnovnom i srednjem obrazovanju, te realizira decentralizirana sredstva za ove namjene fondom izravnanja. Odjel obavlja i druge poslove iz svoga djelokruga.«.
