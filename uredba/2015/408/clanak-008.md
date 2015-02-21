@@ -1,0 +1,3 @@
+# Članak 8.
+U članku 13. iza stavka 3. dodaje se stavak 4. koji glasi:
+»(4) Jedinice lokalne i područne (regionalne) samouprave koje sukladno članku 12. stavcima 5. i 6. ove Uredbe temeljem najvećeg udjela u vlasništvu odnosno dogovora provjeravaju Izjave i Upitnike te Izvješće o otklonjenim slabostima i nepravilnostima utvrđenima prethodne godine koje im dostavljaju trgovačka društva u vlasništvu više jedinica lokalne i područne (regionalne) samouprave i druge pravne osobe kojima su osnivači više jedinica lokalne i područne (regionalne) samouprave o provedenim provjerama obavještavaju druge jedinice lokalne i područne (regionalne) samouprave koje imaju udjele u vlasništvu, odnosno koje su osnivači.«.

@@ -1,0 +1,2 @@
+# Članak 2.
+U članku 3. stavku 1. iza riječi: »čelnik jedinice područne (regionalne) samouprave« dodaju se riječi: »te predsjednik uprave trgovačkog društva u vlasništvu Republike Hrvatske, odnosno jedne ili više jedinica lokalne i područne (regionalne) samouprave i čelnik druge pravne osobe kojoj je osnivač Republika Hrvatska, odnosno jedna ili više jedinica lokalne i područne (regionalne) samouprave«.
