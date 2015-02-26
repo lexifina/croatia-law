@@ -1,0 +1,3 @@
+# Članak 7.
+(1) Nadležna ustrojstvena jedinica Oružanih snaga dostavlja potrebe i prioritete za popunu ugovornom pričuvom u skladu s knjigama ustroja zapovjedništava, postrojbi i ustanova Oružanih snaga, ustrojstvenoj jedinici Ministarstva obrane nadležnoj za ljudske resurse (u daljnjem tekstu nadležna ustrojstvena jedinica Ministarstva obrane) najkasnije do 1. srpnja tekuće godine za sljedeću kalendarsku godinu.
+(2) Iskaz potreba i prioriteta za popunu iz stavka 1. ovoga članka dostavlja se na tiskanici koja sadrži naziv dužnosti koja se popunjava, VSSp, vojnu poštu, mjesto službe, struka/zvanje, dodatnu izobrazbu/osposobljenost, godine života, rok sklapanja ugovora, a dostavlja se na posebnoj tiskanici (Prilog 1) i sastavni je dio ovoga Pravilnika.

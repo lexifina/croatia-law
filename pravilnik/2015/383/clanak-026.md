@@ -1,0 +1,3 @@
+# Članak 26.
+(1) Ako ugovorni pričuvnik koji je u mirovini prema posebnim propisima ostvaruje pravo na mirovinu, za vrijeme služenja u ugovornoj pričuvi Oružanih snaga pripada mu i pravo na isplatu razlike između neto mirovine i neto naknada iz članaka 22. i 23. ovoga Pravilnika.
+(2) Ako nezaposlenom ugovornom pričuvniku koji ostvaruje pravo na novčanu naknadu pri Hrvatskom zavodu za zapošljavanje pripada novčana naknada za vrijeme služenja u ugovornoj pričuvi Oružanih snaga, pripada mu i pravo na isplatu razlike između neto novčane naknade i neto naknada iz članaka 22. i 23. ovoga Pravilnika.

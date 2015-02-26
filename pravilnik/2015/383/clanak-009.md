@@ -1,0 +1,4 @@
+# Članak 9.
+(1) Na temelju zaprimljene dokumentacije i podataka iz službene evidencije, ovisno o iskazanim potrebama i prioritetima za popunu ugovornom pričuvom Oružanih snaga, nadležna ustrojstvena jedinica Ministarstva obrane kandidate upućuje na utvrđivanje zdravstvenih, psihičkih, tjelesnih i sigurnosnih uvjeta za prijam u službu u ugovornoj pričuvi.
+(2) Utvrđivanje zdravstvenih, psihičkih, tjelesnih i sigurnosnih uvjeta kandidata za službu u ugovornoj pričuvi obavlja se u skladu s pravilnikom kojim se uređuju kriteriji i postupak za utvrđivanje zdravstvenih, psihičkih, tjelesnih i sigurnosnih uvjeta za prijam u službu u Oružane snage.
+(3) Vrijednosti tjelesne spremnosti i poznavanja stranog jezika kandidata iskazuju se na tiskanici Kriteriji i vrijednosti kandidata za ugovornu pričuvu (Prilog 3), koja je sastavni dio ovoga Pravilnika.
