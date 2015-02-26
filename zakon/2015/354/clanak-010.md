@@ -1,0 +1,2 @@
+# Članak 10.
+U članku 358. stavku 4. iza riječi: »ulagateljima« briše se zarez, a riječi: »dostavljeni Agenciji, te ih izdavatelj mora dostaviti nadležnom tijelu države članice domaćina, u što skorijem roku prilikom svake javne ponude, po mogućnosti prije početka javne ponude ili uvrštenja na uređeno tržište« zamjenjuju se riječima: »i dostavljeni Agenciji koja ih dostavlja nadležnom tijelu države članice domaćina, u što skorijem roku prilikom svake javne ponude, po mogućnosti prije početka javne ponude ili uvrštenja na uređeno tržište i ESMA-i«.

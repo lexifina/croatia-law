@@ -1,0 +1,11 @@
+# Članak 1.
+U Zakonu o tržištu kapitala (»Narodne novine«, br. 88/08., 146/08., 74/09., 54/13. i 159/13.) u članku 2. stavku 1. točka 16. mijenja se i glasi:
+»16. Direktiva 2013/36/EU Europskog parlamenta i Vijeća od 26. lipnja 2013. o pristupanju djelatnosti kreditnih institucija i bonitetnom nadzoru nad kreditnim institucijama i investicijskim društvima, izmjeni Direktive 2002/87/EZ te stavljanju izvan snage direktiva 2006/48/EZ i 2006/49/EZ (Tekst značajan za EGP) (SL L 176, 12. 6. 2014.),«.
+Iza točke 16. dodaju se točke 17., 18. i 19. koje glase:
+»17. Direktiva 2011/89/EU Europskog parlamenta i Vijeća od 16. studenoga 2011. o izmjeni direktiva 98/78/EZ, 2002/87/EZ, 2006/48/EZ i 2009/138/EZ u odnosu na dodatni nadzor financijskih subjekata u financijskom konglomeratu (Tekst značajan za EGP) (SL L 326, 8. 12. 2011.),
+18. Direktiva 2014/59/EU Europskog parlamenta i Vijeća od 15. svibnja 2014. o uspostavi okvira za oporavak i sanaciju kreditnih institucija i investicijskih društava te o izmjeni Direktive Vijeća 82/891/EEZ i direktiva 2001/24/EZ, 2002/47/EZ, 2004/25/EZ, 2005/56/EZ, 2007/36/EZ, 2011/35/EU, 2012/30/EU i 2013/36/EU te uredbi (EU) br. 1093/2010 i (EU) br. 648/2012 Europskog parlamenta i Vijeća (Tekst značajan za EGP) (SL L 173, 12. 6. 2014.) i
+19. Direktiva 2014/51/EU Europskog parlamenta i Vijeća od 16. travnja 2014. o izmjeni direktiva 2003/71/EZ i 2009/138/EZ te uredbi (EZ) br. 1060/2009, (EU) br. 1094/2010 i (EU) br. 1095/2010 u pogledu ovlasti Europskog nadzornog tijela (Europskog nadzornog tijela za osiguranje i strukovno mirovinsko osiguranje) i Europskog nadzornog tijela (Europskog nadzornog tijela za vrijednosne papire i tržišta kapitala) (SL L 153, 22. 5. 2014.) (u daljnjem tekstu: Direktiva 2014/51/EU).«.
+U stavku 2. iza točke 4. dodaje se točka 5. koja glasi:
+»5. Uredba (EU) br. 648/2012 Europskog parlamenta i Vijeća od 4. srpnja 2012. o OTC izvedenicama, središnjoj drugoj ugovornoj strani i trgovinskom depozitoriju (SL L 201, 27. 7. 2012.).«.
+Stavak 3. mijenja se i glasi:
+»(3) Agencija je nadležna za provedbu i nadzor primjene uredbi Europske unije iz stavka 2. ovoga članka te je ovlaštena donositi provedbene propise radi provedbe uredbi Europske unije iz stavka 2. ovoga članka, provedbenih i regulatornih tehničkih standarda, usklađivanja sa smjernicama i preporukama koje su izdale ESMA i EBA.«.
