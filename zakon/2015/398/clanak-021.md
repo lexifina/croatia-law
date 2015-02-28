@@ -1,0 +1,4 @@
+# Članak 21.
+Članak 29. mijenja se i glasi:
+»Hrvatska televizija i Hrvatski radio dužni su pratiti izbornu promidžbu te su u razdoblju izborne promidžbe svim sudionicima u izborima dužni omogućiti iznošenje i obrazlaganje njihovih izbornih programa. Nakladnici ostalih medija samostalno odlučuju hoće li i u kojoj mjeri pratiti izbornu promidžbu.
+Nakladnici svih medija dužni su u praćenju izborne promidžbe i predstavljanju izbornih aktivnosti kandidata u izborima jamčiti novinarsku neovisnost, profesionalnost i stručnost, dosljedno poštivanje novinarskoga kodeksa te posebno temeljnog načela slobode izražavanja koje je propisano odredbama Ustava Republike Hrvatske, Konvencije o zaštiti ljudskih prava i temeljnih sloboda i Povelje Europske unije o temeljnim pravima, vodeći se pri tome interesima javnosti.«.

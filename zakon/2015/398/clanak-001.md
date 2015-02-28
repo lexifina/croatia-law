@@ -1,0 +1,3 @@
+# Članak 1.
+U Zakonu o izborima zastupnika u Hrvatski sabor (»Narodne novine«, br. 116/99., 109/00. - vjerodostojno tumačenje, 53/03., 167/03. - Odluka o nedavanju vjerodostojnog tumačenja, 44/06. - Zakon o Državnom izbornom povjerenstvu Republike Hrvatske, 19/07., 20/09. - vjerodostojno tumačenje, 145/10., 24/11. - Zakon o financiranju političkih aktivnosti i izborne promidžbe, 93/11. - Odluka Ustavnoga suda Republike Hrvatske i 120/11. - pročišćeni tekst) u članku 1. dodaje se stavak 2. koji glasi:
+»Izrazi koji se koriste u ovom Zakonu, a imaju rodno značenje odnose se jednako na muški i na ženski rod.«.

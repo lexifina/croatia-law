@@ -1,0 +1,5 @@
+# Članak 16.
+U članku 23. stavku 1. riječi: »predaje lista izbornih jedinica za izbor zastupnika u Sabor,« zamjenjuju se riječima: »isteka roka iz članka 22. stavka 1. ovoga Zakona«, a iza riječi: »predložene liste« dodaju se riječi: »te imena i prezimena kandidata«.
+Stavci 3. i 4. mijenjaju se i glase:
+»Zbirna lista sadrži naziv svake liste izborne jedinice. Na zbirnu listu izborne jedinice najprije se unose stranačke liste koje su predložene u svim izbornim jedinicama, a nakon toga stranačke, odnosno neovisne liste u toj izbornoj jedinici, prema abecednom redu punog naziva političke stranke, odnosno dviju ili više političkih stranaka koje su predložile listu, odnosno prema abecednom redu prezimena prvih kandidata na neovisnoj listi. Ako je više političkih stranaka predložilo zajedničku listu, ona će se unijeti na zbirnu listu prema nazivu prve po redu političke stranke u prijedlogu.
+Državno izborno povjerenstvo će u roku iz stavka 1. ovoga članka dostaviti u sjedišta diplomatsko-konzularnih predstavništava Republike Hrvatske sve prihvaćene liste za svaku izbornu jedinicu, kao i zbirnu listu izbornih lista svake izborne jedinice radi njihove javne objave.«.
