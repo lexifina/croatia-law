@@ -1,0 +1,6 @@
+## Ciljana razina sanacijskog fonda
+# Članak 117.
+(1) Sredstva sanacijskog fonda moraju iznositi najmanje 1 % iznosa osiguranih depozita svih kreditnih institucija s odobrenjem za rad u Republici Hrvatskoj, a prema revidiranim financijskim izvještajima za prethodnu godinu.
+(2) Iznimno od stavka 1. ovoga članka, ako se sredstva sanacijskog fonda smanje ispod iznosa iz stavka 1. ovoga članka na iznos koji predstavlja više od dvije trećine ciljane razine iz stavka 1. ovoga članka doprinosi prikupljeni u skladu s člankom 118. ovoga Zakona, nastavljaju se prikupljati dinamikom kojom su se i do tada prikupljala dok se ne dosegne razina iz stavka 1. ovoga članka.
+(3) Iznimno od stavka 2. ovoga članka, ako se sredstva sanacijskog fonda smanje na iznos koji predstavlja manje od dvije trećine ciljane razine iz stavka 1. ovoga članka, doprinos se postavlja na razinu koja omogućuje dostizanje ciljne razine iz stavka 1. ovoga članka u roku od šest godina.
+(4) Iznimno od stavka 3. ovoga članka Državna agencija za osiguranje štednih uloga i sanaciju banaka može odlučiti drugačije ako je to opravdano obzirom na fazu poslovnog ciklusa i utjecaj koji prociklički doprinosi mogu imati na određivanje godišnjih doprinosa u smislu ove odredbe.

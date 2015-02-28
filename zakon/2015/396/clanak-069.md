@@ -1,0 +1,13 @@
+## Procjena iznosa unutarnje sanacije
+# Članak 69.
+(1) Pri primjeni instrumenta unutarnje sanacije, a na temelju rezultata provedene procjene vrijednosti u skladu s člankom 35. ovoga Zakona Državna agencija za osiguranje štednih uloga i sanaciju banaka utvrđuje kad je to primjenjivo:
+a) iznos za koji se moraju otpisati podložne obveze kako bi se osiguralo da vrijednost imovine institucije u sanaciji bude jednaka vrijednosti njezinih obveza i
+b) iznos podložnih obveza koje se moraju pretvoriti u dionice ili druge vlasničke instrumente kako bi se barem osigurala potrebna stopa redovnog osnovnog kapitala institucije u sanaciji ili prijelazne institucije.
+(2) Državna agencija za osiguranje štednih uloga i sanaciju banaka utvrđuje iznos iz stavka 1. ovoga članka uzimajući u obzir:
+- sve uplate kapitala koje sanacijski fond vrši u skladu s člankom 116. stavkom 1. točkom d) ovoga Zakona
+- iznos kapitala koji je potreban kako bi institucija u sanaciji ili prijelazna institucija u narednih 12 mjeseci nastavila ispunjavati uvjete za dobivanje odobrenja za rad u skladu s propisima kojima se uređuje poslovanje kreditnih institucija odnosno investicijskih društava i
+- kapital potreban da bi se održalo dovoljno povjerenje tržišta.
+(3) Ako Državna agencija za osiguranje štednih uloga i sanaciju banaka namjerava primijeniti instrument odvajanja imovine iz članka 64. ovoga Zakona, kod utvrđivanja iznosa iz stavka 1. točke a) ovoga članka uzima u obzir procjenu potrebnog kapitala nositelja upravljanja imovinom.
+(4) Ako je Državna agencija za osiguranje štednih uloga i sanaciju banaka primjenom instrumenta unutarnje sanacije u skladu s člankom 65. stavkom 1. ovoga Zakona djelomično ili u cijelosti smanjila obveze te ako je u skladu s glavom VI. ovoga Zakona smanjena vrijednost instrumenata kapitala, a iznos smanjenja, temeljen na rezultatima privremene procjene vrijednosti iz članka 35. ovoga Zakona, je veći od potrebnog iznosa umanjenja temeljenog na rezultatima naknadne procjene vrijednosti u skladu s člankom 36. ovoga Zakona, Državna agencija za osiguranje štednih uloga i sanaciju banaka može povećati iznos obveza, a potom i vrijednost instrumenata kapitala kako bi se u potrebnoj mjeri vjerovnicima i dioničarima nadoknadila ta razlika.
+(5) Državna agencija za osiguranje štednih uloga i sanaciju banaka će u mjeri u kojoj je to moguće osigurati da se naknadna procjena vrijednosti provede na ažurnim i sveobuhvatnim informacijama o imovini i obvezama institucije u sanaciji.
+Postupanje prema dioničarima pri primjeni unutarnje sanacije odnosno smanjenju vrijednosti ili pretvaranju instrumenata kapitala

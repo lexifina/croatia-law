@@ -1,0 +1,10 @@
+# Članak 86.
+(1) Ako sanacijsko tijelo druge države članice primjenjuje ovlast prijenosa vlasničkih instrumenata, imovine, prava ili obveza, a koji obuhvaća imovinu koja se nalazi na području Republike Hrvatske ili prava i obveze na koje se primjenjuje zakonodavstvo Republike Hrvatske, takav prijenos je valjan i sukladan propisima Republike Hrvatske.
+(2) Ako sanacijsko tijelo druge države članice namjerava ili primjenjuje ovlast prijenosa instrumenata vlasništva, imovine, prava ili obveza na području Republike Hrvatske, tijela Republike Hrvatske su dužna omogućiti prijenos na društvo primatelja u skladu s propisima Republike Hrvatske.
+(3) Dioničari, vjerovnici i treće strane na koje se odnosi prijenos vlasničkih instrumenata, imovine, prava ili obveza iz stavka 1. ovoga članka nemaju pravo spriječiti, osporiti ili poništiti prijenos prema bilo kojem propisu Republike Hrvatske.
+(4) Ako sanacijsko tijelo druge države članice primjenjuje ovlast smanjenja ili pretvaranja instrumenata kapitala na način iz glave VI. ovoga Zakona i na podložne obveze ili relevantne instrumente kapitala institucije u sanaciji, ovlast smanjenja ili pretvaranja primjenjuje se i na sljedeće:
+a) instrumente ili obveze na koje se primjenjuje zakon Republike Hrvatske
+b) obveze prema vjerovnicima iz Republike Hrvatske.
+(5) Smanjenje glavnice obveza ili instrumenata kapitala ili pretvaranje obveza ili instrumenata kapitala iz stavka 4. ovoga članka provodi se u skladu s ovlasti za smanjenje ili pretvaranje instrumenata kapitala, sanacijskog tijela druge države članice.
+(6) Vjerovnici na koje se primjenjuje ovlast smanjenja vrijednosti ili pretvaranja iz stavka 4. ovoga članka, nemaju pravo prema bilo kojem propisu Republike Hrvatske osporiti smanjenje ili pretvaranje.
+(7) Ako sanacijsko tijelo druge države članice primjenjuje ovlast djelomičnog ili potpunog prijenosa, djelomičnog ili potpunog smanjenja vrijednosti ili pretvaranja instrumenata kapitala, imovine, prava i obveza na području Republike Hrvatske, pravo na pravni lijek i zaštitne mjere ostvaruje se u državi članici u kojoj je sjedište tog sanacijskog tijela i u skladu s pravom te države članice.

@@ -1,0 +1,19 @@
+## Postupanje Hrvatske narodne banke odnosno Hrvatske agencije za nadzor financijskih usluga
+# Članak 39.
+(1) Odluku o smanjenju vrijednosti ili pretvaranju relevantnih instrumenata donosi Savjet Hrvatske narodne banke odnosno Upravno vijeće Hrvatske agencije za nadzor financijskih usluga.
+(2) Odluka iz stavka 1. ovoga članka sadrži:
+1) iznos gubitka za koji se smanjuju sve rezerve i zadržana dobit institucije ili subjekta iz članka 3. točke 2., 3. ili 4. ovoga Zakona
+2) odluku o smanjenju temeljnog kapitala institucije ili subjekta iz članka 3. točke 2., 3. ili 4. ovoga Zakona
+3) odluku o smanjenju glavnice relevantnih instrumenata kapitala koji nisu uključeni u točku 2. ovoga stavka ili
+4) odluku o povećanju temeljnog kapitala.
+(3) Odluka o smanjenju temeljnog kapitala iz stavka 2. točke 2. ovoga članka može se donijeti kao odluka o pojednostavljenom smanjenju temeljnog kapitala u kojoj se navodi točan iznos za koji se smanjuje temeljni kapital, iznos temeljnog kapitala nakon provedenog smanjenja, cilj smanjenja temeljnog kapitala te način kako će se temeljni kapital smanjiti ili kao odluka o smanjenju temeljnog kapitala povlačenjem dionica u kojoj se navodi iznos temeljnog kapitala koji se odnosi na povučene dionice i temeljni kapital nakon smanjenja.
+(4) Ako je iznos gubitka veći od iznosa temeljnog kapitala institucije donosi se odluka o smanjenju glavnice relevantnih instrumenata kapitala iz stavka 2. točke 3. ovoga članka.
+(5) Odluka o povećanju temeljnog kapitala iz stavka 2. točke 4. ovoga članka sadrži iznos za koji se povećava temeljni kapital te nominalni iznos dionica, njihov rod i iznos za koji se izdaju odnosno iznose novih temeljnih uloga, prava koja se ulažu, osobe koje će ih uložiti te broj dionica koje se time trebaju steći.
+(6) Smatra se da je temeljni kapital smanjen odnosno povećan s danom donošenja odluke iz stavka 1. ovoga članka. Upis u sudski registar ima deklaratoran učinak.
+(7) Donošenjem odluke o povećanju temeljnog kapitala iz stavka 1. ovoga članka nove dionice smatraju se preuzete od strane vlasnika relevantnih instrumenata kapitala koji se pretvaraju čime su dionice odnosno ulozi uplaćeni a čime je provedeno povećanje temeljnog kapitala.
+(8) Odluku iz stavka 1. ovoga članka Hrvatska narodna banka odnosno Hrvatska agencija za nadzor financijskih usluga, najkasnije sljedeći radni dan od dana njezina donošenja, podnosi registarskome sudu kao prijavu za upis odluke o smanjenju odnosno odluke o povećanju temeljnog kapitala te prijavu o provedenom smanjenju odnosno povećanju temeljnog kapitala.
+(9) Registarski sud dužan je bez odgađanja rješavati o prijavi za upis iz stavka 8. ovoga članka neovisno o redoslijedu kojim su u sud primljeni ostali predmeti, upisati ih u sudski registar te ih objaviti.
+(10) Odluku iz stavka 1. ovoga članka Hrvatska narodna banka odnosno Hrvatska agencija za nadzor financijskih usluga najkasnije sljedeći radni dan od dana njezina donošenja, dostavlja Središnjem klirinškom depozitarnom društvu koje je dužno bez odgađanja provesti upis.
+(11) Temeljem odluke iz stavka 1. ovoga članka registarski sud upisat će izmjenu statuta institucije ili subjekta iz članka 3. točke 2., 3. ili 4. ovoga Zakona u dijelu koji se odnosi na visinu temeljnog kapitala, broj izdanih dionica i nominalnu vrijednost dionica.
+(12) Za izdavanje novih dionica temeljem odluke o povećanju temeljnog kapitala iz stavka 6. ovoga članka institucije ili subjekta iz članka 3. točke 2., 3. ili 4. ovoga Zakona ne treba izdati niti objaviti prospekt, kao niti ishoditi odobrenje Hrvatske narodne banke odnosno Hrvatske agencije za nadzor financijskih usluga, a vlasnici dionica za koje je provedeno smanjenje temeljnog kapitala nemaju pravo prvenstva pri upisu.
+(13) Odredbe ovoga članka na odgovarajući način primjenjuju se i na primjenu ovlasti smanjenja vrijednosti i pretvaranja relevantnih instrumenata kapitala u odnosu na društva s ograničenom odgovornošću.

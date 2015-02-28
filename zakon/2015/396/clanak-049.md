@@ -1,0 +1,6 @@
+## Pravne posljedice imenovanja sanacijske uprave
+# Članak 49.
+(1) Danom donošenja odluke o otvaranju postupka sanacije prestaju sve ovlasti dotadašnjih članova uprave, nadzornog odbora institucije te ovlasti glavne skupštine.
+(2) Sanacijska uprava ima sve ovlasti uprave odnosno izvršnih direktora upravnog odbora institucije u sanaciji. Ovlasti nadzornog odbora odnosno neizvršnih direktora upravnog odbora institucije u sanaciji i glavne skupštine institucije u sanaciji izvršava Državna agencija za osiguranje štednih uloga i sanaciju banaka te se u tom slučaju na nju ne primjenjuju odredbe o uvjetima za imenovanje i davanje prethodne suglasnosti članovima nadzornog odbora institucija na način kako je uređeno propisima koji uređuju poslovanje kreditnih institucija odnosno investicijskih društava.
+(3) Danom donošenja odluke o otvaranju postupka sanacije prestaju svi ugovori na temelju kojih su dotadašnji članovi uprave bili zaposleni u toj instituciji.
+(4) U slučaju iz stavka 3. ovoga članka dotadašnji članovi uprave ne ostvaruju pravo na isplatu otpremnine i varijabilnih primitaka, neovisno o tome je li ostvarivanje takvih prava bilo ugovoreno s institucijom ili je proizlazilo iz drugog akta institucije te su ugovorene odredbe o takvom pravu na isplatu ništetne.

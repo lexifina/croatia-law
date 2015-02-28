@@ -1,0 +1,15 @@
+# Članak 29.
+(1) O prijedlogu iz članka 28. stavka 4. ovoga Zakona Državna agencija za osiguranje štednih uloga i sanaciju banaka dužna je odlučiti u roku od tri radna dana.
+(2) Ako Državna agencija za osiguranje štednih uloga i sanaciju banaka donese odluku o otvaranju postupka sanacije, ta odluka sadrži:
+- razloge za otvaranje postupka sanacije
+- obrazloženje ispunjenja uvjeta za sanaciju uključujući i rezultate procjene vrijednosti
+- sanacijsku mjeru koju Državna agencija za osiguranje štednih uloga i sanaciju banaka namjerava poduzeti
+- imenovanje sanacijske uprave i
+- dan, sat i minutu otvaranja postupka sanacije.
+(3) Ako Državna agencija za osiguranje štednih uloga i sanaciju banaka odbije prijedlog o otvaranju postupka sanacije iz članka 28. stavka 4. ovoga članka, o tome je dužna odmah obavijestiti Hrvatsku narodnu banku odnosno Hrvatsku agenciju za nadzor financijskih usluga koja će postupiti u skladu s propisom kojim se uređuje poslovanje kreditnih institucija odnosno investicijskih društava.
+(4) Ako više subjekata iste grupe koja nije prekogranična ispunjavaju uvjete za sanaciju odnosno stečaj, Državna agencija za osiguranje štednih uloga i sanaciju banaka može donijeti jednu odluku koja će obuhvatiti sve članice grupe koje ispunjavaju uvjete za sanaciju i može imenovati istu sanacijsku upravu za te subjekte.
+(5) Pri odabiru sanacijske mjere Državna agencija za osiguranje štednih uloga i sanaciju banaka bi trebala uzeti u obzir i slijediti mjere predviđene u sanacijskom planu usvojenom za tu instituciju ili grupu, osim ako procijeni, uzimajući u obzir okolnosti slučaja, da će se ciljevi sanacije učinkovitije postići poduzimanjem mjera koje nisu predviđene u sanacijskom planu.
+(6) Odluku o otvaranju postupka sanacije iz stavka 1. ovoga članka Državna agencija za osiguranje štednih uloga i sanaciju banaka dužna je bez odgađanja dostaviti instituciji na koju se odluka odnosi, Ministarstvu financija, Hrvatskoj narodnoj banci, Hrvatskoj agenciji za nadzor financijskih usluga, tijelu nadležnom za svaku podružnicu te institucije u drugim državama, sanacijskom tijelu za grupu, konsolidirajućem nadzornom tijelu, Vijeću za financijsku stabilnost, Europskom nadzornom tijelu za bankarstvo, Europskom odboru za sistemski rizik, Europskoj komisiji, Europskoj središnjoj banci, Europskom nadzornom tijelu za vrijednosne papire i tržište kapitala, Europskom nadzornom tijelu za osiguranje i strukovno mirovinsko osiguranje i operaterima sustava u kojima institucija sudjeluje.
+(7) Prethodno donošenje supervizorske mjere u fazi rane intervencije u skladu s propisima kojima se uređuje poslovanje kreditnih institucija i investicijskih društava nije uvjet za otvaranje sanacije.
+(8) Danom donošenja odluke o otvaranju postupka sanacije nad institucijom prestaju važiti sve supervizorske mjere naložene toj instituciji.
+Donošenje odluke o sanaciji ako je Državna agencija za osiguranje štednih uloga i sanaciju banaka sanacijsko tijelo za grupu institucija u Europskoj uniji

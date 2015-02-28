@@ -1,0 +1,6 @@
+## Opće načelo za primjenu ovoga Zakona
+# Članak 5.
+(1) Sanacijska i nadležna tijela pri utvrđivanju i primjeni ovlasti propisanih ovim Zakonom i pri upotrebi različitih instrumenata kojima raspolažu u odnosu na subjekte iz članka 3. ovoga Zakona, u skladu s posebnim odredbama, uzimaju u obzir vrstu, opseg i složenost poslova koje subjekt obavlja, njegovu dioničarsku strukturu, pravni oblik, profil rizičnosti, veličinu i pravni status, povezanost s drugim institucijama i financijskim sustavom u cjelini, te podatak o tome obavlja li subjekt investicijske usluge ili aktivnosti iz pozitivnih propisa kojima će se prenijeti Direktiva 2014/65/EU, a koji će biti donijeti u rokovima propisanim tom Direktivom.
+(2) Na kreditne institucije nad kojima sanacijsko tijelo izvršava sanacijske ovlasti primjenjuju se propisi kojima se uređuje poslovanje kreditnih institucija, osim ako ovim Zakonom nije drukčije propisano.
+(3) Na investicijska društva nad kojima sanacijsko tijelo izvršava sanacijske ovlasti primjenjuju se propisi kojima se uređuje tržište kapitala, osim ako ovim Zakonom nije drukčije propisano.
+(4) Na institucije nad kojima sanacijsko tijelo izvršava sanacijske ovlasti primjenjuju se odredbe propisa kojima se uređuje poslovanje trgovačkih društva, osim ako ovim Zakonom nije drukčije propisano.

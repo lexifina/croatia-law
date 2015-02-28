@@ -1,0 +1,6 @@
+## Poslovanje prijelazne institucije
+# Članak 61.
+(1) Prijelazna institucija pri osnivanju mora ispunjavati zahtjeve iz Uredbe (EU) br. 575/2013 i propisa kojima se uređuje poslovanje kreditnih institucija odnosno propisa kojima se uređuje poslovanje investicijskih društava i podložna je superviziji odnosno nadzoru u skladu s tim propisima.
+(2) Iznimno od stavka 1. ovoga članka Hrvatska narodna banka odnosno Hrvatska agencija za nadzor financijskih usluga kao nadležno tijelo može na zahtjev prijelazne institucije dopustiti da prijelazna institucija neki od zahtjeva iz stavka 1. ovoga članka ispuni u određenom roku.
+(3) Prijelazna institucija dužna je poslovati u skladu s pravnim okvirom Europske unije za državne potpore, a Državna agencija za osiguranje štednih uloga i sanaciju banaka može u tom cilju ograničiti postupanje prijelazne institucije.
+(4) Sanacijska uprava dužna je upravljati prijelaznom institucijom na način da osigura kontinuitet obavljanja ključnih funkcija te poduzimati postupke s ciljem prodaje prijelazne institucije ili prijelaznog subjekta iz članka 3. stavka 1. točke 2., 3. ili 4. ovoga Zakona, njihove imovine, prava ili obveza, u skladu s uvjetima iz članka 62. ovoga Zakona i rokovima iz članka 63. ovoga Zakona i uvažavajući pravni okvir Europske unije i propise kojima se uređuje zaštita tržišnog natjecanja.

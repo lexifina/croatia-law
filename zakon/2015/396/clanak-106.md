@@ -1,0 +1,5 @@
+## XII. ZAŠTITNE MJERE
+## Postupanje prema dioničarima i vjerovnicima u slučaju djelomičnih prijenosa i primjene instrumenta unutarnje sanacije
+# Članak 106.
+(1) Ako Državna agencija za osiguranje štednih uloga i sanaciju banaka primjenjujući jedan ili više instrumenata sanacije prenese samo dio prava, imovine i obveza institucije u sanaciji, dužna je, primjenjujući članak 108. ovoga Zakona osigurati da dioničari i oni vjerovnici čije tražbine nisu prenesene dobiju kao namirenje svojih tražbina barem onaj iznos u kojem bi bili namireni da je u vrijeme kad je donesena odluka iz članka 29. ovoga Zakona nad institucijom u sanaciji proveden stečajni postupak.
+(2) Ako Državna agencija za osiguranje štednih uloga i sanaciju banaka primjenjuje instrument unutarnje sanacije, dužna je, primjenjujući članak 108. ovoga Zakona, osigurati da dioničari i vjerovnici za tražbine čija je vrijednost smanjena ili pretvorena u instrument redovnog osnovnog kapitala ne snose gubitak veći od gubitka koji bi snosili da je u vrijeme kad je donesena odluka iz članka 29. ovoga Zakona nad institucijom u sanaciji proveden stečajni postupak.

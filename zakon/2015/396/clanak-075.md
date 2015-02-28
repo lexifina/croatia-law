@@ -1,0 +1,4 @@
+## Plan reorganizacije poslovanja za grupu
+# Članak 75.
+(1) Ako se instrument unutarnje sanacije radi povećanja temeljnog kapitala u skladu s člankom 65. stavkom 1. točkom a) ovoga Zakona primjenjuje na dvije ili više članica grupe, matična institucija u Europskoj uniji za koju je Državna agencija za osiguranje štednih uloga i sanaciju banaka sanacijsko tijelo za grupu izradit će plan reorganizacije poslovanja koji uključuje sve članice grupe, na način propisan za izradu i usvajanje planova oporavka kako je uređeno propisima kojima se uređuje poslovanje kreditnih institucija odnosno investicijskih društava i dostaviti ga Državnoj agenciji za osiguranje štednih uloga i sanaciju banaka.
+(2) Plan reorganizacije poslovanja iz stavka 1. ovoga članka, Državna agencija za osiguranje štednih uloga i sanaciju banaka dostavlja ostalim sanacijskim tijelima u državama članicama u kojima članice grupe imaju sjedište i Europskom nadzornom tijelu za bankarstvo.

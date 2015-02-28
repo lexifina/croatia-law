@@ -1,0 +1,6 @@
+## Stopa pretvaranja
+# Članak 42.
+(1) Ako Hrvatska narodna banka odnosno Hrvatska agencija za nadzor financijskih usluga postupa u skladu s člankom 37. stavkom 1. ovoga Zakona može primijeniti različitu stopu pretvaranja na različite kategorije relevantnih instrumenata kapitala i obveza u skladu s jednim ili oba načela iz stavaka 2. i 3. ovoga članka.
+(2) Stopa pretvaranja mora odražavati odgovarajuću naknadu pogođenom vjerovniku za svaki gubitak koji je pretrpio zbog smanjenja vrijednosti ili pretvaranja iz stavka 1. ovoga članka.
+(3) Ako Hrvatska narodna banka odnosno Hrvatska agencija za nadzor financijskih usluga primjenjuje različite stope pretvaranja u skladu sa stavkom 1. ovoga članka, stopa pretvaranja koja se primjenjuje na obveze koje u stečajnom postupku ulaze u više isplatne redove i imaju pravo prvenstva pri namirenju u stečajnom postupku, bit će više od stopa pretvaranja za obveze koje ulaze u niže isplatne redove.
+(4) Hrvatska narodna banka donijet će podzakonski propis kojim će pobliže urediti uvjete za određivanje stope pretvaranja. Hrvatska agencija za nadzor financijskih usluga donijet će provedbeni propis kojim će pobliže urediti uvjete za određivanje stope pretvaranja.

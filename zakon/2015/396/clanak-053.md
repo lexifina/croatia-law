@@ -1,0 +1,4 @@
+## Imenovanje sanacijske uprave u grupi
+# Članak 53.
+(1) Ako je potrebno imenovati sanacijsku upravu u nekoj od članica grupe koja je dio prekogranične grupe, Državna agencija za osiguranje štednih uloga i sanaciju banaka će imenovati sanacijsku upravu, odnosno sudjelovat će, zajedno s drugim sanacijskim tijelima u sanacijskom kolegiju u razmatranju imenovanja iste sanacijske uprave za sve članice grupe radi olakšavanja provedbe mjera za ponovno uspostavljanje financijske stabilnosti tih subjekata.
+(2) Ako je potrebno imenovati sanacijsku upravu u članici grupe koja je dio grupe koja nije prekogranična, Državna agencija za osiguranje štednih uloga i sanaciju banaka može imenovati istu sanacijsku upravu, za neke ili sve članice grupe koje su u sanaciji radi olakšavanja provedbe mjera za ponovno uspostavljanje financijske stabilnosti tih subjekata.
