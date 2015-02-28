@@ -1,0 +1,11 @@
+## III. UVJETI KOJE MORAJU ISPUNJAVATI KOPITARI KAKO BI SUDJELOVALI NA NATJECANJU
+# Članak 6.
+(1) Uvjeti koje moraju ispunjavati kopitari da bi sudjelovali na natjecanju donose i određuju:
+- HKS - za discipline konjičkog sporta koje su navedene u članku 2. stavku 5. ovoga Pravilnika, sukladno Općem pravilniku HKS-a za dotičnu natjecateljsku sezonu/godinu.
+- HGS imenuje rukovodstvo utrka za svaki trkaći dan temeljem Pravilnika o organiziranju i izvođenju galopskih utrka.
+- HKAS određuje osnovne kriterije za nastupanje konja na kasačkim utrkama i natjecanjima temeljem Pravilnika o kasačkim utrkama.
+(2) Na natjecanjima smiju sudjelovati samo prethodno pravilno upisana i zdrava grla i/ili grla koja su sa zdravstvenog stajališta sposobna natjecati se.
+(3) Pravilno upisana grla su ona grla koja su pravovremeno prijavljena za određeno natjecanje, utakmicu i utrku sukladno propozicijama, na propisani način i od strane osoblja koje je za to ovlašteno, sukladno Općem Pravilniku HKS- a, Pravilniku o galopskim utrkama HGS-a te Pravilniku o kasačkim utrkama HKAS-a, koji je na snazi za dotičnu natjecateljsku godinu/sezonu.
+(4) Redovne i naknadne prijave svih konja i natjecatelja za sudjelovanje na natjecanju moraju se napraviti do datuma i/ili vremenskog razdoblja naznačenog u propozicijama Općeg Pravilnika HKS- a, Pravilniku o galopskim utrkama HGS-a te Pravilniku o kasačkim utrkama HKAS-a koji su na snazi za dotičnu natjecateljsku godinu/sezonu.
+(5) Natjecatelji su dužni sebe i/ili natjecateljsko grlo pravilno prijaviti, imati i/ili steći natjecateljsku licencu, kako bi stekli pravo nastupa na natjecanju. Grla moraju biti upisana u matičnu knjigu koja se vodi u Republici Hrvatskoj ili u matičnu knjigu priznate uzgojne organizacije ili udruženja (od strane meritornih međunarodnih organizacija u konjičkom sportu, FEI, UET, IFHA) koja se vodi u inozemstvu. Grla koja se privremeno uvoze u Republiku Hrvatsku na određeno vrijeme treba pravovremeno i pravilno prijaviti HPA.
+(6) Utvrđivanje identiteta konja jedna je od najbitnijih stavki za vjerodostojnost natjecanja. Službeni dokument kojim se ispunjava utvrđivanje identiteta mora biti identifikacijski dokument kopitara odnosno putovnica.
