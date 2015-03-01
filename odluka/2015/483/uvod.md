@@ -1,0 +1,1 @@
+Na temelju članka 153. stavka 3. Zakona o službi u Oružanim snagama Republike Hrvatske (»Narodne novine«, br. 73/2013) donosim
