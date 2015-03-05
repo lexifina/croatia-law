@@ -1,0 +1,1 @@
+Na temelju članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine« br. 150/2011 i 119/2014) i članka 4. stavka 1. Zakona o osnivanju Agencije za investicije i konkurentnost (»Narodne novine« br. 53/2012, 56/2013 i 152/2014), Vlada Republike Hrvatske je na sjednici održanoj 5. ožujka 2015. donijela
