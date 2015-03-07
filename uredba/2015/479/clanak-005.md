@@ -1,0 +1,2 @@
+# Članak 5.
+Prilog - Prikaz Posredničkih tijela nadležnih za provedbu izabranih prioriteta ulaganja, po Operativnom programu koji je sastavni dio Uredbe o tijelima u Sustavima upravljanja i kontrole korištenja Europskog socijalnog fonda, Europskog fonda za regionalni razvoj i Kohezijskog fonda, u vezi s ciljem »Ulaganje za rast i radna mjesta« (»Narodne novine«, broj 107/2014) zamjenjuje se novim Prilogom - Prikaz Posredničkih tijela nadležnih za provedbu izabranih investicijskih prioriteta, po Operativnom programu koji je sastavni dio ove Uredbe.

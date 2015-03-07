@@ -1,0 +1,1 @@
+Uredba o izmjenama Uredbe o tijelima u sustavima upravljanja i kontrole korištenja Europskog socijalnog fonda, Europskog fonda za regionalni razvoj i Kohezijskog fonda, u vezi s ciljem "Ulaganje za rast i radna mjesta"
