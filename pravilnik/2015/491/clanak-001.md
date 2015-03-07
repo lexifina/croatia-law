@@ -1,0 +1,3 @@
+# Članak 1.
+U Pravilniku o stručnom ispitu te upotpunjavanju i usavršavanju znanja osoba koje obavljaju poslove prostornog uređenja i graditeljstva (»Narodne novine«, broj 24/08, 141/09, 23/11, 129/11, 109/12, 2/14, 65/14 i 136/14) u članku 12. stavku 4. briše se točka i dodaju riječi:
+» te iskustvo stečeno po završetku školovanja i stjecanju stručne spreme, odnosno završenom studiju i stjecanju stručnog, odnosno akademskog naziva odgovarajuće struke, propisane ovim Pravilnikom, provedeno na obavljanju stručne prakse sukladno posebnim Europskim programima na koje je kandidata uputilo tijelo iz Republike Hrvatske.«
