@@ -1,0 +1,11 @@
+## VI. USTROJAVANJE POSEBNIH RAZREDNIH ODJELA I POSEBNIH ODGOJNO-OBRAZOVNIH SKUPINA
+# Članak 14.
+(1) Posebni razredni odjeli i posebne odgojno-obrazovne skupine mogu se ustrojiti uz prethodnu suglasnost Ministarstva.
+(2) Uz zahtjev za ustrojavanjem posebnih razrednih odjela ili posebnih odgojno-obrazovnih skupina, škola je obvezna priložiti:
+- mišljenje osnivača škole i Ureda o potrebi ustroja odjela ili skupine odnosno programa školovanja učenika s teškoćama u razvoju u toj školi,
+- očitovanje škole o prostornim i kadrovskim uvjetima za provođenje programa i
+- rješenja o primjerenome programu obrazovanja za učenike koji bi polazili taj razredni odjel ili skupinu.
+(3) Kada na određenome upisnom području postoji od 3 do 5 učenika kojima je kao primjeren oblik obrazovanja utvrđeno školovanje u posebnom razrednom odjelu iz članka 5. stavka 5. ili članka 6. stavka 6. ovog pravilnika, u kojima se provode redoviti programi uz individualizirane postupke i/ili redoviti programi uz prilagodbu sadržaja i individualizirane postupke, uz prethodnu suglasnost Ministarstva posebni razredni odjeli mogu biti ustrojeni kao kombinirani razredni odjeli od I. do IV. razreda ili od V. do VIII. razreda osnovne škole i od I. do završnog razreda srednje škole.
+(4) Posebni razredni odjeli iz članka 8. ovog pravilnika, u kojima se provode posebni programi uz individualizirane postupke, uz prethodnu suglasnost Ministarstva, mogu biti ustrojeni kao kombinirani razredni odjeli od I. do IV. razreda ili od V. do VIII. razreda osnovne škole i od I. do završnog razreda srednje škole.
+(5) Iznimno od stavka 4. ovog članka, uz prethodnu suglasnost Ministarstva, posebni razredni odjeli iz članka 8. ovog pravilnika, u kojima se provode posebni programi uz individualizirane postupke, mogu biti ustrojeni kao kombinirani razredni odjeli od I. do VIII. razreda osnovne škole.
+(6) Uz prethodnu suglasnost Ministarstva, posebne odgojno-obrazovne skupine iz članka 9. ovog pravilnika, u kojima se provode posebni programi za stjecanje kompetencija u aktivnostima svakodnevnoga života i rada uz individualizirane postupke, kao i posebne odgojno-obrazovne skupine iz članka 11. ovog pravilnika, u kojima se provodi program produženoga stručnog postupka, mogu biti ustrojene kao kombinirane skupine.
