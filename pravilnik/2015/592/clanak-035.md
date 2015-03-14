@@ -1,0 +1,2 @@
+# Članak 35.
+Nakon što Ministarstvo prestane rendgenski uređaj koristiti, rashoduje ga, premjesti, otpiše ili otuđi, obvezno je u roku od 15 dana o tome u pisanom obliku obavijestiti Državni zavod za radiološku i nuklearnu sigurnost s naznakom naziva i adrese pravne ili fizičke osobe, tijela državne uprave ili tijela lokalne i područne (regionalne) samouprave kod koje se uređaj nalazi, odnosno naziva i adrese novog smještaja.

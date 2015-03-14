@@ -1,0 +1,3 @@
+# Članak 19.
+Smanjenje ozračenja postiže se povećanjem udaljenosti radnika koji provodi rendgensku provjeru sadržaja prtljage, ručne prtljage, paketa i pismovnih pošiljki uporabom kabinetskog rendgenskog uređaja od ulaza/izlaza u inspekcijski tunel te osiguranjem da su tijekom provođenja rendgenske kontrole olovne zavjesice rendgenskog uređaja pravilno zatvorene tijekom rada rendgenske cijevi.
+Radnik koji radi s kabinetskim rendgenskim uređajem nikada tijekom rada ne smije stavljati ruke i druge dijelove tijela unutar inspekcijskog tunela, a iza olovnih zavjesica tijekom rada rendgenske cijevi, u cilju stavljanja/vađenja predmeta koji se prosvjetljavaju.

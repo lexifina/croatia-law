@@ -1,0 +1,2 @@
+# Članak 14.
+Izloženi radnik je obvezan prijaviti sve bolesti ili zdravstvene nedostatke koje se teško mogu otkriti zdravstvenim pregledom, a on zna za njih, prije stupanja na rad, odnosno, čim se pojave tijekom rada. Izložene radnice su obvezne trudnoću odmah po utvrđivanju prijaviti osobi odgovornoj za zaštitu od ionizirajućeg zračenja kako bi im se osiguralo radno mjesto na kojem efektivna doza ne smije prijeći 1 mSv godišnje.

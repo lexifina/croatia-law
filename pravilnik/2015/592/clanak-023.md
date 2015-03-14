@@ -1,0 +1,3 @@
+# Članak 23.
+U cilju provjere stanja zaštite od ionizirajućeg zračenja provode se ispitivanja ionizirajućeg zračenja u prostoriji i radnom okolišu prostorije u kojoj su smješteni rendgenski uređaji za provjeru sadržaja prtljage i osobnih predmeta i prijenosni rendgenski uređaji te na radnim mjestima.
+Sadržaj i učestalost tih ispitivanja propisan je pravilnikom kojim se propisuje mjerenje osobnog ozračenja, ispitivanje izvora ionizirajućeg zračenja i uvjeta rada te izvješća i očevidnici te pravilnikom kojim se propisuju uvjeti i mjere zaštite od ionizirajućeg zračenja za obavljanje djelatnosti s električnim uređajima koji proizvode ionizirajuće zračenje.

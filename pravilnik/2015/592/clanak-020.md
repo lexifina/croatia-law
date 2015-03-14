@@ -1,0 +1,3 @@
+# Članak 20.
+Prijenosni rendgenski uređaj uključuje se putem vremenskog prekidača na dostatno dugim priključnim vodičima kako bi se omogućilo rukovanje uređajem iz područja nadgledanja, kad god je moguće. Korisni snop ionizirajućeg zračenja ne smije se u bilo kojim uvjetima rada usmjeriti prema mjestu s kojeg se uključuje uređaj.
+Izloženi radnik koji rukuje prijenosnim rendgenskim uređajem obavezan je postupati i sukladno točkama 3.1 Zaštita izvora ionizirajućeg zračenja i prostorija u kojima se izvor ionizirajućeg zračenja koristi i 3.2 Sustavi zaštite (znakovi upozorenja, sustavi za prekid zračenja i sl.) Analize rizika.

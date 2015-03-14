@@ -1,0 +1,1 @@
+Na temelju članka 124. Zakona o policiji (»Narodne novine« br. 34/11, 130/12, 89/14 i 151/14), a vezano uz članak 33. Zakona o radiološkoj i nuklearnoj sigurnosti (»Narodne novine« br. 141/13) te članak 13. Pravilnika o odobrenjima i dozvolama za uporabu i promet izvora ionizirajućeg zračenja (»Narodne novine« br. 71/12 i 89/13), ministar unutarnjih poslova donosi
