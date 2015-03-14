@@ -1,0 +1,8 @@
+# Članak 12.
+(1) Središnje etičko povjerenstvo obvezno je dati pisano mišljenje o prihvatljivosti predloženoga kliničkog ispitivanja u roku od 30 dana od dana primitka urednog zahtjeva propisanog ovim Pravilnikom.
+(2) Urednim zahtjevom u smislu ovoga Pravilnika podrazumijeva se predaja potpune dokumentacije propisane člankom 16. ovoga Pravilnika.
+(3) Središnje etičko povjerenstvo dužno je u roku od 5 dana od primitka zahtjeva, pisanim putem (elektroničkim putem ili telefaksom) obavijestiti podnositelja zahtjeva ako utvrdi da predana dokumentacija nije potpuna. U protivnom smatra se da je predani zahtjev uredan.
+(4) Iznimno od stavka 1. ovoga članka, Središnje etičko povjerenstvo obvezno je dati pisano mišljenje o prihvatljivosti predloženoga kliničkog ispitivanja gotovog lijeka namijenjenog za gensku terapiju, liječenje somatskim stanicama, uključujući i lijekove koji sadrže genetski modificirane organizme u roku od 90 dana od dana primitka urednog zahtjeva propisanog ovim Pravilnikom.
+(5) Rok iz stavka 1. ovoga članka može se produžiti za dodatnih 90 dana u slučaju potrebe savjetovanja sa stručnjacima ili povjerenstvima.
+(6) Za ksenogenične lijekove nije ograničen rok za davanje mišljenja o prihvatljivosti provođenja kliničkog ispitivanja.
+(7) U postupku davanja mišljenja o prihvatljivosti predloženog kliničkog ispitivanja Središnje etičko povjerenstvo može samo jednom zatražiti nadopunu dokumentacije, odnosno dostavu dodatnih podataka koji dopunjuju one koje je podnositelj zahtjeva već dostavio. Rokovi utvrđeni stavcima 1., 4. i 5. ovoga članka ne teku do dana primitka tražene dokumentacije.

@@ -1,0 +1,6 @@
+# Članak 30.
+(1) Naručitelj kliničkog ispitivanja može ispitanicima nakon završetka sudjelovanja u kliničkom ispitivanju omogućiti sudjelovanje u programu produženog liječenja ispitivanim lijekom, engl. »expanded access programmes«, (u daljnjem tekstu: program).
+(2) U slučaju iz stavka 1. ovoga članka podnositelj zahtjeva dužan je o planiranom programu obavijestiti Središnje etičko povjerenstvo i zatražiti suglasnost Ministarstva.
+(3) Podnositelj zahtjeva obvezan je navesti razloge pokretanja te trajanje programa, broj ispitivačkih mjesta i ispitanika u pojedinom ispitivačkom mjestu koji će sudjelovati u programu te dozu i način primjene lijeka. Uz zahtjev podnositelj je dužan priložiti izjave glavnih ispitivača kojima potvrđuju svoje sudjelovanje u programu i pristaju na daljnje praćenje sigurnosti primjene lijeka te da odnos rizika i koristi opravdava primjenu lijeka u dozama i na način koji je predviđen predloženim programom.
+(4) Podnositelj zahtjeva dužan je najmanje jednom godišnje izvijestiti Središnje etičko povjerenstvo i Ministarstvo o provedbi programa, s naglaskom na sigurnost primjene lijeka.
+(5) Podnositelj zahtjeva dužan je o završetku programa izvijestiti Središnje etičko povjerenstvo i Ministarstvo u roku od 90 dana od dana završetka programa.

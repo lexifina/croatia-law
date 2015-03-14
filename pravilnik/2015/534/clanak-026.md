@@ -1,0 +1,3 @@
+# Članak 26.
+(1) Ispitivač, kao i zdravstveni radnik koji sudjeluje u kliničkom ispitivanju, i sazna za štetni događaj koji se dogodio za vrijeme kliničkog ispitivanja obvezni su o tom događaju, sukladno posebnim propisima, obavijestiti podnositelja zahtjeva, osim onih za koje plan ispitivanja i uputa za ispitivača to ne zahtijevaju.
+(2) Agencija je obvezna voditi evidenciju o Izvješćima o neškodljivosti lijeka u razvoju (Development Safety Update Report - DSUR), o sumnjama na ozbiljne neočekivane nuspojave (Suspected Unexpected Serious Adverse Reactions - SUSAR) koje su se dogodile u kliničkim ispitivanjima u Republici Hrvatskoj i drugim sigurnosnim pitanjima te o tome obavijestiti Središnje etičko povjerenstvo i Ministarstvo.

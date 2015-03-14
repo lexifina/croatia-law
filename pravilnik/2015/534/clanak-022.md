@@ -1,0 +1,2 @@
+# Članak 22.
+Uz Smjernicu iz članka 21. ovoga Pravilnika, klinička ispitivanja nad maloljetnim osobama provode se i u skladu sa standardom određenim Smjernicom Europske agencije za lijekove i njenog tijela Committee for Proprietary Medicinal Products: »ClinicalInvestigation of Medicinal Products in the Paediatric Population« (CPMP/ICH/2711/99). Tekst Smjernice u prijevodu na hrvatski jezik otisnut je u Prilogu II. ovoga Pravilnika i čini njegov sastavni dio.

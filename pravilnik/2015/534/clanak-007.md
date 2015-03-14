@@ -1,0 +1,3 @@
+# Članak 7.
+(1) Kliničko ispitivanje lijeka, uključujući neprofitno kliničko ispitivanje, u Republici Hrvatskoj ne može započeti bez ishođenja pozitivnog mišljenja Središnjeg etičkog povjerenstva i odobrenja Ministarstva izuzev slučaja iz članka 14. stavka 9. ovoga Pravilnika.
+(2) Podnositelj zahtjeva, kojem je Ministarstvo dalo odobrenje za provođenje kliničkog ispitivanja na temelju pozitivnoga mišljenja Središnjega etičkog povjerenstva, a traži suglasnost za provođenje kliničkoga ispitivanja u dodatnim pravnim osobama, obvezan je pribaviti suglasnost Središnjega etičkog povjerenstva za svaku sljedeću pravnu osobu koja će biti uključena u kliničko ispitivanje, kao i ishoditi odobrenje Ministarstva.
