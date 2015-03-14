@@ -1,0 +1,1 @@
+Na temelju članka 8. i članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/2011 i 119/2014), te članka 49. stavka 3. i članka 54. stavka 6. Zakona o upravljanju i raspolaganju imovinom u vlasništvu Republike Hrvatske (»Narodne novine«, broj 94/2013), Vlada Republike Hrvatske je na sjednici održanoj 12. ožujka 2015. godine donijela
