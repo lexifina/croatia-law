@@ -1,0 +1,5 @@
+# Članak 38.
+Naslov iznad članka 86. i članak 86. mijenjaju se i glase:
+»6.2.3. Služba za izobrazbu
+Članak 86.
+Služba za izobrazbu priprema i provodi izobrazbu u području javne nabave; surađuje s drugim nadležnim tijelima na središnjoj, područnoj (regionalnoj) te lokalnoj razini i dionicima vezano uz analizu potreba razvoja programa izobrazbe u području javne nabave; analizira potrebe i razvija nove specifične programe izobrazbe u području javne nabave vezane uz Europske strukturne i investicijske fondove, zelenu i inovativnu javnu nabavu; utvrđuje uvjete za izdavanje i obnavljanje certifikata u području javne nabave; izdaje i obnavlja certifikate u području javne nabave, vodi zbirku podataka o izdanim i obnovljenim certifikatima u obliku Registra u području javne nabave; vodi registar nositelja programa u području javne nabave te obavlja druge poslove iz djelokruga Sektora.«.

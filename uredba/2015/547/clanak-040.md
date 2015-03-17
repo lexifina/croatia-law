@@ -1,0 +1,2 @@
+# Članak 40.
+Okvirni broj potrebnih državnih službenika i namještenika u Ministarstvu gospodarstva prikazan u tablici koja je sastavni dio Uredbe o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva gospodarstva (»Narodne novine«, broj 120/2014), zamjenjuje se Okvirnim brojem potrebnih državnih službenika i namještenika u Ministarstvu gospodarstva koji je sadržan u tablici tiskanoj u prilogu ove Uredbe i čini sastavni dio Uredbe o unutarnjem ustrojstvu Ministarstva gospodarstva.

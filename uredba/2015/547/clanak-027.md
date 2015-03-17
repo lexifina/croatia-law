@@ -1,0 +1,8 @@
+# Članak 27.
+Naslov iznad članka 77. i članak 77. mijenjaju se i glase:
+»6.1. Sektor za stručnu pomoć i nadzor
+Članak 77.
+Sektor za stručnu pomoć i nadzor provodi mjere u svrhu pravilne i ujednačene primjene zakona i provedbenih propisa u području javne nabave; provodi nadzor nad provedbom zakona i provedbenih propisa u području javne nabave uključujući koncesije za javne radove u svrhu sprječavanja ili otklanjanja nepravilnosti; vrši uvid u dokumentaciju postupaka javne nabave te analizira dokumentaciju i provedbu postupaka javne nabave; daje preporuke o načinu sprječavanja ili otklanjanja nepravilnosti; pokreće prekršajni postupak pred nadležnim prekršajnim sudom ako utvrdi nepravilnosti koje imaju obilježja prekršaja; prikuplja, evidentira, obrađuje i analizira nepravilnosti radi poduzimanja mjera za postizanje ujednačene i pravilne primjene zakona i provedbenih propisa u području javne nabave; pruža svim relevantnim dionicima stručnu pomoć u vezi s primjenom zakona i drugih propisa u području javne nabave te izrađuje provedbene alate s ciljem jedinstvenog postupanja u provođenju postupaka javne nabave; vodi Portal javne nabave; sudjeluje u pripremi izrade nacrta prijedloga zakona i prijedloga drugih propisa u području javne nabave te izradi povezanih propisa; surađuje s drugim državnim tijelima radi postizanja ujednačenog tumačenja i pravilne primjene propisa iz područja javne nabave; sudjeluje u pripremi i provedbi programa izobrazbe u području javne nabave; obavlja i druge poslove iz djelokruga Uprave.
+U Sektoru se ustrojavaju sljedeće službe:
+6.1.1. Služba za stručnu pomoć
+6.1.2. Služba za nadzor.«.
