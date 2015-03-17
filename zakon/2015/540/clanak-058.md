@@ -1,0 +1,2 @@
+# Članak 58.
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«, osim odredbi članaka 4., 6. i 9. ovoga Zakona koje stupaju na snagu sljedeći dan nakon isteka šest mjeseci od dana stupanja na snagu ovoga Zakona te odredbi članka 5. i članka 14. ovoga Zakona u dijelu koji se odnosi na članak 51. stavke 4., 5. i 6. Pomorskog zakonika (»Narodne novine«, br. 181/04., 76/07., 146/08., 61/11. i 56/13.) koje stupaju na snagu 1. siječnja 2016.

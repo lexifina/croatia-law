@@ -1,0 +1,2 @@
+# Članak 55.
+Ministar će u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona donijeti propise iz članka 15. ovoga Zakona u dijelu koji se odnosi na članak 52. stavak 11. Pomorskog zakonika, članka 16. ovoga Zakona o dijelu koji se odnosi na članak 53. stavak 7. Pomorskog zakonika, članka 17. ovoga Zakona u dijelu koji se odnosi na članak 54. stavak 6. Pomorskog zakonika, članka 19. ovoga Zakona u dijelu koji se odnosi na članak 57. stavak 4. Pomorskog zakonika i članka 23. ovoga Zakona u dijelu koji se odnosi na članak 132. stavak 11. Pomorskog zakonika.

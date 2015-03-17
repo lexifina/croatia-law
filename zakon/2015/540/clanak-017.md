@@ -1,0 +1,8 @@
+# Članak 17.
+Članak 54. mijenja se i glasi:
+»(1) Objekti sigurnosti plovidbe klasificiraju se po vrstama i kategoriziraju s obzirom na njihov značaj za sigurnost plovidbe.
+(2) Potreban broj, vrstu, poziciju odnosno područje rada objekata sigurnosti plovidbe, osim objekata iz članka 52. stavaka 3. i 4. ovoga Zakonika, njihov značaj te promjene ili njihovo uklanjanje/deaktiviranje utvrđuje Ministarstvo postupkom procjene prometnog opterećenja i rizika za ljudske živote i imovinu na moru te za okoliš najmanje svake tri godine.
+(3) Obvezu postavljanja objekata sigurnosti plovidbe iz članka 52. stavaka 3. i 4. ovoga Zakonika, njihovu vrstu, značaj, poziciju odnosno područje rada, karakteristike te rokove postavljanja određuje nadležna lučka kapetanija.
+(4) U postupcima iz stavaka 1. i 2. ovoga članka trgovačko društvo Plovput d. o. o. utvrđuje jedinstveni broj objekta sigurnosti plovidbe, naziv, karakteristiku, točnu poziciju te prema potrebi visinu nad morem, domet i obilježje svjetla odnosno druge tehničke karakteristike objekta sigurnosti plovidbe.
+(5) Ako osoba iz članka 52. stavaka 3. i 4. ovoga Zakonika ne postavi objekt sigurnosti plovidbe ili ako ga ne održava u ispravnom stanju, trgovačko društvo Plovput d. o. o. će na zahtjev nadležne lučke kapetanije, a na teret te osobe, postaviti objekt sigurnosti plovidbe ili ga dovesti u ispravno stanje.
+(6) Način i uvjete postavljanja odnosno uklanjanja i deaktiviranja, održavanja, klasifikacije i kategorizacije objekata sigurnosti plovidbe, sustav obilježavanja (balisaže) te vrste i karakteristike objekata sigurnosti plovidbe iz ovoga članka pravilnikom utvrđuje ministar.«.

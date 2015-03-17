@@ -1,0 +1,2 @@
+# Članak 11.
+U članku 47. stavku 1. podstavku 1. riječi: »plovni putovi u unutarnjim morskim vodama i u teritorijalnom moru Republike Hrvatske« zamjenjuju se riječima: »plovni putovi i objekti sigurnosti plovidbe u unutarnjim morskim vodama i u teritorijalnom moru Republike Hrvatske, hidrografska djelatnost, traganje i spašavanje osoba u pogibelji na moru, nadzor i upravljanje pomorskim prometom, obalne radiopostaje, pomorska meteorološka i hidrološka služba«.

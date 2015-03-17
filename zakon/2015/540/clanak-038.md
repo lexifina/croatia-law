@@ -1,0 +1,4 @@
+# Članak 38.
+U članku 429.c iza stavka 6. dodaju se stavci 7. i 8. koji glase:
+»(7) Razlika između tržišne i knjigovodstvene vrijednosti broda u trenutku podnošenja prijave iz stavka 1. ovoga članka uključuje se u povećanje osnovice poreza na dobit pri podnošenju prijave poreza na dobit za razdoblje u kojemu je taj brod sudjelovao u ostvarivanju oporezivih prihoda u skladu s propisima kojima se uređuje plaćanje poreza na dobit.
+(8) Ako brod koji je sudjelovao u sustavu poreza po tonaži broda prelazi na sustav plaćanja poreza na dobit, početna knjigovodstvena vrijednost toga broda može biti iskazana, najviše u iznosu koji bi bio utvrđen kada bi se troškovi amortizacije toga broda od početka korištenja iskazivali primjenom osnovnih ili ubrzanih amortizacijskih stopa u skladu s propisima o porezu na dobit.«.

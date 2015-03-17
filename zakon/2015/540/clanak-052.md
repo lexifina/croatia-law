@@ -1,0 +1,2 @@
+# Članak 52.
+Udio brodova pojedinog poreznog obveznika poreza po tonaži koji viju zastavu Republike Hrvatske ili druge države članice Europske unije ili Europskog gospodarskog prostora prijavljenih u sustav poreza po tonaži prije stupanja na snagu ovoga Zakona mora se zadržati na razini na kojoj je bio na dan stupanja na snagu ovoga Zakona ili se povećati, osim ako udio tih brodova nije bio viši od 60% u kojem slučaju se može smanjiti do najviše 60% ukupne tonaže tog poreznog obveznika.

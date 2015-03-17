@@ -1,0 +1,9 @@
+# Članak 6.
+Članak 13. mijenja se i glasi:
+»(1) Domaće i strane pravne i fizičke osobe te hrvatski ratni brod mogu obavljati istraživanja, ispitivanja, fotografiranja i/ili mjerenja mora, morskog dna i/ili morskog podzemlja unutarnjih morskih voda Republike Hrvatske samo uz odobrenje Ministarstva.
+(2) Odobrenje iz stavka 1. ovoga članka Ministarstvo izdaje uz prethodnu suglasnost središnjih tijela državne uprave nadležnih za poslove obrane, unutarnjih poslova, znanosti, zaštite okoliša i prirode, poljoprivrede, gospodarstva i kulture.
+(3) Odobrenje iz stavka 1. ovoga članka Ministarstvo izdaje u roku od šest mjeseci od dana primitka zahtjeva.
+(4) Istraživanja, ispitivanja, fotografiranja i/ili mjerenja mora, morskog dna i/ili morskog podzemlja iz stavka 1. ovoga članka obavljaju se u skladu s posebnim propisima uz udovoljavanje uvjetima sigurnosti plovidbe.
+(5) Iznimno od odredbe stavka 2. ovoga članka, hrvatski ratni brod može obavljati istraživanja, ispitivanja, fotografiranja i/ili mjerenja iz stavka 1. ovoga članka samo uz odobrenje Ministarstva.
+(6) Iznimno od odredbi stavaka 1. i 2. ovoga članka, domaće i strane pravne i fizičke osobe mogu obavljati arheološko istraživanje, fotografiranje i/ili druge oblike dokumentiranja kulturnog dobra na moru, morskom dnu i podzemlju unutarnjih morskih voda Republike Hrvatske uz odobrenje ministarstva nadležnog za poslove kulture koje se izdaje uz prethodnu suglasnost Ministarstva glede sigurnosti plovidbe i ministarstva nadležnog za poslove obrane glede interesa obrane.
+(7) Tijekom istraživanja, ispitivanja, fotografiranja i/ili mjerenja iz stavka 1. ovoga članka, ako se provodi brodom koji je ujedno i ratni brod, mora biti nazočan najmanje jedan stručni pripadnik Oružanih snaga Republike Hrvatske, odnosno ministarstva nadležnog za poslove obrane.«.

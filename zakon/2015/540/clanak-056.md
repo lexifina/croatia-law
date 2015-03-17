@@ -1,0 +1,4 @@
+# Članak 56.
+(1) Do stupanja na snagu propisa iz članka 54. stavka 1. ovoga Zakona ostaje na snazi Naredba o visini naknada koje plaćaju vlasnici pomorskih objekata u Republici Hrvatskoj (»Narodne novine«, br. 159/13.) u dijelu koji se odnosi na članak 12. Pomorskog zakonika (»Narodne novine«, br. 181/04., 76/07., 146/08., 61/11. i 56/13.).
+(2) Do stupanja na snagu propisa iz članka 54. stavka 1. ovoga Zakona ostaje na snazi Tarifni pravilnik kako je utvrđen u skladu s člankom 6. Zakona o Plovputu, Split (»Narodne novine«, br. 73/97.) u dijelu u kojem nije u suprotnosti s ovim Zakonom.
+(3) Stupanjem na snagu ovoga Zakona prestaje važiti Naredba iz stavka 1. ovoga članka u dijelu koji se odnosi na članak 188. stavak 3. i članak 203. stavak 4. Pomorskog zakonika (»Narodne novine«, br. 181/04., 76/07., 146/08., 61/11. i 56/13.).
