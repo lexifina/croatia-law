@@ -1,0 +1,1 @@
+Na temelju odredbe članka 43.a stavka 8. Zakona o tržištu kapitala (»Narodne novine« broj 88/08, 146/08, 74/09, 54/13, 159/13 i 18/15), Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća održanoj 27. veljače 2015. donosi
