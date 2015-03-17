@@ -1,0 +1,8 @@
+# Članak 17.
+Članak 24.b mijenja se i glasi:
+»(1) Dokumentacija iz članka 23. stavka 3. ovog Zakona dostavlja se izvanraspravnom vijeću nadležnog županijskog suda kada nije održano ročište iz članka 24.a ovog Zakona, odnosno kada je održano ročište iz članka 24.a ovog Zakona, ali tražena osoba nije pristala na predaju.
+(2) Po primitku dokumentacije predsjednik izvanraspravnog vijeća će odrediti održavanje sjednice vijeća u roku od tri dana.
+(3) Na sjednicu će biti pozvani državni odvjetnik, tražena osoba i njezin branitelj, ako ga ima, te tumač, ako je potrebno.
+(4) Predsjednik vijeća će na početku sjednice provjeriti je li tražena osoba primila i razumjela pouku o pravima, a ako nije, naložit će državnom odvjetniku da joj uruči pouku o pravima.
+(5) Državni odvjetnik će navesti osnovu za izdavanje europskog uhidbenog naloga, kazneno djelo na kojem je nalog utemeljen, kao i razloge za njegovo izdavanje te će predložiti priznavanje i izvršenje tog naloga. Također će se državni odvjetnik očitovati o daljnjoj osnovanosti istražnog zatvora ili mjera opreza ako su bile naložene traženoj osobi.
+(6) Tražena osoba i njezin branitelj očitovat će se na navode iz europskog uhidbenog naloga i navesti razloge protivljenju predaji, a mogu ukazati na postojanje razloga za odbijanje predaje iz članaka 20. i 21. ovog Zakona, kao i na dokaze kojima potkrjepljuju svoje navode. Tražena osoba može na sjednici izvanraspravnog vijeća dati pristanak na predaju državi izdavanja u smislu članka 27. ovog Zakona. U tom će slučaju izvanraspravno vijeće donijeti rješenje o predaji s pristankom iz članka 28. ovog Zakona.«.
