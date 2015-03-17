@@ -1,0 +1,4 @@
+## Javna objava rezultata natječaja i dostava pisanog odgovora sudionicima javnog natječaja
+# Članak 30.
+(1) Nakon što davatelj financijskih sredstava donese odluku o programima ili projektima koji su dobili financijska sredstva obvezan je javno objaviti rezultate natječaja s podacima o udrugama i programima ili projektima kojima su odobrena financijska sredstva i odobrenim financijskim iznosima. Rezultati natječaja objavljuju se na službenim mrežnim stranicama davatelja financijskih sredstava.
+(2) Davatelj financijskih sredstava obvezan je u roku od osam radnih dana od dana donošenja odluke o dodjeli financijskih sredstava obavijestiti udruge čiji projekti ili programi nisu prihvaćeni za financiranje o razlozima nefinanciranja njihova programa ili projekta uz navođenje ostvarenog broja bodova po pojedinim kategorijama ocjenjivanja i obrazloženja iz opisnog dijela ocjene ocjenjivanog programa ili projekta.

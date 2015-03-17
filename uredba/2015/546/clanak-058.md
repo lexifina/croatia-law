@@ -1,0 +1,4 @@
+## IX. PRIJELAZNE I ZAVRŠNE ODREDBE
+# Članak 58.
+(1) Udruga je dužna dostavljati dokaz o registraciji udruge i presliku statuta udruge sukladno članku 19. stavku 1. ove Uredbe dok ne uskladi svoj statut s odredbama Zakona o udrugama (»Narodne novine«, broj 74/2014), odnosno do objave statuta u registru udruga.
+(2) Udruga je dužna dostavljati svoje financijske izvještaje sukladno članku 19. stavku 1. ove Uredbe do javne objave financijskih izvještaja sukladno Zakonu o financijskom poslovanju i računovodstvu neprofitnih organizacija »Narodne novine« broj 121/2014), a iznimno od točke b) alineje 2. navedenog stavka, obveznici jednostavnog knjigovodstva za 2014. godinu uz Odluku o vođenju jednostavnog knjigovodstva i primjenu novčanog računovodstvenog načela prilažu presliku Knjige prihoda i rashoda i Knjige blagajne.

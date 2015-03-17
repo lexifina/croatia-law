@@ -1,0 +1,12 @@
+## VIII. KOORDINACIJA DAVATELJA FINANCIJSKIH SREDSTAVA I IZOBRAZBA U PRIMJENI UREDBE
+# Članak 57.
+Radi koordiniranog postupanja svih davatelja financijskih sredstava i izobrazbe o potrebi i važnosti dosljedne primjene ove Uredbe Ured za udruge:
+- koordinira pripremu, provedbu i praćenje javnih natječaja za financiranje programa i projekata udruga iz javnih izvora,
+- svim davateljima financijskih sredstava iz javnih izvora na nacionalnoj razini daje prethodno mišljenje o usklađenosti područja financiranja i postupka provedbe natječaja s ovom Uredbom, a za natječaje čija je vrijednost veća od 10 milijuna kuna obavlja i prethodnu kontrolu kvalitete natječajne dokumentacije i ostalih uvjeta koje moraju ispuniti davatelji financijskih sredstava vezano uz primjenu kriterija financiranja i ugovaranja programa i projekata iz članaka 3. i 4. ove Uredbe,
+- priprema objedinjeni godišnji plan natječaja i drugih programa financiranja udruga iz javnih izvora na nacionalnoj razini u svrhu usklađivanja i boljeg zajedničkog planiranja sredstava iz nacionalnih javnih izvora i sredstava iz fondova Europske unije namijenjenih financiranju programa i projekata udruga,
+- početkom svake godine organizira Info dane na kojima svi davatelji financijskih sredstava programima i projektima udruga na nacionalnoj razini potencijalnim i zainteresiranim korisnicima predstavljaju natječaje koje će raspisati u tekućoj godini,
+- prikuplja i objavljuje informacije o raspisanim natječajima na nacionalnoj i lokalnim razinama te ih objavljuje na mrežnim stranicama Ureda za udruge,
+- osigurava pravodobnu razmjenu informacija među davateljima financijskih sredstava o udrugama koje nenamjenski troše dodijeljena im sredstva ili se na drugi način ne pridržavaju ugovornih obveza,
+- priprema i na svojim mrežnim stranicama objavljuje Priručnik za postupanje u primjeni ove Uredbe, s oglednim obrascima natječajne dokumentacije, kao uputu davateljima financijskih sredstava,
+- provodi savjetovanje i izobrazbu zaposlenika davatelja financijskih sredstava koji rade na dodjeli financijskih sredstava udrugama o primjeni ove Uredbe,
+- najmanje jednom godišnje izvještava Vladu Republike Hrvatske te zainteresiranu i opću javnost i izrađuje cjelovite analize o financiranim programima ili projektima udruga i drugih organizacija civilnoga društva iz javnih izvora na nacionalnoj razini, područnoj i lokalnoj razini te iz fondova Europske unije, te usklađenosti postupaka financiranja i ugovaranja s ovom Uredbom.

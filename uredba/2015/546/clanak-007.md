@@ -1,0 +1,3 @@
+## Određivanje prioriteta za financiranje programa i/ili projekata
+# Članak 7.
+Davatelj financijskih sredstava u okviru svoga djelokruga na godišnjoj razini utvrđuje prioritetna područja za dodjelu financijskih sredstava programima i projektima sukladno mjerama iz programa, strategija, planova i drugih strateških dokumenata na nacionalnoj, odnosno lokalnoj i područnoj (regionalnoj) razini kojima se utvrđuju ciljevi i prioriteti u rješavanju problema vezanih uz opće dobro, javni interes ili javne potrebe, čije je provođenje u nadležnosti davatelja financijskih sredstava, a koja se provode u suradnji i partnerstvu s udrugama.

@@ -1,0 +1,5 @@
+## Izrada i objava godišnjeg plana raspisivanja javnih natječaja
+# Članak 8.
+(1) Davatelj financijskih sredstava u roku od 30 dana od dana usvajanja državnog proračuna, odnosno proračuna jedinice lokalne i područne (regionalne) samouprave za sljedeću kalendarsku godinu, izrađuje i na svojim službenim internetskim stranicama ili na drugi pogodan način objavljuje godišnji plan raspisivanja javnih natječaja iz članka 6. stavka 2. ove Uredbe.
+(2) Godišnji plan javnih natječaja sadrži podatke o davatelju financijskih sredstava, području, nazivu i planiranom vremenu objave javnog natječaja, ukupnom iznosu raspoloživih sredstava, rasponu sredstava namijenjenom za financiranje pojedinog programa, odnosno projekta, očekivanom broju programa i projekata koji će se ugovoriti za financiranje i, ovisno o vrsti javnog natječaja, druge podatke.
+(3) Davatelj financijskih sredstava na nacionalnoj razini godišnji plan javnih natječaja dostavlja Uredu za udruge, koji izrađuje i na svojim mrežnim stranicama objavljuje objedinjeni godišnji plan svih javnih natječaja na nacionalnoj razini iz članka 6. stavka 2. ove Uredbe.

@@ -1,0 +1,7 @@
+## II. KRITERIJI FINANCIRANJA I UGOVARANJA PROGRAMA I/ILI PROJEKATA
+## Preduvjeti za financiranje koje osigurava davatelj financijskih sredstava
+# Članak 3.
+(1) Davatelj financijskih sredstava osigurava financijska sredstva, organizacijske kapacitete i ljudske resurse za primjenu osnovnih standarda financiranja, ugovaranja i praćenja provedbe i vrednovanja rezultata programa i projekata iz svoga djelokruga.
+(2) Na temelju ciljeva i prioriteta definiranih u razvojnim strategijama i nacionalnim programima te drugim odgovarajućim strateškim dokumentima na nacionalnoj, odnosno lokalnoj i područnoj (regionalnoj) razini, davatelj financijskih sredstava u okviru svoga djelokruga utvrđuje prioritete za dodjelu financijskih sredstava programima i projektima i za to planira sredstva u proračunu, odnosno financijskom planu za narednu kalendarsku godinu.
+(3) Davatelj financijskih sredstava sustavno izgrađuje sposobnosti, posebna znanja i vještine svojih zaposlenika koji rade na poslovima dodjele financijskih sredstava, ugovaranju i praćenju provedbe programa i projekata sukladno ovoj Uredbi.
+(4) Ovisno o vrsti i uvjetima javnog natječaja ili javnog poziva davatelj financijskih sredstava u provedbi natječaja izrađuje obrasce natječajne dokumentacije sukladno ovoj Uredbi, a prema raspoloživim mogućnostima koristi jedinstveni informacijski sustav iz poglavlja VII. ove Uredbe, odnosno drugi odgovarajući informacijski sustav koji omogućuje provedbu i praćenje financiranja programa i projekata.

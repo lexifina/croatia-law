@@ -1,0 +1,4 @@
+## Odgovornost ugovornih strana
+# Članak 39.
+(1) Davatelj financijskih sredstava ne odgovara za štetu nastalu u odnosu na osoblje ili imovinu udruge tijekom provedbe ili slijedom posljedica programa ili projekta, ne može prihvatiti potraživanje za nadoknadom ili povećanjem iznosa plaćanja vezano uz takve štete ili povrede.
+(2) Korisnik financiranja je isključivo odgovoran trećim stranama, uključujući odgovornost za nastale štete ili povrede bilo koje vrste tijekom provedbe ili slijedom posljedica programa ili projekta. Korisnik financiranja ne može na davatelja financijskih sredstava prenijeti odgovornost, odnosno obvezu naknade štete koja proistječe iz potraživanja ili akcija poduzetih kao posljedica kršenja pravila ili propisa od strane korisnika financiranja ili zaposlenika korisnika ili pojedinaca za koje su ti zaposlenici odgovorni, ili kao posljedica kršenja prava treće strane.
