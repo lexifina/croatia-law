@@ -1,0 +1,1 @@
+Na temelju članka 5. stavka 5., članka 24. stavka 2. i članka 74. stavka 4. Zakona o alternativnim investicijskim fondovima (»Narodne novine« broj 16/2013 i 143/2014, dalje: Zakon), Hrvatska agencija za nadzor financijskih usluga (dalje: Agencija) na sjednici Upravnog vijeća održanoj 27. veljače 2015. godine donosi
