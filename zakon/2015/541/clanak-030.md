@@ -1,0 +1,3 @@
+# Članak 30.
+(1) Postupci pokrenuti prije stupanja na snagu ovoga Zakona dovršit će se prema odredbama Općeg poreznog zakona (»Narodne novine«, br. 147/08., 18/11., 78/12., 136/12. i 73/13.).
+(2) Iznimno od odredbi članka 13. ovoga Zakona koje se odnose na poreznu nagodbu, porezni obveznik kojem je u postupku poreznog nadzora do stupanja na snagu ovoga Zakona uručen zapisnik o provedenom poreznom nadzoru, odnosno čija je obveza utvrđena rješenjem koje nije izvršeno može u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona podnijeti prijedlog nadležnom poreznom tijelu za sklapanje porezne nagodbe o obvezi utvrđenoj tim rješenjem.
