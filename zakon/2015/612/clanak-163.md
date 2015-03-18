@@ -1,0 +1,4 @@
+## Uzimanje uzoraka i zapisnik o uzimanju uzoraka
+# Članak 163.
+(1) Kada je tijekom provođenja službene kontrole potrebno uzeti uzorak radi analize, inspektor je obvezan uzeti uzorak i dostaviti ga na analizu u ovlašteni službeni ili referentni laboratorij. Ako nema ovlaštenog službenog ili referentnog laboratorija za određenu analizu, inspektor može dostaviti uzorak na analizu u akreditirani laboratorij u nekoj od država članica Europske unije i koji je odredio ministar sukladno članku 115. ovoga Zakona ili posebnom propisu.
+(2) Uzorkovanje u svrhu provedbe uredbi iz članka 1. ovoga Zakona, ovoga Zakona i propisa donesenih na temelju njega obavlja se sukladno Zakonu o službenim kontrolama koje se provode sukladno propisima o hrani, hrani za životinje, o zdravlju i dobrobiti životinja (»Narodne novine«, br. 81/13. i 14/14.).

@@ -1,0 +1,14 @@
+## Potvrđivanje sukladnosti sa specifikacijom proizvoda
+# Članak 96.
+(1) Postupak potvrđivanja sukladnosti sa specifikacijom proizvoda za ZOI, ZOZP i ZTS (u daljnjem tekstu: postupak potvrđivanja sukladnosti) provodi se nakon donošenja rješenja o prijelaznoj nacionalnoj zaštiti naziva ZOI, ZOZP i ZTS, a provodi ga ovlašteno kontrolno tijelo iz članka 95. ovoga Zakona.
+(2) Postupak potvrđivanja sukladnosti iz stavka 1. ovoga članka provodi se prema planu kontrole, koji izrađuje kontrolno tijelo odabrano sukladno članku 88. stavku 16. ovoga Zakona. Plan kontrole izrađuje se na temelju specifikacije proizvoda za ZOI i ZOZP i mora ga odobriti Ministarstvo.
+(3) Odabrano kontrolno tijelo obvezno je plan kontrole iz stavka 2. ovoga članka izraditi i dostaviti na odobravanje Ministarstvu u roku od 60 dana od dana donošenja rješenja o prijelaznoj nacionalnoj zaštiti naziva ZOI ili ZOZP ili ZTS.
+(4) Postupak iz stavka 1. ovoga članka provodi se prema planu kontrole koji izrađuje Ministarstvo na temelju specifikacije proizvoda za ZTS.
+(5) Postupak iz stavka 1. ovoga članka pokreće se podnošenjem zahtjeva za potvrđivanje sukladnosti sa specifikacijom ovlaštenom kontrolnom tijelu iz članka 95. ovoga Zakona.
+(6) Zahtjev iz stavka 5. ovoga članka mora podnijeti svaki proizvođač proizvoda s nazivom zaštićenim kao ZOI ili ZOZP ili ZTS, prijelaznom nacionalnom zaštitom ili registriranim kao ZOI ili ZOZP ili ZTS na razini Europske unije, odnosno korisnik oznake, kao i svaki sudionik u lancu proizvodnje, prerade i distribucije naveden u specifikaciji proizvoda.
+(7) Nakon završenog postupka potvrđivanja sukladnosti kontrolno tijelo izdaje potvrdu o sukladnosti proizvoda sa specifikacijom (u daljnjem tekstu: potvrda o sukladnosti) korisniku oznake te istu u roku od sedam dana od dana izdavanja dostavlja Ministarstvu.
+(8) Potvrdu o sukladnosti kontrolno tijelo izdaje proizvođaču iz stavka 6. ovoga članka koji je prošao postupak potvrđivanja sukladnosti.
+(9) Ministarstvo vodi evidencije iz stavka 6. ovoga članka sukladno potvrdama o sukladnosti koje je dostavilo kontrolno tijelo.
+(10) Ako kontrolno tijelo utvrdi da proizvođač iz stavka 6. ovoga članka kao i svaki sudionik u lancu proizvodnje, prerade i distribucije ne proizvodi proizvod u skladu sa specifikacijom proizvoda, odnosno utvrdi velike nesukladnosti, o tome mora bez odgađanja izvijestiti Ministarstvo i nadležnu inspekciju.
+(11) Ministarstvo na prijedlog tijela nadležnih za službenu kontrolu i/ili kontrolnih tijela briše subjekte iz stavka 6. ovoga članka iz evidencije iz stavka 9. ovoga članka.
+(12) Postupak potvrđivanja sukladnosti, rokove, strukturu troškova i visinu naknade za provedbu postupka, sadržaj potvrde o sukladnosti, uvjete za poništavanje potvrda o sukladnosti, sadržaj i način vođenja evidencije ministar propisuje pravilnikom.

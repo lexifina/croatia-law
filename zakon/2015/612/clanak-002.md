@@ -1,0 +1,25 @@
+## Pojmovi
+# Članak 2.
+(1) Pojedini pojmovi u smislu ovoga Zakona imaju sljedeće značenje:
+1. Poljoprivrednik je fizička ili pravna osoba ili skupina fizičkih ili pravnih osoba koje obavljaju poljoprivrednu djelatnost na poljoprivrednom gospodarstvu, a obuhvaća sljedeće organizacijske oblike:
+- obiteljsko poljoprivredno gospodarstvo (u daljnjem tekstu: OPG)
+- obrt registriran za obavljanje poljoprivredne djelatnosti
+- trgovačko društvo ili zadruga registrirana za obavljanje poljoprivredne djelatnosti te
+- druga pravna osoba.
+2. OPG je fizička osoba ili skupina fizičkih osoba članova zajedničkog kućanstva, koje obavljaju poljoprivrednu djelatnost na poljoprivrednom gospodarstvu koristeći se vlastitim ili unajmljenim proizvodnim jedinicama.
+3. Poljoprivredno gospodarstvo čine sve proizvodne jedinice na kojima se obavlja poljoprivredna djelatnost i kojima upravlja poljoprivrednik, a koje se nalaze na području Republike Hrvatske.
+4. Poljoprivredna djelatnost obuhvaća bilinogojstvo, stočarstvo i s njima povezane uslužne djelatnosti, sukladno skupinama 01.1, 01.2, 01.3, 01.4, 01.5 i 01.6 Nacionalne klasifikacije djelatnosti.
+5. Doniranje hrane i hrane za životinje je davanje hrane i/ili hrane za životinje izravno ili preko posrednika krajnjem primatelju.
+6. Posrednik u lancu doniranja hrane i hrane za životinje je fizička ili pravna osoba registrirana u Republici Hrvatskoj i upisana u Registar posrednika koja prikuplja hranu i/ili hranu za životinje dobivenu od donatora te je daje krajnjem primatelju.
+7. Donator je subjekt u poslovanju s hranom, odnosno hranom za životinje iz članka 3. točaka 3. i 6. Uredbe (EZ) br. 178/2002 Europskog parlamenta i Vijeća od 28. siječnja 2002. o utvrđivanju općih načela i uvjeta zakona o hrani, osnivanju Europske agencije za sigurnost hrane te utvrđivanju postupaka u područjima sigurnosti hrane (SL L 31, 1. 2. 2002.).
+8. Krajnji primatelj je osoba u potrebi koja je socijalno ugrožena osoba i/ili osoba pogođena elementarnim nepogodama ili prirodnim katastrofama.
+9. Poljoprivredni proizvodi jesu proizvodi bilinogojstva i stočarstva te proizvodi prvog stupnja njihove prerade. Popis poljoprivrednih proizvoda naveden je u Prilogu 1. Ugovora o funkcioniranju Europske unije (u daljnjem tekstu: UFEU).
+10. Prerađeni poljoprivredni proizvodi jesu proizvodi dobiveni preradom poljoprivrednih proizvoda navedenih u Prilogu 1. UFEU-a. Popis prerađenih poljoprivrednih proizvoda naveden je u Prilogu II. Uredbe (EU) br. 510/2014 Europskog parlamenta i Vijeća od 16. travnja 2014. o utvrđivanju trgovinskih aranžmana primjenjivih na određenu robu dobivenu preradom poljoprivrednih proizvoda i stavljanju izvan snage uredaba Vijeća (EZ) br. 1216/2009 i (EZ) br. 614/2009.
+11. Službene kontrole u smislu ovoga Zakona su službene kontrole koje se provode u skladu s Uredbom (EZ) br. 882/2004 Europskog parlamenta i Vijeća od 29. travnja 2004. o službenim kontrolama koje se provode radi verifikacije postupanja u skladu s odredbama propisa o hrani i hrani za životinje te propisa o zdravlju i dobrobiti životinja (SL L 165, 30. 4. 2004.), (u daljnjem tekstu: Uredba (EZ) br. 882/2004).
+12. Integrirana proizvodnja poljoprivrednih proizvoda (u daljnjem tekstu: integrirana proizvodnja) podrazumijeva uravnoteženu primjenu agrotehničkih mjera uz uvažavanje ekonomskih, ekoloških i toksikoloških čimbenika pri čemu se kod jednakog ekonomskog učinka prednost daje ekološki i toksikološki prihvatljivim mjerama i pridonosi ublažavanju i prilagodbi klimatskim promjenama i bioraznolikosti.
+13. Proizvođač u integriranoj proizvodnji jest pravna ili fizička osoba koja proizvodi proizvode po principima integrirane proizvodnje sukladno ovom Zakonu i propisima donesenim na temelju ovoga Zakona, a koja je upisana u Upisnik proizvođača u integriranoj proizvodnji.
+14. Poljoprivredni proizvod iz integrirane proizvodnje (u daljnjem tekstu: integrirani proizvod) jest svaki poljoprivredni proizvod proizveden i označen sukladno propisima donesenim na temelju ovoga Zakona i odredbama propisa o informiranju potrošača o hrani.
+15. Brašno je proizvod dobiven mljevenjem pšenice, raži i kukuruza te drugih žitarica, a namijenjeno je ljudskoj prehrani. Pojam brašno obuhvaća i namjenske smjese i koncentrate koji u svom sastavu imaju više od 10 % pšeničnoga, raženoga ili kukuruznoga brašna.
+16. Stavljanje brašna na tržište podrazumijeva prodaju, prijevoz, skladištenje i čuvanje radi prodaje te bilo koji oblik razmjene ili ustupanja brašna uz naknadu ili bez naknade, isporuku brašna za uslugu mljevenja pšenice, raži i kukuruza, vlastitu preradu te uvoz i izvoz brašna.
+17. Proizvođač brašna je pravna ili fizička osoba registrirana za tu djelatnost u Republici Hrvatskoj koja prva stavlja brašno na tržište (proizvođač, vlasnik brašna iz uslužne meljave ako ga koristi za daljnju proizvodnju) i dužna je osigurati sljedivost proizvoda u skladu s važećim propisima o hrani i propisima donesenim na temelju ovoga Zakona.
+(2) Ostali pojmovi u smislu ovoga Zakona imaju jednako značenje kao pojmovi u uredbama iz članka 1. ovoga Zakona.

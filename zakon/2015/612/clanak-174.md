@@ -1,0 +1,9 @@
+## GLAVA XVIII.
+## PRIJELAZNE I ZAVRŠNE ODREDBE
+## Donošenje provedbenih propisa
+# Članak 174.
+(1) Propise iz članka 10. stavka 9. ovoga Zakona donijet će ministar u roku od jedne godine od dana donošenja Programa.
+(2) Propise iz članka 21., članka 22., članka 30. stavka 2., članka 32. stavka 2., članka 33. stavka 5., članka 34. stavka 5., članka 37. stavka 3., članka 41. stavka 6., članka 42. stavka 2., članka 43. stavka 4., članka 44. stavka 3., članka 48. stavka 7., članka 67. stavka 2., članka 69. stavka 3., članka 70. stavka 7., članka 75. stavka 3., članka 76. stavka 5., članka 77. stavka 3., članka 78. stavka 3., članka 82. stavka 2., članka 84. stavka 3., članka 85. stavka 4., članka 99. stavka 10., članka 107. stavka 4., članka 110. stavka 8., članka 117. stavka 2., članka 120. stavka 2., članka 121. stavka 13., članka 123. stavka 3., članka 126. stavaka 2. i 7., članka 129. stavka 3., članka 138. stavka 4., članka 147. stavka 3., članka 158. stavka 2. i članka 164. stavka 7. ovoga Zakona donijet će ministar u roku od godinu dana od dana stupanja na snagu ovoga Zakona.
+(3) Propise iz članka 86. stavaka 3., 4. i 5., članka 88. stavaka 18. i 19., članka 90. stavka 3., članka 91. stavka 5., članka 94. stavka 3., članka 95. stavka 9., članka 96. stavka 12., članka 97. stavka 7. i članka 98. stavka 9. ovoga Zakona donijet će ministar u roku od dvije godine od dana stupanja na snagu ovoga Zakona.
+(4) Propis iz članka 74. ovoga Zakona donijet će ministar u roku od 90 dana od dana stupanja na snagu ovoga Zakona.
+(5) Propise iz članka 51. stavka 3., članka 52. stavka 9., članka 53. stavka 3., članka 54. stavka 3., članka 57. stavka 7., članka 58. stavka 6., članka 59. stavka 3., članka 60. stavka 2., članka 61. stavka 3., članka 65. stavaka 1. i 4. ovoga Zakona donijet će ministar u skladu s potrebama provedbe Uredbe (EU) br. 1308/2013, Uredbe (EZ) br. 110/2008 i Uredbe (EZ) br. 3/2008.

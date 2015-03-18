@@ -1,0 +1,32 @@
+## Rješenje
+# Članak 165.
+(1) Ako inspektor u provedbi službenih kontrola utvrdi da su povrijeđene odredbe uredbi iz članka 1. ovoga Zakona ili propisa donesenih na temelju njega, osim ako posebnim propisom nije drukčije uređeno, ima pravo i obvezu rješenjem:
+1. narediti da se utvrđene nepravilnosti, odnosno nedostaci otklone u određenom roku
+2. ograničiti ili zabraniti ili privremeno zabraniti stavljanje na tržište i/ili narediti povlačenje s tržišta i/ili opoziv od krajnjeg potrošača hrane i poljoprivrednih proizvoda s utvrđenim nesukladnostima ili koja nije u skladu s propisanim ili označenim zahtjevima standarda kvalitete i/ili pravilima
+3. ograničiti ili zabraniti ili privremeno zabraniti stavljanje na tržište i/ili narediti povlačenje s tržišta poljoprivrednih ili prehrambenih proizvoda koji nisu u skladu s tržišnim standardima i/ili ne odgovaraju definicijama, oznakama i prodajnim oznakama
+4. ograničiti ili zabraniti ili privremeno zabraniti stavljanje na tržište hrane i poljoprivrednih proizvoda ako subjekt u poslovanju s hranom/nadzirani subjekt ne postupi po rješenju iz podstavaka 1. ovoga stavka
+5. zabraniti stavljanje na tržište hrane za koju nije proveden postupak iz članka 71. stavka 4. ovoga Zakona
+6. narediti povrat nezakonito ostvarenih sredstava potpore iz članka 142. stavka 7. ovoga Zakona
+7. utvrditi da korisnik djelomično ili u cijelosti ne udovoljava uvjetima za ostvarivanje prava na potporu
+8. djelomično ili potpuno zabraniti provođenje mjera na temelju ovoga Zakona ako utvrdi povrede propisa
+9. zabraniti obavljanje dopunske djelatnosti ako ne ispunjava propisane uvjete
+10. zabraniti obavljanje dopunskih djelatnosti na OPG-u ako je nositelj ili član registriran za istu vrstu djelatnosti, odnosno zakonski zastupnik pravne osobe ili ako isti ima većinski udjel u pravnoj osobi
+11. narediti kontrolnom tijelu iz članka 77. ovoga Zakona da ekološkom subjektu poništi potvrdnicu kada utvrdi da je izdana za ekološki proizvod koji nije proizveden sukladno propisanim odredbama
+12. zabraniti korištenje znaka ekološkog proizvoda Europske unije i stavljanje u promet proizvoda označenih oznakama koje upućuju na ekološku proizvodnju, a za koje utvrdi da su proizvedeni na način koji je u suprotnosti s odredbama Uredbe Vijeća (EZ) br. 834/2007, ovoga Zakona i propisa donesenih na temelju istih
+13. zabraniti korištenje pojmova i oznaka koji upućuju na ekološku proizvodnju fizičkim i pravnim osobama koje nisu upisane u Upisnik subjekata u ekološkoj proizvodnji
+14. zabraniti rad kontrolnom tijelu ako utvrdi da ono ne ispunjava uvjete iz članka 27. stavka 5. Uredbe Vijeća (EZ) br. 834/2007 i članka 77. stavka 3. ovoga Zakona, do dostave dokaza o ispunjavanju propisanih uvjeta
+15. poništiti potvrdu proizvođaču u integriranoj proizvodnji koju je izdalo nadzorno tijelo iz članka 85. ovoga Zakona, kada se utvrdi da su povrijeđene propisane odredbe
+16. ograničiti ili zabraniti ili privremeno zabraniti stavljanje na tržište i/ili narediti povlačenje s tržišta poljoprivrednih ili prehrambenih proizvoda označenih zaštićenim ili registriranim oznakama izvornosti, oznakama zemljopisnog podrijetla i zajamčeno tradicionalnog specijaliteta, za koje nije izdana potvrda o sukladnosti iz članka 96. ovoga Zakona
+17. ograničiti ili zabraniti ili privremeno zabraniti stavljanje na tržište i/ili narediti povlačenje s tržišta poljoprivrednih ili prehrambenih proizvoda označenih nacionalnim neobveznim izrazima kvalitete, dobrovoljnim shemama kvalitete ako proizvodi nisu proizvedeni sukladno članku 98. ovoga Zakona
+18. ograničiti ili zabraniti ili privremeno zabraniti stavljanje na tržište i/ili narediti povlačenje s tržišta poljoprivrednih ili prehrambenih proizvoda za ZOI, ZOZP i ZTS iz članka 86. ovoga Zakona koji nisu proizvedeni u skladu sa specifikacijom proizvoda ili proizvoda koji nisu sukladni specifikaciji proizvoda
+19. narediti kontrolnom tijelu iz članka 95. ovoga Zakona da korisniku oznake izvornosti, oznake zemljopisnog podrijetla ili zajamčeno tradicionalnog specijaliteta poništi potvrdu kada se utvrdi da nadzirana serija (lot) proizvoda nije proizvedena sukladno specifikaciji ili proizvod nije sukladan specifikaciji proizvoda
+20. narediti uklanjanje nedostataka i nepravilnosti obvezniku uspostave i primjene ljestvice Unije za klasiranje i označivanje trupova u sektorima govedine i teletine, svinjetine, ovčetine i kozletine
+21. narediti povlačenje s tržišta prirodne mineralne vode ili prirodne izvorske vode za koju nije proveden postupak priznavanja i izdano rješenje o priznavanju, odnosno prirodne mineralne vode koju nije priznalo nadležno tijelo bilo koje države članice Europske unije, kao i prirodne mineralne vode za koju nije proveden postupak odobravanja korištenja navoda »pogodno za pripremu hrane za dojenčad«, »može imati laksativan učinak« i »može imati diuretski učinak« i izdano rješenje o odobrenju korištenja navoda
+22. zabraniti izvoz voća i povrća koje nije označeno sukladno Uredbi (EU) br. 1308/2013 i provedbenoj Uredbi (EK) br. 543/2011 od 7. lipnja 2011. o utvrđivanju detaljnih pravila za primjenu Uredbe Vijeća (EZ) br. 1234/2007 za sektor voća i povrća te prerađevina voća i povrća, ovoga Zakona i posebnih propisa donesenih na temelju njega
+23. narediti rok za otklanjanje nedostataka ako pravna ili fizička osoba ne dostavlja podatke Ministarstvu sukladno članku 129. stavcima 1. i 2. ovoga Zakona
+24. narediti otklanjanje nedostataka i nepravilnosti u vođenju propisanih evidencija i dokumentacije nadziranih subjekata
+25. odrediti druge mjere i radnje za koje je ovlašten
+26. poduzeti i druge mjere, odnosno izvršiti druge radnje za koje je ovlašten ovim Zakonom, propisima donesenim na temelju ovoga Zakona i posebnim propisima.
+(2) U slučaju iz stavka 1. podstavka 1. ovoga članka kada je za uklanjane nepravilnosti nužno angažiranje vanjskih izvođača radova, rok ne može biti kraći od 90 dana.
+(3) Inspektor će donijeti rješenje iz stavka 1. ovoga članka bez odgode, a najkasnije u roku od 30 dana od dana završetka službene kontrole.
+(4) Ako fitosanitarni inspektor pri kontroli usklađenosti voća, povrća i banana s tržišnim standardima utvrdi da oni nisu usklađeni s tržišnim standardima ili da su povrijeđene druge odredbe ovoga Zakona ili propisa donesenih na temelju njega, rješenjem će zabraniti ili privremeno zabraniti uvoz toga voća, povrća i banana te poduzeti ostale radnje određene ovim Zakonom i propisom donesenim na temelju ovoga Zakona.

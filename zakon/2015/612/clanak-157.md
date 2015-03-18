@@ -1,0 +1,4 @@
+## Stručni uvjeti za raspored na radno mjesto inspektora
+# Članak 157.
+(1) Poslove inspektora može obavljati osoba koja ima završen diplomski sveučilišni studij ili specijalistički diplomski stručni studij iz polja poljoprivrede (agronomije), prehrambene tehnologije, biotehnologije ili nutricionizma, polja kemije, polja kemijskog inženjerstva, polja veterinarske medicine, položen državni stručni ispit za inspektora i najmanje četiri godine radnog iskustva na odgovarajućim poslovima.
+(2) Poslove višeg inspektora i višeg inspektora specijalista može obavljati osoba koja ima završen diplomski sveučilišni studij ili specijalistički diplomski stručni studij iz polja poljoprivrede (agronomije), prehrambene tehnologije, biotehnologije ili nutricionizma, polja kemije, polja kemijskog inženjerstva, polja veterinarske medicine, položen državni stručni ispit za inspektora te ima najmanje pet godina radnog iskustva na odgovarajućim poslovima.

@@ -1,0 +1,4 @@
+# Članak 182.
+Do donošenja propisa iz članka 174. ovoga Zakona ostaju na snazi u dijelu u kojem nisu u suprotnosti s odredbama ovoga Zakona propisi doneseni na temelju Zakona o zaštićenim oznakama izvornosti, zaštićenim oznakama zemljopisnog podrijetla i zajamčeno tradicionalnim specijalitetima poljoprivrednih i prehrambenih proizvoda (»Narodne novine«, br. 80/13. i 14/14.):
+1. Pravilnik o zaštićenim oznakama izvornosti, zaštićenim oznakama zemljopisnog podrijetla i zajamčeno tradicionalnim specijalitetima poljoprivrednih i prehrambenih proizvoda (»Narodne novine«, br. 86/13.)
+2. Pravilnik o nacionalnom znaku zaštićene oznake izvornosti, zaštićene oznake zemljopisnog podrijetla i zajamčeno tradicionalnog specijaliteta poljoprivrednih i prehrambenih proizvoda (»Narodne novine«, br. 69/14.).
