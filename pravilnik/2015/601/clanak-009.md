@@ -1,0 +1,33 @@
+# Članak 9.
+Iza članka 12. dodaju se novi članci 12.a do 12.d i naslovi iznad njih koji glase:
+»Ograničenja ulaganja kod repliciranja indeksa
+Članak 12.a
+(1) Iznimno od ograničenja iz članka 12. stavka 1. točke 1. ovoga Pravilnika, i neovisno o ograničenjima ulaganja iz članka 12.d ovoga Pravilnika, do 20% neto vrijednosti imovine AIF-a može se uložiti u dionice ili dužničke vrijednosne papire jednog izdavatelja, ako je cilj strategije ulaganja AIF-a replicirati određeni dionički indeks ili obveznički indeks koji priznaje Agencija. Repliciranje indeksa znači repliciranje temeljne imovine indeksa, a u tu svrhu dozvoljeno je i korištenje financijskih izvedenica.
+(2) Indeks iz stavka 1. ovoga članka mora ispunjavati sljedeće uvjete:
+a) njegov je sastav dovoljno diverzificiran na način da su sastavnice indeksa usklađene s načelima razdiobe rizika iz stavaka 1. i 3. ovoga članka,
+b) predstavlja adekvatnu referentnu vrijednost tržišta na koje se odnosi,
+c) da se objavljuje na adekvatan način.
+(3) Iznimno od ograničenja iz stavka 1. ovoga članka, do 35% neto vrijednosti imovine AIF-a može se uložiti u dionice ili dužničke vrijednosne papire jednog izdavatelja kada je to prijeko potrebno za repliciranje indeksa i opravdano iznimnim tržišnim uvjetima, a posebno na uređenim tržištima na kojima je određeni prenosivi vrijednosni papir ili instrument tržišta novca visoko dominantan. Ulaganje do 35% neto vrijednosti imovine AIF-a u dionice ili dužničke vrijednosne papire jednog izdavatelja dozvoljeno je samo za jednog izdavatelja.
+Ograničenja ulaganja u prenosive vrijednosne papire i instrumente tržišta novca čiji su izdavatelji ili za koje jamče javna tijela
+Članak 12.b
+Iznimno od ograničenja iz članka 12. stavka 1. točke 5. ovoga Pravilnika, do 100% neto imovine AIF-a može se uložiti u prenosive vrijednosne papire i instrumente tržišta novca čiji je izdavatelj ili za koje jamči Republika Hrvatska ili jedinica lokalne i područne (regionalne) samouprave Republike Hrvatske, druga država članica ili jedinica lokalne i područne (regionalne) samouprave države članice, treća država ili javno međunarodno tijelo kojemu pripadaju jedna ili više država članica, pod uvjetom da:
+a) je zaštita ulagatelja u takav AIF jednaka onoj koju imaju ulagatelji u AIF čija se imovina ulaže u skladu s ograničenjima iz članka 12. stavka 1. ovoga Pravilnika,
+b) se imovina AIF-a sastoji od barem šest različitih vrijednosnih papira ili instrumenata tržišta novca, ali vrijednost niti jednog pojedinog vrijednosnog papira ili instrumenta tržišta novca ne prelazi 30% neto vrijednosti imovine AIF-a,
+c) u prospektu i promidžbenim sadržajima AIF-a budu jasno naznačene države članice, jedinice lokalne i područne (regionalne) samouprave države članice, treće države ili javno međunarodno tijelo kojemu pripadaju jedna ili više država članica u čije vrijednosne papire i instrumente tržišta novca se namjerava ulagati više od 35% neto vrijednosti imovine fonda.
+Ograničenja ulaganja u udjele investicijskih fondova
+Članak 12.c
+(1) Najviše 30% neto vrijednosti imovine AIF-a može biti uloženo u udjele ili dionice jednog investicijskog fonda iz članka 10. stavka 2. točke 4. podtočaka a) do c) ovoga Pravilnika, uz uvjet da najviše 40% neto vrijednosti imovine AIF-a može biti uloženo u investicijske fondove iz članka 10. stavka 2. točke 4. podtočke c) ovoga Pravilnika.
+(2) Imovina investicijskog fonda iz članka 10. stavka 2. točke 4. ovoga Pravilnika u koji je AIF uložio ne uključuje se u izračune ograničenja ulaganja iz članka 12. stavka 1. ovoga Pravilnika.
+(3) Najviše 10% neto vrijednosti imovine AIF-a može biti uloženo u subjekte za zajednička ulaganja iz članka 10. stavka 2. točke 4. podtočke d) ovoga Pravilnika.
+(4) Ako se imovina AIF-a ulaže u udjele ili dionice investicijskih fondova kojima upravlja, izravno ili na temelju delegiranja, isto društvo za upravljanje ili neko drugo društvo s kojim je to društvo za upravljanje povezano zajedničkom upravom ili kontrolom, ili značajnim izravnim ili neizravnim međusobnim vlasničkim udjelom, takvo društvo za upravljanje ili drugo društvo ne smiju zaračunavati ulaznu ili izlaznu naknadu kod ulaganja AIF-a u udjele ili dionice tih drugih investicijskih fondova.
+(5) Ako se značajan dio imovine AIF-a ulaže u udjele ili dionice investicijskih fondova iz članka 10. stavka 2. točke 4. ovoga Pravilnika, u prospektu AIF-a, uz maksimalnu naknadu za upravljanje koju je moguće zaračunati iz imovine samog AIF-a, mora biti jasno naznačena i maksimalna naknada za upravljanje koju je moguće zaračunati iz imovine drugih investicijskih fondova u koje namjerava ulagati, a u revidiranim godišnjim izvještajima AIF-a mora jasno biti naznačen maksimalan postotak naknade za upravljanje koja je zaračunata iz imovine AIF-a i iz imovine drugog investicijskog fonda u koji je taj AIF uložio.
+Ograničenja ulaganja radi sprječavanja značajnog utjecaja nad izdavateljima
+Članak 12.d
+(1) AIF s javnom ponudom može steći najviše:
+a) 25% dionica s pravom glasa jednog izdavatelja,
+b) 15% dionica bez prava glasa jednog izdavatelja,
+c) 25% dužničkih vrijednosnih papira jednog izdavatelja,
+d) 30% udjela pojedinog investicijskog fonda iz članka 10. stavka 2. točke 4. ovog Pravilnika
+e) 15% instrumenata tržišta novca jednog izdavatelja,
+f) ograničenja iz točaka c), d) i e) ovoga stavka mogu se zanemariti u trenutku stjecanja ako u tom trenutku nije moguće izračunati ukupan broj ili vrijednost instrumenata u opticaju.
+(2) Ograničenja iz stavka 1. ovoga članka ne primjenjuju se na prenosive vrijednosne papire i instrumente tržišta novca čiji je izdavatelj ili za koje jamči Republika Hrvatska, jedinica lokalne i područne (regionalne) samouprave Republike Hrvatske, druga država članica, jedinica lokalne i područne (regionalne) samouprave države članice, treća država ili javna međunarodna tijela kojima pripada jedna ili više država članica.«.
