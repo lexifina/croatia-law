@@ -1,0 +1,5 @@
+## Očuvanje površina pod trajnim pašnjacima
+# Članak 10.
+(1) Trajni pašnjak u smislu ovoga Pravilnika je trajni pašnjak u skladu s člankom 93. stavak 5. Uredbe (EU) br. 1306/2013.
+(2) Kako bi se osiguralo da površina pod trajnim pašnjacima iz stavka 1. ovoga članka ostane u okviru granica definiranih člankom 93. stavak 3. Uredbe (EU) br. 1306/2013 i člankom 37. stavak 1. Delegirane Uredbe Komisije (EU) br. 640/2014., Agencija za plaćanja će u 2015. i 2016. godini pratiti odnos površina pod trajnim pašnjacima i ukupnih poljoprivrednih površina na nacionalnoj razini na temelju površina za koje obveznici iz članka 6. ovoga Pravilnika podnose zahtjev za potporu u tekućoj godini, a u odnosu na dan 1. srpnja 2013. godine.
+(3) Ukoliko se praćenjem odnosa površina iz stavka 2. ovoga članka zabilježi smanjenje površina pod trajnim pašnjacima u Republici Hrvatskoj veće od 5% u odnosu na stanje 1. srpnja 2013. godine, ministar poljoprivrede će naredbom propisati obvezu vraćanja prenamijenjenih poljoprivrednih površina u trajne pašnjake.
