@@ -1,0 +1,1 @@
+Na temelju članka 63. stavaka 2., 3., 5. i 7. Zakona o alternativnim investicijskim fondovima (»Narodne novine«, broj 16/2013 i 143/2014) i članka 15. stavka 5. Zakona o računovodstvu (»Narodne novine«, broj 109/2007, 54/2013 i 121/2014) Hrvatska agencija za nadzor financijskih usluga (dalje: Agencija) na sjednici Upravnog vijeća održanoj 6. ožujka 2015. godine donijela je
