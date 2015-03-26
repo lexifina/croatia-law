@@ -1,0 +1,5 @@
+# Članak 11.
+(1) Neprofitna organizacija iz članka 5. stavka 1. ovoga Pravilnika predaje Ministarstvu financija, odnosno drugoj instituciji koju Ministarstvo financija ovlasti za zaprimanje i obradu financijskih izvještaja, financijske izvještaje u elektroničkom obliku objavljene na internetskoj stranici Ministarstva financija.
+(2) Neprofitna organizacija uz financijske izvještaje u elektroničkom obliku iz stavka 1. ovoga članka Ministarstvu financija, odnosno drugoj instituciji koju Ministarstvo financija ovlasti za zaprimanje i obradu financijskih izvještaja, predaje i Referentnu stranicu ovjerenu potpisom zakonskog zastupnika i pečatom.
+(3) Referentna stranica iz stavka 2. ovoga članka nalazi u prilogu ovoga Pravilnika i njegov je sastavni dio.
+(4) Neprofitna organizacija može Ministarstvu financija, odnosno drugoj instituciji koju Ministarstvo financija ovlasti za zaprimanje i obradu financijskih izvještaja, predati financijske izvještaje na obrascima propisanim ovim Pravilnikom i u papirnatom obliku.

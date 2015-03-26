@@ -1,0 +1,1 @@
+Na temelju članka 6. stavka 3., članka 30. stavka 3., članka 34. stavka 7., članka 35. stavka 3. i članka 36. stavka 3. Zakona o financijskom poslovanju i računovodstvu neprofitnih organizacija (»Narodne novine«, br. 121/14) ministar financija donosi
