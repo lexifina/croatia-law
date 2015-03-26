@@ -1,0 +1,1 @@
+Odluka o davanju suglasnosti Ministarstvu zdravlja, za angažiranje fizičkih ili pravnih osoba za poslove strateškog i operativnog planiranja odnosa s javnošću i realizacije komunikacijskih aktivnosti s ciljem informiranja javnosti Republike Hrvatske o implementaciji reformskih mjera koje provodi Ministarstvo zdravlja
