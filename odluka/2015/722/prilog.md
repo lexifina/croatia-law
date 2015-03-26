@@ -1,0 +1,1 @@
+35 27.03.2015 Odluka o koncesiji u svrhu gospodarskog korištenja pomorskog dobra radi obavljanja djelatnosti uzgoja bijele ribe u akvatoriju Vrgadskog kanala 35 27.03.2015 Odluka o koncesiji u svrhu gospodarskog korištenja pomorskog dobra radi obavljanja djelatnosti uzgoja bijele ribe u akvatoriju Vrgadskog kanala
