@@ -1,0 +1,1 @@
+Na temelju članka 74. stavka 4. Zakona o zdravstvenoj zaštiti (»Narodne novine«, br. 150/08., 71/10., 139/10., 22/11., 84/11., 12/12., 35/12., 70/12., 82/13., 159/13., 22/14. i 154/14.) ministar zdravlja donosi
