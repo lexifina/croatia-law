@@ -1,0 +1,1 @@
+Na temelju članka 6. stavka 2. i članka 7. stavka 1. Zakona o plaćama u javnim službama (»Narodne novine«, br. 27/2001 i 39/2009), Vlada Republike Hrvatske je na sjednici održanoj 18. ožujka 2015. godine donijela
