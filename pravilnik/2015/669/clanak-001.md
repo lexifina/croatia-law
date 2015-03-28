@@ -1,0 +1,3 @@
+# Članak 1.
+(1) Ovim se Pravilnikom, radi zaštite zdravlja i sigurnosti noćnih radnika, osim noćnih radnika iz članka 72. stavka 4. Zakona o radu, utvrđuje sadržaj, način i rokovi zdravstvenih pregleda radnika koji rasporedom radnog vremena svoj rad obavlja kao noćni radnik, a koji takav rad može obavljati samo nakon prethodnog utvrđivanja zdravstvene sposobnosti, način utvrđivanja zdravstvene sposobnosti, rokovi u kojima se mora ponoviti utvrđivanje zdravstvene sposobnosti, te sadržaj i način izdavanja svjedodžbe o zdravstvenoj sposobnosti.
+(2) Izrazi koji se koriste u ovom Pravilniku, a imaju rodno značenje, koriste se neutralno i odnose se jednako na muški i ženski rod.
