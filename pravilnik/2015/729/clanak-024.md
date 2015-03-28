@@ -1,0 +1,8 @@
+## Izjednačavanje vrijednosti prava na plaćanje ili konvergencija
+# Članak 24.
+(1) Izjednačavanje vrijednosti prava na plaćanje (dalje u tekstu: konvergencija) provodi se tijekom razdoblja 2015. do 2019. i to metodom djelomične konvergencije sukladno članku 33. Zakona.
+(2) Vrijednost prava na plaćanje s početnom jediničnom vrijednošću većom od prosječne nacionalne vrijednosti prava smanjuje se od 2015. do 2019. godine u pet koraka u mjeri potrebnoj za povećanje iz članka 33. stavaka 2 i 3. Zakona.
+(3) Prilikom izračuna vrijednosti prava na plaćanje primjenjuje se članak 28. Uredbe (EU) br. 1307/2013 koji se odnosi na neočekivani profit korisnika.
+(4) Neočekivani profit korisnika iz stavka 3. ovoga članka je porast vrijednosti prava na plaćanja u 2015. godini u slučajevima prodaje, dodjele ili isteka cjelokupnog ili dijela zakupa poljoprivrednih površina u razdoblju od 10. lipnja 2014. do 31. svibnja 2015. godine.
+(5) U slučaju da je porast vrijednosti prava u 2015. godini, iz stavka 4. ovoga članka, izračunat temeljem prijavljenih prihvatljivih hektara u 2015. godini veći od 10% u odnosu na vrijednost prava na plaćanja koja bi bila izračunata da je korisnik prijavio u 2015. godini prihvatljive hektare temeljem kojih mu je isplaćena potpora za 2014. godinu, razlika se vraća u nacionalnu rezervu prava na plaćanja. Ova odredba ne primjenjuje se na zakupe koji su trajali jednu ili manje od jedne godine.
+(6) Agencija za plaćanja će u skladu s člankom 25. stavkom 10. Uredbe (EU) br. 1307/2013 na AGRONET-u korisnike izravnih plaćanja obavijestiti o okvirnoj vrijednosti prava tijekom razdoblja ujednačavanja vrijednosti prava 2015. - 2019.

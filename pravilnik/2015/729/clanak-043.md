@@ -1,0 +1,7 @@
+## Proizvodno vezana potpora za krmne proteinske usjeve
+# Članak 43.
+(1) Proizvodno vezanu potporu za krmne proteinske usjeve može ostvariti korisnik programa izravnih plaćanja za prihvatljive površine iz članka 17. stavka 1. ovoga Pravilnika na kojima se proizvode krmni proteinski usjevi.
+(2) Proizvodno vezana potpora za krmne proteinske usjeve dodjeljuje se za najmanje jedan hektar prihvatljive površine pod krmnim proteinskim kulturama.
+(3) Prihvatljive kulture krmnih proteinskih usjeva jesu: soja za stočnu hranu, stočni grašak (Pisum sativum), grahorice (Vicia sp.), djeteline (Trifolium sp.), lucerne (Medicago sp.) stočni bob (Vicia faba), smiljkita (Lotus corniculatus), lupine (Lupinus sp.) i esparzeta (Onobrychis sp.).
+(4) Pored navedenih čistih krmnih proteinskih kultura, za proizvodno vezanu potporu za krmne proteinske usjeve prihvatljive su i površine zasijane smjesom krmnih proteinskih kultura i žitarica pri čemu je udio krmnih proteinskih usjeva u ukupnoj površini 50% i više.
+(5) Korisnik proizvodno vezane potpore za soju iz stavka 3. ovoga članka mora na svom poljoprivrednom gospodarstvu držati barem 4 uvjetna grla po prihvatljivom hektaru soje izračunatih na temelju koeficijenata za izračun uvjetnih grla iz Tablice 6. Priloga 1. koji je sastavni dio ovoga Pravilnika, pri čemu se kao osnovica za izračun uvjetnih grla uzima prosječno godišnje stanje grla upisanih u JRDŽ, Središnji popis matičnih grla i Središnji popis matičnih jata svakog prvog dana u mjesecu u godini u kojoj se podnosi jedinstveni zahtjev.

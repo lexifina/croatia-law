@@ -1,0 +1,7 @@
+## Proizvodno vezana potpora za krave dojilje
+# Članak 38.
+(1) Proizvodno vezana potpora se dodjeljuje korisnicima koji proizvode telad u sustavu krava dojilja.
+(2) Prihvatljiva grla za potporu iz stavka 1. ovoga članka su ženska grla koja nisu mliječne pasmine i križanci mliječnih pasmina prisutna na gospodarstvu prvoga dana nakon roka za zakašnjele zahtjeva iz članka 8. stavka 1. ovoga Pravilnika i koja do tog dana imaju registrirano najmanje jedno teljenje u JRDŽ-u, a ne ostvaruju proizvodno vezanu potporu za mliječne krave.
+(3) Korisnik je dužan pridržavati se razdoblja obveznog držanja prihvatljivih grla iz stavka 2. ovoga članka na poljoprivrednom gospodarstvu od 150 uzastopnih dana koje započinje prvoga dana nakon roka za zakašnjele zahtjeve iz članka 8. stavka 1. i uzastopnog dvomjesečnog razdoblja držanja teladi koje započinje prvog dana nakon teljenja.
+(4) Grlo za koje se ostvaruje proizvodno vezana potpora za krave dojilje nije prihvatljivo za ostvarivanje proizvodno vezane potpore za krave u proizvodnji mlijeka.
+(5) Popis pasmina krava koje spadaju u skupinu krava mesne ili kombinirane pasmine za koje se može ostvariti proizvodno vezana potpora za krave dojilje nalazi se u tablici određivanja skupina pasmina u Tablici 9. iz Priloga 1. koji je sastavni dio ovoga Pravilnika, pri čemu se slučaju kombiniranih pasmina, pripadnost grupi za ovu vrstu potpore utvrđuje temeljem skupine pasmine kojoj pripadaju otac i majka grla za koje se traži potpora.
