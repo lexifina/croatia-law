@@ -1,0 +1,2 @@
+# Članak 21.
+U članku 142. iza riječi: »ugovore o radu,« dodaju se riječi: »obavlja poslove u vezi raspisivanja natječaja za odabir pripadnika koji će sudjelovati u mirovnim misijama, odnosno za odabir policijskih časnika za vezu, provodi potrebne procedure u vezi odabira i slanja pripadnika u mirovne misije odnosno u vezi upućivanja policijskih časnika za vezu na rad u inozemstvo; izrađuje ugovore kojima se reguliraju prava i obveze pripadnika mirovnih misija i policijskih časnika za vezu i Ministarstva,«.

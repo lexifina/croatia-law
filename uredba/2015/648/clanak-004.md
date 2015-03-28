@@ -1,0 +1,4 @@
+# Članak 4.
+Članak 9. mijenja se i glasi:
+»1.3.1. Odjel za europske i međunarodne poslove
+Obavlja i koordinira poslove koji se odnose na predstavljanje i sudjelovanje Ministarstva u radu tijela Europske unije; izravno te putem nadležnih tijela Republike Hrvatske obavlja poslove međunarodne suradnje Ministarstva; koordinira i sudjeluje u pripremi i izradi prijedloga nacionalnih stajališta u području unutarnjih poslova; izravno surađuje s institucijama Europske unije; surađuje s drugim ustrojstvenim jedinicama Ministarstva i tijelima državne uprave vezano uz europske poslove; izrađuje nacrte prijedloga međunarodnih ugovora iz djelokruga Ministarstva; obavlja sve pripremne radnje za međunarodne kontakte i prati njihovo ostvarenje; priprema godišnji plan međunarodne suradnje; predlaže ministru mjere za unaprjeđivanje međunarodne suradnje.«.
