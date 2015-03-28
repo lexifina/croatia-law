@@ -1,0 +1,3 @@
+# Članak 1.
+(1) Ovim se Pravilnikom propisuje sadržaj obračuna isplaćene plaće i naknade plaće (u daljnjem tekstu: obračun isplaćene plaće), sadržaj obračuna plaće ili naknade plaće koje je poslodavac radniku bio dužan isplatiti, ako ih na dan dospjelosti nije isplatio (u daljnjem tekstu: obračun neisplaćene plaće), sadržaj obračuna isplaćene otpremnine, te sadržaj obračuna otpremnine koju je poslodavac radniku bio dužan isplatiti, ako je na dan dospjelosti nije isplatio (u daljnjem tekstu: obračun neisplaćene otpremnine).
+(2) Izrazi koji se koriste u ovom Pravilniku, a imaju rodno značenje, koriste se neutralno i odnose se jednako na muški i ženski rod.
