@@ -1,0 +1,4 @@
+# Članak 53.
+Iznimke od članaka 50. i 51. ovog Pravilnika su:
+1. remisorno vraćeni predmeti, u kojem slučaju predmet ne dobiva novi poslovni broj, već se dodjeljuje u rad istom županijskom sudu i rješavatelju koji ga je već rješavao, osim ako se predmet ne može dodijeliti istom rješavatelju, kada će predsjednik suda pisanom obrazloženom naredbom odrediti ponovljenu automatsku dodjelu,
+2. predmeti u kojima je županijski sud već ranije ukinuo prvostupanjsku odluku i predmet vratio prvostupanjskom sudu, kada će se spis u slučaju ponovne žalbe dodijeliti u rad istom županijskom sudu i rješavatelju koji ga je već rješavao korištenjem iznimke u automatskoj dodjeli, osim ako se predmet ne može dodijeliti istom rješavatelju, kada će predsjednik suda pisanom obrazloženom naredbom odrediti ponovljenu automatsku dodjelu.

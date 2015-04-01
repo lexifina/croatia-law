@@ -1,0 +1,2 @@
+# Članak 89.
+Razdvajanje spisa provodi se u sustavu eSpis nakon što je rješavatelj u sustav unio odgovarajuću dostavnu naredbu. Ovlašteni sudski službenik provodi razdvajanje na način da iz spisa koji se razdvaja ili iz kojeg se dio izdvaja podatke o strankama i drugim sudionicima te podneske i odluke navedene u dostavnoj naredbi prenese ili preslika u spis koji se osniva razdvajanjem ili izdvajanjem.

@@ -1,0 +1,5 @@
+# Članak 10.
+(1) Predsjednik suda skrbi za osiguranje nužnih kadrovskih, tehničkih i organizacijskih uvjeta za funkcioniranje sustava eSpis, za točan i ažuran unos podataka u sustav eSpisu u sudu te za urednu provedbu mjera sigurnosti i zaštite podataka, vezano uz korištenje sustava eSpis u sudu.
+(2) Provedbu osposobljavanja za korištenje sustava eSpis u određenom sudu određuje predsjednik suda naredbama, uputama i organizacijom radionica.
+(3) Predsjednik suda obavlja najmanje jedanput mjesečno nadzor sustava eSpis uvidom u upravljačka i druga izvješća. O obavljenom nadzoru i rezultatima nadzora te poduzetim mjerama, predsjednik suda dužan je sastaviti izvješće koje će uložiti u za to otvoren spis sudske uprave.
+(4) Ako pri obavljanju nadzora iz stavka 3. ovoga članka predsjednik suda utvrdi da se na upravljačkim izvješćima suda neopravdano nalaze pojedini predmeti, poduzet će mjere da se upravljačka izvješća ažuriraju, a ako to nije moguće, o tome će obavijestiti ministarstvo nadležno za poslove pravosuđa.
