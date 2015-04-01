@@ -1,0 +1,6 @@
+## PRIJELAZNE I ZAVRŠNE ODREDBE
+# Članak 7.
+(1) Predstavnici udruga registriranih za obavljanje djelatnosti iz područja zaštite ljudskih prava i akademske zajednice imenovani prema odredbama Zakona o Nacionalnom preventivnom mehanizmu za sprečavanje mučenja i drugih okrutnih, neljudskih ili ponižavajućih postupaka ili kažnjavanja (»Narodne novine«, br. 18/11.) obavljaju poslove Nacionalnog preventivnog mehanizma do izbora udruga registriranih za obavljanje djelatnosti iz područja zaštite ljudskih prava prema odredbama ovoga Zakona.
+(2) Pučki pravobranitelj donijet će pravilnik iz članka 4. ovoga Zakona u roku od dva mjeseca od dana stupanja na snagu ovoga Zakona.
+(3) Do stupanja na snagu pravilnika iz stavka 2. ovoga članka na snazi ostaje Pravilnik o postupku imenovanja i načinu rada predstavnika udruga i predstavnika akademske zajednice u Nacionalnom preventivnom mehanizmu za sprečavanje mučenja i drugih okrutnih, neljudskih ili ponižavajućih postupaka ili kažnjavanja (»Narodne novine«, br. 22/12.).
+(4) Pučki pravobranitelj će najkasnije u roku od mjesec dana od dana stupanja na snagu pravilnika iz stavka 2. ovoga članka uputiti javni poziv za izbor udruga registriranih za obavljanje djelatnosti iz područja zaštite ljudskih prava.
