@@ -1,0 +1,16 @@
+# Članak 3.
+U ovom Pravilniku pojedini pojmovi imaju sljedeće značenje: Svjedodžba o sposobnosti za plovidbu- svjedodžba o sposobnosti plovila za plovidbu izdana od strane Tehničkog nadzornog tijela kojom se potvrđuje da plovilo udovoljava Tehničkim pravilima za statutarnu certifikaciju plovila unutarnje plovidbe,
+Tehnička pravila za statutarnu certifikaciju plovila unutarnje plovidbe (u daljnjem tekstu Tehnička pravila) - pravila koja opisuju tehničke zahtjeve za trup, strojeve, uređaje i opremu te stabilitet, nadvođe, upravljivost, smještaj i zaštitu posade i putnika i druge specifične zahtjeve za pojedine vrste plovila unutarnje plovidbe, kojima mora udovoljavati plovilo da bi mu se potvrdila sposobnost za plovidbu,
+Tehnička pravila za statutarnu certifikaciju čamaca - pravila koja opisuju tehničke zahtjeve u svrhu utvrđivanja sposobnosti čamaca za plovidbu,
+Tehnički pregled - pregled plovila ili dijelova plovila u svrhu utvrđivanja sukladnosti s Tehničkim pravilima i ostalim tehničkim propisima koji se odnose na plovila,
+Potvrda o pregledu - dokument kojeg je izdalo Tehničko nadzorno tijelo ili priznato klasifikacijsko društvo i koji potvrđuje sukladnost plovila ili dijela plovila s Tehničkim pravilima i ostalim tehničkim propisima koji se odnose na plovila,
+Pravila za klasifikaciju - pravila koja izdaje priznato klasifikacijsko društvo koja sadrže tehničke norme za projektiranje, gradnju i održavanje: konstrukcije trupa, opreme trupa, strojeva, uređaja, električne opreme i opreme za upravljanje (uključujući i automatizaciju),
+Svjedodžba o klasi - dokument koji izdaje priznato klasifikacijsko društvo i koji potvrđuje sukladnost plovila ili dijela plovila Pravilima o klasi tog klasifikacijskog društva,
+Certifikacija - postupak utvrđivanja sposobnosti plovila za plovidbu i pojedinu namjenu u skladu s Tehničkim pravilima i ostalim tehničkim propisima koji se odnose na plovila,
+Ministarstvo - je nadležno ministarstvo za unutarnju plovidbu,
+Ministar - je čelnik nadležnog ministarstva,
+Komisija - je Europska komisija,
+Zajednica - je Europska zajednica,
+Odbor - povjerenstvo osnovano pri Komisiji u svrhu uzajamnog priznavanja nacionalnih svjedodžbi zapovjednika za prijevoz tereta i putnika unutarnjim vodnim putovima,
+Država članica - je država članica Europske unije,
+IACS - međunarodno udruženje klasifikacijskih društava.
