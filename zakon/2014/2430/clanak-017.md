@@ -1,0 +1,4 @@
+# Članak 17.
+Posebni zemljišnoknjižni odjeli općinskih sudova osnovani na temelju Zakona o sudovima (»Narodne novine«, br. 150/05., 16/07., 113/08., 153/09., 116/10., 122/10., 27/11., 57/11. i 130/11.) i Zakona o sudovima (»Narodne novine«, br. 28/13.) do dana stupanja na snagu ovog Zakona, danom stupanja na snagu ovog Zakona nastavljaju s radom kao posebni zemljišnoknjižni odjeli općinskih sudova ustanovljenih ovim Zakonom u čiju mjesnu nadležnost spadaju.
+Zemljišnoknjižne postupke koji nisu dovršeni pred prvostupanjskim sudom do dana stupanja na snagu ovog Zakona dovršit će sud u čiju mjesnu nadležnost prema ovom Zakonu spada rješavanje u zemljišnoknjižnim predmetima.
+Iznimno od stavka 2. ovog članka, zemljišnoknjižne postupke koji nisu dovršeni pred Općinskim građanskim sudom u Zagrebu, a za koje su nadležni i Općinski građanski sud u Zagrebu i Općinski sud u Novom Zagrebu, dovršit će Općinski građanski sud u Zagrebu.
