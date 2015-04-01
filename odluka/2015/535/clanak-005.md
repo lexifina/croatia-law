@@ -1,0 +1,7 @@
+# Članak 5.
+Članak 101. mijenja se i glasi:
+»Cijene zdravstvenih usluga utvrđuju se za:
+- bolničku zdravstvenu zaštitu bolesnika oboljelih od akutnih bolesti primjenom dijagnostičko-terapijske skupine (DTS) iz Tablice 3.1. iz članka 102. stavka 1. ove Odluke u koje se razvrstavaju bolesnici koji imaju sličnu bolničku potrošnju i slične kliničke osobitosti i osnovne vrijednosti koeficijenta 1,00 utvrđene u skladu s člankom 102. stavkom 2. ove Odluke.
+- bolničku zdravstvenu zaštitu bolesnika koja se provodi dugotrajnim liječenjem, palijativnom skrbi kao i za bolničku zdravstvenu zaštitu bolesnika oboljelih od kroničnih bolesti primjenom utvrđenog koeficijenta za dan bolničkog liječenja iz Tablice 3.3. iz članak 104. stavka 1. ove Odluke i osnovne vrijednosti koeficijenta 1,00 utvrđene za osigurane osobe Zavoda u skladu s člankom 104. stavkom 2. ove Odluke
+- fizikalnu medicinu i rehabilitaciju u specijalnim bolnicama i lječilištima primjenom utvrđenog koeficijenta za dan bolničkog liječenja iz Tablice 3.3. iz članka 104. stavka 1. ove Odluke i osnovne vrijednosti koeficijenta 1,00 utvrđene za osigurane osobe Zavoda u skladu s člankom 104. stavkom 2. ove Odluke
+- posebno skupe lijekove primijenjene u vrijeme bolničkog liječenja osiguranih osoba u skladu s cijenama iz ugovora o financiranju lijekova, odnosno Odlukom o utvrđivanju posebno skupih lijekova utvrđenih Odlukom o utvrđivanju osnovne liste lijekova Hrvatskog zavoda za zdravstveno osiguranje«
