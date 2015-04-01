@@ -1,0 +1,2 @@
+# Članak 3.
+Ako na pojedinom području za dodjelu ostavinskih predmeta u rad javnim bilježnicima određenom ovim Pravilnikom javni bilježnik nije imenovan ili je imenovani javni bilježnik spriječen obavljati javnobilježničku službu, sud će ostavinske predmete dodijeliti u rad javnom bilježniku na drugom području vodeći računa o blizini mjesta prema kojem je zasnovana mjesna nadležnost suda za provođenje ostavinskog postupka i mjesta u kojem javni bilježnik ima sjedište.
