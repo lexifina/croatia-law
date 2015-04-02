@@ -1,0 +1,1 @@
+Na temelju članka 97. stavka 7., članka 249. stavka 5., članka 249.a stavka 9. i članka 250.f Zakona o otvorenim investicijskim fondovima s javnom ponudom (»Narodne novine«, broj 16/2013 i 143/2014), Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća održanoj 27. ožujka 2015. godine donosi
