@@ -1,0 +1,3 @@
+# Članak 9.
+(1) Iznimno, preuzimanje i prijevoz umrle osobe ili posmrtnih ostataka od mjesta smrti do nadležne patologije ili sudske medicine iz članka 8. stavka 1. podstavka 1. ovoga Zakona, za koje nije moguće utvrditi uzrok smrti bez obdukcije, pogrebnik obavlja temeljem ugovora o povjeravanju poslova prijevoza pokojnika sklopljenog s jedinicom lokalne samouprave.
+(2) Jedinice lokalne samouprave raspisuju natječaj za povjeravanje poslova prijevoza iz stavka 1. ovoga članka temeljem ovoga Zakona i odluke o određivanju poslova prijevoza pokojnika koji se financiraju iz proračuna jedinice lokalne samouprave.

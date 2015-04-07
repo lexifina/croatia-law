@@ -1,0 +1,5 @@
+# Članak 26.
+(1) Fizičke i pravne osobe koje na dan stupanja na snagu ovoga Zakona obavljaju pogrebničku djelatnost dužne su uskladiti svoje poslovanje s odredbama ovoga Zakona u roku od godinu dana od dana njegova stupanja na snagu.
+(2) Fizičke i pravne osobe koje na dan stupanja na snagu ovoga Zakona obavljaju pogrebničku djelatnost dužne su u roku iz stavka 1. ovoga članka ishoditi rješenje o ispunjavanju uvjeta za obavljanje pogrebničke djelatnosti u skladu s odredbama ovoga Zakona.
+(3) Fizičkoj i pravnoj osobi koja ne ishodi rješenje sukladno stavku 2. ovoga članka prestaje pravo na obavljanje djelatnosti, o čemu mjesno nadležni ured državne uprave u županiji odnosno nadležni ured Grada Zagreba donosi rješenje.
+(4) Rješenje iz stavka 3. ovoga članka o prestanku prava na obavljanje djelatnosti prosljeđuje se nadležnom trgovačkom sudu koji provodi postupak brisanja djelatnosti iz sudskog registra, odnosno mjesno nadležnom uredu državne uprave u županiji, odnosno nadležnom uredu Grada Zagreba koji kao registarsko tijelo za fizičku osobu zadržava primjerak navedenog rješenja i provodi postupak brisanja djelatnosti iz obrtnog registra.

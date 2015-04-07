@@ -1,0 +1,4 @@
+# Članak 7.
+(1) Pogrebničkom djelatnosti mogu se baviti pogrebnici iz članka 4. točke 1. ovoga Zakona koji ispunjavaju uvjete sukladno odredbama ovoga Zakona, ako imaju sjedište na teritoriju Republike Hrvatske, odnosno pogrebnici koji ispunjavaju uvjete sukladno propisima države članice Europske unije ili države ugovornice Ugovora o Europskom gospodarskom prostoru u kojoj imaju poslovni nastan.
+(2) Pogrebnik koji ispunjava uvjete sukladno propisima države članice Europske unije ili države ugovornice Ugovora o Europskom gospodarskom prostoru u kojoj ima poslovni nastan može obavljati pogrebničku djelatnost u Republici Hrvatskoj na privremenoj ili povremenoj osnovi sukladno odredbama Zakona o uslugama.
+(3) Pogrebnik sa sjedištem na teritoriju trećih država može obavljati pogrebničku djelatnost na teritoriju Republike Hrvatske uz uvjet udovoljavanja uvjeta propisanih ovim Zakonom te uz prethodno ishođenje odgovarajućih dozvola sukladno odredbama Zakona o strancima.

@@ -1,0 +1,2 @@
+# Članak 28.
+Stupanjem na snagu ovoga Zakona prestaju važiti odredbe članka 3. stavka 1. točke 9., stavka 10. podstavka 2., članka 10. stavka 1. točke 10., članka 11. stavka 1. podstavka 8. i članka 20. stavka 1. točke 7. Zakona o komunalnom gospodarstvu (»Narodne novine« br. 36/95., 70/97., 128/99., 57/00., 129/00., 59/01., 82/04., 178/04., 38/09., 79/09., 49/11., 84/11., 90/11., 144/12., 94/13. i 153/13.) koje se odnose na prijevoz pokojnika.
