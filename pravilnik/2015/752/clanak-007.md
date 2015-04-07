@@ -1,0 +1,5 @@
+## IV. KUMULACIJA DRŽAVNE POTPORE
+# Članak 7.
+(1) Ukupni iznos dodijeljenih sredstava državne potpore za pojedinu mjeru određenom korisniku ne smije prijeći gornju granicu intenziteta potpore utvrđenu pravilima za državne potpore, bez obzira na izvor javnih sredstava i program po kojem je državna potpora dodijeljena.
+(2) Korisnik državne potpore mora dati davatelju državne potpore izjavu pod punom materijalnom i kaznenom odgovornošću da za istu svrhu za koju mu se dodjeljuju sredstva nije primio potporu iz drugih izvora ili koliko je sredstava za istu svrhu već primio iz drugih izvora. Davatelj državne potpore provjerava i čuva izjave.
+(3) Davatelji državne potpore moraju zatražiti od Ministarstva provjeru prelazi li predviđeni iznos potpore male vrijednosti za pojedinog korisnika bilo koju od gornjih granica navedenih u Uredbi Komisije (EU) br. 717/2014. Provjeru će davatelji zatražiti na temelju pisanog zahtjeva na Obrascu o provjeri iznosa dodijeljene potpore male vrijednosti koji se preuzima u elektroničkom obliku na internetskoj stranici Ministarstva, Uprave ribarstva -www.mps.hr/ribarstvo.
