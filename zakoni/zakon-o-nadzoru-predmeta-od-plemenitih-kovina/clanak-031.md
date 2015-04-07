@@ -1,0 +1,4 @@
+# Članak 31.
+(1) U Republici Hrvatskoj priznaju se državni žigovi koji su izdani u drugoj državi članici Europske unije, državi potpisnici Sporazuma o Europskom gospodarskom prostoru (EGP)/Europskom udruženju za slobodnu trgovinu (EFTA) ili Turskoj pod uvjetom da primjenjuje sustav ispitivanja i žigosanja predmeta od plemenitih kovina koji je istovjetan ili sličan sustavu ispitivanja i žigosanja predmeta od plemenitih kovina u Republici Hrvatskoj.
+(2) Primjena sličnog ili istovjetnog sustava iz stavka 1. ovoga članka podrazumijeva da ispitivanje i žigosanje predmeta od plemenitih kovina provodi neovisno tijelo ili institucija koju je imenovala Vlada, nadležno ministarstvo ili neko drugo tijelo državne uprave države članice iz koje se predmeti od plemenitih kovina unose.
+(3) U Republici Hrvatskoj priznaju se i drugi žigovi koji su izdani u državama potpisnicama međunarodnih sporazuma u području plemenitih kovina čija je potpisnica i Republika Hrvatska.
