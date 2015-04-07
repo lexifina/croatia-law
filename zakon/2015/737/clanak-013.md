@@ -1,0 +1,3 @@
+# Članak 13.
+U članku 36. iza stavka 5. dodaje se stavak 6. koji glasi:
+»(6) Nadležna tijela za inspekcijski nadzor iz članka 37. stavka 2. ovoga Zakona zajedno će s nadležnim tijelima država članica Europske unije na temelju smjernica Europske komisije o najboljoj praksi provedbe, koje se objavljuju u dvogodišnjem izvješću Komisije, izrađivati zajedničke programe osposobljavanja osoba koje obavljaju nadzor i kontrolu, omogućiti razmjenu osoba koje obavljaju nadzor i kontrolu unutar država članica Europske unije te će najmanje jedanput godišnje organizirati zajedničke kontrole s predstavnicima nadležnih tijela drugih država članica.«.
