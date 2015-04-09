@@ -1,0 +1,3 @@
+# Članak 2.
+U članku 11. iza stavka 4. dodaje se stavak 5. koji glasi:
+»(5) Iznimno od odredbi stavka 1. točaka 3. i 4. ovog članka Odobrenje se može izdati na plovilo čija je duljina veća od petnaest (15) metara na kojem nije postavljen VMS uređaj i/ili elektronski očevidnik do dana podnošenja zahtjeva ukoliko je povlastica za obavljanje gospodarskog ribolova na moru pohranjena u Upisnik pohranjenih povlastica. Na tim plovilima će Ministarstvo, u dogovoru s vlasnikom plovila, osigurati postavljanje VMS uređaja i/ili elektronskog očevidnika, nakon podnošenja zahtjeva za preuzimanje pohranjene povlastice, a ta plovila ne smiju obavljati ribolov u razdoblju do postavljanja VMS uređaja i/ili elektronskog očevidnika.«
