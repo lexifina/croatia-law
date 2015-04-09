@@ -1,0 +1,1 @@
+Na temelju članaka 16. i 21. Zakona o slobodnim zonama (»Narodne novine«, br. 44/96, 78/99, 127/2000, 92/2005, 85/2008 i 148/2013), Vlada Republike Hrvatske je na sjednici održanoj 9. travnja 2015. godine, donijela
