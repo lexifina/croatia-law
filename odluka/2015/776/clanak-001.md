@@ -1,0 +1,4 @@
+# Članak 1.
+U Odluci o troškovima u postupcima arbitraže (»Narodne novine« broj 142/2011) u članku 1. dodaju se stavci 2. i 3. koji glase:
+Troškovi arbitražnog postupka koji se temeljem arbitražnog sporazuma stranaka pred Stalnim arbitražnim sudištem pri Hrvatskoj gospodarskoj komori (dalje u tekstu: Sudište) provodi prema arbitražnim pravilima druge arbitražne institucije utvrđuju se, ako se stranke nisu drugačije izrijekom sporazumjele u svom arbitražnom sporazumu, prema tarifi troškova te arbitražne institucije uz uvjet da tarifa troškova te arbitražne institucije nije niža od važeće tarife troškova Sudišta.
+Ovisno o okolnostima slučaja predsjednik Sudišta može odrediti, uz očitovanje stranaka o tome, da se i u slučajevima predviđenim u stavku 2. ovog članka troškovi arbitražnog postupka utvrđuju prema važećoj tarifi Sudišta.

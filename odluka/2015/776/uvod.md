@@ -1,0 +1,1 @@
+Na temelju članka 19. Zakona o Hrvatskoj gospodarskoj komori (»Narodne novine« broj 66/91, 73/91) i članka 26. točka 17. Statuta Hrvatske gospodarske komore (»Narodne novine« broj 11/94 - pročišćeni tekst, 108/95, 19/96, 64/01, 142/11 i 9/14) Upravni odbor Hrvatske gospodarske komore na 19. sjednici 17. ožujka 2015. godine donosi
