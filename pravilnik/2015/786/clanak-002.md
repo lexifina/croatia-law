@@ -1,0 +1,3 @@
+# Članak 2.
+U članku 16. stavak 3. mijenja se i glasi:
+»(3) Državljaninu treće države kojem se odobrava privremeni boravak u svrhu rada u Obrascu 3 na prvoj stranici u rubriku »VRSTA DOZVOLE/TYPE OF PERMIT« upisat će se »EU plava karta«, a u rubriku »NAPOMENE/REMARKS« upisati »rad izvan godišnje kvote«. Državljaninu treće države kojem se odobrava stalni boravak u Obrascu 3 na prvoj stranici u rubriku »VRSTA DOZVOLE/TYPE OF PERMIT« upisat će se »OSOBA S DUGOTRAJNIM BORAVIŠTEM-EU/LONG TERM RESIDENT-EU«, a u rubriku »NAPOMENE/REMARKS« upisat će se »bivši nositelj EU plave karte/rad bez dozvole za boravak i rad«.«.
