@@ -1,0 +1,2 @@
+# Članak 1.
+Ovim Naputkom propisuje se način rada građevinskih inspektora u izricanju novčanih kazni, kojima se pravne i fizičke osobe (u daljnjem tekstu: izvršenik) prisiljavaju na izvršenje rješenja iz članka 30. stavak 1. te kojima se sprječava daljnje građenje provedeno na način iz članka 36. stavak 3. Zakona o građevinskoj inspekciji (»Narodne novine«, broj: 153/2013), a čiji su maksimalni iznosi propisani člankom 142. stavkom 2. Zakona o općem upravnom postupku (»Narodne novine«, broj: 47/2009).
