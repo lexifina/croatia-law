@@ -1,0 +1,1 @@
+Na temelju članka 14. stavka 4. Zakona o biljnom zdravstvu (»Narodne novine«, br. 75/2005 i 55/2011) i točke VI. podtočke a) Naredbe o poduzimanju mjera za sprječavanje širenja i suzbijanje palminog drvotoča Paysandisia archon (Burmeister, 1880) (»Narodne novine«, br. 99/2013), ministar poljoprivrede donosi
