@@ -1,0 +1,1 @@
+Na temelju članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/2011 i 119/2014) i članka 84. stavka 2. Zakona o zaštiti na radu (»Narodne novine«, br. 71/2014, 118/2014 i 154/2014), Vlada Republike Hrvatske je na sjednici održanoj 16. travnja 2015. godine donijela
