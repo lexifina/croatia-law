@@ -1,0 +1,1 @@
+Odluka o davanju odobrenja općinama Donja Dubrava, Donji Kraljevec, Donji Vidovec, Goričan i Kotoriba za sudjelovanje u Europskoj grupaciji za teritorijalnu suradnju pod nazivom "Regija Mura - Europska grupacija za teritorijalnu suradnju s ograničenom odgovornošću" i odobrenju Konvencije

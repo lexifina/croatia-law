@@ -1,0 +1,1 @@
+Na temelju članka 6. stavka 1. Zakona o provedbi uredbi Europske unije o Europskoj grupaciji za teritorijalnu suradnju (»Narodne novine«, broj 74/2014) i članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/2011 i 119/2014), Vlada Republike Hrvatske je na sjednici održanoj 16. travnja 2015. godine donijela
