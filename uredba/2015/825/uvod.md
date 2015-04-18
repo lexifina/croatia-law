@@ -1,0 +1,1 @@
+Na temelju članka 43. stavka 5. Zakona o policiji (»Narodne novine«, br. 34/2011, 130/2012, 89/2014, 151/2014 i 33/2015), Vlada Republike Hrvatske je na sjednici održanoj 9. travnja 2015. godine donijela
