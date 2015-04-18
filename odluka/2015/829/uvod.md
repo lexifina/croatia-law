@@ -1,0 +1,1 @@
+Na temelju članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/2011 i 119/2014) i članka 183. stavka 2. Zakona o održivom gospodarenju otpadom (»Narodne novine«, broj 94/2013), Vlada Republike Hrvatske je na sjednici održanoj 9. travnja 2015. godine donijela
