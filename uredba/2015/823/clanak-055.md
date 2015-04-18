@@ -1,0 +1,4 @@
+# Članak 55.
+U članku 37.a iza stavka 10. dodaje se novi stavak 11. koji glasi:
+»Sektor sudjeluje u poslovima pripreme stručnih podloga i analiza iz svog djelokruga potrebnih za izradu dokumenata za korištenje sredstava iz različitih programa i instrumenata Europske unije, surađuje prilikom obavljanja poslova vezanih uz pripremu projekata te izradi potrebne dokumentacije, prati propise i pravila Europske unije, zakonsku regulativu i procedure vezane uz područje djelokruga Sektora. Sektor sudjeluje u provedbi projekata, praćenju korištenja sredstava te vrednovanju programa i projekata financiranih iz fondova Europske unije u dijelu koji se odnosi na programe i projekte iz područja djelokruga Sektora. U navedenim poslovima, Sektor surađuje sa Samostalnom službom Ministarstva za strateške inicijative i projekte Europske unije.«.
+Dosadašnji stavak 11. postaje stavak 12.

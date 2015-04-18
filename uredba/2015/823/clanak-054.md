@@ -1,0 +1,4 @@
+# Članak 54.
+U članku 37. iza stavka 15. dodaje se novi stavak 16. koji glasi:
+»Uprava za zatočene i nestale sudjeluje u poslovima pripreme stručnih podloga i analiza iz svog djelokruga potrebnih za izradu dokumenata za korištenje sredstava iz različitih programa i instrumenata Europske unije, surađuje prilikom obavljanja poslova vezanih uz pripremu projekata te izradi potrebne dokumentacije, prati propise i pravila Europske unije, zakonsku regulativu i procedure vezane uz područje djelokruga Uprave. Uprava sudjeluje u provedbi projekata, praćenju korištenja sredstava te vrednovanju programa i projekata financiranih iz fondova Europske unije u dijelu koji se odnosi na programe i projekte iz područja djelokruga Uprave. U navedenim poslovima, Uprava surađuje sa Samostalnom službom Ministarstva za strateške inicijative i projekte Europske.«.
+Dosadašnji stavci 16. i 17. postaju stavci 17. i 18.

@@ -1,0 +1,5 @@
+# Članak 23.
+U članku 19. stavak 1. mijenja se i glasi:
+»Odjel za kontrolu i analizu namjenskog utroška sredstava prati izvršavanje ugovornih obveza i namjenskog utroška sredstava dodijeljenih kroz programe iz nadležnosti Uprave; kontrolira ispunjenje ugovornih obveza od strane korisnika sredstava; vodi evidencije o dodijeljenim potporama iz programa u nadležnosti Uprave i surađuje s nadležnim tijelima pri izradi izvješća o dodjeli potpora male vrijednosti sukladno nacionalnom zakonodavstvu i uredbama Europske komisije te poslove evidencije i analize i statističkog izvješćivanja za potrebe EUROSTAT-ove evidencije; obavlja pripreme za plaćanje u slučaju višekratne isplate dodijeljene potpore; vodi postupke radi utvrđivanja nenamjenskog utroška sredstava, te utvrđuje ispunjenje uvjeta za povrat sredstva osiguranja u slučaju ispunjenja ugovornih obveza.«.
+U stavku 2. riječ: »vrši« zamjenjuje se riječima: »obavlja administrativnu i, po potrebi, terensku«.
+U stavku 3. riječ: »izvještavanje« zamjenjuje se riječju: »izvješćivanje«.
