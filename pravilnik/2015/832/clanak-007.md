@@ -1,0 +1,5 @@
+# Članak 7.
+(1) Vijeće vještaka-revizora radi na sjednicama koje vodi predsjednik vijeća vještaka-revizora.
+(2) Na sjednici vijeća, vještak-revizor koji je obradio predmet (izvjestitelj) izlaže stanje predmeta i predlaže mišljenje vijeća s obrazloženjem o ocjeni nalaza i mišljenja ustrojstvene jedinice ZOSI.
+(3) Članovi vijeća vještaka-revizora koji nisu izvjestitelji imaju pravo neposrednog uvida u predmet na sjednici i mogućnost postavljanja pitanja izvjestitelju radi utvrđivanja činjenica vezanih za donošenje mišljenja, a izvjestitelj je dužan odgovarati na postavljena pitanja. Nakon utvrđivanja činjenica važnih za donošenje mišljenja predlaže se donošenje mišljenja koje je predložio izvjestitelj. Ako je tijekom rasprave na sjednici zaključeno da prijedlog mišljenja izvjestitelja treba promijeniti, izvjestitelj će to učiniti.
+(4) Odluka vijeća vještaka-revizora donosi se natpolovičnom većinom, a izvjestitelj izrađuje konačno mišljenje, na propisanom obrascu kojeg potpisuju svi vještaci-revizori vijeća.

@@ -1,0 +1,7 @@
+## III. POSTUPAK NADZORA I KONTROLE
+# Članak 14.
+(1) U postupku nadzora i kontrole iz članka 1. stavka 2. ovoga Pravilnika, vještak-revizor odnosno vijeće vještaka-revizora, može obaviti kontrolni pregled po službenoj dužnosti. Kada vještak-revizor ili vijeće vještaka-revizora ne mijenja raniju ocjenu te ne nalazi potrebu za kontrolnim pregledom po službenoj dužnosti, donosi mišljenje temeljem priložene medicinske dokumentacije (obrazac: MRMS-9-MIŠLJENJE).
+(2) U obavljanju kontrolnog pregleda iz stavka 1. ovoga članka primjenjuju se propisi koji su bili na snazi u vrijeme kada je pravo ostvareno.
+(3) Ako je na rješenje Zavoda, doneseno na temelju nalaza i mišljenja iz stavka 1. ovoga članka, podnesena žalba, predmet se u povodu žalbe dostavlja ministarstvu, a vijeće vještaka-revizora donosi nalaz i mišljenje u povodu žalbe.
+(4) Vijeće vještaka-revizora će u povodu žalbe iz stavka 3. ovoga članka, razmatrajući razloge i nove činjenice istaknute u žalbi, utvrditi postoje li razlozi za promjenu nalaza i mišljenja iz stavka 1. ovoga članka, je li potrebna dodatna medicinska obrada ili neposredni pregled osiguranika te na osnovu tako provedenog postupka vijeće donosi nalaz i mišljenje.
+(5) Nalaz i mišljenje doneseni u postupku iz stavka 1. i 4. ovoga članka prije donošenja rješenja o pravu, neovisno o donesenoj ocjeni podliježe reviziji. Reviziju ne mogu obavljati vještaci-revizori, odnosno vijeće vještaka-revizora koji su donijeli taj nalaz i mišljenje.

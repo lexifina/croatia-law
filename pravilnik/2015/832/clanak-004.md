@@ -1,0 +1,7 @@
+# Članak 4.
+(1) Nalaz i mišljenje iz članka 3. ovoga Pravilnika na temelju koje se stječe pravo prema Zakonu, zajedno s medicinskom i drugom dokumentacijom, ustrojstvena jedinica ZOSI dostavlja izravno ministarstvu na reviziju nalaza i mišljenja.
+(2) Revizija nalaza i mišljenja iz stavka 1. ovoga članka obavlja se na temelju medicinske i druge dokumentacije u predmetu, a iznimno se može zahtijevati dodatna medicinska obrada, kao i neposredni pregled osiguranika.
+(3) Kada vještak-revizor, odnosno vijeće vještaka-revizora ocijeni da je to potrebno radi cjelovitog utvrđivanja stanja radne sposobnosti, uputit će osiguranika na pregled, odnosno dodatnu dijagnostičku obradu.
+(4) U obavljanju revizije donosi se mišljenje kojim se potvrđuje, odnosno ne potvrđuje nalaz i mišljenje iz članka 1. stavka 1. ovoga Pravilnika koji je donijela ustrojstvena jedinica ZOSI ili daju primjedbe s uputom za izmjenu nalaza i mišljenja.
+(5) Kada nalaz i mišljenje iz stavka 4. ovoga članka treba mijenjati u povodu revizije, ustrojstvena jedinica ZOSI obvezna je donijeti novi nalaz i mišljenje držeći se uputa iznijetih u postupku revizije.
+(6) Revizija nalaza i mišljenja iz članka 1. stavka 1. ovoga Pravilnika, mora biti obavljena u roku od 10 dana od dana zaprimanja nalaza i mišljenja u nadležnu ustrojstvenu jedinicu ministarstva, a iznimno, u slučaju iz stavka 3. ovoga članka, u roku od 20 dana po dostavi dokumentacije.
