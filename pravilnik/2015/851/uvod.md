@@ -1,0 +1,1 @@
+Na temelju članka 211. stavaka 4. i 5. Zakona o kaznenom postupku (»Narodne novine« broj 152/2008, 76/2009, 80/2011, 91/2012, 143/2012, 56/2013, 145/2013 i 152/2014) ministar unutarnjih poslova uz suglasnost ministra zdravlja donosi
