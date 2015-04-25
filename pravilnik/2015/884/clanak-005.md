@@ -1,0 +1,4 @@
+# Članak 5.
+(1) Svi navodi navedeni u oglašavanju o lijeku moraju biti u skladu s navodima iz zadnje odobrene upute i sažetka opisa svojstava lijeka u Republici Hrvatskoj.
+(2) U slučaju izmjena i/ili dopuna odobrene upute o lijeku i/ili sažetka opisa svojstava lijeka nositelj odobrenja obavezan je u roku od 30 radnih dana računajući od datuma kada nositelj odobrenja zaprimi konačno odobreni izmijenjeni tekst upute o lijeku i/ili sažetka opisa svojstava lijeka uskladiti svoje promidžbene aktivnosti s novoodobrenim tekstom upute o lijeku i/ili sažetka opisa svojstava lijeka.
+(3) Oglašavanjem o lijeku mora se osigurati prenošenje istinite i znanstveno dokazane informacije o lijeku uz poštivanje etičkih kriterija, a u cilju pravilnog i racionalnog liječenja pacijenata, ne dovodeći u zabludu zdravstvene radnike ovlaštene preporučiti, propisivati ili izdavati lijekove te korisnike lijekova u slučajevima kada je dozvoljeno oglašavanje prema stanovništvu.

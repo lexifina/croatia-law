@@ -1,0 +1,7 @@
+# Članak 9.
+(1) Pri oglašavanju o lijeku koji se izdaje bez recepta, obvezno je u oglasu ili u obavijesti navesti poruku: »Prije upotrebe pažljivo pročitajte uputu o lijeku, a o rizicima i nuspojavama upitajte svog liječnika ili ljekarnika«.
+(2) Pisano upozorenje iz stavka 1. ovoga članka mora biti istaknuto (npr. upadljivom bojom ili u okviru) i zauzimati barem 1/10 veličine oglasa te mora biti napisano takvom veličinom slova tako da ga je moguće bez poteškoća pročitati.
+(3) Kod televizijskih oglasa, upozorenje iz stavka 1. ovoga članka potrebno je prikazati samostalno (u zasebnom kadru) te ga razgovijetno pročitati.
+(4) Kod televizijskog i radijskog oglašavanja, oglašavanje koje služi kao podsjetnik provodi se na način da se u promidžbenom bloku prvo pusti cjeloviti oglas o lijeku kako je određeno stavkom 1., 2. i 3. ovog članka, a iza njega u istom promidžbenom obliku može uslijediti oglas kao podsjetnik.
+(5) Kod internetskog oglašavanja upozorenje iz stavka 1. ovoga članka mora biti sastavni dio glavne strane oglasa, a ne njegova poveznica.
+(6) Oglašavanje o lijeku iz stavka 1. ovoga članka ne smije dovoditi u zabludu te mora biti jasno vidljivo da je riječ o oglasu. Kod tiskanih članaka i članaka objavljenih na internetu u kojima se oglašava lijek, potrebno je navesti tekst »Plaćeni oglas o lijeku« na vidljivom dijelu članka s veličinom slova koja je jednaka ili veća od veličine slova u drugim dijelovima ovakvog članka.

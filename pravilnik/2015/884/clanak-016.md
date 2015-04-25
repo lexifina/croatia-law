@@ -1,0 +1,3 @@
+# Članak 16.
+(1) Zdravstvene radnike koji su ovlašteni za preporučivanje, propisivanje ili izdavanje lijekova, o lijeku mogu usmeno obavješćivati stručni suradnici (u daljnjem tekstu: stručni suradnik) nositelja odobrenja, koje je poslodavac educirao da bi mogli dati stručnu i što cjelovitiju informaciju o lijekovima o kojima obavješćuju zdravstvenog radnika.
+(2) Edukacija iz stavka 1. ovog članka obuhvaća i odgovarajuću edukaciju o propisima vezanim uz lijekove te o etičnost u oglašavanju o lijekovima. Nositelj odobrenja mora voditi detaljnu evidenciju o provedenoj edukaciji i imati ju dostupnom čitavo vrijeme dok je stručni suradnik zaposlen kod nositelja odobrenja te 2 godine nakon prekida radnog odnosa.
