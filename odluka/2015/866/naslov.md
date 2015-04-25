@@ -1,0 +1,1 @@
+Odluka o jedinstvenim kriterijima za analizu poslovanja domova socijalne skrbi čiji je osnivač Republika Hrvatska i decentraliziranih domova za starije i nemoćne osobe čiji su osnivači jedinice područne (regionalne) samouprave i Grad Zagreb
