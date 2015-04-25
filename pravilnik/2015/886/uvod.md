@@ -1,0 +1,1 @@
+Na temelju članka 27.a stavka 3. i članka 35. stavka 5. Zakona o djelatnosti socijalnog rada (»Narodne novine«, broj 124/2011 i 120/2012) te članka 7. stavka 7. i članka 16. točke 5. Statuta Hrvatske komore socijalnih radnika (»Narodne novine«, broj 114/2013), Skupština Komore na svojoj sjednici održanoj 17. 12. 2014. godine donijela je

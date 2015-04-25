@@ -1,0 +1,4 @@
+# Članak 15.
+(1) Ustanova socijalne skrbi, zdravstva, znanosti, odgoja i obrazovanja i pravosuđa, udruga, vjerska zajednica, trgovačko društvo i druga pravna osoba te obrtnik i druga fizička osoba kod kojih se provodi stručni nadzor obvezni su omogućiti provođenje stručnog nadzora i pregled prostorija, objekata, uređaja, opreme, općih akata te osigurati uvjete za pregled dokumentacije vezane uz obavljanje djelatnosti socijalnog rada.
+(2) Pravne i fizičke osobe iz stavka 1. ovog članka obvezne su upoznati provoditelja nadzora s podacima koji se, sukladno njihovim aktima, smatraju tajnom, uključivo i podatke o predstavkama građana te sudskim postupcima vezanim uz pružanje usluga socijalnog rada.
+(3) Podaci za koje provoditelj nadzora sazna tijekom provođenja stručnog nadzora smatraju se službenom tajnom.

@@ -1,0 +1,5 @@
+# Članak 1.
+(1) Ovim Pravilnikom uređuje se postupak i način provođenja stručnog nadzora nad radom magistara socijalnog rada, magistara socijalne politike i sveučilišnih prvostupnika socijalnog rada (u daljnjem tekstu: socijalni radnik) u ustanovama socijalne skrbi, zdravstva, znanosti, odgoja i obrazovanja i pravosuđa, udrugama, vjerskim zajednicama, trgovačkim društvima i drugim pravnim osobama koje obavljaju djelatnost socijalnog rada u dijelu koji se odnosi na djelatnost socijalnog rada te nad radom socijalnih radnika koji obavljaju djelatnost socijalnog rada u obrtu i kao profesionalnu djelatnost.
+(2) Odredbe ovoga Pravilnika koje se odnose na magistre socijalnog rada i magistre socijalne politike primjenjuju se i na diplomirane socijalne radnike i diplomirane inženjere socijalnog rada.
+(3) Odredbe ovoga Pravilnika koje se odnose na sveučilišne prvostupnike socijalnog rada primjenjuju se i na socijalne radnike sa završenom višom školom za socijalne radnike.
+(4) Izrazi koji se koriste u ovome Pravilniku, a koji imaju rodno značenje, bez obzira na to jesu li korišteni u muškom ili ženskom rodu, obuhvaćaju na jednak način muški i ženski rod.
