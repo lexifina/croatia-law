@@ -1,0 +1,7 @@
+# Članak 36.
+POTPISIVANJE, RATIFIKACIJA, PRIHVAT I ODOBRENJE
+1. Ovaj je Sporazum otvoren za potpisivanje, u sjedištu Ujedinjenih naroda od 3. travnja 2006. do mjesec dana nakon datuma njegova stupanja na snagu, od strane vlada koje su pozvane na Konferenciju Ujedinjenih naroda za pregovore o sporazumu pravnom sljedniku Međunarodnog sporazuma o tropskom drvu iz 1994.
+2. Svaka vlada iz stavka 1. ovoga članka može:
+(a) u vrijeme potpisivanja ovoga Sporazuma izjaviti da tim potpisom izražava svoj pristanak da bude vezana ovim Sporazumom (konačni potpis); ili
+(b) nakon potpisivanja ovoga Sporazuma, ratificirati, prihvatiti ili odobriti ga polaganjem isprave s tim učinkom kod depozitara.
+3. Po potpisivanju i ratifikaciji, prihvatu ili odobrenju ili privremenoj primjeni, Europska zajednica ili bilo koja međuvladina organizacija iz članka 5. stavka 1. polaže izjavu koju je izdalo odgovarajuće tijelo te organizacije kojom određuje prirodu i opseg svoje nadležnosti nad pitanjima koja uređuje ovaj Sporazum te obavješćuje depozitara o svakoj naknadnoj značajnoj promjeni u toj nadležnosti. U slučaju kad ta organizacija proglasi isključivu nadležnost nad svim pitanjima koja uređuje ovaj Sporazum, države članice te organizacije ne smiju poduzimati radnje u skladu s člankom 36. stavkom 2., člankom 37. i člankom 38., ili poduzimati radnje u skladu s člankom 41. ili povući obavijest o privremenoj primjeni u skladu s člankom 38.
