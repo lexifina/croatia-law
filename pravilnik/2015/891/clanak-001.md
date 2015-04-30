@@ -1,0 +1,2 @@
+# Članak 1.
+Ovim Pravilnikom propisuje se oblik i način vođenja evidencije o rješenjima o odobrenju za obavljanje poslova ovjeravanja zakonitih mjerila i/ili poslova pripreme zakonitih mjerila za ovjeravanje i rješenjima o ukidanju odobrenja za obavljanje poslova ovjeravanja zakonitih mjerila i/ili poslova pripreme zakonitih mjerila za ovjeravanje, koje Državni zavod za mjeriteljstvo izdaje pravnim osobama koje ispunjavaju uvjete odnosno prestanu ispunjavati uvjete propisane Zakonom o mjeriteljstvu (u daljnjem tekstu: ovlaštena tijela).
