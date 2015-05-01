@@ -1,0 +1,4 @@
+## Dugovanja podnositelja Zahtjeva za prijenos broja
+# Članak 16.
+(1) U slučaju postojanja nesporne ugovorne obveze, davatelj broja obvezan je bez odgode i u zatraženom obliku dati podnositelju Zahtjeva za prijenos broja informaciju o iznosu dugovanja u slučaju prijevremenog raskida ugovora, načinu uplate i načinu otkazivanja prijenosa broja. Navedeni zahtjev može biti podnesen usmeno te pisanim ili elektroničkim putem.
+(2) U slučaju postojanja nesporne ugovorne obveze, davatelj broja u pokretnoj elektroničkoj komunikacijskoj mreži može odgoditi prijenos broja za najduže deset (10) radnih dana od zatraženog datuma prijenosa broja, uz odgovarajuću primjenu članka 17. ovog Pravilnika, osim u slučaju da je podnositelj Zahtjeva za prijenos broja upoznat i pristaje podmiriti dugovanja postojećem operatoru zbog prijevremenog raskida pretplatničkog ugovora.

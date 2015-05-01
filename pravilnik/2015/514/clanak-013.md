@@ -1,0 +1,13 @@
+## Početak realizacije Zahtjeva za prijenos broja
+# Članak 13.
+(1) Primatelj broja unosi Zahtjev za prijenos broja u CABP najkasnije u roku od jednog (1) radnog dana od dana obostranog potpisivanja Zahtjeva za prijenos broja. U slučaju prijenosa broja u nepokretnoj elektroničkoj komunikacijskoj mreži, kada je za promjenu operatora nužno ispunjavanje obrasca jedinstvene izjave, primatelj broja unosi Zahtjev za prijenos broja u CABP bez odgode, nakon pribavljene suglasnosti postojećeg operatora na jedinstvenoj izjavi. Smatra se da je davatelj broja zaprimio Zahtjev za prijenos broja danom unosa istog u CAPB od strane primatelja broja.
+(2) CABP će osigurati da se Zahtjevi za prijenos broja uneseni neradnim danom pohranjuju na način kao da su uneseni prvog sljedećeg radnog dana.
+(3) Davatelj broja obvezan je nakon zaprimanja Zahtjeva za prijenos broja bez odgode započeti postupak pripreme mreže za prijenos broja.
+(4) Primatelj broja obvezan je obavijestiti podnositelja Zahtjeva za prijenos broja o datumu i vremenskom okviru prijenosa broja u nepokretnoj elektroničkoj komunikacijskoj mreži najkasnije u roku od dvadeset i pet (25) dana od dana potpisivanja Zahtjeva za prijenos broja, odnosno jedinstvene izjave.
+(5) Nakon što je davatelj broja zaprimio Zahtjev za prijenos broja, podnositelj Zahtjeva za prijenos broja ne može zatražiti otkazivanje prijenosa broja, osim u sljedećim slučajevima:
+a. ukoliko je došlo do kašnjenja u prijenosu broja dulje od osam (8) radnih dana,
+b. u slučaju zavaravajuće prodaje,
+c. u slučaju postojanja nesporne ugovorne obveze, sukladno članku 16. ovog pravilnika,
+d. ukoliko je podnositelj Zahtjeva za prijenos broja iskoristio pravo na jednostrani raskid ugovora sukladno posebnim propisima o zaštiti potrošača.
+(6) U slučajevima iz stavka 5. točke b. c. i d. ovog članka, podnositelj Zahtjeva za prijenos broja može podnijeti primatelju broja, pisanim ili elektroničkim putem, zahtjev za otkazivanje prijenosa broja najkasnije 48 sati prije početka vremenskog okvira prijenosa broja iz članka 22. ovog Pravilnika. Ukoliko je u navedenim slučajevima nužno otkazivanje i veleprodajne usluge, rok za podnošenje zahtjeva za otkazivanje je 72 sata prije početka vremenskog okvira prijenosa broja iz članka 22. ovog Pravilnika. U slučaju iz stavka 5. točke d. ovog članka, obavijest o jednostranom raskidu ugovora smatra se zahtjevom za otkazivanje prijenosa broja.
+(7) U slučaju prihvaćanja Zahtjeva za prijenos broja, primatelj broja može iznimno, najkasnije 24 sata prije početka vremenskog okvira prijenosa broja iz članka 22. ovog Pravilnika, otkazati prijenos broja u svrhu zaštite od zlouporaba elektroničkih komunikacijskih usluga.
