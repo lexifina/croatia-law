@@ -1,0 +1,7 @@
+# Članak 17.
+Ugovorna stranka koja pruža pomoć nema pravo od ugovorne stranke koja traži pomoć zahtijevati povrat troškova za pruženu pomoć, kao ni naknadu troškova koji bi nastali zbog uporabe, oštećenja ili gubitka opreme za spašavanje.
+Troškove pomoći koju pružaju pravne ili fizičke osobe posredovanjem ugovorne stranke koja pruža pomoć, snosi ugovorna stranka koja traži pomoć.
+Cestovna motorna vozila, zrakoplovi i plovila koja ugovorna stranka koja pruža pomoć koristi u spašavanju i pružanju pomoći bit će oslobođena plaćanja troškova cestarine, kao i parkirnih i pristanišnih pristojbi, a koji proizlaze iz aktivnosti spašavanja i pružanja pomoći. Ugovorna stranka koja traži pomoć naknadno će pokriti troškove plaćanja cestarine i parkirnih, kao i pristanišnih pristojbi označenih cestovnih motornih vozila i plovila koja je ugovorna stranka koja pruža pomoć koristila u spašavanju i pružanju pomoći.
+Spasilačke postrojbe i pojedinci koji sudjeluju u spašavanju i pružanju pomoći moraju biti opremljeni za samostalno djelovanje u trajanju od najmanje 4 dana. Nakon isteka tog razdoblja, ugovorna stranka koja traži pomoć osigurat će spasilačkim postrojbama i pojedincima koji sudjeluju u spašavanju i pružanju pomoći neophodna sredstva za njihov daljnji rad.
+Za trajanja spašavanja i pružanja pomoći ugovorna stranka koja traži pomoć osigurat će logističku podršku i hitnu medicinsku pomoć pripadnicima postrojbi i pojedincima koji sudjeluju u spašavanju i pružanju pomoći ugovorne stranke koja pruža pomoć.
+NAKNADA ŠTETE
