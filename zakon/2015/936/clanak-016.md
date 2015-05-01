@@ -1,0 +1,15 @@
+# Članak 16.
+U članku 35. stavak 3. mijenja se i glasi:
+»(3) Iznimno od stavka 2. ovoga članka, za slučaj promjene nositelja obiteljskog poljoprivrednog gospodarstva uzrokovanog umirovljenjem, trajnom nesposobnošću za rad ili nemogućnošću obavljanja poljoprivredne djelatnosti, prava i obveze zakupnika koji je nositelj obiteljskog poljoprivrednog gospodarstva mogu se prenijeti iz ugovora o zakupu i zakupu za ribnjake na novog nositelja, a u slučaju njegove smrti na nasljednika koji je postao nositelj obiteljskog poljoprivrednog gospodarstva, do isteka roka na koji je ugovor sklopljen, uz suglasnost Agencije.«.
+Iza stavka 3. dodaju se novi stavci 4. i 5. koji glase:
+»(4) Iznimno od stavka 2. ovoga članka, prava i obveze zakupnika koji je nositelj obiteljskog poljoprivrednog gospodarstva mogu se prenijeti iz ugovora o zakupu i zakupu za ribnjake na novog nositelja, dosadašnjeg člana obiteljskog poljoprivrednog gospodarstva, koji je mlađi od 40 godina, do isteka roka na koji je ugovor sklopljen, uz suglasnost Agencije.
+(5) Iznimno od stavka 2. ovoga članka, prava i obveze zakupnika koji je nositelj obiteljskog poljoprivrednog gospodarstva mogu se prenijeti iz ugovora o zakupu i zakupu za ribnjake na novog nositelja koji je njegov srodnik u prvom, odnosno drugom nasljednom redu, a daroprimatelj je svih njegovih gospodarskih objekata i poljoprivrednog zemljišta, do isteka roka na koji je ugovor sklopljen, uz suglasnost Agencije.«.
+Iza dosadašnjeg stavka 4., koji postaje stavak 6., dodaje se stavak 7. koji glasi:
+»(7) Iznimno od stavka 2. ovoga članka, prava i obveze zakupnika koji je obrtnik mogu se prenijeti iz ugovora o zakupu i zakupu za ribnjake na pravnu osobu čiji je osnivač zakupnik i na koju je prenesena gospodarska cjelina obrta, do isteka roka na koji je taj ugovor sklopljen, uz suglasnost Agencije.«.
+Dosadašnji stavak 5. postaje stavak 8.
+U dosadašnjem stavku 6., koji postaje stavak 9., riječi: »iz stavka 5.« zamjenjuju se riječima: »iz stavka 8.«.
+Iza dosadašnjeg stavka 6., koji je postao stavak 9., dodaju se stavci 10. i 11. koji glase:
+»(10) Iznimno od stavka 2. ovoga članka, prava i obveze zakupnika koji je pravna osoba mogu se prenijeti iz ugovora o zakupu i zakupu za ribnjake, uz suglasnost Agencije, do isteka roka na koji je ugovor sklopljen, na osobu koja je u stečajnom postupku kupila ili je preustrojem stekla cjelokupnu imovinu zakupnika namijenjenu poljoprivrednoj proizvodnji, odnosno dio imovine zakupnika koju čine:
+- cjelokupni gospodarsko-proizvodni dio primarne poljoprivredne proizvodnje i prerade s povezanim skladišnim kapacitetima, ili
+- cjelokupni gospodarsko-proizvodni dio primarne poljoprivredne proizvodnje.
+(11) Iznimno od stavka 2. ovoga članka, prava i obveze zakupnika koji je pravna osoba mogu se prenijeti iz ugovora o zakupu i zakupu za ribnjake, uz suglasnost Agencije, do isteka roka na koji je ugovor sklopljen, na drugu pravnu osobu, pripajanjem, spajanjem ili podjelom razdvajanjem prema Zakonu o trgovačkim društvima.«.
