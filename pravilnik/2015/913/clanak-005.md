@@ -1,0 +1,6 @@
+# Članak 5.
+(1) Organizacija proizvođača u ribarstvu je dovoljno gospodarski aktivna ukoliko se područje na koje se odnosi Zahtjev za priznavanjem odnosi na područje države, županije ili iskrcajnog mjesta, te ukoliko je unutar navedenih područja s obzirom na ukupni kapacitet aktivnih ribarskih plovila ili vrstu ili skupinu vrsta određenog proizvoda u tom području, ispunjen minimalno jedan od sljedećih uvjeta:
+a) broj aktivnih ribarskih plovila kojima članovi organizacije proizvođača obavljaju djelatnost iznosi najmanje 5% ukupnog broja ribarskih plovila na području države ili 10% na području županije za koje se traži priznavanje ili
+b) za vrstu ili skupinu vrsta proizvoda ribarstva za koju organizacija proizvođača traži priznavanje, organizacija proizvođača proizvodi odnosno iskrcava najmanje 15% od ukupno proizvedene količine na području države ili na području županije ili 30% na području iskrcajnog mjesta za koje se traži priznavanje a koje je definirano posebnim propisom.
+(2) U slučaju promjene strukture tržišta, Ministarstvo može donijeti odluku o promjeni uvjeta iz stavka 1. ovoga članka o čemu je dužno odmah izvijestiti zainteresirane strane.
+c) Gospodarska aktivnost u akvakulturi

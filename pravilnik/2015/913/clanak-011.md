@@ -1,0 +1,4 @@
+# Članak 11.
+(1) Zahtjev za priznavanje dostavlja se Upravi koja obavlja administrativnu provjeru Zahtjeva za priznavanje i popratne dokumentacije iz članka 10. stavka 1. ovog Pravilnika te vrši uvid u službenu bazu podataka Uprave radi obavljanja provjere u smislu udovoljavanja uvjetima iz članaka 4., 5., 6., 7., 8. i 9. ovog Pravilnika.
+(2) Uprava će izdati Zahtjev za dopunu u slučaju nepotpunosti Zahtjeva za priznavanje ili potrebe dodatnog obrazloženja, tumačenja ili ispravka podataka potrebnih za dovršenje obrade Zahtjeva za priznavanje. Podnositelj je dužan dostaviti dopunu u roku naznačenom u Zahtjevu za dopunu preporučenom poštom s povratnicom.
+(3) Ministarstvo donosi Rješenje o priznavanju ili Rješenje o odbijanju Zahtjeva za priznavanje u roku od tri mjeseca nakon primitka Zahtjeva za priznavanje sukladno članku 2. stavku 1. Uredbe (EU) br. 1419/2013.
