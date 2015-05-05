@@ -1,0 +1,1 @@
+Na temelju članaka 18. i 19. Zakona o sustavu državne uprave (»Narodne novine« br. 150/11), a u svezi s člankom 109. stavka 9. Zakona o veterinarstvu (»Narodne novine« br. 82/13 i 148/13) ministar poljoprivrede donosi
