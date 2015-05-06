@@ -1,0 +1,9 @@
+# Odluka o izmjeni Odluke o općinskim porezima
+
+Official text as enacted; later changes are not consolidated.
+
+Source: <https://narodne-novine.nn.hr/eli/sluzbeni/2015/47/933> (Narodne novine d.d.).
+
+Published: 2015-04-28. In force: 2015-05-06.
+
+[Official text](tekst.md). The whole official HTML body, including textual annexes, is retained.
