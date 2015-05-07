@@ -1,0 +1,3 @@
+# Članak 2.
+U članku 7. stavku 1. iza podstavka 14. dodaje se novi podstavak 15. koji glasi:
+»- u skladu s nacionalnim pravom i odgovarajućim međunarodnim sporazumima te važećim odredbama kojima se uređuje zaštita osobnih podataka, pribavlja podatke o teškim kaznenim prijetnjama drugim državama članicama Europske unije koje ne zastupaju vlastiti časnici za veze. Potrebu izvještavanja druge države članice o navedenim prijetnjama ocjenjuje Ministarstvo, u skladu s nacionalnim pravom i ozbiljnošću prijetnje. Pod istim uvjetima, Republika Hrvatska može zatražiti od druge države članice Europske unije koja ima časnike za vezu u trećoj zemlji ili međunarodnoj organizaciji razmjenu određenih podataka,«.
