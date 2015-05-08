@@ -1,0 +1,8 @@
+# Članak 25.
+(1) Zabranjeno je pri označivanju, reklamiranju i prezentiranju odnosno informiranju potrošača, korištenje trgovačkih naziva, žigova, naziva marki proizvoda, slikovnih prikaza ili drugih oznaka koje bi:
+- u slučaju prirodne mineralne vode upućivale na svojstvo koje voda ne posjeduje, posebice glede podrijetla, rezultata analiza ili bilo kojih sličnih podataka u vezi s garancijom autentičnosti;
+- u slučaju vode u ambalaži, koja ne udovoljava zahtjevima za prirodnu mineralnu vodu propisanim ovim Pravilnikom, mogle stvoriti zabunu u vezi s prirodnom mineralnom vodom, posebice oznaku »mineralna voda«, »mineral«, »kiselica« ili bilo koje izvedenice tih riječi.
+(2) Zabranjeno je označivati prirodnu mineralnu vodu na način koji vodi pripisuje svojstva vezana uz prevenciju ili liječenje bolesti.
+(3) Zabranjeno je stavljati na tržište prirodnu mineralnu vodu iz jednog izvora pod više od jednog trgovačkog naziva.
+(4) Navodi iz Dodatka 4. ovoga Pravilnika mogu se koristiti ako udovoljavaju kriterijima propisanima tim Dodatkom i pod uvjetom da su svojstva utvrđena na temelju fizikalno-kemijskih ispitivanja i gdje je potrebno, farmakoloških, fizioloških i kliničkih ispitivanja provedenih u skladu s priznatim znanstvenim metodama sukladno članku 7. stavku 3. točki a) podstavku 4. ovoga Pravilnika.
+(5) Dopušteno je korištenje navoda poput »potiče probavu«, »može olakšati hepatobilijarne funkcije« ili sličnih navoda za prirodnu mineralnu vodu, kao i drugih navoda, pod uvjetom da nisu u suprotnosti s odredbama stavka 2. ovoga članka i da su u skladu s odredbama stavka 4. ovoga članka.

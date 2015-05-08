@@ -1,0 +1,1 @@
+Na temelju članka 99. stavka 10. Zakona o poljoprivredi (»Narodne novine«, broj 30/2015) i članka 3. stavka 4. Zakona o hrani (»Narodne novine«, br. 81/2013 i 14/2014), ministar poljoprivrede uz suglasnost ministra zdravlja donosi
