@@ -1,0 +1,1 @@
+Odluka o izmjenama i dopunama Odluke o provedbi Uredbe (EU) br. 575/2013 u dijelu kojim se uređuju ulaganja kreditnih institucija u kvalificirane udjele izvan financijskog sektora i o ograničenju ulaganja kreditnih institucija u materijalnu imovinu
