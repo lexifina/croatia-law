@@ -1,0 +1,9 @@
+O b r a z l o ž e n j e
+1. Prijedlog za pokretanje postupka za ocjenu suglasnosti s Ustavom Zakona o smanjenju mirovina određenih, odnosno ostvarenih prema posebnim propisima o mirovinskom osiguranju ("Narodne novine" broj 71/10., 130/11. i 157/13., u daljnjem tekstu: ZoSMPP) podnio je Dražen Strukar iz Cerne.
+2. Predlagatelj ZoSMPP smatra nesuglasnim s člancima 16., 35., 57., 58., 63. i 64. Ustava.
+Prigovori predlagatelja sadržajno su istovjetni prigovorima istaknutima u ustavnosudskom postupku broj: U-I-381/2014 u kojem je Ustavni sud ocjenjivao suglasnost s Ustavom ZoSMPP-a.
+Prijedlog nije osnovan.
+3. Rješenjem broj: U-I-381/2014 i dr. od 12. lipnja 2014., koje je 18. srpnja 2014. objavljeno u "Narodnim novinama" broj 86, Ustavni sud nije prihvatio prijedloge za pokretanje postupka za ocjenu suglasnosti s Ustavom članka 1., članka 2. stavka 1. alineje 3., članka 2.a, članka 3. stavka 1., članka 3.a, članka 4.a, članka 5., članka 6.a i članka 7. ZoSMPP-a.
+4. Na temelju članka 54. Ustavnog zakona o Ustavnom sudu Republike Hrvatske ("Narodne novine" broj 99/99., 29/02. i 49/02. - pročišćen tekst; u daljnjem tekstu: Ustavni zakon) Ustavni sud može ocjenjivati suglasnost zakona s Ustavom i u slučaju kada je određeni zakon već ranije bio predmet ustavnosudske ocjene.
+U provedenom ustavnosudskom postupku utvrđeno je da predlagatelj u prijedlogu nije naveo nove razloge zbog kojih bi trebalo preispitati prethodno neprihvaćanje prijedloga za pokretanje postupka za ocjenu suglasnosti s Ustavom ZoSMPP-a, niti je Ustavni sud utvrdio da su u ustavnopravnom poretku Republike Hrvatske nastupile nove okolnosti koje bi dovele do promjene njegovog stajališta izraženog u rješenju broj: U-I-381/2014 i dr. od 12. lipnja 2014.
+5. U skladu s navedenim, na temelju članka 43. stavaka 1. i 2. u vezi s člankom 54. Ustavnog zakona riješeno je kao u izreci.
