@@ -1,0 +1,3 @@
+# Članak 25.
+Odjel za sudske postupke inicira i postupa u sudskim postupcima pokrenutim radi neizvršavanja ugovornih obveza, naknade štete i iseljavanja iz državne imovine te povrata imovine i naknade ulaganja u zauzetu imovinu; neosnovano stečenog u obnovi i stambenom zbrinjavanju; nenamjenskog utroška dodijeljenog građevinskog materijala i novčanih potpora; odgovara na zamolbe i upite stranaka tijela državne uprave i drugih tijela, u vezi s poslovima iz svoje nadležnosti; vodi evidenciju postupaka iz svoje nadležnosti; priprema odgovarajuću statistiku i izvještaje, izrađuje analize, predlaže odgovarajuće mjere, te obavlja i druge poslove iz svoje nadležnosti.
+4.2.2. Odjel za nadzor i posebna prava korisnika

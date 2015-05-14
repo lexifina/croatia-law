@@ -1,0 +1,4 @@
+# Članak 23.
+Odjel za statusna prava obavlja poslove u vezi s provođenjem nacionalne politike zbrinjavanja i povratka prognanika i izbjeglica; obavlja upravne i stručne poslove koji se odnose na provođenje propisa o statusnim pravima prognanika, povratnika i izbjeglica, o povratku prognanika i izbjeglica; izdaje uvjerenja i potvrde te odgovara na primjedbe, zamolbe i upite stranaka, tijela državne uprave i drugih tijela iz svoje nadležnosti; vodi evidenciju o poslovima iz svoje nadležnosti; dostavlja podatke iz svoje nadležnosti o promjeni statusnih prava prognanika, povratnika i izbjeglica nadležnoj unutarnjoj ustrojstvenoj jedinici za informatičke poslove, te obavlja druge poslove iz nadležnosti.
+4.2. Služba za nadzor, sudske postupke te vlasničko-
+-pravno uređenje stambenih jedinica
