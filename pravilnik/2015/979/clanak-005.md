@@ -1,0 +1,2 @@
+# Članak 5.
+Na ispunjavanje uvjeta za vrste: »Plovni objekt za iznajmljivanje bez usluge smještaja (dnevni charter) i Plovni objekt za iznajmljivanje s uslugom smještaja (charter)«, koje na dan stupanja na snagu ovog Pravilnika imaju rješenje sukladno Pravilniku o vrstama i kategorijama plovnih objekata nautičkog turizma (»Narodne novine«, broj 69/2008 i 83/2009) i dalje će se primjenjivat odredbe istog Pravilnika.
