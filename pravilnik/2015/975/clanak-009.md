@@ -1,0 +1,4 @@
+# Članak 9.
+(1) Brodarac je dužan predočiti brodarsku knjižicu bilo kojoj lučkoj kapetaniji unutarnje plovidbe najmanje jednom svakih godinu dana počev od dana prvog unosa podataka o broju dana plovidbene službe i plovidbenim sektorima.
+(2) Lučka kapetanija će upisati kontrolni podatak o broju dana plovidbene službe i plovidbenim sektorima na predviđeno mjesto u brodarskoj knjižici na temelju podataka koje je upisao zapovjednik plovila. Prilikom upisa kontrolnog podatka lučka kapetanija ima pravo zatražiti od brodarca predočenje brodskog dnevnika ili izvatka iz istog ili drugih odgovarajućih dokaza, ako je uočeno da su podatci za pojedino putovanje nepotpuni ili postoji sumnja u vjerodostojnost istih. Putovanja za koja se podatci ne mogu ovjeriti ni nakon zahtjeva lučke kapetanije, neće se uzeti u obzir prilikom unošenja kontrolnog podatka.
+(3) Radnje iz stavka 2. ovoga članka izvan Republike Hrvatske obavljaju nadležna tijela stranih država.

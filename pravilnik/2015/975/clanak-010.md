@@ -1,0 +1,3 @@
+# Članak 10.
+(1) Podaci o ukrcaju ili iskrcaju upisani u brodarsku knjižicu, moraju odgovarati podacima o ukrcaju ili iskrcaju unesenim u popis posade. Istovjetnost upisanih podataka provjerava lučka kapetanija odnosno nadležno tijelo strane države.
+(2) Ako zapovjednik plovila ukrca ili iskrca osobu u luci strane države u kojoj nema mogućnosti ovjere nadležnog tijela, u brodarsku knjižicu će, umjesto ovjere iz stavka 1. ovoga članka, upisati bilješku da je ukrcaj odnosno iskrcaj upisan u brodski dnevnik, s naznakom knjige i stranice brodskog dnevnika na kojoj je bilješka upisana. Takvu bilješku zapovjednik plovila ovjerovljuje svojim potpisom i pečatom.
