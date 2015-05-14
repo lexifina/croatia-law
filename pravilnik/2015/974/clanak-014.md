@@ -1,0 +1,9 @@
+# Članak 14.
+Izvođenje letačkih operacija
+(1) Rukovatelj mora upravljati sustavom bespilotnog zrakoplova sukladno primjenjivim propisima i odredbama letačkog priručnika ili uputa za upotrebu.
+(2) Pri izvođenju letačkih operacija operator mora osigurati udovoljavanje operativnim i tehničkim zahtjevima navedenima u Dodatku 4 ovoga Pravilnika za namjeravanu kategoriju letačkih operacija.
+(3) Iznimno od stavka 2. ovoga članka, operator sustava bespilotnog zrakoplova koji se koristi za letačke operacije u kategoriji D i kojemu je operativna masa pripadajućeg bespilotnog zrakoplova veća ili jednaka 5 kilograma, mora osigurati udovoljavanje operativnim zahtjevima navedenima u Dodatku 4 ovoga Pravilnika i uvjetima propisanima Pravilnikom o projektiranju, prihvaćanju, gradnji i održavanju zrakoplova koji nisu u nadležnosti Europske agencije za sigurnost zračnog prometa (EASA).
+(4) Iznimno od članka 11. stavka 2. točaka (f) i (g) ovoga Pravilnika, letačke operacije sustava bespilotnih zrakoplova smiju se izvoditi i na manjim udaljenostima od propisanih ukoliko operator prethodno ishodi odobrenje Agencije.
+(5) Iznimno od članka 11. stavka 2. točke (h) ovoga Pravilnika, letačke operacije sustava bespilotnih zrakoplova smiju se izvoditi i na većim udaljenostima od propisanih i izvan vidnog polja rukovatelja ukoliko operator prethodno ishodi odobrenje Agencije.
+(6) Iznimno od članka 11. stavka 2. točke (i) ovoga Pravilnika, letačke operacije sustava bespilotnih zrakoplova smiju se izvoditi u kontroliranom zračnom prostoru ukoliko operator prethodno ishodi odobrenje o posebnom korištenju zračnog prostora od nadležne kontrole zračnog prometa.
+(7) Iznimno od članka 11. stavka 2. točke (k) ovoga Pravilnika, letačke operacije u svrhu izbacivanja predmeta u letu smiju se izvoditi ukoliko operator prethodno ishodi odobrenje Agencije.
