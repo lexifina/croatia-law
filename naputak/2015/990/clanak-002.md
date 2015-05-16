@@ -1,0 +1,3 @@
+# Članak 2.
+(1) Kada policijski službenici, postupajući po službenoj dužnosti ili po pozivu, utvrde da postoji opasnost da će osoba s duševnim smetnjama ozbiljno i izravno ugroziti vlastiti ili tuđi život, zdravlje ili sigurnost, zatražit će da na mjesto događaja izađe zdravstveno osoblje koje će poduzeti potrebne radnje.
+(2) U osobito žurnim slučajevima, kada osoba s duševnim smetnjama ozbiljno i izravno ugrožava vlastiti ili tuđi život, zdravlje ili sigurnost, a nije moguće osigurati pravovremeno postupanje zdravstvenog osoblja iz stavka 1. ovoga članka, policijski službenici će prema takvoj osobi posebno obazrivo primijeniti nužne ovlasti s kojima se uz najmanje štetnih posljedica može otkloniti neposredna opasnost, čuvajući pri tom dostojanstvo te osobe.
