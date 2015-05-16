@@ -1,0 +1,5 @@
+# Članak 15.
+(1) Obrada zaraznog medicinskog otpada, obavlja se fizikalnim postupcima suhe ili parne sterilizacije, a u nedostatku uređaja mogu se primijeniti drugi postupci kojima se postiže uklanjanje mikroorganizama.
+(2) Obrađivač zaraznog medicinskog otpada najmanje šest puta godišnje mora napraviti analizu kojom se utvrđuje jesu li iz obrađenog medicinskog otpada uklonjeni mikroorganizmi. Uzorkovanje i provjeru obavljaju ovlašteni laboratoriji.
+(3) Inspekcija zaštite okoliša dužna je provesti najmanje dva nenajavljena nadzora godišnje obrađivača iz stavka 2. ovog članka, tijekom kojih se putem ovlaštenih laboratorija obavljaju provjere jesu li iz obrađenog medicinskog otpada uklonjeni mikroorganizmi.
+(4) Odsutnost rasta mikroorganizama temeljem provedene analize iz stavka 2. ovog članka dokazuje da je obrađeni zarazni medicinski otpad postao neopasni proizvodni otpad. Nalaz provedene analize obrađenog zaraznog medicinskog otpada obrađivač je dužan čuvati 5 godina u pisanom ili elektroničkom obliku.

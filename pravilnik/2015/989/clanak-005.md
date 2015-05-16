@@ -1,0 +1,3 @@
+# Članak 5.
+(1) Čelnik velikog izvora medicinskog otpada dužan je imenovati odgovornu osobu za gospodarenje medicinskim otpadom koje obuhvaća odvojeno sakupljanje i privremeno skladištenje medicinskog otpada na mjestu nastanka, obuku osoblja povezanog s razdvajanjem, odvojenim sakupljanjem, označavanjem spremnika, privremenim skladištenjem, obradom medicinskog otpada na mjestu nastanka i vođenjem potrebnih evidencija i dostave podataka temeljem odredbi Zakona, ovog pravilnika i ostalih posebnih propisa.
+(2) Za poslove iz stavka 1. ovoga članka, za mali izvor medicinskog otpada, odgovorna osoba je čelnik malog izvora medicinskog otpada.
