@@ -1,0 +1,2 @@
+Mr. sc. IVAN BANDIĆ postavlja se za generalnog konzula Republike Hrvatske u Bosni i Hercegovini, sa sjedištem u Tuzli i konzularnim ovlastima nad konzularnim područjem koje obuhvaća sljedeće općine: Banovići, Bijeljina, Bosanski Šamac, Čelić, Domaljevac-Šamac, Gračanica, Gradačac, Kalesija, Kladanj, Lopare, Lukavac, Modriča, Odžak, Orašje, Sapna, Srebrenik, Šekovići, Teočak, Tuzla, Ugljevik, Vukosavlje, Zvornik, Živinice i distrikt Brčko.
+Ova Odluka stupa na snagu danom donošenja.
