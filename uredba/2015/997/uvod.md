@@ -1,0 +1,1 @@
+Na temelju članka 83.a stavka 4. Zakona o sudskom registru (»Narodne novine«, br. 1/95, 57/96, 1/98, 30/99, 45/99, 54/2005, 40/2007, 91/2010, 90/2011, 148/2013 i 93/2014) i članka 30. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/2011 i 119/2014), Vlada Republike Hrvatske je na sjednici održanoj 7. svibnja 2015. godine donijela
