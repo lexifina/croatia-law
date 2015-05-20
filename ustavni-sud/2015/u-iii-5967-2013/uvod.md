@@ -1,0 +1,1 @@
+Ustavni sud Republike Hrvatske, u Prvom vijeću za odlučivanje o ustavnim tužbama, u sastavu sudac Antun Palarić, predsjednik Vijeća, te suci Slavica Banić, Ivan Matija, Aldo Radolović, Duška Šarin i Miroslav Šeparović članovi Vijeća, u postupku koji je ustavnom tužbom pokrenula A. B. C. iz Podstrane, na sjednici održanoj 20. svibnja 2015. jednoglasno je donio
