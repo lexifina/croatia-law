@@ -1,0 +1,2 @@
+# Članak 26.
+U komasacijskom postupku, do pravomoćnosti rješenja o komasaciji, u svim sporovima u vezi s komasacijom i u vezi s naknadom štete između pojedinih sudionika komasacije i/ili sudionika komasacije i izvođača radova, izuzevši sporove u vezi s ugovorima o izvođenju radova i s iskorištavanjem zemljišta (smetanje posjeda i slično), odlučuju komasacijska tijela, ako im stranke povjere rješavanje tih sporova.

@@ -1,0 +1,4 @@
+## VII. PRIJELAZNE I ZAVRŠNE ODREDBE
+# Članak 75.
+(1) Ako u postupku komasacije započetom prije stupanja na snagu ovoga Zakona nije doneseno prvostupanjsko rješenje ili je prvostupanjsko rješenje doneseno, a postupak nije pravomoćno dovršen, za dovršenje postupka komasacije imenovat će se županijsko komasacijsko povjerenstvo u skladu s odredbama članka 36. ovoga Zakona, za područje jedinice područne (regionalne) samouprave na čijem se području utvrdi da ima nedovršenih postupaka komasacije, a kao drugostupanjsko tijelo nadležno je povjerenstvo koje imenuje središnje tijelo državne uprave nadležno za imovinskopravne poslove, u sastavu propisanom odredbama članka 37. ovoga Zakona.
+(2) Postupci iz stavka 1. ovoga članka dovršit će se u skladu s odredbama Zakona o komasaciji (»Narodne novine«, br. 10/79., 21/84. i 5/87.).

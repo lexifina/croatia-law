@@ -1,0 +1,4 @@
+# Članak 25.
+(1) Služnosti, tereti i ograničenja prava vlasništva koji nakon diobe komasacijske gromade sudionicima komasacije više nisu potrebni prestaju i brišu se, a ako je to potrebno s obzirom na novu diobu zemljišta iz komasacijske gromade, moraju se osnovati nove služnosti, tereti i ograničenja prava vlasništva.
+(2) Hipoteke uknjižene na nekretninama koje ulaze u komasacijsku gromadu prestaju, a za tražbine koje su bile osigurane hipotekama koje prestaju, osnovat će se hipoteke na onim nekretninama koje su dodijeljene vlasniku iz komasacijske gromade umjesto nekretnina na kojima su prestale hipoteke.
+(3) Ako prijašnji vlasnik nekretnina koje su ušle u komasacijsku gromadu, a koje su bile opterećene hipotekama, ostvari naknadu umjesto dodijeljenih nekretnina iz komasacijske gromade, hipoteke koje prestaju teretit će tu naknadu, uz njegovu suglasnost.
