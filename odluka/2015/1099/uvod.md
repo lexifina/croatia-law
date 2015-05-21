@@ -1,0 +1,1 @@
+Na temelju članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/2011 i 119/2014), a u vezi s člankom 4. stavkom 3. Zakona o Središnjem registru osiguranika (»Narodne novine«, broj 159/2013), Vlada Republike Hrvatske je na sjednici održanoj 21. svibnja 2015. godine donijela
