@@ -1,0 +1,1 @@
+Na temelju članka 97. Zakona o financiranju jedinica lokalne i područne (regionalne) samouprave (»Narodne novine«, br. 117/93, 33/00, 73/00, 59/01, 107/01, 117/01, 150/02, 147/03, 26/07, 73/08, 25/12 i 147/14) ministar financija donosi
