@@ -1,0 +1,4 @@
+# Članak 6.
+(1) Odobrenje za izvoz sukladno članku 4. točki 1. ovoga Zakona izdaje Ministarstvo nakon zatraženog očitovanja Povjerenstva za davanje suglasnosti za izvoz i uvoz robe vojne namjene i nevojnih ubojnih sredstava, prijenos obrambenih proizvoda te pružanje usluga za robu vojne namjene (u daljnjem tekstu: Povjerenstvo).
+(2) Povjerenstvo čine predstavnici ministarstava nadležnih za obranu, unutarnje poslove, vanjske poslove, carinu i gospodarstvo.
+(3) Ministarstvo ima obvezu čuvati sve informacije o vatrenom oružju i, ako je potrebno i izvedivo, njegovim dijelovima i bitnim komponentama te streljivu koje su potrebne za praćenje i identifikaciju tog vatrenog oružja, njegovih dijelova i bitnih komponenti i streljiva te za sprečavanje i otkrivanje nezakonitog trgovanja tim vatrenim oružjem, njegovim dijelovima i bitnim komponentama te streljivom koji su predmetom izvoznog odobrenja najmanje dvadeset godina.
