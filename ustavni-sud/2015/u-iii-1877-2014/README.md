@@ -1,0 +1,13 @@
+# Odluka Ustavnog suda Republike Hrvatske broj: U-III-1877/2014 od 27. svibnja 2015.
+
+- Case: `U-III-1877/2014`
+- Proceeding: Ustavna tužba
+- Decision: odluka
+- Decision date: `2015-05-27`
+- Outcome: odbijanje
+- Official database page: <https://sljeme.usud.hr/usud/praksaw.nsf/fOdluka.xsp?action=openDocument&documentId=BA9C758A002D15D0C1257E620042458B>
+- Official DOCX: <https://sljeme.usud.hr/Usud/Praksaw.nsf/BA9C758A002D15D0C1257E620042458B/%24FILE/U-III-1877-2014.docx>
+- Official PDF: <https://sljeme.usud.hr/Usud/Praksaw.nsf/BA9C758A002D15D0C1257E620042458B/%24FILE/U-III-1877-2014.pdf>
+- Official database page SHA-256: `dc33050e4b21a123d89983c0e583d90ebc1d3ebb57113b874cd1102b65ecf7c5`
+
+Metadata-only record: the decision concerns a named person (constitutional complaint and similar proceedings are listed as metadata only in this repository); use the official links above.
