@@ -1,0 +1,6 @@
+# Članak 8.
+Državljanin treće zemlje dužan je dokazati da ima dovoljno sredstava za uzdržavanje tijekom boravka u Republici Hrvatskoj i za povratak u državu iz koje je došao ili za putovanje u treću državu.
+Pri ulasku u Republiku Hrvatsku, tijelo nadležno za kontrolu prelaska državne granice ovlašteno je od državljanina treće zemlje zatražiti da predoči sredstva za uzdržavanje tijekom boravaka u Republici Hrvatskoj i za povratak u državu iz koje je došao ili za putovanje u treću državu.
+Visina sredstava iz stavaka 1. i 2. ovoga članka je protuvrijednost 70 eura (slovima: sedamdeset eura) po danu predviđenog boravka u Republici Hrvatskoj.
+Ako državljanin treće zemlje posjeduje ovjereno jamstveno pismo fizičke ili pravne osobe iz Republike Hrvatske, dokaz o uplaćenom turističkom aranžmanu ili sličnu ispravu, dužan je predočiti dokaz o posjedovanju sredstava u protuvrijednosti 30 eura (slovima: trideset eura) po danu predviđenog boravka u Republici Hrvatskoj.
+Iznimno od stavka 1. ovoga članka, ako državljanin treće zemlje posjeduje ovjereno jamstveno pismo fizičke ili pravne osobe iz Republike Hrvatske iz kojeg je vidljivo da jamac u potpunosti preuzima sve troškove vezane uz boravak i napuštanje Republike Hrvatske, državljanin treće zemlje oslobođen je od obveze prilaganja dokaza o posjedovanju sredstava iz stavka 1. ovoga članka.

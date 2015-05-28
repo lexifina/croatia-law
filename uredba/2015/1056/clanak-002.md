@@ -1,0 +1,7 @@
+# Članak 2.
+Državljani sljedećih trećih zemalja, nositelji valjanih diplomatskih putovnica, ne trebaju vizu za ulazak u Republiku Hrvatsku i boravak do 90 dana u svakom razdoblju od 180 dana, odnosno za prelazak preko državnog područja Republike Hrvatske:
+- Alžirska Narodna Demokratska Republika, Hašemitska Kraljevina Jordan.
+Državljani sljedećih trećih zemalja, nositelji valjanih diplomatskih i službenih putovnica, ne trebaju vizu za ulazak u Republiku Hrvatsku i boravak do 90 dana u svakom razdoblju od 180 dana, odnosno za prelazak preko državnog područja Republike Hrvatske, osim ako nije drugačije određeno međunarodnim ugovorom:
+- Republika Armenija, Višenacionalna Republika Bolivija, Republika Filipini, Gruzija, Republika Indija, Republika Indonezija, Islamska Republika Iran, Južnoafrička Republika, Država Katar, Republika Kazahstan, Narodna Republika Kina, Republika Kolumbija, Republika Kosovo, Republika Kuba, Republika Moldova, Sultanat Oman, Republika Peru, Ruska Federacija, Kraljevina Tajland, Republika Tunis, Ujedinjeni Arapski Emirati, Ukrajina, Socijalistička Republika Vijetnam.
+Državljani sljedećih trećih zemalja, nositelji valjanih diplomatskih, službenih i posebnih putovnica ne trebaju vizu za ulazak u Republiku Hrvatsku i boravak do 90 dana u svakom razdoblju od 180 dana, odnosno za prelazak preko državnog područja Republike Hrvatske, osim ako nije drugačije određeno međunarodnim ugovorom:
+- Arapska Republika Egipat, Kraljevina Maroko, Republika Turska.
