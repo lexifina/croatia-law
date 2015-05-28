@@ -1,0 +1,1 @@
+Na temelju članka 64. stavka 1. točke 2. Zakona o izmjenama i dopunama Pomorskog zakonika (»Narodne novine«, br. 61/2011), a u svezi s člankom 60. Pomorskog zakonika (»Narodne novine«, br. 181/2004, 76/2007, 146/2008, 61/2011, 56/2013 i 26/2015) ministar pomorstva, prometa i infrastrukture, donosi
