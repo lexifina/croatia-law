@@ -1,0 +1,2 @@
+# Članak 1.
+Ovim se Pravilnikom u pravni poredak Republike Hrvatske prenosi Direktiva 2011/17/EU Europskog parlamenta i Vijeća od 9. ožujka 2011. o stavljanju izvan snage direktiva Vijeća 71/317/EEZ, 71/347/EEZ, 71/349/EEZ, 74/148/EEZ, 75/33/EEZ, 76/765/EEZ, 76/766/EEZ i 86/217/EEZ u vezi s mjeriteljstvom (Tekst značajan za EGP) (SL L 71, 18. 3. 2011., p. 1 - 3) u dijelu u kojem se odnosi na ukidanje Direktive 71/317/EEZ koja se odnosi na pravokutne utege od 5 kg do 50 kg srednje točnosti i valjkaste utege od 1 kg do 10 kg srednje točnosti.
