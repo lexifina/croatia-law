@@ -1,0 +1,3 @@
+# Članak 4.
+U članku 54. stavak 4. mijenja se i glasi:
+»(4) Branitelj po službenoj dužnosti može biti samo odvjetnik koji ima praksu od najmanje pet godina kao odvjetnik ili kao dužnosnik u pravosudnom tijelu, osim u postupku za kazneno djelo za koje je propisana kazna dugotrajnog zatvora, kada branitelj po službenoj dužnosti može biti samo odvjetnik koji ima praksu od najmanje osam godina kao odvjetnik ili kao dužnosnik u pravosudnom tijelu. Branitelj se postavlja iz reda odvjetnika koji moraju imati izraženu sklonost za odgoj, potrebe i probitke mladeži te vladati osnovnim znanjima s područja kriminologije, socijalne pedagogije, psihologije mladih i socijalnog rada za mlade osobe, s liste odvjetnika za mladež Hrvatske odvjetničke komore.«.
