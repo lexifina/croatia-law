@@ -1,0 +1,6 @@
+# Članak 13.
+U članku 26. stavci 1. i 2. mijenjaju se i glase:
+»(1) U svrhu provedbe članka 31. Uredbe (EZ) br. 882/2004 i članka 6. Uredbe (EZ) br. 852/2004 ministar nadležan za poljoprivredu, uz prethodnu suglasnost ministra nadležnog za zdravlje, donosi pravilnik o registraciji i odobravanju objekata kojim su propisani uvjeti koje moraju ispunjavati subjekti u poslovanju s hranom u svrhu postupka registracije i odobravanja objekata, o obliku, sadržaju i načinu vođenja Upisnika registriranih i odobrenih objekata, vođenju središnje evidencije te o objektima koji podliježu odobravanju po posebnim uvjetima, a ministar nadležan za poljoprivredu donosi pravilnik o visini naknade u postupcima registracije i odobravanja objekata i subjekata u poslovanju s hranom.
+(2) Subjekt u poslovanju s hranom koji posluje u objektima koji ne podliježu odobravanju prema posebnim propisima o higijeni hrane iz stavka 1. ovoga članka, obvezan je podnijeti zahtjev za registraciju ministarstvu nadležnom za poljoprivredu ili ministarstvu nadležnom za zdravlje prema podjeli nadležnosti u skladu s posebnim propisima o higijeni hrane, prije početka obavljanja djelatnosti.«.
+U stavku 3. podstavku 2. na kraju rečenice umjesto točke stavlja se zarez te dodaje podstavak 3. koji glasi:
+»- istekom roka na koji je izdano rješenje.«.
