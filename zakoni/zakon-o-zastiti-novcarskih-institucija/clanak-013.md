@@ -1,0 +1,4 @@
+# Članak 13.
+(1) Svaka poslovnica novčarske institucije dužna je za neprekidno nesmetano funkcioniranje sustava tehničke zaštite osigurati rezervno napajanje električnom energijom putem UPS uređaja ili rezervnih baterija ili na drugi način u trajanju od najmanje 30 minuta.
+(2) Poslovnice te svi uređaji za uplatu, isplatu i pohranu gotovog novca i vrijednosti dužni su imati neprekidnu nadziranu zaštićenu komunikaciju s dojavnim centrima intervencije, a u slučaju nenadzirane komunikacije ili prekida komunikacije potrebno je osigurati pričuvni fizički odvojeni komunikacijski kanal, koji može biti i GSM/GPRS komunikator.
+(3) Ako postoje tehničke mogućnosti, sustavi video-nadzora iz članka 8. i protuprovalni i protuprepadni sustavi iz članka 12. ovoga Zakona mogu biti spojeni i na tehničke sustave Ministarstva unutarnjih poslova.

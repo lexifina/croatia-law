@@ -1,0 +1,3 @@
+# Članak 10.
+(1) Manipulativni novac na uplatno-isplatnim mjestima u poslovnicama novčarskih institucija mora biti smješten u ladice, kase, registar-kase, sefove ili spremnike druge vrste, koji su zaštićeni od neovlaštenog otvaranja putem numeričkih brava, brava s vremenskom odgodom otvaranja ili mehaničkih brava. Navedene ladice, kase, registar-kase, sefovi ili spremnici moraju biti učvršćeni za radni stol djelatnika ili drugu pogodnu čvrstu površinu.
+(2) Iznimno od stavka 1. ovoga članka, manipulativni novac u poslovnicama novčarskih institucija čija uplatno-isplatna mjesta se štite neprobojnim pregradama, može se pohraniti u odgovarajuće spremnike, kase, sefove ili pretince ili na drugi pogodan način uz uvjet da je pohranjen izvan vidokruga stranaka.

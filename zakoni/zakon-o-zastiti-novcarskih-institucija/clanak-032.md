@@ -1,0 +1,5 @@
+## Prijenos
+# Članak 32.
+(1) Zaštita gotovog novca – novčanica pri distribuciji prijenosom mora se osigurati smještajem novčanica u specijalne sigurnosne spremnike s elektrokemijskom zaštitom čijom aktivacijom se trajno označavaju i uništavaju novčanice. Sigurnosne spremnike nosi teklić, a zaštitu pruža najmanje jedan zaštitar. Teklić i zaštitar prilikom prijenosa moraju biti opremljeni neprobojnim prslukom minimalne razine zaštite VPAM klase 5 NIJ IIIA ili ekvivalentnog standarda, a zaštitar i vatrenim oružjem.
+(2) Primjena zaštite propisana stavkom 1. ovoga članka obvezna je za iznose gotovog novca – novčanica u iznosu do 800.000,00 kuna odnosno drugoj valuti u ekvivalentnom iznosu po pošiljci.
+(3) Iznimno od stavka 1. i 2. ovoga članka, prijenos gotovog novca – novčanica u iznosu od 20.000,01 do 150.000,00 kuna odnosno drugoj valuti u ekvivalentnom iznosu, može obavljati poštar ili teklić uz obveznu primjenu sustava s elektrokemijskom zaštitom čijom aktivacijom se trajno označavaju i uništavaju novčanice.

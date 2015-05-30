@@ -1,0 +1,2 @@
+# Članak 23.
+Tijekom razdoblja u kojem novčarska institucija, sukladno pozitivnom mišljenju Ministarstva, uspostavlja alternativne mjere zaštite u poslovnici, odnosno tijekom razdoblja u kojem je slijedom provedbe inspekcijskog nadzora Ministarstvo rješenjem naložilo otklanjanje mjera, sukladno odredbi članka 40. stavka 3. ovoga Zakona, novčarska institucija je dužna u poslovnici uspostaviti privremenu tjelesnu zaštitu tijekom radnog vremena te poslovnice.
