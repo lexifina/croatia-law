@@ -1,0 +1,1 @@
+Pravilnik o izmjenama i dopuni Pravilnika o uvjetima i mjerilima za utvrđivanje sustava kvalitete usluga i radova za certificiranje instalatera obnovljivih izvora energije - solarnih toplinskih sustava
