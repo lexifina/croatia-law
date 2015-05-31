@@ -2,8 +2,8 @@
 # Članak 9.
 REGOS organizira obavljanje poslova iz svoje djelatnosti u sljedećim ustrojstvenim jedinicama:
 - Ured ravnatelja
-- Sektor osiguranika
+- Samostalna služba za razvoj i strategiju
 - Sektor obveznika
-- Sektor registra i razmjene podataka
-- Sektor pravne podrške
+- Sektor osiguranika i registra
 - Sektor administrativne podrške.
+Odredbom članka 1. Izmjena Statuta Središnjeg registra osiguranika (»Narodne novine«, br. 60/2015) stupile na snagu 31. svibnja 2015. godine, članak 9. je izmijenjen.

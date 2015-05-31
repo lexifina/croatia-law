@@ -1,5 +1,5 @@
 # Članak 32.
-Upravno vijeće razriješiti će pomoćnika ravnatelja, na prijedlog ravnatelja, uz prethodnu suglasnost ministra nadležnog za mirovinski sustav u sljedećim slučajevima:
+Upravno vijeće razriješit će pomoćnika ravnatelja, na prijedlog ravnatelja, uz prethodnu suglasnost ministra nadležnog za mirovinski sustav u sljedećim slučajevima:
 - ako sam zatraži razrješenje,
 - ako nastanu takvi razlozi koji prema posebnim propisima ili propisima kojima se uređuju radni odnosi dovode do prestanka ugovora o radu,
 - ako ne postupa po propisima ili općim aktima ili bez valjanog razloga ne provodi odluke Upravnog vijeća ili ravnatelja REGOS-a ili postupa u suprotnosti s njima,

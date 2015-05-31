@@ -1,3 +1,4 @@
 ## Poslovi ustrojstvenih jedinica REGOS-a
 # Članak 10.
-U Uredu ravnatelja obavljaju se stručni, administrativni i protokolarni poslovi za tijela REGOS-a, poslovi strateškog planiranja i izvješćivanja, informiranja i odnosa s javnošću, pozivnog centra, evidencije rada, prijevoza i dostave.
+U Uredu ravnatelja obavljaju se sljedeći poslovi: podrške upravljanju poslovanjem i poslovnom planiranju, odnosa s javnošću, informiranja, izvješćivanja i promidžbe.
+Odredbom članka 2. Izmjena Statuta Središnjeg registra osiguranika (»Narodne novine«, br. 60/2015) stupile na snagu 31. svibnja 2015. godine, članak 10. je izmijenjen.

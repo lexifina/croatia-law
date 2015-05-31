@@ -1,2 +1,3 @@
 # Članak 14.
-U Sektoru pravne podrške obavljaju se sljedeći poslovi: pripreme i vođenja postupka sklapanja ugovora, izrade prijedloga normativnih pravnih akata, izrade očitovanja na prijedloge propisa iz djelatnosti REGOS-a, izrade prijedloga obvezno-pravnih akata, izrade podnesaka i sudjelovanje u provođenju postupaka pred sudbenim i javnopravnim tijelima, stručne podrške vezane uz pravno zastupanje, pravne podrške drugim ustrojstvenim jedinicama, upravljanja ljudskim potencijalima, vođenja matične evidencije, izrada propisanih izvještaja te poslove vezane uz prekršajni postupak.
+Brisan članak 14.
+Odredbom članka 6. Izmjena Statuta Središnjeg registra osiguranika (»Narodne novine«, br. 60/2015) stupile na snagu 31. svibnja 2015. godine, članak 14. je brisan.
