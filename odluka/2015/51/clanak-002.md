@@ -1,0 +1,16 @@
+## Sadržaj informacija
+# Članak 2.
+(1) Osim minimalnog opsega informacija propisanih člankom 303. stavcima 4. i 5. Zakona o kreditnim institucijama i informacija iz članka 5. stavka 1. Zakona o potrošačkom kreditiranju (»Narodne novine«, br. 75/2009., 112/2012., 143/2013. i 147/2013.), kreditna institucija dužna je, prije zaključivanja ugovora iz članka 1. stavka 1. ove Odluke, potrošaču dati sljedeće informacije/pojašnjenja:
+1. način otplate kredita (anuiteti ili rate), a ako postoji mogućnost izbora načina otplate, potrebno je pojasniti razliku između tih dviju vrsta otplate te pokazati primjer otplatnog plana za anuitetsku otplatu i otplatu u ratama;
+2. osim informacije o načinu obračuna kamata, a ako postoji mogućnost izbora načina obračuna kamata, potrebno je pojasniti razliku između primjene relativnoga ili konformnoga kamatnjaka;
+3. uz uvjete pod kojima se mogu mijenjati redovne i zatezne kamatne stope tijekom ugovornog odnosa, navesti parametre o čijem kretanju ovisi promjena redovne i zatezne kamatne stope, objašnjenje te ovisnosti kao i intervale praćenja prije donošenja odluke o promjeni;
+4. na konkretnom primjeru prikazati (simulirati) utjecaj mogućeg povećanja redovne kamatne stope za dva postotna boda u odnosu na kamatnu stopu koja bi vrijedila u trenutku sklapanja ugovora na visinu mjesečnog anuiteta ili rate kod kredita, pri čemu simulirana kamatna stopa ne smije prelaziti stopu zakonskih zateznih kamata; kod kredita koji u početnom razdoblju imaju fiksnu, a nakon toga promjenjivu kamatnu stopu, prikazuje se (simulira) utjecaj povećanja promjenjive kamatne stope koja vrijedi u trenutku davanja informacija propisanih ovom Odlukom;
+5. na konkretnom primjeru prikazati utjecaj moguće jednokratne deprecijacije domaće valute na visinu mjesečnog anuiteta ili rate kredita, i to:
+a) u iznosu od 10% ako je glavnica vezana uz tečaj eura;
+b) u iznosu od 35% ako je glavnica vezana uz tečaj bilo koje druge valute;
+6. izračun zajedničkog utjecaja istodobnoga značajnog povećanja kamatne stope i značajne deprecijacije domaće valute opisanih u točkama 4. i 5. ovog stavka na visinu mjesečnog anuiteta ili rate;
+7. naknade koje zaračunava korisniku kredita ili na teret deponenta te pojašnjenje u vezi s mogućom promjenjivošću tih naknada u vrijeme trajanja ugovora o kreditu/depozitu;
+8. posljedice neizvršavanja obveza iz ugovora, raskida odnosno otkaza ugovora te predviđeni redoslijed aktiviranja instrumenata osiguranja kod ugovora o kreditu, tj. mogućnosti isplate oročenog depozita prije isteka ugovorenog roka sa svim posljedicama takvog postupanja, informacije o načinu postupanja s depozitom nakon isteka ugovorenog roka te informacije o uvjetima raspolaganja s depozitom maloljetnih osoba;
+9. popis svih članaka Općih uvjeta poslovanja koji su relevantni za pojedini proizvod.
+(2) Ako je kredit nominiran u stranoj valuti, kreditna institucija dužna je potrošaču dati informacije iz stavka 1. ovog članka usporedno za isti iznos i rok dospijeća kredita koji se odobrava u domaćoj valuti.
+(3) Ako u ponudi kreditne institucije ne postoji usporedivi kredit u domaćoj valuti, kreditna institucija dužna je to posebno naznačiti u Obrascu s informacijama i potrošaču uručiti informativnu listu iz članka 3. stavka 5. ove Odluke.
