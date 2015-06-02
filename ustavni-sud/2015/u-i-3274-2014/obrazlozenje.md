@@ -1,0 +1,7 @@
+O b r a z l o ž e n j e
+1. Zajednički prijedlog za pokretanje postupka za ocjenu suglasnosti s Ustavom članka 17. Zakona o izmjenama i dopunama Zakona o hidrografskoj djelatnosti ("Narodne novine" broj 71/14.; u daljnjem tekstu: ZIDZoHD), kojim je izmijenjen članak 33. Zakona o hidrografskoj djelatnosti ("Narodne novine" broj 68/98., 110/98. - ispr. i 163/03.), podnijeli su Nezavisni sindikat znanosti i visokog obrazovanja - Sindikalna podružnica Hrvatski hidrografski institut iz Splita, koju zastupa sindikalna povjerenica Daniela Odak, i Robert Olujić iz Splita (predmet broj: U-I-3274/2014). Zasebni prijedlog istovjetnog sadržaja podnio je Nezavisni sindikat znanosti i visokog obrazovanja iz Zagreba, kojeg zastupa predsjednik Velikog vijeća Vilim Ribić (predmet broj: U-I-5696/2014).
+2. Dopisom od 8. travnja 2015. predlagatelj Nezavisni sindikat znanosti i visokog obrazovanja iz Zagreba, te dopisom od 9. travnja 2015. predlagatelj Nezavisni sindikat znanosti i visokog obrazovanja - Sindikalna podružnica Hrvatski hidrografski institut iz Splita i Robert Olujić iz Splita obavijestili su Ustavni sud da odustaju od podnesenih prijedloga.
+3. Člankom 61. Ustavnog zakona o Ustavnom sudu Republike Hrvatske ("Narodne novine" broj 99/99., 29/02. i 49/02. - pročišćeni tekst, u daljnjem tekstu: Ustavni zakon) propisano je:
+"Članak 61.
+Ustavni sud može obustaviti postupak ako podnositelj ... prijedloga odustane ..."
+4. Slijedom navedenog, na temelju članka 61. Ustavnog zakona, doneseno je rješenje kao u izreci.
