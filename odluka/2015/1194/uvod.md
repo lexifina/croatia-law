@@ -1,0 +1,1 @@
+Na temelju članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/2011 i 119/2014) i članka 9. stavka 1. Zakona o poticanju razvoja malog gospodarstva (»Narodne novine«, br. 29/2002, 63/2007, 53/2012 i 56/2013), Vlada Republike Hrvatske je na sjednici održanoj 3. lipnja 2015. godine donijela
