@@ -1,0 +1,4 @@
+# Članak 21.
+(1) Kupoprodajna cijena nekretnine utvrđuje se imajući u vidu troškove financiranja i izgradnje te tržišnu vrijednost nekretnine, i mogućnost prodaje nekretnine u odnosu na stanje na tržištu nekretnina pri čemu redovito korištenje nekretnine od strane najmoprimca neće utjecati na eventualno smanjenje vrijednosti nekretnine koja je predmet najma.
+(2) Kupoprodajna cijena nekretnine utvrđena prije sklapanja ugovora o najmu, nepromjenjiva je najviše 60 mjeseci od dana sklapanja ugovora o najmu te se istekom navedenog roka ponovno utvrđuje od strane stalnog sudskog vještaka procjenom, koja u svojim elementima sadrži i mogućnost prodaje predmetne nekretnine u odnosu na stanje na tržištu nekretnina.
+(3) Ukoliko je utvrđena cijena nekretnine, na način određen stavcima 1. i 2. ovoga članka, niža od troškova izgradnje i financiranja predmetne nekretnine, na predloženu kupoprodajnu cijenu suglasnost daje Upravno vijeće Agencije.
