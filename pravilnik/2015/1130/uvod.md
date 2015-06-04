@@ -1,0 +1,1 @@
+Na temelju članka 104. stavka 2. Zakona o mirovinskom osiguranju (»Narodne novine«, br. 157/2013, 151/2014 i 33/2015) i članka 21. točke 1. Statuta Hrvatskog zavoda za mirovinsko osiguranje (»Narodne novine«, br. 28/2014 i 24/2015), Upravno vijeće Hrvatskog zavoda za mirovinsko osiguranje, na sjednici održanoj 21. svibnja 2015., donosi

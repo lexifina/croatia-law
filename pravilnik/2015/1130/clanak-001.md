@@ -1,0 +1,3 @@
+# Članak 1.
+U Pravilniku o vođenju matične evidencije Hrvatskog zavoda za mirovinsko osiguranje (»Narodne novine«, br. 159/2013 i 22/2015, u daljnjem tekstu: Pravilnik), u članku 8. iza stavka 2. dodaje se novi stavak 3. koji glasi:
+»(3) Zavod, kao korisnik osobnog identifikacijskog broja (OIB), koji u službenoj evidenciji evidentira podatak o prestanku poslovanja obveznika doprinosa - pravne osobe, na temelju usuglašenog protokola s Ministarstvom financija - Poreznom upravom, može preuzeti i evidentirati podatak o prestanku pravne osobe ako to obveznik doprinosa, pravna osoba iz članka 7. ovog Pravilnika, nije učinio.«
