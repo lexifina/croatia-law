@@ -1,0 +1,5 @@
+# Članak 5.
+(1) Faktoring društvo iz članka 4. stavka 1. ovog Pravilnika, osim neposredno, može na području Republike Hrvatske obavljati poslove faktoringa kao uzajamno priznatu uslugu i putem podružnice.
+(2) Na osnivanje i prestanak podružnice faktoring društva iz države članice iz članka 4. stavka 1. ovoga Pravilnika koja obavlja uzajamno priznatu uslugu, primjenjuju se odredbe ZOKI-ja.
+(3) Na poslovanje podružnice faktoring društva iz članka 4. stavka 1. ovog Pravilnika, na odgovarajući način, primjenjuju se odredbe Zakona i propisa donesenih na temelju tog Zakona koje se odnose na ugovor o faktoringu (članci 13. i 14.), određena prava i obveze subjekata u poslu faktoringa (članci 15. - 17.), poslovne knjige i izvještavanje Agencije (članci 66. - 70.), nadzor (članci 71. - 99.), povjerljive podatke (članci 101. - 103.), prekršajne odredbe (članci 110. - 113.), te odredbe propisa Republike Hrvatske kojima se uređuje sprečavanje pranja novca i financiranja terorizma.
+Obavljanje poslova faktoringa faktoring društava iz drugih država članica koja ne ispunjavaju uvjete za obavljanje uzajamno priznate usluge

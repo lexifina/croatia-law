@@ -1,0 +1,7 @@
+## Izdavanje suglasnosti za osobe odgovorne za vođenje podružnice
+# Članak 10.
+(1) Odredbe Zakona i propisa donesenih na temelju Zakona koje se odnose na izdavanje suglasnosti za obavljanje funkcije člana uprave faktoring društva, na odgovarajući način se primjenjuju i na izdavanje i ukidanje suglasnosti osobama koje će voditi poslove i zastupati podružnicu. Odgovarajući način primjene iz ovog stavka podrazumijeva usklađenost postupanja s obzirom na različitosti pravnog statusa društva i podružnice društva.
+(2) Osoba odgovorna za vođenje poslova podružnice imenuje se na rok koji ne može biti dulji od pet godina, a Osnivač može opozvati navedenu osobu i prije isteka mandata.
+(3) Zahtjev za suglasnost iz stavka 1. ovog članka, kandidat je dužan podnijeti najmanje tri mjeseca prije isteka mandata pojedine osobe koja je odgovorna za vođenje poslova podružnice.
+(4) Kad osoba odgovorna za vođenje poslova podružnice nije u mogućnosti obavljati svoju funkciju, Osnivač je dužan najkasnije u roku od 15 dana od utvrđivanja te činjenice, bez suglasnosti Agencije, privremeno imenovati osobu odgovornu za vođenje poslova podružnice koja nedostaje na najviše tri mjeseca i o tome bez odgađanja obavijestiti Agenciju.
+(5) U roku od 30 dana od dana imenovanja osobe koja će privremeno voditi poslove podružnice, Osnivač je dužan podnijeti Agenciji zahtjev za izdavanje suglasnosti za imenovanje nove osobe odnosno osoba odgovornih za vođenje poslova podružnice.

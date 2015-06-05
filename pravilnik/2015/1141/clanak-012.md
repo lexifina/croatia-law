@@ -1,0 +1,3 @@
+## Primjena drugih odredbi Zakona na podružnicu
+# Članak 12.
+Na poslovanje podružnice faktoring društva iz članka 6. ovog Pravilnika, na odgovarajući način, primjenjuju se odredbe Zakona i propisa donesenih na temelju tog Zakona koje se odnose na ugovor o faktoringu (članci 13. i 14.), upravu faktoring društva (članci 46. - 52.), poslovne knjige i izvještavanje Agencije (članci 66. - 70.), nadzor (članci 71. - 99.), povjerljive podatke (članci 101. - 103.), likvidaciju (članci 106. -107.), prekršajne odredbe (članci 110. - 113.), te odredbe propisa Republike Hrvatske kojima se uređuje sprečavanje pranja novca i financiranja terorizma.

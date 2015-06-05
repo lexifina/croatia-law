@@ -1,0 +1,3 @@
+# Članak 6.
+(1) Faktoring društvo iz druge države članice (dalje: Osnivač) koje je u skladu s propisima države članice ovlašteno obavljati poslove faktoringa u toj državi članici, a koje ne ispunjava uvjete za poslovanje kao financijska institucija koja obavlja poslove faktoringa kao uzajamno priznatu uslugu te druge propisane uvjete u skladu sa ZOKI-jem, može obavljati poslove faktoringa na području Republike Hrvatske samo putem podružnice.
+(2) Osnivač može obavljati poslove faktoringa na području Republike Hrvatske putem podružnice i to pod uvjetom da je te poslove ovlašten obavljati u državi u kojoj ima registrirano sjedište i da posluje najmanje dvije godine.

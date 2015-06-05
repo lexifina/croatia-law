@@ -1,0 +1,1 @@
+Na temelju odredbi članka 60. stavka 3. i članka 63. stavka 2. Zakona o faktoringu (»Narodne novine«, br. 94/14), Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća održanoj 22. svibnja 2015. donosi
