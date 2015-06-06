@@ -1,0 +1,1 @@
+Na temelju članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/2011 i 119/2014) i članka 6. stavka 5. Zakona o zaštiti novčarskih institucija (»Narodne novine«, broj 56/2015), Vlada Republike Hrvatske je na sjednici održanoj 3. lipnja 2015. godine donijela
