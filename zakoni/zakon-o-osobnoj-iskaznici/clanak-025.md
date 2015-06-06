@@ -1,0 +1,7 @@
+# Članak 25.
+(1) Nadzor nad ispunjavanjem i provedbom organizacijskih, tehničkih i sigurnosnih mjera u postupku izdavanja osobnih iskaznica u ovlaštenoj pravnoj osobi, propisanih pravilnikom iz članka 23. stavka 5. ovoga Zakona, obavljaju službene osobe Ministarstva koje su nadležne za obavljanje poslova vezanih uz postupke izdavanja osobnih iskaznica i nadzora nad tim poslovima.
+(2) Ako u provedbi nadzora službene osobe Ministarstva utvrde da ovlaštena pravna osoba ne provodi organizacijske, tehničke i sigurnosne mjere, Ministarstvo će joj rješenjem privremeno zabraniti obavljanje poslova te odrediti rok u kojem je dužna otkloniti utvrđene nedostatke.
+(3) Protiv rješenja iz stavka 2. ovoga članka nije dopuštena žalba, ali se može pokrenuti upravni spor.
+(4) Nadzor nad postupkom izdavanja osobnih iskaznica u dijelu prikupljanja, obrade, korištenja i zaštite osobnih podataka mogu provoditi i državna i druga tijela određena zakonom i drugim propisima kojima se uređuje zaštita osobnih podataka.
+(5) Nadzor nad postupkom izdavanja osobnih iskaznica u području davanja usluga certificiranja provode državna i druga tijela određena zakonom i drugim propisima kojima se uređuje elektronički potpis.
+(6) Nadzor nad postupkom izdavanja osobnih iskaznica u području provedbe informacijske sigurnosti mogu provoditi i državna i druga tijela određena zakonom i drugim propisima kojima se uređuje informacijska sigurnost.

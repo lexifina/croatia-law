@@ -1,0 +1,5 @@
+# Članak 17.
+(1) Osoba je dužna bez odgode prijaviti nestanak, sumnju u zlouporabu ili pronalazak osobne iskaznice najbližoj policijskoj upravi odnosno policijskoj postaji.
+(2) Ako je osobna iskaznica nestala ili pronađena u inozemstvu, osoba je dužna njezin nestanak ili pronalazak prijaviti najbližoj diplomatskoj misiji ili konzularnom uredu Republike Hrvatske koji je o tome dužan bez odgode obavijestiti policijsku upravu odnosno policijsku postaju koja je izdala osobnu iskaznicu.
+(3) Službena osoba u policijskoj upravi odnosno policijskoj postaji kojoj je prijavljen nestanak ili pronalazak osobne iskaznice dužna je podatak o nestanku bez odgode upisati u službene evidencije te se na temelju tog podatka u evidenciji osobnih iskaznica koja se vodi u informacijskom sustavu Ministarstva nestaloj osobnoj iskaznici evidentira status nevažeće osobne iskaznice.
+(4) Nakon što se nestaloj osobnoj iskaznici evidentira status nevažeće osobne iskaznice, automatski se pokreće zahtjev za suspenziju certifikata.

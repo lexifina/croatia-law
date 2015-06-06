@@ -1,0 +1,4 @@
+# Članak 18.
+(1) Nestanak osobne iskaznice ili sumnja u zlouporabu, u svrhu suspenzije certifikata, može se prijaviti korištenjem elektroničke usluge davatelja usluga certificiranja iz članka 2. stavka 5. ovoga Zakona.
+(2) Kod prijave nestanka ili sumnje u zlouporabu osobne iskaznice korištenjem elektroničke usluge iz stavka 1. ovoga članka certifikati će biti suspendirani ako je tijekom provjere pristupnih podataka za Portal elektroničke osobne iskaznice prethodno potvrđen identitet osobe koja prijavljuje nestanak.
+(3) Osoba iz stavka 2. ovoga članka dužna je naknadno, u najkraćem mogućem roku prijaviti nestanak osobne iskaznice najbližoj policijskoj upravi odnosno policijskoj postaji radi evidentiranja potrage za osobnom iskaznicom u evidenciji koja se vodi u informacijskom sustavu Ministarstva.

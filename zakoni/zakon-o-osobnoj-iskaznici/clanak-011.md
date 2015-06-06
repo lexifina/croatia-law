@@ -1,0 +1,4 @@
+# Članak 11.
+(1) Prilikom podnošenja zahtjeva za izdavanje osobne iskaznice prilaže se jedna fotografija propisane veličine koja vjerno prikazuje osobu koja podnosi zahtjev, bez pokrivala za glavu te se daje na uvid prije izdana osobna iskaznica ili druga javna isprava kojom se može provjeriti identitet podnositelja zahtjeva.
+(2) Iznimno od odredbe stavka 1. ovoga članka, od podnositelja zahtjeva za izdavanje osobne iskaznice može se uzeti fotografija na kojoj je fotografiran s pokrivalom za glavu ako pokrivalo nosi zbog vjerskih ili medicinskih razloga, pod uvjetom da pokrivalo ne prekriva obraze, bradu i čelo.
+(3) Iznimno od odredbe stavka 1. ovoga članka, prilikom podnošenja zahtjeva za izdavanje osobne iskaznice nije potrebno priložiti fotografiju ako je podnositelju zahtjeva u proteklih pet godina izdana putovnica ili osobna iskaznica koja sadržava OIB, za čije je izdavanje priložena fotografija, a izgled osobe nije bitno promijenjen.

@@ -1,0 +1,5 @@
+# Članak 19.
+(1) Ako osoba čijoj su osobnoj iskaznici suspendirani certifikati zbog nestanka prijavi pronalazak osobne iskaznice u roku od osam dana od dana suspenzije certifikata, certifikati će ponovo postati važeći.
+(2) Istekom roka od osam dana od dana suspenzije certifikata certifikati se automatski opozivaju i više se ne mogu koristiti.
+(3) Ako osoba starija od 65 godina kojoj je nestala osobna iskaznica izdana s certifikatima prijavi pronalazak osobne iskaznice nakon isteka roka od osam dana od dana suspenzije certifikata, osobnu iskaznicu može nastaviti koristiti pod uvjetom iz članka 4. stavka 7. ovoga Zakona, ako je njezin pronalazak prijavila u roku od 15 dana od dana evidentiranja statusa nevažeće osobne iskaznice u evidenciji osobnih iskaznica.
+(4) Nestalu osobnu iskaznicu izdanu osobi starijoj od 65 godina bez certifikata osoba kojoj je izdana može nastaviti koristiti ako njezin pronalazak prijavi u roku od 15 dana od dana evidentiranja statusa nevažeće osobne iskaznice u evidenciji osobnih iskaznica.
