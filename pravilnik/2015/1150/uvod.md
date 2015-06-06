@@ -1,0 +1,1 @@
+Na temelju članka 72. stavka 2. Zakona o morskom ribarstvu (»Narodne novine«, br. 81/13, 14/14 i 152/14) i članka 68.h stavka 2. Zakona o slatkovodnom ribarstvu (»Narodne novine« br. 106/01, 7/03, 174/04, 10/05, 14/14), ministar poljoprivrede donosi
