@@ -1,0 +1,119 @@
+Tablica 1. POPIS DIJETA KOJE SE PRIMJENJUJU ZA PREHRANU BOLESNIKA U BOLNICAMA
+Tablica 2. DOJENAČKI MLIJEČNI OBROK U ODNOSU NA ENERGIJSKU VRIJEDNOST, UČESTALOST, KOLIČINU, KONZISTENCIJU, RASPORED I VRSTU OBROKA
+Dob
+kcal/dan
+Broj obroka
+Volumen obroka (ml)
+Konzistencija obroka
+Raspored obroka
+Vrsta obroka
+0-1 mj.
+300-400
+8-9
+65-85
+Tekuća
+Svaka 2 sata
+Dojenački mliječni pripravak
+1-2 mj.
+400-450
+7-8
+75-95
+Tekuća
+Svaka 3 sata
+Dojenački mliječni pripravak
+2-3 mj.
+450-500
+6-7
+85-100
+Tekuća
+Svaka 3 sata
+Dojenački mliječni pripravak
+3-4 mj.
+500-550
+6-7
+100-115
+Tekuća
+Svaka 3 sata
+Dojenački mliječni pripravak
+Napomena: energijske potrebe/volumen obroka naveden je za dojenče s prosječnom tjelesnom masom, u slučaju odstupanja treba prilagoditi količine hrane kako bi se zadovoljile energijske potrebe.
+Tablica 3. DOJENAČKI OBROCI U ODNOSU NA ENERGIJSKU VRIJEDNOST, UČESTALOST, KOLIČINU, KONZISTENCIJU, RASPORED I VRSTU OBROKA
+Dob
+kcal/dan
+Broj obroka
+Volumen obroka (ml)
+Konzistencija obroka
+Raspored obroka
+Vrsta obroka
+Komentar
+4-6 mj.
+550-600
+6-7
+130-145
+Tekuća
+kašasta
+Svaka 3-4 sata
+Dojenački mliječni pripravak
++/- dohrana
+Ukoliko se uvodi dohrana:
+1 obrok dohrane
+6-8 mj.
+650-700
+6-7
+150-180
+Tekuća
+kašasta
+Svaka 4 sata
+Dojenački mliječni pripravak
++ dohrana
+1 do 2 obroka dohrane
+8-10 mj.
+700-800
+6
+180-200
+Tekuća
+kašasta
+Svaka 4 sata
+Dojenački mliječni pripravak
++dohrana
+2 do 3 obroka dohrane
+Raspored:
+1.Mliječni obrok,
+2. Voćni obrok,
+3. Ručak,
+4. Mliječni obrok,
+5. Večera,
+6. Mliječni obrok
+10-12 mj.
+850-1100
+5-6
+190-230
+Tekuća
+kašasta
+Svaka 4 sata
+Dojenački mliječni pripravak
++dohrana
+Raspored:
+1.Mliječni obrok,
+2. Voćni obrok,
+3. Ručak,
+4. Mliječno-žitni obrok,
+5. Večera,
+6. Mliječni obrok
+Napomena: energijske potrebe/volumen obroka naveden je za dojenče s prosječnom tjelesnom masom. U slučaju odstupanja treba prilagoditi količine hrane kako bi se zadovoljile energijske potrebe.
+Minimalni dnevni unos mlijeka: 500 ml
+Tablica 4. PREPORUKE EUROPSKOG DRUŠTVA ZA PREHRANU I METABOLIZAM 2006. SMJERNICE ZA PREHRANU KOD CIROZE JETRE
+Predmet
+Preporuke
+Standard
+Energijski unos: 35-40 kcal/kgTM
+Proteini: 1,2-1,5 g/kgTM
+Primjena
+Upotreba enteralne prehrane kod bolesnika čiji oralni unos hrane ne zadovoljava preporučeni dnevni energijski unos.
+Smjernice
+Ukoliko bolesnik nije u stanju održati preporučeni unos hrane, preporučuju se oralni enteralni pripravci ili prehrana sondom (i u prisutnosti varikoziteta jednjaka).
+PEG povećava rizik od komplikacija te se ne preporučuje.
+Vrsta formule
+Formula s cjelovitim proteinima se upotrebljava kao standard.
+Kod bolesnika s jetrenom encefalopatijom koja se pogoršala tijekom enteralne prehrane upotrebljava se formula s aminokiselinama razgranatih lanaca (engl. branched-chain amino acid, BCAA).
+Oralna upotreba dodataka s aminokiselinama razgranatih lanaca (engl. branched-chain amino acid, BCAA) može poboljšati rezultate liječenja kod uznapredovale ciroze jetre.
+| 59 29.05.2015 Odluka o standardu prehrane bolesnika u bolnicama 59 29.05.2015 Odluka o standardu prehrane bolesnika u bolnicama 59 29.05.2015 Odluka o standardu prehrane bolesnika u bolnicama 59 29.05.2015 Odluka o standardu prehrane bolesnika u bolnicama
