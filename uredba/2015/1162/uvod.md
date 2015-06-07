@@ -1,0 +1,1 @@
+Na temelju članka 63. stavka 2. Zakona o sustavu državne uprave (»Narodne novine«, br. 150/2011 i 12/2013 - Odluka Ustavnog suda Republike Hrvatske), Vlada Republike Hrvatske je na sjednici održanoj 28. svibnja 2015. godine donijela

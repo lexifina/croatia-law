@@ -1,0 +1,2 @@
+# Članak 2.
+U članku 21. stavku 1. iza riječi: »iz područja zapošljavanja,« dodaju se riječi: »rješava u upravnim stvarima u prvostupanjskom postupku u vezi sa stjecanjem statusa integrativnih radionica i zaštitnih radionica za zapošljavanje osoba s invaliditetom, rješava u upravnim stvarima u drugostupanjskom postupku u vezi s pravom na profesionalnu rehabilitaciju nezaposlenih osoba s invaliditetom te obvezom plaćanja novčane naknade u slučaju neispunjenja kvote za zapošljavanje osoba s invaliditetom,«.
