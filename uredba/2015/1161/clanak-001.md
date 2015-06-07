@@ -1,0 +1,24 @@
+# Članak 1.
+U Uredbi o nazivima radnih mjesta i koeficijentima složenosti poslova u javnim službama (»Narodne novine«, br. 25/2013, 72/2013, 151/2013, 9/2014, 40/2014, 51/2014, 77/2014, 83/2014, 87/2014, 120/2014, 147/2014, 151/2014, 11/2015, 32/2015 i 38/2015), članak 50. mijenja se i glasi:
+»Posebni nazivi radnih mjesta i koeficijenti složenosti poslova u Hrvatskoj agenciji za malo gospodarstvo, inovacije i investicije (HAMAG - BICRO) su:
+a) Položaji I. vrste
+1. ravnatelj sektora 2,619
+2. voditelj Ureda za unutarnju reviziju 2,328
+3. voditelj službe 2,328
+4. voditelj odjela 2,134
+5. voditelj Odjela općih poslova 2,034
+6. voditelj Odjela za računovodstvo i financije 2,034
+7. voditelj Odjela za pravne poslove 2,034
+8. voditelj Odjela za građevinske radove 2,034
+b) Radna mjesta I. vrste
+1. savjetnik uprave 2,328
+2. viši analitičar 1,988
+3. viši unutarnji revizor 1,988
+4. unutarnji revizor 1,843
+5. analitičar 1,794
+6. niži analitičar 1,406
+c) Radna mjesta II. vrste
+1. viši administrator 1,164
+2. administrator 1,121
+d) Radna mjesta III. vrste
+1. administrator 1,067«.
