@@ -1,0 +1,1 @@
+Na temelju članka 86. stavka 2. Zakona o prostornom uređenju (»Narodne novine«, broj 153/2013) i članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/2011 i 119/2014), Vlada Republike Hrvatske je na sjednici održanoj 28. svibnja 2015. godine donijela
