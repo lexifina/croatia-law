@@ -1,0 +1,1 @@
+Na temelju članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/2011 i 119/2014) i članka 68. stavka 1. Zakona o proračunu (»Narodne novine«, br. 87/2008, 136/2012 i 15/2015), Vlada Republike Hrvatske je na sjednici održanoj 11. lipnja 2015. godine donijela

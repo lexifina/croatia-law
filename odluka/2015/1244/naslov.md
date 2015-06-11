@@ -1,0 +1,1 @@
+Odluka o otpisu zakonskih zateznih kamata na potraživanja koja je Republika Hrvatska ostvarila prema zaposlenicima na području Hrvatskog Podunavlja temeljem pravomoćnih rješenja o protuovrsi radi povrata stečenog bez osnove
