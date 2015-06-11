@@ -1,0 +1,1 @@
+Na temelju članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/2011 i 119/2014) i članka 6. Zakona o iznimnim mjerama kontrole cijena (»Narodne novine«, br. 73/97, 128/99 i 66/2001), Vlada Republike Hrvatske je na sjednici održanoj 28. svibnja 2015. godine donijela
