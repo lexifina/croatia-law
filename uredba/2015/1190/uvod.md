@@ -1,0 +1,1 @@
+Na temelju članka 8. Zakona o trgovini (»Narodne novine«, br. 87/2008, 116/2008, 76/2009, 114/2011, 68/2013 i 30/2014), Vlada Republike Hrvatske je na sjednici održanoj 3. lipnja 2015. godine donijela
