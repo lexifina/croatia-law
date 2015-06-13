@@ -1,0 +1,6 @@
+# Članak 154.
+Sektor za financijsko-računovodstvene poslove, projektno financiranje i potpore organizira, kontrolira i prati izvršenje svih financijskih i računovodstvenih poslova sukladno zakonu i brine o zakonitoj primjeni važećih materijalno-financijskih propisa, obavlja obračun plaća, naknada zaposlenima i vodi blagajničko poslovanje, kontira, knjiži i knjigovodstveno prati izvršenje svih prihoda i rashoda, primitaka i izdataka po pozicijama državnog proračuna, priprema i izrađuje periodične obračune, završni račun i konsolidira financijska izvješća na razini Razdjela, organizira godišnji popis imovine, obveza i potraživanja, vodi knjigu imovine, obavlja knjigovodstveno evidentiranje prihoda i rashoda projekata financiranih sredstvima fondova Europske unije, obavlja poslove praćenja projekata financiranih iz inozemnih zajmova i surađuje s međunarodnim financijskim institucijama, koordinira poslove planiranja, dodjele i praćenja državnih potpora, za koje je davatelj Ministarstvo putem svojih ustrojstvenih jedinica, te obavlja druge poslove iz djelokruga Sektora.
+U Sektoru za financijsko-računovodstvene poslove, projektno financiranje i potpore, ustrojavaju se sljedeće službe:
+9.2.1. Služba za financijsko-računovodstvene poslove
+9.2.2. Služba za projektno financiranje i državne potpore.
+9.2.1. Služba za financijsko-računovodstvene poslove

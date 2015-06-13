@@ -1,0 +1,5 @@
+# Članak 21.
+Odjel za informacijsku sigurnost i obrambene pripreme organizira, provodi, usklađuje i nadzire provođenje poslova vezanih za informacijsku sigurnost i obrambene pripreme u Ministarstvu i pravnim osobama u nadležnosti Ministarstva. Sudjeluje u obavljanju poslova provedbe fizičke sigurnosti, sigurnosnih provjera, sigurnosti podataka i poslovne suradnje. Obavlja poslove vezane za izradu Plana obrane Ministarstva, te prati stanje provođenja i izrade planova i prosudbi obrambenih priprema u pravnim osobama u nadležnosti Ministarstva. Obavlja poslove koji se odnose na zaštitu imovine i osoba u poslovnom objektu Ministarstva, poslove protupožarne zaštite, zaštite na radu, koordinira poslove zaštite i spašavanja na zahtjev Državne uprave za zaštitu i spašavanje, te obavlja i druge poslove iz djelokruga rada Odjela.
+Za obavljanje poslova vezanih za zaštitu na radu ustrojava se posebna jedinica:
+2.2.2.3.1. Pododsjek za zaštitu na radu i zaštitu od požara.
+2.2.2.3.1. Pododsjek za zaštitu na radu i zaštitu od požara

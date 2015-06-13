@@ -1,0 +1,6 @@
+# Članak 98.
+Služba za planske dokumente i financije obavlja stručne poslove koji se odnose na praćenje izrade i sudjelovanje u donošenju prostornih i prometnih planova, te studija na svim razinama (državna, županijska, lokalna), a koje se odnose na ceste, autoceste, željeznice i čisti gradski promet; izrađuje i prati provedbu Strategije prometnog razvoja Republike Hrvatske i drugih strateških programa od interesa za održivi razvitak Republike Hrvatske u dijelu koji se odnose na cestovnu i željezničku prometnu infrastrukturu; sudjeluje u izradi strateškog plana Ministarstva; obavlja poslove koji se odnose na praćenje poslovanja i provedbe planskih dokumenata društava u vlasništvu Republike Hrvatske; obavlja stručne poslove koji se odnose na praćenje provedbe i sudjelovanje u provedbi natječajnih postupaka za koncesije; obavlja poslove planiranja proračuna, rebalansa, prenamjene i preraspodjele proračuna; obavlja i druge poslove u okviru svoga djelokruga.
+Za obavljanje poslova Službe za planske dokumente i financije, ustrojavaju se sljedeći odjeli:
+5.3.1.1. Odjel za planske dokumente i regulativu
+5.3.1.2. Odjel za financiranje i koncesije.
+5.3.1.1. Odjel za planske dokumente i regulativu

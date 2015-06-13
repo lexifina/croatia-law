@@ -1,0 +1,6 @@
+# Članak 87.
+Služba cestovnog prijevoza obavlja upravne i stručne poslove iz područja cestovnog prijevoza; definira strateške ciljeve pokazatelje uspješnosti, te utvrđuje rizike u provedbi postavljenih ciljeva razvitka cestovnog prijevoza; planira, priprema i koordinira izradu strateških dokumenata i planova iz područja cestovnog prijevoza; daje stručna mišljenja i objašnjenja iz područja cestovnog prijevoza, sudjeluje u pripremi nacrta prijedloga zakona i drugih propisa iz područja cestovnog prijevoza, priprema i provodi dvostrane i višestrane međunarodne ugovore koji se odnose na cestovni prijevoz, izrađuje akte o provođenju dvostranih i višestranih međunarodnih ugovora, obavlja poslove vezane za usklađivanje domaćeg zakonodavstva sa zakonodavstvom Europske unije i s međunarodnim standardima, prati i analizira stanje gospodarskih subjekata u cestovnom prijevozu, te priprema i izrađuje izvješća. Obavlja i druge poslove koji su zakonom ili drugim propisima stavljeni u nadležnost Ministarstva, a odnose se na cestovni prijevoz, te ostale poslove iz djelokruga Službe.
+Za obavljanje poslova Službe cestovnog prijevoza, ustrojavaju se sljedeći odjeli:
+5.1.2.1. Odjel za prijevoz putnika
+5.1.2.2. Odjel za prijevoz tereta.
+5.1.2.1. Odjel za prijevoz putnika

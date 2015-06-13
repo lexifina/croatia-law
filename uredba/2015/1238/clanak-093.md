@@ -1,0 +1,3 @@
+# Članak 93.
+Odjel za žičare i EU poslove provodi upravne i druge stručne poslove iz područja žičara, priprema nacrte propisa, prati primjenu propisa, prati EU legislativu i provodi prenošenje iste u domaće zakonodavstvo, daje pojašnjenja i mišljenja o pravnim pitanjima iz područja žičara, izdaje godišnja odobrenja za rad žičara. Odjel sudjeluje u izradi i prati propise Europske unije u području željezničkog prometa, osigurava usklađivanje zakonodavstva Republike Hrvatske s pravnom stečevinom Europske unije, prati njihovu primjenu, sudjeluje u usuglašavanju domaće legislative s legislativom EU, sudjeluje u radu tijela EU i njihovih radnih grupa; te obavlja i druge poslove u okviru svoga djelokruga.
+5.2.2. Služba pravnih i gospodarskih poslova

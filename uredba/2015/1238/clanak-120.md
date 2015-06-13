@@ -1,0 +1,7 @@
+# Članak 120.
+Služba inspekcije cestovnog prijevoza organizira i provodi odgovarajuće i redovite inspekcijske nadzore u svrhu pravilne i dosljedne provedbe i primjene odredbi zakona iz područja cestovnog prometa koji reguliraju prijevoz tereta i putnika u cestovnom prometu te prijevoz opasnih tvari u cestovnom prometu, poduzima mjere za uklanjanje nepravilnosti i nedostataka utvrđenih inspekcijskim nadzorima i nadzire njihovo izvršenje, koordinira rad s drugim javnopravnim tijelima Republike Hrvatske i međunarodnim tijelima koja obavljaju inspekcijski i stručni nadzor nad cestovnim prijevozom, podnosi optužne prijedloge za pokretanje prekršajnih postupaka te izdaje prekršajne naloge putem ovlaštenih osoba, određuje upravne mjere vezane za donošenje rješenja o privremenoj zabrani, privremenom isključenju vozila iz prometa i rješenja o otklanjanju nedostataka, vodi očevidnike o obavljenim nadzorima i poduzetim mjerama te druge propisane očevidnike, inicira izmjene i dopune zakonskih i drugih propisa i sudjeluje u izradi nacrta zakonskih i drugih propisa iz svoga djelokruga te obavlja i druge poslove sukladno posebnim propisima i međunarodnim ugovorima te uredbama i direktivama EU.
+Za obavljanje poslova Službe inspekcije cestovnog prijevoza, ustrojavaju se sljedeći odjeli:
+7.1.1.1. Odjel inspekcije prijevoza tereta
+7.1.1.2. Odjel inspekcije prijevoza putnika
+7.1.1.3. Odjel inspekcije prijevoza opasnih tvari.
+7.1.1.1. Odjel inspekcije prijevoza tereta

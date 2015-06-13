@@ -1,0 +1,3 @@
+# Članak 14.
+Odjel upravljanja voznim parkom obavlja poslove koji se odnose na korištenje prijevoznih sredstava za potrebe Ministarstva, poslove u vezi održavanja službenih automobila i opreme, sukladno uvjetima njihove uporabe, namjene i tehničkim uputstvima proizvođača, vodi propisane očevidnike, prati stanje, analizira i predlaže poduzimanje mjera da službeni automobili po količini i kvaliteti mogu udovoljiti zahtjevima Ministarstva, donosi plan korištenja automobila i koordinira izvršenje toga plana, sudjeluje prilikom uviđaja prometnih nezgoda i priprema odštetne zahtjeve, te druge poslove koji proizlaze iz upravljanja, korištenja i održavanja službenih automobila Ministarstva.
+2.2. Sektor za javnu nabavu, informatiku, komunikacije i informacijsku sigurnost

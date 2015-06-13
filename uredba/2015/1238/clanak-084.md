@@ -1,0 +1,7 @@
+# Članak 84.
+Služba sigurnosti cestovnog prometa prati i analizira stanje sigurnosti prometa na cestama, obavlja upravne i stručne poslove u svezi obavljanja prijevoza opasnih tvari, osposobljavanja vozača i sigurnosnih savjetnika u prijevozu opasnih tvari, ispitivanja vozila, uređaja i opreme na vozilima; definira strateške ciljeve, pokazatelje uspješnosti, te utvrđuje rizike u provedbi postavljenih ciljeva u području sigurnosti cestovnog prometa; planira, priprema i koordinira izradu strateških dokumenata i planova iz područja sigurnosti cestovnog prometa, sudjeluje u izradi propisa iz područja sigurnosti cestovnog prometa, javnih cesta, prijevoza opasnih tvari, tehničkih uvjeta za vozila, ispitivanja vozila; obavlja upravne i stručne poslove u svezi sa sigurnošću prometa, prati stanje, priprema izvješća i poduzima mjere vezane za podizanje razine sigurnosti cestovnog prometa. Obavlja i druge upravne i stručne poslove koji su zakonom ili drugim propisima stavljeni u nadležnost Ministarstva, a odnose se na sigurnost cestovnog prometa, te ostale poslove koji spadaju u djelokrug Službe.
+Za obavljanje poslova u Službi sigurnosti cestovnog prometa, ustrojavaju se sljedeći odjeli:
+5.1.1.1. Odjel za cestovna motorna vozila i prijevoz opasnih tvari
+5.1.1.2. Odjel pravnih poslova.
+5.1.1.1. Odjel za cestovna motorna vozila i prijevoz
+opasnih tvari

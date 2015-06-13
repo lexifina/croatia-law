@@ -1,0 +1,3 @@
+# Članak 129.
+Odjel inspekcije državnih, županijskih i lokalnih cesta obavlja poslove inspekcijskog nadzora nad provedbom propisa iz područja javnih cesta, prijevoza izvanrednog tereta i utjecaja cestovnog prometa na okoliš za državne, županijske i lokalne ceste, poduzima mjere za uklanjanje nepravilnosti i nedostataka i prati njihovo izvršenje, surađuje i sudjeluje u radu međunarodnih tijela i inspekcijskih službi iz svoga djelokruga te obavlja i druge poslove u okviru svoga djelokruga.
+7.2.1.2. Odjel inspekcije autocesta, složenih cestovnih objekata i žičara

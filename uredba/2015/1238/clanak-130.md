@@ -1,0 +1,3 @@
+# Članak 130.
+Odjel inspekcije autocesta, složenih cestovnih objekata i žičara obavlja poslove inspekcijskog nadzora nad provedbom propisa iz područja javnih cesta, sigurnosti žičara, uspinjača i vučnica, prijevoza izvanrednog tereta, sigurnosti tunela, sigurnosti cestovne infrastrukture, održavanja velikih cestovnih objekata, velikih infrastrukturnih radova pod prometom i utjecaja cestovnog prometa na okoliš za autoceste, objekte s naplatom i složene cestovne objekte, surađuje i sudjeluje u radu međunarodnih tijela i inspekcijskih službi iz svoga djelokruga te obavlja i druge poslove u okviru svoga djelokruga.
+7.2.2. Služba za pravne poslove i logistiku
