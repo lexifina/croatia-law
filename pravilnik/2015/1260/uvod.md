@@ -1,0 +1,1 @@
+Na temelju članka 296. stavka 5. Zakona o sigurnosti prometa na cestama (»Narodne novine«, broj 67/2008, 48/2010 - Odluka Ustavnog suda Republike Hrvatske, 74/2011, 80/2013 - Odluka Ustavnog suda Republike Hrvatske, 92/2014 i 64/2015), ministar unutarnjih poslova donosi
