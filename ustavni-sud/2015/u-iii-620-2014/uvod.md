@@ -1,0 +1,1 @@
+Ustavni sud Republike Hrvatske, u Prvom vijeću za odlučivanje o ustavnim tužbama, u sastavu Antun Palarić, predsjednik Vijeća, te suci Marko Babić, Slavica Banić, Mario Jelušić, Ivan Matija i Aldo Radolović, u postupku koji je ustavnom tužbom pokrenula S. L. iz S., koju zastupa E. Š., odvjetnik iz S., na sjednici održanoj 17. lipnja 2015. jednoglasno je donio
