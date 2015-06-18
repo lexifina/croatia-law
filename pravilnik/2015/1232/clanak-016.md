@@ -1,0 +1,5 @@
+# Članak 16.
+Savjetnički ispit jedan je od uvjeta za stjecanje diplomatskih zvanja: savjetnik i viša diplomatska zvanja.
+Savjetnički ispit mogu polagati profesionalni diplomati koji imaju zvanje I. tajnika i završen Jednogodišnji studij ili Specijalistički studij diplomacije.
+Položen istovrsni studij u inozemnim diplomatskim akademijama, završen sveučilišni poslijediplomski studiji (strani ili domaći), u trajanju od najmanje godinu dana iz područja vanjske politike, međunarodnih odnosa i diplomacije, može se priznati kao uvjet za pristupanje savjetničkom ispitu, ukoliko takav studij svojim kvalitativnim sadržajem i obujmom odgovara Jednogodišnjem studiju ili Specijalističkom studiju diplomacije.
+O sukladnosti programa iz prethodnog stavka prosuđuje kolegij koji čine načelnik Sektora i voditelji službi u Sektoru. Nakon pozitivnog mišljenja kolegija, u programe takvih studija izvršit će uvid i članovi Vijeća te dati svoje mišljenje o sukladnosti programa, kao i mogućnosti da kandidat pristupi savjetničkom ispitu bez završenog Jednogodišnjeg studija ili Specijalističkog studija diplomacije.

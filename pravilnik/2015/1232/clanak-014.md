@@ -1,0 +1,4 @@
+# Članak 14.
+Polaganju prvoga diplomatskog ispita može pristupiti kandidat sa završenim preddiplomskim i diplomskim sveučilišnim studijem ili integriranim preddiplomskim i diplomskim sveučilišnim studijem ili specijalističkim diplomskim stručnim studijem struke iz članka 36. Pravilnika o unutarnjem redu Ministarstva vanjskih i europskih poslova, a koji ispunjava ostale uvjete sukladno propisima službe vanjskih poslova.
+Prvi diplomatski ispit polaže se u odgovarajućem sadržaju prilagođenom odredbama ovog Pravilnika i Pravilnika o unutarnjem redu Ministarstva vanjskih i europskih poslova kao preduvjet za upis u Jednogodišnji studij.
+Smatra se da su položili prvi diplomatski ispit svi diplomati u službi vanjskih poslova koji su prošli odgovarajući klasifikacijski postupak iz članka 7. stavka 2. ovog Pravilnika.

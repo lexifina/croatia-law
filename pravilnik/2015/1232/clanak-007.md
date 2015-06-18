@@ -1,0 +1,4 @@
+# Članak 7.
+Temeljni oblici usavršavanja su: Jednogodišnji stručni diplomatski studij (u daljnjem tekstu: Jednogodišnji studij) i Sveučilišni interdisciplinarni specijalistički studij diplomacije (u daljnjem tekstu: Specijalistički studij diplomacije), koji se provodi u suradnji sa Sveučilištem u Zagrebu.
+Polaznici Jednogodišnjeg studija su državni službenici u službi vanjskih poslova završenog preddiplomskog i diplomskog sveučilišnog studija ili integriranog preddiplomskog i diplomskog sveučilišnog studija ili specijalističkog diplomskog stručnog studija kao i profesionalni diplomati početnih diplomatskih zvanja (od atašea do I. tajnika), koji su prošli odgovarajući klasifikacijski postupak.
+Polaznici Specijalističkog studija diplomacije su, uz polaznike iz stavka 2. ovog članka, strani državljani i diplomati, te polaznici odabrani javnim natječajem (u skladu s pravilima Sveučilišta u Zagrebu), a koji su prošli odgovarajući klasifikacijski postupak.
