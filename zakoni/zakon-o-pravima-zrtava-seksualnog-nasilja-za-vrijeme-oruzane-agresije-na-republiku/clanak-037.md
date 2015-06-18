@@ -1,0 +1,9 @@
+## GLAVA V. OSTVARIVANJE PRAVA U DRUGIM POSTUPCIMA
+# Članak 37.
+(1) Osoba može ostvariti prava iz ovoga Zakona ako ih nije ostvarila po istoj osnovi u drugoj državi.
+(2) Osoba koja je ostvarila pravo na osobnu invalidninu po drugim propisima u Republici Hrvatskoj može ostvariti prava po ovom Zakonu, osim prava na mjesečnu novčanu naknadu.
+(3) Iznimno od stavka 2. ovoga članka, osoba koja je po osnovi seksualnog nasilja ostvarila pravo na osobnu invalidninu po drugim propisima u Republici Hrvatskoj može ostvariti pravo na mjesečnu novčanu naknadu, pod uvjetima određenim ovim Zakonom, izborom povoljnijeg prava, o čemu daje pisanu izjavu.
+(4) U slučaju iz stavka 3. ovoga članka, pravo na osobnu invalidninu po osnovi seksualnog nasilja, ostvareno po drugim propisima, prestaje s danom ostvarivanja prava na mjesečnu novčanu naknadu.
+(5) Korisniku koji je ostvario pravo na osobnu invalidninu, naknadu štete ili drugo novčano pravo u drugim postupcima i po drugim propisima u Republici Hrvatskoj, po osnovi proživljenog seksualnog nasilja, pravo na novčanu naknadu iz članka 24. stavka 1. ovoga Zakona, utvrđuje se uračunavanjem iznosa ostvarenog do dana podnošenja urednog zahtjeva iz članka 28. ovoga Zakona.
+(6) Ostvarivanje prava iz ovoga Zakona ne isključuje pravo korisnika kao oštećenika potraživati naknadu štete ili drugo novčano pravo u drugim postupcima, po osnovi seksualnog nasilja, ali će se ostvarena novčana naknada iz članka 24. stavka 1. ovoga Zakona u nju uračunati, odnosno od korisnika se može zatražiti povrat isplaćenog iznosa najviše do visine isplaćene novčane naknade iz članka 24. stavka 1. ovoga Zakona.
+(7) Republika Hrvatska za isplaćenu novčanu naknadu žrtvi seksualnog nasilja ima pravo regresa od štetnika, odnosno pravomoćno osuđenih osoba za počinjeno seksualno nasilje iz članka 2. ovoga Zakona do iznosa isplaćene novčane naknade.

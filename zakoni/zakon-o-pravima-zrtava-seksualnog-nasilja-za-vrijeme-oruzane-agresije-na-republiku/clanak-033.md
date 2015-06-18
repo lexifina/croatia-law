@@ -1,0 +1,3 @@
+# Članak 33.
+(1) Korisnik, odnosno nasljednik iz članka 27. ovoga Zakona dužan je u roku od 15 dana prijaviti nadležnom tijelu svaku promjenu činjenica o kojima ovisi ostvarivanje ili opseg priznatog prava iz ovoga Zakona.
+(2) Ministar pravilnikom razrađuje, ovim Zakonom utvrđene, uvjete za stjecanje statusa i ostvarivanje prava predviđenih ovim Zakonom te prava na naknadu troškova prijevoza iz članka 34. stavka 3. ovoga Zakona, opseg prava na liječnički sistematski pregled iz članka 21. ovoga Zakona, kao i obrasce zahtjeva za ostvarivanje prava iz ovoga Zakona, te nalaza i mišljenja za ostvarivanje prava na medicinsku rehabilitaciju.

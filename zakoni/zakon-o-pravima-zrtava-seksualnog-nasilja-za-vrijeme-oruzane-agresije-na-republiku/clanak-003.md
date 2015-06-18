@@ -1,0 +1,2 @@
+# Članak 3.
+Žrtva seksualnog nasilja u smislu ovoga Zakona je osoba prema kojoj je počinjeno ili koja je, u okolnostima zatočeništva, nad samom sobom ili trećom osobom navedena na počinjenje jednog ili više oblika seksualnog nasilja iz članka 2. ovoga Zakona, od strane vojne ili policijske osobe, te pripadnika paravojnih postrojbi i skupina ili civilne osobe koja je na počinjenje seksualnog nasilja potaknuta ili prisiljena od strane tih osoba.
