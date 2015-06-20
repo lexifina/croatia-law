@@ -1,0 +1,3 @@
+## Nova infrastruktura
+# Članak 10.
+Prije konačne odluke o planiranom razvoju nove infrastrukture, upravno tijelo zračne luke se mora konzultirati s korisnicima zračne luke.
