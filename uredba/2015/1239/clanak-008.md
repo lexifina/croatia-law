@@ -1,0 +1,8 @@
+## VI. OBVEZE OPERATORA SUSTAVA
+# Članak 8.
+Operator transportnog, odnosno distribucijskog sustava na koji je priključen krajnji kupac plina dužan je odrediti kategoriju kojoj taj kupac pripada sukladno članku 4. stavcima 2. i 3. ove Uredbe, te ga o tome obavijestiti, ukoliko kupac ne pripada kategoriji kućanstva.
+Operator transportnog, odnosno distribucijskog sustava na koji je priključen zaštićeni kupac, utvrđuje potrebne količine plina za sve zaštićene kupce za propisane slučajeve iz standarda opskrbe plinom te ih alocira na pojedine opskrbljivače.
+Operator distribucijskog sustava na svom distribucijskom području dužan je sukladno Planu intervencije o mjerama zaštite sigurnosti opskrbe plinom Republike Hrvatske i ovoj Uredbi, iskazati u svom Planu za krizna stanja, prema stupnju smanjenja ili obustave opskrbe plinom, ukupnu mjesečnu ostvarenu i planiranu potrošnju plina po kategorijama kupaca te količine plina potrebne za zadovoljenje standarda opskrbe.
+Operator transportnog sustava dužan je na transportnom sustavu, sukladno Planu intervencije o mjerama zaštite sigurnosti opskrbe plinom Republike Hrvatske i ovoj Uredbi, iskazati u svom Planu za krizna stanja potrebe za plinom po kategorijama krajnjih kupaca te količine plina potrebne za zadovoljenje standarda opskrbe kupaca na transportnom sustavu.
+Operator transportnog sustava i operatori distribucijskih sustava dužni su prikupiti i čuvati podatke o svim krajnjim kupcima s posebno osjetljivim tehnološkim i/ili proizvodnim procesom te ih navesti u Planovima za krizna stanja.
+Operator transportnog sustava i operatori distribucijskih sustava dužni su do 1. kolovoza svake godine novelirati podatke o zaštićenim kupcima u Planovima za krizna stanja.

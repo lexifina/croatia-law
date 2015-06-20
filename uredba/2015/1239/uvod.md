@@ -1,0 +1,1 @@
+Na temelju članka 39. stavka 2. Zakona o energiji (»Narodne novine«, br. 120/2012 i 14/2014) i članka 30. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/2011 i 119/2014), Vlada Republike Hrvatske je na sjednici održanoj 11. lipnja 2015. godine donijela

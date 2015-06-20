@@ -1,0 +1,3 @@
+# Članak 7.
+Krajnji kupci plina i toplinske energije proizvedene iz plina iz članka 4. stavaka 2. i 3. ove Uredbe imaju obvezu da se u slučaju proglašenja kriznog stanja ponašaju u skladu s preporukama Kriznog tima, a sukladno Planu intervencije o mjerama zaštite sigurnosti opskrbe plinom Republike Hrvatske.
+Krajnji kupci koji imaju postrojenja s posebno osjetljivim tehnološkim i/ili proizvodnim procesom dužni su osigurati odgovarajuću količinu zamjenskog goriva, te osigurati u uvjetima kriznih stanja u slučaju smanjenja ili obustave isporuke plina, u roku maksimalno 24 sata siguran prelazak na zamjensko gorivo ili isključenje s distribucijskog, odnosno transportnog sustava.
