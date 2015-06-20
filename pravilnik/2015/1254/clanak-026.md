@@ -1,0 +1,3 @@
+## Prijelazne i završne odredbe
+# Članak 26.
+Svi postupci za zaštitu i registraciju naziva ZOI, ZOZP ili ZTS koji su pokrenuti do stupanja na snagu ovoga Pravilnika dovršit će se sukladno odredbama Pravilnika o oznakama izvornosti i oznakama zemljopisnog podrijetla poljoprivrednih i prehrambenih proizvoda (»Narodne novine« br. 102/2012), Pravilnika o oznakama tradicionalnog ugleda poljoprivrednih i prehrambenih proizvoda (»Narodne novine« br. 105/2012) i Pravilnika o zaštićenim oznakama izvornosti, zaštićenim oznakama zemljopisnog podrijetla i zajamčeno tradicionalnim specijalitetima poljoprivrednih i prehrambenih proizvoda (»Narodne novine« br. 86/2013).

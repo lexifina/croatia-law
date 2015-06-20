@@ -1,0 +1,1 @@
+Na temelju članka 88. stavaka 18. i 19., članka 90. stavka 3., članka 91. stavka 5., članka 94. stavka 3., članka 95. stavka 9. i članka 96. stavka 12. Zakona o poljoprivredi (»Narodne novine«, broj 30/2015), ministar poljoprivrede donosi

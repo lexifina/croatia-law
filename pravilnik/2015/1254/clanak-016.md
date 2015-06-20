@@ -1,0 +1,3 @@
+## Uvjeti za poništavanje (suženje i povlačenje) Potvrde o sukladnosti sa Specifikacijom proizvoda
+# Članak 16.
+U slučaju kada se tijekom službenih kontrola utvrdi kod gotovog proizvoda odstupanje od zahtjeva iz Specifikacije proizvoda, Plana kontrole ili sadržaja izdane Potvrde o sukladnosti, osoba ovlaštena za provedbu službenih kontrola dužna je o tome obavijestiti ovlašteno kontrolno tijelo, a ono je dužno razmotriti utvrđena odstupanja i pokrenuti postupak suženja u dijelu koji se odnosi na seriju proizvoda kojoj pripada proizvod kod kojeg je utvrđeno odstupanje ili povlačenja u cijelosti Potvrde o sukladnosti.

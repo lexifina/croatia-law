@@ -1,0 +1,2 @@
+# Članak 27.
+Stupanjem na snagu ovoga Pravilnika prestaju važiti Pravilnik o zaštićenim oznakama izvornosti, zaštićenim oznakama zemljopisnog podrijetla i zajamčeno tradicionalnim specijalitetima poljoprivrednih i prehrambenih proizvoda (»Narodne novine« br. 86/2013) i Pravilnik o nacionalnom znaku zaštićene oznake izvornosti, zaštićene oznake zemljopisnog podrijetla i zajamčeno tradicionalnog specijaliteta poljoprivrednih i prehrambenih proizvoda (»Narodne novine« br. 69/2014).
