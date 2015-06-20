@@ -1,0 +1,2 @@
+# Članak 11.
+Okvirni broj potrebnih državnih službenika i namještenika u Ministarstvu uprave prikazan u tablici koja je sastavni dio Uredbe o unutarnjem ustrojstvu Ministarstva uprave (»Narodne novine«, broj 28/2012), zamjenjuje se Okvirnim brojem potrebnih državnih službenika i namještenika u Ministarstvu uprave koji je sadržan u tablici u prilogu ove Uredbe i čini sastavni dio Uredbe o unutarnjem ustrojstvu Ministarstva uprave.
