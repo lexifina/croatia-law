@@ -1,0 +1,6 @@
+# Članak 16.
+(1) Ispitno povjerenstvo čine predsjednik, zamjenik predsjednika, koji su ujedno ispitivači, i promjenjivi članovi - ispitivači za određeni dio ispita.
+(2) Predsjednik, zamjenik predsjednika i članovi ispitnog povjerenstva imenuju se iz redova službenika ministarstva nadležnog za poslove socijalne skrbi (u daljnjem tekstu: ministarstvo) koji imaju najmanje završen diplomski sveučilišni studij ili integrirani diplomski sveučilišni studij, šest godina radnog iskustva na poslovima socijalne skrbi i položen državni ispit, odnosno položen ili priznat ispit ili su od njega oslobođeni prema tada važećim propisima.
+(3) Iznimno od stavka 2. ovoga članka, članovi ispitnog povjerenstva mogu se imenovati iz redova službenika drugih državnih tijela ili ustanova, koji ispunjavaju uvjete iz stavka 2. ovoga članka i rade na poslovima iz predmeta kojega ispituju.
+(4) Rješenje o imenovanju predsjednika, zamjenika predsjednika i članova ispitnog povjerenstva donosi ministar nadležan za poslove socijalne skrbi (u daljnjem tekstu: ministar)
+(5) Za svaki ispit predsjednik ispitnog povjerenstva, odnosno u slučaju njegove odsutnosti zamjenik predsjednika, odredit će imenovane članove ispitnog povjerenstva za ispitivače.
