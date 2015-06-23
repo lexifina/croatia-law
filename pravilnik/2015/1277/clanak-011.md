@@ -1,0 +1,2 @@
+# Članak 11.
+U članku 22. podstavak 7. mijenja se i glasi: »prostorija za dnevni odmor mora imati garniture za sjedenje, tv-prijemnik, glazbeni uređaj i sl.«, u podstavku 10. iza riječi: »drugog«, stavlja se zarez i dodaju riječi: »osim za djecu s navršenih četiri godine života«, u podstavku 16. broj: »110« zamjenjuje se brojem: »120«, a iza podstavka 16. dodaje se novi podstavak 17. koji glasi: »- u spavaonicu se ne mogu smještavati korisnici različitog spola, osim članova obitelji ili uz suglasnost korisnika«.

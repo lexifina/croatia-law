@@ -1,0 +1,3 @@
+# Članak 51.
+U članku 156. stavku 1. iza riječi: »znakom«, u stavku 2. iza riječi: »izolirani«, u stavku 3. iza riječi: »luksa«, u stavku 5. iza riječi: »pokretljivost« te u stavku 11. iza riječi: »aktivnosti« dodaju se riječi: »osim za usluge smještaja u obiteljskom domu i usluga organiziranog stanovanja«.
+U stavku 5. navedenoga članka iza riječi: »spavaonica« dodaju se riječi: »za djecu jasličke i predškolske dobi mora iznositi najmanje 3 m2 po korisniku, za djecu školske dobi i odrasle osobe«, iza riječi: »6 m2 po« dodaje se riječ: »pokretnom«, a iza riječi: »7 m² po korisniku« dodaju se riječi: », djetetu školske dobi i odrasloj osobi«.

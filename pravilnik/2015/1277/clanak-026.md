@@ -1,0 +1,2 @@
+# Članak 26.
+U članku 71. stavku 3. na kraju teksta stavlja se zarez i dodaju riječi: »a djeci smještenoj u udomiteljskim obiteljima uključuje: pružanje podrške u prilagodbi na udomiteljsku obitelj, podršku u kriznim situacijama, primjenu različitih metoda podrške u svrhu usmjeravanja i osposobljavanja za rješavanje problema, savjetodavni individualni i grupni rad i podrška djetetu, priprema djeteta za prekid usluge smještaja u udomiteljske obitelji i upućivanje u druge socijalne usluge i/ili povratak u biološku obitelj ili posvojenje.«.
