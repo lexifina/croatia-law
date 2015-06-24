@@ -1,0 +1,1 @@
+Na temelju članka 24. stavaka 1. i 3. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/2011 i 119/2014) i članka 4. stavka 1. Uredbe o uspostavljanju javnog Registra za koordinaciju projekata izgradnje državne informacijske infrastrukture (»Narodne novine«, broj 134/2014), Vlada Republike Hrvatske je na sjednici održanoj 24. lipnja 2015. godine donijela
