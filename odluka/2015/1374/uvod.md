@@ -1,0 +1,1 @@
+Na temelju članka 22. Zakona o osobnoj iskaznici (»Narodne novine«, broj 62/2015) i članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/2011 i 119/2014), Vlada Republike Hrvatske je na sjednici održanoj 24. lipnja 2015. godine donijela
