@@ -1,0 +1,1 @@
+Na temelju članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/2011 i 119/2014), a u vezi s člankom 213. stavkom 2. Zakona o lijekovima (»Narodne novine«, br. 76/2013 i 90/2014), Vlada Republike Hrvatske je na sjednici održanoj 24. lipnja 2015. godine donijela
