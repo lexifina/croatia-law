@@ -1,0 +1,3 @@
+# Članak 8.
+(1) Državna tijela iz članka 3. ovoga Pravilnika u svojim pozivima za podnošenje ponuda za ugovore o uslugama dužna su zahtijevati da za pružanje predmetnih usluga pružatelj usluga upotrebljava samo proizvode u skladu sa zahtjevima iz članaka 5., 6. i 7. ovoga Pravilnika prilikom pružanja predmetnih usluga u mjeri u kojoj je to u skladu s troškovnom učinkovitošću, gospodarskom izvedivošću, širom održivošću, tehničkom prikladnošću i dovoljnom razinom tržišnog natjecanja.
+(2) Obveza iz stavka 1. ovoga članka primjenjuje se samo na nove proizvode koje pružatelj usluga kupuje djelomično ili u cijelosti za potrebe pružanja predmetnih usluga.
