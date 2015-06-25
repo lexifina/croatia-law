@@ -1,0 +1,2 @@
+# Članak 4.
+Na prijedlog Ureda za velike porezne obveznike, a zbog praćenja pravodobnosti, zakonitosti i ispravnosti utvrđivanja i prijavljivanja nastalih poreznih obveza poreznih obveznika, ravnatelj Porezne uprave može svojom odlukom odrediti nadležnost Ureda za velike porezne obveznike za porezne obveznike koji ne ispunjavaju kriterije iz članka 3. ovog Pravilnika u kojem se slučaju takav porezni obveznik smatra velikim poreznim obveznikom.
