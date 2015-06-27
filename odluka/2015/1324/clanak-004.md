@@ -1,0 +1,3 @@
+# Članak 4.
+U članku 81. stavku 1. ispod Tablice 1.4. »Godišnja vrijednost standardnog tima za djelatnost dentalne zdravstvene zaštite (polivalentne)« pod oznakom »*« dodaje se tekst:
+»Sredstva za svakog pojedinog člana skupne prakse koji koriste usluge/sudjeluju u plaćanju dodatnog doktora dentalne medicine utvrđuju se ovisno o sklopljenom ugovoru o radu s doktorom dentalne medicine, međusobno sklopljenim ugovorima članova skupne prakse kao i brojem članova skupne prakse koji koriste usluge/sudjeluju u plaćanju dodatnog doktora dentalne medicine (iznos se umanjuje proporcionalno broju članova skupne prakse koji koriste usluge/sudjeluju u plaćanju dodatnog doktora dentalne medicine).«
