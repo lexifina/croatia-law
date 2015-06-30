@@ -1,0 +1,2 @@
+# Članak 1.
+Ovim se Pravilnikom propisuje metodologija za praćenje, mjerenje i verifikaciju ušteda energije u skladu sa Zakonom o energetskoj učinkovitosti (»Narodne novine«, 127/14) i Direktivom 2012/27/EU Europskog parlamenta i Vijeća od 25. listopada 2012. o energetskoj učinkovitosti kojom se dopunjuju direktive 2009/125/EZ i 2010/30/EU i ukidaju direktive 2004/8/EZ i 2006/32/EZ (SL L 315, 14. 11. 2012.).

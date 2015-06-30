@@ -1,0 +1,9 @@
+## Verifikacija ušteda energije
+# Članak 13.
+(1) Nacionalno koordinacijsko tijelo verificira ostvarene uštede energije, provedbom mjera energetske učinkovitosti utvrđene u skladu s odredbama Zakona i odredbama ovoga Pravilnika u fizikalnim jedinicama (kWh i/ili J) za koje su priloženi dokazi u skladu s člankom 9. ovoga Pravilnika. Pri unosu dokaza za izračun ušteda energije u skladu s ovim člankom ne mogu se koristiti referentne vrijednosti.
+(2) Nacionalno koordinacijsko tijelo izdaje potvrdu o ostvarenim uštedama energije nositelju ušteda, suvlasniku zgrade koja ima važeći ugovor o energetskom učinku ili drugoj fizičkoj ili pravnoj osobi koja koristi subvencije za energetsku učinkovitost na zahtjev.
+(3) Kada se potvrda iz stavka 2. ovoga članka izdaje suvlasniku zgrade koja ima važeći ugovor o energetskom učinku potvrda sadrži podatke o uštedi energije koja se ostvaruje na godišnjoj razini, podatke o ukupnim uštedama za vrijeme životnog vijeka provedenih mjera, podatke o dokazima i izdavateljima dokaza na kojima se izračun uštede temelji te ulazne podatke uvedene u Sustav iz stavka 8. ovoga Pravilnika, a u skladu s odredbama ovoga Pravilnika.
+(4) Kada se potvrda o ostvarenim uštedama izdaje nositelju uštede, takva potvrda osim podataka iz stavka 3. ovoga članka sadrži podatke o uštedama ostvarenim od trenutka dostave dokaza o provedenoj mjeri ili od trenutka zadnje izdane potvrde do datuma zaprimanja zahtjeva.
+(5) Potvrda iz stavka 4. ovoga članka evidentira se u Sustavu iz članka 7. stavka 1. ovoga Pravilnika i dodjeljuje jedinstveni broj izdane potvrde.
+(6) Potvrda iz stavka 4. ovoga članka je prenosiva.
+(7) Prijenos potvrde o ostvarenju ušteda evidentira se u Sustavu iz članka 7. stavka 1. ovoga Pravilnika prema sporazumu potpisanom od strane nositelja uštede i osobe na čije se ime ušteda prenosi.
