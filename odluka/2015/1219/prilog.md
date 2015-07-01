@@ -1,0 +1,1 @@
+| 63 06.06.2015 Odluka o iznosu tarifnih stavki za opskrbu električnom energijom u okviru univerzalne usluge 63 06.06.2015 Odluka o iznosu tarifnih stavki za opskrbu električnom energijom u okviru univerzalne usluge
