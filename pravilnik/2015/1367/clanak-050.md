@@ -1,0 +1,8 @@
+## Iznimke u automatskoj dodjeli spisa
+# Članak 50.
+(1) Rješavatelj koji je donio prijašnju odluku izuzet će se iz automatske dodjele spisa.
+(2) U slučaju izuzeća ili druge opravdane spriječenosti rješavatelja kojemu je spis dodijeljen u rad, predsjednik suda će pisanom obrazloženom naredbom odrediti ponovljenu automatsku dodjelu. U tom slučaju, spis će se dodijeliti drugom rješavatelju unutar istog nadležnog suda.
+(3) U slučaju da je opravdano očekivati izbivanje rješavatelja u trajanju dužem od dva mjeseca, predsjednik suda će pisanom obrazloženom naredbom, u odnosu na tog rješavatelja, odrediti gašenje automatske dodjele te u odnosu na sve ili dio predmeta dodijeljen tom rješavatelju, ovisno o vremenu njegovog povratka na rad i hitnosti predmeta, odrediti ponovljenu automatsku dodjelu.
+(4) Nakon što rješavatelj prestane s radom u sudu, po izmjeni godišnjeg rasporeda poslova predsjednik suda će pisanom obrazloženom naredbom u odnosu na tog rješavatelja odrediti gašenje automatske dodjele te u odnosu na sve predmete dodijeljene tom rješavatelju odrediti ponovljenu automatsku dodjelu.
+(5) Rješavatelju koji prvi put stupa na dužnost na pojedini sud, rješavatelju koji se vraća na rad u pojedini sud, kao i rješavatelju koji je raspoređen u drugi sudski odjel, pisanom obrazloženom naredbom predsjednika suda u rad će se dodijeliti predmeti drugih sudaca vodeći računa o starosti, složenosti i broju predmeta do prosječne radne opterećenosti rješavatelja u sudu, odnosno odjelu.
+(6) Pisane naredbe predsjednika suda iz stavaka 2., 3., 4. i 5. ovog članka ulažu se u za to posebno osnovani predmet sudske uprave.

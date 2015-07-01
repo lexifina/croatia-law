@@ -1,0 +1,5 @@
+# Članak 43.
+(1) Zona rješavanja predmeta obuhvaća predmete koji se rješavaju ili u sjedištu suda ili u stalnim službama ovisno o dostupnosti naselja predmeta, lokaciji rješavanja i opterećenju rješavatelja.
+(2) Popis naselja koja pripadaju zoni rješavanja predmeta za svaki prekršajni sud utvrđuje odlukom ministar nadležan za poslove pravosuđa, pri čemu uzima u obzir prometnu povezanost naselja predmeta i svih lokacija suda. Odluka se objavljuje na internetskoj stranici ministarstva nadležnog za poslove pravosuđa.
+(3) Stalne službe na otocima rješavaju predmete koje su zaprimile, osim u slučaju maloljetnika. Radi ravnomjerne opterećenosti rješavatelja u stalnim službama na otocima, predmeti u kojima je izjavljen prigovor na obavezni prekršajni nalog u odnosu na prekršajnopravnu sankciju, troškove postupka, oduzimanja imovinske koristi ili oduzimanja predmeta, dodjeljivat će se rješavateljima, bez obzira na zonu rješavanja predmeta, osim ako ministar nadležan za poslove pravosuđa na prijedlog predsjednika suda ne odredi drugačije.
+3. Iznimke u automatskoj dodjeli spisa

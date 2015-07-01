@@ -1,0 +1,25 @@
+# Članak 69.
+(1) Standardna statistička izvješća su:
+1. Neriješeni predmeti po godinama - za datum osnivanja - po vrsti predmeta,
+2. Neriješeni predmeti po godinama - za datum osnivanja - po vrsti predmeta po rješavatelju,
+3. Neriješeni predmeti po godinama - za datum dodjele - po vrsti predmeta po rješavatelju,
+4. Riješeni predmeti po godinama za datum osnivanja - po vrsti predmeta,
+5. Riješeni predmeti po godinama za datum osnivanja - po vrsti predmeta po rješavatelju,
+6. Riješeni predmeti po godinama za datum dodjele - po vrsti predmeta po rješavatelju,
+7. PSRP - Izvješće o prosječnoj starosti riješenih predmeta,
+8. Izvješće o broju i trajanju ročišta po rješavatelju,
+9. SSI - Sumarno statističko izvješće o broju primljenih riješenih i neriješenih predmeta,
+10. SSI - skraćen - za ispis po sudu,
+11. PSI - Pojedinačno statističko izvješće o radu rješavatelja,
+12. PSI - Pojedinačno statističko izvješće o radu rješavatelja s radnim danima,
+13. PSI - skraćen - za ispis - Pojedinačno statističko izvješće o radu rješavatelja,
+14. PSI - Pojedinačno statističko izvješće o radu rješavatelja po vrsti predmeta u periodu,
+15. OPT - Izvješće o opterećenju rješavatelja dodijeljenim predmetima,
+16. Izvještaji prekršajnih sudova po Zakonu o zaštiti od nasilja u obitelji,
+17. Izvještaj Visokog prekršajnog suda Republike Hrvatske po Zakonu o zaštiti intelektualnog vlasništva,
+18. Podaci o prekršajnopravnoj zaštiti intelektualnog vlasništva,
+19. Statistički izvještaj suca vezani uz diskriminaciju i osnove diskriminacije,
+20. Statistički izvještaji prekršajnog suda vezani uz diskriminaciju i osnove diskriminacije,
+21. Izvještaj »Prekršajna djela - motiv mržnja«,
+22. Izvještaj »Manjinski jezik« - izvještaj o predmetima koji su vođeni ili koji su mogli biti vođeni na manjinskom jeziku.
+(2) Kada se ocijeni potrebnim mogu se kreirati i druga Standardna statistička izvješća, sukladno Katalogu propisanih statističkih izvještaja i obrazaca za prekršajne sudove koje je verificirano od Stalnog verifikacijskog tijela.
