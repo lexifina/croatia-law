@@ -1,0 +1,10 @@
+# Članak 10.
+(1) Operater postrojenja i operator zrakoplova dužan je Agenciji dostaviti dopune Plana praćenja i Izvješća o poboljšanjima metodologije praćenja u roku od 8 dana, na adresu elektronske pošte: KLIMA@azo.hr i na znanje Ministarstvu na elektroničku poštu: ets-postrojenja@mzoip.hr ;
+(2) U iznimnim slučajevima, koji se trebaju dobro obrazložiti, rok iz stavka 1. ovoga članka se može produžiti do maksimalno mjesec dana;
+(3) U slučaju da operater postrojenja i operator zrakoplova ne dostavi tražene dopune sukladno stavcima 1. i 2. ovoga članka, Agencija će dati negativno mišljenje na Plan praćenja i Izvješća o poboljšanjima metodologije praćenja;
+(4) Uz obavijest o promjenama u postrojenju, gdje je primjenjivo, operater postrojenja mora detaljno obrazložiti utjecaj prijavljene promjene na proces proizvodnje i na praćenje i izvješćivanje o emisijama;
+(5) Operater postrojenja kojem je odobreno korištenje pojednostavljenog plana praćenja sukladno članku 47. st. 2. Uredbe (EU) br. 601/2012. mora izvršiti procjenu rizika sukladno članku 13. stavku 2. Uredbe (EU) br. 601/2012;
+(6) Dozvoljava se korištenje emisijskih faktora za goriva izraženih u t CO2/t ili t CO2/Nm3 sukladno članku 24. i 36. stavku 2. Uredbe (EU) br. 601/2012;
+(7) Dozvoljava se korištenje emisijskih faktora izraženih za goriva i za goriva koja se koriste kao ulazni materijal procesa ili u masenoj bilanci te praćenje donje ogrjevne vrijednosti sukladno članku 26. stavku 5. Uredbe (EU) br. 601/2012;
+(8) Dozvoljava se postrojenju koje kao jedinu djelatnost ima izgaranje goriva i ne emitira godišnje više od 25.000 t CO2 korištenje pojednostavljenog plana praćenja sukladno članku 47. st. 2. Uredbe (EU) br. 601/2012.
+(9) Operater postrojenja i operator zrakoplova za dostavljanje podataka sukladno Uredbi (EU) br. 601/2012 EU i važećim uputama Europske komisije je dužan koristiti elektroničke obrasce ili specifične oblike datoteka za dostavljanje podataka, koje na svojim internetskim stranicama objavljuju Ministarstvo i Agencija.
