@@ -1,0 +1,1 @@
+Odluka o dopuni Odluke o posebnim aktivnostima u provedbi Sporazuma o mjerama za ublažavanje financijskih teškoća određenog dijela građana koji su ovršenici u postupcima prisilne naplate tražbina male vrijednosti na novčanim sredstvima

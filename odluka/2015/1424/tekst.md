@@ -1,0 +1,7 @@
+I.
+U Odluci o posebnim aktivnostima u provedbi Sporazuma o mjerama za ublažavanje financijskih teškoća određenog dijela građana koji su ovršenici u postupcima prisilne naplate tražbina male vrijednosti na novčanim sredstvima (»Narodne novine« broj 11/2015), iza točke IV. dodaje se točka IV.a koja glasi:
+»IV.a
+Republika Hrvatska odriče se prihoda s osnove sudske pristojbe za prijedlog za odgodu ovrhe koja se provodi radi prisilne naplate osnove za plaćanja za koju je ovršenik podnio ovrhovoditelju Zahtjev za otpust/otpis duga, odnosno odgodu ovrhe na temelju Sporazuma, a ovrhovoditelj je podneseni Zahtjev odobrio i suglasio se s odgodom ovrhe na rok od jedne godine od dana odobrenja Zahtjeva.
+Kao dokaz o suglasnosti ovrhovoditelja s odgodom ovrhe, ovršenik sudu podnosi prijedlog za odgodu ovrhe na obrascu koji čini Prilog 4.a.: Prijedlog za odgodu ovrhe - sudska ovrha, Protokola o postupku provedbe Sporazuma o mjerama za ublažavanje financijskih teškoća određenog dijela građana koji su ovršenici u postupcima prisilne naplate tražbina male vrijednosti na novčanim sredstvima, koji je donijelo Ministarstvo socijalne politike i mladih, klase: 022-03/14-02/212, urbroja: 519-01/5-15-20, od 23. siječnja 2015. godine, te u privitku istog prilaže presliku odobrenog Zahtjeva kojim je ovrhovoditelj suglasan s prijedlogom ovršenika za odgodu ovrhe ili ispis potvrde o odobrenju odgode ovrhe iz Registra otpisa duga.«.
+II.
+Ova Odluka stupa na snagu danom donošenja, a objavit će se u »Narodnim novinama«.
