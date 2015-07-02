@@ -1,0 +1,1 @@
+74 03.07.2015 Odluka o oduzimanju koncesija na pomorskom dobru u svrhu gospodarskog korištenja pomorskog dobra radi obavljanja djelatnosti uzgoja školjaka i riba na području posebnog rezervata Malostonskog zaljeva i Malog mora
