@@ -1,0 +1,12 @@
+## Izražavanje namjere
+# Članak 33.
+(1) Državljanin treće zemlje ili osoba bez državljanstva može izraziti namjeru prilikom obavljanja granične kontrole na graničnom prijelazu.
+(2) Ako se državljanin treće zemlje ili osoba bez državljanstva već nalazi na području Republike Hrvatske, namjeru izražava u policijskoj upravi, odnosno policijskoj postaji i prihvatnom centru za strance.
+(3) Iznimno od stavka 2. ovoga članka namjera se može izraziti u Prihvatilištu za tražitelje međunarodne zaštite (u daljnjem tekstu: Prihvatilište) u izvanrednim okolnostima radi omogućavanja pristupa postupku odobrenja međunarodne zaštite.
+(4) Ako državljanin treće zemlje ili osoba bez državljanstva ne može iz opravdanih razloga izraziti namjeru sukladno stavcima 2. i 3. ovoga članka, tijelo pred kojim je namjera izražena dužna je o tome obavijestiti Ministarstvo u roku od tri dana od izražene namjere.
+(5) U svrhu utvrđivanja identiteta tražitelj stariji od 14 godina dužan je podvrgnuti se uzimanju otisaka prstiju i fotografiranju.
+(6) U slučaju privremene nemogućnosti uzimanja otisaka prstiju zbog medicinskih ili drugih razloga koji nisu namjerno prouzročeni djelovanjem tražitelja, tražitelj je dužan dati otiske prstiju u što kraćem roku po prestanku razloga zbog kojih ranije nije bilo moguće uzeti otiske prstiju.
+(7) Tražitelju koji bez opravdanog razloga ne postupa sukladno stavcima 5. i 6. ovoga članka, policijski službenici uzet će otiske prstiju bez privole.
+(8) Policijski službenici ili službenici Prihvatilišta dužni su neposredno nakon izražene namjere uzeti otiske prstiju tražitelju i fotografirati ga, utvrditi identitet, način dolaska u Republiku Hrvatsku, pravac putovanja od zemlje podrijetla do Republike Hrvatske te osobne okolnosti bitne za procjenu prihvatnih i postupovnih jamstava iz članka 15. ovoga Zakona, o čemu su dužni bez odgode odmah obavijestiti Ministarstvo.
+(9) Tijela iz stavaka 1., 2. i 3. ovoga članka registrirat će tražitelja u evidencijama Ministarstva, najkasnije u roku od tri radna dana od dana kada je namjera izražena. Ako je namjera izražena sukladno stavku 4. ovoga članka, Prihvatilište će registrirati tražitelja u evidencijama Ministarstva u roku od šest radnih dana od kada je izražena namjera.
+(10) Tijelo koje je izvršilo registraciju sukladno stavku 9. ovoga članka izdaje potvrdu o registraciji tražitelja u evidencijama Ministarstva te će prema potrebi odrediti rok u kojem se tražitelj mora javiti u Prihvatilište radi podnošenja zahtjeva.

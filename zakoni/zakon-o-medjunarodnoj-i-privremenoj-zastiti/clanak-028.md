@@ -1,0 +1,10 @@
+## Procjena činjenica i okolnosti
+# Članak 28.
+(1) Tražitelj je dužan surađivati s Ministarstvom te priložiti svu raspoloživu dokumentaciju i iznijeti točne i istinite podatke koji se odnose na identitet, dob, državljanstvo, obitelj, zemlju i adresu prethodnog boravišta, prijašnje zahtjeve, pravce putovanja, identifikacijske i putne isprave i razloge traženja zaštite.
+(2) Prilikom odlučivanja o osnovanosti zahtjeva Ministarstvo je dužno prikupiti i razmotriti sve relevantne činjenice i okolnosti posebno uzimajući u obzir:
+1. relevantne izjave i dokaze koje je iznio tražitelj, sukladno stavku 1. ovoga članka, uključujući i informaciju je li bio ili može biti izložen proganjanju ili riziku trpljenja ozbiljne nepravde
+2. aktualne činjenice o zemlji podrijetla i prema potrebi o zemlji kroz koju je putovao, uključujući zakone i propise te zemlje, kao i način na koji se oni primjenjuju, sadržane u različitim izvorima, osobito kao što su UNHCR i Europski potporni ured za azil (u daljnjem tekstu: EASO) te drugih organizacija koje se bave zaštitom ljudskih prava
+3. položaj i osobne okolnosti tražitelja, uključujući spol i dob, kako bi se na osnovi toga procijenilo predstavljaju li postupci i djela kojima je bio ili bi mogao biti izložen proganjanje ili ozbiljnu nepravdu
+4. jesu li aktivnosti tražitelja, otkako je napustio zemlju podrijetla, bile usmjerene stvaranju prijeko potrebnih uvjeta za odobrenje međunarodne zaštite, kako bi se procijenilo mogu li te aktivnosti izložiti tražitelja proganjanju ili riziku trpljenja ozbiljne nepravde ako se vrati u tu zemlju
+5. može li tražitelj dobiti zaštitu zemlje čije bi državljanstvo mogao dokazati.
+(3) Činjenica da je tražitelj već bio izložen proganjanju ili riziku trpljenja ozbiljne nepravde, odnosno prijetnjama takvim proganjanjem ili nepravdom je ozbiljan pokazatelj postojanja osnovanog straha od proganjanja ili trpljenja ozbiljne nepravde, osim ako postoje opravdani razlozi za vjerovanje da se takvo proganjanje ili ozbiljna nepravda neće ponoviti.

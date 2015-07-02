@@ -1,0 +1,7 @@
+## Pravo na informacije i pravno savjetovanje
+# Članak 59.
+(1) Državljaninu treće zemlje ili osobi bez državljanstva zadržanoj u prihvatnom centru, na graničnom prijelazu, odnosno u tranzitnom prostoru zračne, morske luke ili luke unutarnjih voda, koja bi željela izraziti namjeru, policijski službenici pružit će sve potrebne informacije o postupku odobrenja međunarodne zaštite na jeziku za koji se opravdano pretpostavlja da ga razumije i na kojem može komunicirati.
+(2) Ministarstvo će u roku od 15 dana od izražene namjere obavijestiti tražitelja o načinu provođenja postupka odobrenja međunarodne zaštite, o pravima i obvezama koje ima u tom postupku, kao i o mogućnosti obraćanja predstavnicima UNHCR-a i drugim organizacijama koje se bave zaštitom prava izbjeglica te mogućnosti dobivanja besplatne pravne pomoći.
+(3) Tražitelju će se na njegov zahtjev pružiti pravne i postupovne informacije o odobrenju međunarodne zaštite uzimajući u obzir okolnosti konkretnog zahtjeva, na jeziku za koji se opravdano pretpostavlja da ga razumije i na kojem može komunicirati.
+(4) Pravno savjetovanje iz stavka 3. ovoga članka pružaju organizacije koje se bave zaštitom prava izbjeglica ili odvjetnici s kojima Ministarstvo sklopi ugovor o provođenju pravnog savjetovanja.
+(5) Pravo na pravno savjetovanje iz stavka 3. ovoga članka ima tražitelj koji ne posjeduje novčana sredstva ili stvari veće vrijednosti koja mu omogućavaju odgovarajući životni standard.
