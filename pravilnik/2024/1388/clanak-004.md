@@ -1,0 +1,2 @@
+# Članak 4.
+U postupku izračunavanja invalidske mirovine iz članka 3. ovoga Pravilnika, vrijednosni bod se utvrđuje prema pripadajućoj osnovici propisanoj člankom 20. stavkom 1. Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, broj: 174/2004, 92/2005, 2/2007, 107/2007, 65/2009, 137/2009, 146/2010, 55/2011, 140/2012, 19/2013 - pročišćeni tekst, 33/2013, 148/2013 i 92/2014).

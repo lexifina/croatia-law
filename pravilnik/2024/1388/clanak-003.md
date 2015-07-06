@@ -1,0 +1,2 @@
+# Članak 3.
+Hrvatski zavod za mirovinsko osiguranje, sukladno važećim propisima o pravima hrvatskih branitelja iz Domovinskog rata, izračunava visinu invalidske mirovine pripadniku Ministarstva kod kojeg je djelomični ili potpuni gubitak radne sposobnosti posljedica ranjavanja, ozljede, zatočeništva u logoru, bolesti, pogoršanja bolesti, odnosno pojave bolesti zadobivene u obrani suvereniteta Republike Hrvatske.
