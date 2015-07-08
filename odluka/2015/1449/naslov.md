@@ -1,0 +1,1 @@
+Odluka o smjernicama za postupanje članova skupština, nadzornih odbora i uprava trgovačkih društava te pravnih osoba u vlasništvu Republike Hrvatske u pogledu visine, načina i rokova uplate sredstava trgovačkih društava i drugih pravnih osoba u Državni proračun Republike Hrvatske za 2015. godinu
