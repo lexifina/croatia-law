@@ -1,0 +1,5 @@
+# Članak 19.
+Policijski službenik u svojstvu voditelja projekta sudjeluje u planiranju, pripremi, provedbi i upravljanju projektnim aktivnostima te obavlja i druge poslove ovisno o pravilima pod kojima je projekt ugovoren. Za vrijeme trajanja projekta policijski službenik povremeno boravi u inozemstvu neprekidno do 30 dana.
+Policijski službenik u svojstvu stalnog savjetnika za provedbu projekta izravno sudjeluje u pripremi i provedbi projekta, koordinira operativnu i administrativnu provedbu svih komponenti projekta u zemlji korisnici projekta te u tu svrhu boravi u inozemstvu neprekidno duže od 30 dana.
+Policijski službenik u svojstvu dugoročnog/glavnog stručnjaka za provedbu projekta koordinira i nadzire operativnu provedbu jedne ili više komponenti projekta te neposredno sudjeluje u provedbi aktivnosti. Ovisno o pojedinom projektu i njegovom trajanju, policijski službenik može boraviti u inozemstvu neprekidno duže od 30 dana.
+Policijski službenik u svojstvu kratkoročnog stručnjaka za provedbu projekta neposredno provodi aktivnosti iz radnog plana projekta te za vrijeme trajanja projekta boravi u inozemstvu neprekidno do 30 dana.

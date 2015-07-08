@@ -1,0 +1,5 @@
+# Članak 20.
+Za voditelja projekta može se predložiti policijski službenik koji ima najmanje 10 godina radnog iskustva na poslovima policijskog službenika, najmanje 5 godina radnog iskustva u rukovođenju na poslovima iz opisa projekta te koji ima iskustvo na radu u projektnim aktivnostima.
+Za stalnog savjetnika za provedbu projekta i dugoročnog/glavnog stručnjaka za provedbu projekta, ovisno o uvjetima pojedinog projekta, može se predložiti policijski službenik koji ima najmanje 7 godina radnog iskustva na poslovima policijskog službenika, najmanje 3 godine radnog iskustva u rukovođenju na poslovima iz opisa projekta te koji ima iskustvo na radu u projektnim aktivnostima.
+Za kratkoročnog stručnjaka za provedbu projekta, ovisno o uvjetima i zahtjevima pojedinog projekta, može se predložiti policijski službenik koji ima najmanje 5 godina radnog iskustva na poslovima policijskog službenika te neposredno radno iskustvo u obavljanju stručnih poslova u području koje pokriva pojedini projekt.
+Uz ispunjavanje uvjeta iz stavka 1., 2. i 3. ovoga članka neophodno je znanje zahtijevanog stranog jezika te je poželjno znanje jezika države u kojoj se provodi projekt.
