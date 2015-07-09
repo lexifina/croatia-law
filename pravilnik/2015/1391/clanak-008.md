@@ -1,0 +1,4 @@
+# Članak 8.
+(1) Ministarstvo u tijeku postupka provjerava potpunost i točnost dostavljenih podataka, te priloženih isprava podnositelja zahtjeva za izdavanje rješenja o ovlaštenju za kontrolu energetskog certifikata zgrade i /ili izvješća o redovitom pregledu sustava grijanja i sustava hlađenja ili klimatizacije u zgradi.
+(2) Ministarstvo provodi kontrolu kvalitete energetskih certifikata zgrada, odnosno izvješća o redovitim pregledima sustava grijanja i sustava hlađenja ili klimatizacije u zgradi, izdanih od strane podnositelja zahtjeva.
+(3) Ako se provjerom podataka iz stavka 1. ovoga članka utvrdi da u zahtjevu ili priloženim ispravama nedostaje dokaz o ispunjavanju propisanih uvjeta, da dostavljeni podaci ne odgovaraju propisanim podacima ili da nedostaje neki podatak, Ministarstvo donosi zaključak radi dopune podataka.

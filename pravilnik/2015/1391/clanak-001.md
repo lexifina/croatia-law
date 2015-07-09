@@ -1,0 +1,4 @@
+## I. OPĆE ODREDBE
+# Članak 1.
+(1) Ovim Pravilnikom propisuje se način i uvjeti provedbe neovisne kontrole energetskih certifikata i izvješća o redovitom pregledu sustava grijanja i sustava hlađenja ili klimatizacije u zgradi, postupak za podnošenje zahtjeva i davanje ovlaštenja osobama za kontrolu, postupanje ovlaštenih osoba, vođenje registra ovlaštenih osoba, provođenje kontrole, obveze investitora, vlasnika i korisnika zgrade kod provođenja kontrole, obveze ovlaštenih osoba za energetsko certificiranje i energetski pregled zgrade i redoviti pregled sustava grijanja i sustava hlađenja ili klimatizacije u zgradi kod provođenja kontrole, postupanje po negativnom izvješću o kontroli, nabava usluge kontrole i nadzor nad radom ovlaštenih osoba za kontrolu.
+(2) Odredbe ovoga Pravilnika koje se odnose na poslove i postupke iz stavka 1. ovoga članka na odgovarajući se način primjenjuju na samostalne uporabne cjeline zgrade.

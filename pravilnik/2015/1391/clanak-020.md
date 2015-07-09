@@ -1,0 +1,3 @@
+# Članak 20.
+(1) Fizička ili pravna osoba ovlaštena za energetsko certificiranje i energetski pregled zgrade, odnosno redoviti pregled sustava grijanja i sustava hlađenja ili klimatizacije u zgradi, koja je izradila energetski certifikat zgrade, odnosno izvješće o redovitom pregledu sustava grijanja i sustava hlađenja ili klimatizacije u zgradi koji je predmet kontrole, dužna je u roku od 15 dana na pisani poziv Ministarstva dostaviti svu dokumentaciju potrebnu za provedbu kontrole.
+(2) U slučaju da se kontrola ne može provesti bez dokumentacije iz stavka 1. ovog članka, a ovlaštena osoba ih ne dostavi, energetski certifikat zgrade, odnosno izvješće o provedenom pregledu sustava grijanja i sustava hlađenja ili klimatizacije u zgradi, ocjenjuje se negativno.
