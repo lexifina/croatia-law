@@ -1,0 +1,3 @@
+# Članak 11.
+(1) Ministarstvo u tijeku postupka provjerava potpunost i točnost svih podataka za davanje ovlaštenja za energetsko certificiranje, energetski pregled zgrade i redoviti pregled sustava grijanja i sustava hlađenja ili klimatizacije u zgradi i priloženih isprava.
+(2) Kad se provjerom podataka iz stavka 1. ovoga članka utvrdi da u zahtjevu ili priloženim ispravama nedostaje neki podatak, da neki od podataka ne odgovara propisanim podacima ili da nedostaje neki od dokaza o ispunjavanju propisanih uvjeta, Ministarstvo donosi zaključak radi dopune podataka, odnosno dostave novog zahtjeva ili dokaza.

@@ -1,0 +1,4 @@
+# Članak 9.
+(1) Program usavršavanja jednom godišnje obvezno pohađaju ovlaštene fizičke osobe, te imenovane i druge zaposlene osobe, koje provode energetsko certificiranje, energetski pregled zgrade i redoviti pregled sustava grijanja i sustava hlađenja ili klimatizacije u zgradi, u ovlaštenim pravnim osobama.
+(2) Podaci o završenom Programu usavršavanja obvezno se unose u Registar ovlaštenih osoba, te se mogu objaviti na službenim internetskim stranicama Ministarstva.
+(3) Osobe koje su uspješno završile Programe stručnog osposobljavanja Modul 1 ili Modul 1 i Modul 2, a nisu podnijele zahtjev za davanje odgovarajućeg ovlaštenja u roku od godine dana od dana polaganja ispita, isti mogu podnijeti uz prilaganje Uvjerenja o sudjelovanju na Programu usavršavanja prema ovom Pravilniku, uz uvjet da od dana završetka Programa usavršavanja do dana podnošenja zahtjeva nije proteklo više od godine dana.

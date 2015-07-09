@@ -1,0 +1,2 @@
+# Članak 12.
+Fizička osoba ovlaštena sukladno ovom Pravilniku, koja kao ovlašteni arhitekt, odnosno ovlašteni inženjer obavlja poslove projektiranja i/ili stručnog nadzora građenja samostalno u vlastitom uredu, poslove energetskog certificiranja, energetskog pregleda zgrade i redovitog pregleda sustava grijanja i sustava hlađenja ili klimatizacije u zgradi može obavljati putem ureda ovlaštenog arhitekta, odnosno ovlaštenog inženjera.

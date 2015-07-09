@@ -1,0 +1,2 @@
+# Članak 8.
+Ovlaštena pravna osoba određuje fizičke osobe koje su zaposlene na neodređeno vrijeme u toj pravnoj osobi (zaposlene osobe) i koje ispunjavaju uvjete iz članka 29. stavka 1. podstavka 1, 2 i 4 Zakona odnosno članka 29. stavka 2. podstavka 1, 2 i 4 Zakona, koje će provoditi radnje i postupke energetskog certificiranja i energetskog pregleda zgrade, odnosno redovitog pregleda sustava grijanja i sustava hlađenja ili klimatizacije u zgradi, kao zaposlenici u toj pravnoj osobi.
