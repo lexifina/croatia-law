@@ -1,0 +1,3 @@
+# Članak 68.
+Predsjednici i suci prvostupanjskog vojnostegovnog suda, odnosno Višeg vojnostegovnog suda zatečeni s imenovanjima na tim dužnostima u skladu sa Zakonom o službi u Oružanim snagama Republike Hrvatske (»Narodne novine«, br. 73/13.) na dan stupanja na snagu ovoga Zakona ostaju na svojim dužnostima i zadržavaju pravo na plaću prema dosadašnjim aktima do stupanja na snagu odredbi ovoga Zakona kojima se uređuje stegovna i materijalna odgovornost.
+Danom stupanja na snagu odredbi ovoga Zakona kojima se uređuje stegovna i materijalna odgovornost osobama iz stavka 1. ovoga članka regulirat će se stanje u službi u skladu s odredbama Zakona o službi u Oružanim snagama Republike Hrvatske (»Narodne novine«, br. 73/13.) i ovoga Zakona.

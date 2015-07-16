@@ -1,0 +1,2 @@
+# Članak 64.
+Za predmete u kojima su stegovni postupci pokrenuti po odredbama Zakona o službi u Oružanim snagama Republike Hrvatske (»Narodne novine«, br. 73/13.) i u kojima je u tijeku žalbeni postupak na dan stupanja na snagu odredbi ovoga Zakona kojima se uređuje stegovna i materijalna odgovornost, Ministarstvo obrane će te predmete bez odgađanja ustupiti sudu nadležnome za upravne sporove koji će ih dovršiti po odredbama Zakona o upravnim sporovima (»Narodne novine«, br. 20/10., 143/12. i 152/14.).

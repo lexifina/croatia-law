@@ -1,0 +1,2 @@
+# Članak 60.
+Dočasnici i časnici stariji od godina života propisanih odredbama Zakona o službi u Oružanim snagama Republike Hrvatske (»Narodne novine«, br. 73/13.) potrebnim za promaknuće u viši čin koji su zatečeni u službi na dan stupanja na snagu ovoga Zakona mogu se jedanput promaknuti u viši čin ako ispunjavaju ostale uvjete za promaknuće propisane navedenim Zakonom najkasnije do 31. prosinca 2016.

@@ -1,0 +1,2 @@
+# Članak 66.
+Pravilnik o vojnoj stezi (»Narodne novine«, br. 3/08.) i Pravilnik o postupku utvrđivanja štete i njezine visine (»Narodne novine«, br. 151/13.) ostaju na snazi i nakon stupanja na snagu odredbi ovoga Zakona kojima se uređuje stegovna i materijalna odgovornost do stupanja na snagu novih podzakonskih propisa iz područja stegovne i materijalne odgovornosti, u dijelu u kojem nisu u suprotnosti s odredbama ovoga Zakona.

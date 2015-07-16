@@ -1,0 +1,2 @@
+# Članak 70.
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«, osim odredbi članka 3., članka 19., članka 44., članka 45., članka 46., članka 47., članka 48., članka 49., članka 50., članka 51., članka 52. i članka 53. ovoga Zakona koje stupaju na snagu prvi sljedeći dan nakon isteka roka od 60 dana od dana stupanja na snagu ovoga Zakona i članka 58. ovoga Zakona koji stupa na snagu 1. siječnja 2017.
