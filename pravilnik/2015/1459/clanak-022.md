@@ -1,0 +1,4 @@
+# Članak 22.
+Članak 58. mijenja se i glasi:
+»Ako se prikupljanje obavijesti od djeteta poduzima u službenim prostorijama policije, policijski službenik će, kad god je to moguće, obavijest od djeteta prikupljati u za tu svrhu posebno opremljenim prostorijama za obavljanje razgovora s djecom.
+Kod unaprijed planiranih prikupljanja obavijesti od osoba s invaliditetom, kada to okolnosti dozvoljavaju, policijski službenici će prethodno izvršiti konzultaciju te dogovoriti pravovremeni angažman i pomoć osobe koja je obučena za rad s osobom s invaliditetom, odnosno pravovremeno osigurati dostupnost tehničkih i drugih sredstava potrebnih za uspostavu komunikacije i olakšanje patnji osobama s tjelesnim, senzoričkim, intelektualnim ili mentalnim oštećenjima, odnosno osobama s više prisutnih invalidnih stanja.«.
