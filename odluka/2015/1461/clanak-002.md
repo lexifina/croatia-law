@@ -1,0 +1,5 @@
+## Obuhvat primjene Odluke
+# Članak 2.
+(1) Odredbe ove Odluke kreditna institucija dužna je primjenjivati na konsolidiranoj osnovi za grupu kreditnih institucija u skladu s glavom XXII. Zakona o kreditnim institucijama. Izvještaji izrađeni na konsolidiranoj osnovi nazivaju se konsolidirani izvještaji o planovima financiranja (FK).
+(2) Ako kreditna institucija nema obvezu iz stavka 1. ovoga članka, kreditna institucija dužna je primjenjivati odredbe ove Odluke na pojedinačnoj osnovi. Izvještaji izrađeni na pojedinačnoj osnovi nazivaju se nekonsolidirani izvještaji o planovima financiranja (FN).
+(3) Iznimno od stavka 1. i 2. ovog članka, zahtjev za koeficijent likvidnosne pokrivenosti (LCR) i neto stabilne izvore financiranja (NSFR), kreditna institucija je dužna ispunjavati na pojedinačnoj osnovi i to na način određen člankom 6. stavka 4. Uredbe (EU) br. 575/2013, odnosno na konsolidiranoj osnovi, ako je matična kreditna institucija i to na način određen člankom 11. stavkom 3. Uredbe (EU) br. 575/2013.
