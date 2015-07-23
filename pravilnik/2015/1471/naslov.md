@@ -1,0 +1,1 @@
+Pravilnik o uvjetima i načinu izdavanja potvrde osobama iz država ugovornica Ugovora o europskom gospodarskom prostoru za pružanje usluge energetskog certificiranja i energetskog pregleda zgrade u Republici Hrvatskoj te priznavanju inozemnih stručnih kvalifikacija za pružanje usluga energetskog certificiranja i energetskog pregleda zgrade

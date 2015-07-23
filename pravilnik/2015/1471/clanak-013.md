@@ -1,0 +1,4 @@
+# Članak 13.
+(1) Ministarstvo uspoređuje dokumentaciju o stručnim kvalifikacijama podnositelja zahtjeva sa stručnim kvalifikacijama koje kao uvjet propisuju propisi Republike Hrvatske za obavljanje usluga energetskog certificiranja i energetskog pregleda zgrade.
+(2) Odlučivanje o zahtjevu za priznavanje inozemne stručne kvalifikacije i usporedbu propisane dokumentacije obavlja, na temelju stručne procjene, Povjerenstvo Ministarstva kojeg imenuje Ministar.
+(3) U postupku vrednovanja inozemnih stručnih kvalifikacija, mišljenja, preporuke i informacije mogu se pribaviti od Agencije za znanost i visoko obrazovanje odnosno Nacionalnog ENIC/NARIC ureda, odgovarajućih visokoškolskih ustanova, strukovnih organizacija, kontaktnih točaka država EGP-a, uvidom u baze podataka reguliranih profesija energetskog certificiranja i energetskog pregleda zgrade država EGP-a, te upravnom suradnjom putem Informacijskog sustava unutarnjeg tržišta (IMI sustav).
