@@ -1,0 +1,1 @@
+Odluka o punoj subvenciji participacije redovitih studenata u troškovima studija i sufinanciranju materijalnih troškova javnim visokim učilištima u Republici Hrvatskoj u akademskim godinama 2015./2016., 2016./2017. i 2017./2018.
