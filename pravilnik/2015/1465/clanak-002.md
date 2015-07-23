@@ -1,0 +1,8 @@
+# Članak 2.
+Članak 23. mijenja se i glasi:
+»(1) Iznimno od članka 22. ovoga Pravilnika, nakon provjere zdravstvenih, psihičkih, tjelesnih i sigurnosnih uvjeta, popis kandidata za kadete - pilote koji su udovoljili provjerama dostavlja se Fakultetu prometnih znanosti Sveučilišta u Zagrebu radi provedbe daljnjeg postupka upisa na studij aeronautike, smjer - vojni pilot.
+(2) Kandidati za kadete - pilote koji su zadovoljili kriterije odabirnog postupka Fakulteta prometnih znanosti Sveučilišta u Zagrebu upućuju se na selekcijsko letenje.
+(3) Nadležna ustrojstvena jedinica Ministarstva obrane sklapa ugovore o provedbi selekcijskog letenja s kandidatima za kadete - pilote. Kandidati za kadete - pilote na selekcijskom letenju ocjenjuju se u skladu s programom selekcijskog letenja koji donosi zapovjednik Hrvatskoga ratnog zrakoplovstva i protuzračne obrane.
+(4) Nakon provedenog selekcijskog letenja izrađuje se popis kandidata za kadete - pilote koji sadrži: ime i prezime kandidata, datum rođenja, OIB i ocjenu sa selekcijskog letenja. Popis se dostavlja ustrojstvenoj jedinici Oružanih snaga nadležnoj za personalno upravljanje.
+(5) Popis kandidata iz stavka 4. ovoga članka ustrojstvena jedinica Oružanih snaga nadležna za personalno upravljanje dostavlja povjerenstvu Ministarstva obrane koje utvrđuje prijedlog izbora kandidata za kadete - pilote. Prijedlog izbora kandidata dostavlja se Fakultetu prometnih znanosti Sveučilišta u Zagrebu radi upisa na studij, a kandidati za kadete - pilote upućuju se na pripremni kamp.
+(6) Nakon upisa na studij, nadležna ustrojstvena jedinica Ministarstva obrane s odabranim kandidatima za kadete - pilote sklapa ugovore o kadetskoj službi.«
