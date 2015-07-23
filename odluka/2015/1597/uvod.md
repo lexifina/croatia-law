@@ -1,0 +1,1 @@
+Na temelju članka 48. Zakona o pomorskom dobru i morskim lukama (»Narodne novine«, br. 158/2003, 100/2004, 141/2006, 38/2009 i 123/2011), a u vezi s člankom 27. stavkom 1. Zakona o ustanovama (»Narodne novine«, br. 76/93, 29/97, 47/99 i 35/2008), Vlada Republike Hrvatske je na sjednici održanoj 23. srpnja 2015. godine donijela
