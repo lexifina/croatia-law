@@ -1,0 +1,7 @@
+## Sadržaj Evidencije nabave i prodaje
+# Članak 7.
+U Evidenciju se unose podaci o porijeklu pokretnog kulturnog dobra i kulturnog predmeta, njihov opis, prodajna cijena te podaci o kupcu.
+Podaci o porijeklu pokretnog kulturnog dobra i predmeta sastoje se najmanje od podataka o prijašnjem vlasniku kulturnog dobra ili kulturnog predmeta, posljednjem smještaju kulturnog dobra i predmeta, prodajnoj vrijednosti ili nabavnoj cijeni i broju sklopljenih ugovora i drugim pravnim poslovima. Podacima o prethodnom vlasniku smatraju se tvrtka i sjedište ako je riječ o pravnoj osobi odnosno naziv obrta, ime i prezime te adresa stanovanja ako je riječ o fizičkoj osobi.
+Opis predmeta sastoji se najmanje od podataka o identifikaciji vrste predmeta, podatka o upisu u Registar kulturnih dobara Republike Hrvatske, dimenziji predmeta, namjeni predmeta, motivu, imenu i prezimenu autora ili proizvođača ako je poznat, godini ili razdoblju nastanka, materijalu, tehnici i posebnoj oznaci (kao što su žig, potpis, oštećenja i dr.).
+Podaci o kupcu uključuju tvrtku i sjedište ako je to pravna osoba ili naziv obrta, ime i prezime te adresu stanovanja u slučaju fizičke osobe, te broj računa za prodano kulturno dobro odnosno kulturni predmet.
+Fotografija je obvezni sastavni dio Evidencije. Fotografija može biti digitalna ili analogna. Na fotografiji može biti samo jedan predmet. Ako predmet ima posebne značajke, one moraju biti fotografirane.

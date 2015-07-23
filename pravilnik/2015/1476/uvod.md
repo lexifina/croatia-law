@@ -1,0 +1,1 @@
+Na temelju članka 101.a stavka 5. Zakona o zaštiti i očuvanju kulturnih dobara (»Narodne novine«, broj 69/99, 151/03, 157/03, 87/09, 88/10, 61/11, 25/12, 136/12, 157/13 i 152/14), ministar kulture donosi
