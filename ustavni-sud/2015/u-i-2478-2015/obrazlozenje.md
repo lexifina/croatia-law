@@ -1,0 +1,18 @@
+O b r a z l o ž e n j e
+1. Željka Matušan iz Zagreba i Ivan Debelić iz Raba (u daljnjem tekstu: predlagatelji) uputili su Ustavnom sudu podnesak naslovljen "ustavna tužba" 25. svibnja 2015. u kojem su, između ostalog, zatražili i pokretanje "ustavno pravnog" postupka ocjene ustavnosti članka 66.a stavka 1. Zakona o upravnim sporovima ("Narodne novine" broj 20/10., 143/12. i 152/14., u daljnjem tekstu: ZUS).
+Predlagatelji su dopisom Ustavnog suda od 27. svibnja 2015. pozvani da u roku od osam dana dostave zasebne podneske za svaki zahtjev odnosno prijedlog koji su uputili Ustavnom sudu.
+2. Unutar zadanog roka predlagatelji su dostavili novi podnesak pod nazivom "Prijedlog radi ocjene ustavnosti čl. 66.a st. 1. Zakona o upravnim sporovima, NN br. 152/14.".
+3. Iz prijedloga je razvidno da se razlozi za ocjenu ustavnosti osporenog članka 66.a stavka 1. ZUS-a odnose na njegovu primjenu u konkretnom slučaju jer predlagatelji u svom prijedlogu navode činjenice iz upravnog spora koji je okončan presudom Upravnog suda u Rijeci broj: UsI-1423/14-10 od 11. svibnja 2015. Tom je presudom poništeno osporavano rješenje Ministarstva pravosuđa, Uprave za građansko, trgovačko i upravno pravo od 24. lipnja 2014. u predmetu određivanja naknade za eksproprirane nekretnine u k.o. Kampor, te je predmet vraćen na ponovni postupak tom Ministarstvu. Točkom II. presude odbijen je tužbeni zahtjev u dijelu u kojem je traženo poništenje prvostupanjskog rješenja od 19. studenoga 2013., nalaganje Imperialu Rab d.d. isplate naknade za eksproprirane nekretnine i naknada troškova upravnog spora, uz nalaganje tuženiku (Ministarstvu pravosuđa) isplatu naknade štete predlagateljima.
+4. Predlagatelji, u bitnom ponavljaju činjenice vezane uz konkretan upravni predmet, te ističu da im je "neadekvatnim propisivanjem i interpretacijom čl. 66.a st. 1. ZUS u konkretnom slučaju se dogodilo to da je zloupotrijebljeno pravo na žalbu", te ističu da su izigrani, kao što su izigrani i u prethodno vođenim postupcima.
+Ustavni sud nije nadležan za odlučivanje.
+5. Člankom 38. stavkom 1. Ustavnog zakona o Ustavnom sudu Republike Hrvatske ("Narodne novine" broj 99/99., 29/02. i 49/02. - pročišćeni tekst; u daljnjem tekstu: Ustavni zakon) propisano je:
+"Članak 38.
+Svaka fizička i pravna osoba ima pravo predložiti pokretanje postupka za ocjenu suglasnosti zakona s Ustavom ..."
+6. Ustavni sud utvrđuje da prijedlogom za pokretanje postupka za ocjenu suglasnosti osporenog članka 66.a stavka 1. ZUS-a s Ustavom predlagatelji zapravo osporavaju primjenu tog članka na njihov konkretan slučaj.
+Prema mjerodavnim odredbama Ustava, u postupku apstraktne kontrole ustavnosti zakona, Ustavni sud nije nadležan ocjenjivati primjenu osporenog zakona u postupcima pred sudovima i drugim državnim i inim tijelima koja imaju javne ovlasti. Primjena propisa u pojedinačnim slučajevima predmet je konkretne zaštite ljudskih prava i temeljnih sloboda koju Ustavni sud pruža u postupcima pokrenutim ustavnim tužbama.
+Navedeno stajalište Ustavni sud izrazio je u rješenju broj: U-I-1455/2001 od 24. studenoga 2004. ("Narodne novine" broj 175/04.), te u rješenjima broj: U-I-2823/2002 od 28. siječnja 2004., U-I-671/2001 od 24. svibnja 2005. i dr.
+7. Člankom 32. Ustavnog zakona propisano je:
+"Članak 32.
+Ustavni sud će rješenjem odbaciti zahtjev, prijedlog i ustavnu tužbu ako nije nadležan za odlučivanje (...)"
+Polazeći od utvrđenja i stajališta iznesenih u točki 5. obrazloženja ovog rješenja, Ustavni sud utvrđuje da nije nadležan za odlučivanje u predmetu predlagatelja u postupku apstraktne kontrole zakona s Ustavom.
+Stoga je na temelju članka 32. Ustavnog zakona riješeno kao u izreci.
