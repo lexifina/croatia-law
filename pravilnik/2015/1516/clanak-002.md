@@ -1,0 +1,2 @@
+# Članak 2.
+Pravo na korištenje kopnenih voda radi uzgoja riba i drugih vodenih organizama pogodnih za gospodarski uzgoj može ostvariti fizička ili pravna osoba koja je vlasnik ribnjaka, ribogojilišta ili uzgajališta drugih vodenih organizama pogodnih za gospodarski uzgoj, odnosno posjednik ribnjaka, ribogojilišta ili uzgajališta drugih vodenih organizama pogodnih za gospodarski uzgoj u vlasništvu druge fizičke ili pravne osobe.
