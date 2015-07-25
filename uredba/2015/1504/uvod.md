@@ -1,0 +1,1 @@
+Na temelju članka 41. stavka 1. Zakona o vodama (»Narodne novine«, br. 153/2009, 63/2011, 130/2011, 56/2013 i 14/2014) i članka 30. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/2011 i 119/2014), Vlada Republike Hrvatske je na sjednici održanoj 16. srpnja 2015. godine donijela

@@ -1,0 +1,4 @@
+# Članak 11.
+Naziv glave VI. »MEĐUNARODNO IZVJEŠTAVANJE« mijenja se i glasi: »INFORMIRANJE I IZVJEŠĆIVANJE EUROPSKE KOMISIJE«.
+U članku 66. stavku 2. iza točke 3. dodaje se točka 4. koja glasi:
+»4. rezultatima monitoringa provedenog na temelju članka 31.a ove Uredbe. Za prvi Popis praćenja, o rezultatima monitoringa izvješćuju se unutar petnaest mjeseci od 20. listopada 2015. godine, te svakih dvanaest mjeseci nakon tog datuma sve dok se tvar nalazi na Popisu praćenja. Za svaku novu tvar dodanu na Popis praćenja, izvješćuje se Europska komisija o rezultatima monitoringa unutar dvadeset i jednog mjeseca od dodavanja tvari na Popis praćenja i svakih dvanaest mjeseci nakon tog datuma sve dok se tvar nalazi na Popisu praćenja. Izvješće uključuje informacije o reprezentativnosti mjernih postaja i strategiji monitoringa.«.

@@ -1,0 +1,4 @@
+# Članak 9.
+U članku 62. stavku 1. točki 1. podstavku 1. iza riječi: »tvari« umjesto zareza stavlja se točka te se dodaje rečenica koja glasi: »U tim područjima u postupke pročišćavanja treba uključiti i uklanjanje fosfora, osim ako se može dokazati da uklanjanje neće imati nikakvog učinka na razinu eutrofikacije. Ako je riječ o ispuštanju iz većih aglomeracija može se razmotriti i uklanjanje dušika,«.
+U podstavku 2. iza riječi: »tvari« umjesto zareza stavlja se točka te se dodaje rečenica koja glasi: »Ispuštanja iz malih aglomeracija obično su od manje važnosti u tim područjima, ali je za velike aglomeracije potrebno uključiti uklanjanje fosfora i/ili dušika, osim ako se može pokazati da uklanjanje ne bi imalo utjecaja na razinu eutrofikacije,«.
+U točki 2. riječi: »koje sadrže« zamjenjuju se riječima: »koje bi mogle sadržavati«.

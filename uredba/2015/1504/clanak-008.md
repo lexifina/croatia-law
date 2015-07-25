@@ -1,0 +1,5 @@
+# Članak 8.
+Članak 33. mijenja se i glasi:
+»Za prioritetne tvari navedene u Prilogu 5.A ove Uredbe, koje pokazuju tendenciju akumuliranja u sedimentu i/ili bioti, posvećujući posebnu pozornost tvarima navedenim pod brojevima 2, 5, 6, 7, 12, 15, 16, 17, 18, 20, 21, 26, 28, 30, 34, 35, 36, 37, 43 i 44 Priloga 5.A ove Uredbe, analizira se dugoročni trend njihovih koncentracija dobivenih na temelju monitoringa voda sukladno članku 44. Zakona o vodama te člancima od 28. do 32. ove Uredbe.
+Sukladno članku 47. Zakona o vodama i odredbama ove Uredbe poduzimaju se mjere kako bi se osiguralo da se koncentracije tvari iz stavka 1. ovoga članka znatno ne povećavaju u sedimentu i/ili relevantnoj bioti.
+Učestalost monitoringa sedimenta i/ili biote utvrđuje se tako da se osigurava dovoljno podataka za pouzdane analize dugoročnih trendova. Monitoring se provodi svake tri godine, osim ako se na temelju tehničkih znanja i stručne procjene rezultata monitoringa sadržane u godišnjem izvješću iz članka 44. Zakona o vodama ne utvrdi neko drugo razdoblje.«.
