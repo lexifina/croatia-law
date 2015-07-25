@@ -1,0 +1,4 @@
+# Članak 70.
+(1) Početne podatke o realiziranim kupoprodajama nekretnina za eNekretnine Ministarstvo će preuzeti iz Evidencije prometa nekretnina ministarstva nadležnog za financije − porezne uprave.
+(2) Do potpune uspostave automatske razmjene podataka iz članka 7. stavka 3. ovoga Zakona, javni bilježnik koji ovjerava potpise na ispravama o kupoprodaji, najmu, zakupu, pravu građenja i pravu služnosti obvezan je jedan primjerak isprave dostaviti županiji ili Gradu Zagrebu, odnosno velikom gradu na čijem području se nalazi predmetna nekretnina u roku od 15 dana nakon isteka mjeseca u kojem je ovjerovljen potpis na ispravi, u svrhu unosa podataka u zbirku kupoprodajnih cijena.
+(3) Početno stanje planova približnih vrijednosti izradit će Ministarstvo, na osnovi analize i evaluacije početnih podataka o realiziranim kupoprodajama nekretnina.

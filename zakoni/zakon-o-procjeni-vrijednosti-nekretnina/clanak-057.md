@@ -1,0 +1,10 @@
+# Članak 57.
+(1) Za procjenu vrijednosti nekretnina i izvođenje nužnih podataka koriste se kupoprodajne cijene i drugi podatci, kao što su najamnine, zakupnine, troškovi gospodarenja, i skup obilježja nekretnine, koji nisu pod utjecajem neuobičajenih ili osobnih okolnosti.
+(2) Prilikom izrade procjene vrijednosti nekretnina osim navedenih podataka u stavku 1. ovoga članka, procjenitelj je dužan navesti i datum kada je sklopljen kupoprodajni ugovor, broj katastarske čestice, naziv katastarske općine, površinu katastarske čestice, te podatke koji se odnose na kakvoću i obilježja nekretnine. Ako se radi o izgrađenim katastarskim česticama, potrebno je navesti i vrstu građevine, opis građevine, njezinu površinu, naziv ulice/trga, kućni broj, kat i godinu građenja.
+(3) Kupoprodajne cijene i drugi podatci koji su pod utjecajem neuobičajenih ili osobnih okolnosti iz stavka 1. ovoga članka ne smatraju se transakcijama po tržišnim uvjetima i nisu pogodne za procjenu vrijednosti nekretnina.
+(4) U svrhu provedbe ovoga Zakona raspoloživi podatci iz stavaka 1. i 2. ovoga članka mogu se, na temelju pisanog zahtjeva, pribavljati iz:
+1. eNekretnina
+2. isprava o kupoprodaji nekretnina koje su uložene u zbirku isprava zemljišnoknjižnih odjela.
+(5) Podatci iz stavaka 1. i 2. ovoga članka, kao i podatci o kakvoći poredbenih nekretnina smatraju se razmjernima svrsi za koju su izdani ako se odnose na procjenu vrijednosti pojedinačne nekretnine za koju se pribavljaju.
+(6) U slučaju nedostatka podataka na području nekretnine za koju se izrađuje procjena vrijednosti moguće je, uz dodatnu analizu i interkvalitativno izjednačenje, upotrijebiti i druge podatke koji su dostupni na usporedivim područjima. Usporedivost područja utvrđuje se prema gospodarskim, prostornim, prostorno-planskim i demografskim pokazateljima.
+(7) Podatci iz stavaka 1. i 2. ovoga članka ne mogu biti stariji od 4 (četiri) godine u odnosu na dan vrednovanja, osim ako je drukčije posebno traženo u zadatku za izradu procjene vrijednosti nekretnine.
