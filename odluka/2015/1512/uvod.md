@@ -1,0 +1,1 @@
+Na temelju članka 30. stavka 3. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/2011 i 119/2014), a u vezi s člankom 31. Uredbe (EU) br. 223/2014 Europskog parlamenta i Vijeća od 11. ožujka 2014. o Fondu europske pomoći za najpotrebitije (SL L 72, 12. 3. 2014.), Vlada Republike Hrvatske je na sjednici održanoj 16. srpnja 2015. godine donijela
