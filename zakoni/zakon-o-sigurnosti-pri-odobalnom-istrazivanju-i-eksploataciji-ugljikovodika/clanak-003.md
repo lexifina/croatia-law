@@ -1,0 +1,7 @@
+# Članak 3.
+(1) Na pitanja izdavanja dozvola za istraživanje i eksploataciju te sklapanja ugovora, izrade i provjere rudarskih projekata, građenja i uporabe rudarskih objekata i postrojenja, mjera sigurnosti i zaštite, sanacije prostora, naknade štete, osiguranja, stručne spreme za obavljanje određenih poslova u rudarstvu i drugih pitanja koja nisu uređena ovim Zakonom i propisima koji se donose na temelju ovoga Zakona, primjenjuju se odredbe Zakona o istraživanju i eksploataciji ugljikovodika i Zakona o rudarstvu.
+(2) Na pitanja zaštite prirode i okoliša koja nisu uređena ovim Zakonom i propisima koji se donose na temelju ovoga Zakona primjenjuju se odredbe propisa kojima je uređena zaštita okoliša i prirode.
+(3) Na pitanja prava na pristup informacijama koja nisu uređena ovim Zakonom i propisima koji se donose na temelju ovoga Zakona primjenjuju se odredbe propisa kojima se uređuje pravo na pristup informacijama.
+(4) Na pitanja morskih i podmorskih prostora Republike Hrvatske i pravnih odnosa u njima, koja nisu uređena ovim Zakonom i propisima koji se donose na temelju ovoga Zakona primjenjuju se odredbe propisa kojima se uređuje pomorstvo.
+(5) Na postupovna pitanja koja se uređuju ovim Zakonom i propisima koji se donose na temelju ovoga Zakona primjenjuju se odredbe propisa kojima se uređuje opći upravni postupak.
+(6) Na pitanja koja nisu uređena ovim Zakonom odgovarajuće se primjenjuju ostali propisi Republike Hrvatske.

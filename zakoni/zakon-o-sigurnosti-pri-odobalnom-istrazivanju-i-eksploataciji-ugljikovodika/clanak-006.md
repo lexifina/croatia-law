@@ -1,0 +1,12 @@
+## Uvjeti za izdavanje ili prijenos dozvole
+# Članak 6.
+(1) Tijekom postupka javnog nadmetanja za izdavanje dozvole mora se utvrditi sposobnost podnositelja zahtjeva za ispunjavanjem zahtjeva propisanih ovim Zakonom i uvjeta propisanih relevantnim odredbama prava Europske unije.
+(2) Ovlaštenik dozvole može u cijelosti ili djelomično prenijeti prava i obveze iz dozvole samo na rudarski gospodarski subjekt koji ispunjava sve uvjete iz ovoga Zakona i uvjeta propisanih relevantnim odredbama prava Europske unije.
+(3) Prilikom ocjene tehničke i financijske sposobnosti podnositelja zahtjeva iz stavka 1. ovoga članka ili rudarskoga gospodarskog subjekta iz stavka 2. ovoga članka mora se voditi računa o:
+a. rizicima, opasnostima i bilo kojim drugim bitnim informacijama koje se odnose na područje obuhvaćeno dozvolom, uključujući, prema potrebi, trošak propadanja morskog okoliša sukladno propisima o zaštiti okoliša
+b. rizicima, opasnostima i bilo kojim drugim bitnim informacijama koje se odnose na okolišno osjetljiv morski i obalni okoliš, a posebno ekosustave koji imaju važnu ulogu u ublažavanju klimatskih promjena i prilagodbu na njih, kao što su slane močvare i morsko dno obraslo morskom travom, zaštićena morska područja, kao što su posebna područja očuvanja u skladu s propisima o zaštiti prirode, te područja ekološke mreže Natura 2000, uključujući i zaštićena područja u skladu s propisima o zaštiti prirode
+c. konkretnoj fazi odobalnih radova
+d. financijskoj sposobnosti podnositelja zahtjeva iz stavka 1. ovoga članka ili rudarskoga gospodarskog subjekta iz stavka 2. ovoga članka za pokrivanje odgovornosti koje bi mogle proizići iz odobalnih radova, uključujući osiguranje i odgovornost za gospodarsku štetu
+e. financijskoj sposobnosti podnositelja zahtjeva iz stavka 1. ovoga članka ili rudarskoga gospodarskog subjekta iz stavka 2. ovoga članka za trenutačno pokretanje i neometan tijek svih potrebnih mjera za učinkovit odgovor na iznenadni događaj i sanaciju
+f. dostupnim informacijama o učinkovitosti podnositelja zahtjeva iz stavka 1. ovoga članka ili rudarskoga gospodarskog subjekta iz stavka 2. ovoga članka glede sigurnosti ljudi, zaštite okoliša i prirode, uključujući odobalne radove u odnosu na velike nesreće.
+(4) Podnositelju zahtjeva iz stavka 1. ovoga članka ne može se izdati dozvola, odnosno na rudarski gospodarski subjekt iz stavka 2. ovoga članka ne može se u cijelosti ili djelomično prenijeti prava i obveze iz dozvole ako ne ispunjava sve uvjete iz ovoga Zakona i uvjeta propisanih relevantnim odredbama prava Europske unije.
