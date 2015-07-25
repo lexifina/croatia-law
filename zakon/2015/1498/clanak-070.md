@@ -1,0 +1,4 @@
+# Članak 70.
+(1) Postupci pokrenuti po odredbama Zakona o zaštiti okoliša (»Narodne novine«, br. 80/13. i 153/13. - Zakon o gradnji) do stupanja na snagu ovoga Zakona dovršit će se po odredbama toga Zakona.
+(2) Postupci pokrenuti pred prekršajnim sudom po odredbama Zakona o zaštiti okoliša (»Narodne novine«, br. 80/13. i 153/13.) do stupanja na snagu ovoga Zakona dovršit će se po odredbama toga Zakona.
+(3) Hrvatska agencija za okoliš i prirodu kao pravni slijednik Agencije za zaštitu okoliša i Državnog zavoda za zaštitu prirode, temeljem ovog Zakona preuzima poslove Agencije za zaštitu okoliša u okviru djelokruga utvrđenog Zakonom o zaštiti okoliša (»Narodne novine«, br. 80/13.) i poslove Državnog zavoda za zaštitu prirode u okviru djelokruga utvrđenog Zakonom o zaštiti prirode (»Narodnim novinama«, br. 80/13.).«
