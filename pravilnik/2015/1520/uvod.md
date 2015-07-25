@@ -1,0 +1,1 @@
+Na temelju članka 147. Zakona o otvorenim investicijskim fondovima s javnom ponudom (»Narodne novine« broj 16/2013 i 143/2014, dalje: Zakon), Hrvatska agencija za nadzor financijskih usluga (dalje: Agencija) na sjednici Upravnog vijeća održanoj 10. srpnja 2015. godine donosi
