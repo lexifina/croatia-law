@@ -1,0 +1,6 @@
+# Članak 11.
+Ako je podnositelj pritužbe nezadovoljan sadržajem obavijesti iz članka 10. stavka 2. ovoga Pravilnika, može u roku od 15 dana od dana primitka obavijesti podnijeti prigovor ustrojstvenoj jedinici nadležnoj za unutarnju kontrolu u sjedištu Ministarstva.
+Ustrojstvena jedinica iz stavka 1. ovoga članka će po zaprimanju prigovora u propisanom roku razmotriti njegovu utemeljenost, izvršiti uvid u prikupljenu dokumentaciju, a po potrebi izvršiti i dopunske provjere te o utvrđenim činjenicama, svom stavu i mišljenju pisanim putem obavijestiti podnositelja prigovora u roku od 30 dana od dana primitka prigovora.
+Prigovor će se smatrati pravodobno podnesenim ukoliko je zaprimljen u bilo kojoj ustrojstvenoj jedinici Ministarstva u roku od 15 dana od zaprimanja obavijesti.
+Ako je prigovor iz stavka 1. ovoga članka zaprimljen u ustrojstvenoj jedinici Ministarstva koja nije nadležna za njegovo rješavanje dužna ga je, bez odgode, dostaviti ustrojstvenoj jedinici nadležnoj za unutarnju kontrolu u sjedištu Ministarstva.
+Ako je prigovor zaprimljen u ustrojstvenoj jedinici u kojoj je raspoređen policijski službenik na kojeg se odnosi pritužba, dužna ga je, bez odgode, dostaviti ustrojstvenoj jedinici nadležnoj za unutarnju kontrolu u sjedištu Ministarstva uz presliku cjelokupne dokumentacije nastale tijekom provođenja provjera navoda iz pritužbe.
