@@ -1,0 +1,4 @@
+## Obveznici primjene ovoga Zakona
+# Članak 3.
+(1) Odredbe ovoga Zakona odnose se na proračunske i izvanproračunske korisnike državnog proračuna i proračuna jedinica lokalne i područne (regionalne) samouprave utvrđene u Registru proračunskih i izvanproračunskih korisnika i na jedinice lokalne i područne (regionalne) samouprave (u daljnjem tekstu: korisnici proračuna).
+(2) Odredbe ovoga Zakona primjenjuju se i na trgovačka društva u vlasništvu Republike Hrvatske, odnosno jedne ili više jedinica lokalne i područne (regionalne) samouprave i druge pravne osobe kojima je osnivač Republika Hrvatska, odnosno jedna ili više jedinica lokalne i područne (regionalne) samouprave (u daljnjem tekstu: trgovačka društva i druge pravne osobe) utvrđene u Registru trgovačkih društava i drugih pravnih osoba obveznika davanja Izjave o fiskalnoj odgovornosti koji objavljuje Ministarstvo financija.

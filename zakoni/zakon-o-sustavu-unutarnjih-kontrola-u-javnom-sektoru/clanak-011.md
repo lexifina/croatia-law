@@ -1,0 +1,2 @@
+# Članak 11.
+Odgovorna osoba institucije treba uspostaviti kontrolno okruženje kojim treba osigurati poštivanje osobnog i profesionalnog integriteta te etičkih načela ponašanja zaposlenika, jasnu misiju, viziju i poslovne ciljeve, odgovarajući stil upravljanja i rukovođenja, unutarnje organizacijsko ustrojstvo, uključujući dodjelu ovlasti i odgovornosti za ostvarivanje poslovnih ciljeva te uspostavu odgovarajuće linije izvještavanja, upravljanje ljudskim resursima i kompetentnost zaposlenika.

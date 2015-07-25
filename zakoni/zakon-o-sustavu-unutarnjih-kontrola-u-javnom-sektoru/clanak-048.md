@@ -1,0 +1,4 @@
+## Stjecanje stručnog ovlaštenja ili certifikata
+# Članak 48.
+(1) Ovlašteni unutarnji revizori koji su stekli stručno ovlaštenje ministra financija za obavljanje poslova unutarnje revizije u javnom sektoru u skladu s odredbama Zakona o sustavu unutarnjih financijskih kontrola u javnom sektoru (»Narodne novine«, br. 141/06.), smatra se da su danom stupanja na snagu ovoga Zakona stekli zvanje ovlaštenoga unutarnjeg revizora za javni sektor.
+(2) Osoba koja je započela pohađati program izobrazbe prema kojem se stječe stručno ovlaštenje ministra financija za obavljanje poslova unutarnje revizije u javnom sektoru, a koji je ministar financija donio u skladu s odredbama Zakona o sustavu unutarnjih financijskih kontrola u javnom sektoru (»Narodne novine«, br. 141/06.), dužna je u roku od 18 mjeseci od dana stupanja na snagu ovoga Zakona završiti program izobrazbe ili gubi pravo pohađanja programa izobrazbe.
