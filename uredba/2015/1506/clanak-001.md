@@ -1,0 +1,3 @@
+# Članak 1.
+U Uredbi o opsegu i sadržaju odgovornosti te ovlastima tijela nadležnih za upravljanje Instrumentom pretpristupne pomoći (IPA) i Prijelaznim instrumentom (»Narodne novine«, broj 84/2014), članak 9. mijenja se i glasi:
+»Tijelo nadležno za programiranje prve komponente programa IPA Pomoć u tranziciji i jačanje institucija i Prijelaznog instrumenta je Ministarstvo regionalnoga razvoja i fondova Europske unije, Uprava za strateško planiranje, koordinaciju fondova EU i međunarodnih programa, Sektor za koordinaciju ekonomskih politika i međunarodne programe, Služba za EU programe i financijske mehanizme, a tijelo nadležno za provedbu je Središnja agencija za financiranje i ugovaranje programa i projekata Europske unije.«.
