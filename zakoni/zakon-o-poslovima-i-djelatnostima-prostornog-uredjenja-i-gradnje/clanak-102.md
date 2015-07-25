@@ -1,0 +1,5 @@
+## XI. PRIJELAZNE I ZAVRŠNE ODREDBE
+# Članak 102.
+(1) Postupci davanja i oduzimanja suglasnosti za započinjanje obavljanja djelatnosti građenja, započeti do stupanja na snagu ovoga Zakona, po odredbama Zakona o arhitektonskim i inženjerskim poslovima i djelatnostima u prostornom uređenju i gradnji (»Narodne novine«, br. 152/08., 124/09., 49/11. i 25/13.) i Pravilnika o suglasnosti za započinjanje obavljanja djelatnosti građenja (»Narodne novine«, br. 43/09.) obustavit će se po službenoj dužnosti.
+(2) Iznimno od stavka 1. ovoga članka ako stranka po čijem je zahtjevu postupak pokrenut to zatraži, postupak će se dovršiti prema odredbama Zakona o arhitektonskim i inženjerskim poslovima i djelatnostima u prostornom uređenju i gradnji (»Narodne novine«, br. 152/08., 124/09., 49/11. i 25/13.) i propisa donesenih na temelju tog Zakona.
+(3) Suglasnosti za započinjanje obavljanja djelatnosti građenja izdane prema odredbama Zakona o arhitektonskim i inženjerskim poslovima i djelatnostima u prostornom uređenju i gradnji (»Narodne novine«, br. 152/08., 124/09., 49/11. i 25/13.) i propisa donesenih na temelju tog Zakona ostaju važiti do isteka roka na koji su izdane.

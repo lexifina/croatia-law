@@ -1,0 +1,4 @@
+# Članak 65.
+(1) Povodom izjave iz članka 61. ovoga Zakona Komora u skladu s odredbama posebnog zakona kojim se uređuje priznavanje inozemnih stručnih kvalifikacija i drugim posebnim propisima provjerava ispunjava li podnositelj propisane uvjete za povremeno, odnosno privremeno obavljanje poslova prostornog uređenja, projektiranja i/ili stručnog nadzora građenja, voditelja građenja, voditelja radova, poslove voditelja projekta i poslove ispitivanja i prethodnih istraživanja u svojstvu odgovorne osobe i o tome izdaje potvrdu.
+(2) Prilikom podnošenja prve izjave iz članka 61. ovoga Zakona Komora obvezno provodi postupak provjere inozemne stručne kvalifikacije u skladu s odredbama posebnog zakona kojima se uređuje priznavanje inozemnih stručnih kvalifikacija i drugim posebnim propisima, s obzirom da se radi o profesijama koje imaju utjecaja na sigurnost.
+(3) Potvrda iz stavka 1. ovog članka nije upravni akt.

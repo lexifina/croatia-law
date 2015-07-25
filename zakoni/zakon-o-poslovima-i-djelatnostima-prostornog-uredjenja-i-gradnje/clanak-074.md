@@ -1,0 +1,3 @@
+## EU potvrda
+# Članak 74.
+Potvrdu za neometano pružanje usluga na teritoriju druge države ugovornice EGP-a pravnoj ili fizičkoj osobi poslovno nastanjenoj u Republici Hrvatskoj (u daljnjem tekstu: EU potvrda), koja namjerava u drugoj državi ugovornici EGP-a obavljati poslove prostornog uređenja, projektiranja i/ili stručnog nadzora građenja, voditelja građenja, voditelja radova, voditelja projekta, ispitivanja i prethodnih istraživanja u svojstvu odgovorne osobe na privremenoj i povremenoj osnovi izdaje odgovarajuća strukovna komora, prema posebnom propisu kojim se uređuje izdavanje EU potvrde i odgovarajućem općem aktu Komore.

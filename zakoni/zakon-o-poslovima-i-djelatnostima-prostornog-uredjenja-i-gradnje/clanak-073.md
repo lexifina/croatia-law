@@ -1,0 +1,5 @@
+## Priznavanje inozemne stručne kvalifikacije
+# Članak 73.
+(1) Postupak priznavanja inozemne stručne kvalifikacije za obavljanje poslova prostornog uređenja, projektiranja i/ili stručnog nadzora građenja, voditelja građenja, voditelja radova, voditelja projekta, ili ispitivanja i prethodnih istraživanja u svojstvu ovlaštene osobe, za osobe arhitektonske, građevinske, strojarske i elektrotehničke struke provodi i rješenje o tome donosi odgovarajuća komora na način propisan posebnim zakonom kojim se uređuje priznavanje inozemnih stručnih kvalifikacija te drugim posebnim propisima.
+(2) Na osobe arhitektonske struke – arhitekte koji u Republici Hrvatskoj žele obavljati poslove projektiranja i/ili stručnog nadzora građenja i posjeduju dokaz o formalnoj osposobljenosti naveden u točki 5.7.1. Priloga V. i točki 6. Priloga VI. Direktive 2005/36/EZ i Direktive 2013/55/EU primjenjuju se odredbe o automatskom priznavanju kvalifikacija.
+(3) Uvjete i postupak za pružanje usluga na privremenoj ili povremenoj osnovi te za priznavanje inozemnih stručnih kvalifikacija za osobe iz stavka 1. ovoga članka propisat će općim aktom Komore.

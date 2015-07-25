@@ -1,0 +1,4 @@
+# Članak 26.
+(1) Kao odgovornu osobu za vođenje građenja, odnosno vođenje radova, izvođač imenuje glavnog inženjera gradilišta, inženjera gradilišta i/ili voditelja radova.
+(2) Za glavnog inženjera gradilišta, inženjera gradilišta i/ili voditelja radova može se u okviru zadaća njegove struke imenovati fizička osoba arhitektonske, građevinske, strojarske ili elektrotehničke struke koja ispunjava uvjete propisane posebnim zakonom kojim se uređuje udruživanje u Komoru.
+(3) Za voditelja radova može se imenovati i fizička osoba koja je stekla akademski naziv magistar inženjer struke koja nije određena u stavku 2. ovoga članka ako je nastavni program prema kojem je završila studij primjeren obavljanju poslova vođenja tih radova i koja ispunjava druge uvjete propisane posebnim zakonom kojim se uređuje udruživanje u Komoru.

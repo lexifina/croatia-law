@@ -1,0 +1,2 @@
+# Članak 44.
+Pravna ili fizička osoba obrtnik osposobljenost za poslove ispitivanja dokazuje potvrdom o akreditaciji prema normi HRN EN ISO/IEC 17025 koju je izdalo nacionalno akreditacijsko tijelo za određenu metodu ispitivanja, a time dokazuje i osposobljenost za metodu ekvivalentnu toj metodi ispitivanja za isto ili slično svojstvo, koju zahtjeva plan ispitivanja ili je određena u projektu građevine.

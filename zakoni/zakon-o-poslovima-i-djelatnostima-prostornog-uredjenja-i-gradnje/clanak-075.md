@@ -1,0 +1,3 @@
+## Europska profesionalna kartica i dosje IMI
+# Članak 75.
+Za ostvarivanje prava pružanja usluga prostornoga uređenja i gradnje u svojstvu ovlaštene osobe na teritoriju druge države ugovornice EGP-a pravnoj ili fizičkoj osobi poslovno nastanjenoj u Republici Hrvatskoj koja namjerava u drugoj državi ugovornici EGP-a obavljati te poslove trajno ili na privremenoj i povremenoj osnovi, odgovarajuća strukovna komora, kao nadležno tijelo za izdavanje europske profesionalne kartice (u daljnjem tekstu: EPC kartica), provodi obradu/pripremu IMI dosjea u informacijskom sustavu unutarnjeg tržišta (u daljnjem tekstu: IMI sustavu), prema posebnom propisu kojim se uređuje priznavanje inozemne stručne kvalifikacije.

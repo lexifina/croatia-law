@@ -1,0 +1,2 @@
+# Članak 68.
+Strana ovlaštena osoba koju je Vlada Republike Hrvatske pozvala da izradi projekt od posebnoga kulturnog značaja dužna je o tome izvijestiti odgovarajuću komoru radi evidentiranja.

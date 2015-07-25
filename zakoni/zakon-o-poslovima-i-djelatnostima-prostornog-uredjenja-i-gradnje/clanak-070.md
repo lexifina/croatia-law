@@ -1,0 +1,2 @@
+# Članak 70.
+Strana pravna osoba sa sjedištem u drugoj državi ugovornici EGP-a, koja obavlja djelatnost prostornoga uređenja, projektiranja i/ili stručnog nadzora građenja, građenja, upravljanja projektom gradnje ili ispitivanja i prethodnih istraživanja, može u Republici Hrvatskoj trajno obavljati djelatnost pod istim uvjetima kao i pravna osoba sa sjedištem u Republici Hrvatskoj, u skladu s ovim Zakonom i drugim posebnim propisima.

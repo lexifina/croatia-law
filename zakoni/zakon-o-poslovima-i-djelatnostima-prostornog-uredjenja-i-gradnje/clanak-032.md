@@ -1,0 +1,2 @@
+# Članak 32.
+Iznimno od odredbe članka 29. ovoga Zakona, fizička osoba investitor koja ima završen preddiplomski stručni studij ili preddiplomski sveučilišni studij arhitektonske ili građevinske struke i ima položen stručni ispit za poslove u graditeljstvu može sam graditi obiteljsku kuću koja je u cijelosti namijenjena za stanovanje ili u kojoj je više od 70 % građevinske (bruto) površine namijenjeno za stanovanje i koja ima najviše dvije stambene jedinice, ako je to za njegove vlastite potrebe.
