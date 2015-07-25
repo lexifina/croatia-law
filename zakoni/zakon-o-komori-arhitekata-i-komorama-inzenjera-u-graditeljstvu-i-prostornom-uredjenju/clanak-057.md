@@ -1,0 +1,4 @@
+# Članak 57.
+(1) Ovlašteni arhitekti, ovlašteni arhitekti urbanisti, odnosno ovlašteni inženjeri u zajedničkom uredu solidarno odgovaraju za obveze ovlaštenih arhitekata, ovlaštenih arhitekata urbanista, odnosno ovlaštenih inženjera nastale u obavljanju poslova zajedničkog ureda.
+(2) Pravna osoba registrirana za djelatnost prostornog uređenja ili djelatnost projektiranja i/ili stručnog nadzora građenja, ili upravljanja projektom gradnje solidarno odgovara za štetu nastalu radom svojih zaposlenika ovlaštenih arhitekata, ovlaštenih arhitekata urbanista i ovlaštenih inženjera u obavljanju poslova prostornog uređenja, projektiranja i/ili stručnog nadzora građenja, odnosno upravljanja projektom gradnje.
+(3) Pravna osoba registrirana za djelatnost građenja solidarno odgovara za štetu nastalu radom svojih zaposlenika ovlaštenog voditelja građenja i ovlaštenog voditelja radova u obavljanju poslova građenja.

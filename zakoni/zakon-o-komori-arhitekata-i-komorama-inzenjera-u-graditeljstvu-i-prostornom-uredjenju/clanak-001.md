@@ -1,0 +1,4 @@
+## I. OPĆE ODREDBE
+# Članak 1.
+(1) Ovim se Zakonom uređuje temeljni ustroj, djelokrug, javne ovlasti i članstvo u Hrvatskoj komori arhitekata, Hrvatskoj komori inženjera građevinarstva, Hrvatskoj komori inženjera strojarstva i Hrvatskoj komori inženjera elektrotehnike (u daljnjem tekstu: Komora).
+(2) Ovim se Zakonom uređuje javnost rada Komore, tijela Komore, opći akti koje donosi Komora, upisi u imenike Komore, mirovanje i prestanak članstva u Komori, kvaliteta pružene usluge u poslovima prostornog uređenja, projektiranja i/ili stručnog nadzora građenja i vođenja građenja, stručni nadzor, stegovna odgovornost ovlaštenog arhitekta, ovlaštenog arhitekta urbanista, ovlaštenog inženjera, ovlaštenog voditelja građenja i ovlaštenog voditelja radova u svojstvu odgovorne osobe, profesionalno osiguranje i osiguranje od odgovornosti, prekršajne odredbe i nadzor nad provođenjem Zakona.
