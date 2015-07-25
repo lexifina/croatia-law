@@ -1,0 +1,1 @@
+Na temelju članka 54. stavka 2. Zakona o obrani (»Narodne novine«, br. 73/13.), na prijedlog Vlade Republike Hrvatske i uz prethodnu suglasnost Predsjednice Republike Hrvatske, Hrvatski sabor na sjednici 10. srpnja 2015. donio je
