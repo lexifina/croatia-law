@@ -1,0 +1,3 @@
+# Članak 1.
+U Uredbi o kupoprodaji poslovnoga prostora u vlasništvu Republike Hrvatske (»Narodne novine«, broj 137/2012) u članku 2. stavak 2. mijenja se i glasi:
+»Popis poslovnih prostora u vlasništvu Republike Hrvatske, koji će biti predmetom prodaje, utvrđuje odlukom Državni ured za upravljanje državnom imovinom i na popis prvenstveno uvrštava poslovne prostore čije održavanje je neracionalno i sa stajališta Republike Hrvatske gospodarski neopravdano, kao i poslovne prostore koji su u suvlasništvu Republike Hrvatske a za koje je prethodno iskazan interes za kupnju od strane sadašnjeg zakupnika ili korisnika iz stavka 1. ovoga članka.«.
