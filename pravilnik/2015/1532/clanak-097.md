@@ -1,0 +1,4 @@
+# Članak 97.
+(1) Trgovačko društvo, tijela državne uprave i pravne osobe čiji je osnivač RH te Savjetodavna služba dužni su nakon provedenog postupka odobrenja šumskogospodarskog plana, Ministarstvu dostaviti sve numeričke podatke u digitalnom (dbf) obliku, a sve podatke vezane za prostorni prikaz u vektorskom (shape) obliku, u roku od 30 dana.
+(2) Tijela državne uprave i pravne osobe čiji je osnivač RH te Savjetodavna služba dužni su po odobrenju šumskogospodarskog plana u roku od 30 dana isti u elektronskom obliku dostaviti Trgovačkom društvu za potrebe izrade osnove područja i izvršavanja međunarodnih obveza RH koje obavlja Trgovačko društvo.
+(3) Tijela državne uprave i pravne osobe čiji je osnivač RH te Savjetodavna služba dužni su u zakonskom roku dostaviti u Trgovačko društvo podatke o radovima obavljenim u prethodnoj godini radi njihovog evidentiranja u osnovi područja.

@@ -1,0 +1,10 @@
+# Članak 93.
+(1) Izvanredna revizija osnove gospodarenja, programa gospodarenja i programa posebne namjene izrađuje se kad se tijekom gospodarenja šumama i šumskim zemljištima ustanove odstupanja od propisanih smjernica gospodarenja gospodarskom jedinicom uzrokovanih promjenom namjene prema posebnim propisima, elementarnom nepogodom, štetočinama bilja, sušenjem, propadanjem šuma, stanjem prirodne obnove i sječom većih razmjera za potrebe infrastrukture zbog čega je potrebno izvršiti površinske izmjene etata glavnog i prethodnog prihoda te opće osnove sječa.
+(2) Izvanredna revizija može se izraditi za gospodarske jedinice u kojima će se zbog osiguranja financijskih sredstava, moći povećati obujam radova biološke obnove šuma.
+(3) Izvanredna revizija može se izraditi kada se zbog potreba provođenja znanstveno-istraživačkog rada uspostavljaju trajne plohe intenzivnog motrenja oštećenosti šumskih ekosustava, te zbog toga treba promijeniti namjenu na dijelu površine gospodarske jedinice.
+(4) Izvanredna revizija može se izraditi za gospodarske jedinice u kojima se utvrdi potreba za uključivanjem u gospodarenje površina šuma i šumskih zemljišta koje do sada nisu bile u sastavu gospodarske jedinice.
+(5) Izvanrednu reviziju nije potrebno izraditi kada je propisani etat prebačen sječom slučajnog prihoda.
+(6) Izvanrednu reviziju potrebno je izraditi kad dođe do promjene vlasničkih odnosa uzrokovanih povratom imovine temeljem posebnog zakona i to u slučaju promjene vlasništva na području gospodarske jedinice većom od 100 ha.
+(7) Izvanrednu reviziju može se izraditi za gospodarske jedinice u kojima se nalaze radno nedostupne površine, te su revizije izrađene računski, a nakon razminiranja je utvrđeno da podaci i propisi ne odgovaraju stvarnom stanju.
+(8) Izvanredna revizija programa zaštite šuma iz članka 84. stavka 1. i 2. Pravilnika može se izraditi u slučaju značajnog narušavanja temeljnih vrijednosti zaštićenog područja.
+(9) Promjene se upisuju crvenom bojom u postojeće obrasce.

@@ -1,0 +1,8 @@
+## XII. ČUVANJE I POHRANJIVANJE ŠUMSKOGOSPODARSKIH PLANOVA TE JAVNOST PODATAKA
+# Članak 96.
+(1) Osnova područja, osnove i programi gospodarenja te programi posebne namjene čuvaju se u Trgovačkom društvu i tijelima državne uprave i pravnim osobama čiji je osnivač RH, a programi gospodarenja šumoposjednika u Savjetodavnoj službi.
+(2) Program zaštite šuma za područje strogog rezervata i nacionalnog parka čuva pravna osoba koja upravlja zaštićenim područjem koja jedan primjerak Programa dostavlja središnjem tijelu državne uprave nadležnom za poslove zaštite prirode.
+(3) Svi podaci koji su prikupljeni prilikom izrade šumskogospodarskih planova (terenski opisi, manuali izmjere, terenske karte i dr.) su dokumentacijska građa koju Trgovačko društvo i tijela državne uprave i pravne osobe koje koriste šume i šumska zemljišta u vlasništvu RH, pravna osoba koja upravlja zaštićenim dijelom prirode odnosno Savjetodavna služba čuva do prestanka važenja šumskogospodarskog plana odnosno odobravanja novoga šumskogospodarskog plana.
+(4) Sve numeričke i grafičke podatke koji su bili podloga za izradu šumskogospodarskih planova, računalne zapise šumskogospodarskih planova i podatke o njihovu provođenju Trgovačko društvo i tijela državne uprave i pravne osobe koje koriste šume i šumska zemljišta u vlasništvu RH, pravna osoba koja upravlja zaštićenim dijelom prirode odnosno Savjetodavna služba čuva u obliku trajnih računalnih zapisa.
+(5) Šumskogospodarski planovi prije pokretanja postupka odobrenja od strane Ministarstva podliježu javnom uvidu koji mora trajati najmanje 15 dana, a nakon provedenog javnog uvida mora se održati javna rasprava.
+(6) Obavijest o održavanju javnog uvida i javne rasprave mora biti objavljena u barem jednom od sredstava javnog priopćavanja.

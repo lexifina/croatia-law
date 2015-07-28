@@ -1,0 +1,4 @@
+# Članak 9.
+(1) Za šume i šumska zemljišta u obrascu O-2 ili O-3 evidentira se kôd i naziv prevladavajućeg stanišnog tipa (III. razine) koji se nalazi u odsjeku sukladno Nacionalnoj klasifikaciji staništa (NKS).
+(2) Za šume i šumska zemljišta koja se nalaze unutar ekološke mreže Natura 2000 (u daljnjem tekstu ekološka mreža) u obrascu O-2 ili O-3 se na temelju karte ekološke mreže evidentira identifikacijski broj s nazivom područja ekološke mreže i Natura kôd s nazivom stanišnog tipa od interesa za Europsku uniju koji obuhvaća odsjek sukladno aktu o proglašenju ekološke mreže Republike Hrvatske.
+(3) Za šume i šumska zemljišta koja se nalaze izvan ekološke mreže u obrascu O-2 ili O-3 evidentira se Natura kôd i naziv prevladavajućeg stanišnog tipa od interesa za Europsku uniju koji obuhvaća odsjek.
