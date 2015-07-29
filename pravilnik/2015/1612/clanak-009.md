@@ -1,0 +1,9 @@
+# Članak 9.
+(1) O zahtjevu za povrat trošarine nadležni carinski ured odlučuje rješenjem.
+(2) Korisnici prava mogu ostvariti pravo na povrat plaćene trošarine za potrošene količine energenta. Pravo na povrat plaćene trošarine može se ostvariti samo za potrošene količine energenta u razdoblju u kojemu je korisnik prava bio upisan u registar korisnika povrata.
+(3) Ako se u tijeku četveromjesečnog razdoblja za koje se traži povrat plaćene trošarine promijeni propisana visina trošarine na energent, povrat trošarine se za mjesec u kojem je promijenjena propisana visina trošarine za sve količine energenta na koje se odnose računi iz evidencije potrošnje iz tog mjeseca odobrava prema visini trošarine koja je važila prvog dana u tom mjesecu. Za naredne mjesece povrat plaćene trošarine se odobrava prema važećoj propisanoj visini trošarine.
+(4) Osim u drugim slučajevima sukladno ovome Pravilniku, povrat plaćene trošarine neće se odobriti i ako:
+1. korisnik prava ima nepodmirenih dospjelih obveza s naslova javnih davanja čije je utvrđivanje, naplata i nadzor u nadležnosti Carinske uprave, uključujući i novčane kazne izrečene pravomoćnim i izvršnim rješenjem o prekršaju iz nadležnosti Carinske uprave,
+2. se utvrdi da korisnik prava nije vodio ili nije uredno, potpuno ili pravilno vodio evidenciju potrošnje (sa svim pripadajućim računima) iz članka 7. stavka 1. točke 2. ovoga Pravilnika ili ako ju je odbio predočiti na zahtjev carinskih službenika ili drugih nadležnih tijela,
+3. svi računi o nabavljenom energentu i računi za isporučena dobra ili obavljene usluge u okviru obavljanja komercijalnih operacija u zračnom prometu iz članka 7. stavka 1. točke 2. ovoga Pravilnika nisu izdani u skladu s propisima o porezu na dodanu vrijednost i fiskalizaciji u prometu gotovinom,
+4. se utvrdi da je korisnik prava postupao protivno trošarinskim i poreznim propisima.
