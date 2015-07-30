@@ -1,0 +1,2 @@
+# Članak 24.
+Stupanjem na snagu ovoga Pravilnika prestaju važiti Pravilnik o proizvođačkim organizacijama u sektoru voća i povrća (»Narodne novine« br. 4/2010, 120/2010), Pravilnik o priznavanju proizvođačkih organizacija u sektoru maslinovog ulja i stolnih maslina (»Narodne novine« br. 3/2011) i članci 6., 8., 9., 10., 13., 14. i 15. stavak 1. Pravilnika o priznavanju proizvođačkih i međusektorskih organizacija te o uređenju ugovornih odnosa u sektoru mlijeka i mliječnih proizvoda (»Narodne novine« br. 67/2013).
