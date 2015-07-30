@@ -1,0 +1,3 @@
+# Članak 1.
+U Pravilniku o izvođenju izleta, ekskurzija i drugih odgojno-obrazovnih aktivnosti izvan škole (»Narodne novine«, broj 67/14.), u članku 1. stavak 1. mijenja se i glasi:
+»(1) Ovim Pravilnikom propisuju se načini, uvjeti, mjere sigurnosti te prava i obveze korisnika i davatelja usluga u izvedbi poludnevnih i jednodnevnih izleta, višednevnih ekskurzija, terenske nastave, škole u prirodi (u daljnjem tekstu: izvanučionička nastava) i drugih odgojno-obrazovnih aktivnosti, a koje se ostvaruju u mjestu i izvan mjesta u kojem je smještena osnovna ili srednja škola ili učenički dom (u daljnjem tekstu: školska ustanova)«.
