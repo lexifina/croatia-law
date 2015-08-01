@@ -1,0 +1,2 @@
+# Članak 24.
+U cijelom tekstu Zakona o putnim ispravama hrvatskih državljana (»Narodne novine«, br. 77/99., 133/02., 48/05. i 74/09.) riječi: »Ministarstvo vanjskih poslova i europskih integracija« zamjenjuju se riječima: »ministarstvo nadležno za vanjske poslove«, a riječi: »ministar vanjskih poslova i europskih integracija« zamjenjuju se riječima: »ministar nadležan za vanjske poslove«, u odgovarajućem padežu.
