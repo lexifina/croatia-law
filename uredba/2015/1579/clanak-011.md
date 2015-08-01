@@ -1,0 +1,5 @@
+# Članak 11.
+Časnik za vezu ima pravo dijete koje s njim boravi u državi primateljici školovati u osnovnim i srednjim školama koje udovoljavaju sigurnosnim uvjetima te koje omogućavaju nesmetan nastavak obrazovanja u Republici Hrvatskoj, a prema popisu škola koje utvrđuje ministarstvo nadležno za vanjske poslove.
+U slučaju kada u državi primateljici nema javne osnovne i srednje škole, časnik za vezu ima pravo dijete upisati u privatnu školu koja ispunjava uvjete iz stavka 1. ovoga članka.
+U slučaju ako časnik za vezu upiše dijete u privatnu školu, iz stavka 2. ovoga članka, ima pravo na dodatak za školovanje djeteta u iznosu od 90% od stvarne cijene upisnine i školarine.
+Suglasnost za upis u privatnu osnovnu i srednju školu te pravo na dodatak za školovanje, na temelju pisanog zahtjeva časnika za vezu s priloženom potrebnom dokumentacijom, daje za časnika za vezu iz članka 3. stavka 3. ove Uredbe glavni ravnatelj policije, odnosno za časnika za vezu iz članka 3. stavka 4. ove Uredbe, ravnatelj Carinske uprave, imajući pritom u vidu visinu upisnine i školarine, nastavni program te ostale bitne činjenice.

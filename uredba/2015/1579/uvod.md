@@ -1,0 +1,1 @@
+Na temelju članka 35. Zakona o sklapanju i izvršavanju međunarodnih ugovora (»Narodne novine« broj 28/96) i članka 30. stavka 1. Zakona o Vladi Republike Hrvatske (»Narodne novine« br. 150/2011 i 119/2014), Vlada Republike Hrvatske je na sjednici održanoj 2. srpnja 2015. godine donijela

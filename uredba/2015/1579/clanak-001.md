@@ -1,0 +1,2 @@
+# Članak 1.
+Provedbu Konvencije Centra za provedbu zakona u jugoistočnoj Europi (»Narodne novine - Međunarodni ugovori«, broj 5/2011) i Protokola o povlasticama i imunitetima Centra za provedbu zakona u jugoistočnoj Europi (»Narodne novine - Međunarodni ugovori«, broj 5/2012; u daljnjem tekstu: SELEC Konvencija) - osiguravaju Ministarstvo unutarnjih poslova i Ministarstvo financija, Carinska uprava.

@@ -1,0 +1,2 @@
+# Članak 22.
+Danom stupanja na snagu ove Uredbe prestaje važiti Uredba o provedbi Ugovora o suradnji u sprječavanju i suzbijanju prekograničnog kriminala i Povelje o organizaciji i djelovanju inicijative za suradnju u jugoistočnoj Europi - SECI Regionalnog centra (SECI Centra) za suzbijanje prekograničnog kriminala (»Narodne novine - Međunarodni ugovori«, broj 13/2001 i »Narodne novine«, broj 98/2005).
