@@ -1,0 +1,7 @@
+# Članak 32.
+(1) Udruge koje su nositelji pojedinih mjera i aktivnosti u sustavu civilne zaštite određuju se i navode u planovima djelovanja civilne zaštite na svim razinama ustrojavanja sustava.
+(2) Operativni članovi udruga ne mogu se istodobno raspoređivati u više operativnih snaga sustava civilne zaštite na svim razinama ustrojavanja sustava.
+(3) Udruge imaju pravo na naknadu stvarnih troškova za sudjelovanje u provedbi mjera i aktivnosti u sustavu civilne zaštite na teret proračuna jedinice lokalne i područne (regionalne) samouprave ili državnog proračuna Republike Hrvatske, ovisno na čiji su zahtjev sudjelovali u aktivnostima civilne zaštite u velikim nesrećama i katastrofama.
+(4) Državna uprava i izvršna tijela jedinica lokalne i područne (regionalne) samouprave međusobne odnose s udrugama reguliraju sporazumima kojima se utvrđuju zadaće udruga u sustavu civilne zaštite, uvjeti pod kojim se udruge uključuju u aktivnosti sustava civilne zaštite te financijska sredstva (donacije) namijenjena jačanju sposobnosti udruga za provođenje mjera i aktivnosti u sustavu civilne zaštite u velikim nesrećama i katastrofama.
+(5) Radi osposobljavanja za sudjelovanje u sustavu civilne zaštite udruge samostalno provode osposobljavanje svojih članova i sudjeluju u osposobljavanju i vježbama s drugim operativnim snagama sustava civilne zaštite na svim razinama.
+f) Postrojbe i povjerenici civilne zaštite

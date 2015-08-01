@@ -1,0 +1,20 @@
+# Članak 93.
+Do stupanja na snagu propisa iz članka 92. ovoga Zakona ostaju na snazi sljedeći dokumenti i propisi doneseni na temelju Zakona o zaštiti i spašavanju (»Narodne novine«, br. 174/04., 79/07., 38/09. i 127/10.), u dijelu u kojem nisu u suprotnosti s ovim Zakonom:
+1) Procjena ugroženosti Republike Hrvatske od prirodnih i tehničko-tehnoloških katastrofa i velikih nesreća (Zaključak Vlade Republike Hrvatske od 7. ožujka 2013.)
+2) Plan zaštite i spašavanja za područje Republike Hrvatske (»Narodne novine«, br. 96/10.)
+3) Uredba o visini i uvjetima za isplatu naknade troškova mobiliziranim građanima (»Narodne novine«, br. 91/06.)
+4) Uredba o visini naknade osobama angažiranim u zaštiti i spašavanju izvan granica Republike Hrvatske (»Narodne novine«, br. 90/06.)
+5) Uredba o načinu utvrđivanja naknade za privremeno oduzete pokretnine radi provedbe mjera zaštite i spašavanja (»Narodne novine«, br. 85/06.)
+6) Uredba o načinu prelaska granice prilikom primanja i/ili upućivanja žurne pomoći u zaštiti i spašavanju (»Narodne novine«, br. 52/06.)
+7) Uredba o jedinstvenim znakovima za uzbunjivanje (»Narodne novine«, br. 13/06. i 49/06.)
+8) Pravilnik o službenoj iskaznici i znački inspektora zaštite i spašavanja, inspektora za vatrogastvo i službenika Državne uprave za zaštitu i spašavanje s posebnim ovlastima i odgovornostima (»Narodne novine«, br. 18/06.)
+9) Pravilnik o postupku uzbunjivanja stanovništva (»Narodne novine«, br. 47/06.)
+10) Pravilnik o sudjelovanju pripadnika operativnih snaga zaštite i spašavanja u aktivnostima snaga za žurnu pomoć u katastrofama u inozemstvu (»Narodne novine«, br. 73/06.)
+11) Pravilnik o mobilizaciji i djelovanju operativnih snaga zaštite i spašavanja (»Narodne novine«, br. 40/08. i 44/08.)
+12) Pravilnik o odori pripadnika operativnih snaga zaštite i spašavanja Državne uprave za zaštitu i spašavanje (»Narodne novine«, br. 81/09. i 115/10.)
+13) Pravilnik o ustrojstvu, popuni i opremanju postrojbi civilne zaštite i postrojbi za uzbunjivanje (»Narodne novine«, br. 111/07.)
+14) Pravilnik o metodologiji za izradu procjena ugroženosti i planova zaštite i spašavanja (»Narodne novine«, br. 30/14. i 67/14.)
+15) Pravilnik o zaštiti arhivskoga i registraturnog gradiva Državne uprave za zaštitu i spašavanje (»Narodne novine«, br. 114/06. i 141/09.)
+16) Pravilnik o uvjetima koje moraju ispunjavati ovlaštene pravne osobe za obavljanje stručnih poslova u području planiranja zaštite i spašavanja (»Narodne novine«, br. 91/13.)
+17) Pravilnik o nagradama i priznanjima Državne uprave za zaštitu i spašavanje (»Narodne novine«, br. 23/07. i 126/09.)
+18) Pravilnik o zemljopisno obavijesnom sustavu Državne uprave za zaštitu i spašavanje (»Narodne novine«, br. 98/12.).

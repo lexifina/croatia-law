@@ -1,0 +1,8 @@
+## Načela sustava civilne zaštite
+# Članak 7.
+(1) Načela sustava civilne zaštite su opća načela: načelo humanosti i načelo zabrane diskriminacije te načela operativnog djelovanja sustava civilne zaštite: načelo supsidijarnosti, načelo solidarnosti i načelo kontinuiteta djelovanja.
+(2) Načelo humanosti ostvaruje se osiguravanjem poštivanja osoba kojima se pruža pomoć, osiguravanjem prava na fizički i mentalni integritet i zaštitom osobnosti.
+(3) Prema načelu zabrane diskriminacije u sustavu civilne zaštite pruža se potrebna pomoć svima kojima je potrebna, neovisno o rasi, etničkoj pripadnosti, boji kože, spolu, jeziku, vjeri, političkom ili drugom uvjerenju, nacionalnom ili socijalnom podrijetlu, imovnom stanju, članstvu u sindikatu, obrazovanju, društvenom položaju, bračnom ili obiteljskom statusu, dobi, zdravstvenom stanju, invaliditetu, genetskom naslijeđu, rodnom identitetu, izražavanju ili spolnoj orijentaciji.
+(4) Prema načelu supsidijarnosti odluke i mjere civilne zaštite prvenstveno se donose i provode angažiranjem svih raspoloživih vlastitih resursa i sposobnosti sudionika i operativnih snaga sustava civilne zaštite jedinice lokalne i područne (regionalne) samouprave koja je pogođena velikom nesrećom ili katastrofom.
+(5) Prema načelu solidarnosti pogođenoj jedinici lokalne i područne (regionalne) samouprave upućuje se dodatna pomoć nakon što je angažirala sve svoje raspoložive resurse i sposobnosti sudionika i operativnih snaga sustava civilne zaštite.
+(6) Prema načelu kontinuiteta djelovanja sudionici i operativne snage u sustavu civilne zaštite nastavljaju izvršavati poslove iz svog djelokruga i u velikim nesrećama i katastrofama.

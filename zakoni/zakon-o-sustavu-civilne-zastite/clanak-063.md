@@ -1,0 +1,8 @@
+## IX. SUDJELOVANJE PRIPADNIKA OPERATIVNIH SNAGA SUSTAVA CIVILNE ZAŠTITE U MEĐUNARODNIM AKTIVNOSTIMA
+# Članak 63.
+(1) Pripadnici operativnih snaga sustava civilne zaštite uz prethodnu osobnu suglasnost mogu sudjelovati u međunarodnim aktivnostima sukladno odredbama ovog Zakona i obvezama Republike Hrvatske preuzetim iz međunarodnih ugovora.
+(2) Pripadnici operativnih snaga sustava civilne zaštite mogu sudjelovati u pružanju žurne međunarodne pomoći koja predstavlja aktivnosti spasilačkih ekipa, sredstava i stručnjaka te postrojbi opremljenih specijalnom opremom čija je svrha uklanjanje neposrednih i posrednih posljedica katastrofa u drugim državama.
+(3) Odluku o sudjelovanju pripadnika operativnih snaga sustava civilne zaštite u pružanju žurne međunarodne pomoći donosi Vlada Republike Hrvatske na prijedlog čelnika Državne uprave.
+(4) Odluku o sudjelovanju pripadnika operativnih snaga sustava civilne zaštite u međunarodnim programima osposobljavanja i vježbama donosi čelnik Državne uprave, sukladno obvezama preuzetim iz međunarodnih ugovora i godišnjim programima rada Državne uprave.
+(5) Pripadnik operativnih snaga sustava civilne zaštite iz stavka 2. ovoga članka ima pravo na naknadu plaće, putnih troškova, osiguranje, dnevnicu i druge naknade, sukladno odredbama ovog Zakona i propisa donesenih za njegovu provedbu.
+(6) Vlada Republike Hrvatske, na prijedlog čelnika Državne uprave, donosi uredbu o pravima, obvezama, načinu i uvjetima za ostvarivanje materijalnih prava pripadnika operativnih snaga sustava civilne zaštite kada sudjeluju u međunarodnim aktivnostima i pružanju međunarodne pomoći.

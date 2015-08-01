@@ -1,0 +1,6 @@
+## Jedinice lokalne i područne (regionalne) samouprave
+# Članak 16.
+(1) Jedinice lokalne i područne (regionalne) samouprave dužne su organizirati poslove iz svog samoupravnog djelokruga koji se odnose na planiranje, razvoj, učinkovito funkcioniranje i financiranje sustava civilne zaštite.
+(2) Jedinice lokalne i područne (regionalne) samouprave dužne su jačati i nadopunjavati spremnost postojećih operativnih snaga sustava civilne zaštite na njihovom području sukladno procjeni rizika od velikih nesreća i planu djelovanja civilne zaštite, a ako postojećim operativnim snagama ne mogu odgovoriti na posljedice utvrđene procjenom rizika, dužne su osnovati dodatne postrojbe civilne zaštite.
+(3) Jedinice lokalne i područne (regionalne) samouprave za potrebe pripravnosti i reagiranja kod velikih nesreća i katastrofa organiziraju sudjelovanje volontera radi provođenja mjera i aktivnosti u sustavu civilne zaštite, sukladno odredbama ovog Zakona i posebnih propisa.
+(4) U slučaju velike nesreće stožer civilne zaštite jedinice lokalne i područne (regionalne) samouprave organizira volontere u provođenju određenih mjera i aktivnosti u sustavu civilne zaštite, sukladno odredbama ovog Zakona i posebnih propisa.

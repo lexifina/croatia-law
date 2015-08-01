@@ -1,0 +1,8 @@
+# Članak 44.
+(1) Obveznici civilne zaštite su hrvatski državljani, državljani Europskoga gospodarskog prostora i državljani trećih zemalja koji imaju odobren status stranca na stalnom boravku u Republici Hrvatskoj te osobe bez državljanstva s reguliranim statusom u Republici Hrvatskoj, starosne dobi od 18 do 65 godina života, koji su uvedeni u evidenciju obveznika civilne zaštite jedinica lokalne samouprave.
+(2) Iznimno od stavka 1. ovoga članka, dužnosti u sustavu civilne zaštite ne mogu se dodjeljivati:
+– trudnicama, majkama s djetetom mlađim od deset godina ili samohranim roditeljima djeteta do 15 godina
+– osobama koje se brinu o osobama s invaliditetom, starijim osobama ili o odraslom članu obitelji koji nije sposoban brinuti se za sebe, a žive u istom kućanstvu, osobe s invaliditetom i osobe trajno nesposobne za rad
+– djelatnim vojnim osobama, službenicima i namještenicima Ministarstva obrane i Oružanih snaga Republike Hrvatske, pričuvnicima pozvanim na obuku, ugovornim pričuvnicima, kadetima, osobama koje su pristupile dragovoljnom vojnom osposobljavanju, ročnicima kada je na snazi obvezno služenje vojnog roka, vojnim obveznicima mobiliziranim u Oružane snage Republike Hrvatske, zaposlenicima kojima je uvedena radna obveza
+– policiji, žurnim službama, djelatnicima zdravstva te profesionalnim članovima drugih operativnih snaga sustava civilne zaštite i službenicima i namještenicima središnjih tijela državne uprave
+– zaposlenicima u pravnim osobama i upravnim tijelima jedinica lokalne i područne (regionalne) samouprave koje su dio operativnih snaga sustava civilne zaštite jedinica lokalne i područne (regionalne) samouprave i središnjih tijela državne uprave.

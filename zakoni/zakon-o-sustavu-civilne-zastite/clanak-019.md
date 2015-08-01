@@ -1,0 +1,4 @@
+# Članak 19.
+(1) Jedinice lokalne samouprave popunjavaju postrojbe i raspoređuju povjerenike i zamjenike povjerenika civilne zaštite, a jedinice područne (regionalne) samouprave popunjavaju postrojbe civilne zaštite, sukladno odredbama pravilnika koji donosi čelnik Državne uprave.
+(2) Jedinica lokalne i područne (regionalne) samouprave, osnivač postrojbi civilne zaštite, obavlja pozivanje obveznika civilne zaštite radi mobilizacije, utvrđivanja dužnosti i usklađivanja podataka u sustavu civilne zaštite, zaduživanja osobne opreme, provedbe smotre te upućivanja na osposobljavanje i vježbe.
+(3) Jedinica lokalne i područne (regionalne) samouprave dužna je osigurati uvjete za osposobljavanje raspoređenih obveznika snaga civilne zaštite (pripadnika postrojbi civilne zaštite, povjerenika civilne zaštite i njihovih zamjenika) sukladno odredbama ovog Zakona.

@@ -1,0 +1,5 @@
+# Članak 24.
+(1) Izvršno tijela jedinice lokalne samouprave odlukom osniva stožer civilne zaštite i imenuje načelnika, zamjenika načelnika i članove stožera od predstavnika operativnih snaga sustava civilne zaštite, upravnih tijela jedinice lokalne samouprave i drugih pravnih osoba od osobite važnosti za sustav civilne zaštite jedinice lokalne samouprave.
+(2) Radom stožera civilne zaštite jedinice lokalne samouprave rukovodi načelnik stožera, a kada se proglasi velika nesreća rukovođenje preuzima izvršno tijelo jedinice lokalne samouprave.
+(3) Članovi stožera jedinice lokalne samouprave su imenovani članovi iz stavka 1. ovoga članka, po prijedlogu tih službi, od kojih se dio članova imenuje po dužnosti, i to: predstavnici službi koje se civilnom zaštitom bave kao redovitom djelatnošću, djelatnici temeljnih operativnih snaga civilne zaštite, predstavnik područnog ureda Državne uprave, policijske postaje te predstavnik zdravstvenih ustanova.
+(4) Jedinica lokalne samouprave obavlja administrativne i tehničke poslove te osigurava uvjete za rad stožera civilne zaštite.
