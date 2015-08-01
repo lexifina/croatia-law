@@ -1,0 +1,6 @@
+## Obračunavanje putnih troškova
+# Članak 28.
+1) Kada se pregled iz članka 24. stavka 1. obavlja puno radno vrijeme u trajanju od 8 sati u objektima iz članka 7. i članka 8., Kontrolno tijelo nema pravo na naknadu propisanu člankom 26. stavkom 2. točkom e).
+2) Kada se pregled iz članka 24. stavka 1. ne obavlja puno radno vrijeme u trajanju od 8 sati u objektima iz članka 7. i članka 8., kao i u slučajevima kada se pregled iz članka 24. stavka 1. obavlja po pozivu subjekta, Kontrolno tijelo ima pravo na naknadu propisanu člankom 26. stavkom 2. točkom e), za utrošenu kilometražu od radnog mjesta osobe koja obavlja poslove do objekta gdje se obavljaju poslovi i natrag.
+3) Za provođenje poslova službene kontrole iz članka 20. stavka 1. i članka 22. Kontrolno tijelo ima pravo na naknadu propisanu člankom 26. stavkom 2. točkom e), za utrošenu kilometražu od radnog mjesta i natrag osobe koja obavlja službenu kontrolu do objekta u kojem se provodi službena kontrola.
+4) Za provođenje poslova certificiranja iz članka 19. stavaka 1., 2., 3. i 4. Kontrolno tijelo ima pravo na naknadu propisanu člankom 26. stavkom 2. točkom e), za utrošenu kilometražu od radnog mjesta i natrag osobe koja obavlja službenu kontrolu do objekta u kojem se provodi službena kontrola.

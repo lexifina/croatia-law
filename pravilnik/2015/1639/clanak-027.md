@@ -1,0 +1,4 @@
+## Uvećanje naknada (posebna tarifa, vrijeme preko normativa)
+# Članak 27.
+1) Ako se pregled iz članka 24. stavka 1. u objektima iz članka 7. i članka 8. provodi nedjeljom, ili u dane državnog blagdana, te u slučaju noćnog rada, naknada za provođenje pregleda iz članka 24. stavka 1., propisana člankom 26. stavkom 2. točkom a), uvećava se za 50%.
+2) Ako djelatnici objekta ili tehničke nesukladnosti pri provođenju pregleda iz članka 24. stavka 1. ovoga Pravilnika koji se obavljaju u objektima iz članka 7. i članka 8. uzrokuju kašnjenje u obavljanju pregleda u predviđeno vrijeme, ili je vrijeme utrošeno za provođenje pregleda iz članka 24. stavka 1. veće od vremena propisanog Prilogom II. ovoga Pravilnika, objektu se obračunava pristojba za utrošeno vrijeme koje je potrebno za provođenje pregleda iz članka 24. stavka 1. ovoga Pravilnika u iznosu od 100,00 kn po satu.
