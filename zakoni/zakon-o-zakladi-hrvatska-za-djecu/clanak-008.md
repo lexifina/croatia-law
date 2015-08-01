@@ -1,0 +1,2 @@
+# Članak 8.
+Upravni odbor Zaklade donosi Statut Zaklade, Poslovnik o radu, Pravilnik o vrstama, uvjetima i postupku za dodjelu potpora i ostale opće akte, godišnji financijski plan Zaklade, godišnji plan rada i izvješća o radu za prethodnu godinu, odluke o prijavi na natječaje za fondove Europske unije, odluke o dodjeli potpora u skladu s ovim Zakonom i općim aktima Zaklade, odlučuje o povećanju ili opterećenju imovine Zaklade, može osnivati donatorska povjerenstva i radne skupine te obavlja druge poslove u skladu sa zakonom i Statutom Zaklade te drugim propisima.
