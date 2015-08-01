@@ -1,0 +1,9 @@
+# Članak 53.
+(1) Nadležno tijelo priznaje dokaz o stručnoj kvalifikaciji za doktora dentalne medicine koji je izdan u Talijanskoj Republici nositeljima stručne kvalifikacije koji su započeli sveučilišni medicinski studij nakon 28. siječnja 1980. i najkasnije 31. prosinca 1984., ako je priložena potvrda koju je izdalo nadležno tijelo Talijanske Republike.
+(2) Potvrdom iz stavka 1. ovoga članka dokazuje se:
+a) da je nositelj stručne kvalifikacije položio odgovarajuću provjeru kompetentnosti koju izvode nadležna tijela Talijanske Republike s ciljem da se utvrdi da ima razinu kompetencija usporedivu s nositeljima stručne kvalifikacije koji imaju dokaz o stručnoj kvalifikaciji naveden za Talijansku Republiku u točki 5.3.2. Priloga V. Direktive
+b) da je nositelj stručne kvalifikacije zaposlen stvarno, zakonito i pretežno na poslovima doktora dentalne medicine u Talijanskoj Republici najmanje tri godine uzastopno, unutar pet godina prije izdavanja potvrde i
+c) da je nositelj stručne kvalifikacije ovlašten da se zaposli stvarno, zakonito i pretežno na poslovima doktora dentalne medicine kao i nositelj stručne kvalifikacije koji ima dokaz o stručnoj kvalifikaciji naveden za Talijansku Republiku u točki 5.3.2. Priloga V. Direktive.
+(3) Iznimno, uvjet iz stavka 2. točke b) ovoga članka ne odnosi se na doktore dentalne medicine koji su završili najmanje trogodišnji studij, a nadležno tijelo u državi članici potvrđuje da je osposobljavanje istovrijedno uvjetima iz članka 28. ovoga Zakona.
+(4) Odredbe stavaka 1. – 3. ovoga članka odnose se i na nositelje stručnih kvalifikacija koji su započeli sveučilišni medicinski studij nakon 31. prosinca 1984., uz uvjet da je gore navedeni trogodišnji studij započeo prije 31. prosinca 1994.
+1.5.4. Stečena prava specifična za medicinske sestre odgovorne za djelatnost opće njege

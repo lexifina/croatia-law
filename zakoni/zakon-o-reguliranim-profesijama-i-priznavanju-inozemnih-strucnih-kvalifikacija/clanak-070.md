@@ -1,0 +1,5 @@
+# Članak 70.
+(1) Nositelj stručne kvalifikacije, neovisno o članku 9., članku 10. stavku 11. i članku 69. ovoga Zakona, ima pravo koristiti se stručnim i akademskim nazivom, odnosno akademskim stupanjem i odgovarajućom kraticom, koje je stekao u matičnoj državi članici, na jeziku matične države članice.
+(2) U slučaju iz stavka 1. ovoga članka nadležno tijelo može u rješenju iz članka 19. ovoga Zakona zahtijevati od nositelja stručne kvalifikacije da iza naziva iz stavka 1. ovoga članka slijedi naziv i adresa ustanove koja je naziv dodijelila.
+(3) U slučaju kada postoji mogućnost da se naziv iz stavka 1. ovoga članka zamijeni za naziv za koji je u Republici Hrvatskoj potrebno dodatno obrazovanje koje nositelj stručne kvalifikacije nije stekao u matičnoj državi članici, nadležno tijelo može zahtijevati od nositelja stručne kvalifikacije da se koristi nazivom matične države članice na odgovarajući način koji utvrdi nadležno tijelo rješenjem iz članka 19. ovoga Zakona.
+6.2. Djelomičan pristup

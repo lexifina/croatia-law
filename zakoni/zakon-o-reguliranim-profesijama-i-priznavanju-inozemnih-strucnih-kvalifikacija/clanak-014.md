@@ -1,0 +1,7 @@
+# Članak 14.
+(1) Nadležno tijelo priznat će istu razinu stručne kvalifikacije iz članka 13. ovoga Zakona, ako kandidat dostavi dokaz o stručnoj kvalifikaciji iz članka 13. ovoga Zakona na temelju kojeg u državi članici ostvaruje pravo pristupa profesiji, obavljanju profesije, odnosno priprema ga za obavljanje profesije, i to:
+a) koji je izdalo nadležno tijelo države članice i
+b) kojim se potvrđuje da je uspješno završio program osposobljavanja i usavršavanja, koji je sastavni dio obrazovnog programa, odnosno izvan njega, na području države članice i koji je priznat u toj državi članici kao istovjetna razina.
+(2) Iznimno od stavka 1. ovoga članka nadležno tijelo priznat će istu razinu stručne kvalifikacije i u slučaju da ta kvalifikacija ne ispunjava uvjete sadržane u propisima koji su na snazi u matičnoj državi članici, ali se tim propisima države članice kandidatu jamče stečena prava za bavljenje i mogućnost bavljenja profesijom.
+(3) Stavak 2. ovoga članka primjenjuje se i u slučaju kada matična država članica povisi razinu potrebnu za pristup profesiji i bavljenje tom profesijom te ako se kandidat koristi stečenim pravima nakon završetka osposobljavanja koje ne udovoljava uvjetima nove razine, na temelju propisa koji su na snazi u matičnoj državi članici.
+(4) U slučaju iz stavka 3. ovoga članka, nadležno tijelo priznat će prethodno osposobljavanje kao da odgovara razini novog osposobljavanja.

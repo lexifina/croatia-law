@@ -1,0 +1,6 @@
+# Članak 8.
+(1) EU potvrda izdaje se pravnoj ili fizičkoj osobi s poslovnim nastanom u Republici Hrvatskoj koja u drugoj državi članici želi pružati usluge, a podnositelj zahtjeva za izdavanje EU potvrde može biti:
+a) pravna ili fizička osoba, s poslovnim nastanom u Republici Hrvatskoj, koja je obavljala ili obavlja djelatnost, odnosno profesiju na području Republike Hrvatske, a koja namjerava u drugoj državi članici obavljati reguliranu profesiju ili
+b) pravna ili fizička osoba, s poslovnim nastanom u Republici Hrvatskoj, koja namjerava u drugoj državi članici obavljati profesiju koju je obavljala u Republici Hrvatskoj najmanje godinu dana u razdoblju od deset godina prije pružanja usluga, u slučaju da ista profesija nije regulirana u Republici Hrvatskoj, ali je regulirana u državi članici domaćinu.
+(2) Potvrdom se potvrđuje da je osoba iz stavka 1. ovoga članka poslovno nastanjena u Republici Hrvatskoj i da u trenutku izdavanja potvrde nema, čak ni privremeno, zabranu obavljanja profesije, odnosno djelatnosti.
+(3) Ministar nadležan za rad će, u suradnji s ministrom nadležnim za obrazovanje i znanost, pravilnikom propisati sadržaj i izgled EU potvrde te utvrditi popis nadležnih tijela za izdavanje EU potvrda.

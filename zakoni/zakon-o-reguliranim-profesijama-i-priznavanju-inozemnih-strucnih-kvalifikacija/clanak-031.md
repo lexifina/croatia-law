@@ -1,0 +1,3 @@
+# Članak 31.
+(1) Pristup osposobljavanju za magistra farmacije podliježe posjedovanju javne isprave o završenom obrazovanju koje omogućava pristup na sveučilišni studij farmacije u Republici Hrvatskoj ili u drugoj državi članici.
+(2) Osposobljavanje za magistra farmacije obuhvaća završetak sveučilišnog studija farmacije u trajanju od najmanje pet godina, koje može biti iskazano u odgovarajućim ECTS bodovima, od čega minimalno četiri godine teorijskog i praktičnog obrazovanja u punoj nastavnoj satnici na sveučilištu ili drugoj ustanovi visokog obrazovanja priznatog istovjetnog stupnja ili ustanovi koja je pod nadzorom sveučilišta i šest mjeseci stručnog osposobljavanja u javnoj ljekarni ili u bolničkoj ljekarni, koje se obavlja tijekom ili na kraju formalnog obrazovanja.

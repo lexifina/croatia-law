@@ -1,0 +1,16 @@
+# Članak 17.
+(1) Postupak priznavanja inozemne stručne kvalifikacije pokreće se na zahtjev kandidata koji se podnosi nadležnom tijelu iz članka 5. stavka 1. podstavka 15. ovoga Zakona.
+(2) Ako je zahtjev iz stavka 1. ovoga članka nepotpun, odnosno sadržava nedostatak koji onemogućuje postupanje po zahtjevu, nadležno tijelo će u roku od 15 dana od primitka takvog zahtjeva pozvati kandidata da ga dopuni u roku od 90 dana. Ako podnositelj zahtjeva ne udovolji pozivu, a po zahtjevu se ne može postupiti, nadležno tijelo će zahtjev odbaciti kao nepotpun.
+(3) Zahtjev iz stavka 1. ovoga članka mora sadržavati:
+a) dokaz o državljanstvu kandidata i
+b) dokaz o ispunjavanju uvjeta za priznavanje inozemnih stručnih kvalifikacija (potvrda kompetentnosti, dokaz o obrazovnoj, odnosno stručnoj kvalifikaciji te stručnom iskustvu gdje je to primjereno).
+(4) Uz dokaze iz stavka 3. ovoga članka nadležno tijelo može zatražiti od kandidata da dostavi i druge dokaze sukladno Prilogu VII. Direktive, a dokazi iz točaka 1. d), e) i f) Priloga VII. Direktive ne mogu biti stariji od tri mjeseca na dan njihova podnošenja.
+(5) U slučaju opravdane sumnje, nadležno tijelo može zatražiti od nadležnih tijela države članice potvrdu o autentičnosti dokaza iz stavka 3. točke b) ovoga članka, izdanih u drugoj državi članici.
+(6) U slučaju opravdane sumnje, kada je dokaz o formalnom obrazovanju izdala nadležna pravna osoba jedne države članice, a uključuje osposobljavanje provedeno u cijelosti ili djelomično u pravnoj osobi osnovanoj na području druge države članice, nadležno tijelo ima pravo od nadležne pravne osobe koja je izdala dokaz zatražiti potvrdu o tome:
+a) je li program osposobljavanja proveden u pravnoj osobi jedne države članice potvrdila nadležna pravna osoba druge države članice koja je izdala dokaz
+b) je li dokaz o formalnom obrazovanju jednak onome koji bi bio izdan da je osposobljavanje u cijelosti izvedeno u državi članici koja je izdala dokaz i
+c) dodjeljuju li se dokazom o formalnom obrazovanju jednaka prava na području države članice koja je izdala dokaz.
+(7) U slučaju opravdane sumnje, nadležno tijelo može od nadležnog tijela matične države članice putem IMI sustava zatražiti potvrdu da kandidat nema prekid ili zabranu obavljanja profesije zbog teže povrede pravila struke ili zbog osude za kazneno djelo povezano s obavljanjem profesionalnih djelatnosti.
+(8) Zahtjev iz stavka 1. ovoga članka i dokazi iz stavka 3. točke b) ovoga članka podnose se u ovjerenoj preslici i ovjerenom prijevodu na hrvatski jezik. Ostali dokazi iz stavka 3. točke a) ovoga članka i stavka 4. ovoga članka podnose se u običnoj preslici i neovjerenom prijevodu.
+(9) U slučaju reguliranih profesija iz glave IV. ovoga Zakona, dokaz iz stavka 3. točke b) ovoga članka podnosi se u ovjerenoj preslici i u neovjerenom prijevodu. Ako kandidat nije u mogućnosti podnijeti ovjerenu presliku dokaza iz stavka 3. točke b) ovoga članka, nadležno tijelo provjerit će sadržaj i autentičnost dokaza u suradnji s nadležnim tijelima matične države članice kandidata, koristeći se IMI sustavom.
+(10) Nadležno tijelo, ako je to opravdano, može zahtijevati napredni elektronički potpis, sukladno posebnim propisima kojima se regulira elektronički potpis, za provođenje svih postupaka koji se provode elektroničkim putem.

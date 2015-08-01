@@ -1,0 +1,4 @@
+# Članak 62.
+(1) U slučaju kada je kod određenih djelatnosti za priznavanje određene inozemne stručne kvalifikacije dovoljno stručno iskustvo koje pokazuje opće i/ili stručno znanje i vještine, nadležno tijelo može kandidatu priznati prethodno bavljenje tom djelatnošću u drugoj državi članici kao dovoljan dokaz kompetencija.
+(2) Ako se utvrde bitne razlike u stečenim ishodima učenja i pripadajućim kompetencijama kandidata, koje je stekao u matičnoj državi članici, uključujući i opće i/ili stručno znanje i vještine, odnosno stručno iskustvo, nadležna tijela mogu zatražiti dodatno osposobljavanje ili polaganje određenog ispita.
+(3) U slučaju djelatnosti iz Priloga IV. Direktive kada kandidat ne ispunjava uvjete iz članaka 63., 64. i 65. ovoga Zakona, njegove stručne kvalifikacije podliježu postupku priznavanja iz glave III. ovoga Zakona.

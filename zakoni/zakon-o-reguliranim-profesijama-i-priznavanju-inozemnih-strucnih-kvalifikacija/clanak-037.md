@@ -1,0 +1,3 @@
+# Članak 37.
+(1) Pristup osposobljavanju za primalje podliježe posjedovanju dokaza o završenom općem obrazovanju u trajanju od najmanje 12 godina koje omogućava pristup visokom učilištu u Republici Hrvatskoj ili drugoj državi članici.
+(2) Osposobljavanje za primalje minimalno obuhvaća ukupno završene najmanje tri godine teorijskog i praktičnog obrazovanja, koje može biti iskazano u odgovarajućim ECTS bodovima i koje obuhvaća najmanje 4600 sati teorijskog i praktičnog osposobljavanja, koje se odvija u sklopu studija u punoj nastavnoj satnici. Trajanje kliničkog osposobljavanja predstavlja najmanje jednu trećinu programa.

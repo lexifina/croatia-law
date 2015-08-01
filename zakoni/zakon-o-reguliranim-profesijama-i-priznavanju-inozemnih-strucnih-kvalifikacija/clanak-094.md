@@ -1,0 +1,4 @@
+# Članak 94.
+(1) Bazu podataka iz članka 76. ovoga Zakona, sa sadržajem iz stavka 1. točaka a), e) i f) istoga članka, centar za pomoć iz članka 75. ovoga Zakona dužan je uspostaviti u roku od tri mjeseca od dana stupanja na snagu ovoga Zakona.
+(2) Detaljan sadržaj baze podataka te način i postupak popunjavanja baze podataka iz članka 76. ovoga Zakona centar za pomoć iz članka 75. ovoga Zakona dužan je propisati svojim općim aktom u roku od tri mjeseca od dana stupanja na snagu ovoga Zakona.
+(3) Nadležna tijela dužna su odrediti osobu iz članka 76. stavka 4. ovoga Zakona čija je zadaća davati potrebne informacije centru za pomoć iz članka 75. ovoga Zakona te popunjavati bazu podataka iz članka 76. stavka 1. točaka b), c) i d) ovoga Zakona u roku od tri mjeseca od stupanja na snagu ovoga Zakona.

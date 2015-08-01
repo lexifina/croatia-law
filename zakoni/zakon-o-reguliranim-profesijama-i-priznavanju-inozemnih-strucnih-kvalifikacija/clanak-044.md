@@ -1,0 +1,3 @@
+# Članak 44.
+Iznimno od odredbe članka 43. ovoga Zakona, smatra se da su ispunjene odredbe članka 22. ovoga Zakona i u slučaju osposobljavanja koje je dio programa socijalnih poboljšanja ili izvanrednog sveučilišnog studija koji ispunjava zahtjeve iz članka 43. stavka 2. ovoga Zakona, što se potvrđuje ispitom iz arhitekture koji položi nositelj stručne kvalifikacije koji je sedam ili više godina radio u području arhitekture, pod nadzorom arhitekta ili arhitektonskog ureda. Taj ispit mora biti na sveučilišnoj razini obrazovanja i istovjetan završnom ispitu iz članka 43. stavka 1. točke b) ovoga Zakona.
+1.4.3. Obavljanje poslova arhitekata

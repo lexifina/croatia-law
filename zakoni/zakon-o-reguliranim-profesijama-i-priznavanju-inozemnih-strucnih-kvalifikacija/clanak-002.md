@@ -1,0 +1,2 @@
+# Članak 2.
+Ovim se Zakonom u pravni poredak Republike Hrvatske prenosi Direktiva 2005/36/EZ Europskog parlamenta i Vijeća od 7. rujna 2005. o priznavanju stručnih kvalifikacija (Tekst značajan za EGP) (SL L 255, 30. 9. 2005.) kako je zadnje izmijenjena i dopunjena Direktivom 2013/55/EU Europskog parlamenta i Vijeća od 20. studenoga 2013. o izmjeni Direktive 2005/36/EZ o priznavanju stručnih kvalifikacija i Uredbe (EU) br. 1024/2012 o administrativnoj suradnji putem Informacijskog sustava unutarnjeg tržišta (»Uredba IMI«) (Tekst značajan za EGP) (SL L 354, 28. 12. 2013).

@@ -1,0 +1,6 @@
+# Članak 71.
+(1) Nadležno tijelo na zahtjev nositelja stručne kvalifikacije može odobriti, u svakom pojedinačnom slučaju, djelomičan pristup određenoj profesionalnoj djelatnosti na području Republike Hrvatske, pod uvjetom da su kumulativno ispunjeni sljedeći uvjeti:
+a) da je nositelj stručne kvalifikacije potpuno kvalificiran za obavljanje profesionalne djelatnosti u matičnoj državi članici za koju traži djelomičan pristup u Republici Hrvatskoj
+b) da su razlike između profesionalne djelatnosti koja se obavlja u matičnoj državi članici i regulirane profesije u Republici Hrvatskoj toliko velike da bi primjena dopunskih mjera iz članka 18. ovoga Zakona značila da se od kandidata zahtijeva da završi cijeli program obrazovanja i osposobljavanja potreban u Republici Hrvatskoj kako bi imao pristup cjelokupnoj reguliranoj profesiji u Republici Hrvatskoj i
+c) da se profesionalnu djelatnost objektivno može razdvojiti od ostalih djelatnosti koje pripadaju reguliranoj profesiji u Republici Hrvatskoj, pri čemu nadležno tijelo uzima u obzir činjenicu može li se profesionalna djelatnost obavljati samostalno u matičnoj državi članici.
+(2) Nadležno tijelo može odbiti zahtjev za djelomičan pristup ako postoje opravdani razlozi koje je kao takve prepoznala sudska praksa Suda Europske unije pod uvjetom da se na taj način može postići svrha ovoga Zakona.
