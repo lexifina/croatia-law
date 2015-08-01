@@ -1,0 +1,1 @@
+Na temelju članka 45. stavka 6. Zakona o financiranju jedinica lokalne i područne (regionalne) samouprave (»Narodne novine« broj 117/93, 69/97, 33/00, 73/00, 127/00, 59/01, 107/01, 117/01, 150/02, 147/03, 132/06, 26/07, 73/08, 25/12 i 147/14), potpredsjednik Vlade Republike Hrvatske i ministar regionalnoga razvoja i fondova Europske unije donosi
