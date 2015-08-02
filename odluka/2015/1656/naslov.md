@@ -1,0 +1,1 @@
+Odluka o davanju odobrenja Karlovačkoj županiji, Varaždinskoj županiji i Primorsko-goranskoj županiji za sudjelovanje u Europskoj grupaciji za teritorijalnu suradnju pod nazivom "Srednjoeuropski transportni koridor Europska grupacija za teritorijalnu suradnju s ograničenom odgovornošću"
