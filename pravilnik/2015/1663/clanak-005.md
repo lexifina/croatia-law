@@ -1,0 +1,2 @@
+# Članak 5.
+Troškove provedbe analize uzorka hrane i predmeta opće uporabe koji su uzeti prilikom službene kontrole uvoza snosi uvoznik pošiljke. Troškovi se plaćaju izravno laboratoriju, na temelju izdanog računa od strane laboratorija u smislu članka 25. Zakona o službenim kontrolama koje se provode sukladno propisima o hrani, hrani za životinje, o zdravlju i dobrobiti životinja (»Narodne novine«, broj 81/2013 i 14/2014) te članka 32. Zakona o predmetima opće uporabe (»Narodne novine«, broj 39/2013 i 47/2014).

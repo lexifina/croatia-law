@@ -1,0 +1,1 @@
+Na temelju članka 25. stavka 6. Zakona o službenim kontrolama koje se provode sukladno propisima o hrani, hrani za životinje, o zdravlju i dobrobiti životinja (»Narodne novine«, broj 81/2013 i 14/2014) i članka 46. stavka 6. Zakona o sanitarnoj inspekciji (»Narodne novine«, broj 113/2008 i 88/2010), ministar zdravlja donosi
