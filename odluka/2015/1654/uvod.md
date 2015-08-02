@@ -1,0 +1,1 @@
+Na temelju članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/2011 i 119/2014) i članka 56. stavka 8. Zakona o međunarodnoj i privremenoj zaštiti (»Narodne novine«, broj 70/2015), Vlada Republike Hrvatske je na sjednici održanoj 30. srpnja 2015. godine donijela
