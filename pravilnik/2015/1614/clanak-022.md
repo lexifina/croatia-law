@@ -1,0 +1,2 @@
+# Članak 22.
+Stupanjem na snagu ovog Pravilnika prestaje važiti Pravilnik o načinu zaštite osoba, imovine i objekata sudova (»Narodne novine« broj 88/12), osim odredbi glave IV. Osposobljavanje i usavršavanje službenika pravosudne policije Ministarstva pravosuđa, koje ostaju na snazi do donošenja pravilnika o obuci službenika pravosudne policije na temelju članka 115. stavka 1. Zakona o sudovima (»Narodne novine«, broj 28/13 i 33/15).

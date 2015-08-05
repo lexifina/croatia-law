@@ -1,0 +1,3 @@
+## III. PRIJELAZNE I ZAVRŠNE ODREDBE
+# Članak 21.
+Odredbe ovog Pravilnika o načinu osiguranja osoba, imovine i objekata sudova i državnih odvjetništava primjenjuju se i na zaposlenike pravnih osoba ovlaštenih za poslove zaštite i osiguranja kada, sukladno članku 113. stavku 2. Zakona o sudovima (»Narodne novine«, broj 28/13 i 33/15) i članku 49. stavak 1. Zakona o državnom odvjetništvu (»Narodne novine«, broj 76/09, 153/09, 116/10, 145/10, 57/11, 130/11, 72/13, 148/13 i 33/15), uz suglasnost ministra pravosuđa obavljaju poslove osiguranja osoba, imovine i objekata sudova i državnih odvjetništava ako nije moguće osigurati njihovo obavljanje od strane službenika pravosudne policije.

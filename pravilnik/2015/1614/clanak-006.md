@@ -1,0 +1,3 @@
+# Članak 6.
+Službenik pravosudne policije u obavljanju poslova osiguranja osoba, imovine i objekata sudova i državnih odvjetništava ima pravo uporabiti tjelesnu snagu radi savladavanja otpora osobe koja remeti javni red i mir, sprječavanja bijega, kao i radi sprječavanja ili odbijanja napada na sebe ili drugu osobu, odnosno oštećenja ili otuđenja objekta ili imovine koji osigurava.
+Uporabom tjelesne snage smatraju se zahvati za privođenje, udarac i druge vještine obrane ili napada kojima se dovodi pod kontrolu osoba koja svojim postupkom remeti javni red i mir, napada službenika pravosudne policije odnosno drugu osobu, te oštećuje ili otuđuje objekt ili imovinu suda ili državnog odvjetništva.

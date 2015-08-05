@@ -1,0 +1,1 @@
+Na temelju članka 113. stavka 11. Zakona o sudovima (»Narodne novine«, broj 28/13 i 33/15) i članka 49. stavka 5. Zakona o državnom odvjetništvu (»Narodne novine«, broj 76/09, 153/09, 116/10, 145/10, 57/11, 130/11, 72/13, 148/13 i 33/15), ministar pravosuđa donosi

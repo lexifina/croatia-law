@@ -1,0 +1,6 @@
+# Članak 12.
+O svakoj primjeni sredstava prisile službenik pravosudne policije dužan je podnijeti pisano izvješće neposredno nadređenom službeniku.
+Izvješće iz stavka 1. ovog članka sadrži: ime i prezime službenika pravosudne policije koji je primjenio sredstva prisile, vrijeme, mjesto i razloge odnosno okolnosti uporabe sredstava prisile, osobne podatke osobe prema kojoj su sredstva prisile primijenjena, opis posljedica prouzročenih primjenom sredstava prisile, podatke o ponuđenoj i pruženoj pomoći ozljeđenoj osobi, kao i druge bitne podatke o događaju.
+Neposredno nadređeni službenik dužan je odmah prikupiti potrebne obavijesti o okolnostima uporabe sredstava prisile te ih zajedno s pisanim izvješćem i mišljenjem dostaviti na ocjenu čelniku ustrojstvene jedinice Ministarstva pravosuđa nadležne za poslove osiguranja pravosudnih tijela ili drugoj osobi koju on ovlasti, a predsjedniku suda i državnom odvjetniku na znanje.
+Čelnik ustrojstvene jedinice Ministarstva pravosuđa nadležne za poslove osiguranja pravosudnih tijela ili druga osoba koju on ovlasti, dužna je u primjerenom roku od dana prijama pisanog izvješća donijeti pisanu odluku o opravdanosti i zakonitosti uporabe sredstava prisile.
+Evidencija o uporabi sredstava prisile vodi se u ustrojstvenoj jedinici Ministarstva pravosuđa nadležnoj za poslove osiguranja pravosudnih tijela.
