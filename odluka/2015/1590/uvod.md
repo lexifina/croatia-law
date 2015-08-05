@@ -1,0 +1,1 @@
+Na temelju članka 9. stavka 4. Zakona o izvlaštenju (»Narodne novine«, broj 9/94, 35/94, 112/2000, 114/2001, 79/2006, 45/2011 i 34/2012), u vezi s člankom 62. stavkom 1. Zakona o izvlaštenju i određivanju naknade (»Narodne novine«, broj 74/2014), Vlada Republike Hrvatske je na sjednici održanoj 23. srpnja 2015. godine donijela
