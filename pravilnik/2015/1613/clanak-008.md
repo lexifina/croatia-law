@@ -1,0 +1,5 @@
+# Članak 8.
+Članak 125. mijenja se i glasi:
+»(1) Trošarinske proizvode te uređaje, opremu i drugu robu iz članka 124. ovoga Pravilnika prodaje, besplatno dodjeljuje, odnosno uništava nadležni područni carinski ured.
+(2) Na provedbu postupka javne prodaje, prodaje neposrednom pogodnom i internetske prodaje (aukcije) trošarinskih proizvoda te uređaja, opreme i druge robe na odgovarajući način se primjenjuju odredbe članaka 112. do 122. ovoga Pravilnika. Oduzete duhanske prerađevine i duhan mogu se neposredno prodati i ovlaštenom držatelju trošarinskog skladišta-proizvođaču koji će ga koristi kao sirovinu u proizvodnji novog trošarinskog proizvoda unutar kategorije duhanskih prerađevina te pravnim osobama koje su registrirane za obradu duhana u smislu duhanskih propisa.
+(3) Sredstva ostvarena prodajom trošarinskih proizvoda te uređaja, opreme i druge robe raspoređuju se tako da se naplati trošarina, zatim troškovi postupka, a ostatak sredstava prihod je državnog proračuna Republike Hrvatske.«.
