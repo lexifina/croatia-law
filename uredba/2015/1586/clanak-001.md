@@ -1,0 +1,2 @@
+# Članak 1.
+Danom stupanja na snagu ove Uredbe prestaje važiti Uredba o Komisiji Vlade Republike Hrvatske za rješavanje sporova o pravima općina, gradova i županija (»Narodne novine«, broj 37/94) i Lista arbitara Komisije Vlade Republike Hrvatske za rješavanje sporova o pravima općina, gradova i županija (»Narodne novine«, br. 44/2006 i 129/2009) koja je utvrđena kao zaseban akt Vlade Republike Hrvatske na temelju članka 4. Uredbe i sastavni je njezin dio.
