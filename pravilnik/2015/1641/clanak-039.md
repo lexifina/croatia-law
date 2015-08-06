@@ -1,0 +1,4 @@
+# Članak 39.
+(1) Na temelju podnesenog zahtjeva u skladu s člankom 38. stavak 4. ovoga Pravilnika Uprava nadležna za poslove sanitarne inspekcije upisuje subjekt odnosno objekt u poslovanju s hranom u Upisnik registriranih subjekata i objekata koji vodi ministarstvo nadležno za zdravlje i subjektu u poslovanju s hranom izdaje rješenje o upisu te izvod iz Upisnika registriranih subjekata i objekata.
+(2) Upisnik registriranih subjekata i objekata koji vodi ministarstvo nadležno za zdravlje sastavni je dio središnjega informacijskog sustava sanitarne inspekcije (SISSI).
+(3) Uprava nadležna za poslove sanitarne inspekcije na zahtjev subjekta u poslovanju s hranom može omogućiti podnošenje zahtjeva za registraciju putem javnog portala središnjega informacijskog sustava sanitarne inspekcije (SISSI) kao i pristup vlastitim podacima u Upisniku registriranih subjekata i objekata.
