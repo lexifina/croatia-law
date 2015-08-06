@@ -1,0 +1,2 @@
+# Članak 2.
+Ovim Pravilnikom se u pravni poredak Republike Hrvatske prenosi Okvirna odluka Vijeća 2006/960/PUP od 18. prosinca 2006. o pojednostavljenju razmjene informacija i obavještajnih podataka između tijela zaduženih za izvršavanje zakona u državama članicama Europske unije i Odluka Vijeća 2007/845/PUP od 6. prosinca 2007. o suradnji između ureda za oduzimanje imovinske koristi država članica u području praćenja i utvrđivanja imovinske koristi ostvarene kaznenim djelom ili druge imovine povezane s kaznenim djelom.

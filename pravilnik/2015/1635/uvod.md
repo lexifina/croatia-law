@@ -1,0 +1,1 @@
+Na temelju članka 7. stavka 2. i članka 13. stavka 3. Zakona o pojednostavljenju razmjene podataka između tijela država članica Europske unije nadležnih za provedbu zakona (»Narodne novine«, broj: 56/2015), ministar unutarnjih poslova donosi
