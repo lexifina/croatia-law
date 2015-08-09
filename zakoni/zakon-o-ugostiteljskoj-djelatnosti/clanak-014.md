@@ -1,0 +1,6 @@
+## Određivanje prostora i vanjskog izgleda ugostiteljskih objekata
+# Članak 14.
+(1) Predstavničko tijelo određuje prostore na kojima mogu biti ugostiteljski objekti u kiosku, nepokretnom vozilu i priključnom vozilu, šatoru, na klupi, kolicima i sličnim napravama opremljenim za pružanje ugostiteljskih usluga na javnim površinama. Na prostoru u privatnom vlasništvu isti ugostiteljski objekti mogu biti uz odobrenje jedinice lokalne samouprave.
+(2) Prostori iz stavka 1. ovoga članka ne mogu biti na udaljenosti manjoj od 100 m od postojećega ugostiteljskog objekta u građevini, zasebnom dijelu građevine ili poslovnom prostoru u kojem se obavlja ugostiteljska djelatnost, osim u slučaju kada se radi o održavanju manifestacija, sajmova, prigodnih priredbi i slično.
+(3) Predstavničko tijelo može propisati vanjski izgled ugostiteljskih objekata iz stavka 1. ovoga članka vodeći računa o lokalnim ambijentalnim obilježjima.
+(4) Iznimno od stavaka 1. i 3. ovoga članka, ugostitelj može odrediti prostor i vanjski izgled ugostiteljskog objekta iz stavka 1. ovoga članka, bez ograničenja iz stavka 2. ovoga članka, ako se on nalazi u sklopu ugostiteljskog objekta iz skupine »Hoteli« koji se kategorizira zvjezdicama ili u sklopu ugostiteljskog objekta iz skupine »Kampovi« koji se kategoriziraju te ako takvo određivanje ne podliježe primjeni posebnih propisa.

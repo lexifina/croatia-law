@@ -1,0 +1,4 @@
+## Uvjeti za početak obavljanja djelatnosti
+# Članak 19.
+(1) Ugostitelj može obavljati ugostiteljsku djelatnost ako ishodi rješenje nadležnog ureda, odnosno Ministarstva da ugostiteljski objekt ispunjava uvjete propisane ovim Zakonom i propisima donesenim na temelju ovoga Zakona.
+(2) Iznimno od stavka 1. ovoga članka, ugostitelj može početi obavljati ugostiteljsku djelatnost u ugostiteljskim objektima iz skupine »Hoteli« i ugostiteljskim objektima iz skupine »Kampovi« koji se kategoriziraju, prije nego što od Ministarstva ishodi rješenje o kategoriji objekta, ako ishodi rješenje za vrstu te ako je za građevinu, koja je, odnosno u kojoj se nalazi ugostiteljski objekt, u skladu s posebnim propisima kojima se uređuje gradnja ishodio odgovarajući akt prema kojem se građevina smije početi rabiti.

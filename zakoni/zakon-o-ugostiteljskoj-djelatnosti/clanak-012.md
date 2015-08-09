@@ -1,0 +1,4 @@
+## Obavljanje djelatnosti izvan ugostiteljskog objekta
+# Članak 12.
+(1) Ugostitelj može povremeno (za vrijeme trajanja manifestacija, sajmova, prigodnih priredbi i slično) izvan svoga ugostiteljskog objekta pružati ugostiteljske usluge, sukladno već ishođenom rješenju nadležnog ureda, odnosno Ministarstva, uz odobrenje jedinice lokalne samouprave.
+(2) Sudionici proslava i manifestacija koje u promidžbeno-turističku svrhu organiziraju turističke zajednice i/ili jedinice lokalne samouprave ili drugi organizator uz odobrenje jedinice lokalne samouprave, mogu na tim događanjima pružati ugostiteljske usluge pripremanja i usluživanja jela, pića i napitaka. Sudionici proslava i manifestacija, pored ugostitelja i obiteljskih poljoprivrednih gospodarstava, mogu biti i pravne osobe, trgovci pojedinci i fizičke osobe – obrtnici, koji nisu ugostitelji, uz obvezu isticanja i pridržavanja istaknutih cijena te izdavanja čitljivog i točnog računa za pruženu uslugu.

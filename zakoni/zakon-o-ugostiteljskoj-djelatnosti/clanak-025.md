@@ -1,0 +1,6 @@
+## Privremena rješenja
+# Članak 25.
+(1) Iznimno, ako je za zgradu u kojoj će se obavljati ugostiteljska djelatnost u roku podnesen zahtjev za pokretanje postupka ozakonjenja nezakonito izgrađene građevine nadležnom upravnom tijelu za izdavanje rješenja o izvedenom stanju, sukladno posebnom propisu kojim je uređeno postupanje s nezakonito izgrađenim zgradama, ugostitelju će se, ako ispunjava uvjete iz članka 24. stavka 1. točaka 1., 3. i 4. ovoga Zakona, izdati privremeno rješenje o obavljanju ugostiteljske djelatnosti u nekoj od vrsta ugostiteljskog objekta, do izvršnosti rješenja kojim će se odlučiti o zahtjevu za donošenje rješenja o izvedenom stanju, a najdulje do 31. prosinca 2016.
+(2) Rješenje iz stavka 1. ovoga članka kojim se usvaja zahtjev upisuje se u Središnji registar.
+(3) Na rješenje nadležnog ureda iz stavka 1. ovoga članka stranka ima pravo izjaviti žalbu Ministarstvu.
+(4) Primjerak izvršnog privremenog rješenja iz stavka 1. ovoga članka dostavlja se mjesno nadležnoj službi turističke inspekcije Ministarstva, nadležnoj ispostavi područnog ureda Ministarstva financija, Porezne uprave, nadležnoj ispostavi sanitarne inspekcije Ministarstva zdravlja te Državnom zavodu za statistiku, a za ugostiteljske objekte u kojima se pruža usluga smještaja i turističkoj zajednici toga područja.

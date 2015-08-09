@@ -1,0 +1,7 @@
+## Zabrana kampiranja
+# Članak 45.
+(1) Ako u provedbi inspekcijskog nadzora turistički inspektor utvrdi da osoba kampira na zemljištu u privatnom vlasništvu, izvan kampova iz skupine »Kampovi« i kampova u domaćinstvu i na obiteljskim poljoprivrednim gospodarstvima, ili na javnoj površini izvan prostora za kampiranje određenih u skladu s člankom 29. stavkom 3. ovoga Zakona, usmenim rješenjem u zapisniku, koje će izreći vlasniku kamp-kućice, kamp-prikolice i druge kamp-opreme ili njegovom predstavniku, zabranit će na rok od 60 dana kampiranje i u svrhu kampiranja postavljanje kamp-opreme na tom zemljištu.
+(2) Rješenje iz stavka 1. ovoga članka izvršava se odmah pečaćenjem kamp-opreme (šatora, kamp-prikolice, kamp-kućice, pokretne kućice, autodoma i druge odgovarajuće opreme za smještaj na otvorenom prostoru) ili na drugi pogodan način.
+(3) Otpravak usmenog rješenja iz stavka 1. ovoga članka turistički inspektor je dužan otpremiti stranci u pisanom obliku u roku od osam dana od dana izricanja usmenog rješenja. Žalba se može izjaviti samo na pisani otpravak rješenja.
+(4) U slučaju izvršenja usmenog rješenja pečaćenjem, osoba iz stavka 1. ovoga članka dužna je osigurati iznošenje pokvarljivih namirnica te poduzeti i osigurati sve sigurnosne i druge mjere kako ne bi došlo do štete. U slučaju da osoba iz stavka 1. ovoga članka propusti poduzeti navedene mjere, odgovorna je za nastanak bilo kakve štete.
+(5) Žalba izjavljena protiv rješenja iz stavka 3. ovoga članka ne odgađa izvršenje rješenja.
