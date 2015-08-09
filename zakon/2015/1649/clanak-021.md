@@ -1,0 +1,6 @@
+# Članak 21.
+Naslov iznad članka 33. mijenja se i glasi: »Naknada za ponovnu uporabu informacija knjižnica, muzeja i arhiva«.
+Članak 33. mijenja se i glasi:
+»(1) Knjižnice, uključujući knjižnice ustanova visokog obrazovanja, muzeji i arhivi mogu korisniku naplatiti trošak uz trošak iz članka 32. stavka 2. ovoga Zakona u skladu s objektivnim, jasnim i provjerljivim kriterijima za izračun troškova ponovne uporabe informacija. Troškovi se izračunavaju u skladu s računovodstvenim pravilima koja se primjenjuju na dotična tijela javne vlasti.
+(2) Ukupni godišnji prihod knjižnica, uključujući knjižnice ustanova visokog obrazovanja, muzeja i arhiva ostvaren po osnovi naknade troškova temeljem stavka 1. ovoga članka ne smije prelaziti troškove prikupljanja, izrade, reprodukcije, širenja, očuvanja i prava na otpis, uključujući razuman povrat ulaganja. Tijelo javne vlasti dužno je revidirati način izračuna naknade troškova na godišnjoj razini.
+(3) Knjižnice, uključujući knjižnice ustanova visokog obrazovanja, muzeji i arhivi dužni su na svojim internetskim stranicama informirati korisnike o kriterijima za naplatu troškova iz članka 19. stavka 3. ovoga Zakona i kriterijima o načinu izračuna troškova iz stavka 1. ovoga članka te o stvarno naplaćenom iznosu troškova ponovne uporabe informacija na godišnjoj razini.«.
