@@ -1,0 +1,2 @@
+# Članak 9.
+U članku 34. iza riječi: »u okviru nadležnosti propisane zakonom,« dodaju se riječi: »provodi nadzor nad zakonitošću rada Hrvatskog zavoda za zdravstveno osiguranje u provedbi Zakona o rodiljnim i roditeljskim potporama, prikuplja i obrađuje mjesečna izvješća Hrvatskog zavoda za zdravstveno osiguranje o broju korisnika pojedinih prava i iznosu utrošenih sredstava prema namjeni temeljem Zakona o rodiljnim i roditeljskim potporama,«.
