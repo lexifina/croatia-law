@@ -1,0 +1,3 @@
+# Članak 7.
+Ministarstvo je odgovorno za osiguranje redovitoga rada e-Matice uključujući poslove računalne i komunikacijske infrastrukture te tehničku potporu sustavu, sigurnost sustava te pohranu podataka i korisničku potporu, a sve u skladu s važećim zakonskim propisima i pravilima struke.
+Ministarstvo može, na temelju posebne odluke za obavljanje poslova redovitoga funkcioniranja koji uključuju tehničku potporu sustavu, sigurnost sustava, raspoloživost sustava te pohranu podataka, a sve u skladu s važećim zakonskim propisima i pravilima struke, ovlastiti drugu ustanovu iz sustava obrazovanja i znanosti.

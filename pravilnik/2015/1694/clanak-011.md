@@ -1,0 +1,4 @@
+# Članak 11.
+Pristup podacima, unos podataka i razine uvida u podatke pohranjene u Upisniku ustanova, Evidenciji odgojno-obrazovnoga rada, Upisniku učenika i Upisniku djelatnika dopušten je samo ovlaštenim djelatnicima ustanove, ovlaštenim djelatnicima Ministarstva te ovlaštenim osobama zaduženima za održavanje i razvoj sustava te korisničku potporu.
+Ovlaštene osobe koje pristupaju ili izmjenjuju podatke pohranjene u e-Matici obvezuju se rukovati tim podacima sukladno zakonskim propisima te ih ne zloupotrebljavati. Podaci se mogu davati trećim stranama samo na način opisan u članku 12.
+Uz osobe iz stavka 1. ovog članka Ministarstvo može za uvid u podatke pohranjene u Upisniku ustanova, Evidenciji odgojno-obrazovnoga rada, Upisniku učenika te Upisniku radnika ovlastiti i druge stručne osobe Ministarstva kada je to potrebno radi nesmetanog rješavanja određenih pitanja i zadataka iz njihova djelokruga.
