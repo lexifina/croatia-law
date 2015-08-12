@@ -1,0 +1,2 @@
+# Članak 17.
+(1) Ispred članka 21. dodaje se naslov: »IZDAVANJE I EVIDENCIJA UVJERENJA O USPJEŠNO POLOŽENOM POMOĆNIČKOM ISPITU«.
