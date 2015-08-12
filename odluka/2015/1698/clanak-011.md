@@ -1,0 +1,2 @@
+# Članak 11.
+Iskaznica iz članka 3. ove Odluke izdavat će se osiguranim osobama sukcesivno po pojedinim kategorijama kroz razdoblje od 5 godina, počevši od dana stupanja na snagu ove Odluke, a u skladu s planom zamjene iskaznica iz članaka 4., 6. i 6.a Odluke o sadržaju i obliku isprave kojom se dokazuje status osigurane osobe Hrvatskog zavoda za zdravstveno osiguranje (»Narodne novine«, broj 4/07., 91/09., 113/09., 140/09., 4/10., 13/10., 43/10., 29/11. i 147/14.) utvrđenim posebnom odlukom Upravnog vijeća Zavoda.
