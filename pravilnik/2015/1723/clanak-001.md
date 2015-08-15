@@ -1,0 +1,2 @@
+# Članak 1.
+Ovim Pravilnikom propisuje se oblik, sadržaj i način vođenja očevidnika o gospodarskom ribolovu na moru i iskrcajne deklaracije (u daljnjem tekstu: očevidnik) i izvješća o ulovu (u daljnjem tekstu: izvješće) koje moraju voditi pravne i fizičke osobe koje obavljaju gospodarski ribolov na moru (u daljnjem tekstu: ovlaštenici povlastice) i fizičke osobe koje obavljaju mali obalni ribolov (u daljnjem tekstu: mali obalni ribari), te način dostavljanja ispunjenih očevidnika i izvješća.
