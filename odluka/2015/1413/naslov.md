@@ -1,0 +1,1 @@
+Odluka o postavljanju izvanredne i opunomoćene veleposlanice Republike Hrvatske - stalne predstavnice u Stalnoj misiji Republike Hrvatske pri Uredu Ujedinjenih naroda, i pri Svjetskoj trgovinskoj organizaciji (WTO), sa sjedištem u Ženevi

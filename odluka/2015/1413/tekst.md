@@ -1,0 +1,2 @@
+Dr. sc. VESNA BATISTIĆ KOS postavlja se za izvanrednu i opunomoćenu veleposlanicu - stalnu predstavnicu u Stalnoj misiji Republike Hrvatske pri Uredu Ujedinjenih naroda, sa sjedištem u Ženevi, i za stalnu predstavnicu Republike Hrvatske pri Svjetskoj trgovinskoj organizaciji (WTO), sa sjedištem u Ženevi, u svojstvu izvanredne i opunomoćene veleposlanice.
+Ova Odluka stupa na snagu 15. kolovoza 2015. godine.
