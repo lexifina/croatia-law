@@ -1,0 +1,5 @@
+# Članak 14.
+(1) Obveznik dostave podataka prikuplja potrebne podatke učestalošću određenom posebnim propisima, da bi se za svaki ispust odredilo ispuštanje i prijenos izvan mjesta nastanka za koja se dostavljaju podaci sukladno članku 9. ovoga Pravilnika.
+(2) Za prikupljanje podataka iz članka 9. ovoga Pravilnika obveznik dostave podataka dužan je primijeniti najbolje raspoložive informacije što može uključivati praćenje ispuštanja i prijenosa izvan mjesta nastanka, emisijske faktore, bilance tvari, procjene i druge metode u skladu s međunarodno priznatim metodama, ako su iste dostupne.
+(3) Obveznik dostave podataka dužan je najmanje pet godina čuvati podatke na temelju kojih su određena ispuštanja u zrak, vode i/ili more, tlo, nastanak otpada i prijenos izvan mjesta nastanka te opis metode primijenjene prilikom prikupljanja podataka, kao i sve potrebne informacije.
+(4) Obveznik dostave podataka odgovoran je za točnost podataka dostavljenih nadležnom tijelu te isti moraju biti potpuni, dosljedni i vjerodostojni.

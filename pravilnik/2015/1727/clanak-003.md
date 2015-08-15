@@ -1,0 +1,2 @@
+# Članak 3.
+Podaci iz ROO koriste se za osiguravanje pravovremenosti, transparentnosti, točnosti, dosljednosti, usporedivosti i potpunosti podataka potrebnih za izvješćivanje o ispuštanjima onečišćujućih tvari u sastavnice okoliša kao i nastanku i prijenosu otpada izvan mjesta nastanka te gospodarenju otpadom sukladno posebnim propisima kojima se uređuju područja zaštite okoliša, zraka, otpada i voda.

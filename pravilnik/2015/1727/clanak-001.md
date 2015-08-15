@@ -1,0 +1,3 @@
+## I. TEMELJNE ODREDBE
+# Članak 1.
+Ovim Pravilnikom propisuje se obvezni sadržaj i način vođenja registra onečišćavanja okoliša (u daljnjem tekstu: ROO) obveznici dostave podataka u ROO, način, metodologija i rokovi prikupljanja i dostavljanja podataka o emisijama odnosno ispuštanju, prijenosu i odlaganju onečišćujućih tvari u okoliš i otpadu, podaci o onečišćivaču, operateru postrojenja, organizacijskoj jedinici u sastavu onečišćivača, rok i način obavještavanja javnosti, način provjere i osiguranja kvalitete podataka koji se dostavljaju i vode u registru, rok čuvanja očevidnika iz kojih su dostavljeni podaci, obavljanje stručnih poslova vođenja ROO te druga pitanja s tim u vezi.

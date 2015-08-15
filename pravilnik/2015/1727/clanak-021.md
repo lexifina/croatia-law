@@ -1,0 +1,6 @@
+# Članak 21.
+(1) Ispunjeni obrazac iz članka 15. podstavka 1. ovoga Pravilnika dostavlja se nadležnom tijelu elektroničkim putem na čijem području se nalazi sjedište operatera do 31. ožujka tekuće godine za prethodnu kalendarsku godinu.
+(2) Ispunjeni obrasci iz članka 15. podstavak 2., članaka 16., 17., 18., 19. i 20. ovoga Pravilnika dostavljaju se elektroničkim putem do 31. ožujka tekuće godine za prethodnu kalendarsku godinu nadležnom tijelu na čijem području se nalazi lokacija organizacijske jedinice.
+(3) Iznimno od stavka 2. ovoga članka, davatelj javne usluge prikupljanja miješanog komunalnog otpada i biorazgradivog komunalnog otpada te osoba koja upravlja mobilnim reciklažnim dvorištem dostavlja odgovarajuće obrasce iz stavka 2. ovoga članka nadležnom tijelu na čijem području pruža tu odgovarajuću uslugu.
+(4) Nadležno tijelo Agenciji verifikacijom potvrđuje provedenu kontrolu kvalitete podataka te time provodi dostavu podataka u elektroničkom obliku do 15. svibnja tekuće godine za prethodnu kalendarsku godinu.
+(5) Izmjena podataka obveznika nakon obavljene verifikacije iznimno je moguća na zahtjev nadležnog tijela koje Agenciji upućuje zahtjev za otključavanje baze sa svrhom izmjene podataka od strane obveznika. U slučaju odobrenja naloga obveznik može mijenjati podatke, a nadležno tijelo postupa sukladno članku 24. stavku 1. ovoga Pravilnika.
