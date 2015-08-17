@@ -1,0 +1,6 @@
+## Ispravak, izmjena ili opoziv Europske potvrde o nasljeđivanju
+# Članak 9.
+(1) Ispravak, izmjenu ili opoziv potvrde u smislu članka 71. Uredbe (EU) br. 650/2012 provodi općinski sud, odnosno javni bilježnik koji je izdao potvrdu, po službenoj dužnosti ili na zahtjev osobe koja dokaže pravni interes.
+(2) Protiv rješenja javnog bilježnika o ispravku, izmijeni ili opozivu potvrde dopušten je prigovor o kojem odlučuje općinski sud. Prilikom odlučivanja o prigovoru na odgovarajući način se primjenjuju odredbe Zakona o nasljeđivanju koje se odnose na postupak i odluke o prigovoru protiv rješenja o nasljeđivanju.
+(3) Ako javni bilježnik utvrdi da nisu ispunjene pretpostavke za ispravak, izmjenu ili opoziv potvrde, zahtjev zajedno sa spisom predmeta dostavit će radi odlučivanja općinskom sudu na čijem se području nalazi njegovo sjedište. Javni bilježnik dužan je pisano obrazložiti zašto smatra da nisu ispunjene pretpostavke za ispravak, izmjenu ili opoziv potvrde te izvijestiti podnositelja zahtjeva da je predmet upućen sudu.
+(4) Protiv rješenja općinskog suda o ispravku, izmijeni ili opozivu potvrde dopuštena je žalba o kojoj odlučuje županijski sud. Na postupak i odlučivanje o žalbi protiv rješenja općinskog suda na odgovarajući način primjenjuju se odredbe Zakona o nasljeđivanju koje se odnose na postupak i odluke o žalbi protiv rješenja o nasljeđivanju.
