@@ -1,0 +1,4 @@
+# Članak 10.
+(1) Pravna ili fizička osoba dužna je uz zahtjev za izdavanje dozvole za obavljanje energetske djelatnosti dostaviti Agenciji izvornike ili ovjerene preslike isprava nadležnih tijela kojima se dokazuje ispunjavanje uvjeta za obavljanje energetske djelatnosti te ugovora iz članka 5. stavka 3. i članka 6. stavka 3. ovoga Pravilnika.
+(2) Dokazi iz članka 9. stavka 1. podstavka 1., 4. i 5. na dan zaprimanja zahtjeva za izdavanje dozvole ne smiju biti stariji od 60 dana.
+(3) Ako pravna ili fizička osoba podnese više zahtjeva za izdavanje dozvole za obavljanje energetskih djelatnosti, i ako zahtjevi budu zaprimljeni unutar roka od 30 dana od dana zaprimanja prvog zahtjeva, Agencija može kao dokaze uz naknadno podnesene zahtjeve prihvatiti preslike dostavljenih dokaza, pod uvjetom da energetski subjekt uz naknadno podnesene zahtjeve da pisanu izjavu da su izvornici ili ovjerene preslike zahtijevanih dokaza, priloženi uz prvi zahtjev.

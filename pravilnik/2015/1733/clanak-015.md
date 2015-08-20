@@ -1,0 +1,4 @@
+# Članak 15.
+(1) Energetski subjekt kojem je izdana dozvola za obavljanje energetske djelatnosti dužan je kontinuirano održavati potreban stupanj tehničke kvalificiranosti, stručne osposobljenosti i financijske kvalificiranosti te druge uvjete na temelju kojih je izdana dozvola za obavljanje energetske djelatnosti, obavljati energetsku djelatnosti za koju je ishodio dozvolu na način propisan zakonom i podzakonskim propisima te pravodobno ispunjavati svoje obveze prema drugim energetskim subjektima, koji obavljaju svoju djelatnost kao javnu uslugu.
+(2) Agencija je ovlaštena obavljati nadzor i provjeru uvjeta iz stavka 1. ovoga članka kroz razdoblje važenja dozvole za obavljanje energetske djelatnosti.
+Izdavanje dozvole trgovcu električnom energijom, trgovcu plinom, trgovcu na veliko biogorivom, trgovcu na veliko naftnim derivatima i trgovcu na veliko ukapljenim naftnim plinom iz države članice Europske unije ili ugovorne strane Energetske zajednice

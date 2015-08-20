@@ -1,0 +1,2 @@
+# Članak 12.
+Agencija je dužna donijeti rješenje o zahtjevu za izdavanje dozvole za obavljanje energetske djelatnosti u roku od 30 dana od dana predaje Agenciji uredno ispunjenog zahtjeva i sve potrebne dokumentacije odnosno u roku od 60 dana od dana predaje Agenciji uredno ispunjenog zahtjeva i sve potrebne dokumentacije, ako je potrebno izvršiti provjeru podataka i pregled građevina i/ili opreme sukladno odredbi članka 20. ovoga Pravilnika.
