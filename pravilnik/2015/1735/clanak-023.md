@@ -1,0 +1,3 @@
+# Članak 23.
+(1) Proizvođač pića je dužan prilikom prvog stavljanja na tržište na području Republike Hrvatske novog pića pakiranog u ambalažu obuhvaćenu sustavom povratne naknade, u Registar dostaviti GTIN proizvoda te podatke o proizvođaču, proizvodu i ambalaži proizvoda sukladno Prilogu XII. ovog Pravilnika najkasnije 8 dana prije stavljanja novog pića na tržište.
+(2) Proizvođač pića je dužan najkasnije 8 dana prije stavljanja novog pića pakiranog u ambalažu obuhvaćenu sustavom povratne naknade na tržište na području Republike Hrvatske, Fondu dostaviti jedan uzorak ambalažne jedinice novog pića radi provjere usklađenosti ambalaže s propisanim uvjetima o označavanju iz ovog Pravilnika.

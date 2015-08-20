@@ -1,0 +1,59 @@
+## Pojmovi
+# Članak 4.
+(1) Pojmovi navedeni u ovom Pravilniku imaju sljedeće značenje:
+1. Ambalaža je svaki proizvod, bez obzira na prirodu materijala od kojeg je izrađen, koji se koristi za držanje, zaštitu, rukovanje, isporuku i predstavljanje robe, od sirovina do gotovih proizvoda, od proizvođača do potrošača. Ambalaža predstavlja i nepovratne predmete namijenjene za izradu ambalaže koja će se koristiti za spomenute namjene kao i pomoćna sredstva za pakiranje, koja služe za omatanje ili povezivanje robe, pakiranje, nepropusno zatvaranje, pripremu za otpremu i označavanje robe.
+Ambalaža može biti:
+- jednokratna ambalaža je ambalaža izrađena samo za jednu uporabu;
+- povratna ambalaža (višekratna) je ona ambalaža koja se, nakon što se isprazni, ponovno uporabljuje u istu svrhu i čiju višekratnu uporabu osigurava proizvođač sustavom pologa (kaucije) ili na neki drugi način;
+- višeslojna (kompozitna) ambalaža je ambalaža izrađena/načinjena iz različitih materijala koji se ne mogu odvojiti ručno;
+- prodajna ili primarna ambalaža je ambalaža u kojoj se proizvod prodaje ili daje konačnom potrošaču na prodajnom mjestu;
+- skupna ili sekundarna ambalaža je ambalaža koja sadrži više proizvoda u prodajnoj ili primarnoj ambalaži tako da je proizvod pristupačan potrošaču u skupini i pojedinačno ili koja služi samo u svrhu punjenja polica na prodajnom mjestu, a može se izdvojiti od proizvoda bez da utječe na njegova svojstva;
+- transportna ili tercijarna ambalaža je zaštitna ambalaža koja omogućava prijevoz, pretovar i rukovanje određenom količinom proizvoda pakiranog samo u prodajnoj ili u prodajnoj i skupnoj ambalaži. U ovu vrstu ambalaže ne spadaju spremnici (kontejneri) za cestovni, željeznički, brodski i zračni prijevoz robe;
+Ambalaža su također predmeti prema sljedećim kriterijima:
+- predmeti koji udovoljavaju navedenoj definiciji ambalaže ne dovodeći u pitanje ostale funkcije koje ambalaža može također obavljati, osim ako su predmeti sastavni dio proizvoda ili je nužno da sadrže, podržavaju ili čuvaju taj proizvod za vrijeme njegova trajanja i osim ako je namjena svih predmeta da se s proizvodom zajedno koriste, troše ili zbrinjavaju,
+- predmeti dizajnirani, odnosno zamišljeni i namijenjeni za punjenje na mjestu prodaje i predmeti za jednokratnu uporabu koji se prodaju, pune ili koji su dizajnirani/zamišljeni i namijenjeni za punjenje na mjestu prodaje, smatraju se ambalažom pod uvjetom da ispunjavaju funkciju ambalaže,
+- predmeti koji su sastavni dijelovi ambalaže i predmeti koji su kao pomoćni dijelovi uklopljeni u ambalažu smatraju se dijelom ambalaže u koju su uklopljeni. Pomoćni dijelovi koji su izravno obješeni ili pričvršćeni na proizvod i koji su u funkciji ambalaže smatraju se ambalažom, osim ako nisu sastavni dio toga proizvoda i namijenjeni da se s proizvodom zajedno koriste, troše ili odbacuju.
+Popis ilustrativnih primjera za primjenu gore navedenih kriterija radi pojašnjenja granica između toga što je ambalaža, odnosno što nije ambalaža naveden je u Prilogu I. ovoga Pravilnika;
+2. Ambalažni materijal je svaki materijal od kojeg se proizvodi ambalaža kao što su: staklo, plastika, papir, karton, drvo, metal, višeslojni (kompozitni) miješani materijali i drugi materijali;
+3. Automatizirani uređaj za preuzimanje otpadne ambalaže je aparat koji otpadnu ambalažu preuzima, identificira prema GTIN oznaci, razvrstava po vrsti ambalažnog materijala, zbija (drobi, plošti), sprema u spremnike i omogućava razmjenu podataka o preuzetoj otpadnoj ambalaži (u daljnjem tekstu: aparat za preuzimanje otpadne ambalaže).
+4. Cijena usluge sakupljanja je novčani iznos koji Fond plaća sakupljaču za obavljenu uslugu sakupljanja otpadne ambalaže predane na oporabu u sustavu kojim upravlja Fond;
+5. Energetska oporaba otpadne ambalaže je postupak oporabe u kojem se goriva otpadna ambalaža uporabljuje kao sredstvo za proizvodnju energije kroz neposredno spaljivanje, zajedno s drugim otpadom ili bez njega, ali s iskorištavanjem dobivene toplinske energije;
+6. Gospodarenje otpadnom ambalažom su djelatnosti sakupljanja, prijevoza, oporabe i zbrinjavanja i druge obrade otpadne ambalaže, uključujući nadzor nad tim postupcima te nadzor i mjere koje se provode na lokacijama nakon zbrinjavanja ostataka od oporabe otpadne ambalaže, te radnje koje poduzimaju posrednik ili trgovac otpadnom ambalažom;
+7. Gospodarski subjekti u smislu ovoga Pravilnika definirani su kako slijedi:
+- Agencija je Hrvatska agencija za okoliš i prirodu;
+- Ambalažer je pravna ili fizička osoba - obrtnik koja proizvodi ili uvozi ambalažu i stavlja je na tržište na području Republike Hrvatske;
+- Fond je Fond za zaštitu okoliša i energetsku učinkovitost, pravna osoba s javnim ovlastima koja obavlja poslove u svezi gospodarenja otpadnom ambalažom sukladno Zakonu i ovom Pravilniku;
+- Krajnji korisnik ili potrošač je pravna ili fizička osoba koja radi krajnje potrošnje odvaja proizvod od ambalaže te na taj način stvara otpadnu ambalažu, uključujući i prodavatelja koji zbog daljnje prodaje odvaja proizvod od ambalaže te na taj način stvara skupnu ili transportnu otpadnu ambalažu;
+- Mali proizvođač je pravna ili fizička osoba - obrtnik koja na profesionalnoj osnovi razvija, proizvodi, prerađuje, obrađuje, prodaje, unosi ili uvozi, odnosno stavlja na tržište na području Republike Hrvatske proizvode pakirane u ambalažu u količinama manjim od onih propisanih ovim Pravilnikom;
+- Obrađivač je obrađivač otpadne ambalaže koji je pravna ili fizička osoba - obrtnik koja sukladno Zakonu ima dozvolu za obavljanje djelatnosti obrade otpadne ambalaže;
+- Posjednik je posjednik otpadne ambalaže sukladno definiciji posjednika otpada kako je to određeno Zakonom;
+- Prodavatelj (trgovac) je pravna ili fizička osoba - obrtnik koja u okviru svoje trgovačke djelatnosti u dobavljačkom lancu proizvode u ambalaži, ambalažne materijale i ambalažu čini dostupnim na tržištu na području Republike Hrvatske; prodavatelj istovremeno može biti i proizvođač;
+- Proizvođač je proizvođač i uvoznik proizvoda koji je pravna ili fizička osoba - obrtnik koja na profesionalnoj osnovi razvija, proizvodi, prerađuje, obrađuje, prodaje, unosi ili uvozi, odnosno stavlja na tržište na području Republike Hrvatske proizvode pakirane u ambalažu;
+- Sakupljač je sakupljač otpadne ambalaže koji je pravna ili fizička osoba - obrtnik koja sukladno Zakonu ima dozvolu za obavljanje djelatnosti sakupljanja otpadne ambalaže i ima sklopljen ugovor s Fondom o obavljanju usluge sakupljanja otpadne ambalaže;
+8. GTIN (engl. - Global Trade Item Number) je broj globalne trgovačke jedinice;
+9. Ministar je ministar nadležan za zaštitu okoliša;
+10. Ministarstvo je ministarstvo nadležno za zaštitu okoliša;
+11. Naknade proizvođača su novčani iznosi koje proizvođač u sustavu kojim upravlja Fond uplaćuju Fondu prilikom stavljanja proizvoda pakiranih u ambalaži na tržište na području Republike Hrvatske.
+Naknade proizvođača prema ovom Pravilniku su:
+- Naknada gospodarenja otpadnom ambalažom (u daljnjem tekstu: naknada gospodarenja) je novčani iznos koji plaćaju proizvođači u svrhu pokrivanja troškova sakupljanja i obrade otpadne ambalaže u sustavu kojim upravlja Fond,
+- Povratna naknada je novčani iznos koji plaćaju proizvođači kao stimulativnu mjeru kojom se potiče posjednik da otpadnu ambalažu od pića preda prodavatelju koji u svojoj ponudi ima pića ili osobi koja upravlja reciklažnim dvorištem i za to primi propisani iznos povratne naknade;
+12. Namjerno dodavanje teških metala je namjerna uporaba tvari koja sadrži teške metale (olovo, kadmij, živa i šesterovalentni krom) u proizvodnji ambalaže ili sastavnog dijela ambalaže, pri čemu je njezina stalna prisutnost u konačnoj ambalaži ili sastavnom dijelu ambalaže poželjna kako bi se postigle specifične karakteristike, izgled ili kvaliteta ambalaže: Uporaba recikliranih materijala kao sirovina u proizvodnji novih ambalažnih materijala, pri čemu dio tih recikliranih materijala može sadržavati propisima uređene količine metala, ne smatra se namjernim dodavanjem teških metala;
+13. Obrada otpadne ambalaže su postupci oporabe ili zbrinjavanja ambalažnog otpada i postupci pripreme prije oporabe ili zbrinjavanja ambalažnog otpada;
+14. Odvojeno sakupljanje otpadne ambalaže je sakupljanje ambalažnog otpada na način da se ambalažni otpad odvaja prema njegovoj vrsti i svojstvima radi lakše obrade i očuvanja njegovih vrijednih svojstava;
+15. Omogućavanje dostupnosti na tržištu podrazumijeva svaku isporuku proizvoda za distribuciju, potrošnju ili uporabu na tržištu u Republici Hrvatskoj, uključujući internetsku prodaju i druge načine omogućavanja dostupnosti putem komunikacije na daljinu, za vlastite potrebe ili u okviru trgovačke djelatnosti, u zamjenu za plaćanje ili besplatno;
+16. Oporaba otpadne ambalaže je svaki postupak oporabe otpada u skladu sa Zakonom, koji je prikladan i primjenjiv za oporabu ambalažnog otpada radi njegova korištenja u materijalne i energetske svrhe, uključujući i recikliranje;
+17. Otpadna ambalaža (ambalažni otpad) je ambalaža koja je otpad u smislu Zakona, isključujući ostatke materijala koji nastaju pri proizvodnji ambalaže.
+18. Piće je alkoholno piće, bezalkoholno piće, stolna, mineralna i izvorska voda, voćni sirupi i ostali tekući proizvodi na voćnoj i drugoj bazi te bilo koji drugi dodatak koji pakiran zajedno s tekućom bazom čini cjelovitu jedinicu primarne ambalaže osim mlijeka i tekućih mliječnih proizvoda;
+19. Ponovna uporaba ambalaže je svaki postupak kojim ambalaža, koja je bila izrađena i oblikovana da u okviru svog vijeka trajanja podnese minimalni broj putovanja ili obrtanja, bude ponovno napunjena ili korištena za istu svrhu za koju je izrađena, sa ili bez potpore pomoćnih proizvoda prisutnih na tržištu koji bi ambalaži pomogli da se opet napuni. Takva ponovno uporabljena ambalaža će postati ambalažni otpad kad više ne bude podložna uporabi;
+20. Recikliranje otpadne ambalaže je svaki postupak oporabe otpadne ambalaže u materijal za proizvodnju nove ambalaže ili za druge svrhe, uključujući i organsko recikliranje a isključujući energetsku oporabu. Organsko recikliranje su aerobni (kompostiranje) ili anaerobni (proizvodnja bioplina) postupci obrade biorazgradivih dijelova ambalažnog otpada, pod kontroliranim uvjetima i uz korištenje mikroorganizama, tako da nastaju stabilizirani organski ostaci ili bioplin. Odlaganje otpadne ambalaže na odlagališta se ne smatra organskim recikliranjem.
+21. Sakupljanje otpadne ambalaže je prikupljanje otpadne ambalaže, uključujući prethodno razvrstavanje i skladištenje, a u svrhu prijevoza na obradu;.
+22. Slučajna prisutnost teških metala znači prisutnost teških metala kao nenamjerno unesenog sastojka ambalaže ili sastavnog dijela ambalaže;
+23. Sprečavanje nastanka ambalažnog otpada je smanjenje količine i negativnih utjecaja na okoliš, osobito razvojem »čistih« proizvoda i tehnologije, od:
+- materijala i tvari sadržanih u ambalaži i ambalažnom otpadu te
+- ambalaže i ambalažnog otpada pri proizvodnji ambalaže i pakiranju proizvoda u ambalažu, pri promociji, stavljanju na tržište, trgovini, distribuciji i uporabi ambalaže i proizvoda u ambalaži te pri oporabi ili zbrinjavanju otpadne ambalaže;
+24. Stavljanje na tržište je uvoz proizvoda na područje Republike Hrvatske odnosno prvo omogućavanje dostupnosti na tržištu proizvoda proizvedenih u Republici Hrvatskoj;
+25. Ugovor je ugovor koji je sklopljen između nadležnih tijela i zainteresiranih gospodarskih subjekata u svrhu postizanja ciljeva propisanih ovim Pravilnikom.
+26. Uredba je Uredba o gospodarenju otpadnom ambalažom;
+27. Zakon je Zakon o održivom gospodarenju otpadom;
+28. Zbrinjavanje ambalažnog otpada je svaki postupak zbrinjavanja otpada u skladu sa Zakonom, koji je prikladan i primjenjiv za zbrinjavanje ambalažnog otpada;
+(2) Izrazi koji se koriste u ovom Pravilniku, a imaju rodno značenje, odnose se jednako na ženski i muški rod.

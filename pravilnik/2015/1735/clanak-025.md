@@ -1,0 +1,3 @@
+# Članak 25.
+(1) Uputom o korištenju aparata za preuzimanje otpadne ambalaže Fond određuje tehničku specifikaciju i uvjete uporabe aparata za preuzimanje otpadne ambalaže, dimenzije otpadne ambalaže od pića koje se mogu preuzimati putem aparata za preuzimanje otpadne ambalaže te obavezni sadržaj Izvješća iz članka 24. stavka 8. ovoga Pravilnika, u roku od 30 dana od donošenja ovog Pravilnika.
+(2) Prodavatelj i osoba koja upravlja reciklažnim dvorištem može započeti preuzimanje otpadne ambalaže od pića putem aparata za preuzimanje otpadne ambalaže nakon što dokaže ispunjavanje uvjeta iz stavka 1. ovoga članka.
