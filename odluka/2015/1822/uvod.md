@@ -1,0 +1,1 @@
+Na temelju članka 81. stavka 2. točke 7. Zakona o obrtu (»Narodne novine« 143/2013) i članka 24. Statuta Hrvatske obrtničke komore (»Narodne novine« broj 106/14) Skupština Hrvatske obrtničke komore na 2. izvanrednoj elektroničkoj sjednici održanoj 20. kolovoza 2015. godine, donijela je
