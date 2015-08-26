@@ -1,0 +1,1 @@
+Na temelju članka 8. Zakona o prihvaćanju članstva Republike Hrvatske u Inter-američkoj banci za razvoj (»Narodne novine«, broj 94/93) i članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/2011 i 119/2014), Vlada Republike Hrvatske je na sjednici 26. kolovoza 2015. godine donijela
