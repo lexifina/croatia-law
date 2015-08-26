@@ -1,0 +1,1 @@
+Na temelju članka 20. stavka 7. Zakona o pomorskom dobru i morskim lukama (»Narodne novine«, br. 158/2003, 100/2004, 141/2006, 38/2009 i 123/2011) i članka 26. stavka 1. Zakona o koncesijama (»Narodne novine«, broj 143/2012), Vlada Republike Hrvatske je na sjednici održanoj 26. kolovoza 2015. godine donijela
