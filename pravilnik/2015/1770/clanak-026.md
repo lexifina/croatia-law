@@ -1,0 +1,8 @@
+## DIO PETI
+## PRIJAVE OBVEZNIH OSIGURANJA
+# Članak 26.
+(1) Na temelju rješenja Stručnog povjerenstva i potrebne dokumentacije uspostavlja se prijava o početku obveznog mirovinskog osiguranja, odnosno prijava o početku obveznog zdravstvenog osiguranja samostalnog umjetnika kojemu se doprinosi plaćaju iz sredstava proračuna Republike Hrvatske i kojemu je obveznik doprinosa i obveznik plaćanja doprinosa ministarstvo nadležno za poslove kulture.
+(2) Pravo na uplatu doprinosa samostalnom umjetniku priznaje se od 1. siječnja sljedeće godine, u odnosu na kalendarsku godinu u kojoj je podnesen zahtjev za priznavanje prava na uplatu doprinosa.
+(3) Iznimno, samostalni umjetnik može početi koristiti pravo na uplatu doprinosa nakon datuma propisanog stavkom 2. ovoga članka, odnosno nakon prestanka obveznog osiguranja po osnovi radnog odnosa (isteka otkaznog roka), bolovanja, rodiljnog, roditeljskog, posvojiteljskog, skrbničkog ili udomiteljskog dopusta, o čemu je obvezan obavijestiti HZSU, Hrvatski zavod za mirovinsko osiguranje (u daljnjem tekstu: HZMO) i Hrvatski zavod za zdravstveno osiguranje (u daljnjem tekstu: HZZO) te dostaviti potrebnu dokumentaciju za uspostavu prijava u rokovima propisanim posebnim propisima kojima se uređuje uspostavljanje prijave o početku obveznih osiguranja.
+(4) Ako samostalni umjetnik kojemu je priznato pravo na uplatu doprinosa ne obavijesti HZSU, HZMO i HZZO o nastanku okolnosti na osnovi kojih se uspostavlja prijava o početku obveznih osiguranja i ne dostavi potrebnu dokumentaciju u roku iz stavka 3. ovoga članka, rješenje o priznavanju toga prava ukinut će se.
+(5) Jedan primjerak rješenja iz stavka 1. ovoga članka dostavlja se HZMO-u i HZZO-u radi uspostave prijave o početku obveznih osiguranja.

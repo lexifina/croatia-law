@@ -1,0 +1,4 @@
+# Članak 11.
+(1) HZSU poziva postojeće umjetničke strukovne udruge, koje su do stupanja na snagu ovoga Pravilnika imenovale članove i zamjenike članova Stručnih povjerenstava i koje su upisane u Registar udruga Republike Hrvatske, da imenuju članove i zamjenike članova Stručnih povjerenstava prema područjima umjetničkog stvaralaštva, u skladu sa člankom 10. točkom 3. Pravilnika.
+(2) Ako pozvane umjetničke strukovne udruge ne imenuju i ne dostave HZSU-u popis članova i zamjenika članova Stručnih povjerenstava s potrebnim podatcima u roku od 30 dana od dana dostave obavijesti, Upravni odbor HZSU-a imenovat će i verificirati članove i zamjenike članova Stručnih povjerenstava.
+(3) Članom i zamjenikom člana Stručnog povjerenstva može biti imenovan samostalni umjetnik ili osoba koja je priznati kulturni djelatnik i stručnjak s područja kulture, a koja je svojim djelovanjem dala doprinos hrvatskoj kulturi i umjetnosti.
