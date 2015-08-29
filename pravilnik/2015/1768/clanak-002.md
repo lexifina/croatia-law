@@ -1,0 +1,3 @@
+# Članak 2.
+Ovim se Pravilnikom u pravni poredak Republike Hrvatske prenose sljedeće direktive:
+Direktiva Vijeća 98/24/EZ od 7. travnja 1998. godine o zaštiti zdravlja i sigurnosti radnika na radu od rizika povezanih s kemijskim sredstvima (Četrnaesta pojedinačna direktiva u smislu članka 16. stavka 1. Direktive 89/391/EEZ) (SL L 131, 5. 5. 1998.), kako je posljednji put izmijenjena Direktivom 2014/27/EU od 26. veljače 2014. o izmjeni Direktiva Vijeća 92/58/EEZ, 92/85/EEZ, 94/33/EZ, 98/24/EZ i Direktive 2004/37/EZ Europskog parlamenta i Vijeća kako bi se uskladile s Uredbom (EZ) br. 1272/2008 o razvrstavanju, označivanju i pakiranju tvari i smjesa. CELEX br. 31998L0024.
