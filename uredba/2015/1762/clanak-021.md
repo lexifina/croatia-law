@@ -1,0 +1,2 @@
+# Članak 21.
+Vlada Republike Hrvatske će posebnom odlukom prenijeti cjelokupnu imovinu Imunološkog zavoda d.d. iz Zagreba, Rockefellerova 2, na Zavod koji je sveopći pravni sljednik trgovačkog društva Imunološki zavod d.d., te sva prava i obveze vezane uz prenesenu imovinu, u roku od 8 dana od dana stupanja na snagu ugovora o prijenosu imovine Imunološkog zavoda d.d. na Republiku Hrvatsku, a upisom prijenosa imovine u sudski registar prestaje Imunološki zavod d.d.
