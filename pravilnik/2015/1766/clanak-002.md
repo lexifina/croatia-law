@@ -1,0 +1,3 @@
+# Članak 2.
+Ovim se Pravilnikom u pravni poredak Republike Hrvatske prenose sljedeće direktive:
+Direktiva 2004/37/EZ Europskog parlamenta i Vijeća od 29. travnja 2004. o zaštiti radnika od rizika zbog izloženosti karcinogenim ili mutagenim tvarima na radu (šesta pojedinačna direktiva u smislu članka 16. stavka 1. Direktive 89/391/EEZ) (kodificirana verzija) (Tekst značajan za EGP) (SL L 158, 30. 4. 2004.), kako je posljednji put izmijenjena Direktivom 2014/27/EU od 26. veljače 2014. o izmjeni Direktiva Vijeća 92/58/EEZ, 92/85/EEZ, 94/33/EZ, 98/24/EZ i Direktive 2004/37/EZ Europskog parlamenta i Vijeća kako bi se uskladile s Uredbom (EZ) br. 1272/2008 o razvrstavanju, označivanju i pakiranju tvari i smjesa. CELEX br. 32004L0037.
