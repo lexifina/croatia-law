@@ -1,0 +1,4 @@
+# Članak 14.
+Članak 191. mijenja se i glasi:
+»(1) Državni odvjetnici u državnim odvjetništvima koja se spajaju, pripajaju ili razdvajaju danom spajanja, pripajanja odnosno razdvajanja tih državnih odvjetništava prestaju obnašati dužnost i nastavljaju s radom kao zamjenici državnog odvjetnika u državnom odvjetništvu nastalom spajanjem, pripajanjem odnosno razdvajanjem.
+(2) Kada državni odvjetnici prestanu obnašati svoju dužnost radi spajanja, pripajanja ili razdvajanja državnih odvjetništava, državni odvjetnik neposredno višega državnog odvjetništva odredit će zamjenika državnog odvjetnika iz tih državnih odvjetništava odnosno zamjenika državnog odvjetnika iz neposredno višega državnog odvjetništva da obavlja poslove državnoodvjetničke uprave do imenovanja novoga državnog odvjetnika državnog odvjetništva nastalog spajanjem, pripajanjem odnosno razdvajanjem, ali najdulje do godinu dana.«.
