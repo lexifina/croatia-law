@@ -1,0 +1,6 @@
+# Članak 7.
+Članak 4. mijenja se i glasi:
+»(1) Kod isplate prava iz članka 3. stavka 1. točaka 1., 2. i 3. ovoga Zakona Agencija je dužna obračunati i uplatiti doprinose za obvezna osiguranja koji se obračunavaju na osnovicu.
+(2) Ako je u stečajnom postupku utvrđeno potraživanje iz članka 3. stavka 1. točaka 1., 2. i 3. ovoga Zakona u visini osnovice iz stavka 1. ovoga članka, a potraživanje za doprinose iz stavka 1. ovoga članka bude utvrđeno u korist središnjeg tijela državne uprave nadležnog za financije, za iznos doprinosa koji obračuna i uplati Agencija umanjit će se utvrđeno potraživanje središnjeg tijela državne uprave nadležnog za financije.
+(3) U slučaju iz stavka 2. ovoga članka, prijedlog za umanjenje utvrđenog potraživanja središnjeg tijela državne uprave nadležnog za financije podnosi stečajni upravitelj nakon što izvrši obračun i uplatu doprinosa iz stavka 1. ovoga članka.
+(4) Odredbe stavaka 2. i 3. ovoga članka na odgovarajući se način primjenjuju i kada je u stečajnom postupku potraživanje iz članka 3. stavka 1. točaka 1., 2. i 3. ovoga Zakona utvrđeno u neto iznosu, a potraživanje za poreze i doprinose iz osnovice i na osnovicu bude utvrđeno u korist središnjeg tijela državne uprave nadležnog za financije.«.

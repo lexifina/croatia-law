@@ -1,0 +1,3 @@
+# Članak 1.
+U Zakonu o osiguranju potraživanja radnika u slučaju stečaja poslodavca (»Narodne novine«, br. 86/08. i 80/13.), članak 1. mijenja se i glasi:
+»Ovim se Zakonom utvrđuju pravna pravila o zaštiti materijalnih prava iz radnih odnosa radnika u slučaju stečaja poslodavca i u slučaju blokade računa poslodavca zbog nemogućnosti prisilne naplate neisplaćene plaće odnosno naknade plaće, vrste i opseg zaštićenih prava, osniva se Agencija za osiguranje radničkih potraživanja u slučaju stečaja poslodavca (u daljnjem tekstu: Agencija), utvrđuje njezina djelatnost i način upravljanja i obavljanja djelatnosti te određuju uvjeti, postupak i izvori sredstava za ostvarenje zaštite prava.«.
