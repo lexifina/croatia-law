@@ -1,0 +1,3 @@
+# Članak 5.
+(1) Korisnicima koji su ostvarili doplatak za djecu s težim oštećenjem zdravlja utvrđenim prema posebnim propisima do dana stupanja na snagu ovoga Zakona, a pravo im nije prestalo do dana stupanja na snagu ovoga Zakona, pripada pravo na doplatak za djecu i nakon navršene 27. godine života sve dok postoji teže oštećenje zdravlja.
+(2) Korisnicima kojima je pravo na doplatak za djecu s težim oštećenjem zdravlja utvrđenim prema posebnim propisima prestalo do dana stupanja na snagu ovoga Zakona zbog navršenih 27 godina života pripada pravo na doplatak za djecu od dana podnošenja zahtjeva temeljem ovoga Zakona pa sve dok postoji teže oštećenje zdravlja.
