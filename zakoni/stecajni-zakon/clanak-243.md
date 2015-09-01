@@ -1,0 +1,11 @@
+## Prava kupca
+# Članak 243.
+(1) Na kupca prelaze sva prava stečajnoga dužnika prema trećim osobama koja se tiču preuzete imovine dužnika, ako ovim Zakonom ili ugovorom o prodaji nije što drugo određeno.
+(2) Kupac ne odgovara za obveze stečajnoga dužnika nastale do dana pravomoćnosti rješenja o potvrđivanju ugovora o prodaji dužnika, osim za obveze osigurane razlučnim pravima u onoj mjeri u kojoj su one obuhvaćene vrijednošću preuzetoga predmeta opterećenoga razlučnim pravom. Za obveze osigurane razlučnim pravima kupac odgovara vrijednošću preuzetoga predmeta opterećenoga razlučnim pravom.
+(3) Parnice pokrenute radi ostvarivanja prava dužnika prema trećim osobama kupac nastavlja u svoje ime i za svoj račun, ako ovim Zakonom ili ugovorom o prodaji nije drukčije određeno.
+(4) Parnice o osporavanju tražbina vjerovnika nastavljaju se u ime i za račun stečajne mase, osim parnica koje se tiču razlučnih prava kojima je opterećena imovina koju je dužnik preuzeo, koje kupac nastavlja u svoje ime i za svoj račun.
+(5) Ako ugovorom o prodaji nije drukčije određeno, parnice o pobijanju pravnih radnji stečajnoga dužnika mogu se pokrenuti i nastaviti za račun stečajnoga dužnika, osim parnica koje se tiču razlučnih prava kojima je opterećena imovina koju je dužnik preuzeo, koje kupac nastavlja u svoje ime i za svoj račun te koje, prema pravilima ovoga Zakona o pobijanju pravnih radnji stečajnoga dužnika, može pokrenuti, odnosno nastaviti kupac u svoje ime i za svoj račun.
+(6) U slučajevima iz stavaka 3. i 5. ovoga članka u kojima je kupac ovlašten nastaviti parnicu u svoje ime i za svoj račun tuženik se ne može protiviti stupanju kupca u parnicu umjesto stečajnoga dužnika ili vjerovnika koji ju je pokrenuo.
+(7) Kupac je ovlašten stupiti u parnicu do zaključenja glavne rasprave.
+(8) Ako se vjerovnik koji je parnicu pokrenuo ili stečajni dužnik usprotive tome da je kupac preuzme umjesto njih, kupac je ovlašten zatražiti da o tome odluči sud.
+(9) Ako je prema ugovoru o prodaji ili ovom Zakonu kupac ovlašten očekivati koristi od pobijanja pravne radnje stečajnoga dužnika, ovlašten je tražiti od stečajnoga dužnika korist koju je stekao u povodu pobijanja, odnosno da se na njega prenesu prava iz ovršne isprave stečene u povodu pobijanja.

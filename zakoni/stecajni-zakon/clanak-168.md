@@ -1,0 +1,4 @@
+## Prestanak prava stečenih ovrhom ili osiguranjem
+# Članak 168.
+(1) Ako stečajni vjerovnik tijekom posljednjih 60 dana prije podnošenja prijedloga za otvaranje predstečajnoga postupka, odnosno ako nije podnesen prijedlog za otvaranje predstečajnoga postupka tijekom posljednjih 60 dana prije podnošenja prijedloga za otvaranje stečajnoga postupka ili nakon toga sudskom ili izvansudskom ovrhom ili prisilnim sudskim osiguranjem stekne koje razlučno ili slično pravo koje ulazi u stečajnu masu, to pravo otvaranjem stečajnoga postupka prestaje, odnosno postupak u tijeku se obustavlja. Predmetna prava brisat će se iz javnih knjiga, upisnika i očevidnika u kojima se vode na temelju rješenja suda.
+(2) Ako je postupak sudske ovrhe ili prisilnoga sudskog osiguranja obustavljen prije nastupanja pravnih posljedica otvaranja predstečajnoga ili stečajnoga postupka, rješenje iz stavka 1. ovoga članka donosi sud u stečajnom postupku.

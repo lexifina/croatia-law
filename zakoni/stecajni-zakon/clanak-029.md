@@ -1,0 +1,5 @@
+## Postupanje dužnika od podnošenja prijedloga
+# Članak 29.
+(1) Od dana podnošenja prijedloga za otvaranje predstečajnoga postupka do donošenja rješenja o otvaranju predstečajnoga postupka dužnik može obavljati samo plaćanja nužna za redovno poslovanje.
+(2) Smatra se da su za redovno poslovanje nužna plaćanja iz radnoga odnosa u bruto iznosu za radnike i prijašnje dužnikove radnike čije su tražbine dospjele do dana otvaranja predstečajnoga postupka, otpremnine do iznosa propisanoga zakonom i kolektivnim ugovorom, tražbine po osnovi naknade štete pretrpljene zbog ozljede na radu ili profesionalne bolesti, odnosno plaće radnika uvećane za iznos doprinosa na osnovicu i druga materijalna prava radnika u skladu s ugovorima o radu i kolektivnim ugovorima dospjela nakon podnošenja prijedloga za otvaranje predstečajnoga postupka, plaćanja za troškove predstečajnoga postupka i druga plaćanja nužna za redovno poslovanje propisana posebnim zakonom.
+(3) U razdoblju iz stavka 1. ovoga članka dužnik ne može otuđiti ni opterećivati svoju imovinu.

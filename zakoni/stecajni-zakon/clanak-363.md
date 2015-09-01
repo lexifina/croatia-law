@@ -1,0 +1,5 @@
+## Posebni slučajevi pribavljanja suglasnosti stečajnoga povjerenika
+# Članak 363.
+(1) Na prijedlog skupštine vjerovnika, sud će odrediti pravne poslove za čiju je pravnu valjanost potrebna prethodna suglasnost stečajnoga povjerenika. Na radnje koje dužnik poduzme bez takve suglasnosti na odgovarajući se način primjenjuju odredbe ovoga Zakona o radnjama stečajnoga dužnika poduzetim nakon otvaranja stečajnoga postupka bez stečajnoga upravitelja. Ako se stečajni povjerenik suglasio sa zasnivanjem neke obveze stečajne mase, na njegovu odgovornost vjerovnicima stečajne mase zbog neispunjenja obveza stečajne mase na odgovarajući se način primjenjuju odredbe ovoga Zakona o odgovornosti stečajnoga upravitelja.
+(2) Obvezno pribavljanje prethodne suglasnosti može se odrediti i na prijedlog razlučnoga vjerovnika ili stečajnoga vjerovnika ako je to potrebno da bi se izbjeglo oštećenje vjerovnika. Takav će prijedlog biti dopušten samo ako vjerovnik učini vjerojatnim postojanje opasnosti oštećenja vjerovnika.
+(3) Rješenje o potrebi pribavljanja suglasnosti objavit će se i upisati u javne knjige.

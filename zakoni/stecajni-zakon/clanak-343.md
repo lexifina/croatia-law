@@ -1,0 +1,5 @@
+## Ovrha na temelju rješenja o potvrdi stečajnoga plana
+# Članak 343.
+(1) Na osnovi pravomoćnoga rješenja o potvrdi stečajnoga plana stečajni vjerovnici čije su tražbine utvrđene i koje na ispitnom ročištu dužnik nije osporio mogu pokrenuti postupak ovrhe protiv dužnika. S neosporenom tražbinom izjednačena je i ona čije je osporavanje otklonjeno.
+(2) Odredba stavka 1. ovoga članka primjenjuje se i na ovrhu protiv treće osobe, ako je rješenjem iz stavka 1. ovoga članka utvrđeno da je preuzela jamstvo za ispunjenje stečajnoga plana, osim ako pritom nije pridržala pravo prigovora prethodne tužbe.
+(3) Prava koja mu pripadaju u slučaju znatnoga zakašnjenja dužnika s ispunjenjem stečajnoga plana vjerovnik može prisilno ostvariti na temelju rješenja kojim je potvrđen stečajni plan i rješenja kojim je utvrđena njegova tražbina u stečajnom postupku, ako učini vjerojatnim da je dužnika propisno opomenuo te da je istekao rok koji je naknadno odredio dužniku. Vjerovnik nije dužan dokazati zakašnjenje dužnika.

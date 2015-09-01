@@ -1,0 +1,5 @@
+## Priznanje strane odluke u slučaju prethodno otvorenoga stečajnog postupka u Republici Hrvatskoj
+# Članak 410.
+(1) Strana odluka o otvaranju stečajnoga postupka koja ispunjava pretpostavke za priznanje prema članku 403. ovoga Zakona priznat će se i ako je prije podnošenja prijedloga za priznanje otvoren protiv dužnika stečajni postupak u Republici Hrvatskoj prema odredbi članka 393. stavaka 1. ili 2. ovoga Zakona.
+(2) Priznata strana odluka o otvaranju stečajnoga postupka proizvodi učinke određene u odredbama članaka 419. − 423. ovoga Zakona. Strani stečajni upravitelj ne može osporiti tražbine koje su već utvrđene u prije pokrenutom postupku u Republici Hrvatskoj. Ako je na dan podnošenja prijedloga za priznanje strane odluke o otvaranju stečajnoga postupka istekao rok od 15 dana od dana objave prvoga diobnog popisa u stečajnom postupku u Republici Hrvatskoj, dioba u stečajnom postupku u Republici Hrvatskoj neće se provoditi na temelju odluke o diobi donesene u stranom stečajnom postupku.
+4.2. Priznanje bez posljedice otvaranja stečajnoga postupka u Republici Hrvatskoj

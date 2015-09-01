@@ -1,0 +1,11 @@
+## Zabrana ovrhe i osiguranja
+# Članak 169.
+(1) Nakon otvaranja stečajnoga postupka pojedini stečajni vjerovnici ne mogu protiv dužnika tražiti ovrhu ili osiguranje na dijelovima imovine koja ulazi u stečajnu masu niti na drugoj imovini dužnika.
+(2) Vjerovnici koji nisu stečajni vjerovnici nisu ovlašteni tražiti ovrhu ili osiguranje na budućim tražbinama dužnika pojedinca po osnovi njegova radnoga odnosa ili druge službe, ili na njegovim tražbinama po toj osnovi tijekom stečajnoga postupka, osim ovrhe ili osiguranja radi naplate zahtjeva za uzdržavanje i drugih tražbina koje se mogu namiriti iz onoga dijela prihoda dužnika iz radnoga odnosa iz kojega se ne mogu namiriti tražbine drugih vjerovnika.
+(3) Postupci ovrhe i osiguranja iz stavaka 1. i 2. ovoga članka koji su u tijeku u vrijeme otvaranja stečajnoga postupka prekidaju se. Nakon što ti postupci budu nastavljeni, ovršni sud će ih obustaviti.
+(4) Nakon otvaranja stečajnoga postupka izlučni vjerovnici mogu radi ostvarenja svojih prava pokrenuti protiv dužnika postupke ovrhe i osiguranja prema općim pravilima ovršnoga postupka. Prekinute postupke ovrhe i osiguranja koje su ti vjerovnici pokrenuli prije otvaranja stečajnoga postupka, nastavit će i provesti ovršni sud prema pravilima ovršnoga postupka.
+(5) Nakon otvaranja stečajnoga postupka razlučni vjerovnici nisu ovlašteni pokrenuti postupak ovrhe ili osiguranja.
+(6) Postupci ovrhe i osiguranja iz stavka 5. ovoga članka koji su u tijeku u vrijeme otvaranja stečajnoga postupka prekidaju se. Prekinute postupke ovrhe i osiguranja nastavit će sud koji vodi stečajni postupak primjenom pravila o unovčenju predmeta na kojima postoji razlučno pravo u stečajnom postupku.
+(7) Sud koji vodi postupak ovrhe ili osiguranja iz stavka 6. ovoga članka dužan je u roku od osam dana od dana otvaranja stečajnoga postupka rješenjem utvrditi prekid postupka, oglasiti se nenadležnim i ustupiti predmet sudu koji vodi stečajni postupak.
+(8) Žalba protiv rješenja iz stavka 7. ovoga članka ne zadržava nastupanje pravnih učinaka rješenja.
+(9) Nakon otvaranja stečajnoga postupka dopustit će se i provesti upis u javne knjige, ako su pretpostavke za upis ostvarene prije nastupanja pravnih posljedica otvaranja stečajnoga postupka.

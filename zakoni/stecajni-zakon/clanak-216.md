@@ -1,0 +1,11 @@
+## Preuzimanje stečajne mase
+# Članak 216.
+(1) Nakon otvaranja stečajnoga postupka stečajni upravitelj je dužan cjelokupnu imovinu koja ulazi u stečajnu masu odmah preuzeti u posjed i njome upravljati.
+(2) Stečajni upravitelj može na temelju ovršnoga rješenja o otvaranju stečajnoga postupka zahtijevati od suda da naloži dužniku predaju stvari i odrediti ovršne radnje kojima će se taj nalog prisilno ostvariti. Uz nalog za predaju sud može po službenoj dužnosti odrediti i mjere prisile protiv osoba ovlaštenih za zastupanje dužnika po zakonu ili dužnika pojedinca iz članka 178. ovoga Zakona. Radi provedbe toga naloga sud je ovlašten zatražiti pomoć policije.
+(3) Stečajni upravitelj može nakon pravomoćnosti rješenja o otvaranju stečajnoga postupka zahtijevati od suda da naloži i trećim osobama, u čijem su posjedu predmeti stečajne mase, predaju tih stvari. Stečajni upravitelj dužan je uz zahtjev dostaviti ispravu o pravu vlasništva na stvari. O zahtjevu stečajnoga upravitelja, nakon što je saslušao osobe u čijem su posjedu predmeti stečajne mase, sud odlučuje rješenjem.
+(4) Ako se treća osoba u čijem je posjedu predmet stečajne mase protivi zahtjevu stečajnoga upravitelja iz stavka 3. ovoga članka, sud će odbiti taj zahtjev i uputiti stečajnoga upravitelja u parnicu radi ostvarenja prava na predaju u posjed.
+(5) Pravomoćno rješenje iz stavka 3. ovoga članka predstavlja ovršnu ispravu.
+(6) Ako osobe iz stavaka 2. i 3. ovoga članka ne postupe prema nalogu suda, sud će na prijedlog stečajnoga upravitelja naložiti raspisivanje potrage za predmetima stečajne mase i osobi od koje je stvar prisilno oduzeta naložiti plaćanje odgovarajuće naknade stečajnom dužniku za neovlašteno korištenje odnosno uporabu od dana otvaranja stečajnoga postupka do dana oduzimanja.
+(7) Naknada za neovlašteno korištenje odnosno uporabu iz stavka 6. ovoga članka ne može biti manja od 100,00 kuna niti veća od 1000,00 kuna po danu.
+(8) Ako za vrijeme neovlaštenoga korištenja odnosno uporabe predmet stečajne mase propadne, sud će osobi kod koje je stvar propala naložiti plaćanje odgovarajuće naknade stečajnom dužniku za vrijednost stvari i neovlašteno korištenje odnosno uporabu. U tom slučaju na odgovarajući se način primjenjuju odredbe stavaka 6. i 7. ovoga članka.
+(9) Odgovorne osobe pravne osobe solidarno odgovaraju za obveze iz stavaka 6. i 8. ovoga članka.

@@ -1,0 +1,3 @@
+## Pregled imovine. Financijski plan i plan rezultata
+# Članak 315.
+Ako se procijeni da će se vjerovnici namiriti iz prihoda poduzeća koje će nastaviti voditi dužnik ili treća osoba, uz stečajni plan treba priložiti i pregled imovine, u kojem će se, uz naznaku njihove vrijednosti, popisati dijelovi imovine i obveze koje bi trebalo ispuniti ako stečajni plan stupi na snagu. Uz to potrebno je prikazati i koji se rashodi i prihodi mogu očekivati u razdoblju tijekom kojega bi vjerovnike trebalo namiriti, i kojim se redoslijedom prihoda i izdataka jamči sposobnost nositelja poduzeća za plaćanje tijekom toga razdoblja.

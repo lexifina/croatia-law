@@ -1,0 +1,10 @@
+## Sklapanje ugovora o prodaji
+# Članak 236.
+(1) Na temelju odluke o prodaji i pravomoćnoga rješenja suda o potvrđivanju odluke o prodaji na mrežnoj stranici e-Oglasna ploča sudova i na mrežnoj stranici Financijske agencije objavit će se oglas, uz naznaku uvjeta i načina prodaje. U oglasu će se naznačiti mjesto, vrijeme i način uvida u popis imovine stečajnoga dužnika, popis razlučnih prava, dokaze da imovina pripada dužniku, poslovne knjige i dokumentaciju stečajnoga dužnika i razgledavanja imovine.
+(2) Popis razlučnih prava iz stavka 1. ovoga članka obuhvaća liste razlučnih prava koja su upisana u javnim knjigama, prijavljenih razlučnih prava te neprijavljenih razlučnih prava za koja je stečajni upravitelj utvrdio da postoje.
+(3) Zainteresirana osoba može tražiti da joj se, na njezin trošak, umnože popisi iz stavka 1. ovoga članka.
+(4) Ugovor o prodaji, u pisanom obliku, sklapa s kupcem u ime i za račun stečajnoga dužnika stečajni upravitelj.
+(5) Ugovorom o prodaji odredit će se osobito ostaju li i koji dijelovi imovine stečajnoga dužnika na kojima postoje razlučna prava u stečajnoj masi. Za utvrđivanje cijene uzet će se u obzir i okolnost jesu li dijelovi imovine koji se preuzimaju opterećeni razlučnim pravima i drugim teretima.
+(6) Ako se cijena ne isplaćuje odmah nakon sklapanja ugovora o prodaji, ona se mora isplatiti najkasnije u roku od šest mjeseci, ali je u tom slučaju kupac dužan dati odgovarajuće osiguranje. Sud može odobriti kupcu da u stečajnu masu ne uplati onaj dio cijene koji odgovara predvidivom iznosu koji bi kupac dobio kao stečajni vjerovnik u stečajnom postupku.
+(7) U cijenu će se uračunati i vrijednost razlučnih prava kojima je opterećena imovina koju kupac preuzima. Za utvrđivanje vrijednosti tih prava uzet će se u obzir i pretpostavljena cijena po kojoj bi stvar ili pravo na kojima postoji razlučno pravo mogli biti unovčeni u stečajnom postupku.
+(8) Na prodaju imovine dužnika kao cjeline na odgovarajući se način primjenjuju pravila o učincima prodaje u ovršnom postupku radi naplate novčane tražbine.

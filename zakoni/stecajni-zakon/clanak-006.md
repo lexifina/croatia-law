@@ -1,0 +1,9 @@
+## Nesposobnost za plaćanje
+# Članak 6.
+(1) Nesposobnost za plaćanje postoji ako dužnik ne može trajnije ispunjavati svoje dospjele novčane obveze. Okolnost da je dužnik namirio ili da može namiriti u cijelosti ili djelomično tražbine nekih vjerovnika ne znači da je sposoban za plaćanje.
+(2) Smatrat će se da je dužnik nesposoban za plaćanje:
+− ako u Očevidniku redoslijeda osnova za plaćanje koji vodi Financijska agencija ima jednu ili više evidentiranih neizvršenih osnova za plaćanje u razdoblju dužem od 60 dana koje je trebalo, na temelju valjanih osnova za plaćanje, bez daljnjeg pristanka dužnika naplatiti s bilo kojeg od njegovih računa
+− ako nije isplatio tri uzastopne plaće koje radniku pripadaju prema ugovoru o radu, pravilniku o radu, kolektivnom ugovoru ili posebnom propisu odnosno prema drugom aktu kojim se uređuju obveze poslodavca prema radniku.
+(3) Odredba stavka 2. ovoga članka neće se primijeniti ako dužnik tijekom prethodnoga postupka namiri sve tražbine koje je na temelju valjanih osnova za plaćanje trebalo naplatiti sa svih njegovih računa ili ako dođe do pristupanja dugu. Namirenje tražbina dužnik može dokazivati samo javnom ili javno ovjerovljenom ispravom ili potvrdom Financijske agencije.
+(4) Postojanje okolnosti iz stavka 2. podstavka 1. ovoga članka dokazuje se potvrdom Financijske agencije. Financijska agencija dužna je na zahtjev dužnika ili vjerovnika bez odgode izdati takvu potvrdu. U protivnom Financijska agencija odgovara za štetu koju bi podnositelj zahtjeva zbog toga mogao pretrpjeti.
+(5) Postojanje okolnosti iz stavka 2. podstavka 2. ovoga članka dokazuje se obračunom neisplaćene plaće koji je sastavljen u skladu s propisima. Uz obračun podnositelj prijedloga dužan je dostaviti potvrdu Ministarstva financija − Porezne uprave kojom se potvrđuje da je dostavljeni obračun o neisplati plaće sastavljen u skladu s propisima.

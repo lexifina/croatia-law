@@ -1,0 +1,6 @@
+## Kongruentno namirenje
+# Članak 199.
+(1) Pravna radnja, poduzeta u posljednja tri mjeseca prije podnošenja prijedloga za otvaranje stečajnoga postupka, kojom se jednom stečajnom vjerovniku daje ili omogućava osiguranje ili namirenje na način i u vrijeme u skladu sa sadržajem njegova prava (kongruentno namirenje), može se pobijati ako je u vrijeme kad je poduzeta dužnik bio nesposoban za plaćanje i ako je vjerovnik u to vrijeme znao za tu nesposobnost.
+(2) Pobojna je i pravna radnja kojom se jednom stečajnom vjerovniku daje ili omogućava osiguranje ili namirenje u skladu sa sadržajem njegova prava, ako je poduzeta nakon podnošenja prijedloga za otvaranje stečajnoga postupka i ako je vjerovnik u vrijeme njezina poduzimanja znao za nesposobnost za plaćanje ili za prijedlog za otvaranje stečajnoga postupka.
+(3) Smatrat će se da je vjerovnik znao za nesposobnost za plaćanje ili za prijedlog za otvaranje stečajnoga postupka ako je znao ili je morao znati za okolnosti iz kojih se nužno moralo zaključiti da postoji nesposobnost za plaćanje ili da je podnesen prijedlog za otvaranje stečajnoga postupka.
+(4) Za osobu koja je s dužnikom bila bliska u vrijeme poduzimanja radnje pretpostavlja se da je znala za nesposobnost za plaćanje ili prijedlog za otvaranje postupka.

@@ -1,0 +1,4 @@
+## Posebni stečajni postupak u trećoj državi
+# Članak 421.
+(1) Ako vjerovnik djelomično namiri svoje tražbine u posebnom stečajnom postupku koji je protiv dužnika otvoren u nekoj trećoj državi, a kojim je obuhvaćena samo imovina dužnika u toj trećoj državi, on smije zadržati stečeno. Primljeno će se, nakon odbitka troškova koje je vjerovnik imao u ostvarivanju namirenja u tom stranom posebnom stečajnom postupku, uračunati u stečajnu kvotu koja mu pripada u posebnom stečajnom postupku u Republici Hrvatskoj. Toga uračunavanja neće biti ako je vjerovnik djelomično namirenje tražbina u tom stranom posebnom stečajnom postupku ostvario kao razlučni vjerovnik ili na temelju dopuštenoga prijeboja.
+(2) Odredbe stavka 1. ovoga članka primijenit će se i kada je vjerovnik djelomično namirio svoju tražbinu u ovršnom postupku u trećoj državi.

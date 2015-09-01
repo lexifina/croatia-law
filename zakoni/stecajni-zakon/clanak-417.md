@@ -1,0 +1,5 @@
+## Priznanje strane odluke s posljedicom otvaranja stečajnoga postupka u Republici Hrvatskoj
+# Članak 417.
+(1) U prijedlogu za priznanje strane odluke o otvaranju stečajnoga postupka strani stečajni upravitelj ili vjerovnik može kao neposredni pravni učinak priznanja zahtijevati otvaranje stečajnoga postupka u Republici Hrvatskoj. Otvaranje posebnoga stečajnog postupka u Republici Hrvatskoj stečajni upravitelj može zahtijevati i u podnesku upućenom sudu u roku od 15 dana od primitka pismena iz članka 405. stavka 2. ovoga Zakona. Otvaranje toga postupka vjerovnik može zahtijevati i u podnesku koji upućuje sudu na temelju članka 405. stavka 1. točke 4. ovoga Zakona.
+(2) U tom slučaju isključivo hrvatsko stečajno pravo određuje pravne učinke, osim ako člancima 395. − 399. i 418. − 423. ovoga Zakona nije izrijekom drukčije određeno. Na to se odgovarajuće primjenjuju članci 412. − 415. ovoga Zakona.
+5. OTVARANJE POSEBNOGA STEČAJNOG POSTUPKA U REPUBLICI HRVATSKOJ KAO POSLJEDICA PRIZNANJA STRANE ODLUKE O OTVARANJU STEČAJNOGA POSTUPKA

@@ -1,0 +1,4 @@
+## Dužnik kao najmoprimac i zakupnik
+# Članak 187.
+(1) Najam ili zakup nekretnine ili prostorije koji je dužnik ugovorio kao najmoprimac ili zakupnik stečajni upravitelj može otkazati bez obzira na ugovoreno trajanje, pridržavajući se zakonskoga otkaznog roka. Ako stečajni upravitelj izjavi otkaz, druga strana može kao stečajni vjerovnik zahtijevati naknadu štete nastale prijevremenim prestankom ugovornoga odnosa.
+(2) Ako dužnik u vrijeme otvaranja stečajnoga postupka nije preuzeo nekretninu ili prostoriju, stečajni upravitelj i druga strana mogu odustati od ugovora. Ako stečajni upravitelj odustane, druga strana može kao stečajni vjerovnik zahtijevati naknadu štete nastale prijevremenim prestankom ugovornoga odnosa. Svaka je strana dužna u roku od 15 dana obavijestiti drugu stranu, na njezin zahtjev, o tome namjerava li odustati od ugovora. Ako to ne učini, gubi pravo na odustanak.

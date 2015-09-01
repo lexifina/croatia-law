@@ -1,0 +1,4 @@
+## Nastupanje prijeboja u postupku
+# Članak 175.
+(1) Ako su u vrijeme otvaranja stečajnoga postupka jedna ili više tražbina koje se imaju prebiti pod odgodnim uvjetom ili nisu dospjele ili nisu upravljene na istovrsne činidbe, prijeboj će nastupiti kada za to budu ispunjene potrebne pretpostavke. Odredbe članaka 140. i 144. ovoga Zakona ne primjenjuju se u svrhu prijeboja. Ako tražbina kojom se treba obaviti prijeboj postane bezuvjetna i dospjela prije nego što prijeboj postane moguć, prijeboj je isključen.
+(2) Prijeboj nije isključen za tražbine koje glase na različite valute ili obračunske jedinice, ako se te valute ili obračunske jedinice u mjestu isplate tražbine kojom se prijeboj obavlja, mogu slobodno zamijeniti. Preračunavanje se obavlja prema tečaju koji u mjestu plaćanja vrijedi u vrijeme primitka izjave o prijeboju.

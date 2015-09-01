@@ -1,0 +1,7 @@
+## Privilegirane tražbine, izlučni i razlučni vjerovnici
+# Članak 416.
+(1) Priznanje strane odluke o otvaranju stečajnoga postupka ne utječe na pravo vjerovnika da svoje tražbine navedene u članka 418. stavku 1. točkama 1. i 2. ovoga Zakona namire u punom iznosu, ako im je za to dostatan dio imovine dužnika koji nije opterećen pravima trećih osoba, koji se u trenutku objave rješenja o priznanju nalazi u Republici Hrvatskoj.
+(2) Radi ostvarenja i osiguranja svojih prava vjerovnici iz stavka 1. ovoga članka ovlašteni su i nakon priznanja strane odluke o otvaranju stečajnoga postupka voditi protiv dužnikove imovine parnični postupak, te postupke ovrhe i osiguranja.
+(3) Izlučni i razlučni vjerovnici iz članka 396. ovoga Zakona ovlašteni su voditi u Republici Hrvatskoj parnične postupke i postupke ovrhe, odnosno osiguranja pod pretpostavkama pod kojim bi ih mogli voditi da je u Republici Hrvatskoj otvoren stečajni postupak.
+(4) Ovršni sud će na prijedlog stranoga stečajnog upravitelja odgoditi ovršni postupak iz stavka 2. ovoga članka ako je to nužno da bi se postiglo namirenje vjerovnika stečajnoga dužnika u većoj stečajnoj kvoti. Odgoda može trajati do tri mjeseca, s mogućnošću određenja nove odgode, ali najduže do prve diobe u stranom stečajnom postupku. Ovršni sud može u svakom trenutku na prijedlog vjerovnika ili stranoga stečajnog upravitelja opozvati odgodu ako više ne postoje pretpostavke za nju.
+4.3. Priznanje s posljedicom otvaranja stečajnoga postupka u Republici Hrvatskoj

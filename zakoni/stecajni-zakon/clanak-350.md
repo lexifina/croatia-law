@@ -1,0 +1,4 @@
+## Krediti
+# Članak 350.
+(1) U rješenju o potvrdi stečajnoga plana može se predvidjeti da će stečajni vjerovnici biti u isplatnom redu iza vjerovnika s tražbinama po osnovi kredita ili zajmova koje će dužnik ili društvo preuzimatelj preuzeti tijekom trajanja nadzora ili koje je vjerovnik stečajne mase ostavio na snazi i tijekom trajanja nadzora. U tom će slučaju biti potrebno utvrditi ukupni iznos za kredite te vrste (kreditni okvir). Taj iznos ne smije prelaziti vrijednost predmeta imovine navedenih u pregledu imovine.
+(2) Stečajni vjerovnici iz stavka 1. ovoga članka namirivat će se samo iza onih vjerovnika s kojima je dogovoreno da će se i u kojem iznosu kredit koji su odobrili s obzirom na glavnu tražbinu, kamate i troškove nalaziti unutar kreditnoga okvira, i kojima je stečajni upravitelj takav dogovor pismeno potvrdio.

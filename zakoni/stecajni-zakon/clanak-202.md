@@ -1,0 +1,5 @@
+## Namjerno oštećenje
+# Članak 202.
+(1) Pravna radnja koju je dužnik poduzeo u posljednjih deset godina prije podnošenja prijedloga za otvaranje stečajnoga postupka ili nakon toga s namjerom da ošteti svoje vjerovnike može se pobijati ako je druga strana u vrijeme poduzimanja radnje znala za namjeru dužnika. Znanje za namjeru pretpostavlja se ako je druga strana znala da dužniku prijeti nesposobnost za plaćanje i da se radnjom oštećuju vjerovnici.
+(2) Smatrat će se da je vjerovnik znao da dužniku prijeti nesposobnost za plaćanje i da se radnjom oštećuju vjerovnici ako je znao ili je morao znati za okolnosti iz kojih se nužno moralo zaključiti da je dužnik nesposoban za plaćanje i da se radnjom oštećuju vjerovnici.
+(3) Naplatni ugovor sklopljen između dužnika i njemu bliske osobe može se pobijati ako se stečajni vjerovnici njime izravno oštećuju. Taj se ugovor ne može pobijati ako je sklopljen ranije od dvije godine prije podnošenja prijedloga za otvaranje stečajnoga postupka ili ako druga strana dokaže da joj u vrijeme sklapanja ugovora nije bila poznata niti joj je morala biti poznata namjera dužnika da ošteti vjerovnike.
