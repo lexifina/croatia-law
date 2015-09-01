@@ -1,0 +1,1 @@
+Na temelju odredbe članka 18. stavka 2. Zakona o osiguranju potraživanja radnika u slučaju stečaja poslodavca (»Narodne novine«, broj 86/08, 80/13 i 82/15), ministar rada i mirovinskoga sustava donosi
