@@ -1,0 +1,7 @@
+# Članak 1.
+U Zakonu o obveznim mirovinskim fondovima (»Narodne novine«, broj 19/2014), u članku 90. iza stavka 1. dodaju se novi stavci 2., 3., 4. i 5. koji glase:
+»(2) Osiguranik čije je pravo iz mirovinskog osiguranja uređeno posebnim propisom koji uređuje prava iz mirovinskog osiguranja djelatnih vojnih osoba, policijskih službenika i ovlaštenih službenih osoba, ili mu se mirovina određuje prema tom propisu i koji je mlađi od 40 godina, osigurava se na temelju individualne kapitalizirane štednje u mirovinskom fondu koji sam izabere, ako u roku od 15 dana od početka rada da izjavu da želi biti osiguran u tom osiguranju, odnosno izjavu da želi ostati osiguran na temelju individualne kapitalizirane štednje, ako je ranije bio član mirovinskog fonda.
+(3) Izjava iz stavka 2. ovoga članka daje se osobno na prijemnom mjestu Središnjeg registra osiguranika i neopoziva je.
+(4) Osiguranik iz stavka 2. ovoga članka koji nije dao izjavu ne može postati član mirovinskog fonda, osim ako je mlađi od 40 godina, a ne može ostvariti pravo iz mirovinskog osiguranja prema posebnom propisu koji uređuje prava iz mirovinskog osiguranja djelatnih vojnih osoba, policijskih službenika i ovlaštenih službenih osoba ili mu se mirovina određuje prema tom propisu.
+(5) Podatak o svojstvu osiguranika iz stavka 2. ovoga članka Središnjem registru osiguranika dostavlja obveznik doprinosa odmah po podnošenju prijave na mirovinsko osiguranje.«.
+Dosadašnji stavci 2. do 7. postaju stavci 6. do 11.
