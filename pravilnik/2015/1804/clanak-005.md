@@ -1,0 +1,4 @@
+# Članak 5.
+(1) Nalog za povlačenje s naplate dijela zahtjeva za prisilnu naplatu za iznos tražbine koji je umjesto poslodavca namirila Agencija dostavlja se na provedbu Financijskoj agenciji neposrednom dostavom, preporučenom poštom s povratnicom ili elektroničkim putem.
+(2) Uz nalog iz stavka 1. ovoga članka dostavlja se i specifikacija iznosa dijela plaće odnosno naknade plaće koji je isplaćen sukladno članku 20.b Zakona o osiguranju potraživanja radnika u slučaju stečaja poslodavca, kao prilog nalogu.
+(3) Na temelju naloga iz stavka 1. ovoga članka, Financijska agencija izvršit će u Očevidniku redoslijeda osnova za plaćanje umanjenje iznosa iz osnove za plaćanje iz članka 3. ovoga Pravilnika za iznos isplaćenog dijela plaće odnosno naknade plaće. Za preostali nenaplaćeni dio, osnova za plaćanje ostaje evidentirana u Očevidniku redoslijeda osnova za plaćanje.

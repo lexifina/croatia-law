@@ -1,0 +1,1 @@
+Na temelju odredbe članka 20.a stavka 9., članka 20.c stavka 3. i članka 20.d stavka 9. Zakona o osiguranju potraživanja radnika u slučaju stečaja poslodavca (»Narodne novine«, broj 86/08, 80/13 i 82/15), ministar rada i mirovinskoga sustava donosi
