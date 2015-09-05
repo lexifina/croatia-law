@@ -1,0 +1,1 @@
+Na temelju članka 12. stavka 2. Zakona o ustanovama (»Narodne novine«, br. 76/93, 29/97, 47/99 i 35/2008), a u vezi s člankom 40. stavkom 3. podstavkom 1. Zakona o izmjenama i dopunama Zakona o poljoprivrednom zemljištu (»Narodne novine«, broj 48/2015), Vlada Republike Hrvatske je na sjednici održanoj 26. kolovoza 2015. godine donijela
