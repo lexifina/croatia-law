@@ -1,0 +1,1 @@
+Na temelju članka 55. Zakona o upravljanju i raspolaganju imovinom u vlasništvu Republike Hrvatske (»Narodne novine«, broj 94/13), Vlada Republike Hrvatske je na sjednici održanoj 3. rujna 2015. godine donijela
