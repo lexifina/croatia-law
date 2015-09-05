@@ -1,0 +1,1 @@
+Na temelju članka 1. Zakona o ovlasti Vlade Republike Hrvatske da uredbama uređuje pojedina pitanja iz djelokruga Hrvatskog sabora (»Narodne novine«, broj 115/14), Vlada Republike Hrvatske je na sjednici održanoj 3. rujna 2015. godine donijela
