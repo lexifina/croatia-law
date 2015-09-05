@@ -1,0 +1,2 @@
+# Članak 7.
+Postupci za dodjelu zamjenskog poljoprivrednog zemljišta u vlasništvu države započeti do stupanja na snagu ove Uredbe, dovršit će se prema odredbama Odluke o kriterijima prema kojima se ovlaštenicima naknade za oduzeto poljoprivredno zemljište temeljem Zakona o naknadi za imovinu oduzetu za vrijeme jugoslavenske komunističke vladavine može dati zamjensko poljoprivredno zemljište u vlasništvu Republike Hrvatske, klase: 022-03/14-04/95, urbroja: 50301-05/25-14-3, od 30. travnja 2014. godine.

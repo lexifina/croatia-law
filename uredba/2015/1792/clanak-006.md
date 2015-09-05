@@ -1,0 +1,2 @@
+# Članak 6.
+Na dan stupanja na snagu ove Uredbe prestaje važiti Odluka o kriterijima prema kojima se ovlaštenicima naknade za oduzeto poljoprivredno zemljište temeljem Zakona o naknadi za imovinu oduzetu za vrijeme jugoslavenske komunističke vladavine može dati zamjensko poljoprivredno zemljište u vlasništvu Republike Hrvatske, klase: 022-03/14-04/95, urbroja: 50301-05/25-14-3, od 30. travnja 2014. godine.
