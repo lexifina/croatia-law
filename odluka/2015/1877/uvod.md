@@ -1,0 +1,1 @@
+Na temelju članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine« br. 150/11 i 119/14), a u vezi s člankom 7. stavkom 2. Zakona o osiguranju potraživanja radnika u slučaju stečaja poslodavca (»Narodne novine« br. 86/08, 80/13 i 82/15), Vlada Republike Hrvatske je na sjednici održanoj 10. rujna 2015. godine donijela
