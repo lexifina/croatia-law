@@ -1,0 +1,9 @@
+# Članak 5.
+(1) U postupku izricanja pedagoških mjera učitelji/nastavnici, stručni suradnici i ravnatelj (u daljnjem tekstu: odgojno-obrazovni radnici) dužni su voditi računa o dobi učenika, njegovoj psihofizičkoj razvijenosti i osobinama, ranijem ponašanju, okolnostima koje utječu na učenikov razvoj, okolnostima u kojima se neprihvatljivo ponašanje dogodilo te drugim okolnostima.
+(2) Prije izricanja mjere učeniku se mora omogućiti savjetovanje s odgojno-obrazovnim radnikom te izjašnjavanje o činjenicama i okolnostima koje su važne za donošenje odluke o opravdanosti izricanja pedagoške mjere. Roditelj mora biti informiran o neprihvatljivom ponašanju, načinu prikupljanja informacija, prikupljenim informacijama koje su važne za donošenje odluke o izricanju pedagoške mjere.
+(3) Mjera se može izreći i bez izjašnjavanja učenika ako se učenik bez opravdanoga razloga ne odazove pozivu razrednika ili druge ovlaštene osobe.
+(4) Mjera se može izreći i bez informiranja roditelja, što je propisano stavkom 2. ovoga članka, ako se roditelj ne odazove ni pisanom pozivu na razgovor.
+(5) Pedagoška mjera opomene i ukora mora se izreći najkasnije u roku od 15 dana od dana saznanja za neprihvatljivo ponašanje učenika zbog kojeg se izriče.
+(6) Pedagoška mjera strogog ukora učeniku osnovne škole, odnosno opomene pred isključenje učeniku srednje škole, mora se izreći najkasnije u roku od 30 dana od dana saznanja za neprihvatljivo ponašanje učenika zbog kojeg se izriče.
+(7) Pedagoška mjera preseljenja u drugu školu učeniku osnovne škole, odnosno isključenja iz srednje škole, mora se izreći najkasnije u roku od 60 dana od dana saznanja za neprihvatljivo ponašanje učenika zbog kojeg se izriče.
+(8) Pedagoška mjera mora se izreći u roku od 15 dana ako je učenik rješenjem ravnatelja privremeno udaljen iz odgojno-obrazovnog procesa. Vrijeme privremenog udaljavanja iz odgojno-obrazovnog procesa ne smatra se neopravdanim izostankom učenika.
