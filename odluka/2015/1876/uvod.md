@@ -1,0 +1,1 @@
+Na temelju članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine« br. 150/11 i 119/14), a u vezi s člankom 13. stavkom 1. podstavkom 2. Ugovora o osnivanju Centra za profesionalnu rehabilitaciju »Zagreb«, od 19. veljače 2015. godine, Vlada Republike Hrvatske je na sjednici održanoj 10. rujna 2015. godine donijela
