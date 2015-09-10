@@ -1,0 +1,1 @@
+Odluka o promjeni naziva Centra za regionalne aktivnosti Programa prioritetnih akcija Mediteranskog akcionog plana u Splitu i davanju suglasnosti na Statut Centra za regionalne aktivnosti Programa prioritetnih akcija - Priority Actions Programme Regional Activity Centre
