@@ -1,0 +1,4 @@
+## Pokretni odobalni objekti
+# Članak 5.
+(1) U upisnik brodova u Republici Hrvatskoj mogu se upisati pokretni odobalni objekti za istraživanje i eksploataciju podmorja čija starost u trenutku podnošenja prijave odnosno zahtjeva za prvi upis u upisnik ne prelazi 25 godina i ako udovoljavaju zahtjevima MODU Kodeksa iz 1979. ili MODU Kodeksa iz 1989. ili MODU Kodeksa iz 2009. te pripadnim obvezatnim kodeksima usvojenim unutar sustava Međunarodne pomorske organizacije zajedno s njihovim Protokolima, kako su izmijenjeni i dopunjeni, primjenljivim na postojeće objekte i ako udovoljavaju primjenljivim dodatnim posebnim uvjetima iz članka 8. ove Naredbe.
+(2) Pokretni odobalni objekti za istraživanje i eksploataciju podmorja koji ne udovoljavaju zahtjevima propisanim ovim člankom ne smatraju se prihvatljivim za prvi upis u upisnik brodova u Republici Hrvatskoj.

@@ -1,0 +1,1 @@
+Na temelju članka 1021. stavka 1. alineja šesnaesta i članka 77. stavka 3. Pomorskog zakonika (»Narodne novine« br. 181/04, 76/08, 146/08, 61/11, 56/13 i 26/15), te članka 18. Zakona o sustavu državne uprave (»Narodne novine« br. 150/11, 12/13), ministar pomorstva, prometa i infrastrukture donosi
