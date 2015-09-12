@@ -1,0 +1,5 @@
+# Članak 12.
+U članku 53. iza stavka 12. dodaju se stavci 13., 14. i 15. koji glase:
+»(13) Ovlašteni predstavnik suvlasnika i gospodarski subjekt koji je registriran za obavljanje djelatnosti kupca toplinske energije dužni su sklopiti ugovor o potrošnji toplinske energije najkasnije do 1. rujna 2016. godine.
+(14) Do sklapanja ugovora o potrošnji toplinske energije od strane ovlaštenog predstavnika suvlasnika i gospodarskog subjekta koji je registriran za obavljanje djelatnosti kupca, za kupca toplinske energije određuje se dosadašnji opskrbljivač toplinskom energijom koji opskrbljuje krajnje kupce toplinskom energijom.
+(15) Ako na dan stupanja na snagu ovoga Zakona pravna ili fizička osoba, koja nije kupac toplinske energije ima sklopljeni ugovor s ovlaštenim predstavnikom suvlasnika, ta osoba može obavljati uslugu upravljanja i održavanja dijela unutarnjih instalacija u toplinskim sustavima iz članka 44. stavka 1. ovoga Zakona, ali ne duže od roka predviđenog stavkom 13. ovoga članka.«.

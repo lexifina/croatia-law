@@ -1,0 +1,3 @@
+# Članak 14.
+(1) Zgrada/građevina izgrađena nakon stupanja na snagu ove Uredbe izvest će se na način da se ugradi uređaj za regulaciju protoka toplinske energije i uređaj za mjerenje potrošnje toplinske energije u svim toplinskim podstanicama, kao i da svaki posebni dio objekta koji predstavlja samostalnu uporabnu cjelinu ima ugrađen uređaj za regulaciju odavanja topline i zasebno mjerilo toplinske energije, u toplinskim sustavima.
+(2) U roku od šest mjeseci od dana stupanja na snagu ove Uredbe u zgradama/građevinama u svim toplinskim sustavima potrebno je ugraditi uređaj za mjerenje potrošnje toplinske energije.
