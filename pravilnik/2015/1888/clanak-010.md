@@ -1,0 +1,5 @@
+# Članak 10.
+(1) Prijedlog za bolničku medicinsku rehabilitaciju daje izabrani doktor primarne zdravstvene zaštite i to na temelju medicinske dokumentacije o pogoršanju zdravstvenog stanja korisnika i na temelju nalaza i mišljenja doktora specijalista odgovarajuće specijalnosti.
+(2) Iznimno, prijedlog za bolničku medicinsku rehabilitaciju može dati i doktor specijalist odgovarajuće specijalnosti iz bolničke zdravstvene ustanove u kojoj se korisnik liječi kada je potreban premještaj u specijalnu bolničku zdravstvenu ustanovu za medicinsku rehabilitaciju na temelju medicinske dokumentacije.
+(3) U slučaju iz stavka 2. ovoga članka korisnik ima pravo na naknadu troškova prijevoza ako ne ispunjava uvjete za ostvarivanje prava na sanitetski prijevoz predviđene pravilnikom ministra nadležnog za zdravlje i utvrđene općim aktom HZZO-a.
+(4) Prijedlog za produljenje važenja medicinske dokumentacije daje doktor specijalist odgovarajuće specijalnosti iz bolničke zdravstvene ustanove u kojoj je korisnik na medicinskoj rehabilitaciji na temelju medicinske dokumentacije.
