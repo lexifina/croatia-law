@@ -1,0 +1,1 @@
+Na temelju članka 10. stavka 5. Zakona o pravima žrtava seksualnog nasilja za vrijeme oružane agresije na Republiku Hrvatsku u Domovinskom ratu (»Narodne novine« broj 64/15), ministar branitelja donosi

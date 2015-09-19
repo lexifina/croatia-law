@@ -1,0 +1,3 @@
+# Članak 13.
+(1) Prije uzimanja izjave, kao i tijekom upravnog postupka, stranci će se osigurati privatnost te prethodno objasniti tijek postupka i upoznati ju s činjenicom da se postupak vodi uz isključenje javnosti, te da će se svi podatci i okolnosti koje iznese tijekom postupka, kao i njen identitet čuvati u tajnosti i koristiti jedino u svrhu ostvarivanja prava iz Zakona te prijave seksualnog nasilja odnosno počinitelja nadležnim tijelima kada za to postoji obveza.
+(2) Stranka nije dužna odgovarati na pitanja koja se odnose na njen strogo osobni život i nisu važni za utvrđivanje činjenica u postupku.
