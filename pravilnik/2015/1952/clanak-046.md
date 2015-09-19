@@ -1,0 +1,20 @@
+# Članak 46.
+Matična knjiga korisnika vodi se za sve korisnike usluga iz članka 45., stavka 1. ovoga Pravilnika i sadrži:
+1. opće podatke o pružatelju usluge i matičnoj knjizi (naziv i sjedište pružatelja usluge, podružnice, redni broj matične knjige, podatak o matičnim brojevima i razdoblju koje knjiga obuhvaća, osobno ime i potpis odgovorne osobe u vrijeme početka vođenja knjige i u vrijeme završetka vođenja knjige),
+2. redni broj u matičnoj knjizi,
+3. osobno ime, ime oca/majke, osobni identifikacijskih broj (OIB),
+4. datum i mjesto rođenja,
+5. prebivalište/boravište,
+6. državljanstvo,
+7. bračni status,
+8. rješenje o lišenju poslovne sposobnosti (klasa, urudžbeni broj i datum izdavanja rješenja),
+9. rješenje o imenovanju skrbnika (klasa, urudžbeni broj i datum izdavanja rješenja),
+10. vrsta, stupanj i težina oštećenja,
+11. rješenje nadležnog centra za socijalnu skrb o priznatoj usluzi/uslugama (klasa, urudžbeni broj i datum izdavanja rješenja) ili ugovor,
+12. datum početka pružanja usluge,
+13. vrsta usluge (psihosocijalna podrška, rana intervencija, pomoć pri uključivanju u programe odgoja i redovitog obrazovanja (integracija), boravak, smještaj, organizirano stanovanje),
+14. mjesto boravka korisnika (kod roditelja, u domu i sl.) prije korištenja usluge smještaja ili organiziranog stanovanja,
+15. datum i razlog prestanka pružanja usluge,
+16. školski status prije početka pružanja usluge (popunjavaju samo centri za odgoj i obrazovanje),
+17. školski status nakon završetka pružanja usluge (popunjavaju samo centri za odgoj i obrazovanje),
+18. primjedbe.

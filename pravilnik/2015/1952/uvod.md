@@ -1,0 +1,1 @@
+Na temelju članka 162. stavak 2., članka 168. stavak 2., članka 171. stavak 2. i članka 173. stavak 2. Zakona o socijalnoj skrbi (»Narodne novine«, broj: 157/13 i 152/14) ministrica socijalne politike i mladih donosi

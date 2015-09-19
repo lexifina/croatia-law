@@ -1,0 +1,2 @@
+# Članak 134.
+Pružatelji usluga za beskućnike i odrasle osobe koje se zateknu izvan mjesta prebivališta ili boravišta, odnosno koje nemaju prebivališta ili boravišta i nisu u stanju brinuti se o sebi (u daljnjem tekstu: pružatelji usluga) utvrđuju godišnji plan i program rada, te ga dostavljaju nadležnom ministarstvu te jedinici lokalne i regionalne (područne) samouprave do kraja siječnja za tekuću godinu.

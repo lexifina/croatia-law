@@ -1,0 +1,4 @@
+# Članak 142.
+(1) Matična knjiga čuva se trajno, a ostale evidencije (kartoteka osobnih listova korisnika, knjiga evidencija odsutnosti korisnika, knjiga zapažanja, evidencija zaprimljenih zahtjeva za pružanje usluge i dr.) se čuvaju u skladu sa Zakonom o arhivskom gradivu i arhivima (»Narodne novine«, broj 105/97, 64/00, 65/09 i 125/11).
+(2) Dokumentacija koju čine osobne (javne) isprave kao i medicinska dokumentacija vraća se korisniku nakon prestanka pružanja usluge ili pravnim sljednicima na njihov zahtjev i o tome se izdaje pisana potvrda koju potpisuju obje strane.
+(3) Osobni list korisnika i ostala dokumentacija kao i kopija isprava i dokumentacije iz stavka 1. koju čini dosje korisnika, čuva se u skladu sa Zakonom o arhivskom gradivu i arhivama (»Narodne novine«, broj 105/97, 64/00, 65/09 i 125/11).

@@ -1,0 +1,2 @@
+# Članak 137.
+Pružatelji usluga iz članka 124. ovog Pravilnika su dužni ministarstvu tejedinici lokalne i regionalne (područne) samouprave na temelju dokumentacije i evidencije koju vode o korisnicima, vrstama usluga i drugim pitanjima, dostavljati godišnje izvješće najkasnije do kraja siječnja za prethodnu godinu, a na zahtjev ministarstva, odnosno jedinice lokalne i/ili regionalne (područne) samouprave i češće.

@@ -1,0 +1,20 @@
+# Članak 21.
+Matična knjiga korisnika vodi se za sve korisnike usluga iz članka 19. točke 1. - 7. ovoga Pravilnika koje pružatelj usluga pruža u okviru svoje djelatnosti te sadrži:
+1. opće podatke o pružatelju usluga i matičnoj knjizi (naziv županije, općine/grada, naziv i sjedište pružatelja usluge i podružnice pružatelja usluge, redni broj matične knjige, naznaku i podatak o matičnim brojevima i razdoblju koje knjiga obuhvaća, te osobno ime i potpis ravnatelja u vrijeme početka vođenja knjige i u vrijeme završetka vođenja knjige),
+2. redni broj u matičnoj knjizi,
+3. osobno ime, ime oca/majke, osobni identifikacijski broj (OIB),
+4. datum i mjesto rođenja,
+5. prebivalište/boravište,
+6. državljanstvo/država podrijetla djece bez pratnje - stranih državljana u Republici Hrvatskoj,
+7. vrsta socijalne usluge,
+8. pravni temelj priznavanja prava na uslugu (Zakon o socijalnoj skrbi, Obiteljski zakon, Zakon o sudovima za mladež),
+9. datum početka pružanja usluge,
+10. klasa, urudžbeni broj i datum izdavanja rješenja nadležnog centra za socijalnu skrb o priznatoj usluzi,
+11. klasa, urudžbeni broj i datum izvršnosti rješenja suda za mladež o izrečenoj sudskoj odgojnoj mjeri temeljem Zakona o sudovima za mladež,
+12. klasa, urudžbeni broj i datum rješenja centra za socijalnu skrb o skrbništvu,
+13. smještaj korisnika prije dolaska kod pružatelja usluge na smještaj (kod roditelja, udomiteljske obitelji, drugoj ustanovi),
+14. kome je korisnik povjeren za vrijeme trajanja ostalih usluga osim smještaja (roditeljima, udomiteljskoj obitelji, drugoj ustanovi i dr.),
+15. školski status pri dolasku kod pružatelja usluge (završeni razred),
+16. datum prestanka pružanja usluge,
+17. razlog prestanka pružanja usluge,
+18. školski status pri odlasku od pružatelja usluge (završeni razred, škola, zvanje).
