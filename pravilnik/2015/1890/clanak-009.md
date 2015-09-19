@@ -1,0 +1,5 @@
+## Osoba odgovorna za zaštitu od ionizirajućeg zračenja
+# Članak 9.
+(1) Osoba odgovorna za zaštitu od ionizirajućeg zračenja u zdravstvenim, znanstvenim i obrazovnim ustanovama, nositeljima odobrenja za obavljanje djelatnosti provjere kvalitete radiografijom te nositeljima odobrenja za obavljanje nuklearne djelatnosti mora imati završen preddiplomski i diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij.
+(2) Osoba odgovorna za zaštitu od ionizirajućeg zračenja u ostalim nositeljima odobrenja za obavljanje djelatnosti s izvorima ionizirajućeg zračenja i korisnicima mora imati završen preddiplomski sveučilišni studij ili stručni studij u trajanju od najmanje tri godine sukladno aktu nositelja odobrenja o provedbi mjera radiološke sigurnosti i mjera osiguranja kvalitete.
+(3) Osoba odgovorna za zaštitu od ionizirajućeg zračenja iz stavka 1. i stavka 2. ovoga članka mora imati posebno obrazovanje o primjeni mjera radiološke sigurnosti stečeno redovnim obrazovanjem ili posebnim obrazovanjem o primjeni mjera radiološke sigurnosti za osobe odgovorne za zaštitu od ionizirajućeg zračenja (u daljnjem tekstu: posebno obrazovanje).
