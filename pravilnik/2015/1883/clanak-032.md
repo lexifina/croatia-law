@@ -1,0 +1,6 @@
+## Čelna zaštita
+# Članak 32.
+(1) Čelna zaštita je zaštita voznog puta, uključujući i put proklizavanja, od neželjenih kretanja u smjeru suprotnom od postavljenog voznog puta.
+(2) Čelna zaštita postiže se suprotnim glavnim signalima, graničnim kolosiječnim signalima ili manevarskim signalima za zaštitu voznog puta, ugrađenima iza ciljnog signala izvan puta proklizavanja. Signali koji pružaju čelnu zaštitu ne smiju signalizirati signalni znak dopuštene vožnje, uključivo i signalni znak »Oprezna vožnja brzinom do 20 km/h«. Signali koji pružaju čelnu zaštitu smiju biti neosvijetljeni.
+(3) Čelnu zaštitu mogu također davati skretnica i iskliznica (ako postoje) koje se nalaze iza ciljnog signala, a izvan puta proklizavanja. Skretnice daju čelnu zaštitu zaštitnim položajem, a iskliznice zatvorenim položajem. Skretnice (iskliznice) u čelnoj zaštiti blokiraju se ako su jedini element čelne zaštite.
+(4) Glavni signali, granični kolosiječni signali i manevarski signali za zaštitu voznog puta koji se nalaze između startnog i ciljnog signala voznog puta, a vrijede za suprotni smjer, ne smatraju se signalima čelne zaštite. Na istima se ne smije signalizirati signalni znak dopuštene vožnje, uključivo i signalni znak »Oprezna vožnja brzinom do 20 km/h«.

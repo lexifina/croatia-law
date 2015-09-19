@@ -1,0 +1,4 @@
+# Članak 9.
+(1) Kod SSU izvedenih u relejnoj tehnici dokazivanje sigurnosti obavlja se postupkom sigurnosne analize i njenom provjerom na izgrađenom uređaju. Sigurnosna analiza je postupak kojim se ispituje otpornost uređaja na pojavu stanja opasnog za sigurnost željezničkog prometa kod nastanka bilo kojeg od mogućih kvarova na nekoj od ugrađenih komponenata SSU u svim radnim stanjima uređaja. Popis kvarova odnosno ispada iz rada svake od ugrađenih komponenata SSU, koje sigurnosna analiza mora obuhvatiti, naveden je u normi HRN EN 50129.
+(2) Sigurnosnu analizu kod relejnog SSU izrađuje proizvođač uređaja, a ovjerava sigurnosni ocjenitelj odnosno inspekcijsko tijelo.
+(3) Kod uređaja izvedenih kombinacijom elektroničke i relejne tehnike postupak dokazivanja sigurnosti cjelokupnog PUSSIP daje akreditirano inspekcijsko tijelo tipa A.
