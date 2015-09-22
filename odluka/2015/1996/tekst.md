@@ -1,0 +1,2 @@
+Osniva se Konzulat Republike Hrvatske u Republici Kolumbiji, sa sjedištem u Bogoti, na čelu s počasnim konzulom i konzularnim ovlastima nad konzularnim područjem koje obuhvaća kolumbijske provincije: Atlántico, Antioquia, Amazonas, Arauca, Bolivar, Boyacá, Caldas, Casanare, Cesar, Cordoba, Cundinamarca, Guajira, Guaviare, Magdalena, Meta, Norte de Santander, San Andres and Providencia Islands, Quindio, Risaralda, Santander, Sucre i Tolima.
+Ova Odluka stupa na snagu danom donošenja.
