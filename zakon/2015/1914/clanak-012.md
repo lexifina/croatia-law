@@ -1,0 +1,3 @@
+# Članak 12.
+Članak 34. mijenja se i glasi:
+»Ako centar za socijalnu skrb procijeni da postoji vjerojatnost da korisnik zajamčenu minimalnu naknadu ne koristi ili neće koristiti za zadovoljavanje potrebe prehrane djeteta koje je član kućanstva korisnika zajamčene minimalne naknade, nadležni ured državne uprave u županiji, odnosno nadležni ured Grada Zagreba će na temelju obavijesti centra za socijalnu skrb iz članka 29.a stavka 6. ovoga Zakona odrediti da se zajamčena minimalna naknada djelomično izravno uplati obrazovnoj ustanovi na ime troška toplog obroka učenika koji je član kućanstva korisnika zajamčene minimalne naknade.«.

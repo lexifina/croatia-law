@@ -1,0 +1,5 @@
+# Članak 45.
+Članak 253. mijenja se i glasi:
+»(1) Kada utvrdi da su ispunjene pretpostavke iz članka 250. stavaka 1., 2. i 4. ovoga Zakona, odnosno da je nastala šteta iz članka 251. ovoga Zakona, nadležno tijelo koje je donijelo odluku o priznavanju prava pozvat će korisnika da u određenom roku izvrši povrat isplaćenog iznosa, odnosno nadoknadi nastalu štetu.
+(2) Ako obveznik povrata isplaćenog iznosa ne izvrši povrat isplaćenog iznosa u određenom roku, odnosno nastala šteta ne bude nadoknađena, Republika Hrvatska ovlaštena je podnijeti tužbu radi povrata isplaćenih iznosa, odnosno naknade štete putem nadležnog državnog odvjetništva na temelju dokumentacije koju dostavlja nadležno tijelo koje je donijelo odluku o priznavanju prava, osim u slučaju iz članka 250. stavka 3. ovoga Zakona.
+(3) Način suradnje ureda državne uprave u županiji, odnosno nadležnog ureda Grada Zagreba s nadležnim centrom za socijalnu skrb u postupanju u slučaju da su ispunjene pretpostavke iz članka 250. stavaka 1., 2. i 4. ovoga Zakona, odnosno da je nastala šteta iz članka 251. ovoga Zakona pravilnikom će propisati ministar nadležan za socijalnu skrb.«.
