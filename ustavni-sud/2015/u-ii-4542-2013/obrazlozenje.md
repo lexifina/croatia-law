@@ -1,0 +1,10 @@
+O b r a z l o ž e n j e
+1. Mirjana Pavić iz Splita podnijela je Ustavnom sudu prijedlog za pokretanje postupka za ocjenu suglasnosti s Ustavom i zakonom članka 44. Općih uvjeta za obavljanje univerzalne usluge ("HP glasnik" broj 8/13., 10/13., 19/13. i 25/13.) koje je donijela Uprava trgovačkog društva HP - Hrvatske pošte d. d. (u daljnjem tekstu: Opći uvjeti).
+2. Predlagateljica smatra da je legitimiranje pošiljatelja, primatelja ili druge ovlaštene osobe u svrhu dokazivanja identiteta, propisano u osporenom članku 44. Općih uvjeta, u suprotnosti sa Zakonom o poštanskim uslugama ("Narodne novine" broj 144/12. i 153/13.) jer time Hrvatska pošta d. d. neovlašteno vrši uvide u osobne iskaznice korisnika usluga.
+Ustavni sud nije nadležan za odlučivanje.
+3. Člankom 125. alinejom 2. Ustava propisano je da Ustavni sud odlučuje o suglasnosti drugih propisa s Ustavom i zakonom.
+Pod "drugim propisom", u smislu članka 125. alineje 2. Ustava, razumijeva se eksterni općenormativni i pravno obvezujući akt koji je donijelo tijelo državne vlasti radi uređenja pojedinih pitanja, izvršenja i provedbe zakona, odnosno provedbe drugog propisa više pravne snage, koji uređuje odnose na općenit način i koji djeluje prema svima koji se nađu u pravnoj situaciji da se na njih dotični akt ima primijeniti. Sukladno tome, temeljna materijalna obilježja "drugog propisa", u smislu članka 125. alineje 2. Ustava, jesu njegova apstraktnost i generalnost.
+4. Tijekom ustavnosudskog postupka utvrđeno je da osporeni Opći uvjeti po svojim pravnim značajkama nisu drugi propis (podzakonski općenormativni akt), čiju je ustavnost i zakonitost Ustavni sud ovlašten ocjenjivati po osnovi članka 125. alineje 2. Ustava.
+5. Članak 32. Ustavnog zakona o Ustavnom sudu Republike Hrvatske ("Narodne novine" broj 99/99., 29/02. i 49/02. - pročišćeni tekst, u daljnjem tekstu: Ustavni zakon) u mjerodavnom dijelu glasi:
+"Ustavni sud će rješenjem odbaciti prijedlog ... ako nije nadležan za odlučivanje ... "
+6. Na temelju članka 32. Ustavnog zakona riješeno je kao u izreci.
