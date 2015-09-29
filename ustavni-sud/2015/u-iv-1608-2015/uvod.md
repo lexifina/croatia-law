@@ -1,0 +1,1 @@
+Ustavni sud Republike Hrvatske, u sastavu Jasna Omejec, predsjednica, te suci Mato Arlović, Marko Babić, Snježana Bagić, Slavica Banić, Mario Jelušić, Ivan Matija, Antun Palarić, Aldo Radolović i Duška Šarin, odlučujući u postupku povodom zahtjeva za rješavanje sukoba nadležnosti, na sjednici održanoj 29. rujna 2015. donio je
