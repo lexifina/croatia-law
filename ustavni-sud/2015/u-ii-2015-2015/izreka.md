@@ -1,0 +1,2 @@
+R J E Š E N J E
+Odbacuje se prijedlog za pokretanje postupka za ocjenu suglasnosti s Ustavom i zakonom članka 13. stavka 1. Odluke o komunalnom doprinosu Općine Gračišće ("Službene novine Grada Pazina i općina Cerovlje, Gračišće, Karojba, Lupoglav, Motovun i Sveti Petar u šumi" broj 9/12. i 6/13.), u dijelu koji glasi "… pod uvjetom da ima prebivalište na području Općine Gračišće u neprekidnom trajanju od samog postojanja općine pa sve do podnošenja zahtjeva za obračun doprinosa.".
