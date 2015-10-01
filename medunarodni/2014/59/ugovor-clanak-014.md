@@ -1,0 +1,6 @@
+# Članak 14.
+Stupanje na snagu
+Ovaj Memorandum o suglasnosti stupa na snagu prvoga dana mjeseca koji slijedi nakon mjeseca u kojem je Ministarstvo vanjskih poslova Bosne i Hercegovine primilo šestu obavijest od stranaka DPPI SEE o okončanju njihovih unutarnjih uvjeta potrebnih za njegovo stupanje na snagu.
+Za svaku stranku DPPI SEE koja nakon polaganja šeste obavijesti u skladu sa stavkom 1. ovoga članka obavijesti Ministarstvo vanjskih poslova Bosne i Hercegovine o okončanju svojih unutarnjih postupaka za stupanje na snagu ovoga Memoranduma o suglasnosti, on stupa na snagu datumom njezine obavijesti depozitaru.
+Nakon potpisivanja, izvornik ovoga Memoranduma o suglasnosti polaže se pri Vijeću ministara Bosne i Hercegovine koje služi kao depozitar. Depozitar dostavlja strankama DPPI SEE Memoranduma o suglasnosti i Tajništvu propisno ovjerene preslike istog.
+Ovaj Memorandum o suglasnosti privremeno se primjenjuje od datuma njegova potpisivanja osim ako stranka DPPI SEE u trenutku potpisivanja Memoranduma o suglasnosti ne izjavi da njezini unutarnji pravni uvjeti ne dozvoljavaju takvu privremenu primjenu. Za bilo koju takvu stranku DPPI SEE Memorandum o suglasnosti stupit će na snagu datumom njezine obavijesti depozitaru.
