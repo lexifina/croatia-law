@@ -1,0 +1,5 @@
+## Praćenje i utvrđivanje maksimalnog intenziteta potpora za poticanje ulaganja
+# Članak 19.
+(1) U svrhu praćenja i utvrđivanja maksimalnog intenziteta dodijeljenih potpora nadležno ministarstvo iz članka 6. točke 14. ovoga Zakona ima pravo tražiti od drugih središnjih tijela državne uprave i drugih tijela nadležnih za odobravanje potpora, kao i korisnika potpore podatke o svim dodijeljenim državnim potporama.
+(2) Nadležno ministarstvo iz članka 6. točke 14. ovoga Zakona obvezno je izračunavati bruto ekvivalent potpore, kao i apsolutni iznos potpore za pojedino ulaganje te pratiti ukupne potpore za poticanje ulaganja, uključujući i potpore iz drugih izvora sukladno članku 6. točki 13. ovoga Zakona i raditi izračun iskorištenja maksimalnog intenziteta potpore za poticanje ulaganja iz ovoga Zakona.
+(3) Nadležno ministarstvo iz članka 6. točke 14. ovoga Zakona kada utvrdi da je pojedini korisnik potpore iskoristio maksimalni intenzitet potpora za poticanje ulaganja, o tome pisano izvještava tog korisnika potpore i Ministarstvo financija - Poreznu upravu.

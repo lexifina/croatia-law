@@ -1,0 +1,2 @@
+# Članak 25.
+Trgovačka društva i obrti, obveznici poreza na dobit koji koriste poticajne mjere, porezne povlastice za ulaganje, a koje su ostvarili prema Zakonu o poticanju ulaganja (»Narodne novine«, br. 73/00.), Zakonu o poticanju ulaganja (»Narodne novine«, br. 138/06. i 61/11.) i Zakonu o poticanju investicija i unapređenju investicijskog okruženja (»Narodne novine«, br. 111/12. i 28/13.), zadržavaju pravo korištenja odobrenih poticajnih mjera, poreznih povlastica do isteka razdoblja za koje su odobrene.

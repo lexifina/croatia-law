@@ -1,0 +1,3 @@
+# Članak 4.
+(1) Cilj, odnosno svrha poticanja ulaganja je poticanje gospodarskog rasta i ostvarenje gospodarske politike Republike Hrvatske, njezina uključivanja u tokove međunarodne razmjene i jačanje investicijske i konkurentske sposobnosti hrvatskoga poduzetništva.
+(2) Na razini gospodarskih subjekata cilj i svrha poticanja ulaganja je izgradnja međunarodno konkurentnog, transparentnog i atraktivnog sustava potpora za ulaganja pravnih ili fizičkih osoba registriranih u Republici Hrvatskoj, obveznika poreza na dobit, koji obavljajući gospodarsku djelatnost, sudjeluju u prometu robe i usluga u Republici Hrvatskoj.
