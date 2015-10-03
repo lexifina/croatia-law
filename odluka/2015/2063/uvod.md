@@ -1,0 +1,1 @@
+Na temelju članka 45. stavka 1. Zakona o državnoj izmjeri i katastru nekretnina (»Narodne novine«, broj 16/2007, 124/2010) Državna geodetska uprava, u sporazumu s ministarstvom nadležnim za poslove pravosuđa, donosi
