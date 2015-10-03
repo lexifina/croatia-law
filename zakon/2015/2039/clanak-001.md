@@ -1,0 +1,14 @@
+# Članak 1.
+U Zakonu o pravnim posljedicama osude, kaznenoj evidenciji i rehabilitaciji (»Narodne novine«, br. 143/12.) iza članka 14. dodaju se članci 14.a, 14.b i 14.c koji glase:
+»Članak 14.a
+(1) Osoba može za sebe u sjedištu općinskog suda zatražiti izdavanje potvrde iz kaznene evidencije radi kandidiranja za zastupnika u Hrvatski sabor.
+(2) Izdavanje potvrde iz stavka 1. ovog članka može se zatražiti nakon stupanja na snagu Odluke o raspisivanju izbora do predlaganja kandidacijskih lista za izbor zastupnika u Hrvatski sabor.
+(3) Općinski sud će bez odgode izvršiti provjeru podataka iz kaznene evidencije te podnositelju zahtjeva izdati potvrdu o tome nalazi li se podnositelj zahtjeva u kaznenoj evidenciji. Općinski sud izdaje potvrdu prema podacima iz kaznene evidencije kojima raspolaže na dan izdavanja potvrde. Sadržaj potvrde propisuje se Pravilnikom iz članka 35. ovoga Zakona.
+(4) Ako se osoba nalazi u kaznenoj evidenciji, općinski sud će na njezin zahtjev bez odgode zatražiti od Ministarstva izdavanje posebnog uvjerenja u svrhu propisanu člankom 9. stavkom 4. i 5. Zakona o izborima zastupnika u Hrvatski sabor (»Narodne novine«, br. 116/99., 109/00., 53/03., 69/03., 167/03., 44/06., 19/07., 20/09., 145/10., 24/11., 93/11., 120/11. i 19/15.). Ministarstvo će izdati posebno uvjerenje bez odgode, a najkasnije u roku od tri dana od dana zaprimanja zahtjeva.
+(5) Zahtjev iz stavka 1. ovog članka podnosi se na obrascu propisanom Pravilnikom iz članka 35. ovoga Zakona. Zahtjev mora sadržavati ime i prezime osobe za koju se podaci traže, OIB, ime oca, datum i mjesto rođenja te potpis osobe za koju se podaci traže.
+(6) Izdavanje potvrde i uvjerenja iz ovoga članka oslobođeno je plaćanja sudskih i upravnih pristojbi.
+Članak 14.b
+(1) Radi provedbe izbora zastupnika u Hrvatski sabor, Ministarstvo osigurava Državnom izbornom povjerenstvu neposredan pristup podacima upisanim u kaznenu evidenciju u odnosu na kandidate navedene na kandidacijskim listama u razdoblju od stupanja na snagu Odluke o raspisivanju izbora do objave kandidacijskih lista, sukladno članku 23. Zakona o izborima zastupnika u Hrvatski sabor (»Narodne novine«, br. 116/99., 109/00., 53/03., 69/03., 167/03., 44/06., 19/07., 20/09., 145/10., 24/11., 93/11., 120/11. i 19/15.).
+(2) Ako Državno izborno povjerenstvo utvrdi da se kandidat nalazi u kaznenoj evidenciji, bez odgode će od Ministarstva zatražiti izdavanje posebnog uvjerenja u svrhu propisanu člankom 9. stavkom 4. i 5. Zakona o izborima zastupnika u Hrvatski sabor (»Narodne novine«, br. 116/99., 109/00., 53/03., 69/03., 167/03., 44/06., 19/07., 20/09., 145/10., 24/11., 93/11., 120/11. i 19/15.). Ministarstvo će izdati posebno uvjerenje bez odgode.
+Članak 14.c
+Ministarstvo izdaje uvjerenja iz članaka 14.a i 14.b ovoga Zakona prema podacima iz kaznene evidencije kojima raspolaže na dan izdavanja uvjerenja.«.
