@@ -1,0 +1,5 @@
+# Članak 48.
+(1) Stupanjem na snagu ovoga Zakona operator prijenosnog sustava ne može primjenjivati Kriterije za uvrštenje projekata vjetroelektrana na listu za priključenje na elektroenergetsku mrežu od 20. veljače 2012. i Postupovnik izdavanja prethodne elektroenergetske suglasnosti za vjetroelektrane te opće uvjete ugovora o priključenju vjetroelektrana na elektroenergetsku mrežu.
+(2) Operator prijenosnog sustava dužan je sukladno stavku 1. ovoga članka sklopiti aneks postojećih ugovora o priključenju s fizičkim ili pravnim osobama koje su prije stupanja na snagu ovoga Zakona sklopile ugovor o otkupu električne energije s operatorom tržišta u roku od trideset dana od dana stupanja na snagu ovoga Zakona.
+(3) Operator prijenosnog sustava dužan je u roku od 30 dana od dana stupanja na snagu ovoga Zakona sklopiti ugovor o priključenju s fizičkim ili pravnim osobama koje su prije stupanja na snagu ovoga Zakona sklopile ugovor o otkupu električne energije s operatorom tržišta.
+(4) Vlada Republike Hrvatske će propis iz članka 46. stavka 2. ovoga Zakona donijeti u roku od dvanaest mjeseci od dana stupanja na snagu ovoga Zakona.

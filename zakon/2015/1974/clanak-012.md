@@ -1,0 +1,5 @@
+# Članak 12.
+U članku 25. stavak 1. mijenja se i glasi:
+»(1) Operator prijenosnog sustava svake godine podnosi Agenciji na odobravanje desetogodišnji plan razvoja prijenosne mreže utemeljen na postojećoj i predviđenoj proizvodnji i opterećenju sustava, nakon savjetovanja sa svim relevantnim zainteresiranim stranama. Desetogodišnji plan razvoja prijenosne mreže sadrži učinkovite mjere koje jamče dostatnost mreže i sigurnost opskrbe.«.
+Stavak 5. mijenja se i glasi:
+»(5) Agencija provjerava pokriva li desetogodišnji plan razvoja prijenosne mreže sve investicijske potrebe prepoznate tijekom savjetodavnog postupka i usklađenost desetogodišnjeg plana razvoja prijenosne mreže s neobvezujućim desetogodišnjim planom razvoja prijenosne mreže na razini Europske unije prema Uredbi (EZ) br. 714/2009, a u slučaju neusklađenosti, Agencija se može savjetovati s Agencijom za suradnju energetskih regulatora te zahtijevati od operatora prijenosnog sustava izmjenu i dopunu desetogodišnjeg plana razvoja prijenosne mreže.«.

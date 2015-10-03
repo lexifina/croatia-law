@@ -1,0 +1,8 @@
+# Članak 37.
+Naslov iznad članka 64. mijenja se i glasi: »Privremena obustava isporuke električne energije«.
+Članak 64. mijenja se i glasi:
+(1) Prema ugovoru o opskrbi krajnjeg kupca svaki opskrbljivač može zahtijevati od operatora prijenosnog sustava ili operatora distribucijskog sustava obustavu isporuke krajnjem kupcu zbog neispunjenih obveza krajnjeg kupca iz ugovora o opskrbi krajnjeg kupca, izuzev kupaca pod posebnom zaštitom sukladno zakonu kojim se uređuje energetski sektor.
+(2) U razdoblju obustave isporuke iz stavka 1. ovoga članka krajnji kupac ima obveze koje se odnose na korištenje mreže.
+(3) Operator prijenosnog sustava ili operator distribucijskog sustava obvezan je, na temelju podnesenog zahtjeva opskrbljivača i ako se ne radi o kupcu pod posebnom zaštitom sukladno zakonu kojim se uređuje energetski sektor, privremeno obustaviti isporuku električne energije pri čemu ista ne može započeti u petak, subotu ili nedjelju, na državni praznik ili dan prije praznika.
+(4) Operator prijenosnog sustava ili operator distribucijskog sustava može kao krajnju mjeru privremeno obustaviti isporuku električne energije krajnjem kupcu zbog neplaćanja dijela cijene koji se odnosi na naknadu za korištenje mreže.
+(5) Kada korisnik mreže koristi mrežu suprotno odredbama općih uvjeta za korištenje mreže i opskrbu električnom energijom i/ili mrežnih pravila distribucijskog sustava, i/ili mrežnih pravila prijenosnog sustava, i/ili ugovora o korištenju mreže, operator prijenosnog sustava ili operator distribucijskog sustava na čiju su mrežu priključeni objekti, postrojenja, uređaji ili instalacije korisnika mreže može nakon prethodne opomene kao krajnju mjeru korisniku mreže privremeno obustaviti isporuku električne energije.«.

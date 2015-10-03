@@ -1,0 +1,3 @@
+# Članak 49.
+(1) Danom stupanja na snagu zakona kojime se uređuje područje obnovljivih izvora energije prestaju važiti odredbe članka 5. stavka 10., članka 11. stavaka 2., 3., 4., 5., 6., 7., 8., 9. i 11., članka 39. točke 12. i članka 73. stavka 1. točke 3. i 23. Zakona o tržištu električne energije (»Narodne novine«, br. 22/13. i 95/15.).
+(2) Danom stupanja na snagu zakona kojime se uređuje područje obnovljivih izvora energije prestaje važiti i odredba članka 14. ovoga Zakona u dijelu kojim se mijenja članak 29. točka 10., članak 23. ovoga Zakona u dijelu kojim se mijenja članak 46. stavak 18. i članak 29. ovoga Zakona u dijelu kojim se mijenja članak 53. stavak 6. točke 13., 14. i 15.

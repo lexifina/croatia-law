@@ -1,0 +1,8 @@
+# Članak 31.
+Iza članka 55. dodaju se članci 55.a i 55.b koji glase:
+»Članak 55.a
+(1) Kada Burza obavlja poslove kliringa zaključenih kupoprodajnih transakcija, Burza za potrebe realizacije kupnje i prodaje električne energije putem Burze otvara jedan ili više posebnih poslovnih računa.
+(2) Financijski instrumenti i novčana sredstva na posebnim poslovnim računima Burze koja je predmetne račune otvorila u svrhu deponiranja novca koji Burza primi od strane pojedinog člana Burze radi osiguranja plaćanja električne energije koju član Burze kupuje sudjelovanjem na Burzi, u svrhu naplate iznosa za električnu energiju koju je član Burze kupio sudjelovanjem na Burzi, a koji iznos Burza koristi da bi platila električnu energiju koju član Burze prodaje sudjelovanjem na Burzi, u svrhu plaćanja iznosa za električnu energiju koju je član Burze prodao sudjelovanjem na Burzi, ne ulaze u likvidacijsku, predstečajnu ili stečajnu masu Burze i člana Burze niti mogu biti predmetom ovrhe ili bilo kakvog zahtjeva trećih osoba temeljem potraživanja takvih trećih osoba prema Burzi i/ili prema članu Burze.
+(3) Uzajamni odnosi člana Burze i Burze u pogledu prava i obveza Burze na sredstvima koja se nalaze na takvim posebnim poslovnim računima Burze uređuju se odgovarajućim ugovorom između Burze i člana Burze.
+Članak 55.b
+Kada se steknu uvjeti za prijeboj uzajamnih potraživanja između jednog ili više članova Burze i Burze u okviru obavljanja kliringa burzovnih poslova, u predstečajnom postupku i stečajnom postupku se protiv bilo kojeg od tih članova Burze i/ili Burze ne primjenjuju odredbe koje uređuju predstečajni postupak i stečajni postupak o nedozvoljenosti prijeboja potraživanja te zabrani prijeboja potraživanja predstečajnog ili stečajnog dužnika.«.

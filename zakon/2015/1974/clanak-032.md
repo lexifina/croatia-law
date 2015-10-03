@@ -1,0 +1,3 @@
+# Članak 32.
+U članku 56. stavak 3. mijenja se i glasi:
+»(3) Operator prijenosnog sustava, operator distribucijskog sustava, operator tržišta električne energije i burza električne energije su posebni sudionici s obzirom na obvezu kupnje električne energije za pokriće gubitaka u prijenosnoj i distribucijskoj mreži, na kupnju i prodaju energije uravnoteženja, kupnju i prodaju električne energije proizvedene iz obnovljivih izvora energije i visokoučinkovite kogeneracije te na trgovanje na burzi električne energije, a čije se posebitosti detaljnije uređuju podzakonskim aktima donesenim na temelju ovoga Zakona i posebnog propisa kojim se uređuje područje obnovljivih izvora energije.«.

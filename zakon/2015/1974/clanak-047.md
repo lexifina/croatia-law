@@ -1,0 +1,4 @@
+# Članak 47.
+(1) Jedinstveni račun iz članka 23. ovoga Zakona primjenjuje se najkasnije od 31. prosinca 2016.
+(2) Elektroenergetski subjekt koji na dan stupanja na snagu ovoga Zakona obavlja djelatnost opskrbljivač kupaca u okviru univerzalne usluge dužan je izdvojiti opskrbu električnom energijom na temelju koja se obavlja kao javna usluga kroz statusnu promjenu podjele društva odvajanjem najkasnije do 31. prosinca 2016.
+(3) Operator prijenosnog sustava i operator distribucijskog sustava dužni su za postojeće priključke, koji su izgrađeni prije stupanja na snagu ovoga Zakona, a koji odgovaraju karakteristikama složenog priključka sukladno odredbama ovoga Zakona, dostaviti Agenciji radi davanja suglasnosti prijedlog kriterija i načina rješavanja preuzimanja priključaka u roku od dvanaest mjeseci od dana stupanja na snagu ovoga Zakona.
