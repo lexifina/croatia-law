@@ -1,0 +1,1 @@
+Na temelju članka 54. Zakona o ustanovama (»Narodne novine«, br. 76/93, 29/97, 47/99, 35/08), Upravno vijeće Centra za regionalne aktivnosti Programa prioritetnih akcija - Priority Actions Programme Regional Activity Centre na sjednici održanoj 27. kolovoza 2015. godine donosi
