@@ -1,0 +1,3 @@
+## PRIJELAZNE I ZAVRŠNE ODREDBE
+# Članak 2.
+Do stupanja na snagu izmjene Pravilnika o zvanjima i svjedodžbama o osposobljenosti pomoraca kojom se propisuje stjecanje svjedodžbe o osposobljenosti za upravitelja stroja na ribarskom brodu sa strojem porivne snage do 750 kW, u najmanji broj članova posade iz članka 1. stavka 5. ovoga Pravilnika ubraja se upravitelj stroja sa svjedodžbom o osposobljenosti za upravitelja stroja na ribarskom brodu sa strojem porivne snage do 500 kW umjesto upravitelja stroja sa svjedodžbom o osposobljenosti za upravitelja stroja na ribarskom brodu sa strojem porivne snage do 750 kW.
