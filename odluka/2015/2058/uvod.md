@@ -1,0 +1,2 @@
+Na temelju članka 13. stavka 3. Zakona o izvlaštenju i određivanju naknade (»Narodne novine«, broj 74/14), Vlada Republike Hrvatske, uz prethodno mišljenje Odbora Hrvatskoga sabora za prostorno uređenje i graditeljstvo, klase: 940-01/15-02/05, urbroja: 6521-14-15-02, od 16. rujna 2015. godine i Odbora Hrvatskoga sabora za gospodarstvo, klase: 940-01/15-02/06, urbroja: 6521-8-15-
+-02, od 16. rujna 2015. godine, je na sjednici održanoj 1. listopada 2015. godine donijela
