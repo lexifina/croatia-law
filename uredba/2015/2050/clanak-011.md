@@ -1,0 +1,6 @@
+## Detaljno mišljenje
+# Članak 11.
+(1) U slučaju da Komisija ili neka od država članica u roku od tri mjeseca od dana kada je Komisija primila informacije iz članka 5. stavka 1. ove Uredbe dostavi detaljno mišljenje o tome da bi odredbe prijedloga tehničkog propisa mogle stvoriti prepreke slobodnom kretanju robe na unutarnjem tržištu, nadležno tijelo će odgoditi donošenje odnosno upućivanje prijedloga tehničkog propisa u daljnju proceduru Vlade Republike Hrvatske na rok od:
+- četiri mjeseca za prijedlog tehničkog propisa u obliku dobrovoljnog sporazuma iz članka 3. stavka 1. točke h) podtočke 2. ove Uredbe ili
+- šest mjeseci za bilo koji drugi prijedlog tehničkog propisa osim prijedloga propisa o uslugama.
+(2) U slučaju da Komisija ili neka od država članica u roku od tri mjeseca od dana kada je Komisija primila informacije iz članka 5. stavka 1. ove Uredbe dostavi detaljno mišljenje o tome da bi odredbe prijedloga tehničkog propisa mogle stvoriti prepreke pravu poslovnog nastana pružatelja usluga ili slobodi pružanja usluga na unutarnjem tržištu nadležno tijelo će odgoditi za četiri mjeseca donošenje odnosno upućivanje prijedloga tehničkog propisa u daljnju proceduru Vlade Republike Hrvatske, ako se radi o prijedlogu tehničkog propisa o uslugama.

@@ -1,0 +1,5 @@
+# Članak 7.
+(1) Nadležno tijelo u skladu s člankom 6. stavkom 4. podstavkom 2. ove Uredbe dostavlja sljedeće dokumente ili podatke:
+- tekst temeljnih propisa koji se izravno tiču nacrta prijedloga tehničkog propisa, ako je poznavanje tog teksta potrebno za procjenu učinka prijedloga tehničkog propisa
+- podatak o propisu koji je dostavljen u okviru prethodne notifikacije ako se u Postupak 98/34 upućuju izmjene ili dopune tog propisa.
+(2) Ako se prijedlogom tehničkog propisa posebno želi ograničiti stavljanje na tržište i/ili uporaba kemijske tvari, pripravka ili proizvoda zbog javnog zdravlja odnosno zaštite potrošača ili okoliša, nadležno tijelo dostavlja sažetak svih relevantnih podataka o toj tvari, pripravku odnosno proizvodu te poznatim i raspoloživim nadomjescima odnosno upute na te podatke, ako su te informacije raspoložive, te priopćuje očekivane učinke mjere na javno zdravlje, zaštitu potrošača i okoliša, zajedno s analizom rizika koja se prema potrebi obavlja u skladu s općim načelima ocjene rizika kemijskih tvari i to za postojeće tvari odnosno za nove tvari.

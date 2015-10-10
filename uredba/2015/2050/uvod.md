@@ -1,0 +1,1 @@
+Na temelju članka 30. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/11 i 119/14) i članka 15. Zakona o tehničkim zahtjevima za proizvode i ocjenjivanju sukladnosti (»Narodne novine«, br. 80/13 i 14/14), Vlada Republike Hrvatske je na sjednici održanoj 1. listopada 2015. godine donijela

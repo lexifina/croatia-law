@@ -1,0 +1,8 @@
+# Članak 5.
+(1) Informacijska središnjica putem informacijskog sustava za tehničke propise (u daljnjem tekstu: sustav TRIS) dostavlja tekst prijedloga tehničkog propisa uz ispunjeni elektronički obrazac Europskoj komisiji (u daljnjem tekstu: notifikacija).
+(2) Javnopravno tijelo koje priprema tehnički propis (u daljnjem tekstu: nadležno tijelo) dostavlja prijedlog tehničkog propisa Informacijskoj središnjici osim ako prijedlog tehničkog propisa predstavlja u cijelosti prijenos teksta međunarodne ili europske norme, u kojem su slučaju dovoljne informacije o toj normi.
+(3) Nadležno tijelo u prijedlogu tehničkog propisa navodi da je notificiran u skladu s izmijenjenom Direktivom 98/34/EZ.
+(4) Uz tekst prijedloga tehničkog propisa nadležno tijelo prilaže objašnjenje o razlozima za donošenje tehničkog propisa putem elektroničkog obrasca predviđenog za notifikaciju.
+(5) Ako nadležno tijelo u tekstu prijedloga tehničkog propisa unese izmjene koje znatno mijenjaju područje primjene, skraćuju prvotno predviđene rokove primjene, odnosno utvrđuju dodatne specifikacije i zahtjeve ili pooštravaju postojeće specifikacije i zahtjeve, nadležno tijelo ponovno dostavlja prijedlog tehničkog propisa Informacijskoj središnjici.
+(6) Ukoliko je riječ o propisu koji se upućuje Vladi Republike Hrvatske na daljnji postupak sukladno odredbama Poslovnika Vlade Republike Hrvatske, notifikacija se provodi nakon prikupljenih propisanih mišljenja.
+(7) Odredbe ove Uredbe primjenjuju se na sve naknadne izmjene i dopune tehničkih propisa koji su bili predmet Postupka 98/34 ako se te izmjene i dopune smatraju tehničkim propisom u smislu ove Uredbe.
