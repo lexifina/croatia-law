@@ -1,0 +1,1 @@
+Na temelju članka 94. stavka 2., u vezi s člankom 23. stavkom 3., člankom 119. stavkom 6. i člankom 360. stavkom 1. Stečajnog zakona (»Narodne novine«, broj 71/15), Vlada Republike Hrvatske je na sjednici održanoj 1. listopada 2015. godine donijela
