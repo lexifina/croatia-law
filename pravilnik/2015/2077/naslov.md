@@ -1,0 +1,1 @@
+Pravilnik o provedbi mjere M04 "Ulaganja u fizičku imovinu", podmjere 4.3. "Potpora za ulaganja u infrastrukturu vezano uz razvoj, modernizaciju i prilagodbu poljoprivrede i šumarstva", tipa operacije 4.3.3. "Ulaganje u šumsku infrastrukturu" iz Programa ruralnog razvoja Republike Hrvatske za razdoblje 2014. - 2020.

@@ -1,0 +1,3 @@
+# Članak 11.
+(1) U slučaju ulaganja iz članka 8. točke 3. ovoga Pravilnika korisnik mora u trenutku podnošenja zahtjeva za potporu priložiti ugovor o kupoprodaji i prijedlog za uknjižbu s prijemnim štambiljem nadležnog općinskog suda. Korisnik mora dokazati pravo vlasništva nad kupljenim zemljištem u trenutku podnošenja zahtjeva za isplatu zadnje rate dostavljanjem izvatka iz zemljišnih knjiga.
+(2) U slučaju ulaganja iz članka 8. točke 3. ovoga Pravilnika korisnik mora u trenutku podnošenja zahtjeva za potporu dostaviti elaborat procjene tržišne vrijednosti nekretnine od ovlaštenog sudskog vještaka.

@@ -1,0 +1,2 @@
+# Članak 32.
+Za provedbu mjere M04 »Ulaganja u fizičku imovinu«, podmjere 4.3. »Potpora za ulaganja u infrastrukturu vezano uz razvoj, modernizaciju ili prilagodbu poljoprivrede i šumarstva«, tipa operacije 4.3.3. »Ulaganje u šumsku infrastrukturu« ravnatelj Agencije za plaćanja i pomoćnik ministra u čijoj su nadležnosti poslovi Upravljačkog tijela, svaki u okviru svoje nadležnosti, donose pisane procedure, obrasce i ostale dokumente neophodne za upravljanje i provedbu Programa.

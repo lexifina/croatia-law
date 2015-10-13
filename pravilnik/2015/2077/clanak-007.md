@@ -1,0 +1,3 @@
+## Prihvatljivi opći troškovi
+# Članak 7.
+Prihvatljivi opći troškovi su usluge konzultanata, troškovi potrebni za pripremu i provedbu projekta uključujući izradu elaborata učinkovitosti mreže šumskih prometnica, glavnog projekta za izgradnju šumskih prometnica, glavnog projekta za rekonstrukciju šumskih prometnica, stručni nadzor izgradnje i rekonstrukcije šumskih prometnica, studiju utjecaja na okoliš i prirodu (odgovarajuća procjena vezana za ulaganja na području ekološke mreže Natura 2000) te ostala projektna i tehnička dokumentacija potrebna za pripremu i provedbu projekta u maksimalnom iznosu od 10 % ukupnih prihvatljivih troškova (bez općih troškova), a sukladno članku 14. stavku 1. ovoga Pravilnika.

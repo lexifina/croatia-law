@@ -1,0 +1,2 @@
+# Članak 30.
+Informiranje je sastavni dio projekta. Kao što korisnik treba biti upoznat s izvorom financiranja iz kojeg će dobiti nepovratna sredstva za svoje ulaganje, tako korisnik mora, po završetku projekta, osigurati ovakvu informaciju javnosti sukladno Prilogu VII. ovoga Pravilnika (npr. postavljanjem informativnih ploča na istaknuto mjesto, kako bi i posjetitelji bili upoznati s činjenicom da je ulaganje sufinancirano kroz sustav EU potpora).
