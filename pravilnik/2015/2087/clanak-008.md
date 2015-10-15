@@ -1,0 +1,4 @@
+## Viša sila
+# Članak 8.
+(1) U slučaju više sile i izvanrednih okolnosti, obveznici dostave izvješća prema ovome Pravilniku dužni su u pisanom ili elektroničkom obliku izvijestiti Agenciju za plaćanja o nastupu više sile i izvanrednih okolnosti zbog kojih nisu bili u mogućnosti dostaviti izvješće, uz dostavljanje odgovarajućeg dokaza u roku od 30 dana od dana nastanka događaja.
+(2) Viša sila i izvanredne okolnosti iz stavka 1. ovoga članka imaju jednako značenje kao definicija korištena u članku 2. stavku 2. Uredbe (EU) br. 1306/2013 Europskog parlamenta i Vijeća od 17. prosinca 2013. o financiranju, upravljanju i nadzoru zajedničke poljoprivredne politike i o stavljanju izvan snage uredbi Vijeća (EEZ) br. 352/78, (EZ) br. 165/94, (EZ) br. 2799/98, (EZ) br. 814/2000, (EZ) br. 1290/2005 i (EZ) 485/2008 (SL L 347, 20. 12. 2013.).

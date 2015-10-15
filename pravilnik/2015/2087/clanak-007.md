@@ -1,0 +1,5 @@
+## Vođenje evidencije i čuvanje dokumentacije
+# Članak 7.
+(1) Prvi otkupljivač dužan je voditi evidenciju o količinama mlijeka koje su mu isporučene i o kojima dostavlja izvješće sukladno člancima 3. i 4. ovoga Pravilnika te čuvati pripadajuću dokumentaciju najmanje pet godina od završetka godine u kojoj je nastala.
+(2) Proizvođač mlijeka dužan je voditi mjesečnu evidenciju o količinama mlijeka koje je isporučio prvom otkupljivaču koji ima sjedište izvan područja Republike Hrvatske i o kojima dostavlja izvješće sukladno članku 5. ovoga Pravilnika te čuvati pripadajuću dokumentaciju najmanje pet godina od završetka godine u kojoj je nastala.
+(3) Proizvođač mlijeka dužan je voditi mjesečnu evidenciju o količinama mlijeka koje su neposredno prodane i o količinama mlijeka koje su upotrijebljene za proizvodnju mliječnih proizvoda koji su neposredno prodani te o kojima dostavlja izvješće sukladno članku 6. ovoga Pravilnika kao i čuvati pripadajuću dokumentaciju najmanje pet godina od završetka godine u kojoj je nastala.
