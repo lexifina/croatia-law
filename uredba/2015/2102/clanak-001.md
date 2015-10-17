@@ -1,0 +1,6 @@
+# Članak 1.
+U Uredbi o metodologijama vještačenja (»Narodne novine«, broj 153/14), u članku 3. stavku 1. iza prve rečenice dodaje se druga rečenica koja glasi: »Iznimno, više vještake može imenovati Upravno vijeće Zavoda iz redova vještaka koji su u radnom odnosu u Zavodu za vještačenje.«.
+Stavak 3. mijenja se i glasi:
+»(3) Za vještaka i višeg vještaka, može biti imenovana osoba iz redova doktora medicine bez specijalizacije s najmanje deset godina radnog iskustva u struci ili iz redova doktora medicine - specijalista medicine rada/medicine rada i sporta, opće obiteljske medicine, interne medicine, psihijatrije, neurologije, ortopedije/ortopedije i traumatologije, fizikalne medicine i rehabilitacije, reumatologije i drugih specijalnosti, s najmanje dvije godine radnog iskustva u specijalnosti, te klinički psiholog, psiholog, diplomirani socijalni radnik ili magistar socijalnog rada, stručnjak edukacijsko-rehabilitacijskog profila (logoped, rehabilitator, defektolog), pedagog i drugi stručnjak prema potrebi vještačenja s najmanje pet godina radnog iskustva u struci.«.
+U stavku 6. riječi: »specijalista pojedinih grana medicine,« brišu se.
+U stavku 7. iza riječi: »doktora medicine« zarez se zamjenjuje točkom, a riječi: »specijalista pojedinih grana medicine.« brišu se.
