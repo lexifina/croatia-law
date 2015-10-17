@@ -1,0 +1,4 @@
+# Članak 30.
+(1) Praktična izobrazba obavlja se u instituciji u kojoj je polaznik zaposlen.
+(2) Polaznik je dužan u roku od deset dana od datuma položenog pismenog ispita, Središnjoj harmonizacijskoj jedinici dostaviti obavijest o nazivima revizija i mentoru, na obrascu koji je sastavni dio ovog Pravilnika kao Prilog 5.
+(3) Polaznik koji se upućuje na pohađanje izobrazbe iz institucije koja nema imenovanog rukovoditelja unutarnje revizije ili osobu koja ispunjava uvjete za mentora iz članka 12. stavka 2. ovoga Pravilnika dostavlja nazive za dvije revizije na Obrascu obavijest o nazivima revizija i mentoru uz suglasnost odgovorne osobe institucije u roku od deset dana od datuma položenog pismenog ispita. Polazniku će mentora dodijeliti Središnja harmonizacijska jedinica, osim u slučaju ako bi polaznik sam našao mentora.
