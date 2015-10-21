@@ -1,0 +1,4 @@
+# Članak 12.
+(1) Muzeji i galerije te pravne osobe unutar kojih su muzeji, galerije i zbirke mogu na temelju pisanog ugovora povjeriti muzejsku građu i muzejsku dokumentaciju na čuvanje i radi izlaganja drugom muzeju i galeriji te drugoj pravnoj osobi ili državnom tijelu koji ispunjavaju propisane uvjete za čuvanje povjerene im građe i dokumentacije utvrđene pravilnikom iz članka 9. stavka 2. ovoga Zakona.
+(2) Muzejska građa i dokumentacija u vlasništvu stranog muzeja i galerije ili strane države koju na temelju pisanog ugovora posude i preuzmu muzeji i galerije te pravne osobe unutar kojih su muzeji, galerije i zbirke radi izlaganja te stručne i znanstvene obrade ne mogu biti predmetom ovrhe i osiguranja prema posebnom propisu ako je ministar nadležan za kulturu izdao jamstvo kojim se ove pokretnine izuzimaju od ovrhe i osiguranja u Republici Hrvatskoj.
+(3) Pravni posao koji je sklopljen protivno stavku 1. ovoga članka smatra se ništetnim.

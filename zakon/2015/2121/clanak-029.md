@@ -1,0 +1,3 @@
+# Članak 29.
+(1) Muzeji galerija imaju stručno vijeće od najmanje triju članova koje, sukladno statutu muzeja i galerije, čini stručno muzejsko osoblje iz članka 38. stavaka 1., 2. i 3. ovoga Zakona i ravnatelj muzeja i galerije, odnosno druga osoba koja vodi poslovanje privatnog muzeja i galerije prema posebnom zakonu.
+(2) Stručno vijeće razmatra i daje mišljenja o stručnim i drugim pitanjima rada i razvitka muzeja i galerije, predlaže način organiziranja i vođenja stručnog rada, plan i program rada muzeja i galerije te obavlja i druge poslove određene aktom o osnivanju, statutom muzeja i galerije ili drugim općim aktom.

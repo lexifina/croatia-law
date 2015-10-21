@@ -1,0 +1,4 @@
+# Članak 10.
+(1) Muzeji i galerije te muzeji, galerije i zbirke unutar pravnih osoba mogu muzejsku građu i muzejsku dokumentaciju pribavljati kupnjom, darovanjem, nasljeđivanjem, zamjenom, terenskim radom i istraživanjem te na drugi zakonom dopušteni način.
+(2) Prodaju, darovanje i zamjenu muzejske građe i dokumentacije mogu muzeji i galerije kojima su osnivači ili suosnivači Republika Hrvatska, županije, Grad Zagreb, gradovi i općine te muzeji, galerije i zbirke unutar javnih ustanova obaviti samo uz prethodno odobrenje ministarstva nadležnog za poslove kulture po pribavljenom mišljenju Hrvatskoga muzejskog vijeća. Sredstva dobivena prodajom muzejske građe i dokumentacije mogu se upotrijebiti isključivo za nabavu muzejske građe i muzejske dokumentacije.
+(3) Pravni posao sklopljen protivno odredbi stavka 2. ovoga članka smatra se ništetnim.

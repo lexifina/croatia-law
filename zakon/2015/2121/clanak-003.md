@@ -1,0 +1,8 @@
+# Članak 3.
+U smislu ovoga Zakona pojedini pojmovi imaju sljedeća značenja:
+1. muzejska djelatnost: nabavka, sabiranje, zaštita, istraživanje, komuniciranje i izlaganje u svrhu proučavanja, edukacije i uživanja civilizacijskih, kulturnih materijalnih i nematerijalnih i prirodnih dobara te njihova stručna i znanstvena obrada i sistematizacija u zbirke, trajna zaštita muzejske građe, muzejske dokumentacije i muzejski prezentiranih baštinskih lokaliteta i nalazišta, te njihovo interpretiranje i prezentiranje javnosti putem različitih komunikacijskih oblika u stvarnom i virtualnom okruženju
+2. muzej: javna ustanova ili ustrojstvena jedinica javne ustanove koja trajno obavlja muzejsku djelatnost kao javni muzej te ustanova, udruga, zadruga, zaklada, trgovačko društvo ili njihova ustrojstvena jedinica i obrtnik koji trajno obavljaju muzejsku djelatnost kao privatni muzeji, u službi društva i njegovog razvitka, otvoreni za javnost, a u skladu s uvjetima propisanima ovim Zakonom
+3. galerija: vrsta muzeja koji kao javni ili privatni obavljaju muzejsku djelatnost u skladu s uvjetima propisanima ovim Zakonom
+4. izložbena galerija: galerija koja nema vlastitu muzejsku građu i obavlja muzejsku djelatnost prezentiranjem javnosti civilizacijskih, kulturnih materijalnih i nematerijalnih te prirodnih dobara u skladu s uvjetima propisanima ovim Zakonom
+5. zbirka: ustrojstvena jedinica unutar pravne osobe koja obavlja muzejsku djelatnost u skladu s uvjetima propisanima ovim Zakonom
+6. muzejska građa: civilizacijska, prirodna i kulturna materijalna i nematerijalna dobra koja su dio nacionalne i općeljudske baštine.

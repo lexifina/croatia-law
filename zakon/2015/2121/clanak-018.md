@@ -1,0 +1,4 @@
+# Članak 18.
+(1) Ministarstvo nadležno za poslove kulture vodi očevidnik muzeja i galerija te muzeja, galerija i zbirki unutar pravnih osoba, kao i drugih pravnih i fizičkih osoba koje obavljaju muzejsku djelatnost u skladu s ovim Zakonom.
+(2) Pravne i fizičke osobe iz stavka 1. ovoga članka dužne su dostaviti podatke za upis u očevidnik sukladno pravilniku iz stavka 3. ovoga članka u roku od osam dana od pravomoćnosti rješenja o upisu muzeja i galerije, odnosno muzejske djelatnosti pravne ili fizičke osobe, u sudski ili drugi odgovarajući registar. Podatci se dostavljaju ministarstvu nadležnom za poslove kulture elektroničkim putem, neposrednim uručenjem obavijesti o podatcima, slanjem obavijesti putem pošte i na drugi prikladan način.
+(3) Sadržaj očevidnika iz stavka 1. ovoga članka uređuje se pravilnikom što ga donosi ministar nadležan za kulturu.

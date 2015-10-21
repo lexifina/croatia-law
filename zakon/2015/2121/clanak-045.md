@@ -1,0 +1,3 @@
+# Članak 45.
+(1) Muzeji i galerije te muzeji, galerije i zbirke unutar pravnih osoba koji nisu u cijelosti inventarizirali muzejsku građu i dokumentaciju dužni su pristupiti inventarizaciji muzejskih predmeta koji do stupanja na snagu ovoga Zakona nisu uvedeni u inventarnu knjigu.
+(2) Ravnatelji muzeja i galerija, odnosno voditelji muzeja, galerija i zbirki unutar pravnih osoba dužni su u roku od trideset dana od dana stupanja na snagu ovoga Zakona donijeti program inventarizacije i upisa muzejske građe i dokumentacije u Registar kulturnih dobara Republike Hrvatske s utvrđenim vremenskim rokovima izvršenja i o tome obavijestiti ministarstvo nadležno za poslove kulture.
