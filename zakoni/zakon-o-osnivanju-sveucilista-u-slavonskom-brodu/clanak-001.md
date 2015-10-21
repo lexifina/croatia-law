@@ -1,0 +1,3 @@
+# Članak 1.
+(1) Ovim Zakonom osniva se Sveučilište u Slavonskom Brodu (u daljnjem tekstu: Sveučilište) kao javna ustanova.
+(2) Sveučilište nastaje spajanjem Veleučilišta u Slavonskom Brodu, osnovanog Uredbom o osnivanju Veleučilišta u Slavonskom Brodu (»Narodne novine«, br. 108/06., 57/07. i 119/13.), Strojarskog fakulteta u Slavonskom Brodu Sveučilišta Josipa Jurja Strossmayera u Osijeku, dislociranih studija u Slavonskom Brodu Fakulteta za odgojne i obrazovne znanosti Sveučilišta Josipa Jurja Strossmayera u Osijeku i Studentskog centra u Slavonskom Brodu Sveučilišta Josipa Jurja Strossmayera u Osijeku, koji nastavljaju s radom kao sastavnice Sveučilišta.
