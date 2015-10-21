@@ -1,0 +1,4 @@
+# Članak 23.
+U članku 184. iza stavka 4. dodaju se stavci 5. i 6. koji glase:
+»(5) Posebnim se zakonom može propisati da ovlašteni tužitelj pravna osoba s javnim ovlastima kojoj je posebnim zakonom utvrđen status neovisnog regulatora, kada primi nepravomoćnu odluku o prekršaju može je objaviti na svojoj mrežnoj stranici, uz naznaku da je odluka nepravomoćna. U tom slučaju dužan je objaviti i podnesene redovite pravne lijekove protiv odluke i ishod postupka po pravnim lijekovima. Posebnim se zakonom može propisati kada se iznimno identitet počinitelja prekršaja neće objaviti.
+(6) Kada u postupku dostave nepravomoćne odluke o prekršaju ili u roku za podnošenje pravnog lijeka protiv odluke o prekršaju istekne zakonom propisani rok za zastaru prekršajnog progona, rješenjem će se utvrditi da je nastupila zastara prekršajnog progona i prekršajni postupak obustaviti.«.

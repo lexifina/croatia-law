@@ -1,0 +1,8 @@
+# Članak 27.
+Iza članka 234. dodaju se naslov iznad članka i članak 234.a koji glase:
+»Obavijest počinitelju prekršaja na mjestu počinjenja prekršaja
+Članak 234.a
+(1) Ovlašteni izdavatelj prekršajnog naloga može na mjestu počinjenja prekršaja sastaviti obavijest na elektroničkom uređaju u elektronskom obliku i takvu obavijest ispisati i uručiti počinitelju prekršaja na mjestu počinjenja prekršaja.
+(2) Obavijest iz stavka 1. ovoga članka sadrži: osobne podatke o počinitelju prekršaja, pravnu oznaku prekršaja, iznos novčane kazne, vrstu mjere koja se izriče, iznos troškova postupka, oznaku prekršajnog naloga i popis svih pripadajućih pismena sastavljenih u elektronskom obliku na elektroničkom uređaju tijekom utvrđivanja prekršaja u čiji sadržaj je počinitelju prekršaja omogućen uvid ili mu je sadržaj pročitan, uputu o mogućnosti uručenja prekršajnog naloga i svih pripadajućih pismena u pisanom obliku kod tijela koje je odluku donijelo, mjesto za unos primjedbi koje počinitelj prekršaja izjavljuje, prostor za potpis primatelja odnosno naznaku o dostavi i naznaku počinitelju prekršaja o tome što može poduzeti nakon primitka obavijesti.
+(3) Obavijest se sastavlja pod elektronski generiranim brojem (kodom) koji sadržavaju i prekršajni nalog i sva pismena sačinjena prilikom utvrđivanja prekršaja koji se ispisom obavijesti elektronski zaključavaju i onemogućava se naknadna izmjena.
+(4) Potpisom obavijesti iz stavka 1. ovoga članka počinitelj prekršaja potvrđuje da je upoznat sa sadržajem prekršajnog naloga i pismena koja su tijekom utvrđivanja prekršaja u njegovoj prisutnosti sačinjena na elektroničkom uređaju.«.
