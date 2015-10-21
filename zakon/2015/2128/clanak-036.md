@@ -1,0 +1,2 @@
+# Članak 36.
+U članku 21. Zakona o izmjenama i dopunama Zakona o tržištu kapitala (»Narodne novine«, br. 18/15.) riječi: »osim članka 10. i članka 12. ovoga Zakona u dijelu kojim je dodan članak 501.a Zakona, koji stupaju na snagu 1. siječnja 2016.« zamjenjuju se riječima: »osim članka 10. ovoga Zakona koji stupa na snagu 1. siječnja 2016. i članka 12. ovoga Zakona kojim je dodan članak 501.a Zakona, koji stupa na snagu 1. siječnja 2017.«.

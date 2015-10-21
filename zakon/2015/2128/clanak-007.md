@@ -1,0 +1,8 @@
+# Članak 7.
+Članak 406. mijenja se i glasi:
+»(1) Izdavatelj vrijednosnih papira koji ima sjedište izvan Republike Hrvatske u državi članici obvezan je izvještaje iz članka 403. stavka 2. točke 1. i 2. ovoga Zakona izrađivati prema sljedećim zahtjevima:
+1. kada je izdavatelj prema Direktivi 2013/34/EU obvezan izrađivati konsolidirane financijske izvještaje, njegovi revidirani financijski izvještaji obuhvaćaju konsolidirane financijske izvještaje izrađene sukladno Uredbi (EZ-a) broj 1606/2002 i financijske izvještaje matičnog društva izrađene sukladno pravu države u kojoj matično društvo ima sjedište,
+2. kada izdavatelj nije obvezan izrađivati konsolidirane financijske izvještaje, njegovi revidirani financijski izvještaji obuhvaćaju financijske izvještaje izrađene sukladno pravu države u kojoj izdavatelj ima sjedište,
+3. financijski izvještaji izdavatelja moraju biti revidirani sukladno članku 34. stavku 1. i članku 35. Direktive 2013/34/EU, a konsolidirani financijski izvještaji izdavatelja sukladno članku 34. stavcima 1. i 2. i članku 35. Direktive 2013/34 EU,
+4. izvještaj poslovodstva mora biti izrađen sukladno članku 19. Direktive 2013/34/EU kada izdavatelj nije obvezan izrađivati konsolidirane financijske izvještaje, odnosno sukladno člancima 19. i 29. Direktive 2013/34/EU kada je izdavatelj obvezan izrađivati konsolidirane financijske izvještaje.
+(2) Izdavatelj vrijednosnih papira koji ima sjedište izvan Republike Hrvatske u trećoj državi obvezan je izvještaje iz članka 403. stavka 2. točke 1. i 2. ovoga Zakona izrađivati primjenjujući na odgovarajući način stavak 1. ovoga članka.«.
