@@ -1,0 +1,4 @@
+# Članak 15.
+U članku 139. stavak 1. mijenja se i glasi:
+»(1) Ministar će pravilnike iz članka 55. stavka 12., članka 63. stavka 6., članka 64. stavka 6., članka 64. stavka 7., članka 67. stavka 6., članka 67. stavka 7., članka 71. stavka 3., članka 72. stavka 4., članka 76. stavka 7., članka 78. stavka 4., članka 78. stavka 6., članka 80. stavka 9., članka 82. stavka 6., članka 83. stavka 10., članka 84. stavka 3., članka 89. stavka 2., članka 91. stavka 7., članka 91.b stavka 4., članka 92. stavka 5., članka 94. stavka 4., članka 120. stavka 10. i članka 123. stavka 2. ovoga Zakona donijeti najkasnije u roku pet godina od dana stupanja na snagu ovoga Zakona.«.
+U stavku 3. riječi: »iz članka 91. stavka 6. ovoga Zakona« zamjenjuju se riječima: »iz članka 91. stavka 7. i članka 91.b stavka 4. ovoga Zakona«.

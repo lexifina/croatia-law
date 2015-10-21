@@ -1,0 +1,20 @@
+# Članak 10.
+Iza članka 91. dodaju se naslovi iznad članaka i članci 91.a i 91.b koji glase:
+»Zdravstveni pregledi
+Članak 91.a
+(1) Zdravstvene preglede iz članka 91. stavka 2. ovoga Zakona obavljaju zdravstvene ustanove, trgovačka društva koja obavljaju djelatnost medicine rada i specijalisti medicine rada u privatnoj praksi.
+(2) Ministarstvo nadležno za zdravlje ovlašćuje zdravstvene ustanove, trgovačka društva koja obavljaju djelatnost medicine rada i specijaliste medicine rada u privatnoj praksi za obavljanje zdravstvenih pregleda kojima se utvrđuje zdravstvena sposobnost.
+(3) Ovlaštene zdravstvene ustanove, trgovačka društva koja obavljaju djelatnost medicine rada i specijalisti medicine rada u privatnoj praksi u kojima se utvrđuje zdravstvena sposobnost podnositelja zahtjeva za izdavanje dozvole, obvezne su zapošljavati ili imati sklopljen ugovor o obavljanju poslova s doktorom medicine - specijalistom psihijatrom ili neuropsihijatrom, doktorom medicine - specijalistom oftalmologom i psihologom.
+(4) Doktori medicine - specijalisti iz stavka 3. ovoga članka moraju imati važeće odobrenje za samostalni rad (licenciju), a psiholog iz stavka 3. ovoga članka mora imati važeću dopusnicu za obavljanje psihološke djelatnosti.
+(5) Ministarstvo nadležno za zdravlje može ukinuti izdano ovlaštenje za obavljanje zdravstvenih pregleda kojima se utvrđuje zdravstvena sposobnost ako postoji sumnja da su ovlaštene zdravstvene ustanove, trgovačka društva i/ili privatne ordinacije medicine rada prestali ispunjavati bilo koji od uvjeta na temelju kojih je ovlaštenje izdano ili se postupilo suprotno odredbama ovoga Zakona.
+(6) Podnositelji zahtjeva za izdavanje dozvole koji nisu zadovoljni ocjenom zdravstvene ustanove u kojoj su pregledani te podnositelji zahtjeva za izdavanje dozvole čija je zdravstvena sposobnost različito ocijenjena u jednoj ili više zdravstvenih ustanova, mogu u roku od 15 dana od dana primitka ocjene izjaviti žalbu, na osnovi koje će drugostupanjsko zdravstveno povjerenstvo koje osniva ministarstvo nadležno za zdravlje utvrditi fizičku i psihičku sposobnost za rad.
+(7) U žalbenom postupku drugostupanjsko zdravstveno povjerenstvo u roku od 30 dana od primitka zahtjeva donosi konačnu ocjenu zdravstvene sposobnosti podnositelja zahtjeva za izdavanje dozvole, pri čemu će:
+- dati ocjenu zdravstvene sposobnosti bez ponovnog zdravstvenog pregleda, samo na osnovi medicinske dokumentacije ili
+- pozvati na proširenu medicinsku obradu, preglede i pretrage osobu na čiju je ocjenu izjavljena žalba i uputiti je na pregled u zdravstvene ustanove ili trgovačka društva ili na pregled kod specijalista određene specijalnosti, pri čemu će odrediti obujam pregleda i pretraga.
+(8) Drugostupanjskom zdravstvenom povjerenstvu mora biti dostupna medicinska dokumentacija o prethodnim zdravstvenim pregledima osobe na čiju je ocjenu izjavljena žalba, a po potrebi i sva ostala medicinska dokumentacija.
+Konzumiranje alkohola i ostalih tvari
+Članak 91.b
+(1) Izvršni radnik ne smije konzumirati alkoholna pića, droge ili psihotropne tvari za vrijeme rada, niti smije početi obavljati poslove ako je pod utjecajem bilo kojih sredstava koja bi mogla utjecati na njegovu koncentraciju, pozornost ili ponašanje, naročito ako u organizmu ima alkohola, droga ili psihotropnih tvari.
+(2) Izvršni radnik dužan je na zahtjev ovlaštenoga radnika upravitelja infrastrukture ili željezničkoga prijevoznika te inspektora sigurnosti željezničkoga prometa pristupiti ispitivanju ima li u organizmu alkohola, opojnih droga ili psihotropnih tvari odgovarajućim sredstvima ili uređajima.
+(3) Ako izvršni radnik odbije ili ne pristupi ispitivanju, ili ako se pri ispitivanju ustanovi da je pod utjecajem alkohola, opojnih droga ili psihotropnih tvari, osoba koja provodi ispitivanje zabranit će mu daljnji rad.
+(4) Način i postupak provjere prisutnosti alkohola, opojnih droga i psihotropnih tvari u organizmu propisuju se pravilnikom koji donosi ministar uz prethodno mišljenje ministra nadležnog za zdravlje.«.
