@@ -1,0 +1,16 @@
+# Članak 2.
+Članak 6. mijenja se i glasi:
+»(1) Hrvatska gorska služba spašavanja u obavljanju svoje djelatnosti ima sljedeće javne ovlasti:
+- provoditi obuku (održavanjem vježbi, seminara, tečajeva) za specijalnosti gorskog spašavanja prema programu koji na prijedlog Hrvatske gorske službe spašavanja donosi odlukom čelnik središnjeg tijela državne uprave nadležnog za civilnu zaštitu
+- provoditi obuku pripadnika Hrvatske gorske službe spašavanja za helikoptersko spašavanje prema programu koji na prijedlog Hrvatske gorske službe spašavanja donosi odlukom čelnik središnjeg tijela državne uprave nadležnog za civilnu zaštitu
+- provoditi obuku pripadnika Hrvatske gorske službe spašavanja za rukovatelja bespilotnog sustava prema programu koji na prijedlog Hrvatske gorske službe spašavanja donosi odlukom čelnik središnjeg tijela državne uprave nadležnog za civilnu zaštitu u suradnji s nadležnim središnjim tijelom državne uprave ili pravnom osobom za zračni promet
+- provoditi obuku pripadnika Hrvatske gorske službe spašavanja za pružanje prve pomoći u planinama i nepristupačnim područjima prema programu koji na prijedlog Hrvatske gorske službe spašavanja donosi odlukom čelnik središnjeg tijela državne uprave nadležnog za civilnu zaštitu u suradnji sa središnjim tijelom državne uprave nadležnom za zdravstvo
+- provoditi obuku za organizatore turističkih aktivnosti na nepristupačnim područjima u cilju poboljšanja sigurnosti sudionika prema programu koji na prijedlog Hrvatske gorske službe spašavanja donosi odlukom ministar čelnik središnjeg tijela državne uprave nadležnog za civilnu zaštitu u suradnji s ministarstvom nadležnim za turizam
+- provoditi obuku nadzornika prirode u cilju poboljšanja sigurnosti, uklanjanja opasnosti i djelovanja u slučaju nesreća na nepristupačnim područjima prema programu koji na prijedlog Hrvatske gorske službe spašavanja donosi odlukom ministar zaštite okoliša i prirode u suradnji sa središnjim tijelom državne uprave nadležnim za civilnu zaštitu
+- voditi evidenciju i izdavati potvrde o završenoj obuci iz podstavaka 1. - 6. ovoga stavka
+- zabraniti pristup neovlaštenim osobama u blizini mjesta intervencije, pozvati policiju glede osiguranja mjesta događaja te poduzimati druge potrebne mjere radi sprječavanja nastanka štetnih posljedica
+- iznimno može uključiti punoljetnu osobu da dragovoljno obavlja pojedine pomoćne poslove i manje složene poslove tijekom akcije spašavanja, ako je to prijeko potrebno radi uspješnosti spašavanja
+- zaustaviti izvođenje radnje u planinama i nepristupačnim područjima ako se ona izvodi ili planira na način da predstavlja opasnost za život i zdravlje ljudi te može prouzročiti štetu na imovini i prirodi.
+(2) Čelnik središnjeg tijela državne uprave nadležnog za civilnu zaštitu propisuje pravilnikom način vođenja evidencije o izdanim potvrdama iz stavka 1. podstavka 7. ovoga članka.
+(3) Za provođenje zadaća sukladno odredbama članka 6. stavka 1. podstavka 10. ovoga članka, pripadnici Hrvatske gorske službe spašavanja dužni su svoj identitet i ovlasti iz ovog Zakona dokazati službenom iskaznicom i značkom.
+(4) Oblik i sadržaj službene iskaznice i značke te način njihova izdavanja, uporabe i vođenja evidencija utvrđuje se Statutom Hrvatske gorske službe spašavanja.«.
