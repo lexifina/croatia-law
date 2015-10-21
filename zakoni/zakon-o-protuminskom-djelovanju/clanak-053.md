@@ -1,0 +1,7 @@
+# Članak 53.
+(1) HCR, ovlaštene pravne osobe i obrtnici dužni su za vrijeme obavljanja poslova dopunskog općeg izvida, tehničkog izvida, razminiranja i završne kontrole kvalitete uz radilište osigurati nazočnost medicinskog tima tako da se hitna medicinska skrb može pružiti stradalniku u najkraćem mogućem roku na način propisan pravilnikom kojim se uređuje način obavljanja poslova razminiranja, kontrole kvalitete, općeg i tehničkog izvida i obilježavanja MSP-a.
+(2) Medicinski tim se sastoji od doktora medicine koji posjeduje odobrenje za samostalan rad, medicinske sestre – medicinskog tehničara, vozača i vozila hitne medicinske intervencije s propisanom opremom za zbrinjavanje hitnih stanja.
+(3) Vozilo iz stavka 2. ovoga članka mora zadovoljavati minimalne uvjete u vezi s tehničkim karakteristikama i medicinskom opremom, sukladno HRN EN 1789; 2011 i HRN EN 1865-1.
+(4) HCR, ovlaštene pravne osobe i obrtnici mogu imati vlastito vozilo i medicinski tim za pružanje hitne medicinske skrbi ili ih unajmiti od Zavoda za hitnu medicinu jedinica područne (regionalne) samouprave.
+(5) Ovlaštene pravne osobe i obrtnici moraju osigurati neprekidan i neposredan sustav veza između voditelja radilišta, voditelja pirotehničke skupine i medicinskog tima.
+(6) Ako se medicinska pomoć ne može pružiti u roku iz stavka 1. ovoga članka, voditelj radilišta dužan je pomoć zatražiti putem službi nadležnih za hitne intervencije.

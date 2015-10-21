@@ -1,0 +1,7 @@
+# Članak 52.
+(1) Pirotehničari tijekom radnog vremena, na poslovima dopunskog općeg izvida, tehničkog izvida i razminiranja, mogu provesti najviše pet sati tijekom jednog dana.
+(2) Radno vrijeme iz stavka 1. ovoga članka počinje teći dolaskom pirotehničara na početnu točku unutar radilišta, prema rasporedu radnog vremena poslodavca te nije dozvoljen prekovremeni rad.
+(3) Neposredno obavljanje poslova iz stavka 1. ovoga članka i pomoćnih poslova dokazuje se uvidom u osobnu nadzornu knjižicu koju su pirotehničari i pomoćni djelatnici dužni istinito ispunjavati za svaki radni dan na radilištu. Voditelj skupine dužan je unositi podatke o broju pirotehničara i pomoćnih djelatnika u svojoj pirotehničkoj skupini u djelovodnik voditelja skupine čiju istinitost ovjerava svojim potpisom.
+(4) Voditelj radilišta dužan je voditi evidenciju o radnom vremenu svih djelatnika na radilištu te svakodnevno ovjeravati istinitost podataka iz stavka 3. ovoga članka koji moraju odgovarati dokumentaciji radilišta.
+(5) Iznimno od stavka 1. ovoga članka, zbog više sile ili organizacije rada na radilištu (vremenski uvjeti, regulacija prometa) može doći do prekida obavljanja poslova ili čekanja da se steknu uvjeti za rad pri čemu se stanka može produžiti za najviše jedan sat.
+(6) Poslodavac je dužan tijekom vremenskih prekida i/ili čekanja iz stavka 5. ovoga članka osigurati djelatnicima odgovarajuću zaštitu u odnosu na vremenske prilike (kiša, hladnoća, visoke temperature zraka).

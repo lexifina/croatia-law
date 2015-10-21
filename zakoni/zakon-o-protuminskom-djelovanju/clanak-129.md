@@ -1,0 +1,3 @@
+# Članak 129.
+(1) HCR, ovlaštene pravne i fizičke osobe i ustanove iz članka 127. ovoga Zakona dužne su inspektoru Ministarstva omogućiti neometano obavljanje inspekcijskog nadzora.
+(2) Smatra se da osobe iz stavka 1. ovoga članka nisu omogućile neometano obavljanje inspekcijskog nadzora inspektorima Ministarstva kad u roku određenom u zapisniku o inspekcijskom nadzoru ne osiguraju uvid u traženu dokumentaciju ili druge isprave potrebne za utvrđivanje činjeničnog stanja, ne dostave točne i potpune podatke, obavijesti i materijale koji su potrebni za obavljanje nadzora te ne poduzmu pojedine radnje u postupku potrebne radi potpunog utvrđivanja činjeničnog stanja.

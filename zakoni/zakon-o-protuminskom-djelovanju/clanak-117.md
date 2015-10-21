@@ -1,0 +1,2 @@
+# Članak 117.
+Osobe iz članka 107. ovoga Zakona kod kojih, zbog ozljede na radu ili profesionalne bolesti koja je neposredna posljedica obavljanja poslova dopunskog općeg izvida, tehničkog izvida, razminiranja, kontrole kvalitete, završne kontrole kvalitete i inspekcijskog nadzora, postoji smanjenje radne sposobnosti uz preostalu radnu sposobnost imaju pravo na profesionalnu rehabilitaciju bez obzira na to je li im nakon profesionalne rehabilitacije osigurano zaposlenje.

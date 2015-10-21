@@ -1,0 +1,4 @@
+# Članak 57.
+(1) U slučajevima velike zagađenosti MES-om, NUS-om i njihovim dijelovima nastalim eksplozijom skladišta MES-a i NUS-a ili napuštenim eksplozivnim sredstvima što za posljedicu ima razasute velike količine istih sredstava, a ne radi se o miniranom području, može se odstupiti od Zakonom propisanih metoda i postupaka razminiranja.
+(2) U slučajevima iz stavka 1. ovoga članka HCR mora izraditi poseban Idejni plan razminiranja. Metode, postupci razminiranja i kontrole kvalitete te oprema i sredstva koji se mogu koristiti propisani su pravilnikom kojim se uređuje način obavljanja poslova razminiranja, kontrole kvalitete, općeg i tehničkog izvida i obilježavanja MSP-a.
+(3) Nakon obavljenih poslova razminiranja područja i/ili građevine iz stavka 1. ovoga članka, ovlaštena pravna osoba i/ili obrtnik izdaje Izjavu o očišćenosti od MES-a, NUS-a i njihovih dijelova kojom jamči da je područje i/ili građevina očišćena od svih MES-a, NUS-a i njihovih dijelova.

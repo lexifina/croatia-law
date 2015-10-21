@@ -1,0 +1,3 @@
+# Članak 90.
+(1) Ured za razminiranje Vlade Republike Hrvatske koordinira, a HCR u suradnji s tijelima državne uprave, jedinica lokalne i područne (regionalne) samouprave, civilnog sektora i lokalnim stanovništvom kontinuirano provodi informiranje i edukaciju o opasnostima od MES-a, NUS-a i njihovih dijelova.
+(2) Predstavnici tijela državne uprave, jedinica lokalne i područne (regionalne) samouprave, civilnog sektora, javnih službi i lokalnog stanovništva, na područjima zagađenim MES-om, NUS-om i njihovim dijelovima, omogućit će HCR-u provođenje programa aktivnosti informiranja i edukacije o opasnostima od MES-a i NUS-a i njihovih dijelova.

@@ -1,0 +1,4 @@
+# Članak 73.
+(1) Završnu kontrolu kvalitete nad obavljenim poslovima razminiranja (u daljnjem tekstu: završna kontrola kvalitete) obavlja Povjerenstvo za završnu kontrolu kvalitete (u daljnjem tekstu: Povjerenstvo) tako da ispituje kvalitetu obavljenih poslova razminiranja kontrolnim uzorcima na najmanje 1 % razminirane površine na svakoj cjelini radilišta.
+(2) Prije provedbe završne kontrole kvalitete ovlaštena pravna osoba i/ili obrtnik dužni su osigurati obilježenost granica radilišta, kao i granica pojedinih cjelina izvoditelja i/ili podizvoditelja, a nadzornik kontrole kvalitete dužan je osigurati obilježenost kontrolnih uzoraka uzetih tijekom obavljanja poslova razminiranja.
+(3) Poslove iz stavka 1. ovoga članka ne smiju provoditi pirotehničari HCR-a za kontrolu kvalitete i nadzornik kontrole kvalitete koji su obavljali kontrolu kvalitete tijekom obavljanja poslova razminiranja.

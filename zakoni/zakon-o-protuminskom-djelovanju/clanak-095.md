@@ -1,0 +1,3 @@
+# Članak 95.
+(1) Osobama stradalima od EOR-a će se na prikladan način, u skladu s primjenjivim međunarodnim konvencijama, međunarodnim humanitarnim pravom i ljudskim pravima, putem međuresorne suradnje, pružati pomoć prilagođena dobi i spolu, uključujući liječničku skrb, rehabilitaciju i psihološku podršku te će se nastojati osigurati njihova društvena i gospodarska uključenost.
+(2) Osobama koje su kao civilne žrtve stradale od EOR-a pomoć će se pružati sukladno propisima kojima se uređuje zaštita vojnih i civilnih žrtava rata dok djelatnici na poslovima protuminskog djelovanja pravo na pomoć u slučaju stradavanja ostvaruju sukladno odredbama ovoga Zakona.

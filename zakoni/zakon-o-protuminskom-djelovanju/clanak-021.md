@@ -1,0 +1,3 @@
+# Članak 21.
+(1) Idejnim planom razminiranja definira se opisno, kartografski i fotografski površina i/ili građevina koju je potrebno razminirati od MES-a, NUS-a i njihovih dijelova, dubina razminiranja, propisane metode rada, mjere sigurnosti te posebna ograničenja i zabrane za izvoditelje radova. Idejnim planom također se opisuje MSP uključujući podatke o zagađenosti MES-om, NUS-om i njihovim dijelovima, daju se karakteristike područja i podaci dobiveni prethodno obavljenim poslovima općeg izvida – analize MSP-a, dopunskog općeg izvida, razminiranja ili tehničkog izvida unutar projektnog zadatka ili u neposrednoj okolici.
+(2) Idejni plan razminiranja sastavni je dio dokumentacije za nadmetanje.

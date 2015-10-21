@@ -1,0 +1,3 @@
+# Članak 10.
+(1) Poslove razminiranja ručnom detekcijom mina, poslove strojne pripreme površine i poslove pregleda površine psima za detekciju mina, može obavljati pravna osoba (u daljnjem tekstu: ovlaštena pravna osoba) ili obrtnik, koja ima odobrenje Ministarstva za obavljanje tih poslova.
+(2) Ovlaštenim pravnim osobama i/ili obrtnicima, koji su podnijeli zahtjev za obavljanje više poslova iz stavka 1. ovoga članka, a ispunjavaju uvjete iz članaka 11., 12. i 13. ovoga Zakona, Ministarstvo izdaje jedno rješenje kojim se odobrava obavljanje svih poslova za koje podnositelj zahtjeva ispunjava uvjete.

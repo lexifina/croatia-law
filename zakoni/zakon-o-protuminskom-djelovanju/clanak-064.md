@@ -1,0 +1,5 @@
+# Članak 64.
+(1) Ako se obavlja primopredaja MES-a, NUS-a i njihovih dijelova za uništavanje, istu obavljaju voditelj radilišta HCR-a, ovlaštene pravne osobe i/ili obrtnik, koji obavlja poslove tehničkog izvida i/ili razminiranja i odgovorna osoba koja će provesti uništavanje, o čemu se sastavlja zapisnik u kojem se trebaju navesti vrste i količine predanog MES-a, NUS-a i njihovih dijelova.
+(2) Zapisnik iz stavka 1. ovoga članka sastavni je dio dokumentacije radilišta i dokumentacije o uništavanju.
+(3) Prilikom uništavanja MES-a, NUS-a i njihovih dijelova odgovorna osoba za uništavanje dužna je izraditi Plan uništavanja koji mora sadržavati podatke o vrsti i količini sredstava koja se uništavaju, vrsti i količini eksplozivnih tvari koje se koriste za potrebe uništavanja te mjestu uništavanja.
+(4) Pravna osoba koja obavlja poslove uništavanja mora voditi Upisnik o uništavanju sukladno propisima kojima se uređuje područje eksplozivnih tvari. U Upisnik se, uz ostale podatke, moraju unositi i vrste i količine MES-a, NUS-a i njihovih dijelova koji se uništavaju te vrste i količine eksplozivnih tvari za gospodarsku uporabu koje se koriste za uništavanje.

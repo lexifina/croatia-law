@@ -1,0 +1,6 @@
+# Članak 37.
+(1) Općim izvidom – analizom MSP-a može se isključiti iz MSP-a područje i/ili građevina kojima najmanje jedna strana graniči s područjima i/ili građevinama na kojima je, na temelju prethodno provedenog tehničkog izvida i/ili razminiranja, otklonjena sumnja u zagađenost MES-om, NUS-om i njihovim dijelovima.
+(2) MSP, koji ne graniči s područjima i/ili građevinama na kojima su prethodno obavljeni poslovi tehničkog izvida i/ili razminiranja, HCR može isključiti iz MSP-a tek nakon provedenog dopunskog općeg izvida.
+(3) Dopunski opći izvid obavljaju pirotehničari HCR-a tako da pomoću radnih staza uzimaju kontrolne uzorke na najmanje 1 % površine te utvrde nepostojanje onečišćenosti MES-om, NUS-om i njihovim dijelovima.
+(4) Pirotehničari HCR-a dužni su svoje poslove na dopunskom općem izvidu obavljati na način propisan člankom 56. stavkom 2. i 3. ovog Zakona te tako da nakon ručne detekcije mina ne zaostane MES, NUS ili njihovi dijelovi do dubine određene Izvedbenim planom, a voditelj radilišta HCR-a dužan je pronađeni MES, NUS i njihove dijelove evidentirati u Dnevnik voditelja radilišta HCR-a.
+(5) Prilikom obavljanja poslova iz stavka 3. ovoga članka mora se osigurati nazočnost medicinskog tima i uspostavljen neprekidni i neposredni sustav veza, za što su odgovorni HCR i voditelj radilišta HCR-a.

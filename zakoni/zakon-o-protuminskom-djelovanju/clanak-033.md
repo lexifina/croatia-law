@@ -1,0 +1,2 @@
+# Članak 33.
+Općim izvidom – analizom MSP-a HCR mora prikupiti i provjeriti informacije na terenu, analizirati i ažurirati prethodno prikupljene podatke o MSP-u pohranjene u minsko-informacijski sustav HCR-a, analizirati radne materijale i zapise nastale tijekom ratnog i poratnog djelovanja, analizirati zapise nastale tijekom tehničkog izvida i zapise nastale tijekom obavljanja poslova razminiranja, koji upućuju na sumnju na zagađenost područja MES-om, NUS-om i njihovim dijelovima.

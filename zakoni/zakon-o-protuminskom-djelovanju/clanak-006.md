@@ -1,0 +1,3 @@
+# Članak 6.
+(1) Hrvatski sabor, na prijedlog Vlade Republike Hrvatske, donosi Nacionalni program protuminskog djelovanja Republike Hrvatske.
+(2) Nacrt prijedloga Nacionalnog programa protuminskog djelovanja Republike Hrvatske izrađuje HCR uz pribavljeno mišljenje Ministarstva i ministarstava nadležnih za obranu, financije, pomorstvo, promet i infrastrukturu, regionalni razvoj i fondove Europske unije, kulturu, zaštitu okoliša i prirode, turizam, gospodarstvo, poljoprivredu, graditeljstvo i prostorno uređenje, poduzetništvo i obrt, jedinica područne (regionalne) samouprave koje na svojem području imaju površine uvrštene u MSP te središnje tijelo državne uprave nadležno za poslove civilne zaštite.

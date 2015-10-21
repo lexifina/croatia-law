@@ -1,0 +1,7 @@
+# Članak 60.
+(1) Za razminiranje perspektivnih vojnih lokacija i/ili građevina nadležno je Ministarstvo obrane, sukladno članku 3. ovoga Zakona, a razminiranje neperspektivnih vojnih lokacija i/ili građevina organizira HCR sukladno odredbama ovoga Zakona i propisa donesenih na temelju njega.
+(2) Iznimno od stavka 1. ovoga članka, Ministarstvo obrane može zatražiti za pojedine perspektivne vojne lokacije i/ili građevine njihovo razminiranje sukladno odredbama ovoga Zakona i propisa donesenih na temelju njega, uz prethodno odobrenje Vlade Republike Hrvatske.
+(3) Ministarstvo obrane dužno je HCR-u predati sve podatke i dokumentaciju o miniranosti perspektivnih i neperspektivnih vojnih lokacija i/ili građevina, kao i o poslovima razminiranja koji su na tim lokacijama i/ili građevinama obavljani.
+(4) Razminiranje i kontrola kvalitete vojnih lokacija i/ili građevina i izdavanje Potvrde o isključenju vojnih lokacija i/ili građevina iz MSP-a za perspektivne vojne lokacije i/ili građevine iz stavka 1. ovoga članka, obavlja se sukladno pravilniku o načinu obavljanja poslova razminiranja i kontrole kvalitete vojnih lokacija i/ili građevina koji donosi ministar nadležan za obranu. Jedan primjerak Potvrde Ministarstvo obrane dužno je dostaviti HCR-u.
+(5) Nakon obavljenih poslova razminiranja perspektivnih vojnih lokacija i/ili građevina iz stavka 2. ovoga članka, HCR izdaje Potvrdu o isključenju vojnih lokacija i/ili građevina iz MSP-a te ju dostavlja Ministarstvu obrane i Ministarstvu.
+8. UNIŠTAVANJE PRONAĐENOG MES-a, NUS-a I NJIHOVIH DIJELOVA
