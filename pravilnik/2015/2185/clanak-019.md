@@ -1,0 +1,5 @@
+## V. IZDAVANJE PODATAKA
+# Članak 19.
+(1) Ovlašteni korisnici iz članka 12. stavka 1. točke 2. ovoga Pravilnika na zahtjev procjenitelja izdaju za potrebe izrade procjene vrijednosti nekretnine izvadak iz zbirke.
+(2) O zaprimljenim zahtjevima i izdanim izvadcima vodi se evidencija, iz koje je vidljiva identifikacijska oznaka zahtjeva/izvatka, datum zahtjeva i datum izdavanja izvatka, osnovni identifikacijski podatak o nekretnini koja je predmet traženja izvatka, katastarska oznaka nekretnine i broj cjenovnog bloka, podatci o podnositelju zahtjeva i identifikacijska oznaka ovlaštenog korisnika eNekretnina koji je izvadak izdao, koji podatci su bili dostavljeni te za kakve namjene i za koju visinu naknade.
+(3) Ako traženi podatci nisu na raspolaganju ili bi njihovo izdavanje zahtijevalo znatniju dodatnu obradu ili u slučaju nejasnoća, ovlašteni korisnici iz članka 13. stavka 1. točke 2. ovoga Pravilnika mogu od procjenitelja zatražiti dodatno obrazloženje zahtjeva i mogu uskratiti izdavanje podataka ako se zahtjev ne smatra razmjernim svrsi.
