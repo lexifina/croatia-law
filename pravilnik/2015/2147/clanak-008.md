@@ -1,0 +1,5 @@
+# Članak 8.
+(1) Proizvođač uređaja je dužan osigurati da dizajn uređaja omogućava jednostavno izdvajanje otpadne baterije ili akumulatora iz uređaja.
+(2) Iznimno od stavka 1. ovoga članka, kada dizajn uređaja ne omogućava da krajnji korisnik jednostavno izdvoji otpadnu bateriju ili akumulator iz uređaja, proizvođač uređaja je dužan osigurati da dizajn uređaja omogućava da stručna osoba jednostavno izdvoji otpadnu bateriju ili akumulator iz uređaja.
+(3) Proizvođač uređaja je dužan osigurati da je uređaju, kojeg stavlja na tržište i koji sadrži ugrađenu bateriju ili akumulator, priložena uputa o načinu izdvajanja ugrađene baterije ili akumulatora iz uređaja i informacija o vrsti baterije ili akumulatora koja je ugrađena u taj uređaj.
+(4) Odredbe stavka 1., 2. i 3. ovoga članka ne primjenjuju se u slučaju kada je neophodno neprekidno napajanje i nužna je trajna veza uređaja s baterijom ili akumulatorom iz razloga sigurnosti, neprekidnog rada uređaja, medicinskih zahtjeva ili iz razloga očuvanja cjelovitosti podataka.

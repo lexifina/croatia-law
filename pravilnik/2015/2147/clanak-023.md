@@ -1,0 +1,9 @@
+## Uvjeti gospodarenja otpadnim prijenosnim baterijama i akumulatorima u sustavu kojim upravlja Fond
+# Članak 23.
+(1) Uslugu sakupljanja otpadnih prijenosnih baterija i akumulatora na području određenom Odlukom ministra nadležnog za poslove zaštite okoliša, obavlja sakupljač s kojim je Fond po provedenom postupku pokrenutim javnim pozivom za podnošenje programa za obavljanje usluge sakupljanja otpadnih prijenosnih baterija i akumulatora sklopio ugovor o obavljanju usluge sakupljanja otpadnih prijenosnih baterija i akumulatora sukladno Zakonu.
+(2) Javni poziv iz stavka 1. ovoga članka, osim Zakonom propisanog sadržaja, sadrži: opis usluge sakupljanja, uvjete ponuditelja, tehničko - organizacijske uvjete za obavljanje usluge sakupljanja i cijenu usluge sakupljanja koja uključuje i troškove obrade odnosno recikliranja prijenosnih baterija i akumulatora, a koje je dužan snositi ugovorni sakupljač.
+(3) Cijenu usluge sakupljanja otpadnih prijenosnih baterija i akumulatora ponuditelj iskazuje kao jedinstvenu cijenu sa cijenom obrade i/ili recikliranja prema njihovom kemijskom sastavu i pripadajućem ključnom broju otpada.
+(4) Ugovorni sakupljač je dužan sakupljene otpadne prijenosne baterije i akumulatore predati osobi ovlaštenoj za oporabu odnosno zbrinjavanje te vrste otpada.
+(5) Ugovorni sakupljač ima pravo na naknadu troškova od Fonda za obavljenu uslugu sakupljanja otpadnih prijenosnih baterija i akumulatora, koje su predane osobi ovlaštenoj za obradu takvog otpada, sukladno cijeni i uvjetima utvrđenim ugovorom.
+(6) Fond obavlja obračun troškova usluge sakupljanja iz stavka 7. ovoga članka temeljem jediničnih cijena određenih ugovorom s ugovornim sakupljačem i sukladno podacima iz Izvješća ugovornog sakupljača otpadnih prijenosnih baterija i akumulatora na obrascu OBA2 iz Priloga V. ovoga Pravilnika.
+(7) Fond je obvezan ispuniti cilj proizvođača koji je uplatio naknadu gospodarenja na račun Fonda.

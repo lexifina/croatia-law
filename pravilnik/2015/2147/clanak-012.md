@@ -1,0 +1,4 @@
+# Članak 12.
+(1) Prodavatelj, koji je dužan osigurati preuzimanje otpadnih prijenosnih baterija i akumulatora, stručna osoba i osoba koja upravlja reciklažnim dvorištem dužna je, radi provedbe članka 67. stavka 1. Zakona, preuzete otpadne prijenosne baterije i akumulatore predati ugovornom sakupljaču.
+(2) Proizvođač koji je dužan osigurati preuzimanje otpadnih industrijskih baterija ili akumulatora, dužan je preuzete otpadne industrijske baterije i akumulatore predati osobi koja posjeduje odgovarajuću dozvolu za gospodarenje tom vrstom otpada.
+(3) Prodavatelj i proizvođač koji je dužan osigurati preuzimanje otpadnih automobilskih baterija i akumulatora, serviser i osoba koja upravlja reciklažnim dvorištem dužna je preuzete otpadne automobilske baterije i akumulatore predati osobi koja posjeduje odgovarajuću dozvolu za gospodarenje tom vrstom otpada.

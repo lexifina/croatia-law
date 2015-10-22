@@ -1,0 +1,5 @@
+# Članak 6.
+(1) Cilj kojeg su dužni ispuniti proizvođači prijenosnih baterija i akumulatora, a sukladno članku 64. Zakona, je postizanje godišnje stope sakupljanja veće od 25% te od 26. rujna 2016. godine stope sakupljanja veće od 45% i to odvojenim sakupljanjem otpadnih prijenosnih baterija i akumulatora kako bi se na najmanju moguću mjeru smanjilo odbacivanje i zbrinjavanje otpadnih prijenosnih baterija i akumulatora u miješanom komunalnom otpadu.
+(2) Proizvođač je obvezan ispuniti cilj gospodarenja otpadnim prijenosnim baterijama i akumulatorima razmjerno količini stavljenoj na tržište sukladno Uredbi.
+(3) Na izračun mase prijenosnih baterija i akumulatora stavljenih na tržište u kalendarskoj godini primjenjuje se Odluka Komisije 2008/763/EZ od 29. rujna 2008. o uspostavljanju zajedničke metodologije za izračun godišnje prodaje prijenosnih baterija i akumulatora krajnjim korisnicima u skladu s Direktivom 2006/66/EZ Europskog parlamenta i Vijeća (priopćena pod brojem dokumenta C(2008) 5339) (Tekst značajan za EGP) (SL L 262, 1. 10. 2008.).
+(4) Fond je obvezan pratiti ispunjavanje ciljeva proizvođača u svrhu ispunjavanja cilja iz stavka 1. ovoga članka.

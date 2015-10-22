@@ -1,0 +1,5 @@
+## Izvješća o baterijama i akumulatorima
+# Članak 30.
+(1) Fond je obvezan do 1. svibnja tekuće godine za prethodnu kalendarsku godinu izraditi izvješće sukladno članku 6. stavku 3. ovoga Pravilnika i odgovarajućih podataka iz Obrasca OBA1 dostavljenih u Registar gospodarenja posebnim kategorijama otpada, te Agenciji dostaviti Izvješće o stavljenim na tržište i sakupljenim baterijama i akumulatorima na Obrascu OBA3 iz Priloga VI. ovoga Pravilnika.
+(2) Fond je obvezan do 1. svibnja tekuće godine za prethodnu kalendarsku godinu izraditi izvješće sukladno odgovarajućim podacima iz Obrasca OBA2 dostavljenih u Registar gospodarenja posebnim kategorijama otpada, te Agenciji dostaviti Izvješće o količini otpadnih prijenosnih baterija i akumulatora na Obrascu OBA4 iz Priloga VII. ovoga Pravilnika.
+(3) Agencija je obvezna do kraja tekuće godine za prethodnu kalendarsku godinu izraditi i na svojim mrežnim stranicama objaviti Izvješće o baterijama i akumulatorima temeljem podataka iz izvješća iz stavaka 1. i 2. ovoga članka, izvješća iz članka 29. ovoga Pravilnika te podataka iz Registra onečišćivanja okoliša.
