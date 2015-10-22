@@ -1,0 +1,1 @@
+115 23.10.2015 Odluka o izmjeni Odluke o koncesiji pomorskog dobra u svrhu gospodarskog korištenja luke posebne namjene - luke nautičkog turizma Rovinj
