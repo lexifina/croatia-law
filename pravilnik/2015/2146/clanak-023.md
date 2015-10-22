@@ -1,0 +1,9 @@
+## Promjene Zahtjeva za potporu
+# Članak 23.
+(1) Promjene Zahtjeva za potporu podrazumijevaju promjenu podataka koji se odnose na podneseni Zahtjev za potporu, a isti su temelj za provjeru kriterija prihvatljivosti sukladno članku 12. ovoga Pravilnika, izuzev promjena navedenih u članku 22. ovoga Pravilnika.
+(2) Za promjene iz stavka 1. ovoga članka korisnik je dužan od dana stupanja na snagu Odluke o dodjeli sredstava do podnošenja Zahtjeva za isplatu Agenciji za plaćanja podnijeti Zahtjev za promjenu neposredno nakon njihovog nastanka. Zahtjev za promjenu popunjava se u AGRONET-u, a po popunjavanju potrebno je u Agenciju za plaćanja dostaviti potpisanu i potvrđenu pečatom korisnika potvrdu o podnošenju Zahtjeva za promjenu preporučenom poštom s povratnicom ili osobno.
+(3) Agencija za plaćanja će za zaprimljene Zahtjeve za promjenu provjeriti kriterije prihvatljivosti sukladno članku 12. ovoga Pravilnika te po potrebi donijeti izmjenu Odluke o dodjeli sredstava ili Pismo odobrenja u slučaju odobrenja Zahtjeva za promjenu ili Pismo odbijanja u slučaju odbijanja Zahtjeva za promjenu.
+(4) Izmjenom Odluke o dodjeli sredstava ne može se dodijeliti iznos potpore veći od iznosa javne potpore koji je već određen Odlukom o dodjeli sredstava.
+(5) Promjene iz stavka 1. ovoga članka korisnik može prijaviti podnošenjem Zahtjeva za promjenu putem AGRONET-a na način opisan u Vodiču za korisnike kojeg korisnik može preuzeti sa službene mrežne stranice Agencije za plaćanja (www.apprrr.hr).
+(6) U slučaju promjena odluke iniciranih od strane Agencije za plaćanja, Agencija za plaćanja će donijeti izmjenu Odluke o dodjeli sredstava.
+(7) U slučaju promjena navedenih u stavku 1. ovoga članka, a nakon podnošenja Zahtjeva za isplatu korisnik je obvezan o istome pisanim putem obavijestiti Agenciju za plaćanja do trenutka zaprimanja Odluke o dodjeli sredstava.

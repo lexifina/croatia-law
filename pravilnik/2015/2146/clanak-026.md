@@ -1,0 +1,6 @@
+## Postupak obrade
+# Članak 26.
+(1) Korisnik je dužan dostaviti Izvještaj o napretku svakih šest mjeseci za operaciju 3.2.1, a za operaciju 3.1.1. svakih 12 mjeseci, računajući od dana izdavanja Odluke o dodjeli sredstava.
+(2) Prilikom popunjavanja Zahtjeva za isplatu/Zahtjeva za isplatu predujma korisnici su obvezni učitati u AGRONET svu dokumentaciju propisanu Natječajem. Dokumentacija koju je obvezno dostaviti i u izvorniku, propisuje se Natječajem.
+(3) Nakon popunjavanja elektronskog Zahtjeva za isplatu/Zahtjeva za isplatu predujma u AGRONET-u, korisnik je dužan osobno ili preporučenom pošiljkom s povratnicom dostaviti potpisanu i potvrđenu štambiljem korisnika Potvrdu o podnošenju Zahtjeva za isplatu/Zahtjeva za isplatu predujma, zajedno s propisanom dokumentacijom u izvorniku u papirnatom obliku na adresu Agencije za plaćanja.
+(4) Zahtjev za isplatu podrazumijeva potvrdu o podnošenju Zahtjeva za isplatu/Zahtjeva za isplatu predujma te svu dokumentaciju propisanu Natječajem, pri čemu se vrijeme podnošenja Zahtjeva za isplatu/Zahtjeva za isplatu predujma smatra datum i sat slanja dokumentacije u slučaju slanja preporučenom pošiljkom s povratnicom ili datum i sat zaprimanja u Agenciju za plaćanja ukoliko se dostavlja osobno.

@@ -1,0 +1,4 @@
+## I. OPĆE ODREDBE
+## Sadržaj Pravilnika
+# Članak 1.
+Ovim se Pravilnikom utvrđuje provedba Mjere 03 »Sustavi kvalitete za poljoprivredne i prehrambene proizvode« (u daljnjem tekstu: Mjera 03), Podmjere 3.1. »Potpore za novo sudjelovanje u sustavima kvalitete« i Podmjere 3.2. »Potpora za aktivnosti informiranja i promoviranja koje provode skupine proizvođača na unutarnjem tržištu« iz Programa ruralnog razvoja Republike Hrvatske za razdoblje 2014. - 2020. (u daljnjem tekstu: Program) u skladu člankom 16. Uredbe (EU) br. 1305/2013 Europskog Parlamenta i Vijeća od 17. prosinca 2013. o potpori ruralnom razvoju iz Europskog poljoprivrednog fonda za ruralni razvoj (EPFRR) i stavljanju izvan snage Uredbe Vijeća (EZ) br. 1698/2005 (SL L 347, 20. 12. 2013), (u daljnjem tekstu: Uredba (EU) br. 1305/2013).

@@ -1,0 +1,9 @@
+## Uvjeti prihvatljivosti
+# Članak 12.
+(1) Korisnici moraju biti organizirani i djelovati kao skupina proizvođača, kako su definirani člankom 3., stavkom 2. Uredbe (EU) br. 1151/2012 Europskog parlamenta i Vijeća od 21. studenoga 2012 o sustavima kvalitete za poljoprivredne i prehrambene proizvode (SL L 343, 14. 12. 2012.), čiji članovi sudjeluju u sustavima kvalitete u skladu s EU ili nacionalnim zakonodavstvom, te kao udruga ekoloških poljoprivrednih proizvođača čiji su članovi proizvođači uključeni u ekološku proizvodnju sukladno članku 78. Zakona o poljoprivredi.
+(2) Potrebno je sudjelovanje najmanje jednog novog člana u sustavima kvalitete ili u udruzi ekoloških poljoprivrednih proizvođača do dana podnošenja Zahtjeva za isplatu.
+(3) Korisnici uz Zahtjev za potporu za tip operacije 3.2.1. podnose Plan informiranja i promoviranja s vizijom oglašavanja i informiranja za razdoblje do pet godina i isti će biti ocijenjen.
+(4) Za provedbu aktivnosti koje se odnose na proizvode obuhvaćene sustavima kvalitete uvjet je da je najmanje jedan član udruge podnio zahtjev ili prima javnu potporu u okviru Podmjere 3.1., odnosno sustavima kvalitete u skladu s EU i nacionalnim zakonodavstvom, ili da je korisnik udruga ekoloških poljoprivrednih proizvođača čiji članovi sudjeluju u sustavima ekološke proizvodnje sukladno Zakonu o poljoprivredi.
+(5) Aktivnosti koje se provode ne smiju biti upućene na promociju pojedinačnih trgovačkih robnih marki.
+(6) Informacije i promidžbeni materijal moraju biti u skladu s relevantnim EU i nacionalnim zakonodavstvom koje se primjenjuje u državama članicama u kojima se informiranje i promotivne aktivnosti provode, a ako to nije slučaj isti se neće smatrati opravdanim troškovima.
+(7) Provođenje aktivnosti predviđenih u Planu informiranja i promoviranja ne smije se započeti prije podnošenja Zahtjeva za potporu sukladno članku 13. stavku 11. ovoga Pravilnika.

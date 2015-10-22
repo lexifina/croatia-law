@@ -1,0 +1,1 @@
+Pravilnik o provedbi Mjere 03 "Sustavi kvalitete za poljoprivredne i prehrambene proizvode", Podmjere 3.1. "Potpore za novo sudjelovanje u sustavima kvalitete" i Podmjere 3.2. "Potpora za aktivnosti informiranja i promoviranja koje provode skupine proizvođača na unutarnjem tržištu" iz Programa ruralnog razvoja Republike Hrvatske za razdoblje 2014. - 2020.
