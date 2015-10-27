@@ -1,0 +1,5 @@
+# Članak 4.
+(1) Odobrenje iz članka 1. ovoga Pravilnika zdravstvenom radniku daje ili uskraćuje ravnatelj, odnosno sanacijski upravitelj ustanove, sukladno uvjetima propisanim ovim Pravilnikom, u roku od 30 dana od dana zaprimanja zahtjeva zdravstvenog radnika i isto mora biti pisano obrazloženo.
+(2) Ravnatelj, odnosno sanacijski upravitelj uskratit će odobrenje iz članka 1. ovoga Pravilnika zdravstvenom radniku ako je u zdravstvenoj ustanovi u djelatnosti u kojoj se traži odobrenje vrijeme čekanja na terapijski ili dijagnostički postupak dulje od 60 dana, odnosno dulje od 6 mjeseci za operaciju katarakte te dulje od 12 mjeseci na operaciju aloartroplastike velikih zglobova, od datuma naručivanja.
+(3) Ravnatelj, odnosno sanacijski upravitelj obvezan je ministarstvu nadležnom za zdravlje dostaviti presliku odobrenja, odnosno uskrate odobrenja u roku od 15 dana od dana izdavanja odobrenja, odnosno uskrate odobrenja.
+(4) O izdanim odobrenjima odnosno uskraćenim odobrenjima poslodavac je obvezan voditi evidenciju.
