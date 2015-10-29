@@ -1,0 +1,1 @@
+Na temelju članka 34. stavka 6., članka 36. stavka 4. i članka 42. stavka 3. Zakona o prijevozu u cestovnom prometu (»Narodne novine«, broj 82/2013), ministar pomorstva, prometa i infrastrukture donosi

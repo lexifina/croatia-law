@@ -1,0 +1,10 @@
+## II. USKLAĐIVANJE VOZNIH REDOVA
+# Članak 3.
+(1) Vozni redovi za nove i izmijenjene linije na kojima se samo mijenja vrijeme polaska se usklađuju.
+(2) Usklađivanje voznih redova iz stavka 1. ovoga članka za županijske linije obavlja Hrvatska gospodarska komora, županijska komora (u daljnjem tekstu: županijska komora).
+(3) Usklađivanje voznih redova iz stavka 1. ovoga članka za međužupanijske i međunarodne linije za treće države obavlja Hrvatska gospodarska komora.
+(4) Usklađivanje voznih redova obavlja se u pravilu jednom godišnje, sukladno ovom Pravilniku i Poslovniku o usklađivanju voznih redova, kojeg donosi Hrvatska gospodarska komora. Poslovnikom se uređuje postupak usklađivanja voznih redova.
+(5) Poslovnikom iz stavka 4. ovoga članka propisat će se i način postupanja u slučaju pojave nepravilnosti i neujednačenog provođenja postupka usklađivanja na županijskim komorama. U slučaju utvrđenih nepravilnosti u postupku usklađivanja voznih redova za županijske linije, Stručna služba Hrvatske gospodarske komore može promijeniti odluke Povjerenstva za usklađivanje voznih redova na županijskim komorama.
+(6) Iznimno od stavka 4. ovoga članka, u slučaju izgradnje i rekonstrukcije cesta, mostova, tunela, početka i završetka nastave u školama, ukidanja ili supstitucije željezničkih, brodskih i zračnih linija, kao i na zahtjev jedinica lokalne i područne (regionalne) samouprave te za međunarodne linije za treće države, može se organizirati izvanredno usklađivanje voznih redova. Zahtjev za izvanredno usklađivanje mora biti detaljno obrazložen.
+(7) Odluku o izvanrednom usklađivanju iz stavka 6. ovoga članka donosi Hrvatska gospodarska komora, odnosno županijska komora.
+(8) Usklađivanje voznog reda za izmijenjenu liniju kod koje se mijenja samo vrijeme polaska, prijevoznik može zatražiti u razdoblju od 1. travnja do 30. rujna, ako se izmjenom ne ulazi u zaštitna vremena na postojećim linijama, propisana člankom 8., 9., i 10. ovoga Pravilnika, odnosno ako prijevoznik pribavi suglasnost svih prijevoznika u čija zaštitna vremena ulazi.
