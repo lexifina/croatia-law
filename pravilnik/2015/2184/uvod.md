@@ -1,0 +1,1 @@
+Na temelju članka 104. Zakona o održivom gospodarenju otpadom (»Narodne novine«, br. 94/13) ministar zaštite okoliša i prirode u suradnji s ministricom nadležnom za prostorno planiranje, ministrom nadležnim za pomorstvo i ministrom nadležnim za vodno gospodarstvo donosi

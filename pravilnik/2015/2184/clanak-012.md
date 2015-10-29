@@ -1,0 +1,6 @@
+# Članak 12.
+(1) Prije odlaganja otpada na odlagalište odlagatelj mora osigurati provjeru cjelokupne dokumentacije o otpadu.
+(2) Provjera dokumentacije sastoji se od utvrđivanja njezine potpunosti i ispravnosti prema uvjetima iz ovoga Pravilnika, a osobito provjere rezultata osnovne karakterizacije otpada i provjere sukladnosti.
+(3) Odlagatelj može na odlaganje prihvatiti jedino otpad za kojeg je obavljena provjera iz stavaka 1. i 2. ovoga članka i za kojeg je dostavljen popunjeni prateći list prema posebnom propisu ili drugi odgovarajući dokument koji prati pošiljku sukladno propisima kojima se uređuje prekogranični promet otpada.
+(4) Otpad kojeg odlagatelj prihvaća na odlagalište mora se prethodno izvagati i vizualno pregledati prije i nakon istovara u odlagalištu, kako bi se mogao odstraniti ako nije primjeren za odlaganje. Vaganje se može osigurati na vagi na odlagalištu, izvan odlagališta ili na vagama na vozilima za prijevoz otpada.
+(5) Za otpad kojeg je odlagatelj preuzeo na odlaganje dužan je voditi Očevidnik o nastanku i tijeku otpada koji sadrži podatke o ukupnoj količini, vrstama otpada i podrijetlu njegova nastanka prema posebnom propisu. Za opasni otpad vodi se evidencija o točnoj lokaciji odlaganja na pojedinom odlagalištu.

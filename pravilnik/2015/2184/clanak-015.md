@@ -1,0 +1,3 @@
+# Članak 15.
+(1) Odlagatelju koji je istovremeno i jedini proizvođač otpada koji se odlaže na određenom odlagalištu, može se na njegov zahtjev odobriti pojednostavljenje postupaka provjere prihvata otpada na odlaganje iz članka 12. ovoga Pravilnika.
+(2) Pojednostavljenje postupka provjere prihvata otpada odlagatelju iz stavka 1. ovoga članka se sastoji u tome da ukoliko se radi o otpadu koji ima ista svojstva i odlaže se na istom odlagalištu nije potreban vizualni pregled otpada prije samog odlaganja i vaganja otpada, i osobito provjeru rezultata osnovne karakterizacije otpada i provjere sukladnosti i provjere pratećeg lista za otpad.

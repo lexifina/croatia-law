@@ -1,0 +1,6 @@
+# Članak 2.
+(1) Ovim se Pravilnikom u pravni poredak Republike Hrvatske prenose sljedeće direktive Europske unije:
+- Direktiva Vijeća 1999/31/EZ od 26. travnja 1999. o odlagalištima otpada (SL L 182, 16. 7. 1999.), kako je zadnje izmijenjena i dopunjena Direktivom Vijeća 2011/97/EU od 5. prosinca 2011. o izmjeni Direktive 1999/31/EZ u pogledu posebnih kriterija za skladištenje elementarne žive koja se smatra otpadom (SL L 328, 10. 12. 2011.) (u daljnjem tekstu: Direktiva 1999/31/EZ),
+- Direktiva 2012/19/EU Europskog parlamenta i Vijeća od 4. srpnja 2012. o otpadnoj električnoj i elektroničkoj opremi (OEEO) (Tekst značajan za EGP) (SL L 197, 24. 7. 2012.).
+(2) Ovim se Pravilnikom uređuje provedba Odluke Vijeća 2003/33/EZ od 19. prosinca 2002. kojom se utvrđuju kriteriji i postupci za prihvat otpada na odlagališta sukladno članku 16. i Prilogu II. Direktivi 1999/31/EZ (SL L 11, 16. 1. 2003.) (u daljnjem tekstu: Odluka 2003/33/EZ).
+(3) Ciljevi ovog Pravilnika su da se u čitavom razdoblju trajanja odlagališta smanje štetni utjecaji na okoliš, osobito onečišćenje površinskih voda, podzemnih voda, tla i zraka, uključujući efekt stakleničkih plinova i smanjenje rizika za ljudsko zdravlje do kojeg bi moglo doći uslijed odlaganja otpada i vijeka trajanja odlagališta.

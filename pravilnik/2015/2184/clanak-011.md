@@ -1,0 +1,7 @@
+# Članak 11.
+(1) Ukoliko rezultati osnovne karakterizacije otpada pokazuju da se otpad može primiti na određenu vrstu odlagališta, otpad podliježe provjeri sukladnosti kako bi se utvrdilo da li odgovara vrijednostima navedenim u osnovnoj karakterizaciji i udovoljava kriterijima prihvata na odlagališta iz Priloga III. ovoga Pravilnika.
+(2) Provjeru sukladnosti dužan je osigurati proizvođač i/ili posjednik otpada koji otpad predaje na odlaganje, a provodi se sukladno Odluci 2003/33/EZ - Prilog Kriteriji i postupci za prihvat otpada na odlagališta - odjeljak 1.2. Provjera sukladnosti i odredbama ovog Pravilnika.
+(3) Ako osnovna karakterizacija otpada iz članka 8. ovoga Pravilnika ne sadrži rezultate kemijske analize otpada sukladno Prilogu III. ovoga Pravilnika, odlagatelj je dužan provjeriti radi li se o otpadu koji je odredbama ovog Pravilnika izuzet od potrebe izrade iste sukladno točkama 5. i 6. Priloga II. i točkama 1.3. i 2.4. Priloga III. ovoga Pravilnika.
+(4) Parametri za provjeru sukladnosti i dinamika provođenja provjere sukladnosti moraju biti navedeni u osnovnoj karakterizaciji otpada, a odlagatelj otpada mora voditi računa da se provjera sukladnosti provodi prema opsegu i dinamikom utvrđenom u osnovnoj karakterizaciji otpada, a najmanje jednom u 6 mjeseci.
+(5) Provjera sukladnosti otpada provodi se prema metodama uzorkovanja i ispitivanja za izradu osnovne karakterizacije otpada iz članka 8. ovoga Pravilnika.
+(6) Rezultate dobivene provjerom sukladnosti odlagatelj mora čuvati do zatvaranja odlagališta.
