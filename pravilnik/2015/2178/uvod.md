@@ -1,0 +1,1 @@
+Na temelju članka 38. stavka 4. Zakona o izvršavanju državnog proračuna Republike Hrvatske za 2015. godinu (»Narodne novine«, broj 148/14.), ministar pravosuđa uz suglasnost ministra financija, donosi
