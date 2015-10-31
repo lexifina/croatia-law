@@ -1,0 +1,5 @@
+# Članak 1.
+U Pravilniku o izgledu, sadržaju i načinu vođenja zapisnika i dokumenata o sukladnosti godišnjeg stručno-tehničkog pregleda za žičare (»Narodne novine«, br. 124/09, 92/12, 128/13 i 144/14) članak 9. mijenja se i glasi:
+»Članak 9.
+(1) Za postojeće žičare koje su izgrađene prije stupanja na snagu Zakona o žičarama za prijevoz osoba i koje su u uporabi bez uporabne dozvole, odobrenje za rad žičare će se izdati ako žičara ima rješenje o izvedenom stanju ili potvrdu izvedenog stanja sukladno propisu kojim se uređuje gradnja.
+(2) Za postojeće žičare koje su izgrađene prije stupanja na snagu Zakona o žičarama za prijevoz osoba i koje su u uporabi bez uporabne dozvole, a koje nemaju rješenje o izvedenom stanju za završenu zgradu iz stavka 1. ovoga članka, iznimno će se najkasnije do 31. prosinca 2017. godine izdati odobrenje za rad žičare ukoliko se godišnjim stručno-tehničkim pregledom utvrdi da su takve žičare održavane u skladu s propisima i tehničkim uvjetima koji se odnose na konstrukciju, opremu, održavanje i opremljenost žičare propisanim uređajima.«.
