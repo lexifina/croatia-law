@@ -1,0 +1,2 @@
+# Članak 1.
+U Uredbi o klasifikaciji radnih mjesta policijskih službenika (»Narodne novine«, br. 129/11, 82/12, 140/13, 32/15 i 40/15) u Popisu naziva radnih mjesta policijskih službenika, u odjeljku: »Kategorija Niži policijski službenici, Potkategorija Samostalni policijski službenik, Razina potkategorije 1 Samostalni policajac« radna mjesta: »vođa ophodnje, vođa ophodnje za sigurnost cestovnog prometa i vođa ophodnje za zadržavanje« brišu se.
