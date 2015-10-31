@@ -1,0 +1,2 @@
+# Članak 4.
+Postupci pokrenuti po odredbama Uredbe o jediničnim naknadama, korektivnim koeficijentima i pobližim kriterijima i mjerilima za utvrđivanje naknade na emisiju u okoliš oksida sumpora izraženih kao sumporov dioksid i oksida dušika izraženih kao dušikov dioksid (»Narodne novine«, broj 71/04), radi naplate naknade po konačnom obračunu za 2014. godinu, dovršit će se prema odredbama te Uredbe.
