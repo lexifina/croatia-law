@@ -1,0 +1,5 @@
+## Ispravak greške stručnog izrađivača
+# Članak 23.
+(1) Ako prilikom unosa u modul ePlanovi elektronički oblik prijedloga prostornog plana ne prođe formalnu računalnu kontrolu ispravnosti ugrađenu u modul ePlanovi i/ili se gml, odnosno shp datoteke ne prikažu u ISPU na ispravan način, stručni izrađivač obvezan je bez naknade ispraviti greške i osigurati ispravan prikaz najkasnije u roku od 3 radna dana prije početka javne rasprave.
+(2) Ako prilikom unosa u modul ePlanovi elektronički oblik prostornog plana ne prođe formalnu računalnu kontrolu ispravnosti ugrađenu u modulu ePlanovi i/ili se gml, odnosno shp datoteke ne prikažu u modulu ePlanovi na ispravan način, stručni izrađivač obvezan je bez naknade ispraviti greške i osigurati ispravan prikaz najkasnije u roku od petnaest dana od dana objave odluke o donošenju prostornog plana.
+(3) Ako zavod utvrdi da prostorni plan iz članka 12. stavka 3. ove Uredbe nije topološki uređen i georeferenciran na odgovarajući način, stručni izrađivač obvezan je bez naknade ispraviti greške i dostaviti zavodu uređeni plan najkasnije u roku od trideset dana od dana dostave pisanog zahtjeva zavoda.

@@ -1,0 +1,4 @@
+# Članak 29.
+(1) Nositelj izrade izmjena i/ili dopuna prijedloga prostornog plana za javnu raspravu koje se izrađuju u skladu s pravnim pravilima Pravilnika o sadržaju, mjerilima kartografskih prikaza, obveznim prostornim pokazateljima i standardu elaborata prostornih planova obvezan je objaviti na svojim mrežnim stranicama elektronički zapis tog prijedloga najkasnije jedan dan prije dana početka javne rasprave.
+(2) Ako nositelj izrade iz stavka 1. ovoga članka nema mrežne stranice, obvezan je elektronički zapis prijedloga izmjena i/ili dopuna prijedloga prostornog plana za javnu raspravu dostaviti Ministarstvu radi objave na njegovim mrežnim stranicama.
+(3) Grafički dijelovi prijedloga prostornog plana iz stavka 1. ovoga članka objavljuju se u PDF formatu ili drugom formatu za koji postoji preglednik besplatno dostupan javnosti.
