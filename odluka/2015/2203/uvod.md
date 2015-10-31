@@ -1,0 +1,1 @@
+Na temelju članka 12. stavka 2., članka 13., članka 15. stavka 2. i članka 42. stavka 3. točke 6. Zakona o Hrvatskoj narodnoj banci (»Narodne novine«, br. 75/2008. i 54/2013.), Savjet Hrvatske narodne banke na sjednici održanoj 20. listopada 2015. donio je
