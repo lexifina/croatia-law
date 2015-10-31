@@ -1,0 +1,3 @@
+# Članak 1.
+U Uredbi o kriterijima za utvrđivanje korisnika i načinu raspodjele dijela prihoda od igara na sreću za 2015. godinu (»Narodne novine«, br. 17/15 i 78/15), u članku 3. iza točke 3. dodaje se točka 3.a koja glasi:
+»3.a iznos prihoda od igara na sreću koji se temeljem točke 3. ovoga članka raspoređuje Ministarstvu vanjskih i europskih poslova za aktivnost A777058 Pomoći organizacijama koje se bave humanitarnom djelatnošću u inozemstvu u postotku od 10,94%, umanjit će se za iznos od 1.000.000,00 kuna koji će se rasporediti u razdjel 040 Ministarstvo unutarnjih poslova za projekt K553026 Izgradnja kapaciteta u području azila viznog sustava i ilegalnih migracija. Prijenos sredstava iz ove točke izvršit će Ministarstvo financija.«.
