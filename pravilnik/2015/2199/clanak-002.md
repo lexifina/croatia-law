@@ -1,0 +1,16 @@
+# Članak 2.
+Pojmovi koji se koriste u ovom Pravilniku imaju sljedeće značenje:
+1. Dokumentacijski pregled - pregled komercijalnih isprava i/ili isprava određenih propisima o hrani ili hrani za životinje koje prate pošiljku.
+2. Fizički pregled pošiljke - provjera hrane životinjskog podrijetla ili hrane za životinje, što može uključivati provjere na prijevoznom sredstvu, provjeru ambalaže, označavanja i temperature, uzimanje uzoraka za analizu i laboratorijsko testiranje te ostale provjere potrebne da se provjeri poštivanje propisa o hrani ili hrani za životinje.
+3. Hrana životinjskog podrijetla - proizvodi dobiveni od životinja i jestivih dijelova životinja, uključujući i žive životinje (ribe, školjkaši) u prerađenom ili neprerađenom stanju, namijenjeni prehrani ljudi, uključujući hranu koja sadrži i proizvode ne životinjskog podrijetla te neprerađene proizvode životinjskog podrijetla.
+4. Hrana za životinje - svaka tvar ili proizvod, uključujući i dodatke hrani za životinje, prerađen, djelomično prerađen ili neprerađen, a namijenjen je hranidbi životinja.
+5. Identifikacijski pregled - vizualna inspekcija kako bi se provjerilo slažu li se potvrde ili ostale isprave koje prate pošiljku s obilježjima i sadržajem pošiljke.
+6. Inspekcijski nadzor - kontrolu hrane ili hrane za životinje kako bi se verificiralo da su zadovoljeni uvjeti propisa o hrani ili hrani za životinje te zdravlju i dobrobiti životinja.
+7. Posjednik - svaka pravna ili fizička osoba koja je kao vlasnik, korisnik ili čuvar izravno odgovorna za zdravlje i dobrobit službene životinje.
+8. Pošiljka - službene životinje ili proizvodi životinjskog podrijetla i druge pošiljke, iste vrste, obuhvaćene istim dokumentom određenim veterinarskim propisima, koji su istim prijevoznim sredstvom dopremljene iz iste države ili iz istog dijela države, poslane od jednog pošiljatelja, a namijenjene jednom primatelju.
+9. Premještanje - svako komercijalno ili nekomercijalno premještanje službene životinje iz područja iz kojeg potječe ili nekoga drugog mjesta na drugu lokaciju (odredišno mjesto) odnosno otpremanje pošiljaka životinjskog podrijetla i hrane za životinje bez obzira na namjenu.
+10. Propisi o hrani - zakoni i drugi propisi koji uređuju pitanje hrane i hrane za životinje općenito te posebno sigurnost hrane, a koji obuhvaćaju sve faze proizvodnje, prerade i distribucije hrane, kao i hrane za životinje koja se proizvodi ili kojom se hrane životinje za proizvodnju hrane.
+11. Službena kontrola - svaki oblik kontrole koju vojna veterinarska inspekcija provodi s ciljem provjere poštivanja propisa o hrani i hrani za životinje, te propisa o zdravlju i dobrobiti životinja.
+12. Službeni uzorak - uzorak uzet prema propisanom postupku tijekom kontrole životinja, proizvoda životinjskog podrijetla i hrane za životinje te provedbe mjera iz područja zdravlja životinja.
+13. Veterinarski pregled - pregled životinja i proizvoda životinjskog podrijetla te hrane za životinje u svrhu zaštite javnog zdravlja, zdravlja životinja, dobrobiti životinja i veterinarske zaštite okoliša, a može se sastojati od kliničkog, dokumentacijskog, identifikacijskog i fizičkog pregleda, od kojih je dokumentacijski pregled obvezan.
+14. Službena životinja - životinja koje je na uporabi u Ministarstvu obrane i Oružanim snagama Republike Hrvatske.

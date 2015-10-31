@@ -1,0 +1,6 @@
+# Članak 9.
+(1) Ustrojstvene jedinice Ministarstva obrane i Oružanih snaga Republike Hrvatske i pravne osobe čiji rad podliježe inspekcijskom nadzoru dužne su vojnom veterinarskom inspektoru omogućiti obavljanje nadzora, pružiti potrebne podatke i obavijesti te osigurati uvjete za nesmetan rad.
+(2) Ustrojstvene jedinice i pravne osobe iz stavka 1. ovoga članka dužne su privremeno obustaviti poslovanje za vrijeme inspekcijskog nadzora/službene kontrole ako vojni veterinarski inspektor nije u mogućnosti na drugi način obaviti nadzor.
+(3) Ustrojstvene jedinice i pravne osobe dužne su, na zahtjev vojnoga veterinarskog inspektora, u primjerenom roku dostaviti ili pripremiti podatke i dokumentaciju koji su mu potrebni za obavljanje poslova inspekcijskog nadzora.
+(4) Kad je za obavljanje poslova inspekcijskog nadzora potrebno uzeti službene uzorke i izvršiti analizu, vojni veterinarski inspektor ovlašten je uzeti službene uzorke u skladu s važećim propisima i dostaviti ih na laboratorijske pretrage u ovlašteni službeni laboratorij zdravstvenih ili veterinarskih ustanova s kojima Ministarstvo obrane ima sklopljen ugovor.
+(5) Inspekcijski nadzor mora se provoditi redovito na temelju analize rizika i odgovarajućom učestalošću, a najmanje jedanput mjesečno.
