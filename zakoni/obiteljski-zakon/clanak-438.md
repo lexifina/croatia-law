@@ -1,0 +1,5 @@
+## Sporovi o činjenicama i o pravu
+# Članak 438.
+(1) Ako u postupku u kojem sudjeluju dvije ili više stranaka dođe do spora o činjenicama o kojima ovisi odluka, sud će donijeti rješenje kojim će obustaviti izvanparnični postupak i odrediti da se postupak u toj pravnoj stvari pred njime nastavi kao parnični postupak i prije pravomoćnosti rješenja o obustavi izvanparničnog postupka. Tim će rješenjem sud predlagatelju odrediti rok u kojem je dužan uskladiti prijedlog s odredbama Zakona o parničnom postupku o sadržaju tužbe.
+(2) U slučaju iz stavka 1. ovoga članka radnje poduzete i dokazi izvedeni tijekom izvanparničnog postupka neće biti bez učinka samo zato što nisu poduzete, odnosno izvedene u parničnom postupku. Sud će rješenjem protiv kojeg nije dopuštena posebna žalba odlučiti koje će se od poduzetih radnji i izvedenih dokaza ponoviti.
+(3) Ako u postupku iz stavka 1. ovoga članka među strankama nema spora o bitnim činjenicama, već je sporno pravo koje se temelji na tim činjenicama, sud će nastaviti izvanparnični postupak i odlučiti o spornom pravu.

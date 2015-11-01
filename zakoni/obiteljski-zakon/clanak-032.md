@@ -1,0 +1,6 @@
+## Obiteljski dom i zaštita prava na stanovanje
+# Članak 32.
+(1) Bračni drugovi sporazumno određuju mjesto stanovanja i obiteljsku kuću ili stan u kojem će stanovati s djecom nad kojom ostvaruju roditeljsku skrb i koji predstavlja obiteljski dom za njih i djecu.
+(2) Bračni drug ne smije za trajanja braka otuđiti ili opteretiti obiteljsku kuću ili stan koji predstavlja bračnu stečevinu a ujedno je i obiteljski dom u kojem stanuje drugi bračni drug i njihova djeca nad kojom ostvaruju roditeljsku skrb, bez pisane suglasnosti drugoga bračnog druga s ovjerom potpisa kod javnog bilježnika.
+(3) Ako je jedan bračni drug najmoprimac stana u kojem bračni drugovi stanuju zajedno s djecom nad kojom ostvaruju roditeljsku skrb, on ne može otkazati ugovor o najmu stana bez pisane suglasnosti drugog bračnog druga s ovjerom potpisa kod javnog bilježnika, osim ako se radi o službenom stanu sukladno posebnim propisima.
+(4) Ako jedan bračni drug bez opravdanog razloga odbije dati drugom bračnom drugu suglasnost iz stavaka 2. i 3. ovoga članka, sud može na prijedlog bračnog druga u izvanparničnom postupku donijeti rješenje koje zamjenjuje suglasnost drugog bračnog druga. Sud je pritom dužan voditi računa o stambenim potrebama obaju bračnih drugova i djece koja s njima stanuju te o drugim okolnostima slučaja.

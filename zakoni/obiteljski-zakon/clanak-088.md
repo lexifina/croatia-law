@@ -1,0 +1,6 @@
+## Informirani pristanak djeteta na medicinske postupke
+# Članak 88.
+(1) Dijete koje je navršilo šesnaest godina i koje prema ocjeni doktora medicine raspolaže s obavijestima potrebnim za oblikovanje vlastitog mišljenja o konkretnoj stvari i prema njegovoj je ocjeni dovoljno zrelo za donošenje odluke o preventivnom, dijagnostičkom ili terapijskom postupku u vezi sa svojim zdravljem ili liječenjem, može samostalno dati pristanak na pregled, pretragu ili medicinski postupak (informirani pristanak).
+(2) Ako se prema procjeni doktora medicine radi o medicinskom postupku koji je povezan s rizicima teških posljedica za fizičko ili psihičko zdravlje djeteta pacijenta, uz pristanak djeteta iz stavka 1. ovoga članka potrebna je i suglasnost djetetovih roditelja ili drugog zakonskog zastupnika.
+(3) U slučaju spora između djeteta i roditelja o poduzimanju medicinskog postupka iz stavka 2. ovoga članka, sud će u izvanparničnom postupku na prijedlog djeteta ili roditelja donijeti rješenje radi zaštite dobrobiti djeteta.
+(4) Iznimno od stavaka 1. do 3. ovoga članka, ako se radi o neodgodivoj medicinskoj intervenciji, primjenjuju se odredbe posebnog propisa kojim se uređuje zaštita prava pacijenata.

@@ -1,0 +1,4 @@
+## Određivanje uzdržavanja u posebnim okolnostima
+# Članak 315.
+(1) Ako roditelj koji ne stanuje s djetetom ima prihode koji premašuju prihod iz najvišega platnog razreda prema tablicama za uzdržavanje koje se donose na temelju članka 314. stavka 4. ovoga Zakona, sud može u parničnom postupku odrediti uzdržavanje u iznosu višem od najvišeg iznosa predviđenog tablicama zbog posebno opravdanih okolnosti, vodeći računa da uzdržavanje djeteta ne smije povećati životni standard drugog roditelja.
+(2) Ako su roditelji razvedeni i dalje žive zajedno s djetetom, roditelji se mogu sporazumjeti ili sud može u parničnom postupku, s obzirom na okolnosti slučaja, donijeti odluku prema kojoj se roditelji zajednički svakodnevno skrbe o djetetu, a materijalne potrebe djeteta zadovoljavaju u skladu s prihodima svakoga od njih.

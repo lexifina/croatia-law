@@ -1,0 +1,6 @@
+## Trajanje mjere
+# Članak 158.
+(1) Mjera oduzimanja prava na stanovanje s djetetom i povjeravanje svakodnevne skrbi o djetetu drugoj osobi, udomiteljskoj obitelji ili ustanovi socijalne skrbi određuje se u trajanju do godine dana.
+(2) Sud može u izvanparničnom postupku na prijedlog djeteta, roditelja ili centra za socijalnu skrb produljiti trajanje ove mjere za najviše još jednu godinu, a nakon toga mjera iznimno može trajati do pravomoćnog okončanja sudskog postupka pokrenutog radi nadomještanja pristanka za posvojenje djeteta, odnosno postupka radi lišenja prava na roditeljsku skrb te imenovanja skrbnika.
+(3) Centar za socijalnu skrb će najkasnije trideset dana prije isteka vremena iz stavaka 1. i 2. ovoga članka podnijeti sudu završno izvješće o djetetu i roditelju kojemu je oduzeto pravo na stanovanje s djetetom.
+(4) Sud može u izvanparničnom postupku na prijedlog djeteta, roditelja ili centra za socijalnu skrb ukinuti mjeru oduzimanja prava na stanovanje s djetetom i povjeravanja svakodnevne skrbi o djetetu drugoj osobi, udomiteljskoj obitelji ili ustanovi socijalne skrbi prije isteka vremena iz stavaka 1. i 2. ovoga članka, ako prema izvješću centra za socijalnu skrb prestanu postojati razlozi zbog kojih je mjera određena.

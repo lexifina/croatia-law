@@ -1,0 +1,7 @@
+## Odlučivanje o mjeri
+# Članak 157.
+(1) Sud će rješenjem o oduzimanju prava na stanovanje s djetetom i povjeravanju svakodnevne skrbi o djetetu drugoj osobi, udomiteljskoj obitelji ili ustanovi socijalne skrbi odlučiti o smještaju djeteta i ostvarivanju osobnih odnosa s djetetom, odnosno o nadzoru nad ostvarivanjem osobnih odnosa s djetetom ili zabrani ostvarivanja osobnih odnosa ako je to potrebno i ako to predlažu dijete, roditelj ili centar za socijalnu skrb.
+(2) Sud će rješenjem iz stavka 1. ovoga članka obvezati roditelja da obavještava nadležni centar za socijalnu skrb o svakoj promjeni adrese stanovanja.
+(3) Rješenje iz stavka 1. ovoga članka može sadržavati uputu roditeljima i djetetu da zatraže odgovarajuće liječenje, kao i da se uključe u druge zdravstvene, obrazovne ili psihosocijalne programe kako bi nakon završetka liječenja ili terapije mogli iznova samostalno preuzeti skrb o djetetu.
+(4) Ako se obiteljskom procjenom utvrdi da je slaba vjerojatnost povratka djeteta u obitelj, centar za socijalnu skrb i sud će voditi računa da povjeravanje svakodnevne skrbi o djetetu i smještaj djeteta budu trajnije naravi.
+(5) Sud će rješenjem iz stavka 1. ovoga članka odlučiti i o uzdržavanju djeteta od strane roditelja ako je to posebni skrbnik djeteta ili centar za socijalnu skrb u ime djeteta zahtijevao. Na određivanje uzdržavanja na odgovarajući se način primjenjuju odredbe članaka 474. do 477. ovoga Zakona.

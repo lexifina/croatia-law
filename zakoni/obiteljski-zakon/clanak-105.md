@@ -1,0 +1,7 @@
+## Samostalno ostvarivanje roditeljske skrbi
+# Članak 105.
+(1) Jedan roditelj samostalno ostvaruje roditeljsku skrb potpuno, djelomice ili u odnosu na odlučivanje o određenom bitnom pitanju u vezi s djetetom uz istodobno ograničavanje drugog roditelja na ostvarivanje roditeljske skrbi u tom dijelu samo na temelju sudske odluke u skladu s djetetovom dobrobiti.
+(2) Roditelj nastavlja samostalno ostvarivati roditeljsku skrb bez sudske odluke ako je drugi roditelj umro ili je proglašen umrlim, a roditelji su prije smrti jednoga od njih roditeljsku skrb ostvarivali zajednički.
+(3) Jedan roditelj samostalno ostvaruje roditeljsku skrb na temelju sudske odluke ako roditelji nisu postigli plan o zajedničkoj roditeljskoj skrbi ili sporazum tijekom sudskog postupka, pri čemu je sud dužan posebno voditi računa koji je od roditelja spreman na suradnju i sporazum o zajedničkoj roditeljskoj skrbi sukladno članku 416. stavcima 2. i 3. ovoga Zakona.
+(4) Roditelj koji se protivi zajedničkom ostvarivanju roditeljske skrbi, odnosno sklapanju plana o zajedničkoj roditeljskoj skrbi ili sporazumu dužan je dokazati da zajednička roditeljska skrb nije za dobrobit djeteta, u protivnom sud može samostalno ostvarivanje roditeljske skrbi povjeriti drugom roditelju ako je to u skladu s dobrobiti djeteta.
+(5) Kad sud donosi odluku o samostalnom ostvarivanju roditeljske skrbi, odredit će hoće li roditelj koji samostalno ostvaruje roditeljsku skrb sam zastupati dijete u bitnim osobnim pravima ili uz suglasnost drugog roditelja sukladno članku 100. ovoga Zakona.

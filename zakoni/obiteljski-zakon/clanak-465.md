@@ -1,0 +1,5 @@
+## Ispravak i dopuna prijedloga
+# Članak 465.
+(1) Ako roditelji uz prijedlog za odobravanje plana nisu podnijeli izvješće o obveznom savjetovanju ili plan o zajedničkoj roditeljskoj skrbi ili sud utvrdi da plan nije u skladu s dobrobiti djeteta, sud će pozvati podnositelje da ih podnesu, odnosno dopune ili isprave u skladu s danom uputom.
+(2) U slučaju iz stavka 1. ovoga članka, sud će odrediti rok od osam dana za ponovno podnošenje, dopunu ili ispravak prijedloga i upozoriti stranke na pravne posljedice nepostupanja po nalogu suda.
+(3) Smatrat će se da je prijedlog za odobravanje plana povučen ako izvješće o obveznom savjetovanju i plan o zajedničkoj roditeljskoj skrbi ne budu podneseni u određenom roku, a ako ponovno bude podnesen prijedlog bez izvješća o obveznom savjetovanju i plana o zajedničkoj roditeljskoj skrbi ili plan o zajedničkoj roditeljskoj skrbi, bez ispravka, odnosno dopune, sud će odbaciti prijedlog za odobravanje plana.

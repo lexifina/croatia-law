@@ -1,0 +1,6 @@
+## Pritužba na rad skrbnika i centra za socijalnu skrb
+# Članak 279.
+(1) Štićenik, njegov bračni drug, srodnici u ravnoj lozi, a u pobočnoj lozi u drugom stupnju, pravosudna tijela, tijela državne uprave, tijela jedinica lokalne samouprave, zdravstvene i odgojno-obrazovne ustanove, ustanove socijalne skrbi, udruge koje se bave zaštitom i promicanjem prava osoba s invaliditetom, pružatelji usluga u sustavu socijalne skrbi i pravobranitelji mogu podnijeti pritužbu na rad skrbnika centru za socijalnu skrb.
+(2) Centar za socijalnu skrb dužan je odmah ispitati osnovanost pritužbe, u slučaju potrebe poduzeti zakonom određene mjere, a o poduzetim mjerama i osnovanosti pritužbe izvijestiti osobe iz stavka 1. ovoga članka te ministarstvo nadležno za poslove socijalne skrbi.
+(3) Osobe iz stavka 1. ovoga članka i skrbnik mogu podnijeti ministarstvu nadležnom za poslove socijalne skrbi pritužbu na rad centra za socijalnu skrb u vezi s obavljanjem pojedinih skrbničkih poslova.
+(4) Ministarstvo nadležno za poslove socijalne skrbi dužno je odmah ispitati navode i osnovanost pritužbe. Ako je pritužba osnovana, ministarstvo nadležno za poslove socijalne skrbi dati će upute centru za socijalnu skrb kako treba postupiti i odredit će rok u kojem je centar za socijalnu skrb dužan dostaviti obavijest o poduzetim radnjama.

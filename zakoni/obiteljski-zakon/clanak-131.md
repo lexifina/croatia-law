@@ -1,0 +1,5 @@
+## Opće pretpostavke za određivanje mjera za zaštitu djeteta
+# Članak 131.
+(1) Mjere za zaštitu prava i dobrobiti djeteta određuju se na temelju stručne procjene ako se utvrdi da je došlo do povrede djetetovih prava i dobrobiti ili da su prava, dobrobit i razvoj djeteta ugroženi.
+(2) Prava djeteta smatraju se ugroženima ako je skrb o djetetu neodgovarajuća ili ako dijete ima psihosocijalne poteškoće koje se očituju kroz ponašanje, emocionalne, školske i druge probleme u djetetovu odrastanju ili ako postoji vjerojatnost da će do toga doći.
+(3) Ministar nadležan za poslove socijalne skrbi pravilnikom će propisati uvjete stručne osposobljenosti radnika, edukaciju radnika za provođenje mjera intenzivne stručne pomoći i nadzora nad ostvarivanjem skrbi o djetetu, način provođenja mjera za zaštitu osobnih prava i dobrobiti djeteta, kriterije za stručnu procjenu i provedbu mjera za zaštitu osobnih prava i dobrobiti djeteta, kao i visinu iznosa i način isplate naknade za provedbu mjera stručne pomoći i potpore obitelji u ostvarivanju skrbi o djetetu te intenzivne stručne pomoći i nadzora nad ostvarivanjem skrbi o djetetu.

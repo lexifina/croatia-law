@@ -1,0 +1,11 @@
+## Pretpostavke, opseg, postupak i sadržaj lišenja poslovne sposobnosti
+# Članak 234.
+(1) Sud će u izvanparničnom postupku punoljetnu osobu koja se zbog duševnih smetnji ili drugih razloga nije sposobna brinuti o nekom od svojih prava, potreba ili interesa, ili koja ugrožava prava i interese drugih osoba o kojima je dužna skrbiti se, u tom dijelu lišiti poslovne sposobnosti.
+(2) Osoba iz stavka 1. ovoga članka ne može biti potpuno lišena poslovne sposobnosti.
+(3) Prije donošenja rješenja o lišenju poslovne sposobnosti sud će pribaviti stručno mišljenje vještaka odgovarajuće grane medicine o zdravstvenom stanju osobe za koju je pokrenut postupak lišenja poslovne sposobnosti i o utjecaju toga stanja na njezine sposobnosti zaštite svojega pojedinog prava ili skupine prava, ili na ugrožavanje prava i interesa drugih osoba.
+(4) Rješenjem o lišenju poslovne sposobnosti sud će odrediti radnje i poslove koje osoba nije sposobna samostalno poduzeti u odnosu na osobno stanje te imovinu.
+(5) Radnje i poslovi koje osoba nije sposobna samostalno poduzeti i koji se odnose na osobno stanje su davanje izjava ili poduzimanje radnji koje se odnose na promjenu osobnog imena, sklapanje i prestanak braka, roditeljstvo, odluke o zdravlju, mjestu prebivališta, odnosno boravišta, zapošljavanju i drugo, osim ako nije ovim Zakonom drukčije određeno.
+(6) Radnje i poslovi koje osoba nije sposobna samostalno poduzeti i koji se odnose na imovinu su raspolaganje i upravljanje imovinom, plaćom ili drugim stalnim novčanim primanjima, osim ako nije ovim Zakonom drukčije određeno.
+(7) Rješenjem o lišenju poslovne sposobnosti u slučaju iz stavka 6. ovoga članka odredit će se točan iznos plaće, odnosno stalnog novčanog primanja preko kojega štićenik ne može samostalno raspolagati te označiti imovinu i točan iznos, ako je to prikladno, kojom štićenik ne može samostalno raspolagati i upravljati, odnosno preko kojeg iznosa ne može samostalno raspolagati i upravljati.
+(8) Ako je osoba lišena poslovne sposobnosti roditelj djeteta, u dijelu u kojem nije u stanju ostvarivati roditeljsku skrb nastupa mirovanje ostvarivanja roditeljske skrbi sukladno članku 114. ovoga Zakona.
+(9) Za poslove koji nisu određeni u odluci iz stavka 4. ovoga članka osoba lišena poslovne sposobnosti ima poslovnu sposobnost te ih može samostalno poduzimati.

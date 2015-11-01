@@ -1,0 +1,8 @@
+## Zapljena po pristanku obveznika uzdržavanja i prestanak rada
+# Članak 528.
+(1) Obveznik uzdržavanja može u zapisnik na ročištu pred sudom ili posebnom ovjerovljenom ispravom dati suglasnost da se radi naplate tražbine ovlaštenika uzdržavanja zaplijene njegova plaća, mirovina ili slično novčano primanje, u cijelosti ili djelomice, i da se isplate obavljaju izravno ovlašteniku uzdržavanja na način određen u toj ispravi. Takva isprava izdaje se u jednom primjerku i ima pravni učinak pravomoćnog rješenja o ovrsi.
+(2) Ispravu iz stavka 1. ovoga članka s učincima dostave rješenja o ovrsi poslodavcu dostavlja obveznik uzdržavanja ili ovlaštenik uzdržavanja, preporučenom poštanskom pošiljkom s povratnicom ili putem javnoga bilježnika.
+(3) Isprava iz stavka 1. ovoga članka ima svojstvo ovršne isprave na temelju koje se može tražiti ovrha protiv obveznika uzdržavanja i na drugim predmetima ovrhe.
+(4) Na izjavu obveznika uzdržavanja iz stavka 1. ovoga članka na odgovarajući se način primjenjuju odredbe Ovršnoga zakona o zapljeni plaće i drugih stalnih novčanih primanja dužnika po njegovu pristanku.
+(5) Obveznik uzdržavanja koji je zasnovao novi radni odnos dužan je podatke o postojanju ovršne isprave za uzdržavanje, te ime i adresu osobe kojoj se ta tražbina treba isplaćivati dostaviti poslodavcu kod kojeg je zasnovao novi radni odnos.
+(6) Poslodavac kod kojeg je obveznik uzdržavanja zasnovao novi radni odnos dužan je odmah obavijestiti osobu koja ima tražbinu za uzdržavanje o zasnovanom radnom odnosu, odnosno osobi koja ima tražbinu za uzdržavanje dati potrebne obavijesti o obvezniku uzdržavanja koji je kod njih zasnovao novi radni odnos.

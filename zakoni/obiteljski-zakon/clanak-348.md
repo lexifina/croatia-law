@@ -1,0 +1,6 @@
+## Načelo socijalnosti
+# Članak 348.
+(1) Sud je dužan tijekom postupka osobito paziti da se zaštite prava i interesi djece, osoba s invaliditetom, odnosno osoba koje se iz drugih razloga nisu sposobne same brinuti o sebi i o svojim pravima i interesima.
+(2) Ako sud tijekom postupka posumnja da stranka nije sposobna sama se brinuti o svojim pravima i interesima i da bi je zbog toga trebalo lišiti poslovne sposobnosti i imenovati joj skrbnika, izvijestit će o tome centar za socijalnu skrb radi pokretanja postupka.
+(3) Sud će prekinuti postupak dok se ne provede postupak lišenja poslovne sposobnosti i imenuje skrbnik, odnosno dok ga centar za socijalnu skrb ne obavijesti o obustavi tog postupka. Za vrijeme prekida postupka mogu se poduzimati samo radnje za koje postoji opasnost od odgode, osobito one radnje kojima treba zaštititi ili osigurati prava stranke koja nije sposobna sama se brinuti o svojim pravima i interesima.
+(4) Ako je stranci iz stavka 2. ovoga članka imenovan poseban skrbnik sukladno odredbama ovoga Zakona, neće se prekinuti postupak sukladno stavku 3. ovoga članka, a ako poseban skrbnik bude naknadno imenovan, nastavit će postupak koji je bio prekinut sukladno stavku 3. ovoga članka.

@@ -1,0 +1,7 @@
+## Prethodno odobrenje centra za socijalnu skrb
+# Članak 259.
+(1) Za poduzimanje važnijih mjera o osobi, osobnim stanjima, zdravlju štićenika ili imovini štićenika, ovisno u kojem je dijelu štićenik lišen poslovne sposobnosti, skrbniku je potrebno prethodno odobrenje centra za socijalnu skrb, osim ako je drukčije propisano ovim Zakonom.
+(2) Važnijom mjerom o osobi ili osobnom stanju štićenika smatra se rješenje o smještaju u dom, udomiteljsku obitelj, o promjeni prebivališta ili boravišta, o promjeni osobnog imena i o drugim mjerama koje mogu znatno utjecati na prava i obveze štićenika, osim odluka koje donosi isključivo štićenik iz članka 258. ovoga Zakona, neovisno o tome zastupa li ga skrbnik ili daje odobrenje za donošenja te odluke kad je to prema odredbama ovoga Zakona potrebno.
+(3) Važnijom mjerom o zdravlju štićenika smatra se odluka o invazivnim medicinskim postupcima te ona koja prelazi specijalističke preglede i primjenu redovite terapije, osim odluka o zdravlju koje donosi isključivo štićenik iz članka 258. ovoga Zakona te odluka iz članka 260. stavka 1. ovoga Zakona koje donosi sud.
+(4) Važnijom mjerom o imovini štićenika smatraju se mjere i poslovi iz članka 261. stavaka 2. i 6. ovoga Zakona.
+(5) Skrbniku nije potrebno prethodno odobrenje za obavljanje redovitih poslova koji se odnose na osobna stanja te poslova redovitog upravljanja imovinom, osim ako rješenjem centra za socijalnu skrb ili odredbama ovoga Zakona nije određeno drukčije.

@@ -1,0 +1,4 @@
+# Članak 559.
+(1) Ministar nadležan za poslove pravosuđa donijet će provedbene propise iz članka 177. stavka 3., članka 367. stavka 2. i članka 516. stavka 2. ovoga Zakona u roku od tri mjeseca od dana stupanja na snagu ovoga Zakona.
+(2) Ministar nadležan za poslove socijalne skrbi donijet će provedbene propise iz članka 94. stavka 7., članka 107. stavka 3., članka 125. stavka 5., članka 131. stavka 3., članka 132. stavka 6., članka 204. stavka 4., članka 205. stavka 3., članka 217. stavka 6., članka 238. stavka 5., članka 264. stavka 2., članka 280., članka 318. stavka 2., članka 324. stavka 4. i stavka 5., članka 341. stavka 5., članka 344., članka 360. stavka 7. te članka 557. stavka 2. ovoga Zakona u roku od tri mjeseca od dana stupanja na snagu ovoga Zakona.
+(3) Ministar nadležan za poslove uprave donijet će provedbene propise iz članka 18. stavka 4. i članka 20. stavka 6. ovoga Zakona u roku od tri mjeseca od dana stupanja na snagu ovoga Zakona.

@@ -1,0 +1,6 @@
+## Stručno mišljenje o podobnosti i prikladnosti za posvojenje
+# Članak 204.
+(1) Centar za socijalnu skrb će na temelju prijave namjere posvojenja i zahtjeva za ocjenu podobnosti i prikladnosti za posvojenje utvrditi ispunjavaju li bračni, odnosno izvanbračni drugovi ili osoba koja želi posvojiti zakonske pretpostavke iz članaka 184. do 187. ovoga Zakona te procijeniti njihovu podobnost i prikladnost za posvojenje.
+(2) Ako osobe koje su podnijele zahtjev za procjenu podobnosti i prikladnosti za posvojenje zadovoljavaju zakonske pretpostavke za posvojenje iz stavka 1. ovoga članka, centar za socijalnu skrb ih upućuje na obvezu sudjelovanja u programu stručne pripreme za posvojenje.
+(3) Nakon provedene stručne pripreme za posvojenje iz stavka 2. ovoga članka i stručne procjene osoba koje žele posvojiti, centar za socijalnu skrb će dati mišljenje o podobnosti i prikladnosti za posvojenje u roku od šest mjeseci od zaprimanja pisane prijave i zahtjeva.
+(4) Ministar nadležan za poslove socijalne skrbi pravilnikom će propisati elemente koji se odnose na podobnost i prikladnost za posvojenje, sadržaj stručnoga mišljenja o podobnosti i prikladnosti za posvojenje, metode utvrđivanja podobnosti i prikladnosti, sadržaj izvješća o djetetu, vođenje registra o potencijalnim posvojiteljima te način vođenja registra o posvojenjima.

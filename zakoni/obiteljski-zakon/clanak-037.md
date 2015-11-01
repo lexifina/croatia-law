@@ -1,0 +1,5 @@
+## Upravljanje bračnom stečevinom
+# Članak 37.
+(1) Za poslove redovite uprave poput redovitoga održavanja, iskorištavanja i upotrebe stvari za njezinu redovitu svrhu, smatra se da je drugi bračni drug dao svoju suglasnost ako se ne dokaže suprotno.
+(2) Za izvanredne poslove na nekretninama ili pokretninama koje se upisuju u javne upisnike poput promjena namjene stvari, većih popravaka, dogradnje, nadogradnje, preuređenja, otuđenja cijele stvari, davanja cijele stvari u zakup ili najam na dulje od jedne godine, osnivanja hipoteke na cijeloj stvari, davanja pokretne stvari u zalog, osnivanja stvarnih i osobnih služnosti, stvarnoga tereta ili prava građenja na cijeloj stvari potrebno je zajedničko poduzimanje posla ili pisana suglasnost drugoga bračnog druga s ovjerom potpisa kod javnog bilježnika.
+(3) Nepostojanje suglasnosti za poslove iz stavaka 1. i 2. ovoga članka ne utječe na prava i obveze poštene treće osobe. Bračni drug bez čije suglasnosti je izvanredni posao iz stavka 2. ovoga članka poduzet ima pravo na naknadu štete koja mu je od strane drugog bračnog druga time uzrokovana.

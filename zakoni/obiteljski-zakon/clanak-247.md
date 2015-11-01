@@ -1,0 +1,13 @@
+## V. SKRBNIK
+## Imenovanje skrbnika
+# Članak 247.
+(1) Rješenjem centra za socijalnu skrb skrbnikom se imenuje osoba koja ima osobine i sposobnosti za obavljanje skrbništva i koja pristane biti skrbnikom te ako je to za dobrobit štićenika.
+(2) Ako osoba lišena poslovne sposobnosti ima roditelja ili roditelje koji pristanu i sposobni su skrbiti se o svojem punoljetnom djetetu lišenom poslovne sposobnosti, centar za socijalnu skrb će takvom roditelju, odnosno roditeljima prigodom odluke o izboru skrbnika u pravilu dati prednost pred ostalim osobama.
+(3) Centar za socijalnu skrb može štićeniku imenovati i više skrbnika i pritom odlučiti moraju li odluke za posebno određene radnje ili postupke donositi zajednički ili svaki samostalno.
+(4) Centar za socijalnu skrb može u rješenju o imenovanju skrbnika imenovati zamjenika skrbniku koji mora ispunjavati uvjete za skrbnika. Ako skrbnik umre ili samovoljno prestane obavljati svoju dužnost ili ako nastanu okolnosti koje zaprječuju skrbnika da obavlja svoju dužnost, odnosno ako centar za socijalnu skrb utvrdi da postoje razlozi za razrješenje skrbnika propisani odredbama ovoga Zakona, centar za socijalnu skrb ispitat će ispunjava li zamjenik skrbnika i dalje uvjete potrebne za imenovanje skrbnika te donijeti rješenje o njegovu imenovanju skrbnikom. Do donošenja rješenja o imenovanju skrbnika, zamjenik skrbnika može donositi samo hitne odluke.
+(5) Ako je osoba lišena poslovne sposobnosti prije lišenja poslovne sposobnosti u obliku javnobilježničke isprave odredila osobu ili više osoba za koju, odnosno koje bi htjela da se imenuju skrbnikom, odnosno skrbnicima, kao i osobe za koje bi htjela da se imenuje njihovim zamjenicima (anticipirana naredba), centar za socijalnu skrb će tu osobu, odnosno osobe imenovati skrbnikom, odnosno skrbnicima te zamjenikom, odnosno zamjenicima skrbnika ako su ispunjene ostale pretpostavke za imenovanje skrbnikom propisane ovim Zakonom.
+(6) Ako to zahtijevaju okolnosti slučaja i dobrobit štićenika, centar za socijalnu skrb će skrbnikom imenovati osobu zaposlenu u tom centru iz redova stručnih radnika. Skrbnikom ne može biti imenovan ravnatelj centra za socijalnu skrb ni službenik koji obavlja pravne poslove skrbništva u tom centru.
+(7) Za imenovanje skrbnika iz stavka 6. ovoga članka nije potreban pristanak osobe koja se imenuje skrbnikom.
+(8) Ista osoba može biti skrbnik većem broju štićenika ako to nije u suprotnosti s dobrobiti štićenika.
+(9) Centar za socijalnu skrb upoznat će štićenika s osobom koju namjerava imenovati skrbnikom i od njega o toj osobi zatražiti mišljenje.
+(10) Centar za socijalnu skrb može zatražiti mišljenje od posebnog skrbnika, srodnika ili drugih bliskih osoba o osobi koju namjerava imenovati skrbnikom.

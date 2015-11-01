@@ -1,0 +1,11 @@
+## Prigovor
+# Članak 476.
+(1) U prijedlogu u stvarima uzdržavanja djeteta mora se naznačiti iznos uzdržavanja čije određivanje se predlaže. Iznos uzdržavanja mora biti u skladu s tablicom o prosječnim potrebama maloljetnog djeteta sukladno odluci koju donosi ministar nadležan za socijalnu skrb temeljem članka 314. stavka 4. ovoga Zakona.
+(2) Predlagatelj može povući prijedlog iz stavka 1. ovoga članka bez pristanka protivne stranke samo do podnošenja prigovora iz stavka 6. ovoga članka.
+(3) Ako nisu ispunjenje pretpostavke za određivanje uzdržavanja u pojednostavnjenom postupku, sud će nastaviti postupak prema pravilima postupka u sporovima o uzdržavanju iz članaka 423. do 432. ovoga Zakona. U tom slučaju sud će odrediti predlagatelju rok od osam dana za usklađivanje njegova prijedloga s odredbama Zakona o parničnom postupku o sadržaju tužbe.
+(4) Protiv rješenja suda iz stavka 3. ovoga članka kojim se ne prihvaća prijedlog za određivanje uzdržavanja u pojednostavnjenom postupku i kojim se postupak nastavlja prema pravilima postupka u sporovima o uzdržavanju iz članaka 423. do 432. ovoga Zakona nije dopuštena žalba.
+(5) Sud će dostaviti prijedlog radi uzdržavanja protivnoj stranci u roku od osam dana od dana zaprimanja prijedloga. U pozivu sud će protivnu stranku upozoriti na pravne posljedice iz stavaka 7. i 8. ovoga članka.
+(6) Protivna stranka može u roku od osam dana od dana primitka prijedloga podnijeti prigovor.
+(7) Ako protivna stranka u roku iz stavka 6. ovoga članka ne podnese prigovor, sud će bez održavanja ročišta rješenjem koje ne mora imati obrazloženje prihvatiti prijedlog.
+(8) Ako protivna stranka u roku iz stavka 6. ovoga članka podnese prigovor, postupak će se nastaviti prema pravilima postupka u sporovima o uzdržavanju iz članaka 423. do 432. ovoga Zakona. U tom slučaju sud će odrediti predlagatelju rok od osam dana za usklađivanje njegova prijedloga s odredbama Zakona o parničnom postupku o sadržaju tužbe. Pravodobno podneseni prigovor iz stavka 6. ovoga članka vrijedi kao odgovor na tužbu u postupku nastavljenom prema odredbama članaka 423. do 432. ovoga Zakona.
+(9) Protiv rješenja suda iz stavka 8. ovoga članka kojim se postupak nastavlja prema pravilima postupka u sporovima o uzdržavanju iz članaka 423. do 432. ovoga Zakona nije dopuštena žalba.

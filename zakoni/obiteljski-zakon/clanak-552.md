@@ -1,0 +1,5 @@
+# Članak 552.
+(1) Postupci pokrenuti do dana stupanja na snagu ovoga Zakona dovršit će se prema odredbama Obiteljskog zakona (»Narodne novine«, br. 116/03., 17/04., 136/04., 107/07., 57/11., 61/11., 25/13. i 5/15.).
+(2) Ako nakon dana stupanja na snagu ovoga Zakona bude poništena ili ukinuta prvostupanjska odluka iz stavka 1. ovoga članka, na daljnji postupak primjenjuju se odredbe Obiteljskog zakona (»Narodne novine«, br. 116/03., 17/04., 136/04., 107/07., 57/11., 61/11., 25/13. i 5/15.).
+(3) Odluke koje su postale izvršne u upravnom postupku, odnosno pravomoćne u sudskom postupku na temelju Obiteljskog zakona (»Narodne novine«, br. 75/14. i 5/15.) do 16. siječnja 2015. provest će se, odnosno izvršiti u skladu s odredbama ovoga Zakona.
+(4) Pravne osobe osnovane sukladno odredbama Obiteljskog zakona (»Narodne novine«, br. 75/14. i 5/15.) nastavljaju s radom sukladno odredbama ovoga Zakona, a dužne su uskladiti svoje statute s odredbama ovoga Zakona u roku od tri mjeseca od dana stupanja na snagu ovoga Zakona.

@@ -1,0 +1,2 @@
+# Članak 553.
+Iznimno od članka 552. stavka 1. ovoga Zakona, postupci o imovinskim odnosima bračnih i izvanbračnih drugova pokrenuti do dana stupanja na snagu ovoga Zakona dovršit će se prema odredbama zakona po kojem su pokrenuti osim postupaka pokrenutih od 1. rujna 2014. pa do stupanja na snagu ovoga Zakona, koji će se dovršiti prema odredbama Obiteljskog zakona (»Narodne novine«, br. 116/03., 17/04., 136/04., 107/07., 57/11., 61/11., 25/13. i 5/15.).
