@@ -1,0 +1,7 @@
+# Članak 3.
+U članku 4. točka 20. mijenja se i glasi:
+»20. Monitoring vode za ljudsku potrošnju podrazumijeva sustavno praćenje zdravstvene ispravnosti vode provođenjem niza planiranih mjerenja i analiza pojedinih parametara vode za ljudsku potrošnju, kako bi se utvrdila njezina sukladnost s propisanim vrijednostima, a obuhvaća redovni i revizijski monitoring (praćenje) te monitoring parametara radioaktivnih tvari u vodi za ljudsku potrošnju.«.
+Iza točke 20. dodaju se točke 21., 22. i 23. koje glase:
+»21. Radioaktivna tvar je svaka tvar koja sadrži jedan ili više radionuklida čija se aktivnost ili koncentracija aktivnosti ne može zanemariti sa stajališta zaštite od zračenja.
+22. Indikativna doza ili ID je očekivana efektivna doza za jednu godinu unošenja koja proizlazi iz svih radionuklida čija je prisutnost otkrivena u opskrbi vode namijenjene za ljudsku potrošnju, prirodnog i umjetnog podrijetla, ali s iznimkom tricija, kalija-40, radona i kratkoživućih potomaka raspada radona.
+23. Vrijednost parametara je vrijednost radioaktivnih tvari u vodi namijenjenoj za ljudsku potrošnju iznad koje nadležno tijelo procjenjuje predstavlja li prisutnost radioaktivnih tvari u vodi namijenjenoj za ljudsku potrošnju rizik za ljudsko zdravlje koji zahtijeva djelovanje i, kada je to potrebno, poduzimaju korektivne mjere kako bi se dosegnula razina kvalitete vode koja je u skladu sa zahtjevima za zaštitu ljudskog zdravlja sa stajališta zaštite od zračenja.«.
