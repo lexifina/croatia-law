@@ -1,0 +1,7 @@
+# Članak 23.
+(1) Za prikupljanje humanitarne pomoći putem humanitarnog telefonskog broja stalni prikupljač humanitarne pomoći, uz zahtjev za korištenje humanitarnog broja dužan je operateru priložiti presliku rješenja kojim mu je odobreno stalno prikupljanje i pružanje humanitarne pomoći.
+(2) Stalni prikupljač humanitarne pomoći koji uslugu korištenja humanitarnog telefonskog broja traži za prikupljanje pomoći putem humanitarne akcije, kao i drugi organizator humanitarne akcije dužni su uz zahtjev za korištenje humanitarnog broja operateru priložiti presliku rješenja kojim se odobrava provođenje humanitarne akcije.
+(3) Operater neće odobriti zahtjev za davanje humanitarnog telefonskog broja na korištenje ako zahtjev nije podnesen u skladu s odredbama ovoga Zakona.
+(4) Operater je dužan odmah po izdavanju odobrenja za korištenje humanitarnog telefonskog broja o tome obavijestiti nadležni ured.
+(5) Prilikom objave humanitarnog telefonskog broja, organizator prikupljanja i pružanja humanitarne pomoći dužan je na odgovarajući način javno istaknuti logotip humanitarne akcije, odnosno logotip za stalno prikupljanje i pružanje humanitarne pomoći.
+(6) Odobrenje za korištenje humanitarnog telefonskog broja organizator prikupljanja i pružanja humanitarne pomoći dužan je priložiti uz izvješće o prikupljenoj i pruženoj humanitarnoj pomoći koje se dostavlja nadležnom uredu, u skladu s odredbama ovoga Zakona.

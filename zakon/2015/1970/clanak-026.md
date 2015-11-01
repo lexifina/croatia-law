@@ -1,0 +1,17 @@
+# Članak 26.
+(1) Po zaprimljenoj obavijesti iz članka 25. stavka 4. ovoga Zakona nadležni ured rješenjem će naložiti organizatoru humanitarne akcije da neutrošena sredstva iz članka 25. stavka 2. ovoga Zakona navedena u izvješću o provedenoj humanitarnoj akciji uplati na račun prve sljedeće odobrene humanitarne akcije s istom oznakom vrste sukladno zaprimljenoj obavijesti.
+(2) Izreka rješenja iz stavka 1. ovoga članka sadrži i:
+- naziv i evidencijsku oznaku humanitarne akcije u kojoj su prikupljena sredstva
+- iznos neutrošenih sredstava naveden u izvješću o provedenoj humanitarnoj akciji
+- nalog organizatoru humanitarne akcije da iznos neutrošenih sredstava naveden u izvješću o provedenoj humanitarnoj akciji uplati na račun prve sljedeće odobrene humanitarne akcije s istom oznakom vrste u roku od pet dana od dana izvršnosti rješenja
+- broj računa humanitarne akcije na koji se nalaže uplata.
+(3) O žalbi protiv rješenja iz stavka 1. ovoga odlučuje ministarstvo nadležno za socijalnu skrb. Žalba ne odgađa izvršenje rješenja.
+(4) Izvršno rješenje iz stavka 1. ovoga članka nadležni ured dužan je dostaviti:
+- ministarstvu nadležnom za socijalnu skrb
+- organizatoru humanitarne akcije na račun koje se rješenjem nalaže uplata
+- uredu državne uprave, odnosno nadležnom uredu Grada Zagreba koji je nadležan za organizatora humanitarne akcije na račun koje se rješenjem nalaže uplata.
+(5) Ministarstvo nadležno za socijalnu skrb vodi evidenciju preostalih, odnosno neutrošenih sredstava iz humanitarnih akcija sukladno dostavljenim obavijestima iz članka 25. stavka 4. ovoga Zakona.
+(6) Iznimno, ako u roku od 90 dana od dana podnošenja izvješća u kojem su navedeni podaci o postojanju preostalih, odnosno neutrošenih sredstava ne bude odobrena ni jedna humanitarna akcija iste vrste, ministarstvo nadležno za socijalnu skrb može uz suglasnost Vlade Republike Hrvatske rješenjem naložiti organizatoru humanitarne akcije da ta sredstva uplati na račun određene odobrene humanitarne akcije ako je to potrebno radi zaštite života i zdravlja ljudi.
+(7) Protiv rješenja iz stavka 6. ovoga članka nije dopuštena žalba, ali se može pokrenuti upravni spor.
+(8) Na rješenje iz stavka 6. ovoga članka na odgovarajući se način primjenjuju odredbe stavaka 2. i 4. ovoga članka.
+(9) Organizator humanitarne akcije dužan je o postupanju po rješenjima iz stavaka 1. i 6. ovoga članka dostaviti dokaz nadležnom uredu te ministarstvu nadležnom za socijalnu skrb u roku od petnaest dana od dana isplate preostalih sredstava.
