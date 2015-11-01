@@ -1,0 +1,3 @@
+## I. OPĆE ODREDBE
+# Članak 1.
+Ovim se Pravilnikom propisuju postupci gospodarenja otpadnim tekstilom i otpadnom obućom, uvjeti gospodarenja otpadnim tekstilom i otpadnom obućom, vrste otpadnog tekstila i otpadne obuće, zahtjevi u pogledu sakupljanja otpadnog tekstila i otpadne obuće, obveze vođenja evidencija, obveze i način ispunjavanja obveza proizvođača tekstila i obuće, način obveznog postupanja posjednika otpadnog tekstila i otpadne obuće te druga pitanja u svezi tekstila i obuće i otpadnog tekstila i otpadne obuće u svrhu uspostave sustava odvojenog sakupljanja otpadnog tekstila i otpadne obuće.

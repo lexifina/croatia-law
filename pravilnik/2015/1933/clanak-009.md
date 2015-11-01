@@ -1,0 +1,5 @@
+# Članak 9.
+(1) Osoba koja obavlja djelatnost gospodarenja otpadnim tekstilom i otpadnom obućom, a koje uključuje sakupljanje, prijevoz, oporabu, zbrinjavanje, drugu obradu otpada i trgovanje otpadom sukladno Zakonu, te posjednik otpadnog tekstila i otpadne obuće kojem isti nastaje u obavljanju njegove registrirane djelatnosti dužan je voditi Očevidnik o nastanku i tijeku otpada (ONTO) u skladu s propisom koji uređuje gospodarenje otpadom.
+(2) U svrhu praćenja različitih tokova otpada ključnog broja
+20 01 10 sakupljač i oporabitelj su obvezni voditi Očevidnik o nastanku i tijeku otpada (ONTO) na način da se u stupcu »Način« obrasca ONTO za otpadnu odjeću navede oznaka »D«, a za otpadnu obuću oznaka »B«, povlakom odvojeno od oznake koja je propisana posebnim propisom koji uređuje gospodarenje otpadom.
+(3) Agencija je dužna jednom godišnje do 1. prosinca tekuće godine za prethodnu kalendarsku godinu Fondu dostavljati Izvješće o sakupljenim i oporabljenim količinama otpadnog tekstila i otpadne obuće.
