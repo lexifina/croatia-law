@@ -1,0 +1,1 @@
+| 119 30.10.2015 Pravilnik o tehničkim i drugim uvjetima elektroničkog poslovanja u zemljišnim knjigama 119 30.10.2015 Pravilnik o tehničkim i drugim uvjetima elektroničkog poslovanja u zemljišnim knjigama
