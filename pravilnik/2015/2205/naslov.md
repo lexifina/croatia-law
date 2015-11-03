@@ -1,0 +1,1 @@
+Pravilnik o obavljanju gospodarskog ribolova na moru okružujućim mrežama plivaricom palamidarom, plivaricom ciplaricom, plivaricom lokardarom, plivaricom igličarom i plivaricom oližnicom
