@@ -1,0 +1,1 @@
+Na temelju članka 14. stavka 6. i članka 20. stavka 3. Zakona o humanitarnoj pomoći (»Narodne novine«, broj 102/15), potpredsjednica Vlade Republike Hrvatske i ministrica socijalne politike i mladih, donosi
