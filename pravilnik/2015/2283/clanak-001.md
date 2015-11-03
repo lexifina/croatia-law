@@ -1,0 +1,2 @@
+# Članak 1.
+Ovim Pravilnikom propisuje se sadržaj i način vođenje evidencije o neprofitnim pravnim osobama kojima je izdano rješenje o odobrenju stalnog prikupljanja i pružanja humanitarne pomoći te evidencije izdanih rješenja kojima se odobrava provođenje humanitarne akcije, koje vodi ministarstvo nadležno socijalnu skrb i nadležni ured državne uprave u županiji odnosno nadležni ured Grada Zagreba (u daljnjem tekstu: nadležni ured).

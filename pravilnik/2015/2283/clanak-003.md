@@ -1,0 +1,4 @@
+# Članak 3.
+Nadležni ured dužan je voditi evidenciju izdanih rješenja kojima se odobrava provođenje humanitarne akcije, na Obrascu broj 2. koji čini sastavni dio ovoga Pravilnika.
+Obrazac broj 2. sadrži podatke o osobi kojoj je izdano rješenje kojim se odobrava provođenje humanitarne akcije i to za pravnu osobu: naziv, adresu, registarski broj, OIB, podatke o odgovornoj osobi te adresu elektronske pošte a za fizičku osobu: ime i prezime, adresu, OIB, te adresu elektronske pošte. Obrazac sadrži i podatke o humanitarnoj akciji i to: naziv, evidencijsku oznaku i oznaku vrste humanitarne akcije, te podatke o rješenju kojim je odobreno organiziranje humanitarne akcije.
+Obrazac broj 2. popunjava se u dva primjerka, od kojih jedan zadržava nadležni ured, a drugi se dostavlja ministarstvu nadležnom za socijalnu skrb.

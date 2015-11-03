@@ -1,0 +1,3 @@
+# Članak 5.
+Ministarstvo nadležno za socijalnu skrb dužno je voditi evidenciju izdanih rješenja kojima se odobrava provođenje humanitarne akcije na Obrascu broj 4. koji čini sastavni dio ovoga Pravilnika.
+Obrazac broj 4. sadrži podatke o pravnoj osobi (naziv, adresa, registarski broj, OIB) odnosno podatke o fizičkoj osobi (ime i prezime, adresa, OIB) kojoj je izdano rješenje kojim se odobrava provođenje humanitarne akcije, podatke o humanitarnoj akciji (naziv, evidencijska oznaka i oznaka vrste humanitarne akcije), te podatke o rješenju kojim je odobreno organiziranje humanitarne akcije i to: datum izdavanja, KLASA i URBROJ).
