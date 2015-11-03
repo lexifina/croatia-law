@@ -1,0 +1,4 @@
+# Članak 4.
+Neprofitne pravne osobe kojima je izdano rješenje kojim se odobrava stalno prikupljanje i pružanje humanitarne pomoći dužne su nadležnom uredu dostaviti Izvješće o provedbi programa rada (u daljnjem tekstu: Izvješće o provedbi programa), na Obrascu broj 3. koji čini sastavni dio ovoga Pravilnika.
+Obrazac broj 3. sadrži podatke o provedbi trogodišnjeg programa (godina provedbe, planirane aktivnostima, provedba aktivnosti, obuhvaćena skupina korisnika, korišteni resursi u provedbi aktivnosti i kriterijima raspodjele humanitarne pomoći) te podatke o odstupanju od provedbe planiranih aktivnosti u trogodišnjem programu rada (godina provedbe, popis neprovedenih planiranih aktivnosti i razlozi za neprovođenje aktivnosti).
+Obrazac broj 3. popunjava se u dva primjerka, od kojih jedan zadržava pravna osoba, a drugi se dostavlja nadležnom uredu.

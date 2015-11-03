@@ -1,0 +1,4 @@
+# Članak 3.
+Neprofitne pravne osobe dužne su uz Zahtjev iz članka 2. ovoga Pravilnika nadležnom uredu državne uprave u županiji, odnosno nadležnom uredu Grada Zagreba (u daljnjem tekstu: nadležni ured) dostaviti i program rada koji se odnosi na naredne tri godine od dana podnošenja zahtjeva (u daljnjem tekstu: Program) na Obrascu broj 2. koji čini sastavni dio ovoga Pravilnika.
+Obrazac broj 2. sadrži podatke o planiranim aktivnostima, ciljanoj skupini korisnika, načinu prikupljanja i pružanja humanitarne pomoći, zemljopisnom području prikupljanja i pružanja humanitarne pomoći, potrebnim resursima za provedbu planiranih aktivnosti te kriterijima raspodjele humanitarne pomoći.
+Obrazac broj 2. popunjava se u dva primjerka, od kojih jedan zadržava pravna osoba, a drugi se dostavlja nadležnom uredu.
