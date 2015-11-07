@@ -1,0 +1,1 @@
+Na temelju članka 60. stavka 6. Pomorskog zakonika (»Narodne novine«, br. 181/04, 76/07, 146/08, 61/11, 56/13 i 26/15) i članka 30. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/11 i 119/14), Vlada Republike Hrvatske je na sjednici održanoj 29. listopada 2015. godine donijela
