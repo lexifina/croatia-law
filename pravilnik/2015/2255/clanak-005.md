@@ -1,0 +1,4 @@
+# Članak 5.
+(1) Samoprocjena iz članka 4. ovoga Pravilnika provodi se popunjavanjem Upitnika o funkcioniranju sustava financijskog upravljanja i kontrola (u daljnjem tekstu: Upitnik) koji se nalazi u prilogu i sastavni je dio ovoga Pravilnika.
+(2) Na temelju pitanja iz Upitnika provodi se samoprocjena rada sustava kojoj je cilj potvrda da se sredstva koriste zakonito, namjenski i svrhovito te da sustav financijskog upravljanja i kontrola funkcionira učinkovito i djelotvorno.
+(3) Zakonski zastupnik je, nakon popunjavanja Upitnika, dužan izvijestiti najviše tijelo neprofitne organizacije, odnosno tijelo koje je temeljem statuta neprofitne organizacije za to ovlašteno, o provedenoj samoprocjeni iz ovoga članka, što najviše tijelo neprofitne organizacije, odnosno tijelo koje je temeljem statuta neprofitne organizacije za to ovlašteno, prima na znanje.

@@ -1,0 +1,3 @@
+# Članak 6.
+(1) Zakonski zastupnik neprofitne organizacije koja u godini za koju se provodi samoprocjena iz članka 4. ovoga Pravilnika ostvaruje prihode u iznosu 3.000.000,00 kuna ili višem iznosu, sastavlja akcijski plan za poboljšanje sustava financijskog upravljanja i kontrola ako na sva pitanja iz Upitnika nije dan potvrdan odgovor.
+(2) Akcijski plan iz stavka 1. ovoga članka sadrži pitanja na koja je dan negativan ili djelomično potvrdan odgovor, aktivnosti koje je potrebno poduzeti za poboljšanje sustava financijskog upravljanja i kontrola, a koje će dovesti do otklanjanja manjkavosti koje su utjecale na davanje negativnog ili djelomično potvrdnog odgovora te podatke o osobama odgovornim za poduzimanje aktivnosti.
