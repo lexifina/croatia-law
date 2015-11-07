@@ -1,0 +1,6 @@
+# Članak 16.
+Posljednja izvješća o velikim izloženostima u skladu s Odlukom o provedbi Provedbene uredbe Komisije (EU) br. 680/2014 o utvrđivanju provedbenih tehničkih standarda o nadzornom izvješćivanju institucija u skladu s Uredbom (EU) br. 575/2013 (»Narodne novine«, br. 84/2014., 116/2014., 16/2015. i 67/2015.), to jest ne uzimajući u obzir članke 2. i 3., članak 5. u dijelu kojim se mijenja članak 10. stavak 1. i članke 6., 7., 8., 9., 10. i 15. ove Odluke, kreditna institucija dužna je izraditi sa stanjem na dan 31. prosinca 2015. i dostaviti Hrvatskoj narodnoj banci, i to u sljedećim rokovima:
+1) nerevidirane privremene izvještaje i konsolidirane privremene izvještaje najkasnije do 11. veljače 2016.
+2) revidirane nekonsolidirane izvještaje i revidirane konsolidirane izvještaje u roku od 15 dana od dana primitka revizorskog izvješća, a najkasnije do 30. travnja 2016.
+Kreditne institucije dužne su prva izvješća u skladu s odredbama ove Odluke dostaviti Hrvatskoj narodnoj banci za izvještajni datum 30. rujna 2015.
+Iznimno, kreditne institucije dužne su prva izvješća o velikim izloženostima na način propisan ovom Odlukom dostaviti Hrvatskoj narodnoj banci za izvještajni datum 31. ožujka 2016., a prva izvješća o financijskim informacijama na nekonsolidiranoj osnovi za izvještajni datum 30. lipnja 2016.
