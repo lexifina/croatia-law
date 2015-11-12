@@ -1,0 +1,1 @@
+Na temelju članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/11 i 119/14) i članka 10. Zakona o sustavu državne uprave (»Narodne novine«, br. 150/11 i 12/13), Vlada Republike Hrvatske je na sjednici održanoj 12. studenoga 2015. godine donijela
