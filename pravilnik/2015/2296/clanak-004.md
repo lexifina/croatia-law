@@ -1,0 +1,4 @@
+# Članak 4.
+(1) Uređaji i oprema prometno-upravljačkog i signalno-sigurnosnog podsustava ugrađeni na vozilu moraju ispunjavati uvjete i biti kompatibilni s odgovarajućim pružnim uređajima koji su propisani propisom kojim se uređuju tehnički uvjeti za prometno-upravljački i signalno-sigurnosni željeznički infrastrukturni podsustav.
+(2) Uređaji za automatsku zaštitu vlaka (autostop uređaji) ugrađeni na vozilu moraju biti kompatibilni sa pružnim sustavima zaštite i nadzora vlaka razreda B ugrađenima na željezničkoj infrastrukturi koji su utvrđeni u tehničkom dokumentu Europske agencije za željeznice »Popis CCS sustava razreda B«, ERA/TD/2011-11 (INDUSI/PZB).
+(3) Uređaji za elektroničku komunikaciju ugrađeni na vozilu moraju biti kompatibilni sa sustavima za elektroničku komunikaciju ugrađenima na željezničkoj infrastrukturi.

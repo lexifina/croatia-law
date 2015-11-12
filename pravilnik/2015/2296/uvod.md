@@ -1,0 +1,1 @@
+Na temelju članka 55. stavka 12., članka 63. stavka 6. i članka 64. stavka 6. Zakona o sigurnosti i interoperabilnosti željezničkog sustava (»Narodne novine«, br. 82/13., 18/15. i 110/15.), ministar pomorstva, prometa i infrastrukture donosi
