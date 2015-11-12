@@ -1,0 +1,1 @@
+Na temelju članka 26. stavka 10. Zakona o regionalnom razvoju Republike Hrvatske (»Narodne novine«, broj 147/14), potpredsjednik Vlade Republike Hrvatske i ministar regionalnoga razvoja i fondova Europske unije donosi
