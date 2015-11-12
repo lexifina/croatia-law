@@ -1,0 +1,5 @@
+# Članak 18.
+Obavezni kriteriji za sve vrste vrednovanja su:
+- važnost (relevantnost) - provjerava se jesu li ciljevi i prioriteti planskog dokumenta utemeljeni na stvarnim potrebama i razvojnim potencijalima odnosno do koje mjere su ciljevi programa opravdani u odnosu na potrebe
+- djelotvornost (efektivnost) - uspoređuje se što je ostvareno u odnosu na planirano odnosno do koje mjere su ciljevi ostvareni te do koje mjere se očekuje da će se ostvariti (ovisno o vrsti vrednovanja)
+- usklađenost (koherentnost) - uključuje unutarnju i vanjsku usklađenost planskog dokumenta, odnosno logiku strategije; utvrđuje se jesu li odabrani prioriteti i mjere komplementarni i povezani; je li planski dokument u skladu s relevantnim nacionalnim odnosno regionalnim strategijama/dokumentima (ovisno o planskom dokumentu). Vanjska usklađenost podrazumijeva usklađenost između ciljeva planskog dokumenata s ciljevima drugih javnih intervencija koje su s njim povezane. Unutarnja usklađenost podrazumijeva usklađenost ciljeva planskog dokumenta. Unutarnja povezanost implicira da postoji hijerarhija ciljeva, s time da hijerarhijski niži ciljevi logično doprinose ostvarenju viših ciljeva.
