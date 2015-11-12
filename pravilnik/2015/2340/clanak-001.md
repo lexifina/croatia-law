@@ -1,0 +1,5 @@
+# Članak 1.
+(1) Ovim Pravilnikom propisuje se način provođenja energetskog pregleda za velika poduzeća (u daljnjem tekstu: energetski pregled), uvjeti izdavanja i ukidanja ovlaštenja za energetske preglede za velika poduzeća, sadržaj i način vođenja registra, sadržaj izvješća o energetskim pregledima za velika poduzeća i druge obveze vezane uz provođenje energetskog pregleda za velika poduzeća.
+(2) Odredbe ovoga Pravilnika koje se odnose na način provođenja energetskog pregleda iz stavka 1. ovoga članka na odgovarajući se način primjenjuju na poslovne cjeline, proizvodne procese i na energetske preglede ostalih poduzeća koja ne udovoljavaju uvjetima za velika poduzeća u skladu sa zakonom kojim se uređuje područje energetske učinkovitosti i ovim Pravilnikom.
+(3) Energetski pregled uključuje i energetski pregled povezanih i ovisnih društava velikih poduzeća.
+(4) Iznimno od stavka 3. ovoga članka, operatori mreže i operatori sustava koji su sastavni dio vertikalno ili horizontalno integriranog poduzeća, energetski pregled provode samostalno.

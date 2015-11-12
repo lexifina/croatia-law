@@ -1,0 +1,4 @@
+## Registar ovlaštenih osoba
+# Članak 23.
+(1) Registar ovlaštenih osoba za energetske preglede ustrojava i vodi Ministarstvo u elektroničkom obliku.
+(2) Registar sadrži: klasifikacijski broj, urudžbeni broj i datum izdavanja ovlaštenja, naziv pravne osobe, osobni identifikacijski broj, adresu sjedišta, broj telefona, vrstu ovlaštenja, ime i prezime odgovorne osobe u pravnoj osobi i njezin osobni identifikacijski broj, imena i prezimena, stručnu spremu, struku i osobne identifikacijske brojeve fizičkih osoba zaposlenih u pravnoj osobi koje provode energetske preglede s podacima o njihovom osposobljavanju i usavršavanju, ime i prezime, stručnu spremu, struku i osobni identifikacijski broj imenovane osobe koja potpisuje izvješće o energetskom pregledu, podatke o provedenom nadzoru, te odjeljak za napomene i upis promjena bitnih za obavljanje poslova za koje je osoba ovlaštena.

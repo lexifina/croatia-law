@@ -1,0 +1,4 @@
+# Članak 20.
+(1) Ovlaštena osoba za energetske preglede dužna je osigurati da se energetski pregled obavlja najmanje dvije stručne osobe od kojih najmanje jedna mora biti odgovorna osoba strojarske struke i najmanje jedna osoba zaposlena u velikom poduzeću na poslovima upravljanja, održavanja ili drugim poslovima vezanim uz proizvodne i poslovne procese u velikom poduzeću.
+(2) Ako poslovni i proizvodni proces velikog poduzeća zahtijeva znanja iz struka koje nisu obuhvaćene člankom 10. ovoga Pravilnika, ovlaštena osoba mora osigurati uključivanje osoba koje su odgovarajuće educirani ili ovlašteni stručnjaci iz struka koje pokrivaju te procese.
+(3) Ukoliko ovlaštena pravna osoba ne zapošljava fizičke osobe svih potrebnih struka iz stavka 2. ovoga članka, dužna je odgovarajuće poslove povjeriti ovlaštenim osobama koje ispunjavaju te uvjete.

@@ -1,0 +1,2 @@
+# Članak 35.
+Stupanjem na snagu ovoga Pravilnika prestaju se primjenjivati odredbe Pravilnika o energetskim pregledima građevina i energetskom certificiranju zgrada (»Narodne novine«, br. 81/12, 29/13 i 78/13) u dijelu koji se odnosi na energetske preglede građevina i Pravilnika o uvjetima i mjerilima za osobe koje provode energetske preglede građevina i energetsko certificiranje zgrada (»Narodne novine«, br. 81/12 i 64/13).
