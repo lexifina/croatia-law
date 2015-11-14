@@ -1,0 +1,3 @@
+## Zemljište namijenjeno šumi i šumsko zemljište državnog značaja
+# Članak 13.
+Planom se kao zemljište namijenjeno šumi i šumsko zemljište državnog značaja mogu odrediti šume i šumsko zemljište koje sukladno člancima 3.3. i 3.4. Kyotskog protokola kroz ponor ugljika značajno utječu na održavanje aktivnosti gospodarenje šumama iznad referentne vrijednosti za Republiku Hrvatsku; šume i šumska zemljišta u zaštićenim dijelovima prirode i području NATURA 2000, šumski sjemenski objekti, te najkvalitetnije šumske sastojine koje čine okosnicu šumskog resursa Republike Hrvatske, koje se nalazi izvan građevinskih područja i usklađeno je s drugim površinama državnog značaja.
