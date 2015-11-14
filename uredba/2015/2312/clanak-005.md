@@ -1,0 +1,9 @@
+# Članak 5.
+(1) Nakon što je nad dužnikom otvoren predstečajni ili stečajni postupak čija vrijednost predmeta, odnosno visina ukupne obveze dužnika ne prelazi iznos od 10.000.000,00 kuna, pisani prijedlog o predloženom planu restrukturiranja ili stečajnom planu dužnika donijet će Savjetodavno vijeće poreznog tijela.
+(2) O pravima iz porezno dužničkog odnosa odlučuje čelnik poreznog tijela na prijedlog Savjetodavnog vijeća poreznog tijela.
+(3) U postupku obrade predmeta u predstečajnom postupku Savjetodavno vijeće poreznog tijela će voditi zapisnik, a prilikom davanja prijedloga posebno će se uzeti u obzir održivost plana restrukturiranja dužnika, vlastiti doprinos dužnika u postupku restrukturiranja, vrsta djelatnosti i broj zaposlenih, kontinuitet plaćanja poreznih obveza, te eventualno poduzete pravne radnje dužnika na štetu vjerovnika.
+(4) U postupku obrade predmeta u stečajnom postupku Savjetodavno vijeće poreznog tijela će voditi zapisnik, a prilikom davanja prijedloga posebno će uzeti u obzir mogućnost namirenja unovčenjem imovine dužnika, financijsku održivost stečajnog plana, broj zaposlenih, vrstu djelatnosti te eventualno poduzete pravne radnje dužnika na štetu vjerovnika.
+(5) Na temelju prijedloga iz stavka 2. ovoga članka čelnik poreznog tijela nadležnom državnom odvjetništvu izdaje suglasnost odnosno uskratu suglasnosti na predloženi plan restrukturiranja odnosno stečajni plan.
+(6) Prilikom odlučivanja o planu restrukturiranja ili stečajnom planu, a kojim se odstupa od skupnog namirenja vjerovnika unovčenjem dužnikove imovine i podjelom prikupljenih sredstava vjerovnicima, na odgovarajući način primjenjuju se propisi koji uređuju područje državnih potpora.
+Odlučivanje u postupku čija vrijednost predmeta, odnosno visina ukupne obveze dužnika prelazi iznos od
+10.000.000,00 kuna
