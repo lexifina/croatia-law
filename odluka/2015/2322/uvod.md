@@ -1,0 +1,1 @@
+Na temelju članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/11 i 119/14) i članka 2. stavka 2. Zakona o dopuni Zakona o Umirovljeničkom fondu (»Narodne novine«, broj 102/15), Vlada Republike Hrvatske je na sjednici održanoj 5. studenoga 2015. godine donijela
