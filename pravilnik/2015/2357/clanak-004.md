@@ -1,0 +1,7 @@
+# Članak 4.
+Članak 14. stavak 1. mijenja se i glasi:
+»(1) Uređaje za lokalnu razdiobu isporučene toplinske energije i/ili zasebna mjerila toplinske energije za vlasnike posebnih dijelova objekta koji predstavljaju samostalnu uporabnu cjelinu očitava ovlašteni predstavnik suvlasnika ili od njega ovlaštena fizička ili pravna osoba, te ih dostavlja kupcu toplinske energije u rokovima i formatu koji su utvrđeni u suglasnosti iz članka 4. ovoga Pravilnika.«
+Iza stavka 3. dodaju se stavci 4., 5. i 6. koji glase:
+»(4) Ovlašteni predstavnik suvlasnika ili od njega ovlaštena fizička ili pravna osoba dužni su pratiti očitanje uređaja za lokalnu razdiobu isporučene toplinske energije za sve samostalne uporabne cjeline i u slučaju značajnijih odstupanja obavijestiti pojedinog krajnjeg kupca.
+(5) U slučaju značajnijih odstupanja iz stavka 4. ovoga članka, ovlašteni predstavnik suvlasnika ili od njega ovlaštena fizička ili pravna osoba može postupiti po odredbi stavka 3. ovoga članka ili može dostaviti kupcu toplinske energije odluku o novoj vrijednosti veličine UR za to obračunsko razdoblje.
+(6) U slučaju da se radi o zgradi u kojoj svi vlasnici posebnih dijelova objekta koji predstavljaju samostalnu uporabnu cjelinu nisu ugradili uređaje za lokalnu razdiobu isporučene toplinske energije i ukoliko je zadovoljen uvjet iz članka 9. stavka 3. ili članka 10. stavka 3. kupac toplinske energije može samostalno odrediti i drugu vrijednost korekcijskog faktora isporučene toplinske energije za to obračunsko razdoblje.«
