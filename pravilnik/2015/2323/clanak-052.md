@@ -1,0 +1,4 @@
+# Članak 52.
+(1) Izvršenje ostalih stegovnih kazni provodi ustrojstvena jedinica Ministarstva obrane nadležna za personalne poslove.
+(2) Ako stranci kojoj je izrečena stegovna kazna prestanka djelatne službe uvjetno na vrijeme od 3 do 12 mjeseci u roku provjeravanja bude izrečena nova stegovna sankcija, Vojnostegovni će sud izvršno rješenje kojim je stranka proglašena stegovno odgovornom te joj je izrečena stegovna sankcija za novo kršenje vojne stege s prijašnjim rješenjem o uvjetnom izricanju stegovne kazne prestanka djelatne službe dostaviti ustrojstvenoj jedinici nadležnoj za personalne poslove radi izvršenja, u kojem će slučaju djelatna služba stranci prestati danom izvršnosti rješenja kojim je proglašena odgovornom za kršenje vojne stege počinjeno u roku provjeravanja.
+6. Obnova postupka

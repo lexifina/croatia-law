@@ -1,0 +1,6 @@
+# Članak 58.
+(1) Ustrojstvene jedinice Ministarstva obrane dužne su Glavnom tajništvu Ministarstva obrane dostaviti izvješća o izrečenim stegovnim mjerama vojnim osobama u svom sastavu najkasnije do 15. siječnja tekuće godine za proteklu godinu.
+(2) U Oružanim snagama osobe ovlaštene za izricanje stegovnih mjera o broju i vrsti stegovnih pogrešaka, broju i statusu stranaka te o izrečenim stegovnim mjerama jedanput godišnje, a najkasnije do 10. siječnja tekuće godine za proteklu godinu, izvješćuju nadređene osobe crtom zapovijedanja i rukovođenja do Glavnog stožera Oružanih snaga.
+(3) Ustrojstvena jedinica Glavnog stožera Oružanih snaga nadležna za personalne poslove objedinjuje izvješća o stegovnim mjerama izrečenim u ustrojstvenim jedinicama Glavnog stožera Oružanih snaga i Oružanih snaga te jedinstveno izvješće dostavlja načelniku Glavnog stožera Oružanih snaga najkasnije do 20. siječnja tekuće godine za proteklu godinu.
+(4) Načelnik Glavnog stožera Oružanih snaga o izrečenim stegovnim mjerama izvješćuje ministra obrane najkasnije do 31. siječnja tekuće godine.
+(5) Izvješća o izrečenim stegovnim mjerama iz stavaka 1., 2., 3. i 4. ovoga članka izrađuju se na tiskanici za izvješćivanje o stegovnim mjerama koja se nalazi u prilogu ovoga Pravilnika i čini njegov sastavni dio.

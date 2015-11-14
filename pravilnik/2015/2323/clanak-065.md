@@ -1,0 +1,2 @@
+# Članak 65.
+Danom stupanja na snagu ovoga Pravilnika prestaju važiti Pravilnik o vojnoj stezi (»Narodne novine«, br. 3/08), Odluka o načinu vođenja evidencije stegovnih mjera i kazni (»Narodne novine«, br. 68/08), Odluka o utvrđivanju broja i strukture branitelja po službenoj dužnosti i visini posebne naknade za obranu, klasa: 023-03/08-03/1, urbroj: 512-01-08-394, od 3. srpnja 2008. i Odluka o posebnoj nagradi sudaca porotnika, klasa: 023-03/08-03/1, urbroj: 512-01-08-395, od 3. srpnja 2008.

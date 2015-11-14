@@ -1,0 +1,5 @@
+# Članak 23.
+(1) Stegovne mjere opomene i ukora izvršavaju se priopćenjem.
+(2) Stegovnu mjeru smanjenja plaće od 5% do 20% u trajanju od 1 do 3 mjeseca izvršava ustrojstvena jedinica nadležna za poslove obračuna i isplate plaće.
+(3) Stegovna mjera smanjenja plaće određuje se prema visini plaće koja pripada stranci na dan izvršnosti rješenja, a izvršava na način da se za iznos naveden u rješenju umanji plaću stranke u određenom trajanju, počevši od prve sljedeće plaće, računajući od neto plaće bez obustava.
+(4) Ako je stranci ranije izrečena stegovna kazna prestanka djelatne službe uvjetno na vrijeme od 3 do 12 mjeseci, a u roku provjeravanja nakon izvršnosti rješenja kojim joj je izrečena ta stegovna kazna izrečena joj je stegovna mjera, osoba koja je izrekla takvu mjeru dužna je, po izvršnosti rješenja kojom je mjera izrečena, o tome obavijestiti ustrojstvenu jedinicu nadležnu za personalne poslove radi izvršenja ranije izrečene uvjetne stegovne kazne, u kojem slučaju djelatna služba stranci prestaje danom izvršnosti rješenja kojim je proglašena odgovornom za stegovnu pogrešku počinjenu u roku provjeravanja.

@@ -1,0 +1,8 @@
+# Članak 36.
+(1) Na usmenu se raspravu pozivaju stranke i to tako da stranci protiv koje se vodi postupak za pripremu obrane ostane najmanje tri dana.
+(2) Kada se stranka protiv koje se vodi postupak prvi put poziva, poučit će se u pozivu o pravu na branitelja, a u prilogu poziva dostavit će joj se i stegovna prijava na koju može odgovoriti te predložiti izvođenje dokaza važnih za donošenje odluke.
+(3) Strankama i svjedocima koji su pripadnici Ministarstva obrane i Oružanih snaga poziv na usmenu raspravu dostavlja se preko ustrojstvene jedinice.
+(4) Iznimno od stavka 3. ovoga članka, kada to smatra svrhovitim, predsjednik vijeća može odrediti da se dostava poziva obavi putem pošte ili ustrojstvene jedinice Ministarstva obrane kod koje se stranka vodi u službenoj evidenciji vojnih obveznika ili na drugi prikladan način kojim će se osigurati uredna dostava. Svjedoke koji nisu pripadnici Ministarstva obrane ili Oružanih snaga poziva se poštom.
+(5) Čelnik ustrojstvene jedinice, nakon što zaprimi poziv, dužan ga je bez odgađanja uručiti stranci odnosno svjedoku te dokaz o urednoj dostavi poziva vratiti Vojnostegovnom sudu odmah po izvršenoj dostavi.
+(6) Čelnik ustrojstvene jedinice u koju je raspoređena stranka odnosno svjedok dužan je omogućiti i osigurati stranci i svjedoku sudjelovanje na usmenoj raspravi, u skladu s aktima kojima se reguliraju službena putovanja.
+(7) Branitelju stranke poziv na usmenu raspravu dostavlja se poštom, a u iznimnim slučajevima telekomunikacijskim sredstvima (telefaksom, telefonom, elektroničkom poštom) o čemu se sačinjava službena zabilješka u spisu.

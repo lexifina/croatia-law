@@ -1,0 +1,7 @@
+# Članak 54.
+(1) Pomilovanjem se stranci kojoj je izvršnim rješenjem za počinjenje stegovnog prijestupa izrečena stegovna kazna daje potpuni ili djelomični oprost od izvršenja stegovne kazne, zamjenjuje se izrečena stegovna kazna drugom stegovnom sankcijom ili se određuje prijevremeno brisanje stegovne kazne iz evidencije izrečenih stegovnih kazni.
+(2) Kada se pomilovanjem izrečena stegovna kazna zamjenjuje blažom stegovnom sankcijom, stranci će se odlukom o pomilovanju ta kazna zamijeniti drugom vrstom stegovne sankcije ili smanjenjem visine odnosno duljine trajanja stegovne kazne izrečene izvršnim rješenjem.
+(3) Pomilovanje određivanjem prijevremenog brisanja stegovne kazne iz evidencije nije ograničeno vrstom i visinom izrečene stegovne kazne, a pravni učinci takve vrste pomilovanja identični su pravnim učincima brisanja stegovne kazne iz evidencije.
+(4) Pravni učinci stegovne kazne izvršene na temelju izvršnog rješenja o stegovnoj odgovornosti i stegovnoj kazni, nakon donošenja akta o pomilovanju navedenog sadržaja, ostaju na snazi.
+(5) Stegovna kazna čije izvršavanje nije započelo ili je u tijeku u vrijeme donošenja akta o pomilovanju, počet će se odnosno nastaviti izvršavati bez obzira na to što je aktom o pomilovanju određeno prijevremeno brisanje te stegovne kazne iz evidencije.
+(6) Kada je odlukom o pomilovanju određen potpuni ili djelomični oprost od izvršenja stegovne kazne, podaci o izrečenoj stegovnoj kazni za koju je dan oprost, brišu se iz evidencije izrečenih stegovnih kazni.

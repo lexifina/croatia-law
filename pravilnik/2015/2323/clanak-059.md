@@ -1,0 +1,3 @@
+# Članak 59.
+(1) Vojnostegovni sud o broju i vrsti stegovnih prijestupa, broju i statusu stranaka, izrečenim stegovnim sankcijama, odlukama o žalbama protiv rješenja donesenih u prvostupanjskom postupku za stegovnu pogrešku, odlukama o žalbama protiv rješenja o udaljenju od dužnosti i o odlukama suda nadležnog za upravne sporove o tužbama protiv rješenja Vojnostegovnog suda jedanput godišnje izvješćuje ministra obrane.
+(2) Vojnostegovni sud izvješće iz stavka 1. ovoga članka dostavlja ministru obrane i Glavnom tajništvu Ministarstva obrane najkasnije do 20. siječnja tekuće godine za proteklu godinu.
