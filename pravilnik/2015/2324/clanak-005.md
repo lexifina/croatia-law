@@ -1,0 +1,5 @@
+# Članak 5.
+(1) Nadležna osoba dužna je u roku od osam dana od dana saznanja o nastaloj šteti na nefinancijskoj imovini donijeti zaključak o pokretanju postupka o utvrđivanju odgovornosti za štetu (Obrazac 1) te naložiti knjiženje u knjigu manjkova i šteta.
+(2) Iznimno od stavka 1. ovoga članka, kada iznos štete iz objektivnih razloga nije moguće utvrditi u roku iz stavka 1. ovoga članka, šteta će se utvrditi naknadno, a u knjigu manjkova i šteta će se upisati primjedba o naknadnom upisu.
+(3) Ako je riječ o šteti na novčanim sredstvima, nadležna osoba dužna je u roku od osam dana od dana saznanja o nastanku štete donijeti zaključak o pokretanju postupka o utvrđivanju odgovornosti za štetu na novčanim sredstvima. Zaključak o pokretanju postupka o utvrđivanju štete na novčanim sredstvima dostavlja se ustrojstvenoj jedinici Ministarstva obrane nadležnoj za proračun i financije radi evidentiranja potraživanja od štetnika u glavnoj knjizi.
+(4) Protiv zaključka o pokretanju postupka nije dopuštena žalba.
