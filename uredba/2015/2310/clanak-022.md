@@ -1,0 +1,7 @@
+## SIGURNOSNE PREPORUKE
+# Članak 22.
+(1) Agencija je ovlaštena objavljivati i dostavljati adresatima iz stavka 2. ovoga članka sigurnosne preporuke u sklopu završnih i drugih izvješća koji se temelje na rezultatima pojedine sigurnosne istrage pomorske nesreće i nezgode ili kao zasebne preporuke koje se temelje na dokumentiranoj analizi podataka i ukupnih rezultata većeg broja obavljenih sigurnosnih istraga.
+(2) Sigurnosne preporuke namijenjene su onima koji su najmjerodavniji za njihovu primjenu, kao što su vlasnici brodova, kompanije, priznate organizacije, pomorske vlasti, službe nadzora i upravljanja pomorskim prometom, službe za djelovanje u nuždi, međunarodne pomorske organizacije i europske institucije, s ciljem sprječavanja pomorskih nesreća i nezgoda u budućnosti, unaprjeđenja sigurnosti plovidbe te smanjivanja opasnosti od onečišćenja s brodova.
+(3) Adresati i njihovi predstavnici koji imaju sjedište u Republici Hrvatskoj te kojima su sigurnosne preporuke upućene, dužni su u roku od tri mjeseca od primitka sigurnosne preporuke, povratno izvijestiti Agenciju o provedbi i implementaciji predloženih sigurnosnih mjera obuhvaćenih svakom pojedinom sigurnosnom preporukom.
+(4) Agencija je dužna ažurno evidentirati i arhivirati svaku izdanu sigurnosnu preporuku te primjereno voditi statistiku o njihovoj provedbi i implementaciji.
+(5) Sigurnosne preporuke ni u kojem slučaju ne određuju odgovornost niti pripisuju krivnju za pomorsku nesreću ili nezgodu.

@@ -1,0 +1,7 @@
+## OBVEZA PROVOĐENJA SIGURNOSNE ISTRAGE
+# Članak 6.
+(1) U slučaju vrlo ozbiljne pomorske nesreće, glavni istražitelj je dužan odmah ili u najkraćem mogućem roku, a u svakom slučaju ne kasnije od 30 dana nakon nesreće, pokrenuti sigurnosnu istragu.
+(2) U slučaju ozbiljne pomorske nesreće, glavni istražitelj je dužan odmah ili u najkraćem mogućem roku pokrenuti postupak prethodne procjene iz članka 7. ove Uredbe, na temelju kojeg će odlučiti hoće li pokrenuti sigurnosnu istragu ili ne.
+(3) U slučaju pomorske nesreće koja se u smislu ove Uredbe ne smatra vrlo ozbiljnom ili ozbiljnom pomorskom nesrećom te u slučaju pomorske nezgode, glavni istražitelj će na temelju prikupljenih podataka o nesreći ili nezgodi odlučiti hoće li pokrenuti sigurnosnu istragu ili ne, uzimajući u obzir težinu pomorske nesreće ili nezgode, vrstu broda i/ili tereta, stupanj onečišćenja pomorskog okoliša, utjecaj rezultata sigurnosne istrage na sprječavanje nesreća i nezgoda u budućnosti ili na sprječavanje i smanjivanje opasnosti od onečišćenja s brodova, postupajući pritom sukladno standardima zajedničke metodologije iz članka 8. ove Uredbe.
+(4) Glavni istražitelj je dužan, u roku od 30 dana od ozbiljne nesreće iz stavka 2. ovoga članka ili nesreće ili nezgode iz stavka 3. ovoga članka, donijeti pisanu i obrazloženu odluku o pokretanju ili nepokretanju sigurnosne istrage.
+(5) U slučajevima kada glavni istražitelj odluči da se sigurnosna istraga neće provoditi, tada će evidentirati nesreću ili nezgodu u nacionalnoj (CMCIP) i europskoj (EMCIP) bazi podataka.
