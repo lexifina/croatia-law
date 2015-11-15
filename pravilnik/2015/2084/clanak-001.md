@@ -1,0 +1,5 @@
+## Svrha Pravilnika
+# Članak 1.
+(1) Ovim Pravilnikom utvrđuje se okvir za provedbu Uredbe (EU) br. 376/2014 Europskog parlamenta i Vijeća od 3. travnja 2014. o izvješćivanju, analizi i naknadnom postupanju u vezi s događajima u civilnom zrakoplovstvu, o izmjeni Uredbe (EU) br. 996/2010 Europskog parlamenta i Vijeća i stavljaju izvan snage Direktive 2003/42/EZ Europskog parlamenta i Vijeća i uredbi Komisije (EZ) br. 1321/2007 i (EZ) br. 1330/2007 (SL L 122, 24. 4. 2014.), (u daljnjem tekstu: Uredba (EU) 376/2014).
+(2) U skladu s člankom 3. stavkom 2. Uredbe (EU) 376/2014, ona se primjenjuje i na događaje i druge informacije povezane sa sigurnošću koji uključuju zrakoplove iz Priloga II Uredbe (EZ) br. 216/2008 o zajedničkim pravilima u području civilnog zrakoplovstva i osnivanju Europske agencije za sigurnost zračnog prometa (SL L 79, 19. 3. 2008.).
+(3) Odredbe ovoga Pravilnika odgovarajuće se primjenjuju i na sve događaje koji se dogode i izvan teritorija Republike Hrvatske zrakoplovu upisanom u Hrvatski registar civilnih zrakoplova, odnosno inozemnom zrakoplovu kojega u vrijeme događaja koristi hrvatski operator zrakoplova.
