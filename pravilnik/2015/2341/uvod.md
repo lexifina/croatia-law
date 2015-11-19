@@ -1,0 +1,1 @@
+Na temelju članka 8. stavka 3. Zakona o reguliranim profesijama i priznavanju inozemnih stručnih kvalifikacija (»Narodne novine«, broj 82/15) ministar nadležan za rad, u suradnji s ministrom nadležnim za obrazovanje i znanost, donosi
