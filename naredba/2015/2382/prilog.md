@@ -1,0 +1,1 @@
+| 125 18.11.2015 Naredba o iznosima osnovica za obračun doprinosa za obvezna osiguranja za 2016. godinu 125 18.11.2015 Naredba o iznosima osnovica za obračun doprinosa za obvezna osiguranja za 2016. godinu
