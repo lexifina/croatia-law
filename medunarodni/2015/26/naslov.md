@@ -1,0 +1,1 @@
+Zakon o potvrđivanju Ugovora između Republike Hrvatske i Ujedinjene Kraljevine Velike Britanije i Sjeverne Irske o izbjegavanju dvostrukog oporezivanja i sprječavanju izbjegavanja plaćanja poreza na dohodak i na dohodak od otuđenja imovine
