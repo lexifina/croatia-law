@@ -1,0 +1,4 @@
+# Članak 3.
+(1) Postupak procjene ugroženosti prava i dobrobiti djeteta centar pokreće po službenoj dužnosti kad o ugroženosti djetetovih prava i dobrobiti dobije informacije u drugim postupcima koji se vode u centru ili po prijavi zaprimljenoj od roditelja, djeteta, drugih članova obitelji, građana te obavijesti suda, državnog odvjetništva, policije kao i prijave drugih tijela i ustanova.
+(2) Stručni radnik centra iz stavka 1. ovoga članka, dužan je o dobivenoj informaciji ili sumnji o ugroženosti djetetovih prava i dobrobiti, obavijestiti stručni tim centra iz članka 2. stavka 2. ovoga Pravilnika, službenom bilješkom koju potpisuje stručni radnik, a svojim potpisom ovjerava ravnatelj centra.
+(3) Stručni tim centra primitkom prijave odnosno obavijesti iz stavka 1. ovog članka, odmah započinje ispitivanje slučaja i procjenu ugroženosti prava i dobrobiti djeteta.
