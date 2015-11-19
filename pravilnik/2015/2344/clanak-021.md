@@ -1,0 +1,3 @@
+# Članak 21.
+(1) Građevinski objekt u kojemu Ustanova pruža usluge iz članka 3. ovog Pravilnika, mora ispunjavati minimalne uvjete propisane ovim Pravilnikom, bez obzira na broj korisnika koji je u njemu smješten, odnosno boravi.
+(2) Odstupanja od propisanih minimalnih uvjeta mogu biti primijenjena u okolnostima kada se Ustanova organizira u postojećim građevinama ili preventivno zaštićenim građevinama po posebnom zakonu, a postojeće stanje nije u potpunosti moguće uskladiti s traženim prostornim uvjetima, ali uz uvijet da je osiguran nesmetan i siguran boravak i kretanje te rad korisnika, radnika i drugih osoba koje rade u Ustanovi.

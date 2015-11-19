@@ -1,0 +1,2 @@
+# Članak 18.
+Za građevinski objekt u kojem Ustanova pruža usluge iz članka 3. ovog Pravilnika primjenjuju se također propisi za radne i pomoćne prostorije glede sigurnosti i zaštite zdravlja radnika za sve radne i pomoćne prostorije kao i prostore u kojima se stalno ili povremeno obavlja rad, povremeno se zadržavaju osobe na radu i u koje dolaze druge osobe po bilo kojoj osnovi rada ili korištenja usluga.

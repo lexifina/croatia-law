@@ -1,0 +1,1 @@
+Na temelju članka 50. stavka 5. Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 174/04., 92/05., 2/07., 107/07., 65/09., 137/09., 146/10., 55/11., 140/12., 19/13. - pročišćeni tekst, 33/13., 148/13. i 92/14), ministar branitelja donosi
