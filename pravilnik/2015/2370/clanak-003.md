@@ -1,0 +1,3 @@
+# Članak 3.
+Jednokratno novčano primanje iz članka 2. ovoga Pravilnika isplatit će se korisnicima mirovinskog primanja ostvarenog u Republici Hrvatskoj na način na koji im se mirovinsko primanje isplaćuje u Republici Hrvatskoj, preko poslovne banke u Republici Hrvatskoj, odnosno putem pošte na adresu.
+Korisnicima iz prethodnog stavka ovoga članka kojima se mirovinsko primanje isplaćuje na račun, a kojima se provodi ovrha na novčanim sredstvima na računu u banci, Zavod će jednokratno novčano primanje uputiti na isplatu na poseban račun na koji, prema obavijesti Financijske agencije, upućuje dio mirovinskog primanja koji je izuzet od ovrhe.

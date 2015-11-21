@@ -1,0 +1,2 @@
+# Članak 5.
+Korisnicima iz točke IV. stavka 4. Odluke Vlade RH koji su ostvarili mirovinu na temelju međunarodnih ugovora o socijalnom osiguranju ili primjenom pravnih propisa Europske unije u Republici Hrvatskoj za koje do 30. studenoga 2015. inozemni nositelj nije dostavio podatak o visini primanja iz inozemstva, nego do 29. veljače 2016. sami dostave dokaz o iznosu tog primanja, Zavod će obračunati i isplatiti razliku između isplaćenog i iznosa jednokratnog novčanog primanja koje im pripada i određuje se u skladu s točkom II. i točkom IV. stavkom 3. Odluke Vlade RH.
