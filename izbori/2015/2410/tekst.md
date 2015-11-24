@@ -1,0 +1,1266 @@
+Državno izborno povjerenstvo Republike Hrvatske u sastavu Branko Hrvatin, dipl. iur., predsjednik, Vesna Fabijančić-Križanić, dipl. iur., potpredsjednica, Ana Lovrin, dipl. iur., potpredsjednica, Jakob Miletić, dipl. iur., potpredsjednik, Renata Šantek, dipl. iur., potpredsjednica, Slaven Hojski, dipl. iur., član, Janja Horvat Drobnjak, dipl. iur., članica, Emil Tomljanović, dipl. iur., član i Josip Vresk, dipl. iur., član, na osnovi članka 56. točke 9. i članka 94. stavka 2. Zakona o izborima zastupnika u Hrvatski sabor (»Narodne novine«, broj 66/15 - pročišćeni tekst i 104/15 - Odluka i Rješenje Ustavnog suda Republike Hrvatske, broj: U-I-1397/2015 od 24. rujna 2015.), objavljuje službene rezultate izbora zastupnika u Hrvatski sabor provedenih 7., 8. i 15. studenoga 2015. godine
+IZBOR ZASTUPNIKA U HRVATSKI SABOR
+NA TEMELJU LISTA U VI. IZBORNOJ JEDINICI
+I. Od ukupno 321.179 birača, glasovalo je (prema glasačkim listićima) 204.264 birača, odnosno 63,60%.
+Važećih glasačkih listića utvrđeno je 200.639, odnosno 98,23%.
+Nevažećih je bilo 3.625 glasačkih listića, odnosno 1,77%.
+II. Pojedine liste i kandidati dobili su sljedeći broj glasova:
+1.
+SOCIJALDEMOKRATSKA PARTIJA HRVATSKE - SDP
+70.925
+glasova
+35,35%
+HRVATSKA NARODNA STRANKA - LIBERALNI DEMOKRATI - HNS
+HRVATSKA STRANKA UMIROVLJENIKA - HSU
+HRVATSKI LABURISTI - STRANKA RADA
+AUTOHTONA - HRVATSKA SELJAČKA STRANKA - A - HSS
+ZAGORSKA STRANKA - ZS
+1.
+BORIS LALOVAC
+26.116
+glasova
+36,82%
+2.
+RAJKO OSTOJIĆ
+8.137
+glasova
+11,47%
+3.
+GORAN BEUS RICHEMBERGH
+2.127
+glasova
+3,00%
+4.
+MIRANDO MRSIĆ
+1.795
+glasova
+2,53%
+5.
+IVO JELUŠIĆ
+449
+glasova
+0,63%
+6.
+ZORAN VASIĆ
+878
+glasova
+1,24%
+7.
+BOJAN GLAVAŠEVIĆ
+5.414
+glasova
+7,63%
+8.
+KRISTINA IKIĆ BANIČEK
+1.885
+glasova
+2,66%
+9.
+IVA PRPIĆ
+417
+glasova
+0,59%
+10.
+IVICA RENDULIĆ
+511
+glasova
+0,72%
+11.
+LJEPOSAVA BARTA
+337
+glasova
+0,48%
+12.
+MAJA SPORIŠ
+248
+glasova
+0,35%
+13.
+BORIS BLAŽEKOVIĆ
+653
+glasa
+0,92%
+14.
+SVJETLANA LAZIĆ
+1.085
+glasova
+1,53%
+2.
+HRVATSKA DEMOKRATSKA ZAJEDNICA - HDZ
+66.096
+glasova
+32,94%
+HRVATSKA SELJAČKA STRANKA - HSS
+HRVATSKA STRANKA PRAVA DR. ANTE STARČEVIĆ - HSP AS
+BLOK UMIROVLJENICI ZAJEDNO - BUZ
+HRVATSKA SOCIJALNO-LIBERALNA STRANKA - HSLS
+HRAST - POKRET ZA USPJEŠNU HRVATSKU
+HRVATSKA DEMOKRŠĆANSKA STRANKA - HDS
+ZAGORSKA DEMOKRATSKA STRANKA - ZDS
+1.
+DRAŽEN BOŠNJAKOVIĆ
+3.326
+glasova
+5,03%
+2.
+GORAN MARIĆ
+10.693
+glasa
+16,18%
+3.
+GORDAN JANDROKOVIĆ
+8.101
+glas
+12,26%
+4.
+STJEPAN KOŽIĆ
+1.584
+glasa
+2,40%
+5.
+IVO ŽINIĆ
+8.193
+glasa
+12,40%
+6.
+MARIO ŽUPAN
+1.258
+glasova
+1,90%
+7.
+JOSIP BUDIMIR
+960
+glasova
+1,45%
+8.
+DRAŽEN BARIŠIĆ
+7.325
+glasova
+11,08%
+9.
+dr. sc. ZLATKO HASANBEGOVIĆ
+879
+glasova
+1,33%
+10.
+VLATKA VUKELIĆ
+671
+glas
+1,02%
+11.
+ANTUN VIDAKOVIĆ
+825
+glasova
+1,25%
+12.
+ŽELJKA JOSIĆ
+1.135
+glasova
+1,72%
+13.
+ŽELJKO LENART
+2.839
+glasova
+4,30%
+14.
+MARIJA STARČEVIĆ
+940
+glasova
+1,42%
+3.
+MOST NEZAVISNIH LISTA - MOST
+28.002
+glasa
+13,96%
+1.
+JASNA MATULIĆ, dipl. oec.
+3.658
+glasova
+13,06%
+2.
+JURO MARTINOVIĆ, dipl. iur.
+919
+glasova
+3,28%
+3.
+dr. sc. TOMISLAV DUBRAVAC
+1.047
+glasova
+3,74%
+4.
+mr. sc. PETAR ĆOSIĆ, bacc. med. techn.
+967
+glasova
+3,45%
+5.
+MATIJA REIZOVIĆ
+232
+glasa
+0,83%
+6.
+GORDANA ĐURIĆ
+347
+glasova
+1,24%
+7.
+IVO GRABOVAC, dipl. ing. stroj.
+957
+glasova
+3,42%
+8.
+ZORAN MARINOVIĆ, prof.
+394
+glasa
+1,41%
+9.
+MILAN BRIGLJEVIĆ
+419
+glasova
+1,50%
+10.
+LIDIJA IVEKOVIĆ
+295
+glasova
+1,05%
+11.
+ANA KLARIĆ
+539
+glasova
+1,92%
+12.
+LUCA MIKIĆ
+129
+glasova
+0,46%
+13.
+VITA GLASNOVIĆ, struč. spec. comm.
+311
+glasova
+1,11%
+14.
+HRVOJE MUCAVAC, dipl. ing. građ.
+1.212
+glasova
+4,33%
+4.
+»BANDIĆ MILAN 365 - STRANKA RADA I SOLIDARNOSTI«
+11.456
+glasova
+5,71%
+DEMOKRATSKA PRIGORSKO-
+-ZAGREBAČKA STRANKA - DPS
+DEMOKRATSKA STRANKA ŽENA - DSŽ
+HRVATSKA EUROPSKA STRANKA - HES
+HRVATSKA RADNIČKA STRANKA - HRS
+HRVATSKA STRANKA ZELENIH - EKO SAVEZ - ZELENI
+ISTARSKI DEMOKRATI - DEMOCRATICI ISTRIANI - ID - DI
+MEĐIMURSKA STRANKA - MS
+NEZAVISNI SELJACI HRVATSKE - NSH
+NOVI VAL - STRANKA RAZVOJA - NOVI VAL
+STRANKA UMIROVLJENIKA - SU
+UMIROVLJENIČKA DEMOKRATSKA UNIJA - UDU
+ZELENI SAVEZ - ZELENI
+ZELENA STRANKA - ZS
+1.
+MIODRAG DEMO
+784
+glasa
+6,84%
+2.
+ZVONKO KUNIĆ, dipl. oec.
+771
+glas
+6,73%
+3.
+DAMIR PETRAVIĆ, mag. ing.
+428
+glasova
+3,74%
+4.
+BRANIMIR BEŠLIĆ, prof.
+251
+glas
+2,19%
+5.
+SABINA FERDERBER
+190
+glasova
+1,66%
+6.
+MATO MLINARIĆ
+317
+glasova
+2,77%
+7.
+MIRA BOŽIĆ, bacc. paed.
+220
+glasova
+1,92%
+8.
+BRANIMIR BUDETIĆ
+85
+glasova
+0,74%
+9.
+KATA TOMAC
+215
+glasova
+1,88%
+10.
+MIRKO LAJPOLD
+76
+glasova
+0,66%
+11.
+SANDA KOLAKOVIĆ, dipl. uč.
+172
+glasa
+1,50%
+12.
+ZLATA FILIPOVIĆ, dipl. ing.
+221
+glas
+1,93%
+13.
+ERVIN JAHIĆ
+129
+glasova
+1,13%
+14.
+MARIJA SEKELEZ, mag. art.
+327
+glasova
+2,85%
+5.
+ŽIVI ZID
+8.851
+glas
+4,41%
+1.
+DRAGAN ZORIĆ
+902
+glasa
+10,19%
+2.
+DRAŽAN DIZDAR, prof. dr. sc.
+1.153
+glasa
+13,03%
+3.
+IVICA MARKOVIĆ
+240
+glasova
+2,71%
+4.
+NADA TUŠAK
+396
+glasova
+4,47%
+5.
+MIRALEM VATRAČ
+97
+glasova
+1,10%
+6.
+DIJANA SAVIĆ
+125
+glasova
+1,41%
+7.
+SUZANA RENDIĆ
+106
+glasova
+1,20%
+8.
+SLAVICA KRČELIĆ
+100
+glasova
+1,13%
+9.
+SNJEŽANA VUČINOVIĆ
+70
+glasova
+0,79%
+10.
+BILJANA HERŠAK
+102
+glasa
+1,15%
+11.
+TAJNA PAVLOVIĆ STOJIĆ
+61
+glas
+0,69%
+12.
+DAVOR SREBAČIĆ
+158
+glasova
+1,79%
+13.
+NEVEN MALIVUK
+127
+glasova
+1,43%
+14.
+MANIKA MOHR
+140
+glasova
+1,58%
+6.
+ODRŽIVI RAZVOJ HRVATSKE - ORaH
+4.060
+glasova
+2,02%
+1.
+MLADEN NOVAK
+473
+glasa
+11,65%
+2.
+dr. sc. SANDRA VRAČAN
+401
+glas
+9,88%
+3.
+SLAVEN VUJIĆ
+49
+glasova
+1,21%
+4.
+JASMINA BUŽINKIĆ
+120
+glasova
+2,96%
+5.
+DARKO STOŠIĆ
+34
+glasa
+0,84%
+6.
+dr. sc. ŽELJKA MAČAK ŠAFRANKO
+214
+glasova
+5,27%
+7.
+JOVAN BRAJENOVIĆ
+65
+glasova
+1,60%
+8.
+ŽELJKA GREDELJ
+99
+glasova
+2,44%
+9.
+DANIEL BERDAIS
+95
+glasova
+2,34%
+10.
+ANA HRESTAK
+69
+glasova
+1,70%
+11.
+VEDRAN BAJSIĆ
+19
+glasova
+0,47%
+12.
+LIDIJA GREDIČAK
+44
+glasa
+1,08%
+13.
+DAVOR RADAKOVIĆ
+59
+glasova
+1,45%
+14.
+VANDA MEŠNJAK BARŠIĆ
+63
+glasa
+1,55%
+7.
+NARODNA STRANKA - REFORMISTI - REFORMISTI
+3.583
+glasa
+1,79%
+NAPRIJED HRVATSKA! - PROGRESIVNI SAVEZ IVE JOSIPOVIĆA
+STRANKA HRVATSKIH UMIROVLJENIKA - UMIROVLJENICI
+ZELENI FORUM
+DUBROVAČKI DEMOKRATSKI SABOR - DDS
+1.
+DARINKO DUMBOVIĆ
+1.779
+glasova
+49,65%
+2.
+ALENKA KOŠIŠA ČIČIN-ŠAIN
+84
+glasa
+2,34%
+3.
+ŽELJKO VUGRIĆ
+84
+glasa
+2,34%
+4.
+NEVENKA LASIĆ
+52
+glasa
+1,45%
+5.
+ANĐELKO HRUPAČKI
+33
+glasa
+0,92%
+6.
+MARINA KOVAČ
+470
+glasova
+13,12%
+7.
+SANJA STJEPIĆ
+44
+glasa
+1,23%
+8.
+MIRA HARCET
+23
+glasa
+0,64%
+9.
+BOŽICA SOLENIČKI
+15
+glasova
+0,42%
+10.
+ANITA BEGIĆ HADŽIPAŠIĆ
+30
+glasova
+0,84%
+11.
+dr. sc. ZVONIMIR KOTARAC
+31
+glas
+0,87%
+12.
+ANDRIJANA IMPRIĆ
+24
+glasa
+0,67%
+13.
+DIANA MUŽIĆ, dr. stom.
+62
+glasa
+1,73%
+14.
+SAVKA KUČAR-DRAGIČEVIĆ
+49
+glasova
+1,37%
+8.
+U IME OBITELJI - PROJEKT DOMOVINA
+2.300
+glasova
+1,15%
+1.
+KREŠIMIR PLANINIĆ, dipl. iur.
+769
+glasova
+33,43%
+2.
+TIN IVANKOVIĆ, prof.
+147
+glasova
+6,39%
+3.
+ROBERT ŽIGA, dipl. ing.
+40
+glasova
+1,74%
+4.
+IGOR POLIĆ, dipl. ing.
+52
+glasa
+2,26%
+5.
+IVAN TRŽIĆ
+30
+glasova
+1,30%
+6.
+SONJA REPIĆ, dipl. iur.
+98
+glasova
+4,26%
+7.
+MARIJA VUKOVIĆ
+63
+glasa
+2,74%
+8.
+IVA PEM NOVOSEL, dr. med.
+75
+glasova
+3,26%
+9.
+ZLATA CESTARIĆ
+28
+glasova
+1,22%
+10.
+GORAN PLANK
+14
+glasova
+0,61%
+11.
+SANDA ZENKO, dipl. ing.
+17
+glasova
+0,74%
+12.
+RUŽA KORDIĆ, dipl. ing.
+54
+glasa
+2,35%
+13.
+IVANA BAN
+16
+glasova
+0,70%
+14.
+MONIKA PERIĆ
+30
+glasova
+1,30%
+9.
+HRVATSKA KONZERVATIVNA STRANKA - HKS
+1.724
+glasa
+0,86%
+HRVATSKA STRANKA PRAVA - HSP
+OBITELJSKA STRANKA - OS
+1.
+BRANKO BORKOVIĆ
+305
+glasova
+17,69%
+2.
+SLAVKO MUŽA
+367
+glasova
+21,29%
+3.
+PEJO TRGOVČEVIĆ
+59
+glasova
+3,42%
+4.
+ŽELJKO SOLDO
+109
+glasova
+6,32%
+5.
+DRAŽEN RAJIĆ
+16
+glasova
+0,93%
+6.
+ĐURĐICA JURIĆ
+35
+glasova
+2,03%
+7.
+KRISTINA GRUBEC
+105
+glasova
+6,09%
+8.
+DAMIR MARKUŠ
+204
+glasa
+11,83%
+9.
+ANTO ŽILIĆ
+75
+glasova
+4,35%
+10.
+PAVLINA IVIĆ
+7
+glasova
+0,41%
+11.
+ANA STRILIĆ
+30
+glasova
+1,74%
+12.
+NIKOLINA ŠEPOVIĆ
+24
+glasa
+1,39%
+13.
+ANDRIJA NEJAŠMIĆ
+26
+glasova
+1,51%
+14.
+MARICA ŠANTEK
+27
+glasova
+1,57%
+10.
+AUTOHTONA - HRVATSKA STRANKA PRAVA - A - HSP
+1.152
+glasa
+0,57%
+1.
+SLAVKO ŠTEFANIĆ
+177
+glasova
+15,36%
+2.
+SINIŠA MAŽURAN
+48
+glasova
+4,17%
+3.
+MANDA POSPIŠIL
+105
+glasova
+9,11%
+4.
+ŽELJKA LEŠIĆ
+50
+glasova
+4,34%
+5.
+TOMISLAV DEVČIĆ
+77
+glasova
+6,68%
+6.
+ENVER KAMIĆ
+31
+glas
+2,69%
+7.
+DANIJELA KELOVIĆ
+16
+glasova
+1,39%
+8.
+MIROSLAV BAIĆ
+27
+glasova
+2,34%
+9.
+SILVIO SERTIĆ
+16
+glasova
+1,39%
+10.
+ANTONIJO VUGRINEC
+23
+glasa
+2,00%
+11.
+GORAN KUCKO
+15
+glasova
+1,30%
+12.
+SENADA SERTIĆ
+19
+glasova
+1,65%
+13.
+DARKO POSPIŠIL
+66
+glasova
+5,73%
+14.
+ANA MARIJA RADAŠINOVIĆ
+42
+glasa
+3,65%
+11.
+AKCIJA MLADIH - AM
+769
+glasova
+0,38%
+1.
+DANIELA JERBIĆ
+108
+glasova
+14,04%
+2.
+DRAŽEN MATAKOVIĆ
+34
+glasa
+4,42%
+3.
+ALEN STARJAČKI
+26
+glasova
+3,38%
+4.
+DOMAGOJ SUČIĆ
+31
+glas
+4,03%
+5.
+JASMINA MATAKOVIĆ
+23
+glasa
+2,99%
+6.
+GORAN PAVLEK
+19
+glasova
+2,47%
+7.
+GORAN BODEGRAJA
+14
+glasova
+1,82%
+8.
+MARKO MATAKOVIĆ
+20
+glasova
+2,60%
+9.
+ANA TUBIĆ
+33
+glasa
+4,29%
+10.
+IVA POTOČNJAK
+23
+glasa
+2,99%
+11.
+LARISA ŠTEFANČIĆ
+21
+glas
+2,73%
+12.
+NINA FRGAČIĆ
+6
+glasova
+0,78%
+13.
+DIJANA JAKOVAC
+31
+glas
+4,03%
+14.
+TAJANA BUKOVIĆ
+27
+glasova
+3,51%
+12.
+HRVATSKA ZORA STRANKA NARODA - HZ
+508
+glasova
+0,25%
+1.
+ANTE BIRIN
+69
+glasova
+13,58%
+2.
+STJEPAN SVIBEN
+54
+glasa
+10,63%
+3.
+IVICA PETROVIĆ
+51
+glas
+10,04%
+4.
+MIRNA MRKONJIĆ SMAILAGIĆ
+28
+glasova
+5,51%
+5.
+IVAN KREŠTELICA
+23
+glasa
+4,53%
+6.
+DUBRAVKA KORUGA
+10
+glasova
+1,97%
+7.
+DARKO KUJUNDŽIĆ
+46
+glasova
+9,06%
+8.
+BRANKICA SERTIĆ
+21
+glas
+4,13%
+9.
+IVO PETRIĆ
+15
+glasova
+2,95%
+10.
+RENATA PANADIĆ
+9
+glasova
+1,77%
+11.
+MARIO DABO
+8
+glasova
+1,57%
+12.
+JASENKA SAVIĆ
+9
+glasova
+1,77%
+13.
+LUKA VLADANOVIĆ
+12
+glasova
+2,36%
+14.
+MARTINA SVIBEN
+8
+glasova
+1,57%
+13.
+ZA GRAD
+468
+glasova
+0,23%
+1.
+SANDRO SALOPEK
+72
+glasa
+15,38%
+2.
+JELENA ŠIMUNOVIĆ
+30
+glasova
+6,41%
+3.
+NEVEN RAUK
+5
+glasova
+1,07%
+4.
+BARBARA BENČIĆ
+18
+glasova
+3,85%
+5.
+FRANJO KIŠ
+10
+glasova
+2,14%
+6.
+SARA-MARIJA STARČEVIĆ
+9
+glasova
+1,92%
+7.
+HRVOJE ŠINCEK
+8
+glasova
+1,71%
+8.
+RENATA NOVAK-PERJANEC
+9
+glasova
+1,92%
+9.
+TOMISLAV TUKŠA
+4
+glasa
+0,85%
+10.
+LJILJANA KELIHAR
+5
+glasova
+1,07%
+11.
+VINKO LJUBAS
+2
+glasa
+0,43%
+12.
+TENA ŠKILJEVIĆ
+14
+glasova
+2,99%
+13.
+KREŠIMIR ČORAK
+11
+glasova
+2,35%
+14.
+IVANA ĐURĐAN
+12
+glasova
+2,56%
+14.
+RADNIČKA FRONTA - RF
+373
+glasa
+0,19%
+1.
+MARKO MILOŠEVIĆ
+84
+glasa
+22,52%
+2.
+ZVJEZDANA CIKOTA
+16
+glasova
+4,29%
+3.
+ŽELJKO MARIJAN
+18
+glasova
+4,83%
+4.
+TATJANA SAMARDŽIĆ-DUŽEVIĆ
+8
+glasova
+2,14%
+5.
+MARIN PANOVIĆ
+6
+glasova
+1,61%
+6.
+ANA MRKONJIĆ
+7
+glasova
+1,88%
+7.
+ALEKSANDAR DOLIĆ
+3
+glasa
+0,80%
+8.
+ŽELJKA BILOŠ
+9
+glasova
+2,41%
+9.
+DIJAMANTIS DUŽEVIĆ
+6
+glasova
+1,61%
+10.
+MAJA ŠĆUKANEC
+8
+glasova
+2,14%
+11.
+ZORAN BURIĆ
+11
+glasova
+2,95%
+12.
+LARISA PETRIĆ
+8
+glasova
+2,14%
+13.
+BOJAN BIRK
+8
+glasova
+2,14%
+14.
+DENIS GETO
+13
+glasova
+3,49%
+15.
+HRVATSKA KRŠĆANSKA DEMOKRATSKA UNIJA - HKDU
+372
+glasa
+0,19%
+HRVATSKA DEMOKRATSKA STRANKA
+NACIONALNI DEMOKRATI - ND
+1.
+TIHOMIR VODOPIJA
+62
+glasa
+16,67%
+2.
+MONIKA BOBINAC FILIPČIĆ
+17
+glasova
+4,57%
+3.
+ILIJA LOVRIĆ
+18
+glasova
+4,84%
+4.
+VANESSA VRHOVEC
+10
+glasova
+2,69%
+5.
+MIROSLAV RAGUŽ
+7
+glasova
+1,88%
+6.
+IVICA KONTIĆ
+21
+glas
+5,65%
+7.
+MARIO RALJIĆ
+6
+glasova
+1,61%
+8.
+MLADEN BRCKO
+8
+glasova
+2,15%
+9.
+DAMIR FERENČAK
+19
+glasova
+5,11%
+10.
+SEBASTIAN GRAF SORO
+8
+glasova
+2,15%
+11.
+MARTINA ŠIMIĆ
+5
+glasova
+1,34%
+12.
+ZEKIJA SARAĐEN
+8
+glasova
+2,15%
+13.
+MARINA WOLF
+13
+glasova
+3,49%
+14.
+BOŽICA DUČKIĆ
+9
+glasova
+2,42%
+III. Liste koje su, u skladu s odredbom članka 41. Zakona o izborima zastupnika u Hrvatski sabor, dobile najmanje 5% važećih glasova birača i sudjeluju u diobi zastupničkih mjesta su:
+1.
+SOCIJALDEMOKRATSKA PARTIJA HRVATSKE - SDP
+HRVATSKA NARODNA STRANKA - LIBERALNI DEMOKRATI - HNS
+HRVATSKA STRANKA UMIROVLJENIKA - HSU
+HRVATSKI LABURISTI - STRANKA RADA
+AUTOHTONA - HRVATSKA SELJAČKA STRANKA - A - HSS
+ZAGORSKA STRANKA - ZS
+2.
+HRVATSKA DEMOKRATSKA ZAJEDNICA - HDZ
+HRVATSKA SELJAČKA STRANKA - HSS
+HRVATSKA STRANKA PRAVA DR. ANTE STARČEVIĆ - HSP AS
+BLOK UMIROVLJENICI ZAJEDNO - BUZ
+HRVATSKA SOCIJALNO-LIBERALNA STRANKA - HSLS
+HRAST - POKRET ZA USPJEŠNU HRVATSKU
+HRVATSKA DEMOKRŠĆANSKA STRANKA - HDS
+ZAGORSKA DEMOKRATSKA STRANKA - ZDS
+3.
+MOST NEZAVISNIH LISTA - MOST
+4.
+»BANDIĆ MILAN 365 - STRANKA RADA I SOLIDARNOSTI«
+DEMOKRATSKA PRIGORSKO-ZAGREBAČKA STRANKA - DPS
+DEMOKRATSKA STRANKA ŽENA - DSŽ
+HRVATSKA EUROPSKA STRANKA - HES
+HRVATSKA RADNIČKA STRANKA - HRS
+HRVATSKA STRANKA ZELENIH - EKO SAVEZ - ZELENI
+ISTARSKI DEMOKRATI - DEMOCRATICI ISTRIANI - ID - DI
+MEĐIMURSKA STRANKA - MS
+NEZAVISNI SELJACI HRVATSKE - NSH
+NOVI VAL - STRANKA RAZVOJA - NOVI VAL
+STRANKA UMIROVLJENIKA - SU
+UMIROVLJENIČKA DEMOKRATSKA UNIJA - UDU
+ZELENI SAVEZ - ZELENI
+ZELENA STRANKA - ZS
+IV. Na osnovi članka 40. Zakona o izborima zastupnika u Hrvatski sabor, zastupnička mjesta u Hrvatskom saboru osvajaju sljedeće liste i kandidati:
+1.
+SOCIJALDEMOKRATSKA PARTIJA HRVATSKE - SDP
+HRVATSKA NARODNA STRANKA - LIBERALNI DEMOKRATI - HNS
+HRVATSKA STRANKA UMIROVLJENIKA - HSU
+HRVATSKI LABURISTI - STRANKA RADA
+AUTOHTONA - HRVATSKA SELJAČKA STRANKA - A - HSS
+ZAGORSKA STRANKA - ZS
+dobila je 6 mjesta, te su s ove liste izabrani kandidati:
+1.
+BORIS LALOVAC (kandidat na kandidacijskoj listi pod rednim brojem 1.)
+2.
+RAJKO OSTOJIĆ (kandidat na kandidacijskoj listi pod rednim brojem 2.)
+3.
+GORAN BEUS RICHEMBERGH (kandidat na kandidacijskoj listi pod rednim brojem 3.)
+4.
+MIRANDO MRSIĆ (kandidat na kandidacijskoj listi pod rednim brojem 4.)
+5.
+IVO JELUŠIĆ (kandidat na kandidacijskoj listi pod rednim brojem 5.)
+6.
+ZORAN VASIĆ (kandidat na kandidacijskoj listi pod rednim brojem 6.)
+2.
+HRVATSKA DEMOKRATSKA ZAJEDNICA - HDZ
+HRVATSKA SELJAČKA STRANKA - HSS
+HRVATSKA STRANKA PRAVA DR. ANTE STARČEVIĆ - HSP AS
+BLOK UMIROVLJENICI ZAJEDNO - BUZ
+HRVATSKA SOCIJALNO-LIBERALNA STRANKA - HSLS
+HRAST - POKRET ZA USPJEŠNU HRVATSKU
+HRVATSKA DEMOKRŠĆANSKA STRANKA - HDS
+ZAGORSKA DEMOKRATSKA STRANKA - ZDS
+dobila je 5 mjesta, te su s ove liste izabrani kandidati:
+1.
+GORAN MARIĆ (kandidat na kandidacijskoj listi pod rednim brojem 2.)
+2.
+IVO ŽINIĆ (kandidat na kandidacijskoj listi pod rednim brojem 5.)
+3.
+GORDAN JANDROKOVIĆ (kandidat na kandidacijskoj listi pod rednim brojem 3.)
+4.
+DRAŽEN BARIŠIĆ (kandidat na kandidacijskoj listi pod rednim brojem 8.)
+5.
+DRAŽEN BOŠNJAKOVIĆ (kandidat na kandidacijskoj listi pod rednim brojem 1.)
+3.
+MOST NEZAVISNIH LISTA - MOST
+dobila je 2 mjesta, te su s ove liste izabrani kandidati:
+1.
+JASNA MATULIĆ, dipl. oec. (kandidatkinja na kandidacijskoj listi pod rednim brojem 1.)
+2.
+JURO MARTINOVIĆ, dipl. iur. (kandidat na kandidacijskoj listi pod rednim brojem 2.)
+4.
+»BANDIĆ MILAN 365 - STRANKA RADA I SOLIDARNOSTI«
+DEMOKRATSKA PRIGORSKO-ZAGREBAČKA STRANKA - DPS
+DEMOKRATSKA STRANKA ŽENA - DSŽ
+HRVATSKA EUROPSKA STRANKA - HES
+HRVATSKA RADNIČKA STRANKA - HRS
+HRVATSKA STRANKA ZELENIH - EKO SAVEZ - ZELENI
+ISTARSKI DEMOKRATI - DEMOCRATICI ISTRIANI - ID - DI
+MEĐIMURSKA STRANKA - MS
+NEZAVISNI SELJACI HRVATSKE - NSH
+NOVI VAL - STRANKA RAZVOJA - NOVI VAL
+STRANKA UMIROVLJENIKA - SU
+UMIROVLJENIČKA DEMOKRATSKA UNIJA - UDU
+ZELENI SAVEZ - ZELENI
+ZELENA STRANKA - ZS
+dobila je 1 mjesto, te je s ove liste izabran kandidat:
+1.
+MIODRAG DEMO (kandidat na kandidacijskoj listi pod rednim brojem 1.)
