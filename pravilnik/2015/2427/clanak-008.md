@@ -1,0 +1,5 @@
+# Članak 8.
+Podmjera Potpora organizaciji konjičkih sportskih natjecanja (Nacionalnog kupa/prvenstva u preponskom jahanju, prvenstvenih natjecanja u daljinskom jahanju)
+(1) Podmjerom iz članka 4. stavka 1. točke b) ovoga Pravilnika sufinancira se dio prihvatljivih troškova organizacije natjecanja sukladno Programu.
+(2) Potpora se dodjeljuje za organizaciju natjecanja nacionalnog prvenstva u preponskom jahanju i daljinskom jahanju korisnicima koji su organizirali sportsko natjecanje u kojem su sudjelovala grla iz domaćeg uzgoja.
+(3) Pravo na korištenje podmjere iz stavka 1. ovoga članka ima Nacionalni sportski savez, kao pravna osoba u sustavu sporta, sukladno članku 14., 15. i 16. Zakona o sportu (»Narodne novine«, broj 71/06, 150/08, 124/10, 124/11, 86/12, 94/13, 85/15), upisane u Registar sportskih djelatnosti sukladno članku 20. Zakona o sportu (»Narodne novine«, broj 71/06, 150/08, 124/10, 124/11, 86/12, 94/13, 85/15). Iznimno, za ovu uzgojnu godinu pravo na korištenje podmjere iz stavka 1. ovoga članka imaju i konjički klubovi, članovi Hrvatskog konjičkog saveza.
