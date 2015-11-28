@@ -1,0 +1,1 @@
+Pravilnik o standardnim ponudama
