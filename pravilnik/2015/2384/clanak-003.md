@@ -1,0 +1,13 @@
+## Područje primjene
+# Članak 3.
+(1) Odredbe ovog Pravilnika primjenjuju se na vozila koja se sukladno posebnom propisu koji određuje kategorije vozila uvrštavaju u:
+- M1 kategoriju - motorna vozila za prijevoz osoba koja osim sjedala za vozača imaju još najviše osam sjedala,
+- N1 kategoriju - motorna vozila za prijevoz tereta čija najveća dopuštena masa nije veća od 3,5 tone i
+- L2, L4 i L5 (osim L5e) kategorije motornih vozila.
+(2) Odredbe ovoga Pravilnika primjenjuju se na vozila i otpadna vozila iz stavka 1. ovoga članka, uključujući u njih ugrađene dijelove i materijale, neovisno o tome je li vozilo servisirano ili popravljano tijekom uporabe i neovisno o tome je li opremljeno komponentama koje je isporučio prvobitni proizvođač ili drugim dijelovima koji se kao rezervni ili zamjenski dijelovi ugrađuju u vozilo, osim za one sastavne dijelove za koje je način gospodarenja propisan posebnim propisima.
+(3) Odredbe ovoga Pravilnika primjenjuju se ne dovodeći u pitanje postojeće zakonodavstvo posebice u pogledu normi sigurnosti, emisija u zrak i kontrole buke te zaštite tla i voda.
+(4) Odredbe ovoga Pravilnika primjenjuju se ne dovodeći u pitanje zahtjeve zakonodavstva Europske unije o sigurnosti i zaštiti zdravlja, o kemikalijama, posebno Uredbe (EZ) br. 1907/2006 Europskog parlamenta i Vijeća od 18. prosinca 2006. o registraciji, evaluaciji, autorizaciji i ograničavanju kemikalija (REACH) i osnivanju Europske agencije za kemikalije te o izmjeni Direktive 1999/45/EZ i stavljanju izvan snage Uredbe Vijeća (EEZ) br. 793/93 i Uredbe Komisije (EZ) br. 1488/94 kao i Direktive Vijeća 76/769/EEZ i direktiva Komisije 91/155/EEZ, 93/67/EEZ, 93/105/EZ i 2000/21/EZ (SL L 396, 30. 12. 2006.), kao ni zahtjeve posebnog zakonodavstva Europske unije o gospodarenju otpadom ili dizajnu proizvoda.
+(5) Odredbe ovoga Pravilnika ne primjenjuju se na starodobna vozila (oldtajmere) kao ni na povijesna vozila ili vozila koja su od vrijednosti za kolekcionare ili su namijenjena muzejima, ako su pohranjena na pravilan i za okoliš prihvatljiv način, bilo da su spremna za uporabu ili rastavljena na dijelove.
+(6) Na vozila iz stavka 1. ovoga članka koja se koriste za posebnu namjenu sukladno propisu o homologaciji, ne primjenjuju se odredbe članka 5. ovoga Pravilnika.
+(7) Na motorna vozila s tri kotača ne primjenjuju se odredbe članaka 5., 7. i 9. ovoga Pravilnika.
+(8) Na pitanja vezana uz stavljanje na tržište vozila te gospodarenje otpadnim vozilima koja nisu posebno uređena ovim Pravilnikom, primjenjuju se posebni propisi kojima se uređuje gospodarenje otpadom te u odgovarajućoj mjeri drugi posebni propisi koji uređuju spomenuta pitanja.

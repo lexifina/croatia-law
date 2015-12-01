@@ -1,0 +1,6 @@
+# Članak 16.
+(1) Posjednik otpadnog vozila je prilikom predaje otpadnog vozila sakupljaču obvezan predati dokaz o vlasništvu (presliku prometne dozvole otpadnog vozila koje predaje i ukoliko nije upisan kao vlasnik vozila u prometnoj dozvoli presliku drugog dokumenta iz kojeg je razvidno da je otpadno vozilo njegovo vlasništvo, te kopiju osobne iskaznice), dokaz o pravu na predaju otpadnog vozila na oporabu (ovjerena punomoć od strane vlasnika vozila, presliku prometne dozvole otpadnog vozila, te presliku osobne iskaznice), dokaz da je za predmetno vozilo plaćena naknada gospodarenja Fondu ili potvrdu o provjeri registriranosti vozila u Republici Hrvatskoj.
+(2) Potvrdu o provjeri registriranosti vozila u Republici Hrvatskoj izdaje nadležno tijelo za registraciju vozila ili Fond na temelju sporazuma o suradnji između nadležnog tijela i Fonda.
+(3) Jedinica lokalne samouprave otpadna vozila uklonjena sukladno Zakonu i posebnim propisima predaje sakupljaču uz zapisnik komunalnog redarstva na obrascu OV2 (u daljnjem tekstu: Obrazac OV2) iz Priloga IV. ovoga Pravilnika.
+(4) Posjednik otpadnog vozila iz stavka 1. ovoga članka prilikom predaje cjelovitog otpadnog vozila sakupljaču ima pravo na naknadu koju mu isplaćuje sakupljač sukladno članku 18. stavku 5. ovog Pravilnika.
+(5) Fond utvrđuje iznos jedinične naknade posebnom odlukom.

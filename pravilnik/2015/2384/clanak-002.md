@@ -1,0 +1,6 @@
+## Primjena zakonodavstva Europske unije
+# Članak 2.
+(1) Ovim se Pravilnikom u pravni poredak Republike Hrvatske prenosi Direktiva 2000/53/EZ Europskog parlamenta i Vijeća od 18. rujna 2000. o otpadnim vozilima (SL L 269, 21. 10. 2000.) kako je posljednji puta izmijenjena Direktivom Komisije 2013/28/EU od 17. svibnja 2013. o izmjeni Priloga II. Direktivi 2000/53/EZ Europskog parlamenta i Vijeća o otpadnim vozilima (Tekst značajan za EGP) (SL L 135, 22. 5. 2013.) (u daljnjem tekstu: Direktiva 2000/53/EZ).
+(2) Ovim se Pravilnikom utvrđuje provedba sljedećih odluka Europske unije u svezi provedbe Direktive 2000/53/EZ:
+- Odluka Komisije 2001/753/EZ od 17. listopada 2001. o upitniku za dostavu izvješća država članica o provedbi Direktive 2000/53/EZ Europskog parlamenta i Vijeća o otpadnim vozilima (Tekst značajan za EGP) (SL L 282, 26. 10. 2001.) (u daljnjem tekstu: Odluka (2001/753/EZ) i
+- Odluka Komisije 2005/293/EZ od 1. travnja 2005. o utvrđivanju detaljnih pravila za praćenje ciljeva u pogledu ponovne uporabe/oporabe i ponovne uporabe/recikliranja koji su utvrđeni u Direktivi 2000/53/EZ Europskog parlamenta i Vijeća o otpadnim vozilima (SL L 94, 13. 4. 2005.) (u daljnjem tekstu: Odluka 2005/293/EZ).

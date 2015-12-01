@@ -1,0 +1,5 @@
+# Članak 24.
+(1) Obrađivač je obvezan jednom mjesečno za prethodni mjesec dostaviti u Registar podatke o količini preuzetih i obrađenih otpadnih vozila na obrascu Izvješće o obrađenim količinama otpadnih vozila (u daljnjem tekstu: Obrazac OV8) iz Priloga XII. ovoga Pravilnika.
+(2) Obrađivač je obvezan do 31. siječnja tekuće godine za prethodnu godinu dostaviti u Registar godišnje podatke o količini izvezenih neobrađenih otpadnih vozila i/ili vrsti otpada nastalih obradom otpadnih vozila na Obrascu OV7 te Izvješće o rastavljanju, obradi, ponovnoj uporabi, recikliranju i oporabi otpadnih vozila koja nastaju u Republici Hrvatskoj na obrascu OV9 iz Priloga XIII. ovoga Pravilnika (u daljnjem tekstu: Obrazac OV9), a prema potrebi i druge podatke neophodne za izvješćivanje nadležnih tijela Europske unije.
+(3) Obrađivač je obvezan primjerak izdanog Obrasca POOV dostaviti Fondu prilikom dostave podataka iz stavka 1. ovoga članka.
+(4) Fond je obvezan, najkasnije do 1. travnja tekuće godine za prethodnu kalendarsku godinu, godišnje podatke iz stavaka 1. i 2. ovoga članka dostaviti Agenciji.

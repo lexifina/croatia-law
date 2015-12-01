@@ -1,0 +1,7 @@
+## I. OPĆE ODREDBE
+## Sadržaj
+# Članak 1.
+(1) Ovim Pravilnikom propisuju se postupci i ciljevi u gospodarenju otpadnim vozilima, način njihove obrade, zahtjevi u pogledu sakupljanja, skladištenja i prijevoza, uključujući i označavanje i opremanje vozila, zahtjevi u pogledu obrade otpadnih vozila i otpada nastalog obradom i s tim povezane mjerne postupke, sadržaj programa za obavljanje usluge sakupljanja otpadnih vozila, obveza prijave i dostave podataka, vođenja evidencije i dostave izvješća, obveze i način ispunjavanja obveza proizvođača vozila, zahtjevi u pogledu vozila koja se stavljaju na tržište, način obveznog postupanja proizvođača vozila, posjednika, sakupljača i obrađivača otpadnih vozila.
+(2) Ovim Pravilnikom propisuju se uvjeti gospodarenja otpadnim vozilima u cilju sprječavanja nastajanja otpada od vozila, osiguranja ponovne uporabe, recikliranja i drugih načina oporabe otpadnih vozila i njihovih sastavnih dijelova kako bi se smanjilo zbrinjavanje otpada i unaprijedilo djelovanje na okoliš svih gospodarskih subjekata uključenih u životni ciklus vozila, a posebice subjekata neposredno uključenih u obradu otpadnih vozila.
+(3) U smislu odredbi ovog Pravilnika uvoz podrazumijeva stjecanje odnosno unos iz država članica Europske unije i uvoz na teritorij Republike Hrvatske iz trećih zemalja, za vlastite potrebe ili obavljanje trgovačke djelatnosti, u zamjenu za plaćanje ili besplatno.
+(4) U smislu odredbi ovoga Pravilnika izvoz podrazumijeva iznos u države članice Europske Unije i izvoz iz Republike Hrvatske u treće zemlje.

@@ -1,0 +1,5 @@
+## Obrada otpadnih vozila
+# Članak 21.
+(1) Obradu otpadnih vozila u Republici Hrvatskoj obavlja pravna i fizička osoba - obrtnik koja posjeduje odgovarajuću dozvolu za gospodarenje otpadom za obradu otpadnih vozila sukladno Zakonu, i koja je temeljem ovlaštenja Ministarstva sklopila ugovor s Fondom (u daljnjem tekstu: obrađivač).
+(2) Tehničko-tehnološki kriterij za uvjete obrade otpadnih vozila je da osoba iz stavka 1. ovoga članka posjeduje dozvolu za gospodarenje otpadom za djelatnost oporabe otpadnih vozila.
+(3) U slučaju kada u Republici Hrvatskoj ne postoje radni i tehnički kapaciteti za obradu otpadnih vozila, dijelova otpadnih vozila ili ostataka nakon njihove obrade, obrađivač je obvezan takav otpad izvesti iz Republike Hrvatske o vlastitom trošku i Fondu dostaviti dokaz da je taj otpad izvezen na oporabu ili zbrinjavanje, što dokazuje Izvješćem o izvezenim količinama neobrađenih otpadnih vozila i/ ili vrsti otpada nastalih obradom otpadnih vozila na obrascu OV7 iz Priloga X. ovoga Pravilnika (u daljnjem tekstu: Obrazac OV7) i ovjerenim odgovarajućim obrascem dokumenta o prekograničnom prometu otpadom, sukladno posebnom propisu.

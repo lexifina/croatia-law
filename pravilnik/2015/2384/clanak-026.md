@@ -1,0 +1,2 @@
+# Članak 26.
+Fond je obvezan prikupljati podatke, uključujući argumentirane procjene, o masi i komadima vozila po proizvođačima koja su stavljena na tržište Republike Hrvatske, te na isti način i o nastalim otpadnim vozilima koja su sakupljena, količini njihovih dijelova izdvojenih za ponovnu uporabu, oporabljenim odnosno recikliranim ili izvezenim količinama na obradu i/ili oporabu, recikliranje ili zbrinjavanje.

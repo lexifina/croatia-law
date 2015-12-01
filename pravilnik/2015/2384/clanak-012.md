@@ -1,0 +1,2 @@
+# Članak 12.
+Fizička osoba - građanin i pravna ili fizička osoba - obrtnik koja uvozi vozilo za vlastite potrebe obvezne su neposredno ili putem nadležnog carinskog ureda prema mjestu prebivališta odnosno sjedišta podatke o uvozu vozila na području Republike Hrvatske dostaviti u Registar, do zadnjeg dana tekućeg mjeseca za prethodni kalendarski mjesec, na obrascu OV1, na temelju kojih se obračunava i uplaćuje naknada gospodarenja u korist Fonda sukladno uredbi kojom se uređuje gospodarenje otpadnim vozilima.
