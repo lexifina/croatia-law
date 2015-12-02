@@ -1,0 +1,75 @@
+O b r a z l o ž e n j e
+I. POSTUPAK PRED USTAVNIM SUDOM
+1. Ustavna tužba podnesena je protiv presude ŽsZ broj: 7 Gž Ob-14/15-2 od 28. travnja 2014. (u daljnjem tekstu: osporena presuda), kojom je odbijena žalba podnositelja i potvrđena presuda OGsZ (u daljnjem tekstu: prvostupanjski sud) broj: 144-P2-537/14-17 od 18. veljače 2015. (u daljnjem tekstu: prvostupanjska presuda).
+Izreka prvostupanjske presude, u dijelu mjerodavnom za ovaj ustavnosudski postupak, glasi:
+"I. Zajedničko dijete stranaka mlt sin R. B. ... rođen dana 21.12.2009. g. u Z. živjet će s majkom i zakonskom zastupnicom A. J. ... iz Z., (...)
+II. Otac A. B. ... dužan je doprinositi za uzdržavanje mlt. sina R. B. iznos od ukupno 2.000,00 kn mjesečno, počam od 18.02.2015. g. pa nadalje, dok za to budu postojali zakonski uvjeti, najkasnije do svakog 15-tog dana u mjesecu za tekući mjesec, sa zakonskom zateznom kamatom na svaki dospjeli a neplaćeni iznos uzdržavanja od njegova dospijeća do isplate po stopi određenoj čl. 29 st. 2 Zakona o obveznim odnosima, a dospijevajuće iznose uzdržavanja na tekući račun majke i zz A. J. koja se vodi kod ...
+III. Susreti i druženja između oca A. B. i mlt sina R. B. odvijat će se utorkom i četvrtkom od 16,00 do 19,30 sati, svaki drugi vikend od petka u 16,00 sati do nedjelje u 19,00 sati, svaki drugi državni praznik i vjerski blagdan koji je neradni dan od 9,00 do 19,00 sati, 7 dana zimskih praznika, 30 dana ljetnih praznika kao i prema dogovoru između roditelja, a u interesu mlt djeteta.
+IV. Svaka stranka snosi svoj trošak postupka."
+2. Podnositelj smatra da su mu osporenom presudom povrijeđena ustavna prava zajamčena člancima 29. stavkom 1., 35., 62. stavkom 1., 63. i 65. Ustava Republike Hrvatske ("Narodne novine" broj 56/90., 135/97., 113/00., 28/01., 76/10. i 5/14.).
+Ističe i povrede članka 6. stavka 1. i članka 8. stavaka 1. i 2. Konvencije za zaštitu ljudskih prava i temeljnih sloboda ("Narodne novine - Međunarodni ugovori" broj 18/97., 6/99. - pročišćeni tekst, 8/99. - ispravak, 14/02. i 1/06., u daljnjem tekstu: Konvencija), te članka 5. Protokola br. 7. uz Konvenciju.
+Povrijeđenima smatra i članak 3. stavak 1. te članak 9. stavke 1. i 2. Konvencije o pravima djeteta (New York, 20. studenoga 1989. - Zakon o ratifikaciji Konvencije Ujedinjenih naroda o pravima djeteta - Odluka o objavljivanju mnogostranih međunarodnih ugovora kojih je Republika Hrvatska stranka na temelju notifikacija o sukcesiji, "Narodne novine - Međunarodni ugovori" broj 12/93.).
+2.1. Za potrebe ustavnosudskog postupka pribavljen je spis OGsZ broj: P2-537/14.
+II. ČINJENICE I OKOLNOSTI SLUČAJA
+3. U postupku koji je prethodio ustavnosudskom, podnositelj je tužbom zatražio donošenje odluke s kojim će od roditelja mlt. R. B. (zajedničko dijete rođeno u izvanbračnoj zajednici podnositelja i tužene) živjeti, te određivanje susreta i druženja između njega kao oca i mlt. R. B.
+Spisu predmeta prvostupanjskog suda prileži Izvješće CzSSZ, PNZ klasa: 552-04/14-02/75 ur. broj: 534-113-39-14-9 od 11. lipnja 2014., zatraženo na okolnost traženih susreta i druženja oca s mlt. djetetom u kojem je, u zaključku, između ostalog, navedeno:
+"Opservirajući i procjenjujući motivacijske faktore i psihološki status roditelja A. J. i A. B., kronološku dob mlt. djeteta, njegovu emocionalnu povezanost s roditeljima i članovima njihovih matičnih obitelji mišljenja smo da mlt. R. treba živjeti s majkom A. J.
+Isto tako mišljenja smo da je u interesu mlt. R. da s ocem nadalje razvija svoj odnos povjerenja i privrženosti, te predlažemo da se dječak susreće i druži s ocem dvaput tjedno po tri sata, svakog drugog vikenda od petka u 16.00 sati do nedjelje u 18.00 sati, te polovica zimskim odnosno ljetnih praznika, kao i svakog drugog državnog praznika ili vjerskog blagdana koji je neradni dan u RH."
+Spisu predmeta prileži nalaz i mišljenje Mt PzZDGZ sastavljeno 16. lipnja 2014., u kojem je također u zaključku navedeno:
+"Provedena obrada ukazuje na dječaka koji odrasta u obitelji narušenog odnosa roditelja koji su u postupku separacije.
+Urednog je psihomotornog razvoja, nezrelijeg razvoja govora. Opisane od roditelja promjene ponašanja mogu se objasniti dječakovom reakcijom na novonastale obiteljske okolnosti.
+Za dječaka se preporuča obrada logopeda te daljnje praćenje razvoja, a za roditelje se preporuča nastavak savjetovanja."
+3.1. Prvostupanjski sud je nakon provedenog postupka donio traženu odluku, a u obrazloženju prvostupanjske presude između ostalog naveo:
+"Čitanjem Mišljenja i prijedloga ST nadležnog CzSS NZ od 18.06.2014. g. utvrđeno je, između ostalog, kako se oba roditelja u svojoj roditeljskoj ulozi dobro snalaze, te postoji primjerena zdrava privrženost te odnos nježnosti i povjerenja mlt R. i sa ocem i sa majkom.
+(...)
+Psihologijska testovna obrada ne ukazuje na psiho-patološka odstupanja niti kod jednog roditelja, te nema jasnih pokazatelja na razini osobnosti koji bi mogli umanjiti roditeljske kompetencije niti jednog od roditelja.
+Kroz razgovor i poluprojektivne tehnike uočava se sklonost oca ka idealizaciji vlastitih kompetencija, dok je majka realističnija u procjeni osobnih interesa i potreba, pokazuje adekvatan uvid u vlastita roditeljska ograničenja kao i u potrebe djeteta za drugim roditeljem.
+Za razliku od oca koji je usmjeren na zadovoljavanje vlastitih potreba, majka je usmjerenija na obiteljski život i zadovoljavanje potreba mlt djeteta.
+ST nadležnog CzSS je mišljenja da mlt R. treba živjeti sa majkom A. J. kao i da je u interesu mlt R. da sa ocem nadalje razvija svoj odnos povjerenja i privrženosti, te predlažu da se dječak susreće i druži sa ocem: dva puta tjedno po 3 sata, svakog drugog vikenda od petka u 16,00 sati do nedjelje u 18,00 sati, polovicu zimskih, odnosno ljetnih praznika, kao i svakog drugog državnog praznika ili vjerskog blagdana koji je neradni dan u RH.
+(...)
+Sud u cijelosti poklanja vjeru mišljenju i prijedlogu ST CzSS NZ, jer je isto dato stručno i obrazloženo, sukladno pravilima struke, te po educiranim i nepristranim osobama.
+Ovaj sud smatra da je prilikom izrade Stručnog mišljenja nadležni CzSS imao u vidu sve okolnosti na strani oba roditelja, učinjena je psihologijska obrada oba roditelja, a u odnosu na novonastale okolnosti - trudnoću majke, predstavnica CzSS NZ ispravno je navela da nije relevantno razgovarati o djetetu koje još nije rođeno, te da se stranke u svakom slučaju mogu dogovarati vezano za roditeljsku skrb za mlt sina.
+Također je razjašnjeno da se obrada ST usmjerava prvenstveno na roditelja i mlt dijete, a ne na partnere roditelja, jer ukoliko roditelji imaju dostatne kapacitete - tada je pretpostavka da će svaki od njih adekvatno zaštiti svoje dijete.
+(...)
+Obzirom na relevantna činjenična utvrđenja dobivena u ovome postupku, valjalo je prema odredbi čl. 100. st. 1. Obiteljskog Zakona (dalje: OBZ), presuditi da će zajedničko mlt dijete stranaka nastaviti živjeti sa majkom, a da će se sa ocem redovito susretati i družiti, na način pobliže opisan u izreci ove presude."
+3.2. ŽsZ odbio je žalbu podnositelja, uz sljedeće obrazloženje:
+"Presuda ima jasne i dostatne razloge o odlučnim činjenicama koji nisu proturječni ni sami sebi ni stanju spisa.
+Jednako tako nije pobijanom presudom počinjena ni relativno bitna povreda odredaba parničnog postupka iz čl. 354. st. 1. ZPP u vezi s čl. 7. i 8. ZPP, jer je sud prvog stupnja potpuno i istinito ispitao sve činjenice odlučne za donošenje pravilne i zakonite odluke, a izvedene dokaze ocijenio savjesno i brižljivo i to kako svaki dokaz zasebno, tako i sve dokaze zajedno.
+I činjenično stanje u pobijanoj presudi je pravilno i potpuno utvrđeno, jer je sud prvog stupnja na temelju izvedenih dokaza i njihove ocjene ispitao sve okolnosti odlučne za određivanje uzdržavanja iz čl. 209. st. 1. i čl. 300. st. 1. Obiteljskog zakona ...
+(...)
+Kod donošenja odluke o tome s kojim će roditeljem maloljetno dijete živjeti, sud je dužan, u prvom redu voditi računa o interesima djeteta. Iz nalaza i mišljenja CzSS NZ, od 11. lipnja 2014. koje mišljenje je dao ST Centra proizlazi da temeljem procjene motivacijskih faktora i psihološkog statusa roditelja, te imajući u vidu dob maloljetnog djeteta, njegovu emocionalnu povezanost s roditeljima i članovima njihovih matičnih obitelji, mišljenje je da maloljetni R. treba živjeti s majkom A. J., a da s ocem treba razvijati svoj odnos povjerenja i privrženosti.
+(...)
+Po ocjeni ovog suda, pravilno je sud prvog stupnja, uvažavajući jednake kvalitete roditelja, jednaku privrženost djeteta roditeljima, te činjenicu da dijete od prestanka izvanbračne zajednice uglavnom živi s majkom, ocijenio da je za dobrobit maloljetnog R. da živi sa majkom.
+Neosnovan je žalbeni navod žalitelja da se radi o 'vrlo oskudnim susretima i druženjima u odnosu na dosadašnje' obzirom da je ostavljena mogućnost da se roditelji dogovore o terminima susreta i druženja, ako je to u interesu maloljetnog djeteta."
+III. PRIGOVORI PODNOSITELJA
+4. Povredu navedenih ustavnih i konvencijskih prava podnositelj obrazlaže razlozima koji su već meritorno razmotreni u žalbenom postupku pred ŽsZ. Prigovori iz ustavne tužbe podnositelja mogu se svesti na tvrdnje o pogrešno i nepotpuno utvrđenom činjeničnom stanju i pogrešnoj primjeni materijalnog prava, a sažeto glase:
+"Podnositelj ističe kako je tijekom cijelog sudskog postupka stavljen u neravnopravan položaj te kako sudovi nisu na jednak način sagledali iskaze parničnih stranaka kao niti predložene dokazne prijedloge ... prvostupanjski sud donio je odluku da dijete stranaka živi sa majkom, temeljem manjkavog i nepotpunog mišljenja CzSS Z ...
+(...)
+Obzirom kako Centar nije utvrdio obiteljske i partnerske odnose, odnosno kako nije ispitao sve okolnosti značajne za donošenje sudske odluke niti je prvostupanjski sud utvrdio relevantne činjenice, sudskom odlukom povrijeđena supodnositelji pravo na pošteno i pravično suđenje; pravo na jednakost među supružnicima kao i pravo na poštovanje privatnog i obiteljskog života ..."
+Predlaže da Ustavni sud usvoji ustavnu tužbu te ukine osporenu i prvostupanjsku presudu, te predmet vrati sudu u prvom stupnju na ponovni postupak.
+IV. MJERODAVNO PRAVO
+5. U konkretnom slučaju, za ocjenu osnovanosti ustavne tužbe mjerodavni članci Obiteljskog zakona ("Narodne novine" broj 116/03., 17/04., 136/04., 107/07., 57/11., 61/11. i 25/13.; u daljnjem tekstu: OBZ) glase:
+"Članak 100.
+(1) Ako roditelji ne žive u obiteljskoj zajednici, sud će odlučiti s kojim će roditeljem dijete živjeti te odrediti način i vrijeme susreta i druženja djeteta s drugim roditeljem.
+(...)"
+"Članak 295.
+(1) Prije donošenja odluke o tome s kojim će roditeljem dijete živjeti i o roditeljskoj skrbi sud će pribaviti mišljenje i prijedlog centra za socijalnu skrb.
+(...)"
+"Članak 297.
+U postupku o tome s kojim će roditeljem dijete živjeti i o roditeljskoj skrbi sud nije vezan zahtjevima stranaka."
+V. OCJENA USTAVNOG SUDA
+6. Obzirom na navode i razloge ustavne tužbe, Ustavni sud je ustavnu tužbu podnositelja razmotrio s aspekta eventualne povrede ustavnog prava na pravično suđenje, zajamčeno člankom 29. stavkom 1. Ustava, koji u mjerodavnom dijelu glasi:
+"Članak 29.
+Svatko ima pravo da zakonom ustanovljeni neovisni i nepristrani sud pravično i u razumnom roku odluči o njegovim pravima i obvezama ...
+(...)"
+Sadržaj ustavnog prava propisanog navedenom ustavnom odredbom ograničen je na postupovna jamstva pravičnog suđenja, pa Ustavni sud, ocjenjujući navode ustavne tužbe sa stajališta tog ustavnog prava, ispituje eventualno postojanje povreda u postupcima pred sudovima i na temelju toga ocjenjuje je li postupak, razmatran kao jedinstvena cjelina, bio vođen na način koji je podnositelju osigurao pravično suđenje.
+7. Ustavni sud podsjeća da je u nizu svojih odluka (primjerice broj: U-III-2182/2014 od 17. lipnja 2014., "Narodne novine" broj 108/14.; broj: U-III-4784/2013 od 6. ožujka 2014., "Narodne novine" broj 34/14. i dr.), zauzeo stajalište:
+" ... da u svim postupcima koji se odnose na skrb o djeci središnje mjesto moraju imati najbolji interesi djeteta."
+U tim odlukama Ustavni sud je istaknuo da se u razrješenju obiteljskih odnosa, koji svakako uključuju i donošenje odluke s kojim će od roditelja dijete nastaviti živjeti u slučaju njihovog razvoda, mora polaziti od uzajamnog poštovanja i pomaganja svih članova obitelji te zaštite dobrobiti i prava djeteta, kao i odgovornosti obaju roditelja za podizanje i odgoj djeteta, a ispunjavanje tih okolnosti ocjenjuje se ovisno o specifičnim okolnostima pojedinog slučaja.
+8. Ustavni sud utvrdio je, na temelju uvida u spis predmeta prvostupanjskog suda da su u konkretnom slučaju CzSS, PNZ i Mt PzZDGZ prije donošenja prvostupanjske presude, dostavili svoja stručna mišljenja, te je strankama na raspravi omogućeno očitovanje o njima i predlaganje drugih dokaza u vezi donošenja odluke o roditeljskoj skrbi.
+Ustavni sud je nakon uvida u dokumentaciju konkretnog spisa, ocijenio kako je drugostupanjski sud obrazložio stajalište na temelju kojih je utvrđenja prvostupanjskog suda u cijelosti prihvatio kao "logična i uvjerljiva", osobito utvrđenja vezana za način određivanja susreta i druženja mlt. djeteta s podnositeljem kao ocem.
+Ustavni sud primjećuje da su oba nadležna, nižestupanjska suda, procjenu konkretne obiteljske situacije mlt. R. B. i njegovih roditelja, a sa ciljem donošenja pravilne odluke s kojim će roditeljem dijete nastaviti zajednički život i kako će se odvijati (koliko će biti učestali) kontakti mlt. djeteta s roditeljem kojem dijete nije povjereno na nastavak zajedničkog života, proveli u cijelosti poštujući zaštitu najboljeg interesa mlt. djeteta.
+9. Zaključno, ocjena je Ustavnog suda da su u spornoj pravnoj situaciji presuđivala tijela sudbene vlasti unutar svoje nadležnosti utvrđene zakonom. Iz pribavljenog spisa razvidno je da je prvostupanjski sud proveo dokazni postupak na način utvrđen mjerodavnim zakonskim odredbama, da je podnositelj bio u mogućnosti pratiti postupak i sudjelovati u njemu, poduzimati sve zakonom dopuštene postupovne radnje i ulagati pravne lijekove, dok su osporene odluke donesene sukladno mjerodavnom pravu Republike Hrvatske a izražena pravna stajališta sudovi su valjano, jasno i na ustavnopravno prihvatljiv način obrazložili u svojim odlukama.
+Slijedom navedenog, Ustavni sud ocjenjuje da obrazloženja osporenih sudskih presuda, u tom pravcu, sadrže relevantne i dostatne razloge za ocjene iznesene u njima, zbog čega podnositelju nije povrijeđeno ustavno pravo na pravično suđenje zajamčeno člankom 29. stavkom 1. Ustava na koje ukazuje.
+10. Ostali prigovori vezani uz članke Ustava i Konvencije koje podnositelj navodi u ustavnoj tužbi, na način kako su postavljeni te u mjeri u kojoj bi u okolnostima konkretnog slučaja osporena presuda mogla utjecati na ostvarivanje sadržaja tih ustavnih normi, Ustavni sud ne upućuju na mogućnost povrede ljudskih prava i temeljnih sloboda zajamčenih Ustavom i Konvencijom.
+11. Na temelju članaka 73. i 75. Ustavnog zakona o Ustavnom sudu Republike Hrvatske ("Narodne novine" broj 99/99., 29/02. i 49/02. - pročišćeni tekst) odlučeno je kao u izreci.
