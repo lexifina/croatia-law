@@ -1,0 +1,2 @@
+O D L U K U
+Utvrđuje se da su podnositeljici ustavne tužbe B. P. iz V. u razdoblju od 13. srpnja 2011., kao dana donošenja rješenja Općinskog suda u V. broj: R/1-102/11, pa do dana početka tijeka roka za ispunjenje zakonske obveze redovitog upisa djece u prvi razred osnovne škole u školskoj godini 2012./2013., bila povrijeđena prava zajamčena člankom 29. stavkom 1. Ustava Republike Hrvatske ("Narodne novine" broj 56/90., 135/97., 113/00., 28/01., 76/10. i 5/14.).
