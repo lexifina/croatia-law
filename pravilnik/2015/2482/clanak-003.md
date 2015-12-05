@@ -1,0 +1,6 @@
+## Predmet potpore
+# Članak 3.
+(1) Privremeni prestanak ribolovnih aktivnosti (u daljnjem tekstu: privremena obustava) provodi se u segmentu ribolova pridnenim povlačnim mrežama - koćama (u daljnjem tekstu: koćarski ribolov).
+(2) Predmet potpore je naknada ovlaštenicima povlastica i članovima posade ribarskog plovila za kojeg je ta povlastica izdana, a obuhvaća jednokratna namjenska bespovratna novčana sredstava za privremenu obustavu sukladno Odluci Vlade Republike Hrvatske o donošenju Plana upravljanja pridnenim povlačnim mrežama - koćama (klasa: 022-03/14-04/96, urbroj: 50301-05/25-14-2 od 27. ožujka 2014. godine) i Pravilniku o prostornom i vremenskom ograničenju obavljanja ribolova na moru pridnenom povlačnom mrežom - koćom u 2015. godini (»Narodne novine«, broj 94/2015).
+(3) Privremena obustava u smislu ovoga Pravilnika i Natječaja za dodjelu potpore u okviru mjere I.9. »Privremeni prestanak ribolovnih aktivnosti« pridnenim povlačnim mrežama - koćama (u daljnjem tekstu: Natječaj) je privremena obustava provedena u razdoblju od 16. rujna 2015. godine u 00:00 sati do 15. listopada 2015. godine u 24:00 sati na području ribolovnih zona C i D.
+(4) Odredbe ovoga Pravilnika i Natječaja ne dovode u pitanje odredbe zakonskih i podzakonskih propisa iz područja radnih odnosa.
