@@ -1,0 +1,3 @@
+## Predmet Odluke
+# Članak 1.
+Ovom se Odlukom radi provedbe Uredbe (EU) br. 648/2012 Europskog parlamenta i Vijeća od 4. srpnja 2012. o OTC izvedenicama, središnjoj drugoj ugovornoj strani i trgovinskom repozitoriju (Tekst značajan za EGP; SL, L 201, 27. 7. 2012.) i Provedbene uredbe Komisije (EU) br. 484/2014 od 12. svibnja 2014. o utvrđivanju provedbenih tehničkih standarda s obzirom na hipotetski kapital središnje druge ugovorne strane u skladu s Uredbom (EU) br. 648/2012 Europskog parlamenta i Vijeća (Tekst značajan za EGP; SL, L 138, 13. 5. 2014.; u nastavku teksta: Provedbena uredba Komisije (EU) br. 484/2014) propisuje način na koji središnja druga ugovorna strana dostavlja izvješća o hipotetskom kapitalu.
