@@ -1,0 +1,1 @@
+Na temelju članka 6. Zakona o Hrvatskoj gospodarskoj komori (»Narodne novine« br. 66/91 i 73/91) i članka 21. stavka 1. podstavka 1. Statuta Hrvatske gospodarske komore (»Narodne novine« br. 56/91, 10/93, 115/93, 11/94 - pročišćeni tekst, 108/95, 19/96, 64/01, 142/11 i 9/14) Skupština Hrvatske gospodarske komore na 12. sjednici održanoj 19. studenoga 2015. donosi

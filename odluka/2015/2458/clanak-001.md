@@ -1,0 +1,3 @@
+# Članak 1.
+U Statutu Hrvatske gospodarske komore (»Narodne novine« br. 56/91, 10/93, 115/93, 11/94 - pročišćeni tekst, 108/95, 19/96, 64/01, 142/11 i 9/14) članak 1. mijenja se i glasi:
+»Ovim Statutom uređuju se zadaće i poslovi Hrvatske gospodarske komore (u nastavku teksta: HGK), prava i dužnosti članica HGK, upravljanje poslovima HGK, oblici organiziranja i rada u HGK, osnivanje predstavništva HGK u inozemstvu, rad sudova pri HGK, suradnja s državnim tijelima, organizacijama i drugim komorama, opći akti HGK i njihovo donošenje, javnost rada HGK, stručna služba HGK te ostvarivanje sredstava za rad HGK.«
