@@ -1,0 +1,6 @@
+## Otklanjanje nadležnosti
+# Članak 4.
+(1) Predsjedništvo Sudišta zaključkom će, najkasnije do osnivanja arbitražnog suda, otkloniti nadležnost Sudišta za odlučivanje u određenom sporu i kad je ona ugovorena, ako se sklopljeni ugovor o arbitraži odnosi na prava kojima stranke ne mogu slobodno raspolagati ili ako postoje razlozi iz članka 3. Pravilnika zbog kojih se nadležnost arbitražnog suda pri Sudištu ne može ugovoriti.
+(2) Predsjedništvo Sudišta može otkloniti nadležnost i kad su stranke ugovorile takvo mjesto, jezik, sastav, način osnivanja arbitražnog suda ili pravila o arbitražnom postupku zbog kojih će se arbitraža pred arbitražnim sudom moći provesti samo uz nerazmjerne teškoće ili troškove ili ako se time bitno odstupa od načina rješavanja sporova prema Pravilniku.
+(3) Kad predsjedništvo Sudišta zaključkom otkloni nadležnost u skladu s odredbama stavaka 1. i 2. ovoga članka, smatrat će se da ne postoji valjano sklopljen ugovor o nadležnosti arbitražnog suda pri Sudištu.
+(4) Svoju odluku o nadležnosti prema odredbi stavka 1. ovoga članka predsjedništvo Sudišta može donijeti na prijedlog tajništva Sudišta i predsjednika Sudišta, a prema odredbi stavka 2. ovoga članka na prijedlog predsjednika, tajnika Sudišta i arbitražnog suda.

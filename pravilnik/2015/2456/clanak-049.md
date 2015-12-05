@@ -1,0 +1,7 @@
+## Postupak određivanja privremenih mjera
+# Članak 49.
+(1) Arbitražni sud odredit će privremenu mjeru u pravilu tek nakon što drugoj stranci omogući da se izjasni o prijedlogu za njezino određivanje.
+(2) Arbitražni sud može odrediti privremenu mjeru prije nego što je drugoj stranci bilo omogućeno da se izjasni o prijedlogu samo ako stranka koja traži njezino određivanje učini vjerojatnim da bi to bilo nužno radi učinkovitosti privremene mjere.
+(3) U slučaju iz stavka 2. ovoga članka stranka koja traži određivanje privremene mjere dužna je priopćiti arbitražnom sudu sve okolnosti važne za odluku arbitražnog suda te izjavu da će odgovarati za štetu uzrokovanu propuštanjem davanja obavijesti o okolnostima koje su joj bile poznate ili su joj morale biti poznate. U svakom slučaju arbitražni sud dužan je omogućiti drugoj stranci da se izjasni o prijedlogu čim to po prirodi stvari bude moguće te nakon prijema izjašnjenja druge stranke preispitati donesenu odluku o privremenoj mjeri.
+(4) Odluka o privremenoj mjeri donosi se u obliku pravorijeka i mora biti obrazložena. U osobito hitnim slučajevima privremena mjera može se izdati i bez obrazloženja. Ako bude potrebno obratiti se sudu radi ovrhe privremene mjere ili ako to zatraži protivna stranka, izradit će se obrazloženi pisani otpravak odluke o privremenoj mjeri.
+(5) O postupanju prema određenim mjerama osiguranja stranke su dužne bez odlaganja obavijestiti tajnika Sudišta.

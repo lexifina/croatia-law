@@ -1,0 +1,8 @@
+## Spajanje i razdvajanje postupaka
+# Članak 36.
+(1) Ako stranke u sporu podnesu jedna protiv druge samostalne tužbe iz istih ili različitih pravnih odnosa za koje su ugovorile nadležnost arbitražnog suda pri Sudištu, tajnik Sudišta nastojat će, ako bi to bilo svrhovito s obzirom na sporove koji su pokrenuti tim tužbama, da se raspravljanje i odlučivanje o njima spoji i nastavi pred arbitražnim sudom u istom sastavu.
+(2) Arbitražni sud može odlučiti, na zahtjev bilo koje od stranaka, da se postupak koji se vodi protiv više tuženika prema kojima se spor prema zakonu ili prirodi pravnog posla ne mora riješiti samo na jednak način, razdvoji u odnosu na pojedine od njih ako se prema jednome ili nekim od njih privremeno ne može voditi.
+(3) Arbitražni sud može odlučiti, na zahtjev bilo koje od stranaka, osim ako se stranke tome suglasno usprotive, da se postupak koji su zajednički pokrenuli više tužitelja prema kojima se spor prema zakonu ili prirodi pravnog posla ne mora riješiti samo na jednak način, razdvoji u odnosu na pojedine od njih ako se prema jednome ili nekim od njih privremeno ne može voditi.
+(4) U slučajevima iz stavka 2. i 3. ovoga članka stranke su dužne uplatiti dodatne upisne pristojbe i predujmove za vođenje razdvojenih postupaka kao da su oni pokrenuti kao posebni postupci. Ako se ti iznosi ne uplate u roku koji odredi tajnik Sudišta, do razdvajanja postupka neće doći.
+(5) Arbitražni sud odlučit će o tome hoće li se parnične radnje poduzete u postupku prije njegova razdvajanja ponoviti i u razdvojenim postupcima.
+(6) Nakon što prestane razlog zbog kojega je došlo do razdvajanja postupaka (stavci 2. i 3.), razdvojeni se postupci mogu ponovno spojiti (stavak 1.).
