@@ -1,0 +1,3 @@
+# Članak 19.
+Predsjednikom i članovima ispitnog povjerenstva mogu se imenovati osobe koje su završile odgovarajući preddiplomski i diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij, odnosno odgovarajući specijalistički diplomski stručni studij, ako su tijekom cijelog svog studija stekle najmanje 300 ECTS bodova i imaju najmanje deset godina radnog iskustva na poslovima izrade, nadzora primjene ili provedbe propisa iz predmeta koje ispituju.
+Osobe iz stavka 1. ovoga članka moraju imati položen stručni ispit za obavljanje poslova graditeljstva, odnosno odgovarajući ispit prema posebnim propisima za uže područje koje ispituju ako je takav ispit propisan.

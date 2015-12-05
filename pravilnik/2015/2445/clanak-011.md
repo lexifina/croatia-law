@@ -1,0 +1,10 @@
+## III. UVJETI ZA POLAGANJE STRUČNOG ISPITA
+# Članak 11.
+Polaganju stručnog ispita može pristupiti osoba koja ispunjava sljedeće uvjete:
+1. da je završila odgovarajući preddiplomski i diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij kojim se stječe akademski naziv magistar inženjer ili odgovarajući specijalistički diplomski stručni studij kojim se stječe stručni naziv stručni specijalist inženjer ako je tijekom cijelog svog studija stekla najmanje 300 ECTS bodova, odnosno da je na drugi način propisan posebnim propisom stekla odgovarajući stupanj obrazovanja odgovarajuće struke i ima najmanje dvije godine radnog iskustva na odgovarajućim poslovima u struci ili na drugim odgovarajućim poslovima
+ili
+2. da je završila odgovarajući preddiplomski sveučilišni studij kojim se stječe akademski naziv sveučilišni prvostupnik (baccalaureus) inženjer ili odgovarajući stručni studij kojim se stječe stručni naziv pristupnik ili prvostupnik (baccalaureus) inženjer i ima najmanje dvije godine radnog iskustva na odgovarajućim poslovima u struci ili na drugim odgovarajućim poslovima
+ili
+3. da je završila odgovarajući diplomski sveučilišni studij ili odgovarajući specijalistički diplomski stručni studij ako je na odgovarajućim poslovima u struci provela najmanje jednu godinu, ako je uz navedeno iskustvo nakon završetka odgovarajućeg preddiplomskog sveučilišnog ili nakon završetka odgovarajućeg preddiplomskog stručnog studija stekla odgovarajuće iskustvo u struci u trajanju od najmanje tri godine.
+Polaganju stručnog ispita može pristupiti i osoba koja da je završila odgovarajuću srednju školu po programu za tehničara (razina 4.2 Hrvatskog kvalifikacijskog okvira) i ima najmanje dvije godine radnog iskustva na odgovarajućim poslovima u struci ili na drugim odgovarajućim poslovima.
+Polaganju stručnog ispita može pristupiti i osoba koja je završila školu ili studij izvan Republike Hrvatske, koji odgovara uvjetima iz stavka 1. ovoga članka, kojoj je obveza polaganja stručnog ispita određena u sklopu postupka priznavanja inozemne stručne kvalifikacije prema posebnom propisu.
