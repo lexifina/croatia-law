@@ -1,0 +1,1 @@
+Na temelju članka 12. stavka 1. točke 1., članka 70. stavka 9. i članka 78.a. stavka 4. Zakona o elektroničkim komunikacijama (»Narodne novine« br. 73/08, 90/11, 133/12, 80/13 i 71/14) Vijeće Hrvatske regulatorne agencije za mrežne djelatnosti na sjednici održanoj 25. studenoga 2015. donosi
