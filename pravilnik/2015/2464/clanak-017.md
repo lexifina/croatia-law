@@ -1,0 +1,3 @@
+# Članak 17.
+(1) Sporazum stranaka o sklapanju, izmjeni ili obnovi kolektivnog ugovora, koji može dovesti do štrajka ili drugog oblika industrijske akcije, ima pravnu snagu i učinke kolektivnog ugovora, ako ga potpišu sindikati koji su u sporu, a u svom članstvu imaju kvalificiranu većinu, u skladu s posebnim propisom.
+(2) Ako su sporazum iz stavka 1. ovoga članka potpisali sindikati u sporu koji u svom članstvu nemaju kvalificiranu većinu u skladu s posebnim propisom, njegovim potpisivanjem započinje postupak pregovora o sklapanju, izmjeni ili obnovi kolektivnog ugovora u skladu s posebnim propisom.
