@@ -1,0 +1,8 @@
+## IX. OPĆI UVJETI RADA TROŠARINSKIH SKLADIŠTA
+## Proizvodnja trošarinskih proizvoda
+# Članak 24.
+(1) U trošarinskom skladištu se mogu proizvoditi, prerađivati i obrađivati samo trošarinski proizvodi, a drugi proizvodi samo ukoliko su nusproizvodi te djelatnosti. Zadržavanje tih drugih proizvoda u trošarinskom skladištu je dozvoljeno samo uz prethodno odobrenje carinskog ureda nadležnog prema sjedištu pravne osobe, sjedištu podružnice, odnosno prebivalištu fizičke osobe u Republici Hrvatskoj navedeno u trošarinskom odobrenju za ovlaštenog držatelja trošarinskog skladišta i za trošarinsko skladište.
+(2) U trošarinskom skladištu dozvoljeno je izvoditi i druge radnje s trošarinskim proizvodima samo uz prethodno odobrenje nadležnog carinskog ureda navedeno u trošarinskom odobrenju za ovlaštenog držatelja trošarinskog skladišta i za trošarinsko skladište.
+(3) U trošarinskom skladištu se mogu nalaziti samo one sirovine i poluproizvodi te drugi proizvodi koji su potrebni za proizvodnju, preradu i obradu trošarinskih proizvoda. Zadržavanje tih sirovina, odnosno poluproizvoda te drugih proizvoda u trošarinskom skladištu je dozvoljeno samo uz prethodno odobrenje nadležnog carinskog ureda navedeno u trošarinskom odobrenju za ovlaštenog držatelja trošarinskog skladišta i za trošarinsko skladište.
+(4) U istom trošarinskom skladištu se može proizvoditi, prerađivati i obrađivati samo jedna kategorija trošarinskih proizvoda (alkohol i alkoholna pića ili duhanske prerađevine ili energenti).
+(5) U trošarinskom skladištu se mogu skladištiti trošarinski proizvodi na koje je plaćena trošarina pod uvjetom da iste proizvođač upotrijebi za proizvodnju novih trošarinskih proizvoda, a nakon čega je moguće ostvariti povrat sukladno članku 28. stavku 1. točki 1. Zakona.

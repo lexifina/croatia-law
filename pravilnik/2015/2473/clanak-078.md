@@ -1,0 +1,3 @@
+# Članak 78.
+(1) Svaka pravna ili fizička osoba koja prvi put započinje s proizvodnjom piva, a namjerava ishoditi odobrenje za poslovanje u statusu male nezavisne pivovare, dužna je ishoditi status ovlaštenog držatelja trošarinskog skladišta - proizvođača piva ili status proizvođača piva izvan sustava odgode prema Zakonu, a prije podnošenja zahtjeva za izdavanje odobrenja za poslovanje u statusu male nezavisne pivovare.
+(2) U slučaju iz stavka 1. ovoga članka kod podnošenja zahtjeva za izdavanje odobrenja za poslovanje u statusu male nezavisne pivovare navodi se u smislu članka 77. stavka 3. točke 2. ovoga Pravilnika predviđena količina piva koje će se proizvesti u kalendarskoj godini za koju se traži odobrenje te se ispunjavaju i drugi uvjeti propisani tim člankom.

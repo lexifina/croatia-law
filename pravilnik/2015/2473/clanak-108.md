@@ -1,0 +1,7 @@
+## XVIII. ENERGENTI I ELEKTRIČNA ENERGIJA
+## Označavanje plinskih ulja za namjenu grijanja
+# Članak 108.
+(1) Plinska ulja obuhvaćena tarifnim oznakama 2710 19 41, 2710 19 45 i 2710 19 49 koja se koriste kao gorivo za namjenu grijanja moraju biti obojena crvenom bojom (C.I. Solvent Red 19) u količini koja je vidljiva golim okom i moraju sadržavati indikator C.I. Solvent Yellow 124 (N-etil-N-2-(1-izobutoksietoksi) etil-4-(fenilazo) anilin) u količini ne manjoj od 6,0 mg/l a ne većoj od 9,0 mg/l. Crvena boja (C.I. Solvent Red 19) daje vizualnu razliku između plinskog ulja za pogon i plinskog ulja za grijanje.
+(2) Količina i prisutnost indikatora iz stavka 1. ovoga članaka određuje se prema Zajedničkoj referentnoj metodi za određivanje Euromarkera (Solvent Yellow 124) u plinskim uljima.
+(3) Označavanje plinskih ulja za namjenu grijanja može se vršiti samo u trošarinskom skladištu ovlaštenog držatelja trošarinskog skladišta kojem je u trošarinskom odobrenju za ovlaštenog držatelja trošarinskog skladišta i za trošarinsko skladište odobreno i označavanje plinskih ulja.
+(4) Doziranje sredstva za označavanje iz stavka 1. ovoga članka utvrđuje se instrumentom za ispitivanje količine indikatora za označavanje koji mora biti tehnički pregledan i ovjeren od strane tijela nadležnog za mjeriteljstvo te odobren odobrenjem za ovlaštenog držatelja trošarinskog skladišta i trošarinsko skladište i po potrebi plombiran od strane carinskog ureda nadležnog prema lokaciji trošarinskog skladišta.

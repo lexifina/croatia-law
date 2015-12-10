@@ -1,0 +1,4 @@
+# Članak 111.
+(1) Trošarinski obveznici i druge pravne i fizičke osobe koje obavljaju prodaju označenih plinskih ulja za namjenu grijanja iz članka 109. ovoga Pravilnika obvezni su voditi evidencije o kupcima i prodanim količinama sukladno članku 89. stavku 3. Zakona.
+(2) Evidencija o kupcima i prodanim količinama iz stavka 1. ovoga članka mora sadržavati sljedeće podatke: ime i prezime ili naziv kupca, osobni identifikacijski broj (OIB) kupca, adresu kupca, datum prodaje i prodanu količinu označenog plinskog ulja za namjenu grijanja. Evidencije o kupcima i prodanim količinama vode se u elektroničkom obliku ako to dopuštaju tehničke mogućnosti.
+(3) Evidencija o kupcima i prodanim količinama označenih plinskih ulja za namjenu grijanja iz stavka 2. ovoga članka vodi se na Obrascu EKO-PG koji je tiskan u Prilogu 46 ovoga Pravilnika i njegov je sastavni dio.

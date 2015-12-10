@@ -1,0 +1,1 @@
+Na temelju članka 115. Zakona o trošarinama (»Narodne novine«, broj 22/13, 32/13 i 81/13) i članka 43. Zakona o izmjenama i dopunama Zakona o trošarinama (»Narodne novine«, broj 100/15 i 120/15) ministar financija donosi

@@ -1,0 +1,3 @@
+# Članak 95.
+(1) Ako obveza podnošenja dnevnog utroška duhanskih markica nije nastala u skladu s člankom 93. stavkom 1., 2. i 3. ovoga Pravilnika i markice nisu predane u rokovima iz članka 91. ovoga Pravilnika ni u produženom roku iz članka 100. ovoga Pravilnika, iste se smatraju izgubljenim markicama te istekom 60. dana računajući od dana preuzimanja duhanskih markica nastaje trošarinska obveza i trošarinski obveznik podnosi Obrazac DUM-DM. Obračunata trošarina plaća se u roku od 30 dana od dana nastanka obveze obračuna trošarine.
+(2) Trošarinska obveza nastaje i na izgubljene markice koje je trošarinski obveznik iskazao na Obrascu DUM-DM najkasnije do isteka roka od 60 dana računajući od dana preuzimanja markica.

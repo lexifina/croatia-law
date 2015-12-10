@@ -1,0 +1,6 @@
+# Članak 44.
+(1) Bankovnu garanciju moguće je prije isteka roka valjanosti produžiti.
+(2) Ako nalogodavac za izdavanje garancije podnosi novu bankovnu garanciju, dug koji je bio osiguran prethodnom bankovnom garancijom, a nije u cijelosti podmiren, odnosno mogući dug koji može još nastati, mora novom bankovnom garancijom biti osiguran. Nova bankovna garancija mora sadržavati klauzulu da se iz nje mogu naplatiti i dugovi koji su bili osigurani prethodnom bankovnom garancijom.
+(3) Ako nalogodavac za izdavanje garancije prvi put podnosi bankovnu garanciju za osiguranje plaćanja duga, ista neće sadržavati klauzulu iz stavka 2. ovoga članka.
+(4) Izdavatelj bankovne garancije može opozvati bankovnu garanciju. Opoziv bankovne garancije dostavlja se u pisanom obliku Središnjem uredu. Opoziv stupa na snagu osmoga dana od dana njegova prijema od strane Središnjeg ureda, o čemu se obavještava podnositelj zahtjeva.
+(5) U slučaju opoziva bankovna garancija vrijedi za sva davanja koja su do dana njegovog stupanja na snagu bila osigurana opozvanom bankovnom garancijom, a izdavatelja bankovne garancije može se pozvati na plaćanje duga do isteka produženog roka važenja bankovne garancije iz članka 46. ovoga Pravilnika, računajući od dana stupanja opoziva bankovne garancije na snagu.

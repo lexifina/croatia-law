@@ -1,0 +1,3 @@
+# Članak 80.
+(1) Ako trošarinski obveznik tijekom tekuće kalendarske godine za koju je ishodio odobrenje za poslovanje u statusu male nezavisne pivovare proizvede količinu piva veću od gornje granice razreda godišnje proizvodnje piva za koju je odobrena snižena visina trošarine, a ne postupi u skladu s člankom 79. stavkom 1. ovoga Pravilnika smatra se da su te veće količine piva nezakonito proizvedene te se trošarina na te količine proizvedenog piva obračunava prema visini propisanoj člankom 60. stavkom 1. Zakona.
+(2) U slučaju iz stavka 1. ovoga članka nadležni carinski ured ukida odobrenje za poslovanje u statusu male nezavisne pivovare.

@@ -1,0 +1,2 @@
+# Članak 174.
+Odredbe članka 3. stavka 4. ovoga Pravilnika u odnosu na strukturu i sadržaj elektroničkih poruka koje se razmjenjuju putem Sustava kontrole kretanja trošarinskih proizvoda te pravila i postupaka kojih se treba pridržavati prilikom razmjene tih poruka, kao i u odnosu na strukturu papirnatih dokumenata koji se koriste u slučaju nedostupnosti računalnog sustava iz članka 15. i 16. Zakona primjenjivat će se na odgovarajući način i u slučaju donošenja novih provedbenih propisa Komisije kojima se mijenja i dopunjuje Uredba Komisije br. 684/2009.

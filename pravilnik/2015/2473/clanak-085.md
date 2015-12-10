@@ -1,0 +1,16 @@
+## XVII. DUHANSKE PRERAĐEVINE
+## Označavanje duhanskih prerađevina markicama
+# Članak 85.
+(1) Duhanske prerađevine moraju biti označene duhanskim markicama Ministarstva financija Republike Hrvatske (u daljnjem tekstu: markice) sukladno članku 78. Zakona.
+(2) Markice moraju imati otisnut broj markice, druge podatke sukladno Zakonu, kao i sljedeće slovne oznake predmeta oporezivanja:
+1. »C« - za cigarete iz članka 71. Zakona
+2. »CR« - za cigare iz članka 72. Zakona
+3. »CL« - za cigarilose iz članka 72. Zakona
+4. »SR« - za sitno rezani duhan za savijanje cigareta iz članka 73. Zakona
+5. »DP« - za ostali duhan za pušenje iz članka 73. Zakona.
+(3) Duhanske prerađevine koje se proizvode u Republici Hrvatskoj, a namijenjene su za probnu proizvodnju i analizu kvalitete, moraju biti označene markicama koje imaju otisnut broj markice i slovo »P«.
+(4) Duhanske prerađevine proizvedene u Republici Hrvatskoj ili unesene iz druge države članice koje se puštaju u potrošnju na teritoriju Republike Hrvatske moraju biti označene markicama s oznakama iz stavka 2. ovoga članka.
+(5) Duhanske prerađevine proizvedene u Republici Hrvatskoj kada se u sustavu odgode plaćanja trošarine otpremaju u drugu državu članicu, uključujući i otpremu uz oslobođenje od plaćanja trošarine sukladno članku 29. Zakona, moraju biti označene markicama koje imaju otisnut broj markice i riječ »EU« ispred slovne oznake predmeta oporezivanja iz stavka 2. ovoga članka.
+(6) Duhanske prerađevine proizvedene u Republici Hrvatskoj kada se u sustavu odgode plaćanja trošarine otpremaju do mjesta na kojem duhanske prerađevine napuštaju teritorij Europske unije moraju biti označene markicama koje imaju otisnut broj markice, riječi »za izvoz« na hrvatskom jeziku ili jednom od stranih jezika i slovo »E« ispred slovne oznake predmeta oporezivanja iz stavka 2. ovoga članka.
+(7) Iznimno, duhanske prerađevine koje otprema ovlašteni držatelj trošarinskog skladišta iz članka 31. Zakona radi prodaje putnicima u izdvojenim prodajnim mjestima trošarinskih skladišta u zračnim lukama koji putuju u drugu državu članicu, odnosno u treću državu ili treći teritorij ne moraju biti označene markicama iz stavka 1. ovoga članka.
+(8) Duhanske prerađevine koje se uvoze radi puštanja u potrošnju u Republici Hrvatskoj prema članku 78. stavku 4. i 5. Zakona moraju biti označene markicama koje imaju otisnut broj markice i slovo »U« ispred slovne oznake predmeta oporezivanja iz stavka 2. ovoga članka.

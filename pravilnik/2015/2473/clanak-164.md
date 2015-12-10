@@ -1,0 +1,7 @@
+## Troškovi provedbe postupka iz članka 50.a i članka 91. stavka 4. Zakona
+# Članak 164.
+(1) Troškovi provedbe postupka iz članka 50.a i članka 91. stavka 4. Zakona odnose se na troškove prikupljanja, čuvanja i prodaje oduzete robe.
+(2) Troškovi prikupljanja oduzete robe se plaćaju sukladno stvarno nastalim troškovima koji se dokazuju računom sa specifikacijom izvršenih usluga od strane fizičke ili pravne osobe koja je izvršila radnje prikupljanja oduzete robe ili prema obračunu sa specifikacijom troškova koji sastavlja područni carinski ured i koji se odnose na radnje prikupljanja oduzete robe koje je neposredno izvršio područni carinski ured.
+(3) Troškovi čuvanja oduzete robe se plaćaju sukladno stvarno nastalim troškovima koji se dokazuju računom sa specifikacijom izvršenih usluga od strane fizičke ili pravne osobe koja je izvršila uslugu čuvanja oduzete robe ili prema obračunu sa specifikacijom troškova koji sastavlja područni carinski ured i koji se odnose na troškove čuvanja oduzete robe koje je neposredno izvršio područni carinski ured, pri čemu područni carinski ured može utvrditi da se troškovi plaćaju u paušalnom iznosu koji ne može biti viši od 100,00 kuna po svakom započetom danu čuvanja.
+(4) Trošak prodaje oduzete robe plaća se u paušalnom iznosu od 200,00 kuna za svako motorno vozilo, plovni objekt, plovilo, drugi motor ili stroj koji se izlaže javnoj prodaji ili internetskoj prodaji (aukciji).
+(5) O određivanju paušalnih iznosa prema ovome članku pročelnik područnog carinskog ureda donosi odluku koja se objavljuje na oglasnoj ploči.

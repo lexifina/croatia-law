@@ -1,0 +1,3 @@
+# Članak 113.
+(1) Plinska ulja u spremniku motornih vozila, plovnih objekata, plovila ili drugih motora ili strojeva smatraju se označenima ako sadrže sredstvo za označavanje iz članka 87. stavka 1. Zakona u bilo kojoj koncentraciji i bez obzira na boju.
+(2) Utvrđivanje prisutnosti indikatora kod izvršenog nadzora iz članka 112. stavka 1. ovoga Pravilnika provodi laboratorij Carinske uprave u skladu s Zajedničkom referentnom metodom za određivanje Euromarkera (Solvent Yellow 124) u plinskim uljima. Ako iz objektivnih razloga nije moguće provesti analize u laboratoriju Carinske uprave, istu će provesti druga stručna ustanova.

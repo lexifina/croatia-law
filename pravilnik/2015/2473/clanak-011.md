@@ -1,0 +1,4 @@
+## Obavijest o namjeravanom primitku/otpremi trošarinskih proizvoda
+# Članak 11.
+(1) Primatelj koji u skladu s člankom 19. stavkom 5. i 6. Zakona prima trošarinske proizvode puštene u potrošnju u drugoj državi članici, kao i prodavatelj ili njegov porezni zastupnik iz članka 20. stavka 3. Zakona podnose nadležnom carinskom uredu Obavijest o namjeravanom primitku trošarinskih proizvoda puštenih u potrošnju u drugoj državi članici na Obrascu O-PP koji je tiskan u Prilogu 7 ovoga Pravilnika i njegov je sastavni dio.
+(2) Pošiljatelj koji u skladu s člankom 19. stavkom 3. i 8. Zakona otprema trošarinske proizvode puštene u potrošnju u Republici Hrvatskoj, kao i prodavatelj iz članka 20. stavka 2. Zakona podnose nadležnom carinskom uredu Obavijest o namjeravanoj otpremi trošarinskih proizvoda puštenih u potrošnju u Republici Hrvatskoj na Obrascu O-OP koji je tiskan u Prilogu 8 ovoga Pravilnika i njegov je sastavni dio.

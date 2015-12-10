@@ -1,0 +1,2 @@
+# Članak 170.
+Držatelji carinskih skladišta koji vrše prodaju duhanskih proizvoda putnicima u izdvojenim prodajnim mjestima carinskih skladišta u zračnim lukama dužni su izvršiti popis (inventura) zaliha sa stanjem na dan 30. lipnja 2013. godine prema vrsti i marki duhanskih proizvoda i dostaviti ga Središnjem uredu sljedećeg radnog dana. Prodaja zaliha domaćih duhanskih proizvoda iz članka 65. stavka 3. Zakona o trošarinama (»Narodne novine«, broj 83/09 i 111/12) moguća je do isteka zaliha, i to samo putnicima koji putuju u treće države ili treće teritorije.

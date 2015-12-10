@@ -1,0 +1,7 @@
+## Usmena javna dražba
+# Članak 149.
+(1) Javna prodaja usmenom javnom dražbom se objavljuje najkasnije osam dana prije dana određenog za javnu prodaju na internetskim stranicama Carinske uprave te po procjeni i u dnevnom tisku.
+(2) Oglas o javnoj prodaji usmenom javnom dražbom obvezno sadrži podatke o mjestu i vremenu javne prodaje, vrsti i stanju oduzete robe, početnoj otkupnoj cijeni, visini jamčevine za sudjelovanje u javnoj prodaji, mjestu i vremenu predviđenom za razgledavanje oduzete robe, uputu o tome gdje se mogu dobiti svi ostali potrebni podaci o predmetnoj javnoj prodaji te drugim podacima bitnim za uspješnu provedbu javne prodaje.
+(3) Razgledavanje oduzete robe namijenjene javnoj prodaji usmenom javnom dražbom vrši se unutar razdoblja od pet dana prije javne prodaje ili istog dana kada se održava javna prodaja. Vrijeme razgledavanja je ograničeno ovisno o broju ponuđene oduzete robe za javnu prodaju i može iznositi od minimalno jednog do maksimalno tri sata.
+(4) Na javnoj prodaji usmenom javnom dražbom mogu sudjelovati sve pravne i fizičke osobe pod uvjetom da uplate oglasom određenu visinu jamčevine koja iznosi 10% početne otkupne cijene oduzete robe. Uplata jamčevine vrši se isključivo uplatom gotovine o čemu područni carinski ured izdaje potvrdu o uplaćenoj jamčevini u tri primjerka, od kojih dva zadržava, a jedan predaje uplatitelju.
+(5) Na javnoj prodaji usmenom javnom dražbom može sudjelovati samo onaj ponuditelj koji prije započinjanja javne prodaje podnese potvrdu o uplaćenoj jamčevini.

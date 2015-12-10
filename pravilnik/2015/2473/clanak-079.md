@@ -1,0 +1,3 @@
+# Članak 79.
+(1) Ako trošarinski obveznik tijekom tekuće kalendarske godine za koju je ishodio odobrenje za poslovanje u statusu male nezavisne pivovare namjerava proizvesti količinu piva veću od gornje granice razreda godišnje proizvodnje piva za koju je odobrena snižena visina trošarine, mora najkasnije osam dana prije početka te proizvodnje podnijeti nadležnom carinskom uredu zahtjev za izmjenom odobrenja.
+(2) Po izvršnosti izmjene odobrenja, proizvođač piva može početi proizvoditi novo odobrene količine piva i na te količine ostvariti pravo na primjenu visine trošarine propisane člankom 66.b stavkom 1. Zakona za odobreni novi razred godišnje proizvodnje piva.
