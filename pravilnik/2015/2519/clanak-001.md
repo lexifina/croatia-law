@@ -1,0 +1,5 @@
+# Članak 1.
+(1) U Pravilniku o obavljanju gospodarskog ribolova na moru okružujućom mrežom plivaricom - srdelarom (»Narodne novine«, br.: 101/2014, 125/2014, 140/2014, 147/2014, 2/2015, 37/2015 i 44/2015) u članku 6. iza stavka (3) dodaju se stavci (4) i (5) koji glase:
+»(4) U slučaju zamjene plovila u povlastici istog vlasnika obavljene u razdoblju od 30. lipnja 2014. godine do 30. studenoga 2014. godine, kao broj ribolovnih dana plovila za koje se traži Odobrenje iz stavka 1. točke 2. ovog članka uzima se broj ribolovnih dana obavljenih starim plovilom u referentnom periodu iz istog stavka.
+(5) Iznimno od stavka (1) točke 2. ovog članka, za plovila čiji su vlasnici prenijeli pravo upisa povlastice u cijelosti ili su prenijeli pravo upisa plivarice srdelare u svoju povlasticu iz druge povlastice u razdoblju od 30. lipnja 2014. godine do 30. studenoga 2014. godine, minimalni broj ribolovnih dana umanjuje se proporcionalno prema broju evidentiranih ribolovnih dana od dana izdavanja povlastice ili od dana upisa plivarice srdelare u povlasticu do dana 30. studenoga 2014. godine.«
+(2) Dosadašnji stavci (4) i (5) postaju stavci (6) i (7).
