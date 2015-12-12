@@ -1,0 +1,2 @@
+# Članak 1.
+U Pravilniku o ortopedskim i drugim pomagalima (»Narodne novine«, broj 7/12., 14/12., 23/12., 25/12., 45/12., 69/12., 85/12., 92/12.-ispravak, 119/12., 147/12., 21/13., 38/13., 93/13., 119/13., 125/13.-ispravak, 129/13., 136/13., 141/13. - ispravak, 154/13., 11/14., 12/14. - ispravak, 22/14. - ispravak, 34/14., 45/14., 54/14., 59/14., 86/14., 92/14., 119/14., 129/14., 149/14., 17/15., 29/15., 41/15., 62/15., 77/15., 86/15. i 124/15.) u Popisu pomagala iz članka 7. stavka 3. iza rednog broja 455 dodaje se redni broj 455a sa sljedećim podacima:
