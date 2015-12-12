@@ -1,0 +1,4 @@
+# Članak 3.
+Članovi Komore su ovlašteni inženjeri građevinarstva, ovlašteni voditelji građenja građevinske struke, ovlašteni voditelji radova građevinske struke i strane osobe građevinske struke s poslovnim nastanom u Republici Hrvatskoj (u daljnjem tekstu: članovi Komore), koji u skladu s posebnim propisima obavljaju poslove regulirane profesije građevinske struke u djelatnosti projektiranja i/ili stručnog nadzora građenja, te građenja.
+Članstvo u Komori je obvezno, i stječe se upisom u odgovarajući imenik Komore u skladu s uvjetima propisanim Zakonom, posebnim zakonima kojima se uređuje djelatnost prostornoga uređenja i gradnje, posebnim zakonom koji uređuje priznavanje inozemnih stručnih kvalifikacija, i ovim Statutom.
+Članstvo u Komori prestaje danom brisanja iz odgovarajućeg imenika Komore.
