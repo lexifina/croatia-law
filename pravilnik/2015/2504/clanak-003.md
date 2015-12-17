@@ -1,0 +1,5 @@
+# Članak 3.
+(1) Obrazovnom programu može pristupiti osoba koja ispunjava uvjete iz članka 5. ovog Pravilnika i podnijela je zahtjev za pohađanje Obrazovnog programa, koji je sastavni dio ovog Pravilnika te je podmirila naknadu i administrativnu pristojbu za pohađanje Obrazovnog programa.
+(2) Agencija prema pravovremeno zaprimljenim zahtjevima za pohađanje Obrazovnog programa utvrđuje listu kandidata koji zadovoljavaju uvjete iz stavka 1. ovog članka i objavljuje je na svojoj internetskoj stranici, objavom šifre kandidata navedenoj u zahtjevu za pohađanje Obrazovnog programa.
+(3) Agencija na svojoj internetskoj stranici objavljuje popis predavača, raspored i sadržaj predavanja te mjesto i vrijeme održavanja predavanja.
+(4) Ako se prema procjeni Agencije ne prijavi dovoljan broj kandidata za pohađanje Obrazovnog programa, Agencija neće provesti Obrazovni program te će o tome, kao i o postupku vraćanja uplaćene naknade i administrativne pristojbe, obavijestiti kandidate i druge zainteresirane osobe putem svoje internetske stranice.
