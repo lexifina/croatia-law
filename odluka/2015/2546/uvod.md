@@ -1,0 +1,1 @@
+Na temelju članka 21. stavka 8. Zakona o morskom ribarstvu (»Narodne novine« br. 81/2013, 14/2014 i 152/2014) i članka 11. Pravilnika o malom obalnom ribolovu (»Narodne novine br. 8/2015, 15/2015, 19/2015, 78/2015 i 107/2015), ministar poljoprivrede donosi
