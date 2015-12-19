@@ -1,0 +1,1 @@
+Na temelju članka 62. stavka 3. Zakona o zaštiti i očuvanju kulturnih dobara (»Narodne novine« br. 69/99, 151/03, 157/03, 87/09, 88/10, 61/11, 25/12, 136/12, 157/13, 152/14 i 98/15 - Uredba), ministar kulture donosi
