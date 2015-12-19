@@ -1,0 +1,3 @@
+# Članak 6.
+(1) Zapovjednik ili čelnik ustrojstvene jedinice u kojoj je ustrojena vojna ordinacija izrađuje i kvartalno ažurira Plan zdravstvene potpore u stacionarnim uvjetima na tiskanici PZP-SU koja se nalazi u prilogu i sastavni je dio ovoga Pravilnika (Prilog 1).
+(2) Plan zdravstvene potpore iz stavka 1. ovoga članka usklađuje se s Planom potreba za zdravstvenom potporom u terenskim uvjetima na razini nadležnog zapovjedništva/granskog nositelja koordinacije i nadzora provedbe zdravstvene potpore. Plan potreba za zdravstvenom potporom u terenskim uvjetima izrađuje se na tiskanici PZP-TU koja se nalazi se u prilogu i sastavni je dio ovoga Pravilnika (Prilog 2).

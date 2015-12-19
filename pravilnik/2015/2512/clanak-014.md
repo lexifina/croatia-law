@@ -1,0 +1,4 @@
+# Članak 14.
+(1) Davatelj je ustrojstvena jedinica u sastavu grana Oružanih snaga, Zapovjedništva za potporu i pristožernih postrojbi Glavnog stožera Oružanih snaga nadležna za poslove zdravstvene potpore koja planira, organizira i dodjeljuje zdravstvene timove za provedbu zdravstvene potpore u skladu s nalozima granskih nositelja koordinacije i nadzora zdravstvene potpore te stručnom procjenom i razmještajem svojih ustrojstvenih elemenata zdravstvene potpore na svom području odgovornosti, a prema odredbama ovoga Pravilnika.
+(2) Sastav zdravstvenog tima za provedbu zdravstvene potpore iz stavka 1. ovoga članka kao i sadržaj opreme zdravstvenog tima i sanitetskog motornog vozila (u daljnjem tekstu: sanitetsko m/v) opisani su u prilogu ovoga Pravilnika i čine njegov sastavni dio (Prilozi 5 i 6).
+(3) Davatelj je obvezan dostaviti nadređenom zapovjedništvu izvješća o provedbi zdravstvene potpore do 10. u tekućem mjesecu za protekli mjesec.

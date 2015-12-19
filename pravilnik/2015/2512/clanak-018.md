@@ -1,0 +1,5 @@
+# Članak 18.
+(1) Kada Davatelj nema mogućnosti provedbe tražene zdravstvene potpore (planirane ili izvanredne), proslijedit će u najkraćem roku zahtjev na daljnje postupanje nadležnom zapovjedništvu, granskom nositelju koordinacije i nadzora zdravstvene potpore.
+(2) Granski nositelj koordinacije i nadzora zdravstvene potpore zahtjev iz stavka 1. ovoga članka prosljeđuje izvangranskom nositelju zdravstvene potpore s ciljem izravne međugranske komunikacije i koordinacije granskih odjela nadležnih za logističku i zdravstvenu potporu.
+(3) U slučaju kada je zahtjev iz stavka 1. ovoga članka izvan trenutne sposobnosti i/ili odgovornosti granskih nositelja koordinacije i nadzora zdravstvene potpore, granski nositelj koordinacije i nadzora zdravstvene potpore iz stavka 2. ovoga članka prosljeđuje predmetni zahtjev nadležnoj ustrojstvenoj jedinici Glavnog stožera.
+(4) Nadležna ustrojstvena jedinica Glavnog stožera na temelju zaprimljenog zahtjeva odredit će Davatelja u skladu s vlastitom stručnom procjenom i raspoloživim kapacitetima zdravstvene potpore Oružanih snaga.

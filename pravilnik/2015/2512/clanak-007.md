@@ -1,0 +1,2 @@
+# Članak 7.
+U slučaju kada jedna vojna ordinacija treba privremeno preuzeti rad drugih ordinacija unutar iste grane ili iz različitih grana odnosno pristožernih postrojbi, zapovjednici ili čelnici granskih ustrojstvenih jedinica u kojima su ustrojene vojne ordinacije obvezni su odrediti privremeno nadležnu ordinaciju uz prethodnu suglasnost ustrojstvene jedinice Glavnog stožera Oružanih snaga nadležne za zdravstvo (u daljnjem tekstu: nadležna ustrojstvena jedinica Glavnog stožera).

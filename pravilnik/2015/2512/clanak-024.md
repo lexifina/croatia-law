@@ -1,0 +1,6 @@
+# Članak 24.
+(1) Zdravstvenu potporu vježbi, obuke i/ili gađanja pješačkim oružjem do kalibra 12,7 mm uključujući i kalibar 12,7 mm provodi zdravstveni tim u sastavu: medicinska sestra - medicinski tehničar, vozač sa sanitetskim m/v. Ako veličina postrojbe koja provodi vježbu, obuku i/ili gađanja prelazi veličinu satnije u sastav zdravstvenog tima uključuje se i doktor medicine.
+(2) Zdravstvenu potporu zadaća i aktivnosti u terenskim uvjetima gdje se upotrebljava oružje kalibra većeg od 12,7 mm, minsko--eksplozivna sredstva i ubojna sredstva provodi zdravstveni tim u sastavu: doktor medicine, medicinska sestra - medicinski tehničar, vozač sa sanitetskim m/v.
+(3) Za provedbu zdravstvene potpore iz stavka 1. ovoga članka, ustrojstvene jedinice grana i pristožernih postrojbi Oružanih snaga mogu koristiti borbenog spasioca iz svog sastava.
+(4) Za provedbu zdravstvene potpore iz stavaka 1. i 2. ovoga članka, postrojbe za specijalna djelovanja koriste borbenog bolničara iz svog sastava.
+(5) Borbeni spasilac iz stavka 3. ovog članka i borbeni bolničar iz stavka 4. ovog članka samostalno provode zdravstvenu potporu samo u slučaju kada je profesionalna medicinska pomoć dostupna unutar jednog sata.

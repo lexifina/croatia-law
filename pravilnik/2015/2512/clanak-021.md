@@ -1,0 +1,3 @@
+# Članak 21.
+(1) Korisnik je prije zahtijevanja zdravstvene potpore za one aktivnosti u terenskim uvjetima koje nisu nabrojane u Prilogu 5 ovoga Pravilnika (sanacija terena, građevinski radovi i sl.) dužan zatražiti stručnu procjenu potrebe, načina i opsega zdravstvene potpore od granskog nositelja koordinacije i nadzora zdravstvene potpore.
+(2) Granski nositelj koordinacije i nadzora zdravstvene potpore donosi stručnu procjenu zdravstvene potpore aktivnosti ovisno o složenosti aktivnosti, lokaciji izvođenja aktivnosti, raspoloživosti zdravstvenih timova Davatelja i dostupnosti kapaciteta civilnog zdravstvenog sustava.
