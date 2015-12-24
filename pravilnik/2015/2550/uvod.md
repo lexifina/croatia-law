@@ -1,0 +1,1 @@
+Na temelju odredbi članka 67. stavka 2., 3. i 5. Zakona o faktoringu (»Narodne novine« br. 94/14 i 85/15), Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća održanoj 11. prosinca 2015. donosi
