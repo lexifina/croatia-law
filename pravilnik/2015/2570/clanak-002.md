@@ -1,0 +1,3 @@
+# Članak 2.
+U članku 13. stavku 3. iza zadnje rečenice dodaje se tekst: »Službenim putovanjem u smislu Zakona i ovoga Pravilnika smatra se putovanje do 30 dana neprekidno. Ako je na službenom putovanju osiguran jedan obrok (ručak ili večera) neoporezivi iznos dnevnice iz stavka 2. točke 13. ovoga članka koji se isplaćuje u novcu umanjuje se za 30% odnosno za 60% ako su osigurana dva obroka (ručak i večera).«.
+U stavku 5. iza zadnje rečenice dodaje se tekst: »Ako je radniku na terenu osiguran jedan obrok (ručak ili večera) neoporezivi iznos terenskog dodatka iz stavka 2. točki 15. i 16. ovoga članka umanjuje se za 30% odnosno za 60% ako su osigurana dva obroka (ručak i večera).«.
