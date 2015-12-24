@@ -1,0 +1,4 @@
+# Članak 1.
+U Pravilniku o postupanju Središnjeg registra osiguranika i mirovinskih društava prema članovima obveznih mirovinskih fondova (»Narodne novine« broj 60/2014) u članku 16. iza stavka 1. dodaje se novi stavak 2. koji glasi:
+»(2) Kada REGOS utvrdi da je pogrešno izvršeno zatvaranje osobnog računa, dužan je u roku od tri radna dana od dana utvrđenja ponovo otvoriti pogrešno zatvoren osobni račun, uspostaviti istovjetan broj obračunskih jedinica na osobnom računu kao i prije zatvaranja te statuse po evidencijama osobnog računa vratiti na stanje prije zatvaranja osobnog računa. Sve ispravljene podatke na osobnom računu REGOS je dužan učiniti dostupnim mirovinskom društvu uključujući i podatke o povratu sredstava prema vrijednosti obračunske jedinice na dan ponovnog otvaranja osobnog računa ako je bilo novčanog tijeka.«
+Dosadašnji stavak 2. postaje stavak 3.
