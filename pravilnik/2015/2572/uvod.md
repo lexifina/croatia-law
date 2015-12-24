@@ -1,0 +1,1 @@
+Na temelju članka 44. stavka 4. Zakona o porezu na dohodak (»Narodne novine«, br. 177/04, 73/08, 80/10, 114/11, 22/12, 144/12, 120/13 - Odluka USRH, 125/13, 148/13, 83/14 - Odluka USRH i 143/14) donosim
