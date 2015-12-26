@@ -1,0 +1,13 @@
+## Društva za osiguranje i društva za reosiguranje
+# Članak 4.
+(1) Društva za osiguranje i društva za iz članka 2. stavka 1. točke 1. ovoga Pravilnika dužna su Agenciji platiti naknadu u visini od
+0,6‰ (tisućinki) računano od iznosa zaračunate bruto premije osiguranja odnosno reosiguranja.
+(2) Naknadu iz stavka 1. ovoga članka društva za osiguranje i društva za reosiguranje izračunavaju na temelju podataka o zaračunatoj bruto premiji za svaki mjesec tekuće godine.
+(3) Društva za osiguranje i društva za reosiguranje naknadu izračunavaju primjenom sljedeće formule:
+Zaračunatu bruto premiju pomnožiti sa 0,6‰ (tisućinki)
+(4) Izračunata naknada iz stavka 3. ovoga članka mjesečni je iznos obveze plaćanja naknade Agenciji, a društva za osiguranje i društva za reosiguranje dužna su je uplatiti do 15. dana u mjesecu za prethodni mjesec.
+(5) Društva za osiguranje odnosno društva za reosiguranje iz druge države članice Europske unije ili države potpisnice Ugovora o Europskom gospodarskom prostoru (dalje u tekstu: država članica) iz članka 83. stavka 1. ZOS-a koja putem slobode pružanja usluga obavljaju poslove osiguranja odnosno poslove reosiguranja u Republici Hrvatskoj dužna su u roku od mjesec dana od dana dostave statističkog izvješća dostavljenog preko svog nadležnog nadzornog tijela, za godinu na koju se izvješće odnosi, platiti godišnju paušalnu naknadu u iznosu od 5.000,00 kuna.
+(6) Društva za osiguranje odnosno društva za reosiguranje iz druge države članice iz članka 83. stavka 2. ZOS-a koja u Republici Hrvatskoj obavljaju poslove osiguranja odnosno poslove reosiguranja putem poslovnog nastana odnosno podružnice osnovane u Republici Hrvatskoj dužna su u roku od mjesec dana od dana dostave statističkog izvješća dostavljenog preko svog nadležnog nadzornog tijela, za godinu na koju se izvješće odnosi, platiti godišnju paušalnu naknadu u iznosu od 20.000,00 kuna.
+(7) Strano društvo za osiguranje koje u Republici Hrvatskoj obavlja poslove osiguranja preko podružnice osnovane u Republici Hrvatskoj dužno je Agenciji platiti godišnju paušalnu naknadu u iznosu od 20.000,00 kuna, u roku od tri mjeseca od dana završetka godine za koju se naknada obračunava.
+(8) Društvo za osiguranje Švicarske Konfederacije koje u Republici Hrvatskoj obavlja poslove osiguranja preko podružnice osnovane u Republici Hrvatskoj dužno je Agenciji platiti godišnju paušalnu naknadu u iznosu od 20.000,00 kuna, u roku od tri mjeseca od završetka godine za koju se naknada obračunava.
+Društva za zastupanje u osiguranju, obrti za zastupanje u osiguranju, društva za posredovanje u osiguranju i reosiguranju i sve druge pravne osobe koje imaju dozvolu za obavljanje poslova zastupanja u osiguranju
