@@ -1,0 +1,1 @@
+Na temelju članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/11 i 119/14), a u vezi s točkom II. Odluke o obavljanju poslova odnosa s javnošću (»Narodne novine«, broj 82/12), Vlada Republike Hrvatske je na sjednici održanoj 30. prosinca 2015. godine donijela

@@ -1,0 +1,1 @@
+Odluka o davanju prethodne suglasnosti društvu Croatia Airlines d.d. za angažiranje fizičke ili pravne osobe za obavljanje poslova odnosa s javnošću za potrebe projekata restrukturiranja i pronalaženja strateškog partnera
