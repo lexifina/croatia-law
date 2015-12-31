@@ -1,0 +1,1 @@
+Na temelju članka 19. stavka 4. Zakona o komori arhitekata i komorama inženjera u graditeljstvu i prostornom uređenju (»Narodne novine«, broj 78/15.), Skupština Hrvatske komore inženjera strojarstva na 5. sjednici održanoj 18. prosinca 2015. godine, donijela je
