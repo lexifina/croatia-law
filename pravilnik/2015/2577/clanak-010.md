@@ -1,0 +1,2 @@
+# Članak 10.
+Doktor koji je sukladno članku 233. Zakona o sigurnosti prometa na cestama dužan obavijestiti policijsku upravu ili postaju u kojoj osoba ima prijavljeno prebivalište o promjeni zdravstvenog stanja koje je zapreka za sigurno upravljanje vozilom, ispunjava obrazac Izvješća o promjeni zdravstvenog stanja ili tijeka liječenja vozača ili kandidata za vozača koji se nalazi u Prilogu II. koji je otisnut uz ovaj Pravilnik i čini njegov sastavni dio.
