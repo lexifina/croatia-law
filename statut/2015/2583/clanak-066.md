@@ -1,0 +1,3 @@
+# Članak 66.
+(1) Danom stupanja na snagu ovoga Statuta predsjednik Komore, Skupština, Upravni odbor, Nadzorni odbor, Vijeća područnih odbora, stegovni tužitelji, suci Stegovnog suda i Višeg stegovnog suda, izabrani i imenovani prema odredbama Statuta Hrvatske komore inženjera elektrotehnike (»Narodne novine« broj 81/2013 i 126/2013), nastavljaju s radom do isteka roka na koji su imenovani.
+(2) Danom stupanja na snagu ovog Statuta prestaju s radom Odbor za upis i Arbitraža koje je imenovala Skupština. Razrješuju se s dužnosti predsjednik Stegovnog i Višeg stegovnog suda, te ostaju članovima svojih tijela do isteka mandata odnosno do isteka roka na koji su imenovani.

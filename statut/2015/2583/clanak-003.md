@@ -1,0 +1,4 @@
+# Članak 3.
+(1) Članovi Komore su ovlašteni inženjeri elektrotehnike, ovlašteni voditelji građenja elektrotehničke struke, ovlašteni voditelji radova elektrotehničke struke i strane osobe elektrotehničke struke s poslovnim nastanom u Republici Hrvatskoj (u daljnjem tekstu: članovi Komore), koji u skladu s posebnim propisima obavljaju poslove regulirane profesije elektrotehničke struke u djelatnosti projektiranja i/ili stručnog nadzora građenja, te građenja.
+(2) Članstvo u Komori je obvezno i stječe se upisom u odgovarajući imenik Komore u skladu s uvjetima propisanim Zakonom, posebnim zakonima kojima se uređuje djelatnost prostornoga uređenja i gradnje, posebnim zakonom koji uređuje priznavanje inozemnih stručnih kvalifikacija i ovim Statutom.
+(3) Članstvo u Komori prestaje danom brisanja iz odgovarajućih imenika Komore.
