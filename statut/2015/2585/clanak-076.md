@@ -1,0 +1,2 @@
+# Članak 76.
+Danom stupanja na snagu Statuta ovlašteni inženjeri strojarstva koji su pravo na projektiranje i/ili stručni nadzor građenja, te strukovne smjerove stekli u skladu s uvjetima propisanim Zakonom o arhitektonskim i inženjerskim poslovima i djelatnostima u prostornom uređenju i gradnji (»Narodne novine« br. 152/08., 124/09., 49/11. i 25/13.) i Statutom Hrvatske komore inženjera strojarstva (»Narodne novine« br. 82/09. i 78/13.), nastavljaju s radom kao osobe koje su pravo na obavljanje stručnih poslova stekle u skladu s člankom 47. Statuta.
