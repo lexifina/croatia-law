@@ -1,0 +1,6 @@
+# Članak 22.
+(1) Ako Agencija ili nadležna inspekcija utvrdi nepravilnosti ili nedostatke, odnosno ako se utvrdi privremena nepravilnost u ispunjavanju uvjeta korištenja proizvodnog postrojenja i/ili proizvodne jedinice na temelju kojih je izdano rješenje o stjecanju statusa povlaštenog proizvođača, Agencija će rješenjem odrediti rok za otklanjanje utvrđenih nepravilnosti ili nedostataka unutar kojeg je fizička ili pravna osoba kojoj je izdano rješenje dužna otkloniti utvrđene nepravilnosti i nedostatke.
+(2) Rok iz stavka 1. ovoga članka ne može biti dulji od tri mjeseca.
+(3) Ako fizička ili pravna osoba kojoj je izdano rješenje iz stavka 1. ovoga članka u utvrđenom roku ne otkloni nepravilnosti ili nedostatke utvrđene rješenjem iz stavka 1. ovoga članka, Agencija će ukinuti rješenje o stjecanju statusa povlaštenog proizvođača za proizvodno postrojenje, odnosno proizvodnu jedinicu za koju su utvrđene nepravilnosti ili nedostaci.
+(4) U slučaju iz stavka 3. ovoga članka kada se radi o proizvodnim postrojenjima ili proizvodnim jedinicama koje se smatraju jednostavnim građevinama, Agencija će fizičkoj ili pravnoj osobi koja ima status povlaštenog proizvođača rješenjem oduzeti status povlaštenog proizvođača.
+(5) Protiv rješenja Agencije iz stavka 1., 3. i 4. ovoga članka nije dopuštena žalba, ali se može pokrenuti upravni spor pred nadležnim upravnim sudom.

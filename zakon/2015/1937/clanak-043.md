@@ -1,0 +1,3 @@
+# Članak 43.
+(1) Operator tržišta električne energije dužan je najmanje jednom godišnje, najkasnije do 31. ožujka tekuće godine, podnijeti Ministarstvu i Agenciji, za prethodnu godinu, izvješće o prikupljanju, obračunu i razdiobi sredstava za isplatu poticaja iz članka 37. stavka 1. točke 1. i 2. ovoga Zakona te o provedbi svojih obveza utvrđenih ovim Zakonom.
+(2) Operator tržišta električne energije dužan je najmanje jednom godišnje, najkasnije do 31. ožujka tekuće godine, izvijestiti javnost o prikupljanju, obračunu i razdiobi sredstava za isplatu poticaja iz članka 37. stavka 1. točke 1. i 2. ovoga Zakona, za prethodnu godinu, objavom na svojim mrežnim stranicama.

@@ -1,0 +1,6 @@
+## VI. MJERE ZA POTICANJE OBNOVLJIVIH IZVORA ENERGIJE I VISOKOUČINKOVITE KOGENERACIJE
+## PROGRAM DRŽAVNIH POTPORA
+# Članak 27.
+(1) Sukladno Smjernicama za državne potpore za zaštitu okoliša i energiju za razdoblje 2014. - 2020. za poticanje proizvodnje električne energije iz obnovljivih izvora za razdoblje od 2014. do 2020. godine Ministarstvo je dužno izraditi program državnih potpora za sustav poticanja sukladno odredbama ovoga Zakona.
+(2) Sukladno Smjernicama za državne potpore za zaštitu okoliša i energiju za razdoblje 2014. - 2020. za poticanje proizvodnje električne energije iz visokoučinkovitih kogeneracija za razdoblje od 2014. do 2020. godine Ministarstvo je dužno izraditi program državnih potpora za sustav poticanja sukladno odredbama ovoga Zakona.
+(3) Republika Hrvatska osigurava da je sva raspoloživa potpora za proizvodnju električne energije iz kogeneracijskih postrojenja uvjetovana time da je proizvedena električna energija podrijetlom iz visokoučinkovite kogeneracije i da se otpadna toplina učinkovito upotrebljava za ostvarivanje ušteda primarne energije. Potpora kogeneraciji, proizvodnji i mrežama za centralizirano grijanje prema potrebi podliježe pravilima o državnim potporama.

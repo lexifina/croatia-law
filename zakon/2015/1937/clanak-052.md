@@ -1,0 +1,7 @@
+## Osnivanje EKO bilančne grupe
+# Članak 52.
+(1) Operator tržišta električne energije dužan je do 30. ožujka 2016. donijeti pravila iz članka 46. stavka 4. ovoga Zakona.
+(2) Operator tržišta električne energije dužan je do 30. lipnja 2016. osigurati tehničke preduvjete za potpuno funkcioniranje EKO bilančne grupe.
+(3) Povlašteni proizvođači za proizvodna postrojenja, odnosno proizvodne jedinice priključne snage preko 30 kW koje na dan stupanja na snagu ovoga Zakona imaju sklopljen valjani ugovor o otkupu električne energije s operatorom tržišta električne energije temeljem Tarifnog sustava za proizvodnju električne energije iz obnovljivih izvora energije i kogeneracije (»Narodne novine«, br. 33/07.), Tarifnog sustava za proizvodnju električne energije iz obnovljivih izvora energije i kogeneracije (»Narodne novine«, br. 63/12., 121/12. i 144/12.) i Tarifnog sustava za proizvodnju električne energije iz obnovljivih izvora energije i kogeneracije (»Narodne novine«, br. 133/13., 151/13., 20/14. i 107/14.), dužni su sklopiti ugovor o članstvu u EKO bilančnoj grupi s operatorom tržišta električne energije najkasnije do 30. lipnja 2016.
+(4) Povlaštenom proizvođaču koji je po odredbama stavka 3. ovoga članka dužan sklopiti ugovor o članstvu u EKO bilančnoj grupi, a ne sklopi ugovor o članstvu u EKO bilančnoj grupi u roku utvrđenom stavkom 3. ovoga članka, raskida se ugovor o otkupu električne energije sklopljen s operatorom tržišta električne energije.
+(5) EKO bilančna grupa započinje s radom najkasnije do 1. siječnja 2017.
