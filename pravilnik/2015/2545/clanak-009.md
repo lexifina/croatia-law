@@ -1,0 +1,6 @@
+## Elementi osiguranja
+# Članak 9.
+(1) Polica osiguranja može pokrivati isključivo štete nastale uslijed gubitka relevantne poljoprivredne proizvodnje koja se odvija na poljoprivrednom gospodarstvu evidentiranom u Upisnik poljoprivrednika, s biljnom proizvodnjom na poljoprivrednom zemljištu evidentiranom u ARKOD sustavu i domaćim životinjama evidentiranim u JRDŽ-u, odnosno odgovarajućem registru sukladno posebnim propisima.
+(2) Prosječna vrijednost relevantne poljoprivredne proizvodnje utvrđuje se prema vrijednostima zabilježenim u knjigovodstvenim izvještajima korisnika u trogodišnjem razdoblju koje prethodi godini osiguranja ili kao prosječna vrijednost trogodišnje proizvodnje u proteklom petogodišnjom razdoblju, ne uzimajući u obzir najveću i najmanju vrijednost.
+(3) U slučaju kada korisnik ne može dokazati prosječnu vrijednost relevantne poljoprivredne proizvodnje, ista se utvrđuje sukladno važećim vrijednostima prosječne proizvodnje koje se koriste u verifikaciji šteta prema Metodologiji za procjenu šteta od elementarnih nepogoda sukladno Zakonu o zaštiti od elementarnih nepogoda (»Narodne novine«, br. 73/97, 174/04).
+(4) Predmet osiguranja nije nadoknada izgubljene dugotrajne imovine, odnosno vrijednost poljoprivrednog potencijala (višegodišnji nasadi, osnovno stado, zemljišni pokrov) već vrijednost proizvodnje (prinos, urod, grlo, kljun, proizvod).
