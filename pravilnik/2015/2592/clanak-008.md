@@ -1,0 +1,8 @@
+## Zabrana zlouporabe poziva na broj 112
+# Članak 8.
+(1) Zabranjena je svaka zlouporaba poziva na broj 112, što osobito obuhvaća sve vrste zlonamjernih ili uznemiravajućih poziva.
+(2) U slučaju utvrđene zlouporabe poziva na broj 112 operatori moraju, na temelju pisanog zahtjeva Centra 112, privremeno isključiti iz elektroničke komunikacijske mreže pretplatničku ili korisničku terminalnu opremu pretplatnika ili korisnika usluga za kojeg se utvrdi počinjenje te zlouporabe, i to u trajanju od sedam dana, uz mogućnost primanja dolaznih poziva u tom razdoblju.
+(3) Ako se utvrdi da je pretplatnik ili korisnik usluga iz stavka 2. ovoga članka ponovno počinio zlouporabu poziva na broj 112, njegova pretplatnička ili korisnička terminalna oprema privremeno će se isključiti iz elektroničke komunikacijske mreže u trajanju od 30 dana, uz mogućnost primanja dolaznih poziva u tom razdoblju.
+(4) Ako se i nakon isteka razdoblja iz stavka 3. ovoga članka utvrdi da je isti pretplatnik ili korisnik usluga ponovno počinio zlouporabu poziva na broj 112, operator će njegovu pretplatničku ili korisničku terminalnu opremu trajno isključiti iz elektroničke komunikacijske mreže te raskinuti pretplatnički odnos, u skladu s općim uvjetima poslovanja.
+(5) Postupak utvrđivanja zlouporabe poziva na broj 112 i način postupanja u slučaju utvrđene zlouporabe poziva na broj 112 pobliže se propisuju naputkom koji donosi čelnik središnjeg tijela državne uprave nadležnog za sustav civilne zaštite, uz prethodnu suglasnost Agencije.
+(6) Primjena mjera iz stavaka 2., 3. i 4. ovoga članka ne isključuje odgovornost pretplatnika ili korisnika usluga u skladu s općim propisima o prekršajnoj i kaznenoj odgovornosti.
