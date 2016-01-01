@@ -1,0 +1,3 @@
+# Članak 16.
+POVLASTICE, IMUNITETI I ODGOVORNOSTI
+Povlastice i imuniteti koje Centar, predstavnici država članica, osoblje i stručnjaci Centra uživaju na državnom području država članica određuju se u Protokolu koji je dodan ovoj Konvenciji i čini njezin sastavni dio, i u sporazumu koji se sklapa između Centra i države na čijem se državnom području nalazi sjedište Centra. Vijeće odobrava taj sporazum djelujući u skladu s člankom 6. (3)(c).

@@ -1,0 +1,4 @@
+# Članak 19.
+1. Bilo koja država članica može otkazati ovu Konvenciju nakon što je ona bila na snazi pet godina, davanjem obavijesti glavnom tajniku Vijeća Europskih zajednica. Otkaz proizvodi učinak na kraju druge financijske godine koja slijedi godinu u kojoj je dana obavijest o otkazu.
+2. Država članica koja je otkazala ovu Konvenciju ostaje u obvezi doprinositi financiranju svih obveza koje je Centar preuzeo prije takvog otkaza te poštivati obveze koje je sama kao država članica ugovorila prema Centru prije otkaza.
+3. Država članica koja je otkazala ovu Konvenciju gubi svoja prava na imovinu Centra i mora Centru nadoknaditi štetu, pod uvjetima koje Vijeće utvrdi djelujući u skladu s člankom 6. (2)(d), za bilo koji gubitak imovine Centra na državnom području takve države, osim ako se ne sklopi poseban sporazum koji Centru jamči uporabu takve imovine.

@@ -1,0 +1,3 @@
+# Članak 3.
+1. U skladu s člankom 13.(3) Konvencije ECMWF-a, Republika Hrvatska platit će jednokratni dodatni doprinos ECMWF-u kao doprinos za prethodna ulaganja u ECMWF-u. To će se plaćanje izvršiti u pet obroka podijeljenih u pet uzastopnih financijskih godina, a svaki obrok treba biti plaćen prije kraja financijske godine u kojoj on dospijeva, počevši s godinom u kojoj je Konvencija stupila na snagu za Republiku Hrvatsku.
+2. Republika Hrvatska počinje plaćati doprinos u godišnji proračun ECMWF-a kao država članica od datuma stupanja na snagu Konvencije ECMWF-a za Republiku Hrvatsku. Stopa doprinosa Republike Hrvatske u proračun ECMWF-a obračunat će se u skladu s člankom 13. Konvencije ECMWF-a.

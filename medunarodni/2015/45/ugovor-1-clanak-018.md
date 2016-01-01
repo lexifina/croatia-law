@@ -1,0 +1,3 @@
+# Članak 18.
+1. Svaka država članica može direktoru podnijeti prijedloge za izmjenu i dopunu ove Konvencije. Direktor prosljeđuje takve prijedloge drugim državama članicama najmanje tri mjeseca prije nego ih razmotri Vijeće. Vijeće razmatra prijedloge i može, djelujući u skladu s člankom 6. (3)(n), preporučiti državama članicama prihvaćanje predloženih izmjena i dopuna.
+2. Države članice mogu prihvatiti izmjene i dopune preporučene od strane Vijeća samo u pisanom obliku. One stupaju na snagu trideset dana nakon što glavni tajnik Vijeća Europskih zajednica primi zadnju pisanu obavijest o prihvatu.

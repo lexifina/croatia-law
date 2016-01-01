@@ -1,0 +1,2 @@
+# Članak 1.
+Republika Hrvatska pristupa Konvenciji o osnivanju Europskog centra za srednjoročne prognoze vremena (u daljnjem tekstu »Konvencija ECMWF-a«), sastavljenoj u Bruxellesu, 11. listopada 1973., uključujući i Protokol o povlasticama i imunitetima Europskog centra za srednjoročne prognoze vremena (u daljnjem tekstu »Protokol o povlasticama i imunitetima«), u skladu s člancima 23. i 24. Konvencije ECMWF-a.
