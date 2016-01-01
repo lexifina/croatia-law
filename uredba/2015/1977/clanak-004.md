@@ -1,2 +1,0 @@
-# Članak 4.
-Na temelju Rješenja korisnik prava na naknadu za ugroženog kupca energenata ima pravo na subvencioniranje troškova električne energije svaki sljedeći mjesec, sve dok mu nadležni centar za socijalnu skrb rješenjem ne utvrdi prestanak prava na naknadu za ugroženog kupca energenata, i to na način da mu nadležni centar za socijalnu skrb izdaje kupon za subvenciju troškova električne energije najkasnije 20-tog u mjesecu za tekući mjesec.
