@@ -1,0 +1,6 @@
+## Primjena standarda financijskog izvještavanja
+# Članak 17.
+(1) Poduzetnik je dužan sastavljati i prezentirati godišnje financijske izvještaje primjenom Hrvatskih standarda financijskog izvještavanja ili Međunarodnih standarda financijskog izvještavanja sukladno odredbama ovoga Zakona.
+(2) Poduzetnici iz članka 5. stavaka 2., 3. i 4. ovoga Zakona te ostali poduzetnici koji se ne mogu razvrstati po kriterijima iz članka 5. ovoga Zakona, dužni su sastavljati i prezentirati godišnje financijske izvještaje primjenom Hrvatskih standarda financijskog izvještavanja.
+(3) Poduzetnici iz članka 5. stavka 5. ovoga Zakona i subjekti od javnog interesa iz članka 3. točke 1. ovoga Zakona dužni su sastavljati i prezentirati godišnje financijske izvještaje primjenom Međunarodnih standarda financijskog izvještavanja.
+(4) Ovisno društvo, odnosno društvo kći koje je obveznik primjene Hrvatskih standarda financijskog izvještavanja, a čije matično društvo sastavlja i prezentira konsolidirane financijske izvještaje primjenom Međunarodnih standarda financijskog izvještavanja, može odlučiti da svoje godišnje financijske izvještaje sastavlja i prezentira primjenom Međunarodnih standarda financijskog izvještavanja.

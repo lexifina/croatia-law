@@ -1,0 +1,8 @@
+## Korištenje podataka iz Registra godišnjih financijskih izvještaja
+# Članak 35.
+(1) Financijska agencija dužna je na pisani zahtjev fizičke ili pravne osobe izdati presliku ili ispis godišnjih financijskih izvještaja, godišnjeg izvješća ili revizorskog izvješća iz članka 30. ovoga Zakona, odnosno njihov izvadak te ispis izvještaja iz članka 32. stavka 1. ovoga Zakona u roku od 15 dana od dana podnošenja urednog zahtjeva.
+(2) Financijska agencija dužna je podatke koji prema zakonu kojim se uređuje porezni postupak čine dio porezne prijave automatski proslijediti Ministarstvu financija, Poreznoj upravi. Smatra se da su ovime poduzetnici i pravne i fizičke osobe iz članka 4. stavka 3. ovoga Zakona podnijeli dio porezne prijave.
+(3) Razmjena podataka između Financijske agencije i tijela državne uprave, drugih državnih tijela, pravnih osoba s javnim ovlastima radi obavljanja poslova iz njihova djelokruga obavlja se bez naknade.
+(4) Financijska agencija dužna je standardne podatke iz Registra godišnjih financijskih izvještaja dati u elektroničkom obliku prikladnom za ponovnu uporabu na zahtjev fizičkim ili pravnim osobama radi korištenja u komercijalne ili nekomercijalne svrhe sukladno zakonu i podzakonskim propisima kojima se uređuje ponovna uporaba informacija.
+(5) Financijska agencija može korisnicima prema posebno definiranome zahtjevu pripremiti podatke iz Registra godišnjih financijskih izvještaja za njihovu vlastitu uporabu ili za komercijalne svrhe.
+(6) Ministar financija će detaljnije pravilnikom urediti sadržaj, uvjete korištenja, opseg podataka i naknadu troškova za isporuku dokumentacije i podataka iz stavaka 1., 2. i 5. ovoga članka.

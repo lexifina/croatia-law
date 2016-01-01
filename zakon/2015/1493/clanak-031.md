@@ -1,0 +1,4 @@
+## Odgovornost za sastavljanje i javnu objavu
+# Članak 31.
+(1) Godišnji financijski izvještaji, odnosno godišnje izvješće koji podliježu reviziji moraju biti objavljeni u obliku i sadržaju na temelju kojeg je revizor formirao svoje mišljenje zajedno s punim tekstom revizorskog izvješća sukladno članku 30. ovoga Zakona. Poduzetnik ne smije objavljivati nerevidirane podatke na način koji bi korisnika objavljenih podataka mogao dovesti u zabludu, odnosno do zaključka kako je riječ o revidiranim podacima.
+(2) Članovi uprave poduzetnika i njegova nadzornog odbora, ako postoji, odnosno izvršni direktori i upravni odbor, odgovorni su da godišnji financijski izvještaji odnosno godišnje izvješće te, ako se sastavljaju, konsolidirani godišnji financijski izvještaji, odnosno konsolidirano godišnje izvješće budu sastavljeni i objavljeni sukladno odredbama ovoga Zakona te su odgovorni za ispravnost pohranjenih isprava.

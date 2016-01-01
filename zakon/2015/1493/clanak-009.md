@@ -1,0 +1,7 @@
+## Sastavljanje knjigovodstvenih isprava
+# Članak 9.
+(1) Knjigovodstvena isprava mora biti vjerodostojna, uredna i sastavljena na način da osigurava pravodobni nadzor. Osoba ovlaštena za zastupanje poduzetnika ili osoba na koju je prenesena ovlast jamči potpisom na knjigovodstvenoj ispravi da je ona vjerodostojna i uredna i ima potreban sadržaj.
+(2) Vjerodostojna knjigovodstvena isprava pisana je isprava ili elektronički zapis čiji sadržaj samostalno ili povezan sa sadržajem drugih vjerodostojnih knjigovodstvenih isprava navedenih u toj ispravi, točno, jasno i potpuno odražava činjenično stanje relevantno za određeni poslovni događaj koji ima za posljedicu knjigovodstvene promjene, te ako je potpisana od osobe koja jamči za njezinu vjerodostojnost.
+(3) Iznimno od stavka 1. ovoga članka, račun koji služi kao knjigovodstvena isprava a izdan je od strane poduzetnika ne mora biti potpisan ako je sastavljen na način koji uređuju porezni propisi te sadržava ime i prezime osobe koja je odgovorna za njegovo izdavanje.
+(4) Knjigovodstvena isprava mora biti takva da stručna osoba može iz nje nedvojbeno spoznati poslovni događaj.
+(5) Poduzetnik je dužan odrediti odgovornu osobu za kontrolu vjerodostojnosti isprava koja će prije unosa podataka iz knjigovodstvene isprave u poslovne knjige, provjeriti ispravnost i potpunost knjigovodstvene isprave te istu potpisati odnosno odobriti na način iz kojeg se može jednoznačno utvrditi njezin identitet.

@@ -1,0 +1,6 @@
+## III. KONTNI PLAN I POSLOVNE KNJIGE
+## Kontni plan
+# Članak 11.
+(1) Jedinstveni okvirni kontni plan obuhvaća razrede i skupine konta te sintetička konta koja se primjenjuju u svrhu bilježenja knjigovodstvenih promjena, uključujući i njihove numeričke i slovne oznake i izvanbilančnih računa, od kojih svi moraju biti raspoređeni u skladu sa zahtjevima koji se primjenjuju za pripremu financijskih izvještaja. Jedinstveni okvirni kontni plan donosi i mijenja Odbor za standarde financijskog izvještavanja svojom odlukom te ga objavljuje u »Narodnim novinama«.
+(2) Kontni plan poduzetnika mora biti sastavljen tako da osigurava podatke za odvojene i konsolidirane financijske izvještaje te mora biti u skladu s propisanim okvirnim kontnim planom. Poduzetnik može, ako je to potrebno, proširiti kontni plan tijekom poslovne godine. Ako se popis konta ne mijenja s prvim danom novog izvještajnog razdoblja, poduzetnik može nastaviti koristiti se kontnim planom koji je primjenjivao i u prethodnom izvještajnom razdoblju.
+(3) Odredbe stavka 1. i 2. ovoga članka ne primjenjuju se na poduzetnike čije poslovanje je uređeno posebnim propisima, a kojima kontni plan propisuju nadzorna tijela ovlaštena za nadzor poslovanja tih poduzetnika.

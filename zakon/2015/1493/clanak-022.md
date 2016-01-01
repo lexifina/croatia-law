@@ -1,0 +1,12 @@
+## Izjava o primjeni kodeksa korporativnog upravljanja
+# Članak 22.
+Subjekti od javnog interesa dužni su u godišnje izvješće uključiti izjavu o primjeni kodeksa korporativnog upravljanja kao poseban odjeljak godišnjeg izvješća koji mora sadržavati barem:
+1. informacije, ako je primjenjivo:
+a) o kodeksu korporativnog upravljanja koji poduzetnik mora primjenjivati
+b) o kodeksu korporativnog upravljanja koji poduzetnik dobrovoljno primjenjuje
+c) sve relevantne informacije o primijenjenim mjerama korporativnog upravljanja koje nisu zahtijevane zakonskim propisima. Za kodekse korporativnog upravljanja na koje se poziva, poduzetnik mora navesti i gdje su oni javno dostupni. Ako poduzetnik primjenjuje mjere korporativnog upravljanja koje nisu zahtijevane zakonskim propisima mora ih javno objaviti
+2. ako poduzetnik u skladu sa zakonskim propisima odstupa od obveznog ili dobrovoljno prihvaćenog kodeksa korporativnog upravljanja, dužan je navesti dijelove kodeksa korporativnog upravljanja od kojih odstupa te objasniti razloge za odstupanje. Ako poduzetnik odluči ne navesti odredbe obveznog ili dobrovoljno prihvaćenog kodeksa korporativnog upravljanja dužan je obrazložiti razloge zbog kojih tako postupa
+3. opis glavnih elemenata poduzetnikova sustava unutarnje kontrole i upravljanja rizikom u odnosu na postupak financijskog izvještavanja
+4. podatke o značajnim neposrednim i posrednim imateljima dionica u društvu, uključujući posredno držanje dionica u piramidalnim strukturama i uzajamnim udjelima, imateljima vrijednosnih papira s posebnim pravima kontrole i opisom tih prava, ograničenjima prava glasa kao što su ograničenja prava glasa na određeni postotak ili broj glasova, vremenska ograničenja za ostvarenje prava glasa ili slučajevi u kojima su u suradnji s društvom financijska prava iz vrijednosnih papira odvojena od držanja tih papira, pravilima o imenovanju i opozivu imenovanja članova uprave, odnosno izvršnih direktora, odnosno nadzornog, odnosno upravnog odbora i izmjeni statuta, o ovlastima članova uprave, odnosno izvršnih direktora, odnosno nadzornog, odnosno upravnog odbora posebice o ovlastima da izdaju dionice društva ili stječu vlastite dionice
+5. opis načina rada glavne skupštine te njezina ovlaštenja, prava dioničara te kako se njihova prava realiziraju ako ove informacije nisu javno dostupne u zakonskim propisima
+6. sastav i rad izvršnih, upravljačkih i nadzornih tijela i njihovih odbora.
