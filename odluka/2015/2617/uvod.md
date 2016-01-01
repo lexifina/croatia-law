@@ -1,0 +1,1 @@
+Na temelju članka 124. stavka 2. Uredbe (EU) br. 575/2013 (SL, L 176, 27. 6. 2013. i L 208, 2. 8. 2013.), članka 11. stavka 1. Zakona o kreditnim institucijama (»Narodne novine«, br. 159/2013., 19/2015. i 102/2015.) te članka 43. stavka 2. točke 9. Zakona o Hrvatskoj narodnoj banci (»Narodne novine«, br. 75/2008. i 54/2013.) guverner Hrvatske narodne banke donosi
