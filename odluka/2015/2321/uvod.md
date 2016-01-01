@@ -1,0 +1,1 @@
+Na temelju članka 30. stavka 3. Poslovnika Vlade Republike Hrvatske (»Narodne novine«, br. 154/11, 121/12, 7/13 i 61/15), a u vezi s člancima 5. i 15. Zakona o proračunu (»Narodne novine«, br. 87/08, 136/12 i 15/15), Vlada Republike Hrvatske je na sjednici održanoj 5. studenoga 2015. godine donijela
