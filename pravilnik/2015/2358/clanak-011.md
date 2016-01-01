@@ -1,0 +1,3 @@
+# Članak 11.
+(1) U list A uloška glavne knjige upisnika jahti u gradnji upisuju se: oznaka jahte u gradnji; materijal od kojeg se jahta gradi; glavne izmjere (duljina trupa, najveća širina, visina na boku); mjesto i država gradnje, naziv brodogradilišta i godina gradnje; datum i sat postavljanja kobilice, odnosno kojeg drugog dijela čije postavljanje odgovara fazi postavljanja kobilice; te broj praćenja gradnje izdan od priznate organizacije.
+(2) U list A uloška glavne knjige upisnika jahti u gradnji pored podataka iz stavka 1. ovoga članka mogu se upisati i drugi podaci iz članka 9. ovog Pravilnika koji se odnose na jahtu u gradnji.

@@ -1,0 +1,3 @@
+# Članak 14.
+(1) U list A uloška glavne knjige upisnika plutajućih objekata u gradnji i upisnika nepomičnih odobalnih objekata u gradnji upisuju se: oznaka objekta; broj praćenja gradnje izdan od ovlaštene organizacije, datum i sat početka gradnje, vrsta objekta; materijal gradnje; mjesto, graditelj i godina gradnje.
+(2) U list A uloška glavne knjige upisnika plutajućih objekata u gradnji i upisnika nepomičnih odobalnih objekata u gradnji pored podataka iz stavka 1. ovoga članka mogu se upisati i drugi podaci iz članka 12. i 13. ovog Pravilnika koji se odnose na plutajuće objekte u gradnji i nepomične odobalne objekte u gradnji.

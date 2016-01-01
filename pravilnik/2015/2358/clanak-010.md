@@ -1,0 +1,3 @@
+# Članak 10.
+(1) U list A uloška glavne knjige upisnika brodova u gradnji upisuju se: oznaka broda u gradnji; tip broda u gradnji; materijal od kojeg se brod gradi; glavne izmjere (duljina preko svega, najveća širina, visina na sredini); najveća nosivost broda; mjesto i država gradnje, naziv brodogradilišta i godina gradnje; datum i sat postavljanja kobilice, odnosno kojeg drugog dijela broda čije postavljanje odgovara fazi postavljanja kobilice, te broj praćenja gradnje izdan od priznate organizacije.
+(2) U list A uloška glavne knjige upisnika brodova u gradnji pored podataka iz stavka 1. ovoga članka, mogu se upisati i drugi podaci iz članka 7. i članka 8. ovog Pravilnika koji se odnose na brod u gradnji.
