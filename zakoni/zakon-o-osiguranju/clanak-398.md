@@ -1,0 +1,4 @@
+## Pružanje informacija u izvanrednoj situaciji
+# Članak 398.
+(1) U izvanrednoj situaciji, uključujući izvanrednu situaciju kako je navedeno u članku 18. Uredbe (EU) br. 1094/2010, Agencija, bez odgađanja, dostavlja informacije središnjim bankama ESSB-a, uključujući ESB, ako su te informacije relevantne za obavljanje njihovih zakonom propisanih zadaća, uključujući provođenje monetarne politike i povezano osiguranje likvidnosti, nadzor platnog prometa, sustava za poravnanje i namiru te očuvanje stabilnosti financijskog sustava, te ESRB-u, ako su te informacije relevantne za obavljanje njegovih zadaća.
+(2) Institucije ili tijela iz stavka 1. ovoga članka mogu također dostaviti Agenciji one informacije koje joj mogu biti potrebne u smislu članka 397. stavka 5. ovoga Zakona. Informacije primljene u tom kontekstu podliježu odredbama o obvezi čuvanja poslovne tajne koja je utvrđena u ovom odjeljku.

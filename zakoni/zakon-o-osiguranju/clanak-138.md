@@ -1,0 +1,5 @@
+## Kapitalni zahtjev za operativni rizik
+# Članak 138.
+(1) Kapitalni zahtjev za operativni rizik odražava operativne rizike u mjeri u kojoj nisu odraženi u modulima rizika iz članka 135. stavka 1. ovoga Zakona. Taj se zahtjev kalibrira u skladu s člankom 131. stavkom 3. ovoga Zakona.
+(2) Kod ugovora o životnom osiguranju kod kojih rizik ulaganja snosi ugovaratelj osiguranja, izračun kapitalnog zahtjeva za operativni rizik uzima u obzir iznos godišnjih troškova koji su nastali u vezi s obvezama iz tih ugovora o osiguranju.
+(3) S obzirom na poslove osiguranja i poslove reosiguranja koji nisu navedeni u stavku 2. ovoga članka, izračun kapitalnog zahtjeva za operativni rizik uzima u obzir opseg tih poslova, u smislu zarađenih premija i tehničkih pričuva koje se odnose na obveze iz tih ugovora o osiguranju, odnosno ugovora o reosiguranju. U navedenom slučaju kapitalni zahtjev za operativni rizik ne smije prelaziti 30 % osnovnog potrebnog solventnog kapitala koji se odnosi na te poslove osiguranja i poslove reosiguranja.

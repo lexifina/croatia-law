@@ -1,0 +1,11 @@
+## Odbijanje zahtjeva za izdavanje odobrenja za stjecanje kvalificiranog udjela
+# Članak 41.
+(1) Agencija će donijeti rješenje kojim će odbiti zahtjev za izdavanje odobrenja za stjecanje kvalificiranog udjela ako:
+1. ocijeni da primjerenost ili financijsko stanje stjecatelja kvalificiranog udjela ne zadovoljava kriterije iz članka 40. ovoga Zakona
+2. iz pravnog, odnosno financijskog položaja namjeravanog stjecatelja kvalificiranog udjela ili zbog djelatnosti, odnosno poslova koje obavlja namjeravani stjecatelj kvalificiranog udjela ili s njime usko povezane osobe, ili zbog postupaka koje je namjeravani stjecatelji kvalificiranog udjela činio proizlazi da bi moglo biti ugroženo poslovanje društva za osiguranje
+3. bi zbog djelatnosti ili poslova koje obavlja budući stjecatelj kvalificiranog udjela moglo biti onemogućeno ili znatno otežano obavljanje nadzora nad poslovanjem društva za osiguranje
+4. je stjecatelj kvalificiranog udjela dostavio netočne ili nepotpune podatke ili podatke koji dovode u zabludu, a ti su podaci bili značajni za procjenu
+5. ako postoji osnovana sumnja na pranje novca ili financiranje terorizma.
+(2) Agencija će donijeti rješenje kojim će odbiti zahtjev za izdavanje odobrenja za stjecanje kvalificiranog udjela osobi iz treće države ako bi, uzimajući u obzir propise države te osobe, odnosno uzimajući u obzir praksu države te osobe glede primjene i izvršavanja propisa, obavljanje nadzora u skladu s ovim Zakonom moglo biti onemogućeno, odnosno bitno otežano te zbog razloga propisanih stavkom 1. ovoga članka.
+(3) Ako se Agencija, nakon završetka procjene, odluči usprotiviti namjeravanom stjecanju, o tome će u pisanom obliku obavijestiti namjeravanog stjecatelja i navesti razloge za to u roku od dva dana, a prije kraja isteka razdoblja procjene i na taj način, a prije donošenja rješenja na temelju stavka 1. ovoga članka, odnosno stavka 2. ovoga članka namjeravanom stjecatelju odrediti rok u kojemu se može pisano očitovati o razlozima Agencije za protivljenje njegovu stjecanju kvalificiranog udjela u društvu za osiguranje.
+Ukidanje ili poništenje rješenja o odobrenju za stjecanje kvalificiranog udjela i pravne posljedice stjecanja kvalificiranog udjela bez odobrenja nadzornog tijela

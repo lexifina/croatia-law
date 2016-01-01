@@ -1,0 +1,5 @@
+## Osobne okolnosti spola kod izračuna premije osiguranja
+# Članak 8.
+(1) Društvo za osiguranje ne smije pri sklapanju novog ugovora o osiguranju prilikom izračuna premija i određivanja osiguranog iznosa uzeti u obzir osobne okolnosti spola. Iznimno, društvo za osiguranje može kod ugovora o osiguranju na grupnoj osnovi uzeti u obzir osobne okolnosti spola kod izračuna premije i određivanja osiguranog iznosa, ako to ne dovodi do razlikovanja na pojedinačnoj osnovi. Društvo za osiguranje može uzeti u obzir faktor spola za izračun tehničkih pričuva i unutarnje određivanje cijene, za određivanje cijena reosiguranja, za promidžbu, kao i za procjenu rizika iz skupine životnih osiguranja i vrste osiguranja iz članka 7. stavka 2. točka 1. i 2. ovoga Zakona, odnosno osiguranja od nezgode i zdravstvenog osiguranja.
+(2) Za ugovore o osiguranju sklopljene prije 1. srpnja 2013. dopušteno je razlikovanje na pojedinačnoj osnovi na temelju osobnih okolnosti spola, ako je društvo za osiguranje kod određivanja premije i osiguranog iznosa uzelo u obzir osobne okolnosti spola.
+(3) Agencija će detaljnije pravilnikom propisati način primjene stavaka 1. i 2. ovoga članka.

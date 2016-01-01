@@ -1,0 +1,5 @@
+## Matično društvo koje pokriva nekoliko država članica
+# Članak 302.
+(1) Kada Agencija može donijeti odluku iz članka 301. stavka 1. ovoga Zakona, ovlaštena je donijeti odluku i o sklapanju sporazuma s nadzornim tijelima u drugim državama članicama kada na razini Republike Hrvatske postoji drugo povezano krajnje matično društvo, s ciljem provođenja nadzora grupe na razini podgrupe koja pokriva nekoliko država članica.
+Kada Agencija i nadležna nadzorna tijela sklope takav sporazum, nadzor grupe se ne obavlja na razini bilo kojeg krajnjeg matičnog društva iz članka 301. ovoga Zakona koje postoji u državama članicama koje nisu država članica u kojoj se nalazi podgrupa. U tom slučaju Agencija i nadležna nadzorna tijela objašnjavaju svoj sporazum nadzornom tijelu grupe i krajnjem matičnom društvu na razini Europske unije. Nadzorno tijelo grupe obavješćuje kolegij nadzornih tijela u skladu s člankom 330. stavkom 1. točkom 1. ovoga Zakona.
+(2) Odredbe članka 301. stavaka 2. – 6. ovoga Zakona primjenjuju se na odgovarajući način.

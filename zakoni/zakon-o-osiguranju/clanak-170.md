@@ -1,0 +1,11 @@
+## Promjene i dodatne dobrovoljne informacije
+# Članak 170.
+(1) U slučaju bilo kakve veće promjene koja značajno utječe na relevantnost informacija objavljenih u skladu s odredbama članaka 168. i 169. ovoga Zakona, društvo za osiguranje objavljuje odgovarajuće informacije o prirodi i učincima navedene promjene.
+(2) U smislu odredbe iz stavka 1. ovoga članka većim promjenama smatra se najmanje sljedeće:
+1. ako se utvrdi postojanje neusklađenosti s minimalnim potrebnim kapitalom i ako Agencija smatra da društvo za osiguranje neće moći dostaviti realan kratkoročni financijski plan ili ako Agencija ne zaprimi takav plan u roku od mjesec dana od dana kad je utvrđeno postojanje neusklađenosti
+2. ako se utvrdi postojanje značajne neusklađenosti s potrebnim solventnim kapitalom i ako Agencija ne primi realan plan oporavka u roku od dva mjeseca od dana kad je utvrđeno postojanje neusklađenosti.
+(3) Agencija zahtijeva od društva za osiguranje da u slučaju neusklađenosti:
+1. iz stavka 2. ovoga članka odmah objavi iznos neusklađenosti, zajedno s objašnjenjem njezinih uzroka i posljedica, uključujući bilo kakve poduzete mjere za poboljšanje stanja
+2. s minimalnim potrebnim kapitalom iz stavka 2. točke 1. ovoga članka, usprkos tome što se kratkoročni financijski plan u početku smatrao realnim, neusklađenost nije riješena tri mjeseca nakon što je utvrđeno njezino postojanje, tu neusklađenost objavi na kraju tog razdoblja, zajedno s objašnjenjem njezinih uzroka i posljedica, uključujući bilo kakve poduzete mjere za poboljšanje stanja, kao i daljnje planirane mjere za poboljšanje stanja
+3. s potrebnim solventnim kapitalom iz stavka 2. točke 2. ovoga članka, usprkos tome što se plan oporavka u početku smatrao realnim, značajna neusklađenost nije riješena šest mjeseci nakon što je utvrđeno njezino postojanje, tu neusklađenost objavi na kraju tog razdoblja, zajedno s objašnjenjem njezinih uzroka i posljedica, uključujući bilo kakve poduzete mjere za poboljšanje stanja, kao i daljnje planirane mjere za poboljšanje stanja.
+(4) Društvo za osiguranje može dobrovoljno objaviti bilo koju informaciju ili objašnjenje o svojoj solventnosti i financijskom stanju, čija objava nije obvezna prema stavcima 1. – 3. ovoga članka i člancima 168. i 169. ovoga Zakona.

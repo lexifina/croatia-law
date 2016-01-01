@@ -1,0 +1,10 @@
+## Financijski zahtjevi za podružnice društava za osiguranje iz trećih država
+# Članak 80.
+(1) Društvo za osiguranje iz treće države koje obavlja poslove osiguranja preko podružnice u Republici Hrvatskoj dužno je oblikovati odgovarajuće tehničke pričuve za pokriće obveza osiguranja i obveze reosiguranja preuzetih u Republici Hrvatskoj i izračunatih u skladu s člancima 106. – 120. ovoga Zakona.
+(2) Društvo za osiguranje iz treće države koje obavlja poslove osiguranja preko podružnice u Republici Hrvatskoj dužno je vrednovati imovinu i obveze u skladu s člankom 105. ovoga Zakona i utvrđivati vlastita sredstva u skladu s člancima 121. – 129. ovoga Zakona.
+(3) Podružnica društva za osiguranje iz treće države u Republici Hrvatskoj mora raspolagati iznosom prihvatljivih vlastitih sredstava koja se sastoje od stavki iz članka 128. stavka 1. ovoga Zakona.
+(4) Podružnica društva za osiguranje iz treće države u Republici Hrvatskoj mora izračunavati potrebni solventni kapital u skladu s odredbama članaka 130. – 156. ovoga Zakona i minimalni potrebni kapital u skladu s odredbama članaka 157., 158. i 459. ovoga Zakona, a prilikom čijeg izračunavanja za životno i neživotno osiguranje u obzir uzima samo poslove koje je obavila.
+(5) Prihvatljivi iznos osnovnih vlastitih sredstava potreban za pokriće minimalnog potrebnog kapitala i apsolutnog praga tog minimalnog potrebnog kapitala oblikuje se u skladu s člankom 129. stavkom 1. ovoga Zakona.
+(6) Prihvatljivi iznos osnovnih vlastitih sredstava ne smije biti manji od polovine apsolutnog praga iz članka 158. stavka 1. točke 4. ovoga Zakona.
+(7) Podružnica društva za osiguranje iz treće države mora depozit položen u skladu s člankom 78. stavkom 2. točkom 4. ovoga Zakona izračunavati u odnosu na ta prihvatljiva osnovna vlastita sredstva za pokriće minimalnog potrebnog kapitala.
+(8) Podružnica društva za osiguranje iz treće države mora imati vlastita sredstva u Republici Hrvatskoj najmanje u visini minimalnog potrebnog kapitala, a višak sredstava do visine potrebnog solventnog kapitala u drugim državama članicama.

@@ -1,0 +1,14 @@
+## Obavljanje djelatnosti zastupanja u osiguranju u stanicama za tehnički pregled vozila
+# Članak 419.
+(1) Stanica za tehnički pregled vozila je mjesto gdje se obavlja djelatnost od općeg interesa, kako je propisano Zakonom o sigurnosti prometa na cestama.
+(2) Poslove pripreme i sklapanja ugovora o osiguranju u stanicama za tehnički pregled vozila može obavljati samo društvo za zastupanje u osiguranju koje je dobilo dozvolu Agencije za obavljanje poslova zastupanja u osiguranju u stanici za tehnički pregled vozila.
+(3) Društva za osiguranje mogu poslove pripreme i sklapanja ugovora o osiguranju u stanicama za tehnički pregled vozila obavljati samo preko društva za zastupanje u osiguranju iz stavka 2. ovoga članka.
+(4) Na izdavanje dozvole iz stavka 2. ovoga članka primjenjuju se odredbe članka 420. ovoga Zakona.
+(5) Stanica za tehnički pregled vozila, u smislu ovoga Zakona, je nekretnina, odnosno više nekretnina koje su međusobno povezane tako da predstavljaju jednu cjelinu u kojoj ovlaštena osoba obavlja tehnički pregled i registraciju vozila.
+(6) Fizička ili pravna osoba koja ima pravo dati u zakup dio prostora na stanici za tehnički pregled iz stavka 5. ovoga članka mora omogućiti društvu za zastupanje u osiguranju iz stavka 2. ovoga članka prostor za obavljanje djelatnosti zastupanja u osiguranju.
+(7) Ako osoba iz stavka 6. ovoga članka ne omogući prostor za obavljanje djelatnosti zastupanja u osiguranju iz stavka 6. ovoga članka, u stanici za tehnički pregled vozila iz stavka 5. ovoga članka ne smije se obavljati djelatnost zastupanja u osiguranju.
+(8) Poslove zastupanja u osiguranju iz stavka 2. ovoga članka društvo za zastupanje u osiguranju dužno je obavljati pod istim uvjetima za sva zainteresirana društva za osiguranje.
+(9) Na poslove zastupanja u osiguranju i zastupnika u osiguranju društva za zastupanje u osiguranju iz stavka 2. ovoga članka ne primjenjuje se zabrana pripreme i sklapanja ugovora o osiguranju za proizvode osiguranja koji međusobno konkuriraju iz članka 399. i članka 400. stavka 2. ovoga Zakona.
+(10) Poslove zastupanja u osiguranju iz stavka 2. ovoga članka društvo za zastupanje u osiguranju može obavljati samo u vrstama osiguranja iz članka 7. stavka 2. točaka 1., 3., 7., 10., 17. i 18. ovoga Zakona, a u dozvoli za obavljanje zastupanja Agencija će navesti vrste osiguranja u kojima društvo za zastupanje u osiguranju može na stanici za tehnički pregled vozila obavljati poslove zastupanja u osiguranju.
+(11) Agencija će pravilnikom propisati tehničke i organizacijske uvjete za obavljanje poslova zastupanja u osiguranju iz stavaka 2. i 6. ovoga članka.
+(12) U slučaju obavljanja poslova zastupanja u osiguranju u stanici za tehnički pregled protivno odredbama ovoga Zakona odgovorno je društvo za osiguranje čiji se ugovori o osiguranju sklapaju i društvo za zastupanje u osiguranju u čije se ime i za čiji račun obavljaju ti poslovi zastupanja u osiguranju.

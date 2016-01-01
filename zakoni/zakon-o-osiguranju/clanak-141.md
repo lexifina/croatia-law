@@ -1,0 +1,4 @@
+## Značajna odstupanja od pretpostavki na kojima se temelji izračun prema standardnoj formuli
+# Članak 141.
+(1) Kad nije primjereno izračunavati potrebni solventni kapital u skladu sa standardnom formulom zbog toga što profil rizičnosti društva za osiguranje značajno odstupa od pretpostavki na kojima se temelji izračun prema standardnoj formuli, Agencija može od društva za osiguranje zahtijevati da podskup parametara koji se upotrebljavaju u izračunu prema standardnoj formuli zamijeni parametrima koji su specifični za to društvo za osiguranje prilikom izračuna modula preuzetog rizika životnog, neživotnog i zdravstvenog osiguranja.
+(2) Specifični parametri društva za osiguranje iz stavka 1. ovoga članka izračunavaju se na način koji osigurava da je predmetno društvo usklađeno s člankom 131. stavkom 3. te s člankom 135. stavcima 7. i 8. ovoga Zakona.

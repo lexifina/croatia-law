@@ -1,0 +1,5 @@
+## Ekstrapolacija relevantne vremenske strukture bezrizičnih kamatnih stopa
+# Članak 110.
+(1) Određivanje relevantne vremenske strukture bezrizičnih kamatnih stopa iz članka 108. stavka 1. ovoga Zakona koristi i u skladu je s informacijama koje proizlaze iz odgovarajućih financijskih instrumenata. Prilikom navedenog određivanja uzimaju se u obzir relevantni financijski instrumenti s dospijećima kada su tržišta za te financijske instrumente, uključujući obveznice, duboka, likvidna i transparentna.
+(2) Za dospijeća kada tržišta za relevantne financijske instrumente, uključujući obveznice, više nisu duboka, likvidna i transparentna, relevantna vremenska struktura bezrizičnih kamatnih stopa se ekstrapolira.
+(3) Ekstrapolirani dio relevantne vremenske strukture bezrizičnih kamatnih stopa temelji se na terminskim kamatnim stopama koje glatko konvergiraju od jedne ili više terminskih kamatnih stopa, vezanih uz najdulja dospijeća relevantnih financijskih instrumenata, uključujući obveznice, na dubokom, likvidnom i transparentnom tržištu, do konačne terminske kamatne stope.

@@ -1,0 +1,7 @@
+## Provizija
+# Članak 428.
+(1) Društvo za zastupanje u osiguranju, odnosno zastupnik u osiguranju nema pravo od ugovaratelja osiguranja, odnosno osiguranika zahtijevati plaćanje provizije ili bilo kakvu drugu naplatu.
+(2) Društvo za posredovanje u osiguranju i reosiguranju, odnosno posrednik u osiguranju i reosiguranju nema pravo od ugovaratelja osiguranja, ugovaratelja reosiguranja, odnosno osiguranika zahtijevati plaćanje provizije ili kakvu drugu naplatu osim ako nije ugovorom s ugovarateljem osiguranja, odnosno s ugovarateljem reosiguranja izričito pismeno drukčije ugovoreno.
+(3) Društvo za posredovanje u osiguranju i reosiguranju, odnosno posrednik u osiguranju i reosiguranju pravo na proviziju stječe početkom važenja ugovora o osiguranju, odnosno ugovora o reosiguranju.
+(4) Ako je ugovorom s ugovarateljem osiguranja, odnosno s ugovarateljem reosiguranja iz stavka 2. ovoga članka izričito pisano ugovoreno da društvo za posredovanje u osiguranju i reosiguranju, odnosno posrednik u osiguranju i reosiguranju ima pravo na proviziju ili bilo kakvu drugu naplatu, nema pravo od društva za osiguranje zahtijevati proviziju ili bilo kakvu drugu naplatu po istom ugovoru o osiguranju, odnosno ugovoru o reosiguranju u kojima je posredovao.
+(5) Društvo za posredovanje u osiguranju i reosiguranju, odnosno posrednik u osiguranju i reosiguranju ne smije se naknadno dogovoriti o promjeni načina obračuna, odnosno o visini provizije za sklopljene ugovore o osiguranju, odnosno ugovore o reosiguranju u kojima je posredovao.

@@ -1,0 +1,8 @@
+## Izvješće o solventnosti i financijskom stanju grupe
+# Članak 336.
+(1) Sudjelujuće društvo za osiguranje i društvo za reosiguranje, osigurateljni holding i mješoviti financijski holding javno objavljuje jedanput godišnje izvješće o solventnosti i financijskom stanju na razini grupe, u skladu s Uredbom (EU) br. 2015/35 i drugim propisima Europske komisije kojima se uređuje objavljivanje informacija koje se odnose na izvješće o solventnosti i financijskom stanju. Članci 168. – 171. ovoga Zakona primjenjuju se na odgovarajući način.
+(2) Sudjelujuće društvo za osiguranje, osigurateljni holding ili mješoviti financijski holding mogu, ovisno o odobrenju Agencije kao nadzornog tijela grupe, dostaviti jedinstveno izvješće o solventnosti i financijskom stanju, u skladu s Uredbom (EU) br. 2015/35 i drugim propisima Europske komisije kojima se uređuje objavljivanje informacija koje se odnose na izvješće o solventnosti i financijskom stanju, koje će obuhvatiti sljedeće:
+1. informacije na razini grupe koje je potrebno objaviti u skladu sa stavkom 1. ovoga članka
+2. informacije za bilo koje od društava kćeri u grupi koje moraju biti pojedinačno prepoznatljive i moraju biti objavljene u skladu s člancima 168. – 171. ovoga Zakona.
+(3) Prije izdavanja suglasnosti iz stavka 2. ovoga članka, Agencija kao nadzorno tijelo grupe savjetuje se s članovima kolegija nadzornih tijela i uzima u obzir njihova stajališta i ograničavajuće uvjete.
+(4) Kad u izvješće iz stavka 2. ovoga članka nisu uključene informacije koje Agencija, ako je dala odobrenje za obavljanje poslova osiguranja društvu kćeri unutar grupe, zahtijeva od usporedivih društava i kad je taj propust značajan, Agencija može zahtijevati od predmetnog društva kćeri da objavi potrebne dodatne informacije.

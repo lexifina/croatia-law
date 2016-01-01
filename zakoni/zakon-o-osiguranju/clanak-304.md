@@ -1,0 +1,6 @@
+## Učestalost izračunavanja
+# Članak 304.
+(1) Sudjelujuće društvo za osiguranje ili osigurateljni holding ili mješoviti financijski holding provodi izračune iz članka 303. stavaka 2. i 3. ovoga Zakona najmanje jednom godišnje.
+Odgovarajuće podatke za izračun i rezultate tog izračuna dostavlja Agenciji kao nadzornom tijelu grupe sudjelujuće društvo za osiguranje ili, ako grupa nije predvođena društvom za osiguranje, osigurateljni holding ili mješoviti financijski holding ili društvo u grupi koje utvrdi Agencija kao nadzorno tijelo grupe nakon savjetovanja s drugim nadležnim nadzornim tijelima i samom grupom.
+(2) Društvo za osiguranje, osigurateljni holding i mješoviti financijski holding kontinuirano nadziru potrebni solventni kapital grupe. Ako profil rizičnosti grupe značajno odstupa od pretpostavki na kojima se temelji posljednji prijavljeni potrebni solventni kapital grupe, potrebni solventni kapital grupe se bez odgađanja ponovo izračunava te se Agenciji kao nadzornom tijelu grupe podnosi izvješće o rezultatu tog izračuna.
+Ako postoje dokazi koji ukazuju da se profil rizičnosti grupe značajno izmijenio od datuma kada je potrebni solventni kapital grupe posljednji put prijavljen, Agencija kao nadzorno tijelo grupe može zahtijevati ponovni izračun potrebnog solventnog kapitala grupe.

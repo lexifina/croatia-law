@@ -1,0 +1,7 @@
+## Odbijanje revizorskog izvješća
+# Članak 199.
+(1) Ako isto revizorsko društvo obavi reviziju financijskih izvještaja društva za osiguranje suprotno članku 196. ili 197. ovoga Zakona, Agencija neće prihvatiti izvješće o reviziji financijskih izvještaja društva za osiguranje za tu godinu.
+(2) Ako Agencija utvrdi da revizija financijskih izvještaja nije obavljena ili da revizorsko izvješće nije sastavljeno u skladu s ovim Zakonom, propisima donesenim na temelju ovoga Zakona, zakona kojim se uređuje revizija i pravilima revizorske struke ili ako obavljenim nadzorom poslovanja društva za osiguranje ili na drugi način utvrdi da revizorsko mišljenje o financijskim izvještajima društva za osiguranje iz članka 194. ovoga Zakona nije zasnovano na istinitim i objektivnim činjenicama, ona može odbiti revizorsko izvješće i zahtijevati od društva za osiguranje da reviziju obave ovlašteni revizori drugog revizorskog društva, a na trošak društva za osiguranje.
+(3) Odbijanje revizorskog izvješća o obavljenoj reviziji financijskih izvještaja društva za osiguranje ima za posljedicu odbijanje ocjene iz članka 200. ovoga Zakona.
+(4) U slučaju iz stavka 3. ovoga članka Agencija neće sljedeće dvije kalendarske godine prihvaćati revizorsko izvješće o obavljenoj reviziji financijskih izvještaja koje je izdalo isto revizorsko društvo.
+(5) Agencija će pravilnikom propisati razloge za odbijanje revizorskog izvješća iz stavka 2. ovoga članka.

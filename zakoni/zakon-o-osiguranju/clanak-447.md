@@ -1,0 +1,5 @@
+## Prekršaji društva za zastupanje u osiguranju i društva za posredovanje u osiguranju i reosiguranju iz druge države članice
+# Članak 447.
+(1) Novčanom kaznom u iznosu od 150.000,00 do 250.000,00 kuna kaznit će se za prekršaj društvo za zastupanje u osiguranju iz druge države članice ako obavlja poslove zastupanja u osiguranju na području Republike Hrvatske prije isteka mjesec dana od dana primitka obavijesti nadzornog tijela iz članka 436. stavka 3. ovoga Zakona.
+(2) Novčanom kaznom u iznosu od 150.000,00 do 250.000,00 kuna kaznit će se za prekršaj društvo za posredovanje u osiguranju i reosiguranju iz druge države članice ako obavlja poslove posredovanja u osiguranju i reosiguranju na području Republike Hrvatske prije isteka mjesec dana od dana primitka obavijesti nadzornog tijela iz članka 436. stavka 1. ovoga Zakona.
+(3) Novčanom kaznom u iznosu od 15.000,00 do 50.000,00 kuna kaznit će se za prekršaj iz stavaka 1. i 2. ovoga članka i odgovorna osoba društva za zastupanje u osiguranju, odnosno društva za posredovanje u osiguranju i reosiguranju.

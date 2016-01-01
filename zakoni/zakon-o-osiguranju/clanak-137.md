@@ -1,0 +1,5 @@
+## Izračun podmodula rizika vlasničkih vrijednosnih papira: mehanizam simetrične prilagodbe
+# Članak 137.
+(1) Podmodul rizika vlasničkih vrijednosnih papira izračunat u skladu sa standardnom formulom mora uključivati simetričnu prilagodbu u izračun kapitalnih zahtjeva za pokriće rizika koji proizlazi iz promjena u razini cijena vlasničkih vrijednosnih papira.
+(2) Simetrična prilagodba stope za izračun kapitalnog zahtjeva za vlasničke vrijednosne papire izračunatog u skladu sa standardnom formulom, kalibriranog u skladu s člankom 135. stavkom 4. ovoga Zakona, koji pokriva rizik koji proizlazi iz promjena u razini cijena vlasničkih vrijednosnih papira, temelji se na funkciji sadašnje razine odgovarajućeg dioničkog indeksa i ponderiranog prosjeka razine tog indeksa. Ponderirani prosjek izračunava se tijekom odgovarajućeg razdoblja koje je jednako za sva društva za osiguranje.
+(3) Simetrična prilagodba stope za izračun kapitalnog zahtjeva za vlasničke vrijednosne papire izračunatog u skladu sa standardnom formulom smije rezultirati povećanjem ili smanjenjem stope za izračun navedenog kapitalnog zahtjeva za najviše 10 postotnih bodova.

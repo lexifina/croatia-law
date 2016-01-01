@@ -1,0 +1,3 @@
+## Kvalificirani udjeli: ovlasti Agencije
+# Članak 45.
+Ako Agencija utvrdi da osoba koja je stekla kvalificirani udjel u društvu za osiguranje odnosno društvu za reosiguranje ili osobe koje su kvalificirani udjel stekle zajednički, djeluju na to društvo suprotno pravilima poslovanja društva za osiguranje odnosno društva za reosiguranje, odredit će primjerenu mjeru kako bi okončala takvo postupanje, uključujući i zabranu korištenja prava glasa na glavnoj skupštini društva za osiguranje odnosno društva za reosiguranje ili prodaju dionica društva za osiguranje odnosno društva za reosiguranje koje su u vlasništvu te osobe, odnosno osoba.

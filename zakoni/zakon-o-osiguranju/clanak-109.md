@@ -1,0 +1,5 @@
+## Dodatak za rizik
+# Članak 109.
+(1) Dodatak za rizik mora biti takav da je vrijednost tehničkih pričuva istovjetna s iznosom koji bi društvo za osiguranje zahtijevalo za preuzimanje i ispunjavanje obveza iz ugovora o osiguranju, odnosno ugovora o reosiguranju.
+(2) Dodatak za rizik mora se izračunavati tako da se odredi trošak raspolaganja prihvatljivim vlastitim sredstvima koja su jednaka solventnom kapitalu potrebnom za ispunjenje obveza iz ugovora o osiguranju, odnosno ugovora o reosiguranju tijekom trajanja tih obveza u skladu s Uredbom (EU) br. 2015/35.
+(3) Stopa koja se upotrebljava u određivanju troška raspolaganja prihvatljivim vlastitim sredstvima, odnosno stopa troška kapitala, jednaka je za sva društva za osiguranje. Stopa troška kapitala jednaka je dodatnoj stopi iznad odgovarajuće bezrizične kamatne stope koju bi imalo društvo za osiguranje kako bi raspolagalo prihvatljivim vlastitim sredstvima iz poglavlja III. ove glave Zakona koja su jednaka solventnom kapitalu potrebnom za ispunjenje obveza iz ugovora o osiguranju, odnosno ugovora o reosiguranju tijekom trajanja tih obveza.

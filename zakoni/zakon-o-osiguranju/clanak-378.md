@@ -1,0 +1,7 @@
+## Pritužbe i prigovori zainteresiranih osoba
+# Članak 378.
+(1) Zainteresirane osobe iz članka 375. točaka 1. i 2. ovoga Zakona imaju pravo podnijeti pritužbu društvu za osiguranje u odnosu na pružanje usluga osiguranja, odnosno u odnosu na izvršenje obveza iz ugovora o osiguranju, a zainteresirane osobe iz članka 375. točke 3. ovoga Zakona imaju pravo podnijeti prigovor društvu za osiguranje u izvansudskom postupku rješavanja sporova.
+(2) Društvo za osiguranje dužno je odgovoriti na pritužbu, odnosno prigovor iz stavka 1. ovoga članka u roku od 15 dana od dana zaprimanja pritužbe, odnosno prigovora.
+(3) Ako zainteresirana osoba iz stavka 1. ovoga članka smatra da društvo za osiguranje ili osobe koje obavljaju poslove zastupanja u osiguranju ili posredovanja u osiguranju i reosiguranju ne postupaju u skladu sa svojim obvezama, mogu o tome podnijeti predstavku Agenciji.
+(4) Agencija će provjeriti navode iz predstavke iz stavka 4. ovoga članka i postupiti u skladu sa svojim ovlastima, a kad utvrdi da ne postoje uvjeti za pokretanje postupka po službenoj dužnosti, obavijestit će o tome podnositelja predstavke što je prije moguće, a najkasnije u roku od 30 dana od završene provjere navoda iz predstavke.
+(5) Agencija je ovlaštena u okviru svojih nadležnosti nad društvima za osiguranje i osobama koje obavljaju poslove zastupanja u osiguranju odnosno poslove posredovanja u osiguranju i reosiguranju provjeravati pridržavaju li se dobrih poslovnih običaja i pravila struke.

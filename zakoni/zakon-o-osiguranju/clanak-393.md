@@ -1,0 +1,9 @@
+## Preispitivanje mjera dugoročnih garancija i mjera za rizik vlasničkih vrijednosnih papira
+# Članak 393.
+Agencija je dužna u razdoblju do 1. siječnja 2021. jedanput godišnje EIOPA-i dostaviti sljedeće informacije:
+1. dostupnost dugoročnih garancija u osigurateljnim proizvodima i ponašanje društava za osiguranje kao dugoročnih ulagatelja
+2. broj društava za osiguranje koja primjenjuju prilagodbu za uravnoteženje, prilagodbu za volatilnost, produljenje razdoblja oporavka u skladu s člankom 165. stavcima 7. – 11. ovoga Zakona i prijelazne mjere utvrđene člancima 455. i 456. ovoga Zakona
+3. utjecaj prilagodbe za uravnoteženje, prilagodbe za volatilnost, mehanizam simetrične prilagodbe za izračun kapitalnog zahtjeva za vlasničke vrijednosne papire i prijelaznih mjera na financijski položaj društava za osiguranje u skladu s člancima 455. i 456. ovoga Zakona, anonimno za svako pojedino društvo
+4. učinak prilagodbe za uravnoteženje, prilagodbe za volatilnost i mehanizam simetrične prilagodbe za izračun kapitalnog zahtjeva za vlasničke vrijednosne papire na investicijsko ponašanje društava za osiguranje te je li učinak navedenih prilagodbi na smanjenje kapitalnih zahtjeva pretjeran
+5. učinak svakog produljenja razdoblja oporavka u skladu s člankom 165. stavcima 7. – 11. ovoga Zakona na napore društava za osiguranje da ponovno dosegnu razinu prihvatljivih vlastitih sredstava za pokriće potrebnog solventnog kapitala ili da smanje profil rizičnosti radi postizanja usklađenosti s potrebnim solventnim kapitalom
+6. kada društvo za osiguranje primijeni prijelazne mjere utvrđene člancima 455. i 456. ovoga Zakona, jesu li one usklađene s planovima postupnog uvođenja iz članka 457. ovoga Zakona i očekivanjima za smanjenu ovisnost o tim prijelaznim mjerama, uključujući mjere koje su društvo i Agencija poduzeli ili se očekuje da će poduzeti.

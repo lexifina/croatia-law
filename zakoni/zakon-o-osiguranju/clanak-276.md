@@ -1,0 +1,4 @@
+## Objava rješenja o početku postupka likvidacije u »Službenom listu Europske unije«
+# Članak 276.
+(1) Rješenje o oduzimanju odobrenja za obavljanje poslova osiguranja i pokretanju postupka likvidacije društva za osiguranje sa sjedištem u Republici Hrvatskoj Agencija će objaviti na svojoj mrežnoj stranici i u »Narodnim novinama«, a izreku rješenja objavit će u »Službenom listu Europske unije«. Na isti će način postupiti nadležno nadzorno tijelo druge države članice u slučaju oduzimanja dozvole za obavljanje poslova osiguranja društvu za osiguranje koje ima sjedište u toj državi članici, a podružnicu u Republici Hrvatskoj.
+(2) Na postupak likvidacije društva za osiguranje sa sjedištem u Republici Hrvatskoj koje ima podružnicu u drugoj državi članici primjenjuju se pravni propisi Republike Hrvatske.

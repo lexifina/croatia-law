@@ -1,0 +1,4 @@
+## Uvjetno ukidanje rješenja o odobrenju za obavljanje poslova osiguranja
+# Članak 247.
+(1) Rješenjem o ukidanju odobrenja za obavljanje poslova osiguranja Agencija može ujedno odlučiti da se ukidanje odobrenja za obavljanje poslova osiguranja neće provesti ako u roku koji odredi Agencija društvo za osiguranje otkloni razloge zbog kojih se odobrenje ukida, odnosno ako ne počini nove nezakonitosti i nepravilnosti zbog kojih se može ukinuti odobrenje za obavljanje poslova osiguranja.
+(2) Agencija će ukinuti rješenje iz stavka 1. ovoga članka ako u roku iz tog rješenja društvo za osiguranje ne otkloni razloge zbog kojih se odobrenje ukida, odnosno ako počini nove nezakonitosti i nepravilnosti zbog kojih se odobrenje može ukinuti i donijeti rješenje o ukidanju odobrenja za obavljanje poslova osiguranja.

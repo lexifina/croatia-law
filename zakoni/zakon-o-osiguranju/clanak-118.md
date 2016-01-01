@@ -1,0 +1,4 @@
+## Kvaliteta podataka i primjena približnih vrijednosti, uključujući pristupe u kojima se razmatra svaki slučaj posebno, u izračunu tehničkih pričuva
+# Članak 118.
+(1) Društvo za osiguranje dužno je uspostaviti unutarnje procese i procedure za osiguranje primjerenosti, potpunosti i točnosti podataka koje upotrebljava pri izračunu svojih tehničkih pričuva, u skladu s Uredbom (EU) br. 2015/35.
+(2) Ako u posebnim okolnostima društvo za osiguranje nema dovoljno podataka primjerene kvalitete za primjenu pouzdane aktuarske metode za izračun obveza iz ugovora o osiguranju, odnosno ugovora o reosiguranju ili iznosa naplativih na temelju ugovora o reosiguranju i od subjekata posebne namjene, društvo za osiguranje može pri izračunu najbolje procjene koristiti primjerene približne vrijednosti, uključujući pristupe u kojima se razmatra svaki slučaj posebno, u skladu s Uredbom (EU) br. 2015/35.

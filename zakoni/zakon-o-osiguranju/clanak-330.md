@@ -1,0 +1,22 @@
+## Prava i dužnosti nadzornog tijela grupe i drugih nadzornih tijela na kolegiju nadzornih tijela
+# Članak 330.
+(1) Prava i dužnosti dodijeljeni nadzornom tijelu grupe iz članka 329. ovoga Zakona s obzirom na nadzor grupe obuhvaćaju sljedeće:
+1. koordiniranje prikupljanja i razmjene informacija u okviru redovitog poslovanja i u izvanrednim situacijama, uključujući razmjenu informacija koje su važne za obavljanje nadzornih zadataka nadležnih nadzornih tijela država članica
+2. nadzorni pregled i procjenu financijskog stanja grupe
+3. procjenu usklađenosti grupe s pravilima o solventnosti, koncentraciji rizika i unutargrupnim transakcijama u skladu s člancima 303. – 327. ovoga Zakona
+4. procjenu sustava upravljanja grupe, u skladu s člankom 328. ovoga Zakona, te ispunjavanje uvjeta vezanih uz poslovno iskustvo i ugled članova uprave i nadzornog odbora sudjelujućeg društva te drugih osoba koje upravljaju sudjelujućim društvom ili imaju druge ključne funkcije kako je određeno u člancima 51., 59. i 93. te članku 338. ovoga Zakona
+5. planiranje i koordiniranje nadzornih aktivnosti u redovitom poslovanju i u izvanrednim situacijama putem redovitih sastanaka koji se održavaju barem jednom godišnje ili putem drugih odgovarajućih sredstava, u suradnji s nadležnim nadzornim tijelima država članica i uzimajući u obzir prirodu, opseg i složenost rizika prisutnih u poslovanju svih društava koja su dio grupe
+6. ostale zadatke, mjere i odluke koji su dodijeljeni nadzornom tijelu grupe ovim Zakonom ili proizlaze iz primjene ovoga Zakona, posebno postupak validacije svakog unutarnjeg modela na razini grupe u skladu s člancima 316. i 318. ovoga Zakona i postupak za primjenu sustava iz članaka 321. – 324. ovoga Zakona.
+(2) Nadzorno tijelo grupe predsjeda kolegiju nadzornih tijela.
+(3) Ako nadzorno tijelo grupe ne izvrši zadatke iz stavka 1. ovoga članka ili ako članovi kolegija nadzornih tijela ne surađuju u mjeri u kojoj se zahtijeva stavcima 2. i 5. ovoga članka, bilo koje nadležno nadzorno tijelo može uputiti predmet EIOPA-i i zatražiti njezinu pomoć u skladu s člankom 19. Uredbe (EU) br. 1094/2010.
+(4) Članstvo kolegija nadzornih tijela obuhvaća nadzorno tijelo grupe, nadzorna tijela svih država članica u kojima se nalaze sjedišta svih društava kćeri i EIOPA-u u skladu s člankom 21. Uredbe (EU) br. 1094/2010. Nadzorna tijela značajnih podružnica, definiranih u skladu s Uredbom (EU) br. 2015/35, i povezanih društava mogu sudjelovati u kolegiju nadzornih tijela, ali njihovo sudjelovanje je ograničeno na postizanje cilja učinkovite razmjene informacija.
+(5) Kolegij nadzornih tijela osigurava da se suradnja, razmjena informacija i postupci savjetovanja između nadzornih tijela koja su članovi kolegija nadzornih tijela učinkovito obavljaju u skladu s ovom glavom Zakona, radi promicanja usklađivanja njihovih odluka i aktivnosti. Učinkovito funkcioniranje kolegija nadzornih tijela može zahtijevati da neke aktivnosti obavlja manji broj nadzornih tijela unutar kolegija.
+(6) Osnivanje i funkcioniranje kolegija nadzornih tijela temelji se na koordinacijskim sporazumima koje su sklopili nadzorno tijelo grupe i druga nadležna nadzorna tijela.
+Ako postoje različita mišljenja o koordinacijskim sporazumima, bilo koji član kolegija nadzornih tijela može uputiti predmet EIOPA-i i zatražiti njezinu pomoć u skladu s člankom 19. Uredbe (EU) br. 1094/2010. Agencija kao nadzorno tijelo grupe donosi svoju konačnu odluku u skladu s odlukom EIOPA-e te dostavlja odluku drugim nadležnim nadzornim tijelima.
+(7) Koordinacijski sporazumi iz stavka 6. ovoga članka pobliže propisuju postupke za:
+1. odlučivanje između nadležnih nadzornih tijela u skladu s odredbama članaka 316., 317. i 329. ovoga Zakona
+2. savjetovanje iz stavka 6. ovoga članka i iz članka 303. stavka 5. ovoga Zakona.
+U koordinacijskim sporazumima mogu biti navedeni postupci za:
+1. savjetovanje između nadležnih nadzornih tijela, posebno kako je navedeno u odredbama članaka 298. – 302., članaka 304. – 306., članka 312., članaka 326. – 328., članka 332., članka 336., članka 340. i članka 342. ovoga Zakona
+2. suradnju s drugim nadzornim tijelima.
+Koordinacijskim sporazumima mogu se povjeriti dodatni zadaci nadzornom tijelu grupe, drugim nadzornim tijelima ili EIOPA-i kada bi rezultat toga bio učinkovitiji nadzor grupe i kada se time ne bi narušavale nadzorne aktivnosti članova kolegija nadzornih tijela s obzirom na njihove pojedinačne odgovornosti.

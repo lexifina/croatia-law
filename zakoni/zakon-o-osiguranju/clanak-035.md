@@ -1,0 +1,2 @@
+# Članak 35.
+Ukinuto rješenje o odobrenju za obavljanje poslova osiguranja odnosno poslova reosiguranja društvu za osiguranje odnosno društvu za reosiguranje iz druge države članice koja ima podružnicu u Republici Hrvatskoj, a koju izdaje nadležno nadzorno tijelo države članice ima neposredni učinak na području Republike Hrvatske, jednak učinku ukidanja odobrenja za obavljanje poslova osiguranja odnosno poslova reosiguranja društvu za osiguranje odnosno društvu za reosiguranje prema ovom Zakonu, bez posebnog postupka priznanja i izvršenja.

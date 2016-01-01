@@ -1,0 +1,8 @@
+## Društvo za reosiguranje iz treće države
+# Članak 83.
+(1) Društvo za reosiguranje iz treće države može na području Republike Hrvatske obavljati poslove reosiguranja putem poslovnog nastana.
+(2) Odredbe ovoga Zakona koje se odnose na društvo za osiguranje iz treće države koje na području Republike Hrvatske obavlja poslove osiguranja preko podružnice na odgovarajući se način primjenjuju i na društvo za reosiguranje iz treće države koje obavlja poslove reosiguranja.
+(3) Iznimno od stavka 1. ovoga članka, društvo za reosiguranje iz treće države može na području Republike Hrvatske obavljati poslove reosiguranja putem slobode pružanja usluga ako je režim regulatornog sustava solventnosti treće države utvrđen od strane Europske komisije u skladu s Uredbom (EU) br. 2015/35 i drugim propisima Europske komisije kojima se uređuje istovjetnost u vezi s društvima za reosiguranje iz treće države, istovjetan s regulatornim sustavom solventnosti određenim ovim Zakonom.
+(4) Ugovori o reosiguranju sklopljeni s društvima za reosiguranje iz treće države, pod uvjetom da je režim solventnosti istovjetan ili privremeno istovjetan s režimom propisanim ovim Zakonom iz stavka 3. ovoga članka, na isti se način tretiraju kao ugovori o reosiguranju s društvima za reosiguranje iz Republike Hrvatske, odnosno druge države članice.
+(5) Društvo za reosiguranje iz treće države ne smije biti stavljeno u povoljniji položaj u odnosu na društvo za reosiguranje iz Republike Hrvatske, odnosno druge države članice.
+(6) Društvo za reosiguranje koje sklapa ugovore o reosiguranju ograničenog rizika dužno je pravilno utvrđivati, mjeriti, pratiti, upravljati, nadzirati i izvješćivati o rizicima koji proizlaze iz tih ugovora.

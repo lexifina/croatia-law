@@ -1,0 +1,12 @@
+## Djelatnost društva za osiguranje, odnosno društva za reosiguranje
+# Članak 20.
+(1) Društvo za osiguranje mora ograničiti svoje ciljeve na poslove osiguranja i poslove koji izravno proizlaze iz osiguranja, pri čemu su isključene sve druge poslovne djelatnosti osim poslova reosiguranja ako za obavljanje tih poslova društvo za osiguranje ima odobrenje Agencije.
+(2) Društvo za reosiguranje mora ograničiti svoje ciljeve na poslove reosiguranja i povezane poslove i poslove koji izravno proizlaze iz reosiguranja, pri čemu su isključene sve druge poslovne djelatnosti osim funkcije holdinga i djelatnosti u vezi s djelatnostima financijskog sektora u skladu sa zakonom kojim se uređuje dodatna supervizija financijskih konglomerata.
+(3) Društvo za osiguranje smije obavljati samo poslove osiguranja i poslove reosiguranja u vrsti osiguranja za koje ima prethodno odobrenje Agencije za obavljanje poslova osiguranja, odnosno poslova reosiguranja.
+(4) Financijski izvještaji društva za osiguranje koje ima odobrenje za obavljanje poslova neživotnog osiguranja i društva za osiguranje koje ima odobrenje za obavljanje poslova životnog osiguranja, a koja imaju međusobnu financijsku, poslovnu ili upravljačku povezanost ne smiju biti iskrivljeni sporazumima koji postoje između tih društava ili bilo kakvim drugim sporazumima koji bi mogli utjecati na raspodjelu troškova i prihoda.
+(5) Odobrenje za određenu vrstu osiguranja obuhvaća sve rizike unutar te vrste osiguranja, osim ako je odobrenje za obavljanje poslova osiguranja podneseno samo za pojedine rizike koji pripadaju određenoj vrsti osiguranja i u tom slučaju izdaje se odobrenje za obavljanje poslova osiguranja za pojedini rizik.
+(6) U okviru poslova iz ovoga članka društvo za osiguranje može obavljati i:
+1. poslove nuđenja udjela investicijskih fondova te poslove ponude mirovinskih programa dobrovoljnih mirovinskih fondova i mirovinskih osiguravajućih društava sukladno odredbama zakona kojima se uređuje nuđenje udjela investicijskih fondova i ponuda mirovinskih programa
+2. poslove zastupanja u osiguranju za druga društva za osiguranje sukladno članku 399. ovoga Zakona
+3. poslove koji su u neposrednoj ili posrednoj vezi s poslovima osiguranja.
+(7) Iznimno od stavka 1. ovoga članka, društvo za osiguranje može obavljati i poslove za druga društva u grupi društava za osiguranje, ali samo u slučaju ako isti ne povećavaju rizik za grupu i društvo za osiguranje i samo one vrste poslova koji su dio poslovanja društva za osiguranje u okviru njegove osnovne djelatnosti.

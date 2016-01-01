@@ -1,0 +1,4 @@
+## Politika u vezi s izmjenama potpunih i djelomičnih unutarnjih modela
+# Članak 145.
+(1) U okviru početnog postupka za izdavanje odobrenja za uporabu unutarnjeg modela Agencija odobrava politiku u vezi s izmjenama modela društva za osiguranje koja uključuje specifikaciju manjih i većih izmjena unutarnjeg modela. Društvo za osiguranje može mijenjati svoj unutarnji model u skladu s tom politikom.
+(2) Za veće izmjene unutarnjeg modela, kao i za izmjene te politike, potrebno je dobiti prethodno odobrenje Agencije iz članka 143. ovoga Zakona koje se izdaje u skladu s propisima Europske komisije kojima se uređuju postupci za odobrenje većih izmjena unutarnjeg modela. Za manje izmjene unutarnjeg modela nije potrebno dobiti prethodno odobrenje Agencije ako su te izmjene uvedene u skladu s predmetnom politikom.

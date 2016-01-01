@@ -1,0 +1,4 @@
+## Povezane kreditne institucije, investicijska društva i financijske institucije
+# Članak 313.
+(1) Prilikom izračunavanja solventnosti grupe društva za osiguranje koje je sudjelujuće društvo u kreditnoj instituciji, investicijskom društvu ili financijskoj instituciji sudjelujuća društva za osiguranje mogu primjenjivati metodu konsolidacije ili alternativnu metodu u skladu sa zakonom kojim se uređuje dodatna supervizija financijskih konglomerata na odgovarajući način. Metoda konsolidacije primjenjuje se samo kad se Agencija kao nadzorno tijelo grupe uvjerila u razinu integriranog upravljanja i unutarnje kontrole subjekata koji bi bili uključeni u konsolidaciju. Odabrana metoda primjenjuje se stalno i dosljedno.
+(2) Agencija kao nadzorno tijelo grupe može, na zahtjev sudjelujućeg društva ili na vlastitu inicijativu, oduzeti bilo koje sudjelovanje kako je navedeno u stavku 1. ovoga članka od vlastitih sredstava prihvatljivih za solventnost grupe sudjelujućeg društva.

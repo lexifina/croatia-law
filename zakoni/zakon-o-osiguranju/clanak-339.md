@@ -1,0 +1,7 @@
+## Provedbene mjere
+# Članak 339.
+(1) Kad društvo za osiguranje ili društvo za reosiguranje u grupi ne ispunjava zahtjeve predviđene člancima 303. – 328. ovoga Zakona ili u slučaju kad su zahtjevi ispunjeni, ali unatoč tome solventnost može biti ugrožena ili u slučaju kad unutargrupne transakcije ili koncentracije rizika ugrožavaju financijski položaj društava za osiguranje, Agencija je dužna donijeti mjere koje su nužne kako bi se stanje što prije popravilo:
+1. ako je nadzorno tijelo grupe u slučaju osigurateljnih holdinga ili mješovitih financijskih holdinga
+2. ako je nadležno nadzorno tijelo u slučaju društava za osiguranje i društava za reosiguranje.
+(2) Kad u slučaju iz stavka 1. ovoga članka Agencija kao nadzorno tijelo grupe nije jedno od nadzornih tijela države članice u kojoj je sjedište osigurateljnog holdinga, mješovitog financijskog holdinga ili društva za osiguranje, odnosno društva za reosiguranje, Agencija kao nadzorno tijelo grupe obavješćuje ta nadzorna tijela o svojim nalazima kako bi im omogućila da donesu potrebne mjere, u skladu s propisima Europske komisije kojima se uređuju provedbene mjere.
+(3) Agencija i nadzorna tijela usko surađuju kako bi osigurala učinkovitost sankcija ili mjera, u odnosu na osigurateljne holdinge, mješovite financijske holdinge ili osobe koje stvarno upravljaju tim društvima, u slučaju kršenja zakona i drugih propisa, posebno ako središnja uprava ili glavne jedinice osigurateljnog holdinga ili mješovitog financijskog holdinga nisu u istoj državi članici kao njihovo sjedište.

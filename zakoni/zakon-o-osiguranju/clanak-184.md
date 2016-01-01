@@ -1,0 +1,6 @@
+## Odvajanje ulaganja u vrijednosne papire
+# Članak 184.
+(1) Društvo za osiguranje dužno je osigurati da središnje klirinško depozitarno društvo otvori zaseban račun vrijednosnih papira na kojem se vode podaci o vrijednosnim papirima koji su sastavni dio imovine za pokriće matematičke pričuve.
+(2) Društvo za osiguranje može povjeriti financijske instrumente na pohranu i administriranje kreditnoj instituciji koja ima odobrenje za obavljanje poslova pohrane i administriranja financijskih instrumenata u skladu s propisima kojima se uređuje tržište kapitala, pri čemu je dužno osigurati da se imovina za pokriće matematičke pričuve evidentira na posebnom skrbničkom računu.
+(3) Društvo za osiguranje dužno je vrijednosne papire kojima se ne trguje na uređenom tržištu, a koji su izdani u materijaliziranom obliku, povjeriti na pohranu i administriranje kreditnoj instituciji koja ima odobrenje za obavljanje poslova pohrane i administriranja financijskih instrumenata u skladu s propisima kojima se uređuje tržište kapitala.
+(4) Kreditna institucija iz stavaka 2. i 3. ovoga članka dužna je Agenciji, na zahtjev, dostaviti podatke o financijskim instrumentima koji su joj povjereni na pohranu i administriranje.

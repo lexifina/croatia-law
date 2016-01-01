@@ -1,0 +1,4 @@
+## Prijelazne odredbe o usklađenosti s minimalnim potrebnim kapitalom
+# Članak 459.
+(1) Iznimno od članaka 34., 166. i 246. ovoga Zakona, kada je društvo za osiguranje 31. prosinca 2015. usklađeno sa zahtjevima vezanim uz granicu solventnosti iz članka 98., odnosno članka 99. Zakona o osiguranju (»Narodne novine«, br. 151/05., 87/08., 82/09., 54/13. i 94/14.) koja se primjenjuje na dan prije stavljanja izvan snage Zakona, ali nema dovoljna prihvatljiva osnovna vlastita sredstva za pokriće minimalnog potrebnog kapitala, društvo za osiguranje dužno je uskladiti se s člankom 157. stavkom 1. ovoga Zakona do 31. prosinca 2016.
+(2) Kad se društvo za osiguranje ne uspije uskladiti s člankom 157. stavkom 1. ovoga Zakona u roku navedenom u stavku 1. ovoga članka, Agencija će tom društvu za osiguranje oduzeti odobrenje za obavljanje poslova osiguranja.

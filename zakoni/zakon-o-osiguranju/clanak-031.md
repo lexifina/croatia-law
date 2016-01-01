@@ -1,0 +1,7 @@
+## Odlučivanje o odobrenju za obavljanje poslova osiguranja, odnosno reosiguranja
+# Članak 31.
+(1) Agencija će odlučiti o izdavanju odobrenja za obavljanje poslova osiguranja i poslova reosiguranja u postupku po podnesenom zahtjevu za izdavanje odobrenja za obavljanje poslova osiguranja, odnosno poslova reosiguranja.
+(2) Agencija će izdati odobrenje za obavljanje poslova osiguranja, odnosno poslova reosiguranja navedeno u zahtjevu iz članka 27. stavka 2. ovoga Zakona za koje utvrdi da društvo za osiguranje, odnosno društvo za reosiguranje ispunjava uvjete za obavljanje poslova osiguranja, odnosno poslova reosiguranja propisane ovim Zakonom i propisima donesenim na temelju ovoga Zakona.
+(3) Ako postoji uska povezanost između društva za osiguranje i drugih fizičkih ili pravnih osoba, Agencija će izdati odobrenje za obavljanje poslova osiguranja samo ako ta uska povezanost ne sprječava djelotvorno obavljanje njezinih nadzornih funkcija.
+(4) U slučaju iz stavka 3. ovoga članka društvo za osiguranje kojemu je Agencija izdala odobrenje za obavljanje poslova osiguranja dužno je Agenciji dostaviti pisane informacije koje su joj potrebne za kontinuirano praćenje usklađenosti s uvjetima stavka 3. ovoga članka.
+(5) O zahtjevu za izdavanje odobrenja za obavljanje poslova osiguranja Agencija će odlučiti rješenjem u roku od 60 dana od dana zaprimanja urednog zahtjeva, a u slučaju spajanja postupka po tom zahtjevu s drugim zahtjevima u skladu s ovim Zakonom o spajanju postupaka, u roku od 60 dana od primitka zadnjeg urednog zahtjeva.

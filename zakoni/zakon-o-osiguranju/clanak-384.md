@@ -1,0 +1,6 @@
+## Promidžbene informacije
+# Članak 384.
+(1) Društvo za osiguranje dužno je promidžbene informacije koje sadržavaju podatke o financijskom stanju, položaju na tržištu i rezultatima poslovanja tog društva za osiguranje, najkasnije 30 dana prije objave, dostaviti Agenciji radi provjere je li sadržaj promidžbene informacije u skladu s odredbama ovoga Zakona. Ako Agencija u roku od 30 dana od dana primitka obavijesti o promidžbenoj informaciji utvrdi da promidžbena informacija nije izrađena u skladu s odredbama ovoga Zakona, obavijestit će o tome društvo za osiguranje.
+(2) Ako Agencija ne izvijesti društvo za osiguranje u roku iz stavka 1. ovoga članka, smatra se da Agencija nema primjedbi na sadržaj promidžbene informacije.
+(3) Društvo za osiguranje odgovorno je za jasnost, potpunost i istinitost informacija koje se objavljuju u svrhu promidžbe društva za osiguranje i njegovih proizvoda.
+(4) U promidžbene informacije spadaju sve informacije priopćene trećim osobama i potencijalnim ugovarateljima osiguranja i osiguranicima putem oglasa u tisku, radiju, televiziji, putem osobnih posjeta, telefonskih poziva, mrežne stranice i elektroničkih medija, putem interaktivne televizije te na bilo koji drugi način iz kojeg proizlazi namjera promidžbe.

@@ -1,0 +1,6 @@
+## Razrješenje imenovanog ovlaštenog aktuara
+# Članak 189.
+(1) Ako nakon imenovanja ovlaštenog aktuara Agencija imenovanoj osobi oduzme ovlaštenje za obavljanje poslova ovlaštenog aktuara, odnosno ako nastupe okolnosti iz članka 187. stavka 2. ovoga Zakona ili druge okolnosti zbog kojih društvo za osiguranje nema imenovanog ovlaštenog aktuara, društvo za osiguranje je dužno odrediti drugog imenovanog ovlaštenog aktuara u roku od 30 dana od izvršnosti rješenja kojim se imenovanoj osobi oduzelo ovlaštenje za obavljanje poslova ovlaštenog aktuara, odnosno od trenutka saznanja društva za osiguranje za nastup okolnosti iz članka 187. ovoga Zakona, odnosno od trenutka saznanja društva za osiguranje o drugim okolnostima zbog kojih društvo za osiguranje nema imenovanog ovlaštenog aktuara.
+(2) Ako društvo za osiguranje u slučaju iz stavka 1. ovoga članka ne odredi drugog imenovanog ovlaštenog aktuara, Agencija će odrediti otklanjanje nezakonitosti i nepravilnosti u roku koji ne smije biti kraći od 30 dana.
+(3) Ako društvo za osiguranje u slučaju iz stavka 2. ovoga članka ne odredi drugog imenovanoga ovlaštenog aktuara, imenovanoga ovlaštenog aktuara odredit će Agencija.
+(4) Društvo za osiguranje o razrješenju imenovanog ovlaštenog aktuara dužno je u roku od osam dana od dana razrješenja obavijestiti Agenciju.

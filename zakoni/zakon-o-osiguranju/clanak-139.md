@@ -1,0 +1,5 @@
+## Prilagodba za sposobnost tehničkih pričuva i odgođenih poreza da pokriju gubitke
+# Članak 139.
+(1) Prilagodba za sposobnost tehničkih pričuva i odgođenih poreza da pokriju gubitke odražava moguću nadoknadu neočekivanih gubitaka kroz istodobno smanjenje tehničkih pričuva ili odgođenih poreza ili kombinaciju obaju smanjenja.
+(2) Prilagodba iz stavka 1. ovoga članka uzima u obzir učinak smanjenja rizika koji proizlazi iz budućih sudjelovanja u dobiti iz ugovora o osiguranju u opsegu u kojem društvo za osiguranje može dokazati da se smanjenje tih naknada može upotrijebiti za pokriće neočekivanih gubitaka kad nastanu. Učinak smanjenja rizika koji proizlazi iz budućih sudjelovanja u dobiti ne smije biti veći od zbroja tehničkih pričuva i odgođenih poreza koji se odnose na ta buduća sudjelovanja u dobiti.
+(3) U smislu stavka 2. ovoga članka, vrijednost budućih sudjelovanja u dobiti u nepovoljnim okolnostima uspoređuje se s vrijednošću tih sudjelovanja u dobiti prema pretpostavkama na kojima se temelji izračun najbolje procjene.
