@@ -1,0 +1,4 @@
+# Članak 9.
+(1) Iznimno od članka 3. ovoga Pravilnika, upisivanje podataka u Popis turista za pravnu ili fizičku osobu koja pruža uslugu noćenja na plovnom objektu nautičkog turizma (charter, crusing) obavlja se putem elektroničke razmjene podataka, na način da se upisuju oni podaci koji se vode u elektroničkom sustavu evidencije prijava popisa posade i putnika na plovilima za iznajmljivanje odnosno drugim odgovarajućim elektroničkim sustavom koji vodi ministarstvo nadležno za pomorstvo.
+(2) Prijava stranaca nadležnoj policijskoj upravi, odnosno policijskoj postaji putem turističke zajednice obavlja se sukladno propisima koji reguliraju status stranaca u Republici Hrvatskoj i to putem elektroničke razmjene podataka između sustava eVisitor i informacijskog sustava koji vodi Ministarstvo unutarnjih poslova.
+(3) Povezivanje elektroničkih sustava iz stavka 1. ovoga članka izvršit će se čim se za to osiguraju tehnički uvjeti, a najkasnije do 31. prosinca 2016. godine.

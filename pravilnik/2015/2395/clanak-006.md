@@ -1,0 +1,6 @@
+# Članak 6.
+(1) Prijava i odjava turista koji se upisuju u sustav eVisitor autentificira se temeljem sigurnog pristupa sustavu eVisitor kroz autentifikacijski protokol koji sadrži cjelokupni proces i uvjete za sigurno i ispravno obavljanje elektroničke prijave i odjave turista.
+(2) Protokol iz stavka 1. ovoga članka te upute za prijavu, odnosno odjavu turista putem sustava eVisitor internim aktom utvrđuje Glavni ured Hrvatske turističke zajednice.
+(3) U slučaju iz članka 4. stavka 3. ovoga Pravilnika, turistička zajednica na zahtjev obveznika prijave i odjave turista izdaje potvrdu da je prijava, odnosno odjava izvršena na zahtjev obveznika i sadržava sve podatke iz prijave, odnosno odjave.
+(4) Ispravno zaprimljenom prijavom i odjavom se smatra ona prijava i odjava koja je u potpunosti zaprimljena (provedena) prema protokolu iz stavka 1. ovoga članka.
+(5) Hrvatska turistička zajednica pohranjuje zaprimljene podatke na dislociranoj lokaciji sukladno standardima arhiviranja digitalnog sadržaja koje određuje tijelo nadležno za arhivsko gradivo. Obveza čuvanja podataka iz popisa turista te prijave i odjave turista je 10 godina. Statističke analize i podaci čuvaju se i pohranjuju trajno.
