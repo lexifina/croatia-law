@@ -1,0 +1,6 @@
+## Upravljanje i razvoj DU-a
+# Članak 5.
+(1) Radno tijelo Vlade Republike Hrvatske nadležno za koordinaciju informatizacije javnog sektora (u daljnjem tekstu: Povjerenstvo) donosi Godišnji plan rada i razvoja DU-a (u daljnjem tekstu: Godišnji plan). Godišnji plan priprema CDU te ga dostavlja središnjem tijelu državne uprave nadležnom za poslove e-Hrvatske koje uz suglasnost Vijeća predlaže Godišnji plan Povjerenstvu.
+(2) Svaki projekt DU-a upisuje se u Javni registar za koordinaciju projekata izgradnje državne informacijske infrastrukture ProDII (u daljnjem tekstu: ProDII) i odobrava od strane Povjerenstva na temelju preporuke središnjeg tijela državne uprave nadležnog za poslove e-Hrvatske.
+(3) Prije objave javne nabave, CDU će dokumentaciju za javnu nabavu, uključujući i tehničke specifikacije usluga ili roba, dostaviti na odobrenje središnjem tijelu državne uprave nadležnom za poslove e-Hrvatske, a koje će donijeti odluku temeljem prethodnog mišljenja Vijeća u roku od 30 dana od dostave dokumentacije.
+(4) U slučaju da središnje tijelo državne uprave nadležno za poslove e-Hrvatske ne donese odluku u roku iz stavka 3. ovoga članka, smatra se da je odobrena dokumentacija iz navedenog stavka.
