@@ -1,0 +1,2 @@
+# Članak 2.
+Ovim se Pravilnikom utvrđuju provedba Provedbene uredbe Komisije (EU) br. 404/2011 od 8. travnja 2011. o detaljnim pravilima za provedbu Uredbe Vijeća (EZ) br. 1224/2009 o uspostavi sustava kontrole Zajednice za osiguranje sukladnosti s pravilima zajedničke ribarstvene politike (SL L 112, 30. 4. 2011.) (u daljnjem tekstu: Uredba (EZ) br. 404/2011), u dijelu koji propisuje oznake i način označavanja ribarskih brodova.
