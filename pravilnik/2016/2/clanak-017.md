@@ -1,0 +1,6 @@
+## Provjera potpunosti i točnosti dokumentacije
+# Članak 17.
+(1) Provjera potpunosti dokumentacije provodi se u smislu provjere potpunosti dostave svih potrebnih dokumenata sukladno Zakonu, osnovnih podataka iz članka 8. stavka 2. ovoga Pravilnika, a na temelju utvrđene veličine poduzetnika sukladno člancima 5. i 6. Zakona i ovjere u skladu s člankom 9. ovoga Pravilnika.
+(2) Za potrebe izračuna veličine iz čl. 5. i 6. Zakona prosječan broj radnika tijekom poslovne godine za poduzetnike koja su poslovali cijelu godinu računa se na način da se zbroj stanja broja zaposlenih na dan 1. siječnja, 31. ožujka, 30. lipnja, 30. rujna i 31. prosinca podijeli s pet, odnosno prilagodbom izračuna prema razdoblju poslovanja kod novoosnovanih poduzetnika.
+(3) Provjera točnosti vrši se za standardnu dokumentaciju u smislu provjere računskih operacija i logičkih kontrola. Standardna je dokumentacija točna ako su zadovoljene sve računske i logičke kontrole navedene u propisanim obrascima.
+(4) Provjeru potpunosti i točnosti izvršava službena osoba Agencije ovlaštena za obavljanje poslova Registra ili automatizmom korištenjem aplikativne podrške koja je sadržana u internetskom servisu za predaju dokumentacije u Registar.

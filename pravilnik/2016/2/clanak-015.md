@@ -1,0 +1,5 @@
+## Istovremena dostava dokumentacije za potrebe javne objave i statističke i druge potrebe
+# Članak 15.
+(1) Poduzetnici kojima je poslovna godina jednaka kalendarskoj istovremeno dostavljaju godišnji financijski izvještaj za statističke i druge potrebe i za javnu objavu.
+(2) Poduzetnici kojima se poslovna godina razlikuje od kalendarske godine do 30. travnja tekuće godine za prethodnu kalendarsku godinu dostavljaju godišnji financijski izvještaj za statističke i druge potrebe, a za javnu objavu u roku od 4 mjeseca po isteku njihove poslovne godine. Ti poduzetnici nemaju mogućnost istovremene dostave dokumentacije za javnu objavu i statističke i druge potrebe.
+(3) Poduzetnici nad kojima je tijekom godine pokrenut postupak stečaja ili likvidacije ne mogu za tu godinu predati istovremeno godišnji financijski izvještaj za javnu objavu te statističke i druge potrebe. Godišnji financijski izvještaj za statističke i druge potrebe sastavljaju za cijelu kalendarsku godinu koja obuhvaća razdoblje prije pokretanja stečaja ili likvidacije i razdoblje nakon pokretanja postupka do 31. prosinca promatrane godine.
