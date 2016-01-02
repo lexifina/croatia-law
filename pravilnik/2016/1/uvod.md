@@ -1,0 +1,1 @@
+Na temelju članka 32. stavka 3. Zakona o računovodstvu (»Narodne novine«, br. 78/15 i 134/15) i prijedloga Državnog zavoda za statistiku, klasa: 950-01/15-01/24, urbroj: 555-01-01-15-1 od 28. listopada 2015., ministar financija donosi
