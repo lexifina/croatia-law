@@ -1,0 +1,6 @@
+# Članak 3.
+(1) Naknada iz članka 2. ovoga Pravilnika za zaprimljenu potpunu dokumentaciju u Registar u elektroničkom obliku putem internetskog servisa, u zakonski propisanim rokovima, naplaćuje se iz sredstava državnog proračuna.
+(2) Naknada iz članka 2. ovoga Pravilnika za zaprimljenu potpunu dokumentaciju u Registar dostavljenu na papiru ili u elektroničkome obliku na nekom od nositelja podataka, u zakonski propisanim rokovima, naplaćuje se od poduzetnika prema Cjeniku usluga javne objave godišnjih financijskih izvještaja (u daljnjem tekstu: Cjenik) koji je određen u Prilogu I. ovoga Pravilnika.
+(3) Naknada iz stavka 2. ovoga članka definirana je ovisno o tome je li dokumentacija dostavljena u Zakonom propisanim rokovima ili nakon propisanih rokova.
+(4) Visina naknade iz stavka 1. ovoga članka te način i rokovi njihova plaćanja utvrdit će se ugovorom između Ministarstva financija i Agencije.
+(5) Naknada iz članka 2. ovoga Pravilnika za zaprimljenu potpunu dokumentaciju u Registar u elektroničkom obliku putem internetskog servisa, po isteku zakonski propisanih rokova i izmjene temeljem članka 30. stavka 8. Zakona o računovodstvu, naplaćuju se od poduzetnika prema točki 1.7. Cjenika.
