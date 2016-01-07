@@ -1,0 +1,6 @@
+## Upis u upisnike i evidencije i registre
+# Članak 43.
+(1) Komora u skladu sa Zakonom vodi upisnik ureda ovlaštenih arhitekata za samostalno obavljanje poslova projektiranja i/ili stručnog nadzora građenja, upisnik ureda ovlaštenih krajobraznih arhitekata za samostalno obavljanje poslova krajobraznog projektiranja i/ili stručnog nadzora građenja, upisnik zajedničkih ureda ovlaštenih arhitekata za obavljanje poslova projektiranja i/ili stručnog nadzora građenja, upisnik zajedničkih ureda ovlaštenih krajobraznih arhitekta za obavljanje poslova krajobraznog projektiranja i/ili stručnog nadzora građenja, upisnik ureda za samostalno obavljanje stručnih poslova prostornog uređenja i upisnik zajedničkih ureda za obavljanje stručnih poslova prostornog uređenja.
+(2) Komora u skladu sa Zakonom, javnim ovlastima i Statutom ustrojava i vodi evidencije i registre. O činjenicama o kojima se vodi službena evidencija i registar Komora izdaje potvrdu u vidu javne isprave.
+(3) Za upis u upisnike iz stavka 1. i evidencije i registre iz stavka 2. ovoga članka plaća se naknada. Visina i način plaćanja naknade utvrđuje Skupština odlukom.
+(4) Uvjeti te postupak upisa i druga pitanja važna za upis u upisnike, evidencije i registre utvrditi će se općim aktom Komore kojeg donosi Upravni odbor.

@@ -1,0 +1,5 @@
+# Članak 33.
+(1) Za potrebe izvršavanja pojedinih zadataka i razmatranje pitanja od značaja i zajedničkog interesa članova Komore, u Komori se mogu ustrojiti odbori, povjerenstva, radne skupine, stručni savjeti, ekspertne radne skupine, voditelji i zamjenici voditelja za pojedina strukovna područja i sl. koji mogu biti stalnog ili privremenog karaktera.
+(2) Odluku o osnivanju i imenovanju odbora, povjerenstva, radnih skupina, stručnih savjeta, ekspertnih radnih skupina, voditelja i zamjenika voditelja za pojedina strukovna područja i sl. donose Skupština, Upravni odbor, Nadzorni odbor ili predsjednik na temelju potrebe, programa rada, proračuna troškova potrebnih za djelovanje i sl.
+(3) Članovi odbora, povjerenstva, radnih skupina, stručnih savjeta i ekspertnih radnih skupina, između sebe biraju predsjednika, koji saziva i vodi sastanke ili se predsjednik imenuje Odlukom o osnivanju.
+(4) Aktom o osnivanju radnih tijela iz stavka 1. ovog članka određuje se njihov naziv, djelokrug, zadaća i sastav, te druga pitanja od značaja za rad tih tijela.

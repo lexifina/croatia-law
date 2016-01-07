@@ -1,0 +1,3 @@
+# Članak 66.
+(1) Inicijativu za donošenje pravilnika, poslovnika i drugih općih akata te za izmjene i dopune mogu dati predsjednik Komore, Upravni odbor Komore, Nadzorni odbor Komore ili najmanje 1/3 (jedna trećina) članova Komore.
+(2) Inicijativa iz stavka 1. ovog članka upućuje se Upravnom odboru Komore. Ako Upravni odbor Komore prihvati inicijativu, prosljeđuje je radnom tijelu Komore nadležnom za normativne poslove koji izrađuje Nacrt prijedloga akta, odnosno njegovih izmjena i dopuna te ga upućuje Upravnom odboru na raspravu. Po okončanoj raspravi izrađuje se Konačni prijedlog akta, koje utvrđuje Upravni odbor Komore i upućuje nadležnom tijelu na usvajanje.
