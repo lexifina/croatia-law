@@ -1,0 +1,5 @@
+# Članak 8.
+(1) Obuku za djelatnike Financijske agencije organizirat će i provesti Ministarstvo u roku od 60 dana od dana stupanja na snagu ovoga Pravilnika.
+(2) Osobi koja prođe obuku iz stavka 1. ovoga članka izdat će se dozvola za obavljanje poslova posrednika i upisat će se u Očevidnik savjetovališta i posrednika ako uz zahtjev za izdavanje dozvole za obavljanje poslova posrednika podnese:
+- elektronički zapis o podacima evidentiranim u matičnoj evidenciji Hrvatskog zavoda za mirovinsko osiguranje iz područja radnih odnosa
+- izjavu da nije pisanim putem upozorena na neetično postupanje i potrebu pridržavanja odredbi etičkog kodeksa, da nije povrijedila službenu dužnost ili radnu obvezu zbog ponašanja suprotnog odredbama etičkog kodeksa, da nije određena mjera radi zaštite dostojanstva radnika od uznemiravanja i spolnog uznemiravanja, da nije obavljala djelatnosti koje su bile u suprotnosti s poslovima radnog mjesta i da se obvezuje postupati na način koji osigurava potpuno poštivanje osobnoga i obiteljskoga života, dostojanstva, ugleda i časti potrošača.
