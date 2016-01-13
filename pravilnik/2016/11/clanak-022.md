@@ -1,0 +1,2 @@
+# Članak 22.
+Nadležni carinski ured za svaku kalendarsku godinu vodi posebnu evidenciju korisnika prava upisanih u registar korisnika povrata, njihovim odobrenim godišnjim kvotama potrošnje, stanju iskorištene i preostale godišnje kvote potrošnje, podnesenim zahtjevima za povratom trošarine, donesenim rješenjima u povodu tih zahtjeva s naznakom količina bezolovnog motornog benzina na koje se zahtjevi i rješenja odnose i iznosima traženog i odobrenog povrata trošarine.
