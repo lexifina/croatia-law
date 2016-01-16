@@ -1,0 +1,7 @@
+## II. SMJEŠTAJ AZILANATA I STRANACA POD SUPSIDIJARNOM ZAŠTITOM
+# Članak 2.
+(1) Azilantu odnosno strancu pod supsidijarnom zaštitom smještaj će se osigurati u smještajnim prostorima kojima za tu namjenu raspolažu Republika Hrvatska i jedinice lokalne i područne (regionalne) samouprave.
+(2) Azilantu odnosno strancu pod supsidijarnom zaštitom smještaj se može osigurati i u smještajnim prostorima kojima raspolaže vjerska zajednica, humanitarna organizacija, trgovačko društvo, udruga ili druga domaća ili strana, pravna ili fizička osoba s kojom ministarstvo nadležno za poslove socijalne skrbi zaključi ugovor o pružanju usluga smještaja azilantima i strancima pod supsidijarnom zaštitom.
+(3) Azilant odnosno stranac pod supsidijarnom zaštitom ostaje smješten u Prihvatilištu za tražitelje azila (u daljnjem tekstu Prihvatilište) dok se ne osigura smještaj u primjerenom smještajnom prostoru u najkraćem mogućem roku pod uvjetom da je u roku od 3 dana od dana prijave prebivališta podnio zahtjev za smještaj.
+(4) Ukoliko azilant odnosno stranac pod supsidijarnom zaštitom ne podnese zahtjev za smještaj u roku propisanim člankom 2. stavkom 3. ovoga Pravilnika, a za to nema opravdane razloge, gubi pravo na smještaj u Prihvatilištu.
+(5) Ukoliko azilant odnosno stranac pod supsidijarnom zaštitom za vrijeme dok je smješten u Prihvatilištu izbiva iz Prihvatilišta duže od 8 dana bez da je o tome prethodno obavijestio ministarstvo nadležno za unutarnje poslove, gubi pravo na smještaj u Prihvatilištu.
