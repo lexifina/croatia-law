@@ -1,0 +1,10 @@
+## Vrijeme i mjesto provođenja izbora za radničko vieće
+# Članak 7.
+(1) Izborni odbor je dužan prije donošenja odluke iz članka 6. ovoga članka, savjetovati se s poslodavcem o vremenu i mjestu, odnosno mjestima glasovanja na izborima te voditi računa da vrijeme i mjesto, odnosno mjesta glasovanja ne štete djelotvornosti poslovanja poslodavca.
+(2) Ako je rad organiziran u smjenama, a ne glasuje se tijekom čitave smjene, izborni odbor može odlučiti da se glasovanje obavi pri kraju jedne smjene i na početku iduće smjene, ali vrijeme glasovanja ne smije biti određeno kraće od jedne trećine trajanja svake smjene.
+(3) U slučaju iz stavka 2. ovoga članka, izborni odbor dužan je, najmanje pet radnih dana prije dana glasovanja, objaviti na oglasnim mjestima poslodavca vrijeme početka i završetka glasovanja za svaku od smjena.
+(4) Radnik koji iz bilo kojeg razloga neće biti na radu na dan glasovanja ili je njegovo mjesto rada udaljeno od biračkog mjesta, može izbornom odboru najkasnije pet radnih dana prije dana glasovanja podnijeti pisani zahtjev da mu se uruči glasački listić i omotnica s poštanskom markom za obično rukovanje radi glasovanja putem pošte.
+(5) Glasački listić iz stavka 4. ovog članka, radnik je dužan uputiti poštom na adresu sjedišta poslodavca, u zatvorenoj omotnici koju je primio uz glasački listić, s naznakom: »ne otvarati - za Izborni odbor«.
+(6) Izborni odbor može sam ili na prijedlog poslodavca odlučiti da se onim radnicima čije je mjesto rada udaljeno od biračkog mjesta, bez njihovog pisanog zahtjeva, osigura glasovanje na način iz stavka 4. ovoga članka.
+(7) Radniku koji na dan glasovanja zbog potrebe posla neće biti, na biračkom mjestu svoje organizacijske jedinice izborni odbor je na njegov zahtijev, dužan omogućiti glasovanje na biračkom mjestu organizacijske jedinice u kojoj će se zateći za vrijeme glasovanja.
+(8) U slučaju stavka 7. ovog članka izborni odbor je odmah po zahtjevu radnika, dužan po službenoj dužnosti brisati radnika iz izovoda popisa birača na biračkom mjestu njegove organizacijske jedinice i upisati ga u izvod popisa birača organizacijske jedinice u kojoj će se radnik zateći za vrijeme glasovanja.
