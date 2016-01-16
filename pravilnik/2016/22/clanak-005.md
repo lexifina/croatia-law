@@ -1,0 +1,6 @@
+# Članak 5.
+Članak 10. mijenja se i glasi:
+»(1) Granične vrijednosti emisija onečišćujućih tvari iz priloga 1. do 23. ovoga Pravilnika primjenjuju se kao osnovna mjera zaštite voda. Za ispuštanje pročišćenih otpadnih voda u zaštićenim područjima iz članka 48. Zakona o vodama pored osnovnih provode se i dodatne mjere zaštite.
+(2) Kada se utvrdi da je opterećenje u otpadnim vodama, primjenom graničnih vrijednosti emisija iz stavka 1. ovoga članka, takvo da se ne mogu postići ciljevi zaštite okoliša te u slučajevima kada uvjeti zaštite okoliša to zahtijevaju, propisuju se dopunske mjere određene Planom upravljanja vodnim područjima kao što su strože granične vrijednosti emisija određene na temelju metodologije primjene kombiniranog pristupa i druge mjere.
+(3) Metodologiju primjene kombiniranog pristupa iz stavka 2. ovoga članka donose Hrvatske vode i ista se objavljuje na mrežnim stranicama ministarstva nadležnog za vodno gospodarstvo i Hrvatskih voda.
+(4) Provedba dopunskih mjera iz stavka 2. ovoga članka nije obvezna na vodnim tijelima, u slučajevima iz članka 11. ovoga Pravilnika, za koja su u Planu upravljanja vodnim područjima utvrđena izuzeća od postizanja ciljeva zaštite okoliša.«.
