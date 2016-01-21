@@ -1,0 +1,3 @@
+# Članak 6.
+Prilikom svih zdravstvenih pregleda iz članka 5. ovoga Pravilnika, specijalist medicine rada ili medicine rada i sporta može zatražiti uvid u zdravstvenu dokumentaciju osobe na pregledu, a koja je pohranjena kod njegovog izabranog doktora primarne zdravstvene zaštite, drugih doktora medicine ili u drugim zdravstvenim ustanovama.
+Prije upisivanja ocjene »trajno nesposoban« u svjedodžbu o zdravstvenoj sposobnosti iz članka 25. ovoga Pravilnika, specijalist medicine rada ili medicine rada i sporta dužan je zatražiti mišljenje specijalista određene specijalnosti o prognozi bolesti od koje pregledanik boluje i njezinim posljedicama.

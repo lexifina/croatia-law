@@ -1,0 +1,2 @@
+# Članak 8.
+Članu posade plovila koji je upućen na nadzorni zdravstveni pregled radi izdavanja svjedodžbe o osposobljenosti za zvanja zapovjednika plovila, a prethodni ili redovni zdravstveni pregled je obavio unutar roka od 3 (tri) mjeseca računajući od dana upućivanja na nadzorni pregled, Svjedodžba o zdravstvenoj sposobnosti za obavljanje poslova zapovjednika plovila unutarnje plovidbe može mu se izdati bez pregleda, s tim da se svjedodžba izdaje s datumom obavljanja prethodnog ili redovnog zdravstvenog pregleda.

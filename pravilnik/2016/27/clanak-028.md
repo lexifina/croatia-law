@@ -1,0 +1,2 @@
+# Članak 28.
+Ovlaštena zdravstvena ustanova, trgovačko društvo ili specijalistička ordinacija medicine rada za obavljanje zdravstvenih pregleda članova posade plovila unutarnje plovidbe obvezna je jednom mjesečno dostaviti podatke o obavljenim zdravstvenim pregledima članova posade plovila unutarnje plovidbe Hrvatskom zavodu za zaštitu zdravlja i sigurnost na radu na način kako to odredi Hrvatski zavod za zaštitu zdravlja i sigurnost na radu.
