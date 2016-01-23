@@ -1,0 +1,4 @@
+# Članak 5.
+(1) Naziv suda i poslovni broj pod kojim je zaprimljen prijedlog za otvaranje postupka stečaja potrošača te datum podnošenja prijedloga za otvaranje stečaja potrošača preuzimaju se elektroničkim putem iz sustava e-Spis.
+(2) Naziv suda i poslovni broj pod kojim je zaprimljen prijedlog za otvaranje postupka stečaja potrošača mogu se promijeniti ako se sud koji je zaprimio prijedlog za otvaranje postupka stečaja potrošača oglasi nenadležnim i predmet ustupi nadležnom sudu.
+(3) U slučaju iz stavka 2. ovoga članka, kada nadležni sud nastavi postupak, briše se upisani naziv suda i poslovni broj pod kojim je zaprimljen prijedlog za otvaranje postupka stečaja potrošača i upisuje naziv nadležnoga suda i poslovni broj pod kojim je zaprimljen prijedlog za otvaranje postupka stečaja potrošača.
