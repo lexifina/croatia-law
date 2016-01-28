@@ -1,0 +1,2 @@
+Na temelju članka 30. Zakona o financiranju jedinica lokalne i područne (regionalne) samouprave (»Narodne novine« br. 117/93, 69/97, 33/00, 73/00, 59/01, 107/01, 117/01, 150/02, 147/03, 132/06, 26/07 - Odluka Ustavnog suda RH, 73/08, 25/12, 147/14, 100/15) i članka 29. Statuta Općine Mrkopalj (»Službene novine Primorsko-
+-goranske županije« broj 29/09, 34/09 - ispr., 13/13, 19/13), Općinsko vijeće Općine Mrkopalj, na sjednici održanoj 23. prosinca 2015. godine donijelo je
