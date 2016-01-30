@@ -1,0 +1,1 @@
+Na temelju članka 17. stavka 1. točke 5. Statuta Hrvatske komore inženjera građevinarstva (»Narodne novine«, broj 132/15.) Skupština Hrvatske komore inženjera građevinarstva je na pisanoj sjednici održanoj od 22. 12. 2015. - 08. 01. 2016. donijela
