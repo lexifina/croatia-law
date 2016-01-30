@@ -1,0 +1,42 @@
+## Zahtjev za izdavanje odobrenja za pripajanje
+# Članak 2.
+(1) Zahtjev za izdavanje odobrenja za pripajanje koji Agenciji podnosi Društvo preuzimatelj za pripajanje drugog Društva sa sjedištem u Republici Hrvatskoj mora sadržavati:
+- predmet zahtjeva s naznakom tvrtke, sjedišta i OIB-a podnositelja zahtjeva i društva za osiguranje koje pripaja i
+- obrazložene razloge za pripajanje i ciljevi koji se namjeravaju postići pripajanjem.
+(2) Uz zahtjev iz stavka 1. ovoga članka Društvo preuzimatelj dužno je dostaviti:
+1. je li povezana osoba s Društvom koje se pripaja u smislu članka 3. točke 26. Zakona, a ako jest, s opisom načina povezanosti,
+2. nacrt ugovora o pripajanju izrađen u skladu sa Zakonom o trgovačkim društvima,
+3. izvješće uprave Društva o pripajanju, osim kada sastavljanje takvog izvješća nije potrebno sukladno odredbama Zakona o trgovačkim društvima,
+4. izvješće revizora o obavljenoj reviziji pripajanja, osim kada sastavljanje takvog izvješća nije potrebno sukladno odredbama Zakona o trgovačkim društvima,
+5. izvješće nadzornog odbora Društva o namjeravanom pripajanju, osim kada sastavljanje takvog izvješća nije potrebno sukladno odredbama Zakona o trgovačkim društvima,
+6. zapisnik s Glavne skupštine Društva na kojoj je donesena Odluka o pripajanju odnosno Odluka o odobrenju ugovora o pripajanju, osim kada se Glavna skupština ne mora održati u skladu s odredbama Zakona o trgovačkim društvima,
+7. izjavu Društva o obvezi objavljivanja prospekta u smislu odredbi Zakona o tržištu kapitala odnosno izjavu o izuzeću od navedene obveze uz obrazloženje ispunjenja uvjeta za navedeno izuzeće te naznaku dokumentacije u kojoj su dostupne informacije odgovarajuće informacijama sadržanim u prospektu, koja će biti potpisana od strane ovlaštenih osoba za zastupanje u skladu s odredbama Zakona koje uređuju zastupanje Društva prema Agenciji,
+8. ako Društvo zbog pripajanja namjerava izdvojiti poslove ili funkcije na pružatelja usluge u smislu članka 104. Zakona, dokumentaciju i podatke propisane pravilnikom Agencije kojim se uređuju zahtjevi koje mora ispuniti Društvo koje namjerava izdvojiti poslove ili funkcije,
+9. izjavu društva za osiguranje koje se pripaja da je suglasno sa podnesenim zahtjevom odnosno s nacrtom ugovora o pripajanju iz točke 2. ovoga stavka,
+10. odluku tijela nadležnog za zaštitu tržišnog natjecanja kojom se ne protivi pripajanju, odnosno izjavu društva o postojanju iznimke od koncentracije poduzetnika u skladu sa Zakonom o zaštiti tržišnog natjecanja,
+11. dokaze o plaćenoj naknadi i administrativnoj pristojbi propisanoj pravilnikom o vrsti i visini naknada i administrativnih pristojbi Agencije, koja se plaća uz podneseni zahtjev,
+12. na poziv Agencije, po potrebi i druge podatke i dokumentaciju kojim se dokazuje ispunjavanje uvjeta za izdavanje odobrenja za pripajanje Društva propisanih Zakonom uključujući i podatke koji su propisani zakonom koji uređuje sprečavanje pranja novca i financiranja terorizma, a koje prikupljaju obveznici tog zakona.
+(3) Zahtjev za izdavanje odobrenja za pripajanje koji Agenciji podnosi Društvo preuzimatelj u slučaju pripajanja društva za osiguranje iz druge državne članice ili strane države mora najmanje sadržavati:
+- predmet zahtjeva s naznakom tvrtke, sjedišta i OIB-a podnositelja zahtjeva i društva za osiguranje koje pripaja i
+- obrazložene razloge za pripajanje i ciljevi koji se namjeravaju postići pripajanjem.
+(4) Uz zahtjev iz stavka 3. ovoga članka Društvo preuzimatelj dužno je dostaviti:
+1. dokumentaciju propisanu stavkom 2. ovog članka, osim nacrta ugovora o pripajanju iz članka 2. stavka 2. točke 2. ovoga Pravilnika,
+2. nacrt zajedničkog plana pripajanja izrađen u skladu s odredbama Zakona o trgovačkim društvima,
+3. ovjereni izvadak iz sudskog registra Društva koje se pripaja, a ukoliko isti ne sadrži podatke o članovima društva tada i ispis iz registra dionica s navedenim podacima članova društva,
+4. druge podatke na zahtjev Agencije.
+(5) Zahtjev za izdavanje odobrenja za pripajanje koji Agenciji podnosi Društvo preuzimatelj u slučaju pripajanja druge pravne osobe iz Republike Hrvatske mora sadržavati:
+- predmet zahtjeva s naznakom tvrtke, sjedišta i OIB-a podnositelja zahtjeva i društva koje pripaja i
+- obrazložene razloge za pripajanje i ciljevi koji se namjeravaju postići pripajanjem.
+(6) Uz zahtjev iz stavka 5. ovoga članka Društvo preuzimatelj dužno je dostaviti:
+1. dokumentaciju propisanu stavkom 2. ovog članka,
+2. financijske izvještaje pravne osobe koja se pripaja za posljednje dvije godine prije dana podnošenja zahtjeva, odnosno ako je pravna osoba osnovana unutar protekle dvije godine, financijske izvještaje za svaku godinu od osnivanja, a kada navedeni financijski izvještaji podliježu obvezi revizije, prilažu se revidirani financijski izvještaji, a ako je član te pravne osobe matično društvo odnosno nadređena osoba u grupi, navedena dokumentacija dostavlja se na konsolidiranoj osnovi,
+3. druge podatke na zahtjev Agencije.
+(7) Zahtjev za izdavanje odobrenja za pripajanje koji Agenciji podnosi Društvo preuzimatelj u slučaju pripajanja druge pravne osobe izvan Republike Hrvatske mora sadržavati:
+- predmet zahtjeva s naznakom tvrtke, sjedišta i OIB-a podnositelja zahtjeva i društva koje pripaja i
+- obrazložene razloge za pripajanje i ciljevi koji se namjeravaju postići pripajanjem.
+(8) Uz zahtjev iz stavka 7. ovoga članka Društvo preuzimatelj dužno je dostaviti:
+1. dokumentaciju propisanu stavkom 2. ovog članka, osim nacrta ugovora o pripajanju,
+2. financijske izvještaje pravne osobe koja se pripaja za posljednje dvije godine prije dana podnošenja zahtjeva, odnosno ako je pravna osoba osnovana unutar protekle dvije godine, financijske izvještaje za svaku godinu od osnivanja, a kada navedeni financijski izvještaji podliježu obvezi revizije, prilažu se revidirani financijski izvještaji, a ako je član te pravne osobe matično društvo odnosno nadređena osoba u grupi, navedena dokumentacija dostavlja se na konsolidiranoj osnovi, kad je primjenjivo,
+3. nacrt zajedničkog plana pripajanja u skladu s odredbama Zakona o trgovačkim društvima,
+4. ovjereni izvadak iz sudskog registra Društva koje se pripaja, a ukoliko isti ne sadrži podatke o članovima društva tada i ispis iz registra dionica s navedenim podacima članova društva,
+5. druge podatke na zahtjev Agencije.
