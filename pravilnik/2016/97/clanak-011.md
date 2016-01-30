@@ -1,0 +1,2 @@
+# Članak 11.
+Kao dokaz o ispunjavanju uvjeta za člana nadzornog odbora, Društvo je dužno, najkasnije u roku od 8 dana prije donošenja odluke o izboru odnosno imenovanju člana nadzornog odbora, dostaviti Agenciji izjavu osobe predložene za izbor odnosno imenovanje za člana nadzornog odbora Društva prema Prilogu 2. ovoga Pravilnika, na kojoj je potpis kandidata ovjeren kod javnog bilježnika. Ako je izjava sastavljena na stranom jeziku, Agenciji se izjava dostavlja i u prijevodu na hrvatski jezik po ovlaštenom sudskom tumaču za strani jezik.
