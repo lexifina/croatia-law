@@ -1,0 +1,2 @@
+# Članak 2.
+Druge intelektualne i tehničke usluge u vezi s poslovima osiguranja iz članka 1. točke 4. ovog Pravilnika su usluge istraživanja tržišta ili analize rizika za potrebe klijenta, usluge savjetovanja o rizicima i uvjetima osiguranja i reosiguranja, usluge izrade prijedloga za rješavanje odštetnih zahtjeva te usluge edukacije u vezi s obavljanjem poslova posredovanja u osiguranju i reosiguranju.
