@@ -1,0 +1,2 @@
+# Članak 7.
+Zastupniku koji poslove zastupanja obavlja u Stanici i njegovim radnicima zabranjeno je dijeliti promidžbene materijale društava za osiguranje, odnosno vlastite promidžbene materijale, koji bi isticali ili upućivali na pojedino društvo za osiguranje ili bi mogli na bilo koji način utjecati na odluku ugovaratelja osiguranja o izboru društva za osiguranje, te im je zabranjeno sudjelovanje u promidžbenim aktivnostima društava za osiguranje.
