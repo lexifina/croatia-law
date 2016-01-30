@@ -1,0 +1,6 @@
+## Prijenos portfelja podružnice društva za osiguranje iz treće države osnovane u Republici Hrvatskoj
+# Članak 5.
+(1) Društvo za osiguranje iz treće države (koja nije članica Europske unije ili Europskog gospodarskog prostora), mora imati prethodno odobrenje Agencije, za prijenos cijelog ili dijela portfelja ugovora o osiguranju njegove podružnice osnovane u Republici Hrvatskoj na društvo za osiguranje osnovano u Republici Hrvatskoj ili na društvo za osiguranje sa sjedištem u drugoj državi članici Europske unije ili Europskog gospodarskog prostora, odnosno u trećoj državi.
+(2) Zahtjev društva za osiguranje prenositelja portfelja osiguranja za izdavanje odobrenja za prijenos portfelja osiguranja njegove podružnice osnovane u Republici Hrvatskoj mora na odgovarajući način sadržavati podatke propisane člankom 2. stavak 2. ovoga Pravilnika i ime i adresu punomoćnika u Republici Hrvatskoj za primanje pismena u postupku po ovom zahtjevu.
+(3) Uz zahtjev iz stavka 2. ovoga članka društvo za osiguranje preuzimatelj treba dostaviti dokumentaciju propisanu člankom 2. stavkom 3. ovoga Pravilnika.
+(4) Društvo koje preuzima portfelj osiguranja mora imati dozvolu za obavljanje poslova osiguranja kojom je obuhvaćen portfelj osiguranja koji preuzima.
