@@ -1,0 +1,1 @@
+Na temelju odredbi članka 107. stavka 4., članka 110. stavka 10. i 11. Zakona o dobrovoljnim mirovinskim fondovima (»Narodne novine«, broj 19/2014) Hrvatska agencija za nadzor financijskih usluga (dalje: Agencija) na sjednici Upravnog vijeća održanoj 15. siječnja 2016. godine donosi
