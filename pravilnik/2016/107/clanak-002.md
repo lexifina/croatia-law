@@ -1,0 +1,4 @@
+# Članak 2.
+(1) U članku 9. stavak 3. zamjenjuje se i glasi: »Prilikom sudjelovanja u javnoj ponudi prenosivi vrijednosni papiri se inicijalno iskazuju kao potraživanje u iznosu danog prijedloga sudjelovanja u ponudi, ako postoji obveza uplate novčanih sredstava sukladno uvjetima javne ponude. Nakon što je ponuda prihvaćena te je primljena obavijest o prihvaćanju javne ponude prenosivog vrijednosnog papira od ponuditelja odnosno aranžera ili depozitara, ovisno što je ranije, a prenosivom vrijednosnom papiru su dodijeljena sva potrebna obilježja, isti se priznaje u imovini mirovinskog fonda sukladno klasifikacijama financijske imovine iz računovodstvenih politika mirovinskog fonda.«
+(2) U stavku 8. riječ »Pravilnika« zamjenjuje se riječju »članka«.
+(3) Dodaje se stavak 9. koji glasi: »Odredba stavka 3. ovoga članka na odgovarajući način se primjenjuje i na instrumente tržišta novca.«

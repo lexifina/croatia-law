@@ -1,0 +1,2 @@
+# Članak 5.
+(1) U članku 14. stavak 2. mijenja se i glasi: »Iznimno od stavka 1. ovoga članka prenosivi dužnički vrijednosni papiri iz članka 125. stavka 1. točke 1. i 2. Zakona vrednuju se primjenom zadnje cijene objavljene na službenom financijsko-informacijskom servisu na dan za koji se vrednuju imovina i obveze.«
