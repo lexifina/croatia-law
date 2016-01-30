@@ -1,0 +1,1 @@
+Na temelju članka 47. stavka 2. Zakona o sigurnosno-obavještajnom sustavu Republike Hrvatske (»Narodne novine«, br. 79/06 i 105/06) i članka 43. Zakona o sigurnosnim provjerama (»Narodne novine«, br. 85/08 i 86/12), Vlada Republike Hrvatske je na sjednici održanoj 28. siječnja 2016. godine donijela
