@@ -1,0 +1,8 @@
+## III. NAČIN ORGANIZACIJE NASTAVKA OBRAZOVANJA
+# Članak 4.
+(1) Srednja škola koja organizira nastavak obrazovanja za višu razinu kvalifikacije (u daljnjemu tekstu: Škola) obvezna je do 15. lipnja tekuće školske godine objaviti na mrežnim stranicama Škole programe obrazovanja za stjecanje više razine kvalifikacije.
+(2) Učenik odnosno roditelj ili skrbnik malodobnoga učenika obvezan je do 5. srpnja tekuće školske godine podnijeti Školi pisani zahtjev za nastavkom obrazovanja uz koji je obvezan priložiti izvornike ili ovjerene preslike prethodno stečenih razrednih svjedodžbi i svjedodžbe o završenom obrazovanju.
+(3) O zahtjevu iz stavka 2. ovoga članka Škola u kojoj učenik želi nastaviti obrazovanje odlučuje rješenjem.
+(4) Rješenjem kojim se učeniku odobrava nastavak obrazovanja utvrđuje se rok do kojega učenik mora položiti razlikovne i/ili dopunske ispite te izvršiti sve obveze, kao i sve druge važne pojedinosti vezane uz nastavak obrazovanja.
+(5) Ovisno o broju utvrđenih razlikovnih i/ili dopunskih ispita, učenik se može odmah integrirati u razredni odjel i redovito pohađati nastavu razreda u kojem nastavlja obrazovanje ili tijekom prve školske godine polagati samo razlikovne i/ili dopunske ispite te se u drugoj školskoj godini integrirati u razredni odjel i redovito pohađati nastavu razreda u kojem nastavlja obrazovanje, o čemu odluku donosi nastavničko vijeće.
+(6) Učenik kojemu je odobren nastavak obrazovanja za višu razinu kvalifikacije upisuje se u Školu putem upisnice dostupne na mrežnim stranicama ministarstva nadležnog za obrazovanje (u daljnjem tekstu: Ministarstvo) i mrežnim stranicama Škole.
