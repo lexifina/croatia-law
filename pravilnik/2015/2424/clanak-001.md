@@ -1,0 +1,4 @@
+# Članak 1.
+U Pravilniku o ograničavanju uporabe određenih opasnih tvari u električnoj i elektroničkoj opremi (»Narodne novine«, broj 131/2013, 16/2014, 90/2014 i 142/2014) u članku 1. stavku 2. iza točke 27. dodaju se točke 28. i 29. koje glase:
+»28. Delegirana direktiva Komisije (EU) 2015/573 оd 30. siječnja 2015. o izmjeni, u svrhu prilagodbe tehničkom napretku, Priloga IV. Direktivi 2011/65/EU Europskog parlamenta i Vijeća u pogledu izuzeća za olovo u senzorima od polivinil-klorida u in vitro dijagnostičkim medicinskim proizvodima (Tekst značajan za EGP) (SL L 94, 10. 4. 2015.)
+29. Delegirana direktiva Komisije (EU) 2015/574 оd 30. siječnja 2015. o izmjeni, u svrhu prilagodbe tehničkom napretku, Priloga IV. Direktivi 2011/65/EU Europskog parlamenta i Vijeća u pogledu izuzeća za živu u sustavima za intravaskularno ultrazvučno snimanje (Tekst značajan za EGP) (SL L 94, 10. 4. 2015.).«
