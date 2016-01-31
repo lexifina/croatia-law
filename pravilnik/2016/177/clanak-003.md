@@ -1,0 +1,2 @@
+# Članak 3.
+Zdravstvene ustanove, zdravstveni radnici koji obavljaju zdravstvenu djelatnost u privatnoj praksi te trgovačka društva koja obavljaju zdravstvenu djelatnost, a koja su započela s radom prije stupanja na snagu Pravilnika o minimalnim uvjetima u pogledu prostora, radnika i medicinsko-tehničke opreme za obavljanje zdravstvene djelatnosti (»Narodne novine«, broj 61/11, 128/12 i 124/15) moraju uskladiti svoj rad s odredbama ovoga Pravilnika u roku od dvije godine od dana stupanja na snagu ovoga Pravilnika.
