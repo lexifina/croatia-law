@@ -1,0 +1,1 @@
+Na temelju članka 37. stavka 6. Zakona o strukovnom obrazovanju (»Narodne novine«, broj 30/2009) i članka 57. stavka 2. Zakona o obrtu (»Narodne novine«, broj 143/2013) ministar znanosti, obrazovanja i sporta donosi
