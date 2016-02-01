@@ -1,0 +1,12 @@
+## GLAVA VIII.
+## ZAVRŠNE ODREDBE
+# Članak 26.
+Posebno založno pravo Hrvatske narodne banke i pravo na prijeboj
+1. Hrvatska narodna banka ima posebno založno pravo nad sadašnjim i budućim novčanim sredstvima na svim namjenskim novčanim računima jednog imatelja kao financijsko osiguranje za sve sadašnje i buduće tražbine Hrvatske narodne banke prema tom imatelju namjenskih novčanih računa koje proizlaze iz međusobno sklopljenog Ugovora o otvaranju i funkcioniranju DCA-a u sustavu TARGET2-HR.
+2. Hrvatska narodna banka ima pravo navedeno u stavku 1. ovog članka čak i ako su njezine tražbine uvjetne ili još nisu dospjele.
+3. Sudionik djelujući u svojstvu imatelja DCA-a ovime priznaje zasnivanje posebnog založnog prava na sredstvima na svim njegovim namjenskim novčanim računima u korist Hrvatske narodne banke kod koje su ti računi otvoreni; ovim se priznanjem založena imovina stavlja na raspolaganje Hrvatskoj narodnoj banci kako je određeno prema Zakonu o financijskom osiguranju. Svi iznosi plaćeni na DCA čije je stanje založeno, samom činjenicom da su uplaćeni, neopozivo su založeni, bez ikakvog ograničenja, kao osiguranje za potpuno ispunjavanje osiguranih obveza.
+4. Po nastupu:
+(a) slučaja neispunjavanja obveza iz članka 24. stavka 1. ove Odluke ili
+(b) bilo kojeg drugog slučaja neispunjavanja obveza ili događaja iz članka 24. stavka 2. ove Odluke koji je doveo do trajnog ili privremenog isključenja imatelja DCA-a iz sudjelovanja, bez obzira na otvaranje postupka zbog insolventnosti nad imateljem DCA-a i bez obzira na ustupanje tražbine, sudsku ili drugu zabranu raspolaganja ili drugo raspolaganje pravima imatelja DCA-a ili u vezi s njima, sve obveze imatelja DCA-a prema Ugovoru o otvaranju i funkcioniranju DCA-a u sustavu TARGET2-HR automatski i odmah dospijevaju bez prethodne obavijesti i bez potrebe za prethodnim odobrenjem bilo kojeg tijela, tako da ih treba odmah ispuniti. Osim toga, međusobne obveze imatelja DCA-a i Hrvatske narodne banke automatski se međusobno prebijaju i strana koja duguje viši iznos drugoj plaća razliku.
+5. Hrvatska narodna banka obavješćuje imatelja DCA-a o svakom prijeboju u skladu sa stavkom 4. ovog članka odmah nakon provedbe tog prijeboja.
+6. Hrvatska narodna banka ovlaštena je bez prethodne obavijesti teretiti bilo koji DCA imatelja DCA-a za bilo koji iznos koji imatelj DCA-a duguje Hrvatskoj narodnoj banci, a koji potječe iz pravnog odnosa između imatelja DCA-a i Hrvatske narodne banke.
