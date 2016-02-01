@@ -1,0 +1,1 @@
+Na temelju članka 43. stavka 2. točke 9. i članka 86. stavka 3. Zakona o Hrvatskoj narodnoj banci (»Narodne novine«, br. 75/2008. i 54/2013.) i članka 49. Zakona o deviznom poslovanju (»Narodne novine«, br. 96/2003., 140/2005., 132/2006., 150/2008., 92/2009., 133/2009., 153/2009., 145/2010. i 76/2013.) guverner Hrvatske narodne banke donosi
