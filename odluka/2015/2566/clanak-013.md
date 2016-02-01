@@ -1,0 +1,14 @@
+# Članak 13.
+Postupak namire 4 - standardna višestrana namira
+(1) Kada nude postupak namire 4, središnje banke sporednih sustava i središnje banke namire podržavaju namiru višestranih gotovinskih stanja transakcija sporednog sustava namirenjem instrukcija za plaćanje dostavljenih od strane sporednog sustava u skupinama. Središnje banke sporednih sustava otvaraju poseban tehnički račun za taj sporedni sustav.
+(2) Središnje banke sporednih sustava i središnje banke namire osiguravaju potrebno utvrđivanje redoslijeda instrukcija za plaćanje. One će uknjižiti samo odobrenja, ako sva terećenja budu uspješno naplaćena. Instrukcije za plaćanje: (a) kojima se terete računi banaka namire s kratkom pozicijom i odobrava tehnički račun sporednog sustava i (b) kojima se odobravaju računi banaka namire s dugom pozicijom i tereti tehnički račun sporednog sustava dostavljaju se u jednoj datoteci.
+(3) Najprije se namiruju instrukcije za plaćanje kojima se tereti PM račun banaka namire s kratkom pozicijom i odobrava tehnički račun sporednog sustava; tek nakon namire svih tih instrukcija za plaćanje (uključujući moguće financiranje tehničkog računa od strane mehanizma jamstvenog fonda) odobravaju se PM računi banaka namire s dugom pozicijom.
+(4) Ako je instrukcija za plaćanje kojom se tereti PM račun banke namire s kratkom pozicijom uvrštena u red u skladu s odredbama Odluke o uvjetima za otvaranje i funkcioniranje PM računa u sustavu TARGET2-HR, središnje banke namire obavješćuju tu banku namire preko ICM poruke.
+(5) Ako banka namire s kratkom pozicijom nema dovoljno sredstava na svojem PM računu, ASCB aktivira mehanizam jamstvenog fonda, ako je tako predviđeno dvostranim sporazumom između ASCB-a i sporednog sustava.
+(6) Ako nije predviđen mehanizam jamstvenog fonda i cijela namira ne uspije, uzima se da su središnje banke sporednih sustava i središnje banke namire dobile uputu za vraćanje svih instrukcija za plaćanje u datoteci te da će poništiti instrukcije za plaćanje koje su bile namirene.
+(7) Središnje banke sporednih sustava obavješćuju banke namire o neuspjehu namire preko ICM poruke.
+(8) Središnje banke sporednih sustava mogu ponuditi:
+(a) namiru instrukcija za plaćanje unutar određenih rokova koje utvrđuje sporedni sustav, kako je navedeno u članku 16. stavku 3. ove Odluke,
+(b) funkcionalnost »informacijskog razdoblja«, kako je navedeno u članku 16. stavku 1. ove Odluke i
+(c) mehanizam jamstvenog fonda, kako je naveden u članku 16. stavku 4. ove Odluke.
+(9) Banke namire i sporedni sustavi imaju pristup informacijama preko ICM-a. Sporedni sustavi moraju biti obaviješteni o dovršetku ili neuspjehu namire. Ako zatraže, banke namire moraju biti obaviještene o uspješnoj namiri preko SWIFT poruke MT 900 ili MT 910. Imatelji PM računa koji se koriste internetskim pristupom moraju biti obaviješteni putem poruke na ICM-u.

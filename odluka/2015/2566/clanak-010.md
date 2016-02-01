@@ -1,0 +1,6 @@
+# Članak 10.
+Postupak namire 1 - prijenos likvidnosti
+(1) Kada nude postupak namire 1, središnje banke sporednih sustava i središnje banke namire podržavaju prijenos likvidnosti sa zrcalnog računa na PM račun banke namire preko ASI-ja. Prijenos likvidnosti može inicirati sporedni sustav ili ASCB koji djeluje u ime sporednog sustava.
+(2) Postupak namire 1 upotrebljava se samo za integrirane modele kod kojih relevantni sporedni sustav mora upotrijebiti zrcalni račun, prvo radi prikupljanja potrebne likvidnosti koju je namijenila njegova banka namire i, drugo, radi prijenosa te likvidnosti natrag na PM račun banke namire.
+(3) Središnje banke sporednih sustava mogu ponuditi namiru instrukcija za plaćanje unutar određenih rokova koje utvrđuje sporedni sustav, kako je navedeno u članku 16. stavcima 2. i 3. ove Odluke.
+(4) Banke namire i sporedni sustavi imaju pristup informacijama preko ICM-a. Sporedni sustavi moraju biti obaviješteni o dovršetku ili neuspjehu namire. Ako sporedni sustav inicira prijenos likvidnosti sa zrcalnog računa na PM račun banke namire, banke namire koje pristupaju sustavu TARGET2 preko pružatelja mrežnih usluga sustavu TARGET2 moraju biti obaviještene o odobrenju SWIFT porukom MT 202. Imatelji PM računa koji se koriste internetskim pristupom moraju biti obaviješteni putem poruke na ICM-u.
