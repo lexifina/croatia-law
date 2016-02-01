@@ -1,0 +1,10 @@
+# Članak 4.
+Definicije
+1. Za potrebe ove Odluke primjenjuju se sljedeće definicije:
+1) »tijelo za certificiranje« znači jedna ili više nacionalnih središnjih banaka koje je odredilo Upravno vijeće da kao takve u ime Eurosustava izdaju, upravljaju, opozivaju i obnavljaju elektroničke certifikate;
+2) »elektronički certifikati« ili »certifikati« znači elektronička datoteka koju je izdalo tijelo za certificiranje, koja povezuje javni ključ s identitetom i koja se upotrebljava za sljedeće svrhe: provjeru pripada li javni ključ pojedincu, provjeru imatelja, provjeru potpisa tog pojedinca ili enkripciju poruke naslovljene na tog pojedinca. Certifikati se drže na fizičkom uređaju kao što je pametna kartica ili USB ključ te upućivanja na certifikate uključuju te fizičke uređaje. Certifikati su bitni za postupak provjere autentičnosti sudionika koji pristupaju sustavu TARGET2 preko interneta i dostavljaju platne poruke ili kontrolne poruke;
+3) »imatelj certifikata« znači imenovana, pojedinačna osoba koju je sudionik u sustavu TARGET2 identificirao i odredio kao ovlaštenu za internetski pristup računu sudionika u sustav TARGET2. Zahtjev za certifikate provjerit će matični NSB sudionika i proslijediti tijelu za certificiranje, koje će potom dostaviti certifikate koji povezuju javni ključ s podacima za provjeru koji identificiraju sudionika;
+4) »internetski pristup« znači da se sudionik odlučio za PM račun kojemu se može pristupiti samo preko interneta i da sudionik dostavlja platne poruke ili kontrolne poruke sustavu TARGET2 preko interneta;
+5) »pružatelj internetskih usluga« znači društvo ili organizacija, tj. ulaz koji sudionik sustava TARGET2 upotrebljava da bi koristeći se internetskim pristupom pristupio svojem računu u sustavu TARGET2.
+2. Za potrebe ove Odluke definicija iz članka 3. točke 23. Odluke o uvjetima za otvaranje i funkcioniranje PM računa u sustavu TARGET2-HR mijenja se i glasi:
+»23) 'nalog za plaćanje' znači nalog za kreditni transfer, nalog za prijenos likvidnosti ili instrukcija za izravno terećenje.«
