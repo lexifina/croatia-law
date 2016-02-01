@@ -1,0 +1,7 @@
+# Članak 32.
+Dokazi
+1. Ako nije drukčije uređeno ovom Odlukom, sve platne poruke i poruke koje se odnose na obradu plaćanja u sustavu TARGET2-HR između Hrvatske narodne banke i sudionika (kao što su potvrde terećenja ili odobrenja ili izvadci iz računa), prenose se preko pružatelja mrežnih usluga sustavu TARGET2.
+2. Elektronički ili pisani zapisi poruka koje zadrži Hrvatska narodna banka ili pružatelj mrežnih usluga sustavu TARGET2 dokazno su sredstvo za plaćanja koja je obradila Hrvatska narodna banka. Snimljena ili ispisana inačica izvorne poruke pružatelja mrežnih usluga sustavu TARGET2 dokazno je sredstvo neovisno o obliku izvorne poruke.
+3. Ako se sudionikova veza s pružateljem mrežnih usluga sustavu TARGET2 prekine, sudionik upotrebljava drugo sredstvo prijenosa poruka utvrđeno u Dodatku IV. ove Odluke. U tim slučajevima inačica poruke koju je snimila ili ispisala Hrvatska narodna banka ima istu dokaznu snagu kao i izvorna poruka, neovisno o njezinu obliku.
+4. Hrvatska narodna banka čuva cjelokupnu evidenciju naloga za plaćanje podnesenih i plaćanja primljenih od strane sudionika 11 godina od dana kada su ti nalozi za plaćanje podneseni i plaćanja primljena, osim ako posebnim propisima nije određen duži rok.
+5. Vlastite poslovne knjige i evidencije Hrvatske narodne banke (pohranjene na papiru, mikrofilmu, mikrofišu, elektroničkoj ili magnetskoj snimci, u drugom obliku koji je moguće mehanički reproducirati ili bilo kojem drugom obliku) dokazna su sredstva za sve obveze sudionika i za sve činjenice i događaje na koje se stranke pozivaju.

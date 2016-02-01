@@ -1,0 +1,4 @@
+# Članak 7.
+Neizravni sudionici
+1. Kreditne institucije osnovane u EGP-u mogu sklopiti ugovor s jednim imateljem PM računa koji je kreditna institucija u smislu članka 5. stavka 1. točke (a) ili (b) ove Odluke ili SB, radi dostavljanja naloga za plaćanje i/ili primanja plaćanja te radi njihova namirenja preko PM računa tog imatelja PM računa. Sustav TARGET2-HR priznaje neizravnog sudionika registriranjem tog neizravnog sudionika u imeniku sustava TARGET2, koji je uređen u članku 10. ove Odluke.
+2. Ako imatelj PM računa, koji je kreditna institucija u smislu članka 5. stavka 1. točke (a) ili (b) ove Odluke, i neizravni sudionik pripadaju istoj grupi, imatelj PM računa može izričito ovlastiti neizravnog sudionika da upotrebljava njegov PM račun za izravnu dostavu naloga za plaćanje i/ili primanje plaćanja putem pristupa za više adresata povezanog s grupom.

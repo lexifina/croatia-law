@@ -1,0 +1,6 @@
+# Članak 40.
+Obavijesti
+1. Osim ako je drukčije uređeno ovom Odlukom, sve obavijesti koje su potrebne ili dopuštene u skladu s ovom Odlukom šalju se preporučenom poštom, telefaksom ili na drugi način u pisanom obliku ili autentificiranom porukom preko pružatelja mrežnih usluga sustavu TARGET2. Obavijesti Hrvatskoj narodnoj banci dostavljaju se direktoru Direkcije za operativne poslove platnog prometa, Trg hrvatskih velikana 3, Zagreb ili na BIC adresu NBHRHR2X. Obavijesti sudioniku šalju se na adresu, broj telefaksa ili njegovu BIC adresu, o čemu sudionik s vremena na vrijeme obavješćuje Hrvatsku narodnu banku.
+2. Kao dokaz da je obavijest poslana, dostatno je dokazati da je obavijest dostavljena na relevantnu adresu ili da je omot, koji sadrži tu obavijest, pravilno adresiran i poslan poštom.
+3. Sve obavijesti moraju biti na hrvatskom i/ili engleskom jeziku.
+4. Sudionike obvezuju svi obrasci i dokumenti Hrvatske narodne banke koje su sudionici ispunili i/ili potpisali i koji su dostavljeni u skladu sa stavcima 1. i 2. ovog članka i za koje Hrvatska narodna banka razumno drži da ih je primila od sudionika, njihovih zaposlenika ili zastupnika. Takvi obrasci i dokumenti uključuju obrasce za prikupljanje statičnih podataka iz članka 9. stavka 2. točke (a) ove Odluke i informacije dane na temelju članka 12. stavka 5. ove Odluke.
