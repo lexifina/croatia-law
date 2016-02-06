@@ -1,0 +1,3 @@
+# Članak 2.
+(1) Društva za osiguranje moraju omogućiti jednaki tretman oba spola kao faktora za izračun premije osiguranja i određivanje obveza iz osiguranja.
+(2) Društva za osiguranje ne smiju prilikom izračuna premija i određivanja obveza iz osiguranja uzeti u obzir osobne okolnosti spola i to pri sklapanju svakog ugovora o osiguranju, što uključuje i sve ponude osiguranja koje će biti potpisane ili podnesene društvu za osiguranje u cilju sklapanja ugovora o osiguranju kao i sve sporazume između ugovornih strana, u svrhu produljenja sklopljenih ugovora o osiguranju, a koji bi inače istekli (prestali).
