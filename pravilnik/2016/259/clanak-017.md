@@ -1,0 +1,2 @@
+# Članak 17.
+U članku 31. riječi »poslodavac osoba iz članka 21. stavka 2. i članka 22. stavka 1. ovoga Pravilnika obvezan je pristupniku iz članka 21. stavka 2. i članka 22. stavka 2. ovoga Pravilnika« zamjenjuju se riječima »poslodavac osobe koja u smislu ovog pravilnika mora dopunskom izobrazbom ili posebnim obrazovanjem steći posebno stručno obrazovanje o primjeni mjera radiološke sigurnosti i/ili koja mora obnoviti znanje o primjeni mjera radiološke sigurnosti obvezan je«.
