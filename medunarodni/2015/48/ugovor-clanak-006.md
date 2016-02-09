@@ -1,0 +1,2 @@
+# Članak 6.
+Ugovorne stranke su suglasne da se za sustave iz članka 4. ovog Ugovora, prije početka građenja, uz provedbeni ugovor iz članka 5. ovog Ugovora priloži i odgovarajuća dokumentacija s tehničkim rješenjima, iz koje će biti razvidno da postoje raspoložive količine vode koje se mogu isporučiti s državnog područja države na kojem se nalazi zahvat vode, bez štetnih posljedica za tu državu, kao i dokaz da će u graničnom profilu primopredaje vode biti ugrađen mjerni uređaj.
