@@ -1,0 +1,1 @@
+Na temelju članka 152. u vezi s člankom 159.a stavkom 5. Zakona o državnom odvjetništvu (»Narodne novine« broj 76/09, 153/09, 116/10, 145/10, 57/11, 130/11, 72/13, 148/13, 33/15 i 82/15, u daljnjem tekstu: Zakon) na 18. sjednici održanoj 15. siječnja 2016. donijelo je
