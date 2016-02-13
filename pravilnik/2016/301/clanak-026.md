@@ -1,0 +1,2 @@
+# Članak 26.
+Danom stupanja na snagu ovoga Pravilnika prestaju važiti: Pravilnik o radu i strukovnoj izobrazbi, popisu i opisu poslova zatvorenika, te naknadi za rad i nagradi (»Narodne novine«, broj 24/02.) i Pravilnik o dopuni Pravilnika o radu i strukovnoj izobrazbi, popisu i opisu poslova zatvorenika, te naknadi za rad i nagradi (»Narodne novine«, broj 43/02.) i Pravilnika o izmjenama i dopunama Pravilnika o radu i strukovnoj izobrazbi, popisu i opisu poslova zatvorenika, te naknadi za rad i nagradi (»Narodne novine«, broj 55/10.).

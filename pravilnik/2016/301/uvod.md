@@ -1,0 +1,1 @@
+Na temelju članka 80. stavka 5. i članka 81. stavka 5. Zakona o izvršavanju kazne zatvora (»Narodne novine«, broj 128/99., 55/00., 59/00., 129/00., 59/01., 67/01., 11/02., 190/03., 76/07., 27/08., 83/09., 18/11., 48/11., 125/11., 56/13., 150/13.), ministar pravosuđa donosi
