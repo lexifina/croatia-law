@@ -1,0 +1,1 @@
+Na temelju članka 21. stavka 1. Zakona o regionalnom razvoju Republike Hrvatske (»Narodne novine«, broj 147/14) i članka 4. stavka 1. Uredbe o osnivanju, sastavu, djelokrugu i načinu rada partnerskih vijeća (»Narodne novine«, broj 103/15), Vlada Republike Hrvatske je na sjednici održanoj 17. veljače 2016. godine donijela
