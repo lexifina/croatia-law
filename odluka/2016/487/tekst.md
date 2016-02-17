@@ -1,0 +1,39 @@
+I.
+U skladu s Nacionalnom klasifikacijom prostornih jedinica za statistiku 2012. (NKPJS 2012.) (»Narodne novine«, br. 96/12 i 102/12) kojom je Republika Hrvatska podijeljena na dvije prostorne jedinice za statistiku 2. razine, osniva se partnersko vijeće za statističku regiju Kontinentalna Hrvatska pod nazivom Partnersko vijeće Kontinentalne Hrvatske (u daljnjem tekstu: partnersko vijeće).
+II.
+Članovi partnerskog vijeća iz točke I. ove Odluke su:
+- dva predstavnika Ministarstva regionalnoga razvoja i fondova Europske unije
+- jedan predstavnik:
+1. Ministarstva financija
+2. Ministarstva gospodarstva
+3. Ministarstva rada i mirovinskoga sustava
+4. Ministarstva uprave
+5. Ministarstva kulture
+6. Ministarstva pomorstva, prometa i infrastrukture
+7. Ministarstva poljoprivrede
+8. Ministarstva turizma
+9. Ministarstva zaštite okoliša i prirode
+10. Ministarstva zdravlja
+11. Ministarstva graditeljstva i prostornoga uređenja
+12. Ministarstva socijalne politike i mladih
+13. Ministarstva znanosti, obrazovanja i sporta
+14. Agencije za regionalni razvoj Republike Hrvatske
+15. Hrvatske zajednice županija
+16. Udruge gradova
+17. Udruge općina
+18. Hrvatske gospodarske komore
+19. Hrvatske obrtničke komore
+20. Hrvatske poljoprivredne komore
+21. Hrvatske udruge poslodavaca
+22. Hrvatske turističke zajednice
+23. sindikata
+24. udruga koje djeluju u području zaštite okoliša ili održivog razvoja
+25. udruga mladih
+- pet članova partnerskog vijeća za područje županije na čijem području se nalazi urbana aglomeracija te četiri člana partnerskog vijeća za područje ostalih županija s područja statističke regije
+- dva predstavnika znanstvene zajednice.
+III.
+Predsjednik partnerskog vijeća iz točke I. ove Odluke, članovi i zamjenici izabrat će se u skladu s člancima 7. i 8. Uredbe o osnivanju, sastavu, djelokrugu i načinu rada partnerskih vijeća.
+IV.
+Zadužuje se Ministarstvo regionalnoga razvoja i fondova Europske unije da o donošenju ove Odluke obavijesti tijela državne uprave i druge pravne osobe navedene u točki II. ove Odluke.
+V.
+Ova Odluka stupa na snagu danom donošenja, a objavit će se u »Narodnim novinama«.
