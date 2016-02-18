@@ -1,0 +1,3 @@
+# Članak 7.
+(1) Adresati ovoga Pravilnika dostavljaju Agenciji dokumentaciju propisanu ovim Pravilnikom u izvorniku ili presliku, osim dokumentacije propisane člankom 2. stavkom 3. i člankom 4. stavkom 7. ovoga Pravilnika koja se dostavlja pisano ili u elektroničkom obliku (excel formatu) na adresu elektroničke pošte insurance.legal@hanfa.hr. Dostavljena dokumentacija se ne vraća.
+(2) Adresati ovoga Pravilnika dužni su Agenciju, bez odgađanja, pisano obavijestiti o prestanku postojanja uvjeta na temelju kojih im je Agencija u skladu sa Zakonom o osiguranju izdala dozvolu ili ovlaštenje za rad.
