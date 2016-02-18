@@ -1,0 +1,1 @@
+Odluka o raspisivanju prijevremenih izbora za gradsko vijeće i gradonačelnika te zamjenike gradonačelnika u gradovima Novoj Gradišci i Novalji te za općinsko vijeće i općinskog načelnika te zamjenike općinskog načelnika u općinama Matulji, Ražanac, Kolan, Kalnik, Ližnjan - Lisignano, Cestica i Gvozd
