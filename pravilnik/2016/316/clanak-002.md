@@ -1,0 +1,2 @@
+# Članak 2.
+U Glavi IV. Mjerila podobnosti za davanje alogeničnih doza krvi ili krvnih sastojaka, u članku 5, točki 2.2. Mjerila za privremeno odbijanje davatelja alogeničnih doza, podtočki 2.2.1. Infekcije, u stavku 2., retku 15. Tablice, mijenja se tekst u drugom stupcu na način da glasi: »28 dana nakon napuštanja područja na kojem postoji rizik zaraze virusom Zapadnog Nila, osim ako je rezultat pojedinačnog NAT testiranja negativan«.
