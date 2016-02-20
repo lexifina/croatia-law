@@ -1,0 +1,5 @@
+## Odobravanje izuzeća u postupku izdavanja odobrenja za uporabu aerodroma
+# Članak 12.
+(1) Operator aerodroma može podnijeti zahtjev za izdavanje odobrenja za uporabu aerodroma i u slučaju nesukladnosti zbog kojih ne bi bili ispunjeni pojedini uvjeti propisani ovim Pravilnikom, ako sigurnost i zaštita zračnog prometa nisu ugrožene iako nisu ispunjeni svi uvjeti za izdavanje odobrenja propisani ovim Pravilnikom.
+(2) Aeronautičkom studijom ili drugim prikladnim elaboratom ili studijom, koja se prilaže uz zahtjev, operator aerodroma mora dokazati da utvrđene nesukladnosti ne utječu na sigurnost i zaštitu zračnog prometa.
+(3) Nakon provedenog postupka Agencija može u skladu s člankom 10. stavkom 1. točkom b) alinejom drugom ovoga Pravilnika, odobriti odgovarajuća izuzeća od propisanih uvjeta iz stavka 1. ovoga članka koja ne utječu na sigurnost i zaštitu zračnog prometa te izdati odobrenje za uporabu aerodroma s vremenskim ograničenjem valjanosti, u kojem su navedene utvrđene nesukladnosti i odstupanja od propisanih uvjeta.
