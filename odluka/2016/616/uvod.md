@@ -1,0 +1,1 @@
+Na temelju članka 19. stavka 3. i članka 35. Zakona o pomorskom dobru i morskim lukama (»Narodne novine«, br. 158/03, 100/04, 141/06, 38/09 i 123/11), te članka 5. Uredbe o postupku davanja koncesije na pomorskom dobru (»Narodne novine«, br. 23/04, 101/04, 39/06, 63/08, 125/10, 102/11 i 83/12), Vlada Republike Hrvatske je na sjednici održanoj 25. veljače 2016. godine donijela
