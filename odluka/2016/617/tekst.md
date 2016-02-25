@@ -1,0 +1,7 @@
+O IZMJENI ODLUKE O KONCESIJI NA POMORSKOM DOBRU U SVRHU IZGRADNJE I GOSPODARSKOG KORIŠTENJA LUKE POSEBNE NAMJENE - LUKE NAUTIČKOG TURIZMA U UVALI LUKE, NA DIJELU k.o. TISNO
+I.
+U Odluci o koncesiji na pomorskom dobru u svrhu izgradnje i gospodarskog korištenja luke posebne namjene - luke nautičkog turizma u uvali Luke, na dijelu k.o. Tisno (»Narodne novine«, br. 28/14 i 97/15), u točki VIII. stavku 1. riječi: »u roku od dvije godine od dana objave ove Odluke u 'Narodnim novinama'« zamjenjuju se riječima: »do 1. lipnja 2016. godine«.
+II.
+Zadužuje se Ovlaštenik koncesije dostaviti Ministarstvu pomorstva, prometa i infrastrukture produženje garancije za ozbiljnost ponude s rokom važenja do 1. lipnja 2016. godine.
+III.
+Ova Odluka stupa na snagu danom donošenja, a objavit će se u »Narodnim novinama«.
