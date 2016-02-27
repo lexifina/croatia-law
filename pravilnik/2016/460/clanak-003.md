@@ -1,0 +1,7 @@
+## Uvjeti i dokumentacija za polaganje ispita za dobivanje ovlaštenja za obavljanje poslova zastupanja u osiguranju
+# Članak 3.
+(1) Ispitu za provjeru stručnih znanja potrebnih za dobivanje ovlaštenja za obavljanje poslova zastupanja u osiguranju može pristupiti osoba koja ispunjava uvjete iz članka 415. stavka 2. točaka 2., 3. i 4. Zakona o osiguranju, a to dokazuje sljedećom dokumentacijom koja se dostavlja uz prijavu za ispit:
+1. ovjerenom preslikom isprave o završenoj srednjoj školi ili ispravom izdanom u obliku elektroničkog zapisa putem sustava e-Građani ili dokumentom o priznavanju inozemne srednjoškolske kvalifikacije u svrhu zapošljavanja ili nastavka obrazovanja, izdanom od strane nadležnog tijela u Republici Hrvatskoj,
+2. izjavom, koja je sastavni dio prijave za ispit, a kojom osoba koja prijavljuje ispit vlastoručnim potpisom potvrđuje ispunjavanje uvjeta iz članka 415. stavka 2. točke 4. Zakona o osiguranju.
+(2) Osim dokumentacije navedene u stavku 1. ovoga članka, uz prijavu za ispit osoba je dužna priložiti i dokaze o plaćenoj naknadi i administrativnoj pristojbi u skladu s odredbama Pravilnika kojim Agencija propisuje vrstu i visinu naknada i administrativnih pristojbi.
+(3) Ako osobno ime i prezime na ispravama iz ovog članka nije identično onom na prijavi za polaganje ispita iz ovoga Pravilnika, potrebno je uz prijavu za ispit priložiti i izvod iz matične knjige vjenčanih ili vjenčani list odnosno rješenje o promjeni osobnog imena.
