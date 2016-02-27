@@ -1,0 +1,74 @@
+PRILOG 1.
+POPIS NEPRIHVATLJIVIH I UVJETNO PRIHVATLJIVIH IZDATAKA UKLJUČUJUĆI IZNIMKE I UVJETE
+Rn. br.
+Izdatak
+Neprihvatljivo/Uvjetno prihvatljivo
+Iznimke i uvjeti
+1.
+Kamata na dug
+neprihvatljivo
+2.
+Pružanje infrastrukture
+neprihvatljivo
+3.
+Troškovi rabljene robe
+neprihvatljivo
+4.
+Ulaganja u kapital ili kreditna ulaganja
+neprihvatljivo
+5.
+Doprinosi u naravi: nefinancijski doprinosi (robe ili usluge) od trećih strana koji ne obuhvaćaju izdatke za korisnika
+neprihvatljivo
+6.
+Kupnja opreme i vozila koja se koriste u svrhu upravljanja projektom
+neprihvatljivo
+7.
+Otpremnine, doprinosi za dobrovoljna zdravstvena ili mirovinska osiguranja koja nisu obvezna prema nacionalnom zakonodavstvu
+neprihvatljivo
+8.
+Kazne, financijske globe i troškovi sudskog spora
+neprihvatljivo
+9.
+Gubici zbog fluktuacija valutnih tečaja i provizija na valutni tečaj
+neprihvatljivo
+10.
+Plaćanja neoporezivih bonusa zaposlenima
+uvjetno prihvatljivo
+Prihvatljivo u okviru Tehničke pomoći.
+11.
+Bankovni troškovi za otvaranje i vođenje računa, naknade za financijske transfere i drugi troškovi u potpunosti financijske prirode
+neprihvatljivo
+12.
+Kupnja zemljišta i nekretnina
+neprihvatljivo
+13.
+Porez na dodanu vrijednost (PDV)
+uvjetno prihvatljivo
+Osim ako povrat poreza nije moguć u okviru nacionalnog zakonodavstva o PDV-u.
+14.
+Amortizacija trajne materijalne imovine
+uvjetno prihvatljivo
+a) Troškovi amortizacije izračunavaju se u skladu s relevantnim nacionalnim računovodstvenim pravilima i računovodstvenom politikom Korisnika. Iznos izdataka mora biti propisno opravdan pratećom dokumentacijom koja ima istu dokaznu vrijednost kao i računi za prihvatljive troškove kad se nadoknađuju kao prihvatljivi troškovi, nastali i plaćeni;
+b) Troškovi se odnose isključivo na razdoblje potpore projektu;
+c) Navedena trajna materijalna imovina izravno se koristi za projekte, i
+d) Javna bespovratna sredstva nisu doprinijela stjecanju amortizirane imovine.
+15.
+Standardne veličine jediničnih troškova, fiksni iznosi koji nisu veći od 100.000 EUR javnog doprinosa, financiranje primjenom fiksnih stopa, utvrđeno primjenom postotka na jednu ili više utvrđenih kategorija troškova.
+uvjetno prihvatljivo
+Prihvatljivo sukladno metodologiji Pojednostavljenih troškovnih opcija koju izrađuje Upravljačko tijelo.
+16.
+Neizravni troškovi
+uvjetno prihvatljivo
+Ukoliko se:
+- Izračunavaju primjenom fiksne stope, sukladno članku 26. Uredbe (EU) br. 223/2014; ili
+- Izračunavaju primjenom standardne veličine jediničnih troškova ili primjenom fiksnih iznosa koji nisu veći od 100.000 EUR javnog doprinosa; ili
+- Temelje na stvarnim troškovima.
+17.
+Izdaci povezani s uslugom revizije projekta, koju nabavlja Korisnik
+uvjetno prihvatljivo
+Ukoliko se odnosi na zahtjeve Posredničkog tijela za obavljanje takve revizije.
+18.
+Izdaci jamstava koja izdaje banka ili druga financijska institucija
+uvjetno prihvatljivo
+Ukoliko nacionalno ili zakonodavstvo Europske unije zahtijeva jamstvo.
+16 19.02.2016 Pravilnik o prihvatljivosti izdataka u okviru Fonda europske pomoći za najpotrebitije (FEAD)

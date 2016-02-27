@@ -1,0 +1,1 @@
+Na temelju točke 4. stavka 3. točke 11. Odluke o tijelima u sustavu upravljanja, provedbe i kontrole korištenja Fonda europske pomoći za najpotrebitije u okviru Operativnog programa za hranu i/ili osnovnu materijalnu pomoć za razdoblje 2014. - 2020. (»Narodne novine«, broj 78/2015), ministrica rada i mirovinskoga sustava donosi
