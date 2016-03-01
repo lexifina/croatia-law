@@ -1,0 +1,8 @@
+# Članak 1.
+Dopuštenje za obavljanje dohodovne djelatnosti
+1. Članovima obitelji koji čine dio kućanstva člana diplomatske misije ili konzularnog ureda države šiljateljice imenovanog za obavljanje službenog zadatka u državi primateljici, dopušteno je, na temelju uzajamnosti, obavljati dohodovnu djelatnost u državi primateljici u skladu sa zakonima i propisima države primateljice i odredbama ovog Ugovora.
+2. Država primateljica zadržava pravo da uskrati dopuštenje za zapošljavanje u određenim područjima, između ostalog:
+a) ako je poslodavac država primateljica, uključujući njezine djelomično samostalne agencije, zaklade, trgovačka društva u državnom vlasništvu te mješovitom javno-privatnom vlasništvu; i
+b) ako djelatnost utječe na nacionalnu sigurnost ili u slučajevima kada, iz sigurnosnih razloga, samo državljani države primateljice mogu biti zaposleni.
+3. Svako dopuštenje za obavljanje dohodovne djelatnosti u državi primateljici dano u skladu s ovim Ugovorom članu obitelji člana diplomatske misije ili konzularnog ureda koji čini dio njegovog/njezinog kućanstva, vrijedi samo za vrijeme mandata tog člana diplomatske misije ili konzularnog ureda u državi primateljici.
+4. Kada član diplomatske misije ili konzularnog ureda prestane obavljati dužnost u državi primateljici, član obitelji tog člana diplomatske misije ili konzularnog ureda koji čini dio njegovog/njezinog kućanstva i obavlja dohodovnu djelatnost u državi primateljici temeljem prethodnog dopuštenja u skladu s člankom 3. ovog Ugovora, može nastaviti obavljati dohodovnu djelatnost u državi primateljici isključivo pod uvjetima i u skladu s primjenjivim zakonima i propisima države primateljice.
