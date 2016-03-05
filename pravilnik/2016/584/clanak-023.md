@@ -1,0 +1,12 @@
+## Dodjela prava na plaćanje iz nacionalne rezerve
+# Članak 23.
+(1) Nacionalna rezerva prava na plaćanje koristi se u skladu s člankom 34. Zakona za dodjelu prava na plaćanje za namjene i na način propisan u članku 30. Uredbe (EU) br. 1307/2013.
+(2) Prioritet za dodjelu prava na plaćanje u okviru nacionalne rezerve imaju:
+- mladi poljoprivrednici definirani u članku 30. stavku 11. točki a. Uredbe (EU) br. 1307/2013,
+- novi poljoprivrednici definirani u članku 30. stavku 11. točki b. Uredbe (EU) br. 1307/2013 koji započinju obavljati svoju poljoprivrednu aktivnost,
+- poljoprivrednici koji su stekli pravo korištenja poljoprivrednog zemljišta u vlasništvu Republike Hrvatske i poljoprivrednici koji obrađuju poljoprivredno zemljište razminirano tijekom 2015. godine ukoliko je posebna nacionalna omotnica za razminirano zemljište iz članka 28. ovoga Pravilnika iskorištena,
+- sukladno članku 30. stavku 7. točki b. Uredbe (EU) br. 1307/2013, poljoprivrednici čijih se najmanje 50% poljoprivrednih površina upisanih u ARKOD nalazi na područjima posebne državne skrbi, otocima i poluotoku Pelješac, brdsko-planinskim područjima, kao i poljoprivrednici čijih se najmanje 50% poljoprivrednih površina upisanih u ARKOD nalazi na područjima s prirodnim ograničenjima ili ostalim posebnim ograničenjima prema posebnom propisu za provedbu mjera Programa ruralnog razvoja Republike Hrvatske 2014. - 2020.,
+- sukladno članku 30. stavku 7. točki c. Uredbe (EU) br. 1307/2013, poljoprivrednici kojima zbog više sile ili iznimnih okolnosti nisu mogla biti dodijeljena prava na plaćanja.
+(3) Vrijednost prava na plaćanje iz nacionalne rezerve utvrđuje se sukladno odredbama članaka 28. do 31. Delegirane uredbe Komisije (EU) br. 639/2014.
+(4) Mladi poljoprivrednici i novi poljoprivrednici iz stavka 2. ovoga članka mogu samo jednom ostvariti prava na plaćanja iz nacionalne rezerve prema kriteriju za mlade ili nove poljoprivrednike.
+(5) Mladi poljoprivrednici i novi poljoprivrednici koji za 2016. godinu podnose zahtjev za osnovno plaćanje, a koji uključuje zahtjev za dodjelu prava iz nacionalne rezerve, ukoliko ne žele dobiti prava iz nacionalne rezerve u 2016. godini, trebaju nadležnom regionalnom uredu Agencije za plaćanja najkasnije do 10. srpnja 2016. godine dostaviti Izjavu o odustajanju od zahtjeva za dodjelu prava iz nacionalne rezerve u 2016. godini na Obrascu 6. iz Priloga 3. ovoga Pravilnika.
