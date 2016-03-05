@@ -1,0 +1,1 @@
+Na temelju odredbe članka 15. točke 1. i članka 8. Zakona o Hrvatskoj agenciji za nadzor financijskih usluga (»Narodne novine« broj 140/05 i 12/12) te članka 135. stavka 2. Zakona o mirovinskim osiguravajućim društvima (»Narodne novine« broj 22/14), Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća održanoj 19. veljače 2016. donosi
