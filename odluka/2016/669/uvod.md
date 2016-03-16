@@ -1,0 +1,1 @@
+Na temelju članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/11 i 119/14) i članka 8. Zakona o Hrvatskom autoklubu (»Narodne novine«, broj 2/94), Vlada Republike Hrvatske je na sjednici održanoj 16. ožujka 2016. godine donijela
