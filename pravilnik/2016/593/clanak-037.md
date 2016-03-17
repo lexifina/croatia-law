@@ -1,0 +1,7 @@
+## Operativne obveze prijavljenih tijela
+# Članak 37.
+(1) Prijavljena tijela su obvezna provoditi postupke ocjenjivanja sukladnosti u skladu s Dodatkom II. ovoga Pravilnika.
+(2) Ocjenjivanje sukladnosti treba se provoditi na optimalan način izbjegavajući nepotrebna opterećenja gospodarskih subjekata. Tijelo za ocjenjivanje sukladnosti pri obavljanju svoje djelatnosti mora uzeti u obzir veličinu poduzeća, sektor u kojem djeluje, njegovo ustrojstvo, stupanj složenosti tehnologije određenog mjerila te količinu ili vrstu serije proizvodnog procesa, poštujući pritom stupanj prinudnosti propisa i razinu zaštite potrebne za postizanje sukladnosti mjerila sa zahtjevima ovoga Pravilnika.
+(3) Ako prijavljeno tijelo utvrdi da proizvođač ne zadovoljava temeljne zahtjeve iz Dodatka I. i iz odgovarajućih posebnih dodataka koji se odnose na pojedinu vrstu mjerila odnosno iz odgovarajuće usklađene norme, normativnog dokumenta ili druge tehničke specifikacije, zahtijevat će od proizvođača poduzimanje odgovarajućih popravnih radnji te ne smije izdati potvrdu o sukladnosti.
+(4) Ako prijavljeno tijelo tijekom nadzora sukladnosti nakon izdavanja potvrde utvrdi da mjerilo više nije sukladno, mora zahtijevati od proizvođača poduzimanje popravnih radnji i prema potrebi ukinuti ili povući potvrdu o sukladnosti.
+(5) Prijavljeno tijelo prema potrebi ograničava, ukida ili povlači izdane potvrde u slučaju da nisu poduzete popravne radnje ili nemaju zahtijevani učinak.

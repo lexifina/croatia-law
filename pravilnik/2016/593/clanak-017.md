@@ -1,0 +1,5 @@
+## Povlačenje upućivanja na normativne dokumente
+# Članak 17.
+(1) Kada središnje tijelo državne uprave nadležno za mjeriteljstvo smatra da normativni dokument iz članka 16. ovoga Pravilnika, čija je oznaka objavljena ili se namjerava objaviti u »Službenom listu Europske unije«, ne zadovoljava u potpunosti temeljne zahtjeve iz Dodatka I. i iz odgovarajućih posebnih dodataka koji se odnose na pojedinu vrstu mjerila, o tome mora obavijestiti informacijsku središnjicu u skladu s propisom o postupcima službenog obavješćivanja u području norma, tehničkih propisa i postupaka ocjenjivanja.
+(2) Ako Europska komisija obavijesti informacijsko središte da je potrebno povući upućivanja na određeni normativni dokument iz objave u »Službenome listu Europske unije«, ravnatelj središnjeg tijela državne uprave nadležnog za mjeriteljstvo objavit će povlačenje te nacionalne norme s popisa norma u »Narodnim novinama«.
+(3) Odluka iz stavka 1. ovoga članka donosi se u skladu sa savjetodavnim postupkom Europske komisije sukladno Uredbi (EU) br. 182/2011.

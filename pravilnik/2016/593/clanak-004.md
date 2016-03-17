@@ -1,0 +1,2 @@
+# Članak 4.
+Državni zavod za mjeriteljstvo (u daljnjem tekstu: središnje tijelo državne uprave nadležno za mjeriteljstvo) može za različite mjerne zadaće, kada to smatra opravdanim, propisati uporabu mjerila nad kojima se provodi zakonski mjeriteljski nadzor u slučajevima mjerenja koji odgovaraju razlozima od javnog interesa, javnog zdravlja, sigurnosti i reda, zaštite okoliša i potrošača, ubiranja poreza i pristojba te poštenog trgovanja.

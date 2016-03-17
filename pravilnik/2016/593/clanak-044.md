@@ -1,0 +1,5 @@
+## Sukladna mjerila koja predstavljaju rizik
+# Članak 44.
+(1) Ako središnje tijelo državne uprave nadležno za mjeriteljstvo nakon provedbe ocjenjivanja u skladu s člankom 43. stavkom 1. ovoga Pravilnika utvrdi da mjerilo predstavlja rizik za aspekte zaštite javnog interesa, iako je sukladno s odredbama ovoga Pravilnika, središnje tijelo državne uprave nadležno za mjeriteljstvo od relevantnog gospodarskog subjekta zahtijeva poduzimanje odgovarajućih mjera kako bi osiguralo da to mjerilo nakon stavljanja na tržište više ne predstavlja rizik, da ga se povuče s tržišta ili opozove u razumnom roku koji ono propiše i koji je primjeren naravi rizika.
+(2) Gospodarski subjekt mora osigurati poduzimanje popravnih radnji u vezi sa svim mjerilima koja je stavio na raspolaganje na tržištu Europske unije.
+(3) Središnje tijelo državne uprave nadležno za mjeriteljstvo o tome odmah obavješćuje Europsku komisiju i druge države članice. Navedene informacije obuhvaćaju sve dostupne pojedinosti, a posebno podatke nužne za identifikaciju određenog mjerila, podrijetlo i opskrbni lanac mjerila, vrstu rizika te trajanje poduzetih nacionalnih mjera.

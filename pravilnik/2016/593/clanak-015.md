@@ -1,0 +1,7 @@
+## III. SUKLADNOST MJERILA
+## Pretpostavka o sukladnosti mjerila
+# Članak 15.
+(1) Pretpostavlja se sukladnost mjerila s temeljnim zahtjevima iz Dodatka I. ovoga Pravilnika i s odgovarajućim posebnim dodacima koji se odnose na pojedinu vrstu mjerila, za ona mjerila koja su proizvedena prema usklađenim normama ili njihovim dijelovima, a čiji je popis oznaka objavljen u »Službenom listu Europske unije«.
+(2) Pretpostavlja se sukladnost mjerila s temeljnim zahtjevima iz Dodatka I. ovoga Pravilnika i s odgovarajućim posebnim dodacima koji se odnose na pojedinu vrstu mjerila, za ona mjerila koja su proizvedena prema dijelovima normativnih dokumenata, a čiji je popis oznaka objavljen u »Službenom listu Europske unije«.
+(3) Proizvođač može odabrati bilo koje tehničko rješenje koje zadovoljava temeljne zahtjeve iz Dodatka 1. ovoga Pravilnika i odgovarajućim posebnim dodacima koji se odnose na pojedinu vrstu mjerila. Međutim, da bi iskoristio pretpostavku o sukladnosti, proizvođač mora ispravno primijeniti rješenja navedena u odgovarajućim usklađenim normama ili normativnim dokumentima iz stavka 1. i 2. ovoga članka.
+(4) Pretpostavlja se sukladnost s odgovarajućim ispitivanjima navedenima u članku 19. stavku 3. točki i. ako je odgovarajući program ispitivanja proveden u skladu s odgovarajućim dokumentima navedenima u stavcima 1., 2. i 3. ovoga članka i ako rezultati ispitivanja osiguravaju sukladnost s temeljnim zahtjevima.
