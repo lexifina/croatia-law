@@ -1,0 +1,1 @@
+Na temelju članka 47. Zakona o financiranju jedinica lokalne i područne (regionalne) samouprave (»Narodne novine«, br. 117/93, 33/00, 73/00, 59/01, 107/01, 117/01 - ispravak, 150/02, 147/03, 132/06, 73/08, 25/12, 147/14 i 100/15) donosim
