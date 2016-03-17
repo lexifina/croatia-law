@@ -1,0 +1,5 @@
+## Sukladne vage koje predstavljaju rizik
+# Članak 40.
+(1) Ako središnje tijelo državne uprave nadležno za mjeriteljstvo nakon provedbe ocjenjivanja u skladu s člankom 39. stavkom 1. ovoga Pravilnika utvrdi da vaga predstavlja rizik za aspekte zaštite javnog interesa iako je sukladna s odredbama ovoga Pravilnika, središnje tijelo državne uprave nadležno za mjeriteljstvo od relevantnog gospodarskog subjekta zahtijeva poduzimanje odgovarajućih mjera kako bi osiguralo da ta vaga nakon stavljanja na tržište više ne predstavlja rizik, da je se povuče s tržišta ili opozove u razumnom roku, koji ono propiše i koji je primjeren naravi rizika.
+(2) Gospodarski subjekt mora osigurati poduzimanje popravnih radnji u vezi sa svim vagama koje je stavio na raspolaganje na tržištu Europske unije.
+(3) Središnje tijelo državne uprave nadležno za mjeriteljstvo o tome odmah obavješćuje Europsku komisiju i druge države članice. Navedene informacije obuhvaćaju sve dostupne pojedinosti, a posebno podatke nužne za identifikaciju određene vage, podrijetlo i opskrbni lanac, vrstu rizika te vrstu i trajanje poduzetih nacionalnih mjera.

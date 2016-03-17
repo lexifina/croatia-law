@@ -1,0 +1,1 @@
+Na temelju članka 21. stavka 1. Zakona o mjeriteljstvu (»Narodne novine« broj 74/14) i članka 4. stavka 1. Zakona o tehničkim zahtjevima za proizvode i ocjenjivanju sukladnosti (»Narodne novine« broj 80/13) ravnatelj Državnog zavoda za mjeriteljstvo donosi

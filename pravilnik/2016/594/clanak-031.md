@@ -1,0 +1,4 @@
+## Izmjene u prijavi
+# Članak 31.
+(1) U slučaju da središnje tijelo državne uprave nadležno za mjeriteljstvo utvrdi ili bude obaviješteno da prijavljeno tijelo više ne zadovoljava zahtjeve iz članka 25. ovoga Pravilnika ili da ne izvršava svoje obveze, središnje tijelo državne uprave nadležno za mjeriteljstvo će ograničiti, ukinuti ili povući prijavu, ovisno o stupnju neispunjenja zahtjeva ili neizvršenja obveza i o tome odmah obavijestiti Europsku komisiju i druge države članice.
+(2) U slučaju ograničenja, ukidanja ili povlačenja prijave ili u slučaju da prijavljeno tijelo prestane s poslovanjem, središnje tijelo državne uprave nadležno za mjeriteljstvo će poduzeti odgovarajuće mjere kojima će osigurati da predmete toga tijela obradi drugo prijavljeno tijelo ili će predmete na zahtjev staviti na raspolaganje mjeriteljskoj inspekciji središnjeg tijela državne uprave nadležnog za mjeriteljstvo.

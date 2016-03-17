@@ -1,0 +1,8 @@
+## Postupak prijavljivanja
+# Članak 29.
+(1) Središnje tijelo državne uprave nadležno za mjeriteljstvo prijavljuje samo ona tijela za ocjenjivanje sukladnosti koja ispunjavaju zahtjeve iz članka 25. ovoga Pravilnika.
+(2) Središnje tijelo državne uprave nadležno za mjeriteljstvo obavješćuje Europsku komisiju i druge države članice o imenovanim tijelima za ocjenjivanje sukladnosti pomoću sredstva za elektroničko prijavljivanje, koje je razvila i kojim upravlja Europska komisija.
+(3) Prijava mora obuhvaćati sve pojedinosti o poslovima ocjenjivanja sukladnosti, modulu ili modulima za ocjenjivanje sukladnosti, vagi ili vagama o kojima je riječ te odgovarajuću potvrdu o stručnosti.
+(4) Ako se prijava ne temelji na potvrdi o akreditaciji iz članka 28. stavka 2. ovoga Pravilnika, središnje tijelo državne uprave nadležno za mjeriteljstvo osigurava Europskoj komisiji i ostalim državama članicama dokumentarni dokaz kojim se potvrđuje stručnost tijela za ocjenjivanje sukladnosti kao i postojanje mehanizma za osiguranje redovitog praćenja rada tog tijela te trajno ispunjavanje zahtjeva iz članka 25. ovoga Pravilnika.
+(5) Tijelo za ocjenjivanje sukladnosti se smatra prijavljenim tijelom u smislu ovoga Pravilnika i može započeti obavljanje poslova prijavljenog tijela samo ako Europska komisija ili države članice ne ulože prigovor u roku od dva tjedna od prijave, ako je potvrda o akreditaciji bila priložena uz prijavu, odnosno u roku od dva mjeseca ako potvrda o akreditaciji nije bila priložena.
+(6) Središnje tijelo državne uprave nadležno za mjeriteljstvo obavješćuje Europsku komisiju i druge države članice o svim naknadnim bitnim izmjenama prijave.
