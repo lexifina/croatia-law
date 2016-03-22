@@ -1,0 +1,10 @@
+## Izvršni predsjednik Hrvatskog Crvenog križa
+# Članak 44.
+Izvršni predsjednik Hrvatskog Crvenog križa pojedinačno predstavlja i zastupa Hrvatski Crveni križ u zemlji i inozemstvu, naredbodavac je za ostvarenje financijskog plana te odgovara za zakonitost rada, rukovodi Središnjim uredom i odgovoran je za provedbu zadataka koji su povjereni Središnjem uredu te je ovlašteni predstavnik Hrvatskog Crvenog križa u odnosu na treće strane i pred sudom.
+Izvršni predsjednik obnaša funkciju na mandatno razdoblje od četiri godine s mogućnošću ponovnog imenovanja.
+Postupak imenovanja izvršnog predsjednika provodi Glavni odbor po provedenom javnom natječaju sukladno uvjetima propisanim aktom o sistematizaciji Središnjeg ureda. S izvršnim predsjednikom se zasniva radni odnos ugovorom o radu.
+Za svoje djelovanje izvršni predsjednik odgovara Glavnom odboru i Skupštini.
+Izvršni predsjednik provodi odluke tijela Hrvatskog Crvenog križa, priprema proračun i financijska izvješća, priprema plan rada i financijski plan, odgovoran je za podnošenje Skupštini godišnjeg financijskog izvješća, izvještava tijela Hrvatskog Crvenog križa o radu Hrvatskog Crvenog križa. Prati rad svih društava Hrvatskog Crvenog križa, pokreće konzultativni i kontrolni nadzor i o istom obavještava Glavni odbor. Odlučuje o potrebi zapošljavanja u Središnjem uredu, dostavlja zapisnik s redovne sjednice Skupštine nadležnom uredu koji vodi registar udruga te druge potrebne dokumente.
+Izvršni predsjednik ne može biti član Skupštine ni Glavnog odbora Hrvatskog Crvenog križa već sudjeluje u njihovom radu u savjetodavnom svojstvu bez prava glasa.
+Izvršni predsjednik imenuje jednog zamjenika i potreban broj pomoćnika za pojedine djelatnosti. Zamjenik i pomoćnici izvršnog predsjednika imenuju se najduže na vrijeme trajanja mandata izvršnog predsjednika.
+Zamjenik izvršnog predsjednika je osoba koja zamjenjuje izvršnog predsjednika sa svim ovlastima u slučaju njegove odsutnosti i spriječenosti. Mandat zamjenika izvršnog predsjednika može trajati najduže do imenovanja novog izvršnog predsjednika.

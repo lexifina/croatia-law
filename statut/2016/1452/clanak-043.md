@@ -1,0 +1,21 @@
+# Članak 43.
+Glavni odbor, kao izvršno tijelo Skupštine:
+- brine o provođenju odluka, zaključaka i preporuka Skupštine,
+- nadzire korištenje i raspolaganje sredstvima u skladu s financijskim planom, donosi odluku o otvaranju i zatvaranju žiro računa i drugih računa za redovno poslovanje,
+- razmatra i ocjenjuje plan rada i financijski plan za sljedeću kalendarsku godinu i izvješće o radu za prethodnu kalendarsku godinu i upućuje Skupštini na usvajanje,
+- upućuje Skupštini na usvajanje godišnje financijsko izvješće,
+- imenuje i razrješava izvršnog predsjednika na mandatno razdoblje ili kraće kao vršitelja dužnosti na šest mjeseci,
+- daje prethodnu suglasnost za imenovanje i razrješenje ravnatelja društava Crvenog križa,
+- predlaže, imenuje i razrješava počasne članove Hrvatskog Crvenog križa,
+- odlučuje o nabavi osnovnih sredstava,
+- razmatra aktualna pitanja iz rada pojedinih društava i Hrvatskog Crvenog križa u cjelini, zauzima stavove te donosi preporuke, zaključke, smjernice i upute za rad društava (savjetodavna i nadzorna funkcija),
+- donosi odluku o osnivanju pravnih subjekata za obavljanje gospodarske djelatnosti, domova, odmarališta, prenoćišta i druge tome odgovarajuće odluke te daje suglasnost na odluku o osnivanju kad je osnivač općinsko, gradsko ili županijsko društvo,
+- donosi odluku o uvjetima korištenja fondova, praćenju i nadzoru namjenskog trošenja,
+- osniva stalna i povremena radna tijela,
+- donosi pravila rada za pojedine djelatnosti (pravilnik iz članka 13. stavka 2. i članka 15. stavka 4.) i druge normativne akte,
+- ocjenjuje stanje i djelatnosti društava Crvenog križa i saziva njihova tijela za rješavanje konkretnih pitanja,
+- osniva etičko povjerenstvo, imenuje njegove članove i donosi poslovnik o radu povjerenstva te donosi konačnu odluku u pojedinom postupku,
+- bira predstavnike i izaslanike za druga međunarodna i nacionalna tijela,
+- donosi normativne akte o sistematizaciji, radnim odnosima i plaćama zaposlenih u Središnjem uredu Hrvatskog Crvenog križa,
+- izvješćuje i odgovara za svoj rad Skupštini,
+- rješava i druga pitanja organizacije i rada te donosi pravilnike i druge akte.

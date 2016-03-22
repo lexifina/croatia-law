@@ -1,0 +1,1 @@
+Na temelju članka 5. stavka 2. Zakona o Hrvatskom Crvenom križu (»Narodne novine«, broj 71/2010) i članka 13. Zakona o udrugama (»Narodne novine«, broj 74/2014), Skupština Hrvatskog Crvenog križa na 4. sjednici 21. saziva održanoj 22. ožujka 2016. godine donijela je
