@@ -1,0 +1,2 @@
+# Članak 51.
+Pravilnik o mjerilima i načinu korištenja vlastitih prihoda kaznenih tijela (»Narodne novine«, br. 114/15.) donesen na temelju članka 38. stavka 4. Zakona o izvršavanju državnog proračuna Republike Hrvatske za 2015. godinu (»Narodne novine«, br. 148/14. i 103A/15.) primjenjivat će se do donošenja pravilnika o mjerilima i načinu korištenja vlastitih prihoda iz članka 41. stavka 4. ovoga Zakona.

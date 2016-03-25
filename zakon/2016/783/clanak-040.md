@@ -1,0 +1,5 @@
+## V. KORIŠTENJE NAMJENSKIH PRIHODA I PRIMITAKA
+# Članak 40.
+(1) Nadležna ministarstva nadziru ostvarenje i trošenje namjenskih prihoda i primitaka korisnika iz svoje nadležnosti.
+(2) Nadležna ministarstva mogu, u suglasnosti s Ministarstvom, donijeti pravilnik o mjerilima i načinu korištenja donacija za koje namjena nije utvrđena te participacija studenata u troškovima studija na akreditiranim studijskim programima.
+(3) Namjenski prihodi i primici svih korisnika planiraju se u državnom proračunu, a obveza uplate ovih prihoda u državni proračun ne odnosi se na proračunske korisnike u znanosti, visokom obrazovanju, pravosuđu - sustavu izvršenja sankcija, kao i za ustanove u kulturi, nacionalne parkove, parkove prirode, zdravstvene ustanove, Agenciju za elektroničke medije i Agenciju za civilno zrakoplovstvo te na prihode ostvarene od pruženih konzularnih usluga u diplomatsko-konzularnim predstavništvima Republike Hrvatske u inozemstvu. Ostvarenje i trošenje namjenskih prihoda i primitaka navedenih korisnika iskazuje se mjesečno u sustavu državne riznice.
