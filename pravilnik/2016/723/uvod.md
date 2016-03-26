@@ -1,0 +1,1 @@
+Na temelju članka 5., članka 94. stavka 6. i članka 97. podstavaka 1. i 2. te članka 98. stavka 6. Zakona o veterinarstvu (»Narodne novine«, br. 82/13. i 148/13.) i članka 123. stavka 3. Zakona o poljoprivredi (»Narodne novine«, br. 30/15.) ministar poljoprivrede donosi

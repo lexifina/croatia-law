@@ -1,0 +1,6 @@
+## V. REGISTRACIJA I BRISANJE
+# Članak 9.
+(1) Registraciju poljoprivrednika uključujući i subjekte koji obavljaju djelatnost primarne proizvodnje u akvakulturi te koji obavljaju jednu ili više djelatnosti iz članaka 6., 7. i 8. ovoga Pravilnika provodi Agencija, na temelju zaprimljenog urednog zahtjeva iz Priloga I. Dijela A ovoga Pravilnika.
+(2) Uz zahtjev iz stavka 1. ovoga članka poljoprivrednik Agenciji podnosi Izjavu nositelja/odgovorne osobe poljoprivrednika o sukladnosti gospodarstva s propisanim zahtjevima o sigurnosti hrane za životinje iz Priloga I. Dijela B ovoga Pravilnika (u daljnjem tekstu: izjava), koja je sastavni dio zahtjeva.
+(3) Za provedbu postupka registracije iz stavka 1. ovoga članka poljoprivrednici moraju u regionalni ured/podružnicu Agencije, dostaviti obrasce iz stavaka 1. i 2. ovoga članka vlastoručno potpisane i ovjerene od nositelja/odgovorne osobe poljoprivrednika.
+(4) Odredbe stavaka 1. do 3. ovoga članka ne primjenjuje se na poljoprivrednike koji su upisani u Registar primarnih proizvođača temeljem odredbi Pravilnika o registraciji primarnih proizvođača hrane za životinje (»Narodne novine«, br. 153/11.) i koji na gospodarstvu ne obavljaju djelatnosti iz članka 7. i/ili članka 8. ovoga Pravilnika.

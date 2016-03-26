@@ -1,0 +1,26 @@
+## II. POJMOVNIK
+# Članak 3.
+(1) Za potrebe ovoga Pravilnika primjenjuju se pojmovi:
+a) »hrana za životinje«, »stavljanje na tržište«, »krajnji potrošač« - kako je utvrđeno člankom 3. točkama 4., 8. i 18. Uredbe (EZ) br. 178/2002 Europskog parlamenta i Vijeća od 28. siječnja 2002. o utvrđivanju općih načela i uvjeta zakona o hrani, osnivanju Europske agencije za sigurnost hrane te utvrđivanju postupaka u područjima sigurnosti hrane (SL L 31, 1. 2. 2002.);
+b) »higijena hrane za životinje«, »subjekt u poslovanju s hranom za životinje«, »primarna proizvodnja hrane za životinje« - kako je utvrđeno člankom 3. točkama (a), (b) i (f) Uredbe (EZ) br. 183/2005;
+c) »poljoprivrednik«, »obiteljsko poljoprivredno gospodarstvo« (u daljnjem tekstu: OPG), »poljoprivredni proizvodi« - kako je utvrđeno člankom 2. stavkom 1. točkama 1., 2. i 9. Zakona o poljoprivredi;
+d) »nositelj OPG-a« - kako je utvrđeno člankom 5. stavcima 1. i 2. Pravilnika o Upisniku poljoprivrednih gospodarstva (»Narodne novine«, br. 76/11. i 42/13.);
+e) »životinja koja se koristi za proizvodnju hrane«, »potpuna krmna smjesa« - kako je utvrđeno člankom 3. stavkom 2. točkama (c) i (i) Uredbe (EZ) br. 767/2009 Europskog parlamenta i Vijeća od 13. srpnja 2009. o stavljanju na tržište i korištenju hrane za životinje, izmjeni Uredbe (EZ) br. 1831/2003 Europskog parlamenta i Vijeća i stavljanju izvan snage Direktive Vijeća 79/373/EEZ, Direktive Komisije 80/511/EEZ, Direktiva Vijeća 82/471/EEZ, 83/228/EEZ, 93/74/EEZ, 93/113/EZ i 96/25/EZ te Odluke Komisije 2004/217/EZ (SL L 229, 1. 9. 2009.);
+f) »proizvodi od krvi«, »prerađene životinjske bjelančevine«, »riblje brašno« - kako je utvrđeno u točkama 4., 5. i 7. Priloga I. Uredbe Komisije (EU) br. 142/2011;
+g) »primarni proizvod« - kako je utvrđeno člankom 2. stavkom 1. točkom (b) Uredbe (EZ) br. 852/2004 Europskog parlamenta i Vijeća od 29. travnja 2004. o higijeni hrane (SL L 139, 30. 4. 2004.);
+h) »akvakultura«, »životinja akvakulture« - kako je utvrđeno člankom 3. stavkom 1. točkama (a) i (z) Pravilnika o uvjetima zdravlja životinja koji se primjenjuju na životinje akvakulture i njihove proizvode te sprječavanju i suzbijanju određenih bolesti akvatičnih životinja (»Narodne novine«, br. 132/14.);
+(2) Uz pojmove iz stavka 1. ovoga članka u smislu ovoga Pravilnika, pojedini izrazi imaju sljedeće značenje:
+a) »poslovanje s hranom za životinje na gospodarstvu« - poslovi proizvodnje, prerade i skladištenja hrane za životinje na gospodarstvu, uključujući hranidbu životinja koje se koriste za proizvodnju hrane te poslove prijevoza od mjesta proizvodnje primarnog proizvoda do objekta za preradu koji nije u sastavu gospodarstva podrijetla hrane za životinje;
+b) »gospodarstvo« - proizvodna jedinica na kojoj se obavlja poljoprivredna djelatnost i kojom upravlja poljoprivrednik;
+c) »krmivo« - proizvod biljnog ili životinjskog podrijetla, izuzev krmiva iz točke d) ovoga stavka, koji je namijenjen za korištenje u hranidbi životinja izravno kao takav ili za pripremu potpunih krmnih smjesa i uvršten je na Popis krmiva u Dijelu C Uredbe Komisije (EU) br. 68/2013 od 16. siječnja 2013. o Katalogu krmiva (SL L 29, 30.1.2013.);
+d) »krmivo životinjskog podrijetla« - prerađene životinjske bjelančevine dobivene od nepreživača, riblje brašno, dikalcij fosfat i trikalcij fosfat životinjskog podrijetla, proizvodi od krvi dobiveni od nepreživača, mliječne zamjenice koje sadrže riblje brašno te mlijeko, mliječni proizvodi i kolostrum uključujući bijelu vodu;
+e) »mliječni proizvodi« - proizvodi nastali preradom sirovog mlijeka ili daljnjom preradom tako prerađenih proizvoda;
+f) »bijela voda« - voda koja se prikuplja tijekom ispiranja mljekarske opreme, a prije čišćenja i dezinfekcije;
+g) »dodatak hrani za životinje« - tvar, mikroorganizam ili pripravak, koji je upisan u »Registar dodataka hrani za životinje u Zajednici« iz članka 17. Uredbe (EZ) br. 1831/2003 Europskog parlamenta i Vijeća od 22. rujna 2003. o dodacima hrani za životinje (SL L 268, 18. 10. 2003.) i dostupan je na mrežnim stranicama ministarstva nadležnog za poslove poljoprivrede na adresi:
+http://www.veterinarstvo.hr/UserDocsImages/HranaZaZiv/comm_register_feed_additives_1831-03.pdf;
+h) »premiks« - industrijski proizvedena mješavina dodataka hrani za životinje koja se u odgovarajućem omjeru miješa s drugom hranom za životinje;
+i) »jednostavna fizička obrada« - fizička aktivnost koja ne dovodi do bitnog mijenjanja svojstava poljoprivrednih proizvoda npr. žetva, pobiranje plodova, košnja, prirodno sušenje, mljevenje, drobljenje, siliranje i slične aktivnosti, uključujući čišćenje i pakiranje;
+j) »mala količina primarnih proizvoda« - poljoprivredni proizvodi proizvedeni na gospodarstvu poljoprivrednika koji u ARKOD sustavu ima evidentirano manje od 5 ha poljoprivrednog zemljišta i/ili posjeduje najviše 1 uvjetno grlo;
+k) »sušara« - objekt na gospodarstvu, uključujući i pokretne sušare, u kojem se krmivo suši umjetnim putem;
+l) »neizravna sušara« - sušara u kojoj prilikom procesa sušenja nema izravnog kontakta između krmiva i zagrijanog zraka s produktima sagorijevanja;
+m) »izravna sušara« - sušara u kojoj prilikom procesa sušenja dolazi do izravnog kontakta između krmiva i zagrijanog zraka s produktima sagorijevanja.

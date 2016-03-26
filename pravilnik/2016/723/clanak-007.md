@@ -1,0 +1,6 @@
+# Članak 7.
+(1) U Registar sušara u skladu s člankom 9. ovoga Pravilnika moraju se upisati poljoprivrednici koji obavljaju djelatnost umjetnog sušenja krmiva u sušari na vlastitom gospodarstvu neovisno da li primjenjuju izravnu ili neizravnu metodu sušenja krmiva, uključujući i poljoprivrednike koji posjeduju pokretne sušare i ne suše krmiva isključivo za potrebe vlastitog gospodarstva.
+(2) Poljoprivrednici iz stavka 1. ovoga članka koji uz djelatnost umjetnog sušenja krmiva obavljaju jednu ili više djelatnosti iz članka 6. ovoga Pravilnika upisuju se u Registar sušara i ne smatraju se primarnim proizvođačima.
+(3) Poljoprivrednici iz stavka 2. ovoga članka koji u hranidbi životinja koje se koriste za proizvodnju hrane (uključujući životinje akvakulture) koriste krmiva životinjskog podrijetla i/ili krmne smjese koje ih sadrže i obavljaju jednu ili više djelatnosti iz članka 8. ovoga Pravilnika moraju uz Registar sušara biti upisani i u Registar ovlaštenih poljoprivrednika u skladu s člankom 9. ovoga Pravilnika.
+(4) Poljoprivrednici iz stavaka 1. i 2. ovoga članka moraju ispunjavati zahtjeve propisane člancima 9. i 10. te Prilozima II. i III. Uredbe (EZ) br. 183/2005.
+(5) Poljoprivrednici iz stavka 3. ovoga članka moraju ispunjavati zahtjeve iz stavka 4. ovoga članka i zahtjeve propisane člankom 8. ovoga Pravilnika.

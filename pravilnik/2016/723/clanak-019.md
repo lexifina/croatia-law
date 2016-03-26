@@ -1,0 +1,3 @@
+# Članak 19.
+(1) Poljoprivrednici koji na dan stupanja na snagu ovoga Pravilnika obavljaju jednu ili više djelatnosti iz članaka 7. i/ili 8. ovoga Pravilnika, a upisani su u Registar primarnih proizvođača na temelju Pravilnika o registraciji primarnih proizvođača hrane za životinje (»Narodne novine«, br. 153/11.) obvezni su u regionalni ured/podružnicu Agencije dostaviti zahtjev u skladu s člankom 10. ovoga Pravilnika najkasnije do 15. svibnja 2016. godine.
+(2) Poljoprivrednici iz stavka 1. ovoga članka koji obavljaju djelatnosti iz članka 7. ovoga Pravilnika i podnesu zahtjev za registraciju i upis u Registar sušara ne smatraju se primarnim proizvođačima računajući od upisa u Registar sušara.
