@@ -1,0 +1,1 @@
+Na temelju članka 35. Pravilnika o izobrazbi, uvjetima i načinu polaganja ispita za stjecanje zvanja ovlaštenoga unutarnjeg revizora za javni sektor (»Narodne novine«, br. 108/15), ministar financija donosi
