@@ -1,0 +1,1 @@
+Odluka o donošenju Strategije pametne specijalizacije Republike Hrvatske za razdoblje od 2016. do 2020. godine i Akcijskog plana za provedbu Strategije pametne specijalizacije Republike Hrvatske za razdoblje od 2016. do 2017. godine
