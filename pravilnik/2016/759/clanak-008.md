@@ -1,0 +1,2 @@
+# Članak 8.
+Radi korištenja prava na isplatu iznosa iz članka 7. ovoga Pravilnika, deponent je dužan podnijeti zahtjev za pokriće osnovnih životnih troškova koji sadrži razlog iz članka 6. ovoga Pravilnika zbog kojeg se podnosi zahtjev te sljedeće podatke o deponentu: ime i prezime, datum i mjesto rođenja, adresu prebivališta, osobni identifikacijski broj te broj računa na koji će se izvršiti isplata.

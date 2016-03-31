@@ -1,0 +1,3 @@
+# Članak 4.
+(1) Kreditna institucija dužna je za svakog stvarnog vlasnika depozita, odnosno osobe za čiji račun se vodi povjerenički račun, otvoriti i voditi zasebno podatke i evidencije o svakoj pojedinoj partiji depozita, a sukladno strukturi i sadržaju određenim u Prilogu 1. koji je sastavni dio ovoga Pravilnika.
+(2) Podatke potrebne za utvrđivanje identiteta stvarnog vlasnika, odnosno osobe za čiji račun se vodi povjerenički račun, i njegovog pripadajućeg iznosa depozita, kreditna institucija pribavlja neposredno od povjerenika, odnosno imatelja povjereničkog računa prilikom podnošenja zahtjeva za otvaranje povjereničkog računa.

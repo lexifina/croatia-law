@@ -1,0 +1,3 @@
+# Članak 7.
+(1) U svrhu primjene članka 18. stavka 3. Zakona tijekom prijelaznog razdoblja iz članka 28. stavaka 1., 2. i 3. Zakona, iznos sredstava za pokriće osnovnih životnih troškova iz članka 6. ovoga Pravilnika koji će Agencija staviti na raspolaganje deponentu, od iznosa njegovih osiguranih depozita, iznosi dvije prosječne mjesečne isplaćene neto plaće po zaposlenom u pravnim osobama Republike Hrvatske objavljene od strane Državnog zavoda za statistiku.
+(2) Radi isplate sredstava za pokriće osnovnih životnih troškova iz stavka 1. ovoga članka, kreditna institucija dužna je na zahtjev Agencije odmah dostaviti Agenciji sve podatke o deponentu i njegovim osiguranim depozitima.
