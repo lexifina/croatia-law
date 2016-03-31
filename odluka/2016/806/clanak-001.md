@@ -1,0 +1,3 @@
+# Članak 1.
+U Odluci o osnovama za sklapanje ugovora o provođenju zdravstvene zaštite iz obveznog zdravstvenog osiguranja (»Narodne novine«, broj 156/13., 11/14., 12/14. - ispravak, 34/14., 54/14., 66/14., 74/14., 106/14., 133/14., 157/14., 25/15., 36/15., 69/15., 79/15., 82/15. - ispravak, 91/15., 91/15. - ispravak, 116/15., 124/15. - ispravak, 139/15. i 141/15. - ispravak) u članku 100. stavak 1. mijenja se i glasi:
+»(1) Ugovorne bolničke zdravstvene ustanove mogu osnovom ugovora sa Zavodom ostvariti ukupni maksimalni iznos sredstava za razdoblje od 1. siječnja do 30. lipnja 2016. godine u ukupnom iznosu od 4.144.708.641,87 kuna.«
