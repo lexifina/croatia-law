@@ -1,0 +1,1 @@
+Na temelju članka 88. stavka 8. Zakona o mirovinskom osiguranju (»Narodne novine«, br. 157/2013, 33/2015 i 93/2015), članka 22. točke 8. Statuta Hrvatskog zavoda za mirovinsko osiguranje (»Narodne novine«, broj 28/2014 i 24/2015), Upravno vijeće Hrvatskog zavoda za mirovinsko osiguranje, na sjednici održanoj 17. ožujka 2016., donosi
