@@ -1,0 +1,2 @@
+# Članak 3.
+Vijeće će na psihološko testiranje uputiti kandidata za oglašeno slobodno mjesto suca, koji je završio Državnu školu za pravosudne dužnosnike, te osobe iz članka 33a. Zakona o pravosudnoj akademiji (»Narodne novine« broj 137/09, 127/10 i 82/15), koje su položile završni ispit bez pohađanja Državne škole za pravosudne dužnosnike, koji ispunjava uvjete za suca, koji je podnio pravovremenu i potpunu prijavu na oglas za oglašeno slobodno mjesto suca općinskog, trgovačkog, prekršajnog i upravnog suda.

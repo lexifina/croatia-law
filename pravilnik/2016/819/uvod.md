@@ -1,0 +1,1 @@
+Na temelju članka 56. stavak 5. Zakona o Državnom sudbenom vijeću (»Narodne novine«, broj 116/10, 57/11, 130/11, 13/13 - Odluka Ustavnog suda Republike Hrvatske broj U-I-5991/2012, 28/13 i 82/15, u daljnjem dijelu teksta: ZDSV), Državno sudbeno vijeće (u daljnjem dijelu teksta: Vijeće), na 35. sjednici održanoj 4. ožujka 2016. donijelo je
