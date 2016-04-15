@@ -1,0 +1,3 @@
+# Članak 1.
+U Odluci o uvjetima za otvaranje i funkcioniranje namjenskog novčanog računa (DCA) u sustavu TARGET2-HR (»Narodne novine«, br. 136/2015.) u članku 16. stavku 3. uvodni dio mijenja se i glasi:
+»3. Pravilo iz stavka 2. ovog članka zamjenjuje se pravilima iz ovog stavka dva tjedna nakon što ESB potvrdi svim potpisnicima sporazuma o razmjeni informacija u slučaju insolventnosti sudionika i o odgovornosti potpisnika sporazuma da su sve strane sporazuma uspostavile i odobrile postupke za razmjenu informacija. Takav sporazum potpisat će središnje banke Eurosustava i povezane nacionalne središnje banke s jedne strane i svi središnji depozitoriji vrijednosnih papira koji sudjeluju u sustavu T2S s druge strane.«
