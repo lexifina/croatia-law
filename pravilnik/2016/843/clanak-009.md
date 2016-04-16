@@ -1,0 +1,11 @@
+# Članak 9.
+Članak 22. mijenja se i glasi:
+»(1) Potpora se korisniku isplaćuje temeljem zahtjeva za isplatu/zahtjeva za isplatu predujma.
+(2) Korisnik može podnijeti zahtjev za isplatu jednokratno ili u ratama do najviše tri rate. Maksimalni iznos prve rate iznosi do 50% odobrenih sredstava javne potpore.
+(3) Korisnik može putem zahtjeva za isplatu predujma tražiti predujam za ulaganje i to do 50% odobrenih sredstava javne potpore. Uvjet za isplatu predujma jest dostava zadužnice ili drugog odgovarajućeg jamstva u stopostotnoj vrijednosti iznosa predujma sukladno članku 63. stavku 1. Uredbe (EU) br. 1305/2013. Zadužnica ili drugo odgovarajuće jamstvo mora vrijediti od trenutka podnošenja zahtjeva za isplatu predujma do isteka šest mjeseci nakon krajnjeg roka za podnošenje zahtjeva za isplatu.
+(4) Isplaćeni predujam iz stavka 3. ovoga članka opravdava se plaćenim računima/situacijama i dokumentacijom navedenom u članku 23. stavku 2. ovoga Pravilnika za odobrena ulaganja pri podnošenju zahtjeva za isplatu. Zbroj predujma i iznosa sredstava traženih zahtjevom za isplatu ne može biti veći od ukupno odobrenog iznosa potpore, odnosno od ukupno prihvatljivih troškova.
+(5) Zadužnice ili druga odgovarajuća jamstva iz stavka 3. ovoga članka bit će vraćena korisniku po prihvaćanju opravdanosti odobrenih ulaganja temeljem odluke o odgovarajućem jamstvu.
+(6) Zadužnice ili druga odgovarajuća jamstva iz stavka 3. ovoga članka bit će aktivirana radi povrata sredstava isplaćenog predujma u slučaju neispunjavanja uvjeta iz stavka 4. ovog članka temeljem odluke o odgovarajućem jamstvu.
+(7) Korisnik je dužan dostaviti izvještaj o napretku projekta svakih šest mjeseci, računajući od dana donošenja odluke o dodjeli sredstava.
+(8) Korisnik je nakon završenog projekta dužan neposredno ili preporučenom pošiljkom s povratnicom dostaviti zahtjev za isplatu na adresu Agencije za plaćanje. Zahtjev za isplatu ne može sadržavati samo račune kojima se pravda predujam.
+(9) Uz zahtjev za isplatu/zahtjeva za isplatu predujma korisnik je dužan dostaviti svu dokumentaciju propisanu natječajem, pri čemu se kao vrijeme podnošenja smatra vrijeme slanja dokumentacije u slučaju slanja preporučenom pošiljkom s povratnicom odnosno vrijeme zaprimanja u Agenciju za plaćanja ako se dostavlja neposredno.«.
