@@ -1,0 +1,1 @@
+Na temelju članka 137. stavka 6. Zakona o plovidbi i lukama unutarnjih voda (»Narodne novine«, br. 109/07, 132/07, 51A/13 i 152/14), Vlada Republike Hrvatske je na sjednici održanoj 30. ožujka 2016. godine donijela
