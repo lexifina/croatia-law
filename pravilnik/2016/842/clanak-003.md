@@ -1,0 +1,2 @@
+# Članak 3.
+U Dodatku I iza riječi: »Posebni zahtjevi ili uvjeti: Special requirements or conditions, if any:« dodaje se rečenica: »Jedan časnik mora imati svjedodžbu časnika za sigurnosnu zaštitu broda izdanu u skladu sa STCW Konvencijom, 1978, kako je izmijenjena i dopunjena. One officer must be holder of the ship security officer certificate (SSO), issued in accordance with the STCW Convention, 1978 as amended.«
