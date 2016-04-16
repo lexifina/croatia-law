@@ -1,0 +1,9 @@
+# Članak 11.
+(1) Nadležno ministarstvo odobrit će isplatu bespovratne novčane potpore iz članka 10. ove Uredbe nakon unosa dugotrajne imovine, odnosno opreme/strojeva za razvojno-inovacijske aktivnosti u vlasništvo korisnika potpore za ulaganje, počevši od isteka prve godine projekta ulaganja, i to uz uvjet da je korisnik potpore za ulaganje nadležnom ministarstvu dužan dostaviti:
+1. financijska izvješća i dokumentaciju kojom se utvrđuje unos dugotrajne imovine koja predstavlja prihvatljive troškove ulaganja sukladno članku 12. stavku 4. Zakona, u vlasništvo korisnika potpore za ulaganje
+2. račune za kupnju dugotrajne imovine iz stavka 1. ovoga članaka, odnosno opreme/strojeva za razvojno-inovacijske aktivnosti sa specifikacijom troškova novih strojeva, odnosno opreme
+3. materijalne dokaze da dugotrajna imovina iz stavka 1. ovoga članka, odnosno oprema/strojevi za razvojno-inovacijske aktivnosti, predstavlja opremu/strojeve klasificirane kao oprema/strojevi visoke tehnologije, sukladno standardnoj nacionalnoj/međunarodnoj klasifikaciji opreme, odnosno potvrdu izdanu od javne znanstvene institucije registrirane u Republici Hrvatskoj (fakulteta, instituta i sl.)
+4. instrument osiguranja naplate tražbina za slučaj kršenja odredbi Zakona i
+5. pisanu Izjavu kojom odgovorna osoba jamči pod moralnom, materijalnom i kaznenom odgovornošću za točnost dostavljenih podataka.
+(2) Pod kategorijom opreme visoke tehnologije u smislu ulaganja u razvojno-inovacijske aktivnosti smatra se ulaganje isključivo u novu opremu koja se koristi za razvojne i inovacijske procese, a ne za procese poslovne administracije i proces proizvodnje.
+(3) Pod pojmom visoke tehnologije u smislu ulaganja u razvojno-inovacijske aktivnosti smatraju se one industrije i one aktivnosti koje se temelje na znanju, koje imaju značajan udio ulaganja u istraživanje i razvoj, relativno brz tehnološki napredak, dugotrajne razvojne faze i potencijal brzog rasta opsega proizvodnje.

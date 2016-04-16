@@ -1,0 +1,4 @@
+# Članak 2.
+(1) Ova Uredba primjenjuje se na poduzetnike - fizičke osobe (obrtnike), koji su obveznici poreza na dobit ili trgovačka društva, registrirane na teritoriju Republike Hrvatske, sukladno članku 3. Zakona o poticanju ulaganja (u daljnjem tekstu: Zakon), a koji namjeravaju koristiti potporu za ulaganje sukladno Zakonu.
+(2) Ova Uredba ne primjenjuje se na poduzetnike kojima se ne mogu dodijeliti regionalne državne potpore i državne potpore za usavršavanje sukladno članku 6. stavku 2. Zakona.
+(3) Sektor brodogradnje iz članka 6. stavka 2. točke 12. Zakona, kojemu se ne mogu dodijeliti regionalne državne potpore i državne potpore za usavršavanje ne uključuje malu brodogradnju, odnosno pomorska plovila s manje od 100 tona bruto, remorkere s manje od 365 kW kao i nedovršene trupove ovih plovila, u smislu Uredbe Komisije (EU) 651/2014) od 17. lipnja 2014.

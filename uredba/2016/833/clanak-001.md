@@ -1,0 +1,4 @@
+## OPĆE ODREDBE
+# Članak 1.
+(1) Ovom se Uredbom uređuje provedba Uredbe Komisije (EU) br. 651/2014 оd 17. lipnja 2014. o ocjenjivanju određenih kategorija potpora spojivima s unutarnjim tržištem u primjeni članaka 107. i 108. Ugovora (SL L 187, 26.6.2014.) (u daljnjem tekstu: Uredba Komisije (EU) 651/2014, od 17. lipnja 2014.)
+(2) Ovom se Uredbom propisuje oblik i obvezni sadržaj prijave za odobrenje statusa korisnika potpore (u daljnjem tekstu: Prijava) s pripadajućim obrascima; postupak prijave, odobravanja i korištenja potpora, uključujući kriterije i način izračuna iznosa državne potpore; obvezni sadržaj godišnjeg izvješća o izvršenju projekta ulaganja i korištenju potpora; dokumentacija koju je potrebno dostaviti za odobrenje korištenja potpora, odnosno ostvarivanje prava na isplatu odobrenih potpora; te druga pitanja s tim u vezi.
