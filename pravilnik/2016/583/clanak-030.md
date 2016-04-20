@@ -1,0 +1,8 @@
+# Članak 30.
+Operativne obveze prijavljenih tijela
+(1) Prijavljena tijela moraju provoditi ocjenjivanje sukladnosti u skladu s postupcima ocjenjivanja sukladnosti iz članaka 15. i 16. ovoga Pravilnika.
+(2) Postupci ocjenjivanja sukladnosti provode se razmjerno kako bi se izbjeglo nepotrebno opterećivanje gospodarskih subjekata gdje prijavljena tijela obavljaju svoje djelatnosti vodeći računa o veličini poduzeća, sektoru u kojem djeluje, njegovoj strukturi, stupnju složenosti tehnologije dotičnog dizala ili sigurnosne komponente za dizala i masovnoj ili serijskoj prirodi proizvodnog postupka.
+(3) Prilikom ocjenivanja sukladnosti prijavljena tijela ipak poštuju stupanj strogosti i razinu zaštite potrebne za sukladnost dizala ili sigurnosne komponente za dizala s ovim Pravilnikom.
+(4) Ako prijavljeno tijelo ustanovi da ugraditelj ili proizvođač ne zadovoljavaju bitne zdravstvene i sigurnosne zahtjeve ovoga Pravilnika, ili odgovarajuće usklađene norme ili druge tehničke specifikacije, od navedenog ugraditelja ili proizvođača zahtijeva da poduzme primjerene korektivne mjere i ne izdaje potvrdu.
+(5) Ako tijekom praćenja sukladnosti nakon izdavanja potvrde ili odluke o odobrenju, ovisno o slučaju, prijavljeno tijelo ustanovi da dizalo ili sigurnosna komponenta za dizala više nisu sukladni, zahtijeva od ugraditelja ili proizvođača da poduzme primjerene korektivne mjere i prema potrebi suspendira ili povlači potvrdu ili odluku o odobrenju.
+(6) Ako korektivne mjere nisu poduzete ili nemaju zahtijevani učinak, prijavljeno tijelo prema potrebi ograničava, obustavlja ili povlači potvrdu ili odluku (odluke) o odobrenju.
