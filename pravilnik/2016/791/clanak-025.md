@@ -1,0 +1,4 @@
+# Članak 25.
+Izmjene u prijavama
+(1) Ukoliko ministarstvo nadležno za gospodarstvo utvrdi, ili je obaviješteno, da prijavljeno tijelo više ne ispunjava zahtjeve navedene u članku 20. ovoga Pravilnika ili ne ispunjava svoje obveze, ograničit će, obustaviti ili povući prijavu, prema potrebi, ovisno o ozbiljnosti neispunjenja tih zahtjeva ili neizvršavanja tih obveza te će o tome odmah obavijestiti Komisiju i ostale države članice.
+(2) U slučaju povlačenja, ograničenja ili obustavljanja prijave ili ukoliko je prijavljeno tijelo prestalo obavljati svoju djelatnost, ministarstvo nadležno za gospodarstvo poduzima potrebne mjere kako bi osiguralo da dokumente toga tijela obradi drugo prijavljeno tijelo ili da na zahtjev ti dokumenti budu na raspolaganju ministarstvu nadležnom za gospodarstvo i nadležnom inspekcijskom tijelu.

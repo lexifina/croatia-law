@@ -1,0 +1,5 @@
+# Članak 32.
+Sukladne posude koji predstavljaju rizik
+(1) Ako nadležno inspekcijsko tijelo nakon provedbe ocjenjivanja u skladu s člankom 31. stavkom 1. ovoga Pravilnika utvrdi da posuda, iako je sukladna s ovim Pravilnikom, predstavlja rizik za zdravlje i sigurnost osoba, za domaće životinje ili imovinu, ono će od odgovarajućeg gospodarskog subjekta zahtijevati poduzimanje odgovarajućih mjera kako dotična posuda nakon stavljanja na tržište više ne bi predstavljala rizik, tražiti njezino povlačenje s tržišta ili povrat u razumnom roku, o čemu odlučuje s obzirom na vrstu rizika.
+(2) Gospodarski subjekt osigurava provođenje odgovarajućih korektivnih radnji u pogledu svih posuda koje je stavio na raspolaganje na tržištu Unije.
+(3) Nadležno inspekcijsko tijelo o tome odmah obavješćuje Komisiju i ostale države članice. Navedena informacija uključuje sve dostupne detalje, a posebno podatke potrebne za identifikaciju dotične posude, njezina podrijetla i opskrbnog lanca, vrstu rizika te vrstu i trajanje poduzetih nacionalnih mjera.

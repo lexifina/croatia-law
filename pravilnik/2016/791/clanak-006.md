@@ -1,0 +1,17 @@
+## POGLAVLJE II.
+## OBVEZE GOSPODARSKIH SUBJEKATA
+# Članak 6.
+Obveze proizvođača
+(1) Kod stavljanja na tržište svojih posuda kod kojih umnožak PS×V prelazi 50 barxL, proizvođači moraju osigurati da su konstruirane i proizvedene u skladu s bitnim sigurnosnim zahtjevima iz Dodatka I. ovoga Pravilnika. Kod stavljanja na tržište posuda kod kojih je umnožak PS×V 50 barxL ili manji, proizvođači moraju osigurati da su one konstruirane i proizvedene u skladu s dobrom inženjerskom praksom u jednoj od država članica.
+(2) Za posude kod kojih umnožak PS×V prelazi 50 barxL proizvođači moraju izraditi tehničku dokumentaciju prema Dodatku II. ovoga Pravilnika te provesti ili dati provesti postupak ocjenjivanja sukladnosti iz članka 13. ovoga Pravilnika.
+Ako se tim postupkom dokaže sukladnost posude kod koje umnožak PS×V prelazi 50 barxL s važećim zahtjevima, proizvođač sastavlja EU izjavu o sukladnosti i stavlja oznaku CE i natpise navedene u točki 1. Dodatka III. ovoga Pravilnika.
+Proizvođači moraju osigurati da posude kod kojih je umnožak PS×V 50 barxL ili manji nose natpis utvrđen u točki 1. Dodatka III. ovoga Pravilnika.
+(3) Proizvođači moraju čuvati tehničku dokumentaciju, EU izjavu o sukladnosti deset godina nakon što je posuda stavljena na tržište.
+(4) Proizvođači moraju osigurati da se provode postupci serijske proizvodnje koji osiguravaju sukladnost s ovim Pravilnikom. Na odgovarajući način moraju se uzeti u obzir promjene u konstrukciji ili značajkama posuda te promjene u usklađenim normama ili drugim tehničkim specifikacijama koje su navedene u izjavi o sukladnosti posude.
+(5) Kad to smatraju prikladnim s obzirom na rizike koje predstavlja posuda, proizvođači, kako bi zaštitili zdravlje i sigurnost krajnjih korisnika, ispituju uzorke posuda koje su stavljene na raspolaganje na tržištu, istražuju i, ako je to potrebno, vode knjigu pritužbi nesukladnih i popis opozvanih posuda te o svakom takvom nadzoru obavješćuju distributere.
+(6) Proizvođači moraju osigurati da je na posudama koje su stavili na tržište označen tip i serija ili šarža koji omogućavaju njihovu identifikaciju.
+(7) Proizvođači na posudi moraju navesti svoje ime, registrirano trgovačko ime ili registrirani trgovački znak i poštansku adresu na kojoj su dostupni i koja mora jednoznačno označavati mjesto na kojem je proizvođač dostupan. Kontaktni podaci moraju biti na hrvatskom jeziku.
+(8) Proizvođači moraju osigurati da uz posudu dolaze upute i podaci o sigurnosti iz Dodatka III. točke 2. ovoga Pravilnika, na hrvatskom jeziku. One kao i sve oznake moraju biti jasne, razumljive i shvatljive.
+(9) Proizvođači koji smatraju ili imaju razloga vjerovati da posuda koju su stavili na tržište nije sukladna s ovim Pravilnikom, bez odgode moraju poduzeti potrebne korektivne mjere kako bi se ta posuda uskladila ili, prema potrebi, povukla s tržišta ili opozvala. Nadalje, kad posuda predstavlja rizik, proizvođači moraju bez odgode obavijestiti nadležna nacionalna tijela država članica u kojima su posudu stavili na raspolaganje na tržištu, navodeći detalje, posebno o nesukladnosti i o svim poduzetim korektivnim mjerama.
+(10) Na opravdan zahtjev nadležnog inspekcijskog tijela proizvođači moraju dostaviti tom tijelu sve podatke i dokumentaciju u papirnatom ili elektroničkom obliku potrebne za dokazivanje sukladnosti posude s ovim Pravilnikom na hrvatskom jeziku.
+(11) Na zahtjev nadležnog inspekcijskog tijela proizvođači moraju s njim surađivati u svakoj radnji poduzetoj kako bi se uklonili rizici koje predstavljaju posude koje su stavili na tržište.
