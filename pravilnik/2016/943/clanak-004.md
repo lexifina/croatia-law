@@ -1,0 +1,5 @@
+## Stavljanje na raspolaganje na tržištu i stavljanje u uporabu
+# Članak 4.
+(1) U skladu s odredbama ovoga Pravilnika, gospodarski subjekti i tijela za ocjenjivanje sukladnosti poduzimaju se sve prikladne mjere kako bi se osiguralo da proizvodi iz članka 1. stavka 1. ovoga Pravilnika (u daljnjem tekstu: proizvodi) mogu biti stavljeni na raspolaganje na tržištu i stavljeni u uporabu ako su odgovarajuće instalirani i održavani te korišteni u skladu s njihovom namijenjenom uporabom.
+(2) Odredbe ovoga Pravilnika ne utječu na pravo utvrđivanja onih zahtjeva koji se ocijene potrebnim za osiguranje zaštite osoba, posebno radnika, pri korištenju relevantnih proizvoda, pod uvjetom da to ne znači da su takvi proizvodi izmijenjeni na način koji ovaj Pravilnik ne određuje.
+(3) Na komercijalnim sajmovima, izložbama i predstavljanjima, ne sprječava se izlaganje proizvoda koji nisu u skladu s ovim Pravilnikom ako je jasno i vidljivo označeno da takvi proizvodi nisu u skladu s ovim Pravilnikom i da nisu na prodaju sve dok proizvođač ne provede njihovo usklađivanje. Tijekom predstavljanja poduzimaju se odgovarajuće sigurnosne mjere kako bi se osigurala zaštita osoba.

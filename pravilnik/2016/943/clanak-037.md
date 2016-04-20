@@ -1,0 +1,5 @@
+## Sukladni proizvodi koji predstavljaju rizik
+# Članak 37.
+(1) Ako nadležna inspekcijska tijela nakon provedene ocjene u skladu s člankom 35. stavkom 1. ovoga Pravilnika ustanove da proizvod, iako je sukladan s ovim Pravilnikom, i dalje predstavlja rizik za zdravlje i sigurnost osoba ili za domaće životinje ili imovinu, ona od gospodarskog subjekta zahtijevaju da poduzme odgovarajuće mjere kako taj proizvod nakon stavljanja na tržište više ne bi bio rizičan, traže povlačenje s tržišta ili osiguranje povrata od korisnika u razumnom roku, o čemu odlučuju s obzirom na vrstu rizika.
+(2) Gospodarski subjekt osigurava provođenje svih popravnih radnji u pogledu svih proizvoda koje je stavio na raspolaganje na tržištu cijele Europske unije.
+(3) Nadležna inspekcijska tijela o tome odmah obavješćuju Komisiju i ostale države članice Europske unije. Navedena informacija uključuje sve dostupne detalje, posebno podatke potrebne za identifikaciju dotičnog proizvoda, njegovog podrijetla i opskrbnog lanca, vrstu rizika te vrstu i trajanje poduzetih nacionalnih mjera.

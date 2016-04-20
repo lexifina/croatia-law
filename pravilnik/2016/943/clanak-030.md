@@ -1,0 +1,7 @@
+## Operativne obveze prijavljenih tijela
+# Članak 30.
+(1) Prijavljena tijela provode ocjenjivanje sukladnosti u skladu s postupcima ocjenjivanja sukladnosti iz Priloga III do VII i Priloga IX ovoga Pravilnika.
+(2) Ocjenjivanja sukladnosti provode se razmjerno na način da se izbjegne nepotrebno opterećivanje gospodarskih subjekata. Tijela za ocjenjivanje sukladnosti obavljaju svoje aktivnosti uzimajući u obzir veličinu poduzeća, sektor u kojem djeluje, njegovu strukturu, stupanj složenosti tehnologije dotičnog proizvoda i masovni ili serijski karakter proizvodnog postupka. Prilikom ocjenjivanja sukladnosti poštuje se stupanj strogosti i razina zaštite potrebne za sukladnost proizvoda u skladu sa zahtjevima iz ovoga Pravilnika.
+(3) Ako prijavljeno tijelo ustanovi da proizvođač ne zadovoljava bitne zdravstvene i sigurnosne zahtjeve iz Priloga II ovoga Pravilnika ili odgovarajuće harmonizirane norme ili druge tehničke specifikacije, neće izdati certifikat o sukladnosti, a od navedenog proizvođača zahtijevat će poduzimanje odgovarajućih popravnih radnji.
+(4) Ako tijekom nadzora sukladnosti nakon izdavanja certifikata prijavljeno tijelo utvrdi da proizvod više nije sukladan, po potrebi će suspendirati ili povući certifikat te će zahtijevati od proizvođača poduzimanje primjerenih popravnih radnji.
+(5) Ako popravne radnje nisu poduzete ili nemaju zahtijevani učinak, prijavljeno tijelo po potrebi će ograničiti, suspendirati ili povući certifikat.

@@ -1,0 +1,4 @@
+## Izmjene u prijavama
+# Članak 28.
+(1) Ako tijelo koje provodi prijavljivanje ustanovi ili je obaviješteno da prijavljeno tijelo više ne zadovoljava zahtjeve iz članka 22. ovoga Pravilnika ili da ne ispunjava svoje obveze, tijelo koje provodi prijavljivanje po potrebi ograničuje, suspendira ili povlači prijavu, ovisno o ozbiljnosti neispunjavanja zahtjeva ili nepoštovanja navedenih obveza. O tome odmah obavješćuje Komisiju i ostale države članice Europske unije.
+(2) U slučaju ograničenja, suspenzije ili povlačenja prijave ili ako je prijavljeno tijelo prestalo sa svojim poslovanjem, tijelo koje provodi prijavljivanje poduzima odgovarajuće mjere kako bi osiguralo da predmete tog tijela obradi drugo prijavljeno tijelo ili da na zahtjev budu na raspolaganju tijelima koja provode prijavljivanje i nadležnim inspekcijskim tijelima.
