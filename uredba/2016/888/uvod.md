@@ -1,0 +1,1 @@
+Na temelju članka 45.a stavka 2. Zakona o financiranju jedinica lokalne i područne (regionalne) samouprave (»Narodne novine«, br. 117/93, 69/97, 33/00, 73/00, 127/00, 59/01, 107/01, 117/01, 150/02, 147/03, 132/06, 26/07 - Odluka Ustavnog suda Republike Hrvatske, 73/08, 25/12, 147/14 i 100/15), Vlada Republike Hrvatske je na sjednici održanoj 6. travnja 2016. godine donijela
