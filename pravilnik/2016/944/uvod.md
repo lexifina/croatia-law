@@ -1,0 +1,1 @@
+Na temelju članka 218. Zakona o sigurnosti prometa na cestama (»Narodne novine« br. 67/08, 48/10 - Odluka Ustavnog suda Republike Hrvatske, 74/11, 80/13, 158/13 - Odluka Ustavnog suda Republike Hrvatske, 92/14 i 64/15) ministar unutarnjih poslova donosi

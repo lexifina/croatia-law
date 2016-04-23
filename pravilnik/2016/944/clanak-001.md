@@ -1,0 +1,8 @@
+# Članak 1.
+U Pravilniku o vozačkim dozvolama (»Narodne novine«, br. 43/2013., 77/2013., 155/2013. i 1/2015.), članak 3.a mijenja se i glasi:
+»Članak 3.a
+Zahtjev za izdavanje vozačke dozvole može podnijeti hrvatski državljanin koji je na području Republike Hrvatske nastanjen i ima prijavljeno prebivalište, hrvatski državljanin koji u Republici Hrvatskoj privremeno boravi i ima prijavljeno boravište u razdoblju od najmanje 185 dana, državljanin države članice Europskog gospodarskog prostora (u daljnjem tekstu EGP-a) koji na području Republike Hrvatske ima uobičajeno prebivalište odnosno koji se na području Republike Hrvatske školuje te stranac koji na području Republike Hrvatske boravi najmanje 185 dana u kalendarskoj godini te ima odobren privremeni ili stalni boravak.
+Smatra se da hrvatski državljanin nije nastanjen u Republici Hrvatskoj ako je prijavio privremeni odlazak iz Republike Hrvatske sukladno propisima o prebivalištu, osim ako je privremeni odlazak iz Republike Hrvatske prijavio radi školovanja.
+Uobičajeno prebivalište, u smislu ovoga Pravilnika, je mjesto u kojem osoba stanuje, najmanje 185 dana u svakoj kalendarskoj godini, zbog osobnih ili poslovnih obveza.
+Iznimno od odredbe stavka 3. ovoga članka, osobi čije su poslovne obveze u drugom mjestu od njezinih osobnih obveza i koja naizmjence živi na različitim mjestima u dvije ili više država članica EGP-a, uobičajenim prebivalištem smatra se mjesto osobnih obveza, pod uvjetom da se osoba redovito vraća na to mjesto. Navedeni uvjet nije potrebno ispuniti, ukoliko osoba živi u državi članici EGP-a radi obavljanja točno određene zadaće.
+Osoba koja se nastanila u drugoj državi članici EGP-a radi školovanja nije dužna mijenjati uobičajeno prebivalište.«.
