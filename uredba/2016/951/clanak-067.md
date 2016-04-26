@@ -1,0 +1,6 @@
+# Članak 67.
+Sektor za međunarodnu pravnu pomoć, državljanstvo i putne isprave obavlja poslove u vezi zaštite prava i interesa Republike Hrvatske i njezinih državljana koji prebivaju ili borave u inozemstvu; izravno i posredno pruža međunarodnopravnu pomoć hrvatskim pravosudnim, upravnim i drugim državnim tijelima, hrvatskim državljanima i pravnim osobama primjenjujući međunarodne ugovore i zakonske odredbe; izravno odgovara ili posreduje u pribavljanju odgovora na upite stranih diplomatskih misija/konzularnih ureda koji se tiču međunarodnopravne pomoći u sudskim ili upravnim stvarima; obavlja stručne poslove vezane za analiziranje, primjenu i tumačenje materije međunarodnog prava i hrvatskog zakonodavstva, posebno područja koji se tiče međunarodnopravne pomoći i konzularnog prava; sudjeluje u pripremanju konzularnih službenika za odlazak na rad u DM/KU; prati rad DM/KU u obavljanju konzularnih poslova iz područja međunarodno pravne pomoći, državljanstva i putnih isprava, te obavlja i druge poslove iz svog djelokruga.
+U Sektoru za međunarodnu pravnu pomoć, državljanstvo i putne isprave ustrojavaju se:
+7.1.1. Služba za međunarodnu pravnu pomoć;
+7.1.2. Služba za državljanstva i putne isprave.
+7.1.1. Služba za međunarodnu pravnu pomoć

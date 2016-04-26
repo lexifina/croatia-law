@@ -1,0 +1,3 @@
+# Članak 20.
+Odjel za promet, telekomunikacije, energetiku i zaštitu okoliša u suradnji s nadležnim tijelima državne uprave, kao i Stalnim predstavništvom Republike Hrvatske pri EU, u skladu s procedurama propisanima Odlukom o osnivanju Međuresorne radne skupine za europske poslove koordinira pripremu i izradu prijedloga stajališta za rad radnih skupina u okviru COREPER-a I i stajališta za sastanke COREPER-a I u području prometa, telekomunikacija, energetike i zaštite okoliša, te stajališta Republike Hrvatske za sastanke Vijeća EU za zaštitu okoliša kao i za sastanke Vijeća EU za promet, telekomunikacije i energetiku, te obavlja i druge poslove iz svog djelokruga.
+3.3.2. Služba za COREPER II

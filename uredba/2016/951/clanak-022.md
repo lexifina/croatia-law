@@ -1,0 +1,3 @@
+# Članak 22.
+Odjel za ekonomska i financijska pitanja, u suradnji s nadležnim tijelima državne uprave, kao i Stalnim predstavništvom Republike Hrvatske pri EU, u skladu sa procedurama propisanima Odlukom o osnivanju Međuresorne radne skupine za europske poslove koordinira pripremu i izradu prijedloga stajališta za rad radnih skupina u okviru COREPER-a II i stajališta za sastanke COREPER-a II u području gospodarskih i financijskih pitanja, kao i stajališta Republike Hrvatske za sastanke Vijeća za gospodarska i financijska pitanja, te obavlja i druge poslove iz svog djelokruga.
+3.3.2.2. Odjel za pravosuđe i unutarnje poslove

@@ -1,0 +1,3 @@
+# Članak 25.
+Odjel za institucije prikuplja i obrađuje podatke, informacije i druga saznanja o EU institucijama (Europska komisija, Europski parlament, Europski gospodarsko socijalni odbor, Odbor regija, europske agencije, Europska investicijska banka, Europska središnja banka, Revizorski sud) i o njihovim međusobnim odnosima; koordinira pripremu i izradu prijedloga stajališta vezano na institucionalna pitanja EU; posebno prati reforme EU institucija; surađuje s predstavnicima EU institucija u Republike Hrvatske, te obavlja i druge poslove iz svog djelokruga.
+3.3.3. Služba za europske makroregije, EU fondove i projekte

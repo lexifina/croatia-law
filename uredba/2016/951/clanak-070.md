@@ -1,0 +1,6 @@
+# Članak 70.
+Sektor za vize i strance obavlja poslove stručne i upravne poslove koji se odnose na viznu politiku i vizni sustav Republike Hrvatske te zajedničku viznu politiku EU; obavještava strane diplomatske misije i konzularne urede u zemlji o postupcima prema strancima na osnovi Bečke konvencije o konzularnim odnosima; izdaje odobrenja za prelet i/ili slijetanje stranih državnih i vojnih zrakoplova, te pribavlja odobrenja za uplovljavanje stranih državnih i/ili vojnih brodova; surađuje u obavljanju konzularnih poslova sa stranim diplomatskim misijama i konzularnim uredima i međunarodnim organizacijama u zemlji i inozemstvu, a osobito s Europskom službom za vanjsko djelovanje; sudjeluje u pripremanju konzularnih službenika za odlazak na rad u DM/KU; prati rad DM/KU u obavljanju konzularnih poslova, te izrađuje analitička izvješća i jedinstvene naputke; obavlja poslove u vezi pružanja konzularne pomoći i zaštite državljanima drugih država članica EU; obavlja poslove sustavnoga praćenja i upravljanja kriznim stanjima i pružanja konzularne pomoći i zaštite hrvatskim državljanima kao i državljanima drugih država članica EU koji se nalaze u kriznim područjima u određenim stranim zemljama, te obavlja i druge poslove iz svog djelokruga.
+U Sektoru za vize i strance ustrojavaju se:
+7.2.1. Služba za vize;
+7.2.2. Služba za strance.
+7.2.1. Služba za vize

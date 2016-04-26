@@ -1,0 +1,1 @@
+Na temelju članka 65. Zakona o vanjskim poslovima (»Narodne novine«, br. 48/96, 72/13 i 127/13) i članka 63. stavka 2. Zakona o sustavu državne uprave (»Narodne novine«, br. 150/11 i 12/13 - Odluka Ustavnog suda Republike Hrvatske), Vlada Republike Hrvatske je na sjednici održanoj 6. travnja 2016. godine donijela
