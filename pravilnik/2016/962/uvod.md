@@ -1,0 +1,1 @@
+Na temelju članka 6. stavka 2. točke 4. Zakona o znanstvenoj djelatnosti i visokom obrazovanju (»Narodne novine« br. 123/03, 198/03, 105/04, 174/04, 02/07, 46/07, 45/09, 63/11, 94/13, 139/13, 101/14 i 60/15), Nacionalno vijeće za znanost, visoko obrazovanje i tehnološki razvoj na svojoj 19. sjednici, održanoj 6. travnja 2016. godine, donijelo je
