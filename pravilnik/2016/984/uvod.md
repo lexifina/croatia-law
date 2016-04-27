@@ -1,0 +1,1 @@
+Na temelju članka 41. stavka 3. i članka 45. stavka 1. točke h) Zakona o sustavu unutarnjih kontrola u javnom sektoru (»Narodne novine«, br. 78/15) (u daljnjem tekstu: Zakon), ministar financija donosi
