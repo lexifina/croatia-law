@@ -1,0 +1,5 @@
+# Članak 36.
+(1) Nositelj odobrenja dužan je redovito, a ne samo kao dio svakog periodičnog pregleda sigurnosti, pregledati projektne osnove postrojenja. Takav pregled projektnih osnova potrebno je provoditi nakon bilo kojeg pogonskog događaja relevantnog za radiološku ili nuklearnu sigurnost ili u slučajevima kada su nastale nove informacije relevantne za radiološku ili nuklearnu sigurnost.
+(2) Takav pregled projektnih osnova također je potrebno provoditi nakon bilo koje pogonske pojave relevantne za radiološku ili nuklearnu sigurnost ili u slučajevima kada su nastale nove informacije relevantne za radiološku ili nuklearnu sigurnost.
+(3) U pregledu projektnih osnova 1. ili 2. ovog članka, determinističke i vjerojatnosne analize sigurnosti potrebno je koristiti za identifikaciju potreba i mogućnosti za poboljšanje kao i usporedbu projektnog rješenja sa zakonskim propisima i dobrom praksom.
+(4) Ovisno o sigurnosnoj važnosti rezultata iz stavka 1. ili 2. ovog članka, nositelj odobrenja dužan je ažurirati SSK po potrebi ili poduzeti sve druge mjere relevantne za radiološku ili nuklearnu sigurnost.

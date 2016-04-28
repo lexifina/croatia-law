@@ -1,0 +1,2 @@
+# Članak 7.
+Potrebno je provoditi opsežne determinističke sigurnosne analize i vjerojatnosne sigurnosne procjene tijekom projektiranja nuklearnog postrojenja kako bi se osiguralo da su svi sigurnosni zahtjevi na projekt postrojenja ispunjeni u svim fazama životnog vijeka postrojenja i potvrdilo da projekt zadovoljava uvjete za proizvodnju i gradnju u svim fazama (izrađen projekt, izgrađeno postrojenje u pogonu prema projektu te sve modifikacije projekta).

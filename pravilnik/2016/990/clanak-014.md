@@ -1,0 +1,12 @@
+# Članak 14.
+(1) Sigurnosne SSK potrebno je projektirati za sprječavanje pojave projektom predviđenih događaja ili za ublažavanje posljedica nesreće.
+(2) Sigurnosne SSK potrebno je identificirati, klasificirati, projektirati, proizvesti, instalirati i provjeriti u skladu sa standardima kvalitete, prilikom čega je potrebno obratiti pozornost na stupnjevani pristup s obzirom na važnost njihovih sigurnosnih funkcija.
+(3) Dodatni sustavi koji osiguravaju operativnost sigurnosnog SSK klasificiraju se u skladu sa svojom funkcijom.
+(4) U određivanju zahtjeva za neovisnošću, redundancije i različitosti SSK, potrebno je uzeti u obzir mogućnost kvarova sa zajedničkim uzročnikom.
+(5) Sigurnosne SSK je potrebno projektirati sukladno graničnim uvjetima nametnutim od strane projektom predviđenih događaja.
+(6) Sigurnosne SSK potrebno je projektirati da mogu podnijeti okolišne uvjete te uskladiti s takvim utjecajima i s prirodnim uvjetima koji prevladavaju na lokaciji postrojenja u svim stanjima postrojenja i tijekom nesreće.
+(7) Sigurnosne SSK potrebno je projektirati i smjestiti u postrojenju tako da zadrže svoje sposobnosti za postizanje sigurnosne funkcije čak i tijekom mogućih požara ili izloženosti eksplozijama.
+(8) Nakon svakog projektnog događaja, sigurnosni SSK trebaju spriječiti, uz odgovarajuću razinu pouzdanosti, bilo kakvo oslobađanje radioaktivnih tvari u okoliš iznad zakonski predviđenih granica. Oni trebaju nastaviti djelovati na odgovarajućoj razini pouzdanosti bez obzira na pretpostavljene inicijalne događaje i njihove posljedice.
+(9) Za sigurnosne SSK potrebno je osigurati mogućnost održavanja, provjere, popravaka i inspekcije, kao i periodičnu inspekciju integriteta i funkcionalnosti tijekom životnog vijeka postrojenja na način da se spriječi neopravdano izlaganje radnika neopravdanim rizicima ili znatno smanjenje dostupnosti SSK.
+(10) Sigurnosni SSK koji dolaze u dodir s tekućinama trebaju biti izgrađeni od materijala odgovarajućih antikorozivnih svojstava, te otporni na habanje i kemijske reakcije u svim stanjima postrojenja i za vrijeme nesreća tijekom životnog vijeka.
+(11) Potrebno je odrediti projektirani život vijek sigurnosnih SSK. U projektu je potrebno osigurati odgovarajuće margine kako bi se uzeli u obzir relevantni mehanizmi starenja, degradacije starenjem, krhkosti zbog neutronskog zračenja te istrošenosti kako bi se osigurala sposobnost objekata važnih za sigurnost da obavljaju potrebne sigurnosne funkcije tijekom njihovog projektnog životnog vijeka.

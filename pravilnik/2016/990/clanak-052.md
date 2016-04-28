@@ -1,0 +1,4 @@
+# Članak 52.
+(1) Djelatnosti razgradnje mogu stvoriti velike količine otpada tijekom kratkih vremenskih razdoblja, a otpad se može značajno razlikovati po vrsti i aktivnosti, a može uključivati velike objekte. Operativna organizacija treba osigurati odgovarajuća sredstva dostupna za sigurno upravljanje otpadom. Tehnike rastavljanja i dekontaminacije potrebno je odabrati tako da se nastajanje otpada i onečišćenja zraka svedu na minimum.
+(2) Djelatnosti razgradnje poput dekontaminacije, rezanja i obrade velike opreme i progresivnog rastavljanja ili uklanjanja nekih postojećih sigurnosnih sustava imaju potencijal za stvaranje novih opasnosti. Potrebno je procjenjivati i upravljati utjecajem na sigurnost tih djelatnosti kako bi se ublažili ti rizici.
+(3) Operativna organizacija treba osigurati zaštitu i radnika i javnosti protiv izloženosti, ne samo u razgradnji, nego i kao rezultat bilo koje naknadne okupiranosti ili korištenja područja stavljenog izvan pogona.

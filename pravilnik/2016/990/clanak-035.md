@@ -1,0 +1,3 @@
+# Članak 35.
+(1) Projekt nuklearnog postrojenja treba osigurati čuvanje cjelokupnih detaljnih informacija o postrojenju koje se stvaraju u svim fazama životnog vijeka postrojenja, uključujući odabir lokacije, projektiranje, gradnju, probni pogon, pogon i prestanak pogona, a koje su potrebne za razgradnju, te još, minimalno, informacije o uporabi postrojenja, događajima i nesrećama, sadržajima radionuklida, brzinama doza i razinama onečišćenja.
+(2) Podaci iz prethodnog stavka trebaju osigurati pravilno uključivanje projekta i izmjena nuklearnog postrojenja i njegove pogonske povijest u programu razgradnje postrojenja.

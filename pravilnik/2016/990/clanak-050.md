@@ -1,0 +1,3 @@
+# Članak 50.
+(1) Nakon odluke o gašenju nuklearnog postrojenja, organizacija pravno odgovorna za razgradnju dostavlja regulatornom tijelu zahtjev za odobrenje razgradnje nuklearnog postrojenja.
+(2) Ako se nuklearno postrojenje namjerava ugasiti i odgoditi razgradnju, u konačnom planu razgradnje potrebno je pokazati da je takva mogućnost sigurna i da su prilikom razvoja programa rastavljanja mogući događaji tijekom tog perioda gašenja uzeti u obzir. Time je potrebno pokazati da se budućim generacijama neće nametnuti preveliki teret. Odgovarajuće održavanje i program nadziranja, koji podliježu odobrenju regulatornog tijela trebaju biti razvijeni kako bi osigurali sigurnost tijekom razdoblja odgode.

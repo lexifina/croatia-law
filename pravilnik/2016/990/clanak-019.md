@@ -1,0 +1,3 @@
+# Članak 19.
+(1) Skup pooštrenih projektnih uvjeta potrebno je izvesti na temelju inženjerske prosudbe, determinističkih i vjerojatnosnih procjena u svrhu daljnjeg poboljšanja sigurnosti nuklearne elektrane povećanjem sposobnosti elektrane da izdrži, bez neprihvatljivih radioloških posljedica, nesreće koje su ili teže od projektnog kvara ili koje uključuju dodatne kvarove.
+(2) Ove pooštrene projektne uvjete potrebno je koristiti za identifikaciju dodatnih scenarija nesreće koje treba obraditi u projektu i planirati praktične odredbe za sprječavanje takvih nesreća ili ublažavanje njihovih posljedica, ako do njih dođe.
