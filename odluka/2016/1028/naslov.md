@@ -1,0 +1,1 @@
+Odluka raspisivanju prijevremenih izbora za Općinsko vijeće i općinskog načelnika te zamjenika općinskog načelnika Općine Murter - Kornati i raspisivanju prijevremenih izbora za zamjenika općinskog načelnika Općine Viljevo iz reda pripadnika srpske nacionalne manjine
