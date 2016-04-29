@@ -1,0 +1,9 @@
+## IV. KONTROLA ZAHTJEVA ZA TRŽIŠNU KOMPENZACIJU
+## Administrativna kontrola
+# Članak 8.
+(1) Uprava ribarstva vrši administrativnu kontrolu Zahtjeva pri čemu utvrđuje pravovremenost i potpunost Zahtjeva te udovoljavanje uvjetima propisanim ovim Pravilnikom na temelju podataka iz službenih evidencija koje vodi Uprava ribarstva i dokumentacije dostavljene uz Zahtjev.
+(2) Ukoliko se administrativnom kontrolom utvrdi da korisnik ne ispunjava u potpunosti uvjet propisan člankom 5. stavkom 1. podstavkom 3. ovoga Pravilnika vezan uz dostavu podataka o ulovu na propisanom obrascu i u propisanom roku za obračunsko razdoblje za koje se podnosi Zahtjev, ukupni odobreni iznos tržišne kompenzacije u skladu s dostavljenim računima/otpremnicama, umanjit će se za iznos tržišne kompenzacije obračunat za količinu ulova prikazanu u očevidnicima/izvješćima koji su dostavljeni izvan propisanog roka. Vrijednost tržišne kompenzacije koja se umanjuje od ukupno obračunatog odobrenog iznosa utvrđivat će se po prosječnim cijenama.
+(3) Ukoliko se administrativnom kontrolom utvrdi da cjelokupan evidentirani ulov korisnika za razdoblje za koje se podnosi Zahtjev nije u skladu s odredbama iz članka 5. stavka 1. podstavka 3. ovoga Pravilnika, podneseni Zahtjev neće se uputiti u daljnju obradu definiranu stavkom 6. ovoga članka.
+(4) Za nepotpune, ali pravovremeno podnesene Zahtjeve od korisnika se Zahtjevom za dopunu traži dostavljanje dodatne dokumentacije, obrazloženje, tumačenje ili ispravak podataka potrebnih za dovršenje administrativne kontrole Zahtjeva.
+(5) Korisnik je dužan zatraženu dopunu iz stavka 2. ovoga članka dostaviti preporučenom poštom s povratnicom u roku od sedam kalendarskih dana od dana zaprimanja Zahtjeva za dopunu.
+(6) Potpuni i pravovremeno dopunjeni Zahtjevi ulaze u daljnju obradu te se vrši njihov konačni obračun i izrađuje tablični prikaz.
