@@ -1,0 +1,9 @@
+## III. KONTROLA ZAHTJEVA
+## Administrativna kontrola
+# Članak 10.
+(1) Administrativnu kontrolu Zahtjeva za poticaje provodi Uprava ribarstva pri čemu utvrđuje pravovremenost i potpunost Zahtjeva za poticaje te udovoljavanje uvjetima propisanim ovim Pravilnikom što se utvrđuje uvidom u službene evidencije koje vodi Ministarstvo i u Zahtjev za poticaje.
+(2) Za nepotpune ali pravovremeno podnesene Zahtjeve za poticaje od korisnika se Zahtjevom za dopunu traži dostavljanje dodatne dokumentacije, obrazloženje, tumačenje ili ispravak podataka potrebnih za dovršenje administrativne kontrole Zahtjeva za poticaje.
+(3) Ukoliko se administrativnom kontrolom utvrdi da korisnik modela poticanja proizvodnje u ribarstvu - kategorija ulov male plave ribe, ne ispunjava u potpunosti uvjet propisan člankom 6. stavkom 4. ovoga Pravilnika vezan uz dostavu podataka o ulovu na propisanom obrascu i u propisanom roku za obračunsko razdoblje za koje se podnosi Zahtjev za poticaje, obračunati i odobreni iznos poticaja u skladu s dostavljenim računima/otpremnicama umanjiti će se za iznos koji će se obračunati kao iznos poticaja za količinu ulova prikazanu u očevidnicima/izvješćima koji su dostavljeni van propisanog roka te za koje se ne može ostvariti poticaj.
+(4) Ukoliko se administrativnom kontrolom utvrdi da cjelokupan evidentirani ulov male plave ribe korisnika za razdoblje za koje se podnosi Zahtjev nije u skladu s odredbama iz članka 6. stavka 4. ovoga Pravilnika, podneseni Zahtjev za poticaje neće se uputiti u daljnju obradu definiranu stavkom 6. ovoga članka.
+(5) Korisnik je dužan traženo iz stavka 2. ovoga članka dostaviti preporučenom poštom s povratnicom u roku od sedam kalendarskih dana od dana zaprimanja Zahtjeva za dopunu.
+(6) Potpuni, provjereni i pravovremeno dopunjeni Zahtjevi za poticaje ulaze u daljnju obradu te se vrši njihov konačni obračun i izrađuje tablični prikaz odobrenih iznosa poticaja po korisniku.
