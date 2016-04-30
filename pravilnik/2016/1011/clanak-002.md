@@ -1,0 +1,5 @@
+# Članak 2.
+(1) Društvo za osiguranje odnosno društvo za reosiguranje dužno je voditi poslovne knjige, sastavljati knjigovodstvene isprave, vrednovati imovinu i obveze te sastavljati godišnje financijske izvještaje i financijske izvještaje za razdoblja tijekom poslovne godine u skladu sa Zakonom o osiguranju, propisima kojima se uređuje računovodstvo i Međunarodnim standardima financijskog izvještavanja (dalje u tekstu: MSFI).
+(2) Društvo za osiguranje odnosno društvo za reosiguranje dužno je poslovne događaje evidentirati u svojim poslovnim knjigama koristeći konta najmanje u opsegu koji je jednak propisanom kontnom planu od strane Agencije.
+(3) Društvo za osiguranje odnosno društvo za reosiguranje dužno je voditi registar imovine za pokriće tehničkih pričuva prema računovodstvenim propisima u skladu s člankom 180. stavkom 6. i člankom 181. Zakona o osiguranju te ovim Pravilnikom.
+(4) U smislu ovoga Pravilnika pojam »tehničke pričuve« odnosi se na tehničke pričuve prema računovodstvenim propisima.

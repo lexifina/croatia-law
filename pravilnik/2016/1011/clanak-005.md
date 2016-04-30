@@ -1,0 +1,4 @@
+## Konsolidirani financijski izvještaji
+# Članak 5.
+(1) Društvo za osiguranje odnosno društvo za reosiguranje koje je matično društvo u grupi osiguratelja dužno je sastavljati konsolidirane financijske izvještaje navedene u članku 3. stavku 1. ovoga Pravilnika u skladu s obrascima iz Priloga 1 ovoga Pravilnika.
+(2) U slučaju da ne postoji odnos matičnog društva i društva kćeri, društvu za osiguranje odnosno društvu za reosiguranje koje je povezano na jedan od načina propisanih člankom 297. Zakona o osiguranju s drugom pravnom osobom, Agencija može rješenjem naložiti sastavljanje i dostavu konsolidiranih financijskih izvještaja u svrhu obavljanja potpunog nadzora nad poslovanjem društva za osiguranje odnosno društva za reosiguranje. Agencija određuje opseg konsolidacije, pravne osobe koje će biti obuhvaćene konsolidacijom te način i učestalost sastavljanja konsolidiranih financijskih izvještaja.
