@@ -1,0 +1,5 @@
+## Revizorsko izvješće o obavljenoj reviziji financijskih izvještaja
+# Članak 11.
+(1) U smislu ovoga pravilnika revizija financijskih izvještaja je postupak provjere i ocjene godišnjih financijskih izvještaja društva za dokup mirovine koji su sastavljeni na temelju Zakona o računovodstvu i koji su namijenjeni vanjskim korisnicima, uključujući i Agenciju.
+(2) Revizija financijskih izvještaja društva za dokup mirovine obavlja se u skladu sa Zakonom o reviziji, Međunarodnim revizijskim standardima i drugim pravilima revizorske struke, Zakonom o računovodstvu te Zakonom o dokupu mirovine i propisima donesenim na temelju toga zakona.
+(3) U revizorskom izvješću iz ovog članka revizorsko društvo dužno je dati mišljenje o tome jesu li godišnji financijski izvještaji društva za dokup mirovine sastavljeni u skladu s propisima i standardima struke. Revizorsko društvo dužno je u mišljenju iskazati pružaju li godišnji financijski izvještaji istinit i objektivan prikaz financijskog položaja društva za dokup mirovine u skladu sa Zakonom o računovodstvu, odnosno sa MSFI.
