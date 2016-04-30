@@ -1,0 +1,5 @@
+## Način dostave izvještaja
+# Članak 7.
+(1) Mirovinsko osiguravajuće društvo dužno je dostaviti Agenciji tromjesečne financijske izvještaje iz članka 3. stavka 1. ovoga Pravilnika te tromjesečne i mjesečne dodatne izvještaje iz članka 4. stavka 2. ovoga Pravilnika u elektroničkom i pisanom obliku. Izvještaji propisani ovim Pravilnikom u pisanom obliku dostavljaju se Agenciji potpisani od strane uprave mirovinskog osiguravajućeg društva i odgovornih osoba, dok se izvještaji u elektroničkom obliku dostavljaju u skladu s tehničkom uputom Agencije.
+(2) Mirovinsko osiguravajuće društvo dužno je revidirane godišnje financijske izvještaje iz članka 3. stavka 1. ovoga Pravilnika te revidirane godišnje dodatne izvještaje iz članka 4. stavka 2. ovoga Pravilnika dostaviti u elektroničkom obliku te pisanom obliku zajedno s revizorskim izvješćem o obavljenoj reviziji.
+(3) U opravdanim slučajevima nemogućnosti dostave u elektroničkom obliku, mirovinsko osiguravajuće društvo dužno je dostaviti izvještaje u elektroničkom obliku čim prestanu razlozi nemogućnosti dostave, a najkasnije u roku od osam dana od isteka roka za dostavu izvještaja.
