@@ -1,0 +1,5 @@
+# Članak 3.
+(1) Društvo za zastupanje u osiguranju odnosno društvo za posredovanje u osiguranju i reosiguranju dužno je sastavljati statistički izvještaj.
+(2) Struktura i sadržaj statističkog izvještaja iz stavka 1. ovoga članka određeni su u obrascu SP-1 - Statistički izvještaj o fakturiranom iznosu provizije / naknade koji je kao Prilog II. sastavni dio ovoga Pravilnika.
+(3) Društvo za zastupanje u osiguranju odnosno društvo za posredovanje u osiguranju i reosiguranju dužno je sastavljati polugodišnji statistički izvještaj sa stanjem na dan 30. lipnja i 31. prosinca, te godišnji statistički izvještaj sa stanjem na dan 31. prosinca.
+(4) Podaci iz članka 1. stavka 1. alineje 3. ovoga Pravilnika o kojima društvo za zastupanje u osiguranju odnosno društvo za posredovanje u osiguranju i reosiguranju izvještava Agenciju odnose se na podatke koje društvo za zastupanje u osiguranju odnosno društvo za posredovanje u osiguranju i reosiguranju dostavlja u sklopu statističkog izvještaja iz stavka 1. ovoga članka.
