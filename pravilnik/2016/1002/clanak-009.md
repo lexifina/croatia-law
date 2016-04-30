@@ -1,0 +1,9 @@
+## Izuzeće arbitra
+# Članak 9.
+(1) Izabrani ili imenovani arbitar može zatražiti izuzeće u pojedinom postupku arbitraže, ukoliko ocijeni da postoje opravdani razlozi koji bi mogli utjecati na njegovu nepristranost ili postoje objektivni razlozi koji bitno utječu na mogućnost ispunjavanja obveze arbitra.
+(2) Izuzeće imenovanog arbitra može zatražiti svaka stranka u sporu, u slučaju opravdane sumnje da postoje razlozi koji bi mogli utjecati na njegovu nepristranost ili postoje objektivni razlozi koji bitno utječu na mogućnost ispunjavanja obveze arbitra.
+(3) Izuzeće izabranog arbitra može zatražiti svaka stranka u sporu u slučaju kada joj opravdani razlozi koji bi mogli utjecati na njegovu nepristranost ili objektivni razlozi koji bitno utječu na mogućnost ispunjavanja obveze arbitra, nisu bili poznati pri sklapanju sporazuma o izboru arbitra.
+(4) Odluku o izuzeću iz stavka 1., 2. i 3. ovoga članka, donosi ministar ili druga osoba na koju je ministar odlukom prenio sve ovlasti koje mu prema ovom Pravilniku pripadaju, u roku od pet kalendarskih od dana podnošenja zahtjeva za izuzeće arbitra.
+(5) Ako je na zahtjev arbitra ili stranke u sporu za izuzeće imenovanog arbitra, ministar donio odluku o izuzeću arbitra, istovremeno s donošenjem te odluke, ministar će donijeti odluku o imenovanju novog arbitra.
+(6) Ako je na zahtjev arbitra ili stranke u sporu za izuzeće izabranog arbitra, ministar donio odluku o izuzeću arbitra, poslodavac je dužan u roku od pet kalendarskih dana od dana primitka odluke, obavijestiti ministarstvo o postignutom sporazumu o izboru novog arbitra ili u slučaju kada sporazum nije postignut, podnijeti zahtjev za imenovanjem novog arbitra.
+(7) Ako stranke u sporu, nakon izuzeća arbitra nisu postigle sporazum o izboru novog arbitra, ministar će u roku od pet kalendarskih dana od dana podnošenja zahtjeva iz stavka 6. ovoga članka, donijeti odluku o imenovanju novog arbitra.
