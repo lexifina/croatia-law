@@ -1,0 +1,3 @@
+## Sustav registracije i identifikacije gospodarskih subjekata (EORI sustav)
+# Članak 14.
+Ministar financija pravilnikom propisuje način dodjeljivanja, određivanja, korištenja i poništavanja registracijskog i identifikacijskog broja gospodarskog subjekta (EORI broj – engl. »Economic Operators Registration and Identification number»; u daljnjem tekstu: EORI broj), obrazac zahtjeva za EORI broj, sadržaj potvrde o EORI broju, strukturu EORI broja, sadržaj evidencije o EORI brojevima te korištenje podataka koji se prikupljaju i razmjenjuju u postupku dodjele EORI broja za primjenu sustava uspostavljenog u skladu s člankom 16. stavkom 1. Uredbe (EU) br. 952/2013.

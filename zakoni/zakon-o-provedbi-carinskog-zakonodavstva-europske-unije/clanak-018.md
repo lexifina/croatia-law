@@ -1,0 +1,4 @@
+## Oblik osiguranja kojim se jamči plaćanje očekivanog iznosa troškova
+# Članak 18.
+(1) Ako je u postupku povodom zahtjeva za donošenje odluke koja se odnosi na primjenu carinskog zakonodavstva, posebno u vezi s odlukama u skladu s člankom 33. Uredbe (EU) br. 952/2013 ili u vezi s pružanjem informacija u skladu s člankom 14. stavkom 1. Uredbe (EU) br. 952/2013, potrebno provesti analizu ili drugo odgovarajuće ispitivanje kod osobe iz članka 17. ovoga Zakona, carinski ured zaključkom će pozvati podnositelja zahtjeva da u roku od 30 dana od dana dostave zaključka dostavi odgovarajući oblik osiguranja kojim se jamči plaćanje očekivanog iznosa troškova sukladno članku 22. stavku 1. točki 2. podtočki a) ovoga Zakona.
+(2) Ako podnositelj zahtjeva ne dostavi oblik osiguranja iz stavka 1. ovoga članka, carinski ured donijet će rješenje o obustavi postupka.

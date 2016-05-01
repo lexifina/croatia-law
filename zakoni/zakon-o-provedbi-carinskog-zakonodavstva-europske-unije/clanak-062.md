@@ -1,0 +1,14 @@
+## Lakši prekršaji prema ovom Zakonu
+# Članak 62.
+(1) Novčanom kaznom od 2000,00 do 500.000,00 kuna kaznit će se za prekršaj pravna osoba, a novčanom kaznom od 1000,00 do 40.000,00 kuna i odgovorna osoba u pravnoj osobi, kao i fizička osoba ako:
+1. odmah ne obavijesti Carinsku upravu o svakoj spoznaji koja se odnosi na robu nezakonito unesenu u carinsko područje Unije ili koja se tu nezakonito nalazi ili koja je nezakonito izuzeta ispod carinskog nadzora ili kojom se na drugi način nezakonito raspolaže ili o drugim postupanjima protivnim carinskom zakonodavstvu (članak 12. stavak 1. točka 1. ovoga Zakona)
+2. ne postupi po pravilima uporabe sustava elektroničke razmjene podataka i pružanja usluga elektroničkog poslovanja Carinske uprave (članak 13. stavak 3. točka 2. ovoga Zakona)
+3. evidenciju koja se odnosi na primjenu carinskog zakonodavstva ne vodi sukladno s poreznim ili knjigovodstvenim ili drugim evidencijama ili ispravama (članak 21. stavak 1. ovoga Zakona)
+4. prijevoz robe ne izvrši ekonomski opravdanim putem (članak 29. ovoga Zakona)
+5. na prodajnom mjestu prodaje robu koja nije roba Unije iako za to prodajno mjesto carinski ured nije izdao odobrenje za vođenje prostora za smještaj za carinsko skladištenje robe (carinsko skladište) u kojem je odobrena maloprodaja u skladu s člankom 201. točkom (a) Delegirane uredbe Komisije (EU) br. 2015/2446 (članak 40. stavak 2. ovoga Zakona)
+6. robu koja nije roba Unije proda putniku bez predočenja ukrcajne karte s naznačenim odredištem izvan carinskog područja Unije ili članu posade prijevoznog sredstva s odredištem izvan carinskog područja Unije bez predočenja odgovarajućih identifikacijskih isprava ili drugih isprava iz kojih je razvidno da je član posade tog prijevoznog sredstva (članak 40. stavci 3. i 4. ovoga Zakona)
+7. ne čuva račun iz članka 41. stavka 1. ovoga Zakona dok ne napusti carinsko područje Unije (članak 41. stavak 2. ovoga Zakona)
+8. prodanu robu koja nije roba Unije prije predaje putniku ne stavi u vrećicu ili na zatvorenu vrećicu ne stavi oznaku na način koji onemogućuje odstranjivanje oznake bez oštećenja (članak 42. stavak 1. ovoga Zakona)
+9. robu stavljenu u vrećicu na način naveden u članku 42. stavku 1. ovoga Zakona ustupi drugoj osobi ili odstrani ili ošteti oznaku s vrećice ili upotrijebi ili potroši robu dok se nalazi na carinskom području Unije (članak 42. stavak 2. ovoga Zakona)
+10. evidenciju ili pripadajuću ispravu o nabavi ili prodaji robe prodajnog mjesta ne vodi ili ne drži ili ne čuva u prostoru tog prodajnog mjesta (članak 43. stavak 2. ovoga Zakona).
+(2) Novčanom kaznom od 1000,00 do 300.000,00 kuna kaznit će se i fizička osoba obrtnik i osoba koja obavlja drugu samostalnu djelatnost ako je prekršaj iz stavka 1. ovoga članka počinila u vezi s obavljanjem svoga obrta ili druge samostalne djelatnosti.

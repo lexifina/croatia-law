@@ -1,0 +1,7 @@
+## Besplatna dodjela robe
+# Članak 45.
+(1) Ako u okolnostima konkretnog slučaja prodaja robe iz članka 44. ovoga Zakona ne predstavlja odgovarajući način za postizanje svrhe učinkovitog i ekonomičnog reguliranja pitanja robe, pod uvjetom provedbe carinskih formalnosti za postupak puštanja robe u slobodan promet i uređenja pitanja carinskog duga propisanim carinskim zakonodavstvom, ustupljena i oduzeta roba može se besplatno dodijeliti tijelima državne uprave i drugim državnim tijelima te tijelima jedinica lokalne i područne (regionalne) samouprave, ako je ta roba potrebna za obavljanje njihove djelatnosti.
+(2) Ako ustupljena i oduzeta roba predstavlja predmete povijesne, arheološke, etnografske, kulturne, umjetničke ili znanstvene vrijednosti ili je podobna za obavljanje humanitarne ili socijalne djelatnosti, osim tijelima i uz uvjete iz stavka 1. ovoga članka, može se besplatno dodijeliti i drugim osobama za obavljanje odnosne djelatnosti, ako je to u javnom interesu.
+(3) Odluku o besplatnoj dodjeli robe iz stavaka 1. i 2. ovoga članka donosi Vlada Republike Hrvatske.
+(4) Iznimno od stavka 3. ovoga članka, Vlada Republike Hrvatske može za donošenje odluke o besplatnoj dodjeli robe ovlastiti povjerenstvo koje čine predstavnici ministarstava nadležnih za financije, socijalnu skrb, gospodarstvo i kulturu.
+(5) Odluka o besplatnoj dodjeli robe iz stavaka 1. i 2. ovoga članka nije upravni akt.

@@ -1,0 +1,7 @@
+## POGLAVLJE III. PREKRŠAJI PREMA UREDBI VIJEĆA (EZ) BR. 1186/2009
+## Teški prekršaji prema Uredbi Vijeća (EZ) br. 1186/2009
+# Članak 66.
+(1) Novčanom kaznom od 3000,00 do 1.000.000,00 kuna kaznit će se za prekršaj pravna osoba, a novčanom kaznom od 2000,00 do 50.000,00 kuna i odgovorna osoba u pravnoj osobi, kao i fizička osoba ako:
+1. u suprotnosti s propisima proda, otuđi po drugoj osnovi, da drugom na uporabu, zalog, najam, rabi u druge svrhe ili preda kao osiguranje za dug, obveze ili je upotrijebi u neke druge svrhe osim u one zbog kojih je roba bila oslobođena od carine, a prethodno ne podmiri carinski dug i druga javna davanja (članak 8., članak 16., članak 33., članak 48., članak 52., članak 57., članak 64., članak 68., članak 71., članak 72., članak 78., članak 79., članak 110. i članak 115. Uredbe Vijeća (EZ) br. 1186/2009)
+2. ne obavijesti carinski ured o prestanku ispunjenja uvjeta zbog kojih je oslobođena od carine ili namjerava proizvode koji su uvezeni kao oslobođeni od carine upotrijebiti u druge svrhe (članak 49., članak 50., članak 52., članak 58., članak 59., članak 65., članak 69., članak 73., članak 78., članak 79. i članak 80. Uredbe Vijeća (EZ) br. 1186/2009).
+(2) Novčanom kaznom od 3000,00 do 600.000,00 kuna kaznit će se i fizička osoba obrtnik i osoba koja obavlja drugu samostalnu djelatnost ako je prekršaj iz stavka 1. ovoga članka počinila u vezi s obavljanjem svoga obrta ili druge samostalne djelatnosti.

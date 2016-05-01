@@ -1,0 +1,5 @@
+## POGLAVLJE VI. OSTALO
+## Odgovornost drugih osoba
+# Članak 69.
+(1) Pravna osoba i odgovorna osoba u pravnoj osobi te fizička osoba kod koje se zatekne u posjedu roba, odnosno koja kupi, proda, preda drugom, primi na dar, prikrije, primi na čuvanje ili na prijevoz, upotrijebi ili primi po bilo kojoj drugoj osnovi robu za koju zna ili je prema okolnostima slučaja mogla znati da je riječ o robi koja je predmet prekršaja propisanog ovim Zakonom kaznit će se kao da je sama počinila prekršaj, istom kaznom koja je propisana za počinitelja prekršaja.
+(2) Fizička osoba obrtnik i osoba koja obavlja drugu samostalnu djelatnost ako je prekršaj iz stavka 1. ovoga članka počinila u vezi s obavljanjem svoga obrta ili druge samostalne djelatnosti kaznit će se kao da je sama počinila prekršaj, istom kaznom koja je propisana za počinitelja prekršaja.
