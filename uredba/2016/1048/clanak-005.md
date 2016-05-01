@@ -1,0 +1,5 @@
+# Članak 5.
+U članku 25. stavci 1., 2. i 3. mijenjaju se i glase:
+»(1) CDU će pripremiti Godišnji plan iz članka 5. stavka 1. ove Uredbe i dostaviti središnjem tijelu državne uprave nadležnom za poslove e-Hrvatske do kraja prosinca za iduću godinu, koje će Godišnji plan uputiti Vijeću radi donošenja u daljnjem roku od 30 dana od dana izdavanja prethodne suglasnosti.«.
+(2) CDU će pripremiti Katalog iz članka 6. stavka 7. ove Uredbe i prezentirati središnjem tijelu državne uprave nadležnom za poslove e-Hrvatske u roku od 3 mjeseca od dana stupanja na snagu ove Uredbe, koje će Katalog uputiti Vijeću radi donošenja u daljnjem roku od 30 dana od dana izdavanja prethodne suglasnosti.«.
+(3) CDU će pripremiti Plan integracije iz članka 7. stavka 1. ove Uredbe i dostaviti središnjem tijelu državne uprave nadležnom za poslove e-Hrvatske u roku od 3 mjeseca od dana stupanja na snagu ove Uredbe, koje će Plan integracije uputiti Vijeću radi donošenja u daljnjem roku od 30 dana od dana izdavanja prethodne suglasnosti.«.
