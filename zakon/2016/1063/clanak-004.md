@@ -1,0 +1,5 @@
+## III. NADLEŽNA TIJELA I NJIHOVE OBVEZE
+# Članak 4.
+(1) Nadležna tijela za provedbu Uredbe (EU) br. 98/2013 i ovoga Zakona su ministarstvo nadležno za zdravlje, ministarstvo nadležno za poljoprivredu i ministarstvo nadležno za unutarnje poslove (u daljnjem tekstu: nadležna tijela) u skladu s propisanim djelokrugom.
+(2) Pri provedbi Uredbe (EU) br. 98/2013 i ovoga Zakona nadležna tijela međusobno surađuju radi nadzora stavljanja na raspolaganje pojedincima, uvođenja, posjedovanja ili uporabe od strane pojedinca ograničenih prekursora eksploziva te pravodobnog međusobnog obavješćivanja.
+(3) Nadležna tijela prilikom obavljanja poslova iz svoga djelokruga provjeravaju način na koji je omogućeno stavljanje na raspolaganje, uvođenje, posjedovanje i uporaba tvari ili smjesa ili tvari koje ih sadrže iz članka 3. ovoga Zakona, koje bi se mogle zlouporabiti za nezakonitu proizvodnju eksploziva, radi ograničavanja njihove dostupnosti javnosti i osiguravanja odgovarajućeg prijavljivanja sumnjivih transakcija.

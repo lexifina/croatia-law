@@ -1,0 +1,2 @@
+# Članak 7.
+Smjernice Europske komisije i Stalnog odbora za prekursore o Uredbi (EU) br. 98/2013 koje sadrže informacije o tome kako prepoznati i prijaviti sumnjive transakcije, nestanke i krađe tvari ili smjesa te ostale informacije koje mogu biti korisne gospodarskim subjektima za postupanje po Uredbi (EU) br. 98/2013 nadležna tijela dužna su objaviti na svojim službenim mrežnim stranicama na hrvatskom jeziku.
