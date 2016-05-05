@@ -1,0 +1,2 @@
+# Članak 3.
+Minimalne referentne veličine za očuvanje vrsta riba i drugih morskih organizama ispod koje se ne smiju loviti, sakupljati, zadržavati na plovilu, prekrcavati, iskrcavati, prenositi, skladištiti, prodavati, izlagati ili nuditi na prodaju su propisane Prilogom III. Uredbe Vijeća (EZ) br. 1967/2006 od 21. prosinca 2006.o mjerama upravljanja za održivo iskorištavanje ribolovnih resursa u Sredozemnom moru (SL L 409 30. 12. 2006.) (u daljnjem tekstu: Uredba br. 1967/2006).
