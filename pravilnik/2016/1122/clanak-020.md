@@ -1,0 +1,5 @@
+# Članak 20.
+Sukladna električna oprema koja predstavlja rizik
+(1) Ako nadležno inspekcijsko tijelo nakon provedbe ocjenjivanja u skladu s člankom 19. stavkom 1. ovoga Pravilnika utvrdi da električna oprema, iako je sukladna s ovim Pravilnikom, predstavlja rizik za zdravlje ili sigurnost osoba, ili za domaće životinje ili imovinu, ono će od odgovarajućeg gospodarskog subjekta zahtijevati poduzimanje odgovarajućih mjera kako dotična električna oprema nakon stavljanja na tržište više ne bi predstavljala rizik, tražiti njezino povlačenje s tržišta ili povrat u razumnom roku, o čemu odlučuje s obzirom na vrstu rizika.
+(2) Gospodarski subjekt osigurava provođenje odgovarajućih popravnih radnji u pogledu na svu dotičnu električnu opremu koju je stavio na raspolaganje na tržištu Unije.
+(3) Nadležno inspekcijsko tijelo o tome odmah obavješćuje Komisiju i ostale države članice. Navedena informacija uključuje sve dostupne detalje, a posebno podatke potrebne za identifikaciju dotične električne opreme, njezina podrijetla i opskrbnog lanca, vrstu rizika te vrstu i trajanje poduzetih nacionalnih mjera.

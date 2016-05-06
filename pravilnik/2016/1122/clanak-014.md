@@ -1,0 +1,3 @@
+# Članak 14.
+Pretpostavka sukladnosti na temelju nacionalnih normi
+Ako ne postoje usklađene norme iz članka 12. ovoga Pravilnika ili međunarodne norme iz članka 13. ovoga Pravilnika, pretpostavlja se da, u svrhu njenog stavljanja na raspolaganje na tržištu prema članku 3. ili slobodnog kretanja prema članku 4. ovoga Pravilnika, zadovoljava bitne zahtjeve iz članka 3. i Dodatka I. ovoga Pravilnika i ona električna oprema proizvedena u skladu sa sigurnosnim zahtjevima normi koje su na snazi u državi članici u kojoj je proizvedena i ako ta oprema osigurava razinu sigurnosti jednaku onoj koja se zahtijeva u Republici Hrvatskoj.
