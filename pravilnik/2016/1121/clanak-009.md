@@ -1,0 +1,6 @@
+# Članak 9.
+(1) Ministarstvo nadležno za energetiku je dužno dostaviti Europskoj komisiji statističke sažetke o posebnim zalihama koje postoje na posljednji dan svakog kalendarskog mjeseca, navodeći količine i broj dana prosječne potrošnje u referentnoj godini koju te zalihe predstavljaju. Ako se neke od tih posebnih zaliha čuvaju izvan teritorija Republike Hrvatske, dostavit će se detaljni podaci o zalihama koje se čuvaju na teritoriju ili uz pomoć raznih država članica i predmetnih Središnjih tijela za zalihe.
+(2) Ministarstvo nadležno za energetiku je dužno dostaviti Europskoj komisiji statistički sažetak o posebnim zalihama koje se nalaze na njezinom teritoriju, a čiji je vlasnik druga država članica ili Središnje tijelo za zalihe i koje postoje na posljednji dan svakog kalendarskog mjeseca, po kategorijama derivata i po vlasnicima tih zaliha.
+(3) Statistički sažeci iz stavaka 1. i 2. ovoga članka dostavljaju se tijekom kalendarskog mjeseca nakon mjeseca na koji se sažeci odnose.
+(4) Kopije statističkih sažetaka iz stavaka 1. i 2. ovoga članka moraju se dostaviti Europskoj komisiji na njihov zahtjev, u što kraćem roku.
+(5) Zahtjev iz stavka 4. ovoga članka može se uputiti najkasnije pet godina nakon datuma na koji se predmetni podaci odnose.

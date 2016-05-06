@@ -1,0 +1,12 @@
+# Članak 4.
+(1) Republika Hrvatska može se obvezati na čuvanje posebnih zaliha naftnih derivata, iskazanih u broju dana potrošnje sukladno odredbama ovoga Pravilnika.
+(2) Posebne zalihe mogu se sastojati samo od jedne ili više sljedećih kategorija derivata, prema odredbama Odjeljka 4. Priloga B. Uredbe (EZ-a) br. 1099/2008 i to: ukapljeni naftni plin, motorni benzin, benzin za zrakoplove, gorivo za mlazne motore benzinskog tipa, gorivo za mlazne motore kerozinskog tipa, ostali kerozini, plinsko ulje (gorivo za grijanje i pogonska goriva), loživo ulje (s velikim sadržajem sumpora i s malim sadržajem sumpora).
+(3) Zajednička zastupljenost derivata iz stavka 2. ovoga članka, izražena u ekvivalentu sirove nafte, mora biti najmanje 75% ukupne domaće potrošnje iz prethodne godine.
+(4) Naftne derivate koji čine posebne zalihe definira Hrvatska agencija za obvezne zalihe nafte i naftnih derivata (u daljnjem tekstu: HANDA) sukladno važećim propisima i tržišnim uvjetima.
+(5) Naftni derivati iz stavka 4. ovoga članka moraju odgovarati zadanom broju dana prosječne dnevne potrošnje mjerene na temelju njihovog ekvivalenta u sirovoj nafti tijekom referentne godine.
+(6) Ekvivalent posebnih zaliha u sirovoj nafti izračunava se tako da se ukupna količina naftnih derivata određenih kao posebne zalihe sukladno stavku 4. ovoga članka pomnoži s faktorom 1,2.
+(7) Ukoliko se HANDA odluči na čuvanje posebnih zaliha, ministarstvo nadležno za energetiku dostavit će Europskoj komisiji obavijest u kojoj navodi razinu zaliha za koje je preuzela obvezu čuvanja te trajanje takve obveze koje iznosi najmanje jednu godinu.
+(8) Razina posebnih zaliha primjenjuje se jednako na sve vrste naftnih derivata koji su definirani kao posebne zalihe sukladno stavku 4. ovoga članka.
+(9) Obavijest iz stavka 7. ovoga članka objavit će se u Službenom listu Europske unije.
+(10) Ukoliko se HANDA ne odluči na čuvanje posebnih zaliha u iznosu od najmanje 30 dana potrošnje iz prethodne kalendarske godine, HANDA će sastaviti godišnji izvještaj i dostaviti ministarstvu nadležnom za energetiku, a u kojem će se analizirati mjere koje se poduzimaju kako bi se osigurala i potvrdila raspoloživost i fizička dostupnost obveznih zaliha te izvijestiti o aktivnostima koje omogućavaju kontrolu nad korištenjem tih zaliha u slučaju poremećaja u opskrbi naftom.
+(11) Godišnji izvještaj iz stavka 10. ovoga članka ministarstvo nadležno za energetiku će dostaviti Europskoj komisiji do kraja prvog mjeseca kalendarske godine na koju se odnosi.
