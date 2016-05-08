@@ -1,0 +1,6 @@
+# Članak 7.
+(1) Mirovinsko društvo dužno je za mirovinski fond kojim upravlja dostaviti Agenciji izvještaje iz članka 3. stavak 2. i 4. i članka 4. stavka 1. ovoga Pravilnika u elektroničkom obliku potpisane naprednim elektroničkim potpisom u skladu s tehničkom uputom Agencije.
+(2) Smatra se da je mirovinsko društvo dostavilo izvještaje iz stavka 1. ovog članka u trenutku kada je izvještaj prihvaćen na poslužitelju Agencije za zaprimanje izvještaja.
+(3) U opravdanim slučajevima nemogućnosti dostave na način propisan stavkom 1. ovog članka, mirovinsko društvo dužno je izvještaje iz članka 3. stavka 2. i članka 4. stavka 1. dostaviti u pisanom obliku, neposredno ili poštom u svrhu pravodobnog izvješćivanja. Mirovinsko društvo dužno je dostaviti izvještaje na način propisan stavkom 1. ovog članka čim prestanu razlozi nemogućnosti dostave, a najkasnije u roku od 8 dana od isteka roka za dostavu izvještaja.
+(4) Mirovinsko društvo dužno je za mirovinski fond kojim upravlja izvještaje iz članka 3. stavak 4. ovoga Pravilnika dostaviti i u pisanom obliku zajedno s izvješćem ovlaštenog revizora o obavljenoj reviziji godišnjih izvještaja i godišnjim izvješćem.
+(5) Mirovinsko društvo dužno je postupiti po članku 148. stavku 3. Zakona u roku 15 dana od dana primitka zahtjeva.
