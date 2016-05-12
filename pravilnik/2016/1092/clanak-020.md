@@ -1,0 +1,10 @@
+# Članak 20.
+(1) Unutarnji revizori obavljaju revizije utvrđivanjem, testiranjem, analiziranjem, procjenjivanjem i dokumentiranjem podataka dovoljnih za davanje revizorskog mišljenja o adekvatnosti, učinkovitosti i djelotvornosti sustava unutarnjih kontrola.
+(2) Unutarnji revizori o obavljenoj pojedinačnoj reviziji sastavljaju nacrt revizijskog izvješća koji se dostavlja odgovornoj osobi revidirane jedinice, radi usuglašavanja činjenica prije sastavljanja konačnog revizijskog izvješća.
+(3) Ako nije postignuta suglasnost o činjenicama iz stavka 2. ovoga članka odgovorna osoba revidirane jedinice obvezna je očitovati se pisanim putem.
+(4) Odgovorna osoba revidirane jedinice obvezna je nakon usuglašavanja činjenica iz stavka 2. ovoga članka pripremiti plan djelovanja koji treba sadržavati aktivnosti za provedbu preporuka, odgovorne osobe i rokove provedbe.
+(5) Aktivnosti za provedbu preporuka, odgovorne osobe i rokove provedbe odobrava odgovorna osoba institucije potpisivanjem plana djelovanja.
+(6) Konačno revizijsko izvješće odobrava rukovoditelj unutarnje revizije i dostavlja ga odgovornoj osobi institucije, odgovornoj osobi revidirane jedinice te drugim odgovornim osobama čiji je angažman potreban u provedbi preporuka sadržanih u planu djelovanja iz stavka 5. ovoga članka.
+(7) Konačno revizijsko izvješće iz stavka 6. ovoga članka rukovoditelj unutarnje revizije dostavlja i revizorskom odboru, na zahtjev revizorskog odbora, odnosno sukladno pravilima rada revizorskog odbora gdje je primjenjivo.
+(8) Konačno revizijsko izvješće iz stavka 6. ovoga članka može se, uz odobrenje odgovorne osobe institucije, dostaviti i drugim ustrojstvenim jedinicama unutar institucije te drugim institucijama koje sukladno nadležnostima imaju pravo uvida u konačna revizijska izvješća, odnosno rezultate rada unutarnje revizije.
+(9) Unutarnji revizori obvezni su pratiti provedbu preporuka iz plana djelovanja i o istome, najmanje jednom godišnje, izvijestiti odgovornu osobu institucije, odnosno revizorski odbor gdje je primjenjivo.

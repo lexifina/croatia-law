@@ -1,0 +1,2 @@
+# Članak 14.
+Kriteriji za procjenu opravdanosti iz članka 5., 6., 7., 9., 10., 11., 12. i 13. ovoga Pravilnika uključuju visinu prihoda i rashoda, broj zaposlenih, organizacijsko i teritorijalno ustrojstvo, vrijednost financijskih transakcija, ulogu u sustavu upravljanja i kontrole korištenja sredstava Europske unije, strateški i razvojni značaj institucije i druge specifičnosti ovisno o području poslovanja.

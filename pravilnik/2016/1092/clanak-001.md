@@ -1,0 +1,5 @@
+## I. UVODNE ODREDBE
+# Članak 1.
+(1) Ovim Pravilnikom propisuju se kriteriji za uspostavu unutarnje revizije u javnom sektoru, uvjeti za načine uspostave unutarnje revizije, obveze i odgovornosti u vezi s obavljanjem poslova unutarnje revizije i rezultatima obavljenih revizija te suradnja unutarnjih revizora.
+(2) Odredbe ovoga Pravilnika odnose se na proračunske i izvanproračunske korisnike državnog proračuna i proračuna jedinica lokalne i područne (regionalne) samouprave utvrđene u Registru proračunskih i izvanproračunskih korisnika i na jedinice lokalne i područne (regionalne) samouprave (u daljnjem tekstu: korisnici proračuna).
+(3) Odredbe ovoga Pravilnika odnose se i na trgovačka društva u vlasništvu Republike Hrvatske, odnosno jedne ili više jedinica lokalne i područne (regionalne) samouprave i druge pravne osobe kojima je osnivač Republika Hrvatska, odnosno jedna ili više jedinica lokalne i područne (regionalne) samouprave utvrđene u Registru trgovačkih društava i drugih pravnih osoba obveznika davanja Izjave o fiskalnoj odgovornosti (u daljnjem tekstu: trgovačka društva i druge pravne osobe).
