@@ -1,0 +1,13 @@
+# Članak 6.
+Članak 15. mijenja se i glasi:
+»(1) Vlasnik špekulativnih zaliha iz članka 14. ove Uredbe kojem se odredi obveza uklanjanja špekulativnih zaliha šećera ili izoglukoze s tržišta Europske unije, u obvezi je iste ukloniti najkasnije do 31. srpnja 2016. godine u cijelosti o svom trošku, na sljedeći način:
+a) izvozom bijelog šećera izvan carinskog područja Europske unije, kojeg će provesti utvrđeni vlasnik zaliha na način da izveze raspoložive vlastite zalihe bijelog šećera i/ili kupnjom bijelog šećera na tržištu Europske unije osigura količinu potrebnu za obavezu uklanjanja špekulativnih zaliha
+b) uporabom u području goriva
+c) denaturacijom bez potpore za stočnu hranu u skladu s Glavama III. i IV. Uredbe Komisije (EEZ) br. 100/72 od 14. siječnja 1972. o utvrđivanju detaljnih pravila o denaturaciji šećera za hranu za životinje (SL L 12, 15. 1. 1972.).
+(2) Vlasnik špekulativnih zaliha iz stavka 1. ovoga članka obvezan je najkasnije do 31. listopada 2016. godine dostaviti nadležnom tijelu dokaze o uklanjanju pripadajućih količina špekulativnih zaliha šećera s tržišta Europske unije.
+(3) Dokazi iz stavka 2. ovoga članka jesu:
+a) u slučaju uklanjanja proizvoda na način predviđen stavkom 1. podstavkom a) ovoga članka izvozna dozvola izdana u skladu s Uredbom Komisije (EZ) br. 951/2006 od 30. lipnja 2006. o utvrđivanju detaljnih pravila za provedbu Uredbe Vijeća (EZ) br. 318/2006 u pogledu trgovine s trećim zemljama u sektoru šećera (SL L 178, 1. 7. 2006.) i Uredbom Komisije (EZ) br. 376/2008 od 23. travnja 2008. o utvrđivanju zajedničkih detaljnih pravila za primjenu sustava uvoznih i izvoznih dozvola i potvrda o utvrđivanju unaprijed za poljoprivredne proizvode (SL L 114, 26. 4. 2008.), s rokom važenja od dana izdavanja do 31. srpnja 2016. godine i odgovarajući dokumenti izdani u skladu s člancima 31. i 32. Uredbe Komisije (EZ) br. 376/2008, a potrebni za oslobađanje od obveza po osnovi izdane garancije. Zahtjev za izvoznu dozvolu u ovom slučaju mora sadržavati sljedeće:
+- u polju 20. naznaku »za izvoz u skladu s člankom 9. stavkom 2. podstavkom a) Uredbe Komisije (EU) br. 170/2013«
+- u polju 22. naznaku »za izvoz bez naknade ….. (količina, za koje se ta dozvola izdaje) kg«
+b) u slučaju uklanjanja proizvoda na način predviđen stavkom 1. podstavcima b) i c) nadležno tijelo će o aktivnostima uklanjanja svih količina proizvoda iz članka 10. ove Uredbe sačiniti zapisnike.
+(4) Vlasnik špekulativnih zaliha iz stavka 1. ovoga članka dužan je u slučaju uklanjanja proizvoda na način predviđen stavkom 1. podstavcima b) i c) ovoga članka podnijeti zahtjev nadležnom tijelu radi provedbe nadzora uklanjanja količina proizvoda iz članka 10. ove Uredbe najmanje 48 sati prije početka provedbe aktivnosti.«.

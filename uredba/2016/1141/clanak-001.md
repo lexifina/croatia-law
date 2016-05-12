@@ -1,0 +1,5 @@
+# Članak 1.
+U Uredbi o mjerama i naknadama za prekomjerne i špekulativne zalihe poljoprivrednih i prehrambenih proizvoda i proizvoda iz sektora šećera (»Narodne novine«, br. 77/13 i 17/15) u članku 2. podstavak 1. mijenja se i glasi:
+»- Provedbenom uredbom Komisije (EU) br. 170/2013 od 25. veljače 2013. o utvrđivanju prijelaznih mjera u sektoru šećera zbog pristupanja Hrvatske (SL L 55, 27. 2. 2013.), kako je posljednji put izmijenjena Provedbenom uredbom Komisije (EU) 2016/442 od 23. ožujka 2016. o izmjeni Provedbene uredbe (EU) br. 170/2013 o utvrđivanju prijelaznih mjera u sektoru šećera zbog pristupanja Hrvatske (SL L 78, 24. 3. 2016.) (u daljnjem tekstu: Uredba Komisije (EU) br. 170/2013)«.
+Na kraju podstavka 2. briše se točka i dodaje se podstavak 3. koji glasi:
+»- Provedbenom uredbom Komisije (EU) br. 1345/2014 оd 17. prosinca 2014. o određivanju viška količina šećera, izoglukoze i fruktoze u Hrvatskoj (SL L 363, 18. 12. 2014.) (u daljnjem tekstu: Uredba Komisije (EU) br. 1345/2014).«.
