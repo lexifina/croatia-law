@@ -1,0 +1,1 @@
+| 47 20.05.2016 Odluka o postavljanju Kreše Glavača za izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Socijalističkoj Republici Vijetnamu, sa sjedištem u Kuala Lumpuru 47 20.05.2016 Odluka o postavljanju Kreše Glavača za izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Socijalističkoj Republici Vijetnamu, sa sjedištem u Kuala Lumpuru
