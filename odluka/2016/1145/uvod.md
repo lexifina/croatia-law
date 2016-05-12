@@ -1,0 +1,1 @@
+Na temelju članka 17. stavka 1. Zakona o upravljanju i raspolaganju imovinom u vlasništvu Republike Hrvatske (»Narodne novine«, br. 94/13 i 18/16), Vlada Republike Hrvatske je na sjednici održanoj 11. svibnja 2016. godine donijela
