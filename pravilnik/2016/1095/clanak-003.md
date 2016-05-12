@@ -1,0 +1,3 @@
+# Članak 3.
+(1) Izradu, izdavanje i održavanje službenih pomorskih navigacijskih karata i službenih pomorskih navigacijskih publikacija radi osiguranja hidrografsko-navigacijske sigurnosti u pomorskom prometu obavlja Hrvatski hidrografski institut.
+(2) Izrada, izdavanje i održavanje službenih pomorskih navigacijskih karata i službenih pomorskih navigacijskih publikacija obavlja se u skladu s godišnjim programom rada Hrvatskog hidrografskog instituta, odnosno u skladu s posebnim programom rada kojega donosi Vlada Republike Hrvatske za razdoblje od pet godina, te u skladu s IHO/HR tehničkim rezolucijama i IHO/HR standardima.
