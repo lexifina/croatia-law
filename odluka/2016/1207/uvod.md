@@ -1,0 +1,1 @@
+Na temelju članka 105., stavka 1., podstavka 5. i 9., Poslovnika Hrvatskoga sabora (»Narodne novine«, br. 81/13. - u daljnjem tekstu: Poslovnik), prethodnog mišljenja Predsjedništva Hrvatskoga sabora klasa: 121-01/16-01/01, urbroj: 6531-16-02 od 7. travnja 2016. Odbor za izbor, imenovanja i upravne poslove Hrvatskoga sabora, je na 6. sjednici održanoj 13. svibnja 2016. donio
