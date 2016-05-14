@@ -1,0 +1,1 @@
+Na temelju članka 93. stavka 2. Zakona o međunarodnoj i privremenoj zaštiti (»Narodne novine« br. 70/15), ministar unutarnjih poslova, uz prethodnu suglasnost ministra vanjskih i europskih poslova, donosi
