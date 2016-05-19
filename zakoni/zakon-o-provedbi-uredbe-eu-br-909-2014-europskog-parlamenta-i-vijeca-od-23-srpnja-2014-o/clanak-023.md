@@ -1,0 +1,8 @@
+## Objava izrečenih prekršajnih sankcija
+# Članak 23.
+(1) Nadležna tijela iz članka 3. stavka 1. ovoga Zakona obvezna su, sukladno uvjetima iz članka 62. stavka 1. podstavaka 1. i 2. Uredbe (EU) br. 909/2014, na svojim mrežnim stranicama objaviti podatke o svakoj sankciji ili drugoj mjeri izrečenoj zbog počinjenja prekršaja iz članaka 17. do 22. ovoga Zakona, uključujući i:
+– nepravomoćne odluke prekršajnih sudova i drugih tijela nadležnih za vođenje prekršajnih postupaka, a koje su donesene u postupcima u kojima su nadležna tijela iz članka 3. stavka 1. ovoga Zakona ovlašteni tužitelji, uz naznaku da se radi o nepravomoćnim odlukama
+– prekršajne naloge na koje nije uložena žalba sukladno zakonu kojim je uređen prekršajni postupak.
+(2) Nadležna tijela iz članka 3. stavka 1. ovoga Zakona dužna su također objaviti informacije o podnesenim pravnim lijekovima protiv tih odluka, kao i informaciju o ishodu postupka pokrenutog po podnesenom pravnom lijeku.
+(3) Iznimno od stavka 1. ovoga članka, nadležna tijela iz članka 3. stavka 1. ovoga Zakona ovlaštena su odgoditi objavu informacija, objaviti informacije bez navođenja identiteta pravnih ili fizičkih osoba ili ne objaviti informacije, sve sukladno uvjetima propisanima u članku 62. stavku 1. podstavcima 3. i 4. Uredbe (EU) br. 909/2014.
+(4) Sukladno odredbama o rehabilitaciji u smislu zakona kojim je uređen prekršajni postupak, nadležna tijela iz članka 3. stavka 1. ovoga Zakona će protekom roka od tri godine od dana pravomoćnosti odluke o prekršaju sa svojih mrežnih stranica ukloniti osobne podatke u smislu zakona kojim je uređena zaštita osobnih podataka, a iz kojih bi bilo moguće utvrditi identitet počinitelja prekršaja.

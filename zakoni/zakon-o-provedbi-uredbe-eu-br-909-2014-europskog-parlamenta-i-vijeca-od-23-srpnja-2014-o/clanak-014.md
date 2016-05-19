@@ -1,0 +1,6 @@
+## IV. JEZIK I NAČIN OBAVJEŠTAVANJA
+## Jezik i način obavještavanja
+# Članak 14.
+(1) Na sve obavijesti koje su fizičke i pravne osobe dužne dostavljati nadležnim tijelima i javno objavljivati sukladno odredbama Uredbe (EU) br. 909/2014 i ovoga Zakona na odgovarajući se način primjenjuju odredbe o jeziku objavljivanja informacija iz zakona kojim je uređeno tržište kapitala u Republici Hrvatskoj, osim u slučaju ako delegirane uredbe Europske komisije ili drugi provedbeni propisi doneseni na temelju Uredbe (EU) br. 909/2014 u određenim slučajevima ne propisuju izričitu objavu na određenom jeziku.
+(2) Nadležna tijela iz članka 3. stavka 1. ovoga Zakona svojim će odlukama, sukladno podjeli nadležnosti iz članka 4. ovoga Zakona, propisati način obavještavanja iz Uredbe (EU) br. 909/2014.
+(3) Nadležna tijela iz članka 3. stavka 1. ovoga Zakona, u sklopu svojih nadležnosti, ovlaštena su donositi odluke ili pravilnike koji su potrebni da bi se osigurala provedba Uredbe (EU) br. 909/2014 i tehničkih standarda donesenih na temelju odredbi Uredbe (EU) br. 909/2014, kao i smjernica koje nadležna tijela Europske unije mogu donijeti temeljem odredbi Uredbe (EU) br. 909/2014 i tehničkih standarda donesenih na temelju odredbi Uredbe (EU) br. 909/2014.

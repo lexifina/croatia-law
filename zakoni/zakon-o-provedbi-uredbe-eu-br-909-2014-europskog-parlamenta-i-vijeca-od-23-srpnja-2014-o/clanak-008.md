@@ -1,0 +1,11 @@
+## Ovlasti Hrvatske agencije za nadzor financijskih usluga pri provođenju nadzora
+# Članak 8.
+(1) Ako je to potrebno u svrhu nadzora nad primjenom odredbi Uredbe (EU) br. 909/2014 i ovoga Zakona, Hrvatska agencija za nadzor financijskih usluga može od bilo koje fizičke ili pravne osobe zahtijevati:
+1. pristup svakom dokumentu u bilo kojem obliku i dostavu njegove preslike i
+2. pregled razmjene podataka uključujući i zapise telefonskih poziva, ako se radi o subjektima nadzora Hrvatske agencije za nadzor financijskih usluga iz članka 4. stavka 1. točke 2. ovoga Zakona.
+(2) Hrvatska agencija za nadzor financijskih usluga može od bilo koje fizičke ili pravne osobe, uključujući i osobe koje su uključene u prijenos naloga ili koje obavljaju druge poslove pri sklapanju transakcija koje su predmet nadzora Hrvatske agencije za nadzor financijskih usluga, zatražiti sve podatke i očitovanja koji su Hrvatskoj agenciji za nadzor financijskih usluga potrebni za nadzor. Ako to zahtijeva svrha nadzora, Hrvatska agencija za nadzor financijskih usluga ovlaštena je te osobe saslušati kao svjedoke u smislu zakona koji uređuje opći upravni postupak.
+(3) Kad je to potrebno radi nadzora nad pravnom ili fizičkom osobom na koju se primjenjuje Uredba (EU) br. 909/2014 i ovaj Zakon, Hrvatska agencija za nadzor financijskih usluga u skladu s podjelom nadležnosti iz članka 4. ovoga Zakona može zahtijevati odgovarajuće podatke, dokumentaciju i očitovanja od sljedećih osoba i izvršiti pregled njihova poslovanja:
+1. osoba koje su s pravnom ili fizičkom osobom nad kojom Hrvatska agencija za nadzor financijskih usluga provodi postupak nadzora u odnosu uske povezanosti, u smislu zakona kojim je uređeno tržište kapitala u Republici Hrvatskoj
+2. osoba na koje je pravna ili fizička osoba nad kojom Hrvatska agencija za nadzor financijskih usluga provodi postupak nadzora izdvojila poslovne procese i
+3. imatelja kvalificiranih udjela u pravnoj ili fizičkoj osobi nad kojom Hrvatska agencija za nadzor financijskih usluga provodi postupak nadzora.
+(4) Kada je za nadzor nad osobom iz stavka 3. ovoga članka ovlašteno drugo nadležno tijelo, Hrvatska agencija za nadzor financijskih usluga će, sukladno Uredbi (EU) br. 909/2014, pregled poslovanja te osobe obaviti u suradnji s drugim nadležnim tijelom.
