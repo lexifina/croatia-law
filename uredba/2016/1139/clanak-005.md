@@ -1,0 +1,4 @@
+# Članak 5.
+(1) Korisnici mjere pomoći poljoprivrednicima u sektoru stočarstva su pravne i fizičke osobe iz članka 52. Zakona o poljoprivredi koje su ostvarile pravo na proizvodno vezanu potporu za krave u proizvodnji mlijeka u 2015. godini sukladno članku 36. Pravilnika o provedbi izravne potpore poljoprivredi i IAKS mjera ruralnog razvoja (»Narodne novine«, br. 35/15, 53/15, 69/15, 101/15 i 132/15).
+(2) Korisnik će ostvariti potporu za utvrđeni broj prihvatljivih grla za koje je ostvario proizvodno vezanu potporu za krave u proizvodnji mlijeka iz članka 36. Pravilnika o provedbi izravne potpore poljoprivredi i IAKS mjera ruralnog razvoja.
+(3) Jedinični iznos potpore po grlu utvrdit će se temeljem omjera ukupne omotnice iz članka 4. ove Uredbe i utvrđenog broja prihvatljivih grla iz stavka 2. ovoga članka.
