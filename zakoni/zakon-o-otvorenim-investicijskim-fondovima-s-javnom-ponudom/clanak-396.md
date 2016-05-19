@@ -1,0 +1,5 @@
+## DIO ŠESNAESTI PREKRŠAJNE ODREDBE
+## Uvodne odredbe
+# Članak 396.
+(1) U slučaju da je društvo za upravljanje, odnosno trgovačko društvo depozitar, za koje je Agencija utvrdila da je prekršilo odredbe ovoga Zakona i/ili propisa donesenih na temelju ovoga Zakona, matično društvo u smislu zakona kojim se uređuje računovodstvo poduzetnika i primjena standarda financijskog izvještavanja ili ovisno društvo matičnog društva koje ima obvezu izrade konsolidiranih godišnjih financijskih izvještaja, prihod i ukupan godišnji prihod iz članka 4. stavka 1. točke 42. ovoga Zakona određuju se na temelju konsolidiranih godišnjih financijskih izvještaja koje je odobrilo upravljačko tijelo krajnjeg matičnog društva.
+(2) Ako službeni godišnji financijski izvještaji u smislu članka 4. stavka 1. točke 43. ovoga Zakona za godinu u kojoj je počinjen prekršaj nisu dostupni u trenutku izricanja novčane kazne, za osnovicu izračuna iznosa kazne uzet će se posljednja službena godišnja financijska izvješća koja su prethodila toj godini.

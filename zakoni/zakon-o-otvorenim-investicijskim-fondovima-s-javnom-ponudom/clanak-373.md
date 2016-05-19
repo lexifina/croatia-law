@@ -1,0 +1,3 @@
+## Mjere nad podružnicom u državi članici domaćinu društva za upravljanje
+# Članak 373.
+Ako društvo za upravljanje iz Republike Hrvatske koje putem podružnice obavlja djelatnosti u drugoj državi članici, unatoč upozorenju nadležnog tijela države članice domaćina, njemu ne dostavi izvještaje ili informacije koje odgovaraju onima iz članka 381. stavaka 1. i 2. ovoga Zakona ili ne postupi po upozorenju nadležnog tijela države članice domaćina, Agencija će naložiti nadzorne mjere u skladu s odredbama ovoga Zakona i o poduzetim mjerama obavijestiti nadležno tijelo države članice domaćina društva za upravljanje.

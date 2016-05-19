@@ -1,0 +1,10 @@
+## Odgovornost za izračun neto vrijednosti imovine UCITS fonda, odnosno cijene udjela
+# Članak 169.
+(1) Neto vrijednost imovine UCITS fonda te cijenu udjela u UCITS fondu izračunava društvo za upravljanje, prema usvojenim računovodstvenim politikama, odnosno metodologijama vrednovanja, koje su u skladu s važećim propisima i prospektom UCITS fonda.
+(2) Računovodstvene politike, odnosno metodologije vrednovanja društvo za upravljanje dužno je usvojiti za svaki UCITS fond kojim upravlja, prilikom njegova osnivanja, te ih bez odgode dostaviti depozitaru UCITS fonda.
+(3) Depozitar osigurava da društvo za upravljanje izračunava neto vrijednost imovine UCITS fonda te cijenu udjela UCITS fonda u skladu s usvojenim računovodstvenim politikama, odnosno metodologijama vrednovanja, važećim propisima i prospektom UCITS fonda.
+(4) Izračun vrijednosti iz stavka 1. ovoga članka kontrolira depozitar koji je odgovoran za kontrolu izračuna.
+(5) Depozitar je dužan voditi vlastitu evidenciju i na primjeren način pohraniti dokumente o kontroli izračuna vrijednosti iz stavka 1. ovoga članka.
+(6) Ako depozitar prilikom kontrole izračuna neto vrijednosti imovine UCITS fonda utvrdi netočnost i/ili nepravilnost, o tome će bez odgode pisanim putem obavijestiti društvo za upravljanje.
+(7) U slučaju da izračun neto vrijednosti imovine UCITS fonda traje dulje od dva radna dana, društvo za upravljanje dužno je o tome izvijestiti Agenciju i javnost, uz naznaku razloga zbog kojih nije moguće odrediti točnu neto vrijednost imovine UCITS fonda.
+(8) Revizor UCITS fonda je tijekom revizije godišnjih izvještaja dužan revidirati primjenu načela utvrđivanja vrijednosti sadržanih u propisima donesenim na temelju ovoga Zakona, kako bi se utvrdilo da su na temelju primjene naznačenih načela utvrđene vrijednosti neto imovine UCITS fonda i cijene udjela točne te da naknada za upravljanje i druge naknade i troškovi predviđeni ovim Zakonom, propisima donesenim na temelju ovoga Zakona i prospektom UCITS fonda ne prelaze dozvoljene iznose.

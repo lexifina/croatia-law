@@ -1,0 +1,5 @@
+# Članak 30.
+Prije izdavanja odobrenja za rad društvu za upravljanje Agencija će konzultirati nadležno tijelo druge uključene države članice ako je to društvo za upravljanje:
+a) ovisno društvo drugog društva za upravljanje, društva za upravljanje alternativnim investicijskim fondom, mirovinskog društva, investicijskog društva, kreditne institucije ili društva za osiguranje kojima je izdano odobrenje za rad u drugoj državi članici
+b) ovisno društvo matičnog društva drugog društva za upravljanje, društva za upravljanje alternativnim investicijskim fondom, mirovinskog društva, investicijskog društva, kreditne institucije ili društva za osiguranje kojima je izdano odobrenje za rad u drugoj državi članici, ili
+c) društvo koje je pod kontrolom istih fizičkih ili pravnih osoba koje kontroliraju drugo društvo za upravljanje, društvo za upravljanje alternativnim investicijskim fondom, mirovinsko društvo, investicijsko društvo, kreditnu instituciju ili društvo za osiguranje kojima je izdano odobrenje za rad u drugoj državi članici.

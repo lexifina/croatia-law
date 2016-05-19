@@ -1,0 +1,5 @@
+## Posebna pravila za trgovanje udjelima otvorenih investicijskih fondova s javnom ponudom iz treće države
+# Članak 147.
+(1) Kao uvjet za izdavanje odobrenja za trgovanje udjelima otvorenog investicijskog fonda s javnom ponudom iz treće države u Republici Hrvatskoj, Agencija od društva za upravljanje iz treće države može zatražiti da kod kreditne institucije, odnosno štedne banke sa sjedištem u Republici Hrvatskoj na računu uplati iznos od najmanje 1.000.000,00 kuna u svrhu osiguranja isplata imatelja udjela otvorenog investicijskog fonda s javnom ponudom kojim društvo iz treće države upravlja i čijim udjelima namjerava trgovati u Republici Hrvatskoj.
+(2) Nakon dobivanja odobrenja za trgovanje udjelima društvo za upravljanje iz treće države obvezno je održavati iznos na posebnom računu iz stavka 1. ovoga članka kroz cijelo vrijeme trgovanja udjelima u Republici Hrvatskoj te ga povećavati na odgovarajući način primjenom odredbi iz članka 20. stavka 1. ovoga Zakona.
+(3) Agencija će pravilnikom detaljnije propisati pravila i uvjete za trgovanje udjelima otvorenih investicijskih fondova s javnom ponudom iz treće države.

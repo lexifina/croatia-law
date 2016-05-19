@@ -1,0 +1,4 @@
+## Obavijest o promjenama dokumentacije
+# Članak 154.
+(1) Društvo za upravljanje koje trguje udjelima UCITS fonda u državi članici domaćinu UCITS fonda dužno je nadležnom tijelu države članice domaćina UCITS fonda omogućiti elektronski pristup prijevodima važeće dokumentacije UCITS fonda iz članka 151. stavka 3. ovoga Zakona i obavještavati nadležno tijelo države članice domaćina UCITS fonda o svim promjenama te dokumentacije.
+(2) Ako društvo za upravljanje namjerava promijeniti podatke u obavijesti iz članka 151. stavka 1. ovoga Zakona koji se odnose na postojeće uvjete za trgovanje, odnosno na postojeće klase udjela UCITS fonda koji su predmet trgovanja u državi članici domaćinu UCITS fonda, prije uvođenja tih promjena mora o tome obavijestiti nadležno tijelo države članice domaćina UCITS fonda.

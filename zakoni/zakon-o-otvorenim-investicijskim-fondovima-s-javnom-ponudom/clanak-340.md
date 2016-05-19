@@ -1,0 +1,3 @@
+# Članak 340.
+(1) U postupku provedbe likvidacije UCITS fonda likvidator je dužan postupati u najboljem interesu ulagatelja i voditi računa da se likvidacija provede u razumnom roku, pri čemu se prvo podmiruju obveze UCITS fonda dospjele do dana donošenja odluke o likvidaciji, uključujući zahtjeve za otkup udjela koji su podneseni do dana donošenja odluke o likvidaciji, nakon čega se podmiruju sve druge obveze UCITS fonda koje nisu dospjele do dana donošenja odluke o likvidaciji, a proizlaze iz transakcija povezanih uz upravljanje imovinom.
+(2) Preostala neto vrijednost imovine UCITS fonda, nakon podmirenja obveza UCITS fonda iz stavka 1. ovoga članka, se raspodjeljuje ulagateljima, razmjerno njihovom udjelu u UCITS fondu.

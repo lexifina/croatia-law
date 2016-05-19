@@ -1,0 +1,4 @@
+## Praćenje usklađenosti s relevantnim propisima
+# Članak 52.
+(1) Društvo za upravljanje dužno je, uzimajući u obzir vrstu, opseg i složenost poslovanja društva, kao i djelatnosti koje obavlja uspostaviti, provoditi te redovito ažurirati, procjenjivati i nadzirati primjerene politike, procedure i mjere, čiji je cilj otkrivanje svakog rizika neusklađenosti s relevantnim propisima, kao i povezanih rizika te uspostaviti primjerene mjere i postupke radi smanjivanja takvih rizika.
+(2) Društvo za upravljanje dužno je uspostaviti, provoditi te redovito ažurirati, procjenjivati i nadzirati politike i postupke kako bi osiguralo da ono posluje u skladu s ovim Zakonom i propisima donesenima na temelju ovoga Zakona te da članovi uprave i druge relevantne osobe postupaju u skladu s ovim Zakonom i propisima donesenima na temelju ovoga Zakona te vlastitim pravilima koja uređuju osobne transakcije iz članka 48. stavka 1. točke 3. ovoga Zakona.

@@ -1,0 +1,7 @@
+## Dostava informacija ulagateljima u Republici Hrvatskoj
+# Članak 141.
+(1) Društvo za upravljanje iz članka 137. stavka 1. ovoga Zakona koje u Republici Hrvatskoj trguje udjelima UCITS fonda iz druge države članice dužno je ulagateljima u Republici Hrvatskoj osigurati svu dokumentaciju i informacije koje osigurava i ulagateljima u matičnoj državi članici UCITS fonda.
+(2) Neovisno o odredbama stavka 1. ovoga članka, dokumentacija i informacije o UCITS fondu iz druge države članice moraju biti dostavljeni, odnosno na raspolaganju ulagatelju koji je udjele u tom UCITS fondu kupio u Republici Hrvatskoj i nakon prestanka trgovanja udjelima tog UCITS fonda u Republici Hrvatskoj, dok god postoje imatelji udjela u tom UCITS fondu koji su svoje udjele kupili u Republici Hrvatskoj.
+(3) Društvo za upravljanje iz članka 137. stavka 1. ovoga Zakona svu dokumentaciju i informacije iz stavka 1. ovoga članka, kao i promjene predmetne dokumentacije, mora osigurati ulagateljima na način predviđen ovim Zakonom za dostavljanje pojedine dokumentacije i informacija UCITS fonda.
+(4) Neovisno o odredbama stavka 3. ovoga članka, na učestalost objave cijene udjela UCITS fonda iz druge države članice primjenjuje se zakon matične države članice UCITS fonda.
+(5) Dokumentacija i informacije o UCITS fondu iz druge države članice iz stavka 1. ovoga članka moraju ulagateljima u Republici Hrvatskoj biti na raspolaganju ili dostavljene najkasnije na dan kada su ta dokumentacija i informacije bili na raspolaganju ili dostavljeni ulagateljima u matičnoj državi članici UCITS fonda.

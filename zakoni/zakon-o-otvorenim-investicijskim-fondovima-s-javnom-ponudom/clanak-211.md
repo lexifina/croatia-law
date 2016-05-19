@@ -1,0 +1,6 @@
+## Način dostave dokumenata i izvještaja
+# Članak 211.
+(1) Društvo za upravljanje dužno je ulagatelju, na njegov zahtjev, besplatno dostaviti prospekt i ključne podatke za ulagatelje u tiskanom obliku, na trajnom mediju različitom od papira ili putem mrežne stranice društva za upravljanje.
+(2) Kada se prospekt UCITS fonda i ključni podaci za ulagatelje ulagatelju dostavljaju na trajnom mediju različitom od papira ili putem objave na mrežnoj stranici društva za upravljanje, dostavljaju se pod uvjetima određenima člankom 38. Uredbe Komisije (EU) br. 583/2010 u pogledu ključnih informacija za ulagatelje i uvjeta koji moraju biti ispunjeni kada se ključne informacije ili prospekt daju ulagateljima na trajnom mediju različitom od papira ili putem mrežne stranice.
+(3) Posljednji revidirani godišnji izvještaji i polugodišnji izvještaji UCITS fonda ulagatelju se dostavljaju na način predviđen u prospektu UCITS fonda i ključnim podacima za ulagatelje, a ako prospekt to ne predviđa, onda na način predviđen za dostavu prospekta.
+(4) Neovisno o odredbi stavka 4. ovoga članka, društvo za upravljanje dužno je ulagatelju, na njegov zahtjev, besplatno dostaviti posljednje revidirane godišnje izvještaje i polugodišnje izvještaje UCITS fonda u tiskanom obliku.

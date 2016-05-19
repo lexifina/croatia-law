@@ -1,0 +1,9 @@
+# Članak 320.
+(1) Agencija će o zahtjevima iz članka 318. stavka 2. ovoga Zakona odlučiti u roku od 15 radnih dana od primitka urednog zahtjeva.
+(2) Po primitku odobrenja Agencije iz stavka 1. ovoga članka društvo za upravljanje napajajućim UCITS fondom dužno je bez odgode o navedenom obavijestiti društvo za upravljanje glavnim UCITS fondom.
+(3) Nakon što je Agencija izdala odobrenje u skladu s člankom 318. stavkom 2. točkom 1. ovoga Zakona društvo za upravljanje napajajućim UCITS fondom mora bez odgode poduzeti odgovarajuće mjere radi usklađivanja sa zahtjevima iz članka 298. i članka 301. ovoga Zakona.
+(4) Kad se raspodjela likvidacijskih sredstava glavnog UCITS fonda izvršava prije početka ulaganja napajajućeg UCITS fonda u drugi glavni UCITS fond, na temelju članka 318. stavka 2. točke 1. ovoga Zakona, odnosno prije početka ulaganja u skladu s novim investicijskim ciljevima i politikom na temelju članka 318. stavka 2. točke 2. ovoga Zakona, Agencija će odobrenje iz stavka 1. ovoga članka izdati pod sljedećim uvjetima:
+1. likvidacijska sredstva se raspodjeljuju napajajućem UCITS fondu:
+a) isplatom u novcu ili
+b) u obliku djelomičnog ili potpunog prijenosa imovine, kada tako društvo za upravljanje napajajućim UCITS fondom izabere te kad je to predviđeno sporazumom između društva za upravljanje napajajućim i glavnim UCITS fondom odnosno internim pravilima poslovanja i odlukom o likvidaciji. U ovom slučaju društvo za upravljanje napajajućim UCITS fondom može u svakom trenutku unovčiti bilo koji dio imovine koja mu je prenesena.
+2. novac koji napajajući UCITS fond primi u skladu s ovim stavkom može se ponovno uložiti i prije početka ulaganja napajajućeg UCITS fonda u drugi glavni UCITS fond odnosno prije početka ulaganja u skladu s novim investicijskim ciljevima i politikom, isključivo u svrhu učinkovitog upravljanja novcem.

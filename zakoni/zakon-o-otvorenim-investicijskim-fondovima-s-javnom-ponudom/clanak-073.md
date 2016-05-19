@@ -1,0 +1,3 @@
+# Članak 73.
+(1) Društvo za upravljanje dužno je postupati u najboljem interesu ulagatelja i UCITS fonda kojim upravlja te stručno i s posebnom pažnjom prilikom donošenja investicijskih odluka, delegiranja poslova na treće osobe, korištenja vanjskih usluga i drugih poslova koji su od važnosti za društvo za upravljanje i UCITS fondove kojima upravlja.
+(2) Društvo za upravljanje dužno je propisati i implementirati interne politike i procedure kako bi osiguralo postupanje u skladu sa stavkom 1. ovoga članka Zakona, a koje su u skladu s odredbama ovoga Zakona i propisima donesenima na temelju ovoga Zakona, pravilima i prospektom UCITS fonda, ciljevima UCITS fonda, investicijskom strategijom te strategijom i politikom upravljanja rizicima uključujući i ograničenja rizika.

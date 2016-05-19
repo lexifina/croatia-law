@@ -1,0 +1,5 @@
+# Članak 323.
+(1) U slučaju iz članka 322. stavka 2. točke 1. ovoga Zakona društvo za upravljanje napajajućim UCITS fondom, uz zahtjev za izdavanje odobrenja za nastavak ulaganja napajajućeg UCITS fonda u isti glavni UCITS fond koji je prošao statusnu promjenu, Agenciji dostavlja izmijenjen i dopunjen prospekt, ključne podatke za ulagatelje te, kada je to primjenjivo, izmijenjena i dopunjena pravila napajajućeg UCITS fonda.
+(2) U slučaju iz članka 322. stavka 2. točke 2. i točke 3. ovoga Zakona društvo za upravljanje napajajućim UCITS fondom, uz zahtjev za izdavanje odobrenja za promjenu glavnog UCITS fonda, Agenciji dostavlja dokumentaciju iz članka 295. stavka 2. ovoga Zakona.
+(3) Izdavanjem odobrenja iz članka 322. stavka 2. točaka 1. do 3. ovoga Zakona smatra se da su odobrene bitne promjene prospekta napajajućeg UCITS fonda te, kada je to primjenjivo, promjene obveznog sadržaja pravila napajajućeg UCITS fonda.
+(4) U slučaju kada se napajajući UCITS fond namjerava likvidirati, društvo za upravljanje napajajućim UCITS fondom je dužno Agenciji dostaviti obavijest o namjeravanoj likvidaciji.

@@ -1,0 +1,3 @@
+## Izvješće revizora o otklanjanju nezakonitosti i nepravilnosti
+# Članak 366.
+Ako pri obavljanju nadzora Agencija utvrdi nezakonitosti i nepravilnosti koje se odnose na vođenje poslovnih knjiga i druge poslovne dokumentacije koju je društvo za upravljanje dužno voditi prema odredbama ovoga Zakona, na temelju njega donesenih propisa ili drugih zakona kojima se uređuje poslovanje društva za upravljanje i propisa donesenih na temelju njih, odnosno ako utvrdi druge bitnije nezakonitosti, može naložiti društvu za upravljanje da podnese izvješće o otklanjanju nezakonitosti i nepravilnosti, kojemu je dužno priložiti mišljenje revizora iz kojeg je vidljivo jesu li su nezakonitosti i nepravilnosti otklonjene.

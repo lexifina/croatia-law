@@ -1,0 +1,3 @@
+# Članak 235.
+(1) Depozitar mora na zahtjev svojih nadležnih tijela dostaviti sve podatke i dati sve informacije koje je dobio, prikupio i saznao obavljajući poslove određene ovim Zakonom, a koje su nadležnim tijelima depozitara, nadležnom tijelu UCITS fonda ili nadležnom tijelu društva za upravljanje UCITS fondom potrebne za obavljanje njihovih djelatnosti.
+(2) Ako je nadležno tijelo UCITS fonda ili društva za upravljanje različito od nadležnih tijela depozitara, nadležna tijela depozitara dužna su bez odgode proslijediti sve podatke i informacije iz stavka 1. ovoga članka nadležnim tijelima UCITS fonda i društva za upravljanje UCITS fondom.

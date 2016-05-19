@@ -1,0 +1,5 @@
+# Članak 380.
+(1) Ako društvo za upravljanje iz druge države članice posluje putem podružnice na području Republike Hrvatske, nadležno tijelo matične države članice društva za upravljanje na području Republike Hrvatske može, samostalno ili putem osobe koju je ono ovlastilo, izravno provesti provjeru podataka iz članka 387. ovoga Zakona, po prethodnoj obavijesti Agenciji.
+(2) Neovisno o odredbama stavka 1. ovoga članka, Agencija je ovlaštena obaviti neposredni nadzor podružnice društva za upravljanje iz druge države članice u dijelu u kojem se ista dužna pridržavati odredbi ovoga Zakona, kao i radi zaštite interesa ulagatelja i drugih osoba koje koriste usluge društva za upravljanje ili radi zaštite javnog interesa.
+(3) Nadležno tijelo matične države članice društva za upravljanje ovlašteno je sudjelovati u neposrednom nadzoru iz stavaka 1. i 2. ovoga članka, neovisno o tome tko obavlja neposredni nadzor nad poslovanjem podružnice.
+Ovlasti Agencije u obavljanju nadzora nad društvom za upravljanje iz druge države članice koje izravno ili putem podružnice obavlja djelatnosti u Republici Hrvatskoj

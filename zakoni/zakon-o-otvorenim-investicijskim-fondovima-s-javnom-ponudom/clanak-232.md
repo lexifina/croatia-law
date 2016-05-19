@@ -1,0 +1,6 @@
+## Promjena depozitara
+# Članak 232.
+(1) Depozitar koji namjerava prestati obavljati poslove depozitara UCITS fonda dužan je najmanje dva mjeseca prije prestanka obavljanja tih poslova uputiti pisanu obavijest o svojoj namjeri Agenciji i društvu za upravljanje koje upravlja UCITS fondom za koji obavlja poslove depozitara.
+(2) U slučaju iz stavka 1. ovoga članka društvo za upravljanje je dužno zaključiti ugovor o obavljanju poslova depozitara s drugim depozitarom i Agenciji podnijeti zahtjev za odobrenje novog depozitara najkasnije 30 dana prije nego trenutačni depozitar prestane s obavljanjem poslova depozitara.
+(3) Ako društvo za upravljanje ne zaključi ugovor s novim depozitarom u skladu sa stavkom 2. ovoga članka, odnosno ako Agencija ne izda odobrenje za novog depozitara prije nego trenutačni depozitar prestane s obavljanjem poslova depozitara, trenutačni depozitar je dužan, ako je u mogućnosti, nastaviti s pružanjem usluga depozitara u daljnjem roku od 30 dana računajući od predviđenog datuma prestanka obavljanja poslova depozitara.
+(4) U slučaju da ni u dodatnom roku od 30 dana iz stavka 3. ovoga članka ne bude zaključen ugovor o obavljanju poslova depozitara s novim depozitarom i dobiveno odobrenje Agencije, UCITS fondovi za koje je depozitar obavljao poslove depozitara moraju biti likvidirani, u skladu s odredbama dijela trinaestoga ovoga Zakona.

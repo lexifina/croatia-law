@@ -1,0 +1,2 @@
+# Članak 319.
+U slučaju iz članka 318. stavka 2. točke 1. ovoga Zakona društvo za upravljanje napajajućim UCITS fondom, uz zahtjev za izdavanje odobrenja za promjenu glavnog UCITS fonda, Agenciji dostavlja dokumentaciju iz članka 295. stavka 2. ovoga Zakona. Izdavanjem odobrenja za promjenu glavnog UCITS fonda, smatra se da su odobrene bitne promjene prospekta napajajućeg UCITS fonda te, kada je to primjenjivo, promjene obveznog sadržaja pravila napajajućeg UCITS fonda.

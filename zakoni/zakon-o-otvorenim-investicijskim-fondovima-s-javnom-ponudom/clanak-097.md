@@ -1,0 +1,4 @@
+# Članak 97.
+(1) Društvo za upravljanje dužno je u roku od 60 dana od upućivanja obavijesti iz članka 96. ovoga Zakona sa drugim društvom za upravljanje sklopiti ugovor o dobrovoljnom prijenosu upravljanja UCITS fondovima, pri čemu je društvo preuzimatelj dužno u istom roku Agenciji podnijeti zahtjev za izdavanje odobrenja za preuzimanje upravljanja, sve u skladu s odredbama dijela drugoga poglavlja 9. odjeljka 1. ovoga Zakona.
+(2) Ako društvo za upravljanje ne pronađe novo društvo za upravljanje i na njega ne prenese upravljanje UCITS fondovima u skladu s odredbama stavka 1. ovoga članka, dužno je pokrenuti postupak likvidacije UCITS fondova u skladu s odredbama dijela trinaestoga ovoga Zakona.
+(3) Prijenosom upravljanja UCITS fondovima na drugo društvo za upravljanje, odnosno dovršetkom postupka likvidacije UCITS fondova, društvu za upravljanje prestaje važiti izdano odobrenje za rad, o čemu Agencija donosi rješenje iz članka 31. stavka 2. ovoga Zakona.

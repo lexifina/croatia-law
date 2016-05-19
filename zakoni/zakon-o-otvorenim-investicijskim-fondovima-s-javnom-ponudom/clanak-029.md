@@ -1,0 +1,4 @@
+# Članak 29.
+(1) Društvo za upravljanje ne smije imati kontrolu niti kvalificirani udjel u investicijskom društvu, kreditnoj instituciji koja pruža investicijske usluge i obavlja investicijske aktivnosti u skladu s odredbama zakona koji uređuje tržište kapitala odnosno koja obavlja odgovarajuće usluge u skladu s odredbama zakona koji uređuje osnivanje i poslovanje kreditnih institucija, društvu za osiguranje, društvu za reosiguranje, mirovinskom društvu za upravljanje obveznim ili dobrovoljnim mirovinskim fondovima, mirovinskom osiguravajućem društvu, faktoring-društvu ili leasing-društvu.
+(2) Društvo za upravljanje ne smije imati dionice ili udjele u depozitaru.
+(3) Društvo za upravljanje ne smije imati dionice ili udjele u osobi na koju je depozitar delegirao poslove iz članka 221. ovoga Zakona.

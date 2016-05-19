@@ -1,0 +1,11 @@
+## Društvo za upravljanje iz Republike Hrvatske koje namjerava upravljati UCITS fondom osnovanim u drugoj državi članici
+# Članak 126.
+(1) Kada društvo za upravljanje namjerava obavljati djelatnost upravljanja UCITS fondom osnovanim u drugoj državi članici, dužno je nadležnom tijelu matične države članice UCITS fonda dostaviti sljedeće:
+a) pisani ugovor koji je društvo za upravljanje sklopilo s depozitarom UCITS fonda i
+b) podatke o poslovima upravljanja imovinom UCITS fonda i administrativnim poslovima iz članka 13. ovoga Zakona koje je društvo za upravljanje delegiralo na treće osobe.
+(2) Nadležno tijelo matične države članice UCITS fonda može od Agencije zatražiti pojašnjenje i informacije u odnosu na dokumentaciju odnosno podatke iz stavka 1. ovoga članka te u odnosu na potvrdu koju mu je Agencija dostavila u skladu s odredbama članka 124. stavka 2. i članka 125. stavka 4. ovoga Zakona u vezi s pitanjem je li društvo za upravljanje, prema važećem odobrenju za rad, ovlašteno upravljati onom vrstom UCITS fonda kojom namjerava upravljati na području matične države članice UCITS fonda.
+(3) Agencija će mišljenje odnosno pojašnjenje u skladu sa stavkom 2. ovoga članka dati u roku od deset dana od dana zaprimanja upita od nadležnog tijela matične države članice UCITS fonda.
+(4) Društvo za upravljanje dužno je o svakoj bitnoj promjeni dokumentacije odnosno podataka iz stavka 1. ovoga članka obavijestiti nadležno tijelo matične države članice UCITS fonda.
+(5) Društvo za upravljanje koje obavlja djelatnost upravljanja UCITS fondom u državi članici domaćinu izravno ili putem podružnice, dužno je postupati u skladu s odredbama ovoga Zakona i propisa donesenih na temelju ovoga Zakona u dijelu koji uređuje organizaciju društva za upravljanje, uključujući uvjete za delegiranje poslova, postupke za upravljanje rizicima, pravila nadzora i praćenje poslovanja, zahtjeve za izvještavanjem i zahtjeve iz dijela drugoga poglavlja 5. ovoga Zakona.
+(6) Agencija je nadležna za nadzor usklađenosti društva za upravljanje s propisima iz stavka 5. ovoga članka.
+(7) Na društvo za upravljanje iz Republike Hrvatske koje upravlja UCITS fondom osnovanim u drugoj državi članici na odgovarajući način se primjenjuju odredbe članka 127. stavaka 2. i 3. ovoga Zakona.

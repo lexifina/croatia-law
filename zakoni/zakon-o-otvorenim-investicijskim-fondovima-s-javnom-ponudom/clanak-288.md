@@ -1,0 +1,7 @@
+## Važne informacije o statusnoj promjeni
+# Članak 288.
+(1) Agencija će, kada joj nadležno tijelo matične države članice UCITS fonda prenositelja dostavi kopiju potpunih informacija o statusnoj promjeni UCITS fonda prenositelja iz druge države članice s fondom preuzimateljem, procijeniti jesu li informacije o statusnoj promjeni koje će se dostaviti ulagateljima fonda preuzimatelja dostatne i u skladu s predviđenim učincima koje će statusna promjena imati na imatelje udjela fonda preuzimatelja.
+(2) Ako Agencija utvrdi da informacije o statusnoj promjeni koje će se dostaviti ulagateljima fonda preuzimatelja nisu dostatne i u skladu s predviđenim učincima, zatražit će da se te informacije izmijene ili dopune.
+(3) Zahtjev za izmjenu ili dopunu Agencija će dostaviti izravno društvu za upravljanje fondom preuzimateljem, u roku od 15 radnih dana od dana zaprimanja kopije potpunih informacija o statusnoj promjeni iz stavka 1. ovoga članka.
+(4) O dostavljanju zahtjeva za izmjenu ili dopunu društvu za upravljanje fondom preuzimateljem Agencija će obavijestiti nadležno tijelo matične države članice fonda prenositelja.
+(5) Nakon zaprimanja izmjena ili dopuna informacija koje će se dostaviti ulagateljima fonda preuzimatelja Agencija će u roku od 20 radnih dana obavijestiti nadležno tijelo matične države članice fonda prenositelja o tome jesu li izmijenjene ili dopunjene informacije prikladne.

@@ -1,0 +1,4 @@
+## Otklanjanje utvrđenih nezakonitosti i nepravilnosti
+# Članak 365.
+(1) Kad Agencija tijekom nadzora utvrdi nezakonitosti ili nepravilnosti koje predstavljaju povredu odredbi ovoga Zakona ili na temelju njega donesenih propisa, drugih zakona kojima se uređuje poslovanje subjekata nadzora i propisa na temelju njih, uredbi Europske unije kojima se uređuje poslovanje subjekata nadzora, smjernica europskih nadzornih tijela iz članka 3. ovoga Zakona ili povredu vlastitih poslovnih politika i usvojenih pravila te standarda i pravila struke ili njihovu nedosljednu primjenu, rješenjem će društvu za upravljanje naložiti mjere za otklanjanje utvrđenih nezakonitosti i nepravilnosti ili prestanak postupanja i zabranu svakog daljnjeg postupanja koje predstavlja povredu navedenih propisa.
+(2) Agencija će u rješenju iz stavka 1. ovoga članka navesti i rokove u kojima je društvo za upravljanje dužno otkloniti utvrđene nezakonitosti i nepravilnosti.
