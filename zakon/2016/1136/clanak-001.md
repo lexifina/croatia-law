@@ -1,0 +1,9 @@
+# Članak 1.
+U Zakonu o konačnosti namire u platnim sustavima i sustavima za namiru financijskih instrumenata (»Narodne novine«, br. 59/12.) članak 2. mijenja se i glasi:
+»(1) Ovaj Zakon sadrži odredbe koje su u skladu sa sljedećim aktima Europske unije:
+- Direktivom 98/26/EZ Europskog parlamenta i Vijeća od 19. svibnja 1998. o konačnosti namire u platnim sustavima i sustavima za namiru vrijednosnih papira (SL L 166, 11. 6. 1998.),
+- Direktivom 2009/44/EZ Europskog parlamenta i Vijeća od 6. svibnja 2009. o izmjeni Direktive 98/26/EZ o konačnosti namire u platnim sustavima i sustavima za namiru vrijednosnih papira i Direktive 2002/47/EZ o ugovorima o financijskom kolateralu s obzirom na povezane sustave i kreditna potraživanja (SL L 146, 10. 6. 2009.) i
+- Direktivom 2010/78/EU Europskog parlamenta i Vijeća od 24. studenoga 2010. o izmjeni direktiva 98/26/EZ, 2002/87/EZ, 2003/6/EZ, 2003/41/EZ, 2003/71/EZ, 2004/39/EZ, 2004/109/EZ, 2005/60/EZ, 2006/48/EZ, 2006/49/EZ i 2009/65/EZ u pogledu ovlasti Europskog nadzornog tijela (Europskog nadzornog tijela za bankarstvo), Europskog nadzornog tijela (Europskog nadzornog tijela za osiguranje i strukovno mirovinsko osiguranje) i Europskog nadzornog tijela (Europskog nadzornog tijela za vrijednosne papire i tržišta kapitala) (Tekst značajan za EGP) (SL L 331, 15. 12. 2010.).
+(2) Ovim se Zakonom osiguravaju pretpostavke za provedbu sljedećih akata Europske unije:
+- Uredbe (EU) br. 648/2012 Europskog parlamenta i Vijeća od 4. srpnja 2012. o OTC izvedenicama, središnjoj drugoj ugovornoj strani i trgovinskom repozitoriju (Tekst značajan za EGP) (SL L 201, 27. 7. 2012.) i
+- Uredbe (EU) br. 909/2014 Europskog parlamenta i Vijeća od 23. srpnja 2014. o poboljšanju namire vrijednosnih papira u Europskoj uniji i o središnjim depozitorijima vrijednosnih papira te izmjeni direktiva 98/26/EZ i 2014/65/EU te Uredbe (EU) br. 236/2012 (SL L 257, 28. 8. 2014.).«.
