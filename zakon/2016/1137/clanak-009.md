@@ -1,0 +1,3 @@
+# Članak 9.
+(1) Danom stupanja na snagu ovoga Zakona prestaju važiti odredbe članka 195. do 199., članka 201., članka 203., članka 204. stavka 1. i članka 205., osim odredbi članka 200., članka 202. i članka 204. stavka 7. koje prestaju važiti 31. prosinca 2016. godine i odredbe članka 204. stavka 2. do 6. Općeg poreznog Zakona (»Narodne novine«, br. 147/08., 18/11., 78/12., 136/12., 73/13. i 26/15.) koje prestaju važiti 31. prosinca 2017.
+(2) Ministarstvo financija, Porezna uprava dostavit će automatskom razmjenom nadležnim tijelima drugih država članica informacije iz članka 177.a stavka 1., koji je dodan člankom 5. ovoga Zakona koje se odnose na porezno razdoblje, počevši od 1. siječnja 2016.
