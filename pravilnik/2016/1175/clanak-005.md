@@ -1,0 +1,3 @@
+# Članak 5.
+(1) Održavanje ispita organizira Zavod.
+(2) Na pitanja koja se odnose na utvrđivanje da li kandidat ispunjava uvjete za polaganje ispita, na vrijeme polaganja ispita te na obavijest o mjestu i danu polaganja ispita, na odgađanje polaganja ispita i na odustanak od polaganja ispita, na popravni ispit, na način ocjenjivanja, te na vođenje zapisnika za vrijeme ispita, a koja nisu uređena ovim Pravilnikom odgovarajuće se primjenjuju odredbe članka 8. do članka 12. Pravilnika o uvjetima i načinu polaganja ispita za ovlaštenog mjeritelja te obliku i sadržaju službene iskaznice ovlaštenog mjeritelja (»Narodne novine«, broj 2/16).
