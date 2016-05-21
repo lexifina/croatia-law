@@ -1,0 +1,18 @@
+## VIII. ZAHTJEV ZA ISPLATU, POSTUPAK OBRADE I DONOŠENJE ODLUKE
+## Zahtjev za isplatu
+# Članak 37.
+(1) Potpora se korisniku isplaćuje temeljem zahtjeva za isplatu/zahtjeva za isplatu predujma.
+(2) Korisnik može podnijeti zahtjev za isplatu jednokratno ili u ratama do najviše tri rate. Maksimalni iznos prve rate iznosi do 50% odobrenih sredstava javne potpore.
+(3) Korisnik može putem zahtjeva za isplatu predujma tražiti predujam za ulaganje i to do 50% odobrenih sredstava javne potpore. Ako nema mogućnosti plaćanja predujma, isplata se može vršiti sukladno plaćanju u ratama. Plaćanje predujma ne isključuje plaćanje u ratama, a maksimalan broj isplata u ratama kod plaćanja predujma iznosi maksimalno dvije rate.
+(4) Zahtjev za isplatu/zahtjev za isplatu predujma korisnik može podnijeti nakon što odluka o dodijeli sredstava postane pravomoćna.
+(5) Uvjet za isplatu predujma jest dostava bankarske garancije plative »na prvi poziv« i »bez prigovora« u stopostotnoj vrijednosti iznosa predujma. Bankarska garancija mora vrijediti od trenutka podnošenja zahtjeva za isplatu predujma do isteka šest mjeseci nakon krajnjeg roka za podnošenje zahtjeva za isplatu.
+(6) Isplaćeni predujam iz stavka 3. ovoga članka opravdava se plaćenim računima za ulaganja odobrena odlukom o dodjeli sredstava pri podnošenju zahtjeva za isplatu sljedeće rate, te ga je korisnik obvezan iskoristiti sukladno odluci o dodjeli sredstava.
+(7) Garancija iz stavka 5. ovoga članka vraća se korisniku temeljem odluke o jamstvu u slučaju ispunjavanja uvjeta iz stavka 6. ovoga članka.
+(8) Garancija iz stavka 5. ovoga članka aktivira se temeljem odluke o jamstvu radi povrata sredstava isplaćenog predujma u slučaju neispunjavanja uvjeta iz stavka 6. ovoga članka.
+(9) Korisnik je dužan dostaviti izvještaj o napretku svakih šest mjeseci, počevši od dana izdavanja odluke o dodjeli sredstava, poštom, na adresu Agencije za plaćanja.
+(10) Korisnik je nakon završenog projekta dužan popuniti zahtjev za isplatu u elektroničkom obliku putem AGRONET-a koji se nalazi na mrežnim stranicama Agencije za plaćanja (www.apprrr.hr). Način popunjavanja zahtjeva za isplatu opisan je u vodiču za korisnike.
+(11) Prilikom popunjavanja zahtjeva za isplatu/zahtjeva za isplatu predujma korisnici su obvezni učitati u AGRONET svu dokumentaciju propisanu natječajem. Natječajem se propisuje dokumentacija koju je potrebno dostaviti i u originalu.
+(12) Nakon podnošenja elektroničkog zahtjeva za isplatu/zahtjeva za isplatu predujma u AGRONET-u, korisnik je dužan u roku propisanom ovim pravilnikom neposredno u Centralni ured Agencije ili preporučenom pošiljkom s povratnicom dostaviti potpisom i/ili pečatom ovjerenu potvrdu o podnošenju zahtjeva za isplatu/zahtjeva za isplatu predujma, zajedno s propisanom dokumentacijom u originalu na adresu Agencije za plaćanja.
+(13) Uz zahtjev za isplatu korisnik osim dokumentacije navedene u stavku 11. ovog-a članka obvezan je dostaviti u elektroničkom obliku na prijenosnom mediju (CD-u/DVD-u) dokumentaciju propisanu natječajem a vezano za provedbu ugovora o financiranju.
+(14) Zahtjev za isplatu podrazumijeva potvrdu o podnošenju zahtjeva za isplatu/zahtjeva za isplatu predujma te svu dokumentaciju propisanu natječajem, pri čemu se vrijeme podnošenja zahtjeva za isplatu/zahtjeva za isplatu predujma smatra vrijeme slanja dokumentacije u slučaju slanja preporučenom pošiljkom s povratnicom odnosno vrijeme zaprimanja u Agenciju za plaćanja ako se dostavlja neposredno.
+(15) Konačni zahtjev za isplatu korisnik je dužan dostaviti najkasnije u roku od 36 mjeseci od dana izdavanja odluke o dodjeli sredstava.
