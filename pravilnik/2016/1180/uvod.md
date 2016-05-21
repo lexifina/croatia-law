@@ -1,0 +1,1 @@
+Na temelju članka 85. stavka 2. Zakona o mirovinskim osiguravajućim društvima (»Narodne novine« broj 22/14), Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća, održanoj 5. svibnja 2016. donosi
