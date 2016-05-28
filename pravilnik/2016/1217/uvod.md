@@ -1,0 +1,1 @@
+Na temelju članka 11. a stavka 4. Zakona o zaštiti potrošača (»Narodne novine«, br. 41/14. i 110/15.) ministar gospodarstva, uz prethodno mišljenje Hrvatske regulatorne agencije za mrežne djelatnosti (HAKOM), donosi
