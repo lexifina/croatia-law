@@ -1,0 +1,2 @@
+# Članak 4.
+O tražbinama Republike Hrvatske s osnove duga po kreditima i protestiranim državnim jamstvima u predstečajnim i stečajnim postupcima odlučuje ministar financija na prijedlog Savjetodavnog vijeća Ministarstva financija, na način i u postupku utvrđenom Uredbom o uvjetima, načinu i postupku raspolaganja tražbinama s naslova poreznog duga u predstečajnom i stečajnom postupku, kojim se uređuju uvjeti, način i postupak raspolaganja tražbinama s naslova poreznog duga u predstečajnom i stečajnom postupku.
