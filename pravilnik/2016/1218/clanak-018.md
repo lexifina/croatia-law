@@ -1,0 +1,13 @@
+## Rangiranje Zahtjeva za potporu
+# Članak 18.
+(1) Nakon zaprimanja i administrativne kontrole Zahtjeva za potporu svakom pojedinom Zahtjevu za potporu se dodjeljuju bodovi temeljem kriterija odabira Zahtjeva za potporu iz Priloga I. ovoga Pravilnika i iznos javne potpore sukladno prilogu II. ovoga Pravilnika.
+(2) Nakon administrativne kontrole pristiglih Zahtjeva za potporu, za sve potpune pravovremene i prihvatljive Zahtjeve za potporu formira se rang-lista sukladno kriterijima odabira Zahtjeva za potporu koji su navedeni u Prilogu I. ovoga Pravilnika.
+(3) U slučaju da dva ili više Zahtjeva za potporu imaju isti broj bodova, prednost na rang-listi iz stavka 2. ovoga članka imaju Zahtjevi za potporu koji su ostvarili veći broj bodova za LRS.
+(4) U slučaju da dva ili više Zahtjeva za potporu nakon rangiranja sukladno stavku 3. ovoga članka imaju isti broj bodova i isti broj bodova za kvalitetu LRS-a, izvršit će se rangiranje Zahtjeva za potporu na temelju ranijeg vremena podnošenja Zahtjeva za potporu na način da prioritet ide sljedećim redoslijedom:
+a) Zahtjevi za potporu zaprimljeni potpuni (za koje nije bilo potrebe za izdavanjem Zahtjeva za dopunu) do roka za podnošenje Zahtjeva za potporu propisanoga Natječajem
+b) Zahtjevi za potporu zaprimljeni nepotpuni (za koje je izdan Zahtjev za dopunu).
+(5) Vremenom podnošenja potpunog Zahtjeva za potporu sukladno stavku 4. točki a) ovoga članka smatra se trenutak slanja (datum, sat, minuta, sekunda) potpunog Zahtjeva za potporu u slučaju slanja preporučenom poštom s povratnicom ili trenutak zaprimanja (datum, sat, minuta, sekunda) u Agenciju za plaćanja ukoliko se dostavlja neposredno.
+(6) Vremenskim rokom potrebnim za podnošenje potpunog Zahtjeva za potporu sukladno stavku 4. točki b) ovoga članka smatra se vrijeme proteklo od dana zaprimanja Zahtjeva za dopunu od strane korisnika do trenutka podnošenja dopune/obrazloženja/ispravka (datum, sat, minuta, sekunda).
+(7) Ukoliko Zahtjevi za potporu iz stavka 4. točki b) ovoga članka imaju jednaki broj bodova, jednaki broj bodova za kvalitetu LRS-a i jednako vrijeme podnošenja dopune, prednost imaju Zahtjevi za potporu s ranijim vremenom podnošenja Zahtjeva za potporu na Natječaj (datum, sat, minuta, sekunda).
+(8) Ukoliko dva ili više Zahtjeva za potporu imaju jednaki broj ukupnih bodova i bodova za kvalitetu LRS-a, jednako vrijeme podnošenja dopune/obrazloženja/ispravka odnosno Zahtjeva za potporu provest će se postupak izvlačenja slučajnim odabirom.
+(9) Rangiranje Zahtjeva za potporu se provodi neovisno o tome postoji li dovoljno raspoloživih sredstava ili ne za sve LAG-ove koji udovoljavaju uvjete i kriterije propisane Pravilnikom i Natječajem.

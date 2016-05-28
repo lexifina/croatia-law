@@ -1,0 +1,33 @@
+## Pojmovnik
+# Članak 3.
+(1) Pojedini pojmovi u smislu ovoga Pravilnika imaju sljedeće značenje:
+1) CLLD (eng. Community Led Local Development - lokalni razvoj pod vodstvom zajednice) je mehanizam za uključivanje partnera na lokalnoj razini, uključujući i predstavnike civilnog društva i lokalne gospodarske dionike, u izradu i provedbu integrirane lokalne razvojne strategije koja pomaže njihovom području u prijelazu k održivoj budućnosti.
+2) LEADER (franc. Liaison Entre Actions de Développement de l’Economie Rurale - Veze među aktivnostima za razvoj ruralnog gospodarstva) je mehanizam provedbe mjera politike ruralnog razvoja Europske unije, a temelji se na realizaciji lokalnih razvojnih strategija kojima upravljaju lokalne akcijske grupe.
+3) Lokalna akcijska grupa (u daljnjem tekstu: LAG) je partnerstvo predstavnika javnog, gospodarskog i civilnog sektora određenog ruralnog područja koje je osnovano s namjerom izrade i provedbe lokalne razvojne strategije tog područja.
+4) Lokalna razvojna strategija (u daljnjem tekstu: LRS) je CLLD strategija tj. strateški plansko-razvojni dokument koji donosi i provodi LAG za područje koje obuhvaća.
+5) Tip operacije je skup aktivnosti koje doprinose ostvarivanju ciljeva jednog ili više prioriteta Europske unije za ruralni razvoj na koje se odnose.
+6) Projekt je cjelokupna i sveobuhvatna investicijska aktivnost, koja se sastoji od prihvatljivih i neprihvatljivih troškova te pripada određenom tipu operacije za kojeg je nositelj projekta podnio zahtjev LAG-u za odabir projekta/operacije.
+7) Prihvatljivi troškovi su troškovi koji mogu biti sufinancirani iz Programa.
+8) Odabrani LAG je LAG koji s Agencijom za plaćanja sklopi Ugovor o dodjeli sredstava odabranom LAG-u (u daljnjem tekstu: Ugovor).
+9) Odabrana LRS je LRS odabranog LAG-a.
+10) Nositelj projekta je svaki subjekt koji je podnio prijavu odabranom LAG-u za odabir projekta/operacije, a koji je izravno odgovoran za početak, upravljanje, provedbu i rezultate projekta/operacije i koji ima prebivalište ili je registriran ili ima podružnicu unutar područja koje obuhvaća odabrani LAG.
+11) Odabrani projekt na LAG razini je projekt kojeg je odabrao LAG u okviru Podmjere 19.2.
+12) Javna potpora je svaki oblik potpore iz javnih izvora Republike Hrvatske i proračuna Europske unije.
+13) Intenzitet javne potpore izražen je kao postotni udio javne potpore u prihvatljivim troškovima aktivnosti.
+14) Međuteritorijalni projekti suradnje su projekti suradnje između partnera koji djeluju unutar Republike Hrvatske.
+15) Transnacionalni projekti suradnje su projekti suradnje sa partnerima koji djeluju izvan granica Republike Hrvatske odnosno na području EU i izvan područja EU.
+16) AGRONET je zaštićena mrežna aplikacija namijenjena korisnicima za upis u Evidenciju korisnika potpora u ruralnom razvoju i ribarstvu (u daljnjem tekstu: Evidencija korisnika), pregled uputa za korištenje AGRONET-a, pregled pravne osnove, elektronsko popunjavanje određenih Zahtjeva i preuzimanje dokumenata.
+17) Vodič za korisnike je namijenjen korisnicima za podnošenje Zahtjeva za Podmjere 19.2, 19.3 i 19.4 iz Programa i nalazi se na službenim mrežnim stranicama Agencije za plaćanja (www.apprrr.hr).
+18) Tečaj Europske komisije je mjesečni tečaj Europske komisije iskazan na šest decimala u mjesecu u kojem je podnesen određeni Zahtjev temeljem kojeg se iznosi u stranoj valuti preračunavaju u protuvrijednost u kunama. Mrežna stranica na kojoj se može dobiti uvid u navedeni tečaj je: http://ec.europa.eu/budget/inforeuro/.
+19) Nacionalni natječaj je natječaj koji provodi Agencija za plaćanja za mjeru, podmjeru, tip operacije i nije namijenjen za odabrane projekte na LAG razini.
+20) LAG natječaj je natječaj koji provodi LAG za mjeru, podmjeru, tip operacije koji je naveden u odabranoj LRS i namijenjen je nositeljima projekta na području LAG-a.
+21) Poduzetnik je svaka fizička ili pravna osoba, udružene osobe ili imovinska masa bez pravne osobnosti, koja gospodarstvenu djelatnost obavlja samostalno, trajno i radi ostvarivanja prihoda, dohotka, dobiti ili drugih gospodarstveno procjenjivih koristi.
+22) Gospodarskom djelatnošću smatra se razmjena dobara i usluga na tržištu radi ostvarivanja prihoda, dohotka, dobiti ili drugih gospodarski procjenjivih koristi.
+23) Upravno (izvršno) tijelo LAG-a je tijelo LAG-a izabrano od strane skupštine LAG-a na način propisan statutom LAG-a, a čiji članovi mogu biti pravne i fizičke osobe.
+24) Plan provedbe LRS je plan provedbe LRS kojeg LAG dostavlja u Agenciju za plaćanja nakon potpisivanja Ugovora, a prije objave prvog LAG natječaja.
+25) Ruralno područje je cijelo područje Republike Hrvatske, osim naselja Zagreb, Split, Rijeka i Osijek.
+26) Državna potpora je stvarni i potencijalni rashod ili umanjeni prihod države dodijeljen od davatelja državne potpore u bilo kojem obliku koji narušava ili prijeti narušavanjem tržišnog natjecanja stavljajući u povoljniji položaj određenog poduzetnika ili proizvodnju određene robe i/ili usluge utoliko što utječe na trgovinu između država članica Europske unije, u skladu s člankom 107. Ugovora o funkcioniranju Europske unije (u daljnjem tekstu: UFEU).
+27) Potpora male vrijednosti (de minimis potpora) je potpora uređena važećom uredbom Europske unije koja zbog svoga iznosa ne narušava ili ne prijeti narušavanjem tržišnog natjecanja i ne utječe na trgovinu između država članica Europske unije te ne predstavlja državnu potporu iz članka 107. stavka 1. UFEU-a.
+28) Nepravilnost je povreda odredaba prava Zajednice koja proizlazi iz učinjene ili propuštene radnje od strane gospodarskog subjekta, a što je dovelo ili je moglo dovesti u pitanje opći proračun Zajednica ili proračune kojima Zajednice upravljaju, bilo smanjenjem ili gubitkom prihoda iz vlastitih sredstava prikupljenih izravno u ime Zajednica, ili neopravdanim izdacima sukladno Uredbi Vijeća (EZ) br. 2888/95.
+29) Sumnja na prijevaru je nepravilnost koja je razlog za pokretanje upravnih ili sudskih postupaka na nacionalnoj razini kako bi se utvrdilo postojanje postupanja s namjerom, osobito prijevare, iz članka 1. stavka 1. točke (a) Konvencije o zaštiti financijskih interesa Europskih zajednica koja je sastavljena na temelju članka K.3 Ugovora o Europskoj uniji i sukladno Uredbi (EU) br. 2015/1971.
+(2) Ostali pojmovi u smislu ovoga Pravilnika imaju jednako značenje kao pojmovi u Uredbi (EU) br. 1305/2013.

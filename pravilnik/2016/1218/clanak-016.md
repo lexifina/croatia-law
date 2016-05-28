@@ -1,0 +1,20 @@
+## Podnošenje zahtjeva za potporu
+# Članak 16.
+(1) Zahtjev za potporu se podnosi temeljem Natječaja za provedbu Podmjere 19.2. »Provedba operacija unutar CLLD strategije«, tipa operacije 19.2.1. (u daljnjem tekstu: Natječaj) kojeg raspisuje Agencija za plaćanja.
+(2) Natječaj iz stavka 1. ovoga članka objavljuje se u »Narodnim novinama« i na službenim mrežnim stranicama Agencije za plaćanja (www.apprrr.hr) i Ministarstva (www.mps.hr).
+(3) Natječajem se dodjeljuju sredstva za provedbu Podmjera 19.2., 19.3. i 19.4. za cjelokupno trajanje Programa.
+(4) Natječajem iz stavka 1. ovoga članka određuju se rokovi i uvjeti za podnošenje Zahtjeva za potporu iz Programa, Podmjera 19.2., tip operacije 19.2.1. Prilikom podnošenja Zahtjeva za potporu LAG učitava u AGRONET dokumentaciju propisanu Natječajem. Dokumentacija koju je obvezno dostaviti i u izvorniku propisuje se Natječajem.
+(5) Zahtjev za potporu LAG podnosi u elektronskom obliku putem AGRONET-a. Način podnošenja Zahtjeva za potporu pojašnjen je u »Vodiču za korisnike«.
+(6) Putem AGRONET-a, LAG elektronski popunjava Zahtjev za potporu/promjenu/ odustajanje i preuzima sljedeće dokumente:
+1. Odluku o privremenom odabiru LAG-a
+2. Odluku o odabiru LAG-a
+3. Odluku o odbijanju
+4. Odluku o odobrenju promjene ili Odluku o izmjeni Odluke o odabiru LAG-a
+5. Odluku o odbijanju promjene
+6. Potvrdu o odustajanju.
+(7) Ugovor o dodjeli sredstava odabranom LAG-u, Izmjenu Ugovora o dodjeli sredstava odabranom LAG-u (u daljnjem tekstu: Aneks Ugovora), Odluku o stavljanju izvan snage Odluke o odabiru LAG-a, Odluku o povratu sredstava i Izjavu o raskidu Ugovora, Agencija za plaćanje dostavlja preporučenom poštom s povratnicom.
+(8) LAG mora biti upisan u Evidenciji korisnika kako bi mu Agencija za plaćanja dodijelila korisničko ime i zaporku kojima se prijavljuje u AGRONET.
+(9) Vodič za upis u Evidenciju korisnika i upute za korištenje AGRONET-a će biti dostupne na službenim mrežnim stranicama Agencije za plaćanja (www.apprrr.hr).
+(10) Po završetku elektronskog popunjavanja Zahtjeva za potporu u AGRONET-u, LAG je dužan u roku propisanom Natječajem dostaviti, preporučenom pošiljkom s povratnicom ili neposredno, ovjerenu i potpisanu Potvrdu o podnošenju Zahtjeva za potporu zajedno s propisanom dokumentacijom u izvorniku u papirnatom obliku.
+(11) Potvrda iz stavka 10. ovoga članka i propisana dokumentacija u izvorniku dostavlja se na adresu koja će biti propisana Natječajem.
+(12) Vrijeme podnošenja Zahtjeva za potporu podrazumijeva vrijeme slanja dokumentacije navedene u stavku 11. ovoga članka u slučaju slanja preporučenom pošiljkom s povratnicom ili vrijeme zaprimanja u Agenciju za plaćanja ukoliko se dostavlja neposredno.
