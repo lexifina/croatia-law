@@ -1,0 +1,1 @@
+Na temelju članka 516. stavka 2. Obiteljskog zakona (»Narodne novine«, broj 103/15.), uz prethodnu suglasnost ministra nadležnog za unutarnje poslove i ministra nadležnog za socijalnu skrb ministar pravosuđa donosi

@@ -1,0 +1,3 @@
+# Članak 2.
+(1) Definicije pojedinih pojmova u ovom Pravilniku određene su u: Obiteljskom zakonu (»Narodne novine«, broj 103/15), Ovršnom zakonu (»Narodne novine«, broj 112/12, 25/13 i 93/14), Zakonu o policiji (»Narodne novine«, broj 34/11, 130/12, 89/14, 151/14 i 33/15), Zakonu o policijskim poslovima i ovlastima (»Narodne novine«, broj 76/09 i 92/14), Sudskom poslovniku (»Narodne novine«, broj 37/14, 49/14, 08/15, 35/15 i 123/15) i drugim propisima koji uređuju materiju ovog Pravilnika.
+(2) Pojmovi iz ovog Pravilnika jednako se odnose na muški i ženski rod, bez obzira u kojem rodu su iskazani.
