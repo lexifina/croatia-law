@@ -1,0 +1,2 @@
+# Članak 4.
+S obzirom da Hrvatske ceste d.o.o. u ime i za račun županijskih uprava za ceste vrše nabavu soli za održavanje županijskih i lokalnih cesta u vrijeme trajanja zimske službe, potpisuje se Sporazum o reguliranju međusobnih obveza pri nabavci, isporuci i obračunu troškova soli. Temeljem navedenog Sporazuma Hrvatske ceste d.o.o. ispostavljat će županijskim upravama za ceste račun za isporuku soli po pojedinim županijskim upravama za ceste.
