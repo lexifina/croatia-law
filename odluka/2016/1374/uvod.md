@@ -1,0 +1,1 @@
+Na temelju članka 5. stavka 1. Zakona o konačnosti namire u platnim sustavima i sustavima za namiru financijskih instrumenata (»Narodne novine«, br. 59/2012. i 44/2016.) i članka 43. stavka 2. točke 9. Zakona o Hrvatskoj narodnoj banci (»Narodne novine«, br. 75/2008. i 54/2013.) guverner Hrvatske narodne banke donosi
