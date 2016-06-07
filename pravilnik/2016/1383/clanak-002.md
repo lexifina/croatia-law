@@ -1,0 +1,9 @@
+## Namjena potpore
+# Članak 2.
+(1) Potpora je namijenjena sufinanciranju ulaganja u prilagodbu ribolovne flote i ribolovnih alata kroz opremanje ribarskih plovila novom opremom, novim alatima i novim pogonskim strojevima radi očuvanja biološkog bogatstva mora i s ciljem održivog, racionalnog gospodarenja biološkim bogatstvima.
+(2) Potpora se dodjeljuje za sufinanciranje ulaganja koja su predmet ovoga Pravilnika, a prema odobrenim računima za koje podnositelj nije do sada koristio sredstva iz državnog proračuna Republike Hrvatske ili drugih izvora financiranja.
+(3) Potpora se provodi sukladno Ugovoru o pristupanju Republike Hrvatske Europskoj uniji (»Narodne novine«, Međunarodni ugovori, broj 2/2012 i 9/2013) sukladno kojem je Ministarstvo u propisanom roku dostavilo Europskoj komisiji popis postojećih državnih potpora u ribarstvu koje će se provoditi do zaključno 30. lipnja 2016. godine.
+(4) Troškovi ulaganja sukladno pripadajućoj financijskoj dokumentaciji za koje se traži potpora na temelju ovoga Pravilnika moraju biti ostvareni u periodu od 1. svibnja 2015. godine do dana podnošenja Zahtjeva za sufinanciranje ulaganja u ribarstvu kroz sufinanciranje troškova kupnje ribolovnih alata, opreme i pogonskih strojeva za obavljanje gospodarskog ribolova na moru u 2016. godini (u daljnjem tekstu: Zahtjev).
+(5) Iznimno od stavka 4. ovoga članka troškovi ulaganja sukladno pripadajućoj financijskoj dokumentaciji za koje se traži potpora na temelju ovoga Pravilnika za ribolovne alate iz članka 6. stavka 1. točaka a), f) i g) ovoga Pravilnika, moraju biti ostvareni u periodu od 1. siječnja 2015. godine do dana podnošenja Zahtjeva.
+(6) Odredbe ovoga Pravilnika ne dovode u pitanje odredbe ostalih zakonskih i podzakonskih propisa u dijelu obavljanja gospodarskog ribolova na moru.
+(7) Tehničko konstrukcijske karakteristike moraju biti u skladu s važećim EU i nacionalnim propisima.
