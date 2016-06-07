@@ -1,0 +1,2 @@
+# Članak 11.
+Obrazac rješenja o odbijanju ulaska u Republiku Hrvatsku (Obrazac 2) i Obrazac potvrde o kratkotrajnom boravku (Obrazac 3) koji su tiskani uz Pravilnik o postupanju prema strancima (»Narodne novine« broj: 14/13, 26/13, 86/13, 126/14 i 95/15) zamjenjuju se novim Obrascem rješenja o odbijanju ulaska u Republiku Hrvatsku (Obrazac 2) i Obrascem potvrde o kratkotrajnom boravku (Obrazac 3) koji su tiskani uz ovaj Pravilnik i njegov su sastavni dio.
