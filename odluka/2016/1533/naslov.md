@@ -1,0 +1,1 @@
+Odluka o davanju suglasnosti na Odluku Županijske skupštine Primorsko-goranske županije o izmjenama i dopunama Odluke o utvrđivanju lučkog područja u lukama otvorenim za javni promet županijskog i lokalnog značaja na području Primorsko-goranske županije
