@@ -1,0 +1,3 @@
+## Pravo Europske unije
+# Članak 2.
+Ovim se Zakonom osiguravaju pretpostavke za provedbu Uredbe (EZ) br. 1060/2009 Europskog parlamenta i Vijeća od 16. rujna 2009. o agencijama za kreditni rejting (SL L EU 302, 17. 11. 2009.), kako je posljednji put izmijenjena Direktivom 2014/51/EU Europskog parlamenta i Vijeća od 16. travnja 2014. o izmjeni direktiva 2003/71/EZ i 2009/138/EZ te uredbi (EZ) br. 1060/2009, (EU) br. 1094/2010 i (EU) br. 1095/2010 u pogledu ovlasti Europskog nadzornog tijela (Europskog nadzornog tijela za osiguranje i strukovno mirovinsko osiguranje) i Europskog nadzornog tijela (Europskog nadzornog tijela za vrijednosne papire i tržišta kapitala) (SL L EU 153, 22. 5. 2014.) (u daljnjem tekstu: Uredba (EZ) br. 1060/2009).
