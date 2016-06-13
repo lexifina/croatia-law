@@ -1,0 +1,4 @@
+## Pružanje podataka o sukladnosti kombinacija radijske opreme i softvera
+# Članak 6.
+(1) Proizvođači radijske opreme i softvera, koji omogućuju da se radijska oprema upotrebljava u skladu s predviđenom namjenom, obvezni su dostaviti Agenciji i Europskoj komisiji podatke o sukladnosti kombinacije radijske opreme i softvera s bitnim zahtjevima iz članka 5. ovoga Pravilnika. Takvi podaci proizlaze iz ocjenjivanja sukladnosti provedenog u skladu s člankom 19. ovoga Pravilnika, a pružaju se u obliku EU izjave o sukladnosti koja sadržava podatke navedene u Dodatku 5. ovoga Pravilnika. Ovisno o posebnoj kombinaciji radijske opreme i softvera, tim je podacima točno utvrđena radijska oprema i softver za koje je proveden postupak ocjenjivanja, i ti se podaci moraju redovito obnavljati.
+(2) Kategorije ili razrede radijske opreme obuhvaćene zahtjevima iz stavka 1. ovoga članka određuje Europska komisija mjerodavnim propisima.

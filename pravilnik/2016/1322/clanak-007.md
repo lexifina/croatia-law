@@ -1,0 +1,5 @@
+## Registracija vrsta radijske opreme unutar određenih kategorija
+# Članak 7.
+(1) Proizvođač je obvezan registrirati vrste radijske opreme unutar kategorija radijske opreme, na koje se odnosi niska razina sukladnosti s bitnim zahtjevima iz članka 5. ovoga Pravilnika, u središnjem sustavu koji uspostavlja Europska komisija, prije nego što se radijska oprema unutar tih kategorija stavlja na tržište. Prigodom registracije tih vrsta radijske opreme proizvođač dostavlja dio tehničke dokumentacije ili, ako je to opravdano, sve dijelove tehničke dokumentacije iz Dodatka 4. točaka a), d), e), f), g), h) i i). Europska komisija svakoj registriranoj vrsti radijske opreme dodjeljuje registracijski broj koji proizvođači stavljaju na radijsku opremu koja se stavlja na tržište.
+(2) Kategorije radijske opreme obuhvaćene zahtjevima iz stavka 1. ovoga članka te dijelove tehničke dokumentacije, koji se dostavljaju, određuje Europska komisija mjerodavnim propisima.
+(3) Središnji sustav iz stavka 1. ovoga članka mora osigurati odgovarajuću kontrolu pristupa povjerljivim podacima.
