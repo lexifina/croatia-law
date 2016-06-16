@@ -1,0 +1,2 @@
+Dodatak 1 - Dodatak 8
+| 53 08.06.2016 Pravilnik o oblikovanju i utvrđivanju načina, postupaka i drugih uvjeta za sigurno uzlijetanje i slijetanje zrakoplova 53 08.06.2016 Pravilnik o oblikovanju i utvrđivanju načina, postupaka i drugih uvjeta za sigurno uzlijetanje i slijetanje zrakoplova 53 08.06.2016 Pravilnik o oblikovanju i utvrđivanju načina, postupaka i drugih uvjeta za sigurno uzlijetanje i slijetanje zrakoplova 53 08.06.2016 Pravilnik o oblikovanju i utvrđivanju načina, postupaka i drugih uvjeta za sigurno uzlijetanje i slijetanje zrakoplova

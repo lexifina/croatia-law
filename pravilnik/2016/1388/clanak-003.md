@@ -1,0 +1,7 @@
+## Opće odredbe za instrumentalne letne procedure (ILP)
+# Članak 3.
+(1) Prilikom oblikovanja, utvrđivanja i održavanja ILP moraju se poštivati odredbe ovoga Pravilnika. Time se osigurava da su sve objavljene ILP koje su namijenjene za uporabu od strane operatora zrakoplova u uvjetima IFR unutar FIR Zagreb, u skladu sa zahtjevima ICAO.
+(2) Organizacija koja oblikuje i utvrđuje ILP mora osigurati sustav kontrole kvalitete i sustav koji će osigurati da je svaka ILP sigurna za upotrebu. Sustav koji će jamčiti sigurnost upotrebe ILP mora se sastojati od kontinuiranih pregleda, provjera, koordinacije te vrednovanja putem pregleda, verifikacije i validacije ključnih pokazatelja.
+(3) U interesu sigurnosti zračnog prometa te u cilju smanjenja mogućnosti pogreške, organizacija ILP mora implementirati i provoditi na dosljedan način ICAO Doc 8168, te mora koristiti svoje propisane procese koji će pridonijeti smanjenju rizika nastajanja pogrešaka, odrediti pogreške koje se javljaju prije nego što one imaju utjecaj na sigurnost i osigurati kontinuirano poboljšanje procesa oblikovanja i utvrđivanja ILP kako bi se uklonile i/ili smanjile buduće pogreške.
+(4) Propisani proces oblikovanja i utvrđivanja ILP mora biti u skladu sa načelnom shemom iz Dodatka 1 ovoga Pravilnika.
+(5) Osiguranje sustava kontrole kvalitete iz stavka 2. ovoga članka Organizacija ILP će implementirati ICAO Doc 9906 - Priručnik za osiguranje kvalitete pri izradi letnih procedura (Quality Assurance Manual for Flight Procedure Design), prema važećim poglavljima 1., 2., 3., 5., i 6.

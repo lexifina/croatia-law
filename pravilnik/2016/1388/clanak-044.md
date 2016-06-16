@@ -1,0 +1,5 @@
+## Korištenje automatiziranih alata
+# Članak 44.
+(1) Korištenje automatiziranih alata prilikom oblikovanja ILP se koristi u svrhu smanjenja grešaka tijekom procesa oblikovanja ILP, te sa svrhom što veće standardizacije upotrebe PANS-OPS kriterija.
+(2) Organizacija ILP za oblikovanje preciznih prilaza baziranih na sustavu ILS mora na odgovarajući način koristiti automatizirane alate prilikom oblikovanja ILP, a prije svega Model rizika od kolizije na način kako je propisano u ICAO Priručniku br. 9274 o korištenju programa Modela rizika od kolizije (CRM-Collision Risk Model), kao i ICAO PANS-OPS Obstacle Assessment Surface (OAS) Software kao sredstava za evaluaciju cjelokupnog rizika utjecaja zemaljskih prepreka na precizan prilaz.
+(3) Organizacija ILP mora prije upotrebe računalnih sučelja automatiziranih alata provesti njihovu validaciju. U tu svrhu mora biti utvrđena procedura kojom se utvrđuje da su svi uređaji uključujući i računalni operativni sustav u skladu sa zahtjevima proizvođača pojedinog automatiziranog alata. Takva procedura mora biti dostupna dizajnerima ILP.
