@@ -1,0 +1,2 @@
+# Članak 41.
+Na ispunjavanje uvjeta za vrstu odnosno za vrstu i kategoriju objekata seljačkih domaćinstava koja na dan stupanja na snagu ovog Pravilnika, imaju rješenje o odobrenju za pružanje ugostiteljskih usluga u seljačkom domaćinstvu primjenjivat će se odredbe Pravilnika o pružanju ugostiteljskih usluga u seljačkom domaćinstvu (»Narodne novine«, broj 22/1996, 38/1996, 47/1997, 25/1999, 29/2000, 196/2003 i 42/2004) i Pravilnika o pružanju ugostiteljskih usluga u seljačkom domaćinstvu (»Narodne novine«, broj 5/2008, 44/2011 i 118/2011).

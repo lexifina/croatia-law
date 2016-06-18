@@ -1,0 +1,3 @@
+# Članak 2.
+(1) Objekt na obiteljskom poljoprivrednom gospodarstvu (u daljem tekstu: objekt, OPG) funkcionalna je cjelina u kojem se, ovisno o vrsti, pružaju ugostiteljske usluge pripremanja i usluživanja jela, pića i napitaka uobičajenih za kraj u kojem se nalazi OPG, iz poljoprivrednih proizvoda pretežito vlastite proizvodnje, usluge smještaja te ostale usluge u funkciji turističke potrošnje.
+(2) OPG u objektu mora pružati ugostiteljske usluge propisane ovim Pravilnikom u obveznim sadržajima i može pružati druge usluge u neobveznim sadržajima, pod uvjetima propisanim ovim Pravilnikom i drugim propisima.
