@@ -1,0 +1,2 @@
+# Članak 49.
+Na objekte vrste Kampiralište koji su kategorizirani sukladno Pravilniku o razvrstavanju, minimalnim uvjetima i kategorizaciji ugostiteljskih objekata KAMPOVA iz skupine »Kampovi i druge vrste ugostiteljskih objekata za smještaj« (»Narodne novine«, broj 75/2008, 45/2009 i 11/2014) primjenjivat će se Pravilnik o razvrstavanju, minimalnim uvjetima i kategorizaciji ugostiteljskih objekata KAMPOVA iz skupine »Kampovi i druge vrste ugostiteljskih objekata za smještaj« (»Narodne novine«, broj 75/2008, 45/2009 i 11/2014).
