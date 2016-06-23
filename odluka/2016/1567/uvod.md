@@ -1,0 +1,1 @@
+Na temelju članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/11 i 119/14) i članka 12. stavka 3. Uredbe o unutarnjem ustrojstvu Državnog ureda za središnju javnu nabavu (»Narodne novine«, broj 3/15), Vlada Republike Hrvatske je na sjednici održanoj 23. lipnja 2016. godine donijela
