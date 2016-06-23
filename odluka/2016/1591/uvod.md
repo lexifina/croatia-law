@@ -1,0 +1,1 @@
+Na temelju članka 12. stavka 5. Uredbe o unutarnjem ustrojstvu Državnog ureda za središnju javnu nabavu (»Narodne novine«, broj 3/15), Vlada Republike Hrvatske je na sjednici održanoj 23. lipnja 2016. godine donijela
