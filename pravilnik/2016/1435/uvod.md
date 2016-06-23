@@ -1,0 +1,1 @@
+Na temelju članka 5. stavka 3. i članka 8. stavka 2. Zakona o Nacionalnoj klasifikaciji djelatnosti (»Narodne novine«, br. 98/94.) i Odluke o Nacionalnoj klasifikaciji djelatnosti 2007. - NKD 2007. (»Narodne novine«, br. 58/07. i 72/07.) ravnatelj Državnog zavoda za statistiku donosi
