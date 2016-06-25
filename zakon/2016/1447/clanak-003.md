@@ -1,0 +1,4 @@
+# Članak 3.
+(1) Ugovori o koncesiji u posebnim rezervatima koji su sklopljeni temeljem Zakona o pomorskom dobru i morskim lukama (»Narodne novine«, br. 158/03., 100/04., 141/06., 38/09. i 123/11.) ostaju na snazi do isteka vremena na koje su sklopljeni.
+(2) Ministarstvo je dužno u roku od tri mjeseca od dana stupanja na snagu ovoga Zakona dostaviti jedinicama područne (regionalne) samouprave ugovore o koncesiji sklopljene za gospodarsko korištenje pomorskog dobra u posebnim rezervatima, kao i svu dokumentaciju temeljem koje su ugovori o koncesiji zaključeni.
+(3) Jedinice područne (regionalne) samouprave stupaju u pravni položaj davatelja koncesije te preuzimaju sva prava i obveze davatelja koncesije danom preuzimanja ugovora o koncesiji i dokumentacije iz stavka 2. ovoga članka, o čemu obavještavaju koncesionare.
