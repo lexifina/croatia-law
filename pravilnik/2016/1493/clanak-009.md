@@ -1,0 +1,11 @@
+## Broj bodova na temelju uspjeha na studiju
+# Članak 9.
+(1) Studenti koji su u statusu redovitoga studenta u Republici Hrvatskoj upisani u drugu godinu studiranja, a u prethodnoj godini su ostvarili najmanje 55 ECTS bodova - 100 bodova.
+(2) Studenti koji su u statusu redovitoga studenta u Republici Hrvatskoj upisani u treću godinu studiranja, a u prethodnima godinama studiranja su ostvarili u prosjeku najmanje 55 ECTS bodova - 150 bodova.
+(3) Studenti koji su u statusu redovitoga studenta u Republici Hrvatskoj upisani u četvrtu godinu studiranja, a u prethodnim godinama studiranja su ostvarili u prosjeku najmanje 55 ECTS bodova - 200 bodova.
+(4) Studenti koji su u statusu redovitoga studenta u Republici Hrvatskoj upisani u petu godinu studiranja, a u prethodnim godinama studiranja su ostvarili u prosjeku najmanje 55 ECTS bodova - 250 bodova.
+(5) Studenti koji su u statusu redovitoga studenta u Republici Hrvatskoj upisani u šestu godinu studiranja, a u prethodnim godinama studiranja su ostvarili u prosjeku najmanje 55 ECTS bodova - 300 bodova.
+(6) Studenti koji će u akademskoj godini (za koju se raspisuje natječaj) u statusu redovitog studenta upisati prvi put prvu godinu diplomskoga sveučilišnog ili specijalističkoga diplomskog studija, ostvaruju bodove kao i studenti iz stavaka 2. i 3.. ovisno o propisanom trajanju prethodno završenoga studija.
+(7) Studenti koji su završili preddiplomski studij s propisanim trajanjem od 3,5 godine i koji će u akademskoj godini (za koju se raspisuje natječaj) u statusu redovitog studenta upisati prvi put prvu godinu ili su u tekućoj akademskoj godini upisani u prvi semestar diplomskoga sveučilišnog ili specijalističkoga diplomskog studija, ostvaruju bodove kao i studenti iz stavka 3.
+(8) Studenti koji su u tekućoj akademskoj godini u statusu redovitoga studenta u Republici Hrvatskoj upisani u prvu ili drugu godinu diplomskoga sveučilišnog studija i prvu ili drugu godinu specijalističkoga diplomskoga stručnog studija, ostvaruju bodove kao i studenti iz stavaka 3.-5. ovisno o broju godina studiranja na svim razinama studija uključujući i tekuću akademsku godinu.
+(9) Studenti iz stavaka 1. do 8. koji ispunjavaju uvjete iz ovoga članka mogu ostvariti bodove samo po jednoj osnovi iz navedenih stavaka.
