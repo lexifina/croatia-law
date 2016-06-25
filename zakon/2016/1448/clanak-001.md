@@ -1,0 +1,3 @@
+# Članak 1.
+U Zakonu o prijevozu u linijskom i povremenom obalnom pomorskom prometu (»Narodne novine«, br. 33/06., 38/09., 87/09., 18/11. i 80/13.) u članku 1. stavak 1. mijenja se i glasi:
+»Ovim se Zakonom uređuju uvjeti i način obavljanja usluga javnog prijevoza od općeg gospodarskog interesa s obvezom javne usluge, obavljanje javnog linijskog prijevoza bez obveze javne usluge, uspostava informatičkog sustava javnog prijevoza, povlašteni prijevoz putnika i vozila otočana, razvrstavanje linija javnog prijevoza, utvrđivanje, usklađivanje i objava redova plovidbe i osiguranje sredstava za kontinuirano, redovito i nesmetano obavljanje javnog prijevoza.«.
