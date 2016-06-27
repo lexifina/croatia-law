@@ -1,0 +1,1 @@
+Na temelju članka 98. Ustava Republike Hrvatske (»Narodne novine« broj 56/90., 135/97., 113/00., 28/01., 76/10. i 05/14. - Odluka Ustavnog suda Republike Hrvatske) i članku 2. stavka 1. točke 3. Odluke o ustanovljenju medalja za sudjelovanje u vojno-redarstvenim operacijama i u iznimnim pothvatima (»Narodne novine« broj 60/95. i 14/96.), a na prijedlog ministra obrane, donosim
