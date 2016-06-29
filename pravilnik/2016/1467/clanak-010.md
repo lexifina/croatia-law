@@ -1,0 +1,5 @@
+# Članak 10.
+(1) Ovlaštenik mora pretežiti dio stručnih poslova obavljati sa svojim stručnjacima.
+(2) Ovlaštenik za potrebe izvršenja konkretnog naručenog posla koji zahtijeva odgovarajuće mjerenje, uzorkovanje i ispitivanje, a za te poslove nema pribavljeno odgovarajuće ovlaštenje sukladno ovom Pravilniku, odnosno posebnom propisu (dozvolu, suglasnost, potvrdu o akreditaciji i dr.), dužan je te poslove obaviti korištenjem usluga vanjskog stručnjaka, obrta ili pravnih osoba koje su na propisani način ovlaštene za obavljanje takvih poslova i posjeduju potvrde Hrvatske akreditacijske agencije o ispunjavaju uvjeta za obavljanje takvih poslova.
+(3) Korištenje usluga iz stavka 2. ovog članka Ovlaštenik dokazuje ugovorom sklopljenim s ovlaštenim stručnjakom, obrtom ili pravnom osobom koji prilaže uz izrađeni dokument u svakom pojedinom naručenom poslu koji obavlja za naručitelja.
+(4) Ovlaštenik je dužan za svaki naručeni i prihvaćeni stručni posao sklopiti pisani ugovor s naručiteljem toga posla.

@@ -1,0 +1,5 @@
+# Članak 15.
+(1) Čelnik središnjeg tijela državne uprave nadležnog za poslove civilne zaštite osniva Povjerenstvo za provođenje postupka ocjenjivanja uvjeta za izdavanje i oduzimanje suglasnosti ovlaštenim osobama za obavljanje stručnih poslova u području planiranja civilne zaštite (u daljnjem tekstu: Povjerenstvo).
+(2) Povjerenstvo ima tri člana: predsjednika i dva člana koji su državni službenici središnjeg tijela državne uprave nadležnog za poslove civilne zaštite i imaju najmanje pet godina radnog iskustva na poslovima planiranja civilne zaštite.
+(3) Osim državnih službenika iz stavka 2. ovog članka, za provjeru ispunjavanja uvjeta za drugu grupu stručnih poslova u području planiranja civilne zaštite, čelnik središnjeg tijela državne uprave nadležnog za poslove civilne zaštite na prijedlog čelnika središnjeg tijela državne uprave za zaštitu okoliša imenuje u Povjerenstvo jednog državnog službenika iz središnjeg tijela državne uprave nadležnog za zaštitu okoliša.
+(4) Državni službenik iz stavka 3. ovog članka mora imati najmanje pet godina radnog iskustva na poslovima zaštite okoliša.

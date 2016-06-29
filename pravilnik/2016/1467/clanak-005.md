@@ -1,0 +1,7 @@
+# Članak 5.
+(1) Voditelj stručnih poslova mora ispunjavati sljedeće uvjete:
+a) voditelj stručnih poslova u području planiranja civilne zaštite iz prve grupe stručnih poslova iz članka 3. stavka 1. ovoga Pravilnika može biti magistar/a društvene ili magistar/a inženjer/ka prirodnih i tehničkih znanosti ili specijalist/ica društvene, prirodne ili tehničke struke koji mora imati najmanje tri godine radnog iskustva na stručnim poslovima u području planiranja civilne zaštite
+b) voditelj stručnih poslova u području planiranja civilne zaštite iz druge grupe stručnih poslova iz članka 3. stavka 2. ovoga Pravilnika može biti magistar/a ili inženjer/ka prirodnih i tehničkih znanosti ili stručni specijalist/ica prirodne ili tehničke struke koji mora imati najmanje tri godine radnog iskustva na stručnim poslovima planiranja civilne zaštite ili zaštite okoliša.
+(2) Voditelj stručnih poslova iz stavka 1. ovoga članka odgovoran je za kvalitetnu, vjerodostojnu i točnu pripremu baza podataka i drugih izvora potrebnih za izradu studija, elaborata, izvješća, programa, rješenja, izradu i provedbu verifikacija, proračuna i dr. za potrebe izrade dokumenata u području planiranja civilne zaštite koje izrađuje Ovlaštenik.
+(3) Voditelj stručnih poslova smatrat će se odgovornom osobom Ovlaštenika što ne isključuje i odgovornost odgovorne osobe za zastupanje Ovlaštenika.
+3. Uvjeti koje moraju ispunjavati ostali stručnjaci

@@ -1,0 +1,2 @@
+# Članak 6.
+Ovlaštenik za obavljanje poslova planiranja civilne zaštite iz prve grupe stručnih poslova, osim voditelja stručnih poslova, mora imati zaposlena najmanje dva stručnjaka, i to minimalno prvostupnika ili inženjera iz područja društvenih, prirodnih ili tehničkih znanosti ili društvene, prirodne i tehničke struke, koji ima najmanje jednu godinu radnog iskustva na poslovima u području planiranja civilne zaštite.
