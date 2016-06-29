@@ -1,0 +1,7 @@
+# Članak 3.
+Ukoliko je osoba stručno osposobljena za višu razinu posla od poslova odobrenih na izdanoj iskaznici protuminskog djelovanja, može sukladno članku 2. ovog Pravilnika ishoditi novu iskaznicu protuminskog djelovanja s time da je dužna prilikom podnošenja zahtjeva vratiti postojeću iskaznicu.
+Iskaznicu protuminskog djelovanja koja je dotrajala, oštećena, na kojoj slika više ne odgovara izgledu osobe ili ako iz bilo kojega drugog razloga iskaznica više ne služi svrsi osoba je dužna vratiti Ministarstvu te podnijeti zahtjev za izdavanjem nove iskaznice protumininskog djelovanja.
+U slučaju nestanka, gubitka ili krađe iskaznice osoba je dužna pisanom izjavom o tome bez odgode izvijestiti Ministarstvo. Trošak objave nevažećom iskaznice protuminskog djelovanja u »Narodnim novinama« snosi podnositelj koji je podnio zahtjev za izdavanje nove iskaznice.
+Osoba može obavljati poslove protuminskog djelovanja do izdavanja iskaznice protuminskog djelovanja na temelju potvrde, koju će Ministarstvo izdati na njezin zahtjev ukoliko su ispunjeni uvjeti iz članka 2. ovog Pravilnika.
+Osoba može posjedovati 1 (jednu) iskaznicu protuminskog djelovanja te ne može, ukoliko je ista oduzeta od strane ovog Ministarstva, ishoditi novu iskaznicu protuminskog djelovanja u roku na koji je ista oduzeta.
+Nakon zaprimljenog zahtjeva za izradom nove iskaznice protuminskog djelovanja Ministarstvo izdaje rješenje o prestanku važenja iskaznice iz stavka 1., 2. i 3. ovoga članka.
