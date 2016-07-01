@@ -1,0 +1,5 @@
+# Članak 4.
+Iza članka 6. dodaje se novi članak 6.a koji glasi:
+»(1) Smatra se da je leasing društvo dostavilo dokumentaciju iz članka 3., 5. i 5a ovoga Pravilnika u trenutku kada je dokumentacija zabilježena na poslužitelju za slanje takve dokumentacije.
+(2) U opravdanim slučajevima tehničke nemogućnosti dostave ili dostave koja nije pravilno izvršena (pr. kvar na sustavu, nemogućnost čitanja zaprimljene dokumentacije i sl.) na način propisan odredbama članka 3., 5. i 5.a ovoga Pravilnika, leasing društvo dužno je dokumentaciju dostaviti u pisanom obliku, neposredno ili poštom u svrhu pravodobnog izvješćivanja. Leasing društvo dužno je dostaviti dokumentaciju elektroničkim putem na način propisan ovim Pravilnikom čim prestanu razlozi nemogućnosti takve dostave, a najkasnije u roku od 8 dana od prestanka okolnosti koje su prouzročile tehničku nemogućnost takve dostave.
+(3) Agencija može, u slučaju potrebe, zatražiti od leasing društva dostavu određene dokumentacije propisane ovim Pravilnikom i u izvorniku ili ovjerenoj preslici, neovisno o izvršenoj dostavi u elektroničkom obliku.«.
