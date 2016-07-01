@@ -1,0 +1,1 @@
+Na temelju odredbi članka 469. Zakona o tržištu kapitala (»Narodne novine« br. 88/08, 146/08, 74/09, 54/13, 159/13, 18/15 i 110/15), Hrvatska agencija za nadzor financijskih usluga je na sjednici Upravnog vijeća održanoj 29. lipnja 2016. godine donijela
