@@ -1,0 +1,2 @@
+# Članak 2.
+Ovaj Pravilnik sadrži odredbe koje su u skladu s Direktivom 2013/35/EU Europskoga parlamenta i Vijeća od 26. lipnja 2013. o minimalnim zdravstvenim i sigurnosnim zahtjevima u odnosu na izloženost radnika rizicima uzrokovanim fizikalnim čimbenicima (elektromagnetska polja) (dvadeseta pojedinačna direktiva u smislu članka 16. stavka 1. Direktive 89/391/EEZ)) te stavljaju izvan snage Direktive 2004/40/EZ (SL L 179, 29. 6. 2013.).
