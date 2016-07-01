@@ -1,0 +1,1 @@
+Na temelju članka 135. Zakona o izmjenama i dopunama Pomorskog zakonika (»Narodne novine« broj 56 /13) u svezi s člankom 56.c. stavak 1. Pomorskog zakonika (»Narodne novine«, broj 181/04, 76/07, 146/08, 61/11, 56/13 i 26/15), ministar pomorstva, prometa i infrastrukture donosi
