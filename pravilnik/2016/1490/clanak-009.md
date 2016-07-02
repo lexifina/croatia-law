@@ -1,0 +1,2 @@
+# Članak 9.
+Danom stupanja na snagu ovoga Pravilnika prestaje važiti Pravilnik o posebnim uvjetima i tehničkim zahtjevima za europsku elektroničku naplatu cestarine i elementima interoperabilnosti (»Narodne novine«, broj 74/13) i Pravilnik o izmjenama i dopunama pravilnika o posebnim uvjetima i tehničkim zahtjevima za europsku elektroničku naplatu cestarine i elementima interoperabilnosti (»Narodne novine«, broj 17/16).
