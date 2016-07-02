@@ -1,2 +1,0 @@
-# Članak 1.
-U Pravilniku o posebnim uvjetima i tehničkim zahtjevima za europsku elektroničku naplatu cestarine i elementima interoperabilnosti (»Narodne novine«, broj 74/13.) u članku 1. iza riječi: »(SL L 166 od 30. travnja 2004.)« dodaju se riječi: »i 2009/750/EZ: Odlukom Komisije od 6. listopada 2009. o definiranju europske elektroničke naplate cestarine i njezinih tehničkih elemenata (priopćena pod brojem dokumenta C(2009) 7547) Tekst značajan za EGP«.
