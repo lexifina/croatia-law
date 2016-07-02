@@ -1,0 +1,6 @@
+## V. Prijelazne i završne odredbe
+# Članak 35.
+(1) Novčana sredstva zatečena na uplatnim računima sudova na dan stupanja na snagu ovog Pravilnika, kojima nije poznat uplatitelj niti broj predmeta na koje se odnose, na temelju naloga predsjednika suda uplatit će se u korist državnog proračuna u roku od 30 dana od dana stupanja na snagu ovog Pravilnika.
+(2) Novčana sredstva koja nisu u cijelosti utrošena u pojedinom sudskom postupku, a odnose se na sudski predmet čiji je spis arhiviran, i koja su zatečena na uplatnim računima sudova na dan stupanja na snagu ovog Pravilnika, na temelju naloga predsjednika suda uplatit će se u korist državnog proračuna u roku od 90 dana od dana stupanja na snagu ovog Pravilnika.
+(3) Novčana sredstva koja nisu u cijelosti utrošena u pojedinom sudskom postupku, zatečena na uplatnim računima sudova na dan stupanja na snagu ovog Pravilnika, a čiji bi povrat iziskivao veće troškove od iznosa koji se treba vratiti uplatitelju, na temelju naloga suca odnosno sudskog savjetnika uplatit će se u korist državnog proračuna u roku od 90 dana od dana stupanja na snagu ovog Pravilnika.
+(4) Sredstva iz stavaka 1., 2. i 3. ovog članka koja su uplaćena u korist državnog proračuna isplatit će se ovlaštenoj osobi na njezin zahtjev po nalogu suda u roku od pet godina od dana uplate u državni proračun.

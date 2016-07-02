@@ -1,0 +1,3 @@
+# Članak 32.
+(1) Ako se novčana kazna, troškovi kaznenog postupka i oduzeta imovinska korist ne naplate u ovršnom postupku, spis predmeta se dostavlja sucu radi donošenja odgovarajuće odluke (zamjena novčane kazne kaznom zatvora, donošenje rješenja kojim se utvrđuje nastup zastare naplate novčane kazne, donošenje rješenja o oslobađanju dužnosti naknade troškova postupka i sl.).
+(2) Ako je pravomoćnim rješenjem novčana kazna zamijenjena radom za opće dobro, kaznom zatvora ili je stranka oslobođena od dužnosti naknade troškova postupka te ako se utvrdi da je naplata novčane kazne, troškova postupka i oduzete imovinske koristi zastarjela, ove se činjenice upisuju u Evidenciju.

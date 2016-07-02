@@ -1,0 +1,2 @@
+# Članak 13.
+Ako se svrha pošiljke ne može odmah utvrditi, odnosno ako se ne može odmah utvrditi na koju se pravnu stvar primljeni novac, vrijednost ili stvar odnosi, pozvat će se pošiljatelj da u roku od tri dana od primitka poziva objasni svrhu pošiljke ili da naznači pravnu stvar na koju se ona odnosi, uz upozorenje da će mu se u protivnom primljeni novac, vrijednost ili druga stvar vratiti na njegov trošak.
