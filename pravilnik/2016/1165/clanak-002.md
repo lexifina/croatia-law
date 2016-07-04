@@ -1,0 +1,3 @@
+# Članak 2.
+U članku 13. stavak 1. mijenja se i glasi:
+»Registarske pločice za vozila izrađene su od metala, presvučene reflektirajućom folijom, bijele su boje na kojima je crnim slovima otisnuta oznaka registracijskog područja i registarski broj vozila. Na krajnjoj lijevoj strani registarske pločice otisnuta je oznaka Republike Hrvatske sukladno Uredbi Vijeća (EZ) broj 2411/98 od 03.11.1998. godine o priznavanju razlikovnih oznaka država članica u kojima su registrirana motorna vozila i njihove prikolice u prometu unutar Europske unije, a između oznake registracijskog područja i registarskog broja otisnut je grb Republike Hrvatske.«.
