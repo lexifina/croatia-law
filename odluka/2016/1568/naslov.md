@@ -1,0 +1,1 @@
+Odluka o poticanju izvansudskog rješavanja građanskih i trgovačkih sporova u kojima je stranka Republika Hrvatska, odnosno pravna osoba kojoj je jedini osnivač ili član, odnosno imatelj udjela u pretežitom dijelu Republika Hrvatska

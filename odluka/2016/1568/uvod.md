@@ -1,0 +1,1 @@
+Na temelju članka 8. i članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/11 i 119/14), u vezi s Nacionalnim programom reformi 2016., Vlada Republike Hrvatske je na sjednici održanoj 6. srpnja 2016. donijela
