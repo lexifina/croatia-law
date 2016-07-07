@@ -1,0 +1,4 @@
+# Članak 26.
+(1) Po primitku rješenja o odobrenju izlučivanja iz članka 25. ovoga Pravilnika, odgovorna osoba Državne geodetske uprave donosi odluku o izlučivanju kojom se utvrđuje način uništavanja dotičnoga gradiva.
+(2) Služba za nabavu i opće poslove dostavlja odluku o izlučivanju zajedno s rješenjem nadležnog arhiva Područnom uredu za katastar/Ispostavi/Odjelu putem elektroničke pošte.
+(3) Predloženi članovi povjerenstva, po dobivenom rješenju nadležnog arhiva, uništavaju gradivo na način utvrđen Odlukom ravnatelja te sastavljaju Zapisnik o postupku uništenja izlučenog gradiva kojeg se jedan primjerak dostavlja nadležnom državnom arhivu, a na znanje Središnjem uredu Državne geodetske uprave, Službi za nabavu i opće poslove putem elektroničke pošte, čime završava postupak izlučivanja registraturnog i arhivskog gradiva.

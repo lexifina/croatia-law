@@ -1,0 +1,2 @@
+# Članak 18.
+Revers (potvrdu) zadužena osoba za pismohranu ili drugi ovlašteni službenik izdaje u tri primjerka i to: Jedan primjerak reversa (potvrde) ostavlja na mjestu gdje je gradivo izdvojeno, drugi primjerak zadržava zadužena osoba za pismohranu, odnosno drugi ovlašteni službenik, a treći primjerak predaje službeniku odnosno korisniku gradiva. Nakon korištenja gradivo vraća na mjesto na kojem je bilo pohranjeno, a revers (potvrdu) uništava.

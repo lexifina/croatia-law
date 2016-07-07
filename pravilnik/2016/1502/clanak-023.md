@@ -1,0 +1,7 @@
+# Članak 23.
+(1) Postupak za izlučivanje registraturnoga gradiva u Središnjem uredu Državne geodetske uprave prema nadležnom arhivu pokreće odgovorna osoba Državne geodetske uprave na temelju Posebnog popisa gradiva.
+(2) Postupak za izlučivanje registraturnoga gradiva u Područnim uredima za katastar prema Središnjem uredu Državne geodetske uprave pokreće Pročelnik područnog ureda za katastar, u Ispostavi/Odjelu voditelj Ispostave/Odjela po suglasnosti pročelnika na temelju Posebnog popisa gradiva.
+(3) Popis gradiva za izlučivanje treba sadržavati naziv stvaratelja gradiva, ustrojstvenu jedinicu u kojoj je gradivo nastalo, jasan i točan naziv vrste gradiva koje će se izlučivati, starost gradiva (vrijeme nastanka) i količinu izraženu brojem svežnjeva, registratora, knjiga i sl., te poziv na redni broj stavke iz Posebnog popisa arhivskog i registraturnog gradiva Središnjeg ureda odnosno Područnih ureda za katastar Državne geodetske uprave.
+(4) Za svaku vrstu gradiva ukratko se obrazlože zašto se predlaže za izlučivanje i uništenje (npr. istekao rok za čuvanje sukladno popisu iz članka 1. stavka 2. ovoga Pravilnika, nepotrebno za daljnje poslovanje, statistički obrađeno i sl.)
+(5) U prijedlogu za izlučivanje navode se i najmanje dva člana povjerenstva.
+(6) Prijedlog se dostavlja u formi strukture ARHINETA, Središnjem uredu Državne geodetske uprave, Službi za nabavu i opće poslove putem elektroničke pošte.
