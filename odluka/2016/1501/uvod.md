@@ -1,0 +1,1 @@
+Na temelju članka 134. stavka 5. Zakona o odgoju i obrazovanju u osnovnoj i srednjoj školi (»Narodne novine«, broj 87/2008., 86/2009., 92/2010., 105/2010. - ispr., 90/2011., 16/2012., 86/2012., 94/2013. i 152/2014.), ministar znanosti, obrazovanja i sporta donosi
