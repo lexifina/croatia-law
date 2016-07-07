@@ -1,0 +1,14 @@
+# Članak 9.
+Sporazum iz članka 14. stavka 1. Uredbe sadrži odredbe o raskidu Sporazuma kojima se utvrđuje:
+1. da korisnik potpore ima pravo raskinuti Sporazum u bilo kojem trenutku pod uvjetom da sredstva isplaćena prema Sporazumu u cijelosti vrati uvećano za iznos osnovne referentne stope, koja se određuje i objavljuje na temelju pravila o državnim potporama, uvećane za 100 baznih bodova, izuzev u slučaju iz članka 15. stavka 5. točke a) podtočke 6. Zakona kada korisnik potpore nije dužan vraćati eventualno iskorištenu potporu
+2. da Ministarstvo gospodarstva može jednostrano raskinuti Sporazum, bez plaćanja naknade bilo koje vrste, osobito u sljedećim slučajevima:
+a) ako korisnik potpore bez opravdanog razloga ne ispuni bilo koju od obveza utvrđenu Zakonom i Sporazumom
+b) ako se tijekom trajanja Sporazuma dogodi jedna od sljedećih situacija - nad korisnikom potpore se pokrene postupak predstečajne nagodbe ili se otvori stečajni postupak ili započne postupak likvidacije, ako je obustavio poslovne aktivnosti, ako je predmetom kaznenih i prekršajnih postupaka zbog navedenih aktivnosti ili je u analognoj situaciji koja proizlazi iz sličnog postupka predviđenog propisima Republike Hrvatske
+c) ako Ministarstvo gospodarstva ima dokaze koji se tiču korisnika potpore ili bilo kojeg drugog s njime povezanog subjekta ili osobe, o prijevari, korupciji, sudjelovanju u zločinačkoj organizaciji ili bilo kojoj drugoj nezakonitoj aktivnosti i aktivnosti štetnoj za financijske interese Republike Hrvatske
+d) ako korisnik potpore daje lažne ili nepotpune izjave i isprave u svrhu dobivanja potpora ili daje izvješća koja ne odražavaju stvarno stanje
+e) ako Ministarstvo gospodarstva ima dokaze o korisniku potpore ili o s njime povezanom subjektu ili osobi, o značajnim pogreškama, nepravilnostima i prijevarama u postupku dodjele ili provedbe Sporazuma i
+f) u slučaju da korisnik potpore na drugi način povrijedi odredbe Sporazuma ili Zakona.
+3. kojom se utvrđuje da je u slučaju raskida Sporazuma iz točke 2. ovoga članka, korisnik potpore dužan u cijelosti vrati ukupno primljeni iznos potpore uvećano za iznos osnovne referentne stope, koja se određuje i objavljuje na temelju pravila o državnim potporama, uvećane za 100 baznih bodova
+4. kojom se utvrđuje da u slučaju raskida Sporazuma, korisniku potpore prestaje pravo na potporu
+5. kojom se utvrđuje da prije raskida Sporazuma, ili umjesto raskida Sporazuma, Ministarstvo gospodarstva može prekinuti plaćanja kao mjeru predostrožnosti bez slanja prethodne obavijesti korisniku potpore i
+6. kojom se utvrđuje da strane ovog Sporazuma mogu sporazumno raskinuti Sporazum, o čemu mora biti sačinjen pisani sporazum o raskidu Sporazuma, kojim će se utvrditi posljedice raskida Sporazuma u skladu sa Zakonom i Uredbom Komisije (EU) br. 651/2014 od 17. lipnja 2014.
