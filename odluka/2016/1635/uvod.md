@@ -1,0 +1,1 @@
+Na temelju članka 4. stavka 1. Zakona o elektroničkim komunikacijama (»Narodne novine«, br. 73/08, 90/11, 133/12, 80/13 i 71/14) i članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/11 i 119/14), Vlada Republike Hrvatske je na sjednici održanoj 13. srpnja 2016. godine donijela
