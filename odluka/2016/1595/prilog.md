@@ -1,0 +1,3 @@
+[1] U razdoblju od 1. srpnja do 31. prosinca 2016. novčanice serije 2000. te novčanice i kovanice serije 2009. prihvaćat će se usporedno kao sredstvo plaćanja, u omjeru 10.000 starih rubalja za 1 novi rubalj (10.000 : 1).
+U razdoblju od 1. siječnja 2017. do 31. prosinca 2021. novčanice serije 2000. mijenjat će se za novčanice serije 2009. neovisno o iznosu bez ograničenja i naknade.
+64 13.07.2016 Odluka o izmjeni Odluke o načinu otvaranja transakcijskih računa 64 13.07.2016 Odluka o izmjeni Odluke o načinu otvaranja transakcijskih računa 64 13.07.2016 Odluka o izmjeni Odluke o načinu otvaranja transakcijskih računa
