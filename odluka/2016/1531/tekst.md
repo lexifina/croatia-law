@@ -1,0 +1,84 @@
+-REKREATIVNOG CENTRA »BIJELI VRH« U k.o. RUDOPOLJE
+I.
+Izgradnja ZIP LINE 2 građevine u sklopu projekta Sportsko-
+-rekreativnog centra »Bijeli Vrh« na:
+- k.č.br. 945/2 (nastaloj od k.č.br. 945) upisanoj u zk.ul. 726
+- k.č.br. 525/1 i 525/2 (nastalima od k.č.br. 525) upisanima u zk.ul. 831
+- k.č.br. 394, upisanoj u zk.ul. 235
+- k.č.br. 395, upisanoj u zk.ul. 726
+- k.č.br. 396, upisanoj u zk.ul. 49
+- k.č.br. 410, upisanoj u zk.ul. 31
+- k.č.br. 415, upisanoj u zk.ul. 726
+- k.č.br. 417, upisanoj u zk.ul. 726
+- k.č.br. 427, upisanoj u zk.ul. 637
+- k.č.br. 428, upisanoj u zk.ul. 38
+- k.č.br. 526, upisanoj u zk.ul. 726
+- k.č.br. 566, upisanoj u zk.ul. 39
+- k.č.br. 567, upisanoj u zk.ul. 38
+- k.č.br. 609, upisanoj u zk.ul. 266
+- k.č.br. 610, upisanoj u zk.ul. 550
+- k.č.br. 614, upisanoj u zk.ul. 38
+- k.č.br. 618, upisanoj u zk.ul. 502
+- k.č.br. 620, upisanoj u zk.ul. 334
+- k.č.br. 637, upisanoj u zk.ul. 367
+- k.č.br. 638, upisanoj u zk.ul. 662
+- k.č.br. 656, upisanoj u zk.ul. 38
+- k.č.br. 658, upisanoj u zk.ul. 261
+- k.č.br. 661, upisanoj u zk.ul. 254
+- k.č.br. 1682, upisanoj u posjedovni list broj 246 k.o. Rudopolje
+- k.č.br. 1684, upisanoj u posjedovni list broj 246 k.o. Rudopolje
+- k.č.br. 1703, upisanoj u posjedovni list broj 246 k.o. Rudopolje
+- k.č.br. 1701/1, upisanoj u posjedovni list broj 246 k.o. Rudopolje
+- k.č.br. 397/2, upisanoj u zk.ul. 606
+- k.č.br. 397/3, upisanoj u zk.ul. 36
+- k.č.br. 408/1, upisanoj u zk.ul. 30
+- k.č.br. 408/2, upisanoj u zk.ul. 420
+- k.č.br. 408/3, upisanoj u zk.ul. 419
+- k.č.br. 409/1, upisanoj u zk.ul. 605
+- k.č.br. 409/6, upisanoj u zk.ul. 605
+- k.č.br. 411/1, upisanoj u zk.ul. 295
+- k.č.br. 411/2, upisanoj u zk.ul. 547
+- k.č.br. 413/3, upisanoj u zk.ul. 604
+- k.č.br. 413/4, upisanoj u zk.ul. 600
+- k.č. br. 413/5, upisanoj u zk.ul. 601
+- k.č.br. 413/6, upisanoj u zk.ul. 36
+- k.č.br. 413/7, upisanoj u zk.ul. 603
+- k.č.br. 425/1, upisanoj u zk.ul. 1
+- k.č.br. 425/2, upisanoj u zk.ul. 432
+- k.č.br. 425/3, upisanoj u zk.ul. 430
+- k.č.br. 426/1, upisanoj u zk.ul. 367
+- k.č.br. 426/2, upisanoj u posjedovni list 73 k.o. Rudopolje
+- k.č.br. 426/3, upisanoj u zk.ul. 611
+- k.č.br. 492/1, upisanoj u zk.ul. 783
+- k.č.br. 564/1, upisanoj u zk.ul. 266
+- k.č.br. 564/3, upisanoj u zk.ul. 20
+- k.č.br. 564/4, upisanoj u zk.ul. 331
+- k.č.br. 568/2, upisanoj u zk.ul. 658
+- k.č.br. 571/1, upisanoj u zk.ul. 255
+- k.č.br. 571/2, upisanoj u zk.ul. 25
+- k.č.br. 572/1, upisanoj u zk.ul. 33
+- k.č.br. 572/3, upisanoj u zk.ul. 266
+- k.č.br. 572/4, upisanoj u zk.ul. 265
+- k.č.br. 580/7 upisanoj u zk.ul. 467
+- k.č.br. 580/8, upisanoj u zk.ul. 414
+- k.č.br. 611, upisanoj u zk.ul. 81
+- k.č.br. 612, upisanoj u zk.ul. 635
+- k.č.br. 616/1, upisanoj u zk.ul. 367
+- k.č.br. 616/2, upisanoj u zk.ul. 368
+- k.č.br. 621/1, upisanoj u zk.ul. 331
+- k.č.br. 621/2, upisanoj u zk.ul. 20
+- k.č.br. 639/2, upisanoj u zk.ul. 514
+- k.č.br. 639/3, upisanoj u zk.ul. 12
+- k.č.br. 639/4, upisanoj u zk.ul. 456
+- k.č.br. 657, upisanoj u zk.ul. 39
+- k.č.br. 655/3, upisanoj u zk.ul. 367
+- k.č.br. 659/1, upisanoj u zk.ul. 265
+- k.č.br. 659/2, upisanoj u zk.ul. 266
+- k.č.br. 660/1, upisanoj u zk.ul. 266
+- k.č.br. 660/2, upisanoj u zk.ul. 429
+- k.č.br. 660/3, upisanoj u zk.ul. 32, sve k.o. Rudopolje
+u interesu je Republike Hrvatske.
+II.
+Interes Republike Hrvatske iz točke I. ove Odluke utvrđuje se na temelju pravomoćne lokacijske dozvole Ličko-senjske županije, Upravnog odjela za graditeljstvo, zaštitu okoliša i prirode te komunalno gospodarstvo, Ispostave Otočac, klase: UP/I-350-05/14-01/09, urbroja: 2125/01-08-3-14-06, od 9. lipnja 2014. godine, ispravljene Rješenjem istog tijela, klase: UP/I-350-01/15-01/01, urbroja: 2125/01-08-3-15-02, od 30. ožujka 2015. godine, mišljenja Općinskog vijeća Općine Vrhovine, klase: 943-04/14-01/4, urbroja: 2125/09-01/01/14-5, od 12. studenoga 2014. godine, mišljenja Županijske skupštine Ličko-senjske županije, klase: 360-01/14-01/29, urbroja: 2125/1-01-14-06, od 14. studenoga 2014. godine, te parcelacijskog elaborata tvrtke Geoprojekt d.d. Opatija, br. 01/162/13, ovjerovljenog da je izrađen u skladu s prostorno-planskom dokumentacijom i u skladu s katastarsko-geodetskim propisima.
+III.
+Ova Odluka stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
