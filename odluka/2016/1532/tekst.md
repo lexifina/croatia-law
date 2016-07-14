@@ -1,0 +1,7 @@
+O UTVRĐIVANJU INTERESA REPUBLIKE HRVATSKE ZA IZGRADNJU DJEČJEG VRTIĆA KRNJEVO (LOKACIJA D4-17) U k.o. ZAMET
+I.
+Izgradnja dječjeg vrtića Krnjevo (lokacija D4-17) u k.o. Zamet na nekretnini označenoj kao k.č.br. 1150/2, vinograd, površine 113 m2, upisanoj u zk.ul.br. 150 k.o. Zamet, vlasništvo Mulac Nikole (Josipov), Zamet 62, u cijelosti, u interesu je Republike Hrvatske.
+II.
+Interes Republike Hrvatske iz točke I. ove Odluke utvrđuje se na temelju pravomoćne lokacijske dozvole, klase: UP/I-350-05/14-05/17, urbroja: 2170/01-13-01-15-11/ŽS/, od 22. svibnja 2015. godine, izdane od Primorsko-goranske županije, Odjela gradske uprave za provedbu dokumenata prostornog uređenja i građenje Grada Rijeke i Zaključka Županijske skupštine Primorsko-goranske županije, klase: 021-04/15-01/9, urbroja: 2170/1-01-01/5-15-26, od 29. listopada 2015. godine i Zaključka Gradskog vijeća Grada Rijeke, klase: 021-05/15-01/79, urbroja: 2170-01-16-00-15-2, od 24. rujna 2015.godine, iz kojih je vidljivo da su navedena tijela suglasna sa predmetnom izgradnjom.
+III.
+Ova Odluka stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
