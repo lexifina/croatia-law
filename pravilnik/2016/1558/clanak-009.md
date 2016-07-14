@@ -1,0 +1,2 @@
+# Članak 9.
+U članku 21. stavku 9. prva rečenica mijenja se i glasi: »Ne dovodeći u pitanje odredbe posebnih propisa vezanih uz označavanje tretiranog sjemena, pakiranje sjemena kategorija osnovno i certificirano sjeme svih generacija, koje je tretirano bilo kojim kemijskim sredstvom, na Certifikatu o sjemenu na pakiranju, Certifikatu proizvođača i na ili unutar pakiranja mora sadržavati naznaku: »tretirano i naziv aktivne tvari«.«.
