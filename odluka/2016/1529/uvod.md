@@ -1,0 +1,1 @@
+Na temelju članka 24. stavaka 1. i 3. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/11 i 119/14), a u vezi s Nacionalnom strategijom kibernetičke sigurnosti (»Narodne novine«, broj 108/15), Vlada Republike Hrvatske je na sjednici održanoj 8. lipnja 2016. godine donijela
