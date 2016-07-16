@@ -1,0 +1,2 @@
+# Članak 11.
+Okvirni broj potrebnih državnih službenika i namještenika u Ministarstvu poljoprivrede prikazan u tablici koja je sastavni dio Uredbe o unutarnjem ustrojstvu Ministarstva poljoprivrede (»Narodne novine«, br. 80/13, 16/14, 50/14, 46/15 i 63/15), zamjenjuje se Okvirnim brojem potrebnih državnih službenika i namještenika u Ministarstvu poljoprivrede koji je sadržan u tablici tiskanoj u privitku ove Uredbe i čini sastavni dio Uredbe o unutarnjem ustrojstvu Ministarstva poljoprivrede.
