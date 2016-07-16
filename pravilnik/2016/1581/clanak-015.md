@@ -1,0 +1,4 @@
+# Članak 15.
+Zdravstvena ustanova iz članka 4. Pravilnika obvezna je objaviti na mrežnim stranicama popis ovlaštenja za provođenje specijalističkog usavršavanja po granama specijalizacije s podacima o glavnom mentoru i vremenskom trajanju programa za koji je ustanova ovlaštena, u roku od 15 dana od dana stupanja na snagu ovoga Pravilnika.
+Listu glavnih mentora i listu mentora iz članka 2. postavka 10. i 11. Pravilnika, koje donosi ravnatelj, zdravstvena ustanova iz članka 4. Pravilnika obvezna je objaviti na mrežnim stranicama u roku od 15 dana od dana stupanja na snagu ovoga Pravilnika.
+Zdravstvena ustanova iz članka 5. Pravilnika obvezna je objaviti na mrežnim stranicama popis ovlaštenja za provođenje specijalističkog usavršavanja po granama specijalizacije s podacima o mentorima i vremenskom trajanju programa za koji je ustanova ovlaštena, u roku od 15 dana od dana stupanja na snagu ovoga Pravilnika.

@@ -1,0 +1,8 @@
+# Članak 5.
+Članak 11. mijenja se i glasi:
+»Zdravstvena ustanova čiji je osnivač Republika Hrvatska, jedinica područne (regionalne) samouprave ili grad sa specijalizantom sklapa ugovor o međusobnim pravima i obvezama.
+Pri sklapanju ugovora iz stavka 1. ovoga članka obveza rada u radnom odnosu na neodređeno vrijeme nakon završetka specijalističkog usavršavanja i položenog specijalističkog ispita ne smije biti ugovorena u trajanju duljem od vremena trajanja specijalizacije.
+Ako specijalizant namjerava otkazati ugovor o radu u zdravstvenoj ustanovi iz stavka 1. ovoga članka i želi zasnovati radni odnos u drugoj zdravstvenoj ustanovi čiji je osnivač Republika Hrvatska, jedinica područne (regionalne) samouprave ili grad, obvezan je zatražiti prethodnu suglasnost ministarstva te naknaditi troškove specijalizacije iz članka 12. stavka 1. ovoga Pravilnika zdravstvenoj ustanovi iz stavka 1. ovog članka.
+Zdravstvena ustanova iz stavka 3. ovoga članka u kojoj specijalizant želi zasnovati radni odnos može umjesto specijalizanta naknaditi troškove specijalizacije zdravstvenoj ustanovi iz stavka 1. ovoga članka.
+Raspisivanje javnog natječaja za zasnivanje radnog odnosa specijalizanta u drugoj zdravstvenoj ustanovi nije potrebno u slučaju kada specijalizant prelazi uz suglasnost ministarstva na istu specijalizaciju iz jedne zdravstvene ustanove u drugu zdravstvenu ustanovu. Za prelazak specijalizanta potrebna je i pisana suglasnost specijalizanta te suglasnost jednog i drugog poslodavca.
+Ako specijalizant otkaže ugovor o radu u zdravstvenoj ustanovi iz stavka 1. ovoga članka bez prethodne suglasnosti ministarstva, obvezan je naknaditi troškove specijalizacije iz članka 12. stavka 1. ovoga Pravilnika, u roku od 30 dana od dana otkaza ugovora o radu.«.

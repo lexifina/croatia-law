@@ -1,0 +1,6 @@
+# Članak 6.
+Članak 12. mijenja se i glasi:
+»Troškovi specijalizacije obuhvaćaju troškove glavnog mentora, mentora i komentora, trošak zdravstvenih ustanova u kojima se obavlja specijalističko usavršavanje, trošak poslijediplomskog specijalističkog studija, trošak završnog i specijalističkog ispita, trošak knjižice o specijalističkom usavršavanju doktora medicine i trošak dnevnika rada doktora medicine na specijalističkom usavršavanju.
+Trošak zdravstvenih ustanova u kojima se obavlja specijalističko usavršavanje utvrđuje se za cijelo razdoblje trajanja specijalizacije u visini četverostrukog iznosa proračunske osnovice koja je važeća u trenutku obavljanja programa.
+Troškove iz stavka 1. ovoga članka snosi podnositelj prijedloga za odobrenje specijalizacije iz članka 9. stavka 1. ovoga Pravilnika.
+Zdravstvenoj ustanovi iz članka 4. ovoga Pravilnika i zdravstvenoj ustanovi, trgovačkom društvu koje obavlja zdravstvenu djelatnost i ordinaciji privatne prakse iz članka 5. ovoga Pravilnika te medicinskom fakultetu u kojoj specijalizant obavlja program specijalističkog usavršavanja, naknada troška iz stavka 2. ovoga članka doznačuje se razmjerno trajanju dijela specijalističkog usavršavanja.«.
