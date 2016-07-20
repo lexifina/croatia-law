@@ -1,0 +1,5 @@
+# Članak 1.
+U Zakonu o informiranju potrošača o hrani (»Narodne novine«, br. 56/13. i 14/14.) članak 1. mijenja se i glasi:
+»Ovim se Zakonom utvrđuju nadležna tijela, zadaće nadležnih tijela, službene kontrole i načini postupanja te se propisuju upravne mjere i prekršajne odredbe za provedbu:
+- Uredbe (EU) br. 1169/2011 Europskog parlamenta i Vijeća od 25. listopada 2011. o informiranju potrošača o hrani, izmjeni uredbi (EZ) br. 1924/2006 i (EZ) br. 1925/2006 Europskog parlamenta i Vijeća te o stavljanju izvan snage Direktive Komisije 87/250/EEZ, Direktive Vijeća 90/496/EEZ, Direktive Komisije 1999/10/EZ, Direktive 2000/13/EZ Europskog parlamenta i Vijeća, direktiva Komisije 2002/67/EZ i 2008/5/EZ i Uredbe Komisije (EZ) br. 608/2004 (SL L 304, 22. 11. 2011.) (u daljnjem tekstu: Uredba (EU) br. 1169/2011);
+- Provedbene uredbe Komisije (EU) br. 828/2014 od 30. srpnja 2014. o zahtjevima za informiranje potrošača o odsutnosti ili smanjenoj prisutnosti glutena u hrani (SL L 228, 31. 7. 2014.) (u daljnjem tekstu: Provedbena uredba Komisije (EU) br. 828/2014).«.
