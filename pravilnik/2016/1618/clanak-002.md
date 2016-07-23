@@ -1,0 +1,3 @@
+# Članak 2.
+(1) Poslove vezane uz topografsku izmjeru, topografske i kartografske baze podataka te izradu službenih državnih karata obavljaju fizičke i pravne osobe posebno ovlaštene za obavljanje stručnih geodetskih poslova u skladu s posebnim zakonom (u daljnjem tekstu: izvoditelj).
+(2) Državna geodetska uprava sukladno zakonu kojim se regulira obavljanje poslova državne izmjere i katastra nekretnina planira i provodi programe topografske izmjere, izrade i održavanja topografskih i kartografskih baza podataka i službenih državnih karata, te osigurava nadzor i kontrolu nad izradom istih prilikom izvođenja radova.
