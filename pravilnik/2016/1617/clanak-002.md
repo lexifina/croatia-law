@@ -1,0 +1,2 @@
+# Članak 2.
+Procjena rizika od katastrofa za područje Republike Hrvatske i procjene rizika od velikih nesreća za područja jedinica lokalne i područne (regionalne) samouprave polazni su dokumenti za donošenje planskih dokumenata na području civilne zaštite i provođenje zadaća definiranih Zakonom o sustavu civilne zaštite, a izrađuju se i donose za područje Republike Hrvatske, županija, Grada Zagreba, gradova i općina.

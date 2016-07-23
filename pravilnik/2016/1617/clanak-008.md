@@ -1,0 +1,7 @@
+## IV. ROKOVI I PODACI ZA PROCJENU RIZIKA
+# Članak 8.
+(1) Podaci za vrijednost nekretnina i pokretnina za procjenu rizika za područje jedinice lokalne i područne (regionalne) samouprave pomoću kojih se određuje šteta prouzročena nekim događajem određuju se na razini županije te su sve jedinice lokalne samouprave dužne koristiti samo taj izvor podataka.
+(2) Procjene rizika od velikih nesreća za područja jedinica lokalne samouprave izrađuju se najmanje jednom u tri godine te se njihovo usklađivanje i usvajanje mora provesti do kraja mjeseca ožujka, a županijskih do početka rujna u svakom trogodišnjem ciklusu.
+(3) Procjene rizika od velikih nesreća za područja lokalne i područne (regionalne) samouprave mogu se izrađivati i češće, ukoliko u trogodišnjem periodu nastupi značajna promjena ulaznih parametara u korištenim scenarijima i postupcima analiziranja rizika ili ako se prepozna nova prijetnja.
+(4) Prve procjene rizika od velikih nesreća za područja općina i gradova moraju biti usvojene do kraja ožujka 2018. godine, a za područja županija i Grada Zagreba do početka rujna 2018. godine. Procjene rizika od velikih nesreća za područja županija izrađuju se po izradi i na temelju rezultata procjena rizika jedinica lokalne samouprave s njihovog područja.
+(5) Procjena rizika od katastrofa za područje Republike Hrvatske izrađuje se jednom u tri godine, a može se izrađivati i češće, ukoliko u trogodišnjem periodu nastupi značajna promjena ulaznih parametara u korištenim scenarijima i postupcima analiziranja rizika ili se prepozna nova prijetnja.

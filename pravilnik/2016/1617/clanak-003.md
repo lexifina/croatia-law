@@ -1,0 +1,5 @@
+## II. SMJERNICE ZA IZRADU PROCJENA RIZIKA
+# Članak 3.
+(1) Smjernice za izradu procjena rizika izrađuju se kako bi rezultati Procjene rizika od katastrofa za područje Republike Hrvatske i procjena rizika od velikih nesreća za područja općina, gradova, županija i Grada Zagreba bili međusobno usporedivi i predstavljali kvalitetne podloge za potrebe upravljanja rizicima i provedbe mjera (politika) smanjenja rizika od velikih nesreća i katastrofa te kako bi prikaz dobivenih rezultata bio jednoobrazan.
+(2) Smjernice za izradu Procjene rizika od katastrofa za područje Republike Hrvatske donosi čelnik središnjeg tijela državne uprave nadležnog za poslove civilne zaštite i namijenjene su za provedbu odabira metodologija i utvrđivanje obveznog sadržaja nacionalne Procjene rizika.
+(3) Kriterije za potrebe izrade smjernica potrebnih za izradu procjena rizika od velikih nesreća za područja jedinica lokalnih i područnih (regionalnih) samouprava propisuje čelnik središnjeg tijela državne uprave nadležnog za poslove civilne zaštite.
