@@ -1,0 +1,4 @@
+# Članak 3.
+(1) U skladu s člankom 9. stavkom 3. Uredbe (EU) br. 576/2013, osim uvjeta iz članka 9. stavka 2. Uredbe (EU) br. 576/2013, na temelju podataka o pojavi zaraznih i nametničkih bolesti u Republici Hrvatskoj i trećim zemljama proporcionalno riziku za javno zdravlje ili zdravlje životinja, čelnik Uprave nadležne za poslove veterinarstva (u daljnjem tekstu Uprava) može rješenjem odrediti i dodatne uvjete za nekomercijalno premještanje kućnih ljubimaca iz Priloga I. dijela B Uredbe (EU) br. 576/2013.
+(2) Dodatne uvjete iz stavka 1. ovog članka, u svrhu informiranja javnosti, Uprava redovito objavljuje na svojim službenim mrežnim stranicama.
+Uvjeti za nekomercijalno premještanje kućnih ljubimaca iz Priloga I. dijela A Uredbe (EU) br. 576/2013 iz trećih zemalja i državnih područja trećih zemalja
