@@ -1,0 +1,1 @@
+Odluka o davanju suglasnosti na prijenos ugovora o koncesiji za zahvaćanje voda radi prodaje na tržištu i za tehnološke i slične potrebe s društva Podravka d.d., Koprivnica na društvo Studenac d.o.o., Lipik (bunari: BJ-1, BJ-2 I ZK-7)
