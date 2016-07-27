@@ -1,0 +1,1 @@
+Odluka o davanju suglasnosti na prijenos Ugovora o koncesiji za zahvaćanje pitke vode (prirodne izvorske vode) radi prodaje na tržištu s društva Podravka d.d., Koprivnica na društvo Studenac d.o.o., Lipik (bunar ZK-8)
