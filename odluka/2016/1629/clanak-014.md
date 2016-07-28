@@ -1,0 +1,12 @@
+## Neispunjavanje zahtjeva vezanih uz kapital
+# Članak 14.
+(1) Iznimno od članka 13. ove Odluke, ako kreditna institucija koja namjerava dati potporu ne ispunjava zahtjev za kombinirani zaštitni sloj dužna je Hrvatskoj narodnoj banci podnijeti zahtjev za izdavanje odobrenja kojim se dopušta ispunjenje zahtjeva za kombinirani zaštitni sloj u određenom roku te zahtjevu za izdavanje odobrenja priložiti ažurirani plan za očuvanje kapitala podnesen Hrvatskoj narodnoj banci u skladu s člankom 143. Zakona o kreditnim institucijama.
+(2) Iznimno od članka 13. ove Odluke, ako bi pružanje potpore uzrokovalo kršenje zahtjeva kreditne institucije koja namjerava dati potporu za kombinirani zaštitni sloj, ona je dužna Hrvatskoj narodnoj banci podnijeti zahtjev za izdavanje odobrenja kojim se dopušta ispunjenje zahtjeva za kombinirani zaštitni sloj u određenom roku te zahtjevu za izdavanje odobrenja priložiti prijedlog plana za očuvanje kapitala iz članka 143. Zakona o kreditnim institucijama.
+(3) U slučaju iz stavaka 1. i 2. ovog članka Hrvatska narodna banka odlučuje o zahtjevu za izdavanje odobrenja prema planu odnosno prijedlogu plana za očuvanje kapitala vodeći pritom računa o sljedećem:
+- prihvatljivosti plana za očuvanje kapitala,
+- planu i vremenskom okviru za povećanje regulatornoga kapitala kako bi se u cijelosti ispunio zahtjev za kombinirani zaštitni sloj,
+- iznosu kapitala za koji kreditna institucija koja namjerava dati potporu ne ispunjava zahtjev za kombinirani zaštitni sloj ili ga pružanjem potpore ne bi ispunjavala,
+- najboljem interesu kreditne institucije koja namjerava dati potporu, uključujući neizravne koristi što proistječu iz stabilnosti grupe kreditnih institucija kao cjeline,
+- svrsi kombiniranoga zaštitnog sloja kapitala i
+- rizicima i koristima izdavanja odobrenja za financijsku stabilnost.
+(4) Ako je kreditna institucija koja namjerava dati potporu društvo kći korisnika potpore ili su kreditna institucija koja namjerava dati potporu i korisnik potpore društva kćeri u istoj grupi kreditnih institucija, Hrvatska narodna banka pri odlučivanju o zahtjevu za izdavanje odobrenja razmatra i je li pružanje financijske potpore nužno kako bi se spriječila vjerojatna propast korisnika potpore ili destabilizacija grupe kreditnih institucija kao cjeline zbog te propasti i nepovoljni učinci na financijsku stabilnost koji proizlaze iz destabilizacije grupe kreditnih institucija, uzimajući pritom u obzir podatke koje je na njezino traženje dostavilo nadležno tijelo korisnika potpore.

@@ -1,0 +1,9 @@
+## Ispunjavanje obveze korisnika potpore prema davatelju potpore
+## Procjena ispunjavanja obveze s osnove primljene potpore
+# Članak 11.
+(1) Kreditna institucija koja namjerava dati potporu i Hrvatska narodna banka pri procjeni je li razumno očekivati da će korisnik potpore po dospijeću platiti kamate i naknadu za potporu te vratiti glavnicu uzimaju u obzir sve okolnosti koje mogu utjecati na sposobnost korisnika potpore na ispunjavanje obveze i rizik nastanka statusa neispunjavanja obveza korisnika potpore, i to posebno:
+- jesu li potrebe korisnika potpore za kapitalom i likvidnošću, u skladu s njegovim stanjem kapitala i likvidnosti te predviđenim potrebama za njima, pokrivene tijekom dovoljno dugog razdoblja, uzimajući u obzir sve relevantne izvore iz kojih bi se te potrebe mogle financirati,
+- mogu li planirane mjere restrukturiranja korisnika potpore i izmjene njegova modela poslovanja i upravljanja rizicima učinkovito pružiti potporu obnavljanju financijskog stanja korisnika potpore u skladu s planiranim rasporedom te omogućavaju li one isplatu glavnice, kamata i naknade u punom iznosu u skladu s rokovima njihova dospijeća i
+- radi potvrde procjena okolnosti iz podstavaka 1. i 2. ovog stavka, analizu financijskog stanja korisnika potpore te unutarnjih i vanjskih uzroka financijskih poteškoća, pogotovo modela poslovanja i upravljanja rizicima korisnika potpore, kao i prošlih, sadašnjih i očekivanih tržišnih uvjeta.
+(2) Procjene okolnosti iz stavka 1. ovog članka trebaju biti usklađene i vjerodostojne te uzimati u obzir stresne uvjete u kojima korisnik potpore posluje, trenutačne tržišne uvjete i mogući nepovoljan razvoj situacije.
+(3) Hrvatska narodna banka pri procjeni uzima u obzir informacije i procjene koje je na njezino traženje dostavilo nadležno tijelo korisnika potpore.

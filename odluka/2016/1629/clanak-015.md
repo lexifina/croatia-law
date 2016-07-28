@@ -1,0 +1,10 @@
+## Neispunjavanje zahtjeva vezanih uz likvidnost
+# Članak 15.
+(1) Iznimno od članka 13. ove Odluke, ako kreditna institucija koja namjerava dati potporu ne ispunjava zahtjeve vezane uz likvidnost navedene u članku 13. ove Odluke ili bi pružanje potpore uzrokovalo kršenja tih zahtjeva, dužna je Hrvatskoj narodnoj banci podnijeti zahtjev za izdavanje odobrenja kojim se dopušta ispunjenje zahtjeva vezanih uz likvidnost u određenom roku te zahtjevu za izdavanje odobrenja priložiti plan za pravodobnu ponovnu uspostavu usklađenosti iz članka 414. Uredbe (EU) br. 575/2013.
+(2) U slučaju iz stavka 1. ovog članka Hrvatska narodna banka odlučuje o zahtjevu za izdavanje odobrenja prema planu za pravodobnu ponovnu uspostavu usklađenosti iz čl. 414 Uredbe (EU) br. 575/2013 vodeći pritom računa o sljedećem:
+- prihvatljivosti plana za pravodobnu ponovnu uspostavu usklađenosti,
+- planu i vremenskom okviru za ispunjavanja zahtjeva vezanih uz likvidnost,
+- iznosu likvidnih sredstava za koji kreditna institucija koja namjerava dati potporu ne ispunjava zahtjeve vezane uz likvidnost ili ih pružanjem potpore ne bi ispunjavala,
+- najboljem interesu kreditne institucije koja namjerava dati potporu, uključujući neizravne koristi što proistječu iz stabilnosti grupe kreditnih institucija kao cjeline i
+- rizicima i koristima izdavanja odobrenja za financijsku stabilnost.
+(3) Ako je kreditna institucija koja namjerava dati potporu društvo kći korisnika potpore ili su kreditna institucija koja namjerava dati potporu i korisnik potpore društva kćeri u istoj grupi kreditnih institucija, Hrvatska narodna banka pri odlučivanju o zahtjevu za izdavanje odobrenja razmatra i je li pružanje financijske potpore nužno kako bi se spriječila vjerojatna propast korisnika potpore ili destabilizacija grupe kreditnih institucija kao cjeline zbog te propasti i nepovoljni učinci na financijsku stabilnost koji proizlaze iz destabilizacije grupe kreditnih institucija, uzimajući pritom u obzir podatke koje je na njezino traženje dostavilo nadležno tijelo korisnika potpore.
