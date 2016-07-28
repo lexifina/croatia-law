@@ -1,0 +1,6 @@
+# Članak 12.
+(1) Komora je dužna donijeti rješenje o priznavanju inozemne stručne kvalifikacije i dostaviti ga kandidatu najkasnije u roku od tri mjeseca od dana zaprimanja urednog zahtjeva.
+(2) Rok iz stavka 1. ovoga članka može se produžiti najviše za mjesec dana ako za to postoje opravdani razlozi.
+(3) Iznimno, odredbe stavaka 1. i 2. ovoga članka ne primjenjuju se u slučaju provjere kompetentnosti iz članka 7. ovoga Pravilnika, koja se odnosi na provjeru poznavanja zakonodavstva Republike Hrvatske potrebnog za obavljanje poslova revizije a vezano za područje računovodstva, revizije, trgovačkog prava, poreznog prava i radnog prava odnosno polaganje ispitnih razlika.
+(4) Ako, u postupku pokrenutom na uredan zahtjev kandidata, Komora ne donese rješenje o priznavanju inozemne stručne kvalifikacije i ne dostavi ga kandidatu u roku iz stavka 1. ovoga članka, odnosno u slučaju opravdanih razloga u roku iz stavaka 2. i 3. ovoga članka, smatrat će se da je zahtjev kandidata usvojen. U tom slučaju kandidat ima pravo tražiti od Komore donošenje rješenja kojim se utvrđuje da je zahtjev kandidata usvojen, a koje je Komora obvezna izdati u roku od osam dana od dana traženja kandidata.
+(5) Protiv rješenja Komore iz stavka 1. i stavka 4. ovoga članka, kandidat može pokrenuti upravni spor pred nadležnim upravnim sudom.

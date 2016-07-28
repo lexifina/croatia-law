@@ -1,0 +1,11 @@
+## Provjera kompetentnosti
+# Članak 7.
+(1) U postupku priznavanja inozemne stručne kvalifikacije, neovisno radi li se o državljaninu Republike Hrvatske ili o državljaninu države članice ili treće zemlje, ocjenjuju se:
+a) program obrazovanja i uvjeti za obrazovanje u drugoj državi članici ili trećoj zemlji gdje je kandidat stekao inozemnu stručnu kvalifikaciju
+b) trajanje postupka obrazovanja
+c) pravo na temelju kojeg se izdaje potvrda kompetentnosti ili dokaz o stručnoj kvalifikaciji u državi u kojoj je ista stečena i
+d) druge okolnosti koje su od važnosti za postupak priznavanja inozemne stručne kvalifikacije.
+(2) Kandidat, neovisno je li državljanin Republike Hrvatske ili je državljanin države članice ili treće zemlje, obvezan je proći provjeru kompetentnosti koja se odnosi na provjeru poznavanja zakonodavstva Republike Hrvatske potrebnog za obavljanje poslova revizije a vezano za područje računovodstva, revizije, trgovačkog prava, poreznog prava i radnog prava.
+(3) Za kandidata za kojeg Komora u tijeku postupka priznavanja inozemne stručne kvalifikacije utvrdi da se program obrazovanja kojeg je pohađao kandidat znatno razlikuje od programa polaganja ispita za stjecanje zvanja ovlaštenog revizora koji je predviđen Zakonom i Pravilnikom Komore o stručnom osposobljavanju i načinu polaganja stručnog ispita za stjecanje zvanja ovlaštenog revizora, provjera kompetentnosti iz stavka 2. ovoga članka obvezno sadrži i polaganje ispitne razlike.
+(4) Ispitne razlike iz stavka 3. ovoga članka utvrđuju se usporedbom obrazovanja odnosno stručnog osposobljavanja koje je za obavljanje poslova revizije propisano u Republici Hrvatskoj i onog koje se zahtijeva u državi članici ili trećoj zemlji u kojoj je kandidat stekao svoje kvalifikacije, odnosno iz koje dolazi. Ispitne razlike obuhvaćaju one obrazovne sadržaje koji su prijeko potrebni za obavljanje poslova revizije u Republici Hrvatskoj te poznavanje pravila revizorske struke.
+(5) Bitno različit sadržaj iz stavka 3. ovoga članka podrazumijeva sadržaj programa osposobljavanja odlučujućeg za obavljanje profesije a koji je, glede njegova trajanja i/ili obuhvata područja, značajno različit od stručnog osposobljavanja i programa polaganja ispita za stjecanje zvanja ovlaštenog revizora u Republici Hrvatskoj koji je propisan Zakonom.

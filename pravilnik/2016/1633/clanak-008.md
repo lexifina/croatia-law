@@ -1,0 +1,3 @@
+# Članak 8.
+(1) U postupku priznavanja inozemne stručne kvalifikacije Komora može zatražiti mišljenje odgovarajuće obrazovne ustanove (javna visoka učilišta) ili centra za pomoć (Nacionali ENIC/NARIC ured), koji su dužni svoje mišljenje dostaviti u rokovima iz zakona kojim se uređuju regulirane profesije i priznavanje inozemnih stručnih kvalifikacija. Mišljenje odgovarajuće obrazovne ustanove ili centra za pomoć, nije obvezujuće za Komoru u postupku priznavanja inozemne stručne kvalifikacije.
+(2) U slučaju kad Komora utvrdi da postoje bitne razlike u stručnim kvalifikacijama kandidata koje se ne mogu nadoknaditi provedbom provjere kompetentnosti iz članka 7. ovoga Pravilnika, rješenjem će se odbiti zahtjev za priznavanje inozemne stručne kvalifikacije.

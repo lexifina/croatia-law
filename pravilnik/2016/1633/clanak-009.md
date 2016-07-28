@@ -1,0 +1,6 @@
+## Program provjere kompetentnosti i ispitni rokovi
+# Članak 9.
+(1) Komora utvrđuje program provjere kompetentnosti kandidata prema kojem se provodi provjera poznavanja zakonodavstva Republike Hrvatske i polaganje ispitne razlike, na koji suglasnost daje Odbor za javni nadzor revizije.
+(2) Provjera poznavanja zakonodavstva Republike Hrvatske i polaganje ispitne razlike, provodi se na hrvatskom jeziku.
+(3) Komora je dužna kandidatu omogućiti prvi izlazak na ispit radi provjere kompetentnosti (poznavanje zakonodavstva Republike Hrvatske i polaganje ispitne razlike) unutar šest mjeseci od dana podnošenja urednog zahtjeva kandidata. Kandidatu koji je, osim provjere zakonodavstva Republike Hrvatske, obvezan polagati ispitnu razliku, Komora mora dati popis obrazovnih sadržaja koji podliježu provjeri jer nisu obuhvaćeni kandidatovim dokazima o obrazovnoj odnosno stručnoj kvalifikaciji, a koji su bitni za obavljanje poslova revizije u Republici Hrvatskoj.
+(4) Kandidat koji ne zadovolji na ispitu provjere kompetentnosti, može podnijeti zahtjev za ponavljanje ispita u roku od 15 dana od dana održavanja ispita. Ako kandidat ni u ponovljenom roku ne zadovolji na ispitu provjere kompetentnosti, Komora rješenjem odbija zahtjev za priznavanje inozemne stručne kvalifikacije.

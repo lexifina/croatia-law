@@ -1,0 +1,3 @@
+# Članak 2.
+(1) Ovaj Pravilnik primjenjuje se na državljane Republike Hrvatske, državljane država članica Europske unije, država članica ugovornica Ugovora o Europskom gospodarskom prostoru i Švicarske Konfederacije (dalje u tekstu: države članice) i državljane trećih zemalja, koji su stekli stručne kvalifikacije za obavljanje poslova revizije u državi članici, a koji u Republici Hrvatskoj, kao osobe zaposlene u revizorskom društvu ili zaposlene kod samostalnog revizora/zajedničkom revizorskom uredu, žele obavljati poslove revizije.
+(2) Ovaj Pravilnik primjenjuje se i na državljane trećih zemalja koji su stekli stručnu kvalifikaciju za obavljanje poslova revizije izvan država članica.

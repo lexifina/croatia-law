@@ -1,0 +1,1 @@
+Na temelju članka 32. stavka 2. točke 6., članka 7. stavka 4. Zakona o reviziji (»Narodne novine«, broj 146/05, 139/08 i 144/12, daje u tekstu: Zakon) i članka 4. točke 17. Statuta Hrvatske revizorske komore (»Narodne novine«, broj 43/10, 131/13 i 76/14, dalje u tekstu: Statut), Upravno vijeće Hrvatske revizorske komore na sjednici održanoj 30. svibnja 2016. donijelo je

@@ -1,0 +1,7 @@
+# Članak 6.
+(1) U slučaju opravdane sumnje, Komora može zatražiti od nadležnih tijela države članice ili treće zemlje potvrdu o autentičnosti dokaza iz članka 4. stavka 2. točke b) ovoga Pravilnika, izdanih u drugoj državi članici ili trećoj zemlji.
+(2) U slučaju opravdane sumnje, kad je dokaz o formalnom obrazovanju izdala nadležna pravna osoba jedne države članice ili treće zemlje, a uključuje osposobljavanje provedeno u cijelosti ili djelomično u pravnoj osobi osnovanoj na području druge države članice ili treće zemlje, Komora ima pravo od nadležne pravne osobe koja je izdala dokaz zatražiti potvrdu o tome:
+a) je li program osposobljavanja proveden u pravnoj osobi jedne države članice ili treće zemlje potvrdila nadležna pravna osoba druge države članice ili treće zemlje koja je izdala dokaz
+b) je li dokaz o formalnom obrazovanju jednak onome koji bi bio izdan da je osposobljavanje u cijelosti izvedeno u državi članici ili u trećoj zemlji koja je izdala dokaz i
+c) dodjeljuju li se dokazom o formalnom obrazovanju jednaka prava na području države članice ili treće zemlje koja je izdala dokaz.
+(3) U slučaju opravdane sumnje, Komora može od nadležnog tijela matične države članice putem Informacijskog sustava unutarnjeg tržišta (IMI sustav) ili od nadležnog tijela treće zemlje zatražiti potvrdu da kandidat nema prekid ili zabranu obavljanja poslova revizije zbog teže povrede pravila struke ili pravomoćne presude za kazneno djelo povezano s obavljanjem profesionalne djelatnosti.
