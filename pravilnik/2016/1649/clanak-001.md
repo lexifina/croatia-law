@@ -1,0 +1,6 @@
+## O IZMJENAMA I DOPUNAMA PRAVILNIKA O ULOVU, UZGOJU I PROMETU TUNE (Thunnus thynnus), IGLUNA (Xiphias gladius) I IGLANA (Tetrapturus belone)
+# Članak 1.
+U Pravilniku o ulovu, uzgoju i prometu tune (Thunnus thynnus), igluna (Xiphias gladius) i iglana (Tetrapturus belone) (»Narodne novine« br. 2/16 i 31/16) u članku 4. stavku 15. posljednja rečenica briše se te se dodaje:
+»Vlasnik/ovlaštenik povlastice za gospodarski ribolov na moru dodijeljenu Državnu i/ili Trajnu individualnu kvotu može ustupiti drugom ovlašteniku povlastice za gospodarski ribolov na moru za tekuću godinu ili za višegodišnji period, vodeći računa o odredbama članka 3. stavka 2. ovoga Pravilnika, uz prethodnu dostavu Izjave o ustupanju kvote (Prilog 1. ovoga Pravilnika) Ministarstvu. Vlasnici/ovlaštenici povlastice iz stavka 5. ovog članka mogu međusobno ustupati ukupnu dodijeljenu Državnu i/ili Trajnu individualnu kvotu ili njen dio dok vlasnici/ovlaštenici iz stavka 6. ovog članka mogu ustupati isključivo ukupnu Državnu i Trajnu individualnu kvotu koja je dodijeljena tijekom tekuće godine.«
+Stavak 18. mijenja se i glasi:
+»(18) Izjavu o ustupanju kvote vlasnik/ovlaštenik plovila dužan je dostaviti Ministarstvu najkasnije tri dana od dostave Izjave o prihvaćanju dijela kvote.«
