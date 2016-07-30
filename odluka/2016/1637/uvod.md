@@ -1,0 +1,1 @@
+Na temelju članka 62. stavka 1. Zakona o zaštiti prirode (»Narodne novine«, broj 80/13) i članka 30. stavka 3., a u vezi s člankom 32. stavkom 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/11 i 119/14), Vlada Republike Hrvatske je na sjednici održanoj 13. srpnja 2016. godine donijela
