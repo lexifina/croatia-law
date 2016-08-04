@@ -1,0 +1,4 @@
+# Članak 95.
+(1) Službena isprava u vezi sa subjektom može se smatrati dokumentiranim dokazom ako sadrži bilo adresu sjedišta subjekta u državi članici i drugoj jurisdikciji u kojoj subjekt tvrdi da je rezident ili u državi članici ili drugoj jurisdikciji u kojoj je subjekt osnovan ili organiziran, u skladu s člankom 89. stavkom 1. točkom 3. ovoga Pravilnika.
+(2) Adresa sjedišta subjekta u načelu je mjesto u kojem se nalazi mjesto njegove stvarne uprave. Adresa financijske institucije koja vodi račun subjekta, poštanski pretinac ili adresa koja se upotrebljava isključivo za primanje pošte nije adresa sjedišta subjekta osim ako je takva adresa jedina adresa koju upotrebljava subjekt te se ona pojavljuje kao registrirana adresa subjekta u dokumentima o osnivanju subjekta.
+(3) Adresa koja je dana uz nalog za zadržavanje svih poštanskih pošiljaka na toj adresi, nije adresa sjedišta subjekta.

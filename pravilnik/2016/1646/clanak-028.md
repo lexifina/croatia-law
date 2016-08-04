@@ -1,0 +1,3 @@
+# Članak 28.
+Izvještajne financijske institucije obvezne su provesti postupke na osnovi kojih osoba u banci koja je zadužena za poslovanje sa strankama može utvrditi svaku promjenu okolnosti u odnosu na račun. Osobito ako osoba u banci zadužena za poslovanje sa strankama dobije obavijest da imatelj računa ima novu adresu za zaprimanje pismena u državi članici i drugoj jurisdikciji, izvještajne financijske institucije obvezne su novu adresu smatrati promjenom okolnosti i ako odluče primijeniti članak 19. ovoga Pravilnika, dužne su od imatelja računa prikupiti odgovarajuću dokumentaciju.
+2.2.10. Rokovi za postupke provjere računa i izvješćivanja

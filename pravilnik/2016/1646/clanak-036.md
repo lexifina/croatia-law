@@ -1,0 +1,5 @@
+# Članak 36.
+Radi utvrđivanja je li subjekt osoba o kojoj se izvješćuje, izvještajne financijske institucije obvezne su provesti sljedeće postupke provjere:
+1. provjera informacija koje se čuvaju u regulatorne svrhe ili radi poslovnog odnosa sa strankom (uključujući informacije prikupljene u skladu s propisima koji uređuju područje sprječavanja pranja novca i financiranja terorizma), a u svrhu utvrđivanja je li imatelj računa rezident u državi članici i drugoj jurisdikciji, pri čemu se kao kriteriji utvrđivanja rezidentnosti imatelja računa uzimaju u obzir podaci o mjestu osnivanja, sjedištu ili adresi u državi članici i drugoj jurisdikciji,
+2. ako informacije upućuju na to da je imatelj računa rezident u državi članici i drugoj jurisdikciji, izvještajne financijske institucije obvezne su račun smatrati računom o kojem se izvješćuje, osim ako pribave izjavu o rezidentnosti imatelja računa ili, na temelju informacija kojima raspolažu ili javno dostupnih informacija, utvrde da imatelj računa nije osoba o kojoj se izvješćuje.
+4.1.5. Utvrđivanje je li određeni subjekt pasivni subjekt koji nije financijska institucija

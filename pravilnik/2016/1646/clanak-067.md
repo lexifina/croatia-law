@@ -1,0 +1,3 @@
+# Članak 67.
+Vlasnički udjel podrazumijeva, u slučaju partnerstva koje je financijska institucija, udjel u kapitalu ili udjel u dobiti na temelju partnerstva. U slučaju trusta koji je financijska institucija, vlasničkim udjelom smatra se udjel koji drži osoba koju se smatra vlasnikom imovine ili korisnikom trusta u cijelosti ili njegova dijela ili svaka druga fizička osoba koja ima stvarnu kontrolu nad trustom. Osoba o kojoj se izvješćuje smatrat će se korisnikom trusta ako takva osoba o kojoj se izvješćuje ima pravo izravno ili neizravno (osobito posredstvom ovlaštene osobe) primati obveznu raspodjelu imovine ili može primiti, izravno ili neizravno, diskrecijsku raspodjelu imovine iz trusta.
+7.19. Ugovor o osiguranju
