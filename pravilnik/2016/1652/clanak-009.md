@@ -1,0 +1,8 @@
+## Otpornost opreme s obzirom na zahtjeve na okoliš
+# Članak 9.
+(1) Klimatski uvjeti: uređaji izvan zaštićenih prostora moraju raditi na temperaturama između -25 °C i 55 °C, te u relativnoj vlazi od 5 % do 95 %. Sirene montirane na stupovima moraju podnijeti brzinu vjetra ovisno o statističkim podacima o brzini vjetra za pojedino područje, a minimalno od 120 km/h. Sirene moraju imati odgovarajuću zaštitu od atmosferskih oborina i prašine (stupnja IP65) i antikorozivnu zaštitu.
+(2) Električko okruženje: električki uvjeti u kojima će oprema raditi određeni su uvjetima električkog okruženja Republike Hrvatske (norme EN 55011:1998.+A1:1999.;)
+(3) Elektromagnetsko okruženje: elektromagnetski uvjeti u kojima će oprema raditi moraju zadovoljavati norme (EN 61000-3-2:1995 + A1:1998+A2:2000, EN 61000-3-31995., EN 50130-4:1995) koje određuju normalni rad elektroničke opreme, s obzirom na elektromagnetsko okruženje i smetnje.
+(4) Zaštita od gromova: sva instalirana oprema treba imati ugrađenu zaštitu od udara groma uzemljivačima vodova koji moraju zadovoljavati propisane uvjete za zaštitu od udara groma.
+(5) Tehnički zahtjevi na okoliš - emitiranje: sva instalirana oprema ili njezini dijelovi ne smije utjecati na okolinu niti djelatnike (radijacija, buka, toplina), i ne smije postojati međudjelovanje s drugom opremom. Vanjski dijelovi opreme trebaju biti zaštićeni odgovarajućim filtrima kako bi se u najvećoj mogućoj mjeri smanjilo međudjelovanje s ostalom opremom.
+(6) Elektromagnetsko zračenje: sva oprema mora zadovoljavati trenutno važeće propise Republike Hrvatske o elektromagnetskom zračenju.

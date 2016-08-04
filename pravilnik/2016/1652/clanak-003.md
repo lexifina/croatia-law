@@ -1,0 +1,4 @@
+# Članak 3.
+(1) Za uspostavu internog sustava uzbunjivanja i obavješćivanja u objektima za koje se temeljem članka 39. Zakona o sustavu civilne zaštite mora osigurati uzbunjivanje i obavješćivanje te preko istog osigurati provedbu javnog uzbunjivanja, mogu se koristiti razglasni i video sustavi instalirani u objekte i njihovu okolinu te ostali suvremeni komunikacijski sustavi kojima se može osigurati pouzdano i brzo uzbunjivanje (GSM, interni sustavi elektroničke pošte, interni radio komunikacijski sustavi).
+(2) Za korištenje resursa iz stavka 1. ovog članka vlasnici i korisnici objekata dužni su izraditi elaborat.
+(3) Elaborat iz stavka 2. ovog članka treba sadržavati upute o korištenju resursa, odluku o odgovornim osobama zaduženim za prijem priopćenja o vrsti opasnosti i mjerama koje je potrebno poduzeti i odluku o odgovornim osobama za provedbu uzbunjivanja i obavješćivanja.

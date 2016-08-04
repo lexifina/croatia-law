@@ -1,0 +1,4 @@
+## Uređaj za prijem priopćenja o vrsti opasnosti i mjerama zaštite koje je potrebno poduzeti
+# Članak 8.
+(1) Za prijem priopćenja u objektima za koje su vlasnici i korisnici na temelju članka 39. Zakona o sustavu civilne zaštite dužni osigurati prijem priopćenja o vrsti opasnosti i mjerama za zaštitu i spašavanje koje je potrebno poduzeti, do definiranja i izgradnje posebnog sustava za tu namjenu, mogu koristiti sve vrste uređaja predviđene za prijem elektroničke pošte.
+(2) Vlasnici i korisnici objekata iz stavka 1. ovog članka dužni su nabaviti i instalirati posebne uređaje za prijem priopćenja o vrsti opasnosti i mjerama za zaštitu i spašavanje u roku od godine dana nakon što ih središnje tijelo državne uprave nadležno za poslove civilne zaštite (u daljnjem tekstu: Državna uprava) izvijesti o obvezi uspostave posebnog sustava i tehničkim karakteristikama prijemnika za tu namjenu.

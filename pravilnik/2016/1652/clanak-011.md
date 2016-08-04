@@ -1,0 +1,6 @@
+## Mjerenja
+# Članak 11.
+(1) Mjerenje razine zvučnog tlaka znaka za uzbunjivanje obavlja se pomoću zvukomjera na frekvencijskoj karakteristici »A« i vremenskoj karakteristici pokaznog instrumenta »sporo«. Pritom se aritmetička sredina se uzima kao mjerni rezultat, a izračunava se na osnovi tri uzastopna mjerenja koja se međusobno ne razlikuju za više od 1 dB. Svako mjerenje obavlja se 5 s nakon starta zvučnog znaka.
+(2) Mjerenje razine zvučnog tlaka govornog signala obavlja se pomoću zvukomjera na frekvencijskoj karakteristici »A« i vremenskoj karakteristici pokaznog instrumenta »sporo«. Pritom se kao rezultat mjerenja uzima srednja vrijednost razina koje se uzastopno dobivaju tijekom 3 mjerenja.
+(3) Mjerenje usmjerenih karakteristika sirena obavlja se u vodoravnoj ravnini na udaljenosti 30 m od sirene. Tijekom procesa mjerenja mjerni uređaji se postavljaju na svakih 100 m kružnice oko sirene.
+(4) Mjerenje frekvencije zvučnog tlaka znaka za uzbunjivanje obavlja se pomoću FFT analizatora ili 1/12 oktave analizatora kada sirena daje jednolični zvučni signal koji se kreće između 400 Hz i 440 Hz. Isto se pravilo primjenjuje kada se analiziraju i druge frekvencije zvučnog znaka koje variraju od 220 Hz do 1600 Hz.
