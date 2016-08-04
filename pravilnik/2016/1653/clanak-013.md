@@ -1,0 +1,5 @@
+# Članak 13.
+(1) Centri 112 i pravne osobe iz članka 3. ovog Pravilnika dužni su redovno provoditi ispitivanje ispravnosti sirena i sustava za uzbunjivanje svake prve subote u mjesecu u 12 sati korištenjem znaka »prestanak opasnosti«, osim ako je taj dan blagdan u Republici Hrvatskoj.
+(2) Pravne osobe iz članka 3. ovog Pravilnika dužne su izvijestiti centar 112 o rezultatima ispitivanja ispravnosti sirena i sustava za uzbunjivanje.
+(3) Osim za redovno ispitivanje ispravnosti sustava za uzbunjivanje, sirene se mogu uključivati i koristiti i u slučajevima izvanrednog ispitivanja za potrebe razvoja i rekonstrukcije sustava za uzbunjivanje, održavanja vježbi i obilježavanja događaja značajnih za Republiku Hrvatsku uz prethodno pribavljenu pisanu suglasnost Državne uprave.
+(4) Priopćenja za stanovništvo o ispitivanju ispravnosti sustava za uzbunjivanje, održavanju vježbi ili obilježavanju događaja, dostavlja se medijima putem centara 112 ili operativno komunikacijskog centra Državne uprave u sjedištu.

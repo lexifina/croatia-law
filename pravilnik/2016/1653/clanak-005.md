@@ -1,0 +1,4 @@
+# Članak 5.
+(1) Pravne osobe iz članka 3. točke 1. ovog Pravilnika dužne su uspostaviti upravljanje i nadzor nad sirenama svog sustava za uzbunjivanje iz operativnog središta pravne osobe i iz nadležnog centra 112 te snositi troškove uspostavljanja i korištenja komunikacijske veze za potrebe upravljanja i nadzora sirenama iz nadležnog centra 112.
+(2) Na sustav daljinskog upravljanja sirenama Državne uprave mogu se povezati i sirene koje nisu vlasništvo Državne uprave.
+(3) Ako sustav za daljinsko upravljanje sirenama nije uspostavljen te za slučaj neispravnosti sustava, Područni ured za civilnu zaštitu Državne uprave izrađuje poseban plan uključivanja sirena kojim se razrađuju sredstva veze i dežurstvo osoba koje će uključivati sirene po nalogu odgovorne osobe iz centra 112, uključivši i zaposlenike pravnih osoba iz članka 3. ovog Pravilnika.
