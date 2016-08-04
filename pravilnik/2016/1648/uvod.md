@@ -1,0 +1,1 @@
+Na temelju članka 49. stavka 5. Pomorskog zakonika (»Narodne novine«, broj 181/04, 76/07, 146/08, 61/11, 56/13 i 26/15) i članka 39. stavka 1. točke 2. Zakona o sustavu državne uprave (»Narodne novine«, broj 150/11 i 12/13) ministar pomorstva, prometa i infrastrukture donosi

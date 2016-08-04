@@ -1,0 +1,6 @@
+# Članak 11.
+(1) Upravna istraga prekinut će se kada okolnosti pomorske nesreće ukazuju na postojanje kaznenog djela kojim je obuhvaćen i pomorski prekršaj u svezi pomorske nesreće, o čemu će se bez odgađanja obavijestiti državni odvjetnik, kojem će voditelj upravne istrage predati sve dokaze i podatke koji su do tada prikupljeni o pomorskoj nesreći.
+(2) Ako državni odvjetnik odluči ne pokrenuti kazneni progon, voditelj upravne istrage odlučit će o nastavku ili obustavi upravne istrage pomorske nesreće u skladu s odredbama ovoga Pravilnika.
+(3) Upravna istraga obustavit će se kada državni odvjetnik pokrene kazneni progon radi počinjenja kaznenog djela kojim je obuhvaćen i pomorski prekršaj u svezi pomorske nesreće koja je predmet upravne istrage.
+(4) Upravna istraga obustavit će se i u slučajevima kada voditelj upravne istrage utvrdi da nema osnova za pokretanje prekršajnog postupka u svezi pomorske nesreće koja je predmet upravne istrage.
+(5) Upravna istraga neće se obustaviti u slučajevima kada drugo javnopravno tijelo, sukladno svojim zakonskim ovlastima, donese rješenje o pokretanju prekršajnog postupka ili podnese optužni prijedlog sudu protiv okrivljenika radi počinjenja prekršaja koji nije pomorski prekršaj, a u svezi je s pomorskom nesrećom koja je predmet upravne istrage.

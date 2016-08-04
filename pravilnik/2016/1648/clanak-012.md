@@ -1,0 +1,4 @@
+# Članak 12.
+(1) O prekidu i nastavku upravne istrage pomorske nesreće, voditelj upravne istrage donosi zaključak.
+(2) O obustavi upravne istrage voditelj upravne istrage donosi rješenje, uz obvezu da u roku osam dana o razlozima obustave pisano izvijesti oštećenika, ako oštećenik postoji, a u slučaju obustave zbog nepostojanja osnove za pokretanje prekršajnog postupka, dužan je oštećeniku dostaviti pisanu uputu da može samostalno, u svojstvu ovlaštenog tužitelja, podnijeti optužni prijedlog sudu, odnosno tijelu državne uprave nadležnom za vođenje prekršajnog postupka u prvom stupnju.
+(3) Protiv rješenja o obustavi upravne istrage, kojeg je donijela nadležna lučka kapetanija, oštećenik može podnijeti žalbu Ministarstvu, a ako je rješenje o obustavi donijelo Ministarstvo, tada oštećenik može pokrenuti upravni spor.

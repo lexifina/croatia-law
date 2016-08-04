@@ -1,0 +1,5 @@
+## Voditelj upravne istrage
+# Članak 9.
+(1) Voditelja upravne istrage određuje lučki kapetan mjesno nadležne lučke kapetanije, osim u slučaju pomorske nesreće u koju su uključeni umjetni otoci, uređaji i naprave unutar epikontinentalnog i zaštićeno ekološko-ribolovnog pojasa ili su u nesreću uključeni plovni ili drugi pomorski objekti hrvatske državne pripadnosti, a nesreća se dogodila izvan teritorijalnog mora i unutarnjih morskih voda Republike Hrvatske, kada voditelja upravne istrage određuje Ministarstvo.
+(2) Za voditelja upravne istrage može se odrediti samo ona službena osoba koja obavlja poslove inspekcijskog nadzora sigurnosti plovidbe u skladu s propisima o unutarnjem redu Ministarstva, koja je dodatno osposobljena za vođenje upravne istrage pomorske nesreće prema programu stručnog osposobljavanja kojeg organizira i provodi Ministarstvo.
+(3) Na voditelja upravne istrage, njegova prava, obveze i ovlasti, primjenjuju se propisi kojima se uređuje obavljanje inspekcijskog nadzora sigurnosti plovidbe.
