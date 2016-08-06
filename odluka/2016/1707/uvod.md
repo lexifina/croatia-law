@@ -1,0 +1,1 @@
+Na temelju članka 19. stavka 1. Zakona o financiranju političkih aktivnosti i izborne promidžbe (»Narodne novine«, br. 24/11, 61/11, 27/13, 48/13 - pročišćeni tekst i 2/14 - Odluka Ustavnog suda Republike Hrvatske), Vlada Republike Hrvatske je na sjednici održanoj 4. kolovoza 2016. godine donijela
