@@ -1,0 +1,8 @@
+## Pregled snimljenog materijala
+# Članak 9.
+(1) Pravne i fizičke osobe kojima je izdano odobrenje za snimanje iz zraka dužne su zračne snimke dostaviti na pregled Državnoj geodetskoj upravi odmah po obavljenom snimanju, a najkasnije u roku od osam dana od završetka snimanja.
+(2) U slučaju da snimanje nije izvršeno, pravne i fizičke osobe kojima je izdano odobrenje za snimanje iz zraka, dužne su o tome obavijestiti Državnu geodetsku upravu najkasnije u roku od osam dana od isteka odobrenja za snimanje iz zraka.
+(3) Iznositi iz Republike Hrvatske ili razmjenjivati putem interneta mogu se samo zračni snimci koji su pregledani sukladno stavku 1. ovoga članka i koje odobri Državna geodetska uprava.
+(4) Iznimno je dozvoljeno privremeno iznošenje nepregledanog snimljenog materijala u inozemstvo uz odobrenje Državne geodetske uprave radi obrade zračnih snimaka i to samo u slučajevima kada obradu nije moguće izvršiti u Republici Hrvatskoj sukladno članku 6. stavku 6. ove Uredbe.
+(5) Zračni snimci iz stavka 4. ovoga članka ne mogu se iznositi putem posrednika i komercijalnih prijevoznih tvrtki, već osoba koja iznosi navedeni materijal mora biti zaposlenik tijela ili pravne osobe naručitelja snimanja. Nakon obrade naručitelj snimanja dužan je dostaviti zračne snimke na pregled u Državnu geodetsku upravu u roku od osam dana.
+(6) Državna geodetska uprava će odmah po izdavanju odobrenja za iznošenje zračnih snimaka dostaviti nadležnoj ustrojstvenoj jedinici Ministarstva unutarnjih poslova primjerak odobrenja kojim se odobrava iznošenje zračnih snimaka iz Republike Hrvatske, uz navođenje vremena i graničnog prijelaza na kojem će biti iznijete.

@@ -1,0 +1,6 @@
+## Snimanje u području razgraničenja sa susjednim državama kada je neophodno korištenje zračnog prostora susjednih država
+# Članak 8.
+(1) Pravnim i fizičkim osobama koje snimaju iz zraka područje Republike Hrvatske u području razgraničenja sa susjednim državama i kojima je zbog snimanja neophodno korištenje zračnog prostora tih susjednih država, Državna geodetska uprava izdat će odobrenje za snimanje iz zraka pod uvjetom da je prethodno pribavljena suglasnost nadležnih tijela susjedne države čiji se zračni prostor koristi. Državna geodetska uprava će takvu suglasnost zatražiti putem ministarstva nadležnog za vanjske poslove.
+(2) Zahtjev za izdavanje odobrenja za snimanje iz zraka iz stavka 1. ovoga članka naručitelj snimanja dužan je podnijeti Državnoj geodetskoj upravi najmanje 30 radnih dana prije planiranog datuma snimanja.
+(3) Za potrebe pribavljanja suglasnosti iz stavka 1. ovoga članka Državna geodetska uprava dostavlja ministarstvu nadležnom za vanjske poslove cjelokupnu dokumentaciju iz članka 6. stavka 3. ove Uredbe.
+(4) Primjerak odobrenja za snimanje iz zraka područja Republike Hrvatske u području razgraničenja sa susjednim državama, Državna geodetska uprava pravodobno će dostaviti nadležnoj ustrojstvenoj jedinici Ministarstva unutarnjih poslova.
