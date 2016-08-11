@@ -1,0 +1,2 @@
+# Članak 3.
+Djelatnost hitne medicine obuhvaća provođenje mjera i postupaka hitnog izvanbolničkog medicinskog zbrinjavanja na mjestu događaja ili u prostoru za reanimaciju/ambulanti zavoda za hitnu medicinu jedinica područne (regionalne) samouprave (u daljnjem tekstu: Županijski zavod) ili tijekom prijevoza oboljelih i ozlijeđenih osoba prijevoznim sredstvima hitne medicinske službe u odgovarajuću zdravstvenu ustanovu te provođenje mjera i postupaka hitnog bolničkog medicinskog zbrinjavanja u bolničkoj zdravstvenoj ustanovi.

@@ -1,0 +1,2 @@
+# Članak 2.
+Djelatnost hitne medicine organizirana je kao javna hitna medicinska služba koja se po stručno-medicinskoj doktrini i uz uporabu medicinske tehnologije organizira u cilju neprekidnog hitnog medicinskog zbrinjavanja svih osoba kojima je zbog bolesti, stradanja ili ozljede neposredno ugrožen život, pojedini organ ili dijelovi tijela, odnosno kod kojih bi u kratkom vremenu moglo doći do životne ugroženosti, a s ciljem maksimalnog skraćenja vremena od nastanka hitnog stanja do konačnog medicinskog zbrinjavanja.

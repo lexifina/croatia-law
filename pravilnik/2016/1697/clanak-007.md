@@ -1,0 +1,4 @@
+# Članak 7.
+(1) U organizaciju izvanbolničke hitne medicine uključeni su i timovi koje iznad standarda utvrđenih mrežom hitne medicine osigurava jedinica područne (regionalne) samouprave i/ili jedinica lokalne samouprave.
+(2) Na područjima na kojima je zbog tranzita i/ili boravka turista povećan broj korisnika zdravstvene zaštite, jedinica područne (regionalne) samouprave je obvezna, u suradnji s jedinicom lokalne samouprave, turističkom zajednicom, Hrvatskim autocestama, Hrvatskim cestama, Hrvatskim auto-klubom, Hrvatskim ronilačkim savezom i društvima za osiguranje, organizirati i osigurati povećani broj timova hitne medicinske službe na određenome području u odnosu na broj timova određenih mrežom hitne medicine, sukladno posebnom sporazumu koji sklapa s Županijskim zavodom.
+1. Prijavno-dojavna jedinica Županijskog zavoda

@@ -1,0 +1,7 @@
+# Članak 20.
+(1) Županijski zavod zadržava za potrebe svoje evidencije podatke prema propisanim obrascima iz članka 19. stavka 1. podstavaka 1. do 7. ovoga Pravilnika.
+(2) Objedinjeni hitni bolnički prijam zadržava za potrebe svoje evidencije podatke prema propisanim obrascima iz članak 19. stavka 2. podstavaka 1. do 3. ovoga Pravilnika.
+(3) Obrazac iz članka 19. stavka 1. podstavka 5. ovoga Pravilnika sastavni je dio medicinske dokumentacije pacijenta koji se upućuje u zdravstvenu ustanovu radi postupka završnoga liječenja.
+(4) Obrazac iz članka 19. stavka 1. podstavka 6. popunjava Tim 1 ili Tim 2 u dva primjerka, od kojih jedan za potrebe svoje evidencije zadržava Županijski zavod, a drugi je sastavni dio medicinske dokumentacije pacijenta koji se upućuje u zdravstvenu ustanovu radi postupka završnoga liječenja.
+(5) Obrazac trijaže iz članka 19. stavka 2. podstavka 1. ovoga Pravilnika popunjava se u dva primjerka, od kojih jedan za potrebe svoje evidencije zadržava Objedinjeni hitni bolnički prijam, a drugi je sastavni dio medicinske dokumentacije pacijenta koji se upućuje na bolničko liječenje ili u primarnu zdravstvenu zaštitu.
+(6) Obrazac sestrinske dokumentacije iz članka 19. stavka 2. podstavka 3. ovoga Pravilnika popunjavaju se u dva primjerka, od kojih jedan za potrebe svoje evidencije zadržava Objedinjeni hitni bolnički prijam, a drugi je sastavni dio medicinske dokumentacije pacijenta.
