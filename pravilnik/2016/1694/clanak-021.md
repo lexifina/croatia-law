@@ -1,0 +1,5 @@
+## Državne potpore
+# Članak 21.
+(1) Pravila vezana uz državne potpore primjenjiva su samo na korisnike koji provode gospodarsku djelatnost. Utjecaj na trgovinu između država članica u smislu članka 107. stavka 1. UFEU-a mora biti utvrđen od slučaja do slučaja, odnosno na svakom prihvatljivom projektu/operaciji u sklopu Podmjere 7.4. koji provodi korisnik koji ujedno obavlja gospodarsku djelatnost.
+(2) Korisnici koji provode gospodarsku djelatnost i koji su zatražili državnu potporu koja nije izuzeta od obveze prijave Europskoj komisiji u sklopu Podmjere 7.4. obvezni su uz Zahtjev za isplatu/Zahtjev za isplatu predujma dostaviti Agenciji za plaćanja odluku Europske komisije o sukladnosti s člankom 107 stavkom 1. UFEU.
+(3) Svaka potpora za prihvatljive projekte/operacije unutar Podmjere 7.4. koja ispunjava sve opće i posebne uvjete utvrđene u Uredbi (EU) br. 651/2014, za kategorije potpora navedene u članku 53. i članku 55. Uredbe (EU) br. 651/2014, se izuzima od obveze prijave u skladu s odredbama članka 107. stavka 3. UFEU-a.
