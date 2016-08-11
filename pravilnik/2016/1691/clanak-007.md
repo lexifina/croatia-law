@@ -1,0 +1,11 @@
+## Plan za povećanje i održavanje kapitala kreditne institucije koja posluje s poteškoćama
+# Članak 7.
+(1) Agencija ocjenjuje prihvatljivost Zahtjeva kreditne institucije koja posluje s poteškoćama u skladu s pravilima kojima se uređuju državne potpore financijskom sektoru u Europskoj uniji.
+(2) Kako bi Agencija utvrdila jesu li prije podnošenja Zahtjeva pokrenute sve potrebne mjere za otklanjanje poteškoća u poslovanju kreditne institucije koja posluje s poteškoćama, uključujući mjere za povećanje kapitala od strane vlasnika, odnosno dioničara i imatelja relevantnih instrumenata kapitala, Plan za povećanje i održavanje kapitala treba sadržavati sljedeće:
+1. vlastite mjere kreditne institucije koja posluje s poteškoćama za povećanje kapitala
+2. mjere pokrića gubitaka kreditne institucije koja posluje s poteškoćama od strane dioničara i imatelja relevantnih instrumenata kapitala i
+3. zaštitne mjere za sprječavanje odljeva sredstava prije donošenja Odluke o poduzimanju mjera radi sprječavanje nastupa osiguranog slučaja.
+(3) Iz dostavljenog Plana za povećanje i održavanje kapitala mora biti vidljivo sljedeće:
+1. kreditna institucija, njezini dioničari i imatelji relevantnih instrumenata kapitala spremni su dati najveći mogući doprinos ukupnom iznosu sredstava koja su potrebna za pokriće manjka kapitala, dok sredstva kojima Agencija sudjeluje u tom postupku putem mjera za sprječavanje nastupa osiguranog slučaja moraju biti svedena na najmanju moguću mjeru
+2. prijedlog mjera pokrića gubitka kreditne institucije koja posluje s poteškoćama od strane dioničara i imatelja relevantnih instrumenata kapitala mora predvidjeti provedbu smanjenja vrijednosti ili pretvaranje relevantnih instrumenata kapitala sukladno zakonu kojim se uređuje sanacija kreditnih institucija i investicijskih društava.
+(4) Uz navođenje mjera i obrazloženje razloga poduzimanja tih mjera, kreditna institucija koja posluje s poteškoćama treba navesti ukupan iznos kapitala kojeg je moguće prikupiti provedbom mjera iz stavka 2. ovoga članka te iznos sredstava koji je potreban za pokriće preostalog manjka kapitala, a koji se pokriva mjerom za sprječavanje nastupa osiguranog slučaja, odnosno državnom potporom.
