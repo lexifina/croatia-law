@@ -1,0 +1,5 @@
+## Postupak posade vojnog zrakoplova pri pogoršanju meteoroloških uvjeta u letu
+# Članak 109.
+(1) Ako tijekom leta nastupe meteorološki uvjeti koji onemogućuju daljnji let po pravilima vizualnog letenja, posada vojnog zrakoplova obvezna je tražiti prelazak na letenje prema pravilima za instrumentalno letenje od nadležne kontrole zračnog prometa ako je zrakoplov opremljen a posada osposobljena i u trenaži za instrumentalno letenje ili se vratiti na aerodrom uzlijetanja, alternativni ili drugi aerodrom na kojemu su meteorološki uvjeti pogodni za vizualno prilaženje i slijetanje.
+(2) Ako u fazi prilaženja na slijetanje nastupe meteorološki uvjeti koji onemogućuju vizualno prilaženje i slijetanje, a posada vojnog zrakoplova nije osposobljena i/ili nije u trenaži za instrumentalno letenje odnosno zrakoplov nije opremljen za instrumentalno letenje, slijetanje će provesti na alternativni aerodrom na kojem postoje uvjeti za vizualno prilaženje i slijetanje.
+(3) Ako se letačka zadaća provodi helikopterom, u slučaju pogoršanih meteoroloških uvjeta, kao krajnja mogućnost provest će se slijetanje po kriterijima za IASU.

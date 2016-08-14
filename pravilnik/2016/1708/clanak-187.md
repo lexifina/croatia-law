@@ -1,0 +1,3 @@
+## Strukovni nadzor vojnih aerodroma
+# Članak 187.
+Poslovi strukovnog nadzora koji se odnose na vojne aerodrome obuhvaćaju prije svega nadzor nad primjenom propisa o sigurnoj uporabi aerodroma, projektiranju i izgradnji aerodroma i objekata u području aerodroma od značaja za sigurnost vojnog zračnog prometa, održavanju aerodroma i aerodromskih objekata i opreme koje služe za sigurno odvijanje vojnog zračnog prometa, izgradnju, postavljanje i evidenciju zrakoplovnih prepreka na aerodromima, postavljanju i održavanju znakova za uočavanje zrakoplovnih prepreka, stanju operativnih površina, stanju svjetlosnih sustava koji služe za prilaženje, uzlijetanje i slijetanje zrakoplova.
