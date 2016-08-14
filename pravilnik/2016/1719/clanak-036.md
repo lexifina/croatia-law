@@ -1,0 +1,5 @@
+## Način dostave izvještaja
+# Članak 36.
+(1) Izvještaje iz članka 11. stavka 1., članka 14. stavka 1., članka 22. stavka 1. i članka 33. stavka 1. ovoga Pravilnika malo društvo za osiguranje dužno je dostaviti Agenciji u elektroničkom obliku s naprednim elektroničkim potpisom u skladu s tehničkom uputom Agencije.
+(2) Smatra se da je malo društvo za osiguranje dostavilo izvještaje iz stavka 1. ovoga članka u trenutku kada je izvještaj prihvaćen na poslužitelju Agencije za primanje izvještaja.
+(3) U opravdanim slučajevima nemogućnosti dostave na način propisan stavkom 1. ovoga članka, malo društvo za osiguranje dužno je u propisanom roku dostaviti izvještaje iz članka 11. stavka 1., članka 14. stavka 1., članka 22. stavka 1. i članka 33. stavka 1. ovoga Pravilnika u pisanom obliku, neposredno ili poštom u svrhu pravodobnog izvještavanja. Malo društvo za osiguranje dužno je dostaviti izvještaje na način propisan stavkom 1. ovoga članka čim prestanu razlozi nemogućnosti dostave, a najkasnije u roku od 8 dana od isteka roka za dostavu izvještaja.

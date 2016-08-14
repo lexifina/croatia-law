@@ -1,0 +1,10 @@
+## Obrazac GSŠ
+# Članak 19.
+(1) Obrazac GSŠ služi za utvrđivanje granice solventnosti malog društva za osiguranje koje obavlja poslove neživotnih osiguranja odnosno poslove reosiguranja, u skladu s odredbama članka 13. stavaka 3. 4. i 5. ovoga Pravilnika.
+(2) Granica solventnosti na osnovi šteta računa se na sljedeći način:
+1. Prosječni godišnji iznos bruto izdataka za štete za prethodne tri poslovne godine množi se s 0,26. Prosječni godišnji iznos bruto izdataka za štete za prethodne tri poslovne godine iskazan je u obrascu GSŠ pod rednim brojem 1., a pod rednim brojem 4. iskazana je prva vrijednost koju predstavlja iznos prosječnog godišnjeg iznosa bruto izdataka za štete pomnožen odgovarajućim korektivnim faktorom.
+2. Prva vrijednost množi se s omjerom između ukupnih izdataka za štete neto od reosiguranja (u obrascu GSŠ prikazano pod rednim brojem 3.) i ukupnih bruto izdataka za štete (u obrascu GSŠ prikazano pod rednim brojem 2.). Ako je dobiveni rezultat manji od 0,50, množi se s 0,50.
+Iznos ukupnih bruto izdataka za štete za prethodne tri poslovne godine, u smislu odredbi članka 17. stavka 2. ovoga Pravilnika, u obrascu GSŠ prikazan je pod rednim brojem 2. Iznos ukupnih izdataka za štete za prethodne tri poslovne godine neto od reosiguranja, u smislu odredbi članka 17. stavka 2. ovoga Pravilnika, u obrascu GSŠ prikazan je pod rednim brojem 3.
+(3) Pri izračunu godišnjeg iznosa bruto izdataka za štete, iznos izdataka za štete računa se u skladu s odredbama članka 17. stavka 2. ovoga Pravilnika.
+(4) U skladu s člankom 13. stavkom 4. ovoga Pravilnika, pri izračunu prosječnog godišnjeg iznosa bruto izdataka za štete uzima se aritmetička sredina godišnjih iznosa bruto izdataka za štete prethodne tri poslovne godine.
+(5) Iznimno od stavka 4. ovoga članka, u slučaju da malo društvo za osiguranje isključivo (100%) odnosno pretežno (više ili jednako 75%) u portfelju ima osiguranja koja pokrivaju rizike oluje, tuče ili mraza, pri izračunu prosječnog godišnjeg iznosa bruto izdataka za štete uzima se aritmetička sredina prethodnih sedam poslovnih godina.

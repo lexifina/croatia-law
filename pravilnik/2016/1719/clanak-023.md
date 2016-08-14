@@ -1,0 +1,6 @@
+## Obrasci AK - ŽO i AK - NO
+# Članak 23.
+(1) U obrazac AK - ŽO upisuju se podaci za izračun adekvatnosti kapitala malog društva koje obavlja poslove životnih osiguranja na sljedeći način:
+u redak 1. iz obrasca GS - ŽO upisuje se podatak za granicu solventnosti za životna osiguranja izračunat u skladu s odredbama članka 12. ovoga Pravilnika. Pod rednim brojem 2. upisuje se iznos kapitala, a u retke pod rednim brojem 5. i 8. iznos jamstvenog kapitala iz obrasca IK - ŽO. Pod rednim brojem 4. prikazana je jedna trećina iznosa vrijednosti granice solventnosti. Pod rednim brojem 7. unosi se podatak o iznosu apsolutnog praga minimalnog potrebnog kapitala iz članka 158. stavka 1. točke 4. Zakona.
+(2) U obrazac AK - NO upisuju se podaci za izračun adekvatnosti kapitala malog društva koje obavlja poslove neživotnih osiguranja na sljedeći način:
+u redak 1. iz obrasca GS - NO upisuje se podatak za granicu solventnosti za neživotna osiguranja izračunat u skladu s odredbama članka 13. ovoga Pravilnika. Pod rednim brojem 2. upisuje se iznos kapitala, a u retke pod rednim brojem 5. i 8. iznos jamstvenog kapitala iz obrasca IK - NO. Pod rednim brojem 4. prikazana je jedna trećina iznosa vrijednosti granice solventnosti. Pod rednim brojem 7. unosi se podatak o iznosu apsolutnog praga minimalnog potrebnog kapitala iz članka 158. stavka 1. točke 4. Zakona.
