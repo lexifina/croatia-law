@@ -1,0 +1,2 @@
+# Članak 3.
+Fizičke i pravne osobe koje na temelju dokumenata iz članaka 2. ovog Pravilnika ostvaruju pravo na oslobođenje od plaćanja mostarine obavezne su sve navedene dokumente dostaviti u prodajni ured društva Upravitelja odnosno Koncesionara u čijoj je nadležnosti praćenje ostvarivanja prava na oslobođenje mostarine. Jedino i isključivo na temelju propisane dokumentacije moguće je ostvarenje predmetnog prava.

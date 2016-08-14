@@ -1,0 +1,3 @@
+# Članak 4.
+1) Temeljem dokumentacije iz članaka 2. ovog Pravilnika Upravitelj odnosno Koncesionar korisniku prodaje uređaj za elektroničku naplatu cestarine (u daljnjem tekstu: ENC) po cijeni koju odredi Upravitelj odnosno Koncesionar. Istovremeno prilikom plaćanja i preuzimanja ENC uređaja Korisnik je obavezan popuniti i potpisati Pristupnicu kojom prihvaća uvjete o načinu korištenja otočkog ENC uređaja. Upravitelj odnosno Koncesionar zadržava pravo promjene prodajne cijene ENC uređaja ovisno o troškovima nabave ENC uređaja.
+2) U slučaju povećanja nabavne cijene ENC uređaja, Upravitelj odnosno Koncesionar ima pravo od korisnika naplatiti stvarni trošak nabave ENC uređaja na temelju kojeg se formira maloprodajna cijena ENC uređaja.

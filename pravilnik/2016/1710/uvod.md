@@ -1,0 +1,1 @@
+Na temelju članka 10. stavka 3. i 7. Zakona o otocima (»Narodne novine« 34/99, 149/99, 32/02 i 33/06), a u svezi s člankom 90. Zakona o cestama (»Narodne novine« 84/11, 22/13, 54/13, 148/13 i 92/14), ministar pomorstva, prometa i infrastrukture donosi

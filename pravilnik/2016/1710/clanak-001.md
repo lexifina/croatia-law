@@ -1,0 +1,2 @@
+# Članak 1.
+Ovim Pravilnikom o ostvarivanju prava na oslobođenje od plaćanja mostarine (dalje u tekstu: Pravilnik) uređuju se uvjeti i način ostvarivanja prava na oslobođenje od plaćanja mostarine fizičkih i pravnih osoba koje imaju prebivalište, odnosno sjedište na otoku Krku, odnosno na otoku koji je s tim otokom povezan brodom i trajektom, a sukladno članku 10. stavku 3. Zakona o otocima (u daljnjem tekstu: Zakon).
