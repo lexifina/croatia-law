@@ -1,0 +1,2 @@
+# Članak 2.
+Suradnja i razmjena informacija te postupak nadzora nad provedbom propisa o sigurnosti plovidbe uređeni ovim Pravilnikom odnosi se na osnovne uvjete kojima, u skladu s Pomorskim zakonikom i propisima donesenim na temelju toga Zakona, moraju udovoljavati plovni objekti hrvatske državne pripadnosti te plovni objekti koji plove unutarnjim morskim vodama, teritorijalnim morem i zaštićenim ekološko-ribolovnim pojasom Republike Hrvatske, posade na plovnim objektima, kao i na plovidbu brodova na moru.
