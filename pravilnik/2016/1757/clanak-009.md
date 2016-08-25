@@ -1,0 +1,3 @@
+# Članak 9.
+(1) Zahvalnice se dodjeljuju službenicima i namještenicima Državne uprave koji su nesebično sudjelovali u aktivnostima sustava civilne zaštite, doprinijeli ugledu službe ili na drugi način dali dodatni doprinos djelovanju službi sustava civilne zaštite u zajednici, a mogu se dodjeljivati i drugim državnim službenicima i namještenicima, državnim i drugim tijelima, tijelima jedinica lokalne i područne (regionalne) samouprave, žurnim službama i stranim državljanima, za izuzetan doprinos u razvoju sustava civilne zaštite.
+(2) Zahvalnice se dodjeljuju na svečanostima iz članka 16. ovog Pravilnika.
