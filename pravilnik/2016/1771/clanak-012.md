@@ -1,0 +1,6 @@
+# Članak 12.
+(1) Proizvođač proizvoda podnijet će u skladu sa člankom 7. stavkom 4. Pravilnika o tržišnim standardima za voće i povrće (»Narodne novine« br. 157/13) prije otpreme sa svog gospodarstva i/ili skladišta Zahtjev za kontrolu usklađenosti voća i povrća s tržišnim standardima i izdavanje Certifikata o usklađenosti voća i povrća s tržišnim standardima kojim se dokazuje da su proizvodi povučeni s tržišta usklađeni s tržišnim standardima ili minimalnim zahtjevima iz Priloga X Uredbe Komisije (EU) br. 543/2011.
+(2) Certifikat o usklađenosti voća i povrća s tržišnim standardima ili Zapisnik o neusklađenosti, nadležni poljoprivredni inspektor, elektroničkom poštom dostavlja Agenciji za plaćanja.
+(3) Proizvođač iz stavka 1. ovoga članka oslobađa se plaćanja naknade za kontrolu usklađenosti voća i povrća s tržišnim standardima i putnih troškova nadležnog inspektora do mjesta pregleda iz članka 15. Pravilnika o tržišnim standardima za voće i povrće (»Narodne novine«, br. 157/13).
+(4) U zahtjevu iz stavka 1. ovoga članka proizvođač je dužan upisati naznaku: »Proizvod za slobodnu distribuciju«.
+(5) Zahtjev za kontrolu usklađenosti voća i povrća s tržišnim standardima i izdavanje Certifikata o usklađenosti voća i povrća s tržišnim standardima iz stavka 1. ovoga Pravilnika podnosi se na obrascu iz Priloga IV. ovoga Pravilnika.
