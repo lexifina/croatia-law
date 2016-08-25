@@ -1,0 +1,5 @@
+## V. NAČIN GOSPODARENJA OSTATNIM OTPADOM U POSTROJENJU ZA SPALJIVANJE I SUSPALJIVANJE OTPADA
+# Članak 13.
+(1) Ostaci postrojenja za spaljivanje ili suspaljivanje otpada moraju se obraditi i/ili oporabiti u samom postrojenju kada za to postoje uvjeti ili izvan postrojenja prema propisima o gospodarenju otpadom. Količine i štetna svojstva ostataka moraju se smanjiti na minimum i oporabiti ili reciklirati u najvećoj mogućoj mjeri. Ostaci koji se ne mogu niti izbjeći niti iskoristiti moraju se odložiti ili konačno zbrinuti prema važećim propisima o gospodarenju otpadom.
+(2) Prije utvrđivanja postupaka za obradu, oporabu ili konačno zbrinjavanje moraju se propisanim postupcima odrediti fizikalna i kemijska svojstva ostataka, ukupni sadržaj onečišćujućih tvari i ukupan sadržaj vodotopivih tvari kao i vodotopivi sadržaj teških metala. Zapisi analitičkih izvještaja moraju se čuvati najmanje jednu godinu.
+(3) Tijekom rukovanja, otpremanja, prijevoza i među skladištenja (privremenog skladištenja) suhog praškastog ostataka od obrade otpadnih plinova mora se osigurati sprječavanje njihovog raspršivanja u zrak i okoliš.
