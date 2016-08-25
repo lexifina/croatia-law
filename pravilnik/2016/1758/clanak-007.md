@@ -1,0 +1,2 @@
+# Članak 7.
+Evidencija operativnih snaga Hrvatske gorske službe spašavanja (E-HGSS) iz priloga 4., koji je sastavni dio ovog Pravilnika, sadrži sljedeće podatke: ime, prezime, ime jednog roditelja, datum rođenja (dan, mjesec i godina), osobni identifikacijski broj (OIB), ulica i kućni broj prebivališta, mjesto prebivališta, broj telefona i mobitela, adresu elektroničke pošte, naziv operativne snage i dužnost u operativnoj snazi, završena osposobljavanja.

@@ -1,0 +1,8 @@
+# Članak 9.
+Evidencija pripadnika postrojbi i povjerenika civilne zaštite (E-PPCZ) iz priloga 6., koji je sastavni dio ovog Pravilnika, sadrži:
+I. opće podatke: ime, prezime, ime jednog roditelja, spol (M, Ž), datum rođenja (dan, mjesec i godina), mjesto rođenja, država rođenja, osobni identifikacijski broj (OIB), ulica i kućni broj prebivališta, mjesto prebivališta, naziv banke i IBAN broj
+II. podatke o zvanju, zanimanju i zaposlenju: stupanj školske ili stručne spreme, zvanje (po diplomi ili svjedodžbi), zanimanje (posao koji obavlja), vozačka dozvola (kategorija), naziv poslodavca, naziv radnog mjesta, mjesto rada
+III. podatke o obiteljskom i zdravstvenom stanju: bračno stanje, broj djece, broj djece mlađe od 10 godina života, broj djece do 15 godina života, skrbnik osobe s invaliditetom, zdravstveno stanje (dobro, nije dobro), visina, težina, krvna grupa (A, B, AB, 0), Rh faktor (+,-)
+IV. podatke o kontaktima: broj telefona (u stanu, na radnom mjestu), broj mobitela (privatnog, službenog), adresu elektroničke pošte (privatnu, službenu)
+V. podatke o rasporedu u civilnu zaštitu i iskaznici civilne zaštite: naziv postrojbe civilne zaštite, povjerenik civilne zaštite za područje, datum rasporeda, datum ukidanja rasporeda, razlog ukidanja rasporeda, dužnost u postrojbi civilne zaštite, mobilizacijsko zborište (naziv, ulica i kućni broj i mjesto), iskaznica civilne zaštite (datum izdavanja, broj iskaznice i datum vraćanja)
+VI. podatke o smotrama, osposobljavanjima i vježbama: smotre (trajanje, ukupno sati) osposobljavanja (naziv programa, trajanje, ukupno sati), vježbe (naziv vježbe, trajanje, ukupno sati).

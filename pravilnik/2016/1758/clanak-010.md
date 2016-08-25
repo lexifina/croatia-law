@@ -1,0 +1,2 @@
+# Članak 10.
+Evidencija koordinatora na lokaciji (E-KL) iz priloga 7., koji je sastavni dio ovog Pravilnika, sadrži sljedeće podatke o koordinatorima na lokaciji: ime, prezime, ime jednog roditelja, datum rođenja (dan, mjesec i godina), osobni identifikacijski broj (OIB), ulica i kućni broj prebivališta, mjesto prebivališta, broj telefona i mobitela, adresu elektroničke pošte i naziv operativne snage - dužnost i iskustvo.

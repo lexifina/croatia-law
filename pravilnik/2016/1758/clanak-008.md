@@ -1,0 +1,5 @@
+# Članak 8.
+Evidencija ostalih udruga (EU) iz priloga 5., koji je sastavni dio ovog Pravilnika, sadrži:
+a) podatke o udruzi: puni i skraćeni naziv, datum upisa u Registar udruga Republike Hrvatske, registarski broj, osobni identifikacijski broj (OIB), ulica i kućni broj sjedišta, mjesto sjedišta, broj telefona, telefaksa i mobitela, adresu elektroničke pošte i razradu djelatnosti prema Klasifikaciji djelatnosti udruga, Pravilniku o sadržaju i načinu vođenja Registra udruga Republike Hrvatske i Registra stranih udruga u Republici Hrvatskoj (»Narodne novine«, broj 4/15)
+b) podatke o osobi ovlaštenoj za zastupanje udruge: ime, prezime, ime jednog roditelja, datum rođenja (dan, mjesec i godina), osobni identifikacijski broj (OIB), ulica i kućni broj prebivališta, mjesto prebivališta, broj telefona i mobitela, adresu elektroničke pošte i dužnost
+c) podatke o operativnim članovima udruge: ime, prezime, ime jednog roditelja, datum rođenja (dan, mjesec i godina), osobni identifikacijski broj (OIB), ulica i kućni broj prebivališta, mjesto prebivališta, broj telefona i mobitela, adresu elektroničke pošte i dužnost.
