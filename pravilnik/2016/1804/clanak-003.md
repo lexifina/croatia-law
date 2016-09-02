@@ -1,0 +1,5 @@
+## Stavljanje na raspolaganje na tržištu i stavljanje u uporabu
+# Članak 3.
+(1) Tlačna oprema i sklopovi smiju se staviti na raspolaganje na tržište i u uporabu samo ako zadovoljavaju zahtjeve ovoga Pravilnika, kada su pravilno ugrađeni i održavani te korišteni u predviđene svrhe.
+(2) Drugim propisima mogu se propisati i drugi zahtjevi koji se smatraju nužnima za osiguranje zaštite osoba i posebno radnika pri korištenju tlačne opreme ili sklopa, pod uvjetom da se odredbe tih propisa ne protive odredbama ovoga Pravilnika.
+(3) Na trgovačkim sajmovima, izložbama, predstavljanjima i drugim sličnim događajima ne smije se spriječiti izlaganje tlačne opreme ili sklopova koji nisu u skladu s ovim Pravilnikom, pod uvjetom da vidljiva oznaka jasno označuje kako se takva tlačna oprema ili sklopovi ne mogu staviti na raspolaganje na tržištu i/ili staviti u uporabu dokle god ne budu usklađeni. Tijekom predstavljanja moraju se poduzeti odgovarajuće sigurnosne mjere u skladu sa svim zahtjevima koje je utvrdilo nadležno inspekcijsko tijelo radi osiguranja sigurnosti osoba.

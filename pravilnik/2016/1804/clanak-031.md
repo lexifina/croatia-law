@@ -1,0 +1,8 @@
+## Radne obveze prijavljenih tijela, korisničkih inspektorata i priznatih neovisnih organizacija
+# Članak 31.
+(1) Prijavljena tijela, korisnički inspektorati i priznate neovisne organizacije moraju provoditi ocjenjivanja sukladnosti u skladu s postupcima ocjenjivanja sukladnosti iz članaka 14., 15., 16. ili u točkama 3.1.2. i 3.1.3. Dodatka I. ovoga Pravilnika.
+(2) Postupci ocjenjivanja sukladnosti provode se na način da se izbjegne nepotrebno opterećivanje gospodarskih subjekata gdje prijavljena tijela obavljaju svoje djelatnosti vodeći računa o veličini poduzeća, području u kojem djeluje, njegovoj strukturi, stupnju složenosti tehnologije predmetne tlačne opreme ili sklopa i masovnoj ili serijskoj prirodi proizvodnog postupka.
+Prilikom ocjenjivanja sukladnosti prijavljena tijela poštuju stupanj strogosti i razinu zaštite potrebne za postizanje sukladnosti tlačne opreme s ovim Pravilnikom.
+(3) Ako prijavljeno tijelo utvrdi da proizvođač ne ispunjava osnovne sigurnosne zahtjeve iz Dodatka I. ovoga Pravilnika, ili odgovarajuće usklađene norme ili druge tehničke specifikacije, od navedenog proizvođača mora zahtijevati poduzimanje primjerenih popravnih radnji i ne smije izdati certifikat o sukladnosti.
+(4) Ako tijekom praćenja sukladnosti nakon izdavanja certifikata, prijavljeno tijelo utvrdi da tlačna oprema više nije sukladna, od proizvođača mora zahtijevati poduzimanje primjerenih popravnih radnji i prema potrebi mora ukinuti ili povući certifikat o sukladnosti.
+(5) Ako popravne radnje nisu poduzete ili nemaju zahtijevani učinak, prijavljeno tijelo prema potrebi mora ograničiti, ukinuti ili povući certifikat o sukladnosti.
