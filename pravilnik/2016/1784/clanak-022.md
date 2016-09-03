@@ -1,0 +1,7 @@
+## Program održavanja
+# Članak 22.
+(1) Povijesni zrakoplov se mora održavati prema programu održavanja kojeg je odobrila Agencija. Program održavanja povijesnog zrakoplova mora biti izrađen uzimajući u obzir dostupna iskustva i upute (priručnici proizvođača zrakoplova, priručnici razvijeni od strane operatora) iz doba korištenja odnosno ispitivanja povijesnog zrakoplova, a ako oni nisu dostupni Program održavanja je potrebno razviti uz nadzor zrakoplovnog stručnjaka.
+(2) U pregledima predviđenima u Programu održavanja moraju se predvidjeti redoviti pregledi s obzirom na nalet, broj letova i kalendarske rokove te godišnji pregled koji se u pravilu obavlja prije provjere plovidbenosti. U redovitim pregledima se mora predvidjeti provjeravanje statusa provedenosti izdanih naredbi o plovidbenosti i servisnih biltena koji se odnose na povijesni zrakoplov odnosno na njega ugrađene uređaje i opremu.
+(3) U Programu održavanja moraju biti navedene komponente koje imaju od proizvođača ili Agencije određene rokove trajanja, obnove ili ispitivanja.
+(4) Program održavanja se odobrava istovremeno s postupkom izdavanja Dopuštenja za letenje.
+(5) Program održavanja povijesnog zrakoplova za koji je izdana ili će biti izdana Svjedodžba o plovidbenosti u skladu s Čikaškom konvencijom mora biti izrađen u skladu sa zahtjevima Čikaške konvencije, do najveće praktički izvodive mjere na način propisan u Dijelu M, Prilogu I, Uredbe Komisije (EU) br. 1321/2014.

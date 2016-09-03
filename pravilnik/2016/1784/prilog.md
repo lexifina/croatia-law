@@ -1,0 +1,2 @@
+DODATAK 1 - DODATAK 2
+| 77 26.08.2016 Pravilnik o projektiranju, prihvaćanju, gradnji i održavanju zrakoplova na koje se ne primjenjuje Uredba (EZ) br. 216/2008 77 26.08.2016 Pravilnik o projektiranju, prihvaćanju, gradnji i održavanju zrakoplova na koje se ne primjenjuje Uredba (EZ) br. 216/2008 77 26.08.2016 Pravilnik o projektiranju, prihvaćanju, gradnji i održavanju zrakoplova na koje se ne primjenjuje Uredba (EZ) br. 216/2008 77 26.08.2016 Pravilnik o projektiranju, prihvaćanju, gradnji i održavanju zrakoplova na koje se ne primjenjuje Uredba (EZ) br. 216/2008
