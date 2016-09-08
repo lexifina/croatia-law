@@ -1,0 +1,1 @@
+Na temelju članka 199. stavka 5. i članka 200. stavka 6. Zakona o osiguranju (»Narodne novine« broj 30/15), Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća održanoj 26. kolovoza 2016. donosi
