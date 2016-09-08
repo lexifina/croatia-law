@@ -1,0 +1,1 @@
+| 80 07.09.2016 Odluka o izmjeni Odluke o kriterijima za upis ulovnih ribarskih plovila u Registar ICCAT-a (ICCAT Record od BFT Catching Ve+ssels) u 2016. godini 80 07.09.2016 Odluka o izmjeni Odluke o kriterijima za upis ulovnih ribarskih plovila u Registar ICCAT-a (ICCAT Record od BFT Catching Ve+ssels) u 2016. godini
