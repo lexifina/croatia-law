@@ -1,0 +1,10 @@
+# Članak 12.
+KAPACITET
+1. Određeni zračni prijevoznici obiju ugovornih stranaka imaju pravedne i jednake mogućnosti obavljanja ugovorenog prometa na određenim linijama između njihovih državnih područja.
+2. Zrakoplovne vlasti ugovornih stranaka dogovaraju osiguranje ukupnog kapaciteta za ugovoreni promet koji obavljaju određeni zračni prijevoznici ugovornih stranaka.
+3. Tijekom obavljanja ugovorenog prometa, zračni prijevoznici svake ugovorne stranke uzimaju u obzir interese zračnih prijevoznika druge ugovorne stranke kako ne bi neprimjereno utjecali na usluge koje zračni prijevoznici druge ugovorne stranke pružaju na cijelim ili samo na dijelu istih linija.
+4. Na svakoj će određenoj liniji kapaciteti određenih zračnih prijevoznika jedne ugovorne stranke zajedno s kapacitetima određenih zračnih prijevoznika druge ugovorne stranke biti održavani u razumnom odnosu prema potrebama javnosti za zračnim prijevozom na toj liniji.
+5. Ugovoreni promet određenih zračnih prijevoznika svake ugovorne stranke ima za glavni cilj pružanje, s razumnim faktorom popunjenosti, kapaciteta prikladnog trenutnoj i predviđenoj prometnoj potražnji, do i s državnog područja ugovorne stranke koja određuje te zračne prijevoznike. Prijevoz koji se ukrcava ili iskrcava na državnom području druge ugovorne stranke, do i od mjesta na određenim linijama na državnim područjima država koje ne određuju zračne prijevoznike biti će dopunskog karaktera. Pravo tih zračnih prijevoznika na prijevoz između mjesta na utvrđenim linijama koje se nalaze na državnom području druge ugovorne stranke i na mjestima u trećim zemljama ostvaruje se u interesu sustavnog razvoja međunarodnog zračnog prometa na način da je kapacitet povezan s:
+a) potražnjom za prometom do i s državnog područja ugovorne stranke koja određuje zračnog prijevoznika;
+b) postojećom prometnom potražnjom na prostorima kroz koje ugovoreni promet prolazi, uzimajući u obzir lokalni i regionalni zračni promet; i
+c) zahtjevima zračnog prijevoznika koji je u prolazu.

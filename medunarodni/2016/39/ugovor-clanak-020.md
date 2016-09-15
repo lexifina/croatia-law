@@ -1,0 +1,5 @@
+# Članak 20.
+IZMJENE I DOPUNE
+1. Ako bilo koja ugovorna stranka smatra poželjnim izmijeniti i dopuniti bilo koju odredbu ovog Sporazuma, ona može u svako doba zatražiti konzultacije s drugom ugovornom strankom. Takve konzultacije mogu se obaviti razgovorima ili prepiskom i započinju u roku od šezdeset (60) dana od datuma primitka zahtjeva. Svaka tako dogovorena izmjena i dopuna stupa na snagu datumom primitka posljednje pisane obavijesti kojom ugovorne stranke obavješćuju jedna drugu, diplomatskim putem, o okončanju njihovih unutarnjih pravnih postupaka potrebnih za njezino stupanje na snagu.
+2. Izmjene i dopune Dodataka mogu se obaviti izravnim sporazumom između zrakoplovnih vlasti ugovornih stranaka i stupaju na snagu datumom primitka posljednje pisane obavijesti kojom ugovorne stranke obavješćuju jedna drugu, diplomatskim putem, o okončanju njihovih unutarnjih pravnih postupaka potrebnih za njihovo stupanje na snagu.
+3. Ako u odnosu na obje ugovorne stranke stupi na snagu opća mnogostrana konvencija ili sporazum o zračnom prometu, ovaj će se Sporazum izmijeniti i dopuniti kako bi se uskladio s odredbama te konvencije ili sporazuma.
