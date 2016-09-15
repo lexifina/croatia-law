@@ -1,0 +1,1 @@
+Na temelju članka 35. točke 12. Zakona o ljekarništvu (»Narodne novine« 121/03, 35/08, 117/08) Vijeće Hrvatske ljekarničke komore je na svojoj 5. elektroničkoj sjednici 13. srpnja 2016. godine donijelo
