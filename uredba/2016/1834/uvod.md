@@ -1,0 +1,1 @@
+Na temelju članka 2. Zakona o ovlasti Vlade Republike Hrvatske da uredbama uređuje pojedina pitanja iz djelokruga Hrvatskoga sabora (»Narodne novine«, broj 102/15), Vlada Republike Hrvatske je na sjednici održanoj 14. rujna 2016. godine donijela
