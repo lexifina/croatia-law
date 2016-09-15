@@ -1,0 +1,2 @@
+# Članak 1.
+U Pravilniku o obrascima isprava te obrascima i načinu vođenja evidencija o oružju i streljivu (»Narodne novine« br. 33/08., 155/08. i 52/13.) u članku 1. iza riječi: »odobrenja za nabavu oružja,« dodaju se riječi: »prethodne suglasnosti za unos oružja ili streljiva u Republiku Hrvatsku, obavijesti o nabavi oružja ili streljiva u Republici Hrvatskoj, odobrenja za iznos oružja ili streljiva iz Republike Hrvatske,«.
