@@ -1,0 +1,5 @@
+# Članak 4.
+IMUNITET OD KAZNENE SUDBENOSTI
+(1) U slučaju kad članovi obitelji koji u skladu s Bečkom konvencijom o diplomatskim odnosima od 18. travnja 1961. ili temeljem nekog drugog primjenjivog međunarodnog ugovora uživaju imunitet od kaznene sudbenosti države primateljice, odredbe o imunitetu od kaznene sudbenosti države primateljice primjenjuju se i u odnosu na djela počinjena u vezi s obavljanjem dohodovne djelatnosti. Kad je riječ o kaznenom djelu, država šiljateljica će ipak ozbiljno razmotriti hoće li se u odnosu na dotičnog člana obitelji odreći imuniteta od kaznene sudbenosti države primateljice.
+(2) Ukoliko se država šiljateljica ne odrekne imuniteta u odnosu na dotičnog člana obitelji, kazneno djelo koje je isti počinio podastrijet će svojim tijelima kaznenog gonjenja. Država primateljica bit će obaviještena o ishodu kaznenog postupka.
+(3) Član obitelji može u vezi s obavljanjem dohodovne djelatnosti biti saslušan kao svjedok, osim u slučaju ako država šiljateljica smatra da se to protivi njenim interesima.
