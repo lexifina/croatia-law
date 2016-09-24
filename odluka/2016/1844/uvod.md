@@ -1,0 +1,1 @@
+Na temelju članka 9. stavka 4. Zakona o zdravstvenoj zaštiti (»Narodne novine«, br. 150/08, 71/10, 139/10, 22/11, 84/11, 12/12, 35/12 - Odluka Ustavnog suda Republike Hrvatske, 70/12, 82/13, 22/14 - Odluka Ustavnog suda Republike Hrvatske i 154/14), Vlada Republike Hrvatske je na sjednici održanoj 14. rujna 2016. godine donijela
