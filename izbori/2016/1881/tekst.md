@@ -1,0 +1,24 @@
+Državno izborno povjerenstvo Republike Hrvatske u sastavu Branko Hrvatin, dipl. iur., predsjednik, Vesna Fabijančić Križanić, dipl. iur., potpredsjednica, Ana Lovrin, dipl. iur., potpredsjednica, Jakob Miletić, dipl. iur., potpredsjednik, Renata Šantek, dipl. iur., potpredsjednica, Slaven Hojski, dipl. iur., član, Janja Horvat Drobnjak, dipl. iur., članica i Emil Tomljanović, dipl. iur., član, na osnovi članka 56. točke 9. i članka 94. stavka 2. Zakona o izborima zastupnika u Hrvatski sabor (»Narodne novine«, broj 66/15 - pročišćeni tekst i 104/15 - Odluka i Rješenje Ustavnog suda Republike Hrvatske, broj: U-I-1397/2015 od 24. rujna 2015.), objavljuje službene rezultate izbora zastupnika u Hrvatski sabor provedenih 10. i 11. rujna 2016. godine
+IZBOR ZASTUPNIKA U HRVATSKI SABOR NA TEMELJU LISTE KANDIDATA U XII. IZBORNOJ JEDINICI
+Izbor zastupnika koje biraju pripadnici talijanske nacionalne manjine
+I. Od ukupno 11.440 birača, glasovalo je (prema glasačkim listićima) 2.338 birača, odnosno 20,44%.
+Važećih glasačkih listića utvrđeno je 2.307 odnosno 98,67%.
+Nevažećih je bilo 31 glasačkih listića, odnosno 1,33%.
+II. Pojedini kandidati dobili su sljedeći broj glasova:
+1.
+Kandidat: FURIO RADIN
+1.676
+glasova
+72,65%
+Zamjenik: ROBERTO PALISCA
+KANDIDAT GRUPE BIRAČA
+2.
+Kandidat: MAURIZIO ZENNARO
+631
+glas
+27,35%
+Zamjenica: MIRJANA FANTAUZZO
+KANDIDAT GRUPE BIRAČA
+III. Na osnovi članka 46. u svezi članka 17. stavka 3. Zakona o izborima zastupnika u Hrvatski sabor, za zastupnika u Hrvatski sabor izabran je kandidat
+FURIO RADIN, a za zamjenika ROBERTO PALISCA
+KANDIDAT GRUPE BIRAČA
