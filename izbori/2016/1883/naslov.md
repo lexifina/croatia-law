@@ -1,0 +1,1 @@
+Službeni rezultati izbora za zastupnike u Hrvatski sabor utvrđeni i objavljeni 26. rujna 2016. u XII. izbornoj jedinici (koje biraju pripadnici austrijske, bugarske, njemačke, poljske, romske, rumunjske, rusinske, ruske, turske, ukrajinske, vlaške i židovske nacionalne manjine)
