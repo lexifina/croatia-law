@@ -1,0 +1,3 @@
+1. Prigodni optjecajni kovani novac od 25 kuna u povodu obilježavanja 25. obljetnice neovisnosti Republike Hrvatske, 8. listopada 1991. - 8. listopada 2016., izdan u skladu s Odlukom o izdavanju novčanica i kovanog novca koji glase na novčanu jedinicu Republike Hrvatske (»Narodne novine«, br. 37/1994., 44/1994. i 68/1994.), s osnovnim obilježjima utvrđenima u Odluci o osnovnim obilježjima prigodnoga optjecajnoga kovanog novca od 25 kuna »25. obljetnica neovisnosti Republike Hrvatske, 8. listopada 1991. - 8. listopada 2016.« (Narodne novine«, br. 84/2016.), pušta se u optjecaj 7. listopada 2016.
+2. Ova Odluka stupa na snagu danom objave u »Narodnim novinama«.
+O. br. 821/2016.
