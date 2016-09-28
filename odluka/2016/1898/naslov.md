@@ -1,0 +1,1 @@
+Odluka o prestanku koncesije za posebnu uporabu pomorskog dobra u svrhu postavljanja podzemnog cjevovoda i izgradnje dijela ceste i građevine za smještaj opreme tehnološkog procesa sušenja PVC praha na novoformiranoj čestici zemljišta zemljišnoknjižne oznake 14051 prema novoj katastarskoj izmjeri za k.o. Omišalj

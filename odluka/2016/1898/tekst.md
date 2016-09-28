@@ -1,0 +1,7 @@
+O PRESTANKU KONCESIJE ZA POSEBNU UPORABU POMORSKOG DOBRA U SVRHU POSTAVLJANJA PODZEMNOG CJEVOVODA I IZGRADNJE DIJELA CESTE I GRAĐEVINE ZA SMJEŠTAJ OPREME TEHNOLOŠKOG PROCESA SUŠENJA PVC PRAHA NA NOVOFORMIRANOJ ČESTICI ZEMLJIŠTA ZEMLJIŠNOKNJIŽNE OZNAKE 14051 PREMA NOVOJ KATASTARSKOJ IZMJERI ZA k.o. OMIŠALJ
+I.
+Koncesija na pomorskom dobru dodijeljena trgovačkom društvu Dina Petrokemija d.d. proizvodnja, terminali i servisi Odlukom o davanju koncesije za posebnu uporabu pomorskog dobra u svrhu postavljanja podzemnog cjevovoda i izgradnje dijela ceste i građevine za smještaj opreme tehnološkog procesa sušenja PVC praha na novoformiranoj čestici zemljišta zemljišnoknjižne oznake 14051 prema novoj katastarskoj izmjeri za k.o. Omišalj (»Narodne novine«, br. 49/08, 50/09 i 89/10), prestaje prestankom pravne osobe Ovlaštenika koncesije.
+II.
+Danom stupanja na snagu ove Odluke Ugovor o koncesiji za posebnu upotrebu pomorskog dobra u svrhu postavljanja podzemnog cjevovoda i izgradnje dijela ceste na dijelu katastarske čestice zemlje 10350 k.o. Omišalj, od 14. svibnja 2009. godine i Dodatak br. 1 Ugovoru o koncesiji za posebnu upotrebu pomorskog dobra u svrhu postavljanja podzemnog cjevovoda i izgradnje dijela ceste na dijelu katastarske čestice zemlje 10350 k.o. Omišalj, od 23. srpnja 2010. godine, smatraju se raskinutim.
+III.
+Ova Odluka stupa na snagu danom donošenja, a objavit će se u »Narodnim novinama«.
