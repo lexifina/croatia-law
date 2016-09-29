@@ -1,0 +1,2 @@
+# Članak 8.
+U članku 82. stavku 1. riječ »institucije« zamjenjuje se riječju »institucija«, iza teksta »6382 Kapitalne pomoći iz državnog proračuna temeljem prijenosa EU sredstava,« dodaje se tekst »6392 Kapitalni prijenosi između proračunskih korisnika istog proračuna, 6394 Kapitalni prijenosi između proračunskih korisnika istog proračuna temeljem prijenosa EU sredstava,«, a iza riječi »kapitalnih rashoda« dodaju se riječi », uključujući i prijenose proračunskim korisnicima iz nadležnog proračuna za nabavu nefinancijske imovine,«.
