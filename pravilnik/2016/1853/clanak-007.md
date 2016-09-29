@@ -1,0 +1,4 @@
+## Uvjeti za preradu mlijeka koje ne udovoljava propisanim kriterijima za sirovo mlijeko
+# Članak 7.
+(1) Subjekti u poslovanju s hranom koji obavljaju djelatnost prerade mlijeka isključivo u sireve s razdobljem zrenja od najmanje 60 dana, sukladno članku 10. stavku 3. Uredbe (EZ) br. 853/2004 Europskog parlamenta i Vijeća od 29. travnja 2004. o utvrđivanju određenih higijenskih pravila za hranu životinjskog podrijetla (SL L 139, 30. 4. 2004.) (u daljnjem tekstu: Uredba (EZ) br. 853/2004), mogu u proizvodnji koristiti mlijeko koje ne udovoljava propisanim kriterijima za sirovo mlijeko u Prilogu III, Odjeljku IX. Uredbe (EZ) br. 853/2004, s obzirom na broj somatskih stanica i ukupni broj mikroorganizama.
+(2) Subjekti u poslovanju s hranom iz stavka 1. ovoga članka, u svojim planovima samokontrole moraju odrediti maksimalno dopušten broj somatskih stanica i broj mikroorganizama.
