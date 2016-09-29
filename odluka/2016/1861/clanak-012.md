@@ -1,0 +1,3 @@
+# Članak 12.
+Upravni odbor područne obrtničke komore dužan je donijeti odluku o sklapanju ugovora o radu tajnika područne obrtničke komore iz članka 8. ove Odluke, a područna obrtnička komora sklopiti ugovor o radu s tajnikom područne obrtničke komore sukladno članku 8. ove Odluke najkasnije u roku od 3 mjeseca od dana stupanja na snagu odluke o izmjenama i dopunama statuta područne obrtničke komore.
+Iznimno, ugovor o radu tajnika područne obrtničke komore iz članka 8. ove Odluke može se sklopiti s osobom koja ne ispunjava uvjete iz Pravilnika o kriterijima za sistematizaciju radnih mjesta jedinstvenog komorskog sustava ako je zatečena na poslovima tajnika područne obrtničke komore na dan stupanja na snagu ove Odluke.
