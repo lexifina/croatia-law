@@ -1,0 +1,4 @@
+## Potvrda o nerazmatranju osnovanosti zahtjeva za međunarodnu zaštitu
+# Članak 8.
+(1) Potvrda kojom se vlasti treće zemlje obavještavaju da Republika Hrvatska nije razmatrala osnovanost zahtjeva sadrži prostor za upis nadležnog tijela koje izdaje potvrdu, datuma izdavanja, imena i prezimena, spola, mjesta, datuma i države rođenja, državljanstva, adrese zadnjeg boravišta, podataka o identifikacijskim ispravama koje državljanin treće zemlje ili osoba bez državljanstva posjeduje, mjesta, datuma i vremena ulaska u Republiku Hrvatsku odnosno zatjecanja, načina prelaska državne granice, podataka koji ukazuju da je u Republiku Hrvatsku došao iz sigurne treće zemlje odnosno europske sigurne treće zemlje te drugih relevantnih podataka.
+(2) Potvrdu izdaje ustrojstvena jedinica Ministarstva nadležna za provođenje postupka povodom zahtjeva.
