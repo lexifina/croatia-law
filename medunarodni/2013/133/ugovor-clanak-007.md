@@ -1,0 +1,7 @@
+# Članak 7.
+1. Sastanak između predstavnika Glavnih stožera stranaka održava se redovito, naizmjence u Republici Hrvatskoj i Francuskoj Republici.
+2. Sastankom između predstavnika Glavnih stožera stranaka supredsjedaju po jedna nadležna osoba oružanih snaga svake od stranaka. Na sastanku sudjeluju i tajnik, vojni izaslanik svake od stranaka te, ovisno o razmatranim temama, časnici, predstavnici raznih grana, rodova i službi ili mjerodavni stručnjaci kao i predstavnik uprave za sigurnosnu i obrambenu suradnju francuskog Ministarstva vanjskih poslova vezano za pitanja za koja je zadužen.
+3. Sva pitanja koja stranke ocijene važnima za promicanje jačanja bilateralne suradnje mogu se staviti na dnevni red sastanka između predstavnika Glavnih stožera stranaka, nakon što ih odobre oba supredsjedatelja. Dnevni red mora biti utvrđen najkasnije mjesec dana prije sastanka između predstavnika Glavnih stožera stranaka.
+4. Na sastanku između predstavnika Glavnih stožera stranaka podnosi se izvješće o rezultatima suradnje ostvarene tijekom protekle godine.
+5. O aktivnostima suradnje odlučuje se između grana, službi ili uprava stranaka. Planovi suradnje koji su u tu svrhu utvrđeni razrađeni su na sjednici stožera. Ovi planovi sadrže zajednički dogovorene aktivnosti kao i njihov cilj, načine, vrijeme i mjesto provedbe te institucije odgovorne za njihovo izvršavanje. Stranke također mogu dogovoriti i bilo koji drugi način formaliziranja suradnje.
+6. Vojni izaslanici su povlašteni suradnici za sve aktivnosti suradnje.

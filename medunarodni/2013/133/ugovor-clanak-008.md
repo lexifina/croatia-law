@@ -1,0 +1,7 @@
+# Članak 8.
+Financiranje suradnje temelji se na pravilima navedenim u ovom članku, u granicama i u okviru proračunskih mogućnosti svake stranke:
+1. Stranka šiljateljica snosi troškove prijevoza u odlasku i povratku do odredišta na državnom području stranke primateljice pripadnika svog vojnog i civilnog osoblja, te troškove vezane uz obvezna putovanja, u skladu sa zakonima i propisima stranke šiljateljice.
+2. Stranka primateljica stavlja na raspolaganje, bez naplate, pripadnicima vojnog i civilnog osoblja stranke šiljateljice sredstva potrebna za izvršavanje njihovih administrativnih dužnosti.
+3. Stranka šiljateljica osigurava troškove prijevoza, smještaja i prehrane, u skladu sa zakonima i propisima stranke šiljateljice, pripadnicima vojnog i civilnog osoblja stranke šiljateljice tijekom boravka kratkog ili dugog trajanja na državnom području stranke primateljice. Stranka primateljica ne snosi nikakve troškove boravka pripadnika vojnog i civilnog osoblja niti uzdržavanih osoba u njihovoj pratnji. Međutim, stranka primateljica može, ovisno o slučaju i sukladno programu posjeta, snositi samo troškove službenog prijevoza i službenih telefonskih razgovora sa strankom šiljateljicom, unutar svog državnog područja.
+4. Za tečajeve u vojnim obrazovnim institucijama i u postrojbama oružanih snaga, stranka primateljica će razmotriti mogućnost snošenja troškova školarine.
+5. Pravo na usluge koje pruža vojna zdravstvena služba stranke primateljice i snošenje troškova tih usluga uređeni su odredbama NATO SOFA-e.
