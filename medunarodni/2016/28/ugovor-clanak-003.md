@@ -1,0 +1,6 @@
+# Članak 3.
+OPĆE ODREDBE
+(1) Kako bi se olakšala provedba Sporazuma CBE-a i u pogledu zahtjeva iz članka 4. stavka 2. Direktive 2015/413/EU Europskog parlamenta i Vijeća od 11. ožujka 2015. godine o olakšavanju prekogranične razmjene informacija o prometnim prekršajima protiv sigurnosti prometa na cestama, stranke nastoje odrediti jednu nacionalnu kontaktnu točku kod provedbe navedene Direktive i članka 4. stavka 4., članka 5. stavka 8. te članka 6. stavka 10. Sporazuma CBE-a.
+(2) U slučaju kad ne postoji nacionalno zakonodavstvo koje bi utvrdilo specifične nacionalne kontaktne točke sukladno Sporazumu CBE-u i/ili kad ne postoji obavijest sukladno članku 15. stavku 2. spomenutog Sporazuma, nacionalna kontaktna točka određena sukladno članku 4. stavku 2. Direktive 2015/413/EU smatra se nacionalnom kontaktnom točkom za sve svrhe Sporazuma CBE-a.
+(3) U svrhu provedbe Sporazuma CBE-a, određene nacionalne kontaktne točke uzajamno šalju skupine podataka kako je određeno u članku 4. ovog ATIA-a, koristeći oblik dokumenta XML.
+(4) Tehničke pojedinosti o pretvaranju skupina podataka u oblik dokumenta XML propisane su u Priručniku za korisnike kako je navedeno u članku 8. stavku 2. Sporazuma CBE-a i članku 9. ovog ATIA-a.
