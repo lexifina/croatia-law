@@ -1,0 +1,63 @@
+Obrazloženje
+I. POSTUPAK PRED USTAVNIM SUDOM
+1. Damir Vinketa, sudac Općinskog suda u Rijeci, podnio je 18. svibnja 2012. zahtjev za ocjenu zakonitosti članka 4. stavka 1. Pravilnika o mjerilima, postupku i načinu određivanja iznosa naknade vlasnicima nekretnina i jedinicama lokalne samouprave (»Narodne novine« broj 59/06. i 109/12.; u daljnjem tekstu: Pravilnik).
+Podnositelj zahtjeva je kao sudac pojedinac donio prvostupanjsku presudu broj: P-933/2009 od 9. svibnja 2012. u parničnom predmetu koji se vodio pred Općinskim sudom u Rijeci radi sklapanja ugovora (između tužitelja i Općine Viškovo) o naknadi zbog umanjene vrijednosti nekretnine. Tom je presudom odbijen tužbeni zahtjev prema kojem bi ona nadomještala taj ugovor, a pri tome je neposredno primijenjen zakon umjesto osporenog dijela članka 4. stavka 1. Pravilnika. U vrijeme podnošenja zahtjeva bila je riječ o nepravomoćnoj presudi, koja je postala pravomoćna donošenjem presude Županijskog suda u Rijeci broj: Gž-4393/2012-2 od 24. lipnja 2014., kojom je odbijena tužiteljeva žalba i potvrđena prvostupanjska presuda.
+2. Na temelju članka 25. Ustavnog zakona o Ustavnom sudu Republike Hrvatske (»Narodne novine« broj 99/99., 29/02. i 49/02. - pročišćeni tekst; u daljnjem tekstu: Ustavni zakon), Ustavni sud je od Ministarstva zaštite okoliša i prirode Republike Hrvatske (u daljnjem tekstu: Ministarstvo) zatražio i dobio očitovanje na prethodno navedeni zahtjev.
+II. OSPORENE ODREDBE PRAVILNIKA
+3. Članak 4. Pravilnika glasi:
+»Članak 4.
+(1) Pravo na umanjenu tržišnu vrijednost nekretnine vlasnik nekretnine ima pod uvjetom da je nekretninu stekao prije početka gradnje odnosno sanacije ili rekonstrukcije građevine namijenjene zbrinjavanju otpada, da je ista zakonito izgrađena i da se nalazi na udaljenosti do 500 m od građevine namijenjene zbrinjavanju otpada.
+(2) Pod nekretninom iz stavka 1. ovog članka podrazumijeva se stambena ili stambeno-poslovna građevina.«
+III. PRIGOVORI PODNOSITELJA ZAHTJEVA
+4. Podnositelj zahtjeva je u zahtjevu u bitnome naveo:
+»U ... konkretnoj parnici Općinski sud u Rijeci nije primijenio čl. 4. st. 1. Pravilnika o mjerilima, postupku i načinu određivanja iznosa naknade vlasnicima nekretnina i jedinicama lokalne samouprave (N.N.br. 59/2006 te u daljnjem tekstu skraćeno: 'PO') u dijelu kojem je propisano da pravo na umanjenu tržišnu vrijednost nekretnine vlasnik nekretnine ima pod uvjetom da je nekretninu stekao prije početka sanacije ili rekonstrukcije građevine namijenjene zbrinjavanju otpada. (...)
+Po prosudbi ovoga suda radi se u konkretnom slučaju o povredi čl. 5. st. 1. Ustava Republike Hrvatske u Republici Hrvatskoj gdje je propisano da zakoni moraju biti u suglasnosti s Ustavom, a ostali propisi i s Ustavom i sa zakonom. Kada je predmet ustavnosudske ocjene drugi propis, koji se u pravilu donosi radi provedbe zakona, on mora biti u skladu sa zakonom na temelju kojega je donesen, a potom i s Ustavom. U postupku ocjene zakonitosti i ustavnosti takvog propisa ispituje se, stoga, je li on donesen od strane ovlaštenog tijela, zatim je li donositelj imao zakonsko ovlaštenje za njegovo donošenje (pravna osnova donošenja) te odgovara li propis po svom sadržaju u granicama koje je odredio zakon. Dakle, pravilnik, kao provedbeni propis, samo razrađuje zakonske odredbe i pri tome se mora kretati u okviru ovlaštenja koja su mu zakonom dana, što znači da se provedbenim propisom prava, koja ovlaštenicima pripadaju na temelju zakona, ne mogu ograničavati ili uskraćivati, odnosno njime se ne mogu nametati obveze izvan danog zakonskog okvira, niti se mogu uređivati pitanja za čije uređenje ministar nije ovlašten zakonom. Sve što je izvan zakonom utvrđenih granica, dovodi u sumnju zakonitost tog propisa, a time i njegovu ustavnost. Mišljenje je ovoga suda da tadašnja ministrica zaštite okoliša, prostornog uređenja i graditeljstva je prekoračila ovlaštenja koji su joj dana sukladno čl. 24. st. 5. Zakona o otpadu (N.N. br. 178/2004, 143/2005, 111/2006, 60/2008 i 87/2009 te u daljnjem tekstu skraćeno: 'ZO') tj. da propiše mjerila, postupak i način određivanja iznosa, te način uplate i isplate naknada iz čl. 24. stavka 1. i 3. ZO-a. Naime ona je znatno proširila krug ovlaštenika koji imaju pravo na naknadu budući to sada nisu sukladno čl. 24. st. 1. ZO-a samo vlasnici zakonito izgrađenih stambenih ili stambeno-poslovnih građevina koji su vlasništvo stekli prije početka gradnje građevine namijenjene zbrinjavanju otpadu nego sukladno čl. 4. st. 1. PO-a i svi oni vlasnici zakonito izgrađenih stambenih ili stambeno-poslovnih građevina koji su vlasništvo stekli nakon početka gradnje građevine namijenjene zbrinjavanju otpadu, a prije početka sanacije ili rekonstrukcije građevine namijenjene zbrinjavanju otpada. ZO uopće nije ovlastio ministra zaštite okoliša, prostornog uređenja i graditeljstva da on određuje tko bi bio ovlaštenik prava na naknadu na umanjenu vrijednost nekretnine već samo da ministar propiše mjerila, postupak i način određivanja iznosa, te način uplate i isplate naknada. Iz navedenih razloga sukladno ... čl. 37. st. 2. UZ-a" (to jest Ustavnog zakona - napomena Ustavnog suda) »ovaj sud je neposredno primijenio ZO.«
+IV. OČITOVANJE MINISTARSTVA
+5. Ministarstvo je u očitovanju, klasa: 011-04/13-01/266, ur. broj: 517-04-14-4 od 16. srpnja 2014. navelo:
+»Nastavno na navode predmetnog Prijedloga očitujemo se na sljedeći način. Člankom 24. stavkom 1. Zakona o otpadu, koji je prestao važiti (Narodne novine br.: 178/2004, 111/2006, 60/2008, 87/2009, u daljnjem tekstu Zakon), bilo je propisano da vlasnik zakonito izgrađene stambene i stambeno-poslovne građevine koja se nalazi na udaljenosti od 500 metara od građevine namijenjene zbrinjavanju otpada ima pravo na novčanu naknadu zbog umanjene vrijednosti nekretnine uz uvjet da je vlasništvo nad nekretninom stekao prije početka gradnje građevine namijenjene zbrinjavanju otpada. Stavkom 5. istog članka bilo je propisano da mjerila, postupak i način određivanja iznosa, te način uplate i isplate naknada iz članka 24. stavka 1. Zakona propisuje ministar.
+Člankom 4. stavkom 1. Pravilnika propisano je da pravo na umanjenu tržišnu vrijednost nekretnine vlasnik nekretnine ima pod uvjetom da je nekretninu stekao prije početka gradnje odnosno sanacije ili rekonstrukcije građevine namijenjene zbrinjavanju otpada, da je ista zakonito izgrađena i da se nalazi na udaljenosti do 500 m od građevine namijenjene zbrinjavanju otpada.
+Sanacija ili rekonstrukcija građevina namijenjenih zbrinjavanju otpada je zahvat koji se poduzima na postojećim lokacijama s nelegalnim građevinama namijenjenim za zbrinjavanje otpada (npr. odlagališta otpada), a koje ne zadovoljavaju niti jedan uvjet za građevinu.
+Zahvat sanacije ili rekonstrukcije takve građevine namijenjene zbrinjavanju otpada zahtijeva projektiranje, izradu dokumentacije, ishođenje potrebnih dozvola te izvođenja građevinskih i ostalih radova sa ciljem da se takva građevina dovede u stanje da ispunjava propisane uvjete. Sve navedene aktivnosti se smatraju gradnjom budući da je gradnja, sukladno posebnom propisu, projektiranje i građenje građevina te stručni nadzor građenja. U tom smislu sanacija i rekonstrukcija koje se navode u Pravilniku se ustvari isto tako smatraju gradnjom.
+Slijedom iznesenog, Pravilnikom kao provedbenim propisom nije proširen krug ovlaštenika koji imaju pravo na naknadu iz članka 24. stavka 1. Zakona budući da se sanacija ili rekonstrukcija smatra gradnjom građevine namijenjene zbrinjavanju otpada te uključuje sve radnje i aktivnosti koje su potrebne i za gradnju građevine.«
+V. MJERODAVNO PRAVO
+6. Ustavni sud ocjenjuje da su za ustavnopravnu ocjenu u konkretnom slučaju mjerodavni dio članka 3. te članak 5. Ustava, koji glase:
+»Članak 3.
+... vladavina prava ... najviše su vrednote ustavnog poretka Republike Hrvatske i temelj za tumačenje Ustava.«
+»Članak 5.
+U Republici Hrvatskoj zakoni moraju biti u suglasnosti s Ustavom, a ostali propisi i s Ustavom i sa zakonom.
+Svatko je dužan držati se Ustava i prava i poštivati pravni poredak Republike Hrvatske.«
+VI. OCJENA USTAVNOG SUDA
+7. Ministrica zaštite okoliša, prostornog uređenja i graditeljstva Republike Hrvatske donijela je Pravilnik na temelju članka 24. stavka 5. Zakona o otpadu (»Narodne novine« broj 178/04., 153/05., 111/06., 60/08. i 87/09.).
+7.1. Članak 24. stavci 1., 3. i 5. Zakona o otpadu su u vrijeme donošenja Pravilnika glasili:
+»Članak 24.
+(1) Vlasnik zakonito izgrađene stambene i stambeno-poslovne građevine koja se nalazi na udaljenosti do 500 metara od građevine namijenjene zbrinjavanju otpada ima pravo na novčanu naknadu zbog umanjenja vrijednosti nekretnine uz uvjet da je nekretninu stekao prije početka gradnje građevine namijenjene zbrinjavanju otpada.
+(...)
+(3) Grad Zagreb, grad, odnosno općina na čijem se području nalazi građevina namijenjena zbrinjavanju otpada, u uvjetima propisanim ovim Zakonom, imaju pravo na novčanu naknadu.
+(...)
+(5) Mjerila, postupak i način određivanja iznosa, te način uplate i isplate naknada iz stavka 1. i 3. ovoga članka propisuje ministar.«
+7.2. Člankom 15. Zakona o izmjenama i dopunama Zakona o otpadu (»Narodne novine« broj 60/08.) izmijenjen je članak 24. stavak 1. Zakona o otpadu na način da je u njemu riječ: »nekretninu« zamijenjena riječima: »vlasništvo nad nekretninom« te je, nakon te izmjene, isti glasio:
+»Članak 24.
+(1) Vlasnik zakonito izgrađene stambene i stambeno-poslovne građevine koja se nalazi na udaljenosti do 500 metara od građevine namijenjene zbrinjavanju otpada ima pravo na novčanu naknadu zbog umanjenja vrijednosti nekretnine uz uvjet da je vlasništvo nad nekretninom stekao prije početka gradnje građevine namijenjene zbrinjavanju otpada.
+(...)«
+7.3. Članci 41. stavci 1. i 5., 182. stavak 2., 183. stavak 1. alineja 5. i 186. alineja 1. Zakona o održivom gospodarenju otpadom (»Narodne novine« broj 94/13.) glase:
+»Članak 41.
+(1) Vlasnik postojeće stambene, odnosno stambeno-poslovne građevine koju koristi za stalno stanovanje, koja se nalazi na udaljenosti do 500 metara mjereći od vršne točke katastarske čestice na kojoj se nalazi neusklađeno odlagalište do vršne točke katastarske čestice na kojoj se nalazi stambena i stambeno-poslovne građevine, uz uvjet da je vlasništvo nad nekretninom stekao prije početka građenja te građevine za odlaganje otpada, ima pravo na novčanu naknadu zbog blizine neusklađenog odlagališta.
+(...)
+(5) Mjerila i način određivanja iznosa naknade, način uplate i isplate naknada iz stavka 1. ovoga članka propisuje ministar pravilnikom.«
+»Članak 182.
+(...)
+(2) Obvezuje se ministar da pravilnike iz ... članka 41. stavka 5., ... ovoga Zakona donese u roku od 12 mjeseca od dana stupanja na snagu ovoga Zakona.
+(...)
+Članak 183.
+(1) Do stupanja na snagu propisa iz članka 182. stavaka 1. i 2. ovoga Zakona primjenjuje se:
+(...)
+- Pravilnik o mjerilima, postupku i načinu određivanja iznosa naknade vlasnicima nekretnina i jedinicama lokalne samouprave ('Narodne novine', br. 59/06.),
+(...)«
+»Članak 186.
+Danom stupanja na snagu ovoga Zakona prestaju važiti:
+- Zakon o otpadu ('Narodne novine', br. 178/04., 111/06., 60/08. i 87/09.) i
+(...)«
+8. Ustavni sud utvrđuje da ni prema članku 24. stavku 5. Zakona o otpadu, koji je bio na snazi u vrijeme donošenja osporenog Pravilnika, a ni prema članku 41. stavku 5. Zakona o održivom gospodarenju otpadom, koji je donesen (i stupio je na snagu) nakon donošenja osporenog Pravilnika, nadležni ministar nije (bio) ovlašten svojom odlukom ustanovljavati krug ovlaštenika na novčanu naknadu zbog umanjenja vrijednosti nekretnine nego samo mjerila i način određivanja iznosa naknade te način uplate i isplate naknada. Na temelju članka 24. stavka 5. Zakona o otpadu, nadležni ministar je povrh toga bio ovlašten propisati još i postupak određivanja iznosa naknade.
+Ustavni sud stoga utvrđuje da dio članka 4. stavka 1. Pravilnika koji glasi »odnosno sanacije ili rekonstrukcije« nije u suglasnosti s člankom 24. stavkom 5. Zakona o otpadu, a ni s člankom 41. stavkom 5. Zakona o održivom gospodarenju otpadom. Time prethodno spomenuti dio članka 4. stavka 1. Pravilnika nije u suglasnosti ni s člancima 3. (u dijelu koji se tiče vladavine prava) i 5. Ustava.
+Osim toga, ni Zakon o održivom gospodarenju otpadom, koji je donesen nakon donošenja odnosno stupanja na snagu Pravilnika, nije odredio krug ovlaštenika na način kako je to učinjeno osporenim dijelom članka 4. stavka 1. Pravilnika. Taj zakon sadržava odredbu koja je usporediva s odredbom Zakona o otpadu na temelju kojeg je donesena osporena odredba Pravilnika.
+9. S obzirom na navedeno, Ustavni sud donio je odluku kao u točki I. izreke. Objava odluke (točka II. izreke) temelji se na članku 29. Ustavnog zakona.
