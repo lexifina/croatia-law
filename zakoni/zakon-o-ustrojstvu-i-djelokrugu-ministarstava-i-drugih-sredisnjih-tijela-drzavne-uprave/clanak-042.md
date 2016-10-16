@@ -1,0 +1,4 @@
+# Članak 42.
+Danom stupanja na snagu ovoga Zakona državne službenike i namještenike, opremu, pismohranu i drugu dokumentaciju, sredstva za rad, financijska sredstva, prava i obveze preuzimaju središnja tijela državne uprave koja preuzimaju poslove na temelju ovoga Zakona, razmjerno i sukladno ustrojstvu i djelokrugu propisanom ovim Zakonom.
+Danom stupanja na snagu ovog Zakona Središnji državni ured za razvoj digitalnog društva preuzima poslove, opremu, pismohranu i drugu dokumentaciju, sredstva za rad, financijska sredstva, prava i obveze Digitalnog informacijsko-dokumentacijskog ureda, kao i državne službenike i namještenike zatečene na obavljanju preuzetih poslova.
+Zatečeni i preuzeti državni službenici i namještenici iz stavka 1. i 2. ovoga članka obavljat će poslove i primati plaću prema dosadašnjim rješenjima do njihova raspoređivanja na radna mjesta sukladno uredbama iz članka 41. stavka 1. ovoga Zakona i pravilnicima iz članka 41. stavka 2. ovoga Zakona.

@@ -1,0 +1,4 @@
+## PRIJELAZNE I ZAVRŠNE ODREDBE
+# Članak 38.
+Danom stupanja na snagu ovoga Zakona nastavljaju s radom: Ministarstvo vanjskih i europskih poslova, Ministarstvo unutarnjih poslova, Ministarstvo obrane, Ministarstvo financija, Ministarstvo pravosuđa, Ministarstvo uprave, Ministarstvo graditeljstva i prostornoga uređenja, Ministarstvo rada i mirovinskoga sustava, Ministarstvo kulture, Ministarstvo turizma, Ministarstvo poljoprivrede, Ministarstvo regionalnog razvoja i fondova Europske unije, Državna geodetska uprava, Državni hidrometeorološki zavod, Državni zavod za intelektualno vlasništvo, Državni zavod za mjeriteljstvo, Državni zavod za statistiku, Državni zavod za radiološku i nuklearnu sigurnost i Državna uprava za zaštitu i spašavanje.
+Danom stupanja na snagu ovoga Zakona dosadašnji državni uredi Vlade Republike Hrvatske nastavljaju s radom kao središnji državni uredi, sukladno ustrojstvu i djelokrugu propisanom ovim Zakonom.
