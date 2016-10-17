@@ -1,0 +1,6 @@
+# Članak 2.
+U članku 2. stavak 1. mijenja se i glasi:
+»Pravne osobe ili obrtnici koji se bave proizvodnjom ili prometom pirotehničkih sredstava/streljiva obvezni su voditi upisnik o proizvodnji ili prometu pirotehničkih sredstava/streljiva (Obrazac 1.), a pravne osobe ili obrtnici koji se bave proizvodnjom ili prometom ostalih eksplozivnih tvari obvezni su voditi Upisnik o vrsti i količini proizvedenih, nabavljenih, prodanih ili uništenih eksplozivnih tvari (Obrazac 2.).«.
+Iza stavka 8. dodaju se stavci 9. i 10. koji glase:
+»Prijavljena tijela koja obavljaju postupke ocjene sukladnosti obvezna su voditi registar pirotehničkih sredstava za koja su izdala EZ certifikate o pregledu tipa u skladu s postupkom ocjene sukladnosti (modul B ili modul G ili modul H) u obliku koji je naveden u Prilogu 1., a koji je tiskan uz ovaj Pravilnik i njegov je sastavni dio. Podaci u registru čuvaju se najmanje 10 godina od datuma kada su prijavljena tijela izdala certifikate.
+Prijavljena tijela iz stavka 9. ovoga članka dužna su redovito ažurirati registar i objavljivati ga na internetu. Ako je ovlaštenje tijelu koje obavlja ocjenu sukladnosti povučeno, to tijelo dužno je proslijediti registar drugom prijavljenom tijelu ili Ministarstvu unutarnjih poslova.«.
