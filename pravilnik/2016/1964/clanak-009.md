@@ -1,0 +1,2 @@
+# Članak 9.
+Ravnatelj zdravstvene ustanove u kojoj je transplantacijski centar i osoba/e ovlaštene za prijavu kandidata te vođenje Liste čekanja u transplantacijskom centru odgovorni su za vjerodostojnost upisanih općih i medicinskih podataka vezanih uz prijavu i status kandidata na Listi čekanja i njihovo pravovremeno zanavljanje, kao i za upis podataka u registre iz članka 8. stavka 4. ovoga Pravilnika.
