@@ -1,0 +1,2 @@
+# Članak 1.
+U Odluci o provedbi Provedbene uredbe Komisije (EU) br. 680/2014 o utvrđivanju provedbenih tehničkih standarda o nadzornom izvješćivanju institucija u skladu s Uredbom (EU) br. 575/2013 (»Narodne novine«, br. 84/2014., 116/2014., 16/2015., 67/2015., 119/2015. i 34/2016.), u Uputi za sastavljanje i dostavljanje izvještaja iz Uredbe, koja je sastavni dio te Odluke, u točkama 51. i 52. Upute riječi »Odluke o provedbi Provedbene uredbe Komisije (EU) br. 680/2014« zamjenjuju se riječima »ove Odluke«.
