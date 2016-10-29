@@ -1,0 +1,6 @@
+# Članak 2.
+(1) Izvanredno ispitivanje zakonitih mjerila u uporabi obavlja ovlašteni mjeritelj Državnog zavoda za mjeriteljstvo (u daljnjem tekstu: ovlašteni mjeritelj).
+(2) Izvanredno ispitivanje zakonitih mjerila u uporabi obavlja se na zahtjev nadležnog inspekcijskog tijela u slučaju sumnje u ispravnost zakonitog mjerila.
+(3) Izvanredno ispitivanje zakonitih mjerila u uporabi obavlja se na zahtjev vlasnika mjerila nakon pisane predstavke korisnika mjerila koji izražava sumnju u ispravnost zakonitog mjerila.
+(4) Vlasnik obračunskog komunalnog mjerila u uporabi temeljem kojeg se utvrđuje cijena toplinske energije, električne energije, vode ili plina je pravna ili fizička osoba koja prodaje toplinsku energiju, električnu energiju, vodu ili plin.
+(5) Vlasnik zakonitog mjerila iz stavka 4. ovoga članka dužan je mjerilo s obračunskog mjesta dostaviti do mjesta ispitivanja i pri tome postupati s osobitom pozornošću da ne bi došlo do mehaničkih oštećenja koja mogu utjecati na mjeriteljska svojstva mjerila. O tome se postupanju sastavlja zapisnik o izuzimanju mjerila iz mreže koji potpisuje vlasnik obračunskog komunalnog mjerila i korisnik mjerila. Zapisnik o izuzimanju mjerila iz mreže mora sadržavati očitano stanje zakonitog mjerila prilikom izuzimanja iz mreže i stanje ovjerne oznake (plomba). Zapisnik se prilaže uz zahtjev za izvanredno ispitivanje.
