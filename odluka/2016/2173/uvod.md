@@ -1,0 +1,1 @@
+Na temelju članka 7. Zakona o financiranju političkih aktivnosti i izborne promidžbe (»Narodne novine« broj 24/11., 61/11., 27/13., 2/14. - Odluka Ustavnog suda Republike Hrvatske i 96/16.) i članka 60. Poslovnika Hrvatskoga sabora (»Narodne novine« broj 81/13.) Odbor za Ustav, Poslovnik i politički sustav Hrvatskoga sabora na sjednici održanoj 2. studenoga 2016. godine donio je
