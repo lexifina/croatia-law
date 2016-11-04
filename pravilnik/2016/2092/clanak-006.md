@@ -1,0 +1,2 @@
+# Članak 6.
+Odore pripadnika Operativnih snaga, s navođenjem podataka o njihovom izgledu i opisom izgleda, veličinama i mjerama, sirovinskom sastavu, kvaliteti materijala (tehničke karakteristike i norme), kvaliteti šavova i šivanja, zaštitnim funkcijama, označavanju (deklariranju), pakiranju kao i o drugim podacima od značaja za kvalitetu odore, uređuju se Katalogom kvalitete odora Operativnih snaga koji donosi čelnik Uprave.

@@ -1,0 +1,5 @@
+# Članak 3.
+(1) Državni službenici i namještenici Uprave koji radne zadaće isključivo i u cijelosti obavljaju u uredskim prostorima ne zadužuju odoru pripadnika Operativnih snaga.
+(2) Državni službenici i namještenici županijskih centara 112 i operativnih odjela Državnog centra zaštite i spašavanja (odjel za operativno-komunikacijske poslove i Vatrogasno operativno središte) od službene odore zadužuju isključivo polo majice s logom Uprave (dugi i kratki rukav) i posebnom oznakom »112«.
+(3) Operativne snage sustava civilne zaštite navedene u članku 20. Zakona o sustavu civilne zaštite, osim snaga iz članka 1. ovog Pravilnika, u provođenju mjera i aktivnosti sustava civilne zaštite sudjeluju u odorama i radnoj odjeći sukladno svojim posebnim propisima i internim aktima.
+(4) Operativni državni službenici i namještenici Sektora za vatrogastvo i državna vatrogasna intervencijska postrojba, osim odora propisanih ovim Pravilnikom, nose zaštitnu odoru i drugu opremu koja se koristi prilikom vatrogasne intervencije te svečanu vatrogasnu odoru i oznake zvanja sukladno posebnim propisima u području vatrogastva.
