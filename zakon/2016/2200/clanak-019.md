@@ -1,0 +1,4 @@
+# Članak 19.
+U članku 21. stavku 2. iza riječi: »koje se odnose na:« dodaju se riječi: »uspostavu i upravljanje cjelovitim sustavom strateškog planiranja razvoja na nacionalnoj razini, koordinaciju izrade nacionalne razvojne strategije, vodeći pritom računa o usklađenosti s ciljevima i prioritetima na razini Europske unije;«, a iza riječi: »surađuje s« dodaju se riječi: »ministarstvom nadležnim za financije i drugim nadležnim ministarstvima te«.
+Stavak 4. mijenja se i glasi:
+»Ministarstvo sudjeluje s ministarstvom nadležnim za upravljanje državnom imovinom u poslovima upravljanja i raspolaganja dionicama i poslovnim udjelima trgovačkih društava koji čine državnu imovinu u vlasništvu Republike Hrvatske te u pogledu trgovačkih društava koja se pretežno bave djelatnostima iz područja propisane nadležnosti ovoga Ministarstva.«.

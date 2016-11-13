@@ -1,0 +1,3 @@
+# Članak 28.
+Danom stupanja na snagu ovoga Zakona Ministarstvo državne imovine preuzima poslove, opremu, pismohranu i drugu dokumentaciju, sredstva za rad, financijska sredstva te prava i obveze Središnjeg državnog ureda za upravljanje državnom imovinom, kao i državne službenike i namještenike zatečene na preuzetim poslovima.
+Državni službenici i namještenici Središnjeg državnog ureda za upravljanje državnom imovinom koji su u trenutku stupanja na snagu ovoga Zakona zatečeni na obavljanju preuzetih poslova nastavljaju s radom na poslovima na kojima su zatečeni i zadržavaju plaće prema dosadašnjim propisima, do donošenja rješenja o rasporedu na radna mjesta, odnosno sklapanja ugovora o radu, prema pravilniku iz članka 29. stavka 2. ovoga Zakona.
