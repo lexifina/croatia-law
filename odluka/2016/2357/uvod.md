@@ -1,0 +1,1 @@
+Na temelju članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/11, 119/14 i 93/16) i članka 13. stavka 1. Zakona o reprezentativnosti udruga poslodavaca i sindikata (»Narodne novine«, br. 93/14 i 26/15), Vlada Republike Hrvatske je na sjednici održanoj 24. studenoga 2016. godine donijela
