@@ -1,0 +1,7 @@
+## 1. OPĆE ODREDBE
+## Predmet Odluke
+# Članak 1.
+Ovom se Odlukom radi provedbe Uredbe (EU) br. 575/2013 Europskog parlamenta i Vijeća od 26. lipnja 2013. o bonitetnim zahtjevima za kreditne institucije i investicijska društva i o izmjeni Uredbe (EU) br. 648/2012 (Tekst značajan za EGP) (SL L 176, 27. 6. 2013., u nastavku teksta: Uredba (EU) br. 575/2013) i Delegirane uredbe Komisije (EU) 2015/61 od 10. listopada 2014. o dopuni Uredbe (EU) br. 575/2013 Europskog parlamenta i Vijeća u pogledu zahtjeva za likvidnosnu pokrivenost kreditnih institucija (Tekst značajan za EGP) (SL L 11, 17. 1. 2015., u nastavku teksta: Delegirana uredba) pobliže uređuju:
+1) za potrebe članka 416. stavka 1. točke (a) Uredbe (EU) br. 575/2013 odnosno članka 10. stavka 1. točke (b) (iii) Delegirane uredbe razina obvezne pričuve koju kreditne institucije mogu uključiti u izvješća za potrebe izvješćivanja i izračuna zahtjeva za likvidnosnu pokrivenost,
+2) za potrebe članka 12. stavka 1 točke (c) (i) Delegirane uredbe glavni burzovni indeks u Republici Hrvatskoj i
+3) za potrebe članka 420. stavka 2. Uredbe (EU) br. 575/2013 odnosno članka 23. stavka 2. Delegirane uredbe datum do kojeg su kreditne institucije dužne izvijestiti Hrvatsku narodnu banku o proizvodima i uslugama čiji su vjerojatnost i potencijalni obujam likvidnosnih odljeva iz članka 420. stavka 2. podstavka 1. odnosno članka 23. stavka 1. Delegirane uredbe značajni, te iznos stope odljeva za izvanbilančne povezane proizvode s osnove financiranja trgovine.
