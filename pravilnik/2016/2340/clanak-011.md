@@ -1,0 +1,2 @@
+# Članak 11.
+Vanjski pregled predmeta od plemenitih kovina je dio postupka ispitivanja u kojem se utvrđuje stanje predmeta od plemenitih kovina u trenutku podnošenja na ispitivanje (predmeti od plemenitih kovina prije završnog poliranja, poluproizvodi ili predmeti od plemenitih kovina s određenim oštećenjima) te je li predmet od plemenitih kovina označen sukladno odredbama Zakona o nadzoru predmeta od plemenitih kovina koje se odnose na označivanje predmeta od plemenitih kovina.

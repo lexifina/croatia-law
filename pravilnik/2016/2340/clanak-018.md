@@ -1,0 +1,6 @@
+# Članak 18.
+(1) Državni žig se na predmet od plemenitih kovina utiskuje pored znaka proizvođača odnosno dobavljača i oznake čistoće. Iznimno, u slučaju kada to nije moguće, državni žig se utiskuje na mjesto koje je najbliže znaku proizvođača, odnosno dobavljača i oznaci čistoće.
+(2) Na mješoviti predmet od plemenitih kovina državni žig se utiskuje pored znaka proizvođača odnosno dobavljača i oznake čistoće, čije utiskivanje je obvezno sukladno odredbama Zakona.
+(3) Na predmete od plemenitih kovina državni žig, znak proizvođača odnosno dobavljača i oznaka čistoće utiskuju se na propisano mjesto naznačeno u popisu predmeta od plemenitih kovina u Prilogu - Popis predmeta od plemenitih kovina i oznaka mjesta na koje se utiskuje državni žig, koji je tiskan uz ovaj Pravilnik i njegov je sastavni dio (u daljnjem tekstu: Prilog).
+(4) Državni žig, znak proizvođača odnosno dobavljača i oznaka čistoće mogu se utisnuti i na dijelove predmeta od plemenitih kovina koji nisu navedeni u Prilogu ako su na tim dijelovima oznake jasnije i vidljivije.
+(5) Državni žig, znak proizvođača odnosno dobavljača i oznaka čistoće mogu se utisnuti i na predmete od plemenitih kovina koji nisu navedeni u Prilogu.
