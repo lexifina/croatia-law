@@ -1,0 +1,1 @@
+Na temelju članka 335. stavka 1. Zakona o otvorenim investicijskim fondovima s javnom ponudom (»Narodne novine« broj 44/2016, dalje: Zakon), Hrvatska agencija za nadzor financijskih usluga (dalje: Agencija), na sjednici Upravnog vijeća održanoj 18. studenoga 2016. godine, donijela je
