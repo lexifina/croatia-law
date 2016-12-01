@@ -1,4 +1,0 @@
-# Članak 3.
-Trošarina na cigarete iznosi:
-1. specifična trošarina 230,00 kuna za 1000 komada cigareta,
-2. proporcionalna trošarina 38% od maloprodajne cijene.

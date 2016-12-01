@@ -1,1 +1,0 @@
-Na temelju članka 75. stavaka 6. i 8. i članka 76. stavka 4. Zakona o trošarinama (»Narodne novine«, br. 22/2013, 32/2013 i 81/2013), Vlada Republike Hrvatske je na sjednici održanoj 16. travnja 2015. godine donijela
