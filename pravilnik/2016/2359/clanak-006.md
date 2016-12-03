@@ -1,0 +1,3 @@
+# Članak 6.
+U članku 33. iza stavka 2. dodaje se stavak 3. koji glasi:
+»(3) Ako prvostupanjska zdravstvena komisija za djelatnu vojnu osobu donese ocjenu zdravstvene sposobnosti daljnje liječenje/dijagnostička obrada, u odluci se utvrđuje rok za ponovno utvrđivanje zdravstvene sposobnosti koji ne može biti dulji od tri mjeseca od dana donošenja odluke. U navedenom slučaju nadređena osoba na dužnosti zapovjednika samostalne bojne, njemu ravne ili više razine te čelnik ustrojstvene jedinice Ministarstva obrane i Oružanih snaga obvezan je uputiti prvostupanjskoj zdravstvenoj komisiji zahtjev za donošenje ocjene zdravstvene sposobnosti najkasnije po isteku roka utvrđenog odlukom.«

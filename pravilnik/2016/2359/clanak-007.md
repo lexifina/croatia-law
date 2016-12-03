@@ -1,0 +1,3 @@
+# Članak 7.
+U članku 41. stavku 1. riječi: »pravilnikom kojim se uređuju obveze ustrojstvenih jedinica Ministarstva obrane i Oružanih snaga prema sudionicima operacije potpore miru« zamjenjuju se riječima: »pravilnikom kojim se uređuje postupak i ovlasti u ostvarivanju prava na zdravstvenu zaštitu i prava na zdravstveno osiguranje pripadnika Oružanih snaga«.
+U stavku 2. riječi: »pravilnikom kojim se uređuju obveze ustrojstvenih jedinica Ministarstva obrane i Oružanih snaga prema sudionicima operacije potpore miru« zamjenjuju se riječima: »pravilnikom kojim se uređuje postupak i ovlasti u ostvarivanju prava na zdravstvenu zaštitu i prava na zdravstveno osiguranje pripadnika Oružanih snaga.«
