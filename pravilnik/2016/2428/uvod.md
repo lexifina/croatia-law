@@ -1,0 +1,1 @@
+Na temelju članka 3. stavka 1., članka 108. stavka 7., članka 252. stavka 5., članka 253. stavka 9. i članka 260. Zakona o otvorenim investicijskim fondovima s javnom ponudom (»Narodne novine« br. 44/2016, dalje: Zakon), Hrvatska agencija za nadzor financijskih usluga (dalje: Agencija) na sjednici Upravnog vijeća održanoj 25. 11. 2016. godine donijela je
