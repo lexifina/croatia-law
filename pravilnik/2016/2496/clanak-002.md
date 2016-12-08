@@ -1,0 +1,5 @@
+# Članak 2.
+Iza članka 8. dodaje se novi članak 8.a koji glasi:
+»Članak 8.a
+(1) Ako podnositelj prijave iz članka 8. stavak 1. ovoga Pravilnika istovremeno uz prijavu o upućivanju na rad, odnosno stručno usavršavanje ili obrazovanje u treću državu podnosi i zahtjev za oslobođenje od plaćanja posebnog doprinosa za korištenje zdravstvene zaštite u inozemstvu u skladu s člankom 79. stavkom 1. Zakona, obvezan je uz dokumentaciju utvrđenu člankom 8. stavkom 2. podstavkom 1. i 2. ovoga Pravilnika priložiti i dokaz da je zdravstvenu zaštitu osiguraniku iz članka 6. stavka 1. ovoga Pravilnika u zemlji rada osigurao o svojem trošku.
+(2) Zavod ne snosi troškove zdravstvene zaštite korištene u trećoj državi za osiguranike iz članka 6. stavka 1. ovoga Pravilnika upućene na rad, odnosno stručno usavršavanje ili obrazovanje u treću državu ako je rješenjem Zavoda iz članka 79. stavka 2. Zakona podnositelju prijave iz stavka 1. ovoga članka odobreno oslobađanje od plaćanja posebnog doprinosa za korištenje zdravstvene zaštite u inozemstvu.«.
