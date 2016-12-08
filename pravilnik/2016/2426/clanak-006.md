@@ -1,0 +1,3 @@
+# Članak 6.
+(1) Pretpakovine vina iz uvoza/unosa zatečene na zalihama osobe koja obavlja trgovinu vinom i/ili osobe koja obavlja punjenje ili zatečene u prometu na prostoru Republike Hrvatske danom stupanja na snagu ovoga Pravilnika, mogu se prodavati na tržištu do njihovog iskorištenja sukladno odredbama Pravilnika o registru vinograda, obveznim izjavama, pratećim dokumentima, podrumskoj evidenciji i proizvodnom potencijalu (»Narodne novine«, br. 48/14, 83/14 i 147/14).
+(2) Vino u rinfuzi koje danom stupanja na snagu ovoga Pravilnika bude zatečeno na zalihi osobe koja obavlja trgovinu vinom i/ili osobe koja obavlja punjenje, prije stavljanja u promet mora se označiti sukladno odredbama ovoga Pravilnika.
