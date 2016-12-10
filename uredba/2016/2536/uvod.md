@@ -1,0 +1,1 @@
+Na temelju članka 8. Zakona o igrama na sreću (»Narodne novine«, br. 87/09, 35/13, 41/14 i 143/14), a u vezi s člancima 2., 3. i 24. Zakona o ustrojstvu i djelokrugu ministarstava i drugih središnjih tijela državne uprave (»Narodne novine«, br. 93/16 i 104/16), Vlada Republike Hrvatske je na sjednici održanoj 8. prosinca 2016. godine donijela

@@ -1,0 +1,2 @@
+# Članak 1.
+U Uredbi o kriterijima za utvrđivanje korisnika i načinu raspodjele dijela prihoda od igara na sreću za 2016. godinu (»Narodne novine«, broj 38/16), u članku 3. točki 1. riječi: »u razdjelu 080 Ministarstvo znanosti, obrazovanja i sporta, Glavi 08005 Ministarstvo znanosti, obrazovanja i sporta, za aktivnost A557047 - Programi javnih potreba u sportu na državnoj razini« zamjenjuju se riječima: »u razdjelu 036 Središnji državni ured za šport, Glavi 03605 Središnji državni ured za šport, za aktivnost A916002 - Programi javnih potreba u sportu na državnoj razini«.
