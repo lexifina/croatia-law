@@ -1,0 +1,4 @@
+# Članak 28.
+(1) Za člana posade ukrcanog na pomorski objekt u međunarodnoj plovidbi kojeg ukrcava brodar, kompanija, poslodavac ili posrednik, podatke o ukrcaju odnosno iskrcaju navedene u Dodatku I. ovoga Pravilnika u Sustav CIMIS dužni su unijeti brodar, kompanija, poslodavac ili posrednik u roku ne duljem od deset dana od dana ukrcaja odnosno iskrcaja.
+(2) Brodar, kompanija, poslodavac ili posrednik iz stavka 1. ovoga članka jamči za istinitost podataka u svezi plovidbene službe člana posade kojeg ukrcava na pomorski objekt.
+(3) Brodar, kompanija, poslodavac ili posrednik iz stavka 1. ovoga članka je dužan prikupljati podatke i dokumente potrebne za prijavu ukrcaja odnosno iskrcaja navedene u Dodatku I. i članku 42. stavku 3. alinejama 1., 2. i 3. ovog Pravilnika i čuvati ih sukladno posebnim propisima te ih dostaviti ili dati na uvid na zahtjev lučke kapetanije i nadležnih inspekcijskih tijela.

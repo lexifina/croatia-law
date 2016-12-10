@@ -1,0 +1,1 @@
+Na temelju članaka 1021. stavak 1. alineja 11., a u vezi s člankom 137. Pomorskog zakonika (»Narodne novine« broj 181/04, 76/07, 146/08, 61/11, 56/13 i 26/15) ministar mora, prometa i infrastrukture donosi

@@ -1,0 +1,3 @@
+# Članak 26.
+(1) Podatke o ukrcaju člana posade na pomorske objekte u nacionalnoj plovidbi lučka kapetanija ili ispostava lučke kapetanije nadležna za luku ukrcaja, odnosno zapovjednik, brodar, kompanija ili posrednik dužan je unijeti u Sustav CIMIS najkasnije do trenutka ukrcaja pomorca na pomorski objekt.
+(2) Podatke o iskrcaju člana posade s pomorskog objekta u nacionalnoj plovidbi lučka kapetanija ili ispostava lučke kapetanije nadležna za luku iskrcaja, odnosno zapovjednik, brodar, kompanija ili posrednik dužan je unijeti u Sustav CIMIS u roku ne duljem od 24 sata od trenutka iskrcaja pomorca s pomorskog objekta.

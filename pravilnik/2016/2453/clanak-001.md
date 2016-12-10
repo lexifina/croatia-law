@@ -1,0 +1,3 @@
+# Članak 1.
+(1) Ovim Pravilnikom propisuju se uvjeti za stjecanje pomorske knjižice, odobrenja za ukrcavanje, odnosno identifikacijske isprave pomorca, podaci koji se upisuju u pomorsku knjižicu, odobrenje za ukrcavanje, odnosno identifikacijsku ispravu pomorca, nadležnost za upisivanje i ovjeru podataka, kao i za izdavanje pomorske knjižice, odobrenja za ukrcavanje, odnosno identifikacijske isprave pomorca.
+(2) Ovim Pravilnikom utvrđuju se i postupci lučkih kapetanija, te način prijave i odjave na obvezno mirovinsko i obvezno zdravstveno osiguranje članova posade kao i uvjeti, sadržaj i način podnošenja podataka potrebnih za prijavu i odjavu.

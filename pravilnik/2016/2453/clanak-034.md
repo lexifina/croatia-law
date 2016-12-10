@@ -1,0 +1,3 @@
+# Članak 34.
+(1) Za pomorca koji je ukrcan na pomorski objekt u međunarodnoj plovidbi koji vije zastavu treće države nadležna lučka kapetanija ne podnosi prijavu i odjavu iz članka 33. stavka 1. ovog Pravilnika u slučaju kada pomorac dostavi dokaz da je obvezno osiguran kod stranog nositelja socijalnog osiguranja u trećoj državi s kojom Republika Hrvatska ima sklopljen ugovor o socijalnom osiguranju, osim ako je drukčije utvrđeno ugovorom o socijalnom osiguranju.
+(2) Dokaz postojanja obveznog osiguranja iz stavka 1. ovog članka je potvrda koju na traženje pomorca izdaje strani nositelj socijalnog osiguranja sukladno ugovoru o socijalnom osiguranju.

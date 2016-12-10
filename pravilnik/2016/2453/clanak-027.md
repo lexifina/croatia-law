@@ -1,0 +1,4 @@
+# Članak 27.
+(1) Za člana posade ukrcanog na pomorski objekt u nacionalnoj plovidbi, na razdoblja između ukrcaja i iskrcaja kraća od 15 dana, u Sustav CIMIS unose se podaci o svim ukrcajima i iskrcajima, dok se u pomorsku knjižicu odnosno odobrenje za ukrcavanje upisuje podatak o prvom ukrcaju i podatak o zadnjem iskrcaju, a sve do trenutka dok pomorac ne promijeni svojstvo ukrcaja ili dok se ne iskrca zbog korištenja godišnjeg odmora, slobodnih dana, bolovanja ili bilo kojeg drugog razloga koji se ne odnosi na redoviti raspored plovidbene službe na tom pomorskom objektu.
+(2) Iznimno od odredbe članka 17. ovog Pravilnika za utvrđivanje plovidbene službe u svrhu ostvarivanja prava pomorca iz stavka 1. ovoga članka koja ovise o plovidbenoj službi koriste se podaci iz Sustava CIMIS.
+(3) Podatak o zadnjem iskrcaju iz stavka 1. ovoga članka upisuje se u pomorsku knjižicu odnosno odobrenje za ukrcavanje prilikom ovjere plovidbene službe.

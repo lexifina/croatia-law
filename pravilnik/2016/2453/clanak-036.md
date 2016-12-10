@@ -1,0 +1,2 @@
+# Članak 36.
+Za pomorca koji ima prebivalište ili uobičajeno boravište u Republici Hrvatskoj i za pomorca državljanina EU ili EGP, koji je ukrcan na pomorski objekt u međunarodnoj plovidbi koji vije zastavu Republike Hrvatske čiji je poslodavac, brodar ili kompanija hrvatska pravna ili fizička osoba, prijavu i odjavu iz članka 33. stavka 1. ovog Pravilnika podnosi poslodavac, brodar ili kompanija.

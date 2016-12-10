@@ -1,0 +1,4 @@
+# Članak 6.
+(1) Za obavljanje radnji za koje ovim Pravilnikom nije propisano da ih mora obavljati osobno, podnositelj zahtjeva za izdavanje pomorske knjižice ili odobrenja za ukrcavanje može opunomoćiti brodara, kompaniju, poslodavca, posrednika, pomorsko učilište odnosno fizičku osobu koja je potpuno poslovno sposobna, osim osobe koja se bavi nadripisarstvom.
+(2) Punomoć iz stavka 1. ovog članka mora biti pisana i ovjerena od javnog bilježnika ili u diplomatskoj misiji ili konzularnom uredu Republike Hrvatske.
+(3) Iznimno od odredbe stavka 2. ovog članka, brodar, kompanija, poslodavac, posrednik odnosno pomorsko učilište, može nadležnoj lučkoj kapetaniji podnijeti zahtjev za izdavanje pomorske knjižice ili odobrenja za ukrcavanje u ime podnositelja zahtjeva temeljem pisane punomoći koja nije ovjerena, uz obvezu prethodnog utvrđivanja identiteta podnositelja zahtjeva koji daje punomoć.

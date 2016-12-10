@@ -1,0 +1,4 @@
+## VIII. POSTUPAK I NAČIN PRIJAVE NA OBVEZNO MIROVINSKO I OBVEZNO ZDRAVSTVENO OSIGURANJE POMORCA UKRCANOG NA POMORSKI OBJEKT U MEĐUNARODNOJ PLOVIDBI
+# Članak 33.
+(1) Prijavu i odjavu na obvezna osiguranja pomorca ukrcanog na pomorski objekt u međunarodnoj plovidbi koji u Republici Hrvatskoj ima prebivalište ili uobičajeno boravište, a čiji je poslodavac, brodar ili kompanija strana fizička ili pravna osoba podnosi nadležna lučka kapetanija.
+(2) Za pomorca koji je ukrcan na pomorski objekt u međunarodnoj plovidbi koji vije zastavu druge države članice EU ili EGP, osim pomorskog objekta koji vije zastavu Republike Hrvatske, nadležna lučka kapetanija ne podnosi prijave i odjave iz stavka 1. ovog članka, osim u slučajevima kada je pomorac izuzet iz socijalnog sustava države članice EU ili EGP posjedovanjem obrasca izdanog sukladno posebnim propisima o mirovinskom osiguranju.
