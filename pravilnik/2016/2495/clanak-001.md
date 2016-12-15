@@ -1,0 +1,2 @@
+# Članak 1.
+U Pravilniku o načinu propisivanja i izdavanja lijekova na recept (»Narodne novine«, broj 17/09., 46//09., 4/10., 110/10., 131/10., 1/11., 16/11., 52/11., 129/13., 146/13., 45/14., 81/14. i 17/15.) u odredbi članka 2. koja je propisana Pravilnikom o izmjenama Pravilnika o načinu propisivanja i izdavanja lijekova na recept (»Narodne novine«, broj 17/15.), riječi: »31. prosinca 2016.« zamjenjuju se riječima: »31. prosinca 2017.«.
