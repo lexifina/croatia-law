@@ -1,0 +1,261 @@
+PRILOG 1
+POPIS RAČUNA PRORAČUNA
+Naziv županije/grada/općine
+IBAN
+Oznaka grada/općine
+Mjerodavna ispostava Porezne uprave
+I. ZAGREBAČKA ŽUPANIJA
+(sjedište u Zagrebu)
+SVETA NEDJELJA (Samobor)
+HR9223900011843600003
+436
+SAMOBOR
+V. VARAŽDINSKA ŽUPANIJA
+(sjedište u Varaždinu)
+NOVI MAROF
+HR0323600001828900008
+289
+NOVI MAROF
+VIII. PRIMORSKO-GORANSKA ŽUPANIJA
+(sjedište u Rijeci)
+BAKAR
+HR7824020061800400007
+004
+RIJEKA
+XIII. ZADARSKA ŽUPANIJA
+(sjedište u Zadru)
+PAŠMAN
+HR4723900011832000001
+320
+BIOGRAD NA MORU
+POVLJANA
+HR5223400091857300003
+573
+PAG
+XV. ŠIBENSKO-KNINSKA ŽUPANIJA
+(sjedište u Šibeniku)
+ŠIBENSKO-KNINSKA ŽUPANIJA
+HR4323900011800015002
+444
+BILICE
+HR5424020061862100005
+621
+ŠIBENIK
+PRIMOŠTEN
+HR3924070001835700004
+357
+ŠIBENIK
+ROGOZNICA
+HR4123900011858200003
+582
+ŠIBENIK
+SKRADIN
+HR9223900011839400000
+394
+ŠIBENIK
+ŠIBENIK
+HR2324020061844400003
+444
+ŠIBENIK
+XVII. SPLITSKO-DALMATINSKA ŽUPANIJA
+(sjedište u Splitu)
+DICMO
+HR2424020061807200000
+072
+SINJ
+PUČIŠĆA
+HR4023900011835800005
+358
+SUPETAR
+SINJ
+HR3623900011838900003
+389
+SINJ
+TROGIR
+HR4323900011846300007
+463
+TROGIR
+XIX. DUBROVAČKO-NERETVANSKA ŽUPANIJA
+(sjedište u Dubrovniku)
+SMOKVICA
+HR3423400091840200003
+402
+KORČULA
+XX. MEĐIMURSKA ŽUPANIJA
+(sjedište u Čakovcu)
+ČAKOVEC
+HR1524070001806000006
+060
+ČAKOVEC
+DONJA DUBRAVA
+HR5523900011807800006
+078
+PRELOG
+PRILOG 3
+POPIS VRSTA PRIHODA I DOPUŠTENIH MODELA ZA VLASTITE PRIHODE
+(državnog, županijskih i gradskih/općinskih proračuna i Hrvatskog zavoda za zdravstveno osiguranje)
+Brojčana oznaka vrste prihoda
+Model
+HR23
+HR24
+HR26
+HR27
+HR28
+HR29
+HR62
+HR63
+HR64
+HR65
+HR68
+A. Vlastiti prihodi Državnoga proračuna
+1279
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+HR68
+6076
+-
+-
+-
+-
+-
+-
+-
+HR63
+HR64
+-
+-
+6068
+-
+-
+HR26
+-
+-
+-
+-
+HR63
+HR64
+HR65
+-
+8273
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+HR68
+8389
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+HR68
+9792
+-
+-
+-
+HR27
+-
+-
+-
+-
+-
+-
+HR68
+HR100100517xxx1606K Porez na dobit
+1970
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+HR68
+B. Vlastiti prihodi županijskih proračuna
+1350
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+HR68
+C. Vlastiti prihodi gradskih i općinskih proračuna
+1783
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+HR68
+E. Prihodi Hrvatskog zavoda za zdravstveno osiguranje
+8850
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+HR68
+8869
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+HR68
+PRILOG 4
+POPIS DOPUŠTENIH MODELA ZA ZAJEDNIČKE PRIHODE PRORAČUNA I DRUGE PRIHODE ZA FINANCIRANJE JAVNIH POTREBA
+D. SREDSTVA DOPRINOSA ZA MIROVINSKO OSIGURANJE ZA STAROST NA TEMELJU INDIVIDUALNE KAPITALIZIRANE ŠTEDNJE (primjena od 1. siječnja 2017. godine)
+Račun/naziv računa
+Brojčana oznaka vrste prihoda (iz polja »poziv na broj«)
+Model
+HR05
+HR68
+HR7610010051700036001 Doprinos za mirovinsko osiguranje za starost na temelju individualne kapitalizirane štednje
+2364
+-
+HR68
+2372
+-
+HR68
