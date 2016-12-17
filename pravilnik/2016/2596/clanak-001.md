@@ -1,0 +1,3 @@
+# Članak 1.
+U Pravilniku o prostornom i vremenskom ograničenju obavljanja gospodarskog ribolova na moru okružujućom mrežom plivaricom - srdelarom u 2016. godini (»Narodne novine« br. 141/15, 19/16, 39/16, 59/16, 76/16 i 94/16) u članku 3. stavku 1. nakon riječi: »15. prosinca 2016. godine u 12.00 sati« dodaju se riječi: »i u razdoblju od 21. prosinca 2016. godine u 12.00 sati do 24. prosinca 2016. godine u 12.00 sati«.
+U stavku 3. nakon riječi: »15. prosinca 2016. godine u 12.00 sati« dodaju se riječi: »i u razdoblju od 21. prosinca 2016. godine u 12.00 sati do 24. prosinca 2016. godine u 12.00 sati«.
