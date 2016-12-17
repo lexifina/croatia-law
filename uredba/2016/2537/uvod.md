@@ -1,0 +1,1 @@
+Na temelju članka 12.a stavka 2. Zakona o područjima posebne državne skrbi (»Narodne novine«, br. 86/08, 57/11, 51A/13, 148/13, 76/14, 147/14 i 18/15), Vlada Republike Hrvatske je na sjednici održanoj 8. prosinca 2016. godine donijela
