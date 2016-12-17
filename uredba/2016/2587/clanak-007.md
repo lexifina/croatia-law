@@ -1,0 +1,8 @@
+## 3. SEKTOR ZA RAZVOJ ŠPORTA
+# Članak 7.
+Sektor za razvoj športa vrednuje programe javnih potreba u športu koje predlažu krovne športske organizacije (Hrvatski olimpijski odbor, Hrvatski paraolimpijski odbor, Hrvatski sportski savez gluhih, Hrvatski školski sportski savez i Hrvatski akademski sportski savez); obavlja upravne i stručne poslove koji se odnose na predlaganje Nacionalnog programa športa; usklađuje aktivnosti krovnih športskih organizacija i nacionalnih športskih saveza; organizira sustav praćenja, analize i razvoja športa kroz programe krovnih športskih organizacija i nacionalnih športskih saveza; priprema kategorizaciju športova i kriterije za financiranje športa na državnoj razini temeljem kategorizacije športova; obavlja poslove pripreme stručnih podloga za izradu nacrta prijedloga zakona, prijedloga drugih propisa iz djelokruga Sektora.
+Sektor surađuje sa svim institucijama Europske unije i drugim međunarodnim institucijama važnim za šport; sudjeluje u radu stalnih tijela Vijeća Europe i drugih međunarodnih organizacija u području športa; provodi programe međunarodne suradnje; obavlja poslove vezane uz EU fondove; vodi registar i evidencije prema standardima Europske unije; sudjeluje u izradi financijskog i provedbenog plana velikih športskih priredbi u zemlji i inozemstvu; skrbi i organizira sustav školovanja športaša i športskih djelatnika. Sektor obavlja i druge poslove iz svoga djelokruga.
+Za obavljanje poslova iz djelokruga Sektora za razvoj športa, ustrojavaju se sljedeće unutarnje ustrojstvene jedinice:
+3.1. Služba za programe krovnih športskih organizacija i nacionalnih športskih saveza
+3.2. Služba za međunarodnu suradnju i EU fondove.
+3.1. Služba za programe krovnih športskih organizacija i nacionalnih športskih saveza
