@@ -1,0 +1,8 @@
+# Članak 1.
+U Pravilniku o evidenciji uporabe poljoprivrednog zemljišta (»Narodne novine« broj 35/2015) u članku 8. iza stavka 1. dodaju se stavci 2., 3., 4., 5. i 6. koji glase:
+»(2) Na temelju izjave iz stavka 1. ovoga članka poljoprivrednik može u Agenciji pokrenuti postupak upisa u ARKOD i onih poljoprivrednih površina koje koristi, a za koje ne posjeduje dokumente o vlasništvu i/ili posjedu.
+(3) U slučaju iz stavka 2. ovoga članka Agencija će kroz postupak utvrđivanja činjeničnog stanja na terenu (brza terenska provjera), po potrebi uz prisutnost poljoprivrednika i poljoprivrednika koji koriste susjedne ARKOD parcele, provjeriti činjenice korištenja, poljoprivredne površine ucrtane prema ARKOD metodologiji i evidentirati u Zapisnik.
+(4) Izvadak iz Zapisnika iz stavka 3. ovoga članka objavljuje se na oglasnoj ploči regionalnog ureda Agencije, te se dostavlja nadležnoj jedinici lokalne samouprave radi objave na službenoj oglasnoj ploči i omogućavanja primjedbi na izvadak iz Zapisnika u trajanju od 30 dana od dana objave na oglasnoj ploči regionalnog ureda Agencije.
+(5) Nakon isteka roka iz stavka 4. ovoga članka ukoliko nema primjedbi na izvadak iz Zapisnika, Agencija će ucrtane površine u ARKOD sustavu iz stavka 2. ovoga članka smatrati potvrđenim. U slučaju opravdanih primjedbi odnosno osporavanja korištenja postupit će se sukladno članku 13. ovoga Pravilnika.
+(6) Poljoprivredne površine u vlasništvu države upisuju se u ARKOD samo uz pravno valjanu dokumentaciju u skladu s propisima koji reguliraju korištenje zemljišta u vlasništvu države.«
+Dosadašnji stavci 2. i 3. postaju stavci 7. i 8.
