@@ -1,0 +1,878 @@
+FINANCIJSKI PLAN DRŽAVNE AGENCIJE ZA OSIGURANJE ŠTEDNIH ULOGA I SANACIJU BANAKA ZA 2017. I PROJEKCIJE PLANA ZA 2018. I 2019. GODINU
+I. OPĆI DIO
+A. RAČUN PRIHODA I RASHODA
+Izvršenje
+2015.
+Plan
+2016.
+Plan
+za 2017.
+Projekcija plana za 2018.
+Projekcija plana za 2019.
+PRIHODI POSLOVANJA
+1.015.213.307
+915.300.000
+655.000.000
+655.000.000
+555.000.000
+PRIHODI OD NEFINANCIJSKE IMOVINE
+0
+0
+0
+0
+0
+UKUPNI PRIHODI
+1.015.213.307
+915.300.000
+655.000.000
+655.000.000
+555.000.000
+RASHODI POSLOVANJA
+104.858.452
+1.091.489.000
+11.500.000
+11.500.000
+11.500.000
+RASHODI ZA NEFINANCIJSKU IMOVINU
+136.897
+235.000
+236.000
+236.000
+236.000
+UKUPNI RASHODI
+104.995.349
+1.091.724.000
+11.736.000
+11.736.000
+11.736.000
+RAZLIKA - VIŠAK/MANJAK
+910.217.958
+-176.424.000
+643.264.000
+643.264.000
+543.264.000
+B. RAČUN FINANCIRANJA
+Izvršenje
+2015.
+Plan
+2016.
+Plan
+za 2017.
+Projekcija plana za 2018.
+Projekcija plana za 2019.
+PRIMICI OD FINANCIJSKE IMOVINE I ZADUŽIVANJA
+0
+0
+0
+0
+0
+IZDACI ZA FINANC. IMOVINU I OTPLATE ZAJMOVA
+0
+0
+0
+0
+0
+PRIJENOS DEPOZITA IZ PRETHODNE GODINE
+0
+176.424.000
+0
+0
+0
+PRIJENOS DEPOZITA U SLJEDEĆE RAZDOBLJE
+-910.217.958
+0
+-643.264.000
+-643.264.000
+-543.264.000
+NETO FINANCIRANJE
+-910.217.958
+176.424.000
+-643.264.000
+-643.264.000
+-543.264.000
+VIŠAK/MANJAK + NETO FINANCIRANJE
+0
+0
+0
+0
+0
+A. RAČUN PRIHODA I RASHODA
+PRIHODI POSLOVANJA I PRIHODI OD PRODAJE NEFINANCIJSKE IMOVINE
+Raz-red
+Sku-pina
+Podskupina
+Naziv prihoda
+Izvršenje
+2015.
+Plan
+2016.
+Plan
+za 2017.
+Projekcija plana za 2018.
+Projekcija plana za 2019.
+FOND OSIGURANJA DEPOZITA
+6
+PRIHODI POSLOVANJA
+821.086.944
+707.200.000
+470.000.000
+470.000.000
+370.000.000
+64
+Prihodi od imovine
+752.417.209
+610.000.000
+350.000.000
+350.000.000
+350.000.000
+641
+Prihodi od financijske imovine
+752.417.209
+610.000.000
+350.000.000
+65
+Prihodi od upravnih i administrativnih pristojbi, pristojbi po posebnim propisima i naknada
+68.669.735
+97.200.000
+120.000.000
+120.000.000
+20.000.000
+652
+Prihodi po posebnim propisima
+68.669.735
+97.200.000
+120.000.000
+SANACIJSKI FOND
+6
+PRIHODI POSLOVANJA
+171.500.069
+176.000.000
+175.000.000
+175.000.000
+175.000.000
+64
+Prihodi od imovine
+171.500.069
+176.000.000
+175.000.000
+175.000.000
+175.000.000
+641
+Prihodi od financijske imovine
+171.500.069
+176.000.000
+175.000.000
+POSLOVI PROIZAŠLI IZ POSTUPAKA SANACIJE I PRIVATIZACIJE BANAKA
+6
+PRIHODI POSLOVANJA
+22.119.336
+31.472.000
+9.372.000
+9.372.000
+9.372.000
+64
+Prihodi od imovine
+18.935.256
+7.472.000
+6.072.000
+6.072.000
+6.072.000
+641
+Prihodi od financijske imovine
+18.931.034
+7.465.000
+6.065.000
+642
+Prihodi od nefinancijske imovine
+4.222
+7.000
+7.000
+65
+Prihodi od upravnih i administrativnih pristojbi, pristojbi po posebnim propisima i naknada
+3.184.080
+24.000.000
+3.300.000
+3.300.000
+3.300.000
+652
+Prihodi po posebnim propisima
+3.184.080
+24.000.000
+3.300.000
+MANDATNI POSLOVI
+6
+PRIHODI POSLOVANJA
+506.958
+628.000
+628.000
+628.000
+628.000
+66
+Prihodi od prodaje proizvoda i robe te pruženih usluga i prihodi od donacija
+506.958
+628.000
+628.000
+628.000
+628.000
+661
+Prihodi od prodaje proizvoda i robe te pruženih usluga
+506.958
+628.000
+628.000
+RASHODI POSLOVANJA I RASHODI ZA NABAVU NEFINANCIJSKE IMOVINE
+Raz-red
+Sku-pina
+Podskupina
+Naziv rashoda
+Izvršenje
+2015.
+Plan
+2016.
+Plan
+za 2017.
+Projekcija plana za 2018.
+Projekcija plana za 2019.
+3
+RASHODI POSLOVANJA
+104.858.452
+1.091.489.000
+11.500.000
+11.500.000
+11.500.000
+31
+Rashodi za zaposlene
+4.760.630
+5.841.000
+5.800.000
+5.800.000
+5.800.000
+311
+Plaće (Bruto)
+3.913.010
+4.712.000
+4.682.290
+312
+Ostali rashodi za zaposlene
+157.071
+184.000
+182.160
+313
+Doprinosi na plaće
+690.549
+945.000
+935.550
+32
+Materijalni rashodi
+3.408.166
+3.058.000
+3.100.000
+3.100.000
+3.100.000
+321
+Naknade troškova zaposlenima
+432.598
+373.700
+381.244
+322
+Rashodi za materijal i energiju
+408.788
+373.700
+381.244
+323
+Rashodi za usluge
+2.317.901
+1.850.300
+1.872.610
+329
+Ostali nespomenuti rashodi poslovanja
+248.879
+460.300
+464.903
+34
+Financijski rashodi
+34.416
+90.000
+100.000
+100.000
+100.000
+343
+Ostali financijski rashodi
+34.416
+90.000
+100.000
+37
+Naknade građanima i kućanstvima na temelju osiguranja i druge naknade
+233.028
+1.080.000.000
+0
+0
+0
+371
+Naknade građanima i kućanstvima na temelju osiguranja
+209.339
+1.079.975.000
+0
+372
+Ostale naknade građanima i kućanstvima
+23.689
+25.000
+0
+38
+Ostali rashodi
+96.422.212
+2.500.000
+2.500.000
+2.500.000
+2.500.000
+383
+Kazne, penali i naknade štete
+96.422.212
+2.500.000
+2.500.000
+4
+RASHODI ZA NABAVU NEFINANCIJSKE IMOVINE
+136.897
+235.000
+236.000
+236.000
+236.000
+41
+Rashodi za nabavu neproizvedene dugotrajne imovine
+22.607
+10.000
+10.000
+10.000
+10.000
+412
+Nematerijalna imovina
+22.607
+10.000
+10.000
+42
+Rashodi za nabavu proizvedene dugotrajne imovine
+114.290
+225.000
+226.000
+226.000
+226.000
+422
+Postrojenja i oprema
+114.290
+200.000
+75.000
+423
+Prijevozna sredstva
+0
+15.000
+51.000
+426
+Nematerijalna proizvedena imovina
+0
+10.000
+100.000
+II. POSEBNI DIO
+Šifra
+Naziv
+Izvršenje
+2015.
+Plan
+2016.
+Plan
+za 2017.
+Projekcija plana za 2018.
+Projekcija plana za 2019.
+04
+DRŽAVNA AGENCIJA ZA OSIGURANJE ŠTEDNIH ULOGA I SANACIJU BANAKA
+104.995.349
+1.091.724.000
+11.736.000
+11.736.000
+11.736.000
+FOND OSIGURANJA DEPOZITA
+98.181.867
+1.085.745.377
+5.763.319
+5.763.319
+5.763.319
+100
+ADMINISTRATIVNO UPRAVLJANJE I OPREMANJE
+97.972.528
+5.770.377
+5.763.319
+5.763.319
+5.763.319
+A1000
+ADMINISTRACIJA I UPRAVLJANJE
+97.956.388
+5.667.877
+5.675.819
+5.675.819
+5.675.819
+31
+Rashodi za zaposlene
+1.277.042
+1.810.600
+1.797.076
+1.797.076
+1.797.076
+311
+Plaće
+1.084.201
+1.520.000
+1.509.382
+312
+Ostali rashodi za zaposlene
+5.425
+36.000
+35.640
+313
+Doprinosi na plaće
+187.416
+254.600
+252.054
+32
+Materijalni rashodi
+1.389.868
+1.451.397
+1.468.916
+1.468.916
+1.468.916
+321
+Naknade troškova zaposlenima
+75.309
+181.800
+184.620
+322
+Rashodi za materijal i energiju
+32.248
+176.750
+179.519
+323
+Rashodi za usluge
+1.129.126
+748.900
+757.391
+329
+Ostali nespomenuti rashodi poslovanja
+153.185
+343.947
+347.386
+34
+Financijski rashodi
+3.557
+35.880
+39.827
+39.827
+39.827
+343
+Ostali financijski rashodi
+3.557
+35.880
+39.827
+38
+Ostali rashodi
+95.285.921
+2.370.000
+2.370.000
+2.370.000
+2.370.000
+383
+Kazne, penali i naknade štete
+95.285.921
+2.370.000
+2.370.000
+K2000
+OPREMANJE
+10.488
+97.500
+37.500
+37.500
+37.500
+42
+Rashodi za nabavu proizvedene dugotrajne imovine
+10.488
+97.500
+37.500
+37.500
+37.500
+422
+Postrojenja i oprema
+10.488
+97.500
+37.500
+K2001
+INFORMATIZACIJA
+5.652
+5.000
+50.000
+50.000
+50.000
+42
+Rashodi za nabavu proizvedene dugotrajne imovine
+5.652
+5.000
+50.000
+50.000
+50.000
+426
+Nematerijalna proizvedena imovina
+5.652
+5.000
+50.000
+101
+ISPLATA OSIGURANIH DEPOZITA
+209.339
+1.079.975.000
+0
+0
+0
+A1002
+NAKANDE GRAĐANIMA I KUĆANSTVIMA NA TEMELJU OSIGURANJA I DRUGE NAKNADE
+209.339
+1.079.975.000
+0
+0
+0
+37
+Naknade građanima i kućanstvima na temelju osiguranja i druge naknade
+209.339
+1.079.975.000
+0
+0
+0
+371
+Naknade građanima i kućanstvima na temelju osiguranja
+209.339
+1.079.975.000
+0
+SANACIJSKI FOND
+216.875
+2.120.939
+2.107.213
+2.107.213
+2.107.213
+100
+ADMINISTRATIVNO UPRAVLJANJE I OPREMANJE
+216.875
+2.120.939
+2.107.213
+2.107.213
+2.107.213
+A1000
+ADMINISTRACIJA I UPRAVLJANJE
+202.165
+2.120.939
+2.107.213
+2.107.213
+2.107.213
+31
+Rashodi za zaposlene
+0
+1.812.600
+1.795.390
+1.795.390
+1.795.390
+311
+Plaće
+0
+1.520.000
+1.505.716
+312
+Ostali rashodi za zaposlene
+0
+38.000
+37.620
+313
+Doprinosi na plaće
+0
+254.600
+252.054
+32
+Materijalni rashodi
+202.165
+308.339
+311.823
+311.823
+311.823
+321
+Naknade troškova zaposlenima
+10.000
+8.339
+8.623
+323
+Rashodi za usluge
+192.165
+300.000
+303.200
+K2002
+OPREMANJE
+14.710
+0
+0
+0
+0
+42
+Rashodi za nabavu proizvedene dugotrajne imovine
+14.710
+0
+0
+0
+0
+422
+Postrojenja i oprema
+14.710
+0
+0
+POSLOVI PROIZAŠLI IZ POSTUPAKA SANACIJE I PRIVATIZACIJE BANAKA
+6.266.054
+3.708.974
+3.717.067
+3.717.067
+3.717.067
+102
+ADMINISTRATIVNO UPRAVLJANJE I OPREMANJE
+6.266.054
+3.708.974
+3.717.067
+3.717.067
+3.717.067
+A1003
+ADMINISTRACIJA I UPRAVLJANJE
+6.161.603
+3.576.474
+3.568.567
+3.568.567
+3.568.567
+31
+Rashodi za zaposlene
+3.187.290
+2.082.200
+2.072.374
+2.072.374
+2.072.374
+311
+Plaće
+2.680.014
+1.558.000
+1.553.416
+312
+Ostali rashodi za zaposlene
+40.436
+106.200
+105.138
+313
+Doprinosi na plaće
+466.840
+418.000
+413.820
+32
+Materijalni rashodi
+1.783.474
+1.285.154
+1.306.020
+1.306.020
+1.306.020
+321
+Naknade troškova zaposlenima
+340.413
+172.451
+176.780
+322
+Rashodi za materijal i energiju
+376.540
+196.950
+201.724
+323
+Rashodi za usluge
+970.827
+799.400
+809.999
+329
+Ostali nespomenuti rashodi poslovanja
+95.694
+116.353
+117.517
+34
+Financijski rashodi
+30.859
+54.120
+60.173
+60.173
+60.173
+343
+Ostali financijski rashodi
+30.859
+54.120
+60.173
+37
+Naknade građanima i kućanstvima na temalju osiguranja i druge naknade
+23.689
+25.000
+0
+0
+0
+372
+Ostale naknade građanima i kućanstvima
+23.689
+25.000
+0
+38
+Ostali rashodi
+1.136.291
+130.000
+130.000
+130.000
+130.000
+383
+Kazne, penali i naknade štete
+1.136.291
+130.000
+130.000
+K2002
+OPREMANJE
+87.496
+102.500
+37.500
+37.500
+37.500
+42
+Rashodi za nabavu proizvedene dugotrajne imovine
+87.496
+102.500
+37.500
+37.500
+37.500
+422
+Postrojenja i oprema
+87.496
+102.500
+37.500
+K2003
+INFORMATIZACIJA
+16.955
+15.000
+60.000
+60.000
+60.000
+41
+Rashodi za nabavu neproizvedene dugotrajne imovine
+16.955
+10.000
+10.000
+10.000
+10.000
+412
+Nematerijalna imovina
+16.955
+10.000
+10.000
+42
+Rashodi za nabavu proizvedene dugotrajne imovine
+0
+5.000
+50.000
+50.000
+50.000
+426
+Nematerijalna proizvedena imovina
+0
+5.000
+50.000
+K2004
+OBNOVA VOZNOG PARKA
+0
+15.000
+51.000
+51.000
+51.000
+42
+Rashodi za nabavu proizvedene dugotrajne imovine
+0
+15.000
+51.000
+51.000
+51.000
+423
+Prijevozna sredstva
+0
+15.000
+51.000
+MANDATNI POSLOVI
+330.553
+148.710
+148.401
+148.401
+148.401
+103
+ADMINISTRATIVNO UPRAVLJANJE I OPREMANJE
+328.957
+148.710
+148.401
+148.401
+148.401
+A1004
+ADMINISTRACIJA I UPRAVLJANJE
+328.957
+148.710
+148.401
+148.401
+148.401
+31
+Rashodi za zaposlene
+296.298
+135.600
+135.160
+135.160
+135.160
+311
+Plaće
+148.795
+114.000
+113.776
+312
+Ostali rashodi za zaposlene
+111.210
+3.800
+3.762
+313
+Doprinosi na plaće
+36.293
+17.800
+17.622
+32
+Materijalni rashodi
+32.659
+13.110
+13.241
+13.241
+13.241
+321
+Naknade troškova zaposlenima
+6.876
+11.110
+11.221
+323
+Rashodi za usluge
+25.783
+2.000
+2.020
+K2002
+OPREMANJE
+1.596
+0
+0
+0
+0
+42
+Rashodi za nabavu proizvedene dugotrajne imovine
+1.596
+0
+0
+0
+0
+422
+Postrojenja i oprema
+1.596
+0
+0
+
