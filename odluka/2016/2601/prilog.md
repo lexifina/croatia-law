@@ -1,0 +1,1141 @@
+FINANCIJSKI PLAN HRVATSKIH CESTA ZA 2017. I PROJEKCIJE PLANA ZA 2018. I 2019. GODINU
+I. OPĆI DIO
+A. RAČUN PRIHODA I RASHODA
+Izvršenje 2015.
+Plan 2016.
+Plan za 2017.
+Projekcija plana za 2018.
+Projekcija plana za 2019.
+PRIHODI POSLOVANJA
+2.019.315.622
+1.954.979.000
+2.552.402.000
+2.926.990.000
+2.917.114.000
+PRIHODI OD NEFINANCIJSKE IMOVINE
+38.480
+10.000
+14.000.000
+0
+0
+UKUPNI PRIHODI
+2.019.354.102
+1.954.989.000
+2.566.402.000
+2.926.990.000
+2.917.114.000
+RASHODI POSLOVANJA
+1.070.064.132
+1.162.879.500
+1.115.150.000
+1.108.200.000
+1.116.800.000
+RASHODI ZA NEFINANCIJSKU IMOVINU
+1.144.430.133
+1.013.472.858
+1.364.812.580
+1.753.534.250
+2.093.249.141
+UKUPNI RASHODI
+2.214.494.266
+2.176.352.358
+2.479.962.580
+2.861.734.250
+3.210.049.141
+RAZLIKA - VIŠAK/MANJAK
+-195.140.164
+-221.363.358
+86.439.420
+65.255.750
+-292.935.141
+B. RAČUN FINANCIRANJA
+Izvršenje 2015.
+Plan 2016.
+Plan za 2017.
+Projekcija
+plana za 2018.
+Projekcija plana za 2019.
+PRIMICI OD FINANCIJSKE IMOVINE I ZADUŽIVANJA
+1.474.674.532
+1.640.268.358
+1.614.560.580
+1.487.744.250
+1.905.935.141
+IZDACI ZA FINANC. IMOVINU I OTPLATE ZAJMOVA
+1.090.488.464
+1.418.905.000
+1.701.000.000
+1.553.000.000
+1.613.000.000
+PRIJENOS DEPOZITA U SLJEDEĆE RAZDOBLJE
+-189.045.904
+0
+0
+0
+0
+NETO FINANCIRANJE
+195.140.164
+221.363.358
+-86.439.420
+-65.255.750
+292.935.141
+VIŠAK/MANJAK + NETO FINANCIRANJE
+0
+0
+0
+0
+0
+A. RAČUN PRIHODA I RASHODA
+PRIHODI POSLOVANJA I PRIHODI OD PRODAJE NEFINANCIJSKE IMOVINE
+Raz-red
+Sku-pina
+Podskupina
+Naziv prihoda
+Izvršenje 2015
+Plan 2016.
+Plan za 2017.
+Projekcija
+plana za 2018.
+Projekcija
+plana za 2019.
+6
+PRIHODI POSLOVANJA
+2.019.315.622
+1.954.979.000
+2.552.402.000
+2.926.990.000
+2.917.114.000
+63
+Pomoći iz inozemstva i od subjekata unutar općeg proračuna
+1.941.276.006
+1.892.989.000
+2.519.402.000
+2.894.390.000
+2.884.514.000
+633
+Pomoći proračunu iz drugih proračuna
+1.888.365.296
+1.859.986.000
+2.059.269.000
+2.123.515.000
+638
+Pomoći temeljem prijenosa sredstava EU
+52.910.710
+33.003.000
+460.133.000
+760.999.000
+64
+Prihodi od imovine
+65.737.081
+45.600.000
+18.500.000
+18.100.000
+18.800.000
+641
+Prihodi od financijske imovine
+44.243.859
+22.000.000
+1.800.000
+2.000.000
+642
+Prihodi od nefinancijske imovine
+21.493.223
+23.600.000
+16.700.000
+16.800.000
+65
+Prihodi od upravnih i administrativnih pristojbi, pristojbi po posebnim propisima i naknada
+11.170.776
+15.190.000
+13.300.000
+13.300.000
+12.600.000
+652
+Prihodi po posebnim propisima
+11.170.776
+15.190.000
+13.300.000
+66
+Prihodi od prodaje proizvoda i robe te pruženih usluga i prihodi od donacija
+1.131.758
+1.200.000
+1.200.000
+1.200.000
+1.200.000
+661
+Prihodi od prodaje proizvoda i robe te pruženih usluga
+1.131.758
+1.200.000
+1.200.000
+1.200.000
+7
+PRIHODI OD PRODAJE NEFINANCIJSKE IMOVINE
+38.480
+10.000
+14.000.000
+0
+0
+72
+Prihodi od prodaje proizvedene dugotrajne imovine
+38.480
+10.000
+14.000.000
+0
+0
+721
+Prihodi od prodaje garđevinskih objekata
+0
+0
+14.000.000
+0
+723
+Prihod od prodaje prijevoznih sredstava
+38.480
+10.000
+0
+0
+RASHODI POSLOVANJA I RASHODI ZA NABAVU NEFINANCIJSKE IMOVINE
+Raz-red
+Sku-pina
+Podskupina
+Naziv rashoda
+Izvršenje 2015.
+Plan 2016.
+Plan za 2017.
+Projekcija plana za 2018.
+Projekcija
+plana za 2019.
+3
+RASHODI POSLOVANJA
+1.070.064.132
+1.162.879.500
+1.115.150.000
+1.108.200.000
+1.116.800.000
+31
+Rashodi za zaposlene
+98.032.542
+103.361.450
+104.304.400
+105.688.600
+107.794.500
+311
+Plaće (Bruto)
+81.675.652
+85.991.700
+86.800.700
+89.750.000
+312
+Ostali rashodi za zaposlene
+2.308.604
+2.579.150
+2.574.000
+2.607.500
+313
+Doprinosi na plaće
+14.048.286
+14.790.600
+14.929.700
+15.437.000
+32
+Materijalni rashodi
+500.962.793
+527.888.050
+479.425.600
+469.691.400
+479.285.500
+321
+Naknade troškova zaposlenima
+3.245.149
+4.352.050
+4.797.600
+5.027.500
+322
+Rashodi za materijal i energiju
+13.464.871
+13.577.500
+14.786.000
+15.454.000
+323
+Rashodi za usluge
+474.227.848
+506.806.500
+456.246.000
+455.196.000
+329
+Ostali nespomenuti rashodi poslovanja
+10.024.925
+3.152.000
+3.596.000
+3.608.000
+34
+Financijski rashodi
+444.264.526
+455.830.000
+455.320.000
+456.720.000
+453.620.000
+342
+Kamate za primljene kredite i zajmove
+412.080.777
+418.010.000
+421.350.000
+420.800.000
+343
+Ostali financijski rashodi
+32.183.749
+37.820.000
+33.970.000
+36
+Pomoći unutar opće države
+19.268.076
+68.000.000
+68.000.000
+68.000.000
+68.000.000
+363
+Pomoći unutar općeg proračuna
+19.268.076
+68.000.000
+68.000.000
+68.000.000
+38
+Ostali rashodi
+7.536.197
+7.800.000
+8.100.000
+8.100.000
+8.100.000
+383
+Kazne, penali i naknade štete
+7.536.197
+7.800.000
+8.100.000
+8.100.000
+4
+RASHODI ZA NABAVU NEFINANCIJSKE IMOVINE
+1.144.430.133
+1.013.472.858
+1.364.812.580
+1.753.534.250
+2.093.249.141
+41
+Rashodi za nabavu neproizvedene imovine
+125.994.493
+128.099.000
+91.150.000
+59.700.000
+72.380.000
+411
+Materijalna imovina - prirodna bogatstva
+121.734.817
+124.349.000
+78.300.000
+63.600.000
+412
+Nematerijalna imovina
+4.259.676
+3.750.000
+12.850.000
+8.780.000
+42
+Rashodi za nabavu proizvedene dugotrajne imovine
+1.018.435.640
+885.373.858
+1.273.662.580
+1.693.834.250
+2.020.869.141
+421
+Građevinski objekti
+1.009.421.099
+874.654.358
+1.258.082.580
+1.997.359.141
+422
+Postrojenja i oprema
+5.015.002
+6.719.500
+11.080.000
+19.010.000
+426
+Nematerijalna proizvedena imovina
+3.999.539
+4.000.000
+4.500.000
+4.500.000
+B. RAČUN FINANCIRANJA
+Raz-red
+Sku-pina
+Podskupina
+Izvršenje 2015
+Plan 2016.
+Plan za 2017.
+Projekcija plana za 2018.
+Projekcija
+plana za 2019.
+NETO FINANCIRANJE
+384.186.068
+221.363.358
+-86.439.420
+-65.255.750
+292.935.141
+8
+PRIMICI OD FINANCIJSKE IMOVINE I ZADUŽIVANJA
+1.474.674.532
+1.640.268.358
+1.614.560.580
+1.487.744.250
+1.905.935.141
+83
+Primici od prodaje dionica i udjela u glavnici
+0
+9.573.000
+0
+0
+0
+834
+Primici od prodaje dionica i udjela u glavnici trg.društ.izvan javnog sektora
+0
+9.573.000
+0
+0
+84
+Primici od zaduživanja
+1.474.674.532
+1.630.695.358
+1.614.560.580
+1.487.744.250
+1.905.935.141
+844
+Primljeni krediti i zajmovi od kreditnih i ostalih financijskih institucija izvan javnog sektora
+1.419.674.532
+1.630.695.358
+1.614.560.580
+1.905.935.141
+847
+Primljeni zajmovi od drugih razina vlasti
+55.000.000
+0
+0
+0
+5
+IZDACI ZA FINANCIJSKU IMOVINU I OTPLATE ZAJMOVA
+1.090.488.464
+1.418.905.000
+1.701.000.000
+1.553.000.000
+1.613.000.000
+54
+Izdaci za otplatu glavnice primljenih kredita i zajmova
+1.035.488.464
+1.418.905.000
+1.701.000.000
+1.553.000.000
+1.613.000.000
+544
+Otplata glavnice primljenih kredita i zajmova od kreditnih i ostalih financijskih institucija izvan javnog sektora
+1.035.488.464
+1.418.905.000
+1.701.000.000
+1.613.000.000
+547
+Otplata glavnice primljenih zajmova od drugih razina vlasti
+55.000.000
+0
+0
+0
+II. POSEBNI DIO
+Šifra
+Naziv
+Izvršenje 2015
+Plan 2016.
+Plan za 2017.
+Projekcija
+plana za 2018.
+Projekcija
+plana za 2019.
+03
+HRVATSKE CESTE
+3.304.982.730
+3.595.257.358
+4.180.962.580
+4.414.734.250
+4.823.049.141
+100
+ADMINISTRATIVNO UPRAVLJANJE I OPREMANJE
+208.352.602
+232.019.000
+259.800.000
+255.380.000
+261.640.000
+A1000
+ADMINISTRACIJA I UPRAVLJANJE
+192.679.828
+201.869.500
+209.800.000
+211.300.000
+215.000.000
+31
+Rashodi za zaposlene
+98.032.542
+103.361.450
+104.304.400
+105.688.600
+107.794.500
+311
+Plaće (Bruto)
+81.675.652
+85.991.700
+86.800.700
+312
+Ostali rashodi za zaposlene
+2.308.604
+2.579.150
+2.574.000
+313
+Doprinosi na plaće
+14.048.286
+14.790.600
+14.929.700
+32
+Materijalni rashodi
+54.927.341
+52.888.050
+63.425.600
+64.691.400
+66.285.500
+321
+Naknade troškova zaposlenima
+3.245.149
+4.352.050
+4.797.600
+322
+Rashodi za materijal i energiju
+13.464.871
+13.577.500
+14.786.000
+323
+Rashodi za usluge
+28.192.396
+31.806.500
+40.246.000
+329
+Ostali nespomenuti rashodi poslovanja
+10.024.925
+3.152.000
+3.596.000
+34
+Financijski rashodi
+32.183.749
+37.820.000
+33.970.000
+32.820.000
+32.820.000
+343
+Ostali financijski rashodi
+32.183.749
+37.820.000
+33.970.000
+38
+Ostali rashodi
+7.536.197
+7.800.000
+8.100.000
+8.100.000
+8.100.000
+383
+Kazne, penali i naknade šteta
+7.536.197
+7.800.000
+8.100.000
+K2000
+OPREMANJE
+5.015.002
+6.719.500
+11.080.000
+15.080.000
+19.010.000
+42
+Rashodi za nabavu proizvedene dugotrajne imovine
+5.015.002
+6.719.500
+11.080.000
+15.080.000
+19.010.000
+422
+Postrojenja i oprema
+5.015.002
+6.719.500
+11.080.000
+K2001
+INFORMATIZACIJA
+8.259.215
+7.750.000
+17.350.000
+13.200.000
+13.280.000
+41
+Rashodi za nabavu neproizvedene imovine
+4.259.676
+3.750.000
+12.850.000
+8.700.000
+8.780.000
+412
+Nematerijalna imovina
+4.259.676
+3.750.000
+12.850.000
+42
+Rashodi za nabavu proizvedene dugotrajne imovine
+3.999.539
+4.000.000
+4.500.000
+4.500.000
+4.500.000
+426
+Nematerijalna proizvedena imovina
+3.999.539
+4.000.000
+4.500.000
+K2002
+POSLOVNE ZGRADE
+2.398.557
+15.680.000
+21.570.000
+15.800.000
+14.350.000
+42
+Rashodi za nabavu proizvedene dugotrajne imovine
+2.398.557
+15.680.000
+21.570.000
+15.800.000
+14.350.000
+421
+Građevinski objekti
+2.398.557
+15.680.000
+21.570.000
+101
+SERVISIRANJE UNUTARNJEG DUGA
+1.345.092.596
+1.672.405.000
+1.939.055.000
+1.807.205.000
+1.889.605.000
+A1001
+ZAJMOVI OD TUZEMNIH BANAKA I OSTALIH FINANC. INSTITUCIJA IZVAN JAVNOG SEKTORA
+1.345.092.596
+1.672.405.000
+1.939.055.000
+1.807.205.000
+1.889.605.000
+34
+Financijski rashodi
+375.391.507
+383.750.000
+375.250.000
+370.300.000
+371.100.000
+342
+Kamate za primljene zajmove
+375.391.507
+383.750.000
+375.250.000
+54
+Izdaci za otplatu glavnice primljenih kredita i zajmova
+969.701.089
+1.288.655.000
+1.563.805.000
+1.436.905.000
+1.518.505.000
+544
+Otplata glavnice primljenih kredita i zajmova od kreditnih i ostalih financijskih institucija izvan javnog sektora
+914.701.089
+1.288.655.000
+1.563.805.000
+547
+Otplata glavnice primljenih zajmova od drugih razina vlasti
+55.000.000
+0
+0
+102
+SERVISIRANJE VANJSKOG DUGA
+157.476.645
+164.510.000
+183.295.000
+169.695.000
+144.195.000
+A1002
+ZAJMOVI OD INOZEMNIH BANAKA I OSTALIH FINANCIJSKIH INSTITUCIJA IZVAN JAVNOG SEKTORA
+157.476.645
+164.510.000
+183.295.000
+169.695.000
+144.195.000
+34
+Financijski rashodi
+36.689.270
+34.260.000
+46.100.000
+53.600.000
+49.700.000
+342
+Kamate za primljene zajmove
+36.689.270
+34.260.000
+46.100.000
+54
+Izdaci za otplatu glavnice primljenih kredita i zajmova
+120.787.375
+130.250.000
+137.195.000
+116.095.000
+94.495.000
+544
+Otplata glavnice primljenih kredita i zajmova od kreditnih i ostalih financijskih institucija izvan javnog sektora
+120.787.375
+130.250.000
+137.195.000
+103
+ULAGANJE U DRŽAVNE CESTE PO PROGRAMIMA
+1.128.757.359
+983.323.358
+1.314.812.580
+1.709.454.250
+2.046.609.141
+K2003
+SPOJEVI NA AUTOCESTE
+16.112.835
+9.445.096
+4.540.000
+4.000.000
+10.495.000
+41
+Rashodi za nabavu neproizvedene imovine
+1.406.126
+2.140.000
+1.000.000
+1.000.000
+3.000.000
+411
+Materijalna imovina - prirodna bogatstva
+1.406.126
+2.140.000
+1.000.000
+42
+Rashodi za nabavu proizvedene dugotrajne imovine
+14.706.709
+7.305.096
+3.540.000
+3.000.000
+7.495.000
+421
+Građevinski objekti
+14.706.709
+7.305.096
+3.540.000
+K2004
+PROGRAM GRADNJE I REKONSTRUKCIJA BRZIH CESTA
+319.688.015
+266.701.632
+241.957.580
+331.003.250
+409.154.585
+41
+Rashodi za nabavu neproizvedene imovine
+22.401.102
+25.829.000
+4.800.000
+7.500.000
+10.000.000
+411
+Materijalna imovina - prirodna bogatstva
+22.401.102
+25.829.000
+4.800.000
+42
+Rashodi za nabavu proizvedene dugotrajne imovine
+297.286.913
+240.872.632
+237.157.580
+323.503.250
+399.154.585
+421
+Građevinski objekti
+297.286.913
+240.872.632
+237.157.580
+K2005
+OSTALI PROGRAMI ZAHVATA NA DRŽAVNIM CESTAMA
+243.753.200
+271.827.204
+370.709.000
+294.631.000
+240.979.556
+41
+Rashodi za nabavu neproizvedene imovine
+71.069.909
+46.636.000
+18.100.000
+7.500.000
+17.400.000
+411
+Materijalna imovina - prirodna bogatstva
+71.069.909
+46.636.000
+18.100.000
+42
+Rashodi za nabavu proizvedene dugotrajne imovine
+172.683.291
+225.191.204
+352.609.000
+287.131.000
+223.579.556
+421
+Građevinski objekti
+172.683.291
+225.191.204
+352.609.000
+K2006
+REKONSTRUKCIJA I UREĐENJE CESTA NA OTOCIMA
+33.067.214
+47.341.875
+141.895.677
+514.400.000
+827.510.000
+41
+Rashodi za nabavu neproizvedene imovine
+8.628.840
+25.200.000
+11.700.000
+11.500.000
+10.000.000
+411
+Materijalna imovina - prirodna bogatstva
+8.628.840
+25.200.000
+11.700.000
+42
+Rashodi za nabavu proizvedene dugotrajne imovine
+24.438.374
+22.141.875
+130.195.677
+502.900.000
+817.510.000
+421
+Građevinski objekti
+24.438.374
+22.141.875
+130.195.677
+K2007
+REKONSTRUKCIJA I UREĐENJE CESTA I MOSTOVA UZ GRANICU
+4.405.009
+7.375.660
+5.100.323
+0
+0
+42
+Rashodi za nabavu proizvedene dugotrajne imovine
+4.405.009
+7.375.660
+5.100.323
+0
+0
+421
+Građevinski objekti
+4.405.009
+7.375.660
+5.100.323
+K2008
+PROGRAM DENIVELACIJE I OSIGURANJA CEST.-ŽELJ. PRIJELAZA
+55.368.309
+20.836.410
+620.000
+6.350.000
+26.050.000
+41
+Rashodi za nabavu neproizvedene imovine
+90.566
+0
+0
+500.000
+1.000.000
+411
+Materijalna imovina - prirodna bogatstva
+90.566
+0
+0
+42
+Rashodi za nabavu proizvedene dugotrajne imovine
+55.277.743
+20.836.410
+620.000
+5.850.000
+25.050.000
+421
+Građevinski objekti
+55.277.743
+20.836.410
+620.000
+K2009
+OSTALI INTERVENTNI PROJEKTI
+15.453.737
+10.045.481
+26.990.000
+39.070.000
+2.420.000
+41
+Rashodi za nabavu neproizvedene imovine
+3.641.319
+4.044.000
+2.700.000
+3.000.000
+2.200.000
+411
+Materijalna imovina - prirodna bogatstva
+3.641.319
+4.044.000
+2.700.000
+42
+Rashodi za nabavu proizvedene dugotrajne imovine
+11.812.418
+6.001.481
+24.290.000
+36.070.000
+220.000
+421
+Građevinski objekti
+11.812.418
+6.001.481
+24.290.000
+K2010
+BETTERMENT
+108.373.005
+44.650.000
+2.000.000
+0
+0
+41
+Rashodi za nabavu neproizvedene imovine
+6.000.586
+2.500.000
+0
+0
+0
+411
+Materijalna imovina - prirodna bogatstva
+6.000.586
+2.500.000
+0
+42
+Rashodi za nabavu proizvedene dugotrajne imovine
+102.372.419
+42.150.000
+2.000.000
+0
+0
+421
+Građevinski objekti
+102.372.419
+42.150.000
+2.000.000
+K2011
+ULAGANJE U ŽUPANIJSKE I LOKALNE CESTE
+1.147.817
+0
+0
+0
+0
+42
+Rashodi za nabavu proizvedene dugotrajne imovine
+1.147.817
+0
+0
+0
+0
+421
+Građevinski objekti
+1.147.817
+0
+0
+K2012
+INVESTICIJSKO ODRŽAVANJE DRŽAVNIH CESTA
+331.388.219
+286.100.000
+510.000.000
+520.000.000
+530.000.000
+41
+Rashodi za nabavu neproizvedene imovine
+7.857.446
+18.000.000
+40.000.000
+20.000.000
+20.000.000
+411
+Materijalna imovina - prirodna bogatstva
+7.857.446
+18.000.000
+40.000.000
+42
+Rashodi za nabavu proizvedene dugotrajne imovine
+323.530.773
+268.100.000
+470.000.000
+500.000.000
+510.000.000
+421
+Građevinski objekti
+323.530.773
+268.100.000
+470.000.000
+K2013
+SANACIJA KLIZIŠTA
+0
+19.000.000
+11.000.000
+0
+0
+42
+Rashodi za nabavu proizvedene dugotrajne imovine
+0
+19.000.000
+11.000.000
+0
+0
+421
+Građevinski objekti
+0
+19.000.000
+11.000.000
+104
+PROGRAM ODRŽAVANJA I UPRAVLJANJA DRŽAVNIH CESTA
+446.035.452
+475.000.000
+416.000.000
+405.000.000
+413.000.000
+A1003
+REDOVNO ODRŽAVANJE
+381.472.591
+380.000.000
+370.000.000
+377.000.000
+385.000.000
+32
+Materijalni rashodi
+381.472.591
+380.000.000
+370.000.000
+377.000.000
+385.000.000
+323
+Rashodi za usluge
+381.472.591
+380.000.000
+370.000.000
+A1004
+IZVANREDNO ODRŽAVANJE
+14.332.936
+20.000.000
+20.000.000
+20.000.000
+20.000.000
+32
+Materijalni rashodi
+14.332.936
+20.000.000
+20.000.000
+20.000.000
+20.000.000
+323
+Rashodi za usluge
+14.332.936
+20.000.000
+20.000.000
+A1006
+STUDIJE I RAZVOJNE PRIPREME
+2.675.722
+4.000.000
+8.000.000
+8.000.000
+8.000.000
+32
+Materijalni rashodi
+2.675.722
+4.000.000
+8.000.000
+8.000.000
+8.000.000
+323
+Rashodi za usluge
+2.675.722
+4.000.000
+8.000.000
+A1009
+SANACIJA ŠTETA NA POPLAVLJENIM PODRUČJIMA
+47.554.202
+71.000.000
+18.000.000
+0
+0
+32
+Materijalni rashodi
+47.554.202
+71.000.000
+18.000.000
+0
+0
+323
+Rashodi za usluge
+47.554.202
+71.000.000
+18.000.000
+105
+SUFINANCIRANJE
+19.268.076
+68.000.000
+68.000.000
+68.000.000
+68.000.000
+A1007
+SUFINANCIRANJE ŽUC-a
+19.268.076
+48.000.000
+48.000.000
+48.000.000
+48.000.000
+36
+Pomoći unutar opće države - ŽUC
+19.268.076
+48.000.000
+48.000.000
+48.000.000
+48.000.000
+363
+Kapitalne pomoći unutar općeg proračuna - ŽUC
+19.268.076
+48.000.000
+48.000.000
+A1009
+SUFINANCIRANJE NERAZVRSTANIH CESTA
+0
+20.000.000
+20.000.000
+20.000.000
+20.000.000
+36
+Pomoći unutar opće države - NC
+0
+20.000.000
+20.000.000
+20.000.000
+20.000.000
+363
+Tekuće pomoći unutar općeg proračuna - NC
+0
+20.000.000
+20.000.000
+
