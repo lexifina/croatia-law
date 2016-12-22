@@ -1,0 +1,12 @@
+## Promjena Zahtjeva za potporu
+# Članak 12.
+(1) Promjene Zahtjeva za potporu podrazumijevaju promjenu podataka koji se odnose na podneseni Zahtjev za potporu, a uključuju:
+a) promjenu podataka o korisniku (npr. promjene njegova naziva, osobe ovlaštene za zastupanje, adrese sjedišta, imena banke i/ili broja žiro-računa banke/IBAN, model i/ili poziv na broj primatelja na koji će mu biti isplaćena sredstva) ili
+b) promjenu podataka koji su temelj za provjeru udovoljavanja uvjetima i kriterijima prihvatljivosti sukladno ovom Pravilniku.
+(2) U slučaju promjena iz stavka 1. točke a) ovoga članka, korisnik je dužan od dana podnošenja Zahtjeva za potporu do isteka razdoblja od pet godina od zadnje primljene uplate financijskih sredstava temeljem ovoga Pravilnika Upravljačkom tijelu podnijeti Zahtjev za odobrenje promjene neposredno nakon njihovog nastanka.
+(3) U slučaju promjena iz stavka 1. točke b) ovoga članka, korisnik je dužan od dana stupanja na snagu Odluke o dodjeli sredstava iz članka 10. stavka 2. točke a) odnosno članka 11. stavka 5. točke a) ovoga Pravilnika do isteka razdoblja od pet godina od zadnje primljene uplate financijskih sredstava temeljem ovoga Pravilnika Upravljačkom tijelu podnijeti Zahtjev za odobrenje promjena, neposredno nakon njihovog nastanka.
+(4) Uz Zahtjev za odobrenje promjena iz stavaka 2. i 3. ovoga članka, korisnik je dužan priložiti odgovarajuću dokumentaciju kojom se predmetna promjena potkrepljuje.
+(5) Upravljačko tijelo će za zaprimljene Zahtjeve za odobrenje promjena iz stavaka 2. i 3. ovoga članka provjeriti uvjete i kriterije prihvatljivosti sukladno ovom Pravilniku, donijeti Odluku o odobrenju promjena ili Odluku o odbijanju promjena te po potrebi donijeti izmjenu Odluke o dodjeli sredstava.
+(6) Izmjenom Odluke o dodjeli sredstava iz stavka 5. ovoga članka ne može se dodijeliti iznos potpore veći od iznosa potpore koji je već određen Odlukom o dodjeli sredstava iz članka 10. stavka 2. točke a) odnosno članka 11. stavka 5. točke a) ovoga Pravilnika.
+(7) U slučaju promjena iniciranih od strane Upravljačkog tijela, Upravljačko tijelo će donijeti izmjenu Odluke o dodjeli sredstava iz članka 10. stavka 2. točke a) odnosno članka 11. stavka 5. točke a) ovoga Pravilnika.
+(8) Zahtjev za odobrenje promjena iz stavaka 2. i 3. ovoga članka dostavlja se Upravljačkom tijelu preporučenom poštom s povratnicom na adresu Ministarstvo poljoprivrede, Uprava ribarstva, Planinska 2a, 10 000 Zagreb, uz naznaku: »Zahtjev za odobrenje promjena u okviru mjere II.13. Osiguranje akvakulturnih stokova«.

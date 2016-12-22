@@ -1,0 +1,7 @@
+## Obveze korisnika
+# Članak 5.
+(1) Korisnik je dužan čuvati i omogućiti uvid u dokumentaciju vezanu uz dodjelu potpore temeljem ovoga Pravilnika, prilikom obavljanja inspekcijskog nadzora i kontrole na terenu te dostaviti je, na njihov zahtjev, ovlaštenim osobama Upravljačkog tijela, Tijela za ovjeravanje, Tijela za reviziju i tijela uključenih u revizije Operativnog programa iz članka 127.stavak 2. Uredbe (EU) 1303/2013 kao i ovlaštenim predstavnicima Europske komisije, Europskog revizorskog sud Europskog ureda za borbu protiv prijevara (OLAF) i drugih nadležnih nadzornih/revizorskih tijela. Uputa za čuvanje dokumentacije nalazi se u Prilogu II. ovoga Pravilnika, i njegov je sastavni dio.
+(2) Rok za čuvanje dokumentacije iz stavka 1. ovoga članka je najmanje dvije godina od 31. prosinca nakon predaje računa Europskoj komisiji od strane Tijela za ovjeravanje, a u kojima su uključeni završni izdaci dovršene operacije.
+(3) Upravljačko tijelo obavještava korisnike o godini od koje počinje teći rok iz stavka 2. ovog članka.
+(4) Korisnik je dužan voditi odvojeni računovodstveni sustav ili primjereni računovodstveni kod/oznaku za sve transakcije vezane uz operaciju za koju mu je dodijeljena potpora.
+(5) Korisnik za kojeg je utvrđeno da je sredstva potpore ostvario temeljem lažnih podataka i/ili izjava ili da nije postupao u skladu s odredbama ovoga Pravilnika, dužan je sva primljena sredstva vratiti u državni proračun Republike Hrvatske uključujući zakonske zatezne kamate od dana kada je ta sredstva primio.

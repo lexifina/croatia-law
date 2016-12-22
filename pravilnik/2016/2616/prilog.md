@@ -1,0 +1,25 @@
+PRILOG I.
+KRITERIJI ZA ODABIR
+u okviru mjere II.13. »Osiguranje akvakulturnih stokova« u okviru Operativnog programa za pomorstvo i ribarstvo Republike Hrvatske za programsko razdoblje 2014. - 2020.
+Kriterij
+Bodovi
+1. Promet poduzeća kojeg pokriva ugovor o osiguranju* (najviše 10 bodova)
+1.1. >80% prosječnog godišnjeg prometa poduzeća
+10
+1.2. >60≤80% prosječnog godišnjeg prometa poduzeća
+8
+1.3. >40≤60% prosječnog godišnjeg prometa poduzeća
+6
+1.4. ≥30≤40% prosječnog godišnjeg prometa poduzeća
+4
+* prosječni godišnji promet poduzeća je prosječni godišnji promet korisnika ostvaren od djelatnosti akvakulture, izračunat na osnovi prosječnog prometa u tri kalendarske godine koje prethode godini za koju se sklapa polica osiguranja koja je predmet potpore
+PRILOG II.
+UPUTA ZA ČUVANJE DOKUMENTACIJE
+Obveze korisnika
+Korisnik je dužan čuvati svu dokumentaciju vezanu uz aktivnosti za koje je ostvario potporu te staviti istu na raspolaganje za inspekciju/kontrolu na terenu te ju učiniti dostupnom i/ili istu dostaviti osobama ili tijelima koja imaju pravo na pristup tim dokumentima, što uključuje ovlašteno osoblje Upravljačkog tijela, Tijela za ovjeravanje, Tijela za reviziju i tijela uključenih u revizije Operativnog programa iz članka 127. stavka 2. Uredbe (EU) br. 1303/2013 kao i ovlaštenim predstavnicima Europske komisije, Europskog revizorskog suda, Europskog ureda za borbu protiv prijevara (OLAF) i drugih nadležnih nadzornih/revizorskih tijela kako bi se omogućila provjera plaćanja javnog doprinosa korisniku.
+Način i oblik čuvanja dokumentacije
+Svi popratni dokumenti vezani uz troškove za koje je korisnik ostvario potporu iz Europskog fonda za pomorstvo i ribarstvo se čuvaju u izvornicima, osim računovodstvenih podataka koji se mogu čuvati u elektroničkoj verziji, pod uvjetom da takvi računalni sustavi ispunjavaju prihvaćene sigurnosne standarde koji osiguravaju da su pohranjeni dokumenti u skladu s nacionalnim zakonski propisanim zahtjevima i da se u njih može pouzdati u svrhu revizije.
+Dokumentacija najmanje sadrži, za svaku operaciju, prema potrebi, tehničke specifikacije i plan sufinanciranja, dokument o odobravanju bespovratnih sredstava, gdje je to potrebno dokumente vezane uz postupke javne nabave, izvješća korisnika i izvješća o provedenim provjerama i revizijama izvršenim nad operacijama.
+Navedeni dokumenti moraju biti evidentirani i pohranjeni na način da budu lako dostupni osobama ili tijelima koja imaju pravo na pristup tim dokumentima te je korisnik dužan obavijestiti Upravljačko tijelo o točnoj lokaciji čuvanja navedenih dokumenata putem e-maila: eufondovi.ribarstvo@mps.hr.
+Rok čuvanja dokumentacije
+Rok za čuvanje i osiguravanje dostupnosti dokumentacije vezane uz troškove za koje je korisniku isplaćena potpora iz Europskog fonda za pomorstvo najmanje dvije godine od 31. prosinca nakon predaje računa u kojima su uključeni završni troškovi operacije. Također, korisnik je dužan dokumentaciju čuvati i osigurati dostupnost iste tijekom cjelokupnog razdoblja provođenja operacije.
