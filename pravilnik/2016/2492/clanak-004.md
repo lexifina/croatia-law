@@ -1,0 +1,3 @@
+# Članak 4.
+(1) Mliječni proizvodi definirani u članku 3. ovoga Pravilnika mogu se stavljati na tržište pod nazivima navedenim u tom članku samo ako udovoljavaju zahtjevima propisanim ovim Pravilnikom i standardima utvrđenim u Prilozima I. i II. koji su sastavni dijelovi ovoga Pravilnika.
+(2) Kazeini i kazeinati koji nisu u skladu sa standardima utvrđenim u Prilogu I. odjeljku I. točkama b) i c), Prilogu I. odjeljku II. točkama b) i c) ili Prilogu II. točkama b) i c) ovoga Pravilnika, ne smiju se upotrebljavati za pripremu hrane te kada se zakonito stavljaju na tržište u druge svrhe, moraju se nazvati i označiti na takav način da se kupca ne dovede u zabludu u pogledu njihove prirode, kvalitete ili predviđene upotrebe.
