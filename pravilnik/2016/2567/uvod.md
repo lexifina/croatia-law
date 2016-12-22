@@ -1,0 +1,1 @@
+Na temelju članka 8. stavka 2. Zakona o odgoju i obrazovanju u osnovnoj i srednjoj školi (»Narodne novine«, broj: 87/08., 86/09., 92/10., 105/10., 90/11., 16/12., 86/12., 94/13. i 152/14.), ministar znanosti i obrazovanja donosi
