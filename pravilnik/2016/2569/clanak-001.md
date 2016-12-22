@@ -1,0 +1,4 @@
+## I. OPĆE ODREDBE
+# Članak 1.
+(1) Ovim Pravilnikom uređuje se postupak dodjele i visina naknada za znak zaštite okoliša Europske unije (u daljnjem tekstu: znak EU Ecolabel) te sastav i način rada savjetodavnog stručnog povjerenstva, kao i sudjelovanje pojedinaca, udruga i organizacija u postupku dodjele znaka EU Ecolabel te druga pitanja s tim u vezi.
+(2) Ovim se Pravilnikom uređuje okvir za provedbu Uredbe (EZ) br. 66/2010 Europskog parlamenta i Vijeća od 25. studenoga 2009. o znaku za okoliš EU-a (Tekst značajan za EGP) (SL L 27, 30. 1. 2010.) kako je posljednji put izmijenjena Uredbom Komisije (EU) br. 782/2013 оd 14. kolovoza 2013. o izmjeni Priloga III. Uredbe (EU) br. 66/2010 Europskog parlamenta i Vijeća o znaku za okoliš EU-a (Tekst značajan za EGP) (SL L 219, 15. 8. 2013.) (u daljnjem tekstu: Uredba (EZ) br. 66/2010).
