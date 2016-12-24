@@ -1,0 +1,1 @@
+Na temelju članka 27. stavka 2. Zakona o žičarama za prijevoz osoba (»Narodne novine«, broj 79/07, 75/09, 61/11 i 22/14) ministar mora, prometa i infrastrukture uz prethodnu suglasnost ministra nadležnog za gospodarstvo donosi
