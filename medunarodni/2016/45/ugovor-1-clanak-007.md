@@ -1,0 +1,4 @@
+# Članak 7.
+DOSLJEDNOST U PRIMJENI FATCA-e NA PARTNERSKE JURISDIKCIJE
+1. Hrvatska uživa pogodnosti svih povoljnijih uvjeta na temelju članka 4. ili Dodatka I. ovoga Sporazuma u smislu primjene FATCA-e na hrvatske financijske institucije dane drugoj partnerskoj jurisdikciji na temelju potpisanoga dvostranog sporazuma u skladu s kojim druga partnerska jurisdikcija preuzima iste obveze kao i Hrvatska opisane u člancima 2. i 3. ovoga Sporazuma i pod istim uvjetima opisanim u člancima od 5. do 9. ovoga Sporazuma.
+2. Sjedinjene Države obavješćuju Hrvatsku o svim takvim povoljnijim uvjetima i takvi se povoljniji uvjeti primjenjuju automatski na temelju ovoga Sporazuma, kao da su takvi povoljniji uvjeti bili navedeni u ovom Sporazumu i proizvode učinke od datuma potpisivanja sporazuma u kojemu su sadržani takvi povoljniji uvjeti, osim ako Hrvatska pisanim putem odbije njihovu primjenu.

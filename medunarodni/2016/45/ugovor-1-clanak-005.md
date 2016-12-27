@@ -1,0 +1,9 @@
+# Članak 5.
+SURADNJA U IZVRŠENJU I PROVEDBI
+1. Manje i administrativne pogreške. Nadležno tijelo obavješćuje nadležno tijelo druge stranke kada prvospomenuto nadležno tijelo osnovano smatra da su administrativne i druge manje pogreške mogle dovesti do izvješćivanja o netočnim ili nepotpunim informacijama ili drugih povreda ovoga Sporazuma. Nadležno tijelo takve druge stranke primjenjuje svoje domaće pravo (uključujući važeće kazne) kako bi ishodilo točne i/ili potpune informacije ili riješilo druge povrede ovoga Sporazuma.
+2. Značajno kršenje obveza.
+a) Nadležno tijelo izvješćuje nadležno tijelo druge stranke kada prvospomenuto nadležno tijelo utvrdi da izvještajna financijska institucija u drugoj jurisdikciji značajno ne
+b) ispunjava obveze iz ovoga Sporazuma. Nadležno tijelo takve druge stranke primjenjuje svoje domaće pravo (uključujući važeće kazne) za rješavanje značajnog neispunjavanja obveza opisanih u obavijesti.
+c) Ako se, u slučaju hrvatske izvještajne financijske institucije, takvim mjerama prisilne provedbe pitanja neispunjavanja obveza ne riješe u roku od 18 mjeseci od prve dostave obavijesti o značajnom neispunjavanju obveza, Sjedinjene Države smatraju da je hrvatska izvještajna financijska institucija nesudjelujuća financijska institucija u skladu s ovim podstavkom 2.(b).
+3. Oslanjanje na vanjske pružatelje usluga. Svaka stranka može izvještajnim financijskim institucijama dopustiti suradnju s vanjskim pružateljima usluga radi izvršenja obveza koje im je stranka nametnula u skladu s ovim Sporazumom, ali su te obveze i nadalje odgovornost izvještajnih financijskih institucija.
+4. Sprječavanje izbjegavanja obveza. Stranke primjenjuju potrebne mjere kako bi se spriječila praksa financijskih institucija čija je svrha izbjegavanje izvješćivanja zahtijevanog na temelju ovoga Sporazuma.

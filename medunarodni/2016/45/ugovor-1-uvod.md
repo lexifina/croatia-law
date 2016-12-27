@@ -1,0 +1,13 @@
+|  |  | b) | Unambiguous indication of a U.S. place of birth;
+|  |  | c) | Current U.S. mailing or residence address (including a U.S. post office box);
+|  |  | d) | Current U.S. telephone number;
+SPORAZUM IZMEĐU VLADE REPUBLIKE HRVATSKE I VLADE SJEDINJENIH AMERIČKIH DRŽAVA O UNAPRJEĐENJU ISPUNJAVANJA POREZNIH OBVEZA NA MEĐUNARODNOJ RAZINI I PROVEDBI FATCA-e
+Budući da Vlada Republike Hrvatske i Vlada Sjedinjenih Američkih Država (pojedinačno »stranka«, a zajedno »stranke«) žele sklopiti sporazum o unaprjeđenju ispunjavanja poreznih obveza na međunarodnoj razini uzajamnom pomoći u poreznim stvarima na temelju učinkovite infrastrukture za automatsku razmjenu informacija;
+budući da Konvencija o uzajamnoj administrativnoj pomoći u poreznim stvarima, sastavljena u Strasbourgu 25. siječnja 1988. (»Konvencija«) dopušta razmjenu informacija u porezne svrhe, uključujući i automatsku razmjenu informacija (u daljnjem tekstu pojam »Konvencija« se odnosi na Konvenciju i sve njezine izmjene i dopune koje su na snazi za obje stranke);
+budući da su Sjedinjene Američke Države donijele odredbe poznate kao Zakon o ispunjavanju poreznih obveza s obzirom na račune u stranim financijskim institucijama (»FATCA«), kojim se financijskim institucijama uvodi obveza izvješćivanja u odnosu na određene račune;
+budući da Vlada Republike Hrvatske podržava osnovni cilj FATCA-e, a to je politika unaprjeđenja ispunjavanja poreznih obveza;
+budući da je FATCA otvorila brojna pitanja, uključujući hoće li hrvatske financijske institucije zbog domaćih zakonskih ograničenja moći postupati u skladu s određenim aspektima FATCA-e;
+budući da Vlada Sjedinjenih Američkih Država prikuplja informacije o određenim računima koje rezidenti Hrvatske imaju u financijskim institucijama SAD-a i odlučna je u namjeri razmjenjivati takve informacije s Vladom Republike Hrvatske te ustrajati na jednakim razinama razmjene, pod uvjetom da postoje odgovarajuće zaštitne mjere i infrastruktura za učinkovitu uzajamnu razmjenu;
+budući da bi se međudržavnim pristupom provedbi FATCA-e razriješila pravna ograničenja i umanjilo opterećenje hrvatskih financijskih institucija;
+budući da stranke žele sklopiti sporazum o unaprjeđenju ispunjavanja poreznih obveza na međunarodnoj razini i osigurati provedbu FATCA-e na temelju domaćeg izvješćivanja i uzajamne automatske razmjene informacija u skladu s Konvencijom, i pod uvjetom povjerljivosti i uz druge mjere zaštite predviđene u njoj, uključujući odredbe o ograničenom korištenju informacija koje se razmjenjuju na temelju Konvencije;
+stoga su se stranke sada sporazumjele kako slijedi:
