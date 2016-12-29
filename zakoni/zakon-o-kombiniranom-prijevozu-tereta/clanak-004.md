@@ -1,0 +1,4 @@
+# Članak 4.
+Kod kombiniranog prijevoza tereta kojim se smatra prijevoz tereta između država članica, pri čemu se kamion, prikolica, poluprikolica, s vučnim vozilom ili bez njega, izmjenjivi sanduk ili kontejner od 20 stopa ili više, koristi na cesti pri početnoj ili završnoj dionici putovanja, a u dionici prijevoza željeznicom, unutarnjim vodama ili morem, ta dionica mora biti dulja od 100 km zračne linije. Pri tome prijevoz tereta koji se odvija cestom čini početnu ili završnu dionicu cestovnog prijevoza:
+– između mjesta utovara tereta i najbližeg odgovarajućeg pretovarnog kolodvora pri početnoj dionici te između najbližeg odgovarajućeg pretovarnog kolodvora i mjesta istovara pri završnoj dionici ili
+– unutar promjera koji nije veći od 150 km zračne linije od luke unutarnjih voda ili pomorske luke utovara ili istovara.
