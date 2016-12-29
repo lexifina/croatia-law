@@ -1,0 +1,1 @@
+Na temelju članka 12. stavka 1. podstavka 2. i stavka 2. Zakona o slobodnim zonama (»Narodne novine«, br. 44/96, 78/99, 127/00, 92/05, 85/08 i 148/13), Vlada Republike Hrvatske je na sjednici održanoj 29. prosinca 2016. godine donijela
