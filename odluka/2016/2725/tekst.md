@@ -1,0 +1,14 @@
+I.
+Ovom Odlukom određuje se:
+(1) Ažurirana rang-lista sudionika u malom obalnom ribolovu od 1. siječnja 2017. godine utvrđenih sustavom bodovanja na temelju podnesenih zahtjeva.
+(2) Ažurirana rang-lista podnositelja zahtjeva koji su udovoljili kriterijima objavljenim u Pravilniku o malom obalnom ribolovu (»Narodne novine« br. 8/15, 15/15, 19/2015, 78/15 i 107/15) (u daljnjem tekstu: Pravilnik), ali primjenom sustava bodovanja ni nakon ažuriranja rang-liste ne prelaze bodovni prag za sudjelovanje u malom obalnom ribolovu od 1. siječnja 2017. godine.
+(3) Ažurirana lista sudionika u malom obalnom ribolovu kojima je izdana povlastica ili su podnijeli zahtjev za izdavanje povlastice na temelju zakonskih propisa koji su važili do dana stupanja na snagu Pravilnika.
+II.
+(1) Ažurirana rang-lista sudionika iz točke I. stavka 1. nalazi se Prilogu 1. ove Odluke.
+(2) Ažurirana rang-lista podnositelja zahtjeva iz točke I. stavka 2. nalazi se u Prilogu 2. ove Odluke.
+(3) Ažurirana lista sudionika iz točke I. stavka 3. nalazi se u Prilogu 3. ove Odluke.
+III.
+Stupanjem na snagu ove Odluke prestaje važiti Odluka o rang-
+-listi sudionika u malom obalnom ribolovu (»Narodne novine« br. 135/15 i 37/16).
+IV.
+Ova Odluka stupa na snagu dan nakon dana objave u »Narodnim novinama«.
