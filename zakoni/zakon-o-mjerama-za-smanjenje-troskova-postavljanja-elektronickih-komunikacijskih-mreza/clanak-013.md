@@ -1,0 +1,7 @@
+## X. INSPEKCIJSKI NADZOR
+## Obavljanje poslova inspekcijskog nadzora
+# Članak 13.
+(1) Inspekcijski nadzor nad primjenom odredaba ovoga Zakona obavlja Agencija, osim odredaba kojima je propisano postupanje nadležnih tijela iz članka 10. stavaka 4. i 5. ovoga Zakona te odredaba kojima su propisane obveze tijela javnog sektora.
+(2) Poslove inspekcijskog nadzora iz stavka 1. ovoga članka provode inspektori elektroničkih komunikacija (u daljnjem tekstu: inspektori), koji su ovlašteni radnici Agencije.
+(3) Na provedbu poslova inspekcijskog nadzora, u dijelu koji se odnosi na posebne uvjete rada, utvrđivanje radnih mjesta s ovlastima inspekcijskog nadzora i podrobnijim uvjetima koje moraju ispunjavati osobe na tim radnim mjestima, službenu iskaznicu i značku inspektora, sastavljanje zapisnika o izvršenom inspekcijskom pregledu i vođenje očevidnika o obavljenim inspekcijskim pregledima, na odgovarajući se način primjenjuju odredbe zakona kojim je uređeno područje elektroničkih komunikacija.
+(4) Inspektor je u obavljanju inspekcijskog nadzora odgovoran ako propusti poduzeti, odnosno narediti mjere ili radnje koje je prema ovome Zakonu bio obvezan poduzeti ili narediti, ako prekorači svoje propisane ovlasti, ako ne donese rješenje u skladu s odredbama ovoga Zakona, ako ne predloži Agenciji podnošenje optužnog prijedloga radi pokretanja prekršajnog postupka pred nadležnim sudom ili ne izda prekršajni nalog u skladu s odredbama zakona kojim je uređen prekršajni postupak, ili ako ne obavijesti nadležna državna tijela o utvrđenim nedostacima.

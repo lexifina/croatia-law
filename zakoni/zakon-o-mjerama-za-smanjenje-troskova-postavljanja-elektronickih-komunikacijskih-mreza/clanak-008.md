@@ -1,0 +1,19 @@
+## V. TRANSPARENTNOST U VEZI S PLANIRANIM GRAĐEVINSKIM RADOVIMA
+# Članak 8.
+(1) Mrežni operator koji planira izvoditi građevinske radove obvezan je obavijest o izvođenju tih radova objaviti na svojim internetskim stranicama i dostaviti nadležnom tijelu iz članka 10. stavka 4. ovoga Zakona najmanje šest mjeseci prije podnošenja urednog zahtjeva za izdavanje građevinske dozvole nadležnom tijelu graditeljstva, odnosno 60 dana prije početka izvođenja radova ako je građevinska dozvola već izdana, ili je postupak izdavanja građevinske dozvole u tijeku, ili ako građevinska dozvola nije potrebna u skladu s posebnim propisima kojima se uređuje gradnja i prostorno uređenje.
+(2) Nadležno tijelo iz članka 10. stavka 4. ovoga Zakona mora obavijest iz stavka 1. ovoga članka bez odgode staviti na raspolaganje putem jedinstvene informacijske točke iz članka 6. ovoga Zakona.
+(3) Obavijest iz stavka 1. ovoga članka sadržava sljedeće osnovne informacije:
+a) lokaciju i vrstu radova
+b) sastavnice mreže obuhvaćene radovima
+c) procijenjeni nadnevak početka radova i trajanje radova
+d) kontaktne podatke mrežnog operatora i
+e) krajnji rok za podnošenje zahtjeva za koordiniranje građevinskih radova u skladu s člankom 7. ovoga Zakona, koji ne može biti kraći od 30 dana od dana stavljanja na raspolaganje putem jedinstvene informacijske točke.
+(4) Način i uvjeti pristupa podacima o planiranim građevinskim radovima, koji se u skladu sa stavkom 2. ovoga članka objavljuju putem jedinstvene informacijske točke, utvrđuju se posebnim propisom kojim se uređuje područje državne izmjere i katastra nekretnina.
+(5) Mrežni operator mora, u svrhu sklapanja ugovora o koordiniranju građevinskih radova iz članka 7. ovoga Zakona, na temelju zahtjeva operatora javne komunikacijske mreže, staviti na raspolaganje osnovne informacije iz stavka 3. ovoga članka u vezi s tekućim ili planiranim građevinskim radovima koji se odnose na njegovu fizičku infrastrukturu, za koje je izdana građevinska dozvola, ili je postupak izdavanja građevinske dozvole u tijeku, ili se pokretanje postupka za pribavljanje građevinske dozvole pred nadležnim tijelom graditeljstva predviđa u sljedećih šest mjeseci, odnosno za koje prema posebnim propisima nije potrebna građevinska dozvola. Zahtjev se podnosi pisanim ili elektroničkim putem i mora sadržavati područje na kojem operator javne komunikacijske mreže namjerava postaviti sastavnice elektroničkih komunikacijskih mreža velikih brzina.
+(6) Mrežni operator mora, uz razmjerne, nediskriminirajuće i transparentne uvjete, staviti na raspolaganje informacije iz stavka 5. ovoga članka u roku od 14 dana od dana zaprimanja urednog zahtjeva.
+(7) Na temelju obrazloženog prijedloga mrežnog operatora nadležno tijelo iz članka 10. stavka 4. ovoga Zakona može ograničiti pristup osnovnim informacijama o planiranim građevinskim radovima iz stavka 3. ovoga članka samo ako je to nužno s obzirom na sigurnost i cjelovitost mreža, nacionalnu sigurnost i javno zdravlje, u skladu s posebnim propisima. Ako nadležno tijelo iz članka 10. stavka 4. ovoga Zakona ograniči pristup tim informacijama, mrežni operator nema obvezu objave tih informacija na svojim internetskim stranicama.
+(8) Mrežni operator može odbiti uredan zahtjev iz stavka 5. ovoga članka u sljedećim slučajevima:
+a) ako je tražene informacije učinio javno dostupnima na svojim internetskim stranicama ili
+b) ako je pristup traženim informacijama osiguran putem jedinstvene informacijske točke iz članka 6. ovoga Zakona.
+(9) U slučaju spora između mrežnog operatora i operatora javne komunikacijske mreže u vezi s pravima i obvezama propisanima stavcima 5., 6. i 8. ovoga članka svaka stranka može podnijeti zahtjev Agenciji za rješavanje spora.
+(10) Agencija donosi odluku o zahtjevu iz stavka 9. ovoga članka, vodeći u potpunosti računa o načelu razmjernosti, i to u najkraćem mogućem roku, a najkasnije u roku od 60 dana od dana zaprimanja urednog zahtjeva.

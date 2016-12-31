@@ -1,0 +1,22 @@
+## XI. PREKRŠAJNE ODREDBE
+# Članak 17.
+(1) Novčanom kaznom u iznosu od 100.000,00 do 1.000.000,00 kuna kaznit će se za prekršaj pravna osoba:
+1. ako u svojstvu mrežnog operatora ne omogući operatoru javne komunikacijske mreže pristup ili zajedničko korištenje fizičke infrastrukture radi postavljanja sastavnica elektroničkih komunikacijskih mreža velikih brzina u skladu s člankom 5. stavkom 3. ovoga Zakona
+2. ako u svojstvu mrežnog operatora o zahtjevu za pristup ili zajedničko korištenje fizičke infrastrukture odlučuje protivno odredbama članka 5. stavka 4. ovoga Zakona
+3. ako u svojstvu mrežnog operatora ne omogući operatoru javne komunikacijske mreže pristup osnovnim informacijama o fizičkoj infrastrukturi u skladu s uvjetima i rokom iz članka 6. stavka 6. ovoga Zakona
+4. ako u svojstvu mrežnog operatora ne omogući operatoru javne komunikacijske mreže pregled određenih sastavnica svoje fizičke infrastrukture u skladu s uvjetima i rokom iz članka 6. stavka 7. ovoga Zakona
+5. ako u svojstvu mrežnog operatora ne omogući operatoru javne komunikacijske mreže koordiniranje građevinskih radova radi postavljanja elektroničke komunikacijske infrastrukture ili sastavnica elektroničkih komunikacijskih mreža velikih brzina u skladu s odredbama članka 7. stavka 3. ovoga Zakona
+6. ako u svojstvu mrežnog operatora ne objavi na svojim internetskim stranicama ili ne dostavi nadležnom tijelu iz članka 10. stavka 4. ovoga Zakona obavijest o planiranim građevinskim radovima u skladu s odredbama članka 8. stavka 1. ovoga Zakona
+7. ako u svojstvu mrežnog operatora objavi ili dostavi obavijest o planiranim građevinskim radovima koja ne sadržava osnovne informacije iz članka 8. stavka 3. ovoga Zakona
+8. ako u svojstvu mrežnog operatora ne stavi na raspolaganje osnovne informacije o građevinskim radovima operatoru javne komunikacijske mreže u skladu s odredbama članka 8. stavka 5. ovoga Zakona
+9. ako u svojstvu mrežnog operatora ne stavi na raspolaganje osnovne informacije o građevinskim radovima u skladu s uvjetima i rokom iz članka 8. stavka 6. ovoga Zakona
+10. ako u svojstvu mrežnog operatora ili operatora javne komunikacijske mreže ne postupi prema zahtjevu Agencije u skladu s člankom 12. stavkom 3. ovoga Zakona
+11. ako u svojstvu nadzirane osobe, na zahtjev inspektora, privremeno ne prekine rad i poslovanje u nadziranim poslovnim prostorijama, zgradi ili građevini u tijeku inspekcijskog nadzora, u skladu s člankom 15. stavkom 2. ovoga Zakona
+12. ako u svojstvu nadzirane osobe, na zahtjev inspektora, i nakon obavljanja inspekcijskog nadzora ne izvrši u za to određenom roku pojedinu radnju u svrhu potpunog utvrđivanja činjeničnog stanja, u skladu s člankom 15. stavkom 3. ovoga Zakona
+13. ako u svojstvu nadzirane osobe, u obavljanju inspekcijskog nadzora, ne omogući inspektoru ulazak i pregled poslovnih prostorija, zgrada, građevina, gradilišta ili zemljišta gdje se obavlja inspekcijski nadzor, u skladu s člankom 15. stavkom 4. podstavkom 1. ovoga Zakona
+14. ako u svojstvu nadzirane osobe, u obavljanju inspekcijskog nadzora, ne omogući pregled fizičke infrastrukture, elektroničke komunikacijske mreže ili njezine sastavnice na kojoj se obavlja inspekcijski nadzor, u skladu s člankom 15. stavkom 4. podstavkom 2. ovoga Zakona
+15. ako u svojstvu nadzirane osobe, u obavljanju inspekcijskog nadzora, ne osigura uvid u traženu dokumentaciju, isprave i podatke radi utvrđivanja činjeničnog stanja u tijeku obavljanja inspekcijskog nadzora ili u roku određenom u zapisniku o inspekcijskom pregledu, u skladu s člankom 15. stavkom 4. podstavkom 3. ovoga Zakona
+16. ako u svojstvu nadzirane osobe, u obavljanju inspekcijskog nadzora, ne dostavi, na pisani zahtjev inspektora, u određenom roku na uvid sve podatke i dokumentaciju potrebnu za obavljanje inspekcijskog nadzora, u skladu s člankom 15. stavkom 4. podstavkom 4. ovoga Zakona
+17. ako u svojstvu nadzirane osobe, u obavljanju inspekcijskog nadzora, ne izvijesti u određenom roku o poduzetim mjerama koje je naredio inspektor radi uklanjanja utvrđenih nepravilnosti, nedostataka ili propusta, u skladu s člankom 15. stavkom 4. podstavkom 5. ovoga Zakona.
+(2) Za prekršaj iz stavka 1. ovoga članka kaznit će se i odgovorna osoba u pravnoj osobi novčanom kaznom u iznosu od 20.000,00 do 100.000,00 kuna.
+(3) Ako prekršaj iz stavka 1. ovoga članka počini fizička osoba, kaznit će se novčanom kaznom u iznosu od 10.000,00 do 50.000,00 kuna.
