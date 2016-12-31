@@ -1,0 +1,2 @@
+# Članak 24.
+Odjel za Europski potrošački centar i svako pojedino tijelo za ARPS objavljuju popis tijela za rješavanje potrošačkih sporova iz članka 28. stavka 3. ovoga Zakona na svojim mrežnim stranicama na način da osiguravaju poveznicu s mrežnim stranicama Europske komisije (u daljnjem tekstu: Komisija) te, gdjegod je to moguće, u papirnatom obliku ili na drugom trajnom mediju u svojim prostorijama.

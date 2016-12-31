@@ -1,0 +1,6 @@
+## Zakonitost
+# Članak 20.
+Ako postupak tijela za ARPS ima za cilj predložiti rješenje koje je, sukladno odredbama članka 19. ovoga Zakona obvezujuće za potrošača, nužno je osigurati da:
+– u situaciji u kojoj nema sukoba zakona, obvezujuće rješenje spora ne može za posljedicu imati lišavanje potrošača zaštite koja mu je osigurana odredbama od kojih se ne može odstupiti sporazumom, koje su na snazi u državi članici EU-a u kojoj potrošač i trgovac imaju svoje uobičajeno boravište ili sjedište
+– u situaciji u kojoj postoji sukob zakona, kada je mjerodavno pravo za ugovor o kupoprodaji ili ugovor o uslugama utvrđeno u skladu s člankom 6. stavcima 1. i 2. Uredbe (EZ) br. 593/2008, obvezujuće rješenje spora ne može za posljedicu imati lišavanje potrošača zaštite koja mu je osigurana odredbama od kojih se ne može odstupiti sporazumom, koje su na snazi u državi članici u kojoj potrošač ima uobičajeno boravište
+– u situaciji u kojoj postoji sukob zakona, kada je mjerodavno pravo za ugovor o kupoprodaji ili ugovor o uslugama utvrđeno u skladu s člankom 5. stavcima od 1. do 3. Rimske konvencije od 19. lipnja 1980. o mjerodavnom pravu za ugovorne obveze, obvezujuće rješenje spora ne lišava potrošača zaštite koju mu pružaju prisilni propisi države članice EU-a u kojoj potrošač ima uobičajeno boravište.
