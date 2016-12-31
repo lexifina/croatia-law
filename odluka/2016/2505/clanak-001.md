@@ -1,0 +1,8 @@
+# Članak 1.
+U Odluci o provedbi Uredbe (EU) br. 575/2013 u dijelu vrednovanja imovine i izvanbilančnih stavki te izračunavanja regulatornoga kapitala i kapitalnih zahtjeva (»Narodne novine«, br. 160/2013. i 140/2015.), u članku 2. stavku 1. na kraju točke 11. briše se točka te se iza točke 11. dodaje točka 12., koja glasi:
+»12) »subjekt javnog sektora« kako je uređeno člankom 4. stavkom 1. točkom 8. Uredbe (EU) br. 575/2013.«.
+U stavku 2. točka 2. mijenja se i glasi:
+»2) »središnja država u Republici Hrvatskoj« jesu tijela državne vlasti koja se financiraju iz proračuna Republike Hrvatske, i to:
+- tijela zakonodavne vlasti: Ured predsjednika Republike Hrvatske i Hrvatski sabor,
+- tijela izvršne vlasti: Vlada Republike Hrvatske, ministarstva Republike Hrvatske, središnji državni uredi, državne upravne organizacije i uredi državne uprave u županijama,
+- tijela sudbene vlasti i pravosuđa: prekršajni sudovi, Visoki prekršajni sud, upravni sudovi, Visoki upravni sud, trgovački sudovi, Visoki trgovački sud, općinski sudovi, Općinski građanski sud u Zagrebu, Općinski kazneni sud u Zagrebu, Općinski radni sud u Zagrebu, županijski sudovi, Vrhovni sud, Ustavni sud, općinska državna odvjetništva, županijska državna odvjetništva, Državno odvjetništvo Republike Hrvatske, Državno odvjetništvo - Ured za suzbijanje korupcije i organiziranog kriminaliteta, Pravobranitelj za djecu, Pravobraniteljica za osobe s invaliditetom, Pravobraniteljica za ravnopravnost spolova, Pučki pravobranitelj, Državno sudbeno vijeće, Državno odvjetničko vijeće, Ured za opće poslove Hrvatskog sabora i Vlade Republike Hrvatske.«.
