@@ -1,0 +1,5 @@
+## Način dostave izvještaja
+# Članak 6.
+(1) Izvještaje iz članka 3. stavka 1. ovoga Pravilnika mirovinsko osiguravajuće društvo dužno je dostaviti Agenciji u elektroničkom obliku s naprednim elektroničkim potpisom u skladu s tehničkom uputom Agencije.
+(2) Smatra se da je mirovinsko osiguravajuće društvo dostavilo izvještaje iz stavka 1. ovoga članka u trenutku kada je izvještaj prihvaćen na poslužitelju Agencije za primanje izvještaja.
+(3) U opravdanim slučajevima nemogućnosti dostave ili dostave koja nije pravilno izvršena (npr. kvar na sustavu, nemogućnost čitanja zaprimljene dokumentacije i sl.) na način propisan stavkom 1. ovoga članka, mirovinsko osiguravajuće društvo dužno je u propisanom roku dostaviti izvještaje iz članka 3. stavka 1. ovoga Pravilnika u pisanom obliku, neposredno ili poštom u svrhu pravodobnog izvještavanja. Mirovinsko osiguravajuće društvo dužno je dostaviti izvještaje na način propisan stavkom 1. ovoga članka čim prestanu razlozi nemogućnosti dostave, a najkasnije u roku od osam dana od prestanka okolnosti koje su prouzročile tehničku nemogućnost takve dostave.
