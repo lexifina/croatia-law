@@ -1,0 +1,8 @@
+## Vođenje evidencije, prikupljanje podataka i izvješćivanje
+# Članak 14.
+(1) Osoba koja obavlja djelatnost gospodarenja otpadnim gumama i registrirana osoba čijom aktivnošću nastaju otpadne gume dužna je voditi Očevidnik o nastanku i tijeku otpada u skladu s posebnim propisom o gospodarenju otpadom.
+(2) U svrhu sljedivosti različitih tokova otpadnih guma istog ključnog broja, sakupljač i obrađivač su obvezni voditi Očevidnik o nastanku i tijeku otpada (ONTO) za otpadne gume čijim gospodarenjem upravlja Fond na način da se u stupcu »Način« obrasca ONTO unosi oznaka »F« (Fond) u nastavku oznake koja je propisana pravilnikom kojim se uređuje gospodarenje otpadom na način da je od nje odvojena povlakom.
+(3) Oznaka iz stavka 2. ovog članka unosi se i u polje »Napomena« obrasca pratećeg lista.
+(4) Fond je obvezan prikupljati podatke o količini guma stavljenih na tržište na teritoriju Republike Hrvatske, količini sakupljenih otpadnih guma i količini otpadnih guma koje su oporabljene te količini i vrsti proizvoda i otpada nastalih materijalnom oporabom otpadnih guma, količini proizvedenog goriva, gumama koje su uvezene radi oporabe i izvezene na obradu te količini izvezenog otpada nastalog oporabom otpadnih guma radi daljnje obrade.
+(5) Fond je obvezan podatke iz stavka 4. ovoga članka jednom godišnje, najkasnije do 1. ožujka tekuće godine za prethodnu godinu, dostaviti Agenciji.
+(6) Agencija je obvezna temeljem podataka iz stavka 5. ovoga članka izraditi godišnje izvješće o gospodarenju otpadnim gumama u Republici Hrvatskoj te ga podnijeti Ministarstvu jednom godišnje, najkasnije do 31. svibnja tekuće godine za prethodnu godinu, u elektronskom i pisanom obliku.

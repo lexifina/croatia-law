@@ -1,0 +1,5 @@
+## I. OPĆE ODREDBE
+## Sadržaj
+# Članak 1.
+(1) Ovim Pravilnikom propisuju se postupci i ciljevi gospodarenja otpadnim gumama, uvjeti gospodarenja otpadnim gumama, vrste otpadnih guma koje se moraju sakupljati odvojeno, način obrade otpadnih guma, zahtjevi u pogledu sakupljanja i skladištenja otpadnih guma, sadržaj programa za obavljanje usluge sakupljanja otpadnih guma, obveza vođenja evidencija, obveze i način ispunjavanja obveza proizvođača guma i proizvoda koji sadrže gume, popis guma i proizvoda za koje je obvezna registracija u Registar gospodarenja posebnim kategorijama otpada, način obveznog postupanja proizvođača guma i posjednika otpadnih guma te druga pitanja u svezi guma i otpadnih guma u svrhu sprječavanja nastajanja i odlaganja otpadnih guma na odlagališta otpada, odnosno poticanja njihovog sakupljanja, ponovne uporabe, recikliranja i drugih postupaka njihove oporabe sukladno Zakonu, radi postizanja ciljeva propisanih ovim Pravilnikom.
+(2) Na pitanja vezana uz stavljanje guma na tržište i gospodarenje otpadnim gumama koja nisu uređena ovim Pravilnikom, primjenjuju se posebni propisi.
