@@ -1,0 +1,4 @@
+## VIII. POSEBNE ODREDBE U VEZI S POREZNIM NADZOROM NAD OBRAČUNAVANJEM I PLAĆANJEM POSEBNOG POREZA
+# Članak 11.
+(1) U smislu članka 25. Zakona smatra se dozvoljenom prodaja predmeta oporezivanja na mjestima koja su određena kao tržnice, na mjestima gdje se može prigodno trgovati (sajmovi, izložbe, priredbe i slično) te na drugim otvorenim mjestima ako su ispunjeni uvjeti propisani posebnim propisima u odnosu na obavljanje djelatnosti trgovine, izdavanje računa, kao i uvjeti propisani posebnim propisima koji se na bilo koji način odnose na predmete oporezivanja.
+(2) Dopuštena je prodaja predmeta oporezivanja na mjestima gdje se može prigodno trgovati uz odluku propisanu posebnim propisima u kojem slučaju se smatra da je izdana pisana suglasnost nadležnog carinskog ureda prema mjestu prodaje u kojoj se navode uvjeti pod kojima je prodaja dopuštena.
