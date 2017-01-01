@@ -1,0 +1,5 @@
+# Članak 52.
+(1) Jedinicama lokalne i područne (regionalne) samouprave tijekom 2017. godine iz Proračuna će se isplaćivati pomoć u visini razlike između prihoda od poreza na dohodak koji su ostvarivali tijekom 2016. godina i prihoda od poreza na dohodak koji će ostvarivati tijekom 2017. godine.
+(2) Razliku iz stavka 1. ovoga članka utvrđuje Ministarstvo financija i do svakog 15. u mjesecu isplaćuje razliku utvrđenu za prethodni mjesec.
+(3) Pomoći koje se na temelju ovoga članka isplaćuju iz razdjela 025 - MINISTARSTVO FINANCIJA nenamjenska su sredstva i ne smatraju se tekućim pomoćima iz državnog proračuna sukladno propisima kojima su uređena mjerila za određivanje plaća i naknada župana, gradonačelnika i općinskih načelnika i njihovih zamjenika, kao i plaća službenika i namještenika u upravnim odjelima i službama jedinica lokalne i područne (regionalne) samouprave.
+(4) Ministarstvo financija će tijekom 2017. godine, a najkasnije do 31. svibnja 2017. predložiti novi model financiranja jedinica lokalne i područne (regionalne) samouprave.
