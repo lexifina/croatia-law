@@ -1,0 +1,5 @@
+## Dostava podataka o dodijeljenim državnim potporama i potporama male vrijednosti
+# Članak 4.
+(1) Davatelji državnih potpora i potpora male vrijednosti dostavljaju Ministarstvu podatke o dodijeljenim državnim potporama i potporama male vrijednosti iz članka 14. stavka 2. Zakona u elektroničkom obliku u Internet aplikaciji registra državnih potpora i potpora male vrijednosti.
+(2) Davatelji državnih potpora i potpora male vrijednosti dostavljaju podatke o dodijeljenim državnim potporama i potporama male vrijednosti iz stavka 1. ovoga članka u skladu s uputama koje se nalaze u Internet aplikaciji registra državnih potpora i potpora male vrijednosti.
+(3) Davatelji državnih potpora i potpora male vrijednosti dostavljaju podatke o dodijeljenim državnim potporama i potporama male vrijednosti iz stavka 1. ovoga članka uz popratni dopis potpisan i ovjeren od strane ovlaštene osobe davatelja državne potpore, odnosno davatelja potpore male vrijednosti.
