@@ -1,0 +1,6 @@
+# Članak 5.
+U članku 9. stavku 3. riječi: »koji nije fizička osoba ili povezana osoba, u postupku sanacije ili stečaja« zamjenjuju se riječima: »obveznikom poreza na dobit koji nije povezana osoba, prema posebnom propisu u slučaju stečaja, arbitraže ili mirenja«.
+U stavku 4. riječi: »nije fizička osoba.« zamjenjuju se riječima: »je obveznik poreza na dobit. Priznaje se i otpis zastarjelih potraživanja do 200,00 kuna od nepovezanih fizičkih osoba čiji dug nije nastao po osnovi obavljanja djelatnosti obrta i s obrtom izjednačenih djelatnosti, ako ukupno utvrđeno potraživanje po pojedinoj osobi na zadnji dan poreznog razdoblja ne prelazi taj iznos.«.
+Iza stavka 7. dodaju se stavci 8. i 9. koji glase:
+»(8) Iznimno od stavka 2. ovoga članka, porezno priznati rashod je otpis potraživanja iskazanih u prihodima od nepovezane osobe ako porezni obveznik dokaže da troškovi pokretanja određenih postupaka iz stavka 3. ovoga članka premašuju iznos potraživanja ili ako dokaže da je pažnjom dobrog gospodarstvenika pokrenuo određene radnje s ciljem naplate potraživanja pri čemu je utvrdio konačnu nemogućnost naplate otpisanog iznosa potraživanja.
+(9) Porezno priznatim rashodom otpisa potraživanja smatra se otpis duga prema posebnom propisu o stečaju potrošača.«.
