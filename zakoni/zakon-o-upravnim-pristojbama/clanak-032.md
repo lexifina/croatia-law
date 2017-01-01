@@ -1,0 +1,2 @@
+# Članak 32.
+Danom stupanja na snagu ovoga Zakona prestaje važiti Zakon o upravnim pristojbama (»Narodne novine«, br. 8/96., 77/96., 95/97., 131/97., 68/98., 66/99., 145/99., 30/00., 116/00., 163/03., 17/04., 110/04., 141/04., 150/05., 153/05., 129/06., 117/07., 25/08., 60/08., 20/10., 69/10., 126/11., 112/12., 19/13., 80/13., 40/14., 69/14., 87/14. i 94/14.), osim u dijelu Tarife upravnih pristojbi, koja se primjenjuje do 31. siječnja 2017.

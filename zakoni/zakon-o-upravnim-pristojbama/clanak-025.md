@@ -1,0 +1,3 @@
+# Članak 25.
+(1) Registar iz članka 24. stavka 1. ovoga Zakona sadrži osobni identifikacijski broj (OIB), ime i prezime / naziv i adresu prebivališta/sjedišta osobe kojoj je dano ovlaštenje za maloprodaju državnih biljega, datum izdavanja rješenja i datum izvršnosti rješenja iz članka 22. stavka 2. i članka 23. stavka 2. ovoga Zakona. Po potrebi Registar sadrži i adresu poslovne jedinice osobe kojoj je dano ovlaštenje za maloprodaju državnih biljega, a u kojoj se obavlja prodaja državnih biljega.
+(2) Porezna uprava će rješenje iz članka 22. stavka 2. i članka 23. stavka 2. ovoga Zakona dostaviti FINI u roku od 15 dana od dana izvršnosti rješenja.
