@@ -1,0 +1,1 @@
+Na temelju članka 26. stavka 9. Zakona o obveznim osiguranjima u prometu (»Narodne novine«, br. 151/05, 36/09, 75/09, 76/13 i 152/14), Vlada Republike Hrvatske je na sjednici održanoj 24. studenoga 2016. donijela
