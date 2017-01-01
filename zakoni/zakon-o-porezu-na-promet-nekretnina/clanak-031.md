@@ -1,0 +1,2 @@
+# Članak 31.
+Novčanom kaznom od 5.000,00 do 100.000,00 kuna kaznit će se za prekršaj javni bilježnik i odgovorna osoba u sudu ili u drugom javnopravnom tijelu ako na propisani način nadležnoj ispostavi Porezne uprave ne dostavi ispravu s ovjerovljenim potpisom, odnosno odluku kojom se mijenja vlasništvo na nekretnini, kao i svaku drugu ispravu na osnovi koje dolazi do prometa nekretnine (ugovor o ortaštvu, ugovor o osnivanju prava građenja i sl.), uz podatak o osobnom identifikacijskom broju sudionika postupka (članak 18. ovoga Zakona).

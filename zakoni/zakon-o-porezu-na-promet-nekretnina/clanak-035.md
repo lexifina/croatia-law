@@ -1,0 +1,3 @@
+# Članak 35.
+(1) Na sve sklopljene ugovore i druge isprave o stjecanju nekretnina, odnosno na sve odluke koje su postale pravomoćne, do 31. prosinca 2016., primjenjuju se odredbe Zakona o porezu na promet nekretnina (»Narodne novine«, br. 69/97., 26/00., 127/00., 153/02., 22/11. i 143/14.), neovisno o statusu porezne prijave.
+(2) Obveznici poreza na promet nekretnina koji su do dana stupanja na snagu ovoga Zakona sklopili ugovor o kupoprodaji nekretnine kojom rješavaju vlastito stambeno pitanje, zahtjev za oslobođenjem od plaćanja poreza na promet nekretnina obvezni su prijaviti ispostavi Porezne uprave na području koje se nalazi nekretnina u roku od 30 dana od dana stupanja na snagu ovoga Zakona.

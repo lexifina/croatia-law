@@ -1,0 +1,2 @@
+# Članak 34.
+Upravna tijela jedinica lokalne samouprave koja će biti nadležna utvrđivati porez na nekretnine prema posebnom propisu i koja su dužna u tu svrhu ustrojiti Evidenciju o nekretninama, do ustroja te Evidencije, a na poziv nadležne ispostave Porezne uprave sukladno članku 23. stavku 2. ovoga Zakona, obvezna su dostaviti podatke o nekretnini kojima raspolažu u trenutku zaprimljenog poziva, a temeljem evidencije koja se vodi u svrhu utvrđivanja i naplate komunalne naknade.
