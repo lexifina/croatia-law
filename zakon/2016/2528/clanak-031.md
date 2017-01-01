@@ -1,0 +1,3 @@
+# Članak 31.
+(1) Ministar financija uskladit će propise donesene radi provedbe Zakona o doprinosima (»Narodne novine«, br. 84/08., 152/08., 94/09., 18/11., 22/12., 144/12., 148/13., 41/14. i 143/14.) s odredbama ovoga Zakona u roku od 60 dana od dana stupanja na snagu ovoga Zakona.
+(2) Iznimno od odredbe članka 254. stavka 1. Zakona o doprinosima (»Narodne novine«, br. 84/08., 152/08., 94/09., 18/11., 22/12., 144/12., 148/13., 41/14. i 143/14.) Naredbu o iznosima osnovica za obračun doprinosa za obvezna osiguranja za 2017. godinu ministar financija donijet će u roku od osam dana od dana stupanja na snagu ovoga Zakona.

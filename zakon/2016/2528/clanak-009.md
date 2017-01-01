@@ -1,0 +1,6 @@
+# Članak 9.
+U članku 25.a stavku 1. iza riječi: »poslodavac iz članka 19.a ovoga Zakona« dodaju se riječi: »odnosno poslodavac diplomatsko ili konzularno predstavništvo strane države, međunarodna organizacija ili predstavništvo ili organizacija koja na teritoriju Republike Hrvatske ima diplomatski imunitet«, a riječi: »osam dana« zamjenjuju se riječima: »trideset dana«.
+Stavak 2. mijenja se i glasi:
+»(2) Iznimno od odredbe članka 25. stavka 2. ovoga Zakona, doprinosi obračunani prema ostalim primicima koje poslodavac iz članka 19.a ovoga Zakona odnosno poslodavac diplomatsko ili konzularno predstavništvo strane države, međunarodna organizacija ili predstavništvo ili organizacija koja na teritoriju Republike Hrvatske ima diplomatski imunitet daje u naravi ili u korištenju prava dospijevaju na naplatu do zadnjeg dana u mjesecu koji slijedi iza mjeseca u kojem je izvršeno davanje, odnosno korišteno pravo.«.
+Iza stavka 2. dodaje se stavak 3. koji glasi:
+»(3) Iznimno od stavaka 1. i 2. ovoga članka, ako poslodavac na dan dospjelosti ostalog primitka primitak nije isplatio, a istodobno je, sukladno odredbama Zakona o radu, obvezan dostaviti radniku obračun iznosa koje je bio dužan isplatiti, doprinosi se obračunavaju i dospijevaju na naplatu istodobno s dostavom obračuna radniku o dospjelom, a neisplaćenom primitku.«.

@@ -1,0 +1,4 @@
+# Članak 1.
+U Zakonu o doprinosima (»Narodne novine«, br. 84/08., 152/08., 94/09., 18/11., 22/12., 144/12., 148/13., 41/14. i 143/14.) u članku 7. stavku 1. točki 24. riječi: »ministra znanosti, obrazovanja i sporta« zamjenjuju se riječima: »čelnika središnjeg tijela uprave nadležnog za šport;«.
+Točka 31. mijenja se i glasi:
+»31. osoba koja se prvi put zapošljava jest fizička osoba koju poslodavac, po osnovi ugovora o radu, odnosno ugovora o stručnom osposobljavanju za rad prijavljuje na obvezno mirovinsko osiguranje i obvezno zdravstveno osiguranje te do dana početka osiguranja nema evidentiran staž u mirovinskom osiguranju, odnosno ima evidentiran staž do osam dana (uključujući i osmi dan) po osnovi drugog dohotka, osim po osnovi roditelja koji obavlja roditeljske dužnosti, niti je staž mirovinskog osiguranja ostvario kod inozemnog nositelja obveznoga mirovinskog osiguranja, osim fizičke osobe iz točke 54. ovoga članka;«.
