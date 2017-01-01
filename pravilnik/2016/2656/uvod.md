@@ -1,0 +1,1 @@
+Na temelju članka 26. stavka 6. Zakona o obrani (»Narodne novine«, br. 73/13, 75/15 i 27/16) i članka 29. stavka 2. Zakona o službi u Oružanim snagama Republike Hrvatske (»Narodne novine«, br. 73/13, 75/15 i 50/16), donosim
