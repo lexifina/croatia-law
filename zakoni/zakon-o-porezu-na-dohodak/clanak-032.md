@@ -1,0 +1,14 @@
+## Izdaci po osnovi samostalnih djelatnosti
+# Članak 32.
+(1) Izdaci po osnovi samostalnih djelatnosti (dalje u tekstu: poslovni izdaci) su svi odljevi dobara poreznog obveznika tijekom poreznog razdoblja radi stjecanja, osiguranja i očuvanja poslovnih primitaka. U poslovne izdatke poreznih obveznika koji obavljaju samostalne djelatnosti ulaze oni izdaci koji su izravno vezani za obavljanje djelatnosti.
+(2) U poslovne izdatke ulaze i knjigovodstvene vrijednosti pojedinačno ili ukupno prodanih ili izuzetih dobara dugotrajne imovine koja su se vodila ili trebala voditi u popisu dugotrajne imovine. Poslovnim izdacima smatraju se i troškovi otuđenja i likvidacije.
+(3) Poslovnim izdacima smatraju se i ulaganja osim ulaganja financijske imovine i ulaganja u dugotrajnu imovinu.
+(4) Primljeni krediti i zajmovi nisu poslovni primitak, a otplate kredita i zajmova nisu poslovni izdatak.
+(5) Plaćene kamate po kreditima i zajmovima za obavljanje djelatnosti smatraju se poslovnim izdacima, a naplaćene kamate po sredstvima i plasmanima sredstava koja služe za obavljanje djelatnosti smatraju se poslovnim primicima, ako nisu oporezive po odbitku u skladu s člankom 65. i člankom 70. stavkom 1. ovoga Zakona.
+(6) Poslovnim izdacima koji se priznaju pri utvrđivanju dohotka od samostalne djelatnosti smatraju se i uplaćeni doprinosi za obvezna osiguranja prema posebnim propisima.
+(7) Poslovni izdaci za materijal, robu, proizvode, energiju i usluge, koji služe za stjecanje dohotka, priznaju se u visini cijene nabave ili troška proizvodnje.
+(8) Poslovnim izdacima se smatraju izdaci za plaće i obvezni doprinosi na plaću radnika i fizičkih osoba koje ostvaruju primitke iz članka 21. stavka 1. ovoga Zakona (plaće s porezima i doprinosima) u visini stvarnih isplata.
+(9) Poslovnim izdacima smatraju se i otpisi prema članku 35. stavku 4. ovoga Zakona na način i prema stopama propisanim zakonom kojim se uređuje porez na dobit.
+(10) Poslovnim izdacima po osnovi otpisa ne smatraju se otpisi povećane vrijednosti dugotrajne imovine zbog revalorizacije.
+(11) Poslovnim izdacima se smatraju i premije dobrovoljnoga mirovinskog osiguranja uplaćene u korist radnika i/ili osobno poreznog obveznika koji obavlja samostalnu djelatnost, tuzemnom dobrovoljnom mirovinskom fondu, koji je registriran u skladu s propisima koji uređuju dobrovoljno mirovinsko osiguranje, na koje se ne plaća porez na dohodak sukladno članku 9. točki 18. ovoga Zakona.
+(12) Poslovnim izdacima se smatraju proizvodi i roba iz asortimana poreznog obveznika prilagođeni za te svrhe s oznakom »nije za prodaju« te drugi reklamni predmeti s nazivom tvrtke, proizvoda i drugog oblika reklame (čaše, pepeljare, stolnjaci, podmetači, olovke, rokovnici, privjesci i slično) dani za uporabu u prodajnom prostoru kupca, a ako se daju potrošačima, smatraju se izdatkom ako je njihova pojedinačna vrijednost bez poreza na dodanu vrijednost do 160,00 kuna.

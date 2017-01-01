@@ -1,0 +1,8 @@
+## Dohodak od kapitala po osnovi dodjele ili opcijske kupnje vlastitih dionica
+# Članak 68.
+(1) Dohotkom od kapitala iz članka 64. stavka 1. ovoga Zakona smatraju se i primici u naravi po osnovi udjela u dobiti članova uprave trgovačkih društava, a koje ostvaruju putem dodjele ili opcijske kupnje vlastitih dionica.
+(2) Dohodak od kapitala po osnovi opcijske kupnje dionica iz stavka 1. ovoga članka utvrđuje se kao razlika između tržišne vrijednosti dionice i opcijskim ugovorom utvrđene cijene dionica, ako je tržišna vrijednost viša u trenutku realizacije prava iz opcije.
+(3) Realizacijom prava iz opcije u smislu stavka 1. ovoga članka smatra se trenutak kupnje dionica društva od strane vlasnika opcije (članova uprave društva) ili trenutak prijenosa prava na kupnju dionica društva na treću osobu.
+(4) Dohodak od kapitala po osnovi opcijske kupnje vlastitih dionica utvrđuje se poreznom obvezniku koji je vlasnik opcije u trenutku realizacije prava iz opcije prema stavku 3. ovoga članka.
+(5) Primici po osnovi udjela u dobiti koje članovi uprave trgovačkih društava ostvaruju dodjelom vlastitih dionica tih društava utvrđuju se u visini tržišne vrijednosti ili razlike između tržišne vrijednosti dodijeljenih dionica i plaćene naknade, ako se dionice stječu uz djelomičnu naknadu.
+(6) Dohodak od kapitala prema ovom članku utvrđuje se samo ako vlastite dionice društva u trenutku dodjele tih dionica ili realizacije prava iz opcije kotiraju na burzi ili uređenim javnim tržištima u skladu s posebnim zakonom. Ako ovaj uvjet nije ispunjen po toj osnovi, utvrđuje se drugi dohodak iz članka 39. ovoga Zakona.

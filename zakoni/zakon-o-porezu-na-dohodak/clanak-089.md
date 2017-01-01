@@ -1,0 +1,12 @@
+## Prikupljanje podataka
+# Članak 89.
+(1) Podatke o poreznim obveznicima prikupljene na temelju odredaba ovoga Zakona i podatke prikupljene kroz ostale porezne postupke iz nadležnosti Porezne uprave, Porezna uprava je dužna međusobno uspoređivati.
+(2) Radi usporedbe podataka iz stavka 1. ovoga članka Porezna uprava dužna je prikupiti javno dostupne podatke o poreznim obveznicima, kao i podatke o imovini dostupne kroz sustave za razmjenu podataka između nadležnih institucija i Porezne uprave.
+(3) Ako usporedba podataka iz stavaka 1. i 2. ovoga članka pokazuje znatna odstupanja između uobičajenih primitaka poreznih obveznika i nastalih izdataka za nabavljenu imovinu i utrošena sredstva za potrošnju, Porezna uprava će kroz postupak provjere pozvati poreznog obveznika da popuni obrazac Izjava fizičke osobe o izvorima stjecanja imovine, propisan odredbama posebnog propisa.
+(4) U provedbi postupka provjere podataka Porezna uprava je ovlaštena tražiti i razmjenjivati podatke s drugim javno pravnim tijelima te tražiti podatke od drugih osoba sukladno odredbama posebnog propisa.
+(5) Ako u postupku provjere podataka porezni obveznik dostavi vjerodostojnu dokumentaciju kojom dokazuje izvore sredstava, Porezna uprava će navedene podatke pridružiti već poznatim podacima za poreznog obveznika.
+(6) Iznimno od stavka 5. ovoga članka, ako se porezni obveznik ne odazove pozivu ili ne dostavi vjerodostojnu dokumentaciju, Porezna uprava će u roku od 60 dana putem ovlaštenih osoba pokrenuti postupak utvrđivanja drugog dohotka iz članka 76. ovoga Zakona.
+(7) Na temelju okončanih postupaka pokrenutih na temelju stavaka 5. i 6. ovoga članka, Porezna uprava će ustrojiti stanje imovine za tog poreznog obveznika na određeni dan.
+(8) Postupak pokrenut na temelju stavaka 5. i 6. ovoga članka provodi se za imovinu stečenu u rokovima zastare propisane zakonom kojim je uređen opći porezni postupak.
+(9) Izvori i iznosi sredstava kojima se dokazuje vrijednost stečene imovine moraju se temeljiti na vjerodostojnim ispravama, u protivnom ih Porezna uprava nije dužna prihvatiti valjanim. Ako porezni obveznik kao vjerodostojne isprave dostavlja isprave iz razdoblja koja su izvan rokova zastare, iste se mogu prihvatiti ako se iz svih objektivnih okolnosti može utvrditi njihova vjerodostojnost.
+(10) Ministar financija pravilnikom propisuje što se smatra znatnim odstupanjima iz stavka 3. ovoga članka, uzimajući pri tome u obzir pojavnosti i rizike koji utječu na odstupanja te postupke iz stavaka 5. i 6. ovoga članka.

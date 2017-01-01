@@ -1,0 +1,7 @@
+## POGLAVLJE VI. USPOREDBA I PRIKUPLJANJE PODATAKA BITNIH ZA OPOREZIVANJE
+## Usporedba podataka
+# Članak 88.
+(1) Radi pravilnog utvrđivanja obveze poreza na dohodak i drugih poreza, Porezna uprava je dužna tijekom poreznog razdoblja uspoređivati podatke o fizičkim osobama kojima raspolaže te na temelju uspoređenih podataka prikupiti ostale podatke bitne za oporezivanje.
+(2) Usporedbu podataka iz stavka 1. ovoga članka Porezna uprava provodi na temelju svih podataka o ostvarenom dohotku iz članka 5. ovoga Zakona, ostvarenih primitaka koji se ne smatraju dohotkom iz članka 8. ovoga Zakona, a i drugih neoporezivih primitka i tražbina te podataka o nabavljenoj nepokretnoj, pokretnoj i drugoj imovini te drugim izdacima fizičkih osoba i njihovim obvezama tijekom poreznog razdoblja. Usporedbu obavlja na temelju podataka s kojima raspolaže, podataka koje priopći porezni obveznik i podataka iz drugih izvora.
+(3) Ako Porezna uprava u tijeku prikupljanja podataka i njihove usporedbe iz stavaka 1. i 2. ovoga članka utvrdi da izvori za imovinu fizičkih osoba nisu dokazani, utvrdit će po toj osnovi drugi dohodak u skladu s člankom 76. ovoga Zakona.
+(4) Za svrhe iz stavaka 1. i 2. ovoga članka Porezna uprava je obvezna ustrojiti evidencije o imovini poreznih obveznika na temelju podataka iz svojih evidencija, evidencija tijela državne uprave i evidencija jedinica lokalne i područne (regionalne) samouprave.

@@ -1,0 +1,4 @@
+# Članak 42.
+(1) Fizičkoj osobi kojoj je po posebnom propisu rješenjem utvrđen status hrvatskoga ratnoga vojnog invalida iz Domovinskog rata obračunani porez na dohodak od nesamostalnog rada (plaća i mirovina) umanjuje se za postotak utvrđene invalidnosti.
+(2) Fizičkoj osobi iz stavka 1. ovoga članka obračunani porez na dohodak od nesamostalnog rada (plaća i mirovina) umanjuje se za postotak utvrđene invalidnosti prije umanjenja iz članka 24. stavka 5. ovoga Zakona.
+(3) Fizička osoba – član obitelji smrtno stradalog, zatočenog ili nestalog hrvatskog branitelja iz Domovinskog rata ne plaća porez na dohodak od obiteljske mirovine, odnosno novčane naknade u visini obiteljske mirovine ostvarene prema zakonu kojim su uređena prava hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji.

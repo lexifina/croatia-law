@@ -1,0 +1,3 @@
+## DIO DESETI PRIJELAZNE I ZAVRŠNE ODREDBE
+# Članak 93.
+Ministar financija donijet će u roku od 90 dana od dana stupanja na snagu ovoga Zakona pravilnik iz članka 9. stavka 2., članka 17. stavka 9., članka 25. stavka 7., članka 26. stavka 6., članka 27. stavka 2., članka 34. stavka 6., članka 37. stavka 7., članka 39. stavka 9., članka 40. stavka 3., članka 41. stavka 2., članka 50. stavka 3., članka 53. stavka 7., članka 54. stavka 12., članka 57. stavka 5., članka 58. stavka 10., članka 62. stavka 7., članka 63. stavka 2., članka 70. stavka 21., članka 71. stavka 2., članka 74. stavka 2., članka 79. stavka 8., članka 81. stavka 7., članka 82. stavka 8., članka 85. stavka 6., članka 86. stavka 2., članka 87. stavka 6. i članka 89. stavka 10. ovoga Zakona.

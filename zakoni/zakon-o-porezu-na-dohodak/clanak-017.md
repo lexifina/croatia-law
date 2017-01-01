@@ -1,0 +1,21 @@
+## Uvjeti za priznavanje osobnog odbitka
+# Članak 17.
+(1) U smislu ovoga Zakona, uzdržavanim članovima uže obitelji i uzdržavanom djecom (dalje u tekstu: uzdržavani članovi) smatraju se fizičke osobe čiji oporezivi primici, primici na koje se ne plaća porez i drugi primici koji se u smislu ovoga Zakona ne smatraju dohotkom, ne prelaze iznos od 15.000,00 kuna na godišnjoj razini izračunan kao šesterostruki iznos osnovice osobnog odbitka.
+(2) Iznimno od stavka 1. ovoga članka, pri utvrđivanju prava na osobni odbitak za uzdržavane članove ne uzimaju se u obzir:
+1. primici prema posebnim propisima po osnovi socijalnih potpora
+2. doplatak za djecu
+3. novčane potpore utvrđene u iznosu koji je zakonom kojim se uređuju rodiljne i roditeljske potpore propisan kao iznos ispod kojeg se ne može isplatiti novčana potpora
+4. potpore za novorođenče, odnosno primitak za opremu novorođenog djeteta
+5. obiteljske mirovine djece nakon smrti roditelja
+6. primici koji po svojoj prirodi predstavljaju samo uzdržavanje od roditelja ili članova uže obitelji
+7. darovanja od pravnih i fizičkih osoba za zdravstvene potrebe do visine stvarno nastalih izdataka za tu namjenu, prema članku 8. stavku 1. točki 4. ovoga Zakona i/ili
+8. naknada troškova prijevoza na posao i s posla mjesnim i međumjesnim javnim prijevozom i naknada troškova službenog putovanja do propisanih iznosa na koje se sukladno odredbama ovoga Zakona ne plaća porez na dohodak.
+(3) Osobni odbitak prema članku 15. ovoga Zakona priznaje se nakon osobnog odbitka iz članka 14. stavaka 3. i 4. ovoga Zakona, a u godišnjem obračunu poreza na dohodak na temelju podnesene godišnje porezne prijave ili na temelju podnesenog zahtjeva za priznavanjem prava u posebnom postupku utvrđivanja godišnjeg poreza na dohodak i prireza porezu na dohodak.
+(4) U slučaju promjena tijekom mjeseca u kojem se koristi osobni odbitak isti se zaokružuje u korist poreznog obveznika na pune mjesece.
+(5) Ako više osoba uzdržava člana ili članove, osobni odbitak za te osobe ravnomjerno se raspoređuje na sve koji te članove uzdržavaju, osim ako se sporazume drukčije.
+(6) Ako u tijeku poreznog razdoblja uzdržavani član za kojeg porezni obveznik u istom poreznom razdoblju koristi dio osobnog odbitka prema članku 14. stavku 4. ovoga Zakona ostvari primitke iz stavka 1. ovoga članka u iznosu većem od 15.000,00 kuna godišnje, porezni obveznik koji je po toj osnovi koristio osobni odbitak obvezan je podnijeti godišnju poreznu prijavu ili će se izvršiti poseban postupak utvrđivanja godišnjeg poreza na dohodak.
+(7) U slučaju iz stavka 6. ovoga članka, porezni obveznik nema pravo u godišnjoj poreznoj prijavi ili posebnom postupku utvrđivanja godišnjeg poreza koristiti osobni odbitak za tog uzdržavanog člana, a uzdržavani član koji je ostvario oporezive primitke od kojih se prema članku 5. ovoga Zakona utvrđuje dohodak može, u skladu s ovim Zakonom, u navedenim postupcima godišnjeg obračuna koristiti osobni odbitak iz članka 14. ovoga Zakona.
+(8) Ako u tijeku poreznog razdoblja uzdržavani član za kojeg porezni obveznik u istom poreznom razdoblju koristi dio osobnog odbitka prema članku 14. stavku 4. ovoga Zakona ostvari primitke iz stavka 1. ovoga članka, u godišnjem iznosu od 15.000,00 kuna ili manjem, godišnju poreznu prijavu za to porezno razdoblje može podnijeti, odnosno bit će obuhvaćen posebnim postupkom utvrđivanja godišnjeg poreza, u skladu s ovim Zakonom, i to:
+1. porezni obveznik – uzdržavatelj po osnovi ostvarenog dohotka iz članka 5. ovoga Zakona i koristiti osobni odbitak za tog uzdržavanog člana i
+2. porezni obveznik – uzdržavani član po osnovi ostvarenog dohotka iz članka 5. ovoga Zakona i koristiti pravo na osobni odbitak iz članaka 14. – 16. ovoga Zakona.
+(9) Ministar financija pravilnikom propisuje načine korištenja i vjerodostojne isprave za korištenje osobnog odbitka za poreznog obveznika i uzdržavane članove.

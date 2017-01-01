@@ -1,0 +1,5 @@
+## Osobni odbitak nerezidenta
+# Članak 16.
+(1) Nerezidentu se ostvareni dohodak iz članka 13. ovoga Zakona umanjuje za osnovni osobni odbitak iz članka 14. stavka 3. ovoga Zakona za mjesece u kojima ostvaruje dohodak u tuzemstvu.
+(2) Nerezidentu se osobni odbitak može uvećati i za dio osobnog odbitka za dana darovanja i doprinose za zdravstveno osiguranje na način i pod uvjetima propisanim člankom 15. ovoga Zakona.
+(3) Iznimno od stavka 1. ovoga članka, rezident države članice Europske unije ili Europskog gospodarskog prostora, osim Republike Hrvatske koji u Republici Hrvatskoj ostvari dohodak prema članku 5. ovoga Zakona, može u godišnjem obračunu poreza na dohodak na temelju podnesene godišnje porezne prijave ili u posebnom postupku utvrđivanja godišnjeg poreza na dohodak koristiti i osobni odbitak iz članka 14. stavka 4. ovoga Zakona za cijelo porezno razdoblje, uz uvjet da vjerodostojnim ispravama dokaže da navedeni dohodak ostvaren u Republici Hrvatskoj čini najmanje 90% njegova ukupnog (svjetskog) dohotka ostvarenog u poreznom razdoblju i da je isti izuzet ili oslobođen oporezivanja u državi članici čiji je rezident.

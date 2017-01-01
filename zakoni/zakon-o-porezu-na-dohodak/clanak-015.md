@@ -1,0 +1,5 @@
+## Dio osobnog odbitka za dana darovanja i doprinose za zdravstveno osiguranje
+# Članak 15.
+(1) Poreznom obvezniku se osobni odbitak uvećava i za iznose plaćene za obvezno zdravstveno osiguranje ako porezni obveznik nije drukčije osiguran, do visine propisanoga obveznog doprinosa za zdravstveno osiguranje.
+(2) Porezni obveznik može uvećati osobni odbitak za darovanja dana u tuzemstvu u naravi i u novcu doznačenim na žiroračun, a u kulturne, odgojno-obrazovne, znanstvene, zdravstvene, humanitarne, športske i vjerske svrhe, udrugama i drugim osobama koje te djelatnosti obavljaju u skladu s posebnim propisima, do visine 2% primitaka za koje je u tekućoj godini podnesena godišnja porezna prijava i utvrđen godišnji porez na dohodak ili je proveden poseban postupak utvrđivanja godišnjeg poreza na dohodak i prireza porezu na dohodak.
+(3) Iznimno od stavka 2. ovoga članka, osobni odbitak se uvećava za darovanja dana iznad propisane visine, pod uvjetom da su dana prema odlukama nadležnih ministarstava o provedbi i financiranju posebnih programa i akcija, ali ne i za redovitu djelatnost primatelja darovanja.

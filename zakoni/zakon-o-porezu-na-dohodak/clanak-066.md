@@ -1,0 +1,4 @@
+## Dohodak od kapitala po osnovi izuzimanja imovine i korištenja usluga
+# Članak 66.
+(1) Izuzimanjima imovine i korištenjem usluga iz članka 64. stavka 1. ovoga Zakona smatraju se izuzimanja imovine i korištenje usluga od strane članova trgovačkih društava za njihove privatne potrebe (skrivene isplate dobiti) izvršeni tijekom poreznog razdoblja na teret dobiti tekućeg razdoblja, te izuzimanja fizičkih osoba koje obavljaju samostalnu djelatnost iz članka 29. ovoga Zakona od koje se plaća porez na dobit.
+(2) Dohotkom od kapitala po osnovi izuzimanja iz stavka 1. ovoga članka smatra se i razlika primitka koja nastaje kada se tijekom poreznog razdoblja poreznom obvezniku isplati predujam udjela u dobiti, a istekom tog poreznog razdoblja ostvarena dobit nije dostatna za pokriće takvog predujma.

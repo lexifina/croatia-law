@@ -1,0 +1,9 @@
+## POGLAVLJE IX. POSTUPAK ZA UTVRĐIVANJE I NAPLATU GODIŠNJEG POREZA
+## Odjeljak 1. UTVRĐIVANJE GODIŠNJEG POREZA
+## Godišnji porez na dohodak
+# Članak 46.
+(1) Godišnji porez na dohodak utvrđuje se prema poreznoj osnovici iz članka 18. ovoga Zakona, a od utvrđenoga godišnjeg poreza odbijaju se iznosi plaćenog predujma poreza po svim iskazanim dohocima prema članku 13. ovoga Zakona te utvrđuje razlika za uplatu ili povrat poreza.
+(2) Iznosima plaćenog predujma poreza iz stavka 1. ovoga članka umirovljenika i poreznih obveznika koji imaju prebivalište i borave na području jedinica lokalne samouprave razvrstanih u I. skupinu po stupnju razvijenosti prema posebnom propisu o regionalnom razvoju Republike Hrvatske i na području Grada Vukovara utvrđenog prema posebnom propisu o obnovi i razvoju Grada Vukovara smatraju se obračunani predujmovi prema članku 24. stavcima 2. i 3. ovoga Zakona u razmjernom djelu uplaćenog predujma utvrđenog sukladno članku 24. stavku 5. ovoga Zakona.
+(3) Obveznicima poreza na dohodak porez se utvrđuje poreznim rješenjem, osim ako je ovim Zakonom drukčije uređeno.
+(4) Porez na dohodak po godišnjoj poreznoj prijavi plaća se u roku od 15 dana od dana dostave rješenja poreznom obvezniku. Porezni obveznici koji obavljaju samostalnu djelatnost plaćaju porez na dohodak po godišnjoj poreznoj prijavi s danom podnošenja godišnje porezne prijave.
+(5) Ako je porezni obveznik tijekom poreznog razdoblja platio veći predujam od poreza na dohodak utvrđenog rješenjem, više plaćeni porez vraća se poreznom obvezniku. Iznimno, poreznim obveznicima koji ostvaruju dohodak od samostalne djelatnosti iz članka 29. ovoga Zakona i poreznim obveznicima koji dohodak utvrđuju na način propisan za samostalne djelatnosti prema člancima 30. – 35. ovoga Zakona, više plaćeni porez vraća se na njihov zahtjev ili im se uračunava u predujam za iduće razdoblje.
