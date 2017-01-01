@@ -1,0 +1,1 @@
+Na temelju članka 90. stavka 3. Zakona o cestama (»Narodne novine«, broj 84/11, 22/13, 54/13, 148/13 i 92/14), ministar pomorstva, prometa i infrastrukture uz suglasnost ministra nadležnog za branitelje i ministra nadležnog za financije donosi

@@ -1,0 +1,4 @@
+# Članak 1.
+(1) Ovim Pravilnikom se propisuje način, postupak i dinamika ostvarivanja prava na nadoknadu iznosa godišnje naknade za uporabu javnih cesta koja se plaća pri registraciji osobnog automobila (u daljnjem tekstu: godišnja naknada) i cestarine za uporabu autoceste i objekta s naplatom (most, tunel, vijadukt i sl.), (u daljem tekstu: cestarina), koje nisu ostvarene zbog ostvarivanja prava na oslobađanje od plaćanja navedenih naknada osoba s invaliditetom propisanih člankom 88. stavcima 1. i 2. Zakona o cestama.
+(2) Pravo na nadoknadu iznosa godišnje naknade ostvaruju županijske uprave za ceste, te gradovi koji upravljaju nerazvrstanim cestama iz članka 98. stavka 1. podstavka 1. Zakona o cestama, a pravo na nadoknadu cestarine trgovačko društvo Hrvatske autoceste d.o.o. i koncesionari (u daljnjem tekstu: korisnici nadoknade).
+(3) Sredstva iz stavka 1. ovoga članka osigurana su u državnom proračunu.
