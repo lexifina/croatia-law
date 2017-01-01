@@ -1,0 +1,9 @@
+## Redoslijed plaćanja
+# Članak 128.
+(1) Ako porezni obveznik duguje poreze, kamate i troškove ovrhe iz uplaćenog iznosa, najprije se naplaćuju kamate i troškovi ovrhe, a nakon toga glavni porezni dug iste vrste poreza. Isto pravilo se primjenjuje i kada porezni obveznik ima pravo na povrat poreza.
+(2) Ako porezni obveznik ima pravo na povrat poreza i kamate, iz isplaćenog iznosa prvo se namiruju kamate, a nakon toga porez.
+(3) U slučaju da je porezno tijelo temeljem provedenog postupka propisanog zakonom kojim se uređuje administrativna suradnja u području poreza zaprimilo informaciju da je tražbina poreznog tijela naplaćena u cijelosti po propisima zemlje članice koja je zahtjev zaprimila, iz naplaćenog iznosa najprije se podmiruje iznos glavnice i kamate za koje je naplata zatražena. Eventualna nastala razlika zaduženih kamata nakon podnošenja zahtjeva i kamata naplaćenih po propisima zemlje članice kojoj je dostavljen zahtjev za naplatu, odnosno razlika nastala zbog primjene različitih tečajeva valuta u kojima se dug naplaćuje otpisuje se.
+(4) Ako porezni obveznik duguje više vrsta poreza, a uplaćeni iznos nije dovoljan za plaćanje ukupnoga poreznog duga, tada se pojedine vrste poreza naplaćuju po redoslijedu njihova dospijeća.
+(5) Kod iznosa koji dospijevaju istodobno redoslijed naplate određuje porezno tijelo.
+(6) S uplatom poreznog obveznika u kojoj je naznačena vrsta obveze koja se plaća porezno tijelo postupit će na način propisan u stavcima 1. do 3. ovoga članka ako postoje ranije nepodmirene obveze.
+(7) Iznimno, ako se uplata odnosi na podmirenje duga za koji je upisan zalog ili hipoteka, uplatom se naplaćuju najprije kamate pa glavnica duga na koje se zalog ili hipoteka odnosi. Ako uplaćeni iznos nije dovoljan za podmirenje svih vrsta poreza pod zalogom ili hipotekom, pojedine vrste poreza naplaćuju se na način propisan stavkom 2. i 3. ovoga članka.

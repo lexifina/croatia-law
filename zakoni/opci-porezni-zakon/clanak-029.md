@@ -1,0 +1,6 @@
+## Odgovornost osoba koje vode poslove društva i povezanih osoba
+# Članak 29.
+(1) Članovi uprave i izvršni direktori društva kapitala odgovaraju kao porezni jamci ako pri vođenju poslova društva zloupotrebljavaju svoje ovlasti što ima za posljedicu nemogućnost ispunjenja obveza iz porezno-dužničkog odnosa i oštećenje poreznog tijela.
+(2) Radnjama kojima se oštećuje porezno tijelo kao vjerovnik u porezno-dužničkom odnosu osobito se smatraju: preusmjeravanje novčanih tokova na druge pravne ili fizičke osobe radi izbjegavanja plaćanja poreznih obveza, korištenje društva radi postizanja ciljeva koje ne bi sam mogao postići, a koji su zabranjeni, umanjenje ili otuđenje imovine društva ako je isto za posljedicu imalo nemogućnost plaćanja obveza iz porezno-dužničkog odnosa.
+(3) Osobna odgovornost postoji i u slučaju osobe koja se koristi drugim osobama koje djeluju kao njegovi povjerenici, tako da se u društvu kao član iskazuje netko drugi, ali to čini po nalogu i uputama te osobe.
+(4) Za podmirenje obveza društva, ali najviše do visine ostvarene koristi, supsidijarno odgovaraju i povezane osobe u čiju korist je poduzeto raspolaganje na štetu društva, što za posljedicu ima neispunjavanje obveze iz porezno-dužničkog odnosa.

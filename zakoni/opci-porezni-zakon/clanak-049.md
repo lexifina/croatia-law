@@ -1,0 +1,7 @@
+## Povezane osobe
+# Članak 49.
+(1) Povezane osobe, u smislu ovoga Zakona, su osobe kod kojih je ispunjen najmanje jedan od sljedećih uvjeta:
+1. dvije ili više fizičkih ili pravnih osoba koje za izvršavanje obveza iz porezno-dužničkog odnosa predstavljaju jedan rizik jer jedna od njih ima, izravno ili neizravno, kontrolu nad drugom ili drugima
+2. dvije ili više fizičkih ili pravnih osoba koje za izvršavanje obveza iz porezno-dužničkog odnosa predstavljaju jedan rizik jer jedna od njih ima, izravno ili neizravno, značajan utjecaj na drugu ili druge
+3. dvije ili više fizičkih ili pravnih osoba između kojih ne postoji odnos kontrole iz točke 1. ovoga stavka ili značajan utjecaj iz točke 2. ovoga stavka, ali koje predstavljaju jedan rizik za izvršavanje obveza iz porezno-dužničkog odnosa jer su međusobno povezane tako da postoji velika vjerojatnost da zbog pogoršanja ili poboljšanja gospodarskog i financijskog stanja jedne osobe može doći do pogoršanja ili poboljšanja gospodarskog i financijskog stanja jedne ili više drugih osoba, jer se između njih provodi ili postoji mogućnost prijenosa gubitaka, dobiti ili sposobnosti za plaćanje.
+(2) Smatra se da postoji odnos povezanih osoba iz ovoga članka i između poreznog dužnika i: njegovog bračnog druga, njegovog krvnog srodnika u ravnoj liniji, u pobočnoj liniji do četvrtog stupnja, po tazbini do istog stupnja bez obzira je li brak prestao ili nije, posvojitelja, posvojenika, skrbnika, osobe pod skrbništvom, staratelja, osobe pod starateljstvom te osobe koja s njime živi u zajedničkom kućanstvu.

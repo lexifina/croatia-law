@@ -1,0 +1,6 @@
+## Prebivalište i uobičajeno boravište
+# Članak 43.
+(1) U smislu ovoga Zakona smatra se da porezni obveznik ima prebivalište ondje gdje ima stan u vlasništvu ili posjedu neprekidno najmanje 183 dana u jednoj ili u dvije kalendarske godine. Boravak u stanu nije obvezan.
+(2) Ako porezni obveznik u Republici Hrvatskoj ima u vlasništvu ili posjedu više stanova, prebivalište mjerodavno za oporezivanje utvrđuje se prema mjestu prebivališta obitelji, a za poreznog obveznika samca prema mjestu u kojem se pretežno zadržava ili prema mjestu iz kojeg pretežno odlazi na rad ili obavljanje djelatnosti.
+(3) Ako porezni obveznik ima prebivalište u tuzemstvu i inozemstvu, smatra se da ima prebivalište u tuzemstvu.
+(4) Uobičajeno boravište u smislu ovoga Zakona ima porezni obveznik u onome mjestu u kojem se zadržava pod okolnostima na temelju kojih se može zaključiti da on u tome mjestu ili na tom području ne boravi samo privremeno. Uobičajenim boravištem u smislu ovoga Zakona smatra se stalan ili vremenski povezan boravak u trajanju od najmanje 183 dana u jednoj ili u dvije kalendarske godine. Za određivanje uobičajenog boravišta nisu važni kratkotrajni prekidi boravka koji ne traju dulje od jedne godine.

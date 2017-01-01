@@ -1,0 +1,22 @@
+## Knjigovodstvene isprave i evidencije
+# Članak 66.
+(1) Knjiženja i druga evidentiranja treba obavljati potpuno, točno, pravodobno i uredno. Primitke i izdatke blagajne (gotovinski promet) treba bilježiti slijedom njihova nastanka svakodnevno.
+(2) Bilježenje podataka u poslovne knjige mora se temeljiti na urednim i vjerodostojnim knjigovodstvenim ispravama.
+(3) Smatra se da je isprava za knjiženje uredna kad se iz nje nedvosmisleno može utvrditi mjesto i vrijeme njezina sastavljanja i njezin materijalni sadržaj, što znači narav, vrijednost i vrijeme nastanka poslovne promjene povodom koje je sastavljena. Vjerodostojna je isprava ona koja potpuno i istinito odražava nastali poslovni događaj.
+(4) Knjiženja i druga evidentiranja ne smiju se mijenjati na način da se prvotni sadržaj više ne može utvrditi. Ne smiju se obaviti ni izmjene takvog značaja da je neizvjesno jesu li provedene odmah ili naknadno.
+(5) Evidencije o dnevnom gotovinskom prometu moraju se voditi na mjestu na kojem se ti primici ostvaruju i u svakom trenutku moraju biti dostupne poreznom tijelu u postupku poreznog nadzora.
+(6) Smatra se da se poslovne knjige, osim evidencija o dnevnom gotovinskom prometu, vode pravodobno ako se njima osiguravaju podaci bitni za pravodobno utvrđivanje i prijavljivanje (izvješćivanje) te plaćanje poreznih obveza.
+(7) Poslovne knjige i druge evidencije moraju se voditi u skladu s načinom oporezivanja poreznog obveznika i prema temeljnim načelima urednog knjigovodstva. Obveznici poreza na dohodak vode jednostavno knjigovodstvo, a obveznici poreza na dobit dvojno knjigovodstvo.
+(8) Poslovne knjige i druge evidencije mogu se voditi i u elektroničkom obliku ako ti oblici knjigovodstva, zajedno s pritom primijenjenim postupcima, odgovaraju temeljnim načelima urednoga knjigovodstva. Kod evidencija koje se vode samo prema poreznim propisima način vođenja mora odgovarati svrsi koju evidencije trebaju ispuniti za oporezivanje. Pri vođenju poslovnih knjiga i drugih evidencija u elektroničkom obliku mora se osigurati da podaci u roku čuvanja budu raspoloživi i da se u svako doba unutar primjerenog roka mogu učiniti čitljivima. Tijek postupka mora se zajedno sa svim promjenama dokazati pomoću sustavne dokumentacije.
+(9) Poslovne knjige i druge evidencije s pripadajućom dokumentacijom moraju se voditi i čuvati na način da su dostupne poreznim tijelima, i to:
+1. u poslovnim prostorijama ili ako nema poslovnih prostorija, u stanu poreznog obveznika ili
+2. kod opunomoćenika ili
+3. kod osobe koja za poreznog obveznika vodi poslovne knjige.
+(10) Ako za stalne poslovne jedinice u inozemstvu, prema inozemnim propisima, postoji obveza vođenja knjigovodstva koju porezni obveznik ispunjava, poslovne se knjige i druge evidencije ne moraju voditi i čuvati u tuzemstvu. U tom se slučaju stanja i poslovni rezultati iz knjigovodstva u inozemstvu moraju preuzeti u knjigovodstvo tuzemnoga poreznog obveznika ako su bitni za oporezivanje, uz naznaku i obrazloženje određenih prilagodbi tuzemnim poreznim propisima.
+(11) Ako porezni obveznik vodi knjige i druge evidencije koje nisu zakonom propisane kao obvezne, a koristi ih za utvrđivanje porezne obveze, dužan ih je voditi u skladu s odredbama ovoga članka.
+(12) Ako se za knjiženja ili druga evidentiranja koristi jezik i pismo koji nisu u službenoj uporabi, porezno tijelo zatražit će ovjereni prijevod na hrvatski jezik i latinično pismo. Ako se koriste kratice, brojke, slova ili simboli, onda njihovo značenje mora biti jednoznačno utvrđeno.
+(13) Na početku poslovanja porezni obveznik mora popisati svu imovinu i obveze te navesti njihove pojedinačne vrijednosti. Takav se popis mora sastaviti i krajem svake poslovne godine kao godišnji popis.
+(14) Osim godišnjeg popisa, porezni obveznik mora popisati imovinu i obveze i u drugim slučajevima, a posebno po nalogu poreznog tijela u postupku poreznog nadzora, pri promjenama cijena dobara ili poreznih stopa ako je to bitno za oporezivanje isporuka tih dobara, kod statusnih promjena i kod otvaranja postupka stečaja ili postupka likvidacije ili prestanka obavljanja djelatnosti.
+(15) Kod promjene cijena dobara iz stavka 14. ovog članka nije nužan popis imovine ako se u knjigovodstvenim evidencijama mogu osigurati podaci o vrijednosti robe na zalihi.
+(16) Popisne liste smatraju se knjigovodstvenim ispravama.
+(17) Evidencije i isprave o dnevnom gotovinskom prometu, poslovne knjige i knjigovodstvene isprave te druge evidencije čuvaju se deset godina od početka tijeka zastare, ako posebnim propisom nisu propisani dulji rokovi.
