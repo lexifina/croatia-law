@@ -1,0 +1,5 @@
+# Članak 123.
+(1) Prava radnika EGIS ROAD OPERATION CROATIA d.o.o. utvrđena ovim Ugovorom ne mogu se umanjivati zbog sklapanja privremenog ugovora o zapošljavanju s agencijom.
+(2) Broj angažiranih radnika na temelju sklopljenog ugovora s agencijom ne može prelaziti više od 5 % u odnosu na ukupni broj zaposlenih kod Poslodavca.
+(3) Ukoliko Poslodavac u slučaju izvanrednog povećanja opsega poslova rasporedom zaposlenih radnika ne može zadovoljiti potrebe povećanog opsega poslova, kao i u slučajevima zamjene radnika privremeno nesposobnog za rad, zamjene radnice radi korištenja porodnog dopusta, te i u svim drugim slučajevima iznimne potrebe za privremenim povećanjem broja radnika, može angažirati radnika temeljem sklopljenog privremenog ugovora o zapošljavanju s Agencijom. U svim ostalim slučajevima Poslodavac se obvezuje pridržavati važećih odredbi stavka 2. ovog članka Kolektivnog ugovora.
+(4) Poslodavac je dužan na pisani zahtjev Radničkog vijeća/Sindikalnog povjerenika dostaviti podatke o broju i razlozima sklapanja ugovora s agencijom za privremeno zapošljavanje u roku od 7 dana od dana primitka zahtjeva.

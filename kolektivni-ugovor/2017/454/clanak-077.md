@@ -1,0 +1,14 @@
+## Naknada plaće
+# Članak 77.
+Radnik ima pravo na naknadu plaće, kao da je radio, u slučaju:
+• godišnjeg odmora,
+• plaćenog dopusta,
+• blagdana i neradnih dana utvrđenih zakonom,
+• obnašanja zadaće člana Radničkog vijeća ili Sindikalnog Povjerenika,
+• obrazovanja ili osposobljavanja prema potrebama Poslodavca,
+• vježbe oružanih snaga i vježbe civilne zaštite,
+• ako odbije raditi jer nisu provedene mjere zaštite na radu uslijed čega mu prijeti neposredna opasnost za život i zdravlje,
+• ako dođe na posao, a prethodnog dana ili ranije nije obaviješten da toga dana neće raditi,
+• ako dođe do prekida rada, ali ne krivnjom radnika,
+• obavljanja zadataka povjerenika radnika za zaštitu na radu (četiri sata tjedno),
+• obavljanja zadataka člana Radničkog vijeća ili Sindikalnog Povjerenika u ime Radničkog vijeća (šest sati tjedno).

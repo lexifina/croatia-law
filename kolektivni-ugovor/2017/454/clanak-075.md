@@ -1,0 +1,7 @@
+## Zamjena Upozorenja na propuste iz radnog odnosa uz mogućnost otkaza Ugovora o radu, uskratom plaće
+# Članak 75.
+(1) Radniku koji svojim postupanjem ili propuštanjem krši obveze iz radnog odnosa, a koje kršenje, prema ocjeni Poslodavca predstavlja osnovu za upozorenje na propuste iz radnog odnosa uz mogućnost otkaza ugovora o radu, Poslodavac može takvo Upozorenje zamijeniti uskratom do 10% iznosa osnovice plaće radnika.
+(2) Odluku o uskrati određenog iznosa osnovice plaće radnika Poslodavac će dostaviti u pisanom obliku radniku na kojeg se odnosi, te će istu odluku dostaviti i Radničkom vijeću ili Sindikatu, ukoliko kod Poslodavca u tom trenutku ne djeluje Radničko vijeće.
+(3) Protiv odluke iz stavka 2. ovog članka, radnik može u roku 8 dana, računajući od dana urednog primitka odluke, uskratiti Poslodavcu pravo na uskratu iznosa osnovice plaće određenog tom odlukom. U slučaju propuštnaja ostavljenog roka, smatra se da je radnik suglasan sa predmetnom odlukom.
+(4) Ako radnik iskoristi svoje pravo iz stavka 3. ovog članka, Poslodavac ne može izvršiti uskratu iznosa određenog odlukom iz stavka 2. ovog članka, te je svako drukčije postupanje Poslodavca ništavno i bez pravnog učinka. U tom slučaju, predmetna odluka smatrat će se upozorenjem na propuste iz radnog odnosa uz mogućnost otkaza ugovora o radu.
+(5) Danom izvršenja uskrate određenog iznosa osnovice plaće od strane Poslodavca, smatrat će se kako radnik nije prekršio obveze iz radnog odnosa, a slijedom propusta na osnovi kojih je predmetna odluka donesena.
