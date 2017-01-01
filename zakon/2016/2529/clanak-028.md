@@ -1,0 +1,6 @@
+# Članak 28.
+U članku 91.a stavak 1. mijenja se i glasi:
+»(1) Energenti iz tarifnih oznaka KN 2710 19 91, 2710 19 99, 3403 19 10, 3403 19 91 i 3403 19 99 te proizvodi iz tarifne oznake KN 3826 00 90 kada im namjena nije pogon ili grijanje podliježu posebnim mjerama nadzora proizvodnje, prerade, skladištenja i kretanja. Posebne mjere nadzora se odnose na komercijalni prijevoz u rasutom stanju energenata iz tarifnih oznaka KN 2710 19 91, 2710 19 99, 3403 19 10, 3403 19 91 i 3403 19 99 te proizvoda iz tarifne oznake KN 3826 00 90 (kada im namjena nije pogon ili grijanje). Komercijalni prijevoz u rasutom stanju podrazumijeva nezapakirani proizvod koji se prevozi u kontejnerima kao sastavnom dijelu prijevoznog sredstva (kamion cisterna, vagon cisterna ili tanker) ili u ISO spremnicima, uključujući i nezapakirane proizvode koji se prevoze u drugim kontejnerima zapremnine veće od 210 litara.«.
+Iza stavka 4. dodaje se novi stavak 5. koji glasi:
+»(5) Iznimno od odredbe stavka 2. ovoga članka, odobrenjem za poslovanje energentima i proizvodima iz stavka 1. ovoga članka može se obuhvatiti poslovanje više osoba koje raspolažu istom pošiljkom tih energenata i proizvoda.«.
+Dosadašnji stavci 5., 6., 7., 8., 9. i 10. postaju stavci 6., 7., 8., 9., 10. i 11.

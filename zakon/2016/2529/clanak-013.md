@@ -1,0 +1,5 @@
+# Članak 13.
+U članku 67. iza stavka 3. dodaju se novi stavak 4. i stavak 5. koji glase:
+»(4) Neovisno o odredbi stavka 3. ovoga članka u slučaju otpreme vina u sustavu odgode plaćanja trošarine u drugu državu članicu ili do mjesta u drugoj državi članici na kojem vino napušta teritorij Europske unije nadležni carinski ured može, u ime i za račun malog proizvođača vina, podnijeti nacrt e-TD-a koristeći računalni sustav iz članka 11. ovoga Zakona. Iznimno, nadležni carinski ured može malom proizvođaču vina posebno odobriti da koristeći računalni sustav iz članka 11. ovoga Zakona podnese nacrt e-TD-a.
+(5) Za potrebe iz stavka 4. ovoga članka mali proizvođač vina obavještava nadležni carinski ured o otpremi vina i dostavlja podatke u skladu s Uredbom Komisije (EZ) br. 684/2009 od 24. srpnja 2009. o provedbi Direktive Vijeća 2008/118/EZ s obzirom na računalnu obradu postupaka za kretanje trošarinske robe u sustavu odgode plaćanja trošarine (SL L 197, 29. 7. 2009.) najkasnije sedam dana prije otpreme vina na mjesto odredišta iz stavka 4. ovoga članka.«.
+Dosadašnji stavak 4. postaje stavak 6.

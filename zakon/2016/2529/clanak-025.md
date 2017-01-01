@@ -1,0 +1,3 @@
+# Članak 25.
+U članku 89. stavak 3. mijenja se i glasi:
+»(3) Trošarinski obveznici i druge pravne ili fizičke osobe koje prodaju označena plinska ulja za grijanje dužni su u elektroničkom obliku voditi evidenciju o kupcima i prodanim količinama označenog plinskog ulja za grijanje. Evidencije o krajnjim kupcima i prodanim količinama označenih plinskih ulja za grijanje dostavljaju se Carinskoj upravi u elektroničkom obliku. Postupak prodaje označenih plinskih ulja te primjena sustava elektroničke evidencije i razmjene podataka s Carinskom upravom o prodaji plinskog ulja za grijanje uređuje se propisom iz članka 115. ovoga Zakona.«.

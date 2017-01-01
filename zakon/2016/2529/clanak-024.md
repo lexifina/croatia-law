@@ -1,0 +1,11 @@
+# Članak 24.
+Članak 88. mijenja se i glasi:
+»(1) Označena plinska ulja iz članka 87. ovoga Zakona mogu se koristiti i prodavati isključivo u svrhu propisanu ovim Zakonom.
+(2) Označena plinska ulja za namjenu grijanja iz članka 87. ovoga Zakona mogu koristiti samo osobe kojima je nadležni carinski ured temeljem podnesenog zahtjeva odobrio pravo na korištenje označenog plinskog ulja za namjenu grijanja.
+(3) Označena plinska ulja za namjenu grijanja iz članka 87. ovoga Zakona smiju se koristiti samo za tu svrhu i ne mogu se koristiti za pogon motornih vozila, plovnih objekata, plovila ili drugih motora i strojeva, i ne smiju se utakati u spremnike motornih vozila, plovnih objekata, plovila ili drugih motora i strojeva niti se u spremniku smiju posjedovati. U postupku odobravanja prava na korištenje označenih plinskih ulja za namjenu grijanja iz članka 87. ovoga Zakona nadležni carinski ured utvrđuje vjerodostojnost činjenica i podataka navedenih u zahtjevu te može:
+1. ocjenjivati uvjete za korištenje označenih plinskih ulja za namjenu grijanja, uključujući značajke prostora za koji se zahtijeva korištenje plinskog ulja za namjenu grijanja i/ili podneblja u kojem se ostvaruje pravo
+2. odrediti najveću dopuštenu količinu potrošnje plinskog ulja za namjenu grijanja
+3. na licu mjesta provjeravati uvjete korištenja označenog plinskog ulja.
+(4) Označena plinska ulja iz članka 87. ovoga Zakona obojena plavom bojom smiju koristiti korisnici prava iz članka 92. ovoga Zakona za pogon poljoprivrednih strojeva poljoprivrednih gospodarstava i za rad pogonskih i pomoćnih motora ribarskih plovila kojima se obavlja gospodarski ribolov te za rad pogonskih i pomoćnih motora plovila i strojeva u ribogojstvu i akvakulturi, kao i za pogonsko gorivo za plovidbu.
+(5) Plinskim uljima koja su označena sukladno članku 87. ovoga Zakona nije dozvoljeno odstraniti sredstva za označavanje, smanjiti njihove koncentracije ili dodavati supstancije koje onemogućavaju utvrđivanje propisane označenosti.
+(6) Ministar financija pravilnikom propisuje posebnosti odobravanja prava na korištenje označenog plinskog ulja za namjenu grijanja, način podnošenja prijave i ishođenja odobrenja, način prodaje označenog plinskog ulja za namjenu grijanja te način vođenja evidencija.«.

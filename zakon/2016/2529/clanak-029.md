@@ -1,0 +1,4 @@
+# Članak 29.
+U članku 91.b iza stavka 4. dodaju se stavci 5. i 6. koji glase:
+»(5) U smislu ovoga članka obavljanje neregistrirane djelatnosti s energentima podrazumijeva, između ostaloga, i obavljanje energetske djelatnosti bez rješenja kojim se prema posebnim propisima dozvoljava obavljanje te djelatnosti. Neovisno o odredbama drugih propisa, u svrhu primjene ovoga članka Carinska uprava je ovlaštena utvrđivati obavljanje neregistrirane djelatnosti s energentima.
+(6) Smatra se da su energenti nezakonito pušteni u potrošnju u smislu članka 25. ovoga Zakona i da za njih nastaje obveza obračuna i plaćanja trošarine ako se utvrdi da ne udovoljavaju zahtjevima iz posebnih propisa kojima se uređuju uvjeti stavljanja i korištenja energenata na tržištu, osim ako osoba koja posjeduje energente ili na drugi način s njima raspolaže ne dokaže da su energenti pušteni u potrošnju u skladu s odredbama ovoga Zakona i da je na njih obračunata i plaćena trošarina.«.
