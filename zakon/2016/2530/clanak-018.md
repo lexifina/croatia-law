@@ -1,0 +1,7 @@
+# Članak 18.
+Iza članka 25. dodaje se članak 25.a koji glasi:
+»Članak 25.a
+(1) Motorna vozila za koja je posebni porez obračunat i plaćen zbog nezakonite uporabe na području Republike Hrvatske moraju se registrirati kod nadležnog tijela u Republici Hrvatskoj u roku od 30 dana od dana uplate posebnog poreza.
+(2) Ako se utvrdi da je motorno vozilo registrirano kod nadležnog tijela u Republici Hrvatskoj, a da na njega nije plaćen posebni porez ili nije plaćen u cijelosti ili ako se utvrdi da je motorno vozilo registrirano na temelju lažne ili krivotvorene isprave, smatra se da je motorno vozilo predmet nezakonite uporabe na području Republike Hrvatske.
+(3) U slučaju iz stavka 1. ovoga članka Carinska uprava je dužna poduzeti mjere radi osiguranja naplate posebnog poreza iz članaka 24. i 25. ovoga Zakona i, ovisno o okolnostima slučaja te ako je to razmjerno svrsi koja se želi postići, od nadležnog tijela zatražiti poništenje registracije motornog vozila. Nadležno tijelo će na zahtjev Carinske uprave poništiti registraciju motornog vozila.
+(4) Ako se u slučaju iz stavka 1. ovoga članka utvrdi da je nezakonita uporaba motornog vozila posljedica prijevarnog postupanja i/ili zlouporabe povjerenja i/ili poduzimanja fiktivnih ili prividnih pravnih poslova ili radnji, osobom koja je nezakonito uporabila motorno vozilo smatra se osoba koja je poduzimala te radnje i svaka osoba za koju iz objektivnih okolnosti proizlazi da je znala ili morala znati da svojim radnjama ili propuštanjem poduzimanja dužnih radnji sudjeluje u nezakonitoj uporabi motornog vozila.«.

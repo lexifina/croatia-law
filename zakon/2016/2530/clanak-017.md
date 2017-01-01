@@ -1,0 +1,5 @@
+# Članak 17.
+U članku 25. stavci 1. i 2. mijenjaju se i glase:
+»(1) Ako postoji vjerojatnost da će porezni obveznik, proizvođač, trgovac ili registrirani trgovac rabljenim motornim vozilima onemogućiti naplatu posebnog poreza, uključujući naplatu još nedospjelog i neutvrđenog iznosa posebnog poreza te ako proizvođač, trgovac ili registrirani trgovac rabljenim motornim vozilima ne vodi evidencije ili ih netočno ili nepotpuno vodi ili ne dostavlja izvješća propisana ovim Zakonom, mogu se poduzeti mjere osiguranja naplate.
+(2) Mjere osiguranja naplate određuju se rješenjem i sastoje se u zabrani raspolaganja sredstvima na žiroračunu ili drugim računima poreznog obveznika, proizvođača, trgovca ili registriranog trgovca rabljenim motornim vozilima u popisu pokretnina, tražbina i drugih imovinskih prava, zabrani raspolaganja tražbinama poreznog obveznika, proizvođača, trgovca ili registriranog trgovca rabljenim motornim vozilima oduzimanjem pokretnina i predbilježbi založnog prava na nekretnini.«.
+U stavku 4. riječi: »proizvođač i trgovac« zamjenjuju se riječima: »proizvođač, trgovac ili registrirani trgovac rabljenim motornim vozilima«.
