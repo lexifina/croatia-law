@@ -1,0 +1,6 @@
+## POGLAVLJE III. OVLASTI JEDINICA LOKALNE I PODRUČNE (REGIONALNE) SAMOUPRAVE
+# Članak 41.
+(1) Poslove u vezi s utvrđivanjem i naplatom poreza jedinica lokalne i područne (regionalne) samouprave, osim prireza porezu na dohodak i poreza na automate za zabavne igre, obavljaju nadležna tijela jedinica lokalne i područne (regionalne) samouprave.
+(2) Poslove u svezi s utvrđivanjem i naplatom prireza porezu na dohodak i poreza na automate za zabavne igre obavlja Ministarstvo financija, Porezna uprava.
+(3) Iznimno od stavka 1. ovoga članka, predstavničko tijelo jedinice lokalne samouprave može svojom odlukom povjeriti drugoj jedinici lokalne samouprave odnosno jedinici područne (regionalne) samouprave utvrđivanje i naplatu poreza propisanih ovim Zakonom, uz prethodnu suglasnost predstavničkog tijela jedinice lokalne odnosno jedinice područne (regionalne) samouprave kojoj se poslovi povjeravaju.
+(4) Porezna uprava može obavljati poslove u vezi s utvrđivanjem i naplatom poreza jedinica lokalne i područne (regionalne) samouprave iz stavka 1. ovoga članka na temelju odluke predstavničkog tijela jedinice lokalne ili područne (regionalne) samouprave, uz prethodnu suglasnost ministra financija, osim poreza na nekretnine i poreza na cestovna motorna vozila.

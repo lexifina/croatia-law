@@ -1,0 +1,2 @@
+# Članak 44.
+Međusobni odnos jedinica područne (regionalne) samouprave i pravne osobe iz članka 46. stavka 4. ovoga Zakona radi izdavanja i uručenja rješenja iz članka 46. stavka 1. ovoga Zakona, radi naplate poreza na cestovna motorna vozila te uplate naplaćenih sredstava na račun jedinica područne (regionalne) samouprave, kao i druga prava i obveze koje proizlaze iz ovog odnosa uredit će se pravilnikom koji donosi ministar financija.

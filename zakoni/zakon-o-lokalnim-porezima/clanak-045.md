@@ -1,0 +1,9 @@
+## POGLAVLJE IV. POSTUPOVNE ODREDBE
+## Odjeljak 1. Porez na nasljedstva i darove
+# Članak 45.
+(1) Javni bilježnik po ovjeri potpisa na ispravama o stjecanju pokretnina odnosno po njihovoj pravomoćnosti ili po sastavljanju javnobilježničkog akta, a najkasnije u roku od 30 dana, obvezan je jedan primjerak isprave, uz podatak o osobnom identifikacijskom broju sudionika postupka, dostaviti nadležnom poreznom tijelu prema prebivalištu ili uobičajenom boravištu ili sjedištu poreznog obveznika, po pravilima o obveznom osobnom dostavljanju pismena.
+(2) Sudovi i druga javnopravna tijela obvezni su nadležnom poreznom tijelu prema prebivalištu ili uobičajenom boravištu ili sjedištu poreznog obveznika dostavljati svoje odluke uz podatak o osobnom identifikacijskom broju sudionika postupka kojim se stječu pokretnine, u roku od 15 dana nakon isteka mjeseca u kojem je odluka postala pravomoćna, prema propisima o obveznom osobnom dostavljanju pismena.
+(3) Ako predstavničko tijelo jedinice područne (regionalne) samouprave sukladno odredbi članka 41. stavka 4. ovoga Zakona prenese poslove u vezi s utvrđivanjem i naplatom poreza na nasljedstva i darove na Poreznu upravu, javni bilježnici isprave iz stavka 1. ovoga članka dostavljaju elektroničkim putem.
+(4) Iznimno, ako ispravu o stjecanju pokretnine iz stavaka 1. i 2. ovoga članka nije ovjerio javni bilježnik odnosno nije ju izdao sud ili drugo javnopravno tijelo, porezni obveznik ju je obvezan dostaviti nadležnom poreznom tijelu, u roku od 30 dana od dana njezina nastanka.
+(5) Porez na nasljedstva i darove plaća se u roku od 15 dana od dana dostave rješenja o utvrđivanju toga poreza.
+(6) Iznimno od stavka 5. ovoga članka, nadležno porezno tijelo ne donosi rješenje o zaprimljenim ispravama, temeljem kojih se sukladno odredbi članka 4. stavka 2. i članka 9. ovoga Zakona ne utvrđuje porezna obveza.

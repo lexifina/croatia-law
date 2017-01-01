@@ -1,0 +1,3 @@
+# Članak 31.
+(1) Neizgrađeno građevinsko zemljište na kojem je započeto građenje iz članka 2. stavka 1. točke 13. ovoga Zakona smatra se izgrađenim prostorom i oporezuje se na način i pod pretpostavkama propisanim za prostore ako su protekle dvije godine od pravomoćnosti građevinske dozvole ili drugog akta za građenje ili od dana izdavanja potvrde glavnog projekta.
+(2) Porez na nekretnine ne plaća se na nekretnine iz članka 2. stavka 1. točke 13. ovoga Zakona koje su u vlasništvu jedinica lokalne samouprave, na neizgrađeno građevinsko zemljište u vlasništvu jedinica lokalne samouprave, na sakralne objekte u dijelu u kojem se obavljaju vjerski obredi.

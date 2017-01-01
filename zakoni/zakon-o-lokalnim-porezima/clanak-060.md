@@ -1,0 +1,2 @@
+# Članak 60.
+Na sve isprave o stjecanju pokretnina sklopljene do 31. prosinca 2016. odnosno na sve odluke kojima su stečene pokretnine, a koje su postale pravomoćne do 31. prosinca 2016. primjenjuju se odredbe Zakona o financiranju jedinica lokalne i područne (regionalne) samouprave (»Narodne novine«, br. 117/93., 69/97., 33/00., 73/00., 127/00., 59/01., 107/01., 117/01., 150/02., 147/03., 132/06., 26/07., 73/08., 25/12., 147/14. i 100/15.).

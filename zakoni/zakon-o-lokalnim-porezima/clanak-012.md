@@ -1,0 +1,5 @@
+# Članak 12.
+(1) Porez na cestovna motorna vozila ne plaća se na vozila Republike Hrvatske i jedinica lokalne i područne (regionalne) samouprave, na vozila tijela državne uprave, na vozila zdravstvenih ustanova, vatrogasnih jedinica, diplomatskih i konzularnih predstavništava i stranoga diplomatskog osoblja, na posebna vozila kojima vlasnici obavljaju registriranu djelatnost za prijevoz umrlih i taksi-službu te vozila prilagođena za prijevoz osoba s invaliditetom.
+(2) Porez na cestovna motorna vozila ne plaćaju osobe koje su u cijelosti bile oslobođene plaćanja carine i poreza na dodanu vrijednost pri nabavi vozila.
+(3) Ako je tijekom kalendarske godine nabavljeno cestovno motorno vozilo koje do tada nije bilo registrirano, vlasnik toga vozila plaća godišnji porez iz članka 11. stavka 1. ovoga Zakona umanjen za dio godine prije nabave vozila.
+(4) Pri promjeni vlasništva cestovnoga motornog vozila tijekom kalendarske godine novi vlasnik ne plaća porez na cestovna motorna vozila ako je taj porez bio utvrđen prijašnjem vlasniku.
