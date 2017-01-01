@@ -1,0 +1,5 @@
+# Članak 2.
+(1) Očevidnik o provedenim nadzorima i izrečenim mjerama vode viši inspektor za civilnu zaštitu, inspektor za civilnu zaštitu, viši inspektor za vatrogastvo i inspektor za vatrogastvo (u daljnjem tekstu: inspektor) za svaku godinu posebno, u elektroničkom obliku.
+(2) Inspektor, koji u skladu s odredbom članka 76. stavka 3. Zakona o sustavu civilne zaštite, privremeno obavlja nadzor na području više područnih jedinica, vodi zasebni očevidnik za obavljene nadzore za svaku područnu jedinicu za vrijeme obavljanja nadzora.
+(3) Inspektor je dužan prvog radnog dana u tekućoj godini popuniti podatke u Očevidniku u elektroničkom obliku a podatke o pojedinom nadzoru dužan je popunjavati redovito tijekom godine, ovisno o dinamici provođenja nadzora i saznanja o podacima koje je potrebno evidentirati.
+(4) Inspektor vodi podatke u Očevidniku ažurno i uredno kako bi se u svako doba mogao utvrditi broj obavljenih nadzora, nadzirane fizičke ili pravne osobe, utvrđeno stanje te poduzete mjere i faze provođenja mjera.
