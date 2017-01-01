@@ -1,0 +1,4 @@
+# Članak 33.
+(1) Ministarstvo financija, Porezna uprava automatskom razmjenom dostavlja informacije iz članka 32. stavka 1. ovoga Zakona nadležnim tijelima drugih država članica u roku od tri mjeseca nakon završetka polovine kalendarske godine tijekom koje su izdana, izmijenjena ili obnovljena prethodna porezna mišljenja s prekograničnim učinkom ili prethodni sporazumi o transfernim cijenama.
+(2) Ministarstvo financija, Porezna uprava može u skladu s člankom 15. ovoga Zakona zatražiti dodatne informacije, uključujući cjeloviti tekst prethodnog poreznog mišljenja s prekograničnim učinkom ili prethodnog sporazuma o transfernim cijenama. Ministarstvo financija, Porezna uprava dostavit će drugoj državi članici iste te informacije ako ta država članica dokaže da je to za nju relevantno.
+Odjeljak 4.

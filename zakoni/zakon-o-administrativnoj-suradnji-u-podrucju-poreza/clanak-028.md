@@ -1,0 +1,3 @@
+# Članak 28.
+(1) Ministarstvo financija, Porezna uprava i izvještajne financijske institucije smatraju se voditeljima zbirke osobnih podataka u skladu s propisom kojim se uređuje zaštita osobnih podataka.
+(2) Izvještajne financijske institucije obavještavaju osobu o kojoj se izvješćuje da će informacije iz članka 26. ovoga Zakona a koje se na nju odnose prikupljati i dostavljati u skladu s ovim Zakonom, te pružaju toj osobi sve informacije u skladu s propisima kojima se uređuje zaštita osobnih podataka dovoljno rano kako bi osoba mogla ostvariti svoja prava na zaštitu podataka, u svakom slučaju prije nego što dotična izvještajna financijska institucija dostavi informacije iz članka 26. ovoga Zakona Ministarstvu financija, Poreznoj upravi.

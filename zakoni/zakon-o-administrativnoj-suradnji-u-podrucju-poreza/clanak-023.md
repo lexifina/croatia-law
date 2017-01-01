@@ -1,0 +1,3 @@
+# Članak 23.
+(1) Porezna uprava može ukazati nadležnom tijelu druge države članice da ne želi primati informacije o određenim vrstama dohotka i imovine iz članka 22. stavka 1. ovoga Zakona ili da ne želi primati informacije o dohotku ili imovini koje ne prelaze određeni iznos. O navedenom Ministarstvo financija, Porezna uprava izvješćuje Europsku komisiju.
+(2) Smatrat će se da Ministarstvo financija, Porezna uprava ne želi primati informacije u skladu s člankom 22. stavkom 1. ovoga Zakona ako ne izvijesti Europsku komisiju o bilo kojoj pojedinoj vrsti dohotka ili imovine za koju ima dostupne informacije.

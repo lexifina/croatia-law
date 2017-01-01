@@ -1,0 +1,4 @@
+# Članak 27.
+(1) Informacije iz članka 26. ovoga Zakona koje se odnose na rezidente država članica ili drugih jurisdikcija izvještajne financijske institucije obvezne su prikupljati u skladu s pravilima izvješćivanja i dubinske analize, te dostaviti Ministarstvu financija, Poreznoj upravi do 30. lipnja tekuće godine za prethodnu kalendarsku godinu.
+(2) Ako izvještajne financijske institucije u kalendarskoj godini za koju se izvješćuje nisu identificirale račune o kojima se izvješćuje, obvezne su o tome obavijestiti Ministarstvo financija, Poreznu upravu u roku iz stavka 1. ovoga članka.
+(3) Izvještajne financijske institucije vode evidencije o svim poduzetim koracima i dokazima koji se upotrebljavaju za prikupljanje informacija iz članka 26. ovoga Zakona u skladu s pravilima izvješćivanja i dubinske analize.

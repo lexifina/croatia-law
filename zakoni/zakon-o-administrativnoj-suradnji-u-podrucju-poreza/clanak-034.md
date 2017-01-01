@@ -1,0 +1,6 @@
+## Automatska razmjena informacija o izvješćima po državama
+# Članak 34.
+(1) Izvješće po državama obuhvaća sljedeće informacije o skupini multinacionalnih poduzeća:
+1. objedinjene informacije o iznosu prihoda, dobiti (gubitku) prije oporezivanja, plaćenom porezu na dobit, obračunatom porezu na dobit, prijavljenom kapitalu, akumuliranoj (zadržanoj) dobiti, broju zaposlenika i materijalnoj imovini koja nije novac ili novčani ekvivalent za svaku jurisdikciju u kojoj posluje skupina multinacionalnih poduzeća
+2. identifikaciju svakog sastavnog subjekta skupine multinacionalnih poduzeća utvrđujući jurisdikciju rezidentnosti tog sastavnog subjekta i jurisdikciju prema čijem je zakonodavstvu sastavni subjekt ustrojen ako je ista različita od jurisdikcije rezidentnosti te opseg glavne poslovne djelatnosti ili drugih djelatnosti sastavnog subjekta.
+(2) Ministarstvo financija, Porezna uprava automatskom razmjenom dostavlja izvješće po državama iz stavka 1. ovoga članka nadležnim tijelima drugih država članica u kojima je, na temelju informacija iz izvješća po državama, najmanje jedan sastavni subjekt skupine multinacionalnih poduzeća rezident u svrhu oporezivanja ili porezni obveznik u pogledu djelatnosti koju obavlja putem stalne poslovne jedinice.

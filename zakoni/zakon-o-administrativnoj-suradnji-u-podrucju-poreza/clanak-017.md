@@ -1,0 +1,7 @@
+# Članak 17.
+(1) Porezno tijelo dostavlja informacije iz članka 16. stavka 1. ovoga Zakona što je prije moguće, a najkasnije 6 mjeseci od dana primitka zahtjeva. Ako porezno tijelo raspolaže traženim informacijama, prosljeđuje ih u roku najkasnije od dva mjeseca od dana primitka zahtjeva.
+(2) U iznimnim slučajevima, porezno tijelo može s nadležnim tijelom države članice koje podnosi zahtjev dogovoriti drugačije rokove od onih predviđenih u stavku 1. ovoga članka.
+(3) Porezno tijelo obvezno je odmah, a najkasnije u roku od sedam dana od primitka zahtjeva, potvrditi primitak zahtjeva tijelu koje je podnijelo zahtjev.
+(4) Porezno tijelo je obvezno, u roku od mjesec dana od primitka zahtjeva, obavijestiti tijelo koje je podnijelo zahtjev o bilo kakvim nedostacima u zahtjevu i o potrebi za dodatnim informacijama. U tom slučaju rokovi predviđeni u stavku 1. ovoga članka počinju teći dan nakon što je porezno tijelo primilo dodatne informacije.
+(5) Ako porezno tijelo nije u mogućnosti odgovoriti na zahtjev u roku iz stavka 1. ovoga članka, obvezno je odmah, a najkasnije u roku od tri mjeseca od primitka zahtjeva, obavijestiti tijelo koje je podnijelo zahtjev o razlozima i datumu do kojeg bi moglo poslati odgovor.
+(6) Kada porezno tijelo ne raspolaže traženim informacijama i ne može odgovoriti na zahtjev za informacije ili to odbija učiniti s osnova predviđenih u članku 11. ovoga Zakona, obvezno je o razlozima obavijestiti nadležno tijelo države članice koje je podnijelo zahtjev odmah, a najkasnije u roku od mjesec dana od primitka zahtjeva.
