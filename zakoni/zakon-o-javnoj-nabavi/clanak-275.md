@@ -1,0 +1,3 @@
+# Članak 275.
+(1) Javni naručitelj obvezan je, sukladno pododjeljcima 1. – 3. ovoga odjeljka, provjeriti ispunjavaju li drugi subjekti na čiju se sposobnost gospodarski subjekt oslanja relevantne kriterije za odabir gospodarskog subjekta te postoje li osnove za njihovo isključenje.
+(2) Javni naručitelj će od gospodarskog subjekta zahtijevati da zamijeni subjekt na čiju se sposobnost oslonio radi dokazivanja kriterija za odabir ako, na temelju provjere iz stavka 1. ovoga članka, utvrdi da kod tog subjekta postoje osnove za isključenje ili da ne udovoljava relevantnim kriterijima za odabir gospodarskog subjekta.

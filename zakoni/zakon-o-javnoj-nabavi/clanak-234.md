@@ -1,0 +1,3 @@
+# Članak 234.
+(1) Ako žurna situacija propisno opravdana od strane javnog naručitelja čini nepraktičnim rok iz članka 228. ovoga Zakona, javni naručitelj može u otvorenom postupku velike vrijednosti odrediti kraći rok za dostavu, ali ne kraći od 15 dana od dana slanja poziva na nadmetanje.
+(2) Ako žurna situacija propisno opravdana od strane javnog naručitelja čini nepraktičnim rok iz članka 229. ovoga Zakona, javni naručitelj može u ograničenom postupku i natjecateljskom postupku uz pregovore velikih vrijednosti odrediti kraći rok za dostavu zahtjeva za sudjelovanje, ali ne kraći od 15 dana od dana slanja poziva na nadmetanje, odnosno kraći rok za dostavu ponuda, ali ne kraći od deset dana od dana slanja poziva na dostavu ponuda.

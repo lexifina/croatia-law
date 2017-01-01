@@ -1,0 +1,3 @@
+# Članak 445.
+(1) Čelnik središnjeg tijela državne uprave nadležnog za politiku javne nabave donijet će pravilnike iz članka 28. stavka 7., članka 92. stavka 4., članka 100. stavka 4., članka 110. stavka 3., članka 124. stavka 3., članka 137. stavka 4., članka 198. stavka 5., članka 200. stavka 7., članka 239. stavka 4., članka 280. stavka 11., članka 282. stavka 11., članka 290. stavka 3., članka 297. stavka 2., članka 325. stavka 6., članka 405. stavka 6., članka 438. stavka 5. i članka 440. stavka 3. u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.
+(2) Čelnik središnjeg tijela državne uprave nadležnog za vanjske poslove donijet će pravilnik iz članka 15. stavka 4. u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.

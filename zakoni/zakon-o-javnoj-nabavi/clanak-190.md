@@ -1,0 +1,3 @@
+# Članak 190.
+(1) Ako se postupak nabave u cijelosti provodi zajednički u ime i za račun svih javnih naručitelja koji sudjeluju u zajedničkoj nabavi ili ako jedan javni naručitelj sam provodi postupak za svoj račun i za račun ostalih javnih naručitelja, svi javni naručitelji zajedno su odgovorni za ispunjenje svojih obveza u skladu s ovim Zakonom.
+(2) Ako se postupak nabave ne provodi u cijelosti zajednički u ime i za račun svih javnih naručitelja koji sudjeluju u zajedničkoj nabavi, oni su zajednički odgovorni samo za one dijelove postupka nabave koje provode zajedno, dok je svaki javni naručitelj samostalno odgovoran za ispunjenje svojih obveza u skladu s ovim Zakonom za one dijelove postupka koje provodi u svoje ime i za svoj račun.

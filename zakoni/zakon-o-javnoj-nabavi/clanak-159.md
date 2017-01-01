@@ -1,0 +1,4 @@
+# Članak 159.
+(1) Javni naručitelj obvezan je ocijeniti pristigle zahtjeve za sudjelovanje u sustavu u skladu s kriterijima za odabir gospodarskog subjekta u roku od deset radnih dana od dana njihova zaprimanja.
+(2) Iznimno, rok za ocjenu zahtjeva može se produljiti na 15 radnih dana ako je to opravdano u konkretnom slučaju, posebice radi potrebe proučavanja dodatne dokumentacije ili radi provjere jesu li ispunjeni kriteriji za odabir gospodarskog subjekta.
+(3) Neovisno o stavcima 1. i 2. ovoga članka, dokle god se ne pošalje poziv na dostavu ponuda za prvu zasebnu nabavu u okviru dinamičkog sustava nabave, javni naručitelj može produljiti rok za ocjenu zahtjeva za sudjelovanje pod uvjetom da nije poslao niti jedan poziv na dostavu ponuda te da je u dokumentaciji o nabavi odredio za koliko će produljiti rok za ocjenu zahtjeva koji namjerava primijeniti.

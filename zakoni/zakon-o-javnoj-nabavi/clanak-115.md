@@ -1,0 +1,2 @@
+# Članak 115.
+Nakon ocjene konačnih ponuda javni naručitelj može voditi pregovore s ponuditeljem za kojeg je utvrdio da je podnio ponudu koja predstavlja najbolji omjer cijene i kvalitete, kako bi se potvrdile financijske obveze ili drugi uvjeti sadržani u ponudi utanačivanjem uvjeta ugovora, pod uvjetom da to nema učinak materijalne izmjene osnovnih značajki ponude ili javne nabave, uključujući potrebe i zahtjeve utvrđene u pozivu na nadmetanje ili u opisnoj dokumentaciji te da se ne narušava tržišno natjecanje niti uzrokuje diskriminaciju.

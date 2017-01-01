@@ -1,0 +1,4 @@
+# Članak 231.
+U slučaju objave prethodne informacijske obavijesti koja ne služi kao sredstvo poziva na nadmetanje javni naručitelj može u otvorenom postupku velike vrijednosti minimalni rok za dostavu ponuda iz članka 228. ovoga Zakona skratiti na 15 dana, a u ograničenom postupku i natjecateljskom postupku uz pregovore velikih vrijednosti minimalni rok za dostavu ponuda iz članka 229. stavka 2. ovoga Zakona skratiti na deset dana, ako su ispunjeni svi sljedeći uvjeti:
+1. prethodna informacijska obavijest sadržava sve informacije koje su potrebne za obavijest o nadmetanju u Prilogu V. dijelu B odjeljku I. ovoga Zakona u onoj mjeri u kojoj su te informacije bile dostupne u trenutku objave prethodne informacijske obavijesti
+2. prethodna informacijska obavijest poslana je na objavu u razdoblju između 35 dana i 12 mjeseci prije dana slanja obavijesti o nadmetanju.

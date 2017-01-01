@@ -1,0 +1,6 @@
+# Članak 132.
+Javni naručitelj smije koristiti pregovarački postupak bez prethodne objave poziva na nadmetanje za dodjelu ugovora o javnoj nabavi robe:
+1. ako se proizvodi proizvode isključivo u svrhu istraživanja, eksperimentiranja, proučavanja ili razvoja, pod uvjetom da se proizvedenom količinom proizvoda ne ostvaruje tržišna isplativost ili pokriće troškova istraživanja i razvoja
+2. za dodatne isporuke od strane isporučitelja iz osnovnog ugovora koje su namijenjene ili kao djelomična zamjena robe ili instalacija, ili kao proširenje postojeće robe ili instalacija, ako bi promjena isporučitelja obvezala javnog naručitelja da nabavi robu koja ima drukčije tehničke značajke, što bi rezultiralo neusklađenošću ili nerazmjernim tehničkim poteškoćama u radu i održavanju, s time da trajanje takvih ugovora, kao i ugovora koji se ponavljaju ne smije biti duže od tri godine
+3. za robu koja kotira i koja se nabavlja na burzi robe
+4. za kupnju robe ili usluga po posebno povoljnim uvjetima, bilo od isporučitelja koji trajno obustavlja ili je obustavio poslovne djelatnosti bilo od stečajnog upravitelja ili likvidatora u okviru odgovarajućeg postupka, nagodbe s vjerovnicima ili drugog sličnog postupka prema propisima države poslovnog nastana gospodarskog subjekta.

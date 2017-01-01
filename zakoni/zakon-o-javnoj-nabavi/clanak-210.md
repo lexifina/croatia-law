@@ -1,0 +1,4 @@
+# Članak 210.
+(1) Tehničke specifikacije ne smiju upućivati na određenu marku ili izvor, ili određeni proces s obilježjima proizvoda ili usluga koje pruža određeni gospodarski subjekt, ili na zaštitne znakove, patente, tipove ili određeno podrijetlo ili proizvodnju ako bi to imalo učinak pogodovanja ili isključenja određenih gospodarskih subjekata ili određenih proizvoda, osim ako je to opravdano predmetom nabave.
+(2) Upućivanje iz stavka 1. ovoga članka iznimno je dopuštena ako se predmet nabave ne može dovoljno precizno i razumljivo opisati sukladno članku 209. ovoga Zakona, pri čemu takva uputa mora biti popraćena izrazom »ili jednakovrijedno«.
+(3) U slučaju iz stavka 2. ovoga članka, javni naručitelj je obvezan u dokumentaciji o nabavi navesti kriterije mjerodavne za ocjenu jednakovrijednosti predmeta nabave.

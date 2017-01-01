@@ -1,0 +1,6 @@
+## Načela javne nabave
+# Članak 4.
+(1) Naručitelj je u primjeni ovoga Zakona u odnosu na sve gospodarske subjekte obvezan poštovati načelo slobode kretanja robe, načelo slobode poslovnog nastana i načelo slobode pružanja usluga te načela koja iz toga proizlaze, kao što su načelo tržišnog natjecanja, načelo jednakog tretmana, načelo zabrane diskriminacije, načelo uzajamnog priznavanja, načelo razmjernosti i načelo transparentnosti.
+(2) Javna nabava ne smije biti osmišljena s namjerom izbjegavanja primjene ovoga Zakona ili izbjegavanja primjene pravila o javnoj nabavi male, odnosno velike vrijednosti ili s namjerom da se određenim gospodarskim subjektima neopravdano da prednost ili ih se stavi u nepovoljan položaj.
+(3) Naručitelj je obvezan primjenjivati odredbe ovoga Zakona na način koji omogućava učinkovitu javnu nabavu te ekonomično i svrhovito trošenje javnih sredstava.
+(4) Gospodarski subjekt je obvezan tijekom izvršenja ugovora o javnoj nabavi pridržavati se primjenjivih obveza u području prava okoliša, socijalnog i radnog prava, uključujući kolektivne ugovore, a osobito obvezu isplate ugovorene plaće, ili odredaba međunarodnog prava okoliša, socijalnog i radnog prava navedenim u Prilogu XI. ovoga Zakona.

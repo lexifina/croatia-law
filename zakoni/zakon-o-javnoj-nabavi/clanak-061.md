@@ -1,0 +1,2 @@
+# Članak 61.
+Naručitelj nije obvezan zahtijevati elektronička sredstva komunikacije pri dostavi u onoj mjeri u kojoj je potrebno korištenje drugih sredstava komunikacije osim elektroničkih, zbog povrede sigurnosti elektroničkih sredstava komunikacije ili zbog zaštite osobito osjetljivih informacija koje zahtijevaju tako visoku razinu zaštite koja ne može biti u dovoljnoj mjeri osigurana elektroničkim alatima i uređajima koji su ili općedostupni gospodarskim subjektima ili im mogu biti dostupni na drugi način, alternativnim sredstvom pristupa.

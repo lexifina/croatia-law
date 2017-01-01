@@ -1,0 +1,2 @@
+# Članak 44.
+Ovaj Zakon ne primjenjuje se ako su sklapanje i izvršenje ugovora o javnoj nabavi ili provedba projektnih natječaja proglašeni tajnima ili moraju biti popraćeni posebnim sigurnosnim mjerama u skladu sa zakonima, podzakonskim propisima ili aktima uprave koji su na snazi, pod uvjetom da je Republika Hrvatska utvrdila da bitne sigurnosne interese nije moguće zaštititi manje drastičnim mjerama, poput onih iz članka 42. ovoga Zakona.

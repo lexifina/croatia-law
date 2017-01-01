@@ -1,0 +1,13 @@
+## Poništenje ugovora o javnoj nabavi ili okvirnog sporazuma
+# Članak 428.
+(1) Državna komisija dužna je u žalbenom postupku poništiti ugovor o javnoj nabavi ili okvirni sporazum u cijelosti ili djelomično ako je naručitelj sklopio:
+1. ugovor o javnoj nabavi ili okvirni sporazum bez prethodno provedenog postupka javne nabave ako je to u suprotnosti s odredbama ovoga Zakona
+2. ugovor o javnoj nabavi ili okvirni sporazum, za vrijeme roka mirovanja kada se on morao primijeniti
+3. ugovor o javnoj nabavi ili okvirni sporazum suprotno članku 422. ovoga Zakona
+4. ugovor o javnoj nabavi ili okvirni sporazum suprotno članku 424. ovoga Zakona
+5. ugovor na temelju okvirnog sporazuma u suprotnosti s člankom 153. stavkom 4. ovoga Zakona
+6. ugovor u okviru dinamičkog sustava nabave u suprotnosti s člancima 161. i 162. ovoga Zakona.
+(2) Ovisno o razlogu poništenja iz stavka 1. ovoga članka, uzimajući u obzir sve relevantne okolnosti, uključujući težinu povrede ovoga Zakona i postupanje naručitelja, Državna komisija može poništiti ugovor o javnoj nabavi ili okvirni sporazum uključujući i sve njegove pravne posljedice od trenutka njegova nastanka ili poništiti ugovor ili okvirni sporazum samo u odnosu na one ugovorne obveze koje još nisu ispunjene.
+(3) Državna komisija može donijeti odluku kojom sklopljeni ugovor o javnoj nabavi ili okvirni sporazum ostaje na snazi u cijelosti ili djelomično iako je sklopljen u suprotnosti sa stavkom 1. ovoga članka ako, uzimajući u obzir sve relevantne okolnosti, utvrdi da prevladavajući razlozi u vezi s općim interesom zahtijevaju da učinci ugovora trebaju ostati na snazi.
+(4) Ekonomski interesi mogu se smatrati prevladavajućim razlozima u smislu stavka 3. ovoga članka samo u iznimnim okolnostima kada bi poništenje ugovora dovelo do nerazmjernih posljedica.
+(5) Ekonomski interesi izravno vezani uz predmetni ugovor o javnoj nabavi kao što su troškovi zbog zakašnjenja u izvršenju ugovora, troškovi provedbe novoga postupka javne nabave, troškovi koji mogu nastati zbog promjene gospodarskog subjekta koji izvršava ugovor i troškovi pravnih obveza koje su rezultat poništenja ugovora o javnoj nabavi ne predstavljaju prevladavajuće razloge u vezi s općim interesom.

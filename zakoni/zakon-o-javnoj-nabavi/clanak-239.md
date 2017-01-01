@@ -1,0 +1,5 @@
+# Članak 239.
+(1) Ako tijekom razdoblja od četiri sata prije isteka roka za dostavu zbog tehničkih ili drugih razloga na strani EOJN RH isti nije dostupan, rok za dostavu ne teče dok traje nedostupnost, odnosno dok javni naručitelj produlji rok za dostavu sukladno članku 240. ovoga Zakona.
+(2) U slučaju nedostupnosti EOJN RH iz stavka 1. ovoga članka, Narodne novine d.d. obvezne su o tome bez odgode obavijestiti središnje tijelo državne uprave nadležno za politiku javne nabave i objaviti obavijest o nedostupnosti na internetskim stranicama.
+(3) Nakon što EOJN RH postane ponovno dostupan, Narodne novine d.d. obvezne su o tome bez odgode obavijestiti središnje tijelo državne uprave nadležno za politiku javne nabave, obavijestiti sve javne naručitelje putem sustava EOJN RH te objaviti obavijest o dostupnosti na internetskim stranicama.
+(4) Postupanje u postupcima javne nabave u slučaju nedostupnosti EOJN RH propisuje čelnik središnjeg tijela državne uprave nadležnog za politiku javne nabave, pravilnikom.

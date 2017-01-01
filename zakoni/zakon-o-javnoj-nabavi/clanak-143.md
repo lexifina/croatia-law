@@ -1,0 +1,8 @@
+## POGLAVLJE 8. SMANJENJE BROJA SPOSOBNIH NATJECATELJA, PONUDA I RJEŠENJA
+## ODJELJAK A SMANJENJE BROJA SPOSOBNIH NATJECATELJA
+# Članak 143.
+(1) Javni naručitelj može u ograničenom postupku, natjecateljskom postupku uz pregovore, natjecateljskom dijalogu i partnerstvu za inovacije ograničiti broj sposobnih natjecatelja koji udovoljavaju kriterijima za odabir gospodarskog subjekta koje će pozvati na dostavu ponude ili na sudjelovanje u dijalogu, pod uvjetom da na raspolaganju ima dovoljan broj sposobnih natjecatelja.
+(2) Ako koristi mogućnost iz stavka 1. ovoga članka, javni naručitelj obvezan je u pozivu na nadmetanje navesti objektivne i nediskriminirajuće kriterije ili pravila koje namjerava primijeniti za smanjivanje broja sposobnih natjecatelja, minimalan broj sposobnih natjecatelja sukladno stavku 3. ovoga članka koje namjerava pozvati te, po potrebi, maksimalan broj.
+(3) Javni naručitelj obvezan je pozvati minimalno pet sposobnih natjecatelja u ograničenom postupku, odnosno minimalno tri sposobna natjecatelja u natjecateljskom postupku uz pregovore, natjecateljskom dijalogu i partnerstvu za inovacije, s time da broj pozvanih sposobnih natjecatelja mora biti dovoljan da se osigura istinsko natjecanje.
+(4) Iznimno od stavka 3. ovoga članaka, ako je broj natjecatelja koji zadovoljavaju minimalne razine sposobnosti kriterija za odabir gospodarskog subjekta manji od minimalnog broja koji je naveden u obavijesti o nadmetanju, javni naručitelj može nastaviti postupak pozivanjem sposobnih natjecatelja, ako je u dokumentaciji o nabavi bila predviđena takva mogućnost.
+(5) Javni naručitelj ne smije pozvati druge gospodarske subjekte koji nisu dostavili zahtjev za sudjelovanje ili natjecatelje koji nemaju tražene sposobnosti.

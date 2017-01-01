@@ -1,0 +1,12 @@
+## ODJELJAK C DJELATNOSTI IZRAVNO IZLOŽENE TRŽIŠNOM NATJECANJU I POSTUPOVNE ODREDBE KOJE SE NA NJIH ODNOSE
+# Članak 353.
+(1) Ovaj Zakon ne primjenjuje se na dodjelu ugovora i provedbu projektnih natječaja namijenjenih za obavljanje sektorskih djelatnosti ako Republika Hrvatska ili sektorski naručitelj, nakon podnošenja zahtjeva iz članka 354. ovoga Zakona, mogu dokazati da je djelatnost koja se obavlja u Republici Hrvatskoj izravno izložena natjecanju na tržištima kojima pristup nije ograničen.
+(2) Dotična sektorska djelatnost može sačinjavati dio većeg sektora ili se može izvršavati samo u određenim dijelovima Republike Hrvatske.
+(3) Procjena tržišnog natjecanja iz stavka 1. ovoga članka provodi se u skladu s odredbama ovoga odjeljka i propisima kojima se regulira tržišno natjecanje.
+(4) Procjena tržišnog natjecanja provodi se uzimajući u obzir tržište za dotične djelatnosti i zemljopisno mjerodavno tržište sukladno stavcima 5. – 8. ovoga članka.
+(5) O izravnoj izloženosti djelatnosti tržišnom natjecanju odlučuje se na temelju kriterija koji su usklađeni s odredbama o tržišnom natjecanju Ugovora o funkcioniranju Europske unije.
+(6) Kriteriji iz stavka 5. ovoga članka mogu uključivati značajke dotičnih proizvoda ili usluga, postojanje alternativnih proizvoda ili usluga koje se smatraju zamjenjivima na strani ponude ili strani potražnje, cijene te stvarnu ili potencijalnu nazočnost više od jednog isporučitelja proizvoda ili pružatelja usluga.
+(7) Zemljopisno mjerodavno tržište, na čijoj se osnovi procjenjuje izloženost tržišnom natjecanju, predstavlja područje na kojemu dotični poduzetnici sudjeluju u ponudi i potražnji proizvoda ili usluga, na kojemu su uvjeti tržišnog natjecanja dovoljno homogeni i koje se može razlikovati od susjednih područja, posebno po tome što su uvjeti tržišnog natjecanja na tom području znatno drukčiji.
+(8) Pri procjeni posebno se uzima u obzir narav i obilježja dotičnih proizvoda ili usluga, postojanje ulaznih prepreka ili sklonosti kupaca, značajne razlike u tržišnim udjelima poduzetnika između dotičnog područja i susjednih područja, ili znatne razlike u cijenama.
+(9) Smatra se da pristup tržištu nije ograničen u smislu stavka 1. ovoga članka ako su propisi prava Europske unije preuzeti i primjenjuju se u Republici Hrvatskoj.
+(10) Ako se slobodan pristup određenom tržištu ne može pretpostaviti na temelju stavka 9. ovoga članka, mora se pružiti dokaz da je pristup dotičnom tržištu slobodan de facto i de iure.

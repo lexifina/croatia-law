@@ -1,0 +1,2 @@
+# Članak 42.
+Ovaj Zakon ne primjenjuje se na sklapanje ugovora o javnoj nabavi i provedbu projektnih natječaja koji nisu izuzeti sukladno članku 41. ovoga Zakona, u mjeri u kojoj se zaštita bitnih sigurnosnih interesa Republike Hrvatske ne može jamčiti s manje drastičnim mjerama, primjerice određivanjem zahtjeva s ciljem zaštite tajnosti podataka koje naručitelj stavlja na raspolaganje u postupku javne nabave kako je predviđeno ovim Zakonom.

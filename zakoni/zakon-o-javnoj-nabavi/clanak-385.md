@@ -1,0 +1,8 @@
+# Članak 385.
+(1) Ako se obavijest o postojanju sustava kvalifikacije koristi kao sredstvo poziva na nadmetanje, ugovori za radove, robu ili usluge koji su obuhvaćeni sustavom kvalifikacije dodjeljuju se putem ograničenih ili pregovaračkih postupaka, u kojima se svi ponuditelji i sudionici odabiru između natjecatelja koji su već kvalificirani u skladu s takvim sustavom.
+(2) Sektorski naručitelj koji uspostavi i vodi sustav kvalifikacije obvezan je obavijestiti podnositelje zahtjeva o svojoj odluci o kvalifikaciji u roku od šest mjeseci.
+(3) Ako će donošenje odluke trajati duže od četiri mjeseca od podnošenja zahtjeva, sektorski naručitelj obvezan je obavijestiti podnositelja zahtjeva u roku od dva mjeseca od podnošenja zahtjeva o razlozima koji opravdavaju to duže razdoblje, kao i o datumu do kojega će odlučiti o njegovu zahtjevu.
+(4) Sektorski naručitelj obvezan je odluku o odbijanju zahtjeva za kvalifikaciju s obrazloženjem razloga za odbijanje dostaviti podnositelju zahtjeva bez odgode, a najkasnije u roku od 15 dana od donošenja.
+(5) Sektorski naručitelj koji uspostavi i vodi sustav kvalifikacije može okončati kvalifikaciju nekog gospodarskog subjekta samo iz razloga koji se temelje na kriterijima za kvalifikaciju iz članka 383. stavaka 4. i 5. ovoga Zakona.
+(6) O namjeri okončanja kvalifikacije sektorski naručitelj obvezan je obavijestiti gospodarskog subjekta najmanje 15 dana prije dana kada bi se kvalifikacija trebala okončati, uz navođenje razloga koji opravdavaju okončanje.
+(7) Svi troškovi koji se zaračunavaju u vezi sa zahtjevom za kvalifikaciju ili s ažuriranjem ili očuvanjem već dobivene kvalifikacije u skladu sa sustavom bit će razmjerni nastalim troškovima.

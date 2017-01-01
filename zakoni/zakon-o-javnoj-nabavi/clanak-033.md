@@ -1,0 +1,12 @@
+## ODJELJAK C UGOVORI IZMEĐU SUBJEKATA U JAVNOM SEKTORU
+# Članak 33.
+(1) Ovaj Zakon ne primjenjuje se na ugovore o javnoj nabavi koje javni naručitelj dodjeljuje drugoj pravnoj osobi ako:
+1. nad tom pravnom osobom javni naručitelj samostalno ili zajedno s drugim javnim naručiteljima obavlja kontrolu sličnu onoj koju provodi nad svojim poslovnim jedinicama
+2. pravna osoba pod kontrolom obavlja više od 80 % svojih djelatnosti u izvršavanju zadataka koje joj je povjerio jedan ili više javnih naručitelja koji nad njome provode kontrolu ili koje su joj povjerile druge pravne osobe nad kojima jedan ili više tih javnih naručitelja provode kontrolu, i
+3. nema izravnog udjela privatnog kapitala u pravnoj osobi pod kontrolom, osim sudjelovanja privatnog kapitala koje je obvezno na temelju odredaba posebnog zakona, u skladu s osnivačkim Ugovorima, a koji nema značajke kontroliranja i blokiranja i koji ne vrši odlučujući utjecaj na tu pravnu osobu.
+(2) Smatra se da javni naručitelj provodi samostalno kontrolu nad pravnom osobom u smislu stavka 1. točke 1. ovoga članka ako ima presudan utjecaj na strateške ciljeve i na važne odluke dotične pravne osobe, s time da takvu kontrolu može provoditi i drugi subjekt nad kojim javni naručitelj na isti način provodi kontrolu.
+(3) Smatra se da javni naručitelji provode zajedničku kontrolu nad pravnom osobom u smislu stavka 1. točke 1. ovoga članka ako su ispunjeni svi sljedeći uvjeti:
+1. tijela nadležna za odlučivanje u toj pravnoj osobi čine predstavnici svih sudjelujućih javnih naručitelja, s time da pojedinačni predstavnici mogu predstavljati nekoliko sudjelujućih javnih naručitelja ili sve njih
+2. ti javni naručitelji mogu zajedno imati presudan utjecaj na strateške ciljeve i važne odluke u toj pravnoj osobi, i
+3. ta pravna osoba nema interese različite od interesa javnih naručitelja koji nad njom provode kontrolu.
+(4) Odredba stavka 1. ovoga članka primjenjuje se također i ako pravna osoba pod kontrolom koja je javni naručitelj dodijeli ugovor javnom naručitelju koji nad njom provodi kontrolu ili drugoj pravnoj osobi nad kojom isti javni naručitelj provodi kontrolu, pod uvjetom da u pravnoj osobi kojoj se dodjeljuje ugovor nema izravnog udjela privatnog kapitala, osim sudjelovanja privatnog kapitala koje je obvezno na temelju odredaba posebnog zakona, u skladu s osnivačkim Ugovorima, a koji nema značajke kontroliranja i blokiranja i koji ne vrši odlučujući utjecaj na tu pravnu osobu.

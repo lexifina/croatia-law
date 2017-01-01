@@ -1,0 +1,3 @@
+# Članak 292.
+(1) U otvorenom postupku javni naručitelj može ocijeniti ponude u dijelu koji se odnosi na zahtjeve i uvjete vezane uz predmet nabave i tehničke specifikacije prije provjere odsutnosti osnova za isključenje i ispunjenja kriterija za odabir gospodarskog subjekta.
+(2) Ako javni naručitelj koristi mogućnost iz stavka 1. ovoga članka, mora osigurati da se provjera odsutnosti osnova za isključenje i ispunjenja kriterija za odabir gospodarskog subjekta provodi na nepristran i transparentan način kako ugovor o javnoj nabavi ne bi bio dodijeljen ponuditelju koji je trebao biti isključen iz postupka javne nabave jer postoje osnove za njegovo isključenje ili ponuditelju koji ne ispunjava kriterije za odabir gospodarskog subjekta koje je utvrdio javni naručitelj.

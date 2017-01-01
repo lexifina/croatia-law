@@ -1,0 +1,2 @@
+# Članak 299.
+U slučaju poništenja postupka javne nabave prije isteka roka za dostavu ponuda ili zahtjeva za sudjelovanje, EOJN RH trajno onemogućava pristup ponudama ili zahtjevima za sudjelovanje koji su dostavljeni elektroničkim sredstvima komunikacije, a javni naručitelj vraća gospodarskim subjektima neotvorene ponude, zahtjeve za sudjelovanje, druge dokumente ili dijelove ponude ili zahtjeva za sudjelovanje koji su dostavljeni sredstvima komunikacije koja nisu elektronička.

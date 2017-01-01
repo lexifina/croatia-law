@@ -1,0 +1,2 @@
+# Članak 238.
+Ako se ponude mogu sastaviti tek nakon obilaska lokacije ili nakon neposrednog pregleda na licu mjesta dokumenata koji potkrjepljuju dokumentaciju o nabavi, javni naručitelj obvezan je rok za dostavu ponuda, koji mora biti dulji od minimalnih rokova propisanih ovim odjeljkom, odrediti na način da se svi zainteresirani gospodarski subjekti mogu upoznati sa svim informacijama potrebnima za izradu ponude.

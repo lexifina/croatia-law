@@ -1,0 +1,5 @@
+## Tehnička i stručna sposobnost
+# Članak 259.
+(1) Javni naručitelj može odrediti uvjete tehničke i stručne sposobnosti kojima se osigurava da gospodarski subjekt ima potrebne ljudske i tehničke resurse te iskustvo potrebno za izvršenje ugovora o javnoj nabavi na odgovarajućoj razini kvalitete, a osobito zahtijevati da gospodarski subjekt ima dovoljnu razinu iskustva, što se dokazuje odgovarajućim referencijama iz prije izvršenih ugovora.
+(2) Smatra se da gospodarski subjekt nema potrebnu stručnu sposobnost ako javni naručitelj utvrdi da taj gospodarski subjekt ima sukobljene interese koji mogu negativno utjecati na izvršenje ugovora o javnoj nabavi.
+(3) U postupku javne nabave čiji je predmet isporuka robe i koji obuhvaća poslove postavljanja ili instalacije, pružanje usluga ili izvođenje radova, stručna sposobnost gospodarskog subjekta za izvođenje poslova postavljanja ili instalacije robe, pružanje usluga ili izvođenje radova može se ocjenjivati u odnosu na njegove vještine, učinkovitost, iskustvo i pouzdanost.

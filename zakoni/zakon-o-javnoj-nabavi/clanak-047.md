@@ -1,0 +1,8 @@
+# Članak 47.
+(1) Ako je objektivno moguće razdijeliti različite dijelove određenog ugovora o javnoj nabavi, naručitelj može odlučiti dodijeliti zasebne ugovore za zasebne dijelove ili dodijeliti jedinstveni ugovor.
+(2) Ako naručitelj odluči dodijeliti zasebne ugovore za zasebne dijelove, pravni režim koji se primjenjuje na svaki od zasebnih ugovora određuje se na temelju značajki određenog zasebnog dijela.
+(3) Ako naručitelj odluči dodijeliti jedinstveni ugovor, pravni režim koji se primjenjuje određuje se prema sljedećim pravilima:
+1. ako je dio tog ugovora obuhvaćen člankom 346. Ugovora o funkcioniranju Europske unije, ugovor se može dodijeliti bez primjene ovoga Zakona, pod uvjetom da je dodjela jedinstvenog ugovora opravdana objektivnim razlozima
+2. ako je dio tog ugovora obuhvaćen propisom kojim se uređuje javna nabava za potrebe obrane i sigurnosti, ugovor se može dodijeliti u skladu s tim propisom, pod uvjetom da je dodjela jedinstvenog ugovora opravdana objektivnim razlozima
+3. ako je dio tog ugovora obuhvaćen člankom 346. Ugovora o funkcioniranju Europske unije, a dio propisom kojim se uređuje javna nabava za potrebe obrane i sigurnosti, ugovor se može dodijeliti bez primjene ovoga Zakona i tog propisa, pod uvjetom da je dodjela jedinstvenog ugovora opravdana objektivnim razlozima.
+(4) Ako različite dijelove pojedinog ugovora objektivno nije moguće razdijeliti, ugovor se može dodijeliti bez primjene ovoga Zakona kada uključuje elemente na koje se odnosi članak 346. Ugovora o funkcioniranju Europske unije, a u suprotnome se može dodijeliti u skladu s propisom kojim se uređuje javna nabava za potrebe obrane i sigurnosti.

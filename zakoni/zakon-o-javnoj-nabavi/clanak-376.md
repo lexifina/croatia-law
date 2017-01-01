@@ -1,0 +1,4 @@
+# Članak 376.
+Neovisno o odredbama ovoga odjeljka i odjeljka H poglavlja 2. glave III. dijela drugog ovoga Zakona kojima se utvrđuju rokovi u ograničenom postupku, sektorski naručitelj u provedbi dinamičkog sustava nabave primjenjuje sljedeće rokove:
+1. minimalni rok za zaprimanje zahtjeva za sudjelovanje koji vrijedi kao opće pravilo je 30 dana od dana slanja obavijesti o nadmetanju, ili ako se kao sredstvo poziva na nadmetanje koristi periodična indikativna obavijest, od dana slanja poziva na potvrdu interesa te ni u kojem slučaju ne može biti kraći od 15 dana, s time da se nakon slanja poziva na dostavu ponuda za prvu zasebnu nabavu nikakvi dodatni rokovi za zaprimanje zahtjeva za sudjelovanje ne primjenjuju
+2. minimalni rok za zaprimanje ponuda je deset dana od dana slanja poziva na dostavu ponuda, osim ako se primjenjuje članak 374. ovoga Zakona, s time da nije dopušteno primijeniti članke 232. i 375. ovoga Zakona.

@@ -1,0 +1,9 @@
+## POGLAVLJE 5. POSEBNI ODNOSI (SURADNJA, POVEZANA DRUŠTVA I ZAJEDNIČKI POTHVATI)
+## ODJELJAK A DODJELA UGOVORA POVEZANIM DRUŠTVIMA
+# Članak 348.
+(1) Ovaj dio Zakona ne primjenjuje se na sklapanje ugovora koje sektorski naručitelj dodjeljuje povezanom društvu ili koje zajednički pothvat (joint venture) koji je osnovalo isključivo više sektorskih naručitelja u svrhu obavljanja sektorskih djelatnosti dodjeljuje društvu koje je povezano s jednim od tih sektorskih naručitelja, za nabavu:
+1. usluga, pod uvjetom da najmanje 80 % prosječnog ukupnog prometa povezanog društva tijekom prethodne tri godine, uzimajući u obzir sve usluge koje ono pruža, potječe od pružanja usluga sektorskom naručitelju ili drugim društvima s kojima je povezano
+2. robe, pod uvjetom da najmanje 80 % prosječnog ukupnog prometa povezanog društva, tijekom prethodne tri godine, uzimajući u obzir svu robu koju ono isporučuje, potječe od isporuke robe sektorskom naručitelju ili drugim društvima s kojima je povezano
+3. radova, pod uvjetom da najmanje 80 % prosječnog ukupnog prometa povezanog društva tijekom prethodne tri godine, uzimajući u obzir sve radove koje ono izvodi, potječe od izvođenja radova sektorskom naručitelju ili drugim društvima s kojima je povezano.
+(2) Ako zbog datuma kada je povezano društvo osnovano ili počelo obavljati djelatnosti ne postoje podaci o prometu za prethodne tri godine, dovoljno je da to društvo učini vjerojatnim postizanje prometa iz stavka 1. ovoga članka, osobito putem poslovnih projekcija.
+(3) Ako dva ili više društava povezanih sa sektorskim naručiteljem s kojim čine ekonomsku skupinu pruža iste ili slične usluge, robu ili radove, postoci se izračunavaju uzimajući u obzir ukupni promet koji potječe od pružanja usluga, isporuke robe ili izvođenja radova tih povezanih društava.

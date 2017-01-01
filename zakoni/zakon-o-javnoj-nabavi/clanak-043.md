@@ -1,0 +1,2 @@
+# Članak 43.
+Ovaj Zakon ne primjenjuje se, u skladu s člankom 346. stavkom 1. točkom (a) Ugovora o funkcioniranju Europske unije, na sklapanje ugovora o javnoj nabavi i provedbu projektnih natječaja koji nisu izuzeti sukladno članku 41. ovoga Zakona, u mjeri u kojoj bi Republika Hrvatska primjenom ovoga Zakona bila obvezna pružiti informacije za koje smatra da bi njihovo otkrivanje štetilo bitnim interesima njezine sigurnosti.

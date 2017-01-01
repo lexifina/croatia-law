@@ -1,0 +1,2 @@
+# Članak 450.
+Danom stupanja na snagu ovoga Zakona prestaje važiti Uredba o objavama javne nabave (»Narodne novine«, br. 10/12.), Pravilnik o popisu obveznika javne nabave (»Narodne novine«, br. 19/12.), Pravilnik o primjeni Jedinstvenog rječnika javne nabave (CPV) (»Narodne novine«, br. 6/12.) i Naputak o postupanju u postupcima javne nabave u slučaju nedostupnosti Elektroničkog oglasnika javne nabave Republike Hrvatske (»Narodne novine«, br. 88/16.).
