@@ -1,0 +1,1 @@
+Na temelju članka 13. stavka 5. Zakona o obrani (»Narodne novine«, br. 73/13, 75/15 i 27/16) i članka 203. stavka 3., a u vezi s člankom 218. stavkom 2. Zakona o službi u Oružanim snagama Republike Hrvatske (»Narodne novine«, br. 73/13, 75/15 i 50/16), donosim
