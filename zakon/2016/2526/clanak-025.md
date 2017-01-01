@@ -1,0 +1,32 @@
+# Članak 25.
+Članak 131. mijenja se i glasi:
+»(1) Novčanom kaznom za prekršaj kaznit će se porezni obveznik u iznosu od 2.000,00 do 500.000,00 kuna, ako:
+1. netočno utvrdi poreznu osnovicu (članak 7. stavak 10., članci 33., 34., 35., 92. i 96. te članak 97. stavak 5.),
+2. ne obračuna PDV po propisanoj stopi (članci 37. i 38.),
+3. koristi oslobođenja od plaćanja PDV-a suprotno odredbama Zakona (članak 39. stavci 1., 2. i 3., članak 40. stavci 1. i 2., članci 41., 42., članak 43. stavci 1. i 2., članak 44. stavci 1. i 2., članak 45. stavci 1., 2., 4., 5. i 6., članak 46., članak 47. stavci 1. i 2., članak 48. stavak 1., članci 49., 50., članak 51. stavci 1., 2. i 3., članak 52. stavci 1., 2. i 3., članci 53. i 54.),
+4. odbije pretporez koji se po ovome Zakonu ne može odbiti (članak 57. stavak 2., članci 94., 101., 116. i članak 124. stavak 1.),
+5. ne uplati ili ne uplati u propisanom roku obračunani i prijavljeni iznos PDV-a na propisani uplatni račun (članak 76.),
+6. ne izda račun ili ga ne izda u propisanom roku (članak 78. stavci 1., 2. i 4.),
+7. račun izda primatelj koji ne ispunjava uvjete za izdavanje računa (članak 78. stavak 6.),
+8. ne čuva račune i ostalu dokumentaciju u propisanom roku (članak 82. stavci 1., 4. i 5.),
+9. u svom knjigovodstvu ne osigurava sve podatke u vezi s obračunom i plaćanjem PDV-a (članak 83.),
+10. ne podnese ili ne podnese u propisanom roku nadležnoj ispostavi Porezne uprave prijavu PDV-a i prijavu o tuzemnim isporukama s prijenosom porezne obveze (članak 85. stavci 6. i 10.),
+11. porezni obveznik u prijavi PDV-a, koju podnosi za posljednje razdoblje oporezivanja kalendarske godine ili za posljednje razdoblje oporezivanja u kojem je poslovao, ne obavi sva usklađenja i ispravke (članak 85. stavak 7.),
+12. u prijavi PDV-a ne iskaže sve propisane podatke (članak 85. stavci 1. i 2.),
+13. prijavu za stjecanje dobara i primljene usluge iz drugih država članica Europske unije ne podnese ili ne podnese u propisanom roku ili ne iskaže sve propisane podatke (članak 86.),
+14. ne podnese ili ne podnese u roku prijavu za isporuke ili stjecanje novih prijevoznih sredstava ili ako ne iskaže vrijednost isporuka odnosno stjecanja novih prijevoznih sredstava (članak 87.),
+15. Zbirnu prijavu ne podnese ili ju ne podnese u propisanom roku ili ne iskaže sve propisane podatke (članci 88. i 89.),
+16. obračuna PDV po posebnom postupku oporezivanja, a djeluje samo kao posrednik (članak 91. stavak 1.),
+17. kao preprodavatelj istodobno primjenjuje redovni postupak oporezivanja PDV-om i posebni postupak oporezivanja marže, a ne vodi ili netočno vodi posebne evidencije za svaki od ovih postupaka (članak 102.),
+18. na računu za isporučena dobra koja podliježu posebnom postupku oporezivanja marže iskaže iznos PDV-a (članak 103.),
+19. kao organizator prodaje putem javne dražbe u evidencijama ne iskaže propisane podatke (članak 110.),
+20. kao organizator prodaje putem javne dražbe u računu ne iskaže propisane podatke ili izdvojeno iskaže iznos PDV-a (članak 111.),
+21. ne izdaje račune i/ili ne vodi evidencije o transakcijama s investicijskim zlatom odnosno ne čuva potrebne podatke u propisanom roku (članak 117.),
+22. ne podnese prijavu u vezi s posebnim postupcima ili je ne podnese u propisanom roku (članak 122. stavak 1. i članak 125.e stavak 1.),
+23. obračunani i prijavljeni PDV za posebne postupke ne plati ili ne plati u propisanom roku u kunama na uplatni račun propisan posebnim propisom (članak 123. i 125.f),
+24. ne vodi evidencije o transakcijama u okviru posebnih postupaka oporezivanja ili ako ih na zahtjev Porezne uprave Republike Hrvatske i poreznog tijela države članice potrošnje ne stavi na raspolaganje ili ih ne čuva u propisanom roku (članak 125. i 125.h),
+25. ne vodi evidencije o postupku oporezivanja prema naplaćenim naknadama te ako ne obračuna i uplati PDV na propisani način (članak 125.i, 125.j i 125.k),
+26. kao porezni zastupnik ne plati PDV kao jamac platac (članak 126. stavak 4.),
+27. ne podnese ili ne podnese u propisanom roku prijavu za isporuke u druge države članice Europske unije prethodno uvezenih dobara u okviru postupaka 42 i 63 ili ako u njoj ne iskaže sve potrebne podatke (članak 44. stavak 3.),
+28. ne podnese ili ne podnese u propisanom roku prijavu za isporuke dobara i usluga iz članka 75. stavka 2. Zakona ili ako u njoj ne iskaže sve potrebne podatke (članak 85. stavak 10.).
+(2) Novčanom kaznom od 1.000,00 do 50.000,00 kuna kaznit će se i odgovorna osoba u pravnoj osobi.«.

@@ -1,0 +1,5 @@
+# Članak 23.
+Članak 127. mijenja se i glasi:
+»(1) Porezni obveznik koji obavlja u tuzemstvu isporuke dobara i usluga s pravom na odbitak pretporeza smatrat će se odgovornim ako iz objektivnih okolnosti proizlazi da je znao ili morao znati da će zbog prijevarnih aktivnosti dio ili cijeli iznos PDV-a vezan za isporuku koja mu je obavljena, ili bilo koju prethodnu ili sljedeću isporuku istih dobara ili usluga, ostati neplaćen.
+(2) Ako se sukladno stavku 1. ovoga članka utvrdi odgovornost poreznog obveznika, istome će se osporiti pravo na pretporez.
+(3) Ako Porezna uprava sumnja da su isporuke dobara i usluga dio transakcija čija je namjera prijevarno izbjegavanje plaćanja PDV-a, tada će poreznog obveznika koji sudjeluje u takvim transakcijama obavijestiti o njegovoj odgovornosti sukladno stavku 1. ovoga članka. Od dana primitka takve obavijesti Porezna uprava može smatrati da je porezni obveznik znao ili morao znati da s takvim transakcijama sudjeluje u transakcijama kojima je namjera izbjegavanje plaćanja PDV-a.«.

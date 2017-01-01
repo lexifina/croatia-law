@@ -1,0 +1,5 @@
+# Članak 16.
+U članku 76. stavku 5. riječi: »Porezne uprave« zamjenjuju se riječima: »Carinske uprave«.
+U stavku 6. riječi: »nadležna ispostava Porezne uprave« zamjenjuju se riječima: »Carinska uprava«.
+Stavak 8. mijenja se i glasi:
+»(8) Iznimno od stavka 7. ovoga članka smatra se da je PDV pri uvozu strojeva i opreme iz Dodatka IV. ovoga Zakona vrijednosti veće od 1.000.000,00 kuna (po jednoj carinskoj deklaraciji za puštanje u slobodan promet ili po jednom odobrenju o primjeni općeg pravila 2A u slučaju postupnog uvoza temeljem dodatne napomene 3 uz odsjek XVI. i dodatne napomene 2 uz odsjek XVII. Priloga I. Uredbe Vijeća (EEZ) br. 2658/87 od 23. srpnja 1987. o tarifnoj i statističkoj nomenklaturi i o Zajedničkoj carinskoj tarifi (Službeni list br. L 256 od 7. 9. 1987.)) plaćen ako ga porezni obveznik koji ima pravo na odbitak pretporeza u cijelosti iskaže kao obvezu u prijavi PDV-a, a za takav način obračunavanja i plaćanja PDV-a poreznom obvezniku prethodno je Carinska uprava izdala rješenje.«.

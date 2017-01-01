@@ -1,0 +1,6 @@
+## PRIJELAZNE I ZAVRŠNE ODREDBE
+# Članak 26.
+(1) Porezni obveznici koji u 2017. godini ostvare vrijednost isporuka dobara ili obavljenih usluga iz članka 90. stavaka 5. i 6. Zakona veće od 300.000,00 kuna (bez PDV-a) obvezni su se od 1. siječnja 2018. upisati u registar obveznika PDV-a.
+(2) Porezni obveznici koji u 2017. godini ne ostvare isporuke iz stavka 1. ovoga članka veće od 300.000,00 kuna obvezni su do 15. siječnja 2018. podnijeti zahtjev za brisanje iz registra obveznika PDV-a nadležnoj ispostavi Porezne uprave ili u tome roku pisanim putem zatražiti da se na njih primjenjuju odredbe članka 90. stavka 3. Zakona.
+(3) Porezni obveznici koji u 2017. godini ne ostvare isporuke iz stavka 1. ovoga članka veće od 300.000,00 kuna ostaju i dalje porezni obveznici ako su bili upisani u registar obveznika PDV-a na vlastiti zahtjev što ih obvezuje sljedeće tri kalendarske godine na redovni postupak oporezivanja PDV-om.
+(4) Porezni obveznici koji imaju izdano rješenje kojim se obvezuju da sljedećih pet kalendarskih godina budu upisani u registar obveznika PDV-a mogu tražiti brisanje iz registra obveznika PDV-a ako nisu u prethodnoj kalendarskoj godini ostvarili vrijednosti isporuka dobara ili obavljenih usluga veće od iznosa iz članka 90. stavka 1. Zakona i ako su prošle tri kalendarske godine.
