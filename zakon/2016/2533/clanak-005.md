@@ -1,0 +1,9 @@
+# Članak 5.
+U članku 8. stavci 2. i 3. mijenjaju se i glase:
+»(2) Porezni savjetnik mora ispunjavati sljedeće opće uvjete:
+1. da ima poslovnu sposobnost
+2. da ima prebivalište na teritoriju Republike Hrvatske ili države ugovornice Europskog gospodarskog prostora
+3. da govori hrvatskim jezikom i piše latiničnim pismom i drugim jezikom i pismom koji je u službenoj uporabi na području na kojemu treba obavljati djelatnost
+4. da nije kažnjen za kaznena djela protiv imovine, protiv sigurnosti platnog prometa i poslovanja, protiv pravosuđa, protiv vjerodostojnosti isprava te protiv službene dužnosti iz zakona kojim su uređena kaznena djela i kaznene sankcije, i to za vrijeme od pet godina po pravomoćnosti presude kojom je osuđen, s time što se u to vrijeme ne računa vrijeme provedeno na izdržavanju kazne te da protiv njega nije izrečena mjera sigurnosti zabrane obavljanja zanimanja koje je u potpunosti ili djelomično obuhvaćeno člankom 2. ovoga Zakona
+5. da nije kažnjen za kaznena djela protiv imovine, protiv krivotvorenja, protiv službene dužnosti, te protiv pravosuđa iz zakona kojim su uređena kaznena djela i kaznene sankcije, i to za vrijeme od pet godina po pravomoćnosti presude kojom je osuđen, s time što se u to vrijeme ne računa vrijeme provedeno na izdržavanju kazne te da protiv njega nije izrečena mjera sigurnosti zabrane obavljanja zanimanja koje je u potpunosti ili djelomično obuhvaćeno predmetom poreznog savjetništva.
+(3) Iznimno od stavka 2. točke 3. ovoga članka, državljani države ugovornice Europskog gospodarskog prostora koji u Republici Hrvatskoj obavljaju porezno-savjetničku djelatnost moraju poznavati hrvatski jezik najmanje na razini koja je potrebna za nesmetanu i nužnu komunikaciju s primateljem usluga i poreznim tijelom te razumijevanje hrvatskog poreznog zakonodavstva. Provjeru provodi Komora.«.
