@@ -1,0 +1,2 @@
+# Članak 6.
+Obrazac Prilog 4 - Zahtjev za povrat plaćene trošarine za bezolovni motorni benzin za namjene u ribolovu i Obrazac Prilog 5 - Evidencija nabave bezolovnog motornog benzina za namjene u ribolovu zamjenjuju se novim Obrascem Prilog 4 - Zahtjev za povrat plaćene trošarine za bezolovni motorni benzin za namjene u ribolovu i Obrascem Prilog 5 - Evidencija nabave bezolovnog motornog benzina za namjene u ribolovu koji su sastavni dijelovi ovoga Pravilnika.

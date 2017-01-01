@@ -1,0 +1,7 @@
+# Članak 5.
+(1) U članku 19. stavku 2. riječ: »potrošene« zamjenjuje se riječi: »nabavljene«, a sljedeća riječ: »potrošene« zamjenjuje se riječima: »nabavljene i potrošene«.
+(2) Stavak 3. mijenja se i glasi:
+»(3) Ako se u tijeku četveromjesečnog razdoblja za koje se traži povrat plaćene trošarine promijeni propisana visina trošarine na bezolovni motorni benzin, povrat trošarine se za mjesec u kojem je promijenjena propisana visina trošarine za sve količine bezolovnog motornog benzina iz evidencije nabave iz tog mjeseca odobrava prema visini trošarine koja je važila prvog dana u tom mjesecu. Za naredne mjesece povrat plaćene trošarine se odobrava prema važećoj propisanoj visini trošarine.«.
+(3) U stavku 4. točka 2. mijenja se i glasi: »2. se utvrdi da korisnik prava nije čuvao evidenciju nabave (sa svim pripadajućim prilozima) ili ako ju je odbio predočiti na zahtjev carinskih službenika ili drugih nadležnih tijela«
+(4) Iza stavka 4. dodaje se stavak 5. koji glasi:
+»(5) Ovisno o okolnostima slučaja i/ili u slučaju sumnje u opravdanost zahtjeva za povrat plaćene trošarine nadležni carinski ured, kod odlučivanja o zahtjevu za povratom korisnika prava, može zatražiti kao dokaze primjerice, pripadajuća izvješća o ulovu ribe i drugih morskih organizama, očevidnik o gospodarskom ribolovu, popise ulova u gospodarskom ribolovu, ili druge podatke iz izvješća kao i očevidnika koje korisnik vodi prema posebnim propisima.«.
