@@ -1,0 +1,6 @@
+# Članak 5.
+(1) Godišnji paušalni dohodak, godišnji paušalni porez na dohodak i prirez porezu na dohodak utvrđuje se poreznim rješenjem.
+(2) Rješenjem iz stavka 1. ovoga članka utvrđuje se osobito iznos godišnjega paušalnog dohotka, godišnjeg paušalnog poreza na dohodak i prirez porezu na dohodak, iznos tromjesečnog poreza na dohodak i prireza porezu na dohodak, rokovi plaćanja tromjesečnog poreza na dohodak i prireza porezu na dohodak, visina paušalnog poreza po krevetu odnosno po smještajnoj jedinici, broj kreveta, odnosno broj smještajnih jedinica u kampu, za koje je utvrđen godišnji paušalni porez na dohodak i prirez porezu na dohodak te koeficijent područja na kojem se pruža usluga.
+(3) Rješenje iz stavka 1. ovoga članka, donosi nadležna ispostava područnog ureda Porezne uprave prema prebivalištu ili uobičajenom boravištu poreznog obveznika.
+(4) Rješenje iz stavka 1. ovoga članka, kojim je utvrđen godišnji paušalni porez na dohodak i prirez porezu na dohodak vrijedi do donošenja novog rješenja.
+(5) U skladu s člankom 12. stavkom 5. Zakona, rješenjem utvrđen godišnji paušalni porez na dohodak i prirez porezu na dohodak je konačan pa porezni obveznik po toj osnovi ne može podnijeti godišnju poreznu prijavu u skladu s člankom 49. stavkom 1. točkom 6. Zakona.
