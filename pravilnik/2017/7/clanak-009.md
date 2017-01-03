@@ -1,0 +1,2 @@
+# Članak 9.
+Korektivni koeficijent namjene iz članka 36. stavka 7. Zakona za 2018. godinu se utvrđuje dijeljenjem visine spomeničke rente po m2 iz propisa o zaštiti i očuvanju kulturnih dobara, utvrđenog odlukom predstavničkog tijela jedinice lokalne samouprave za 2017. godinu i vrijednosti boda iz propisa kojim se uređuje komunalno gospodarstvo, utvrđenog odlukom predstavničkog tijela jedinice lokalne samouprave za 2017. godinu.
