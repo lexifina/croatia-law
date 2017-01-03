@@ -1,0 +1,11 @@
+# Članak 2.
+U članku 6. stavak 2. mijenja se i glasi:
+»(2) Za potrebe određivanja i dodjeljivanja osobnoga identifikacijskog broja informacija koju dostavlja nadležno tijelo u slučaju iz točke 3. članka 5. ovoga Pravilnika mora sadržavati: vrstu pravne osobe (prema članku 3. stavku 9. i 10. ovog Pravilnika), naziv, datum upisa i adresu sjedišta.«
+Stavak 3. mijenja se i glasi:
+»(3) Iznimno od stavka 2. ovoga članka, za potrebe određivanja i dodjeljivanja osobnoga identifikacijskog broja pri osnivanju trgovačkog društva nadležno tijelo dostavlja: naziv tvrtke, skraćeni naziv, prijevod naziva ako postoji, adresu sjedišta, pravni oblik (javno trgovačko društvo, komanditno društvo, gospodarsko interesno udruženje, dioničko društvo, društvo s ograničenom odgovornošću, jednostavno društvo s ograničenom odgovornošću, inozemni osnivač podružnice i ostalo), datum upisa, osobni identifikacijski broj osnivača društva, osobni identifikacijski broj ovlaštene osobe za zastupanje društva, osobni identifikacijski broj članova upravnog odnosno nadzornog odbora i podatak o matičnom broju subjekta (MBS).«
+Iza stavka 3. dodaju se novi stavci 4. i 5. koji glase:
+»(4) Iznimno od stavka 2. ovoga članka, za potrebe određivanja i dodjeljivanja osobnoga identifikacijskog broja stečajnoj masi nadležno tijelo dostavlja: naziv stečajne mase, matični broj subjekta (MBS) stečajne mase, datum, mjesto i državu nastanka stečajne mase, adresu sjedišta stečajne mase, broj rješenja kojim je određen upis stečajne mase u Sudski registar, ime, prezime, osobni identifikacijski broj i adresu prebivališta stečajnog upravitelja, kao i podatak o osobnom identifikacijskom broju, matičnom broju subjekta (MBS) i adresi brisane pravne osobe.«
+(5) Uz podatke propisane stavkom 2. ovoga članka, nadležno tijelo pri osnivanju udruge dostavlja i podatke o imenu, prezimenu, osobnom identifikacijskom broju i funkciji osoba ovlaštenih za zastupanje udruge.«
+Stavak 5. mijenja se i glasi:
+»(5) Uz podatke propisane stavcima 1., 2., 3. i 4. ovoga članka, informacija koju dostavlja nadležno tijelo mora sadržavati identifikator informacije: nadležno tijelo i ključ kod nadležnog tijela.«
+Dosadašnji stavci 4. i 5. postaju stavci 6. i 7.
