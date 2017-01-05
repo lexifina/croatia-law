@@ -1,0 +1,1 @@
+Na temelju članka 91. stavka 7. i članka 91. b stavka 4. Zakona o sigurnosti i interoperabilnosti željezničkog sustava (»Narodne novine«, broj 82/13, 18/15 i 110/15) ministar mora, prometa i infrastrukture uz prethodno mišljenje ministra zdravstva donosi
