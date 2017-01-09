@@ -1,0 +1,1 @@
+Zakon o potvrđivanju Okvirnog sporazuma između Švicarskog saveznog vijeća i Vlade Republike Hrvatske o provedbi Švicarsko-hrvatskog programa suradnje na smanjenju ekonomskih i socijalnih nejednakosti unutar proširene Europske unije
