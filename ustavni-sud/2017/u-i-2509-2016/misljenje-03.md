@@ -1,0 +1,16 @@
+IZDVOJENO MIŠLJENJE
+uz Rješenje broj: U-I-2509/2016 od
+6. prosinca 2016. godine
+Žalim što se ne mogu složiti s mišljenjem većine da se u konkretnom ustavnosudskom predmetu broj U-I-2509/2016 ne prihvati prijedlog za pokretanje postupka za ocjenu suglasnosti s Ustavom članaka 2. i 3. Zakona o izmjeni i dopuni Zakona o posebnim pravima predsjednika Republike Hrvatske po prestanku obnašanja dužnosti (»Narodne novine« broj 49/16.).
+Osporena odredba članka 3. Zakona o izmjeni i dopuni Zakona o posebnim pravima predsjednika Republike Hrvatske po prestanku obnašanja dužnosti glasi: »Ovaj Zakon stupa na snagu prvoga dana od dana objave u 'Narodnim novinama'«.
+Odredba članka 90. stavak 3. Ustava Republike Hrvatske glasi: »Zakon stupa na snagu najranije osmi dan od dana njegove objave, osim ako nije zbog osobito opravdanih razloga zakonom drukčije određeno«.
+Kada se u međusobni kontekst stave gornje dvije citirane odredbe, očigledno je da se one nalaze u međusobnoj diskrepanciji tj. da prva nije u skladu s potonjom.
+Iz očitovanja Vlade Republike Hrvatske na prijedlog za pokretanje postupka za ocjenu suglasnosti s Ustavom vidljivo je da je u prijedlogu osporenog Zakona - koji je raspravljen na sjednici Odbora za zakonodavstvo 19. travnja 2016. godine - bilo predviđeno da članak 3. glasi: »Ovaj Zakon stupa na snagu 1. svibnja 2016. godine«', ali je na sjednici Hrvatskog sabora prihvaćen amandman kojim je predložena izmjena članka 3. na koji način je došlo do toga da je izglasan konačni (ovdje osporeni) tekst članka 3. tj. da Zakon stupa na snagu prvog dana od dana objave u Narodnim novinama. Budući da u prvobitnom prijedlogu zakona takvo stupanje na snagu nije bilo predviđeno, predlagatelj nije niti mogao navesti opravdane razloge za izuzetno dozvoljeno odstupanje od Ustavom propisanog roka stupanja zakona na snagu.
+Iz navedenog očitovanja Vlade Republike Hrvatske razvidno je da nije zadovoljen Ustavom propisani uvjet za izuzetno odstupanje od propisanog najkraćeg roka za stupanje zakona na snagu.
+Smatram da je time došlo do proceduralne pogreške preko koje Ustavni sud ne bi smio prijeći. Procedura se neizostavno mora poštovati, što znači da se, istovremeno, pogreške u proceduri moraju sankcionirati.
+Nije na Ustavnom sudu da bira koje će ustavne odredbe primijeniti onako kako glase, a koje neće primijeniti. Ustavni sud je čuvar Ustava, iz Ustava crpi i vlastitu legitimaciju, te ga je dužan primjenjivati u cijelosti.
+Uistinu, Ustavni sud je ovlašten pojmovima koje Ustav koristi (npr. osobne i političke slobode i prava, gospodarska, socijalna i kulturna prava itd.) odrediti sadržaj, opseg i doseg tumačeći ih. Međutim, proceduralnu odredbu kao što je ona članka 90. stavak 3. Ustava Ustavni sud je dužan onako kako glasi, jer se radi od jasnoj i nedvosmislenoj odredbi.
+Tako je i u konkretnom slučaju prema mojem mišljenju bilo potrebno da Ustavni sud prihvati prijedlog i pokrene postupak za ocjenu suglasnosti s Ustavom osporenih odredaba članaka 2. i 3. Zakona o izmjeni i dopuni Zakona o posebnim pravima predsjednika Republike Hrvatske po prestanku obnašanja dužnosti (»Narodne novine« broj 49/16.) te ukine osporeni propis kao neustavan.
+Zagreb, 9. prosinca 2016.
+Sudac
+Andrej Abramović, v. r.
