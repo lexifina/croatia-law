@@ -1,0 +1,3 @@
+# Članak 116.
+Odjel zrakoplovnog i protuzrakoplovnog naoružanja i vojne opreme obavlja stručne i upravne poslove vezane za materijalno zbrinjavanje Ministarstva i Oružanih snaga kroz djelatnosti opremanja i modernizacije naoružanja i vojne opreme Hrvatskog ratnog zrakoplovstva i protuzračne obrane. Odjel usklađuje prijedloge planova opremanja i provodi opremanje Ministarstva i Oružanih snaga u skladu s usvojenim planovima opremanja, organizira razvoj i usvajanje materijalnih sredstava te prati razvojne i proizvodne mogućnosti domaćega i inozemnoga gospodarstva iz svoje nadležnosti.
+10.1.1.4. Odjel ubojnih i radiološko-biološko-kemijskih sredstava

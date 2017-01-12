@@ -1,0 +1,2 @@
+# Članak 19.
+Odjel za naknadu štete obavlja poslove u vezi s poduzimanjem pravnih radnji radi zaštite interesa Republike Hrvatske kojom upravlja i koristi se Ministarstvo, priprema očitovanja i pribavlja dokumentaciju Državnom odvjetništvu Republike Hrvatske, nadležnim državnim odvjetništvima kao zakonskom zastupniku Republike Hrvatske za zastupanje u sporovima naknade štete i rješavanja sporova iz ugovornih odnosa Ministarstva i Oružanih snaga te surađuje u poslovima pri sklapanju nagodbi.

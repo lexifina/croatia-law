@@ -1,0 +1,3 @@
+# Članak 45.
+Odjel za raščlambu i opće poslove koordinira aktivnosti planiranja, programiranja i praćenja realizacije proračunskih sredstava, objedinjuje planove nabave i obavlja raščlambu svih navedenih dokumenata za potrebe Službe. Odjel vodi opće i personalne poslove za potrebe Sektora. Koordinira izradu planova i izvješća te prati realizaciju aktivnosti iz planova u nadležnosti Službi, koordinira međunarodnu suradnju na razini Sektora, analizu podataka i izradu izvješća. Sudjeluje u izradi akata iz svoje nadležnosti za potrebe Ministarstva i Oružanih snaga. Obavlja i druge poslove iz svojega djelokruga.
+6.2. Služba za informacijske, komunikacijske i elektroničke sustave

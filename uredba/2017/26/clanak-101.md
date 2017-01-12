@@ -1,0 +1,3 @@
+# Članak 101.
+Odjel za raščlambe i simulacije prati i raščlanjuje personalnu spremnost te sudjeluje u izradi i raščlanjuje planove i programe upravljanja ljudskim potencijalima. Na temelju podataka iz informacijskog sustava personalnog upravljanja i ostalih vanjskih izvora izrađuje statističke, tehničke i dubinske analize te simulacije kao podloge za donošenje odluka na strategijskoj razini. Upravlja razvojem i održavanjem MIS-a (izvještajni sustav menadžment) za Upravu. Obrađuje podatke te izrađuje standardna i izvanredna izvješća za potrebe Uprave i drugih ustrojstvenih jedinica.
+9.2.1.3. Odjel za planiranje i financijsku potporu

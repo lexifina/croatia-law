@@ -1,0 +1,6 @@
+# Članak 11.
+(1) Služba za izradu i usklađenje akata izrađuje odnosno usklađuje akte koje donosi ministar. Služba vrši nomotehničku obradu nacrta prijedloga zakona i prijedloga drugih propisa koje izrađuju nadležne ustrojstvene jedinice iz svojega djelokruga i priprema ih za ministra radi upućivanja u daljnju proceduru nadležnim tijelima. Služba obavlja poslove vezano uz procjenu učinaka propisa u suradnji s ustrojstvenim jedinicama Ministarstva, nositeljem izrade propisa. Koordinira procjenu učinaka propisa s nadležnim tijelima vezano uz gospodarski, financijski, socijalni i ekološki učinak. Sudjeluje u izradi prijedloga plana propisa vezano uz godišnji plan propisa koji donosi Vlada Republike Hrvatske. Predlaže propise za koje je potrebno provesti postupak procjene učinaka propisa, provodi prethodnu procjenu propisa, surađuje s ustrojstvenim jedinicama stručnog nositelja izrade propisa te surađuje s drugim ustrojstvenim jedinicama Ministarstva pri izradi procjene učinaka propisa. U suradnji s nadležnim ustrojstvenim jedinicama priprema, usklađuje i izrađuje akte koje donosi ministar te obavlja i druge poslove iz svojega djelokruga.
+(2) Za obavljanje poslova Službe za izradu i usklađenje akata ustrojavaju se:
+2.1.2.1. Odjel za izradu akata
+2.1.2.2. Odjel za usklađenje akata.
+2.1.2.1. Odjel za izradu akata

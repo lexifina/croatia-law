@@ -1,0 +1,3 @@
+# Članak 47.
+Odjel za sigurnost i nadzor informacijskih sustava provodi poslove normativnog uređenja i osiguranja provedbe zakonom propisanih mjera i postupaka iz područja sigurnosti informacijskih sustava i kriptološke zaštite. Izrađuje akte radi zaštite cjelovitosti i raspoloživosti informacijskog sustava u procesu planiranja, projektiranja, izgradnje, uporabe, održavanja i prestanka rada informacijskog sustava. U planiranju, propisivanju i provedbi sigurnosnih mjera surađuje s nadležnim tijelima. Provodi nadzor informacijskog sustava u smislu obrane od ugroza iz cyber prostora te osigurava poduzimanje pravovremenih radnji u cilju zaštite. Obavlja i druge poslove iz svojega djelokruga.
+6.2.2. Odjel za razvoj IT infrastrukture

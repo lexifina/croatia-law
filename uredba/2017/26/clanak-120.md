@@ -1,0 +1,3 @@
+# Članak 120.
+Odjel za intendantska sredstva i usluge obavlja stručne i upravne poslove vezane za materijalno zbrinjavanje Ministarstva i Oružanih snaga kroz djelatnosti opremanja i modernizacije intendantskim sredstvima (odjeća, obuća i sl.) te osiguranja usluga iz nadležnosti intendantske službe (prehrana, smještaj). Odjel usklađuje prijedloge planova opremanja, planira i provodi opremanje Ministarstva i Oružanih snaga u skladu s usvojenim planovima opremanja, organizira razvoj i usvajanje materijalnih sredstava iz svoje nadležnosti, nositelj je programa opremanja za sredstva iz svoje nadležnosti kojima se opremaju Oružane snage, prati razvojne i proizvodne mogućnosti domaćega i inozemnoga gospodarstva za potrebe obrane.
+10.1.2.3. Odjel za nebojna sredstva i dozvole

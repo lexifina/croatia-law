@@ -1,0 +1,3 @@
+# Članak 10.
+Odjel za pripremu akata obavlja poslove pripreme akata koje izrađuju nadležne ustrojstvene jedinice, a odnosi se na pripremu očitovanja, davanja mišljenja nadležnim tijelima, izradu izvješća i sl. U suradnji s nadležnim ustrojstvenim jedinicama priprema akte koje donosi ministar. Obavlja poslove i radnje u vezi s izradom i sklapanjem međunarodnih ugovora i sporazuma iz područja obrane. U suradnji s drugim ustrojstvenim jedinicama postupa po zaprimljenim zahtjevima za pristup informacijama, vodi očevidnik zaprimljenih zahtjeva te sastavlja periodična i godišnja izvješća. Odjel obavlja i druge poslove iz svojega djelokruga.
+2.1.2. Služba za izradu i usklađenje akata

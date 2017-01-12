@@ -1,0 +1,9 @@
+# Članak 118.
+(1) Služba za potporu opremanju i modernizaciji obavlja stručne i upravne poslove vezane za razvoj politike opremanja i modernizacije, izradu i nadzor primjene propisa vezanih za opremanje i modernizaciju te prati razvojne i proizvodne mogućnosti domaćega i inozemnog gospodarstva za potrebe obrane. Služba obavlja upravne i stručne poslove vezane za korištenje financijskih sredstava iz NATO, EU i drugih fondova te stručne i upravne poslove vezane za koordinaciju provedbu opremanja iz svih programa inozemne pomoći. Služba obavlja upravne i stručne poslove vezane za materijalno zbrinjavanje Ministarstva i Oružanih snaga kroz djelatnosti opremanja i modernizacije intendantskim sredstvima, nebojnim i općim materijalnim sredstvima, te djelatnosti osiguranja usluga iz navedenih djelatnosti. Obavlja upravne i stručne poslove vezane za izdavanje dozvola, potvrda i suglasnosti. Služba obavlja upravne i stručne poslove vezane za razvoj politike i implementaciju sustava vojne normizacije, te za razvoj politike i implementaciju nacionalnog i NATO sustava kodifikacije. Služba sudjeluje u izradi dokumenata, planova i izvješća u okviru nacionalnog i NATO procesa obrambenog planiranja, te izrađuje prijedloge planova opremanja i modernizacije za potrebe Ministarstva obrane i Oružanih snaga u potpori realizacije planova nastalih u procesu obrambenog planiranja. Obavlja opće, stručne i administrativne poslove za potrebe Sektora.
+(2) Za obavljanje poslova Službe za potporu opremanju i modernizaciji ustrojavaju se:
+10.1.2.1. Odjel za razvoj politike opremanja i modernizacije
+10.1.2.2. Odjel za intendantska sredstva i usluge
+10.1.2.3. Odjel za nebojna sredstva i dozvole
+10.1.2.4. Odjel za kodifikaciju i normizaciju
+10.1.2.5. Odjel za praćenje realizacije planova i opće poslove.
+10.1.2.1. Odjel za razvoj politike opremanja i modernizacije

@@ -1,0 +1,3 @@
+# Članak 34.
+Odjel za kontrolu ugovora i opće poslove obavlja poslove za nesmetano funkcioniranje Službe, ustrojava personalnu evidenciju Službe, upravlja pismohranom Službe. Odjel izrađuje strategiju, smjernice i pravila iz djelokruga javne nabave, izrađuje i standardizira operativne postupke i procedure za provođenje javne nabave, koordinira procese nabave s tehničkim nositeljima, koordinira i priprema izradu godišnjeg plana nabave, surađuje s nadležnim tijelima iz područja javne nabave i financija. Odjel kontrolira ugovore koji se izrađuju i sklapaju nakon provedenog postupka nabave.
+5.1.2. Odjel za planiranje, analizu i prodaju

@@ -1,0 +1,3 @@
+# Članak 123.
+Odjel za praćenje realizacije planova i opće poslove obavlja opće i administrativne poslove za potrebe Sektora, prijam, evidenciju, arhiviranje i otpremu pošte, personalne i ostale administrativne poslove, vodi evidenciju o arhivskom i registraturnom gradivu Sektora. Odjel izrađuje i objedinjava godišnje planove rada i izvješća za potrebe Sektora. Odjel koordinira aktivnosti planiranja, programiranja i praćenja realizacije proračunskih sredstava, objedinjuje izradu planova nabave i obavlja raščlambu svih navedenih dokumenata za potrebe Sektora.
+10.2. Sektor za vojnu infrastrukturu

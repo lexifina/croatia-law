@@ -1,0 +1,7 @@
+# Članak 95.
+(1) Područni odjeli za poslove obrane su unutarnje ustrojstvene jedinice u sastavu Službe za poslove obrane koji obavljaju stručne i upravne poslove usklađivanja aktivnosti vođenja evidencija ljudskog i materijalnog potencijala za potrebe obrambenog resora u cjelini. Obavljaju poslove vezane za organizaciju, usklađivanje i usmjeravanje djelatnosti vojne obveze te primjenu zakona i drugih propisa iz tog područja. Provode aktivnosti izdavanja potvrda i drugih isprava na temelju službene evidencije. Organiziraju, usklađuju i usmjeravaju poslove koji se obavljaju u pripadajućim odsjecima za poslove obrane vezanim za promidžbu, selekciju, upis i vođenje propisane evidencije, mirnodopske i ratne popune, mobilizacijske pripreme i provođenje mobilizacije. Vode prvostupanjske upravne postupke s područja vojne obveze i drugih propisa. Obavljaju poslove vezane uz opće akte poslovanja materijalno-financijske poslove, poslove vezane uz izradu prijedloga plana proračuna, izvršenja proračuna i obradu financijske dokumentacije te poslove logističke potpore za potrebe područnog odjela i pripadajućih područnih odsjeka za poslove obrane. Obavljaju poslove prijma, rasporeda i otpreme pošte te poslove urudžbenog zapisnika i pismohrane.
+(2) Za obavljanje poslova Područnih odjela za poslove obrane ustrojavaju se:
+9.1.4.3.1. Područni odjel za poslove obrane Osijek
+9.1.4.3.2. Područni odjel za poslove obrane Zagreb
+9.1.4.3.3. Područni odjel za poslove obrane Rijeka
+9.1.4.3.4. Područni odjel za poslove obrane Split.

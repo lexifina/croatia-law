@@ -1,0 +1,3 @@
+# Članak 52.
+Odjel za kriminalistička istraživanja istražuje i sprječava kriminalitet te provodi kriminalistička istraživanja radi otkrivanja počinitelja kaznenih djela u Ministarstvu i Oružanim snagama. Kriminalistička istraživanja provodi samostalno i u suradnji s nadležnim državnim odvjetništvima, Uredom za suzbijanje korupcije i organiziranog kriminaliteta, Ministarstvom unutarnjih poslova, kriminalističkom vojnom policijom Oružanih snaga te ostalim nadležnim državnim tijelima. Odjel pruža stručnu pomoć kriminalističkoj vojnoj policiji Oružanih snaga kod provođenja manje složenih kriminalističkih istraživanja. Strukovno prati rad kriminalističke vojne policije u Oružanim snagama. Obavlja i druge poslove iz svojega djelokruga.
+7.1.2. Odjel za kriminalističku potporu

@@ -1,0 +1,2 @@
+# Članak 56.
+Odjel za vojnopolicijske evidencije obavlja stručne poslove u području vojnopolicijskih poslova. Razvija i upravlja informacijskim sustavom vojne policije te vodi i nadzire vođenje propisanih evidencija u području vojnopolicijskih poslova. Prikuplja, evidentira, usklađuje i obrađuje podatke i informacije za obavljanje vojnopolicijskih poslova. Obavlja i druge poslove iz svojega djelokruga.
