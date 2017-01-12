@@ -1,0 +1,4 @@
+# Članak 7.
+U članku 18. stavku 1. podstavci 1. i 2. mijenjaju se i glase:
+»- putem mrežne aplikacije unutar modula financijskog pravdanja sredstava Fonda (prema postavljenim procedurama i uputama te traženoj računovodstvenoj dokumentaciji, a prilikom pravdanja višegodišnjeg natječaja korisnik sredstava Fonda je dužan sukladno potpisanom ugovoru na propisani način pravdati dodijeljena sredstva za svaku godinu posebno) u sustavu malih potpora,
+- putem mrežne aplikacije unutar modula financijskog pravdanja sredstava Fonda (prema postavljenim procedurama i uputama te traženoj računovodstvenoj dokumentaciji, a prilikom pravdanja višegodišnjeg natječaja korisnik sredstava Fonda je dužan sukladno potpisanom ugovoru na propisani način pravdati dodijeljena sredstva za svaku godinu posebno) u sustavu državnih potpora,«
