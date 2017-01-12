@@ -1,0 +1,6 @@
+## IV. ROKOVI I VRIJEME POLAGANJA ISPITA
+# Članak 6.
+(1) Rokove za polaganje ispita, u ovisnosti o dovoljnom broju broju prijavljenih kandidata, određuje rasporedom izvršni odbor Komore u suradnji s predsjednikom Ispitnog povjerenstva o čemu tajnik Komore izvješćuje članove Ispitnog povjerenstva i prijavljene kandidate za polaganje ispita.
+(2) Ako prijavljen kandidat za polaganje ispita ne ispunjava uvjete za pristupanje ispitu, Ispitno povjerenstvo dužno je o tome, putem tajnika povjerenstva, izvijestiti kandidata najkasnije u roku od osam dana od dana primitka prijave za polaganje ispita.
+(3) Ispitno povjerenstvo dužno je izvijestiti kandidata o danu polaganja ispita u roku ne kraćem od dvadeset dana prije dana određenog za polaganje ispita.
+(4) Ispit će se održati u zakazanom roku ako ispitu pristupi najmanje pet kandidata, osim u slučaju iz članka 12. stavka 7. ovoga Pravilnika. U jednom ispitnom roku Ispitno povjerenstvo ispitat će najviše dvadeset pet kandidata. Ako se za jedan ispitni rok prijavi više od dvadeset pet kandidata, kandidati koji ne mogu biti obuhvaćeni u roku za koji su se prijavili, bit će ispitani u sljedećem roku (rokovima), po kronološkom redu po kojem su zaprimljene njihove prijave za ispit.
