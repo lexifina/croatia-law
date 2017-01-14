@@ -1,0 +1,1 @@
+Na temelju članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/11, 119/14 i 93/16), a u vezi s člankom 10. Zakona o tajnosti podataka (»Narodne novine«, br. 79/07 i 86/12), Vlada Republike Hrvatske je na sjednici održanoj 12. siječnja 2017. godine donijela
