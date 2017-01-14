@@ -1,0 +1,1 @@
+Na temelju članaka 9. stavka 1. točaka 1., 2., 5., 8. i 10., te članka 31., a u skladu s člankom 19. stavkom 3. te člankom 30. Zakona o morskom ribarstvu (»Narodne novine« br. 81/13, 14/14 i 152/14) ministar poljoprivrede donosi
