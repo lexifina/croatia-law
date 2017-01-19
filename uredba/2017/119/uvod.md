@@ -1,0 +1,1 @@
+Na temelju članka 5. stavka 4. Zakona o uspostavi institucionalnog okvira za korištenje strukturnih instrumenata Europske unije u Republici Hrvatskoj (»Narodne novine«, br. 78/12, 143/13 i 157/13 - ispravak), Vlada Republike Hrvatske je na sjednici održanoj 5. siječnja 2017. godine donijela
