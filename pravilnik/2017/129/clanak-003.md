@@ -1,0 +1,5 @@
+## BITNE PROMJENE PROSPEKTA UCITS FONDA
+# Članak 3.
+(1) Uz zahtjev za izdavanje odobrenja za bitne promjene prospekta UCITS fonda iz članka 192. stavka 1. Zakona, društvo za upravljanje je dužno priložiti i odluku uprave o usvajanju promjena prospekta, u kojoj će se naznačiti u kojim dijelovima se prospekt mijenja i na koji način, uz izjavu da u preostalim dijelovima ostaje isti.
+(2) Društvo za upravljanje je dužno u obavijesti o bitnim promjenama prospekta, koja se objavljuje na mrežnoj stranici društva u skladu s člankom 193. stavkom 2. Zakona, kao i u obavijesti koja se dostavlja ulagateljima u skladu s člankom 193. stavkom 3. Zakona, navesti koje su bitne promjene prospekta, dan kada bitne promjene Prospekta stupaju na snagu u skladu s člankom 193. stavkom 6. Zakona, te upozoriti na pravo ulagatelja iz članka 193. stavka 4. Zakona.
+(3) Društvo za upravljanje dužno je obavijest o bitnim promjenama prospekta iz članka 193. stavka 3. Zakona dostaviti ulagateljima putem pošte ili na drugom odgovarajućem trajnom mediju u skladu s člankom 112. Zakona.
