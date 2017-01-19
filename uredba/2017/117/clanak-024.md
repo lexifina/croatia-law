@@ -1,0 +1,4 @@
+# Članak 24.
+(1) Nakon provedene javne rasprave nadležno tijelo sva mišljenja, primjedbe i prijedloge iz javne rasprave, i mišljenja iz članka 23. stavka 2. ove Uredbe dostavlja na očitovanje ovlašteniku i izrađivaču. Svojim očitovanjem ovlaštenik će predložiti i konačne mjere zaštite okoliša i program praćenja stanja okoliša vezano za strategiju, plana odnosno programa.
+(2) U postupku strateške procjene utjecaja prostornog plana na okoliš, nakon završetka javne rasprave, u roku od 15 dana, ovlaštenik dostavlja očitovanja na primjedbe i prijedloge iz javne rasprave na stratešku studiju te sudjeluje u izradi izvješća s javne rasprave prema posebnom propisu kojim se uređuje prostorno uređenje.
+(3) Nadležno tijelo priprema konačni prijedlog strategije, plana i programa te ga dostavlja tijelu nadležnom za donošenje, osim u postupku strateške procjene utjecaja prostornog plana na okoliš.

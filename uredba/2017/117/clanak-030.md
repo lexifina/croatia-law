@@ -1,0 +1,6 @@
+# Članak 30.
+(1) Prije donošenja odluke u postupku ocjene o potrebi strateške procjene nadležno tijelo na državnoj i područnoj (regionalnoj) razini, dužno je o provedenom postupku ocjene o potrebi strateške procjene pribaviti mišljenje Ministarstva. U tu svrhu Ministarstvu se, uz zahtjev za davanje mišljenja, dostavlja i potrebna dokumentacija.
+(2) Dokumentacija iz stavka 1. ovoga članka sadrži prijedlog odluke u postupku ocjene o potrebi strateške procjene, zahtjev za davanje mišljenja o potrebi strateške procjene i mišljenja tijela i/ili osoba iz članka 29. stavka 6. ove Uredbe.
+(3) Ministarstvo donosi mišljenje o provedenom postupku ocjene o potrebi strateške procjene u roku od 15 dana od primitka dokumentacije iz stavka 1. ovoga članka.
+(4) Prije donošenja odluke u postupku ocjene o potrebi strateške procjene na lokalnoj razini nadležno tijelo dužno je o provedenom postupku ocjene o potrebi strateške procjene pribaviti mišljenje nadležnog upravnog tijela za zaštitu okoliša u županiji. U tu svrhu nadležnom upravnom tijelu za zaštitu okoliša u županiji se, uz zahtjev za davanje mišljenja, dostavlja i potrebna dokumentacija.
+(5) Odredbe stavaka 2. i 3. ovoga članka odgovarajuće se primjenjuju i u postupku strateške procjene iz nadležnosti jedinice lokalne samouprave.
