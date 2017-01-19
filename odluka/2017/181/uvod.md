@@ -1,0 +1,1 @@
+Na temelju članka 3. stavka 3. i članka 4. stavaka 1. i 2. Pravilnika o ulovu, uzgoju i prometu plavoperajne tune (Thunnus thynnus) (»Narodne novine« broj 4/17), a u vezi s člankom 1. i člankom 9. stavkom 1. podstavcima 8. i 10. Zakona o morskom ribarstvu (»Narodne novine« br. 81/13, 14/14 i 152/14), ministar poljoprivrede donosi
