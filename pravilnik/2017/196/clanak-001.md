@@ -1,0 +1,3 @@
+# Članak 1.
+U Pravilniku o provedbi Podmjere 6.1. »Potpora za pokretanje poslovanja mladim poljoprivrednicima«, Podmjere 6.2. »Potpora ulaganju u pokretanje nepoljoprivrednih djelatnosti u ruralnim područjima« i Podmjere 6.3. »Potpora razvoju malih poljoprivrednih gospodarstava« unutar Mjere M06 iz Programa ruralnog razvoja Republike Hrvatske za razdoblje 2014. - 2020. (»Narodne novine« br. 42/15) u članku 20. stavak 2. mijenja se i glasi:
+(2) Natječaj iz stavka 1. ovoga članka objavljuje se na mrežnim stranicama Agencije za plaćanja (www.apprrr.hr), Ministarstva (www.mps.hr) i Programa (www.ruralnirazvoj.hr).
