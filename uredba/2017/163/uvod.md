@@ -1,0 +1,1 @@
+Na temelju članka 81. stavka 1. i članka 115. stavka 8. Zakona o zaštiti zraka (»Narodne novine«, br. 130/11 i 47/14), Vlada Republike Hrvatske je na sjednici održanoj 12. siječnja 2017. godine donijela
