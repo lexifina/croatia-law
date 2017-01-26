@@ -1,0 +1,2 @@
+# Članak 1.
+U Zakonu o odgoju i obrazovanju u osnovnoj i srednjoj školi (»Narodne novine«, br. 87/08., 86/09., 92/10., 105/10., 90/11., 16/12., 86/12., 94/13. i 152/14.) u članku 99. stavku 11. iza riječi: »uključivanja« dodaju se riječi: »te način i sadržaj osposobljavanja«, a iza riječi: »ispunjavati« stavlja se zarez i dodaju riječi: »kao i postupak radi ostvarivanja prava učenika s teškoćama u razvoju na potporu pomoćnika u nastavi i stručnih komunikacijskih posrednika«.
