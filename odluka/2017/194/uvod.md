@@ -1,0 +1,1 @@
+Na temelju članka 95. stavka 4. Zakona o prostornom uređenju (»Narodne novine«, broj 153/13) i članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/11, 119/14 i 93/16), Vlada Republike Hrvatske je na sjednici održanoj 19. siječnja 2017. godine donijela
