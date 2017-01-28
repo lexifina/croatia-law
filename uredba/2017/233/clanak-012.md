@@ -1,0 +1,3 @@
+# Članak 12.
+Odjel za javnu nabavu u suradnji s ostalim ustrojstvenim jedinicama priprema prijedlog godišnjeg plana nabave; provodi postupke javne nabave robe, radova i usluga za potrebe Ministarstva; prati tijek postupaka nabave sukladno planu nabave i sredstvima osiguranim planom proračuna Ministarstva u okviru visine i namjene sredstava; priprema i izrađuje ugovore o nabavi; vodi evidencije o postupcima nabave i evidencije zaključenih ugovora; obavlja poslove prijema i raspodjele opreme i materijala te podnosi zakonom i uredbama propisana izvješća; surađuje s drugim ustrojstvenim jedinicama Ministarstva u obavljanju poslova iz svog djelokruga; obavlja i druge poslove iz svog djelokruga.
+2.2.2. Služba za računovodstvene poslove

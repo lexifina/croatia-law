@@ -1,0 +1,3 @@
+# Članak 23.
+Služba za investicijske projekte obavlja poslove vezane za izradu investicijskih projekata na nekretninama; obavlja poslove uređenja prostornih planova i imovinskopravnih poslova na nekretninama za investicije; obavlja poslove vezane za izradu i prodaju investicijskih projekata; sudjeluje u projektima od strateškog interesa za Republiku Hrvatsku; izdaje tabularne izjave i brisovna očitovanja za investicijske projekte; unosi promjene u bazi podataka o nekretninama iz svog djelokruga koju vodi Ministarstvo; obavještava nadležno državno odvjetništvo o potrebi utvrđivanja prava vlasništva; surađuje s drugim ustrojstvenim jedinicama Ministarstva u obavljanju poslova iz svog djelokruga; obavlja i druge poslove iz svog djelokruga.
+3.2.2. Služba za pravne poslove

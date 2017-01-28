@@ -1,0 +1,3 @@
+## 7. SAMOSTALNI ODJEL ZA CRKVENU IMOVINU I SUKCESIJU
+# Članak 40.
+Samostalni odjel za crkvenu imovinu i sukcesiju obavlja operativne poslove vezane za povrat crkvene imovine; obavlja operativne poslove vezane za povrat druge imovine oduzete za vrijeme jugoslavenske komunističke vladavine; obavlja poslove upravljanja imovinom koja je u postupku sukcesije; sudjeluje u postupcima sukcesije; evidentira promjene u bazi podataka o nekretninama iz svog djelokruga koju vodi Ministarstvo; surađuje s drugim ustrojstvenim jedinicama Ministarstva u obavljanju poslova iz svog djelokruga; obavlja druge poslove iz svog djelokruga.

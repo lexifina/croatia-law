@@ -1,0 +1,3 @@
+## 6. SAMOSTALNI ODJEL ZA REGISTAR DRŽAVNE IMOVINE
+# Članak 39.
+Samostalni odjel za registar državne imovine obavlja poslove vođenja, upotpunjavanja i uređivanja baze podataka državne imovine; obavlja aktivnosti na uspostavi podatkovne i programske nadogradnje Registra državne imovine kroz projekt izgradnje Informacijskog sustava za upravljanje državnom imovinom (ISUDIO); projektira sadržaj upitnika za izradu baze podataka u skladu s kriterijima za razne potrebe; održava sustav baze; projektira i uređuje bazu podataka; unosi u registar državne imovine podatke iz internih registara Ministarstva; surađuje s drugim ustrojstvenim jedinicama Ministarstva u obavljanju poslova iz svog djelokruga; obavlja druge poslove iz svog djelokruga.

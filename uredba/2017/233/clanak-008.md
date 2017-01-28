@@ -1,0 +1,3 @@
+# Članak 8.
+Odjel pisarnice obavlja administrativne poslove vezane za prijam, dostavu i otpremu pošte, raspoređivanje akata i arhiviranje; obavlja uredske poslove zaštite i čuvanja arhivske i registraturne građe; vrši izlučivanje arhivske građe; vodi popis arhivske građe nastale radom Ministarstva; izrađuje prijedlog plana klasifikacijskih oznaka i brojčanih oznaka stvaratelja i primatelja pismena u Ministarstvu; izrađuje prijedlog pravilnika o zaštiti, obradi, čuvanju i korištenju arhivske i registrativne građe u Ministarstvu; surađuje s drugim ustrojstvenim jedinicama Ministarstva u obavljanju poslova iz svog djelokruga; obavlja i druge poslove iz svog djelokruga.
+2.1.2. Služba za informatičku potporu i informacijsku sigurnost

@@ -1,0 +1,2 @@
+# Članak 29.
+Područna jedinica Split, sa sjedištem u Splitu, obavlja poslove očevida nekretnina, dobavljanja dokumentacije i koordinacije poslova s jedinicama lokalne i područne (regionalne) samouprave na području Zadarske županije, Šibensko-kninske županije, Splitsko-dalmatinske županije i Dubrovačko-neretvanske županije; surađuje s drugim ustrojstvenim jedinicama Ministarstva u obavljanju poslova iz svog djelokruga.
