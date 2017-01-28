@@ -1,0 +1,1 @@
+Na temelju članka 139. stavka 2. i članka 140. stavka 6. Zakona o zdravstvenoj zaštiti (»Narodne novine« broj 150/08, 71/10, 139/10, 22/11, 84/11, 12/12, 35/12 - Odluka Ustavnog suda Republike Hrvatske, 70/12, 82/13, 22/14 - Odluka Ustavnog suda Republike Hrvatske i 70/16), ministar zdravstva donosi
