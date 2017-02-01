@@ -1,0 +1,1 @@
+Zakon o potvrđivanju Memoranduma o suglasnosti između Vlade Republike Hrvatske i Zapovjedništva vrhovnog savezničkog zapovjednika za transformaciju kao i Vrhovnog zapovjedništva savezničkih snaga u Europi u vezi s pružanjem potpore države domaćina za provedbu NATO vojnih aktivnosti

@@ -1,0 +1,2 @@
+# Članak 1.
+Potvrđuje se Memorandum o suglasnosti između Vlade Republike Hrvatske i Zapovjedništva vrhovnog savezničkog zapovjednika za transformaciju kao i Vrhovnog zapovjedništva savezničkih snaga u Europi u vezi s pružanjem potpore države domaćina za provedbu NATO vojnih aktivnosti, potpisan 8. travnja 2016. u Zagrebu, Republika Hrvatska, i 24. svibnja 2016. u Monsu, Kraljevina Belgija, u izvorniku na hrvatskom i engleskom jeziku.
