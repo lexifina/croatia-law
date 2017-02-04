@@ -1,0 +1,3 @@
+# Članak 12.
+Odjel za podršku korisnicima zaprima i evidentira korisničke upite; pretražuje službene informacijske izvore iz središnjeg kataloga službene dokumentacije, drugih tijela javne vlasti Republike Hrvatske, stranih zemalja, Europske unije i drugih međunarodnih organizacija te drugih srodnih institucija; selektira i organizira podatke i dokumentacijsku građu prema korisničkim upitima te istu dostavlja korisnicima; planira i provodi edukaciju korisnika iz djelatnosti Središnjeg državnog ureda i središnjeg kataloga službenih dokumenata Republike Hrvatske; sudjeluje u izradi strateškog plana Središnjeg državnog ureda za trogodišnje razdoblje; obavlja i druge poslove iz svog djelokruga.
+4.2. Služba za objavu i održavanje sadržaja portala

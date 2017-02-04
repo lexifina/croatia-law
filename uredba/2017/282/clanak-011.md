@@ -1,0 +1,3 @@
+# Članak 11.
+Odjel za sadržajnu obradu izrađuje pravila i preporuke za formalnu i sadržajnu obradu službene dokumentacije na temelju prihvaćenih međunarodnih normi; pohranjuje podatke u bibliografskim bazama podataka; surađuje s drugim državnim tijelima i srodnim institucijama radi ujednačavanja formalne i sadržajne obrade službene dokumentacije, razmjene podataka na elektroničkom mediju i osiguravanja protoka informacija; sudjeluje u pripremi podataka za objavu; sudjeluje u izradi strateškog plana Središnjeg državnog ureda za trogodišnje razdoblje; obavlja i druge poslove iz svog djelokruga.
+4.1.3. Odjel za podršku korisnicima
