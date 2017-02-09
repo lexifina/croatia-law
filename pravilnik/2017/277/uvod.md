@@ -1,0 +1,1 @@
+Na temelju članka 7. stavka 2. Zakona o sportu (»Narodne novine«, broj 71/06, 150/08, 124/10, 124/11, 86/12, 94/13, 85/15 i 19/16), a u vezi s člankom 39. Zakona o ustrojstvu i djelokrugu ministarstava i drugih središnjih tijela državne uprave (»Narodne novine«, broj 96/16 i 104/16) državni tajnik Središnjeg državnog ureda za šport donosi
