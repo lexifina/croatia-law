@@ -1,0 +1,2 @@
+# Članak 5.
+U članku 150. stavku 1. iza riječi: »izvješćuje o realizaciji postavljenih ciljeva iz djelokruga rada Uprave;« dodaju se riječi: »obavlja poslove vezane uz suradnju s ministarstvom nadležnim za upravljanje državnom imovinom u poslovima upravljanja i raspolaganja dionicama i poslovnim udjelima trgovačkih društava koji čine državnu imovinu te u pogledu trgovačkih društava koja se pretežno bave djelatnostima iz nadležnosti Ministarstva;«.

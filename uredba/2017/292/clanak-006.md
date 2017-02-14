@@ -1,0 +1,2 @@
+# Članak 6.
+U članku 152. stavku 1. iza riječi: »operativno provodi i koordinira uspostavljanje i razvoj financijskog upravljanja i sustava unutarnjih kontrola u razdjelu Ministarstva;« dodaju se riječi: »obavlja poslove vezane uz suradnju s ministarstvom nadležnim za upravljanje državnom imovinom u poslovima upravljanja i raspolaganja dionicama i poslovnim udjelima trgovačkih društava koji čine državnu imovinu te u pogledu trgovačkih društava koja se pretežno bave djelatnostima iz nadležnosti Ministarstva;«.
