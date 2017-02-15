@@ -1,0 +1,8 @@
+## Trošarinski obrasci i obrasci posebnih poreza
+# Članak 4.
+(1) Trošarinski i porezni obveznici obvezni su podnositi trošarinske obrasce i obrasce posebnih poreza iz Priloga 1 ovoga Pravilnika elektroničkim putem, korištenjem elektroničkog servisa Carinske uprave e-Carina, aplikativnog podsustava e-Trošarine.
+(2) Obveza iz stavka 1. ovoga članka se ne primjenjuje na malog proizvođača vina iz članka 67. Zakona o trošarinama i malog proizvođača jakih alkoholnih pića iz članka 68. Zakona o trošarinama.
+(3) Iznimno od stavka 1. ovoga članka, osim uporabom sustava elektroničke razmjene podataka Obrazac P-MPC - Podaci o prijavljenim maloprodajnim cijenama za marku duhanskih prerađevina (Prilog 47 Pravilnika o trošarinama) može se podnijeti i pisano ako se primjenjuje rok od dva dana za prijavu povećanja maloprodajne cijene na cigarete.
+(4) Prilozi koji se obvezno podnose uz trošarinske obrasce i obrasce posebnih poreza (u daljnjem tekstu: obvezni prilozi) podnose se na način iz stavka 1. ovoga članka, kao datoteka podataka - privitak uz elektronički trošarinski obrazac i obrazac posebnih poreza.
+(5) Za točnost i potpunost podataka dostavljenih Carinskoj upravi na način iz stavka 1. ovoga članka odgovoran je trošarinski i porezni obveznik koji primjenom elektroničkih sredstava popunjava i potpisuje naprednim elektroničkim potpisom elektronički trošarinski obrazac i obrazac posebnih poreza te obvezne priloge.
+(6) Potpisivanjem elektroničkog trošarinskog obrasca i obrasca posebnog poreza naprednim elektroničkim potpisom, trošarinski i porezni obveznik jamči istovjetnost dokumentacije koja je priložena uz elektronički trošarinski obrazac i obrazac posebnog poreza kao privitak s izvornom dokumentacijom.

@@ -1,0 +1,1 @@
+Na temelju članka 52. stavka 4. Zakona o trošarinama (»Narodne novine«, broj 22/13, 32/13, 81/13, 100/15, 120/15 i 115/16), članka 20. stavka 4. Zakona o posebnom porezu na kavu i bezalkoholna pića (»Narodne novine«, broj 72/13) i članka 33. Zakona o posebnom porezu na motorna vozila (»Narodne novine«, broj 15/13, 108/13 i 115/16) ministar financija donosi
