@@ -1,0 +1,1 @@
+Pravilnik o izmjeni Pravilnika o uvjetima i mjerilima za utvrđivanje sustava kvalitete usluga i radova za certificiranje instalatera obnovljivih izvora energije - plitkih geotermalnih sustava i dizalica topline
