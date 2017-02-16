@@ -1,0 +1,10 @@
+# Članak 21.
+(1) Banke tkiva i zdravstvene ustanove koje obavljaju djelatnost prikupljanja i uzimanja, SEC primjenjuju na sljedeći način:
+- SEC se dodjeljuje svim tkivnim pripravcima iz članka 18. stavka 2. ovoga Pravilnika najkasnije prije raspodjele za primjenu kod ljudi
+- SEC se ispisuje na naljepnici tkivnog pripravka na neizbrisiv i trajan način te se navodi i u odgovarajućoj pratećoj dokumentaciji, najkasnije prije raspodjele za primjenu kod ljudi.
+(2) Ispisivanje SEC-a na naljepnici za banke tkiva i zdravstvene ustanove iz stavka 1. ovoga članka može obavljati i treća strana, pod uvjetom da banka tkiva osigura sukladnost s odredbama ovog Pravilnika, osobito u pogledu jedinstvenosti koda.
+(3) Ako je tkivni pripravak označen s naljepnicom čija je veličina neprikladna za primjenu SEC-a, SEC se mora povezati s navedenim tkivnim pripravcima putem prateće dokumentacije.
+(4) Identifikator slijeda darivanja se dodjeljuje nakon uzimanja tkivnog pripravka od zdravstvene ustanove u kojoj je obavljeno uzimanje ili od banke tkiva po zaprimanju tkivnog pripravka na način da se identifikator slijeda darivanja ne smije mijenjati nakon što je jednom dodijeljen tkivnim pripravcima otpuštenima u optjecaj, osim u slučajevima kad je potrebno ispraviti pogrešku u kodiranju pri čemu svi ispravci moraju biti dokumentirani.
+(5) Banke tkiva i zdravstvene ustanove iz stavka 1. ovoga članka obvezne su primijeniti sustav kodiranja tkivnih pripravaka iz članka 20. ovoga Pravilnika sukladno Zbirci EU tkivnih pripravaka, a najkasnije prije raspodjele tkivnih pripravaka za primjenu kod ljudi.
+(6) Banke tkiva i zdravstvene ustanove iz stavka 1. ovoga članka moraju dodijeliti oznaku sastavnog dijela tkivnog pripravka i odgovarajući rok valjanosti svakom pojedinom tkivnom pripravku. Za tkivne pripravke za koje nije utvrđen rok valjanosti, rok valjanosti se označava oznakom 00000000, najkasnije prije raspodjele za primjenu kod ljudi.
+(7) Banke tkiva i zdravstvene ustanove iz stavka 1. ovoga članka moraju poduzeti sve potrebne mjere iz stavka 3. i 4. ovoga članka i članka 22. ovoga Pravilnika u slučaju neispravne primjene SEC-a na naljepnici.

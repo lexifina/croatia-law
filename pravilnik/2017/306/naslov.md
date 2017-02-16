@@ -1,0 +1,1 @@
+Pravilnik o osiguranju sljedivosti tkiva od darivatelja do primatelja, načinu praćenja ozbiljnih štetnih događaja i ozbiljnih štetnih reakcija, načinu vođenja evidencije i rokovima izvješćivanja te sadržaju tiskanice godišnjeg izvješća

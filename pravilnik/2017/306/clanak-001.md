@@ -1,0 +1,2 @@
+# Članak 1.
+Ovim Pravilnikom propisuje se način praćenja i izvješćivanja o ozbiljnim štetnim događajima i ozbiljnim štetnim reakcijama u području primjene ljudskih tkiva i stanica (u daljnjem tekstu: tkiva), način vođenja evidencija i rokovi izvješćivanja Ministarstva zdravstva (u daljnjem tekstu: ministarstvo), sadržaj tiskanice godišnjeg izvješća o ozbiljnim štetnim događajima i reakcijama, te način osiguranja sljedivosti tkiva primjenom Jedinstvenog europskog koda (Single European Code, u daljnjem tekstu: SEC).
