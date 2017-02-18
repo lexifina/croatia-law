@@ -1,0 +1,2 @@
+# Članak 8.
+Ako županije, Grad Zagreb, gradovi i općine koji financiraju decentralizirane funkcije, na godišnjoj razini, od dodatnog udjela poreza na dohodak i pomoći izravnanja ostvare više sredstava nego što je to utvrđeno minimalnim standardom, odnosno ostvare više sredstava nego što je stvoreno obveza po rashodima koji se financiraju na temelju odluka o minimalnim standardima za 2017. godinu, višak sredstava dužni su najkasnije do 15. veljače 2018. godine doznačiti na račun državnog proračuna Republike Hrvatske.

@@ -1,0 +1,2 @@
+# Članak 1.
+Ovom Uredbom utvrđuju se način financiranja decentraliziranih funkcija te način izračuna iznosa pomoći izravnanja za decentralizirane funkcije jedinica lokalne i područne (regionalne) samouprave za 2017. godinu osiguranih u Državnom proračunu Republike Hrvatske za 2017. godinu prema posebnim zakonima i odlukama o kriterijima i mjerilima za osiguravanje minimalnog financijskog standarda javnih potreba u djelatnostima osnovnog i srednjeg školstva, socijalne skrbi, zdravstva i vatrogastva.

@@ -1,0 +1,4 @@
+# Članak 10.
+(1) Županije, Grad Zagreb, gradovi i općine dužni su tijelo državne uprave nadležno za pojedinu decentraliziranu funkciju izvještavati o utrošenim sredstvima krajnjih korisnika (ustanova) u roku i na način propisan u odlukama iz članka 4. ove Uredbe.
+(2) Tijelo državne uprave nadležno za pojedinu decentraliziranu funkciju dužno je pratiti izvršenje odluka iz članka 4. ove Uredbe i po potrebi, a najkasnije do 30. rujna 2017. godine, Vladi Republike Hrvatske predložiti njihove izmjene i dopune koje je prethodno, a najkasnije do 31. kolovoza 2017. godine, dužno dostaviti na mišljenje Ministarstvu financija.
+(3) Ako korisnik pomoći izravnanja iz stavka 1. ovoga članka ne dostavi izvještaj o utrošenim sredstvima tijelu državne uprave nadležnom za pojedinu decentraliziranu funkciju na propisani način i u roku iz stavka 1. ovoga članka, nadležno tijelo će privremeno obustaviti doznaku pomoći izravnanja.
