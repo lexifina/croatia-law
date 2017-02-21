@@ -1,0 +1,1 @@
+Na temelju članka 6. Ustava Republike Hrvatske (»Narodne novine«, broj 85/2010 - pročišćeni tekst) i članka 10. Zakona o političkim strankama (»Narodne novine«, broj 76/93, 111/96, 164/98 i 36/01), osnivačka skupština stranke Zagreb je naš! donijela je 21. veljače 2017. godine
