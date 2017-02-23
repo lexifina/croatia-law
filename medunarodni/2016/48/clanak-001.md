@@ -1,0 +1,2 @@
+# Članak 1.
+Objavljuje se Ugovor između Vlade Republike Hrvatske i Organizacije Ujedinjenih naroda za obrazovanje, znanost i kulturu u vezi s nastavkom djelovanja Međunarodnog centra za podvodnu arheologiju u Zadru, Republika Hrvatska kao centra 2. kategorije pod pokroviteljstvom UNESCO-a, potpisan u Parizu, 13. lipnja 2016. godine i u Zagrebu 22. srpnja 2016. godine, u izvorniku na hrvatskom i engleskom jeziku.
