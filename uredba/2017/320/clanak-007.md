@@ -1,0 +1,3 @@
+# Članak 7.
+Služba za zastupanje i suradnju s pravosudnim tijelima surađuje s pravosudnim tijelima u Republici Hrvatskoj u građanskim parnicama u postupcima iz nadležnosti Ministarstva; izrađuje očitovanja na zahtjev Državnog odvjetništva Republike Hrvatske; zastupa Ministarstvo u upravnim sporovima; prati sudsku praksu vezano uz primjenu propisa na području zdravstvene zaštite i zdravstvenog osiguranja u Republici Hrvatskoj i Europskoj uniji; vodi registre u vezi s postupanjem u procesu rada; s ustrojstvenim jedinicama Ministarstva sudjeluje u provođenju upravnog nadzora; podnosi izvješća o učinjenom u kvantitativnom i kvalitativnom smislu; brine da svaki rashod bude opravdan stvarnom potrebom i potvrđen prethodnom kontrolom.
+2.2. Sektor za informatičke tehnologije

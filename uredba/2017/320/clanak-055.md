@@ -1,0 +1,6 @@
+# Članak 55.
+Sektor državne sanitarne inspekcije za hranu i epidemiologiju obavlja inspekcijske, upravne i druge stručne poslove koji se odnose na zaštitu pučanstva od zaraznih bolesti, ograničavanje uporabe duhanskih i srodnih proizvoda i pribora za pušenje; službene kontrole zdravstvene ispravnosti i higijene hrane u skladu s posebnim propisom o hrani, nove hrane te genetski modificiranih organizama; sanitarni nadzor nad vodom za ljudsku potrošnju; sanitarni nadzor nad osobama i djelatnostima, građevinama, prostorijama, postrojenjima i uređajima koji mogu na bilo koji način štetno utjecati na zdravlje ljudi; poslove financiranja službenih kontrola hrane; surađuje s drugim tijelima državne uprave na području zaštite zdravlja pučanstva te zaštite i unaprjeđenja zdravog okoliša; prati i analizira čimbenike rizika za pojedine kronične nezarazne bolesti od javno zdravstvenog značaja; priprema odgovore na predstavke i pritužbe iz djelokruga rada; brine da svaki rashod bude opravdan stvarnom potrebom i potvrđen prethodnom kontrolom.
+Za obavljanje poslova iz djelokruga rada Sektora državne sanitarne inspekcije za hranu i epidemiologiju ustrojavaju se:
+7.2.1. Služba za sigurnost hrane i vode za ljudsku potrošnju
+7.2.2. Služba za epidemiologiju i genetski modificirane organizme.
+7.2.1. Služba za sigurnost hrane i vode za ljudsku potrošnju

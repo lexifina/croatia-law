@@ -1,0 +1,6 @@
+# Članak 63.
+Sektor granične sanitarne inspekcije obavlja inspekcijski nadzor nad osobama, njihovim stvarima, kao i prijevoznim sredstvima u prometu preko državne granice u svrhu zaštite pučanstva od unošenja karantenskih i drugih zaraznih bolesti u Republiku Hrvatsku; sanitarni nadzor nad brodovima; sanitarni nadzor nad zdravstvenom ispravnošću hrane i sirovina za njihovu proizvodnju u okviru nadležnosti; službenu kontrolu kakvoće hrane neživotinjskog podrijetla pri uvozu; sanitarni nadzor nad uvozom genetski modificiranih organizama; sanitarni nadzor nad predmetima opće uporabe, nad izvozom kemikalija, biocidnih proizvoda u Republiku Hrvatsku, nad prijenosom umrlih osoba iz inozemstva u Republiku Hrvatsku; izdaje suglasnost za otvaranje carinskih skladišta na temelju posebnih propisa; izrađuje stručne upute za rad i provodi stručni nadzor nad radom sanitarnih inspektora Službe granične sanitarne inspekcije; priprema odgovore na predstavke i pritužbe iz djelokruga rada; brine da svaki rashod bude opravdan stvarnom potrebom i potvrđen prethodnom kontrolom.
+Za obavljanje poslova Sektora granične sanitarne inspekcije ustrojavaju se:
+7.3.1. Služba za kontinentalnu Hrvatsku
+7.3.2. Služba za jadransku Hrvatsku.
+7.3.1. Služba za kontinentalnu Hrvatsku

@@ -1,0 +1,6 @@
+# Članak 39.
+Služba za provedbu međunarodnih zajmova i strukturnih reformi surađuje i koordinira rad sukladno propisanim procedurama Međunarodne banke za obnovu i razvoj, Razvojne banke Vijeća Europe, Europske unije kao i ostalih međunarodnih financijskih institucija; surađuje s međunarodnim financijskim institucijama i organizacijama na području pripreme i provedbe projekata na području zdravstva financiranih iz sredstava međunarodnih zajmova i donacija; koordinira pripremu i provedbu projekata financiranih od strane međunarodnih financijskih institucija; sudjeluje u pripremi i provedbi projekata u svojstvu akreditiranog tijela i sektorski nadležnog tijela za projekte u sustavu zdravstva iz ESI fondova; koordinira pripremu i provedbu projekata strukturnih reformi u sustavu zdravstva; sudjeluje na sastancima predstavnika međunarodnih financijskih institucija; surađuje s nadležnim tijelima Vlade Republike Hrvatske i nadležnim državnim tijelima; brine da svaki rashod bude opravdan stvarnom potrebom i potvrđen prethodnom kontrolom; obavlja i druge poslove iz svog djelokruga.
+Za obavljanje poslova iz djelokruga rada Službe za provedbu međunarodnih zajmova i strukturnih reformi ustrojavaju se:
+6.2.1.1. Odjel za provedbu međunarodnih zajmova
+6.2.1.2. Odjel za provedbu strukturnih reformi.
+6.2.1.1. Odjel za provedbu međunarodnih zajmova
