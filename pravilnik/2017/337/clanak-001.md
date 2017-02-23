@@ -1,0 +1,2 @@
+# Članak 1.
+U Pravilniku o načinu i postupku privlačenja, oglašavanja i odabira za prijam u djelatnu vojnu službu i kadetsku službu (»Narodne novine«, br. 158/13 i 77/15) u članku 14. stavku 3. riječi: »dijete smrtno stradalog i nestalog hrvatskog branitelja iz Domovinskog rata« zamjenjuju se riječima: »dijete hrvatskog branitelja iz Domovinskog rata u skladu sa zakonom kojim se propisuju prava hrvatskih branitelja iz Domovinskog rata«.
