@@ -1,0 +1,1 @@
+Na temelju članka 9. stavka 1. točke 8. i točke 10. Zakona o morskom ribarstvu (»Narodne novine« br. 81/13, 14/14 i 152/14) i na temelju članka 8. stavka 1. Pravilnika o ulovu, uzgoju i prometu tune (Thunnus thynnus) (»Narodne novine« br. 4/17), ministar poljoprivrede donosi
