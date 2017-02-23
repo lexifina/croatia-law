@@ -1,0 +1,1 @@
+Na temelju članka 21. i članka 42., stavka 3. Zakona o lokalnim porezima (»Narodne novine« broj 115/16) te članka 15. Statuta Općine Đurmanec (»Službeni glasnik Krapinsko-zagorske županije« broj 8/13 i 6/14.), Općinsko vijeće Općine Đurmanec na 20. sjednici održanoj 15. veljače 2017. godine donijelo je
