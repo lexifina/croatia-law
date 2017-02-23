@@ -1,0 +1,9 @@
+# Članak 143.
+Služba nadzora u području rudarstva obavlja inspekcijske i druge poslove koji se odnose na primjenu zakona i drugih propisa kojima se uređuje rudarska gospodarska djelatnost, odnosno istraživanje i eksploatacija mineralnih sirovina, osim istraživanja i eksploatacije ugljikovodika i geotermalnih voda za energetske svrhe, zaštita na radu, tehnički normativi, sigurnost ljudi i imovine pri izvođenju rudarskih radova, gradnja i uporaba rudarskih objekata i postrojenja, sanacija istraživanjem i eksploatacijom mineralnih sirovina devastiranog prostora, osim istraživanja i eksploatacije ugljikovodika i geotermalnih voda za energetske svrhe, ispunjavanje propisanih uvjeta radnika zaposlenih na određenim poslovima u rudarstvu, zaštita od požara pri podzemnim rudarskim radovima, obveze u vezi s rudarskim planovima i rudarskim mjerenjima, postupanje s mineralnim sirovinama kod izvođenja radova sukladno propisima o gradnji, predlaže izmjene i dopune zakona i drugih propisa, izrađuje prijedlog programa rada, izrađuje izvješća o obavljenom nadzoru i poduzetim mjerama, predlaže i izrađuje upute za rad inspektora, za Povjerenstvo za žalbe izrađuje nacrte drugostupanjskih rješenja povodom žalbe na prvostupanjska rješenja inspektora, izrađuje prijedloge odgovara na tužbu protiv rješenja Povjerenstva za žalbe, brine o provođenju metode rada; pruža stručnu pomoć pri obavljanju inspekcijskih poslova rudarskim inspektorima, te obavlja i druge poslove u okviru svoga djelokruga.
+Za obavljanje poslova iz djelokruga Službe u prvom stupnju određuju se samostalni izvršitelji u područnim jedinicama, i to:
+- u Područnoj jedinici Rijeka
+- u Područnoj jedinici Split
+- u Područnoj jedinici Osijek
+- u Područnoj jedinici Varaždin
+- u Područnoj jedinici Zagreb.
+8.2.2. Služba nadzora u području opreme pod tlakom

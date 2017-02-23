@@ -1,0 +1,3 @@
+# Članak 126.
+Odjel za davanje mišljenja izrađuje i daje mišljenja radi pružanja stručne pomoći u vezi s primjenom zakona i drugih propisa u području javne nabave s ciljem jedinstvenog postupanja u provođenju postupaka javne nabave; priprema presjek najvažnijih mišljenja radi njihove objave na Portalu javne nabave; pruža informacije, upute i savjete iz područja javne nabave kroz razne komunikacijske kanale; sudjeluje u razmjeni mišljenja u okviru raznih oblika neposrednih konzultacija sa zainteresiranim dionicima, te obavlja i druge poslove u okviru svoga djelokruga.
+7.1.1.2. Odjel za pripremu i izradu provedbenih alata

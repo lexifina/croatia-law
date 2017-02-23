@@ -1,0 +1,5 @@
+# Članak 16.
+Odjel za radno-pravna pitanja obavlja upravne i stručne poslove u vezi s provedbom zakona i drugih propisa iz područja radno-pravnih odnosa, priprema rješenja i ugovore o svim radno-pravnim pitanjima državnih službenika i namještenika, vodi postupke lake povrede službene dužnosti u prvom stupnju te obavlja pripremne radnje potrebne za pokretanje postupka radi teških povreda službene dužnosti, sudjeluje u pripremi odgovora na tužbe u sudskim sporovima, prati propise i mišljenja iz područja službeničkih i radnih odnosa te tumačenja tijela nadležnog za tumačenje kolektivnog ugovora za državne službenike i namještenike; sudjeluje u izradi prijedloga uredbe o unutarnjem ustrojstvu Ministarstva i pravilnika o unutarnjem redu Ministarstva; obavlja poslove vezane uz izradu prijedloga naputaka iz svoga djelokruga te obavlja i druge poslove u okviru svoga djelokruga.
+U Odjelu za radno-pravna pitanja se ustrojava:
+2.2.2.1.1. Pododsjek za administrativnu potporu.
+2.2.2.1.1. Pododsjek za administrativnu potporu

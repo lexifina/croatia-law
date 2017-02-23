@@ -1,0 +1,11 @@
+# Članak 138.
+Sektor tržišne inspekcije obavlja inspekcijske i druge poslove koji se odnose na primjenu zakona i drugih propisa u području zaštite potrošača; javnih usluga koje se obračunavaju i naplaćuju potrošačima; poslove koji se odnose na provjeru tehničkih i sigurnosnih zahtjeva proizvoda stavljenih na tržište, zahtjeva u vezi s proizvodnjom, stavljanjem na tržište ili na raspolaganje na tržište građevnih proizvoda, postupak provjere ocjenjivanja sukladnosti s propisanim zahtjevima, isprave koje moraju imati proizvodi na tržištu, označavanja, obilježavanja i oglašavanja proizvoda, homologacije vozila i dijelova vozila, zahtjeva energetske učinkovitosti i ekodizajna proizvoda povezanih s energijom; prati primjenu propisa iz svoga djelokruga, izrađuje i predlaže upute za rad inspektora za provođenje nadzora i obavlja upravne i stručne poslove koji se odnose na davanje mišljenja o primjeni propisa iz svoga djelokruga, izrađuje prijedlog plana i programa rada, izrađuje izvješća o obavljenom nadzoru i poduzetim mjerama, za Povjerenstvo za žalbe izrađuje nacrte drugostupanjskih rješenja povodom žalbe na prvostupanjska rješenja inspektora, izrađuje prijedloge odgovora na tužbu protiv rješenja Povjerenstva za žalbe; sudjeluje u izradi programa i strategija, te provodi mjere u okviru istih, izrađuje prijedloge izvješća o radu inspektora; sudjeluje u radu tijela Europske unije iz područja zaštite potrošača i sigurnosti proizvoda surađuje s drugim javnopravnim tijelima u području zaštite potrošača i sigurnosti proizvoda, međunarodnim organizacijama i institucijama Europske unije u području zaštite potrošača, te obavlja i druge poslove u okviru svoga djelokruga.
+U Sektoru tržišne inspekcije se ustrojavaju sljedeće službe:
+8.1.1. Služba zaštite ekonomskih interesa potrošača
+8.1.2. Služba sigurnosti proizvoda
+8.1.3. Područna jedinica - Služba inspekcijskog nadzora u Rijeci
+8.1.4. Područna jedinica - Služba inspekcijskog nadzora u Splitu
+8.1.5. Područna jedinica - Služba inspekcijskog nadzora u Osijeku
+8.1.6. Područna jedinica - Služba inspekcijskog nadzora u Varaždinu
+8.1.7. Područna jedinica - Služba inspekcijskog nadzora u Zagrebu.
+8.1.1. Služba zaštite ekonomskih interesa potrošača

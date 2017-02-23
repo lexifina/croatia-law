@@ -1,0 +1,3 @@
+# Članak 135.
+Odjel za analitiku i izvješćivanje prikuplja, evidentira, obrađuje i analizira opće podatke o javnoj nabavi; prikuplja, evidentira, obrađuje i analizira specifične podatke o javnoj nabavi vezane uz Europske strukturne i investicijske fondove, zelenu i inovativnu javnu nabavu i sl.; provodi aktivnosti vezane uz mjerenje učinka u javnoj nabavi; vodi baze podataka iz nadležnosti Službe, izrađuje statistička i druga odgovarajuća izvješća za potrebe Ministarstva, Vlade Republike Hrvatske, Europske komisije, Svjetske trgovinske organizacije, Organizacije za gospodarsku suradnju i razvitak te obavlja i druge poslove u okviru svoga djelokruga.
+7.2.3. Služba za izobrazbu

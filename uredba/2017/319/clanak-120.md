@@ -1,0 +1,3 @@
+# Članak 120.
+Odjel za kontrolu kvalitete obavlja sve poslove vezano uz kontrolu usklađenosti postupka ocjenjivanja kvalitete s propisanom metodologijom za projektne prijave koje se financiraju sredstvima iz ESI fondova, a u cilju potpune primjene načela jednakog tretmana i proporcionalnosti te općeg načela dobrog financijskog upravljanja uz kontrolu usklađenosti postupka vrednovanja s propisanom metodologijom za projektne prijave koje se financiraju sredstvima iz ESI fondova. Sudjeluje u pripremi i ažuriranju internih procedura koje se odnose na djelokrug rada Odjela, te obavlja i druge poslove u okviru svoga djelokruga.
+6.3.2. Odjel za podršku sustavu

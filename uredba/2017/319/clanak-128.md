@@ -1,0 +1,6 @@
+# Članak 128.
+Služba za nadzor provodi aktivnosti u svrhu pravilne i ujednačene primjene zakona i provedbenih propisa u području javne nabave; na temelju zahtjeva, predstavki i dostupnih informacija pokreće i provodi nadzor nad provedbom zakona i provedbenih propisa u području javne nabave u svrhu sprječavanja ili otklanjanja nepravilnosti koje mogu nastati ili su nastale kao posljedica njihove povrede; obavlja uvid u dokumentaciju postupaka javne nabave i ugovore o javnoj nabavi radi analize dokumentacije i provedbe postupaka javne nabave; daje preporuke o načinu sprječavanja ili otklanjanja počinjenih nepravilnosti; pokreće prekršajni postupak pred nadležnim prekršajnim sudom ako utvrdi nepravilnosti koje imaju obilježja prekršaja; prikuplja, evidentira, obrađuje i analizira nepravilnosti u području javne nabave radi poduzimanja mjera za postizanje pravilne primjene zakona i provedbenih propisa; surađuje s drugim državnim tijelima radi postizanja ujednačenog tumačenja i pravilne primjene propisa iz područja javne nabave, te obavlja i druge poslove u okviru svoga djelokruga.
+U Službi za nadzor se ustrojavaju sljedeći odjeli:
+7.1.2.1. Odjel za provedbu nadzora
+7.1.2.2. Odjel za praćenje i analizu nepravilnosti.
+7.1.2.1. Odjel za provedbu nadzora

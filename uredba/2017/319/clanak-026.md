@@ -1,0 +1,6 @@
+# Članak 26.
+Služba za nabavu predlaže interne smjernice u vezi s provedbom zakona i drugih propisa iz područja javne nabave za Ministarstvo, obavlja poslove nabave robe, radova i usluga za potrebe Ministarstva sukladno Zakonu o javnoj nabavi i internim aktima propisanih Zakonom o javnoj nabavi, pruža stručnu pomoć povjerenstvima za nabavu, priprema upute za bagatelnu nabavu, provodi postupke nabave sukladno planu nabave i sredstvima osiguranim planom proračuna u pogledu zadanih okvira visine i namjene sredstava, osigurava nabavu i isporuku robe, radova i usluga od ugovorenih dobavljača, obavlja administrativne poslove vezane za skladišne poslove, vodi materijalne evidencije, izrađuje objedinjeni plan nabave i izmjene i dopune plana nabave na temelju dostavljenih potreba nabave pojedinih ustrojstvenih jedinica Ministarstva sukladno Zakonu o javnoj nabavi. Vodi propisane evidencije o postupcima nabave i evidencije zaključenih ugovora te prati izvršenje ugovornih obveza te obavlja i druge poslove u okviru svoga djelokruga.
+U Službi za nabavu se ustrojavaju sljedeći odjeli:
+2.3.3.1. Odjel za provedbu postupaka javne nabave
+2.3.3.2. Odjel za ugovaranje i praćenje izvršenja ugovora.
+2.3.3.1. Odjel za provedbu postupaka javne nabave

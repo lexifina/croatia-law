@@ -1,0 +1,3 @@
+# Članak 23.
+Odjel za sigurnost obavlja stručne i tehničke poslove koji se na odnose poslove obilaska prostora, poslove vezane za zaštitu na radu i protupožarne zaštite, poslove u vezi s provedbom zakonskih i podzakonskih propisa iz navedenog područja, surađuje s tijelima inspekcije rada, zavodom nadležnim za zaštitu zdravlja i sigurnosti na radu te drugim ovlaštenim pravnim osobama koje se bave poslovima zaštite na radu, sukladno propisanim obrascima prijavljuje ozljede na radu te vodi evidenciju o istim, koordinira poslove vezane uz evidencije prisutnosti službenika na radnom mjestu, te obavlja i druge poslove u okviru svoga djelokruga.
+2.3.2.2. Odjel za opće poslove

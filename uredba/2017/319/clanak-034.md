@@ -1,0 +1,3 @@
+# Članak 34.
+Odjel za prikupljanje i analizu rizika izrađuje analize vanjskih i unutarnjih rizika koji mogu utjecati na ostvarenje ciljeva Ministarstva u suradnji sa svim ustrojstvenim jedinicama i proračunskim korisnicima Ministarstva, vodi registar rizika, utvrđuje i identificira događaje koji mogu nepovoljno utjecati na ostvarenje ciljeva sadržanih u planskim dokumentima, Nacionalnom programu reformi, godišnjim planovima rada, financijskom planu, planovima nabave i ostalim operativnim planovima rada, utvrđuje potencijalne rizike te daje mišljenje o postupanju po njima u svrhu ostvarenja rezultata i ciljeva, sudjeluje u utvrđivanju i procjeni strateških rizika te obavlja i druge poslove u okviru svoga djelokruga.
+2.4.2.2. Odjel za postupanje po rizicima
