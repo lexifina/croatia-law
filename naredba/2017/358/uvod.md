@@ -1,0 +1,1 @@
+Na temelju članka 44. stavak 1. Zakona o pomorskom dobru i morskim lukama (»Narodne novine«, br. 158/03, 141/06, 38/09, 123/11 i 56/16), u svezi s Uredbom o razvrstaju luka otvorenih za javni promet i luka posebne namjene (»Narodne novine«, br. 110/04 i 82/07), ministar mora, prometa i infrastrukture, donosi
