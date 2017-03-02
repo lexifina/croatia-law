@@ -1,0 +1,1 @@
+Odluka o davanju prethodne suglasnosti Ministarstvu gospodarstva, poduzetništva i obrta za angažiranje fizičke ili pravne osobe za obavljanje poslova odnosa s javnošću radi informiranja hrvatskih gospodarstvenika i cjelokupne javnosti o mjerama koje provodi Ministarstvo gospodarstva, poduzetništva i obrta sukladno Operativnom programu Konkurentnost i kohezija 2014. - 2020.
