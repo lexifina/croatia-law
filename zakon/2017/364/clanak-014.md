@@ -1,0 +1,4 @@
+## PRIJELAZNE I ZAVRŠNE ODREDBE
+# Članak 14.
+(1) Korisnici prava na novčanu pomoć za vrijeme produženog mirovinskog osiguranja na temelju ugovora o radu na određeno vrijeme za stalne sezonske poslove koji su do dana stupanja na snagu ovoga Zakona ta prava ostvarili prema propisima o zapošljavanju koji su se primjenjivali do toga dana, ta prava ostvaruju u istom opsegu i nakon stupanja na snagu ovoga Zakona, sve do njihova prestanka.
+(2) Korisnicima prava na novčanu pomoć za vrijeme stručnog osposobljavanja za rad bez zasnivanja radnog odnosa koji su do dana stupanja na snagu ovoga Zakona pravo na novčanu pomoć ostvarili u visini prema propisima o zapošljavanju koji su se primjenjivali do toga dana, od dana stupanja na snagu ovoga Zakona utvrdit će se pravo na novčanu pomoć u visini utvrđenoj ovim Zakonom.
