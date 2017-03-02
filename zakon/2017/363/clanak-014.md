@@ -1,0 +1,6 @@
+# Članak 14.
+(1) Zavodu se može prijaviti azilant i stranac pod supsidijarnom, odnosno privremenom zaštitom u Republici Hrvatskoj, kao i članovi njegove obitelji koji su u pravima i dužnostima utvrđenim ovim Zakonom izjednačeni s hrvatskim državljanima.
+(2) Iznimno se Zavodu može prijaviti i tražitelj međunarodne zaštite i članovi njegove obitelji ako ministarstvo nadležno za unutarnje poslove nije donijelo odluku o zahtjevu za međunarodnu zaštitu u roku od devet mjeseci od dana podnošenja urednog zahtjeva, a tražitelj svojim postupanjem nije utjecao na razloge nedonošenja odluke.
+(3) Osobe iz stavaka 1. i 2. ovoga članka prijavljuju se i evidentiraju u Zavodu prema mjestu boravka, odnosno adresi stanovanja.
+(4) Osobe iz stavka 1. ovoga članka prestaju se voditi u evidenciji Zavoda po prestanku azila, supsidijarne, odnosno privremene zaštite ako prije toga ne nastupe drugi razlozi za prestanak vođenja u evidenciji nezaposlenih osoba.
+(5) Osoba iz stavka 2. ovoga članka prestaje se voditi u evidenciji Zavoda kada ministarstvo nadležno za unutarnje poslove odbije zahtjev za međunarodnu zaštitu ako prije toga ne nastupe drugi razlozi za prestanak vođenja u evidenciji nezaposlenih osoba.

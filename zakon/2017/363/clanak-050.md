@@ -1,0 +1,6 @@
+# Članak 50.
+(1) Nezaposlena osoba može ponovno steći pravo na novčanu naknadu ako nakon prestanka prava na novčanu naknadu ispuni uvjete utvrđene u članku 37. ovoga Zakona.
+(2) Nezaposlenoj osobi kojoj je pravo na novčanu naknadu prestalo ponovnim zapošljavanjem, odnosno obavljanjem samostalne djelatnosti, prije isteka vremena u kojem je imala pravo na novčanu naknadu, a koja je ponovno ostala nezaposlena, osim zbog razloga utvrđenih u člancima 39. i 41. ovoga Zakona, nastavlja se isplaćivanje novčane naknade za onoliko vremena koliko joj je preostalo za primanje i u utvrđenoj visini.
+(3) Iznimno od stavka 2. ovoga članka, nezaposlenoj osobi iz članka 45. stavka 2. ovoga Zakona koja se ponovno zaposlila duže od tri mjeseca nastavlja se isplaćivanje novčane naknade za onoliko vremena koliko joj je preostalo za primanje te naknade i u visini utvrđenoj prema novoj osnovici sukladno članku 42. stavcima 1. i 2. ovoga Zakona, ako je to za nju povoljnije.
+(4) Nezaposlenoj osobi prilikom ponovnog stjecanja prava na novčanu naknadu u vrijeme provedeno na radu, prema članku 45. stavcima 3. i 4. ovoga Zakona, uračunava se samo vrijeme provedeno na radu poslije prestanka posljednjega utvrđenog prava na ovu naknadu.
+2. Mirovinsko osiguranje

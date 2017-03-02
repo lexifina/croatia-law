@@ -1,0 +1,6 @@
+# Članak 59.
+(1) Hrvatski državljanin koji je bio zaposlen u inozemstvu ostvaruje pravo na novčanu naknadu za vrijeme nezaposlenosti u skladu s odredbama međunarodnog ugovora.
+(2) U postupku utvrđivanja i ostvarivanja prava kao i utvrđivanje visine novčane naknade nezaposlenim osobama iz stavka 1. ovoga članka, osim odredbi međunarodnog ugovora, primjenjuju se i odredbe ovoga Zakona.
+(3) Hrvatski državljanin koji je radio u državi s kojom Republika Hrvatska nema zaključen ugovor kojim su regulirana prava za slučaj nezaposlenosti, odnosno u državi u kojoj nije bio osiguran za slučaj nezaposlenosti, može ostvariti novčanu naknadu prema odredbama ovoga Zakona ako je doprinos za zapošljavanje plaćao Zavodu za vrijeme od najmanje devet mjeseci u posljednjih 24 mjeseca prije prestanka zaposlenja u inozemstvu.
+(4) Osoba iz stavka 3. ovoga članka o stjecanju statusa osiguranika i preuzimanju obveze uplate posebnog doprinosa sklapa ugovor sa Zavodom.
+(5) Osnovicu za utvrđivanje visine novčane naknade za osobe iz stavka 3. ovoga članka čini prosjek najniže mjesečne osnovice za obračun doprinosa za obvezna osiguranja utvrđene posebnim propisom, u tromjesečnom razdoblju koje je prethodilo prestanku zaposlenja u inozemstvu.

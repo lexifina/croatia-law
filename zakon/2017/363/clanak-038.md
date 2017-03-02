@@ -1,0 +1,6 @@
+# Članak 38.
+(1) Pravo na novčanu naknadu stječe nezaposlena osoba:
+1) kojoj je prestao radni odnos, ako se prijavi Zavodu i podnese zahtjev u roku od 30 dana od dana prestanka radnog odnosa, prestanka privremene nesposobnosti za rad, odnosno rodiljnog, roditeljskog, posvojiteljskog ili skrbničkog dopusta nakon prestanka radnog odnosa ili
+2) koja je prestala obavljati samostalnu djelatnost, ako se prijavi Zavodu i podnese zahtjev u roku od 30 dana od dana prestanka obavljanja samostalne djelatnosti, prestanka privremene nesposobnosti za rad, odnosno rodiljnog, roditeljskog, posvojiteljskog ili skrbničkog dopusta nakon prestanka obavljanja samostalne djelatnosti.
+(2) Nezaposlena osoba koja zbog opravdanog razloga propusti rok za prijavu iz stavka 1. ovoga članka, može se prijaviti i podnijeti zahtjev Zavodu u roku od osam dana od dana prestanka razloga koji je prouzročio propuštanje roka, a najkasnije 60 dana od propuštanja roka iz stavka 1. ovoga članka.
+(3) Iznimno od stavaka 1. i 2. ovoga članka, nezaposlena osoba kojoj je radni odnos prestao na temelju odluke nadležnog suda stječe pravo na novčanu naknadu ako se prijavi Zavodu i podnese zahtjev u roku od 60 dana od dana pravomoćnosti iste.
