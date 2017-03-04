@@ -1,0 +1,3 @@
+# Članak 50.
+U Službi za računovodstvo se organiziraju, koordiniraju i prate svi stručni i operativni poslovi vezani uz sustav Državne riznice, izradu financijskih izvješća za Ministarstvo u skladu sa zakonom, kao i konsolidiranih izvješća za ustanove kulture, te se vrši obračun plaća, ugovora o djelu i autorskih honorara, te obavljaju poslovi vezani uz vođenje svih knjigovodstvenih evidencija i obradu financijske dokumentacije, knjiženje i izradu bilance u skladu sa zakonom i Pravilnikom o proračunskom računovodstvu i računskom planu; obavljaju se i drugi poslovi u okviru djelokruga.
+6.3. Sektor za programe i projekte

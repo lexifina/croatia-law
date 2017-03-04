@@ -1,0 +1,2 @@
+# Članak 40.
+Služba za knjižničnu djelatnost obavlja stručne i upravne poslove vezane uz djelatnost knjižnica i knjižničarstva, praćenje stanja i poduzimanje mjera za unaprjeđenje u tom području te uspostavlja koordinaciju razvoja i implementaciju mreže knjižnica. U Službi se vodi upisnik o knjižnicama i knjižnicama u sastavu u skladu sa Zakonom o knjižnicama, te se obavljaju i drugi poslovi u okviru djelokruga.

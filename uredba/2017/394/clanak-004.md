@@ -1,0 +1,7 @@
+## 2. GLAVNO TAJNIŠTVO
+# Članak 4.
+U Glavnom tajništvu obavljaju se poslovi u vezi s organizacijom i tehničkim usklađivanjem rada unutarnjih ustrojstvenih jedinica u sastavu Ministarstva, utvrđivanjem godišnjeg plana rada Ministarstva, poduzimanjem mjera za osiguranje učinkovitosti u radu Ministarstva, te pravni poslovi, upravni i stručni poslovi vezani za planiranje, razvoj i upravljanje ljudskim potencijalima. U Glavnom tajništvu se također obavljaju poslovi javne nabave, informatizacije, te opći, pomoćni i tehnički poslovi vezani za uredno i pravilno korištenje imovine i sredstava za rad, prijepisa i umnožavanja, pisarnice, otpreme i pismohrane, ekonomata, održavanja prostora, opreme i čistoće. Glavno tajništvo s ostalim ustrojstvenim jedinicama sudjeluje u poslovima upravljanja i raspolaganja dionicama i poslovnim udjelima trgovačkih društava koji čine državnu imovinu u vlasništvu Republike Hrvatske, a u pogledu trgovačkih društava koja se pretežno bave djelatnostima iz područja propisane nadležnosti Ministarstva, te surađuje sa Službom za strateško planiranje i analitiku u poslovima razvoja sustava unutarnjih kontrola, koordinira aktivnosti iz djelokruga Ministarstva vezane za provedbu Zakona o sustavu civilne zaštite i sudjeluje u utvrđivanju Godišnjeg plana rada koji sadrži opći prikaz zadaća i poslova Ministarstva u određenoj godini.
+Za obavljanje poslova Glavnog tajništva ustrojavaju se:
+2.1. Služba za informatizaciju
+2.2. Sektor za ljudske potencijale, javnu nabavu i tehničke poslove.
+2.1. Služba za informatizaciju

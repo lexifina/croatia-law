@@ -1,0 +1,3 @@
+# Članak 5.
+U Službi za informatizaciju obavljaju se stručni i tehnički poslovi održavanja osobnih računala i računalne mreže Ministarstva, predlaže se nabava potrebne opreme (hardver i softver) te predlažu mjere i organizacija informatizacije, pruža se pomoć i potpora korisnicima informatičkih resursa, primjenjuju sigurnosna pravila sukladno zakonskim propisima, obavljaju se poslovi vezani za provedbu Zakona o informacijskoj sigurnosti, izrađuju se izvješća i pripremaju mišljenja o dostavljenim materijalima u okviru djelokruga, te se osiguravaju sistemske funkcije informatičke infrastrukture za informatizaciju poslovnih funkcija.
+2.2. Sektor za ljudske potencijale, javnu nabavu i tehničke poslove

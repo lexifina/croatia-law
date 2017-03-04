@@ -1,0 +1,2 @@
+# Članak 58.
+Služba za web i Culturenet obavlja stručne i tehničke poslove održavanja i razvoja web-centra hrvatske kulture i web-stranica Ministarstva, sustavno prati internetizaciju kulturnih ustanova, udruga i projekata (e-kulturu), koordinira mrežu postojećih i nastajućih hrvatskih kulturnih internetskih portala, u suradnji s Vijećem projekta predlaže smjernice razvoja projekta i njegova uključivanja u međunarodne (virtualne) informacijsko-istraživačke mreže na području kulture.

@@ -1,0 +1,2 @@
+# Članak 19.
+U Službi za UNESCO obavljaju se poslovi usklađivanja djelatnosti Hrvatskog povjerenstva za UNESCO i Stalne misije Republike Hrvatske pri UNESCO-u, koordinacije rada i sudjelovanja članova Povjerenstva u aktivnostima UNESCO-a na međunarodnoj razini, koordinacije aktivnosti između Povjerenstva, Vlade Republike Hrvatske, nadležnih ministarstava i odgovarajućih institucija sa Stalnom misijom pri UNESCO-u, Tajništvom UNESCO-a i nacionalnih povjerenstava država članica, te drugi poslovi u okviru djelokruga.

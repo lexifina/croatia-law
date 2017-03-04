@@ -1,0 +1,7 @@
+## Europske unije
+# Članak 51.
+Sektor za programe i projekte Europske unije obavlja stručne, administrativne i upravno-pravne poslove koji se odnose na pripremu, provedbu, praćenje, vrednovanje, razvoj i koordinaciju programa i projekata financiranih sredstvima Europske unije; koordinira i izrađuje strateške i operativne dokumente iz djelokruga rada Sektora; utvrđuje programske prioritete za korištenje sredstava Europske unije; sudjeluje u poslovima uspostave i unaprjeđenja sustava upravljanja i kontrole korištenja Europskih strukturnih i investicijskih fondova (ESI fondovi) te surađuje s ostalim tijelima u sustavu upravljanja i kontrole korištenja ESI fondova; sudjeluje u planiranju proračuna koje je povezano s korištenjem sredstava Europske unije; provodi mjere informiranja i vidljivosti; prati nacionalne i međunarodne propise i dokumente iz svoga djelokruga; obavlja poslove u vezi s korištenjem tehničke pomoći Europske unije; surađuje s ostalim ustrojstvenim jedinicama Ministarstva, drugim nadležnim ministarstvima, institucijama i civilnim društvom u cjelini; sudjeluje u radu relevantnih tijela u Republici Hrvatskoj i na međunarodnoj razini te obavlja i druge poslove iz svoga djelokruga.
+Za obavljanje poslova Sektora za programe i projekte Europske unije ustrojavaju se:
+6.3.1. Služba za pripremu, provedbu, praćenje i vrednovanje programa i projekata Europske unije
+6.3.2. Služba za razvoj i koordinaciju programa i projekata Europske unije.
+6.3.1. Služba za pripremu, provedbu, praćenje i vrednovanje programa i projekata Europske unije

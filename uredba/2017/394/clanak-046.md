@@ -1,0 +1,3 @@
+# Članak 46.
+U Odjelu za praćenje obavljanja upravno-pravnih poslova obavljaju se poslovi u vezi s vođenjem postupka davanja koncesija iz djelokruga Ministarstva, pružanjem stručne pomoći ustanovama kulture te drugim pravnim i fizičkim osobama te poslovi koji se odnose na provedbu upravnog nadzora i nadzora nad zakonitošću rada i općih akata u području djelatnosti državnih arhiva, knjižnica, muzeja i ustanova za zaštitu i očuvanje kulturnih dobara, te audiovizualne djelatnosti kojima je osnivač Republika Hrvatska, nacionalnih kazališta i nacionalnih kazališnih družina, kao i u području javnog informiranja sukladno posebnim zakonima. Obavljaju se i drugi poslovi u okviru djelokruga.
+6.2. Sektor za financijske poslove, investicije, lokalni i područni (regionalni) razvoj
