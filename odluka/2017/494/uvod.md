@@ -1,0 +1,1 @@
+Na temelju članka 9. Zakona o financiranju javnih potreba u kulturi (»Narodne novine«, br. 47/90, 27/93 i 38/09) i članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/11, 119/14 i 93/16), Vlada Republike Hrvatske je na sjednici održanoj 8. ožujka 2017. godine donijela
