@@ -1,0 +1,4 @@
+# Članak 4.
+(1) Lemljenje mješovitog predmeta od plemenite kovine sastavljenog od jedne plemenite kovine različitog stupnja čistoće izvodi se sredstvom za lemljenje od plemenite kovine čiji stupanj čistoće ne može biti manji od najnižeg stupnja čistoće plemenite kovine od koje se sastoji mješoviti predmet od plemenite kovine.
+(2) Lemljenje mješovitog predmeta od plemenite kovine sastavljenog od različitih plemenitih kovina izvodi se sredstvom za lemljenje od plemenite kovine čiji stupanj čistoće ne može biti manji od stupnja čistoće plemenite kovine najnižeg stupnja plemenitosti od koje se sastoji mješoviti predmet od plemenite kovine.
+(3) Lemljenje mješovitih predmeta sastavljenih od plemenite i neplemenite kovine izvodi se bilo kojim odgovarajućim sredstvom za lemljenje uključujući i sredstvo za lemljenje od neplemenite kovine.
