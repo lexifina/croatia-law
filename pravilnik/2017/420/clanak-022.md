@@ -1,0 +1,3 @@
+## Pojam vlasnički udjel
+# Članak 22.
+Vlasnički udjel podrazumijeva, u slučaju partnerstva koje je financijska institucija, udjel u kapitalu ili udjel u dobiti na temelju partnerstva. U slučaju trusta koji je financijska institucija, vlasnički udjel smatra se udjelom koji drži osoba koju se smatra vlasnikom imovine ili korisnikom trusta u cijelosti ili njegova dijela ili svaka druga fizička osoba koja ima stvarnu kontrolu nad trustom. Osoba o kojoj se izvješćuje smatrat će se korisnikom trusta ako takva osoba ima pravo izravno ili neizravno (osobito posredstvom ovlaštene osobe) primati obveznu raspodjelu imovine ili može primiti, izravno ili neizravno, diskrecijsku raspodjelu imovine iz trusta.

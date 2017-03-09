@@ -1,0 +1,2 @@
+# Članak 77.
+Ako se na temelju izjave o rezidentnosti utvrdi da je imatelj računa rezident u svrhu oporezivanja u državi članici i/ili drugoj jurisdikciji, izvještajne financijske institucije obvezne su račun smatrati računom o kojem se izvješćuje, a izjava o rezidentnosti imatelja računa mora sadržavati porezni identifikacijski broj imatelja računa s obzirom na tu državu članicu i/ili drugu jurisdikciju, osim u slučaju da dotična država članica i/ili druga jurisdikcija rezidentnosti ne izdaje porezni identifikacijski broj te mora sadržavati datum rođenja.

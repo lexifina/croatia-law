@@ -1,0 +1,3 @@
+## Pojam osoba države članice ili druge jurisdikcije
+# Članak 33.
+Osoba države članice i/ili druge jurisdikcije, u odnosu na svaku državu članicu i/ili drugu jurisdikciju podrazumijeva fizičku osobu ili subjekt koji je rezident u bilo kojoj drugoj državi članici i/ili drugoj jurisdikciji, u skladu s poreznim zakonima te druge države članice i/ili druge jurisdikcije, ili ostavštinu preminule osobe koja je bila rezident bilo koje druge države članice i/ili druge jurisdikcije. U tu svrhu, subjekt kao što je partnerstvo, partnerstvo s ograničenom odgovornošću ili slični pravni aranžman koji nema rezidentnost u svrhu oporezivanja smatra se rezidentom u jurisdikciji u kojoj se nalazi mjesto njegove stvarne uprave.

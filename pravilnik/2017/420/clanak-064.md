@@ -1,0 +1,4 @@
+## Promjene okolnosti i vrijednosti računa
+# Članak 64.
+(1) Ako se elektroničkim pretraživanjem ne otkrije ni jedna indicija iz članka 63. ovoga Pravilnika tada nije potrebno poduzimati dodatne mjere sve dok ne nastupe izmijenjene okolnosti na temelju kojih se jedna ili više indicija može povezati s računom ili dok račun ne postane račun velike vrijednosti.
+(2) Ako se elektroničkim pretraživanjem podataka otkrije bilo koja indicija iz članka 63. ovoga Pravilnika ili izmijenjene okolnosti dovedu do toga da se jedna ili više indicija mogu povezati s računom, tada je izvještajna financijska institucija obvezna imatelja računa u svrhu oporezivanja smatrati rezidentom u svakoj državi članici i/ili drugoj jurisdikciji za koju je utvrđena indicija, osim ako odluči primijeniti odredbe članka 66. ovoga Pravilnika i ako se jedan od uvjeta iz tog članka primjenjuje na taj račun.

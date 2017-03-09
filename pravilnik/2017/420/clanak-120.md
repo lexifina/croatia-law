@@ -1,0 +1,4 @@
+## Broj zaposlenih
+# Članak 120.
+(1) U desetom stupcu predloška, multinacionalno poduzeće koje podnosi izvješće navodi ukupan broj zaposlenika na temelju ekvivalenta punog radnog vremena za sve sastavne subjekte koji su u svrhu oporezivanja rezidenti u predmetnoj poreznoj jurisdikciji. Može se prijavljivati broj zaposlenika na kraju godine na temelju prosječne stope nezaposlenosti za godinu ili na nekoj drugoj osnovi koja se dosljedno primjenjuje u poreznim jurisdikcijama i iz godine u godinu.
+(2) U tu svrhu, vanjski suradnici koji sudjeluju u redovnom poslovanju sastavnog subjekta mogu se prijavljivati kao zaposlenici. Dopušteno je razumno zaokruživanje ili navođenje okvirnog broja zaposlenika ako se takvim zaokruživanjem ili navođenjem okvirnog broja znatno ne narušava relativna podjela zaposlenika prema različitim poreznim jurisdikcijama. Primjenjuju se dosljedni pristupi iz godine u godine i na različite subjekte.

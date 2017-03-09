@@ -1,0 +1,5 @@
+# Članak 103.
+(1) Sastavni subjekt iz članka 102. ovoga Pravilnika obvezan je od svojega krajnjeg matičnog društva zatražiti dostavu svih informacija koje su mu potrebne kako bi ispunio svoje obveze i podnio izvješće po državama u skladu s člankom 34. stavkom 1. Zakona.
+(2) Ako sastavni subjekt iz članka 102. ovoga Pravilnika nije zaprimio ili prikupio sve tražene informacije za izvješće za skupinu multinacionalnih poduzeća, taj sastavni subjekt podnosi izvješće po državama koje sadrži sve informacije koje posjeduje, koje je dobio ili prikupio.
+(3) Sastavni subjekt iz članka 102. ovoga Pravilnika obvezan je Ministarstvo financija, Poreznu upravu izvijestiti o tome da je krajnje matično društvo odbilo dostaviti potrebne informacije najkasnije u roku od 12 mjeseci od posljednjeg dana izvještajne porezne godine za koju se izvješće po državama podnosi.
+(4) Ministarstvo financija, Porezna uprava o odbijanju dostave informacija u skladu sa stavkom 3. ovoga članka izvješćuje sve države članice.

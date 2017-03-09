@@ -1,0 +1,4 @@
+## Promjena u račun velike vrijednosti
+# Članak 72.
+(1) Ako na dan 31. prosinca 2015. postojeći račun fizičke osobe nije račun velike vrijednosti, ali postane račun velike vrijednosti na posljednji dan sljedeće kalendarske godine, izvještajne financijske institucije obvezne su provesti postupak napredne provjere tog računa iz članaka 67. do 74. ovoga Pravilnika, u kalendarskoj godini koja slijedi nakon godine u kojoj je taj račun postao račun velike vrijednosti.
+(2) Ako se na temelju provjere iz stavka 1. ovoga članka za takav račun utvrdi da je račun o kojemu se izvješćuje, izvještajne financijske institucije obvezne su dostaviti tražene informacije o takvom računu s obzirom na godinu u kojoj je utvrđeno da se radi o računu o kojem se izvješćuje i za sljedeće godine na godišnjoj razini, osim ako imatelj računa prestane biti osoba o kojoj se izvješćuje.

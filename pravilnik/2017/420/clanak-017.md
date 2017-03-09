@@ -1,0 +1,5 @@
+## Pojam kvalificirani izdavatelj kreditne kartice
+# Članak 17.
+Kvalificirani izdavatelj kreditne kartice podrazumijeva financijsku instituciju koja zadovoljava sljedeće uvjete:
+1. financijska institucija je financijska institucija jedino zbog toga što je izdavatelj kreditnih kartica koji prima depozite samo u slučaju kada stranka vrši uplate u iznosu većem od iznosa koji dospijeva na naplatu po kartici i taj se više uplaćeni iznos ne vraća strankama istoga trenutka i
+2. počevši od 1. siječnja 2016. ili prije tog datuma, financijska institucija provodi politike i postupke bilo da bi se stranku spriječilo da preplati iznos koji prelazi kunski iznos koji odgovara iznosu od 50.000,00 USD, bilo da bi se u roku od 60 dana osigurao povrat svakog više uplaćenog iznosa stranke koji prelazi navedeni iznos, pri čemu se u svakom slučaju primjenjuju pravila za agregiranje računa i preračunavanje valuta iz članka 94. ovoga Pravilnika. Za ovu potrebu više uplaćeni iznos stranke ne odnosi se na potražna salda u iznosu osporenih naknada, ali zato uključuje potražna salda koja su nastala zbog vraćanja robe i otkazivanja usluga.

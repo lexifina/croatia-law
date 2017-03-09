@@ -1,0 +1,7 @@
+## Izvor podataka
+# Članak 112.
+(1) Multinacionalno poduzeće koje podnosi izvješće svake godine upotrebljava iste izvore podataka za ispunjavanje predloška izvješća po državama.
+(2) Multinacionalno poduzeće koje podnosi izvješće može odlučiti upotrijebiti podatke iz svojih konsolidiranih paketa za izvješćivanje, iz zakonskih financijskih izvještaja pojedinih subjekata, iz regulatornih financijskih izvještaja ili izvještaja o unutarnjem upravljanju.
+(3) U predlošku izvješća po državama nije nužno uskladiti podatke o prihodima, dobiti i porezu s konsolidiranim financijskim izvještajima. Ako se zakonski financijski izvještaji upotrebljavaju kao osnova za izvješćivanje, svi iznosi preračunavaju se u navedenu funkcionalnu valutu multinacionalnih poduzeća koja podnose izvješće prema srednjem tečaju za godinu navedenu u rubrici »Dodatne informacije« u predlošku izvješća po državama.
+(4) Prilagodbe zbog razlika u računovodstvenim načelima koja se primjenjuju u različitim poreznim jurisdikcijama nisu potrebne.
+(5) Multinacionalno poduzeće koje podnosi izvješće po državama dostavlja kratak opis izvora podataka koje je upotrebljavao za pripremu predloška izvješća u rubrici »Dodatne informacije« u predlošku izvješća po državama. Ako se izvrši promjena u izvoru podataka koji se upotrebljavaju iz godine u godinu, multinacionalno poduzeće koje podnosi izvješće mora objasniti razloge za promjenu i posljedice promjena u rubrici »Dodatne informacije« u predlošku izvješća po državama.

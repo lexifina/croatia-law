@@ -1,0 +1,3 @@
+## Pojam depozitni račun
+# Članak 20.
+Depozitni račun podrazumijeva svaki poslovni, tekući ili štedni račun, račun s oročenjem ili račun za uplatu mirovina državnim službenicima ili pripadnicima vojnih snaga ili račun otvoren uz certifikat o depozitu, potvrdu o mirovini državnih službenika i pripadnika vojnih snaga, potvrdu o ulaganju, potvrdu o zaduženosti ili drugi sličan instrument koji financijska institucija izdaje u okviru redovnog bankarskog ili sličnog poslovanja. Depozitni račun obuhvaća i iznos koji društvo za osiguranje drži na temelju ugovora o zajamčenom ulaganju ili sličnom sporazumu o isplati kamata u gotovini, uplati ili pripisu na račun.

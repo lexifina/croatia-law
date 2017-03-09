@@ -1,0 +1,9 @@
+## Zamjensko matično društvo
+# Članak 105.
+(1) Subjekt iz članka 102. ovoga Pravilnika nije obvezan podnijeti izvješće po državama za bilo koju izvještajnu poreznu godinu, ako se primjenjuje najmanje jedan uvjet iz članka 102. ovoga Pravilnika, a skupina multinacionalnih poduzeća imenovala je zamjensko matično društvo koje podnosi izvješće po državama u skladu s člankom 34. stavkom 1. Zakona i u roku iz članka 106. stavka 1. ovoga Pravilnika poreznom tijelu u jurisdikciji u kojoj je rezident u svrhu oporezivanja i koje, u slučaju da je zamjensko matično društvo porezni rezident u jurisdikciji izvan Europske unije, zadovoljava sljedeće uvjete:
+1. jurisdikcija u kojoj je zamjensko matično društvo rezident u svrhu oporezivanja zahtijeva podnošenje izvješća po državama u skladu sa zahtjevima iz članka 34. stavka 1. Zakona
+2. jurisdikcija u kojoj je zamjensko matično društvo rezident u svrhu oporezivanja sklopila je sporazum između nadležnih tijela čija je Republika Hrvatska stranka do roka iz članka 106. stavka 1. ovoga Pravilnika za podnošenje izvješća po državama za izvještajnu poreznu godinu
+3. jurisdikcija u kojoj je zamjensko matično društvo rezident u svrhu oporezivanja nije obavijestila Republiku Hrvatsku o grešci u sustavu
+4. jurisdikcija u kojoj je zamjensko matično društvo rezident u svrhu oporezivanja primila je obavijest sastavnog subjekta koji je u toj jurisdikciji rezident u svrhu oporezivanja, da je on zamjensko matično društvo, najkasnije posljednjeg dana izvještajne porezne godine te skupine multinacionalnih poduzeća
+5. Ministarstvu financija, Poreznoj upravi dostavljena je obavijest u skladu s člankom 107. stavkom 2. ovoga Pravilnika.
+(2) Zamjensko matično društvo koje je u svrhu oporezivanja rezident u Republici Hrvatskoj podnosi izvješće po državama iz članka 34. stavka 1. Zakona u roku iz članka 106. stavka 1. ovoga Pravilnika.
