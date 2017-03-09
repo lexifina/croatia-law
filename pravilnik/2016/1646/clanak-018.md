@@ -1,4 +1,0 @@
-# Članak 18.
-(1) Ako se elektroničkim pretraživanjem za imatelja računa utvrdi nalog za zadržavanje pošte ili adresa iz usluge u državi članici i drugoj jurisdikciji i nijedna druga indicija iz članka 16. ovoga Pravilnika tada je izvještajna financijska institucija obvezna, prema redoslijedu koji je najprikladniji s obzirom na okolnosti, primijeniti pretraživanje evidencija koje se vode na papiru u skladu s člankom 21. ovoga Pravilnika, ili je obvezna nastojati od imatelja računa pribaviti izjavu o rezidentnosti ili drugi dokumentirani dokaz radi utvrđivanja rezidentnosti u porezne svrhe tog imatelja računa.
-(2) Ako se pretraživanjem evidencija na papiru ne utvrdi indicija, a pokušaj dobivanja izjave o rezidentnosti ili dokumentiranog dokaza ne bude uspješan, tada je izvještajna financijska institucija obvezna izvijestiti Poreznu upravu o tom računu kao o nedokumentiranom računu.
-2.1.6. Opovrgavanje rezidentnosti u državi članici i drugoj jurisdikciji

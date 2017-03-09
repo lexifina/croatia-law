@@ -1,3 +1,0 @@
-# Članak 61.
-Mirovinski fond tijela javne vlasti, međunarodne organizacije ili središnje banke podrazumijeva fond koji je osnovalo tijelo javne vlasti, međunarodna organizacija ili središnja banka kako bi osiguralo isplatu mirovina i invalidskih naknada u slučaju smrti korisnicima ili članovima koji su sadašnji ili bivši zaposlenici (ili osobe koje su takvi zaposlenici odredili), ili koji nisu sadašnji ili bivši zaposlenici, ako se naknade pružaju takvim korisnicima ili članovima kao naknada za osobne usluge koje obavljaju za tijelo javne vlasti, međunarodnu organizaciju ili središnju banku.
-7.13. Kvalificirani izdavatelj kreditne kartice

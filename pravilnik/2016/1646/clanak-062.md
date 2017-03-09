@@ -1,5 +1,0 @@
-# Članak 62.
-Kvalificirani izdavatelj kreditne kartice podrazumijeva financijsku instituciju koja zadovoljava sljedeće kriterije:
-1. financijska institucija je financijska institucija jedino zbog toga što je izdavatelj kreditnih kartica koji prima depozite samo kada stranka vrši uplate u iznosu većem od iznosa koji dospijeva na naplatu po kartici i taj se više uplaćeni iznos ne vraća strankama istoga trenutka i
-2. počevši od 1. siječnja 2016. ili prije tog datuma, financijska institucija provodi politike i postupke bilo da bi se stranku spriječilo da preplati iznos koji prelazi kunski iznos koji odgovara iznosu od 50.000 USD, bilo da bi se osiguralo da se u roku od 60 dana izvrši povrat svakog više uplaćenog iznosa stranke koji prelazi navedeni iznos, pri čemu se u svakom slučaju primjenjuju pravila za agregiranje računa i preračunavanje valuta iz članka 48. ovoga Pravilnika. Za ovu potrebu više uplaćeni iznos stranke ne odnosi se na potražna salda u iznosu osporenih naknada, ali zato uključuje potražna salda koja su nastala zbog vraćanja robe i otkazivanja usluga.
-7.14. Izuzeti subjekt za zajednička ulaganja

@@ -1,4 +1,0 @@
-# Članak 17.
-(1) Ako se elektroničkim pretraživanjem ne otkrije ni jedna indicija iz članka 16. ovoga Pravilnika tada nije potrebno poduzimati dodatne mjere sve dok ne nastupe izmijenjene okolnosti na temelju kojih se jedna ili više indicija može povezati s računom ili dok račun ne postane račun velike vrijednosti.
-(2) Ako se elektroničkim pretraživanjem podataka otkrije bilo koja indicija iz članka 16. ovoga Pravilnika ili izmijenjene okolnosti dovedu do toga da se jedna ili više indicija mogu povezati s računom, tada je izvještajna financijska institucija obvezna imatelja računa u svrhu oporezivanja smatrati rezidentom u svakoj državi članici i drugoj jurisdikciji za koju je utvrđena indicija, osim ako odluči primijeniti odredbe članka 19. ovoga Pravilnika i ako se jedan od uvjeta iz tog članka primjenjuje na taj račun.
-2.1.5. Posebna pravila kod naloga za zadržavanja pošte ili adrese iz usluge
