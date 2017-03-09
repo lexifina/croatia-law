@@ -1,0 +1,6 @@
+# Članak 21.
+Članak 81. mijenja se i glasi:
+»(1) U svrhu izrade glavnog projekta za građenje građevine za koju se prema posebnom zakonu ne izdaje lokacijska dozvola javnopravno tijelo određeno posebnim propisom po zahtjevu investitora utvrđuje posebne uvjete u slučaju u kojem je to propisano posebnim propisom.
+(2) U zahtjevu za utvrđivanje posebnih uvjeta navode se podaci koji su u smislu posebnog propisa potrebni za utvrđivanje posebnih uvjeta ili se uz zahtjev prilaže opis i grafički prikaz namjeravanog zahvata u prostoru koji sadrži, odnosno prikazuje podatke koji su u smislu posebnog propisa potrebni za utvrđivanje posebnih uvjeta, a kojega izrađuje ovlašteni arhitekt, odnosno ovlašteni inženjer odgovarajuće struke.
+(3) Javnopravno tijelo dužno je na zahtjev investitora utvrditi posebne uvjete ili zahtjev za njihovo utvrđivanje rješenjem odbiti u roku od petnaest dana od dana primitka urednog zahtjeva.
+(4) Javnopravno tijelo od investitora ne može u svrhu utvrđivanja posebnih uvjeta tražiti plaćanje predujma troškova, odnosno troškova utvrđivanja posebnih uvjeta, osim plaćanja upravne pristojbe niti dostavu, odnosno izradu drugih dokumenata ili elaborata, osim opisa i grafičkog prikaza namjeravanog zahvata u prostoru iz stavka 2. ovoga članka ili elaborata koji je prema posebnom zakonu uvjet za utvrđivanje posebnih uvjeta.«.

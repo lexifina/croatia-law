@@ -1,0 +1,6 @@
+# Članak 33.
+Iza članka 106. dodaje se članak 106.a koji glasi:
+»Članak 106.a
+(1) Investitor je dužan ishoditi izmjenu i/ili dopunu građevinske dozvole ako tijekom građenja namjerava na građevini učiniti izmjene kojima se mijenja usklađenost građevine s utvrđenim lokacijskim uvjetima.
+(2) Izmjene tijekom građenja kojima se utječe na ispunjavanje bilo kojeg temeljnog zahtjeva za građevinu, osim na temeljni zahtjev sigurnosti u slučaju požara, a kojima se ne mijenja usklađenost građevine s utvrđenim lokacijskim uvjetima, investitor može učiniti na temelju izmjene i/ili dopune glavnog projekta koji je sastavni dio građevinske dozvole na temelju koje se gradi, s time da izmjenu i/ili dopunu građevinske dozvole ishodi prije podnošenja zahtjeva za izdavanje uporabne dozvole.
+(3) Izmjene tijekom građenja kojima se utječe na ispunjavanje temeljnog zahtjeva sigurnosti u slučaju požara, a kojima se ne mijenja usklađenost građevine s utvrđenim lokacijskim uvjetima, investitor može učiniti na temelju izmjene i/ili dopune glavnog projekta koji je sastavni dio građevinske dozvole na temelju koje se gradi za koje je javnopravno tijelo nadležno za zaštitu od požara izdalo potvrdu o usklađenosti s posebnim uvjetima zaštite od požara, s time da izmjenu i/ili dopunu građevinske dozvole ishodi prije podnošenja zahtjeva za izdavanje uporabne dozvole.«.

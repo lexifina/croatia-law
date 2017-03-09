@@ -1,0 +1,5 @@
+# Članak 35.
+U članku 109. stavak 5. mijenja se i glasi:
+»(5) Dokazom pravnog interesa za izdavanje građevinske dozvole u slučajevima iz stavaka 1. i 2. ovoga članka smatra se i odluka Vlade Republike Hrvatske o utvrđivanju interesa Republike Hrvatske ili poziv na odredbu posebnog zakona kojom je utvrđen interes Republike Hrvatske za građenje građevine za koju je zatražena građevinska dozvola, ako je investitor podnio zahtjev za izvlaštenje, odnosno ako je investitor podnio zahtjev za rješavanje imovinskopravnih odnosa na zemljištu, građevinama ili drugim nekretninama u vlasništvu Republike Hrvatske, jedinice područne (regionalne) ili lokalne samouprave.«.
+Iza stavka 5. dodaje se stavak 6. koji glasi:
+»(6) Dokazom pravnog interesa za izdavanje građevinske dozvole za građenje građevine čije je građenje u interesu Republike Hrvatske na javnoj cesti, nerazvrstanoj cesti, željezničkoj infrastrukturi i javnom vodnom dobru smatra se suglasnost osobe, odnosno tijela koje upravlja tom cestom, infrastrukturom, odnosno javnim vodnim dobrom.«.

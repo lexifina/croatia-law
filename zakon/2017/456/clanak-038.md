@@ -1,0 +1,3 @@
+# Članak 38.
+U članku 116. stavku 1. iza riječi: »nekretnina« dodaje se zarez i riječi: »odnosno ako se građevinska dozvola izdaje za građenje građevine na građevnoj čestici koja se formira od deset ili više nekretnina ili za građenje građevine unutar obuhvata zahvata u prostoru koji se sastoji od deset ili više nekretnina«.
+U stavku 2. iza riječi: »dostavom« briše se točka, dodaju se zarez i riječi: »osim u slučaju u kojem je takva dostava nemoguća ili neprikladna, a osobito osobama čija adresa nije upisana u zemljišnoj knjizi niti katastru, nepoznatim nasljednicima i osobama nepoznata boravišta, odnosno sjedišta, a kojima se poziv dostavlja na način propisan stavkom 1. ovoga članka.«.
