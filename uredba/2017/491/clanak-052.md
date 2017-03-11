@@ -1,0 +1,7 @@
+# Članak 52.
+Sektor za upravljanje horizontalnim procesima koordinira, upravlja i kontrolira poslovne procese, obavlja stručne, administrativne i druge poslove koji se odnose na osiguravanje provedbe mjera informiranja i vidljivosti, koordinira pripremu i provedbu projekata tehničke pomoći u okviru operativnih programa, koordinira pripremu i izradu strateških programskih dokumenata za korištenje sredstava iz ESI fondova, koordinira postupak pripreme i revizije operativnih programa, planira, koordinira i upravlja financijskim instrumentima, u suradnji s Upravljačkim tijelom Operativnog programa Kohezija i konkurentnost (UT KK) i ostalim nadležnim tijelima sustava i kontrole, sudjeluje u koordinacijskim Odborima i povezanim aktivnostima, prati domaće i međunarodne propise iz svog djelokruga, sudjeluje u radu relevantnih tijela u Republici Hrvatskoj i na međunarodnoj razini u vezi s fondovima Europske unije, sudjeluje u izradi godišnjeg plana rada, prati provođenje nacionalnih strategija i akcijskih planova iz svog djelokruga, sudjeluje u planiranju državnog proračuna i u izradi strateškog plana Ministarstva, te obavlja i druge poslove u okviru svog djelokruga.
+U Sektoru za upravljanje horizontalnim procesima ustrojavaju se:
+6.3.1. Služba za informiranje i tehničku pomoć
+6.3.2. Služba za programiranje i financijske instrumente
+6.3.3. Služba za analitiku i provedbu EU programa.
+6.3.1. Služba za informiranje i tehničku pomoć

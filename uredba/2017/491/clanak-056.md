@@ -1,0 +1,6 @@
+# Članak 56.
+Služba za programiranje i financijske instrumente koordinira, upravlja i kontrolira poslovne procese, obavlja stručne, administrativne i druge poslove koji se odnose na koordinaciju, pripremu i planiranje godišnjih i višegodišnjih planova i programa rada u području razvoja ljudskih potencijala, vodi postupak pripreme i revizije operativnih programa prati evidenciju izrade i odobravanja projektne dokumentacije u suradnji s ostalim nadležnim Službama Uprave i tijelima u sustavu upravljanja i kontrole te osigurava da su projekti odabrani za financiranje u skladu s kriterijima odabira primjenjivima na operativne programe, koordinira i upravlja financijskim instrumentima, provodi procjenu opravdanosti uvođenja financijskih instrumenata i provedbenih modaliteta, razrađuje uvjete korištenja sredstava i procjenu korisnika, koordinira komunikaciju s tijelima zaduženim za njihovu provedbu, prati i izvještava o provedbi financijskih instrumenata, te obavlja i druge poslove u okviru svog djelokruga.
+U Službi za programiranje i financijske instrumente ustrojavaju se:
+6.3.2.1. Odjel za programiranje
+6.3.2.2. Odjel za provedbu financijskih instrumenata.
+6.3.2.1. Odjel za programiranje

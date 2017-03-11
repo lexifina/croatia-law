@@ -1,0 +1,6 @@
+# Članak 7.
+Služba za opće poslove prati i osigurava obavljanje poslova pisarnice i pismohrane i drugih administrativnih poslova, organizira i nadzire nabavu i korištenje pečata i žigova s grbom Republike Hrvatske i natpisnih ploča Ministarstva, vodi evidenciju o pečatima i žigovima s grbom Republike Hrvatske i natpisnim pločama Ministarstva, organizira provođenje općih poslova i upravljanja imovinom, obavlja poslove koji se odnose na opremanje prostorija Ministarstva opremom i sredstvima rada, organizira održavanje opreme, zgrada i druge imovine Ministarstva, organizira i prati provođenje mjera zaštite na radu i zaštite od požara, priprema i izrađuje opće i pojedinačne akte iz svog djelokruga, prati stanje te izrađuje stručne podloge za unaprjeđenje organizacije, poslovanja i procesa rada iz svog djelokruga, vodi propisane očevidnike, predlaže i organizira vođenje drugih evidencija iz svog djelokruga, priprema podatke iz svog djelokruga za stručne podloge za izradu strategija, programa, planova i odluka Ministarstva, te obavlja i druge poslove u okviru svog djelokruga.
+U Službi za opće poslove ustrojavaju se:
+2.1.2.1. Pododsjek za poslove pisarnice i pismohrane
+2.1.2.2. Pododsjek za upravljanje imovinom.
+2.1.2.1. Pododsjek za poslove pisarnice i pismohrane

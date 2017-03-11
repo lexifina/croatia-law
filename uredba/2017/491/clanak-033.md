@@ -1,0 +1,3 @@
+# Članak 33.
+Služba za analizu i razvoj mirovinskoga sustava izrađuje analize i projekcije ekonomsko-financijskih odnosa i praćenje politike i ciljeva razvoja i unaprjeđivanja mirovinskog osiguranja, priprema analize stanja mirovinskog osiguranja na temelju primljenih izvješća o radu Hrvatskog zavoda za mirovinsko osiguranje, Središnjeg registra osiguranika i Hrvatske agencije za nadzor financijskih usluga, izradom izvješća o stanju mirovinskog sustava, nadzorom nad bazama podataka radi zaštite osiguranika i korisnika mirovina, analizom prava osiguranika i korisnika mirovina, praćenja trendova tržišta rada, te obavlja i druge poslove u okviru svog djelokruga.
+5.2. Služba za koordinaciju sustava socijalne sigurnosti
