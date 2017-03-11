@@ -1,0 +1,1 @@
+Na temelju članka 50. točke 7. Zakona o biljnom zdravstvu (»Narodne novine« br. 75/05 i 55/11), a u svezi s člankom 38. Zakona o šumama (»Narodne novine« br. 140/05, 82/06, 129/08, 80/10, 124/10, 25/12, 18/13 i 94/14) ministar poljoprivrede donosi
