@@ -1,0 +1,7 @@
+# Članak 9.
+Sektor za europske države prati, analizira i koordinira političke i ukupne odnose Republike Hrvatske s državama članicama EU, državama članicama Europske slobodne trgovinske zone (u daljnjem tekstu: EFTA) i ostalim europskim državama sukladno ovoj Uredbi; osigurava provođenje utvrđene vanjske politike Republike Hrvatske prema spomenutim državama; prati i usmjerava rad diplomatskih misija Republike Hrvatske u tim državama; daje politička mišljenja/stajališta za Radnu skupinu EFTA; prati i analizira politiku i odnose spomenutih država prema Republici Hrvatskoj, EU i EFTA te daje mišljenja, pokreće inicijative, priprema prijedloge i predlaže mjere za razvijanje i unaprjeđivanje političkih i ukupnih odnosa; sustavno surađuje s diplomatskim predstavnicima država za koje je nadležan; daje mišljenja, potiče i pruža pomoć u suradnji državnih tijela Republike Hrvatske s navedenim državama; daje mišljenja i obavlja poslove iz svoje nadležnosti na pružanju odgovarajuće skrbi i zaštiti prava pripadnika hrvatskoga naroda u drugim državama; potiče, uspostavlja i održava veze s hrvatskim iseljenicima i manjinama kao i s njihovim udrugama u državama iz svoje nadležnosti, promičući njihove veze s domovinom; te obavlja i druge poslove iz svoga djelokruga.
+U Sektoru za europske države ustrojavaju se:
+2.1.1. Služba za susjedne EU članice;
+2.1.2. Služba za Srednju, Istočnu i Južnu Europu;
+2.1.3. Služba za Zapadnu i Sjevernu Europu.
+2.1.1 Služba za susjedne EU članice

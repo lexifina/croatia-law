@@ -1,0 +1,7 @@
+# Članak 100.
+Sektor za opće i tehničke poslove obavlja opće, tehničke i organizacijske poslove u vezi s ostvarivanjem plana i programa rada Ministarstva, te tehničkim usklađivanjem rada unutarnjih ustrojstvenih jedinica Ministarstva; koordinira i obavlja poslove praćenja, analize stanja i osiguranja tehničkih pretpostavki za rad službe vanjskih poslova; priprema podloge za donošenje odluka ministra, državnih tajnika, pomoćnika ministra i glavnog tajnika Ministarstva iz svog djelokruga; organizira rad internih ugostiteljskih usluga i usluga čišćenja prostora; organizira transport, selidbe i cargo otpreme; obavlja različite vrste prijevoza za potrebe službe vanjskih poslova; organizira prijevoz državnih dužnosnika i djelatnika Ministarstva i dežurstva vozača; organizira održavanje vozila voznog parka Ministarstva; planira poslove civilne obrane; planira, organizira i obavlja poslove vezane za zaštitu na radu i sprečavanje ozljeda na radu, profesionalnih bolesti i drugih bolesti u svezi s radom; obavlja poslove zaštite radnog okoliša kao sastavnog dijela organizacije rada i izvođenja radnog procesa; planira, organizira i provodi protupožarnu zaštitu; iz djelokruga civilne zaštite i obrane planira i provodi pripreme za izradu planskih dokumenata i drugih normativnih akata iz područja civilne obrane, te obavlja i druge poslove iz svoga djelokruga.
+U Sektoru za opće i tehničke poslove ustrojavaju se:
+9.4.1. Služba za održavanje;
+9.4.2. Služba za pisarnicu i pismohranu;
+9.4.3. Služba za podršku DM/KU.
+9.4.1. Služba za održavanje

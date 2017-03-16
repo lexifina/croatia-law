@@ -1,0 +1,3 @@
+# Članak 101.
+Služba za održavanje obavlja opće, tehničke i organizacijske poslove u vezi s ostvarivanjem plana i programa rada Ministarstva, te tehničkim usklađivanjem rada unutarnjih ustrojstvenih jedinica Ministarstva; koordinira i obavlja poslove praćenja, analize stanja i osiguranja tehničkih pretpostavki za rad službe vanjskih poslova; priprema podloge za donošenje odluka ministra, državnih tajnika, pomoćnika ministra i glavnog tajnika Ministarstva iz djelokruga tehničke podrške; organizira rad internih ugostiteljskih usluga i usluga čišćenja i tekućeg održavanja prostora, te obavlja i druge poslove iz svoga djelokruga.
+9.4.2. Služba za pisarnicu i pismohranu

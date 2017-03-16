@@ -1,0 +1,3 @@
+# Članak 16.
+Služba za promet, telekomunikacije, energetiku i okoliš u suradnji s nadležnim tijelima državne uprave, kao i Stalnim predstavništvom Republike Hrvatske pri EU, u skladu s procedurama propisanima Odlukom o osnivanju Međuresorne radne skupine za europske poslove koordinira pripremu i izradu prijedloga stajališta za rad radnih skupina u okviru COREPER-a I i stajališta za sastanke COREPER-a I u području prometa, telekomunikacija, energetike i zaštite okoliša, te stajališta Republike Hrvatske za sastanke Vijeća za okoliš (ENVI) kao i za sastanke Vijeća za promet, telekomunikacije i energetiku (TTE), te obavlja i druge poslove iz svoga djelokruga.
+2.2.4. Služba za europske makroregije i EU fondove

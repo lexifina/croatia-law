@@ -1,0 +1,4 @@
+# Članak 21.
+Služba za Vijeće za opće poslove i Europsko vijeće u suradnji s Uredom predsjednika Vlade Republike Hrvatske, nadležnim tijelima državne uprave, Stalnim predstavništvom Republike Hrvatske pri EU kao i ostalim ustrojstvenim jedinicama Ministarstva koje se bave europskim poslovima, u pitanjima iz njihove nadležnosti, u skladu s procedurama propisanima Odlukom o osnivanju Međuresorne radne skupine za europske poslove, koordinira pripremu i izradu prijedloga stajališta za rad radnih skupina u okviru
+COREPER-a II i stajališta za sastanke COREPER-a II u području općih poslova, kao i stajališta Republike Hrvatske za sastanke Vijeća za opće poslove (GAC) kao i Europskog vijeća u suradnji s Uredom predsjednika Vlade Republike Hrvatske, te obavlja i druge poslove iz svoga djelokruga.
+2.3.4. Služba za institucionalna pitanja EU

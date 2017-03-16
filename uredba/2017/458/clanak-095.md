@@ -1,0 +1,3 @@
+# Članak 95.
+Služba za računovodstvo obavlja sustavno praćenje i evidenciju transakcija i poslovnih događaja prihoda, primitaka, rashoda i izdataka i drugih plaćanja Ministarstva i DM/KU; obavlja sustavno praćenje stanja imovine, obveza i izvora vlasništva; vodi poslovne knjige: dnevnik, glavne knjige i pomoćne knjige; izrađuje bilance poslovanja, tromjesečne financijske izvještaje i završni račun i obavlja poslove vezane uz državnu riznicu, obavlja obračun i vodi sve evidencije obračuna plaća i drugog dohotka te obavlja i druge poslove iz svoga djelokruga.
+9.2.3. Služba za financijsko upravljanje i kontrole

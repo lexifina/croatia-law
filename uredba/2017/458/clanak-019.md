@@ -1,0 +1,3 @@
+# Članak 19.
+Služba za ekonomske i financijske poslove, u suradnji s nadležnim tijelima državne uprave, kao i Stalnim predstavništvom Republike Hrvatske pri EU, u skladu sa procedurama propisanima Odlukom o osnivanju Međuresorne radne skupine za europske poslove koordinira pripremu i izradu prijedloga stajališta za rad radnih skupina u okviru COREPER-a II i stajališta za sastanke COREPER-a II u području ekonomskih i financijskih pitanja, kao i stajališta Republike Hrvatske za sastanke Vijeća za ekonomske i financijske poslove (ECOFIN), te obavlja i druge poslove iz svoga djelokruga.
+2.3.2. Služba za pravosuđe i unutarnje poslove
