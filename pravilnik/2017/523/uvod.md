@@ -1,0 +1,1 @@
+Na temelju članka 106. stavka 1. Zakona o službi u Oružanim snagama Republike Hrvatske (»Narodne novine«, br. 73/13, 75/15 i 50/16), a u vezi s člankom 6.a Zakona o pravima iz mirovinskog osiguranja djelatnih vojnih osoba, policijskih službenika i ovlaštenih službenih osoba (»Narodne novine«, br. 128/99, 16/01, 22/02, 41/08, 97/12 i 118/12) donosim
