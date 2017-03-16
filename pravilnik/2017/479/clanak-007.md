@@ -1,0 +1,7 @@
+# Članak 7.
+(1) U postupku u kojem je propisano plaćanje naknade za uredovanje, podnositelj zahtjeva je dužan predujmiti plaćanje naknade za uredovanje u visini predvidivog odnosno očekivanog iznosa naknade za uredovanje, o čemu se uz zahtjev prilaže dokaz. Predujam se uplaćuje na evidentni račun područnog carinskog ureda u čijem je sastavu carinski ured nadležan za donošenje odluke o zahtjevu za prisutnost carinskog osoblja izvan službenog radnog vremena carinskog ureda ili u prostorima izvan prostora carine.
+(2) Odlukom o zahtjevu za prisutnost carinskog osoblja izvan službenog radnog vremena carinskog ureda ili u prostorima izvan prostora carine utvrđuje se da je sukladno stavku 1. ovoga članka izvršeno plaćanje naknade za uredovanje u visini predvidivog odnosno očekivanog iznosa naknade.
+(3) Ako se po provedbi odobrene prisutnosti carinskog osoblja izvan službenog radnog vremena carinskog ureda ili u prostorima izvan prostora carine utvrdi da plaćeni iznos predvidivog odnosno očekivanog iznosa naknade za uredovanje ne odgovara točnom iznosu naknade koji je za provedeno uredovanje trebalo platiti, o razlici iznosa odlučuje se dopunskim rješenjem.
+(4) U slučaju iz stavka 3. ovoga članka, ako je plaćeni iznos:
+1. manji od iznosa koji je trebalo platiti, dopunskim rješenjem nalaže se plaćanje razlike u roku od 10 dana od dana primitka dopunskog rješenja
+2. veći od iznosa koji je trebalo platiti, dopunskim rješenjem određuje se povrat više plaćenog iznosa.
