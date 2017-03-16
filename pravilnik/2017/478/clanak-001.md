@@ -1,0 +1,2 @@
+# Članak 1.
+U Pravilniku o obrascu zahtjeva za izdavanje međunarodne uvozne potvrde, potvrde o krajnjem korištenju i potvrde o primitku robe s dvojnom namjenom (»Narodne novine«, br. 44/14) Prilog I. Zahtjev za izdavanje međunarodne uvozne potvrde za robu s dvojnom namjenom i Prilog II. Zahtjev za izdavanje potvrde o primitku robe s dvojnom namjenom zamjenjuju se prilozima I. i II., koji su sastavni dio ovog Pravilnika.
