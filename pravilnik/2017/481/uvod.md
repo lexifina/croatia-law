@@ -1,0 +1,1 @@
+Na temelju članka 198. stavka 1. Zakona o gradnji (»Narodne novine«, broj 153/13), a u vezi s člankom 39. stavka 6. Zakona o gradnji (»Narodne novine«, br. 52/99, 75/99 i 117/01) ministar graditeljstva i prostornoga uređenja donosi
