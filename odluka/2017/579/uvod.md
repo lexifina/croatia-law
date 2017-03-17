@@ -1,0 +1,1 @@
+Na temelju članka 92. Ustava Republike Hrvatske i članaka 2. i 3. Zakona o istražnim povjerenstvima (»Narodne novine«, br. 24/96.) Hrvatski sabor na sjednici 10. veljače 2017. i 17. ožujka 2017. donio je
