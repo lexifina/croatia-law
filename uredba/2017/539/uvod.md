@@ -1,0 +1,1 @@
+Na temelju članka 8. stavka 1., a u vezi s člankom 53. stavkom 1. podstavkom 1. Zakona o poljoprivredi (»Narodne novine«, broj 30/15) i članka 30. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/11, 119/14 i 93/16), Vlada Republike Hrvatske je na sjednici održanoj 16. ožujka 2017. godine donijela
