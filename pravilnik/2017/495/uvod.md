@@ -1,0 +1,1 @@
+Na temelju članka 5. stavka 6. Zakona o sigurnosti prometa na cestama (»Narodne novine« br. 67/08, 48/10 - Odluka USRH, 74/11, 80/13, 158/13 - Odluka USRH, 92/14 i 64/15), ministar unutarnjih poslova, u suglasnosti s ministrom uprave, donosi
