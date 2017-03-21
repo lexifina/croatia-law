@@ -1,0 +1,6 @@
+## V. POSTUPAK PRED SUDOM ČASTI
+## Odgovarajuća primjena Zakona o parničnom postupku
+# Članak 16.
+(1) U postupku pred Sudom časti, ako drugačije nije određeno ovim Pravilnikom ili drugim aktima Suda časti, na odgovarajući se način primjenjuju odredbe Zakona o parničnom postupku glave I XXIII (»Narodne novine« broj 53/91, 91/92, 58/93, 112/99, 88/01, 117/03, 88/05, 02/07, 84/08, 123/08, 57/11, 148/11, 25/13, 89/14), osim odredbi o presudi na temelju priznanja, presudi zbog ogluhe, presudi zbog izostanka, sudskoj nagodbi i reviziji.
+(2) U postupku pred Sudom časti na odgovarajući se način primjenjuju odredbe zakona koji uređuje alternativno rješavanje potrošačkih sporova i Uredba (EU) br. 524/2013 Europskog parlamenta i vijeća o online rješavanju potrošačkih sporova.
+(3) U dvojbenim slučajevima Predsjedništvo Suda časti daje mišljenje o tome što se smatra odgovarajućim načinom u primjeni odredbi Zakona o parničnom postupku i zakona koji uređuje alternativno rješavanje potrošačkih sporova i Uredbe (EU) br. 524/2013 Europskog parlamenta i vijeća o online rješavanju potrošačkih sporova, rukovodeći se načelom informiranosti u radu Suda časti te načelima ekonomičnosti, transparentnosti i učinkovitosti postupanja pred Sudom časti, istodobno uvažavajući da je Sud časti tijelo Komore za alternativno rješavanje sporova različito od redovnog suda.

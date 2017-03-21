@@ -1,0 +1,1 @@
+Na temelju članka 88. Zakona o obrtu u svezi s člankom 81. st. 2. al. 14. Zakona o obrtu (»Narodne novine« 143/13) i čl. 24. st. 1. al. 18. Statuta Hrvatske obrtničke komore (»Narodne novine« 106/14 i 84/16), Skupština Hrvatske obrtničke komore na svojoj 6. sjednici održanoj 27. veljače 2017. donosi
