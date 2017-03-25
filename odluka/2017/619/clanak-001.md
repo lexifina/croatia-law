@@ -1,0 +1,12 @@
+# Članak 1.
+U Odluci o utvrđivanju Osnovne liste lijekova Hrvatskog zavoda za zdravstveno osiguranje (»Narodne novine« broj 63/16., 68/16. - ispravak, 90/16. i 12/17.) u Osnovnoj listi lijekova dodaje se nova šifra anatomsko-terapijsko-kemijske (ATK) klasifikacije lijekova Svjetske zdravstvene organizacije, sa sljedećim podacima:
+Šifra ATK | Oznaka | Nezaštićeno ime lijeka | DDD i jed. mj. | Cijena za DDD | Cijena za DDD (s PDV-om) | Način primjene | Nositelj
+odobrenja | Proizvođač | Zaštićeno ime lijeka | Oblik, jačina i pakiranje lijeka | Cijena jed. oblika | Cijena jed. oblika (s PDV-om) | Cijena orig. pakiranja | Cijena orig. pakiranja (s PDV-om) | R/RS
+1. | 2. | 3. | 4. | 5. | 6. | 7. | 8. | 9. | 10. | 11. | 12. | 13. | 14. | 15. | 16.
+J05AX69 161 | DS | sofosbuvir + velpatasvirNJ711 |  |  |  | O | Gilead Sciences International Limited | Gilead Sciences Ireland UC | Epclusa | tbl film obl. 28x(400 mg + 100 mg) | 4.847,87 | 5.090,26 | 135.740,36 | 142.527,38
+- Indikacija pod oznakom »NJ711« u Osnovnoj listi lijekova Zavoda mijenja se i glasi:
+»NJ711: Za liječenje kroničnog hepatitisa C kod bolesnika u dobi >=18 godina, kojima je potvrđena dijagnoza kroničnog hepatitisa C i koji imaju pozitivan nalaz HCV RNA. Potrebna je apstinencija od i.v. droga i abuzusa alkohola unatrag 6 mjeseci. Bolesnici koji su ovisnici o drogama moraju imati dokaz da apstiniraju najmanje 6 mjeseci, a dokaz su dokumentirani nalaz psihijatra i rezultati toksikoloških ispitivanja tijekom tretmana svaka 3 mjeseca. Na prijedlog Bolničkog povjerenstva za lijekove, bolesnicima koji zadovoljavaju kriterije i kojima je terapija preporučena u skladu sa smjernicama Referentnog centra za dijagnostiku i liječenje virusnih hepatitisa Ministarstva zdravstva, terapijski protokol i trajanje liječenja odobrava Stručno povjerenstvo Zavoda.
+Na teret sredstava namijenjenih za financiranje posebno skupih lijekova mogu se odobriti lijekovi za liječenje kroničnog C hepatitisa za potrebe liječenja bolesnika koji do sada nisu liječeni ili je prethodno liječenje dvojnom terapijom bilo neuspješno
+1) za G1 i G4- simeprevir, dasabuvir i ombitasvir + paritaprevir + ritonavir, ledipasvir + sofosbuvir, elbasvir + grazoprevir
+2) za G2 i G3- sofosbuvir (na PSL u trajanju do 12 tjedana), ledipasvir + sofosbuvir, sofosbuvir + velpatasvir
+3) za HCV s dekompenziranom cirozom- ledipasvir + sofosbuvir, sofosbuvir + velpatasvir.«
