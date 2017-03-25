@@ -1,0 +1,1 @@
+Na temelju članka 72. stavka 9. Zakona o sjemenu, sadnom materijalu i priznavanju sorti poljoprivrednog bilja (»Narodne novine«, br. 140/05, 35/08, 25/09, 124/10, 55/11 i 14/14) ministar poljoprivrede donosi
