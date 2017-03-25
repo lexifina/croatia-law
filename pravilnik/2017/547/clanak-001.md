@@ -1,0 +1,16 @@
+# Članak 1.
+U Pravilniku o tehničkim uvjetima vozila u prometu na cestama (»Narodne novine«, br. 85/16), članak 2. mijenja se i glasi:
+»Članak 2.
+Ovaj Pravilnik sadrži odredbe koje su u skladu sa sljedećim aktima Europske unije:
+- Direktiva Vijeća 96/53/EZ od 25. srpnja 1996. o utvrđivanju najvećih dopuštenih dimenzija u unutarnjem i međunarodnom prometu te najveće dopuštene mase u međunarodnom prometu za određena cestovna vozila koja prometuju unutar Zajednice (SL L 235,17. 9. 1996.)
+- Direktiva 2002/7/EZ Europskoga parlamenta i Vijeća od 18. veljače 2002. kojom se izmjenjuje i dopunjuje Direktiva Vijeća 96/53/EZ kojom se za određena cestovna vozila koja prometuju u Zajednici utvrđuju najveće dopuštene dimenzije u unutarnjem i međunarodnom prometu te najveće dopuštene mase u međunarodnom prometu (SL L 67, 9. 3. 2002)
+- Direktiva 2015/719 Europskog parlamenta i Vijeća od 29. travnja 2015. o izmjeni Direktive Vijeća 96/53/EZ o utvrđivanju najvećih dopuštenih dimenzija u unutarnjem i međunarodnom prometu te najveće dopuštene mase u međunarodnom prometu za određena cestovna vozila koja prometuju unutar Zajednice (SL L 115, 6. 5. 2015.)
+- Direktiva 2014/45/EZ Europskog parlamenta i Vijeća od 3. travnja 2014. o (periodičnim) tehničkim pregledima motornih vozila i njihovih priključnih vozila te stavljanju izvan snage Direktive 2009/40EZ (SL L 127, 29. 4. 2014.)
+- Direktiva Parlamenta i Vijeća 2007/38/EZ od 11. srpnja 2007. o naknadnom postavljanju zrcala na teška teretna vozila registrirana u Zajednici (SL L 184, 14. 7. 2007.)
+- Direktiva Vijeća 92/6/EEZ od 10. veljače 1992. o ugradnji i uporabi uređaja za ograničenje brzine za određene kategorije motornih vozila u Zajednici (SL L 57, 2. 3. 1992.)
+- Direktiva 2002/85/EZ Europskog parlamenta i Vijeća od 5. studenoga 2002. o izmjeni Direktive Vijeća 92/6/EEZ o ugradnji i uporabi uređaja za ograničavanje brzine na određenim kategorijama motornih vozila u Zajednici (SL L 327, 4. 12. 2002.)
+- Direktiva Vijeća 91/671/EEZ od 16. prosinca 1991. o obaveznoj uporabi sigurnosnih pojaseva i sustava za sigurnosno vezivanje djece u vozilima (SL L 59, 28. 2. 2014.)
+- Provedbena Direktiva Komisije 2014/37/EU od 27. veljače 2014. o izmjeni Direktive Vijeća 91/671/EEZ u pogledu obavezne uporabe sigurnosnih pojaseva i sustava sigurnosnog vezivanja djece u vozilima (SL L 59, 28. 2. 2014.)
+- Uredba (EU) br. 167/2013 Europskog parlamenta i Vijeća od 5. veljače 2013. o homologaciji i nadzoru tržišta traktora za poljoprivredu i šumarstvo (SL L 60, 2. 3. 2013.) (u daljnjem tekstu: Uredba (EU) br. 167/2013)
+- Uredba (EU) br. 168/2013 Europskog parlamenta i Vijeća od 15. siječnja 2013. o homologaciji i nadzoru tržišta vozila na dva ili tri kotača i četverocikala (SL L 60, 2. 3. 2013.)(u daljnjem tekstu: Uredba (EU) br. 168/2013)
+- Uredba Komisije (EU) br. 458/2011 od 12. svibnja 2011. o zahtjevima za homologaciju tipa motornih vozila i njihovih prikolica s obzirom na ugradbu njihovih guma i o provedbi Uredbe (EZ) br. 661/2009 Europskog parlamenta i Vijeća o zahtjevima za homologaciju tipa za opću sigurnost motornih vozila, njihovih prikolica i sustava, sastavnih dijelova i zasebnih tehničkih jedinica namijenjenih za takva vozila (SL L 124, 13. 5. 2011.)(u daljnjem tekstu: Uredba (EU) br. 458/2011).«.
