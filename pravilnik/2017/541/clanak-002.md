@@ -1,0 +1,2 @@
+# Članak 2.
+Ovim se Pravilnikom osigurava provedba članka 148. i 149. Uredbe (EU) br. 1308/2013 Europskog parlamenta i Vijeća od 17. prosinca 2013. o uspostavljanju zajedničke organizacije tržišta poljoprivrednih proizvoda i stavljanju izvan snage uredbi Vijeća (EEZ) br. 922/72, (EEZ) br. 234/79, (EZ) br. 1037/2001 i (EZ) br. 1234/2007 (SL L 347, 20. 12. 2013.) (u daljnjem tekstu: Uredba (EU) br. 1308/2013) koji se odnose na ugovorne odnose u sektoru mlijeka i mliječnih proizvoda.
