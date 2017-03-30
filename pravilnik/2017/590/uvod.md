@@ -1,0 +1,1 @@
+Na temelju članka 30. stavka 7. Zakona o posredovanju u prometu nekretnina (»Narodne novine«, br. 107/07, 144/12 i 14/14) i članka 28. Statuta Hrvatske gospodarske komore (»Narodne novine«, br. 39/16) Upravni odbor Hrvatske gospodarske komore na 12. sjednici 27. veljače 2017. godine, uz suglasnost ministarstva nadležnog za gospodarstvo donosi
