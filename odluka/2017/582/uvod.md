@@ -1,0 +1,1 @@
+Na temelju članka 51. Zakona o sustavu državne uprave (»Narodne novine«, broj 150/11., 12/13., 93/16. i 104/16.) a vezano uz članak 43. Zakona o službenoj statistici (»Narodne novine«, broj 103/03., 75/09. i 59/12.) ravnatelj Državnog zavoda za statistiku donosi
