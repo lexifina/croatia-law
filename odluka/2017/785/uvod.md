@@ -1,0 +1,1 @@
+Na temelju članka 5. Pravilnika o rasporedu sredstava za održavanje, rekonstrukciju i građenje županijskih i lokalnih cesta županijskim upravama za ceste u 2017. godini (»Narodne novine«, broj 28/2017), ministar mora, prometa i infrastrukture donosi

@@ -1,0 +1,3 @@
+# Članak 1.
+Na temelju članka 1. Pravilnika o rasporedu sredstava za održavanje, rekonstrukciju i građenje županijskih i lokalnih cesta županijskim upravama za ceste u 2017. godini, utvrđena su ukupna sredstva u iznosu od 48.000.000,00 kuna, koja se raspoređuju županijskim upravama za ceste za održavanje, rekonstrukciju i građenje županijskih i lokalnih cesta iz sredstava koja će Hrvatske ceste d.o.o. ostvariti u 2017. godini temeljem članka 91. Zakona o cestama.
+Na temelju članka 5. Pravilnika, sredstva u iznosu od 25.000.000,00 kuna namijenjena su za interventne zahvate prema posebnom nalogu ministra mora, prometa i infrastrukture.
