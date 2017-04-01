@@ -1,0 +1,1 @@
+Na temelju članka 20., članka 21. i članka 42. stavka 3. Zakona o lokalnim porezima (»Narodne novine« broj 115/16) i članka 30. Statuta Grada Kraljevice (»Službene novine Grada Kraljevice« broj 4/14, 5/14, 5/15, 4/16) Gradsko vijeće Grada Kraljevice na sjednici održanoj 14. ožujka 2017. godine donosi
