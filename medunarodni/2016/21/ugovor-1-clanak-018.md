@@ -1,0 +1,2 @@
+# Članak 18.
+Ako Vijeće na temelju izvješća Generalnog direktora odluči da je neka djelatnost Zajednice ili države, u onoj mjeri u kojoj se to odnosi na svaku pojedinačnu stranku, važna i hitna kako bi se osigurala provjera preusmjerava li se nuklearni materijal koji podliježe zaštitnim mjerama na temelju ovog Sporazuma na nuklearno oružje ili druge nuklearne eksplozivne uređaje, Vijeće može zahtijevati od Zajednice ili države da bez odgađanja poduzmu potrebne aktivnosti, neovisno o tome jesu li već pokrenuti postupci za rješavanje spora prema članku 22. ovog Sporazuma.

@@ -1,0 +1,2 @@
+# Članak 9.
+Svaka država omogućuje Agenciji pristup lokacijama koje je Agencija navela radi uzimanja uzoraka okoliša sa šireg područja, pod uvjetom da, ako država nije u mogućnosti osigurati takav pristup, navedena država uloži sve razumne napore, da zahtjevima Agencije udovolji na alternativnim lokacijama. Agencija ne traži takav pristup dok Vijeće ne potvrdi uzorkovanje okoliša u širem području i proceduralne dogovore za isto, te nakon konzultacija između Agencije i određene države.

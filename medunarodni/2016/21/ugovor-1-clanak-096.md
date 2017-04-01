@@ -1,0 +1,2 @@
+# Članak 96.
+Notifikacija na koju upućuje članak 95. takva je da će Agencija prema potrebi moći izvršiti ad hoc inspekciju kako bi identificirala i po mogućnosti provjerila količinu i sastav nuklearnog materijala koji se unosi u države, osim prijenosa unutar Zajednice, u trenutku raspakiranja pošiljke. Međutim, raspakiranje se ne odgađa ni zbog kakve aktivnosti koju Agencija poduzima ili razmatra poduzeti u skladu s takvom notifikacijom.

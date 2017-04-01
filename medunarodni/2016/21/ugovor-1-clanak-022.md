@@ -1,0 +1,5 @@
+# Članak 22.
+Svaki spor koji proizlazi iz tumačenja ili primjene ovog Sporazuma, osim spora u vezi s nalazom Vijeća prema članku 19. ili s akcijom Vijeća na temelju toga nalaza, koji se ne riješi pregovorima ili nekim drugim postupkom koji prihvaćaju Agencija, Zajednica ili države, na zahtjev bilo koje od njih, podnosi se arbitražnom sudu koji se sastoji od pet arbitražnih sudaca. Zajednica i države imenuju dva arbitražna suca, Agencija također imenuje dva arbitražna suca, a tako imenovana četiri arbitražna suca izabiru petoga koji će biti predsjednik.
+Ako u roku od 30 dana od zahtjeva za arbitražom Zajednica i države, ili Agencija ne imenuju arbitražne suce, Zajednica ili Agencija mogu tražiti od predsjednika Međunarodnog suda da postavi te arbitražne suce. Isti se postupak primjenjuje ako u roku od 30 dana od imenovanja ili postavljanja četvrtoga arbitražnog suca nije izabran peti arbitražni sudac.
+Većina članova arbitražnog suda čine kvorum i za svaku je odluku potrebna suglasnost najmanje tri arbitražna suca. Arbitražni postupak određuje arbitražni sud. Odluke arbitražnog suda obvezuju Agenciju, Zajednicu i dotične države.
+PRISTUP

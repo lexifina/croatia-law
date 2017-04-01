@@ -1,0 +1,2 @@
+# Članak 65.
+Zajednica izvješćuje o svakoj inventarskoj izmjeni, usklađivanju i ispravku, bilo periodično skupnim popisom ili pojedinačno. O inventarskim izmjenama izvješćuje se u odnosu na šarže. Kako je utvrđeno u dopunskim aranžmanima, manje izmjene u inventaru nuklearnog materijala, kao što je prijenos analitičkih uzoraka, mogu se povezati u jednu šaržu i priopćiti kao jedna inventarska izmjena.

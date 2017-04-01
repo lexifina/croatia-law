@@ -1,0 +1,3 @@
+# Članak 19.
+Ako Vijeće nakon ispitivanja odgovarajućih podataka koje je dobilo od glavnog direktora utvrdi da Agencija ne može provjeriti je li došlo do preusmjeravanja uporabe nuklearnog materijala, koji na temelju ovog Sporazuma podliježe zaštitnim mjerama, na nuklearno oružje ili druge nuklearne eksplozivne uređaje, ono može podnijeti izvješća predviđena člankom XII. stavkom C. Statuta, a također može prema potrebi poduzeti i ostale mjere predviđene tim stavkom. Pri poduzimanju takvog djelovanja Vijeće vodi računa o jamstvu koje osiguravaju primijenjene zaštitne mjere i daje Zajednici ili državi, u onoj mjeri u kojoj se to odnosi na svaku pojedinačnu stranku, svaku razumnu mogućnost da Vijeće uvjeri u suprotno.
+TUMAČENJE I PRIMJENA SPORAZUMA I RJEŠAVANJE SPOROVA

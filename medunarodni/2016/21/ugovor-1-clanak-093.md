@@ -1,0 +1,2 @@
+# Članak 93.
+Notifikacija na koju upućuje članak 92. takva je da će Agencija prema potrebi moći izvršiti ad hoc inspekciju kako bi identificirala i po mogućnosti provjerila količinu i sastav nuklearnoga materijala prije nego što se on iznese iz države, osim prijenosa unutar Zajednice, te ako Agencija tako želi ili Zajednica tako zahtijeva, staviti plombe na nuklearni materijal kada on bude spreman za prijevoz. Međutim, iznošenje nuklearnog materijala nikako se ne odgađa zbog aktivnosti koju Agencija poduzima ili razmatra poduzeti u skladu s takvom notifikacijom.

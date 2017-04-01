@@ -1,0 +1,5 @@
+# Članak 34.
+(a) Kada se svaki materijal, koji sadržava uranij ili torij, koji nije dosegao stupanj nuklearnoga gorivnog ciklusa opisanog u stavku (c), izravno ili neizravno izvozi u državu koja nije stranka ovoga Sporazuma i koja ne posjeduje nuklearno oružje, Zajednica izvješćuje Agenciju o njegovoj količini, sastavu i odredištu, osim ako se materijal ne izvozi u točno određene nenuklearne svrhe.
+(b) Kada se svaki materijal, koji sadrži uranij ili torij, koji nije dosegao stupanj nuklearnoga gorivnog ciklusa opisanog u stavku (c), uvozi u države, Zajednica izvješćuje Agenciju o njegovoj količini i sastavu, osim ako se materijal ne uvozi u točno određene nenuklearne svrhe.
+(c) Kada svaki nuklearni materijal, sastava i čistoće pogodnih za proizvodnju goriva ili za izotopno obogaćenje, napusti postrojenje ili fazu procesa u kojoj je bio proizveden, ili kad se takav nuklearni materijal ili bilo koji drugi nuklearni materijal proizveden u nekoj kasnijoj fazi nuklearnoga gorivnog ciklusa uveze u države, takav nuklearni materijal podliježe drugim postupcima zaštitnih mjera koji su utvrđeni ovim Sporazumom.
+PRESTANAK VAŽENJA ZAŠTITNIH MJERA

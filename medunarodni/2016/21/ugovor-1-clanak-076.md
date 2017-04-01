@@ -1,0 +1,5 @@
+# Članak 76.
+(a) U svrhe utvrđene člankom 71. točkom (a), a sve do trenutka dok ne budu utvrđene strategijske točke u dopunskim aranžmanima, inspektori Agencije imaju pristup svakom mjestu u kojemu početno izvješće, ili bilo koja inspekcija izvršena s njim u vezi, pokažu da postoji nuklearni materijal koji podliježe zaštitnim mjerama na temelju ovog Sporazuma.
+(b) U svrhe utvrđene člankom 71. točkom (b), inspektori Agencije imaju pristup svakom mjestu o kojemu je Agencija obaviještena u skladu s člankom 92. točkom (d) podtočkom (iii) ili člankom 95. točkom (d) podtočkom (iii).
+(c) U svrhe utvrđene člankom 72., inspektori imaju pristup samo strategijskim točkama utvrđenima u dopunskim aranžmanima i dokumentaciji koja se vodi u skladu s odredbama članaka od 51. do 58.
+(d) U slučaju da Zajednica zaključi da bilo kakve neuobičajene okolnosti zahtijevaju proširenje ograničenja u pogledu pristupa Agencije, Zajednica i Agencija u najkraćem roku postižu sporazum koji Agenciji omogućava da svoje odgovornosti u pogledu zaštitnih mjera izvrši u svjetlu tih ograničenja. Generalni direktor o svakom takvom sporazumu izvješćuje Vijeće.

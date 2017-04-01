@@ -1,0 +1,2 @@
+# Članak 87.
+Izvršavajući svoje funkcije prema člancima 48. i od 71. do 75, inspektori Agencije obavljaju svoje djelatnosti na način predviđen da se izbjegne ometanje ili odgoda izgradnje, odgoda puštanja u rad ili rada postrojenja, ili ugrožavanje njihove sigurnosti. Posebno, inspektori Agencije neće sami upravljati nijednim postrojenjem, niti će narediti osoblju nekog postrojenja da obavi neku operaciju. Ako inspektori Agencije smatraju da u skladu s člancima 74. i 75. određene operacije u nekom postrojenju treba izvesti sam operator, oni će za to podnijeti zahtjev.

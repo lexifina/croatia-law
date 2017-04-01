@@ -1,0 +1,3 @@
+# Članak 40.
+Dopunski aranžmani stupaju na snagu istodobno ili čim prije nakon stupanja na snagu ovog Sporazuma. Agencija, Zajednica i države ulažu napore da se njihovo stupanje na snagu postigne u roku od 90 dana od datuma stupanja na snagu ovog Sporazuma; za produženje tog razdoblja potreban je pristanak Agencije, Zajednice i država. Zajednica Agenciji odmah dostavlja podatke potrebne za sastavljanje dopunskih aranžmana. Nakon stupanja na snagu ovog Sporazuma Agencija ima pravo primijeniti u njemu predviđene postupke o nuklearnom materijalu koji je naveden u inventaru propisanom u članku 41., čak i ako dopunski aranžmani još nisu stupili na snagu.
+INVENTAR

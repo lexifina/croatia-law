@@ -1,0 +1,6 @@
+# Članak 83.
+Agencija unaprijed obavješćuje Zajednicu i dotične države o dolasku inspektora Agencije u postrojenja ili područja materijalne bilance izvan postrojenja na sljedeći način:
+(a) za ad hoc inspekcije u skladu s člankom 71. točkom (b) najmanje 24 sata ranije; za one u skladu s člankom 71. točkom (a) kao i za djelatnosti predviđene člankom 48. najmanje tjedan dana ranije;
+(b) za posebne inspekcije u skladu s člankom 73. što je moguće ranije, nakon što su se Agencija i Zajednica posavjetovale, kako je predviđeno člankom 77., a da se pri tome podrazumijeva da savjetovanje obično obuhvaća i obavijest o dolasku; i
+(c) za rutinske inspekcije u skladu s člankom 72. najkasnije 24 sata ranije u odnosu na postrojenja na koja upućuje članak 80. točka (b) i zapečaćena skladišta koja sadrže plutonij ili uranij obogaćen s više od 5%, a tjedan dana ranije u svim ostalim slučajevima.
+Takva najava inspekcija sadržava imena inspektora Agencije i navodi postrojenja i područja materijalne bilance izvan postrojenja koja će se posjetiti te razdoblje tijekom kojega će ista biti posjećena. Ako inspektori Agencije trebaju stići izvan država, Agencija također unaprijed izvješćuje o mjestu i vremenu njihova dolaska u države.

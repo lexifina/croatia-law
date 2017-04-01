@@ -1,0 +1,4 @@
+# Članak 6.
+(a) Agencija poduzima sve mjere opreza za zaštitu poslovnih i industrijskih tajni i ostalih povjerljivih podataka koje ona saznaje provedbom ovog Sporazuma.
+(b) (i) Agencija nijednoj državi, organizaciji ili osobi ne objavljuje i ne dostavlja nikakve podatke do kojih je došla provedbom ovog Sporazuma, osim što se specifični podaci koji se odnose na njegovu provedbu mogu dati Vijeću i onom osoblju Agencije kojemu je takva spoznaja potrebna zbog njihovih službenih dužnosti u vezi sa zaštitnim mjerama, no i to samo u onoj mjeri koja je potrebna da Agencija može ispuniti svoje obveze u provedbi ovog Sporazuma.
+(ii) Sažeti podaci o nuklearnom materijalu koji podliježe zaštitnim mjerama na temelju ovog Sporazuma mogu se objaviti na temelju odluke Vijeća, ako se s time slože izravno zainteresirane države ili Zajednica u mjeri u kojoj se to odnosi na svaku pojedinačnu stranku.

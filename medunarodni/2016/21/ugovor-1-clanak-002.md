@@ -1,0 +1,2 @@
+# Članak 2.
+Agencija ima pravo i obvezu osigurati primjenu zaštitnih mjera u skladu s uvjetima ovog Sporazuma na sav izvorni i poseban fisibilni materijal u svim miroljubivim nuklearnim djelatnostima na državnim područjima država, u njihovoj nadležnosti ili koje se pod njihovim nadzorom obavljaju bilo gdje drugdje, isključivo u smislu provjere da se takav materijal ne preusmjerava na uporabu za nuklearno oružje ili druge nuklearne eksplozivne uređaje.

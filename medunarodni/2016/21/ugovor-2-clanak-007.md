@@ -1,0 +1,4 @@
+# Članak 7.
+a. Na zahtjev države, Agencija i ta država donose rješenja o kontroliranom pristupu sukladno ovom Protokolu, kako bi se spriječilo širenje osjetljivih informacija, ispunili zahtjevi sigurnosne i fizičke zaštite ili zaštite vlasničkih ili poslovno osjetljivih informacija. Takva rješenja ne smiju sprečavati Agenciju u provođenju aktivnosti potrebnih da se vjerodostojno zajamči nepostojanje nedeklariranog nuklearnog materijala i djelatnosti na dotičnoj lokaciji, uključujući rješenje pitanja, koji se odnosi na točnost i potpunost informacija navedenih u članku 2. ili proturječnost u vezi s tim informacijama.
+b. Država može, prilikom dostavljanja informacija sukladno članku 2., obavijestiti Agenciju o mjestima na području i lokaciji na kojima se može primijeniti kontrolirani pristup.
+c. Do stupanja na snagu bilo kojih potrebnih dopunskih dogovora, država može pribjeći kontroliranom pristupu u skladu s odredbama točke a.
