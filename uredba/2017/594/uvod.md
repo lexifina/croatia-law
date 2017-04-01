@@ -1,0 +1,1 @@
+Na temelju članka 57. stavka 2. Zakona o državnim službenicima (»Narodne novine«, br. 92/05, 107/07, 27/08, 34/11, 49/11, 150/11, 34/12, 49/12 - pročišćeni tekst, 37/13, 38/13 i 138/15 - Odluka Ustavnog suda Republike Hrvatske), Vlada Republike Hrvatske je na sjednici održanoj 23. ožujka 2017. godine donijela
