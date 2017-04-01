@@ -1,0 +1,7 @@
+## C. Specijalistička postrojba civilne zaštite za KBRN zaštitu
+# Članak 17.
+(1) Specijalistička postrojba civilne zaštite za KBRN zaštitu - laka kategorija sljedeće je strukture, sastava i namjene:
+- struktura: upravljačka, dvije operativne (uzorkovanje i dekontaminacija) i logistička skupina
+- zadaće: provesti/potvrditi početnu procjenu (detekciju) uključujući opis opasnosti ili rizika, određivanje i označavanje kontaminiranog područja, procjena ili potvrda već poduzetih zaštitnih mjera, provesti kvalificirano uzorkovanje, predviđanje razvoja situacije, preporuke za uzbunjivanje, terenska dekontaminacija
+- kapaciteti: utvrđivanje kemijskih i detekcija radioloških opasnosti kombinacijom ručne, prijenosne i laboratorijske opreme (sposobnost detekcije alfa, beta i gama zračenja i utvrđivanja uobičajenih izotopa), osposobljeni i opremljeni osobnom zaštitnom opremom od najniže do najviše razine, sposobnost prikupljanja, izrada bioloških, kemijskih i radioloških uzoraka za daljnju analizu koja će se provesti negdje drugdje, dekontaminacija za najmanje 30 osoba za jedan sat.
+(2) Pripravnost specijalističke postrojbe civilne zaštite za KBRN zaštitu - laka kategorija uključuje spremnost za početak operativnog djelovanja na lokaciji intervencije u roku od najviše pet sati od primitka naloga za mobilizaciju, operativno djelovanje na jednoj lokaciji od najmanje 12 sati dnevno tijekom sedam dana i samodostatnost u najmanjem trajanju od dva dana.

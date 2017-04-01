@@ -1,0 +1,5 @@
+# Članak 24.
+(1) Državna intervencijska postrojba civilne zaštite osniva se odlukom čelnika središnjeg tijela državne uprave nadležnog za poslove civilne zaštite za djelovanje na području Republike Hrvatske i u međunarodnim aktivnostima sukladno Zakonu o sustavu civilne zaštite te odlukama i smjernicama Europske unije i Ujedinjenih naroda te obvezama Republike Hrvatske preuzetim iz međunarodnih ugovora u području civilne zaštite.
+(2) Za sudjelovanje u međunarodnim aktivnostima logistička skupina iz sastava postrojbe mora osigurati potrebnu samodostatnost u skladu s odlukama i smjernicama nadležnih tijela organizacija iz stavka 1. ovog članka.
+(3) U strukturu Državne intervencijske postrojbe civilne zaštite za svaku specijalnost iz članaka 11., 12., 15., 18. i 21. ove Uredbe, dodaje se i medicinska skupina (tri do četiri pripadnika), koja je odgovorna za medicinsku potporu pripadnicima postrojbe i unesrećenim osobama.
+(4) Pripadnici postrojbe iz stavka 1. ovog članka su pričuvnici, a u postrojbu se raspoređuju i državni službenici i namještenici središnjeg tijela državne uprave nadležnog za poslove civilne zaštite.

@@ -1,0 +1,6 @@
+# Članak 21.
+(1) Specijalistička postrojba civilne zaštite za zbrinjavanje - srednja kategorija sljedeće je strukture, sastava, namjene i pripravnosti:
+- struktura: upravljačka, četiri operativne i logistička skupina
+- zadaće: provesti/potvrditi početnu procjenu, pružiti privremeno sklonište i upravljanje kampom za potrebe ugroženog stanovništva i operativnih snaga sustava civilne zaštite koje djeluju na lokaciji intervencije u početnoj fazi velike nesreće i katastrofe u koordinaciji s nadležnim stožerom civilne zaštite i postrojbom civilne zaštite opće namjene do predaje lokalnim vlastima ili humanitarnim organizacijama, gdje oprema ostaje prisutna dulje vrijeme
+- kapaciteti: kamp sa šatorima i opremom za minimalno 500 osoba (šatori s grijanjem i kreveti s vrećama za spavanje i/ili dekama, generatori za struju, električna i rasvjetna oprema, sanitarni i higijenski prostori, distribucija pitke vode i prehrana, sklonište za temeljne društvene aktivnosti, sigurnost u kampu).
+(2) Pripravnost specijalističke postrojbe civilne zaštite za zbrinjavanje - srednja kategorija uključuje spremnost za početak operativnog djelovanja na lokaciji intervencije u roku od najviše osam sati od primitka naloga za mobilizaciju, operativno djelovanje na jednoj lokaciji u kontinuiranom trajanju tijekom sedam dana i samodostatnost u najmanjem trajanju od pet dana.
