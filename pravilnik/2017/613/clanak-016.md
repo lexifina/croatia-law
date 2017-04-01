@@ -1,0 +1,5 @@
+# Članak 16.
+(1) Nakon provedenog ispitivanja iz članka 5. ovoga Pravilnika pojedinačni i prosječni rezultati sadržaja mliječne masti i bjelančevina utvrđuju se u gramima svakog sastojka u 100 grama mlijeka, a prikazuju se kao postotne vrijednosti težinskih udjela sadržaja masti i bjelančevina na razini točnosti od dva decimalna mjesta.
+(2) Iz pojedinačnih rezultata dobivenih ispitivanjima izračunava se za svaki mjesec, koristeći aritmetičku sredinu, prosječni težinski udio mliječne masti i bjelančevina u sirovom mlijeku.
+(3) Ako zbog više sile ili ako uzorak sirovog mlijeka ne udovoljava vrijednostima iz članka 9. ovisno o vrsti životinje kojoj sirovo mlijeko pripada, prosječni težinski udio mliječne masti i bjelančevina u sirovom mlijeku nije moguće izračunati sukladno stavku 2. ovoga članka u izračunu će se koristiti pojedinačni rezultati zadnja dva uzorka koji udovoljavaju članku 9. ovoga Pravilnika i koji nisu stariji od šest mjeseci.
+(4) Izračun prosječnog težinskog udjela mliječne masti i bjelančevina iz stavka 2. ovoga članka obavlja HPA.

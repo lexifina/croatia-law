@@ -1,0 +1,4 @@
+# Članak 12.
+(1) Ako se utvrdi da osposobljena osoba i dalje u roku od dva mjeseca uzastopno nakon dodatne edukacije iz članka 11. stavka 3. ovoga Pravilnika nastavi sa neispravnim uzimanjem uzoraka sirovog mlijeka ili neispravnim popunjavanjem prateće dokumentacije, HPA je dužna o tome obavijestiti prvog otkupljivača.
+(2) Nakon zaprimanja obavijesti iz stavka 1. ovoga članka uzimanje uzoraka mlijeka i popunjavanje prateće dokumentacije dužan je osigurati prvi otkupljivač sve dok se ne utvrdi da je prethodno osposobljena osoba uspješno završila ponovno osposobljavanje o ispravnom uzimanju uzoraka sirovog mlijeka za ispitivanje i popunjavanje prateće dokumentacije ili uzimanje uzoraka mlijeka vrši nova za to osposobljena osoba.
+(3) Provedbu dodatne edukacije osposobljenih osoba prvi otkupljivač dogovara s HPA.
