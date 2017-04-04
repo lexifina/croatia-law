@@ -1,0 +1,4 @@
+## UVODNA ODREDBA
+# Članak 1.
+(1) Ovim se Pravilnikom detaljnije uređuje provedba Zakona o postupanju u dobroj vjeri sudionika porezno-pravnog odnosa; obvezujućim mišljenjima; gospodarskoj cjelini; dostavi poslovnih knjiga, evidencija, izvješća i drugih podataka koji se čuvaju u elektroničkom obliku; obrascima prijave činjenica bitnih za oporezivanje, utvrđivanju rezidentnosti i izjavi o izvorima stjecanja imovine; posebnom statusu poreznog obveznika; podnošenju poreznih prijava i drugih podataka elektroničkim putem; ispravku prijave na poziv poreznog tijela; statističkim izvješćima o činjenicama bitnim za oporezivanje; poreznoj nagodbi i uvjetima, načinu i postupku prijeboja potraživanja prema državnom proračunu s poreznim dugom.
+(2) Pojmovi »porezno tijelo« i »Porezna uprava« upotrebljavaju su različito u pojedinim dijelovima ovoga Pravilnika, sukladno ovlastima koje proizlaze iz pojedinih odredbi Zakona i Pravilnika.

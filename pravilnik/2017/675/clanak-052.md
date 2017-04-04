@@ -1,0 +1,5 @@
+## Elektroničko potpisivanje podnesaka
+# Članak 52.
+(1) Prije slanja podneska iz članka 51. stavka 1. ovoga Pravilnika, porezni obveznik mora naprednim elektroničkim potpisom potpisati elektronički obrazac podneska. Prilikom slanja, porezni obveznik uz elektronički obrazac podneska prilaže kao privitak datoteku podataka koja sadrži obvezne privitke uz takav podnesak.
+(2) Porezni obveznik popunjene elektroničke obrasce podneska potpisane s naprednim elektroničkim potpisom i obvezne privitke šalje Poreznoj upravi elektroničkim putem i to korištenjem sustava ePorezna.
+(3) Podnesci iz članka 51. stavka 1. ovoga Pravilnika po svojem sadržaju i obliku u cijelosti odgovaraju elektroničkom prikazu obrasca porezne prijave u skladu s odredbama posebnih propisa koji propisuju sadržaj i oblik obrazaca porezne prijave. Obvezni privitci iz članka 51. stavka 2. ovoga Pravilnika u cijelosti odgovaraju sadržaju dokumentacije koja se obvezno podnosi uz poreznu prijavu ili izvješće u skladu s odredbama posebnog propisa kojim je propisana obveza podnošenja privitaka uz poreznu prijavu ili izvješće.

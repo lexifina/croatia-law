@@ -1,0 +1,5 @@
+## Ovlaštenje za zastupanje
+# Članak 54.
+(1) Porezni obveznik može na zakonom predviđen način ovlastiti osobu koja je nositelj kvalificiranog certifikata kojim se potpisuju elektronički obrasci naprednim elektroničkim potpisom u skladu s odredbama zakona kojim se uređuje uporaba elektroničkog potpisa, da u njegovo ime i za njegov račun popunjava i potpisuje naprednim elektroničkim potpisom podneske iz članka 51. i članka 53. ovoga Pravilnika.
+(2) U slučaju kada je fizička osoba zakonski zastupnik kod više poslovnih subjekata ili je istovremeno zakonski zastupnik poslovnog subjekta i obveznik je podnošenja podnesaka kao fizička osoba, može biti ovlaštena za korištenje sustava ePorezna i za druge poslovne subjekte ili kao fizička osoba, sukladno odredbama zakona kojima se uređuju obvezni odnosi i zakona kojim se uređuje poslovanje trgovačkih društava.
+(3) Porezni obveznik odgovoran je za točnost i potpunost podataka iskazanih u podnescima koje Poreznoj upravi elektroničkim putem dostavlja ovlaštena osoba iz stavka 1. ovoga članka.
