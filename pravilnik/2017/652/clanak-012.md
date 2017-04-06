@@ -1,0 +1,3 @@
+# Članak 12.
+(1) Iznimno kvalitetni radovi mogu se vrednovati s faktorom 1,5 ili 2,00 o čemu odluku donosi stručno povjerenstvo. Pod iznimno kvalitetnim radovima u području prirodnih znanosti, polja fizike, kemije, biologije, geologije, geofizike i interdisciplinarnih znanosti, podrazumijevaju se radovi objavljeni u najprestižnijim časopisima visokog čimbenika odjeka kao što su Nature, Science ili u najprestižnijim časopisima pojedinog polja te radovi s visokom citiranošću o čemu donosi odluku stručno povjerenstvo, a potvrđuje matični odbor.
+(2) Kod određivanja faktora iz stavka 1. ovoga članka stručno povjerenstvo mora voditi računa o broju autora i doprinosu pristupnika u tim radovima.

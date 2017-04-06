@@ -1,0 +1,8 @@
+## Opće odredbe i uvjeti za izbor u interdisciplinarnom području
+# Članak 33.
+(1) Zbog izrazite interdisciplinarnosti izbor u znanstveno zvanje za polja: 8.01. Kognitivna znanost, 8.03. Integrativna bioetika i 8.08. Projektni menadžment (kada se interdisciplinarnost temelji na dva, najviše tri znanstvena polja) pristupnik mora udovoljiti kombiniranim uvjetima propisanim ovim Pravilnikom za sva polja u koja se bira i to u kumulativnom iznosu od najmanje 100% s tim da u svakom pojedinačnom polju moraju biti zadovoljeni uvjeti od minimalno 30%. Ova odredba vrijedi za sve izbore u interdisciplinarnom području znanosti koji se provode kombinacijom različitih znanstvenih polja.
+(2) Znanstvenim radom smatra se: recenzirani znanstveni članak objavljen u znanstvenom časopisu, recenzirana znanstvena knjiga ili recenzirano znanstveno poglavlje knjige te recenzirani znanstveni rad objavljen u zborniku radova sa znanstvenog skupa, ako je takav rad objavljen u cjelini.
+(3) Sveučilišni udžbenici ne uzimaju se u obzir prigodom izbora u znanstvena zvanja (vrednuju se u uvjetima Rektorskog zbora za izbor u znanstveno-nastavna zvanja).
+(4) Najviše jedan rad prihvaćen za objavljivanje može se priznati kao da je objavljen, ali samo uz potvrdu uredništva časopisa ili publikacije da je recenziran i da je prihvaćen za objavljivanje.
+(5) Članci ili knjiga objavljena na temelju istraživanja za potrebe izrade magistarskog znanstvenog rada ili disertacije vrednuju se kao i svi ostali radovi.
+(6) Smatra se da je časopis referiran u određenoj bazi ako je referiran u godini objave članka ili godini koja prethodi godini objave članka.

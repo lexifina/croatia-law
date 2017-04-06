@@ -1,0 +1,9 @@
+## Postupak razvrstavanja časopisa u kategorije (a1) i a2
+# Članak 30.
+(1) Na prijedlog Područnog znanstvenog vijeća za humanističke znanosti Nacionalno vijeće za znanost, visoko obrazovanje i tehnološki razvoj utvrđuje popis časopisa i drugih publikacija relevantnih pri vrednovanju radova za izbor u znanstvena zvanja iz područja humanističkih znanosti.
+(2) Dvije godine izlaženja časopisa uzimaju se kao najkraće razdoblje nakon kojega se može predložiti kategorizacija ili ponovna kategorizacija časopisa.
+(3) Prijedlog za kategorizaciju podnosi se na propisanom obrascu u kojem se navode podatci koji su potrebni za kategoriziranje časopisa, a koji obrazac utvrđuje Područno znanstveno vijeće za humanističke znanosti.
+(4) Uz prijedlog za kategorizaciju časopisa prilažu se svesci časopisa iz razdoblja na osnovi kojega se vrjednovanje provodi, a najmanje za posljednje dvije godine izlaženja. Područno vijeće može u postupku vrednovanja časopisa zatražiti dodatnu dokumentaciju.
+(5) Prijedlozi za kategorizaciju časopisa mogu se podnositi tijekom cijele godine. Područno vijeće pristigle će prijedloge razmatrati periodički.
+(6) Područno vijeće određuje izvjestitelja za podnesene prijedlog kategorizacije, koji u pisanom obliku treba dati mišljenje o ispunjavanju kriterija. Na temelju mišljenja izvjestitelja Vijeće raspravlja i donosi odluku o prijedlogu koji će uputiti Nacionalnom vijeću za znanost, visoko obrazovanje i tehnološki razvoj.
+(7) Redovite revizije klasifikacije časopisa u (a1) i (a2) kategorije Područno znanstveno vijeće za humanističke znanosti može provoditi u razdobljima koja ne mogu biti kraća od 4 godine. Odluku o redovitoj reviziji klasifikacije časopisa Područno znanstveno vijeće za humanističke znanosti donosi nakon provedene rasprave u kojoj će utvrditi potrebu za redovitom revizijom.

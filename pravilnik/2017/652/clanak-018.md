@@ -1,0 +1,9 @@
+## Posebni dodatni uvjeti za izbor u znanstvenom polju »Ekonomija«
+# Članak 18.
+(1) Pri izboru u znanstveno zvanje u znanstvenom polju »Ekonomija« pristupnik mora udovoljiti posebnim dodatnim uvjetima propisanim ovim člankom Pravilnika.
+(2) Pri izboru u znanstveno zvanje u polju »Ekonomija« pristupnik mora udovoljavati i slijedećim dodatnim uvjetima:
+- pri izboru u zvanje znanstvenog suradnika pristupnik mora ostvariti najmanje 2 boda temeljem radova objavljenih u znanstvenim časopisima zastupljenima u bazama podataka WoSCC ili Scopus;
+- pri izboru u zvanje viši znanstveni suradnik, znanstveni savjetnik i znanstveni savjetnik u trajnom zvanju pristupnik mora, nakon izbora u prethodno zvanje, ostvariti najmanje 2 boda temeljem radova objavljenih u znanstvenim časopisima zastupljenima u bazama podataka WoSCC ili Scopus.
+- navedeni broj radova objavljenih u časopisima zastupljenim u bazama WoSCC ili Scopus ne može biti nadomješten drugim (a1) radovima ili znanstvenim monografijama (knjigama) bez obzira na njihovu kategorizaciju.
+(3) U znanstvenom polju »Ekonomija« u radove prve skupine (a1) ubrajaju se i radovi objavljeni u znanstvenim časopisima zastupljenim u bazi EconLit, koji ne mogu zamijeniti potreban minimalan broj bodova/radova objavljenih u časopisima zastupljenim u bazama WoSCC ili Scopus iz stavka 2. ovoga članka. Ako nisu povoljnije razvrstani u WoSCC-u ili Scopusu radovi objavljeni u znanstvenim časopisima zastupljenim u bazi EconLit razvrstavaju se i boduju kao radovi četvrtog kvartila (Q4).
+(4) U znanstvenom polju »Ekonomija« za izbor u znanstveno zvanje znanstvenog suradnika pristupnik mora imati najmanje jedan samostalan znanstveni rad (mora mu biti jedini autor), a za izbor u svako više zvanje pristupnik mora imati najmanje po dva samostalna znanstvena rada objavljena nakon prethodnog izbora.

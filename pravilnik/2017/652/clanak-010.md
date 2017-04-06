@@ -1,0 +1,4 @@
+# Članak 10.
+(1) Jedan od ukupnog broja znanstvenih radova potrebnih za izbor u pojedino zvanje iz tablice iz članka 7. ovog Pravilnika može se zamijeniti priznatim patentom, s time da se međunarodnom patentu pridružuje IF=2 x medijan IF-a predmetnog područja i polja znanosti, a hrvatskom patentu se pridružuje IF=medijan IF-a predmetnog područja i polja znanosti.
+(2) Jedan od ukupnog broja znanstvenih radova potrebnih za izbor u pojedino zvanje iz tablice iz članka 7. ovog Pravilnika za polje Geologija može se zamijeniti objavljenom osnovnom geološkom kartom i pripadajućim tumačem, s time da se osnovnoj geološkoj karti i pripadajućem tumaču pridružuje IF=medijan IF-a za područje Geologije.
+(3) Stručni radovi, studije, sažeci, prošireni sažeci i kongresna priopćenja ne mogu se izjednačiti sa znanstvenim radovima.
