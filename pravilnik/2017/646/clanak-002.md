@@ -1,0 +1,4 @@
+# Članak 2.
+Sredstva u ukupnom iznosu od 18.000.000,00 kuna namijenjena su ujednačavanju redovitog održavanja županijskih i lokalnih cesta, a doznačivat će se Županijskoj upravi za ceste Sisačko-moslavačke županije u iznosu od 1.838.800,00 kuna i Županijskoj upravi za ceste Ličko-senjske županije u iznosu od 16.161.200,00 kuna, mjesečno, u visini 1/12 utvrđenog iznosa.
+Sredstva u iznosu od 5.000.000,00 kuna namijenjena su za izvanredno održavanje, a raspoređuju se Županijskoj upravi za ceste Sisačko-moslavačke županije za izvanredno održavanje županijske ceste ŽC3263 (Zrin/LC33153/-G. Orahovica - Divuša /D47) u duljini 12 km za obnovu kolnika i dva mosta.
+Sredstva iz stavka 2. ovog članka raspoređuju se temeljem Zaključka Vlade Republike Hrvatske klasa: 022-03/17-07/81, urbroj: 50301-25/18-17-2 od 23. veljače 2017. godine.
