@@ -1,0 +1,3 @@
+## Podaci za identifikaciju
+# Članak 23.
+Podaci za identifikaciju u smislu ovoga Zakona sastoje se od tvrtke ili naziva, sjedišta i poslovne adrese, osobnoga identifikacijskog broja te odgovarajućih podataka kojima se dokazuje da dužnik ispunjava uvjete iz članka 4. ovoga Zakona. Smatrat će se da su ispunjeni uvjeti iz članka 4. stavka 2. ovoga Zakona ako dužnik dostavi izjavu potpisanu od ovlaštenih osoba dužnika pod materijalnom i kaznenom odgovornošću kojom se potvrđuje da broj radnika dužnika te povezanih i ovisnih društava prelazi broj radnika određen člankom 4. stavkom 2. podstavkom 1. ovoga Zakona, kao i da postojeće obveze zadovoljavaju uvjete iz članka 4. stavka 2. podstavka 2. ovoga Zakona.

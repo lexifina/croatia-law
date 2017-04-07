@@ -1,0 +1,8 @@
+## POGLAVLJE 2. TRGOVAČKA DRUŠTVA OD SISTEMSKOG ZNAČAJA ZA REPUBLIKU HRVATSKU
+## Značenje pojma trgovačkog društva od sistemskog značaja za Republiku Hrvatsku
+# Članak 4.
+(1) Postupak izvanredne uprave primijenit će se na dioničko društvo dužnika (u daljnjem tekstu: dužnik) i sva njegova ovisna i povezana društva ako je utvrđeno postojanje bilo kojeg od stečajnih razloga u smislu članka 5. Stečajnog zakona (»Narodne novine«, br. 71/15., u daljnjem tekstu: Stečajni zakon) ili predstečajnog razloga iz članka 4. Stečajnog zakona u odnosu na dužnika kao vladajuće društvo i koje dioničko društvo je samostalno ili zajedno sa svojim ovisnim ili povezanim društvima od sistemskog značaja za Republiku Hrvatsku.
+(2) Dioničko društvo od sistemskog značaja za Republiku Hrvatsku je ono koje, samostalno ili zajedno sa svojim ovisnim ili povezanim društvima, kumulativno ispunjava sljedeće uvjete:
+– da u kalendarskoj godini koja prethodi godini u kojoj je podnesen prijedlog za otvaranje postupka izvanredne uprave samostalno ili zajedno sa svojim ovisnim ili povezanim društvima zapošljava prosječno više od 5000 radnika i
+– da postojeće bilančne obveze samostalno ili zajedno sa svojim ovisnim ili povezanim društvima iznose više od 7.500.000.000,00 kuna, odnosno u slučaju bilančnih obveza koje su denominirane u drugoj valuti, ako iznose više od kunske protuvrijednosti 7.500.000.000,00 kuna računajući na dan podnošenja prijedloga za otvaranje postupka izvanredne uprave.
+(3) Ovaj Zakon ne primjenjuje se na kreditne institucije kako je uređeno člankom 4. stavkom 1. točkom 1. Uredbe (EU) br. 575/2013 i financijske institucije kako je uređeno člankom 4. stavkom 1. točkom 26. Uredbe (EU) br. 575/2013.
