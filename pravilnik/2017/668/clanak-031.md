@@ -1,0 +1,3 @@
+## VII.2. LJUDSKI RESURSI
+# Članak 31.
+Nositelj odobrenja mora osigurati da svi pojedinci budu sposobni obavljati dodijeljen im posao te da razumiju važnost i značaj svojih aktivnosti za sigurnost. Pojedinci moraju imati odgovarajuće obrazovanje i obuku te moraju imati odgovarajuće vještine, znanja i iskustva kako bi se osigurala njihova stručnost. Obuka mora osigurati da pojedinci budu svjesni važnosti i značaja njihovih aktivnosti te načina na koji njihove aktivnosti pridonose sigurnosti u ostvarivanju ciljeva organizacije. Mora se provoditi procjena učinkovitosti obuke ili aktivnosti koje se poduzimaju. Potrebno znanje mora se postići i održavati.

@@ -1,0 +1,3 @@
+# Članak 11.
+(1) Organizacijska struktura, odgovornosti, različite razine nadležnosti, procesi i sučelja za sve organizacije, jedinice i pojedince definirani su i dokumentirani u integriranom sustavu upravljanja.
+(2) Integrirani sustav upravljanja mora obuhvatiti upravljanje bilo kakvim promjenama u procesima ili organizaciji koje su važne za sigurnost. To uključuje procjenu i ocjenjivanje s obzirom na važnost za sigurnost, opravdanje i komunikaciju. Naročito je potrebno uzeti u obzir potencijalne kumulativne učinke niza organizacijskih promjena, čak i malih ili zanemarivih, na aktivnosti važne za sigurnost te poduzeti odgovarajuće mjere.
