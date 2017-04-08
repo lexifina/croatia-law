@@ -1,0 +1,5 @@
+# Članak 9.
+Članak 12. mijenja se i glasi:
+»(1) Korisnici moraju biti organizirani i djelovati kao skupina proizvođača, kako su definirani člankom 3., stavkom 2. Uredbe (EU) br. 1151/2012 čiji članovi sudjeluju u sustavima kvalitete u skladu s EU ili nacionalnim zakonodavstvom, te kao udruga ekoloških poljoprivrednih proizvođača čiji su članovi proizvođači uključeni u ekološku proizvodnju sukladno članku 78. Zakona o poljoprivredi.
+(2) Korisnici uz Zahtjev za potporu za tip operacije 3.2.1. podnose Plan informiranja i promoviranja s vizijom oglašavanja i informiranja za razdoblje do pet godina, a koji mora imati najmanje 12 bodova nakon postupka ocjenjivanja iz članka 13. ovog Pravilnika.
+(3) Za provedbu aktivnosti koje se odnose na proizvode obuhvaćene sustavima kvalitete uvjet je da je najmanje jedan član udruge podnio zahtjev ili prima javnu potporu u okviru Podmjere 3.1., odnosno sustavima kvalitete u skladu s EU i nacionalnim zakonodavstvom, ili da je korisnik udruga ekoloških poljoprivrednih proizvođača čiji članovi sudjeluju u sustavima ekološke proizvodnje sukladno Zakonu o poljoprivredi.«
