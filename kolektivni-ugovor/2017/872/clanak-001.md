@@ -1,0 +1,3 @@
+# Članak 1.
+(1) Strane kolektivnog ugovora za zaposlenike u srednjoškolskim ustanovama su Vlada Republike Hrvatske s jedne strane te Nezavisni sindikat zaposlenih u srednjim školama Hrvatske i Sindikat zaposlenika u hrvatskom školstvu Preporod.
+(2) Na strani poslodavca ovaj kolektivni ugovor obvezuje Vladu Republike Hrvatske, školski odbor i ravnatelja ustanove u kojoj se obavlja srednjoškolska djelatnost, a na koje se primjenjuje Zakon o plaćama u javnim službama (»Narodne novine«, broj 27/01 i 39/09) te kojoj se sredstva za plaće osiguravaju u državnom proračunu (u daljnjem tekstu: srednjoškolska ustanova).

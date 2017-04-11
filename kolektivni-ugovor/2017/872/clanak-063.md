@@ -1,0 +1,5 @@
+## Obveze ovlaštene osobe u postupku zaštite dostojanstva
+# Članak 63.
+(1) Ovlaštena je osoba dužna, najkasnije sljedećega radnog dana nakon podnošenja pritužbe, pozvati zaposlenika protiv kojega je pritužba podnesena da se o pritužbi očituje. O očitovanju zaposlenika sastavlja se bilješka koju taj zaposlenik i ovlaštena osoba supotpisuju.
+(2) Ovlaštena osoba, ukoliko procijeni da je to potrebno, predlaže mogućnosti i savjetuje provođenje i drugih radnji poput postupka mirenja suočenjem zaposlenika koji su podnijeli pritužbu i zaposlenika na koga se pritužba odnosi, saslušanjem i drugih osoba koje imaju saznanja o činjenicama vezanim za uznemiravanje i dr. kako bi na dokazan način utvrdila navode iz pritužbe
+(3) Ukoliko se pritužba odnosi na poslodavca te nije opravdano očekivati da će poslodavac zaštititi dostojanstvo zaposlenika, zaposlenik nije dužan dostaviti pritužbu poslodavcu i ima pravo prekinuti rad, pod uvjetom da o prekidu rada i namjeri pokretanja zaštite pred nadležnim sudom odmah izvijesti poslodavca, a o pokretanju zaštite pred nadležnim sudom obavijesti poslodavca u roku od osam dana od dana prekida rada.

@@ -1,0 +1,4 @@
+# Članak 71.
+(1) Sindikalnom povjereniku za vrijeme obnašanja sindikalne dužnosti te najkraće šest (6) mjeseci po isteku dužnosti, a, u slučaju da po isteku šest (6) mjeseci traje školska godina u kojoj je istekla dužnost, najduže do kraja te školske godine, poslodavac ne smije otkazati ugovor o radu, premjestiti na nepovoljnije mjesto rada, premjestiti ga u sklopu iste ili druge Srednjoškolske ustanove, niti na bilo koji drugi način staviti u nepovoljniji položaj bez suglasnosti Sindikata.
+(2) Najveći broj sindikalnih povjerenika koji uživa zaštitu iz zakona i ovog ugovora određuje se sukladno članku 83. stavku 2. Temeljnog kolektivnog ugovora za službenike i namještenike u javnim službama (»Narodne novine« br. 24/17).
+(3) Suglasnost za otkaz i suglasnost iz stavka 1. ovoga članka daje predsjednik onog sindikata kojeg je povjerenik član ili osoba koju on ovlasti.
