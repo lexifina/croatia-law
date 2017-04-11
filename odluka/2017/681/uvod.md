@@ -1,0 +1,1 @@
+Na temelju članka 19. stavka 6. Zakona o računovodstvu (»Narodne novine«, br. 78/2015., 134/2015. i 120/2016.), članka 47. stavka 2. Zakona o kreditnim unijama (»Narodne novine«, br. 141/2006., 25/2009. i 90/2011.) i članka 43. stavka 2. točke 9. Zakona o Hrvatskoj narodnoj banci (»Narodne novine«, br. 75/2008. i 54/2013.) guverner Hrvatske narodne banke donosi
