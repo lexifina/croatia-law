@@ -1,0 +1,6 @@
+# Članak 43.
+(1) Zabranjeno je uznemiravanje i spolno uznemiravanje zaposlenika.
+(2) Uznemiravanje je svako ponašanje koje ima cilj ili stvarno predstavlja povredu dostojanstva zaposlenika, a koje uzrokuje strah ili neprijateljsko, ponižavajuće ili uvredljivo okruženje za zaposlenika.
+(3) Uznemiravanjem iz stavka 1. ovoga članka smatra se i diskriminirajuće ponašanje kojim se zaposlenik izravno ili neizravno stavlja u nepovoljniji položaj od drugog zaposlenika na temelju rase, boje kože, spola, spolnog opredjeljenja, bračnog stanja, porodičnih obveza, dobi, jezika, vjere, političkog ili drugog uvjerenja, nacionalnog ili socijalnog podrijetla, imovnog stanja, rođenja, društvenog položaja, članstva ili nečlanstva u političkoj stranci, članstva ili nečlanstva u sindikatu te tjelesnih ili duševnih teškoća.
+(4) Spolno uznemiravanje je svako verbalno, neverbalno ili fizičko ponašanje spolne naravi koje ima cilj ili stvarno predstavlja povredu osobe dostojanstva zaposlenika, a koje uzrokuje strah ili neprijateljsko, ponižavajuće ili uvredljivo okruženje.
+(5) Ponašanje kojim se narušava dostojanstvo osobe zaposlenika smatra se namjerno ili nehajno ponašanje koje uključuje ogovaranje, širenje glasina ili kleveta o drugome, uvrede, prijetnje, psovke, omalovažavanje, namjerno uskraćivanje informacija potrebnih za rad i sl.
