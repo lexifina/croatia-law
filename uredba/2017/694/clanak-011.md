@@ -1,0 +1,6 @@
+# Članak 11.
+Članak 12. mijenja se i glasi:
+»(1) Operater je dužan prije planirane promjene u području postrojenja ili postrojenju dostaviti ažurirane podatke u Registar postrojenja u kojima su prisutne opasne tvari.
+(2) Značajnost promjene u području postrojenja u smislu stavka 1. ovoga članka za postrojenja nižeg i višeg razreda utvrđuje Ministarstvo mišljenjem.
+(3) U slučaju trajnog zatvaranja područja postrojenja u kojem su prisutne opasne tvari operater je dužan donijeti pisanu odluku u kojoj će utvrditi način i krajnji rok prestanka rada područja postrojenja u kojem su prisutne opasne tvari kako ono više ne bi predstavljalo rizik od velikih nesreća. Odluka mora sadržavati sve potrebne informacije vezane uz način postupanja s opasnim tvarima, kao i informacije vezane uz stavljanje područja postrojenja izvan rada uključujući uklanjanje opasnih tvari, sigurnost i zaštitu lokacije.
+(4) U svrhu cjelovitog i pravodobnog obavještavanja nadležnih tijela i/ili osoba, odluku iz stavka 3. ovoga članka operater je dužan dostaviti Agenciji, središnjem tijelu državne uprave nadležnom za zaštitu i spašavanje, te za postrojenja nižeg i višeg razreda Ministarstvu u roku od 15 dana od dana donošenja odluke o prestanku rada područja postrojenja.«.

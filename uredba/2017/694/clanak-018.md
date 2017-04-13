@@ -1,0 +1,5 @@
+# Članak 18.
+Članak 21. mijenja se i glasi:
+»(1) Ako zahtjevi iz članka 20. stavaka 1. i 3. ove Uredbe ne sadrže sve propisane podatke i dokaze, odnosno kada Izvješće o sigurnosti ili Politika sprječavanja velikih nesreća koje prilaže tome zahtjevu ne sadrži sve podatke i informacije sukladno odredbama ove Uredbe, Ministarstvo će pozvati operatera da u primjerenom roku, a koji ne može biti duži od trideset dana, ukloni nedostatke u zahtjevu odnosno Izvješću o sigurnosti ili Politici sprječavanja velikih nesreća.
+(2) O zahtjevu operatera za izdavanje suglasnosti na Izvješće o sigurnosti ili Politiku sprječavanja velikih nesreća Ministarstvo je dužno informirati javnost i zainteresiranu javnost nakon što utvrdi da zahtjev sadrži sve propisane podatke i dokaze te da Izvješće o sigurnosti ili Politika sprječavanja velikih nesreća sadrži sve propisane podatke i informacije sukladno odredbama ove Uredbe.
+(3) O zahtjevima iz stavka 1. ovoga članka javnost i zainteresirana javnost se informira sukladno Zakonu i provedbenom propisu kojim se uređuje informiranje i sudjelovanje javnosti i zainteresirane javnosti u pitanjima zaštite okoliša.«.
