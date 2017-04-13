@@ -1,0 +1,14 @@
+## III.2. SPECIFIČNI ZAHTJEVI POLITIKE PRIMITAKA ZA SVE KREDITNE INSTITUCIJE
+## Identificirani radnici
+# Članak 27.
+(1) Kreditna institucija dužna je utvrditi identificirane radnike primjenom kriterija iz Delegirane uredbe (EU) br. 604/2014 i, po potrebi, primjenom dodatnih kriterija koje je utvrdila kreditna institucija.
+(2) Kreditna institucija dužna je jednom godišnje provoditi i na odgovarajući način dokumentirati postupak ponovnog utvrđivanja identificiranih radnika u skladu s kvalitativnim i kvantitativnim kriterijima iz Delegirane uredbe (EU) br. 604/2014. Navedena dokumentacija uključuje sljedeće informacije:
+1) razloge za ponovno utvrđivanje identificiranih radnika i obuhvat primjene,
+2) metodu korištenu za procjenu rizika koji proizlaze iz poslovne strategije i aktivnosti kreditne institucije,
+3) metodu procjene radnika kreditne institucije, drugih društava kćeri koja su obuhvaćena konsolidacijom i podružnica, uključujući i one koje se nalaze u trećim zemljama,
+4) ovlasti i odgovornosti različitih tijela i funkcija kreditne institucije uključenih u izradu, nadzor, kontrolu i primjenu postupka ponovnog utvrđivanja,
+5) rezultate ponovnog utvrđivanja, uključujući broj identificiranih radnika, broj radnika koji su identificirani prvi put, poslovne odgovornosti, aktivnosti i poslovna područja u kojima identificirani radnici rade, imena ili osobni identifikacijski broj identificiranih radnika te usporedbu s rezultatima utvrđivanja iz prethodne poslovne godine i
+6) obrazloženje za radnike koji su identificirani na osnovi kvantitativnih kriterija, ali za koje je kreditna institucija procijenila da njihove profesionalne aktivnosti nemaju značajan utjecaj na profil rizičnosti u skladu s kriterijima iz članka 4. stavaka 2. i 3. Delegirane uredbe (EU) br. 604/2014.
+(3) Za potrebe određivanja identificiranih radnika na početku tekuće poslovne godine na osnovi kvantitativnih kriterija iz članka 4. Delegirane uredbe (EU) br. 604/2014, kreditna institucija dužna je uzeti u obzir ukupne novčane i nenovčane primitke dodijeljene radniku u prethodnoj poslovnoj godini, neovisno o tome kada su ti primici isplaćeni.
+(4) Kreditna institucija dužna je periodično ažurirati postupak utvrđivanja identificiranih radnika, najmanje u smislu kvalitativnih kriterija iz članka 3. Delegirane uredbe (EU) br. 604/2014. Radnici koji su identificirani na osnovi kvalitativnih kriterija tijekom razdoblja od najmanje tri mjeseca u poslovnoj godini smatraju se identificiranim radnicima za tu poslovnu godinu.
+(5) Kreditna institucija dužna je na zahtjev Hrvatske narodne banke obrazložiti način na koji je utvrdila identificirane radnike prema kvalitativnim i kvantitativnim kriterijima koji su propisani Delegiranom uredbom (EU) br. 604/2014 i drugim kriterijima koje je utvrdila kreditna institucija te dostaviti svu relevantnu dokumentaciju.

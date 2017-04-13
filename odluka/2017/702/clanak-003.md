@@ -1,0 +1,6 @@
+## II. DONOŠENJE, PROVOĐENJE I PROVJERA POLITIKE PRIMITAKA
+## Politika primitaka
+# Članak 3.
+(1) Kreditna institucija dužna je donijeti i provoditi politiku primitaka u skladu s odredbama ove Odluke.
+(2) Matična kreditna institucija u grupi kreditnih institucija u Republici Hrvatskoj dužna je donijeti i provoditi politiku primitaka za grupu kreditnih institucija u Republici Hrvatskoj u skladu s odredbama ove Odluke.
+(3) Ugovori o radu kao i drugi ugovori između radnika i kreditne institucije moraju biti sklopljeni u skladu s politikom primitaka iz stavka 1. ovoga članka.

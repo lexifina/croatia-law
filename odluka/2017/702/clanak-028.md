@@ -1,0 +1,7 @@
+## Obavijest i prethodna suglasnost za isključenje
+# Članak 28.
+(1) Za radnike koji su identificirani na osnovi kvantitativnih kriterija iz članka 4. stavka 1. Delegirane uredbe (EU) br. 604/2014, a za koje je kreditna institucija u skladu s kriterijima iz članka 4. stavka 2. te Uredbe ocijenila da njihove profesionalne aktivnosti nemaju značajan utjecaj na njezin profil rizičnosti, kreditna institucija dužna je:
+1) u slučaju iz članka 4. stavka 4. Delegirane uredbe (EU) br. 604/2014, najkasnije u roku od šest mjeseci od isteka prethodne poslovne godine, obavijestiti Hrvatsku narodnu banku o primjeni članka 4. stavka 2. te Uredbe i
+2) u slučaju iz članka 4. stavka 5. Delegirane uredbe (EU) br. 604/2014, najkasnije u roku od šest mjeseci od isteka prethodne poslovne godine, podnijeti Hrvatskoj narodnoj banci zahtjev za izdavanje prethodne suglasnosti za primjenu članka 4. stavka 2. te Uredbe.
+(2) Uz obavijest i zahtjev za izdavanje prethodne suglasnosti iz stavka 1. ovoga članka potrebno je priložiti ime ili osobni identifikacijski broj za identificirane radnike na koje se isključenja primjenjuju, postotak internoga kapitala koji je dodijeljen poslovnoj jedinici ili društvu kćeri i analizu utjecaja radnika na profil rizičnosti kreditne institucije prema kriterijima iz članka 4. stavka 3. Delegirane uredbe (EU) br. 604/2014.
+(3) Odluku o isključenju iz stavka 1. ovoga članka donosi uprava uz suglasnost nadzornog odbora.

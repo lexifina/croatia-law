@@ -1,0 +1,33 @@
+## V. JAVNA OBJAVA
+## Javna objava
+# Članak 44.
+(1) Pri objavi informacija o politici primitaka iz članka 450. Uredbe (EU) br. 575/2013 uzimaju se u obzir veličina, unutarnja organizacija te vrsta, opseg i složenost poslova kreditne institucije.
+(2) Kreditna institucija dužna je objaviti informacije o velikim razlikama u politici primitaka za različite kategorije identificiranih radnika i, ako je primjenjivo, razlike u politici primitaka na razini grupe, matične kreditne institucije i društva kćeri. Navedene informacije odnose se ponajprije na različite odnose između varijabilnoga i fiksnog dijela ukupnih primitaka, programe nagrađivanja, dostupna sredstva i instrumente u kojima se varijabilni primici dodjeljuju. Također, potrebno je pružiti obrazloženje tih razlika te njihov utjecaj na određivanje maksimalnog iznosa varijabilnih primitaka za različita poslovna područja.
+(3) Kreditna institucija dužna je objaviti svaku značajnu izmjenu politike primitaka, uključujući njezin utjecaj na sastav varijabilnoga i fiksnog dijela primitaka i postupak upravljanja politikom primitaka.
+(4) Kreditna institucija dužna je objaviti informacije o načinu primjene zahtjeva o politikama primitaka i varijabilnim primicima, uključujući zahtjeve utvrđene u Delegiranoj uredbi (EU) br. 604/2014.
+(5) Kreditna institucija dužna je objaviti informacije o broju identificiranih radnika raspoređenih po poslovnim područjima, višem rukovodstvu i ostalim identificiranim radnicima, kao i objašnjenje o značajnim promjenama u broju identificiranih radnika u odnosu na prethodnu financijsku godinu.
+(6) U okviru objave informacija o postupku donošenja odluka kojim se utvrđuje politika primitaka u smislu članka 450. stavka 1. točke a) Uredbe (EU) br. 575/2013, kreditna institucija dužna je objaviti informacije o nadležnosti i odgovornostima pojedinih tijela, funkcija i osoba koje sudjeluju u postupku donošenja, provedbe i provjere politike primitaka.
+(7) U okviru objave informacija o vezi između primitaka i uspješnosti u smislu članka 450. stavka 1. točke b) Uredbe (EU) br. 575/2013, kreditna institucija dužna je objaviti informacije o vezi između varijabilnih primitaka i ocjene uspješnosti uključujući pritom ciljeve uspješnosti, broj radnika za koje je predviđena isplata varijabilnih primitaka i način na koji se promjene u uspješnosti kreditne institucije odražavaju na varijabilne primitke.
+(8) U okviru objave najvažnijih značajki politike primitaka u smislu članka 450. stavka 1. točke c) Uredbe (EU) br. 575/2013, objavljuju se sljedeće informacije:
+1) ključni ciljevi politike primitaka te postupci i način na koji se promiče dobro i učinkovito upravljanje rizicima,
+2) kvantitativni i kvalitativni pokazatelji za mjerenje uspješnosti i mjerenje rizika kojima se koristi u procjeni uspješnosti kreditne institucije, poslovne jedinice i pojedinog radnika, te način kombiniranja tih kriterija,
+3) kriteriji koji se primjenjuju u postupku prilagodbe rizicima,
+4) iznosi i oblici u kojima se varijabilni primici isplaćuju (primjerice novac, dionice, instrumenti kapitala, dugoročni i kratkoročni planovi poticaja) kao i razlozi upotrebe različitih oblika i njihove dodjele različitim kategorijama identificiranih radnika posebno članovima uprave i radnicima koji obavljaju poslove kontrolnih funkcija,
+5) način na koji kreditna institucija nagrađuje radnika koji obavlja poslove kontrolnih funkcija,
+6) kriteriji za određivanje fiksnih i varijabilnih primitaka,
+7) mehanizmi prilagodbe uspješnosti rizicima kako bi se u obzir uzela dugoročna uspješnost, uključujući:
+- za pojedine kategorije identificiranih radnika, kriteriji uzeti u obzir pri odlučivanju o trajanju razdoblja odgode i odnosa odgođenih i neodgođenih primitaka, rasporedu stjecanja i razdoblju zadržavanja,
+- za dodijeljene instrumente primijenjeni odnosi, razdoblja odgode i zadržavanja,
+- kriteriji za primjenu prethodne i naknadne prilagodbe varijabilnih primitaka rizicima, uključujući malus i povrat primitaka i
+- specifični zahtjevi vezani uz dionice,
+8) način na koji kreditna institucija primjenjuje načelo razmjernosti u politici primitaka i
+9) politike i kriteriji za dodjelu zajamčenih varijabilnih primitaka i otpremnina.
+(9) U okviru objave odnosa između varijabilnoga i fiksnog dijela ukupnih primitaka u smislu članka 450. stavka 1. točke d) Uredbe (EU) br. 575/2013, kreditna institucija objavljuje u obliku tablice informacije o različitim odnosima između varijabilnoga i fiksnog dijela ukupnih primitaka za upravu, nadzorni odbor, poslovna područja, korporativne i kontrolne funkcije te najmanje raspodjelu na više rukovodstvo i ostale identificirane radnike.
+(10) Ako je glavna skupština kreditne institucije donijela odluku o primjeni višeg odnosa između varijabilnoga i fiksnog dijela ukupnih primitaka, kreditna institucija dužna je objaviti sljedeće informacije:
+1) postotak prisutnih glasova i postotak glasova danih za donošenje odluke o primjeni višeg odnosa,
+2) odobreni viši odnosi, a u slučaju različitih viših odnosa za poslovna područja odnos za svako poslovno područje i
+3) datum donošenja odluke.
+(11) U okviru objave informacija o kriterijima uspješnosti na kojima se zasnivaju prava na dionice, opcije ili varijabilne komponente primitaka u smislu članka 450. stavka 1. točke e) Uredbe (EU) br. 575/2013, kreditna institucija objavljuje kriterije kojima se utvrđuje ravnoteža između različitih vrsta dodijeljenih instrumenata.
+(12) U okviru objave informacija o glavnim kriterijima i obrazloženju svih shema varijabilnih dijelova primitaka te drugih negotovinskih pogodnosti u smislu članka 450. stavka 1. točke f) Uredbe (EU) br. 575/2013, kreditna institucija objavljuje informacije o dugoročnim planovima poticaja i pojedinosti o bilo kojoj vrsti varijabilnih primitaka koji predstavljaju neuobičajenu praksu nagrađivanja, uključujući primjerice upotrebu primitaka zasnovanih na ovlastima ili poziciji radnika i diskrecijske dodatne pogodnosti, kao i uvjete u kojima je takve primitke ili pogodnosti moguće ukinuti odnosno izmijeniti njihovu vrijednost.
+(13) U okviru objave kvantitativnih informacija u smislu članka 450. stavka 1. točke g) i h) i stavka 2. Uredbe (EU) br. 575/2013, kreditna institucija objavljuje informacije zasebno za svako od svojih većih poslovnih područja, uključujući investicijsko bankarstvo, poslovanje sa stanovništvom i upravljanje imovinom, te za upravu, nadzorni odbor, kontrolne funkcije, korporativne funkcije i za sva ostala poslovna područja. Navedene informacije potrebno je raščlaniti prema višem rukovodstvu i ostalim identificiranim radnicima.
+(14) Kreditna institucija objavljuje informacije o ukupnim fiksnim i varijabilnim primicima svih radnika.

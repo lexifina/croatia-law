@@ -1,0 +1,4 @@
+## Dodjela varijabilnih primitaka
+# Članak 35.
+(1) Kreditna institucija dužna je utvrditi maksimalan iznos varijabilnih primitaka za razdoblje za koje se varijabilni primici dodjeljuju. Varijabilni primici dodjeljuju se po isteku razdoblja procjene, koje iznosi najmanje godinu dana.
+(2) Pri utvrđivanju maksimalnog iznosa varijabilnih primitaka i dodjeli varijabilnih primitaka unutar kreditne institucije moraju se uzeti u obzir sve vrste rizika, očekivani i neočekivani gubici kao i odnos između varijabilnih i fiksnih primitaka, kriteriji za procjenu uspješnosti i rizika, ciljevi kontrola i financijski položaj, uključujući adekvatnost kapitala i likvidnost. Pokazatelji uspješnosti koje kreditna institucija uzima u obzir za potrebe određivanja maksimalnog iznosa varijabilnih primitaka uključuju dugoročne pokazatelje uspješnosti i ostvarene rezultate poslovanja.

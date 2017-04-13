@@ -1,0 +1,8 @@
+## Osobna zaštita od rizika
+# Članak 23.
+(1) Kreditna institucija dužna je sve radnike obvezati da se ne služe osobnim strategijama zaštite od rizika te da ne ugovaraju osiguranja od gubitka varijabilnih primitaka ili osiguranja od nepovoljnog ishoda preuzetih rizika, jer to narušava usklađenost njihovih primitaka s rizicima. Ova odredba odnosi se na sve varijabilne primitke radnika, uključujući odgođene primitke i primitke koji su isplaćeni, ali koji su predmet odredbe o zadržavanju.
+(2) Smatra se da se radnik zaštitio od rizika ako je sklopio ugovor s kreditnom institucijom ili trećom stranom te je ispunjen bilo koji od sljedećih uvjeta:
+1) ugovorom se kreditna institucija ili treća strana obvezuje izvršiti izravna ili neizravna plaćanja radniku, koja su povezana s iznosima ili odgovaraju iznosima za koje su varijabilni primici smanjeni,
+2) radnik kupuje ili posjeduje izvedenice kojima je svrha omogućiti zaštitu od gubitaka povezanih s financijskim instrumentima koje je primio kao dio varijabilnih primitaka.
+(3) Smatra se da se radnik osigurao od rizika kada je sklopio ugovor o osiguranju s odredbom prema kojoj treba biti obeštećen u slučaju smanjenja varijabilnih primitaka.
+(4) Kreditna institucija dužna je uspostaviti i održavati učinkovite mehanizme za osiguravanje usklađenosti s odredbama iz stavka 1. ovoga članka. U tom smislu potrebna je najmanje izjava radnika kojom se obvezuje da se neće služiti osobnim strategijama zaštite od rizika smanjenja varijabilnih primitaka niti ugovarati osiguranja od gubitka varijabilnih primitaka ili osiguranja od nepovoljnog ishoda preuzetih rizika.
