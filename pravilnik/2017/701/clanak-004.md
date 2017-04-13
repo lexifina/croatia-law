@@ -1,0 +1,12 @@
+# Članak 4.
+Iza članka 11. dodaje se članak 11.a koji glasi:
+»Članak 11.a
+Ako specijalist prije isteka vremena ugovorene obveze rada iz članka 11. stavka 2. ovoga Pravilnika namjerava otkazati ugovor o radu u zdravstvenoj ustanovi iz članka 11. stavka 1. ovoga Pravilnika i zasnovati radni odnos u drugoj zdravstvenoj ustanovi čiji je osnivač Republika Hrvatska ili jedinica područne (regionalne) samouprave, obvezan je zatražiti prethodnu suglasnost ministarstva.
+Uz zahtjev za davanje prethodne suglasnosti iz stavka 1. ovoga članka specijalist je obvezan priložiti suglasnost zdravstvene ustanove iz stavka 1. ovoga članka u kojoj će zasnovati radni odnos.
+Ministarstvo je obvezno odlučiti o zahtjevu za davanje prethodne suglasnosti iz stavka 1. ovoga članka najkasnije u roku od 60 dana od dana podnošenja urednog zahtjeva, uvažavajući pri tome sljedeća mjerila:
+- potrebu za doktorom medicine specijalistom obiteljske medicine na području osnivača zdravstvene ustanove iz stavka 1. ovoga članka i
+- ugovorenu djelatnost obiteljske (opće) medicine poslodavca kod kojeg specijalist namjerava zasnovati radni odnos u mreži javne zdravstvene službe.
+Ako ministarstvo u roku iz stavka 3. ovoga članka ne odluči o zahtjevu za davanje prethodne suglasnosti, smatra se da je prethodna suglasnost dana.
+Zdravstvena ustanova u kojoj specijalist zasnuje radni odnos temeljem prethodne suglasnosti ministarstva, obvezna je naknaditi zdravstvenoj ustanovi iz članka 11. stavka 1. ovoga Pravilnika stvarne troškove specijalizacije iz članka 12. ovoga Pravilnika i naknadu u iznosu jedne proračunske osnovice za obračun naknada i drugih primanja u Republici Hrvatskoj po mjesecu neodrađene ugovorene obveze rada nakon završene specijalizacije, u roku od godine dana od dana sklapanja ugovora o radu sa specijalistom.
+Ako specijalist otkaže ugovor o radu u zdravstvenoj ustanovi iz članka 11. stavka 1. ovoga Pravilnika bez prethodne suglasnosti ministarstva, obvezan je naknaditi troškove specijalizacije iz članka 12. ovoga Pravilnika i naknadu iz stavka 5. ovoga članka, u roku od godine dana od dana otkaza ugovora o radu.
+Obveza iz stavka 6. ovoga članka odnosi se i na specijalista koji otkaže ugovor o radu u zdravstvenoj ustanovi iz članka 11. stavka 1. ovoga Pravilnika, a ne zasnuje radni odnos u drugoj zdravstvenoj ustanovi čiji je osnivač Republika Hrvatska ili jedinica područne (regionalne) samouprave.«.
