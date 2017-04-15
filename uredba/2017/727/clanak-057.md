@@ -1,0 +1,2 @@
+# Članak 57.
+U ispostavama se obavljaju poslovi zaprimanja podnesaka stranaka, te poslovi koji se odnose na izdavanje podataka iz katastra nekretnina i katastra zemljišta (izvodi, prijepisi i potvrde i uvjerenja), izdavanje podataka (potvrda) o određenim kućnim brojevima do preuzimanja tih poslova, razvrstavanje obavijesti zemljišnoknjižnih sudova, poslove planiranja obavljanja poslova i izvještavanja o obavljenim poslovima.

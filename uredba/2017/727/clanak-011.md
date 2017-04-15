@@ -1,0 +1,7 @@
+# Članak 11.
+Služba za topografsku izmjeru i državne karte obuhvaća upravne i stručne poslove vezane uz obavljanje poslova topografske izmjere, praćenje i usmjeravanje obavljanja geodetskih radova za posebne potrebe, obavljanje upravnih i stručnih poslova vezanih uz izradu državnih karata te vođenje i održavanje topografskih baza podataka, provedbu fotogrametrijskih snimanja i uporabu fotogrametrijskog materijala, vođenje dokumentacije vezane uz provedbu fotogrametrijskih snimanja i uporabu fotogrametrijskog materijala, pripremanje stručnih mišljenja i rješenja za izradu zakonskih i provedbenih propisa te davanje stručnih uputa za njihovu provedbu, obavlja poslove kontrole kvalitete i stručni nadzor iz područja topografske izmjere i izrade državnih karata, sudjelovanje u izradi stručnih podloga vezanih za bilateralnu i međunarodnu suradnju i razmjenu podataka iz područja topografske izmjere i državnih karata. U suradnji s drugim ustrojstvenim jedinicama sudjeluje u postupku nabave roba, usluga i ustupanju radova iz djelokruga Službe, sudjeluje u izradi godišnjih i višegodišnjih programa, izrađuje godišnji plan rada i izvješće o radu Službe, izrađuje planove cjeloživotnog stručnog usavršavanja djelatnika za specijalističke poslove iz djelokruga Službe.
+U Službi za topografsku izmjeru i državne karte, ustrojavaju se:
+2.2.1. Odjel kartografije
+2.2.2. Odjel fotogrametrije
+2.2.3. Odjel topografskih baza podataka.
+2.2.1. Odjel kartografije
