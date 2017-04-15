@@ -1,0 +1,1 @@
+Na temelju članka 51. Zakona o sustavu državne uprave (»Narodne novine«, br. 150/11., 12/13., 93/16. i 104/16.), članka 28. Zakona o knjižnicama (»Narodne novine«, br. 105/97., 5/98., 104/00. i 69/09.) te članka 64. Uredbe o unutarnjem ustrojstvu Državnog zavoda za statistiku (»Narodne novine«, br. 80/12.) ravnatelj Državnog zavoda za statistiku donosi
