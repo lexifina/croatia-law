@@ -1,0 +1,1 @@
+Na temelju članka 155. stavka 3. Zakona o mirovinskom osiguranju (»Narodne novine«, broj 157/13, 151/14, 33/15, 93/15 i 120/16), ministar rada i mirovinskoga sustava, uz prethodnu suglasnost ministra financija donosi
