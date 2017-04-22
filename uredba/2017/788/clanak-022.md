@@ -1,0 +1,3 @@
+# Članak 22.
+Odjel za tehnološku potporu obavlja stručne poslove nadzora i optimiranja informatičke opreme Zavoda; obavlja poslove administriranja rada računalne mreže Zavoda i potpore internim korisnicima; predlaže i provodi mjere za razvoj i zaštitu računalne mreže Zavoda sukladno principima informatičke sigurnosti; obavlja poslove proširenja i optimiranja računalne mreže i inženjerske poslove na zavodskim komunikacijama; prati razvoj relevantnog tehničkog područja te obavlja i ostale stručne poslove vezane uz razvoj i održavanje informatičke infrastrukture.
+4.3. Služba za pravne, opće poslove i ljudske potencijale

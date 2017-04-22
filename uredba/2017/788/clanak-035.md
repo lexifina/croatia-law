@@ -1,0 +1,3 @@
+# Članak 35.
+Poslovi u vezi strateškog planiranja i izvješćivanja, pripreme planova rada i izvještaja o radu Zavoda, planiranja i provedbe projekata Zavoda, te utvrđivanja nacrta propisa iz stručnog djelokruga Zavoda koordiniraju se na razini načelnika sektora, a koordinira ih zamjenik ravnatelja. U koordinaciji navedenih poslova po potrebi sudjeluju i voditelji samostalnih službi u skladu s uputom ravnatelja, odnosno zamjenika ravnatelja.
+Koordinacija i suradnja na obavljanju zajedničkih ili srodnih poslova više sektora ili službi koordinira se na razini načelnika sektora odnosno voditelja samostalnih i drugih službi.
