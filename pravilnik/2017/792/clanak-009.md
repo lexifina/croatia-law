@@ -1,0 +1,4 @@
+# Članak 9.
+(1) Izvješća o ispitivanju i certifikati kojima se dokazuju svojstva proizvoda i uređaja iz članka 8. stavka 1. ovoga Pravilnika priznat će se u slučaju kada ih izdaju tijela akreditirana od Hrvatske akreditacijske agencije ili od bilo koje akreditacijske službe potpisnice EA MLA sporazuma za područja ispitnih laboratorija, odnosno certifikacije proizvoda (Europska akreditacija - multilateralni sporazum o priznavanju rezultata rada akreditacijskih tijela).
+(2) Način razornog ispitivanja sigurnosnog spremnika (provala u spremnik, otvaranje spremnika razornim sredstvima, brzo rezanje i bušenje te uporaba kemikalija) nije određen normama, te ga mogu obavljati trgovačka društva i obrti (ispitivači) koji raspolažu prostorom za ispitivanje, ispitnim uređajima i postupnikom ispitivanja.
+(3) Postupnik ispitivanja, iz stavka 2. ovog članka, ispitivač utvrđuje za svaki pojedini tip sigurnosnog spremnika sukladno tehničkim karakteristikama samog spremnika.

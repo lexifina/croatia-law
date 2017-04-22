@@ -1,0 +1,4 @@
+# Članak 8.
+(1) Obvezna i preporučena ispitivanja sigurnosnog spremnika, specijalne boje/tinte, elektrokemijskog uređaja i elektrokemijske novčanice obavljaju se prema popisu hrvatskih normi, međunarodnih normi, specijaliziranih normi i prihvaćenih pravila struke koji se nalazi u prilogu ovog Pravilnika.
+(2) Ispitivanje fizikalno-mehaničkih značajki i djelovanja pirotehničkog sredstva obavlja se sukladno posebnim propisima kojima se uređuje stavljanje na tržište pirotehničkih sredstava.
+(3) Ispitivanja i potvrđivanje sukladnosti proizvoda i uređaja iz stavka 1. ovog članka mogu obavljati prijavljena tijela za ispitivanje i certifikaciju (trgovačka društva i obrti) koja su akreditirana za obavljanje poslova ispitivanja i/ili certificiranja svojstava proizvoda i uređaja iz stavka 1. ovog članka.
