@@ -1,0 +1,6 @@
+## Intenzitet potpore
+# Članak 18.
+(1) Intenzitet potpore iznosi najviše 50% od ukupnih prihvatljivih troškova projekta.
+(2) Iznimno od stavka 1. ovoga članka intenzitet potpore za ulaganja u provedbu Direktive Vijeća 91/676/EEZ od 12. prosinca 1991. o zaštiti voda od onečišćenja uzrokovanog nitratima iz poljoprivrednih izvora (SL L 375, 31. 12. 1991., str. 1, u daljnjem tekstu: Direktiva Vijeća 91/676/EEZ) iznosi najviše 75% iznosa prihvatljivih troškova za sve podnesene zahtjeve za potporu u Republici Hrvatskoj do 1. srpnja 2017. godine. Nakon 1. srpnja 2017. godine intenzitet potpore za navedena ulaganja iznosi najviše 50% od ukupno prihvatljivih troškova.
+(3) Mogućnost smanjenja i povećanja intenziteta potpore bit će propisana pojedinim natječajem. Najveći intenzitet kombinirane potpore ne smije biti veći od 70% od ukupno prihvatljivih troškova. Iznimka su ulaganja u provedbu Direktive Vijeća 91/676/EEZ kod kojih za sve podnesene zahtjeve za potporu do 1. srpnja 2017. godine najveći mogući intenzitet potpore iznosi do 90%.
+(4) Korisnik je u obvezi iz vlastitih i/ili drugih izvora osigurati sredstva za financiranje razlike između iznosa dodijeljene potpore i ukupnih troškova projekta.
