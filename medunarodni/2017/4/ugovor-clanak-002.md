@@ -1,0 +1,2 @@
+# Članak 2.
+Državljani bilo koje ugovorne stranke koji imaju valjane diplomatske i službene putovnice, koji su upućeni u diplomatske misije, konzularne urede ili su predstavnici u međunarodnim organizacijama smještenima na državnom području druge ugovorne stranke, kao i članovi njihovih obitelji koji imaju valjane diplomatske i službene putovnice, trebaju pribaviti vizu za akreditaciju u državi primateljici prije njihova dolaska.
