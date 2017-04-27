@@ -1,0 +1,1 @@
+Odluka o rasporedu sredstava osiguranih u Državnom proračunu Republike Hrvatske za 2017. godinu (»Narodne novine«, broj 119/16) u razdjelu 020 Vlada Republike Hrvatske, Glava 21 stručna služba Savjeta za nacionalne manjine, Aktivnost A732003 Potpore za programe ostvarivanja kulturne autonomije nacionalnih manjina
