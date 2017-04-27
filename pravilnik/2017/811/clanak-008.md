@@ -1,0 +1,7 @@
+## Kriteriji za utvrđivanje mogućih posljedica nuklearnog postrojenja na regiju
+# Članak 8.
+(1) Tijekom postupka vrednovanja lokacije potrebno je utvrditi mogućnost radiološkog utjecaja nuklearnog postrojenja na regiju, i to kako u pogonskim, tako i u akcidentalnim uvjetima koji mogu dovesti do primjene izvanrednih mjera. Na odgovarajući način treba procijeniti moguća ispuštanja radioaktivnih tvari, uzimajući u obzir projektno rješenje postrojenja i njegove sigurnosne karakteristike te nakon provjere potvrditi usklađenost projektne osnove postrojenja i njegovih sigurnosnih svojstava.
+(2) Potrebno je provjeriti izravne i neizravne putove kojima radioaktivne tvari mogu migrirati iz nuklearnog postrojenja i potencijalno ugroziti stanovništvo i okoliš, pri čemu u obzir treba uzeti karakteristike regije i lokacije s posebnim osvrtom na ponašanje biosfere tijekom akumuliranja i transporta radionuklida.
+(3) Potrebno je vrednovati lokaciju i projektno rješenje nuklearnog postrojenja kako bi se osiguralo da radiološki rizik od radioaktivnih ispuštanja na stanovništvo i okoliš bude prihvatljivo nizak.
+(4) Ukoliko specifično tehnološko rješenje reaktora još nije odabrano, za nuklearnu elektranu treba utvrditi i pri vrednovanju lokacije primijeniti granične vrijednosti parametara postrojenja.
+(5) Projektnim rješenjem postrojenja treba kompenzirati sve moguće neprihvatljive utjecaje nuklearnog postrojenja na regiju; ako to nije moguće, lokacija se smatra neprikladnom ili ne više prikladnom.
