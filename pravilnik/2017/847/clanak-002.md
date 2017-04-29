@@ -1,0 +1,2 @@
+# Članak 2.
+Službenici Porezne uprave koji obavljaju poslove poreznog nadzora, službenici koji obavljaju poslove suzbijanja poreznih prijevara, te službenici Samostalnog sektora za financijske istrage ovlašteni su privremeno oduzeti predmete, domaća ili strana sredstva plaćanja, vrijednosnice i dokumentaciju (u daljnjem tekstu: predmeti) koji mogu u prekršajnom ili kaznenom postupku poslužiti kao dokaz.
