@@ -1,0 +1,3 @@
+# Članak 1.
+U Pravilniku o strukturi i sadržaju financijskih izvještaja i drugih izvještaja mirovinskog društva koje upravlja obveznim mirovinskim fondovima (»Narodne novine«, broj 40/16, dalje: Pravilnik), u članku 3. stavak 4. mijenja se i glasi:
+»(4) Bilješke uz financijske izvještaje iz stavka 1. alineja 5. ovoga članka za razdoblja tijekom poslovne godine trebaju obuhvaćati samo značajne poslovne događaje i promjene računovodstvenih politika u odnosu na zadnje objavljene godišnje financijske izvještaje te informacije o jamstvenom pologu (vrsta imovine u koju su uložena sredstva i iznos).«.
