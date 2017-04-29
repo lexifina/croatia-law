@@ -1,0 +1,5 @@
+# Članak 7.
+(1) Nakon održanog prethodnog razgovora, za donošenje odluke o prikladnosti sklapanja Sporazuma ključni čimbenik je prednost koja će se postići utvrđivanjem odgovarajućeg skupa kriterija kao što su metode, usporednice, odgovarajuća usklađivanja ili ključne pretpostavke u vezi s budućim transakcijama tijekom određenog vremenskog razdoblja, u odnosu na postupak utvrđivanja transfernih cijena samo prema članku 13. Zakona.
+(2) Porezna uprava će nakon održanog prethodnog razgovora i provjere pretpostavki i činjenica vezanih uz predmetne transakcije, utvrditi je li prijedlog poreznog obveznika prikladan za pokretanje postupka sklapanja Sporazuma te će o istom obavijestiti podnositelja izjave iz članka 5. stavka 2. ovoga Pravilnika, u roku koji je dogovoren na prethodnom razgovoru.
+(3) Ako je Porezna uprava pozitivno ocijenila inicijativu, temeljem primljene obavijesti porezni obveznik može podnijeti pisanu izjavu o namjeri sklapanja ili obavještava Poreznu upravu o odustajanju od sklapanja Sporazuma, u roku utvrđenom na prethodnom razgovoru.
+3. Podnošenje izjave o namjeri sklapanja Sporazuma
