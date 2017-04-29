@@ -1,0 +1,1 @@
+Na temelju članka 56. stavka 5. i članka 61. stavka 1. Zakona o zaštiti okoliša (»Narodne novine«, br. 80/13, 153/13 i 78/15), a u vezi s člankom 18. Protokola o integralnom upravljanju obalnim područjem Sredozemlja (»Narodne novine - Međunarodni ugovori«, broj 8/12), Vlada Republike Hrvatske je na sjednici održanoj 20. travnja 2017. godine donijela
