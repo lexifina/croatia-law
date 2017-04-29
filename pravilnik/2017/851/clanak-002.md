@@ -1,0 +1,5 @@
+# Članak 2.
+U članku 3. točka 1. mijenja se i glasi:
+»1. »pokus« znači postupak koji predstavlja bilo koju invazivnu ili neinvazivnu upotrebu životinja u pokusne ili druge znanstvene svrhe sa znanim ili neznanim rezultatom, ili u obrazovne svrhe, koja životinji može prouzročiti određenu razinu boli, patnje stresa ili trajnoga oštećenja u jednakoj ili većoj mjeri od uboda igle izvedenog u skladu s dobrom veterinarskom praksom; to uključuje i bilo koju aktivnost koja namjerno prouzroči ili može prouzročiti rođenje ili valenje životinje ili stvaranje i održavanje na životu genetski modificirane životinjske linije u bilo kojem od takvih stanja, ali isključuje usmrćivanje životinja samo radi upotrebe njihovih organa i tkiva;«.
+Točka 4. mijenja se i glasi:
+»4. »uzgajivač« znači svaka fizička ili pravna osoba koja uzgaja životinje iz Priloga I. Pravilnika radi njihova korištenja u pokusima ili za upotrebu njihovih tkiva ili organa u znanstvene svrhe, ili prvenstveno za tu svrhu uzgaja druge životinje, uz zaradu ili bez nje;«.

@@ -1,0 +1,1 @@
+Na temelju članka 20. stavka 10., članka 21. stavka 10., članka 27. stavka 3., članka 32. stavka 5., članka 32.a i članka 33. stavka 2. Zakona o zaštiti životinja (»Narodne novine« br. 135/06, 37/13 i 125/13) ministar poljoprivrede donosi
