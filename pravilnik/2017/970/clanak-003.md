@@ -1,0 +1,6 @@
+## Predmet potpore
+# Članak 3.
+(1) Privremeni prestanak ribolovnih aktivnosti (u daljnjem tekstu: privremena obustava) provodi se u segmentu ribolova okružujućim mrežama plivaricama - srdelarama (u daljnjem tekstu: plivaričarski ribolov).
+(2) Predmet potpore je naknada ovlaštenicima povlastica i članovima posade ribarskog plovila za kojeg je ta povlastica izdana, a obuhvaća jednokratna bespovratna novčana sredstava za privremenu obustavu sukladno Odluci Vlade Republike Hrvatske o donošenju Plana upravljanja okružujućim mrežama plivaricama - srdelarama (KLASA: 022-03/14-04/49, URBROJ: 50301-05/25-14-2 od 29. svibnja 2014. godine) i Pravilniku o prostornom i vremenskom ograničenju obavljanja gospodarskog ribolova na moru okružujućom mrežom plivaricom - srdelarom u 2017. godini (»Narodne novine«, broj 41/2017).
+(3) Privremena obustava u smislu ovoga Pravilnika je privremena obustava u trajanju od petnaest dana koja se provodi u razdoblju od 30. travnja 2017. godine u 12:00 sati do 15. svibnja 2017. godine u 12:00 sati na području cijelog ribolovnog mora Republike Hrvatske.
+(4) Odredbe ovoga Pravilnika ne dovode u pitanje odredbe zakonskih i podzakonskih propisa iz područja radnih odnosa.
