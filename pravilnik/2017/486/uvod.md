@@ -1,0 +1,1 @@
+Na temelju članka 4. stavka 1. Zakona o tehničkim zahtjevima za proizvode i ocjenjivanju sukladnosti (»Narodne novine«, broj 80/2013 i 14/2014), ministrica gospodarstva, poduzetništva i obrta u suradnji s ministrom zaštite okoliša i energetike i ministrom zdravstva donosi
