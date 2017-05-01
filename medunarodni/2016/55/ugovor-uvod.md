@@ -1,0 +1,4 @@
+PROTOKOL UZ KONVENCIJU O UGOVORU O MEĐUNARODNOM PRIJEVOZU ROBE CESTOM (CMR)
+STRANKE OVOGA PROTOKOLA,
+KAO STRANKE Konvencije o ugovoru o međunarodnom prijevozu robe cestom (CMR), sastavljene u Ženevi, 19. svibnja 1956.,
+SPORAZUMJELE SU SE KAKO SLIJEDI:
