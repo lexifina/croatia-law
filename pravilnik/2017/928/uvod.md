@@ -1,0 +1,1 @@
+Na temelju članka 67. stavaka 3., 4. i 6. Zakona o otvorenim investicijskim fondovima s javnom ponudom (»Narodne novine«, broj 44/16) i članka 19. stavka 6. Zakona o računovodstvu (»Narodne novine«, br. 78/15, 134/15 i 120/16) Hrvatska agencija za nadzor financijskih usluga, na sjednici Upravnog vijeća održanoj 13. travnja 2017. godine donosi
