@@ -1,0 +1,3 @@
+# Članak 1.
+U Pravilniku o odobrenju osnivanja, prospekta i statuta dobrovoljnog mirovinskog fonda (»Narodne novine« broj 52/14), u članku 4. stavak 1. mijenja se i glasi:
+»(1) Mirovinsko društvo podnosi Agenciji zahtjev za izdavanje odobrenja prospekta fonda. Uz zahtjev se dostavlja prijedlog prospekta fonda, ovjeren potpisom ili elektroničkim potpisom na zadnjoj stranici od osoba koje su ovlaštene zastupati mirovinsko društvo. Ukoliko se prospekt fonda dostavlja u pisanoj formi, u tom slučaju potrebno je dostaviti prospekt fonda i u elektroničkom obliku, na odgovarajućem mediju u jasnom i čitljivom formatu.«.
