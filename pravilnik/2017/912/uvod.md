@@ -1,0 +1,1 @@
+Na temelju članka 19. stavka 4., članak 75. stavak 3., članka 268. stavka 3. i članka 271. stavka 3. Zakona o dobrovoljnim mirovinskim fondovima (»Narodne novine«, broj 19/2014) Hrvatska agencija za nadzor financijskih usluga (dalje: Agencija) na sjednici Upravnog vijeća održanoj 13. travnja 2017. godine donosi
