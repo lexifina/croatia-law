@@ -1,0 +1,2 @@
+# Članak 8.
+U Prilogu 1. ovoga Pravilnika u dijelu za unos podataka za članove uprave, izvršne direktore i prokuriste briše se rubrika »datum oduzimanja suglasnosti«, a kod podataka za članove uprave, izvršne direktore, nadzorni odbor, upravni odbor i prokuriste dodaju se rubrike za upis podataka »datum rođenja, telefon, elektronička pošta« te rubrika za upis podatka »revizor UAIF-a (tvrtka, sjedište, OIB, telefon, elektronička pošta)«.
