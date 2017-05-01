@@ -1,0 +1,5 @@
+## ZAVRŠNE ODREDBE
+# Članak 18.
+(1) Smatra se da su društvo za upravljanje odnosno depozitar dostavili dokumentaciju propisanu ovim Pravilnikom u trenutku kada je dokumentacija zabilježena na poslužitelju za slanje takve dokumentacije.
+(2) U opravdanim slučajevima tehničke nemogućnosti dostave ili dostave koja nije pravilno izvršena (npr. kvar na sustavu, nemogućnost čitanja zaprimljene dokumentacije i sl.) na način propisan člankom 11. i člankom 14. stavkom 2. ovoga Pravilnika, društvo za upravljanje i depozitar dužni su dokumentaciju dostaviti u pisanom obliku, neposredno ili poštom u svrhu pravodobnog izvješćivanja. Društvo za upravljanje i depozitar dužni su dostaviti dokumentaciju na način propisan člankom 11. i člankom 14. stavkom 2. ovoga Pravilnika čim prestanu razlozi nemogućnosti takve dostave, a najkasnije u roku od 8 dana od prestanka okolnosti koje su prouzročile tehničku nemogućnost takve dostave.
+(3) Agencija može, u slučaju potrebe, zatražiti od društva za upravljanje i depozitara dostavu određene dokumentacije propisane ovim Pravilnikom i u izvorniku ili ovjerenoj preslici, neovisno o izvršenoj dostavi u elektroničkom obliku.
