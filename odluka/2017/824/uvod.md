@@ -1,0 +1,1 @@
+Na temelju članaka 42. stavka 1. točke 1. Zakona o lokalnim porezima (»Narodne novine« broj 115/16) i članka 32. Statuta Općine Stara Gradiška (»Službeni vjesnik Brodsko-posavske županije« br. 14/09 i »Službeni vjesnik Općine Stara Gradiška« br. 1/11 i 1/13) Općinsko vijeće Općine Stara Gradiška na 27. sjednici održanoj 6. travnja 2017. godine, donijelo je
