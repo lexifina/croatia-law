@@ -1,0 +1,9 @@
+## Pridruživanje i alokacija naloga za trgovanje
+# Članak 38.
+(1) Društvo za upravljanje može pridruživati naloge za trgovanje zadane u ime pojedinog UCITS fonda s nalozima drugog UCITS fonda kojim upravlja, klijenta ili nalozima zadanim za vlastiti račun, ako su ispunjeni sljedeći uvjeti:
+1. nije izgledno da će pridruživanje naloga naštetiti interesima UCITS fonda ili klijenata čiji se nalozi pridružuju,
+2. da je propisana i primijenjena politika alokacije naloga koja dovoljno precizno uređuje fer alokaciju zbirnih naloga, uključujući način na koji količina i cijena navedene u nalogu utječu na alokaciju i postupanje s djelomično izvršenim nalozima.
+(2) Društvo za upravljanje dužno je prilikom pridruživanja jednog ili više naloga za trgovanje UCITS fonda s nalozima drugih UCITS fondova ili klijenata, u slučaju kad je takav zbirni nalog djelomično izvršen, alocirati realizirane naloge u skladu sa svojom politikom alokacije naloga.
+(3) Društvo za upravljanje ne smije prilikom pridruživanja naloga za vlastiti račun s nalozima UCITS fonda ili klijenata, alocirati realizirane naloge na način koji bi naštetio UCITS fondu ili drugim klijentima.
+(4) Društvo za upravljanje dužno je, prilikom pridruživanja naloga UCITS fonda ili klijenta s nalozima za vlastiti račun, u slučaju kad se navedeni zbirni nalog djelomično izvrši, alocirati realizirane naloge UCITS fonda ili klijenta na način da imaju prednost pred nalozima za vlastiti račun.
+(5) Iznimno, ako društvo za upravljanje može dokazati ulagateljima ili klijentima da bez pridruživanja naloga UCITS fonda ili klijenta nalogu za vlastiti račun, nalog ne bi bilo moguće izvršiti po tako povoljnim uvjetima, ili ga ne bi bilo uopće moguće izvršiti, društvo za upravljanje može alocirati realizirane naloge za vlastiti račun razmjerno, u skladu s politikom iz stavka 1. točke 2. ovoga članka.
