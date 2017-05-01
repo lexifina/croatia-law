@@ -1,0 +1,2 @@
+# Članak 10.
+Danom stupanja na snagu ovoga Pravilnika prestaje važiti Pravilnik o sadržaju i načinu vođenja registra društava za upravljanje UCITS fondovima i UCITS fondova (»Narodne novine«, broj 90/13).
