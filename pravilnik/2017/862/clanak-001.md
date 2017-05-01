@@ -1,0 +1,3 @@
+# Članak 1.
+U Pravilniku o odobrenju osnivanja i statuta obveznog mirovinskog fonda i o informativnom prospektu obveznog mirovinskog fonda (»Narodne novine« broj 52/14), u članku 4. stavak 1. mijenja se i glasi:
+»(1) Mirovinsko društvo podnosi Agenciji zahtjev za izdavanje odobrenja statuta mirovinskog fonda. Uz zahtjev se dostavlja prijedlog statuta mirovinskog fonda, ovjeren potpisom ili elektroničkim potpisom na zadnjoj stranici od osoba koje su ovlaštene zastupati mirovinsko društvo. Ukoliko se statut mirovinskog fonda dostavlja u pisanoj formi, u tom slučaju potrebno je dostaviti statut mirovinskog fonda i u elektroničkom obliku, na odgovarajućem mediju u jasnom i čitljivom formatu.«.
