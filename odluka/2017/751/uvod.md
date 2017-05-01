@@ -1,0 +1,1 @@
+Na temelju članka 20. stavka 1. Zakona o lokalnim porezima (»Narodne novine« broj 115/16) i članka 46. Statuta Grada Rijeke (»Službene novine Primorsko-goranske županije« broj 24/09, 11/10 i 5/13 i »Službene novine Grada Rijeke« broj 7/14 i 7/16 - pročišćeni tekst), Gradsko vijeće Grada Rijeke, na sjednici 30. ožujka 2017. godine, donijelo je
