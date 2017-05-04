@@ -1,0 +1,6 @@
+# Članak 193.
+Sektor za EU poslove i međunarodnu suradnju koordinira aktivnosti Ministarstva vezane uz članstvo RH u EU, prvenstveno u izradi nacionalnih stajališta iz nadležnosti Ministarstva i sudjelovanju predstavnika Ministarstva u radu tijela Vijeća EU i Europske komisije; koordinira poslove vezane uz preuzimanje i provedbu zakonodavstva EU i postupke vezane uz povredu prava EU; promiče međunarodnu suradnju i koordinira sudjelovanje RH u radu međunarodnih organizacija u području poljoprivrede; organizira sudjelovanje Ministarstva na međunarodnim manifestacijama; sudjeluje u izradi stajališta koja se odnose na trgovinsku politiku EU u područjima iz nadležnosti Ministarstva; sudjeluje u aktivnostima vezanima uz Svjetsku trgovinsku organizaciju (WTO) i Organizaciju za gospodarsku suradnju i razvoj (OECD); analizira poljoprivredne politike koje se predlažu na razini međunarodnih organizacija te provedbu poljoprivrednih politika u Hrvatskoj i u drugim državama; koordinira programe pomoći namijenjene jačanju institucionalnih kapaciteta, te obavlja i druge poslove iz svoga djelokruga.
+Za obavljanje poslova Sektora za EU poslove i međunarodnu suradnju, ustrojavaju se:
+12.2.1. Služba za EU poslove
+12.2.2. Služba za međunarodnu suradnju i trgovinske odnose.
+12.2.1. Služba za EU poslove

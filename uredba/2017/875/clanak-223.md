@@ -1,0 +1,7 @@
+# Članak 223.
+Sektor za nadzor i kontrolu u ribarstvu organizira i izvršava zakonito i svrhovito obavljanje poslova ribarske inspekcije iz djelokruga morskog i slatkovodnog ribarstva; koordinira rad ribarskih inspektora i državnih službenika ovlaštenih za obavljanje poslova inspekcijskog nadzora u ribarstvu; izrađuje godišnje planove i izvješća; obavlja stručno osposobljavanje ribarskih inspektora i osoba ovlaštenih za obavljanje poslova inspekcijskog nadzora u ribarstvu; predlaže i provodi programe usklađivanja rada inspekcije s pravnom stečevinom EU; komunicira s nadležnim tijelima EU po pitanju ribarske inspekcije; brine o plovilima ribarske inspekcije, te obavlja poslove vezane uz održavanje i plovidbu u sklopu poslova nadzora i kontrole; obavlja pravne i administrativne poslove iz područja ribarske inspekcije; obavlja i koordinira poslove međunarodne suradnje na razini Sektora; sudjeluje u pripremi podloge za donošenje zakona i drugih propisa iz ribarstva i u izradi potrebnih strateških dokumenata vezanih uz strukturne mjere iz svoga djelokruga; sudjeluje u izradi zakonskih i podzakonskih propisa i provodi postupak usklađenja hrvatskog zakonodavstva sa zakonodavstvom EU iz svoga djelokruga, te obavlja i druge poslove iz svoga djelokruga.
+Za obavljanje poslova Sektora za nadzor i kontrolu u ribarstvu, ustrojavaju se:
+13.4.1. Služba kontrole ribarstva - sjever
+13.4.2. Služba kontrole ribarstva - jug - Područna jedinica Split
+13.4.3. Služba za Ribarski monitoring centar i podršku korisnicima.
+13.4.1. Služba kontrole ribarstva - sjever

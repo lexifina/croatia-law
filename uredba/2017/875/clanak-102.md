@@ -1,0 +1,2 @@
+# Članak 102.
+Odjel za tehničku pomoć prikuplja informacije o potrebama za korištenje mjere tehničke pomoći; priprema prijedloge propisa iz svoga djelokruga i sudjeluje u izradi drugih akata; priprema godišnje planove provedbe tehničke pomoći; prati realizaciju tehničke pomoći; priprema zahtjeve za isplatu koje dostavlja Agenciji za plaćanja u poljoprivredi, ribarstvu i ruralnom razvoju; surađuje s Općom upravom Europske komisije za poljoprivredu i ruralni razvoj u svom djelokrugu, te obavlja i druge poslove iz svoga djelokruga.

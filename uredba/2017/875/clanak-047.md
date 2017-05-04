@@ -1,0 +1,3 @@
+# Članak 47.
+Odjel za obračun plaća i blagajničko poslovanje kompletira ulaznu računovodstvenu dokumentaciju i evidentira istu u poslovnim knjigama; brine o ovjeri računovodstvene dokumentacije sukladno internim procedurama te dostavlja istu na plaćanje putem sustava Državne riznice ili putem blagajne; brine o rokovima plaćanja; kontrolira cjelokupno blagajničko kunsko i devizno poslovanje; provodi kontrolu formalne i računske ispravnosti dokumentacije na temelju koje se vrši obračun i isplata plaće; dostavlja nadležnim institucijama propisana izvješća o isplatama svih vrsta dohotka, te obavlja i druge poslove iz svoga djelokruga.
+6.1.2.2. Odjel za knjigovodstvene poslove i evidentiranje nefinancijske imovine

@@ -1,0 +1,3 @@
+# Članak 92.
+Odjel za inovacije, udruženja i umrežavanje pruža potporu provedbi mjera za sve oblike edukacija i treninga, horizontalnu i vertikalnu suradnju sudionika u cilju skraćenja opskrbnog lanca, organiziranje proizvođača, razmjenu znanja i provedbu pilot-projekata; uspostavlja i koordinira rad tijela uključenih u Europsko partnerstvo za inovacije; priprema prijedloge propisa iz svoga djelokruga i sudjeluje u izradi drugih akata; sudjeluje u promidžbi mjera potpore i edukaciji korisnika; sudjeluje u izradi plana za korištenje tehničke pomoći, te obavlja i druge poslove iz svoga djelokruga.
+8.2.3. Služba za održivo gospodarenje zemljištem i potpore šumarstvu

@@ -1,0 +1,6 @@
+# Članak 93.
+Služba za održivo gospodarenje zemljištem i potpore šumarstvu analizira stanje okoliša i prirode u poljoprivrednoj proizvodnji i uvjete za obavljanje poljoprivredne proizvodnje te identificira probleme i nedostatke; programira mjere potpore za održivo gospodarenje resursima u poljoprivredi, šumarstvu i jačanju otpornosti i okolišne vrijednosti šumskih ekosustava te upravljanje rizicima kroz osiguranje usjeva, životinja i biljaka; koordinira izradu propisa u području nacionalnih mjera ruralnog razvoja; priprema prijedloge propisa iz svoga djelokruga i sudjeluje u izradi drugih akata; surađuje s tijelima državne uprave, jedinicama lokalne i područne (regionalne) samouprave i stručnim ustanovama u oblikovanju i realizaciji mjera potpore; sudjeluje u promidžbi mjera i edukaciji korisnika iz svoga djelokruga rada; sudjeluje u izradi plana za korištenje tehničke pomoći; sudjeluje u radu tijela Europskih institucija na pripremanju propisa iz djelokruga, te obavlja i druge poslove iz svoga djelokruga.
+Za obavljanje poslova Službe za održivo gospodarenje zemljištem i potpore šumarstvu, ustrojavaju se:
+8.2.3.1. Odjel za održivo gospodarenje zemljištem
+8.2.3.2. Odjel za potporu šumarstvu, upravljanje rizicima i sanaciju šteta od elementarnih nepogoda.
+8.2.3.1. Odjel za održivo gospodarenje zemljištem

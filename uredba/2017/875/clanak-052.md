@@ -1,0 +1,3 @@
+# Članak 52.
+Odjel za praćenje izvršavanja javne nabave odgovoran je za provjeru usklađenosti zahtjeva/prijedloga za javnu nabavu s donesenim planom nabave i financijskim planom; provodi postupak kontrole izvršenja ugovora o javnoj nabavi; provjerava tehničke specifikacije i dokumentaciju za nadmetanje za nabavu roba, usluga i radova; provjerava ispunjenje prava i obveza iz zaključenih ugovora o javnoj nabavi u skladu s uvjetima određenima u dokumentaciji za nadmetanje i odabranim ponudama, te obavlja i druge poslove iz svoga djelokruga.
+6.2.2. Služba za provedbu programa Općekorisnih funkcija šuma

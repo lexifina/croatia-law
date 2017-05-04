@@ -1,0 +1,3 @@
+# Članak 131.
+Odjel za SVIS priprema i koordinira provedbe mjera za kvalitetnu implementaciju veterinarskih propisa kroz sustav veterinarskih pregleda gospodarstava; priprema propise potrebne za funkcioniranje SVIS-a (Središnji veterinarski informacijski sustav); sudjeluje u uspostavi i održavanju SVIS-a; prikuplja prijedloge, analizira i koordinira predlaganje mjera za unaprjeđenje kvaliteta; educira službenike Uprave u korištenju računalnog programa; prati prikupljanje podataka u informacijski sustav Uprave; daje stručnu pomoć službenicima Uprave u korištenju informatičkog sustava, te obavlja i druge poslove iz svoga djelokruga.
+10.2. Sektor za sigurnost hrane

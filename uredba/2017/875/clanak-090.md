@@ -1,0 +1,3 @@
+# Članak 90.
+Odjel za diversifikaciju u nepoljoprivredne djelatnosti programira mjere potpore za diversifikaciju gospodarskih aktivnosti u ruralnim područjima i razvoj maloga poduzetništva, između ostalog korištenjem potpora za početna ulaganja, obnovljive izvore energije, razvoj ruralnog turizma, očuvanje kulturnog i prirodnog nasljeđa, analizira i koordinira stanje u svom djelokrugu s drugim tijelima državne uprave; priprema prijedloge propisa iz svoga djelokruga rada i sudjeluje u izradi drugih akata; sudjeluje u promidžbi mjera potpore i edukaciji korisnika; sudjeluje u izradi plana za korištenje tehničke pomoći, te obavlja i druge poslove iz svoga djelokruga.
+8.2.2.2. Odjel za unaprjeđenje konkurentnosti poljoprivrede
