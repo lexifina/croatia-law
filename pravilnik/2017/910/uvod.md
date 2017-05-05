@@ -1,0 +1,1 @@
+Na temelju članka 73. stavak 2., 4. i 5. Zakona o dobrovoljnim mirovinskim fondovima (»Narodne novine«, broj 19/14) i članka 19. stavka 6. Zakona o računovodstvu (»Narodne novine«, broj 78/15, 134/15 i 93/15) Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća održanoj 13. travnja 2017. godine donosi
