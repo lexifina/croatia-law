@@ -1,0 +1,3 @@
+# Članak 2.
+(1) Kandidat za vojnog specijalista je osoba koja se prijavila na interni oglas za popunu ustrojbenog mjesta vojnog specijalista iz kategorije djelatnog vojnika/mornara, djelatnog dočasnika, djelatnog časnika, državnog službenika i namještenika iz Oružanih snaga Republike Hrvatske (u daljnjem tekstu Oružane snage) ili osoba s tržišta rada koja se prijavila na javni natječaj.
+(2) Vojni specijalist je djelatna vojna osoba koje posjeduje specijalizirana znanja i vještine potrebne za obnašanje vojnih dužnosti u rodovima borbene potpore, službama i strukama i koja je raspoređena na ustrojbeno mjesto vojnog specijalista.

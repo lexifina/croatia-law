@@ -1,0 +1,4 @@
+# Članak 7.
+(1) Ustrojstvene jedinice Oružanih snaga provode godišnju raščlambu te mogu predložiti izmjene i dopune Popisa posebnih specijalističkih znanja.
+(2) Prijedlog za izmjene i dopune Popisa posebnih specijalističkih znanja pokreće zbog promjena u zahtjevima za pojedine dužnosti vojnog specijalista koje su uvjetovane modernizacijom pojedinih tehnoloških procesa i sredstava na uporabi, radnih procedura, ustroja, promjena u sustavu izobrazbe, funkcija i zadaća pojedinih ustrojstvenih jedinica Oružanih snaga te u slučaju ispravaka uočenih nedostataka ili necjelovitosti postojećih opisa.
+(3) Prijedlog iz stavka 2. ovoga članka ustrojstvene jedinice Oružanih snaga dostavljaju ustrojstvenoj jedinici Oružanih snaga nadležnoj za personalne poslove na Tiskanici VSP-1, a odobrava ga načelnik Glavnog stožera Oružanih snaga.

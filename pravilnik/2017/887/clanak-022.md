@@ -1,0 +1,4 @@
+# Članak 22.
+(1) Kandidat iz kategorije vojnika/mornara nakon uspješno završenog osposobljavanja za vojnog specijalista može se primiti u djelatnu vojnu službu, dodjeljuje mu se čin skupnika vojnog specijalista ili poručnika/poručnika korveta vojnog specijalista i raspoređuje se na ustrojbeno mjesto vojnog specijalista.
+(2) Kandidat iz kategorije državnog službenika i namještenika i kandidat s tržišta rada, nakon uspješno završenog osposobljavanja za vojnog specijalistu može se primiti u djelatnu vojnu službu, dodjeljuje mu se čin skupnika vojnog specijalista ili poručnika/poručnika korvete vojnog specijalista i raspoređuje se na ustrojbeno mjesto vojnog specijalista.
+(3) Dodjela čina osobama iz stavaka 1. i 2. ovoga članka provodi se u skladu s odredbama Zakona i pravilnika kojim se uređuje dodjela činova i promicanje vojnih osoba u činove.

@@ -1,0 +1,3 @@
+# Članak 18.
+(1) Kandidat za ustrojbeno mjesto vojnog specijalista iz kategorije djelatnog časnika odnosno dočasnika, koji posjeduje odgovarajuća specijalistička znanja i odgovarajući čin, prima se u kategoriju vojnog specijalista časnika odnosno vojnog specijalista dočasnika i raspoređuje se na ustrojbeno mjesto vojnog specijalista.
+(2) S kandidatom za ustrojbeno mjesto vojnog specijalista iz kategorije djelatnih časnika odnosno dočasnika, koji ne posjeduje odgovarajuća specijalistička znanja, sklapa se ugovor o osposobljavanju za vojnog specijalista u trajanju do godine dana. Nakon završetka osposobljavanja prima se u kategoriju vojnog specijalista časnika odnosno vojnog specijalista dočasnika i raspoređuje se na ustrojbeno mjesto vojnog specijalista.
