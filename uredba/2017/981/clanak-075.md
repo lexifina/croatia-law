@@ -1,0 +1,6 @@
+# Članak 75.
+Služba za računovodstvo i financijsko upravljanje i kontrolu je unutarnja ustrojstvena jedinica u sastavu Sektora za financije koja obavlja računovodstvene i knjigovodstvene poslove; knjiži i knjigovodstveno prati ispunjenje svih primitaka i izdataka po pozicijama državnog proračuna; u skladu sa zakonom priprema sve vrste financijskih izvješća; priprema i izrađuje periodične obračune, završni račun i konsolidira financijska izvješća na razini razdjela; obavlja poslove platnog prometa; vodi sve propisane poslovne knjige proračunskog korisnika; surađuje s drugim tijelima državne uprave nadležnima za financije i unutarnju reviziju; brine da svaki rashod bude opravdan stvarnom potrebom i potvrđen prethodnom kontrolom; izrađuje izvješća iz područja rada te postavlja i ostvaruje ciljeve i mjere iz svoje nadležnosti; sudjeluje u planiranju državnog proračuna; izrađuje prijedloge internih akata za procese financijskog upravljanja i kontrola, prati primjenu internih akata, kao i razvoj i vođenje računovodstvenog sustava, te obavlja i druge poslove u okviru svoga djelokruga.
+U Službi za računovodstvo i financijsko upravljanje i kontrolu, ustrojavaju se:
+6.2.1.1. Pododsjek za knjigovodstvo
+6.2.1.2. Pododsjek za financijsko upravljanje i kontrole.
+6.2.1.1. Pododsjek za knjigovodstvo

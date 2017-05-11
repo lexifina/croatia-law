@@ -1,0 +1,5 @@
+# Članak 10.
+Odjel za opće poslove i poslove pisarnice je unutarnja ustrojstvena jedinica u sastavu Službe za opće i tehničke poslove koja obavlja poslove vezane uz osiguravanje materijalno-tehničkih uvjeta za rad zaposlenika Ministarstva; brine o urednom i pravilnom korištenju imovine i sredstava za rad; opremanju poslovnih prostora Ministarstva; predlaže mjere racionalizacije u korištenju materijalno-financijske imovine Ministarstva te kontrolira provođenje istih, obavlja primitak i dostavu pošte, urudžbiranje, raspoređivanje, otpremu i arhiviranje akata; vodi brigu o uredskom poslovanju te predlaže mjere za unaprjeđenje svih postupaka koji se odnose na uredsko poslovanje Ministarstva, vodi evidenciju i brine o pečatima i štambiljima Ministarstva, surađuje s drugim tijelima državne uprave te ostalim subjektima iz svoje nadležnosti, te obavlja i druge poslove u okviru svoga djelokruga.
+U Odjelu za opće poslove i poslove pisarnice, ustrojava se:
+2.1.2.1.1. Pododsjek za poslove pisarnice.
+2.1.2.1.1. Pododsjek za poslove pisarnice
