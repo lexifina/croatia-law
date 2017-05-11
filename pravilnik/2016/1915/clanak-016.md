@@ -1,2 +1,0 @@
-# Članak 16.
-Nakon isteka roka za podnošenje prijava na javni natječaj za dodjelu državnih stipendija te razmatranja svih potpunih i pravodobnih prijava, Povjerenstvo za provedbu javnoga natječaja za dodjelu državnih stipendija na temelju kriterija natječaja iz članka 9. ovoga pravilnika utvrđuje rang-liste za svaku kategoriju državnih stipendija. Rang-liste objavljuju se osam (8) dana nakon objave državnoga proračuna u kojem su osigurana sredstva za dodjelu državnih stipendija.
