@@ -1,0 +1,7 @@
+## Savjetovanje i javna rasprava
+# Članak 9.
+(1) Informiranje o održavanju savjetovanja o Prijedlogu MSP testa i održavanju javne rasprave o propisu provodi se prema obrascu sadržanom u Prilogu 3. ove Uredbe.
+(2) Savjetovanje i javna rasprava su postupci u kojima svojim primjedbama, prijedlozima i mišljenjima, u propisanim rokovima i na način određen u Informaciji iz Priloga 3. ove Uredbe, u svojstvu javnosti i zainteresirane javnosti, može sudjelovati svaki dionik (tijelo, pravna ili fizička osoba - mali i srednji poduzetnik, komora, poslovno udruženje, strukovna organizacija i sl.), na kojega se propis odnosi.
+(3) Zbog pobližeg upoznavanja dionika iz stavka 2. ovoga članka, s materijom koja je predmet savjetovanja i javne rasprave stručni nositelj u skladu s ovom Uredbom dužan je provesti javno izlaganje putem npr. javno-privatnog dijaloga, rasprave, okruglog stola s malim i srednjim poduzetnicima, njihovim komorama, asocijacijama, udruženjima ili na drugi primjereni način.
+(4) Nakon provedenog savjetovanja i javne rasprave, uključujući i javna izlaganja, stručni nositelj bilježi sve primjedbe, prijedloge i mišljenja dionika dostavljene na odgovarajući način te ih je dužan razmotriti. Obrazloženje prihvaćenih i neprihvaćenih primjedaba, prijedloga i mišljenja stručni nositelj treba sastaviti kroz obavijest koja će biti dostupna na središnjem portalu »e-Savjetovanje«.
+(5) Stručni nositelj primjedbe, prijedloge i mišljenja dionika u obrascu Obavijesti iz priloga 3. ove Uredbe sukladno zadanim kriterijima ocjenjuje kao prihvatljive ili neprihvatljive.

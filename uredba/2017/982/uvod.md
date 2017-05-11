@@ -1,0 +1,1 @@
+Na temelju članka 9.c stavka 3. Zakona o poticanju razvoja malog gospodarstva (»Narodne novine«, br. 29/02, 63/07, 53/12, 56/13 i 121/16), Vlada Republike Hrvatske je na sjednici održanoj 27. travnja 2017. godine donijela
