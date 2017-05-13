@@ -1,0 +1,1 @@
+Na temelju članka 59. stavka 5. Zakona o lovstvu (»Narodne novine« br. 140/05, 75/09, 14/14, 21/16 - Odluka Ustavnog suda Republike Hrvatske, 41/16 - Odluka Ustavnog suda Republike Hrvatske i 67/16 - Odluka Ustavnog suda Republike Hrvatske) i prethodnog mišljenja središnjeg tijela državne uprave nadležnog za poslove zaštite prirode ministar poljoprivrede donosi
