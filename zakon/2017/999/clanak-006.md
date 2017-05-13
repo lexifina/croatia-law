@@ -1,0 +1,3 @@
+# Članak 6.
+Zastupnici koji su zatečeni u obnašanju zastupničke dužnosti na dan stupanja na snagu ovoga Zakona, a nemaju sklopljen sporazum s čelnikom tijela, odnosno osobom ovlaštenom za zastupanje u ostvarivanju prava i obveza iz radnog odnosa ili u vezi s radnim odnosom, odnosno ugovor s bivšim poslodavcem o uvjetima ostvarivanja prava rasporeda, odnosno povratka na radno mjesto nakon prestanka obnašanja dužnosti, sklapaju taj sporazum odnosno ugovor u skladu s odredbama ovoga Zakona.
+Danom stupanja na snagu ovoga Zakona prestaje važiti članak 4. stavak 2. Zakona o izmjenama Zakona o obvezama i pravima državnih dužnosnika (»Narodne novine«, br. 93/16.).
