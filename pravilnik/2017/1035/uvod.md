@@ -1,0 +1,1 @@
+Na temelju članka 58. stavka 3. Zakona o lovstvu (»Narodne novine« br. 140/05, 75/09, 14/14, 21/16 - Odluka Ustavnog suda Republike Hrvatske, 41/16 - Odluka Ustavnog suda Republike Hrvatske i 67/16 - Odluka Ustavnog suda Republike Hrvatske) ministar poljoprivrede donosi
