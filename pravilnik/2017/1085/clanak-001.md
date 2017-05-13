@@ -1,0 +1,3 @@
+# Članak 1.
+U Pravilniku o provedbi izravne potpore poljoprivredi i IAKS mjera ruralnog razvoja za 2017. godinu (»Narodne novine«, br. 19/2017 i 45/2017) u članku 1. stavku 4. iza točke 13. dodaje se točka 14. koja glasi:
+»14. Provedbene uredbe Komisije (EU) br. 2017/807 оd 11. svibnja 2017. o odstupanju od Provedbene uredbe (EU) br. 809/2014 u pogledu konačnog datuma za podnošenje jedinstvenog zahtjeva, zahtjeva za potporu ili zahtjeva za plaćanje, konačnog datuma za prijavu izmjena jedinstvenog zahtjeva ili zahtjeva za plaćanje i konačnog datuma za podnošenje zahtjeva za dodjelu prava na plaćanje ili povećanje vrijednosti prava na plaćanje u okviru programa osnovnog plaćanja za godinu 2017.«
