@@ -1,0 +1,8 @@
+# Članak 5.
+U oblasti tehnološkog razvoja i inovacija Područna vijeća;
+- surađuju sa stručnim tijelima i službama MZO nadležnim za tehnološki razvoj i inovacije u analizi i predlaganju poticajnih proračunskih i drugih mjera za ubrzanje transfera tehnologije i rast inovacijskih aktivnosti,
+- surađuju s tijelima i službama MZO, Ministarstva gospodarstva (u daljnjem tekstu MINIGO), Ministarstva financija (u daljnjem tekstu MF), odgovarajućim tijelima HGK, HUP i drugih u predlaganju poticajnih poreznih i drugih mjera ekonomske politike za povećanje ulaganja gospodarskih subjekata u istraživanje i razvoj,
+- surađuju s Vijećem za inovacije MINIGO, odgovarajućim tijelima HGK i HUP u analizi i predlaganju poticajnih mjera unapređenja kvalitete primijenjenih istraživanja i rasta inovativnosti gospodarskih subjekata,
+- surađuju s odgovarajućim agencijama i drugim tijelima i udrugama u unapređenju zaštite intelektualnog vlasništva i sustava prijave i zaštite patenata,
+- surađuju s navedenim i drugim institucijama, tijelima, organizacijama i udrugama u predlaganju poticajnih mjera rasta produktivnosti i konkurentnosti, osobito malih i srednjih poduzeća umrežavanjem njihovih razvojno-istraživačkih aktivnosti i znanstvenih organizacija u razvojno-istraživačkim klasterima, tehnologijskim parkovima, Centrima kompetencije (u daljnjem tekstu CEKOM-i) i drugim oblicima unapređenja tehnološkog razvoja i inovacija,
+- temeljem navedenih i drugih aktivnosti analiziraju i predlažu Nacionalnom vijeću mjere za unapređenje realizacije nacionalnih strategija inovativnog razvoja kao što su Strategija pametne specijalizacije, Strategija inovacija i druge.
