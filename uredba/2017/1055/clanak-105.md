@@ -1,0 +1,6 @@
+# Članak 105.
+Sektor za politiku regionalnoga razvoja predlaže politiku regionalnoga razvoja i uspostavu cjelovitog sustava planiranja, upravljanja i financiranja regionalnoga razvoja: predlaganje unaprjeđenja zakonodavnog i institucionalnog sustava upravljanja regionalnim razvojem, koordinaciju sudionika i aktivnosti u pogledu formuliranja i provedbe regionalne politike te ostalih javnih politika od posebne važnosti za regionalni razvoj, izradu strateških i programskih dokumenta politike regionalnoga razvoja, predlaganje strateških ciljeva, prioriteta i mjera regionalnoga razvoja, sudjelovanje u predlaganju mjera za razvoj potpomognutih područja i drugih područja s razvojnim posebnostima, utvrđivanje metodologije za izračun indeksa razvijenosti te razvrstavanje teritorijalnih jedinica prema stupnju razvijenost, uspostavu integriranog informacijskog sustava pokazatelja za praćenje stanja i trendova regionalnoga razvoja, te obavlja druge poslove iz svoga djelokruga.
+Za obavljanje poslova iz djelokruga Sektora za politiku regionalnoga razvoja, ustrojavaju se sljedeće ustrojstvene jedinice:
+6.1.1. Služba za pravni i strateški okvir politike regionalnoga razvoja
+6.1.2. Služba za podršku politici regionalnoga razvoja.
+6.1.1. Služba za pravni i strateški okvir politike regionalnoga razvoja

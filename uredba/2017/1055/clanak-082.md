@@ -1,0 +1,3 @@
+# Članak 82.
+Služba za koordinaciju korištenja sredstava tehničke pomoći obavlja poslove provedbe Operativnog programa »Konkurentnost i kohezija« u dijelu koji se odnosi na korištenje sredstava tehničke pomoći, pri čemu obavlja poslove vezano uz: koordinaciju korištenja sredstava tehničke pomoći Upravljačkog tijela i Koordinacijskog tijela, koordinaciju korištenja sredstava tehničke pomoći tijela u Sustavu upravljanja i kontrole te drugih korisnika sredstava tehničke pomoći, dodjelu sredstava korisnicima tehničke pomoći, razradu uvjeta za korištenje sredstava i upravljanje sustavom dodjele i kontrole korištenja sredstava tehničke pomoći, te obavlja druge poslove iz svoga djelokruga.
+5.3.4. Služba za financijske instrumente

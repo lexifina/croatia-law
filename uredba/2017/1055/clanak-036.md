@@ -1,0 +1,3 @@
+# Članak 36.
+Odjel za upravljanje, kontrolu i informacijski sustav obavlja poslove povezane s upravljanjem i nadzorom nad sustavom strateškog planiranja razvoja, osigurava sukladnost strateških dokumenata s višim planskim dokumentima i aktima koji uređuju sustav strateškog planiranja razvoja na nacionalnoj razini, uspostavlja i održava informacijski sustav za strateško razvojno planiranje, razvija metodologiju strateškog planiranja i analitičke alate, prikuplja podatke o rezultatima u provedbi strateških i provedbenih dokumenata za planiranje razvoja na razini pokazatelja uspješnosti, izrađuje plan vrednovanja strateških dokumenata, te obavlja druge poslove iz svoga djelokruga.
+4.1.1.2. Odjel za nacionalnu razvojnu strategiju

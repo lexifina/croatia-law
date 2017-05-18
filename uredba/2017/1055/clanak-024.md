@@ -1,0 +1,3 @@
+# Članak 24.
+Pododsjek za kontrolu projektne dokumentacije obavlja stručne poslove kontrole financijske dokumentacije te provjerava sukladnost s primjenjivim EU i nacionalnim propisima, provodi formalne, suštinske i računske kontrole ispravnosti dokumentacije i redoslijed procedura propisanih od međunarodnih financijskih institucija i tijela EU, prati ispravnost i redoslijed procedura propisanih od strane EU koje se odnose na provedbu svakog pojedinog projekta, prati vremenski okvir provedbe svakog projekta, izrađuje izvješća za provedbu pojedinog projekta, izrađuje dokumente potrebne za rad komisija, odbora i radnih tijela vezano uz suradnju s EU, te obavlja druge poslove iz svoga djelokruga.
+3.1.1.1.2. Pododsjek za ovjeravanje projektnih troškova i izvješćivanje

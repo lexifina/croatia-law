@@ -1,0 +1,3 @@
+# Članak 62.
+Služba za potporu poslovnim procesima obavlja poslove vezane uz uspostavu, unaprjeđenje i osiguranje redovitog rada informacijskih sustava za podršku poslovnim procesima u dijelu koji se odnosi na upravljanje i provedbu programa sufinanciranih sredstvima ESI fondova, osigurava usklađenost informacijskih sustava s institucionalnim okvirom, poslovnim procesima te relevantnim regulatornim okvirom Europske unije, sudjeluje u pripremi prijedloga akata kojima se utvrđuju poslovni procesi za tijela u sustavu upravljanja i kontrole programa sufinanciranih sredstvima ESI fondova, te obavlja druge poslove iz svoga djelokruga.
+5.1.3. Služba za kontrolu kvalitete sustava

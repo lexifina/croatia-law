@@ -1,0 +1,8 @@
+## 2. GLAVNO TAJNIŠTVO
+# Članak 4.
+Glavno tajništvo obavlja poslove usklađivanja rada upravnih organizacija i unutarnjih ustrojstvenih jedinica u sastavu Ministarstva, koordinira donošenje godišnjeg plana rada Ministarstva i izvješća o izvršenju godišnjeg plana rada, izrađuje prijedloge planova zapošljavanja, osposobljavanja i stručnog usavršavanja državnih službenika, poduzima mjere za osiguranje učinkovitosti u radu, obavlja upravne i stručne poslove koji se odnose na sudjelovanje u izradi nacrta prijedloga zakona i prijedloga drugih propisa iz nadležnosti Ministarstva, obavlja poslove procjene učinaka propisa u skladu s posebnim zakonom, priprema prijedloge ugovora i internih akata iz svoje nadležnosti, provodi kontrolu ugovora iz nadležnosti Glavnog tajništva, obavlja poslove planiranja, upravljanja i razvoja ljudskih potencijala, opće, tehničke i pomoćne poslove, poslove zaštite na radu, stručne i administrativne poslove koji se odnose na upravljanje dokumentacijom, skrbi o urednom i pravilnom korištenju imovine, sredstava za rad, opremanju prostora Ministarstva, voznom parku i korištenju vozila, načinu održavanja sredstava i opreme, obavlja poslove informacijske sigurnosti i obrane, organizira prijevoz dužnosnika i službenika Ministarstva, obavlja poslove pisarnice, dostave, održavanja poslovnih prostora, opreme i čišćenja, priprema godišnji plan nabave i provodi postupak nabave roba, radova i usluga za potrebe Ministarstva, te obavlja druge poslove iz svoga djelokruga.
+Za obavljanje poslova iz djelokruga Glavnog tajništva, ustrojavaju se sljedeće ustrojstvene jedinice:
+2.1. Sektor za ljudske potencijale i opće poslove
+2.2. Sektor za pravne poslove
+2.3. Služba za nabavu.
+2.1. Sektor za ljudske potencijale i opće poslove

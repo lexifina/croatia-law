@@ -1,0 +1,3 @@
+# Članak 93.
+Odjel za pripremu i provedbu projekata u području obrazovne infrastrukture obavlja poslove vezane za pripremu strateških i ostalih projekata, pripremu dokumentacije te provedbu postupaka dodjele sredstava (uključujući sklapanje ugovora o dodjeli sredstava te izmjena i dopuna istih tijekom provedbe) u području obrazovne infrastrukture u kojem je Ministarstvo određeno za Upravljačko tijelo, poslove vezane za pružanje podrške korisnicima strateških projekata i drugim tijelima tijekom provedbe istih, te obavlja druge poslove iz svoga djelokruga.
+5.5. Sektor za pripremu i provedbu projekata u područjima energetike, klimatskih promjena, zaštite okoliša te prometne infrastrukture i mobilnosti

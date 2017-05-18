@@ -1,0 +1,6 @@
+# Članak 43.
+Služba za izvještavanje i vrednovanje ESI fondova obavlja stručne i administrativne poslove strateškog praćenja, izvještavanja i vrednovanja provedbe višegodišnjih programskih dokumenata sufinanciranih iz ESI fondova i horizontalnih pitanja: teritorijalnog pristupa, osiguranja ispunjenja prethodnih uvjetovanosti za korištenje ESI fondova, izrađuje Izvješća o napretku Sporazuma o partnerstvu i izvješća za Vladu Republike Hrvatske i Hrvatski sabor, izrađuje i prati ostvarenje ciljeva Evaluacijske strategije za ESI fondove 2014. - 2020., koordinira rad Međuresorne evaluacijske radne skupine te nadzire odgovarajuće funkcioniranje sustava upravljanja i kontrole pojedinih programa koji se financiraju iz ESI fondova, osigurava usklađenost različitih izvora financiranja ulaganja u Republici Hrvatskoj, te obavlja druge poslove iz svoga djelokruga.
+Za obavljanje poslova iz djelokruga Službe za izvještavanje i vrednovanje ESI fondova, ustrojavaju se sljedeće ustrojstvene jedinice:
+4.2.2.1. Odjel za strateško praćenje tematskih ciljeva 8, 9, 10 i 11 ESI fondova te izvještavanje o ESI fondovima
+4.2.2.2. Odjel za strateško praćenje u području ruralnog razvoja, pomorstva i ribarstva te vrednovanje na razini Sporazuma o partnerstvu.
+4.2.2.1. Odjel za strateško praćenje tematskih ciljeva 8, 9, 10 i 11 ESI fondova te izvještavanje o ESI fondovima

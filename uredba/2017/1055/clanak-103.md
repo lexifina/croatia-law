@@ -1,0 +1,2 @@
+# Članak 103.
+Odjel za suradnju s međunarodnim financijskim institucijama i primjenu horizontalnih načela obavlja poslove koordinacije suradnje s međunarodnim financijskim institucijama vezano uz sufinanciranje projekata, bavi se pitanjima primjene horizontalnih politika nediskriminacije, ravnopravnosti spolova, prava osoba s invaliditetom i održivim razvojem u planiranju i provedbi projekata te koordinira izradu programskih dodataka, sve u pogledu projekata Operativnog programa »Konkurentnost i kohezija«, te obavlja druge poslove iz svoga djelokruga.

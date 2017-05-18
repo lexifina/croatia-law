@@ -1,0 +1,6 @@
+# Članak 134.
+Služba za područja s razvojnim posebnostima obavlja poslove vezane uz provedbu programa i projekata održivog razvoja brdsko-planinskih područja i slabije razvijenih područja svrstanih u III. skupinu po indeksu razvijenosti, pripremu i programiranje posebnih mjera za ova područja, u cilju učinkovitijeg iskorištavanja posebnih potencijala predmetnih područja, poboljšanja suradnje i partnerstva između lokalnih partnera te lokalnih i državnih institucija, razvijanja administrativnih kapaciteta i jačanja uloge tijela lokalne vlasti u primjeni i provedbi ESI fondova. Služba razvija nove modele, koncepte i razvojne ideje i potiče nove inicijative za pomoć lokalnim zajednicama i drugim sektorima za opstanak i ostanak na tim područjima. U koordinaciji s nadležnim ustrojstvenim jedinicama Ministarstva sudjeluje u procesu izrade programa, prati provedbu te izvješćuje o provedbi, obavlja poslove vezane uz terenske provedbe, plaćanja i povrate po sklopljenim ugovorima, te obavlja druge poslove iz svoga djelokruga.
+Za obavljanje poslova iz djelokruga Službe za područja s razvojnim posebnostima, ustrojavaju se sljedeće ustrojstvene jedinice:
+8.1.2.1. Odjel za brdsko-planinska područja
+8.1.2.2. Odjel za razvojne inicijative.
+8.1.2.1. Odjel za brdsko-planinska područja
