@@ -1,0 +1,1 @@
+Pravilnik o izmjeni Pravilnika o minimalnim uvjetima za obavljanje provjera identiteta i zdravstvenog stanja bilja, biljnih proizvoda i drugih nadziranih predmeta koji se unose iz trećih zemalja, kad se te provjere obavljaju na mjestima koja nisu mjesta ulaska
