@@ -1,0 +1,3 @@
+# Članak 41.
+(1) Novčanom kaznom u iznosu od 2000,00 do 20.000,00 kuna kaznit će se za prekršaj pravna osoba u čijem se ugostiteljskom objektu poslužuje hrana i/ili piće, u kojem je zatečena osoba koja puši izvan prostora koji ispunjava uvjete iz članaka 26. – 32. ovoga Zakona (članak 25. stavci 1. i 2.).
+(2) Novčanom kaznom u iznosu od 2000,00 do 5000,00 kuna kaznit će se za prekršaj fizička osoba – obrtnik u čijem se ugostiteljskom objektu poslužuje hrana i/ili piće, u kojem je zatečena osoba koja puši izvan prostora koji ispunjava uvjete iz članaka 26. – 32. ovoga Zakona (članak 25. stavci 1. i 2.).

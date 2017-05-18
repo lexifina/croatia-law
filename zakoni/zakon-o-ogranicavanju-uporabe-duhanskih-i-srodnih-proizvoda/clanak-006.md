@@ -1,0 +1,18 @@
+## Izvješćivanje o sastojcima i emisijama
+# Članak 6.
+(1) Prije stavljanja duhanskih proizvoda na tržište proizvođači i uvoznici obvezni su ministarstvu dostaviti sljedeće podatke prema robnoj marki i vrsti:
+a) popis svih sastojaka i njihovih količina korištenih u proizvodnji duhanskih proizvoda, u padajućem redoslijedu prema masi svakog sastojka sadržanog u duhanskim proizvodima
+b) razine emisija iz članka 5. stavka 1. ovoga Zakona
+c) podatke o drugim emisijama i njihovim razinama, ako je moguće.
+(2) Za proizvode koji su stavljeni na tržište do dana stupanja na snagu ovoga Zakona podaci iz stavka 1. ovoga članka dostavljaju se u roku koji će odlukom odrediti ministar.
+(3) Ako je sastav proizvoda izmijenjen na način koji nije u skladu s podacima dostavljenim sukladno ovome članku, proizvođači ili uvoznici obvezni su prije stavljanja na tržište tog proizvoda obavijestiti o tome ministarstvo.
+(4) Popis sastojaka iz stavka 1. točke a) ovoga članka mora biti popraćen izjavom u kojoj se navode razlozi zbog kojih su ti sastojci uključeni u te duhanske proizvode. U popisu se navodi status sastojaka, uključujući i podatak jesu li registrirani sukladno Uredbi (EZ) br. 1907/2006 Europskoga parlamenta i Vijeća o registraciji, evaluaciji, autorizaciji i ograničavanju kemikalija (u daljnjem tekstu: Uredba (EZ) br. 1907/2006), kao i njihovo razvrstavanje prema Uredbi (EZ) br. 1272/2008 Europskog parlamenta i Vijeća o razvrstavanju, označivanju i pakiranju tvari i smjesa, o izmjeni i stavljanju izvan snage Direktive 67/548/EEZ i Direktive 1999/45/EZ i o izmjeni Uredbe (EZ) br. 1907/2006.
+(5) Popis iz stavka 1. točke a) ovoga članka mora biti popraćen odgovarajućim toksikološkim podacima koji se tiču sastojaka u zapaljenom ili nezapaljenom obliku, ovisno o okolnostima konkretnog slučaja, posebno u odnosu na njihove učinke na zdravlje potrošača i bilo kakav učinak koji stvara ovisnost.
+(6) Za cigarete i duhan za samostalno motanje proizvođač ili uvoznik predaje tehnički dokument kojim se određuje opći opis korištenih aditiva i njihovih obilježja.
+(7) Osim za katran, nikotin i ugljikov monoksid te za emisije iz članka 5. stavka 5. ovoga Zakona, proizvođači i uvoznici obvezni su navesti i metode korištene za mjerenje emisija.
+(8) Ministarstvo će na svojim mrežnim stranicama objaviti podatke pribavljene u skladu sa stavkom 1. ovoga članka i člankom 7. ovoga Zakona, vodeći računa i uvažavajući zaštitu podataka koje su proizvođači i uvoznici prilikom dostave tih podataka označili kao poslovnu tajnu.
+(9) Proizvođači i uvoznici obvezni su ministarstvu dostaviti dostupne unutarnje i vanjske studije o istraživanju tržišta i sklonostima različitih skupina potrošača, uključujući mlade osobe i pušače, u vezi sa sastojcima i emisijama, kao i radne sažetke svakog istraživanja tržišta koje provode prilikom stavljanja novog proizvoda na tržište, kao i izvješće o opsegu njihove prodaje po robnoj marki i vrsti, navedeno u komadima cigareta, cigarilosa ili cigara ili u kilogramima.
+(10) Svi podaci i informacije iz ovoga članka i članka 7. ovoga Zakona dostavljaju se u elektroničkom obliku. Podaci se pohranjuju u elektroničkom obliku i moraju biti dostupni Komisiji i drugim državama članicama, uvažavajući zaštitu podataka i vodeći računa o tome da se poslovne tajne i drugi povjerljivi podaci tretiraju povjerljivo.
+(11) Ministarstvo će proizvođačima i uvoznicima duhanskih proizvoda naplatiti razmjernu naknadu za primitak, pohranu, rukovanje, analizu i objavu podataka dostavljenih na temelju odredaba ovoga članka.
+(12) Visinu naknade iz stavka 11. ovoga članka utvrdit će odlukom ministar.
+(13) Pravilnik o obliku i dostupnosti podataka i informacija o duhanskim proizvodima iz stavka 10. ovoga članka donijet će ministar.

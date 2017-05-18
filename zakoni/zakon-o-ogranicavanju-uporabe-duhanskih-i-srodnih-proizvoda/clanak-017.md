@@ -1,0 +1,3 @@
+## Sigurnosno obilježje
+# Članak 17.
+Osim jedinstvene identifikacijske oznake iz članka 16. ovoga Zakona, sva jedinična pakiranja duhanskih proizvoda koja se stavljaju na tržište moraju nositi sigurnosni element zaštićen od neovlaštenog rukovanja, sastavljen od vidljivih i nevidljivih elemenata. Sigurnosni element mora biti tiskan ili pričvršćen tako da ga nije moguće ukloniti, mora biti neizbrisiv i ne smije biti skriven ili prekinut ni na koji način, uključujući duhanskim markicama, sukladno posebnim propisima kojima se propisuju trošarine, oznakama cijene ili drugim elementima. Kao sigurnosni element mogu se upotrebljavati i duhanske markice ako ispunjavaju sve potrebne tehničke standarde i funkcije.

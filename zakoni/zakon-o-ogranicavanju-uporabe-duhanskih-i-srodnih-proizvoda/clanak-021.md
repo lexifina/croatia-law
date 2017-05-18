@@ -1,0 +1,4 @@
+## Izvješćivanje o sastojcima biljnih proizvoda za pušenje
+# Članak 21.
+(1) Proizvođači i uvoznici biljnih proizvoda za pušenje obvezni su ministarstvu dostaviti popis svih sastojaka i njihovih količina po robnoj marki i tipu, koji se koriste u proizvodnji takvih proizvoda. Proizvođači ili uvoznici obvezni su obavijestiti ministarstvo ako je sastav proizvoda izmijenjen u odnosu na podatke dostavljene na temelju ovoga članka. Podaci iz ovoga članka dostavljaju se ministarstvu prije stavljanja na tržište novog ili izmijenjenog biljnog proizvoda za pušenje.
+(2) Ministarstvo objavljuje podatke podnesene u skladu sa stavkom 1. ovoga članka na svojim mrežnim stranicama, vodeći računa i uvažavajući pritom zaštitu podataka koje su proizvođači i uvoznici prilikom dostave tih podataka označili kao poslovnu tajnu.
