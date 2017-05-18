@@ -1,0 +1,3 @@
+# Članak 34.
+(1) Odgovarajućim prostorom za pohranu arhivskoga i registraturnoga gradiva Ministarstva obrane i Oružanih snaga Republike Hrvatske smatraju se prostorije koje su suhe, prozračne, osigurane od požara i krađe, udaljene od mjesta otvorenog plamena i od prostorija u kojima se čuvaju lakozapaljive tvari, bez vodovodnih, kanalizacijskih, plinskih i električnih instalacija te razvodnih vodova i uređaja centralnog grijanja bez odgovarajuće zaštite, uključujući i zaštitu od nadolaska nadzemnih i podzemnih voda.
+(2) Sve instalacije moraju uvijek biti ispravne i pod nadzorom. U prostorijama pismohrane i Središnjega vojnog arhiva strogo je zabranjeno pušenje.
