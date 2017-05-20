@@ -1,0 +1,5 @@
+# Članak 15.
+Vlada Republike Hrvatske donijet će odluku iz članka 20. stavka 4. izmijenjenog člankom 4. ovoga Zakona u roku od tri mjeseca od dana stupanja na snagu ovoga Zakona.
+Ministar kulture uskladit će pravilnike koji su doneseni na temelju Zakona o arhivskom gradivu i arhivima (»Narodne novine«, br. 105/97., 64/00., 65/09. i 125/11. - Kazneni zakon) s ovim Zakonom u roku od tri mjeseca od dana stupanja na snagu ovoga Zakona.
+Do stupanja na snagu propisa iz stavka 2. ovoga članka pravilnici koji su doneseni na temelju Zakona o arhivskom gradivu i arhivima (»Narodne novine«, br. 105/97., 64/00., 65/09. i 125/11. - Kazneni zakon) primjenjuju se u dijelu u kojem nisu u suprotnosti s odredbama ovoga Zakona.
+Opći i pojedinačni akti, ugovori, zapisnici o preuzimanju ili slične isprave koji su doneseni, sklopljeni ili sastavljeni prije stupanja na snagu ovoga Zakona i kojima se uređuje dostupnost javnoga arhivskoga gradiva primjenjuju se u dijelu u kojem nisu u suprotnosti s odredbama ovoga Zakona.

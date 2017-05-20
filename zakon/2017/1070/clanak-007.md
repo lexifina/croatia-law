@@ -1,0 +1,11 @@
+# Članak 7.
+Članak 22. mijenja se i glasi:
+»Ako opravdani znanstveni i drugi razlozi zahtijevaju korištenje arhivskoga gradiva prije isteka rokova dostupnosti propisanih ovim Zakonom (u daljnjem tekstu: prijevremeno korištenje), ravnatelj arhiva odobrit će korištenje toga gradiva premda se nisu ispunile pretpostavke iz članka 20. i 21. ovoga Zakona, na način i pod uvjetima koji jamče zaštitu javnih probitaka, odnosno privatnosti, prava i probitaka treće osobe.
+Ako se zahtijeva prijevremeno korištenje javnoga arhivskoga gradiva koje je označeno nekim od stupnjeva tajnosti, ravnatelj arhiva odobrit će njegovo korištenje ako stvaratelj gradiva deklasificira to gradivo u postupku propisanom posebnim propisom kojim se uređuje tajnost podataka.
+U slučaju iz stavka 2. ovoga članka smatrat će se da je javno arhivsko gradivo deklasificirano ako stvaratelj gradiva ne dostavi nadležnom državnom arhivu svoju odluku u roku od 30 dana od dana podnošenja zahtjeva za korištenje gradiva.
+Ako se zahtijeva prijevremeno korištenje javnoga arhivskoga gradiva koje sadržava osobne podatke, ravnatelj arhiva odobrit će korištenje arhivskoga gradiva ako je ispunjena koja od pretpostavki koja je propisana posebnim propisima o dostupnosti osobnih podataka.
+Iznimno od odredaba stavaka 1. - 4. ovoga članka, ravnatelj arhiva mora odobriti korištenje arhivskoga gradiva i prije isteka roka ako je takvo gradivo nužno za postavljanje, ostvarivanje ili obranu pravnih zahtjeva u sudskom ili upravnom postupku ili u postupku alternativnog rješavanja sporova (arbitraža, mirenje i dr.).
+U slučaju iz stavka 5. ovoga članka ravnatelj arhiva dostavit će javno arhivsko gradivo tijelu koje vodi postupak uz upozorenje da su tijelo koje vodi postupak i svi sudionici postupka dužni čuvati tajnost u njemu sadržanih podataka u skladu s propisima o tajnosti podataka ili propisima o zaštiti osobnih podataka.
+U slučaju odbijanja zahtjeva za prijevremeno korištenje javnoga arhivskoga gradiva, ravnatelj arhiva će u roku od 60 dana od podnošenja zahtjeva donijeti rješenje.
+Protiv rješenja o odbijanju zahtjeva za prijevremeno korištenje javnoga arhivskoga gradiva može se podnijeti žalba povjereniku za informiranje.
+Javno arhivsko gradivo mogu koristiti bez ograničenja stvaratelji čijom je djelatnošću i radom ono nastalo.«.
