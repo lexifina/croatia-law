@@ -1,0 +1,14 @@
+## Mjere u zaraženom području
+# Članak 8.
+(1) Radi iskorjenjivanja, sprječavanja širenja i suzbijanja štetnog organizma u zaraženom području, nadležni će fitosanitarni inspektor posjednicima bilja:
+- narediti uklanjanje i uništavanje pojedinačnih zaraženih trsova, loznih cijepova i zaraženih matičnih trsova zajedno s korijenom, za koje je laboratorijskom analizom potvrđeno da su zaraženi štetnim organizmom,
+- narediti uklanjanje i uništavanje pojedinačnih trsova i matičnih trsova zajedno s korijenom koji pokazuju simptome koji upućuju na zarazu štetnim organizmom, i to kod svih posjednika bilja, bez potvrđivanja zaraze laboratorijskom analizom,
+- ako je u vinogradu, matičnom nasadu ili rasadniku vinove loze više od 20 % trsova koji pokazuju simptome zaraze štetnim organizmom ovisno o potrebi uzeti dodatne uzorke za laboratorijsku analizu i narediti mjere koje se temelje na procjeni rizika, stručnog mišljenja i preporuke Zavoda,
+- zabraniti premještanje izvan zaraženog područja sadnog materijala glavnih biljaka domaćina, uključujući i dijelove za razmnožavanje,
+- narediti krčenje zapuštenih vinograda i uništavanje obične pavitine domaćina bez prethodnog potvrđivanja zaraze laboratorijskom analizom.
+(2) Iznimno od stavka 1. podstavka 4. ovog članka, fitosanitarni inspektor dopustit će na zahtjev posjednika bilja premještanje izvan zaraženog područja sadnog materijala, uključujući i dijelove za razmnožavanje, u sljedećim slučajevima:
+1. ako u rasadnicima vinove loze i matičnim nasadima tijekom posljednjeg vegetacijskog ciklusa nije potvrđena zaraza štetnim organizmom ili je u prethodnim godinama potvrđena, ali je uspješno iskorijenjena, što je potvrđeno vizualnim pregledima i laboratorijskim analizama nasumično uzetih uzoraka i,
+2. ako je fitosanitarni inspektor ili stručnjak Zavoda utvrdio da su u pojasu od 100 metara oko rasadnika uklonjene sve biljke domaćini sa simptomima zaraze i,
+3. ako u rasadnicima vinove loze i matičnim nasadima nije bilo vektora, što je potvrđeno sustavnim praćenjem žutim ljepljivim pločama, koje daje na uvid fitosanitarnom inspektoru ili stručnjaku Zavoda.
+(3) Iznimno od odredbi stavka 2. ovoga članka, fitosanitarni inspektor ili stručnjak Zavoda će dozvoliti premještanje izvan zaraženog područja sadnog materijala uključujući i dijelove za razmnožavanje u slučaju, ako je posjednik bilja, odgovorna osoba za zdravstvenu zaštitu bilja u rasadniku ili drugi provoditelj ovlašten za tretiranje, proveo tretiranje vrućom vodom prema EPPO metodi: »Hot Water Treatment« (EPPO Bulletin 42 (3:490-492) iz 2012. godine.
+(4) Posjednik bilja iz stavka 3. je dužan voditi evidenciju koja sadrži podatke o provedenoj metodi tretiranja, ovlaštenom provoditelju za tretiranje, kombinaciji temperature i vremena tretiranja, količini tretiranog sadnog materijala. Posjednik bilja mora najmanje tri godine čuvati dokumentaciju koja se odnosi na tretiranje iz stavka 3. ovog članka.
