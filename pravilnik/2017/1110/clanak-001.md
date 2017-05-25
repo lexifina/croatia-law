@@ -1,0 +1,2 @@
+# Članak 1.
+U Pravilniku o sadržaju i obliku obrasca za prijavu djelatnosti uvoza, proizvodnje i distribucije materijala i predmeta koji dolaze u neposredni dodir s hranom (»Narodne novine«, broj 3/14) u Obrascu za prijavu djelatnosti proizvodnje, distribucije i uvoza materijala i predmeta koji dolaze u neposredan dodir s hranom, u rubrici: »Prilog« riječi: »Izvod iz sudskog registra ili obrtničkog registra« brišu se.
