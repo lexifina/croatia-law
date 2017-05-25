@@ -1,0 +1,15 @@
+## Zahtjev za izdavanje odobrenja za provođenje razdvajanja s osnivanjem
+# Članak 5.
+(1) Zahtjev za izdavanje odobrenja za provođenje razdvajanja s osnivanjem, koji Agenciji podnosi društvo koje se razdvaja, tako da istodobno svu svoju imovinu prenosi na dva ili više novih društava za upravljanje koja se osnivaju radi provođenja razdvajanja sa sjedištem u Republici Hrvatskoj, mora minimalno sadržavati predmet zahtjeva s naznakom tvrtke, sjedišta i OIB-a podnositelja zahtjeva, u kojem će se obrazložiti razlozi za podjelu te ciljevi koji se namjeravaju postići razdvajanjem.
+(2) Uz zahtjev iz stavka 1. ovoga članka društvo je dužno dostaviti:
+1. nacrt plana podjele koji će minimalno sadržavati podatke propisane odredbama Zakona o trgovačkim društvima,
+2. zapisnik s glavne skupštine društva na kojoj je donesena odluka o podjeli koja kao sastavni dio sadrži plan podjele,
+3. izvješće uprave, odnosno izvršnih direktora o podjeli, osim ako su se članovi društva odrekli tog izvješća,
+4. izvješće revizora podjele, osim ako su se članovi društva odrekli tog izvješća,
+5. revizija osnivanja novih društava propisana odredbama Zakona o trgovačkim društvima,
+6. izvješće nadzornog, odnosno upravnog odbora o podjeli, osim ako su se članovi društva odrekli tog izvješća,
+7. sve potrebne suglasnosti članova društva koje su potrebne u smislu odredaba Zakona o trgovačkim društvima,
+8. dokaze o plaćenoj naknadi i administrativnoj pristojbi propisanoj pravilnikom o vrsti i visini naknada i administrativnih pristojbi Agencije,
+9. na poziv Agencije, po potrebi i druge podatke i dokumentaciju kojim se dokazuje ispunjavanje uvjeta propisanih Zakonom za izdavanje odobrenja za razdvajanja s osnivanjem uključujući i podatke koji su propisani zakonom koji uređuje sprječavanje pranja novca i financiranja terorizma, a koje prikupljaju obveznici tog zakona.
+(3) Zahtjev za izdavanje odobrenja za provođenje razdvajanja s osnivanjem, koji podnosi društvo koje se razdvaja, tako da istodobno svu svoju imovinu prenosi na dva ili više novih društava za upravljanje koja se osnivaju radi provođenja razdvajanja sa sjedištem izvan Republike Hrvatske mora minimalno sadržavati predmet zahtjeva s naznakom tvrtke, sjedišta i OIB-a podnositelja zahtjeva, u kojem će se obrazložiti razlozi za razdvajanje te ciljevi koji se namjeravaju postići razdvajanjem.
+(4) Uz zahtjev iz stavka 3. ovoga članka društvo je dužno dostaviti dokumentaciju propisanu stavkom 2. ovoga članka.
