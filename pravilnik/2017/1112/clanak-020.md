@@ -1,0 +1,5 @@
+## 11. ZAHTJEVI ZA LOKACIJE KOJE NISU OSLOBOĐENE ZA NEOGRANIČENO KORIŠTENJE
+# Članak 20.
+(1) Ako lokacija ne može biti oslobođena za neograničeno korištenje, mora se održavati odgovarajuća kontrola kako bi se osigurala zaštita zdravlja ljudi i okoliša.
+(2) Ako odobreno krajnje stanje razgradnje podrazumijeva oslobođenje od regulatornog nadzora uz ograničenja budućeg korištenja preostalih struktura, moraju se uspostaviti i održavati odgovarajuće kontrole i programi za praćenje i nadzor u svrhu optimizacije zaštite i sigurnosti te zaštite okoliša. Te kontrole predlaže nositelj odobrenja, a odobrava ih Zavod u sklopu izdavanja dozvole za početak razgradnje nuklearnog postrojenja. Odgovornost za provedbu i održavanje tih kontrola i programa mora biti jasno dodijeljena. Dozvola za prestanak razgradnje mora sadržavati odredbe kojima se osigurava poštovanje ograničenja budućeg korištenja objekta i / ili lokacije.
+(3) Ako je radioaktivni otpad uskladišten na lokaciji nakon što je razgradnja završena, mora se tražiti zasebno, revidirano ili novo, odobrenje od Zavoda za skladište otpada. To odobrenje mora sadržavati uvjete za razgradnju skladišta.
