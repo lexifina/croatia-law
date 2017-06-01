@@ -1,0 +1,5 @@
+# Članak 2.
+(1) Planski dokumenti u području civilne zaštite izrađuju se na temelju Procjene rizika od katastrofa za Republiku Hrvatsku i procjene rizika od velikih nesreća jedinica lokalne i područne (regionalne) samouprave, na temelju propisa koje predlaže ili donosi Državni zavod za radiološku i nuklearnu sigurnost te na temelju odredbi ovog Pravilnika.
+(2) Dijelovi Državnog plana mogu biti dio Plana provođenja utvrđenih obveza središnjeg tijela državne uprave nadležnog za poslove civilne zaštite u stanju neposredne ugroženosti neovisnosti, jedinstvenosti i opstojnosti Republike Hrvatske i ratnom stanju.
+(3) Smjernice za izradu procjena iz stavka 1. ovog članka utvrđuju se posebnim provedbenim propisom koji donosi čelnik središnjeg tijela državne uprave nadležnog za poslove civilne zaštite.
+(4) Planovi djelovanja sustava civilne zaštite izrađuju se isključivo za potrebe djelovanja kapaciteta sustava civilne zaštite za slučaj izvanrednih događaja/prijetnji iz kategorije neprihvatljivih rizika.

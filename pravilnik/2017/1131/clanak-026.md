@@ -1,0 +1,5 @@
+# Članak 26.
+(1) Oružane snage Republike Hrvatske zbog ustroja i strukture, uspostavljene organizacije, vještina, opreme i osposobljenog osoblja mogu biti od izuzetne koristi sustavu civilne zaštite u katastrofama.
+(2) Oružane snage nemaju status operativne snage sustava civilne zaštite te djelovanje u velikim nesrećama i katastrofama operativno usklađuje sa središnjim tijelom državne uprave nadležnom za poslove civilne zaštite i Stožerom civilne zaštite Republike Hrvatske.
+(3) Oružane snage Republike Hrvatske mogu se koristiti kao pomoć sustavu civilne zaštite u slučaju velikih nesreća i katastrofa tako da odluku o njihovom korištenju u slučaju katastrofa donosi Vlada Republike Hrvatske na prijedlog ministra obrane, a u slučaju velikih nesreća ministar obrane na zahtjev čelnika središnjeg tijela državne uprave nadležnog za poslove civilne zaštite.
+(4) Oružane snage Republike Hrvatske u slučaju primjene odredbi stavka 3. ovog članka svoje djelovanje koordiniraju s planovima, pravilima i procedurama koje utvrđuje središnje tijelo državne uprave nadležno za civilnu zaštitu na način da se njihovo angažiranje i djelovanje usklađuje s Ministarstvom obrane.

@@ -1,0 +1,1 @@
+Na temelju članka 49. stavka 2. Zakona o sustavu civilne zaštite (»Narodne novine«, br. 82/15), uz prethodno mišljenje Ministarstva unutarnjih poslova, Ministarstva obrane, Ministrastva zaštite okoliša i energetike i Ministarstva graditeljstva i prostornog uređenja, ravnatelj Državne uprave za zaštitu i spašavanje donosi

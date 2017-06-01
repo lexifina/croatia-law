@@ -1,0 +1,2 @@
+# Članak 9.
+U uvodnom dijelu Državnog plana navodi se pravna osnova, cilj donošenja, svrha i namjena, način usklađivanja/ažuriranja, uvjeti primjene, okvir i sadržaj sustava civilne zaštite, načela postupanja sustava civilne zaštite - sudionika, operativnih snaga i građana prije, tijekom i neposredno nakon katastrofa koje su prouzročile prijetnje iz Procjene rizika od katastrofa u Republici Hrvatskoj (osobito: potresa, poplava i požara na otvorenom prostoru).

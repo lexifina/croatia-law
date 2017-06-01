@@ -1,0 +1,4 @@
+# Članak 18.
+(1) Državnim planom utvrđuju se nositelji, mjere i postupci u slučaju velike nesreće i katastrofe s opasnim tvarima takvih razmjera koji će tijekom provođenja aktivnosti operativnih snaga i sudionika sustava civilne zaštite na saniranju nastalih posljedica zahtijevati koordiniranje Stožera civilne zaštite Republike Hrvatske.
+(2) Ravnatelj središnjeg tijela državne uprave nadležnog za poslove civilne zaštite, uz potporu Stožera civilne zaštite Republike Hrvatske, postupat će po odredbama Državnog plana, u pravilu, kada izvanredni događaj zahvati područje dviju ili više županija i/ili prijeti mogućim prekograničnim učincima.
+(3) U provođenju aktivnosti iz stavka 2. ovog članka, ravnatelju središnjeg tijela državne uprave nadležnog za poslove civilne zaštite potporu će pružati župani i stožeri civilne zaštite posljedicama nesreće zahvaćenih županija na način da će provoditi mjere utvrđene Vanjskim planovima.
