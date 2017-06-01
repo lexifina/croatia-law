@@ -1,0 +1,1 @@
+Odluka o obvezi rada ureda državne uprave radi provedbe drugog kruga glasovanja za izbore za općinske načelnike, gradonačelnike i župane te njihove zamjenike te za zamjenike općinskih načelnika, gradonačelnika i župana iz reda pripadnika nacionalnih manjina, odnosno iz reda pripadnika hrvatskog naroda
