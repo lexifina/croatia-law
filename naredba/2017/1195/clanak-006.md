@@ -1,0 +1,7 @@
+# Članak 6.
+(1) Radi sprječavanja širenja štetnog organizma, privremeno se na rok od dvije godine ograničava premještanje na teritoriju Republike Hrvatske, odnosno svako prenošenje ili prevoženje drva koje je u cijelosti ili djelomično zadržalo svoju prirodnu oblu površinu (s korom ili bez nje) te sadnog materijala vrsta iz članka 3. stavka 1. ove Naredbe.
+(2) Za drvo vrsta iz članka 3. stavka 1. ove Naredbe dopušta se premještanje isključivo od mjesta proizvodnje (sječe i izrade) do mjesta prerade na teritoriju Republike Hrvatske, i to prenošenjem ili prevoženjem najkraćim putem.
+(3) Drvo iz stavka 2. ovog članka prije daljnjeg stavljanja u promet i transport mora se obraditi na način da izgubi svoju dotadašnju u cijelosti ili djelomično zadržanu prirodnu oblu površinu i da sadrži manje od 20% vlage.
+(4) Ostaci nastali obradom drva iz stavka 3. ovog članka (kora, piljevina, iverje i slično) mogu se premještati na teritoriju Republike Hrvatske, i to prenošenjem ili prevoženjem u zatvorenom ili pokrivenom tovarnom prostoru.
+(5) Za sadni materijal vrsta iz članka 3. stavka 1. ove Naredbe dopušta se premještanje i korištenje unutar jedne sjemenske zone.
+(6) Vlasnici i posjednici obvezni su na mjestu proizvodnje sadnog materijala vrsta iz članka 3. stavka 1. ove Naredbe ograničiti pristup na područje za koje se sumnja da je zaraženo ili na kojem je potvrđena zaraza štetnim organizmom te provesti mjere koje im naredi šumarski inspektor.

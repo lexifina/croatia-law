@@ -1,0 +1,4 @@
+# Članak 4.
+(1) Zaraženim područjem u smislu ove Naredbe smatraju se površine na kojima se uzgaja bilje vrsta iz članka 3. stavka 1. ove Naredbe na području Vukovarsko-srijemske i Brodsko-posavske županije.
+(2) Ugroženim područjem u smislu ove Naredbe smatraju se površine na kojima se uzgaja bilje vrsta iz članka 3. stavka 1. ove Naredbe na području Virovitičko-podravske, Požeško-slavonske, Osječko-baranjske, Koprivničko-križevačke, Bjelovarsko-bilogorske, Varaždinske, Međimurske, Krapinsko-zagorske, Sisačko-moslavačke, Zagrebačke i Karlovačke županije te Grada Zagreba.
+(3) Područje od posebnog značaja za praćenje zdravstvenog stanja bilja vrste Quercus robur (L.) hrast lužnjak u smislu ove Naredbe jest područje doline rijeke Mirne u Istarskoj županiji i Laudonova gaja u Ličko-senjskoj županiji.
