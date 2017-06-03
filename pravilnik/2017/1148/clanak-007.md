@@ -1,0 +1,2 @@
+# Članak 7.
+Predsjedništvo vodi opći nadzor nad radom Sudišta, brine se o pravilnoj primjeni pravilnika i drugih općih akata Sudišta, sudjeluje u odlučivanju o nadležnosti Sudišta, odlučuje o korištenju i raspoređivanju financijskih sredstava Sudišta, razmatra i odobrava godišnja izvješća Sudišta i plan njegova rada za sljedeću godinu, te obavlja druge poslove određene ovim Pravilnikom, Zagrebačkim pravilima i drugim aktima Sudišta.
