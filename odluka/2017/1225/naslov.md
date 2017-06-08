@@ -1,0 +1,1 @@
+Odluka o razvoju i održavanju informacijskog sustava za upravljanje programima obnove, stambenog zbrinjavanja i upravljanja nekretninama u vlasništvu Republike Hrvatske, iz djelokruga Središnjeg državnog ureda za obnovu i stambeno zbrinjavanje
