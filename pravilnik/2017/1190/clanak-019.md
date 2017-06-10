@@ -1,0 +1,2 @@
+# Članak 19.
+Sporazumom o uključivanju na tržište rada utvrđuju se zanimanja koje dugotrajno nezaposlena osoba može obavljati prema svojim stručnim, radnim i osobnim mogućnostima te potrebama tržišta rada, aktivnosti koje će provoditi u cilju aktivacije i uključivanja na tržište rada, aktivnosti savjetnika za zapošljavanje u provedbi Sporazuma te učestalost, način i vrijeme izvršavanja individualnih konzultacija.
