@@ -1,0 +1,3 @@
+# Članak 2.
+(1) U Pravilniku o postupku izbora radničkog vijeća, u prilogu koji sadrži obrasce 1-20 i koji su sastavni dio toga Pravilnika, obrazac »16« zamjenjuje se obrascem »16 - Glasački listić za izbor članova radničkog vijeća s tri ili više članova«, a obrazac »17« zamjenjuje se obrascem »17 - Glasački listić za izbor članova radničkog vijeća s jednim članom«.
+(2) Obrazac »16 - Glasački listić za izbor članova radničkog vijeća s tri ili više članova« i obrazac »17 - Glasački listić za izbor članova radničkog vijeća s jednim članom« su u prilogu ovoga pravilnika i čine njegov sastavni dio.
