@@ -1,0 +1,4 @@
+# Članak 4.
+Kada je kod primjene oslobođenja od uvozne carine Uredbom Vijeća (EZ) br. 1186/2009 propisana zabrana otuđenja u određenom vremenskom razdoblju od dana puštanja robe u slobodni promet, nadležni carinski ured će:
+1. u sustavu elektroničke razmjene podataka za obradu carinske deklaracije odnosno u pisanoj deklaraciji kod postupanja sukladno posebnim propisima o popunjavanju jedinstvene carinske deklaracije kada se zbog nemogućnosti podnošenja elektroničkom razmjenom podataka jedinstvena carinska deklaracija podnosi u pisanom obliku, unijeti napomenu da je određen rok zabrane otuđenja sukladno odgovarajućoj odredbi Uredbe Vijeća (EZ) br. 1186/2009
+2. u slučaju da se radi o prijevoznom sredstvu izvijestiti tijelo nadležno za registraciju odnosnog prijevoznog sredstva u Republici Hrvatskoj.
