@@ -1,0 +1,1 @@
+Na temelju članka 9. stavka 3. Zakona o sudjelovanju radnika u odlučivanju u europskom društvu (SE) i u europskoj zadruzi (SCE) (»Narodne novine«, broj 93/14), ministar rada i mirovinskoga sustava donosi
