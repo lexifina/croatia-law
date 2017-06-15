@@ -1,0 +1,1 @@
+Na temelju članka 18. Zakona o sustavu državne uprave (»Narodne novine«, broj 150/11., 12/13., 93/16. i 104/16.), u svezi članka 84. Zakona o poljoprivrednom zemljištu (»Narodne novine«, broj 39/13. i 48/15.) ministar poljoprivrede donosi
