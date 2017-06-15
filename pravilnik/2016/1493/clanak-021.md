@@ -1,2 +1,0 @@
-# Članak 21.
-Studentski centri obvezni su dostaviti Ministarstvu znanosti, obrazovanja i sporta odmah nakon svake objave rezultata (privremene i konačne) listu studenata u digitalnome obliku (u excel datoteci) s podacima iz članka 18. ovoga pravilnika i ostvarenim bodovima po svim kriterijima za raspodjelu mjesta iz ovoga pravilnika ili dodjelu subvencija smještaja za sve studente koji su se prijavili na natječaj.

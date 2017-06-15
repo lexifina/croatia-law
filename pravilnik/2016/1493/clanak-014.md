@@ -1,5 +1,0 @@
-## DISCIPLINSKI PREKRŠAJ, ODUZIMANJE BODOVA I ZLOUPORABA OSTVARENOG PRAVA NA SMJEŠTAJ
-# Članak 14.
-(1) Studenti kojima je izrečena disciplinska mjera opomene, sukladno općim aktima studentskoga centra, pred gubitak prava na smještaj, oduzima se 200 bodova od ukupnog broja bodova, odnosno gubi pravo na izravan smještaj kod iduće prijave na natječaj.
-(2) Studenti koji počine teški prekršaj zlouporabe dodijeljenog smještaja, sukladno općim aktima studentskoga centra, u studentskome domu bit će sankcionirani oduzimanjem prava na smještaj za cijelo vrijeme studiranja.
-(3) Studenti koji stječu pravo na smještaj u studentskome domu, ali su za vrijeme prethodnoga stanovanja učinili teži disciplinski prijestup (uništavanje inventara doma, tučnjava, konzumacija alkohola i droga i ostala neprimjerena ponašanja studenata navedena u kućnome redu studentskoga doma), na temelju čega im je izrečena disciplinska mjera opomene za teži prekršaj, utvrđena općim aktima studentskoga centra, gube pravo na smještaj u studentskome domu za cijelo vrijeme studiranja.
