@@ -1,0 +1,1 @@
+Na temelju članka 6. stavka 1. Ustava Republike Hrvatske (»Narodne novine« 85/10) i članka 10. Zakona o političkim strankama (»Narodne novine« 76/93, 111/96, 164/98, 36/01 i 28/06) na Osnivačkom saboru Željko Lacković - Nezavisne liste, održanom u Đurđevcu, na dan 21. lipnja 2017. godine, usvojen je
