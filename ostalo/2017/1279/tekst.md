@@ -1,0 +1,53 @@
+KOLEKTIVNI UGOVORI
+
+1279
+
+Na temelju članka 17. Dodatka I o izmjenama i dopunama Kolektivnog ugovora ugostiteljstva (»Narodne novine« 44/15) održani su kolektivni pregovori o iznosu osnovice za obračun osnovne plaće s primjenom od 1. svibnja tekuće godine, koji su dovršeni 16. svibnja 2017., na način da su potpisnici:
+
+SINDIKAT TURIZMA I USLUGA HRVATSKE, Zagreb, Trg Petra Krešimira IV/2, zastupan po predsjedniku Eduardu Andriću, SINDIKAT ISTRE, KVARNERA I DALMACIJE, Pula, Danteov trg 5, zastupan po predsjedniku Bruni Buliću, i
+
+HRVATSKA UDRUGA POSLODAVACA – UDRUGA UGOSTITELJSTVA I TURIZMA, Zagreb, Radnička cesta 52, zastupana po predsjedniku Željku Kukurinu, sklopili
+
+SPORAZUM
+
+O IZMJENI DODATKA I KOLEKTIVNOG UGOVORA UGOSTITELJSTVA
+
+Članak 1.
+
+U članku 17., st. 1. Dodatka I iznos 2.863,08 mijenja se u iznos 2.950,00.
+
+Članak 2.
+
+U članku 18., st. 1. Dodatka I mijenjaju se iznosi najnižih iznosa po grupama složenosti poslova na način da se:
+
+za prvu grupu složenosti poslova iznos od 2.863,08 mijenja u iznos od 2.950,00
+
+za drugu grupu složenosti poslova iznos od 3.435,69 mijenja u iznos od 3.540,00
+
+za treću grupu složenosti poslova iznos od 4.151,46 mijenja u iznos od 4.277,50.
+
+Članak 3.
+
+Ovaj sporazum stupa na snagu osmoga dana od dana objave u »Narodnim novinama«, a primjenjuje se od 1. svibnja 2017. g.
+
+Zagreb, 16. svibnja 2017.
+
+Hrvatska udruga poslodavaca
+
+Udruga ugostiteljstva i turizma
+
+Željko Kukurin, v. r.
+
+|
+
+Sindikat turizma i usluga
+
+Hrvatske
+
+Eduard Andrić, v. r.
+
+Sindikat Istre, Kvarnera i Dalmacije
+
+Bruno Bulić, v. r.
+
+|
