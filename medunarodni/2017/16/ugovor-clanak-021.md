@@ -1,0 +1,5 @@
+# Članak 21.
+1. Ovaj Sporazum stupa na snagu tridesetog dana od dana na koji najmanje 55 stranaka Konvencije na koje se odnosi najmanje 55 % procijenjenih ukupnih globalnih emisija stakleničkih plinova položi svoje isprave o ratifikaciji, prihvaćanju, odobravanju ili pristupanju.
+2. Isključivo za ograničene potrebe stavka 1. ovog članka »ukupne globalne emisije stakleničkih plinova« znači najažurnija količina koju su stranke Konvencije dostavile na datum donošenja ovog Sporazuma ili prije tog datuma.
+3. Za svaku državnu ili regionalnu organizaciju za gospodarsku integraciju koja ratificira, prihvati ili odobri ovaj Sporazum ili mu pristupi nakon što se ispune uvjeti za stupanje na snagu ovog Sporazuma utvrđeni stavkom 1. ovog članka, ovaj Sporazum stupa na snagu tridesetog dana nakon datuma kada ta država ili regionalna organizacija za gospodarsku integraciju položi svoju ispravu o ratifikaciji, prihvaćanju, odobravanju ili pristupanju.
+4. Za potrebe stavka 1. ovog članka nijedna isprava koju položi regionalna organizacija za gospodarsku integraciju ne pribraja se onima koje su položile države članice te organizacije.

@@ -1,0 +1,2 @@
+# Članak 3.
+U skladu s nacionalno utvrđenim doprinosima globalnom odgovoru na klimatske promjene sve stranke trebaju predano raditi u skladu s člancima 4., 7., 9., 10., 11. i 13. te obavještavati o njima kako bi se ostvarila svrha ovog Sporazuma, kako je utvrđena u članku 2. Rad svih stranaka postupno će napredovati u skladu s potrebama stranaka - zemalja u razvoju za potporom radi učinkovite provedbe ovog Sporazuma.

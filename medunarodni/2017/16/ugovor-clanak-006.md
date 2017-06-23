@@ -1,0 +1,17 @@
+# Članak 6.
+1. Stranke prepoznaju da se neke stranke odlučuju na dobrovoljnu suradnju u provedbi nacionalno utvrđenih doprinosa kako bi njihove mjere ublažavanja i prilagodbe bile ambicioznije te radi promicanja održivog razvoja i cjelovitosti okoliša.
+2. Budu li se na dobrovoljnoj osnovi uključivale u pristupe koji se temelje na suradnji i koji uključuju upotrebu međunarodno prenesenih rezultata ublažavanja za ostvarenje nacionalno utvrđenih doprinosa, stranke moraju promicati održivi razvoj i osiguravati cjelovitost okoliša i transparentnost, uključujući u okviru upravljanja, te s pomoću pouzdane računovodstvene prakse osiguravati, među ostalim, izbjegavanje dvostrukog računanja u skladu sa smjernicama Konferencije stranaka koja služi kao sastanak stranaka ovog Sporazuma.
+3. Upotreba međunarodno prenesenih rezultata ublažavanja za ostvarenje nacionalno utvrđenih doprinosa u skladu s ovim Sporazumom dobrovoljna je te je odobravaju stranke sudionice.
+4. Pod nadležnosti i u skladu sa smjernicama Konferencije stranaka koja služi kao sastanak stranaka ovog Sporazuma uspostavlja se mehanizam za doprinos ublažavanju emisija stakleničkih plinova i potporu održivom razvoju, kojim se stranke mogu dobrovoljno koristiti. Tijelo koje imenuje Konferencija stranaka koja služi kao sastanak stranaka ovog Sporazuma nadzire taj mehanizam, a njime se nastoji postići sljedeće:
+(a) promicati ublažavanje emisija stakleničkih plinova i pritom poticati održivi razvoj;
+(b) poticati i olakšavati sudjelovanje javnosti i privatnih subjekata koje je odobrila jedna od stranaka u ublažavanju emisija stakleničkih plinova;
+(c) pridonijeti smanjenju razina emisija u stranci domaćinu na temelju koristi ostvarenih drugim aktivnostima ublažavanja kojima se ostvaruje smanjenje emisija, a koje i druge stranke mogu upotrijebiti za ostvarenje nacionalno utvrđenih doprinosa te
+(d) postići sveukupno ublažavanje globalnih emisija.
+5. Smanjenja emisija postignuta s pomoću mehanizma iz stavka 4. ovog članka ne mogu se upotrijebiti kao dokaz ostvarenja nacionalno utvrđenog doprinosa stranke domaćina ako ista smanjenja upotrijebi druga stranka kako bi dokazala da je ostvarila nacionalno utvrđeni doprinos.
+6. Konferencija stranaka koja služi kao sastanak stranaka ovog Sporazuma osigurava da se dio prihoda od aktivnosti u okviru mehanizma iz stavka 4. ovog članka upotrijebi za pokrivanje administrativnih troškova te za pomoć strankama - zemljama u razvoju koje su posebno osjetljive na negativne utjecaje klimatskih promjena, kako bi se podmirili troškovi prilagodbe.
+7. Konferencija stranaka koja služi kao sastanak stranaka ovog Sporazuma na prvoj sjednici donosi pravila, metode i postupke mehanizma iz stavka 4. ovog članka.
+8. Stranke prepoznaju važnost integriranih, holističkih i uravnoteženih netržišnih pristupa koji su im na raspolaganju kao pomoć koordiniranoj i učinkovitoj provedbi nacionalno utvrđenih doprinosa u kontekstu održivog razvoja i iskorjenjivanja siromaštva, među ostalim u okviru ublažavanja, prilagodbe, financiranja, prijenosa tehnologija i izgradnje kapaciteta, prema potrebi. Tim se pristupima nastoji postići sljedeće:
+(a) promicati ambicioznost u ublažavanju i prilagodbi;
+(b) povećati sudjelovanje javnog i privatnog sektora u provedbi nacionalno utvrđenih doprinosa te
+(c) stvoriti mogućnosti za koordinaciju među instrumentima i relevantnim institucijskim dogovorima.
+9. Okvir za netržišne pristupe održivom razvoju definira se kao okvir za promicanje netržišnih pristupa iz stavka 8. ovog članka.
