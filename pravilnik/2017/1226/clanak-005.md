@@ -1,0 +1,3 @@
+# Članak 5.
+U članku 87.b stavak 1. mijenja se i glasi:
+»(1) Osigurana osoba koja je ostvarila pravo na respirator, koncentrator kisika ili pulsni oksimetar, prema Pravilniku o uvjetima i načinu ostvarivanja prava na ortopedska i druga pomagala iz članka 88. ovog Pravilnika kod isporučitelja pomagala iz članka 86. ovog Pravilnika, a čija pomagala kao predstavnika i/ili distributera za RH ili proizvođača u RH nisu uvrštena u Popis pomagala iz članka 7. stvake 3. ovog Pravilnika, može na teret sredstava Zavoda ostvariti pravo na pripadajući potrošni materijal, kompatibilan originalnom pomagalu, bez obzira da li se potrošni materijal u Popisu pomagala nalazi pod zaštićenim imenom.«
