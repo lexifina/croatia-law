@@ -1,0 +1,2 @@
+# Članak 3.
+Upisna taksa za provođenje postupka mirenja iznosi 120,00 EUR u protuvrijednosti te svote u valuti sjedišta Centra primjenom prodajnog tečaja iz tečajne liste Hrvatske narodne banke na dan uplate. Upisnu taksu plaća predlagatelj mirenja najkasnije osam dana od podnošenja prijedloga za pokretanje postupka mirenja. Tajništvo Centra dostavit će prijedlog za pokretanje postupka mirenja protustranci na odgovor tek nakon uplate upisne takse. Uplaćena upisna taksa ne vraća se.

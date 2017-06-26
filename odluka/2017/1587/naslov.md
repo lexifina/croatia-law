@@ -1,0 +1,1 @@
+Odluku o troškovima mirenja pred Centrom za mirenje pri Hrvatskoj gospodarskoj komori u sporovima između korisnika platnih usluga koji su primatelji plaćanja i njihovih pružatelja platnih usluga koji se odnose na prava i obveze iz Uredbe (EU) 2015/751 i /ili Zakona o provedbi uredbi Europske unije iz područja platnog prometa (»Narodne novine«, br. 50/16.)
