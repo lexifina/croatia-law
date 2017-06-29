@@ -1,0 +1,2 @@
+# Članak 1.
+U Uredbi o načinu financiranja decentraliziranih funkcija te izračuna iznosa pomoći izravnanja za decentralizirane funkcije jedinica lokalne i područne (regionalne) samouprave za 2017. godinu (»Narodne novine«, broj 13/17), Tablica 1. »Zbirni pregled sredstava za decentralizirane funkcije u 2017. godini po županijama« zamjenjuje se Tablicom 1. »Zbirni pregled sredstava za decentralizirane funkcije u 2017. godini po županijama«, koja je sastavni dio ove Uredbe.
