@@ -1,0 +1,2 @@
+# Članak 24.
+Ovaj Zakon stupa na snagu prvoga dana od dana objave u »Narodnim novinama«, osim odredaba članka 3. stavka 1., članka 16. i članka 17. stavka 1. i stavka 5. ovoga Zakona u dijelu koji se odnosi na dodani stavak 2. u članku 137. Zakona o državnim službenicima (»Narodne novine«, br. 92/05., 107/07., 27/08., 34/11., 49/11., 150/11., 34/12., 49/12., 37/13., 38/13. i 138/15. - Odluka Ustavnog suda Republike Hrvatske), koje stupaju na snagu 1. siječnja 2018.
