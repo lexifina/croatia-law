@@ -1,0 +1,1 @@
+Na temelju odredbe članka 173. stavak 6. Zakona o osiguranju (»Narodne novine« broj 30/15) Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća održanoj 9. lipnja 2017. donijela je

@@ -1,0 +1,3 @@
+# Članak 1.
+U Pravilniku o minimalnim standardima, načinu obračuna i mjerilima za izračun tehničkih pričuva osiguranja (»Narodne novine« broj 10/16 i 42/17) članak 11. stavak (4) mijenja se i glasi:
+»(4) Društvo je dužno Agenciji u roku od 15 dana od dana primitka revizorskog izvješća, a najkasnije u roku od četiri mjeseca od isteka poslovne godine na koju se odnose godišnji financijski izvještaji dostaviti i izvješće imenovanog ovlaštenog aktuara iz članka 188. stavka 4. Zakona s mišljenjem imenovanog ovlaštenog aktuara o oblikovanju i dostatnosti premija i tehničkih pričuva prema računovodstvenim propisima sukladno odredbama Zakona, odnosno na temelju njega donesenih propisa.«
