@@ -1,0 +1,7 @@
+# Članak 10.
+Članak 33. mijenja se i glasi:
+»(1) Na zahtjev inspekcije zaštite okoliša ili kada postoji sumnja, izražena prijavom građana, da je došlo do onečišćenosti zraka čija je kvaliteta takva da može narušiti zdravlje ljudi, kvalitetu življenja i/ili štetno utjecati na bilo koju sastavnicu okoliša, izvršno tijelo Grada Zagreba, grada i općine utvrđuje opravdanost sumnje i u roku od pet dana donosi odluku o potrebi provedbe mjerenja posebne namjene odnosno procjene razine onečišćenosti.
+(2) Odluka iz stavka 1. ovoga članka sadrži razdoblje mjerenja ili procjene razine onečišćenosti te način plaćanja troškova posebnih mjerenja ili procjene razine onečišćenosti.
+(3) Ako se mjerenjem ili procjenom utvrdi da nije došlo do prekomjerne onečišćenosti ili je došlo do prekomjerne onečišćenosti, a onečišćivač nije poznat, troškove snosi jedinica lokalne samouprave čije je izvršno tijelo donijelo odluku iz stavka 1. ovoga članka.
+(4) Ako se mjerenjem ili procjenom utvrdi prekomjerna onečišćenost zraka, a onečišćivač je poznat, troškove mjerenja ili procjene snosi onečišćivač prema odluci iz stavka 1. ovoga članka.
+(5) Ako izvršno tijelo Grada Zagreba, grada i općine ne donese odluku iz stavka 1. ovoga članka, Ministarstvo će osigurati mjerenja posebne namjene ili procjene razine onečišćenosti na trošak i odgovornost jedinice lokalne samouprave čije izvršno tijelo nije donijelo odluku.«.

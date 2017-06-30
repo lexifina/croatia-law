@@ -1,0 +1,5 @@
+# Članak 41.
+Članak 127. mijenja se i glasi:
+»(1) U provedbi inspekcijskog nadzora tržišni inspektor će rješenjem narediti otklanjanje nepravilnosti i odrediti primjereni rok u kojem nepravilnosti treba otkloniti ako utvrdi da proizvodi koji su stavljeni na tržište nisu označeni ili su nepotpuno označeni, ako nije utvrđena kvaliteta proizvoda na propisani način ili dokazivanje sukladnosti proizvoda nije obavljeno ili nije obavljeno na propisani način.
+(2) U slučaju sumnje i/ili prijave da proizvod ne odgovara propisanoj kvaliteti tržišni inspektor će rješenjem privremeno zabraniti stavljanje na tržište proizvoda u vremenu potrebnom za dodatne preglede i ispitivanja.
+(3) Tržišni inspektor će rješenjem zabraniti stavljanje na tržište proizvoda koji u svom sastavu sadrže tvari iznad propisanih graničnih vrijednosti ili tvari nisu dozvoljene odnosno proizvoda uzorkovanog i ispitanog za potrebe godišnjeg programa praćenja kvalitete tekućih naftnih goriva za koje je u najkraćem mogućem roku od utvrđivanja rezultata dostavljena obavijest da proizvod ne odgovara propisanoj kvaliteti.«.

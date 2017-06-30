@@ -1,0 +1,13 @@
+# Članak 19.
+Članak 56. mijenja se i glasi:
+»(1) Uz zahtjev za izdavanje dozvole iz članka 54. ovoga Zakona prilaže se:
+- popis radnika s dokazom o njihovoj stručnoj osposobljenosti - elektronički zapis o radnom stažu ili potvrda o radnom stažu i diploma,
+- opis radnog iskustva radnika te popis stručnih poslova praćenja kvalitete zraka ili praćenja emisija u zrak iz nepokretnih izvora u kojima je sudjelovao,
+- izvadak iz zemljišne knjige, odnosno ugovor o zakupu radnog prostora,
+- potvrda o akreditaciji praćenja kvalitete zraka prema zahtjevu usklađene norme za ispitne i umjerne laboratorije ili potvrda referentnog laboratorija za osiguranje kvalitete mjerenja i podataka kvalitete zraka, s popisom referentnih metoda mjerenja ili drugih metoda mjerenja za koje je proveden postupak dokazivanja ekvivalentnosti s referentnim metodama mjerenja propisanima pravilnikom iz članka 52. ovoga Zakona, za koje se traži dozvola,
+- potvrda o akreditaciji praćenja emisija onečišćujućih tvari u zrak iz nepokretnih izvora prema zahtjevu usklađene norme za ispitne i umjerne laboratorije s popisom referentnih metoda mjerenja ili drugih metoda mjerenja za koje je proveden postupak dokazivanja ekvivalentnosti s referentnim metodama mjerenja odnosno za svaku metodu posebno sukladno CEN i ISO normama navedenim u tehničkoj specifikaciji HRS CEN/TS 15675 propisanima pravilnikom iz članka 53. ovoga Zakona za koje se traži dozvola,
+- potvrda o akreditaciji praćenja emisija onečišćujućih tvari u zrak iz nepokretnih izvora prema zahtjevu usklađene norme za ispitne i umjerne laboratorije s popisom referentnih metoda mjerenja emisija koje su u skladu s normom HRN EN 14181 za koje se traži dozvola.
+(2) Potvrdu o akreditaciji iz stavka 1. podstavaka 4., 5, i 6. ovoga članka izdaje akreditacijsko tijelo.
+(3) Potvrdu referentnog laboratorija za osiguranje kvalitete mjerenja i podataka kvalitete zraka za pojedine metode mjerenja iz stavka 1. podstavka 4. ovoga članka izdaje referentni laboratorij iz članka 61. ovoga Zakona.
+(4) Iznimno od stavka 3. ovoga članka, ako u Republici Hrvatskoj za određenu referentnu metodu mjerenja ne postoji referentni laboratorij, priznaje se potvrda referentnog laboratorija za osiguranje kvalitete mjerenja i podataka kvalitete zraka za pojedine metode mjerenja države članice Europske unije. Potvrda mora biti prevedena na hrvatski jezik po ovlaštenoj osobi.
+(5) Potvrdu o provedenom postupku dokazivanja ekvivalentnosti drugih metoda mjerenja kvalitete zraka s referentnim metodama propisanima pravilnikom iz članka 52. ovoga Zakona, za koje se traži dozvola, izdaje referentni laboratorij iz članka 61. ovoga Zakona.«.
