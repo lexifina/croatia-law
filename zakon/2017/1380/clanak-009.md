@@ -1,0 +1,4 @@
+# Članak 9.
+(1) Ministarstvo izdaje dozvole za obavljanje djelatnosti prikupljanja, provjere propuštanja, ugradnje i servisiranja rashladnih i klimatizacijskih uređaja i opreme te dizalica topline i nepokretnih protupožarnih sustava i aparata za gašenje požara koji sadržavaju fluorirane stakleničke plinove ili o njima ovise i dozvole centrima za obavljanje djelatnosti prikupljanja, obnavljanja i oporabe fluoriranih stakleničkih plinova.
+(2) Ministarstvo izdaje suglasnosti za provođenje programa izobrazbe osoba koje obavljaju djelatnosti prikupljanja, provjere propuštanja, ugradnje i servisiranja opreme i uređaja koji sadržavaju fluorirane stakleničke plinove ili o njima ovise.
+(3) Izdavanje akata iz stavaka 1. i 2. ovoga članka te pravo stranke na pravni lijek propisano je posebnim zakonom kojim se uređuje zaštita zraka.

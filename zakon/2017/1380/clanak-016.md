@@ -1,0 +1,2 @@
+# Članak 16.
+Do stupanja na snagu propisa iz članka 10. ovoga Zakona primjenjuje se Uredba o tvarima koje oštećuju ozonski sloj i fluoriranim stakleničkim plinovima (»Narodne novine«, br. 90/14.) i Pravilnik o izobrazbi osoba koje obavljaju djelatnost prikupljanja, provjere propuštanja, ugradnje i održavanja ili servisiranja opreme i uređaja koji sadržavaju tvari koje oštećuju ozonski sloj ili fluorirane stakleničke plinove ili o njima ovise (»Narodne novine«, br. 3/13.).
