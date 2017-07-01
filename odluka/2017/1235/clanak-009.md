@@ -1,0 +1,6 @@
+# Članak 9.
+(1) Zdravstveni radnici ugovorne zdravstvene ustanove/ugovorni privatni zdravstveni radnici koji provode dentalnu zdravstvenu zaštitu (polivalentnu) na primarnoj razini zdravstvene zaštite obvezni su u slučaju provođenja zdravstvene zaštite u okviru prava iz utvrđenog standarda na dentalnu zdravstvenu zaštitu, nakon utvrđivanja dijagnoze, izraditi cjelokupan plan terapije koji uključuje i zdravstvenu zaštitu izvan zdravstvenog standarda te osiguranoj osobi uručiti predračun za planirane zdravstvene usluge kako bi osigurana osoba potpisom potvrdila suglasnost za osobno snošenje troškova izvan standarda prava na zdravstvenu zaštitu iz obveznog zdravstvenog osiguranja.
+(2) Jedan primjerak plana i predračuna iz stavka 1. ovog članka obvezno zadržava osigurana osoba.
+(3) Za navedene zdravstvene usluge iz stavka 1. ovog članka osiguranu osobu se može naručiti, najranije drugi dan.
+(4) Provedene zdravstvene usluge iz stavka 1. ovog članka ne evidentiraju se kroz centralni informatički sustav niti se dostavljaju Zavodu na naplatu već se evidentiraju u zdravstvenom kartonu uz potpis osigurane osobe.
+(5) Za tako pružene zdravstvene usluge ne naplaćuje se sudjelovanje u troškovima zdravstvene zaštite već se osiguranoj osobi ispostavlja račun za izvršene zdravstvene usluge.

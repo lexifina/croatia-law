@@ -1,0 +1,6 @@
+# Članak 102.
+Cijene zdravstvenih usluga utvrđuju se za:
+- bolničku zdravstvenu zaštitu bolesnika oboljelih od akutnih bolesti primjenom dijagnostičko-terapijske skupine (DTS) iz Tablice 3.1. iz članka 103. stavka 1. ove Odluke u koje se razvrstavaju bolesnici koji imaju sličnu bolničku potrošnju i slične kliničke osobitosti i osnovne vrijednosti koeficijenta 1,00 utvrđene u skladu s člankom 103. stavkom 2. ove Odluke.
+- bolničku zdravstvenu zaštitu bolesnika koja se provodi dugotrajnim liječenjem, palijativnom skrbi kao i za bolničku zdravstvenu zaštitu bolesnika oboljelih od kroničnih bolesti primjenom utvrđenog koeficijenta za dan bolničkog liječenja iz Tablice 3.2. iz članak 104. stavka 1. ove Odluke i osnovne vrijednosti koeficijenta 1,00 utvrđene za osigurane osobe Zavoda u skladu s člankom 104. stavkom 2. ove Odluke
+- fizikalnu medicinu i rehabilitaciju u specijalnim bolnicama i lječilištima primjenom utvrđenog koeficijenta za dan bolničkog liječenja iz Tablice 3.2. iz članka 104. stavka 1. ove Odluke i osnovne vrijednosti koeficijenta 1,00 utvrđene za osigurane osobe Zavoda u skladu s člankom 104. stavkom 2. ove Odluke
+- posebno skupe lijekove primijenjene u vrijeme bolničkog liječenja osiguranih osoba u skladu s cijenama iz ugovora o financiranju lijekova, odnosno Odlukom o utvrđivanju posebno skupih lijekova utvrđenih Osnovnom listom lijekova

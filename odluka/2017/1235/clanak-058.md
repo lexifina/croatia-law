@@ -1,0 +1,2 @@
+# Članak 58.
+Specijalističko-konzilijarnu zdravstvenu zaštitu, kao i zdravstvenu zaštitu prema posebnim programima utvrđenim odlukom Upravnog vijeća Zavoda provode državni zdravstveni zavodi i županijski zavodi za javno zdravstvo, odnosno Zavod za javno zdravstvo Grada Zagreba, s kojima Zavod sklopa ugovore o provođenju zdravstvene zaštite iz obveznog zdravstvenog osiguranja u skladu sa Zakonom i ovom Odlukom te osnovom provedenog natječaja za popunu mreže.

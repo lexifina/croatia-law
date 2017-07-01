@@ -1,0 +1,6 @@
+# Članak 2.
+(1) Na osnovi odredaba članka 25. Zakona o zdravstvenoj zaštiti zdravstvena djelatnost obavlja se na primarnoj, sekundarnoj i tercijarnoj razini zdravstvene djelatnosti, te na razini zdravstvenih zavoda.
+(2) Zdravstvenu zaštitu na primarnoj razini zdravstvene djelatnosti osigurane osobe Zavoda (u daljnjem tekstu: osigurane osobe) ostvaruju slobodnim izborom doktora medicine i doktora dentalne medicine kojeg, u pravilu, biraju prema mjestu prebivališta, odnosno boravka u skladu sa Zakonom i općim aktom Zavoda.
+(3) Zdravstvenu zaštitu na sekundarnoj i tercijarnoj razini zdravstvene djelatnosti osigurane osobe Zavoda ostvaruju osnovom uputnice izabranog ugovornog doktora primarne zdravstvene zaštite iz stavka 2. ovog članka i interne uputnice iz članka 8. stavka 4. ove Odluke.
+(4) Iznimno od stavka 3. ovog članka, osigurana osoba zdravstvenu zaštitu ostvaruje bez uputnice u slučaju pružanja hitne medicinske pomoći.
+(5) Zdravstvenu zaštitu na razini zdravstvenih zavoda osigurane osobe ostvaruju na primarnoj razini zdravstvene djelatnosti prema mjestu prebivališta, odnosno boravka, a na sekundarnoj i tercijarnoj razini zdravstvene djelatnosti osnovom uputnice izabranog ugovornog doktora primarne zdravstvene zaštite i interne uputnice iz članka 8. stavka 4. ove Odluke.

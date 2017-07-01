@@ -1,0 +1,2 @@
+# Članak 112.
+Danom stupanja na snagu ove Odluke prestaje važiti Odluka o osnovama za sklapanje ugovora o provođenju zdravstvene zaštite iz obveznog zdravstvenog osiguranja (»Narodne novine«, 156/13., 11/14., 12/14. - ispravak, 34/14., 54/14., 66/14., 74/14., 106/14., 133/14., 157/14, 25/15., 36/15., 69/15., 79/15., 82/15. - ispravak, 91/15., 91/15. - ispravak, 116/15., 124/15. - ispravak, 139/15., 141/15. - ispravak, 28/16., 65/16., 90/16. - ispravak).

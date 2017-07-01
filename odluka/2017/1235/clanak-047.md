@@ -1,0 +1,4 @@
+# Članak 47.
+(1) Zdravstvena zaštita iz obveznog zdravstvenog osiguranja na sekundarnoj razini obuhvaća specijalističko-konzilijarnu zdravstvenu zaštitu, uključujući i telemedicinu kao i bolničku zdravstvenu zaštitu te provođenje posebnih programa.
+(2) Zdravstvena zaštita iz obveznog zdravstvenog osiguranja na tercijarnoj razini obuhvaća najsloženije oblike zdravstvene zaštite iz specijalističko-konzilijarnih i bolničkih djelatnosti.
+(3) Najsloženije oblike zdravstvene zaštite iz specijalističkih djelatnosti, koji se provode na tercijarnoj razini zdravstvene djelatnosti provode državni zdravstveni zavodi, klinički bolnički centri, kliničke bolnice i klinike koji su u mreži i s kojima je Zavod sklopio ugovor o provođenju zdravstvene zaštite.

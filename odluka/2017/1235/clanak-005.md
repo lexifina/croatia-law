@@ -1,0 +1,3 @@
+# Članak 5.
+(1) Zavod može tijekom ugovornog razdoblja sklapati ugovore sa zdravstvenim ustanovama i privatnim zdravstvenim radnicima kojima je rješenjem ministra nadležnog za zdravstvo odobren rad u djelatnostima koje su uključene u mrežu.
+(2) Ako se temeljem praćenja listi čekanja na određene dijagnostičke/terapijske postupke utvrdi značajno produženje čekanja, Zavod može na zahtjev Ministarstva zdravstva, raspisati natječaj iz članka 3. stavka 1. ove Odluke i interventno ugovoriti provođenje tih dijagnostičkih/terapijskih postupaka s pojedinim zdravstvenim ustanovama i privatnim zdravstvenim radnicima.
