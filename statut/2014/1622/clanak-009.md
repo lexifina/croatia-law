@@ -6,4 +6,4 @@ REGOS organizira obavljanje poslova iz svoje djelatnosti u sljedećim ustrojstve
 - Sektor obveznika
 - Sektor osiguranika i registra
 - Sektor administrativne podrške.
-Odredbom članka 1. Izmjena Statuta Središnjeg registra osiguranika (»Narodne novine«, br. 60/2015) stupile na snagu 31. svibnja 2015. godine, članak 9. je izmijenjen.
+Odredbom članka 1. Izmjena statuta Središnjeg registra osiguranika (»Narodne novine«, broj 60/15) stupile na snagu 31. svibnja 2015. godine, članak 9. je izmijenjen.
