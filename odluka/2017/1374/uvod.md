@@ -1,0 +1,1 @@
+Na temelju članka 20. i članka 42. stavak 1. Zakona o lokalnim porezima (»Narodne novine« br. 115/16) i članka 39. Statuta Grada Pula - Pola (»Službene novine« Grada Pule br. 7/09, 16/09, 12/11, 1/13), Gradsko vijeće Grada Pule na sjednici održanoj 8. lipnja 2017. godine donosi
