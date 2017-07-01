@@ -1,0 +1,1 @@
+Na temelju članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/11, 119/14 i 93/16), a u vezi s točkom 4. Nacionalnog programa reformi 2017., klase: 022-03/17-07/47, urboja: 50301-25/05-17-3, od 27. travnja 2017. godine, Vlada Republike Hrvatske je na sjednici održanoj 21. lipnja 2017. godine donijela
