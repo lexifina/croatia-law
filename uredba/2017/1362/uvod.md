@@ -1,0 +1,1 @@
+Na temelju članka 4. stavka 2., članka 7. stavka 5. i članka 16. stavka 6. Zakona o državnoj informacijskoj infrastrukturi (»Narodne novine«, broj 92/14), Vlada Republike Hrvatske je na sjednici održanoj 21. lipnja 2017. godine donijela
