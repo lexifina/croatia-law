@@ -1,0 +1,1 @@
+Na temelju članka 20. stavka 1. Zakona o lokalnim porezima (»Narodne novine« broj 115/16) i članka 31. Statuta Općine Petrijevci (»Službene glasnik Općine Petrijevci« broj 1/13 i 5/14), Općinsko vijeće Općine Petrijevci, na 3. sjednici održanoj 27. lipnja 2017. godine, donijelo je
