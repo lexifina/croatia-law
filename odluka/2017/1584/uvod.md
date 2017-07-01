@@ -1,0 +1,1 @@
+Na temelju članka 20. stavka 1. Zakona o lokalnim porezima (»Narodne novine« broj 115/16) i članka 15. Statuta Grada Siska (»Službeni glasnik Sisačko-moslavačke županije« broj 12/09, 16/10, 9/11, 18/12, 4/13, 6/13 - pročišćeni tekst, 14/14, 9/15 i 10/16), Gradsko vijeće Grada Siska je na 1. konstituirajućoj sjednici održanoj 23. lipnja 2017. godine donijelo
