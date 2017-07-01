@@ -1,0 +1,4 @@
+# Članak 13.
+(1) Obveznici poreza iz čl. 12. ove odluke dužni su nadležnom poreznom tijelu do 31. 3. godine za koju se utvrđuje porez dostaviti podatke o kući za odmor koji se odnose na mjesto gdje se nalazi taj objekt, korisnu površinu kao i druge podatke potrebne za razrez poreza, a naročito podatke o promjeni vlasništva, uspostavi suvlasništva, te promjenama vezanim za povećanje ili smanjenje površine kuće za odmor.
+(2) Pod korisnom površinom podrazumijeva se ukupna podna površina stana ili druge samostane prostorije, umanjena za širinu zidova koje je prekidaju, a uvećana za površinu lođa, balkona i terasa.
+(3) Ukoliko porezni obveznik ne dostavi podatke za razrez poreza, nadležni upravni odjel koristiti će podatke iz službenih evidencija Grada i tvrtki u vlasništvu ili suvlasništvu Grada, te će radi utvrđivanja točnosti stvarnog stanja provesti dodatne postupke dokazivanja statusa kuće za odmor.
