@@ -1,0 +1,1 @@
+Na temelju članka 20. stavka 1. Zakona o lokalnim porezima (»Narodne novine« broj 115/16) i članka 31. Statuta Općine Podstrana (»Službeni glasnik Općine Podstrana« broj 7/13), Općinsko vijeće Općine Podstrana, na 3. sjednici Općinskog vijeća održanoj 19. lipnja 2017. godine, donijelo je

@@ -1,0 +1,2 @@
+# Članak 15.
+U postupku dokazivanja statusa kuće za odmor vlasnik kuće je dužan obvezno dostaviti osobnu iskaznicu iz koje je vidljivo prebivalište vlasnika kuće, a može dostaviti i predočiti sljedeće dokaze: rješenje o kategorizaciji objekta za iznajmljivanje, porezno rješenje o utvrđivanju poreza od iznajmljivanja i najma kao i druge dokaze podobne za ocjenu i utvrđivanje vremena korištenja kuće ili stana u smislu članka 12. i članka 13. ove Odluke.
