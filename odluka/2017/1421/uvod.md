@@ -1,0 +1,1 @@
+Na temelju članka 42., a u svezi s člankom 67. Zakona o lokalnim porezima (»Narodne novine«, br. 115/16), članka 18. Statuta Općine Rakovec (»Glasnik Zagrebačke županije«, br. 15/09, 9/13 i 11/13) Općinsko vijeće Općine Rakovec na svojoj 1. sjednici održanoj 7. 6. 2017. godine donijelo je
