@@ -1,0 +1,1 @@
+Na temelju članka 1. i članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/11, 119/14 i 93/16), a u vezi s točkom 2. Zaključka Vlade Republike Hrvatske, klase: 022-03/15-07/371, urbroja: 50301-09/09-15-2, od 5. studenoga 2015. godine, Vlada Republike Hrvatske je na sjednici održanoj 6. srpnja 2017. godine donijela
