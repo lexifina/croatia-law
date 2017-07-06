@@ -1,0 +1,2 @@
+# Članak 1.
+U Pravilniku o proglašavanju turističkih općina i gradova i o razvrstavanju naselja u turističke razrede (»Narodne novine«, br. 122/09, 9/10 - isp., 61/10, 82/10, 36/11, 89/11, 146/11, 141/12, 144/12, 38/13, 153/13, 126/15, 15/16, 54/16, 113/16 i 26/17) u Tabeli I, u točki VIII. PRIMORSKO-GORANSKA ŽUPANIJA, u popisu gradova, u gradu Cresu, za naselje Miholašćica, razred B mijenja se u razred C.
