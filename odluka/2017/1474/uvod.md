@@ -1,0 +1,1 @@
+Na temelju članka 9. stavka 1. točaka 8. i 10. Zakona o morskom ribarstvu (»Narodne novine« br. 81/13., 14/14. i152/14.) i na temelju članka 2. stavka 4. Pravilnika o ulovu igluna (Xiphias gladius) (»Narodne novine« br. 62/17.), ministar poljoprivrede donosi
