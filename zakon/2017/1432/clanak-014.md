@@ -1,0 +1,6 @@
+# Članak 14.
+Naslov iznad članka 161. mijenja se i glasi: »OBVEZE KORISNIKA«.
+Članak 161. mijenja se i glasi:
+»(1) Korisnici su dužni organizaciji za kolektivno ostvarivanje prava dati relevantne podatke kojima raspolažu, a koji su potrebni za naplatu prihoda od prava i/ili raspodjelu iznosa dugovanih nositeljima prava, u ugovorenom ili prethodno određenom roku te u ugovorenom ili prethodno određenom obliku. Kad odlučuju o obliku u kojem će se dati potrebni podaci, organizacija za kolektivno ostvarivanje prava i korisnici dužni su uzeti u obzir, koliko je to moguće, standarde koji se dobrovoljno primjenjuju u odnosnom području (dobrovoljne industrijske standarde).
+(2) Organizacija za kolektivno ostvarivanje prava dužna je, kad je to moguće, omogućiti korisnicima da podatke iz stavka 1. ovoga članka dostavljaju elektroničkim putem.
+(3) U slučaju nedostatno dobivenih podataka odnosno neovlaštenog korištenja predmeta zaštite nadležna tijela državne uprave odnosno fizičke i pravne osobe koje raspolažu takvim podacima dostavit će organizaciji za kolektivno ostvarivanje prava, na njezin upit, podatke koji se odnose na ostvarivanje prava iz ovoga Zakona, osim u slučaju kada bi takva dostava podataka bila protivna posebnim propisima.«.
