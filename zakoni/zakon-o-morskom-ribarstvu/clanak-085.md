@@ -1,0 +1,123 @@
+# Članak 85.
+(1) Novčanom kaznom u iznosu od 5000,00 do 30.000,00 kuna kaznit će se za prekršaj pravna osoba ako:
+1. obavlja ribolov povlačnim mrežama, dredžama, okružujućim mrežama plivaricama, mrežama potegačama, obalnim mrežama potegačama ili sličnim mrežama iznad dna pokrivenih morskim cvjetnicama, posebno Posidonia oceanica ili drugim morskim fanerogama protivno članku 4. stavku 1. Uredbe Vijeća (EZ) br. 1967/2006
+2. obavlja ribolov povlačnim mrežama, dredžama, obalnim mrežama potegačama ili sličnim mrežama iznad koraljnih staništa i dna pokrivena maerlom protivno članku 4. stavku 2. Uredbe Vijeća (EZ) br. 1967/2006
+3. drži na plovilu mrežni teg čija je veličina oka manja od 40 mm na plovilima s pridnenom povlačnom mrežom koćom protivno članku 8. stavku 1. točki (h) Uredbe Vijeća (EZ) br. 1967/2006
+4. lovi, drži na plovilu, prekrcava, iskrcava, skladišti, prevozi, prodaje i izlaže ili nudi na prodaju ženke jastoga (Palinuridae spp.) i hlapa (Homarus gammarus) protivno članku 8. stavku 5. Uredbe Vijeća (EZ) br. 1967/2006
+5. koristi u ribolovu ili drži na plovilu povlačne mreže, okružujuće mreže ili jednostruke mreže stajačice čija veličina oka mreže u onom njezinom dijelu koji ima najmanje oko protivno članku 9. stavku 1. Uredbe Vijeća (EZ) br. 1967/2006
+6. koristi u ribolovu ili drži na plovilu parangale s udicama veličine manje od 3,95 cm i širine manje od 1,65 cm protivno članku 10. Uredbe Vijeća (EZ) br. 1967/2006
+7. smanjuje oko povlačne mreže koće u bilo kojem dijelu mreže protivno članku 11. stavku 1. Uredbe Vijeća (EZ) br. 1967/2006
+8. koristi opremu povlačnih mreža koća koja nije u skladu s tehničkim specifikacijama točke (b) Priloga I. Uredbe Vijeća (EZ) br. 1967/2006, a protivno članku 11. stavku 2. Uredbe Vijeća (EZ) br. 1967/2006
+9. koristi ili drži na plovilu ribolovne alate koji nisu u skladu s člankom 12. Uredbe Vijeća (EZ) br. 1967/2006
+10. koristi povlačne alate unutar tri nautičke milje od obale ili unutar izobate od 50 metara, ako se ta dubina dosegne na kraćoj udaljenosti od obale protivno članku 13. stavku 1. Uredbe Vijeća (EZ) br. 1967/2006
+11. koristi povlačne mreže koće unutar 1,5 nautičke milje od obale protivno članku 13. stavku 2. Uredbe Vijeća (EZ) br. 1967/2006 te upotrebu dredža koje se povlače brodom i hidrauličnih dredža protivno članku 12 . stavku 1. točkama 1., 2., i 6. ovoga Zakona
+12. koristi okružujuće mreže plivarice unutar 300 metara od obale ili unutar izobate od 50 metara, ako se ta dubina dosegne na kraćoj udaljenosti od obale, te na dubinama manjima od 70 % sveukupne visine okružujuće mreže plivarice izmjerene u skladu s Prilogom II. Uredbe Vijeća (EZ) br. 1967/2006, a protivno članku 13. stavku 3. Uredbe Vijeća (EZ) br. 1967/2006
+13. koristi dredže za ulov spužvi unutar izobate od 50 metara i unutar 0,5 nautičke milje od obale protivno članku 13. stavku 4. Uredbe Vijeća (EZ) br. 1967/2006
+14. u ribolovu koristi povlačne i okružujuće mreže, okružujuće mreže plivarice, dredže koje se povlače brodom, mehaničke dredže, jednostruke, trostruke i kombinirane mreže stajaćice te koristi parangale za lov visoko migratornih vrsta protivno članku 17. stavku 1. Uredbe Vijeća (EZ) br. 1967/2006
+15. iskrcava i prvi put stavlja u promet ulov ostvaren pridnenim povlačnim mrežama, pelagičnim povlačnim mrežama, okružujućim mrežama plivaricama, plutajućim parangalima, dredžama i hidrauličnim dredžama protivno članku 22. stavku 1. Uredbe Vijeća (EZ) br. 1967/2006
+16. ribarsko plovilo Europske unije nema instaliran uređaj koji je u potpunosti funkcionalan i koji putem sustava za praćenje plovila u redovitim vremenskim razmacima šalje podatke o poziciji plovila i tako omogućuje njegovo automatsko lociranje i identifikaciju protivno članku 9. stavku 2. Uredbe Vijeća (EZ) br. 1224/2009 i članku 51. stavku 2. ovoga Zakona
+17. ribarsko plovilo čija je duljina preko svega veća od 15 metara nema ili ne održava u funkciji sustav automatske identifikacije protivno članku 10. stavku 1. Uredbe Vijeća (EZ) br. 1224/2009
+18. zapovjednik ribarskog plovila čija duljina preko svega iznosi deset ili više metara ne vodi očevidnik o ribolovu u kojemu za svaki izlazak u ribolov posebno navodi sve količine svake vrste ulovljene i zadržane na plovilu iznad 50 kg ekvivalenta žive mase ili protivno članku 14. stavku 1. Uredbe Vijeća (EZ) br. 1224/2009
+19. zapovjednik ribarskog plovila u svoje očevidnike o ribolovu ne bilježe sve procijenjene količine odbačenog ulova iznad 50 kg ekvivalenta žive mase za bilo koju vrstu koja ne podliježe obavezi iskrcavanja protivno članku 14. stavku 4. Uredbe Vijeća (EZ) br. 1224/2009
+20. zapovjednik ribarskog plovila ne dostavlja podatke iz očevidnika o ribolovu što je moguće prije, a najkasnije 48 sati nakon iskrcaja protivno članku 14. stavku 6. Uredbe Vijeća (EZ) br. 1224/2009
+21. zapovjednik ribarskog plovila plovi kroz područje ograničenog ribolova brzinom većom od propisane i/ili ribolovni alati tijekom plovidbe kroz područje ograničenog ribolova nisu složeni u skladu s člankom 50. stavkom 4. Uredbe Vijeća (EZ) br. 1224/2009
+22. zapovjednik ribarskog plovila čija duljina preko svega iznosi 12 ili više metara ne bilježi podatke iz članka 14. Uredbe (EZ) br. 1224/2009 u elektroničkom obliku i najmanje jednom dnevno ih elektroničkim putem šalju ministarstvu protivno članku 15. stavku 1. Uredbe Vijeća (EZ) br. 1224/2009 i članku 52. stavcima 5. i 10. ovoga Zakona
+23. zapovjednik ribarskog plovila čija duljina preko svega iznosi 12 ili više metara ne šalje podatke iz članka 14. Uredbe Vijeća (EZ) br. 1224/2009 i na zahtjev ministarstva, a u svakom slučaju ne šalje odgovarajuće podatke iz očevidnika o ribolovu nakon zadnje ribolovne operacije i prije ulaska u luku protivno članku 15. stavku 2. Uredbe Vijeća (EZ) br. 1224/2009 i članku 52. stavcima 5. i 10. ovoga Zakona
+24. zapovjednik ribarskog plovila čija duljina preko svega iznosi 12 ili više metara i obavlja ribolov stokova obuhvaćenih višegodišnjim planom, a koji su obvezni bilježiti podatke iz očevidnika o ribolovu u elektroničkom obliku, ne dostavlja ministarstvu potrebne podatke najmanje četiri sata prije predviđenog dolaska u luku protivno članku 17. stavku 1. Uredbe Vijeća (EZ) br. 1224/2009 i članku 52. stavcima 5. i 10. ovoga Zakona
+25. obavlja prekrcaj na moru protivno članku 20. stavku 1. Uredbe Vijeća (EZ) br. 1224/2009
+26. zapovjednik ribarskog plovila čija duljina preko svega iznosi deset ili više metara i koji sudjeluje u prekrcaju ne popunjava prekrcajnu deklaraciju u kojoj posebno navode sve količine svake prekrcane ili preuzete vrste iznad 50 kg ekvivalenta žive mase protivno članku 21. stavku 1. Uredbe Vijeća (EZ) br. 1224/2009 i članku 52. stavku 10. ovoga Zakona
+27. zapovjednik ribarskog plovila s kojeg se obavlja prekrcaj, kao i zapovjednik ribarskog plovila na koje se obavlja prekrcaj ne dostavljaju prekrcajnu deklaraciju što je moguće prije, a najkasnije 48 sati nakon prekrcaja protivno članku 21. stavku 4. Uredbe Vijeća (EZ) br. 1224/2009 i članku 52. stavku 10. ovoga Zakona
+28. zapovjednik ribarskog plovila čija duljina preko svega iznosi 12 ili više metara ne bilježi podatke iz članka 21. u elektroničkom obliku i ne šalje ih elektroničkim putem ministarstvu u roku od 24 sata nakon završetka prekrcaja protivno članku 22. stavku 1. Uredbe Vijeća (EZ) br. 1224/2009 i članku 52. stavcima 5. i 10. ovoga Zakona
+29. zapovjednik ribarskog plovila čija duljina preko svega iznosi deset ili više metara ne popuni iskrcajnu deklaraciju u kojoj posebno navodi sve količine svake iskrcane vrste protivno članku 23. stavku 1. Uredbe Vijeća (EZ) br. 1224/2009 i članku 52. stavku 10. ovoga Zakona
+30. zapovjednik ili predstavnik zapovjednika ribarskog plovila ne dostavi iskrcajnu deklaraciju što je moguće prije, a najkasnije 48 sati nakon iskrcaja u skladu s člankom 23. stavkom 3. Uredbe Vijeća (EZ) br. 1224/2009 i člankom 52. stavkom 10. ovoga Zakona
+31. zapovjednik ribarskog plovila ne dostavlja točne podatke u iskrcajnoj deklaraciji protivno članku 23. stavku 4. Uredbe Vijeća (EZ) br. 1224/2009 i članku 52. stavku 10. ovoga Zakona
+32. zapovjednik ili predstavnik zapovjednika ribarskog plovila čija duljina preko svega iznosi 12 ili više metara ne bilježi podatke u elektroničkom obliku i ne šalje ih elektroničkim putem ministarstvu u roku od 24 sata nakon završetka iskrcaja što je protivno članku 24. stavku 1. Uredbe Vijeća (EZ) br. 1224/2009 i članku 52. stavcima 5. i 10. ovoga Zakona
+33. kod ribolova kod kojeg nije dopušteno koristiti više od jedne vrste alata, svi ostali ribolovni alati nisu privezani i složeni što je protivno članku 47. Uredbe Vijeća (EZ) br. 1224/2009
+34. ribarsko plovilo nema opremu za pronalaženje i izvlačenje izgubljenog ribolovnog alata što je protivno članku 48. stavku 1. Uredbe Vijeća (EZ) br. 1224/2009
+35. zapovjednik ribarskog plovila koje je izgubilo ribolovni alata ili dio ribolovnog alata ne pokuša ga što je moguće prije pronaći i izvući što je protivno članku 48. stavku 2. Uredbe Vijeća (EZ) br. 1224/2009
+36. ne dokaže zemljopisno podrijetlo proizvoda za koje je utvrđena najmanja dopuštena veličina protivno članku 56. stavku 2. Uredbe Vijeća (EZ) br. 1224/2009
+37. ulovljene ili sakupljene proizvode ribarstva prije prve prodaje ne razvrsta u serije što je protivno članku 56. stavku 3. Uredbe Vijeća (EZ) br. 1224/2009
+38. Organizacija proizvođača ili registrirani kupac ne vode evidenciju o podrijetlu iz istog područja upravljanja, ne razvrstava serije koje dolaze s više ribarskih plovila te ne čuva podatke o serijama najmanje tri godine što je protivno članku 56. stavku 4. Uredbe Vijeća (EZ) br. 1224/2009
+39. izlaže za prvu prodaju, nudi na prodaju prvi put, prodaje ili na drugi način stavlja na tržište proizvode ribarstva koji ne zadovoljavaju zajedničke tržne standarde što je protivno članku 57. stavku 1. Uredbe Vijeća (EZ) br. 1224/2009
+40. ne može dokazati da proizvodi ribarstva i akvakulture udovoljavaju minimalnim tržnim standardima u svim fazama što je protivno članku 57. stavku 3. Uredbe Vijeća (EZ) br. 1224/2009
+41. ne osigura sljedivost pošiljke proizvoda ribarstva i akvakulture u svim fazama proizvodnje, prerade i distribucije, od izlova ili sakupljanja do maloprodaje što je protivno članku 58. stavku 1. Uredbe Vijeća (EZ) br. 1224/2009
+42. proizvode ribarstva i akvakulture koji se stavljaju ili će se vjerojatno staviti na tržište u Uniji ne označi na odgovarajući način kako bi se osigurala sljedivost svake serije što je protivno članku 58. stavku 2. Uredbe Vijeća (EZ) br. 1224/2009
+43. serije proizvoda ribarstva i akvakulture nakon prve prodaje združi ili razdijeli, a nije moguće proizvode ribarstva slijediti do faze izlova ili sakupljanja što je protivno članku 58. stavku 3. Uredbe Vijeća (EZ) br. 1224/2009
+44. nema uspostavljen sustav i postupak za identifikaciju gospodarskog subjekta koji im je isporučio serije proizvoda ribarstva i akvakulture, kao i onog kojemu su ti proizvodi isporučeni što je protivno članku 58. stavku 4. Uredbe Vijeća (EZ) br. 1224/2009
+45. za sve serije proizvoda ribarstva i akvakulture nisu zadovoljeni minimalni zahtjevi u pogledu označavanja i potrebnih podataka iz članka 58. stavka 5. Uredbe Vijeća (EZ) br. 1224/2009
+46. prvu prodaju ili registraciju svih proizvoda ribarstva ne obavi u aukcijskom centru ili kod registriranog kupca ili kod organizacije proizvođača što je protivno članku 59. stavku 1. Uredbe Vijeća (EZ) br. 1224/2009
+47. obavlja vaganje proizvoda ribarstva na vagi koju nije odobrilo ministarstvo što je protivno članku 60. stavku 1. Uredbe Vijeća (EZ) br. 1224/2009
+48. ne važe proizvode ribarstva pri iskrcaju, prije nego se proizvodi ribarstva uskladište, prevezu ili prodaju što je protivno članku 60. stavku 2. Uredbe Vijeća (EZ) br. 1224/2009
+49. ministarstvu u roku od 48 sati nakon prve prodaje ne dostavi prodajni list ili ga dostavi nepotpunog ili sadrži netočne podatke što je protivno članku 62. stavku 1. i članku 64. Uredbe Vijeća (EZ) br. 1224/2009
+50. zapovjednik ribarskog plovila postupi suprotno članku 62. stavku 5. Uredbe Vijeća (EZ) br. 1224/2009
+51. ministarstvu u roku od 24 sata nakon završetka prve prodaje ne dostavi prodajni list ili ga dostavi nepotpunog ili sadrži netočne podatke što je protivno članku 63. stavku 1. i članku 64. Uredbe Vijeća (EZ) br. 1224/2009
+52. ministarstvu ne dostavi u roku od 48 sati nakon iskrcaja potvrdu o preuzimanju ili je dostavi nepotpunu ili sadrži netočne podatke što je protivno članku 66. stavcima 1. i 3. Uredbe Vijeća (EZ) br. 1224/2009
+53. ministarstvu ne dostavi u roku od 24 sata nakon iskrcaja potvrdu o preuzimanju ili je dostavi nepotpunu ili sadrži netočne podatke što je protivno članku 67. stavku 1. Uredbe Vijeća (EZ) br. 1224/2009
+54. ministarstvu u roku od 48 sati od utovara ne dostavi prijevozni dokument ili ga dostavi nepotpunog ili sadrži netočne podatke što je protivno članku 68. stavcima 1., 3. i 4. Uredbe Vijeća (EZ) br. 1224/2009
+55. korisnik plovila promatračima zaduženima za nadzor ne osigura odgovarajući smještaj, ometa ih u obavljanju njihovih zadataka ili ne omogući pristup odgovarajućim dijelovima plovila, kao i pristup ulovu i dokumentima plovila, uključujući elektroničke datoteke što je protivno članku 73. stavku 7. Uredbe Vijeća (EZ) br. 1224/2009
+56. korisnik plovila službenim osobama zaduženim za obavljanje inspekcijskih pregleda ne omogući siguran pristup plovilu, prijevoznom sredstvu ili prostorijama u kojima se proizvodi ribarstva čuvaju, prerađuju ili stavljaju na tržište, ne osigura sigurnost, sprečava ga, zastrašuje i ometa u obavljanju njegove dužnosti što je protivno članku 75. stavku 1. Uredbe Vijeća (EZ) br. 1224/2009
+57. ne označi ribarsko plovilo sukladno članku 6. Provedbene uredbe Komisije (EU) br. 404/2011
+58. zapovjednik ribarskog plovila na zahtjev službenih osoba ne da na uvid dokumente iz članka 7. Provedbene uredbe Komisije (EU) br. 404/2011 što je protivno članku 7. stavku 5. Provedbene uredbe Komisije (EU) br. 404/2011
+59. ribarsko plovilo koje je obuhvaćeno sustavom za praćenje plovila napusti luku, a nema instaliran uređaj za satelitsko praćenje koji je u punoj funkciji što je protivno članku 18. stavku 1. Provedbene uredbe Komisije (EU) br. 404/2011 i u skladu s člankom 51. stavkom 9. ovoga Zakona
+60. zapovjednik ribarskog plovila uređaj za satelitsko praćenje u luci isključio u suprotnosti s člankom 18. stavkom 2. točkama a) i b) Provedbene uredbe Komisije (EU) br. 404/2011 i u skladu s člankom 51. stavkom 9. ovoga Zakona
+61. zapovjednik ribarskog plovila ne osigura stalno funkcioniranje uređaja za satelitsko praćenje i prijenos podataka iz članka 19. stavka 1. Provedbene uredbe Komisije 404/2011 što je protivno članku 20. stavku 1. Provedbene uredbe Komisije (EU) br. 404/2011 i članku 51. stavku 9. ovoga Zakona
+62. zapovjednik ribarskog plovila ne ispuni zahtjeve iz članka 20. stavka 2. točaka (a) do (d) Provedbene uredbe Komisije (EU) br. 404/2011 i članka 51. stavka 9. ovoga Zakona
+63. zapovjednik ili njegov predstavnik, na ribarskom plovilu na kojem je instaliran uređaj za satelitsko praćenje, u slučaju kvara, od trenutka kad je događaj otkriven ili od trenutka kad je on o tome obaviješten odgovarajućim telekomunikacijskim sredstvom svaka četiri sata ne šalje RMC-u države članice koja je država zastave koordinate zadnje pozicije ribarskog plovila što nije u skladu s člankom 25. stavkom 1. Provedbene uredbe Komisije (EU) br. 404/2011 i člankom 51. stavkom 9. ovoga Zakona
+64. ribarsko plovilo nakon tehničkog kvara ili prestanka rada uređaja za satelitsko praćenje ribarskog plovila napusti luku suprotno članku 25. stavku 3. Provedbene Uredbe Komisije (EU) br. 404/2011 i članku 51. stavku 4. ovoga Zakona
+65. zapovjednik ribarskog plovila ne ispunjava i ne dostavlja očevidnik o ulovu, prekrcajnu deklaraciju i iskrcajnu deklaraciju u papirnatom obliku što nije u skladu s člankom 30. stavcima od 1. do 3. Provedbene uredbe Komisije (EU) br. 404/2011
+66. zapovjednik ribarskog plovila ne vodi očevidnik o ribolovu, deklaraciju o pretovaru i deklaraciju o istovaru u papirnatom obliku u skladu s Prilogom X., a što je protivno članku 31. stavku 1. Provedbene uredbe Komisije (EU) br. 404/2011
+67. zapovjednik ribarskog plovila postupi suprotno članku 31. stavku 3. Provedbene uredbe Komisije (EU) br. 404/2011
+68. napusti luku s ribarskim plovilom koje nema instaliran sustav za elektroničko bilježenje i slanje podataka koji je u punoj funkciji protivno članku 36. stavku 1. Provedbene uredbe Komisije (EU) br. 404/2011 i članku 52. stavcima 5. i 10. ovoga Zakona
+69. zapovjednik ribarskog plovila ili njegov predstavnik u slučaju tehničkog kvara ili prestanka rada sustava za elektroničko bilježenje i slanje podataka instaliranog na ribarskom plovilu postupi suprotno članku 39. stavcima 1. i 2. Provedbene uredbe Komisije (EU) br. 404/2011 i članku 52. stavcima 5. i 10. ovoga Zakona
+70. zapovjednik ili korisnik ribarskog plovila ili njihov predstavnik po primitku obavijesti ne pošalje podatke u skladu s člankom 40. stavkom 3. Provedbene uredbe Komisije (EU) br. 404/2011 i članku 52. stavcima 5. i 10. ovoga Zakona
+71. odgovarajuće podatke o serijama ne ažurira nakon što su podaci postali dostupni što je protivno članku 67. stavku 2. Provedbene uredbe Komisije (EU) br. 404/2011
+72. evidenciju o vaganju ne vodi i/ili ne čuva u skladu s člankom 70. Provedbene uredbe Komisije (EU) br. 404/2011
+73. zapovjednik ribarskog plovila kopiju lista iz očevidnika o ribolovu ministarstvu ne dostavi prije vaganja u skladu s člankom 71. stavkom 3. Provedbene uredbe Komisije (EU) br. 404/2011
+74. evidenciju o vaganju zamrznutih proizvoda ribarstva ne vodi u skladu s člankom 73. Provedbene uredbe Komisije (EU) br. 404/2011
+75. nadležnim tijelima ne dopusti puni pristup sustavima za vaganje, evidencijama o vaganju, pisanim deklaracijama i svim prostorima u kojima su proizvodi ribarstva uskladišteni ili u kojima se oni prerađuju u skladu s člankom 75. Provedbene uredbe Komisije (EU) br. 404/2011
+76. zapovjednik plovila na zahtjev službenih osoba ne izvuče ribolovni alat radi inspekcijskog pregleda u skladu s člankom 104. stavkom 2. Provedbene uredbe Komisije (EU) br. 404/2011
+77. postupa protivno odredbama članka 113. stavka 2. točaka (a) i/ili (b) i/ili (c) i/ili (d) i/ili (e) Provedbene uredbe Komisije (EU) br. 404/2011
+78. postupa protivno odredbama članka 114. stavka 1. točaka (a) i/ili (b) i/ili (c) i/ili (d) i/ili (e) i/ili (f) i/ili (g) Provedbene uredbe Komisije (EU) br. 404/2011
+79. zapovjednik ribarskog plovila ne primi i ne surađuje s osobama zaduženim za uzorkovanje u skladu s člankom 11. stavkom 3. Uredbe Vijeća (EZ) br. 199/2008
+80. lovi, sakuplja, zadržava na plovilu, prekrcava, iskrcava, prenosi, skladišti, prodaje, izlaže ili nudi na prodaju ribe ili druge morske organizme u razdoblju lovostaja suprotno članku 12. stavku 1. točki 4. ovoga Zakona
+81. obavlja športski ili rekreacijski ribolov u zaštićenom području protivno članku 12. stavku 1. točki 12. ovoga Zakona
+82. obavlja ribolov i druge radnje koje mogu ometati djelatnost uzgoja na udaljenosti manjoj od 300 metara od oznake položaja uzgajališta, odnosno 50 metara za područja gdje se obavlja uzgoj školjkaša, odnosno granice koncesijskog područja, protivno članku 14. stavku 2. ovoga Zakona
+83. za vrijeme obavljanja gospodarskog ribolova, od polaska do povratka, na ribarskom plovilu se ne nalazi odgovorna osoba za obavljanje gospodarskog ribolova koja je stručno osposobljena za obavljanje gospodarskog ribolova protivno članku 15. stavku 5. ovoga Zakona
+84. obavlja sakupljanje živih školjkaša protivno članku 15. stavku 6. ovoga Zakona
+85. postupa suprotno članku 15. stavku 7. ovoga Zakona
+86. povlasticu za obavljanje gospodarskog ribolova na moru ne pohrani sukladno članku 18. stavku 1. ovoga Zakona
+87. nema uvjerenje o stručnoj osposobljenosti za obavljanje gospodarskog ribolova u skladu s člankom 21. stavkom 1. ovoga Zakona
+88. u malom obalnom ribolovu ulovi i/ili sakupi više od dozvoljene dnevne količine protivno članku 22. stavku 3. ovoga Zakona
+89. u malom obalnom ribolovu ulovi plavoperajnu tunu (Thunnus thynnus), igluna (Xiphias gladius), iglana (Tetrapturus belone), velike rakove te sakuplja koralje i spužve protivno članku 22. stavku 4. ovoga Zakona
+90. obavlja mali obalni ribolov protivno članku 22. stavku 6. ovoga Zakona
+91. upotrebljava ribolovni alat i/ili opremu protivno njihovoj namjeni, u vrijeme kada je za njega propisana vremenska zabrana uporabe, u dijelu ribolovnog mora u kojem je propisana zabrana uporabe i/ili na nedozvoljen način protivno članku 25. stavku 2. ovoga Zakona
+92. obavlja gospodarski ribolov i mali obalni ribolov onim ribolovnim alatima i opremom za koje je na snazi zabrana upotrebe na cijelom ribolovnom moru Republike Hrvatske, kao i njihovo držanje na plovilu protivno članku 25. stavku 3. ovoga Zakona
+93. obavlja športski ribolov ili rekreacijski ribolov bez dozvole za športski ribolov ili rekreacijski ribolov protivno članku 27. ovoga Zakona
+94. izdaje dozvole za športski ribolov suprotno članku 29. stavku 3. ovoga Zakona
+95. prodaje dozvole bez ovlaštenja ministarstva protivno članku 29. stavku 4. ovoga Zakona
+96. lovi plavoperajnu tunu, iglana, igluna, velike rakove te sakuplja spužve i koralje u športskom i rekreacijskom ribolovu protivno članku 32. stavku 1. ovoga Zakona
+97. u športskom i/ili rekreacijskom ribolovu postupa protivno članku 33. ovoga Zakona
+98. održi natjecanje u športskom ribolovu bez izdanog odobrenja ministarstva ili protivno uvjetima iz izdanog odobrenja protivno članku 34. stavku 1. ovoga Zakona
+99. obavlja ribolov u znanstvene i znanstveno-nastavne svrhe i ribolov za potrebe akvarija otvorenih za javnost bez rješenja protivno članku 35. stavku 1. ovoga Zakona
+100. obavlja ribolov protivno članku 36. stavku 1. ovoga Zakona
+101. obavlja ribolovni turizam bez ovlaštenja za ribolovni turizam protivno članku 37. stavku 1. ovoga Zakona
+102. kao ovlaštenik povlastice za gospodarski ribolov i mali obalni ribolov ne vodi podatke o ulovu te ih ne dostavlja ministarstvu protivno članku 41. stavku 1. ovoga Zakona
+103. ovlaštenici povlastice koji obavljaju ribolov ribarskim plovilima dužine do deset metara pasivnim ribolovnim alatima ne vode izvješće o ulovu i ne dostavljaju ga ministarstvu sukladno članku 41. stavku 2. ovog Zakona
+104. ulov proizvoda ribarstva iz gospodarskog ribolova ostvaren mrežama potegačama iskrcava i prvi put stavlja na tržište protivno članku 42. stavku 2. ovoga Zakona
+105. za proizvode ribarstva namijenjenih prvoj prodaji u kasnijoj fazi ne ispuni i/ili ne dostavi potvrdu o preuzimanju ministarstvu u propisanom roku protivno članku 43. stavku 5. ovoga Zakona
+106. obavlja vaganje proizvoda ribarstva protivno članku 44. ovoga Zakona
+107. prevozi proizvode ribarstva cestovnim prijevoznim sredstvima protivno članku 45. ovoga Zakona
+108. tražene podatke ne dostavi i/ili ne vodi druge evidencije sukladno članku 47. ovoga Zakona
+109. ne primi na plovilo ovlaštenog promatrača u skladu s člankom 48. stavkom 2. ovoga Zakona
+110. tražene podatke ne dostavi sukladno članku 50. stavku 1. ovoga Zakona
+111. vlasnik ribarskog plovila ne dozvoljava pristup ribarskom plovilu u svrhu instaliranja, održavanja, deinstaliranja i zamjene VMS uređaja, e-očevidnika i sustava senzora ribolovnih alata protivno članku 51. stavku 3. i/ili članku 52. stavku 3. i/ili članku 53. stavku 2. ovoga Zakona
+112. neovlašteno uklanja s uređaja propisno postavljene plombe protivno članku 51. stavku 6. ovoga Zakona
+113. ribarsko plovilo nema instaliran e-očevidnik u skladu s člankom 52. stavcima 1. i 2. ovoga Zakona
+114. uništi, ošteti, onesposobi ili na drugi način ometa rad e-očevidnika protivno članku 52. stavku 6. ovoga Zakona
+115. postupa sa sustavom senzora korištenja i označavanja ribolovnih alata protivno članku 53. stavku 4. ovoga Zakona
+116. u slučaju tehničkog kvara senzora ne prijavi kvar ili razloge nemogućnosti slanja podataka Ribarskom monitoring centru u skladu s člankom 53. stavkom 5. ovoga Zakona
+117. napusti luku suprotno članku 53. stavcima 6. i 7. ovoga Zakona
+118. drži ribolovne alate i opremu na plovilu protivno članku 58. stavku 3. ovoga Zakona.
+(2) Za prekršaj iz stavka 1. ovoga članka kaznit će se i odgovorna osoba u pravnoj osobi i odgovorna osoba u obavljanju gospodarskog ribolova novčanom kaznom od 3000,00 do 10.000,00 kuna.
+(3) Novčanom kaznom od 2000,00 do 5000,00 kuna za prekršaj iz stavka 1. ovoga članka kaznit će se fizička osoba obrtnik.
+(4) Novčanom kaznom od 2000,00 do 5000,00 kuna za prekršaj iz stavka 1. ovoga članka kaznit će se fizička osoba.

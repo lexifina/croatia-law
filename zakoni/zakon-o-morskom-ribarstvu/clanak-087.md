@@ -1,0 +1,56 @@
+## XI. PRIJELAZNE I ZAVRŠNE ODREDBE
+# Članak 87.
+(1) Obvezuje se ministar da u roku dvije godine od stupanja na snagu ovoga Zakona donese provedbene propise iz članka 7. stavka 2., članka 7. stavka 3., članka 11. stavka 2., članka 12. stavka 1., članka 13. stavka 2., članka 13. stavka 5., članka 17. stavka 10., članka 18. stavka 11., članka 20. stavka 5., članka 21. stavka 6., članka 22. stavka 7., članka 23. stavka 8., članka 25. stavka 6., članka 26. stavka 11., članka 28. stavka 2., članka 32. stavka 4., članka 33. stavka 6., članka 37. stavka 5., članka 39. stavka 4., članka 39. stavka 7., članka 40. stavka 9., članka 41. stavka 2., članka 43. stavka 11., članka 44. stavka 5., članka 45. stavka 3., članka 46. stavka 3., članka 48. stavka 5., članka 50. stavka 2., članka 51. stavka 10, članka 52. stavka 10., članka 53. stavka 1., članka 55. stavka 6., članka 56. stavka 2., članka 57. stavka 4., članka 63. stavka 2., članka 66. stavka 5., članka 68. stavka 4., članka 70. stavka 4., članka 73. stavka 2. i članka 74. stavka 4. ovoga Zakona.
+(2) Obvezuje se ministar da u roku 30 dana od stupanja na snagu ovoga Zakona donese provedbene propise iz članka 29. stavka 6., članka 29. stavka 8., članka 30. stavka 3. i članka 75. stavka 2. ovoga Zakona.
+(3) Do dana stupanja na snagu propisa iz stavaka 1. i 2. ovoga članka, u dijelu u kojem nisu u suprotnosti s odredbama ovoga Zakona, primjenjivat će se:
+– Pravilnik o kriterijima za utvrđivanje naknade šteta počinjenih ribama i drugim morskim organizmima (»Narodne novine«, br. 101/02., 96/05., 30/07. i 131/09.)
+– Pravilnik o posebnim staništima riba i drugih morskih organizama i regulacije ribolova u Velebitskom kanalu, Novigradskom i Karinskom moru, Prokljanskom jezeru, Marinskom zaljevu i Neretvanskom kanalu (»Narodne novine«, br. 148/04., 152/04., 55/05., 96/06., 123/09. i 130/09. – ispravak)
+– Pravilnik o uvjetima i načinu stavljanja u promet riba i drugih morskih organizama (»Narodne novine«, br. 154/08.)
+– Pravilnik o ribarskim zadrugama (»Narodne novine«, br. 48/10.)
+– Pravilnik o granicama u ribolovnom moru Republike Hrvatske (»Narodne novine«, br. 5/11.)
+– Pravilnik o ovlaštenju za obavljanje ribolovnog turizma i Registru o izdanim ovlaštenjima (»Narodne novine«, br. 59/11.)
+– Pravilnik o službenoj iskaznici, znački i odori ribarskog inspektora (»Narodne novine«, br. 142/12.)
+– Pravilnik o programu ispita za obavljanje gospodarskog ribolova, obrascu i načinu izdavanja uvjerenja o stručnoj osposobljenosti za obavljanje gospodarskog ribolova te o obliku, sadržaju i načinu vođenja registra o izdanim uvjerenjima (»Narodne novine«, br. 62/13.)
+– Pravilnik o obavljanju gospodarskog ribolova na moru okružujućom mrežom plivaricom srdelarom (»Narodne novine«, br. 101/14., 125/14., 140/14., 147/14., 2/15., 37/15., 44/15., 134/15., 94/16., 118/16. i 123/16.)
+– Pravilnik o obavljanju gospodarskog ribolova na moru pridnenom povlačnom mrežom – koćom (»Narodne novine«, br. 101/14., 118/14., 125/14., 2/15., 37/15., 47/15. i 134/15.)
+– Pravilnik o sustavu dodjeljivanja, prijenosu i evidenciji kaznenih bodova za teške prekršaje u morskom ribarstvu (»Narodne novine«, br. 112/14.)
+– Pravilnik o prodaji povlastica za ribolov u državnom vlasništvu i registru povlastica za ribolov u državnom vlasništvu (»Narodne novine«, br. 116/14.)
+– Pravilnik o sportskom i rekreacijskom ribolovu na moru (»Narodne novine«, br. 155/14., 37/15. i 59/15)
+– Pravilnik o malom obalnom ribolovu (»Narodne novine«, br. 8/15., 15/15., 19/15., 78/15., 107/15. i 15/17.)
+– Pravilnik o Programu dokumentacije koja prati plavoperajnu tunu (Thunnus thynnus), igluna (Xiphias gladius) i velikooku tunu (Thunnus obesus) na tržištu (»Narodne novine«, br. 13/15.)
+– Pravilnik o dodjeli državne potpore u sektoru ribarstva i akvakulture (»Narodne novine«, br. 36/15.)
+– Pravilnik o organizacijama proizvođača u ribarstvu i akvakulturi i međustrukovnim organizacijama (»Narodne novine«, br. 46/15.)
+– Pravilnik o obavljanju gospodarskog ribolova na moru dredžama (»Narodne novine«, br. 48/2015., 55/2015. i 12/16.)
+– Pravilnik o sadržaju, obliku i načinu vođenja evidencije, postupanja ribarskih inspektora (»Narodne novine«, br. 59/15.)
+– Pravilnik o stručnom osposobljavanju ovlaštenih osoba (»Narodne novine«, br. 74/15.)
+– Pravilnik o obavljanju gospodarskog ribolova na moru mrežama stajaćicama, klopkastim, udičarskim i probodnim ribolovnim alatima te posebnim načinima ribolova (»Narodne novine«, br. 84/15., 94/15. i 107/15.)
+– Pravilnik o obliku, sadržaju i načinu vođenja i dostave očevidnika, iskrcajne deklaracije i izvješća o ulovu u gospodarskom ribolovu na moru (»Narodne novine«, br. 87/15.)
+– Pravilnik o uvjetima, kriterijima i načinu dodjele potpore u okviru mjere III.1. »Pripremna potpora« (»Narodne novine«, br. 96/15., 83/16., 102/16. i 16/17.)
+– Pravilnik o obavljanju gospodarskog ribolova na moru pelagijskom koćom (»Narodne novine«, br. 104/15. i 89/16.)
+– Pravilnik o uvjetima, kriterijima i načinu dodjele potpore u okviru mjere IV.3. »Stavljanje na tržište proizvoda ribarstva i akvakulture« (»Narodne novine«, br. 107/15., 129/15., 12/16., 24/16., 30/16., 88/16. i 108/16.)
+– Pravilnik o uvjetima kriterijima i načinu dodjele potpore u okviru mjere IV.4. »Prerada proizvoda ribarstva i akvakulture« (»Narodne novine«, br. 107/15., 129/15., 24/16., 30/16. i 108/16.)
+– Pravilnik o obavljanju gospodarskog ribolova na moru okružujućim mrežama plivaricom palamidarom, plivaricom ciplaricom, plivaricom lokardarom, plivaricom igličarom i plivaricom oližnicom (»Narodne novine«, br. 116/15.)
+– Pravilnik o sadržaju, obliku i načinu dostave transportnog dokumenta (»Narodne novine«, br. 140/15.)
+– Pravilnik o uvjetima, kriterijima i načinu dodjele potpore u okviru mjere »Produktivna ulaganja u akvakulturu« (»Narodne novine«, br. 22/16. i 108/16.)
+– Pravilnik o zaštiti riba i drugih morskih organizama (»Narodne novine«, br. 42/16.)
+– Pravilnik o povlastici za obavljanje gospodarskog ribolova na moru i registru povlastica (»Narodne novine«, br. 46/16. i 39/17.)
+– Pravilnik o prostornom i vremenskom ograničenju obavljanja gospodarskog ribolova na moru pridnenom povlačnom mrežom – koćom u 2017. godini (»Narodne novine«, br. 81/16.)
+– Pravilnik o uvjetima, kriterijima i načinu dodjele potpore u okviru mjere I.8. »Zaštita zdravlja i sigurnost« (»Narodne novine«, br. 88/16.)
+– Pravilnik o uvjetima, kriterijima i načinu dodjele potpore u okviru mjere I.20. «Energetska učinkovitost i ublažavanje klimatskih promjena« (»Narodne novine«, br. 88/16.)
+– Pravilnik o uvjetima, kriterijima, načinu odabira, financiranja i provedbe lokalnih razvojnih strategija u ribarstvu (»Narodne novine«, br. 96/16.)
+– Pravilnik o uvjetima, kriterijima i načinu dodjele potpore u okviru mjere I.10. »Trajni prestanak ribolovnih aktivnosti« (»Narodne novine«, br. 118/16. i 123/16.)
+– Pravilnik o uvjetima, kriterijima i načinu dodjele potpore u okviru mjere II.13. »Osiguranje akvakulturnih stokova« (»Narodne novine«, br. 120/16.)
+– Pravilnik o prostornom i vremenskom ograničenju obavljanja gospodarskog ribolova na moru okružujućom mrežom plivaricom – srdelarom u 2017. godini (»Narodne novine«, br. 123/16., 9/17. i 41/17.)
+– Pravilnik o ulovu i prometu igluna (Xiphias gladius) (»Narodne novine«, br. 4/17.)
+– Pravilnik o ulovu, uzgoju i prometu tune (Thunnus thynnus) (»Narodne novine«, br. 4/17. i 15/17.)
+– Pravilnik o Registru ribarske flote Republike Hrvatske (»Narodne novine«, br. 23/17.)
+– Odluka o popisu iskrcajnih mjesta za ribarska plovila koja obavljaju gospodarski ribolov na moru (»Narodne novine«, br. 64/09. i 66/09.)
+– Odluka o rang listi sudionika u malom obalnom ribolovu (»Narodne novine«, br. 123/16.)
+– Odluka o ribolovnim mogućnostima i kriterijima raspodjele državne kvote i trajne individualne kvote u 2017. godini (»Narodne novine«, br. 5/17.)
+– Odluka o kriterijima za upis ulovnih ribarskih plovila udičarskim alatima u registar ICCAT-a (ICCAT Record of BFT Catching Vessels) u 2017. godini (»Narodne novine«, br. 16/17.)
+– Odluka o kriterijima za upis ulovnih ribarskih plovila koja obavljaju ribolov plivaricom tunolovkom u registar ulovnih brodova ICCAT-a (ICCAT Record of BFT Catching Vessels) u 2017. godini (»Narodne novine«, br. 41/17.)
+– Popis hrvatskih trgovačkih i znanstvenih naziva pojedinih vrsta proizvoda ribarstva (»Narodne novine«, br. 147/14.).
+(4) Iznimno od članka 13. stavka 2. ovoga Zakona, u slučaju dopuštene količine ulova plavoperajne tune (Thunnus thynnus), ta se odredba u cijelosti primjenjuje za tu vrstu od 1. siječnja 2019.
+(5) Najkasnije do 31. prosinca 2017. ministarstvo će uspostaviti sustav za samoobrazovanje putem mrežne stranice, a s početkom provedbe prestaju važiti odredbe članka 21. stavaka 3. i 4. ovoga Zakona.
+(6) Iznimno od odredbe članka 29. stavka 2. ovoga Zakona, godišnje dozvole za 2017. godinu izdaju se do 1. prosinca 2017.
+(7) Dozvole izdane u skladu s odredbama Zakona o morskom ribarstvu (»Narodne novine«, br. 81/13., 14/14. i 152/14.) vrijede do 1. siječnja 2018.

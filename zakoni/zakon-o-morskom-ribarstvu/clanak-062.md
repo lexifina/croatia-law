@@ -1,0 +1,4 @@
+## Uvjeti za inspektora
+# Članak 62.
+(1) Poslove višeg inspektora može obavljati osoba koja ima završen najmanje diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij ili specijalistički diplomski stručni studij: morskog ribarstva, studij biologije i ekologije mora, veterinarske medicine, biologije, poljoprivrede, prehrambene tehnologije, četiri godine radnoga iskustva u struci i položen državni stručni ispit za ribarskog inspektora.
+(2) Poslove inspektora može obavljati osoba koja ima završen najmanje diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij ili specijalistički diplomski stručni studij: morskog ribarstva, studij biologije i ekologije mora, veterinarske medicine, biologije, poljoprivrede, prehrambene tehnologije, dvije godine radnoga iskustva u struci i položen državni stručni ispit za ribarskog inspektora.
