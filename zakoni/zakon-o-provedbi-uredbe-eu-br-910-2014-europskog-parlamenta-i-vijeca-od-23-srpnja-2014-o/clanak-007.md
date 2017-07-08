@@ -1,0 +1,9 @@
+## III. INSPEKCIJSKI NADZOR
+# Članak 7.
+(1) Inspekcijski nadzor nad provedbom Uredbe (EU) br. 910/2014 te ovoga Zakona u pogledu odredbi kojima se uređuje elektronička identifikacija od članaka 6. do 12. Uredbe (EU) br. 910/2014 provode državni službenici središnjeg tijela državne uprave nadležnog za poslove e-Hrvatske ovlašteni za provedbu nadzora.
+(2) Inspekcijski nadzor nad provedbom Uredbe (EU) br. 910/2014 te ovoga Zakona u pogledu odredbi kojima se uređuju usluge povjerenja od članaka 13. do 45. Uredbe (EU) br. 910/2014 provode inspektori i drugi državni službenici središnjeg tijela državne uprave nadležnog za poslove gospodarstva ovlašteni za provedbu nadzora.
+(3) Inspekcijski nadzor nad radom pružatelja usluga povjerenja i kvalificiranih pružatelja usluga povjerenja te nacionalnih sustava elektroničkih identifikacija u području prikupljanja, uporabe i zaštite osobnih podataka potpisnika provode inspektori i drugi državni službenici ovlašteni za provedbu nadzora određeni zakonom i drugim propisima kojima se uređuje zaštita osobnih podataka, u skladu s propisanim djelokrugom.
+(4) U okviru inspekcijskog nadzora pružatelja usluga povjerenja i kvalificiranih pružatelja usluga povjerenja:
+– utvrđuje se jesu li ispunjeni uvjeti propisani Uredbom (EU) br. 910/2014 i provedbenim propisima donesenim na temelju Uredbe (EU) br. 910/2014
+– nadzire se pravilnost primjene propisanih postupaka i organizacijsko-tehničkih mjera te primjena internih pravila koja su u vezi s uvjetima propisanima Uredbom (EU) br. 910/2014 i provedbenim propisima donesenim na temelju Uredbe (EU) br. 910/2014.
+(5) Pružatelj usluga povjerenja i kvalificirani pružatelj usluga povjerenja dužan je radi provedbe inspekcijskog nadzora omogućiti neograničen uvid u podatke o poslovanju, uvid u poslovnu dokumentaciju, pristup registru potpisnika i pridruženoj računalnoj opremi i uređajima.

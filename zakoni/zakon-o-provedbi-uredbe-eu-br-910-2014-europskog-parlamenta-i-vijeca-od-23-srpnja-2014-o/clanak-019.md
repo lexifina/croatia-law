@@ -1,0 +1,15 @@
+## Pravne osobe
+# Članak 19.
+Novčanom kaznom od 5000,00 do 100.000,00 kuna kaznit će se za prekršaj kvalificirani pružatelj usluga povjerenja koji:
+1. ne utvrdi pravovaljano identitet fizičke ili pravne osobe za koju izdaje kvalificirani certifikat (članak 24. stavak 1. Uredbe (EU) br. 910/2014)
+2. ne obavijesti nadzorno tijelo o svim promjenama u vezi s pružanjem svojih kvalificiranih usluga povjerenja te o namjeri prestanka obavljanja te djelatnosti najmanje 3 (tri) mjeseca prije isteka ugovorom povjerenih mu usluga povjerenja (članak 24. stavak 2. podstavak (a) Uredbe (EU) br. 910/2014)
+3. ne zapošljava osoblje i/ili podizvođače koji posjeduju potrebna stručna znanja, pouzdanost, iskustvo i kvalifikacije i koji su prošli odgovarajuće osposobljavanje u vezi sa sigurnošću i propisima o zaštiti osobnih podataka te ne primjenjuju upravne i upravljačke postupke u skladu s europskim ili međunarodnim normama (članak 24. stavak 2. podstavak (b) Uredbe (EU) br. 910/2014)
+4. ne raspolaže dostatnim financijskim sredstvima i/ili nije sklopio odgovarajuće osiguranje od odgovornosti za štetu, u vezi s člankom 13. Uredbe (EU) br. 910/2014 (članak 24. stavak 2. podstavak (c) Uredbe (EU) br. 910/2014)
+5. ne obavijesti prije stupanja u ugovorni odnos, na jasan i sveobuhvatan način, svaku osobu koja želi koristiti kvalificiranu uslugu povjerenja o točnim uvjetima korištenja tom uslugom, uključujući bilo kakva ograničenja korištenja (članak 24. stavak 2. podstavak (d) Uredbe (EU) br. 910/2014)
+6. ne koristi vjerodostojne sustave i proizvode koji su zaštićeni od preinaka te osiguravaju tehničku sigurnost i pouzdanost postupaka koje ti sustavi i proizvodi podržavaju (članak 24. stavak 2. podstavak (e) Uredbe (EU) br. 910/2014)
+7. ne koristi vjerodostojne sustave za pohranu podataka koji su mu dostavljeni, u obliku koji se može provjeriti (članak 24. stavak 2. podstavak (f) Uredbe (EU) br. 910/2014)
+8. ne poduzima odgovarajuće mjere protiv krivotvorenja i krađe podataka (članak 24. stavak 2. podstavak (g) Uredbe (EU) br. 910/2014)
+9. ne bilježi i ne čini dostupnim tijekom odgovarajućeg razdoblja, uključujući razdoblje nakon prestanka obavljanja djelatnosti kvalificiranog pružatelja usluga povjerenja, sve bitne informacije u vezi s podacima koje izdaje i prima kvalificirani pružatelj usluga povjerenja, a posebno za potrebe predlaganja dokaza u sudskim postupcima i u svrhu osiguravanja kontinuiteta usluge (članak 24. stavak 2. podstavak (h) Uredbe (EU) br. 910/2014)
+10. nema uspostavljen i ažuriran plan prekida pružanja usluge radi osiguravanja njezina kontinuiteta u skladu s odredbama koje je potvrdilo nadzorno tijelo sukladno članku 17. stavku 4. točki (i) Uredbe (EU) br. 910/2014 (članak 24. stavak 2. podstavak (i) Uredbe (EU) br. 910/2014)
+11. ne osigurava zakonitu obradu osobnih podataka u skladu s Direktivom 95/46/EZ (članak 24. stavak 2. podstavak (j) Uredbe (EU) br. 910/2014)
+12. ne uspostavi i ne ažurira bazu podataka certifikata, kada se radi o kvalificiranim pružateljima usluga povjerenja koji izdaju kvalificirane certifikate (članak 24. stavak 2. podstavak (k) Uredbe (EU) br. 910/2014).

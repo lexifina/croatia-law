@@ -1,0 +1,3 @@
+# Članak 11.
+(1) Imatelj sredstva elektroničke identifikacije dužan je poduzeti sve potrebne mjere kako bi sredstva za elektroničku identifikaciju bila pod njegovim isključivim nadzorom, kako bi spriječio krađu, gubitak ili neovlašteno ustupanje svojih sredstava elektroničke identifikacije te je dužan odmah kod izdavatelja sredstva elektroničke identifikacije opozvati svoju elektroničku identifikaciju ako utvrdi da je ona izgubljena, ukradena ili neovlašteno ustupljena drugima.
+(2) Ako sredstva za elektroničku identifikaciju budu opozvana ili vremenski isteknu, imatelj sredstva elektroničkog identiteta ne smije ih više svjesno upotrebljavati, odnosno služiti se njima.
