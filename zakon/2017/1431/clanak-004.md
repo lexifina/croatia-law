@@ -1,0 +1,3 @@
+# Članak 4.
+U članku 97. stavku 1. točka 2. mijenja se i glasi:
+»2. ako lovi ili uznemirava ženku dlakave divljači kad je visoko bređa ili dok vodi sitnu mladunčad te pernatu divljač tijekom podizanja mladunčadi ili različitih stadija razmnožavanja; ako lovi migracijske vrste tijekom razdoblja razmnožavanja ili tijekom njihova povratka u područje gdje podižu mladunčad; ako lovi za vrijeme hibernacije; ako uništava i prisvaja mladunčad te uništava i oštećuje legla, gnijezda i jaja divljači ili ako lovi, odnosno dopusti lov divljači i njihove mladunčadi bez prethodnog dopuštenja Ministarstva (članak 52.).«.
