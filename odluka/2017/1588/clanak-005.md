@@ -1,0 +1,6 @@
+## NAKNADE TROŠKOVA
+# Članak 5.
+Predsjednik, potpredsjednici i članovi predsjedništva i tajnik Sudišta, arbitri, prevoditelji, zapisničari, svjedoci, vještaci, stenografi, snimatelji i druge osobe koje obavljaju određene poslove u postupcima arbitraže pred Sudištem imaju pravo na naknadu troškova u vezi s obavljanjem svojih dužnosti.
+Naknada troškova iz stavka 1. ovoga članka obuhvaća naknadu putnih troškova, smještaj u hotelu, te iznimno i druge odobrene stvarne troškove sukladno općim aktima Hrvatske gospodarske komore i posebnim propisima.
+Predsjednik ili potpredsjednik Sudišta će na poticaj arbitražnog suda ili tajnika Sudišta pozvati jednu ili obje stranke već prema okolnostima slučaja, na uplatu predujma potrebnog za pokriće predvidivih troškova iz stavka 1. i 2. ovog članka. Dok se predujam ne uplati arbitražni sud u pravilu neće poduzimati radnje u postupku.
+Predujam iz stavka 3. ovog članka zatražit će se osobito u slučajevima u kojima su arbitar pojedinac, odnosno član ili predsjednik arbitražnog vijeća osobe koje ne prebivaju u mjestu arbitraže, kao i u slučajevima u kojima će biti potrebno obaviti očevid ili drugu radnju izvan sjedišta Sudišta odnosno mjesta u kojem je mjesto arbitraže.
