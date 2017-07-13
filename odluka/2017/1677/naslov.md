@@ -1,0 +1,1 @@
+Odluka o davanju suglasnosti za sklapanje i provođenje pravnih poslova u okviru poziva Operativnog programa Konkurentnost i kohezija u financijskom razdoblju 2014. - 2020. »Promicanje održivog korištenja prirodne baštine u nacionalnim parkovima i parkovima prirode«
