@@ -1,0 +1,19 @@
+# Članak 13.
+Iza članka 48. dodaju se članci 48.a, 48.b i 48.c koji glase:
+»Članak 48.a
+U prostoru ograničenja izvan građevinskog područja može se planirati:
+1. gradnja i rekonstrukcija zgrade građevinske (bruto) površine nadzemnih dijelova do 400 m², najveće visine do 5 m i/ili potpuno ukopanog podruma do 1000 m² građevinske (bruto) površine na udaljenosti od najmanje 100 m od obalne crte na jednoj ili više katastarskih čestica ukupne površine od najmanje 3 ha, s time što građevna čestica na kojoj se planira gradnja, odnosno rekonstrukcija zgrade i/ili potpuno ukopanog podruma mora imati površinu od najmanje 1 ha, za potrebe prijavljenog obiteljskog poljoprivrednog gospodarstva i pružanje ugostiteljskih i turističkih usluga u seljačkom domaćinstvu, obrta registriranog za obavljanje poljoprivrede ili pravne osobe registrirane za obavljanje poljoprivrede
+2. rekonstrukcija postojeće zgrade kojom se ne povećava veličina zgrade (vanjski gabariti nadzemnog i podzemnog dijela)
+3. gradnja pomoćne zgrade i druge građevine na građevnoj čestici postojeće zgrade koje se prema posebnom propisu grade na građevnoj čestici postojeće zgrade bez građevinske dozvole
+4. gradnja zgrade građevinske (bruto) površine do 30 m² namijenjene uzgoju marikulture na pomorskom dobru za potrebe obrta ili pravne osobe, registriranih za uzgoj marikulture na pomorskom dobru koji imaju koncesiju na pomorskom dobru za korištenje površine mora najmanje 1 ha
+5. gradnja i rekonstrukcija građevina koje po svojoj prirodi zahtijevaju smještaj izvan građevinskog područja, uključujući i infrastrukturu za potrebe urbane sanacije, uz uvjet usklađenosti s odredbom članka 48. ovoga Zakona.
+Članak 48.b
+(1) Ako građevna čestica iz članka 48.a podstavka 1. ovoga Zakona ima površinu manju od 3 ha, u građevinskoj dozvoli za građenje zgrade i/ili podruma na toj čestici uz oznaku građevne čestice navode se i oznake ostalih katastarskih čestica koje zajedno s građevnom česticom imaju površinu od najmanje 3 ha.
+(2) Građevna čestica, katastarske čestice i građevine navedene u građevinskoj dozvoli iz stavka 1. ovoga članka predstavljaju gospodarsku i pravnu cjelinu te se ne mogu otuđivati pojedinačno već samo sve zajedno, o čemu nadležni sud po službenoj dužnosti u zemljišnoj knjizi za svaku katastarsku česticu stavlja zabilježbu.
+(3) Građevinska dozvola iz stavka 1. ovoga članka sadrži nalog nadležnom sudu za stavljanje po službenoj dužnosti u zemljišnoj knjizi zabilježbe da građevna čestica, katastarske čestice i građevine navedene u toj građevinskoj dozvoli predstavljaju gospodarsku i pravnu cjelinu te da se ne mogu otuđivati pojedinačno već samo sve zajedno, a koja se zabilježba u zemljišnoj knjizi stavlja za svaku katastarsku česticu.
+(4) Tijelo koje je izdalo građevinsku dozvolu iz stavka 1. ovoga članka istu po njezinoj izvršnosti dostavlja nadležnom sudu radi stavljanja zabilježbe iz stavka 2. ovoga članka.
+(5) Promjena vlasništva ili osnivanje stvarnih prava na katastarskim česticama iz stavka 1. ovoga članka prije stavljanja zabilježbe iz stavka 2. ovoga članka ne utječe na stavljanje te zabilježbe.
+(6) Pravni posao sklopljen protivno stavku 2. ovoga članka je ništetan.
+(7) Građevinska dozvola iz stavka 1. ovoga članka koja nema sadržaj propisan tim stavkom i stavkom 3. ovoga članka je ništava.
+Članak 48.c
+U izdvojenom građevinskom području izvan naselja te na prostoru izvan građevinskog područja na kojem se namjerava graditi igralište za golf i sportsko-rekreacijsko igralište na otvorenom u pojasu najmanje 100 m od obalne crte ne može se planirati građenje novih građevina, osim građevina komunalne i prometne infrastrukture koje po svojoj prirodi zahtijevaju smještaj na obali i podzemne infrastrukture, pratećih sadržaja ugostiteljsko-turističke namjene, građevina koje po svojoj prirodi zahtijevaju smještaj na obali (brodogradilišta, luke i sl.), te uređenje javnih površina.«.
