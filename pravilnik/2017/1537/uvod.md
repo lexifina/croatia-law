@@ -1,0 +1,1 @@
+Na temelju članka 41. stavka 2. i članka 42. stavka 4. Zakona o izvršavanju Državnoga proračuna Republike Hrvatske za 2017. godinu (»Narodne novine«, broj 119/16), ministar zaštite okoliša i energetike, uz suglasnost ministra financija (klasa: 011-01/17-05/120, urbroj: 513-05-02-15-2) od 22. svibnja 2017., donosi
