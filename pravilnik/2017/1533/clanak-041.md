@@ -1,0 +1,3 @@
+# Članak 41.
+(1) Certifikat ili obnovljeni certifikat izdan temeljem Pravilnika o izobrazbi u području javne nabave (»Narodne novine«, broj 6/12 i 125/14) smatra se certifikatom u smislu članka 2. stavka 1. točke 1. ovoga Pravilnika i vrijedi do isteka njegova važenja.
+(2) Potvrda o završenom specijaliziranom programu za trenere u sustavu javne nabave izdana temeljem Uredbe o oblicima, načinima i uvjetima izobrazbe u sustavu javne nabave (»Narodne novine«, broj 43/09) i Pravilnika o izobrazbi u području javne nabave (»Narodne novine«, broj 6/12 i 125/14) smatra se potvrdom u smislu članka 38. stavka 7. ovoga Pravilnika.
