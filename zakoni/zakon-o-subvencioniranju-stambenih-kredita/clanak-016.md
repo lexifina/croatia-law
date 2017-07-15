@@ -1,0 +1,4 @@
+# Članak 16.
+(1) Odabrana kreditna institucija dužna je u roku od osam dana od dana uredno podnesenog zahtjeva odlučiti ispunjava li podnositelj zahtjeva uvjete za davanje kredita utvrđene člankom 10. ovoga Zakona. Ova odluka mora sadržavati ukupni iznos kredita i plan otplate kredita.
+(2) Odluku kojom se utvrđuje da podnositelj zahtjeva ispunjava uvjete za davanje kredita iz stavka 1. ovoga članka, zajedno s dokumentima iz članka 15. stavaka 2. i 3. ovoga Zakona, odabrana kreditna institucija, bez odgađanja, dostavlja APN-u.
+(3) Odluku kojom se utvrđuje da podnositelj zahtjeva ne ispunjava uvjete za davanje kredita iz stavka 1. ovoga članka, odnosno odluku o neodobravanju subvencioniranja kredita iz članka 17. stavka 4. ovoga Zakona odabrana kreditna institucija, bez odgađanja, dostavlja podnositelju zahtjeva.

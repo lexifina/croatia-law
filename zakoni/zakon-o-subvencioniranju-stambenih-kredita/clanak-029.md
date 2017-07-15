@@ -1,0 +1,3 @@
+# Članak 29.
+(1) U slučaju u kojem korisnik kredita, ili njegov bračni ili izvanbračni drug, životni partner ili neformalni životni partner, u vlasništvu ima samo jedan stan ili kuću koju prodaje radi kupnje većeg stana ili kuće, odnosno gradnje kuće zbog potreba vlastitog stanovanja dužan je dokaz o prodaji tog stana odnosno kuće dostaviti APN-u najkasnije u roku od dvije godine od dana sklapanja ugovora o subvencioniranom kreditu.
+(2) Dostava dokaza iz stavka 1. ovoga članka o izvršenju te obveze ugovara se kao uvjet ugovora o subvencioniranom kreditu, a njezino neizvršenje kao razlog za proglašavanje kredita dospjelim u cijelosti.

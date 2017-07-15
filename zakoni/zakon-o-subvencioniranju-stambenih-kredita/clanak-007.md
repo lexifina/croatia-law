@@ -1,0 +1,4 @@
+## II. SUBVENCIONIRANJE KREDITA
+## Uvjeti za odobravanje subvencioniranja kredita
+# Članak 7.
+Subvencioniranje kredita koji građanin uzima od kreditne institucije za kupnju stana ili kuće odnosno za gradnju kuće radi rješavanja svojeg stambenog pitanja se pod uvjetima i na način propisan ovim Zakonom odobrava građaninu s prebivalištem na području Republike Hrvatske koji ispunjava uvjete za dobivanje stambenog kredita koje utvrđuje kreditna institucija, koji u trenutku podnošenja zahtjeva kreditnoj instituciji nije stariji od 45 godina te koji, odnosno čiji bračni ili izvanbračni drug, životni partner ili neformalni životni partner u vlasništvu nema stan, odnosno kuću ili koji u vlasništvu ima samo jedan stan ili kuću koju prodaje radi kupnje većeg stana ili kuće odnosno gradnje kuće zbog potreba vlastitog stanovanja.
