@@ -1,0 +1,4 @@
+# Članak 15.
+MEĐUNARODNA POMOĆ I SURADNJA
+1. Odbor može, uz pristanak odnosne države stranke, specijaliziranim ustanovama, fondovima i programima Ujedinjenih naroda i ostalim nadležnim tijelima proslijediti svoja mišljenja ili preporuke vezane uz pritužbe i istrage koje ukazuju na potrebu tehničkog savjeta ili pomoći, zajedno s očitovanjima i prijedlozima države stranke, ako postoje, na ova mišljenja ili preporuke.
+2. Odbor također može, uz pristanak odnosne države stranke, navedena tijela upoznati sa svakim pitanjem koje proizlazi iz pritužbi razmatranih na temelju ovog Protokola, a što im u okviru područja njihove nadležnosti može pomoći u donošenju odluke o prikladnosti međunarodnih mjera koje bi mogle pomoći državama strankama u postizanju napretka u provedbi prava priznatih Konvencijom i/ili njezinim fakultativnim protokolima.

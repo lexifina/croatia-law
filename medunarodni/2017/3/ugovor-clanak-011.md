@@ -1,0 +1,4 @@
+# Članak 11.
+PROVEDBA DALJNJIH AKTIVNOSTI
+1. Država stranka pozorno razmatra mišljenja Odbora, zajedno s njegovim preporukama, ako postoje, te Odboru podnosi pisani odgovor koji uključuje informacije o svakoj poduzetoj i predviđenoj aktivnosti s obzirom na mišljenja i preporuke Odbora. Država stranka podnosi svoj odgovor što je prije moguće, odnosno u roku od šest mjeseci.
+2. Odbor može pozvati državu stranku na dostavljanje daljnjih informacija o svim mjerama koje je država stranka poduzela u odnosu na mišljenja ili preporuke Odbora ili provedbu sporazuma o prijateljskom rješenju spora, ako postoje, uključujući ih, ako to Odbor smatra potrebnim, u sljedeća izvješća države stranke na temelju članka 44. Konvencije, članka 12. Fakultativnog protokola uz Konvenciju o prodaji djece, dječjoj prostituciji i dječjoj pornografiji ili članka 8. Fakultativnog protokola uz Konvenciju glede uključivanja djece u oružane sukobe, kada je to primjenjivo.
