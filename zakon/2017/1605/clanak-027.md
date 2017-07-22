@@ -1,0 +1,69 @@
+# Članak 27.
+Iza članka 79. dodaju se naslovi iznad članaka i članci 79.a, 79.b, 79.c, 79.d, 79.e i 79.f koji glase:
+»Osoba premještena unutar društva
+Članak 79.a
+(1) Osoba premještena unutar društva je državljanin treće zemlje koji je rukovoditelj, stručnjak ili pripravnik vezan ugovorom o radu s trgovačkim društvom, podružnicom ili predstavništvom koje ima poslovni nastan u trećoj zemlji koje ga privremeno premješta za profesionalne potrebe ili za potrebe osposobljavanja u trgovačko društvo, podružnicu ili predstavništvo s poslovnim nastanom u Republici Hrvatskoj (u daljnjem tekstu: subjekt) koji pripada istom trgovačkom društvu ili skupini trgovačkih društava.
+(2) Osoba premještena unutar društva je:
+1. rukovoditelj - osoba na vodećem položaju koja upravlja poslovanjem subjekta s poslovnim nastanom u Republici Hrvatskoj i koja se nalazi pod općim nadzorom ili prima smjernice od uprave ili dioničara trgovačkog društva ili osobe koja obnaša istovjetnu dužnost, a taj položaj obuhvaća: upravljanje subjektom ili pojedinim njegovim dijelom, nadzor i kontrolu rada drugog nadzornog, stručnog ili rukovodećeg osoblja te ovlast za odlučivanje o pravima i obvezama iz radnog odnosa u vezi s osobljem;
+2. stručnjak - osoba koja posjeduje kompetencije od ključne važnosti za područje djelovanja, tehnike ili rukovođenje subjekta s poslovnim nastanom u Republici Hrvatskoj. Pri procjeni kompetencije uzima se u obzir ne samo znanje specifično za subjekt s poslovnim nastanom već i ima li ta osoba posebnu stručnost koja se dokazuje stručnim kvalifikacijama, uključujući odgovarajuće stručno iskustvo za vrstu posla ili aktivnost koja zahtijeva specifično tehničko znanje, uključujući moguće članstvo u ovlaštenoj strukovnoj udruzi;
+3. pripravnik - osoba koja posjeduje diplomu visokog učilišta, a koja je premještena u subjekt s poslovnim nastanom u Republici Hrvatskoj u svrhu karijernog razvoja ili kako bi sudjelovala u osposobljavanju u poslovnim tehnikama ili metodama i plaćena je za vrijeme tog premještaja.
+(3) Dozvola za boravak i rad unutar godišnje kvote može se odobriti osobi premještenoj unutar društva koja ispunjava uvjete iz članka 54. ovoga Zakona i ako:
+1. subjekt s poslovnim nastanom u Republici Hrvatskoj i trgovačko društvo s poslovnim nastanom u trećoj zemlji pripadaju istom trgovačkom društvu ili skupini trgovačkih društava,
+2. je rukovoditelj ili stručnjak zaposlen unutar istog trgovačkog društva ili skupine trgovačkih društava u neprekidnom razdoblju najmanje devet mjeseci neposredno prije dana premještaja unutar društva odnosno u neprekidnom razdoblju najmanje šest mjeseci ako se radi o pripravniku,
+3. priloži ugovor o radu i potvrdu o premještaju iz koje su vidljivi: detalji o trajanju premještaja i lokacija jednog ili više subjekata; dokaz da će u jednom ili više subjekata preuzeti funkciju rukovoditelja, stručnjaka ili pripravnika; plaća, kao i ostali uvjeti zaposlenja koji su osigurani za vrijeme premještaja unutar društva i dokaz da će se po završetku premještaja unutar društva moći premjestiti natrag u trgovačko društvo, podružnicu ili predstavništvo koje ima poslovni nastan u trećoj zemlji. Iz priloženog ugovora o radu odnosno potvrde o premještaju mora biti vidljivo da ima prava iz članka 86. stavka 5. točke 1., 2., 4., 5. i 6. i stavka 6. ovoga Zakona,
+4. rukovoditelj ili stručnjak ima potrebne stručne kvalifikacije i iskustvo potrebno za rad u subjektu s poslovnim nastanom u Republici Hrvatskoj u koji treba biti premješten, a pripravnik diplomu visokog učilišta,
+5. plaća koju prima nije manja od plaće koju primaju zaposleni u Republici Hrvatskoj koji rade na usporedivim radnim mjestima u skladu s primjenjivim zakonima ili kolektivnim ugovorima,
+6. glavna svrha osnivanja subjekta u Republici Hrvatskoj nije olakšavanje reguliranja boravka osoba premještenih unutar društva,
+7. premještaj unutar društva za rukovoditelje i stručnjake nije duži od tri godine odnosno jedne godine za pripravnike.
+(4) Zahtjev za odobrenje dozvole za boravak i rad iz stavka 3. ovoga članka odbit će se u slučaju ako je priložena dokumentacija prijevarno stečena, prepravljena ili krivotvorena.
+(5) Najdulje trajanje premještaja za rukovoditelje i stručnjake je tri godine, a za pripravnike godina dana, nakon čega su dužni napustiti Republiku Hrvatsku, osim ako reguliraju boravak po drugoj osnovi.
+(6) Nakon isteka najduljeg trajanja premještaja, kako je određeno stavkom 5. ovoga članka, zahtjev za odobrenje nove dozvole za boravak i rad za osobu premještenu unutar društva može se podnijeti nakon isteka roka od šest mjeseci.
+(7) Državljanin treće zemlje koji se premješta na rad u više država članica EGP-a zahtjev za dozvolu za boravak i rad iz stavka 3. ovoga članka podnosi policijskoj upravi, odnosno policijskoj postaji ako je trajanje premještaja u Republici Hrvatskoj dulje od trajanja premještaja u drugim državama članicama EGP-a.
+(8) Osoba premještena unutar društva na temelju odobrene dozvole za boravak i rad može raditi u svakom subjektu s poslovnim nastanom u Republici Hrvatskoj koji pripada trgovačkom društvu ili skupini trgovačkih društava u trećoj zemlji.
+(9) Osoba premještena unutar društva ima prava propisana člankom 86. stavkom 5. i 6. ovoga Zakona, kao i pravo na slobodu sindikalnog udruživanja i članstva u sindikatu ili u bilo kojoj strukovnoj organizaciji, kao i na prava i povlastice koje pružaju te organizacije, uključujući pravo na kolektivno pregovaranje i sklapanje kolektivnog ugovora, ne dovodeći u pitanje odredbe o javnom poretku i javnoj sigurnosti.
+(10) Član obitelji osobe premještene unutar društva može regulirati privremeni boravak u svrhu spajanja obitelji sukladno članku 47. stavku 1. točki 1. ovoga Zakona, a ostvaruje pravo na rad i samozapošljavanje sukladno odredbama ovoga Zakona. Ministarstvo će putem policijske uprave, odnosno policijske postaje rješavati zahtjev za odobrenje dozvole za boravak i rad osobe premještene unutar društva istodobno kada i zahtjev za odobrenje privremenog boravka u svrhu spajanja obitelji, ako su navedeni zahtjevi podneseni istodobno.
+(11) Republika Hrvatska, na zahtjev druge države članice EGP-a, bez odgađanja dopustit će ponovni ulazak osobi premještenoj unutar društva kojoj je u Republici Hrvatskoj odobrena dozvola za boravak i rad iz stavka 3. ovoga članka i članovima njezine obitelji ako joj je:
+- u drugoj državi članici EGP-a prestao boravak koji joj je odobren na temelju mobilnosti,
+- prestala važiti dozvola za boravak i rad u Republici Hrvatskoj, a osoba je u drugoj državi članici EGP-a boravila tijekom razdoblja mobilnosti.
+(12) Ministar nadležan za unutarnje poslove pravilnikom će propisati način izdavanja dozvole za boravak i rad osobama premještenim unutar društva.
+Kratkoročna mobilnost
+Članak 79.b
+Državljanin treće zemlje koji ima valjanu dozvolu izdanu u svrhu premještaja unutar društva, koju je izdala druga država članica EGP-a, može raditi u subjektu s poslovnim nastanom u Republici Hrvatskoj koji pripada istom trgovačkom društvu ili skupini trgovačkih društava u razdoblju do 90 dana u bilo kojem razdoblju od 180 dana, bez obveze ishođenja dozvole za boravak i rad ili potvrde o prijavi rada.
+Dugoročna mobilnost
+Članak 79.c
+(1) Državljaninu treće zemlje, koji ima valjanu dozvolu izdanu u svrhu premještaja unutar društva, a koju je izdala druga država članica EGP-a i koji namjerava raditi dulje od 90 dana u subjektu s poslovnim nastanom u Republici Hrvatskoj koji pripada istom trgovačkom društvu ili skupini trgovačkih društava, može se odobriti dozvola za boravak i rad za dugoročnu mobilnost izvan godišnje kvote.
+(2) Državljanin treće zemlje iz stavka 1. ovoga članka podnosi zahtjev za odobrenje dozvole za boravak i rad za dugoročnu mobilnost u policijskoj upravi, odnosno policijskoj postaji ili u diplomatskoj misiji, odnosno konzularnom uredu Republike Hrvatske.
+(3) Dozvola za boravak i rad za dugoročnu mobilnost može se odobriti državljaninu treće zemlje ako:
+1. ima valjanu stranu putnu ispravu i dokaz o zdravstvenom osiguranju,
+2. subjekt s poslovnim nastanom u Republici Hrvatskoj i trgovačko društvo s poslovnim nastanom u trećoj zemlji pripadaju istom trgovačkom društvu ili skupini trgovačkih društava,
+3. priloži ugovor o radu i potvrdu o premještaju kako je propisano člankom 79.a stavkom 3. točkom 3. ovoga Zakona,
+4. dostavi adresu stanovanja u Republici Hrvatskoj,
+5. nema zabranu ulaska i boravka u EGP-u odnosno u Republici Hrvatskoj i
+6. ne predstavlja opasnost za javni poredak, nacionalnu sigurnost ili javno zdravlje.
+(4) Zahtjev za odobrenje dozvole za boravak i rad odbit će se ako:
+1. je priložena dokumentacija prijevarno stečena, prepravljena ili krivotvorena,
+2. državljanin treće zemlje nema prava iz članka 86. stavaka 5. i 6. ovoga Zakona,
+3. je premještaj unutar društva dulji od tri godine za rukovoditelje i stručnjake te dulji od godine dana za pripravnike,
+4. je dozvola u svrhu premještaja unutar društva izdana u drugoj državi članici EGP-a istekla tijekom postupka.
+(5) Državljanin treće zemlje može raditi u Republici Hrvatskoj dok se ne odluči o zahtjevu za odobrenje dozvole za boravak i rad iz stavka 2. ovoga članka ako je zahtjev podnesen prije isteka kratkotrajnog boravka i ima valjanu dozvolu izdanu u svrhu premještaja unutar društva koju je izdala druga država članica EGP-a.
+(6) O odobrenju dozvole za boravak i rad, njezinu produženju ili odluci na temelju koje je državljanin treće zemlje dužan napustiti Republiku Hrvatsku, policijska uprava, odnosno policijska postaja obavijestit će nadležno tijelo druge države članice EGP-a u kojoj državljanin treće zemlje ima valjanu dozvolu izdanu u svrhu premještaja unutar društva.
+(7) O zahtjevu za odobrenje dozvole za boravak i rad rješenjem odlučuje Ministarstvo putem nadležne policijske uprave, odnosno policijske postaje prema mjestu boravišta državljanina treće zemlje. Protiv rješenja može se izjaviti žalba o kojoj odlučuje Povjerenstvo.
+Prava osoba premještenih unutar društva
+Članak 79.d
+(1) Osobe premještene unutar društva imaju jednaka prava kao i hrvatski državljani u odnosu na:
+1. pravo na sudjelovanje u štrajku i industrijskoj akciji, na slobodu sindikalnog organiziranja i članstva u sindikatu ili u bilo kojoj strukovnoj organizaciji, kao i na prava i povlastice koje pružaju te organizacije, uključujući pravo na kolektivno pregovaranje i sklapanje kolektivnog ugovora, ne dovodeći u pitanje odredbe o javnom poretku i javnoj sigurnosti,
+2. priznavanje diploma, potvrda i drugih stručnih kvalifikacija,
+3. grane socijalne sigurnosti određene u članku 3. Uredbe (EZ) br. 883/2004, osim ako se, prema bilateralnim sporazumima ili pravu Republike Hrvatske, primjenjuje pravo zemlje podrijetla, pri čemu se osigurava da je osoba premještena unutar društva obuhvaćena zakonodavstvom iz područja socijalne sigurnosti u jednoj od tih zemalja. U slučaju mobilnosti unutar EU-a te ne dovodeći u pitanje bilateralne sporazume kojima se osigurava da osoba premještena unutar društva bude obuhvaćena nacionalnim pravom zemlje podrijetla, u skladu s time se primjenjuje Uredba (EU) br. 1231/2010;
+4. ne dovodeći u pitanje Uredbu (EU) 1231/2010 i bilateralne sporazume, plaćanje starosne mirovine, invalidske mirovine i mirovine u slučaju smrti u okviru mirovina na temelju prethodnog zaposlenja osoba premještenih unutar društva te koje su stekle osobe premještene unutar društva koje se sele u treću zemlju ili nadživjele osobe tih osoba premještenih unutar društva koje borave u trećoj zemlji, a koje svoja prava izvode iz prava osoba premještenih unutar društva, u skladu sa zakonodavstvom navedenim u članku 3. Uredbe (EZ) br. 883/2004, pod istim uvjetima kao i državljani Republike Hrvatske kada oni odlaze u treću zemlju;
+5. pristup robi i uslugama te ponudu robe i usluga koje su dostupne javnosti, osim postupaka za ostvarenje smještaja kako je predviđeno posebnim propisima, ne dovodeći u pitanje slobodu ugovaranja u skladu s pravom Unije i nacionalnim pravom, te usluge koje pružaju javni uredi za zapošljavanje.
+(2) Osobe premještene unutar društva ostvaruju prava sukladno propisima Republike Hrvatske te kolektivnim ugovorom koji obvezuje poslodavca, ako takav postoji, a kojima se uređuju pojedina područja iz stavka 1. ovoga članka.
+Poništenje dozvole za boravak i rad
+Članak 79.e
+(1) Ministarstvo će putem nadležne policijske uprave, odnosno policijske postaje poništiti dozvolu za boravak i rad izdanu na temelju članka 79.a i članka 79.c ovoga Zakona ako Ministarstvo odnosno drugo tijelo državne uprave u okviru svoje nadležnosti utvrdi da je:
+- glavna svrha osnivanja subjekta u Republici Hrvatskoj olakšavanje reguliranja boravka državljana trećih zemalja premještenih unutar društva,
+- priložena dokumentacija prijevarno stečena, prepravljena ili krivotvorena.
+(2) Protiv odluke Ministarstva donesene putem nadležne policijske uprave, odnosno policijske postaje može se izjaviti žalba o kojoj odlučuje Povjerenstvo.
+Ulazak državljanina treće zemlje s dozvolom izdanom u drugoj državi članici EGP-a
+Članak 79.f
+(1) Državljanin treće zemlje koji ima valjanu dozvolu izdanu u svrhu premještaja unutar društva, koju je izdala država članica EGP-a koja ne primjenjuje u potpunosti schengensku pravnu stečevinu, kada uđe u Republiku Hrvatsku za potrebe premještaja unutar društva dužan je policijskoj upravi, odnosno policijskoj postaji dostaviti potvrdu trgovačkog društva, podružnice ili predstavništva iz druge države EGP-a u kojoj su navedeni podaci o trajanju mobilnosti te lokacija subjekta ili subjekata u Republici Hrvatskoj.
+(2) Državljanina treće zemlje iz stavka 1. ovoga članka kod prelaska granice provjerava se u Schengenskom informacijskom sustavu. Ulazak će se odbiti ili uložiti prigovor na mobilnost državljanina treće zemlje za kojeg je u Schengenskom informacijskom sustavu izdano upozorenje za potrebe odbijanja ulaska i boravka.«.

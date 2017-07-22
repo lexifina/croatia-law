@@ -1,0 +1,2 @@
+# Članak 121.
+U cijelom tekstu Zakona o strancima (»Narodne novine«, br. 130/11. i 74/13.) riječi: »Zakon o azilu« zamjenjuju se riječima: »poseban propis kojim se regulira međunarodna zaštita« u odgovarajućem padežu, riječi: »raspoređeni radnik« zamjenjuju se riječima: »upućeni radnik« u odgovarajućem padežu, riječ »stranac« zamjenjuje se riječima: »državljanin treće zemlje« u odgovarajućem padežu, a riječi: »državljanin treće države« zamjenjuju se riječima: »državljanin treće zemlje« u odgovarajućem padežu.

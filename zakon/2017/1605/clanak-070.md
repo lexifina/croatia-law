@@ -1,0 +1,9 @@
+# Članak 70.
+Naslov iznad članka 130. mijenja se i glasi: »Ograničenje slobode kretanja«.
+Članak 130. mijenja se i glasi:
+»(1) Državljanina treće zemlje može se uhititi, privesti i zadržati najdulje 24 sata ako je potrebno donijeti rješenje o odbijanju ulaska ili odluku u vezi s povratkom iz članka 115. stavka 1. ovoga Zakona ili je potrebno izvršiti prisilno udaljenje, a postoji opasnost da će državljanin treće zemlje pobjeći.
+(2) Ako se prisilno udaljenje ili odlazak s graničnog prijelaza u treću zemlju ne može izvršiti u roku iz stavka 1. ovoga članka, državljanina treće zemlje može se zadržati još najdulje 48 sati ako se opravdano očekuje da će se prisilno udaljenje ili odlazak s graničnog prijelaza u treću zemlju moći izvršiti u tom roku.
+(3) Nakon uhićenja, državljanina treće zemlje odmah će se bez odgode obavijestiti o razlozima uhićenja, da može odrediti opunomoćenika za zastupanje da može obavijestiti člana obitelji ili drugu osobu te da može zatražiti da se o uhićenju obavijesti diplomatska misija, odnosno konzularni ured države čiji je državljanin ako nije drugačije određeno međunarodnim ugovorom.
+(4) O zadržavanju maloljetnog državljanina treće zemlje bez pratnje obavijestit će se tijelo nadležno za poslove socijalne skrbi i diplomatska misija, odnosno konzularni ured države čiji je državljanin.
+(5) Državljanina treće zemlje će se bez odgode pustiti na slobodu kada prestanu razlozi za uhićenje i zadržavanje, a najkasnije do isteka roka iz stavka 1. i 2. ovoga članka, osim ako je započela preprata radi izvršenja prisilnog udaljenja ili odlaska s graničnog prijelaza u treću zemlju ili je doneseno rješenje o smještaju u centar.
+(6) Tehničke uvjete za zadržavanje državljana trećih zemalja iz stavka 2. ovoga članka propisat će pravilnikom ministar nadležan za unutarnje poslove.«.

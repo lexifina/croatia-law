@@ -1,0 +1,3 @@
+# Članak 37.
+U članku 93. stavku 1. točka 1. mijenja se i glasi:
+»1. boravak na temelju izdane dozvole za boravak i rad sezonskim radnicima, pružateljima usluga, pograničnim radnicima, upućenim radnicima, osobama premještenim unutar društva, ostalim neophodnim osobama kako je definirano Protokolom o pristupanju Republike Hrvatske Marakeškom ugovoru o osnivanju Svjetske trgovinske organizacije te boravak odobren članovima obitelji osoba premještenih unutar društva i članovima obitelji ostalih neophodnih osoba kako je definirano Protokolom o pristupanju Republike Hrvatske Marakeškom ugovoru o osnivanju Svjetske trgovinske organizacije,«.
