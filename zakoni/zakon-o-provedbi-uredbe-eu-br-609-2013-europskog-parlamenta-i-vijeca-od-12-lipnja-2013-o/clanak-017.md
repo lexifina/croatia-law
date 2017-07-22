@@ -1,0 +1,5 @@
+# Članak 17.
+(1) Do stupanja na snagu pravilnika iz članka 6. stavka 3. ovoga Zakona ostaje na snazi Pravilnik o prerađenoj hrani na bazi žitarica i dječjoj hrani za dojenčad i malu djecu (»Narodne novine«, br. 126/13.).
+(2) Do stupanja na snagu pravilnika iz članka 6. stavka 4. ovoga Zakona ostaje na snazi Pravilnik o hrani namijenjenoj smanjenju tjelesne mase (»Narodne novine«, br. 89/08.) samo za hranu koja je namijenjena kao zamjena za ukupan dnevni unos hrane.
+(3) Pravilnik o hrani za posebne medicinske potrebe (»Narodne novine«, br. 100/08.) prestaje važiti 21. veljače 2020., osim odredbi koji se odnose na hranu za posebne medicinske potrebe koja je razvijena s namjerom zadovoljavanja prehrambenih potreba osoba starijih od 12 mjeseci, a koje odredbe prestaju važiti 21. veljače 2019.
+(4) Pravilnik o početnoj i prijelaznoj hrani za dojenčad (»Narodne novine«, br. 122/13. i 29/14.) prestaje važiti 21. veljače 2021., osim odredbi koje se odnose na početnu i prijelaznu hranu za dojenčad koja nije proizvedena od hidrolizata bjelančevina, a koje odredbe prestaju važiti 21. veljače 2020.
