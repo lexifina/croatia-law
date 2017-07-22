@@ -1,0 +1,3 @@
+## Radnje davatelja koncesije radi otklanjanja nepravilnosti
+# Članak 94.
+Po primitku rješenja iz članka 89. stavka 1. ovoga Zakona, kojim je utvrđeno da koncesionar u provedbi ugovora o koncesiji djelatnost koncesije obavlja izvan opsega djelatnosti koncesije koji je određen ugovorom o koncesiji, davatelj koncesije dužan je u roku od 30 dana, a najkasnije u roku od 90 dana od dana primitka rješenja kada to okolnosti slučaja zahtijevaju, za utvrđeni slučaj pokrenuti postupak iz članka 73. stavka 3. ovoga Zakona te ovisno o utvrđenim okolnostima, po isteku roka iz članka 73. stavka 3. ovoga Zakona, i postupak iz članka 73. stavka 4. ovoga Zakona.

@@ -1,0 +1,5 @@
+## Opće odredbe
+# Članak 40.
+(1) Odredbe glave IV. dijela prvog ovoga Zakona primjenjuje se na koncesije za usluge čija je procijenjena vrijednost jednaka ili veća od praga iz članka 4. ovoga Zakona te na koncesije za radove. Odredbe glave IV. dijela prvog ovoga Zakona, osim članaka 42., 44., 49., 50., 52. i 53. primjenjuju se i na koncesije za gospodarsko korištenje općeg ili drugog dobra čija je procijenjena vrijednost jednaka ili veća od praga iz članka 4. ovoga Zakona.
+(2) Postupak davanja koncesija iz stavka 1. ovoga članka započinje danom objave obavijesti o namjeri davanja koncesije u Službenom listu Europske unije, a završava izvršnošću odluke o davanju koncesije ili odluke o poništenju postupka davanja koncesije.
+(3) Na postupak davanja koncesije iz stavka 1. ovoga članka odgovarajuće se primjenjuju odredbe propisa kojim se uređuje javna nabava, osim odredbi o pregovaračkom postupku bez prethodne objave poziva na nadmetanje i partnerstva za inovacije te odredbi kojima se uređuje elektronička javna nabava.

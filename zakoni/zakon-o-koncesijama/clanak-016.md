@@ -1,0 +1,25 @@
+## Stručno povjerenstvo za koncesiju
+# Članak 16.
+(1) Prije početka postupka davanja koncesije davatelj koncesije odlukom imenuje stručno povjerenstvo za koncesiju.
+(2) Davatelj koncesije imenuje članove stručnog povjerenstva za koncesiju pravne, ekonomske, tehničke i druge odgovarajuće struke, ovisno o predmetu i značajkama koncesije. Članovi stručnog povjerenstva za koncesiju ne moraju biti zaposlenici davatelja koncesije.
+(3) Broj članova stručnog povjerenstva za koncesiju je neparan, s najmanje tri člana, a najviše sedam članova.
+(4) Član stručnog povjerenstva za koncesiju ne smije imati izravnih ili neizravnih osobnih interesa u bilo kojoj aktivnosti koji bi doveli do sukoba tih interesa s njegovim dužnostima u radu stručnog povjerenstva za koncesiju što potvrđuje potpisivanjem izjave o neovisnosti čime jamči da nije u sukobu interesa, u skladu s posebnim propisima kojima se uređuje javna nabava.
+(5) Najmanje jedan član stručnog povjerenstva za koncesiju mora imati važeći certifikat u području javne nabave.
+(6) Kod koncesije koje se daje u skladu s propisima kojima se uređuje javna nabava, stručno povjerenstvo za koncesiju ima ulogu ovlaštenog predstavnika javnog naručitelja u skladu s propisima kojima se uređuje javna nabava.
+(7) Kod koncesije za usluge i koncesije za gospodarsko korištenje općeg ili drugog dobra procijenjene vrijednosti manje od praga iz članka 4. ovoga Zakona, a kada se više koncesija daje za isti ili sličan predmet koncesije, davatelj koncesije može osnovati jedno stručno povjerenstvo za sve koncesije, pazeći pri tome da stručno povjerenstvo za koncesiju u svome radu uzme u obzir posebnosti svake od koncesija.
+(8) Davatelj koncesije obavještava ministarstvo nadležno za financije o namjeri osnivanja stručnog povjerenstva za koncesiju.
+(9) Ministarstvo nadležno za financije može predložiti imenovanje svojeg predstavnika u stručno povjerenstvo za koncesiju u roku od deset dana od dana zaprimanja obavijesti iz stavka 8. ovoga članka.
+(10) Kod davanja koncesije s obilježjima javno-privatnog partnerstva ministarstvo nadležno za financije može predložiti imenovanje svojeg predstavnika u stručno povjerenstvo za koncesiju s obilježjima javno-privatnog partnerstva u roku od deset dana od dana zaprimanja obavijesti iz stavka 8. ovoga članka.
+(11) Iznimno od stavaka 1. – 10. ovoga članka, poslove stručnog povjerenstva za koncesiju čiji je predmet obavljanje djelatnosti radija i televizije obavlja nezavisno regulatorno tijelo u skladu s odredbama posebnog zakona.
+(12) Zadaci stručnog povjerenstva za koncesiju su:
+1. suradnja s davateljem koncesije pri izradi studije opravdanosti davanja koncesije, odnosno analize davanja koncesije, pri pripremi utvrđivanja uvjeta za davanje koncesije određenih posebnim zakonom i izradi dokumentacije za nadmetanje te pri definiranju uvjeta sposobnosti i kriterija za odabir najpovoljnije ponude
+2. analiza koncesije za radove i koncesije za usluge radi utvrđivanja sadržava li koncesija i obilježja javno-privatnog partnerstva u skladu s člankom 26. ovoga Zakona
+3. pregled i ocjena pristiglih ponuda i/ili zahtjeva za sudjelovanje, u skladu s pravilima postupka davanja koncesije
+4. prije sklapanja ugovora o koncesiji, utvrđivanje prijedloga odluke o davanju koncesije, prijedloga odluke o izmjeni odluke o davanju koncesije, prijedloga odluke o poništenju postupka davanja koncesije, prijedloga odluke o izmjeni odluke o poništenju postupka davanja koncesije te obrazloženja tih prijedloga
+5. prije početka postupka davanja koncesije, obavještavanje nadležnog državnog odvjetništva o namjeri davanja koncesije čija djelatnost će se obavljati na nekretnini u vlasništvu Republike Hrvatske ili koncesije koja se odnosi na opće dobro ili drugo dobro za koje je zakonom određeno da je dobro od interesa za Republiku Hrvatsku, a nadležno državno odvjetništvo će na temelju svojih evidencija izvijestiti stručno povjerenstvo za koncesiju ako su u tijeku upravni ili sudski postupci ili ako postoje druge zapreke za pokretanje postupka davanja koncesije, u okviru nadležnosti državnog odvjetništva
+6. predlaganje vrste i vrijednosti pojedinog jamstva
+7. za koncesije iz područja javne infrastrukture procijenjene vrijednosti jednake ili veće od praga iz članka 4. stavka 4. ovoga Zakona provodi se analiza utjecaja davanja koncesije na javni dug Republike Hrvatske
+8. obavljanje svih ostalih radnji potrebnih za provedbu postupka davanja koncesije.
+(13) Javnom infrastrukturom iz stavka 12. točke 7. ovoga članka smatraju se infrastrukturni objekti koji se grade i kojima se upravlja u području cestovnog, željezničkog, morskog i riječnog prometa, u području energetike, izgradnje i upravljanja postrojenjima za odlaganje otpada i otpadnih voda, izgradnje zračnih, morskih i riječnih luka te ostali infrastrukturni objekti koji služe pružanju javnih usluga.
+(14) Stručno povjerenstvo za koncesiju o svom radu vodi zapisnik koji potpisuju svi članovi povjerenstva.
+(15) Stručno povjerenstvo za koncesiju prestaje s radom sklapanjem ugovora o koncesiji odnosno izvršnošću odluke o poništenju postupka davanja koncesije.

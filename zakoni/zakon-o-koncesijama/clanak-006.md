@@ -1,0 +1,4 @@
+## Načela postupka davanja koncesije
+# Članak 6.
+(1) Prilikom provođenja postupka davanja koncesije davatelj koncesije obvezan je, u odnosu na sve gospodarske subjekte, poštovati načelo slobode kretanja robe, načelo slobode poslovnog nastana, načelo slobode pružanja usluga, načelo učinkovitosti, kao i ostala temeljna načela iz Ustava Republike Hrvatske te Ugovora o funkcioniranju Europske unije, kao što su načelo tržišnog natjecanja, načelo jednakog tretmana, načelo zabrane diskriminacije, načelo uzajamnog priznavanja, načelo razmjernosti i načelo transparentnosti.
+(2) Gospodarski subjekt je obvezan tijekom izvršenja ugovora o koncesiji pridržavati se primjenjivih obveza u području prava okoliša, socijalnog i radnog prava, uključujući kolektivne ugovore, a osobito obvezu isplate ugovorene plaće, ili odredbi međunarodnog prava okoliša, socijalnog i radnog prava navedenih u Prilogu IV. ovoga Zakona.
