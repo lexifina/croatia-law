@@ -1,0 +1,4 @@
+# Članak 15.
+Članak 46. mijenja se i glasi:
+»(1) Naknada za potpuno izvlaštenu nekretninu određuje se u novcu u visini tržišne vrijednosti nekretnine koja se izvlašćuje u vrijeme donošenja prvostupanjskog rješenja o izvlaštenju ili u vrijeme sklapanja nagodbe prema ovom Zakonu, uzimanjem u obzir uporabnog svojstva nekretnine koju je imala prije promjene namjene koja je povod izvlaštenja.
+(2) Iznimno, naknada za potpuno izvlaštenu nekretninu određuje se davanjem u vlasništvo druge odgovarajuće nekretnine čija vrijednost odgovara visini tržišne vrijednosti nekretnine koja se izvlašćuje, u istoj općini ili gradu, kojom se prijašnjem vlasniku nekretnine koja se izvlašćuje omogućavaju isti životni uvjeti i uvjeti korištenja kakve je imao koristeći tu nekretninu, kada korisnik izvlaštenja s takvom nekretninom raspolaže.«.
