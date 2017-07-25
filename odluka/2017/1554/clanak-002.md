@@ -1,0 +1,4 @@
+# Članak 2.
+Liječenje posebno skupim lijekom iz članka 1. stavka 2. ove Odluke provodi se u ugovornim bolničkim zdravstvenim ustanovama na osnovi odobrenja povjerenstva za lijekove bolničke zdravstvene ustanove u kojoj se osigurana osoba Zavoda liječi.
+Direkcija Zavoda utvrđuje je li primjena određenog lijeka u skladu sa smjernicama utvrđenim Osnovnom listom lijekova Zavoda za primjenu posebno skupog lijeka.
+Osigurane osobe Zavoda lijekove za liječenje juvenilnog idiopatskog artiritisa (etanercept i adalimumab) i lijekove za kućno liječenje hemofilije, iz članka 1. stavka 2. i 3. ove Odluke, preuzimaju u izabranoj ljekarni. Lijekove nositelja odobrenja za stavljanje lijeka u promet u izabranu ljekarnu dostavlja veledrogerija ovlaštena od strane nositelja odobrenja za stavljanje lijeka u promet, a s kojim Zavod ima sklopljen ugovor o financiranju liječenja.
