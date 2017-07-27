@@ -1,0 +1,4 @@
+# Članak 50.
+(1) Vatreno oružje i/ili streljivo oduzeto u upravnom postupku koje ne bude prodano nakon godinu dana od pravomoćnosti rješenja o oduzimanju vlasnik oružja može o vlastitom trošku onesposobiti i zadržati ga kao uspomenu ili oružje i streljivo predati u korist Republike Hrvatske.
+(2) Ako vlasnik oružja i streljiva isto ne onesposobi i zadrži kao uspomenu, o načinu raspolaganja vatrenim oružjem i streljivom iz stavka 1. ovoga članka rješenjem odlučuje povjerenstvo Ministarstva u čijoj nadležnosti je utvrđivanje načina raspolaganja oružjem i streljivom oduzetim u upravnom, prekršajnom i kaznenom postupku i oružjem predanim Ministarstvu, sukladno posebnom propisu. Za oružje i streljivo iz stavka 1. ovoga članka vlasniku ne pripada naknada.
+(3) Protiv rješenja iz stavka 2. ovoga članka žalba nije dopuštena, ali se može pokrenuti upravni spor.

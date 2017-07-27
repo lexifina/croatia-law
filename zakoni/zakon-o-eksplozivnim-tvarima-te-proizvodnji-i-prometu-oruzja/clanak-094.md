@@ -1,0 +1,2 @@
+# Članak 94.
+Upravni i prekršajni postupci koji su započeti, a nisu dovršeni do stupanja na snagu ovoga Zakona dovršit će se po odredbama Zakona o eksplozivnim tvarima (»Narodne novine«, br. 78/04., 109/07., 67/08. i 144/10.), Zakona o prijevozu opasnih tvari (»Narodne novine«, br. 79/07.) i Zakona o oružju (»Narodne novine«, br. 63/07., 146/08. i 59/12.), osim ako je povoljnije za stranku da se dovrše po odredbama ovoga Zakona.

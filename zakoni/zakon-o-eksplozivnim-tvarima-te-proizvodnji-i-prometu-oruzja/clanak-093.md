@@ -1,0 +1,6 @@
+## XVI. PRIJELAZNE I ZAVRŠNE ODREDBE
+# Članak 93.
+(1) Pravne osobe, obrti i udruge koje proizvode, prometuju, ispituju, istražuju, prodaju na malo i koriste eksplozivne tvari na temelju odobrenja Ministarstva dužne su uskladiti svoje poslovanje s odredbama ovoga Zakona u roku od godine dana od stupanja na snagu ovoga Zakona.
+(2) Pravne osobe, obrti i udruge koje proizvode, prepravljaju, popravljaju, onesposobljavaju, prometuju, nabavljaju, prodaju na malo, označavaju, ispituju i stavljaju na tržište vatreno oružje, vode civilna strelišta te sakupljaju staro oružje na temelju odobrenja Ministarstva dužne su uskladiti svoje poslovanje s odredbama ovog Zakona u roku od godine dana od stupanja na snagu odredbi ovog Zakona te zatražiti izdavanje odobrenja za djelatnost kojom se bave ili se žele baviti.
+(3) Pravnim osobama, obrtima i udrugama koji nisu uskladili svoje poslovanje s rokovima navedenim u stavcima 1. i 2. ovoga članka ukinut će se odobrenja ovoga Ministarstva koja se odnose na predmetne djelatnosti.
+(4) Dozvole za miniranje pri razminiranju izdane na temelju Zakona o eksplozivnim tvarima (»Narodne novine«, br. 178/04., 109/07., 67/08. i 144/10.) ostaju važeće do isteka roka njihova važenja.

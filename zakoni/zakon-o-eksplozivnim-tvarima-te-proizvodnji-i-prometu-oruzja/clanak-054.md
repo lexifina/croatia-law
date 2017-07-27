@@ -1,0 +1,13 @@
+## VIII. PRIJEVOZ
+## Prijevoz eksplozivnih tvari
+# Članak 54.
+(1) Za prijevoz eksplozivnih tvari potrebno je odobrenje Ministarstva.
+(2) Odobrenje iz stavka 1. ovoga članka izdaje se na temelju zahtjeva pravne osobe, obrta ili udruge.
+(3) Za prijevoz eksplozivnih tvari u unutarnjem prijevozu može se izdati odobrenje za višekratni prijevoz eksplozivnih tvari s rokom valjanosti do jednog mjeseca, pod uvjetom da se svaki pojedinačni prijevoz najavi Ministarstvu prema mjestu početka prijevoza najmanje 12 sati prije početka prijevoza.
+(4) U slučaju promjena koje se odnose na najavljeni prijevoz, pravne osobe, obrti i udruge dužni su o njima obavijestiti Ministarstvo, po saznanju.
+(5) Istim odobrenjem, po zahtjevu podnositelja zahtjeva, može se dozvoliti prijevoz neutrošenih eksplozivnih tvari u skladište eksplozivnih tvari.
+(6) Iznimno od stavka 3. ovoga članka, za potrebe radilišta na kojima se kontinuirano obavljaju poslovi miniranja, može se izdati odobrenje za višekratni prijevoz s rokom valjanosti do završetka radova, a najduže na rok od šest mjeseci.
+(7) Odobrenje iz stavka 2. ovoga članka nije potrebno za unutarnji prijevoz prema izuzećima propisanim Europskim sporazumom o međunarodnom cestovnom prijevozu opasnih tvari (European Agreement Concercing the International Carriage of Dangerous Goods by Road – ADR s njegovim sastavnim dijelovima – prilozima A i B i aktom o notifikaciji (»Narodne novine – Međunarodni ugovori« br. 12/91.), Europskim sporazumom o međunarodnom prijevozu opasnih tvari unutarnjim plovnim putovima (european Agreement Concercing the International Carriage of Dangerous Goods by inland Waterways – ADN), koji je Republika Hrvatska prihvatila 25. svibnja 2000., i Konvencijom o međunarodnom željezničkom prijevozu (Convention concercing International Carriage by Rail – COTIF) od 9. svibnja 1980. u verziji Protokola o izmjenama Konvencije od 3. lipnja 1999. s pripadajućim dodacima (»Narodne novine – Međunarodni ugovori«, br. 12/00.) – Anex Dodatka C (Pravilnik o međunarodnom prijevozu opasnih tvari željeznicom – Dangerous Goods by Rail – RID), ali je potrebno o točnom vremenu početka i predviđenom vremenu završetka prijevoza eksplozivnih tvari, najmanje 12 sati prije početka prijevoza, obavijestiti Ministarstvo prema mjestu početka prijevoza.
+(8) Ministarstvo izdaje i/ili ovjerava dokument o transferu eksplozivnih tvari unutar Europske unije.
+(9) Protiv rješenja iz stavaka 1. i 6. ovoga članka žalba nije dopuštena, ali se može pokrenuti upravni spor.
+(10) Ministar pravilnikom propisuje izgled dokumenta iz stavka 8. ovoga članka, način njegova izdavanja te način razmjene informacija sa zemljama članicama Europske unije.

@@ -1,0 +1,8 @@
+# Članak 27.
+(1) Popravljeno i prepravljeno vatreno oružje podliježe obveznom ispitivanju te postavljanju zaštitnog znaka pravne osobe ili obrta u kojem je vatreno oružje popravljeno ili prepravljeno.
+(2) Svaki zamijenjeni bitni dio vatrenog oružja mora biti propisno označen.
+(3) Pravne osobe i obrti koji su registrirani za popravljanje, prepravljanje i onesposobljavanje vatrenog oružja smiju primiti na popravak ili prepravak samo registrirano vatreno oružje.
+(4) O popravljenom, prepravljenom ili onesposobljenom vatrenom oružju pravna osoba ili obrt mora izvijestiti nadležno tijelo u roku od osam dana od dana popravljanja, prepravljanja ili onesposobljavanja, pri čemu je dužan navesti vrstu popravka ili prepravka te oznake zamijenjenih, prepravljenih ili onesposobljenih dijelova vatrenog oružja. Onesposobljeno vatreno oružje ne smije se predati vlasniku dok nadležno tijelo iz stavka 7. ovoga članka ne izda potvrdu da je oružje onesposobljeno u skladu s propisanim tehničkim specifikacijama, a koju je vlasnik oružja dužan čuvati trajno.
+(5) Svaki zamijenjeni dio vatrenog oružja koji je bio označen jedinstvenom oznakom mora biti uništen na propisan način, o čemu je potrebno voditi upisnik, kao i upisnik o onesposobljenom vatrenom oružju.
+(6) U upisnik iz stavka 5. ovoga članka upisuju se podaci o vlasniku vatrenog oružja (ime, prezime, adresa, OIB), broj oružnog lista, serijski broj vatrenog oružja, podaci o zamijenjenim ili onesposobljenim dijelovima oružja te način njihova uništenja.
+(7) Ministarstvo unutarnjih poslova nadležno je tijelo za provjeru onesposobljenosti oružja u skladu s propisanim tehničkim specifikacijama.

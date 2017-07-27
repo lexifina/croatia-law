@@ -1,0 +1,3 @@
+# Članak 72.
+(1) Pravna osoba ili obrt koji uporabljuje eksplozivne tvari dužan je o mjestu i vremenu uporabe eksplozivnih tvari izvijestiti Ministarstvo prema mjestu uporabe eksplozivnih tvari najkasnije 24 sata prije početka uporabe. Ako se uporaba eksplozivnih tvari obavlja kontinuirano na istom mjestu, dovoljna je obavijest o prvom miniranju s naznakom predviđenog roka završetka radova.
+(2) Pravna osoba ili obrt koji uporabljuje eksplozivne tvari dužan je neuporabljene eksplozivne tvari vratiti u originalnoj ambalaži u skladište ili ih uništiti prema uputi proizvođača tako da ne ugroze život, zdravlje i sigurnost ljudi te materijalna dobra i okoliš.

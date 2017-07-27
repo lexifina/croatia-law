@@ -1,0 +1,8 @@
+# Članak 14.
+(1) Ministarstvo može, u redovitim i izvanrednim pregledima, radi provjere sukladnosti, uzimati uzorke eksplozivnih tvari koje su u prometu.
+(2) Ministarstvo će privremeno zabraniti promet i uporabu eksplozivnih tvari, do utvrđivanja sukladnosti, ako postoji sumnja da bi daljnja uporaba eksplozivnih tvari mogla ugroziti živote i zdravlje ljudi, njihovu imovinu i okoliš.
+(3) Ministarstvo će zabraniti promet i uporabu eksplozivnih tvari iz stavka 2. ovoga članka ako uzeti uzorak ne odgovara propisanim tehničkim zahtjevima, a proizvođač ili dobavljač ih je dužan uništiti u roku od 30 dana od dana obavijesti odnosno vratiti proizvođaču o vlastitom trošku.
+(4) Provjeru sukladnosti iz stavka 1. ovoga članka obavljaju pravne osobe i obrti iz članka 12. stavka 1. i članka 13. ovoga Zakona, a troškove provjere sukladnosti snosi proizvođač ili dobavljač koji je eksplozivnu tvar stavio na tržište, ako se utvrdi da uzorak ne odgovara propisanim tehničkim zahtjevima, odnosno Ministarstvo, ako uzorak odgovara propisanim tehničkim zahtjevima.
+(5) Ako ovlašteni laboratorij prilikom ispitivanja eksplozivnih tvari utvrdi da oni ne odgovaraju propisanim tehničkim zahtjevima, dužan je o tome izvijestiti Ministarstvo najkasnije 72 sata nakon ispitivanja.
+(6) Ako pravne osobe ili obrti koji imaju odobrenje Ministarstva za obavljanje djelatnosti proizvodnje i/ili prometa eksplozivnih tvari uoče da eksplozivne tvari koje su u njihovu posjedu ne odgovaraju tehničkim zahtjevima, o tome odmah po saznanju izvješćuju Ministarstvo koje poduzima daljnje mjere.
+(7) U slučajevima iz stavaka 5. i 6. ovoga članka Ministarstvo će izvijestiti Europsku komisiju.

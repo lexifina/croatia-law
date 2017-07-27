@@ -1,0 +1,3 @@
+# Članak 44.
+(1) Pravne osobe, obrti ili udruge iz članka 34. stavka 1. ovoga Zakona koje posjeduju vatreno oružje na temelju odobrenja za nabavu oružja smiju, radi obavljanja poslova za koje su registrirane, davati oružje na korištenje zaposlenicima ili članovima udruge koji ispunjavaju uvjete za rukovanje vatrenim oružjem propisane posebnim propisima.
+(2) Zaposlenici pravne osobe ili obrta ili članovi udruge iz članka 34. stavka 1. ovoga Zakona mogu koristiti vatreno oružje i pripadajuće streljivo pravne osobe, obrta ili udruge, na koju oružni list glasi, samo uz pisano odobrenje vlasnika oružja.

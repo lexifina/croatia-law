@@ -1,0 +1,5 @@
+# Članak 52.
+(1) Pravne osobe, obrti ili udruge iz članka 34. stavka 1. i članka 35. ovoga Zakona dužni su prilikom unosa ili iznosa oružja i streljiva preko državne granice isto prijaviti policiji i/ili carini.
+(2) Pravna osoba, obrt ili udruga koja obavlja djelatnost za čije je obavljanje predviđena uporaba vatrenog oružja, a te poslove obavlja privremeno na području Republike Hrvatske (osiguranje pratnje novca u tranzitu, osiguranje stranih izložbenih poslova i sličnih poslova), može privremeno, do završetka obavljanja predmetne djelatnosti, unijeti vlastito oružje s pripadajućim streljivom u Republiku Hrvatsku, koje je dužna prilikom prelaska državne granice prijaviti policiji i/ili carini.
+(3) Ministarstvo će rješenjem privremeno oduzeti oružje i streljivo pravnim osobama, obrtima ili udrugama iz stavaka 1. i 2. ovoga članka ako prilikom prelaska državne granice oružje i/ili streljivo ne prijave nadležnim tijelima i pohraniti ga do okončanja postupka.
+(4) Protiv rješenja iz stavka 3. ovoga članka žalba nije dopuštena, ali se može pokrenuti upravni spor.

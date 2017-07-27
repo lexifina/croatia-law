@@ -1,0 +1,2 @@
+# Članak 30.
+Pravne osobe ili obrti koji imaju odobrenje iz članaka 20. i 29. ovoga Zakona smiju prodavati ili ustupati eksplozivne tvari samo pravnim osobama i obrtima koji imaju odobrenje za uporabu i/ili promet i/ili proizvodnju eksplozivnih tvari, proizvodnju i/ili popravak i/ili prepravak ili ispitivanje oružja ili odobrenje za prodaju na malo pirotehničkih sredstava ili oružja i/ili streljiva, osim pirotehničkih sredstava kategorije F1 i slijepog streljiva za tehničku namjenu, te državnim tijelima koja u okviru svojih djelatnosti koriste eksplozivne tvari.
