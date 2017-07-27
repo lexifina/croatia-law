@@ -1,0 +1,6 @@
+## V. POSTUPAK OSTVARIVANJA PRAVA U SLUČAJU OTVARANJA STEČAJNOG POSTUPKA NAD POSLODAVCEM
+# Članak 26.
+(1) Kada je stečajni postupak otvoren i provodi se, prava propisana u slučaju otvaranja stečajnog postupka nad poslodavcem radnik može ostvariti ako mu je tražbina utvrđena u stečajnom postupku i ako zahtjev za osiguranje svoje tražbine podnese u roku i na način utvrđen ovim Zakonom.
+(2) Kada se otvoreni stečajni postupak ne provodi, prava propisana u slučaju otvaranja stečajnog postupka nad poslodavcem radnik može ostvariti ako zahtjev za osiguranje svoje tražbine podnese u roku i na način utvrđen ovim Zakonom.
+(3) Pravo iz članka 8. stavka 1. točke 5. ovoga Zakona iznimno ostvaruje radnik koji nije ostvario naplatu pravomoćno dosuđene naknade štete zbog ozljede na radu ili profesionalne bolesti bez obzira na to kad mu je prestao radni odnos, pod uvjetom da je prije otvaranja stečajnog postupka postavio poslodavcu zahtjev za izvršenje pravomoćne presude u roku za dobrovoljno izvršenje ili je zahtijevao prisilno izvršenje.
+(4) Iznimno od odredbe stavaka 1. i 2. ovoga članka, prava propisana u slučaju otvaranja stečajnog postupka nad poslodavcem po ovom Zakonu ne mogu ostvariti članovi uprave trgovačkog društva, član upravnog odbora, izvršni direktor i upravitelj zadruge, bez obzira na vrijeme kada su te poslove obavljali.

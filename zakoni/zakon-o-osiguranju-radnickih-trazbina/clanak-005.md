@@ -1,0 +1,2 @@
+# Članak 5.
+Zaštita prava na isplatu plaće i naknade plaće iz radnog odnosa radnika u slučaju blokade računa poslodavca zbog nemogućnosti prisilne naplate neisplaćene plaće odnosno naknade plaće provodi se osiguranjem i isplatom iz sredstava Agencije dijela dospjele tražbine radnika po osnovi neisplaćene plaće i naknade plaće koju je bio dužan isplatiti poslodavac iz svojih sredstava, a za koju je pokrenut postupak prisilne naplate te preuzimanjem prava ovrhovoditelja u postupku ovrhe na novčanim sredstvima.

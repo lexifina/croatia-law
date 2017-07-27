@@ -1,0 +1,3 @@
+# Članak 9.
+(1) U slučaju ostvarivanja prava iz članka 8. stavka 1. točaka 1., 2. i 3. ovoga Zakona u trajanju kraćem od mjesec dana, najviši mjesečni iznos pojedinog prava preračunava se u dnevni iznos dijeljenjem s brojem 30 kao prosječnim brojem dana u mjesecu, te se dobiveni iznos množi s brojem dana za koji je radnik to pravo stekao.
+(2) U slučaju ostvarivanja prava iz članka 8. stavka 1. točaka 1., 2. i 3. ovoga Zakona za radnika zaposlenog u nepunom radnom vremenu, najviši mjesečni iznos pojedinog prava obračunava se razmjerno ugovorenom radnom vremenu u odnosu na minimalnu plaću za puno radno vrijeme.

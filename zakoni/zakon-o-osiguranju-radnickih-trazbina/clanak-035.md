@@ -1,0 +1,3 @@
+# Članak 35.
+(1) Ako poslodavac ne izvrši u roku obvezu povrata sredstava koju je isplatila Agencija, utvrđenu u članku 34. stavcima 2. i 3. ovoga Zakona, Agencija će dostaviti Financijskoj agenciji izvršno rješenje iz članka 34. stavka 1. ovoga Zakona odnosno obavijest iz članka 34. stavka 13. ovoga Zakona uz zahtjev za izravnu naplatu radi prisilne naplate iznosa koji je temeljem toga rješenja isplatila, uvećanog za zakonske zatezne kamate određene tim rješenjem.
+(2) Na provedbu ovrhe na novčanim sredstvima po računima poslodavca temeljem isprava iz stavka 1. ovoga članka primijenit će se odredbe posebnog propisa kojima se uređuje prvenstvo u redoslijedu naplate tražbine iz obračuna poslodavca o neisplaćenoj plaći, naknadi plaće ili otpremnini.
