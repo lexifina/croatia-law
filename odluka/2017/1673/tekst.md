@@ -1,0 +1,83 @@
+O UTVRĐIVANJU INTERESA REPUBLIKE HRVATSKE ZA IZGRADNJU ZIP LINE 1 ŽIČARE U SKLOPU PROJEKTA SPORTSKO-REKREATIVNOG CENTRA »BIJELI VRH« U k.o. VRHOVINE I k.o. RUDOPOLJE
+I.
+Izgradnja žičare ZIP LINE 1 u sklopu projekta Sportsko-rekreativnog centra »Bijeli Vrh« na:
+- k.č.br. 4435 upisanoj u zk.ul.br. 2241, k.o. Vrhovine
+- k.č.br. 2042 upisanoj u zk.ul.br. 2239, k.o. Vrhovine
+- k.č.br. 2068 upisanoj u zk.ul.br. 1723, k.o. Vrhovine
+- k.č.br. 2069 upisanoj u zk.ul.br. 183, k.o. Vrhovine
+- k.č.br. 2073 upisanoj u zk.ul.br. 476, k.o. Vrhovine
+- k.č.br. 2074/1 upisanoj u zk.ul.br. 1317, k.o. Vrhovine
+- k.č.br. 2074/2 upisanoj u zk.ul.br. 699, k.o. Vrhovine
+- k.č.br. 2074/3 upisanoj u zk.ul.br. 68, k.o. Vrhovine
+- k.č.br. 2075 upisanoj u zk.ul.br. 136, k.o. Vrhovine
+- k.č.br. 2084/1 upisanoj u zk.ul.br. 68, k.o. Vrhovine
+- k.č.br. 2084/2 upisanoj u zk.ul.br. 1145, k.o. Vrhovine
+- k.č.br. 4344 upisanoj u zk.ul.br. 451, k.o. Vrhovine
+- k.č.br. 2083 upisanoj u zk.ul.br. 183, k.o. Vrhovine
+- k.č.br. 2083/A upisanoj u zk.ul.br. 183, k.o. Vrhovine
+- k.č.br. 2082 upisanoj u zk.ul.br. 168, k.o. Vrhovine
+- k.č.br. 2081 upisanoj u zk.ul.br. 183, k.o. Vrhovine
+- k.č.br. 4347 upisanoj u zk.ul.br. 454, k.o. Vrhovine
+- k.č.br. 1972 upisanoj u zk.ul.br. 168, k.o. Vrhovine
+- k.č.br. 1973 upisanoj u zk.ul.br. 183, k.o. Vrhovine
+- k.č.br. 1974/8 upisanoj u zk.ul.br. 1144, k.o. Vrhovine
+- k.č.br. 1974/6 upisanoj u zk.ul.br. 698, k.o. Vrhovine
+- k.č.br. 1944/1 upisanoj u zk.ul.br. 80, k.o. Vrhovine
+- k.č.br. 1944/2 upisanoj u zk.ul.br. 80, k.o. Vrhovine
+- k.č.br. 1945/1 upisanoj u zk.ul.br. 1144, k.o. Vrhovine
+- k.č.br. 1945/2 upisanoj u zk.ul.br. 1726, k.o. Vrhovine
+- k.č.br. 1946/2 upisanoj u zk.ul.br. 194, k.o. Vrhovine
+- k.č.br. 1946/1 upisanoj u zk.ul.br. 19, k.o. Vrhovine
+- k.č.br. 1947 upisanoj u zk.ul.br. 183, k.o. Vrhovine
+- k.č.br. 1948 upisanoj u zk.ul.br. 72, k.o. Vrhovine
+- k.č.br. 1949/1 upisanoj u zk.ul.br. 71, k.o. Vrhovine
+- k.č.br. 1949/2 upisanoj u zk.ul.br. 72, k.o. Vrhovine
+- k.č.br. 1949/3 upisanoj u zk.ul.br. 694, k.o. Vrhovine
+- k.č.br. 1949/4 upisanoj u zk.ul.br. 71, k.o. Vrhovine
+- k.č.br. 1949/5 upisanoj u zk.ul.br. 72, k.o. Vrhovine
+- k.č.br. 1949/6 upisanoj u zk.ul.br. 694, k.o. Vrhovine
+- k.č.br. 1950/3 upisanoj u zk.ul.br. 900, k.o. Vrhovine
+- k.č.br. 1950/2 upisanoj u zk.ul.br. 899, k.o. Vrhovine
+- k.č.br. 1950/1 upisanoj u zk.ul.br. 72, k.o. Vrhovine
+- k.č.br. 1937 upisanoj u zk.ul.br. 166, k.o. Vrhovine
+- k.č.br. 1929 upisanoj u zk.ul.br. 72, k.o. Vrhovine
+- k.č.br. 1928 upisanoj u zk.ul.br. 166, k.o. Vrhovine
+- k.č.br. 1927 upisanoj u zk.ul.br. 577, k.o. Vrhovine
+- k.č.br. 1926 upisanoj u zk.ul.br. 969, k.o. Vrhovine
+- k.č.br. 1925 upisanoj u zk.ul.br. 1075, k.o. Vrhovine
+- k.č.br. 1924/1 upisanoj u zk.ul.br. 694, k.o. Vrhovine
+- k.č.br. 1924/2 upisanoj u zk.ul.br. 1019, k.o. Vrhovine
+- k.č.br. 1924/3 upisanoj u zk.ul.br. 695, k.o. Vrhovine
+- k.č.br. 1923 upisanoj u zk.ul.br. 166, k.o. Vrhovine
+- k.č.br. 4327/2 upisanoj u zk.ul.br. 454, k.o. Vrhovine
+- k.č.br. 1368/3 upisanoj u zk.ul.br. 900, k.o. Vrhovine
+- k.č.br. 1368/2 upisanoj u zk.ul.br. 899, k.o. Vrhovine
+- k.č.br. 1368/1 upisanoj u zk.ul.br. 72, k.o. Vrhovine
+- k.č.br. 1369/3 upisanoj u zk.ul.br. 71, k.o. Vrhovine
+- k.č.br. 1369/2 upisanoj u zk.ul.br. 72, k.o. Vrhovine
+- k.č.br. 1369/1 upisanoj u zk.ul.br. 694, k.o. Vrhovine
+- k.č.br. 1371 upisanoj u zk.ul.br. 166, k.o. Vrhovine
+- k.č.br. 1373/1 upisanoj u zk.ul.br. 2188, k.o. Vrhovine
+- k.č.br. 1402/3 upisanoj u zk.ul.br. 1902, k.o. Vrhovine
+- k.č.br. 1401/2 upisanoj u zk.ul.br. 985, k.o. Vrhovine
+- k.č.br. 1400/1 upisanoj u zk.ul.br. 414, k.o. Vrhovine
+- k.č.br. 1399 upisanoj u zk.ul.br. 43, k.o. Vrhovine
+- k.č.br. 1398/2 upisanoj u zk.ul.br. 1904, k.o. Vrhovine
+- k.č.br. 1392 upisanoj u zk.ul.br. 268, k.o. Vrhovine
+- k.č.br. 1390/A upisanoj u zk.ul.br. 332, k.o. Vrhovine
+- k.č.br. 4387 upisanoj u zk.ul.br. 451, k.o. Vrhovine
+- k.č.br. 1009 upisanoj u zk.ul.br. 5, k.o. Rudopolje
+- k.č.br. 1005 upisanoj u zk.ul.br. 44, k.o. Rudopolje
+- k.č.br. 1004 upisanoj u zk.ul.br. 44, k.o. Rudopolje
+- k.č.br. 1002 upisanoj u zk.ul.br. 478, k.o. Rudopolje
+- k.č.br. 1003 upisanoj u zk.ul.br. 62, k.o. Rudopolje
+- k.č.br. 998 upisanoj u zk.ul.br. 726, k.o. Rudopolje
+- k.č.br. 997 upisanoj u zk.ul.br. 334, k.o. Rudopolje
+- k.č.br. 956 upisanoj u zk.ul.br. 188, k.o. Rudopolje
+- k.č.br. 954 upisanoj u zk.ul.br. 783, k.o. Rudopolje
+- k.č.br. 945/1 upisanoj u zk.ul.br. 726, k.o. Rudopolje
+u interesu je Republike Hrvatske.
+II.
+Interes Republike Hrvatske iz točke I. ove Odluke utvrđuje se na temelju pravomoćne lokacijske dozvole Ličko-senjske županije, Upravnog odjela za graditeljstvo, zaštitu okoliša i prirode te komunalno gospodarstvo, Ispostave Otočac, klase: UP/I-350-05/14-01/29, urbroja: 2125/01-08-3-15-09, od 16. prosinca 2015. godine, mišljenja Općinskog vijeća Općine Vrhovine, klase: 943-04/16-01/1, urbroja: 2125/09-01/01/16-1, od 30. prosinca 2015. godine, mišljenja Županijske skupštine Ličko-senjske županije, klase: 360-01/16-01/05, urbroja: 2125/1-01-16-06, od 24. veljače 2016. godine, te elaborata nepotpunog izvlaštenja-služnosti tvrtke Geoprojekt d.d. Opatija, br. 03-134-1/14, iz travnja 2015. godine, ovjerovljenog da je izrađen u skladu s prostorno-planskom dokumentacijom i u skladu s katastarsko-geodetskim propisima.
+III.
+Ova Odluka stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
