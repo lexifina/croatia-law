@@ -1,0 +1,3 @@
+# Članak 103.
+U članku 409. stavak 2. mijenja se i glasi:
+»(2) Predsjednik vijeća može odrediti da se rasprava ili pojedini njezini dijelovi (iskazi optuženika, svjedoka, vještaka i važne izjave stranaka) snime uređajem za audio ili audio-video snimanje. U tom slučaju, zapisnik tvore audio ili audio-video snimka rasprave i zapisnik o tijeku rasprave. Audio ili audio-video snimka rasprave prepisuje se u roku od pet radnih dana, a prijepis pregledava i ovjerava predsjednik vijeća i prilaže zapisniku o raspravi. Stranke imaju pravo pregledati prijepis snimke i staviti primjedbe. Ako predsjednik vijeća primjedbe smatra opravdanima, naložit će ispravak prijepisa.«.

@@ -1,0 +1,7 @@
+# Članak 68.
+Članak 212. mijenja se i glasi:
+»(1) Policija može, ako postoji opasnost od odgode, i prije započinjanja kaznenog postupka za kaznena djela za koja je propisana kazna zatvora do pet godina obaviti pretragu (članak 246.), privremeno oduzimanje predmeta (članak 261.), očevid (članak 304.), uzimanje otisaka prstiju i drugih dijelova tijela (članci 211. i 307.).
+(2) Za kaznena djela za koja je propisana kazna zatvora teža od pet godina o postojanju opasnosti od odgode i potrebi provođenja dokaznih radnji policija odmah obavještava državnog odvjetnika, osim za provođenje dokazne radnje privremenog oduzimanja predmeta (članak 261.) i pretrage (članak 246.). Državni odvjetnik može sam provesti dokazne radnje iz stavka 1. ovoga članka ili njihovo provođenje prepustiti policiji ili naložiti istražitelju. Državni odvjetnik koji stigne na mjesto očevida ili pretrage u tijeku njegova provođenja može preuzeti provođenje radnje.
+(3) Ako je potrebno provesti radnje iz stavaka 1. i 2. ovoga članka prema službenoj osobi koja je ovlaštena i dužna otkrivati i prijavljivati kaznena djela za koja se progoni po službenoj dužnosti policija će odmah obavijestiti državnog odvjetnika koji će odlučiti o tome hoće li sam provesti tu radnju ili će dati nalog istražitelju.
+(4) Ako postoji opasnost od odgode, državni odvjetnik može odrediti potrebna vještačenja, osim ekshumacije.
+(5) O rezultatima radnji koje je policija provela prema stavcima 1. i 2. ovoga članka, bez odgode obavještava državnog odvjetnika.«.

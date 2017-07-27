@@ -1,0 +1,7 @@
+# Članak 75.
+Članak 229. mijenja se i glasi:
+»(1) Istraga se mora završiti u roku od šest mjeseci od dana pravomoćnosti rješenja o provođenju istrage. Ako istragu nije moguće završiti u tom roku, o razlozima će se izvijestiti državni odvjetnik koji je dužan poduzeti mjere da se istraga završi.
+(2) Kada za to postoje opravdani razlozi državni odvjetnik može rok iz stavka 1. ovoga članka produljiti za najviše šest mjeseci. O razlozima produljenja roka završetka istrage državni odvjetnik dužan je izvijestiti višeg državnog odvjetnika.
+(3) Iznimno, ako istragu nije bilo moguće završiti u roku iz stavka 2. ovoga članka, a nisu ispunjeni uvjeti za prekid istrage iz članka 223. ovoga Zakona, državni odvjetnik će o razlozima zbog kojih istraga nije završena izvijestiti Glavnog državnog odvjetnika, koji može rok iz stavka 2. ovoga članka produljiti za najviše šest mjeseci.
+(4) O produljenju roka završetka istrage odlučuje se rješenjem protiv kojeg žalba nije dopuštena. Rješenje o produljenju roka istrage državni odvjetnik dostavit će okrivljeniku i žrtvi.
+(5) Ako po isteku roka iz stavka 3. ovoga članka istraga nije završena, okrivljenik ima pravo sucu istrage podnijeti prigovor zbog odugovlačenja postupka. Ako sudac istrage utvrdi da je okrivljenikov prigovor osnovan, rješenjem će odrediti rok u kojem državni odvjetnik mora završiti istragu. O završetku istrage državni je odvjetnik dužan obavijestiti suca istrage. Ako sudac istrage utvrdi da je prigovor neosnovan, obavijestit će o tome okrivljenika.«.

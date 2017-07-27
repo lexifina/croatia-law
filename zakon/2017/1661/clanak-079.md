@@ -1,0 +1,3 @@
+# Članak 79.
+U članku 273. stavak 2. mijenja se i glasi:
+»(2) Okrivljenik, koji je prema stavku 1. ovoga članka poučen o pravima, pozvat će se da se izričito izjasni o tome hoće li uzeti branitelja po vlastitom izboru. Okrivljenika koji izjavi da ne želi uzeti branitelja, tijelo koje provodi ispitivanje dužno je upoznati na jednostavan i razumljiv način sa značenjem prava na branitelja i posljedicama odricanja od tog prava. Ako okrivljenik i nakon toga ne želi uzeti branitelja, može se nastaviti s ispitivanjem, osim kada okrivljenik po zakonu mora imati branitelja. Izjava okrivljenika unijet će se u zapisnik.«.

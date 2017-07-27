@@ -1,0 +1,2 @@
+# Članak 135.
+Sud će u roku od dva mjeseca od dana stupanja na snagu ovoga Zakona ukinuti jamstvo koje je zamijenilo istražni zatvor iz osnova navedenih u članku 123. stavku 1. točkama. 2., 3. i 4. Zakona o kaznenom postupku (»Narodne novine«, br. 152/08., 76/09., 80/11., 121/11. - pročišćeni tekst, 91/12. - Odluka Ustavnog suda Republike Hrvatske, 143/12., 56/13., 145/13. i 152/14.) te, po potrebi, odrediti blažu ili težu mjeru osiguranja prisutnosti okrivljenika.

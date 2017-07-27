@@ -1,0 +1,7 @@
+# Članak 66.
+Članak 208. mijenja se i glasi:
+»(1) Policija može prikupljati obavijesti od građana. U prikupljanju obavijesti građani se ne mogu ispitivati u svojstvu svjedoka ili vještaka.
+(2) Ako je to potrebno radi otkrivanja kaznenih djela drugih osoba, obavijesti se mogu prikupljati od osoba koje su u pritvoru. Odobrenje za njihovo prikupljanje daje državni odvjetnik, a ako je pritvor produljen, odobrenje daje sudac istrage. Te se obavijesti prikupljaju u prisutnosti branitelja.
+(3) Prikupljanje obavijesti iz stavka 2. ovoga članka od osoba koje su u istražnom zatvoru ili u drugoj ustanovi za osobe lišene slobode moguće je samo ako je to, na temelju pisanog prijedloga državnog odvjetnika, odobrio sudac istrage ili predsjednik vijeća, u prisutnosti branitelja, odnosno odvjetnika kojega ta osoba sama izabere ili joj ga odredi sudac istrage.
+(4) Radi prikupljanja obavijesti iz stavka 1. ovoga članka policija može pozivati građane. Osoba koja se odazvala pozivu, a odbije dati obavijesti, može u svakom trenutku napustiti policijske prostorije te se ne može ponovno pozivati zbog istog razloga.
+(5) Ako se u odnosu na osobu od koje policija prikuplja obavijesti tijekom prikupljanja obavijesti pojave osnove sumnje da je počinila ili sudjelovala u počinjenju kaznenog djela, prekinut će se prikupljanje obavijesti. Od te osobe policija više ne može prikupljati obavijesti već je može ispitati u svojstvu osumnjičenika prema odredbama članka 208.a ovoga Zakona.«.

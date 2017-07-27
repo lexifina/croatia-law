@@ -1,0 +1,4 @@
+# Članak 11.
+Članak 48. mijenja se i glasi:
+»(1) Ako žrtva umre u tijeku roka za podnošenje prijedloga za progon, odnosno ako oštećenik umre u tijeku postupka, njihov bračni i izvanbračni drug, životni partner ili neformalni životni partner te potomak, a ako njih nema, predak, brat, sestra te osoba koju je žrtva odnosno oštećenik na temelju zakona bio dužan uzdržavati, mogu u roku od tri mjeseca poslije njihove smrti podnijeti prijedlog za progon ili tužbu, odnosno dati izjavu da postupak nastavljaju.
+(2) Ako pravna osoba na čiju je štetu kazneno djelo počinjeno prestane postojati u tijeku roka za podnošenje prijedloga za progon ili u tijeku postupka, pravni sljednik te osobe može u roku od tri mjeseca od prestanka postojanja pravne osobe na čiju je štetu kazneno djelo počinjeno podnijeti prijedlog za progon ili tužbu, odnosno dati izjavu da postupak nastavlja.«.

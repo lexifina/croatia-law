@@ -1,0 +1,6 @@
+# Članak 1.
+U Zakonu o kaznenom postupku (»Narodne novine«, br. 152/08., 76/09., 80/11., 121/11. - pročišćeni tekst, 91/12. - Odluka Ustavnog suda Republike Hrvatske, 143/12., 56/13., 145/13. i 152/14.) u članku 1.a točki 5. iza riječi: »(SL L 350, 30. 12. 2008.)« točka se zamjenjuje zarezom, a iza točke 5. dodaju se točke 6., 7., 8. i 9. koje glase:
+»6) Direktiva 2012/29/EU Europskog parlamenta i Vijeća od 25. listopada 2012. o uspostavi minimalnih standarda za prava, potporu i zaštitu žrtava kaznenih djela te o zamjeni Okvirne odluke Vijeća 2001/220/PUP (SL L 315, 14. 11. 2012.),
+7) Direktiva 2013/48/EU Europskog parlamenta i Vijeća od 22. listopada 2013. o pravu na pristup odvjetniku u kaznenom postupku i u postupku na temelju europskog uhidbenog naloga te o pravu na obavješćivanje treće strane u slučaju oduzimanja slobode i na komunikaciju s trećim osobama i konzularnim tijelima (SL L 294, 6. 11. 2013.),
+8) Direktiva 2014/42/EU Europskog parlamenta i Vijeća od 3. travnja 2014. o zamrzavanju i oduzimanju predmeta i imovinske koristi ostvarene kaznenim djelima u Europskoj uniji (SL L 127, 29. 4. 2014.),
+9) Direktiva 2014/62/EU Europskog parlamenta i Vijeća od 15. svibnja 2014. o kaznenopravnoj zaštiti eura i drugih valuta od krivotvorenja, kojom se zamjenjuje Okvirna odluka Vijeća 2000/383/PUP (SL L 151, 21. 5. 2014.).«.

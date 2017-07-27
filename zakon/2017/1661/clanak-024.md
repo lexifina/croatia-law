@@ -1,0 +1,3 @@
+# Članak 24.
+U članku 65. stavak 2. mijenja se i glasi:
+»(2) Okrivljenika se odmah po uhićenju ili poduzimanju druge radnje za koju to predviđa ovaj Zakon, mora poučiti da ima pravo uzeti branitelja i da branitelj može biti prisutan njegovu ispitivanju. Okrivljenika koji izjavi da ne želi uzeti branitelja, tijelo kaznenog postupka dužno je upoznati na jednostavan i razumljiv način sa značenjem prava na branitelja i posljedicama odricanja od tog prava. Ako okrivljenik i nakon toga ne želi uzeti branitelja, može se nastaviti s poduzimanjem radnje, osim kada okrivljenik po zakonu mora imati branitelja. Odricanje od prava na branitelja mora biti izričito, nedvosmisleno i u pisanom obliku.«.

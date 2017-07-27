@@ -1,0 +1,4 @@
+# Članak 49.
+U članku 148. stavci 1. i 6. mijenjaju se i glase:
+»(1) Kad sud okrivljenika proglasi krivim, u presudi će mu naložiti da podmiri troškove kaznenog postupka, osim ako ne postoje uvjeti za oslobođenje od plaćanja troškova u cijelosti ili djelomično.
+(6) U odluci kojom rješava o troškovima sud može okrivljenika osloboditi obveze da naknadi u cijelosti ili djelomično troškove kaznenog postupka iz članka 145. stavka 2. točaka 1. do 6. ovoga Zakona te nagradu i nužne izdatke postavljenog branitelja, zbog lošeg imovinskog stanja te ako bi njihovim plaćanjem bilo dovedeno u pitanje uzdržavanje okrivljenika ili osoba koje je on dužan uzdržavati. Ako se te okolnosti utvrde nakon donošenja odluke o troškovima, predsjednik vijeća može posebnim rješenjem osloboditi okrivljenika dužnosti naknade troškova kaznenog postupka. Sud može od okrivljenika zatražiti dostavljanje potvrde o imovinskom stanju i prihodima od porezne uprave.«.

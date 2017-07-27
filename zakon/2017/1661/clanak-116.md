@@ -1,0 +1,3 @@
+# Članak 116.
+U članku 502. stavak 2. mijenja se i glasi:
+»Kazneni postupak obnovit će se i u slučaju kada je zahtjev za obnovu podnesen na temelju konačne presude Europskog suda za ljudska prava kojom je utvrđena povreda prava i sloboda iz Konvencije za zaštitu ljudskih prava i temeljnih sloboda ako je povreda Konvencije utjecala na ishod postupka, a povreda ili njezina posljedica se može ispraviti u obnovljenom postupku. U rješenju kojim se dopušta obnova kaznenog postupka sud će odrediti da se postupak vrati u stadij postupka pred optužnim vijećem ili raspravu, ili u postupak povodom žalbe, ili izvanrednih pravnih lijekova.«.
