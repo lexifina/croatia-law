@@ -1,0 +1,3 @@
+# Članak 47.
+Odjel za zastupanje obavlja poslove zastupanja u upravnim sporovima protiv drugostupanjskih rješenja Ministarstva i prvostupanjskih rješenja donesenih povodom izvanrednih pravnih lijekova; surađuje s upravnim sudovima, Državnim odvjetništvom Republike Hrvatske, drugim tijelima državne vlasti i prvostupanjskim tijelima u vezi s drugostupanjskim postupanjem i izvanrednim pravnim lijekovima; rješava upravne stvari po žalbama iz područja prostornoga uređenja, graditeljstva, komunalnog gospodarstva i stanovanja, obavlja i druge poslove iz svoga djelokruga.
+5.2.3. Služba za nadzor

@@ -1,0 +1,4 @@
+# Članak 18.
+Odjel za provođenje postupaka javne nabave obavlja poslove javne nabave roba, radova i usluga za potrebe Ministarstva sukladno zakonu kojim se uređuje javna nabava, pruža stručnu pomoć povjerenstvima za nabavu, prati odvijanje postupaka nabave sukladno planu nabave i sredstvima osiguranim planom proračuna u pogledu zadanih okvira visine i namjene sredstava, priprema i izrađuje ugovore iz područja nabave, vodi evidencije o postupcima nabave i evidencije zaključenih ugovora te prati izvršenje ugovornih obveza, sudjeluje u pripremi i izradi ugovora o zakupu poslovnih prostora, vodi evidenciju istih. Odjel sudjeluje u izradi strateškog plana Ministarstva, definiranju pokazatelja uspješnosti i utvrđivanju rizika u okviru djelokruga Odjela, te obavlja i druge poslove u okviru svoga djelokruga.
+3.2.2.2. Odjel za financijsko upravljanje, kontrole
+i sigurnosne poslove

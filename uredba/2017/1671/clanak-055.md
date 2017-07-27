@@ -1,0 +1,3 @@
+# Članak 55.
+Odjel za tehničku provjeru projekata obavlja upravne, stručne i druge poslove u vezi sa zaprimanjem i obradom zahtjeva za isplatu sredstava iz europskih strukturnih i investicijskih fondova korisnicima i odobravanja plaćanja; surađuje s Posredničkim tijelom razine 2 u provjerama na licu mjesta; prati ostvarenje pokazatelja projekata; u suradnji s nadležnim ustrojstvenim jedinicama Ministarstva provodi aktivnosti prevencije, otkrivanja i ispravljanja nepravilnosti te utvrđuje mjere za suzbijanje prijevara, uzimajući u obzir utvrđene rizike, korektivne mjere i povrate nepropisno plaćenih iznosa s kamatama te obavlja i druge poslove iz svoga djelokruga.
+5.3.3. Služba za podršku poslovnim procesima

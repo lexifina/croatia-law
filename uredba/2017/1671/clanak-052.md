@@ -1,0 +1,3 @@
+# Članak 52.
+Odjel za pripremu i objavu poziva prikuplja potrebne informacije koje se odnose na upravljanje, praćenje, provedbu i vrednovanje Operativnog programa; sudjeluje u radu Odbora za praćenje; sudjeluje u aktivnostima zatvaranja Operativnog programa; izrađuje kriterije za odabir projekata i sudjeluje u odabiru projekata, u skladu s člankom 125. stavkom 3. točkama (a) i (b) Uredbe (EU) br. 1303/2013; izrađuje upute za prijavitelje i priprema dokumentaciju za pokretanje i objavu poziva za dostavu projektnih prijedloga te obavlja i druge poslove iz svoga djelokruga.
+5.3.2. Služba za provedbu programa i projekata
