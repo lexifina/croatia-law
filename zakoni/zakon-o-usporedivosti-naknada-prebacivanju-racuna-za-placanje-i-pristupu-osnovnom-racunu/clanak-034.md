@@ -1,0 +1,8 @@
+## ODJELJAK 2. OBJAVA ODLUKA O PREKRŠAJU
+# Članak 34.
+(1) Hrvatska narodna banka i Ministarstvo financija, Financijski inspektorat na svojim mrežnim stranicama objavljuju izreke pravomoćnih odluka donesenih u prekršajnim postupcima koje su pokrenuli kao ovlašteni tužitelji, a kojima je pružatelj platnih usluga ili odgovorna osoba pružatelja platnih usluga proglašena krivom za prekršaj iz ovoga Zakona. Uz izreku objavljuje se naziv tijela koje je donijelo odluku te broj i datum odluke.
+(2) Hrvatska narodna banka i Ministarstvo financija, Financijski inspektorat mogu objaviti rješenja koja su donijeli u izvršavanju svojih nadzornih ovlasti iz ovoga Zakona. Kad objave takvo rješenje, dužni su objaviti i odluku upravnog suda ako je protiv tog rješenja podnesena tužba.
+(3) Podaci koji su bankovna tajna ili su zaštićeni zakonom kojim se uređuje zaštita osobnih podataka izuzet će se od objave iz stavaka 1. i 2. ovoga članka.
+(4) Ako Hrvatska narodna banka ili Ministarstvo financija, Financijski inspektorat ocijene da bi objava iz stavka 1. ovoga članka mogla ozbiljno ugroziti stabilnost financijskog tržišta ili prouzročiti nerazmjernu štetu pružatelju platnih usluga, anonimizirat će podatak o pružatelju platnih usluga.
+(5) Ako Hrvatska narodna banka ili Ministarstvo financija, Financijski inspektorat ocijene da bi objava iz stavka 1. ovoga članka mogla prouzročiti nerazmjernu štetu odgovornoj osobi pružatelja platnih usluga, anonimizirat će podatak o odgovornoj osobi.
+(6) Objave iz stavaka 1. i 2. ovoga članka ostaju na mrežnoj stranici tri godine od pravomoćnosti odluke o prekršaju.

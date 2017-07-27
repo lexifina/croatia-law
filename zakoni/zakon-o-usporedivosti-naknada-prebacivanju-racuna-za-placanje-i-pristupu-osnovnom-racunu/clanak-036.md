@@ -1,0 +1,4 @@
+## Obavješćivanje Europske komisije i Europskoga nadzornog tijela za bankarstvo
+# Članak 36.
+(1) Hrvatska narodna banka obavještava Europsku komisiju i Europsko nadzorno tijelo za bankarstvo o svojoj nadležnosti i nadležnosti Ministarstva financija, Financijskog inspektorata iz članka 28. stavka 1. ovoga Zakona te obavještava Europsku komisiju o svojoj nadležnosti iz članka 29. stavka 2. ovoga Zakona kao i o svim promjenama tako utvrđenih nadležnosti.
+(2) Hrvatska narodna banka obavještava Europsku komisiju do 18. rujna 2018. godine, a nakon toga svake dvije godine o usklađenosti postupanja pružatelja platnih usluga s člancima 5., 6. i 7. ovoga Zakona, o ispunjavanju svojih dužnosti iz članka 8. ovoga Zakona, o broju prebačenih računa za plaćanje i broju odbijenih zahtjeva za prebacivanje, o broju kreditnih institucija koje nude osnovni račun, ukupnom broju otvorenih osnovnih računa i broju odbijenih zahtjeva za otvaranje osnovnog računa.

@@ -1,0 +1,5 @@
+## Izvansudsko rješavanje sporova
+# Članak 30.
+(1) Ako potrošač smatra da je pružatelj platnih usluga postupio protivno odredbama ovoga Zakona, ima pravo na prigovor pružatelju platnih usluga, pravo na pritužbu Hrvatskoj narodnoj banci i pravo na pokretanje postupka mirenja odnosno alternativnog rješavanja potrošačkog spora.
+(2) Na prigovor pružatelju platnih usluga i na pritužbu Hrvatskoj narodnoj banci na odgovarajući način primjenjuju se odredbe o prigovoru pružatelju platnih usluga i odredbe o pritužbi nadležnom tijelu iz zakona kojim je uređen platni promet.
+(3) Na dužnost davanja informacija o postupku i o tijelima za mirenje odnosno alternativno rješavanje potrošačkih sporova te na postupak mirenja odnosno alternativnog rješavanja potrošačkih sporova, na odgovarajući način primjenjuju se odredbe o informiranju korisnika platnih usluga i odredbe o mirenju odnosno alternativnom rješavanju potrošačkih sporova iz zakona kojim je uređen platni promet te odredbe posebnih propisa kojima se uređuje mirenje odnosno alternativno rješavanje potrošačkih sporova.
