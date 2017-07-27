@@ -1,0 +1,21 @@
+# Članak 6.
+Članak 26. mijenja se i glasi:
+»(1) Zahtjev za isplatu po završenoj aktivnosti Korisnik je dužan najaviti Agenciji za plaćanja u roku od trideset dana prije njegovog podnošenja na obrascu koji se objavljuje na internetskim stranicama Agencije za plaćanja, dostavom preporučene pošte ili dostavom elektronskim putem na e-mail Agencije za plaćanja: info@apprrr.hr. Aktivnost za koju se podnosi Zahtjev za isplatu, mora biti plaćena i završena sukladno kriterijima iz članka 3. ovoga Pravilnika.
+(2) Zahtjev za isplatu po završetku svih aktivnosti iz članka 24. ovoga Pravilnika Korisnik dostavlja Agenciji za plaćanja sukladno roku navedenom u Odluci o odobrenju projekta preporučeno s povratnicom, na propisanom obrascu dostupnom na internetskim stranicama Agencije za plaćanja.
+(3) Zahtjev za isplatu po završenoj aktivnosti i Zahtjev za isplatu po završetku svih aktivnosti treba sadržavati financijsku dokumentaciju iz stavka 4. ovoga članka, koja sadrži sve račune sukladno odabranim ponudama i Odluci o odobrenju projekta, te dodatnu dokumentaciju na obrascima sukladno listi potrebne dokumentacije i pojašnjenjima za njihovo popunjavanje koji se objavljuju na internetskim stranicama Agencije za plaćanja, a priloženi računi moraju biti plaćeni u cijelosti.
+(4) Financijska dokumentacija kojom Korisnik dokazuje izvršenje plaćanja odobrenih aktivnosti i pripadajuće utvrđenih troškove u odobrenom projektu sukladno odabranim ponudama je sljedeća:
+a) Izvornik računa ovjeren od odabranog dobavljača/izvršitelja i od Korisnika (obvezni dijelovi su naziv, sjedište, adresa i OIB Podnositelja računa, broj i datum računa, rok dospijeća plaćanja računa, poveznica sa odgovarajućim robnim dokumentima/troškovnicima izvršenih radova/usluga);
+b) Izvornik robnog dokumenta (otpremnica, primka) ovjeren od odabranog dobavljača robe/materijala i od Korisnika (obvezni dijelovi su naziv, sjedište, adresa i OIB dobavljača, broj i datum robnog dokumenta, specifikacija i datum dostave robe/materijala);
+c) Izvornik troškovnika izvršenih radova/usluga ovjeren od odabranog izvršitelja radova/usluga i od Korisnika (obvezni dijelovi su naziv, sjedište, adresa i OIB izvršitelja, broj i datum troškovnika, specifikacija/opis i datum izvršenja pojedinih radova/usluga);
+d) Ovjereni izvornik izvoda iz banke o izvršenju plaćanja svakog pojedinog računa (obvezni dijelovi su naziv banke, broj i datum izvoda, datum plaćanja, poveznica s odgovarajućim računom odabranog dobavljača/izvršitelja);
+e) Tablični prikaz (rekapitulacija) izvršenih plaćanja odobrenih aktivnosti i pripadajućih utvrđenih troškova;
+f) Ostala dokumentacija u izvornom obliku koja pojašnjava izvršenje plaćanja utvrđenih troškova (ugovor o isporuci robe/izvršenju usluga, ovjerene dopune ugovora, ovjerene privremene situacije i sl.).
+(5) Korisniku se ne može isplatiti potpora u iznosu višem od maksimalnog iznosa navedenog u Odluci o odobrenju projekta.
+(6) Za plaćanja izvršena u stranoj valuti u svrhu odobrenja zahtjeva za isplatu obračunat će se:
+- protuvrijednost u kunama prema mjesečnom tečaju Europske središnje Banke, u mjesecu predaje Zahtjeva za isplatu iskazanom u četiri decimale. Internet adresa na kojoj se može dobiti uvid u navedeni tečaj je:
+http://sdw.ecb.europa.eu/quickview.do?SERIES_KEY=120.EXR.M.HRK.EUR.SP00.A
+- u slučaju da je Korisnik plaćanja izvršio po tečaju nižem od tečaja Europske središnje banke (iskazanom u četiri decimale) u mjesecu zaprimanja Zahtjeva za isplatu obračun potpore za isplatu temeljit će se na ostvarenom tečaju.
+(7) Ukoliko je Zahtjev za isplatu potpore nepotpun, Agencija za plaćanja zatražit će njegovu dopunu od Korisnika te može na način sukladan članku 15. ovoga Pravilnika tražiti dostavu dopuna, ispravaka ili obrazloženja.
+(8) Korisnik je dužan Zahtjev za isplatu potpore dopuniti, ispraviti, obrazložiti, dostavom tražene dokumentacije preporučenom poštom u roku iz Zahtjeva za dopunu zahtjeva za isplatu potpore.
+(9) U slučajevima traženja dopuna, ispravaka, obrazloženja datum dostave dokumentacije kojom se Zahtjev za isplatu potpore dopunjuje, ispravlja ili pojašnjava, smatra se datumom zaprimanja potpunog Zahtjeva.
+(10) Zahtjevi za isplatu obrađuju se prema redoslijedu zaprimanja potpunih zahtjeva.«

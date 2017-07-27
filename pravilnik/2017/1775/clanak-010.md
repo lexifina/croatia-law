@@ -1,0 +1,3 @@
+# Članak 10.
+U Prilogu I. točki 1. Aktivnosti vezane uz zamjenu sorte/sorata i/ili premještanje vinograda iza podtočke 1.3.6., podtočka 1.3.4. mijenja se i glasi:
+»1.3.7. troškovi usluge radova na postavljanju i/ili izmjeni potporne strukture restrukturiranog vinograda (potporna struktura - uklanjanje stupova, žice, kolaca (kompletne armature ili pojedinih dijelova), odvoz stupaca, žice, kolaca, kupnja nove armature ili pojedinih dijelova (kolci, stupovi, žica, kuke, zatezači), postavljanje nove armature ili pojedinih dijelova ukoliko nisu prijavljeni kao pojedinačni troškovi pod 1.1.2., 1.3.5. i 1.3.6«.

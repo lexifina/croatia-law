@@ -1,0 +1,5 @@
+## 2014. - 2018.
+# Članak 1.
+U Pravilniku o provedbi mjere Restrukturiranje i konverzija vinograda iz Nacionalnog programa pomoći sektoru vina 2014. - 2018. (»Narodne novine«, broj 49/2015) u članku 3. stavku 1. podstavci 3. i 4. mijenjaju se i glase:
+»Početak aktivnosti« u smislu ispunjavanja kriterija prihvatljivosti odnosi se na početak obavljanja aktivnosti projekta koje je započeto nakon datuma zaprimanja Odluke o odobrenju projekta odnosno označava prvu preuzetu obvezu kojom se naručuju dobra ili usluge ili nastajanje druge obveze na temelju koje je ulaganje nepovratna obveza (naručivanje, kupnja, izgradnja, plaćanje, preuzimanje kredita) ili prvu započetu aktivnost u provedbi projekta.
+»Završetak aktivnosti« u smislu ispunjavanja kriterija prihvatljivosti odnosi se na završetak aktivnosti projekta te označava kraj izvršenja preuzetih obveza unutar razdoblja trajanja provedbe projekta u kojem se nastali troškovi mogu smatrati prihvatljivim, odnosno do datuma roka podnošenja Zahtjeva za isplatu sa svim dokazima koji ukazuju da je aktivnost provedena te u potpunosti plaćena i fizički završena.«
