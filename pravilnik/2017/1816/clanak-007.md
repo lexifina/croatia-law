@@ -1,0 +1,14 @@
+## Opći uvjeti prihvatljivosti troškova
+# Članak 7.
+(1) Opći uvjeti prihvatljivosti troškova su:
+a) troškovi prihvatljivi sukladno listi prihvatljivih troškova
+b) povezanost s projektom i nastanak u okviru projekta
+c) stvarnost nastanka kod korisnika
+d) izvršenje plaćanja korisnika dobavljačima roba, izvođačima radova te pružateljima usluga
+e) dokazivost putem računa ili dokumenata jednake dokazne vrijednosti
+f) usklađenost s pravilima javne nabave, ako je primjenjivo
+g) usklađenost s odredbama članka 65. stavka 11. Uredbe (EU) br. 1303/2013 koje se odnose na zabranu dvostrukog financiranja iz drugog financijskog instrumenta Europske unije i
+h) usklađenost s pravilima o trajnosti operacija iz članka 71. Uredbe (EU) br. 1303/2013.
+(2) Uvjeti iz stavka 1. ovoga članka primjenjuju se kumulativno.
+(3) Uvjeti prihvatljivosti troškova primjenjivi u određenom projektu utvrđuju se u ugovoru o financiranju.
+(4) Nove kategorije troškova dodane izmjenom Programa prihvatljive su od datuma podnošenja zahtjeva za izmjenu Programa Europskoj komisiji pod uvjetima navedenima u članku 65. stavku 9. Uredbe (EU) br. 1303/2013.
