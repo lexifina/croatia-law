@@ -1,0 +1,4 @@
+## Nadležnost
+# Članak 8.
+(1) U sporovima koji nastanu u vezi ugovora o kreditu s međunarodnim obilježjem, u smislu ovog Zakona, dužnik može pokrenuti postupak protiv neovlaštenog vjerovnika bilo pred sudovima države u kojoj neovlašteni vjerovnik ima sjedište, ili, neovisno o sjedištu neovlaštenog vjerovnika, pred sudovima mjesta gdje dužnik ima prebivalište, odnosno sjedište.
+(2) Neovlašteni vjerovnik, u smislu stavak 1. ovoga članka, može pokrenuti postupak protiv dužnika samo pred sudovima države u kojoj dužnik ima prebivalište, odnosno sjedište. Za ništetne ugovore u smislu ovoga Zakona, isključivo je mjerodavno pravo Republike Hrvatske, a sud će po tužbi za utvrđenje ništetnosti ugovora, ne ispitujući postojanje drugim zakonima propisanih pretpostavki o mjerodavnosti prava u odnosu na mjesto sklapanja ugovora, primijeniti ovaj Zakon.

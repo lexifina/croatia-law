@@ -1,0 +1,3 @@
+# Članak 10.
+(1) Ugovori o kreditu s međunarodnim obilježjima u smislu ovoga Zakona sklopljeni do dana stupanja na snagu ovoga Zakona u Republici Hrvatskoj između dužnika i neovlaštenih vjerovnika ništetni su od trenutka njihova sklapanja s posljedicama iz članka 7. ovoga Zakona.
+(2) Pravni poslovi sklopljeni do dana stupanja na snagu ovoga Zakona u Republici Hrvatskoj između dužnika i neovlaštenih vjerovnika koji su nastali kao posljedica ili se temelje na ugovoru o kreditu s međunarodnim obilježjima iz članka 1. stavka 1. ovoga Zakona ništetni su od trenutka njihova sklapanja s posljedicama iz članka 7. ovoga Zakona.
