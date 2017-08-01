@@ -1,0 +1,7 @@
+# Članak 2.
+Općini Staro Petrovo Selo pripadaju sljedeći porezi:
+1. prirez porezu na dohodak
+2. porez na potrošnju,
+3. porez na kuće za odmor,
+4. porez na korištenje javnih površina,
+5. porez na nekretnine.
