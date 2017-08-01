@@ -1,0 +1,1 @@
+Na temelju članka 42. stavka 1. Zakona o lokalnim porezima (»Narodne novine« br. 115/16) i članka 28. Statuta Grada Solina (»Službeni vjesnik Grada Solina« br. 7/09, 4/13 i 7/13) Gradsko vijeće Grada Solina na 2. sjednici održanoj 28. lipnja 2017. godine donijelo je

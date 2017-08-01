@@ -1,0 +1,3 @@
+# Članak 5.
+(1) Obveznik poreza na potrošnju je pravna i fizička osoba koja pruža ugostiteljske usluge na području Grada Solina.
+(2) Osnovica za obračun poreza na potrošnju je prodajna cijena pića po kojoj se piće proda u ugostiteljskim objektima, a u koju nije uključen porez na dodanu vrijednost.
