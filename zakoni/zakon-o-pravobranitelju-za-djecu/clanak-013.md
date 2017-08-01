@@ -1,0 +1,5 @@
+# Članak 13.
+(1) Pravobranitelj za djecu ima, u obavljanju zadaća iz svoga djelokruga, pravo uvida u podatke i dokumente tijela i osoba iz članka 12. ovoga Zakona, bez obzira na stupanj njihove tajnosti.
+(2) Pravobranitelj za djecu, zamjenici pravobranitelja za djecu, državni službenici i namještenici u Uredu pravobranitelja za djecu te ostale osobe koje privremeno i/ili povremeno obavljaju poslove ili sudjeluju u radu Ureda pravobranitelja za djecu dužni su postupati sukladno propisima o tajnosti i zaštiti podataka za vrijeme i nakon prestanka rada u Uredu, bez obzira na način na koji su za te podatke saznali.
+(3) Pravobranitelj za djecu, zamjenici pravobranitelja za djecu i državni službenici u Uredu pravobranitelja za djecu dužni su s podacima o djeci postupati u skladu s načelom zaštite najboljeg interesa djeteta te čuvati kao profesionalnu tajnu sve podatke o djeci koje saznaju u obavljanju svojih poslova i ovlasti.
+(4) Odredbe o tajnosti i zaštiti podataka uređuju se Poslovnikom o radu pravobranitelja za djecu.
