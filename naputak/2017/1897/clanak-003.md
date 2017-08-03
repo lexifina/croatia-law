@@ -1,0 +1,4 @@
+# Članak 3.
+(1) APN u ime Republike Hrvatske prihvaća ponude svih kreditnih institucija za sklapanje ugovora o odobravanju subvencioniranih kredita koje su podnesene u roku iz članka 2. stavka 3. ovoga Naputka i kojima se nudi odobravanje subvencioniranih kredita te s tim u vezi obavljanje poslova pod uvjetima i na način uređen Zakonom ili pod uvjetima koji su za korisnika kredita ili Republiku Hrvatsku povoljniji od uvjeta propisanih Zakonom.
+(2) APN u ime Republike Hrvatske sklapa ugovor o davanju subvencioniranih kredita sa svim kreditnim institucijama čije su ponude prihvaćene u roku od osam dana od isteka roka za dostavu ponuda iz članka 2. stavka 3. ovoga Naputka.
+(3) Popis kreditnih institucija s kojima je sklopljen ugovor o davanju subvencioniranih kredita objavljuje se na službenim internetskim stranicama APN-a i Ministarstva graditeljstva i prostornoga uređenja.
