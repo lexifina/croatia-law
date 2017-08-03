@@ -1,0 +1,2 @@
+# Članak 21.
+U članku 173. stavku 2. riječi: »dvije trećine plaće ovršenika« zamjenjuju se riječima: »tri četvrtine plaće ovršenika, ali ne više od dvije trećine prosječne netoplaće u Republici Hrvatskoj«, a iza riječi: »netoplaće ovršenika« stavlja se zarez i dodaju riječi: »osim u slučaju ovrhe radi prisilne naplate novčanih iznosa za uzdržavanje djeteta u kojem slučaju je od ovrhe izuzet iznos koji odgovara iznosu od jedne četvrtine netoplaće ovršenika«.

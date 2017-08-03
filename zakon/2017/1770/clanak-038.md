@@ -1,0 +1,3 @@
+# Članak 38.
+U članku 325. stavak 4. mijenja se i glasi:
+»(4) Ako predlagatelj osiguranja obavijesti protivnika osiguranja kako želi postati punopravni vlasnik stvari, odnosno punopravni nositelj prava, javni bilježnik iz stavka 3. ovoga članka o tome će mu izdati potvrdu u roku od 15 dana. Nakon što je obavijestio protivnika osiguranja kako želi postati punopravni vlasnik stvari, odnosno punopravni nositelj prava, predlagatelj osiguranja nije više ovlašten povući svoj pristanak, a protivnik osiguranja povući svoj prijedlog. Ako se predlagatelj osiguranja ne očituje u danom roku, smatrat će se da je pristao na prijedlog protivnika osiguranja.«.

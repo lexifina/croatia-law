@@ -1,0 +1,4 @@
+# Članak 46.
+(1) Postupke radi prisilnog ostvarenja novčane tražbine na temelju vjerodostojne isprave pokrenute do 27. siječnja 2006. u kojima rješenje o ovrsi nije doneseno ili je doneseno a nije steklo svojstvo pravomoćnosti i ovršnosti sud će obustaviti bez obzira na to kada su pokrenuti i po kojem zakonu bi se trebali dovršiti ako ovrhovoditelj u roku od tri mjeseca od dana stupanja na snagu ovoga Zakona ne podnese prijedlog za nastavak postupka.
+(2) Postupci iz stavka 1. ovoga članka koji se vode na istome sudu predsjednik toga suda ili sudac kojega za to ovlasti predsjednik suda može obustaviti zajedničkim rješenjem i dostaviti ga strankama objavom na mrežnoj stranici e-Oglasna ploča sudova.
+(3) Dostava iz stavka 2. ovoga članka smatra se obavljenom istekom petnaestoga dana od dana objave rješenja na mrežnoj stranici e-Oglasna ploča sudova.

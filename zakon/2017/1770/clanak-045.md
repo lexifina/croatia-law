@@ -1,0 +1,2 @@
+# Članak 45.
+Ministar nadležan za poslove pravosuđa donijet će u roku od 90 dana od dana stupanja na snagu ovoga Zakona pravilnike o izmjenama i dopunama Pravilnika o obliku i sadržaju zadužnice, Pravilnika o obliku i sadržaju bjanko zadužnice, Pravilnika o registru zadužnica i bjanko zadužnica, Pravilnika o obliku i sadržaju Izjave o zapljeni po pristanku dužnika i Pravilnika o obliku i sadržaju zahtjeva za izravnu naplatu, radi usklađenja s odredbama ovoga Zakona.
