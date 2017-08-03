@@ -1,0 +1,4 @@
+# Članak 6.
+(1) Najkasnije deset dana prije početka neposrednoga sanacijskog nadzora Hrvatska narodna banka kao sanacijsko tijelo dostavlja kreditnoj instituciji obavijest o neposrednom sanacijskom nadzoru.
+(2) Obavijest o neposrednom sanacijskom nadzoru, osim predmeta nadzora, sadržava podatke o planiranom početku i trajanju neposrednoga sanacijskog nadzora, ime voditelja neposrednoga sanacijskog nadzora i broj ovlaštenih osoba koje će obaviti neposredni sanacijski nadzor, popis dokumentacije i informacija koje je minimalno potrebno osigurati za pripremu i provođenje neposrednoga sanacijskog nadzora te druge informacije nužne za njegovo obavljanje.
+(3) Iznimno od odredbe stavka 1. ovog članka, ovlaštena osoba može dostaviti obavijest o neposrednom sanacijskom nadzoru najkasnije uoči početka obavljanja neposrednoga sanacijskog nadzora.
