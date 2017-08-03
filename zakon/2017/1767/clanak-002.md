@@ -1,0 +1,13 @@
+# Članak 2.
+U članku 3. stavku 1. točka 6. mijenja se i glasi:
+»6. fekalije koje nisu obuhvaćene stavkom 2. točkom 2. ovoga članka, slamu i drugi prirodni neopasni poljoprivredni ili šumski materijal koji se koristi u poljoprivredi, šumarstvu ili za proizvodnju energije iz takve biomase postupcima ili metodama koje ne štete okolišu i ne ugrožavaju zdravlje ljudi.«.
+Točka 7. briše se.
+U stavku 2. točka 2. mijenja se i glasi:
+»2. nusproizvode životinjskoga podrijetla uključujući prerađene proizvode na koje se odnosi Uredba (EZ) br. 1069/2009 Europskog parlamenta i Vijeća od 21. listopada 2009. o utvrđivanju zdravstvenih pravila za nusproizvode životinjskog podrijetla i od njih dobivene proizvode koji nisu namijenjeni prehrani ljudi te o stavljanju izvan snage Uredbe (EZ) br. 1774/2002 (Uredba o nusproizvodima životinjskog podrijetla) (SL 300, 14. 11. 2009.) (u daljnjem tekstu: Uredba (EZ) br. 1069/2009), kako je zadnje izmijenjena Uredbom Vijeća (EU) br. 1385/2013 od 17. prosinca 2013. o izmjeni uredbi Vijeća (EZ) br. 850/98 i (EZ) br. 1224/2009 i uredbi (EZ) br. 1069/2009, (EU) br. 1379/2013 i (EU) br. 1380/2013 Europskog parlamenta i Vijeća zbog izmjene statusa departmana Mayotte u odnosu na Europsku uniju (SL L 354, 28. 12. 2013.), osim onih koji su namijenjeni spaljivanju, odlaganju na odlagališta ili uporabi u postrojenjima za proizvodnju bioplina ili komposta,«.
+U točki 3. riječi: »prema posebnom propisu« zamjenjuju se riječima: »sukladno Uredbi (EZ) br. 1069/2009«.
+Točke 4. i 5. mijenjaju se i glase:
+»4. otpad koji nastaje istraživanjem, iskapanjem, obrađivanjem i skladištenjem mineralnih sirovina te radom kamenoloma, a koji je obuhvaćen Direktivom 2006/21/EZ Europskog parlamenta i Vijeća od 15. ožujka 2006. o gospodarenju otpadom od industrija vađenja minerala i o izmjeni Direktive 2004/35/EZ (SL L 102, 11. 4. 2006.), kako je zadnje izmijenjena Uredbom (EZ) br. 596/2009 Europskog parlamenta i Vijeća od 18. lipnja 2009. o prilagodbi većeg broja instrumenata koji podliježu postupku iz članka 251. Ugovora Odluci Vijeća 1999/468/EZ, s obzirom na regulatorni postupak s kontrolom Prilagodba regulatornom postupku s kontrolom - četvrti dio (SL L 188, 18. 7. 2009.),
+5. brodove obuhvaćene Uredbom (EU) br. 1257/2013 Europskog parlamenta i Vijeća od 20. studenoga 2013. o recikliranju brodova i o izmjeni Uredbe (EZ) br. 1013/2006 i Direktive 2009/16/EZ (SL L 330, 10. 12. 2013.).«.
+Točke 6. i 7. brišu se.
+Iza stavka 2. dodaje se stavak 3. koji glasi:
+»(3) Odredbe ovoga Zakona ne odnose se na sedimente koji se premještaju unutar površinskih voda radi gospodarenja vodama i vodenim tokovima ili sprečavanja poplava ili ublažavanja posljedica poplava, suša ili regeneracije zemljišta ako se dokaže da su ti sedimenti neopasni.«.
