@@ -1,0 +1,1 @@
+Na temelju članka 10. stavaka 2. i 3. i članka 11. stavka 3. Zakona o sigurnosti pri odobalnom istraživanju i eksploataciji ugljikovodika (»Narodne novine«, broj 78/15) i članka 30. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/11, 119/14 i 93/16) , Vlada Republike Hrvatske je na sjednici održanoj 27. srpnja 2017. godine donijela

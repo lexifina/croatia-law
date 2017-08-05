@@ -1,0 +1,4 @@
+## I. OPĆE ODREDBE
+# Članak 1.
+(1) Ovom Uredbom utvrđuje se organizacija i način rada Koordinacije za sigurnost pri odobalnom istraživanju i eksploataciji ugljikovodika (u daljnjem tekstu: Koordinacija) kao i ciljevi nadzora i provedbe, te obveze Koordinacije glede postizanja transparentnosti, dosljednosti, razmjernosti i objektivnosti u uređivanju odobalnih radova, kao i opseg odgovornosti Koordinacije, ovlaštenika dozvole, operatora, vlasnika i izvođača glede nadzora nad rizicima od velike nesreće, odnosno određuju se pravila, procesi i postupci za temeljitu procjenu izvješća o velikim opasnostima i drugih dokumenata koji se dostavljaju u skladu s odredbama Zakona o sigurnosti pri odobalnom istraživanju i eksploataciji ugljikovodika (u daljnjem tekstu: Zakon) i drugih posebnih propisa.
+(2) Ovom Uredbom utvrđuju se primjereni ljudski resursi i financijska sredstva Koordinacije za obavljanje djelatnosti iz Zakona i ove Uredbe.
