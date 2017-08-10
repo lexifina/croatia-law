@@ -1,0 +1,3 @@
+# Članak 143.
+Odjel za evaluaciju procjenjuje sukladnosti projekata s primjenjivim pravilima o prihvatljivosti, osigurava ocjenjivanje i odabir sukladnosti projekata s odobrenim kriterijima odabira; osniva Odbor za odabir projekata; surađuje i koordinira aktivnosti s nacionalnim i međunarodnim tijelima iz djelokruga Odjela; unosi podatke u informatički sustav praćenja provedbe, nadzora i izvještavanja EU programa (MIS) iz djelokruga Odjela; sudjeluje u izradi priručnika o internim procedurama iz djelokruga Odjela; priprema informacije, osigurava čuvanje dokumenata i evidencija o provedbi funkcija radi osiguravanja odgovarajućeg revizijskog traga te obavlja i druge poslove iz svoga djelokruga.
+9.2.2.2. Odjel za ugovaranje

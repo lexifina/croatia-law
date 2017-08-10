@@ -1,0 +1,6 @@
+# Članak 110.
+Služba za cestovna motorna vozila i prijevoz opasnih tvari obavlja upravne i stručne poslove u vezi ispitivanja vozila, uređaja i opreme na vozilima; obavlja upravne i stručne poslove u vezi obavljanja prijevoza opasnih tvari, vozila kojima se obavlja prijevoz opasnih tvari, osposobljavanja vozača i sigurnosnih savjetnika u prijevozu opasnih tvari, definira strateške ciljeve, pokazatelje uspješnosti, te utvrđuje rizike u provedbi postavljenih ciljeva u području prijevoza opasnih tvari; sudjeluje u izradi propisa iz područja prijevoza opasnih tvari, tehničkih uvjeta za vozila i ispitivanja vozila, priprema i izrađuje izvješća, analize, prijedloge mjera, rješenja i druge akte iz područja cestovnih vozila i prijevoza opasnih tvari. Obavlja i druge upravne i stručne poslove koji su zakonom ili drugim propisima stavljeni u nadležnost Ministarstva, a odnose se na cestovna motorna vozila i prijevoz opasnih tvari te ostale poslove koji spadaju u djelokrug Službe.
+Za obavljanje poslova u Služba za cestovna motorna vozila i prijevoz opasnih tvari, ustrojavaju se sljedeći odjeli:
+8.1.1.1. Odjel za cestovna motorna vozila i tahografske radionice
+8.1.1.2. Odjel za prijevoz opasnih tvari.
+8.1.1.1. Odjel za cestovna motorna vozila i tahografske radionice

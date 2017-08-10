@@ -1,0 +1,3 @@
+# Članak 40.
+Odjel za javne luke od međunarodnog značaja za Republiku Hrvatsku prati i analizira poslovanje luka otvorenih za javni promet od međunarodnog značaja za Republiku Hrvatsku, koordinira i daje upute za rad (poslovanje) lučkih uprava, sudjeluje u osiguravanju i provođenju radnji vezanih za namjensko trošenje proračunskih sredstava za poslove integralnog razvoja (izgradnje) lučkog sustava, te sudjeluje u izradi odluka, suglasnosti i ostalih dokumenata potrebnih za rad luka otvorenih za javni promet od međunarodnog značaja za Republiku Hrvatsku. Priprema očitovanja na predstavke građana i drugih tijela iz područja svoga rada i predlaže mjere za poboljšanje.
+3.2.2.2. Odjel za javne luke od županijskog značaja

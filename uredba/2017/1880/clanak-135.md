@@ -1,0 +1,6 @@
+## 9. UPRAVA ZA STRATEŠKO PLANIRANJE I EU FONDOVE
+# Članak 135.
+Uprava za strateško planiranje i EU fondove obavlja stručne poslove planiranja, odabira, pripreme i praćenja provedbe projekata prometne infrastrukture čije su pripreme i/ili provedba vezane za financiranje sredstvima fondova Europske unije; sudjeluje u izradi, uključujući izmjene i dopune, kao i u praćenju provedbe Operativnog programa Promet i relevantnih prioriteta Operativnog programa Konkurentnost i kohezija; sudjeluje u pripremi suglasnosti za projektne prijedloge koji se financiraju iz Instrumenta za povezivanje Europe - Promet (engl. Connecting Europe Facility - Transport; u daljnjem tekstu: CEF); obavlja poslove vezane za rad Sustava za upravljanje programima EU; prati zakonsku regulativu Europske unije vezanu za prometnu infrastrukturu; sudjeluje u radu međunarodnih tijela i radnih skupina te u izradi državnog proračuna i drugih razvojno-planskih dokumenata kao i u radu stručnih odbora Europske komisije, te obavlja i druge poslove iz svoga djelokruga.
+Za obavljanje poslova Uprave za strateško planiranje i EU fondove, ustrojavaju se sljedeći sektori:
+9.1. Sektor za pripremu projekata i provedbu CEF instrumenta
+9.2. Sektor za pripremu poziva, ugovaranje i horizontalne procese.

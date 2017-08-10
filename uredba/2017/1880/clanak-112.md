@@ -1,0 +1,3 @@
+# Članak 112.
+Odjel za prijevoz opasnih tvari obavlja upravne i stručne poslove u vezi obavljanja prijevoza opasnih tvari i vozila kojima se obavlja prijevoz opasnih tvari; regulira osposobljavanja vozača i sigurnosnih savjetnika u prijevozu opasnih tvari; prikuplja i obrađuje podatke o prijevozu opasnih tvari; obavlja administrativne poslove za potrebe Povjerenstva za prijevoz opasnih tvari; sudjeluje u radu međunarodnih tijela nadležnih za prijevoz opasnih tvari u cestovnom prometu; surađuje s drugim nadležnim tijelima i ovlaštenom stručnom organizacijom koja provodi postupak sukladno Međunarodnom sporazumu o prijevozu opasnih tvari (ADR-om); obavlja sve druge poslove iz svoga djelokruga.
+8.1.2. Služba cestovnog prometa

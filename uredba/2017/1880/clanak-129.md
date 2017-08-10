@@ -1,0 +1,3 @@
+# Članak 129.
+Područna jedinica Osijek - Odjel inspekcije cestovnog prijevoza, kao područna jedinica sa sjedištem u Osijeku, obavlja poslove inspekcijskog nadzora nad provedbom propisa iz područja unutarnjeg i međunarodnog prijevoza tereta i putnika u cestovnom prometu, provedbom propisa iz područja prijevoza opasnih tvari u cestovnom prometu, te provedbom propisa iz područja socijalnog zakonodavstva u cestovnom prijevozu. Odjel provodi poslove inspekcijskog nadzora nad provedbom ostalih propisa iz područja cestovnog prometa nad kojima ima nadležnost, te provodi upravne i prekršajne mjere u vezi s kršenjem predmetnih propisa na području Požeško-slavonske, Brodsko-posavske, Osječko-baranjske i Vukovarsko-srijemske županije.
+8.3.1.5. Odjel za mobilne inspekcijske nadzore
