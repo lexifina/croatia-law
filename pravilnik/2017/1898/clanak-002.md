@@ -1,0 +1,5 @@
+## UVJETI KOJE MORA ISPUNJAVATI REFERENTNI CENTAR
+# Članak 2.
+(1) Referentni centar je pravna osoba ili više pravnih osoba koje imaju suglasnost za obavljanje stručnih poslova zaštite okoliša i ovlaštenje za obavljanje djelatnosti uzimanja uzoraka i ispitivanja voda iz područja rada Referentnog centra, ministarstva nadležnog za okoliš, prirodu i vodno gospodarstvo (dalje u tekstu: Ministarstvo).
+(2) Pravna osoba da bi bila određena Referentnim centrom obvezna je uz svoju registriranu znanstveno-istraživačku djelatnost istovremeno ispunjavati tehničke, kadrovske, materijalne i druge potrebne administrativne uvjete, uključujući potrebna ovlaštenja i akreditacije nadležnih tijela za obavljanje poslova ispitivanja, analiziranja, tumačenja i ocjene stanja traženih parametara u opsegu poslova područja Referentnog centra.
+(3) Odluku kojom se pravna osoba određuje Referentnim centrom donosi Vlada Republike Hrvatske, na prijedlog Ministarstva, u skladu s odredbama Zakona o zaštiti okoliša (dalje u tekstu: Zakon) i ovoga Pravilnika (dalje u tekstu: Pravilnik).
