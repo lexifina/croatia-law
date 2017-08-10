@@ -1,0 +1,3 @@
+# Članak 7.
+Ovaj Ugovor stupa na snagu datumom pristupanja Republike Hrvatske Europskoj uniji, pod uvjetom da su do toga datuma ugovorne stranke obavijestile jedna drugu u pisanom obliku, diplomatskim putem, o okončanju njihovih unutarnjih pravnih postupaka potrebnih za stupanje na snagu ovoga Ugovora.
+Ako ugovorne stranke ne obavijeste jedna drugu o okončanju njihovih unutarnjih pravnih postupaka do datuma pristupanja Republike Hrvatske Europskoj uniji, ovaj Ugovor stupa na snagu tridesetog dana od datuma primitka posljednje pisane obavijesti, diplomatskim putem, kojom ugovorne stranke obavješćuju jedna drugu o okončanju njihovih unutarnjih pravnih postupaka potrebnih za stupanje na snagu ovoga Ugovora.
