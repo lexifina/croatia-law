@@ -1,0 +1,4 @@
+# Članak 2.
+U članku 11. stavci 4. i 5. mijenjaju se i glase:
+»(4) Uvoznik ili carinski otpremnik kojeg uvoznik ovlasti obvezan je odmah po prispijeću na granični prijelaz pošiljke voća i povrća koju prati certifikat u skladu s člankom 14. stavkom 1. Provedbene uredbe Komisije (EU) br. 543/2011 ili člankom 6. Provedbene uredbe Komisije (EU) br. 1333/2011 o tome obavijestiti nadležnog fitosanitarnog inspektora. Obavijest se dostavlja u pisanom obliku na obrascu koji je tiskan u Prilogu IV ovoga Pravilnika.
+(5) Ako voće i povrće koje se uvozi ne prati certifikat u skladu s člankom 14. stavkom 1. Provedbene uredbe Komisije (EU) br. 543/2011 ili člankom 6. Provedbene uredbe Komisije (EU) br. 1333/2011, uvoznik ili carinski otpremnik kojeg uvoznik ovlasti obavezan je fitosanitarnom inspektoru umjesto obavijesti iz stavka 4. ovoga članka podnijeti zahtjev iz članka 7. stavka 4. ovoga Pravilnika.«
