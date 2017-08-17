@@ -1,0 +1,2 @@
+# Članak 1.
+U Pravilniku o proglašavanju turističkih općina i gradova i o razvrstavanju naselja u turističke razrede (»Narodne novine«, br. 122/09, 9/10 - isp., 61/10, 82/10, 36/11, 89/11, 146/11, 141/12, 144/12, 38/13, 153/3, 126/15, 15/16, 54/16, 113/16, 26/17, 61/17 i 72/17) u Tabeli 1, u točki XX. MEĐIMURSKA ŽUPANIJA, u popisu općina, u općini Sveti Martin na Muri, za naselje Toplice Sveti Martin na Muri razred B mijenja se u razred A.
