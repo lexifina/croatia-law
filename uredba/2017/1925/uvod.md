@@ -1,0 +1,1 @@
+Na temelju članka 39. stavka 2. i članka 49. stavka 1. Zakona o arhivskom gradivu i arhivima (»Narodne novine«, br. 105/97, 64/00, 65/09, 125/11 i 46/17) i članka 12. stavka 2. Zakona o ustanovama (»Narodne novine«, br. 76/93, 29/97 - ispravak, 47/99 - ispravak i 35/08), Vlada Republike Hrvatske je na sjednici održanoj 4. kolovoza 2017. godine donijela
