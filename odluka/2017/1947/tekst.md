@@ -1,0 +1,6 @@
+I.
+Ovom odlukom donosi se standard kvalifikacije za stjecanje kvalifikacije PRODAVAČ u obrazovnom sektoru EKONOMIJA, TRGOVINA I POSLOVNA ADMINISTRACIJA.
+II.
+Standard kvalifikacije za stjecanje kvalifikacije PRODAVAČ u obrazovnom sektoru EKONOMIJA, TRGOVINA I POSLOVNA ADMINISTRACIJA sastavni je dio ove odluke.
+III.
+Ova odluka stupa na snagu osmoga dana od dana objave u »Narodnim novinama«, a primjenjivat će se na učenike koji će prvi razred srednje škole upisati u 2017./2018. školskoj godini.
