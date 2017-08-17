@@ -1,0 +1,1 @@
+Na temelju članka 45.b stavka 4. Zakona o državnim službenicima (»Narodne novine«, br. 92/05, 142/06, 77/07, 107/07, 27/08, 34/11, 49/11, 150/11, 34/12, 49/12 - pročišćeni tekst, 37/13, 38/13, 1/15, 138/15 - Odluka Ustavnog suda Republike Hrvatske i 61/17), Vlada Republike Hrvatske je na sjednici održanoj 4. kolovoza 2017. godine donijela
