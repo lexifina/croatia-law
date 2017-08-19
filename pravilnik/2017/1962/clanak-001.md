@@ -1,0 +1,3 @@
+# Članak 1.
+U Pravilniku o mjestima ulaska za pošiljke bilja, biljnih proizvoda i drugih nadziranih predmeta koji podliježu fitosanitarnom pregledu pri unošenju iz trećih zemalja (»Narodne novine« br. 90/13, 140/13 i 64/17) članak 2.b mijenja se i glasi:
+»Kao mjesto ulaska za pošiljke plodova agruma rodova Citrus L., Fortunella Swingle i Poncirus Raf. i njihovih križanaca, isključujući plodove vrsta Citrus aurantium L. i Citrus latifolia Tanaka, koji su namijenjeni isključivo za industrijsku preradu u sok, a potječu iz Argentine, Brazila, Južnoafričke Republike ili Urugvaja, određuje se pomorski granični prijelaz Rijeka.«.
