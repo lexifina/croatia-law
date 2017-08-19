@@ -1,0 +1,4 @@
+# Članak 15.
+(1) Mjerni instrumenti i druga oprema iz članka 11. stavka 1. ovoga Pravilnika moraju biti popraćeni prihvaćenim izvješćem o ispitivanju opreme kojim se dokazuje da oprema za mjerenje onečišćujućih tvari iz Priloga 7. Dio I. tablica A. ovoga Pravilnika zadovoljava kriterije prihvatljivosti radnih karakteristika referentnih metoda, osim za PM10, PM2,5 i ukupnu plinovitu živu.
+(2) Izvješća o ispitivanju opreme prema zahtjevima učinkovitosti referentnih metoda izdana u drugim državama članicama sukladno Zakonu o zaštiti zraka prihvaća Državni zavod za mjeriteljstvo, te popis prihvaćenih izviješća objavljuje na vlastitim internetskim stranicama.
+(3) Sakupljači frakcija lebdećih čestica moraju izvedbom impaktora i volumnim protokom zraka zadovoljavati zahtjeve referentnih metoda iz Priloga 7, Dio I. tablica A. ovoga Pravilnika. U protivnom je nužno provesti test ekvivalencije sakupljača.

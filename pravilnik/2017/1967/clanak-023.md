@@ -1,0 +1,7 @@
+# Članak 23.
+(1) Na temelju izvješća iz članka 22. stavka 1. ovoga Pravilnika, Agencija izrađuje godišnje izvješće o stanju kvalitete zraka u Republici Hrvatskoj najmanje za mjerna mjesta za praćenje koncentracija sumporovog dioksida, dušikovog dioksida i dušikovih oksida, lebdećih čestica (PM10 i PM2,5), olova, benzena, ugljikovog monoksida, prizemnog ozona i prekursora ozona, arsena, kadmija, žive, nikla, benzo(a)pirena i drugih policikličkih aromatskih ugljikovodika u zraku koji se koriste za uzajamnu razmjenu informacija i izvješćivanja o kvaliteti zraka između Agencije i Europske komisije, a može se izrađivati po potrebi i za ostala mjerna mjesta te sadržavati po potrebi i druge podatke.
+(2) Izvješće iz stavka 1. ovoga članka sadrži:
+- ocjenu onečišćenosti zraka po onečišćujućim tvarima za svaku zonu i aglomeraciju
+- sažetak razina koje prekoračuju granične vrijednosti, ciljne vrijednosti, dugoročne ciljeve, pragove obavješćivanja i pragove upozorenja, za relevantna vremena usrednjavanja. Taj podatak se kombinira sa sažetom procjenom učinaka tih prekoračenja
+- dodatne podatke i procjene o zaštiti šuma, kada su podaci raspoloživi, kao i podatke o ostalim onečišćujućim tvarima za koje su odredbe o praćenju navedene u ovom Pravilniku, kao što su, između ostalog, neki prekursori prizemnog ozona koji nisu uređeni propisima i koji su navedeni u Uredbi o razinama.
+(2) Godišnju ocjenu onečišćenosti zraka po onečišćujućim tvarima za svaku zonu i aglomeraciju, sukladno Zakonu o zaštiti zraka, osigurava Ministarstvo.

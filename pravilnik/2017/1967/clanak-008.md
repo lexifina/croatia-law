@@ -1,0 +1,2 @@
+# Članak 8.
+Razina onečišćenosti ocjenjuje se na osnovi rezultata mjerenja iz članka 5. ovoga Pravilnika te drugih raspoloživih podataka, kao što su podaci dobiveni modeliranjem prijenosa i disperzije onečišćujućih tvari odgovarajućim atmosferskim modelima, drugim metodama procjene i mjerila koji se primjenjuju temeljem propisa na području Europske unije te podataka iz registra onečišćivanja okoliša.

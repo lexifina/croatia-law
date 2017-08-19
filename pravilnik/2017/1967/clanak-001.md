@@ -1,0 +1,3 @@
+## I. OPĆE ODREDBE
+# Članak 1.
+Ovim se Pravilnikom propisuje način praćenja kvalitete zraka i prikupljanja podataka, mjerila za lokacije mjernih mjesta, mjerila za određivanje minimalnog broja mjernih mjesta, referentne metode mjerenja, način dokazivanja ekvivalentnosti za druge metode mjerenja, način provjere kvalitete mjerenja i podataka, kao i način obrade i prikaza rezultata i usklađenost s hrvatskim normama, način provjere ispravnosti i umjeravanja mjernih instrumenata, način i troškove rada referentnih laboratorija, osnivanje i način rada povjerenstva za praćenje rada referentnih laboratorija, način dostavljanja podataka za potrebe informacijskog sustava zaštite zraka, sadržaj godišnjeg izvješća i način redovitog informiranja javnosti.
