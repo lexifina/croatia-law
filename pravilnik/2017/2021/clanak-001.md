@@ -1,0 +1,3 @@
+## I. OPĆE ODREDBE
+# Članak 1.
+Ovim se Pravilnikom utvrđuju uvjeti, kriteriji i način dodjele potpore u okviru programa potpore za zaštitu i obnovu morske bioraznolikosti i morskih ekosustava te za režime naknade u okviru održivih ribolovnih aktivnosti - kompenzacija za štete na ulovima koju uzrokuju sisavci, u skladu s Uredbom Komisije (EU) br. 1388/2014 оd 16. prosinca 2014. o ocjenjivanju određenih kategorija potpora poduzetnicima koji se bave proizvodnjom, preradom i stavljanjem na tržište proizvoda ribarstva i akvakulture spojivima s unutarnjim tržištem u primjeni članaka 107. i 108. Ugovora o funkcioniranju Europske unije (SL L 369, 24. 12. 2014.) (u daljnjem tekstu: Uredba Komisije (EU) br. 1388/2014).
