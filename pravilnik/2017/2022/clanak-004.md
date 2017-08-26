@@ -1,0 +1,30 @@
+## II. UVJETI PRIHVATLJIVOSTI I OBVEZE KORISNIKA
+## Uvjeti prihvatljivosti
+# Članak 4.
+(1) Za dodjelu potpore, moraju biti ispunjeni sljedeći osnovni uvjeti:
+a) korisnik mora biti vlasnik/ovlaštenik važeće povlastice;
+b) predmet potpore ne smije biti financiran nikakvim drugim javnim izdacima;
+c) korisnik mora imati podmirene financijske obveze prema Državnom proračunu Republike Hrvatske;
+d) korisnik mora dati suglasnost za objavljivanje informacija o dodijeljenoj potpori u skladu sa člankom 6. Uredbe (EU) br. 717/2014.
+(2) Korisnici iz članka 3. alineja 1. i 2. ovoga Pravilnika, moraju ispuniti uz uvjete iz stavka 1. ovoga članka i specifični uvjeti, vezan uz dostavu očevidnika o uzgoju ribe i drugih morskih organizama/popis o akvakulturi za godinu koja prethodi podnošenju Zahtjeva za potporu, sukladno zakonskim i podzakonskim propisima.
+(3) Korisnici iz članka 3. alineje 3. ovoga Pravilnika, moraju ispuniti uz uvjete iz stavka 1. ovoga članka i sljedeće specifične uvjete:
+a) ribarsko plovilo mora posjedovati važeću dozvolu za plovidbu brodice, odnosno važeću Svjedodžbu o sposobnosti broda za plovidbu čime se dokazuje da je plovilo u funkciji;
+b) ribarsko plovilo mora biti upisano u Registar ribarske flote Republike Hrvatske najmanje dvije godine koje prethode podnošenju Zahtjeva za dodjelu državne potpore male vrijednosti (u daljnjem tekstu: Zahtjev za potporu);
+c) u slučaju okružujućih mreža plivarica - srdelara i pridnenih povlačnih mreža koća, ribarsko plovilo mora biti autorizirano u tome segmentu ribolova;
+d) ribarsko plovilo mora imati dostatnu minimalnu ribolovnu aktivnost od ukupno 40 ribolovnih dana ostvarenih u kalendarskoj godini (od 1. siječnja do 31. prosinca prethodne godine) koja prethodi godini podnošenja Zahtjeva za potporu;
+e) ribarsko plovilo mora ostvariti minimalni iskrcaj od 100 kg u kalendarskoj godini koja prethodi godini podnošenja Zahtjeva za potporu.
+(4) Neprihvatljivi su Zahtjevi za potporu korisnika iz članka 3. alineje 3. ovoga Pravilnika ukoliko je:
+a) počinio teški prekršaj na temelju članka 42. stavka 1. Uredbe Vijeća (EZ) br. 1005/2008 od 29. rujna 2008. o uspostavi sustava Zajednice za sprečavanje, suzbijanje i zaustavljanje nezakonitog, neprijavljenog i nereguliranog ribolova, o izmjeni uredaba (EEZ) br. 2847/93, (EZ) br. 1936/2001 i (EZ) br. 601/2004 i o stavljanju izvan snage uredaba (EZ) br. 1093/94 i (EZ) br. 1447/1999 (SL L 286 od 29. 10. 2008.) (u daljnjem tekstu: Uredba (EZ) br. 1005/2008) ili članka 90. stavka 1. Uredbe Vijeća (EZ) br. 1224/2009 od 20. studenoga 2009. o uspostavi sustava kontrole Zajednice za osiguranje sukladnosti s pravilima zajedničke ribarstvene politike, o izmjeni uredbi (EZ) br. 847/96, (EZ) br. 2371/2002, (EZ) br. 811/2004, (EZ) br. 768/2005, (EZ) br. 2115/2005, (EZ) br. 2166/2005, (EZ) br. 388/2006, (EZ) br. 509/2007, (EZ) br. 676/2007, (EZ) br. 1098/2007, (EZ) br. 1300/2008, (EZ) br. 1342/2008 i o stavljanju izvan snage uredbi (EEZ) br. 2847/93, (EZ) br. 1627/94 i (EZ) br. 1966/2006 (SL L 343, 22. 12. 2009.), a što je utvrđeno od strane nadležnog tijela;
+b) vlasnik plovila i/ili ovlaštenik povlastice plovila koje je na Unijinom popisu nezakonitih, neprijavljenih i nereguliranih plovila kako je određeno u članku 40. stavku 3. Uredbe (EZ) br. 1005/2008 ili plovi pod zastavom zemlje s popisa nekooperativnih trećih zemalja iz članka 33. te Uredbe;
+c) počinio teški prekršaj Zajedničke ribarstvene politike koji je kao takav određen u drugom zakonodavstvu koje su donijeli Europski parlament i Vijeće;
+d) počinio prijevaru u okviru Europskog fonda za ribarstvo ili Europskog fonda za pomorstvo i ribarstvo, a sukladno članku 1. Konvencije o zaštiti financijskih interesa Zajednice sastavljene Aktom Vijeća od 26. srpnja 1995. o sastavljanju Konvencije o zaštiti financijskih interesa Zajednice (SL C316, 27. 11. 1995.) (u daljnjem tekstu: Konvencija o zaštiti financijskih interesa).
+(5) Iznimno od stavka 3. točke a) ovog članka, Zahtjev za potporu može biti prihvatljiv ukoliko je korisniku, u odnosu na plovilo koje je predmet tog Zahtjeva za potporu, dodijeljeno manje od devet kaznenih bodova za teške prekršaje navedene u točkama 1., 2. i 5. Priloga XXX. Provedbene uredbe Komisije (EU) br. 404/2011 od 8. travnja 2011. o detaljnim pravilima za provedbu Uredbe Vijeća (EZ) br. 1224/2009 o uspostavi sustava kontrole Zajednice za osiguranje sukladnosti s pravilima zajedničke ribarstvene politike (SL L 112, 30. 4. 2011.) (u daljnjem tekstu: Uredba (EU) br. 404/2011).
+(6) Ako korisnik podnosi više Zahtjeva za potporu za više različitih ribarskih plovila, odredbe stavka 3. točki a) i b) te stavka 4. ovoga članka se primjenjuju u odnosu na pojedinačna plovila koja su predmet potpore, tj. na pojedinačne Zahtjeve za potporu.
+(7) Iznimno od stavka 5. ovoga članka, svi Zahtjevi za potporu koje podnosi korisnik su neprihvatljivi ukoliko je:
+a) više od polovice tih Zahtjeva neprihvatljivo temeljem stavka 3. točki a) i b) te stavka 4. ovoga članka;
+b) prosječan broj kaznenih bodova po plovilu, u odnosu na sva plovila kojima je korisnik vlasnik i/ili ovlaštenik povlastice, neovisno o tome da li su ta plovila predmet potpore, iznosi sedam ili više bodova;
+c) korisnik počinio teški prekršaj koji nije vezan uz niti jedno plovilo kojima je taj korisnik vlasnik i/ili ovlaštenik povlastice;
+d) bilo kojem od plovila kojima je korisnik vlasnik i/ili ovlaštenik povlastice, trajno povučena povlastica sukladno članku 129. stavku 2. Uredbe (EU) br. 404/2011 ili gdje je to primjenjivo, te kao rezultat sankcija za teške prekršaje sukladno članku 45. Uredbe (EZ) br. 1005/2008.
+(8) Neprihvatljivi su Zahtjevi za potporu korisnika iz članka 3. alineje 1. i 2. ovoga Pravilnika ukoliko je:
+a) počinio neko kazneno djelo iz članaka 3. i 4. Direktive 2008/99/EZ Europskog parlamenta i Vijeća od 19. studenoga 2008. o zaštiti okoliša putem kaznenog prava (SL L328, 6. 12. 2008.);
+b) počinio prijevaru u okviru Europskog fonda za ribarstvo ili Europskog fonda za pomorstvo i ribarstvo, a sukladno članku 1. Konvencije o zaštiti financijskih interesa.
