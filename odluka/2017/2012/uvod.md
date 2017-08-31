@@ -1,0 +1,1 @@
+Na temelju članka 5. i članka 6. stavka 1., a u vezi s člankom 87. stavkom 6. Zakona o lokalnim izborima (»Narodne novine«, br. 144/12 i 121/16), Vlada Republike Hrvatske je na sjednici održanoj 24. kolovoza 2017. godine donijela
