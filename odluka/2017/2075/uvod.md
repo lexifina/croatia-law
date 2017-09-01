@@ -1,0 +1,1 @@
+Na temelju članka 41. stavka 3. Zakona o obnovljivim izvorima energije i visokoučinkovitoj kogeneraciji (»Narodne novine«, br. 100/15 i 123/16), Vlada Republike Hrvatske je na sjednici održanoj 31. kolovoza 2017. godine donijela
