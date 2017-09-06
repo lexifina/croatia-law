@@ -1,0 +1,6 @@
+# Članak 1.
+POLITIČKA SURADNJA
+Ugovorne stranke uspostavit će politički dijalog na temelju zaključaka Međunarodne konferencije o Afganistanu održane u Bonnu 5. prosinca 2011. i poštivanja obveza prema primjenjivim međunarodnim ugovorima i konvencijama koji obvezuju ugovorne stranke. Politički dijalog osobito će se usredotočiti na područja bilateralnih odnosa, regionalna i međunarodna pitanja, dobro upravljanje i ljudska prava.
+Hrvatska pozdravlja stalne napore afganistanskog naroda za izgradnju stabilnog, demokratskog društva temeljenog na vladavini prava, u kojemu su ljudska prava, uključujući jednakost svih muškaraca i žena, zajamčena afganistanskim Ustavom. Posebice, ugovorne stranke ponovo potvrđuju svoju opredijeljenost za promicanje i zaštitu prava žena i djevojčica u Afganistanu.
+Ugovorne stranke priznaju važnost političkog rješenja za postizanje mira i sigurnosti u Afganistanu i regiji. Ugovorne stranke priznaju da proces pomirbe moraju predvoditi i njime upravljati Afganistanci te se pomirba mora temeljiti na odricanju od nasilja, prekidu veza s međunarodnim terorizmom i poštivanju afganistanskog Ustava.
+Ugovorne stranke iznova potvrđuju važnost regionalne potpore za pomirbu.

@@ -1,0 +1,12 @@
+# Članak 3.
+SURADNJA U PODRUČJU RAZVOJNE SURADNJE
+Nadograđujući svoju postojeću suradnju, ugovorne stranke ponovo potvrđuju svoju spremnost da rade zajedno i s drugim članovima međunarodne zajednice na ostvarivanju održive razvojne suradnje u skladu s afganistanskim razvojnim prioritetima.
+Ugovorne stranke naglašavaju svoju opredijeljenost za unaprjeđivanje afganistanskih sposobnosti za pružanje osnovnih usluga i gospodarskih prilika afganistanskom narodu.
+Hrvatska razvojna suradnja s Afganistanom podupirat će razvojne prioritete i razvojne strategije Afganistana, u skladu s obvezama preuzetima na konferencijama u Londonu (2010.), Kabulu (2010.), Bonnu (2011.) i Tokiju (2012.).
+Uzimajući u obzir jedinstvene izazove s kojima će se Afganistan suočiti tijekom tranzicije i Desetljeća preobrazbe, ugovorne stranke primaju na znanje namjeru Hrvatske da uznastoji održati aktualnu razinu razvojne pomoći na temelju uzajamne odgovornosti i istinskog partnerstva s afganistanskim partnerima, u skladu s odgovornostima i obvezama utvrđenima na konferencijama održanim u Londonu, Kabulu, Bonnu i Tokiju. Obveze će biti definirane na godišnjoj razini, vodeći računa o sigurnosnom kontekstu, kao i o ostvarenom napretku.
+Hrvatska ponovo potvrđuje da će njezina razvojna suradnja s Afganistanom biti usmjerena na sljedeća područja: demokratska tranzicija nakon sukoba, društveni i gospodarski razvoj i humanitarni odziv. Promicanje rodne jednakosti, ekonomsko osnaživanje žena i obrazovanje djevojčica bit će istaknuti u ovim područjima suradnje.
+Hrvatska će podupirati Afganistan u njegovim naporima za ostvarivanje Održivih razvojnih ciljeva (ORC), s posebnim naglaskom na stvaranju miroljubivog društva, uklanjanju ekstremizma, promicanju pomirbe, kao i međukulturalnog i međureligijskog dijaloga.
+Kao dio svoje razvojne potpore u području učinkovite uprave, Hrvatska će nastaviti pružati potporu Afganistanu posredstvom diplomatskih tečajeva i stipendija.
+Ugovorne stranke će doprinijeti provedbi projekta i ispunjenju programa kroz pružanje odgovarajuće tehničke i financijske potpore, kao i ljudskih potencijala.
+Razvojna suradnja može se provoditi i u drugim područjima na temelju uzajamnog dogovora ugovornih stranaka.
+Dijalog o hrvatsko-afganistanskoj razvojnoj suradnji i odgovarajućim mjerama koje će se poduzimati vodit će se kroz redovite razgovore o razvojnoj suradnji u okviru Zajedničkog povjerenstva za bilateralnu suradnju predviđenog u članku 7. ovoga Sporazuma.
