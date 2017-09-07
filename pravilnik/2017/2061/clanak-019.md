@@ -1,0 +1,12 @@
+# Članak 19.
+(1) Sudionici mogu tijekom jednog upućivanja provesti najdulje 12 mjeseci u operaciji i drugim aktivnostima u inozemstvu.
+(2) Sudionici mogu provesti i dulje od 12 mjeseci u operaciji i drugim aktivnostima u inozemstvu iz tehničkih razloga i ostalih okolnosti koje priječe povratak u Republiku Hrvatsku, dok traju takve okolnosti.
+(3) Na zahtjev zapovjednika snaga, i uz suglasnost načelnika Glavnog stožera Oružanih snaga, u operaciji i drugim aktivnostima u inozemstvu sudionici mogu provesti najdulje 15 mjeseci.
+(4) Za svakih navršenih šest mjeseci sudjelovanja u operaciji i drugim aktivnostima u inozemstvu sudionici, po povratku u Republiku Hrvatsku, ostvaruju pravo na obvezni plaćeni dopust u trajanju od deset radnih dana.
+(5) Kada operacija potpore miru i druge aktivnosti u inozemstvu traju 10 i više mjeseci, Ministarstvo obrane obvezno je sudioniku nakon šest mjeseci omogućiti i financirati jednokratni posjet Republici Hrvatskoj radi korištenja godišnjeg odmora ili plaćenog dopusta u najduljem trajanju od 10 radnih dana, ne računajući vrijeme potrebno za odlazak i povratak u područje operacije (vrijeme putovanja).
+(6) Sudionici upućeni u operacije i druge aktivnosti u inozemstvu imaju pravo na plaćeni dopust u trajanju od ukupno 10 radnih dana i pravo na naknadu troškova prijevoza u slučaju smrti člana uže obitelji.
+(7) Sudionicima upućenima u operacije i druge aktivnosti u inozemstvu može se odobriti plaćeni dopust u trajanju do ukupno 10 radnih dana uz naknadu troškova prijevoza i u slučaju teške bolesti člana uže obitelji.
+(8) Sudionici upućeni u operacije i druge aktivnosti u inozemstvu, ostvaruju pravo i na plaćeni dopust u skladu s pravilima pojedine operacije ili druge aktivnosti u inozemstvu u kojoj su angažirani.
+(9) Dopust ostvaren u skladu s pravilima pojedine operacije ili druge aktivnosti u inozemstvu, ovisno o organizacijskim mogućnostima i sigurnosnim uvjetima, sudionici mogu koristiti u području operacije, Republici Hrvatskoj ili u trećim državama.
+(10) Troškove korištenja dopusta ostvarenog u skladu s pravilima pojedine operacije ili druge aktivnosti u inozemstvu izvan područja operacije, te troškove u području operacije nastale izvan vojnih instalacija snose sami sudionici.
+(11) Odobrenje za korištenje dopusta ostvarenog u skladu s pravilima pojedine operacije ili druge aktivnosti u inozemstvu u području operacije daje najstariji nacionalni predstavnik, a za korištenje dopusta u Republici Hrvatskoj i trećim državama Glavni stožer Oružanih snaga.

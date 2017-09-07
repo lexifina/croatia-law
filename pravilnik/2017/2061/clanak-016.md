@@ -1,0 +1,21 @@
+# Članak 16.
+Glavni stožer Oružanih snaga u vezi sa sudjelovanjem u operacijama i drugim aktivnostima u inozemstvu provodi sljedeće aktivnosti:
+- zapovijeda snagama u operacijama i drugim aktivnostima u inozemstvu
+- predlaže strukturu kontingenta, skupine odnosno tima za operacije i druge aktivnosti u inozemstvu
+- predlaže standarde opremanja
+- predlaže standarde za smještaj i prehranu sudionika u inozemstvu
+- donosi program priprema, usmjerava i koordinira preduputnu obuku te propisuje način ocjenjivanja spremnosti sastavnica kontingenta
+- provodi administrativnu provjeru kandidata
+- nadzire ocjenjivanje spremnosti
+- pokreće postupak provedbe sigurnosne provjere kandidata
+- organizira provedbu zdravstvenih pregleda prije upućivanja i kontrolnih zdravstvenih pregleda po povratku iz operacije i druge aktivnosti u inozemstvu, cijepljenja i imunizacije te obuke iz područja zdravstvene i veterinarske zaštite u skladu s programom posebne zdravstvene zaštite sudionika
+- provodi logističku potporu sudionicima u inozemstvu
+- prati i raščlanjuje situaciju i provedbu zadaća
+- izvješćuje i sudjeluje u izvješćivanju obitelji u slučaju ranjavanja, obolijevanja, pogibije, zarobljavanja ili nestanka sudionika te pruža potporu članovima obitelji sudionika
+- planira, organizira i provodi obavještajne poslove, poslove protuobavještajne zaštite i potpore sigurnosti
+- upućuje pripadnike Oružanih snaga u operacije i druge aktivnosti u inozemstvu i odlučuje o prekidu sudjelovanja i zamjeni sudionika
+- priprema i donosi akt o prijenosu ovlasti operativnog i taktičkog zapovijedanja i nadzora nad postrojbama i pripadnicima Oružanih snaga na nadležna međunarodna ili nacionalna zapovjedništva i zapovjednike u operacijama, uz prethodnu suglasnost ministra obrane
+- odlučuje o izuzećima uporabe Oružanih snaga i daje nacionalnu suglasnost za uporabu
+- izrađuje plan komunikacijsko-informacijske potpore te prati njegovu realizaciju
+- po potrebi prikuplja i izrađuje opis poslova pojedine dužnosti
+- planira, organizira i provodi preduputnu obuku nacionalnih obavještajnih skupina i timova.
