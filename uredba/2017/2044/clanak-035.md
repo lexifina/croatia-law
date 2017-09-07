@@ -1,0 +1,6 @@
+# Članak 35.
+Služba za upravljanje visokim učilištima obavlja poslove vezane uz vođenje i razvoj djelatnosti visokih učilišta primjenom stručnih i znanstvenih dostignuća; obavlja poslove vezano uz angažman nastavnika i ostalih djelatnika visokih učilišta sukladno zakonom propisanim uvjetima. Služba vodi baze podataka o upisanim studentima, nastavnicima, te ostalim zaposlenicima visokih učilišta; koordinira pristup podacima iz informacijskog sustava visokih učilišta; sudjeluje u poslovima pripreme i provedbe programskih ugovora iz svoje nadležnosti; koordinira prijedlog proračuna visokih učilišta, prati i analizira izdatke za zaposlene i troškove poslovanja visokih učilišta; obavlja poslove strateškog planiranja, organiziranja i razvoja informacijske infrastrukture u visokom obrazovanju te strateško praćenje i analizu prostornih resursa visokih učilišta. Služba sudjeluje u razvoju kapaciteta visokih učilišta vezanih uz financiranje i uz provedbu strategija razvoja visokih učilišta. Služba obavlja i druge poslove iz svoga djelokruga.
+U Službi za upravljanje visokim učilištima, ustrojavaju se:
+4.1.1.1. Odjel za financiranje visokog obrazovanja i visokih učilišta
+4.1.1.2. Odjel za analizu i praćenje infrastrukturnih resursa visokog obrazovanja.
+4.1.1.1. Odjel za financiranje visokog obrazovanja i visokih učilišta

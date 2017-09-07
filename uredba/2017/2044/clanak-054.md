@@ -1,0 +1,3 @@
+# Članak 54.
+Odjel za regulirane profesije obavlja i prati poslove vezane uz priznavanje prava na pristup i rad u reguliranim profesijama predškolskog, osnovnoškolskog i srednjoškolskog odgoja i obrazovanja. Obavlja i druge poslove vezano uz priznavanje reguliranih profesija za predškolske, osnovnoškolske i srednjoškolske ustanove. Obavlja upravne i stručne poslove vezane za osnivanje povjerenstava iz svoga djelokruga te koordiniranje njihova rada. Odjel surađuje s drugim unutarnjim ustrojstvenim jedinicama Ministarstva, državnim tijelima, agencijama, institucijama, ustanovama i korisnicima u dijelu poslova Odjela. Odjel obavlja i druge poslove iz svoga djelokruga.
+5.2. Sektor za srednjoškolski odgoj i obrazovanje i obrazovanje odraslih

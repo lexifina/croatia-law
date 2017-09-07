@@ -1,0 +1,6 @@
+# Članak 14.
+Služba za kapitalne investicije i računovodstvo planira i izrađuje prijedloge programa za financiranje i sufinanciranje kapitalnih izdataka i posebnih programa, prati izgradnju, rekonstrukciju, adaptaciju i opremanje ustanova iz djelokruga Ministarstva, prikuplja i ujedinjuje podatke za izradu projekcije proračunskih sredstava, te predlaže odgovarajuća programska rješenja, priprema podloge za bilanciranje i realizaciju sredstava u fondu poravnanja za kapitalna ulaganja u obrazovanju, priprema podloge za bilanciranje potreba i iznose minimalnog financijskog standarda u dijelu kapitalnih ulaganja u osnovnom i srednjem obrazovanju, te realizira decentralizirana sredstva za ove namjene fondom izravnanja. Sukladno odredbama zakona i podzakonskih akata, obavlja knjigovodstveno-računovodstvene poslove praćenja poslovanja Ministarstva, obračunava plaće i druge naknade sukladno kolektivnom ugovoru za zaposlenike Ministarstva. Služba obavlja i druge poslove iz svoga djelokruga.
+U Službi za kapitalne investicije i računovodstvo, ustrojavaju se:
+2.2.2.1. Odjel za računovodstvo i knjigovodstveno-analitičke poslove
+2.2.2.2. Odjel za kapitalne investicije i decentralizirane funkcije.
+2.2.2.1. Odjel za računovodstvo i knjigovodstveno-analitičke poslove

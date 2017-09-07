@@ -1,0 +1,2 @@
+# Članak 85.
+Odjel za upravni nadzor obavlja upravne i stručne poslove koji se odnose na provedbu upravnog nadzora nad zakonitošću rada i općih akata visokih učilišta, drugih znanstvenih organizacija i ustanova iz djelokruga Ministarstva te upravnog nadzora nad provedbom zakona i drugih propisa te zakonitosti rada i postupanja državnih upravnih organizacija i javnih ustanova u povjerenim im poslovima državne uprave. Odjel obavlja i druge poslove iz svoga djelokruga.
