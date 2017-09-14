@@ -1,0 +1,1 @@
+Na temelju članka 56. stavaka 1. i 2. Zakona o genetski modificiranim organizmima (»Narodne novine«, br. 70/05, 137/09, 28/13 i 47/14), Vlada Republike Hrvatske je na sjednici održanoj 14. rujna 2017. godine donijela
