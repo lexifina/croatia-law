@@ -1,0 +1,28 @@
+# Članak 2.
+Glavna područja suradnje bit će:
+- zaštita prirode, upravljanje i planiranje zaštićenih područja te rezervata biosfere;
+- usklađivanje nacionalnog zakonodavstva s pravnom stečevinom Europske unije o zaštiti okoliša;
+- procjena utjecaja na okoliš (posebno infrastrukturnih i industrijskih projekata) i strateška procjena utjecaja na okoliš;
+- sprječavanje i kontrola onečišćenja okoliša;
+- sprječavanje, spremnost i reagiranje na učinke velikih industrijskih nesreća;
+- integrirano upravljanje obalnim područjem;
+- onečišćenje voda i gospodarenje vodama;
+- industrijsko, poljoprivredno, onečišćenje iz kućanstava i onečišćenje iz energetskih objekata;
+- tehnike pošumljavanja;
+- tehnike postupanja s presadnicama;
+- obnova pašnjaka;
+- zaštita tla;
+- upravljanje slivovima i njihova obnova;
+- tehnike kontrole lavina i klizišta;
+- uspostava i korištenje informacijskog sustava okoliša;
+- nacionalna i regionalna izvješća o stanju okoliša;
+- obrazovanje za okoliš;
+- gospodarenje otpadom (otpad iz kućanstava, opasni otpad, medicinski otpad, posebni otpad, ambalažni otpad, rudarski otpad i otpad iz energetskih objekata);
+- gospodarenje kemikalijama;
+- obnovljivi izvori energije;
+- održivo gospodarenje šumama;
+- planiranje korištenja zemljišta;
+- suzbijanje erozije tla;
+- očuvanje biološke raznolikosti;
+- klimatske promjene;
+- bilo koje drugo područje za koje stranke smatraju da je od zajedničkog interesa.

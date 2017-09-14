@@ -1,0 +1,7 @@
+# Članak 5.
+Nakon stupanja na snagu ovog Sporazuma stranke će uspostaviti Hrvatsko-turski zajednički odbor za zaštitu okoliša, prirode, voda i šuma (u daljnjem tekstu Odbor), koji će biti nadležan za organizaciju suradnje koja će se odvijati u okviru ovog Sporazuma.
+Odbor će svoju aktivnost provoditi na temelju svojih pravila postupka koja će biti odobrena na prvom sastanku Odbora.
+Odbor će se sastojati od najviše sedam predstavnika nadležnih ministarstava i institucija svake stranke.
+Svaka stranka će u roku od mjesec dana po stupanju ovog Sporazuma na snagu imenovati svog supredsjedatelja Odbora. Prvo zasjedanje Odbora održat će se u roku šest mjeseci od dana stupanja na snagu ovog Sporazuma.
+Odbor će izrađivati dvogodišnje Programe rada koji će sadržavati konkretnu razradu aktivnosti suradnje predviđenih u članku 2. ovog Sporazuma. U ovim dvogodišnjim Programima rada bit će opisan opseg aktivnosti suradnje, isporuke i datumi isporuke (ukoliko postoje), proizvodi i rezultati, razina financiranja i sredstva koja svaka stranka treba osigurati za svaku takvu aktivnost te svi ostali aspekti aktivnosti koje će koordinator smatrati prikladnim.
+Odbor će se sastajati najmanje jednom godišnje naizmjenično na području Republike Hrvatske i Republike Turske. Odbor može na zahtjev jedne od stranaka održati posebne sastanke na državnom području stranke koja je dala inicijativu za sastanak ako nije dogovoreno drugačije.
