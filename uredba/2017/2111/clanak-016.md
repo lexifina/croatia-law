@@ -1,0 +1,5 @@
+# Članak 16.
+Naslov iznad članka 108. i članak 108. mijenjaju se i glase:
+»6.1.4.2. Odjel za evaluaciju i analitiku
+Članak 108.
+Odjel za evaluaciju i analitiku obavlja stručne, administrativne i upravno-pravne poslove koji se odnose na evaluaciju utvrđenih mjera, uvjeta i planova provedbe operativnih programa, pripremu i provedbu internih, ad-hoc i interim evaluacija te sudjelovanje u ex-ante, ex-post i drugim vanjskim evaluacijama povezanim s provedbom operativnih programa. Odjel prikuplja i analizira statističke, financijske, ekonomske i društvene podatke i pokazatelje temeljem unutarnjih i vanjskih izvora, izrađuje analitičke podloge i smjernice za strateške, programske i operativne dokumente. Odjel priprema priručnike o internim procedurama za provedbu svojih funkcija i brine o odgovarajućem revizijskom tragu; obavlja stručne, administrativne i upravno-pravne poslove koji se odnose na pripremu i planiranje godišnjih i višegodišnjih planova i programa rada te obavlja druge poslove iz svog djelokruga.«.

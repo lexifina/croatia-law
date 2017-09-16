@@ -1,0 +1,8 @@
+# Članak 25.
+Naslov iznad članka 117. i članak 117. mijenjaju se i glase:
+»6.3. Sektor za kontrolu kvalitete i podršku sustavu
+Članak 117.
+Sektor za kontrolu kvalitete i podršku sustavu obavlja stručne i administrativne poslove vezane uz kontrolu kvalitete pripremljene natječajne dokumentacije te kontrolu usklađenosti postupka ocjenjivanja kvalitete projektnih prijedloga s propisanom metodologijom za projektne prijave koje se financiraju sredstvima iz ESI fondova, a u cilju potpune primjene načela jednakog tretmana i proporcionalnosti te općeg načela dobrog financijskog upravljanja. Sektor obavlja stručne, administrativne i upravno-pravne poslove koji se odnose na unapređenje procedura i koordinaciju revizija, kao i korištenje sredstava tehničke pomoći te priprema strategiju organizacijskog razvoja, osigurava odgovarajući revizijski trag; priprema analize radne opterećenosti te druge analize kojima se utvrđuju potrebe za ljudskim i materijalnim resursima PT1, vodi odgovarajuće registre zaposlenika i ostale evidencije koje se tiču upravljanja ljudskim potencijalima PT1; provodi redovne analize rizika za PT1; vodi registar rizika, sudjeluje u upravljanju nepravilnostima, provodi aktivnosti prevencije, otkrivanja i ispravljanja nepravilnosti, priprema Akcijske planove za ublažavanje rizika i utvrđuje mjere za suzbijanje prijevara temeljem analize rizika, izrađuje Godišnju procjenu rizika svih aktivnosti PT1, podnosi Godišnje izvješće o procjeni rizika te obavlja i druge poslove u okviru svoga djelokruga.
+U Sektoru za kontrolu kvalitete i podršku sustavu se ustrojavaju sljedeće službe:
+6.3.1. Služba za kontrolu kvalitete
+6.3.2. Služba za podršku sustavu.«.
