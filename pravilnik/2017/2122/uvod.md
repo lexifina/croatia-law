@@ -1,0 +1,1 @@
+Na temelju članka 71. stavka 8. Zakona o obrtu (»Narodne novine«, broj 143/2013) i članka 16. stavak 3. Zakona o reguliranim profesijama i priznavanju inozemnih stručnih kvalifikacija (»Narodne novine«, broj 82/2015), potpredsjednica Vlade Republike Hrvatske i ministrica gospodarstva, poduzetništva i obrta, donosi

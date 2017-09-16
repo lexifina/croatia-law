@@ -1,0 +1,10 @@
+# Članak 3.
+(1) Ministarstvo nakon provedenog postupka iz članka 2. ovog Pravilnika, kojim se utvrđuje ispunjavanje uvjeta za priznavanje inozemne stručne kvalifikacije, donosi rješenje.
+(2) Rješenje o zahtjevu za priznavanje inozemne stručne kvalifikacije o stečenom majstorskom zvanju i njezinih pojedinih dijelova dostavlja se podnositelju zahtjeva u roku od 90 dana od dana zaprimanja urednog zahtjeva za priznavanje inozemne stručne kvalifikacije o stečenom majstorskom zvanju i njezinih pojedinih dijelova.
+(3) Ako se utvrdi da je zahtjev za priznavanje inozemne stručne kvalifikacije o stečenom majstorskom zvanju i njezinih pojedinih dijelova nepotpun, Ministarstvo će u roku od 15 dana od dana podnošenja zahtjeva o tome pisanim putem obavijestiti podnositelja zahtjeva i pozvati ga da dopuni zahtjev u roku od 90 dana.
+(4) Protek roka od 15 dana iz stavka 3. ovoga članka nema za posljedicu nastup neoborive zakonske presumpcije o usvajanju zahtjeva iz članka 19. stavka 6. Zakona o reguliranim profesijama i priznavanju inozemnih stručnih kvalifikacija.
+(5) Odredba iz stavka 4. ovoga članka utemeljena je na članku 40. stavku 2. Zakona o općem upravnom postupku (»Narodne novine«, broj 47/09) prema kojem se postupak koji se pokreće na zahtjev stranke smatra pokrenutim u trenutku predaje urednog zahtjeva stranke.
+(6) Ako podnositelj zahtjeva pozivu iz stavka 3. ovoga članka ne udovolji, zahtjev će se odbaciti kao nepotpun, osim ako podnositelj zahtjeva opravda razloge propuštanja roka.
+(7) U slučaju prekoračenja roka iz stavka 2. ovoga članka smatrat će se da je zahtjev usvojen. Podnositelj zahtjeva u tom slučaju ima pravo tražiti od Ministarstva da donese rješenje kojim se utvrđuje da je njegov zahtjev usvojen.
+(8) Ministarstvo je dužno izdati rješenje iz stavka 7. ovoga članka u roku od 8 dana od dana podnošenja zahtjeva.
+(9) Rješenje o priznavanju inozemne stručne kvalifikacije donosi se u pisanome obliku, upravni je akt i izrađuje se u skladu s propisom koji uređuje opći upravni postupak.

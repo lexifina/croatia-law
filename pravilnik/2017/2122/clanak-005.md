@@ -1,0 +1,7 @@
+# Članak 5.
+(1) Provjera kompetentnosti obuhvaća provjeru stručnog znanja i vještina radi utvrđivanja kompetentnosti kandidata za obavljanje poslova regulirane profesije u području vezanih obrta u Republici Hrvatskoj.
+(2) Provjera kompetentnosti iz stavka 1. ovoga članka utvrđuje se usporedbom stručnog usavršavanja koje je za obavljanje regulirane profesije propisano u Republici Hrvatskoj i onog koje se zahtijeva u državi članici u kojoj je kandidat stekao svoje kvalifikacije, odnosno iz koje dolazi.
+(3) Dopunska mjera provjere kompetentnosti utvrđuje se privremenim rješenjem koje u roku od 60 dana od dana primitka potpunog zahtjeva donosi Ministarstvo.
+(4) U privremenom rješenju utvrđuje se rok za polaganje pojedinih dijelova majstorskog ispita pri Hrvatskoj obrtničkoj komori, kojim se kandidatu omogućava prvi izlazak na ispit provjere kompetentnosti u roku od 6 mjeseci od dana donošenja privremenog rješenja te dijelovi majstorskog ispita koji podliježu provjeri kompetentnosti, a nisu obuhvaćeni kandidatovim dokazima o stručnoj kvalifikaciji, ali su bitni za bavljenje reguliranom profesijom u Republici Hrvatskoj.
+(5) Protiv privremenog rješenja iz stavka 3. ovoga članka kandidat nema pravo žalbe, ali može pokrenuti upravni spor pred nadležnim upravnim sudom.
+(6) Nakon uspješno završene provjere kompetentnosti Hrvatska obrtnička komora kandidatu izdaje potvrdu o položenim dijelovima majstorskog ispita.
