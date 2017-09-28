@@ -1,0 +1,5 @@
+## Razmjena pogonskih iskustava
+# Članak 7.
+(1) Program povratnih informacija o pogonskim iskustvima propisuje da radnici izvješćuju o svim događajima te ih potiče da prijave i izbjegnute događaje. Radnici ne smiju biti izloženi riziku od sankcija zbog podnošenja takvih izvješća.
+(2) Informacije proizašle iz pogonskih iskustava dostavljaju se radnicima uključenim u postupke održavanja, proizvodnje, tehničke podrške, upravljačkog sustava, profesionalne obuke i fizičke zaštite nuklearnog postrojenja.
+(3) Nositelj odobrenja za nuklearno postrojenje dužan je s relevantnim međunarodnim organizacijama te nacionalnim i stranim nuklearnim postrojenjima razmjenjivati informacije iz pogonskih iskustava. Nositelj odobrenja za nuklearno postrojenje po potrebi vezu održava kontakt s inženjerima dobavljačima i istraživačkim organizacijama uključenim u projektiranje i izgradnju postrojenja, radi razmjene informacija o pogonskim iskustvima i po potrebi savjeta u slučaju kvara SSK-a, propadanja ili nenormalnih događaja.
