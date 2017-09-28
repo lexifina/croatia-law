@@ -1,0 +1,6 @@
+# Članak 4.
+(1) Naknadu za nedovoljno izdvojenu i/ili neodržavanu obveznu pričuvu na računima likvidnih potraživanja HNB obračunava pet dana nakon isteka razdoblja održavanja obvezne pričuve.
+(2) Naknada za nedovoljno izdvojenu obveznu pričuvu plaća se za sve dane, uključujući i neradne dane, tijekom kojih je stanje izdvojene obvezne pričuve kod HNB-a bilo manje od iznosa obvezne pričuve koji je bilo potrebno izdvojiti.
+(3) Naknada za neodržavanu obveznu pričuvu obračunava se za iznos sredstava koja su prosječno nedostajala na računima koji su propisani za održavanje obvezne pričuve. Za tako izračunati iznos naknada se obračunava za sve dane razdoblja održavanja obvezne pričuve za koje se izrađuje obračun, uključujući radne i neradne dane.
+(4) Kreditne institucije iz članka 2. ove Odluke dužne su naknadu prema obračunu iz stavaka 1., 2. i 3. ovog članka platiti najkasnije osam dana nakon isteka razdoblja održavanja obvezne pričuve.
+(5) Iznimno od stavaka 1., 2. i 3. ovog članka, ako u postupku supervizije HNB utvrdi nedovoljno izdvojenu i/ili neodržavanu obveznu pričuvu za protekla razdoblja održavanja obvezne pričuve, sastavit će poseban obračun za plaćanje naknade, i to za sva razdoblja za koja su uočene nepravilnosti.
