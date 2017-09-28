@@ -1,0 +1,4 @@
+## VI. ULAZNI PODACI ZA POVREMENI SIGURNOSNI PREGLED
+# Članak 17.
+(1) Da bi se moglo pristupiti povremenom sigurnosnom pregledu, projektne osnove nuklearnog postrojenja te determinističke i probabilističke analize moraju se na odgovarajući način dokumentirati. Ukoliko spomenuta dokumentacija nije ažurirana ili nije dostupna, prije izvođenja povremenog sigurnosnog pregleda potrebno je poduzeti mjere kojima će se takvi nedostaci ukloniti i to kroz projekte neovisne od povremenog sigurnosnog pregleda.
+(2) Ako se u povremenom sigurnosnom pregledu koriste rezultati relevantnih studija, rutinskih procjena i posebnih sigurnosnih pregleda te aktivnosti vezane za izdavanje dozvola, usklađenost ili postupke, oni moraju biti na odgovarajući način navedeni i dostupni, a njihova uporaba mora biti opravdana.

@@ -1,0 +1,3 @@
+# Članak 28.
+(1) Pregledom provođenja sigurnosnih mjera utvrđuje se postoji li, prema indikatorima provedbe sigurnosnih mjera u nuklearnom postrojenju i evidencijama pogonskih iskustava, uključujući procjenu uzroka događaja, potreba za poboljšanjem sigurnosti.
+(2) Neovisno o odredbama članka 12. stavka 3. ovoga Pravilnika, zapisi o ozračenju i radioaktivnim otpadnim vodama pregledavaju se u svrhu sigurnosne učinkovitosti kako bi se utvrdilo jesu li unutar dozvoljenih granica, jesu li najniže razumno moguće i upravlja li se njima pravilno, i to ispitivanjem konkretnih podataka o ozračivanju i radioaktivnim otpadnim vodama te ispitivanjem učinkovitosti postojećih mjera zaštite od zračenja.

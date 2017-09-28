@@ -1,0 +1,2 @@
+# Članak 27.
+Pregledom analize opasnosti utvrđuje se primjerenost zaštite nuklearnog postrojenja od unutarnjih i vanjskih opasnosti uzimajući u obzir projekt nuklearnog postrojenja, karakteristike područja, stvarno stanje objekata, sustava, dijelova i opreme važnih za sigurnost i njihovo previđeno stanje na kraju razdoblja pokrivenog povremenim sigurnosnim pregledom te trenutne analitičke metode, standarde sigurnosti i znanja.
