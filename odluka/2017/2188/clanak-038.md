@@ -1,0 +1,6 @@
+# Članak 38.
+(1) HNB može u slučaju povrede obveze druge ugovorne strane iz bilo koje transakcije sklopljene na temelju ove Odluke ili povrede dužnosti iz članka 43. (uključujući dostavu netočnih, nepotpunih ili neistinitih informacija) i članka 44. stavaka 1. i 2. ove Odluke drugoj ugovornoj strani onemogućiti na određeno ili neodređeno vrijeme pristup svim ili nekim operacijama monetarne politike HNB-a.
+(2) Mjere iz stavka 1. ovog članka HNB primjenjuje neovisno o drugim posljedicama povrede uređenima ovom Odlukom, Okvirnim ugovorom za kreditne operacije i Okvirnim repo ugovorom.
+(3) Pri određivanju mjere iz stavka 1. ovog članka HNB će voditi računa o njezinoj razmjernosti u odnosu na vrstu povrede, transakciju kod koje je povreda počinjena, prethodno izvršavanje obveza i dužnosti druge ugovorne strane te značenje povrede.
+(4) HNB će mjere iz stavka 1. ovog članka primjenjivati na nediskriminirajući način.
+(5) Mjere iz stavka 1. ovog članka HNB primjenjuje pri odlučivanju o prihvatu ponude na standardnoj aukciji, pri najavi brze aukcije ili, ovisno o slučaju, pri odlučivanju o prihvatu ponude na brzoj aukciji odnosno pri pojedinačnom pozivu u operacijama na otvorenom tržištu te pri odlučivanju o zahtjevu druge ugovorne strane kod stalno raspoloživih mogućnosti.

@@ -1,0 +1,6 @@
+## Postupanje u slučaju isključivanja vrijednosnog papira iz Liste prihvatljivih vrijednosnih papira
+# Članak 34.
+(1) Ako HNB isključi iz Liste prihvatljivih vrijednosnih papira neki vrijednosni papir koji se nalazi u skupu prihvatljive imovine, vrijednost tog vrijednosnog papira neće se više uračunavati u vrijednost skupa prihvatljive imovine.
+(2) Ako u slučaju isključenja vrijednosnog papira iz Liste prihvatljivih vrijednosnih papira, vrijednost skupa prihvatljive imovine druge ugovorne strane premašuje iznos potraživanja HNB-a prema toj drugoj ugovornoj strani, HNB će isti dan drugoj ugovornoj strani prenijeti isključene vrijednosne papire.
+(3) Ako u slučaju isključenja vrijednosnog papira iz Liste prihvatljivih vrijednosnih papira vrijednost skupa prihvatljive imovine druge ugovorne strane padne ispod iznosa potraživanja HNB-a prema toj drugoj ugovornoj strani, HNB će drugoj ugovornoj strani uputiti poziv za pokriće u vrijednosti jednakoj iznosu te razlike, u skladu s člankom 32. stavkom 3. ove Odluke.
+(4) Nakon što druga ugovorna strana poveća vrijednost skupa prihvatljive imovine po pozivu za pokriće iz stavka 3. ovog članka, HNB će drugoj ugovornoj strani prenijeti isključene vrijednosne papire.

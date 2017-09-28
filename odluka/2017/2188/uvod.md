@@ -1,0 +1,1 @@
+Na temelju članka 9. stavka 2., članka 10., članka 11. stavaka 1. i 3., članka 16. stavaka 1. i 2. i članka 42. stavka 3. točke 5. Zakona o Hrvatskoj narodnoj banci (»Narodne novine«, br. 75/2008. i 54/2013.) Savjet Hrvatske narodne banke na sjednici održanoj 13. rujna 2017. donio je
