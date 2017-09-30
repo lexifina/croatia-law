@@ -1,0 +1,3 @@
+# Članak 8.
+(1) Osobama koje svojim ponašanjem uznemiravaju ostale osobe ili remete javni red i mir nije dozvoljen pristup na kolodvor ili stajalište na prostorima predviđenima za putnike ili ostale osobe i u vlakovima za prijevoz putnika.
+(2) Osobe koje su ovlaštene za održavanje unutarnjeg reda željezničkog sustava (u daljnjem tekstu: ovlašteni željeznički radnici) dužne su nakon upozorenja udaljiti osobe navedene u stavku 1. ovog članka iz prostora namijenjenima putnicima, odnosno udaljiti ih iz vlaka kod prvog redovnog stajanja u kolodvoru ili stajalištu bez prava na povrat troškova putne karte za dio neizvršenog putovanja.
