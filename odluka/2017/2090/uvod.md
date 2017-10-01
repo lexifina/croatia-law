@@ -1,0 +1,1 @@
+Na temelju članka 6.a stavka 2. Zakona o smanjenju mirovina određenih, odnosno ostvarenih prema posebnim propisima o mirovinskom osiguranju (»Narodne novine«, br. 71/10, 130/11 i 157/13), Vlada Republike Hrvatske je na sjednici održanoj 31. kolovoza 2017. godine donijela
