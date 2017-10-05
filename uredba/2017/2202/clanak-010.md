@@ -1,0 +1,3 @@
+# Članak 10.
+Pododsjek pisarnice obavlja administrativne i tehničke poslove vezane za primitak i raspoređivanje pošte; vođenje urudžbenog zapisnika i upisnika predmeta upravnog postupka, internu dostavu, otpremu pošte, stručne i tehničke poslove koji se odnose na arhiviranje i čuvanje registraturne građe, te i druge upravno-stručne i administrativne poslove pisarnice i pismohrane; poslove provođenja preventivnih mjera za zaštitu od požara, provođenje zaštite na radu, vođenja očevidnika o ozljedi na radu; vođenja evidencije o ugovorima i policama osiguranja službenika i namještenika; te obavlja i druge poslove iz svoga djelokruga.
+2.2. Sektor za financije, proračun i ljudske potencijale

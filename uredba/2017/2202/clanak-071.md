@@ -1,0 +1,3 @@
+# Članak 71.
+Odjel za kategorizaciju sudjeluje u izradi propisa o razvrstavanju i kategorizaciji ugostiteljskih objekata i posebne oznake; sudjeluje u izradi i provodi propise o razvrstavanju i kategorizaciji turističkih objekata; sudjeluje u izradi zaključaka, rješenja i drugih akata vezano uz postupak kategorizacije; daje stručna mišljenja o pitanjima iz djelokruga Odjela i surađuje s nadležnim uredima državne uprave u županijama i drugim tijelima; prati stanje kategoriziranih objekata i predlaže mjere za poboljšanje propisa o razvrstavanju i kategorizaciji; izrađuje periodične izvještaje i analize iz svoga djelokruga, te obavlja i druge poslove u okviru svoga djelokruga.
+6.2.1.2. Odjel za nadzor kategorizacije
