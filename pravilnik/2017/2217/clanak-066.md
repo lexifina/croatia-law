@@ -1,0 +1,11 @@
+## Povrat sredstava
+# Članak 66.
+(1) Po raskidu Ugovora, cjelokupna isplaćena sredstva Agencije za plaćanja za provedbu Podmjere 19.3. i Podmjere 19.4. postaju dospjelima u cijelosti, uključujući i sredstva isplaćena LAG-u po osnovi provedbe Podmjere 19.2. ako se isti pojavljuje kao nositelj projekta.
+(2) LAG je dužan vratiti Agenciji za plaćanja djelomično isplaćena sredstva temeljem Ugovora u slučaju ako:
+- se utvrdi administrativna greška preplate/krive isplate ili bilo koja druga administrativna greška učinjena od strane Agencije za plaćanja, a da je jasno utvrđeno kako se radi o neopravdano isplaćenom izdatku na koje odabrani LAG nema pravo
+- se od dana donošenja Odluke o dodjeli sredstava iz članka 43. stavka 1. ovoga Pravilnika do proteka roka od pet (5) godina od dana konačne isplate sredstava utvrdi da je prilikom odabira projekata prekršeno jedno od načela iz članka 35. stavka 1. ovoga Pravilnika, Agencija za plaćanja će tražiti povrat sredstava od odabranog LAG-a za iznos nepravilnog izdatka
+- je utvrđeno da je nakon završetka provedbe Podmjere 19.2. i Podmjere 19.3. za aktivnosti tekućih troškova i animacije isplaćeno više od 25% iznosa potpore u odnosu na iznos isplaćen za projekte/operacije kroz provedbu Podmjere 19.2. i Podmjere 19.3., pri čemu će Agencija za plaćanja tražiti povrat više isplaćenih sredstava
+- je utvrđeno da su pojedini troškovi nepravilno isplaćeni, odnosno kada je utvrđena nepravilnost koja ima financijski učinak, a sredstva su već isplaćena odabranom LAG-u pri čemu će Agencija za plaćanja tražiti povrat utvrđenog nepravilnog iznosa ili prilikom izdavanja sljedeće Odluke o isplati umanjiti iznos sredstava za isplatu za nepravilno isplaćeni iznos
+- ne postoji mogućnost umanjenja dodijeljene potpore za provedbu Podmjere 19.3. ili Podmjere 19.4., Agencija za plaćanja će zatražiti povrat sredstava za iznos sredstava koji nije moguće umanjiti i
+- kontrola na terenu utvrdi nepravilnost vezanu uz aktivnost.
+(3) U slučaju situacija iz stavaka 1. i 2. ovoga članka, Agencija za plaćanja izdaje Odluku o povratu sredstava, temeljem koje je LAG dužan vratiti isplaćena sredstva javne potpore u roku trideset (30) dana od dana primitka Odluke o povratu sredstava ili u slučaju prigovora trideset (30) dana od dana zaprimanja odluke Povjerenstva za rješavanje po prigovorima (u daljnjem tekstu: Povjerenstvo).

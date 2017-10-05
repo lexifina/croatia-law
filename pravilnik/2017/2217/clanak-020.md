@@ -1,0 +1,9 @@
+## Izmjena Ugovora o dodjeli sredstava odabranom LAG-u
+# Članak 20.
+(1) U slučaju da Agencija za plaćanja odobri promjenu podataka koji nastanu nakon stupanja na snagu Ugovora, a vezanu za podatke koji su sastavni dio Ugovora, Agencija za plaćanja i odabrani LAG sklapaju Aneks Ugovora kojim uređuju međusobna prava i obveze. Aneksu Ugovora prethodi Odluka o izmjeni Odluke o odabiru LAG-a.
+(2) U slučaju promjene podataka koji se odnose na adresu sjedišta LAG-a, ime i prezime osobe ovlaštene za zastupanje LAG-a, naselja u sklopu LAG-a, članova službenih tijela LAG-a i ostalih podataka iz Evidencije korisnika, Aneks Ugovora se neće sklapati, već će se LAG-u izdati Odluka o odobrenju promjene ili obavijest da su promjene odobrene ako je riječ o promjenama podataka iz Evidencije korisnika.
+(3) Iznimno, ako promjene navedene u stavku 2. ovoga članka utječu na promjenu ugovorene potpore, neovisno o tipu promjene, Agencija za plaćanja i LAG će sklopiti Aneks Ugovora.
+(4) Odabrani LAG nema pravo na povećanje potpore, osim u slučajevima naknadnog dodjeljivanja iznosa potpore na temelju sustava nagrađivanja, sukladno članku 4. stavku 6. ovoga Pravilnika.
+(5) U slučaju promjena iniciranih od strane Agencije za plaćanja, bilo da se iste odnose na Ugovor i/ili administrativne pogreške učinjene prilikom izrade Ugovora i/ili bilo kojeg akta koji je u izravnoj ili neizravnoj vezi s Ugovorom, ugovorne strane sklopit će Aneks Ugovora.
+(6) Odabrani LAG je obvezan vratiti jedan (1) potpisani primjerak Aneksa Ugovora sa javnobilježničkom ovjerom ovlaštene osobe za zastupanje odabranog LAG-a u roku pet (5) dana od dana zaprimanja Aneksa Ugovora. Troškove ovjere potpisa snosi odabrani LAG.
+(7) Ako odabrani LAG ne postupi u skladu sa stavkom 6. ovoga članka, smatrat će se da je odustao od zatraženih promjena, te se Aneks Ugovora neće sklapati, a Agencija za plaćanja će donijeti Odluku o stavljanju izvan snage Odluke o odabiru LAG-a.
