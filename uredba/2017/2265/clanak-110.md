@@ -1,0 +1,3 @@
+# Članak 110.
+Odjel za koordinaciju europskih poslova obavlja stručne poslove vezane uz vođenje dijaloga s institucijama i tijelima Europske unije, priprema, koordinira i sudjeluje u izradi materijala potrebnih za sudjelovanje predstavnika Ministarstva u radu institucija i drugih tijela Europske unije te sudjeluje u njihovom radu, koordinira i sudjeluje u izradi prijedloga stajališta o dokumentima Europske unije iz nadležnosti Ministarstva, priprema stručne podloge za sastanke ministara pravosuđa država članica Europske unije, daje mišljenja na nacrte propisa u pitanjima iz svoga djelokruga te obavlja i druge poslove iz svoga djelokruga.
+7.1.1.2. Odjel za prilagodbu pravnoj stečevini Europske unije

@@ -1,0 +1,6 @@
+# Članak 48.
+Služba za pravosudnu upravu vodi i upravlja poslovima koji se odnose na ljudske potencijale u pravosudnim tijelima. Obavlja poslove koji se odnose na izradu okvirnih mjerila za rad sudaca te utvrđivanje broja sudaca i zamjenika državnih odvjetnika. Obavlja poslove vezane za davanje prethodne suglasnosti za utvrđivanje broja službenika i namještenika, davanje odobrenja za popunu radnih mjesta u pravosudnim tijelima, izrađuje planove prijma službenika u državnu službu u pravosudnim tijelima, izrađuje planove prijma vježbenika u pravosudna tijela, provodi postupak izbora i raspoređivanja vježbenika u pravosudna tijela te stručne poslove koji se odnose na radnopravna i statusna pitanja službenika i namještenika u pravosudnim tijelima, izrađuje prijedloge odluka o materijalnim pravima pravosudnih dužnosnika i prijedloge odluka u postupku prijma i raspoređivanja vježbenika u pravosudnim tijelima. Surađuje s državnim odvjetništvom u postupcima zastupanja Republike Hrvatske pred sudovima, upravnim i drugim tijelima. Obavlja i druge poslove u okviru svoga djelokruga.
+Za obavljanje poslova iz djelokruga Službe za pravosudnu upravu, ustrojavaju se sljedeće ustrojstvene jedinice:
+4.1.1.1. Odjel za ljudske potencijale u pravosudnim tijelima
+4.1.1.2. Odjel za suradnju s državnim odvjetništvom.
+4.1.1.1. Odjel za ljudske potencijale u pravosudnim tijelima

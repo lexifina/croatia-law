@@ -1,0 +1,3 @@
+# Članak 129.
+Služba za unutarnju kontrolu prati i nadzire svrhovitost, učinkovitost, pravilnost i zakonitost rada kaznenih tijela i Centra za izobrazbu, obavlja upravni i inspekcijski nadzor nad pravilnosti i zakonitosti rada kaznenih tijela i Centra za izobrazbu, postupa povodom predstavki i pritužbi zatvorenika te državnih službenika i namještenika kaznenih tijela i Centra za izobrazbu, izrađuje prijedloge odgovora i očitovanja na upite novinara i građana iz djelokruga Uprave za zatvorski sustav i probaciju te obavlja i druge poslove iz svoga djelokruga.
+8.1.2. Sektor za financije, gospodarske aktivnosti i rad zatvorenika

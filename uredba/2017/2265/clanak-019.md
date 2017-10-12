@@ -1,0 +1,4 @@
+# Članak 19.
+Odjel za proračunske korisnike obavlja upravne i stručne poslove vezane za prikupljanje, obradu, izradu i izvršavanje financijskih planova korisnika, izrađuje mjesečne financijske planove, predlaže preraspodjele proračunskih sredstava korisnika tijekom proračunske godine, sastavlja potrebna izvješća, izrađuje stručne analize i mišljenja radi pravilnog i ujednačenog postupanja proračunskih korisnika unutar Razdjela. Odjel prati i odobrava isplate sredstava po pravima iz Kolektivnog ugovora te prati i ažurira podatke iz Registra proračunskih korisnika. Odjel obavlja postupak kontrole financijskog poslovanja korisnika Razdjela kroz kontrolu i konsolidaciju polugodišnjih i godišnjih financijskih izvještaja korisnika i konsolidaciju obveza korisnika i Razdjela, kontrolu Izjave o fiskalnoj odgovornosti korisnika te obavlja i druge poslove i analize u okviru svoga djelokruga.
+2.2.2.2. Odjel za koordinaciju
+i provođenje financijskog upravljanja i kontrola

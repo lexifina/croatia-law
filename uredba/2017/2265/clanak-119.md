@@ -1,0 +1,3 @@
+# Članak 119.
+Odjel za pravosudnu suradnju u kaznenim stvarima s državama članicama Europske unije obavlja stručne i upravne poslove u provedbi instrumenata pravosudne suradnje u kaznenim stvarima s državama članicama Europske unije sukladno pravnim aktima Europske unije i domaćem zakonodavstvu i djeluje kao središnje tijelo za koordinaciju njihove primjene, dostavlja podatke o predmetima iz područja pravosudne suradnje u kaznenim stvarima nadležnim tijelima Europske unije, u skladu s obvezama propisanim pravnim aktima Europske unije, pruža potporu Europskoj pravosudnoj mreži u kaznenim stvarima i nacionalnom članu pri EUROJUST-u te obavlja i druge poslove iz svoga djelokruga.
+7.2.1.2. Odjel za izručenja i međunarodnu pravnu pomoć u kaznenim stvarima

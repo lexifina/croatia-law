@@ -1,0 +1,3 @@
+# Članak 120.
+Odjel za izručenja i međunarodnu pravnu pomoć u kaznenim stvarima obavlja stručne i upravne poslove u provedi međunarodnih ugovora i konvencija na području izručenja i međunarodne pravne pomoći u kaznenim stvarima, poslove izručenja i prenošenja izvršenja kaznenih sankcija, djeluje kao središnje tijelo za zaprimanje i odašiljanje zamolnica za međunarodnu pravnu pomoć u kaznenim stvarima sukladno međunarodnim ugovorima i domaćem zakonodavstvu te obavlja i druge poslove iz svoga djelokruga.
+7.2.1.3. Odjel za legislativu na području međunarodne pravne pomoći u kaznenim stvarima i pravosudne suradnje u kaznenim stvarima s državama članicama Europske unije

@@ -1,0 +1,6 @@
+# Članak 147.
+Sektor za probaciju obavlja upravne i stručne poslove kod odlučivanja o kaznenom progonu, izbora vrste i mjere kaznenopravnih sankcija, izvršavanja kaznenopravnih sankcija izrečenih punoljetnom počinitelju kaznenog djela: rada za opće dobro, uvjetne osude, uvjetnog otpusta, prekida kazne zatvora te zaštitnog nadzora po punom izvršenju kazne zatvora. Izrađuje nacrte prijedloga propisa i strateških dokumenata iz svoga djelokruga. Proučava i prati najnovija dostignuća vezana uz poslove iz svoga djelokruga te pruža pomoć vezano uz međunarodnu suradnju kod probacijskih predmeta. Provodi stručnu izobrazbu probacijskih službenika i drugih suradnika, te obavlja nadzor pravilnog, pravodobnog i zakonitog rada probacijskih ureda. Sektor obavlja upravne i stručne probacijske poslove vezane uz nadzor i koordinaciju rada probacijskih ureda, vođenje informatičkog sustava te prikupljanje podataka u cilju razvijanja probacijskog sustava. Obavlja i druge poslove u okviru svoga djelokruga.
+Za obavljanje poslova iz djelokruga Sektora za probaciju, ustrojavaju se sljedeće ustrojstvene jedinice:
+8.2.1. Služba za koordinaciju i razvoj probacijskog sustava
+8.2.2. Probacijski uredi.
+8.2.1. Služba za koordinaciju i razvoj probacijskog sustava

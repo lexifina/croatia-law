@@ -1,0 +1,7 @@
+# Članak 109.
+Služba za europske poslove obavlja stručne poslove vezane uz vođenje dijaloga s institucijama Europske unije u pogledu pitanja iz nadležnosti Ministarstva, koordinira rad ustrojstvenih jedinica Ministarstva čiji predstavnici sudjeluju u radu institucija i drugih tijela Europske unije te sudjeluje u njihovom radu, koordinira i sudjeluje u izradi prijedloga stajališta o dokumentima Europske unije iz nadležnosti Ministarstva, prati razvoj pravne stečevine Europske unije iz nadležnosti Ministarstva, koordinira i prati provedbu preuzimanja pravne stečevine Europske unije u područjima iz djelokruga Ministarstva, koordinira i priprema očitovanja iz nadležnosti Ministarstva u postupcima povrede prava Europske unije i u postupcima prethodnih pitanja upućenih Sudu Europske unije od strane hrvatskih sudova, priprema stručne podloge za sastanke ministara pravosuđa država članica Europske unije, sudjeluje u izradi propisa iz nadležnosti Ministarstva radi osiguranja njihove usklađenosti s pravnom stečevinom Europske unije te daje mišljenja na nacrte propisa u pitanjima iz djelokruga Službe. Služba sudjeluje u izradi strateških dokumenata za zaštitu i unapređenje ljudskih prava i prava nacionalnih manjina te prati njihovu primjenu u području pravosuđa.
+Za obavljanje poslova iz djelokruga Službe za europske poslove, ustrojavaju se sljedeće ustrojstvene jedinice:
+7.1.1.1. Odjel za koordinaciju europskih poslova
+7.1.1.2. Odjel za prilagodbu pravnoj stečevini Europske unije
+7.1.1.3. Odjel za ljudska prava.
+7.1.1.1. Odjel za koordinaciju europskih poslova

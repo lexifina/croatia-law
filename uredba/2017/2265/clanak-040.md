@@ -1,0 +1,3 @@
+# Članak 40.
+Odjel za razvoj aplikativnih sustava upravlja, priprema, vodi i nadzire projekte razvoja aplikativnih sustava Ministarstva, pravosudnih i kaznenih tijela. Analizira korisničke potrebe za informatizacijom poslovnih procesa, predlaže promjene, radi reinženjering poslovnih procesa u svrhu učinkovitije informatizacije, priprema specifikacije kod nabave usluga za razvoj aplikativnih sustava, nadzire izvršavanje ugovora o razvoju aplikativnih sustava, vodi dokumentaciju o aplikativnim sustavima, prati razvoj tehnologija vezanih uz razvoj aplikativnih sustava te obavlja i druge poslove u okviru svoga djelokruga.
+3.3.1.2. Odjel za održavanje aplikativnih sustava
