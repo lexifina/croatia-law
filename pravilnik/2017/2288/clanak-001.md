@@ -1,0 +1,6 @@
+# Članak 1.
+U Pravilniku o načinu prijavljivanja i odjavljivanja te stjecanju statusa osigurane osobe u obveznom zdravstvenom osiguranju (»Narodne novine«, broj 82/14. i 17/15.) u Popisu iz članka 9. stavka 2., pod rednim brojem 22., u stupcu »Datum stjecanja statusa« ispred riječi: »datum zaprimanja prijave u Zavodu« dodaju se riječi: »početak školske ili akademske godine, odnosno«.
+Pod rednim brojem 42., u stupcu »Dokumentacija potrebna za utvrđivanje statusa osigurane osobe/osiguranika u obveznom zdravstvenom osiguranju« ispod riječi: » - prijava - T2« dodaje se novi redak sa riječima: » - dokaz o prebivalištu ili odobrenom stalnom boravku (uvjerenje MUP-a ili osobna iskaznica)«.
+Pod rednim brojem 52. i 53. u stupcu »Datum stjecanja statusa« brišu se riječi: »i obavijesti, odnosno uvjerenja MUP-a o odobrenom privremenom boravku«.
+Pod rednim brojem 54. u stupcu »Dokumentacija potrebna za utvrđivanje statusa osigurane osobe/osiguranika u obveznom zdravstvenom osiguranju« iznad riječi: » - obavijest, odnosno uvjerenje MUP-a o odobrenom privremenom boravku« dodaje se novi redak sa riječima: » - prijava - T2«.
+Pod rednim brojem 55. i 56. u stupcu »Datum stjecanja statusa« brišu se riječi: »i obavijesti, odnosno uvjerenja MUP-a o odobrenom privremenom boravku«.
