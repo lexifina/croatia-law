@@ -1,0 +1,2 @@
+# Članak 1.
+Ovim se Pravilnikom uređuje način na koji Ministarstvo državne imovine (u daljnjem tekstu: Ministarstvo) vodi evidencije o privremeno i trajno oduzetim predmetima i imovinskoj koristi ostvarenoj kaznenim djelom koji su pravomoćnom sudskom odlukom privremeno odnosno trajno oduzeti od okrivljenika ili s njim povezanih osoba te koji su takvom odlukom predani na čuvanje i upravljanje Ministarstvu ili je Ministarstvo o privremenom ili trajnom oduzimanju predmeta i imovinske koristi ostvarene kaznenim djelom obaviješteno.

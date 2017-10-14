@@ -1,0 +1,3 @@
+# Članak 10.
+(1) Ako se privremena mjera koju je odredio nadležni sud koji vodi kazneni postupak odnosi na oduzimanje dionica, udjela ili poslovnih udjela u trgovačkim društvima i njihovo povjeravanje na upravu Ministarstvu, Ministarstvo će od predlagatelja osiguranja ili tijela nadležnog za provedbu privremene mjere pribaviti podatke o tim dionicama, udjelima ili poslovnim udjelima.
+(2) Upis činjenice da su dionice, udjeli ili poslovni udjeli oduzeti i povjereni Ministarstvu na upravu ili upis druge činjenice od značaja za pravni promet vrši se u odgovarajuće javne ili druge registre po službenoj dužnosti temeljem rješenja suda kojim je određena privremena mjera.
