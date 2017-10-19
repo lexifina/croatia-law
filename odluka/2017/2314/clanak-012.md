@@ -1,0 +1,2 @@
+# Članak 12.
+(1) Obveznici poreza iz članka 11. ove odluke dužni su nadležnom poreznom tijelu do 31. 3. godine za koju se utvrđuje porez dostaviti podatke o kući za odmor koji se odnose na mjesto gdje se nalazi taj objekt, korisnu površinu, kao i druge podatke potrebne za razrez poreza, a naročito podatke o promjeni vlasništva, uspostavi suvlasništva, te promjenama povezanim s povećanjem ili smanjenjem površine kuće za odmor.
