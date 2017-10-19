@@ -1,0 +1,2 @@
+# Članak 58.
+Na mrežnim stranicama Ministarstva unutarnjih poslova bit će dostupne informacije o dokumentaciji potrebnoj za podnošenje zahtjeva, o ulasku i boravku, obvezama i postupovnim jamstvima i pravima sezonskih radnika i osoba premještenih unutar društva, kao i o propisanim sankcijama u slučaju kada se trgovačko društvo, podružnica ili predstavništvo s poslovnim nastanom u Republici Hrvatskoj ne pridržavaju odredbi Zakona o strancima.

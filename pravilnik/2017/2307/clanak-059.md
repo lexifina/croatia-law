@@ -1,0 +1,4 @@
+# Članak 59.
+Ministarstvo unutarnjih poslova dostavlja Europskoj komisiji statističke podatke o:
+- broju dozvola za boravak i rad za osobe premještene unutar društva i broju dozvola za boravak i rad za dugoročnu mobilnost izdanih po prvi put i broju osoba premještenih unutar društva čija je dozvola za boravak i rad produžena, ukinuta ili poništena. Statistički podaci razvrstavaju se prema državljanstvu i prema razdoblju valjanosti dozvole za boravak i rad te prema gospodarskom sektoru i položaju premještenih osoba.
+- broju dozvola za boravak i rad za sezonski rad koje su izdane prvi puti, te o broju državljana trećih zemalja čija je dozvola za boravak i rad za sezonski rad produžena, ukinuta ili poništena. Statistički podaci razvrstavaju se prema državljanstvu i prema razdoblju valjanosti dozvole za boravak i rad i gospodarskom sektoru.
