@@ -1,0 +1,4 @@
+## Uvjeti i način utvrđivanja zdravstvene sposobnosti
+# Članak 2.
+(1) Osoblje iz članka 1. ovog Pravilnika zdravstvenu sposobnost dokazuje valjanim LAPL certifikatom o zdravstvenoj sposobnosti izdanim u skladu s uvjetima Uredbe Komisije (EU) 1178/2011. od 3. studenoga 2011. o utvrđivanju tehničkih zahtjeva i administrativnih postupaka vezano uz članove posade zrakoplova u civilnom zrakoplovstvu (SL L 311, 25. 11. 2011) (u daljnjem tekstu: Uredba 1178/2011).
+(2) Valjani certifikati o zdravstvenoj sposobnosti kategorije 1 ili kategorije 2 izdani u skladu s Uredbom 1178/2011, i kategorije 3 izdani u skladu s Uredbom Komisije (EU) 2015/340 od 20. veljače 2015. o utvrđivanju tehničkih zahtjeva i administrativnih postupaka koji se odnose na dozvole i certifikate kontrolora zračnog prometa (SL L 63, 6. 3. 2015.), smatraju se valjanim dokazom o zdravstvenoj sposobnosti propisanim stavkom 1. ovoga članka.

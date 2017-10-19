@@ -1,0 +1,5 @@
+## Prijelazne i završne odredbe
+# Članak 3.
+(1) Svjedodžbe i Certifikati o zdravstvenoj sposobnosti kategorije 2 - nacionalne, izdani prije stupanja na snagu ovoga Pravilnika prestaju važiti datumom isteka valjanosti, a najkasnije 31. prosinca 2021. godine, ovisno što nastupi ranije.
+(2) Zrakoplovno-medicinska procjena u svrhu prvog izdavanja LAPL certifikata o zdravstvenoj sposobnosti za imatelje Svjedodžbi i Certifikata o zdravstvenoj sposobnosti kategorije 2 - nacionalne temelji se na zahtjevima za produljenje certifikata.
+(3) Stupanjem na snagu ovog Pravilnika ukidaju se nacionalni certifikati zrakoplovno-medicinskih centara (AeMC) i nacionalni certifikati zrakoplovno-medicinskih ispitivača (AME) izdani u skladu s Pravilnikom o zdravstvenoj sposobnosti zrakoplovnog osoblja na koje se ne primjenjuju odredbe Uredbe Komisije (EU) broj 1178/2011 od 3. studenoga 2011. godine, o uspostavljanju tehničkih zahtjeva i administrativnih procedura u vezi članova posade zrakoplova u civilnom zrakoplovstvu (»Narodne novine«, broj 75/13).
