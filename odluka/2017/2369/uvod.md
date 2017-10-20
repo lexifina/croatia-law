@@ -1,0 +1,2 @@
+Na temelju članka 34. stavaka 2. i 3. Zakona o slatkovodnom ribarstvu (»Narodne novine«, br. 106/2001, 7/2003, 174/2004, 10/2005
+- ispravak, 49/2005 - pročišćeni tekst i 14/2014), u daljnjem tekstu: Zakona, te članka 33. Uredbe o načelima za unutarnje ustrojstvo tijela državne uprave (»Narodne novine«, br. 154/2011 i 17/2012), članka 6. Pravilnika o unutarnjem redu Ministarstva poljoprivrede (klasa: 011-01/17-01/23, urbroj: 525-05/1569-17-6, od 11. srpnja 2017. godine), ministar poljoprivrede donosi
