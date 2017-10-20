@@ -1,0 +1,3 @@
+# Članak 3.
+U članku 16. stavku 11. točka i) mijenja se i glasi:
+»i) Korisnik je obvezan poduzeti sve mjere u svrhu izbjegavanja sukoba interesa pri korištenju sredstava potpore iz ugovora o financiranju i bez odgode obavijestiti Agenciju za plaćanja o svim situacijama koje predstavljaju ili bi mogle dovesti do takvog sukoba te izvještavati Agenciju za plaćanja u pisanom obliku o bilo kojoj situaciji postojanja sukoba interesa između korisnika s jedne strane i ponuditelja s druge strane, u razdoblju od dana stupanja na snagu ugovora o financiranju i tijekom sljedećih pet godina od datuma konačne isplate potpore.«
