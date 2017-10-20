@@ -1,0 +1,3 @@
+# Članak 12.
+(1) Ako je do stupanja na snagu ovoga Zakona podnesen zahtjev za uvjetni otpust u odnosu na kazne koje se izvršavaju sukladno odredbama Kaznenog zakona iz članka 381. stavka 1. točke 1. Kaznenog zakona (»Narodne novine«, br. 125/11., 144/12., 56/15. i 61/15. - ispravak), primijenit će se odredbe o uvjetnom otpustu iz zakona prema kojem se kazne izvršavaju.
+(2) O zahtjevima za uvjetni otpust iz stavka 1. ovoga članka odlučuje Povjerenstvo za uvjetni otpust iz Zakona o izvršavanju kazne zatvora (»Narodne novine«, br. 128/99., 55/00., 59/00., 129/00., 59/01., 67/01., 11/02., 190/03., 76/07., 27/08., 83/09., 18/11., 48/11., 125/11., 56/13. i 150/13.).

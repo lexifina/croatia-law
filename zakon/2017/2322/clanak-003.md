@@ -1,0 +1,8 @@
+# Članak 3.
+Članak 259. mijenja se i glasi:
+»(1) Tko suprotno propisima o tržištu kapitala, raspolažući povlaštenom informacijom na temelju članstva u upravnim, upravljačkim ili nadzornim tijelima izdavatelja ili sudionika na tržištu emisijskih jedinica ili posjedovanja svog udjela u kapitalu izdavatelja ili sudionika na tržištu emisijskih jedinica ili na temelju pristupa informacijama tijekom obavljanja posla, profesije ili dužnosti ili tko je do povlaštenih informacija došao neovisno o navedenim okolnostima:
+1. za vlastiti ili tuđi račun, neposredno ili posredno, stekne ili otuđi financijski instrument na koji se ta informacija odnosi, otkaže ili izmijeni nalog u vezi s financijskim instrumentom na koji se ta informacija odnosi, uključujući i slučaj kada je nalog dan prije nego što je ta osoba posjedovala tu povlaštenu informaciju, podnese, promijeni ili povuče ponudu za kupnju na dražbi emisijskih jedinica ili drugih proizvoda na dražbi koji se temelje na emisijskim jedinicama,
+2. neovlašteno otkrije, priopći, preda ili na drugi način učini dostupnom povlaštenu informaciju drugoj osobi,
+3. preporuči drugoj osobi ili je navede da stekne ili otpusti financijski instrument na koji se ta informacija odnosi ili da otkaže ili izmijeni nalog u vezi s financijskim instrumentom na koji se ta informacija odnosi,
+kaznit će se kaznom zatvora od šest mjeseci do pet godina.
+(2) Ako je kaznenim djelom iz stavka 1. ovoga članka pribavljena imovinska korist velikih razmjera ili je drugome prouzročena imovinska šteta velikih razmjera, počinitelj će se kazniti kaznom zatvora od jedne do osam godina.«.
