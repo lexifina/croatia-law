@@ -1,0 +1,5 @@
+## Prijevremena otplata
+# Članak 26.
+(1) Potrošač ima pravo u svakom trenutku prijevremeno ispuniti, djelomično ili u cijelosti, svoje obveze iz ugovora o stambenom potrošačkom kreditu. U tom slučaju potrošač ima pravo na smanjenje ukupnih troškova kredita iz članka 17. ovoga Zakona, a smanjenje se sastoji od kamata i drugih troškova koji se odnose na preostalo trajanje ugovora o stambenom potrošačkom kreditu.
+(2) Kreditna institucija ne smije potrošaču naplatiti naknadu za prijevremeno, djelomično ili u cijelosti, ispunjenje svoje obveze iz ugovora o stambenom potrošačkom kreditu.
+(3) Kreditna institucija dužna je nakon primitka pisanog zahtjeva za prijevremenu otplatu potrošaču bez odgode dostaviti na papiru ili na nekom drugom trajnom mediju informacije potrebne za razmatranje mogućnosti prijevremene otplate. Kreditna institucija u informacijama iz ovoga stavka mora najmanje obuhvatiti kvantificirane posljedice za potrošača koji ispuni svoje obveze prije isteka ugovora o stambenom potrošačkom kreditu i jasno navesti sve pretpostavke koje je primijenila u obradi zahtjeva, a koje moraju biti razumne i opravdane.

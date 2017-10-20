@@ -1,0 +1,6 @@
+## Podzakonski propisi
+# Članak 45.
+(1) Hrvatska narodna banka donijet će podzakonske propise iz članka 8. stavka 3., članka 14. stavka 13., članka 18. stavka 10., članka 28. stavka 8., članka 30. stavka 4., članka 31. stavka 6. i članka 34. stavka 13. ovoga Zakona u roku od 15 dana od dana stupanja na snagu ovoga Zakona.
+(2) Hrvatska narodna banka donijet će podzakonske propise iz članka 4. stavka 8., članka 7. stavka 5., članka 19. stavka 5. i članka 33. stavka 6. ovoga Zakona u roku od godinu dana od dana stupanja na snagu ovoga Zakona.
+(3) Do stupanja na snagu podzakonskog propisa iz članka 14. stavka 13. ovoga Zakona kreditna institucija dužna je informacije prije sklapanja ugovora o stambenom potrošačkom kreditu i dalje pružati u skladu s odredbama Odluke o sadržaju i obliku u kojem se potrošaču daju informacije prije ugovaranja pojedine bankovne usluge (»Narodne novine«, br. 2/15. i 73/17.).
+(4) Do dana objave prosječne ponderirane kamatne stope u skladu s člankom 25. stavkom 3. ovoga Zakona, za izračun maksimalne kamatne stope na stambene potrošačke kredite koriste se prosječne ponderirane kamatne stope koje Hrvatska narodna banka objavi na temelju Zakona o potrošačkom kreditiranju (»Narodne novine«, br. 75/09., 112/12., 143/13., 147/13., 9/15., 78/15., 102/15. i 52/16.) na dan 1. srpnja 2017.

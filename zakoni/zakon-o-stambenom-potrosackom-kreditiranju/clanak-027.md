@@ -1,0 +1,4 @@
+## Informacije o promjeni kamatne stope
+# Članak 27.
+(1) Kreditna institucija dužna je obavijestiti potrošača o svim promjenama kamatne stope iz članka 24. stavka 1. ovoga Zakona, na papiru ili nekom drugom trajnom mediju kojeg su ugovorili, najmanje 15 dana prije nego što se one počnu primjenjivati. Ta obavijest sadrži objašnjenje kretanja parametra zbog kojeg je došlo do promjene kamatne stope, otplatni plan, uključujući broj i iznos obroka odnosno anuiteta koji se trebaju uplaćivati nakon stupanja na snagu nove kamatne stope te, ako se promijeni broj ili učestalost obroka odnosno anuiteta, pojedinosti o obrocima odnosno anuitetima.
+(2) Ako kreditna institucija na ugovoreni način obavještavanja ne obavijesti potrošača o povećanju kamatne stope najmanje 15 dana prije njezine primjene, dužna je odgoditi primjenu nove kamatne stope do idućega obračunskog razdoblja.

@@ -1,0 +1,8 @@
+## Objava presuda prekršajnih sudova
+# Članak 43.
+(1) Hrvatska narodna banka na svojoj mrežnoj stranici objavljuje izreke pravomoćnih odluka donesenih u prekršajnim postupcima koje je pokrenula Hrvatska narodna banka kao ovlašteni tužitelj, a kojima je kreditna institucija, odgovorna osoba kreditne institucije, kreditni posrednik, odgovorna osoba kreditnog posrednika, proglašena krivom za prekršaj iz ovoga Zakona. Uz izreku objavljuje se naziv tijela koje je donijelo odluku te broj i datum odluke.
+(2) Hrvatska narodna banka može objaviti rješenje koje je donijela u izvršavanju svojih nadzornih ovlasti iz ovoga Zakona. Kad Hrvatska narodna banka objavi takvo rješenje, dužna je objaviti i odluku upravnog suda ako je protiv tog rješenja podnesena tužba.
+(3) Podaci koji predstavljaju bankovnu tajnu na temelju odredbi zakona kojim se uređuje poslovanje kreditnih institucija ili su zaštićeni zakonom kojim se uređuje zaštita osobnih podataka izuzet će se od objava iz stavka 1. ovoga članka.
+(4) Ako Hrvatska narodna banka ocijeni da bi objava iz stavka 1. ovoga članka mogla ugroziti stabilnost financijskog tržišta ili prouzročiti nerazmjernu štetu kreditnoj instituciji ili kreditnom posredniku, anonimizirat će podatak o kreditnoj instituciji ili kreditnom posredniku.
+(5) Ako Hrvatska narodna banka ocijeni da bi objava iz stavka 1. ovoga članka mogla prouzročiti nerazmjernu štetu odgovornoj osobi kreditne institucije ili odgovornoj osobi kreditnog posrednika, anonimizirat će podatak o odgovornoj osobi.
+(6) Objava iz stavaka 1. i 2. ovoga članka ostaje na mrežnoj stranici Hrvatske narodne banke do nastupanja pravnih učinaka rehabilitacije u skladu sa zakonom kojim se uređuju prekršaji.

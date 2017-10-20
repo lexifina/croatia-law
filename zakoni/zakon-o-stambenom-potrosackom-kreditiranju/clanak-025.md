@@ -1,0 +1,5 @@
+## Maksimalna kamatna stopa na stambene potrošačke kredite
+# Članak 25.
+(1) Maksimalna dopuštena kamatna stopa na stambene potrošačke kredite s ugovorenom promjenjivom kamatnom stopom u kunama koji nisu vezani uz stranu valutu i u eurima i u kunama vezanim uz euro ne smije biti viša od prosječne ponderirane kamatne stope na stanja stambenih kredita odobrenih u Republici Hrvatskoj, određenih za svaku od valuta, uvećane za jednu trećinu (1/3).
+(2) Maksimalna dopuštena kamatna stopa na stambene potrošačke kredite koji nisu obuhvaćeni stavkom 1. ovoga članka ne smije biti viša od najniže prosječne ponderirane kamatne stope na stanja stambenih kredita odobrenih u Republici Hrvatskoj, određenih za svaku od valuta, uvećane za jednu trećinu (1/3).
+(3) Prosječne ponderirane kamatne stope na stanja stambenih kredita u kunama koji nisu vezani uz stranu valutu, i u eurima i u kunama vezanim uz euro, prema utvrđenoj metodologiji i podacima dostupnim na dan 31. listopada Hrvatska narodna banka dužna je objaviti u »Narodnim novinama« 1. siječnja, a podatke dostupne na dan 30. travnja dužna je objaviti 1. srpnja.
