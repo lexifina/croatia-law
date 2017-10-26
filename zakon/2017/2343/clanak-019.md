@@ -1,0 +1,10 @@
+# Članak 19.
+Članak 38. mijenja se i glasi:
+»(1) Domaći sud može voditi kazneni postupak protiv osobe predane na temelju izdanog europskog uhidbenog naloga samo za djelo zbog kojeg je ta osoba predana Republici Hrvatskoj te za djelo počinjeno nakon predaje. U odnosu na izvršenje kaznenopravnih sankcija, njihovo izvršenje je moguće u odnosu na sankcije zbog kojih je europski uhidbeni nalog bio izdan, a osoba Republici Hrvatskoj predana te za sankcije izrečene za kazneno djelo počinjeno nakon predaje.
+(2) Sud može provesti kazneni postupak ili izvršiti kaznenopravnu sankciju:
+1. ako predana osoba, iako je imala mogućnost, nije napustila teritorij Republike Hrvatske u roku od 45 dana od puštanja na slobodu ili se u Republiku Hrvatsku vratila,
+2. za kazneno djelo za koje domaće pravo ne propisuje kaznu zatvora, a vođenje kaznenog postupka ne iziskuje primjenu mjere pritvora, istražnog zatvora i istražnog zatvora u domu,
+3. za kazneno djelo za koje domaće pravo propisuje novčanu kaznu, neovisno o činjenici da takva kazna može biti zamijenjena kaznom zatvora,
+4. ako je osoba pristala na predaju Republici Hrvatskoj i tom se prilikom odrekla primjene načela specijalnosti iz stavka 1. ovog članka.
+(3) Ako nisu ispunjene pretpostavke iz stavka 2. ovog članka, tijelo koje vodi postupak ili sudac izvršenja ispitat će predanu osobu na okolnost vođenja kaznenog postupka, odnosno izdržavanja kazne zatvora iz stavka 1. ovog članka. Ako se predana osoba u prisutnosti branitelja dragovoljno i u potpunosti svjesna posljedica svoje izjave na zapisnik izričito odrekne primjene načela specijalnosti, kazneni postupak se može nastaviti voditi, odnosno kaznenopravna sankcija izvršavati.
+(4) Ako nisu ispunjene pretpostavke iz stavaka 2. i 3. ovog članka, tijelo koje vodi postupak, odnosno sudac izvršenja podnijet će državi izdavanja zahtjev za davanje suglasnosti za vođenje kaznenog postupka ili za izvršenje kaznene sankcije. Zahtjev mora sadržavati podatke iz članka 18. ovog Zakona i zapisnik o ispitivanju iz stavka 3. ovog članka, a dostavit će se neposredno nadležnom tijelu države izvršenja.«.

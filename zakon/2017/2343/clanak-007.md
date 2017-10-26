@@ -1,0 +1,6 @@
+# Članak 7.
+Članak 7. mijenja se i glasi:
+»(1) Županijska državna odvjetništva prosljeđuju nadležnom tijelu države izvršenja europski uhidbeni nalog te odluke iz članka 1. točaka 7. i 8. ovog Zakona koje su, na propisanom obrascu, sama izdala, kao i one koje su izdala općinska državna odvjetništva na području njihove mjesne nadležnosti. Nadležna državna odvjetništva koja su na propisanom obrascu izdala europski istražni nalog i nalog za osiguranje oduzimanja imovine neposredno ih dostavljaju nadležnom tijelu.
+(2) Europski uhidbeni nalog i europski istražni nalog izdan na propisanom obrascu domaći sudovi dostavljaju neposredno nadležnom tijelu države izvršenja.
+(3) Županijski sudovi nadležni su za ispunjavanje i ovjeru sadržaja potvrda koje se dostavljaju uz odluke iz članka 1. točke 4. ovog Zakona ako se radi o oduzimanju predmeta, kao i u odnosu na članak 1. točke 6., 7., 8. i 9. za odluke koje su sami donijeli, kao i za odluke općinskih sudova s područja svoje mjesne nadležnosti te za njihovo prosljeđivanje.
+(4) Ministarstvo nadležno za poslove pravosuđa nadležno je za ispunjavanje i ovjeru sadržaja potvrda koje se dostavljaju uz odluke iz članka 1. točke 5. ovog Zakona te za njihovo prosljeđivanje.«.
