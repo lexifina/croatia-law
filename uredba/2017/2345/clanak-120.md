@@ -1,0 +1,3 @@
+## 14. SAMOSTALNI ODJEL BIBLIOTEKA
+# Članak 120.
+Samostalni odjel Biblioteka skrbi o nabavi knjižnične građe, stručnoj obradi, čuvanju i zaštiti knjižnične građe, te provođenju mjera zaštite knjižnične građe koja je kulturno dobro. Izrađuje biltene, kataloge, bibliografije i druga informacijska pomagala, sudjeluje u izradi skupnih kataloga i baza podataka,omogućuje pristupačnost knjižnične građe i informacija korisnicima prema njihovim potrebama i zahtjevima, osigurava korištenje i posudbu knjižnične građe, te protok informacija, potiče i pomaže korisnicima pri izboru i korištenju knjižnične građe, informacijskih pomagala i izvora te vodi dokumentaciju o građi i korisnicima.

@@ -1,0 +1,6 @@
+# Članak 94.
+Služba kemijski laboratorij analizira kemijski sastav (organske i anorganske komponente) pristiglih uzoraka zraka, čestica i oborine, u skladu sa zahtjevima europske i hrvatske zakonske regulative. Uvodi nove analitičke metode i postupke kojima se prate kemijski procesi u atmosferi. Sudjeluje u izradi izvješća o stanju kvalitete zraka. Sudjeluje u međunarodnim programima interkalibracije analitičkih metoda i provjere kvalitete laboratorijskih postupaka i analiza. Vodi očevidnik o analiziranim uzorcima, metodama i instrumentima koje koristi u radu, te provodi program osiguranja kvalitete analiza i kvalitete podataka. Brine o ispravnom radu postaja, radu i obuci motritelja i pomoćnog osoblja. Prikuplja uzorke u mreži postaja DHMZ-a i Državnoj mreži za trajno praćenje kvalitete zraka, po potrebi provodi stručnu i tehničku kontrolu uređaja za uzorkovanje zraka i oborine. Vodi očevidnike i zapise o obavljenim obilascima, preuzetim uzorcima i zatečenom stanju na postajama, te provedenim intervencijama te iste unosi u meta bazu kemijske baze podataka. Sudjeluje u domaćim i međunarodnim projektima praćenja kvalitete zraka.
+Za obavljanje poslova iz djelokruga Službe kemijski laboratorij, ustrojavaju se:
+8.3.1. Odjel anorganski laboratorij
+8.3.2. Odjel organski laboratorij.
+8.3.1. Odjel anorganski laboratorij

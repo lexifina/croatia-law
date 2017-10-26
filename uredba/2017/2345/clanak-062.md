@@ -1,0 +1,3 @@
+# Članak 62.
+Odjel za praćenje klime i klimatološke analize izrađuje operativne klimatološke podloge za opće potrebe i operativno praćenje klime te operativno prati klimu, izrađuje obavijesti, biltene, godišnjake i sudjeluje u izradi klimatografije. Odjel izrađuje ekspertize, studije, elaborate i potvrde za potrebe sudova, osiguravajućih društava i drugih gospodarskih subjekata i pojedinaca. Sudjeluje u domaćim i međunarodnim projektima iz djelokruga rada Odjela te surađuje sa znanstveno-nastavnim, državnim i međunarodnim ustanovama iz djelokruga Odjela.
+5.3.3. Odjel za razvoj klimatskih podloga i aplikacija

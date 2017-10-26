@@ -1,0 +1,6 @@
+# Članak 10.
+Služba za financije, računovodstvo i nabavu obavlja poslove planiranja i izvršenja financijskog plana, kontrolu namjenskog trošenja proračunskih sredstava, analize i izvještavanja, obračunske, računovodstveno-knjigovodstvene i poslove vođenja propisanih evidencija i čuvanja knjigovodstvene i materijalno-financijske dokumentacije te druge operativne poslove vezane uz državni proračun i financiranje DHMZ-a, poslove plaćanja, obračun i isplatu plaća i naknada platnog prometa, evidencije prihodovanja i naplate usluga od korisnika. Služba obavlja pripremu, objavu, provođenje i koordinaciju poslova nabave roba, radova i usluga za potrebe DHMZ-a po postupku propisanom Zakonom o javnoj nabavi, izrađuje planove i vodi brigu o primjeni financijskih upravljačkih kontrola te predlaže mjere za unapređenje financijskih kontrola u cilju ostvarivanja poslovnih ciljeva i sprječavanja neadekvatnog trošenja sredstava i pronevjere, prati i primjenjuje propise iz svoga djelokruga. Obavlja poslove planiranja i prati izvršavanje sredstava u vezi s projektima financiranim iz fondova Europske unije, kao i projekata iz prekogranične suradnje.
+Za obavljanje poslova iz djelokruga Službe za financije, računovodstvo i nabavu, ustrojavaju se:
+2.2.1. Odjel za plan, analizu i nabavu
+2.2.2. Odjel za financije i računovodstvo.
+2.2.1. Odjel za plan, analizu i nabavu

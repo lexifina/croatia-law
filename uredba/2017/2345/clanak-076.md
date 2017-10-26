@@ -1,0 +1,3 @@
+# Članak 76.
+Odjel za operativne podloge razvija i primjenjuje metode analize i tumačenja meteoroloških podataka i produkata, izrađuje programe za tehničko i operativno izdavanje općih i posebnih vremenskih prognoza i upozorenja. Odjel prati i nadzire kakvoću pomorskih vremenskih analiza, prognoza i upozorenja i organizira arhivu izdanih prognoza i upozorenja te izrađuje redovita izvješća o kakvoći izdanih pomorskih prognoza i upozorenja. Po potrebi sudjeluje u izradi pomorske vremenske prognoze. Prati primjenu posebnih stručnih standarda u izradi pomorskih vremenskih prognoza i upozorenja, te izrađuje stručne upute za rad.
+6.3. Služba Regionalni centar za Jadran

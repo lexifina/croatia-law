@@ -1,0 +1,3 @@
+# Članak 91.
+Odjel za mjerenje kvalitete zraka provodi aktivnosti mjerenja kvalitete zraka na postajama za praćenje kvalitete zraka. Provodi mjerenja u skladu s postojećim i priznatim normiranim i nenormiranim metodama te nacionalnim propisima - zakonima i podzakonskim aktima. Osigurava prijenos, prikupljanje i validaciju mjernih podataka kemijskog stanja atmosfere. Organizira provođenje mjerenja u skladu sa važećim propisima. Sudjeluje u postupcima javne nabave mjerne opreme. Sudjeluje u državnim i međunarodnim programima ispitivanja sposobnosti laboratorija za mjerenja kvalitete zraka.
+8.1.2. Odjel za održavanje infrastrukture

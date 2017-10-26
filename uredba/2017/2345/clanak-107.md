@@ -1,0 +1,3 @@
+# Članak 107.
+Područna jedinica Pododsjek podrške radarskih centara Sjeverne Hrvatske - sabirni centar, sa sjedištem u Zagrebu, prikuplja podatke radarskih mjerenja s radarskih centara sjeverne Hrvatske, podatke o nepogodama i pojavama s mreže postaja obrane od tuče te koordinira rad radarskih centara s Hrvatskom kontrolom zračne plovidbe. Brine o održavanju poligona tučomjera i obradi podataka tučomjera u suradnji s Odjelom za analizu i stručnu podršku. Kontrolira, pohranjuje i obrađuje podatke s radarskih centara Sjeverne Hrvatske te popunjava bazu podataka sustava obrane od tuče i daljinskih mjerenja.
+11.2. Odjel za analizu i stručnu podršku

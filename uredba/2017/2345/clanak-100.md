@@ -1,0 +1,2 @@
+# Članak 100.
+Odjel za računalni sustav organizira i provodi potporu korisnicima informacijskog sustava, provodi nadzor i održavanje sustava, te operativno administrira raspodjelu računalnih kapaciteta. Planira, organizira i nadzire uspostavu i razvoj računalnih mreža u DHMZ-u. Operativno prati korištenje i ispravnost računalnih sustava i poduzima odgovarajuće mjere u slučajevima neispravnosti. Izrađuje sigurnosne kopije sistemskih i korisničkih datoteka te nadzire pravodobnost i popunjenost prijemnih i otpremnih podataka.

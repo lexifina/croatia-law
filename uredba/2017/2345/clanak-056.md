@@ -1,0 +1,3 @@
+# Članak 56.
+Odjel za asimilaciju podataka i nowcasting istražuje, razvija i primjenjuje metode asimilacije podataka i objektivnih metoda analize podataka mjerenja i rezultata modela. Razvija i primjenjuje metode i modele za vrlo kratkoročnu prognozu vremena na vremenskoj ljestvici od nekoliko sati (nowcasting) do 3 dana unaprijed. Sudjeluje u razvoju i primjeni operativnog sustava djelovanja u slučaju prirodnih i civilizacijskih nepogoda. Prati suvremena postignuća te sudjeluje u domaćim i međunarodnim projektima te surađuje sa znanstveno-nastavnim, državnim i međunarodnim ustanovama iz djelokruga Odjela.
+5.2. Služba za primijenjena istraživanja i modeliranje

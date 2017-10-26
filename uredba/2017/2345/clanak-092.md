@@ -1,0 +1,3 @@
+# Članak 92.
+Odjel za održavanje infrastrukture provodi aktivnosti održavanja, uspostave i nadogradnje mjernih postaja za praćenje kvalitete zraka. Planira, provodi i osigurava provedbu redovnog i interventnog održavanja mjerne i pomoćne opreme na postajama za praćenje kvalitete zraka s ciljem osiguranja maksimalnog mogućeg obuhvata mjernih podataka. Planira i provodi unapređenja infrastrukture za mjerenje kvalitete zraka. Sudjeluje u postupcima javne nabave mjerne i pomoćne opreme. Sudjeluje u razradi programa mjerenja kvalitete zraka.
+8.2. Služba za modeliranje kvalitete zraka, istraživanje i primjenu
