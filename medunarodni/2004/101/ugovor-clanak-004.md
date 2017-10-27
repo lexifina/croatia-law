@@ -1,9 +1,0 @@
-# Članak 4.
-Industrijska sigurnost
-1. Naručitelj sa sjedištem na državnom teritoriju jedne od stranaka koji namjerava uputiti narudžbu izvršitelju sa sjedištem na državnom teritoriju druge stranke, a provedba te narudžbe vezana je s pristupom tajnim podacima, upućuje nadležnom tijelu stranke izvršitelja zahtjev za izdavanje pisanog uvjerenja da je izvršitelj ovlašten za pristup tajnim podacima s određenim stupnjem tajnosti.
-2. Izdavanje uvjerenja iz stavka 1. istovjetno je s jamstvom da su provedeni postupci, neophodni za utvrđivanje da izvršitelj ispunjava uvjete iz područja zaštite tajnih podataka, u skladu s unutarnjim zakonodavstvom stranke na čijem državnom području ima sjedište.
-3. U slučaju da izvršitelj nije ranije bio ovlašten za pristup tajnim podacima s određenim stupnjem tajnosti, nadležno tijelo stranke koje treba izdati uvjerenje, obavijestit će bez odgode nadležno tijelo druge stranke da na njegov zahtjev mogu biti pokrenuti postupci iz stavka 2.
-4. Nadležna tijela stranaka dogovorit će se: o obrascu uvjerenja iz stavka l. o načinu i rokovima dostavljanja zahtjeva i prosljeđivanja uvjerenja iz stavka 1. te o prosljeđivanju zahtjeva iz stavka 3.
-5. Naručitelj dostavlja izvršitelju sigurnosne zahtjeve potrebne za provedbu narudžbe koji posebno sadrže popis tajnih podataka i uputu o načinu označavanja stupnja tajnosti na podacima nastalim u svezi s provedbom narudžbe. Naručitelj će obavijestiti izvršitelja o obvezi i opsegu poštivanja propisa unutarnjeg zakonodavstva o zaštiti tajnosti podataka stranke na čijem državnom području ima sjedište.
-6. Nadležno tijelo stranke na čijem će se državnom području provoditi narudžba, osigurat će da izvršitelj štiti tajne podatke koje je proslijedio naručitelj ili koji su nastali u svezi s provedbom narudžbe na način kako je određeno sigurnosnim zahtjevom iz stavka 5.
-7. Provedba narudžbe ili njenog dijela bit će moguća tek kada izvršitelj okonča postupke neophodne za zaštitu tajnih podataka.
