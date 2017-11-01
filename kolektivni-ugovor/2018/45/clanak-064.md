@@ -1,0 +1,2 @@
+# Članak 64.
+Novčana pomoć za školovanje djece umrlih radnika isplaćuje se djeci koja se redovito školuju neovisno o stupnju školovanja, a najduže do 27 godina života djeteta, u neto iznosu od jedne prosječne mjesečne neto plaće isplaćene kod Poslodavca prema zadnje usvojenom godišnjem izvješću o poslovanju od strane Nadzornog odbora, a isplaćuje se u dva dijela i to početkom polugodišta/semestra.

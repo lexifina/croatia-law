@@ -1,0 +1,5 @@
+# Članak 25.
+Radnik može koristiti godišnji odmor u više dijelova, s tim da se jedan dio mora koristiti bez prekida u trajanju ne manjem od 2 (dva) tjedna neprekidno, osim ako se radnik i Poslodavac drugačije ne dogovore, pod uvjetom da je ostvario pravo na godišnji odmor u trajanju dužem od dva tjedna i mora se koristiti tijekom kalendarske godine za koju ostvaruje pravo na godišnji odmor.
+Neiskorišteni dio godišnjeg odmora radnik mora iskoristiti najkasnije do 30. lipnja iduće godine.
+Godišnji odmor, odnosno dio godišnjeg odmora koji radnik zbog korištenja prava na rodiljni, roditeljski i posvojiteljski dopust te dopust radi skrbi i njege djeteta s težim smetnjama u razvoju nije mogao iskoristiti ili njegovo korištenje poslodavac nije omogućio do 30. lipnja sljedeće kalendarske godine, radnik ima pravo iskoristiti do kraja kalendarske godine u kojoj se vratio na rad.
+Po jedan dan godišnjeg odmora radnik ima pravo koristiti jedanput na godinu na dan koji želi, a još dva dana ako postoji mogućnost, ali uz obvezu da o tome najmanje 3 (tri) dana ranije obavijesti izravnog rukovoditelja.

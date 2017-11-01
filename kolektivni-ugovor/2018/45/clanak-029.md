@@ -1,0 +1,9 @@
+# Članak 29.
+Radnik koji je počeo korištenje odmora, koji je prekinut ili nije iskorišten zbog bolesti ili rodiljnog dopusta, ima ga pravo iskoristiti u skladu s člankom 25. ovog Ugovora.
+Radniku se može odgoditi odnosno prekinuti korištenje godišnjeg odmora radi izvršenja iznimno važnih i neodgodivih radnih obveza.
+Odluku o odgodi odnosno prekidu korištenja godišnjeg odmora iz stavka 1. ovoga članka donosi Poslodavac ili osoba koju on za to ovlasti.
+Radniku kojem je odgođeno ili prekinuto korištenje godišnjeg odmora, mora se omogućiti naknadno korištenje odnosno nastavljanje korištenja godišnjeg odmora.
+Radnik ima pravo na naknadu stvarnih troškova prouzročenih odgodom odnosno prekidom korištenja godišnjeg odmora radi izvršenja važnih i neodgodivih radnih obveza.
+Troškovima iz gornjeg stavka ovoga članka smatraju se putni i drugi troškovi. Putnim troškovima smatraju se stvarni troškovi prijevoza koji je radnik koristio u polasku i povratku iz mjesta zaposlenja do mjesta u kojem je koristio godišnji odmor u trenutku prekida, kao i dnevnice u povratku do mjesta zaposlenja prema propisima o naknadi troškova za službena putovanja. Drugim troškovima smatraju se ostali izdaci koji su nastali za radnika zbog odgode odnosno prekida godišnjeg odmora, što dokazuje odgovarajućom dokumentacijom.
+U slučaju prekida godišnjeg odmora zbog plaćenog dopusta ili razdoblja privremene nesposobnosti za rad, radnik je dužan vratiti se na rad onog dana kada bi mu godišnji odmor redovito završio da nije bilo plaćenog dopusta ili privremene nesposobnosti za rad. Ostatak godišnjeg odmora će koristiti naknadno, prema sporazumu s Poslodavcem.
+Ako plaćeni dopust ili razdoblje privremene nesposobnosti za rad završava nakon što bi završio godišnji odmor, radnik se vraća na rad po završetku trajanja plaćenog dopusta, odnosno privremene nesposobnosti za rad.
