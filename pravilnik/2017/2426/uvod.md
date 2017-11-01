@@ -1,0 +1,1 @@
+Na temelju članka 43.a stavka 6. Zakona o kaznenom postupku (»Narodne novine« 152/08, 76/09, 80/11, 121/11, 91/12, 143/12, 56/13, 145/13, 152/14, 70/17), ministar nadležan za poslove pravosuđa, uz prethodnu suglasnost ministra nadležnog za unutarnje poslove, donosi

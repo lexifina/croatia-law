@@ -1,0 +1,2 @@
+# Članak 7.
+Pri procjenjivanju postoje li rizici ili strah od nanošenja štete iz članka 5. točke 2. ovog Pravilnika uzet će se u obzir da teška kaznena djela uključuju, ali se ne ograničavaju, na nasilje u bliskim odnosima, rodno uvjetovano nasilje, spolno nasilje i spolno iskorištavanje, trgovanje ljudima, zločin iz mržnje, terorizam, organizirani kriminal i druga kaznena djela s elementima nasilja.

@@ -1,0 +1,4 @@
+# Članak 6.
+(1) Osobne značajke žrtve iz članka 5. točke 1. ovog Pravilnika uključuju značajke osobne ranjivosti, a posebno dob žrtve, moguću trudnoću ili nedavni porod, invaliditet, teškoće u komuniciranju (govoru, čitanju ili pisanju), zdravstveno stanje, ovisnost o alkoholu ili opojnim sredstvima, PTSP i slično.
+(2) Žrtva će se smatrati posebno ranjivom i ako je prethodno bila žrtvom kaznenog djela ili prekršaja s obilježjima nasilja, bez obzira da li je to postupanje bilo prijavljivano i procesuirano kao kazneno djelo odnosno prekršaj ili nije, uzimajući pritom u obzir sve okolnosti slučaja.
+(3) Posebno treba uzeti u obzir ako su kaznenim djelom pogođena i žrtvina djeca, odnosno druge osobe o kojima žrtva brine ili su ovisne o žrtvi, te u tom slučaju treba obavijestiti nadležni centar za socijalnu skrb s ciljem poduzimanja odgovarajućih mjera za njihovu zaštitu.
