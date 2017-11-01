@@ -1,0 +1,3 @@
+## I. OPĆE ODREDBE
+# Članak 1.
+Ovom Uredbom propisuje se sadržaj odluke o načinu pružanja javne usluge, način gospodarenja komunalnim otpadom u vezi s javnom uslugom prikupljanja miješanog komunalnog otpada i biorazgradivog komunalnog otpada te odvojenog prikupljanja otpadnog papira, metala, stakla, plastike, tekstila, problematičnog otpada i krupnog (glomaznog) otpada, prostorni razmještaj reciklažnih dvorišta, način izračuna granične količine miješanog komunalnog otpada za određena razdoblja, način i uvjeti određivanja i obračuna naknade za gradnju građevina za gospodarenje komunalnim otpadom i način obračuna poticajne naknade za smanjenje količine miješanog komunalnog otpada.
