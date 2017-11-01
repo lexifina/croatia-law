@@ -1,0 +1,1 @@
+Na temelju članka 92. stavka 5. Zakona o sigurnosti i interoperabilnosti željezničkog sustava (»Narodne novine«, br. 82/13, 18/15, 110/15 i 70/17), ministar mora, prometa i infrastrukture uz prethodno mišljenje ministra znanosti i obrazovanja donosi

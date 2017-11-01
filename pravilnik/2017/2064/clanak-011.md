@@ -1,0 +1,6 @@
+## Program stručnog osposobljavanja
+# Članak 11.
+(1) Minimalni elementi potrebni za program stručnog osposobljavanja za obavljanje poslova izvršnih radnika utvrđenih propisom kojim se uređuje popis poslova izvršnih radnika željezničkog sustava za funkcionalni podsustav odvijanje i upravljanje prometom propisani su Uredbom Komisije (EU) 2015/995 оd 8. lipnja 2015. o izmjeni Odluke 2012/757/EU o tehničkoj specifikaciji za interoperabilnost podsustava »odvijanje i upravljanje prometom« željezničkog sustava u Europskoj uniji (Tekst značajan za EGP) u dijelu koji se odnosi na praćenje i pripremu vlaka.
+(2) Minimalne elemente potrebne za program stručnog osposobljavanja za obavljanje poslova izvršnih radnika utvrđenih propisom kojim se uređuje popis poslova izvršnih radnika željezničkog sustava za funkcionalni podsustav održavanja upravitelj infrastrukture dužan je propisati općim aktom.
+(3) Ovisno o obujmu i složenosti poslova za koje se kandidat stručno osposobljava, pravna osoba dužna je općim aktom propisati sate trajanja stručnog osposobljavanja.
+(4) Pravna osoba može svoje izvršne radnike dodatno osposobljavati za obavljanje i drugih poslova ako zadovoljavaju propisane uvjete. U tom slučaju pravna osoba dužna je općim aktom propisati postupak, program i sate trajanja dodatnog stručnog osposobljavanja.
