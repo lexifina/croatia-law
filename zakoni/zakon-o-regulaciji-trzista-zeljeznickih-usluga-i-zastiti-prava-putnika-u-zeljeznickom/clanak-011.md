@@ -1,0 +1,8 @@
+## Sredstva za obavljanje poslova Regulatornog tijela
+# Članak 11.
+(1) Sredstva za obavljanje poslova Regulatornog tijela osiguravaju se na temelju godišnjeg financijskog plana Regulatornog tijela koji se donosi u skladu s odredbama zakona kojim se uređuje područje elektroničkih komunikacija, i to od godišnje naknade koju su dužni plaćati podnositelji zahtjeva, a koja se određuje u postotku od ukupnog godišnjeg brutoprihoda koji je upravitelj infrastrukture ostvario od željezničkih usluga u prethodnoj kalendarskoj godini.
+(2) Iznos godišnje naknade za obavljanje poslova Regulatornog tijela iz stavka 1. ovoga članka naplaćuje se od upravitelja infrastrukture koji ga preračunava i naplaćuje od podnositelja zahtjeva razmjerno udjelu pojedinog podnositelja zahtjeva u ukupnom godišnjem brutoprihodu koji je upravitelj infrastrukture ostvario od željezničkih usluga u prethodnoj kalendarskoj godini.
+(3) Izračun i visina naknade i način plaćanja naknade iz stavka 1. ovoga članka propisuju se pravilnikom koji donosi Vijeće Regulatornog tijela u skladu s odredbama zakona kojim je uređeno područje elektroničkih komunikacija.
+(4) Pravilnik iz stavka 3. ovoga članka donosi se, na temelju godišnjeg financijskog plana Regulatornog tijela za sljedeću kalendarsku godinu, najkasnije do kraja tekuće godine za sljedeću kalendarsku godinu.
+(5) Naknada iz stavka 1. ovoga članka utvrđuje se u skladu s načelima objektivnosti, transparentnosti, razmjernosti i nediskriminacije.
+(6) Ako Regulatorno tijelo ostvari višak prikupljenih sredstava u odnosu na ostvarenje godišnjeg financijskog plana Regulatornog tijela, na odgovarajući se način primjenjuju odredbe zakona kojim je uređeno područje elektroničkih komunikacija.

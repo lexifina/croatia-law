@@ -1,0 +1,7 @@
+## Prikupljanje podataka
+# Članak 16.
+(1) Upravitelj infrastrukture, operator uslužnog objekta, podnositelj zahtjeva i ostali subjekti na tržištu željezničkih usluga dužni su na zahtjev Regulatornog tijela dostaviti potrebne podatke u svrhu provedbe postupaka iz područja regulacije tržišta željezničkih usluga.
+(2) Regulatorno tijelo za dostavu podataka iz stavka 1. ovoga članka određuje razuman rok do najviše 30 dana, uz mogućnost produljenja za najviše 15 dana.
+(3) Podaci iz stavka 1. ovoga članka uključuju podatke koji su potrebni Regulatornom tijelu u okviru njegove zadaće rješavanja po zahtjevima i u svrhu nadzora nad tržišnim natjecanjem na tržištu željezničkih usluga, uključujući podatke koji su prijeko potrebni za potrebe statistike i praćenja tržišta.
+(4) Upravitelj infrastrukture i operator uslužnog objekta dužni su Regulatornom tijelu dostaviti sve potrebne informacije o naknadama za željezničke usluge te dokaz da su naknade za željezničke usluge obračunane sukladno metodologiji i strukturi za izračun naknade utvrđen u Izvješću o mreži.
+(5) Željeznički prijevoznik dužan je u roku od osam dana od dana ishođenja potvrde o sigurnosti i/ili dozvole za obavljanje usluga željezničkog prijevoza Regulatornom tijelu dostaviti podatke o punom i skraćenom nazivu prijevoznika, sjedištu i poreznom broju, osobi za kontakt za odnose s Regulatornim tijelom te presliku dozvole za obavljanje usluga željezničkog prijevoza i presliku potvrde o sigurnosti (Dio A i Dio B).

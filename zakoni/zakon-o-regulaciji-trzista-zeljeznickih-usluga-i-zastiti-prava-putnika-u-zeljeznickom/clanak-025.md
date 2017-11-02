@@ -1,0 +1,6 @@
+## Suradnja s nacionalnim tijelima
+# Članak 25.
+(1) Regulatorno tijelo dužno je surađivati s tijelom nadležnim za sigurnost i interoperabilnost željezničkog sustava i s tijelom nadležnim za izdavanje dozvola za obavljanje usluga željezničkog prijevoza i izraditi okvir za razmjenu informacija s ciljem sprječavanja negativnih učinaka na tržišno natjecanje na tržištu željezničkih usluga ili na sigurnost željezničkog sustava.
+(2) Regulatorno tijelo daje preporuke tijelu nadležnom za sigurnost i interoperabilnost željezničkog sustava i tijelu nadležnom za izdavanje dozvola za obavljanje usluga željezničkog prijevoza o pitanjima koja mogu utjecati na tržišno natjecanje na tržištu željezničkih usluga, pri čemu se odstupanje obvezno mora obrazložiti.
+(3) Regulatorno tijelo dužno je obrazložiti odbijanje preporuke tijela nadležnog za sigurnost i interoperabilnost željezničkog sustava i tijela nadležnog za izdavanje dozvola za obavljanje usluga željezničkog prijevoza o pitanjima koja mogu utjecati na sigurnost željezničkog sustava.
+(4) Regulatorno tijelo surađuje s tijelom nadležnim za zaštitu tržišnog natjecanja, i to tako da zahtijeva mišljenje tog tijela ili predlaže pokretanje postupka pred tim tijelom u svim slučajevima sprječavanja, ograničavanja ili narušavanja tržišnog natjecanja, u skladu s posebnim zakonom kojim je uređena zaštita tržišnog natjecanja.
