@@ -1,0 +1,15 @@
+# Članak 9.
+Članak 15. mijenja se i glasi:
+»(1) Pravna osoba koja obavlja djelatnost javne vodoopskrbe obvezna je osigurati da voda za ljudsku potrošnju koju isporučuje ispunjava sve propisane parametre za provjeru sukladnosti.
+(2) Pravna osoba iz stavka 1. ovoga članka mora:
+- zaštititi i održavati vodoopskrbne objekte kojima upravlja odnosno koje koristi,
+- osigurati da vodoopskrbni objekti udovoljavaju sanitarno-tehničkim i higijenskim te drugim uvjetima propisanim pravilnikom iz članka 10. stavka 1. podstavka 2. ovoga Zakona,
+- uspostaviti plan sigurnosti vode za ljudsku potrošnju koji se temelji na općim načelima procjene rizika opisanim u »Smjernicama za kvalitetu vode za piće« Svjetske zdravstvene organizacije te normi HRN EN 15975-2, odnosno drugim međunarodno priznatim normama koje se odnose na sigurnost opskrbe vodom za ljudsku potrošnju, a koji obuhvaća vodoopskrbni lanac od slivnog područja do mjesta isporuke,
+- prijaviti Stručnom povjerenstvu iz članka 11. ovoga Zakona i mjesno nadležnoj sanitarnoj inspekciji svako odstupanje parametara zdravstvene ispravnosti i indikatorskih parametara u vodi za ljudsku potrošnju od M.D.K. vrijednosti te dodatno Državnom zavodu za radiološku i nuklearnu sigurnost svako odstupanje parametara radioaktivnih tvari, propisanih pravilnikom iz članka 10. stavka 1. podstavka 1. ovoga Zakona, u roku od 24 sata od kada je odstupanje otkriveno,
+- obavijestiti nadležna tijela državne uprave kada je radi uklanjanja uzroka nesukladnosti s propisanim parametrima potrebno provesti mjere na vodozaštitnom području,
+- na svojim mrežnim stranicama objaviti ažurirane podatke, odnosno obavijestiti javnost drugim dostupnim sredstvima informiranja, o svim kemijskim i indikatorskim parametrima u vodi za ljudsku potrošnju nakon obrade propisanim pravilnikom iz članka 10. stavka 1. podstavka 1. ovoga Zakona,
+- na zahtjev subjekta u poslovanju s hranom osigurati rezultate provedenih analiza u vodi za ljudsku potrošnju koju mu isporučuje,
+- obavijestiti Hrvatski zavod za javno zdravstvo o svakoj promjeni planova sigurnosti vode za ljudsku potrošnju nakon odobrenja te dostaviti obrazloženje o nastalim promjenama.
+(3) Pravna osoba iz stavka 1. ovoga članka obvezna je osigurati financijska sredstva za provedbu početne ocjene sukladnosti i provedbu redovnih ocjena sukladnosti planova sigurnosti vode za ljudsku potrošnju.
+(4) Pravna osoba iz stavka 1. ovoga članka, koja ima odobrenje Ministarstva za korištenje opasnih kemikalija, odnosno kemikalija koje djeluju u obliku plina, prema posebnim propisima kojima je uređeno područje kemikalija, može provoditi dezinfekciju kao opću mjeru za sprečavanje i suzbijanje zaraznih bolesti u cilju osiguravanja zdravstvene ispravnosti vode za ljudsku potrošnju u vodoopskrbnom sustavu kojim upravlja.
+(5) Dezinfekcija se kao opća mjera provodi se s ciljem osiguranja zdravstvene ispravnosti vode za ljudsku potrošnju, predmeta koji dolaze u dodir s vodom za ljudsku potrošnju, sanitarno-tehničkih i higijenskih uvjeta na opremi, površinama, uređajima, u prostorijama i vodnim građevinama za vodoopskrbu kojima upravlja.«.
