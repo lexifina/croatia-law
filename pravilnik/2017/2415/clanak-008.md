@@ -1,0 +1,4 @@
+## OBJAVA IZVJEŠTAJA
+# Članak 8.
+(1) UAIF je dužan za AIF s javnom ponudom objaviti revidirane godišnje izvještaje (zajedno s revizorskim izvješćem o obavljenoj reviziji godišnjih izvještaja i godišnjim izvješćem AIF-a) i polugodišnje izvještaje iz članka 3. stavka 1. ovoga Pravilnika, na svojim mrežnim stranicama u rokovima istovjetnim rokovima iz članka 6. stavaka 1. i 2. ovoga Pravilnika.
+(2) UAIF je dužan na svojim mrežnim stranicama imati objavljene izvještaje iz stavka 1. ovoga članka najmanje za zadnjih 5 poslovnih godina ili od početka osnivanja AIF-a s javnom ponudom, ako AIF s javnom ponudom posluje kraće od 5 godina.
