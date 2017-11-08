@@ -1,0 +1,6 @@
+# Članak 18.
+(1) Smjernice obrambenog planiranja su dokument kojim se utvrđuju polazišta, ciljevi i prioriteti potrebni za daljnju razradu planova koji se odnose na obrambene sposobnosti i programiranje.
+(2) Smjernice obrambenog planiranja izrađuju se na temelju Ciljeva i prioriteta obrambene politike, Dugoročnog plana razvoja Oružanih snaga Republike Hrvatske, stanja sigurnosnog okružja, stanja obrambenih sposobnosti, Vojnih prioriteta Oružanih snaga Republike Hrvatske, prijedloga nadležnih ustrojstvenih jedinica Ministarstva obrane, projekcija financijskog plana te novonastalih obveza ili drugih važnih okolnosti.
+(3) Smjernice obrambenog planiranja obuhvaćaju srednjoročno razdoblje od šest godina na način da za predstojeće tri proračunske godine detaljnije utvrđuju ciljeve i prioritete, a za iduće tri godine daju općenite smjernice i planske projekcije.
+(4) Čelnik ustrojstvene jedinice Ministarstva obrane nadležne za obrambenu politiku donosi uputu za izradu Smjernica obrambenog planiranja kao metodologiju za pripremu i izradu toga dokumenta.
+(5) Ustrojstvena jedinica Ministarstva obrane nadležna za obrambenu politiku, u suradnji s ustrojstvenim jedinicama Ministarstva obrane i Glavnim stožerom Oružanih snaga, izrađuje Smjernice obrambenog planiranja svake godine do 15. ožujka.

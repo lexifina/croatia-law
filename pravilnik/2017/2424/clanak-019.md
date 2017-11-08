@@ -1,0 +1,4 @@
+# Članak 19.
+(1) Vojni prioriteti Oružanih snaga kratkoročni je planski dokument kojim načelnik Glavnog stožera Oružanih snaga predlaže prioritete u trogodišnjem razdoblju s fokusom na iduću godinu te identificira nedostajuće vojne sposobnosti.
+(2) Vojni prioriteti Oružanih snaga kao ulazne podatke koriste Vojnu strategiju, elemente Dugoročnog plana razvoja Oružanih snaga Republike Hrvatske koji se odnose na razvoj obrambenih sposobnosti, NATO ciljeve sposobnosti, projekte koji se provode po odlukama ministra obrane, naučene lekcije iz provedbe operacija te zahtjeve međunarodnih misija i operacija i drugih aktivnosti u kojima se predviđa sudjelovanje Oružanih snaga u idućem razdoblju.
+(3) Vojni prioriteti Oružanih snaga izrađuju se svake godine i dostavljaju ministru obrane do 28. veljače.

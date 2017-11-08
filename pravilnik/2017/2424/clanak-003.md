@@ -1,0 +1,8 @@
+## II. TEMELJNI POJMOVI
+# Članak 3.
+Pojedini pojmovi u smislu ovoga Pravilnika imaju sljedeće značenje:
+1. Obrambeno planiranje je proces utvrđivanja potrebnih obrambenih sposobnosti, načina njihova dostizanja i resursa za njihovu realizaciju u skladu s definiranom obrambenom politikom.
+2. Obrambena politika je smjer i sadržaj djelovanja tijela državne vlasti na području obrane, a odnosi se na definiranje i razvijanje nacionalnih ciljeva na području obrane i njihova odnosa prema društvu, definiranje vrste i razine potrebnih sposobnosti te utvrđivanje pristupa i prioriteta u odnosu na međunarodne obveze i aranžmane.
+3. Resursi obrane podrazumijevaju opremu, prostor i objekte te financijska sredstva za njihov razvoj, potporu i održavanje.
+4. Obrambena sposobnost predstavlja mjerljivu sposobnost obrambenog resora u cjelini ili njegovih dijelova odnosno ustrojstvenih jedinica Ministarstva obrane i Oružanih snaga da realiziraju postavljeni cilj prema utvrđenim standardima djelovanja u zadanim okolnostima i rokovima. Jedna obrambena sposobnost se u pravilu sastoji od više obrambenih sposobnosti niže razine kompleksnosti, a realizira se kroz jednu ili više ustrojstvenih ili namjenski organiziranih jedinica, pri čemu jedna ustrojstvena ili namjenski organizirana jedinica može posjedovati više obrambenih sposobnosti.
+5. Planiranje obrambenih sposobnosti kontinuirani je proces analiziranja, definiranja i dimenzioniranja obrambenih sposobnosti potrebnih za realizaciju ciljeva Republike Hrvatske na području obrane odnosno provedbu misija i zadaća Oružanih snaga te postavljanja okvirnih zahtjeva za potrebnim resursima.
