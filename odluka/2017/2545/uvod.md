@@ -1,0 +1,1 @@
+Na temelju članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/11, 119/14 i 93/16) i članka 18. stavka 2. Zakona o osiguranju radničkih tražbina (»Narodne novine«, broj 70/17), Vlada Republike Hrvatske je na sjednici održanoj 9. studenoga 2017. godine donijela
