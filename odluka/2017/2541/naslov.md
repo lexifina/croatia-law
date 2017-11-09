@@ -1,0 +1,1 @@
+Odluka o visini naknade predsjednicima, potpredsjednicima i članovima izbornih povjerenstava i biračkih odbora za provedbu prijevremenih i dopunskih izbora u jedinicama lokalne i područne (regionalne) samouprave
