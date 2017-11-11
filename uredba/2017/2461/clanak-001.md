@@ -1,0 +1,6 @@
+## I. OPĆE ODREDBE
+# Članak 1.
+(1) Ovom Uredbom propisuju se način i uvjeti za osnivanje prava građenja na poljoprivrednom zemljištu u vlasništvu Republike Hrvatske (u daljnjem tekstu: u vlasništvu države) kojim raspolaže Agencija za poljoprivredno zemljište (u daljnjem tekstu: Agencija) u svrhu izgradnje poljoprivrednih građevina i osnivanje prava služnosti na poljoprivrednom zemljištu u vlasništvu države.
+(2) Način određivanja iznosa naknade za osnivanje prava građenja te način određivanja iznosa naknade za služnost uslijed osnivanja prava služnosti utvrđuje se u skladu s propisima kojima se uređuje procjena vrijednosti nekretnina.
+(3) Agencija će na temelju provedenog postupka nabave sukladno posebnom propisu izabrati stalne sudske vještake za procjenu nekretnina ili stalne sudske procjenitelje s Popisa stalnih sudskih vještaka koje vode županijski ili trgovački sudovi prema prebivalištu podnositelja zahtjeva, odnosno sjedištu pravne osobe (u daljnjem tekstu: procjenitelj), koji će utvrđivati procjenu iznosa naknade za osnivanje prava građenja, te procjenu iznosa naknade za služnost, osim ako je posebnim propisima određeno da se za osnivanja prava građenja i prava služnosti ne plaća naknada.
+(4) Pored naknade za osnivanje prava građenja i prava služnosti, podnositelj zahtjeva dužan je snositi i trošak sudskog vještaka.
