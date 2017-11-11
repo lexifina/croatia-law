@@ -1,0 +1,9 @@
+## Informativna lista
+# Članak 5.
+(1) Hrvatska narodna banka sastavlja informativnu listu ponude kredita u domaćoj valuti i informativnu listu ponude kredita nominiranih u domaćoj valuti s valutnom klauzulom u eurima za sve kreditne institucije i objavljuje ih na službenim internetskim stranicama.
+(2) Popis izabranih vrsta kredita i informacija uključenih u informativnu listu ponude kredita u domaćoj valuti sadržan je u Obrascu IV. u Prilogu ove Odluke.
+(3) Popis izabranih vrsta kredita i informacija uključenih u informativnu listu ponude kredita nominiranih u domaćoj valuti s valutnom klauzulom u eurima sadržan je u Obrascu V. u Prilogu ove Odluke.
+(4) U slučaju promjene informacija uključenih u informativne liste koje se sastavljaju na temelju informacija iz stavaka 2. i 3. ovog članka, kreditna institucija dužna je Hrvatskoj narodnoj banci odmah dostaviti nove obrasce iz stavaka 2. i 3. ovog članka.
+(5) Iznimno od stavka 4. ovog članka, informacije o promjenama parametara kod promjenjive kamatne stope u odnosu na prethodno dostavljene obrasce iz stavaka 2. i 3. ovog članka kreditna institucija dužna je dostaviti jednom mjesečno. Vrijednosti promjenjivih parametara kreditna institucija dužna je iskazati sa stanjem na posljednji dan u mjesecu, a nove obrasce dostaviti u Hrvatsku narodnu banku u roku od sedam dana od isteka prethodnog mjeseca.
+(6) Ako je do promjene EKS-a došlo isključivo zbog promjene promjenjivog parametra, kreditna institucija dužna je informacije o tim promjenama dostaviti Hrvatskoj narodnoj banci na način i u rokovima iz stavka 5. ovog članka.
+(7) Hrvatska narodna banka će na temelju zaprimljenih popunjenih obrazaca iz stavaka od 2. do 6. ovog članka sastaviti odnosno izmijeniti informativne liste iz stavka 1. ovog članka za sve kreditne institucije i objaviti ih na službenim internetskim stranicama.

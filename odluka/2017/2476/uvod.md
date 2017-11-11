@@ -1,0 +1,1 @@
+Na temelju članka 304. točke 2. Zakona o kreditnim institucijama (»Narodne novine«, br. 159/2013., 19/2015. i 102/2015.), članka 14. stavka 13. Zakona o stambenom potrošačkom kreditiranju (»Narodne novine«, br. 101/2017.) i članka 43. stavka 2. točke 9. Zakona o Hrvatskoj narodnoj banci (»Narodne novine«, br. 75/2008. i 54/2013.) » Hrvatske narodne banke donosi
