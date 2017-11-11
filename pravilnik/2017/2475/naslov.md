@@ -1,0 +1,1 @@
+Pravilnik o stručnim mjerilima i postupku izdavanja odobrenja za obavljanje djelatnosti kolektivnog ostvarivanja prava i o naknadama za rad Vijeća stručnjaka za naknade u području autorskog prava i srodnih prava

@@ -1,0 +1,3 @@
+## I. OPĆE ODREDBE
+# Članak 1.
+Ovim pravilnikom uređuju se stručna mjerila koja moraju ispunjavati organizacije za kolektivno ostvarivanje prava za obavljanje djelatnosti kolektivnog ostvarivanja autorskih ili srodnih prava, sadržaj zahtjeva za izdavanje odobrenja te postupak izdavanja odobrenja Državnoga zavoda za intelektualno vlasništvo (u daljnjem tekstu: Zavod) organizacijama za kolektivno ostvarivanje prava, izvješćivanje Zavoda od neovisnih upravljačkih subjekata o namjeri kolektivnog ostvarivanja prava, evidencije Zavoda te mjerila za utvrđivanje naknade za rad Vijeća stručnjaka za naknade u području autorskog prava i srodnih prava (u daljnjem tekstu: Vijeće stručnjaka).

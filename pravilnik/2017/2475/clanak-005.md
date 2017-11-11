@@ -1,0 +1,2 @@
+# Članak 5.
+Organizacija za kolektivno ostvarivanje prava koja izdaje odobrenja za korištenje internetskih prava na autorskim glazbenim djelima za više državnih područja (multiteritorijalna odobrenja) dužna je imati odgovarajuće informatičke kapacitete za elektroničku obradu podataka koji su potrebni za izdavanje takvih odobrenja, utvrđivanje repertoara i praćenje njegova korištenja, razmjenu podataka s nositeljima prava i pružateljima internetskih usluga, izdavanje računa korisnicima, prikupljanje prihoda od prava te raspodjele iznosa nositeljima prava.
