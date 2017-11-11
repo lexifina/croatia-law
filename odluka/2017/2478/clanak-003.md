@@ -1,0 +1,7 @@
+## Obavijest o putovnici
+# Članak 3.
+(1) Na temelju podataka iz članka 2. ove Odluke Hrvatska narodna banka dostavlja obavijest o putovnici nadležnom tijelu države članice domaćina koristeći se obrascem obavijest o putovnici iz Priloga I. ili Priloga II. ove Odluke (dalje u tekstu: obrazac iz Priloga I. ili Priloga II.).
+(2) Hrvatska narodna banka može istodobno dostaviti više obavijesti o putovnici nadležnom tijelu države članice domaćina na način da ih grupira po vrstama koristeći se odgovarajućim naslovom obrasca iz Priloga I. ili Priloga II. ove Odluke. Ako se Hrvatska narodna banka i nadležno tijelo države članice domaćina tako dogovore, takve obavijesti o putovnici mogu se dostaviti u elektroničkom formatu.
+(3) Hrvatska narodna banka dostavlja obavijest o putovnici u pisanom obliku na jeziku koji prihvaća nadležno tijelo države članice domaćina.
+(4) Hrvatska narodna banka prosljeđuje obavijest o putovnici elektroničkim sredstvima kada je to moguće i prihvatljivo nadležnom tijelu države članice domaćina. Kada to nije moguće ili prihvatljivo, Hrvatska narodna banka obavijest o putovnici šalje poštom vodeći računa da ju nadležno tijelo države članice domaćina zaprimi u roku od mjesec dana od dana kada je kreditni posrednik Hrvatskoj narodnoj banci dostavio podatke iz članka 2. ove Odluke.
+(5) Nakon slanja obavijesti o putovnici nadležnom tijelu države članice domaćina, podatke iz obavijesti o putovnici Hrvatska narodna banka upisat će u registar kreditnih posrednika u skladu s Odlukom o registru kreditnih posrednika.
