@@ -1,0 +1,1 @@
+Na temelju članka 92. stavka 2. Zakona o Državnom sudbenom vijeću (»Narodne novine«, br. 116/10, 57/11, 130/11, 13/13, 28/13 i 82/15), Vlada Republike Hrvatske je na sjednici održanoj 2. studenoga 2017. godine donijela
