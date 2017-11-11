@@ -1,0 +1,3 @@
+# Članak 1.
+U Pravilniku o pravima uvjetima i načinu ostvarivanja prava iz obveznog zdravstvenog osiguranja u slučaju ozljede na radu i profesionalne bolesti (»Narodne novine«, broj 75/14., 154/14., 79/15., 139/15., 105/16., 40/17. i 66/17.), u članku 42. stavku 1. riječi: »Zakona o elektroničkom potpisu« zamjenjuju se riječima: »Zakona o provedbi Uredbe (EU) br. 910/2014 Europskog parlamenta i Vijeća od 23. srpnja 2014. o elektroničkoj identifikaciji i uslugama povjerenja za elektroničke transakcije na unutarnjem tržištu i stavljanju izvan snage Direktive 1999/93/EZ«.
+U stavku 2. brišu se riječi: »tiskan je uz Pravilnik o načinu prijavljivanja odjavljivanja te stjecanju statusa osigurane osobe u obveznom zdravstvenom osiguranju, a«.
