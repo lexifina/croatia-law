@@ -1,0 +1,7 @@
+## Podnošenje zahtjeva od strane kreditne institucije
+# Članak 10.
+(1) Zahtjev za izdavanje odobrenja za pružanje usluge kreditnog posredovanja za samo jednu kreditnu instituciju (u nastavku teksta: odobrenje za kreditno posredovanje za jednu kreditnu instituciju) podnosi kreditna institucija na Obrascu br. 5 iz Priloga ove Odluke i dužna mu je priložiti:
+1) izjavu kreditnoga posrednika da će usluge kreditnog posredovanja za stambene potrošačke kredite pružati isključivo za kreditnu instituciju;
+2) procjenu da kreditni posrednik ispunjava uvjete iz članka 31. stavka 2. točaka od 1. do 3., 5. i 6. Zakona o stambenom potrošačkom kreditiranju.
+(2) U procjeni iz stavka 1. točke 2. ovog članka kreditna institucija dužna je utvrditi ispunjava li kreditni posrednik uvjete iz članka 31. stavka 2. točaka od 1. do 3., 5. i 6. Zakona o stambenom potrošačkom kreditiranju.
+(3) Kreditna institucija dužna je osigurati da kreditni posrednik ispuni Izjavu kreditnog posrednika na Obrascu br. 2 iz Priloga ove Odluke i Obrazac br. 4 iz Priloga ove Odluke s podacima o osoblju kreditnog posrednika, a član uprave odgovoran za pružanje usluga kreditnog posredovanja ispuni Upitnik za člana uprave odnosno upravnog odbora kreditnog posrednika koji će biti odgovoran za pružanje usluge kreditnog posrednika na Obrascu br. 3 iz Priloga ove Odluke te da ih dostavi zajedno sa zahtjevom iz stavka 1. ovog članka.
