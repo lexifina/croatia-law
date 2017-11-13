@@ -1,0 +1,5 @@
+# Članak 1.
+1. U skladu s posljednjom izmjenom Smjernice za TARGET 2 (Smjernica Europske središnje banke ESB/2017/28 od 22. rujna 2017), u Odluci o uvjetima za otvaranje i funkcioniranje namjenskog novčanog računa (DCA) u sustavu TARGET2-HR (»Narodne novine«, br. 136/2015. i 33/2016.) u članku 24. stavak 6. mijenja se i glasi:
+»6. Ako je imatelj DCA-a privremeno isključen iz sustava TARGET2-HR iz drugih razloga osim onih navedenih u stavku 1. točki (a) ovog članka, svi ulazni i izlazni nalozi za plaćanje podnose se na namiru nakon što ih je izričito prihvatio SB privremeno isključenog imatelja DCA-a.«
+2. Dodaje se stavak 7. koji glasi:
+»7. Ako je imatelj DCA-a privremeno isključen iz sustava TARGET2-HR iz razloga navedenih u stavku 1. točki (a) ovog članka, svi izlazni nalozi za plaćanje tog imatelja DCA-a obrađuju se samo po uputama njegovih zastupnika, uključujući one koje je imenovalo nadležno tijelo ili sud (kao što je stečajni upravitelj imatelja DCA-a) ili u skladu s ovršnom odlukom nadležnog tijela ili suda koja sadržava upute o tome kako se plaćanja trebaju provesti. Sva ulazna plaćanja obrađuju se u skladu sa stavkom 6. ovog članka.«
