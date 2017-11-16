@@ -1,0 +1,8 @@
+# Članak 13.
+Iza članka 183. dodaje se članak 183.a koji glasi:
+»Članak 183.a
+(1) Prilikom sastavljanja vlastovnice u postupcima sastavljanja zemljišnoknjižnog uloška nakon provedene katastarske izmjere ili tehničke reambulacije, u kojim postupcima nisu prikupljeni podaci o nositeljima prava, u vlastovnicu će se unijeti podatak o osobama sukladno odredbi članka 183. stavka 1. U sumnji koliki su suvlasnički dijelovi, smatra se da su jednaki.
+(2) Ako se prilikom sastavljanja zemljišnoknjižnog uloška u nacrt uloška upiše čestica koja odgovara dijelu jedne ili više čestica upisanih u zemljišnoj knjizi koja će se zatvoriti, u uložak te zemljišne knjige upisat će se po službenoj dužnosti zabilježba o tome da je za dio čestice sastavljen nacrt novog zemljišnoknjižnog uloška te da je u tijeku postupak obnove zemljišne knjige. Ta će se zabilježba bez odgađanja brisati po službenoj dužnosti čim bude raspravljena cijela zemljišnoknjižna čestica.
+(3) Kad se stranke ne odazovu pozivu na raspravu povodom sastavljanja uložaka, niti nema isprava podobnih za upis, u uložak će se unijeti podaci utvrđeni u katastarskoj izmjeri ili tehničkoj reambulaciji, odnosno podaci katastarskog operata ako su oni novijeg datuma od onoga upisanog u zemljišnoj knjizi.
+(4) U postupku sastavljanja uložaka upisuju se osobni identifikacijski brojevi nositelja knjižnih prava.
+(5) Nacrt uloška sadrži zabilježbu da je u tijeku postupak osnivanja odnosno obnove ili dopune zemljišne knjige te da se upisi ne smatraju istinitima i potpunima pa se nitko ne može pozivati na to da je postupao s povjerenjem u njihovu istinitost ili potpunost. Ta će se zabilježba brisati s otvaranjem zemljišne knjige.«.
