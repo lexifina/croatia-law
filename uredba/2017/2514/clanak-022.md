@@ -1,0 +1,7 @@
+# Članak 22.
+Služba za upravni postupak obavlja upravne i stručne poslove u vezi s priznavanjem statusa, te materijalnih i trajnih prava pripadnika braniteljske i stradalničke populacije te s tim u vezi surađuje s tijelom nadležnim za medicinsko vještačenje; izrađuje odgovore na tužbe vezano za upravne sporove iz djelokruga Službe, te postupa po uputama i pravnim shvaćanjima upravnih sudova izraženim u presudama; obavlja upravne i druge stručne poslove koji se odnose na zaštitu prava pripadnika braniteljske i stradalničke populacije te sustavno prati stanja u vezi s njihovim društvenim i socijalnim položajem; provodi prvostupanjski postupak za stjecanje statusa i ostvarivanje prava žrtava seksualnog nasilja iz Domovinskog rata te u tu svrhu surađuje s Povjerenstvom za žrtve seksualnog nasilja.
+Služba sudjeluje u izradi Strateškog plana Ministarstva; prati ispunjavanje postavljenih ciljeva te osigurava informacije za redovito polugodišnje i godišnje izvještavanje o postignutim rezultatima iz svog djelokruga; utvrđuje rizike, prati ih i izvješćuje o njima koordinatora za razvoj sustava unutarnjih kontrola u Ministarstvu; sudjeluje u izradi Financijskog plana Ministarstva u okviru svog djelokruga. Služba obavlja i druge poslove u okviru svog djelokruga.
+Za obavljanje poslova iz djelokruga Službe za upravni postupak ustrojavaju se:
+5.1.1.1. Odjel za trajna prava
+5.1.1.2. Odjel za materijalna prava.
+5.1.1.1. Odjel za trajna prava

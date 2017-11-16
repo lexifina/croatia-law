@@ -1,0 +1,10 @@
+# Članak 21.
+Sektor za upravne i pravne poslove obavlja upravne i stručne poslove u vezi s priznavanjem statusa, te materijalnih i trajnih prava pripadnika braniteljske i stradalničke populacije; sustavno prati stanja u vezi s društvenim i socijalnim položajem i zaštitom pripadnika braniteljske i stradalničke populacije; obavlja stručne poslove vezano uz vođenje evidencija ostvarenih statusa i prava.
+Sektor surađuje s pravosudnim tijelima Republike Hrvatske u predmetima iz djelokruga Ministarstva; obavlja upravne i stručne poslove u građanskim, kaznenim i ovršnim postupcima te upravnim sporovima iz djelokruga Ministarstva; pruža pravnu i stručnu pomoć za ostvarivanje prava pripadnicima braniteljske i stradalničke populacije iz djelokruga Sektora.
+Sektor sudjeluje u izradi Strateškog plana Ministarstva, prati ispunjavanje postavljenih ciljeva te osigurava informacije za redovito polugodišnje i godišnje izvještavanje o postignutim rezultatima iz svog djelokruga, utvrđuje rizike, prati ih i izvješćuje o njima koordinatora za razvoj sustava unutarnjih kontrola u Ministarstvu; predlaže godišnji plan rada Sektora s programima iz svog djelokruga; sudjeluje u izradi Financijskog plana Ministarstva u vezi s realizacijom općeg i posebnog cilja u okviru svog djelokruga.
+Sektor obavlja stručne poslove koji se odnose na sudjelovanje s ministarstvom nadležnim za upravljanje državnom imovinom u poslovima upravljanja i raspolaganja dionicama i poslovnim udjelima trgovačkih društava koji čine državnu imovinu u vlasništvu Republike Hrvatske te u pogledu trgovačkih društava koja se pretežno bave djelatnostima iz područja propisane nadležnosti Ministarstva. Sektor obavlja i druge poslove u okviru svog djelokruga.
+Za obavljanje poslova iz djelokruga Sektora za upravne i pravne poslove ustrojavaju se:
+5.1.1. Služba za upravni postupak
+5.1.2. Služba za statuse i evidencije
+5.1.3. Služba za suradnju s pravosudnim tijelima i rješavanje po predstavkama i pritužbama.
+5.1.1. Služba za upravni postupak
