@@ -1,0 +1,1 @@
+Pravilnik o metodologiji, rokovima za izradu i dostavu, načinu izvršavanja programa javnih potreba, o načinu i rokovima izvještavanja o provedbi programa te o metodologiji izrade financijskog plana javnih potreba u sportu

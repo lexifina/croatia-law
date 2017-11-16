@@ -1,0 +1,3 @@
+## I. OPĆE ODREDBE
+# Članak 1.
+Pravilnikom o metodologiji, rokovima za izradu i dostavu, načinu izvršavanja programa javnih potreba, o načinu i rokovima izvještavanja o provedbi programa te o metodologiji izrade financijskog plana javnih potreba u sportu (u daljnjem tekstu: Pravilnik) propisuje se metodologija, rokovi izrade i dostave programa javnih potreba u sportu i financijskog plana, način izvršavanja, dostava zahtjeva, način i rokovi izvještavanja o provedbi programa javnih potreba u sportu (u daljnjem tekstu: program javnih potreba) i financijskog plana javnih potreba u sportu (u daljnjem tekstu: financijski plan).

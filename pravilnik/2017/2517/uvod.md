@@ -1,0 +1,1 @@
+Na temelju članka 75. stavka 13. Zakona o sportu (»Narodne novine«, broj 71/06, 150/08, 124/10, 124/11, 86/12, 94/13, 85/15 i 19/16), uz prethodno mišljenje Ministarstva financija, državna tajnica Središnjeg državnog ureda za šport (u daljnjem tekstu: SDUŠ) donosi
