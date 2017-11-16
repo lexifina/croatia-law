@@ -1,0 +1,3 @@
+# Članak 33.
+U članku 256. stavak 1. mijenja se i glasi:
+»(1) Nova motorna i priključna vozila registrirana u Republici Hrvatskoj, koja sudjeluju u prometu na cestama, vlasnici su dužni podvrgnuti redovitom tehničkom pregledu tijekom mjeseca u kojem istječe rok od 24 mjeseca od prve registracije vozila, osim novih motornih i priključnih vozila za prijevoz tereta najveće dopuštene mase veće od 3500 kg, motornih vozila za prijevoz osoba koja osim sjedala za vozača imaju više od osam sjedala, vozila hitne medicinske pomoći i vozila za taksi prijevoz, koja su vlasnici dužni podvrgnuti redovitom tehničkom pregledu tijekom mjeseca u kojem istječe rok od 12 mjeseci od prve registracije vozila.«.

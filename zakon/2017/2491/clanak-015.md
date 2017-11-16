@@ -1,0 +1,13 @@
+# Članak 15.
+Članak 202. mijenja se i glasi:
+»(1) Za provedbu djelatnosti osposobljavanja kandidata za vozače, u skladu s člankom 201. ovoga Zakona, autoškola mora imati:
+1) instruktora vožnje te stručnog voditelja autoškole i predavača nastavnog predmeta Prometni propisi i sigurnosna pravila, koji mogu osposobljavati kandidate za vozače i kao instruktori vožnje,
+2) propisno opremljenu učionicu, uredski prostor za prijem kandidata i rad stručnog voditelja autoškole,
+3) propisno opremljeno i označeno prometno vježbalište za osposobljavanje kandidata za vozače onih kategorija vozila za koje autoškola ima ovlaštenja od najmanje 510 m2, udaljeno najviše 10 km cestom od autoškole i pomoćne prostore koji omogućuju nesmetano osposobljavanje kandidata i obavljanje djelatnosti, u vlasništvu ili zakupu,
+4) najmanje po jedno tehnički ispravno vozilo one kategorije za koju se obavlja osposobljavanje u vlasništvu, leasingu ili najmu, opremljeno za osposobljavanje kandidata za vozače A1, A2, A, AM i B kategorije vozila do deset godina starosti, priključno vozilo do 20 godina starosti, a za ostale kategorije vozilo do 15 godina starosti,
+5) nastavna sredstva i pomagala, informatičku opremu i program za realizaciju sadržaja nastavnog predmeta Prometni propisi i sigurnosna pravila te računalnu opremu za ostvarivanje informatičke povezanosti s ovlaštenom stručnom organizacijom iz članka 206. ovoga Zakona.
+(2) Iznimno od odredbe stavka 1. točke 4. ovoga članka, starost vozila B kategorije koje je dodatno prilagođeno za osposobljavanje osoba s invaliditetom i osoba s tjelesnim oštećenjem može biti do 15 godina starosti.
+(3) Odredbe stavka 1. točke 4. ovoga članka ne primjenjuju se na vozila Oružanih snaga Republike Hrvatske.
+(4) Autoškola smije, u podružnici (izdvojenom pogonu), izvan sjedišta osposobljavati kandidate za vozače ako ispunjava uvjete iz ovoga članka te ako joj ministarstvo nadležno za unutarnje poslove za to izda ovlaštenje i odobri upis u registar.
+(5) Osposobljavanje kandidata za vozače u autoškoli iz nastavnog predmeta Prometni propisi i sigurnosna pravila izvodi predavač, iz nastavnog predmeta Upravljanje vozilom izvodi instruktor vožnje, a iz nastavnog predmeta Pružanje prve pomoći osobama ozlijeđenim u prometnoj nesreći izvodi predavač, doktor medicine.
+(6) Autoškola samostalno izrađuje cjenik za uslugu osposobljavanja kandidata za vozača iz nastavnih predmeta Prometni propisi i sigurnosna pravila i Upravljanje vozilom u autoškoli za pojedinu kategoriju vozila. Cijena osposobljavanja kandidata za vozače je sastavni dio ugovora koji sklapaju kandidat za vozača i autoškola.«.

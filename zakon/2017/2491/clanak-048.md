@@ -1,0 +1,2 @@
+# Članak 48.
+Stručne organizacije iz članka 206. i 273. Zakona o sigurnosti prometa na cestama (»Narodne novine«, br. 67/08., 48/10. - Odluka Ustavnog suda Republike Hrvatske, 74/11., 80/13., 158/13. - Odluka i Rješenje Ustavnog suda Republike Hrvatske, 92/14. i 64/15.) dužne su uskladiti i organizirati svoju djelatnost i donijeti opće akte u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.
