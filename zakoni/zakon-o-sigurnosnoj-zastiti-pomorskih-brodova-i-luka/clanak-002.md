@@ -1,0 +1,2 @@
+# Članak 2.
+Ovim se Zakonom utvrđuju uvjeti za provedbu Uredbe (EZ) br. 725/2004 Europskog parlamenta i Vijeća od 31. ožujka 2004. o jačanju sigurnosne zaštite brodova i luka (Tekst značajan za EGP) (SL L 129, 29. 4. 2004.) – u daljnjem tekstu: Uredba (EZ) br. 725/2004 te se u pravni poredak Republike Hrvatske prenose odredbe Direktive 2005/65/EZ Europskog parlamenta i Vijeća od 26. listopada 2005. o jačanju sigurnosne zaštite luka (Tekst značajan za EGP) (SL L 320, 25. 11. 2005.).

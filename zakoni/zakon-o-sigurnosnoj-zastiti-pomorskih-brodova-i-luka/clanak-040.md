@@ -1,0 +1,3 @@
+# Članak 40.
+(1) Brodar mora osigurati da su svi članovi posade broda prije svog ukrcaja na brod odnosno prije ukrcaja osoba za naoružanu pratnju obaviješteni o ukrcaju osoba za naoružanu pratnju i upoznati s primjenjivim propisima, mjerama i postupcima te im se mora dati mogućnost da se ne ukrcaju na takav brod odnosno da se s njega iskrcaju i osigurati im povratak u mjesto njihova prebivališta ili do sljedeće pogodne luke u kojoj mogu nastaviti plovidbu.
+(2) U slučajevima korištenja mogućnosti odbijanja ukrcaja odnosno traženja iskrcaja iz stavka 1. ovoga članka pomorci ne smiju snositi nikakve negativne posljedice.

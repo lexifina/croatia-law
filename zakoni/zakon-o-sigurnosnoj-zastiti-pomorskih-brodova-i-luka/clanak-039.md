@@ -1,0 +1,2 @@
+# Članak 39.
+Ministar, uz prethodno mišljenje ministra nadležnog za unutarnje poslove i ministra nadležnog za obranu, pravilnikom uređuje detaljnije uvjete koje moraju ispunjavati pravne osobe koje pružaju usluge ukrcaja osoba za naoružanu pratnju na brodove hrvatske državne pripadnosti te isprave i podatke koji se prilažu zahtjevu za dopuštenje ukrcaja osoba za naoružanu pratnju na brodove hrvatske državne pripadnosti.
