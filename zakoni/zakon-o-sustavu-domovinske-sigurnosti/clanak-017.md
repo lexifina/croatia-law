@@ -1,0 +1,2 @@
+# Članak 17.
+Ured Vijeća za nacionalnu sigurnost sudjeluje u izradi strateških dokumenata iz područja nacionalne sigurnosti i sustava domovinske sigurnosti, kao i u izradi procjene nacionalnih sigurnosnih rizika i određivanju prioriteta u njihovu tretiranju te u vezi s tim surađuje i daje potporu nadležnim državnim tijelima, osobito onima čije su obveze određene zakonom kojim se uređuje sigurnosna zaštita kritičnih infrastruktura.
