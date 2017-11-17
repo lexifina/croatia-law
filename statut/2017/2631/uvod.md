@@ -1,0 +1,1 @@
+Na temelju članka 18. stavka 2. Zakona o osiguranju radničkih tražbina (»Narodne novine« broj 70/17) i članka 54. stavka 1. Zakona o ustanovama (»Narodne novine« broj 76/93, 29/97, 47/99 i 35/08) Upravno vijeće Agencije za osiguranje radničkih tražbina na sjednici održanoj 19. listopada 2017. godine, donijelo je
