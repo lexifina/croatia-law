@@ -1,0 +1,1 @@
+Na temelju članka 61. Zakona o posredovanju pri zapošljavanju i pravima za vrijeme nezaposlenosti (»Narodne novine« br. 16/17) i članka 21. Statuta Hrvatskoga zavoda za zapošljavanje (»Narodne novine« br. 109/12, 12/14, 40/17, 100/17) Upravno vijeće Hrvatskoga zavoda za zapošljavanje na sjednici održanoj 31. 10. 2017. godine donijelo je
