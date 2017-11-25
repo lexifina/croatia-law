@@ -1,0 +1,4 @@
+# Članak 8.
+(1) Odredbe članka 6. stavka 1. i 2. ovoga Pravilnika ne odnose se na glavne projekte čija je izrada započeta do stupanja na snagu Pravilnika o jednostavnim građevinama i radovima (»Narodne novine«, br. 21/09, 57/10, 126/10, 48/11, 81/12 i 69/13), ako je građenje na temelju tog projekta započeto u roku od 90 dana od dana stupanja na snagu toga Pravilnika i na glavni projekt za čiju je izradu pokrenut postupak javne nabave do stupanja na snagu toga Pravilnika.
+(2) Početkom izrade glavnog projekta u smislu stavka 1. ovoga članka smatra se dan sklapanja ugovora o izradi tog projekta.
+(3) Odredbe članka 6. stavka 3. i 4. ovoga Pravilnika ne odnose se na građenje građevina i izvođenje radova koje je započeto prije stupanja na snagu Pravilnika o jednostavnim građevinama i radovima (»Narodne novine«, br. 21/09, 57/10, 126/10, 48/11, 81/12 i 69/13).
