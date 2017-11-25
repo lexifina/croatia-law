@@ -1,0 +1,1 @@
+Na temelju članka 4. Zakona o izmjenama Zakona o lokalnim porezima (»Narodne novine« br. 101/17), i članka 18. Statuta Općine Babina Greda (»Sl. vjesnik« 11/09, 04/13, 03/14) Općinsko vijeće Općine Babina Greda na 4. sjednici održanoj 10. studenoga 2017. godine donosi
