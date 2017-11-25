@@ -1,0 +1,1 @@
+Na temelju članka 152. u vezi članka 158. a stavka 9. Zakona o državnom odvjetništvu (»Narodne novine«, broj 76/09, 153/09, 116/10, 145/10, 57/11, 130/11, 72/13, 148/13, 33/15 i 82/15) na sjednici Državnoodvjetničkog vijeća (u daljnjem tekstu: Vijeće) održanoj 9. studenoga 2017. donijelo je

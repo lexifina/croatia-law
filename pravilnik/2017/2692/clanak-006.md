@@ -1,0 +1,9 @@
+# Članak 6.
+Članak 8. mijenja se i glasi:
+»(1) Kada se na oglas za slobodno mjesto zamjenika Glavnog državnog odvjetnika prijave samo državnoodvjetnički dužnosnici, imenovanje kandidata će se obaviti sukladno odredbama članaka 157., 158., 159., 161., 109. i 110. stavka 3. Zakona o državnom odvjetništvu.
+(2) Kada se na oglas za slobodno mjesto zamjenika Glavnog državnog odvjetnika prijave kandidati koji obnašaju pravosudnu dužnost i koji su ocijenjeni temeljem različitih mjerila, njihovi bodovi iz ocjena obnašanja pravosudnih dužnosti uskladit će se množenjem s koeficijentom (K) koji predstavlja decimalni broj zaokružen na dva decimalna mjesta i izračunava na sljedeći način:
+- najviši mogući bodovi iz najviše ocjene koju je mogao dobiti neki od prijavljenih kandidata u vrijeme prijave na oglas / najviši mogući bodovi iz najviše ocjene koje je pojedini kandidat mogao dobiti u vrijeme njegova ocjenjivanja.
+(3) Kada se na oglas za slobodno mjesto zamjenika Glavnog državnog odvjetnika prijave kandidati koji u trenutku podnošenja prijave na oglas ne obnašaju pravosudnu dužnost ili obnašaju pravosudnu dužnost, a ne mogu biti ocijenjeni sukladno pravilima za ocjenjivanje pravosudnih dužnosnika, Vijeće će provesti postupak provjere znanja sukladno članku 158.a Zakona o državnom odvjetništvu i odredbama ovog Pravilnika.
+(4) Bodovi iz ocjena obnašanja pravosudne dužnosti kandidata usklađuju se s bodovima kandidata dobivenim na provjeri znanja množenjem s koeficijentom (K) koji predstavlja decimalni broj zaokružen na dva decimalna mjesta i izračunava se na sljedeći način:
+- 150/najviši mogući bodovi iz najviše ocjene koje je pojedini kandidat mogao dobiti u vrijeme njegova ocjenjivanja.
+(5) U slučaju iz stavaka 2. i 3. ovog članka, kandidati će se pozvati na razgovor, osim kandidata iz članka 7.a ovog Pravilnika.«
