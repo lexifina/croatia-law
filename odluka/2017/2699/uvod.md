@@ -1,0 +1,1 @@
+Na temelju članaka 20. i 42. Zakona o lokalnim porezima (»Narodne novine« br. 115/16, 101/17) i članka 30. Statuta Općine Staro Petrovo Selo (»Službeni glasnik Općine Staro Petrovo Selo« 03/09, 01/2013), Općinsko vijeće Općine Staro Petrovo Selo na 4. sjednici održanoj 13. studenoga 2017. godine donijelo je
