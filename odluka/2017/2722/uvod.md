@@ -1,0 +1,1 @@
+Na temelju članka 8. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/11, 119/14 i 93/16), članka 3. Zakona o plaćama u javnim službama (»Narodne novine«, br. 27/01 i 39/09) i članka 2. Zakona o osnovici plaće u javnim službama (»Narodne novine«, br. 39/09 i 124/09), Vlada Republike Hrvatske je na sjednici održanoj 30. studenoga 2017. godine donijela
