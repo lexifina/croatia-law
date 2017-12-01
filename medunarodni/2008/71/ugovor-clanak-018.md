@@ -1,0 +1,9 @@
+# Članak 18.
+1. Ovim Sporazumom osnovan je Zajednički odbor koji će biti odgovoran za administraciju vezanu uz ovaj Sporazum i osigurat će njegovu pravilnu provedbu ne dovodeći u pitanje članak 15.(2.) i (3.), te članke 21. i 22. U tu će svrhu izdavati preporuke i donositi odluke u slučajevima predviđenim ovim Sporazumom. Odluke Zajedničkog odbora ugovorne će stranke staviti na snagu sukladno njihovim vlastitim propisima.
+2. Zajednički će se odbor sastojati od predstavnika ugovornih stranaka.
+3. Zajednički će odbor djelovati na temelju konsenzusa. Međutim, Zajednički odbor može odlučiti da propiše postupak izglasavanja većinom glasova za određena posebna pitanja.
+4. U svrhu pravilnog provođenja ovog Sporazuma ugovorne stranke će razmjenjivati informacije, među ostalim, o novom zakonodavstvu ili odlukama koje su od značaja za ovaj Sporazum, te, na zahtjev bilo koje stranke, održavat će konzultacije sa Zajedničkim odborom, uključujući i konzultacije o pitanjima društvene usklađenosti.
+5. Zajednički će odbor usvojiti svoj poslovnik.
+6. Partner Europskog zajedničkog zračnog prostora (ECAA) ili Europska zajednica i njene države članice će naizmjence predsjedati Zajedničkim odborom sukladno postupcima utemeljenim poslovnikom.
+7. Predsjednik Zajedničkog odbora sazivat će sjednice Odbora barem jedanput godišnje kako bi se preispitala općenita provedba ovog Sporazuma i kad god to budu zahtijevale posebne okolnosti, na zahtjev neke ugovorne stranke. Zajednički odbor će neprestano revidirati razvoj običajnog prava Suda. S tim ciljem Europska će zajednica prenijeti partner Europskog zajedničkog zračnog prostora (ECAA) sve presude Suda koje su značajne za primjenu ovog Sporazuma. Zajednički odbor će reagirati u roku od tri mjeseca kako bi sačuvao jedinstveno tumačenje ovog Sporazuma.
+8. Zajednički odbor može odlučiti da uspostavi bilo kakvo radno tijelo koje bi mu moglo pomagati u provođenju njegovih obveza.

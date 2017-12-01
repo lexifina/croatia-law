@@ -1,0 +1,5 @@
+# Članak 31.
+PRESTANAK
+1. Svaka ugovorna stranka može otkazati ovaj Sporazum obavijesti danom depozitaru koji će o tom otkazu obavijestiti druge ugovorne stranke i Međunarodnu organizaciju civilnog zrakoplovstva. Ako ovaj Sporazum otkaže Europska zajednica i države članice Europske zajednice on će prestati biti na snazi godinu dana nakon datuma obavijesti. Ako ovaj Sporazum otkaže neka druga ugovorna stranka on će prestati biti na snazi samo za tu ugovornu stranku godinu dana nakon datuma obavijesti. Međutim, zračni promet koji se odvija na datum isteka ovog Sporazuma može se nastaviti do kraja sezone reda letenja Međunarodne udruge zračnih prijevoznika (IATA) u koju pada datum isteka.
+2. Nakon pristupanja neke pridružene stranke Europskoj uniji ta će stranka, posljedično tome, a i prema ovom Sporazumu prestati biti pridružena stranka te će umjesto toga postati država članica Europske unije.
+3. Ovaj će Sporazum prestati biti na snazi ili će se obustaviti glede neke pridružene stranke ako sporazum o pridruživanju koji se odnosi na tu stranku prestane biti na snazi ili ako se obustavi.

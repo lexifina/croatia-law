@@ -1,0 +1,5 @@
+# Članak 29.
+STUPANJE NA SNAGU
+1. Ovaj Sporazum podliježe ratifikaciji ili odobrenju od strane potpisnica u skladu s njihovim vlastitim postupcima. Isprave o ratifikaciji ili odobrenju polažu se u Glavnom tajništvu Vijeća Europske unije (depozitar) koje će o tome obavijestiti sve ostale potpisnice kao i Međunarodnu organizaciju civilnog zrakoplovstva.
+2. Ovaj Sporazum stupa na snagu prvog dana drugog mjeseca od datuma pohrane instrumenata ratifikacije ili odobrenja Europske zajednice i država članica Europske zajednice i barem jedne pridružene stranke. Za svaku potpisnicu koja ratificira ili odobri ovaj Sporazum nakon toga datuma, on stupa na snagu prvog dana drugog mjeseca od polaganja isprave o ratifikaciji ili odobrenju te potpisnice.
+3. Ne dovodeći u pitanje stavak 1. i 2., Europska zajednica i njezine države članice i barem jedna pridružena stranka mogu odlučiti da između sebe privremeno primjenjuju ovaj Sporazum od datuma njegovog potpisivanja, sukladno s primjenom nacionalnog zakonodavstva, obavještavajući o tome depozitara koji će o tome obavijestiti ostale potpisnice.

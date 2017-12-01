@@ -1,0 +1,2 @@
+# Članak 1.
+Potvrđuje se Mnogostrani sporazum između Europske zajednice i njezinih država članica, Republike Albanije, Bosne i Hercegovine, Republike Bugarske, Republike Hrvatske, Bivše Jugoslavenske Republike Makedonije, Republike Island, Republike Crne Gore, Kraljevine Norveške, Rumunjske, Republike Srbije i Misije privremene Uprave Ujedinjenih naroda na Kosovu o uspostavi Europskog zajedničkog zračnog prostora, potpisan u Luxembourgu, 9. lipnja 2006., u izvorniku na službenim jezicima Europske zajednice i službenim jezicima drugih ugovornih strana.

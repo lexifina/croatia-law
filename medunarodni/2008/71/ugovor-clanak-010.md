@@ -1,0 +1,4 @@
+# Članak 10.
+1. Ne dovodeći u pitanje povoljnije odredbe u postojećim sporazumima, te u djelokrugu ovog Sporazuma, ugovorne stranke će ukinuti količinska ograničenja i mjere koje imaju jednakovrijednu učinkovitost, na prijenos opreme, zaliha, rezervnih dijelova i drugih uređaja ako su potrebni zračnom prijevozniku Europskog zajedničkog zračnog prostora (ECAA) za nastavak pružanja usluga zračnog prometa pod uvjetima predviđenim ovim Sporazumom.
+2. Obveza navedena u stavku 1. neće onemogućavati ugovorne stranke da zabrane ili nametnu ograničenja na takve prijenose koja su opravdana na temelju općih interesa ili javne sigurnosti u zaštiti zdravlja i života ljudi, životinja ili biljaka; ili u zaštiti intelektualnog, industrijskog ili gospodarskog vlasništva. Međutim, takve zabrane ili ograničenja neće predstavljati načine proizvoljne diskriminacije ili prikrivenog ograničenja trgovine između ugovornih stranaka.
+Odredbe o zrakoplovnoj sigurnosti

@@ -1,0 +1,7 @@
+# Članak 13.
+1. Ugovorne će stranke surađivati u području upravljanja zračnim prometom u pogledu proširenja Jedinstvenog europskog zračnog prostora (Single European Sky) na Europski zajednički zračni prostor (ECAA) kako bi povećale postojeće sigurnosne standarde i sveukupnu učinkovitost općih standarda zračnog prometa u Europi, kako bi optimirale kapacitete i minimalizirale kašnjenja.
+2. U pogledu olakšavanja primjene zakonskih propisa Jedinstvenog europskog zračnog prostora na njihovim državnim područjima,
+- Pridružene stranke će, unutar ograničenja svoje vlastite nadležnosti, prvom prilikom poduzeti potrebne mjere da usklade svoje institucionalne strukture upravljanja zračnim prometom s Jedinstvenim europskim zračnim prostorom, a posebno određujući ili utemeljujući primjerena nacionalna nadzorna tijela koja će barem funkcionalno biti neovisna od pružatelja usluge upravljanja zračnim prometom.
+- Europska zajednica će povezati pridružene stranke s bilo kojom operativnom inicijativom na području usluga zračne plovidbe, zračnog prostora i interoperabilnosti koje proizlaze iz Jedinstvenog europskog zračnog prostora, a posebno kroz rano uključivanje pregnuća odgovarajućih ugovornih stranaka za uspostavom funkcionalnih blokova zračnog prostora.
+3. Europska će zajednica nastojati da pridružene stranke u potpunosti budu uključene u razvoj glavnog ATM plana kroz cjelokupan SESAR program Komisije.
+Tržišno natjecanje
