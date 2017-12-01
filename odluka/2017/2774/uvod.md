@@ -1,0 +1,1 @@
+Na temelju članka 42. Zakona o lokalnim porezima (»Narodne novine« br. 115/2016 i 101/2017) i članka 24. Statuta Općine Barban (»Službene novine Općine Barban«, br. 22/2013.), Općinsko vijeće Općine Barban na svojoj 5. sjednici održanoj 22. studenoga 2017.godine donosi
