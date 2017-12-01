@@ -1,0 +1,1 @@
+Na temelju članka 42. Zakona o lokalnim porezima (»Narodne novine«, br. 115/2016 i 101/2017) i članka 17. Statuta Općine Pisarovina (»Glasnik Zagrebačke županije« broj 11/07, 21/09, 1/13 i 10/13), Općinsko vijeće Općine Pisarovina na 5. sjednici održanoj 24. listopada 2017. godine donijelo je
