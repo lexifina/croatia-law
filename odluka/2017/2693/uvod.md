@@ -1,0 +1,1 @@
+Na temelju članka 28. točke 20. Statuta Hrvatske gospodarske komore (»Narodne novine«, br. 39/16.) i članka 47. stavka 4. Pravilnika o Sudu časti pri Hrvatskoj gospodarskoj komori (»Narodne novine«, br. 66/06., 114/06. - ispravak, 129/07., 8/08. - ispravak i 74/15.), Upravni odbor Hrvatske gospodarske komore na 20. sjednici 7. studenoga 2017. godine donosi
