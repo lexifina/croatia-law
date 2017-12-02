@@ -1,0 +1,2 @@
+# Članak 9.
+U članku 86. riječi: »Služba kroz mjere za razvoj brodarstva provodi postupke za dodjelu državnih pomoći i potpora za modernizaciju flote i jačanje konkurentnosti unutarnje plovidbe.« zamjenjuju se riječima: »Služba kroz mjere za razvoj brodarstva provodi postupke u vezi sa stipendiranjem, učenika i studenata škola i fakulteta za usmjerenja iz područja unutarnje plovidbe, te vježbeničkim stažem brodaraca. Služba provodi postupke dodjele državnih pomoći i potpora za modernizaciju flote i jačanje konkurentnosti unutarnje plovidbe.«.

@@ -1,0 +1,5 @@
+# Članak 5.
+Naslov iznad članka 34. i članak 34. mijenjaju se i glase:
+»3.1.2.2. Odjel za potpore brodarima i ostale gospodarske aktivnosti na moru
+Članak 34.
+Odjel za potpore brodarima i ostale gospodarske aktivnosti na moru predlaže, priprema, prati i izvršava potpore brodarima i ostalim sudionicima u pomorskom prometu i brodarstvu, priprema programe vezane za sufinanciranje gradnje brodova, obnove putničke i izletničke flote sukladno zakonima kojima se regulira područje državnih potpora, te smjernicama Europske unije o državnim potporama u pomorskom prijevozu i državnim potporama za zaštitu okoliša. Odjel priprema i sudjeluje u izradi projekata i studija vezanih za potpore u pomorstvu te u svom radu surađuje s ministarstvom nadležnim za financije u dijelu koji se odnosi na državne potpore. Odjel provodi i prati Projekt stipendiranja redovitih učenika i studenata. Odjel obavlja aktivnosti vezane za ronjenje i sigurnost ronjenja. Prati međunarodne i propise Europske unije koji uređuju pitanja ronjenja te sudjeluje u izradi nacionalnih propisa. Prati sve ostale gospodarske aktivnosti na moru osim upravljanja lučkim sustavom.«.

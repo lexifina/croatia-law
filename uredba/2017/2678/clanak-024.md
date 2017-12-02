@@ -1,0 +1,2 @@
+# Članak 24.
+Okvirni broj državnih službenika i namještenika potrebnih za obavljanje poslova iz djelokruga Ministarstva, prikazan u tablici koja je sastavni dio Uredbe o unutarnjem ustrojstvu Ministarstva mora, prometa i infrastrukture (»Narodne novine«, broj 76/17), zamjenjuje se Okvirnim brojem državnih službenika i namještenika Ministarstva mora, prometa i infrastrukture koji je prikazan u tablici koja je sastavni dio ove Uredbe.
