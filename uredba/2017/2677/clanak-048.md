@@ -1,0 +1,7 @@
+## 8. SAMOSTALNI SEKTOR ZA UPRAVNU INSPEKCIJU
+# Članak 48.
+Samostalni sektor za upravnu inspekciju obavlja inspekcijske poslove koji se odnose na primjenu zakona i drugih propisa o ustrojstvu, djelokrugu i načinu rada tijela državne uprave i drugih državnih tijela, tijela jedinica lokalne i područne (regionalne) samouprave; nadzor u provedbi zakona i drugih propisa o državnim službenicima i namještenicima, o službenicima i namještenicima u tijelima jedinica lokalne i područne (regionalne) samouprave; nadzor u provedbi općeg upravnog postupka, posebnih upravnih postupaka, uredskog poslovanja u tijelima državne uprave i tijelima jedinica lokalne i područne (regionalne) samouprave i pravnih osoba koje imaju javne ovlasti; po potrebi sudjeluje s drugim ustrojstvenim jedinicama u provedbi upravnog nadzora; surađuje s drugim ustrojstvenim jedinicama Ministarstva i tijelima državne uprave, a osobito s inspekcijskim službama te obavlja i druge upravne i stručne poslove koji su posebnim zakonima i drugim propisima stavljeni u djelokrug upravne inspekcije; daje stručna mišljenja u okviru svoga djelokruga na dostavljene nacrte prijedloga zakona i prijedloge drugih propisa i akata; obavlja i druge poslove iz svoga djelokruga.
+U Samostalnom sektoru za upravnu inspekciju, ustrojavaju se:
+8.1. Služba za inspekciju državne uprave
+8.2. Služba za inspekciju lokalne i područne (regionalne) samouprave.
+8.1. Služba za inspekciju državne uprave
