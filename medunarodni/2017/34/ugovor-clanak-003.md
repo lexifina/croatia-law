@@ -1,0 +1,10 @@
+# Članak 3.
+Članak 3. Ugovora mijenja se i glasi:
+»Članak 3.
+NACIONALNI TRETMAN I TRETMAN NAJPOVLAŠTENIJE DRŽAVE
+1. Svaka ugovorna stranka će na svom teritoriju ulaganjima i povratima ulagatelja druge ugovorne stranke odobriti tretman koji nije manje povoljan od tretmana kojeg ona odobrava ulaganjima i povratima svojih vlastitih ulagatelja, ili ulaganjima i povratima ulagatelja bilo koje treće države, što god je povoljnije za tog ulagatelja.
+2. Svaka ugovorna stranka će na svom teritoriju odobriti ulagateljima druge ugovorne stranke, a u pogledu upravljanja, održavanja, uživanja, korištenja ili raspolaganja njihovim ulaganjem, tretman koji nije manje povoljan od tretmana kojeg ona odobrava svojim vlastitim ulagateljima ili ulagateljima bilo koje treće države, što god je povoljnije za tog ulagatelja.
+3. Odredbe o nacionalnom tretmanu i tretmanu najpovlaštenije države ovog članka ne primjenjuju se na pogodnosti koje ugovorna stranka odobrava sukladno svojim obvezama kao članica carinske, ekonomske ili monetarne unije, zajedničkog tržišta ili područja slobodne trgovine.
+4. Odredbe ovog Ugovora neće se tumačiti tako da obvezuju jednu ugovornu stranku da proširi na ulagatelje druge ugovorne stranke pogodnosti bilo kojeg tretmana, prednosti ili povlastice koje je odobrila ulagateljima bilo koje treće države na temelju obveza te ugovorne stranke kao članice carinske, ekonomske ili monetarne unije, zajedničkog tržišta ili područja slobodne trgovine, koje proizlaze iz međunarodnog ugovora ili dogovora o uzajamnosti te carinske, ekonomske ili monetarne unije, zajedničkog tržišta ili područja slobodne trgovine.
+5. Odredbe ovog Ugovora neće se tumačiti tako da obvezuju jednu ugovornu stranku da proširi na ulagatelje druge ugovorne stranke, ili na ulaganja ili povrate tih ulagatelja, pogodnosti bilo kojeg tretmana, prednosti ili povlastice koje ugovorna stranka može pružiti na temelju bilo kojeg međunarodnog ugovora ili dogovora koji se odnosi na oporezivanje.
+6. Tretman najpovlaštenije države ne primjenjuju se na odredbe o rješavanju sporova između ugovorne stranke i ulagatelja druge ugovorne stranke.«
