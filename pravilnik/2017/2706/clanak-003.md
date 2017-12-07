@@ -1,0 +1,26 @@
+## Pojmovi
+# Članak 3.
+(1) Pojedini pojmovi u smislu ovoga Pravilnika imaju sljedeće značenje:
+1. »projekt« skup aktivnosti potrebnih za ostvarenje ciljeva koje korisnik navodi u poslovnom planu
+2. »tip operacije« - skup projekata koji doprinose ostvarivanju ciljeva jednog ili više prioriteta Europske unije za ruralni razvoj na koje se odnose
+3. »natječaj« javno objavljeni poziv na podnošenje Zahtjeva za potporu unutar jedne mjere/podmjere/tipa operacije, a sastoji od teksta natječaja, priloga i obrazaca
+4. »korisnik« poljoprivredno gospodarstvo koje je podnijelo Zahtjev za potporu i koje je izravno odgovorno za početak, upravljanje, provedbu i rezultate projekta
+5. »nositelj diversificirane djelatnosti« - član/zaposlenik poljoprivrednog gospodarstva koji će provoditi aktivnost za koju se podnosi Zahtjev za potporu
+6. »Prilog I. Ugovora« - prilog I Ugovora o funkcioniranju Europske unije (2016/C 202/01), koji sadržava popis poljoprivrednih proizvoda
+7. »građenje« kako je definirano u propisima kojima se uređuje područje gradnje
+8. »poduzeće« kako je definirano u članku 1. Priloga I. Uredbe Komisije (EU) br. 702/2014 od 25. lipnja 2014. o proglašenju određenih kategorija potpora u sektoru poljoprivrede i šumarstva te u ruralnim područjima spojivima s unutarnjim tržištem u primjeni članaka 107. i 108. Ugovora o funkcioniranju Europske unije (SL L 193, 1. 7. 2014., str. 1 - 75, u daljnjem tekstu: Uredba Komisije (EU) br. 702/2014)
+9. »gospodarska djelatnost« - djelatnost poduzetnika koja se sastoji u nuđenju robe i usluga na tržištu
+10. »mikro i mala poduzeća« - poduzeća definirana Prilogom I. Uredbe Komisije (EU) br. 702/2014
+11. »partnerska poduzeća« - sva poduzeća koja nisu razvrstana pod povezana poduzeća, a među kojima postoji veza kako je definirano u članku 3. stavku 2. Priloga I. Uredbe Komisije (EU) br. 702/2014
+12. »povezana poduzeća« - poduzeća među kojima postoji jedna od veza kako je definirano u članku 3. stavku 3. Priloga I. Uredbe Komisije (EU) br. 702/2014
+13. »poduzetnik u teškoćama« za potrebe ovoga Pravilnika je poduzetnik u postupku predstečaja, stečaja ili likvidacije sukladno odredbama Smjernica o državnim potporama za sanaciju i restrukturiranje nefinancijskih poduzetnika u teškoćama (2014C 249/01, 31. 7. 2014.), ako je primjenjivo u odnosu na Prilog I, Ugovora o Europskoj uniji i Ugovora o funkcioniranju Europske unije
+14. »javna potpora« - svaki oblik potpore iz javnih izvora Republike Hrvatske i potpora iz proračuna Europske unije, a predstavlja bespovratna sredstva (u daljnjem tekstu: potpora)
+15. »nepravilnost« znači povreda odredaba prava Zajednice koja proizlazi iz učinjene ili propuštene radnje od strane gospodarskog subjekta, a što je dovelo ili je moglo dovesti u pitanje opći proračun Zajednica ili proračune kojima Zajednice upravljaju, bilo smanjenjem ili gubitkom prihoda iz vlastitih sredstava prikupljenih izravno u ime Zajednica, ili neopravdanim izdacima u smislu članka 1. stavka 2. Uredbe (EZ, Euratom) br. 2988/95 od 18. prosinca 1995. o zaštiti financijskih interesa Europskih zajednica, odnosno članka 2., stavka 1. točke g) Uredbe (EU) br. 1306/2013
+16. »sumnja na prijevaru« - znači nepravilnost koja je razlog za pokretanje upravnih ili sudskih postupaka na nacionalnoj razini kako bi se utvrdilo postojanje postupanja s namjerom, osobito prijevare, iz članka 1. stavka 1. točke (a) Konvencije o zaštiti financijskih interesa Europskih zajednica koja je sastavljena na temelju članka K.3 Ugovora o Europskoj uniji (sukladno članku 2. točki (a), delegirane Uredbe Komisije (EU) 2015/1971 od 8. srpnja 2015. o dopuni Uredbe (EU) br. 1306/2013 Europskog parlamenta i Vijeća posebnim odredbama o izvješćivanju o nepravilnostima povezanima s Europskim fondom za jamstva u poljoprivredi i Europskim poljoprivrednim fondom za ruralni razvoj te o stavljanju izvan snage Uredbe Komisije (EZ) br. 1848/2006 (SL L 293, 8. 7. 2015.)
+17. »AGRONET sustav« - zaštićena mrežna aplikacija koja je između ostalog namijenjena i korisnicima potpora iz EPFRR fondova za upis u Evidenciju korisnika potpora u ruralnom razvoju i ribarstvu, elektroničko popunjavanje EPFRR Zahtjeva za potporu/promjenu/isplatu/odustajanje te preuzimanje EPFRR Odluka/Pisama/Izmjene Odluka/Potvrda (u daljnjem tekstu: AGRONET)
+18. »standardni ekonomski rezultat« (engl. Standard Output - u daljnjem tekstu: SO) - predstavlja jediničnu novčanu vrijednost proizvodnje poljoprivrednog proizvoda izraženu u proizvođačkim cijenama na pragu gospodarstva koja ne uključuju potpore i poreze
+19. »ukupni SO poljoprivrednog gospodarstva« - zbroj vrijednosti svih proizvodnji dobiven množenjem SO svake pojedine proizvodnje s odgovarajućim brojem jedinica proizvodnje
+20. »ekonomska veličina poljoprivrednog gospodarstva« - ukupni SO poljoprivrednog gospodarstva izražen u eurima
+21. »ruralno područje« - cijelo područje Republike Hrvatske, osim administrativnih centara četiri grada (Zagreb, Split, Rijeka i Osijek)
+22. »nepoljoprivredni proizvod« - proizvod koji nije naveden na popisu iz Priloga I. Ugovora
+(2) Ostali pojmovi u smislu ovoga Pravilnika imaju jednako značenje kao pojmovi uporabljeni u Uredbi (EU) br. 1305/2013 i Uredbi Komisije (EU) br. 702/2014.

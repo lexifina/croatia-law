@@ -1,0 +1,1 @@
+Pravilnik o provedbi tipa operacije 6.2.1. »Potpora ulaganju u pokretanje nepoljoprivrednih djelatnosti u ruralnim područjima« iz Programa ruralnog razvoja Republike Hrvatske za razdoblje 2014. - 2020.
