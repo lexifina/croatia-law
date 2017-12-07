@@ -1,0 +1,5 @@
+## Vraćanje prije prenesene vrijednosti u mirovinski sustav Republike Hrvatske
+# Članak 16.
+(1) Dužnosnik/službenik iz članka 14. stavka 1. ovoga Zakona koji je prije prenio mirovinska prava iz sustava obveznog mirovinskog osiguranja u Republici Hrvatskoj u sustav EU-a, prilikom prijenosa ukupne aktuarske protuvrijednosti mirovinskih prava stečenih u sustavu EU-a, u mirovinski sustav Republike Hrvatske vraća i prije prenesenu vrijednost.
+(2) Prije prenesena vrijednost mirovinskih prava preračunava se kao sastavni dio ukupne aktuarske protuvrijednosti prenesene iz sustava EU-a u obvezni sustav mirovinskog osiguranja Republike Hrvatske.
+(3) Vraćanjem prije prenesene aktuarske protuvrijednosti mirovinskih prava stečenih u sustavu EU-a u sustav obveznog mirovinskog osiguranja Republike Hrvatske, razdoblje osiguranja koje je bilo uračunano u prije prenesenu vrijednost ponovno se smatra razdobljem provedenim u obveznom mirovinskom osiguranju u Republici Hrvatskoj, a ista se uzima u obzir pri određivanju prava iz obveznog mirovinskog osiguranja u Republici Hrvatskoj.

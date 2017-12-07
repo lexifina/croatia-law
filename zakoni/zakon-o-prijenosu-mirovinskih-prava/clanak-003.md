@@ -1,0 +1,17 @@
+## Temeljni pojmovi
+# Članak 3.
+U smislu ovoga Zakona pojedini pojmovi imaju sljedeća značenja:
+1. Pravilnik o osoblju sastavni je dio Uredbe (EEZ, Euratom, EZUČ) Vijeća br. 259/68 od 29. veljače 1968. kojom se utvrđuje Pravilnik o osoblju za dužnosnike i Uvjeti zaposlenja ostalih službenika Europskih zajednica i kojom se uvode posebne mjere koje se privremeno primjenjuju na dužnosnike Komisije (SL L 56, 4. 3. 1968.) kako je posljednji put izmijenjena Uredbom (EU, Euratom) Europskog parlamenta i Vijeća br. 1023/2013 od 22. listopada 2013. o izmjeni Pravilnika o osoblju za dužnosnike Europske unije i Uvjeta zaposlenja ostalih službenika Europske unije (SL L 287, 29. 10. 2013.), čija provedba se uređuje ovim Zakonom
+2. obvezno mirovinsko osiguranje Republike Hrvatske obuhvaća mirovinsko osiguranje na temelju generacijske solidarnosti i obvezno mirovinsko osiguranje na temelju individualne kapitalizirane štednje
+3. doprinosi za mirovinsko osiguranje u Republici Hrvatskoj su doprinos za mirovinsko osiguranje generacijske solidarnosti, dodatni doprinos za mirovinsko osiguranje generacijske solidarnosti za staž osiguranja s povećanim trajanjem, doprinos za mirovinsko osiguranje na temelju individualne kapitalizirane štednje, dodatni doprinos za mirovinsko osiguranje na temelju individualne kapitalizirane štednje za staž osiguranja s povećanim trajanjem
+4. prijenosna vrijednost stečenih mirovinskih prava znači iznos koji predstavlja ukupnu vrijednost mirovinskih prava ostvarenih u sustavu obveznog mirovinskog osiguranja u Republici Hrvatskoj do dana podnošenja zahtjeva, izračunan na način predviđen ovim Zakonom
+5. vraćena prijenosna vrijednost je iznos prijenosne vrijednosti koji je iz mirovinskog osiguranja Republike Hrvatske prenesen u sustav mirovinskog osiguranja Europske unije te je uključen u aktuarsku protuvrijednost, kada se provodi prijenos mirovinskih prava iz sustava mirovinskog osiguranja Europske unije u sustav mirovinskog osiguranja Republike Hrvatske
+6. radni odnos u tijelima Europske unije je svaka vrsta zapošljavanja u nekom tijelu Europske unije u svojstvu dužnosnika, odnosno privremenog ili ugovornog službenika
+7. osiguranik je svaka osoba koja je osigurana ili koja je navršila određena razdoblja osiguranja u obveznom mirovinskom osiguranju Republike Hrvatske
+8. dužnosnik Europske unije je svaka osoba koja je u skladu s Pravilnikom o osoblju imenovana dužnosnikom na stalno radno mjesto u jednoj od institucija Europske unije na temelju akta koji je izdalo tijelo za imenovanje te institucije i svaka osoba koju su imenovala tijela Europske unije na koju se primjenjuje Pravilnik o osoblju
+9. službenik Europske unije je svaka osoba koja je u skladu s Uvjetima zapošljavanja ostalih službenika Europske unije zaposlena u tijelima Europske unije
+10. sustav EU-a je sustav koji obuhvaća mirovinske programe tijela EU-a koja primjenjuju Uredbu
+11. tijela EU-a su institucije, tijela, uredi, agencije Europske unije koje zapošljavaju dužnosnike te privremene ili ugovorne službenike
+12. stečeno pravo je pravo iz obveznog mirovinskog osiguranja koje je osiguranik ostvario na temelju razdoblja navršenog u mirovinskom osiguranju Republike Hrvatske
+13. aktuarska protuvrijednost je novčana vrijednost prava koju dužnosnik/službenik prenosi iz sustava EU-a u sustav obveznog mirovinskog osiguranja Republike Hrvatske
+14. otpremnina je davanje na koje ima pravo dužnosnik/službenik u tijelima Europske unije nakon prestanka radnog odnosa, prema uvjetima propisanim Pravilnikom o osoblju.

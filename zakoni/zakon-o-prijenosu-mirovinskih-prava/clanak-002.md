@@ -1,0 +1,3 @@
+## Svrha Zakona
+# Članak 2.
+Ovim se Zakonom osiguravaju pretpostavke za provedbu Uredbe (EEZ, Euratom, EZUČ) Vijeća br. 259/68 od 29. veljače 1968. kojom se utvrđuje Pravilnik o osoblju za dužnosnike i Uvjeti zaposlenja ostalih službenika Europskih zajednica i kojom se uvode posebne mjere koje se privremeno primjenjuju na dužnosnike Komisije (SL L 56, 4. 3. 1968.) kako je posljednji put izmijenjena Uredbom (EU, Euratom) Europskog parlamenta i Vijeća br. 1023/2013 od 22. listopada 2013. o izmjeni Pravilnika o osoblju za dužnosnike Europske unije i Uvjeta zaposlenja ostalih službenika Europske unije (SL L 287, 29. 10. 2013.).
