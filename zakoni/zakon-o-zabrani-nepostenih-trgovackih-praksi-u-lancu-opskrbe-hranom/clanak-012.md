@@ -1,0 +1,27 @@
+## Ostale nepoštene trgovačke prakse trgovca
+# Članak 12.
+Osim nepoštenih trgovačkih praksi iz članka 4. te članaka 6. do 10. ovoga Zakona, ostale nepoštene trgovačke prakse u odnosu dobavljača i trgovca u trgovini poljoprivrednim ili prehrambenim proizvodima su:
+1. naplata naknade za uvrštavanje poljoprivrednog ili prehrambenog proizvoda dobavljača
+2. naplata naknade za smještaj proizvoda na policama u prodajnom mjestu trgovca, osim u slučaju kada dobavljač od trgovca izričito traži smještaj svog proizvoda na određenoj polici u prodajnom mjestu trgovca
+3. vraćanje isporučenih, a neprodanih proizvoda, naplata naknade za zbrinjavanje takvih proizvoda, naplata naknade dobavljaču za neprodane proizvode kojima je istekao rok trajanja, osim u slučaju proizvoda koji se prvi put isporučuju trgovcu, kao i proizvoda za koje dobavljač izričito traži prodaju, a unaprijed je pisanim putem upozoren od strane trgovca da zbog slabog obrtaja može doći do isteka roka trajanja tih proizvoda
+4. naplata naknade za sklapanje ugovora s dobavljačem koja nije razmjerna administrativnom trošku koji treba snositi dobavljač
+5. naplata naknade za dostavu poljoprivrednog ili prehrambenog proizvoda izvan ugovorenog mjesta isporuke
+6. naplata naknade za čuvanje i manipulaciju nakon isporuke poljoprivrednog ili prehrambenog proizvoda trgovcu
+7. naplata naknade za proširenje prodajne mreže trgovca, poboljšanje (preuređenje) postojećih prodajnih mjesta trgovca, proširenje skladišnih kapaciteta trgovca, proširenje distributivne mreže trgovca
+8. odbijanje primitka isporuke poljoprivrednih ili prehrambenih proizvoda po dospijeću obveze za dobavljača na isporuku, osim iz razloga koji su ugovorom utvrđeni kao opravdani razlozi za odbijanje primitka
+9. uvjetovanje sklapanja ugovora i poslovne suradnje kompenzacijom roba i usluga
+10. uvjetovanje sklapanja ili produženja ugovora te primitka isporuke poljoprivrednih ili prehrambenih proizvoda koji su predmet ugovora zahtjevom za proizvodnjom i isporukom poljoprivrednih ili prehrambenih proizvoda koji se mogu smatrati zamjenjivim u odnosu na ugovorene ili isporučene proizvode (robna marka trgovca)
+11. naplata naknade za usluge koje nisu pružene, odnosno za usluge koje su pružene iako nisu ugovorene između ugovornih strana
+12. naplata naknade za umanjeni promet, prodaju ili umanjenu maržu trgovca zbog smanjene prodaje određenog poljoprivrednog ili prehrambenog proizvoda
+13. prebacivanje rizika poslovanja s trgovca na dobavljača poput naplate naknade za kalo, rastep, lom, krađu proizvoda te naplate naknade za novčane i ostale kazne izrečene trgovcu na temelju odluka nadležnih tijela, osim u slučaju kad su izrečene kazne na temelju odluka nadležnih tijela posljedica nedostataka proizvoda za koje je odgovoran dobavljač u smislu općeg propisa koji uređuje obvezne odnose
+14. prodaja poljoprivrednog ili prehrambenog proizvoda krajnjem potrošaču po cijeni nižoj od bilo koje nabavne cijene u nabavnom lancu tog proizvoda s porezom na dodanu vrijednost, osim kad se radi o proizvodima pred istekom roka trajanja, povlačenju poljoprivrednog ili prehrambenog proizvoda iz asortimana te potpunoj rasprodaji zbog zatvaranja prodajnog objekta. Ako je dobavljač istodobno trgovac na veliko i povezano društvo s trgovcem na malo, u tom slučaju se u smislu ovoga Zakona za utvrđivanje nabavne cijene proizvoda može promatrati i ugovorni odnos između trgovca na veliko i njegovog dobavljača i/ili proizvođača koji se ne smatra s njim povezanim društvom u smislu ovoga Zakona
+15. prodaja poljoprivrednog ili prehrambenog proizvoda ispod cijene proizvodnje u slučaju vlastite proizvodnje trgovca (robna marka trgovca), osim kad se radi o proizvodima pred istekom roka trajanja, povlačenju poljoprivrednog ili prehrambenog proizvoda iz asortimana te potpunoj rasprodaji zbog zatvaranja prodajnog objekta
+16. ugovaranje naknade koja se ne iskazuje na računu, osim naknade čije ostvarenje ovisi o stvarnom i mjerljivom učinku trgovca vezanom za uslugu koju trgovac pruža dobavljaču
+17. naplata naknade za marketinške i promidžbene usluge trgovca, osim u slučaju kada dobavljač izričito traži od trgovca posebnu promidžbu svojih proizvoda koji se nalaze na prodajnom mjestu trgovca
+18. ugovaranje naknade za istraživanje tržišta
+19. naplata naknade za podatke o izlazu proizvoda dobavljača s blagajni na prodajnim mjestima trgovca, osim u slučaju kada dobavljač od trgovca izričito traži te podatke
+20. uvjetovanje sklapanja ugovora i poslovne suradnje nametanjem obveza sudjelovanja u sniženjima ili akcijama smanjenjem nabavne cijene na teret dobavljača
+21. obveza da ne prodaje poljoprivredne ili prehrambene proizvode drugim trgovcima po nižim cijenama od onih koje je platio trgovac
+22. brisanje proizvoda s liste ugovorenih proizvoda koje dobavljač isporučuje trgovcu ili značajno smanjivanje narudžbi pojedinog poljoprivrednog ili prehrambenog proizvoda bez prethodne pisane najave od strane trgovca u roku utvrđenom ugovorom ili u roku koji ne može biti kraći od 30 dana u slučaju kada rok nije utvrđen ugovorom
+23. izvršenje roka plaćanja dobavljaču duljeg od 60 dana od dana primitka poljoprivrednog ili prehrambenog proizvoda koji je predmet isporuke, odnosno duljeg od 30 dana od dana primitka svježeg proizvoda koji je predmet isporuke i
+24. nepreuzimanje ugovorenih i proizvedenih količina poljoprivrednih ili prehrambenih proizvoda robnih marki trgovca, osim u opravdanim slučajevima utvrđenim ugovorom.

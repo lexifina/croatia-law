@@ -1,0 +1,7 @@
+## Preuzimanje obveza od strane otkupljivača i/ili prerađivača odnosno trgovca
+# Članak 18.
+(1) Stranka protiv koje je pokrenut postupak može Agenciji u roku od 40 dana od dana pokretanja postupka predložiti preuzimanje obveze izvršenja određenih mjera i uvjeta te rokove u kojima će to učiniti kako bi se otklonile nepoštene trgovačke prakse.
+(2) Agencija će ovisno o težini povrede, opsegu povrede i vremenu trajanja povrede, koji se utvrđuju u ispitnom postupku, ocijeniti jesu li predložene mjere, uvjeti i rokovi iz stavka 1. ovoga članka dostatni za otklanjanje nepoštenih trgovačkih praksi te će u slučaju pozitivne ocjene privremenim rješenjem prihvatiti predložene mjere, uvjete i rokove koji time postaju obvezni za predlagatelja.
+(3) Privremenim rješenjem iz stavka 2. ovoga članka Agencija obvezuje stranku na dostavu dokaza kojima potvrđuje izvršenje mjera i uvjeta u određenom roku.
+(4) Agencija će rješenjem obustaviti postupak nakon zaprimanja dokaza kojima se potvrđuje izvršenje mjera i uvjeta u određenom roku ili ako je izvršenje mjera i uvjeta u određenom roku onemogućio dobavljač.
+(5) Ako Agencija ocijeni da predložene mjere, uvjeti i rokovi iz stavka 1. ovoga članka nisu dostatni za otklanjanje nepoštenih trgovačkih praksi ili ako stranka ne dostavi dokaze u smislu stavka 3. ovoga članka, Agencija će o tome pisanim putem obavijestiti stranku i nastaviti voditi ispitni postupak.
