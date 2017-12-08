@@ -1,0 +1,1 @@
+Na temelju članka 19. stavka 6. Zakona o računovodstvu (Narodne novine, broj 78/2015, 134/15 i 120/2016), i članka 116. stavka 5. Zakona o tržištu kapitala (»Narodne novine«, 88/08., 146/08., 74/09., 54/13., 159/13., 18/15 i 123/16) Hrvatska agencija za nadzor financijskih usluga, na sjednici Upravnog vijeća održanoj 24. studenoga 2017. godine donosi
