@@ -1,1 +1,0 @@
-Na temelju Članka 32. stavka 3. Zakona o sklapanju i izvršavanju međunarodnih ugovora (Narodne novine, br. 53/91 i 73/91), Vlada Republike Hrvatske je ria sjednici održanoj 21. srpnja 1994. godine donijela
