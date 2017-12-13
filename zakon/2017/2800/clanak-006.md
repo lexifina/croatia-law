@@ -1,0 +1,3 @@
+# Članak 6.
+U članku 29. stavku 1. riječi: »četiri godine« zamjenjuju se riječima: »do dana stupanja na snagu odluke Vlade Republike Hrvatske o raspisivanju sljedećih redovnih izbora koji se održavaju svake četvrte godine sukladno odredbama zakona kojim se uređuju lokalni izbori, odnosno do dana stupanja na snagu odluke Vlade Republike Hrvatske o raspuštanju predstavničkog tijela sukladno odredbama ovoga Zakona«.
+U stavku 2. iza riječi: »redovnim izborima« dodaju se riječi: »koji se održavaju svake četvrte godine sukladno odredbama zakona kojim se uređuju lokalni izbori, odnosno do dana stupanja na snagu odluke Vlade Republike Hrvatske o raspuštanju predstavničkog tijela sukladno odredbama ovoga Zakona«.

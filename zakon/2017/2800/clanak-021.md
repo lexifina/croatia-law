@@ -1,0 +1,8 @@
+# Članak 21.
+Članak 70. mijenja se i glasi:
+»Ako predstavničko tijelo ne donese proračun prije početka proračunske godine, privremeno se, a najduže za prva tri mjeseca proračunske godine, na osnovi odluke o privremenom financiranju, nastavlja financiranje poslova, funkcija i programa tijela jedinica lokalne i područne (regionalne) samouprave i drugih proračunskih i izvanproračunskih korisnika u skladu s posebnim zakonom.
+Odluku o privremenom financiranju iz stavka 1. ovoga članka donosi do 31. prosinca predstavničko tijelo u skladu s posebnim zakonom na prijedlog općinskog načelnika, gradonačelnika, odnosno župana ili povjerenika Vlade Republike Hrvatske.
+U slučaju kada je raspušteno samo predstavničko tijelo, a općinski načelnik, gradonačelnik, odnosno župan nije razriješen, do imenovanja povjerenika Vlade Republike Hrvatske, financiranje se obavlja izvršavanjem redovnih i nužnih rashoda i izdataka temeljem odluke o financiranju nužnih rashoda i izdataka koju donosi općinski načelnik, gradonačelnik, odnosno župan.
+Po imenovanju povjerenika Vlade Republike Hrvatske, općinski načelnik, gradonačelnik, odnosno župan predlaže povjereniku novu odluku o financiranju nužnih rashoda i izdataka u koju su uključeni ostvareni prihodi i primici te izvršeni rashodi i izdaci u vremenu do dolaska povjerenika.
+Ako se do 31. ožujka ne donese proračun, povjerenik donosi odluku o financiranju nužnih rashoda i izdataka za razdoblje do donošenja proračuna.
+Odluka o financiranju nužnih rashoda i izdataka iz stavaka 3., 4. i 5. ovoga članka sadržajno odgovara odluci o privremenom financiranju propisanoj posebnim zakonom, ali razmjerno razdoblju za koje se donosi.«.
