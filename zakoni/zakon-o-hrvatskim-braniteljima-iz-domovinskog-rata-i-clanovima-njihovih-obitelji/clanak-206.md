@@ -1,0 +1,2 @@
+# Članak 206.
+Hrvatskim braniteljima iz Domovinskog rata kojima je na najniža mirovina određena prema Zakonu o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 174/04., 92/05., 2/07., 107/07., 65/09., 137/09., 146/10., 55/11., 140/12., 19/13. – pročišćeni tekst, 33/13., 148/13. i 92/14.) po službenoj će se dužnosti, bez donošenja novog rješenja, odrediti novi iznos najniže mirovine sukladno članku 49. stavku 6. ovoga Zakona, ako je to za njih povoljnije.

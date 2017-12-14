@@ -1,0 +1,3 @@
+# Članak 33.
+(1) Osobni bod za određivanje invalidske mirovine hrvatskog ratnog vojnog invalida iz Domovinskog rata kod kojeg je nastao potpuni ili djelomični gubitak radne sposobnosti koji je u cijelosti ili u dijelu nastao kao posljedica ranjavanja, ozljede, zatočeništva u neprijateljskom logoru, zatvoru ili u drugom neprijateljskom objektu, bolesti, pogoršanja bolesti odnosno pojave bolesti zadobivene u obrani suvereniteta Republike Hrvatske dobiva se tako da se prosječni vrijednosni bod iz članka 31. ovoga Zakona pomnoži s polaznim faktorom i mirovinskim stažem od 40 godina.
+(2) Mirovina iz stavka 1. ovoga članka određuje se na temelju osobnih bodova iz stavka 1. ovoga članka povećanih za 45%.

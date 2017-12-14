@@ -1,0 +1,23 @@
+# Članak 102.
+(1) Javne službe i javne ustanove kojima je osnivač ili jedan od osnivača Republika Hrvatska, općina, grad, županija, izvanproračunski i proračunski fondovi, pravne osobe u vlasništvu ili pretežitom vlasništvu Republike Hrvatske, kao i pravne osobe u vlasništvu ili pretežitom vlasništvu jedinica lokalne ili područne (regionalne) samouprave i pravne osobe s javnim ovlastima prilikom zapošljavanja temeljem javnog natječaja, oglasa ili u postupku zapošljavanja provedenom na drugi način obvezne su prilikom tog zapošljavanja dati prednost pod jednakim uvjetima nezaposlenom, prema sljedećem redoslijedu:
+a) djetetu smrtno stradalog hrvatskog branitelja iz Domovinskog rata, nestalog hrvatskog branitelja iz Domovinskog rata i hrvatskog branitelja bez oba roditelja ili bez roditeljske skrbi
+b) djetetu smrtno stradalog hrvatskog branitelja iz Domovinskog rata i nestalog hrvatskog branitelja iz Domovinskog rata
+c) hrvatskom ratnom vojnom invalidu iz Domovinskog rata
+d) članu uže i šire obitelji smrtno stradalog hrvatskog branitelja iz Domovinskog rata odnosno nestalog hrvatskog branitelja iz Domovinskog rata
+e) dragovoljcu iz Domovinskog rata
+f) hrvatskom branitelju iz Domovinskog rata redoslijedom od duljeg prema kraćem vremenu sudjelovanja u obrani suvereniteta Republike Hrvatske
+g) djetetu umrlog hrvatskog ratnog vojnog invalida iz Domovinskog rata, ako je korisnik zajamčene minimalne naknade
+h) djetetu umrlog dragovoljca iz Domovinskog rata, ako je korisnik zajamčene minimalne naknade
+i) djetetu umrlog hrvatskog branitelja iz Domovinskog rata sa 100 dana borbenog sektora, ako je korisnik zajamčene minimalne naknade
+j) djetetu dragovoljca iz Domovinskog rata, ako su roditelj i/ili dijete korisnici naknade za nezaposlene iz članka 107. ovoga Zakona ili zajamčene minimalne naknade i
+k) djetetu hrvatskog branitelja iz Domovinskog rata sa 100 dana borbenog sektora, ako su roditelj i/ili dijete korisnici naknade za nezaposlene iz članka 107. ovoga Zakona ili zajamčene minimalne naknade.
+(2) Prednost iz stavka 1. ovoga članka mogu ostvariti i osobe iz stavka 1. ovoga članka koje su zaposlene na poslovima koji ne odgovaraju njihovoj stručnoj spremi.
+(3) Pravne osobe iz stavka 1. ovoga članka obvezne su i prilikom popunjavanja slobodnog radnog mjesta temeljem internog oglasa dati prednost pod jednakim uvjetima zaposlenim osobama iz stavka 1. ovoga članka prema redoslijedu određenom stavkom 1. ovoga članka ako ispunjavaju sve propisane uvjete za slobodno radno mjesto.
+(4) Inspekcijski nadzor nad provedbom ovoga članka provodi nadležna inspekcija koja je po posebnim propisima ovlaštena za nadzor u svezi sa zapošljavanjem po službenoj dužnosti ili na zahtjev osobe iz stavaka 1. ‒ 3. ovoga članka kojoj nije dana prednost pri zapošljavanju.
+(5) Pravna osoba iz stavka 1. ovoga članka obvezna je u roku od 15 dana nakon sklapanja ugovora o radu s izabranim kandidatom o tome obavijestiti osobu iz stavaka 1. ‒ 3. ovoga članka koja je po raspisanom javnom natječaju ili oglasu podnijela prijavu odnosno ponudu za to radno mjesto.
+(6) Osoba iz stavaka 1. ‒ 3. ovoga članka kojoj nije dana prednost pri zapošljavanju može podnijeti zahtjev nadležnoj inspekciji za provedbu nadzora u roku od 30 dana od dana dostave obavijesti iz stavka 5. ovoga članka ili u roku od 30 dana saznanja o sklapanju ugovora o radu s izabranim kandidatom, a najkasnije u roku od šest mjeseci od sklapanja ugovora o radu s drugim kandidatom.
+(7) U slučaju zasnivanja radnog odnosa sklapanjem ugovora o radu, nadležna inspekcija obvezna je razmotriti zahtjev iz stavka 6. ovoga članka u roku od 60 dana od dana podnošenja zahtjeva.
+(8) Ako nadležna inspekcija utvrdi da je sklapanjem ugovora o radu povrijeđeno pravo prednosti pri zapošljavanju osobe iz stavaka 1. ‒ 3. ovoga članka, rješenjem će utvrditi povredu prava prednosti. Pravomoćno rješenje predstavlja opravdan razlog za otkaz ugovora o radu čijim sklapanjem je to pravo povrijeđeno.
+(9) U slučaju iz stavka 8. ovoga članka, pravna osoba iz stavka 1. ovoga članka obvezna je s osobom iz stavaka 1. ‒ 3. ovoga članka, kojoj je rješenjem iz stavka 8. ovoga članka utvrđena povreda prava prednosti pri zapošljavanju, sklopiti ugovor o radu u roku od osam dana od otkaza ugovora, čijim sklapanjem je povrijeđeno pravo prednosti pri zapošljavanju.
+(10) Ako pravna osoba iz stavka 1. ovoga članka u roku iz stavka 9. ovoga članka ne sklopi ugovor o radu s osobom iz stavaka 1. ‒ 3. ovoga članka kojoj je rješenjem iz stavka 8. ovoga članka utvrđena povreda prava prednosti pri zapošljavanju, smatra se da je ugovor o radu sklopljen po sili zakona.
+(11) Pravo prednosti pri zapošljavanju iz ovoga članka ne odnosi se na zapošljavanje putem mjere javnih radova.

@@ -1,0 +1,3 @@
+# Članak 91.
+(1) Iznos kredita korisne stambene površine kuće ili stana, izgradnju kuće i razliku površine odnosno nastavak izgradnje te poboljšanje stambenih uvjeta, kao i vrijednost kredita po četvornome metru neto korisne stambene površine kuće ili stana za osobe iz članka 83. stavka 4. ovoga Zakona propisat će se uredbom Vlade Republike Hrvatske iz članka 94. ovoga Zakona.
+(2) Iznos financijske potpore koju prilikom kupnje prve nekretnine (stana ili kuće) na tržištu ostvaruju osobe iz članka 83. stavaka 3. i 4. ovoga Zakona, kao i drugo važno za priznavanje prava na financijsku potporu propisat će se uredbom Vlade Republike Hrvatske iz članka 94. ovoga Zakona.

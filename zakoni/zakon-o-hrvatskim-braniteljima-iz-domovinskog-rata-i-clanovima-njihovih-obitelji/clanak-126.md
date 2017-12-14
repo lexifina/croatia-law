@@ -1,0 +1,4 @@
+## Smještaj u učeničke i studentske domove
+# Članak 126.
+(1) Djeca smrtno stradalog hrvatskog branitelja iz Domovinskog rata, djeca nestalog hrvatskog branitelja iz Domovinskog rata i djeca hrvatskog ratnog vojnog invalida iz Domovinskog rata imaju pravo na izravan smještaj u učeničke i studentske domove ako im prihod po članu kućanstva ne prelazi 60% proračunske osnovice i pod drugim uvjetima određenim posebnim propisima kojima se uređuju uvjeti i način smještaja u učeničkim i studentskim domovima.
+(2) Osobe iz stavka 1. ovoga članka ako ne udovoljavaju uvjetima za izravan smještaj u učeničke i studentske domove i djeca hrvatskih branitelja iz Domovinskog rata koji su u obrani suvereniteta Republike Hrvatske sudjelovali najmanje 100 dana u borbenom sektoru imaju prednost pri smještaju u učeničke i studentske domove tako da im se dodijeli dodatni broj bodova određen posebnim propisima kojima se uređuje uvjeti i način smještaja u učeničkim i studentskim domovima.

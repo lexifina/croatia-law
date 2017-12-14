@@ -1,0 +1,4 @@
+# Članak 175.
+(1) Obiteljska invalidnina, povećana obiteljska invalidnina, uvećana obiteljska invalidnina, osobna invalidnina, posebni doplatak, doplatak za njegu i pomoć druge osobe, ortopedski doplatak, doplatak za pripomoć u kući, novčana naknada u iznosu obiteljske, povećane i uvećane obiteljske invalidnine, naknada za nezaposlene iz članka 107. ovoga Zakona i pravo na besplatni topli obrok korisniku prava pripadaju od prvog dana idućeg mjeseca od dana podnošenja zahtjeva, ako su ispunjeni uvjeti za ostvarivanje prava te ako drugo nije propisano ovim Zakonom.
+(2) Dan ispunjenja uvjeta za ostvarivanje prava na doplatak za pripomoć u kući je dan kada je rješenje o pravu na naknadu za nezaposlene iz članka 107. ovoga Zakona postalo izvršno.
+(3) Prava iz stavka 1. ovoga članka isplaćuju se u mjesečnim iznosima, i to unazad.

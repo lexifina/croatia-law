@@ -1,0 +1,9 @@
+# Članak 6.
+(1) Smrtno stradali hrvatski branitelj iz Domovinskog rata je hrvatski branitelj iz Domovinskog rata koji je:
+a) poginuo u obrani suvereniteta Republike Hrvatske u razdoblju od 5. kolovoza 1990. do 30. lipnja 1996.
+b) ubijen prilikom zatočenja u neprijateljskom logoru, zatvoru ili u drugom neprijateljskom objektu
+c) umro od posljedica rane ili ozljede zadobivene u obrani suvereniteta Republike Hrvatske, a najkasnije do 31. prosinca 1997.
+d) umro od posljedica bolesti, pogoršanja bolesti ili pojave bolesti u obrani suvereniteta Republike Hrvatske čiji su članovi obitelji podnijeli zahtjev za ostvarivanje statusa člana obitelji smrtno stradalog hrvatskog branitelja iz Domovinskog rata do stupanja na snagu Zakona o izmjenama i dopuni Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 137/09.)
+e) izvršio samoubojstvo kao posljedicu psihičke bolesti uzrokovane sudjelovanjem u obrani suvereniteta Republike Hrvatske do dana stupanja na snagu ovoga Zakona ili
+f) umro kao hrvatski ratni vojni invalid iz Domovinskog rata I. skupine s priznatim pravom na doplatak za njegu i pomoć druge osobe od posljedica rane ili ozljede zadobivene u obrani suvereniteta Republike Hrvatske, ili je umro od bolesti koja je nastala kao posljedica oštećenja organizma zbog rane ili ozljede na temelju koje mu je bio priznat status hrvatskog ratnog vojnog invalida iz Domovinskog rata I. skupine s pravom na doplatak za njegu i pomoć druge osobe po toj osnovi do stupanja na snagu ovoga Zakona.
+(2) Članovi uže i šire obitelji osoba iz stavka 1. ovoga članka ostvaruju prava predviđena za članove uže i šire obitelji smrtno stradalih hrvatskih branitelja iz Domovinskog rata ako im se u upravnom postupku prizna status člana obitelji smrtno stradalog hrvatskog branitelja iz Domovinskog rata.

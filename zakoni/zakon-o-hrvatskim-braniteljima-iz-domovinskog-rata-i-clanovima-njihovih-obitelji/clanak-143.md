@@ -1,0 +1,3 @@
+## Prava članova obitelji pripadnika Hrvatskog vijeća obrane
+# Članak 143.
+Državljani Republike Hrvatske, članovi uže i šire obitelji pripadnika HVO-a, kojima je temeljem njihova stradavanja priznat status člana obitelji poginuloga odnosno smrtno stradalog hrvatskog branitelja iz Domovinskog rata i pravo na obiteljsku invalidninu u upravnom postupku provedenom u Republici Hrvatskoj i koji se u trenutku stupanja na snagu ovoga Zakona nalaze na redovitoj isplati obiteljske invalidnine, imaju pravo na nastavak isplate odnosno korištenje priznatog prava na obiteljsku invalidninu bez pravnih smetnji u svezi sa statusom hrvatskog branitelja iz Domovinskog rata osobe od koje izvode pravo.

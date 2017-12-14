@@ -1,0 +1,5 @@
+# Članak 4.
+(1) Hrvatski branitelj iz Domovinskog rata je i svaka osoba kojoj je priznat status hrvatskog ratnog vojnog invalida iz Domovinskog rata do dana stupanja na snagu ovoga Zakona i koji je u trenutku stupanja na snagu ovoga Zakona na redovitoj isplati osobne invalidnine s priznatim statusom hrvatskog ratnog vojnog invalida iz Domovinskog rata.
+(2) Hrvatski branitelji iz Domovinskog rata iz stavka 1. ovoga članka mogu ostvariti prava po ovom Zakonu koja ostvaruju hrvatski branitelji iz Domovinskog rata iz članka 3. ovoga Zakona.
+(3) Hrvatski branitelj iz Domovinskog rata je i svaka osoba koja je bila pripadnik borbenih postrojbi, a čiji su članovi obitelji temeljem njegova smrtnog stradavanja na redovitoj isplati obiteljske invalidnine u trenutku stupanja na snagu ovoga Zakona.
+(4) Članovi uže i šire obitelji smrtno stradalih hrvatskih branitelja iz Domovinskog rata iz stavka 3. ovoga članka mogu ostvariti prava po ovom Zakonu koja ostvaruju članovi obitelji smrtno stradalih hrvatskih branitelja iz Domovinskog rata.

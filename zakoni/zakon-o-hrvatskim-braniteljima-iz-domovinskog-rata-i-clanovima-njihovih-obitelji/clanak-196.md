@@ -1,0 +1,3 @@
+# Članak 196.
+(1) Ministarstvo nadležno za obranu po službenoj će dužnosti provesti postupak utvrđivanja statusa hrvatskog branitelja iz Domovinskog rata u onim slučajevima koji se sukladno članku 21. stavcima 3. i 4. ovoga Zakona ne smatraju samovoljnim napuštanjem postrojbe.
+(2) Ministarstvo nadležno za unutarnje poslove i ministarstvo nadležno za obranu po službenoj će dužnosti provesti postupak utvrđivanja statusa hrvatskog branitelja iz Domovinskog rata i za razdoblje prije samovoljnog napuštanja postrojbe za hrvatske branitelje iz Domovinskog rata koji su nakon samovoljnog napuštanja postrojbe ponovno dobrovoljno pristupili postrojbi sukladno članku 21. stavcima 5. i 6. ovoga Zakona.

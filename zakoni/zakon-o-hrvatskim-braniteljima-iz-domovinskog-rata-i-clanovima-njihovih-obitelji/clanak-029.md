@@ -1,0 +1,4 @@
+# Članak 29.
+(1) Hrvatskim braniteljima iz Domovinskog rata korisnicima starosne mirovine koji su ostvarili starosnu mirovinu prema ovom Zakonu ili Zakonu o mirovinskom osiguranju i nastavili raditi do polovice punog radnog vremena uz izmijenjeni ugovor o radu i korisnicima starosne mirovine koji su ostvarili starosnu mirovinu prema ovom Zakonu ili Zakonu o mirovinskom osiguranju koji se tijekom korištenja prava zaposle do polovice punog radnog vremena isplata mirovine se ne obustavlja niti se smanjuje.
+(2) Osobama iz stavka 1. ovoga članka mirovinski faktor za starosnu mirovinu koja se isplaćuje osiguraniku za vrijeme zaposlenja do polovice punog radnog vremena iznosi 1,0.
+(3) Osobama iz stavka 1. ovoga članka nakon prestanka zaposlenja može se odrediti novi iznos starosne mirovine ako su navršile najmanje jednu godinu staža osiguranja po osnovi zaposlenja i ako su ispunjeni uvjeti za tu novu mirovinu propisani ovim Zakonom ili Zakonom o mirovinskom osiguranju.

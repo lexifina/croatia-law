@@ -1,0 +1,2 @@
+# Članak 140.
+Pripadnici HVO-a, državljani Republike Hrvatske, kojima je priznat status ratnog vojnog invalida odnosno hrvatskog ratnog vojnog invalida iz Domovinskog rata i pravo na invalidsku mirovinu u upravnom postupku provedenom u Republici Hrvatskoj i koji se na dan stupanja na snagu ovoga Zakona nalaze na redovitoj mjesečnoj isplati invalidske mirovine, imaju pravo na nastavak isplate odnosno korištenje priznatog prava na invalidsku mirovinu bez pravnih smetnji u svezi sa statusom hrvatskog branitelja iz Domovinskog rata.

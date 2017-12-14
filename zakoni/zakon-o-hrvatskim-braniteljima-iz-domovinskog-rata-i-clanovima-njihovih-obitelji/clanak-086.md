@@ -1,0 +1,9 @@
+# Članak 86.
+(1) Organiziranu stambenu izgradnju provodi Agencija za pravni promet i posredovanje nekretninama u suradnji s Ministarstvom.
+(2) Organizirana izgradnja provodi se prema mjestu prebivališta korisnika u vrijeme stradavanja odnosno u mjestu u kojem korisnik prava ima prebivalište neprekidno pet godina od 1991. godine ili je u tom mjestu boravio kao prognanik neprekidno pet i više godina te pisanom izjavom pod materijalnom i kaznenom odgovornošću iskazao da se u tom mjestu želi trajno nastaniti.
+(3) Građevinsko zemljište i komunalno opremanje za organiziranu izgradnju ustupaju jedinice lokalne samouprave na čijem se području provodi program organizirane izgradnje. Jedinice lokalne samouprave mogu ostvariti povrat sredstava za ustupljeno građevinsko zemljište i komunalno opremanje od jedinice lokalne samouprave u kojoj korisnik stambenog zbrinjavanja iz ovoga Zakona ima prebivalište.
+(4) Pod komunalnim opremanjem građevinskog zemljišta iz stavka 3. ovoga članka podrazumijevaju se:
+a) uređenje pristupne ceste, javne rasvjete i okoliša potrebnih za korištenje građevine i
+b) priključci i mreža za osiguranje priključka, elektropriključak, priključak na vodovod i odvodnju, instalacije DTK-a (distributivne, telefonske, kanalizacijske) te ako na tom području postoji medij za grijanje – plin i/ili toplovod.
+(5) Jedinice lokalne samouprave mogu provoditi izgradnju objekata za potrebe osoba iz članka 83. stavka 4. ovoga Zakona na području te lokalne samouprave i mimo redoslijeda utvrđenog člankom 85. stavkom 1. ovoga Zakona ako korisnici stambenog kredita imaju prebivalište na tom području.
+(6) Ako jedinica lokalne samouprave nema na svom području u vlasništvu građevinsko zemljište, a na njezinu području postoji građevinsko zemljište u vlasništvu Republike Hrvatske, Republika Hrvatska će osigurati zemljište, a jedinica lokalne samouprave obvezna ga je komunalno opremiti.

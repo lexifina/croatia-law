@@ -1,0 +1,9 @@
+## Pravo na psihosocijalnu pomoć
+# Članak 128.
+(1) Hrvatski branitelj iz Domovinskog rata i članovi njegove uže i šire obitelji, članovi uže i šire obitelji smrtno stradalog hrvatskog branitelja iz Domovinskog rata i članovi uže i šire obitelji nestalog hrvatskog branitelja iz Domovinskog rata imaju pravo na psihosocijalnu pomoć, sukladno ovom Zakonu.
+(2) Psihosocijalna pomoć sastoji se od individualnog psihosocijalnog savjetovanja, grupnog psihosocijalnog tretmana, mobilnih obilazaka radi redovitog praćenja stanja i potreba hrvatskih ratnih vojnih invalida iz Domovinskog rata I. skupine, uže i šire obitelji smrtno stradalih i nestalih hrvatskih branitelja iz Domovinskog rata, hrvatskih branitelja oboljelih od PTSP-a i članova njihovih obitelji te žurnih obilazaka i kriznih intervencija u slučajevima prosuicidalnih izjava, smrti, izrazito lošeg socijalno ekonomskog, stambenog i/ili zdravstvenog stanja hrvatskog branitelja iz Domovinskog rata i članova njihovih obitelji.
+(3) Nositelj organizacije psihosocijalne pomoći je Ministarstvo.
+(4) Psihosocijalna pomoć organizira se na lokalnoj odnosno županijskoj razini, stacionarno (u prostorijama područnih jedinica i centara za psihosocijalnu pomoć) i mobilno (putem organiziranih posjeta domu i obitelji).
+(5) Psihosocijalnu pomoć pruža Ministarstvo putem stalno zaposlenih djelatnika područnih jedinica i vanjskih honorarnih suradnika centara za psihosocijalnu pomoć koje angažira s obzirom na njihova stručna znanja s područja skrbi za specifične potrebe osoba iz stavka 1. ovoga članka.
+(6) Ministarstvo surađuje sa zdravstvenim i drugim ustanovama te udrugama građana radi što učinkovitijeg rješavanja problema odnosno pružanja odgovarajuće psihosocijalne pomoći.
+(7) Ministarstvo u svrhu pružanja psihosocijalne pomoći angažira i druge vanjske suradnike.

@@ -1,0 +1,2 @@
+# Članak 112.
+Promjene u iznosu prihoda, broju članova kućanstva i uvjeta iz članka 108. ovoga Zakona o kojima ovisi pravo na naknadu za nezaposlene i iznos naknade za nezaposlene utječu na ostvarivanje naknade za nezaposlene tako da se promjene koje uvjetuju gubitak ili smanjenje naknade za nezaposlene uzimaju u obzir od prvog dana sljedećeg mjeseca poslije nastanka, a promjene koje uvjetuju stjecanje ili povećanje naknade za nezaposlene uzimaju se u obzir od prvog dana sljedećeg mjeseca nakon podnošenja odgovarajućeg zahtjeva.

@@ -1,0 +1,4 @@
+# Članak 88.
+(1) Sredstva za stambeno zbrinjavanje osoba koje ostvaruju prava na dodjelu stambenog kredita osigurat će se u državnom proračunu Republike Hrvatske i proračunima jedinica lokalne samouprave ili u vrijednosti kuća i stanova u vlasništvu Republike Hrvatske.
+(2) Sredstva ostvarena otplatom kredita – glavnica i kamate, obročnom i jednokratnom prodajom stanova i kuća na upravljanju Ministarstva uplaćivat će se na račun Ministarstva do završetka provođenja programa stambenog zbrinjavanja sukladno ovom Zakonu.
+(3) Ministarstvo je obvezno voditi cjelokupnu evidenciju prodanih stanova i drugih nekretnina, pratiti obročnu otplatu i naplatu dodijeljenih stambenih kredita, voditi evidenciju o naplati, uplaćenim sredstvima te prispjelim financijskim i drugim obvezama u svezi sa stambenim zbrinjavanjem prema ovom Zakonu ili dio tih poslova može povjeriti poslovnoj banci na temelju ugovora o poslovnoj suradnji.

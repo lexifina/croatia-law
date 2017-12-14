@@ -1,0 +1,11 @@
+# Članak 3.
+(1) Hrvatski branitelj iz Domovinskog rata je osoba koja je organizirano sudjelovala u obrani neovisnosti, teritorijalne cjelovitosti odnosno suvereniteta Republike Hrvatske kao:
+a) pripadnik Oružanih snaga Republike Hrvatske (Zbora narodne garde, Hrvatske vojske, ministarstva nadležnog za obranu, Policije, ministarstva nadležnog za unutarnje poslove i Hrvatskih obrambenih snaga)
+b) pripadnik naoružanih odreda Narodne zaštite koji je bio izravno angažiran kao pripadnik borbenog sektora najmanje 100 dana u razdoblju od 30. srpnja 1991. do 31. prosinca 1991.
+c) pripadnik naoružanih odreda Narodne zaštite koji nije imao obvezu sudjelovanja u pričuvnom sastavu ili nije regulirao obvezu služenja vojnog roka ako je bio izravno angažiran kao pripadnik borbenog sektora najmanje 30 dana u razdoblju od 30. srpnja 1991. do 31. prosinca 1991.
+d) pripadnik naoružanih odreda Narodne zaštite koji je bio izravno angažiran kao pripadnik borbenog sektora, a koji je pritom umro u razdoblju od 30. srpnja 1991. do 31. prosinca 1991.
+e) pripadnik naoružanih odreda Narodne zaštite koji je bio izravno angažiran kao pripadnik borbenog sektora, a koji je pritom nestao u razdoblju od 30. srpnja 1991. do 31. prosinca 1991. i
+f) pripadnik naoružanih odreda Narodne zaštite koji je bio izravno angažiran kao pripadnik borbenog sektora, a koji je pritom zatočen u neprijateljskom logoru, zatvoru ili drugom neprijateljskom objektu u razdoblju od 30. srpnja 1991. do 31. prosinca 1991.
+(2) Pod sudjelovanjem u obrani neovisnosti, teritorijalne cjelovitosti, suvereniteta Republike Hrvatske, odnosno vrijeme neposredne ugroženosti suvereniteta Republike Hrvatske (u daljnjem tekstu: obrana suvereniteta Republike Hrvatske), u smislu stavka 1. ovoga članka, podrazumijeva se oružani otpor agresoru i djelovanje u izravnoj svezi s tim otporom (odlazak u postrojbu, na borbeni položaj i povratak te obuka i priprema za odlazak na bojište) u vremenu od 5. kolovoza 1990. do 30. lipnja 1996.
+(3) Hrvatski branitelji iz Domovinskog rata iz stavka 1. ovoga članka i članovi njihovih obitelji ostvaruju prava prema ovom Zakonu.
+(4) Status hrvatskog branitelja iz Domovinskog rata iz ovoga članka dokazuje se potvrdom ministarstva nadležnog za obranu odnosno ministarstva nadležnog za unutarnje poslove.
