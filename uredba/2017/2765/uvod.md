@@ -1,0 +1,1 @@
+Na temelju članka 12. stavka 2. Zakona o ustanovama (»Narodne novine«, br. 76/93, 29/97 - ispravak, 47/99 - ispravak i 35/08) i članka 15. stavka 1. Zakona o muzejima (»Narodne novine«, broj 110/15), Vlada Republike Hrvatske je na sjednici održanoj 1. prosinca 2017. godine donijela
