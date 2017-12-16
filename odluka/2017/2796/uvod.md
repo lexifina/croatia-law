@@ -1,0 +1,1 @@
+Na temelju članka 4. Zakona o izmjenama Zakona o lokalnim porezima (»Narodne novine« br. 101/17) te članka 29. Statuta Općine Gunja (»Službeni vjesnik« Općine Gunja, broj: 03/13, 05/13, 10/13, 03/15, 05/16 I 03/17), Općinsko vijeće Općine Gunja na svojoj sjednici održanoj 28. studenoga 2017. godine donosi
