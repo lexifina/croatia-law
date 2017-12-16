@@ -1,0 +1,1 @@
+Na temelju članka 20. stavak 1. i članka 42. stavak 1. Zakona o lokalnim porezima (»Narodne novine« br. 115/16, 101/17) i članka 13. Statuta Općine Medulin (»Službene novine Općine Medulin«, br. 2/13), Općinsko vijeće Općine Medulin, na 6. sjednici održanoj 15. studenoga 2017. godine, donijelo je

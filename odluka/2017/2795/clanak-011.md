@@ -1,0 +1,7 @@
+# Članak 11.
+Porez na kuće za odmor plaća se godišnje, te po jednom četvornom metru korisne površine kuće za odmor iznosi 15,00 kuna.
+Korisnom površinom kuće za odmor smatra se ukupna podna površina stana ili druge samostalne prostorije, umanjena za širinu zidova koji je prekidaju. Kod višeetažnih objekata, korisna površina je zbroj podnih površina svih etaža - katova objekta. U izračun korisne površine kuće za odmor ne ulaze podrumske prostorije ako se koriste kao spremišta, ostave te garaže i druge dodatne prostorije (koje nisu povezane sa stambenim dijelom), u ili izvan objekta.
+Ako kuća za odmor (zgrada, dio zgrade, stan ili odmaralište) promijeni vlasnika u tijeku poreznog razdoblja (kalendarske godine), prema pravno-valjanom Ugovoru o kupoprodaji nekretnine odnosno datumu uknjižbe prava vlasništva ili predbilježbe prava vlasništva u zemljišnim knjigama Općinskog suda u Puli, obveznik plaća srazmjerni dio poreza na kuću za odmor na mjesečnoj osnovi.
+Obveznici poreza na kuće za odmor moraju općinskom upravnom tijelu nadležnom za poslove financija dostaviti podatke o kućama za odmor odnosno mjesto gdje se nalaze objekti te korisnu površinu istih do 31. ožujka godine za koju se utvrđuje porez na kuću za odmor ili u roku od 15 dana od datuma nastanka promjene.
+Porez na kuće za odmor plaća se u roku od 15 dana od dana dostave rješenja o utvrđivanju poreza. Na nepravodobno uplaćeni iznos poreza obračunava se i plaća zakonska kamata.
+4. Porez na korištenje javnih površina
