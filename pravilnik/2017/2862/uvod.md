@@ -1,0 +1,1 @@
+Na temelju članka 70. stavka 5. točke 2. i članka 84. stavka 1. točke 2. Zakona o elektroničkim komunikacijama (»Narodne novine«, br. 73/08., 90/11., 133/12., 80/13., 71/14. i 72/17.) ministar mora, prometa i infrastrukture donosi
