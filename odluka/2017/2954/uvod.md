@@ -1,0 +1,1 @@
+Na temelju članka 8. stavka 4. Zakona o procjeni učinaka propisa (»Narodne novine«, broj 44/17) i članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/11, 119/14 i 93/16), Vlada Republike Hrvatske je na sjednici održanoj 21. prosinca 2017. godine donijela
