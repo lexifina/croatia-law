@@ -1,0 +1,13 @@
+# Članak 2.
+Iza članka 3. dodaje se članak 3.a koji glasi:
+»Članak 3.a
+Voda ima svoju ekonomsku vrijednost koju čine troškovi potrebni radi osiguranja njezine dostupnosti, uključujući troškove resursa i troškove gradnje, pogona i održavanja vodnih građevina te okolišne troškove.
+Ovim se Zakonom osigurava povrat troškova iz stavka 1. ovoga članka kroz politiku cijena vode i sukladno ovome stavku i stavcima 3. do 6. ovoga članka (načelo povrata troškova od vodnih aktivnosti). Načelo povrata troškova od vodnih aktivnosti uključuje, ali nije ograničeno na načelo povrata troškova od vodnih usluga iz stavka 6. ovoga članka.
+Načelo povrata troškova od vodnih aktivnosti provodi se sukladno ekonomskoj analizi i načelu »onečišćivač plaća« iz zakona kojim se uređuju vode.
+Načelo povrata troškova od vodnih aktivnosti provodi se tako da osigura odgovarajući poticaj korisnicima da koriste vodne resurse učinkovito i da time pridonesu ostvarenju ciljeva upravljanja vodama i zaštite voda iz članaka 4. i 40. Zakona o vodama (»Narodne novine«, br. 153/09., 63/11., 130/11., 56/13. i 14/14.).
+Ovim Zakonom osigurava se odgovarajući doprinos raznih korisnika, podijeljenih najmanje na industriju, kućanstva i poljoprivredu, povratu troškova od vodnih aktivnosti, sukladno stavku 2. ovoga članka.
+Pri provedbi načela povrata troškova od vodnih aktivnosti vodit će se računa o socijalnim, okolišnim i gospodarskim učincima povrata, kao i zemljopisnim i klimatskim uvjetima u zemlji.
+Povrat troškova od vodnih usluga osigurava se jednim dijelom plaćanjem cijena vodnih usluga i naknade za razvoj na području pružanja vodnih usluga, a drugim dijelom plaćanjem naknade za korištenje voda i naknade za zaštitu voda na području Republike Hrvatske (načelo povrata troškova od vodnih usluga).
+Odredbe stavaka 1. do 6. ovoga članka ne sprječavaju financiranje određenih preventivnih ili popravnih mjera radi postizanja ciljeva upravljanja vodama i zaštite voda iz članaka 4. i 40. Zakona o vodama (»Narodne novine«, br. 153/09., 63/11., 130/11., 56/13. i 14/14.).
+Odredbe stavaka 3. i 4. ovoga članka neće se primijeniti na određenu vodnu aktivnost ako je to u skladu s ustaljenom praksom i u mjeri u kojoj se time ne dovode u pitanje svrha i postizanje ciljeva upravljanja vodama i zaštite voda iz članaka 4. i 40. Zakona o vodama (»Narodne novine«, br. 153/09., 63/11., 130/11., 56/13. i 14/14.).
+Izvještaj o provedbi Plana upravljanja vodnim područjem iz zakona kojim se uređuju vode sadržava i izvještaj o planiranim koracima za provedbu stavaka 1. do 5. ovoga članka, izvještaj o neprimjeni odredbi navedenih u stavku 8. ovoga članka i razloge te neprimjene.«.
