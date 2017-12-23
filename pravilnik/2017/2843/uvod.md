@@ -1,0 +1,1 @@
+Na temelju članka 8. stavka 13., članka 9. stavka 12., članka 12. stavka 3., članka 14. stavka 6. i članka 15. stavka 3. Zakona o državnim potporama (»Narodne novine«, broj 47/2014 i 69/2017), ministar financija donosi
