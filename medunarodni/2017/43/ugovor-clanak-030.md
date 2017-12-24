@@ -1,0 +1,8 @@
+# Članak 30.
+RATIFIKACIJA, PRIHVAT, ODOBRENJE
+ILI PRISTUP
+1. Ova Konvencija podliježe ratifikaciji, prihvatu ili odobrenju država i organizacija regionalne ekonomske integracije. Ona je otvorena za pristup državama i organizacijama regionalne ekonomske integracije sljedećeg dana nakon datuma zatvaranja Konvencije za potpisivanje. Isprave o ratifikaciji, prihvatu, odobrenju ili pristupu polažu se kod depozitara.
+2. Na organizaciju regionalne ekonomske integracije koja postane stranka ove Konvencije, a čija nijedna država članica nije stranka, primjenjuju se sve obveze iz Konvencije. Ako su jedna ili više država članica takve organizacije stranke ove Konvencije, organizacija i njezine države članice odlučuju o svojim odgovarajućim nadležnostima u provedbi svojih obveza iz Konvencije. U tim slučajevima organizacija i države članice nisu ovlaštene istodobno ostvarivati prava u skladu s ovom Konvencijom.
+3. U svojoj ispravi o ratifikaciji, prihvatu, odobrenju ili pristupu organizacija regionalne ekonomske integracije navodi opseg svoje nadležnosti u pogledu pitanja koja uređuje ova Konvencija. Svaka takva organizacija o svakoj bitnoj izmjeni opsega svoje nadležnosti obavješćuje depozitara, koji o tome obavješćuje stranke.
+4. Svaka država ili organizacija regionalne ekonomske integracije potiče se da pri ratifikaciji, prihvatu, odobrenju ili pristupu Tajništvu dostavi informacije o svojim mjerama za provedbu Konvencije.
+5. U svojoj ispravi o ratifikaciji, prihvatu, odobrenju ili pristupu svaka stranka može izjaviti da za nju svaka izmjena priloga stupa na snagu tek nakon polaganja njezine isprave o ratifikaciji, prihvatu, odobrenju ili pristupu u odnosu na taj prilog.

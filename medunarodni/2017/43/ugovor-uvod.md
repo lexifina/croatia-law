@@ -1,0 +1,16 @@
+MINAMATSKA KONVENCIJA O ŽIVI
+Stranke ove Konvencije,
+prepoznajući da je živa kemikalija koja izaziva globalnu zabrinutost zbog svojeg dalekosežnog atmosferskog prijenosa, svoje postojanosti u okolišu nakon što se jednom antropogeno uvede, svoje sposobnosti bioakumulacije u ekosustavima i svojih značajnih negativnih učinaka na zdravlje ljudi i okoliš,
+podsjećajući na odluku 25/5 od 20. veljače 2009. Upravnog vijeća Programa Ujedinjenih naroda za okoliš o pokretanju međunarodne aktivnosti za gospodarenje živom na učinkovit, djelotvoran i koherentan način,
+podsjećajući na stavak 221. završnog dokumenta Konferencije Ujedinjenih naroda o održivom razvoju »Budućnost kakvu želimo« u kojem se poziva na uspješan završetak pregovora o globalnom pravno obvezujućem instrumentu o živi kojim bi se odgovorilo na rizike za zdravlje ljudi i okoliš,
+podsjećajući na načela Deklaracije o okolišu i razvoju iz Rio de Janeira ponovno potvrđena na Konferenciji Ujedinjenih naroda o održivom razvoju, koja uključuju, među ostalim, zajedničke, ali diferencirane odgovornosti, te priznajući okolnosti i sposobnosti država, kao i potrebu za globalnim djelovanjem,
+svjesne opasnosti za zdravlje, posebno u zemljama u razvoju, zbog izloženosti živi ranjivih skupina, posebno žena i djece, a preko njih i budućih generacija,
+primjećujući specifične ranjivosti arktičkih ekosustava i autohtonih zajednica zbog biomagnifikacije žive i kontaminacije tradicionalne hrane, te zabrinute za autohtone zajednice općenito zbog učinaka žive,
+prepoznajući značajne pouke proizašle iz bolesti Minamata, posebno ozbiljne učinke na zdravlje i okoliš koji proizlaze iz onečišćenja živom te potrebu da se osigura pravilno gospodarenje živom i sprečavanje takvih događaja u budućnosti,
+naglašavajući važnost financijske, tehničke i tehnološke podrške te podrške za izgradnju kapaciteta, posebno za zemlje u razvoju i zemlje čije je gospodarstvo u tranziciji, radi jačanja nacionalnih sposobnosti za gospodarenje živom i promicanja učinkovite provedbe Konvencije,
+prepoznajući također aktivnosti Svjetske zdravstvene organizacije povezane sa živom u svrhu zaštite zdravlja ljudi te uloge mjerodavnih multilateralnih sporazuma u području okoliša, posebno Baselske konvencije o nadzoru prekograničnog prometa opasnog otpada i njegovom zbrinjavanju te Rotterdamske konvencije o postupku prethodnog pristanka za određene opasne kemikalije i pesticide u međunarodnoj trgovini,
+prepoznajući da se ova Konvencija i drugi međunarodni sporazumi u području okoliša i trgovine međusobno podupiru,
+naglašavajući da se nijednom odredbom ove Konvencije ne namjerava utjecati na prava i obveze bilo koje stranke koji proizlaze iz bilo kojeg postojećeg međunarodnog sporazuma,
+shvaćajući da se prethodnom uvodnom izjavom ne namjerava stvoriti hijerarhija između ove Konvencije i drugih međunarodnih instrumenata,
+primjećujući da se nijednom odredbom ove Konvencije ne sprečava stranku da poduzme dodatne nacionalne mjere u skladu s odredbama ove Konvencije kako bi zaštitila zdravlje ljudi i okoliš od izloženosti živi u skladu sa svojim drugim obvezama prema primjenjivom međunarodnom pravu,
+sporazumjele su se kako slijedi:

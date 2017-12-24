@@ -1,0 +1,19 @@
+# Članak 4.
+PROIZVODI KOJIMA JE DODANA ŽIVA
+1. Poduzimanjem odgovarajućih mjera nijedna stranka ne dopušta proizvodnju, uvoz ni izvoz proizvoda kojima je dodana živa navedenih u dijelu I. Priloga A nakon datuma do kojeg te proizvode treba postupno ukinuti, osim u slučajevima u kojima je u Prilogu A utvrđeno isključenje ili ako stranka ima registrirano izuzeće u skladu s člankom 6.
+2. Stranka može, kao alternativu stavku 1., u vrijeme ratifikacije ili kada izmjena Priloga A stupi na snagu za nju, navesti da će u odnosu na proizvode navedene u dijelu I. Priloga A provesti drukčije mjere ili strategije. Stranka može odabrati tu alternativu samo ako može dokazati da je proizvodnju, uvoz i izvoz velike većine proizvoda navedenih u dijelu I. Priloga A već smanjila na razinu de minimis te da je u vrijeme kad obavješćuje Tajništvo o svojoj odluci o uporabi te alternative provela mjere ili strategije za smanjenje uporabe žive u dodatnim proizvodima koji nisu navedeni u dijelu I. Priloga A. Osim toga, stranka koja odabere ovu alternativu:
+(a) prvom prilikom Konferenciju stranaka izvješćuje o opisu provedenih mjera ili strategija, uključujući i kvantifikaciju postignutih smanjenja;
+(b) provodi mjere ili strategije za smanjenje uporabe žive u svim proizvodima navedenima u dijelu I. Priloga A za koje još nije dosegnuta vrijednost de minimis;
+(c) razmatra dodatne mjere za postizanje dodatnih smanjenja; i
+(d) ne ispunjava uvjete za pozivanje na izuzeća u skladu s člankom 6. ni za koju kategoriju proizvoda za koju je ova alternativa odabrana.
+Najkasnije pet godina nakon datuma stupanja na snagu Konvencije, kao dio procesa preispitivanja u skladu sa stavkom 8., Konferencija stranaka preispituje napredak i učinkovitost mjera poduzetih u skladu s ovim stavkom.
+3. Svaka stranka poduzima mjere za proizvode kojima je dodana živa navedene u dijelu II. Priloga A u skladu s odredbama utvrđenima u njemu.
+4. Na temelju informacija koje su dostavile stranke Tajništvo prikuplja i pohranjuje informacije o proizvodima kojima je dodana živa i njihovim alternativama te ih stavlja na raspolaganje javnosti. Tajništvo stavlja na raspolaganje javnosti i druge relevantne informacije koje su dostavile stranke.
+5. Svaka stranka poduzima mjere kako bi spriječila da proizvodi kojima je dodana živa čija proizvodnja, uvoz i izvoz nisu dopušteni na temelju ovog članka budu uključeni u sastavljene proizvode.
+6. Svaka stranka odvraća od proizvodnje i trgovačke distribucije proizvoda kojima je dodana živa koji prije datuma na koji Konvencija stupi na snagu za nju nisu obuhvaćeni nijednom poznatom uporabom proizvoda kojima je dodana živa, osim ako se procjenom rizika i koristi proizvoda dokažu koristi za okoliš ili zdravlje ljudi. Stranka, prema potrebi, Tajništvu dostavlja informacije o svim takvim proizvodima, uključujući i informacije o rizicima i koristima proizvoda za okoliš i zdravlje ljudi. Tajništvo takve podatke stavlja na raspolaganje javnosti.
+7. Svaka stranka može Tajništvu dostaviti prijedlog da se proizvod koji sadržava živu unese na popis u Prilogu A, u koji su uključene informacije o raspoloživosti, tehničkoj i ekonomskoj izvedivosti te rizicima i koristima za okoliš i zdravlje ljudi povezanima s alternativama za taj proizvod koje ne sadržavaju živu, uzimajući u obzir informacije u skladu sa stavkom 4.
+8. Najkasnije pet godina nakon datuma stupanja na snagu Konvencije Konferencija stranaka preispituje Prilog A i može razmotriti izmjene tog priloga u skladu s člankom 27.
+9. Prilikom preispitivanja Priloga A u skladu sa stavkom 8. Konferencija stranaka uzima u obzir najmanje:
+(a) svaki prijedlog podnesen u skladu sa stavkom 7.;
+(b) informacije stavljene na raspolaganje u skladu sa stavkom 4.; i
+(c) strankama raspoložive alternative koje ne sadržavaju živu, a koje su tehnički i ekonomski izvedive, uzimajući u obzir rizike i koristi za okoliš i zdravlje ljudi.

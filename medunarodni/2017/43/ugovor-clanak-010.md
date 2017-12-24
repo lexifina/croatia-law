@@ -1,0 +1,6 @@
+# Članak 10.
+MEĐUSKLADIŠTENJE ŽIVE, OSIM OTPADA KOJI SADRŽAVA ŽIVU, KOJE JE PRIHVATLJIVO ZA OKOLIŠ
+1. Ovaj se članak primjenjuje na međuskladištenje žive i živinih spojeva definiranih u članku 3. koji nisu obuhvaćeni definicijom otpada koji sadržava živu utvrđenom u članku 11.
+2. Svaka stranka poduzima mjere kojima osigurava da se međuskladištenje takve žive i živinih spojeva namijenjenih za uporabu koja je stranci dopuštena na temelju ove Konvencije provodi na način koji je prihvatljiv za okoliš, uzimajući u obzir sve smjernice te da je u skladu sa svim zahtjevima donesenima u skladu sa stavkom 3.
+3. Konferencija stranaka donosi smjernice o međuskladištenju takve žive i živinih spojeva koje je prihvatljivo za okoliš, uzimajući u obzir sve odgovarajuće smjernice izrađene u okviru Baselske konvencije o nadzoru prekograničnog prometa opasnog otpada i njegovog zbrinjavanja te druge relevantne smjernice. Konferencija stranaka može donijeti zahtjeve za međuskladištenje u dodatnom prilogu ovoj Konvenciji u skladu s člankom 27.
+4. Stranke surađuju, prema potrebi, međusobno i s mjerodavnim međuvladinim organizacijama i drugim subjektima kako bi unaprijedile izgradnju kapaciteta za međuskladištenje takve žive i živinih spojeva koje je prihvatljivo za okoliš.
