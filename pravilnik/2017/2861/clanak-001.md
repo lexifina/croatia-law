@@ -1,0 +1,3 @@
+# Članak 1.
+U Pravilniku o provedbi mjere 16 »Suradnja« iz Programa ruralnog razvoja Republike Hrvatske za razdoblje 2014. - 2020. (»Narodne novine«, broj 101/17), u članku 5. stavak 4. mijenja se i glasi:
+»(4) Partneri operativne skupine mogu biti fizičke i pravne osobe upisane u Upisnik poljoprivrednika i/ili Jedinstveni registar domaćih životinja (JRDŽ), proizvođačke grupe i organizacije u poljoprivrednom i prehrambeno-prerađivačkom sektoru, fizičke i pravne osobe koje se bave djelatnostima u okviru predloženih tema iz članka 7. ovoga Pravilnika. Sve fizičke i pravne osobe moraju biti osnovane i registrirane u RH.«
