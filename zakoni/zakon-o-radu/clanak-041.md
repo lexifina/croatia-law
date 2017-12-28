@@ -4,4 +4,4 @@
 (2) Radi osiguranja poslova iz stavka 1. ovoga članka, poslodavac je dužan prilagoditi poslove sposobnostima radnika, izmijeniti raspored radnog vremena, odnosno poduzeti druge mjere da radniku osigura odgovarajuće poslove.
 (3) Ako je poslodavac poduzeo sve mjere iz stavka 2. ovoga članka, a ne može radniku osigurati odgovarajuće poslove, odnosno ako je radnik odbio ponudu za sklapanje ugovora o radu za obavljanje poslova koji odgovaraju njegovim sposobnostima u skladu s nalazom i mišljenjem ovlaštenog tijela, poslodavac radniku može otkazati ugovor o radu uz suglasnost radničkog vijeća.
 (4) U sporu između poslodavca i radnika, samo je doktor specijalist medicine rada nadležan ocijeniti jesu li ponuđeni poslovi iz stavka 1. ovoga članka odgovarajući.
-(5) Ako radničko vijeće uskrati suglasnost na otkaz radniku iz stavka 1. ovoga članka, suglasnost može nadomjestiti arbitražna odluka.
+(5) Ako radničko vijeće uskrati suglasnost na otkaz radniku iz stavka 1. ovoga članka, na nadomještanje suglasnosti će se primijeniti odredba članka 151. ovoga Zakona.
