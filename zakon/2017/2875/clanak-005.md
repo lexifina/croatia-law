@@ -1,0 +1,2 @@
+# Članak 5.
+Sve troškove nastale za račun bivšeg Fonda te troškove koji nakon stupanja na snagu ovoga Zakona nastanu u vezi s izvršenjem preostalih obveza proizašlih iz Zakona o provođenju odluke Ustavnog suda Republike Hrvatske od 12. svibnja 1998. (»Narodne novine«, br. 195/04. i 19/07.) radi obeštećenja korisnika mirovine povodom Odluke Ustavnog suda Republike Hrvatske od 12. svibnja 1998. (»Narodne novine«, br. 68/98.) snosi Zavod.
