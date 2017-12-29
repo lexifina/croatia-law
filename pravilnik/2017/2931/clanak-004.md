@@ -1,0 +1,11 @@
+## Društva za osiguranje i društva za reosiguranje
+# Članak 4.
+(1) Društva za osiguranje i društva za reosiguranje iz članka 17. stavka 1. točke 1. i stavka 3. točke 1. ZOS-a dužna su Agenciji platiti naknadu u visini od 0,7 ‰ (tisućinki) računano od iznosa zaračunate bruto premije osiguranja odnosno reosiguranja.
+(2) Naknadu iz stavka 1. ovoga članka društva za osiguranje i društva za reosiguranje izračunavaju na temelju podataka o zaračunatoj bruto premiji za svaki mjesec tekuće godine.
+(3) Društva za osiguranje i društva za reosiguranje naknadu izračunavaju primjenom sljedeće formule:
+Zaračunatu bruto premiju pomnožiti sa 0,7 ‰ (tisućinki)
+(4) Izračunata naknada iz stavka 3. ovoga članka mjesečni je iznos obveze plaćanja naknade Agenciji, a društva za osiguranje i društva za reosiguranje dužna su je uplatiti do 15. dana u mjesecu za prethodni mjesec.
+(5) Društva za osiguranje iz druge države članice koja na temelju članka 66. ZOS-a obavljaju poslove osiguranja na temelju prava poslovnog nastana u Republici Hrvatskoj, dužna su platiti godišnju paušalnu naknadu u iznosu od 20.000,00 kuna, u roku od tri mjeseca od završetka godine za koju se naknada obračunava.
+(6) Društvo za osiguranje iz treće države iz članka 17. stavka 1. točke 5. i stavka 3. točke 4. ZOS-a koje u Republici Hrvatskoj obavlja poslove osiguranja putem poslovnog nastana odnosno koja obavljaju poslove reosiguranja putem slobode pružanja usluga ili poslovnog nastana dužno je Agenciji platiti godišnju paušalnu naknadu u iznosu od 20.000,00 kuna, u roku od tri mjeseca od dana završetka godine za koju se naknada obračunava.
+(7) Društvo za osiguranje i društvo za reosiguranje iz Švicarske Konfederacije iz članka 17. stavka 1. točke 4. i stavka 3. točke 3. ZOS-a koje u Republici Hrvatskoj obavlja poslove osiguranja putem poslovnog nastana odnosno koje obavlja poslove reosiguranja putem slobode pružanja usluga ili poslovnog nastana, dužno je Agenciji platiti godišnju paušalnu naknadu u iznosu od 20.000,00 kuna, u roku od tri mjeseca od završetka godine za koju se naknada obračunava.
+Društva za zastupanje u osiguranju, obrti za zastupanje u osiguranju, društva za posredovanje u osiguranju i reosiguranju i sve druge pravne osobe koje imaju dozvolu za obavljanje poslova zastupanja u osiguranju
