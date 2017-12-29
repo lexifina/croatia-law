@@ -1,0 +1,1 @@
+Na temelju članka 17. Zakona o izmjenama o lokalnim porezima (»Narodne novine« broj 101/17) te članka 51. Statuta Grada Drniša (»Službeni vjesnik Šibensko-kninske županije« br. 15/09, 4/13, 11/13 i 14/13 i »Službeni glasnik grada Drniša« br. 4/15), Gradsko vijeće Grada Drniša, na 5. sjednici održanoj 13. prosinca 2017. godine, donijelo je
