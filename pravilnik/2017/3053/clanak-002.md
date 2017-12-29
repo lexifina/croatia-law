@@ -1,0 +1,4 @@
+# Članak 2.
+(1) U Izvještaju o sveobuhvatnoj dobiti (SD) naziv pozicije koji je do sada glasio: »Nerealizirani dobici/gubici financijske imovine raspoložive za prodaju« mijenja se i glasi: »Nerealizirani dobici/gubici financijske imovine po fer vrijednosti kroz ostalu sveobuhvatnu dobit«.
+(2) U Izvještaju o promjenama kapitala (PK) naziv pozicije u grupi »Stanje 1. siječnja prethodne godine (prepravljeno)« koji je do sada glasio: »Nerealizirani dobici/gubici od financijske imovine raspoložive za prodaju« mijenja se i glasi: »Nerealizirani dobici/gubici od financijske imovine po fer vrijednosti kroz ostalu sveobuhvatnu dobit«.
+(3) U Izvještaju o promjenama kapitala (PK) naziv pozicije u grupi »Stanje 31. prosinca prethodne godine (prepravljeno)« koji je do sada glasio: »Nerealizirani dobici/gubici od financijske imovine raspoložive za prodaju« mijenja se i glasi: »Nerealizirani dobici/gubici od financijske imovine po fer vrijednosti kroz ostalu sveobuhvatnu dobit«.
