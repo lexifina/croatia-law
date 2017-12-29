@@ -1,0 +1,1 @@
+Na temelju članka 14. stavka 4. Zakona o članarinama u turističkim zajednicama (»Narodne novine« broj 152/08, 88/10, 110/15, 121/16), uz suglasnost Ministra turizma klasa: 334-08/17-02/50, urbroj: 529-05-17-2, Glavni ured Hrvatske turističke zajednice donosi
