@@ -1,0 +1,1 @@
+Na temelju članka 291. stavaka 2. i 3. Zakona o tržištu kapitala (»Narodne novine«, broj 88/08, 146/08, 74/09, 54/13, 159/13, 18/15, 110/15 i 123/16) te članka 19. stavka 6. Zakona o računovodstvu (»Narodne novine«, broj 78/15, 134/15 i 120/16), Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća održanoj dana 15. prosinca 2017. donosi
