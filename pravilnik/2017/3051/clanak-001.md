@@ -1,0 +1,2 @@
+# Članak 1.
+U Pravilniku o strukturi i sadržaju te načinu i rokovima dostave financijskih i dodatnih izvještaja leasing društava (»Narodne novine« br. 41/16) mijenja se sadržaj financijskih izvještaja iz članka 4. stavka 1. Pravilnika i to: Izvještaja o sveobuhvatnoj dobiti (SD), Izvještaja o novčanom toku (NT) i Izvještaja o promjenama kapitala (PK) te sadržaj dodatnog izvještaja iz članka 5. stavka 1. Pravilnika i to: Izvještaj o promjenama ispravka vrijednosti (IV).
