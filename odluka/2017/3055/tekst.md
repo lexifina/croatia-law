@@ -1,0 +1,3 @@
+1. Kovani novac kuna i lipa s oznakom godine kovanja »2018.«, izdan u skladu s Odlukom o izdavanju novčanica i kovanog novca koji glase na novčanu jedinicu Republike Hrvatske (»Narodne novine«, br. 37/1994., 44/1994. i 68/1994.) s osnovnim obilježjima (osim godine kovanja) utvrđenima u Odluci o apoenima i osnovnim obilježjima novčanica i kovanog novca kuna i lipa s latinskim nazivima životinja i biljaka na naličju kovanog novca (»Narodne novine«, br. 47/1995.), pušta se u optjecaj 31. siječnja 2018.
+2. Ova Odluka stupa na snagu prvoga dana nakon dana njezine objave u »Narodnim novinama«.
+O. br. 838/2017.
