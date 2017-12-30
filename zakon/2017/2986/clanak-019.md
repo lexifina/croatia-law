@@ -1,0 +1,2 @@
+# Članak 19.
+U Zakonu o izmjenama i dopunama Zakona o socijalnoj skrbi (»Narodne novine«, br. 99/15.) u članku 52. iza riječi: »objave« umjesto zareza stavlja se točka, a riječi: »osim odredbi članaka 1., 2., 7., 12., 13., 14. i 15., članka 16. stavka 5., te članaka 25., 27., 28., 29., 30., 32., 34., 35., 36., 37., 38., 39., 40., 42., 45. i 46. ovoga Zakona koje stupaju na snagu 31. prosinca 2017.« brišu se.
