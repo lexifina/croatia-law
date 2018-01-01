@@ -1,0 +1,7 @@
+# Članak 19.
+Točke od 73. do 77. Upute mijenjaju se i glase:
+»73. Procjena zaštićenosti bilančnih izloženosti i izvanbilančnih obveza od valutno induciranoga kreditnog rizika prikazana u Izvještaju VIKR3, u skladu s podzakonskim propisom Hrvatske narodne banke o klasifikaciji izloženosti u rizične skupine, zasnovana je na internom sustavu identificiranja dužnika kreditne institucije koji imaju usklađenu, kao i onih koji imaju neusklađenu deviznu poziciju.
+74. U Izvještaju VIKR3 odvojeno su prikazani iznosi stavki koje su zaštićene i stavki koje nisu zaštićene od valutno induciranoga kreditnog rizika odnosno stavki koje se ne procjenjuju s obzirom na taj rizik u skladu s podzakonskim propisom Hrvatske narodne banke o klasifikaciji izloženosti u rizične skupine.
+75. Izloženostima kreditnih institucija koje su prikazane u Izvještaju VIKR3 smatraju se bilančne izloženosti i preuzete izvanbilančne obveze koje su prikazane u Izvještaju RS4, a koje su nominirane u stranim valutama ili su ugovorene s valutnom klauzulom, uključujući i jednosmjernu valutnu klauzulu.
+76. U Izvještaju VIKR3 bilančne su izloženosti podijeljene u portfelj »Financijska imovina po amortiziranom trošku« i u portfelj »Financijska imovina po fer vrijednosti kroz ostalu sveobuhvatnu dobit«.
+77. Bilančne se izloženosti u Izvještaju VIKR3 prikazuju prema neto knjigovodstvenoj vrijednosti, tj. nakon umanjenja vrijednosti.«
