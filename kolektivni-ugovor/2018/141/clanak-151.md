@@ -1,0 +1,3 @@
+# Članak 151.
+Stranke će najmanje 90 dana prije isteka roka na koji je sklopljen ovaj Kolektivni ugovor započeti pregovore o sklapanju novog Ugovora.
+Stranke su suglasne da će se, u slučaju da novi Kolektivni ugovor nije sklopljen prije isteka roka na koji je sklopljen ovaj Kolektivni ugovor, odredbe ovog Kolektivnog ugovora primjenjivati još najduže tri mjeseca nakon proteka vremena na koje je sklopljen, odnosno do 31. ožujka 2020. godine.

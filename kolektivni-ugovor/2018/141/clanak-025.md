@@ -1,0 +1,3 @@
+# Članak 25.
+U svrhu osiguravanja uvjeta za opstanak novoutemeljenih društava poslodavac kao osnivač, vodit će kontinuiranu brigu o međusobnom pravu dodjele obavljanja poslova novoutemeljenih društava, sukladno njihovoj registraciji djelatnosti i sukladno važećim propisima Republike Hrvatske.
+Poslodavac se obvezuje savjetovati sa Sindikatima, strankama ovoga Kolektivnog ugovora o pitanjima međusobnih prava i obveza novoutemeljenih Društava s postojećim Društvima, kao i djelatnostima koje će se obavljati u novoutemeljenim Društvima i postojećim Društvima, a u cilju sprečavanja preklapanje poslova i nelojalne konkurencije.
