@@ -1,0 +1,2 @@
+# Članak 3.
+Glava III. PRIJENOS OVLASTI I NADLEŽNA POREZNA TIJELA mijenja se i glasi: »III. NADLEŽNO POREZNO TIJELO«.
