@@ -1,0 +1,1 @@
+Na temelju članka 42. Zakona o lokalnim porezima (»Narodne novine« br. 115/16, 101/17) i čl. 32. Statuta Grada Lipika (»Službeni glasnik Grada Lipika« br. 3/09, 7/11, 2/13 i 2/14) Gradsko vijeće Grada Lipika na svojoj 5. sjednici održanoj 18. prosinca 2017. godine donosi
