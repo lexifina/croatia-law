@@ -1,0 +1,1 @@
+Na temelju članka 20. stavka 1. Zakona o lokalnim porezima (»Narodne novine«, br. 115/16 i 101/17) te članka 16. Statuta Grada Sv. Ivana Zeline (»Zelinske novine«, br. 8/01, 7/02, 10/04, 1/06, 3/06 - pročišćeni tekst, 9/09, 11/09 - pročišćeni tekst, 5/13 i 12/13 - pročišćeni tekst), Gradsko vijeće Grada Svetog Ivana Zeline na 5. sjednici održanoj 13. prosinca 2017. godine, donosi
