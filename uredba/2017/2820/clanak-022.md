@@ -1,0 +1,3 @@
+# Članak 22.
+(1) Naknada plaćenih troškova za privremeni smještaj djelatnika upućenih na rad u inozemstvo ostvaruje se po dolasku u državu primateljicu do početka korištenja stalnog smještaja, ali najdulje do 30 dana. Naknada se ostvaruje u visini cijene smještaja u hotelu s kojim postoji sklopljen ugovor osim u slučajevima kada takav ugovor ne postoji.
+(2) Naknada plaćenih troškova iz stavka 1. ovoga članka ostvaruje se i u slučaju prijevremenog otkaza ugovora ili nemogućnosti korištenja stana zbog okolnosti koje su nastupile bez krivnje korisnika, a troškovi se u ovom slučaju nadoknađuju i za članove uže obitelji po prethodnom pisanom odobrenju nadležne ustrojstvene jedinice za poslove međunarodne obrambene suradnje Ministarstva obrane.

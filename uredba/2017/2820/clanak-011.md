@@ -1,0 +1,5 @@
+## Izuzeci od mjerila za određivanje plaće
+# Članak 11.
+(1) Djelatne vojne osobe na radu u međunarodnim organizacijama sa sjedištem u Republici Hrvatskoj ne ostvaruju pravo na osnovnu plaću prema mjerilima iz članka 4. ove Uredbe nego ostvaruju pravo na osnovnu plaću i dodatke na plaću u skladu s propisima o plaćama djelatnih vojnih osoba u Republici Hrvatskoj, uvećano za poseban dodatak u iznosu od 15% od osnovne plaće te nemaju pravo na druge dodatke i naknade iz ove Uredbe.
+(2) Državni službenici i namještenici Ministarstva obrane na radu u međunarodnim organizacijama sa sjedištem u Republici Hrvatskoj ne ostvaruju pravo na osnovnu plaću prema mjerilima iz članka 4. ove Uredbe nego ostvaruju pravo na osnovnu plaću i dodatke na plaću u skladu s propisima o plaćama državnih službenika i namještenika u Republici Hrvatskoj s tim da se primjenjuju koeficijenti polazne osnovice složenosti poslova prema diplomatskim, vojnodiplomatskim i ostalim zvanjima iz Priloga I. ove Uredbe te nemaju pravo na druge dodatke i naknade iz ove Uredbe.
+(3) Plaća i dodaci na plaću iz stavaka 1. i 2. ovoga članka obračunavaju se i isplaćuju u kunama.

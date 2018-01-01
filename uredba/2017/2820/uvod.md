@@ -1,0 +1,1 @@
+Na temelju članka 113. stavka 4. Zakona o obrani (»Narodne novine«, br. 73/13, 75/15, 27/16 i 110/17 - Odluka Ustavnog suda Republike Hrvatske) i članka 144. stavka 3. Zakona o službi u Oružanim snagama Republike Hrvatske (»Narodne novine«, br. 73/13, 75/15 i 50/16), Vlada Republike Hrvatske je na sjednici održanoj 13. prosinca 2017. godine, donijela

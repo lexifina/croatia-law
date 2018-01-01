@@ -1,0 +1,4 @@
+# Članak 19.
+(1) Ugovor o najmu stana s najmodavcem sklapa korisnik unajmljenoga stana te je odgovoran i snosi sve troškove i rizike uzrokovane nesavjesnim korištenjem stana, kao i druge obveze koje je ugovorom preuzeo.
+(2) Korisnik stana je obvezan pri sklapanju ugovora o najmu, ako je to moguće, ugovoriti odredbu o mogućnosti otkaza ugovora i prije redovnog isteka ugovora, u slučaju prijevremenog povratka u Republiku Hrvatsku.
+(3) Korisnik stana je obvezan prethodno pribaviti najmanje tri ponude za najam stana i prethodnu pisanu suglasnost nadležne ustrojstvene jedinice za poslove međunarodne obrambene suradnje Ministarstva obrane za sklapanje ugovora o najmu, koja će voditi računa o specifičnim uvjetima cijene najma u državi primateljici, pri čemu će se ako je moguće konzultirati predstavništvo Republike Hrvatske u navedenoj državi.

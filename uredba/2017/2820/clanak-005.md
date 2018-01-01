@@ -1,0 +1,3 @@
+# Članak 5.
+(1) Koeficijenti polazne osnovice složenosti poslova prema diplomatskim, vojnodiplomatskim i ostalim zvanjima, koeficijenti troškova života u državi primateljici i postotak kategorije važnosti predstavništva u inozemstvu nalaze se u prilozima I., II. i III. ove Uredbe i njezin su sastavni dio. Kategorije važnosti predstavništva u inozemstvu nalaze se u Prilogu IV. ove Uredbe i ne objavljuju se u »Narodnim novinama«.
+(2) Deviznu vrijednost koeficijenta utvrđuje Vlada Republike Hrvatske u skladu s člankom 3. stavkom 2. Uredbe o plaćama, dodacima i naknadama u službi vanjskih poslova (»Narodne novine«, br. 22/03, 48/03, 39/06, 36/07 i 25/13).

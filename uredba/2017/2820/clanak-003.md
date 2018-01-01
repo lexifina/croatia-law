@@ -1,0 +1,3 @@
+# Članak 3.
+(1) Pod pojmom međunarodne organizacije u smislu ove Uredbe podrazumijevaju se strukture NATO-a, Europske unije, Ujedinjenih naroda, nacionalna (multinacionalna) zapovjedništva i stožeri savezničkih i partnerskih država te civilne i vojne znanstvene i stručne institucije iz područja obrane i sigurnosti.
+(2) Odredbe ove Uredbe odgovarajuće se primjenjuju i na osobe koje se s pozicija nacionalnih (multinacionalnih) zapovjedništava i stožera savezničkih i partnerskih država te struktura NATO-a, Europske unije i Ujedinjenih naroda upućuju u operacije potpore miru i druge aktivnosti u inozemstvu.
