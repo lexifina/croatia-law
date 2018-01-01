@@ -1,0 +1,4 @@
+# Članak 5.
+(1) Sva tijela koja postupaju povodom nasilja u obitelji dužna su postupati posebno obzirno prema žrtvi nasilja u obitelji te pri poduzimanju radnji na primjeren način skrbiti se o pravima žrtve.
+(2) Sva tijela koja postupaju povodom nasilja u obitelji dužna su prema djetetu žrtvi nasilja u obitelji postupati posebno obzirno vodeći računa o njegovoj dobi, osobnosti te osobnim i obiteljskim prilikama kako bi se izbjegle štetne posljedice za odgoj i razvoj djeteta. Pri postupanju prema djetetu žrtvi nasilja u obitelji nadležna tijela prvenstveno će se rukovoditi najboljim interesom djeteta.
+(3) Tijela koja postupaju povodom nasilja u obitelji dužna su poštovati dostojanstvo osobe s invaliditetom i osobe starije životne dobi kao žrtve nasilja te poštovati posebnosti koje proizlaze iz njezina invaliditeta odnosno dobi.

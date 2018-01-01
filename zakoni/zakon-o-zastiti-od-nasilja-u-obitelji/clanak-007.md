@@ -1,0 +1,3 @@
+# Članak 7.
+(1) Zdravstveni radnici, djelatnici u ustanovama socijalne skrbi, osobe zaposlene u odgojno-obrazovnim ustanovama, stručni radnici zaposleni u vjerskim ustanovama, humanitarnim organizacijama ili organizacijama civilnog društva te sve druge stručne osobe koje u svom radu dolaze u kontakt sa žrtvama nasilja u obitelji dužni su prijaviti policiji ili državnom odvjetništvu počinjenje nasilja u obitelji za koje su saznali u obavljanju svojih poslova.
+(2) Tijela koja postupaju povodom nasilja u obitelji dužna su bez odgode obavijestiti nadležni centar za socijalnu skrb o činjenicama i okolnostima koje su pridonijele ili pogodovale počinjenju nasilja u obitelji, radi poduzimanja mjera iz nadležnosti centra za socijalnu skrb.
