@@ -1,0 +1,12 @@
+## Status neispunjavanja obveza
+# Članak 6.
+(1) U smislu ove Odluke smatra se da je dužnik u statusu neispunjavanja obveza ako zadovoljava uvjete propisane člankom 178. Uredbe (EU) br. 575/2013.
+(2) Iznimno od stavka 1. ovog članka kreditna institucija za izloženosti iz kategorije izloženosti prema stanovništvu može status neispunjavanja obveza procjenjivati na razini pojedinog proizvoda ako je isto u skladu s internim procesom upravljanja rizicima.
+(3) U slučaju iz stavka 2. ovog članka, ako kreditna institucija ima bilančne izloženosti prema dužniku koje su u statusu neispunjenja obveza i bruto knjigovodstvena vrijednost izloženosti u statusu neispunjenja izloženosti čini više od 20% bruto knjigovodstvene vrijednosti svih bilančnih izloženosti prema tom dužniku, smatra se da je nastupio status neispunjavanja obveza za sve bilančne i izvanbilančne izloženosti po svim proizvodima tog dužnika.
+(4) Kreditna institucija dužna je u smislu stavka 1. ovog članka propisati indikatore koji upućuju na to da dužnik neće u cijelosti podmiriti svoje obveze. Indikatorima u smislu ovog stavka osobito se smatraju:
+1) evidentne znatne financijske teškoće dužnika,
+2) kršenje ugovora, kao što je neispunjavanje obveza ili kašnjenje pri plaćanju kamata i/ili glavnice ili neispunjavanje drugih odredaba ugovora i
+3) postojanje realne vjerojatnosti pokretanja stečajnog postupka ili poduzimanje druge pravne radnje (financijske reorganizacije) koja je uzrokovana lošim financijskim položajem dužnika.
+(5) U slučaju iz stavka 4. ovog članka, pri utvrđivanju indikatora koji upućuju na vjerojatnost da dužnik neće u cijelosti podmiriti svoje obveze, kreditna institucija dužna je uzeti u obzir odnose unutar grupe povezanih osoba. Pritom je kreditna institucija dužna u svojim internim procedurama odrediti situacije u kojima status neispunjavanja obveza kod jednog dužnika unutar grupe povezanih osoba dovodi do učinka širenja statusa neispunjavanja obveza na druge subjekte unutar te grupe.
+(6) U smislu stavka 1. ovog članka smatra se da je nastao status neispunjavanja obveza u slučaju restrukturiranih izloženosti koje će vjerojatno rezultirati umanjivanjem financijske obveze dužnika zbog značajnog otpusta ili odgode plaćanja glavnice, kamata ili, ako je primjenjivo, naknada.
+(7) Kreditna institucija dužna je kod restrukturiranih izloženosti uspostaviti posebne evidencije i sustav njihova naknadnog praćenja.
