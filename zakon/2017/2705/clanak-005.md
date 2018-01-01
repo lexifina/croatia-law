@@ -1,0 +1,3 @@
+# Članak 5.
+(1) Zaposlenici Fonda za naknadu oduzete imovine koji su u trenutku stupanja na snagu ovoga Zakona zatečeni na obavljanju preuzetih poslova nastavljaju s radom na poslovima na kojima su zatečeni i zadržavaju plaće prema dosadašnjim propisima, do donošenja rješenja o rasporedu na radna mjesta prema Pravilniku o unutarnjem redu Ministarstva financija.
+(2) Predsjednik i potpredsjednici Fonda za naknadu oduzete imovine zadržavaju pravo na plaću i druga prava iz postojećeg ugovora o radu, do donošenja rješenja o rasporedu na radna mjesta prema Pravilniku o unutarnjem redu Ministarstva financija.
