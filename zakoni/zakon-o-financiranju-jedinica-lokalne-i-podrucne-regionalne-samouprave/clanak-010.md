@@ -1,0 +1,7 @@
+## IV. FINANCIRANJE DECENTRALIZIRANIH FUNKCIJA
+# Članak 10.
+(1) Vlada Republike Hrvatske u odlukama o minimalnim financijskim standardima utvrđuje minimalan iznos sredstava koja je potrebno osigurati za pokriće rashoda za decentralizirane funkcije osnovnog i srednjeg školstva, socijalne skrbi, zdravstva i vatrogastva.
+(2) Sredstva za pokriće rashoda za decentralizirane funkcije osnovnog i srednjeg školstva, socijalne skrbi, zdravstva i vatrogastva, koje se prema posebnom zakonu prenose na jedinice lokalne i područne (regionalne) samouprave, osiguravaju se iz udjela za decentralizirane funkcije iz članka 5. stavka 2. točke 3. ovoga Zakona.
+(3) Ako se iz udjela za decentralizirane funkcije iz članka 5. stavka 2. točke 3. ovoga Zakona ostvari manje sredstava od iznosa utvrđenog odlukama Vlade Republike Hrvatske o minimalnim financijskim standardima iz stavka 1. ovoga članka, jedinice lokalne i područne (regionalne) samouprave imaju pravo na pomoći izravnanja za decentralizirane funkcije u iznosu koji im je potreban za dostizanje minimalnih financijskih standarda za pojedinu decentraliziranu funkciju.
+(4) Pomoći izravnanja za decentralizirane funkcije iz stavka 3. ovoga članka osiguravaju se u državnom proračunu Republike Hrvatske na razdjelima ministarstava nadležnih za osnovno i srednje školstvo, socijalnu skrb, zdravstvo i vatrogastvo.
+(5) Vlada Republike Hrvatske uredbom utvrđuje način financiranja decentraliziranih funkcija i način izračuna pomoći izravnanja za decentralizirane funkcije.
