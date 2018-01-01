@@ -1,0 +1,1 @@
+Na temelju članka 20., članka 41. stavak 4. i članka 42. Zakona o lokalnim porezima (»Narodne novine«, broj 115/16 i 101/17) i članka 37. Statuta Grada Jastrebarskog (»Službeni vjesnik Grada Jastrebarskog«, broj 7/09, 2/13 i 3/13) Gradsko vijeće Grada Jastrebarskog na 4. sjednici održanoj 28. studenoga 2017., donosi
