@@ -1,0 +1,1 @@
+Na temelju članka 261. stavka 2. Zakona o sigurnosti prometa na cestama (»Narodne novine«, br. 67/2008, 48/2010 - Odluka Ustavnog suda Republike Hrvatske, 74/2011, 80/2013, 158/2013 - Odluka Ustavnog suda Republike Hrvatske, 92/2014, 64/2015 i 108/2017) ministar unutarnjih poslova donosi
