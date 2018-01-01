@@ -1,0 +1,14 @@
+## Umanjenje vrijednosti za očekivane kreditne gubitke
+# Članak 12.
+(1) Za financijsku imovinu AIF-a, koja se mjeri u skladu s točkama 4.1.2 i 4-1-2 A MSFI 9,UAIF je dužan je priznati rezervacije za umanjenje vrijednosti za očekivane kreditne gubitke sukladno odredbama točke 5.5. MSFI 9.
+(2) UAIF je dužan internim aktima propisati:
+a) način izračuna očekivanih kreditnih gubitaka za financijsku imovinu iz stavka 1. ovoga članka,
+b) kvalitativne i kvantitativne kriterije za određivanje znatnog povećanja (smanjenja) kreditnog rizika, uzimajući u obzir čimbenike navedene u točki B.5.5.17. MSFI 9.
+c) način i učestalost ažuriranja metoda i pretpostavki koje se koriste za procjenu očekivanih kreditnih gubitaka.
+(3) UAIF je dužan kontinuirano pratiti raspoložive i dostupne informacije važne za procjenu kreditnog rizika izdavatelja te svaki put u slučaju okolnosti koji upućuju na znatnu promjenu kreditnog rizika, a minimalno tromjesečno procijeniti iznose rezervacija za umanjenje vrijednosti za očekivane kreditne gubitke.
+(4) Procjenu iz stavka 3. ovoga članka UAIF je dužan sastaviti u pisanom obliku, neovisno o rezultatu procjene za potrebom promjene iznosa rezervacija za umanjenje vrijednosti te uz istu priložiti svu potrebnu dokumentaciju i dostupne podatke na temelju kojih je donesena.
+(5) Ako se prilikom praćenja kreditnog rizika izdavatelja iz stavka 3. ovoga članka utvrdi postojanje dokaza ili okolnosti koje upućuju na umanjenje vrijednosti za očekivane kreditne gubitke (ili poništenja), UAIF je dužan u pisanom obliku izraditi procjenu umanjenja vrijednosti za očekivane kreditne gubitke (ili poništenja) iz koje su vidljivi svi ulazni podaci koji su korišteni u izračunu kao i njihovi izvori.
+(6) UAIF je dužan iznos rezervacije za umanjenje vrijednosti za očekivane kreditne gubitke iz stavka 5. ovoga članka, uključiti u izračun neto vrijednosti imovine AIF-a najkasnije sedmog radnog dana od zadnjeg dana izvještajnog razdoblja.
+(7) UAIF može u internim aktima, osim informacije o događajima koji dokazuju na umanjenje vrijednosti za očekivane kreditne gubitke (ili poništenja) iz Dodatka A MSFI 9, propisati i dodatne informacije koje će uzimati u obzir kao objektivni dokaz promjena rezerviranja za umanjenja vrijednosti za očekivane kreditne gubitke AIF-a.
+(8) Depozitar AIF-a dužan je provjeriti je li UAIF prilikom izrade procjena iz stavaka 3. i 5. ovoga članka postupao u skladu sa stavcima 2. i 7. ovoga članka i o tome je dužan voditi evidenciju.
+(9) UAIF je dužan dostaviti depozitaru na njegov upit svu dokumentaciju koja sadrži dokaze ili okolnosti vezane uz procjenu iznosa rezervacija za umanjenje vrijednosti za očekivane kreditne gubitke financijske imovine iz stavka 1. ovoga članka te ulazne podatke i njihove izvore na kojima se temelji procjena umanjenja vrijednosti za očekivane kreditne gubitke (ili poništenja) iz stavka 7. ovoga članka.
