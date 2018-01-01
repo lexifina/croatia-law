@@ -1,0 +1,11 @@
+# Članak 6.
+Članak 14.a mijenja se i glasi:
+»Izrađenu putovnicu koja se izdaje u redovnom postupku u roku do 30 dana od dana podnošenja zahtjeva, podnositelj zahtjeva preuzima u policijskoj upravi ili postaji u kojoj je neposredno podnio zahtjev ili kojoj je zahtjev za njeno izdavanje uputio preko sustava eGrađani.
+Iznimno od odredbe stavka 1. ovoga članka putovnica koja se izdaje u redovnom postupku može se na zahtjev podnositelja zahtjeva za izdavanje putovnice dostaviti na adresu prebivališta ili boravišta podnositelja zahtjeva.
+Dostavu putovnice na adresu prebivališta ili boravišta podnositelja zahtjeva obavlja pravna osoba ovlaštena za tehničku izradu putnih isprava putem dostavne službe uz naknadu ugovorenu s dostavnom službom.
+U slučaju da se u postupku dostave iz stavka 3. ovoga članka putovnica izgubi, u evidencijama na središnjem informacijskom sustavu Ministarstva unutarnjih poslova se za njom raspisuje objava te se pravnoj osobi ovlaštenoj za tehničku izradu putnih isprava po službenoj dužnosti šalje novi zahtjev za izradu putovnice.
+Ako se u postupku dostave iz stavka 3. ovoga članka putovnica ne uspije uručiti podnositelju zahtjeva, dostavna služba će putovnicu dostaviti u policijsku upravu ili postaju u kojoj je neposredno podnesen zahtjev ili kojoj je zahtjev za njeno izdavanje upućen preko sustava eGrađani, gdje ju podnositelj zahtjeva može osobno preuzeti.
+Podnositelj zahtjeva za izdavanje putovnice koji nema prebivalište u Republici Hrvatskoj putovnicu izdanu u redovnom postupku može preuzeti samo u policijskoj upravi ili postaji u kojoj je neposredno podnio zahtjev ili kojoj je zahtjev za njeno izdavanje uputio preko sustava eGrađani.
+Za putovnicu koja se izdaje u hitnim slučajevima u kojima se o zahtjevu za izdavanje mora riješiti odmah, a najkasnije u roku od 48 sati od podnošenja zahtjeva, zahtjev se podnosi i izrađena putovnica se preuzima u Policijskoj upravi zagrebačkoj.
+Podnositelj zahtjeva koji želi da mu se putovnica izda u roku od tri radna dana od dana podnošenja zahtjeva, putovnicu preuzima u policijskoj upravi u kojoj je podnio zahtjev za njeno izdavanje, odnosno u čijem je sastavu policijska postaja u kojoj je podnio zahtjev za izdavanje putovnice.
+Pravna osoba ovlaštena za tehničku izradu putnih isprava dužna je osigurati dostavu putovnica u policijsku upravu u roku iz stavka 8. ovoga članka.«
