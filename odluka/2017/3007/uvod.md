@@ -1,0 +1,1 @@
+Na temelju članka 20. i 42. Zakona o lokalnim porezima (»Narodne novine« broj 115/16 i 101/17) i članka 30. Statuta Općine Nova Kapela (»Službeni vjesnik Brodsko-posavske županije« broj 4/14.), Općinsko vijeće Općine Nova Kapela na 4. sjednici, održanoj 19. prosinca 2017. godine, donosi
