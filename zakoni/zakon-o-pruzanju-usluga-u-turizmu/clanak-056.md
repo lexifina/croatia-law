@@ -1,0 +1,8 @@
+## Obveze u vezi s informiranjem za povezane putne aranžmane
+# Članak 56.
+(1) Prije nego što se putnik obveže bilo kojim ugovorom koji dovodi do sastavljanja povezanog putnog aranžmana ili bilo kojom odgovarajućom ponudom, trgovac koji omogućuje povezane putne aranžmane, među ostalim i onda kad trgovac nema poslovni nastan u državi članici Europske unije, ali na bilo koji način usmjerava takve djelatnosti na državu članicu, dužan je izjaviti na jasan, razumljiv i lako uočljiv način da:
+a) putnik neće moći ostvariti korist ni od jednog od prava koja se primjenjuju isključivo na paket-aranžmane i da će svaki pružatelj usluga biti isključivo odgovoran za pravilno izvršenje svojih usluga u skladu s ugovorom i
+b) putnik će moći ostvariti korist od zaštite u slučaju nesolventnosti u skladu s člankom 55. ovoga Zakona.
+(2) Trgovac koji omogućuje povezane putne aranžmane dužan je informacije iz stavka 1. ovoga članka pružiti putniku putem odgovarajućeg standardnog obrasca iz Priloga II. ovoga Zakona ili, ako specifična vrsta povezanog putnog aranžmana nije obuhvaćena nijednim od obrazaca u Prilogu II., dužan je pružiti informacije sadržane u tim obrascima.
+(3) Ako trgovac koji omogućuje povezane putne aranžmane ne ispuni zahtjeve navedene u članku 55. ovoga Zakona i stavcima 1. i 2. ovoga članka, u odnosu na usluge putovanja obuhvaćene povezanim putnim aranžmanom primjenjuju se prava i obveze iz članka 34. i članaka 37. – 49. ovoga Zakona.
+(4) Ako je povezani paket-aranžman rezultat sklapanja ugovora između putnika i trgovca koji ne omogućuje povezani putni aranžman, taj je trgovac dužan obavijestiti trgovca koji omogućuje povezani putni aranžman o sklapanju relevantnog ugovora.

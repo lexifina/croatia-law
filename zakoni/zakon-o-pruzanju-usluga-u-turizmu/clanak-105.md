@@ -1,0 +1,7 @@
+## Zabrana daljnjeg pružanja usluga u turizmu
+# Članak 105.
+(1) Ako se u provedbi inspekcijskog nadzora u području pružanja usluga u turizmu utvrdi da se usluge u turizmu pružaju suprotno izdanom rješenju nadležnog ureda odnosno Ministarstva, turistički inspektor će po završetku inspekcijskog nadzora s utvrđenim činjenicama odlučnim za donošenje rješenja donijeti i otpremiti rješenje stranki kojim će do otklanjanja utvrđenih nedostataka odnosno nepravilnosti zabraniti pravnoj ili fizičkoj osobi pružanje usluga u turizmu, u dijelu u kojem se pružaju suprotno rješenju nadležnog ureda odnosno Ministarstva, izdanom temeljem članaka 87. i 88. ovoga Zakona.
+(2) Iznimno, u slučaju objektivne spriječenosti turističkog inspektora, rješenje iz stavka 1. ovoga članka turistički inspektor dužan je donijeti i otpremiti stranki prvi radni dan nakon što su prestale okolnosti koje su ga sprječavale u donošenju i otpremi rješenja.
+(3) Žalba protiv rješenja iz stavka 1. ovoga članka ne odgađa izvršenje rješenja.
+(4) Žalba protiv rješenja iz stavka 1. ovoga članka podnosi se Ministarstvu, a rješava je Povjerenstvo za žalbe Ministarstva, ustrojeno prema propisu kojim se uređuje turistička inspekcija.
+(5) Ako je pravna ili fizička osoba otklonila nedostatke utvrđene rješenjem iz stavka 1. ovoga članka ili je zbog drugog razloga prestala obveza izvršenja toga rješenja, turistički inspektor će po službenoj dužnosti u zapisniku o kontroli izvršenja rješenja navesti da je rješenje izvršeno.

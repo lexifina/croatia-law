@@ -1,0 +1,3 @@
+## Nastavak obavljanja poslova turističkog vodiča
+# Članak 114.
+Osobe koje su do stupanja na snagu ovoga Zakona ishodile rješenje o odobrenju za pružanje usluga turističkog vodiča sukladno odredbama Zakona o pružanju usluga u turizmu (»Narodne novine«, br. 68/07., 88/10., 30/14. i 152/14.) za opći dio ispita mogu nastaviti obavljati usluge turističkog vodiča sukladno tom rješenju za područje Republike Hrvatske bez zaštićenih cjelina (lokaliteta), a oni koji imaju položen i posebni dio stručnog ispita, mogu pružati usluge i na ili u zaštićenim cjelinama (lokalitetima) u županiji za koju su položili posebni dio stručnog ispita.

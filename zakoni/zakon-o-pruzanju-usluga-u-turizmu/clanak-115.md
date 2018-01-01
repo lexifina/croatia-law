@@ -1,0 +1,3 @@
+## Nastavak organiziranja stručnih ispita za turističkog vodiča na visokim učilištima
+# Članak 115.
+Visoka učilišta na kojima su ustrojene ispitne komisije za polaganje stručnog ispita za turističkog vodiča do stupanja na snagu ovoga Zakona nastavljaju s organizacijom i provođenjem stručnih ispita za turističkog vodiča sukladno odredbama Pravilnika o stručnom ispitu za turističke vodiče i ispitnom programu za turističke pratitelje (»Narodne novine«, br. 50/08. i 120/08.) do stupanja na snagu pravilnika iz članka 71. stavka 6. ovoga Zakona, a nakon stupanja na snagu pravilnika iz članka 71. stavka 6. ovoga Zakona dužni su uskladiti sastav ispitne komisije, program stručnog ispita i broj nastavnih sati s odredbama toga pravilnika.

@@ -1,0 +1,7 @@
+# Članak 124.
+(1) Do stupanja na snagu članka 107. stavka 1. točaka 18. – 21. ovoga Zakona novčanom kaznom od 5000,00 do 30.000,00 kuna kaznit će se za prekršaj pravna osoba, fizička osoba – obrtnik i trgovac pojedinac ako:
+1. ne osigura jamčevinu za svaki turistički paket-aranžman kod banke ili društva za osiguranje u Republici Hrvatskoj ili drugoj državi ugovornici Europskog gospodarskog prostora ili ako prilikom uplate iznosa za paket-aranžman putniku ne izda potvrdu o osiguranju jamčevine, koja mu omogućava neposredno ostvarenje prava za nadoknadu štete zbog nastalih troškova iz članka 123. stavka 4. ovoga Zakona prema banci ili društvu za osiguranje (članak 123. stavak 4.)
+2. ne sklopi s osiguravateljem ugovor o osiguranju od odgovornosti za štetu koju prouzroči putniku neispunjenjem, djelomičnim ispunjenjem ili neurednim ispunjenjem obveza koje se odnose na paket-aranžman (članak 123. stavak 5.).
+(2) Za prekršaje iz stavka 1. ovoga članka kaznit će se i odgovorna osoba u pravnoj osobi novčanom kaznom od 3000,00 do 10.000,00 kuna.
+(3) U slučaju ponavljanja prekršaja iz stavka 1. ovoga članka pravna osoba, fizička osoba – obrtnik i trgovac pojedinac kaznit će se novčanom kaznom od 15.000,00 do 90.000,00 kuna.
+(4) Za prekršaje iz stavka 1. ovoga članka turistički inspektor može naplatiti novčanu kaznu pravnoj osobi, fizičkoj osobi – obrtniku i trgovcu pojedincu na mjestu izvršenja prekršaja u iznosu od 2000,00 kuna, a odgovornoj osobi u pravnoj osobi u iznosu od 1500,00 kuna, osim u slučaju iz stavka 3. ovoga članka.

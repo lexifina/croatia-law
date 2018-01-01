@@ -1,0 +1,13 @@
+## Rješenje za pružanje usluga u nautičkom turizmu
+# Članak 87.
+(1) Pravna ili fizička osoba iz članka 5. stavka 1. ovoga Zakona i javna ustanova koja upravlja zaštićenim područjima mogu pružati turističke usluge u marini i drugim objektima za pružanje usluga veza i smještaja plovnih objekata te na plovnim objektima nautičkog turizma ako ishode rješenje da su ispunjeni uvjeti za pružanje tih usluga propisani ovim Zakonom i propisima donesenim na temelju ovoga Zakona te uvjeti propisani drugim propisima bez kojih se prema tim propisima ne može izdati rješenje o ispunjavanju uvjeta za obavljanje djelatnosti.
+(2) Ministarstvo, na zahtjev pravne ili fizičke osobe iz stavka 1. ovoga članka, utvrđuje rješenjem ispunjavanje minimalnih uvjeta i uvjeta za kategoriju marina.
+(3) Nadležni ured prema mjestu pružanja usluge, na zahtjev pravne ili fizičke osobe iz stavka 1. ovoga članka, rješenjem utvrđuje ispunjavanje minimalnih uvjeta za druge objekte za pružanje usluga veza i smještaja plovnih objekata nautičkog turizma.
+(4) Nadležna tijela iz stavaka 2. i 3. ovoga članka mogu izdati rješenje iz stavka 1. ovoga članka pravnoj ili fizičkoj osobi iz stavka 1. ovoga članka koja ima koncesiju za korištenje marine i drugog objekta za pružanje usluga veza i smještaja plovnih objekata nautičkog turizma, ako je ona potrebna u skladu s posebnim propisima kojima se uređuju koncesije na pomorskom dobru.
+(5) Nadležni ured prema mjestu upisa plovnog objekta ili prema mjestu pružanja usluge, na zahtjev pravne ili fizičke osobe iz stavka 1. ovoga članka, utvrđuje rješenjem ispunjavanje uvjeta za vrstu plovnog objekta nautičkog turizma.
+(6) Izvršna rješenja iz stavaka 2., 3. i 5. ovoga članka dostavljaju se nadležnoj ispostavi područne jedinice Turističke inspekcije i nadležnoj ispostavi područnog ureda Porezne uprave i Carinske uprave Ministarstva financija.
+(7) Izvršna rješenja iz stavaka 2., 3. i 5. ovoga članka upisuju se u Središnji registar.
+(8) Troškove postupka iz stavaka 2., 3. i 5. ovoga članka snosi podnositelj zahtjeva.
+(9) Protiv rješenja iz stavaka 3. i 5. ovoga članka može se izjaviti žalba Ministarstvu.
+(10) Protiv rješenja iz stavka 2. ovoga članka nije dopuštena žalba, ali se može pokrenuti upravni spor.
+(11) Pravne i fizičke osobe iz stavka 1. ovoga članka mogu pružati usluge iz članka 85. točke 2. ovoga Zakona bez rješenja iz stavka 1. ovoga članka ako ispunjavaju uvjete u skladu s posebnim propisom iz područja pomorstva kojim se uređuju uvjeti za obavljanje djelatnosti iznajmljivanja plovnih objekata s posadom ili bez posade i pružanje usluge smještaja gostiju na plovnom objektu.

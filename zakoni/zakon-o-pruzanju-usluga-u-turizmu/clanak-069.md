@@ -1,0 +1,9 @@
+## DIO PETI USLUGE TURISTIČKOG VODIČA, VODITELJA PUTOVANJA, TURISTIČKOG ANIMATORA I TURISTIČKOG PREDSTAVNIKA
+## GLAVA I. TURISTIČKI VODIČ
+## Definicija i usluge turističkog vodiča
+# Članak 69.
+(1) Turistički vodič je osoba koja pruža turistima usluge pokazivanja i stručnog tumačenja prirodnih ljepota i vrijednosti, kulturno-povijesnih spomenika, umjetničkih djela, etnografskih i drugih znamenitosti, povijesnih događaja, ličnosti, legendi o tim događajima i ličnostima, gospodarskih i političkih tijekova i zbivanja.
+(2) Usluge turističkog vodiča može pružati državljanin Republike Hrvatske, državljanin druge države ugovornice Ugovora o Europskom gospodarskom prostoru i Švicarske Konfederacije koji ispunjava uvjete za turističkog vodiča propisane ovim Zakonom.
+(3) Iznimno od stavka 2. ovoga članka, usluge turističkog vodiča može pružati i državljanin države koja nije država ugovornica Ugovora o Europskom gospodarskom prostoru i Švicarske Konfederacije koji ima prijavljeno prebivalište u Republici Hrvatskoj i ispunjava uvjete za turističkog vodiča propisane ovim Zakonom.
+(4) Turistički vodič državljanin druge države ugovornice Ugovora o Europskom gospodarskom prostoru i Švicarske Konfederacije može privremeno i povremeno pružati usluge turističkog vodiča na području Republike Hrvatske sukladno posebnom propisu kojim se uređuju uvjeti za priznavanje inozemnih stručnih kvalifikacija za pružanje usluga turističkih vodiča, osim na ili u zaštićenim cjelinama (lokalitetima).
+(5) Ne smatra se turističkim vodičem osoba koja obavlja poslove stručnog vođenja u muzeju, galeriji, zaštićenim područjima, na arheološkom lokalitetu i slično, gorski vodič, planinski vodič, speleološki vodič, voditelj u ronilačkom turizmu, vodič u lovu i ribolovu te nastavno osoblje obrazovnih ustanova kada izvodi izvanškolsku ili terensku nastavu.

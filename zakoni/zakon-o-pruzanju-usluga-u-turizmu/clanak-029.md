@@ -1,0 +1,23 @@
+## Predugovorne informacije za paket-aranžmane
+# Članak 29.
+(1) Organizator, kao i prodavatelj ako se paket-aranžman prodaje putem prodavatelja, dužan je, prije nego što se putnik obveže bilo kojim ugovorom o putovanju u paket-aranžmanu ili bilo kojom odgovarajućom ponudom, putniku pružiti odgovarajuće standardne informacije putem odgovarajućeg obrasca iz Priloga I. dijela A ili dijela B ovoga Zakona te sljedeće informacije ako su one relevantne za paket-aranžman:
+a) glavna obilježja usluga putovanja:
+1. odredište/odredišta, plan putovanja i razdoblja boravka, s datumima te, ako je uključen smještaj, broj uključenih noćenja
+2. sredstva, karakteristike i kategorije prijevoza, mjesto polaska i povratka s datumom i vremenom odnosno mjesta i trajanje usputnog zaustavljanja te prometne veze. Ako točno vrijeme još nije određeno, organizator i, prema potrebi, prodavatelj obavješćuju putnika o približnom vremenu polaska i povratka
+3. lokacija, glavne karakteristike i, prema potrebi, vrsta i kategorija smještaja u skladu s pravilima odredišne zemlje
+4. plan prehrane
+5. posjeti, izlet/izleti ili druge usluge uključene u ukupnu cijenu dogovorenu za paket-aranžman
+6. ako to nije očito iz konteksta, informacija o tome pruža li se putniku neka od usluga putovanja u okviru grupe i, ako je slučaj takav te kada je to moguće, informacija o približnoj veličini grupe
+7. ako putnikovo korištenje drugim turističkim uslugama ovisi o djelotvornoj usmenoj komunikaciji, jezik na kojem će te usluge biti pružene i
+8. jesu li putovanje ili odmor općenito prikladni za osobe sa smanjenom pokretljivošću te, na zahtjev putnika, precizne informacije o prikladnosti putovanja ili odmora uzimajući u obzir potrebe putnika
+b) tvrtku i zemljopisnu adresu organizatora te, prema potrebi, i prodavatelja, kao i njihov telefonski broj i, prema potrebi, adresa e-pošte
+c) ukupnu cijenu paket-aranžmana, uključujući poreze i, prema potrebi, sve dodatne naknade, pristojbe i ostale troškove ili, ako te troškove nije moguće u razumnoj mjeri izračunati prije sklapanja ugovora, naznaku vrste dodatnih troškova koje će putnik možda morati snositi
+d) načine plaćanja, uključujući bilo koji iznos ili postotak cijene koje treba platiti kao predujam te raspored plaćanja preostalog iznosa, ili financijska jamstava koja putnik treba platiti ili osigurati
+e) najmanji broj osoba potreban za ostvarivanje paket-aranžmana i rok iz članka 38. stavka 1. ovoga Zakona u kojem organizator može raskinuti ugovor o putovanju u paket-aranžmanu prije početka paket-aranžmana ako taj broj ne bude dosegnut
+f) opće informacije o uvjetima odredišne zemlje u vezi s putovnicama i vizama, uključujući približno trajanje razdoblja za pribavljanje viza te informacije o zdravstvenim formalnostima odredišne zemlje
+g) informaciju da putnik može raskinuti ugovor u bilo kojem trenutku prije početka paket-aranžmana uz plaćanje primjerene naknade za raskid ugovora ili, prema potrebi, standardnih naknada za raskid ugovora koje zahtijeva organizator, u skladu s člankom 37. stavcima 1. – 5. ovoga Zakona
+h) informacije o neobveznom ili obveznom osiguranju radi pokrivanja troška raskida ugovora od strane putnika ili troška pružanja pomoći, uključujući repatrijaciju, u slučaju nesreće, bolesti ili smrti.
+(2) Za ugovore o putovanju u paket-aranžmanu koji se sklapaju telefonom organizator i, prema potrebi, prodavatelj dužni su pružiti putniku standardne informacije navedene u Prilogu I. dijelu B ovoga Zakona i informacije navedene u stavku 1. ovoga članka.
+(3) Za paket-aranžmane definirane u članku 7. točki 2. podtočki b) podpodtočki 5. ovoga Zakona organizator i trgovac kojima se podaci (o imenu putnika, podaci o plaćanju i adresa e-pošte) dostavljaju dužni su, prije nego što se putnik obveže ugovorom ili bilo kojom odgovarajućom ponudom, i jedan i drugi putniku pružiti informacije navedene u stavku 1. ovoga članka ako je to relevantno za odgovarajuće usluge putovanja koje oni nude. Organizator je istodobno dužan, putem obrasca navedenog u Prilogu I. dijelu C ovoga Zakona, također pružati standardne informacije.
+(4) Turistička agencija koja posreduje u sklapanju ugovora o paket-aranžmanu koji organizira organizator koji nema sjedište u Republici Hrvatskoj dužna je u promidžbenim materijalima i na svojim mrežnim stranicama objaviti u kojem svojstvu nastupa i koja ovlaštenja ima, objaviti opće uvjete poslovanja organizatora putovanja te prava i obveze turističke agencije i korisnika usluge, na hrvatskom jeziku.
+(5) Informacije iz ovoga članka se moraju pružiti na jasan, razumljiv i lako uočljiv način, a kada se pružaju u pisanom obliku, moraju biti čitljive i napisane na hrvatskom jeziku, a mogu biti istodobno napisane i na nekom drugom putniku jasnom i razumljivom jeziku.

@@ -1,0 +1,6 @@
+## Ispravljanje nesukladnosti u izvršenju usluga putovanja obuhvaćenih paket-aranžmanom
+# Članak 40.
+(1) Putnik je dužan, bez nepotrebnog odgađanja i vodeći računa o okolnostima, obavijestiti organizatora o svakoj nesukladnosti koju utvrdi tijekom ispunjenja usluge putovanja obuhvaćene ugovorom o putovanju u paket-aranžmanu.
+(2) Ako bilo koja od usluga putovanja nije izvršena u skladu s ugovorom o putovanju u paket-aranžmanu, na zahtjev putnika organizator je dužan ispraviti tu nesukladnost, osim ako to nije moguće ili ako bi otklanjanje nesukladnosti prouzročilo nerazmjerne troškove uzimajući u obzir razmjer nesukladnosti i vrijednost usluga putovanja na koje nesukladnost utječe.
+(3) Ako organizator ne ispravi nesukladnost iz razloga navedenih u stavku 2. ovoga članka, putnik ima pravo na sniženje cijene i naknadu štete sukladno člancima 43. – 47. ovoga Zakona.
+(4) Ako organizator ne ispravi nesukladnost koju je dužan ispraviti u razumnom roku koji je odredio putnik, putnik to može učiniti sam te zahtijevati naknadu nužnih troškova. Putnik nije dužan odrediti organizatoru razuman rok za ispravljanje nesukladnosti ako je organizator odbio ispraviti nesukladnost ili ako je nesukladnost potrebno ispraviti odmah.

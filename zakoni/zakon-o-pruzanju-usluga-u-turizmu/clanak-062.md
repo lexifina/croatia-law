@@ -1,0 +1,9 @@
+## Putovanja koja organiziraju sindikati, udruge, vjerske zajednice, škole, visoka učilišta i druge odgojno-obrazovne ustanove
+# Članak 62.
+(1) Sindikati i udruge mogu radi ostvarivanja svojih ciljeva i zadataka utvrđenih njihovim statutom ili drugim općim aktom o osnivanju pružati usluge organizacije putovanja (paket-aranžman i izlet) isključivo za svoje članove, s tim da paket-aranžman može trajati do dva dana, uključujući jedno noćenje.
+(2) Vjerske zajednice mogu organizirati hodočašća i druga putovanja u funkciji promicanja i očitovanja vjere, do najviše dva dana, uključujući jedno noćenje, uz pisano odobrenje nadležnog tijela vjerske zajednice.
+(3) Sindikati, udruge i vjerske zajednice mogu organizirati putovanje najviše tri puta godišnje bez svrhe stjecanja dobiti.
+(4) Škola, visoko učilište ili druga odgojno-obrazovna ustanova može za svoje učenike, studente odnosno polaznike ili štićenike organizirati izlet radi ostvarivanja nastavnih i odgojno-obrazovnih sadržaja i postizanja svojih ciljeva i zadaća koji se organiziraju kao djelatnost škole ili visokog učilišta odnosno odgojno-obrazovne ustanove propisane posebnim propisima kojima se uređuje sustav odgoja i obrazovanja, a u skladu s nastavnim programima ili kurikulima.
+(5) Promidžba i predstavljanje putovanja iz stavaka 1. – 4. ovoga članka ne može se vršiti neposredno ili posredno, putem sredstava javnog priopćavanja i oglašavanja niti na bilo koji drugi način u komercijalne svrhe.
+(6) Sindikati, udruge, vjerske zajednice, škole i druge odgojno-obrazovne ustanove obvezne su za organizaciju putovanja koristiti prijevozna sredstva u kojima su putnici i prtljaga osigurani te primjenjivati posebne propise kojima se regulira organizirani prijevoz djece i učenika.
+(7) Sindikati, udruge, vjerske zajednice, škole i druge odgojno-obrazovne ustanove obvezne su pridržavati se obveza pružatelja usluga u turizmu iz članka 6. točaka 1. i 2. ovoga Zakona.

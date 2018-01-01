@@ -1,0 +1,17 @@
+## Sadržaj ugovora o putovanju u paket-aranžmanu i dokumenti koje treba dostaviti prije početka paket-aranžmana
+# Članak 32.
+(1) U ugovoru o putovanju u paket-aranžmanu ili potvrdi o tom ugovoru mora biti naveden puni sadržaj dogovora ugovornih strana, koji uključuje sve informacije iz članka 29. stavka 1. ovoga Zakona, i sljedeće informacije:
+a) o posebnim zahtjevima putnika koje je organizator prihvatio
+b) o tome da je organizator:
+1. odgovoran za pravilno izvršenje svih usluga putovanja obuhvaćenih ugovorom u skladu s člancima 39. – 42. ovoga Zakona
+2. dužan pružiti pomoć ako se putnik nađe u poteškoćama u skladu s člankom 49. ovoga Zakona
+c) o nazivu osiguravatelja – društva za osiguranje ili banke kod kojih je osigurana jamčevina za slučaj nesolventnosti, njegove podatke za kontakt uključujući njegovu zemljopisnu adresu, adresu e-pošte, broj telefona, osobni identifikacijski broj, broj izdane jamčevine (broj police osiguranja ili bankarskog jamstva) i druge podatke potrebne za aktiviranje jamčevine te, prema potrebi, naziv nadležnog upravnog tijela i podatke za kontakt središnje kontaktne točke iz članka 98. ovoga Zakona
+d) ime, adresu, telefonski broj, osobni identifikacijski broj, adresu e-pošte i, prema potrebi, broj telefaksa lokalnog predstavnika organizatora, kontaktne točke ili druge službe koji putniku omogućuju da brzo stupi u kontakt s organizatorom i učinkovito komunicira s njime, kako bi zatražio pomoć ako se nađe u poteškoćama ili kako bi prijavio svaku neusklađenost koju utvrdi tijekom izvršenja paket-aranžmana
+e) o tome da putnik mora bez nepotrebnog odgađanja i vodeći računa o okolnostima prijaviti organizatoru svaku nesukladnost koju utvrdi tijekom izvršenja usluge putovanja obuhvaćene ugovorom o putovanju u paket-aranžmanu, sukladno članku 40. stavku 1. ovoga Zakona
+f) kojima se omogućuje izravan kontakt s maloljetnikom ili osobom odgovornom za maloljetnika u mjestu boravka maloljetnika, ako maloljetnik bez pratnje roditelja ili druge ovlaštene osobe putuje na temelju ugovora o putovanju u paket-aranžmanu koji uključuje smještaj
+g) o dostupnim unutarnjim postupcima za rješavanje pritužbi i mehanizmima za alternativno rješavanje sporova vezanih za ugovor, o ovlaštenim tijelima za alternativno rješavanje sporova kojim je trgovac obuhvaćen te o platformi za online rješavanje tih sporova, sukladno odredbama posebnog zakona o alternativnom rješavanju potrošačkih sporova
+h) o pravu putnika da ugovor prenese na drugog putnika u skladu s odredbama članka 34. ovoga Zakona.
+(2) U odnosu na paket-aranžmane iz članka 7. točke 2. podtočke b) podpodtočke 5. ovoga Zakona trgovac kojem su podaci dostavljeni dužan je obavijestiti organizatora o sklapanju ugovora koji dovodi do sastavljanja paket-aranžmana i organizatoru dati informacije potrebne da bi on mogao ispuniti svoje obveze kao organizator.
+(3) Kad organizator od trgovca primi obavijest da je paket-aranžman sastavljen, dužan je odmah putniku pružiti informacije iz stavka 1. ovoga članka na trajnom nosaču podataka.
+(4) Informacije iz stavaka 1. – 3. ovoga članka moraju biti pružene na jasan, razumljiv i lako uočljiv način.
+(5) Organizator je dužan pravodobno, prije početka paket-aranžmana dostaviti putniku potrebne priznanice, vaučere i karte, informacije o predviđenim vremenima polaska i, prema potrebi, roku za registraciju, kao i o predviđenim vremenima za mjesta usputnog zaustavljanja, prometnim vezama i dolasku.

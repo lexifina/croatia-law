@@ -1,0 +1,7 @@
+## DIO OSMI SREDIŠNJA KONTAKTNA TOČKA I UPRAVNA SURADNJA
+## Središnja kontaktna točka za administrativnu suradnju
+# Članak 98.
+(1) Za potrebe ovoga Zakona središnja kontaktna točka za administrativnu suradnju (u daljnjem tekstu: Središnja kontaktna točka), sa središnjim kontaktnim točkama drugih država ugovornica Ugovora o Europskom gospodarskom prostoru, ustrojava se pri Ministarstvu.
+(2) Središnja kontaktna točka stavlja na raspolaganje kontaktnim točkama drugih država ugovornica Ugovora o Europskom gospodarskom prostoru sve potrebne informacije u vezi sa zakonskom zaštitom od nesolventnosti i informacije o identitetu davatelja osiguranja koji pružaju jamčevinu u slučaju nesolventnosti za određene organizatore putovanja s poslovnim nastanom na području Republike Hrvatske.
+(3) Središnja kontaktna točka omogućuje kontaktnim točkama drugih država ugovornica Ugovora o Europskom gospodarskom prostoru pristup popisu organizatora putovanja koji su usklađeni s njihovim zakonskim obvezama u vezi sa zaštitom u slučaju nesolventnosti i koji su kao takvi upisani u Središnjem registru. Popisi su javno dostupni na internetskoj stranici Središnje kontaktne točke.
+(4) Središnja kontaktna točka prosljeđuje zahtjeve za dobivanjem informacija radi razjašnjenja je li organizator koji ima poslovni nastan u drugoj državi ugovornici Ugovora o Europskom gospodarskom prostoru koji prodaje, nudi na prodaju paket-aranžmane ili na drugi način usmjerava takve aktivnosti na tržištu Republike Hrvatske ispunio svoju zakonsku obvezu u vezi sa zaštitom u slučaju nesolventnosti.

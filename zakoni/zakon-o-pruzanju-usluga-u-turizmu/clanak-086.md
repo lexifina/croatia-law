@@ -1,0 +1,6 @@
+## Luke nautičkog turizma i drugi objekti na kojima se pružaju usluge u nautičkom turizmu
+# Članak 86.
+(1) Turističke usluge u nautičkom turizmu pružaju se u lukama nautičkog turizma – marinama (u daljnjem tekstu: marine) i drugim objektima za pružanje usluga veza i smještaja plovnih objekata – nautičkom sidrištu, suhoj marini, odlagalištu plovila (u daljnjem tekstu: drugi objekti za pružanje usluga veza i smještaja plovnih objekata), u nautičkom dijelu luka otvorenim za javni promet te na plovnim objektima nautičkog turizma.
+(2) Marine, drugi objekti za pružanje usluga veza i smještaja plovnih objekata i plovni objekti nautičkog turizma razvrstavaju se u vrste, a vrsta marina se i kategorizira.
+(3) Objekti iz stavka 2. ovoga članka moraju ispunjavati minimalne uvjete za pojedinu vrstu, a marine uvjete za vrstu i kategoriju.
+(4) Ministar pravilnikom, uz prethodno mišljenje ministra nadležnog za pomorstvo, propisuje minimalne uvjete i kategorije marina, vrste i minimalne uvjete drugih objekata za pružanje usluga veza i smještaja plovnih objekata i uvjete koje moraju ispunjavati, ovisno o uslugama koje pružaju, vrste i minimalne uvjete plovnih objekata nautičkog turizma te način kategorizacije marina, a minimalne uvjete koji se odnose na ribarska plovila kao plovnih objekata nautičkog turizma uz prethodno mišljenje ministra nadležnog za ribarstvo.

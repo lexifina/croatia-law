@@ -1,0 +1,5 @@
+# Članak 8.
+(1) Paket-aranžmanom ne smatra se kombinacija samo jedne od usluga iz članka 7. točke 1. podtočaka a), b) i c) ovoga Zakona s jednom ili više turističkih usluga iz članka 7. točke 1. podtočke d) ovoga Zakona, ako usluge iz članka 7. točke 1. podtočke d) ovoga Zakona:
+a) ne čine znatan dio (25 % i više) vrijednosti kombinacije, nisu oglašavane kao bitno obilježje kombinacije niti na neki drugi način predstavljaju bitno obilježje kombinacije ili
+b) su odabrane i kupljene tek nakon što je počelo izvršenje usluge putovanja iz članka 7. točke 1. podtočaka a), b) ili c) ovoga Zakona.
+(2) Povezanim putnim aranžmanom ne smatra se kombinacija kupnje samo jedne od usluga iz članka 7. točke 1. podtočaka a), b) ili c) ovoga Zakona i jedne ili više turističkih usluga iz članka 7. točke 1. podtočke d) ovoga Zakona, ako usluga ili usluge iz članka 7. točke 1. podtočke d) ovoga Zakona ne čine znatan dio (25 % i više) kombinirane vrijednosti usluga i nisu oglašavane kao bitno obilježje kombinacije niti na neki drugi način predstavljaju bitno obilježje putovanja ili odmora.

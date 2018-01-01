@@ -1,0 +1,3 @@
+## Usluge u turizmu
+# Članak 4.
+Usluge u turizmu u smislu ovoga Zakona su: pružanje usluga turističke agencije, turističkog vodiča, voditelja putovanja, turističkog animatora, turističkog predstavnika, usluge u posebnim oblicima turističke ponude (turističke usluge u nautičkom turizmu, turističke usluge zdravstvenog turizma, turističke usluge u kongresnom turizmu, usluge aktivnog i pustolovnog turizma, turističke usluge ribolovnog turizma, turističke usluge na poljoprivrednom gospodarstvu, uzgajalištu vodenih organizama, lovištu i u šumi šumoposjednika, usluge iznajmljivanja vozila (rent-a-car), usluge turističkog ronjenja) i usluge iznajmljivanja opreme za šport i rekreaciju turistima.

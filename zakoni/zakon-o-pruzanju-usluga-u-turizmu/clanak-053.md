@@ -1,0 +1,4 @@
+## Sklapanje ugovora o osiguranju od odgovornosti za štetu
+# Članak 53.
+(1) Organizator putovanja u paket-aranžmanu dužan je s osiguravateljem sklopiti ugovor o osiguranju od odgovornosti za štetu koju prouzroči putniku neispunjenjem, djelomičnim ispunjenjem ili neurednim ispunjenjem obveza koje se odnose na paket-aranžman.
+(2) Organizator u ugovoru ili potvrdi ugovora o putovanju u paket-aranžmanu iz članka 31. ovoga Zakona, koji ili koju mora predati putniku, dužan je navesti podatke o osiguranju od odgovornosti za štetu, osiguranim rizicima iz stavka 1. ovoga članka, o osiguratelju – društvu za osiguranje s pripadajućim osobnim identifikacijskim brojem, adresom e-pošte i brojem telefona, broj izdane police osiguranja i druge podatke potrebne za aktiviranje osiguranja i ostvarivanje prava na naknadu štete.

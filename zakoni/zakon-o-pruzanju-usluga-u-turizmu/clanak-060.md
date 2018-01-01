@@ -1,0 +1,6 @@
+## Izjave o paket-aranžmanu i povezanom putnom aranžmanu i obvezujuća priroda odredbi dijela trećeg ovoga Zakona
+# Članak 60.
+(1) Organizator paket-aranžmana ili trgovac koji omogućuje povezani putni aranžman dužan je u svakom slučaju, prije nego što putnik pristane platiti aranžman, u standardnim pisanim informacijama koje pruža putniku te u izjavama koje daje u komunikaciji s putnikom na nedvojben, jasan, razumljiv i lako uočljiv način, točno i istinito navesti nudi li paket-aranžman ili povezani putni aranžman.
+(2) Izjava organizatora paket-aranžmana ili trgovca koji omogućuje povezani putni aranžman o tome da djeluje isključivo kao pružatelj usluga putovanja, kao posrednik ili u bilo kojem drugom svojstvu ili o tome da paket-aranžman ili povezani putni aranžman ne predstavlja paket-aranžman ili povezani putni aranžman, a koja je neistinita i zavaravajuća, ne oslobađa tog organizatora ili trgovca od obveza propisanih ovim dijelom Zakona.
+(3) Putnik se ne može odreći prava koja ima na temelju odredbi ovoga dijela Zakona.
+(4) Ugovorne odredbe ili izjave putnika kojima se izravno ili neizravno odriče od prava koja ima na temelju ovoga dijela Zakona ili kojima se ta prava ograničavaju ili se nastoji zaobići njihova primjena nisu obvezujuće za putnika.
