@@ -1,0 +1,2 @@
+# Članak 98.
+Guverner Hrvatske narodne banke donosi odluku kojom propisuje način provođenja mjera koje treba poduzeti u skladu s Uredbom (EU) 2015/847, u odnosu na provedbu članaka koji se odnose na obveze primateljeva pružatelja platnih usluga i posredničkih pružatelja platnih usluga za otkrivanje informacija o platitelju ili primatelju koje nedostaju i prijenose novčanih sredstava pri kojima informacije o platitelju ili primatelju nedostaju ili su nepotpune, a u skladu sa smjernicama koje su izdala europska nadzorna tijela.

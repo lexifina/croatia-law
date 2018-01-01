@@ -1,0 +1,4 @@
+## Suradnja nadzornih tijela i Ureda
+# Članak 87.
+(1) Nadležno nadzorno tijelo iz članka 82. ovoga Zakona za potrebe pripreme i provođenja nadzora iz svoje nadležnosti može zatražiti od Ureda statističke podatke iz evidencija Ureda iz članka 147. točaka 1., 3., 4. i 11. ovoga Zakona, te druge raspoložive statističke podatke o obvezniku ako su nadležnom nadzornom tijelu ti podatci potrebni za pripremu i nadzor nad obveznikom, uključujući i podatke o tipologijama, uzorcima i trendovima pranja novca i financiranja terorizma.
+(2) Nadležno nadzorno tijelo iz stavka 1. ovoga članka, u roku od 60 dana od završetka izravnog nadzora nad obveznikom iz članka 9. ovoga Zakona, Uredu će dostaviti izvadak iz zapisnika o utvrđenim nepravilnostima, nezakonitostima i izrečenim mjerama te utvrđenim prekršajima u dijelu koji se odnosi na provedbu odredaba ovoga Zakona i na temelju njega donesenih podzakonskih akata.

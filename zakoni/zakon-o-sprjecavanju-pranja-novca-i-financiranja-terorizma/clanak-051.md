@@ -1,0 +1,16 @@
+## Mjere pojačane dubinske analize koje se primjenjuju na stranku koja nije nazočna prilikom utvrđivanja i provjere identiteta
+# Članak 51.
+(1) Obveznik iz članka 9. ovoga Zakona dužan je u okviru mjera pojačane dubinske analize, ako stranka iz članka 21. ovoga Zakona nije fizički nazočna kod obveznika prilikom utvrđivanja i provjere identiteta, osim mjera iz članka 15. stavka 1. ovoga Zakona, provesti sljedeće dodatne mjere:
+1. prikupiti dodatne isprave, podatke ili informacije na osnovi kojih provjerava identitet stranke
+2. dodatno provjeriti podnesene isprave ili ih dodatno potvrditi od strane kreditne ili financijske institucije i
+3. u odnosu na stranku s kojom uspostavlja poslovni odnos primijeniti mjeru provođenja prvog plaćanja preko računa otvorenoga uime stranke kod kreditne institucije u državi članici ili trećoj državi koja primjenjuje mjere jednake ili jednakovrijedne onima navedenima u Direktivi (EU) 2015/849.
+(2) Obveznik je dužan u okviru mjera pojačane dubinske analize, ako zakonski zastupnik pravne osobe iz članka 24. ovoga Zakona ili zakonski zastupnik druge pravne osobe i s njome izjednačenoga subjekta iz članka 26. stavka 2. ovoga Zakona nije fizički nazočan kod obveznika prilikom utvrđivanja i provjere identiteta, osim mjera iz članka 15. stavka 1. ovoga Zakona, provesti sljedeće dodatne mjere:
+1. prikupiti dodatne isprave, podatke ili informacije na osnovi kojih provjerava identitet stranke
+2. dodatno provjeriti podnesene isprave ili ih dodatno potvrditi od strane kreditne ili financijske institucije i
+3. u odnosu na stranku s kojom uspostavlja poslovni odnos primijeniti mjeru provođenja prvog plaćanja preko računa otvorenoga uime stranke kod kreditne institucije u državi članici ili trećoj državi koja primjenjuje mjere jednake ili jednakovrijedne onima navedenima u Direktivi (EU) 2015/849.
+(3) Ako stranka pravna osoba iz stavka 2. ovoga članka nema otvoren račun u svoje ime kod kreditne institucije, obveznik je dužan umjesto mjere iz stavka 2. točke 3. ovoga članka primijeniti mjeru provođenja prvog plaćanja preko računa otvorenoga uime osnivača stranke iz stavka 2. ovoga članka kod kreditne institucije u državi članici ili trećoj državi koja primjenjuje mjere jednake ili jednakovrijedne onima navedenima u Direktivi (EU) 2015/849.
+(4) U odnosu na stranku s kojom je poslovni odnos uspostavljen primjenom ovoga članka obveznik je dužan provoditi mjere pojačane dubinske analize do trenutka fizičkoga dolaska obvezniku stranke iz stavka 1. ovoga članka ili zakonskog zastupnika iz stavka 2. ovoga članka.
+(5) Nakon fizičkoga dolaska stranke obvezniku, obveznik je dužan provoditi mjere dubinske analize u skladu s procjenom rizika provedenom u skladu s odredbama članka 14. ovoga Zakona.
+(6) Odredbe stavaka 1., 2. i 3. ovoga članka primjenjuju se i u slučajevima kada za stranku punomoćnik stranke uspostavlja poslovni odnos ili obavlja transakcije iz članka 16. stavka 1. točaka 2. i 3.
+(7) Obveznici nisu dužni primijeniti odredbe ovoga članka u odnosu na stranku za koju je dubinska analiza stranke provedena u skladu s glavom III. poglavljem VIII. ovoga Zakona (Dubinska analiza stranke preko treće osobe).
+Utvrđivanje i provjera identiteta stranke na temelju kvalificiranoga certifikata za elektronički potpis ili elektronički pečat te na temelju videoelektroničke identifikacije

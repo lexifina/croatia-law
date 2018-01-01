@@ -1,0 +1,8 @@
+## Utvrđivanje i provjera identiteta pravne osobe
+# Članak 23.
+(1) Identitet stranke koja je pravna osoba obveznik utvrđuje i provjerava prikupljanjem podataka iz članka 20. stavka 1. točke 4. ovoga Zakona uvidom u izvornik ili ovjerenu presliku dokumentacije iz sudskoga ili drugoga javnog registra koju mu uime pravne osobe dostavi zakonski zastupnik ili punomoćnik pravne osobe.
+(2) Dokumentacija iz stavka 1. ovoga članka ne smije biti starija od tri mjeseca.
+(3) Obveznik može utvrditi i provjeriti identitet pravne osobe prikupljanjem podataka iz članka 20. stavka 1. točke 4. ovoga Zakona neposrednim uvidom u sudski ili drugi javni registar. Kada obveznik izvrši neposredan uvid u registar, dužan je na izvodu iz registra u koji je obavljen uvid u obliku zabilješke upisati datum i vrijeme te ime i prezime osobe koja je obavila uvid.
+(4) Ostale podatke iz članka 20. stavka 1. ovoga Zakona obveznik prikuplja uvidom u izvornike ili ovjerene preslike isprava i drugu vjerodostojnu poslovnu dokumentaciju. Ako iz tih isprava i dokumentacije nije moguće prikupiti sve podatke iz članka 20. stavka 1. ovoga Zakona, podatke koji nedostaju obveznik prikuplja neposredno od zakonskoga zastupnika ili punomoćnika.
+(5) Ako je stranka pravna osoba koja obavlja djelatnost u Republici Hrvatskoj preko podružnice, obveznik utvrđuje i provjerava identitet strane pravne osobe i podružnice.
+(6) Ako je stranka strana pravna osoba, pored podataka iz članka 20. stavka 1. točke 4. ovoga Zakona, obveznik je dužan prikupiti i podatke o njezinim direktorima (ime, prezime, identifikacijski broj, država prebivališta) te osnivački akt strane pravne osobe.

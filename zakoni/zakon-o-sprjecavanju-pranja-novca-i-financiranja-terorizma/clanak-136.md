@@ -1,0 +1,4 @@
+## Zaštićena komunikacija Ureda
+# Članak 136.
+(1) Ured u međunarodnoj razmjeni podataka s inozemnim FOJ-em, u skladu s odredbama iz članaka 127., 128., 129., 130., 131., 132., 133., 134. i 135. ovoga Zakona, koristi zaštićene komunikacijske kanale, a za suradnju s FOJ-evima iz država članica uglavnom koristi FIU.net mrežu ili njezina sljednika.
+(2) Ured u međunarodnoj razmjeni podataka s FOJ-em iz država članica primjenjuje najsuvremenije tehnologije kako bi obavio zadaće propisane ovim Zakonom, a koje tehnologije dopuštaju Uredu usporedbu vlastitih podataka s podatcima drugih inozemnih FOJ-eva iz država članica na anoniman način, osiguravajući potpunu zaštitu osobnih podataka, radi otkrivanja transakcija, sredstava i osoba za koje postoji sumnja na pranje novca i financiranje terorizma u drugim državama članicama i identifikaciju imovinske koristi i novčanih sredstava tih osoba.

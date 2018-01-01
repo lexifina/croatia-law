@@ -1,0 +1,8 @@
+## Povratna informacija obveznicima o tipologijama, uzorcima i trendovima
+# Članak 149.
+(1) Ured o zaprimljenim i operativno analiziranim sumnjivim transakcijama iz članaka 56. i 57. ovoga Zakona pisanim putem povratno obavještava obveznike iz članka 9. ovoga Zakona koji su prijavili sumnjivu transakciju, osim ako ocijeni da bi to moglo štetiti daljnjemu tijeku i ishodu postupka vezano za sprječavanje pranja novca i financiranja terorizma, i to na način da će:
+1. dostaviti obvezniku informaciju o odluci ili rezultatu slučaja sa sumnjom na pranje novca i financiranje terorizma ako je slučaj po obavijesti o sumnjivoj transakciji dovršen, a podatak o tome dostupan Uredu u skladu s člankom 148. ovoga Zakona, i
+2. najmanje jednom godišnje dostaviti obveznicima ili objaviti rezultate strategijskih analiza iz članka 111. točke 2. ovoga Zakona, uključujući statističke podatke o zaprimljenim obavijestima o sumnjivim transakcijama od obveznika i rezultatima analitičko-obavještajnog rada Ureda na temelju zaprimljenih sumnjivih transakcija.
+(2) Ured dostavlja obveznicima ili objavljuje na mrežnim stranicama informacije o tipologijama, uzorcima i trendovima pranja novca i financiranja terorizma.
+(3) Ured dostavlja obveznicima ili objavljuje na mrežnim stranicama sažete anonimne primjere konkretnih slučajeva sa sumnjom na pranje novca i financiranje terorizma koje je Ured dostavio nadležnim državnim tijelima i inozemnim FOJ-evima na daljnje postupanje i procesuiranje.
+(4) Ured obvezniku potvrđuje zaprimanje obavijesti o sumnjivoj transakciji iz članaka 56. i 57. ovoga Zakona te obavijesti o gotovinskoj transakciji iz članka 61. ovoga Zakona.

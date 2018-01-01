@@ -1,0 +1,7 @@
+## IV. NAČIN PROVOĐENJA MJERE UTVRĐIVANJA I PROVJERE IDENTITETA STRANKE
+## Utvrđivanje i provjera identiteta fizičke osobe, obrtnika i osobe koja obavlja drugu samostalnu djelatnost
+# Članak 21.
+(1) Za stranku koja je fizička osoba i njezina zakonskoga zastupnika te stranku koja je obrtnik ili osoba koja se bavi drugom samostalnom djelatnošću obveznik utvrđuje i provjerava njezin identitet prikupljanjem podataka iz članka 20. stavka 1. točke 1. ovoga Zakona uvidom u službeni osobni dokument stranke u njezinoj nazočnosti.
+(2) Ako uvidom u službeni osobni dokument nije moguće prikupiti sve propisane podatke, nedostajući podatci prikupljaju se iz drugih važećih javnih isprava koje podnese stranka.
+(3) Kada obveznik iz objektivnih razloga ne uspije prikupiti podatak u skladu sa stavcima 1. i 2. ovoga članka, takav podatak može prikupiti neposredno od stranke, te ga je dužan provjeriti.
+(4) Ako je stranka obrtnik ili osoba koja se bavi drugom samostalnom djelatnošću, obveznik prikuplja podatke iz članka 20. stavka 1. točke 3. ovoga Zakona uvidom u izvornik ili ovjerenu presliku dokumentacije iz obrtnoga ili drugoga javnog registra koja dokumentacija ne smije biti starija od tri mjeseca, odnosno neposrednim uvidom u obrtni ili drugi javni registar. Na izvodu iz registra u koji je izvršen neposredni uvid obveznik u obliku zabilješke upisuje datum i vrijeme te ime i prezime osobe koja je izvršila uvid.

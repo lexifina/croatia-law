@@ -1,0 +1,6 @@
+## Otkrivanje podataka primateljima unutar grupe
+# Članak 75.
+(1) Zabrana razmjene informacija iz članka 74. stavka 1. točaka 1. i 2. ovoga Zakona ne primjenjuje se, osim kada Ured ne naloži drukčije, u slučaju razmjene informacija s:
+a) kreditnom ili financijskom institucijom koja je dio iste grupe pod uvjetom da politike i postupci unutar grupe udovoljavaju zahtjevima utvrđenima u Direktivi (EU) 2015/849 ili
+b) društvom kćeri ili podružnicom koju kreditna ili financijska institucija iz točke a) ovoga stavka ima u trećoj državi, pod uvjetom da to društvo kći ili podružnica u potpunosti poštuje politike i postupke unutar grupe, među ostalim postupke za razmjenu informacija te pod uvjetom da politike i postupci unutar grupe udovoljavaju zahtjevima utvrđenima u Direktivi (EU) 2015/849.
+(2) Zabrana razmjene informacija iz članka 74. stavka 1. točaka 1. i 2. ovoga Zakona ne primjenjuje se, osim kada Ured ne naloži drukčije, u slučaju razmjene informacija između obveznika iz članka 9. stavka 2. točke 18. ovoga Zakona iz država članica ili subjekata iz trećih država koje propisuju obveze jednakovrijedne odredbama ovoga Zakona, a koji obavljaju svoju profesionalnu djelatnost, bez obzira jesu li zaposlenici ili nisu, u okviru iste pravne osobe ili veće strukture kojoj pravna osoba pripada i uz koju je veže zajedničko vlasništvo, uprava ili nadzor usklađenosti.

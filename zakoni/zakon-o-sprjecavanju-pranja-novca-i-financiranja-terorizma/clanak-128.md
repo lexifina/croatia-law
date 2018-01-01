@@ -1,0 +1,7 @@
+## Zamolba Ureda inozemnom FOJ-u za dostavom podataka
+# Članak 128.
+(1) Ured može, u okviru provođenja zadaća sprječavanja i otkrivanja pranja novca i financiranja terorizma, inozemnomu FOJ-u uputiti zamolbu za dostavu podataka, informacija i dokumentacije potrebne za sprječavanje i otkrivanje pranja novca i/ili financiranja terorizma.
+(2) Ured u zamolbi iz stavka 1. ovoga članka navodi sve relevantne činjenice i okolnosti koje upućuju na sumnju na pranje novca ili financiranje terorizma, kao i svrhu u koju Ured namjerava upotrijebiti zatražene podatke, informacije i dokumentaciju.
+(3) Podatke, informacije i dokumentaciju pribavljenu na temelju stavka 1. ovoga članka Ured smije upotrijebiti isključivo za potrebe svoga analitičko-obavještajnoga rada i za namjenu određenu ovim Zakonom, uz ograničenja i uvjete koje je odredio inozemni FOJ.
+(4) Bez prethodne suglasnosti inozemnoga FOJ-a, koji je dostavio podatke, informacije i dokumentaciju, Ured iste ne smije dostaviti ili dati na uvid drugomu tijelu ili ih koristiti za namjene u suprotnosti s uvjetima i ograničenjima koje određuje inozemni FOJ i dužan je iste podatke označiti najmanje istim stupnjem tajnosti kao inozemni FOJ koji je podatke, informacije i dokumentaciju dostavio Uredu.
+(5) Kada su Uredu potrebni podatci, informacije i dokumentacija od obveznika sa sjedištem u drugoj državi članici, a koji obveznik posluje na državnom području Republike Hrvatske, zamolba se upućuje FOJ-u te države članice.

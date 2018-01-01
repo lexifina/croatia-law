@@ -1,0 +1,15 @@
+## V. NAČIN PROVOĐENJA MJERE UTVRĐIVANJA I PROVJERE IDENTITETA STVARNOG VLASNIKA STRANKE
+## Stvarni vlasnik stranke
+# Članak 28.
+(1) Stvarnim vlasnikom pravne osobe smatra se svaka fizička osoba (osobe) koja je u konačnici vlasnik ili kontrolira stranku ili u čije ime se provodi transakcija i uključuje barem:
+1. fizičku osobu (osobe) koja je vlasnik pravne osobe te koja kontrolira pravnu osobu izravnim vlasništvom preko dovoljnoga postotka dionica, uključujući i dionice na donositelja, ili prava glasa ili poslovnih udjela u toj pravnoj osobi
+2. fizičku osobu (osobe) koja kontrolira pravnu osobu neizravnim vlasništvom preko dovoljnoga postotka dionica, uključujući i dionice na donositelja, ili prava glasa ili poslovnih udjela u toj pravnoj osobi ili
+3. fizičku osobu (osobe) koja ima kontrolni položaj u upravljanju imovinom pravne osobe preko drugih sredstava.
+(2) Stvarnim vlasnikom smatra se fizička osoba (osobe) koja kontrolira drugu fizičku osobu i/ili fizička osoba (osobe) u čije se ime obavlja transakcija.
+(3) Stvarnim vlasnikom trusta i s njime izjednačenoga subjekta stranoga prava smatra se svaka fizička osoba (ili više njih) iz članka 31. ovoga Zakona, koja u konačnici kontrolira trust ili s njim izjednačeni subjekt stranoga prava, izravnim ili neizravnim vlasništvom ili drugim sredstvima.
+(4) Stvarnim vlasnikom domaćih i stranih udruga i njihovih saveza, zaklada, fundacija, ustanova, umjetničkih organizacija, komora, sindikata, udruga poslodavaca, političkih stranaka, zadruga, kreditnih unija ili vjerskih zajednica može se smatrati svaka fizička osoba ovlaštena za zastupanje ili fizička osoba koja ima kontrolni položaj u upravljanju imovinom.
+(5) Pokazatelj izravnoga vlasništva iz stavka 1. točke 1. ovoga članka koje fizička osoba ima u pravnoj osobi vlasništvo je nad preko 25 % poslovnih udjela, glasačkih ili drugih prava na temelju kojih ostvaruje pravo upravljanja pravnom osobom ili vlasništvo 25 % plus jedna dionica.
+(6) Pokazatelj neizravnoga vlasništva iz stavka 1. točke 2. ovoga članka vlasništvo je ili kontrola iste fizičke osobe (osoba) nad jednom ili više pravnih osoba koje pojedinačno ili zajedno imaju preko 25 % poslovnih udjela ili 25 % plus jedna dionica u stranci.
+(7) Kontrolni položaj u upravljanju imovinom pravne osobe preko drugih sredstava iz stavka 1. točke 2. ovoga članka može se odnositi i na kriterije kontrole korištene u pripremi konsolidiranih financijskih izvještaja, primjerice sporazuma dioničara, ostvarivanjem prevladavajućega utjecaja i ovlasti za imenovanje višega rukovodstva.
+(8) Ako nije moguće identificirati fizičku osobu (osobe) iz stavka 1. ovoga članka ili ako postoji sumnja da identificirana fizička osoba (osobe) nije stvarni vlasnik stranke te u slučaju kada su iscrpljena sva moguća sredstva kako bi se utvrdio stvarni vlasnik, stvarnim vlasnikom stranke smatra se fizička osoba (osobe) koja je član uprave ili drugoga poslovodnog tijela.
+(9) Obveznik iz članka 9. ovoga Zakona dužan je dokumentirati postupke utvrđivanja i provjere identiteta stvarnoga vlasnika stranke.
