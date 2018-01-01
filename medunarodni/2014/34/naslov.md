@@ -1,1 +1,0 @@
-Zakon o potvrđivanju Konvencije između Kraljevine Nizozemske, u odnosu na karipski dio Nizozemske (otoci Bonaire, Sint Eustatius i Saba), i Republike Hrvatske o automatskoj razmjeni informacija o dohotku od štednje u obliku isplata kamata
