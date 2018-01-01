@@ -1,0 +1,1 @@
+Na temelju članka 20. i članka 42. stavka 1. Zakona o lokalnim porezima (»Narodne novine« broj 115/16. i 101/17.) i članka 31. Statuta Grada Labina (»Službene novine Grada Labina« broj 9/09., 9/10. - lektorirani tekst, 8/13. i 3/16.), Gradsko vijeće Grada Labina na sjednici 4. prosinca 2017. godine, donijelo je
