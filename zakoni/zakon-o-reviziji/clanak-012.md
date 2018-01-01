@@ -1,0 +1,3 @@
+## Suradnja nadležnih tijela država članica u vezi s obrazovnim kvalifikacijama
+# Članak 12.
+Ministarstvo financija surađivat će s nadležnim tijelima drugih država članica u svrhu postizanja usklađenosti zahtjeva u vezi s obrazovnim kvalifikacijama određenima u članku 11. ovoga Zakona. Pri takvoj suradnji Ministarstvo financija uzima u obzir kretanja u obavljanju revizije i revizijskoj struci te već postignutu usklađenost u struci. Ministarstvo financija također će surađivati s CEAOB-om i nadležnim tijelima država članica imenovanim u skladu s člankom 20. Uredbe (EU) br. 537/2014 ako se usklađenost zahtjeva u vezi s obrazovnim kvalifikacijama odnosi na zakonske revizije subjekata od javnog interesa.

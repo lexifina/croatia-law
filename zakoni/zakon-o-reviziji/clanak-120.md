@@ -1,0 +1,11 @@
+## Objava izrečenih prekršajnopravnih sankcija
+# Članak 120.
+(1) Ministarstvo financija ovlašteno je bez odgode na svojoj internetskoj stranici objaviti svaku odluku prekršajnih sudova, kojom se izriče prekršajnopravna sankcija zbog počinjenja prekršaja propisanih ovim Zakonom, nakon što je osoba kojoj je prekršajnopravna sankcija izrečena obaviještena o takvoj odluci, uključujući i nepravomoćnu odluku prekršajnog suda donesenu u postupku u kojem je Ministarstvo financija ovlašteni tužitelj, uz naznaku da se radi o nepravomoćnoj odluci, kao i sporazume stranaka u prekršajnom postupku o priznavanju krivnje, odnosno sporazume o sankcijama i mjerama.
+(2) Ako je protiv objavljene nepravomoćne odluke iz stavka 1. ovoga članka podnesen odgovarajući pravni lijek, Ministarstvo financija će također objaviti informacije o podnesenom pravnom lijeku, kao i sve naknadne informacije o ishodu postupka pokrenutog po podnesenom pravnom lijeku, uključujući informacije o ukidanju takve odluke.
+(3) Objava informacija iz stavka 1. ovoga članka sadržavat će najmanje objavu informacija o vrsti i prirodi kršenja odredaba ovoga Zakona i/ili propisa donesenih na temelju ovoga Zakona te o identitetu odgovornih osoba.
+(4) Ministarstvo financija neće objaviti identitet pravnih osoba, odnosno osobne podatke fizičkih osoba prema kojima je izrečena prekršajna sankcija u sljedećim slučajevima:
+1. kada bi sankcija izrečena protiv fizičke osobe bila nerazmjerna s obvezatnom prijašnjom procjenom razmjernosti takve objave
+2. kada bi objava ugrozila stabilnost financijskih tržišta ili kazneni progon odnosno kazneni postupak koji je u tijeku
+3. kada bi objava prouzročila nerazmjernu štetu uključenim institucijama ili pojedincima.
+(5) Informacije objavljene u skladu s odredbama ovoga članka bit će dostupne na internetskoj stranici Ministarstva financija najmanje pet godina od dana njihove objave.
+(6) U skladu s odredbama o rehabilitaciji u smislu zakona kojim se uređuje prekršajni postupak, Ministarstvo financija će istekom roka od tri godine od dana pravomoćnosti odluke o prekršaju sa svoje internetske stranice ukloniti osobne podatke u smislu zakona kojim se uređuje zaštita osobnih podataka, a iz kojih bi bilo moguće utvrditi identitet počinitelja prekršaja.

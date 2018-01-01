@@ -1,0 +1,5 @@
+## Suradnja Ministarstva financija s drugim nadzornim tijelima
+# Članak 72.
+(1) Ministarstvo financija i Agencija za zaštitu tržišnog natjecanja dužni su surađivati u vezi s praćenjem tržišta i tržišne koncentracije ovlaštenih revizora i revizorskih društava u smislu članka 27. stavka 1. Uredbe (EU) br. 537/2014 i u vezi s drugim pitanjima iz njihove nadležnosti.
+(2) Ministarstvo financija, Hrvatska agencija za nadzor financijskih usluga, Hrvatska narodna banka i druga nadzorna tijela u Republici Hrvatskoj dostavit će na zahtjev pojedinog nadležnog tijela tom tijelu sve informacije koje su mu potrebne u postupku provođenja zadataka supervizije i nadzora ili pri odlučivanju o drugim pojedinačnim zahtjevima iz svoje nadležnosti.
+(3) Razmjena podataka u skladu s ovim člankom ne smatra se odavanjem službene tajne, a Ministarstvo financija, Agencija za zaštitu tržišnog natjecanja, Hrvatska agencija za nadzor financijskih usluga, Hrvatska narodna banka i druga nadzorna tijela dužni su čuvati primljene podatke i informacije kao povjerljive te ih mogu upotrijebiti isključivo u svrhu za koju su dani.

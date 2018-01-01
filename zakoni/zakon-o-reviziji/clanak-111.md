@@ -1,0 +1,7 @@
+## POGLAVLJE XII. MEĐUNARODNA SURADNJA
+## Suradnja s nadležnim tijelima država članica
+# Članak 111.
+(1) Ministarstvo financija pruža pomoć, dostavlja informacije, surađuje u postupcima nadzora i provodi druge oblike suradnje s nadležnim tijelima drugih država članica odgovornim za odobrenje, registraciju, nadzor osiguranja kvalitete rada i nadzora ovlaštenih revizora i revizorskih društava glede zakonske revizije, nadležnim tijelima imenovanim u skladu s člankom 20. Uredbe (EU) br. 537/2014, EBA-om, ESMA-om i EIOPA-om, kad god je to potrebno u svrhu izvršavanja njihovih zadaća i odgovornosti.
+(2) Po primitku zahtjeva nadležnog tijela iz stavka 1. ovoga članka za dostavu informacija Ministarstvo financija, bez neopravdanog odgađanja, dostavlja sve tražene informacije. Ako je potrebno, Ministarstvo financija poduzima potrebne mjere za prikupljanje traženih informacija. Ako Ministarstvo financija ne može pribaviti tražene informacije bez neopravdanog odgađanja, o tim razlozima izvješćuje nadležno tijelo koje je uputilo zahtjev.
+(3) Ministarstvo financija ovlašteno je od nadležnih tijela iz stavka 1. ovoga članka zahtijevati dostavu te razmjenjivati povjerljive informacije u skladu s ovim Zakonom.
+(4) Ministarstvo financija primljene informacije može koristiti samo u svrhu izvršavanja ovoga Zakona i Uredbe (EU) br. 537/2014 te u kontekstu upravnih ili sudskih postupaka koji se posebno odnose na izvršavanje tih zadaća.

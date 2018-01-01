@@ -1,0 +1,5 @@
+## Profesionalna etika i skeptičnost
+# Članak 47.
+(1) Revizorsko društvo i ovlašteni revizor moraju djelovati u skladu s temeljnim načelima profesionalne etike o integritetu, objektivnosti, profesionalnoj kompetentnosti i dužnoj pažnji.
+(2) Revizorsko društvo, ovlašteni revizor i druge osobe iz članka 5. stavka 5. ovoga Zakona dužni su tijekom obavljanja revizorskih usluga zadržati profesionalnu skeptičnost te moraju biti svjesni mogućnosti postojanja značajno pogrešnog prikazivanja zbog činjenica ili ponašanja koja upućuju na nepravilnosti, uključujući prijevaru ili pogreške, neovisno o proteklom iskustvu revizorskog društva i ovlaštenog revizora o iskrenosti i integritetu članova uprave ili upravnog odbora revidiranog subjekta.
+(3) Revizorsko društvo, ovlašteni revizor i druge osobe iz članka 5. stavka 5. ovoga Zakona dužni su pridržavati se profesionalne skeptičnosti, posebno pri provjeravanju procjena upravljačkih struktura u vezi s fer vrijednostima, umanjenjem imovine, rezerviranjima i budućim tokom novca relevantnima za sposobnost subjekta za vremenski neograničeno poslovanje.

@@ -1,0 +1,6 @@
+## Dostavljanje podataka na zahtjev
+# Članak 81.
+(1) Na zahtjev ovlaštenih državnih službenika subjekt nadzora dužan je dostaviti ili učiniti dostupnom dokumentaciju, isprave, izvještaje i podatke te dati izjave o svim okolnostima važnim za nadzor ili izvršavanje drugih ovlasti i mjera koje Ministarstvo financija ima na temelju ovoga Zakona, propisa donesenih na temelju njega, Uredbe (EU) br. 537/2014 ili na temelju drugih propisa.
+(2) Dokumentaciju, isprave, izvještaje i podatke te izjavu o okolnostima iz stavka 1. ovoga članka dužni su na zahtjev ovlaštenih državnih službenika dostaviti članovi uprave, odnosno izvršni direktori, članovi nadzornog odbora, prokuristi, ovlašteni revizori, revizorsko društvo, druge relevantne osobe subjekta nadzora te druge osobe koje mogu imati saznanja od interesa za postupak nadzora.
+(3) Ovlašteni državni službenici su, od osoba iz stavka 2. ovoga članka, ovlašteni zatražiti pisano očitovanje o okolnostima iz stavka 1. ovoga članka ili ih pozvati da daju usmeno očitovanje na okolnosti.
+(4) Ovlašteni državni službenici mogu provoditi razgovore s osobama iz stavka 2. ovoga članka radi dobivanja informacija potrebnih za obavljanje nadzora i ispunjavanje ciljeva nadzora.

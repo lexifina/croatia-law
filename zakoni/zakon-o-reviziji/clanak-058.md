@@ -1,0 +1,26 @@
+## Revizorsko izvješće
+# Članak 58.
+(1) Revizorsko društvo dužno je sastaviti revizorsko izvješće o obavljenoj zakonskoj reviziji godišnjih financijskih izvještaja ili godišnjih konsolidiranih financijskih izvještaja u skladu s Međunarodnim revizijskim standardima, odredbama ovoga Zakona i drugim propisima.
+(2) Revizorsko izvješće mora biti u pisanom obliku te mora sadržavati:
+1. identifikacijske podatke o revidiranom subjektu čiji su godišnji financijski izvještaji ili godišnji konsolidirani financijski izvještaji predmet zakonske revizije
+2. naziv godišnjeg financijskog izvještaja ili godišnjeg konsolidiranog financijskog izvještaja i naznaku datuma te razdoblje na koje se odnosi
+3. okvir financijskog izvještavanja koji je primijenjen prilikom sastavljanja godišnjeg financijskog izvještaja ili godišnjeg konsolidiranog financijskog izvještaja
+4. opis opsega zakonske revizije i revizijske standarde u skladu s kojima se obavila zakonska revizija
+5. revizorsko mišljenje koje može biti pozitivno, s rezervom ili negativno te u njemu mora biti jasno navedeno mišljenje ovlaštenog revizora ili revizorskog društva o sljedećem:
+a) pružaju li godišnji financijski izvještaji ili godišnji konsolidirani financijski izvještaji istinit i fer prikaz u skladu s primjenjivim okvirom financijskog izvještavanja i
+b) ako je to primjenjivo, jesu li godišnji financijski izvještaji u skladu s propisima
+6. upućivanje na sva pitanja na koja je revizorsko društvo upozorilo u posebnom naglasku koji ne predstavlja ograđivanje u revizorskom mišljenju
+7. mišljenje i izjavu je li izvješće poslovodstva usklađeno s godišnjim financijskim izvještajima za istu poslovnu godinu, je li izvješće poslovodstva sastavljeno u skladu sa zakonom kojim se uređuje računovodstvo poduzetnika i ostalim propisima te je li, a na temelju znanja i razumijevanja stečenih tijekom zakonske revizije o revidiranom subjektu i njegovu okruženju, ovlašteni revizor utvrdio značajne pogrešne prikaze u izvješću poslovodstva uz opis prirode tih utvrđenih značajnih pogrešnih prikaza
+8. izjavu u vezi s bilo kakvom značajnom neizvjesnošću u vezi s događajima ili okolnostima koji značajno mogu dovesti u pitanje sposobnost revidiranog subjekta za nastavak vremenski neograničenog poslovanja
+9. podatak o sjedištu revizorskog društva
+10. u slučaju zakonske revizije subjekata od javnog interesa dodatno i elemente propisane člankom 10. Uredbe (EU) br. 537/2014.
+(3) Iznimno od stavka 2. točke 5. ovoga članka, ako ovlašteni revizor ili revizorsko društvo nije u mogućnosti izraziti revizorsko mišljenje, revizorsko izvješće sadrži navod o suzdržavanju od izražavanja mišljenja.
+(4) Ako je zakonsku reviziju obavilo više od jednog revizorskog društva, ta revizorska društva dužna su se usuglasiti oko rezultata zakonske revizije te podnijeti zajedničko izvješće i mišljenje. U slučaju neslaganja, svako revizorsko društvo iskazuje svoje mišljenje u zasebnom stavku revizorskog izvješća i navodi razlog neslaganju, a ako se radi o subjektu od javnog interesa razlozi neslaganja bit će objašnjeni u dodatnom izvješću revizijskom odboru u skladu s odredbama članka 11. stavka 3. Uredbe (EU) br. 537/2014.
+(5) Revizorsko izvješće mora potpisati najmanje ovlašteni revizor koji obavlja zakonsku reviziju i zakonski zastupnik revizorskog društva. Ako zakonsku reviziju istodobno obavlja više od jednog revizorskog društva, revizorsko izvješće moraju potpisati svi ovlašteni revizori koji su obavili zakonsku reviziju i zakonski zastupnici tih revizorskih društava.
+(6) Iznimno od stavka 5. ovoga članka, a u skladu sa zakonom kojim se uređuje pravo na pristup informacijama, potpis ovlaštenog revizora ne mora biti otkriven javnosti ako bi takvo otkrivanje moglo prouzročiti neposrednu i značajnu prijetnju osobnoj sigurnosti tog ovlaštenog revizora.
+(7) U slučaju iz stavka 6. ovoga članka, revizorsko društvo dužno je prije izdavanja revizorskog izvješća obavijestiti Ministarstvo financija o imenu i prezimenu ovlaštenog revizora i razlozima neotkrivanja javnosti njegova potpisa te dostaviti predmetno revizorsko izvješće koje je potpisao ovlašteni revizor.
+(8) Revizorsko izvješće o godišnjim konsolidiranim financijskim izvještajima mora biti u skladu sa zahtjevima određenima u stavcima od 1. – 7. ovoga članka. Pri izvješćivanju o usklađenosti izvješća poslovodstva i godišnjih financijskih izvještaja kako je propisano u stavku 2. točki 7. ovoga članka, revizorsko društvo uzima u obzir godišnje konsolidirane financijske izvještaje i konsolidirano izvješće poslovodstva. Ako su godišnji financijski izvještaji matičnog društva priloženi godišnjim konsolidiranim financijskim izvještajima, revizorska izvješća, koja su obvezna na temelju ovoga članka, mogu se objediniti.
+(9) Revizorsko mišljenje iz stavka 2. točke 5. ovoga članka odnosi se na godišnje financijske izvještaje promatrane kao cjelinu.
+(10) Revizorsko izvješće o obavljenoj reviziji za posebne namjene sastavlja se u skladu s posebnim propisima.
+(11) Revizorsko izvješće sastavlja se i objavljuje na hrvatskom jeziku i latiničnom pismu.
+(12) Revizorskom izvješću prilažu se godišnji financijski izvještaji ili drugi izvještaji koji su bili predmet zakonske revizije.

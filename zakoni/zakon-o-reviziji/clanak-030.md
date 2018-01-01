@@ -1,0 +1,8 @@
+## Uvjeti za registraciju subjekta za obavljanje revizije u trećoj zemlji
+# Članak 30.
+(1) Ministarstvo financija registrirat će subjekt za obavljanje revizije u trećoj zemlji ako su ispunjeni sljedeći uvjeti:
+1. većina članova uprave ili upravnog odbora subjekta za obavljanje revizije u trećoj zemlji ispunjava zahtjeve koji su jednakovrijedni onima iz članaka 7., 10. i 11. ovoga Zakona
+2. revizor u trećoj zemlji koji obavlja reviziju u ime subjekta za obavljanje revizije u trećoj zemlji ispunjava zahtjeve koji su jednakovrijedni onima iz članaka 7., 10. i 11. ovoga Zakona
+3. revizije godišnjih financijskih izvještaja ili godišnjih konsolidiranih financijskih izvještaja iz članka 29. stavka 1. ovoga Zakona obavljaju se u skladu s Međunarodnim revizijskim standardima, Međunarodnim smjernicama revizijske prakse, Međunarodnim standardima za angažmane uvida, drugim angažmanima s izražavanjem uvjerenja odnosno za povezane usluge te Međunarodnim standardima kontrole kvalitete ako je navedene standarde i smjernice usvojio Odbor za Međunarodne standarde revidiranja i izražavanja uvjerenja (IAASB), ili su propisani pravom Europske unije, te zahtjevima iz članaka 48., 49., 52. i 62. ovoga Zakona, odnosno jednakovrijednim standardima i zahtjevima
+4. na svojoj internetskoj stranici objavljuje godišnje izvješće o transparentnosti koje obuhvaća informacije iz članka 13. Uredbe (EU) br. 537/2014 ili ispunjava jednakovrijedne uvjete za objavljivanje.
+(2) Ministar financija detaljnije propisuje pravilnikom sadržaj zahtjeva i dokumentaciju koja se dostavlja uz zahtjev za registraciju subjekta za obavljanje revizije u trećoj zemlji te iznos naknade.

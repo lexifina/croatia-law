@@ -1,0 +1,6 @@
+## Postupanje nakon završetka postupka nadzora
+# Članak 90.
+(1) Ministarstvo financija izriče subjektu nadzora za nezakonitosti i/ili nepravilnosti utvrđene u postupku nadzora odgovarajuće nadzorne mjere propisane ovim Zakonom i, ako je to primjenjivo, Uredbom (EU) br. 537/2014 i/ili daje preporuku.
+(2) U smislu ovoga Zakona, nezakonitosti su stanja i postupci koji nisu u skladu s ovim Zakonom, propisima donesenim na temelju ovoga Zakona, Uredbom (EU) br. 537/2014, drugim zakonima i propisima donesenima na temelju njih i uredbama Europske unije kojima se uređuje obavljanje zakonske revizije.
+(3) U smislu ovoga Zakona, nepravilnosti su stanja i postupci koji nisu u skladu s vlastitim poslovnim politikama i usvojenim pravilima subjekta nadzora, standardima i pravilima struke, ili se oni dosljedno ne primjenjuju. Poslovne politike i pravila subjekta nadzora moraju biti u skladu s propisima, standardima i drugim pravilima struke.
+(4) Kada Ministarstvo financija utvrdi postojanje osnova sumnje o počinjenom kaznenom djelu ili prekršaju, obvezno podnosi odgovarajuću prijavu nadležnom tijelu, a u slučaju kaznenih djela koja se progone po prijedlogu samo ako to smatra opravdanim i svrhovitim.

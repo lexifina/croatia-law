@@ -1,0 +1,7 @@
+## Registracija revizorskog društva iz druge države članice
+# Članak 25.
+(1) Ministarstvo financija rješenjem će registrirati za obavljanje zakonske revizije pravnu osobu iz druge države članice kojoj je odobrenje za rad revizorskog društva izdalo nadležno tijelo matične države članice, pod uvjetom da glavni revizijski partner koji obavlja zakonsku reviziju u ime tog revizorskog društva ima odobrenje za rad Ministarstva financija.
+(2) Revizorsko društvo iz stavka 1. ovoga članka može početi obavljati zakonsku reviziju tek nakon što ga Ministarstvo financija registrira.
+(3) Ministarstvo financija registrirat će revizorsko društvo iz stavka 1. ovoga članka ako utvrdi da ono ispunjava uvjet iz stavka 1. ovoga članka, ima odobrenje za rad nadležnog tijela u svojoj matičnoj državi članici, i ako dostavi Ministarstvu financija dokaz o osiguranju od odgovornosti za štetu u skladu s člancima 60. i 61. ovoga Zakona koju bi trećim osobama moglo počiniti obavljanjem revizorskih usluga. Potvrda koju izdaje nadležno tijelo matične države članice ne smije biti starija od tri mjeseca.
+(4) Ministarstvo financija obavijestit će nadležno tijelo matične države članice o registraciji revizorskog društva iz te države članice.
+(5) Ministar financija detaljnije propisuje pravilnikom sadržaj zahtjeva i dokumentaciju koja se dostavlja uz zahtjev za registraciju revizorskog društva iz druge države članice te iznos naknade.

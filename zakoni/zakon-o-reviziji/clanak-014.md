@@ -1,0 +1,5 @@
+## Stalno stručno usavršavanje
+# Članak 14.
+(1) Ovlašteni revizor ima obvezu stalno se stručno usavršavati u području obavljanja revizorskih usluga u trajanju od najmanje 120 sati unutar neprekinutog razdoblja od tri godine, počevši od dana izdavanja odobrenja za rad te o ispunjenoj obvezi izvještava Ministarstvo financija najkasnije na dan isteka istog razdoblja.
+(2) Ministarstvo financija, Hrvatska revizorska komora i drugi organizatori mogu organizirati i provoditi stalno stručno usavršavanje iz stavka 1. ovoga članka. Ministarstvo financija provodi stalno stručno usavršavanje prema programu koji javno objavljuje. Hrvatska revizorska komora i drugi organizatori provode stalno stručno usavršavanje prema programima na koje Ministarstvo financija daje prethodnu suglasnost i koje javno objavljuju. Za pohađanje stalnog stručnog usavršavanja plaća se naknada.
+(3) Ministar financija detaljnije propisuje pravilnikom uvjete za provedbu stalnog stručnog usavršavanja, izdavanje potvrde o obavljenom stalnom stručnom usavršavanju, način utvrđivanja i dokazivanja stalnog stručnog usavršavanja i druge pojedinosti u vezi sa stalnim stručnim usavršavanjem.

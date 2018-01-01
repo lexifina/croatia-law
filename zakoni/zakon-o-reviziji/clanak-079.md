@@ -1,0 +1,7 @@
+## Način obavljanja nadzora
+# Članak 79.
+(1) Nadzor iz članka 75. ovoga Zakona provodi se po službenoj dužnosti:
+1. neposrednim nadzorom, u poslovnim prostorijama subjekta nadzora ili osobe s kojom je subjekt nadzora neposredno ili posredno, poslovno, upravljački ili kapitalno povezan ili kojoj su povjerene važne revizijske funkcije, pregledom izvorne dokumentacije, provjerom i procjenom organizacije i cjelokupnog poslovanja subjekta nadzora i razgovorom s članovima uprave odnosno izvršnim direktorima i članovima nadzornog odbora te, ako je to primjenjivo, i ostalim relevantnim osobama, u skladu sa svrhom i opsegom nadzora, te u prostorijama Ministarstva financija
+2. posrednim nadzorom, u prostorijama Ministarstva financija, prikupljanjem, provjerom i analiziranjem izvještaja, obavijesti i podataka koje su subjekti nadzora dužni objavljivati, sastavljati i/ili dostavljati, u propisanim rokovima ili na zahtjev Ministarstva financija, ili ga izvještavati u slučaju postojanja propisanih činjenica i okolnosti, te praćenjem, prikupljanjem, provjerom i analizom dokumentacije, obavijesti i podataka dobivenih na zahtjev Ministarstva financija iz drugih izvora, u skladu sa svrhom i opsegom nadzora.
+(2) Neposredni nadzor iz stavka 1. točke 1. ovoga članka može biti redovit ili izvanredni.
+(3) Ministar financija detaljnije propisuje pravilnikom način prikupljanja izvještaja, obavijesti i podataka od subjekata nadzora.
