@@ -1,0 +1,1 @@
+Na temelju čl. 20. i članka 42. stavka 1. Zakona o lokalnim porezima (»Narodne novine« br. 115/16 i 101/2017), te čl. 33. Statuta Grada Ozlja (»Službeni glasnik Grada Ozlja« 7/13 - pročišćeni tekst), Gradsko vijeće Grada Ozlja na svojoj 5. sjednici održanoj 5. prosinca 2017. godine donijelo je
