@@ -1,0 +1,3 @@
+# Članak 6.
+U članku 35. stavak 1. mijenja se i glasi:
+»(1) Skupine multinacionalnih poduzeća čiji ukupni konsolidirani prihod skupine u prethodnoj poreznoj godini prelazi iznos od 750 milijuna eura ili iznos u drugoj valuti koji odgovara navedenom iznosu i čija su krajnja matična društva u svrhu oporezivanja rezidenti Republike Hrvatske ili drugi sastavni subjekti skupine multinacionalnih poduzeća obvezni su Ministarstvu financija, Poreznoj upravi dostaviti izvješće po državama iz članka 34. stavka 1. ovoga Zakona u roku od 12 mjeseci od posljednjeg dana porezne godine za koju se izvješće po državama podnosi.«.
