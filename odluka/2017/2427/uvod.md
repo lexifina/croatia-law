@@ -1,0 +1,1 @@
+Na temelju članka 17. Zakona o izmjenama Zakona o lokalnim porezima (»Narodne novine« broj 101/2017.) i članka 18. Statuta Općine Vrhovine (»Županijski glasnik« Ličko-senjske županije broj 13/09., 17/09., 14/12., 7/13., 10/13 - pročišćeni tekst, 19/13., 5/14., 11/14. i 19/15.), Općinsko vijeće Općine Vrhovine na 3. redovnoj sjednici održanoj 16. listopada 2017. godine donijelo je
