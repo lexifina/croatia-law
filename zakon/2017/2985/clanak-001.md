@@ -1,0 +1,9 @@
+# Članak 1.
+U Zakonu o minimalnoj plaći (»Narodne novine«, br. 39/13.) članak 2. mijenja se i glasi:
+»(1) Minimalna plaća u smislu ovoga Zakona je najniži mjesečni iznos bruto plaće koji radniku pripada za rad u punom radnom vremenu.
+(2) U iznos minimalne plaće ne ulaze povećanja plaće koja radniku pripadaju za prekovremeni rad, noćni rad i rad nedjeljom, blagdanom ili nekim drugim danom za koji je zakonom određeno da se ne radi.
+(3) Minimalna plaća radnika koji radi u nepunom radnom vremenu utvrđuje se i isplaćuje razmjerno ugovorenom radnom vremenu.
+(4) Za radnika kojemu je prema ugovoru o radu, pravilniku o radu, kolektivnom ugovoru ili posebnom propisu ugovorena, utvrđena ili propisana plaća za mjesec dana rada u iznosu minimalne plaće ili do visine minimalne plaće, mjesečna osnovica za obračun doprinosa na osnovicu prema plaći, utvrđena prema propisima kojima su uređeni doprinosi za obvezna osiguranja, umanjuje se za 50% iznosa minimalne plaće ili razmjernog dijela minimalne plaće koja je propisana za mjesec osiguranja za koji se vrši obračun.
+(5) Pravo iz stavka 4. ovoga članka ostvaruje radnik koji je u razdoblju od dvanaest mjeseci uzastopno prije početka umanjenja osnovice imao ugovorenu, utvrđenu ili propisanu minimalnu plaću ili do visine minimalne plaće.
+(6) Pravo iz stavka 4. ovoga članka ostvaruje se do ugovaranja, utvrđivanja ili propisivanja plaće koja je viša od iznosa minimalne plaće, a ponovno stjecanje prava počinje nakon ispunjenja uvjeta iz stavka 5. ovoga članka.
+(7) Odredba stavka 4. ovoga članka ne odnosi se na radnika koji je istodobno kod poslodavca član uprave trgovačkog društva ili izvršni direktor trgovačkog društva ili upravitelj zadruge, odnosno ne odnosi se na primitke iz stavka 2. ovoga članka, ostala uvećanja plaće za mjesec dana rada i ostale primitke koji se isplaćuju uz plaću.«.
