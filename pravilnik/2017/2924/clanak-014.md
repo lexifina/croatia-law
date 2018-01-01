@@ -1,0 +1,23 @@
+## Tehnike vrednovanja financijskih instrumenata koji se vrednuju po fer vrijednosti
+# Članak 14.
+(1) Fer vrijednost prenosivih vrijednosnih papira, instrumenata tržišta novca te ostalih financijskih instrumenata kojima se trguje na neaktivnom tržištu procjenjuje se tehnikama vrednovanja, kojima je cilj procijeniti cijenu po kojoj bi imovina bila prodana odnosno obveza prenesena u urednoj transakciji među tržišnim sudionicima za datum vrednovanja.
+(2) Iznimno od stavka 1. ovoga članka prenosivi dužnički vrijednosni papiri iz članka 125. stavka 1. točaka 1. i 2. Zakona vrednuju se primjenom zadnje cijene objavljene na službenom financijsko-informacijskom servisu na dan za koji se vrednuje imovina i obveze.
+(3) Mirovinsko društvo dužno je u internim aktima mirovinskog fonda odrediti tehnike vrednovanja iz stavka 1. ovoga članka, a koji uključuju najmanje:
+- metode i kriteriji za izbor tehnika vrednovanja,
+- pretpostavke koje će se uzeti u obzir prilikom primjena tehnika vrednovanja i obrazloženje za njihovo korištenje,
+- opis ulaznih podataka te njihove izvore koji će se uzeti u obzir prilikom primjena tehnika vrednovanja.
+(4) Mirovinsko društvo dužno je u pisanom obliku, koristeći tehnike vrednovanja, sastaviti procjenu fer vrijednosti prenosivog vrijednosnog papira ili instrumenta tržišta novca te ostalih financijskih instrumenata, koja sadrži ulazne podatke korištene u izračunu kao i njihove izvore.
+(5) Mirovinsko društvo dužno je u procjeni fer vrijednosti iz stavka 4. ovoga članka obrazložiti i dokumentirati razloge i način odabira pojedine tehnike vrednovanja, a ako koristi više tehnika, način dodjeljivanja pondera za pojedinu tehniku vrednovanja, kao i razloge neuključivanja pojedine tehnike u izračun fer vrijednosti.
+(6) Mirovinsko društvo dužno je prilikom izrade procjene fer vrijednosti, u najvećoj mogućoj mjeri, koristiti ulazne podatke s tržišta, koji su javno dostupni i što manje se oslanjati na podatke koji nisu javno dostupni, a specifični su za pojedinog izdavatelja, odnosno moraju uključiti sve čimbenike koje bi sudionici tržišta razmatrali u određivanju fer vrijednosti.
+(7) Mirovinsko društvo dužno je po saznanju bitnih informacija vezanih uz vrednovanje financijskih instrumenata, sastaviti procjenu fer vrijednosti, a istu revidirati najmanje na datum sastavljanja tromjesečnih i godišnjih izvještaja mirovinskog fonda.
+(8) Mirovinsko društvo će po saznanju bitnih informacija na osnovu okolnosti (udio prenosivog vrijednosnog papira, instrumenta tržišta novca ili financijske izvedenice u neto imovini mirovinskog fonda ili mogući utjecaj na fer vrijednost prenosivog vrijednosnog papira, instrumenta tržišta novca ili financijske izvedenice) procijeniti, pritom postupajući pažnjom dobrog stručnjaka, utjecaj informacija na promjenu obračunske jedinice mirovinskog fonda te o tome bez odgode obavijestiti depozitara u pisanom obliku.
+(9) U slučaju procijenjene promjene obračunske jedinice mirovinskog fonda kategorije A za više od 0,7%, mirovinskog fonda kategorije B za više od 0,5% i mirovinskog fonda kategorije C za više od 0,3%, mirovinsko društvo dužno je bez odgode izraditi procjenu fer vrijednosti prenosivih vrijednosnih papira, instrumenata tržišta novca ili financijskih izvedenica iz stavka 4. ovoga članka.
+(10) Kada je procijenjena promjena obračunske jedinice mirovinskog fonda manja od navedene u stavku 9. ovoga članka mirovinsko društvo dužno je procjenu fer vrijednosti iz stavka 4. ovoga članka izraditi najkasnije u roku od 7 radnih dana od dana saznanja bitne informacije.
+(11) Mirovinsko društvo dužno je u internim aktima mirovinskog fonda opisati postupak revidiranja procjena iz stavka 7. ovoga članka, a uključujući primjerice:
+a) usporedbu realiziranih cijena, u slučaju da je bilo trgovanja, s posljednjom procijenjenom fer vrijednosti,
+b) razmatranje ugleda, dosljednosti i kvalitete izvora vrednovanja;
+c) testiranje sa zastarjelim cijenama i implicitnim parametrima;
+d) usporedbu s cijenama bilo koje povezane imovine ili njihovim zaštitama od rizika;
+e) pregled ulaznih podataka korištenih kod određivanja cijena na temelju modela, a posebno onih prema kojima cijena modela iskazuje znatnu osjetljivost.
+(12) Depozitar mirovinskog fonda dužan je provjeriti je li mirovinsko društvo prilikom vrednovanja financijskog instrumenta tehnikama vrednovanja postupalo u skladu sa stavcima 3. i 11. ovoga članka.
+(13) Ponovnim aktiviranjem trgovanja i ispunjenjem uvjeta aktivnog tržišta u smislu članka 13. ovoga Pravilnika, prenosivi vrijednosni papiri i instrumenti tržišta novca te ostali financijski instrumenti će se početi vrednovati sukladno odredbama iz članka 10. i 12. ovoga Pravilnika.

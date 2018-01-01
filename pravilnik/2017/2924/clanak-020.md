@@ -1,0 +1,8 @@
+## Način i rokovi izvještavanja
+# Članak 20.
+(1) Depozitar je dužan na svaki dan izračuna vrijednosti obračunske jedinice mirovinskog fonda za dan vrednovanja izvijestiti mirovinsko društvo za čije mirovinske fondove obavlja poslove depozitara o provedenom postupku kontrole izračuna neto vrijednosti imovine mirovinskog fonda.
+(2) Depozitar je obvezan svakog dana vrednovanja, a najkasnije do 14:00 sati istog dana, dostaviti Agenciji izvještaj o vrednovanju neto imovine mirovinskog fonda i izračunu vrijednosti obračunske jedinice mirovinskog fonda za dan vrednovanja.
+(3) Izvještaj iz stavka 2. ovoga članka depozitar dostavlja u elektroničkom obliku na način propisan tehničkom uputom Agencije.
+(4) U slučaju utvrđivanja nesukladnosti i nedosljednosti u primjeni ovoga Pravilnika, mirovinsko društvo odnosno depozitar obvezni su na zahtjev Agencije ispraviti vrednovanje neto imovine mirovinskog fonda i dostaviti očitovanje o razlozima i posljedicama odstupanja od načela vrednovanja imovine i obveza mirovinskog fonda, te izvještaj o novom izračunu neto vrijednosti imovine mirovinskog fonda i vrijednosti obračunske jedinice mirovinskog fonda.
+(5) Mirovinsko društvo dužno je svakog dana vrednovanja, a najkasnije do 15.00 sati istog dana, izvijestiti Središnji registar osiguranika i Agenciju o vrijednosti obračunske jedinice za dan vrednovanja koja je prethodno potvrđena od strane depozitara.
+(6) U slučaju da izračun i kontrola neto vrijednosti imovine mirovinskog fonda nisu izvršeni u roku iz stavka 2. ovoga članka, mirovinsko društvo dužno je elektronskom poštom obavijestiti Agenciju i Središnji registar osiguranika o razlogu nepoštivanja rokova iz stavka 2. ovog članka uz naznaku procjene u kojem će se vremenskom roku isto izvršiti.
