@@ -1,0 +1,1 @@
+Na temelju članka 20. stavka 1. Zakona o lokalnim porezima (»Narodne novine« br. 115/16 i 101/17), te članka 28. Statuta Grada Iloka (»Službeni vjesnik Vukovarsko-srijemske županije« broj 11/13), Gradsko vijeće Grada Iloka na svojoj 6. sjednici, održanoj 14. prosinca 2017. godine, donosi
