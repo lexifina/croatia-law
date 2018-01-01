@@ -1,0 +1,3 @@
+# Članak 12.
+Porez na kuće za odmor plaća se godišnje, u iznosu od 5,00 kn po jednom četvornom metru korisne površine kuće za odmor na cijelom području Grada.
+Porez na kuće za odmor plaća se u roku od 15 dana od dana dostave rješenja o utvrđivanju poreza.
