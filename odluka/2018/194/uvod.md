@@ -1,0 +1,1 @@
+Na temelju članka 20. stavka 1. Zakona o lokalnim porezima (»Narodne novine« broj 115/16. i 101/17.) i članka 27. Statuta Grada Otočca (»Službeni vjesnik Grada Otočca« broj 1/13., 1/16), Gradsko vijeće Grada Otočca na 4. sjednici održanoj 29. prosinca 2017. godine donijelo je
