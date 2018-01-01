@@ -1,0 +1,1 @@
+Na temelju članka 83. stavka 3. Zakona o sportu (»Narodne novine«, br. 71/06, 124/10, 124/11, 86/12, 94/13, 85/15 i 19/16), Vlada Republike Hrvatske je na sjednici održanoj 21. prosinca 2017. godine donijela
