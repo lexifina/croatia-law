@@ -1,0 +1,1 @@
+Na temelju članka 20. stavak 1. Zakona o lokalnim porezima (»Narodne novine« br. 115/16 i 101/17.) i članka 30. Statuta Općine Lukač (»Službeni vjesnik Općine Lukač« br. 1/13 i 1/14.), Općinsko vijeće Općine Lukač na 6. sjednici održanoj 21. prosinca 2017. godine, donosi
