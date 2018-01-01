@@ -1,0 +1,1 @@
+Na temelju članka 18. stavka 10. i članka 28. stavka 8. Zakona o stambenom potrošačkom kreditiranju (»Narodne novine«, br. 101/2017.) te članka 43. stavka 2. točke 9. i članka 77. Zakona o Hrvatskoj narodnoj banci (»Narodne novine«, br. 75/2008. i 54/2013.) guverner Hrvatske narodne banke donosi
