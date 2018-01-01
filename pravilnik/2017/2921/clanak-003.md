@@ -1,0 +1,4 @@
+# Članak 3.
+U članku 5. iza stavka 13. dodaje se novi stavak 14. koji glasi:
+»(14) Porez na dohodak ne plaća se na naknade za pokriće izdataka prijevoznih troškova, prehrane, smještaja i drugih prihvatljivih troškova propisanih pravilima i propisima tijela Europske unije, koje se isplaćuju dugoročnim i kratkoročnim stručnjacima u skladu s međunarodnim ugovorom za vrijeme rada na projektu financiranom od strane Europske unije za provedbu programa tehničke pomoći Europske unije i to najviše u visini propisanoj pravilima i propisima tijela Europske unije prema kojima se projekti provode pod uvjetom da su osigurane vjerodostojne isprave (ugovor, izvješće, obračun i dr.) sukladno navedenim pravilima i propisima te pod uvjetom da se isplaćene naknade ne smatraju izvorom dohotka iz članka 5. Zakona.«.
+Dosadašnji stavak 14. postaje stavak 15.

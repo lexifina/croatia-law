@@ -1,0 +1,8 @@
+# Članak 27.
+U članku 84. stavak 5. mijenja se i glasi:
+»(5) U slučajevima iz članka 81. stavka 5., a u svezi stavka 3. toga članka Zakona, Porezna uprava će prilikom godišnjeg obračuna poreza na dohodak umanjiti ukupno obračunatu poreznu obvezu za 50% razmjernog dijela porezne obveze koja se odnosi na mirovinu i/ili za 50% razmjernog dijela porezne obveze koja se odnosi na ostali dohodak od nesamostalnog rada ukoliko porezni obveznik ima prebivalište i boravi na području jedinica lokalne samouprave razvrstanih u I. skupinu po stupnju razvijenosti prema posebnom propisu o regionalnom razvoju Republike Hrvatske i/ili na području Grada Vukovara utvrđenog prema posebnom propisu o obnovi i razvoju Grada Vukovara.«.
+Iza stavka 5. dodaje se novi stavak 6. koji glasi:
+»(6) U skladu s člankom 80. stavkom 5. Zakona uračunavanje inozemnog poreza u tuzemni porez na dohodak obavlja se u godišnjem obračunu poreza temeljem podataka o ostvarenom dohotku i plaćenom porezu u inozemstvu dostavljenih putem Izvješća o inozemnim primicima rezidenata i tuzemnim neoporezivim primicima nerezidenata te inozemnom porezu (dalje u tekstu: Obrazac INO-DOH) iz članka 81. stavka 4. Zakona.«.
+Dosadašnji stavak 6. postaje stavak 7.
+Iza dosadašnjeg stavka 6. koji postaje stavak 7. dodaje se stavak 8. koji glasi:
+»(8) Iznimno od članka 81. stavka 1. Zakona, fizičke osobe koje ostvaruju primitke izravno iz ili u inozemstvu predujam poreza odnosno porez na dohodak plaćaju do zadnjeg dana u mjesecu za prethodni mjesec ako utvrđeni predujmovi poreza odnosno poreza na dohodak po istom izvoru dohotka u tom mjesecu ne prelaze ukupan iznos od 100,00 kuna uz uvjet da su primici isplaćeni od strane istog isplatitelja. U istom roku fizička osoba ima obvezu podnijeti i propisano izvješće.«.

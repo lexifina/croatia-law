@@ -1,0 +1,12 @@
+# Članak 16.
+U članku 31. stavku 1. iza riječi: »isplaćenih primitaka po osnovi nesamostalnog rada« dodaju se riječi: »odnosno neisplaćenih primitaka sukladno članku 25. stavku 5. Zakona«.
+U stavku 3. točka 3. i podtočke 3.1. i 3.2. mijenjaju se i glase:
+»3. isplaćenim plaćama i mirovinama, odnosno neisplaćenim plaćama sukladno članku 25. stavku 5. Zakona, uplaćenim doprinosima za obvezna osiguranja iz plaće, uplaćenom porezu i prirezu (pod III.) uz posebnu oznaku - identifikator i to:
+3.1. identifikator 1 za poslodavce, isplatitelje plaće i mirovine kojima su radnici, umirovljenici i osobe koje ostvaruju primitke iz članka 21. Zakona dostavili poreznu karticu - Obrazac PK odnosno kojima je Porezna uprava dostavila Obrazac PK elektroničkim putem po osnovi koje ostvaruju pravo na osobni odbitak pri utvrđivanju predujma poreza na dohodak od nesamostalnog rada iz članka 24. Zakona
+3.2. identifikator 2 za poslodavce, isplatitelje plaće i mirovine kojima radnici, umirovljenici i osobe koje ostvaruju primitke iz članka 21. Zakona nisu dostavili poreznu karticu - Obrazac PK odnosno kojima Porezna uprava nije dostavila Obrazac PK elektroničkim putem i pri utvrđivanju predujma poreza na dohodak od nesamostalnog rada ne mogu koristiti osobni odbitak iz članka 14. Zakona«.
+U podtočki 3.4. riječi: »kojima su porezni obveznici dostavili duplikat porezne kartice - Obrazac PK« brišu se.
+Stavak 8. mijenja se i glasi:
+»(8) Podaci o plaćama i mirovinama ostvarenim kod poslodavaca i isplatitelja primitaka odnosno plaće i mirovine iz članka 21. Zakona kojima radnici, umirovljenici i druge osobe koje ostvaruju primitke od nesamostalnog rada nisu predali Obrazac PK odnosno kojima Porezna uprava nije dostavila Obrazac PK elektroničkim putem, iskazuju se na Obrascu IP, bez popunjavanja stupca 6. Isplatitelji koji u skladu s člankom 28. stavkom 8. ovoga Pravilnika koriste osobni odbitak samo do utvrđenog postotka u stupac 6 upisuju osobni odbitak prema podacima evidentiranim na Obrascu PK ovisno o omjeru (postotku) raspodjele osobnog odbitka koji je iskazan na istoj.«.
+Iza stavka 11. dodaje se novi stavak 12. koji glasi:
+»(12) Ako poslodavac naknadno isplati plaću, a najkasnije do 31. siječnja tekuće godine za prethodnu godinu, prema kojoj je obračunan odnosno uplaćen porez sukladno članku 25. stavku 5. Zakona, u Obrascu IP se tako isplaćena plaća iskazuje u mjesecu u kojem je nastala obveza uplate predujma poreza na dohodak po osnovi te plaće.«.
+Dosadašnji stavak 12. postaje stavak 13.

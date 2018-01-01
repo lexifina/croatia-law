@@ -1,0 +1,1 @@
+Na temelju članka 93. Zakona o porezu na dohodak (»Narodne novine«, broj 115/16) i članka 253. Zakona o doprinosima (»Narodne novine«, br. 84/08, 152/08, 94/09, 18/11, 22/12, 144/12, 148/13, 41/14, 143/14 i 115/16) ministar financija donosi
