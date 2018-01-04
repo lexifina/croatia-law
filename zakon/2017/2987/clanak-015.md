@@ -1,0 +1,3 @@
+# Članak 15.
+Danom stupanja na snagu ovoga Zakona ostaju na snazi odredbe Pravilnika o načinu obavljanja zdravstvenih pregleda osoba pod zdravstvenim nadzorom (»Narodne novine«, br. 23/94. i 93/00.), Pravilnika o načinu stjecanja osnovnog znanja o zdravstvenoj ispravnosti namirnica i osobnoj higijeni osoba koje rade u proizvodnji i prometu namirnica (»Narodne novine«, br. 23/94.) i Pravilnika o uvjetima i načinu obavljanja prijenosa, pogreba i iskopavanja umrlih osoba (»Narodne novine«, br. 23/94.), u dijelu u kojem nisu u suprotnosti s odredbama ovoga Zakona.
+Danom stupanja na snagu ovoga Zakona prestaje važiti Naputak o postupanju s otpadom koji nastaje pri pružanju zdravstvene zaštite (»Narodne novine«, broj 50/00.).

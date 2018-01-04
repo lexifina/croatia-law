@@ -1,0 +1,9 @@
+# Članak 6.
+Članak 37. mijenja se i glasi:
+»Osobe koje na svojim radnim mjestima u proizvodnji ili prometu hranom i vodom za ljudsku potrošnju dolaze u dodir s hranom te osobe koje rade na pripremi i serviranju hrane moraju imati potrebna znanja o zdravstvenoj ispravnosti hrane i osobnoj higijeni.
+Osobe iz stavka 1. ovoga članka moraju imati potrebna znanja o zdravstvenoj ispravnosti hrane i osobnoj higijeni prije početka rada, odnosno obnavljati ih svakih 5 godina.
+Smatra se da osobe koje su završile sveučilišni diplomski studij ili specijalistički diplomski stručni studij iz područja: medicine, farmacije, sanitarnog inženjerstva, biokemijskog inženjerstva, prehrambenog inženjerstva, nutricionizma, biologije, biotehnologije i veterinarskih znanosti posjeduju potrebna znanja o zdravstvenoj ispravnosti hrane i osobnoj higijeni te su izuzete od obveze iz stavka 2. ovoga članka.
+Osobe koje obavljaju poslove u proizvodnji, odnosno prometu kozmetičkih proizvoda, a koje na svojim radnim mjestima dolaze u neposredan dodir s kozmetičkim proizvodima, te fizičke osobe koje samostalno obavljaju djelatnost pružanja usluga njege ili uljepšavanja lica i tijela, kao i osobe koje obavljaju poslove unošenja boja i stranih tijela u kožu i sluznice, moraju imati potrebna znanja o sprečavanju zaraznih bolesti prije početka rada, odnosno obnavljati ih svakih 5 godina.
+Smatra se da osobe koje su završile sveučilišni diplomski studij ili specijalistički diplomski stručni studij iz područja: medicine, farmacije, medicinske biokemije i sanitarnog inženjerstva posjeduju potrebna znanja o sprečavanju zaraznih bolesti i osobnoj higijeni te su izuzete od obveze iz stavka 4. ovoga članka.
+Pravilnik o načinu i programu stjecanja potrebnog znanja o zdravstvenoj ispravnosti hrane za osobe iz stavka 1. ovoga članka donosi ministar.
+Pravilnik o načinu i programu stjecanja potrebnog znanja o sprečavanju zaraznih bolesti za osobe iz stavka 4. ovoga članka donosi ministar.«.

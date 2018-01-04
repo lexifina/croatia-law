@@ -1,0 +1,2 @@
+# Članak 13.
+U cijelom tekstu Zakona o zaštiti pučanstva od zaraznih bolesti (»Narodne novine«, br. 79/07., 113/08. i 43/09.) riječi: »voda za piće« i »pitka voda« u određenom padežu zamjenjuju se riječima: »voda za ljudsku potrošnju« u odgovarajućem padežu, a riječi: »tražitelj azila« u određenom padežu i broju zamjenjuju se riječima: »tražitelj međunarodne zaštite« u odgovarajućem padežu i broju.
