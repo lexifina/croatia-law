@@ -1,0 +1,9 @@
+## Stručna osposobljenost za obavljanje djelatnosti akvakulture
+# Članak 21.
+(1) Fizička ili pravna osoba kojoj je izdana dozvola iz članka 9. stavka 1. ovoga Zakona smije započeti s obavljanjem djelatnosti i obavljati djelatnost akvakulture ako je stručno osposobljena za obavljanje djelatnosti akvakulture, odnosno ima zaposlenu osobu stručno osposobljenu za obavljanje djelatnosti akvakulture u punom radnom vremenu.
+(2) Stručno osposobljenom osobom iz stavka 1. ovoga članka smatra se osoba koja je položila kolegij koji uključuje područje uzgoja vodenih organizama na V., VI. ili VII. razini obrazovanja, kao i osoba koja je prije stupanja na snagu ovoga Zakona stekla uvjerenje o stručnoj osposobljenosti za obavljanje uzgoja ribe i drugih morskih organizama sukladno posebnom propisu, odnosno uvjerenje o položenom ispitu za akvakulturu sukladno posebnom propisu.
+(3) Ako fizička ili pravna osoba iz članka 9. stavka 1. ovoga Zakona nije stručno osposobljena osoba, odnosno nema zaposlenu stručno osposobljenu osobu iz stavka 2. ovoga članka u punom radnom vremenu, dužna je završiti, odnosno imati zaposlenika u punom radnom vremenu koji je završio osnovno stručno osposobljavanje prema Programu stručnog osposobljavanja za obavljanje djelatnosti akvakulture (u daljnjem tekstu: Program stručnog osposobljavanja).
+(4) Savjetodavna služba obavlja osnovno stručno osposobljavanje za obavljanje djelatnosti akvakulture prema Programu stručnog osposobljavanja o čemu izdaje potvrdu.
+(5) Savjetodavna služba obavlja i dodatno neobavezno usavršavanje za obavljanje djelatnosti akvakulture prema Programu stručnog osposobljavanja o čemu izdaje potvrdu.
+(6) Poslove iz stavaka 4. i 5. ovoga članka Savjetodavna služba obavlja kao javnu ovlast.
+(7) Program stručnog osposobljavanja i obrasce potvrda iz stavaka 4. i 5. ovoga članka propisat će ministar pravilnikom.

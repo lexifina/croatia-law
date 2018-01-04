@@ -1,0 +1,8 @@
+## Uvjeti za utvrđivanje područja za obavljanje djelatnosti akvakulture
+# Članak 14.
+(1) U svrhu osiguravanja osnovnih pretpostavki za određivanje područja za akvakulturu u prostornim planovima propisuju se kriteriji za utvrđivanje pogodnosti dijelova pomorskog dobra, zemljišta i kopnenih voda za obavljanje djelatnosti akvakulture.
+(2) Pogodnost dijelova pomorskoga dobra za obavljanje djelatnosti akvakulture mora se utvrditi sukladno kriterijima propisanim pravilnikom iz stavka 5. ovoga članka, posebnim propisima iz područja zaštite okoliša i prirode, posebnim propisima iz područja sigurnosti plovidbe i posebnim propisima iz područja zaštite mora od onečišćenja.
+(3) Pogodnost zemljišta i kopnenih voda za obavljanje djelatnosti akvakulture mora se utvrditi sukladno kriterijima propisanim pravilnikom iz stavka 6. ovoga članka, posebnim propisima iz područja zaštite okoliša i prirode i posebnim propisima o vodama.
+(4) U postupku utvrđivanja granica za svaki dio koncesioniranog pomorskog dobra i svaki dio kopna na kojem će se obavljati djelatnost akvakulture utvrđuje se potreba za određivanjem zaštitnog pojasa u svrhu zaštite organizama u uzgoju.
+(5) Kriterije o pogodnosti dijelova pomorskoga dobra iz stavka 1. ovoga članka propisat će ministar pravilnikom uz prethodnu suglasnost ministra nadležnog za zaštitu okoliša i prirode, ministra nadležnog za graditeljstvo i prostorno uređenje i ministra nadležnog za pomorstvo.
+(6) Kriterije o pogodnosti zemljišta i kopnenih voda iz stavka 1. ovoga članka propisat će ministar pravilnikom uz prethodnu suglasnost ministra nadležnog za graditeljstvo i prostorno uređenje, ministra nadležnog za zaštitu okoliša, prirode i vodno gospodarstvo.
