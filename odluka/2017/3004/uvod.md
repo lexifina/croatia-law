@@ -1,0 +1,1 @@
+Na temelju članka 20. stavka 1. i članka 42. stavka 1. Zakona o lokalnim porezima (»Narodne novine« br. 115/16, 101/17) i članka 39. Statuta Općine Fažana (Službene novine Istarske županije 10/13), Općinsko vijeće Općine Fažana, na sjednici održanoj 14. prosinca 2017. godine, donijelo je
