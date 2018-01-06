@@ -1,0 +1,2 @@
+# Članak 66.
+Odjel za agrometeorološke informacije izrađuje klimatske analize i preglede vremena s posebnim osvrtom za potrebe poljodjelstva, šumarstva, ribarstva i fenologije. Izrađuje agrometeorološke prognoze i biltene s ciljem informiranja javnosti o stanju vremena i upozoravanja javnosti o izvanrednim agrometeorološkim prilikama. Izrađuje agroklimatske i fenološke atlase, kalendare i priopćenja za javnost. Sudjeluje u domaćim i međunarodnim projektima te surađuje sa znanstveno-nastavnim, državnim i međunarodnim ustanovama iz djelokruga Odjela.

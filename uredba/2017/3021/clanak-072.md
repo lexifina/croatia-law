@@ -1,0 +1,3 @@
+# Članak 72.
+Odjel za analizu i verifikaciju izrađuje studije posebnih vremenskih situacija te prati i nadzire kakvoću izdanih općih i posebnih vremenskih prognoza i upozorenja. Organizira arhivu izdanih prognoza i upozorenja te po potrebi sudjeluje u izradi vremenske prognoze. Prati najnovija dostignuća iz područja analize i verifikacije te razvija i primjenjuje nove metode za analizu i postprocesnu obradu podataka prognostičkih modela, njihovo tumačenje i ocjenu za primjenjivost u izdavanju vremenskih prognoza i upozorenja. Izrađuje redovita izvješća o kakvoći izdanih vremenskih prognoza i upozorenja.
+6.2. Služba Pomorski meteorološki centar

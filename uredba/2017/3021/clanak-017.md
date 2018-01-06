@@ -1,0 +1,8 @@
+## 4. SEKTOR ZA MOTRENJE VREMENA I KLIME
+# Članak 17.
+Sektor za motrenje vremena i klime planira i organizira rad mreže meteoroloških postaja - glavnih, klimatoloških, kišomjernih, fenoloških i totalizatora. Sektor obavlja upravne i stručne poslove koji se odnose na sudjelovanje u izradi prijedloga provedbenih propisa kojima se uređuje rad mreže meteoroloških postaja. Prati i primjenjuje nove spoznaje i metode iz područja meteoroloških motrenja te radi na izradi prijedloga za unapređenje i razvoj mreža meteoroloških postaja - glavnih, klimatoloških, kišomjernih, fenoloških i totalizatora. Radi na poslovima izrade tehničkih specifikacija nabave meteoroloških instrumenata i sve opreme vezanih uz rad klasičnih (konvencionalnih) meteoroloških mjerenja. Sektor planira i organizira rad mreže fenoloških motrenja, prikuplja i kontrolira fenološke podatke. Nadzire rad međunarodnog fenološkog vrta. Izrađuje upute za fenološka motrenja i kontrolu fenoloških podataka, koordinira rad s mrežom meteoroloških postaja te nadzire i obnavlja mrežu fenoloških postaja. Vodi evidenciju fenoloških motritelja i organizira rad fenoloških motritelja. Sudjeluje u provođenju i primjeni domaćih i međunarodnih projekata, osobito projekata financiranih iz strukturnih i investicijskih fondova. Prezentira rezultate rada na domaćim i međunarodnim znanstvenim i stručnim skupovima i u publikacijama.
+Za obavljanje poslova iz djelokruga Sektora za motrenje vremena i klime, ustrojavaju se:
+4.1. Služba za meteorološka motrenja
+4.2. Služba za automatska, visinska i posebna meteorološka mjerenja
+4.3. Služba za obradu i kontrolu podataka.
+4.1. Služba za meteorološka motrenja

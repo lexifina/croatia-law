@@ -1,0 +1,8 @@
+## 8. SEKTOR ZA KVALITETU ZRAKA
+# Članak 89.
+Sektor za kvalitetu zraka je nadležan za organizaciju, koordinaciju i izvršavanje poslova praćenja, analize, istraživanja i modeliranja kvalitete zraka, u svrhu sprječavanja i ublažavanja negativnih posljedica mjesnog, regionalnog i daljinskog prijenosa i taloženja štetnih onečišćenja koja negativno utječu na ekosustav. Upravlja Državnom mrežom za trajno praćenje kvalitete zraka i obavlja stručne poslove praćenja i mjerenja kvalitete zraka. Primjenjuje postojeće te istražuje i unaprjeđuje metode mjerenja, analiza i prognoza kvalitete zraka i oborine. Sudjeluje u planiranju sustava praćenja kvalitete zraka u Republici Hrvatskoj. Razrađuje metodologiju za uspostavu i provođenje mjerenja. Primjenjuje postojeće te istražuje i unaprjeđuje metode analiza i prognoza onečišćenja atmosfere u ovisnosti o meteorološkim uvjetima, izrađuje upute i izvješća te sudjeluje u izradi procjena stanja kvalitete zraka, elaborata i studija. Razrađuje metodologiju za uspostavu i provođenje posebnih mjerenja. Analizira kemijski sastav uzoraka zraka, čestica i oborine u skladu sa zakonskom regulativom. Sudjeluje u provođenju i primjeni domaćih i međunarodnih projekata, osobito projekata financiranih iz strukturnih i investicijskih fondova, iz djelokruga Sektora. Primjenjuje i razvija metode analize i prognoze kvalitete zraka.
+Za obavljanje poslova iz djelokruga Sektora za kvalitetu zraka, ustrojavaju se:
+8.1. Služba za upravljanje sustavom mjerenja kvalitete zraka
+8.2. Služba za modeliranje kvalitete zraka, istraživanje i primjenu
+8.3. Služba kemijski laboratorij.
+8.1. Služba za upravljanje sustavom mjerenja kvalitete zraka

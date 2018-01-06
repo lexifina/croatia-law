@@ -1,0 +1,6 @@
+# Članak 58.
+Služba za primijenjena istraživanja i modeliranje istražuje specifičnosti lokalnih i regionalnih atmosferskih procesa u svrhu unapređenja metoda njihovog modeliranja. Razvija i primjenjuje numeričke modele za potrebe primjene u raznim granama gospodarstva. Obrađuje produkte numeričkih modela u svrhu procjene uspješnosti i poboljšanja rezultata operativnih i drugih modela. Osigurava informacije i podloge za donošenje strateških odluka za racionalno korištenje i upravljanje prirodnim bogatstvima i obnovljivim izvorima energije, te osigurava stručne i znanstvene podloge za njihovu provedbu. Osigurava informacije, stručne i znanstvene podloge za donošenje strateških odluka u cilju pripreme i ublažavanja posljedica od prirodnih i civilizacijskih katastrofa. Prati suvremena postignuća te sudjeluje u domaćim i međunarodnim projektima iz djelokruga rada Službe te surađuje sa znanstveno-nastavnim, državnim i međunarodnim ustanovama iz djelokruga Službe.
+Za obavljanje poslova iz djelokruga Službe za primijenjena istraživanja i modeliranje, ustrojavaju se:
+5.2.1. Odjel za primijenjeno modeliranje
+5.2.2. Odjel za obradu podataka modela i aplikacije.
+5.2.1. Odjel za primijenjeno modeliranje

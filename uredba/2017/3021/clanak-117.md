@@ -1,0 +1,3 @@
+# Članak 117.
+Područna jedinica Pododsjek radarski centar Gorice, sa sjedištem u Novoj Gradiški, obavlja radarska mjerenja, te tijekom razvoja tučonosnih oblaka, prema utvrđenim metodama i kriterijima, sredstvima veze koordinira provođenje obrane od tuče. Obavlja nadzor i opskrbu sredstvima djelovanja lansirne, generatorske i tučomjerne postaje, prikuplja tehnološke i meteorološke podatke, izrađuje i dostavlja izvješća. Pododsjek provodi meteorološka motrenja i ostale poslove GMP-a. Izrađuje meteorološka izvješća i dostavlja ih u računalni sustav i arhivu DHMZ-a.
+12.9. Područna jedinica Pododsjek radarski centar Gradište

@@ -1,0 +1,3 @@
+# Članak 9.
+U Odjelu za zaštitu na radu obavljaju se poslovi zaštite na svim objektima DHMZ-a. Odjel prati stanje zaštite i sigurnosti zdravlja službenika i namještenika. Vodi evidencije iz zaštite na radu, surađuje s inspekcijom rada, surađuje u izadi procjene rizika i sudjeluje pri izradi revizije procjene. Odjel skrbi o upućivanju službenika i namještenika na liječničke preglede koji rade na poslovima s posebnim uvjetima rada, planira i prati nabavu osobne zaštitne opreme i drugih sredstava namijenjenih za rad. Prati zakonsku regulativu i suvremena tehnološka dostignuća iz područja zaštite na radu, potiče nadređene i ovlaštenike na poboljšanje uvjeta i sigurnosti na radu.
+2.2. Služba za financije, računovodstvo i nabavu

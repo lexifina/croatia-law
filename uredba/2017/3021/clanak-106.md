@@ -1,0 +1,3 @@
+# Članak 106.
+Područna jedinica Pododsjek podrške za uspostavu radarskih centara u Primorskoj Hrvatskoj, sa sjedištem u Zagrebu, obavlja operativne poslove vezano uz projekte modernizacije radarske mreže i proširenja na području Republike Hrvatske posebno projekta sustava meteoroloških radara u Primorju. Koordinira rad vezano uz uspostavu novih sustava s ostalim tehničkim službama DHMZ-a. Po potrebi obavlja poslove vezano uz rad postojećih radarskih centara i obrane od tuče. Provodi preliminarna mjerenja vezano uz nove radarske sustave.
+11.1.2. Područna jedinica Pododsjek podrške radarskih centara Sjeverne Hrvatske - sabirni centar

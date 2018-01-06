@@ -1,0 +1,9 @@
+## 5. SEKTOR ZA METEOROLOŠKA ISTRAŽIVANJA I RAZVOJ
+# Članak 54.
+Sektor za meteorološka istraživanja i razvoj obavlja stručne i tehničke poslove koji se odnose na organizaciju, koordinaciju i izvršavanje poslova istraživanja lokalnih i regionalnih atmosferskih procesa, te njihovog modeliranja za potrebe operativne numeričke analize i prognoze vremena, te integriranog modeliranja meteoroloških, hidroloških i oceanografskih procesa. Sektor je nadležan i za primijenjena meteorološka istraživanja i modeliranja atmosferskih procesa za potrebe države i gospodarstva. Sudjeluje u razvoju i primjeni operativnog sustava djelovanja u slučaju prirodnih i civilizacijskih nepogoda. Nadležan je za organizaciju, koordinaciju i izvršavanje poslova praćenja, analize i istraživanja prostorno-vremenske varijabilnosti klime i klimatskih promjena te ocjenu izvanrednosti meteoroloških pojava. Radi na razvoju primijenjene klimatologije, biometeorologije, agrometeorologije i hidrometeorologije. Izrađuje ekspertize, studije, elaborate i prikaze iz područja primijenjene meteorologije, klimatologije i agrometeorologije, za potrebe planiranja i razvoja gospodarskih i društvenih djelatnosti. Sudjeluje u izradi nacionalnih klimatskih izvješća u Republici Hrvatskoj. Nadležan je za međunarodnu suradnju iz djelokruga Sektora, te surađuje sa znanstveno-nastavnim, državnim i međunarodnim ustanovama iz djelokruga Sektora. Sudjeluje u provođenju i primjeni domaćih i međunarodnih projekata, osobito projekata financiranih iz strukturnih i investicijskih fondova.
+Za obavljanje poslova iz djelokruga Sektora za meteorološka istraživanja i razvoj, ustrojavaju se:
+5.1. Služba za razvoj operativnih prognostičkih modela
+5.2. Služba za primijenjena istraživanja i modeliranje
+5.3. Služba za klimatologiju
+5.4. Služba za agrometeorologiju.
+5.1. Služba za razvoj operativnih prognostičkih modela
