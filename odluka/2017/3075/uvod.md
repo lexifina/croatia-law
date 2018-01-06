@@ -1,0 +1,1 @@
+Na temelju članka 4. Zakona o izmjenama Zakona o lokalnim porezima (»Narodne novine«, br. 101/17) te članka 30. Statuta Općine Gundinci (»Službeni vjesnik Brodsko-posavske županije« br. 09/13), Općinsko vijeće Općine Gundinci na svojoj 6. sjednici održanoj 11. prosinca 2017. godine donosi
