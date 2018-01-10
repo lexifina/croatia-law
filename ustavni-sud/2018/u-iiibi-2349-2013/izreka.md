@@ -1,0 +1,2 @@
+O D L U K U
+Utvrđuje se da je podnositeljici ustavne tužbe X. Y. iz Z. povrijeđeno ustavno pravo u proceduralnom aspektu zajamčeno člankom 23. stavkom 1. Ustava Republike Hrvatske ("Narodne novine" broj 56/90., 135/97., 113/00., 28/01., 76/10. i 5/14.), odnosno pravo zajamčeno člankom 3. Konvencije za zaštitu ljudskih prava i temeljnih sloboda ("Narodne novine - Međunarodni ugovori" broj 18/97., 6/99. - pročišćeni tekst, 8/99. - ispr., 14/02., 1/06. i 2/10.), a u vezi s člankom 14. stavkom 1. Ustava.
