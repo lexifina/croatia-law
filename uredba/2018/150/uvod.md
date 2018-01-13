@@ -1,0 +1,1 @@
+Na temelju članka 43. stavka 5. Zakona o policiji (»Narodne novine«, br. 34/11, 130/12, 89/14 - vjerodostojno tumačenje, 33/15 i 121/16), Vlada Republike Hrvatske je na sjednici održanoj 11. siječnja 2018. godine donijela
