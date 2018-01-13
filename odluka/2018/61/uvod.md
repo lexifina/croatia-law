@@ -1,0 +1,1 @@
+Na temelju članka 17. stavka 1. Zakona o upravljanju i raspolaganju imovinom u vlasništvu Republike Hrvatske (»Narodne novine«, br. 94/13, 18/16 i 89/17 - Odluka Ustavnog suda Republike Hrvatske), Vlada Republike Hrvatske je na sjednici održanoj 4. siječnja 2018. godine donijela
