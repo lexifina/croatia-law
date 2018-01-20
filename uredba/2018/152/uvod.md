@@ -1,0 +1,1 @@
+Na temelju članka 95. stavka 5., članka 99. stavka 4., članka 107. stavka 4. i članka 111. stavaka 4. i 10. Zakona o zaštiti okoliša (»Narodne novine«, br. 80/13, 153/13 i 78/15), Vlada Republike Hrvatske je na sjednici održanoj 11. siječnja 2018. godine donijela

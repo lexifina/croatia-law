@@ -1,0 +1,4 @@
+# Članak 14.
+U članku 31. iza stavka 1. dodaje se novi stavak 2. koji glasi:
+»(2) Na postupak okolišne dozvole koji se vodi primjenom općih obvezujućih pravila, odgovarajuće se primjenjuju sve odredbe Zakona i ove Uredbe koje se odnose na način dostavljanja podataka o praćenju emisija, način dopuna, izmjena ili ispravka postojeće okolišne dozvole te spajanje više okolišnih dozvola u jedinstvenu dozvolu, određivanje uvjeta okolišne dozvole, način utvrđivanja graničnih vrijednosti emisija, izuzeća od primjene razine emisija iz zaključaka o NRT-u, način primjene jednakovrijednih parametara i ostalih tehničkih mjera i određivanje praćenja procesa i industrijskih emisija prema zahtjevima NRT-a, način podnošenja zahtjeva za suglasnost na Temeljno izvješće i način izdavanja suglasnosti na Temeljno izvješće, razvoj i primjena NRT-a, i način utvrđivanja i pokrića troškova postupka.«.
+Dosadašnji stavci 2. i 3. postaju stavci 3. i 4.
