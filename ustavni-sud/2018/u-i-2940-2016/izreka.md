@@ -1,0 +1,2 @@
+R J E Š E NJ E
+Ne prihvaća se prijedlog za pokretanje postupka za ocjenu suglasnosti s Ustavom članka 12. stavka 1. u dijelu koji glasi: "te nezakonito izgrađenih zgrada javne namjene, gospodarskih zgrada i stambenih zgrada, za čije je ozakonjenje podnesen zahtjev u roku propisanom posebnim zakonom,", stavaka 3. i 4. i članka 43. stavka 1. Zakona o saniranju posljedica katastrofe na području Vukovarsko-srijemske županije ("Narodne novine" broj 77/14.).
