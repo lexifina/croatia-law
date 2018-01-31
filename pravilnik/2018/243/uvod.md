@@ -1,0 +1,1 @@
+Na temelju članka 56. stavka 5. Zakona o Državnom sudbenom vijeću (»Narodne novine« broj 116/10, 57/11, 130/11, 13/13, 28/13 i 82/15 - dalje ZDSV), Državno sudbeno vijeće na 106. sjednici održanoj 18. siječnja 2018. donosi
