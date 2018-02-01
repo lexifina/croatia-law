@@ -1,0 +1,24 @@
+# Članak 101.
+(1) Naknada štete u paušalnom iznosu do iznosa najniže osnovne plaće utvrđene odredbama ovog Ugovora određuje se za sljedeće štetne radnje koje počini radnik:
+- poduzimanje određene radnje unatoč izričitoj zabrani da se takva radnja poduzme odnosno nepoduzimanje određene radnje unatoč izričitom nalogu da se određena radnja poduzme, ako su te radnje u skladu s važećim propisima,
+- vođenje poslova pojedinog organizacijskog dijela Poslodavca, odnosno poduzimanje, konkretne radnje koja je dovela do manjka ili viška roba u iznosu koji premašuje uobičajene vrijednosti utvrđene internim propisom, propisima o kalu, rastepu i lomu i sličnim standardima, odnosno koja je dovela do manjka novca ili druge imovine,
+- svako nemarno ili nesavjesno izvršavanje poslova i radnih zadataka ili njihovo neizvršavanje u roku, odnosno svaka druga povreda radne obveze koja je doprinijela nastanku manjka roba, novca ili druge imovine Poslodavca u iznosu koji je najmanje deset puta veći od iznosa najniže osnovne plaće utvrđene odredbama ovog Ugovora;
+- opetovano poduzimanje štetne radnje iz stavka 2. ovoga članka.
+(2) Naknada štete određuje se u paušalnom iznosu od 15% iznosa najniže osnovne plaće utvrđene odredbama ovog Ugovora za sljedeće štetne radnje koje počini radnik:
+- izazivanje nereda ili tučnjave za vrijeme rada,
+- učestalo zakašnjenje u dolasku na posao, nedopušteni izlazak s posla za vrijeme radnog vremena, ili napuštanje posla prije isteka radnog vremena,
+- neevidentiranje dolaska i odlaska s posla te izlaska tijekom radnog vremena na način utvrđen aktom Poslodavca,
+- neopravdani izostanak s posla,
+- nesavjesno rukovanje sredstvima rada koje je uzrokovalo zastoj u radu,
+- nemarno, nepotpuno i nepravovremeno vođenje propisane dokumentacije, vezano uz iskaz količina izvedenih radova i utrošenog materijala (dnevnik rada, radni nalog, zapisnik o prometnim nesrećama i slično),
+- nemarno ili nesavjesno izvršavanje poslova i radnih zadataka ili njihovo neizvršavanje u roku,
+- odbijanje izvršenja radnog zadatka ili postupanje protivno nalogu neposrednog rukovoditelja,
+- samovoljni prestanak rada zaposlenika prije isteka otkaznog roka,
+- neprijavljivanje štete ili štetne radnje,
+- rad pod utjecajem alkohola, narkotičkih sredstava i drugih sredstava koja smanjuju sposobnost za vrijeme rada,
+- nedopušteno unošenje alkoholnih pića i narkotičkih sredstva u poslovni prostor,
+- odbijanje podvrgavanja alkotestu ili testu na droge,
+- lažno prikazivanje ili zatajenje činjenica u vezi s radom odnosno radnim odnosom u namjeri da sebi ili drugome pribavi materijalnu ili neku drugu korist,
+- svako ponašanje prema kupcima, strankama ili drugim osobama koje šteti ugledu Poslodavca.
+(3) Ako je šteta uzrokovana štetnom radnjom iz stavka 1. ovoga članka puno veća od paušalno utvrđenog iznosa naknade, od radnika se može zahtijevati naknada u visini stvarno utvrđene štete.
+(4) Visinu štete utvrđuje Poslodavac u skladu s odredbama ovog Ugovora.

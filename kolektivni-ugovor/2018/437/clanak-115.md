@@ -1,0 +1,4 @@
+# Članak 115.
+(1) Ako se praćenjem rada radnika utvrdi da radnik s kojim je sklopljen ugovor o radu na neodređeno vrijeme, a kojemu do stjecanja uvjeta za starosnu mirovinu prema propisima o mirovinskom osiguranju nedostaje 5 (pet) godina života ili staža osiguranja, ne može ostvarivati očekivane rezultate rada na poslovima koje obavlja, Poslodavac će prema mogućnostima i potrebama radniku ponuditi obavljanje poslova nižeg ili višeg stupnja složenosti i odgovornosti ako ispunjava uvjete za to radno mjesto.
+(2) U slučaju iz prethodnog stavka radnik ostvaruje pravo na obračun plaće prema osnovnom koeficijentu radnog mjesta koje je prethodno obavljao.
+(3) Pravo iz prethodnog stavka radnik zadržava do ostvarenja uvjeta iz stavka 1. ovog članka nakon čega, ako nastavi raditi, ostvaruje pravo na plaću prema koeficijentu utvrđenom za poslove koje obavlja.

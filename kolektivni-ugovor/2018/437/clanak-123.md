@@ -1,0 +1,4 @@
+# Članak 123.
+(1) Sindikalni povjerenici odnosno predstavnici imaju pravo kod Poslodavca štititi i promicati pojedinačna i kolektivna prava i interese članova sindikata.
+(2) Poslodavac je dužan sindikalnom povjereniku odnosno predstavniku omogućiti pravodobno i djelotvorno ostvarivanje prava iz stavka 1. ovoga članka te pristup podacima važnima za ostvarivanje tog prava.
+(3) Sindikalni povjerenik odnosno predstavnik mora svoje pravo i obvezu iz stavka 1. ovog članka ostvarivati tako da ne šteti djelotvornosti poslovanja Poslodavca.

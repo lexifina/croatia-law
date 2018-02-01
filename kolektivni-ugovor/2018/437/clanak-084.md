@@ -1,0 +1,9 @@
+## Terenski dodatak
+# Članak 84.
+(1) Radnik ima pravo na terenski dodatak kada boravi izvan mjesta svojeg prebivališta ili uobičajenog boravišta zbog poslova koje obavlja izvan sjedišta Poslodavca ili sjedišta izdvojene poslovne jedinice Poslodavca i kada Poslodavac obavlja takvu vrstu djelatnosti koja je po svojoj prirodi vezana uz rad na terenu (mjesto rada se razlikuje od mjesta sjedišta Poslodavca ili njegove poslovne jedinice i mjesta prebivališta ili uobičajenog boravišta radnika, pri čemu je mjesto rada udaljeno od tih mjesta najmanje 50 kilometara). Terenski dodatak može se pod ovim uvjetima isplatiti i u slučaju kada ne postoji potreba za noćenjem radnika na terenu, ali pod uvjetom da je radnik na terenu boravio najmanje 8 sati.
+(2) Nalog za rad na terenu Poslodavac, odnosno čelnik ustrojstvene jedinice, izdaje u pisanom obliku.
+(3) Za rad na terenu Poslodavac će radniku osigurati smještaj.
+(4) Terenski dodatak isplaćuje se u visini maksimalnog neoporezivog iznosa utvrđenog za ovu namjenu, sukladno propisima važećima u trenutku isplate, koji u trenutku pisanja ovog Ugovora iznosi 170,00 kuna dnevno.
+(5) Terenski dodatak pripada radniku za svaki provedeni dan na terenu, a obračunava se i isplaćuje prilikom obračuna plaće za protekli mjesec.
+(6) Terenski dodatak, dnevnica, dodatak na odvojeni život i naknada za prijevoz međusobno se isključuju. Ova naknada za prijevoz, koja se isključuje, naknada je koju radnik ostvaruje redovito u svom ugovorenom mjestu rada.
+(7) Radnik ima pravo jedanput tjedno koristiti službeno vozilo za odlazak u mjesto prebivališta/ uobičajenog boravišta, odnosno, ukoliko putuje javnim prijevozom, jedanput tjedno ima pravo na naknadu troškova prijevoza u visini javnog prijevoznog sredstva, odnosno, u slučaju korištenja vlastitog osobnog vozila, jedanput tjedno ima pravo na naknadu troškova sukladno odredbi članka 86. stavka 9. ovog Ugovora na temelju vjerodostojne dokumentacije.
