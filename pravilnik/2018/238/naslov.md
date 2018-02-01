@@ -1,0 +1,1 @@
+Pravilnik o izmjenama Pravilnika o uvjetima, kriterijima i načinu dodjele potpore u okviru mjere I.9. »Privremeni prestanak ribolovnih aktivnosti« okružujućim mrežama plivaricama - srdelarama za siječanj/veljaču 2018. godine
