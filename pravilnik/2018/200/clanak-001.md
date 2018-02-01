@@ -1,0 +1,2 @@
+# Članak 1.
+U Pravilniku o kazeinima i kazeinatima namijenjenim prehrani ljudi (»Narodne novine«, broj 113/16), u članku 2. iza riječi »(SL L 314, 1. 12. 2015.).« briše se točka i dodaju riječi: »kako je izmijenjena Ispravkom Direktive (EU) 2015/2203 Europskog parlamenta i Vijeća od 25. studenoga 2015. o usklađivanju zakonodavstva država članica koje se odnose na kazeine i kazeinate namijenjene za prehranu ljudi te o stavljanju izvan snage Direktive Vijeća 83/417/EEZ (SL L 244, 22. 9. 2017.)«.
