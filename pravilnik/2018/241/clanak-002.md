@@ -1,0 +1,3 @@
+# Članak 2.
+Pravo na stipendiju Središnjeg državnog ureda za Hrvate izvan Republike Hrvatske (u daljnjem tekstu: Ured) za učenje hrvatskoga jezika imaju pripadnici hrvatskoga naroda, njihovi supružnici kao i prijatelji hrvatskoga naroda i Republike Hrvatske koji njeguju hrvatski identitet i promiču hrvatsko kulturno zajedništvo, imaju prebivalište izvan Republike Hrvatske (u daljnjem tekstu: kandidati).
+Pravo na stipendiju Ureda imaju također kandidati iz stavka 1. ovog članka ukoliko imaju prijavljeno prebivalište/boravište u Republici Hrvatskoj, ne duže od dvije godine zaključno s danom objave javnog poziva za dodjelu stipendija za učenje hrvatskoga jezika u Republici Hrvatskoj i za internetsko učenje hrvatskoga jezika (u daljnjem tekstu: Javni poziv).
