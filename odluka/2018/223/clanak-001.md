@@ -1,0 +1,7 @@
+## Predmet Odluke
+# Članak 1.
+(1) Ovom se Odlukom pobliže uređuje:
+1) informatičko rješenje za dostavu izvještaja iz Provedbene uredbe Komisije (EU) br. 680/2014 od 16. travnja 2014. o utvrđivanju provedbenih tehničkih standarda o nadzornom izvješćivanju institucija u skladu s Uredbom (EU) br. 575/2013 Europskog parlamenta i Vijeća (Tekst značajan za EGP) (SL, L 191, 28. 6. 2014.; u nastavku teksta: Provedbena uredba Komisije (EU) br. 680/2014) koje kreditna institucija dostavlja Hrvatskoj narodnoj banci,
+2) informatičko rješenje za dostavu izvještaja iz Provedbene uredbe Komisije (EU) 2016/2070 od 14. rujna 2016. o provedbenim tehničkim standardima za predloške, definicije i informatička rješenja kojima se institucije koriste pri izvješćivanju Europskog nadzornog tijela za bankarstvo i nadležnih tijela u skladu s člankom 78. stavkom 2. Direktive 2013/36/EU Europskog parlamenta i Vijeća (Tekst značajan za EGP) (SL, L 328, 2. 12. 2016.; u nastavku teksta: Provedbena uredba Komisije (EU) 2016/2070) koje kreditna institucija dostavlja Hrvatskoj narodnoj banci i
+3) obveza kreditne institucije da dostavlja izvještaje o financijskim informacijama iz poglavlja 3. odjeljka 2. Provedbene uredbe Komisije (EU) br. 680/2014 i na nekonsolidiranoj osnovi.
+(2) Način za dostavu izvještaja iz stavka 1. ovoga članka propisan je Uputom o tehničkim rješenjima za dostavu izvještaja, koja je u prilogu ove Odluke i njezin je sastavni dio.

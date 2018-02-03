@@ -1,0 +1,4 @@
+## Nekonsolidirani izvještaji o financijskim informacijama
+# Članak 4.
+(1) Kreditna institucija dužna je za referentne datume iz članka 2. stavka 1. točaka (b), (c) i (d) i stavka 2. Provedbene uredbe Komisije (EU) br. 680/2014 dostavljati Hrvatskoj narodnoj banci izvještaje o financijskim informacijama iz poglavlja 3. odjeljka 2. Provedbene uredbe Komisije (EU) br. 680/2014 i na nekonsolidiranoj osnovi prema rokovima iz članka 3. Provedbene uredbe Komisije (EU) br. 680/2014. Te izvještaje kreditna institucija dužna je dostavljati u skladu s pravilima iz poglavlja 3. odjeljka 2. Provedbene uredbe Komisije (EU) br. 680/2014 na način da se ta pravila prilagode nekonsolidiranoj osnovi izvještavanja, a prema Uputi o tehničkim rješenjima za dostavu izvještaja.
+(2) Izvještaji iz stavka 1. ovoga članka dostavljaju se na način iz članka 3. ove Odluke.
