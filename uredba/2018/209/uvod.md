@@ -1,0 +1,1 @@
+Na temelju članka 30. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/11, 119/14 i 93/16) i članka 2. stavka 2. Zakona o računanju vremena (»Narodne novine«, br. 27/93 i 33/96), Vlada Republike Hrvatske je na sjednici održanoj 24. siječnja 2018. godine donijela
