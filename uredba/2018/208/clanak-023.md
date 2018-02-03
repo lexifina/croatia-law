@@ -1,0 +1,3 @@
+# Članak 23.
+Odjel za rizična postrojenja i štete u okolišu obavlja upravne i stručne poslove u vezi sa sanacijom šteta u okolišu, daje suglasnost na dokumentaciju postrojenja koja postupaju s opasnim tvarima, obavlja i druge upravne i stručne poslove u vezi s provedbom aktivnosti koje se odnose na velike nesreće koje uključuju opasne tvari u okolišu i prijetećih opasnosti od šteta, sudjeluje u radu radnih tijela Europske unije iz područja velikih nesreća koje uključuju opasne tvari i Konvenciji o prekograničnim učincima industrijskih nesreća; sudjeluje u obavljanju stručnih poslova usklađivanja zakonodavstva u skladu s propisima, izrađuje mišljenja i upute, te obavlja i druge poslove iz svoga djelokruga.
+3.2. Sektor za održivo gospodarenje otpadom

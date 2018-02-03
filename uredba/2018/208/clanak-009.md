@@ -1,0 +1,3 @@
+# Članak 9.
+Pododsjek za poslove pisarnice i pismohrane obavlja stručne i administrativne poslove vezane za primitak pismena i drugih pošiljki, otvaranje i pregled pošiljki, razvrstavanje i raspoređivanje pismena, upisivanje pismena u propisane evidencije uredskog poslovanja, otpremanje akata, razvođenje spisa predmeta, odlaganje, sređivanje, zaštitu i čuvanje arhivske i registraturne građe, odabir i izlučivanje građe, sudjeluje u pripremi općih i pojedinačnih akata iz svoga djelokruga, predlaže mjere za ujednačavanje i standardiziranje procesa rada iz svoga djelokruga, te obavlja i druge poslove iz svoga djelokruga.
+2.2. Sektor za planiranje, financije i proračun
