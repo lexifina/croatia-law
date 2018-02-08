@@ -1,0 +1,2 @@
+# Članak 1.
+Ovom Odlukom utvrđuju se terapijski i dijagnostički postupci za koje u skladu sa zakonom kojim se uređuje obvezno zdravstveno osiguranje postoji obveza sudjelovanja osigurane osobe Hrvatskog zavoda za zdravstveno osiguranje (u daljnjem tekstu: Zavod) u visini od 0,30% proračunske osnovice za zdravstvenu zaštitu pruženu kod izabranog doktora primarne zdravstvene zaštite: obiteljske (opće) medicine, ginekologije i dentalne medicine (u daljnjem tekstu: izabrani doktor).

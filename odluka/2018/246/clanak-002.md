@@ -1,0 +1,3 @@
+# Članak 2.
+(1) Sudjelovanje u iznosu utvrđenom u članku 1. ove Odluke osigurana osoba plaća za zdravstvenu zaštitu pruženu u ordinaciji izabranog doktora neovisno da li joj je potonja pružena primjenom jednog ili više postupaka utvrđenih popisom terapijskih i dijagnostičkih postupaka iz članka 3. ove Odluke.
+(2) Iznimno, osigurana osoba koja je nakon pružene zdravstvene zaštite iz stavka 1. ovoga članka bila primorana istoga dana zatražiti zdravstvenu uslugu u ordinaciji izabranog doktora zbog pogoršanja stanja ili nastanka komplikacija vezano uz istu dijagnozu bolesti nije obvezna ponovno sudjelovati za pruženu zdravstvenu zaštitu u iznosu utvrđenom u članku 1. ove Odluke.
