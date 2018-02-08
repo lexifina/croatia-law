@@ -1,0 +1,3 @@
+# Članak 22.
+U slučaju kada su istovremeno ispunjeni uvjeti za ostvarivanje prava na jednokratnu novčanu pomoć po osnovi više situacija iz članka 118. stavka 1. Zakona, pravo na jednokratnu novčanu pomoć može se ostvariti samo po osnovi jedne situacije po kojoj bi iznos jednokratne novčane pomoći bio viši.
+Iznimno, u slučaj kada su istovremeno ispunjeni uvjeti za ostvarivanje prava na jednokratnu novčanu pomoć po situaciji iz članka 118. stavka 1. Zakona točke d) i po još jednoj situaciji iz članka 118. stavka 1. točke a) ili b) ili c) ili e) Zakona, pravo na jednokratnu novčanu pomoć može se priznati po obje situacije, ali ukupan iznos jednokratne novčane pomoći ne može biti viši od iznosa jedne proračunske osnovice.
