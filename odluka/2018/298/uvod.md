@@ -1,0 +1,1 @@
+Na temelju članka 56. Zakona o prijevozu opasnih tvari (»Narodne novine«, br. 79/07 i 70/17) i članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/11, 119/14 i 93/16), Vlada Republike Hrvatske je na sjednici održanoj 8. veljače 2018. godine donijela
