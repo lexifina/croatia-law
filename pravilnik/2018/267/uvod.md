@@ -1,0 +1,1 @@
+Na temelju članka 13., članka 28. stavka 2., članka 29. stavaka 6. i 8., članka 30. stavka 3. i članka 33. stavka 6. Zakona o morskom ribarstvu (»Narodne novine«, br. 62/17.) ministar poljoprivrede donosi
