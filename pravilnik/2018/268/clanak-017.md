@@ -1,0 +1,5 @@
+# Članak 17.
+(1) Iznimno od uvjeta određenih u članku 108. stavku 1. Zakona, osobe iz članka 107. Zakona koji su bili korisnici prava na zajamčenu minimalnu naknadu, pravo na naknadu za nezaposlene mogu ostvariti pod uvjetom da u roku od mjesec dana od izvršnosti rješenja kojim im je na njihov zahtjev utvrđen prestanak prava na zajamčenu minimalnu naknadu, podnesu zahtjev za naknadu za nezaposlene.
+(2) U slučaju iz stavka 1. ovoga članka donosi se privremeno rješenje kojim se pravo na naknadu za nezaposlene priznaje od dana prestanka prava na zajamčenu minimalnu naknadu (u daljnjem tekstu: privremena naknada za nezaposlene).
+(3) Privremeno rješenje iz stavka 2. ovoga članka ukinut će se rješenjem kojim će se odlučiti o pravu na naknadu za nezaposlene ovisno o uvjetima iz članka 108. stavka 1. Zakona, a sukladno ovom Pravilniku.
+(4) Rješenje iz stavka 3. ovoga članka kojim se ukida privremeno rješenje iz stavka 2. ovoga članka i odlučuje o pravu na naknadu za nezaposlene ovisno o uvjetima iz članka 108. stavka 1. Zakona mora se donijeti najkasnije u roku od godinu dana od dana izvršnosti privremenog rješenja iz stavka 2. ovoga članka.
