@@ -1,0 +1,7 @@
+## POGLAVLJE VI. PREKRŠAJNE ODREDBE
+# Članak 17.
+(1) Ako je počinitelj prekršaja, u smislu zakona kojim se uređuje računovodstvo poduzetnika, matično društvo ili ovisno društvo matičnog društva koje ima obvezu izrade konsolidiranih financijskih izvještaja, prihod i ukupni prihod iz članka 3. stavka 1. točaka 5. i 6. ovoga Zakona određuju se na temelju konsolidiranih financijskih izvještaja koje je odobrilo upravljačko tijelo krajnjeg matičnog društva, pri čemu će se prihod iz članka 3. stavka 1. točke 6. utvrđivati iz ostvarenog prihoda od obavljanja djelatnosti koje su regulirane Uredbom (EU) 2015/2365 na razini konsolidiranih financijskih izvještaja grupe.
+(2) Ako se za određivanja iznosa novčane kazne koristi prihod, sud može odrediti visinu kazne u iznosu do najviše 100 % ostvarenog prihoda počinitelja prekršaja, pri čemu tako određena visina kazne ne smije biti veća od 10 % ukupnog prihoda počinitelja prekršaja.
+(3) Ograničenje iz stavka 2. ovoga članka na odgovarajući način primjenjuje se i u slučaju iz stavka 1. ovoga članka.
+(4) Ako godišnji financijski izvještaji za godinu u kojoj je počinjen prekršaj nisu dostupni u trenutku izricanja novčane kazne, za osnovicu izračuna visine kazne za prekršaje iz članaka 18. ovoga Zakona primijenit će se posljednja godišnja financijska izvješća koja su prethodila toj godini.
+(5) Nadležna tijela iz članka 4. ovoga Zakona pri određivanju vrste i razine administrativnih sankcija i drugih administrativnih mjera uzimaju u obzir i okolnosti određene odredbama članka 23. Uredbe (EU) 2015/2365.

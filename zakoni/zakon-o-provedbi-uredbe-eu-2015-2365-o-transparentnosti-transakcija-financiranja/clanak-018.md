@@ -1,0 +1,16 @@
+## Prekršaji druge ugovorne strane
+# Članak 18.
+(1) Za prekršaj kaznit će se pravna osoba – druga ugovorna strana novčanom kaznom u iznosu koji je višekratnik broja 1000, a koja ne može biti manja od 1 % ni veća od 10 % ukupnog prihoda ostvarenog u godini kada je počinjen prekršaj, utvrđenog financijskim izvještajima za tu godinu ako:
+1. ponovo upotrebljava financijske instrumente koje je primila kao kolateral, a nije propisno u pisanom obliku drugu ugovornu stranu koja daje kolateral obavijestila o rizicima i posljedicama sukladno članku 15. stavku 1. točki a. Uredbe (EU) 2015/2365
+2. ponovo upotrebljava financijske instrumente koje je primila kao kolateral, bez prethodne izričite suglasnosti druge ugovorne strane koja daje kolateral sukladno članku 15. stavku 1. točki b. Uredbe (EU) 2015/2365
+3. ponovo upotrebljava financijske instrumente koje je primila kao kolateral suprotno ugovoru o kolateralu iz članka 15. stavka 1. točke b. Uredbe (EU) 2015/2365, što predstavlja postupanje suprotno odredbi članka 15. stavka 2. točke a. Uredbe (EU) 2015/2365
+4. ne dostavlja trgovinskom repozitoriju propisane pojedinosti o sklopljenoj transakciji financiranja vrijednosnih papira, kao i svaku izmjenu i prekid takve transakcije u roku određenom u članku 4. stavku 1. Uredbe (EU) 2015/2365
+5. financijska druga ugovorna strana sustavno ne izvještava trgovinski repozitorij u ime nefinancijske druge ugovorne strane sukladno članku 4. stavku 3. Uredbe (EU) 2015/2365
+6. ne čuva propisane pojedinosti o sklopljenim, izmijenjenim ili prekinutim transakcijama financiranja vrijednosnih papira u roku propisanom člankom 4. stavkom 4. Uredbe (EU) 2015/2365
+7. ne osigura ESMA-i dostavu propisanih pojedinosti o transakcijama financiranja vrijednosnih papira koje je sklopila, u slučaju da trgovinski repozitorij nije dostupan evidentirati te pojedinosti sukladno članku 4. stavku 5. Uredbe (EU) 2015/2365
+8. su financijski instrumenti koje primi u okviru ugovora o kolateralu preneseni na bilo koji drugi način, a ne s računa druge ugovorne strane koja daje kolateral, što predstavlja postupanje suprotno odredbi članka 15. stavka 2. točke b. Uredbe (EU) 2015/2365
+9. ne postupi u skladu s rješenjem o nadzornim mjerama Agencije, izrečenim sukladno odredbama članka 12. ovoga Zakona
+10. ne postupi u skladu s rješenjem o nadzornim mjerama HNB-a, izrečenim sukladno odredbama članka 13. ovoga Zakona.
+(2) Iznimno od stavka 1. ovoga članka, u slučaju da je druga ugovorna strana prekršajem iz stavka 1. ovoga članka ostvarila korist ili spriječila gubitak, a iznos tako ostvarene koristi ili spriječenog gubitka je moguće utvrditi, ona će se kazniti za prekršaj novčanom kaznom u iznosu trostruko utvrđenog iznosa tako ostvarene koristi, odnosno tako spriječenog gubitka, ako je taj iznos veći od propisanog najvećeg iznosa novčane kazne iz stavaka 1. ovoga članka.
+(3) Za prekršaje iz stavka 1. ovoga članka kaznit će se i odgovorna osoba druge ugovorne strane novčanom kaznom u iznosu od 100.000,00 kuna do 40.000.000,00 kuna.
+(4) Za prekršaje iz stavka 1. ovoga članka, ako je druga ugovorna strana fizička osoba, kaznit će se počinitelj prekršaja novčanom kaznom u iznosu koji je višekratnik broja 1000, a koja ne može biti manja od 100.000,00 kuna ni veća od 40.000.000,00 kuna.
