@@ -1,0 +1,1 @@
+Na temelju članka 80. stavka 4. točke 2. Zakona o pomorskom dobru i morskim lukama (»Narodne novine«, br. 158/03, 100/04, 141/06, 38/09, 123/11 - Odluka Ustavnog suda Republike Hrvatske i 56/16), Vlada Republike Hrvatske je na sjednici održanoj 15. veljače 2018. godine donijela
