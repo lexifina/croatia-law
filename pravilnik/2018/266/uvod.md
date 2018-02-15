@@ -1,0 +1,1 @@
+Na temelju članka 492.a stavka 5. Zakona o parničnom postupku (»Narodne novine«, broj 53/91., 91/92., 58/93., 112/99., 88/01., 117/03., 88/05., 02/07., 84/08., 123/08., 57/11., 148/11., 25/13. i 89/14.), ministar pravosuđa donosi

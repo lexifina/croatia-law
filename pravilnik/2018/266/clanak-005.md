@@ -1,0 +1,9 @@
+## Značenje pojedinih pojmova
+# Članak 5.
+Pojedini pojmovi upotrijebljeni u ovome Pravilniku imaju ova značenja:
+1. informacijski sustav je poslužno mjesto (usluge.pravosudje.hr) sustava eSpis,
+2. eSpis je jedinstveni informacijski sustav za upravljanje i rad na sudskim predmetima koji se sastoji od standardne aplikacije, računalne i telekomunikacijske opreme i infrastrukture, sistemske programske opreme i alata te svih podataka koji se tim sustavom unose, pohranjuju i prenose iz svih vrsta upisnika na općinskim, županijskim te trgovačkim sudovima, Visokom trgovačkom sudu Republike Hrvatske i Vrhovnom sudu Republike Hrvatske,
+3. siguran elektronički poštanski pretinac je pretinac elektroničke pošte pod nadzorom administratora sustava,
+4. napredni elektronički potpis znači potpis koji je na nedvojben način povezan s potpisnikom (fizičkom osobom), omogućava identificiranje potpisnika, izrađen je korištenjem podataka za izradu elektroničkog potpisa koje potpisnik može uz visoku razinu pouzdanja koristiti pod svojom isključivom kontrolom i povezan je s njime potpisanim podacima na način da se može otkriti bilo koja naknadna izmjena podataka,
+5. kvalificirani elektronički potpis znači napredan elektronički potpis koji je izrađen pomoću kvalificiranih sredstava za izradu elektroničkog potpisa i temelji se na kvalificiranom certifikatu za elektroničke potpise,
+6. kvalificirani vremenski žig znači elektronički vremenski žig koji povezuje datum i vrijeme s podacima na način kojim se u razumnoj mjeri isključuje mogućnost nezapažene promjene podataka, temelji se na izvoru točnog vremena povezanom s koordiniranim svjetskim vremenom i potpisan je pomoću naprednog elektroničkog potpisa ili pečaćen pomoću naprednog elektroničkog pečata kvalificiranog pružatelja usluga povjerenja ili jednakovrijednom metodom.
