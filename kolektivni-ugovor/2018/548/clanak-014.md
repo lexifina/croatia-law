@@ -1,0 +1,2 @@
+# Članak 14.
+U članku 56. stavku 3. riječi »u jednom smjeru« brišu se, a iza stavka 4. dodaje se novi stavak 5. koji glasi: »Svaku promjenu boravišta ili prebivališta radnik je dužan bez odlaganja prijaviti poslodavcu, kako bi se ugovorom o radu regulirali troškovi prijevoza, a eventualno povećanje naknade troškova prijevoza može se posebno ugovoriti, ukoliko je to ugovornim stranama prihvatljivo.«.
