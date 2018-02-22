@@ -1,0 +1,7 @@
+## Hitne mjere
+# Članak 22.
+(1) Ministar naredbom određuje mjere postupanja radi sprječavanja unošenja ili širenja strane vrste na područje Republike Hrvatske ili u ekosustave u kojem ona prirodno ne obitava, a posebno invazivne strane vrste koja izaziva zabrinutost u Uniji i/ili invazivne strane vrste koja izaziva zabrinutost u Republici Hrvatskoj, kao i mjere njezina uklanjanja ili iskorjenjivanja.
+(2) Ministar naredbom o uvođenju hitnih mjera određuje primjenu bilo kojih ograničenja za invazivnu stranu vrstu koja nije na Unijinu popisu, sukladno odredbi članka 10. Uredbe (EU) 1143/2014.
+(3) Ministar naredbom o uklanjanju određuje iskorjenjivanje invazivne strane vrste koja izaziva zabrinutost u Uniji u ranoj fazi invazije, sukladno odredbi članka 17. Uredbe (EU) 1143/2014.
+(4) Troškove uklanjanja iz stavka 3. ovoga članka snosi fizička ili pravna osoba koja je prouzročila širenje invazivne strane vrste, odnosno u slučaju kada tu osobu nije moguće utvrditi ili kada se radi o spontanom širenju populacije invazivne strane vrste, troškovi uklanjanja osiguravaju se u državnom proračunu.
+(5) Ministarstvo može rješenjem po službenoj dužnosti odrediti mjere radi sprječavanja unošenja ili širenja te uklanjanja strane vrste na području Republike Hrvatske ili u ekosustavima u kojem ona prirodno ne obitava, a posebno invazivne strane vrste koja izaziva zabrinutost u Uniji i/ili invazivne strane vrste koja izaziva zabrinutost u Republici Hrvatskoj.

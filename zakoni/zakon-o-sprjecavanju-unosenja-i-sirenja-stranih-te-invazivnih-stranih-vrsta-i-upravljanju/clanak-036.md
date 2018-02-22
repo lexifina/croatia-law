@@ -1,0 +1,5 @@
+## Premještanje unutar Unije i Republike Hrvatske
+# Članak 36.
+(1) Svaku robu koja je i/ili sadržava invazivnu stranu vrstu koja izaziva zabrinutost u Uniji, a koja se otprema u drugu državu članicu ili se doprema iz druge države članice u Republiku Hrvatsku ili koja se premješta unutar Republike Hrvatske, osim važećeg dopuštenja države članice iz članka 8. stavka 1. ili članka 9. stavka 1. Uredbe (EU) br. 1143/2014, mora pratiti i odgovarajuća važeća potvrda iz članka 8. stavka 6. Uredbe (EU) br. 1143/2014 koju je izdalo nadležno tijelo.
+(2) Svaku robu koja je i/ili sadržava invazivnu stranu vrstu koja izaziva zabrinutost u Republici Hrvatskoj, a koja se doprema iz druge države članice u Republiku Hrvatsku ili koja se premješta unutar Republike Hrvatske, mora pratiti i odgovarajuće važeće dopuštenje iz članka 10. stavka 4. ovoga Zakona.
+(3) Ako je roba iz stavaka 1. i 2. ovoga članka u suprotnosti s odredbama Uredbe (EU) br. 1143/2014 i/ili odredbama ovoga Zakona, nadležna tijela iz članka 41. ovoga Zakona postupaju sukladno propisima kojima su uređeni njihov djelokrug i ovlasti te odredbama ovoga Zakona.

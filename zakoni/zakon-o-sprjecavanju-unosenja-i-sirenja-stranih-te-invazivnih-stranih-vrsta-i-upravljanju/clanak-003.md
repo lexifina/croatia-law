@@ -1,0 +1,9 @@
+## Iznimke na koje se ne primjenjuje Zakon
+# Članak 3.
+(1) Odredbe ovoga Zakona u dijelu koji se odnosi na obvezu ishođenja dopuštenja iz članka 12. stavka 1., članka 14. stavka 1. i članka 17. stavka 1. ovoga Zakona ne primjenjuju se na:
+1. poljoprivredne biljne vrste navedene u Sortnoj listi Republike Hrvatske, biljne vrste navedene u Popisu sorti voćnih vrsta te biljne vrste navedene u Sortnoj listi vinove loze kako ih sve definira Zakon o sjemenu, sadnom materijalu i priznavanju sorti poljoprivrednog bilja (»Narodne novine«, br. 140/05., 35/08., 55/11. i 14/14.)
+2. životinjske vrste navedene u Popisu pasmina, sojeva i hibrida domaćih životinja kako ga definira Zakon o stočarstvu (»Narodne novine«, br. 70/97., 36/98., 151/03., 132/06., 14/14. i 30/15.)
+3. strane vrste šumskog drveća navedene u Popisu šumskih svojti (»Narodne novine«, br. 4/11.) kako ih definira Zakon o šumskom reprodukcijskom materijalu (»Narodne novine«, br. 75/09., 61/11., 56/13. i 14/14.)
+4. vrste divljači navedene u Zakonu o lovstvu (»Narodne novine«, br. 140/05., 75/09., 14/14., 21/16. – Odluka Ustavnog suda Republike Hrvatske, 41/16 – Odluka Ustavnog suda Republike Hrvatske, 67/16 – Odluka Ustavnog suda Republike Hrvatske i 62/17), osim invazivnih stranih vrsta koje izazivaju zabrinutost u Uniji, ako se njihovo korištenje provodi sukladno planovima gospodarenja za koje su ishođeni uvjeti zaštite prirode ili provedena ocjena prihvatljivosti za ekološku mrežu sukladno posebnom propisu kojim se uređuje zaštita prirode
+5. vrste koje su na popise iz točaka 1. do 4. ovoga stavka dodane nakon dana stupanja na snagu ovoga Zakona, a pod uvjetom da je sukladno odredbama ovoga Zakona za te vrste provedena procjena kojom je utvrđeno nepostojanje ekološkog rizika.
+(2) Odredbe ovoga Zakona ne primjenjuju se na genetski modificirane organizme kako su definirani posebnim propisom kojim se uređuje postupanje s genetski modificiranim organizmima.

@@ -1,0 +1,9 @@
+## III. POSTUPANJE SA STRANIM VRSTAMA U REPUBLICI HRVATSKOJ
+## Prevencija i ograničenja
+# Članak 9.
+(1) Zabranjeno je uvođenje stranih vrsta u prirodu i/ili u ekosustave u kojima prirodno ne obitavaju, uzgoj stranih vrsta i njihovo stavljanje na tržište Republike Hrvatske.
+(2) Iznimno od stavka 1. ovoga članka, dopušteno je uvođenje stranih vrsta u prirodu i/ili u ekosustave u kojima prirodno ne obitavaju, uzgoj stranih vrsta i njihovo stavljanje na tržište Republike Hrvatske ako ne predstavljaju opasnost za bioraznolikost, usluge ekosustava i/ili zdravlje ljudi, uzimajući u obzir i mogući štetni utjecaj na gospodarstvo kao pogoršavajući čimbenik, što se utvrđuje u postupku ishođenja dopuštenja iz članka 12. stavka 1., članka 14. stavka 1. i članka 17. stavka 1. ovoga Zakona.
+(3) Za stavljanje na tržište Republike Hrvatske i/ili uzgoj u kontroliranim uvjetima strane vrste koja je navedena na bijeloj listi te uvođenje u prirodu Republike Hrvatske strane vrste koja je na bijeloj listi označena kao vrsta koja se može uvoditi u prirodu, nije potrebno ishoditi dopuštenje Ministarstva.
+(4) Posjednik strane vrste dužan je spriječiti bijeg i/ili svako neovlašteno uvođenje strane vrste u prirodu te je odgovoran za štetu koju prouzroči ako do toga dođe, kao i za troškove njezina uklanjanja iz prirode i troškove obnove, po načelu objektivne odgovornosti.
+(5) Bijeg i/ili svako neovlašteno uvođenje strane vrste u prirodu smatra se oštećenjem prirode ako se utvrde štetne posljedice za prirodu.
+(6) Crnu listu, bijelu listu te popis invazivnih stranih vrsta koje zahtijevaju pojačanu regionalnu suradnju, kriterije za uvrštavanje strane vrste na ove popise, provođenje revizije i ažuriranja popisa te druga pravila postupanja proizašla iz Uredbe (EU) br. 1143/2014 i odgovarajućih provedbenih uredbi, uz prethodno mišljenje čelnika središnjeg tijela državne uprave nadležnog za poljoprivredu, šumarstvo, lovstvo i ribarstvo, propisuje ministar pravilnikom.

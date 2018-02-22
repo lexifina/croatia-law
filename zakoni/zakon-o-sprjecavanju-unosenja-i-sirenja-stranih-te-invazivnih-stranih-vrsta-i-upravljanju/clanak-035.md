@@ -1,0 +1,4 @@
+# Članak 35.
+(1) Invazivna strana vrsta koja izaziva zabrinutost u Uniji, koja se unosi iz trećih zemalja i namijenjena je za svrhe iz članka 8. stavka 1. ili članka 9. stavka 1. Uredbe (EU) br. 1143/2014, podliježe obveznoj službenoj kontroli i mora je, osim važećeg dopuštenja države članice iz članka 8. stavka 1. ili članka 9. stavka 1. Uredbe (EU) br. 1143/2014, pratiti i odgovarajuća važeća potvrda iz članka 8. stavka 6. Uredbe (EU) br. 1143/2014 koju je izdalo nadležno tijelo.
+(2) Invazivna strana vrsta koja izaziva zabrinutost u Republici Hrvatskoj koja se unosi iz trećih zemalja podliježe obveznoj službenoj kontroli i mora je pratiti važeće dopuštenje iz članka 10. stavka 4. ovoga Zakona.
+(3) Osoba odgovorna za pošiljku je obvezna predočiti pošiljku iz stavka 1. i stavka 2. ovoga članka radi obavljanja službene kontrole koja može biti dokumentacijska, identifikacijska i prema potrebi fizička, od čega je dokumentacijski pregled obvezan.

@@ -1,0 +1,9 @@
+## Primjena pravne stečevine Unije
+# Članak 2.
+(1) Ovaj Zakon sadržava odredbe koje su u skladu sa:
+1. člankom 22. točkom (b) Direktive Vijeća 92/43/EEZ od 21. svibnja 1992. o očuvanju prirodnih staništa i divlje faune i flore (SL L 206, 22. 7. 1992.), kako je zadnje izmijenjena i dopunjena Direktivom Vijeća 2013/17/EU od 13. svibnja 2013. o prilagodbi određenih direktiva u području okoliša zbog pristupanja Republike Hrvatske (SL L 158, 10. 6. 2013.)
+2. člankom 11. Direktive 2009/147/EZ Europskog parlamenta i Vijeća od 30. studenog 2009. o očuvanju divljih ptica (kodificirana verzija) (SL L 20, 26. 1. 2010.), kako je zadnje izmijenjena i dopunjena Direktivom Vijeća 2013/17/EU od 13. svibnja 2013. o prilagodbi određenih direktiva u području okoliša zbog pristupanja Republike Hrvatske (SL L 158, 10. 6. 2013.).
+(2) Ovim se Zakonom utvrđuje okvir za provedbu odredbi sljedećih uredbi Unije:
+1. Uredbe (EU) br. 1143/2014 Europskog parlamenta i Vijeća od 22. listopada 2014. o sprječavanju i upravljanju unošenja i širenja invazivnih stranih vrsta (SL L 317, 4. 11. 2014.) (u daljnjem tekstu: Uredba (EU) br. 1143/2014)
+2. Provedbene uredbe Komisije (EU) 2016/145 оd 4. veljače 2016. o donošenju formata dokumenta koji služi kao dokaz za dopuštenje koje izdaju nadležna tijela država članica omogućujući ustanovama provedbu određenih aktivnosti u vezi s invazivnim stranim vrstama koje izazivaju zabrinutost u Uniji u skladu s Uredbom (EU) br. 1143/2014 Europskog parlamenta i Vijeća (SL L 30, 5. 2. 2016.) (u daljnjem tekstu: Provedbena uredba Komisije (EU) 2016/145).
+(3) Ovaj se Zakon donosi uzimajući u obzir postupak obavješćivanja na temelju Direktive (EU) 2015/1535 Europskog parlamenta i Vijeća od 9. rujna 2015. o utvrđivanju postupka pružanja informacija u području tehničkih propisa i pravila o uslugama informacijskog društva (SL L 241, 17. 9. 2015.).
