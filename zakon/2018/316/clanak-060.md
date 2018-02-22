@@ -1,0 +1,7 @@
+# Članak 60.
+Članak 107. mijenja se i glasi:
+»(1) Speleološkim objektima, na način propisan ovim Zakonom, upravljaju javne ustanove iz članka 130. ovoga Zakona.
+(2) Javna ustanova koja upravlja nacionalnim parkom ili parkom prirode upravlja speleološkim objektima koji se nalaze na području nacionalnog parka i parka prirode, a može upravljati i drugim speleološkim objektima koji se nalaze na području ekološke mreže temeljem nadležnosti dane odredbom članka 56.a ovoga Zakona.
+(3) Javna ustanova za upravljanje ostalim zaštićenim područjima i/ili drugim zaštićenim dijelovima prirode upravlja speleološkim objektima koji se nalaze na zaštićenim područjima kojima upravljaju i drugim speleološkim objektima koji se nalaze na području jedinice lokalne, područne (regionalne) samouprave sukladno mjesnoj nadležnosti te drugim speleološkim objektima koji se nalaze na području ekološke mreže temeljem nadležnosti dane odredbom članka 56.a ovoga Zakona.
+(4) Upravljanje speleološkim objektom radi posjećivanja ili obavljanja druge djelatnosti u speleološkom objektu, u kojem je to dopušteno sukladno ovom Zakonu, može se povjeriti pravnim ili fizičkim osobama koje su registrirane za obavljanje navedenih djelatnosti na temelju koncesije Ministarstva ili koncesijskog odobrenja nadležne javne ustanove.
+(5) Na pitanja vezana uz koncesije i koncesijska odobrenja za speleološke objekte koja nisu uređena ovim člankom primjenjuju se odredbe članaka od 178. do 193. ovoga Zakona.«.

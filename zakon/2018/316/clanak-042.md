@@ -1,0 +1,15 @@
+# Članak 42.
+Članak 62. mijenja se i glasi:
+»(1) Održivo korištenje zavičajnih divljih vrsta čije se sakupljanje, odnosno uzimanje iz prirode provodi uz primjenu mjera upravljanja i zaštite osigurava se temeljem posebnih propisa iz područja lovstva te ribarstva i akvakulture, kao i planova gospodarenja donesenih na temelju posebnih propisa iz navedenih upravnih područja ili provedbenih propisa donesenih na temelju ovoga Zakona.
+(2) Mjere upravljanja i zaštite zavičajnih divljih vrsta, među ostalim, obuhvaćaju:
+- kontinuirano praćenje stanja očuvanosti,
+- privremenu ili lokalnu zabranu uzimanja primjeraka iz prirode i korištenja određenih populacija,
+- reguliranje razdoblja i/ili metoda uzimanja primjeraka iz prirode,
+- primjenu lovnih i ribolovnih pravila koja vode računa o očuvanju populacija vrsta prilikom uzimanja pojedinih primjeraka iz prirode,
+- uspostavu sustava dopuštenja za uzimanje iz prirode ili određivanje kvota,
+- reguliranje kupnje, prodaje, nuđenja na prodaju, držanja u svrhu prodaje ili prijevoza u svrhu prodaje,
+- uzgajanje u zatočeništvu životinjskih vrsta, kao i umjetno razmnožavanje biljnih vrsta, pod strogo kontroliranim uvjetima, kako bi se smanjilo uzimanje primjeraka iz prirode,
+- procjenu učinka donesenih mjera.
+(3) Središnje tijelo državne uprave nadležno za poslove lovstva, ribarstva i akvakulture osigurava praćenje stanja očuvanosti zavičajne divlje vrste od interesa za Europsku uniju koja je predmet posebnih propisa iz područja lovstva, ribarstva i akvakulture te vodi evidenciju o načinu i količini njezina korištenja i o tome podnosi izvješće Ministarstvu. Izvješće se podnosi svakih šest godina u svrhu izvještavanja Europske komisije, najkasnije do 31. svibnja one godine u kojoj se izvješće dostavlja Europskoj komisiji, osim podataka o korištenju svake pojedine vrste i o njezinoj rasprostranjenosti o čemu se izvješće do navedenog roka podnosi svake godine.
+(4) Popis zavičajnih divljih vrsta čije se sakupljanje, odnosno uzimanje iz prirode provodi uz primjenu mjera upravljanja i zaštite u svrhu njihova održivog korištenja sukladno propisima Europske unije kojima se uređuje očuvanje divljih vrsta ili sukladno međunarodnim ugovorima kojih je Republika Hrvatska stranka s navodom tijela odgovornog za primjenu mjera, praćenje i izvješćivanje za pojedinu vrstu s popisa zavičajnih divljih vrsta, sadržaj programa praćenja stanja očuvanosti te sadržaj izvješća određuje Vlada odlukom. Odluka se objavljuje u »Narodnim novinama«.
+(5) Popis zavičajnih divljih vrsta čije se sakupljanje, odnosno uzimanje iz prirode u svrhu prerade i/ili daljnje prodaje provodi sukladno odredbama ovoga Zakona, a koje nisu predmet posebnih propisa iz područja lovstva te ribarstva i akvakulture, kao i planova ili programa donesenih na temelju posebnih propisa iz navedenih upravnih područja, detaljni sadržaj zahtjeva i uvjete za ishođenje dopuštenja za njihovo uzimanja iz prirode te mjere upravljanja i zaštite, te detaljni sadržaj izvješća propisuje ministar pravilnikom.«.

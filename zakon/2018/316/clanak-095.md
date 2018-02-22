@@ -1,0 +1,19 @@
+# Članak 95.
+Iza članka 204. dodaju se članci 204.a i 204.b koji glase:
+»Članak 204.a
+(1) U svrhu osiguravanja financijskih sredstava za provedbu mjera očuvanja potrebnih za ostvarivanje ciljeva očuvanja područja ekološke mreže, Vlada odlukom na prijedlog Ministarstva donosi Program financiranja područja ekološke mreže (u daljnjem tekstu: Program).
+(2) Program sadrži podatke o područjima ekološke mreže, statusu ciljnih vrsta i stanišnih tipova na tim područjima, pregled pravnih i administrativnih odredbi kojima se osigurava očuvanje područja ekološke mreže, pregled dosadašnjih iskustava u korištenju financijskih instrumenata Europske unije, procjenu potrebnih financijskih sredstava za provedbu mjera očuvanja područja ekološke mreže, strateške prioritete očuvanja tih područja, opis ključnih mjera za ostvarivanje prioriteta, podatke o praćenju (monitoringu), evaluaciji i ažuriranju Programa te druge podatke prema traženju Europske komisije.
+(3) Program se donosi za razdoblje koje se poklapa s financijskim razdobljem Europske unije.
+(4) Program se donosi na obrascu koji je propisala Europska komisija, te se po donošenju dostavlja Europskoj komisiji.
+(5) Iznimno od odredbe stavka 1. ovoga članka, uspostavu i organizaciju praćenja stanja lovnih vrsta kojima se gospodari sukladno posebnom propisu iz područja lovstva i ribolovnih vrsta kojima se gospodari sukladno posebnom propisu iz područja ribarstva i akvakulture, a koje su navedene u odluci iz članka 62. stavka 1. ovoga Zakona, provodi središnje tijelo državne uprave nadležno za poslove lovstva, ribarstva i akvakulture.
+(6) Program iz stavka 1. ovoga članka objavljuje se u »Narodnim novinama«.
+Članak 204.b
+(1) Javne ustanove koje upravljaju nacionalnim parkovima i parkovima prirode obvezne su tri posto prihoda ostvarenih od naplate svake prodane ulaznice i vinjete uplatiti u državni proračun.
+(2) Javne ustanove koje upravljaju nacionalnim parkovima i parkovima prirode, a koje ostvaruju višak prihoda, obvezne su dio viška prihoda iz prethodne proračunske godine, za koje namjena nije unaprijed utvrđena, u iznosu do najviše 10 % uplatiti u državni proračun.
+(3) Javne ustanove koje upravljaju nacionalnim parkovima i parkovima prirode mogu koristiti donacije za koje namjena nije utvrđena na način kako je to propisano uredbom iz stavka 7. ovoga članka.
+(4) Sredstva koja se uplate u državni proračun na temelju stavaka 1. i 2. ovoga članka koriste se za sljedeće aktivnosti:
+- financiranje prioritetnih aktivnosti javnih ustanova koje upravljaju nacionalnim parkovima i parkovima prirode koje je nužno provesti u svrhu zaštite i očuvanja područja kojima upravljaju ili u svrhu unapređenja poslovanja javnih ustanova,
+- podmirivanje rashoda za zajedničke funkcije podrške nacionalnim parkovima i parkovima prirode u pravnim poslovima, javnoj nabavi, promociji i marketingu, pripremi i provedbi projekata, edukaciji i razvoju informacijskog sustava zaštite prirode.
+(5) Prijedlog raspodjele sredstava iz stavaka 1. i 2. ovoga članka za provedbu aktivnosti iz stavka 4. ovoga članka te prijedlog raspodjele sredstava unutar pojedinih aktivnosti iz stavka 3. ovoga članka priprema povjerenstvo.
+(6) Povjerenstvo iz stavka 4. ovoga članka osniva ministar.
+(7) Način i dinamiku uplate sredstava iz stavaka 1. i 2. ovoga članka u državni proračun, način utvrđivanja postotka dijela ostvarenog viška prihoda tekuće godine, za koje namjena nije unaprijed utvrđena, a koji su javne ustanove za upravljanje nacionalnim parkovima i parkovima prirode dužne uplatiti u državni proračun na godišnjoj razini, način utvrđivanja raspodjele sredstava za provedbu aktivnosti iz stavka 4. ovoga članka, sastav i način rada povjerenstva iz stavka 5. ovoga članka, način informiranja javnosti te druga pitanja s tim u vezi, kao i način korištenja donacija iz stavka 3. ovoga članka pobliže uređuje Vlada uredbom.«.

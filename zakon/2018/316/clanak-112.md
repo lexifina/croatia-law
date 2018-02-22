@@ -1,0 +1,5 @@
+# Članak 112.
+(1) Upravno tijelo preuzima poslove iz članka 46. stavka 2. izmijenjenog člankom 27. ovoga Zakona na dan 30. lipnja 2018., a do toga roka te poslove obavlja Ministarstvo.
+(2) Javne ustanove iz članka 130. stavka 2. Zakona o zaštiti prirode (»Narodne novine«, br. 80/13.) preuzimaju poslove iz članka 143. podstavka 2. izmijenjenog člankom 71. ovoga Zakona na dan 30. lipnja 2018., a do toga roka te poslove obavlja Ministarstvo.
+(3) Agencija iz članka 14. izmijenjenog člankom 9. ovoga Zakona i javne ustanove iz članka 130. stavka 2. Zakona o zaštiti prirode (»Narodne novine«, br. 80/13.) uskladit će svoje djelatnosti i opće akte s odredbama ovoga Zakona u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.
+(4) Javne ustanove iz članka 130. stavka 2. Zakona o zaštiti prirode (»Narodne novine«, br. 80/13.), a koje na dan 31. prosinca 2017. imaju kumulirani višak prihoda koji su ostvarile u 2017. godini i prethodnim proračunskim godinama, obvezne su dio tog viška u 2018. godini uplatiti u državni proračun na način i u rokovima koji će biti određeni uredbom iz članka 204.b stavka 7. dodanog člankom 95. ovoga Zakona.

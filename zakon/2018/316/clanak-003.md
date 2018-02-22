@@ -1,0 +1,6 @@
+# Članak 3.
+U članku 6. stavku 2. podstavci 2. i 3. mijenjaju se i glase:
+» - provedbom mjera zaštite prirode, a osobito mjera koje osiguravaju održavanje ili povrat u povoljno stanje očuvanosti, prirodnih stanišnih tipova i divljih vrsta od interesa za Europsku uniju, osim ptica, i njihovih staništa, koje uzimaju u obzir gospodarske, socijalne i kulturne potrebe te regionalne i lokalne karakteristike,«
+» - provedbom mjera koje osiguravaju održavanje ili prilagodbu svih vrsta ptica koje se prirodno pojavljuju na teritoriju Republike Hrvatske, kao i njihovih jaja i gnijezda, te staništa na razini koja odgovara posebnim ekološkim, znanstvenim i kulturološkim zahtjevima, istodobno uzimajući u obzir gospodarske i rekreacijske zahtjeve,«.
+Podstavak 8. mijenja se i glasi:
+» - poticanjem znanstvenog i stručnog rada u području zaštite prirode, uzimajući u obzir prekograničnu suradnju u istraživanju, osobito u svrhu očuvanja obilježja krajobraza iz članka 7. stavka 1. ovoga Zakona i očuvanja područja ekološke mreže iz članka 54. ovoga Zakona, zatim u svrhu očuvanja, upravljanja i održivog korištenja divljih vrsta koje se prirodno pojavljuju na teritoriju Republike Hrvatske, kao i u svrhu provođenja aktivnosti praćenja stanja (monitoringa) iz članka 195. ovoga Zakona,«.
