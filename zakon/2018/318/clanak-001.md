@@ -1,0 +1,9 @@
+# Članak 1.
+U Zakonu o obveznom zdravstvenom osiguranju i zdravstvenoj zaštiti stranaca u Republici Hrvatskoj (»Narodne novine«, br. 80/13.) članak 2. mijenja se i glasi:
+»Ovim se Zakonom u pravni poredak Republike Hrvatske prenose sljedeće direktive Europske unije:
+1. Direktiva Vijeća 2001/55/EZ od 20. srpnja 2001. o minimalnim standardima za dodjelu privremene zaštite u slučaju masovnog priljeva raseljenih osoba te o mjerama za promicanje uravnoteženih napora država članica pri prihvatu i snošenju posljedica prihvata tih osoba (SL L 212, 7. 8. 2001.),
+2. Direktiva 2004/38/EZ Europskog parlamenta i Vijeća od 29. travnja 2004. o pravu građana Unije i članova njihovih obitelji slobodno se kretati i boraviti na državnom području država članica, o izmjeni Uredbe (EEZ) br. 1612/68 i stavljaju izvan snage direktiva 64/221/EEZ, 68/360/EEZ, 72/194/EEZ, 73/148/EEZ, 75/34/EEZ, 75/35/EEZ, 90/364/EEZ, 90/365/EEZ i 93/96/EEZ (tekst značajan za EGP) (SL L 158, 30. 4. 2004.),
+3. Direktiva 2008/115/EZ Europskog parlamenta i Vijeća od 16. prosinca 2008. o zajedničkim standardima i postupcima država članica za vraćanje državljana trećih zemalja s nezakonitim boravkom (SL L 348, 24. 12. 2008.),
+4. Direktiva 2011/95/EU Europskog parlamenta i Vijeća od 13. prosinca 2011. o standardima za kvalifikaciju državljana trećih zemalja ili osoba bez državljanstva za ostvarivanje međunarodne zaštite, za jedinstveni status izbjeglica ili osoba koje ispunjavaju uvjete za supsidijarnu zaštitu te sadržaj odobrene zaštite (SL L 337, 20. 12. 2011.),
+5. Direktiva 2011/24/EU Europskog parlamenta i Vijeća od 9. ožujka 2011. o primjeni prava pacijenata u prekograničnoj zdravstvenoj zaštiti (SL L 88, 4. 4. 2011.) - u daljnjem tekstu: Direktiva 2011/24/EU,
+6. Direktiva 2013/33/EU Europskog parlamenta i Vijeća od 26. lipnja 2013. godine o utvrđivanju standarda za prihvat podnositelja zahtjeva za međunarodnu zaštitu (SL L 180, 29. 6. 2013.).«.
