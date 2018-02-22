@@ -1,0 +1,4 @@
+## PRIJELAZNE I ZAVRŠNE ODREDBE
+# Članak 20.
+U cijelom tekstu Zakona o genetski modificiranim organizmima (»Narodne novine«, br. 70/05., 137/09., 28/13. i 47/14.) riječi: »središnje tijelo državne uprave za poslove zdravlja«, »središnje tijelo državne uprave za zdravlje« i »središnje tijelo državne uprave nadležno za poslove zdravlja« zamjenjuju se s riječima: »središnje tijelo državne uprave nadležno za poslove zdravstva«, u odgovarajućem padežu.
+U cijelom tekstu Zakona o genetski modificiranim organizmima (»Narodne novine«, br. 70/05., 137/09., 28/13. i 47/14.) riječi: »ministar nadležan za zdravlje«, »čelnik nadležnog tijela zdravlja«, »čelnik središnjeg tijela državne uprave nadležnog za zdravlje« i »čelnik središnjeg tijela državne uprave za zdravlje« zamjenjuju se s riječima: »čelnik središnjeg tijela državne uprave nadležnog za poslove zdravstva«, u odgovarajućem padežu.

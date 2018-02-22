@@ -1,0 +1,3 @@
+# Članak 27.
+Davanjem ovlaštenja iz članka 10.a stavka 11. dodanog člankom 8. ovoga Zakona prestaje važiti ovlaštenje doneseno na temelju Pravilnika o uvjetima koje moraju ispunjavati laboratoriji za ispitivanje, kontrolu i praćenje GMO-a i proizvoda koji sadrže i/ili se sastoje ili potječu od GMO-a (»Narodne novine«, br. 26/10.).
+Davanjem ovlaštenja iz članka 10.c stavka 11. dodanog člankom 8. ovoga Zakona prestaje važiti ovlaštenje doneseno na temelju Pravilnika o ovlašćivanju službenih i referentnih laboratorija za genetski modificiranu hranu i genetski modificiranu hranu za životinje i hranu/hranu za životinje koja može sadržavati i/ili se sastojati ili potjecati od genetski modificiranih organizama (»Narodne novine«, br. 2/15.).
