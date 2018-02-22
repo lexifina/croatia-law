@@ -1,0 +1,1 @@
+Na temelju članka 13. podstavka 16. a u svezi članka 7. stavka 1. Zakona o Pravosudnoj akademiji (»Narodne novine«, broj 153/09, 127/10 i 82/15) te članka 19. stavka 1. podstavka 3. Statuta Pravosudne akademije, Upravno vijeće Pravosudne akademije na sjednici održanoj 26. siječnja 2018. godine donijelo je
