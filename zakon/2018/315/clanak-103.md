@@ -1,0 +1,5 @@
+# Članak 103.
+Naslov iznad članka 197. mijenja se i glasi: »Radnje za sprječavanje ili kažnjavanje kršenja i za zaštitu općeg dobra«.
+Članak 197. mijenja se i glasi:
+»(1) Iznimno od odredbi članaka 195. i 196. ovoga Zakona, Hrvatska narodna banka može, u okviru svojih ovlasti iz ovoga Zakona poduzeti radnje za sprječavanje ili kažnjavanje kršenja počinjenih na području Republike Hrvatske, odredbi ovoga Zakona i podzakonskih propisa u koje je prenesena Direktiva 2013/36/EU ili propisa koji su doneseni u svrhu zaštite općeg dobra u Republici Hrvatskoj, a za čiji nadzor je ovlaštena po tim propisima. Te radnje mogu uključivati i sprječavanje podružnice kreditne institucije iz druge države članice da na području Republike Hrvatske sklapa nove pravne poslove.
+(2) Na ukidanje podružnice primjenjuju se na odgovarajući način odredbe članaka 621. do 623. Zakona o trgovačkim društvima o ukidanju trgovačkog društva, a osim Vlade Republike Hrvatske ovlašteni tužitelj je i Hrvatska narodna banka.«.

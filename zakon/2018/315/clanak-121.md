@@ -1,0 +1,5 @@
+# Članak 121.
+Članak 255. mijenja se i glasi:
+»(1) Hrvatska narodna banka kao sanacijsko tijelo donosi odluku o pokretanju prisilne likvidacije kreditne institucije pod uvjetom da je u sanacijskom planu utvrđeno da sanacija te kreditne institucije nije u javnom interesu ili ako Državna agencija za osiguranje štednih uloga i sanaciju banaka kao sanacijsko tijelo odbije prijedlog Hrvatske narodne banke za otvaranje postupka sanacije te kreditne institucije, ako je kreditnoj instituciji ukinuto rješenje kojim je dano odobrenje za rad, a nisu ispunjeni stečajni razlozi iz članka 266. ovoga Zakona.
+(2) U slučaju iz stavka 1. ovoga članka Hrvatska narodna banka istodobno će s donošenjem odluke o poništenju ili ukidanju rješenja kojim je dano odobrenje za rad donijeti i odluku o pokretanju postupka prisilne likvidacije.
+(3) Odluka o pokretanju postupka prisilne likvidacije kreditne institucije mora u izreci sadržavati dan, sat i minutu pokretanja postupka prisilne likvidacije, koji je istodoban s trenutkom donošenja te odluke.«.

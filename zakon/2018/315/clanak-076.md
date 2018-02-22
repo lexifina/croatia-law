@@ -1,0 +1,6 @@
+# Članak 76.
+Članak 162. mijenja se i glasi:
+»(1) Hrvatska narodna banka donijet će podzakonski propis kojim propisuje obvezu, oblik i sadržaj financijskih i drugih izvještaja kreditne institucije za potrebe Hrvatske narodne banke te način i rokove dostavljanja tih izvještaja Hrvatskoj narodnoj banci.
+(2) Hrvatska narodna banka donijet će podzakonski propis kojim propisuje obvezu te pobliže uređuje opseg i sadržaj izvještaja i drugih podataka podružnica kreditnih institucija iz drugih država članica te način i rokove javnog objavljivanja odnosno dostavljanja tih izvještaja i drugih podataka Hrvatskoj narodnoj banci.
+(3) Hrvatska narodna banka donijet će podzakonski propis kojim propisuje obvezu te pobliže uređuje opseg i sadržaj financijskih izvještaja i drugih podataka podružnica kreditnih institucija iz trećih zemalja te način i rokove objavljivanja odnosno dostavljanja tih izvještaja i drugih podataka Hrvatskoj narodnoj banci.
+(4) Kreditna institucija, podružnica kreditne institucije iz druge države članice i podružnica kreditne institucije iz treće zemlje dužne su dostavljati Hrvatskoj narodnoj banci financijska i druga izvješća u obliku, opsegu i sadržaju propisanom podzakonskim propisom donesenim na temelju ovoga članka.«.

@@ -1,0 +1,12 @@
+# Članak 29.
+Članak 65. mijenja se i glasi:
+»(1) Zahtjevu za izdavanje odobrenja za rad potrebno je priložiti dokumentaciju koju će Hrvatska narodna banka propisati podzakonskim propisom iz stavka 7. ovoga članka.
+(2) Uz zahtjev iz stavka 1. ovoga članka prilaže se i:
+- zahtjev za stjecanje kvalificiranog udjela i dokumentacija iz podzakonskog propisa na temelju članka 28. stavka 5. ovoga Zakona
+- zahtjev iz članka 39. stavka 2. i članka 40. ovoga Zakona s prijedlogom predsjednika i članova uprave te dokumentacija iz članka 39. stavka 4. ovoga Zakona i
+- zahtjev iz članka 46. stavka 2. ovoga Zakona s prijedlogom članova nadzornog odbora te dokumentacija iz članka 46. stavka 4. ovoga Zakona.
+(3) Ako kreditna institucija osim bankovnih namjerava pružati i financijske usluge, u zahtjevu za izdavanje odobrenja mora navesti vrste financijskih usluga koje namjerava pružati.
+(4) Kreditna institucija koja namjerava pružati dodatnu financijsku uslugu iz članka 8. stavka 2. točaka 2., 3. i 5. ovoga Zakona dužna je Hrvatskoj narodnoj banci dostaviti dokumentaciju propisanu posebnim zakonom.
+(5) Prije izdavanja odobrenja iz stavka 1. ovoga članka Hrvatska narodna banka savjetovat će se i razmijeniti informacije s nadležnim tijelom države članice, u skladu s člankom 24. stavkom 9. ovoga Zakona, osobito u odnosu na primjerenost stjecatelja kvalificiranog udjela, ugled, odgovarajuće sposobnosti i iskustvo članova uprave i nadzornog odbora u društvima unutar iste grupe.
+(6) Hrvatska narodna banka ovlaštena je, za pravne ili fizičke osobe koje procjenjuje pri odlučivanju o zahtjevu za izdavanje odobrenja za rad, podatke o prekršajnoj osuđivanosti o tome vodi li se protiv tih osoba kazneni ili prekršajni postupak te o tome da te osobe nisu pravomoćno osuđene, podatke o pravomoćnoj osuđivanosti tih osoba za kaznena djela i prekršaje u Republici Hrvatskoj, kao i za kaznena djela u državi članici pribaviti iz kaznene odnosno prekršajne evidencije na temelju obrazloženog zahtjeva ili iz Europskog sustava kaznenih evidencija u skladu sa zakonom kojim se uređuju pravne posljedice osude, kaznena evidencija i rehabilitacija, i to za kaznena djela iz članka 25. stavka 2. ovoga Zakona.
+(7) Hrvatska narodna banka donijet će podzakonski propis kojim će urediti dokumentaciju koja se prilaže zahtjevu za izdavanje odobrenja za rad i zahtjevu za izdavanje odobrenja za pružanje financijskih usluga.«.

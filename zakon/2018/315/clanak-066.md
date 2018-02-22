@@ -1,0 +1,4 @@
+# Članak 66.
+U članku 147. ispred riječi: »Za zaključivanje« dodaje se oznaka stavka koja glasi: »(1)«.
+Iza stavka 1. dodaje se stavak 2. koji glasi:
+»(2) Članica grupe kreditnih institucija u RH za zaključivanje pojedinačnog pravnog posla na temelju kojeg bi ukupna izloženost grupe kreditnih institucija u RH mogla rezultirati velikom izloženošću grupe kreditnih institucija u RH prema jednoj osobi ili grupi povezanih osoba mora dobiti prethodnu suglasnost nadzornog odbora matične kreditne institucija u RH i matične kreditne institucije u EU-u sa sjedištem u RH. Prethodna suglasnost nadzornog odbora potrebna je i za zaključivanje pravnog posla zbog kojeg bi se velika izloženost grupe kreditnih institucija u RH prema jednoj osobi ili grupi povezanih osoba povećala tako da postane jednaka ili da prijeđe 15% odnosno 20% i svakih daljnjih 5% priznatog kapitala grupe kreditnih institucija u RH.«.

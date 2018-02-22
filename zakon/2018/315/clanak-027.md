@@ -1,0 +1,14 @@
+# Članak 27.
+U članku 63. stavku 4. iza riječi: »nastaje nova kreditna institucija« dodaju se riječi: »sa sjedištem u Republici Hrvatskoj ili izvan nje«.
+Iza stavka 10. dodaju se stavci od 11. do 15. koji glase:
+»(11) Kreditna institucija koja se namjerava pripojiti ili spojiti s drugom kreditnom institucijom sa sjedištem u Republici Hrvatskoj ili izvan nje dužna je uz zahtjev iz stavka 2. ili 4. ovoga članka podnijeti obavijest Hrvatskoj narodnoj banci o načinu kako namjerava osigurati zaštitu prava vjerovnika u skladu sa zakonom kojim se uređuju trgovačka društva te o načinu i rokovima obavještavanja deponenata u skladu sa zakonom kojim se uređuje osiguranje depozita.
+(12) Kreditna institucija koja se namjerava pripojiti drugoj kreditnoj instituciji sa sjedištem u drugoj državi članici, a kreditna institucija kojoj će ona biti pripojena nije osnovala podružnicu u Republici Hrvatskoj, dužna je prije provođenja pripajanja, a najkasnije dva mjeseca od objave zajedničkog plana pripajanja:
+1) obavijestiti vjerovnike o pripajanju, kao i o načinu na koji namjerava na području Republike Hrvatske osigurati ispunjenje njihovih tražbina, osim ako je kreditna institucija prije pripajanja podmirila sve svoje obveze prema vjerovnicima iz Republike Hrvatske
+2) obavijestiti dužnike o načinu na koji će primati ispunjenje obveza na području Republike Hrvatske i
+3) obavijestiti Hrvatsku narodnu banku o ispunjenju obveza iz točaka 1. i 2. ovoga stavka.
+(13) Kreditna institucija koja se namjerava spojiti s drugom kreditnom institucijom sa sjedištem u drugoj državi članici, pri čemu će kreditna institucija koja će nastati spajanjem imati sjedište u drugoj državi članici, dužna je prije provođenja spajanja, a najkasnije dva mjeseca od objave zajedničkog plana spajanja:
+1) obavijestiti vjerovnike o spajanju, kao i o načinu na koji namjerava na području Republike Hrvatske osigurati ispunjenje njihovih tražbina, osim ako je kreditna institucija prije spajanja podmirila sve svoje obveze prema vjerovnicima iz Republike Hrvatske
+2) obavijestiti dužnike o načinu na koji će primati ispunjenje obveza na području Republike Hrvatske i
+3) obavijestiti Hrvatsku narodnu banku o ispunjenju obveza iz točaka 1. i 2. ovoga stavka.
+(14) Kreditna institucija iz treće zemlje koja namjerava pripojiti kreditnu instituciju dužna je prije provođenja pripajanja Hrvatskoj narodnoj banci podnijeti zahtjev iz članka 89. stavka 2. ovoga Zakona kako bi se osigurao nastavak poslovanja putem podružnice najmanje godinu dana od dana pripajanja.
+(15) Kreditna institucija iz treće zemlje koja je nastala spajanjem s kreditnom institucijom sa sjedištem u Republici Hrvatskoj dužna je u roku od 15 dana od dana spajanja Hrvatskoj narodnoj banci podnijeti zahtjev iz članka 89. stavka 2. ovoga Zakona kako bi se osigurao nastavak poslovanja putem podružnice najmanje godinu dana od dana spajanja.«.

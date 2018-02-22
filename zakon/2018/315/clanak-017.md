@@ -1,0 +1,6 @@
+# Članak 17.
+Članak 34. mijenja se i glasi:
+»(1) Ako stjecatelj kvalificiranog udjela u roku iz članka 24. stavka 5. ili 6. ovoga Zakona ne stekne dionice kreditne institucije na temelju kojih bi dosegnuo najmanje 10% udjela u kapitalu odnosno glasačkim pravima kreditne institucije ili ako ne ostvari značajan utjecaj, suglasnost se ukida u cijelosti.
+(2) Ako kvalificirani imatelj u roku iz članka 24. stavka 5. ili 6. ovoga Zakona stekne najmanje 10% udjela u kapitalu odnosno glasačkim pravima u kreditnoj instituciji, a u cijelosti ne stekne udio za koji je izdana suglasnost, suglasnost vrijedi samo u dijelu do postotka iz članka 24. stavka 3. ovoga Zakona koji je imatelj ostvario, a ukida se u preostalom dijelu za koji je dobio suglasnost.
+(3) Ako je kvalificirani imatelj u roku iz članka 24. stavka 8. ovoga Zakona smanjio udio ispod visine za koju je dobio prethodnu suglasnost, na snazi ostaje suglasnost u dijelu koji prelazi postotak iz članka 24. stavka 3. ovoga Zakona koji kvalificirani imatelj ima na dan isteka roka.
+(4) Ako je kvalificirani imatelj nakon isteka roka iz članka 24. stavka 5. ili stavka 6. ovoga Zakona smanjio udio ispod visine za koju je dobio prethodnu suglasnost, na snazi ostaje suglasnost u dijelu koji prelazi postotak iz članka 24. stavka 3. ovoga Zakona koji kvalificirani imatelj ima.«.

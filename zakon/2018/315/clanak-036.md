@@ -1,0 +1,10 @@
+# Članak 36.
+U članku 76. stavci 2., 3., 4. i 5. mijenjaju se i glase:
+»(2) Uz obavijest iz stavka 1. ovoga članka matična kreditna institucija dužna je dostaviti:
+1) informacije iz članka 75. stavka 1. ovoga Zakona sa sadržajem i na način iz članka 75. stavka 2. ovoga Zakona
+2) dokumentaciju o ispunjavanju uvjeta iz članka 84. stavka 1. ovoga Zakona
+3) podatak o iznosu i sastavu regulatornog kapitala ili iznosu nekog drugog propisanog oblika kapitala te financijske institucije i ukupni iznos izloženosti riziku, izračunat u skladu s člankom 92. stavcima 3. i 4. Uredbe (EU) br. 575/2013, kreditne institucije koja je njezino matično društvo i
+4) odobrenje nadzornog tijela, ako je to potrebno, za osnivanje podružnice financijske institucije u drugoj državi članici.
+(3) Hrvatska narodna banka može u roku od 30 dana od zaprimanja obavijesti iz stavka 1. ovoga članka tražiti i dodatnu dokumentaciju.
+(4) Hrvatska narodna banka provjerit će najkasnije u roku od 60 dana od dana dostave potpunih i točnih informacija iz stavka 1. ovoga članka ispunjava li financijska institucija uvjete iz članka 84. stavka 1. ovoga Zakona te ako ocijeni da su ispunjeni uvjeti iz članka 84. stavka 1. ovoga Zakona, financijskoj instituciji preko matične kreditne institucije dostavit će potvrdu o ispunjavanju uvjeta, a sve unutar navedenog roka od 60 dana.
+(5) Hrvatska narodna banka će nadležnom tijelu države članice domaćina bez odgađanja, a unutar roka od tri mjeseca od dana dostave potpunih i točnih informacija iz stavka 1. ovoga članka, dostaviti obavijest na način propisan Provedbenom uredbom Komisije (EU) br. 926/2014 i potvrdu o ispunjavanju uvjeta te priložiti podatak o iznosu i sastavu regulatornog ili nekog drugog propisanog oblika kapitala te financijske institucije, iznosu konsolidiranog regulatornog kapitala i iznosu kapitalnih zahtjeva grupe kreditnih institucija u Republici Hrvatskoj (u daljnjem tekstu: grupe kreditnih institucija u RH) kojoj ta financijska institucija pripada, kao i podatak o ukupnom iznosu izloženosti riziku grupe kreditnih institucija, izračunate u skladu s člankom 92. stavcima 3. i 4. Uredbe (EU) br. 575/2013.«.
