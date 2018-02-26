@@ -1,0 +1,5 @@
+# Članak 37.
+Osnovna plaća radnika za puno radno vrijeme i normalni učinak utvrđena na osnovi složenosti poslova radnog mjesta i normalne uvjete rada na tom radnom mjestu, a u skladu s odredbama ovog Ugovora, predstavlja najniži iznos kojega je poslodavac dužan isplatiti radniku.
+Normalnim učinkom smatra se puno izvršenje utvrđene norme, odnosno ostvareni planirani doprinos u radu utvrđen aktom poslodavca ili uobičajenim za obavljanje pojedinih poslova.
+Složenost poslova radnog mjesta u smislu odredbi ovog Ugovora sadrži: značaj radnog mjesta u poslovanju, potreban stupanj obrazovanja za obavljanje poslova radnog mjesta, stupanj odgovornosti radnog mjesta, potrebno radno iskustvo, zahtijevani stupanj kreativnosti i inicijativnosti, kao i ostale psihofizičke osobine potrebne za rad na određenom radnom mjestu.
+Normalni uvjeti rada na pojedinom radnom mjestu su uvjeti koji su u pravilu prisutni tijekom cijelog radnog vremena, koje određuje tehnološki proces i njemu odgovarajuća organizacija rada, odnosno koji su uobičajeni za to radno mjesto.

@@ -1,0 +1,4 @@
+# Članak 38.
+Najniža osnovna plaća za najjednostavnije poslove utvrđuje se počev od 1. rujna 2020. godine u mjesečnom iznosu 4.200,00 kuna.
+U slučaju pogoršanja gospodarske situacije u graditeljstvu koje se definira smanjenjem obujma građevinskih radova u Republici Hrvatskoj u odnosu na prethodni kvartal prema podacima Državnog zavoda za statistiku ili drugih opravdanih razloga, ugovorne strane se obvezuju u roku od 30 dana od prijedloga jedne od strana ugovoriti smanjenje najniže osnovne plaće za najjednostavnije poslove iz stavka 1. ovog članka, koja ne može biti manja od 95% iznosa minimalne plaće utvrđene posebnim propisom.
+Svaka ugovorna strana može podnijeti prijedlog za korekciju najniže osnovne plaće u slučaju porasta troškova života ili inflacije veće od 5% i u drugim opravdanim razlozima, koji je druga ugovorna strana dužna razmotriti i ocijeniti njegovu opravdanost. Postupak pregovaranja mora biti okončan u roku od 30 dana od dana podnijetog prijedloga.

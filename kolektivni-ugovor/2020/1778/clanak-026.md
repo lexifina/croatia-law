@@ -1,0 +1,6 @@
+# Članak 26.
+Zbog naravi posla u djelatnosti graditeljstva puno ili nepuno radno vrijeme preraspodjeljuje se tako da tijekom razdoblja koje ne može biti duže od 12 mjeseci, u jednom razdoblju traje duže, a u drugom razdoblju kraće od punog ili nepunog radnog vremena. Prosječno radno vrijeme tijekom razdoblja koje ne može biti duže od 12 mjeseci, ne smije biti duže od punog ili nepunog radnog vremena.
+Razdoblje u kojem temeljem preraspodjele radno vrijeme traje dulje od punog ili nepunog radnog vremena može trajati najduže 6 mjeseci tijekom razdoblja koje ne može biti duže od 12 mjeseci, s tim da razdoblje od 6 mjeseci ne mora trajati kontinuirano.
+Preraspodijeljeno radno vrijeme radnika ne smije biti duže od 56 sati tjedno, a iznimno 60 sati tjedno zbog sezonskog karaktera posla, pod uvjetom da radnik dostavi pisanu izjavu o dobrovoljnom pristanku na takav rad. Radnik koji ne pristane na rad duži od 48 sati tjedno, ne smije zbog toga trpjeti štetne posljedice.
+Preraspodjela radnog vremena detaljnije se uređuje kolektivnim ugovorom na razini poslodavca ili sporazumom sklopljenim između radničkog vijeća i poslodavca, a sadržava plan preraspodjeljenog radnog vremena s naznakom dijelova poduzeća ili radnih mjesta na koje se odnosi preraspodjela radnog vremena.
+3. Nepuno radno vrijeme
