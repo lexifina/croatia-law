@@ -1,0 +1,5 @@
+# Članak 94.
+Ovaj Ugovor sklapa se na neodređeno vrijeme.
+Novacija Kolektivnog ugovora i prilagođavanje uvjetima gospodarenja u pravilu će se provoditi svake dvije godine.
+Novacija iz stavka 2. neće se provesti prije nego protekne 18 mjeseci od stupanja na snagu ovog ugovora, osim ako se prije ne steknu posebne okolnosti predviđene ovim ugovorom.
+Iznimno od stavka 2. i 3. ovog članka, stranke ovog Ugovora su suglasne otvoriti kolektivne pregovore o utvrđivanju visina osnovnih plaća i to najkasnije do 1. svibnja 2023. godine.
