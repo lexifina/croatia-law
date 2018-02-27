@@ -1,0 +1,24 @@
+O b r a z l o ž e n j e
+1. Dražen Aničić iz Zagreba (u daljnjem tekstu: predlagatelj) podnio je 13. prosinca 2012. na temelju članka 38. stavka 1. Ustavnog zakona o Ustavnom sudu Republike Hrvatske ("Narodne novine" broj 99/99., 29/02. i 49/02. - pročišćeni tekst; u daljnjem tekstu: Ustavni zakon) prijedlog za pokretanje postupka za ocjenu suglasnosti s Ustavom i zakonom Odluke o visini tarifnih stavki u Tarifnom sustavu za opskrbu prirodnim plinom, s iznimkom povlaštenih kupaca, bez visine tarifnih stavki ("Narodne novine" broj 49/12.) u dijelu "TARIFNE STAVKE - Ts" stupac 4 iz Tablice 1, Prilog 1. (u daljnjem tekstu: osporena Odluka).
+1.1. Osporenu Odluku donijela je Vlada Republike Hrvatske na sjednici održanoj 27. travnja 2012. na temelju članka 28. stavka 2. Zakona o energiji ("Narodne novine" broj 68/01., 177/04., 76/07., 152/08. i 127/10.).
+2. Istodobno predlagatelj je podnio i prijedlog za pokretanje postupka za ocjenu suglasnosti s Ustavom i zakonom Odluke o visini tarifnih stavki u Tarifnom sustavu za distribuciju prirodnog plina, bez visine tarifnih stavki ("Narodne novine" broj 49/12.), koji predmet se vodi pod brojem U-II-6259/2012.
+2.1. Predlagatelj je u dopunama od 20. rujna 2013., 29. studenoga 2013., 3. siječnja 2014. i 1. travnja 2014. proširio prijedlog za pokretanje postupka za ocjenu suglasnosti s Ustavom i zakonom i na:
+- članke 8. stavak 1. redak Ts2 i stavak 2. Tablice Tarifnih stavki stupac TS2 (kn), 9., 10. stavak 2., 18. stavke 3. i 4., 24. i Prilog 1. tablica 1. fiksna mjesečna naknada Ts2 (kn) i tablica 2. Napomena ispod tablice Metodologije utvrđivanja iznosa tarifnih stavki za distribuciju plina ("Narodnim novinama" broj 104/13.),
+- članke 4. stavak 2. točku 4., 73. stavke 1., 4., 5. i 9. i Prilog 3. članak 5. stavak 2. Mrežnih pravila plinskog distribucijskog sustava ("Narodne novine" broj 158/13.),
+- Odluku o iznosu tarifnih stavki za distribuciju plina ("Narodne novine" broj 158/13.) u dijelu fiksna mjesečna naknada Ts2 (kn) u svim tablicama i Napomena ispod tablice u Prilogu 1. i
+- članke 8. stavak 1. u dijelu fiksne mjesečne naknade, Ts2 i stavak 2. Tablica tarifnih stavki, stupac Ts2 (kn), 9., 10. stavak 2., 17. stavci 3. i 4., Prilog 1. tablica 1. fiksna mjesečna naknada Ts 2 (kn) i Napomena ispod tablice, Prilog 2, tablica fiksna mjesečna naknada Ts2 (kn) za pojedine energetske subjekte i Napomena ispod svih tablica za pojedine energetske subjekte Metodologije Utvrđivanja iznosa tarifnih stavki za javnu uslugu opskrbe plinom i zajamčenu opskrbu ("Narodne novine" broj 38/14.).
+Navedene dopune izdvojene su u predmet koji se vodi pod brojem U-II-361/2018.
+Ustavni sud nije nadležan za odlučivanje.
+3. Na temelju članka 125. alineje 2. Ustava, Ustavni sud nadležan je za odlučivanje o suglasnosti drugih propisa s Ustavom i zakonom.
+Članak 125. alineja 2. Ustava glasi:
+"Članak 125.
+Ustavni sud Republike Hrvatske:
+(...)
+- odlučuje o suglasnosti drugih propisa s Ustavom i zakonom,
+(...)"
+Pod "drugim propisom", u smislu članka 125. alineje 2. Ustava, razumijeva se eksterni općenormativni i pravno obvezujući akt koji je donijelo tijelo državne vlasti radi uređenja pojedinih pitanja, izvršenja i/ili provedbe zakona, odnosno provedbe drugog propisa više pravne snage, koji uređuje odnose na općenit način i koji djeluje prema svima koji se nađu u pravnoj situaciji da se na njih dotični akt ima primijeniti. Sukladno tome, temeljna materijalna obilježja "drugog propisa" u smislu članka 125. alineje 2. Ustava jesu njegova apstraktnost i generalnost.
+Primjenjujući navedene kriterije na konkretan slučaj, Ustavni sud ocijenio je da osporena Odluka nije drugi propis u smislu članka 125. alineje 2. Ustava.
+4. Članak 32. Ustavnog zakona glasi:
+"Članak 32.
+Ustavni sud će rješenjem odbaciti ... prijedlog ... ako nije nadležan za odlučivanje..."
+5. Utvrdivši da osporena Odluka nije drugi propis koji bi mogao biti predmet ocjene suglasnosti s Ustavom i zakonom u smislu članka 125. alineje 2. Ustava, na temelju članka 32. Ustavnog zakona riješeno je kao u izreci.
