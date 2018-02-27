@@ -1,0 +1,20 @@
+O b r a z l o ž e n j e
+1. Goran Vojković iz Ivanić-Grada (u daljnjem tekstu: predlagatelj) podnio je 2. srpnja 2010. Ustavnom sudu prijedlog za pokretanje postupka za ocjenu suglasnosti s Ustavom članka 118.a Zakona o pomorskom dobru i morskim lukama ("Narodne novine" broj 158/03., 141/06. i 38/09.; u daljnjem tekstu: ZoPDiML).
+Nakon podnošenja prijedloga ZoPDiML je mijenjan jednom i to Zakonom o izmjenama Zakona o pomorskom dobru i morskim lukama objavljenim u "Narodnim novinama" broj 56 od 17. lipnja 2016., pri čemu osporeni članak 118.a ZoPDiML-a nije mijenjan.
+2. Predlagatelj smatra da članak 118.a ZoPDiML-a nije u suglasnosti s člankom 50. stavkom 1. Ustava Republike Hrvatske. Tako navodi:
+"Čl. 118.a Zakona o pomorskom dobru i morskim lukama ne poštuje odredbu čl. 50. st. 1. Ustava Republike Hrvatske, već proglašava vlasništvo Republike Hrvatske nad lučkim dizalicama bez propisivanja naknade tržišne vrijednosti, odnosno rješavanja tog pitanja sukladno propisima o izvlaštenju. Negdašnji vlasnik dizalice istina može postati ovlaštenik koncesije i istu nastaviti koristiti, ali takvo pravo, koje nije bezuvjetno, koje se ne mora obvezno realizirati s negdašnjim vlasnikom, koje je ograničenog trajanja i općenito pod jakim utjecajem javnog prava (koncesijski odnos!), ni u kom slučaju se ne može smatrati naknadom tržišne vrijednosti kako to propisuje Ustav Republike Hrvatske za slučajeve oduzimanja vlasništava."
+3. Članak 118.a ZoPDiML-a glasi:
+"Članak 118.a
+(1) Sve lučke dizalice koje su stalno učvršćene na lučko područje u lukama otvorenim za javni promet, odnosno u lukama posebne namjene, do stupanja na snagu ovog Zakona postaju vlasništvo Republike Hrvatske.
+(2) Republika Hrvatska prenosi na upravljanje sve dizalice na lučkom području u lukama otvorenim za javni promet nadležnoj lučkoj upravi koja ih daje na korištenje ovlašteniku koncesije prema uvjetima iz ugovora o koncesiji.
+(3) Republika Hrvatska prenosi na korištenje sve dizalice u lukama posebne namjene ovlaštenicima koncesije prema uvjetima iz ugovora o koncesiji."
+Ne postoje pretpostavke za odlučivanje o biti stvari.
+4. Člankom 38. stavkom 1. Ustavnog zakona o Ustavnom sudu Republike Hrvatske ("Narodne novine" broj 99/99., 29/02. i 49/02. - pročišćeni tekst; u daljnjem tekstu: Ustavni zakon) propisano je:
+"Članak 38.
+Svaka fizička i pravna osoba ima pravo predložiti pokretanje postupka za ocjenu suglasnosti zakona s Ustavom ..."
+5. Člankom 32. Ustavnog zakona propisano je:
+"Članak 32.
+Ustavni sud će rješenjem odbaciti zahtjev, prijedlog i ustavnu tužbu ... kad ne postoje pretpostavke za odlučivanje o biti stvari."
+6. Ustavni sud utvrđuje da predlagatelj u prijedlogu nije naveo ustavnopravno relevantne razloge zbog kojih bi trebalo pokrenuti postupak za ocjenu suglasnosti s Ustavom osporenog članka 118.a ZoPDiML-a. Puko navođenje tvrdnji da neka odredba nije u suglasnosti s Ustavom nije dovoljno da bi Ustavni sud mogao ocijeniti postoje li razlozi za pokretanje postupka za ocjenu suglasnosti osporene odredbe s Ustavom odnosno za odlučivanje o biti stvari. Ustavni sud ne može nagađati o razlozima zbog kojih predlagatelj smatra da osporena odredba nije suglasna s Ustavom i zbog kojih predlaže Ustavnom sudu da pokrene postupak za ocjenu suglasnosti osporene odredbe s Ustavom. Ti razlozi moraju biti izneseni na precizan i razumljiv način odnosno moraju biti navedeni konkretni razlozi koji u dovoljnoj mjeri ukazuju na sumnju da osporena odredba nije u suglasnosti s Ustavom kako bi Ustavni sud mogao procijeniti hoće li pokrenuti postupak za ocjenu suglasnosti osporene odredbe s Ustavom.
+6.1. Sama konstatacija podnositelja kako članak 118.a ZoPDiML-a ne poštuje odredbu članka 50. stavka 1. Ustava Republike Hrvatske jer proglašava vlasništvo Republike Hrvatske nad lučkim dizalicama bez propisivanja naknade tržišne vrijednosti ne predstavlja ustavnopravnu argumentaciju iz koje bi bilo moguće izvesti zaključak da je članak 118.a ZoPDiML-a nesuglasan s Ustavom.
+7. Sukladno navedenom, na temelju članka 32. Ustavnog zakona riješeno je kao u izreci.
