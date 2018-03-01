@@ -1,0 +1,6 @@
+# Članak 14.
+POVREDA SIGURNOSTI KLASIFICIRANIH PODATAKA
+1. Stranke poduzimaju sve odgovarajuće mjere, u skladu sa zakonodavstvima svojih država, kako bi utvrdile okolnosti u kojima je poznato ili u kojima postoji osnovani temelj za sumnju da je došlo do povrede sigurnosti klasificiranih podataka.
+2. U slučaju povrede sigurnosti klasificiranih podataka koja uključuje klasificirane podatke nastale i primljene od druge stranke, nadležno sigurnosno tijelo u čijoj je državi došlo do povrede sigurnosti klasificiranih podataka obavješćuje nadležno sigurnosno tijelo stranke pošiljateljice što je prije moguće i osigurava provedbu odgovarajućih mjera u skladu sa zakonodavstvom svoje države. Stranke, ako je potrebno, surađuju tijekom gore navedenih postupaka.
+3. U slučaju da do povrede sigurnosti klasificiranih podataka dođe na državnom području treće države, nadležno sigurnosno tijelo stranke pošiljatelja poduzima radnje iz stavka 2. ovog članka.
+4. U svakom slučaju, nadležno sigurnosno tijelo stranke primateljice pisano obavješćuje nadležno sigurnosno tijelo stranke pošiljateljice o okolnostima povrede sigurnosti klasificiranih podataka, razmjerima štete, mjerama poduzetim za njezino ublažavanje i ishodu postupaka iz stavka 2. ovog članka. Takva obavijest sadrži dovoljno podataka kako bi stranka pošiljateljica mogla u potpunosti procijeniti posljedice.
