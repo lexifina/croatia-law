@@ -1,0 +1,1 @@
+Na temelju članka 47.a Zakona o prijevozu u linijskom i povremenom obalnom pomorskom prometu (»Narodne novine«, broj 33/06, 38/09, 87/09, 18/11, 80/13 i 56/16), ministar mora, prometa i infrastrukture donosi
