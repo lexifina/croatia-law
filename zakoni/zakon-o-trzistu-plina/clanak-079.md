@@ -1,0 +1,7 @@
+## XVI. PRAVO PRISTUPA TREĆE STRANE
+## Pristup treće strane
+# Članak 79.
+(1) Proizvođač prirodnog plina, operator transportnog sustava, operator distribucijskog sustava, operator sustava skladišta plina, operator terminala za UPP i operator mjesta za opskrbu UPP-om i/ili SPP-om dužni su osigurati učinkovit i nediskriminirajući pristup mreži proizvodnih plinovoda, transportnom sustavu, distribucijskom sustavu, sustavu skladišta plina, terminalu za UPP i mjestu za opskrbu UPP-om i/ili SPP-om, u skladu s aktima iz članaka 89., 90., 91., 92. i 93. ovoga Zakona i metodologijom iz članka 94. stavka 2. ovoga Zakona.
+(2) Pristup transportnom sustavu, distribucijskom sustavu, sustavu skladišta plina i terminalu za UPP omogućuje se primjenom reguliranog pristupa treće strane, a pristup mreži proizvodnih plinovoda i mjestu za opskrbu UPP-om i/ili SPP-om omogućuje se primjenom pregovaračkog pristupa treće strane.
+(3) Regulirani pristup treće strane temelji se na objavljenim metodologijama utvrđivanja iznosa tarifnih stavki za energetske djelatnosti transporta plina, distribucije plina, skladištenja plina i upravljanje terminalom za UPP iz članka 94. stavka 1. ovoga Zakona, koji se primjenjuje objektivno i jednako za sve sudionike na tržištu plina.
+(4) Pregovarački pristup treće strane temelji se na komercijalnim uvjetima pristupa mreži proizvodnih plinovoda i mjestu za opskrbu UPP-om i/ili SPP-om, koji su predmet pregovora.

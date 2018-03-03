@@ -1,0 +1,16 @@
+## Mješoviti operator
+# Članak 76.
+(1) Iznimno od odredbi članaka od 15. do 25. ovoga Zakona, djelatnost operatora transportnog sustava, operatora distribucijskog sustava, operatora sustava skladišta plina i operatora terminala za UPP može biti organizirana zajedno, u okviru djelatnosti mješovitog operatora, ali odvojeno od djelatnosti proizvodnje prirodnog plina, trgovine plinom i opskrbe plinom.
+(2) Na dužnosti i prava mješovitog operatora odgovarajuće se primjenjuju odredbe ovoga Zakona o dužnostima i pravima operatora transportnog sustava, uključujući odredbe o dužnostima i pravima operatora distribucijskog sustava, operatora sustava skladišta plina i operatora terminala za UPP.
+(3) Mješoviti operator koji je dio vertikalno integriranoga energetskog subjekta mora svoje djelatnosti organizirati u samostalnom pravnom subjektu nezavisno od djelatnosti proizvodnje prirodnog plina, trgovine plinom i opskrbe plinom.
+(4) Neovisnost mješovitog operatora, u skladu sa stavkom 3. ovoga članka, osigurava se tako da:
+1. članovi uprave mješovitog operatora koji je dio integriranog energetskog subjekata ne smiju sudjelovati u upravljanju djelatnostima proizvodnje prirodnog plina, trgovine plinom i opskrbe plinom
+2. uzimaju se u obzir profesionalni interesi članova uprave mješovitog operatora koji moraju biti u mogućnosti djelovati neovisno
+3. mješoviti operator samostalno odlučuje o sredstvima nužnim za pogon, održavanje i razvoj sustava kojim upravlja, nezavisno od djelatnosti proizvodnje prirodnog plina i opskrbe plinom.
+(5) Radi ispunjenja obveza iz stavka 4. točke 3. ovoga članka, operator mora imati na raspolaganju sve potrebne resurse uključujući ljudske, tehničke, financijske i materijalne.
+(6) Neovisno o stavku 5. ovoga članka, vladajuće društvo u sustavu horizontalno integriranog subjekta ima pravo operatoru odobravati godišnji financijski plan i postavljati granice njegove zaduženosti te nema pravo operatoru sustava davati upute vezane uz njegovo svakodnevno poslovanje niti uz pojedinačne odluke o izgradnji ili modernizaciji dijelova sustava kojima upravlja operator jedino u slučaju kada takva odluka proizlazi iz odobrenoga godišnjega financijskog plana.
+(7) Mješoviti operator dužan je donijeti program mjera radi osiguranja primjene nepristranih uvjeta pristupa sustavu kojim upravljaju i osigurati nadzor nad njihovim provođenjem, a kojim se utvrđuju posebne obveze zaposlenika za ostvarenje cilja.
+(8) Za ispunjenje svojih obveza osoba odgovorna za provođenje programa mjera iz stavka 7. ovoga članka, a koja je imenovana od odnosnog operatora mora biti nezavisna i mora imati pristup svim potrebnim informacijama operatora i bilo kojeg drugog povezanog subjekta.
+(9) Osoba odgovorna za provođenje programa mjera je dužna do 1. ožujka svake godine dostaviti Agenciji godišnje izvješće o provedbi programa mjera iz stavka 7. ovoga članka za prethodnu godinu.
+(10) Mješoviti operator je dužan objaviti na svojim mrežnim stranicama program mjera i izvješće o provedbi programa mjera za prethodnu godinu.
+(11) Nadzor nad aktivnostima operatora koji je dio vertikalno integriranog subjekta, kako on ne bi iskoristio svoju vertikalnu integraciju za narušavanje tržišnog natjecanja, provodit će Agencija.

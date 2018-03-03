@@ -1,0 +1,5 @@
+## Pripremne radnje za davanje koncesije
+# Članak 40.
+(1) U slučaju koncesija za distribuciju plina davatelj koncesije dužan je uz pripremne radnje za davanje koncesije propisane propisom kojim se uređuju koncesije ishoditi lokacijske dozvole za visokotlačni ili srednjotlačni distribucijski plinovod od mjesta priključenja na transportni sustav, uključujući priključak ako je potreban priključak.
+(2) U slučaju koncesije za izgradnju distribucijskog sustava davatelj koncesije dužan je uz pripremne radnje za davanje koncesije propisane propisom kojim se uređuju koncesije, ishoditi lokacijske dozvole za visokotlačni ili srednjotlačni distribucijski plinovod od mjesta priključenja na transportni sustav, uključujući priključak, do redukcijskih stanica.
+(3) Ako se distribucijski sustav čija je izgradnja predmet koncesije ne sastoji od visokotlačnog ili srednjotlačnog distribucijskog plinovoda i barem jedne redukcijske stanice, davatelj koncesije nije dužan ishoditi lokacijsku dozvolu za takav distribucijski sustav.

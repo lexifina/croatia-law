@@ -1,0 +1,9 @@
+## Izravni plinovod
+# Članak 82.
+(1) Proizvođač prirodnog plina, operator sustava skladišta plina, operator terminala za UPP, operator mjesta za opskrbu UPP-om i/ili SPP-om ili krajnji kupac kojem je odlukom iz članka 81. ovoga Zakona odbijeno pravo na pristup plinskom sustavu, mreži proizvodnih plinovoda, odnosno mjestu za opskrbu UPP-om i/ili SPP-om ima pravo izgraditi izravni plinovod, uz suglasnost Agencije.
+(2) Opskrbljivač plinom koji želi plinom opskrbiti krajnjeg kupca kojem je odlukom iz članka 81. ovoga Zakona odbijeno pravo na pristup plinskom sustavu, mreži proizvodnih plinovoda, odnosno mjestu za opskrbu UPP-om i/ili SPP-om ima pravo izgraditi izravni plinovod, uz suglasnost Agencije.
+(3) Agencija će utvrditi objektivne i nepristrane kriterije za izdavanje suglasnosti iz stavka 1. i 2. ovoga članka za izgradnju i pogon izravnih plinovoda.
+(4) Agencija će rješenjem uskratiti izdavanje suglasnosti za izgradnju izravnog plinovoda iz stavaka 1. i 2. ovoga članka ako davanje takve suglasnosti nije u skladu s odredbama o obvezi opskrbe plinom u okviru javne usluge i odredbi o zaštiti krajnjih kupaca iz ovoga Zakona uz detaljno obrazloženje.
+(5) Protiv rješenja iz stavka 4. ovoga članka nije dopuštena žalba, ali se može pokrenuti upravni spor pred nadležnim upravnim sudom. Postupak pred upravnim sudom je hitan.
+(6) Zahvat u prostoru i gradnja izravnih vodova mora se provoditi u skladu s postupcima propisanim propisima kojima se uređuje prostorno uređenje i gradnja.
+(7) Trošak nastao izgradnjom izravnog plinovoda iz stavaka 1. i 2. ovoga članka treba podmiriti energetski subjekt ili kupac na čiji zahtjev je izgrađen izravni plinovod i takav trošak ne može biti uključen u metodologiju utvrđivanja iznosa tarifnih stavki sustava na koji se izravni plinovod priključuje.
