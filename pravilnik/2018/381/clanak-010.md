@@ -1,0 +1,4 @@
+## PRIJELAZNE I ZAVRŠNE ODREDBE
+# Članak 10.
+(1) Pri podnošenju prijave poreza na dobit i prijave poreza na dohodak za 2017. godinu područja I. skupine jedinica lokalne samouprave utvrđuju se prema Zakonu o regionalnom razvoju Republike Hrvatske (»Narodne novine«, broj 147/14) i Odluci o razvrstavanju jedinica lokalne i područne (regionalne) samouprave prema stupnju razvijenosti (»Narodne novine«, broj 158/13).
+(2) Pri podnošenju prijava poreza na dobit i prijava poreza na dohodak za porezna razdoblja koja počinju teći nakon 1. siječnja 2018. godine područja I. skupine jedinica lokalne samouprave utvrđuju se prema Zakonu o izmjenama i dopunama Zakona o regionalnom razvoju Republike Hrvatske (»Narodne novine«, broj 123/17) i Odluci o razvrstavanju jedinica lokalne i područne (regionalne) samouprave prema stupnju razvijenosti (»Narodne novine«, broj 132/17).
