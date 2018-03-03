@@ -1,0 +1,16 @@
+I.
+U nastavnom planu i programu funkcionalne muzičke pedagogije (FMP) za srednju školu koji je donesen Odlukom Ministarstva znanosti, obrazovanja i športa (klasa: 602-03/07-05/00052; urbroj: 533-09-08-0013 od dana 16. srpnja 2008. godine) o donošenju Nastavnog plana i programa za srednje glazbene škole, Nastavnog plana i programa funkcionalne muzičke pedagogije (FMP) za srednje škole, Nastavnog plana i programa za klasični balet i narodne plesove za srednje škole i Nastavnog plana i programa za zanimanje Scenski plesač, u Puhačkom odjelu dodaju se nastavni planovi i programi za nastavne predmete: Tuba, Korno (Rog) i Udaraljke, a za stjecanje kvalifikacije: glazbenik tubist, glazbenik kornist (rogist) i glazbenik udaraljkaš te u Gitarističkom odjelu dodaje se nastavni plan i program za nastavni predmet: Tambure, a za stjecanje kvalifikacije: glazbenik tamburaš.
+II.
+U nastavnom planu i programu funkcionalne muzičke pedagogije (FMP) iz točke I. ove Odluke dodaje se nastavni plan i program za nastavni predmet Komorna glazba - Nova glazba za sve odjele.
+III.
+U nastavnom planu i programu funkcionalne muzičke pedagogije (FMP) iz točke I. ove Odluke u Odjelu za pjevanje mijenjaju se nastavni planovi i programi za nastavne predmete: Klavir obligatno i Pjevanje.
+IV.
+Sadržaji nastavnih planova i programa funkcionalne muzičke pedagogije (FMP) za srednju školu za nastavne predmete: Tuba, Korno (Rog), Udaraljke i Tambure, a za stjecanje kvalifikacije: glazbenik tubist, glazbenik kornist (rogist), glazbenik udaraljkaš i glazbenik tamburaš, za nastavne predmete: Klavir obligatno i Pjevanje u Odjelu za pjevanje i za nastavni predmet Komorna glazba - Nova glazba za sve odjele sastavni su dio ove Odluke i danom stupanja na snagu postaju dio nastavnih planova i programa Funkcionalne muzičke pedagogije (FMP) za srednje škole.
+V.
+Ova odluka i nastavni planovi i programi funkcionalne muzičke pedagogije (FMP) za srednju školu za nastavne predmete: Tuba, Korno (Rog), Udaraljke i Tambure, a za stjecanje kvalifikacije: glazbenik tubist, glazbenik kornist (rogist), glazbenik udaraljkaš i glazbenik tamburaš, za nastavne predmete: Klavir obligatno i Pjevanje u Odjelu za pjevanje i za nastavni predmet Komorna glazba - Nova glazba za sve odjele objavit će se u »Narodnim novinama«.
+VI.
+Ovom Odlukom stavljaju se izvan snage nastavni planovi i programi za nastavne predmete: Klavir obligatno i Pjevanje u Odjelu za pjevanje u Nastavnom planu i programu funkcionalne muzičke pedagogije (FMP) za srednju školu koji je donesen Odlukom Ministarstva znanosti, obrazovanja i športa (klasa: 602-03/07-05/00052; urbroj: 533-09-08-0013 od dana 16. srpnja 2008. godine) o donošenju Nastavnog plana i programa za srednje glazbene škole, Nastavnog plana i programa funkcionalne muzičke pedagogije (FMP) za srednje škole, Nastavnog plana i programa za klasični balet i narodne plesove za srednje škole i Nastavnog plana i programa za zanimanje Scenski plesač.
+VII.
+Učenici koji su se u program obrazovanja iz točke VII. ove odluke upisali ranijih godina nastavljaju obrazovanje po programu koji su ranije upisali.
+VIII.
+Ova Odluka stupa na snagu osmoga dana od dana objave u »Narodnim novinama«, a primjenjivat će se od početka 2018./2019. školske godine.
