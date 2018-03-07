@@ -1,0 +1,2 @@
+# Članak 15.
+Ovaj je Ugovor otvoren za pristup državama članicama Europske unije koje nisu ugovorne stranke. Pristup počinje proizvoditi učinke polaganjem isprave o pristupu kod depozitara, koji o tome obavješćuje ostale ugovorne stranke. Nakon što ugovorne stranke potvrde vjerodostojnost teksta ovog Ugovora na službenom jeziku države članice pristupnice koji je također službeni jezik i radni jezik institucija Unije, on se pohranjuje u arhivu depozitara kao vjerodostojan tekst ovog Ugovora.

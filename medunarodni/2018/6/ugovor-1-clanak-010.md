@@ -1,0 +1,2 @@
+# Članak 10.
+U skladu sa zahtjevima Ugovora na kojima se temelji Europska unija, ugovorne stranke su spremne, kad god je to prikladno i potrebno, aktivnije iskoristiti posebne mjere za države članice čija je valuta euro, kako je predviđeno u članku 136. Ugovora o Europskoj uniji, i pojačanu suradnju, kako je predviđeno u članku 20. Ugovora o Europskoj uniji i člancima od 326. do 334. Ugovora o funkcioniranju Europske unije, u pogledu pitanja koja su bitna za pravilno funkcioniranje europodručja, bez narušavanja unutarnjeg tržišta.

@@ -1,0 +1,4 @@
+# Članak 16.
+U roku od najviše pet godina od dana stupanja na snagu ovog Ugovora, na temelju procjene iskustva stečenog iz njegove provedbe, poduzimaju se potrebne mjere u skladu s Ugovorom o Europskoj uniji i Ugovorom o funkcioniranju Europske unije kako bi se sadržaj ovog Ugovora ugradio u pravni okvir Europske unije.
+Sastavljeno u Bruxellesu drugog ožujka dvije tisuće dvanaeste.
+Ovaj Ugovor, koji je sastavljen u jednom izvorniku na bugarskom, danskom, engleskom, estonskom, finskom, francuskom, grčkom, irskom, latvijskom, litavskom, mađarskom, malteškom, nizozemskom, njemačkom, poljskom, portugalskom, rumunjskom, slovačkom, slovenskom, španjolskom, švedskom i talijanskom jeziku, pri čemu je svaki od tih tekstova jednako vjerodostojan, pohranjuje se u arhivu depozitara, koji svakoj ugovornoj stranki dostavlja po jedan ovjereni primjerak.
