@@ -1,0 +1,2 @@
+# Članak 59.
+Rok za dostavu ponuda iz članka 58. stavka 1. ove Uredbe može se skratiti za pet dana ako je naručitelj od dana objave poziva na nadmetanje dokumentaciju o nabavi i svu dodatnu dokumentaciju koja se odnosi na ograničeni postupak neograničeno i u cijelosti elektronički stavio na raspolaganje u Elektroničkom oglasniku javne nabave Republike Hrvatske (u daljnjem tekstu: EOJN RH) s time da je naručitelj obvezan u pozivu na nadmetanje navesti internetske stranice na kojima je dostupna ta dokumentacija.

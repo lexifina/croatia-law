@@ -1,0 +1,3 @@
+## Pravni akti Europske unije
+# Članak 2.
+Ovom Uredbom preuzimaju se odredbe Direktive 2009/81/EZ Europskog parlamenta i Vijeća od 13. srpnja 2009. o usklađivanju postupaka nabave za određene ugovore o radovima, ugovore o nabavi robe i ugovore o uslugama koje sklapaju javni naručitelji ili naručitelji u području obrane i sigurnosti te izmjeni direktiva 2004/17/EZ i 2004/18/EZ (SL L 216, 20. 8. 2009.), kako je posljednje izmijenjena Uredbom Komisije (EU) 2017/2367 оd 18. prosinca 2017. o izmjeni Direktive 2009/81/EZ Europskog parlamenta i Vijeća u vezi s pragovima primjene za postupke dodjele ugovora (SL L 337, 19. 12. 2017.).

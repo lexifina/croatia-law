@@ -1,0 +1,3 @@
+# Članak 72.
+(1) Ako nisu usklađeni sustavi nacionalne sigurnosne provjere na razini Europske unije, naručitelj će prihvatiti certifikat iz članka 71. stavka 1. točke 5. ove Uredbe koji je gospodarskom subjektu izdala druga država, pod uvjetom da je nadležno nacionalno tijelo za informacijsku sigurnost provelo postupak utvrđivanja jednakovrijednosti izdanog certifikata.
+(2) Ako je propisana mogućnost posebnim propisima iz područja informacijske sigurnosti, naručitelj može iznimno zatražiti putem nadležnog nacionalnog tijela za informacijsku sigurnost provođenje dodatnih odgovarajućih postupaka te uzeti u obzir i rezultate tih postupaka.

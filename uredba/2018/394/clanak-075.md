@@ -1,0 +1,2 @@
+# Članak 75.
+Naručitelj može od nadležnog nacionalnog tijela za informacijsku sigurnost države poslovnog nastana gospodarskog subjekta ili od tijela za sigurnost koje je odredila ta država zatražiti provjeru prikladnosti prostorija i objekata koji će se koristiti, industrijskih i upravnih postupaka u skladu s kojima će se postupati, metoda upravljanja podacima ili stanja u pogledu osoblja koje će izvršavati ugovor.

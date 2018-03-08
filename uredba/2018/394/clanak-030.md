@@ -1,0 +1,6 @@
+## Zaštita klasificiranih podataka tijekom postupka javne nabave
+# Članak 30.
+(1) Ako naručitelj tijekom postupka javne nabave gospodarskim subjektima namjerava staviti na raspolaganje klasificirane podatke, obvezan je odrediti zahtjeve koje će gospodarski subjekti morati ispunjavati u cilju zaštite klasificiranih podataka u skladu s posebnim propisima iz područja informacijske sigurnosti.
+(2) Naručitelj će uskratiti ili onemogućiti pristup klasificiranim podacima gospodarskom subjektu koji ne ispunjava mjere i standarde za postupanje s klasificiranim podacima propisane posebnim propisima iz područja informacijske sigurnosti te mu uskratiti sudjelovanje u postupku javne nabave.
+(3) Sukladno stavcima 1. i 2. ovoga članka dužan je postupati i odabrani ponuditelj kada pri sklapanju podugovora svojem podugovaratelju stavlja na raspolaganje klasificirane podatke.
+(4) Naručitelj može uskratiti određene informacije koje se tiču sklapanja ugovora o javnoj nabavi ili okvirnog sporazuma ako bi njihova objava bila protivna odredbama posebnog zakona ili na drugi način bila protivna javnom interesu, posebice obrambenom ili sigurnosnom interesu, ako bi štetila opravdanim poslovnim interesima javnih ili privatnih gospodarskih subjekata ili bi mogla štetiti poštenom tržišnom natjecanju između njih.

@@ -1,0 +1,1 @@
+Na temelju članka 45. Zakona o javnoj nabavi (»Narodne novine«, broj 120/16) i članka 30. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/11, 119/14 i 93/16), Vlada Republike Hrvatske je na sjednici održanoj 22. veljače 2018. godine donijela

@@ -1,0 +1,4 @@
+# Članak 54.
+(1) U pozivu na nadmetanje za podugovor, odabrani ponuditelj navodi osnove za isključenje i kriterije za odabir gospodarskog subjekta koje je odredio naručitelj te, ako je potrebno ostale uvjete koje će primijeniti za ocjenu sposobnosti podugovaratelja.
+(2) Uvjeti iz stavka 1. ovoga članka moraju biti objektivni, nediskriminirajući i sukladni uvjetima koje je primijenio naručitelj za ocjenu glavnog ponuditelja za ugovor, a razina tražene sposobnosti mora biti izravno povezana i proporcionalna s predmetom podugovora.
+(3) Od odabranog ponuditelja se neće zahtijevati da sklopi podugovor s trećim stranama ako on na zadovoljavajući način naručitelju dokaže da nijedan podugovaratelj u postupku podugovaranja ili njihove ponude nisu zadovoljili uvjete navedene u pozivu na nadmetanje za podugovor te stoga onemogućuju odabranom ponuditelju da ispuni zahtjeve određene u ugovoru o javnoj nabavi.

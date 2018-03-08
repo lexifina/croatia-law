@@ -1,0 +1,4 @@
+# Članak 34.
+(1) Ako naručitelj koristi mogućnost upućivanja na specifikacije iz članka 32. ove Uredbe u obliku izvedbenih ili funkcionalnih zahtjeva, on ne smije odbiti ponudu za radove, robu ili usluge koja odgovara nacionalnoj normi kojom se prihvaća europska norma, europskom tehničkom odobrenju, zajedničkoj tehničkoj specifikaciji, međunarodnoj normi ili tehničkom referentnom sustavu koji je utvrdilo europsko normizacijsko tijelo ako se te specifikacije odnose na izvedbene ili funkcionalne zahtjeve koje je naručitelj postavio.
+(2) Ponuditelj mora u ponudi na zadovoljavajući način naručitelju, bilo kojim prikladnim sredstvom, dokazati da radovi, roba ili usluge koji odgovaraju normi, udovoljavaju izvedbenim ili funkcionalnim zahtjevima naručitelja.
+(3) Ako naručitelj odbije ponudu, obvezan je u odluci o odabiru navesti razloge za odbijanje ponude zbog neudovoljavanja izvedbenim ili funkcionalnim zahtjevima.
