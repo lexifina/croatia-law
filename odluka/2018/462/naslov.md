@@ -1,0 +1,1 @@
+Odluka o davanju suglasnosti na Odluku Županijske skupštine Šibensko-kninske županije o produženju roka trajanja koncesije na pomorskom dobru u svrhu gospodarskog korištenja luke posebne namjene - luke nautičkog turizma - sidrište u uvali Sičenica, Općina Rogoznica
