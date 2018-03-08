@@ -1,0 +1,2 @@
+# Članak 6.
+Iznimno od članka 5. ovoga naputka, u slučajevima donošenja rješenja o uklanjanju na temelju članka 30. stavka 1. točke 1. Zakona, građevinski inspektor neće izvršenika na izvršenje rješenja prisiljavati novčanim kaznama ukoliko utvrdi da je izvršenik unutar roka za izvršenje rješenja podnio zahtjev za izdavanje građevinske dozvole za predmetnu građevinu te da je obustavio daljnje građenje.
