@@ -1,0 +1,23 @@
+## II. NADLEŽNA TIJELA I NJIHOVE ZADAĆE
+# Članak 5.
+(1) Nadležna tijela za provedbu Uredbe (EU) br. 511/2014, Provedbene Uredbe Komisije (EU) 2015/1866 i ovoga Zakona su:
+– središnje tijelo državne uprave nadležno za poslove zaštite prirode, za genetske resurse divljih vrsta biljaka, životinja, gljiva, algi i mikroorganizama te genetske resurse patogena, osim onih koji su u nadležnosti tijela iz podstavka 2. ovoga stavka i
+– središnje tijelo državne uprave nadležno za poslove poljoprivrede, za biljne genetske resurse za hranu i poljoprivredu, genetske resurse pasmina udomaćenih životinja, genetske resurse gljiva i mikroorganizama koji se koriste u prehrambenoj industriji te genetske resurse životinjskih i biljnih patogena.
+(2) Nadležna tijela iz stavka 1. ovoga članka obavljaju sljedeće poslove:
+– na zahtjev imatelja zbirke genetskih resursa (u daljnjem tekstu: zbirke) razmatraju uključenje zbirke ili dijela zbirke u Registar te priopćavaju Komisiji naziv i pojedinosti za kontakt zbirke i njezina imatelja te vrstu zbirke Komisiji sukladno članku 5. stavku 2. Uredbe (EU) br. 511/2014
+– provjeravaju usklađenost zbirki s kriterijima temeljem kojih su uključene u Registar, izrađuju plan provjera usklađenosti sukladno odredbama članka 5. stavka 4. Uredbe (EU) br. 511/2014 i članka 4. Provedbene Uredbe (EU) 2015/1866
+– utvrđuju korektivne radnje i mjere kada zbirka ili dio zbirke ne ispunjavaju kriterije iz članka 5. stavka 3. Uredbe (EU) br. 511/2014
+– obavještavaju Komisiju o zbirci ili dijelu zbirke za koje utvrde da više ne udovoljavaju kriterijima iz članka 5. stavka 3. Uredbe (EU) br. 511/2014
+– zaprimaju od korisnika izjavu o postupanju s dužnom pažnjom u fazi financiranja istraživanja genetskih resursa javnim sredstvima sukladno članku 7. stavku 1. Uredbe (EU) br. 511/2014 te postupaju po izjavi
+– zaprimaju od korisnika izjavu o postupanju s dužnom pažnjom u fazi konačnog razvoja proizvoda koji je razvijen korištenjem genetskih resursa ili tradicionalnog znanja povezanog s genetskim resursima sukladno članku 7. stavku 2. Uredbe (EU) br. 511/2014 te postupaju po izjavi
+– prate uspostavu najboljih praksi udruženja korisnika ili drugih zainteresiranih strana, kao i registar najboljih praksi koji uspostavlja Komisija te prate promjene u tom registru
+– provjeravaju usklađenost korisnika te u tom smislu utvrđuju postupaju li korisnici s dužnom pažnjom prema odredbama članka 4. Uredbe (EU) br. 511/2014 te ispunjavaju li korisnici obvezu podnošenja izjave o postupanju s dužnom pažnjom sukladno članku 7. stavcima 1. i 2. Uredbe (EU) br. 511/2014
+– izrađuju plan provjera usklađenosti korisnika sukladno odredbama članka 9. stavka 3. Uredbe (EU) br. 511/2014 te vode evidenciju o provjerama usklađenosti korisnika najmanje u razdoblju od pet godina sukladno članku 10. stavku 1. Uredbe (EU) br. 511/2014
+– utvrđuju korektivne radnje i mjere kada korisnik ne postupa prema odredbama članka 4. te članka 7. stavaka 1. i 2. Uredbe (EU) br. 511/2014, kada je to moguće
+– surađuju s nadležnim tijelima država članica Unije, Komisijom, nacionalnim nadležnim tijelima stranaka Protokola iz Nagoye te zainteresiranim dionicima na nacionalnoj razini u skladu s člankom 12. Uredbe (EU) br. 511/2014
+– prema potrebi promiču i potiču aktivnosti informiranja i podizanja svijesti javnosti, osposobljavanja, razvoja sektorskih kodeksa ponašanja, najboljih praksi, razmjenu podataka i informacija, promiču mjere za potporu zbirkama koje pridonose očuvanju bioraznolikosti te ostale aktivnosti sukladno članku 13. Uredbe (EU) br. 511/2014.
+(3) Nadležno tijelo iz stavka 1. podstavka 1. ovoga članka je i središnje koordinativno tijelo za provedbu Uredbe (EU) br. 511/2014, Provedbene Uredbe (EU) 2015/1866 i ovoga Zakona te u tom smislu, osim poslova iz stavka 2. ovoga članka, u suradnji s nadležnim tijelom iz stavka 1. podstavka 2. ovoga članka, obavlja i sljedeće poslove:
+– izrađuje i dostavlja Komisiji izvješće o primjeni Uredbe (EU) br. 511/2014 sukladno članku 16. stavku 1. Uredbe (EU) br. 511/2014
+– dostavlja Komisiji sve potrebne informacije o provedbi Uredbe (EU) br. 511/2014, uključujući i informacije iz članka 7. stavka 3. Uredbe (EU) br. 511/2014 te članka 7. stavka 3. Provedbene Uredbe (EU) 2015/1866
+– dostavlja informacije i surađuje s Mehanizmom za razmjenu informacija o pristupu i podjeli dobiti sukladno članku 7. stavcima 3. i 4. Uredbe (EU) br. 511/2014 te članku 7. stavcima 1. i 2. Provedbene Uredbe (EU) 2015/1866
+– po potrebi surađuje s nadležnim nacionalnim tijelima stranaka Protokola iz Nagoye, a osobito sukladno članku 7. stavku 2. Provedbene Uredbe (EU) 2015/1866 kojim se uređuje razmjena povjerljivih informacija.

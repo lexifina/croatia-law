@@ -1,0 +1,4 @@
+## IV. IZJAVA KORISNIKA O POSTUPANJU S DUŽNOM PAŽNJOM
+# Članak 10.
+(1) Izjavu o postupanju s dužnom pažnjom u fazi financiranja istraživanja genetskih resursa javnim sredstvima korisnik podnosi nadležnim tijelima iz članka 5. stavka 1. ovoga Zakona sukladno njihovu djelokrugu, nakon primanja prvog obroka novčanih sredstava i nakon što su pribavljeni svi genetski resursi i tradicionalno znanje povezano s genetskim resursima korišteni u financiranom istraživanju, a najkasnije u vrijeme podnošenja završnog izvješća ili, ako se to izvješće ne izrađuje, na kraju projekta.
+(2) Izjavu o postupanju s dužnom pažnjom u fazi konačnog razvoja proizvoda koji proizlazi iz korištenja genetskog resursa korisnik podnosi nadležnim tijelima iz članka 5. stavka 1. ovoga Zakona sukladno njihovu djelokrugu, na način i u rokovima određenim odredbama članka 6. Provedbene Uredbe (EU) 2015/1866.
