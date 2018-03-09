@@ -1,0 +1,26 @@
+# Članak 36.
+(1) Pravo prvenstva na javnom natječaju za zakup imaju fizičke i pravne osobe koje su sudjelovale u natječaju sljedećim redoslijedom:
+a) nositelj obiteljskog poljoprivrednog gospodarstva ili vlasnik poljoprivrednog obrta ili pravna osoba u rangu mikro i malih poduzeća, kojima je poljoprivreda primarna djelatnost, koji je najmanje tri godine do objave javnog natječaja vlasnik ili posjednik stoke, bavi se stočarskom proizvodnjom, ima najmanje tri godine do objave javnog natječaja prebivalište ili sjedište ili proizvodni objekt u funkciji poljoprivredne proizvodnje na području jedinice lokalne samouprave odnosno Grada Zagreba za koju se raspisuje javni natječaj, a ne ispunjava uvjet prosječnog odnosa broja grla stoke i poljoprivrednih površina od najmanje 1,0 ha oranice ili livade po uvjetnom grlu, odnosno najmanje 2,0 ha pašnjaka po uvjetnom grlu, odnosno najmanje 3,3 ha krških pašnjaka po uvjetnom grlu, koji se računa za proizvodnu godinu koja prethodi objavi javnog natječaja.
+Kada ponuditelj ostvaruje prednost po ovom kriteriju, a proizvodna cjelina za koju se natječe je veća od trenutačnih potreba prema izračunu broja uvjetnih grla po hektaru, ponuditelj se u gospodarskom programu mora obvezati na izjednačavanje potrebnog broja uvjetnih grla u roku od dvije godine od sklapanja ugovora o zakupu. Ponuditelj ne ostvaruje pravo prvenstva po ovom kriteriju za površine koje su za više od 10% veće od njegovih trenutačnih potreba
+b) dosadašnji posjednik kojem je poljoprivreda primarna djelatnost ako je u mirnom posjedu na temelju ugovora koji su istekli a sklopljeni su na temelju prije provedenog javnog natječaja, na temelju ugovora o prioritetnoj koncesiji i na temelju ugovora o privremenom korištenju poljoprivrednog zemljišta u vlasništvu države na temelju mirnog posjeda koji ne može biti kraći od pet godina, sukladno zakonu kojim se propisuje raspolaganje poljoprivrednim zemljištem, a koji je ispunio sve obveze iz ugovora koji je istekao ili dosadašnji posjednik koji je vlasnik višegodišnjeg nasada na zemljištu za koje se raspisuje javni natječaj i u mirnom je posjedu tog zemljišta najmanje pet godina do objave javnog natječaja
+c) nositelj obiteljskoga poljoprivrednog gospodarstva ili vlasnik poljoprivrednog obrta koji u trenutku podnošenja ponude nije napunio 41 godinu, upisan je u Upisnik poljoprivrednika najmanje tri godine do objave javnog natječaja i koji ima prebivalište ili sjedište ili proizvodni objekt u funkciji poljoprivredne proizvodnje na području jedinice lokalne samouprave odnosno Grada Zagreba za koju se raspisuje javni natječaj, najmanje tri godine do objave javnog natječaja
+d) nositelj obiteljskoga poljoprivrednog gospodarstva koji se bavi poljoprivrednom proizvodnjom kao primarnom djelatnošću upisan u Upisnik poljoprivrednika, ima sjedište ili proizvodni objekt u funkciji poljoprivredne proizvodnje na području jedinice lokalne samouprave odnosno Grada Zagreba za koju se raspisuje javni natječaj, najmanje tri godine do objave javnog natječaja
+e) fizičke ili pravne osobe koje imaju prebivalište ili sjedište ili proizvodni objekt u funkciji poljoprivredne proizvodnje na području jedinice lokalne samouprave odnosno Grada Zagreba za koju se raspisuje javni natječaj, najmanje tri godine do objave javnog natječaja
+f) zadruge i trgovačka društva registrirana za obavljanje poljoprivredne djelatnosti i upisana u Upisnik poljoprivrednika najmanje tri godine do objave javnog natječaja
+g) fizičke i pravne osobe koje se bave poljoprivrednom proizvodnjom
+h) ostale fizičke i pravne osobe koje se namjeravaju baviti poljoprivrednom proizvodnjom.
+(2) Ako je više osoba iz stavka 1. ovoga članka u istom redoslijedu prava prvenstva za zakup, prednost se utvrđuje prema sljedećem redoslijedu:
+a) imaju ekonomsku vrijednost poljoprivrednog gospodarstva između 8000 do 100.000 eura
+b) pravna ili fizička osoba koja se bavi poljoprivrednom proizvodnjom sljedećim redoslijedom:
+1. povrtlarstvom
+2. voćarstvom (osim oraha)
+3. vinogradarstvom
+4. maslinarstvom
+c) pravna ili fizička osoba koja se bavi sjemenskom proizvodnjom
+d) obrazovanje iz područja poljoprivrede, veterinarstva i prehrambene tehnologije, a najmanje SSS
+e) nositelj obiteljskog poljoprivrednog gospodarstva koji je hrvatski branitelj iz Domovinskog rata, ili je dijete smrtno stradalog ili nestalog hrvatskog branitelja
+f) veći broj članova obiteljskog poljoprivrednog gospodarstva
+g) dulje vrijeme upisan u Upisnik poljoprivrednika.
+(3) Fizička ili pravna osoba iz stavka 1. ovoga članka ima pravo prvenstva zakupa prema utvrđenom redoslijedu uz uvjet da prihvati najvišu cijenu koju je ponudio bilo koji od ponuđača koji ispunjava natječajne uvjete.
+(4) Pri utvrđivanju uvjeta prosječnog odnosa broja grla stoke i poljoprivrednih površina iz stavka 1. točke a) ovoga članka za ponuditelja koji je pravna osoba uzima se u obzir ukupan broj grla stoke i ukupna površina poljoprivrednog zemljišta kojom raspolaže ponuditelj i sve s njim povezane fizičke i pravne osobe.
+(5) Iznimno, kriterij iz stavka 1. točke a) ovoga članka ne primjenjuje se prilikom utvrđivanja prava prvenstva na javnom natječaju za zakup u kojem je određena vrsta poljoprivredne proizvodnje sukladno članku 31. stavku 8. ovoga Zakona.

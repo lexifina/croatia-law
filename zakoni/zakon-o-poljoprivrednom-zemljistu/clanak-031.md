@@ -1,0 +1,20 @@
+## Zakup
+# Članak 31.
+(1) Poljoprivredno zemljište u vlasništvu države daje se u zakup putem javnog natječaja na rok od 25 godina s mogućnošću produljenja za isto razdoblje.
+(2) Iznimno od stavka 1. ovoga članka, poljoprivredno zemljište u vlasništvu države koje je u Programu predviđeno za povrat i ostale namjene daje se u zakup javnim natječajem na rok do pet godina, s mogućnošću produljenja, odnosno do pravomoćnosti rješenja o povratu sukladno posebnom propisu ili do privođenja toga zemljišta namjeni utvrđenoj prostornim planom.
+(3) Zemljište iz stavka 2. ovoga članka ne može se koristiti za:
+a) podizanje trajnih nasada
+b) izgradnju građevina u svrhu poljoprivredne proizvodnje.
+(4) Zahtjev za produljenje zakupa iz stavaka 1. i 2. ovoga članka može podnijeti dosadašnji zakupnik u zadnjoj godini zakupa pod uvjetom da je izvršavao sve obveze iz ugovora o zakupu i podmirio i sve obveze s osnove javnih davanja.
+(5) Odluku o raspisivanju javnog natječaja za zakup donosi općinsko ili gradsko vijeće, na čijem se području zemljište nalazi, o čemu je jedinica lokalne samouprave dužna obavijestiti županiju i Ministarstvo odnosno za Grad Zagreb Gradska skupština Grada Zagreba o čemu je dužna obavijestiti Ministarstvo.
+(6) Natječaj za zakup raspisuje se za katastarske čestice koje čine proizvodno-tehnološke cjeline površine najviše do 100 hektara.
+(7) Iznimno od stavka 6. ovoga članka, natječaj za zakup može se raspisati za proizvodno-tehnološku cjelinu površine veće od 100 hektara ako tu proizvodno-tehnološku cjelinu čini jedna katastarska čestica ili ako je predmet zakupa ribnjak.
+(8) U javnom natječaju iz stavaka 1. i 2. ovoga članka određuje se vrsta poljoprivredne proizvodnje za koju se poljoprivredno zemljište u vlasništvu države daje u zakup s obzirom na postojeće ili buduće sustave navodnjavanja, sustav podzemne odvodnje i višegodišnje nasade na tome području.
+(9) Natječaj za zakup mora sadržavati i mjere ublažavanja negativnih utjecaja na ciljeve i očuvanja i cjelovitost područja ekološke mreže ako su one propisane aktom u provedenom postupku ocjene prihvatljivosti programa za ekološku mrežu.
+(10) Iznimno natječaj za zakup može se raspisati za katastarsku česticu na kojoj je izgrađena poljoprivredna građevina u vlasništvu države, odnosno za tu česticu i susjedne katastarske čestice koje s njom čine proizvodno-tehnološku cjelinu.
+(11) Ministarstvo nadležno za upravljanje državnom imovinom nadležno je za uređenje imovinskopravnih odnosa na poljoprivrednom zemljištu u vlasništvu države na kojem su nezakonito izgrađene zgrade ozakonjene temeljem posebnog propisa o postupanju s nezakonito izgrađenim zgradama uz suglasnost Ministarstva.
+(12) Odluku o izboru najpovoljnije ponude za zakup donosi općinsko ili gradsko vijeće odnosno Gradska skupština Grada Zagreba, na čijem se području zemljište nalazi na prijedlog Povjerenstava za zakup na poljoprivrednom zemljištu u vlasništvu države (u daljnjem tekstu: Povjerenstvo za zakup) pri čemu jedinice lokalne samouprave istu dostavljaju na prethodno mišljenje županiji i suglasnost Ministarstvu, a Grad Zagreb na suglasnost Ministarstvu.
+(13) Povjerenstvo za zakup imenuje predstavničko tijelo jedinica lokalne samouprave odnosno Grada Zagreba, a čini ga pet članova: po jedan predstavnik pravne, geodetske i agronomske struke te dva predstavnika općinskog ili gradskog vijeća odnosno Gradske skupštine Grada Zagreba, na čijem se području zemljište nalazi.
+(14) Članovi Povjerenstva iz stavka 13. ovoga članka kao i članovi njihovih obiteljskih poljoprivrednih gospodarstava ne mogu biti sudionici javnih natječaja za zakup i prodaju koji su u nadležnosti rada tog Povjerenstva.
+(15) Županija je dužna dati mišljenje iz stavka 12. ovoga članka u roku od 30 dana od dana primitka potpune dokumentacije. Ako županija ne izda mišljenje u roku 30 dana, smatra se da nema primjedbi.
+(16) Ministarstvo je dužno dati suglasnost iz stavka 12. ovoga članka u roku od 30 dana od dana primitka potpune dokumentacije, odnosno u istom roku odbiti davanje suglasnosti s obrazloženjem.

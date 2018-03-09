@@ -1,0 +1,3 @@
+# Članak 32.
+(1) Ako se poljoprivredno zemljište u vlasništvu države nalazi na području više jedinica lokalne samouprave, odluku o raspisivanju javnog natječaja za zakup donosi općinsko odnosno gradsko vijeće odnosno Gradska skupština Grada Zagreba, na čijem je području pretežni dio površine poljoprivrednog zemljišta u vlasništvu države.
+(2) Odluku o izboru najpovoljnije ponude na temelju javnog natječaja iz stavka 1. ovoga članka donosi općinsko ili gradsko vijeće odnosno Gradska skupština Grada Zagreba, na čijem je području pretežni dio površine poljoprivrednog zemljišta u vlasništvu države na prijedlog Povjerenstava za zakup, uz prethodno mišljenje županije i suglasnost Ministarstva, odnosno Gradske skupštine Grada Zagreba uz suglasnost Ministarstva.

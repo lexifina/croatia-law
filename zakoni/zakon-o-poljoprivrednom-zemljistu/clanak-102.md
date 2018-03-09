@@ -1,0 +1,3 @@
+# Članak 102.
+(1) Zakupnina i naknada iz ugovora koji su sklopljeni na temelju Zakona o poljoprivrednom zemljištu (»Narodne novine«, br. 66/01., 87/02., 48/05. i 90/05.), Zakona o poljoprivrednom zemljištu (»Narodne novine«, br. 152/08., 25/09., 153/09., 21/10., 39/11. – Odluka Ustavnog suda Republike Hrvatske i 63/11.), Zakona o poljoprivrednom zemljištu (»Narodne novine«, br. 39/13. i 48/15.) do stupanja na snagu ovoga Zakona i ugovora koji su sklopljeni sukladno članku 100. stavcima 1. i 2. ovoga Zakona revalorizirat će se sukladno propisu iz članka 50. stavka 6. ovoga Zakona.
+(2) Ugovori iz stavka 1. ovoga članka smatrat će se raskinutim ako zakupnici, odnosno koncesionari odbiju sklopiti aneks ugovora o revalorizaciji ugovorenih naknada.

@@ -1,0 +1,5 @@
+# Članak 65.
+(1) Odluku o izboru najpovoljnije ponude na javnom natječaju za prodaju donosi općinsko ili gradsko vijeće na čijem se području zemljište nalazi na prijedlog Povjerenstava za prodaju poljoprivrednog zemljišta u vlasništvu države (u daljnjem tekstu: Povjerenstvo za prodaju) uz prethodno mišljenje županije i suglasnost Ministarstva odnosno Gradska skupština Grada Zagreba uz suglasnost Ministarstva.
+(2) Povjerenstvo za prodaju imenuje predstavničko tijelo jedinica lokalne samouprave odnosno Grada Zagreba, a čini ga pet članova: po jedan predstavnik pravne, geodetske i agronomske struke te dva predstavnika općinskog ili gradskog vijeća odnosno Gradske skupštine Grada Zagreba, na čijem se području zemljište nalazi.
+(3) Županija je dužna dati mišljenje iz stavka 1. ovoga članka u roku od 30 dana od dana primitka potpune dokumentacije. Ako županija ne izda mišljenje u roku od 30 dana, smatra se da nema primjedbi.
+(4) Ministarstvo je dužno dati suglasnost iz stavka 1. ovoga članka u roku od 30 dana od dana primitka potpune dokumentacije, odnosno u istom roku dati obrazloženje odbijanja davanja suglasnosti.

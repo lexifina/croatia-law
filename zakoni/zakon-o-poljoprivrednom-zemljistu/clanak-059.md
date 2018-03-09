@@ -1,0 +1,5 @@
+## Prodaja
+# Članak 59.
+(1) Poljoprivredno zemljište u vlasništvu države može se prodati na temelju javnog natječaja, osim ribnjaka, zajedničkih pašnjaka, komasiranih, arondiranih površina poljoprivrednog zemljišta, poljoprivrednog zemljišta koje graniči s građevinskim područjima te osobito vrijedno obradivo (P1) i vrijedno obradivo (P2) poljoprivredno zemljište.
+(2) Iznimno, osobito vrijedno obradivo (P1) i vrijedno obradivo (P2) poljoprivredno zemljište u vlasništvu Republike Hrvatske koja se nalaze izvan proizvodno-tehnoloških cjelina koje su u funkciji poljoprivredne proizvodnje mogu se prodati na temelju javnog natječaja za katastarske čestice poljoprivrednog zemljišta u vlasništvu države površine do 1 ha za kontinentalno područje i površine do 0,2 ha za priobalno područje.
+(3) Početna vrijednost poljoprivrednog zemljišta za javni natječaj iz stavka 1. ovoga članka utvrđuje se na temelju podataka iz modula eNekretnine informacijskog sustava prostornog uređenja o prosječnoj vrijednosti poljoprivrednog zemljišta.

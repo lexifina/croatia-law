@@ -1,0 +1,9 @@
+# Članak 7.
+(1) Fizičke i pravne osobe upisane u Upisnik poljoprivrednika dužne su pratiti stanje poljoprivrednog zemljišta evidentiranog u sustav za identifikaciju poljoprivrednih parcela i evidenciju uporabe poljoprivrednog zemljišta u digitalnom grafičkom obliku (u daljnjem tekstu: ARKOD sustav) ispitivanjem plodnosti tla te voditi evidenciju o primjeni gnojiva (mineralnih i organskih), poboljšivača tla i pesticida.
+(2) Praćenje stanja iz stavka 1. ovoga članka obavljaju ovlašteni laboratoriji koje rješenjem na rok od četiri godine ovlasti Ministarstvo na prijedlog Povjerenstva koje imenuje ministar.
+(3) Protiv rješenja iz stavka 2. ovoga članka ne može se izjaviti žalba, ali se može pokrenuti upravni spor.
+(4) Postupak ovlašćivanja pokreće se na temelju pisanog zahtjeva laboratorija Ministarstvu.
+(5) Laboratoriji koji podnose zahtjev iz stavka 4. ovoga članka trebaju zadovoljavati prostorne uvjete, posjedovati odgovarajući osposobljen stručni kadar i tehničku opremu za provedbu ispitivanja te sudjelovati u međulaboratorijskim poredbenim ispitivanjima.
+(6) Praćenje stanja poljoprivrednog zemljišta iz stavka 1. ovoga članka provodi se na temelju analize tla na zahtjev korisnika, periodično najmanje svake četvrte godine, za korisnike koji su upisani u upisnik proizvođača integrirane i ekološke proizvodnje po zahtjevima takve proizvodnje, a za korisnike poljoprivrednog zemljišta u vlasništvu države koje se koriste na temelju ugovora o zakupu, zakupu zajedničkog pašnjaka i zakupu za ribnjake, dugogodišnjeg zakupa i koncesije tijekom prve godine nakon uvođenja u posjed i zadnje godine prije isteka ugovora te periodično najmanje svake četvrte godine za vrijeme trajanja zakupa.
+(7) Troškove analize tla snosi korisnik zemljišta.
+(8) Minimalnu površinu za praćenje stanja poljoprivrednog zemljišta iz stavka 1. ovoga članka propisuje ministar pravilnikom.

@@ -1,0 +1,11 @@
+# Članak 15.
+(1) Sredstva ostvarena od zakupa poljoprivrednog zemljišta u privatnom vlasništvu na temelju članka 14. ovoga Zakona pripadaju vlasniku zemljišta.
+(2) Ako je vlasnik zemljišta nedostupan ili nepoznatog boravišta, sredstva iz stavka 1. ovoga članka uplaćuju se u korist vlasnika na poseban račun jedinice lokalne samouprave na čijem se području zemljište nalazi.
+(3) Sredstva iz stavaka 1. i 2. ovoga članka umanjuju se za troškove u vezi s provedbom postupka davanja u zakup, za troškove održavanja računa i za porez na dohodak sukladno posebnom propisu.
+(4) Troškove iz stavka 3. ovoga članka koji se odnose na uvođenje u posjed snose 50% vlasnik i 50% jedinica lokalne samouprave odnosno Grad Zagreb na čijem se području zemljište nalazi.
+(5) Porez na dohodak iz stavka 3. ovoga članka utvrđuje se i plaća u trenutku kada se stvarnom vlasniku zemljišta isplate uplaćena sredstva na ime zakupnine, o čemu su jedinice lokalne samouprave na čijem se području zemljište nalazi dužne obavijestiti Ministarstvo financija, Poreznu upravu.
+(6) Hrvatske šume d.o.o. na zahtjev Ministarstva procjenjuju troškove stavljanja poljoprivrednog zemljišta iz članka 14. stavka 1. ovoga Zakona u funkciju poljoprivredne proizvodnje.
+(7) Poljoprivredno zemljište iz članka 14. stavka 1. ovoga Zakona zakupnik je dužan iskrčiti o vlastitom trošku u roku od dvije godine od dana uvođenja u posjed, a drvna masa koja ostane nakon krčenja i sredstva ostvarena od prodaje drvne mase pripadaju zakupniku.
+(8) Ako zakupnik iskrči poljoprivredno zemljište sukladno stavku 7. ovoga članka, a ne nastavi koristiti poljoprivredno zemljište u poljoprivredne svrhe sukladno ugovoru, ugovor o zakupu se raskida i zakupnik je dužan platiti zakupninu za sve ugovoreno vrijeme trajanja zakupa.
+(9) Vlasnik zemljišta iz stavka 2. ovoga članka može u svakom trenutku zatražiti isplatu uplaćenih sredstava na ime zakupnine, a nakon pet godina od uvođenja u posjed može zatražiti od zakupnika da nakon skidanja usjeva preda u posjed zemljište dano u zakup.
+(10) Ako vlasnik zemljišta ne zatraži isplatu uplaćenih sredstava na ime zakupnine s posebnog računa jedinice lokalne samouprave na čijem se području zemljište nalazi u roku od deset godina od dana uvođenja u posjed, izdvojena sredstva raspoređuju se sukladno članku 49. stavku 1. ovoga Zakona.
