@@ -1,0 +1,7 @@
+# Članak 26.
+PREKOGRANIČNO ONEČIŠĆENJE
+1. Svaka stranka poduzima sve potrebne mjere kako bi osigurala da se aktivnosti pod njezinom jurisdikcijom provode tako da ne uzrokuju onečišćenje izvan granica područja pod njezinom jurisdikcijom.
+2. Stranka pod čijom se jurisdikcijom predviđaju ili provode aktivnosti uzima u obzir sve moguće štetne utjecaje na okoliš, bez obzira na to postoji li vjerojatnost da se ti utjecaji pojave unutar ili izvan granica njezine jurisdikcije.
+3. Ako stranka sazna za slučajeve kad postoji neposredna opasnost da će u morskom okolišu nastati ili da je nastala šteta zbog onečišćenja, ona odmah o tome obavješćuje druge stranke na koje bi po njezinom mišljenju to onečišćenje moglo utjecati kao i Regionalni centar za žurne intervencije u slučaju onečišćenja Sredozemnog mora (REMPEC) te im pravovremeno dostavlja informacije koje bi im omogućile da prema potrebi poduzmu odgovarajuće mjere. REMPEC te informacije odmah šalje svim relevantnim strankama.
+4. Stranke nastoje, u skladu sa svojim pravnim sustavima i, prema potrebi, na temelju sporazuma, osigurati ravnopravan pristup upravnim postupcima i ravnopravan tretman tijekom tih postupaka osobama u drugim državama koje bi mogle biti pogođene onečišćenjem ili drugim štetnim učincima koji proizlaze iz predloženih ili postojećih operacija.
+5. Ako onečišćenje potječe s državnog područja države koja nije ugovorna stranka ovog Protokola, svaka pogođena ugovorna stranka nastoji surađivati s tom državom kako bi se omogućila primjena ovog Protokola.
