@@ -1,0 +1,3 @@
+## Prestanak važenja propisa
+# Članak 38.
+Danom stupanja na snagu ovoga Pravilnika prestaju važiti odredbe pravilnika za tip operacije 6.1.1. i 6.3.1. iz Pravilnika o provedbi Podmjere 6.1. »Potpora za pokretanje poslovanja mladim poljoprivrednicima«, Podmjere 6.2. »Potpora ulaganju u pokretanje nepoljoprivrednih djelatnosti u ruralnim područjima« i Podmjere 6.3. »Potpora razvoju malih poljoprivrednih gospodarstava« unutar mjere M06 »Razvoj poljoprivrednih gospodarstava i poslovanja« iz Programa ruralnog razvoja Republike Hrvatske za razdoblje 2014. - 2020. (»Narodne novine« broj 42/15, 6/17, 117/17).

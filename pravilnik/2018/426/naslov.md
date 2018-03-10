@@ -1,0 +1,1 @@
+Pravilnik o provedbi tipa operacije 6.1.1. »Potpora mladim poljoprivrednicima«, i tipa operacije 6.3.1. »Potpora razvoju malih poljoprivrednih gospodarstava« iz Programa ruralnog razvoja Republike Hrvatske za razdoblje 2014. - 2020.
