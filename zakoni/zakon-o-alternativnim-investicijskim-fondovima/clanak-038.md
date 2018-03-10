@@ -1,0 +1,10 @@
+## Statusne promjene UAIF-a
+# Članak 38.
+(1) UAIF koji namjerava pripojiti drugi UAIF iz Republike Hrvatske ili izvan nje odnosno drugu pravnu osobu iz Republike Hrvatske ili izvan nje mora, prije upisa pripajanja u sudski registar, dobiti odobrenje Agencije za pripajanje.
+(2) UAIF koji se namjerava pripojiti drugom UAIF-u iz Republike Hrvatske ili izvan nje dužan je, prije upisa pripajanja u sudski registar, od Agencije dobiti odobrenje za pripajanje.
+(3) UAIF koji se namjerava spojiti s drugim UAIF-ovima iz Republike Hrvatske ili izvan nje odnosno s drugim pravnim osobama iz Republike Hrvatske ili izvan nje, a da pritom nastane novi UAIF dužan je, prije upisa tog novog UAIF-a u sudski ili drugi odgovarajući registar, od Agencije dobiti odobrenje za spajanje.
+(4) UAIF koji se namjerava podijeliti razdvajanjem tako da svu svoju imovinu prenese na dva ili više novih UAIF-ova osnovanih u tu svrhu u Republici Hrvatskoj ili izvan nje dužan je, prije upisa podjele u sudski registar, od Agencije dobiti odobrenje za podjelu razdvajanjem.
+(5) UAIF koji se namjerava podijeliti razdvajanjem tako da svu svoju imovinu prenese na dva ili više postojećih UAIF-ova iz Republike Hrvatske ili izvan nje dužan je, prije upisa podjele u sudski registar, od Agencije dobiti odobrenje za podjelu razdvajanjem.
+(6) UAIF koji se namjerava podijeliti odvajanjem tako da jedan ili više dijelova svoje imovine prenese na jedan ili više novih UAIF-ova osnovanih u tu svrhu u Republici Hrvatskoj ili izvan nje dužan je, prije upisa podjele u sudski registar, od Agencije dobiti odobrenje za podjelu odvajanjem.
+(7) UAIF koji se namjerava podijeliti odvajanjem tako da jedan ili više dijelova svoje imovine prenese na jedan ili više postojećih UAIF-ova iz Republike Hrvatske ili izvan nje dužan je, prije upisa podjele u sudski registar, od Agencije dobiti odobrenje za podjelu odvajanjem.
+(8) Ako zbog statusne promjene nastane novi UAIF, taj UAIF mora prije upisa u sudski registar od Agencije dobiti odobrenje za rad.

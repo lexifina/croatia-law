@@ -1,0 +1,7 @@
+## UAIF iz Republike Hrvatske koji trguje udjelima AIF-a iz treće države u Republici Hrvatskoj i/ili drugoj državi članici preko putovnice
+# Članak 123.
+(1) UAIF iz Republike Hrvatske koji namjerava profesionalnim ulagateljima u Republici Hrvatskoj i/ili drugoj državi članici nuditi udjele AIF-ova iz treće države kojima upravlja i udjele napajajućeg AIF-a iz Republike Hrvatske ili druge države članice koji ne ispunjava uvjete iz članka 118. stavka 2. ovoga Zakona dužan je pridržavati se svih odredbi ovoga Zakona, osim odredbi članaka 118. – 121. ovoga Zakona.
+(2) Osim obveze iz stavka 1. ovoga članka, moraju se ispuniti i sljedeći uvjeti:
+a) postoje odgovarajući postupci suradnje između Agencije i nadzornih tijela treće države u kojoj je osnovan AIF kako bi se minimalno osigurala učinkovita razmjena informacija na temelju kojih Agencija može izvršavati svoje zadaće u skladu s odredbama ovoga Zakona
+b) treća država u kojoj je osnovan AIF nije uvrštena na popis FATF-a kao država ili teritorij koji ne surađuje i
+c) treća država u kojoj je osnovan AIF potpisala je sporazum s Republikom Hrvatskom i svakom drugom državom članicom u kojoj UAIF namjerava trgovati udjelima AIF-a iz treće države, koji u potpunosti ispunjava standarde iz članka 26. OECD-ova modela porezne konvencije o prihodima i kapitalu i osigurava učinkovitu razmjenu informacija u pogledu porezne materije, uključujući sve multilateralne porezne sporazume.

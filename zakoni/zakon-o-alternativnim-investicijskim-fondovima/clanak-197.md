@@ -1,0 +1,17 @@
+## POGLAVLJE IV. ODGOVORNOST DEPOZITARA
+# Članak 197.
+(1) Depozitar je odgovoran UAIF-u i ulagateljima AIF-a za gubitak financijskih instrumenata iz članka 192. stavka 1. točke 1. ovoga Zakona od strane depozitara ili treće osobe kojoj je depozitar delegirao pohranu financijskih instrumenata AIF-a na skrbništvo.
+(2) U slučaju gubitka financijskih instrumenata koji su pohranjeni na skrbništvo, depozitar u imovinu AIF-a vraća financijski instrument iste vrste ili odgovarajući iznos novčanih sredstava bez nepotrebnog kašnjenja.
+(3) Depozitar nije odgovoran za gubitak financijskih instrumenata koji su pohranjeni na skrbništvo ako može dokazati da je gubitak nastao zbog vanjskih, izvanrednih i nepredvidivih okolnosti, čije bi posljedice bile neizbježne unatoč svim razumnim nastojanjima da se one izbjegnu, spriječe ili otklone.
+(4) Depozitar odgovara UAIF-u i ulagateljima AIF-a i za bilo koju drugu počinjenu štetu koja je nastala kao posljedica propusta depozitara u obavljanju poslova depozitara propisanih ovim Zakonom, propisima donesenim na temelju ovoga Zakona i Delegiranom uredbom 231/2013.
+(5) Na odgovornost depozitara iz stavaka 1. – 4. ovoga članka ne utječe činjenica da je obavljanje svojih poslova iz članka 192. stavka 1. ovoga Zakona delegirao trećim osobama.
+(6) Iznimno od stavaka 1. – 4. ovoga članka, u slučaju gubitka financijskih instrumenata koje na skrbništvu drži treća osoba kojoj je ta funkcija delegirana u skladu s odredbama ovoga Zakona, depozitar se može osloboditi odgovornosti ako može dokazati da:
+a) je delegiranje izvršeno uz ispunjenje uvjeta iz članka 194. stavka 1. ovoga Zakona
+b) postoji pisani sporazum između depozitara i treće osobe o izričitom prijenosu odgovornosti na treću osobu koji omogućava da AIF ili UAIF za račun AIF-a izravno postavi zahtjev trećoj osobi koji se odnosi na gubitak financijskih instrumenata ili da isti zahtjev za njih postavi depozitar i
+c) postoji pisani sporazum između depozitara i AIF-a odnosno UAIF-a koji djeluje za račun AIF-a, koji izrijekom omogućava oslobođenje depozitara od odgovornosti, uz navođenje objektivnog razloga za ugovaranje takvog oslobođenja.
+(7) Kada propisi trećih država zahtijevaju da su određeni financijski instrumenti pohranjeni na skrbništvo kod lokalnih subjekata, a u toj državi nema lokalnih subjekata koji ispunjavaju uvjete za delegiranje iz članka 194. stavka 1. točke 4. podtočke d) ovoga Zakona, depozitar se može osloboditi od odgovornosti prema UAIF-u i ulagateljima u AIF ako su ispunjeni sljedeći uvjeti:
+a) pravila AIF-a odnosno prospekt AIF-a kada je to primjenjivo izričito omogućavaju takvo oslobođenje od odgovornosti prema uvjetima iz ovoga stavka
+b) ulagatelji u AIF su prije ulaganja uredno informirani o takvom oslobođenju od odgovornosti i okolnostima koje opravdavaju takvo oslobođenje od odgovornosti
+c) AIF ili UAIF za račun AIF-a uputio je depozitara da delegira poslove skrbništva takvih financijskih instrumenata tome lokalnom subjektu
+d) u pisanom sporazumu sklopljenom između AIF-a ili UAIF-a za račun AIF-a i depozitara izričito je dopušteno takvo oslobođenje od odgovornosti i
+e) u pisanom sporazumu sklopljenom između depozitara i treće osobe izričito je propisan prijenos odgovornosti s depozitara na taj lokalni subjekt te da AIF ili UAIF za račun AIF-a mogu podnijeti svoje zahtjeve koji se odnose na gubitak financijskih instrumenata izravno protiv tog lokalnog subjekta ili da isti zahtjev za njih može podnijeti depozitar.

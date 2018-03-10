@@ -1,0 +1,6 @@
+## POGLAVLJE V. PROMJENA DEPOZITARA
+# Članak 203.
+(1) Depozitar koji namjerava prestati obavljati poslove depozitara AIF-a dužan je najmanje dva mjeseca prije prestanka obavljanja tih poslova uputiti obavijest o svojoj namjeri Agenciji i UAIF-u koji upravlja AIF-om za koji obavlja poslove depozitara.
+(2) U slučaju iz stavka 1. ovoga članka UAIF je dužan zaključiti ugovor o obavljanju poslova depozitara s drugim depozitarom i Agenciji podnijeti zahtjev za izdavanje odobrenja za promjenu depozitara najkasnije 30 dana prije nego što trenutačni depozitar prestane s obavljanjem poslova depozitara.
+(3) Ako UAIF ne zaključi ugovor s novim depozitarom u skladu sa stavkom 2. ovoga članka odnosno ako Agencija ne izda odobrenje za promjenu depozitara prije nego što trenutačni depozitar prestane s obavljanjem poslova depozitara, trenutačni depozitar je dužan, ako je u mogućnosti, nastaviti s pružanjem usluga depozitara u daljnjem roku od 30 dana računajući od predviđenog datuma prestanka obavljanja poslova depozitara.
+(4) U slučaju da ni u dodatnom roku od 30 dana iz stavka 3. ovoga članka ne bude zaključen ugovor o obavljanju poslova depozitara s novim depozitarom i dobiveno odobrenje Agencije, AIF-ovi za koje je depozitar obavljao poslove depozitara moraju biti likvidirani, u skladu s odredbama dijela trinaestoga ovoga Zakona.

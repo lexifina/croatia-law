@@ -1,0 +1,4 @@
+# Članak 82.
+(1) UAIF je dužan u roku od 60 dana od upućivanja obavijesti iz članka 81. ovoga Zakona s drugim UAIF-om sklopiti ugovor o dobrovoljnom prijenosu upravljanja AIF-ovima, pri čemu je UAIF preuzimatelj dužan u istom roku Agenciji podnijeti zahtjev za izdavanje odobrenja za preuzimanje upravljanja, u skladu s pravilima AIF-a i prospektom kada je to primjenjivo te s odredbama poglavlja X. ovoga dijela Zakona.
+(2) Ako UAIF ne pronađe novi UAIF i na njega ne prenese upravljanje AIF-ovima u skladu s odredbama stavka 1. ovoga članka, dužan je pokrenuti postupak likvidacije AIF-ova u skladu s pravilima AIF-ova i prospektima kada je to primjenjivo te s odredbama dijela trinaestoga ovoga Zakona.
+(3) Prijenosom upravljanja AIF-ovima na drugi UAIF odnosno dovršetkom postupka likvidacije AIF-ova, UAIF-u Agencija donosi rješenje o ukidanju izdanog odobrenja za rad iz članka 37. stavka 1. ovoga Zakona.

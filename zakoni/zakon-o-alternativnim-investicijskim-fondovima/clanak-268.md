@@ -1,0 +1,3 @@
+# Članak 268.
+(1) U slučajevima poništavanja ili ukidanja odobrenja za rad UAIF-u, u potpunosti ili u odnosu na pojedine djelatnosti, za koji je Agenciji poznato da upravlja AIF-om iz druge države članice, Agencija će nadležnom tijelu matične države članice AIF-a dostaviti obavijest o takvom poništavanju ili ukidanju odobrenja za rad.
+(2) Kada Agencija zaprimi obavijest nadležnog tijela matične države članice UAIF-a koje upravlja AIF-om iz Republike Hrvatske, o poništenju ili ukidanju odobrenja za rad tom UAIF-u, u cijelosti ili u odnosu na pojedine djelatnosti, Agencija će poduzeti odgovarajuće mjere za zaštitu interesa ulagatelja, uključujući, među ostalim, i zabranu obavljanja transakcija ili zabranu izdavanja ili otkupa udjela, na području Republike Hrvatske.

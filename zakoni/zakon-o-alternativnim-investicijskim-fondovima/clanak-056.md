@@ -1,0 +1,5 @@
+## Praćenje usklađenosti s relevantnim propisima
+# Članak 56.
+(1) UAIF je dužan, uzimajući u obzir vrstu, opseg i složenost poslovanja društva, kao i djelatnosti koje obavlja, uspostaviti, provoditi te redovito ažurirati, procjenjivati i nadzirati primjerene politike i postupke čiji je cilj otkrivanje svakog rizika neusklađenosti s relevantnim propisima, kao i povezanih rizika te uspostaviti primjerene mjere i postupke radi smanjivanja takvih rizika.
+(2) UAIF je dužan uspostaviti, provoditi te redovito ažurirati, procjenjivati i nadzirati politike i postupke kako bi osigurao da posluje u skladu s ovim Zakonom i propisima donesenim na temelju ovoga Zakona, kao i s drugim relevantnim propisima te osigurati da članovi uprave i druge relevantne osobe postupaju u skladu s ovim Zakonom i propisima donesenim na temelju ovoga Zakona te pravilima UAIF-a kojima se uređuju osobne transakcije.
+(3) U izvršavanju svojih obveza predviđenih ovim člankom UAIF je dužan postupati u skladu s člankom 61. Delegirane uredbe 231/2013.

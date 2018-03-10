@@ -1,0 +1,11 @@
+## Dodatni iznos kapitala UAIF-a
+# Članak 24.
+(1) U slučaju kada netovrijednost imovine AIF-ova kojima upravlja UAIF prelazi iznos od 2 milijarde kuna, UAIF je dužan osigurati dodatni iznos kapitala jednak 0,02 % iznosa za koji netovrijednost imovine AIF-ova kojima upravlja UAIF prelazi iznos od 2 milijarde kuna, no zahtijevani ukupni iznos temeljnog kapitala i dodatni iznos kapitala ne smiju prelaziti 80.000.000,00 kuna.
+(2) U smislu stavka 1. ovoga članka, netovrijednost imovine AIF-ova kojima upravlja UAIF uključuje netovrijednost imovine AIF-ova za koje je UAIF, u skladu s člankom 71. ovoga Zakona, delegirao poslove upravljanja imovinom AIF-a, ali ne i netovrijednost imovine AIF-ova kojima UAIF upravlja na temelju delegiranja poslova upravljanja imovinom AIF-a.
+(3) Agencija može osloboditi UAIF od obveze da osigurava do 50 % dodatnog iznosa kapitala iz stavka 1. ovoga članka ako UAIF ima garanciju u istom iznosu, koju je izdala kreditna institucija ili društvo za osiguranje s registriranim sjedištem u Republici Hrvatskoj ili drugoj državi članici odnosno izdala je kreditna institucija ili društvo za osiguranje s registriranim sjedištem u trećoj državi ako one podliježu pravilima bonitetnog nadzora za koja Agencija smatra da su istovjetna s onima koja su propisana hrvatskim propisima.
+(4) Kako bi se pokrili mogući rizici od profesionalne odgovornosti koji proizlaze iz registrirane djelatnosti UAIF-a, vanjski UAIF odnosno zatvoreni AIF s unutarnjim upravljanjem dužan je:
+(a) osigurati dodatni kapital koji je prikladan za pokriće mogućih gubitaka od rizika neispunjavanja obveza i nepostupanja pažnjom dobrog stručnjaka ili
+(b) imati osiguranje od profesionalne odgovornosti koje primjereno pokriva gubitke od navedenih rizika.
+(5) U ispunjavanju obveza iz stavka 4. ovoga članka UAIF je dužan postupati u skladu s člancima 12. – 15. Delegirane uredbe 231/2013.
+(6) Agencija pravilnikom detaljnije propisuje način i rokove izvještavanja Agencije o ispunjavanju obveza iz stavka 4. ovoga članka.
+(7) Agencija pravilnikom detaljnije propisuje dodatne kapitalne zahtjeve za UAIF-ove koji osim djelatnosti upravljanja AIF-ovima, obavljaju djelatnost upravljanja UCITS fondovima.

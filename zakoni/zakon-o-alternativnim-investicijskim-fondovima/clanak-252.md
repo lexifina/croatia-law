@@ -1,0 +1,3 @@
+## Izvješće revizora o otklanjanju nezakonitosti i nepravilnosti
+# Članak 252.
+Ako pri obavljanju nadzora Agencija utvrdi nezakonitosti i nepravilnosti koje se odnose na vođenje poslovnih knjiga i druge poslovne dokumentacije koju je UAIF dužan voditi prema odredbama ovoga Zakona, na temelju njega donesenih propisa ili drugih zakona kojima se uređuje poslovanje UAIF-a i propisa donesenih na temelju njih odnosno ako utvrdi druge značajnije nezakonitosti, može naložiti UAIF-u da podnese izvješće o otklanjanju nezakonitosti i nepravilnosti, kojemu je dužan priložiti mišljenje revizora iz kojeg je vidljivo jesu li nezakonitosti i nepravilnosti otklonjene.

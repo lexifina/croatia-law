@@ -1,0 +1,5 @@
+## POGLAVLJE VII. OBAVLJANJE DJELATNOSTI UAIF-a IZ TREĆE DRŽAVE U REPUBLICI HRVATSKOJ, KADA REPUBLIKA HRVATSKA NIJE REFERENTNA DRŽAVA ČLANICA UAIF-a
+# Članak 141.
+(1) UAIF iz treće države, kada Republika Hrvatska nije referentna država članica UAIF-a, može upravljati AIF-om iz Republike Hrvatske putem podružnice ili izravno, ako je od nadležnog tijela referentne države članice, sukladno propisu kojim se u pravni poredak te države članice prenose odredbe Direktive 2011/61/EU, dobio odobrenje za upravljanje tom vrstom AIF-a kojom namjerava upravljati.
+(2) UAIF iz treće države članice može započeti obavljati djelatnosti iz stavka 1. ovoga članka od dana primitka obavijesti od nadležnog tijela referentne države članice UAIF-a da je ono Agenciji proslijedilo obavijest i potvrdu koje odgovaraju onima iz članka 140. stavaka 2., 3. i 5. ovoga Zakona.
+(3) UAIF iz stavka 1. ovoga članka koji u Republici Hrvatskoj obavlja svoju djelatnost putem podružnice dužan je postupati u skladu s odredbama članka 52., članka 53. stavka 1. točke 7. i članka 54. ovoga Zakona.

@@ -1,0 +1,3 @@
+## Rokovi izrade i dostave revidiranih godišnjih izvještaja AIF-ova
+# Članak 173.
+UAIF je dužan za svaki AIF iz Republike Hrvatske i druge države članice kojim upravlja kao i za svaki AIF čijim udjelima trguje u Republici Hrvatskoj i drugoj državi članici dostaviti Agenciji, i kada je to primjenjivo nadležnom tijelu matične države članice AIF-a revidirane godišnje izvještaje AIF-ova u roku od četiri mjeseca od završetka poslovne godine za AIF-ove s javnom ponudom te u roku od šest mjeseci od završetka poslovne godine za AIF-ove s privatnom ponudom. UAIF je dužan godišnje financijske izvještaje na zahtjev dostaviti ulagateljima.

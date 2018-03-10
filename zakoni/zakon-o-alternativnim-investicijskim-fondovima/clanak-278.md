@@ -1,0 +1,4 @@
+## Otkrivanje informacija trećim državama
+# Članak 278.
+(1) Agencija može trećoj državi dostaviti podatke i obradu informacija o činjenicama i okolnostima koje su važne za izvršavanje obveza i dužnosti te treće države samo u slučajevima kad Agencija ocijeni da je takav prijenos podataka potreban radi ispunjenja zahtjeva iz Direktive 2011/61/EU i da treća država osigurava adekvatnu razinu zaštite osobnih podataka te ispunjava druge zahtjeve sukladno propisima kojima se regulira zaštita osobnih podataka. Treća država ne smije prosljeđivati zaprimljene informacije drugoj trećoj državi bez izričitog pisanog odobrenja Agencije.
+(2) Agencija će nadzornom tijelu treće države pružiti informacije koje je primila od nadležnog tijela druge države članice samo ako nadležno tijelo druge države članice za to da izričitu suglasnost te, prema potrebi, samo za svrhu za koju je suglasnost dana.

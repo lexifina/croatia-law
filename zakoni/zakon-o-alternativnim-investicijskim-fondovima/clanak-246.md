@@ -1,0 +1,6 @@
+## Nadzorne mjere
+# Članak 246.
+(1) Na temelju provedenog postupka neposrednog ili posrednog nadzora Agencija može subjektu nadzora izreći nadzorne mjere propisane ovim Zakonom, člankom 21. stavkom 2. Uredbe (EU) br. 345/2013 i člankom 22. stavkom 2. Uredbe (EU) br. 346/2013 u svrhu zakonitog i urednog poslovanja subjekata nadzora, zaštite interesa ulagatelja i zaštite javnog interesa, a u slučaju utvrđenih nezakonitosti i nepravilnosti podnijeti odgovarajuću prijavu nadležnom tijelu.
+(2) U smislu ovoga Zakona, nezakonitosti su stanja i postupci koji nisu u skladu s ovim Zakonom, propisima donesenim na temelju ovoga Zakona, odredbama uredbi Europske unije iz članka 2. stavka 2. ovoga Zakona, drugim zakonima i podzakonskim aktima te međunarodnim aktima i propisima.
+(3) U smislu ovoga Zakona, nepravilnosti su stanja i postupci koji nisu u skladu s vlastitim poslovnim politikama, usvojenim pravilima subjekta nadzora te standardima i pravilima struke ili se oni dosljedno ne primjenjuju, a time se ugrožava poslovanje, posebice u vezi s organizacijskim zahtjevima i upravljanjem rizicima.
+(4) Kada Agencija utvrdi postojanje osnovane sumnje o počinjenom kaznenom djelu ili prekršaju, podnosi odgovarajuću prijavu nadležnom tijelu.

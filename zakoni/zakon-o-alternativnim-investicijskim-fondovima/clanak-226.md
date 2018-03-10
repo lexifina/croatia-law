@@ -1,0 +1,3 @@
+# Članak 226.
+(1) U postupku provedbe likvidacije AIF-a likvidator je dužan postupati u najboljem interesu ulagatelja i voditi računa da se likvidacija provede u razumnom roku, pri čemu se prvo podmiruju obveze AIF-a dospjele do dana donošenja odluke o likvidaciji, uključujući zahtjeve za otkup udjela koji su podneseni do dana donošenja odluke o likvidaciji, nakon čega se podmiruju sve druge obveze AIF-a koje nisu dospjele do dana donošenja odluke o likvidaciji, a proizlaze iz transakcija povezanih uz upravljanje imovinom.
+(2) Preostala netovrijednost imovine AIF-a, nakon podmirenja obveza AIF-a iz stavka 1. ovoga članka, raspodjeljuje se ulagateljima, razmjerno njihovu udjelu u AIF-u.

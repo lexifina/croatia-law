@@ -1,0 +1,3 @@
+# Članak 9.
+(1) Agencija će na svojoj internetskoj stranici objaviti i popis svih UAIF-ova iz drugih država članica i trećih država i njihovih podružnica koji obavljaju djelatnost na području Republike Hrvatske, kao i popis AIF-ova iz drugih država članica i trećih država čijim se udjelima trguje u Republici Hrvatskoj.
+(2) Agencija će na svojoj internetskoj stranici objaviti i popis svih UAIF-ova iz drugih država članica koji trguju udjelima kvalificiranih fondova poduzetničkog kapitala i kvalificiranih fondova socijalnog poduzetništva pod oznakom EuVECA i EuSEF na području Republike Hrvatske, kao i popis tih fondova.

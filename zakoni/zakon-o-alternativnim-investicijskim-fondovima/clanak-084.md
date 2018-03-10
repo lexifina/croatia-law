@@ -1,0 +1,7 @@
+## Ugovor o ulaganju
+# Članak 84.
+(1) Povjerenički odnos UAIF-a i ulagatelja u AIF bez pravne osobnosti temelji se na ugovoru o ulaganju i postoji između UAIF-a i svakodobnog imatelja udjela AIF-a.
+(2) Ugovorom o ulaganju UAIF se obvezuje ulagatelju izdati udjele AIF-a, izvršiti upis ulagatelja u registar udjela, otkupiti udjele od ulagatelja u skladu s pravilima AIF-a i prospektom kada je to primjenjivo te dalje ulagati ta sredstva i upravljati AIF-om za zajednički račun ulagatelja i poduzimati sve ostale pravne poslove i radnje potrebne za upravljanje AIF-om u skladu s odredbama ovoga Zakona, pravilima AIF-a i prospektom, kada je to primjenjivo.
+(3) Kod originarnog stjecanja udjela ugovor o ulaganju sklopljen je kada je ulagatelj UAIF-u podnio uredan zahtjev za izdavanje udjela i izvršio valjanu uplatu iznosa iz zahtjeva, a UAIF ne odbije sklapanje ugovora. U svim ostalim slučajevima ugovor o ulaganju je sklopljen u trenutku kada UAIF odnosno voditelj registra upiše stjecatelja u registar udjela.
+(4) Na temelju ugovora o ulaganju ulagatelj uz udjel stječe položaj suovlaštenika na stvarima, pravima i tražbinama koje pripadaju zajedničkoj zasebnoj imovini AIF-a.
+(5) Uplaćena sredstva iz stavka 3. ovoga članka UAIF smije ulagati tek nakon što ulagatelj bude upisan u registar udjela, osim ako iz pravila AIF-a i prospekta, kada je to primjenjivo, ili propisa kojima se uređuje pojedini oblik AIF-a ne proizlazi drugačije.

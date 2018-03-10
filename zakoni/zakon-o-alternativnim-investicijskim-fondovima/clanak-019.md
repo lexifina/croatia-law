@@ -1,0 +1,7 @@
+## Promjena kategorija UAIF-ova
+# Članak 19.
+(1) Mali odnosno srednji UAIF, u slučaju kada ukupna vrijednost imovine AIF-ova pod upravljanjem prijeđe prag propisan člankom 18. stavkom 1. ovoga Zakona, dužan je postupiti u skladu s člankom 4. Delegirane uredbe 231/2013 te kada procijeni da prelazak praga nije privremene naravi, u roku od 30 dana Agenciji podnijeti zahtjev za izdavanje odobrenja za rad velikog UAIF-a.
+(2) Ako se udjeli AIF-a kojim upravlja mali odnosno srednji UAIF namjeravaju nuditi malim ulagateljima, mali odnosno srednji UAIF Agenciji je dužan podnijeti zahtjev za izdavanje odobrenja za rad velikog UAIF-a.
+(3) Neovisno o odredbama članaka 16. i 17. ovoga Zakona, mali odnosno srednji UAIF može Agenciji podnijeti zahtjev za izdavanje odobrenja za rad velikog UAIF-a.
+(4) Od izvršnosti rješenja kojim Agencija odobrava rad velikog UAIF-a iz stavaka 1., 2. i 3. ovoga članka na UAIF se primjenjuju sve odredbe ovoga Zakona i Delegirane uredbe 231/2013.
+(5) Mali UAIF, u slučaju kada ukupna vrijednost imovine AIF-ova pod upravljanjem prijeđe prag propisan člankom 17. stavkom 1. ovoga Zakona, dužan je postupiti u skladu s člankom 4. Delegirane uredbe 231/2013 te kada procijeni da prelazak praga nije privremene naravi, u roku od 30 dana Agenciji podnijeti zahtjev za izdavanje odobrenja za rad srednjeg UAIF-a. Od izvršnosti rješenja kojim Agencija odobrava rad srednjeg UAIF-a na njega se primjenjuju odredbe ovoga Zakona i Delegirane uredbe 231/2013 koje je dužan primjenjivati srednji UAIF.

@@ -1,0 +1,2 @@
+# Članak 103.
+U godišnjim financijskim izvještajima zatvorenog AIF-a s pravnom osobnošću kojim upravlja vanjski UAIF objavljuje se ukupni iznos naknada i troškova plaćenih članu nadzornog odbora, kao i broj i vrijednost svih dionica odnosno poslovnih udjela kojih je pojedini član nadzornog odbora imatelj u zatvorenom AIF-u. Članovima nadzornog odbora nije dopušteno primanje nikakve nagrade od izdavatelja financijskih instrumenata u koje zatvoreni AIF ulaže svoja sredstva, osim primanja koja mu pripadaju na temelju ugovora o radu.

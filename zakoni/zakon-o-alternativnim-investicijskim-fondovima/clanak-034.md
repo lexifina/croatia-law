@@ -1,0 +1,4 @@
+# Članak 34.
+(1) UAIF ne smije imati kontrolu niti kvalificirani udjel u investicijskom društvu, kreditnoj instituciji koja pruža investicijske usluge i obavlja investicijske aktivnosti u skladu s odredbama zakona kojim se uređuje tržište kapitala odnosno koja obavlja odgovarajuće usluge u skladu s odredbama zakona kojim se uređuje osnivanje i poslovanje kreditnih institucija, društvu za osiguranje, društvu za reosiguranje, mirovinskom društvu za upravljanje obveznim ili dobrovoljnim mirovinskim fondovima, mirovinskom osiguravajućem društvu, faktoring-društvu ili leasing-društvu, osim ako takva kontrola nije posljedica realizacije ulaganja AIF-a pod upravljanjem tog UAIF-a.
+(2) UAIF ne smije imati dionice ili udjele u depozitaru.
+(3) UAIF ne smije imati dionice ili udjele u osobi kojoj je depozitar delegirao poslove iz članka 212. ovoga Zakona.

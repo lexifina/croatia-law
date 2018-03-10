@@ -1,0 +1,3 @@
+# Članak 205.
+Na dan kada je ugovorom o obavljanju poslova depozitara zaključenim s novim depozitarom predviđeno da će novi depozitar početi s obavljanjem poslova depozitara, dosadašnji depozitar je dužan svu imovinu AIF-a prenijeti na pohranu i administriranje novom depozitaru s kojim UAIF zaključi ugovor o obavljanju poslova depozitara i za kojeg dobije odobrenje Agencije, pri čemu mora predati i knjige računa, evidencije i sve druge dokumente i materijale bitne za poslovanje AIF-a za koji je do tada obavljao poslove depozitara, i to u pisanom ili elektroničkom obliku, ovisno o načinu vođenja naznačenih podataka.
+POGLAVLJE VI.

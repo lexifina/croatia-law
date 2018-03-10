@@ -1,0 +1,7 @@
+# Članak 132.
+(1) Ako Agencija ocijeni da UAIF, sukladno članku 127. stavku 3. ovoga Zakona, ne mora u cijelosti biti usklađen s odredbama ovoga Zakona, o tome će bez odgode obavijestiti ESMA-u te joj dostaviti podatke iz članka 131. stavka 2. točaka b), c) i d) ovoga Zakona.
+(2) U roku od mjesec dana od dana zaprimanja obavijesti iz stavka 1. ovoga članka ESMA izdaje Agenciji savjet o primjeni iznimke za usklađenost s odredbama ovoga Zakona.
+(3) Rok iz članka 30. stavka 2. ovoga Zakona o obavještavanju podnositelja zahtjeva o zahtjevu za izdavanje odobrenja za rad prekida se za vrijeme dok Agencija ne zaprimi savjet ESMA-e na temelju obavijesti iz stavka 1. ovoga članka.
+(4) Ako Agencija namjerava izdati odobrenje za rad protivno savjetu ESMA-e iz stavka 2. ovoga članka, o tome će obavijestiti ESMA-u, navodeći razloge.
+(5) Ako Agencija namjerava izdati odobrenje za rad protivno savjetu ESMA-e iz stavka 2. ovoga članka, a UAIF iz treće države namjerava trgovati udjelima AIF-ova kojima upravlja i u drugim državama članicama, Agencija će kao referentna država članica UAIF-a o razlozima izdavanja odobrenja za rad obavijestiti nadležna tijela tih država članica.
+(6) Kada je druga država članica utvrđena kao referentna država članica UAIF-a iz treće države, a Agencija se ne slaže s njezinom ocjenom koja je istovjetna s onom iz stavka 1. ovoga članka, Agencija se može obratiti ESMA-i.

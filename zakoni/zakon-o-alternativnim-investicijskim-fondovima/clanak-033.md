@@ -1,0 +1,6 @@
+## Promjena uvjeta pod kojim je UAIF-u izdano odobrenje za rad
+# Članak 33.
+(1) UAIF je dužan trajno udovoljavati uvjetima pod kojima mu je Agencija izdala odobrenje za rad.
+(2) UAIF je dužan izvijestiti Agenciju o svim značajnim promjenama podataka i uvjeta pod kojima mu je izdano odobrenje za rad, a osobito o značajnim promjenama podataka koji su dostavljeni uz zahtjev za izdavanje odobrenja za rad u roku od 30 dana od nastanka značajnih promjena podataka i uvjeta pod kojim je izdano odobrenje za rad.
+(3) Agencija će u roku od 30 dana od dana zaprimanja obavijesti iz stavka 2. ovoga članka ocijeniti značaj predloženih promjena te obavijestiti UAIF o eventualnim ograničenjima pri provedbi navedenih promjena, daljnjim obvezama UAIF u odnosu na te promjene ili će predložene promjene odbiti. Ako je to potrebno s obzirom na okolnosti konkretnog slučaja, Agencija može navedeni rok produljiti za dodatnih 30 dana, o čemu će obavijestiti UAIF.
+(4) Ako u roku iz stavka 3. ovoga članka Agencija ne obavijesti UAIF o eventualnim ograničenjima pri provedbi navedenih promjena, daljnjim obvezama UAIF-a u odnosu na predložene promjene ili te promjene ne odbije, smatra se da je predložene promjene prihvatila te da UAIF i dalje udovoljava uvjetima pod kojima mu je Agencija izdala odobrenje za rad.

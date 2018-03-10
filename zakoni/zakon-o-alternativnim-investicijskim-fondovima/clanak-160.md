@@ -1,0 +1,4 @@
+## Otkup in specie u AIF-u bez pravne osobnosti
+# Članak 160.
+(1) Otkup in specie, odnosno otkup prijenosom odgovarajućeg postotka svake vrste imovine AIF-a u ukupnoj vrijednosti jednakoj vrijednosti udjela AIF-a koji se time otkupljuju, dopušten je, u mjeri u kojoj je to moguće i provedivo, u slučaju kada bi se prodajom imovine AIF-a, prijeko potrebnom za zadovoljenje zahtjeva za otkup velike vrijednosti, u nepovoljan položaj doveli ostali ulagatelji u AIF i pod uvjetom da pravila AIF-a i prospekt kada je to primjenjivo predviđaju otkup in specie.
+(2) Kada bi se otkupom udjela iz članka 159. ovoga Zakona u nepovoljan položaj doveli ostali ulagatelji, dozvoljena je kombinacija otkupa in specie iz stavka 1. ovoga članka i otkupa iz članka 159. ovoga Zakona, pod uvjetom da je to predviđeno pravilima AIF-a i prospektom kada je to primjenjivo.
