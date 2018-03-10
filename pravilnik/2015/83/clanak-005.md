@@ -1,4 +1,0 @@
-## V. NADZOR PO IZVRŠENIM ISPLATAMA NOVČANIH PRAVA ZA KORISNIKE KOJI PREBIVALIŠTE IMAJU U INOZEMSTVU
-# Članak 5.
-(1) Za korisnike novčanih prava koji prebivalište imaju u inozemstvu, prvostupanjsko tijelo će dva puta u kalendarskoj godini zatražiti od korisnika prava u ostavljenom roku dostavu potvrde o životu sa ovjerenim osobnim potpisom kod nadležnog tijela države u kojoj korisnik ima prebivalište. Potvrda o životu sadrži i izjavu o zaposlenju, o redovitom školovanju, o priznavanju prava na mirovinu i o zaključenju braka.
-(2) Prvostupanjsko tijelo će u slučaju kada do ostavljenog roka od korisnika novčanog prava ne zaprimi potvrdu o životu iz stavka 1. ovoga članka, poduzeti mjere za sprečavanje isplate nepripadajućih novčanih prava korisnicima novčanih prava od kojih nije zaprimilo potvrdu o životu, odnosno provesti postupak utvrđen člankom 6. ovog Pravilnika.

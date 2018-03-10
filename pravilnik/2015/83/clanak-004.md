@@ -1,5 +1,0 @@
-## IV. NADZOR PRESTANKA ISPLATA NOVČANIH PRAVA TEMELJEM SMRTI KORISNIKA
-# Članak 4.
-(1) Prvostupanjsko tijelo obvezno je najkasnije do petog dana svakog tekućeg mjeseca zatražiti od mjesno nadležnog tijela uprave za poslove matičarstva, podatke o umrlim osobama s područja svoje mjesne nadležnosti, uključivo i podatke o osobama koje su umrle izvan područja mjesne nadležnosti tijela uprave za poslove matičarstva, a upisane su u knjige rođenih na području mjesne nadležnosti tijela uprave za poslove matičarstva.
-(2) Tijelo uprave nadležno za poslove matičarstva iz stavka 1. ovog članka će podatke iz stavka 1. ovog članka za svaki prethodni mjesec, koji sadrže ime i prezime umrle osobe, ime jednog roditelja, datum smrti, datum rođenja i mjesto prebivališta umrle osobe dostaviti prvostupanjskom tijelu najkasnije do 10. dana u tekućem mjesecu.
-(3) Prvostupanjsko tijelo obvezno je nakon zaprimanja podataka iz stavka 2. ovog članka odmah, a najkasnije do svakog 25. dana u tekućem mjesecu, poduzeti mjere za sprečavanje isplate nepripadajućih novčanih prava umrlim korisnicima prava, odnosno provesti postupak utvrđen člankom 6. ovog Pravilnika.
