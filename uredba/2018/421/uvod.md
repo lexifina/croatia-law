@@ -1,0 +1,1 @@
+Na temelju članka 123. stavka 2. Zakona o plovidbi i lukama unutarnjih voda (»Narodne novine«, br. 109/07, 132/07 - ispravak, 51A/13 i 152/14), Vlada Republike Hrvatske je na sjednici održanoj 1. ožujka 2018. godine donijela
