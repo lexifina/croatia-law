@@ -1,0 +1,6 @@
+## Razrjeđivanje dioničarske strukture
+# Članak 6.
+(1) Pod uvjetom da je u skladu s procjenom vrijednosti imovina kreditne institucije veća od njezinih obveza, u skladu s člankom 41. stavkom 1. Zakona Hrvatska narodna banka ovlaštena je pri primjeni ovlasti za smanjenje vrijednosti i pretvaranje razrijediti dioničarsku strukturu pretvaranjem u instrumente redovnoga osnovnoga kapitala relevantnih instrumenata kapitala koje je izdala kreditna institucija.
+(2) Ako Hrvatska narodna banka u skladu s člankom 37. stavkom 1. Zakona primjenjuje ovlast za smanjenje vrijednosti i pretvaranje, razrjeđivanje iz stavka 1. ovog članka obavlja pojedinačno ili u kombinaciji s mjerom iz članka 5. stavka 3. ove Odluke, vodeći računa o postizanju ciljeva sanacije.
+(3) Razrjeđivanje iz stavka 1. ovog članka obavlja se po stopi pretvaranja kojom se značajno razrjeđuje postojeća dioničarska struktura.
+(4) Značajno razrjeđivanje iz stavka 3. ovog članka znači smanjenje udjela dioničara u temeljnom kapitalu kreditne institucije uz smanjenje nominalne vrijednosti dionice ili drugih vlasničkih instrumenata. Takvim razrjeđivanjem dioničar ne smije biti doveden u nepovoljniji položaj u odnosu na procijenjeni ishod u slučaju da je nad kreditnom institucijom proveden stečajni postupak.

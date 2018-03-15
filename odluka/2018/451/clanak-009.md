@@ -1,0 +1,6 @@
+## Hijerarhija vjerovnika
+# Članak 9.
+(1) Instrumenti redovnoga osnovnoga kapitala mogu biti izdani na temelju pretvaranja obveza povezanih s tražbinama koje u stečajnom postupku ulaze u različite isplatne redove, i to kada se nakon pretvaranja obveza povezanih s tražbinama nižega isplatnog reda provodi pretvaranje obveza povezanih s tražbinama višega isplatnog reda.
+(2) U skladu s člankom 42. stavkom 3. Zakona, ako Hrvatska narodna banka primjenjuje različite stope pretvaranja, stopa pretvaranja koja se primjenjuje na obveze povezane s tražbinama koje u stečajnom postupku ulaze u više isplatne redove i imaju pravo prvenstva pri namirenju u stečajnom postupku bit će viša od stopa pretvaranja za obveze povezane s tražbinama koje ulaze u niže isplatne redove.
+(3) Pri pretvaranju obveza povezanih s tražbinama koje u stečajnom postupku ulaze u različite isplatne redove vrijednost instrumenata redovnoga osnovnoga kapitala izdanih pogođenim vjerovnicima tražbina višega isplatnog reda neće biti manja od vrijednosti njihovih tražbina povezanih s obvezama na koje je primijenjena ovlast za smanjenje vrijednosti i pretvaranje.
+(4) Ako uvjet iz stavka 3. ovog članka nije ispunjen, stopa pretvaranja koja se primjenjuje na obveze povezane s tražbinama koje ulaze u niže isplatne redove iznosi nula ili približno nula.
