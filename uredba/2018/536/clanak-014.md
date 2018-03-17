@@ -1,0 +1,2 @@
+# Članak 14.
+Okvirni broj potrebnih državnih službenika i namještenika u Ministarstvu financija prikazan u tablici koja je sastavni dio Uredbe o unutarnjem ustrojstvu Ministarstva financija (»Narodne novine«, broj 54/17), zamjenjuje se Okvirnim brojem potrebnih državnih službenika i namještenika u Ministarstvu financija koji je sadržan u tablici tiskanoj u prilogu ove Uredbe i čini sastavni dio Uredbe o unutarnjem ustrojstvu Ministarstva financija.
