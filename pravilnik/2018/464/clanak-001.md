@@ -1,0 +1,4 @@
+## 2014. - 2020.
+# Članak 1.
+U Pravilniku o dodjeli potpore za »Razminiranje poljoprivrednog zemljišta« iz Programa ruralnog razvoja Republike Hrvatske za razdoblje 2014. - 2020. (»Narodne novine«, broj 38/15) članak 9. mijenja se i glasi:
+Preračun eura u kune obavljat će se prema zadnjem tečaju koji je Europska središnja banka odredila prije 1. siječnja godine u kojoj je donesena Odluka o prihvatljivosti zahtjeva za potporu ili Odluka o dodjeli sredstava, sukladno članku 34. Delegirane uredbe Komisije (EU) br. 907/2014 оd 11. ožujka 2014. o dopuni Uredbe (EU) br. 1306/2013 Europskog parlamenta i Vijeća u pogledu agencija za plaćanja i ostalih tijela, financijskog upravljanja, poravnanja računa, jamstava i upotrebe eura (SL L 255, 28. 8. 2014., str. 18 - 58). Web-adresa na kojoj se može dobiti uvid u navedeni tečaj je: https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/eurofxref-graph-hrk.en.html.
