@@ -1,0 +1,7 @@
+## Obveze nositelja odobrenja objekata treće kategorije i aktivnosti četvrte kategorije
+# Članak 28.
+(1) Nositelj odobrenja objekata treće kategorije i aktivnosti četvrte kategorije snosi punu odgovornost za planiranje i provođenje odgovora na izvanredni događaj na lokaciji pod nadzorom nositelja odobrenja.
+(2) Nositelj odobrenja objekata treće kategorije i aktivnosti četvrte kategorije je o svakom izvanrednom događaju obvezan neodgodivo obavijestiti centar 112.
+(3) U slučaju postupanja žurnih službi na lokaciji pod nadzorom nositelja odobrenja objekata treće kategorije i aktivnosti četvrte kategorije, bilo vezanih uz izvanredni događaj u tijeku ili iz drugih razloga, nositelj odobrenja je obvezan osigurati kvalitetnu i funkcionalnu komunikaciju i koordinaciju između sudionika sustava odgovora na izvanredni događaj na lokaciji te žurnih službi.
+(4) Nositelj odobrenja objekata treće kategorije i aktivnosti četvrte kategorije obvezan je osigurati kvalitetnu i funkcionalnu komunikaciju i koordinaciju između sudionika sustava odgovora na izvanredni događaj na lokaciji te onih izvan lokacije pod nadzorom nositelja odobrenja.
+(5) Nositelj odobrenja objekata treće kategorije i aktivnosti četvrte kategorije obvezan je osigurati provođenje radioloških mjerenja u cilju praćenja stanja radioaktivnosti u okolišu kako bi se utvrdilo postoji li potreba poduzimanja mjera izvan lokacije pod nadzorom nositelja odobrenja.

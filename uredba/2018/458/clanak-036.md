@@ -1,0 +1,17 @@
+## Zaštita radnika
+# Članak 36.
+(1) Radnici koji sudjeluju u odgovoru na izvanredni događaj su sve osobe koje imaju unaprijed predviđene zadatke u odgovoru na izvanredni događaj i koje mogu biti ozračene tijekom odgovora na izvanredni događaj.
+(2) U odgovoru na izvanredni događaj mogu sudjelovati i osobe koje se zateknu na mjestu događaja, a nisu predviđene za sudjelovanje u odgovoru na izvanredni događaj.
+(3) Radnicima koji sudjeluju u odgovoru na izvanredni događaj potrebno je unaprijed osigurati odgovarajuće ažurirane informacije o zdravstvenom riziku koji bi njihova aktivnost mogla predstavljati te o mjerama opreza koje je potrebno poduzeti, nastavno vrsti izvanrednog događaja.
+(4) Nositelj odobrenja je obvezan osigurati obrazovanje i obuku za djelovanje tijekom izvanrednog događaja te kontinuirano informiranje o zdravstvenim rizicima, ovisno o mogućim izvanrednim događajima, svim radnicima koji sudjeluju u odgovoru na izvanredni događaj.
+(5) Nositelj odobrenja je obvezan osigurati osposobljavanje iz zaštite od zračenja te informiranje o zaštiti od zračenja, ovisno o mogućim izvanrednim događajima, svim radnicima koji sudjeluju u odgovoru na izvanredni događaj.
+(6) Ozračenje radnika koji sudjeluju u odgovoru na izvanredni događaj ne bi trebalo prelaziti dozvoljene granice ozračenja za izložene radnike navedene u Pravilniku iz članka 24. Zakona.
+(7) Ako postupanje u skladu sa stavkom 6. ovoga članka nije izvedivo, vrijedi:
+- referentna razina efektivne doze za djelatnike koji sudjeluju u odgovoru na izvanredni događaj ne smije prijeći 100 mSv
+- u slučajevima kada je to neophodno zbog spašavanja života, sprječavanja nastanka teških zdravstvenih učinaka nastalih kao posljedice ionizirajućeg zračenja te sprječavanja razvoja katastrofalnih uvjeta, referentna razina efektivne doze za vanjsko ozračenje može biti veća od 100 mSv, ali ne smije prijeći 500 mSv.
+(8) Radnicima koji sudjeluju u odgovoru na izvanredni događaj mogu biti dodijeljeni zadaci koji mogu rezultirati primljenim dozama većim od 100 mSv samo uz njihovu prethodnu suglasnost i potvrdu da su u potpunosti informirani o rizicima.
+(9) Pravna ili fizička osoba, tijelo državne uprave ili tijelo jedinice lokalne i područne (regionalne) samouprave koje upravlja odgovorom na izvanredni događaj obvezno je osigurati dozimetrijski nadzor radnika koji sudjeluju u odgovoru na izvanredni događaj. Procjena primljenih doza radnika koji sudjeluju u odgovoru na izvanredni događaj se vrši sukladno potrebama.
+(10) Ako postoji sumnja o unosu radionuklida u organizam iznad dozvoljenih godišnjih granica unošenja, obvezno je za svakog izloženog pojedinca procijeniti aktivnosti u tijelo unesenih radionuklida.
+(11) Radnici koji su pri odgovoru na izvanredni događaj primili dozu veću od granica navedenih u stavku 6. ovoga članka moraju obaviti liječnički pregled te, po potrebi, biti pod dugoročnim liječničkim nadzorom i drugim mjerama sukladno rezultatima pregleda.
+(12) Osobe koje sudjeluju u odgovoru na izvanredni događaj, a nisu za to obučene, ne smiju primiti efektivnu dozu veću od 50 mSv te njihovi podaci također moraju biti uneseni u registar koji se vodi pri Zavodu.
+(13) Osobe iz stavka 2. ovoga članka imaju tijekom izvanrednog događaja ista prava i obveze kao i radnici iz stavka 1. ovoga članka, ako to ovom Uredbom nije drugačije propisano. Ta se prava i obveze odnose i na sve aktivnosti koje je potrebno poduzeti nakon završetka sudjelovanja u odgovoru na izvanredni događaj.

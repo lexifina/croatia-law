@@ -1,0 +1,7 @@
+## Obveze ostalih sudionika
+# Članak 17.
+(1) Subjekti u poslovanju s otpadnim metalom obvezni su izraditi planove postupanja za slučaj izvanrednog događaja koji uključuje otkrivanje izvora ionizirajućeg zračenja bez posjednika u otpadnom metalu i/ili otpadnog metala onečišćenog radionuklidima te za iste pribaviti suglasnost Zavoda.
+(2) Subjekti u poslovanju s otpadnim metalom obvezni su informirati radnike o osnovnim činjenicama o ionizirajućem zračenju i njegovim učincima te kako vizualno prepoznati izvore ionizirajućeg zračenja.
+(3) U slučaju nastanka izvanrednog događaja subjekti u poslovanju s otpadnim metalom obvezni su postupati po planovima postupanja za slučaj izvanrednog događaja te o događaju bez odlaganja putem centra 112 obavijestiti Zavod.
+(4) Odredbe stavka 3. ovoga članka odnose se i na svaku pravnu ili fizičku osobu, tijelo državne uprave ili tijelo jedinice lokalne i područne (regionalne) samouprave koje je otkrilo izvor ionizirajućeg zračenja bez posjednika.
+(5) Subjekti u poslovanju s hranom i/ili vodom, uključujući Hrvatske vode, jedinice lokalne i područne (regionalne) samouprave te koncesionare, to jest subjekte u poslovanju s vodom za piće, te subjekti u poslovanju s hranom za životinje u Republici Hrvatskoj obvezni su napraviti planove za primjenu mjera ograničenja konzumacije, distribucije i prometa vode, lokalno proizvedene hrane i poljoprivrednih proizvoda sukladno planovima i procedurama ministarstva nadležnog za poljoprivredu i ministarstva nadležnog za zdravstvo.
