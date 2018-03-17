@@ -1,0 +1,1 @@
+Na temelju članka 21. stavka 6. Zakona o stambenoj štednji i državnom poticanju stambene štednje (»Narodne novine«, br. 109/97, 117/97, 76/99, 10/01, 92/05, 21/10, 15/13, 139/13 i 110/15), Vlada Republike Hrvatske je na sjednici održanoj 15. ožujka 2018. godine donijela
