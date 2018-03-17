@@ -1,0 +1,3 @@
+# Članak 3.
+(1) Ispitivanje plinomjera statističkom metodom obavlja se na zakonitim mjerilima u uporabi kojima ovjerna oznaka i/ili zaštitna oznaka nije uništena, promijenjena, uklonjena ili na bilo koji drugi način oštećena, u okviru propisanog ovjernog razdoblja.
+(2) Ispitivanje plinomjera statističkom metodom u svrhu produljenja ovjernog razdoblja za ponovno ovjeravanje treba provesti prije isteka ovjernog razdoblja za ponovno ovjeravanje, tako da se svi plinomjeri prijavljene skupine mogu dostaviti na ispitivanje prije isteka ovjernog razdoblja za ponovno ovjeravanje, ako izabrani uzorci ne zadovolje propisane zahtjeve.

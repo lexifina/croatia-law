@@ -1,0 +1,5 @@
+# Članak 2.
+(1) Ispitivanje plinomjera statističkom metodom obavlja ovlašteni mjeritelj Državnog zavoda za mjeriteljstvo (u daljnjem tekstu: ovlašteni mjeritelj).
+(2) Ispitivanje plinomjera statističkom metodom obavlja se na zahtjev Operatora distribucijskog sustava.
+(3) Operator distribucijskog sustava odgovoran je za redovitu kontrolu i održavanje plinomjera u skladu sa mrežnim pravilima plinskog distribucijskog sustava.
+(4) Podnositelj zahtjeva iz stavka 2. ovoga članka dužan je izuzeti plinomjer s obračunskog mjernog mjesta i dostaviti do mjesta ispitivanja te pri tome postupati s osobitom pozornošću da ne bi došlo do mehaničkih oštećenja koja mogu utjecati na mjeriteljska svojstva plinomjera. O tome se postupanju sastavlja zapisnik o izuzimanju plinomjera s obračunskog mjernog mjesta koji potpisuje predstavnik vlasnika plinomjera i korisnik plinomjera. Zapisnik o izuzimanju plinomjera s obračunskog mjernog mjesta mora sadržavati očitano stanje plinomjera prilikom izuzimanja i stanje ovjerne oznake (plomba).
