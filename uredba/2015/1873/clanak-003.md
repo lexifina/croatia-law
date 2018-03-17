@@ -1,3 +1,0 @@
-# Članak 3.
-U razdoblju prijenosa poslova iz članka 2. ove Uredbe, Središnja agencija za financiranje i ugovaranje programa i projekata Europske unije poduzet će potrebne radnje i podnijeti nadležnim nacionalnim tijelima i Europskoj komisiji zahtjev za dodjelu ovlasti za upravljanje programima na koje se odnose akti iz članka 2. ove Uredbe.
-U razdoblju prijenosa poslova iz članka 2. ove Uredbe, Središnja agencija za financiranje i ugovaranje programa i projekata Europske unije uskladit će svoje poslovanje i opće akte u svrhu obavljanja poslova koje preuzima od Agencije za regionalni razvoj Republike Hrvatske.
