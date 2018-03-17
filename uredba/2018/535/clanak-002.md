@@ -1,0 +1,2 @@
+# Članak 2.
+Ovom se Uredbom u pravni poredak Republike Hrvatske preuzima Direktiva 2009/43/EZ Europskog parlamenta i Vijeća od 6. svibnja 2009. o pojednostavnjivanju uvjeta za transfer obrambenih proizvoda unutar Zajednice (SL L 146, 10. 6. 2009.), kako je posljednji put izmijenjena Direktivom Komisije (EU) 2017/2054 od 8. studenoga 2017. o izmjeni Direktive 2009/43/EZ Europskog parlamenta i Vijeća u pogledu popisa obrambenih proizvoda (Tekst značajan za EGP) (SL L 311, 25. 11. 2017.).
