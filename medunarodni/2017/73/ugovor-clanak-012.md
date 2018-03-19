@@ -1,0 +1,5 @@
+# Članak 12.
+1. Bilo koja država koja je članica Ujedinjenih naroda ili bilo koje od specijaliziranih ustanova ili Međunarodne agencije za atomsku energiju ili stranka Statuta Međunarodnog suda, i koja ima rješenja za ispitivanje i označivanje predmeta od plemenitih kovina potrebna za udovoljavanje zahtjeva Konvencije i njezinih Dodataka, može pristupiti ovoj Konvenciji, na poziv država ugovornica koji prenosi depozitar.
+2. Vlade država ugovornica obavješćuju depozitara o svojem odgovoru u roku od četiri mjeseca od primitka zahtjeva depozitara s pitanjem o slaganju s pozivom. Bilo koja vlada koja ne odgovori u tom roku smatra se da je dala pristanak za poziv.
+3. Vlade država ugovornica svoje odluke o pozivanju države na pristup temelje prvenstveno na izvještaju iz članka 10. stavka 2.
+4. Pozvana država može pristupiti ovoj Konvenciji polaganjem isprave o pristupu kod depozitara, koji o tome obavješćuje sve ostale države ugovornice. Pristup stupa na snagu tri mjeseca nakon polaganja te isprave.

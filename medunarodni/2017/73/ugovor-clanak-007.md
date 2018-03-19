@@ -1,0 +1,2 @@
+# Članak 7.
+Države ugovornice ovime ovlašćuju depozitara da pri Svjetskoj organizaciji za intelektualno vlasništvo (WIPO), u skladu s Pariškom konvencijom za zaštitu industrijskog vlasništva, registrira zajedničku kontrolnu oznaku opisanu u Dodatku II. kao nacionalni žig svake države ugovornice. Depozitar će to učiniti i u slučaju države ugovornice u odnosu na koju ova Konvencija stupa na snagu na kasniji datum ili u slučaju države pristupnice.

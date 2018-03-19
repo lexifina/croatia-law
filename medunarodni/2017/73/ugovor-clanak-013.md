@@ -1,0 +1,5 @@
+# Članak 13.
+1. Vlada bilo koje države potpisnice ili pristupnice može, prilikom polaganja svoje isprave o ratifikaciji ili pristupu, ili u bilo koje vrijeme nakon toga, pisano izjaviti depozitaru da se ova Konvencija primjenjuje na cjelokupno ili na dio područja, određenog u izjavi, za čije vanjske odnose je odgovorna. Depozitar sve takve izjave priopćuje vladama svih ostalih država ugovornica.
+2. Ako je izjava dana u vrijeme polaganja isprave o ratifikaciji ili pristupu, ova Konvencija stupa na snagu u odnosu na ta područja istog datuma na koji Konvencija stupa na snagu u odnosu na državu koja je dala izjavu. U svim ostalim slučajevima Konvencija stupa na snagu u odnosu na ta područja tri mjeseca nakon što depozitar primi izjavu.
+3. Primjena ove Konvencije na cjelokupno ili na dio takvih područja može biti okončana od strane vlade države koja je dala izjavu iz stavka 1., pod uvjetom da pisano obavijesti depozitara tri mjeseca unaprijed, koji obavješćuje sve ostale države ugovornice.
+Povlačenje

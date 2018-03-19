@@ -1,0 +1,2 @@
+# Članak 1.
+Potvrđuje se Konvencija o nadzoru i označivanju predmeta od plemenitih kovina, sastavljena u Beču 15. studenoga 1972., kako je izmijenjena i dopunjena 18. svibnja 1988. i 9. siječnja 2001., te izmjene i dopune Dodataka Konvencije o nadzoru i označivanju predmeta od plemenitih kovina od 23. svibnja 1978., 24. studenoga 1988., 25. i 26. svibnja 1998., 15. listopada 2002. i 11. listopada 2010., u pročišćenom tekstu kako ga je dostavila Vlada Kraljevine Švedske u svojstvu depozitara, u izvorniku na engleskom i francuskom jeziku.
