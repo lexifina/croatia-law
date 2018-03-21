@@ -1,0 +1,3 @@
+# Članak 4.
+1. Odobrenje za obavljanje dohodovne djelatnosti prestaje čim korisniku odobrenja prestane status uzdržavanog člana obitelji, datumom ispunjenja ugovornih obveza ili, u svakom slučaju prestankom mandata osobe čija je osoba u pitanju uzdržavani član obitelji. Međutim, prestanak odobrenja uzima u obzir razumno zakašnjenje predviđeno Bečkom konvencijom o diplomatskim odnosima od 18. travnja 1961., koje ne premašuje tri mjeseca.
+2. Svaki ugovor o radu kojeg sklopi uzdržavani član obitelji treba sadržavati odredbu o prestanku ugovora nakon prestanka odobrenja za obavljanje dohodovne djelatnosti.
