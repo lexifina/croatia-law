@@ -1,0 +1,3 @@
+# Članak 6.
+U članku 9. stavak 1. mijenja se i glasi:
+»(1) Za ulaganja u visini protuvrijednosti kuna od 150.000,00 do 1.000.000,00 eura korisniku potpore stopa poreza na dobit umanjuje se za 50% od propisane stope poreza na dobit u razdoblju do 10 godina od godine početka ulaganja, uz uvjet otvaranja najmanje pet novih radnih mjesta povezanih s ulaganjem odnosno za ulaganja u centre za razvoj informacijsko-komunikacijskih sustava i softvera iz članka 12. ovoga Zakona, a u visini protuvrijednosti od 50.000,00 do 1.000.000,00 eura korisniku potpore stopa poreza na dobit umanjuje se za 50% od propisane stope poreza na dobit u razdoblju do 10 godina od godine početka ulaganja, uz uvjet otvaranja najmanje 10 novih radnih mjesta povezanih s ulaganjem.«.
