@@ -1,0 +1,4 @@
+# Članak 8.
+(1) Inspekcijski nadzor nad provedbom odredbi iz članka 4. stavka 1. i članka 5. Uredbe (EU) br. 995/2010 te članka 5. Provedbene uredbe Komisije (EU) br. 607/2012 provode ovlašteni carinski službenici, sukladno propisima kojima se uređuje postupanje Carinske uprave.
+(2) Ako se prilikom inspekcijskog nadzora utvrdi povreda odredbi članka 4. stavka 1. i članka 5. Uredbe (EU) br. 995/2010 te članka 5. Provedbene uredbe Komisije (EU) br. 607/2012, Carinska uprava, pod uvjetima propisanim zakonom kojim se uređuje prekršajni postupak, kao ovlašteni tužitelj izdaje prekršajni nalog ili podnosi optužni prijedlog.
+(3) O provedenim inspekcijskim nadzorima i poduzetim mjerama iz stavka 2. ovoga članka i članka 7. stavka 11. ovoga Zakona Carinska uprava izvještava Ministarstvo najkasnije do 1. ožujka tekuće godine za prethodnu godinu.

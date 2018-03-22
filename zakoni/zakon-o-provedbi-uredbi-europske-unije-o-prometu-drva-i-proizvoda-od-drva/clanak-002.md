@@ -1,0 +1,6 @@
+# Članak 2.
+Ovim se Zakonom osigurava provedba sljedećih uredbi Europske unije:
+– Uredbe Vijeća (EZ) br. 2173/2005 od 20. prosinca 2005. o uspostavljanju FLEGT sustava za izdavanje dozvola za uvoz drva u Europsku zajednicu (SL L 347, 30. 12. 2005.), (u daljnjem tekstu: Uredba Vijeća (EZ) br. 2173/2005)
+– Uredbe Komisije (EZ) br. 1024/2008 od 17. listopada 2008. o utvrđivanju detaljnih mjera za provedbu Uredbe Vijeća (EZ) br. 2173/2005 o uspostavi sustava FLEGT za izdavanje dozvole za uvoz drvne sirovine u Europsku zajednicu (SL L 277, 18. 10. 2008.), (u daljnjem tekstu: Uredba Komisije (EZ) br. 1024/2008)
+– Uredbe (EU) br. 995/2010 Europskog parlamenta i Vijeća od 20. listopada 2010. o utvrđivanju obveza gospodarskih subjekata koji stavljaju u promet drvo i proizvode od drva (SL L 295, 12. 11. 2010.), (u daljnjem tekstu: Uredba (EU) br. 995/2010)
+– Provedbene uredbe Komisije (EU) br. 607/2012 od 6. srpnja 2012. o detaljnim pravilima za sustav dužne pažnje i učestalost i vrste provjera nadzornih organizacija, kako je predviđeno u Uredbi (EU) br. 995/2010 Europskog parlamenta i Vijeća o utvrđivanju obveza gospodarskih subjekata koji stavljaju u promet drvo i proizvode od drva (SL L 177, 7. 7. 2012.), (u daljnjem tekstu: Provedbena uredba Komisije (EU) br. 607/2012).
