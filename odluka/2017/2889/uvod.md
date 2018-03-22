@@ -1,1 +1,0 @@
-Na temelju članka 11. stavka 1. točke 10. Zakona o regulaciji energetskih djelatnosti (»Narodne novine«, broj 120/12) i članka 49. Metodologije utvrđivanja iznosa tarifnih stavki za prihvat i otpremu ukapljenog prirodnog plina (»Narodne novine«, broj 110/17), Hrvatska energetska regulatorna agencija je na 30. sjednici Upravnog vijeća održanoj 15. prosinca 2017. donijela
