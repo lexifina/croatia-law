@@ -1,0 +1,5 @@
+## GLAVA II. STRANE OSOBE I OBAVLJANJE STRUČNIH GEODETSKIH POSLOVA I DJELATNOSTI NA PODRUČJU REPUBLIKE HRVATSKE
+# Članak 23.
+(1) Fizička osoba koja u stranoj državi ima pravo obavljati stručne geodetske poslove u svojstvu odgovorne osobe (u daljnjem tekstu: strana ovlaštena fizička osoba) ima pravo pod jednakim uvjetima koji vrijede za ovlaštene inženjere geodezije u Republici Hrvatskoj, pod pretpostavkom uzajamnosti, trajno obavljati te poslove u Republici Hrvatskoj u svojstvu ovlaštenog inženjera geodezije ako ima stručne kvalifikacije potrebne za obavljanje tih poslova u skladu s posebnim zakonom kojim se uređuje postupak priznavanja inozemnih stručnih kvalifikacija i općim aktom Komore iz članka 35. stavka 4. ovoga Zakona.
+(2) Pretpostavka uzajamnosti iz stavka 1. ovoga članka ne primjenjuje se na državljanina države ugovornice EGP-a i Švicarske Konfederacije te države članice Svjetske trgovinske organizacije.
+(3) Ispunjavanje uvjeta uzajamnosti za fizičku osobu iz stavka 1. ovoga članka utvrđuje Državna geodetska uprava potvrdom koja nije upravni akt.

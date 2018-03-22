@@ -1,0 +1,2 @@
+# Članak 36.
+Potvrdu za neometano pružanje usluga na teritoriju države ugovornice EGP-a i Švicarske Konfederacije fizičkoj osobi poslovno nastanjenoj u Republici Hrvatskoj (u daljnjem tekstu: EU potvrda), koja namjerava u državi ugovornici EGP-a i Švicarskoj Konfederaciji obavljati stručne geodetske poslove u svojstvu ovlaštene osobe, izdaje Komora prema posebnom propisu kojim se uređuje izdavanje EU potvrde i odgovarajućem općem aktu Komore.

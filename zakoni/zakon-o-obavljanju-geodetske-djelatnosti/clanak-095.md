@@ -1,0 +1,7 @@
+## DIO ŠESTI PREKRŠAJNE ODREDBE
+# Članak 95.
+(1) Novčanom kaznom u iznosu od 25.000,00 do 50.000,00 kuna kaznit će se pravna osoba registrirana za obavljanje geodetske djelatnosti ili zajednički geodetski ured odnosno ovlašteni inženjer geodezije koji stručne geodetske poslove obavlja u uredu ovlaštenog inženjera geodezije ako obavlja poslove propisane ovim Zakonom, a nema suglasnost Državne geodetske uprave propisanu člankom 7. stavkom 2. ovoga Zakona.
+(2) Novčanom kaznom u iznosu od 25.000,00 do 50.000,00 kuna kaznit će se pravna osoba registrirana za obavljanje geodetske djelatnosti ako stručne geodetske poslove iz članaka 5. i 6. ovoga Zakona ne obavlja osoba iz članka 8. ovoga Zakona (članak 19. stavak 5. podstavak 2.).
+(3) Novčanom kaznom u iznosu od 25.000,00 do 50.000,00 kuna kaznit će se pravna osoba registrirana za obavljanje geodetske djelatnosti ako obavlja stručne geodetske poslove iz članaka 5. i 6. ovoga Zakona, a nema zaposlenog ovlaštenog inženjera geodezije (članak 18. stavak 1.).
+(4) Novčanom kaznom u iznosu od 25.000,00 do 50.000,00 kuna kaznit će se fizička osoba – ovlašteni inženjer geodezije koji samostalno obavlja stručne geodetske poslove ako stručne geodetske poslove iz članaka 5. i 6. ovoga Zakona ne obavlja osoba iz članka 8. ovoga Zakona (članak 8.).
+(5) Novčanom kaznom u iznosu od 10.000,00 do 20.000,00 kuna kaznit će se za prekršaj iz stavaka 1., 2. i 3. ovoga članka i odgovorna osoba u pravnoj osobi.

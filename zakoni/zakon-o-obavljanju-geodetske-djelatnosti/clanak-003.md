@@ -1,0 +1,6 @@
+# Članak 3.
+(1) Pojmovi: stalne geodetske točke, osnovni geodetski radovi, Hrvatska osnovna karta, digitalna ortofotokarta, topografska karta, homogenizacija katastarskog plana, katastarska izmjera, tehnička reambulacija, parcelacijski i drugi geodetski elaborati, katastar infrastrukture, tehničko vođenje katastra zgrada i katastra infrastrukture imaju značenje određeno posebnim propisom kojim se uređuje državna izmjera i katastar nekretnina.
+(2) Pojmovi: geodetski projekt, geodetske podloge i elaborat iskolčenja imaju značenje određeno posebnim propisima kojima se uređuje prostorno uređenje i gradnja.
+(3) Pojmovi: projekt komasacije poljoprivrednog zemljišta, geodetski poslovi koji se obavljaju u okviru komasacije poljoprivrednog zemljišta imaju značenje određeno posebnim propisima kojima se uređuje komasacija poljoprivrednog zemljišta.
+(4) Pojmovi: pomorsko dobro, vodno dobro, kulturno dobro i zaštićeno područje prirode imaju značenje određeno posebnim propisima kojima se uređuju ti pravni režimi.
+(5) Pojmovi: hidrografska izmjera, marinska geodezija, objekti u priobalju i moru i objekti na morskom dnu i podmorju imaju značenje određeno posebnim propisima kojima se uređuje hidrografska djelatnost.

@@ -1,0 +1,3 @@
+# Članak 10.
+(1) Stručne geodetske poslove u uredima propisanim ovim Zakonom i pravnoj osobi registriranoj za obavljanje geodetske djelatnosti može obavljati samo stručni suradnik ili suradnik koji je u tim uredima ili pravnoj osobi u radnom odnosu sukladno propisima o radu odnosno koji se u njima stručno osposobljava za rad bez zasnivanja radnog odnosa i koji nije zaposlen kod drugog poslodavca na stručnim geodetskim poslovima.
+(2) Stručne geodetske poslove u svojstvu odgovorne osobe u pravnoj osobi registriranoj za obavljanje geodetske djelatnosti može obavljati ovlašteni inženjer geodezije koji je zaposlen u toj pravnoj osobi i koji stručne geodetske poslove ne obavlja samostalno ili kod drugog poslodavca.

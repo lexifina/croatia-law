@@ -1,0 +1,15 @@
+## Poglavlje III. SUGLASNOST ZA OBAVLJANJE STRUČNIH GEODETSKIH POSLOVA
+# Članak 19.
+(1) Stručne geodetske poslove iz članka 5. stavaka 4., 5. i 6. ovoga Zakona može obavljati samo ovlašteni inženjer geodezije koji ima suglasnost Državne geodetske uprave.
+(2) Ovlaštenom inženjeru geodezije Državna geodetska uprava izdat će suglasnost za obavljanje stručnih geodetskih poslova iz članka 5. stavaka 4., 5. i 6. ovoga Zakona ako je:
+− upisan u Imenik ovlaštenih inženjera geodezije, pod uvjetom da mu članstvo u Komori nije u mirovanju
+− ured u kojem ovlašteni inženjer geodezije obavlja stručne geodetske poslove upisan u odgovarajući upisnik pri Komori odnosno ako je pravna osoba u kojoj obavlja stručne geodetske poslove registrirana za obavljanje djelatnosti iz članka 5. stavaka 4., 5. i 6. ovoga Zakona
+− stekao iskustvo u obavljanju stručnih geodetskih poslova u trajanju od najmanje tri godine
+− u proteklom razdoblju od tri godine prije podnošenja zahtjeva za izdavanje suglasnosti obavio stručno usavršavanje u skladu s propisom Komore kojim se regulira stručno usavršavanje osoba koje obavljaju stručne geodetske poslove.
+(3) U slučaju brisanja ovlaštenog inženjera geodezije iz Imenika ovlaštenih inženjera geodezije odnosno nastupom mirovanja članstva u Komori suglasnost za obavljanje stručnih geodetskih poslova iz stavka 1. ovoga članka ukinut će se rješenjem Državne geodetske uprave.
+(4) Stručne geodetske poslove iz članka 5. stavaka 2. i 3. ovoga Zakona mogu obavljati samo ovlašteni inženjeri geodezije u zajedničkom geodetskom uredu i pravna osoba registrirana za obavljanje geodetske djelatnosti ako ured u kojem obavljaju stručne geodetske poslove odnosno pravna osoba imaju suglasnost Državne geodetske uprave.
+(5) Zajedničkom geodetskom uredu i pravnoj osobi registriranoj za obavljanje geodetske djelatnosti Državna geodetska uprava izdat će suglasnost za obavljanje stručnih geodetskih poslova iz članka 5. stavaka 2. i 3. ovoga Zakona ako je:
+− zajednički geodetski ured upisan u odgovarajući upisnik pri Komori odnosno ako je pravna osoba registrirana za djelatnosti iz članka 5. stavaka 2. i 3. ovoga Zakona
+− u zajedničkom geodetskom uredu odnosno pravnoj osobi registriranoj za obavljanje geodetske djelatnosti osigurano da stručne geodetske poslove iz članka 5. stavaka 2. i 3. ovoga Zakona obavljaju najmanje tri ovlaštena inženjera geodezije koji ispunjavaju uvjete iz stavka 2. podstavaka 1., 3. i 4. ovoga članka i tri geodetska stručnjaka koji stručne geodetske poslove obavljaju najmanje u statusu stručnog suradnika ili suradnika s položenim ili priznatim stručnim ispitom.
+(6) Državna geodetska uprava suglasnosti iz stavaka 2. i 5. ovoga članka daje rješenjem na zahtjev ovlaštenog inženjera geodezije odnosno zajedničkog geodetskog ureda ili pravne osobe.
+(7) Sadržaj zahtjeva te dokumentaciju koja se predaje uz zahtjev u svrhu dobivanja suglasnosti iz stavaka 2. i 5. ovoga članka pravilnikom propisuje ravnatelj Državne geodetske uprave (u daljnjem tekstu: ravnatelj).

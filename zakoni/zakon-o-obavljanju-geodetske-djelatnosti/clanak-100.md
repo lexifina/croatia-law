@@ -1,0 +1,4 @@
+## DIO SEDMI PRIJELAZNE I ZAVRŠNE ODREDBE
+# Članak 100.
+(1) Postupci davanja suglasnosti za započinjanje obavljanja stručnih geodetskih poslova i postupci oduzimanja te suglasnosti započeti do stupanja na snagu ovoga Zakona prema odredbama Zakona o obavljanju geodetske djelatnosti (»Narodne novine«, br. 152/08., 61/11. i 56/13.) i Pravilnika o uvjetima i mjerilima za davanje i oduzimanje suglasnosti za obavljanje poslova državne izmjere i katastra nekretnina (»Narodne novine«, br. 105/07. i 116/07.) dovršit će se prema odredbama tih propisa.
+(2) Osobama koje su na dan stupanja na snagu ovoga Zakona upisane u evidenciju vježbenika – kandidata za upis u Imenik ovlaštenih inženjera geodezije ostvareni vježbenički staž do dana stupanja na snagu ovoga Zakona priznat će se kao ostvareni vježbenički staž prema ovom Zakonu.

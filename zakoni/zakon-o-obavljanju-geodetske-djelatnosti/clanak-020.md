@@ -1,0 +1,5 @@
+# Članak 20.
+(1) U uredu, zajedničkom geodetskom uredu i pravnoj osobi registriranoj za obavljanje geodetske djelatnosti obvezno se vodi evidencija obavljanja stručnih geodetskih poslova iz članka 5. ovoga Zakona.
+(2) Ovlašteni inženjer geodezije kojem je izdana suglasnost iz članka 19. stavka 2. ovoga Zakona dužan je obavijestiti elektroničkim putem Državnu geodetsku upravu o brisanju iz Imenika ovlaštenih inženjera geodezije ili o nastupu mirovanja članstva u Komori, kao i o svakoj promjeni koja utječe na izdanu suglasnost, najkasnije u roku od osam dana od dana nastale promjene.
+(3) Zajednički geodetski ured i pravna osoba koji imaju suglasnost iz članka 19. stavka 5. ovoga Zakona dužni su jednom godišnje, do 1. ožujka tekuće godine za prethodnu kalendarsku godinu, Državnoj geodetskoj upravi dostaviti i dokaze da se uvjeti na temelju kojih su dobili suglasnost nisu izmijenili te su dužni Državnu geodetsku upravu obavijestiti o svakoj promjeni koja utječe na izdanu suglasnost, najkasnije u roku od osam dana od dana nastale promjene.
+(4) Sadržaj podataka evidencije iz stavka 1. ovoga članka pravilnikom propisuje ravnatelj.

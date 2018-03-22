@@ -1,0 +1,4 @@
+# Članak 30.
+(1) Uz zahtjev za ponovno izdavanje potvrde iz članka 28. stavka 1. ovoga Zakona, ako je osiguranje od profesionalne odgovornosti za štetu za koje je dokaz dostavljen sukladno članku 26. ovoga Zakona prestalo važiti, potrebno je priložiti dokaz o važećem osiguranju od profesionalne odgovornosti za štetu koju bi obavljanjem stručnih geodetskih poslova mogao učiniti naručitelju ili drugim osobama. Ako je došlo do bitnih promjena okolnosti temeljem kojih je izdana potvrda iz članka 28. ovoga Zakona, zahtjevu za ponovno izdavanje potvrde podnositelj zahtjeva dužan je priložiti dokumentaciju odlučnu za ocjenu te bitne promjene.
+(2) Akt o ponovnom izdavanju potvrde iz stavka 1. ovoga članka odnosno rješenje o odbijanju zahtjeva za ponovno izdavanje potvrde upisuje se u odgovarajuću evidenciju Komore.
+(3) Protiv rješenja iz stavka 2. ovoga članka dopuštena je žalba koja se podnosi Državnoj geodetskoj upravi.

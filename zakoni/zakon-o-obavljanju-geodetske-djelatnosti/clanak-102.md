@@ -1,0 +1,2 @@
+# Članak 102.
+Danom stupanja na snagu ovoga Zakona ovlašteni inženjeri geodezije, vježbenici – kandidati, stručni suradnici i suradnici upisani u odgovarajuće evidencije komore, koji rade u uredima ovlaštenih inženjera geodezije, zajedničkim geodetskim uredima i pravnim osobama registriranim za obavljanje geodetske djelatnosti, nastavljaju s radom kao odgovorne osobe, stručni suradnici i suradnici ovlaštenih inženjera geodezije sukladno ovom Zakonu.

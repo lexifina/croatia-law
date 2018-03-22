@@ -1,0 +1,4 @@
+## DIO PRVI UVODNE ODREDBE
+# Članak 1.
+(1) Ovim se Zakonom uređuje obavljanje geodetske djelatnosti i stručnih geodetskih poslova iz područja državne izmjere, katastra nekretnina, katastra zgrada i katastra infrastrukture te drugih stručnih geodetskih poslova koji se obavljaju kao usluge pravnim i fizičkim osobama, stručni ispit i stručno usavršavanje te uvjeti za strane osobe koje obavljaju stručne geodetske poslove.
+(2) Ovim se Zakonom uređuje temeljni ustroj, djelokrug, javne ovlasti i članstvo u Hrvatskoj komori ovlaštenih inženjera geodezije (u daljnjem tekstu: Komora) tako da se uređuje javnost rada Komore, tijela Komore, opći akti koje donosi Komora, upisi u Imenik, upisnike i evidencije Komore, mirovanje i prestanak članstva u Komori, stegovna tijela i stegovni postupak te nadzor nad provođenjem ovoga Zakona.

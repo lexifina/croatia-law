@@ -1,0 +1,2 @@
+# Članak 27.
+Stranoj ovlaštenoj fizičkoj osobi priznaje se sklopljeni ugovor o profesionalnom osiguranju u državi ugovornici EGP-a i Švicarskoj Konfederaciji, u kojoj ima poslovni nastan, ako je osiguranik pokriven jamstvom koje je jednakovrijedno visini osiguranja koje su dužni imati ovlašteni inženjeri geodezije u Republici Hrvatskoj, pod uvjetom da to osiguranje pokriva štetu nastalu u Republici Hrvatskoj. U slučaju djelomične jednakovrijednosti strana ovlaštena fizička osoba dužna je dodatno osigurati se.

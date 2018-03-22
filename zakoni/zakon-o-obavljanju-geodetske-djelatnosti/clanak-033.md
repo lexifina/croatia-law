@@ -1,0 +1,2 @@
+# Članak 33.
+Strana ovlaštena fizička osoba koja u Republici Hrvatskoj obavlja stručne geodetske poslove u svojstvu odgovorne osobe odgovara za teže i lakše povrede dužnosti i ugleda ovlaštenog inženjera geodezije pred stegovnim tijelima Komore ako je upisana u Imenik ovlaštenih inženjera geodezije ili u Evidenciju stranih fizičkih ovlaštenih osoba koje povremeno ili privremeno obavljaju stručne geodetske poslove, koji se vode u Komori.

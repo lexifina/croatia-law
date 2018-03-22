@@ -1,0 +1,2 @@
+# Članak 108.
+Do stupanja na snagu pravilnika iz članka 20. stavka 4. i članka 38. stavka 14. ovoga Zakona na odgovarajući način primjenjuju se odredbe članaka 1. ‒ 10. Pravilnika o sadržaju i načinu vođenja upisnika obavljanja geodetske djelatnosti (»Narodne novine«, br. 67/09.) i odredbe članaka 1. ‒ 56. Pravilnika o stručnom ispitu te upotpunjavanju i usavršavanju znanja osoba koje obavljaju stručne geodetske poslove (»Narodne novine«, br. 30/10. i 65/13.).

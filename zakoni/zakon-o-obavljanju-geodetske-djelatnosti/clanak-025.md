@@ -1,0 +1,4 @@
+# Članak 25.
+Strana ovlaštena fizička osoba iz države ugovornice EGP-a i Švicarske Konfederacije ima pravo u Republici Hrvatskoj privremeno i povremeno obavljati stručne geodetske poslove u svojstvu odgovorne osobe ako prije početka prvog posla izjavom u pisanom ili elektroničkom obliku izvijesti o tome Komoru, uz uvjet da:
+− ima stručne kvalifikacije potrebne za obavljanje stručnih geodetskih poslova u skladu s posebnim zakonom kojim se uređuje postupak priznavanja inozemnih stručnih kvalifikacija i općim aktom Komore iz članka 35. stavka 4. ovoga Zakona
+− je osigurana od profesionalne odgovornosti za štetu koju bi obavljanjem stručnih geodetskih poslova mogla učiniti investitoru ili drugim osobama sukladno ovom Zakonu, pod uvjetom da to osiguranje pokriva štetu nastalu u Republici Hrvatskoj.

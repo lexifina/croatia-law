@@ -1,0 +1,7 @@
+# Članak 97.
+(1) Novčanom kaznom od 35.000,00 do 50.000,00 kuna kaznit će se za prekršaj strana ovlaštena fizička osoba iz države ugovornice EGP-a i Švicarske Konfederacije koja obavlja poslove u Republici Hrvatskoj ako nije upisana u Imenik ovlaštenih inženjera geodezije koji se vodi u Komori (članak 24.).
+(2) Novčanom kaznom od 35.000,00 do 50.000,00 kuna kaznit će se za prekršaj strana ovlaštena fizička osoba iz države ugovornice EGP-a i Švicarske Konfederacije iz članka 25. ovoga Zakona koja u Republici Hrvatskoj:
+− privremeno ili povremeno obavlja poslove, a prije početka prvog posla izjavom u pisanom ili elektroničkom obliku o tome ne obavijesti Komoru u skladu s odredbom članka 25. ovoga Zakona
+− uz izjavu iz članka 25. ovoga Zakona ne priloži dokumentaciju u skladu s odredbom članka 26. stavka 1. ovoga Zakona.
+(3) Novčanom kaznom od 35.000,00 do 50.000,00 kuna kaznit će se za prekršaj strana ovlaštena fizička osoba koja obavlja posao u Republici Hrvatskoj ako nema sklopljen ugovor o profesionalnom osiguranju u državi ugovornici EGP-a i Švicarskoj Konfederaciji, u kojoj ima poslovni nastan, u skladu s odredbama članka 27. ovoga Zakona.
+(4) Novčanom kaznom u iznosu od 25.000,00 do 50.000,00 kuna kaznit će se strana pravna osoba iz članka 32. stavka 1. ovoga Zakona ako bez potvrde iz članka 32. stavka 4. ovoga Zakona obavlja ili obavi stručni geodetski posao u Republici Hrvatskoj.
