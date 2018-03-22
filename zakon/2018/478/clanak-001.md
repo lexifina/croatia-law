@@ -1,0 +1,25 @@
+# Članak 1.
+U Zakonu o strukovnom obrazovanju (»Narodne novine«, br. 30/09., 24/10. i 22/13.) članak 3. mijenja se i glasi:
+»Pojedini pojmovi u smislu ovoga Zakona imaju sljedeća značenja:
+1. strukovno obrazovanje je proces stjecanja, vrednovanja i potvrde posjedovanja ishoda učenja koji provode ustanove za strukovno obrazovanje, a provodi se prema strukovnome kurikulumu,
+2. strukovno osposobljavanje podrazumijeva obrazovanje kojim se stječu kompetencije za obavljanje jednostavnih poslova,
+3. strukovno usavršavanje podrazumijeva obrazovanje kojim se stječu dodatne kompetencije iste ili više razine kvalifikacije u sklopu obrazovnoga sektora kojemu kvalifikacija polaznika pripada,
+4. formalno učenje je organizirana aktivnost ovlaštene pravne ili fizičke osobe koja se izvodi prema odobrenim programima radi stjecanja i unapređivanja kompetencija za osobne, društvene i profesionalne potrebe, a dokazuje se svjedodžbom, diplomom ili drugom javnom ispravom koju izdaje ovlaštena pravna osoba,
+5. kompetencije su znanje i vještine te pripadajuća samostalnost i odgovornost,
+6. ključne kompetencije za cjeloživotno učenje su kompetencije odgovarajuće razine koje su nužne pojedincu za uključenost u život zajednice. Osnova su za stjecanje kompetencija tijekom života za sve osobne, društvene i profesionalne potrebe, a obuhvaćaju komunikaciju na materinskome jeziku, komunikaciju na stranim jezicima, matematičku kompetenciju i osnovne kompetencije u prirodoslovlju i tehnologiji, digitalnu kompetenciju, kompetenciju učiti kako učiti, socijalnu i građansku kompetenciju, inicijativnost i poduzetnost te kulturnu svijest i izražavanje,
+7. učenje temeljeno na radu je stjecanje znanja i vještina sudjelovanjem u aktivnostima u radnom okruženju, a prisutno je u tri oblika u strukovnim kurikulumima: kao kombinirani programi ili naukovanje, u školi s razdobljima kod poslodavaca i integrirano u programu strukovnog obrazovanja i osposobljavanja,
+8. poslodavac je gospodarski subjekt u smislu propisa koji regulira poticanje razvoja maloga gospodarstva koji provodi učenje temeljeno na radu,
+9. nacionalni kurikulum za strukovno obrazovanje je dokument kojim se određuju svrha, vrijednosti, ciljevi, procesi učenja i poučavanja, organizacija i načini vrednovanja ishoda učenja u sustavu strukovnog obrazovanja Republike Hrvatske,
+10. sektorski kurikulum je dokument kojim se određuje okvir koji obuhvaća sve strukovne kurikulume kojima se omogućuje stjecanje kvalifikacija na razinama od 2 do 5 Hrvatskoga kvalifikacijskog okvira (u daljnjem tekstu: HKO) jednoga obrazovnog sektora,
+11. kurikulum ustanove za strukovno obrazovanje je dokument koji izrađuje i donosi ustanova za strukovno obrazovanje kojim se detaljno razrađuje odgojno-obrazovni proces kojim se stječu kvalifikacije na razinama od 2 do 5 HKO-a u toj ustanovi, a izrađuje se na temelju sektorskih i strukovnih kurikuluma,
+12. strukovni kurikulum je dokument kojim se definira proces i uvjeti stjecanja kvalifikacija na razinama od 2 do 5 HKO-a,
+13. kvalifikacija je naziv za objedinjene skupove ishoda učenja određenih razina, obujma, profila, vrste i kvalitete, a koja se dokazuje javnom ispravom koju izdaje ovlaštena pravna osoba,
+14. razine kvalifikacija označavaju složenost i doseg stečenih kompetencija, a opisuju se skupom mjerljivih pokazatelja,
+15. kreditni bod je mjerna jedinica kojom se iskazuje obujam stečenih kompetencija, a određuje se prosječnim ukupno utrošenim vremenom polaznika koji su uspješno svladali program, a koje je potrebno za stjecanje tih kompetencija,
+16. standard zanimanja je popis svih poslova koje pojedinac obavlja u određenom zanimanju i popis kompetencija potrebnih za njihovo uspješno obavljanje,
+17. standard kvalifikacije je sadržaj i struktura određene kvalifikacije. Uključuje sve podatke koji su potrebni za određivanje razine, obujma i profila kvalifikacije te podatke koji su potrebni za osiguravanje i unapređenje kvalitete standarda kvalifikacije,
+18. modul je zaokružena cjelina u strukovnome kurikulumu koja povezuje strukovne i ključne kompetencije te sadrži popis skupova ishoda učenja,
+19. obrazovni sektor je skupina kvalifikacija jednog obrazovnog područja i zanimanja koja koriste ishode tih kvalifikacija na radnom mjestu,
+20. podsektor je skupina srodnih programa u sklopu jednoga obrazovnog sektora,
+21. ishodi učenja su kompetencije koje je osoba stekla učenjem i dokazala nakon postupka učenja,
+22. skup ishoda učenja je najmanji cjeloviti skup povezanih ishoda učenja iste razine, obujma i profila.«.
