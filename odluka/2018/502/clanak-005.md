@@ -1,0 +1,2 @@
+# Članak 5.
+Kreditna institucija dužna je opis glavnih značajki instrumenata kapitala dostaviti na propisanom obrascu iz Priloga II. Provedbene uredbe Komisije (EU) br. 1423/2013 pod nazivom »Obrazac glavnih značajki instrumenata kapitala«, koji je dužna popuniti u skladu s Uputama za ispunjavanje Obrasca glavnih značajki instrumenata kapitala iz Priloga III. Provedbene uredbe Komisije (EU) br. 1423/2013.

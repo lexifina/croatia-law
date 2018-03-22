@@ -1,0 +1,23 @@
+# Članak 4.
+(1) Zahtjevu za izdavanje odobrenja za raspoređivanje instrumenata kapitala kao instrumenta regulatornoga kapitala potrebno je priložiti:
+1. informaciju o kategoriji regulatornoga kapitala (redovni osnovni kapital, dodatni osnovni kapital ili dopunski kapital) u koju kreditna institucija namjerava rasporediti taj instrument kapitala
+2. opis svrhe povećanja kapitala i usklađenost s planom kapitala kreditne institucije ili, ako je primjenjivo, planom kapitala grupe kreditnih institucija u Republici Hrvatskoj
+3. informaciju o vrsti instrumenta regulatornoga kapitala (npr. redovne dionice, obveznice, primljeni depoziti, primljeni krediti)
+4. ime i prezime odnosno tvrtku dvadeset najvećih imatelja/ulagatelja u instrumente kapitala za koje se podnosi zahtjev te vrstu imatelja/ulagatelja instrumenata kapitala (npr. institucionalni ulagatelj)
+5. pisanu odluku kreditne institucije o izdavanju instrumenata kapitala
+6. osnovnu dokumentaciju povezanu s izdanjem instrumenata kapitala (preslika potpisanog ugovora o instrumentu kapitala, prospekt i druga dokumentacija)
+7. za instrumente redovnoga osnovnog kapitala i, ako je primjenjivo, dodatnoga osnovnog kapitala: statut kreditne institucije, poziv za glavnu skupštinu, zapisnik s glavne skupštine, dokaz o upisu povećanja temeljnoga kapitala i izmjene statuta u sudski registar, dokaz o dioničkoj strukturi nakon upisa u sudski registar, dokaz o provedenoj uplati instrumenata
+8. dokaz o izvorima financiranja sredstava za kupnju instrumenata (u vezi s člankom 28. stavkom 1. točkom b, člankom 52. stavkom 1. točkom c i člankom 63. točkom c Uredbe (EU) br. 575/2013)
+9. ako je primjenjivo, dokaz da je kreditna institucija na temelju propisa koji uređuje tržište kapitala, pribavila sva potrebna dodatna odobrenja i suglasnosti u vezi s izdanjem instrumenata kapitala
+10. informaciju o tome ima li kreditna institucija pravo donošenja odluke o isplati raspodjela u obliku koji nije gotovina ili u obliku instrumenta regulatornoga kapitala (u vezi s člankom 73. stavkom 1. Uredbe (EU) br. 575/2013)
+11. potpisanu izjavu uprave kreditne institucije da su informacije koje se dostavljaju točne i potpune te da ne postoje ugovori ili sporazumi koji bi mogli utjecati na neusklađenost instrumenata kapitala s propisanim uvjetima za taj instrument kapitala
+12. opis glavnih značajki instrumenata kapitala na način propisan člankom 5. ove Odluke
+13. detaljnu procjenu i obrazloženje, za svaki instrument kapitala, u skladu s člankom 6. ove Odluke
+14. ocjenu usklađenosti dokumentacije o instrumentu kapitala s propisima koji uređuju izdavanje tog instrumenata kapitala te moguća ograničenja koja iz tih odredbi proizlaze
+15. opis računovodstvenog tretmana instrumenta kapitala za koji podnosi zahtjev
+16. izračun regulatornoga kapitala kreditne institucije na posljednji dan mjeseca koji prethodi mjesecu podnošenja zahtjeva za izdavanje odobrenja za raspoređivanje instrumenata kapitala kao instrumenata regulatornoga kapitala, uključujući iznos i sastav regulatornoga kapitala po pojedinačnim kategorijama i stavkama, osim ako je kreditna institucija već dostavila Hrvatskoj narodnoj banci izvještaje o regulatornom kapitalu za taj izvještajni datum
+17. za instrumente dodatnoga osnovnog kapitala: detaljnu analizu kreditne institucije o očekivanom iznosu redovnoga osnovnog kapitala koji bi nastao kada bi vrijednost glavnice instrumenata dodatnoga osnovnog kapitala bila u cijelosti smanjena ili pretvorena u instrumente redovnoga osnovnog kapitala nakon umanjenja svih predvidivih poreznih obveza ili dospjelih poreznih plaćanja koji su povezani s instrumentom u trenutku smanjenja ili pretvaranja i
+18. druge informacije, činjenice i okolnosti koje mogu ili bi mogle imati utjecaj na ispunjavanje uvjeta za izdavanje odobrenja za raspoređivanje instrumenata kapitala kao instrumenta regulatornoga kapitala kreditne institucije.
+(2) Osim dokumentacije iz stavka 1. ovog članka, Hrvatska narodna banka može zatražiti i drugu dokumentaciju, podatke ili informacije kojima se dokazuje jesu li ispunjeni svi propisani uvjeti.
+(3) Hrvatska narodna banka uzet će, pri provjeri ispunjava li instrument kapitala propisane uvjete, u obzir mišljenja Europskoga nadzornog tijela za bankarstvo u vezi s propisanim uvjetima.
+(4) Kreditna institucija dužna je, bez odgode obavijestiti Hrvatsku narodnu banku o svakoj promjeni informacija ili dokumentacije iz stavaka 1. i 2. ovog članka, koja je nastala za vrijeme provođenja postupka odlučivanja o zahtjevu za izdavanje odobrenja za raspoređivanje instrumenata kapitala kao instrumenta regulatornoga kapitala, i dostaviti joj dodatne ili nove informacije odnosno dokumentaciju.

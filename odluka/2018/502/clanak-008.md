@@ -1,0 +1,3 @@
+# Članak 8.
+(1) Kreditna institucija dužna je obavijestiti Hrvatsku narodnu banku o svakoj namjeravanoj promjeni u vezi s instrumentom kapitala za koji je dobila odobrenje za raspoređivanje instrumenata kapitala kao instrumenta regulatornoga kapitala.
+(2) Ako je instrument kapitala za koji je kreditna institucija dobila odobrenje za raspoređivanje instrumenata kapitala kao instrumenta regulatornoga kapitala izmijenjen na način koji utječe ili bi mogao imati utjecaj na ispunjavanje propisanih uvjeta, on se smatra, u smislu ove Odluke, novim instrumentom kapitala i za njega je kreditna institucija dužna dobiti novo odobrenje Hrvatske narodne banke za raspoređivanje instrumenata kapitala kao instrumenta regulatornoga kapitala.
