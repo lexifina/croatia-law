@@ -1,0 +1,1 @@
+Odluka o izmjenama Odluke o posebnoj naknadi djelatnoj vojnoj osobi upućenoj na izobrazbu i vojnu obuku u inozemstvo i djelatnoj vojnoj osobi upućenoj na izobrazbu izvan mjesta prebivališta u Republici Hrvatskoj
