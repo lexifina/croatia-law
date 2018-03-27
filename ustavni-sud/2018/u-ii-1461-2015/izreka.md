@@ -1,0 +1,2 @@
+R J E Š E N J E
+Odbacuje se prijedlog za pokretanje postupka za ocjenu suglasnosti s Ustavom i zakonom članaka 20. stavaka 4. i 5., 21. stavaka 2. - 4. i 6., 22. stavaka 3., 5. i 6., 23. stavka 5., 24. stavka 3., 28. stavaka 2. i 4., 29. stavaka 5., 8. i 9., 30. stavaka 2. - 4., 32. stavka 8., 36. i 38. stavaka 1. - 5., 8. i 11. Pravilnika o provedbi Mjere M04 "Ulaganja u fizičku imovinu", podmjere 4.1. "Potpora za ulaganja u poljoprivredna gospodarstva" iz Programa ruralnog razvoja Republike Hrvatske za razdoblje 2014. - 2020. ("Narodne novine" broj 7/15.).
