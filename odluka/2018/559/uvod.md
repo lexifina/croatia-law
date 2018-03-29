@@ -1,0 +1,1 @@
+Na temelju članka 181. stavka 3. Zakona o hrvatskim braniteljima iz Domovinskog rata i članovima njihovih obitelji (»Narodne novine«, broj 121/17) ministar nadležan za zdravstvo, uz prethodno mišljenje ministra hrvatskih branitelja i ministra nadležnog za rad i mirovinski sustav, donosi
