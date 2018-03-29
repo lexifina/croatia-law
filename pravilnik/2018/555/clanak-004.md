@@ -1,0 +1,3 @@
+# Članak 4.
+(1) Na osnovi pribavljene dokumentacije iz članka 2. ovoga Pravilnika određuju se katastarske čestice poljoprivrednog zemljišta namijenjene za povrat i za zamjenu u slučaju kada nije moguć povrat imovine oduzete za vrijeme jugoslavenske komunističke vladavine, za prodaju, zakup, zakup ribnjaka, zakup zajedničkih pašnjaka i za ostale namjene.
+(2) Pri određivanju površina za namjene iz stavka 1. ovoga članka u Programima se ne mogu umanjivati proizvodno-tehnološke cjeline koje su u funkciji proizvodnje, osim iznimno za dodjelu zamjenskog zemljišta u postupcima povrata oduzete imovine.
