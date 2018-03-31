@@ -1,0 +1,1 @@
+Na temelju članka 15. stavka 3. Zakona o morskom ribarstvu (»Narodne novine« br. 62/17.) i na temelju članka 7. stavka 3. Pravilnika o ribolovnim mogućnostima i kriterijima raspodjele trajne i individualne kvote u 2018. godini (»Narodne novine« br. 8/18.), ministar poljoprivrede donosi
