@@ -1,0 +1,1 @@
+Na temelju članka 32. stavka 1. Zakona o energiji (»Narodne novine«, br. 120/12, 14/14 i 102/15), članka 68. Zakona o tržištu električne energije (»Narodne novine«, br. 22/13 i 102/15) i članka 30. stavka 1. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/11, 119/14 i 93/16), Vlada Republike Hrvatske je na sjednici održanoj 18. siječnja 2018. godine donijela
