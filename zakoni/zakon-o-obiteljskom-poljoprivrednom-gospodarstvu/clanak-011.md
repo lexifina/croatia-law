@@ -1,0 +1,5 @@
+## Proizvodni resursi
+# Članak 11.
+(1) Uvjet za obavljanje gospodarske djelatnosti poljoprivrede u organizacijskom obliku OPG-a je posjedovanje i korištenje proizvodnih resursa u poljoprivredi, i to zemljišta za bilinogojstvo odnosno posjedovanje stoke za stočarstvo odnosno posjedovanje i raspolaganje potrebnim proizvodnim resursima i/ili korištenje stručnih znanja i/ili vještina ako su propisani za pojedinu djelatnost.
+(2) Proizvodnim resursima, osim onih navedenih u stavku 1. ovoga članka, osobito se smatraju: zemljište, nasadi, stoka, zgrade za stoku, pomoćne zgrade, skladišta, objekti za proizvodnju u zaštićenom prostoru, objekti s opremom za čuvanje, skladištenje, preradu i pakiranje, objekti za prodaju, objekti za boravak i usluge, poljoprivredna mehanizacija, priključni, radni i drugi strojevi, uređaji, alati i oprema, transportna sredstva, rad, stručna znanja i vještine.
+(3) Proizvodni resursi iz stavaka 1. i 2. ovoga članka za obavljanje gospodarske djelatnosti poljoprivrede mogu biti u vlasništvu, posjedu, zakupu, koncesiji, najmu, odnosno korištenju nositelja OPG-a i/ili članova OPG-a.

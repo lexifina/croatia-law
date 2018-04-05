@@ -1,0 +1,7 @@
+## Usklađivanje uvjeta poslovanja OPG-a
+# Članak 52.
+(1) Postupci koji su do dana stupanja na snagu ovoga Zakona pokrenuti povodom zahtjeva za upis u Upisnik poljoprivrednika i ostalih statusnih promjena OPG-a prema posebnom propisu kojim se određuju ciljevi i mjere poljoprivredne politike dovršit će se prema tom Zakonu.
+(2) Fizičke osobe koje su prije stupanja na snagu ovoga Zakona upisane kao OPG u Upisnik poljoprivrednika prema zakonu kojim se određuju ciljevi i mjere poljoprivredne politike dužne su uskladiti svoj organizacijski oblik i status sukladno ovom Zakonu u roku od šest mjeseci od dana stupanja na snagu propisa iz članka 50. ovoga Zakona.
+(3) Agencija za plaćanja će fizičke osobe iz stavka 2. ovoga članka pozvati da radi postupka usklađivanja i evidentiranja promjena podnesu zahtjev za upis sukladno ovom Zakonu.
+(4) Fizičkoj osobi koja ne podnese zahtjev sukladno stavku 3. ovoga članka Agencija za plaćanja će ako utvrdi ispunjavanje uvjeta rješenjem donesenim po službenoj dužnosti dodijeliti organizacijski oblik OPG-a i status iz članka 17. stavka 2. točke a) ovoga Zakona.
+(5) Iznimno od stavka 4. ovog članka, Agencija za plaćanja ako ne utvrdi ispunjavanje uvjeta fizičkoj osobi koja ne podnese zahtjev sukladno stavku 3. ovoga članka, neće rješenjem donesenim po službenoj dužnosti dodijeliti organizacijski oblik OPG-a i status iz članka 17. stavka 2. točke a) ovoga Zakona, nego će rješenjem iz članka 16. stavka 2. ovoga Zakona donesenim po službenoj dužnosti evidentirati promjenu u Upisniku poljoprivrednika.

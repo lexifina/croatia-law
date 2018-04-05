@@ -1,0 +1,5 @@
+## Programska podrška
+# Članak 8.
+(1) Upisnik OPG-ova namijenjen je ostvarivanju načela pravne sigurnosti između države i pojedinca te pojedinca prema trećim osobama o činjenicama koje su predmetom upisa, a prema načelu javnosti pojedini podaci su javni.
+(2) Agencija za plaćanja unosi i evidentira podatke u Upisnik OPG-ova, a podaci se objedinjavaju u središnjoj bazi podataka Upisnika poljoprivrednika koja se vodi sukladno zakonu kojim se određuju ciljevi i mjere poljoprivredne politike te su njezin sastavni dio i mogu se koristiti kao dio provedbe integriranog administrativnog i kontrolnog sustava (IAKS).
+(3) Oblik i način vođenja Upisnika OPG-ova, sadržaj podataka iz Upisnika OPG-ova koji se javno objavljuju te sadržaj podatka iz Upisnika OPG-ova čije se korištenje u personaliziranom i depersonaliziranom obliku omogućuje za službeno korištenje drugim javnim tijelima te jedinicama lokalne i područne (regionalne) samouprave i/ili lokalnim akcijskim grupama za potrebe lokalnih i regionalnih strategija i planiranje projekata, pravilnikom će propisati ministar.
