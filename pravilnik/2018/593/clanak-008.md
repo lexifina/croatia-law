@@ -1,0 +1,4 @@
+## Vrijednost poljoprivredne proizvodnje
+# Članak 8.
+(1) Prosječna vrijednost poljoprivredne proizvodnje utvrđuje se prema vrijednostima zabilježenim u knjigovodstvenim izvještajima korisnika u trogodišnjem razdoblju koje prethodi godini osiguranja ili kao prosječna vrijednost trogodišnje proizvodnje u proteklom petogodišnjom razdoblju, ne uzimajući u obzir najveću i najmanju vrijednost.
+(2) Ako korisnik ne može dokazati prosječnu vrijednost poljoprivredne proizvodnje, ista se može utvrditi sukladno važećim vrijednostima prosječne proizvodnje koje se koriste u verifikaciji šteta prema propisima kojima se uređuje područje procjene šteta od elementarnih nepogoda ili vrijednostima navedenim u drugim relevantnim registrima ili evidencijama što ih vodi Ministarstvo ili ustanove u poljoprivredi.
