@@ -1,0 +1,1 @@
+Pravilnik o primjeni Zakona o trošarinama što se odnosi na plinsko ulje obojano plavom bojom za namjene u poljoprivredi, ribolovu, ribogojstvu, akvakulturi te na povrat plaćene trošarine na bezolovni motorni benzin za namjene u ribolovu
