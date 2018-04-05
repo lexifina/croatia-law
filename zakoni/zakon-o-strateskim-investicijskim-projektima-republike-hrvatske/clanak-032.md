@@ -1,0 +1,4 @@
+# Članak 32.
+(1) Naputak o načinu provedbe postupka prijave i administrativne provjere temeljem odredbi Zakona o strateškim investicijskim projektima Republike Hrvatske (»Narodne novine«, br. 133/13. i 152/14.), objavljen u »Narodnim novinama«, br. 66/15., ostaje na snazi do stupanja na snagu pravilnika iz članka 9. stavka 4. ovoga Zakona.
+(2) Odluka o osnivanju Povjerenstva za procjenu i utvrđivanje prijedloga strateških projekata (»Narodne novine«, br. 1/14., 44/16., 110/16., 51/17. i 62/17.) ostaje na snazi do stupanja na snagu odluke iz članka 10. stavka 1. ovoga Zakona.
+(3) Poslovnik o radu Povjerenstva za procjenu i utvrđivanje prijedloga strateških projekata donesen 13. siječnja 2014. godine na temelju Zakona o strateškim investicijskim projektima Republike Hrvatske (»Narodne novine«, br. 133/13., 152/14. i 22/16.) ostaje na snazi do stupanja na snagu poslovnika iz članka 10. stavka 10. ovoga Zakona.

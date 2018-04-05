@@ -1,0 +1,2 @@
+# Članak 16.
+Kada provedba strateških projekata iz ovoga Zakona podrazumijeva sklapanje ugovora o javnoj nabavi, ugovora o koncesijama za javne radove, ugovora o koncesijama za javne usluge, ugovora o koncesijama za gospodarsko korištenje ili ugovora o javno-privatnom partnerstvu u smislu propisa iz područja javne nabave, javno-privatnog partnerstva ili područja koncesija, članak 6. ovoga Zakona se ne primjenjuje.

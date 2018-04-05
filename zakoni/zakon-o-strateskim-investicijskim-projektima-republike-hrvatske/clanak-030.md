@@ -1,0 +1,2 @@
+# Članak 30.
+Dozvolu o promjeni namjene građevine, rješenje o utvrđivanju građevne čestice i potvrdu akta o parcelaciji građevinskog zemljišta potrebnih za provedbu strateškog projekta izdaje središnje tijelo državne uprave nadležno za graditeljstvo i prostorno uređenje, upravni odjel, odnosno služba velikoga grada, Grada Zagreba, odnosno županije, nadležna za obavljanje poslova prostornog uređenja.

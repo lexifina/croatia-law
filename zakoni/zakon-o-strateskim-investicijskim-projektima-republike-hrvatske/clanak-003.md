@@ -1,0 +1,13 @@
+# Članak 3.
+Pojedini pojmovi u smislu ovoga Zakona imaju sljedeće značenje:
+1. strateški investicijski projekt je svaki privatni investicijski projekt, javni investicijski projekt ili javno-privatni investicijski projekt iz područja gospodarstva, rudarstva, energetike, turizma, prometa, infrastrukture, elektroničkih komunikacija, poštanskih usluga, zaštite okoliša, komunalnoga gospodarstva, poljoprivrede, šumarstva, vodnoga gospodarstva, ribarstva, zdravstva, kulture, audiovizualnih djelatnosti, znanosti, obrane, pravosuđa, tehnologije i obrazovanja koji uključuje gradnju građevina, a koji na temelju ovoga Zakona proglasi Vlada Republike Hrvatske
+2. privatnim investicijskim projektom smatra se projekt koji se financira ulaganjima fizičkih osoba, domaćih ili stranih pravnih osoba registriranih na teritoriju Republike Hrvatske
+3. javnim investicijskim projektom smatra se projekt čiji je nositelj pravna osoba, a čiji je osnivač Republika Hrvatska ili jedinica lokalne i područne (regionalne) samouprave
+4. javno-privatnim investicijskim projektom smatra se projekt čiji su nositelji javna i privatna pravna osoba
+5. javno-privatnim investicijskim projektom po modelu javno-privatnog partnerstva smatra se projekt koji se provodi sukladno s propisima kojima se uređuje javno-privatno partnerstvo
+6. investitor može biti obiteljsko poljoprivredno gospodarstvo (OPG), domaća ili strana pravna osoba registrirana na teritoriju Republike Hrvatske, pravna osoba čiji je osnivač Republika Hrvatska ili jedinica lokalne i područne (regionalne) samouprave
+7. potencijalni strateški projekt smatra se projekt koji se u potpunosti ili djelomično realizira na nekretnini nad kojom Republika Hrvatska i jedinica lokalne i područne (regionalne) samouprave imaju natpolovični većinski suvlasnički dio, prema stanju u zemljišnim knjigama, ili pomorskom dobru ako ono čini funkcionalnu i poslovnu cjelinu s nekretninom iz članka 5. stavka 1. točaka 1. i 2. ovoga Zakona, a za koji Republika Hrvatska ili jedinica lokalne i područne (regionalne) samouprave želi pronaći investitora
+8. uredna prijava smatra se prijava koja sadrži opis projekta uz ispunjavanje uvjeta iz članka 9. ovoga Zakona te dokumente i druge potrebne podatke i dokaze o projektu na temelju kojih je moguće procijeniti udovoljavanje propisanim uvjetima
+9. uredno podnesen zahtjev smatra se zahtjev koji sadrži sve podatke i prateću dokumentaciju propisanu posebnim propisima
+10. gradnja je projektiranje i građenje građevina te stručni nadzor građenja
+11. idejno rješenje je vrsta stručne podloge kojom se daju osnovna oblikovna i položajna rješenja zahvata u prostoru sukladno pravilima arhitektonske i/ili inženjerske struke.
