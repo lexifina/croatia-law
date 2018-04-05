@@ -1,0 +1,4 @@
+# Članak 2.
+(1) Policija, državno odvjetništvo, sud, centri za socijalnu skrb, zdravstvene ustanove i odgojno-obrazovne ustanove kao tijela ovlaštena za postupanje prema Zakonu, dužna su voditi evidenciju o poduzetim radnjama. Evidencija koju vode nadležna tijela trebaju sadržavati podatke o spolu i dobi počinitelja, žrtve, rodbinskom ili drugom odnosu žrtve i počinitelja, djeci, osobama s invaliditetom i osobama starije životne dobi.
+(2) Tijela iz stavka 1. ovog članka dužna su putem nadležnih tijela dostavljati ministarstvu nadležnom za poslove pravosuđa objedinjena godišnja izvješća o broju pokrenutih, okončanih postupaka ili drugih mjera poduzetih prema Zakonu.
+(3) Ministarstvo nadležno za poslove pravosuđa nadležno je za prikupljanje, obradu i dostavu podataka iz stavka 1. i 2. ovog članka.
