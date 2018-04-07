@@ -1,0 +1,4 @@
+# Članak 12.
+Članak 38. mijenja se i glasi:
+»(1) Državljani Republike Hrvatske tijekom izvršavanja obveza iz članka 18. ovoga Zakona i nakon otpusta iz Oružanih snaga imaju pravo na pokriće troškova zdravstvene zaštite iz obveznog i dopunskog zdravstvenog osiguranja na teret državnog proračuna Republike Hrvatske do izlječenja odnosno dok nadležno tijelo mirovinskog osiguranja ne donese ocjenu radne sposobnosti u slučaju nastanka ozljede ili bolesti koje su zadobili za vrijeme izvršavanja obveze, a koje su izravna posljedica izvršavanja obveze.
+(2) Nadležna ustrojstvena jedinica Ministarstva obrane koja je organizirala aktivnost na kojoj se obveznik iz stavka 1. ovoga članka razbolio ili ozlijedio pokreće postupak utvrđivanja i priznavanja ozljede na radu u skladu sa zakonom kojim se uređuju prava iz obveznog zdravstvenog osiguranja u slučaju ozljede na radu.«.
