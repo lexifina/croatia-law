@@ -1,0 +1,7 @@
+## Zahtjev za objavom presude
+# Članak 15.
+(1) Nositelj poslovne tajne može zahtijevati da pravomoćna presuda kojom se u cijelosti ili djelomično udovoljilo zahtjevu usmjerenom na zaštitu poslovne tajne u slučaju nezakonitog pribavljanja, korištenja ili otkrivanja bude objavljena u sredstvima javnog priopćavanja na trošak tuženika.
+(2) Sud će, u granicama tužbenog zahtjeva, odlučiti u kojem će sredstvu javnog priopćavanja presuda biti objavljena te hoće li se objaviti cijela presuda ili njezin dio.
+(3) Ako sud odluči da se objavi samo dio presude, odredit će, u granicama tužbenog zahtjeva, da se objavi izreka i onaj dio presude iz kojeg je vidljivo o kakvoj se povredi radi.
+(4) Svakom mjerom iz stavka 1. ovoga članka čuva se povjerljivost poslovne tajne kako je predviđeno u članku 10. ovoga Zakona.
+(5) Kada odlučuje o tome hoće li odrediti mjeru iz stavka 1. ovoga članka i procjenjuje njezinu razmjernost, sud uzima u obzir vrijednost poslovne tajne, postupanje počinitelja povrede prilikom pribavljanja, korištenja ili otkrivanja poslovne tajne, učinak nezakonitog korištenja ili otkrivanja poslovne tajne te vjerojatnost da će počinitelj povrede ponovno nezakonito koristiti ili otkriti poslovnu tajnu. Sud također uzima u obzir jesu li informacije o počinitelju povrede takve da bi mogle dovesti do identificiranja određene fizičke osobe te, ako je tako, bi li objava takvih informacija bila opravdana, posebice s obzirom na moguću štetu koju bi takva mjera mogla prouzročiti za privatnost i ugled počinitelja povrede.

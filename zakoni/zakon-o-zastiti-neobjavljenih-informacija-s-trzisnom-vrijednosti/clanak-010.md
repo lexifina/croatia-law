@@ -1,0 +1,21 @@
+## Očuvanje povjerljivosti poslovnih tajni tijekom sudskog postupka
+# Članak 10.
+(1) Stranke, njihovi odvjetnici ili drugi zastupnici, sudski službenici, svjedoci, stručnjaci i sve ostale osobe koje sudjeluju u sudskom postupku koji se odnosi na nezakonito pribavljanje, korištenje ili otkrivanje poslovne tajne ili koje imaju pristup dokumentima koji su sastavni dio sudskog postupka ne smiju koristiti ili otkriti bilo koju poslovnu tajnu ili navodnu poslovnu tajnu koju je sud, na zahtjev zainteresirane stranke, utvrdio kao povjerljivu i za koju su saznali zbog takvog sudjelovanja ili pristupa.
+(2) Obveza iz stavka 1. ovoga članka primjenjuje se i nakon završetka sudskog postupka, a prestaje postojati u sljedećim okolnostima:
+1. ako se pravomoćnom odlukom utvrdi da navodna poslovna tajna ne ispunjava zahtjeve utvrđene u članku 3. stavku 1. točki 5. ovoga Zakona ili
+2. ako predmetne informacije tijekom vremena postanu općenito poznate ili lako dostupne osobama iz krugova koji se uobičajeno bave predmetnom vrstom informacija.
+(3) Sud može, na zahtjev stranke, poduzeti posebne mjere potrebne za očuvanje povjerljivosti bilo koje poslovne tajne ili navodne poslovne tajne koja se koristi ili na koju se upućuje tijekom sudskog postupka koji se odnosi na nezakonito pribavljanje, korištenje ili otkrivanje poslovne tajne.
+(4) Mjere iz stavka 3. ovoga članka koje sud može poduzeti uključuju:
+1. isključivanje javnosti iz cijelog postupka ili dijela postupka
+2. ograničavanje na ograničeni broj osoba, u cijelosti ili djelomično, pristupa dokumentima koje su dostavile stranke ili treće osobe, a koji sadržavaju poslovne tajne ili navodne poslovne tajne. Prije pristupa tim dokumentima sud će upozoriti osobe koje imaju pravo pristupa o obvezi iz stavka 1. ovoga članka. O tome da su upoznate s tom obvezom osobe koje pristupaju dokumentima potpisuju pred sudom izjavu
+3. zabranu umnožavanja dokumenata koji sadržavaju poslovne tajne ili navodne poslovne tajne i njihovo zatvaranje u poseban omot koji se može otvarati samo na sudu, u kojem slučaju će se ponovno zatvoriti u poseban omot i na omotu naznačiti da je dokument razgledan, datum razgledanja i tko je izvršio razgledanje
+4. ograničavanje na ograničen broj osoba pristupa ročištima na kojima bi se poslovne tajne ili navodne poslovne tajne mogle otkriti te pristupa zapisniku ili transkriptu s tih ročišta i/ili
+5. stavljanje na raspolaganje bilo kojoj osobi, osim onih obuhvaćenih ograničenim brojem osoba iz točaka 2. i 4. ovoga stavka, bilo koje sudske odluke u verziji koja nije povjerljiva, u kojoj su odlomci koji sadržavaju poslovne tajne uklonjeni ili redigirani.
+(5) Broj osoba iz stavka 4. točaka 2. i 4. ovoga članka ne smije biti veći od onoga koji je potreban kako bi se osiguralo poštovanje prava stranaka sudskog postupka na djelotvoran pravni lijek i pošteno suđenje i uključuje najmanje jednu fizičku osobu svake stranke te odvjetnike ili druge zastupnike tih stranaka sudskog postupka.
+(6) Sud će prihvatiti ili odbiti mjere iz stavka 3. ovoga članka ovisno o tome jesu li mjere razmjerne povredi iz stavka 1. ovoga članka.
+(7) Prilikom odlučivanja o mjerama iz stavka 3. ovoga članka i procjeni njihove razmjernosti sud uzima u obzir potrebu osiguravanja prava na djelotvoran pravni lijek i pošteno suđenje, legitimne interese stranaka i, s obzirom na okolnosti slučaja, pravni interes trećih osoba te štetu koja može nastati za bilo koju od stranaka.
+(8) Protiv rješenja kojim sud određuje mjere iz stavka 3. ovoga članka žalba nije dopuštena.
+(9) Svaka obrada osobnih podataka na temelju mjera propisanih ovim člankom provodi se u skladu s posebnim propisima o zaštiti osobnih podataka.
+(10) Podnesci i odluke u sudskom postupku koji se odnosi na nezakonito pribavljanje, korištenje ili otkrivanje poslovne tajne ne dostavljaju se putem elektroničke oglasne ploče suda (e-Oglasne ploče) nego poštom.
+(11) Sud će u slučaju neuspjele dostave pozvati stranku putem e-Oglasne ploče da u roku od osam dana od dana objave tog poziva neposredno u sudu preuzme podnesak ili odluku.
+(12) Ako u ostavljenom roku sukladno stavku 11. ovoga članka stranka ne preuzme podnesak ili odluku, smatrat će se da je dostava obavljena istekom osmoga dana od dana objave poziva za preuzimanje podneska ili odluke na e-Oglasnoj ploči suda.
