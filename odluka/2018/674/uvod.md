@@ -1,0 +1,1 @@
+Na temelju članaka 114. i 141. Zakona o zračnom prometu (»Narodne novine«, br. 69/09, 84/11, 54/13, 127/13 i 92/14) i članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/11, 119/14 i 93/16), Vlada Republike Hrvatske je na sjednici održanoj 10. travnja 2018. godine donijela
