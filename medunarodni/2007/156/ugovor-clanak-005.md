@@ -1,0 +1,6 @@
+# Članak 5.
+SNIMANJE
+(1) Koprodukcijski filmovi će se proizvoditi, obrađivati i zvučno montirati, do stvaranja prve kopije za prikazivanje, u zemljama sudjelujućih koproducenata, sukladno članku 8. Ukoliko scenarij ili tema filma to zahtijevaju, može se odobriti snimanje na otvorenoj ili zatvorenoj stvarnoj lokaciji u zemlji koja ne sudjeluje u koprodukciji.
+(2) Producenti, scenaristi, redatelji, članovi umjetničkog i tehničkog osoblja moraju biti državljani Republike Hrvatske ili Talijanske Republike, ili država članica Europske unije ili osobe s dugogodišnjim boravištem u Hrvatskoj ili Italiji sukladno zakonu Zajednice i nacionalnom zakonu na snazi u dvije zemlje.
+(3) Članovi umjetničkog i tehničkog osoblja koji ne ispunjavaju uvjete propisane u stavku (2), također mogu sudjelovati u filmu, ali samo u iznimnim okolnostima, te uz suglasnost nadležnih tijela ugovornih stranaka, uzimajući u obzir potrebe filmske produkcije.
+(4) Strani članovi umjetničkog i tehničkog osoblja koji imaju boravište ili su zakonito zaposleni u Republici Hrvatskoj ili Talijanskoj Republici mogu, u iznimnim okolnostima, sudjelovati u koprodukciji pod istim uvjetima kao i osobe s dugogodišnjim boravištem u zemlji boravka.

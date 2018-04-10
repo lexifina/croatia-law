@@ -1,0 +1,5 @@
+# Članak 19.
+ZAJEDNIČKO POVJERENSTVO
+(1) Za vrijeme važenja ovog Ugovora, zajedničko povjerenstvo sastavljeno od službenih predstavnika ugovornih stranaka i stručnjaka, u načelu će se sastajati jedanput svake druge godine naizmjenično u dvije zemlje. Međutim, jedno ili oba nadležna tijela mogu sazvati izvanrednu sjednicu Povjerenstva, osobito u slučaju značajnih izmjena i dopuna nacionalnog zakonodavstva ili propisa na području filmske, televizijske i audiovizualne industrije u jednoj ili drugoj zemlji ili u slučaju osobito ozbiljnih poteškoća u provedbi ovog Ugovora.
+(2) Zajedničko će povjerenstvo utvrditi postoji li ravnoteža u koprodukcijama u pogledu njihovog broja i postotka te ukoliko to nije slučaj, odrediti mjere koje smatra potrebnim za uspostavljanje takve ravnoteže.
+(3) Zajedničko će povjerenstvo podnijeti nadležnim tijelima ugovornih stranaka na odobrenje sve izmjene i dopune koje smatra potrebnim za prevladavanje poteškoća nastalih u provedbi ovog Ugovora i u svrhu njegovog poboljšanja u interesu ugovornih stranaka.
