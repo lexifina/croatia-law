@@ -1,0 +1,1 @@
+Pravilnik o provedbi mjere 8, podmjere 8.5 Potpora za ulaganja u poboljšanje otpornosti i okolišne vrijednosti šumskih ekosustava iz Programa ruralnog razvoja Republike Hrvatske za razdoblje 2014. - 2020.
