@@ -1,0 +1,6 @@
+## Podešavanje brzine zrakoplova u dolasku i tijekom snižavanja
+# Članak 61.
+(1) U slučaju predviđenog kašnjenja, zapovjednik zrakoplova u dolasku može dobiti uputu da održava određenu brzinu u svrhu zahtijevanog vremena dolaska na aerodrom.
+(2) Kontrolor zračnog prometa treba izbjegavati izdavanje upute pilotu turbomlaznog zrakoplova kojom se zahtijeva smanjenje brzine na manje od 250 kt indicirane brzine (IAS) tijekom početnog snižavanja s razine krstarenja osim u slučaju kad za to ima suglasnost pilota.
+(3) Zrakoplovu u dolasku treba biti omogućen let u čistoj konfiguraciji što je duže moguće. Ispod FL150 kontrolor zračnog prometa može izdati uputu kojom se od pilota turbomlaznog zrakoplova zahtijeva smanjenje brzine na minimalno 220 kt indicirane brzine (IAS).
+(4) U svrhu uspostavljanja slijeda za prilaženje i smanjenja potrebnog broja vektora, nadležna kontrola zračnoga prometa može, prilikom radarskog vektoriranja tijekom međuprilaženja i završnog prilaženja, zahtijevati da zrakoplov pod radarskom kontrolom podesi brzinu za najviše ± 20 kt, na temelju indicirane brzine (IAS). Podešavanje brzine se ne smije zahtijevati ili primjenjivati nakon što je zrakoplov u završnom prilaženju preletio točku udaljenu 4 NM od praga uzletno-sletne staze.

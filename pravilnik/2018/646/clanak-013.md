@@ -1,0 +1,5 @@
+## Vidljivost VMC i udaljenost od minimuma oblaka
+# Članak 13.
+U smislu provedbe odredbe SERA.5001: u zračnom prostoru klase G za VFR letove dozvoljena je vidljivost u letu:
+a) za avione: najmanje 1 500 m pri brzinama od najviše 140 čvorova indicirane brzine (IAS), kako bi se omogućilo pravodobno uočavanje ostalog prometa ili mogućih prepreka radi izbjegavanja sudara, ili u okolnostima kada bi obično postojala mala vjerojatnost susretanja s drugim prometom sredstvom, npr. u područjima s manjim opsegom prometa i u područjima obavljanja radova iz zraka na niskim razinama;
+(b) za helikoptere: pri vidljivosti manjoj od 1 500 m ali ne manjoj od 800 m, ako manevriraju brzinom koja će omogućiti pravodobno uočavanje ostalog prometa ili mogućih prepreka radi izbjegavanja sudara. Manja vidljivost u letu od 800 m dozvoljena je za helikoptere koji obavljaju letove u posebnim slučajevima kao što su letovi koji se obavljaju u svrhu potrage i spašavanja, pružanja hitne medicinske pomoći ili gašenja požara.
