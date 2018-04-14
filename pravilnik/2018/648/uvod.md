@@ -1,0 +1,1 @@
+Na temelju članka 36., članka 46. stavka 3. i članka 47. stavka 2. Zakona o plovidbi i lukama unutarnjih voda (»Narodne novine« broj 109/2007, 132/2007, 51A/2013 i 152/14) ministar mora, prometa i infrastrukture donosi
