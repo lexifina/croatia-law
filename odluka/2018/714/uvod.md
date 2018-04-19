@@ -1,0 +1,1 @@
+Na temelju članka 4. stavka 1. Zakona o elektroničkim komunikacijama (»Narodne novine«, br. 73/08, 90/11, 133/12, 80/13, 71/14 i 72/17) i članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/11, 119/14 i 93/16), Vlada Republike Hrvatske je na sjednici održanoj 19. travnja 2018. godine donijela

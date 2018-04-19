@@ -1,0 +1,1 @@
+Odluka o donošenju Nacionalnog programa razvoja širokopojasne agregacijske infrastrukture u područjima u kojima ne postoji dostatan komercijalni interes za ulaganja, kao preduvjet razvoja pristupnih mreža sljedeće generacije (NGA)
