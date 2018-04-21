@@ -1,0 +1,3 @@
+# Članak 1.
+U Pravilniku o provedbi mjere 4 »Ulaganja u fizičku imovinu«, podmjere 4.2 »Potpora za ulaganja u preradu, marketing i/ili razvoj poljoprivrednih proizvoda« iz Programa ruralnog razvoja Republike Hrvatske za razdoblje 2014. - 2020. (»Narodne novine«, broj 46/17) u članku 2. stavku 1. točki 10. riječi: », što uključuje i pripremu proizvoda, odnosno radnje pripreme poput pranja, čišćenja, rezanja, obrezivanja, ljuštenja, usitnjavanja, sjeckanja, rashlađivanja, zamrzavanja i sušenja bez pretvaranja u prerađevine« brišu se.
+U točki 21. riječi: »pripremu, provedbu i financiranje« zamjenjuju se riječima: »pripremu i provedbu«.

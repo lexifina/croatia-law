@@ -1,0 +1,6 @@
+# Članak 2.
+U članku 4. stavku 1. točki b) iza riječi: »Priloga I. Ugovoru« dodaju se riječi: »osim korisnika koji ulažu u marketing odnosno trženje poljoprivrednih proizvoda«.
+Iza stavka 2. dodaje se novi stavak 3. koji glasi:
+»(3) Pravne osobe moraju imati iskazanog najmanje jednog zaposlenika prema satima rada u godišnjem financijskom izvještaju poduzetnika za zadnje odobreno računovodstveno razdoblje, izuzev proizvođačkih organizacija i početnika koji moraju imati najmanje jednu zaposlenu osobu u trenutku podnošenja zahtjeva za potporu (najmanje jedna zaposlena osoba prema satima rada na godišnjoj razini uvjet je koji korisnik mora ispunjavati do isteka pet godina od datuma konačne isplate potpore). Kod fizičkih osoba, nositelj poljoprivrednog gospodarstva/vlasnik obrta mora biti upisan u Registar poreznih obveznika najmanje godinu dana prije datuma podnošenja zahtjeva za potporu te mora plaćati doprinose za zdravstveno i mirovinsko osiguranje (izuzev umirovljenika koji ne moraju plaćati doprinose).«.
+Dosadašnji stavci 3., 4., 5., 6. i 7. postaju stavci 4., 5., 6., 7. i 8.
+U dosadašnjem stavku 7. koji postaje stavak 8. riječi: »stavaka 1., 3. i 4.« zamjenjuju se riječima: »stavaka 1., 3., 4. i 5.«.
