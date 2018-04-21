@@ -1,0 +1,3 @@
+# Članak 2.
+(1) Za ispunjenje uvjeta iz članka 54. točke 3. i članka 96. stavka 1. točke 2. Zakona o strancima, državljanin treće zemlje mora mjesečno imati osigurana sredstva za uzdržavanje u visini od tri osnovice na temelju koje se utvrđuje visina zajamčene minimalne naknade u skladu s propisima o socijalnoj skrbi.
+(2) Za dvočlanu obitelj iznos iz stavka 1. ovoga članka uvećava se za visinu 1,25 osnovice na temelju koje se utvrđuje visina zajamčene minimalne naknade, a za svakog daljnjeg člana obitelji iznos se uvećava za dodatnu visinu jedne osnovice na temelju koje se utvrđuje visina zajamčene minimalne naknade.
