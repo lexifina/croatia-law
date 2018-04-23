@@ -1,0 +1,4 @@
+R J E Š E N J E
+I. Ne prihvaćaju se prijedlozi za pokretanje postupka za ocjenu suglasnosti s Ustavom članaka 51. stavaka 2., 3. i 4., 55. stavka 2., 56. stavka 1., 60. stavka 2., 62. stavka 2. točke 8., 72. stavka 2., 78. stavka 2., 82., 83. stavka 4., 84. stavka 1., 85. stavka 3. točke 1. i stavka 7., 87. stavaka 4. i 5. Zakona o Državnom sudbenom vijeću ("Narodne novine" broj 116/10., 57/11., 130/11., 13/13., 28/13. i 82/15.).
+II. Obustavlja se postupak u povodu prijedloga za pokretanje postupka za ocjenu suglasnosti s Ustavom članka 54. Zakona o Državnom sudbenom vijeću ("Narodne novine" broj 116/10. i 57/11.).
+III. Odbacuju se prijedlozi za pokretanje postupka za ocjenu suglasnosti s Ustavom članka 56. Zakona o Državnom sudbenom vijeću ("Narodne novine" broj 116/10.) i članka 19. stavka 9. Zakona o izmjenama i dopunama Zakona o Državnom sudbenom vijeću ("Narodne novine" broj 28/13.).
