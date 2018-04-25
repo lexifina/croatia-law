@@ -1,0 +1,1 @@
+Na temelju članka 35. stavka 4. i članka 36. stavka 11. Ustavnog zakona o pravima nacionalnih manjina (»Narodne novine«, broj 155/02 i 80/10), Savjet za nacionalne manjine na sjednici održanoj 19. travnja 2018. donio je
