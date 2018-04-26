@@ -1,0 +1,8 @@
+## OBVEZE INVESTICIJSKOG DRUŠTVA TIJEKOM I NAKON PROVEDBE AKTIVNOSTI KOJE OBAVLJA HRVATSKA AGENCIJA ZA NADZOR FINANCIJSKIH USLUGA
+# Članak 6.
+Obveze investicijskog društva u postupku sanacijskog nadzora
+1. Investicijsko društvo dužno je ovlaštenoj osobi, na njezin zahtjev, omogućiti da obavi neposredni sanacijski nadzor u sjedištu investicijskog društva i na ostalim mjestima na kojima investicijsko društvo, odnosno druga osoba na temelju ovlaštenja investicijskog društva, obavlja djelatnosti i poslove u vezi s kojima Hanfa kao sanacijsko tijelo provodi neposredni sanacijski nadzor.
+2. Ako investicijsko društvo izdvoji određene aktivnosti, investicijsko društvo dužno je omogućiti ovlaštenim osobama obavljanje neposrednog sanacijskog nadzora u prostorijama pružatelja usluga.
+3. Investicijsko društvo dužno je ovlaštenoj osobi, na njezin zahtjev, omogućiti da obavi kontrolu poslovnih knjiga, poslovne dokumentacije te administrativne ili poslovne evidencije, kao i kontrolu informacijske tehnologije i drugih pridruženih tehnologija, u opsegu potrebnom za obavljanje pojedinog neposrednog sanacijskog nadzora.
+4. Investicijsko društvo dužno je ovlaštenoj osobi, na njezin zahtjev, uručiti računalne ispise, preslike poslovnih knjiga, poslovne dokumentacije te administrativne ili poslovne evidencije u papirnatom obliku i/ili u obliku elektroničkog zapisa na mediju i u obliku koji zahtijeva ovlaštena osoba.
+5. Članovi uprave i nadzornog odbora, ako ga investicijsko društvo ima, vlasnici, prokuristi, ostali rukovoditelji i radnici investicijskog društva obvezni su ovlaštenoj osobi, na njezin zahtjev, dati usmene i pisane odgovore na pitanja koja su važna za provedbu ovlasti iz glave III. i glave V. ZOSI te ih dokumentacijom potvrditi.
