@@ -1,0 +1,3 @@
+## V. PRIJELAZNE I ZAVRŠNE ODREDBE
+# Članak 24.
+Osoba koji ima završen preddiplomski i diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij ili specijalistički diplomski stručni studij, i koji u trenutku stupanja na snagu ovoga Pravilnika ima više od osam godina praktičnog iskustva u području iz članka 4. ovoga Pravilnika, ali ne zadovoljava uvjete vezane uz struku iz članka 9. ovoga Pravilnika, može podnijeti zahtjev za izdavanje potvrde kojom se potvrđuje osobu kao stručnjaka za zaštitu od ionizirajućeg zračenja uz dokaz o najmanje osmogodišnjem radnom iskustvu na poslovima u području iz članka 4. ovoga Pravilnika.
