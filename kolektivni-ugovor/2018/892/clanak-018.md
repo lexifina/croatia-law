@@ -1,0 +1,8 @@
+## DODACI NA PLAĆU VODITELJA PROGRAMA ILI PROJEKATA
+# Članak 18.
+(1) Osnovna plaća zaposlenika u djelatnosti konzerviranja, restauriranja i obnove kulturnih dobara uvećat će se:
+- za vrijeme dok koordinira poslove programa ili projekta koji obuhvaćaju rad raznorodnih djelatnosti i kompetencija djelatnika između više ustrojstvenih jedinica | 15%
+- za vrijeme dok vodi poslove programa ili projekta koji prema tehničkim provedbenim specifikacijama, brojem djelatnika ili dionika nadilaze uobičajenu grupu poslova ili dok vodi konzervatorsko-restauratorske radove na kulturnom dobru koje ima iznimnu umjetničku vrijednost ili nacionalni ili regionalni karakter | 10%
+(2) Poslodavac je dužan u roku od tri mjeseca od dana sklapanja ovog Ugovora općim aktom definirati opise poslova i kriterije za vođenje programa i projekta. Opći akt donosi upravno vijeće uz suglasnost osnivača.
+(3) Poslodavac pisanom odlukom imenuje zaposlenika koordinatorom, voditeljem programa ili projekta. Odluka o imenovanju mora sadržavati obrazloženje o stručnim kompetencijama imenovane osobe, razloge zbog kojih je potrebno imenovati koordinatora odnosno voditelja, zadaće koje će obavljati kao koordinator odnosno voditelj projekta ili programa, rezultate koji se očekuju i rok u kojem će obavljati te poslove te način provjere i ocjene postignutih rezultata.
+(4) Dodaci iz stavka 1. ovoga članka međusobno se isključuju i ne primjenjuju se kumulativno prema broju programa ili projekata, nego zaposleniku koji vodi poslove na više programa ili projekata pripada samo jedan dodatak iz stavka 1. ovoga članka, koji se određuje prema programu ili projektu najveće složenosti ili umjetničke vrijednosti.

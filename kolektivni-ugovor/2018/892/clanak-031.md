@@ -1,0 +1,4 @@
+## STRUČNE SPREME
+# Članak 31.
+(1) U tekstu ovoga Ugovora pod pojmom visoka stručna sprema (VSS) podrazumijeva se završen preddiplomski i diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij ili specijalistički diplomski stručni studij, kao i visoka stručna sprema koju je zaposlenik stekao sukladno propisima koji su bili na snazi prije stupanja na snagu Zakona o znanstvenoj djelatnosti i visokom obrazovanju (»Narodne novine«, broj 123/03., 105/04., 174/04., 2/07. - Odluka Ustavnog suda Republike Hrvatske, 46/07., 45/09., 63/11., 94/13., 139/13., 101/14, 60/15 i 131/17).
+(2) Pod pojmom viša stručna sprema (VŠS) podrazumijeva se završen preddiplomski sveučilišni studij ili stručni studij u trajanju od najmanje tri godine, odnosno viša stručna sprema koju je zaposlenik stekao sukladno propisima koji su bili na snazi prije stupanja na snagu Zakona o znanstvenoj djelatnosti i visokom obrazovanju.
