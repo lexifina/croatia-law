@@ -1,0 +1,3 @@
+# Članak 2.
+U članku 8. stavku 1. iza točke 9. dodaje se točka 10. koja glasi:
+»10. europski poslovi.«.
