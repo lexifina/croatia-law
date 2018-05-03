@@ -1,0 +1,1 @@
+Pravilnik o načinu ostvarivanja prava na prilagodbu prilaza do zgrade, prilagodbu prilaza do stana u zgradi i prilagodbu stana za djecu smrtno stradaloga ili nestaloga hrvatskog branitelja iz Domovinskog rata i hrvatske ratne vojne invalide iz Domovinskog rata
