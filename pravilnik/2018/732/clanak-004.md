@@ -1,0 +1,2 @@
+# Članak 4.
+Rješenje o stjecanju statusa specijalista iz uže specijalizacije iz članaka 2. i 3. ovoga Pravilnika, Ministarstvo zdravstva donosi na temelju prethodno pribavljenog pozitivnog mišljenja neposrednog voditelja ustrojstvene jedinice zdravstvene ustanove u kojoj specijalist radi, pozitivnog mišljenja stručnog vijeća zdravstvene ustanove ili ustanova gdje specijalist radi ili je radio u zadnjih deset, odnosno tri godine te pozitivnog mišljenja nadležnog stručnog društva, odnosno pozitivnog mišljenja nadležnog stručnog društva Hrvatskog liječničkog zbora.
