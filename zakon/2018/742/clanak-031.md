@@ -1,0 +1,7 @@
+# Članak 31.
+(1) Republika Hrvatska preuzet će prava i obveze osnivača nad Centrom za profesionalnu rehabilitaciju Zagreb, Centrom za profesionalnu rehabilitaciju Osijek, Centrom za profesionalnu rehabilitaciju Rijeka i Centrom za profesionalnu rehabilitaciju Split danom stupanja na snagu uredbi iz članka 9. ovoga Zakona.
+(2) Uredbe o osnivanju centara za profesionalnu rehabilitaciju iz stavka 1. ovoga članka Vlada Republike Hrvatske donijet će najkasnije do 1. siječnja 2019.
+(3) Centri za profesionalnu rehabilitaciju iz stavka 1. ovoga članka osnovani sukladno Zakonu o profesionalnoj rehabilitaciji i zapošljavanju osoba s invaliditetom (»Narodne novine«, br. 157/13. i 152/14.) nastavljaju s radom sukladno tom Zakonu do stupanja na snagu uredbi iz članka 9. ovoga Zakona.
+(4) Ravnatelji i članovi upravnih vijeća centara za profesionalnu rehabilitaciju iz stavka 1. ovoga članka koji su imenovani sukladno Zakonu o profesionalnoj rehabilitaciji i zapošljavanju osoba s invaliditetom (»Narodne novine«, br. 157/13. i 152/14.) nastavljaju s radom do imenovanja novih ravnatelja i članova upravnih vijeća.
+(5) Ministar nadležan za rad imenovat će u roku od 30 dana od dana stupanja na snagu uredbi iz stavka 2. ovoga članka članove upravnih vijeća centara za profesionalnu rehabilitaciju.
+(6) Upravna vijeća centara za profesionalnu rehabilitaciju iz stavka 4. ovoga članka dužna su u roku od 30 dana od dana imenovanja raspisati natječaj za ravnatelja.
