@@ -1,0 +1,25 @@
+## IV.e Autotaksi prijevoz putnika u unutarnjem cestovnom prometu
+## Obavljanje autotaksi prijevoza putnika
+# Članak 47.
+(1) Autotaksi prijevoz putnika u unutarnjem cestovnom prometu obavlja se na temelju licencije za autotaksi prijevoz putnika i dozvole za autotaksi prijevoz putnika, sukladno definiciji iz članka 4. stavka 1. točke 1. ovoga Zakona.
+(2) Pravne i fizičke osobe – obrtnici koji obavljaju autotaksi prijevoz, isključivo radi zaustavljanja u svrhu ukrcaja i iskrcaja putnika mogu koristiti stajališta namijenjena za vozila javnog prijevoza i autotaksi stajališta, a za vožnju mogu koristiti posebno obilježene prometne trake koje im daju prednost kretanja.
+(3) Dozvolu za obavljanje autotaksi prijevoza iz stavka 1. ovoga članka rješenjem izdaje nadležno upravno tijelo za promet jedinice lokalne samouprave, odnosno Grada Zagreba. Pravna ili fizička osoba – obrtnik može dobiti dozvolu više jedinica lokalne samouprave ako zadovoljava sve uvjete propisane ovim Zakonom.
+(4) Dozvola iz stavka 1. ovoga članka izdat će se pravnoj ili fizičkoj osobi – obrtniku koja ima važeću licenciju za obavljanje autotaksi prijevoza u unutarnjem cestovnom prometu u trenutku predaje zahtjeva za izdavanje dozvole.
+(5) Jedinica lokalne samouprave, odnosno Grad Zagreb ne može ograničiti broj izdanih dozvola na svom području.
+(6) Jedinica lokalne samouprave, odnosno Grad Zagreb može donijeti propis kojim utvrđuje lokacije i opremljenost autotaksi stajališta, način njihova korištenja, kao i visinu naknade za izdavanje dozvola.
+(7) Najviša naknada za izdavanje dozvole ne može biti viša od jedne desetine prosječne mjesečne isplaćene netoplaće u pravnim osobama u jedinici lokalne samouprave, odnosno Gradu Zagrebu za posljednji mjesec za koji su objavljeni podaci, a koji prethodi podnošenju zahtjeva za izdavanje dozvole.
+(8) Pravna osoba ili fizička osoba – obrtnik podnosi jedinici lokalne samouprave, odnosno Gradu Zagrebu zahtjev za izdavanje dozvole u pisanom ili u elektroničkom obliku. Uz zahtjev treba priložiti presliku važeće licencije za obavljanje autotaksi prijevoza putnika.
+(9) Ako je omogućeno izdavanje dozvole u elektroničkom obliku, svi potrebni dokazi prilažu se u elektroničkom obliku.
+(10) Ako podnositelj urednog zahtjeva ispunjava propisane uvjete, nadležno upravno tijelo jedinice lokalne samouprave, odnosno Grada Zagreba izdaje rješenje o dozvoli za obavljanje autotaksi prijevoza te dostavlja podnositelju zahtjeva izvornik dozvole.
+(11) Nadležno upravno tijelo jedinice lokalne samouprave, odnosno Grada Zagreba dužno je odlučiti o zahtjevu za izdavanje dozvole i donijeti odgovarajuće rješenje u roku od 15 dana od dana podnošenja urednog zahtjeva.
+(12) Ako nadležno upravno tijelo jedinice lokalne samouprave, odnosno Grada Zagreba ne odluči o zahtjevu u navedenom roku, po zahtjevu će postupati Ministarstvo, koje će donijeti odgovarajuće rješenje u roku od idućih 15 dana, u kojem slučaju se naknada za izdavanje dozvole iz stavka 7. ovoga članka uplaćuje u korist državnog proračuna Republike Hrvatske.
+(13) Dozvola se izdaje na razdoblje od pet godina, a najdulje do dana isteka licencije.
+(14) Dozvola nije prenosiva i može je koristiti samo prijevoznik kojem je izdana.
+(15) Prilikom podnošenja zahtjeva za obnovu dozvole autotaksi prijevoznik dužan je dokazati da ispunjava uvjete za dobivanje licencije za obavljanje autotaksi prijevoza putnika. Zahtjev za obnovu dozvole podnosi se najkasnije dva mjeseca prije isteka roka njezina važenja.
+(16) Ako podnositelj zahtjeva ne ispunjava propisane uvjete za izdavanje ili obnovu dozvole, nadležno upravno tijelo jedinice lokalne samouprave, odnosno Grada Zagreba zahtjev će odbiti rješenjem protiv kojega se može izjaviti žalba Ministarstvu.
+(17) Izvornik dozvole nalazi se u sjedištu autotaksi prijevoznika.
+(18) Prilikom obavljanja autotaksi prijevoza, odnosno tijekom vožnje vozač autotaksi prijevoznika dužan je u vozilu imati presliku dozvole.
+(19) Sve izdane dozvole i licencije za autotaksi prijevoz putnika te podatke o vozilima kojima se obavlja autotaksi prijevoz izdavatelji licencija i dozvola dužni su upisati u Bazu izdanih licencija i dozvola za autotaksi prijevoz, koja je sastavni dio Nacionalnog registra cestovnih prijevoznika.
+(20) Nadzor nad obavljanjem autotaksi prijevoza putnika u unutarnjem cestovnom prometu provodi Ministarstvo, službenici ministarstva nadležnog za unutarnje poslove i ministarstva nadležnog za financije, službenici Carinske uprave (u daljnjem tekstu: Carinska uprava) te komunalni i/ili prometni redari jedinice lokalne samouprave na čijem području se autotaksi prijevoz obavlja.
+(21) U obavljanju nadzora iz stavka 20. ovoga članka komunalni i/ili prometni redari jedinice lokalne samouprave, službenici ministarstva nadležnog za unutarnje poslove i Carinske uprave imaju ovlast pregleda dokumentacije, licencije, dozvola, vozila i vozača.
+(22) U slučaju utvrđenih nepravilnosti službenici iz stavka 20. ovoga članka obvezni su o tome sastaviti pisano izvješće i dostaviti ga inspekciji cestovnog prometa na daljnje postupanje.

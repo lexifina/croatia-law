@@ -1,0 +1,11 @@
+## XIII. AUTOBUSNI I TERETNI KOLODVORI I PUTNIČKI TERMINALI
+## Usluge i opremljenost autobusnih kolodvora
+# Članak 98.
+(1) Na autobusnim kolodvorima obavlja se prihvat i otprema autobusa i putnika, preuzimanje i pohranjivanje prtljage, pružanje informacija o prijevozima i druge usluge povezane s javnim prijevozom putnika.
+(2) Na autobusnim kolodvorima obavlja se i prodaja voznih karata ako postoji ugovor o prodaji autobusnih karata sklopljen u pisanoj formi između autobusnog kolodvora i prijevoznika, sukladno odredbama članka 97. stavka 1. podstavka 11. ovoga Zakona ili je prodaja karata regulirana odredbama ugovora o pružanju kolodvorskih usluga, sukladno odredbama članka 97. stavka 1. podstavka 10. ovoga Zakona.
+(3) Autobusni kolodvori obavljaju prihvat i otpremanje svih autobusa u javnom linijskom županijskom, međužupanijskom i međunarodnom prijevozu putnika prema izdanim dozvolama ili sukladno sklopljenim ugovorima o prijevozu putnika i važećim voznim redovima.
+(4) Autobusni kolodvori obavljaju prihvat i otpremanje autobusa u posebnom linijskom prijevozu putnika i povremenom prijevozu putnika u skladu s raspoloživim brojem perona i s drugim raspoloživim resursima potrebnim za obavljanje kolodvorske djelatnosti.
+(5) Peroni za prihvat autobusa moraju biti na odgovarajući način opremljeni i označeni tako da je zajamčena sigurnost putnika i drugih osoba koje ih koriste i koje se zadržavaju na području autobusnog kolodvora, neometani dolazak i odlazak autobusa te obavljanje drugih poslova iz stavka 1. ovoga članka.
+(6) Izdavatelji dozvola za prijevoz putnika ili druga nadležna tijela za prijevoz putnika obvezni su dostaviti sve ovjerene i odobrene vozne redove prijevoznika onim autobusnim kolodvorima čije je korištenje predviđeno tim voznim redovima.
+(7) Pružatelj kolodvorskih usluga na autobusnom kolodvoru dužan je na svim medijima koje koristi za objavljivanje informacija o voznim redovima autobusa objavljivati sve vozne redove svih prijevoznika koji koriste autobusni kolodvor i o tome davati informacije i prodavati vozne karte bez diskriminacije.
+(8) Pružatelj kolodvorskih usluga na autobusnom kolodvoru dužan je imati vlastitu mrežnu (web) stranicu koju je dužan redovito ažurirati i na kojoj je dužan imati prikaz svih važećih voznih redova i svih ostalih informacija relevantnih za pravodobno i potpuno informiranje putnika.

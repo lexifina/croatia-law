@@ -1,0 +1,9 @@
+## Posebni uvjeti za vozila kojima se obavlja javni prijevoz i prijevoz za vlastite potrebe
+# Članak 13.
+(1) Vozila kojima se obavlja djelatnost javnog cestovnog prijevoza i cestovnog prijevoza za vlastite potrebe moraju, uz uvjete određene drugim propisima kojima se regulira sigurnost prometa na cestama i registracija cestovnih motornih vozila, ispunjavati posebne uvjete koji se odnose na izgled, starost, uređaje i opremu vozila.
+(2) Iznimno od stavka 1. ovoga članka, vozila kojima se obavlja autotaksi prijevoz moraju ispunjavati posebne uvjete koji se odnose na izgled vanjskih oznaka, na starost i na uređaje vozila vezane za obavljanje autotaksi prijevoza.
+(3) Ispunjavanje uvjeta iz stavka 1. ovoga članka utvrđuje stručna organizacija koja je, sukladno posebnom zakonu, ovlaštena za poslove organiziranja i provođenja tehničkih pregleda vozila i za to izdaje odgovarajuću potvrdu.
+(4) Izdavatelj potvrde iz stavka 3. ovoga članka vodi evidenciju o izdanim potvrdama. Stručna organizacija koja ih je izdala, izdane potvrde upisuje u Bazu podataka o izdanim potvrdama koja je sastavni dio Nacionalnog registra cestovnih prijevoznika.
+(5) Potvrda da vozilo zadovoljava posebne uvjete iz stavka 1. ovoga članka tijekom obavljanja prijevoza mora se nalaziti u vozilu i vozač je u slučaju nadzora mora pokazati osobi ovlaštenoj za nadzor.
+(6) Prijevoznik ne smije obavljati javni prijevoz ili prijevoz za vlastite potrebe vozilima koja ne zadovoljavaju posebne uvjete propisane ovim Zakonom i pravilnikom iz stavka 7. ovoga članka.
+(7) Ministar pravilnikom propisuje izgled, starost, uređaje i opremu vozila kojima se obavlja djelatnost javnog cestovnog prijevoza i cestovnog prijevoza za vlastite potrebe iz stavka 1. ovoga članka i izgled vanjskih oznaka, starost i uređaje vozila vezane za obavljanje autotaksi prijevoza iz stavka 2. ovoga članka.

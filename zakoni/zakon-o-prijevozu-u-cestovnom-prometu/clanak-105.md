@@ -1,0 +1,8 @@
+## Krizni odbor i njegove nadležnosti
+# Članak 105.
+(1) U slučaju krize ili ozbiljnih poremećaja na tržištu prijevoza tereta ili putnika u Republici Hrvatskoj zbog obavljanja prijevoza između država članica i/ili kabotaže, Vlada Republike Hrvatske može uputiti prijedlog Europskoj komisiji za usvajanje mjera za zaštitu domaćih prijevoznika te dostaviti informacije o mjerama koje namjerava poduzeti radi zaštite domaćih prijevoznika.
+(2) Mjere koje donosi Vlada Republike Hrvatske radi zaštite domaćih prijevoznika mogu trajati najviše šest mjeseci, s mogućnošću jednokratnog produljenja za još šest mjeseci.
+(3) Kriza, odnosno ozbiljni poremećaji iz stavka 1. ovoga članka znače pojavljivanje problema specifičnih za tržište prijevoznih usluga, koji uzrokuju ozbiljan i potencijalno trajan višak prijevozne ponude nad prijevoznom potražnjom, što podrazumijeva ozbiljniju prijetnju financijskoj stabilnosti i opstojnosti značajnijeg broja cestovnih prijevoznika, uz uvjet da kratkoročne i dugoročne prognoze ne pokazuju mogućnost značajnijeg i trajnog poboljšanja takvog stanja.
+(4) Vlada Republike Hrvatske će u slučaju stanja iz stavka 1. ovoga članka osnovati Krizni odbor sastavljen od predstavnika Ministarstva, ministarstva nadležnog za rad, ministarstva nadležnog za gospodarstvo i od predstavnika strukovnih udruga prijevoznika. Krizni odbor, kojemu je na čelu predstavnik Ministarstva, predlaže Vladi Republike Hrvatske mjere za rješavanje krize na tržištu prijevoznih usluga.
+(5) Krizni odbor surađuje s odgovarajućim tijelima drugih država članica.
+(6) Nadležnost Kriznog odbora iz stavka 4. ovoga članka odgovarajuće se odnosi i na unutarnje tržište cestovnog prijevoza tereta i putnika.

@@ -1,0 +1,11 @@
+## Periodična izobrazba
+# Članak 9.
+(1) Periodična izobrazba sastoji se od obuke kojom se vozačima koji imaju SSO o početnim kvalifikacijama, SSO o ubrzanim početnim kvalifikacijama i vozačima koji su izuzeti obveze stjecanja početne kvalifikacije, sukladno odredbama članka 7. stavka 5. ovoga Zakona, osigurava dopuna znanja potrebnih za njihov rad, posebno glede povećanja sigurnosti u cestovnom prometu, primjene načela defanzivne vožnje i racionalizacije potrošnje goriva te smanjenja onečišćenja okoliša.
+(2) Po završetku obuke vozačima se izdaje svjedodžba kojom se potvrđuje stečena periodična izobrazba (u daljnjem tekstu: SSO o periodičnoj izobrazbi).
+(3) Periodičnu izobrazbu moraju proći:
+a) vozači koji posjeduju SSO o početnim kvalifikacijama ili SSO o ubrzanim početnim kvalifikacijama u roku od pet godina nakon izdavanja SSO-a o početnim kvalifikacijama ili SSO-a o ubrzanim početnim kvalifikacijama ili SSO-a o prethodnoj periodičnoj izobrazbi, te nakon toga roka svakih pet godina
+b) vozači koji su oslobođeni obveze stjecanja početne kvalifikacije, sedam godina nakon isteka roka propisanog člankom 7. stavkom 5. točkama a) i b) ovoga Zakona, te nakon toga roka svakih pet godina i
+c) vozači koji posjeduju svjedodžbu o stečenoj srednjoj stručnoj spremi u zanimanju »vozač motornog vozila«, izdanu do 1. srpnja 2013., u roku pet godina od dana izdavanja svjedodžbe, te nakon toga roka svakih pet godina.
+(4) Vozači koji imaju SSO o početnim kvalifikacijama ili SSO o ubrzanim početnim kvalifikacijama i vozači koji su oslobođeni obveze stjecanja početne kvalifikacije te vozači koji imaju SSO o periodičnoj izobrazbi, a koji su dulje od pet godina prestali obavljati poslove vozača, prije početka ponovnog obavljanja poslova vozača dužni su proći periodičnu izobrazbu.
+(5) Vozači koji obavljaju prijevoz putnika ili tereta i koji imaju SSO o periodičnoj izobrazbi za jednu od kategorija iz članka 8. stavaka 1. i 2. ovoga Zakona oslobođeni su od obveze periodične izobrazbe za ostale kategorije vozila navedene u članku 8. stavcima 1. i 2. ovoga Zakona.
+(6) Vozači koji obavljaju autotaksi prijevoz ili iznajmljivanje vozila s vozačem kao poseban oblik prijevoza putnika u cestovnom prometu nisu dužni pohađati periodičnu izobrazbu.

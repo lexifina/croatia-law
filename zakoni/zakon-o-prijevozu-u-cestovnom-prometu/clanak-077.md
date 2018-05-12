@@ -1,0 +1,12 @@
+## Obavljanje izvanrednog prijevoza tereta
+# Članak 77.
+(1) Izvanredni prijevoz tereta u unutarnjem cestovnom prometu obavlja se na temelju ovoga Zakona i drugih propisa važećih u Republici Hrvatskoj.
+(2) Za obavljanje izvanrednog prijevoza tereta u cestovnom prometu domaći prijevoznik, strani prijevoznik i prijevoznik Europske unije moraju imati dozvolu za izvanredni prijevoz.
+(3) Dozvolu iz stavka 2. ovoga članka tijekom prijevoza prijevoznik mora imati u vozilu i dozvola mora biti pravilno popunjena.
+(4) Strani prijevoznik i prijevoznik Europske unije iz stavka 2. ovoga članka, koji su pribavili dozvolu za izvanredni prijevoz, ne moraju imati ostale dozvole za prijevoz tereta propisane ovim Zakonom.
+(5) Dozvolu iz stavka 2. ovoga članka rješenjem izdaje, kao javnu ovlast, društvo Hrvatske ceste d. o. o., na temelju zahtjeva koji prijevoznik podnosi preko pravne ili fizičke osobe registrirane za obavljanje otpremničke, odnosno agencijske djelatnosti u cestovnom prijevozu ili neposredno izdavatelju, sukladno propisanoj proceduri.
+(6) Kontrolu izvanrednih prijevoza, odnosno kontrolu osovinskih opterećenja, ukupne mase i dimenzija vozila u prometu na cestama provode inspekcija cestovnog prometa Ministarstva, ministarstvo nadležno za unutarnje poslove i društvo Hrvatske ceste d. o. o.
+(7) Kontrolu iz stavka 6. ovoga članka na graničnim prijelazima Republike Hrvatske obavlja Carinska uprava u okviru carinskog nadzora, inspekcija cestovnog prometa Ministarstva, ministarstvo nadležno za unutarnje poslove i društvo Hrvatske ceste d. o. o.
+(8) Ako se kontrolom iz stavaka 6. i 7. ovoga članka utvrdi da se obavlja izvanredni prijevoz bez dozvole, odnosno ako se utvrdi da osovinsko opterećenje, ukupna masa i/ili dimenzije vozila premašuju dozvoljene veličine, troškove kontrole snosi vozač prema posebnom propisu o javnim cestama, a vozilo se isključuje iz prometa, odnosno zabranjuje mu se ulazak ili izlazak iz Republike Hrvatske, do izdavanja dozvole za izvanredni prijevoz.
+(9) Za nastavak prijevoza prijevoznik mora, uz troškove kontrole, platiti naknadu po posebnom propisu o javnim cestama za obavljeni prijevoz u Republici Hrvatskoj do mjesta kontrole, odnosno do mjesta usklađenja osovinskog opterećenja, ukupne mase i dimenzija, odnosno do mjesta istovara ili izlaska iz Republike Hrvatske, kao i nadoknaditi štetu nastalu na cesti, po posebnom propisu, ako se ona utvrdi.
+(10) Protiv rješenja kojim se odlučuje o zahtjevu za izdavanje dozvole za izvanredni prijevoz može se izjaviti žalba Ministarstvu.
