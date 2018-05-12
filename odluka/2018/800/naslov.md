@@ -1,0 +1,1 @@
+Odluka o uzajamnom priznavanju mjere makrobonitetne politike iz preporuke europskog odbora za sistemske rizike od 8. siječnja 2018. o izmjeni preporuke ESRB/2015/2 o procjeni prekograničnih učinaka mjera makrobonitetne politike i o dobrovoljnoj uzajamnosti za mjere makrobonitetne politike ( ESRB/2018/1)
