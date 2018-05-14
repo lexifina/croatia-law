@@ -1,0 +1,16 @@
+# Članak 9.
+KLASIFICIRANI UGOVORI
+1. Klasificirani ugovori sklapaju se i provode u skladu sa zakonima i propisima koji su na snazi u državama stranaka.
+2. Nacionalno sigurnosno tijelo stranke primateljice na zahtjev potvrđuje da je predloženom ugovaratelju izdano odgovarajuće uvjerenje o sigurnosnoj provjeri osobe ili pravne osobe. Ako predloženi ugovaratelj ne posjeduje odgovarajuće uvjerenje o sigurnosnoj provjeri, nacionalno sigurnosno tijelo stranke pošiljateljice može zatražiti od nacionalnog sigurnosnog tijela stranke primateljice izdavanje odgovarajućeg uvjerenja o sigurnosnoj provjeri.
+3. Nacionalno sigurnosno tijelo na državnom području čije države se provodi klasificirani ugovor preuzima odgovornost za propisivanje i provedbu sigurnosnih mjera za klasificirani ugovor prema istim standardima i zahtjevima koji uređuju zaštitu njegovih vlastitih klasificiranih ugovora.
+4. Sigurnosni prilog sastavni je dio svakog klasificiranog ugovora ili podugovora, kojim stranka pošiljateljica pobliže određuje koji se klasificirani podaci ustupaju stranki primateljici, koja je oznaka stupnja tajnosti dodijeljena tim podacima i koje su obveze ugovaratelja u vezi sa zaštitom klasificiranih podataka. Preslika sigurnosnog priloga šalje se nacionalnom sigurnosnom tijelu stranke pošiljateljice.
+5. Obveze ugovaratelja o zaštiti klasificiranih podataka odnose se najmanje na sljedeće:
+a) ustupanje klasificiranih podataka isključivo fizičkim osobama koje su, u skladu sa zakonima i propisima koji su na snazi u državama stranaka, ovlaštene za pristup klasificiranim podacima istoznačnog stupnja tajnosti i kojima je pristup podacima nužan za obavljanje poslova iz djelokruga;
+b) prijenos klasificiranih podataka na način koji je u skladu s ovim Ugovorom;
+c) postupke za obavješćivanje o bilo kojim promjenama koje mogu nastati u vezi s klasificiranim podacima;
+d) korištenje klasificiranih podataka iz klasificiranog ugovora samo za svrhe vezane uz predmet ugovora;
+e) strogo poštivanje odredaba ovog Ugovora u vezi s postupcima za postupanje s klasificiranim podacima;
+f) obvezu izvješćivanja nacionalnog sigurnosnog tijela ugovaratelja bez odgode o svakoj stvarnoj povredi sigurnosti klasificiranih podataka ili sumnji na povredu sigurnosti klasificiranih podataka u vezi s klasificiranim ugovorom;
+g) ustupanje klasificiranih podataka u vezi s klasificiranim ugovorom bilo kojem tijelu koje nije stranka klasificiranog ugovora samo na temelju prethodno pisanog pristanka stranke pošiljateljice.
+6. Nije potrebno pribaviti uvjerenje o sigurnosnoj provjeri za ugovaratelje koji sudjeluju u klasificiranim ugovorima koji uključuju podatke označene kao OGRANIČENO / RIBOTO NAUDOJIMO / RESTRICTED. Klasificirani ugovori označeni OGRANIČENO / RIBOTO NAUDOJIMO / RESTRICTED sadrže odgovarajuću sigurnosnu klauzulu kojom se određuju minimalne mjere za zaštitu klasificiranih podataka. Potrebna je potvrda nacionalnog sigurnosnog tijela da predloženi ugovaratelj ispunjava nacionalne zahtjeve određene za postupanje s klasificiranim podacima označenim OGRANIČENO / RIBOTO NAUDOJIMO / RESTRICTED.
+7. Podugovaratelji uključeni u klasificirane ugovore pridržavaju se sigurnosnih zahtjeva koji se primjenjuju na ugovaratelje.
