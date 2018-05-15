@@ -1,0 +1,2 @@
+Dr. sc. Marko Babić postavlja se za generalnog konzula Republike Hrvatske u Bosni i Hercegovini, sa sjedištem u Mostaru i konzularnim ovlastima nad konzularnim područjem koje obuhvaća sljedeće općine: Bileću, Čapljinu, Čitluk, Gacko, Grude, Jablanicu, Konjic, Ljubinje, Ljubuški, Mostar, Neum, Nevesinje, Posušje, Prozor/Rama, Ravno, Stolac, Široki Brijeg i Trebinje.
+Ova Odluka stupa na snagu 15. svibnja 2018. godine.
