@@ -1,0 +1,9 @@
+## Povjerenik radnika za zaštitu na radu
+# Članak 52.
+(1) Zaposlenici srednjoškolske ustanove s više od 20 zaposlenika obavezno biraju povjerenika radnika za zaštitu na radu kod poslodavca.
+(2) Na izbor i imenovanje povjerenika kao i broj povjerenika te njihov mandat primjenjuju se odredbe Zakona o radu kojima su uređena pitanja izbora radničkog vijeća.
+(3) Bez obzira na broj zaposlenika, povjerenik mora biti izabran svugdje gdje to zahtijevaju uvjeti rada (radionički prostor, kotlovnice, kuhinje u srednjoškolskim ustanovama i učeničkim domovima i broj učenika).
+(4) Poslodavac je dužan osigurati povjereniku radnika za zaštitu na radu uvjete za nesmetano obnašanje dužnosti, davati sve potrebne obavijesti i omogućiti uvid u sve propise i isprave u svezi sa zaštitom na radu, ne smije tijekom obnašanja dužnosti i šest mjeseci nakon isteka iste bez pristanka radničkog vijeća odnosno sindikalnog povjerenika s pravima i obvezama radničkog vijeća dati otkaz ugovora o radu odnosno, niti ponuditi otkaz s ponudom izmijenjenog ugovora ili ga na drugi način dovoditi u nepovoljniji položaj, odnosno protiv njega pokrenuti postupak za naknadu štete ukoliko je povjerenik postupao sukladno svojim ovlastima.
+(5) Naknada za rad povjerenika radnika za zaštitu na radu iznosi najmanje 4 sata tjedno uz naknadu plaće tijekom svake kalendarske godine u tijeku trajanja mandata.
+(6) Nastavnicima, povjerenicima radnika za zaštitu na radu koji imaju ugovor o radu u punom radnom vremenu razmjerno se smanjuju redovne tjedne radne obveze u neposredno odgojno obrazovnom radu za dva sata i za dva sata u ostalim poslovima.
+(7) Nastavnicima, povjerenicima radnika za zaštitu na radu koji imaju ugovor o radu na nepuno radno vrijeme, a koji kod istog ili drugog poslodavca nemaju ugovor o radu kojim su zasnovali radni odnos do punog radnog vremena razmjerno se povećava tjedno radno vrijeme u neposredno odgojno obrazovnom radu za dva sata i za dva sata u ostalim poslovima.

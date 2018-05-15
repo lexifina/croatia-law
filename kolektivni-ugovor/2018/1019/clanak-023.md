@@ -1,0 +1,2 @@
+# Članak 23.
+Rad nastavnika srednjoškolskih ustanova s darovitim učenicima u pripremi za sudjelovanje na natjecanjima na županijskoj, državnoj i međunarodnoj razini, na projektima, treninzima (radionicama), planiran i utvrđen godišnjim planom i programom rada srednjoškolske ustanove te školskim kurikulumom, u ostvarenoj veličini vrednuje se kao neposredan odgojno-obrazovni rad kroz oblike dodatne nastave u srednjoškolskoj ustanovi.
