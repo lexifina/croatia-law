@@ -1,0 +1,1 @@
+Na temelju članka 63. stavka 10. Zakona o eksplozivnim tvarima te proizvodnji i prometu oružja (»Narodne novine« br. 70/17) ministar unutarnjih poslova uz prethodnu suglasnost ministra nadležnog za graditeljstvo, donosi
