@@ -1,0 +1,3 @@
+## Informiranje pacijenta i osoba koje svjesno i dragovoljno pridržavaju pacijenta i pomažu mu
+# Članak 19.
+Kad god je to moguće, klinički odgovoran zdravstveni radnik obvezan je osigurati da prije provedbe medicinskog radiološkog postupka pacijentu ili njegovom zakonskom zastupniku, privremenom skrbniku ili staratelju, kao i osobama koje svjesno i dragovoljno pridržavaju pacijenta i pomažu mu tijekom provedbe medicinskih radioloških postupaka budu pružene odgovarajuće informacije o dobiti i riziku vezanom uz dozu pacijenta kao posljedici medicinskog ozračenja o čemu mora postojati pisani zapis.

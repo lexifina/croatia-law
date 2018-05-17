@@ -1,0 +1,5 @@
+## Zaštita osoba koje svjesno i dragovoljno pridržavaju pacijenta i pomažu mu tijekom provedbe medicinskog ozračenja
+# Članak 13.
+(1) Osobe koje nisu izloženi radnici, a koje svjesno i dragovoljno pridržavaju pacijenta i pomažu mu tijekom provedbe medicinskog ozračenja, moraju koristiti zaštitne pregače jednakovrijednog zaštitnog učinka kao i olovo debljine najmanje 0,5 mm, a po potrebi i zaštitne rukavice, zaštitne okovratnike i naočale s olovnim staklima istog zaštitnog učinka.
+(2) Izloženi radnici u okviru svog radnog mjesta, trudnice, žene za koje postoji vjerojatnost trudnoće i osobe mlađe od 18 godina ne smiju pridržavati nepokretne pacijente i druge osobe iz stavka 1. ovoga članka tijekom provedbe medicinskog ozračenja.
+(3) Pravne ili fizičke osobe koje provode radiodijagnostičke, radioterapijske ili intervencijske postupke obvezne su izraditi pisane upute za osobe iz stavka 1. ovoga članka u skladu s odredbama iz stavka 1. i stavka 2. ovoga članka te ih učiniti dostupnim prije provedbe tog postupka.

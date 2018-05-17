@@ -1,0 +1,2 @@
+# Članak 30.
+Pri provedbi radiodijagnostičkih postupaka uporabom rendgenskog uređaja za kompjutoriziranu tomografiju, postupaka intervencijske radiologije, radioterapijskih postupaka te radiodijagnostičkih postupaka u nuklearnoj medicini, savjetujući se sa stručnjakom za medicinsku fiziku, posebnu pažnju treba posvetiti optimizaciji provedbe tog postupka, uključivo uporabu odgovarajuće medicinske radiološke opreme, posebnih tehnika i dodatne opreme koja se koristi u provedbi tih postupaka.

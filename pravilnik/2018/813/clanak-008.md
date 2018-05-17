@@ -1,0 +1,6 @@
+## III. OPTIMIZACIJA
+## Predlaganje i provedba medicinskog radiološkog postupka
+# Članak 8.
+(1) Pri predlaganju i provedbi radiodijagnostičkog, radioterapijskog ili intervencijskog postupka mora se poštivati načelo optimizacije, odnosno ozračenje pacijenata pri provedbi radiodijagnostičkog ili intervencijskog postupka te planiranja, vođenja i provjere mora biti toliko nisko koliko je razumno moguće postići uz zadržavanje potrebne kakvoće dijagnostičke informacije, uvažavajući ekonomske i socijalne čimbenike.
+(2) Optimizacija uključuje odabir uređaja i opreme, dosljedno dobivanje odgovarajuće dijagnostičke informacije ili terapijskog ishoda, kao i praktične aspekte medicinskih radioloških postupaka, osiguranje kvalitete, uključujući provjeru kvalitete te procjenu i evaluaciju doze pacijenta ili primijenjenih aktivnosti, uvažavajući ekonomske i socijalne čimbenike.
+(3) Pri ozračenju pacijenta u svrhu provođenja radioterapijskog postupka, ozračenje ciljanog volumena mora biti planirano za svakog pojedinog pacijenta, a provedba ozračenja na odgovarajući način provjerena pri čemu ozračenje neciljanih volumena i tkiva mora biti toliko nisko koliko je razumno moguće postići i u skladu s namijenjenom terapijskom svrhom ozračivanja.

@@ -1,0 +1,3 @@
+## Medicinski i biomedicinski istraživački programi te eksperimentalni medicinski radiološki postupci
+# Članak 10.
+Osobe koje dragovoljno sudjeluju u medicinskom i biomedicinskom istraživanju koje uključuje medicinsko ozračenje moraju sudjelovati dragovoljno i moraju biti informirane o riziku vezanim uz ozračenje, a za svaku osobu koja dragovoljno pristaje na eksperimentalno medicinsko ozračenje i za koju se očekuje da će ostvariti dijagnostičku ili terapijsku dobit od tog ozračenja, uputitelj i/ili klinički odgovoran zdravstveni radnik moraju prije provedbe tog ozračenja procijeniti dozu koju će ta osoba primiti.
