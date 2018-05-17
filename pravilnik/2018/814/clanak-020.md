@@ -1,0 +1,4 @@
+## Organizacija dopunskog obrazovanja, posebnog obrazovanja, obnove znanja o primjeni mjera radiološke sigurnosti
+# Članak 20.
+(1) Izloženi radnici i radnici koji rukuju izvorima ionizirajućeg zračenja, a nisu u području izloženosti, odnosno osobe odgovorne za zaštitu od ionizirajućeg zračenja dopunsko obrazovanje, odnosno posebno obrazovanje stječu i znanje o primjeni mjera radiološke sigurnosti obnavljaju korištenjem obrazovnih materijala koje će u skladu s programom iz članka 16. stavka 1. odnosno članka 17. stavka 1., članka 18. stavka 1. i članka 19. stavka 1. ovoga Pravilnika izraditi Zavod i učiniti ih dostupnima javnosti.
+(2) Dopunsko obrazovanje, posebno obrazovanje i obnovu znanja za osobe iz stavka 1. ovoga članka koje se odnosi na primjenu mjera radiološke sigurnosti u zdravstvu organizira Zavod na način utvrđen u stavku 1. ovoga članka ili na drugi odgovarajući način u suradnji i koordinaciji s nadležnim komorama.
