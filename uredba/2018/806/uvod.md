@@ -1,0 +1,1 @@
+Na temelju članka 46. stavka 5. Zakona o sustavu strateškog planiranja i upravljanja razvojem Republike Hrvatske (»Narodne novine«, broj 123/17), Vlada Republike Hrvatske je na sjednici održanoj 4. svibnja 2018. godine donijela
