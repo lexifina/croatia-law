@@ -1,0 +1,1 @@
+Na temelju članka 32. stavka 6. Zakona o regulaciji tržišta željezničkih usluga i zaštiti prava putnika u željezničkom prijevozu (»Narodne novine«, broj 104/2017) ministar mora, prometa i infrastrukture donosi
