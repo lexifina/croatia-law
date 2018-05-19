@@ -1,0 +1,4 @@
+## PRIJELAZNE I ZAVRŠNE ODREDBE
+# Članak 14.
+(1) U roku od tri mjeseca, računajući od dana stupanja na snagu ovoga Pravilnika, Ministarstvo će zamijeniti važeće odobrenje za peljarenje za područje Lučke kapetanije Rijeka, izdano u skladu s Pravilnikom o pomorskom peljarenju (»Narodne novine« br. 116/2010), novim odobrenjem za peljarenje za Riječko-senjsko peljarsko područje, s rokom važenja sukladno odredbama ovoga Pravilnika, računajući od dana izdavanja odobrenja koje se zamjenjuje.
+(2) U roku od tri mjeseca, računajući od dana stupanja na snagu ovoga Pravilnika, Ministarstvo će zamijeniti važeća odobrenja za peljarenje za područje lučkih kapetanije Pula, Zadar, Šibenik, Split, Dubrovnik i Ploče, novim odobrenjima za peljarenje za Pulsko, Zadarsko, Šibensko, Splitsko, Dubrovačko i Pločansko peljarsko područje, s rokom važenja sukladno odredbama ovoga Pravilnika, računajući od dana izdavanja svakog pojedinog odobrenja koje se zamjenjuje.

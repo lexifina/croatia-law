@@ -1,0 +1,3 @@
+# Članak 1.
+U Pravilniku o pomorskom peljarenju (»Narodne novine«, broj 116/10) u članku 2. stavku 1. podstavak 7. mijenja se i glasi:
+» - VTS služba je VTS Hrvatska - služba nadzora i upravljanja pomorskim prometom Ministarstva i lučkih kapetanija koja je ovlaštena za pružanje VTS usluga i koja ima mogućnost međudjelovanja s pomorskim objektima i reagiranja u promjenjivim plovidbenim okolnostima, a čiji zadatak jest uspostaviti prometno-plovidbeni tijek u kojem svi sudionici pomorskog prometa ostvaruju postavljene ciljeve uz zadovoljavanje uvjeta sigurnosti plovidbe i zaštite okoliša te poštivanje propisa koji se odnose na plovidbu«
