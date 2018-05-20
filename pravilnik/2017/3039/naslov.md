@@ -1,0 +1,1 @@
+Pravilnik o programu i načinu osnovnog osposobljavanja nadzornika tehničke ispravnosti vozila, načinu stručnog usavršavanja i provjeri stručnosti nadzornika tehničke ispravnosti vozila i referenata za poslove registracije vozila
