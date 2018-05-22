@@ -1,0 +1,78 @@
+O b r a z l o ž e n j e
+I. POSTUPAK PRED USTAVNIM SUDOM
+1. Zakon o državnom odvjetništvu donio je šesti saziv Hrvatskog sabora na sjednici održanoj 30. lipnja 2009. Objavljen je u "Narodnim novinama" broj 76 od 1. srpnja 2009. te je stupio na snagu danom objave, izuzev članaka 16. stavka 2., 33. stavka 2. i 57. do 86. za koje je propisano da će stupiti na snagu 1. rujna 2011., te izuzev članaka 109., 110., 124. stavaka 3. i 4., 156. do 161. i 185. za koje je člankom 195. tog zakona bilo propisano da će stupiti na snagu 1. siječnja 2014.
+U ovom će se rješenju za Zakon o državnom odvjetništvu s njegovim izmjenama i dopunama ("Narodne novine" broj 76/09., 153/09., 116/10., 145/10., 57/11., 130/11., 72/13., 148/13., 33/15. i 82/15.) koristiti kratica ZoDO.
+2. Prijedlog za pokretanje postupka za ocjenu suglasnosti s Ustavom članka 110. stavka 1. i članka 159.a ZoDO-a podnijelo je 28. srpnja 2014. Odvjetničko društvo Hrabar & partneri d.o.o. iz Zagreba (u daljnjem tekstu: predlagatelj), koje zastupa odvjetnik Igor Hrabar.
+3. ZoDO je nakon stupanja na snagu, 1. srpnja 2009., mijenjan odnosno dopunjavan više puta. Budući da predlagatelj osporava suglasnost s Ustavom članaka 110. stavka 1. i 159.a ZoDO-a, vezano uz zakonske izmjene i dopune potrebno je napomenuti sljedeće.
+Stupanje na snagu članka 110. ZoDO-a, koje je bilo odgođeno za 1. siječnja 2014. (v. iznimke u točki 1. obrazloženja ovog rješenja), izmijenjeno je člankom 6. Zakona o izmjenama i dopunama Zakona o državnom odvjetništvu ("Narodne novine" broj 153/09.) i člankom 6. Zakona o izmjenama i dopunama Zakona o državnom odvjetništvu ("Narodne novine" broj 145/10.) na način da je njegovo stupanje na snagu (konkretno, stavka 1. članka 110. ZoDO-a, koji je relevantan u ovom ustavnosudskom postupku) određeno s 1. siječnja 2013. Sam sadržaj članka 110. ZoDO-a nije mijenjan odnosno dopunjavan na način koji bi u ovom ustavnosudskom postupku bio relevantan.
+Članak 159.a uveden je u ZoDO Zakonom o izmjenama i dopunama Zakona o državnom odvjetništvu ("Narodne novine" broj 72/13.) te je stupio na snagu 25. lipnja 2013. Zakonom o izmjenama i dopunama Zakona o državnom odvjetništvu ("Narodne novine" broj 82/15.), koji je stupio na snagu 1. rujna 2015., članak 159.a ZoDO-a je izmijenjen i dopunjen sadržajno, ali na način koji, prema ocjeni Ustavnog suda, nije supstancijalno utjecao na opstojnost razloga osporavanja istaknutih u podnesenom prijedlogu.
+4. Na temelju članka 25. Ustavnog zakona o Ustavnom sudu Republike Hrvatske ("Narodne novine" broj 99/99., 29/02. i 49/02. - pročišćen tekst; u daljnjem tekstu: Ustavni zakon) Ustavni sud je od Ministarstva pravosuđa Republike Hrvatske zatražio očitovanje o navodima prijedloga. Ustavni sud je 6. lipnja 2016. zaprimio očitovanje Ministarstva pravosuđa (klasa: 011-01/16-01/29, ur. broj: 514-03-02-16-02).
+5. Na temelju članka 27. stavka 6. Ustavnog zakona od raspravljanja i glasovanja u ovom postupku izuzeli su se sutkinja Ingrid Antičević Marinović, te suci Josip Leko i Davorin Mlakar.
+II. OSPORENE ZAKONSKE ODREDBE
+6. Članak 110. stavak 1. ZoDO-a glasi:
+"Članak 110.
+(1) Za zamjenika državnog odvjetnika u općinskom državnom odvjetništvu može se imenovati osoba koja je završila Državnu školu za pravosudne dužnosnike.
+(...)"
+6.1. Od 25. lipnja 2013. do 1. rujna 2015. članak 159.a ZoDO-a glasio je:
+"Članak 159.a
+(1) Kada Vijeće za zamjenika općinskog državnog odvjetnika imenuje kandidata koji je završio Državnu školu za pravosudne dužnosnike, izbor mora biti utemeljen na završnoj ocjeni koju je kandidat ostvario u Državnoj školi i ostvarenim bodovima na razgovoru s kandidatom, prema utvrđenoj listi prvenstva.
+(2) Na razgovoru kandidati mogu ostvariti najviše 20 bodova.'"
+6.2. Od 1. rujna 2015. članak 159.a ZoDO-a glasi:
+"Članak 159.a
+(1) Kada Vijeće za zamjenika općinskog državnog odvjetnika imenuje kandidata koji je završio Državnu školu za pravosudne dužnosnike, izbor mora biti utemeljen na završnoj ocjeni koju je kandidat ostvario u Državnoj školi i ostvarenim bodovima na razgovoru s kandidatom, prema utvrđenoj listi prvenstva.
+(2) Kada Vijeće za zamjenike općinskih državnih odvjetnika imenuje kandidate koji su završili Državnu školu za pravosudne dužnosnike, a završnu ocjenu u Državnoj školi za pravosudne dužnosnike su ostvarili temeljem različitih mjerila, vrijednost završne ocjene tih kandidata usklađuje se tako da se završna ocjena svakog kandidata pomnoži s koeficijentom.
+(3) Koeficijent iz stavka 2. ovog članka za svakog kandidata izračunava se tako da se najviša moguća završna ocjena prema propisima koji su važili u vrijeme prijave na oglas o slobodnom mjestu zamjenika općinskog državnog odvjetnika podijeli s najvišom mogućom završnom ocjenom koju je prema važećim propisima kandidat mogao ostvariti u vrijeme svoga ocjenjivanja.
+(4) Razgovoru iz stavka 1. ovog članka mogu pristupiti samo kandidati koji su zadovoljili na psihološkom testiranju na koje ih je uputilo Vijeće.
+(5) Psihološkim testiranjem utvrđuje se sposobnost kandidata za obnašanje dužnosti zamjenika državnog odvjetnika, a provodi ga ovlaštena pravna osoba koju odredi Vijeće. Pravilnik o sadržaju, metodama i načinu provedbe psihološkog testiranja donosi Vijeće.
+(6) Kandidati koji zadovolje na psihološkom testiranju pozivaju se na razgovor pred Vijećem.
+(7) Na razgovoru kandidati mogu ostvariti najviše 30 bodova."
+III. PRIGOVORI PREDLAGATELJA
+7. Predlagatelj smatra da su članci 110. stavak 1. i 159.a ZoDO-a u nesuglasnosti s člancima 14. stavkom 2., 16., 44. i 121.a Ustava, koji glase:
+"Članak 14.
+(...)
+Svi su pred zakonom jednaki."
+"Članak 16.
+Slobode i prava mogu se ograničiti samo zakonom da bi se zaštitila sloboda i prava drugih ljudi te pravni poredak, javni moral i zdravlje.
+Svako ograničenje slobode ili prava mora biti razmjerno naravi potrebe za ograničenjem u svakom pojedinom slučaju."
+"Članak 44.
+Svaki državljanin Republike Hrvatske ima pravo, pod jednakim uvjetima, sudjelovati u obavljanju javnih poslova i biti primljen u javne službe."
+"Članak 121.a
+Državno odvjetništvo je samostalno i neovisno pravosudno tijelo ovlašteno i dužno postupati protiv počinitelja kaznenih i drugih kažnjivih djela, poduzimati pravne radnje radi zaštite imovine Republike Hrvatske te podnositi pravna sredstva za zaštitu Ustava i prava.
+Glavnoga državnog odvjetnika Republike Hrvatske imenuje na vrijeme od četiri godine Hrvatski sabor, na prijedlog Vlade Republike Hrvatske, uz prethodno mišljenje nadležnog odbora Hrvatskoga sabora.
+Zamjenike državnih odvjetnika, u skladu s Ustavom i zakonom, imenuje, razrješuje i o njihovoj stegovnoj odgovornosti odlučuje Državnoodvjetničko vijeće.
+Odluke iz stavka 3. ovoga članka Državnoodvjetničko vijeće donosi na nepristran način, a na temelju kriterija propisanih zakonom.
+Zamjenici državnog odvjetnika državnoodvjetničku dužnost obavljaju stalno.
+Državnoodvjetničko vijeće ima jedanaest članova, a čine ga sedam zamjenika državnog odvjetnika, dva sveučilišna profesora pravnih znanosti i dva saborska zastupnika, od kojih jedan iz redova oporbe.
+Članovi Državnoodvjetničkog vijeća biraju se na vrijeme od četiri godine, s tim da članom Državnoodvjetničkog vijeća nitko ne može biti više od dva puta.
+Članovi Državnoodvjetničkog vijeća biraju predsjednika između sebe.
+Čelnici državnih odvjetništava ne mogu biti birani za članove Državnoodvjetničkog vijeća.
+Djelokrug, ustrojstvo, način izbora članova i način rada Državnoodvjetničkog vijeća uređuju se zakonom.
+Ustanovljavanje, ustrojstvo, djelokrug i nadležnost državnog odvjetništva uređuju se zakonom."
+7.1. U prijedlogu predlagatelj, u bitnome, navodi:
+"... Osporenim odredbama zakonodavac evidentno pogoduje i daje više prava ... onima koji su završili Državnu školu za pravosudne dužnosnike, čime je prekršeno Ustavom zajamčeno pravo na jednakost pred zakonom i sudjelovanje svih u javnim službama pod jednakim uvjetima.
+Drugim riječima, postojećim zakonskim okvirom Državna škola za pravosudne dužnosnike nametnuta je kao suštinski uvjet za dostupnost i obavljanje sudske i državnoodvjetničke funkcije uopće.
+Na taj način osporenim odredbama de facto je derogirano vrednovanje i ocjenjivanje kandidata prema ostalim zakonskim propisanim uvjetima za obavljanje javnih službi ...
+(...)
+Posebno su diskriminirani kandidati koji su godinama iskustva stekli znanje i stručnost na temelju kojih su dosadašnji suci i zamjenici već imenovani.
+Osporene odredbe de facto jednim potezom učinile su nekompetentnim i uskratile pristup javnoj službi osobama koje su do stupanja na snagu dugogodišnjim radom i iskustvom stekle uvjete za kandidiranje na mjesto sudaca i zamjenika državnih odvjetnika.
+(...)
+Osporene odredbe predstavljaju i neustavno ograničenje prava svim osobama koje nisu polaznici Akademije, a koja nisu nužna s obzirom na okolnosti.
+Prema članku 16. Ustava svako ograničenje slobode ili prava mora biti razmjerno naravi potrebe za ograničenjem u svakom pojedinom slučaju.
+Nema nikakve potrebe da se osobama koje nisu završile Državnu školu za pravosudne dužnosnike ograniči pravo da budu izabrani za suce prvostupanjskih sudova i zamjenike općinskih državnih odvjetnika.
+Ograničenje mora biti razmjerno legitimnom cilju koji se želi postići, a teret koji se nameće pojedincu ne smije biti prekomjeran i u nerazmjeru sa svrhom uvođenja ograničenja."
+IV. OČITOVANJE MINISTARSTVA PRAVOSUĐA
+8. Ministarstvo pravosuđa u očitovanju navodi:
+"... Ustavna ovlast Državnoodvjetničkog vijeća da imenuje zamjenike državnih odvjetnika u skladu s Ustavom i zakonom iz članka 125. stavka 3. Ustava Republike Hrvatske dalje je razrađena Zakonom o državnom odvjetništvu, čijim je odredbama završena Državna škola za pravosudne dužnosnike odnosno uspjeh postignut na završnom ispitu u Školi od 1. siječnja 2013. propisana kao uvjet za imenovanje zamjenika općinskih državnih odvjetnika.
+Navedeni uvjet završetka Državne škole za pravosudne dužnosnike za mogućnost imenovanja na državnoodvjetničku dužnost u prvom stupnju prvi je put propisan u članku 110. Zakona o državnom odvjetništvu ... a stupanje na snagu ove odredbe odgođeno je člankom 195. podstavkom 2. ovog Zakona odnosno člankom 6. Zakona o izmjenama i dopunama Zakona o državnom odvjetništvu ('Narodne novine', broj 153/09.) do 1. siječnja 2013. kako bi adresati uskladili svoja ponašanja i očekivanja sa sadržajem ove pravne norme. U trenutku stupanja na snagu ove odredbe nisu se ni na koji način uskraćivala niti ograničavala stečena prava kandidatima koji su do tada stekli uvjete za imenovanja prema odredbama ranije važećeg Zakona, a budući da im se u postupcima imenovanja na koje su se oglase za imenovanje do tada javili kao uvjet za imenovanje nije postavljao zahtjev završene Državne škole za pravosudne dužnosnike, kao što im se niti nakon toga nije ograničavala mogućnost da se u skladu s novopropisanim uvjetom prijave za upis i završe Školu. Posebno se u tom smislu ističe i da je člankom 24. Zakona o izmjenama i dopunama Zakona o Pravosudnoj akademiji ('Narodne novine', broj 82/15.) naknadno proširen krug osoba koje su u mogućnosti položiti završni ispit u Školi odnosno završiti Školu te na taj način steći uvjete za imenovanje na dužnost zamjenika općinskih državnih odvjetnika, slijedom čega također otpada prigovor da se u postupku imenovanja u obzir ne uzimaju stečeno radno iskustvo te stručne i radne sposobnosti (...)
+Propisivanje uvjeta završene Državne škole za pravosudne dužnosnike za imenovanje na dužnost zamjenika općinskog državnog odvjetnika ... ni na koji se način ne može tumačiti kao nerazmjerno ograničavanje prava, već naprotiv, ... nastojanje postizanja veće profesionalizacije i stručnosti pravosudnih dužnosnika. ... time nije ograničena niti ovlast Državnoodvjetničkog vijeća da samostalno i neovisno imenuje zamjenike državnih odvjetnika u skladu s Ustavom i zakonom utvrđenim kriterijima."
+V. OCJENA USTAVNOG SUDA
+9. Osporenim člankom 110. stavkom 1. ZoDO-a propisano je da se za zamjenika državnog odvjetnika u općinskom državnom odvjetništvu može imenovati osoba koja je završila Državnu školu za pravosudne dužnosnike (u daljnjem tekstu: Državna škola). Sukladno tome, postupajući na temelju osporenog članka 159.a ZoDO-a, Državnoodvjetničko vijeće dužno je, u postupku za izbor zamjenika općinskog državnog odvjetnika, voditi računa o tome da izbor kandidata bude utemeljen (između ostalog) na završnoj ocjeni koju je kandidat ostvario u Državnoj školi.
+Zbog toga predlagatelj tvrdi, u bitnome, da je zakonodavac osporenim odredbama ZoDO-a uveo ustavnopravno neprihvatljivo, diskriminatorno razlikovanje između dviju skupina osoba koje su zainteresirane za obnašanje dužnosti zamjenika općinskog državnog odvjetnika - skupine osoba koje nisu pohađale i završile Državnu školu, odnosno nisu ostvarile završnu ocjenu u toj školi (ali su "godinama stjecale znanje i stručnost, kao i dosadašnji zamjenici koji su već imenovani na tu dužnost"), i skupine osoba koje su Državnu školu pohađale i završile odnosno ostvarile završnu ocjenu.
+10. Razmotrivši sve prigovore i argumentaciju predlagatelja, Ustavni sud utvrdio je da je riječ o sadržajno istovjetnim prigovorima i argumentaciji kakvu su predlagatelji ustavnosudske ocjene (između njih, u jednom dijelu i Odvjetničko društvo Hrabar & partneri) iznijeli u predmetima broj: U-I-2938/2011 i dr., u kojima su osporavali suglasnost s Ustavom, među ostalim, i članaka 51., 54. i 56. Zakona o Državnom sudbenom vijeću ("Narodne novine" broj 116/10., 57/11., 130/11., 13/13. - odluka USRH broj: U-I-5991/2012, 28/13. i 82/15.).
+U navedenim predmetima broj: U-I-2938/2011 i dr. Ustavni sud donio je rješenje od 23. travnja 2018. (www.usud.hr) kojim prijedlozi nisu prihvaćeni.
+Smisao i intencija odredaba Zakona o Državnom sudbenom vijeću osporenih u navedenim predmetima istovjetna je smislu odredaba ZoDO-a koje su predmet osporavanja u ovom ustavnosudskom postupku.
+Osporavajući odredbe tih dvaju zakona, predlagatelji koji su ukazivali na nesuglasnost s Ustavom odredaba Zakona o Državnom sudbenom vijeću i predlagatelj u ovome ustavnosudskom predmetu polaze, u osnovi, od istih ustavnih odredaba.
+11. Imajući to u vidu, Ustavni sud utvrđuje da u postupku ocjene suglasnosti Zakona o Državnom sudbenom vijeću i ZoDO-a postoje podudarnosti u gotovo svim njihovim aspektima pa se pokazuje suvišnim i u ovome predmetu iznositi istovjetne ustavnopravne razloge za neprihvaćanje prijedloga koji su već izloženi u rješenju broj: U-I-2938/2011 i dr. od 23. travnja 2018.
+Stajališta Ustavnog suda navedena u obrazloženju tog rješenja, iako se konkretno odnose na pitanja kandidiranja za sudačke dužnosti i s time povezanu ulogu Državne škole odnosno Državnog sudbenog vijeća u uvjetima promjene cjelokupnog zakonodavnog modela edukacije i odabira pravosudnih kadrova, u potpunosti su, osobito s obzirom na slična zakonska rješenja i isti kontekst, primjenjiva (mutatis mutandis) i na pitanja kandidiranja za državnoodvjetničke dužnosti i s time povezanu ulogu Državne škole odnosno Državnoodvjetničkog vijeća.
+12. Budući da predlagatelj u ovome predmetu nije istaknuo drugačiju ili novu argumentaciju o kojoj se Ustavni sud već nije očitovao u navedenim predmetima ustavnopravne ocjene Zakona o Državnom sudbenom vijeću, odnosno nije naveo argumentaciju koja bi upućivala na potrebu za promjenom već zauzetih načelnih stajališta o spornim pitanjima, Ustavni sud upućuje na stajališta navedena (osobito) u točkama 19., 20., 21., 23. i 24. obrazloženja rješenja broj: U-I-2938/2011 i dr. od 23. travnja 2018.
+13. Slijedom navedenog, na temelju članka 43. stavaka 1. i 2. Ustavnog zakona doneseno je rješenje kao u izreci.
