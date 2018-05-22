@@ -1,0 +1,1 @@
+Ustavni sud Republike Hrvatske, u sastavu Miroslav Šeparović, predsjednik, te suci Ingrid Antičević Marinović, Mato Arlović, Snježana Bagić, Branko Brkić, Mario Jelušić, Lovorka Kušan, Josip Leko, Davorin Mlakar, Rajko Mlinarić, Goran Selanec i Miroslav Šumanović, u postupku koji je ustavnom tužbom pokrenula M. K. iz S., na sjednici održanoj 22. svibnja 2018. donio je
