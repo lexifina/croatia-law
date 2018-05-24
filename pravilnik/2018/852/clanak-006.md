@@ -1,0 +1,3 @@
+# Članak 6.
+Hrvatski projektni partneri koji su naknadno ušli u već odobreni projekt programa EU Kreativna Europa - potprogram Kultura, bilo kao vodeći partner ili suorganizator, obvezni su u svrhu sufinanciranja projekta sredstvima Ministarstva kulture o tome obavijestiti Desk Kreativne Europe Ministarstva kulture dostavljanjem svih dokumenata navedenih u članku 5. ovog Pravilnika.
+Ovisno o raspoloživosti sredstava državnog proračuna koja su Ministarstvu kulture osigurana za sufinanciranje hrvatskih projektnih partnera, hrvatski projektni partneri koji su naknadno ušli u već odobreni projekt bit će sufinancirani na način naveden u članku 3. ovog Pravilnika.
