@@ -1,0 +1,1 @@
+Na temelju članka 38. Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 2018. godinu (»Narodne novine«, broj 124/17), Vlada Republike Hrvatske je na sjednici održanoj 24. svibnja 2018. godine donijela
