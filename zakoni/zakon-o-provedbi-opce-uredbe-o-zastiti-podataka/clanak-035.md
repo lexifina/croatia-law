@@ -1,0 +1,3 @@
+# Članak 35.
+(1) Ako je rješenjem naloženo brisanje ili drugo nepovratno uklanjanje osobnih podataka, nezadovoljna stranka može zatražiti od nadležnog upravnog suda odgodu izvršenja brisanja ili drugog nepovratnog uklanjanja osobnih podataka ako dokaže da bi nerazmjernim naporima ponovno prikupila osobne podatke čije se brisanje odnosno nepovratno uklanjanje traži.
+(2) Ako nadležni upravni sud prihvati zahtjev iz stavka 1. ovoga članka, stranka kojoj je naloženo brisanje ili drugo nepovratno uklanjanje osobnih podataka dužna je blokirati svaku obradu spornih osobnih podataka, osim njihova čuvanja, do donošenja pravomoćne sudske odluke.

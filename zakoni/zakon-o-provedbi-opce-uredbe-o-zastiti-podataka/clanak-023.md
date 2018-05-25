@@ -1,0 +1,2 @@
+# Članak 23.
+Dopuštena je obrada biometrijskih podataka zaposlenika u svrhu evidentiranja radnog vremena i radi ulaska i izlaska iz službenih prostorija, ako je propisano zakonom ili ako se takva obrada provodi kao alternativa drugom rješenju za evidentiranje radnog vremena ili ulaska i izlaska iz službenih prostorija, uz uvjet da je zaposlenik dao izričitu privolu za takvu obradu biometrijskih podataka u skladu s odredbama Opće uredbe o zaštiti podataka.
