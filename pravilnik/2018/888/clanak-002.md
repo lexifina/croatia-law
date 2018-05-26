@@ -1,0 +1,5 @@
+# Članak 2.
+Centar za vozila Hrvatske d.d., kao stručna organizacija iz članka 273. Zakona o sigurnosti prometa na cestama, razvija jedinstveno programsko rješenje za automatsku obradu podataka o tehničkim pregledima, registraciji vozila i ovjeri produženja važenja prometne dozvole (u daljnjem tekstu: jedinstveno programsko rješenje).
+Sastavni dio jedinstvenog programskog rješenja moraju biti dodatni programi koji omogućuju obračun, evidenciju i naplatu propisanih obveza za koje je utvrđeno da se bez njihove uplate ne može obaviti registracija ili ovjeriti produženje važenja prometne dozvole (godišnja naknada za uporabu javnih cesta, posebna naknada za okoliš, porez na cestovna motorna vozila, upravna pristojba na stjecanje rabljenih motornih vozila).
+Sastavni dio jedinstvenog programskog rješenja mogu biti i dodatni programi koji omogućuju rad, evidenciju i naplatu ostalih poslova koji se obavljaju u stanicama (homologacija vozila, ispitivanje vozila, pregled vozila za obavljanje javnoga cestovnog prijevoza i prijevoza za vlastite potrebe itd.).
+Funkcionalnost jedinstvenog programskog rješenja potvrđuje Ministarstvo unutarnjih poslova.
