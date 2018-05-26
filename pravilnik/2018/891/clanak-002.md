@@ -1,0 +1,8 @@
+# Članak 2.
+U članku 4. stavku 2. točke 1. - 5. i 8. mijenjaju se i glase:
+»1. kontrola stanja objekata, poslovnih i drugih prostorija te funkcionalnosti uređaja i opreme koja je u funkciji tehničkih pregleda,
+2. kontrola nad radom nadzornika tehničke ispravnosti vozila i referenata za poslove registracije vozila u odnosu na primjenu i poštivanje zakonskih i podzakonskih propisa te općih akata koji reguliraju tehničke preglede vozila, registraciju vozila, kao i posjedovanje dopuštenja (licencije), odnosno potvrde o uspješno obavljenoj provjeri stručnosti.
+3. kontrola zakonitosti i kvalitete obavljanja tehničkih pregleda vozila te propisanih procedura i dokumentacije prilikom obavljanja registracijskih postupaka,
+4. kontrola pravilnosti naplate naknada za tehnički pregled i registraciju vozila te kontrola zakonitosti postupanja s financijskim sredstvima koja se s naslova javne ovlasti prikupljaju u stanicama (godišnja naknada za uporabu javnih cesta, posebna naknada za okoliš, godišnji porez na cestovna motorna vozila, upravna pristojba na stjecanje rabljenih motornih vozila i dr.) te kontrola poštivanja ugovorenih rokova uplate prikupljenih sredstava od propisanih naknada,
+5. kontrola postupanja s financijskim sredstvima koja s naslova javne ovlasti predstavljaju prihod pravne osobe u čijem sastavu posluje stanica u odnosu na propisanu namjensku raspodjelu, kao i postupanja s financijskim sredstvima koja pripadaju nacionalnom programu za sigurnost prometa na cestama (Ministarstvu unutarnjih poslova) i Centru za vozila Hrvatske i Hrvatskom autoklubu,«
+»8. kontrola vođenja propisane dokumentacije i evidencije u stanicama, te kontrola dostave podataka nadležnim državnim tijelima i Centru za vozila Hrvatske i Hrvatskom autoklubu,«.

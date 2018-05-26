@@ -1,0 +1,1 @@
+Na temelju članka 273. stavka 5. Zakona o sigurnosti prometa na cestama (»Narodne novine«, broj 67/08, 48/10, 74/11, 80/13, 158/13, 92/14, 64/15 i 108/17) i rješenja Ministarstva unutarnjih poslova Republike Hrvatske broj: 511-01-72-769377-93 od 5. kolovoza 1993., Centar za vozila Hrvatske d.d. i Hrvatski autoklub donose
