@@ -1,0 +1,3 @@
+# Članak 63.
+U članku 158. iza stavka 2. dodaje se stavak 3. koji glasi:
+»Iznimno od stavka 1. točke 1. ovoga članka, vodopravna dozvola za korištenje voda izdaje se i kada se voda iz građevina za javnu vodoopskrbu koristi za drugu javnu namjenu koja je određena odlukom iz članka 84. stavka 3. ovoga Zakona iz istog vodnog tijela. U takvom slučaju smatra se da korisnik druge javne namjene ima vlastiti vodozahvat na istom vodnom tijelu odnosno na mjestu akumuliranja ili skladištenja ako se voda isporučena iz građevina za javnu vodoopskrbu akumulira ili skladišti prije korištenja. Korisnik druge namjene i isporučitelj vodne usluge prethodno sklapaju ugovor o isporuci vode po cijeni određenoj na način kako se određuje cijena iz članka 208. stavka 1. ovoga Zakona.«.

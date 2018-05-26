@@ -1,0 +1,2 @@
+# Članak 104.
+Na evidentiranje u katastru i upise iz članaka 102. i 103. ovoga Zakona ne primjenjuju se odredbe zakona kojima se uređuje prostorno uređenje i gradnja, a kojima je propisana parcelacija građevinskog zemljišta i evidentiranje građevina u katastru, niti odredbe zakona kojim se uređuje katastar nekretnina te odredbe drugih zakona i propisa koje su protivne člancima 102. i 103. ovoga Zakona.

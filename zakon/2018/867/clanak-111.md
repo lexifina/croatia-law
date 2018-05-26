@@ -1,0 +1,3 @@
+## Uknjižba javnoga vodnoga dobra
+# Članak 111.
+Općinski sud će, na prijedlog nadležnog državnog odvjetništva i na temelju rješenja iz članka 10. stavaka 1. i 2. Zakona o vodama (»Narodne novine«, br. 153/09., 63/11., 130/11., 56/13. i 14/14.), uknjižiti kao javno vodno dobro, u vlasništvu Republike Hrvatske, sve zemljišne čestice iz članka 11. stavka 1. Zakona o vodama (»Narodne novine«, br. 153/09., 63/11., 130/11., 56/13. i 14/14.), kao i članka 11. stavaka 4. i 5. koji su dodani člankom 4. ovoga Zakona i/ili članka 109. stavka 2. točke 2. koja je izmijenjena člankom 44. ovoga Zakona, bez obzira na postojeće upise u zemljišnim knjigama i neovisno o tome tko je upisan kao njihov vlasnik.

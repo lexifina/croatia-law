@@ -1,0 +1,3 @@
+## Rok za postizanje ciljeva zaštite voda
+# Članak 110.
+Ciljevi dobrog stanja površinskih voda, dobrog ekološkog potencijala i dobrog kemijskog stanja površinskih voda, dobrog stanja podzemnih voda te suglasnost sa svim standardima i ciljevima primjenjivim na zaštićena područja postižu se do roka iz članka 4. stavka 1. točaka (a) (ii) i (iii), (b) (ii) i (c) Direktive 2000/60/EZ Europskog parlamenta i Vijeća od 23. listopada 2000. o uspostavi okvira za djelovanje Zajednice u području vodne politike (SL L 327, 22. 12. 2000.), sukladno pretpostavkama iz tih odredbi, osim ako su rokovi za postizanje ciljeva zaštite voda produženi sukladno odredbi propisa iz članka 41. stavka 1. Zakona o vodama (»Narodne novine«, br. 153/09., 63/11., 130/11., 56/13. i 14/14.).

@@ -1,0 +1,4 @@
+# Članak 103.
+Nekretnine iz članka 102. stavka 1. ovoga Zakona koje nisu evidentirane u katastru evidentiraju se u katastru na temelju geodetskog elaborata izvedenog stanja i potvrde iz članka 25.a koji je dodan člankom 11. ovoga Zakona i rješenja o upisu nekretnina iz članka 102. stavka 1. ovoga Zakona u zemljišnu knjigu, na način uređen u stavcima 2. i 3. ovoga članka.
+Prijavni list za prethodnu provedbu u zemljišnoj knjizi iz stavka 1. ovoga članka općinskom sudu po službenoj dužnosti dostavlja tijelo nadležno za katastar na temelju pregledanog i potvrđenog geodetskog elaborata izvedenog stanja, a koji pribavljaju i tijelu nadležnom za katastar dostavljaju Hrvatske vode.
+Rješenje o upisu nekretnina iz članka 102. stavka 1. ovoga Zakona u zemljišnu knjigu općinski sud dostavlja po službenoj dužnosti tijelu nadležnom za katastar, radi evidentiranja u katastru.

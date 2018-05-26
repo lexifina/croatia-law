@@ -1,0 +1,3 @@
+## Obračun i naplata naknade za koncesiju za koncesije koje nisu obuhvaćene člankom 163. Zakona
+# Članak 109.
+Za koncesije za koje su sklopljeni ugovori o koncesiji na temelju članka 143. Zakona o vodama (»Narodne novine«, br. 107/95. i 150/05.) ili članka 163. Zakona o vodama (»Narodne novine«, br. 153/09., 63/11., 130/11., 56/13. i 14/14.), a koje nisu obuhvaćene člankom 168. stavkom 1. Zakona o vodama (»Narodne novine«, br. 153/09., 63/11., 130/11., 56/13. i 14/14.), obračun i naplatu naknade za koncesiju obavljaju Hrvatske vode prema postupku obračuna i naplate naknade za korištenje voda sukladno zakonu kojim se uređuje financiranje vodnoga gospodarstva, do prestanka važenja tih ugovora po bilo kojoj osnovi.

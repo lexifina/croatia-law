@@ -1,0 +1,10 @@
+# Članak 43.
+Iza članka 104. dodaje se odjeljak 8. s nazivom i članak 104.a s naslovom iznad njega koji glase:
+»8. Prava korištenja voda po posebnim propisima
+Dostava i preispitivanje akata
+Članak 104.a
+Ministarstvo nadležno za more dostavlja Hrvatskim vodama akte, kao i njihove izmjene i dopune, njihova ukidanja i poništenja, kojima se, prema propisima o moru, daje pravo korištenja priobalnih voda, u roku od 15 dana od njihovog donošenja, radi uvrštenja u Plan upravljanja vodnim područjima, kao i godišnji izvještaj ili analizu danog prava korištenja do 31. ožujka tekuće godine za prethodnu godinu.
+Ministarstvo nadležno za rudarstvo dostavlja Hrvatskim vodama akte, kao i njihove izmjene i dopune, njihova ukidanja i poništenja, kojima se, prema propisima o rudarstvu, daje pravo korištenja mineralnih voda, u roku od 15 dana od njihovog donošenja, radi uvrštenja u Plan upravljanja vodnim područjima, kao i godišnji izvještaj ili analizu danog prava korištenja do 31. ožujka tekuće godine za prethodnu godinu.
+Ministarstvo nadležno za energetiku dostavlja Hrvatskim vodama akte, kao i njihove izmjene i dopune, njihova ukidanja i poništenja, kojima se, prema propisima o energetici, daje pravo korištenja geotermalnih voda, u roku od 15 dana od njihovog donošenja, radi uvrštenja u Plan upravljanja vodnim područjima, kao i godišnji izvještaj ili analizu danog prava korištenja do 31. ožujka tekuće godine za prethodnu godinu.
+Ministarstvo nadležno za poljoprivredu dostavlja Hrvatskim vodama akte, kao i njihove izmjene i dopune, njihova ukidanja i poništenja, kojima se, prema propisima o poljoprivrednom zemljištu, daje pravo korištenja kopnenih voda radi obavljanja djelatnosti akvakulture, u roku od 15 dana od njihovog donošenja, radi uvrštenja u Plan upravljanja vodnim područjima, kao i godišnji izvještaj ili analizu danog prava korištenja do 31. ožujka tekuće godine za prethodnu godinu.
+Ministarstva iz ovoga članka dužna su preispitati te uskladiti i izmijeniti ili ukinuti akt kojim se daje pravo korištenja, na poziv Hrvatskih voda, iz razloga navedenih u članku 160.a ovoga Zakona.«.

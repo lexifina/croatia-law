@@ -1,0 +1,6 @@
+# Članak 24.
+U članku 65. stavku 3. iza riječi: »učestalost uzorkovanja i ispitivanja,« dodaju se riječi: »mjerodavnost uzorka,«.
+Stavak 4. mijenja se i glasi:
+»Pravne i fizičke osobe iz stavka 1. ovoga članka koje ispuštaju industrijske otpadne vode iz tehnološkog postupka sa značajnijim opterećenjem prijamnika dužne su imati, koristiti, održavati u ispravnom stanju uređaj za mjerenje protoka vode i uređaj za automatsko uzimanje uzoraka te ga učiniti svakodobno dostupnim vodnom nadzoru, kada je to određeno propisom iz članka 60. stavka 3. ovoga Zakona.«.
+Iza stavka 4. dodaje se stavak 5. koji glasi:
+»Iznimno od stavka 4. ovoga članka, kada je to određeno propisom iz članka 60. stavka 3. ovoga Zakona, pravne i fizičke osobe iz stavka 4. ovoga članka dužne su omogućiti Hrvatskim vodama mjerenje protoka vode i/ili uzorkovanje i ispitivanje sastava ispuštenih otpadnih voda na način opisan propisom iz članka 60. stavka 3. ovoga Zakona. U tu svrhu pravne i fizičke osobe iz stavka 4. ovoga članka dužne su trpjeti postavljanje uređaja za mjerenje protoka vode i uređaja za automatsko uzimanje uzoraka, u vlasništvu Hrvatskih voda, te neometan pristup i održavanje tih uređaja u korist Hrvatskih voda sukladno propisu iz članka 60. stavka 3. ovoga Zakona.«.
