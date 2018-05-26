@@ -1,0 +1,3 @@
+# Članak 20.
+(1) Europol može, putem nacionalne jedinice Europola, elektroničkim putem, podnijeti obrazloženi zahtjev jedinici za informacije o putnicima za prijenos određenih podataka o putnicima ili rezultata obrade tih podataka, kada je to nužno radi podržavanja i jačanja djelovanja država članica u svrhu iz članka 1. stavka 2. ovog Zakona, ako je kazneno djelo u nadležnosti Europola.
+(2) U zahtjevu iz stavka 1. ovog članka se navode razlozi na temelju kojih Europol smatra da će se prijenosom podataka iz evidencije podataka o putnicima ili rezultata obrade tih podataka znatno pridonijeti sprječavanju, otkrivanju i istrazi kaznenog djela i kaznenom progonu zbog kojeg se podaci traže.

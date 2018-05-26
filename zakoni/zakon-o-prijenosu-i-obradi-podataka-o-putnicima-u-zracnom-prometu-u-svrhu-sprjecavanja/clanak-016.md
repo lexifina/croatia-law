@@ -1,0 +1,5 @@
+## POGLAVLJE IV. NADLEŽNA TIJELA
+# Članak 16.
+(1) Domaća nadležna tijela za traženje ili primanje podataka o putnicima koje prikuplja i obrađuje jedinica za informacije o putnicima ili rezultata obrade tih podataka radi daljnjeg ispitivanja tih podataka ili poduzimanja odgovarajućih mjera u okviru svog djelokruga u svrhu iz članka 1. stavka 2. ovog Zakona su: policija, vojna policija, Sigurnosno-obavještajna agencija, Vojna sigurnosno-obavještajna agencija, Ministarstvo financija – Carinska uprava, Ministarstvo financija – Porezna uprava, Ministarstvo financija – Ured za sprječavanje pranja novca, Ministarstvo financija – Financijski inspektorat Republike Hrvatske, državno odvjetništvo i sudovi.
+(2) Domaća nadležna tijela iz stavka 1. ovog članka podatke iz evidencije podataka o putnicima i rezultat obrade tih podataka mogu dodatno obrađivati samo u svrhu iz članka 1. stavka 2. ovog Zakona.
+(3) Strana nadležna tijela su ona tijela koja su države članice navele u obavijesti Europskoj komisiji, a koja je objavljena u Službenom listu Europske unije.

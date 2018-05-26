@@ -1,0 +1,4 @@
+# Članak 19.
+(1) Jedinica za informacije o putnicima može zahtijevati od jedinice nadležne za informacije o putnicima druge države članice podatke o putnicima koje je prikupila ta jedinica, ako su ti podaci potrebni za određeni slučaj sprječavanja, otkrivanja, provođenja istraživanja ili vođenja kaznenog postupka za kaznena djela iz članka 5. ovog Zakona.
+(2) Iznimno od stavka 1. ovog članka, kada je to potrebno u hitnim slučajevima, domaća nadležna tijela iz članka 16. stavka 1. ovog Zakona mogu zahtijevati od jedinice nadležne za informacije o putnicima druge države članice podatke iz evidencije podataka o putnicima te jedinice, ako su ti podaci potrebni za određeni slučaj sprječavanja, otkrivanja, provođenja istraživanja ili vođenja kaznenog postupka za kaznena djela iz članka 5. ovog Zakona.
+(3) Preslika zahtjeva nadležnih tijela iz stavka 2. ovog članka istodobno se dostavlja jedinici za informacije o putnicima u Republici Hrvatskoj.

@@ -1,0 +1,3 @@
+# Članak 14.
+(1) Ako se na temelju procjene putnika iz članka 12. stavka 1. podstavka 1. ovog Zakona automatiziranom obradom podataka utvrdi mogućnost da bi određena osoba mogla biti uključena u kazneno djelo iz članka 5. stavka 2. ovog Zakona (pozitivan rezultat obrade), jedinica za informacije o putnicima dodatno će provjeriti rezultate obrade neautomatiziranom provjerom odnosno neposrednim uvidom u evidencije i baze podataka radi utvrđivanja potrebe postupanja nadležnog tijela.
+(2) Nakon provjere, ako se procjeni potrebnim, rezultati obrade, za svaki slučaj pojedinačno, dostavit će se nadležnom domaćem tijelu.

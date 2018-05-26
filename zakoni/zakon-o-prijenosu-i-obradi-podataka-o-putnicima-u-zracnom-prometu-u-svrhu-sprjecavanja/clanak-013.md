@@ -1,0 +1,2 @@
+# Članak 13.
+Kriterije procjene iz članka 12. stavka 1. podstavka 1. ovoga Zakona, koje jedinica za informacije o putnicima određuje i redovito preispituje u suradnji s nadležnim tijelima iz članka 16. ovog Zakona, moraju biti usmjereni, proporcionalni i određeni i ne smiju se temeljiti na rasi ili etničkom podrijetlu, političkim stajalištima, vjerskim ili drugim uvjerenjima, sindikalnom članstvu, zdravlju ili spolnom životu ili spolnoj orijentaciji ispitanika.

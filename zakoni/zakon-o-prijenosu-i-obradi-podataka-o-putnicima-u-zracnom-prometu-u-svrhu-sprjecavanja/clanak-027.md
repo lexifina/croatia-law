@@ -1,0 +1,3 @@
+# Članak 27.
+(1) Rezultati obrade podataka iz članka 12. stavka 1. podstavka 1. ovog Zakona čuvaju se u jedinici za informacije o putnicima onoliko vremena koliko je potrebno da se o pozitivnom rezultatu obrade obavijeste nadležna tijela odnosno jedinice nadležne za informacije o putnicima drugih država članica.
+(2) U slučaju kada se dodatnom provjerom pozitivnog rezultata automatizirane obrade podataka iz članka 12. stavka 1. podstavka 1. ovog Zakona utvrdi da određena osoba nije uključena u kazneno djelo iz članka 5. ovog Zakona (negativan rezultat obrade), takav podatak može se čuvati kako bi se izbjegli budući lažni pozitivni rezultati, i to dok se čuvaju podaci čijom obradom se došlo do takvog rezultata.
