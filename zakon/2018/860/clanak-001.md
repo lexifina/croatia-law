@@ -1,0 +1,27 @@
+# Članak 1.
+U Zakonu o strancima (»Narodne novine«, br. 130/11., 74/13. i 69/17.) u članku 1. stavak 4. mijenja se i glasi:
+»(4) Ovim se Zakonom u pravni poredak Republike Hrvatske prenose sljedeće direktive Europske unije:
+- Direktiva 2008/115/EZ Europskoga parlamenta i Vijeća od 16. prosinca 2008. o zajedničkim standardima i postupanjima država članica u vezi s vraćanjem osoba trećih zemalja čiji je boravak nezakonit (SL L 348, 24. 12. 2008.),
+- Direktiva Vijeća 2001/51/EZ od 28. lipnja 2001. kojom se dopunjuju odredbe članka 26. Konvencije o primjeni Sporazuma iz Schengena od 14. lipnja 1985. (SL L 187, 10. 7. 2001.),
+- Direktiva Vijeća 2002/90/EZ od 28. studenoga 2002. kojom se definira pomaganje neovlaštenog ulaska, tranzita i boravka (SL L 328, 5. 12. 2002.),
+- Direktiva Vijeća 2003/110/EZ od 25. studenoga 2003. o pomoći u slučajevima tranzita u svrhe udaljavanja zračnim putem (SL L 321, 6. 12. 2003.),
+- Direktiva Vijeća 2001/40/EZ od 28. svibnja 2001. o uzajamnom priznavanju odluka o protjerivanju državljana trećih država (SL L 149, 2. 6. 2001.),
+- Okvirna odluka Vijeća 2002/946/PUP od 28. studenoga 2002.o jačanju kaznenog okvira u cilju sprečavanja omogućivanja neovlaštenog ulaska, tranzita i boravka (SL L 328, 5. 12. 2002.),
+- Odluka Vijeća 2004/191/EZ od 23. veljače 2004. kojom se utvrđuju kriteriji i praktični dogovori za naknade zbog financijskih neravnoteža nastalih primjenom Direktive 2001/40/EZ o uzajamnome priznavanju odluka o protjerivanju državljana trećih država (SL L 60, 27. 2. 2004.),
+- Odluka Vijeća 2004/573/EZ od 29. travnja 2004. o organizaciji zajedničkih letova za udaljavanje državljana trećih zemalja za koje postoji nalog o udaljenju, sa državnog područja dviju ili više država članica (SL L 261, 6. 8. 2004.),
+- Direktiva 2004/38/EZ Europskog parlamenta i Vijeća od 29. travnja 2004. o pravu građana Unije i članova njihovih obitelji na slobodno kretanje i boravište na području države članice, kojom se izmjenjuje Uredba (EEZ) br. 1612/68 i stavljaju izvan snage Direktive 64/221/EEZ, 68/360/EEZ, 72/194/EEZ, 73/148/EEZ, 75/34/EEZ, 75/35/EEZ, 90/364/EEZ, 90/365/EEZ i 93/96/EEZ (SL L 158, 30. 4. 2004.) (Tekst značajan za EGP),
+- Direktiva Vijeća 2009/50/EZ od 25. svibnja 2009. godine o uvjetima ulaska i boravka državljana trećih država u svrhu zapošljavanja visokokvalificirane radne snage (SL L 155, 18. 6. 2009.),
+- Direktiva 2009/52/EZ Europskoga parlamenta i Vijeća od 18. lipnja 2009. godine kojom se utvrđuju minimalni standardi za sankcije i mjere protiv poslodavaca koji zapošljavaju državljane trećih država koji nezakonito borave (SL L 168, 30. 6. 2009.),
+- Direktiva 96/71/EZ Europskoga parlamenta i Vijeća od 16. prosinca 1996. o raspoređivanju radnika u okviru pružanja usluga (SL L 18, 21. 1. 1997.),
+- Direktiva Vijeća 2003/109/EZ od 25. studenog 2003. godine o statusu državljana trećih država s dugotrajnim boravištem (SL L 16, 23. 1. 2004.),
+- Direktiva Vijeća 2003/86/EZ od 22. rujna 2003. o pravu na spajanje obitelji (SL L 251, 3. 10. 2003.),
+- Direktiva Vijeća 2004/81/EZ od 29. travnja 2004. o odobrenju boravka državljanima trećih zemalja koji su žrtve trgovine ljudima ili im je pružena pomoć da ilegalno imigriraju, a surađuju s nadležnim tijelima (SL L 261, 6. 8. 2004.),
+- Rezolucija Vijeća 97/C 382/01 od 4. prosinca 1997. o mjerama koje se trebaju prihvatiti kako bi se suzbili brakovi iz računa (SL C 382, 16. 12. 1997.),
+- Preporuka Vijeća od 27. rujna 1996. glede borbe protiv ilegalnog zapošljavanja državljana trećih zemalja (SL C 304, 14. 10. 1996.),
+- Direktiva Vijeća 2004/83/EC od 29. travnja 2004. o minimalnim standardima za kvalifikaciju i status državljana trećih država ili osoba bez državljanstva kao izbjeglica ili kao osoba koje na drugi način trebaju međunarodnu zaštitu ili sadržaj pružene zaštite (SL L 304, 30. 9. 2004.),
+- Direktiva 2011/51/EZ od 11. svibnja 2011. kojom se dopunjuje Direktiva 2003/109/EZ i proširuje primjena i na korisnike međunarodne zaštite (SL L 132, 19. 5. 2011.),
+- Direktiva 2011/98/EU od 13. prosinca 2011. Europskog parlamenta i Vijeća o jedinstvenom postupku obrade zahtjeva za izdavanje jedinstvene dozvole za boravak i rad državljanima trećih zemalja na državnom području države članice i o zajedničkom skupu prava za radnike iz trećih zemalja koji zakonito borave u državi članici (SL L 343, 23. 12. 2011.),
+- Direktiva 2014/36/EU Europskog parlamenta i Vijeća od 26. veljače 2014. o uvjetima za ulazak i boravak državljana trećih zemalja u svrhu zapošljavanja u statusu sezonskih radnika (SL L 94, 28. 3. 2014.),
+- Direktiva 2014/66/EU Europskog parlamenta i Vijeća od 15. svibnja 2014. o uvjetima za ulazak i boravak državljana trećih zemalja u okviru premještaja unutar društva (SL L 157, 27. 5. 2014.),
+- Direktiva 2014/67/EU Europskog parlamenta i Vijeća od 15. svibnja 2014. o provedbi Direktive 96/71/EZ o upućivanju radnika u okviru pružanja usluga i izmjeni Uredbe (EU) br. 1024/2012 o administrativnoj suradnji putem Informacijskog sustava unutarnjeg tržišta (»Uredba IMI«) (Tekst značajan za EGP) (SL L 159, 28. 5. 2014.),
+- Direktiva EU 2016/801 Europskog parlamenta i Vijeća od 11. svibnja 2016. o uvjetima ulaska i boravka državljana trećih zemalja u svrhu istraživanja, studija, osposobljavanja, volonterstva, razmjene učenika ili obrazovnih projekata i obavljanja poslova au pair (SL L 132, 21. 5. 2016.).«.

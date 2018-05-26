@@ -1,0 +1,21 @@
+# Članak 2.
+U članku 2. stavku 1. točke 18. i 19. mijenjaju se i glase:
+»18. Dugotrajno boravište je stalni boravak stečen na temelju pet godina zakonitog boravka, osiguranih sredstava za uzdržavanje i zdravstvenog osiguranja u Republici Hrvatskoj ili drugoj državi članici EGP-a.
+19. Osoba s dugotrajnim boravištem je državljanin treće zemlje koji je nositelj dozvole boravka koju je, na propisanom obrascu, izdala policijska uprava odnosno policijska postaja ili druga država članica EGP-a u kojem je uneseno da se radi o državljaninu treće zemlje na dugotrajnom boravištu.«.
+Iza točke 25. dodaju se točke 26., 27., 28., 29., 30., 31., 32., 33., 34., 35., 36., 37., 38. i 39. koje glase:
+»26. Istraživač je državljanin treće zemlje koji je stekao akademski stupanj doktora znanosti ili odgovarajuću kvalifikaciju razine visokog obrazovanja koja tom državljaninu treće zemlje omogućuje pristup doktorskim programima, kojega izabire istraživačka organizacija i kojemu je odobren prihvat u svrhu provođenja istraživačkih aktivnosti.
+27. Student je državljanin treće zemlje koji je ostvario pravo na upis na studij i kojemu je odobren prihvat kako bi, obavljajući to kao svoju glavnu djelatnost, redovito studirao te stekao kvalifikaciju razine visokog obrazovanja, a što može uključivati i pripremni program koji prethodi studiju, u skladu s posebnim propisima.
+28. Učenik je državljanin treće zemlje kojemu je odobren prihvat kako bi pohađao priznati program srednjoškolskog obrazovanja u kontekstu programa razmjene učenika ili obrazovnog projekta kojim upravlja obrazovna ustanova u skladu s posebnim propisima.
+29. Pripravnik je državljanin treće zemlje koji je stekao kvalifikaciju razine visokog obrazovanja ili studira u trećoj zemlji s ciljem stjecanja kvalifikacije razine visokog obrazovanja i kojemu je odobren prihvat za sudjelovanjem u programu osposobljavanja u svrhu stjecanja znanja, prakse i iskustva u profesionalnom okruženju.
+30. Volonter je državljanin treće zemlje kojemu je odobren prihvat u svrhu sudjelovanja u volonterskom programu.
+31. Volonterski program je program aktivnosti praktične solidarnosti koji se temelji na posebnom propisu ili programu Unije, čiji su ciljevi od općeg interesa u neprofitne svrhe te u kojemu aktivnosti nisu plaćene, osim za naknadu troškova i/ili džeparac.
+32. Istraživanje je sustavan stvaralački rad kojim se nastoji povećati znanje, uključujući znanje o čovjeku, kulturi i društvu, kao i korištenje toga znanja u svrhu pronalaženja novih mogućnosti za primjenu.
+33. Istraživačka organizacija je svaka javna ili privatna organizacija koja provodi istraživanje.
+34. Obrazovna ustanova je javna ili privatna srednjoškolska ustanova koja je priznata sukladno posebnom propisu ili čiji su obrazovni programi priznati u skladu s posebnim propisom, na temelju transparentnih kriterija te koja sudjeluje u programu razmjene učenika ili obrazovnom projektu.
+35. Obrazovni projekt je skup obrazovnih aktivnosti koje razvija obrazovna ustanova u suradnji sa sličnim ustanovama u trećoj zemlji s ciljem kulturne razmjene i razmjene znanja.
+36. Visoko učilište je svaka vrsta visokog učilišta koje u skladu s posebnim propisom dodjeljuje priznate kvalifikacije razine visokog obrazovanja ili druge priznate kvalifikacije na razini tercijarnog obrazovanja, ili svaka ustanova koja u skladu s posebnim propisom nudi strukovno obrazovanje ili osposobljavanje na razini tercijarnog obrazovanja.
+37. Subjekt domaćin je istraživačka organizacija, visoko učilište, obrazovna ustanova, organizacija odgovorna za volonterski program ili pravna ili fizička osoba kod koje dolazi pripravnik u skladu s posebnim propisima.
+38. Programi Unije ili multilateralni programi koji uključuju mjere mobilnosti su programi koje financira Unija ili države članice kojima se promiče mobilnost državljana trećih zemalja u Uniji ili u državama članicama koje sudjeluju u dotičnim programima.
+39. Međunarodna zaštita je zaštita koja se odobrava državljaninu treće zemlje ili osobi bez državljanstva te obuhvaća azil i supsidijarnu zaštitu sukladno posebnom propisu.«.
+Iza stavka 2. dodaje se stavak 3. koji glasi:
+»(3) Odredbe ovoga Zakona ne primjenjuju se na strance članove posade broda u međunarodnoj plovidbi hrvatske državne pripadnosti dok plovi izvan granica Republike Hrvatske.«.
