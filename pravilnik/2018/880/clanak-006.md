@@ -1,0 +1,5 @@
+# Članak 6.
+(1) Kada investitor dostavi dokaz da su otklonjeni nedostaci utvrđeni na tehničkom pregledu, vodi se zapisnik o nastavku tehničkog pregleda kojim se utvrđuju novonastale činjenice, odnosno utvrđuje se da su otklonjeni nedostaci.
+(2) Predstavnik javnopravnog tijela, dužan je dostaviti tijelu graditeljstva izdvojeni zapisnik u kojem je utvrdio da su otklonjeni nedostatci utvrđeni na tehničkom pregledu u roku od 8 dana od dana primitka obavijesti investitora da je utvrđeni nedostatak uklonjen.
+(3) Ako predstavnik javnopravnog tijela ne dostavi izdvojeni zapisnik tijelu graditeljstva u roku iz stavka 2. ovoga članka, tijelo graditeljstva pisanim će putem zatražiti dostavu tog zapisnika u roku od 8 dana od dana primitka poziva tijela graditeljstva, a ako taj zapisnik ne bude dostavljen u roku, tijelo graditeljstva saziva nastavak tehničkog pregleda.
+(4) U zapisnik o otklanjanju nedostataka utvrđenih na tehničkom pregledu unose se samo podaci i činjenice kojima se utvrđuje otklanjanje nedostataka utvrđenih na tehničkom pregledu.

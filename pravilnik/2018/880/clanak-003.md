@@ -1,0 +1,7 @@
+# Članak 3.
+(1) Tehničkom pregledu dužni su prisustvovati svi sudionici u gradnji, te voditelju tehničkog pregleda i predstavnicima javnopravnih tijela dati odgovore i objašnjenja koja od njih zatraže, kao i sve podatke, dokumente i izjave potrebne za obavljanje tehničkog pregleda i izdavanje uporabne dozvole.
+(2) Projektant glavnog projekta dužan je na tehničkom pregledu dati mišljenje o usklađenosti izgrađene građevine ili njezinog dijela s glavnim projektom koji je sastavni dio građevinske dozvole, odnosno s glavnim projektom za građevine 3. skupine i očitovanje o projektantskom nadzoru ako je obavljen.
+(3) Ako je revident u izvješću o obavljenoj kontroli glavnog projekta zahtijevao kontrolu dijela izvedbenog projekta, odnosno pregled radova u određenoj fazi građenja, dužan je na tehničkom pregledu dati mišljenje o ispunjavanju tih zahtjeva.
+(4) Ako koji od sudionika u gradnji ne pristupi tehničkom pregledu, voditelj tehničkog pregleda može odgoditi obavljanje tehničkog pregleda ili odrediti provedbu onih radnji koje se po prirodi stvari mogu provoditi bez prisutnosti tog sudionika.
+(5) U slučaju iz stavka 4. ovoga članka, ako to priroda stvari dopušta voditelj tehničkog pregleda može odlučiti da je za provedbu tehničkog pregleda, umjesto sudjelovanja sudionika u gradnji, dostatno njegovo mišljenje ili drugo očitovanje u pisanom obliku.
+(6) Ako u slučaju iz stavaka 2. i 3. ovoga članka projektant, odnosno revident ne daju mišljenje na tehničkom pregledu ili u ostavljenom roku, smatra se da je mišljenje dano.
