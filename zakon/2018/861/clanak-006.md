@@ -1,0 +1,3 @@
+# Članak 6.
+(1) Ministarstvo nadležno za poslove energetike će u roku od 60 dana od dana stupanja na snagu novog Pravilnika o unutarnjem redu radnike zatečene na preuzetim poslovima Centra za praćenje poslovanja energetskog sektora i investicija rasporediti na nova radna mjesta za koja ispunjavaju uvjete sukladno Pravilniku o unutarnjem redu, odnosno donijeti rješenja o stavljanju na raspolaganje Vladi Republike Hrvatske.
+(2) Na radnike Centra za praćenje poslovanja energetskog sektora i investicija koji ne pristanu na raspored na nova radna mjesta za koja ispunjavaju stručne i druge uvjete primjenjuju se opći propisi o radu.
