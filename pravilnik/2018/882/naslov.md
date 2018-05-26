@@ -1,0 +1,1 @@
+Pravilnik o provedbi mjere 8, podmjere 8.6 Potpora za ulaganja u šumarske tehnologije i preradu, mobilizaciju i marketing šumskih proizvoda iz Programa ruralnog razvoja Republike Hrvatske za razdoblje 2014. - 2020.
