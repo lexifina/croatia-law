@@ -1,0 +1,1 @@
+Na temelju članka 24. stavka 3. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/11, 119/14 i 93/16), Vlada Republike Hrvatske je na sjednici održanoj 30. svibnja 2018. godine donijela
