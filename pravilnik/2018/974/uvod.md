@@ -1,0 +1,1 @@
+Na temelju članka 12. stavka 1. točke 2. i članka 26. stavka 11. Zakona o morskom ribarstvu (»Narodne novine«, broj 62/17.), a slijedom Odluke o donošenju Plana upravljanja ribolovom obalnim mrežama potegačama u Republici Hrvatskoj (klasa: 324-01/17-01/847, urbroj: 525/13/1282-17-1 od 1. prosinca 2017. godine), ministar poljoprivrede donosi
