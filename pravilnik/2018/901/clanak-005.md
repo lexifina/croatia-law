@@ -1,0 +1,6 @@
+## Dostava izvještaja Hanfi
+# Članak 5.
+1. Izvješća iz članka 3. stavaka 2. i 3. te članka 4. stavka 2. ovoga Pravilnika dostavljaju se u strojno čitljivom obliku i potpisuju se naprednim elektroničkim potpisom.
+2. Izvješća iz članka 3. stavka 2. i 3. ovoga Pravilnika potpisuje Uprava središnjeg depozitorija vrijednosnih papira ili fizička osoba koja je u tu svrhu opunomoćena od strane Uprave središnjeg depozitorija vrijednosnih papira, a izvješće iz članka 4. stavka 2. ovoga Pravilnika potpisuje Uprava internalizatora namire ili fizička osoba koja je u tu svrhu opunomoćena od strane Uprave internalizatora namire. U slučaju da središnji depozitorij vrijednosnih papira ili internalizator namire ovlasti drugu fizičku osobu za potpisivanje izvješća, dužan je Hanfi dostaviti punomoć u obliku papirnatog dokumenta, kao i bez odgode prijaviti promjenu opunomoćenika za potpisivanje.
+3. Potpisnik izvješća iz stavka 2. ovoga članka smatra se odgovornom osobom središnjeg depozitorija vrijednosnih papira, odnosno internalizatora namire, koja u potpunosti odgovara za istinitost, točnost i potpunost podataka dostavljenih u izvješću.
+4. Hanfa je ovlaštena od središnjeg depozitorija vrijednosnih papira i internalizatora namire zatražiti bilo kakve dodatne dokaze koji potvrđuju istinitost, točnost i potpunost dostavljenih podataka.

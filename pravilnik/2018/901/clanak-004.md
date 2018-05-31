@@ -1,0 +1,7 @@
+## Izvješćivanje o internaliziranim namirama
+# Članak 4.
+1. Internalizatori namire na tromjesečnoj osnovi izvješćuju Hanfu o zbirnom volumenu i vrijednosti svih transakcija vrijednosnim papirima koje namiruju izvan sustava za namiru vrijednosnih papira, u roku od 10 radnih dana od isteka svakog tromjesečja kalendarske godine.
+2. Izvješće iz stavka 1. ovoga članka obuhvaća podatke navedene u članku 2. Delegirane Uredbe Komisije (EU) 2017/391.
+3. Izvješće iz stavka 2. ovoga članka dostavlja se Hanfi na adresu elektroničke pošte csdr@hanfa.hr, u formatu predloška iz Priloga I. Provedbene Uredbe Komisije (EU) 2017/393, ispunjenog u skladu s uputama iz Priloga II. Provedbene Uredbe Komisije (EU) 2017/393.
+4. Hanfa bez odgađanja, a najkasnije u roku od 5 radnih dana od dana zaprimanja svakog izvješća iz stavka 1. ovoga članka, izvješće prenosi ESMA-i elektroničkim putem kroz ESMA-inu platformu za izvješćivanje, koristeći se formatom predloška iz Priloga I. Provedbene Uredbe Komisije (EU) 2017/393.
+5. Hanfa u roku od 30 radnih dana od kraja svakog tromjesečja kalendarske godine obavještava ESMA-u elektroničkim putem kroz ESMA-inu platformu za izvješćivanje o svim potencijalnim rizicima koji proizlaze iz djelatnosti internalizirane namire, koristeći se predloškom iz Priloga III. Provedbene Uredbe Komisije (EU) 2017/393, ispunjenog u skladu s uputama iz Priloga IV. Provedbene Uredbe Komisije (EU) 2017/393.
