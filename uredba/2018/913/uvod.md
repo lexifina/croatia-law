@@ -1,0 +1,1 @@
+Na temelju članka 50. stavka 1. Zakona o vanjskim poslovima (»Narodne novine«, br. 48/96, 72/13, 127/13 i 39/18), na prijedlog ministrice vanjskih i europskih poslova, Vlada Republike Hrvatske je na sjednici održanoj 24. svibnja 2018. godine donijela
