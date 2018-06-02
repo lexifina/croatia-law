@@ -1,0 +1,3 @@
+# Članak 9.
+(1) Autobus kojim se obavlja javni linijski prijevoz, posebni linijski prijevoz i povremeni prijevoz putnika do 100 km udaljenosti od polazišta u jednom smjeru, mora osim uvjeta propisanih člancima 7. i 8. ovoga Pravilnika, imati značajke autobusa I. ili II. razreda, sukladno posebnim propisima koji reguliraju sigurnost prometa na cestama i tehničke uvjete za vozila u prometu na cestama.
+(2) Javni linijski prijevoz, posebni linijski prijevoz i povremeni prijevoz putnika na udaljenosti do 100 km od polazišta u jednom smjeru, može se obavljati i autobusima III. razreda, sukladno posebnim propisima koji reguliraju sigurnost prometa na cestama i tehničke uvjete za vozila u prometu na cestama.
