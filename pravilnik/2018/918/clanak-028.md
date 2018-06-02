@@ -1,0 +1,7 @@
+## Broj projekata po korisniku
+# Članak 28.
+(1) Jedan korisnik može podnijeti najviše dva zahtjeva za potporu unutar tipa operacije 7.4.1 tijekom jednog natječaja, za različitu vrstu prihvatljivih projekata iz članka 29. ovoga Pravilnika.
+(2) Tijekom jednog natječaja za tip operacije 7.4.1 potpora se može dodijeliti za najviše dva zahtjeva za potporu za različitu vrstu prihvatljivog projekta s područja jedne jedinice lokalne samouprave. Ako se podnese više od dva zahtjeva za potporu za projekte s područja jedne jedinice lokalne samouprave tijekom jednog natječaja za tip operacije 7.4.1, u obzir će se uzeti dva zahtjeva za potporu za različitu vrstu prihvatljivih projekata s najranijim vremenom podnošenja, dok će se za ostale zahtjeve za potporu izdati Odluka o odbijanju zahtjeva za potporu.
+(3) Za jednu vrstu prihvatljivog projekta s jednim korisnikom unutar jednog natječaja može biti sklopljen najviše jedan ugovor o financiranju, odnosno jednom korisniku može se izdati samo jedna Odluka o dodjeli sredstava.
+(4) Sljedeći zahtjev za potporu unutar tipa operacije 7.4.1 korisnik može podnijeti tek nakon podnošenja konačnog zahtjeva za isplatu za prethodno odobreni zahtjev za potporu ili nakon odustajanja od odobrenog zahtjeva za potporu.
+(5) Broj podnesenih zahtjeva za potporu i odobrenih projekata za tip operacije 7.4.1 po korisniku u programskom razdoblju 2014. - 2020. nije ograničen.

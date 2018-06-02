@@ -1,0 +1,10 @@
+# Članak 32.
+(1) Zajedničkim projektom u tipu operacije 7.4.1 smatraju se ulaganja provedena od strane dva ili više partnera s područja dvije ili više jedinica lokalne samouprave uključenih u pripremu i provedbu jednog projekta, pod uvjetom da:
+a) predmet i rezultat zajedničkog projekta koji nastane provedbom zajedničkog projekta koriste svi partneri zajedničkog projekta
+b) nositelj zajedničkog projekta mora biti korisnik kako je definirano člankom 2. stavkom 1. točkom 7. i člankom 27. ovoga Pravilnika
+c) partneri sklapaju Partnerski sporazum u kojem definiraju jednog partnera koji će biti nositelj zajedničkog projekta (korisnik), način realizacije i financiranja zajedničkog projekta i način korištenja predmeta ulaganja koji nastane realizacijom zajedničkog projekta od strane svih partnera zajedničkog projekta
+d) se projekt provodi na jednoj lokaciji odnosno na jednoj ili više katastarskih čestica koje su međusobno povezane, međusobno graniče ili obuhvaćaju jednu tehničko-tehnološku cjelinu, te se nalazi na području jedne od jedinica lokalne samouprave.
+(2) Partnerski sporazum iz stavka 1. točke c) ovoga članka mora biti sklopljen na rok od najmanje 5 (pet) godina od datuma konačne isplate, te isti mora sadržavati podatke od strane svih partnera o uvjetima zajedničkog korištenja i održavanja predmeta ulaganja koji nastane realizacijom zajedničkog projekta. Način i uvjeti sklapanja Partnerskog sporazuma bit će propisani natječajem.
+(3) Svi partneri zajedničkog projekta moraju ispuniti sve opće uvjete prihvatljivosti korisnika propisane u člancima 4. i 5., te u člancima od 27. do 32. ovoga Pravilnika.
+(4) U slučaju da partner u zajedničkom projektu ne udovoljava uvjetima prihvatljivosti zajedničkog projekta navedenim u stavcima od 1. do 3. ovoga članka, projekt se neće smatrati zajedničkim projektom te kao takav neće niti biti sufinanciran.
+(5) Uvjete prihvatljivosti zajedničkog projekta iz stavaka od 1. do 4. ovoga članka korisnik dokazuje u trenutku podnošenja zahtjeva za potporu, dostavom dokumentacije koja će biti propisana natječajem.
