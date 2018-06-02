@@ -1,0 +1,2 @@
+# Članak 5.
+Planom izvođenja radova u skladu s Dodatkom IV. ovoga Pravilnika, čiju izradu osigurava naručitelj, utvrđuju se pravila primjenljiva na određeno gradilište, uzimajući u obzir poslove i aktivnosti koje se obavljaju na gradilištu te plan izvođenja radova sadrži posebne mjere u vezi jedne ili više kategorija posebno opasnih radova navedenih u Dodatku II. ovoga Pravilnika, koji se obavljaju na gradilištu.
