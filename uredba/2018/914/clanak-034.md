@@ -1,0 +1,2 @@
+# Članak 34.
+U članku 197. stavku 1. iza riječi: »ribarstva;« dodaju se riječi: »obavlja poslove obrade i notifikacije sredstava iz EU proračuna isplaćenih kroz strukturne fondove u području poljoprivrede, za potrebe praćenja ispunjavanja obveza iz WTO sporazuma o poljoprivredi;«, a iza riječi: »odgovarajuće podloge« briše se točka sa zarezom i dodaju se riječi: »za potrebe programiranja strukturnih fondova u području poljoprivrede;«.
