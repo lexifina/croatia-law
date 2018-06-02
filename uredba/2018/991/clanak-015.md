@@ -1,0 +1,6 @@
+## Produljenje ugovora o zakupu
+# Članak 15.
+(1) Ugovor o zakupu sklopljen temeljem ove Uredbe može se, na zahtjev zakupnika i uz pozitivno mišljenje Trgovačkog društva, obnoviti na najduže isto razdoblje i na istoj površini na kojoj je sklopljen ugovor o zakupu pod uvjetima koje odredi zakupodavac, ukoliko je u proteklom razdoblju zakupnik uredno i na vrijeme ispunjavao sve obveze preuzete ugovorom o zakupu ili do ispunjenja uvjeta iz članka 2. stavka 2. ove Uredbe.
+(2) Uz zahtjev za obnovom ugovora o zakupu u svrhu pašarenja, uz uvjete iz stavka 1. ovoga članka zakupnik je dužan dostaviti i dokaz o ispunjenju uvjeta prosječnog odnosa broja grla stoke i poljoprivrednih površina od najmanje 3,3 ha šumskog zemljišta po uvjetnom grlu, koji se računa za proizvodnu godinu koja prethodi objavi javnog poziva.
+(3) Dokaz iz stavka 2. ovoga članka je uvjerenje o broju uvjetnih grla iz Jedinstvenog registra domaćih životinja izdano od Hrvatske poljoprivredne agencije i uvjerenje Agencije za plaćanja u poljoprivredi, ribarstvu i ruralnom razvoju o površinama evidentiranim u ARKOD sustavu.
+(4) Zahtjev za obnovom ugovora o zakupu podnosi se Ministarstvu najranije u zadnjoj godini trajanja zakupa, a najkasnije 60 dana prije isteka ugovora o zakupu.
