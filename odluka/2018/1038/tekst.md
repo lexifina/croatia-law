@@ -1,0 +1,4 @@
+I.
+Daje se suglasnost na Odluku o izmjenama i dopunama Odluke o koncesiji na pomorskom dobru u svrhu gospodarskog korištenja luke posebne namjene - brodogradilišta u Betini, klase: 934-04/17-01/32, urbroja: 2182/1-01-17-1, koju je donijela Županijska skupština Šibensko-kninske županije na sjednici održanoj 5. prosinca 2017. godine, a kojom se za koncesiju dodijeljenu trgovačkom društvu Brodogradilište i marina d.o.o. iz Betine povećava površina pomorskog dobra danog u koncesiju, produžuje rok trajanja koncesije za dodatnih osam godina, zaključno do 30. ožujka 2029. godine, povećava koncesijska naknada u produženom razdoblju korištenja koncesije i iskazuju lomne točke lučkog područja u službenom HTRS96/TM koordinatnom sustavu.
+II.
+Ova Odluka stupa na snagu danom donošenja, a objavit će se u »Narodnim novinama«.

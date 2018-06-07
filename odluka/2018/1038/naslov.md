@@ -1,0 +1,1 @@
+Odluka o davanju suglasnosti na Odluku Županijske skupštine Šibensko-kninske županije o izmjenama i dopunama Odluke o koncesiji na pomorskom dobru u svrhu gospodarskog korištenja luke posebne namjene - brodogradilišta u Betini
