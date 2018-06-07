@@ -1,0 +1,10 @@
+## DIO TREĆI
+## POJEDINAČNO I ZAJEDNIČKO OSIGURANJE
+## POGLAVLJE I.
+## OBLICI OSIGURANJA
+## Oblici osiguranja za davanje pojedinačnog ili zajedničkog osiguranja
+# Članak 4.
+Prema vrsti osiguranja (pojedinačno ili zajedničko osiguranje) osiguranje se može dati u jednom od sljedećih oblika:
+1. osiguranje u obliku polaganja gotovine u kunama (u daljnjem tekstu: gotovinski polog) sukladno članku 92. stavku 1. točki (a) Uredbe (EU) br. 952/2013, kao pojedinačno ili kao zajedničko osiguranje
+2. osiguranje u obliku preuzete obveze jamca (u daljnjem tekstu: preuzeta obveza jamca) sukladno članku 92. stavku 1. točki (b) Uredbe (EU) br. 952/2013, kao pojedinačno ili kao zajedničko osiguranje
+3. osiguranje u obliku zadužnice - kao jedan od drugih oblika osiguranja koji pružaju jednakovrijedno osiguranje sukladno članku 92. stavku 1. točki (c) Uredbe (EU) br. 952/2013 i članku 83. Delegirane uredbe Komisije (EU) br. 2015/2446 od 28. srpnja 2015. o dopuni Uredbe (EU) br. 952/2013 Europskog parlamenta i Vijeća o detaljnim pravilima koja se odnose na pojedine odredbe Carinskog zakonika Unije (SL L 343, 29. 12. 2015., str. 1; Ispravak SL L 87, 2. 4. 2016., str. 35; Ispravak SL L 101, 13.4.2017., str. 164; Ispravak SL L 101, 13. 4. 2017., str. 221; Delegirana uredba Komisije (EU) 2016/341 оd 17. prosinca 2015. o dopuni Uredbe (EU) br. 952/2013 Europskog parlamenta i Vijeća u pogledu prijelaznih pravila za određene odredbe Carinskog zakonika Unije dok odgovarajući elektronički sustavi još nisu operativni te o izmjeni Delegirane uredbe Komisije (EU) 2015/2446, SL L 69, 15. 3. 2016. str. 1 i Delegirana uredba Komisije (EU) br. 2016/651 оd 5. travnja 2016. o ispravku Delegirane uredbe (EU) 2015/2446 o dopuni Uredbe (EU) br. 952/2013 Europskog parlamenta i Vijeća o detaljnim pravilima koja se odnose na pojedine odredbe Carinskog zakonika Unije, SL L 111, 27. 4. 2016., str. 1; u daljnjem tekstu: Delegirana uredba Komisije (EU) br. 2015/2446), kao zajedničko osiguranje u slučajevima propisanim ovim Pravilnikom.
