@@ -1,0 +1,4 @@
+I.
+Daje se suglasnost na Odluku o produženju roka trajanja koncesije za dizanje i spuštanje plovila na pomorskom dobru, Grad Crikvenica, klase: 021-04/18-01/1, urbroja: 2710/1-01-01/4-18-58, koju je donijela Županijska skupština Primorsko-goranske županije na sjednici održanoj 22. veljače 2018. godine, a kojom se za koncesiju dodijeljenu Damiru i Robertu Gašparoviću, suvlasnicima obrta Brodomehanika iz Crikvenice, produžuje rok trajanja koncesije do 1. veljače 2023. godine, odnosno do dana zaključenja ugovora o koncesiji s odabranim ponuditeljem na predstojećem javnom natječaju za dodjelu koncesije na pomorskom dobru u svrhu izgradnje i gospodarskog korištenja luke posebne namjene - luke nautičkog turizma Crikvenica.
+II.
+Ova Odluka stupa na snagu danom donošenja, a objavit će se u »Narodnim novinama«.
