@@ -1,0 +1,5 @@
+## Stjecanje dionica i udjela i druga raspolaganja dionicama i udjelima
+# Članak 34.
+(1) Republika Hrvatska može stjecati dionice i udjele sukladno pozitivnim propisima Republike Hrvatske, uključujući i pravila o državnim potporama.
+(2) Odluku o stjecanju dionica i udjela donosi ministar nadležan za poslove državne imovine, Vlada Republike Hrvatske ili ovlašteno tijelo Centra, primjenjujući na odgovarajući način odredbe članka 22. ili članka 23. ovoga Zakona, osim ako posebnim propisom nije drukčije uređeno.
+(3) Odluku o drugim raspolaganjima dionicama i udjelima poput zalaganja dionica i udjela, fiducijarnog prijenosa vlasništva dionica i udjela, darovanja dionica i udjela, zamjena dionica i udjela i sličnih pravnih radnji radi drugih stvarnopravnih i statusnopravnih raspolaganja dionicama i udjelima, sukladno članku 29. ili članku 30. ovoga Zakona, donosi ministar nadležan za poslove državne imovine, Vlada Republike Hrvatske ili ovlašteno tijelo Centra, osim ako posebnim propisom nije drukčije određeno.

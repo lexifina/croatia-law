@@ -1,0 +1,6 @@
+# Članak 69.
+(1) Ako je treća osoba temeljem pravnog posla sklopljenog do 1. siječnja 2011. s jedinicom lokalne i područne (regionalne) samouprave nakon provedenog postupka javnog natječaja stekla zemljišnoknjižno pravo na nekretnini u vlasništvu Republike Hrvatske, smatra se da je to pravo stekla izravno od Republike Hrvatske.
+(2) Ako je treća osoba, Republika Hrvatska ili jedinica lokalne i područne (regionalne) samouprave pokrenula sudski ili upravni postupak vezan za nekretninu iz stavka 1. ovoga članka, treća osoba ovlaštena je do 31. prosinca 2018. stvarno i mjesno nadležnom državnom odvjetništvu dostaviti zahtjev za sklapanje nagodbe temeljem koje će u zemljišnim knjigama izvršiti upis prava vlasništva za svoju korist.
+(3) Stvarno i mjesno nadležno državno odvjetništvo je, na temelju pravodobno podnesenih zahtjeva iz stavka 2. ovoga članka, ovlašteno sklopiti nagodbe uz uvjet da se svaka stranka obveže snositi svoje troškove u pokrenutom sudskom ili upravnom postupku.
+(4) Ako za nekretninu iz stavka 1. ovoga članka nije pokrenut sudski ili upravni postupak, Ministarstvo će trećoj osobi iz stavka 1. ovoga članka izdati ispravu podobnu za upis prava vlasništva na toj nekretnini.
+(5) Odredbe ovoga članka primjenjuju se na sva raspolaganja iz stavka 1. ovoga članka do 1. siječnja 2011.

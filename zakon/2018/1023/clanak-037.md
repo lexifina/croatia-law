@@ -1,0 +1,8 @@
+## Donošenje odluka o upravljanju nekretninama
+# Članak 37.
+(1) Prije svakog raspolaganja nekretninama u vlasništvu Republike Hrvatske izvršit će se procjena tržišne vrijednosti tih nekretnina sukladno posebnom propisu kojim se uređuje procjena vrijednosti nekretnina, a u slučaju raspolaganja nekretninama sklapanjem drugog naplatnog pravnog posla koji podrazumijeva korištenje i/ili plodouživanje nekretnine, odnosno ograničenje prava vlasništva Republike Hrvatske, kao što je osnivanje prava građenja, osnivanje prava služnosti, zakup, najam i drugo, izvršit će se i procjena vrijednosti naknade sukladno posebnom propisu kojim se uređuje procjena vrijednosti nekretnina osim ako se nekretnina daje na uporabu.
+(2) Procjenu tržišne vrijednosti državne imovine iz stavka 1. ovoga članka obavlja osoba koja je za to ovlaštena posebnim propisima kojim je uređena procjena vrijednosti nekretnina i odlukom ministra nadležnog za poslove državne imovine.
+(3) Početni iznos kupoprodajne cijene ili ukupne naknade pri prvom krugu postupka raspolaganja nekretninama ne može biti manji od procijenjenog iznosa iz stavka 1. ovoga članka.
+(4) Odluku o raspolaganju nekretninama čija je procijenjena vrijednost ili je ukupni iznos procijenjene naknade niži ili jednak iznosu od 7.500.000,00 kuna donosi ministar nadležan za poslove državne imovine.
+(5) Odluku o raspolaganju imovinom iz stavka 1. ovoga članka čija procijenjena vrijednost iznosi više od 7.500.000,00 kuna donosi Vlada Republike Hrvatske na prijedlog Ministarstva.
+(6) Iznimno od stavka 5. ovoga članka, odluku o nekorištenju prava prvokupa neovisno o iznosu ponuđene kupoprodajne cijene, kao i odluku o davanju nekretnina na uporabu iz članka 39. ovoga Zakona donosi ministar nadležan za poslove državne imovine.

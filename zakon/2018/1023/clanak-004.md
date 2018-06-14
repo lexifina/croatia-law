@@ -1,0 +1,3 @@
+# Članak 4.
+(1) Ovim Zakonom Vlada Republike Hrvatske u ime Republike Hrvatske povjerava Ministarstvu vršenje vlasničkih ovlasti u odnosu na državnu imovinu koja je predmet uređenja ovoga Zakona, osim one imovine za koju vlasnička prava vrši Centar u skladu s ovim Zakonom ili posebnim propisom, te ako upravljanje državnom imovnom nije povjereno drugom tijelu u skladu s posebnim zakonom.
+(2) Ministar nadležan za poslove državne imovine može odlukom povjeriti nekretnine u vlasništvu Republike Hrvatske iz članka 3. stavka 1. podstavka 3. ovoga Zakona na upravljanje trgovačkom društvu Državne nekretnine d. o. o.

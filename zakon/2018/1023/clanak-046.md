@@ -1,0 +1,12 @@
+## Dodjela nekretnina na uporabu tijelima državne uprave i drugim korisnicima državnog proračuna
+# Članak 46.
+(1) Ministarstvo daje nekretnine na uporabu tijelima državne uprave bez naknade za potrebe rada tijela državne uprave sukladno kriteriju površine radnog prostora po zaposleniku, a koja može iznositi do maksimalno 15 m² radnog prostora po zaposleniku.
+(2) Ministarstvo daje nekretnine na uporabu i drugim tijelima koja su proračunski korisnici državnog proračuna, bez naknade, za rad tih tijela, sukladno kriterijima kojima se utvrđuje maksimalna površina prostora po zaposleniku ako posluju preko jedinstvenog računa državnog proračuna.
+(3) Tijela iz stavaka 1. i 2. ovoga članka ne plaćaju naknadu za uredski dio poslovnog prostora koji površinom prelazi maksimalne kriterije za veličinu prostora po zaposleniku.
+(4) Ministarstvo daje nekretnine na uporabu bez provođenja javnog natječaja uz naknadu drugim proračunskim korisnicima državnog proračuna koji ne posluju preko jedinstvenog računa državnog proračuna, pravnim osobama s javnim ovlastima, trgovačkim društvima u isključivom vlasništvu Republike Hrvatske, parlamentarnim političkim strankama i nezavisnim saborskim zastupnicima za potrebe obavljanja poslova iz njihova djelokruga.
+(5) Tijela iz stavaka 1., 2. i 4. ovoga članka koja su dobila nekretnine na uporabu preuzimaju sva prava, osim prava na otuđenje i opterećenje nekretnine, kao i sve obveze za navedene nekretnine i obveznici su investicijskog i redovitog održavanja navedenih nekretnina te su dužna plaćati sve druge troškove vezane za navedene nekretnine.
+(6) Ako Ministarstvo nema na upravljanju nekretnine za ostvarivanje potreba tijela iz stavaka 1., 2. i 4. ovoga članka, Ministarstvo će s navedenim tijelima sudjelovati u postupku radi pronalaženja odgovarajuće nekretnine na tržištu za zakup.
+(7) Tijela iz stavaka 1., 2. i 4. ovoga članka, koja koriste prostore zakupljene od trećih osoba, dužna su se obratiti Ministarstvu najkasnije šest mjeseci prije isteka ugovora o zakupu. Ministarstvo je dužno odlučiti o zahtjevu državnog tijela u roku od 60 dana od dana zaprimanja zahtjeva.
+(8) Tijela iz stavaka 1., 2. i 4. ovoga članka ne smiju sklopiti ugovor o zakupu nekretnina s trećim osobama bez suglasnosti Ministarstva.
+(9) Pravni poslovi sklopljeni bez suglasnosti iz stavka 8. ovoga članka su ništetni.
+(10) Ministarstvo upravlja i nekretninama koje tijela državne uprave koriste povremeno te objektima posebne namjene - rezidencijalni objekti i slično.
