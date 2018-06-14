@@ -1,0 +1,13 @@
+## DIO PETI
+## PRIJELAZNE I ZAVRŠNE ODREDBE
+## Stečena prava i obveze
+# Članak 195.
+(1) Stupanje na snagu ovoga Zakona ne utječe na stečena prava i obveze iz izdanih dozvola za istraživanje, izdanih odluka o odabiru najpovoljnijeg ponuditelja, izdanih rješenja o odobrenju za istraživanje, izdanih rješenja o utvrđivanju eksploatacijskih polja, izdanih odluka o davanju koncesija za eksploataciju odnosno ugovora o koncesiji koja su stečena sukladno odredbama propisa koji su bili na snazi do stupanja na snagu ovoga Zakona.
+(2) Na područjima na kojima je zabranjena eksploatacija (npr. izmjena prostornih planova, zaštićeni obalni pojas, proširenje granica zakonom zaštićenog područja i dr.), a za područja na kojima je naftno-rudarski gospodarski subjekt već stekao postojeće pravo na eksploataciju prije određivanja zabrane, taj naftno-rudarski gospodarski subjekt ima pravo nastaviti s eksploatacijom ako Ministarstvo ne ukine odluku o dodjeli koncesije.
+(3) U slučaju iz stavka 2. ovoga članka Ministarstvo je dužno nadoknaditi naftno-rudarskom gospodarskom subjektu štetu nastalu zbog gubitka prava.
+(4) Kada istekne rok na koji je utvrđeno eksploatacijsko polje iz rješenja o utvrđivanju eksploatacijskog polja donesenog po prijašnjem propisu, takvo eksploatacijsko polje po sili zakona prelazi na Republiku Hrvatsku.
+(5) Ministarstvo će obavijestiti investitora odnosno naftno-rudarski gospodarski subjekt o prestanku prava iz stavka 4. ovoga članka.
+(6) Ministarstvo će po službenoj dužnosti izvršiti brisanje investitora na čije ime je dodijeljeno rješenje o utvrđivanju eksploatacijskog polja iz registra eksploatacijskih polja ako je taj investitor odnosno naftno-rudarski gospodarski subjekt brisan iz sudskog registra i upisati Republiku Hrvatsku.
+(7) Investitor je dužan u roku od 12 mjeseci od dana stupanja na snagu ovoga Zakona dostaviti Ministarstvu podatke o svim naftno-rudarskim objektima i postrojenjima smještenim unutar odobrenog istražnog prostora ili eksploatacijskog polja i koji su u tehnološkoj vezi s njima radi provjere u registru istražnih prostora ili eksploatacijskih polja koji vodi Ministarstvo.
+(8) Rokovi određeni ovim člankom ne mogu se produžavati odnosno neizvršavanjem obveza u rokovima određenim ovim člankom pravne osobe gube stečena prava iz ovoga članka, a sva stečena prava po sili ovoga Zakona prelaze na Republiku Hrvatsku.
+(9) U slučaju iz stavka 8. ovoga članka Ministarstvo će donijeti rješenje i odrediti rok ne duži od tri mjeseca u kojem su pravne osobe kojima su oduzeta stečena prava dužne podmiriti obveze s osnova naknade za koncesiju, kao i obvezu sanacije i rok u kojem ju je potrebno izvršiti ako sanacija nije provedena.

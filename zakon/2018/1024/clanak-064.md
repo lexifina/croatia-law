@@ -1,0 +1,6 @@
+## Rok izdavanja dozvole za istraživanje geotermalnih voda
+# Članak 64.
+(1) Dozvola za istraživanje geotermalnih voda izdaje se na rok potreban za provođenje istražnih radova, a najviše pet godina.
+(2) Ministarstvo može produljiti rok valjanosti dozvole za istraživanje geotermalnih voda, na opravdani zahtjev investitora, kada utvrđeni rok nije dovoljan za završetak dotičnog istraživanja koje se provodi u skladu s dozvolom za istraživanje geotermalnih voda, pri čemu financijska nesposobnost investitora ne može biti opravdani razlog za produljenje istražnog razdoblja.
+(3) Valjanost dozvole za istraživanje geotermalnih voda prema pisanom zahtjevu investitora može se produljiti dva puta tijekom trajanja dozvole za istraživanje geotermalnih voda, i to tako da svako produljenje može trajati maksimalno šest mjeseci, a mora se zatražiti najmanje tri mjeseca prije isteka roka dozvole za istraživanje geotermalnih voda.
+(4) U slučaju iz stavaka 2. i 3. ovoga članka Ministarstvo će rješenjem u roku od 60 dana od zaprimanja urednog zahtjeva investitora odbiti zahtjev investitora ili produljiti rok valjanosti dozvole za istraživanje geotermalnih voda na temelju izmjene dozvole za istraživanje geotermalnih voda.

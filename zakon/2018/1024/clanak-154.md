@@ -1,0 +1,10 @@
+## Uvjeti koje moraju zadovoljavati pravne osobe koje izrađuju projekte građenja naftno-rudarskih objekata i postrojenja
+# Članak 154.
+(1) Pravne osobe koje izrađuju projekte građenja naftno-rudarskih objekata i postrojenja moraju ispunjavati sljedeće uvjete za obavljanje djelatnosti izrade projekata građenja naftno-rudarskih objekata i postrojenja:
+1. u sudskom registru imaju upisanu djelatnost izrade projekata građenja naftno-rudarskih objekata i postrojenja
+2. imaju u punom radnom vremenu najmanje jednu zaposlenu odgovornu stručnu osobu koja nosi strukovni naziv ovlaštenog inženjera odgovarajuće struke u skladu s pravilnikom iz članka 178. ovoga Zakona, s odgovarajućom stručnom spremom, radnim iskustvom i položenim stručnim ispitom u skladu s pravilnikom iz članka 178. ovoga Zakona
+3. raspolažu odgovarajućom opremom za izradu projekata građenja naftno-rudarskih objekata i postrojenja.
+(2) Iznimno od stavka 1. točke 2. ovoga članka, pravna osoba za izradu posebnih dijelova projekta građenja naftno-rudarskih objekata i postrojenja, a koje ne može izrađivati odgovorna osoba iz stavka 1. točke 2. ovoga članka, koji su sastavni dio projekta građenja naftno-rudarskih objekata i postrojenja, treba imati u punom radnom vremenu najmanje jednu zaposlenu osobu koja nosi strukovni naziv ovlaštenog inženjera odgovarajuće struke prema pravilniku iz članka 178. ovoga Zakona ili mora s takvom osobom odnosno pravnom osobom koja zapošljava odgovornu stručnu osobu sklopiti pisani ugovor za izradu dijelova projekata u skladu s pravilnikom iz članka 178. ovoga Zakona.
+(3) Pravna osoba dužna je za svaki naručeni i prihvaćeni posao izrade projekta građenja naftno-rudarskih objekata i postrojenja sklopiti pisani ugovor s naručiteljem toga posla.
+(4) Pravna osoba dužna je čuvati i zaštititi svaku poslovnu tajnu naručitelja svojih usluga za koju sazna tijekom pružanja naručenih usluga.
+(5) Poslovnu tajnu u smislu stavka 4. ovoga članka dužni su čuvati i zaštititi ovlaštene osobe koje pravna osoba angažira prilikom izvršenja konkretnog posla.

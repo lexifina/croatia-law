@@ -1,0 +1,13 @@
+## Radni programi i budžeti
+# Članak 118.
+(1) Sukladno izdanim dozvolama za istraživanje ili dozvolama za eksploataciju ili sklopljenim ugovorima o istraživanju i eksploataciji ugljikovodika ili ugovorima o eksploataciji geotermalnih voda ili ugovorima o skladištenju prirodnog plina investitori su dužni pripremiti i dostaviti Agenciji na mišljenje godišnje radne programe i budžete najkasnije 90 dana prije početka svake kalendarske godine i najkasnije 30 dana nakon stupanja na snagu dozvola za istraživanje, dozvola za trajno zbrinjavanje ugljikova dioksida, ugovora o istraživanju i eksploataciji ugljikovodika, ugovora o eksploataciji geotermalnih voda ili ugovora o skladištenju prirodnog plina.
+(2) Godišnji radni programi i budžeti moraju biti usklađeni s minimalnim radnim obvezama na koje se investitor obvezao u istražnom razdoblju i naftno-rudarskim projektima.
+(3) Agencija izdaje mišljenje na godišnji radni program i budžet u roku od 30 dana od njegova zaprimanja.
+(4) Ako Agencija ima primjedbi na zaprimljeni godišnji radni program i budžet, Agencija obavještava investitora o izmjenama i dopunama sukladno kojima je investitor dužan ispraviti godišnji radni program i budžet u roku od 30 dana od njegova zaprimanja.
+(5) Po zaprimanju ispravljenog radnog programa i budžeta iz stavka 4. ovoga članka Agencija izdaje mišljenje u roku od 15 dana.
+(6) Ako tijekom kalendarske godine dođe do promjena godišnjeg radnog programa i budžeta na koji je Agencija dala mišljenje, investitor dostavlja obrazloženje promjena godišnjeg radnog programa i budžeta na suglasnost Agenciji te se takve promjene unose u godišnji radni program i budžet pod uvjetom da ne mijenjaju glavne ciljeve godišnjeg radnog programa i budžeta te su one u skladu s minimalnim radnim obvezama investitora odnosno naftno-rudarskim projektima.
+(7) Agencije izdaje pisanu suglasnost na promjene godišnjeg radnog programa i budžeta u roku od 15 dana od zaprimanja obrazloženja promjena godišnjeg radnog programa i budžeta iz stavka 6. ovoga članka.
+(8) Investitor u roku od 30 dana nakon svakog kvartala Agenciji dostavlja izvješće o napretku obavljenih radova i nastalih troškova tijekom predmetnog kvartala na temelju odobrenog radnog programa i budžeta.
+(9) Izvješće za zadnji kvartal svake kalendarske godine uključuje i sažetak aktivnosti i troškova na kraju godine za predmetnu kalendarsku godinu.
+(10) Agencija mišljenjem potvrđuje opravdanost odnosno neopravdanost nastalih naftno-rudarskih radova i troškova prijavljenih u izvješću iz stavaka 8. i 9. ovoga članka.
+(11) U slučaju ugovora o istraživanju i podjeli eksploatacije ugljikovodika Agencija ne priznaje neopravdane radove i troškove u svrhu povrata troškova.

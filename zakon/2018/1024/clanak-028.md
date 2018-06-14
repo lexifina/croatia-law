@@ -1,0 +1,4 @@
+## Dozvola za pridobivanje ugljikovodika
+# Članak 28.
+(1) Dozvola za pridobivanje ugljikovodika čini neodvojiv sastavni dio dozvole za istraživanje i eksploataciju ugljikovodika i ugovora o istraživanju i eksploataciji ugljikovodika pod uvjetom da se nakon završetka istražnih radova potvrde rezerve ugljikovodika, utvrdi eksploatacijsko polje, izradi i provjeri projekt razrade i eksploatacije te da investitor ispunjava i druge uvjete propisane ovim Zakonom i propisima koji se donose na temelju ovoga Zakona.
+(2) Nakon ispunjenja uvjeta iz stavka 1. ovoga članka investitoru će biti izdana dozvola za pridobivanje ugljikovodika, a što će Vlada bez provođenja bilo kakvih daljnjih postupaka utvrditi odlukom o izdavanju dozvole za pridobivanje ugljikovodika, koja se smatra dodatkom ugovora o istraživanju i eksploataciji ugljikovodika.

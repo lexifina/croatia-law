@@ -1,0 +1,3 @@
+## Dostava podataka
+# Članak 197.
+Od dana stupanja na snagu ovoga Zakona investitori i drugi naftno-rudarski gospodarski subjekti dužni su sukladno odredbama ovoga članka, u roku od najviše šest mjeseci, dostaviti sve podatke i rezultate iz članka 122. stavka 1. ovoga članka, a koji prije nisu dostavljeni Agenciji. U slučaju povrede ove obveze ovlaštenicima istražnih prostora ili eksploatacijskih polja bit će ukinuta rješenja o odobrenju za istraživanje ili raskinut ugovor o koncesiji, ugovor o istraživanju i eksploataciji ugljikovodika ili na drugi prikladan način oduzeto postojeće pravo na eksploataciju te će biti brisani iz registra istražnih prostora ili registra eksploatacijskih polja.

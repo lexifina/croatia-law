@@ -1,0 +1,11 @@
+# Članak 78.
+(1) Za istraživanje u svrhu trajnog zbrinjavanja ugljikova dioksida potrebna je dozvola za istraživanje u svrhu trajnog zbrinjavanja ugljikova dioksida.
+(2) Ministarstvo osigurava da postupci za izdavanje dozvola za istraživanje budu otvoreni za sve naftno-rudarske gospodarske subjekte koji posjeduju potrebne kapacitete i da se dozvole izdaju ili uskraćuju na temelju objektivnih, javno objavljenih nediskriminirajućih kriterija.
+(3) Na postupak izdavanja dozvole za istraživanje u svrhu trajnog zbrinjavanja ugljikova dioksida primjenjuju se odredbe članaka 55. - 65. ovoga Zakona, uz ispunjavanje dodatnih uvjeta iz stavaka 4. i 5. ovoga članka.
+(4) U postupku izdavanja dozvole za istraživanje u svrhu trajnog zbrinjavanja ugljikova dioksida primjenjuju se i sljedeći posebni uvjeti:
+1. Republika Hrvatska zadržava pravo odrediti područja na kojima je moguće trajno zbrinjavanje ugljikova dioksida u geološkim strukturama, sukladno ovom Zakonu, a što uključuje pravo Republike Hrvatske da na cijelom svom teritoriju ili nekim dijelovima toga teritorija uopće ne dozvoli trajno zbrinjavanje ugljikova dioksida.
+2. Ako se na teritoriju Republike Hrvatske planira dozvoliti trajno zbrinjavanje ugljikova dioksida, kao preduvjet nužno je provesti procjenu skladišnih kapaciteta koji su dostupni na njezinu teritoriju ili nekim dijelovima toga teritorija, što obuhvaća i procjenu tako da se dozvoli provođenje istraživanja u skladu s odredbama ovoga Zakona.
+3. Utvrđivanje prikladnosti geološke strukture u svrhu njezina korištenja kao podzemnog skladišta određuje se karakterizacijom i procjenom potencijalnoga skladišnog kompleksa i okolnoga područja u skladu s kriterijem navedenim u pravilniku iz članka 103. ovoga Zakona.
+(5) U dozvolu za istraživanje u svrhu trajnog zbrinjavanja ugljikova dioksida, osim uvjeta propisanih člankom 63. stavkom 1. ovoga Zakona, mora se uključiti i nadzor nad probama i testovima utiskivanja ugljikova dioksida, a kada je to potrebno.
+(6) Investitor koji ima dozvolu za istraživanje u svrhu trajnog zbrinjavanja ugljikova dioksida ima isključivo pravo na istraživanje potencijalnog kompleksa za trajno zbrinjavanje ugljikova dioksida.
+(7) Ministarstvo po službenoj dužnosti vodi računa o tome da se u roku važenja/produljenja dozvole za istraživanje ne odobre proturječne uporabe potencijalnog kompleksa.

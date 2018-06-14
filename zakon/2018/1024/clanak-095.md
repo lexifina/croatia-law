@@ -1,0 +1,11 @@
+## Financijsko jamstvo
+# Članak 95.
+(1) Prije izdavanja dozvole za istraživanje ili izdavanja dozvole za trajno zbrinjavanje ugljikova dioksida investitor je dužan Ministarstvu dostaviti financijsko jamstvo.
+(2) Financijsko jamstvo iz stavka 1. ovoga članka mora biti bankarska garancija na ime jamstva ispunjavanja svih obveza koje nastaju u okviru dozvole za istraživanje ili dozvole za skladištenje koja se izdaje u skladu s ovim Zakonom, uključujući zahtjeve u pogledu provedenih radova, zatvaranja, razdoblja nakon zatvaranja, kao i za ostale potrebne radnje sanacije istražnog prostora ili eksploatacijskog polja određene ovim Zakonom, kao i svih obveza koje proizlaze iz uključivanja skladišnog geoprostora u područje primjene propisa kojima se utvrđuje trgovanje kvotama stakleničkih plinova.
+(3) Bankarska garancija mora biti neopoziva, bezuvjetna, na »prvi poziv« i »bez prigovora« i glasiti na Ministarstvo. Jamstvo mora pokrivati rok izdanih dozvola za istraživanje ili trajno zbrinjavanje ugljikova dioksida, kao i slučajeve određene ovim Zakonom.
+(4) Financijsko jamstvo iz stavka 1. ovoga članka periodički se prilagođava promjenama procijenjenog rizika propuštanja, kao i procijenjenim troškovima svih obveza koje nastaju u okviru dozvole za istraživanje ili dozvole za trajno zbrinjavanje ugljikova dioksida, a što se utvrđuje izdanom dozvolom za istraživanje ili dozvolom za trajno zbrinjavanje ugljikova dioksida, kao i svih obveza koje proizlaze iz uključivanja skladišnog geoprostora u područje primjene propisa kojima se utvrđuje trgovanje kvotama stakleničkih plinova.
+(5) Financijsko jamstvo iz stavka 1. ovoga članka ostaje važeće i na snazi:
+1. nakon što je podzemno skladište zatvoreno u skladu s člankom 93. stavkom 1. točkom 1. ili 2. ovoga Zakona, dok odgovornost za podzemno skladište nije prenesena na Agenciju u skladu s člankom 94. ovoga Zakona
+2. nakon ukidanja dozvole za trajno zbrinjavanje ugljikova dioksida u skladu s člankom 86. stavkom 3. ovoga Zakona:
+- do izdavanja nove dozvole za trajno zbrinjavanje ugljikova dioksida
+- ako je podzemno skladište zatvoreno u skladu s člankom 93. stavkom 1. točkom 3. ovoga Zakona, do prijenosa odgovornosti u skladu s člankom 94. ovoga Zakona, pod uvjetom da su financijske obveze iz članka 96. ovoga Zakona ispunjene.

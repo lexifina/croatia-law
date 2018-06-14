@@ -1,0 +1,9 @@
+## Pojednostavnjeni projekt
+# Članak 136.
+(1) Pojednostavnjeni projekt izrađuje se za nebitna odstupanja pri građenju ili rekonstrukciji izgrađenih naftno-rudarskih objekata i postrojenja, a kada se ne mijenjaju lokacijski uvjeti sukladno propisu kojim se uređuje prostorno uređenje.
+(2) Moguća nebitna odstupanja propisana su pravilnikom iz članka 139. ovoga Zakona.
+(3) Prije početka izrade pojednostavnjenog projekta iz stavka 1. ovoga članka potrebno je ishoditi suglasnost Ministarstva za izradu pojednostavnjenog projekta. Od zaprimanja urednog zahtjeva Ministarstvo je dužno izdati suglasnost u roku od 30 dana.
+(4) Kada se pojednostavnjeni projekt izrađuje sukladno stavku 1. ovoga članka, investitor je dužan jedan primjerak pojednostavnjenog projekta, s prikazom uklapanja tehničkog rješenja iz pojednostavnjenog projekta u postojeću provjerenu naftno-rudarsku projektnu dokumentaciju odnosno provjereni projekt razrade i eksploatacije ili provjereni dopunski projekt razrade i eksploatacije ili provjereni projekt izrade istražne bušotine, dostaviti Ministarstvu.
+(5) Ministarstvo je dužno u roku od 15 dana od dostave pojednostavnjenoga projekta iz stavka 1. ovoga članka utvrditi je li pojednostavnjeni projekt izrađen u skladu s izdanom suglasnosti iz stavka 3. ovoga članka i o tome investitoru izdati potvrdu.
+(6) Investitor, nakon ishođene potvrde Ministarstva iz stavka 5. ovoga članka, može započeti s izvođenjem naftno-rudarskih radova prema pojednostavnjenom projektu. Kada je primjenjivo, investitor može započeti s izvođenjem naftno-rudarskih radova prema pojednostavnjenom projektu ako je predao garanciju iz članka 186. ovoga Zakona.
+(7) Investitor je dužan početak i završetak izvođenja naftno-rudarskih radova prema pojednostavnjenom projektu prijaviti Ministarstvu, Agenciji i naftno-rudarskoj inspekciji Ministarstva.

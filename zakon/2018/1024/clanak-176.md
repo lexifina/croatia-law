@@ -1,0 +1,4 @@
+## Odgovornost za održavanje naftno-rudarskih objekata i postrojenja
+# Članak 176.
+(1) Investitor je odgovoran za održavanje naftno-rudarskih objekata i postrojenja.
+(2) U slučaju oštećenja naftno-rudarskih objekata i postrojenja zbog kojih postoji opasnost za život i zdravlje ljudi, okoliš i prirodu, druge građevine i stvari ili stabilnost tla na okolnom zemljištu, investitor je dužan poduzeti hitne mjere za otklanjanje opasnosti u skladu s ovim Zakonom, propisima koji se donose na temelju ovoga Zakona i propisima kojima se uređuje prostorno uređenje, gradnja, zaštita okoliša, priroda, pomorstvo, vode, šume i šumarstvo i sigurnost pri odobalnom istraživanju i eksploataciji ugljikovodika te označiti naftno-rudarske objekte i postrojenja opasnim do otklanjanja takvog oštećenja u skladu s propisima kojima se uređuje zaštita na radu.

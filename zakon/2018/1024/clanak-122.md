@@ -1,0 +1,14 @@
+## Vlasništvo nad dokumentima i podacima
+# Članak 122.
+(1) Svi geološki, geokemijski, geofizički, inženjerski i drugi podaci prikupljeni pri istraživanju ili eksploataciji, uključujući i sve analize, interpretacije i studije izvedene na temelju tih podataka isključivo su vlasništvo Republike Hrvatske.
+(2) Investitor je ovlašten podatke iz stavka 1. ovoga članka koristiti isključivo u svrhu izvođenja naftno-rudarskih radova za vrijeme važenja dozvole za istraživanje, dozvole za eksploataciju, sklopljenog ugovora o istraživanju i eksploataciji ugljikovodika ili ugovora o eksploataciji geotermalnih voda ili ugovora o skladištenju prirodnog plina, uz obvezu poštovanja tajnosti podataka sukladno odredbama ugovora o istraživanju i eksploataciji ugljikovodika ili ugovora o eksploataciji geotermalnih voda ili ugovora o skladištenju prirodnog plina ili dozvole za trajno zbrinjavanje ugljikova dioksida.
+(3) Investitor je dužan predati sve podatke iz stavka 1. ovoga članka bez ikakve naknade.
+(4) Investitor je dužan dostaviti podatke iz stavka 1. ovoga članka Agenciji u roku od 60 dana nakon završetka prikupljanja podataka odnosno izrade analiza, interpretacija, studija i rezultata izvedenih na temelju prikupljenih podataka.
+(5) Investitor je dužan kopiju podataka iz stavka 4. ovoga članka dostaviti Hrvatskom geološkom institutu u skladu sa stavkom 11. ovoga članka.
+(6) Prije dostave podataka iz stavka 4. ovoga članka, odmah nakon završetka prikupljanja podataka iz stavka 1. ovoga članka odnosno izrade analiza, interpretacija, studija i rezultata izvedenih na temelju prikupljenih podataka, a bez obzira na završetak ili izradu zadnjeg dana svakog kalendarskog kvartala (u kojem se slučaju dostavljaju trenutačni nacrti), investitor je dužan obavijestiti Agenciju, a kako bi Agencija utvrdila specifikaciju i način dostave podataka iz stavka 1. ovoga članka koje je investitor dužan dostaviti.
+(7) Odredbe ovoga Zakona odnose se i na sve dosad prikupljene podatke iz stavka 1. ovoga članka koji su u posjedu investitora ili drugih naftno-rudarskih gospodarskih subjekata.
+(8) Ministarstvo je nadležno za prikupljanje, pohranu, obradu i zbrinjavanje svih podataka i rezultata iz stavka 1. ovoga članka.
+(9) Operativne poslove iz stavka 8. ovoga članka pod nadzorom Ministarstva obavlja Agencija.
+(10) Agencija je dužna evidentirati pohranjene podatke i rezultate iz stavka 1. ovoga članka i na prikladan ih način učiniti dostupnima sukladno članku 124. ovoga Zakona.
+(11) Agencija u suradnji s Hrvatskim geološkim institutom osigurava pohranu kopija svih podataka iz stavka 1. ovoga članka u Hrvatskom geološkom institutu.
+(12) Hrvatski geološki institut ne smije davati podatke na uvid trećim osobama, kao ni koristiti podatke u znanstvene i istraživačke svrhe bez prethodne suglasnosti Agencije, sukladno članku 124. stavku 4. ovoga Zakona.

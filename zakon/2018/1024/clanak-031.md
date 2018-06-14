@@ -1,0 +1,8 @@
+## Viša sila
+# Članak 31.
+(1) Ako investitor ne izvršava svoja prava i obveze iz dozvole za istraživanje i eksploataciju ugljikovodika i ugovora o istraživanju i eksploataciji ugljikovodika ili krši odredbe ovoga Zakona i drugih posebnih propisa kojima se uređuju obvezni odnosi zbog nastupa okolnosti više sile, takve radnje ili propusti investitora neće se smatrati povredom dozvole za istraživanje i eksploataciju ugljikovodika i ugovora o istraživanju i eksploataciji ugljikovodika.
+(2) Pod okolnostima više sile smatraju se okolnosti izvan utjecaja Vlade i investitora koje se nisu mogle predvidjeti, izbjeći ili spriječiti, a koje posebno predstavljaju rat (objavljen ili neobjavljen), prijetnja ratom ili postojanje ratnih okolnosti, prirodne katastrofe, kao i sve druge okolnosti koje kao višu silu priznaju međunarodni standardi.
+(3) Okolnošću više sile ne smatra se nedostatak financijskih sredstava ili bilo koja druga financijska nestabilnost investitora, kao ni nesposobnost za plaćanje ili otvaranje stečajnog ili likvidacijskog postupka nad investitorom.
+(4) Ako razdoblje trajanja okolnosti više sile traje dulje od 18 mjeseci neprekidno, svaka strana ima pravo raskinuti ugovor o istraživanju i eksploataciji ugljikovodika.
+(5) Ako razdoblje trajanja okolnosti više sile traje dulje od 18 mjeseci neprekidno, Vlada ima pravo jednostranog raskida ugovora o istraživanju i eksploataciji ugljikovodika, bez obzira na to je li investitor uspio povratiti svoje troškove vezane uz izvođenje naftno-rudarskih radova.
+(6) Odredbe ovoga Zakona o višoj sili ne utječu na obvezu ispunjavanja dospjelih novčanih tražbina.

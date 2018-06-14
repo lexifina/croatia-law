@@ -1,0 +1,6 @@
+## Revizija nacrta dozvole za trajno zbrinjavanje ugljikova dioksida od strane Europske komisije
+# Članak 85.
+(1) U roku od mjesec dana nakon primitka urednog zahtjeva sukladno odredbama članka 81. ovoga Zakona Ministarstvo je dužno Europskoj komisiji staviti na raspolaganje zahtjev za izdavanje dozvole za trajno zbrinjavanje ugljikova dioksida i dozvolu za trajno zbrinjavanje ugljikova dioksida.
+(2) Ministarstvo u slučaju iz stavka 1. ovoga članka stavlja na raspolaganje i druge relevantne materijale, dokumentaciju, akte i podatke koje Ministarstvo mora uzeti u obzir prilikom donošenja odluke o izdavanju dozvole za trajno zbrinjavanje ugljikova dioksida.
+(3) Ministarstvo obavješćuje Europsku komisiju o svim nacrtima odluke o izdavanju dozvole za trajno zbrinjavanje ugljikova dioksida i svim drugim materijalima, dokumentaciji, aktima i podacima koji su uzeti u obzir prilikom usvajanja zahtjeva za izdavanje dozvole za trajno zbrinjavanje ugljikova dioksida.
+(4) Ministarstvo o odluci iz članka 83. ovoga Zakona obavješćuje Europsku komisiju, a kad se ta odluka ne podudara s mišljenjem Europske komisije, mora je obrazložiti u odluci o izdavanju dozvole za trajno zbrinjavanje ugljikova dioksida.

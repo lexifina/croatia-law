@@ -1,0 +1,5 @@
+## Projekt uklanjanja naftno-rudarskih objekata i postrojenja
+# Članak 153.
+(1) Projekt uklanjanja naftno-rudarskih objekata i postrojenja je projekt kojim se tehnički razrađuju rješenja odnosno postupak i način uklanjanja naftno-rudarskih objekata i postrojenja ili njegovih dijelova, prethodno rješavanje pitanja odvajanja priključaka naftno-rudarskih objekata i postrojenja na energetsku ili drugu infrastrukturu, sigurnosne mjere, mjere gospodarenja otpadom, oporabe ili zbrinjavanja otpada nastalog uklanjanjem naftno-rudarskih objekata i postrojenja sukladno propisima kojima se uređuje gospodarenje otpadom te odvoz i zbrinjavanje građevinskog materijala nastalog uklanjanjem naftno-rudarskih objekata i postrojenja.
+(2) Projekt uklanjanja naftno-rudarskih objekata i postrojenja mora biti usklađen s planom sanacije iz provjerenog projekta razrade i eksploatacije odnosno dopunskog projekta razrade i eksploatacije.
+(3) Odredbe ovoga članka ne primjenjuju se za trajno napuštanje svih vrsta bušotina koje su propisane ovim Zakonom, a koje se provodi u skladu s člankom 135. stavkom 1. točkom 4. ovog Zakona.

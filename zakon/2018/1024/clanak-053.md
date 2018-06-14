@@ -1,0 +1,7 @@
+## Mjerenje pridobivenih količina ugljikovodika
+# Članak 53.
+(1) Naftno-rudarska inspekcija Ministarstva će u određenim vremenskim razmacima, a koji ne smiju biti duži od šest mjeseci, obavljati kontrolu mjerenja pridobivenih količina ugljikovodika, primjenjujući metode prihvaćene u međunarodnoj dobroj praksi pri naftno-rudarskim radovima.
+(2) Ugljikovodici pridobiveni izvođenjem naftno-rudarskih radova na utvrđenom eksploatacijskom polju (ili više njih) mjere se metodama i uređajima koji su općeprihvaćeni i koji se obično upotrebljavaju u međunarodnoj dobroj praksi pri naftno-rudarskim radovima, a koji su određeni provjerenim projektom razrade i eksploatacije. Ugljikovodici koji su pridobiveni iz eksploatacijskog polja mjere se na mjernoj točki.
+(3) Investitor je obvezan izraditi i dostaviti Agenciji na mišljenje postupke mjerenja ugljikovodika izrađene u skladu s pravilnikom iz članka 139. ovoga Zakona.
+(4) Investitor je obvezan evidentirati ugljikovodike i staviti, na zahtjev, Ministarstvu i Agenciji na raspolaganje sve analize i umjernice uređaja za mjerenje ugljikovodika, uključujući i dokaze sustava mjerenja u skladu s odredbama ugovora o istraživanju i eksploataciji ugljikovodika i ovoga Zakona.
+(5) Ministarstvo putem službeno imenovanih predstavnika, u određenim vremenskim razmacima, provjerava da su mjerenja izvršena u skladu s odredbama ugovora o istraživanju i eksploataciji ugljikovodika i ovoga Zakona.

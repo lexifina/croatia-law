@@ -1,0 +1,4 @@
+## Osiguranje
+# Članak 121.
+(1) Investitor je za vrijeme trajanja izdane dozvole za istraživanje, dozvole za eksploataciju, sklopljenog ugovora o istraživanju i eksploataciji ugljikovodika ili ugovora o eksploataciji geotermalnih voda ili ugovora o skladištenju prirodnog plina obvezan imati i održavati na snazi odgovarajuće police osiguranja kojima se osiguravaju imovina investitora i trećih osoba, zdravlje i sigurnost radnika investitora i trećih osoba, ekološke štete odnosno bilo koji drugi rizici koji mogu proizaći iz izvođenja naftno-rudarskih radova, pri čemu je dužan poštovati važeće posebne propise kojima se uređuje područje osiguranja.
+(2) Investitor je obvezan sklopiti ili obnavljati sklopljene police osiguranja za cijelo vrijeme važenja izdane dozvole za istraživanje, dozvole za eksploataciju, sklopljenog ugovora o istraživanju i eksploataciji ugljikovodika ili ugovora o eksploataciji geotermalnih voda ili ugovora o skladištenju prirodnog plina.

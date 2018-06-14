@@ -1,0 +1,11 @@
+## Registri
+# Članak 9.
+(1) Ministarstvo vodi registar istražnih prostora i registar eksploatacijskih polja odobrenih sukladno ovom Zakonu, registar izdanih dozvola za trajno zbrinjavanje ugljikova dioksida i registar zatvorenih podzemnih skladišta i okolnih skladišnih kompleksa.
+(2) Ministarstvo u registre unosi podatke po službenoj dužnosti, po stupanju na snagu svakog pojedinog ugovora o istraživanju i eksploataciji ugljikovodika, izdavanju dozvola za istraživanje, izvršnosti rješenja o utvrđivanju eksploatacijskog polja, izdavanju dozvola za eksploataciju, stupanju na snagu ugovora o eksploataciji geotermalnih voda i ugovora o skladištenju prirodnog plina, izdavanju dozvole za trajno zbrinjavanje ugljikova dioksida i po odobrenju konačnog plana postupanja nakon zatvaranja.
+(3) U registar istražnih prostora unose se podaci o svim odobrenim istražnim prostorima i podaci o svim naftno-rudarskim objektima i postrojenjima smještenim unutar odobrenog istražnog prostora.
+(4) U registar eksploatacijskih polja unose se podaci o svim utvrđenim eksploatacijskim poljima i podaci o svim naftno-rudarskim objektima i postrojenjima smještenim unutar utvrđenog eksploatacijskog polja ili iznimno izvan njega kada su u tehnološkoj vezi s utvrđenim eksploatacijskim poljima, a što je definirano provjerenom naftno-rudarskom dokumentacijom.
+(5) Registar zatvorenih podzemnih skladišta i okolnih skladišnih kompleksa sadržava njihove prostorne mape i presjeke i dostupne informacije relevantne za procjenu hoće li uskladišteni plinovi biti potpuno i trajno zatvoreni.
+(6) Agencija vodi registar ugovora o istraživanju i eksploataciji ugljikovodika, ugovora o eksploataciji geotermalnih voda i ugovora o skladištenju prirodnog plina u koji unosi osnovne podatke o svim sklopljenim ugovorima.
+(7) Za obavljanje poslova vođenja registara iz stavaka 1., 2., 3., 4., 5. i 6. ovoga članka Agencija će u suradnji s Ministarstvom osigurati zajedničku informatičku platformu.
+(8) Ugovori o istraživanju i eksploataciji ugljikovodika, ugovori o eksploataciji geotermalnih voda i ugovori o skladištenju prirodnog plina iz kojih proizlazi obveza plaćanja naknada koje se smatraju javnim davanjima upisuju se u registar koncesija koje vodi središnje tijelo državne uprave nadležno za financije.
+(9) Ugovore iz stavka 8. ovoga članka u registar koncesija unosi Ministarstvo.
