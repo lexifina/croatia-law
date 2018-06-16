@@ -1,0 +1,1 @@
+Na temelju članaka 7., 8., 9., 10., 15., 29., 33., 34., 53. stavak 4., 54., stavak 2., 56. stavak 4., 57. stavak 5. i 64. stavka 3. Zakona o nadzoru prometa robe vojne namjene i nevojnih ubojnih sredstava (»Narodne novine«, broj 80/13), ministar nadležan za gospodarstvo, donosi
