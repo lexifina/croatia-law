@@ -1,0 +1,6 @@
+# Članak 7.
+(1) Sredstva iz članka 6. Ministarstvo financija raspoređuje sukladno odnosu stopa doprinosa za obvezno mirovinsko osiguranje Republike Hrvatske.
+(2) Za sustav mirovinskog osiguranja na temelju generacijske solidarnosti 3/4 iznosa, Ministarstvo financija sa svoga računa uplaćuje na račun državnog proračuna u korist prihoda za doprinose za mirovinsko osiguranje generacijske solidarnosti sukladno uputi koju donosi Ministarstvo financija.
+(3) Za sustav mirovinskog osiguranja na temelju individualne kapitalizirane štednje 1/4 iznosa, Ministarstvo financija sa svoga računa uplaćuje REGOS-u na račun Doprinosa za mirovinsko osiguranje za starost na temelju individualne kapitalizirane štednje sukladno uputi koju donosi Ministarstvo financija.
+(4) REGOS sredstva sa računa Doprinosa za mirovinsko osiguranje za starost na temelju individualne kapitalizirane štednje uplaćuje na osobni račun člana obveznog mirovinskog fonda.
+(5) Ako osiguranik nije član obveznog mirovinskog fonda, ukupnu aktuarsku protuvrijednost mirovinskih prava Ministarstvo financija sa svoga računa uplaćuje u cijelosti u državni proračun u korist prihoda za doprinose za mirovinsko osiguranje generacijske solidarnosti.
