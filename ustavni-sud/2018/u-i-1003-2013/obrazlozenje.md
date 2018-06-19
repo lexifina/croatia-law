@@ -1,0 +1,18 @@
+O b r a z l o ž e n j e
+1. Zakon o uporabi jezika i pisma nacionalnih manjina u Republici Hrvatskoj donio je na temelju članka 89. Ustava četvrti (4.) saziv Hrvatskog sabora na sjednici održanoj 11. svibnja 2000. Proglasio ga je predsjednik Republike odlukom od 16. svibnja 2000. Objavljen je u "Narodnim novinama" broj 51 od 19. svibnja 2000., a stupio je na snagu danom objave u "Narodnim novinama".
+Na dan donošenja ovog rješenja na snazi je Zakon o uporabi jezika i pisma nacionalnih manjina u Republici Hrvatskoj ("Narodne novine" broj 51/00., 56/00. - ispravak i 155/02. - članak 43. Ustavnog zakona o pravima nacionalnih manjina; u daljnjem tekstu: ZUJiPNM).
+2. Prijedlog za pokretanje postupka za ocjenu suglasnosti s Ustavom Glave II. ZUJiPNM-a podnijela je Udruga hrvatskih liječnika dragovoljaca 1990.-1991. iz Zagreba, koju zastupa predsjednica Udruge mr. sc. Vesna Bosanac, dr. med., a koju zastupa Antun Babić, odvjetnik u Odvjetničkom društvu Babić & Babić j.t.d. u Vinkovcima (u daljnjem tekstu: predlagateljica).
+2.1. Ustavni sud napominje da je prijedlog predlagateljice za pokretanje postupka za ocjenu suglasnosti s Ustavom Glave II. Ustavnog zakona o pravima nacionalnih manjina ("Narodne novine" broj 155/02., 47/10., 80/10. i 93/11.) izdvojen u poseban predmet koji se vodi pod brojem U-I-1000/2013.
+3. Predlagateljica u prijedlogu navodi da je Glava II. ZUJiPNM-a u nesuglasnosti s člankom 16. Ustava.
+Predlagateljica u tom smislu navodi sljedeće:
+"Zakonom o uporabi jezika i pisma nacionalnih manjina u Republici Hrvatskoj u Glavi II odredbama članka 4. do članka 20. regulirani su uvjeti za ravnopravnu službenu upotrebu jezika i pisma nacionalnih manjina. Niti jednom odredbom Glave II. ovog zakona nisu propisana nikakva ograničenja u svrhu zaštite sloboda i prava ljudi, zaštite pravnog poretka, javnog morala i zdravlja, kako je to propisano odredbom članka 16. Ustava Republike Hrvatske."
+Stoga predlaže pokretanje postupka ocjene ustavnosti osporene Glave II. ZUJiPNM-a.
+Ne postoje pretpostavke za odlučivanje o biti stvari.
+4. Člankom 38. stavkom 1. Ustavnog zakona o Ustavnom sudu Republike Hrvatske ("Narodne novine" broj 99/99., 29/02. i 49/02. - pročišćeni tekst; u daljnjem tekstu: Ustavni zakon) propisano je:
+"Članak 38.
+Svaka fizička i pravna osoba ima pravo predložiti pokretanje postupka za ocjenu suglasnosti zakona s Ustavom ..."
+5. Člankom 32. Ustavnog zakona propisano je:
+"Članak 32.
+Ustavni sud će rješenjem odbaciti zahtjev, prijedlog i ustavnu tužbu ... kad ne postoje pretpostavke za odlučivanje o biti stvari."
+6. Ustavni sud utvrđuje da predlagateljica u prijedlogu nije navela ustavnopravno relevantne razloge zbog kojih bi trebalo pokrenuti postupak za ocjenu suglasnosti s Ustavom osporene Glave II. ZUJiPNM-a. Puko navođenje tvrdnji da neke odredbe nisu u suglasnosti s Ustavom nije dovoljno da bi Ustavni sud mogao ocijeniti postoje li razlozi za pokretanje postupka za ocjenu suglasnosti osporenih odredaba s Ustavom odnosno za odlučivanje o biti stvari. Ustavni sud ne može nagađati o razlozima zbog kojih predlagateljica smatra da osporene odredbe nisu suglasne s Ustavom i zbog kojih predlaže Ustavnom sudu pokrenuti postupak za ocjenu suglasnosti osporenih odredaba s Ustavom. Ti razlozi moraju biti izneseni na precizan i razumljiv način odnosno moraju biti navedeni konkretni razlozi koji u dovoljnoj mjeri ukazuju na sumnju da osporene odredbe nisu u suglasnosti s Ustavom kako bi Ustavni sud mogao procijeniti hoće li pokrenuti postupak za ocjenu suglasnosti osporenih odredaba s Ustavom.
+7. Sukladno navedenom, na temelju članka 32. Ustavnog zakona riješeno je kao u izreci.
