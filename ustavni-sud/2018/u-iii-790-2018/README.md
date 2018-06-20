@@ -1,0 +1,13 @@
+# Odluka Ustavnog suda Republike Hrvatske broj: U-III-790/2018 od 20. lipnja 2018.
+
+- Case: `U-III-790/2018`
+- Proceeding: Ustavna tužba
+- Decision: odluka
+- Decision date: `2018-06-20`
+- Outcome: odbijanje
+- Official database page: <https://sljeme.usud.hr/usud/praksaw.nsf/fOdluka.xsp?action=openDocument&documentId=C12570D30061CE54C12582B20033CDAB>
+- Official DOCX: <https://sljeme.usud.hr/Usud/Praksaw.nsf/C12570D30061CE54C12582B20033CDAB/%24FILE/U-III-790-2018.docx>
+- Official PDF: <https://sljeme.usud.hr/Usud/Praksaw.nsf/C12570D30061CE54C12582B20033CDAB/%24FILE/U-III-790-2018.pdf>
+- Official database page SHA-256: `81a5d158cca39cbb7649c8490f16778d80ef660c2d723b0d4c0e49e536fa27c8`
+
+Metadata-only record: the decision concerns a named person (constitutional complaint and similar proceedings are listed as metadata only in this repository); use the official links above.
