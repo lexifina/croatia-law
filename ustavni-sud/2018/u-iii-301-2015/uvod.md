@@ -1,0 +1,1 @@
+Ustavni sud Republike Hrvatske, u Prvom vijeću za odlučivanje o ustavnim tužbama, u sastavu sudac Branko Brkić, predsjednik Vijeća, te suci Andrej Abramović, Lovorka Kušan, Josip Leko, Davorin Mlakar i Goran Selanec, članovi Vijeća, u postupku koji je ustavnom tužbom pokrenula X. Y. iz M. N., na sjednici održanoj 20. lipnja 2018. jednoglasno je donio
