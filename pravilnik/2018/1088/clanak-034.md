@@ -1,0 +1,5 @@
+## Odjava izvora ionizirajućeg zračenja iz očevidnika koji vodi Zavod
+# Članak 34.
+(1) Ako pravna ili fizička osoba električni uređaj koji proizvodi ionizirajuće zračenje ili radioaktivni izvor prestane koristiti zbog rashoda, skladištenja, pohrane, krađe ili predaje istog drugoj pravnoj ili fizičkoj osobi, obvezna je pisanim putem isti odjaviti iz očevidnika Zavoda u roku od 15 dana od dana njegova rashoda, skladištenja, pohrane, krađe ili predaje drugoj pravnoj ili fizičkoj osobi.
+(2) Ako pravna ili fizička osoba električni uređaj koji proizvodi ionizirajuće zračenje ili radioaktivni izvor premjesti radi korištenja u drugoj prostoriji i/ili na drugoj lokaciji obvezna je pisanim putem isti odjaviti iz očevidnika Zavoda u roku od 15 dana od dana njegova premještanja te ga ponovno prijaviti sukladno članku 32. i/ili članku 33. ovoga Pravilnika.
+(3) Zavod će po zaprimljenoj obavijesti iz stavka 1. i stavka 2. ovoga članka o odjavi električnog uređaja koji proizvodi ionizirajuće zračenje ili radioaktivnog izvora iz očevidnika, podatke o odjavi istih unijeti u očevidnik koji vodi Zavod i izdati potvrdu o tome.

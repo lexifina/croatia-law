@@ -1,0 +1,6 @@
+## IV. OBAVIJEST O NAMJERI OBAVLJANJA DJELATNOSTI S IZVORIMA IONIZIRAJUĆEG ZRAČENJA
+## Obveza dostavljanja obavijesti o namjeri
+# Članak 9.
+(1) Svaka pravna ili fizička osoba koja namjerava obavljati radnu aktivnost iz Priloga 2. točke A pravilnika kojim se propisuje praćenje stanja radioaktivnosti u okolišu, opravdanu djelatnost s izvorima ionizirajućeg zračenja ili posjedovati izvor ionizirajućeg zračenja obvezna je mjesec dana prije planiranog početka obavljanja radne aktivnosti, djelatnosti s izvorima ionizirajućeg zračenja ili posjedovanja izvora ionizirajućeg zračenja Zavodu dostaviti obavijest o namjeri u pisanom obliku.
+(2) Pravna ili fizička osoba koja na dan stupanja na snagu ovoga Pravilnika obavlja radnu aktivnost, djelatnost s izvorima ionizirajućeg zračenja ili posjeduje izvor ionizirajućeg zračenja a koja nije izuzeta od obveze dostavljanja obavijesti o namjeri, obvezna je Zavodu dostaviti obavijest o namjeri u roku od šest mjeseci od dana stupanja na snagu pravilnika iz stavka 1. ovoga članka.
+(3) Od obveza propisanih u stavku 1. i stavku 2. ovoga članka izuzete su pravne ili fizičke osobe koje namjeravaju obavljati djelatnosti navedene u člancima 12. i 14. ovoga Pravilnika.

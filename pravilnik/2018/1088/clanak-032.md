@@ -1,0 +1,10 @@
+## VIII. PRIJAVA IZVORA IONIZIRAJUĆEG ZRAČENJA I UPIS U OČEVIDNIK KOJI VODI ZAVOD TE ODJAVA
+## Prijava električnih uređaja koji proizvode ionizirajuće zračenje
+# Članak 32.
+(1) Prijava električnih uređaja koji proizvodi ionizirajuće zračenje, osim uređaja iz stavka 3. i stavka 5. ovoga članka za upis u očevidnik izvora ionizirajućeg zračenja prijavljuje se dostavom podataka navedenih na obrascu iz Priloga 2. ovoga Pravilnika koji je njegov sastavni dio.
+(2) Uz prijavu električnog uređaja koji proizvodi ionizirajuće zračenje potrebno je priložiti izvješće ovlaštenog stručnog tehničkog servisa o ispitivanju prostorije u kojoj će se navedeni uređaj koristiti s mišljenjem o udovoljavanju uvjetima zaštite od ionizirajućeg zračenja za tu prostoriju.
+(3) Prijava rendgenskog uređaja za kompjutoriziranu tomografiju za upis u očevidnik izvora ionizirajućeg zračenja prijavljuje se dostavom podataka navedenih na obrascu iz Priloga 3. ovoga Pravilnika koji je njegov sastavni dio.
+(4) Uz prijavu rendgenskog uređaja za kompjutoriziranu tomografiju iz stavka 3. ovoga članka potrebno je priložiti i izvješće ovlaštenog stručnog tehničkog servisa o ispitivanju prostorije u kojoj će se rendgenski uređaj za kompjutoriziranu tomografiju koristiti s mišljenjem o udovoljavanju uvjetima zaštite od ionizirajućeg zračenja za tu prostoriju.
+(5) Prijava akceleratora koji se koristi se za terapiju u medicini za upis u očevidnik izvora ionizirajućeg zračenja, prijavljuje se dostavom podataka navedenih na obrascu iz Priloga 4. ovoga Pravilnika koji je njegov sastavni dio.
+(6) Uz prijavu akceleratora iz stavka 5. ovoga članka potrebno je priložiti izvješće ovlaštenog stručnog tehničkog servisa o ispitivanju prostorije u kojoj će se navedeni akcelerator koristiti s mišljenjem o udovoljavanju uvjetima zaštite od ionizirajućeg zračenja za tu prostoriju.
+(7) Zavod će po primitku popunjenoga obrasca iz stavka 1., stavka 3. i/ili stavka 5. ovoga članka te dokumenata iz stavka 2. stavka 4. i/ili stavka 6. izvršiti upis rendgenskog uređaja i /ili akceleratora u očevidnik izvora ionizirajućeg zračenja, pridijeliti mu evidencijski broj i izdati potvrdu o upisu.

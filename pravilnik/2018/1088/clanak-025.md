@@ -1,0 +1,3 @@
+# Članak 25.
+(1) U slučaju izmjena činjenica i okolnosti pod kojima je izdano rješenje o registraciji ili odobrenje za obavljanje djelatnosti s izvorima ionizirajućeg zračenja, nositelj rješenja o registraciji i/ili nositelj odobrenja obvezan je o tome u pisanom obliku obavijestiti Zavod u roku od 15 dana od dana nastanka promjena.
+(2) Zavod će po zaprimljenoj obavijesti iz stavka 1. ovoga članka utvrditi činjenično stanje i donijeti odluku o daljnjem postupanju nositelja rješenja o registraciji odnosno nositelja odobrenja za djelatnost i o tome obavijestiti nositelja rješenja i /ili nositelja odobrenja pisanim putem u roku od 15 dana.

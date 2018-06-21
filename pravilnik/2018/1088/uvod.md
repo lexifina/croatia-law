@@ -1,0 +1,1 @@
+Na temelju članka 8a. stavka 3., članka 9. stavka 3., stavka 6. i stavka 12., članka 11. stavka 1., članka 21. stavka 3. i stavka 6. i članka 37. stavka 4. Zakona o radiološkoj i nuklearnoj sigurnosti (»Narodne novine«, br. 141/13, 39/15 i 130/17), ravnatelj Državnog zavoda za radiološku i nuklearnu sigurnost donosi
