@@ -1,0 +1,4 @@
+## Odgovornost za uznemiravanje i spolno uznemiravanje
+# Članak 50.
+1. U slučaju ustanovljenja uznemiravanja, ravnatelj je obvezan protiv zaposlenika koji uznemirava ili spolno uznemirava drugog zaposlenika, ili je to činio, pokrenuti postupak otkazivanja ugovora o radu.
+2. U slučaju ustanovljenja uznemiravanja ili spolnog uznemiravanja učinjenog od strane ravnatelja, upravno vijeće pokrenut će postupak razrješenja ravnatelja.

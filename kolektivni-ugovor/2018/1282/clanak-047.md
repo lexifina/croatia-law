@@ -1,0 +1,4 @@
+# Članak 47.
+1. Podaci o osobi ovlaštenoj za primanje i rješavanje pritužbi vezanih uz zaštitu dostojanstva iz članka 46. ovoga Ugovora objavljuju se na vidnom mjestu u ustanovi, a uključuju ime i prezime, broj telefona i telefaksa te e-adresu ovlaštene osobe.
+2. Ravnatelj ustanove dužan je upozoriti voditelja dislocirane ustrojstvene jedinice ustanove s više od 20 zaposlenih na obvezu imenovanja ovlaštene osobe, kao i na obvezu dostave podataka o ovlaštenoj osobi.
+3. Poslodavac je dužan ovlaštenoj osobi osigurati zaprimanje pritužbi na način i u uvjetima kojima se neće ugroziti privatnost osobe koja podnosi pritužbu, što razumijeva mogućnost korištenja posebne prostorije u sjedištu poslodavca tijekom cijelog ili u dijelu radnog vremena, a ako je to potrebno omogućit će mu se i izlazak iz sjedišta poslodavca radi zaprimanja pritužbe.
