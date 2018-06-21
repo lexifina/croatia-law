@@ -1,0 +1,1 @@
+Na temelju članka 22. i članka 42. stavka 3. točke 14. Zakona o Hrvatskoj narodnoj banci (»Narodne novine«, br. 75/2008. i 54/2013.) Savjet Hrvatske narodne banke na sjednici održanoj 13. lipnja 2018. donio je
