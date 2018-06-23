@@ -1,0 +1,1 @@
+Na temelju članka 125.a stavka 3. Pomorskog zakonika (»Narodne novine« broj 181/2004, 76/2007, 146/2008, 61/2011, 56/2013 i 26/2015) ministar mora, prometa i infrastrukture uz suglasnost ministra rada i mirovinskoga sustava donosi
