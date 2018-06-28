@@ -1,0 +1,2 @@
+# Članak 13.
+U članku 55. riječi: »korisnika zajamčene minimalne naknade« zamjenjuju se riječima: » hrvatskog branitelja iz Domovinskog rata ili korisnika obiteljske invalidnine koji je korisnik novčane naknade za nezaposlene hrvatske branitelje iz Domovinskog rata i članove njihovih obitelji ostvarene prema propisu kojim se uređuju prava hrvatskih branitelja i članova njihovih obitelji ili zajamčene minimalne naknade«.

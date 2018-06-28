@@ -1,0 +1,5 @@
+# Članak 9.
+Članak 25. mijenja se i glasi:
+»(1) Nalaz i mišljenje o činjenicama iz članka 2. stavka 1. točke b) ove Uredbe u prvostupanjskom upravnom postupku daje vijeće vještaka po pisanom zahtjevu prvostupanjskog tijela i vijeće viših vještaka u postupku revizije nalaza i mišljenja vijeća vještaka nakon donesenog nalaza i mišljenja vijeća vještaka, a prije donošenja prvostupanjskog rješenja prema propisu o hrvatskim braniteljima iz Domovinskog rata i članovima njihovih obitelji.
+(2) Nalaz i mišljenje o činjenicama iz članka 2. stavka 1. točke b) ove Uredbe u drugostupanjskom upravnom postupku prema propisu o hrvatskim braniteljima iz Domovinskog rata i članovima njihovih obitelji daje vijeće viših vještaka po pisanom zahtjevu ministarstva nadležnog za hrvatske branitelje.
+(3) Nalaz i mišljenje o činjenicama iz članka 2. stavka 1. točke c) ove Uredbe u prvostupanjskom upravnom postupku daje vijeće vještaka po pisanom zahtjevu prvostupanjskog tijela, a u drugostupanjskom upravnom postupku i u postupku revizije prema propisima o zaštiti vojnih i civilnih invalida rata vijeće viših vještaka po pisanom zahtjevu ministarstva nadležnog za hrvatske branitelje.«.

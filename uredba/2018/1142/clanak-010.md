@@ -1,0 +1,11 @@
+# Članak 10.
+U članku 26. stavci 3., 4. i 5. mijenjaju se i glase:
+»(3) U prvostupanjskim i drugostupanjskim postupcima prema propisu o hrvatskim braniteljima iz Domovinskog rata i članovima njihovih obitelji, vijeća vještaka iz članka 25. ove Uredbe daju nalaz i mišljenje na osnovi medicinske i druge dokumentacije koja se nalazi u dostavljenom spisu upravnog predmeta te stručne procjene ovlaštene zdravstvene ustanove o uzroku oštećenja organizma radi ostvarivanja statusa HRVI po osnovi bolesti, pogoršanja bolesti odnosno pojave bolesti kao posljedice sudjelovanja u obrani suvereniteta Republike Hrvatske.
+(4) U prvostupanjskim i drugostupanjskim postupcima prema propisu o zaštiti vojnih i civilnih invalida rata vijeća vještaka iz članka 25. ove Uredbe daju nalaz i mišljenje na osnovi medicinske i druge dokumentacije koja se nalazi u dostavljenom spisu upravnog predmeta.
+(5) U prvostupanjskom postupku prema propisu o hrvatskim braniteljima iz Domovinskog rata i članovima njihovih obitelji vijeće vještaka donosi nalaz i mišljenje isključivo nakon neposrednog pregleda hrvatskog branitelja iz Domovinskog rata ili HRVI, osim u postupku utvrđivanja činjenica o uzroku smrti hrvatskog branitelja iz Domovinskog rata radi ostvarivanja statusa člana obitelji smrtno stradalog hrvatskog branitelja iz Domovinskog rata.«.
+Iza stavka 5. dodaju se stavci 6. i 7. koji glase:
+»(6) U prvostupanjskom postupku prema propisu o hrvatskim braniteljima iz Domovinskog rata i članovima njihovih obitelji vijeće viših vještaka prilikom obavljanja revizije nalaza i mišljenja vijeća vještaka donosi nalaz i mišljenje isključivo nakon neposrednog pregleda hrvatskog branitelja iz Domovinskog rata ili HRVI odnosno nakon neposrednog vještačenja u kojem sudjeluje stranka u sljedećim slučajevima:
+a) kada je vijeće vještaka oštećenje organizma ocijenilo sa 100% do 80%
+b) u postupku ostvarivanja prava na doplatak za njegu i pomoć druge osobe ili
+c) kada vijeće viših vještaka ocijeni da je neposredan pregled potreban.
+(7) U prvostupanjskim postupcima prema propisu o zaštiti vojnih i civilnih invalida rata vijeće vještaka daje nalaz i mišljenje nakon obveznog osobnog pregleda, odnosno uz sudjelovanje osobe koja se vještači.«.
