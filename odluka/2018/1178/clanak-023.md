@@ -1,0 +1,24 @@
+## Visokorizične treće države i ostale visokorizične okolnosti
+# Članak 23.
+(1) Kada je stranka iz visokorizične treće države i u svim drugim visokorizičnim situacijama, društvo je dužno internom politikom propisati mjere pojačane dubinske analize primjerene za određenu visokorizičnu situaciju, uzimajući u obzir one koje su propisane Zakonom i Odlukom, te ih dosljedno primjenjivati.
+(2) Kada je stranka iz visokorizične treće države, društvo je dužno najmanje primijeniti mjere iz članka 49. Zakona.
+(3) Primjerena vrsta pojačane dubinske analize, uključujući opseg traženih dodatnih informacija i pojačano praćenje poslovnog odnosa, treba ovisiti o razlogu zbog kojeg je određena povremena transakcija ili određeni poslovni odnos kategoriziran kao visokorizičan.
+(4) Pri određivanju mjera pojačane dubinske analize iz stavka 1. ovog članka društvo je dužno razmotriti:
+1) povećanje količine informacija koje se prikupljaju za potrebe dubinske analize:
+a) informacije o identitetu stranke i stvarnog vlasnika stranke ili strukturi vlasništva i kontrole stranke kako bi društvo bilo sigurno da dobro razumije rizik povezan s poslovnim odnosom. Povećanje količine informacija može uključiti prikupljanje i procjenu informacija o ugledu stranke ili stvarnog vlasnika stranke te procjenu bilo kakvih negativnih navoda protiv stranke ili stvarnog vlasnika stranke, primjerice:
+- informacije o članovima obitelji i bliskim poslovnim partnerima,
+- informacije o prošlim i postojećim poslovnim aktivnostima stranke ili stvarnog vlasnika stranke i
+- pretraživanje nepovoljnih navoda iz medija
+b) informacije o predviđenoj prirodi poslovnog odnosa kako bi društvo moglo utvrditi da su priroda i svrha poslovnog odnosa zakonite i kako bi moglo izraditi potpuniji profil rizičnosti stranke, primjerice:
+- broj, veličina ili dinamika provedbe očekivanih transakcija po računu, kako bi društvo moglo uočiti odstupanja koja mogu izazvati sumnju. U određenim slučajevima može biti primjereno tražiti dokaz i dokumentaciju od stranke.
+- razlog zbog kojeg stranka traži određeni proizvod ili uslugu, osobito kada je nejasno zbog čega se potrebama stranke ne može bolje udovoljiti na drugačiji način ili u drugoj državi
+- odredište sredstava ili
+- priroda poslovanja stranke ili stvarnog vlasnika stranke, kako bi društvo lakše razumjelo vjerojatnu prirodu poslovnog odnosa
+2) povećanje kvalitete informacija koje se prikupljaju za potrebe provedbe dubinske analize stranke kako bi se potvrdio identitet stranke ili stvarnog vlasnika stranke, uključujući:
+a) postavljanje zahtjeva da se prvo plaćanje provede preko računa otvorenog u ime stranke kod kreditne institucije u državi članici ili trećoj državi koja primjenjuje mjere jednake ili jednakovrijedne onima navedenima u poglavlju II. Direktive (EU) 2015/849 ili
+b) provjeru da imovina stranke i sredstva koja se upotrebljavaju u poslovnom odnosu ne potječu od kaznenih djela te da su izvor imovine i izvor sredstava u skladu sa saznanjima društva o stranci i prirodi poslovnog odnosa. U određenim slučajevima, kada je rizik koji je povezan s poslovnim odnosom posebno visok, provjera izvora imovine i izvora sredstava može biti jedina primjerena mjera za ublažavanje rizika. Izvor sredstava ili imovine moguće je provjeriti, primjerice usporedbom s prijavom PDV-a i poreza na dobit, kopijama revidiranih izvještaja, platnim listama, javnim ispravama ili medijskim napisima.
+3) povećanje učestalosti praćenja kako bi društvo bilo sigurno da može upravljati rizikom povezanim s pojedinačnim poslovnim odnosom ili može zaključiti da poslovni odnos više ne odgovara sklonosti društva za preuzimanje rizika te kako bi moglo identificirati transakcije koje zahtijevaju daljnji pregled, uključujući:
+a) dobivanje suglasnosti višeg rukovodstva za uspostavljanje ili nastavak poslovnog odnosa kako bi se osiguralo da više rukovodstvo bude svjesno rizika kojemu je društvo izloženo i da može donijeti odluku o mjeri u kojoj je u mogućnosti upravljati tim rizikom
+b) provedbu učestalijih revidiranja poslovnog odnosa kako bi se osiguralo da se bilo koje promjene u profilu rizičnosti stranke identificiraju te procijene mogućnosti društva da i nadalje upravlja tim rizikom i po potrebi poduzmu potrebne mjere ili
+c) provedbu učestalijih ili detaljnijih praćenja transakcija kako bi se identificirale sve neobične ili neočekivane transakcije koje mogu izazvati sumnju na rizik od pranja novca i/ili financiranja terorizma. Praćenje transakcija po potrebi može uključivati utvrđivanje odredišta sredstava ili razloga za provedbu određenih transakcija.
+(5) Društvo nije dužno u svim slučajevima iz stavka 1. ovoga članka primijeniti sve mjere pojačane dubinske analize iz stavka 4. ovoga članka. U određenim situacijama visokog rizika može biti dostatno usredotočiti se na pojačano kontinuirano praćenje tijekom trajanja poslovnog odnosa.

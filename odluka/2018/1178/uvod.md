@@ -1,0 +1,1 @@
+Na temelju članka 14. stavka 11. i članka 42. stavka 1. Zakona o sprječavanju pranja novca i financiranja terorizma (»Narodne novine«, br. 108/2017.) i članka 43. stavka 2. točke 9. Zakona o Hrvatskoj narodnoj banci (»Narodne novine«, br. 75/2008. i 54/2013.) guverner Hrvatske narodne banke donosi
