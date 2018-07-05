@@ -1,0 +1,3 @@
+# Članak 9.
+(1) Nadzor nad provedbom Uredbe (EU) br. 2016/1011 i ovoga Zakona, sukladno podjeli nadležnosti iz članka 4. ovoga Zakona, obavlja HNB, sukladno odredbama Uredbe (EU) br. 2016/1011, ovoga Zakona i zakona kojim je uređeno osnivanje i poslovanje kreditnih institucija i potrošačkog kreditiranja u Republici Hrvatskoj.
+(2) Na nadzor iz stavka 1. ovoga članka na odgovarajući se način primjenjuju odredbe Uredbe (EU) br. 2016/1011 o provođenju nadzora odnosno odredbe kojima se uređuje supervizija od strane HNB-a iz zakona kojim je uređeno osnivanje i poslovanje kreditnih institucija u Republici Hrvatskoj.
