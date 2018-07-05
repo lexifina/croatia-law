@@ -1,0 +1,1 @@
+Odluka o kriterijima i načinima za stambeno zbrinjavanje stanovnika zgrada i uklanjanje ostataka porušenih obiteljskih kuća i drugih stambenih zgrada koje su uništene ili oštećene zbog klizanja tla na području Hrvatske Kostajnice i drugih područja u Republici Hrvatskoj

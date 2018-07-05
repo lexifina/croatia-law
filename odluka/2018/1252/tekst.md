@@ -1,0 +1,26 @@
+I.
+Ovom se Odlukom utvrđuju kriteriji i načini stambenog zbrinjavanja stanovnika zgrada i uklanjanje ostataka porušenih obiteljskih kuća i drugih stambenih zgrada koje su uništene ili oštećene zbog klizanja tla na području Hrvatske Kostajnice i drugih područja u Republici Hrvatskoj, u kojima su stanovnici pretrpjeli veliku materijalnu štetu, a u svrhu provedbe Zaključka Vlade Republike Hrvatske, klase: 022-03/18-07/106, urbroja: 50301-27/25-18-1, od 15. ožujka 2018. godine, kojim je određeno stambeno zbrinjavanje i uklanjanje ostataka porušenih obiteljskih kuća i drugih stambenih zgrada sredstvima državnog proračuna Republike Hrvatske.
+II.
+(1) Na temelju ove Odluke zbrinjavaju se stanovnici porušenih ili oštećenih obiteljskih kuća i drugih stambenih zgrada (u daljnjem tekstu: zgrade) iz točke I. ove Odluke koje se nalaze na područjima županija koje su Odlukom o razvrstavanju jedinica lokalne i područne (regionalne) samouprave prema stupnju razvijenosti (»Narodne novine«, broj 132/17) razvrstane prema indeksu razvijenosti u skupine od 1. do 3.
+(2) Na temelju ove Odluke zbrinjavaju se stanovnici kojima su zbog klizanja tla uništene ili oštećene zgrade koje se prema odredbama Zakona o gradnji (»Narodne novine«, br. 153/13 i 20/17) smatraju postojećima i zgrada za koje je u propisanom roku podnesen zahtjev za ozakonjenje prema posebnom zakonu, a u kojima su stanovnici na dan pojave oštećenja zgrada klizanjem tla imali prijavljeno prebivalište, prijavljeno boravište ili su u njima do nastanka oštećenja stanovali.
+III.
+(1) Stanovnici zgrada iz točke II. ove Odluke koji su vlasnici tih zgrada ili članovi kućanstva vlasnika te zgrade zbrinjavaju se u trenutnom privremenom smještaju, ili na području jedinice lokalne samouprave u kojoj se nalazi uništena ili oštećena zgrada:
+− obnovom oštećenih zgrada čiji je popravak moguć i isplativ, ako se nalaze na zemljištu koje je stabilizirano
+− darovanjem vlasniku zgrade druge useljive zgrade, odnosno stana u vlasništvu Republike Hrvatske, ako je zgrada uništena, ako popravak zgrade nije moguć ili isplativ ili ako se oštećena zgrada nalazi na zemljištu koje nije stabilizirano, u skladu s raspoloživim stambenim fondom kojim raspolaže Republika Hrvatska
+− darovanjem vlasniku zgrade druge zgrade, odnosno stana koju Republika Hrvatska u ovu svrhu kupi ili izgradi, ako je zgrada uništena, ako popravak zgrade nije moguć ili isplativ ili ako se oštećena zgrada nalazi na zemljištu koje nije stabilizirano, samo ako nije moguće zbrinjavanje prema redoslijedu iz podstavaka 1. i 2. ove točke.
+(2) Ako stanovnici zgrada iz točke II. ove Odluke ne prihvate smještaj u raspoloživim stambenim jedinicama koje su useljive i odgovarajuće stambene površine, smatra se da su zbrinuti na drugi način.
+(3) Stanovnici zgrada iz točke II. ove Odluke koji nisu vlasnici tih zgrada ili članovi kućanstva vlasnika te zgrade, a u toj zgradi stanuju na temelju ugovora o najmu zbrinjavaju se pronalaženjem druge zgrade, odnosno stana u vlasništvu Republike Hrvatske ili druge osobe, za čije korištenje mogu sklopiti ugovor o najmu.
+(4) Darovane zgrade, odnosno stanovi, trebaju biti opremljeni s nužnom opremom za stanovanje.
+IV.
+(1) Pravne i administrativne poslove vezane uz zbrinjavanje stanovnika na način iz točke III. stavka 1. podstavaka 1. i 3. ove Odluke obavlja Ministarstvo graditeljstva i prostornoga uređenja te Agencija za pravni promet i posredovanje nekretninama.
+(2) Pravne i administrativne poslove vezane uz uklanjanje ostataka porušenih obiteljskih kuća i drugih stambenih zgrada koje su uništene ili oštećene obavlja Ministarstvo graditeljstva i prostornoga uređenja te Agencija za pravni promet i posredovanje nekretninama.
+(3) Pravne i administrativne poslove vezane uz zbrinjavanje stanovnika na način iz točke III. stavka 1. podstavka 2. i stavka 3. ove Odluke obavlja Središnji državni ured za obnovu i stambeno zbrinjavanje.
+V.
+(1) Zbrinjavanje stanovnika i uklanjanje ostataka porušenih zgrada provodi se u skladu s programom zbrinjavanja kojeg, na prijedlog Ministarstva graditeljstva i prostornoga uređenja i Središnjeg državnog ureda za obnovu i stambeno zbrinjavanje, donosi Vlada Republike Hrvatske.
+(2) Program zbrinjavanja iz stavka 1. ove točke izrađuje se u skladu s kriterijima određenim ovom Odlukom, raspoloživim sredstvima državnog proračuna i drugim sredstvima, nakon utvrđivanja činjeničnog stanja i procjene šteta.
+VI.
+(1) Središnji državni ured za obnovu i stambeno zbrinjavanje privremeno će smjestiti stanovnike obiteljskih kuća i drugih stambenih zgrada koje su uništene ili oštećene zbog klizanja tla na području Hrvatske Kostajnice i drugih područja u Republici Hrvatskoj u kojima su stanovnici pretrpjeli veliku materijalnu štetu, u skladu s raspoloživim stambenim jedinicama u vlasništvu Republike Hrvatske.
+(2) Do trajnog zbrinjavanja stanovnika obiteljskih kuća i drugih stambenih zgrada iz točke I. ove Odluke, troškove korištenja privremenog smještaja, odnosno stanova snosi Središnji državni ured za obnovu i stambeno zbrinjavanje.
+(3) Privremeni smještaj može trajati do stjecanja uvjeta za trajno stambeno zbrinjavanje po ovoj Odluci ili stjecanja vlasništva druge useljive stambene jedinice.
+VII.
+Ova Odluka stupa na snagu danom donošenja, a objavit će se u »Narodnim novinama«.
