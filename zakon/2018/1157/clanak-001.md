@@ -1,0 +1,7 @@
+# Članak 1.
+U Zakonu o društveno poticanoj stanogradnji (»Narodne novine«, br. 109/01., 82/04., 76/07., 38/09., 86/12., 7/13. i 26/15.) članak 4. mijenja se i glasi:
+»(1) Republika Hrvatska za poticanje stanogradnje prema ovome Zakonu osigurava financijska sredstva u državnom proračunu na glavi Agencije za pravni promet i posredovanje nekretninama (u daljnjem tekstu: APN) koja se doznačuju nositeljima investitorskih poslova.
+(2) APN će sredstva iz stavka 1. ovoga članka doznačiti javnoj ustanovi ako su ispunjeni uvjeti iz članka 10.a stavka 5. i članka 29. stavaka 5., 6. i 7. ovoga Zakona.
+(3) Dio sredstava za namjenu iz stavka 1. ovoga članka osigurava se i povratima prije danih kredita i prihodima od najma. Ova sredstva APN i javne ustanove uplaćuju tromjesečno u državni proračun i namjenski su prihod APN-a.
+(4) Uz financijska sredstva iz stavka 1. ovoga članka, Republika Hrvatska može za izgradnju stanova osigurati i građevinsko zemljište, opremu za stanovanje i druga sredstva, posebice radi rješavanja stambenih potreba djelatnih vojnih osoba, policijskih službenika te drugih državnih i javnih službenika i namještenika, i u kojem slučaju o kupnji i načinu korištenja tih stanova, odnosno prvenstvu na kupnju stana odlučuje Vlada Republike Hrvatske ili od nje ovlašteno tijelo ili osoba.
+(5) U pogledu sredstava za izgradnju stanova iz stavka 3. ovoga članka na odgovarajući način primjenjuju se odredbe ovoga Zakona koje se odnose na javna sredstva jedinice lokalne samouprave.«.
