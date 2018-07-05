@@ -1,0 +1,4 @@
+# Članak 1.
+U Pravilniku o unutarnjem redu željezničkog sustava (»Narodne novine«, broj 95/17) mijenja se članak 1. i glasi:
+»(1) Ovim Pravilnikom propisuje se način provedbe unutarnjeg reda u željezničkom sustavu, pravila pristupa i zadržavanja u pružnom pojasu i u vlakovima, obveze upravitelja infrastrukture vezano za održavanje unutarnjeg reda u pružnom pojasu i obveze željezničkih prijevoznika vezano za održavanje unutarnjeg reda u vlakovima, ovlasti radnika za provedbu unutarnjeg reda i sadržaj iskaznice i vođenje evidencije o iskaznicama ovlaštenih radnika.
+(2) Unutarnji red željezničkog sustava obuhvaća sigurno i uredno obavljanje željezničkog prometa, očuvanje sigurnosti putnika, korisnika prijevoza, trećih osoba, robe i željezničke imovine na području željezničke infrastrukture, vlakova i vozila željezničkih prijevoznika te načine postupanja, prava, obveze i ovlasti radnika na željeznici, upravitelja željezničke infrastrukture i željezničkih prijevoznika.«
