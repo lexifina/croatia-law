@@ -1,0 +1,1 @@
+Odluka o utvrđivanju Nacionalne i sveučilišne knjižnice u Zagrebu jednim od središnjih prostora za provedbu aktivnosti Predsjedanja Republike Hrvatske Vijećem Europske unije 2020 u Republici Hrvatskoj
