@@ -1,0 +1,3 @@
+## Ovlaštenje za donošenje propisa sadržano u carinskom zakonodavstvu donesenom na razini Unije
+# Članak 2.
+Ovim se Zakonom osigurava provedba članka 18. stavka 3. Uredbe (EU) br. 952/2013 Europskog parlamenta i Vijeća od 9. listopada 2013. o Carinskom zakoniku Unije (SL L 269, 10. 10. 2013.), kako je posljednji put izmijenjena Uredbom (EU) 2016/2339 Europskog parlamenta i Vijeća od 14. prosinca 2016. o izmjeni Uredbe (EU) br. 952/2013 o Carinskom zakoniku Unije, u pogledu robe koja je privremeno napustila carinsko područje Unije morem ili zrakom (SL L 354, 23. 12. 2016.) (u daljnjem tekstu: Uredba (EU) br. 952/2013).

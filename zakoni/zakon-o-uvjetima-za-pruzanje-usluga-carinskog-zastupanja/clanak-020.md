@@ -1,0 +1,11 @@
+## Mogućnost zakupa poslovnog prostora u vlasništvu Republike Hrvatske na lokaciji graničnog prijelaza neposrednom pogodbom
+# Članak 20.
+(1) Iznimno od članka 19. stavka 2. ovoga Zakona, u slučaju nastupa opravdanih okolnosti u kojima je nužno osigurati djelatno uredovanje graničnih službi i kontinuirano pružanje usluge carinskog zastupanja na određenom graničnom prijelazu i ako je to razmjerno svrsi koja se želi postići, postupak zasnivanja zakupa ministarstvo nadležno za financije može provesti bez javnog natječaja, neposrednom pogodbom, uz obvezu ispunjenja uvjeta iz članka 19. stavka 7. ovoga Zakona.
+(2) Smatra se da su opravdane okolnosti iz stavka 1. ovoga članka nastupile osobito u slučaju:
+1. ako postupak javnog natječaja još nije okončan
+2. ako u okončanom javnom natječaju nije bila podnijeta niti jedna prijava odnosno među podnesenim prijavama nije bila niti jedna uredna prijava sukladno uvjetima javnog natječaja
+3. ako carinski otpremnik ne započne s pružanjem usluga carinskog zastupanja na lokaciji graničnog prijelaza u roku iz članka 19. stavka 7. točke 1. ovoga Zakona
+4. drugih objektivnih okolnosti koje bitno utječu na djelatno uredovanje graničnih službi i kontinuirano pružanje usluge carinskog zastupanja na određenom graničnom prijelazu (otkaz ugovora o zakupu poslovnog prostora u vlasništvu Republike Hrvatske na lokaciji odnosnoga graničnog prijelaza, zakupnik poslovnog prostora u vlasništvu Republike Hrvatske na lokaciji odnosnoga graničnog prijelaza prestane obavljati djelatnost pružanja usluga carinskog zastupanja i sl.)
+5. promjene kategorije graničnog prijelaza koja uz uredovanje graničnih službi zahtijeva kontinuirano pružanje usluge carinskog zastupanja ili većeg poremećaja u prekograničnom prometu ili objektivnih nemogućnosti ili većih poteškoća u provedbi carinsko-sigurnosnih mjera ili provedbi carinskih formalnosti s mogućim štetnim posljedicama za javnopravne i/ili gospodarske interese i probitke.
+(3) U slučaju neposredne pogodbe, razdoblje zasnivanja zakupa određuje se ovisno o okolnostima iz stavka 2. ovoga članka, ali najduže za razdoblje do jedne godine.
+(4) Izborom u postupku neposredne pogodbe izabrana osoba ne stječe prednost u odnosu na ostale sudionike u provedbi javnog natječaja za određeni granični prijelaz.
