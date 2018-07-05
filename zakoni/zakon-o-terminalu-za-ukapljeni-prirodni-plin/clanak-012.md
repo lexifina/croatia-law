@@ -1,0 +1,8 @@
+## Preventivne mjere za sigurnost opskrbe
+# Članak 12.
+(1) Sukladno Uredbi (EU) 2017/1938 Europskog parlamenta i Vijeća od 25. listopada 2017. o mjerama zaštite sigurnosti opskrbe plinom i stavljanjem izvan snage Uredbe (EU) br. 994/2010 (Tekst značajan za EGP) preventivne mjere za sigurnost opskrbe uključuju i mjere diversifikacije putova i izvora opskrbe prirodnim plinom.
+(2) Realizacija projekta terminala za UPP na otoku Krku identificirana je kao glavna mjera diversifikacije putova i izvora opskrbe prirodnim plinom.
+(3) Radi osiguranja mjere iz stavka 2. ovoga članka Agencija može odlukom odrediti visinu i način prikupljanja naknade za sigurnost opskrbe prema zahtjevu operatora transportnog sustava, a nastavno na prijedlog operatora terminala za UPP.
+(4) Operator terminala za UPP upućuje prijedlog naknade iz stavka 3. ovoga članka operatoru transportnog sustava do 15. studenoga tekuće godine na temelju plana poslovanja za iduću godinu u slučaju da je zbog zakupa kapaciteta terminala za UPP nižeg od planiranog, očekivani prihod operatora terminala za UPP niži od planiranog dozvoljenog prihoda određenog odlukom Agencije o iznosima tarifnih stavki za prihvat i otpremu UPP-a koja se donosi sukladno propisu kojim se uređuje tržište plina.
+(5) Visinu naknade iz stavka 3. ovoga članka utvrđuje Agencija na godišnjoj razini, prema zahtjevu operatora transportnog sustava, a na temelju prijedloga operatora terminala za UPP iz stavka 4. ovoga članka, odlukom do 15. prosinca tekuće godine za iduću godinu.
+(6) Operator transportnog sustava prikuplja naknadu za sigurnost opskrbe te je isplaćuje u korist operatora terminala za UPP.
