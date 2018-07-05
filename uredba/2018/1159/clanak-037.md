@@ -1,0 +1,2 @@
+# Članak 37.
+Korisnici stambenog kredita za kupnju stana ili kuće u organiziranoj izgradnji odnosno za kupnju korištenog stana koji su sklopili ugovor o zaštićenom najmu na određeni rok temeljem Uredbe o stambenom zbrinjavanju članova obitelji smrtno stradaloga, zatočenoga ili nestaloga hrvatskog branitelja iz Domovinskog rata, hrvatskih ratnih vojnih invalida iz Domovinskog rata i dragovoljaca iz Domovinskog rata (»Narodne novine«, broj 78/13) nakon isteka ugovorenog roka, mogu zaključiti ugovor o najmu sukladno članku 23. ove Uredbe.

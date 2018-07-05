@@ -1,0 +1,2 @@
+# Članak 27.
+Osobi kojoj je odobren stambeni kredit za namjene iz članka 85. stavka 4. Zakona, a koja je korisnik stana u vlasništvu Republike Hrvatske ili jedinica lokalne samouprave ili druge pravne osobe, mora vratiti stan najkasnije u roku od godine dana od sklapanja ugovora o stambenom kreditu osim u slučaju dodjele stambenog kredita za kupnju stana u organiziranoj stambenoj izgradnji kada se taj rok računa od dana preuzimanja stana.

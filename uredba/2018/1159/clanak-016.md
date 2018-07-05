@@ -1,0 +1,3 @@
+# Članak 16.
+(1) Iznos financijske potpore (FP) za kupnju stana ili kuće, izgradnju kuće te za razliku u površini između stambene površine koju koristi i odgovarajuće stambene površine koja mu pripada za osobe iz članaka 3. ove Uredbe određuje se kao umnožak vrijednosti etalonske cijene građenja (E), odgovarajuće površine stana (P) iz članka 90. stavaka 1. i 2. Zakona i postotka tjelesnog oštećenja (O) po izračunu: FP=E×P×O.
+(2) Prilikom izračuna financijske potpore za nastavak izgradnje i dovršenje kuće umjesto etalonske cijene građenja uzima se visina kategorije potrebnih radova iz članka 14. ove Uredbe, a za izračun financijske potpore za poboljšanje uvjeta stanovanja uzima se visina kategorije potrebnih radova iz članka 15. ove Uredbe.

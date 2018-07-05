@@ -1,0 +1,3 @@
+# Članak 33.
+(1) Članovi uže i šire obitelji smrtno stradalog hrvatskog branitelja iz Domovinskog rata, članovi uže i šire obitelji nestalog hrvatskog branitelja iz Domovinskog rata, HRVI iz Domovinskog rata, članovi uže obitelji umrlog HRVI odnosno dragovoljci iz Domovinskog rata pripadnici borbenog sektora, koji nemaju ostvaren status HRVI, a u obrani suvereniteta Republike Hrvatske sudjelovali su najmanje dvije godine, koji neprekidno pet godina koriste stanove i kuće u vlasništvu jedinica lokalne samouprave mogu ih otkupiti od jedinica lokalne samouprave pod uvjetima utvrđenim člancima 31. i 32. ove Uredbe.
+(2) Ministarstvo može pružati tehničku pomoć jedinicama lokalne samouprave oko utvrđivanja izračuna cijene stana ili kuća.
