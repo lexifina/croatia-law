@@ -1,0 +1,1 @@
+Na temelju članka 105. stavka 2. točke 1., a u svezi s člankom 124. stavka 1. i članka 127. stavka 1. Zakona o reviziji (»Narodne novine«, br. 127/17, dalje u tekstu: Zakon), Skupština Hrvatske revizorske komore, na sjednici održanoj 16. lipnja 2018., donosi

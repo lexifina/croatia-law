@@ -1,0 +1,4 @@
+# Članak 60.
+(1) Svi članovi Komore dužni su imati i prijaviti elektroničku adresu Komori. Sva pismena, Komora dostavlja članovima elektroničkim putem na adresu koja je Komori prijavljena. Ako član promijeni elektroničku adresu, o novoj adresi dužan je obavijestiti Komoru bez odgode, a do zaprimanja obavijesti o promjeni, za dostavu pismena važeća je elektronička adresa koja je Komori prethodno prijavljena.
+(2) Ako član Komore ne dostavi elektroničku adresu Komori, smatra se da je komunikacija između člana i Komore uspostavljena kroz javne informacije na stranicama Komore.
+(3) Upravno vijeće Komore može na pisani zahtjev člana iznimno odobriti pojedinom članu nekorištenje elektroničke adrese, ako za to postoje opravdani razlozi. Taj se zahtjev mora podnijeti Komori u roku 30 dana od dana stupanja na snagu ovog Statuta. U tom slučaju između člana i Komore komunikacija se obavlja putem pošte.
