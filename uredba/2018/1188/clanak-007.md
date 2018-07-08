@@ -1,0 +1,2 @@
+# Članak 7.
+Okvirni broj državnih službenika i namještenika potrebnih za obavljanje poslova iz djelokruga Središnjeg državnog ureda za šport prikazan u tablici koja je sastavni dio Uredbe o unutarnjem ustrojstvu Središnjeg državnog ureda za šport (»Narodne novine«, broj 118/16), zamjenjuje se Okvirnim brojem državnih službenika i namještenika Središnjeg državnog ureda za šport, koji je prikazan u tablici koja je sastavni dio ove Uredbe.
