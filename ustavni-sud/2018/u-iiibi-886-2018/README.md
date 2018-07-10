@@ -1,0 +1,13 @@
+# Odluka Ustavnog suda Republike Hrvatske broj: U-IIIBi-886/2018 od 10. srpnja 2018.
+
+- Case: `U-IIIBi-886/2018`
+- Proceeding: Ustavna tužba
+- Decision: odluka
+- Decision date: `2018-07-10`
+- Outcome: odbijanje
+- Official database page: <https://sljeme.usud.hr/usud/praksaw.nsf/fOdluka.xsp?action=openDocument&documentId=C12570D30061CE54C12582C7002AC031>
+- Official DOCX: <https://sljeme.usud.hr/Usud/Praksaw.nsf/C12570D30061CE54C12582C7002AC031/%24FILE/U-IIIBi-886-2018.docx>
+- Official PDF: <https://sljeme.usud.hr/Usud/Praksaw.nsf/C12570D30061CE54C12582C7002AC031/%24FILE/U-IIIBi-886-2018.pdf>
+- Official database page SHA-256: `8a9bd21c9644787ca6eb52d8d49c7af8f24433790291ea5ddea6e6f42d4d95fa`
+
+Metadata-only record: the decision concerns a named person (constitutional complaint and similar proceedings are listed as metadata only in this repository); use the official links above.
