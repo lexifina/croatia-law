@@ -1,0 +1,1 @@
+Na temelju članka 93. stavka 3. Zakona o međunarodnoj i privremenoj zaštiti (»Narodne novine«, br. 70/15 i 127/17, u daljnjem tekstu: Zakon), ministrica za demografiju, obitelj, mlade i socijalnu politiku uz prethodnu suglasnost državnog tajnika Središnjeg državnog ureda za obnovu i stambeno zbrinjavanje donosi
