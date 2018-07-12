@@ -1,0 +1,9 @@
+## Čimbenici rizika proizvoda, usluga i transakcija u korespondentnom odnosu
+# Članak 23.
+(1) Pri razmatranju rizika povezanih s proizvodom, uslugom i transakcijom koji upućuju na viši rizik, relevantni čimbenici rizika uključuju da:
+1. se računom mogu koristiti druge respondentne institucije koje imaju izravan odnos s respondentom, ali ne s korespondentom, primjerice uklopljeni račun (engl. nesting), ili silazni kliring (engl. downstream clearing), što znači da korespondent neizravno pruža usluge drugim kreditnim ili financijskim institucijama koje nisu respondenti
+2. se računom mogu koristiti drugi subjekti unutar respondentove grupe koji sami nisu bili podvrgnuti dubinskoj analizi korespondenta i
+3. usluga uključuje otvaranje prolaznog računa (engl. payable- -through account) kojim se stranci respondenta omogućava provedba transakcija izravno na računu respondenta.
+(2) Pri razmatranju rizika povezanih s proizvodom, uslugom i transakcijom koji upućuju na niži rizik, relevantni čimbenici rizika uključuju:
+1. odnos je ograničen na SWIFT RMA tehničku mogućnost odnosno aplikaciju koja je osmišljena kako bi se upravljalo komunikacijom između financijskih institucija. U SWIFT RMA odnosu respondent ili druga strana nema otvoren račun za plaćanje
+2. kreditna ili financijska institucija djeluje u svojstvu nalogodavca umjesto da sama provodi transakcije u ime svojih osnovnih stranaka, primjerice u slučaju usluga kupoprodaje valuta između dvije kreditne institucije gdje se transakcije provode između nalogodavaca odnosno kreditnih institucija i gdje namira transakcija ne uključuje izvršenje plaćanja trećoj strani. U tim slučajevima, transakcija se provodi za vlastiti račun respondenta i transakcija se odnosi na prodaju, kupnju ili zalog vrijednosnih papira na uređenim tržištima, primjerice djelujući u svojstvu skrbnika ili služeći se skrbnikom s izravnim pristupom sustavu namire vrijednosnih papira unutar ili izvan Europske unije.

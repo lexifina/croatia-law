@@ -1,0 +1,12 @@
+## Čimbenici rizika stranke u korespondentnom odnosu
+# Članak 24.
+(1) Pri razmatranju rizika povezanih sa strankom koji upućuju na viši rizik, relevantni čimbenici rizika uključuju:
+1. politike sprječavanja pranja novca i financiranja terorizma respondenta te sustave i kontrole koje je respondent uspostavio, a koje ne ispunjavaju standarde propisane Direktivom (EU) 2015/849
+2. respondent nije primjereno nadziran u odnosu na obveze sprječavanja pranja novca i financiranja terorizma
+3. respondent, njegovo matično društvo ili društvo član iste grupe kao i respondent nedavno je sankcionirano zbog neodgovarajućih politika i procedura sprječavanja pranja novca i financiranja terorizma ili drugih kršenja obveza sprječavanja pranja novca i financiranja terorizma
+4. respondent u značajnom obujmu posluje sa sektorima koji su povezani s višim rizikom od pranja novca i financiranja terorizma, primjerice: respondent u značajnom obujmu provodi transakcije novčanih pošiljki ili transakcije u ime određenih pružatelja usluga novčanih pošiljki ili mjenjačnica, s nerezidentima ili u valuti koja nije službena valuta države u kojoj ima sjedište
+5. upravljačka ili vlasnička struktura respondenta uključuje politički izložene osobe, posebno kada politički izložena osoba može značajno utjecati na respondenta, kada ugled politički izložene osobe, njezin integritet ili primjerenost u svojstvu člana uprave ili nositelja ključne funkcije izaziva zabrinutost ili kada politički izložena osoba dolazi iz države koja je povezana s višim rizikom od pranja novca i financiranja terorizma. Obveznik je dužan posebnu pozornost obratiti prema državama za koje se smatra da je korupcija u njima sustavna ili sveprisutna i
+6. povijest poslovnog odnosa s respondentom izaziva zabrinutost, primjerice zbog neusklađenosti iznosa transakcija s očekivanjima korespondenta na temelju njegovih saznanja o prirodi i obujmu poslovanja respondenta.
+(2) Pri razmatranju rizika povezanih sa strankom koji upućuju na niži rizik, relevantni čimbenici rizika uključuju:
+1. korespondent je siguran da kontrole sprječavanja pranja novca i financiranja terorizma koje poduzima respondent nisu manje učinkovite od onih propisanih Direktivom (EU) 2015/849 i
+2. korespondent je siguran da respondent koji je dio iste grupe kao i korespondent nema sjedište u državi s višim rizikom od pranja novca i financiranja terorizma i uspješno primjenjuje standarde sprječavanja pranja novca grupe koji nisu manje učinkoviti od onih propisanih Direktivom (EU) 2015/849.

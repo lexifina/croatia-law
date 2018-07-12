@@ -1,0 +1,9 @@
+## GLAVA IX.
+## ZAŠTITA OSOBNIH PODATAKA
+# Članak 58.
+(1) Obveznik je ovlašten prikupljati, obrađivati, čuvati, dostavljati i upotrebljavati one osobne podatke koji su prema ovom Pravilniku potrebni za procjenu rizika i provedbu postupka dubinske analize.
+(2) Prilikom provedbe postupka dubinske analize sukladno ovom Pravilniku, a u svrhu osiguravanja točnosti osobnih podataka, nedvojbene identifikacije osobe u svim slučajevima koji su propisani internim politikama obveznika donesenim na temelju Zakona i ovog Pravilnika, obveznik je ovlašten obrađivati osobne podatke prikupljanjem preslike odgovarajućeg osobnog identifikacijskog dokumenta i drugih javnih isprava koje izdaju nadležna državna tijela, uz primjenu odgovarajućih tehničkih i organizacijskih mjera zaštite prava i sloboda osobe za koju se podaci prikupljaju.
+(3) Kod prikupljanja podataka iz članka 20. stavka 3. Zakona obveznik je dužan internim politikama propisati obuhvat podataka koji su mu potrebni za procjenu rizika i provedbu postupka dubinske analize. Obuhvat podataka koji se od stranke zahtjeva treba biti proporcionalan riziku koji za obveznika proizlazi iz pojedinog poslovnog odnosa, odnosno transakcije.
+(4) Kada obveznik s ciljem provedbe dubinske analize sukladno ovom Pravilniku prikuplja i obrađuje podatke koje nije prikupio od osobe za koju se provodi dubinska analiza, primjenjuje se članak 14. stavak 5. točka c. Uredbe (EU) br. 2016/679.
+(5) Kada obveznik s ciljem provedbe dubinske analize sukladno ovom Pravilniku vrši automatiziranu obradu uključujući izradu profila koja proizvodi pravne učinke koji se odnose na osobu za koju se provodi dubinska analiza, primjenjuje se članak 22. stavak 2. točka b. Uredbe (EU) br. 2016/679.
+(6) Obveznik je dužan internim politikama propisati postupanje prema stranci kada postoje ograničenja iz članka 74. Zakona.

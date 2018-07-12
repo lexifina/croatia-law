@@ -1,0 +1,6 @@
+## Odbijanje poslovnog odnosa i obavljanja transakcija
+# Članak 20.
+(1) Obveznik koji ne može provesti mjere dubinske analize iz članka 15. stavka 1. točaka 1., 2. i 3. i članka 15. stavka 2. Zakona, ako nije siguran da su svrha i priroda poslovnog odnosa zakonite ili ako ocijeni da ne može učinkovito upravljati rizikom da ga se može upotrijebiti u svrhe pranja novca i financiranja terorizma, ne smije uspostaviti poslovni odnos ili obaviti transakciju.
+(2) Kada već postoji poslovni odnos u vezi s kojim obveznik ne može provesti mjere iz članka 15. stavka 1. točaka 1., 2. i 3. Zakona u razumnom roku ili za koji postoji opravdana sumnja da svrha i priroda poslovnog odnosa nisu zakonite, obveznik ga je dužan prekinuti ili obustaviti provedbu transakcija do prekida poslovnog odnosa ili provedbe mjera.
+(3) Primjena pristupa koji se temelji na procjeni rizika ne obvezuje obveznika na odbijanje ili raskid poslovnih odnosa s cjelokupnim kategorijama stranaka koje se povezuju s visokim rizikom od pranja novca i financiranja terorizma zbog toga što rizik povezan s pojedinačnim poslovnim odnosima varira i unutar iste kategorije stranaka.
+(4) Obveznik je dužan internim aktom propisati razinu odlučivanja o zabrani uspostave i prekida poslovnog odnosa, zabrani obavljanja transakcije ili obustavi provedbe transakcija te roku iz stavka 2. ovoga članka.
