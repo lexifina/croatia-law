@@ -1,0 +1,1 @@
+Na temelju članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/11, 119/14 i 93/16), a u vezi s člankom 58. Zakona o ustanovama (»Narodne novine«, br. 76/93, 29/97 - ispravak, 47/99 - ispravak i 35/08), Vlada Republike Hrvatske je na sjednici održanoj 12. srpnja 2018. godine donijela
