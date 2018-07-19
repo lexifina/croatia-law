@@ -1,0 +1,3 @@
+# Članak 10.
+(1) Muzej te pravna osoba unutar koje je muzej može na temelju pisanoga ugovora povjeriti muzejsku građu i muzejsku dokumentaciju na čuvanje i radi izlaganja ili stručne i znanstvene obrade drugomu muzeju te drugoj pravnoj osobi ili državnomu tijelu koji ispunjavaju propisane uvjete za čuvanje povjerene im građe i dokumentacije.
+(2) Muzejska građa i dokumentacija u vlasništvu stranoga muzeja ili strane države koju na temelju pisanoga ugovora posudi i preuzme muzej te pravna osoba unutar koje je muzej radi izlaganja te stručne i znanstvene obrade ne mogu biti predmetom ovrhe i osiguranja prema posebnom propisu ako je ministar nadležan za kulturu izdao jamstvo kojim se ove pokretnine izuzimaju od ovrhe i osiguranja u Republici Hrvatskoj.

@@ -1,0 +1,3 @@
+# Članak 42.
+(1) Muzejska građa i muzejska dokumentacija koja je imala status društvenoga vlasništva, a na dan stupanja na snagu Zakona o ustanovama (»Narodne novine«, br. 76/93., 29/97. – ispravak, 47/99. – ispravak i 35/08.) zatečena je u javnim ustanovama, muzejima i galerijama te muzejima, galerijama i zbirkama unutar javnih ustanova, državno je vlasništvo.
+(2) Vlada Republike Hrvatske može vlasništvo nad muzejskom građom i muzejskom dokumentacijom iz stavka 1. ovoga članka prenijeti na jedinice lokalne i područne (regionalne) samouprave, koje su osnivači muzeja odnosno osnivači muzeja u sastavu, kod kojih se ta muzejska građa i muzejska dokumentacija nalazi, ako su je u cijelosti inventarizirali.

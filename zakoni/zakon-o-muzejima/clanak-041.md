@@ -1,0 +1,3 @@
+# Članak 41.
+(1) Muzej koji nije u cijelosti inventarizirao muzejsku građu i muzejsku dokumentaciju dužan je pristupiti inventarizaciji muzejskih predmeta koji do stupanja na snagu ovoga Zakona nisu uvedeni u inventarnu knjigu.
+(2) Ravnatelj muzeja odnosno voditelj muzeja unutar pravne osobe iz stavka 1. ovoga članka dužan je u roku od devedeset dana od dana stupanja na snagu ovoga Zakona donijeti program inventarizacije i upisa muzejske građe i muzejske dokumentacije u Registar kulturnih dobara Republike Hrvatske s utvrđenim vremenskim rokom izvršenja do 31. prosinca 2020. i o tome obavijestiti ministarstvo nadležno za poslove kulture, kao i izvještavati ministarstvo nadležno za poslove kulture o tijeku izvršavanja navedenog programa svakih šest mjeseci.

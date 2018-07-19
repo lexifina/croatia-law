@@ -1,0 +1,5 @@
+# Članak 31.
+(1) Sredstva za rad muzeja osigurava osnivač, a sredstva za rad muzeja uključuju sredstva za plaće, sredstva za program, materijalne izdatke, kao i sredstva za investicije i investicijsko održavanje te otkup muzejske građe.
+(2) Sredstva za posebne programe osigurava osnivač, a ovisno o svome interesu i tijela državne uprave u čijem je djelokrugu program koji se ostvaruje, kao i jedinice lokalne i područne (regionalne) samouprave na području kojih se program ostvaruje te druge pravne i fizičke osobe.
+(3) Ministarstvo nadležno za poslove kulture može sudjelovati u osiguranju sredstava za rad muzeja iz stavka 1. ovoga članka, za redovito očuvanje i održavanje muzejskoga prostora, predmeta ili muzejske zbirke koji su u državnome vlasništvu, a nalaze se u muzeju kojemu je osnivač jedinica lokalne i područne (regionalne) samouprave, o čemu se sklapa ugovor.
+(4) Sredstva za rad muzeja osiguravaju se i iz vlastitih prihoda, sponzorstvima, darovanjima i na drugi način u skladu sa zakonom.
