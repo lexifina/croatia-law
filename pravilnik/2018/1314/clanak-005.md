@@ -1,0 +1,2 @@
+# Članak 5.
+U članku 11. stavku 4. riječi: »Član povezanog ili partnerskog poduzeća može podnijeti zahtjev za potporu na sljedećem natječaju unutar istog tipa operacije neovisno o statusu provedbe odobrenog projekta drugih članova povezanih ili partnerskih poduzeća na prethodnim natječajima.« zamjenjuju se riječima: »Povezano ili partnersko poduzeće može podnijeti zahtjev za potporu na sljedećem natječaju unutar istog tipa operacije neovisno o statusu provedbe odobrenog projekta drugih povezanih ili partnerskih poduzeća na prethodnim natječajima.«.
