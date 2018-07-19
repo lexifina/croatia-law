@@ -1,0 +1,17 @@
+## Značenje pojmova
+# Članak 3.
+U smislu ovoga Zakona pojedini pojmovi imaju sljedeća značenja:
+a) arhiv je pravna osoba ili ustrojstvena jedinica u pravnoj osobi (arhiv u sastavu) čija je temeljna zadaća čuvati, obrađivati i omogućiti korištenje dokumentarnog i arhivskoga gradiva sukladno odredbama ovoga Zakona
+b) dokumentarno gradivo su sve informacije zapisane na bilo kojem mediju, koje su nastale, zaprimljene ili prikupljene u obavljanju djelatnosti pravnih i fizičkih osoba te mogu pružiti uvid u aktivnosti i činjenice povezane s njihovom djelatnošću
+c) javno dokumentarno gradivo je gradivo nastalo ili prikupljeno djelatnošću tijela javne vlasti
+d) dokumentarno gradivo u digitalnom obliku je gradivo u digitalnom obliku zapisa i pohranjeno na strojno čitljivom nosaču informacija, nastalo kao izvorno digitalno gradivo ili pretvorbom gradiva u digitalni oblik
+e) dokumentarno gradivo u digitalnom obliku za trajno čuvanje je gradivo čiji je sadržaj zapisan u digitalnom obliku i pohranjen na strojno čitljivom nosaču zapisa pri čemu takav digitalni oblik kao i nosač zapisa osigurava učinkovitu trajnu pohranu i sukladnost tehnološkom razvoju u skladu s ovim Zakonom
+f) arhivsko gradivo je odabrano dokumentarno gradivo koje ima trajnu vrijednost za kulturu, povijest, znanost ili druge djelatnosti, ili za zaštitu i ostvarivanje prava i interesa osoba i zajednica, zbog čega se trajno čuva
+g) javno arhivsko gradivo je odabrano javno dokumentarno gradivo nastalo ili prikupljeno djelatnošću tijela javne vlasti ili je u vlasništvu Republike Hrvatske po bilo kojoj osnovi
+h) privatno arhivsko gradivo je arhivsko gradivo nastalo djelovanjem privatnih pravnih i fizičkih osoba, koje nije nastalo u obavljanju javnih ovlasti i javne službe i nije u vlasništvu Republike Hrvatske ili jedinica lokalne i područne (regionalne) samouprave odnosno pravnih osoba čiji su oni osnivači ili vlasnici
+i) tijela javne vlasti su tijela državne uprave, druga državna tijela, jedinice lokalne i područne (regionalne) samouprave, pravne osobe i druga tijela koja imaju javne ovlasti, pravne osobe čiji je osnivač Republika Hrvatska ili jedinica lokalne ili područne (regionalne) samouprave, pravne osobe koje obavljaju javnu službu, pravne osobe koje se na temelju posebnog propisa financiraju pretežito ili u cijelosti iz državnog proračuna ili iz proračuna jedinica lokalne i područne (regionalne) samouprave odnosno iz javnih sredstava, kao i trgovačka društva u kojima Republika Hrvatska i jedinice lokalne i područne (regionalne) samouprave imaju zasebno ili zajedno većinsko vlasništvo
+j) stvaratelj gradiva je tijelo javne vlasti, pravna ili fizička osoba, grupa osoba koja obavlja određenu djelatnost i čijim djelovanjem nastaje dokumentarno i arhivsko gradivo
+k) vrednovanje je postupak kojim se utvrđuju rokovi čuvanja dokumentarnoga gradiva te odabire koje dokumentarno gradivo ima svojstvo arhivskoga gradiva
+l) pismohrana je ustrojstvena jedinica tijela javne vlasti ili pravne osobe u kojoj se odlaže i čuva dokumentarno i arhivsko gradivo do predaje nadležnom arhivu
+m) informacijski sustav je skup mjera, postupaka, pravila, tehnologije i osoblja koje omogućavaju stvaranje, prihvaćanje, upravljanje i trajno očuvanje pristupa gradivu
+n) pretvorba gradiva je postupak prebacivanja gradiva iz jednog oblika ili sustava u drugi, uz očuvanje autentičnosti, integriteta, pouzdanosti i iskoristivosti.t)

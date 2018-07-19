@@ -1,0 +1,5 @@
+# Članak 20.
+(1) Javno arhivsko gradivo koje je nastalo do 30. svibnja 1990. dostupno je za korištenje bez ograničenja, osim gradiva iz članka 18. stavka 4. ovoga Zakona i gradiva propisanog člankom 19. ovoga Zakona.
+(2) Osobni podaci osobe koja je do 30. svibnja 1990. obnašala javne dužnosti ili bila pripadnik ili suradnik službe sigurnosti dostupni su bez ograničenja iz stavka 1. ovoga članka u dijelu koji se odnosi na obavljanje te javne dužnosti odnosno službe.
+(3) Svaka osoba čiji se osobni podaci nalaze u javnom arhivskom gradivu iz stavka 1. ovoga članka ima pravo o gradivu koje se na nju odnosi dati pisanu izjavu kojom osporava istinitost ili potpunost svojih osobnih podataka uz navođenje arhivskog fonda i arhivskoga gradiva na koje se izjava odnosi.
+(4) Nadležni državni arhiv mora dati na uvid izjavu iz stavka 3. ovoga članka svakom korisniku javnog arhivskoga gradiva na koje se izjava odnosi, i to zajedno s tim javnim arhivskim gradivom, a što su djelatnik korisničke službe nadležnoga državnog arhiva i korisnik obvezni potvrditi na preslici izjave upisivanjem nadnevka davanja izjave na uvid i potpisom.
