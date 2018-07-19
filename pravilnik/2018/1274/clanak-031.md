@@ -1,0 +1,8 @@
+# Članak 31.
+(1) Nakon zaprimanja svih zahtjeva za potporu (prvi dio) podnesenih na natječaj Agencija za plaćanja formira rang-listu zahtjeva za potporu, na temelju traženih procijenjenih iznosa potpore te traženog broja bodova sukladno kriterijima odabira, te vrši administrativnu kontrolu prihvatljivosti korisnika i projekta za koje inicijalno ima dovoljno sredstava.
+(2) Za sve prihvatljive zahtjeve za potporu (prvi dio) za koje inicijalno ima dovoljno sredstava, Agencija za plaćanja dostavlja Upravljačkom tijelu Planove informiranja i promoviranja. Upravljačko tijelo prosljeđuje Ocjenjivačkom odboru Planove informiranja i promoviranja radi njihova ocjenjivanja i dodjele bodova sukladno kriterijima odabira.
+(3) Upravljačko tijelo, nakon zaprimanja rezultata ocjenjivanja Planova informiranja i promoviranja, iste dostavlja Agenciji za plaćanja koja dodijeljene bodove u postupku ocjenjivanja Planova informiranja i promoviranja pribraja bodovima dodijeljenim tijekom administrativne kontrole.
+(4) Agencija za plaćanja ažurira rang-listu na temelju zbirnog broja bodova. Prednost na rang-listi ima korisnik s većim brojem bodova. U slučaju da veći broj korisnika ima isti broj bodova, prednost će biti propisana natječajem, a može biti povezana s pojedinim kriterijem odabira, odnosno skupinom kriterija i/ili vremenom podnošenja potpunog prvog dijela zahtjeva za potporu.
+(5) U slučaju da se u skladu sa stavkom 4. ovoga članka ne može utvrditi prednost kod korisnika s istim brojem bodova, a prednost omogućuje odobravanje zahtjeva, provest će se postupak izvlačenja slučajnim odabirom u prisutnosti javnog bilježnika.
+Administrativna kontrola prvog dijela zahtjeva za
+potporu za tip operacije 3.2.1
