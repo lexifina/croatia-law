@@ -1,0 +1,5 @@
+## Način izvršavanja otpisa dugova
+# Članak 9.
+(1) Dužniku iz članka 5. ovoga Zakona Financijska agencija će u roku od 15 dana od dana stupanja na snagu ovoga Zakona prestati izvršavati osnove za plaćanje za dug iz članka 8. ovoga Zakona, kao i za naknadu za provedbu ovrhe na novčanim sredstvima koja se odnosi na osnovu koja se prestala izvršavati.
+(2) O prestanku izvršavanja osnove za plaćanje iz stavka 1. ovoga članka Financijska agencija će u roku od 30 dana od dana prestanka izvršavanja osnove za plaćanje dostaviti izvješće u elektroničkom obliku vjerovnicima iz grupe I. za osnove za plaćanje koje se na njih odnose.
+(3) Vjerovnici iz grupe I., nakon zaprimanja podataka iz stavka 2. ovoga članka, izvršit će otpis duga i podnijeti prijedlog za obustavu ovrhe odnosno poduzeti drugu odgovarajuću radnju koja dovodi do prestanka ovrhe na novčanim sredstvima radi naplate otpisanog duga. O izvršenom otpisu dospjelog duga vjerovnici iz grupe I. će obavijestiti dužnike u roku od 60 dana od izvršenog otpisa.
