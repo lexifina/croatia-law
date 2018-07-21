@@ -1,0 +1,9 @@
+## II. POSEBNE ODREDBE
+## Označavanje
+# Članak 4.
+(1) Mesni proizvodi moraju biti označeni u skladu s odredbama Uredbe (EU) br. 1169/2011, Pravilnika o informiranju potrošača o nepretpakiranoj hrani (»Narodne novine«, broj 144/14) te ostalih uredbi iz članka 3. ovoga Pravilnika.
+(2) Mesni proizvodi koji udovoljavaju zahtjevima propisanim ovim Pravilnikom označavaju se i stavljaju na tržište sukladno propisanim nazivima iz Priloga koji je sastavni dio ovoga Pravilnika te nije potrebno dodatno navoditi naziv skupine i kategorije.
+(3) Mesni proizvodi koji ne udovoljavaju zahtjevima propisanim ovim Pravilnikom za pojedine propisane nazive za mesne proizvode, a udovoljavaju zahtjevima određene kategorije ili skupine iz ovoga Pravilnika stavljaju se na tržište pod uobičajenim ili opisnim nazivom te nazivom skupine odnosno kategorije.
+(4) Mesni proizvodi koji ne udovoljavaju zahtjevima propisanim ovim Pravilnikom za pojedine propisane nazive za mesne proizvode ni zahtjevima određene kategorije ili skupine, proizvode se prema proizvođačkoj specifikaciji i stavljaju na tržište pod opisnim ili uobičajenim nazivom.
+(5) Mesni proizvodi koji izgledaju kao da su dobiveni od cijeloga komada mesa, ali se zapravo sastoje od različitih komada spojenih drugim sastojcima, uključujući prehrambene aditive i prehrambene enzime ili druge tvari, moraju biti označeni navodom: »sastavljeno i oblikovano meso od komada mesa«, kako je propisano člankom 3. stavkom 4. Zakona o informiranju potrošača o hrani (»Narodne novine«, br. 56/13, 14/14 i 56/16) te sukladno članku 17. stavku 5. i Prilogu VI. Dijelu A točki 7. Uredbe (EU) br. 1169/2011.
+(6) Mesni proizvod koji u nazivu ima istaknutu vrstu životinje mora sadržavati najmanje 75% mesa koje potječe od te vrste životinje računato na ukupnu količinu mesa upotrijebljenog u procesu proizvodnje.
