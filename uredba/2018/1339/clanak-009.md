@@ -1,0 +1,4 @@
+# Članak 9.
+U članku 498. točka 6.6.3. mijenja se i glasi:
+»6.6.3. Postaja granične policije Gruda
+Ustrojava se kao policijska postaja III. kategorije radi obavljanja sljedećih poslova: zaštite života, slobode, sigurnosti i nepovredivosti osoba, zaštite imovine, sprečavanja i otkrivanja kaznenih djela i prekršaja, traganja za počiniteljima kaznenih djela i prekršaja i njihovog dovođenja nadležnim tijelima, održavanja povoljnog stanja javnog reda, pružanja potrebite pomoći tijelima državne vlasti te pravnim osobama koje imaju javne ovlasti radi osiguranja njihovih izvršnih odluka, izrade cjelovite sigurnosne prosudbe i analize rizika, vođenja kaznenog upisnika i ostalih propisanih evidencija, poslova u svezi izravnog ostvarivanja prava, obveza i pravnih interesa građana, pravnih osoba, državnih i drugih tijela u području unutarnjih poslova, poslova zaštite i prelaska državne granice te poslova suzbijanja nezakonitih migracija.«.

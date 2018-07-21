@@ -1,0 +1,4 @@
+# Članak 15.
+U članku 666. točka 13.6.4. mijenja se i glasi:
+»13.6.4. Postaja granične policije Vrpolje
+Ustrojava se kao policijska postaja III. kategorije radi obavljanja sljedećih poslova: zaštite života, slobode, sigurnosti i nepovredivosti osoba, zaštite imovine, sprečavanja i otkrivanja kaznenih djela i prekršaja, traganja za počiniteljima kaznenih djela i prekršaja i njihovog dovođenja nadležnim tijelima, održavanja povoljnog stanja javnog reda, pružanja potrebite pomoći tijelima državne vlasti te pravnim osobama koje imaju javne ovlasti radi osiguranja njihovih izvršnih odluka, izrade cjelovite sigurnosne prosudbe i analize rizika, vođenja kaznenog upisnika i ostalih propisanih evidencija, poslova sigurnosti cestovnog prometa, poslova zaštite i prelaska državne granice, poslova suzbijanje nezakonitih migracija, poslova zaštite i osiguranja državne granice na rijekama te kontrole unutarnjeg plovnog puta.«.

@@ -1,0 +1,8 @@
+# Članak 2.
+Iza članka 92.a dodaju se članci 92.b i 92.c koji glase:
+»Članak 92.b
+5.4.7.1. Odjel za analizu rizika
+Prikuplja obavijesti, informacije i podatke; analizira i ocjenjuje njihov značaj, izrađuje analize stanja sigurnosti na državnoj granici te predlaže mjere i radnje za njihovo unaprjeđenje; procjenjuje važnost preporuka i smjernica danih u strateškim proizvodima; nadzire i koordinira stručnim usavršavanjem policijskih službenika za analizu rizika; izrađuje analize rizika i druge analitičke proizvode, pruža stručnu pomoć policijskim upravama u izradi analiza rizika; koordinira, usmjerava i nadzire poduzimanje operativnih mjera i radnji koje poduzimaju ustrojstvene jedinice koje obavljaju poslove nadzora državne granice; surađuje s tijelima obuhvaćenih Europskim sustavom integriranog upravljanja granicom vezano uz razmjenu informacija i izradu analitičkih dokumenata.
+Članak 92. c
+5.4.7.2. Odjel Nacionalnog koordinacijskog centra
+Uspostavlja i održava nacionalnu sliku stanja u svrhu pružanja učinkovitih, točnih i pravovremenih informacija svim tijelima nadležnima za kontrolu i nadzor vanjskih granica na nacionalnoj razini; razmjenjuje informacije s nacionalnim koordinacijskim centrima država članica i drugim tijelima Europske unije vezano uz nadzor državne granice, posebno FRONTEX-ovim Situacijskim centrom; koordinira, usmjerava i nadzire poduzimanje operativnih mjera i radnji koje poduzimaju ustrojstvene jedinice koje obavljaju poslove nadzora državne granice; neposredno rukovodi provođenjem složenih mjera i radnji; ostvaruje suradnju i neposredno razmjenjuje podatke s Operativno-komunikacijskim centrom policije Ministarstva i centrima drugih državnih tijela; obavlja i druge poslove iz svoga djelokruga.«.
