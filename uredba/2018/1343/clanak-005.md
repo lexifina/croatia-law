@@ -1,0 +1,66 @@
+# Članak 5.
+Članak 7. mijenja se i glasi:
+»U sjedištu Ministarstva unutarnjih poslova policijskom službeniku se kao 14 mjeseci staža osiguranja računa svakih 12 mjeseci stvarno provedenih na radnom mjestu:
+- detektiva za ciljane potrage
+- detektiva za posebnu kriminalističku tehniku
+- detektiva za poslove operativne pripreme
+- detektiva za poslove operativne zaštite
+- detektiva za pripremu i potporu zaštite svjedoka
+- instruktora za policijsku taktiku specijalne policije
+- instruktora za borilačke vještine specijalne policije
+- instruktora za gađanje i specijalističko naoružanje specijalne policije
+- instruktora za intervencijsku tehniku specijalne policije
+- instruktora za naoružanje i vještinu gađanja
+- instruktora za opću i specijalističku tjelesnu pripremu
+- instruktora za opću tjelesnu pripremu i borilačke vještine specijalne policije
+- instruktora za opću tjelesnu pripremu specijalne policije
+- instruktora za planinske specijalnosti specijalne policije
+- instruktora za protuterorističku taktiku specijalne policije
+- instruktora za snajperizam specijalne policije
+- instruktora za specijalističku i taktičku obuku
+- instruktora za specijalističku vožnju
+- intervencijskog tehničara specijalne policije
+- policijskog pregovarača specijalne policije
+- policijskog savjetnika za krizne situacije specijalne policije
+- policijskog službenika - instruktora za vještinu gađanja
+- policijskog službenika - voditelja osiguranja Policijske akademije
+- policijskog službenika - vođe obrade
+- policijskog službenika za ciljane potrage
+- policijskog službenika za financijske istrage
+- policijskog službenika za kriminalističku potporu
+- policijskog službenika za posebne kriminalističke poslove
+- policijskog službenika za posebnu kriminalističku tehniku
+- policijskog službenika za poslove operativne pripreme
+- policijskog službenika za poslove operativne zaštite
+- policijskog službenika za psihološku potporu
+- policijskog službenika za suzbijanje korupcije i organiziranog kriminaliteta
+- policijskog službenika za tehniku, plovila, vozila, održavanje i tehničku potporu ronjenja u specijalnoj policiji
+- pomoćnika šefa smjene Prihvatnog centra za strance
+- pomoćnika zapovjednika Antiterorističke jedinice Lučko
+- pomoćnika zapovjednika Ronilačkog centra
+- pomoćnika zapovjednika specijalne jedinice policije
+- pomoćnika zapovjednika za pilote
+- pomoćnik zapovjednika za tehničku službu
+- poslužitelj barokomore u specijalnoj policiji
+- šefa smjene Prihvatnog centra
+- voditelja Odjela pripreme, nadzora i primjene posebnih kriminalističkih poslova
+- voditelja programa za sustav kakvoće u Zrakoplovnoj jedinici
+- voditelja smjene posebnih kriminalističkih poslova
+- vođe grupe za posebnu kriminalističku tehniku
+- zapovjednika Antiterorističke jedinice Lučko
+- zapovjednika Ronilačkog centra
+- zapovjednika specijalne jedinice policije
+- zapovjednika Zrakoplovne jedinice
+- policijskog službenika za kibernetičku sigurnost u Službama za suzbijanje korupcije i organiziranog kriminaliteta (Zagreb, Rijeka, Split i Osijek)
+- policijskog službenika za nadzor podatkovnog prometa
+- policijskog službenika za potporu nadzora podatkovnog prometa
+- policijskog službenika za informatičko-tehničke poslove
+- višeg detektiva za posebne kriminalističke poslove
+- voditelja odsjeka tehničkog razvoja i nadzora elektroničkih komunikacija
+- voditelja programa sigurnosti letenja u Zrakoplovnoj jedinici
+- voditelja kontinuirane plovidbenosti i operacija na zemlji u Zrakoplovnoj jedinici
+- voditelja programa obuke pilota u Zrakoplovnoj jedinici
+- inženjera tehničke pripreme leta
+- instruktora održavanja zrakoplova
+- zrakoplovnog tehničara - letača I. kategorije
+- zrakoplovnog tehničara - letača II. kategorije.«.
