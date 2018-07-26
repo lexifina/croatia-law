@@ -1,0 +1,4 @@
+# Članak 7.
+(1) Psihoterapeut u smislu članka 2. ovoga Zakona, sa sjedištem u drugoj državi ugovornici Ugovora o Europskom gospodarskom prostoru, može trajno obavljati psihoterapeutsku djelatnost u Republici Hrvatskoj ako se upiše u odgovarajući registar u Republici Hrvatskoj.
+(2) Psihoterapeut u smislu članka 2. ovoga Zakona, sa sjedištem u drugoj državi ugovornici Ugovora o Europskom gospodarskom prostoru, može obavljati djelatnost psihoterapije i na privremenoj ili povremenoj osnovi u Republici Hrvatskoj, bez obveze registracije sjedišta i upisa psihoterapeutske djelatnosti u odgovarajući registar u Republici Hrvatskoj, sukladno odredbama Zakona o uslugama.
+(3) Psihoterapeut iz stavka 2. ovoga članka dužan je putem elektroničke pošte obavijestiti Jedinstvenu kontaktnu točku za usluge ili ministarstvo nadležno za psihoterapeutsku djelatnost o namjeri pružanja usluga na privremenoj ili povremenoj osnovi.
