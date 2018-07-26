@@ -1,0 +1,11 @@
+## Prijava, praćenje i nadzor
+# Članak 18.
+(1) Poduzetnik koji namjerava koristiti potporu na temelju ovoga Zakona podnosi Prijavu za dodjelu državne potpore za istraživačko-razvojni projekt prije početka radova na projektu, koja obvezno sadrži podatke i dokumente propisane pravilnikom te sadrži informacije propisane člankom 6. stavkom 2. Uredbe o općem skupnom izuzeću.
+(2) Prijava se podnosi davatelju potpore sukladno članku 5. ovoga Zakona.
+(3) Nakon primitka Prijave provodi se postupak administrativne provjere i ocjene prihvatljivosti projekta, prijavitelja i troškova kojim se utvrđuje udovoljava li Prijava formalne i materijalne uvjete za dodjelu potpore propisane odredbama ovoga Zakona i pravilnika.
+(4) Ako je ishod provedenog postupka pozitivan, izdaje se Potvrda o statusu korisnika potpore.
+(5) Korisnik potpore dužan je tijekom realizacije projekta i korištenja potpore davatelju potpore ili provedbenom tijelu podnositi Godišnje izvješće o izvršenju projektnih aktivnosti, ostvarenim troškovima i korištenju potpore (u daljnjem tekstu: Godišnje izvješće) te podnositi ministarstvu nadležnom za financije isto Godišnje izvješće uz prijavu poreza na dobit odnosno poreza na dohodak, u skladu s rokovima propisanim posebnim propisom kojim se uređuje porez na dobit odnosno porez na dohodak. Sadržaj Godišnjeg izvješća propisuje se pravilnikom iz članka 16. stavka 1. ovoga Zakona.
+(6) Na temelju predanog Godišnjeg izvješća korisniku potpore dostavlja se Odobrenje za korištenje potpore za prethodno razdoblje.
+(7) Ako korisnik potpore zbog neopravdanog razloga u roku propisanom pravilnikom iz članka 16 stavka 1. ovoga Zakona ne podnese izvješća iz stavka 5. ovoga članka, prestaje mu pravo korištenja odobrene potpore te gubi status korisnika potpore.
+(8) Davatelj potpore u suradnji s ministarstvom nadležnim za financije može izvršiti nadzor nad korištenjem potpora u prostorijama korisnika potpore radi otkrivanja i sankcioniranja eventualnih nepravilnosti i nezakonitosti.
+(9) U slučaju poreznog nadzora koje vrši ministarstvo nadležno za financije neće se osporavati status korisnika potpore stečen na temelju izdanog odobrenja za korištenje potpore prema odredbama ovoga Zakona.
