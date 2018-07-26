@@ -1,0 +1,4 @@
+## Informiranje javnosti o incidentu
+# Članak 24.
+(1) Nadležni CSIRT može, po prethodno provedenom savjetovanju s operatorom ključne usluge i nadležnim sektorskim tijelom, obavijestiti javnost o pojedinačnim incidentima koji imaju znatan učinak na kontinuitet usluge koju operator pruža, ako je osviještenost javnosti nužna za sprečavanje širenja i jačanja učinka incidenta ili za rješavanje incidenta koji je u tijeku.
+(2) Nadležni CSIRT te, prema potrebi, CSIRT-ovi drugih pogođenih država članica, mogu javnost obavijestiti o pojedinačnim incidentima koji imaju znatan učinak na kontinuitet pojedine digitalne usluge ili zatražiti od davatelja digitalnih usluga da to učini, ako je objavljivanje informacije o incidentu u javnome interesu, osobito ako je to potrebno radi sprečavanja širenja i jačanja učinka incidenta ili rješavanja incidenta koji je u tijeku.

@@ -1,0 +1,29 @@
+## Pojmovi
+# Članak 5.
+U smislu ovog Zakona pojedini pojmovi imaju sljedeće značenje:
+1) kibernetička sigurnost – je sustav organizacijskih i tehničkih aktivnosti i mjera kojima se postiže autentičnost, povjerljivost, cjelovitost i dostupnost podataka, kao i mrežnih i informacijskih sustava u kibernetičkom prostoru
+2) kibernetički prostor – je virtualni prostor unutar kojeg se odvija komunikacija između mrežnih i informacijskih sustava te obuhvaća sve mrežne i informacijske sustave neovisno o tome jesu li povezani na internet
+3) mrežni i informacijski sustav – je (a) elektronička komunikacijska mreža kako je ona definirana zakonom kojim se uređuje područje elektroničkih komunikacija; (b) bilo koji uređaj ili grupa povezanih ili srodnih uređaja, od kojih jedan ili više njih programski izvršava automatsku obradu digitalnih podataka ili (c) digitalni podaci koji se pohranjuju, obrađuju, dobivaju ili prenose elementima opisanim u točkama (a) i (b) u svrhu njihova rada, uporabe, zaštite i održavanja
+4) sigurnost mrežnih i informacijskih sustava – je sposobnost mrežnih i informacijskih sustava da, na određenoj razini pouzdanosti, odolijevaju bilo kojoj radnji koja ugrožava dostupnost, autentičnost, cjelovitost ili povjerljivost, pohranjenih, prenesenih ili obrađenih podataka, ili srodnih usluga koje ti mrežni i informacijski sustavi nude ili kojima omogućuju pristup
+5) nacionalna strategija kibernetičke sigurnosti – je okvir kojim se pružaju strateški ciljevi i prioriteti za kibernetičku sigurnost na nacionalnoj razini
+6) nadležna tijela – su nadležna sektorska tijela, jedinstvena nacionalna kontaktna točka, nadležni CSIRT-ovi i tehnička tijela za ocjenu sukladnosti
+7) operator ključnih usluga – je bilo koji javni ili privatni subjekt koji ispunjava kriterije iz članka 6. ovog Zakona
+8) davatelj digitalnih usluga – je bilo koji privatni subjekt koji pruža neku digitalnu uslugu s Popisa iz Priloga II. ovog Zakona u Europskoj uniji
+9) javni subjekti – su tijela državne uprave, druga državna tijela, jedinice lokalne i područne (regionalne) samouprave te pravne osobe koje imaju javne ovlasti ili obavljaju javnu službu
+10) privatni subjekti – su fizičke i pravne osobe koje pružaju ili daju usluge
+11) sjedište je stalno mjesto poslovanja gdje pružatelj odnosno davatelj usluga u neodređenom razdoblju upravlja svojom djelatnošću
+12) predstavnik je bilo koja fizička ili pravna osoba sa sjedištem u Republici Hrvatskoj koju je davatelj digitalnih usluga koji nema sjedište u Europskoj uniji izričito imenovao da djeluje u njegovo ime i kojoj se nadležno sektorsko tijelo ili nadležni CSIRT mogu obratiti umjesto davatelju digitalnih usluga koji je obveznik primjene ovog Zakona
+13) incident je bilo koji događaj koji ima stvaran negativni učinak na sigurnost mrežnih i informacijskih sustava
+14) rješavanje incidenta – su svi postupci koji podupiru otkrivanje, analizu i zaustavljanje incidenta te odgovor na njega
+15) rizik je bilo koja razumno prepoznatljiva okolnost ili događaj koji ima potencijalno negativni učinak na sigurnost mrežnih i informacijskih sustava
+16) središte za razmjenu internetskog prometa (IXP) – je mrežni instrument koji omogućuje međusobno povezivanje više od dvaju neovisnih autonomnih sustava, prvenstveno u svrhu olakšavanja razmjene internetskog prometa; IXP pruža međusobno povezivanje samo za autonomne sustave; za IXP nije potrebno da internetski promet između bilo kojih dvaju autonomnih sustava sudionika prođe kroz bilo koji treći autonomni sustav, on takav promet ne mijenja i ne utječe na njega ni na koji drugi način
+17) sustav naziva domena (DNS) – je hijerarhijsko raspoređeni sustav imenovanja na mreži koji odgovara na upite o nazivima domena
+18) pružatelj DNS usluge – je javni ili privatni subjekt koji pruža DNS usluge na internetu
+19) registri naziva vršnih domena – su javni ili privatni subjekti koji upravljaju i rukuju registracijom naziva internetskih domena za određenu vršnu domenu (TLD)
+20) internetsko tržište – je digitalna usluga koja potrošačima i/ili trgovcima, kako su oni definirani zakonom kojim se uređuje alternativno rješavanje potrošačkih sporova, omogućuje da na internetu sklapaju kupoprodajne ugovore i ugovore o uslugama s trgovcima na mrežnoj stranici tog internetskog tržišta ili na mrežnoj stranici tog trgovca koji se služi računalnim uslugama koje pruža internetsko tržište
+21) internetska tražilica – je digitalna usluga koja korisniku omogućuje da pretražuje u načelu sve internetske stranice ili internetske stranice na određenom jeziku na temelju upita o bilo kojoj temi u obliku ključne riječi, rečenice ili nekog drugog unosa, a rezultat su poveznice na kojima se mogu pronaći informacije koje su povezane sa zatraženim sadržajem
+22) usluga računalstva u oblaku – je digitalna usluga kojom se pruža pristup nadogradivom i elastičnom skupu djeljivih računalnih resursa, usluga i aplikacija
+23) država članica – je država članica Europske unije
+24) kvalificirani revizor – je fizička ili pravna osoba koja je za obavljanje poslova revizije sigurnosti mrežnih i informacijskih sustava akreditirana pri odgovarajućoj organizaciji za normizaciju, koja je izdala ili daje na korištenje norme koje su u okviru provedbe zahtjeva iz ovog Zakona primijenjene kod određenog operatora ključnih usluga ili davatelja digitalnih usluga
+25) revizija sigurnosti mrežnih i informacijskih sustava – su postupci koje obavlja kvalificirani revizor radi ocjene usklađenosti uspostavljenih procesa upravljanja mrežnim i informacijskim sustavom i dokumentiranih sigurnosnih politika sa zahtjevima iz ovog Zakona
+26) CSIRT je kratica za Computer Security Incident Response Team, odnosno tijelo nadležno za prevenciju i zaštitu od incidenata, za koju se u Republici Hrvatskoj koristi i kratica CERT (Computer Emergency Response Team).
