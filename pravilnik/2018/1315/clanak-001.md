@@ -1,0 +1,3 @@
+# Članak 1.
+U Pravilniku o obliku, sadržaju i načinu vođenja i dostave podataka o ulovu u gospodarskom ribolovu na moru (»Narodne novine«, br. 38/18 i 48/18 - ispravak) u članku 12. dodaje se novi stavak koji glasi:
+»(2) Obveza vođenja podataka o ribolovnom naporu, ulovu i iskrcaju na obrascima očevidnika, odnosno izvješća sadržanim u prilozima 1. - 3., a sukladno člancima 6. i 7. ovoga Pravilnika primjenjuje se od 1. listopada 2018. godine, a do toga roka se koriste obrasci sukladno Pravilniku o obliku, sadržaju i načinu vođenja i dostave podataka o ulovu u gospodarskom ribolovu na moru (»Narodne novine«, br. 87/15).«
