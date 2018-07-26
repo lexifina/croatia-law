@@ -1,0 +1,3 @@
+## Dodatni prekršaj odgovorne osobe institucije za elektronički novac i male institucije za elektronički novac osnovanih u Republici Hrvatskoj
+# Članak 105.
+Za prekršaj kaznit će se član uprave institucije za elektronički novac i male institucije za elektronički novac odnosno izvršni direktor te institucije ako ona ima upravni odbor odnosno, ako ta institucija obavlja djelatnost iz članka 15. točke 4. ovoga Zakona, osoba odgovorna za vođenje poslova u vezi s izdavanjem elektroničkog novca i/ili platne usluge novčanom kaznom u iznosu od 5000,00 do 50.000,00 kuna ako ne postupi po zahtjevu Hrvatske narodne banke postavljenom u skladu s člankom 48. stavkom 10. ovoga Zakona.

@@ -1,0 +1,10 @@
+## Pritužba nadležnom tijelu
+# Članak 10.
+(1) Imatelji elektroničkog novca i druge osobe s pravnim interesom, uključujući udruge potrošača, mogu Hrvatskoj narodnoj banci uputiti pritužbu protiv izdavatelja elektroničkog novca iz članka 5. stavka 1. točaka od 1. do 3. ovoga Zakona ako smatraju da je postupio protivno odredbama ove glave i glave II. ovoga Zakona.
+(2) Nakon zaprimanja pritužbe iz stavka 1. ovoga članka Hrvatska narodna banka pozvat će izdavatelja elektroničkog novca na kojeg se ta pritužba odnosi da dostavi svoje očitovanje i dokaze na koje se poziva, osim ako iz same pritužbe i podataka poznatih Hrvatskoj narodnoj banci proizlazi da pritužba nije osnovana.
+(3) Izdavatelj elektroničkog novca dužan je u roku koji odredi Hrvatska narodna banka, a koji ne može biti dulji od deset dana od dana primitka poziva, dostaviti svoje očitovanje i dokaze na koje se poziva.
+(4) Ako povodom pritužbe Hrvatska narodna banka utvrdi da postoji osnovana sumnja da je izdavatelj elektroničkog novca postupio protivno nekoj od odredbi ove glave i glave II. ovoga Zakona i time počinio prekršaj, pokrenut će prekršajni postupak pred Ministarstvom financija, Financijskim inspektoratom.
+(5) Hrvatska narodna banka obavijestit će podnositelja pritužbe o svom nalazu i o poduzetim mjerama.
+(6) Ako je podnositelj pritužbe potrošač, Hrvatska narodna banka uputit će ga u obavijesti iz stavka 5. ovoga članka na mogućnost provođenja postupka alternativnog rješavanja potrošačkog spora prema članku 11. ovoga Zakona.
+(7) Odredbe ovoga članka primjenjuju se i na pritužbe protiv podružnica izdavatelja elektroničkog novca osnovanih u drugoj državi članici koji izdaju elektronički novac u Republici Hrvatskoj.
+(8) Iznimno od odredbi ovoga članka, kad Hrvatska narodna banka primi pritužbu protiv izdavatelja elektroničkog novca osnovanog u drugoj državi članici koji u Republici Hrvatskoj izdaje elektronički novac neposredno koristeći se slobodom pružanja usluga, takvu će pritužbu proslijediti nadležnom tijelu matične države članice.

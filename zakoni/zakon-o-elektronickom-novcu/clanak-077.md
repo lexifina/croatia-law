@@ -1,0 +1,4 @@
+## Primjena drugih odredbi ovoga Zakona na podružnicu institucije za elektronički novac iz treće države
+# Članak 77.
+(1) Na podružnicu institucije za elektronički novac iz treće države na odgovarajući se način primjenjuju odredbe poglavlja III. i IV. ove glave, osim članaka od 29. do 34., članka 41. stavka 2. i članka 55. ovoga Zakona.
+(2) Iznimno od stavka 1. ovoga članka, podružnica institucije za elektronički novac iz treće države dužna je umjesto obveze izvješćivanja iz članka 56. stavka 2. točke 3. ovoga Zakona bez odgađanja obavijestiti Hrvatsku narodnu banku o svakoj izvršenoj promjeni kvalificiranog imatelja institucije za elektronički novac iz treće države za koje je uprava institucije za elektronički novac iz treće države ili osoba odgovorna za vođenje poslova podružnice znala ili morala znati.

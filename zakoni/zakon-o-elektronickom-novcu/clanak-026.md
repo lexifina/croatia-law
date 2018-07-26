@@ -1,0 +1,5 @@
+## Pretvaranje institucije za elektronički novac u registriranog pružatelja usluge informiranja o računu
+# Članak 26.
+(1) Institucija za elektronički novac koja više ne namjerava izdavati elektronički novac, a namjerava nastaviti s pružanjem samo platne usluge iz članka 3. stavka 2. točke 8. ovoga Zakona koja je sadržana u rješenju kojim se odobrava izdavanje elektroničkog novca podnosi Hrvatskoj narodnoj banci zahtjev za svoj upis u registar koji vodi Hrvatska narodna banka u skladu sa zakonom kojim se uređuje platni promet kao registrirani pružatelj usluge informiranja o računu u skladu s odredbama zakona kojim se uređuje platni promet.
+(2) Povodom zahtjeva iz stavka 1. ovoga članka Hrvatska narodna banka provodi postupak na temelju informacija i dokumentacije kojima raspolaže, a može zatražiti i drugu dokumentaciju prema odredbama zakona kojim se uređuje platni promet koje se odnose na zahtjev za upis u registar kao registriranog pružatelja usluge informiranja o računu.
+(3) Na odlučivanje o zahtjevu iz stavka 1. ovoga članka primjenjuju se odgovarajuće odredbe zakona kojim se uređuje platni promet.

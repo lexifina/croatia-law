@@ -1,0 +1,16 @@
+## Zahtjev za izdavanje odobrenja za osnivanje podružnice institucije za elektronički novac iz treće države
+# Članak 71.
+(1) Institucija za elektronički novac iz treće države koja namjerava osnovati podružnicu na području Republike Hrvatske dužna je Hrvatskoj narodnoj banci podnijeti zahtjev za izdavanje odobrenja za osnivanje podružnice institucije za elektronički novac iz treće države.
+(2) U zahtjevu iz stavka 1. ovoga članka za izdavanje odobrenja za osnivanje podružnice institucija za elektronički novac iz treće države dužna je navesti platne usluge povezane s izdavanjem elektroničkog novca koje namjerava pružati preko podružnice.
+(3) Zahtjevu za izdavanje odobrenja za osnivanje podružnice institucije za elektronički novac iz treće države potrebno je priložiti:
+1. dokaz, ne stariji od 90 dana, da je institucija za elektronički novac iz treće države upisana u registar u državi u kojoj ima registrirano sjedište iz kojega se vidi njezin pravni oblik i datum upisa u taj registar, temeljni kapital, djelatnosti te osobe ovlaštene za zastupanje i opseg njihovih ovlasti ako je osnovana u državi u kojoj se upisuje u takav registar
+2. odluku institucije za elektronički novac iz treće države o osnivanju podružnice
+3. prijepis izjave o osnivanju, društvenog ugovora ili statuta institucije za elektronički novac iz treće države, javno ovjeren prema propisima države u kojoj institucija za elektronički novac ima sjedište, ne stariji od 90 dana, iz kojeg se vidi njezin pravni oblik i datum osnivanja, temeljni kapital i djelatnosti te osobe ovlaštene na zastupanje i opseg njihovih ovlasti
+4. naziv i podatke za kontakt nadzornog tijela institucije za elektronički novac iz treće države
+5. odobrenje za izdavanje elektroničkog novca nadležnog tijela treće države ili izjavu tog tijela, ne stariju od šest mjeseci, da takvo odobrenje nije potrebno
+6. odobrenje nadležnog tijela iz treće države za osnivanje podružnice institucije za elektronički novac ili izjavu toga tijela da takvo odobrenje nije potrebno prema propisima te treće države, ne starije od šest mjeseci
+7. izjavu institucije za elektronički novac da će podružnica voditi svu dokumentaciju koja se odnosi na njezino poslovanje na hrvatskom jeziku i pohraniti je u sjedištu podružnice.
+(4) Osim dokumentacije iz stavka 3. ovoga članka, zahtjevu za izdavanje odobrenja za osnivanje podružnice institucije za elektronički novac iz treće države potrebno je priložiti:
+1. u odnosu na instituciju za elektronički novac iz treće države koja podnosi zahtjev za osnivanje podružnice u Republici Hrvatskoj, informacije i dokumentaciju iz članka 17. stavka 3. točaka 1., 4., 7., 9., 16., 17., 18., 20. i 22. ovoga Zakona
+2. u odnosu na podružnicu institucije za elektronički novac iz treće države za čije se osnivanje podnosi zahtjev, informacije i dokumentaciju iz članka 17. stavka 3. točaka 1., 3., 5., od 8. do 16., 18., 20. i 21. ovoga Zakona, uz odgovarajuću primjenu na podružnicu.
+(5) Na zahtjev iz stavka 1. ovoga članka i postupak povodom tog zahtjeva na odgovarajući se način primjenjuju odredbe članka 17. stavaka od 4. do 9. i 11. ovoga Zakona te odredbe podzakonskog propisa donesenog na temelju članka 17. stavka 13. ovoga Zakona.

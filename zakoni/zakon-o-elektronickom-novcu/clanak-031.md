@@ -1,0 +1,26 @@
+## Procjena obavijesti o stjecanju kvalificiranog udjela
+# Članak 31.
+(1) Hrvatska narodna banka na temelju obavijesti iz članka 29. stavaka 1., 2. ili 8. ovoga Zakona te dostavljenih informacija i dokumentacije iz članka 30. ovoga Zakona procjenjuje mogući utjecaj namjeravanog stjecatelja kvalificiranog udjela na razborito i pouzdano upravljanje institucijom za elektronički novac, prema sljedećim kriterijima:
+1. ugledu stjecatelja, pri čemu se uzima u obzir i ugled svih kvalificiranih imatelja njegovih udjela te njihov utjecaj na stjecatelja
+2. ugledu, sposobnostima i iskustvu osobe koja će nakon stjecanja voditi poslove institucije za elektronički novac
+3. financijskom stanju stjecatelja, posebno u odnosu na vrstu poslova koje obavlja institucija za elektronički novac u kojoj se stječe kvalificirani udio
+4. sposobnosti institucije za elektronički novac da se nakon stjecanja kvalificiranog udjela nastavi pridržavati odredbi ovoga Zakona te
+5. postojanju opravdanih razloga za sumnju da se u vezi s predmetnim stjecanjem provodi ili pokušava provesti pranje novca ili financiranje terorizma ili da predmetno stjecanje može povećati rizik od provođenja pranja novca ili financiranja terorizma.
+(2) Pri ocjeni dobrog ugleda stjecatelja kvalificiranog udjela primjenjuje se članak 16. stavak 3. ovoga Zakona.
+(3) Hrvatska narodna banka provodi procjenu iz stavka 1. ovoga članka u roku od tri mjeseca od primitka uredne obavijesti iz članka 29. stavaka 1., 2. i 8. ovoga Zakona.
+(4) Ako Hrvatska narodna banka u slučaju iz članka 29. stavaka 1. i 2. ovoga Zakona ocijeni da postoji mogućnost da namjeravani stjecatelj negativno utječe na razborito i pouzdano upravljanje institucijom za elektronički novac, u roku iz stavka 3. ovoga članka donosi rješenje kojim se zabranjuje stjecanje kvalificiranog udjela.
+(5) Ako neposredni stjecatelj nakon donošenja rješenja o zabrani stjecanja iz stavka 4. ovoga članka stekne kvalificirani udio u instituciji za elektronički novac, Hrvatska narodna banka donosi rješenje kojim se:
+1. neposrednom stjecatelju zabranjuje ostvarivanje prava glasa iz određenog dijela udjela (dionica odnosno poslovnog udjela) koji je stekao ili
+2. neposrednom stjecatelju nalaže prodaja određenog dijela udjela (dionica odnosno poslovnog udjela) koji je stekao i dostavljanje dokaza o prodaji, a, ako su mu poznati, i podatke o kupcu, i zabraniti ostvarivanje prava glasa iz tako stečenih dionica odnosno poslovnog udjela.
+(6) Hrvatska narodna banka u rješenju iz stavka 5. točke 2. ovoga članka određuje rok za prodaju, koji ne može biti kraći od tri mjeseca ni duži od devet mjeseci.
+(7) Od primitka rješenja iz stavka 5. ovoga članka stjecatelj ne može ostvarivati pravo glasa iz tako stečenih dionica odnosno poslovnog udjela.
+(8) U slučaju donošenja rješenja iz stavka 5. ovoga članka kvorum za valjano odlučivanje i potrebna većina za donošenje odluka glavne skupštine odnosno skupštine institucije za elektronički novac računaju se u odnosu na temeljni kapital umanjen za iznos dionica na temelju kojih stjecatelj ne može ostvarivati pravo glasa odnosno za iznos preuzetoga temeljnog uloga na osnovi kojeg je stečen poslovni udio na temelju kojeg stjecatelj ne može ostvarivati pravo glasa.
+(9) Glas dan protivno rješenju iz stavka 5. ovoga članka je ništetan.
+(10) Rješenje iz stavka 5. ovoga članka dostavlja se i instituciji za elektronički novac.
+(11) Institucija za elektronički novac dužna je osigurati da stjecatelj iz stavka 5. ovoga članka kojem je Hrvatska narodna banka rješenjem zabranila ostvarivanje prava glasa ne ostvaruje pravo glasa na temelju tako stečenih dionica odnosno poslovnog udjela i o tome obavijestiti Hrvatsku narodnu banku.
+(12) Ako posredni stjecatelj nakon donošenja rješenja o zabrani stjecanja iz stavka 4. ovoga članka stekne kvalificirani udio u instituciji za elektronički novac, Hrvatska narodna banka rješenjem će tom stjecatelju naložiti da stečeni posredni kvalificirani udio u instituciji za elektronički novac smanji za određeni dio te da dostavi dokaz o tako provedenom smanjenju udjela.
+(13) Ako Hrvatska narodna banka u slučaju iz članka 29. stavka 8. ovoga Zakona ocijeni da postoji mogućnost da neposredni stjecatelj negativno utječe na razborito i pouzdano upravljanje institucijom za elektronički novac, postupa na način iz stavka 5. ovoga članka.
+(14) Ako Hrvatska narodna banka u slučaju iz članka 29. stavka 8. ovoga Zakona ocijeni da postoji mogućnost da posredni stjecatelj negativno utječe na razborito i pouzdano upravljanje institucijom za elektronički novac, postupa na način iz stavka 12. ovoga članka.
+(15) U slučajevima iz stavaka od 12. do 14. ovoga članka na odgovarajući se način primjenjuju odredbe stavaka od 6. do 11. ovoga članka.
+(16) Pri donošenju rješenja iz stavka 5. i stavaka od 12. do 14. ovoga članka Hrvatska narodna banka rukovodi se zaštitom javnog interesa, sigurnosti financijskog sustava i zaštitom interesa imatelja elektroničkog novca, korisnika platnih usluga i drugih zainteresiranih strana.
+(17) Ako u roku iz stavka 3. ovoga članka Hrvatska narodna banka ne donese rješenje iz stavka 4. odnosno iz stavaka od 12. do 14. ovoga članka, smatra se da ne postoji mogućnost da predloženi stjecatelj negativno utječe na razborito i pouzdano upravljanje institucijom za elektronički novac.

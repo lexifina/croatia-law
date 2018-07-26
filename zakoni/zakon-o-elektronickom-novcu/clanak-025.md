@@ -1,0 +1,5 @@
+## Pretvaranje institucije za elektronički novac u instituciju za platni promet
+# Članak 25.
+(1) Institucija za elektronički novac koja više ne namjerava izdavati elektronički novac, a namjerava nastaviti s pružanjem platnih usluga koje su sadržane u rješenju kojim se odobrava izdavanje elektroničkog novca, a nisu povezane s izdavanjem elektroničkog novca, dužna je Hrvatskoj narodnoj banci podnijeti zahtjev za izdavanje odobrenja za pružanje tih platnih usluga kao institucija za platni promet u skladu s odredbama zakona kojim se uređuje platni promet.
+(2) Institucija za elektronički novac dužna je uz zahtjev iz stavka 1. ovoga članka dostaviti sve informacije i dokumentaciju u skladu s odredbama o zahtjevu za izdavanje odobrenja za pružanje platnih usluga iz zakona kojim se uređuje platni promet.
+(3) Iznimno od stavka 2. ovoga članka, institucija za elektronički novac ne mora dostaviti one informacije i dokumentaciju koji su već dostavljeni Hrvatskoj narodnoj banci, a koji su relevantni u trenutku podnošenja zahtjeva.

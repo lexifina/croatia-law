@@ -1,0 +1,15 @@
+## Način obavljanja nadzora nad institucijama za elektronički novac
+# Članak 48.
+(1) Hrvatska narodna banka obavlja nadzor nad institucijama za elektronički novac:
+1. prikupljanjem i analizom izvješća i informacija koje su prema odredbama ovoga Zakona i drugih zakona te na temelju njih donesenih propisa institucije za elektronički novac obvezne dostavljati Hrvatskoj narodnoj banci, analizom informacija koje Hrvatskoj narodnoj banci dostave druga nadležna tijela u Republici Hrvatskoj i nadležna tijela država članica domaćina te praćenjem dobivenih pokazatelja poslovanja (engl. off site nadzor)
+2. obavljanjem izravnog nadzora nad poslovanjem institucija za elektronički novac, njihovih podružnica, distributera, zastupnika preko kojih pružaju platne usluge i pružatelja usluga eksternalizacije (engl. on site nadzor) i
+3. nalaganjem nadzornih mjera.
+(2) Hrvatska narodna banka pri utvrđivanju učestalosti i intenziteta nadzora iz stavka 1. ovoga članka rukovodit će se vrstom, opsegom i složenošću usluga izdavanja elektroničkog novca i platnih usluga koje pojedina institucija za elektronički novac obavlja te procijenjenom odnosno utvrđenom rizičnošću njezina poslovanja.
+(3) Nadzor iz stavka 1. točke 1. ovoga članka obavljaju zaposlenici Hrvatske narodne banke.
+(4) Iznimno, za obavljanje pojedinih zadataka u vezi s izravnim nadzorom poslovanja institucije za elektronički novac guverner Hrvatske narodne banke može ovlastiti ovlaštenog revizora, revizorsko društvo ili druge stručno osposobljene osobe.
+(5) Hrvatska narodna banka dužna je najkasnije osam dana prije početka izravnog nadzora instituciji za elektronički novac dostaviti obavijest o izravnom nadzoru.
+(6) Iznimno od stavka 5. ovoga članka, ovlaštena osoba može dostaviti obavijest o izravnom nadzoru najkasnije uoči početka obavljanja izravnog nadzora.
+(7) Obavijest iz stavka 5. odnosno stavka 6. ovoga članka sadržava predmet izravnog nadzora i informacije o tome što je institucija za elektronički novac koja podliježe izravnom nadzoru dužna pripremiti ovlaštenim osobama za potrebe obavljanja izravnog nadzora.
+(8) Institucija za elektronički novac dužna je ovlaštenim osobama omogućiti obavljanje izravnog nadzora i osigurati prikladne uvjete za neometano obavljanje nadzora.
+(9) Institucija za elektronički novac koja podatke obrađuje pomoću računala dužna je na zahtjev ovlaštene osobe osigurati uvjete i primjerena sredstva za pregled poslovnih knjiga i evidencija.
+(10) U sklopu nadzora iz stavka 1. točaka 1. i 2. ovoga članka Hrvatska narodna banka može od članova uprave institucije za elektronički novac odnosno izvršnih direktora te institucije ako ona ima upravni odbor odnosno, ako ta institucija obavlja djelatnost iz članka 15. točke 4. ovoga Zakona, od osobe odgovorne za vođenje poslova u vezi s izdavanjem elektroničkog novca i/ili pružanjem platnih usluga zatražiti sastavljanje pisanog izvješća o svim pitanjima koja su potrebna za obavljanje nadzora ili zatražiti davanje izjave o tim pitanjima u roku koji ne može biti kraći od tri dana.
