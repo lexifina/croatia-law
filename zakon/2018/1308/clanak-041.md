@@ -1,0 +1,67 @@
+# Članak 41.
+U članku 231. stavak 1. mijenja se i glasi:
+»(1) Novčanom kaznom u iznosu od 50.000,00 do 100.000,00 kuna kaznit će se za prekršaj mirovinsko društvo:
+1. ako o održanim sastancima ili sjednicama tijela mirovinskog društva ne vodi zapisnik u skladu s člankom 29. stavkom 2. ovoga Zakona
+2. ako nadzorni odbor ne odluči o davanju suglasnosti upravi na pitanja iz članka 45. stavka 1. ovoga Zakona
+3. ako nadzorni odbor, protivno članku 45. stavku 2. ovoga Zakona, ne da suglasnost na utvrđena načela ulaganja mirovinskih fondova koja su sastavni dio statuta mirovinskog fonda, u skladu s načelima iz članka 124. ovoga Zakona
+4. ako nadzorni odbor ne prati primjenu internih akata mirovinskog društva, u skladu s člankom 45. stavkom 3. ovoga Zakona
+5. ako nadzorni odbor ne nadzire primjerenost postupanja i učinkovitost rada interne revizije, u skladu s člankom 46. stavkom 1. točkom 1. ovoga Zakona
+6. ako nadzorni odbor ne nadzire postupanje mirovinskog društva u skladu s nalozima i rješenjima Agencije te utvrđenjima iz postupka nadzora, u skladu s člankom 46. stavkom 1. točkom 2. ovoga Zakona
+7. ako nadzorni odbor nije podnio izvješće glavnoj skupštini odnosno skupštini o nalozima i utvrđenjima Agencije te postupcima iz članka 46. stavka 1. točke 2. ovoga Zakona, u skladu s člankom 46. stavkom 1. točkom 3. ovoga Zakona
+8. ako nadzorni odbor nije odlučio o davanju suglasnosti na godišnje financijske izvještaje mirovinskog društva i godišnje izvještaje mirovinskih fondova te o njima pisanim putem izvijestio glavnu skupštinu ili skupštinu mirovinskog društva, u skladu s člankom 46. stavkom 1. točkom 4. ovoga Zakona
+9. ako nadzorni odbor nije obrazložio glavnoj skupštini ili skupštini mirovinskog društva svoje mišljenje o godišnjem izvješću interne revizije i o godišnjem izvješću uprave, u skladu s člankom 46. stavkom 1. točkom 5. ovoga Zakona
+10. ako nije uspostavilo, ne provodi ili redovito ne ažurira, ne procjenjuje i ne nadzire učinkovite i primjerene opće organizacijske uvjete te nije uspostavilo, ne provodi ili redovito ne ažurira, ne procjenjuje i ne nadzire politike, mjere i postupke iz članka 48. ovoga Zakona ili pravilnika iz članka 58. ovoga Zakona
+11. ako ne organizira poslovanje na način da svodi rizik sukoba interesa na najmanju moguću mjeru, u skladu s člankom 49. stavkom 1. ovoga Zakona
+12. ako nije, uzimajući u obzir vrstu, opseg i složenost poslovanja, uspostavilo i ne provodi učinkovite politike upravljanja sukobima interesa, u skladu s člankom 49. stavkom 4. ovoga Zakona
+13. ako uzimajući u obzir vrstu, opseg i složenost poslovanja, redovito ne ažurira i ne nadzire učinkovite politike upravljanja sukobima interesa, u skladu s člankom 49. stavkom 4. ovoga Zakona
+14. ako nije uspostavilo i ne provodi politike o osobnim transakcijama relevantnih osoba i osoba koje su s njima u srodstvu s financijskim instrumentima u koje ulažu mirovinski fondovi kojima upravlja mirovinsko društvo radi sprječavanja sukoba interesa, u skladu s člankom 49. stavkom 5. ovoga Zakona
+15. ako redovito ne ažurira politike o osobnim transakcijama relevantnih osoba i osoba koje su s njima u srodstvu s financijskim instrumentima u koje ulažu mirovinski fondovi kojima upravlja mirovinsko društvo radi sprječavanja sukoba interesa, u skladu s člankom 49. stavkom 5. ovoga Zakona
+16. ako ne uspostavi i ne provodi primjerene politike i postupke kako bi osiguralo da posluje u skladu s ovim Zakonom i propisima donesenima na temelju ovoga Zakona, kao i s drugim relevantnim propisima te ne osigura da članovi uprave i druge relevantne osobe postupaju u skladu s ovim Zakonom i propisima donesenima na temelju ovoga Zakona te internim aktima mirovinskog društva, u skladu s člankom 50. stavkom 2. ovoga Zakona
+17. ako redovito ne ažurira, ne procjenjuje i ne nadzire politike i postupke kako bi osiguralo da posluje u skladu s ovim Zakonom i propisima donesenima na temelju ovoga Zakona, kao i s drugim relevantnim propisima te ne osigura da članovi uprave i druge relevantne osobe postupaju u skladu s ovim Zakonom i propisima donesenima na temelju ovoga Zakona te internim aktima mirovinskog društva, u skladu s člankom 50. stavkom 2. ovoga Zakona
+18. ako nije ustrojilo trajnu i učinkovitu funkciju usklađenosti, u skladu s pravilnikom iz članka 58. ovoga Zakona
+19. ako ne ustroji interno tijelo koje donosi odluke vezano uz korporativno upravljanje i odnose s izdavateljima čiji su vrijednosni papiri u vlasništvu mirovinskih fondova kojima mirovinsko društvo upravlja, a koje se mora sastojati od osoba s odgovarajućim znanjem iz područja korporativnog upravljanja, u skladu s člankom 53. stavkom 1. ovoga Zakona
+20. ako ne ustroji internu reviziju u skladu s člankom 54. stavkom 1. i pravilnikom iz članka 54. stavka 2. ovoga Zakona
+21. ako nije poduzelo sve primjerene mjere potrebne da bi se osiguralo njegovo neprekidno i redovito poslovanje, u skladu s člankom 55. stavkom 1. ovoga Zakona
+22. ako nije propisalo ili ne implementira jasne politike i procedure nagrađivanja radnika, članova uprave i nadzornog odbora, čiji rad može imati materijalni utjecaj na profil rizičnosti mirovinskog društva ili mirovinskog fonda, u skladu s člankom 56. stavkom 1. ovoga Zakona
+23. ako uprava mirovinskog društva ne usvoji i najmanje jednom godišnje ne preispita opća načela politika nagrađivanja, u skladu s člankom 56. stavkom 5. ovoga Zakona
+24. ako najmanje jednom godišnje interno ne revidira primjenu politike i procedure nagrađivanja, u skladu s člankom 56. stavkom 6. ovoga Zakona
+25. ako isplati nagradu radnicima, prokuristima, članovima uprave i nadzornog odbora protivno članku 56. stavku 8. ovoga Zakona
+26. ako u godišnjim financijskim izvještajima mirovinskog društva ne objavi podatke iz članka 56. stavka 10. ovoga Zakona
+27. ako ne vodi i ne čuva evidencije i poslovnu dokumentaciju o svim aktivnostima, kao i transakcijama koje je izvršilo, posebice vezanima uz upravljanje imovinom mirovinskim fondovima, na način koji omogućuje nadzor nad poslovanjem u skladu s odredbama ovoga Zakona i propisa donesenih na temelju ovoga Zakona, a posebice nad ispunjavanjem obveza prema članovima i potencijalnim članovima mirovinskog fonda, u skladu s odredbama članka 57. stavka 2. ovoga Zakona
+28. ako ne organizira poslovanje i ne vodi ažurno poslovnu dokumentaciju i druge administrativne ili poslovne evidencije na način koji omogućuje da se u svakom trenutku može provjeriti tijek pojedinog posla koji je izvršilo za svoj račun ili račun pojedinog mirovinskog fonda, u skladu s odredbama članka 57. stavka 3. ovoga Zakona
+29. ako ne izrađuje ili ne dostavlja izvještaje mirovinskog društva Agenciji u rokovima ili na način propisan pravilnikom iz članka 64. stavka 2. ovoga Zakona, odnosno pravilnikom iz članka 64. stavka 3. ovoga Zakona
+30. ako sklopi ugovor o zakonskoj reviziji s revizorom koji ne ispunjava uvjete iz članka 65. stavaka 4. i 5. ovoga Zakona, protivno članku 65. stavku 3. ovoga Zakona
+31. ako ne dostavi revizorski izvještaj o obavljenoj zakonskoj reviziji godišnjih financijskih izvještaja, uključujući godišnje izvješće i financijske izvještaje iz članka 64. stavka 2. ovoga Zakona, u roku iz članka 65. stavka 7. ovoga Zakona
+32. ako nije ponovo izradilo godišnje financijske izvještaje, osiguralo obavljanje zakonske revizije tih izvještaja te revizorskog izvještaja, uključujući i relevantne financijske izvještaje i dostavilo Agenciji u roku koji je ona odredila svojim rješenjem, protivno članku 66. stavku 4. ovoga Zakona
+33. ako objavi godišnje financijske izvještaje koji su odbijeni odnosno odbačeni te ne osigura da godišnji financijski izvještaji, koji su odbijeni odnosno odbačeni, budu javno objavljeni i ako ne osigura da se povuku iz javne objave već objavljeni godišnji financijski izvještaji koji su odbijeni odnosno odbačeni, protivno članku 66. stavku 7. ovoga Zakona
+34. ako preuzme poslove upravljanja mirovinskim fondom bez odobrenja Agencije, protivno članku 69. stavku 2. ovoga Zakona
+35. prenositelj i preuzimatelj ako zajednički javno ne objave informaciju o prijenosu upravljanja u roku iz članka 72. stavka 1. ovoga Zakona
+36. prenositelj ako putem Središnjeg registra osiguranika ne obavijesti sve članove mirovinskih fondova o prijenosu upravljanja, u skladu s člankom 72. stavkom 2. ovoga Zakona
+37. preuzimatelj ako putem Središnjeg registra osiguranika ne obavijesti sve članove mirovinskih fondova o prijenosu upravljanja, u skladu s člankom 72. stavkom 2. ovoga Zakona
+38. ako u slučaju iz članka 104. stavka 1. ovoga Zakona ne prenese ukupna kapitalizirana sredstva s osobnog računa člana fonda u državni proračun, na način i u roku iz članka 104. stavka 3. ovoga Zakona
+39. ako ne izvijesti Agenciju i Središnji registar osiguranika o činjenici da izračun i kontrola neto vrijednosti imovine mirovinskog fonda nisu izvršeni u propisanom roku, na način i u roku iz članka 111. stavka 11. ovoga Zakona
+40. ako promidžbeni sadržaj o mirovinskom društvu i mirovinskim fondovima koji je namijenjen članovima ili potencijalnim članovima mirovinskih fondova ne ispunjava zahtjeve iz članka 114. stavka 2. ovoga Zakona
+41. ako prikazuje rezultate poslovanja mirovinskog fonda protivno odredbama članka 115. stavka 1. i pravilnika iz članka 115. stavka 2. ovoga Zakona
+42. ako u odnosima s članovima, potencijalnim članovima, poslodavcima, sindikatima i radnicima, postupa protivno odredbama članka 117. stavka 1. ovoga Zakona
+43. ako promidžbeni sadržaj o mirovinskom društvu i mirovinskim fondovima ne dostavi Agenciji, u skladu s člankom 118. stavkom 3. ovoga Zakona
+44. ako informacije objavljene u svrhu promidžbe mirovinskih fondova nisu potpune i točne, u skladu s člankom 118. stavkom 4. ovoga Zakona i pravilnikom iz članka 120. ovoga Zakona
+45. ako ne uspostavi i ne ostvaruje primjerene postupke za rješavanje pritužbi članova mirovinskog fonda, u skladu s člankom 121. točkama 1. i 2. ovoga Zakona
+46. ako ne vodi evidenciju o svim pritužbama članova mirovinskog fonda i poduzetim mjerama, u skladu s rokom iz članka 121. točke 3. ovoga Zakona
+47. ako ne čuva dokumentaciju o svim pritužbama članova mirovinskog fonda i poduzetim mjerama, u skladu s rokom iz članka 121. točke 3. ovoga Zakona
+48. ako se imovina mirovinskog fonda ulaže na način da nije valutno usklađena s obvezama mirovinskog fonda u skladu s člankom 129. ovoga Zakona, a ne uskladi ulaganja fonda u roku iz članka 135. stavaka 2., 3. ili 4. ovoga Zakona
+49. ako se imovina mirovinskog fonda ulaže na način da nije ročno usklađena s obvezama mirovinskog fonda u skladu s člankom 130. ovoga Zakona, a ne uskladi ulaganja fonda u roku iz članka 135. stavaka 2., 3. ili 4. ovoga Zakona
+50. ako ne usvoji statute mirovinskih fondova u skladu s člancima 138. do 140. ovoga Zakona, u skladu s člankom 137. stavkom 1. točkom 1. ovoga Zakona
+51. ako ne objavi statute mirovinskih fondova u skladu s člancima 138. do 140. ovoga Zakona, u skladu s člankom 137. stavkom 1. točkom 1. ovoga Zakona
+52. ako ne usvoji informativni prospekt mirovinskih fondova u skladu s člancima 141. do 143. ovoga Zakona, u skladu s člankom 137. stavkom 1. točkom 2. ovoga Zakona
+53. ako ne objavi informativni prospekt mirovinskih fondova u skladu s člancima 141. do 143. ovoga Zakona, u skladu s člankom 137. stavkom 1. točkom 2. ovoga Zakona
+54. ako ne usvoji tromjesečne i revidirane godišnje izvještaje mirovinskih fondova u skladu s člancima 144. do 148. ovoga Zakona, u skladu s člankom 137. stavkom 1. točkom 3. ovoga Zakona
+55. ako ne objavi tromjesečne i revidirane godišnje izvještaje mirovinskih fondova u skladu s člancima 144. do 148. ovoga Zakona, u skladu s člankom 137. stavkom 1. točkom 3. ovoga Zakona
+56. ako ne obavijesti članove mirovinskog fonda o događajima iz članka 149. i 150. ovoga Zakona, u skladu s člankom 137. stavkom 1. točkom 4. ovoga Zakona
+57. ako sklopi ugovor o zakonskoj reviziji s revizorom koji ne ispunjava uvjete iz članka 146. stavaka 4. i 5. ovoga Zakona, protivno članku 146. stavku 3. ovoga Zakona
+58. ako nije ponovo izradilo godišnje izvještaje mirovinskog fonda, nije osiguralo obavljanje zakonske revizije tih izvještaja te revizorsko izvješće, uključujući i relevantne godišnje izvještaje, nije ih dostavilo Agenciji u roku koji je ona svojim rješenjem odredila, u skladu s člankom 146. stavkom 10. ovoga Zakona
+59. ako objavi godišnje financijske izvještaje koji su odbijeni odnosno odbačeni i ako ne povuče iz javne objave već objavljene godišnje financijske izvještaje koji su odbijeni odnosno odbačeni, u skladu s člankom 146. stavkom 13. ovoga Zakona
+60. ako ne dostavi Agenciji tromjesečne izvještaje i revidirane godišnje izvještaje mirovinskog fonda u skladu s rokovima iz članka 147. stavka 1. odnosno stavka 2. ovoga Zakona
+61. ako ne dostavi Središnjem registru osiguranika tromjesečne izvještaje i revidirane godišnje izvještaje mirovinskog fonda u skladu s rokovima iz članka 147. stavka 1., odnosno stavka 2. ovoga Zakona
+62. ako ne da članu mirovinskog fonda besplatno presliku izvješća revizora o pripajanju, najkasnije sljedeći radni dan od primitka pisanog zahtjeva, protivno članku 163. stavku 2. ovoga Zakona
+63. ako ne objavi informaciju o provedbi pripajanja na način i u roku iz članka 166. ovoga Zakona
+64. ako informativni prospekt mirovinskog fonda, kada je depozitar delegirao poslove iz članka 172. stavka 1. točke 1. ovoga Zakona na treće osobe, u dijelu koji se odnosi na depozitara, ne sadrži i podatke iz članka 185. točaka 1. do 3. ovoga Zakona.«.

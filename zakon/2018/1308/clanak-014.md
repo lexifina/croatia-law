@@ -1,0 +1,12 @@
+# Članak 14.
+Članak 65. mijenja se i glasi:
+»(1) Godišnji financijski izvještaji mirovinskog društva podliježu obvezi zakonske revizije za svaku poslovnu godinu.
+(2) Zakonsku reviziju iz stavka 1. ovoga članka provodi revizor na način i pod uvjetima određenima propisima kojima se uređuje računovodstvo i revizija te pravilima revizorske struke, ako ovim Zakonom i propisima donesenim na temelju ovoga Zakona nije drugačije određeno.
+(3) Mirovinsko društvo može za pružanje revizorskih usluga sklopiti ugovor samo s revizorom koji ispunjava uvjete iz stavaka 4. i 5. ovoga članka.
+(4) Isti revizor može obavljati zakonsku reviziju financijskih izvještaja određenog mirovinskog društva najviše za sedam uzastopnih godina.
+(5) Isti revizor ne smije sljedeće četiri godine obavljati zakonsku reviziju tog mirovinskog društva.
+(6) Zakonsku reviziju financijskih izvještaja mirovinskog društva može obavljati samo revizorsko društvo u kojem tu reviziju obavljaju najmanje tri ovlaštena revizora koji su radnici revizorskog društva zaposleni u punom radnom vremenu.
+(7) Revizor koji obavlja zakonsku reviziju financijskih izvještaja mirovinskog društva i svi članovi mreže kojoj revizor pripada ne smiju pružati, izravno ili neizravno, mirovinskom društvu koje je predmet revizije, njegovu matičnom društvu ili društvima koja su pod njegovom kontrolom u Republici Hrvatskoj ili drugim državama članicama bilo koje zabranjene nerevizorske usluge iz članka 5. stavka 1. Uredbe (EU) br. 537/2014 Europskog parlamenta i Vijeća od 16. travnja 2014. o posebnim zahtjevima u vezi zakonske revizije subjekata od javnog interesa i stavljanju izvan snage Odluke Komisije 2005/909/EZ tijekom:
+a) razdoblja između početka razdoblja koje je predmet revizije i izdavanja revizorskog izvještaja i
+b) poslovne godine koja prethodi razdoblju iz točke a) ovoga stavka u vezi s uslugom osmišljavanja i provedbe postupaka unutarnje kontrole ili upravljanja rizikom povezanih s pripremom i/ili nadzorom financijskih informacija ili osmišljavanja i provedbe tehnoloških sustava za financijske informacije.
+(8) Mirovinsko društvo dužno je Agenciji dostaviti revizorski izvještaj o obavljenoj zakonskoj reviziji godišnjih financijskih izvještaja, uključujući godišnje izvješće i financijske izvještaje iz članka 64. stavka 2. ovoga Zakona, u roku od 15 dana od datuma izdavanja revizorskog izvještaja, a najkasnije u roku od četiri mjeseca nakon isteka poslovne godine za koju se izvještaji sastavljaju.«.
