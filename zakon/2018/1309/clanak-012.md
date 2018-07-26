@@ -1,0 +1,7 @@
+# Članak 12.
+Članak 15. mijenja se i glasi:
+»(1) Zahtjev za priznavanjem i vrednovanjem prethodnog učenja može podnijeti svaki pojedinac pravnoj ili fizičkoj osobi ovlaštenoj za vrednovanje skupova ishoda učenja i dodjelu potvrda o stečenim skupovima ishoda učenja, odnosno ustanovi, kao i tijelu državne uprave, strukovnoj komori ili instituciji koja za to ima opravdan interes utvrđen temeljem posebnih propisa, ovlaštenoj za dodjelu kvalifikacije, u skladu s odobrenim programima vrednovanja skupova ishoda učenja iz Registra.
+(2) Zahtjev za priznavanjem i vrednovanjem prethodnog učenja iz stavka 1. ovoga članka ne može se podnijeti radi stjecanja cjelovite kvalifikacije na razini 6 HKO-a i više.
+(3) Postupak prijave, priznavanja i vrednovanja prethodnog učenja na razini 6 HKO-a i više uređuje se općim aktima visokih učilišta.
+(4) Osiguravanje kvalitete postupka priznavanja i vrednovanja prethodnog učenja te dodjele potvrde o stečenim skupovima ishoda učenja i dodjele kvalifikacije provodi ovlaštena ustanova za osiguravanje kvalitete koja je podložna redovitom ocjenjivanju postupaka osiguravanja kvalitete.
+(5) Postupak prijave, priznavanja i vrednovanja prethodnog učenja i dodjele kvalifikacija temeljem postupka vrednovanja prethodnog učenja na razini 5 HKO-a i niže detaljno se propisuje Pravilnikom o priznavanju i vrednovanju prethodnog učenja, koji donosi ministar nadležan za obrazovanje i znanost, i provodi u skladu s odgovarajućim programima vrednovanja skupova ishoda učenja iz Registra.«.
