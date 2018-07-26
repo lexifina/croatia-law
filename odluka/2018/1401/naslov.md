@@ -1,0 +1,1 @@
+Odluka o određivanju središnjih tijela za provedbu Uredbe (EU) br. 2016/1191 Europskog parlamenta i Vijeća od 6. srpnja 2016. o promicanju slobodnog kretanja građana pojednostavnjenjem zahtjeva za predočavanje određenih javnih isprava u Europskoj uniji i o izmjeni Uredbe (EU) br. 1024/2012
