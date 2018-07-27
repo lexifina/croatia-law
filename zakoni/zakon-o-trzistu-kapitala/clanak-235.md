@@ -1,0 +1,5 @@
+## Nadzor mješovitih financijskih holdinga
+# Članak 235.
+(1) Ako se na mješoviti financijski holding primjenjuju jednake odredbe prema ovome Zakonu i prema propisu kojim se uređuje nadzor financijskih konglomerata, posebice u smislu nadzora na temelju rizika, Agencija može, nakon savjetovanja s drugim nadležnim tijelima odgovornim za nadzor društava kćeri, na te mješovite financijske holdinge primjenjivati samo navedeni propis.
+(2) Ako se na mješoviti financijski holding primjenjuju jednake odredbe prema ovome Zakonu i kako je definirano propisima kojima se uređuju uvjeti za osnivanje i poslovanje društava za osiguranje, posebice u smislu nadzora na temelju rizika, Agencija može, uz suglasnost nadzornog tijela grupe u sektoru osiguranja, na taj mješoviti financijski holding primjenjivati samo odredbe ovoga Zakona koje se odnose na najznačajniji financijski sektor, kao što je definirano propisima koji uređuju nadzor financijskih konglomerata.
+(3) Agencija izvješćuje EBA-u i EIOPA-u o odlukama donesenima u skladu sa stavcima 1. i 2. ovoga članka.

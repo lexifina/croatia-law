@@ -1,0 +1,7 @@
+## Prenošenje nadležnosti i odgovornosti za odlučivanje o odobrenju prospekta
+# Članak 429.
+(1) Agencija može nadležnost i odgovornost za odlučivanje o odobrenju prospekta prenijeti nadležnom tijelu druge države članice pod uvjetom da o tome prethodno obavijesti ESMA-u i da se nadležno tijelo druge države članice s time suglasilo.
+(2) O prijenosu nadležnosti i odgovornosti u skladu s odredbama stavka 1. ovoga članka Agencija će obavijestiti podnositelja zahtjeva za odobrenje prospekta u roku od tri radna dana od datuma odluke Agencije o prijenosu.
+(3) Rok za donošenje odluke o odobrenju prospekta iz članka 432. stavaka 1. i 2. ovoga Zakona, počinje teći od dana kada je podnositelj zahtjeva za odobrenje prospekta obaviješten o prijenosu nadležnosti i odgovornosti u skladu s odredbama stavka 2. ovoga članka.
+(4) Kod primjene ovoga članka koriste se provedbeni tehnički standardi koje je ESMA ovlaštena izraditi, a Europska komisija donijeti u skladu s člankom 13. stavkom 5. Direktive 2003/71/EZ i njezinim izmjenama i dopunama, radi olakšavanja komunikacije između nadležnih tijela, kao i nadležnih tijela i ESMA-e i utvrđivanja standardnih obrazaca, modela i postupaka koji se odnose na obavijesti iz ovoga članka.
+(5) Na prijenos nadležnosti i odgovornosti za odlučivanje o odobrenju prospekta u skladu s odredbama ovoga članka, ne primjenjuju se obveze obavještavanja ESMA-e o sporazumima o delegiranju propisane člankom 28. stavkom 4. Uredbe (EU) br. 1095/2010.

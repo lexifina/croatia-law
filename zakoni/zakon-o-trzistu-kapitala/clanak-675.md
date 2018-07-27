@@ -1,0 +1,3 @@
+## Nezakonitosti i nepravilnosti vođenja poslovnih knjiga, druge poslovne dokumentacije i organizacijskih zahtjeva
+# Članak 675.
+Kada Agencija utvrdi nezakonitosti i nepravilnosti koje se odnose na vođenje poslovnih knjiga i druge poslovne dokumentacije, koje je središnje klirinško depozitarno društvo dužno voditi prema odredbama ovoga Zakona, na temelju njega donesenih propisa ili drugih relevantnih propisa, ili ako utvrdi značajne povrede odredbi o organizacijskim zahtjevima za središnje klirinško depozitarno društvo, može naložiti središnjem klirinškom depozitarnom društvu da podnese izvještaj o otklanjanju nezakonitosti i nepravilnosti, kojemu je dužno priložiti mišljenje ovlaštenog revizora iz kojeg je vidljivo da su nezakonitosti i nepravilnosti otklonjene.

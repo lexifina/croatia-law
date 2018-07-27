@@ -1,0 +1,9 @@
+## Zahtjev za dostavom podataka od nadležnih tijela država članica
+# Članak 228.
+(1) Ako Agencija provodi nadzor investicijskog društva koje kontrolira matično investicijsko društvo u EU i ako su joj potrebni podaci o korištenju pristupa i metodologije za izračun kapitalnih zahtjeva i ograničenja u skladu s ovim Zakonom i Uredbom (EU) br. 575/2013, tada će od nadležnog tijela za nadzor matičnog investicijskog društva u EU zatražiti podatke dostupne tom tijelu.
+(2) Ako su Agenciji u svezi s nadzorom na konsolidiranoj osnovi za koji je nadležna potrebni podaci o grupi investicijskih društava, a ti podaci su već dostavljeni drugom nadležnom tijelu, tada će Agencija, ako je moguće, te podatke zatražiti od tog nadležnog tijela kako bi se izbjeglo duplicirano izvještavanje prema različitim nadležnim tijelima koja su uključena u nadzor.
+(3) Agencija će se konzultirati prije donošenja odluke koja je važna za obavljanje nadzora drugih nadležnih tijela država članica s tim nadležnim tijelima o sljedećem:
+1. promjenama u dioničkoj, organizacijskoj ili upravljačkoj strukturi investicijskog društva u grupi za koje je potrebno odobrenje nadležnog tijela i
+2. težim prekršajima i nadzornim mjerama koje su izrečene investicijskom društvu u skladu s ovim Zakonom, uključujući dodatne nadzorne mjere za upravljanje rizicima iz članka 205. ovoga Zakona i ograničenja za korištenje naprednog pristupa za izračun kapitalnih zahtjeva za operativni rizik iz članka 172. ovoga Zakona te članka 312. stavka 2. Uredbe (EU) br. 575/2013.
+(4) U slučaju iz stavka 3. točke 2. ovoga članka, Agencija će se konzultirati s tijelom nadležnim za nadzor na konsolidiranoj osnovi.
+(5) Iznimno od stavaka 3. i 4. ovoga članka, Agencija nije u obvezi konzultirati se s drugim nadležnim tijelima u hitnim slučajevima ili onda kada takva konzultacija može ugroziti djelotvornost odluke. U takvim slučajevima Agencija će bez odgode izvijestiti druga nadležna tijela o donesenoj odluci.

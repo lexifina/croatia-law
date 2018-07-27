@@ -1,0 +1,27 @@
+## Osobe na koje se ne odnosi obveza čuvanja povjerljivih informacija
+# Članak 401.
+(1) Agencija može povjerljive informacije proslijediti sljedećim osobama u Republici Hrvatskoj ili u drugoj državi članici:
+1. nadležnim tijelima ovlaštenim za nadzor investicijskih društava, kreditnih i financijskih institucija, te društava za osiguranje, kao i nadzor nad izvršavanjem obveze objave prospekta kod javne ponude ili uvrštenja vrijednosnih papira na uređeno tržište, u obavljanju njihovih zakonom utvrđenih zadataka
+2. tijelima nadležnim za očuvanje financijske stabilnosti primjenom makrobonitetnih propisa u obavljaju poslova za koje su ovlaštena
+3. tijelima koja provode reorganizacijske mjere radi očuvanja financijske stabilnosti u obavljaju poslova za koje su ovlaštena
+4. sudu i drugim tijelima ili pravnim osobama ovlaštenim za obavljanje poslova u provođenju postupka likvidacije ili stečaja nadziranih osoba iz točke 1. ovoga stavka ili u drugim sličnim postupcima u obavljanju njihovih zakonom utvrđenih zadataka
+5. revizorima koji obavljaju reviziju nadziranih osoba iz točke 1. ovoga stavka u obavljanju njihovih zakonom utvrđenih zadataka
+6. institucionalnim sustavima zaštite iz članka 113. stavka 7. Uredbe (EU) br. 575/2013
+7. tijelima koja administriraju sustave za osiguranje depozita i sustave za zaštitu ulagatelja
+8. tijelima koja su nadležna za nadzor nad tijelima koja obavljaju poslove u postupku likvidacije ili stečaja kreditne institucije ili u nekom drugom sličnom postupku ako su potrebne za obavljanje njihovih nadzornih zadataka
+9. tijelima koja su nadležna za nadzor nad revizorima koji obavljaju reviziju investicijskih društava, kreditnih i financijskih institucija ako su potrebne za obavljanje njihovih nadzornih zadataka
+10. tijelima koja su nadležna za nadzor nad institucionalnim sustavima zaštite iz članka 113. stavka 7. Uredbe (EU) br. 575/2013 ako su potrebne za obavljanje njihovih nadzornih zadataka
+11. ESMA-i, EBA-i, EIOPA-i, ESRB-u, Europskom sustavu središnjih banaka, Europskoj središnjoj banci, središnjoj banci ili drugom tijelu s ovlastima i dužnostima provođenja monetarne politike i povezanog osiguranja likvidnosti odnosno drugom tijelu nadležnom za nadzor platnih sustava i sustava poravnanja i namire, kao i očuvanja stabilnosti financijskog sustav, a kada su potrebne za izvršavanje njihovih zadatka
+12. ministarstvu nadležnom za financije odnosno državnom tijelu ovlaštenom za predlaganje zakona iz područja nadzora tržišta kapitala, kreditnih institucija, financijskih institucija, investicijskih društava i društava za osiguranje samo za potrebe provođenja nadzora iz svoje nadležnosti i za provođenje preventivnih i sanacijskih mjera za investicijsko društvo koje posluje s poteškoćama
+13. klirinškoj organizaciji koja obavlja poslove poravnanja ili namire, ako Agencija ocijeni da su ti podaci potrebni za stabilno poslovanje s obzirom na rizik neispunjenja ili mogućeg neispunjenja obveza sudionika sustava poravnanja i namire i
+14. sanacijskim tijelima i ministarstvu nadležnom za financije na temelju zakona kojim se uređuje sanacija investicijskih društava.
+(2) Agencija može, u cilju jačanja stabilnosti i cjelovitosti tržišta kapitala, razmjenjivati podatke i s drugim nadležnim tijelima u Republici Hrvatskoj i drugoj državi članici koji u skladu sa zakonom provode postupke istrage i kažnjavanja u slučajevima kršenja prava trgovačkih društava, ako to pisanim putem zatraži ili naloži nadležni sud. Podaci koje je Agencija pribavila od drugih nadležnih tijela mogu se priopćiti trećima samo uz suglasnost tijela koje je informaciju dalo.
+(3) Agencija može podatke primljene na temelju članka 400. stavka 6. ovoga Zakona, priopćiti tijelima iz stavaka 1. i 2. ovoga članka, samo uz izričitu suglasnost nadležnog tijela od kojeg je podatak primila.
+(4) Osobe kojima Agencija dostavi povjerljive podatke u skladu sa stavcima 1. i 2. ovoga članka, mogu ih upotrijebiti samo za svrhe za koje su dane i na njih se primjenjuje obveza čuvanja povjerljivih informacija iz članka 400. ovoga Zakona.
+(5) Kada se tijela iz stavka 1. točaka 8., 9. i 10. ovoga članka u obavljanju svojih zadataka koriste uslugama osoba koje nisu zaposlene u javnom sektoru, Agencija može i s tim osobama razmjenjivati informacije iz stavka 2. ovoga članka pod uvjetima iz ovoga članka. Ta tijela dostavljaju Agenciji imena i detaljne podatke o odgovornostima osoba kojima Agencija dostavlja povjerljive informacije.
+(6) Agencija može povjerljive informacije povezane s nadzorom adekvatnosti kapitala investicijskih društava dostaviti istražnim povjerenstvima Hrvatskoga sabora, Državnom uredu za reviziju i drugim istražnim tijelima ako su ispunjeni svi sljedeći uvjeti:
+1. tijela imaju na zakonu utemeljene ovlasti za provođenje temeljite kontrole i istraživanja djelovanja Agencije u obavljanju nadzora investicijskih društava
+2. tijelima su povjerljive informacije neophodne u svrhu ispunjenja njihovih zakonskih ovlasti
+3. na zaposlenike ili članove tijela primjenjuje se obveza čuvanja povjerljivih informacija iz članka 400. ovoga Zakona
+4. ako su povjerljive informacije dobivene od nadležnih tijela druge države članice, one se ne smiju učiniti dostupnima bez izričite suglasnosti tih nadležnih tijela i mogu se upotrijebiti samo u svrhu za koju su dane i
+5. ako povjerljive informacije sadrže osobne podatke, pri korištenju tih podataka ta su tijela dužna postupati u skladu sa odredbama propisa kojima je uređena zaštita osobnih podataka.

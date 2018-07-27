@@ -1,0 +1,12 @@
+## Savjetovanja prije izdavanja odobrenja za rad
+# Članak 396.
+(1) Agencija će, prije izdavanja odobrenja za rad investicijskom društvu, pribaviti mišljenje nadležnog tijela države članice, kada je investicijsko društvo:
+1. društvo kći investicijskog društva ili tržišnog operatera ili kreditne institucije koje je dobilo odobrenje za rad u drugoj državi članici
+2. društvo kći matičnog društva investicijskog društva ili kreditne institucije koje je dobilo odobrenje za rad u drugoj državi članici ili
+3. kontrolirano od strane iste fizičke ili pravne osobe koja kontrolira investicijsko društvo ili kreditnu instituciju koja je dobila odobrenje za rad u drugoj državi članici.
+(2) Agencija će, prije izdavanja odobrenja za rad investicijskom društvu ili tržišnom operateru, pribaviti mišljenje tijela države članice, nadležnog za nadzor kreditne institucije ili društva za osiguranje, kada je investicijsko društvo ili tržišni operater:
+1. društvo kći kreditne institucije ili društva za osiguranje koje je dobilo odobrenje za rad u Europskoj uniji
+2. društvo kći matičnog društva kreditne institucije ili društva za osiguranje koje je dobilo odobrenje za rad u Europskoj uniji ili
+3. kontrolirano od strane iste fizičke ili pravne osobe koja kontrolira kreditnu instituciju ili društvo za osiguranje koje je dobilo odobrenje za rad u Europskoj uniji.
+(3) Agencija će mišljenja nadležnih tijela iz stavaka 1. i 2. ovoga članka uzeti u obzir posebno pri procjeni prikladnosti imatelja kvalificiranih udjela i ugleda i iskustva osoba koje vode poslovanje investicijskog društva, a koje su uključene u vođenje poslovanja društva unutar iste grupe, kako za potrebe odlučivanja o izdavanju odobrenja za rad investicijskom društvu ili tržišnom operateru, tako i kod procjene trajnog ispunjavanja uvjeta poslovanja za investicijska društva. Agencija razmjenjuje sve relevantne informacije s nadležnim tijelima drugih država članica.
+(4) Standardni obrasci, predlošci i postupci za savjetovanje s drugim nadležnim tijelima prije izdavanja odobrenja za rad propisani su Provedbenom uredbom Komisije (EU) 2017/981 od 7. lipnja 2017. o utvrđivanju provedbenih tehničkih standarda u vezi sa standardnim obrascima, predlošcima i postupcima za savjetovanje s drugim nadležnim tijelima prije izdavanja odobrenja za rad u skladu s Direktivom 2014/65/EU Europskog parlamenta i Vijeća (Tekst značajan za EGP) (SL L 148, 10. 6. 2017.).

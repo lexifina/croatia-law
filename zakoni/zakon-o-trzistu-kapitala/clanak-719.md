@@ -1,0 +1,5 @@
+## Prekršaji fizičke osobe
+# Članak 719.
+Za prekršaj kaznit će se fizička osoba novčanom kaznom u iznosu od 10.000,00 do 50.000,00 kuna ako:
+1. kao član uprave središnje druge ugovorne strane nije osigurala provođenje nadzornih mjera koje je naložila Agencija u skladu sa svojim nadležnostima i ovlastima, u skladu s obvezom iz stavka 3. članka 550. ovoga Zakona
+2. kao član uprave središnje druge ugovorne strane nije uspostavila djelotvoran i pouzdan sustav upravljanja središnje druge ugovorne strane iz članka 550. stavka 4. ovoga Zakona ili isti nije primjenjivala, što je dovelo do materijalnih neusklađenosti središnjeg depozitorija s odredbama Uredbe (EU) br. 648/2012, tehničkim standardima koji su doneseni na temelju Uredbe (EU) br. 648/2012, odredbama ovoga Zakona, propisima donesenim na temelju ovoga Zakona te, kada je primjenjivo, ostalim propisima Europske unije kojima se uređuje poslovanje središnje druge ugovorne strane i drugim propisima kojima se uređuje poslovanje središnje druge ugovorne strane ili pravilima struke, protivno odredbama članka 550. stavka 2. ovoga Zakona.

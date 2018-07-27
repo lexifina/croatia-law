@@ -1,0 +1,6 @@
+## Utvrđivanje visine tražbine
+# Članak 260.
+(1) Tražbine koje se odnose na zajedničko ulaganje na koje dvije ili više osoba imaju pravo kao članovi tržišnog partnerstva, poslovnog udruženja ili grupacije slične prirode koja nema pravnu osobnost, za potrebe ove glave, za potrebe izračuna iznosa visine osigurane tražbine se zbrajaju te će ih se smatrati kao da proizlaze iz ulaganja jednog ulagatelja.
+(2) Ako ulagatelj nema neograničeno pravo raspolaganja novčanim sredstvima ili financijskim instrumentima, osoba koja ima neograničeno pravo raspolaganja dobit će kompenzaciju, pod uvjetom da se tu osobu može identificirati prije dana objave rješenja iz članka 266. ovoga Zakona.
+(3) Ako dvije ili više osoba imaju neograničeno pravo raspolaganja novčanim sredstvima ili financijskim instrumentima, udio svake od navedenih osoba uzet će se u obzir kada se utvrđuje iznos iz članka 261. ovoga Zakona, prema pravilima prema kojima se upravlja novčanim sredstvima ili financijskim instrumentima. Ova se odredba ne odnosi na subjekte za zajednička ulaganja.
+(4) U smislu ovoga članka, zajedničko ulaganje znači ulaganje koje se provodi za račun dvije ili više osoba ili nad kojim dvije ili više osoba imaju prava koja se mogu koristiti na temelju potpisa jedne ili više tih osoba.

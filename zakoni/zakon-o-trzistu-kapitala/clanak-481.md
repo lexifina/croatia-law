@@ -1,0 +1,4 @@
+## Odgovornost za propisane informacije ako su vrijednosni papiri izdavatelja uvršteni na uređeno tržište bez njegove suglasnosti
+# Članak 481.
+(1) Ako su vrijednosni papiri izdavatelja uvršteni na uređeno tržište bez njegove suglasnosti, obveze izdavatelja propisane odredbama ove glave umjesto izdavatelja obvezna je u cijelosti izvršiti osoba koja je tražila uvrštenje vrijednosnih papira izdavatelja na uređeno tržište bez njegove suglasnosti.
+(2) Osoba koja je tražila uvrštenje vrijednosnih papira izdavatelja na uređeno tržište bez njegove suglasnosti i članovi upravnih, upravljačkih i nadzornih tijela te osobe, ako je primjenjivo, solidarno odgovaraju ulagatelju za štetu koju ulagatelj pretrpi radi nepravilnog i/ili nezakonitog izvršenja obveze objavljivanja javnosti propisanih informacija iz članaka 462., 465., 468., 469. i 475. ovoga Zakona, osim u slučaju kada se dokaže da su prilikom izvršenja istih postupali s pažnjom dobrog stručnjaka.

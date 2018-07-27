@@ -1,0 +1,3 @@
+## Interni akt za postupak izrade i provedbe plana oporavka središnje druge ugovorne strane
+# Članak 556.
+Središnja druga ugovorna strana dužna je donijeti i provoditi interni akt kojom će pobliže propisati postupak izrade, provedbe i ažuriranja plana oporavka. Središnja druga ugovorna strana dužna je plan oporavka ažurirati najmanje jednom godišnje te po svakoj promjeni u poslovnoj ili financijskoj situaciji ili pravnoj ili organizacijskoj strukturi središnje druge ugovorne strane za koju se plan oporavka izrađuje a koja promjena bi mogla bitno utjecati na sam plan oporavka ili uzrokovati potrebu za njegovom promjenom.

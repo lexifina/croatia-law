@@ -1,0 +1,3 @@
+## Odgovarajuća primjena odredbi ovoga Zakona
+# Članak 730.
+Odredba članka 409. stavka 2. točke 6. ovoga Zakona na odgovarajući se način primjenjuje na ponude vrijednosnih papira upućene isključivo ulagateljima koji u postupku predstečajne nagodbe sudjeluju odnosno koji su sudjelovali u skladu s planom financijskog i operativnog restrukturiranja izdavatelja, pod uvjetom da su planom odnosno prijedlogom predstečajne nagodbe utvrđeni broj, karakteristike i ostali bitni elementi tih vrijednosnih papira te razlozi i detalji ponude i da je predstečajna nagodba sklopljena na temelju Zakona o financijskom poslovanju i predstečajnoj nagodbi (»Narodne novine«, br. 108/12., 144/12., 81/13. i 112/13.).

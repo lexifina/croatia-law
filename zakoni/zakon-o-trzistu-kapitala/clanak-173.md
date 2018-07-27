@@ -1,0 +1,11 @@
+## Provjera usklađenosti internih pristupa
+# Članak 173.
+(1) Agencija redovito, a najmanje svake tri godine, provjerava usklađenost investicijskog društva sa zahtjevima vezanima uz pristupe koji zahtijevaju odobrenje u skladu s dijelom trećim Uredbe (EU) br. 575/2013 posebno uzimajući u obzir promjene u poslovanju društva i primjenu tih pristupa na nove proizvode. Agencija posebice preispituje i ocjenjuje primjenjuje li investicijsko društvo dobro razrađene i ažurirane tehnike i prakse za te pristupe.
+(2) U slučaju utvrđenih značajnih nedostataka u obuhvatu rizika internih pristupa iz stavka 1. ovoga članka, Agencija nalaže ispravak utvrđenih nedostataka ili poduzeti mjere potrebne za smanjenje njihovih posljedica, što uključuje i propisivanje viših multiplikacijskih faktora ili propisivanje dodatnih kapitalnih zahtjeva ili poduzimanje drugih primjerenih i učinkovitih mjera.
+(3) Ako za interni model za izračun tržišnih rizika brojna prekoračenja iz članka 366. Uredbe (EU) br. 575/2013 ukazuju da model nije ili više nije dovoljno točan, Agencija može ukinuti odobrenje za upotrebu internog modela ili naložiti odgovarajuće mjere za hitno poboljšanje modela.
+(4) Ako je Agencija izdala odobrenje u skladu s dijelom trećim Uredbe (EU) br. 575/2013, ali naknadno nisu ispunjeni uvjeti za primjenu pristupa, investicijsko društvo mora Agenciji ili dokazati da je utjecaj neusklađenosti beznačajan, ako je to primjenjivo u skladu s Uredbom (EU) br. 575/2013 ili predstaviti plan za pravodobnu ponovnu uspostavu usklađenosti sa zahtjevima te rok za njegovu provedbu.
+(5) Ako investicijsko društvo ne učini vjerojatnim da će plan iz stavka 4. ovoga članaka dovesti do potpune usklađenosti ili ako je rok za provedbu neprimjeren, Agencija će naložiti izmjene odnosno dopune plana.
+(6) Ako investicijsko društvo ne učini vjerojatnim da će se uskladiti u odgovarajućem roku ili ako nije uspjelo dokazati da je utjecaj neusklađenosti beznačajan, Agencija može rješenjem:
+1. ukinuti odobrenje za korištenje tog pristupa ili
+2. izmijeniti odobrenje na način da se isto odnosi na usklađena područja ili na ona područja u kojima je moguće postići usklađenost unutar primjerenog roka.
+(7) Agencija prilikom provjera iz stavka 1. ovoga članka uzima u obzir analize i smjernice koje izrađuje i donosi EBA.

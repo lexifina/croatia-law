@@ -1,0 +1,8 @@
+## Dodatne obveze izdavanja prenosivih vrijednosnih papira u nematerijaliziranom obliku
+# Članak 526.
+(1) Kada se na nekom od mjesta trgovanja u Republici Hrvatskoj sklopi transakcija s prenosivim vrijednosnim papirima, ti prenosivi vrijednosni papiri kod središnjeg depozitorija moraju biti upisani kao elektronički zapis prije ili najkasnije na namjeravani datum namire. Kada se prenosivi vrijednosni papiri uvrštavaju ili primaju u trgovanje, burza, operater MTP-a i operater OTP-a dužni su svojim pravilima urediti način na koji će se osigurati primjena ove odredbe. Kada se radi o transakciji prenosivim vrijednosnim papirima za koje je burza i/ili operater MTP-a i/ili operater OTP-a zaprimio/la zahtjev za uvrštenje ili primitak u trgovinu, te s kojima se u sustavu burze i/ili operatera MTP-a i/ili operatera OTP-a trguje do trenutka njihova uvrštenja ili primitka, a na zahtjev izdavatelja, osobe koja za izdavatelja obavlja usluge provedbe ponude odnosno prodaje financijskih instrumenata uz ili bez obveze otkupa ili treće osobe, burza, operater MTP-a i operater OTP-a dužni su svojim pravilima urediti:
+1. uvjete koji se moraju ostvariti da bi takvo trgovanje bilo dozvoljeno
+2. način na koji odlučuje o takvim zahtjevima, te tko može biti podnositelj takvog zahtjeva
+3. način i uvjete namire takvih transakcija, te status takvih transakcija u slučaju da se prenosivi vrijednosni papiri ne uvrste ili prime u trgovinu i
+4. uvjete za početak takve trgovine.
+(2) Prenosivi vrijednosni papiri koji se prenose kao instrument financijskog osiguranja, u smislu zakona kojim se uređuje financijsko osiguranje, kod središnjeg depozitorija moraju biti upisani kao elektronički zapis prije ili najkasnije na namjeravani datum namire.

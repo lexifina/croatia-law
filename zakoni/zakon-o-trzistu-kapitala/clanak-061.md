@@ -1,0 +1,7 @@
+## Obveze upravljanja proizvodima za proizvođača
+# Članak 61.
+(1) Proizvođač je dužan u vezi s upravljanjem proizvodima pridržavati se zahtjeva iz ovoga Zakona u mjeri koja je primjerena i proporcionalna i ako je to primjenjivo s obzirom na narav investicijskog proizvoda, investicijske usluge i ciljanog tržišta za svaki pojedini proizvod.
+(2) Uprava proizvođača mora provoditi učinkovitu kontrolu nad postupkom upravljanja proizvodima.
+(3) Proizvođač je dužan osigurati da postupak upravljanja proizvodima bude usklađen s uvjetima relevantnih propisa koji se odnose na upravljanje sukobima interesa, uključujući primitke od rada relevantnih osoba.
+(4) Proizvođač je dužan osigurati da dizajn investicijskog proizvoda, uključujući njegove značajke, nema negativan utjecaj na krajnje klijente te da ne dovodi do ugrožavanja integriteta tržišta na način da društvu omogućava umanjivanje ili prenošenje vlastitih rizika ili izloženosti na odnosnu imovinu proizvoda ako investicijsko društvo drži tu odnosnu imovinu za vlastiti račun.
+(5) Proizvođač koji pri stvaranju, razvoju, izdavanju ili dizajnu proizvoda između ostalog surađuje sa subjektom koji prema odredbama ovoga Zakona nema odobrenje za rad za obavljanje investicijskih usluga ili aktivnosti iz članka 5. stavka 1. ovoga Zakona ili nema odobrenje u smislu nacionalnog propisa države članice kojim je prenesena Direktiva 2014/65/EU ili sa subjektom iz treće zemlje, dužan je s tim subjektom sklopiti pisani sporazum kojim se uređuju međusobna prava i obveze.

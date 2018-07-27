@@ -1,0 +1,7 @@
+## Zaštićene tražbine
+# Članak 258.
+(1) Tražbine klijenta osigurane primjenom odredbi ove glave su:
+1. novčana sredstva koja Član Fonda duguje klijentu ili koja pripadaju klijentu, a koje je Član Fonda primio ili drži za klijenta u vezi s ugovorenim investicijskim uslugama ili pomoćnom uslugom iz članka 5. stavka 2. točke 1. ovoga Zakona i
+2. financijski instrumenti koji pripadaju klijentu Člana Fonda, a koje Član Fonda drži, administrira ili s njima upravlja za račun svoga klijenta, u vezi s investicijskim uslugama ili pomoćnom uslugom iz članka 5. stavka 2. točke 1. ovoga Zakona.
+(2) U slučaju osnove sumnje da tražbina klijenta Člana Fonda proizlazi iz transakcije povezane s pranjem novca ili financiranjem terorizma, isplata tražbine klijenta neće se izvršiti do pravomoćnosti sudske odluke o povezanosti transakcije iz koje je tražbina nastala s pranjem novca ili financiranjem terorizma, neovisno o rokovima iz članka 270. stavka 2. ovoga Zakona.
+(3) Iznos zaštićenih tražbina klijenta kod jednog Člana Fonda obračunavat će se kao ukupan iznos tražbina klijenta iz stavka 1. točaka 1. i 2. ovoga članka, bilo da ih Član Fonda drži na jednom ili više računa, po jednoj ili više ugovornih osnova ili u svezi s jednom ili više investicijskih usluga, do visine osiguranog iznosa iz članka 261. ovoga Zakona, u koji iznos su uključene i kamate do dana otvaranja stečajnog postupka nad Članom Fonda ili dana objave rješenja Agencije o nastupanju slučaja iz članka 266. ovoga Zakona.

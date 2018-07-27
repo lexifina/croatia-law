@@ -1,0 +1,3 @@
+## Posebne odredbe vezano uz hipotekarni kredit
+# Članak 114.
+Ako ugovor o kreditu koji se odnosi na stambenu nekretninu na koju se primjenjuju odredbe koje se odnose na procjenu kreditne sposobnosti potrošača kako je propisano propisima koji uređuju potrošačko kreditiranje, kao preduvjet predviđa navedenom potrošaču pružanje investicijske usluge u odnosu na hipotekarne obveznice izdane u svrhu osiguranja financiranja i s uvjetima istovjetnim ugovorima o kreditu koji se odnosi na stambene nekretnine, a kako bi se zajam mogao platiti, refinancirati ili isplatiti, ta usluga ne podliježe obvezama navedenim u člancima 105. do 113. ovoga Zakona.

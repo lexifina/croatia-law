@@ -1,0 +1,5 @@
+## Izvještaj o plaćanjima javnom sektoru
+# Članak 469.
+(1) Izdavatelj koji obavlja djelatnost rudarstva i vađenja ili djelatnost sječe primarnih šuma obvezan je svake godine sastaviti na konsolidiranoj osnovi izvještaj o plaćanjima javnom sektoru, objaviti ga javnosti najkasnije u roku od šest mjeseci od proteka poslovne godine te osigurati da isti bude dostupan javnosti najmanje deset godina od dana objavljivanja javnosti.
+(2) Izdavatelj koji ima sjedište u Republici Hrvatskoj obvezan je izvještaj iz stavka 1. ovoga članka sastavljati u skladu s propisima Republike Hrvatske koji uređuju računovodstvo poduzetnika i primjenu standarda financijskog izvještavanja.
+(3) Izdavatelj iz članka 41. stavaka 1. i 2. Direktive 2013/34/EU koji ima sjedište izvan Republike Hrvatske u drugoj državi članici ili trećoj zemlji, obvezan je izvještaj iz stavka 1. ovoga članka sastavljati u skladu s poglavljem 10. Direktive 2013/34/EU odnosno propisima države članice u kojoj izdavatelj ima sjedište kojima se u njezin pravni poredak prenose odredbe poglavlja 10. Direktive 2013/34/EU.

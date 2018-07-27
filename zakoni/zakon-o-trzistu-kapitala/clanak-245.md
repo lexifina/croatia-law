@@ -1,0 +1,7 @@
+## Odlučivanje o statusu značajne podružnice kada je Agencija konsolidirajuće nadzorno tijelo
+# Članak 245.
+(1) Ako Agencija zaprimi zahtjev nadležnog tijela druge države članice da podružnicu investicijskog društva iz Republike Hrvatske koje pruža investicijske usluge na području te države članice smatra značajnom podružnicom, Agencija surađuje s nadležnim tijelom te države članice pri donošenju zajedničke odluke o značajnosti podružnice.
+(2) Odluka iz stavka 1. ovoga članka mora biti u pisanom obliku i obrazložena, a dostavlja se relevantnim nadležnim tijelima.
+(3) Ako zajednička odluka o značajnosti podružnice nije donesena u roku od dva mjeseca od dana zaprimanja zahtjeva iz stavka 1. ovoga članka, a nadležno tijelo te države članice u roku od iduća dva mjeseca donese odluku da se podružnici iz stavka 1. ovoga članka dodjeljuje status značajne podružnice, ta odluka obvezujuća je i za Agenciju.
+(4) Agencija nadležnim tijelima države članice u kojoj investicijsko društvo sa sjedištem u Republici Hrvatskoj ima značajnu podružnicu prosljeđuje informacije iz članka 227. stavka 2. točaka 3. i 4. ovoga Zakona te u suradnji s tim nadležnim tijelima planirati i koordinirati aktivnosti iz članka 237. stavka 1. točke 3. ovoga Zakona.
+(5) Ako u investicijskom društvu iz stavka 1. ovoga članka nastane izvanredno stanje, Agencija bez odgađanja o tome izvještava osobe iz članka 236. stavka 1. ovoga Zakona.

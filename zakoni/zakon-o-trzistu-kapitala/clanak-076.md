@@ -1,0 +1,9 @@
+## Ažuriranje i čuvanje poslovne dokumentacije
+# Članak 76.
+(1) Investicijsko društvo dužno je organizirati poslovanje i ažurno sastavljati i voditi poslovnu dokumentaciju i druge administrativne ili poslovne evidencije na način koji omogućuje da se u svakom trenutku može provjeriti tijek pojedinog posla koji je poduzelo za svoj račun ili za račun klijenta.
+(2) Investicijsko društvo dužno je svu dokumentaciju o poslovanju s pojedinim klijentom čuvati odvojeno od dokumentacije o poslovanju s drugim klijentima i dokumentacije o vlastitom poslovanju.
+(3) Svu poslovnu dokumentaciju investicijsko društvo mora zaštititi od neovlaštenog pristupa i mogućih gubitaka u zapisu te čuvati na način koji osigurava trajnost zapisa.
+(4) Investicijsko društvo dužno je najmanje pet godina po isteku godine u kojoj je bio sklopljen određeni posao odnosno pet godina po isteku poslovne godine u kojoj je raskinut ugovorni odnos s klijentom, čuvati svu dokumentaciju i podatke o svim poslovima s financijskim instrumentima koje je obavilo bilo za svoj račun bilo za račun klijenta.
+(5) Sukladno propisima kojima se uređuje zaštita osobnih podataka, investicijsko društvo osigurava čuvanje podataka u rokovima koji se određuju u skladu sa stavkom 4. ovoga članka, a nakon toga najmanje onoliko koliko su propisani zakonski rokovi zastare tražbina koji su definirani primjenjivim propisima. Investicijsko društvo određene podatke pohranjuje i u skladu s posebnim propisima kojima se uređuje obvezno razdoblje pohrane.
+(6) Investicijsko društvo može iznimno, kada je to nužno kako bi se osigurala prava ispitanika ili zaštitili interesi zainteresiranih strana ili prava i interesi investicijskih društava ili trećih strana, produžiti rokove pohrane iz stavka 5. ovoga članka.
+(7) Agencija pravilnikom detaljnije uređuje način vođenja, sadržaj i oblik evidencija iz članka 75. ovoga Zakona i ovoga članka.

@@ -1,0 +1,18 @@
+## Obavijesti i izvješća središnje druge ugovorne strane
+# Članak 548.
+(1) Središnja druga ugovorna strana je dužna tromjesečno dostavljati Agenciji nadzorne izvještaje koji su vezani za financijske pokazatelje središnje druge ugovorne strane i adekvatnost kapitala središnje druge ugovorne strane, sukladno člancima 16., 41., 42., 43. i 49. Uredbe (EU) br. 648/2012 i člancima 49., 50., 51., 53., 54. i 57. Delegirane uredbe (EU) br. 153/2013.
+(2) Središnja druga ugovorna strana obvezna je Agenciju tromjesečno obavještavati o:
+1. usklađenosti sa zahtjevima članka 41. stavka 1. rečenice 2. i 3. Uredbe (EU) br. 648/2012 (iznosi nadoknade)
+2. ukupnom iznosu jamstvenog fonda ili fondova, u skladu s člankom 42. stavkom 1. Uredbe (EU) br. 648/2012
+3. ukupnom iznosu ostalih financijskih sredstava, u skladu s člankom 43. Uredbe (EU) br. 648/2012
+4. tome jesu li jamstveni fond i ostala financijska sredstva u izvještajnom razdoblju bila dovoljna da središnja druga ugovorna strana podnese neispunjavanje obveza članova sustava poravnanja, u skladu s člankom 43. stavkom 2. Uredbe (EU) br. 648/2012
+5. ukupnom iznosu svih dostupnih kreditnih linija ili sličnih aranžmana za pokriće potrebne likvidnosti, podatku o pružateljima likvidnosti, kao i podacima o potencijalnim dnevnim likvidnosnim potrebama, u skladu s člankom 44. stavkom 1. Uredbe (EU) br. 648/2012 te podacima o korištenju izvora likvidnosti u izvještajnom razdoblju
+6. ukupnom iznosu svih instrumenata osiguranja (kolaterala) koje je središnja druga ugovorna strane prihvatila tijekom izvještajnog razdoblja u skladu s člankom 46. stavkom 1. Uredbe (EU) br. 648/2012, strukturi takvog kolaterala, korektivnim faktorima, i udjelu pojedinih instrumenata i grupa instrumenata u ukupnom kolateralu, kao i, ako je središnja druga ugovorna strana takav kolateral koristila u izvještajnom razdoblju, podacima o njegovu korištenju
+7. strukturi vlastitih ulaganja i ulaganja novčanih sredstava koje je središnja druga ugovorna strana prikupila od članova sustava poravnanja i njihovih klijenata i
+8. adekvatnosti kapitala središnje druge ugovorne strane.
+(3) Izvješća i dokumenti koje središnja druga ugovorna strana dostavlja Agenciji prema Uredbi (EU) br. 648/2012 moraju biti napisana i dostavljena na hrvatskom jeziku, a na zahtjev Agencije, dodatno i na engleskom jeziku.
+(4) Agencija može dopustiti da se izvješća i dokumenti središnje druge ugovorne strane sastavljaju i dostavljaju samo na engleskom jeziku.
+(5) Središnja druga ugovorna strana izvješće iz točke 5. stavka 2. ovoga članka dostavlja i Hrvatskoj narodnoj banci, na način kako je propisano pravilnikom iz stavka 8. ovoga članka.
+(6) Za potrebe istraživanja i razvoja usluga poravnanja, te izvještavanja kolegija regulatora iz članka 18. Uredbe (EU) br. 648/2012, Agencija može koristiti podatke sadržane u propisanim financijskim izvještajima i propisanim nadzornim izvještajima i dostavljati ih kolegiju regulatora iz članka 18. Uredbe (EU) br. 648/2012. Agencija može od središnje druge ugovorne strane tražiti dostavu podataka i iz izvješća čiji sadržaj, oblik i rokove definira ovisno o potrebi.
+(7) Središnja druga ugovorna strana je dužna bez odgode, obavijestiti Agenciju o svakom incidentu koji ima značajan negativan učinak na sigurnost njezinih mrežnih i informacijskih sustava. Prilikom procjene značajnosti negativnog učinka incidenta uzet će se u obzir broj korisnika pogođenih prekidom obavljanja djelatnosti, trajanje prekida obavljanja djelatnosti, zemljopisna raširenost u smislu područja na koje je prekid utjecao te ostale okolnosti.
+(8) Agencija pravilnikom detaljnije propisuje strukturu, sadržaj i način i rokove dostave izvještaja iz stavaka 1. i 2. ovoga članka.

@@ -1,0 +1,7 @@
+## Postupak nadzora koji provodi Agencija
+# Članak 507.
+(1) Agencija nadzor nad primjenom i provedbom ove glave i povezanih relevantnih propisa provodi primjenjujući na odgovarajući način odredbe dijela šestoga ovoga Zakona.
+(2) Kada Agencija utvrdi nepravilnosti i/ili nezakonitosti u smislu odredbi ove glave, Agencija će rješenjem naložiti poduzimanje radnji koje pridonose uspostavljanju zakonitosti odnosno rješenjem izreći mjeru u okviru ovlasti propisanih člancima 502. i 503. ovoga Zakona, odrediti rok za izvršenje i dostavljanje dokaza o učinjenom.
+(3) Ako osoba ili subjekt ne postupi u skladu s rješenjem Agencije iz stavka 2. ovoga članka, Agencija može novim rješenjem izreći novu ili istu mjeru.
+(4) Agencija je ovlaštena s ciljem izvršavanja svojih nadzornih ovlasti iz članka 502. stavka 1. točke 8. ovoga Zakona, angažirati ovlaštene revizore ili druge stručnjake koji su neovisni i nisu u sukobu interesa u odnosu na izdavatelja koji je predmet nadzora, što Agenciji potkrepljuju izjavom, pri čemu se na te osobe na odgovarajući način primjenjuju odredbe o poslovnoj tajni koje se primjenjuju na radnike Agencije.
+(5) Ako je izricanje mjera u okviru ovlasti propisanih člankom 503. ovoga Zakona potrebno radi urednog funkcioniranja tržišta i/ili zaštite ulagatelja, a radi se o mjerama koje se ne mogu odgađati te su činjenice na kojima se mjera temelji utvrđene ili su najmanje učinjene vjerojatnim, Agencija može o izricanju takve mjere odlučiti neposredno, bez provedbe ispitnog postupka.

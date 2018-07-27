@@ -1,0 +1,8 @@
+## Elektroničko trgovanje
+# Članak 301.
+(1) Burza je dužna uspostaviti i primjenjivati učinkovite sustave, postupke i mehanizme kako bi osigurala da algoritamski sustavi trgovanja ne mogu prouzročiti ili doprinijeti neurednim uvjetima trgovanja na tržištu i kako bi upravljala neurednim tržišnim uvjetima koji se pojave iz takvih algoritamskih sustava trgovanja.
+(2) Burza mora zahtijevati da članovi vrše odgovarajuća testiranja algoritama za koje je burza dužna osigurati okruženje za provođenje takvih testiranja.
+(3) Sustavi, postupci i mehanizmi iz stavka 1. ovoga članka uključuju sustave kojima se ograničava omjer neizvršenih naloga i transakcija koje član može unijeti u sustav, mogućnost usporavanja priliva naloga ako postoji rizik dosezanja kapaciteta trgovinskog sustava te ograničavanje i provođenje minimalnog pomaka cijene koji je dopušten na tržištu.
+(4) Burza mora imati mogućnost identificiranja naloga koje generira algoritamsko trgovanje, različitih algoritama koji se koriste za zadavanje/izlaganje/stvaranje naloga i relevantnih osoba koje pokreću te naloge. Identificiranje naloga koje generira algoritamsko trgovanje provodi se označavanjem takvih naloga od strane članova.
+(5) Zahtjevi iz stavka 2. ovoga članka detaljnije su uređeni Delegiranom uredbom (EU) br. 2017/584.
+(6) Zahtjevi iz stavka 3. ovoga članka detaljnije su uređeni Delegiranom uredbom Komisije (EU) 2017/566 оd 18. svibnja 2016. o dopuni Direktive 2014/65/EU Europskog parlamenta i Vijeća o tržištu financijskih instrumenata u pogledu regulatornih tehničkih standarda za omjer neizvršenih naloga i transakcija radi sprečavanja neurednih uvjeta trgovanja (Tekst značajan za EGP) (SL L 87, 31. 3. 2017.) (u daljnjem tekstu: Delegirana uredba (EU) br. 2017/566).

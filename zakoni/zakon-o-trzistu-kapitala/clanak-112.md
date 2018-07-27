@@ -1,0 +1,4 @@
+## Izjava o primjerenosti
+# Članak 112.
+(1) Kada pruža uslugu investicijskog savjetovanja malom ulagatelju, investicijsko društvo dužno je klijentu, prije poduzimanja preporučene transakcije, na trajnom mediju pružiti izjavu o primjerenosti točno određenog savjeta, uz obrazloženje kako savjet ispunjava ciljeve ulaganja i druga obilježja malog ulagatelja.
+(2) Kada je ugovor za kupnju ili prodaju financijskog instrumenta iz stavka 1. ovoga članka sklopljen korištenjem sredstava komunikacije na daljinu te prethodna dostava izjave o primjerenosti nije moguća, ista se može dostaviti na trajnom mediju i izravno nakon što je klijent vezan određenim ugovorom, pod uvjetom da je na tu naknadnu dostavu izjave o primjerenosti klijent pristao te da je investicijsko društvo klijentu unaprijed dalo mogućnost odgode transakcije kako bi zaprimio izjavu o primjerenosti.

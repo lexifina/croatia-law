@@ -1,0 +1,20 @@
+## Odluka o povlačenju vrijednosnih papira s uvrštenja na uređenom tržištu
+# Članak 341.
+(1) Glavna skupština društva sa sjedištem u Republici Hrvatskoj, čiji su vrijednosni papiri uvršteni na uređeno tržište u Republici Hrvatskoj ili drugoj državi članici, može donijeti odluku o povlačenju dionica ili drugih vlasničkih vrijednosnih papira s uvrštenja na uređeno tržište.
+(2) Odluka iz stavka 1. ovoga članka donosi se glasovima koji predstavljaju najmanje tri četvrtine temeljnog kapitala, zastupljenog na glavnoj skupštini pri donošenju odluke. Statutom se može odrediti i veća većina za donošenje ovakve odluke.
+(3) Objava prijedloga odluke o povlačenju s uvrštenja na uređenom tržištu, kao predmeta dnevnog reda glavne skupštine, valjana je samo kada uključuje i neopozivu izjavu društva kojom se društvo obvezuje od svih dioničara koji glasuju protiv takve odluke, otkupiti njihove dionice uz pravičnu naknadu, najkasnije u roku od tri mjeseca od dana upisa odluke u sudski registar.
+(4) Odluka o povlačenju s uvrštenja na uređenom tržištu sadrži podatke o tvrtki, sjedištu, vrijednosnom papiru te druge podatke nužne za provedbu te odluke.
+(5) Svaki dioničar društva koji je glasovao protiv odluke o povlačenju s uvrštenja na uređenom tržištu, može zahtijevati od društva da društvo preuzme njegove dionice, uz pravičnu naknadu. Ovo pravo ima i dioničar koji nije sudjelovao u radu odnosne glavne skupštine zbog toga što je glavna skupština sazvana nepravilno ili nepravodobno.
+(6) Odluku o povlačenju vrijednosnih papira s uvrštenja na uređenom tržištu nije moguće pobijati zbog toga što novčana naknada za dionice nije pravična. Zahtjev dioničara zastarijeva u roku od dva mjeseca od dana upisa odluke o povlačenju s uvrštenja na uređenom tržištu u sudski registar.
+(7) Odluka o povlačenju s uvrštenja na uređenom tržištu upisuje se u sudski registar i stupa na snagu:
+1. ako je odluka donesena većinom većom od devet desetina danih glasova, danom upisa odluke u sudski registar, osim ako je odlukom određeno da počinje djelovati tek istekom određenog roka od upisa odluke u sudski registar
+2. u svim ostalim slučajevima, istekom šest mjeseci od dana upisa odluke u sudski registar.
+(8) Društvo mora, po upisu odluke o povlačenju s uvrštenja na uređenom tržištu u sudski registar, bez odgode izvijestiti tržišnog operatera uređenog tržišta dostavljanjem odluke o povlačenju s uvrštenja. Tržišni operater dužan je donijeti odluku o povlačenju vrijednosnih papira s uvrštenja na uređenom tržištu sljedeći radni dan nakon što zaprimi odluku o povlačenju s uvrštenja na uređenom tržištu.
+(9) Pravičnom naknadom iz stavka 5. ovoga članka, smatra se prosječna cijena dionica ostvarena na uređenom tržištu, izračunana kao ponderirani prosjek svih cijena ostvarenih na uređenom tržištu u zadnja tri mjeseca prije dana objave poziva na glavnu skupštinu u glasilu društva. Ako se dionicama trgovalo u manje od 1/3 trgovinskih dana unutar zadnja tri mjeseca prije dana objave poziva na glavnu skupštinu u glasilu društva, pravična naknada iz stavka 5. ovoga članka utvrđuje se elaboratom o procjeni fer vrijednosti dionice, revidiranim od strane neovisnog ovlaštenog revizora.
+(10) U elaboratu o procjeni fer vrijednosti dionice iz stavka 9. ovoga članka potrebno je navesti:
+1. primjenom kojih metoda je određena fer vrijednost dionice, pri čemu primijenjene metode moraju biti temeljene na međunarodno priznatim standardima za procjenu vrijednosti i uobičajeno se koristiti između sudionika tržišta u određivanju vrijednosti dionica
+2. detaljno obrazloženje usvojenih metoda procjene i svih važnih pretpostavki koje su korištene u primjeni istih
+3. iz kojih je razloga primjena tih metoda primjerena
+4. ako je primijenjeno više metoda, do koje bi se fer vrijednosti dionice došlo primjenom pojedine metode, te koji je značaj dan pojedinim metodama za utvrđivanje predložene fer vrijednosti dionice
+5. posebne teškoće koje su se javile pri procjeni fer vrijednosti dionice.
+(11) Fer vrijednost dionice procjenjuje se na dan objave poziva na glavnu skupštinu u glasilu društva.

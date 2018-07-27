@@ -1,0 +1,7 @@
+## Proporcionalna konsolidacija
+# Članak 221.
+(1) Iznimno od članka 220. stavka 3. ovoga Zakona Agencija može u pojedinom slučaju naložiti proporcionalnu konsolidaciju ako ocijeni da je odgovornost matičnog investicijskog društva i matičnog financijskog holdinga iz grupe investicijskog društva u RH ograničena samo na udjel kapitala koji posjeduje, uzimajući u obzir odgovornost ostalih dioničara zadovoljavajuće solventnosti. Odgovornost ostalih dioničara mora biti jasno utvrđena pisanim dokumentom o međusobnim pravima i obvezama koji je potrebno dostaviti Agenciji na uvid.
+(2) Ako je investicijsko društvo sa sjedištem u Republici Hrvatskoj povezano zajedničkim vođenjem s drugim investicijskim društvom, drugom financijskom institucijom, društvom za upravljanje ili društvom za pomoćne usluge, Agencija će odlučiti o načinu konsolidacije.
+(3) Agencija će naložiti proporcionalnu konsolidaciju ako postoji odnos sudjelovanja u drugim članicama grupe kojima upravlja investicijsko društvo ili financijski holding iz grupe investicijskog društva u RH, zajedno s jednim ili više društava koja nisu uključena u grupu investicijskog društva u RH, ako je odgovornost tih društava ograničena samo na njihove udjele u kapitalu.
+(4) U slučaju odnosa sudjelovanja ili kapitalne povezanosti koji su drugačiji nego što je navedeno u članku 220. stavku 3. ovoga Zakona i ovim člankom, Agencija će odlučiti hoće li se i na koji način provesti konsolidacija.
+(5) U slučaju uključivanja u grupu investicijskog društva u RH Agencija će odrediti način konsolidacije.

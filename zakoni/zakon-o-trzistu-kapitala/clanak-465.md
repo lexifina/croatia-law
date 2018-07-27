@@ -1,0 +1,9 @@
+## Polugodišnji izvještaj
+# Članak 465.
+(1) Izdavatelj dionica ili dužničkih vrijednosnih papira obvezan je sastaviti polugodišnji izvještaj iz stavka 2. ovoga članka za prvih šest mjeseci poslovne godine, objaviti ga javnosti što je prije moguće, a najkasnije u roku od tri mjeseca od proteka polugodišta te osigurati da isti bude dostupan javnosti najmanje deset godina od dana objavljivanja javnosti.
+(2) Polugodišnji izvještaj mora sadržavati:
+1. polugodišnje financijske izvještaje
+2. međuizvještaj rukovodstva
+3. izjavu osoba u izdavatelju odgovornih za sastavljanje polugodišnjeg izvještaja, navodeći njihova imena, prezimena, radno mjesto i dužnosti u izdavatelju, da prema njihovu najboljem saznanju, polugodišnji financijski izvještaji, sastavljeni uz primjenu odgovarajućih standarda financijskog izvještavanja, daju istinit i objektivan prikaz imovine i obveza, financijskog položaja, dobiti ili gubitka izdavatelja i društava uključenih u konsolidaciju kao cjeline, i da međuizvještaj rukovodstva sadrži objektivan prikaz razvoja i rezultata poslovanja i položaja izdavatelja i društava uključenih u konsolidaciju kao cjeline, uz opis najznačajnijih rizika i neizvjesnosti kojima su izloženi.
+(3) Ako su polugodišnji financijski izvještaji iz stavka 2. točke 1. ovoga članka revidirani ili je obavljen revizijski uvid, izdavatelj je obvezan na način i u roku iz stavka 1. ovoga članka objaviti javnosti u cijelosti i revizorsko izvješće odnosno izvješće o revizijskom uvidu. Ako polugodišnji financijski izvještaji iz stavka 2. točke 1. ovoga članka nisu revidirani ili nije obavljen revizijski uvid, izdavatelj je obvezan o tome dati izjavu u svom polugodišnjem izvještaju.
+(4) Na izdavatelja koji je obvezan sastavljati konsolidirane izvještaje, na odgovarajući način primjenjuju se odredbe stavaka 1., 2. i 3. ovoga članka.

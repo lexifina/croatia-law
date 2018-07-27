@@ -1,0 +1,8 @@
+## Pravo na pobijanje odluke o otvaranju postupka sanacije
+# Članak 608.
+(1) Protiv odluke o otvaranju postupka sanacije iz članka 606. stavka 1. ovoga Zakona odnosno svih odluka koje Agencija donosi u cilju provedbe odluke o otvaranju postupka sanacije, nije dopuštena žalba, ali fizička i pravna osoba čija su prava i pravni interesi povrijeđeni donošenjem takve odluke može podnijeti tužbu nadležnom upravnom sudu u roku od 30 dana od dana dostave navedene odluke.
+(2) Osobama kojima se odluka o otvaranju postupka sanacije iz članka 606. stavka 1. ovoga Zakona dostavlja javnom objavom rok iz stavka 1. ovoga članka počinje teći istekom osmog dana od dana javne objave iz članka 607. stavka 1. ovoga Zakona.
+(3) Podnošenje tužbe iz stavka 1. ovoga članka ne odgađa izvršenje odluke o otvaranju postupka sanacije odnosno ostalih odluka koje Agencija donosi u cilju provedbe odluke o otvaranju postupka sanacije niti sud može izreći privremenu mjeru odgode izvršenja.
+(4) Nadležni upravni sud o tužbi iz stavka 1. ovoga članka odlučuje hitno, a najkasnije u roku od 90 dana od dana njezina primitka.
+(5) Nadležni upravni sud pri odlučivanju o tužbi uzet će u obzir detaljnu i sveobuhvatnu procjenu financijskog stanja središnjeg depozitorija koju je provela Agencija.
+(6) Ako upravni sud donese odluku kojom u cijelosti ili djelomično poništava ili oglašava ništavom odluku o sanaciji ili drugu pojedinačnu odluku donesenu na temelju odluke o sanaciji, učinci takve odluke ostat će na snazi do donošenja nove odluke koja će zamijeniti odluku koja je poništena ili oglašena ništavnom. Agencija po primitku odluke upravnog suda može odrediti mjere radi umanjenja štete koja bi nastala daljnjom primjenom odluke koja je poništena ili oglašena ništavom.

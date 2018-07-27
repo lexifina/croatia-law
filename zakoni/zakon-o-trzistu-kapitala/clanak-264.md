@@ -1,0 +1,13 @@
+## Financijski izvještaji Fonda
+# Članak 264.
+(1) Operater Fonda dužan je za Fond izraditi polugodišnje i godišnje financijske izvještaje sukladno propisima kojima se uređuje računovodstvo poduzetnika i primjena standarda financijskog izvještavanja.
+(2) Polugodišnji financijski izvještaj Fonda Operater je dužan dostaviti Agenciji u roku od dva mjeseca od isteka prvog polugodišta.
+(3) Godišnje financijske izvještaje Fonda zajedno s revizorskim izvješćem Operater je dužan dostaviti Agenciji u roku od 15 dana od dana zaprimanja revizorskog izvješća, a najkasnije u roku od četiri mjeseca od zadnjeg dana poslovne godine.
+(4) Agencija može od revizora koji je obavio reviziju godišnjih financijskih izvještaja Fonda zatražiti dodatna obrazloženja u svezi s obavljenom revizijom i revizorskim izvješćem.
+(5) Ako godišnji financijski izvještaji iz stavka 3. ovoga članka nisu izrađeni sukladno važećim propisima i standardima financijskog izvještavanja te pravilima struke, Agencija može odbiti godišnje financijske izvještaje, a Operater Fonda dužan je za Fond ponovo izraditi godišnje financijske izvještaje, osigurati obavljanje zakonske revizije tih izvještaja te revizorsko izvješće, uključujući i relevantne financijske izvještaje, dostaviti Agenciji u roku koji je svojim rješenjem odredila Agencija. Novu zakonsku reviziju ne smije obaviti revizor koji je izdao mišljenje o godišnjim financijskim izvještajima koji su odbijeni odnosno odbačeni.
+(6) Isti revizor može obaviti najviše sedam uzastopnih revizija godišnjih financijskih izvještaja Fonda. Isti revizor ne smije sljedeće četiri godine obavljati reviziju godišnjih financijskih izvještaja Fonda.
+(7) U slučaju raskida ugovora o obavljanju revizije, Operater Fonda i revizor dužni su Agenciji u roku od 15 dana pisano obrazložiti razloge za sporazumni raskid ugovora odnosno ako je ugovor raskinula jedna ugovorna strana obrazložiti razloge raskida, a druga ugovorna strana očitovati se o razlozima za raskid ugovora koje navodi druga ugovorna strana.
+(8) Revizor koji obavlja reviziju godišnjih financijskih izvještaja Fonda ne smije pružati, izravno ili neizravno, Fondu bilo koje zabranjene nerevizorske usluge iz članka 5. stavka 1. Uredbe (EU) br. 537/2014 tijekom:
+1. razdoblja između početka razdoblja koje je predmet revizije i izdavanja revizorskog izvješća i
+2. poslovne godine koja prethodi razdoblju iz točke 1. ovoga stavka u vezi s uslugom osmišljavanja i provedbe postupaka unutarnje kontrole ili upravljanja rizikom povezanih s pripremom i/ili nadzorom financijskih informacija ili osmišljavanje i provedba tehnoloških sustava za financijske informacije.
+(9) Agencija pravilnikom propisuje sadržaj i strukturu financijskih izvještaja Fonda te način njihova dostavljanja Agenciji.

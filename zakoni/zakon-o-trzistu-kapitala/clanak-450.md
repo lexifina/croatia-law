@@ -1,0 +1,5 @@
+## Provođenje nadzora i dodatne nadzorne mjere nakon uvrštenja vrijednosnih papira na uređeno tržište
+# Članak 450.
+Nakon uvrštenja vrijednosnih papira na uređeno tržište, Agencija je ovlaštena obaviti nadzor nad osobama iz članka 683. stavka 1. točke 2. ovoga Zakona primjenjujući odredbe članka 447. ovoga Zakona na odgovarajući način te je, osim izricanja nadzornih mjera u skladu s člankom 448. ovoga Zakona, dodatno ovlaštena rješenjem izreći sljedeće nadzorne mjere:
+1. naložiti osobama iz članka 683. stavka 1. točke 2. ovoga Zakona razotkrivanje svih bitnih informacija koje mogu utjecati na procjenu vrijednosnih papira, a u svrhu osiguranja zaštite ulagatelja ili neometanog funkcioniranja tržišta
+2. privremeno obustaviti trgovanje odnosno zatražiti od tržišnog operatera da privremeno obustavi trgovanje određenim vrijednosnim papirima, ako je, prema procjeni Agencije, položaj izdavatelja tih vrijednosnih papira takav da bi trgovanje vrijednosnim papirima štetilo interesima ulagatelja.

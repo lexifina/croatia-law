@@ -1,0 +1,15 @@
+## Upravljanje rizicima
+# Članak 652.
+(1) Upravljanje rizicima obuhvaća utvrđivanje, mjerenje ili ocjenjivanje, upravljanje i kontroliranje rizika, uključujući i obavještavanje odgovornih osoba o rizicima kojima je središnje klirinško depozitarno društvo izloženo ili bi moglo biti izloženo pri obavljanju svojih poslova.
+(2) Središnje klirinško depozitarno društvo je dužno uspostaviti sveobuhvatan i učinkovit sustav upravljanja rizicima u skladu s vrstom, opsegom i složenosti svoga poslovanja, koji mora uključivati najmanje:
+1. strategije, politike, postupke i mjere upravljanja rizicima
+2. tehnike mjerenja rizika i
+3. podjelu odgovornosti u vezi s upravljanjem rizicima.
+(3) Središnje klirinško depozitarno društvo je dužno propisati, primjenjivati, dokumentirati i redovito ažurirati odgovarajuće, učinkovite i sveobuhvatne strategije i politike upravljanja rizicima u svrhu utvrđivanja rizika povezanih s poslovanjem, poslovnim procesima i sustavima kojima upravlja, doprinose tih pojedinih rizika cjelokupnom profilu rizičnosti središnjeg klirinškog depozitarnog društva i utvrđivati prihvatljiv stupanj rizika.
+(4) Središnje klirinško depozitarno društvo je dužno, na osnovu strategija i politika upravljanja rizicima i utvrđenog prihvatljivog stupnja rizika, donijeti učinkovite postupke, tehnike mjerenja rizika i mjere upravljanja rizicima.
+(5) Središnje klirinško depozitarno društvo je dužno uspostaviti, provoditi te redovito ažurirati, procjenjivati i nadzirati primjerene politike i postupke, čiji je cilj otkrivanje svakog rizika neusklađenosti s relevantnim propisima, kao i povezanih rizika te uspostaviti primjerene mjere i postupke u cilju smanjivanja takvih rizika.
+(6) Središnje klirinško depozitarno društvo je dužno nadzirati, ocjenjivati, preispitivati i ažurirati primjerenost, sveobuhvatnost i učinkovitost donesenih strategija, politika, postupaka upravljanja rizicima i tehnika mjerenja rizika, te primjerenost i učinkovitost predviđenih mjera u svrhu otklanjanja mogućih nedostataka u strategijama, politikama i postupcima upravljanja rizicima, uključujući i propuste zaposlenika, osoba na koje je izdvojilo poslovne procese te članova uprave i nadzornog odbora središnjeg klirinškog depozitarnog društva.
+(7) Uspostavljenu strategiju i politike upravljanja rizicima središnje klirinško depozitarno društvo je dužno na zahtjev Agencije dostaviti bez odgode.
+(8) Uprava središnjeg klirinškog depozitarnog društva sudjeluje u procesu upravljanja rizicima i odgovorno je za isti, a svi zaposlenici središnjeg klirinškog depozitarnog društva moraju sudjelovati u provođenju sustava upravljanja rizicima.
+(9) U svrhu osiguranja urednog poslovanja središnje klirinško depozitarno društvo je dužno raspolagati dovoljnim financijskim sredstvima, ovisno o vrsti i opsegu poslova koje obavlja, kao i opsegu i strukturi rizika koji proizlaze iz njegova poslovanja.
+(10) U slučaju ozbiljnog ugrožavanja sustava upravljanja rizicima, središnje klirinško depozitarno društvo je dužno o tome bez odgode obavijestiti Agenciju.

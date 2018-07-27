@@ -1,0 +1,10 @@
+## GLAVA VII. SURADNJA S NADLEŽNIM TIJELIMA I RAZMJENA INFORMACIJA
+## Suradnja između Agencije i nadležnih tijela Republike Hrvatske
+# Članak 392.
+(1) Agencija i druga nadležna tijela u Republici Hrvatskoj koja su nadležna za nadzor nad kreditnim i drugim financijskim institucijama, dostavit će na zahtjev pojedinog nadležnog tijela tom nadležnom tijelu sve podatke o subjektima nadzora koji su mu potrebni u postupku provođenja nadzora, u postupku vezanom za izdavanje odobrenja za rad, kao i pri odlučivanju o drugim pojedinačnim zahtjevima iz svoje nadležnosti.
+(2) Tijela iz stavka 1. ovoga članka dužna su se međusobno obavještavati o ukidanju odobrenja, nezakonitostima i nepravilnostima koje utvrde tijekom obavljanja nadzora i o izrečenim mjerama za njihovo otklanjanje, ako ti nalazi i izrečene mjere mogu biti bitni za rad tog drugog tijela.
+(3) Razmjena podataka u skladu s ovim člankom ne smatra se odavanjem službene tajne, a Agencija i druga nadležna tijela dužni su čuvati primljene podatke kao povjerljive te ih mogu upotrijebiti isključivo u svrhu za koju su dani.
+(4) Opseg razmjene podataka te koordinacija postupaka i aktivnosti pri nadzoru i regulaciji kreditnih i drugih financijskih institucija i grupa, uredit će se međusobnim sporazumom o suradnji između nadležnih tijela.
+(5) Ako neko tijelo u Republici Hrvatskoj koje nije Agencija ima sanacijske ovlasti u skladu sa zakonom kojim se uređuje sanacija investicijskih društava, Agencija i to tijelo međusobno će razmjenjivati informacije o investicijskom društvu koje su potrebne u postupku provođenja sanacije investicijskog društva.
+(6) Za potrebe konsolidiranog pregleda tržišta emisijskih jedinica, Agencija surađuje s javnim tijelima nadležnima za nadzor promptnih tržišta i tržišta dražbi te nadležnim tijelima, administratorima registara i drugim javnim tijelima nadležnima za kontrolu provedbe zakona kojim se uređuje uspostava sustava trgovanja emisijskim jedinicama stakleničkih plinova.
+(7) U vezi s poljoprivrednim robnim izvedenicama, Agencija izvješćuje i surađuje s javnim tijelima nadležnima za nadzor i uređenje poljoprivrednih tržišta prema Uredbi (EU) br. 1308/2013.

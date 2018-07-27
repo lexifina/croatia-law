@@ -1,0 +1,10 @@
+## Suradnja između Agencije i nadležnih tijela država članica u nadzornim aktivnostima
+# Članak 394.
+(1) Agencija može zatražiti suradnju od nadležnog tijela druge države članice u nadzornim aktivnostima, neposrednom nadzoru ili istrazi.
+(2) Ako Agencija od nadležnog tijela primi zahtjev za neposredni nadzor ili istragu, dužna je u okviru ovlasti iz ovoga Zakona:
+1. sama provesti nadzor ili istragu
+2. dopustiti tijelu koje je postavilo zahtjev da provede nadzor ili istragu ili
+3. dopustiti revizorima ili drugim stručnjacima da provedu nadzor ili istragu.
+(3) Kada je investicijsko društvo član uređenog tržišta s udaljenim pristupom, Agencija kao nadležno tijelo tog uređenog tržišta može odlučiti hoće li mu se obratiti izravno, u kojem slučaju će o tome obavijestiti nadležno tijelo države članice tog člana s udaljenim pristupom.
+(4) ESMA može u skladu s člankom 21. Uredbe (EU) br. 1095/2010 sudjelovati u aktivnostima kolegija nadzornih tijela, kao i u neposrednim nadzorima i istragama koje zajednički provode Agencija i drugo nadležno tijelo.
+(5) Informacije koje se trebaju razmjenjivati između nadležnih tijela kod suradnje u nadzornim aktivnostima, neposrednom nadzoru i istragama propisane su Delegiranom uredbom Komisije (EU) 2017/586 od 14. srpnja 2016. o dopuni Direktive 2014/65 Europskog parlamenta i Vijeća u pogledu regulatornih tehničkih standarda za razmjenu informacija između nadležnih tijela kod suradnje u nadzornim aktivnostima, izravnom nadzoru i istragama (Tekst značajan za EGP) (SL L 87, 31. 3. 2017.) dok su standardni obrasci, predlošci i postupci za suradnju propisani Provedbenom uredbom Komisije (EU) 2017/980 od 7. lipnja 2017. o utvrđivanju provedbenih tehničkih standarda o standardnim obrascima, predlošcima i postupcima za suradnju u nadzornim aktivnostima, za izravni nadzor, istrage i razmjenu informacija među nadležnim tijelima u skladu s Direktivom 2014/65/EU Europskog parlamenta i Vijeća (Tekst značajan za EGP) (SL L 148, 10. 6. 2017.) (u daljnjem tekstu: Provedbena uredba (EU) br. 2017/980).

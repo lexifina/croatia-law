@@ -1,0 +1,7 @@
+## Minimalni iznos regulatornog kapitala i minimalni iznos regulatornog kapitala u odnosu na kapitalne zahtjeve
+# Članak 171.
+(1) Regulatorni kapital investicijskog društva koji se izračunava na način propisan dijelom drugim Uredbe (EU) br. 575/2013. niti u jednom trenutku ne smije biti manji od minimalnog iznosa inicijalnog kapitala iz članka 10. ovoga Zakona.
+(2) Ako regulatorni kapital investicijskog društva padne ispod razine minimalnog iznosa inicijalnog kapitala iz članaka 10. ovoga Zakona, Agencija će takvom investicijskom društvu omogućiti da u ograničenom razdoblju otkloni odstupanja odnosno naložiti neku od nadzornih mjera propisanih odredbama ovoga Zakona.
+(3) U slučaju da u trenutku spajanja dvaju ili više investicijskih društava, društvo koje nastaje spajanjem ne ispunjava uvjet minimalnog iznosa inicijalnog kapitala iz članka 10. ovoga Zakona, Agencija će takvom društvu omogućiti da u određenom roku uskladi visinu inicijalnog kapitala pod uvjetom da tijekom razdoblja u kojem nije dosegnuta minimalna razina inicijalnog kapitala, kapital novonastalog društva ne smije pasti ispod ukupnog iznosa kapitala društava izravno prije njihova spajanja.
+(4) Minimalni iznos regulatornog kapitala investicijskog društva u odnosu na kapitalne zahtjeve propisan je člancima 92. do 98. Uredbe (EU) br. 575/2013.
+(5) Odredbe stavaka 1., 2. i 4. ovoga članka ne primjenjuju se na lokalne pravne osobe.

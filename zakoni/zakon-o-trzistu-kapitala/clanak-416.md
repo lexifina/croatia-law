@@ -1,0 +1,11 @@
+## Sažetak prospekta
+# Članak 416.
+(1) Sažetak prospekta treba sadržavati kratki prikaz ključnih informacija na jeziku na kojem je prospekt izvorno sastavljen ne koristeći pritom tehničke pojmove. Forma i sadržaj prospekta trebaju pružiti, zajedno s prospektom, odgovarajuće informacije o osnovnim elementima vrijednosnih papira kojih se tiče kako bi se pomoglo ulagateljima prilikom odlučivanja o ulaganju u te vrijednosne papire.
+(2) Sažetak mora biti sastavljen u standardnom obliku kako bi se olakšala usporedba sa sažecima drugih prospekata koji se odnose na slične vrijednosne papire. Sažetak mora sadržavati prikaz ključnih informacija o tim vrijednosnim papirima kako bi se pomoglo ulagateljima prilikom odlučivanja o ulaganju u te vrijednosne papire. Osim navedenog, sažetak mora sadržavati sve potrebne informacije u skladu s odredbama članka 24. Uredbe (EZ) br. 809/2004.
+(3) Osobe koje su izradile sažetak, uključujući i prijevod istoga, kao i osobe koje su zatražile njegovo dostavljanje nadležnom tijelu države članice, odgovaraju za štetu nastalu zbog toga što sažetak dovodi u zabludu, netočan je ili je nedosljedan kada ga se čita zajedno s ostalim dijelovima prospekta.
+(4) Sažetak prospekta mora sadržavati upozorenje:
+1. da ga treba čitati kao uvod u prospekt
+2. da se svaka odluka o ulaganju u vrijednosne papire mora temeljiti na ulagateljevoj analizi prospekta kao cjeline
+3. da mjerodavno pravo države članice može od ulagatelja zahtijevati da prije pokretanja sudskog postupka u vezi s informacijama sadržanim u prospektu o vlastitom trošku izradi prijevod prospekta na službeni jezik suda pred kojim se vodi postupak i
+4. da osobe koje su izradile sažetak, uključujući i njegov prijevod, te koje su zatražile njegovo dostavljanje nadležnom tijelu države članice, odgovaraju za štetu, ali samo ako sažetak dovodi u zabludu, ako je netočan ili nedosljedan kada ga se čita zajedno s ostalim dijelovima prospekta.
+(5) Kod primjene ovoga članka koriste se provedbeni tehnički standardi koje izrađuje ESMA i donosi Europska komisija i kojima se osiguravaju ujednačeni uvjeti za primjenu Uredbe (EZ) br. 809/2004 i delegiranih akata iz članka 415. stavka 2. ovoga Zakona, a koji se odnose na jedinstveni model za prikaz sažetka radi omogućavanja ulagateljima usporedbe vrijednosnog papira s ostalim relevantnim proizvodima.

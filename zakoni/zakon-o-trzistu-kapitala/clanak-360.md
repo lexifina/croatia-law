@@ -1,0 +1,8 @@
+## Zahtjev za izdavanje odobrenja za rad
+# Članak 360.
+(1) Zahtjev za izdavanje odobrenja za rad podnose osnivači društva.
+(2) Zahtjev iz stavka 1. ovoga članka može podnijeti i uprava već osnovanog društva za koje se traži odobrenje za rad.
+(3) Zahtjev za izdavanje odobrenja za rad podnosi se na obrascu i u obliku propisanom Provedbenom Uredbom Komisije (EU) 2017/1110 od 22. lipnja 2017. o provedbenim tehničkim standardima za standardne obrasce, predloške i postupke za izdavanje odobrenja za rad pružateljima usluga dostave podataka i povezane obavijesti u skladu s Direktivom 2014/65/EU Europskog parlamenta i Vijeća o tržištu financijskih instrumenata (Tekst značajan za EGP) (SL L 162, 23. 6. 2017.) (u daljnjem tekstu: Provedbena uredba (EU) br. 2017/1110) i pravilnikom Agencije iz stavka 6. ovoga članka.
+(4) Zahtjevu za izdavanje odobrenja za rad pružatelj usluga dostave podataka dužan je priložiti sve podatke propisane Delegiranom uredbom (EU) br. 2017/571, uključujući svoj poslovni plan u kojemu se između ostalog navode predviđeni tip poslovanja i organizacijska struktura, a koji su Agenciji potrebni za odlučivanje o tome je li pružatelj usluga dostave podataka ustrojio sve mehanizme koji osiguravaju da će svi uvjeti propisani ovom glavom biti ispunjeni u vrijeme prvobitnog odlučivanja o izdavanju odobrenja za rad, kao i sve dodatne podatke koje ocijeni potrebnim prilikom odlučivanja ispunjava li podnositelj zahtjeva uvjete propisane ovim Zakonom.
+(5) Sadržaj podataka koje je potrebno dostaviti Agenciji prema odredbama ovoga članka propisan je člankom 1. Delegirane uredbe (EU) br. 2017/571 i pravilnikom Agencije iz stavka 6. ovoga članka.
+(6) Agencija pravilnikom detaljnije uređuje zahtjeve iz stavaka 3. i 5. ovoga članka.

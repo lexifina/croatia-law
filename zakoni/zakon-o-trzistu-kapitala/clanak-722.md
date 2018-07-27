@@ -1,0 +1,5 @@
+## Prekršaji fizičke osobe
+# Članak 722.
+Za prekršaj kaznit će se fizička osoba novčanom kaznom u iznosu od 20.000,00 do 200.000,00 kuna ako:
+1. kao član uprave središnjeg depozitorija nije osigurala provođenje nadzornih mjera koje je naložila Agencija u skladu sa svojim nadležnostima i ovlastima, u skladu s obvezom iz članka 575. stavka 3. ovoga Zakona
+2. kao član uprave središnjeg depozitorija nije uspostavila djelotvoran i pouzdan sustav upravljanja središnjim depozitorijem iz članka 575. stavka 4. ovoga Zakona ili isti nije primjenjivala, što je dovelo do materijalnih neusklađenosti središnjeg depozitorija s odredbama Uredbe (EU) br. 909/2014, tehničkim standardima koji su doneseni na temelju Uredbe (EU) br. 909/2014, odredbama ovoga Zakona, propisima donesenim na temelju ovoga Zakona te, kada je primjenjivo, ostalim propisima Europske unije kojima se uređuje poslovanje središnjeg depozitorija i drugim propisima kojima se uređuje poslovanje središnjeg depozitorija ili pravilima struke, protivno odredbama članka 575. stavka 2. ovoga Zakona.

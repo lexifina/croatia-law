@@ -1,0 +1,9 @@
+## Suglasnost glavne skupštine odnosno članova društva za sklapanje sporazuma o potpori
+# Članak 185.
+(1) Nakon dobivanja odobrenja od strane konsolidirajućeg nadzornog tijela za sklapanje sporazuma o potpori, uprava investicijskog društva koje namjerava sklopiti sporazum o potpori dužna je za sklapanje takvog sporazuma dobiti suglasnost glavne skupštine odnosno članova društva.
+(2) Sporazum iz stavka 1. ovoga članka proizvodi pravne učinke samo u odnosu na članicu grupe čija je glavna skupština odnosno čiji su članovi društva ovlastili upravu društva da samostalno odluči o tome da ta članica grupe bude korisnik ili davatelj financijske potpore u skladu s uvjetima iz sporazuma.
+(3) U slučaju kada glavna skupština odnosno članovi društva ovlaste upravu društva u skladu sa stavkom 2. ovoga članka, ne primjenjuju se odredbe statuta društva ili odluka nadzornog odbora o prethodnoj suglasnosti nadzornog odbora, a koje bi ograničavale upravu u donošenju odluke da bude korisnik ili davatelj financijske potpore.
+(4) Glavna skupština odnosno članovi društva mogu opozvati suglasnost iz stavka 1. ovoga članka i u tom slučaju sporazum o potpori ne proizvodi pravne učinke za tu članicu grupe.
+(5) Odluku glavne skupštine odnosno članova društva o davanju ovlaštenja upravi, kao i odluku o njegovu opozivu investicijsko društvo je dužno bez odgađanja dostaviti Agenciji i svim potpisnicama tog sporazuma.
+(6) Uprava članice grupe koja je potpisnica sporazuma o potpori dužna je najmanje jednom godišnje izvijestiti glavnu skupštinu odnosno članove društva o provedbi sporazuma o potpori i provedbi bilo koje odluke donesene u skladu s tim sporazumom.
+(7) Matično investicijsko društvo u Europskoj uniji sa sjedištem u Republici Hrvatskoj dužno je osigurati da sve članice grupe koje namjeravaju sklopiti sporazum o potpori, a nisu kreditne institucije ili investicijska društva, postupaju u skladu s odredbama ovoga odjeljka.

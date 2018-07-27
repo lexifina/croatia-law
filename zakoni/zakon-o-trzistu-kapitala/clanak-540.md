@@ -1,0 +1,3 @@
+## Pobijanje ili osporavanje postupaka za prijenos imovine i pozicija klijenata članova sustava
+# Članak 540.
+U slučaju da se nad sudionikom sustava poravnanja iz članka 536. stavka 1. točke 1. ovoga Zakona pokrene stečajni postupak ili drugi postupak radi insolventnosti, stečajni upravitelj sudionika sustava poravnanja nije ovlašten pobijati ili osporavati postupke za prijenos imovine i pozicija klijenata članova sustava poravnanja koje drži član sustava poravnanja nad kojim je stečajni postupak ili drugi postupak radi insolventnosti pokrenut, a koji su pokrenuti sukladno odredbama Uredbe (EU) br. 648/2012.

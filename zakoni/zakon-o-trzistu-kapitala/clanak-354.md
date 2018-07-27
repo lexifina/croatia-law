@@ -1,0 +1,4 @@
+## Primanje financijskih instrumenata u trgovinu na drugom rastućem tržištu malih i srednjih poduzeća
+# Članak 354.
+(1) Ako je financijski instrument izdavatelja primljen u trgovinu na jednom MTP-u koji je registriran kao rastuće tržište malih i srednjih poduzeća u državi članici Europske unije, on također može biti primljen u trgovinu na nekom drugom MTP-u registriranom kao rastuće tržište malih i srednjih poduzeća ako je izdavatelj o tome obaviješten i ako se izdavatelj nije usprotivio primanju financijskog instrumenta u trgovinu na tom drugom MTP-u registriranom kao rastućem tržištu malih i srednjih poduzeća.
+(2) U slučaju iz stavka 1. ovoga članka izdavatelj ne podliježe obvezama vezanim uz korporativno upravljanje i obvezama vezanim za početno, stalno ili ad hoc objavljivanje informacija u odnosu na takav drugi MTP-u registriran kao rastuće tržište malih i srednjih poduzeća.

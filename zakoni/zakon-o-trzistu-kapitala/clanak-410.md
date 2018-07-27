@@ -1,0 +1,16 @@
+## Iznimke od obveze objave prospekta pri uvrštenju na uređeno tržište
+# Članak 410.
+(1) Iznimno od odredbe članka 408. stavka 2. ovoga Zakona, obveza objave prospekta ne primjenjuje se na uvrštenje sljedećih vrsta vrijednosnih papira na uređeno tržište u Republici Hrvatskoj:
+1. vrijednosne papire iz članka 1. stavka 5. prvog podstavka točke a) Uredbe (EU) br. 2017/1129
+2. dionice iz članka 1. stavka 5. prvog podstavka točke b) u skladu s člankom 1. stavkom 5. drugim podstavkom Uredbe (EU) br. 2017/1129
+3. vrijednosne papire iz članka 1. stavka 5. prvog podstavka točke c) Uredbe (EU) br. 2017/1129
+4. dionice izdane u zamjenu za dionice istoga roda koje su već uvrštene na isto uređeno tržište, pod uvjetom da izdavanjem tih dionica nije povećan temeljni kapital izdavatelja
+5. vrijednosne papire koji su ponuđeni kao zamjenska naknada u ponudi za preuzimanje, pod uvjetom da je za te vrijednosne papire ulagateljima dostupan dokument koji sadrži informacije koje treba sadržavati prospekt, uzimajući u obzir zahtjeve zakonodavstva Europske unije
+6. vrijednosne papire koji su bili dodijeljeni u postupku pripajanja, spajanja ili podjele društava, pod uvjetom da je za te vrijednosne papire ulagateljima dostupan dokument koji sadrži informacije koje treba sadržavati prospekt, uzimajući u obzir zahtjeve zakonodavstva Europske unije
+7. dionice koje su bile:
+a) izdane postojećim dioničarima, po osnovi povećanja temeljnog kapitala iz sredstava društva ili
+b) ponuđene ili su bile dodijeljene postojećim dioničarima besplatno ili umjesto isplate dividende u novcu, a istoga su roda kao dionice koje daju pravo na isplatu te dividende, pod uvjetom da su te dionice istoga roda kao dionice koje su već uvrštene na isto uređeno tržište te da je ulagateljima dostupan dokument s informacijama o broju i karakteristikama ovih dionica te o razlozima i detaljima ovakve ponude
+8. vrijednosnih papira koje je poslodavac ili njegovo povezano društvo nudilo ili dodijelilo bivšim ili sadašnjim članovima uprave, izvršnim direktorima ili zaposlenicima, pod uvjetom da su ti vrijednosni papiri istoga roda kao vrijednosni papiri koji su već uvršteni na isto uređeno tržište te da je ulagateljima dostupan dokument s informacijama o broju i karakteristikama ovih vrijednosnih papira te o razlozima i detaljima ovakve ponude.
+(2) Prilikom izrade dokumenta iz stavka 1. točke 5. ovoga članka potrebno je voditi se odredbama članaka 415. do 417. ovoga Zakona u mjeri u kojoj je to moguće, izbjegavajući ponavljanje informacija koje su u skladu s odredbama zakona kojim se uređuje preuzimanje dioničkih društava učinjene dostupnim ulagateljima.
+(3) Prilikom izrade dokumenta iz stavka 1. točke 6. ovoga članka potrebno je voditi se odredbama članaka 415. do 417. ovoga Zakona u mjeri u kojoj je to moguće, izbjegavajući ponavljanje informacija koje su u skladu s odredbama zakona kojim se uređuje osnivanje i ustroj trgovačkih društava učinjene dostupnim ulagateljima.
+(4) U slučajevima iz stavka 1. ovoga članka, koriste se regulatorni tehnički standardi kojima se utvrđuju slučajevi iznimaka iz navedene odredbe, koje je ESMA ovlaštena izraditi, a Europska komisija donijeti u skladu s člankom 4. stavkom 3. Direktive 2003/71/EZ i njezinim izmjenama i dopunama.

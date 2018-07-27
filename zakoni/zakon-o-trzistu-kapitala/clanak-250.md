@@ -1,0 +1,4 @@
+## Nalaganje nadzornih mjera financijskom holdingu, mješovitom holdingu i mješovitom financijskom holdingu
+# Članak 250.
+(1) Ako financijski holding, mješoviti holding, mješoviti financijski holding ili odgovorne osobe u tim društvima krše propise ili akte donesene s ciljem provedbe nadzora na konsolidiranoj osnovi, Agencija će naložiti nadzorne mjere privremenog oduzimanja ili trajnog oduzimanja glasačkih prava za udjele u njima ovisnim investicijskim društvima sa sjedištem u Republici Hrvatskoj.
+(2) Agencija kod nalaganja nadzornih mjera iz stavka 1. ovoga članka, surađuje s nadležnim tijelima drugih država članica, posebno kada središnja uprava ili glavne jedinice financijskog holdinga, mješovitog financijskog holdinga ili mješovitog holdinga nisu smještene u istoj državi članici kao njegovo registrirano sjedište.

@@ -1,0 +1,13 @@
+## ODJELJAK 5. Dopuna prospekta
+## Dopuna prospekta
+# Članak 440.
+(1) U slučaju da u razdoblju od odobrenja prospekta, pa do isteka roka za prihvat ponude ili do početka trgovanja na uređenom tržištu, što god od toga se dogodi kasnije, nastane novi bitni čimbenik ili se utvrdi postojanje značajne greške ili netočnosti glede informacija sadržanih u prospektu koje mogu utjecati na procjenu vrijednosnih papira, izdavatelj, ponuditelj ili podnositelj zahtjeva za uvrštenje na uređeno tržište, obvezan je dopuniti prospekt novim, točnim i potpunim informacijama. Dopuna prospekta mora sadržavati uputu ulagateljima o pravima iz stavka 7. ovoga članka.
+(2) Izdavatelj, ponuditelj ili podnositelj zahtjeva za uvrštenje na uređeno tržište, obvezan je bez odgode, podnijeti Agenciji zahtjev za odobrenje dopune prospekta, u skladu sa stavkom 1. ovoga članka te zahtjevu priložiti dopunu prospekta.
+(3) Agencija će rješenjem odlučiti o zahtjevu za odobrenje dopune prospekta u roku od sedam radnih dana od zaprimanja urednog zahtjeva.
+(4) Kada Republika Hrvatska nije matična država članica, zahtjev za odobrenje dopune prospekta podnosi se nadležnom tijelu matične države članice. U tom slučaju, pod uvjetima iz odredbe članka 441. ovoga Zakona, dopuna prospekta imat će učinak kao da je o zahtjevu za odobrenje dopune prospekta odlučila Agencija.
+(5) Izdavatelj, ponuditelj ili podnositelj zahtjeva za uvrštenje na uređeno tržište obvezan je nakon odobrenja objaviti dopunu prospekta na isti način na koji je objavljen i prospekt.
+(6) Sažetak prospekta i njegov prijevod moraju biti dopunjeni na način iz stavaka 1. do 3. ovoga članka, ako je to potrebno obzirom na sadržaj dopune prospekta.
+(7) Kada se prospekt odnosi na ponudu vrijednosnih papira javnosti, ulagatelji koji su, prije objave dopune prospekta, pristali kupiti ili upisati vrijednosne papire ponuđene javnosti, imaju pravo odustati od kupnje ili upisa tih vrijednosnih papira u roku od dva radna dana od objave dopune prospekta, pod uvjetom da se novi bitni čimbenik, značajna greška ili netočnost iz stavka 1. ovoga članka, pojavi prije isteka roka za prihvat ponude i isporuke odnosno prijenosa vrijednosnih papira na račune vrijednosnih papira u odgovarajućem registru nematerijaliziranih vrijednosnih papira.
+(8) Izdavatelj ili ponuditelj mogu produžiti rok iz stavka 7. ovoga članka.
+(9) Rok iz stavka 7. ili 8. ovoga članka naznačit će se u dopuni prospekta.
+(10) Kod primjene ovoga članka koriste se regulatorni tehnički standardi propisani Uredbom (EU) br. 382/2014, kojima su definirani slučajevi u kojima je zbog određenog značajnog novog čimbenika, značajne pogreške ili netočnosti u pogledu informacija iz prospekta potrebno objaviti dopunu prospekta.

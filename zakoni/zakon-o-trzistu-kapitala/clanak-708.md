@@ -1,0 +1,48 @@
+## Teži prekršaji izdavatelja čiji su vrijednosni papiri uvršteni na uređeno tržište
+# Članak 708.
+(1) Za prekršaj kaznit će se izdavatelj koji je pravni subjekt novčanom kaznom u iznosu od 250.000,00 do 500.000,00 kuna ako:
+1. protivno članku 338. ovoga Zakona, prilikom nove javne ponude dionica koje su istoga roda kao i dionice već uvrštene na službeno tržište, u propisanom roku ne podnese zahtjev za njihovo uvrštenje na službeno tržište
+2. protivno članku 460. stavku 4. ovoga Zakona, ne objavi javnosti uopće ili u propisanom roku i/ili na propisan način informaciju o svojoj matičnoj državi članici i/ili ne obavijesti uopće ili u propisanom roku nadležna tijela država članica o svojoj matičnoj državi članici
+3. protivno članku 462. stavku 1. ovoga Zakona, ne objavi javnosti uopće ili u propisanom roku godišnji izvještaj
+4. protivno članku 462. stavku 2. ovoga Zakona, ne sastavi godišnji izvještaj u propisanom sadržaju
+5. protivno članku 462. stavku 3. ovoga Zakona, ne objavi javnosti uopće ili u propisanom roku revizorsko izvješće
+6. protivno članku 462. stavku 5. ovoga Zakona, ne izrađuje godišnji izvještaj u skladu s regulatornim tehničkim standardima koje izrađuje ESMA i usvaja Europska komisija i kojima se određuje jedinstveni elektronički format za izvješćivanje, počevši od 1. siječnja 2020., pod uvjetom da su regulatorni tehnički standardi usvojeni
+7. protivno članku 463. stavku 1. ovoga Zakona, ne sastavi godišnji izvještaj na propisani način, za izdavatelja sa sjedištem u Republici Hrvatskoj
+8. protivno članku 463. stavku 2. ovoga Zakona, ne objavi javnosti uopće ili u propisanom roku zajedno s godišnjim izvještajem u cijelosti i odluku nadležnog organa izdavatelja o utvrđenju godišnjih financijskih izvještaja te prijedlog odluke o upotrebi dobiti ili pokriću gubitka, ako iste nisu sastavni dio godišnjeg izvještaja
+9. protivno članku 463. stavku 3. ovoga Zakona, ne objavi javnosti uopće ili u propisanom roku godišnje financijske izvještaje uz naznaku da na njih nije dana suglasnost nadležnog organa izdavatelja, ako iste nije utvrdio nadležni organ izdavatelja
+10. protivno članku 463. stavku 3. ovoga Zakona, ne objavi javnosti uopće ili u propisanom roku ili na propisan način utvrđene godišnje financijske izvještaje i/ili odluku nadležnog organa izdavatelja o utvrđenju godišnjih financijskih izvještaja
+11. protivno članku 464. ovoga Zakona, ne sastavi godišnji izvještaj na propisani način, za izdavatelja sa sjedištem izvan Republike Hrvatske
+12. protivno članku 465. stavku 1. ovoga Zakona, ne objavi javnosti uopće ili u propisanom roku polugodišnji izvještaj
+13. protivno članku 465. stavku 2. ovoga Zakona, ne sastavi polugodišnji izvještaj u propisanom sadržaju
+14. protivno članku 465. stavku 3. ovoga Zakona, ne objavi javnosti uopće ili u propisanom roku revizorsko izvješće ili izvješće o revizijskom uvidu, ako su polugodišnji financijski izvještaji revidirani ili je obavljen revizijski uvid
+15. protivno članku 465. stavku 3. ovoga Zakona, ne da izjavu u polugodišnjem izvještaju da polugodišnji financijski izvještaji nisu revidirani ili da nije obavljen revizijski uvid, ako polugodišnji financijski izvještaji nisu revidirani ili nije obavljen revizijski uvid
+16. protivno članku 466. ovoga Zakona, ne sastavi polugodišnji izvještaj na propisani način, za izdavatelja sa sjedištem u Republici Hrvatskoj
+17. protivno članku 467. ovoga Zakona, ne sastavi polugodišnji izvještaj na propisani način, za izdavatelja sa sjedištem izvan Republike Hrvatske
+18. protivno članku 468. stavku 1. ovoga Zakona, ne objavi javnosti uopće ili u propisanom roku tromjesečni izvještaj, za izdavatelja koji ima sjedište u Republici Hrvatskoj
+19. protivno članku 468. stavku 2. ovoga Zakona, ne sastavi tromjesečni izvještaj u propisanom sadržaju, za izdavatelja sa sjedištem u Republici Hrvatskoj
+20. protivno članku 468. stavku 3. ovoga Zakona, ne sastavi tromjesečni izvještaj na propisan način, za izdavatelja sa sjedištem u Republici Hrvatskoj
+21. protivno članku 468. stavku 4. ovoga Zakona, kao izdavatelj sa sjedištem izvan Republike Hrvatske, ne objavi javnosti opće ili u propisanom roku i/ili ne sastavi u propisanom sadržaju tromjesečni izvještaj ili izjavu rukovodstva, kada je nacionalnim propisom države u kojoj izdavatelj ima sjedište propisana obveza sastavljanja i objave tromjesečnih izvještaja ili izjave poslovodstva
+22. protivno članku 469. stavku 1. ovoga Zakona, ne objavi javnosti uopće ili u propisanom roku izvještaj o plaćanjima javnom sektoru
+23. protivno članku 469. stavcima 2. ili 3. ovoga Zakona, ne sastavi izvještaj o plaćanjima javnom sektoru u propisanom sadržaju
+24. protivno članku 472. ovoga Zakona, ne objavi javnosti uopće ili u propisanom roku sve podatke sadržane u zaprimljenoj obavijesti iz članka 482. stavka 1. ovoga Zakona
+25. protivno članku 473. ovoga Zakona, ne objavi javnosti uopće ili u propisanom roku informaciju o promjenama broja dionica s pravom glasa na koje je podijeljen temeljni kapital izdavatelja ili promjene broja glasačkih prava iz tih dionica odnosno o novom ukupnom broju dionica s pravom glasa
+26. protivno članku 474. stavku 1. ovoga Zakona, ne objavi javnosti uopće ili u propisanom roku broj vlastitih dionica (u apsolutnom i relativnom iznosu) koje drži nakon svakog stjecanja ili otpuštanja vlastitih dionica
+27. protivno članku 475. stavku 1. ovoga Zakona, ne objavi javnosti uopće ili u propisanom roku svaku promjenu u pravima iz izdanih dionica, uključujući i promjene u pravima iz izvedenih vrijednosnih papira koje je izdao izdavatelj i koje daju pristup dionicama tog izdavatelja
+28. protivno članku 475. stavku 2. ovoga Zakona, ne objavi javnosti uopće ili u propisanom roku svaku promjenu u pravima iz izdanih vrijednosnih papira koji nisu dionice, uključujući i promjene uvjeta tih vrijednosnih papira koji mogu posredno utjecati na odnosna prava, i koji su nastali posebice zbog promjene uvjeta zaduženja ili kamatnih stopa
+29. protivno članku 494. ovoga Zakona, ne objavi javnosti propisane informacije na propisanom jeziku
+30. protivno članku 496. stavku 1. ovoga Zakona, ne objavljuje javnosti propisane informacije na način koji javnosti osigurava brz pristup do propisanih informacija na ravnopravnoj osnovi
+31. protivno članku 496. stavku 2. ovoga Zakona, za distribuiranje propisanih informacija javnosti ne koristi medije na koje se opravdano može osloniti da će propisane informacije, koliko god je to moguće, istodobno učinkovito distribuirati najširoj javnosti u Republici Hrvatskoj i u drugim državama članicama
+32. protivno članku 496. stavku 3. ovoga Zakona, ne dostavi propisane informacije medijima u cijelom njihovu propisanom sadržaju
+33. protivno članku 496. stavku 4. ovoga Zakona, kod dostave propisanih informacija medijima, jasno ne naznači da se radi o propisanoj informaciji, te jasno ne naznači na kojeg izdavatelja se odnosi propisana informacija, predmet propisane informacije te datum i vrijeme dostavljanja propisane informacije medijima
+34. protivno članku 496. stavku 5. ovoga Zakona, ne osigura dostavu propisanih informacija medijima na propisan način
+35. protivno članku 496. stavku 7. ovoga Zakona, na zahtjev Agencije ne dostavi uopće ili ne dostavi u propisanome roku zahtijevane podatke
+36. protivno članku 497. stavku 1. ovoga Zakona, propisane informacije ne dostavi Agenciji i/ili u službeni registar propisanih informacija uopće ili istodobno kada ih objavljuje javnosti i/ili ih ne dostavi u cijelom njihovu propisanom sadržaju
+37. protivno članku 500. ovoga Zakona, ne objavi javnosti uopće ili ne objavi javnosti u skladu s člancima 494. do 497. ovoga Zakona sve informacije koje objavljuje javnosti prema propisima treće zemlje svoga sjedišta, a koje mogu biti od važnosti za javnost u državama članicama, čak i ako se iste ne smatraju propisanim informacijama u smislu članka 455. točke9. ovoga Zakona
+38. ne postupi u skladu sa zahtjevom Agencije, postavljenim u skladu s člankom 502. ovoga Zakona, uopće ili na način i/ili u roku koji odredi Agencija
+39. ne postupi u skladu s rješenjem Agencije, izrečenim u skladu s člankom 503. ovoga Zakona, uopće ili na način i/ili u roku koji odredi Agencija
+40. ne postupi u skladu sa zahtjevom ili rješenjem Agencije, postavljenim odnosno izrečenim u skladu s člancima 502. i/ili 503. i/ili 507. ovoga Zakona.
+(2) Za prekršaj iz stavka 1. ovoga članka kaznit će se i odgovorna osoba izdavatelja iz stavka 1. ovoga članka novčanom kaznom u iznosu od 50.000,00 do 75.000,00 kuna.
+(3) Za prekršaj iz stavka 1. točaka 2. i 28. do 40. ovoga članka kaznit će se izdavatelj koji je fizička osoba novčanom kaznom u iznosu od 50.000,00 do 100.000,00 kuna.
+(4) Za prekršaj iz stavka 1. ovoga članka kaznit će se pravni subjekt koji je tražio uvrštenje vrijednosnih papira izdavatelja na uređeno tržište bez njegove suglasnosti novčanom kaznom u iznosu od 250.000,00 do 500.000,00 kuna, ako su vrijednosni papiri izdavatelja uvršteni na uređeno tržište bez suglasnosti izdavatelja.
+(5) Za prekršaj iz stavka 1. ovoga članka kaznit će se i odgovorna osoba pravnog subjekta iz stavka 4. ovoga članka koji je tražio uvrštenje vrijednosnih papira izdavatelja na uređeno tržište bez njegove suglasnosti novčanom kaznom u iznosu od 50.000,00 do 75.000,00 kuna.
+(6) Za prekršaj iz stavka 1. točaka 2. i 28. do 40. ovoga članka kaznit će se fizička osoba koja je tražila uvrštenje vrijednosnih papira izdavatelja na uređeno tržište bez suglasnosti izdavatelja novčanom kaznom u iznosu od 50.000,00 do 100.000,00 kuna, ako su vrijednosni papiri izdavatelja uvršteni na uređeno tržište bez njegove suglasnosti.

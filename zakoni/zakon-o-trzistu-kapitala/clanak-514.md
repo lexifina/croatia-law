@@ -1,0 +1,5 @@
+## Suradnja Agencije s pravosudnim i drugim tijelima
+# Članak 514.
+(1) Agencija je dužna surađivati s nadležnim pravosudnim, regulatornim i drugim tijelima u predmetima koji su vezani za kršenje Uredbe (EU) br. 596/2014 i ovoga Dijela Zakona na teritoriju Republike Hrvatske sukladno relevantnim zakonskim odredbama i sporazumima o suradnji.
+(2) Na temelju pisanog zahtjeva Agencije, ministarstvo nadležno za unutarnje poslove dužno je pružiti, bez naknade, pomoć pri provedbi ovlasti iz ovoga Zakona.
+(3) Na zahtjev Agencije, sva tijela državne uprave, tijela jedinica lokalne i područne (regionalne) samouprave, pravne osobe s javnim ovlastima te druge pravne osobe za koje Agencija smatra da raspolažu podacima i dokumentacijom potrebnima za provođenje nadzora kršenja Uredbe (EU) br. 596/2014 i ovoga dijela Zakona, obvezni su Agenciji, bez naknade dostaviti sve zahtijevane podatke i dokumentaciju. Agencija je s takvim podacima i dokumentacijom dužna postupati sukladno propisima koji uređuju zaštitu tajnosti.

@@ -1,0 +1,3 @@
+## Likvidnost središnje druge ugovorne strane
+# Članak 545.
+Kada Agencija procjenjuje adekvatnost likvidnosti središnje druge ugovorne strane, ovlaštena je središnjoj drugoj ugovornoj strani naložiti da ispuni zahtjeve koji premašuju minimalne zahtjeve iz članka 44. Uredbe (EU) br. 648/2012 te zahtjeve iz tehničkih standarda koje je donijela Europska komisija na temelju članka 44. Uredbe (EU) br. 648/2012, ako je takva mjera potrebna za osiguranje urednog i stabilnog funkcioniranja sustava poravnanja te ako bi u odsutnosti takve mjere dugoročna likvidnost središnje druge ugovorne strane bila ugrožena ili je izgledno da bi bila ugrožena.

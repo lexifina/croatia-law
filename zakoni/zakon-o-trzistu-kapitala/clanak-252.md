@@ -1,0 +1,5 @@
+## Primjena odredbi na ovisno investicijsko društvo kada ne postoji nadzor na konsolidiranoj osnovi u trećoj zemlji
+# Članak 252.
+(1) U slučaju kada se utvrdi da u trećoj zemlji ne postoji nadzor na konsolidiranoj osnovi istovjetan načelima utvrđenima ovim Zakonom i Uredbom (EU) br. 575/2013, Agencija će na dotično ovisno investicijsko društvo na odgovarajući način primijeniti odredbe ovoga Zakona i Uredbe (EU) br. 575/2013 ili druge odgovarajuće nadzorne postupke koji postižu ciljeve nadzora investicijskih društava na konsolidiranoj osnovi. Ovi nadzorni postupci, nakon usuglašavanja s ostalim nadležnim tijelima uključenima u nadzor, bit će odobreni od strane nadležnog tijela koje bi bilo odgovorno za nadzor investicijskih društava na konsolidiranoj osnovi.
+(2) Nadzorni postupci priopćuju se drugim uključenim nadležnim tijelima, EBA-i i Europskoj komisiji.
+(3) Agencija može u posebnim slučajevima zahtijevati osnivanje financijskog ili mješovitog financijskog holdinga sa sjedištem u jednoj od država članica te može primijeniti odredbe o konsolidiranom nadzoru na konsolidirani položaj tog financijskog holdinga ili mješovitog financijskog holdinga.

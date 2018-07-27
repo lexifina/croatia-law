@@ -1,0 +1,8 @@
+## Stečaj središnjeg depozitorija u sanaciji
+# Članak 594.
+(1) Prijedlog za otvaranje stečajnog postupka nad središnjim depozitorijom u sanaciji može podnijeti samo Agencija kao sanacijsko tijelo, iz razloga navedenih u članku 586. ovoga Zakona.
+(2) Iznimno od odredbi Stečajnoga zakona, ako je nad središnjim depozitorijem u sanaciji otvoren stečajni postupak pravne radnje prijenosa imovine, prava ili obveza sa središnjeg depozitorija u sanaciji na drugi subjekt koje su nastale primjenom instrumenta sanacije ili izvršavanjem ovlasti za sanaciju ili državnih instrumenata financijske stabilizacije, ne mogu se pobijati niti oglasiti ništetnim.
+(3) Agencija može zahtijevati od stečajnog upravitelja središnjeg depozitorija koji je prije otvaranja stečajnog postupka bio u sanaciji, korištenje prostora i opreme te nastavak pružanja onih usluga koji su potrebni društvu primatelju za učinkovito obavljanje poslova koji su na njega preneseni u skladu s člankom 604. ovoga Zakona.
+(4) Stečajni upravitelj dužan je stečajni postupak nad središnjim depozitorijem koji je prije otvaranja stečajnog postupka bio u sanaciji, provesti u razumnom roku, a u skladu s načelima sanacije iz članka 600. ovoga Zakona i na način da omogući društvu primatelju nastavak prenesenih aktivnosti u skladu sa stavkom 3. ovoga članka.
+(5) Agencija može od suda koji vodi stečajni postupak nad središnjim depozitorijem koji je prije otvaranja stečajnog postupka bio u sanaciji, zatražiti da na primjereni rok odredi mirovanje stečajnog postupka, ako je to potrebno radi učinkovitog provođenja sanacije.
+(6) Agencija može povući prijedlog za otvaranje stečajnog postupka.

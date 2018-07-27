@@ -1,0 +1,11 @@
+## Likvidacija i stečaj investicijskog društva
+# Članak 49.
+(1) Na postupak likvidacije investicijskog društva primjenjuju se odredbe zakona kojima se uređuje osnivanje i ustroj trgovačkih društava, osim ako nije drukčije propisano ovim Zakonom.
+(2) Ako likvidatori utvrde postojanje stečajnog razloga, dužni su bez odgađanja podnijeti prijedlog za otvaranje stečajnog postupka i o tome odmah izvijestiti Agenciju.
+(3) Uprava odnosno likvidatori investicijskog društva dužni su Agenciju izvijestiti o odluci o prestanku investicijskog društva ili o promjeni djelatnosti na način da društvo više ne obavlja investicijske usluge i aktivnosti, sljedećeg radnog dana nakon donošenja odluke.
+(4) Agencija na temelju obavijesti iz stavka 3. ovoga članka donosi rješenje kojim ograničava važenje odobrenja za rad na poslove koji su potrebni radi provedbe likvidacije investicijskog društva, a o kojoj će izvijestiti nadležni trgovački sud, burzu, središnje klirinško depozitarno društvo, operatera središnjeg registra i operatera sustava poravnanja ili namire, ako je to primjenjivo.
+(5) Nakon započete likvidacije investicijsko društvo može obavljati još samo poslove određene rješenjem iz stavka 4. ovoga članka.
+(6) Ako se rješenje iz stavka 4. ovoga članka odnosi na investicijsko društvo koje ima podružnicu u državi članici, Agencija je dužna prije izdavanja odluke izvijestiti nadležno tijelo države članice.
+(7) Obavijest iz stavka 6. ovoga članka mora sadržavati pravne posljedice i stvarne učinke donesenog rješenja.
+(8) Ako zbog zaštite interesa klijenata investicijskog društva ili zbog drugih javnih interesa nije moguće odgoditi donošenje odluke iz stavka 4. ovoga članka, Agencija je dužna o tome izvijestiti nadležno tijelo države članice odmah po donošenju odluke.
+(9) U slučaju reorganizacijskih mjera, likvidacijskog i stečajnog postupka s međunarodnim elementom investicijskog društva, podružnice investicijskog društva u državi članici, investicijskog društva iz države članice, podružnice investicijskog društva iz države članice i podružnice investicijskog društva iz treće zemlje pod uvjetom da investicijsko društvo iz treće zemlje ima podružnicu na području barem još jedne države članice, na odgovarajući način se primjenjuju odredbe glave XXVIII. zakona kojim se uređuje poslovanje kreditnih institucija.

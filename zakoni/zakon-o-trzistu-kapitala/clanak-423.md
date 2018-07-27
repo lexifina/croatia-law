@@ -1,0 +1,6 @@
+## Posebna pravila za podijeljeni prospekt
+# Članak 423.
+(1) Izdavatelj čiji je registracijski dokument već odobrila Agencija ili nadležno tijelo matične države članice, mora, radi ponude vrijednosnih papira javnosti ili uvrštenja vrijednosnih papira na uređeno tržište, izraditi samo obavijest o vrijednosnom papiru i sažetak prospekta.
+(2) U slučaju iz stavka 1. ovoga članka, obavijest o vrijednosnom papiru mora sadržavati i informacije koje inače sadrži registracijski dokument, ako je nakon zadnje ažuriranog registracijskog dokumenta nastupila bitna promjena ili nedavni razvoj događaja koji bi mogli utjecati na odluku ulagatelja, osim ako je takva informacija sadržana u dopuni prospekta u skladu s člankom 440. ovoga Zakona.
+(3) U slučaju iz stavka 1. ovoga članka, izdavatelj mora dobiti posebno odobrenje za obavijest o vrijednosnom papiru i sažetak prospekta. Na odobrenje obavijesti o vrijednosnom papiru i sažetka prospekta, na odgovarajući način primjenjuju se odredbe ove glave o odobrenju prospekta.
+(4) Kada o zahtjevu izdavatelja za odobrenje registracijskog dokumenta nije odlučeno, a izdavatelj podnese i zahtjev za odobrenje obavijesti o vrijednosnom papiru i sažetka prospekta, predmet odobrenja će biti svi dokumenti koji čine podijeljeni prospekt, u kojima moraju biti i moguće nove informacije iz stavka 2. ovoga članka.

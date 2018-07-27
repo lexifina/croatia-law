@@ -1,0 +1,7 @@
+## Središnje klirinško depozitarno društvo kao središnji depozitorij vrijednosnih papira
+# Članak 732.
+(1) Središnje klirinško depozitarno društvo d.d. iz Zagreba, do donošenja rješenja iz stavka 4. ili 5. ovoga članka, nastavlja pružati usluge središnjeg depozitorija u Republici Hrvatskoj, u smislu članka 69. stavka 4. Uredbe (EU) br. 909/2014 te se na njega primjenjuje dio peti poglavlje VII. ovoga Zakona te na odgovarajući način i odredbe članaka 524. do 558., 563., 564., 565., 568. i 569. ovoga Zakona.
+(2) Središnje klirinško depozitarno društvo d.d. iz Zagreba nastavlja obavljati poslove Operatera Fonda za zaštitu ulagatelja, u skladu s odredbama dijela drugoga glave II. ovoga Zakona, u skladu sa za to izdanim odobrenjem.
+(3) Središnje klirinško depozitarno društvo d.d. iz Zagreba dužno je u roku od šest mjeseci od dana stupanja na snagu tehničkih standarda koje donese Europska komisija na temelju Uredbe (EU) br. 909/2014 podnijeti Agenciji zahtjev za izdavanje odobrenja za rad u skladu s odredbama članka 16. Uredbe (EU) br. 909/2014.
+(4) Agencija će u roku od šest mjeseci od dana zaprimanja potpunog zahtjeva iz stavka 3. ovoga članka donijeti rješenje o izdavanju ili neizdavanju odobrenja za rad Središnjem klirinškom depozitarnom društvu d.d. iz Zagreba.
+(5) Ako Središnje klirinško depozitarno društvo d.d. iz Zagreba ne postupi u skladu s odredbama stavka 3. ovoga članka, Agencija će mu rješenjem ukinuti odobrenje za rad.

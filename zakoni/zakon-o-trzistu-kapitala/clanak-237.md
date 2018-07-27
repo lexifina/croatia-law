@@ -1,0 +1,8 @@
+## Odlučivanja o odobrenjima u slučajevima kada je Agencija nadležno nadzorno tijelo
+# Članak 237.
+(1) U slučajevima kada je Agencija konsolidirajuće nadzorno tijelo, Agencija će osim obveza propisanih ovim Zakonom i Uredbom (EU) br. 575/2013 obavljati i sljedeće zadatke:
+1. koordinirati prikupljanje i distribuciju relevantnih i bitnih informacija između nadležnih tijela koja su uključena u nadzor na konsolidiranoj osnovi u okviru redovitih aktivnosti i izvanrednih situacija
+2. planirati i koordinirati obavljanje nadzora, a osobito u svezi s člancima 31., 167., 170., 192. i 205. ovoga Zakona, a u suradnji s drugim nadležnim tijelima u okviru redovitih aktivnosti i izvanrednih situacija
+3. surađivati s nadležnim tijelima drugih država članica u kojima je sjedište drugih investicijskih društava koja su uključena u grupu investicijskog društva u RH, u cilju zajedničkog donošenja odluke o izdavanju odobrenja iz članka 174. ovoga Zakona, kada matično investicijsko društvo u EU i njemu ovisna investicijska društva ili zajedno ovisna investicijska društva matičnog financijskog holdinga u EU ili matičnog mješovitog holdinga u EU, podnesu navedeni zahtjev i
+4. planirati i koordinirati obavljanje nadzora, a u suradnji s drugim nadležnim tijelima i ako je to potrebno sa središnjim bankama ESSB-a, u pripremi za izvanredna stanja i tijekom izvanrednih stanja, uključujući nepovoljna kretanja u investicijskim društvima ili na financijskim tržištima, primjenjujući, ako je moguće, uspostavljene kanale komuniciranja za upravljanje krizom.
+(2) Planiranje i koordiniranje nadzora uključuje važnije mjere iz članka 227. stavka 3. točke 4. ovoga Zakona, pripreme zajedničkih ocjena stanja, provođenje planova postupanja u kriznim situacijama i izvještavanje javnosti.

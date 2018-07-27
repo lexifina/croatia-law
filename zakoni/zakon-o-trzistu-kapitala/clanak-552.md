@@ -1,0 +1,6 @@
+## Ovlast za izdavanje naloga središnjoj drugoj ugovornoj strani i mjere u slučaju organizacijskih nedostataka
+# Članak 552.
+(1) Agencija može središnjoj drugoj ugovornoj strani nalagati izvršenje mjera koje su primjerene i nužne kako bi se osigurala usklađenost sa zahtjevima iz Uredbe (EU) br. 648/2012. Kako bi se osiguralo da središnja druga ugovorna strana ima uspostavljenu odgovarajuću organizacijsku strukturu i procese te kako bi se osigurala usklađenost s organizacijskim zahtjevima u skladu s člancima 26., 28. i 29., člankom 31. stavkom 1., kao i člancima 33. do 35. Uredbe (EU) br. 648/2012, Agencija može središnjoj drugoj ugovornoj strani:
+1. naložiti da poduzme odgovarajuće mjere za smanjenje rizika koji proizlazi iz određene vrste aktivnosti i/ili proizvoda, ili iz korištenja određenih sustava i procesa ili iz izdvajanja aktivnosti i procesa i/ili
+2. zabraniti sudjelovanje u određenim vrstama poslova ili usluga ili naložiti da središnja druga ugovorna strana može sudjelovati u takvim vrstama poslova ili usluga samo u ograničenoj mjeri.
+(2) Umjesto primjene mjera navedenih u stavku 1. ovoga članka ili, zajedno s tim mjerama, Agencija može naložiti da središnja druga ugovorna strana održava vlastita sredstva (kapital) u iznosu koji premašuje minimalne zahtjeve iz članka 16. stavka 2. Uredbe (EU) br. 648/2012.

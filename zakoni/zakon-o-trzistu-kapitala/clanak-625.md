@@ -1,0 +1,7 @@
+## Izvještaj o otklanjanju utvrđenih nezakonitosti i nepravilnosti
+# Članak 625.
+(1) Središnja druga ugovorna strana odnosno središnji depozitorij dužan je otkloniti utvrđene nezakonitosti i nepravilnosti te Agenciji podnijeti izvještaj o mjerama koje je poduzeo za njihovo otklanjanje, unutar roka koji je odredila Agencija.
+(2) Izvještaju iz stavka 1. ovoga članka središnja druga ugovorna strana odnosno središnji depozitorij dužan je priložiti dokumentaciju i druge dokaze iz kojih je vidljivo da su utvrđene nezakonitosti i nepravilnosti otklonjene.
+(3) Kada izvještaj iz stavka 1. ovoga članka nije potpun ili iz dokumentacije u prilogu ne proizlazi da su nezakonitosti otklonjene, Agencija će naložiti nadopunu izvještaja i rok u kojemu se izvještaj mora nadopuniti.
+(4) Kada Agencija ne naloži nadopunu izvještaja iz stavka 3. ovoga članka, u roku od 60 dana od podnošenja izvještaja iz stavka 1. ovoga članka, smatrat će se da su nezakonitosti i nepravilnosti otklonjene.
+(5) Ako Agencija iz izvještaja iz stavka 1. ovoga članka, priložene dokumentacije i drugih dokaza zaključi da su utvrđene nezakonitosti i nepravilnosti otklonjene, na zahtjev središnje druge ugovorne strane odnosno središnjeg depozitorija izdat će obavijest kojom se isto utvrđuje. Prije donošenja rješenja, Agencija je ovlaštena provesti ponovni nadzor nad središnjom drugom ugovornom stranom odnosno središnjim depozitorijem kako bi se utvrdilo jesu li utvrđene nezakonitosti i nepravilnosti otklonjene na odgovarajući način i u odgovarajućem opsegu.

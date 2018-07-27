@@ -1,0 +1,9 @@
+## Deponiranje financijskih instrumenata i novčanih sredstava klijenata
+# Članak 81.
+(1) Investicijsko društvo može deponirati financijske instrumente koje drži za račun klijenata na račun ili račune otvorene kod trećih osoba, pod uvjetom da društvo postupa pažnjom dobrog stručnjaka prilikom odabira, imenovanja i redovitih provjera treće osobe, kao i postupaka za držanje i pohranu navedenih financijskih instrumenata.
+(2) Investicijsko društvo dužno je voditi računa o stručnosti i tržišnom ugledu treće osobe iz stavka 1. ovoga članka, kao i o svim uvjetima koji se odnose na držanje financijskih instrumenata, a koji bi mogli imati negativne učinke na prava klijenata, u skladu s odredbama članka 80. ovoga Zakona i pravilnikom iz članka 80. stavka 10. ovoga Zakona.
+(3) Investicijska društvo je dužno, po primitku novčanih sredstava klijenta, ta sredstva bez odgode položiti na jedan ili više računa otvorenih kod trećih subjekata definiranim pravilnikom iz članka 80. stavka 10. ovoga Zakona, pod uvjetima propisanim ovim člankom i pravilnikom iz članka 80. stavka 10. ovoga Zakona.
+(4) Investicijsko društvo, kada ne deponira novčana sredstva klijenta kod središnje banke, dužno je postupati pažnjom dobrog stručnjaka prilikom odabira, imenovanja i redovitih provjera kreditne institucije, banke ili novčanog fonda kod kojih su takva novčana sredstva deponirana, kao i kod ugovaranja uvjeta za deponiranje tih sredstava, pri čemu je dužno uzeti u obzir potrebu za diversifikacijom sredstava u skladu s pravilnikom iz stavka 5. ovoga članka.
+(5) Kriteriji kojima se investicijsko društvo dužno voditi kod odabira subjekta iz stavka 3. ovoga članka detaljnije su propisani pravilnikom Agencije iz članka 80. stavka 10. ovoga Zakona.
+(6) Obveza iz stavka 3. ovoga članka ne odnosi se na kreditnu instituciju u vezi s depozitima koje drži u smislu zakona kojim se uređuje osnivanje i poslovanje kreditnih institucija.
+ODJELJAK 5.

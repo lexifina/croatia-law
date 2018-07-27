@@ -1,0 +1,12 @@
+## Dostupnost podataka iz središnjeg depozitorija
+# Članak 568.
+(1) Imatelj nematerijaliziranih vrijednosnih papira odnosno investicijsko društvo i kreditna institucija koja pruža usluge iz članka 5. stavka 2. točke 1. ovoga Zakona, ima pravo uvida u podatke iz članka 563. stavka 1. ovoga Zakona, a koji se odnose na njegove račune nematerijaliziranih vrijednosnih papira odnosno podatke o vrstama, rodovima, količinama, stvarnim pravima i nosiocima tih prava te ograničenjima stvarnih prava ostalih imatelja istih nematerijaliziranih vrijednosnih papira istog izdavatelja.
+(2) Izdavatelj nematerijaliziranih vrijednosnih papira ima pravo uvida u podatke iz članka 563. stavka 1. ovoga Zakona kojih je izdavatelj i o imateljima tih vrijednosnih papira.
+(3) Svakome imatelju nematerijaliziranih vrijednosnih papira na njegov zahtjev izdavatelj ili središnji depozitorij treba omogućiti uvid u podatke iz stavka 1. ovoga članka.
+(4) Središnji depozitorij ima pravo na naknadu troškova izrade i dostave podataka iz stavka 3. ovoga članka u obliku izvještaja, u skladu s cjenikom. Podatke o imateljima i vrijednosnim papirima iz stavka 3. ovoga članka dobivene na temelju uvida ili u obliku izvještaja, imatelj ne smije priopćavati niti učiniti dostupnima drugim osobama.
+(5) Svaka osoba koja dokaže pravni interes, uz razumnu komercijalnu naknadu, ima pravo uvida u podatke iz članka 563. stavka 1. ovoga Zakona, kao i pravo na presliku dokumentacije koja je bila temelj za izvršene upise.
+(6) Agencija ima pravo uvida u podatke iz članka 563. stavka 1. ovoga Zakona, kao i u sve ostale podatke i dokumentaciju koja se vodi u središnjem depozitoriju.
+(7) Pravosudna i upravna tijela, kao i tijela određena člankom 29. stavkom 2. Uredbe (EU) br. 909/2014, na temelju zahtjeva i u okviru ovlaštenja u skladu s odredbama posebnog zakona, zakona svoje matične države ili propisa Europske unije, imaju pravo uvida u podatke i dokumentaciju koja se vodi u središnjem depozitoriju.
+(8) Središnji depozitorij obvezan je podatke iz središnjeg depozitorija čuvati kao poslovnu tajnu, osim u slučajevima propisanim odredbama ovoga Zakona.
+(9) Na prikupljanje, obradu i korištenje osobnih podataka imatelja računa vrijednosnih papira kojima središnji depozitorij raspolaže, primjenjuju se odredbe propisa kojim je uređena zaštita osobnih podataka, osim u slučajevima propisanim odredbama ovoga Zakona.
+(10) Agencija pravilnikom detaljnije propisuje način pribavljanja podataka, sadržaja izvješća i rokove za dostavu podataka iz središnjeg depozitorija.

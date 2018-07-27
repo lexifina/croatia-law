@@ -1,0 +1,7 @@
+## Stjecanje nematerijaliziranih vrijednosnih papira
+# Članak 530.
+(1) Nematerijalizirani vrijednosni papir i prava koja proizlaze iz nematerijaliziranog vrijednosnog papira stječu se na temelju valjanog pravnog posla u trenutku njegova upisa na račun nematerijaliziranih vrijednosnih papira stjecatelja ili osobe koja drži nematerijalizirani vrijednosni papir za račun stjecatelja, osim ako trenutak stjecanja nije drugačije utvrđen posebnim propisom.
+(2) Osim na temelju valjanog pravnog posla, nematerijalizirani vrijednosni papir i prava koja proizlaze iz nematerijaliziranog vrijednosnog papira mogu se steći na temelju odluke suda odnosno druge nadležne vlasti, nasljeđivanjem i na temelju zakona.
+(3) Stjecanje iz stavka 1. ovoga članka, do kojega dolazi na temelju valjanih pravnih poslova sklopljenih izvan uređenog tržišta, MTP-a ili OTP-a, odluke suda odnosno druge nadležne vlasti, nasljeđivanja i na temelju zakona, provodi se u sustavu središnjeg depozitorija ili drugog registra propisanog posebnim zakonom.
+(4) Stjecanje iz stavka 1. ovoga članka, do kojega dolazi na temelju transakcije sklopljene na uređenom tržištu, MTP-u, OTP-u ili izvan uređenog tržišta, MTP-a i OTP-a, a uz posredovanje sudionika sustava poravnanja i namire, provodi se putem sustava poravnanja i namire.
+(5) Kada se nematerijalizirani vrijednosni papiri stječu na mjestu trgovanja, izložena ponuda za prijenos nematerijaliziranih vrijednosnih papira smatra se izjavom o njihovu prijenosu, ako je druga strana prihvati, sukladno pravilima mjesta trgovanja.

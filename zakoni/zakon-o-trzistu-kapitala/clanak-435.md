@@ -1,0 +1,11 @@
+## Način objave prospekta
+# Članak 435.
+(1) Izdavatelj, ponuditelj ili podnositelj zahtjeva za uvrštenje na uređeno tržište izvršio je obvezu objave prospekta iz članka 408. ovoga Zakona, kada osigura dostupnost prospekta javnosti na jedan od sljedećih načina:
+1. umetanjem u jedne ili više novina koje se distribuiraju na cijelom ili pretežitom području Republike Hrvatske
+2. umetanjem u jedne ili više novina koje se distribuiraju na cijelom ili pretežitom području druge države članice u kojoj se vrijednosni papiri nude javnosti ili u kojoj se zahtijeva uvrštenje na uređeno tržište
+3. stavljanjem javnosti na raspolaganje tiskanog oblika bez naknade u službenim prostorijama u kojima posluje uređeno tržište na koje će vrijednosni papiri biti uvršteni ili u registriranom sjedištu izdavatelja i poslovnicama financijskih posrednika izdavatelja koji obavljaju poslove plasmana odnosno prodaje vrijednosnih papira, uključujući i platne agente
+4. izlaganjem u elektroničkom obliku na internetskim stranicama izdavatelja ili na internetskim stranicama financijskih posrednika izdavatelja, ako su uključeni u postupak ponude vrijednosnih papira javnosti
+5. izlaganjem u elektroničkom obliku na internetskim stranicama uređenog tržišta na koje se zahtijeva uvrštenje.
+(2) Ako se prospekt objavljuje u skladu sa stavkom 1. točkama 1., 2. ili 3. ovoga članka, osoba iz stavka 1. ovoga članka mora prospekt objaviti i u elektroničkom obliku u skladu sa stavkom 1. točkom 4. ovoga članka.
+(3) Agencija će na svojim internetskim stranicama objavljivati popis svih prospekata koje je odobrila u zadnjih 12 mjeseci. Ovaj popis omogućit će pristup prospektu objavljenom na internetskim stranicama iz stavka 1. točaka 4. i 5. ovoga članka.
+(4) Načini objave prospekta iz stavaka 1. i 2. ovoga članka i popisa odobrenih prospekata iz stavka 3. ovoga članka, moraju biti u skladu i s odredbama Uredbe (EZ) br. 809/2004 te u skladu s regulatornim tehničkim standardima propisanim člancima 6., 8. i 10. Delegirane uredbe (EU) br. 2016/301, kojima se osigurava ujednačenost u postupanju izdavatelja, ponuditelja ili podnositelja zahtjeva za uvrštenje na uređeno tržište u izvršavanju obveze objavljivanja prospekta, kao i u izvršavanju obveze nadležnih tijela država članica za objavljivanjem popisa svih prospekata odobrenih u zadnjih 12 mjeseci.

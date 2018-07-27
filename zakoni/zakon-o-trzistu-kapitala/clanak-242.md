@@ -1,0 +1,9 @@
+## Odlučivanje u slučajevima kada Agencija nije konsolidirajuće nadzorno tijelo
+# Članak 242.
+(1) Ako je za grupu investicijskog društva u EU konsolidirajuće nadzorno tijelo nadležno tijelo druge države članice, Agencija će sudjelovati u postupku donošenja zajedničke odluke:
+1. iz područja nadzora i procjene adekvatnosti uspostavljenog postupka procjenjivanja i održavanja internoga kapitala kako bi utvrdili adekvatnu visinu konsolidiranog kapitala na razini grupe investicijskog društva u EU koja odgovara njezinu financijskom stanju i profilu rizičnosti i
+2. o nalaganju većeg omjera kapitala i kapitalnih zahtjeva u skladu s člankom 205. ovoga Zakona svakoj pojedinoj članici grupe investicijskog društva u EU i na konsolidiranoj razini.
+(2) Agencija će na temelju provedenog nadzora i procjene adekvatnosti uspostavljenog postupka procjenjivanja i održavanja internoga kapitala članice grupe investicijskog društva u EU za koju je Agencija nadležno tijelo, sastaviti izvješće o procjeni rizičnosti njezina poslovanja te ga dostaviti konsolidirajućem nadzornom tijelu.
+(3) Ako je zajednička odluka iz stavka 1. ovoga članka donesena, Agencija će na temelju nje donijeti rješenje i dostaviti ga članici grupe investicijskog društva u EU za koju je Agencija nadležno tijelo.
+(4) Ako zajednička odluka nije donesena u roku od četiri mjeseca od dana kada je konsolidirajuće nadzorno tijelo podnijelo izvješće o procjeni rizičnosti poslovanja grupe investicijskog društva u EU, Agencija će donijeti odluku iz stavka 1. ovoga članka za svaku pojedinu članicu grupe za koju je Agencija nadležno tijelo, vodeći računa o stavovima i izdvojenom mišljenju konsolidirajućeg nadzornog tijela.
+(5) Agencija može podnijeti pisani i obrazloženi zahtjev konsolidirajućem nadzornom tijelu za preispitivanje odluke iz stavka 1. ovoga članka, u dijelu koji se odnosi na nalaganje većeg omjera kapitala i kapitalnih zahtjeva iz stavka 1. točke 2. ovoga članka.

@@ -1,0 +1,19 @@
+## Posebni zahtjevi za OTP
+# Članak 350.
+(1) Operater OTP-a mora uspostaviti mehanizme za sprječavanje izvršavanja naloga klijenata uz korištenje vlastitog kapitala investicijskog društva, burze ili bilo kojeg subjekta koji je dio iste grupe ili pravne osobe kao operater OTP-a.
+(2) Operater OTP-a ne može istodobno djelovati kao sistematski internalizator.
+(3) Operater OTP-a ne smije povezivati OTP sa sistematskim internalizatorom na način na koji bi se omogućilo povezivanje naloga u OTP-u i naloga ili ponuda u sistematskom internalizatoru.
+(4) Operater OTP-a ne smije povezati OTP s drugim OTP-om na način koji bi omogućio povezivanje naloga na različitim OTP-ima.
+(5) Operater OTP-a može uparivanjem naloga u skladu s odredbom članka 3. točke 136. ovoga Zakona trgovati za vlastiti račun obveznicama, strukturiranim financijskim proizvodima, emisijskim jedinicama i izvedenicama koji ispunjavaju uvjete iz stavka 8. ovoga članka samo uz pristanak klijenta.
+(6) Operater OTP-a može angažirati investicijsko društvo za provođenje strategije održavanja tržišta na neovisnoj osnovi, ako ono nije usko povezano sa operaterom OTP-a.
+(7) Operater OTP-a može trgovati za vlastiti račun bez uparivanja naloga samo za državne dužničke vrijednosne papire za koje ne postoji likvidno tržište sukladno odredbama Delegirane uredbe Komisije (EU) 2017/583 оd 14. srpnja 2016. o dopuni Uredbe (EU) br. 600/2014 Europskog parlamenta i Vijeća o tržištima financijskih instrumenata u pogledu regulatornih tehničkih standarda u vezi sa zahtjevima u pogledu transparentnosti za mjesta trgovanja i investicijska društva u odnosu na obveznice, strukturirane financijske proizvode, emisijske jedinice i izvedenice (Tekst značajan za EGP) (SL L 87, 31. 3. 2017.) (u daljnjem tekstu: Delegirana uredba (EU) br. 2017/583).
+(8) Operater OTP-om ne smije trgovati za vlastiti račun uparivanjem naloga za izvršavanje naloga klijenta na OTP-u izvedenicama koje pripadaju razredu izvedenica za koje je proglašeno da postoji obveza poravnanja sukladno odredbama članka 5. Uredbe (EU) br. 648/2012.
+(9) Operater OTP-a dužan je osigurati da se izvršavanje naloga na OTP-u provodi na diskrecijskoj osnovi.
+(10) Operater OTP-a može koristiti pravo diskrecije iz stavka 9. ovoga članka, samo ako je ispunjena barem jedna od sljedećih okolnosti:
+1. prilikom odlučivanja o davanju ili povlačenju naloga na OTP-u kojim upravlja
+2. prilikom odlučivanja o neuparivanju određenog naloga klijenta s nalozima koji su dostupni u sustavu u tom trenutku, uz uvjet da se poštuju zahtjevi i upute klijenta i obveze iz članka 121. ovoga Zakona.
+(11) Operater OTP-a može kod sustava koji uparuje naloge klijenta prilikom odlučivanja hoće li, kada i koliko naloga od njih dva ili više upariti u okviru sustava olakšati pregovore između klijenata kako bi dva ili više potencijalno podudarnih trgovačkih interesa spojilo u transakciju.
+(12) Prilikom olakšavanja pregovora iz stavka 11. ovoga članka, operater OTP-a dužan je postupati u skladu sa stavcima 1. do 6. i stavkom 8. ovoga članka, a neovisno o stavku 7. ovoga članka i obvezama propisanima odredbama članaka 344. do 348. i članka 121. ovoga Zakona.
+(13) Investicijsko društvo ili burza mora u zahtjevu za izdavanje prethodnog odobrenja za upravljanje OTP-om, Agenciji dostaviti detaljno obrazloženje zašto sustav ne odgovara uređenom tržištu, MTP-u ili sistematskom internalizatoru i ne može poslovati kao jedan od njih, kako će primjenjivati pravo diskrecije iz stavka 8. ovoga članka, osobito kada se nalog može povući, te kako i kada se uparuju dva ili više naloga klijenata unutar OTP-a.
+(14) Operater OTP-a mora Agenciju bez odgode obavijestiti o svakoj značajnoj izmjeni podataka iz stavka 13. ovoga članka.
+(15) Na transakcije zaključene na OTP-u primjenjuju se članci 86. do 95., 100., 105. do 116. te 119. do 124. ovoga Zakona.

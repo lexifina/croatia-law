@@ -1,0 +1,8 @@
+## Pristup središnjoj drugoj ugovornoj strani, sustavima poravnanja i namire i pravo određivanja sustava namire
+# Članak 152.
+(1) Bez obzira na primjenu glava III., IV. i V. Uredbe (EU) br. 648/2012, investicijsko društvo iz druge države članice ima pravo izravnog i neizravnog pristupa središnjoj drugoj ugovornoj strani i sustavima poravnanja i namire u Republici Hrvatskoj radi zaključivanja ili organiziranja zaključivanja transakcija financijskim instrumentima.
+(2) Središnja druga ugovorna strana i sustav poravnanja i namire dužni su prema investicijskom društvu iz druge države članice iz stavka 1. ovoga članka primijeniti isti nediskriminirajući, transparentni i objektivni kriterij koji se primjenjuje i na lokalne članove ili sudionike.
+(3) Burza je dužna svim svojim članovima ili sudionicima omogućiti da sami odaberu sustav namire transakcija financijskim instrumentima izvršenih na tom uređenom tržištu, pod sljedećim uvjetima:
+1. ako je riječ o povezanosti i dogovorima između odabranih sustava namire i svih drugih sustava koji su potrebni radi osiguranja učinkovite i ekonomične namire određene transakcije
+2. ako se Agencija usuglasi da su tehnički uvjeti za namiru transakcija zaključenih na uređenom tržištu putem sustava namire, koji je različit od onog odabranog za uređeno tržište, takvi da omogućuju nesmetano i uredno funkcioniranje financijskih tržišta.
+(4) Procjena Agencije iz stavka 3. točke 2. ovoga članka ne dovodi u pitanje nadležnosti nacionalne središnje banke kao nadzornika za sustave namire niti drugih tijela nadležnih za nadzor takvih sustava. Agencija uzima u obzir nadzor koji su već provela ta tijela kako bi se izbjeglo nepotrebno udvostručavanje kontrole.

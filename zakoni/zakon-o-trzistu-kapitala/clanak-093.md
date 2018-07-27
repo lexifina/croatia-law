@@ -1,0 +1,7 @@
+## Poticaji povezani s upravljanjem portfeljem i neovisnim investicijskim savjetovanjem
+# Članak 93.
+(1) Kada investicijsko društvo u skladu s člancima 78. i 79. ovoga Zakona pruži neovisno investicijsko savjetovanje te kada pruža uslugu iz članka 5. stavka 1. točke 4. ovoga Zakona, ne smije prihvaćati niti zadržavati dodatne poticaje u odnosu na te usluge.
+(2) Ako investicijsko društvo u slučaju iz stavka 1. ovoga članka primi dodatni poticaj, dužan je prenijeti isti klijentu u cijelosti.
+(3) Investicijsko društvo dužno je donijeti i primjenjivati politiku koja osigurava da se dodatni poticaji zaprimljeni u slučajevima iz stavka 1. ovoga članka prenesu klijentu te da se klijenta o tome na odgovarajući način obavijesti.
+(4) Zabrana iz stavka 1. ovoga članka ne odnosi se na manje nenovčane koristi koje ispunjavaju uvjete iz pravilnika Agencije iz članka 91. stavka 6. ovoga Zakona, a mogu poboljšati kvalitetu usluge pružene klijentu te su po opsegu i prirodi takve da se ne može smatrati da ugrožavaju obvezu investicijskog društva da djeluje u najboljem interesu klijenta, pod uvjetom da se jasno priopće klijentu u skladu sa stavkom 5. ovoga članka i pravilnikom Agencije iz članka 91. stavka 6. ovoga Zakona.
+(5) Investicijsko društvo dužno je o manjim nenovčanim koristima iz stavka 4. ovoga članka klijenta izvijestiti pravodobno, prije pružanja relevantnih investicijskih ili pomoćnih usluga.

@@ -1,0 +1,5 @@
+## Osnivanje kolegija nadzornih tijela za značajne podružnice
+# Članak 246.
+(1) Ako kolegij nadzornih tijela iz članka 231. ovoga Zakona nije osnovan, a investicijsko društvo sa sjedištem u Republici Hrvatskoj ima značajne podružnice u drugim državama članicama, Agencija će osnovati kolegij nadzornih tijela i predsjedati njime kako bi se omogućila suradnja uređena člancima 226. do 228. i člankom 237. stavkom 1. točkom 3. ovoga Zakona te razmjena informacija iz članka 227. stavka 3. točaka 3. i 4. ovoga Zakona.
+(2) Nakon konzultacija s relevantnim nadležnim tijelima Agencija pisanim aktom uređuje osnivanje i rad kolegija iz stavka 1. ovoga članka. Agencija će odrediti koja će od nadležnih nadzornih tijela prisustvovati sastancima ili na drugi način sudjelovati u radu kolegija, vodeći računa o mogućem utjecaju planiranih nadzornih aktivnosti na stabilnost financijskog sustava u njihovim državama.
+(3) Agencija pravodobno i redovito izvještava sve članove kolegija nadzornih tijela o planiranim sastancima i glavnim pitanjima koja će biti predmet rasprave te o zauzetim stavovima i poduzetim mjerama.
