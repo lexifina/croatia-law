@@ -1,0 +1,1 @@
+Na temelju članka 29. stavka 2. Zakona o radiološkoj i nuklearnoj sigurnosti (»Narodne novine«, br. 141/13, 39/15 i 130/17) u suradnji s ministrom zdravstva i ravnateljicom Hrvatskog zavoda za zaštitu zdravlja i sigurnost na radu, ravnatelj Državnog zavoda za radiološku i nuklearnu sigurnost donosi

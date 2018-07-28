@@ -1,0 +1,6 @@
+## Ocjena zdravstvene sposobnosti
+# Članak 19.
+(1) Specijalist medicine rada/rada i sporta daje ocjenu o zdravstvenoj sposobnosti, potpisuje uvjerenje o zdravstvenoj sposobnosti i izvješćuje pregledanu osobu o ustanovljenim bolestima, bolesnim stanjima i ostalim čimbenicima koji utječu na njezino stanje zdravlja i obavljanje poslova s izvorima ionizirajućeg zračenja, odnosno obrazovanje za rad s izvorima ionizirajućeg zračenja.
+(2) Ocjena zdravstvene sposobnosti za rad s izvorima ionizirajućeg zračenja, odnosno obrazovanje za rad s izvorima ionizirajućeg zračenja donosi se u roku od 10 dana od početka zdravstvenog pregleda, a najkasnije u roku od 30 dana, ako je potrebna dodatna medicinska obrada, osim u slučaju kada hematološki testovi odstupaju do 5% od normalnih vrijednosti laboratorija kada se ocjena donosi najkasnije u roku od 40 dana.
+(3) Ocjena zdravstvene sposobnosti izložene osobe za prethodni zdravstveni pregled donosi se na osnovi obavljenog pregleda.
+(4) Ocjena zdravstvene sposobnosti izložene osobe za zdravstvene preglede iz članaka 14.-16. ovoga Pravilnika donosi se na osnovi obavljenog pregleda i predočene medicinske dokumentacije iz prethodnog zdravstvenog pregleda, odnosno redovnih zdravstvenih pregleda ako ih je bilo, a obavezno sadrži i podatak o vrsti posla koji izložena osoba obavlja.
