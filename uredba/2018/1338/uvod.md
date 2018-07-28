@@ -1,0 +1,1 @@
+Na temelju članka 30. stavka 1. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/11, 119/14 i 93/16) i članka 118. stavka 3. Zakona o pomorskom dobru i morskim lukama (»Narodne novine«, br. 158/03, 100/04, 141/06, 38/09, 123/11 - Odluka Ustavnog suda Republike Hrvatske i 56/16), Vlada Republike Hrvatske je na sjednici održanoj 19. srpnja 2018. godine donijela
