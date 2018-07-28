@@ -1,0 +1,8 @@
+## Izvješćivanje o incidentima
+# Članak 68.
+(1) Pružatelji platnih usluga iz članka 7. stavka 1. točke 1. podtočaka a) i c), točke 2. podtočaka a) i c), točke 3., točke 4. podtočke a), točke 5. i točke 6. podtočke a) dužni su bez odgađanja i u skladu sa Smjernicama Europskog nadzornog tijela za bankarstvo o izvješćivanju o značajnim incidentima u skladu s Direktivom (EU) 2015/2366 (EBA/GL/2017/10) obavijestiti Hrvatsku narodnu banku o svakom značajnom operativnom ili sigurnosnom incidentu.
+(2) Ako incident iz stavka 1. ovoga članka utječe ili bi mogao utjecati na financijske interese korisnika platnih usluga, pružatelj platnih usluga dužan je bez odgađanja obavijestiti svoje korisnike platnih usluga o incidentu i o svim raspoloživim mjerama koje korisnici platnih usluga mogu poduzeti radi ublažavanja štetnih učinaka incidenta.
+(3) Hrvatska narodna banka dostavlja Europskom nadzornom tijelu za bankarstvo i Europskoj središnjoj banci relevantne pojedinosti incidenta bez odgađanja nakon primitka obavijesti iz stavka 1. ovoga članka.
+(4) Hrvatska narodna banka nakon svoje procjene značaja incidenta iz stavka 1. ovoga članka obavješćuje druga relevantna nadležna tijela u Republici Hrvatskoj.
+(5) Hrvatska narodna banka surađuje s Europskim nadzornim tijelom za bankarstvo i Europskom središnjom bankom u postupku njihove procjene značaja incidenta za druga relevantna tijela Europske unije i nadležna tijela drugih država članica.
+(6) Na temelju obavijesti Europskoga nadzornog tijela za bankarstvo ili Europske središnje banke o incidentu u drugoj državi članici, Hrvatska narodna banka poduzima sve potrebne mjere u svrhu zaštite trenutačne sigurnosti financijskog sustava Republike Hrvatske.

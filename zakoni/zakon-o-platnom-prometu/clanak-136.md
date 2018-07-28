@@ -1,0 +1,5 @@
+# Članak 136.
+(1) Registrirani pružatelj usluge informiranja o računu koji je pravna osoba osnovana u Republici Hrvatskoj i koji osim usluge iz članka 4. točke 8. ovoga Zakona namjerava pružati jednu ili više platnih usluga iz članka 4. ovoga Zakona kao institucija za platni promet dužan je Hrvatskoj narodnoj banci podnijeti zahtjev za izdavanje odobrenja za pružanje platnih usluga.
+(2) Registrirani pružatelj usluge informiranja o računu iz stavka 1. ovog članka dužan je uz zahtjev dostaviti sve informacije i dokumentaciju iz članka 85. ovoga Zakona.
+(3) Iznimno od stavka 2. ovoga članka, registrirani pružatelj usluge informiranja o računu ne mora dostaviti one informacije i dokumentaciju koji su već dostavljeni Hrvatskoj narodnoj banci, a koji su relevantni u trenutku podnošenja zahtjeva.
+(4) Danom izvršnosti rješenja kojim se odobrava pružanje platnih usluga kao instituciji za platni promet briše se upis registriranog pružatelja usluge informiranja o računu iz registra iz članka 93. ovoga Zakona te se u taj registar upisuje kao institucija za platni promet.

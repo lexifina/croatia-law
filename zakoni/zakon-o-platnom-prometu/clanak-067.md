@@ -1,0 +1,7 @@
+## POGLAVLJE V. OPERATIVNI I SIGURNOSNI RIZICI TE AUTENTIFIKACIJA
+## Upravljanje operativnim i sigurnosnim rizicima
+# Članak 67.
+(1) Pružatelji platnih usluga dužni su uspostaviti okvir s prikladnim mjerama ovladavanja i kontrolnim mehanizmima za upravljanje operativnim i sigurnosnim rizicima povezanima s platnim uslugama koje pružaju. Kao dio tog okvira pružatelji platnih usluga utvrđuju i održavaju djelotvorne postupke upravljanja incidentima, uključujući otkrivanje i klasifikaciju značajnih operativnih i sigurnosnih incidenata.
+(2) Pružatelji platnih usluga dužni su svoje obveze iz stavka 1. ovog članka ispunjavati u skladu sa Smjernicama Europskog nadzornog tijela za bankarstvo o sigurnosnim mjerama za operativne i sigurnosne rizike povezane s platnim uslugama na temelju Direktive (EU) 2015/2366 (EBA/GL/2017/17).
+(3) Pružatelji platnih usluga iz članka 7. stavka 1. točke 1. podtočaka a) i c), točke 2. podtočaka a) i c), točke 3., točke 4. podtočke a), točke 5. i točke 6. podtočke a) dužni su Hrvatskoj narodnoj banci dostavljati najmanje jednom godišnje ažuriranu i sveobuhvatnu procjenu operativnih i sigurnosnih rizika povezanih s platnim uslugama koje pružaju te procjenu primjerenosti mjera za ovladavanje rizicima i kontrolnih mehanizama koji su primijenjeni kao odgovor na te rizike.
+(4) Pružatelj platnih usluga iz stavka 3. ovoga članka dužan je procjenu iz stavka 3. ovoga članka dostaviti Hrvatskoj narodnoj banci i na njezin zahtjev.

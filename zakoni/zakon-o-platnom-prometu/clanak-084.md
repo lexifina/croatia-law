@@ -1,0 +1,30 @@
+## ODJELJAK 2. Odobrenje za pružanje platnih usluga
+## Uvjeti za izdavanje odobrenja za pružanje platnih usluga
+# Članak 84.
+(1) Pravna osoba osnovana u Republici Hrvatskoj koja namjerava pružati platne usluge kao institucija za platni promet mora ispunjavati sve sljedeće uvjete:
+1. da je, s obzirom na potrebu za osiguranjem pouzdanoga i razboritog upravljanja institucijom za platni promet, imatelj kvalificiranog udjela primjeren, što osobito uključuje dobar ugled i financijsko stanje
+2. da članovi uprave odnosno izvršni direktori institucije za platni promet koja ima upravni odbor, pod uvjetom da nije riječ o instituciji za platni promet koja obavlja i djelatnosti iz članka 83. točke 3. ovoga Zakona, imaju dobar ugled te odgovarajuće znanje i iskustvo za pružanje platnih usluga
+3. da, ako institucija za platni promet osim platnih usluga obavlja i djelatnosti iz članka 83. točke 3. ovoga Zakona, osoba koja je odgovorna za vođenje poslova u vezi s pružanjem platnih usluga ima dobar ugled te odgovarajuće znanje i iskustvo za pružanje platnih usluga te da članovi uprave odnosno izvršni direktori institucije za platni promet koja ima upravni odbor imaju dobar ugled
+4. da, uzimajući u obzir potrebu za osiguranjem pouzdanoga i razboritog upravljanja institucijom za platni promet, ta institucija ima uspostavljen djelotvoran i pouzdan sustav upravljanja koji uključuje jasan sustav upravljanja s dobro određenim, preglednim i dosljednim linijama ovlasti i odgovornosti, djelotvoran postupak utvrđivanja, upravljanja, praćenja i izvještavanja o svim rizicima kojima je institucija za platni promet izložena ili bi mogla biti izložena te odgovarajuće mehanizme unutarnjih kontrola koji obuhvaćaju najmanje funkcije kontrole rizika, unutarnje revizije i usklađenosti poslovanja s propisima i standardima uključujući i primjerene administrativne i računovodstvene postupke, a pritom su navedeni sustav upravljanja, mehanizam unutarnjih kontrola te administrativni i računovodstveni postupci primjereni, razmjerni, pouzdani i dostatni s obzirom na prirodu, opseg i složenost platnih usluga koje institucija za platni promet namjerava obavljati
+5. da se poslovi institucije za platni promet vode s područja Republike Hrvatske i da institucija za platni promet barem dio platnih usluga namjerava pružati u Republici Hrvatskoj
+6. da je sposobna za stabilno poslovanje uz primjerenu organizacijsku, tehničku i kadrovsku strukturu
+7. da ispunjava zahtjev za inicijalni kapital u skladu s člankom 82. ovoga Zakona
+8. da ispunjava zahtjev za zaštitu novčanih sredstava korisnika platnih usluga u skladu s člankom 100. ovoga Zakona
+9. da, ako namjerava pružati usluge iz članka 4. točaka 7. i/ili 8. ovoga Zakona, ima osigurano pokriće za odgovornost u skladu s člankom 101. ovoga Zakona.
+10. da ispunjava sve ostale uvjete iz članka 85. stavka 2. točaka od 9. do 15. ovoga Zakona.
+(2) Pri ocjenjivanju primjerenosti imatelja kvalificiranog udjela Hrvatska narodna banka uzima u obzir sljedeće kriterije:
+1. ugled imatelja kvalificiranog udjela
+2. financijsko stanje imatelja kvalificiranog udjela, posebno u odnosu na vrstu poslova koje obavlja institucija za platni promet u kojoj imatelj ima kvalificirani udio
+3. mogućnost da imatelj kvalificiranog udjela utječe na zakonitost poslovanja institucije za platni promet.
+(3) Pri ocjenjivanju dobrog ugleda Hrvatska narodna banka osobito će voditi računa o sljedećim okolnostima:
+1. je li osoba svojim dosadašnjim profesionalnim radom postigla uspješne rezultate
+2. je li osoba pravomoćno osuđena ili je protiv nje pokrenuta istraga ili se protiv nje vodi kazneni postupak za neko od sljedećih kaznenih djela:
+– kaznena djela protiv života i tijela (glava X.), kaznena djela protiv vrijednosti zaštićenih međunarodnim pravom (glava XIII.), kaznena djela protiv spolne slobode i spolnog ćudoređa (glava XIV.), kaznena djela protiv imovine (glava XVII.), osim kaznenih djela povrede prava autora ili umjetnika izvođača (članak 229.), nedozvoljene uporabe autorskog djela ili izvedbe umjetnika izvođača (članak 230.), povrede prava proizvoditelja zvučne ili slikovne snimke i prava u svezi s radiodifuzijskim emisijama (članak 231.) i povrede prava iz prijavljenog ili zaštićenog izuma (članak 232.), kaznena djela protiv sigurnosti platnog prometa i poslovanja (glava XXI.), kaznena djela protiv vjerodostojnosti isprava (glava XXIII.), kaznena djela protiv službene dužnosti (glava XXV.), osim kaznenih djela neizvršavanja zapovijedi (članak 340.) i povrede čuvanja državne granice (članak 341.), iz Kaznenog zakona (»Narodne novine«, br. 110/97., 27/98., 50/00., 129/00., 51/01., 111/03., 190/03., 105/04., 84/05., 71/06., 110/07., 152/08. i 57/11.)
+– kaznena djela iz Zakona o tržištu vrijednosnih papira (»Narodne novine«, br. 84/02. i 138/06.)
+– kaznena djela iz Zakona o kaznenim djelima protiv tržišta kapitala (»Narodne novine«, br. 152/08.)
+– kaznena djela protiv čovječnosti i ljudskog dostojanstva (glava IX.), kaznena djela protiv života i tijela (glava X.), kaznena djela protiv radnih odnosa i socijalnog osiguranja (glava XII.), kaznena djela protiv spolne slobode (glava XVI.), kaznena djela protiv imovine (glava XXIII.), kaznena djela protiv gospodarstva (glava XXIV.), kaznena djela računalnog krivotvorenja (članak 270.), računalne prijevare (članak 271.), kaznena djela krivotvorenja (glava XXVI.) i kaznena djela protiv službene dužnosti (glava XXVIII.) iz Kaznenog zakona (»Narodne novine«, br. 125/11., 144/12., 56/15., 61/15. i 101/17.)
+– kaznena djela iz zakona kojim se uređuju trgovačka društva
+– kaznena djela iz zakona kojim se uređuju investicijski fondovi ili
+– kaznena djela iz Zakona o računovodstvu (»Narodne novine«, br. 109/07., 54/13. i 121/14.)
+3. je li osoba suradnik osobe osuđene za kazneno djelo koje se goni po službenoj dužnosti te
+4. je li osoba pravomoćno osuđena za prekršaje predviđene zakonima kojima se uređuje financijsko poslovanje, ako bi to moglo dovesti u pitanje zakonitost, sigurnost odnosno stabilnost pružanja platnih usluga.

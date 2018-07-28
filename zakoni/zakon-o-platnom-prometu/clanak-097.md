@@ -1,0 +1,14 @@
+## Pravne posljedice nedostavljanja obavijesti o stjecanju kvalificiranog udjela
+# Članak 97.
+(1) Ako osoba neposredno stekne udio iz članka 94. stavka 1., 2. ili 8. ovoga Zakona a da o tome nije obavijestila Hrvatsku narodnu banku u skladu s odredbama tih stavaka, Hrvatska narodna banka će, po saznanju o takvom stjecanju, donijeti rješenje kojim se stjecatelju privremeno zabranjuje ostvarivanje prava glasa iz određenog dijela udjela (dionica odnosno poslovnog udjela) koji je stekao.
+(2) U slučaju iz stavka 1. ovoga članka na odgovarajući se način primjenjuju odredbe članka 96. stavaka od 7. do 11. ovoga Zakona.
+(3) U rješenju iz stavka 1. ovoga članka Hrvatska narodna banka će od tog stjecatelja zatražiti da u roku od 30 dana od zaprimanja tog rješenja dostavi informacije i dokumentaciju iz članka 95. ovoga Zakona.
+(4) Ako Hrvatska narodna banka na osnovi informacija i dokumentacije dostavljene u skladu sa stavkom 3. ovoga članka ocijeni da ne postoji mogućnost da neposredni stjecatelj negativno utječe na razborito i pouzdano upravljanje institucijom za platni promet, Hrvatska narodna banka ukinut će rješenje iz stavka 1. ovoga članka.
+(5) O ukidanju rješenja iz stavka 4. ovoga članka Hrvatska narodna banka obavijestit će i instituciju za platni promet.
+(6) Ako Hrvatska narodna banka na osnovi informacija i dokumentacije dostavljene u skladu sa stavkom 3. ovoga članka ocijeni da postoji mogućnost da neposredni stjecatelj negativno utječe na razborito i pouzdano upravljanje institucijom za platni promet, Hrvatska narodna banka može postupiti na način iz članka 96. stavka 5. ovoga Zakona.
+(7) U slučaju donošenja rješenja u skladu sa stavkom 6. ovoga članka, Hrvatska narodna banka ukinut će rješenje iz stavka 1. ovoga članka.
+(8) U slučaju iz stavka 6. ovoga članka na odgovarajući se način primjenjuju odredbe članka 96. stavaka od 6. do 11. i stavka 16. ovoga Zakona.
+(9) Ako osoba posredno stekne udio iz članka 94. stavaka 1., 2. ili 8. ovoga Zakona a da o tome nije obavijestila Hrvatsku narodnu banku u skladu s odredbama tih stavaka, Hrvatska narodna banka će pozvati tog stjecatelja da u roku od 30 dana od primitka poziva Hrvatske narodne banke dostavi informacije i dokumentaciju iz članka 95. ovoga Zakona.
+(10) Ako Hrvatska narodna banka na osnovi informacija i dokumentacije dostavljene u skladu sa stavkom 9. ovoga članka ocijeni da postoji mogućnost da posredni stjecatelj negativno utječe na razborito i pouzdano upravljanje institucijom za platni promet, Hrvatska narodna banka može postupiti na način iz članka 96. stavka 12. ovoga Zakona.
+(11) U slučaju iz stavka 10. ovoga članka na odgovarajući način primjenjuju se odredbe članka 96. stavaka od 6. do 11. i stavka 16. ovoga Zakona.
+(12) Hrvatska narodna banka procjenu iz stavaka 4., 6. i 10. ovoga članka provodi u roku od tri mjeseca od podnošenja potpunih informacija i dokumentacije iz stavaka 3. i 9. ovoga članka.

@@ -1,0 +1,3 @@
+## Stupanje na snagu
+# Članak 197.
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«, osim članka 23. stavka 5. koji stupa na snagu 1. siječnja 2019., članka 35. stavka 1. točke 3., članka 36. stavka 3. točaka 5. i 6., članka 36. stavka 4. točke 1., dijela članka 36. stavka 4. točke 2. koji se odnosi na primjenu Uredbe (EU) br. 2018/389, članka 37. stavka 3. točaka 4. i 5., članka 37. stavka 4. točke 1. i članka 69. stavaka 1., 2., 3., 5., 6. i 7. ovoga Zakona koji stupaju na snagu 14. rujna 2019. i članka 48. stavka 8. ovoga Zakona koji stupa na snagu dvije godine nakon stupanja na snagu ovoga Zakona.

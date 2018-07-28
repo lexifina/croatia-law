@@ -1,0 +1,6 @@
+## Dokaz o autentifikaciji i izvršenju platnih transakcija
+# Članak 42.
+(1) Ako korisnik platnih usluga osporava da je autorizirao izvršenu platnu transakciju ili tvrdi da platna transakcija nije izvršena ili da nije uredno ili na vrijeme izvršena, njegov pružatelj platnih usluga dužan je dokazati da je platna transakcija bila autentificirana, da je platna transakcija bila pravilno evidentirana i proknjižena te da na izvršenje platne transakcije nije utjecao tehnički kvar ili neki drugi nedostatak usluge koju je on pružio.
+(2) Ako korisnik platnih usluga osporava da je autorizirao izvršenu platnu transakciju, sama činjenica da je pružatelj platnih usluga evidentirao korištenje platnog instrumenta nije nužno dokaz da je platitelj autorizirao tu platnu transakciju.
+(3) Ako korisnik platnih usluga osporava da je autorizirao izvršenu platnu transakciju, a pružatelj platnih usluga sumnja da je korisnik platnih usluga postupao prijevarno ili da namjerno ili zbog krajnje nepažnje nije ispunio jednu ili više svojih obveza iz članka 39. ovoga Zakona, pružatelj platnih usluga dužan je dokazati prijevarno postupanje odnosno takvu namjeru ili krajnju nepažnju korisnika platnih usluga.
+(4) Pružatelj platnih usluga i korisnik platnih usluga koji nije potrošač mogu ugovorom urediti teret dokaza drukčije nego što je uređeno odredbama ovoga članka.

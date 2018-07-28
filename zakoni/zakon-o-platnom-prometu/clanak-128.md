@@ -1,0 +1,9 @@
+## Pretvaranje male institucije za platni promet u instituciju za platni promet
+# Članak 128.
+(1) Mala institucija za platni promet koja namjerava povećati iznos prosječne mjesečne ukupne vrijednosti platnih transakcija iznad iznosa propisanog u članku 120. stavku 3. ovoga Zakona dužna je Hrvatskoj narodnoj banci podnijeti zahtjev za izdavanje odobrenja za pružanje platnih usluga kao institucija za platni promet.
+(2) Stavak 1. ovoga članka primjenjuje se i na malu instituciju za platni promet koja namjerava pružati platne usluge u drugoj državi članici ili u trećoj državi kao i na malu instituciju za platni promet koja namjerava pružati i druge platne usluge iz članka 4. ovoga Zakona koje nisu navedene u članku 120. stavku 1. ovoga Zakona.
+(3) Kada mala institucija za platni promet prestane ispunjavati uvjet iz članka 122. stavka 1. točke 2. ovoga Zakona, dužna je Hrvatskoj narodnoj banci podnijeti zahtjev iz stavka 1. ovoga članka u roku od 30 dana od prestanka ispunjavanja tih uvjeta.
+(4) Mala institucija za platni promet dužna je u zahtjevu iz stavaka 1. i 2. ovoga članka navesti razlog za njegovo podnošenje i uz zahtjev dostaviti sve informacije i dokumentaciju iz članka 85. ovoga Zakona.
+(5) Iznimno od stavka 4. ovoga članka, mala institucija za platni promet ne mora dostaviti one informacije i dokumentaciju koji su već dostavljeni Hrvatskoj narodnoj banci, a koji su relevantni u trenutku podnošenja zahtjeva.
+(6) Danom izvršnosti rješenja kojim se odobrava pružanje platnih usluga kao instituciji za platni promet briše se upis male institucije za platni promet iz registra iz članka 93. ovoga Zakona te se u taj registar upisuje kao institucija za platni promet.
+(7) Ako u slučaju iz stavka 3. ovoga članka mala institucija za platni promet ne podnese zahtjev u propisanom roku, Hrvatska narodna banka donijet će rješenje o upisu brisanja male institucije za platni promet u registar.

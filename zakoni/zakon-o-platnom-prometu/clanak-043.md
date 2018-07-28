@@ -1,0 +1,5 @@
+## Odgovornost pružatelja platnih usluga za neautorizirane platne transakcije
+# Članak 43.
+(1) U slučaju izvršenja neautorizirane platne transakcije, platiteljev pružatelj platnih usluga dužan je vratiti platitelju iznos te neautorizirane platne transakcije, i to odmah, a najkasnije do kraja prvoga radnog dana nakon dana primitka obavijesti iz članka 41. ovoga Zakona ili saznanja za neautoriziranu platnu transakciju na neki drugi način.
+(2) Ako je za iznos neautorizirane platne transakcije terećen račun za plaćanje platitelja, platiteljev pružatelj platnih usluga dužan je u roku iz stavka 1. ovoga članka dovesti taj račun u stanje koje bi odgovaralo stanju tog računa da neautorizirana platna transakcija nije bila izvršena, pri čemu datum valute odobrenja računa za plaćanje platitelja ne smije biti kasniji od datuma na koji je taj račun terećen za iznos neautorizirane platne transakcije.
+(3) Platiteljev pružatelj platnih usluga nije dužan postupiti po odredbama stavaka 1. i 2. ovoga članka ako ima opravdan razlog za sumnju u prijevaru i ako je o navedenom razlogu obavijestio Hrvatsku narodnu banku u pisanom obliku.
