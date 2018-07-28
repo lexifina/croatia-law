@@ -1,4 +1,0 @@
-# Članak 4.
-(1) Ako se predmet od plemenitih kovina sastoji od slitina različitih plemenitih kovina, naknada za ispitivanje i žigosanje obračunava se prema ukupnoj masi predmeta kao da je izrađen od plemenite kovine čija je masa u tom predmetu najviše zastupljena.
-(2) Ako se predmet od plemenitih kovina sastoji od slitina različitih plemenitih kovina u jednakom omjeru, naknada za ispitivanje i žigosanje obračunava se prema ukupnoj masi predmeta kao da je izrađen od plemenite kovine najnižeg stupnja plemenitosti.
-(3) Ako se predmet od plemenitih kovina sastoji od slitine plemenite kovina i drugih kovina ili je predmet sastavljen od plemenite kovine i drugih materijala poput dragog kamena, bisera ili drugih materijala, naknada za ispitivanje i žigosanje obračunava se prema ukupnoj masi predmeta.
