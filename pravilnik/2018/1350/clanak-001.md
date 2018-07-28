@@ -1,0 +1,2 @@
+# Članak 1.
+Ovim Pravilnikom propisuje se naknada troškova za dodjeljivanje znaka proizvođača odnosno dobavljača predmeta od plemenitih kovina; naknada troškova ispitivanja i žigosanja državnim žigom predmeta od plemenitih kovina; naknada troškova u postupku ispitivanja čistoće predmeta od plemenitih kovina; naknada troškova za izdavanje certifikata o žigosanju te naknada troškova ispitivanja i žigosanja predmeta od plemenitih kovina državnim žigom izvan prostorija Zavoda.
