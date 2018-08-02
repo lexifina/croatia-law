@@ -1,0 +1,1 @@
+Na temelju članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/11, 119/14 i 93/16) i članka 36. stavka 1. Zakona o profesionalnoj rehabilitaciji i zapošljavanju osoba s invaliditetom (»Narodne novine«, br. 157/13, 152/14 i 39/18), Vlada Republike Hrvatske je na sjednici održanoj 2. kolovoza 2018. godine donijela
