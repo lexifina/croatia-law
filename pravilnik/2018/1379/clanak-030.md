@@ -1,0 +1,5 @@
+## Zabrana, ograničenje distribucije i način distribucije
+# Članak 30.
+(1) Za zabranu ili ograničavanje daljnje distribucije klasificiranog podatka koristi se oznaka »ISKLJUČIVO« kada se dokument dostavlja primateljima u Republici Hrvatskoj. Pritom se u produžetku oznake »ISKLJUČIVO« stavlja službena kratica tijela javne vlasti ili pravne osobe primatelja klasificiranog podatka ako je ona ima, a ako je nema, stavlja se puni službeni naziv.
+(2) Kada je primatelj klasificiranog podatka unutarnja ustrojstvena jedinica Ministarstva obrane, Glavnog stožera Oružanih snaga, Oružanih snaga ili Agencija, stavlja se propisana skraćenica (primjerice HRM), ako je nema, stavlja se puni naziv ustrojstvene jedinice.
+(3) Kada je primatelj strana država ili međunarodna organizacija za zabranu ili daljnje ograničavanje distribucije klasificiranog podatka, koristi se međunarodna oznaka »ONLY« i pritom navodi službena međunarodna kratica države ili organizacije. Ako ne postoji međunarodna kratica, stavlja se puni službeni naziv (prilog broj 6).

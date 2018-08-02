@@ -1,0 +1,2 @@
+# Članak 10.
+Ustrojstvene jedinice Ministarstva obrane i Glavnog stožera Oružanih snaga razine uprava, samostalnih sektora, samostalnih službi i samostalnih odjela te na razini zapovjedništava odnosno pristožernih postrojbi Oružanih snaga, mogu za podatke koje stvaraju u okviru djelokruga svoje nadležnosti regulirati posebnom uputom o klasificiranju podataka kojom će se obuhvatiti područja, skupine podataka unutar tih područja kao i podatke s rasponima mogućih stupnjeva tajnosti.

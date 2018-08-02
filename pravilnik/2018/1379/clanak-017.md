@@ -1,0 +1,9 @@
+## Deklasifikacija, promjena stupnja tajnosti i oslobođenje od čuvanja tajnosti podataka
+# Članak 17.
+(1) Odluku o deklasifikaciji ili promjeni stupnja tajnosti podataka donose ministar obrane za podatke kojih je vlasnik Ministarstvo obrane, načelnik Glavnog stožera Oružanih snaga za podatke kojih je vlasnik Glavni stožer Oružanih snaga i Oružane snage te ravnatelj Agencije za podatke kojih je vlasnik Agencija.
+(2) Stvaratelji klasificiranih podataka izrađuju pisanu procjenu u kojoj navode sve relevantne okolnosti, činjenice i događaje koji zahtijevaju ili za posljedicu imaju zaštitu podataka određenim stupnjem tajnosti te obvezno obrazlažu potrebu daljnjeg zadržavanja tajnosti podataka odnosno nepostojanje zapreka za deklasifikaciju, promjenu stupnja tajnosti podataka ili oslobađanje obveze čuvanja tajnosti podataka.
+(3) Odluku iz stavka 1. ovoga članka pripremaju stvaratelji klasificiranih podataka iz članka 3. ovoga Pravilnika, na temelju pisane procjene iz stavka 2. ovoga članka.
+(4) Odlukom o deklasifikaciji podataka obvezno se utvrđuju uvjeti daljnjeg postupanja odnosno javnog korištenja deklasificiranog podataka.
+(5) Ministar obrane, načelnik Glavnog stožera Oružanih snaga i ravnatelj Agencije mogu provesti skupnu deklasifikaciju ili promjenu stupnja tajnosti određene skupine podataka.
+(6) Odluku kojom se oslobađa čuvanja tajnosti osobu koja jest ili je bila djelatnik Ministarstva obrane odnosno pripadnik Oružanih snaga i imala je pristup klasificiranom podatku, donosi ministar obrane odnosno osoba koju on ovlasti, a za potrebe istražnog, sudskog ili upravnog postupka, u skladu s posebnim zakonom.
+(7) Za podatke kojih je vlasnik Agencije, odluku kojom se oslobađa čuvanja tajnosti osobu koja jest zaposlenik Agencije donosi ravnatelj Agencije, a za osobu koja je bila zaposlenik Agencije odluku donosi ministar obrane na prijedlog ravnatelja Agencije.
