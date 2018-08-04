@@ -1,0 +1,6 @@
+## Posebni uvjeti obrade
+# Članak 10.
+(1) Osobni podaci koje nadležna tijela prikupljaju za svrhe utvrđene u članku 1. ovoga Zakona mogu se obrađivati i u svrhe koje nisu propisane u članku 1. ovoga Zakona, ako je to propisano posebnim propisom, a na takvu obradu podataka primjenjuje se Uredba (EU) 2016/679.
+(2) Ako je nadležnim tijelima povjereno obavljanje zadaća drukčijih od onih koje se obavljaju u svrhe iz članka 1. ovoga Zakona, na obradu podataka za takve svrhe primjenjuje se Uredba (EU) 2016/679, uključujući i za arhiviranje u javnom interesu ili u svrhe znanstvenog ili povijesnog istraživanja ili u statističke svrhe.
+(3) Ako nadležno tijelo koje prenosi podatke predviđa posebne uvjete za njihovu obradu, nadležno tijelo koje prenosi takve osobne podatke će obavijestiti i upozoriti primatelja kojemu ih prenosi o tim uvjetima i zahtjevu za poštivanje tih uvjeta.
+(4) Nadležno tijelo koje prenosi podatke ne primjenjuje uvjete iz stavka 3. ovoga članka na primatelje u drugim državama članicama ili na agencije, urede i tijela osnovane u skladu s glavom V. poglavljima 4. i 5. Ugovora o funkcioniranju Europske unije, različite od onih koji su primjenjivi na slične prijenose podataka drugih nadležnih tijela u smislu ovoga Zakona.

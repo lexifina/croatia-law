@@ -1,0 +1,3 @@
+# Članak 3.
+(1) Ovaj Zakon primjenjuje se na obradu osobnih podataka od strane nadležnih tijela za svrhe utvrđene u članku 1. ovoga Zakona automatiziranu u cijelosti ili djelomično te na neautomatiziranu obradu osobnih podataka, a koja čini ili će činiti dio sustava pohrane.
+(2) Odredbe ovoga Zakona ne primjenjuju se na obradu i razmjenu osobnih podataka tijekom djelatnosti koje u području nacionalne sigurnosti obavljaju tijela sigurnosno-obavještajnog sustava, djelatnosti u vezi s pitanjima iz područja nacionalne sigurnosti koje obavljaju tijela obrambenog sustava, kao i na obradu i razmjenu osobnih podataka pri obavljanju djelatnosti obuhvaćenih glavom V. poglavljem 2. Ugovora o Europskoj uniji.
