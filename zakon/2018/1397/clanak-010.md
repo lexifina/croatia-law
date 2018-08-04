@@ -1,0 +1,15 @@
+# Članak 10.
+Iza članka 37. dodaje se članak 37.a koji glasi:
+»Članak 37.a
+(1) Novčanom kaznom u iznosu od 10.000,00 do 500.000,00 kuna kaznit će se za prekršaj pravna osoba koja:
+1. ovlaštenoj osobi Agencije ne omogući obavljanje nadzora sukladno članku 36.a stavku 2. ovoga Zakona,
+2. ovlaštenoj osobi Agencije ne omogući pregled poslovnih knjiga, baze podataka i druge dokumentacije te nadzor nad informacijskim sustavom i tehnologijama koje omogućavaju rad informacijskog sustava, u opsegu potrebnom za obavljanje nadzora sukladno članku 36.a stavku 3. ovoga Zakona,
+3. ovlaštenoj osobi Agencije ne preda svu zatraženu poslovnu dokumentaciju, računalne ispise koji uključuju ispise elektroničke pošte, preslike poslovnih knjiga te zapise s telefaksa u papirnatom obliku ili u obliku elektroničkog zapisa na mediju i u obliku koji zahtijeva ovlaštena osoba Agencije te ne osigura standardno sučelje za pristup sustavu za upravljanje bazama podataka kojima se koristi, u svrhu provođenja nadzora potpomognutog računalnim programima sukladno članku 36.a stavku 4. ovoga Zakona,
+4. po ovlaštenju stranke obavlja djelatnost i poslove iz članka 36.a stavaka 2. do 6. u vezi s kojima Agencija obavlja nadzor, sukladno članku 36.a stavku 7. ovoga Zakona,
+5. na zahtjev ovlaštene osobe Agencije ne osigura stručnu i tehničku pomoć, kao i druge uvjete potrebne za obavljanje nadzora, te ne daje ovlaštenoj osobi Agencije sva potrebna pojašnjenja, podatke i informacije u vezi s postupkom nadzora sukladno članku 36.a stavku 8. ovoga Zakona,
+6. ne da sve potrebne obavijesti, u obliku pisanih očitovanja ili usmenih izjava, ne dostavi na uvid potrebne podatke i dokumentaciju te ne obavi druge radnje koje Agencija smatra potrebnima radi utvrđenja svih relevantnih činjenica sukladno članku 36.a stavku 12. ovoga Zakona, osim tijela državne uprave te tijela jedinica lokalne i područne (regionalne) samouprave.
+(2) Novčanom kaznom u iznosu od 3000,00 do 50.000,00 kuna kaznit će se i odgovorna osoba u pravnoj osobi te odgovorne osobe u tijelima državne uprave te tijelima jedinica lokalne i područne (regionalne) samouprave za prekršaje iz stavka 1. ovoga članka.
+(3) Novčanom kaznom u iznosu od 3000,00 do 50.000,00 kuna kaznit će se i odgovorna osoba u pravnoj osobi ako s ovlaštenom osobom Agencije ne surađuje i ne daje sve informacije i podatke bitne za obavljanje nadzora i ispunjavanje ciljeva nadzora sukladno članku 36.a stavku 6. ovoga Zakona.
+(4) Novčanom kaznom u iznosu od 3000,00 do 50.000,00 kuna kaznit će se fizička osoba za prekršaje iz stavka 1. ovoga članka.
+(5) Novčanom kaznom u iznosu od 3000,00 do 50.000,00 kuna kaznit će se fizička osoba ako s ovlaštenom osobom Agencije ne surađuje i ne daje sve informacije i podatke bitne za obavljanje nadzora i ispunjavanje ciljeva nadzora sukladno članku 36.a stavku 6. ovoga Zakona.
+(6) Novčanom kaznom u iznosu od 3000,00 do 50.000,00 kuna kaznit će se fizička osoba koja obavlja gospodarsku djelatnost za prekršaje iz stavka 1. ovoga članka.«.
