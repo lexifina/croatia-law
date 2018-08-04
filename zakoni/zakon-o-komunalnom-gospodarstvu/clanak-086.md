@@ -1,0 +1,3 @@
+# Članak 86.
+(1) Rješenje o komunalnom doprinosu u postupku pokrenutom po zahtjevu stranke donosi se u skladu s odlukom o komunalnom doprinosu koja je na snazi u vrijeme podnošenja zahtjeva stranke za donošenje tog rješenja.
+(2) Rješenje o komunalnom doprinosu u postupku pokrenutom po službenoj dužnosti donosi se u skladu s odlukom o komunalnom doprinosu koja je na snazi na dan pravomoćnosti građevinske dozvole, pravomoćnosti rješenja o izvedenom stanju odnosno koja je na snazi na dan donošenja rješenja o komunalnom doprinosu ako se radi o građevini koja se prema posebnim propisima kojima se uređuje gradnja može graditi bez građevinske dozvole.

@@ -1,0 +1,6 @@
+# Članak 25.
+(1) Pod uslugama parkiranja na uređenim javnim površinama i u javnim garažama podrazumijeva se upravljanje tim površinama i garažama, njihovo održavanje, naplata i kontrola naplate parkiranja i drugi poslovi s tim u vezi te obavljanje nadzora i premještanje parkiranih vozila na površinama javne namjene sukladno posebnim propisima. Pod navedenim uslugama ne podrazumijeva se pružanje usluga parkiranja na površinama i garažama koje nisu u vlasništvu jedinice lokalne samouprave.
+(2) Pod uslugama javnih tržnica na malo podrazumijeva se upravljanje i održavanje prostora i zgrada izgrađenih na zemljištu u vlasništvu jedinice lokalne samouprave u kojima se u skladu s tržnim redom pružaju usluge obavljanja prometa živežnim namirnicama i drugim proizvodima.
+(3) Pod uslugama ukopa i kremiranja pokojnika u krematoriju unutar groblja podrazumijevaju se ispraćaj, kremiranje i ukop unutar groblja u skladu s posebnim propisima.
+(4) Pod komunalnim linijskim prijevozom putnika podrazumijeva se javni cestovni prijevoz putnika na linijama unutar zona koje utvrđuju jedinice lokalne samouprave na svojem području.
+(5) Pod dimnjačarskim poslovima podrazumijeva se čišćenje i kontrola dimnjaka, dimovoda i uređaja za loženje u građevinama.

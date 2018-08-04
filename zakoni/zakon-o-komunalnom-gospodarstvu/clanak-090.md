@@ -1,0 +1,2 @@
+# Članak 90.
+Protiv rješenja o komunalnom doprinosu i rješenja o njegovoj ovrsi, rješenja o njegovoj izmjeni, dopuni, ukidanju ili poništenju, rješenja o odbijanju ili odbacivanju zahtjeva za donošenje tog rješenja te rješenja o obustavi postupka može se izjaviti žalba o kojoj odlučuje upravno tijelo županije nadležno za poslove komunalnog gospodarstva, a o žalbi protiv rješenja koja donosi upravno tijelo Grada Zagreba odlučuje središnje tijelo državne uprave nadležno za poslove komunalnog gospodarstva.

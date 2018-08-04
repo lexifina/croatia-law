@@ -1,0 +1,5 @@
+# Članak 54.
+(1) Prilikom određivanja cijene komunalne usluge uzimaju se u obzir izdaci potrebni za osiguranje dostupnosti komunalne usluge te za upravljanje i održavanje komunalne infrastrukture koja se koristi za obavljanje uslužne komunalne djelatnosti.
+(2) Cijena komunalne usluge određuje se tako da se pravnim i fizičkim osobama kojima je povjereno obavljanje komunalne djelatnosti omogući povrat sredstava uloženih u građenje komunalne infrastrukture i obavljanje komunalne djelatnosti.
+(3) Cijena komunalne usluge može sadržavati i iznos za financiranje gradnje komunalne infrastrukture na području ili za potrebe jedinice lokalne samouprave na kojemu se isporučuje komunalna usluga, a u skladu s programom građenja komunalne infrastrukture.
+(4) Iznos za financiranje gradnje komunalne infrastrukture iz stavka 3. ovoga članka u računu za isporučenu komunalnu uslugu iskazuje se posebno i taj se iznos doznačuje u proračun jedinice lokalne samouprave na način propisan posebnim propisima kojima se uređuje proračunsko računovodstvo te se može koristiti samo za tu namjenu.

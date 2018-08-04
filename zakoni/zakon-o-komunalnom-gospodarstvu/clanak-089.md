@@ -1,0 +1,3 @@
+# Članak 89.
+(1) Iznos komunalnog doprinosa plaćen za građenje građevine na temelju građevinske dozvole odnosno drugog akta za građenje koji je prestao važiti jer građenje nije započeto ili građevinske dozvole odnosno drugog akta za građenje koji je poništen na zahtjev ili uz suglasnost investitora uračunava se kao plaćeni dio komunalnog doprinosa koji se plaća za građenje na istom ili drugom zemljištu na području iste jedinice lokalne samouprave, ako to zatraži obveznik komunalnog doprinosa odnosno investitor.
+(2) Obveznik komunalnog doprinosa odnosno investitor nema pravo na kamatu za iznos koji je uplaćen niti na kamatu za iznos koji se uračunava kao plaćeni dio komunalnog doprinosa kojim se plaća građenje na istom ili drugom zemljištu.

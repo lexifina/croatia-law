@@ -1,0 +1,4 @@
+# Članak 100.
+(1) Rješenje o komunalnoj naknadi donosi upravno tijelo u skladu s odlukom o komunalnoj naknadi i odlukom o vrijednosti boda komunalne naknade (B) u postupku pokrenutom po službenoj dužnosti.
+(2) Rješenje iz stavka 1. ovoga članka donosi se do 31. ožujka tekuće godine ako se odlukom predstavničkog tijela mijenja vrijednost boda komunalne naknade (B) ili drugi podatak bitan za njezin izračun u odnosu na prethodnu godinu te u slučaju promjene drugih podataka bitnih za utvrđivanje obveze plaćanja komunalne naknade.
+(3) Rješenje iz stavka 1. ovoga članka donosi se i ovršava u postupku i na način propisan zakonom kojim se uređuje opći odnos između poreznih obveznika i poreznih tijela koja primjenjuju propise o porezima i drugim javnim davanjima, ako ovim Zakonom nije propisano drukčije.

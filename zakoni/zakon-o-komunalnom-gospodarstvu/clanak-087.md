@@ -1,0 +1,4 @@
+# Članak 87.
+(1) Upravno tijelo izmijenit će po službenoj dužnosti ili po zahtjevu obveznika komunalnog doprinosa odnosno investitora ovršno odnosno pravomoćno rješenje o komunalnom doprinosu ako je izmijenjena građevinska dozvola, drugi akt za građenje ili glavni projekt na način koji utječe na obračun komunalnog doprinosa.
+(2) Rješenjem o izmjeni rješenja o komunalnom doprinosu u slučaju iz stavka 1. ovoga članka obračunat će se komunalni doprinos prema izmijenjenim podacima i odrediti plaćanje odnosno povrat razlike komunalnog doprinosa u skladu s odlukom o komunalnom doprinosu u skladu s kojom je rješenje o komunalnom doprinosu doneseno.
+(3) Obveznik komunalnog doprinosa odnosno investitor u slučaju iz odredbe stavaka 1. i 2. ovoga članka nema pravo na kamatu od dana uplate komunalnog doprinosa do dana određenog rješenjem za povrat doprinosa.

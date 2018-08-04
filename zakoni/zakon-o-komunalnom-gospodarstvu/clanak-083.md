@@ -1,0 +1,4 @@
+# Članak 83.
+(1) Rješenje o komunalnom doprinosu donosi upravno tijelo jedinice lokalne samouprave nadležno za poslove komunalnog gospodarstva odnosno jedinstveni upravni odjel (u daljnjem tekstu: upravno tijelo) u skladu s odlukom o komunalnom doprinosu u postupku pokrenutom po službenoj dužnosti ili po zahtjevu stranke.
+(2) Ako je jedinica lokalne samouprave u skladu s posebnim zakonom kojim se uređuje prostorno uređenje sklopila ugovor kojim se obvezuje djelomično ili u cijelosti prebiti potraživanja s obvezom plaćanja komunalnog doprinosa, rješenje iz stavka 1. ovoga članka donosi se i u skladu s tim ugovorom.
+(3) Rješenje iz stavka 1. ovoga članka donosi se i ovršava u postupku i na način propisan zakonom kojim se uređuje opći odnos između poreznih obveznika i poreznih tijela koja primjenjuju propise o porezima i drugim javnim davanjima, ako ovim Zakonom nije propisano drukčije.

@@ -1,0 +1,2 @@
+# Članak 108.
+Protiv upravnih akata koje donosi upravno tijelo u obavljanju poslova iz članka 107. stavaka 2. i 3. ovoga Zakona može se izjaviti žalba o kojoj odlučuje upravno tijelo županije nadležno za poslove komunalnog gospodarstva, a o žalbi protiv upravnih akata koje donosi upravno tijelo Grada Zagreba odlučuje središnje tijelo državne uprave nadležno za poslove komunalnog gospodarstva, ako posebnim zakonom nije propisano drukčije.
