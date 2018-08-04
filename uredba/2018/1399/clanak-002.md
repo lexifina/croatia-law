@@ -1,0 +1,4 @@
+## Usklađenost s propisima Europske unije
+# Članak 2.
+(1) Ovom Uredbom se u hrvatsko zakonodavstvo preuzima Direktiva 2016/1148 Europskog parlamenta i Vijeća od 6. srpnja 2016. o mjerama za visoku zajedničku razinu sigurnosti mrežnih i informacijskih sustava širom Unije (SL L 194, 19. 7. 2016.).
+(2) Ovom se Uredbom osigurava provedba Provedbene uredbe Komisije (EU) 2018/151 оd 30. siječnja 2018. o utvrđivanju pravila za primjenu Direktive (EU) 2016/1148 Europskog parlamenta i Vijeća u odnosu na dodatne specifikacije elemenata koje pružatelji digitalnih usluga moraju uzeti u obzir u upravljanju rizicima kojima je izložena sigurnost njihovih mrežnih i informacijskih sustava i parametara za utvrđivanje ima li incident znatan učinak (SL L 26/48, 31. 1. 2018. - u daljnjem tekstu: Provedbena uredba Komisije).

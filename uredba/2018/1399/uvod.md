@@ -1,0 +1,1 @@
+Na temelju članka 30. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/11, 119/14 i 93/16) i članka 20. Zakona o kibernetičkoj sigurnosti operatora ključnih usluga i davatelja digitalnih usluga (»Narodne novine«, broj 64/18), Vlada Republike Hrvatske je na sjednici održanoj 26. srpnja 2018. godine donijela

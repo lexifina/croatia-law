@@ -1,0 +1,3 @@
+# Članak 11.
+(1) Operatori ključnih usluga dužni su kontinuirano ažurirati katalog rizika, uzimajući u obzir unutarnje i vanjske prijetnje koje se pojavljuju, novootkrivene ranjivosti, gubitak djelotvornosti postojećih mjera za sprečavanje i ublažavanje učinaka incidenata, promjene rizika uslijed promjene arhitekture informacijskih sustava, sve promjene koje utječu na sigurnost ključnih sustava, kao i rezultate prethodnih procjena rizika.
+(2) Operatori ključnih usluga dužni su najmanje jednom godišnje provoditi procjenu rizika kojemu je izložen njihov ključni sustav i donositi odluku o prihvaćanju preostalih rizika.
