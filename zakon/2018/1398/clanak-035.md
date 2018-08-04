@@ -1,0 +1,6 @@
+# Članak 35.
+Članak 113. mijenja se i glasi:
+»(1) U slučaju sumnje da je radniku školske ustanove psihofizičko zdravlje narušeno u mjeri da bi njegova radna sposobnost mogla biti smanjena, ravnatelj će uputiti školskom odboru obrazloženi prijedlog za donošenje odluke o upućivanju radnika na liječnički pregled kod ovlaštenog izabranog doktora specijalista medicine rada radi utvrđivanja radne sposobnosti.
+(2) Ako školski odbor utvrdi da je prijedlog ravnatelja opravdan, donijet će odluku o upućivanju radnika na liječnički pregled kod ovlaštenog izabranog doktora specijalista medicine rada radi ovlaštenog utvrđivanja prosudbe radne sposobnosti.
+(3) Radniku koji odbije izvršiti odluku iz stavka 2. ovoga članka, otkazat će se ugovor o radu zbog skrivljenog ponašanja zbog kršenja obveza iz radnog odnosa.
+(4) Ako se ovlaštenom prosudbom izabranog doktora specijalista medicine rada utvrdi da radnik nije u mogućnosti uredno izvršavati obveze u odgojno-obrazovnom radu, ravnatelj će istu prosudbu uputiti izabranom doktoru medicine primarne zdravstvene zaštite radnika radi pokretanja postupka za ostvarivanje prava iz mirovinskog osiguranja na temelju smanjenja radne sposobnosti uz preostalu radnu sposobnost ili djelomičnog, odnosno potpunog gubitka radne sposobnosti.«.

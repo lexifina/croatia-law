@@ -1,0 +1,3 @@
+# Članak 44.
+(1) Postupci imenovanja ravnatelja školskih ustanova započeti prije stupanja na snagu ovoga Zakona dovršit će se prema odredbama članka 127. Zakona o odgoju i obrazovanju u osnovnoj i srednjoj školi (»Narodne novine«, br. 87/08., 86/09., 92/10., 105/10. - ispravak, 90/11., 16/12., 86/12., 94/13., 152/14. i 7/17.).
+(2) Osobe kojima je istekao mandat ravnatelja nakon stupanja ovoga Zakona na snagu, a kontinuirano su obavljale dužnost ravnatelja u tri i više mandata, a nisu ponovno imenovane, po isteku mandata imaju pravo biti prijavljene uredu državne uprave, odnosno Gradskom uredu iz članka 107. Zakona o odgoju i obrazovanju u osnovnoj i srednjoj školi, koji vodi evidenciju o radnicima za kojima je prestala potreba.

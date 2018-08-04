@@ -1,0 +1,4 @@
+# Članak 46.
+(1) Pravilnik iz članka 13. ovoga Zakona o organizaciji i provedbi produženog boravka ministar će donijeti u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.
+(2) Odluku iz članka 21. ovoga Zakona kojom se utvrđuje iznos novčane naknade za polaganje ispita državne mature za pojedine kategorije pristupnika Vlada Republike Hrvatske donijet će u roku od četiri mjeseca od dana stupanja na snagu ovoga Zakona.
+(3) Pravilnik iz članka 30. ovoga Zakona kojim se mijenja članak 107. stavak 8. Zakona o odgoju i obrazovanju u osnovnoj i srednjoj školi (»Narodne novine«, br. 87/08., 86/09., 92/10., 105/10. - ispravak, 90/11., 16/12., 86/12., 94/13., 152/14. i 7/17.), o načinu i postupku utvrđivanja lista evidencija, načinu raspoređivanja zaposlenika te kriterijima kojima se svim kandidatima za zapošljavanje osiguravaju jednaki i transparentni uvjeti ministar će donijeti u roku od tri mjeseca od dana stupanja na snagu ovoga Zakona.

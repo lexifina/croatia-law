@@ -1,0 +1,19 @@
+# Članak 30.
+Članak 107. mijenja se i glasi:
+»(1) Radni odnos u školskoj ustanovi zasniva se ugovorom o radu na temelju natječaja koji se objavljuje na mrežnim stranicama i oglasnim pločama Hrvatskog zavoda za zapošljavanje te mrežnim stranicama i oglasnim pločama školskih ustanova, a rok za primanje prijava kandidata ne može biti kraći od osam dana.
+(2) Radni odnos u školskoj ustanovi zasniva se s osobom koja ispunjava uvjete iz članka 105. ovoga Zakona za zasnivanje radnog odnosa, a u natječaju se navode i posebni uvjeti za zasnivanje radnog odnosa u školskoj ustanovi.
+(3) Potreba i prestanak potrebe za radnikom prijavljuje se uredu državne uprave, odnosno Gradskom uredu i Hrvatskom zavodu za zapošljavanje. Školska ustanova obvezna je prijaviti uredu državne uprave, odnosno Gradskom uredu prestanak potrebe za radnikom nakon što je određenog radnika utvrdila organizacijskim viškom.
+(4) Ured državne uprave, odnosno Gradski ured vodi evidenciju o radnicima za kojima je prestala potreba u punom ili dijelu radnog vremena te im u skladu s njihovom kvalifikacijom predlaže zasnivanje radnog odnosa sa školskim ustanovama koje su prijavile odgovarajuću potrebu.
+(5) Radnik koji je upisan u evidenciju iz stavka 4. ovoga članka briše se iz evidencije ako zasnuje ili odbije zasnovati radni odnos u skladu s odredbom stavka 4. ovoga članka najkasnije istekom otkaznog roka.
+(6) Školska ustanova može popuniti radno mjesto na način propisan odredbom stavka 1. ovoga članka tek nakon što ju je ured državne uprave, odnosno Gradski ured iz stavka 3. ovoga članka obavijestio da u evidenciji nema odgovarajuće osobe, odnosno nakon što se školska ustanova istom tijelu pisano očitovala o razlozima zbog kojih nije primljena upućena osoba.
+(7) Ured državne uprave, odnosno Gradski ured poslove iz stavaka 4. 5. i 6. ovoga članka obavlja u suradnji s tijelom predviđenim kolektivnim ugovorom.
+(8) Način i postupak utvrđivanja lista evidencija, način raspoređivanja zaposlenika te kriterije kojima se svim kandidatima za zapošljavanje osiguravaju jednaki i transparentni uvjeti uređuju se pravilnikom koji donosi ministar.
+(9) Način i postupak kojim se svim kandidatima za zapošljavanje u školskim ustanovama osigurava jednaka dostupnost javnim službama pod jednakim uvjetima, vrednovanje kandidata prijavljenih na natječaj, odnosno kandidata koje je uputio ured državne uprave, odnosno Gradski ured, kao i odredbe vezane uz sastav posebnog povjerenstva koje sudjeluje u procjeni kandidata uređuju se pravilnikom školske ustanove, na koji suglasnost daje ured državne uprave, odnosno Gradski ured.
+(10) Odredbe stavaka 3. do 9. ovoga članka ne primjenjuju se u školskim ustanovama čija se sredstva za plaće radnika ne osiguravaju u državnom proračunu.
+(11) Iznimno od odredbe stavka 1. ovoga članka, radni odnos može se zasnovati ugovorom o radu i bez natječaja:
+- na određeno vrijeme, kada obavljanje poslova ne trpi odgodu, do zasnivanja radnog odnosa na temelju natječaja ili na drugi propisan način, ali ne dulje od 60 dana,
+- s osobom kojoj je ugovor o radu na neodređeno vrijeme otkazan zbog gospodarskih, tehničkih ili organizacijskih razloga i koja se nalazi u evidenciji ureda državne uprave, odnosno Gradskog ureda,
+- do punog radnog vremena, s radnikom koji u školskoj ustanovi ima zasnovan radni odnos na neodređeno nepuno radno vrijeme,
+- na temelju sporazuma školskih ustanova u kojima su radnici u radnom odnosu na neodređeno vrijeme ako žele zamijeniti mjesto rada zbog udaljenosti mjesta rada od mjesta stanovanja,
+- s osobom koja se zapošljava na radnom mjestu vjeroučitelja.
+(12) Ako se na natječaj ne javi osoba koja ispunjava uvjete iz članka 105. ovoga Zakona, natječaj će se ponoviti u roku od pet mjeseci, a do zasnivanja radnog odnosa na osnovi ponovljenog natječaja radni se odnos može zasnovati s osobom koja ne ispunjava propisane uvjete.«.
