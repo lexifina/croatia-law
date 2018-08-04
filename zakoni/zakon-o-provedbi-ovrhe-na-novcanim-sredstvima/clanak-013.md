@@ -1,0 +1,8 @@
+## II.2. PROVEDBA OVRHE NA NOVČANIM SREDSTVIMA DRŽAVNOG PRORAČUNA REPUBLIKE HRVATSKE I PRORAČUNA JEDINICA LOKALNE I PODRUČNE (REGIONALNE) SAMOUPRAVE
+# Članak 13.
+(1) Radi provedbe ovrhe na novčanim sredstvima državnog proračuna Republike Hrvatske i proračuna jedinica lokalne i područne (regionalne) samouprave odgovarajuće se primjenjuju odredbe ovoga Zakona i posebnih propisa kojima se uređuju državni proračun i proračun jedinica lokalne i područne (regionalne) samouprave.
+(2) Nalog za provedbu ovrhe na novčanim sredstvima državnog proračuna Republike Hrvatske Agencija dostavlja Hrvatskoj narodnoj banci, a nalog za provedbu ovrhe na novčanim sredstvima proračuna jedinice lokalne i područne (regionalne) samouprave Agencija dostavlja banci.
+(3) Ovrha na novčanim sredstvima ovršenika Republike Hrvatske provodi se na računu državnog proračuna Republike Hrvatske.
+(4) Agencija će provesti ovrhu na računu državnog proračuna Republike Hrvatske i kada je ovrha određena protiv proračunskog korisnika državnog proračuna kada se na temelju propisa kojim se uređuje proračun račun državnog proračuna smatra računom proračunskog korisnika.
+(5) Agencija će provesti ovrhu na računu proračuna jedinice lokalne i područne (regionalne) samouprave kada je ovrha određena protiv korisnika proračuna jedinice lokalne i područne (regionalne) samouprave kada se na temelju propisa kojim se uređuje proračun, račun proračuna jedinice lokalne i područne (regionalne) samouprave smatra računom proračunskog korisnika.
+(6) Ministar financija detaljnije pravilnikom uređuje način i postupak provedbe ovrhe na novčanim sredstvima državnog proračuna Republike Hrvatske i proračuna jedinica lokalne i područne (regionalne) samouprave.

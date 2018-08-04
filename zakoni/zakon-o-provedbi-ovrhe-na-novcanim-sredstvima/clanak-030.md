@@ -1,0 +1,8 @@
+## Prekršaji ovršenika – poslovnog subjekta
+# Članak 30.
+(1) Novčanom kaznom u iznosu od 50.000,00 do 500.000,00 kuna kaznit će se za prekršaj ovršenik – pravna osoba:
+1. ako sklopi ugovor radi obračunskog plaćanja dok u Jedinstvenom registru računa ima oznaku blokade računa, odnosno zabranu raspolaganja oročenim novčanim sredstvima, ako tim obračunskim plaćanjem kao vjerovnik tražbine onemogućuje ili izbjegava primitak ispunjenja obveze u novcu (članak 15. stavak 2.)
+2. ako za vrijeme dok u Jedinstvenom registru računa ima oznaku blokade računa odnosno zabranu raspolaganja oročenim novčanim sredstvima svoje obveze plati gotovim novcem ili ako gotov novac koji je primio obavljajući registriranu djelatnost ne položi na svoj račun u banci (članak 16.)
+3. ako za vrijeme dok u Jedinstvenom registru računa ima oznaku blokade računa odnosno zabranu raspolaganja oročenim novčanim sredstvima plati preko institucije za platni promet ili preko ostalih pružatelja platnih usluga u Republici Hrvatskoj, plati ili primi plaćanje preko računa otvorenog kod pružatelja platnih usluga u inozemstvu, odnosno preusmjerava novčane i financijske tijekove na drugu osobu ili prima uplate i isplaćuje novčana sredstva na račune drugih osoba (članak 17.).
+(2) Za prekršaj iz stavka 1. ovoga članka kaznit će se novčanom kaznom u iznosu od 10.000,00 do 50.000,00 kuna i odgovorna osoba u poslovnom subjektu pravnoj osobi.
+(3) Novčanom kaznom u iznosu od 10.000,00 do 200.000,00 kuna kaznit će se ovršenik – fizička osoba koja obavlja registriranu gospodarsku djelatnost i fizička osoba koja se bavi slobodnim zanimanjem za prekršaj iz stavka 1. ovoga članka.
