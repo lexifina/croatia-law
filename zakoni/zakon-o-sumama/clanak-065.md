@@ -1,0 +1,7 @@
+## Naknada za općekorisne funkcije šuma
+# Članak 65.
+(1) Pravne i fizičke osobe koje su obveznici poreza na dobit te fizičke osobe koje su obveznici poreza na dohodak, a u Republici Hrvatskoj obavljaju registriranu djelatnost i ostvaruju ukupni godišnji prihod i primitak veći od 3.000.000,00 kuna plaćaju naknadu za korištenje općekorisnih funkcija šuma.
+(2) Naknada iz stavka 1. ovoga članka plaća se u visini 0,0265% od ukupnog prihoda ili ukupnih primitaka i uplaćuje se u državni proračun za namjene iz članka 68. ovoga Zakona tromjesečno i u roku od osam dana računajući od dana kada je obračun naknade postao konačan.
+(3) Poslove obračuna i naplate naknade iz stavka 1. ovoga članka obavlja Financijska agencija (u daljnjem tekstu: Agencija) u ime Ministarstva.
+(4) Ministarstvo financija, Porezna uprava obvezna je dostaviti Agenciji popis fizičkih osoba – obveznika poreza na dohodak od obavljanja samostalne djelatnosti s iskazanim iznosima primitaka u svrhu obavljanja poslova obračuna i naplate naknade iz stavka 1. ovoga članka te je obvezna podatke dostaviti u tekućoj godini za prethodnu godinu, po isteku roka za zaprimanje i unos podataka u evidencije Ministarstva financija, Porezne uprave.
+(5) Agencija preuzima iz Registra godišnjih financijskih izvještaja popis pravnih i fizičkih osoba obveznika poreza na dobit i podatke potrebne za obavljanje poslova obračuna i naplate naknade iz stavka 1. ovoga članka.

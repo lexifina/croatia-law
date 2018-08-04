@@ -1,0 +1,10 @@
+## Izrada i donošenje prostornih planova
+# Članak 40.
+(1) U šumi i na šumskom zemljištu može se graditi samo šumska infrastruktura, lovnogospodarski i lovnotehnički objekti, građevine za potrebe obrane i nadzora državne granice, spomenici kojima se obilježavaju mjesta masovnih grobnica žrtava rata i mjesta stradavanja te građevine koje su planirane prostornim planovima.
+(2) Prostornim planovima može se u šumi i na šumskom zemljištu planirati izgradnja građevina samo ako to iz tehničkih i ekonomskih uvjeta nije moguće planirati izvan šume i šumskog zemljišta.
+(3) U sastojinama I. i II. dobnog razreda, sastojinama koje su u fazi oplodnih sječa, šumskim sjemenskim objektima i šumama namijenjenim za znanstvena istraživanja i nastavu ne može se prostornim planovima planirati izgradnja kampova, igrališta za golf i drugih sportsko-rekreacijskih područja.
+(4) Na poziv nositelja izrade javni šumoposjednik daje zahtjeve u postupku izrade prostornih planova.
+(5) U postupku donošenja Državnog plana prostornog razvoja, prostornog plana županije odnosno prostornog plana Grada Zagreba, prostornih planova posebnih obilježja, prostornog plana uređenja grada odnosno općine, koji se odnose na šume i šumska zemljišta, Ministarstvo daje mišljenje.
+(6) Javni šumoposjednik, Ustanova, Pravna osoba i Javna ustanova, u okviru svoje nadležnosti, dostavljaju očitovanje Ministarstvu na prostorne planove za potrebe davanja mišljenja iz stavka 5. ovoga članka.
+(7) U svrhu izdavanja lokacijske dozvole i izrade glavnog projekta kada se ne izdaje lokacijska dozvola sukladno posebnom propisu, posebne uvjete za izgradnju građevina iz stavka 1. ovoga članka i izgradnju objekata u pojasu do 50 m od ruba šume za šume i šumska zemljišta u vlasništvu Republike Hrvatske utvrđuje javni šumoposjednik, Ustanova odnosno Pravna osoba, a za šume privatnih šumoposjednika Služba.
+(8) Šumoposjednici nisu dužni poduzimati posebne mjere zaštite niti se mogu smatrati odgovornima za bilo kakve štete za građevine izgrađene u pojasu do 50 m od ruba šume.

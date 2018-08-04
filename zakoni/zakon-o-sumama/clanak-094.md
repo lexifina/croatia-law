@@ -1,0 +1,9 @@
+## Oduzimanje predmeta
+# Članak 94.
+(1) Predmeti i sredstva koji su bili namijenjeni ili uporabljeni za počinjenje prekršaja iz članka 81. stavka 1. točke 5., članka 82. stavka 1. točaka 1., 3. i 4., članka 84. stavka 1. točke 5., članka 85. stavka 1. točaka 1., 3. i 4., članka 87. stavka 1. točke 3., članka 88. stavka 1. točaka 1., 3. i 4., članka 90. stavka 1. točaka 4., 6. i 9., članka 91. stavka 1. točaka 2., 3. i 6., članka 92. stavka 1. točaka 1., 2. i 5. ovoga Zakona, ili su nastali njegovim počinjenjem, oduzet će se.
+(2) Javni šumoposjednik dužan je osigurati pohranu i čuvanje privremeno oduzetih predmeta i sredstava koji su bili namijenjeni ili uporabljeni za počinjenje prekršaja ili su nastali njegovim počinjenjem.
+(3) Predmeti iz stavka 1. ovoga članka oduzet će se i ako nisu u vlasništvu počinitelja prekršaja.
+(4) Predmeti iz stavka 1. ovoga članka, za koje javni šumoposjednik ocijeni da su lako pokvarljivi ili se mogu sačuvati samo uz nerazmjerno visoke troškove odnosno protekom vremena gube znatno na vrijednosti, nakon isteka roka od 30 dana od oduzimanja javni šumoposjednik odredit će njihovu prodaju na dražbi. Od prihoda prodaje javni šumoposjednik naplaćuje svoje troškove pohrane, čuvanja i organizacije prodaje.
+(5) Iznimno od odredbe stavka 4. ovoga članka, predmeti iz stavka 1. ovoga članka za koje javni šumospojednik ocijeni da su lako pokvarljivi i ne mogu se čuvati do isteka roka iz stavka 4. ovoga članka, javni šumoposjednik može odrediti njihovu prodaju odmah i neposredno ili na dražbi u roku po vlastitoj ocjeni.
+(6) Sredstva dobivena prodajom sukladno stavcima 4. i 5. ovoga članka, nakon naplate troškova pohrane, čuvanja i organizacije prodaje, javni šumoposjednik stavlja na poseban račun te će se o njima odlučiti rješenjem o prekršaju.
+(7) Primjena odredbi ovoga članka ne utječe na prava trećih osoba za naknadu štete od počinitelja prekršaja.

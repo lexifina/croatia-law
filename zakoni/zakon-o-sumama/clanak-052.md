@@ -1,0 +1,10 @@
+## Izdvajanje šumskog zemljišta u svrhu poljoprivredne uporabe i uključivanje zemljišta u šumskogospodarsko područje
+# Članak 52.
+(1) Pojedino šumsko zemljište u vlasništvu Republike Hrvatske koje je po načinu uporabe u katastru opisano kao: oranica, vrt, livada, pašnjak, voćnjak, maslinik, vinograd, trstik i močvara, Ministarstvo može rješenjem izdvojiti iz šumskogospodarskog područja.
+(2) Rješenje iz stavka 1. ovoga članka donosi se na temelju mišljenja povjerenstva koje imenuje ministar, sastavljenog od stručnjaka šumarske i agronomske struke, nakon izvršenog očevida, procjene troškova privođenja poljoprivrednoj proizvodnji te propisa šumskogospodarskog plana, kao i ostale dokumentacije u vezi sa zemljištem o kojem se odlučuje.
+(3) Pojedino zemljište u vlasništvu Republike Hrvatske koje je po načinu uporabe u katastru opisano kao: oranica, vrt, livada, pašnjak, voćnjak, maslinik, vinograd, trstik i močvara, a koje neće biti privedeno poljoprivrednoj proizvodnji, te sada nije dio šumskogospodarskog područja, može se uključiti u šumskogospodarsko područje sukladno ovome Zakonu.
+(4) Za zemljište iz stavka 3. ovoga članka koje se uključuje u šumskogospodarsko područje potrebno je pribaviti suglasnost središnjeg tijela državne uprave nadležnog za poljoprivredno zemljište.
+(5) Pojedino zemljište u privatnom vlasništvu koje je uvršteno u šumskogospodarski plan, a koje je po načinu uporabe u katastru opisano kao: oranica, vrt, livada, pašnjak, voćnjak, maslinik, vinograd, trstik i močvara, Ministarstvo može rješenjem izdvojiti iz šumskogospodarskog područja radi privođenja poljoprivrednoj vrsti uporabe.
+(6) Osoba na čiji zahtjev se zemljište iz stavka 5. ovoga članka izdvoji iz šumskogospodarskog područja obvezna je zemljište privesti jednoj od poljoprivrednih vrsta uporabe u katastru u roku od dvije godine.
+(7) Zemljište iz stavka 3. ovoga članka, za koje je pribavljena suglasnost iz stavka 4. ovoga članka, uključuje se u šumskogospodarsko područje u postupku odobravanja šumskogospodarskih planova sukladno članku 29. ovoga Zakona.
+(8) Protiv rješenja iz stavaka 1. i 5. ovoga članka nije dopuštena žalba, ali se može pokrenuti upravni spor.

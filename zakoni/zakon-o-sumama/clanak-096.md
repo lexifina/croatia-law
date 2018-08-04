@@ -1,0 +1,4 @@
+## Donošenje provedbenih propisa
+# Članak 96.
+(1) Vlada će u roku od 12 mjeseci od dana stupanja na snagu ovoga Zakona donijeti uredbe čije je donošenje propisano člankom 53. stavkom 3., člankom 55. stavkom 3., člankom 58. stavkom 3. i člankom 59. stavkom 8. ovoga Zakona.
+(2) Ministar će u roku od 12 mjeseci od dana stupanja na snagu ovoga Zakona donijeti pravilnike čije je donošenje propisano člankom 13. stavkom 4., člankom 15. stavkom 7., člankom 23. stavkom 3., člankom 26. stavkom 9., člankom 28. stavkom 14., člankom 36. stavkom 6., člankom 37. stavkom 7., člankom 42. stavkom 2., člankom 43. stavkom 4., člankom 44. stavkom 8., člankom 47. stavkom 7., člankom 50. stavkom 4., člankom 61. stavkom 9., člankom 63. stavkom 3., člankom 67. stavkom 6., člankom 68. stavkom 3., člankom 69. stavkom 5., člankom 74. stavkom 4. te člankom 75. stavkom 2. ovoga Zakona.
