@@ -1,0 +1,4 @@
+# Članak 6.
+(1) Naknada iz članka 3. stavka 1. točke 1. ovoga Pravilnika određuje se prema cjeniku Agencije, a ovisi o visini glavnice duga iz osnove za plaćanje za koju se traži ovrha na novčanim sredstvima.
+(2) Ako je zatražena provedba ovrhe po osnovi za plaćanje samo u odnosu na kamate, ovrhovoditelj je dužan predujmiti naknadu iz članka 3. stavak 1. točka 1. ovoga Pravilnika koja je određena za visinu glavnice koja odgovara iznosu obračunatih dospjelih kamata za koje se traži provedba ovrhe na novčanim sredstvima.
+(3) Ako je zatražena provedba ovrhe po osnovi za plaćanje koja sadrži samo tražbinu s osnove troškova, ovrhovoditelj je dužan predujmiti naknadu iz članka 3. stavak 1. točka 1. ovoga Pravilnika koja je određena za visinu glavnice koja odgovara iznosu troška za koji je zatražena naplata.
