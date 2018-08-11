@@ -1,0 +1,15 @@
+# Članak 19.
+Promjene u operacijama u okviru provedbe LRSR
+(1) Promjene u operacijama u okviru provedbe LRSR podrazumijevaju promjenu podataka koji se odnose na podneseni Zahtjev za potporu, a uključuju:
+a) promjenu podataka o korisniku (npr. promjene njegova naziva, osobe ovlaštene za zastupanje, adrese sjedišta, imena banke i/ili broja žiro-računa banke/IBAN, model i/ili poziv na broj primatelja na koji će mu biti isplaćena sredstva);
+b) promjenu podataka koji su temelj za provjeru udovoljavanja uvjetima i kriterijima prihvatljivosti sukladno ovom Pravilniku i/ili dokumentu kojim FLAG utvrđuje uvjete, kriterije i način dodjele potpore;
+c) ostale promjene u operaciji bez kojih se operacija ne može provesti ili koje imaju utjecaj na poboljšanje operacije, koje su nastale do podnošenja Zahtjeva za isplatu
+(2) U slučaju promjena iz stavka 1. točke a) ovoga članka, korisnik je dužan od dana podnošenja Zahtjeva za potporu do isteka razdoblja od pet godina od zadnje primljene uplate financijskih sredstava na temelju ovoga Pravilnika podnijeti Zahtjev za odobrenje promjena u roku od 15 radnih dana od njihova nastanka.
+(3) U slučaju promjena iz stavka 1. točke b) ovoga članka, korisnik je dužan od dana stupanja na snagu Odluke o dodjeli sredstava do isteka razdoblja od pet godina od zadnje primljene uplate financijskih sredstava na temelju ovoga Pravilnika podnijeti Zahtjev za odobrenje promjena u roku od 15 radnih dana od njihova nastanka.
+(4) U slučaju promjena iz stavka 1. točke c) ovoga članka, korisnik je dužan od dana stupanja na snagu na snagu Odluke o dodjeli sredstava do isteka razdoblja od pet godina od zadnje primljene uplate financijskih sredstava temeljem ovoga Pravilnika podnijeti Zahtjev za odobrenje promjena u roku od 15 radnih dana od njihova nastanka, ali ne kasnije od podnošenja Zahtjeva za isplatu.
+(5) Uz Zahtjev za odobrenje promjena iz stavaka 2., 3. i 4. ovoga članka, korisnik je dužan priložiti odgovarajuću dokumentaciju kojom se predmetna promjena potkrepljuje.
+(6) Upravljačko tijelo će za zaprimljene Zahtjeve za odobrenje promjena iz stavaka 2., 3. i 4. ovoga članka provjeriti uvjete i kriterije prihvatljivosti sukladno ovom Pravilniku i dokumentu kojim FLAG definira uvjete, kriterije i način dodjele potpore za operacije u okviru LRSR-a te donijeti Odluku o odobrenju promjena ili Odluku o odbijanju promjena i po potrebi donijeti izmjenu Odluke o dodjeli sredstava.
+(7) Izmjenom Odluke o dodjeli sredstava iz stavka 6. ovoga članka ne može se dodijeliti iznos potpore veći od iznosa potpore koji je već određen Odlukom o dodjeli sredstava.
+(8) U slučaju promjena iniciranih od strane Upravljačkog tijela, Upravljačko tijelo će donijeti izmjenu Odluke o dodjeli sredstava.
+(9) Upravljačko tijelo obavještava korisnika i FLAG o odluci donesenoj u skladu sa stavkom 6. odnosno stavkom 8. ovoga članka.
+(10) Zahtjev za odobrenje promjena iz stavaka 2., 3. i 4 ovoga članka dostavlja se Upravljačkom tijelu preporučenom poštom s povratnicom na adresu Ministarstva poljoprivrede, Uprave ribarstva u Zagrebu, uz naznaku: »Zahtjev za odobrenje promjena u okviru provedbe LRSR«.
