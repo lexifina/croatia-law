@@ -1,0 +1,1 @@
+Na temelju članka 19. stavka 3. Zakona o Središnjem registru osiguranika (»Narodne novine«, broj 159/13 i 39/18) ministar rada i mirovinskoga sustava uz prethodnu suglasnost ministra nadležnog za financije donosi

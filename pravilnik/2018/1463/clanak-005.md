@@ -1,0 +1,4 @@
+# Članak 5.
+(1) Ako je podatak o obračunanim doprinosima za mirovinska osiguranja iz članka 2. ovoga Pravilnika po pojedinoj vrsti doprinosa za određenog obveznika plaćanja istovjetan uplaćenom iznosu doprinosa za obvezna mirovinska osiguranja, isti se evidentira kao povezan u cijelosti.
+(2) Ako je podatak o obračunanim doprinosima za mirovinska osiguranja iz članka 2. ovoga Pravilnika po pojedinoj vrsti doprinosa za određenog obveznika plaćanja veći od uplaćenog iznosa doprinosa za obvezna mirovinska osiguranja, isti se evidentira kao djelomično povezan.
+(3) Ako je podatak o obračunanim doprinosima za mirovinska osiguranja iz članka 2. ovoga Pravilnika po pojedinoj vrsti doprinosa za određenog obveznika plaćanja manji od uplaćenog iznosa doprinosa za obvezna mirovinska osiguranja za tu vrstu doprinosa,isti se evidentira kao povezan u cijelosti, a iznos uplate koji je veći od obračunanog iznosa evidentira se kao nepovezana uplata.
