@@ -1,0 +1,1 @@
+Na temelju članka 16. i članka 20. stavka 7. Zakona o boravišnoj pristojbi (»Narodne novine«, br. 152/08, 59/09 - ispravak i 30/14), Vlada Republike Hrvatske je na sjednici održanoj 2. kolovoza 2018. godine donijela
