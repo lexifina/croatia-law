@@ -1,0 +1,6 @@
+# Članak 7.
+(1) Ukoliko županija umjesto jedinica lokalne samouprave raspolaže poljoprivrednim zemljištem sukladno članku 49. stavku 2. Zakona o poljoprivrednom zemljištu (»Narodne novine«, broj 20/2018), tekst javnog natječaja za zakup poljoprivrednog zemljišta objavljuje se na oglasnoj ploči i mrežnoj stranici jedinice lokalne samouprave na čijem se području zemljište nalazi i mrežnoj stranici županije u trajanju od 30 dana.
+(2) Stručne poslove u svezi provedbe natječaja za zakup poljoprivrednog zemljišta iz stavka 1. ovoga članka obavlja upravni odjel županije nadležan za poljoprivredu.
+(3) Odluku o raspisivanju javnog natječaja za zakup poljoprivrednog zemljišta iz stavka 1. ovoga članka i Odluku o izboru najpovoljnijeg ponuditelja donosi pročelnik upravnog odjela županije nadležnog za poljoprivredu uz suglasnost Ministarstva poljoprivrede.
+(4) Na temelju odluke iz stavka 3. ovoga članka pročelnik i najpovoljniji ponuditelj sklapaju ugovor o zakupu poljoprivrednog zemljišta
+(5) Na osnovi sklopljenog ugovora o zakupu iz stavka 4. ovoga članka zakupnika uvodi u posjed Povjerenstvo za uvođenje u posjed kojeg imenuje pročelnik upravnog odjela županije nadležnog za poljoprivredu sukladno članku 39. stavak 2. Zakona o poljoprivrednom zemljištu.
