@@ -1,0 +1,6 @@
+# Članak 15.
+(1) Prilikom postupanja u psihološkim kriznim intervencijama voditelj smjene OKCP-a informaciju o događaju upućuje voditelju nadležnog nositelja provedbe psihosocijalne zaštite, koji nakon saznanja o događaju organiziraju primjeren način pružanja podrške.
+(2) Voditelj nadležnog nositelja provedbe psihosocijalne zaštite odmah uspostavlja kontakt s neposrednim rukovoditeljem na mjestu intervencije koji je uključen u samu intervenciju.
+(3) Po saznanjima o događaju i definiranju načina postupanja, prema potrebi se provodi integrirana psihosocijalna podrška, pri kojoj se uz psihologa i socijalnog radnika, uključuje i osoba nadležna za poslove dušobrižništva. O provođenju postupka integrirane psihosocijalne podrške voditelj nadležnog nositelja provedbe psihosocijalne zaštite informira osobu nadležnu za poslove dušobrižništva.
+(4) O provedenim postupcima iz stavka 1. ovoga članka voditelj nadležnog nositelja provedbe psihosocijalne zaštite podnosi pisano izvješće, s preporukom za daljnje postupanje i dostavlja ga nadležnom rukovoditelju.
+(5) Članovi nadležnog nositelja provedbe psihosocijalne zaštite mogu pratiti profesionalno funkcioniranje zaposlenika Ministarstva nakon povratka na posao te ga uključiti u postupke iz članka 10. i 11. ovog Pravilnika.

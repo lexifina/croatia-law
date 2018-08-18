@@ -1,0 +1,3 @@
+# Članak 12.
+(1) Kada je postupak psihosocijalne zaštite pokrenut na zahtjev nadležnog rukovoditelja ili voditelja nadležne službe OKCP-a, nositelj provedbe psihosocijalne zaštite će pisanim putem izvijestiti podnositelja zahtjeva o poduzetim mjerama iz svoje nadležnosti te će prema potrebi predložiti daljnje postupanje.
+(2) Kada je postupak psihosocijalne zaštite pokrenut na zahtjev zaposlenika Ministarstva, nositelj provedbe psihosocijalne zaštite nije dužan podnijeti izvješće o poduzetim mjerama iz stavka 1. ovog članka, osim ako kod zaposlenika Ministarstva utvrdi značajne promjene koje mogu štetiti obavljanju posla odnosno daljnjem osobnom psihosocijalnom funkcioniranju zaposlenika.
