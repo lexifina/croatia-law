@@ -1,0 +1,1 @@
+Na temelju članka 99. stavka 3. i stavka 6. i članka 104. stavka 3. Zakona o platnom prometu (»Narodne novine«, br. 66/2018.), i članka 43. stavka 2. točke 9. Zakona o Hrvatskoj narodnoj banci (»Narodne novine«, br. 75/2008. i 54/2013.) guverner Hrvatske narodne banke donosi
