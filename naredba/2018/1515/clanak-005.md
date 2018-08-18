@@ -1,0 +1,5 @@
+# Članak 5.
+Radi sprječavanja širenja i suzbijanja sredozemne voćne muhe na području od posebnog gospodarskog značaja, posjednici biljaka domaćina sredozemne voćne muhe upisani u Fitoupisnik koji obavljaju djelatnost proizvodnje, otkupa, pakiranja ili skladištenja s namjerom distribucije plodova agruma, obvezni su:
+- provoditi higijenske mjere prikupljanja i zbrinjavanja svih otpalih plodova s tla, odnosno provoditi mjere prikupljanja zaraženih, oštećenih, trulih i odbačenih plodova s biljaka domaćina sredozemne voćne muhe na svim mjestima proizvodnje, otkupa, pakiranja ili skladištenja te njihovog zbrinjavanja na učinkovit način sukladno članku 4. stavku 1. podstavku 3. ove Naredbe
+- provoditi mjere propisane ovom Naredbom na svim mjestima proizvodnje, otkupa, pakiranja ili skladištenja te na svim mjestima zbrinjavanja zaraženih, oštećenih, trulih i odbačenih plodova te
+- obavijestiti pisanim putem nadležnog fitosanitarnog inspektora o mjestima (broj katastarske čestice/adresa) na kojima će se provoditi mjere propisane ovom Naredbom.
