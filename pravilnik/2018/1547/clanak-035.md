@@ -1,0 +1,2 @@
+# Članak 35.
+Ustanove za profesionalnu rehabilitaciju, zaštitne radionice i radne jedinice koje su ostvarile status sukladno članku 34. Pravilnika o zaštitnim radionicama i integrativnim radionicama za zapošljavanje osoba s invaliditetom (»Narodne novine«, broj 44/14 i 02/15) dužne su, radi zadržavanja ostvarenog statusa, najkasnije do 31. 12. 2018. godine ispuniti uvjete iz članka 11., odnosno članka 24. ovoga Pravilnika.

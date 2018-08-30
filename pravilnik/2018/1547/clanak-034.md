@@ -1,0 +1,4 @@
+## V. PRIJELAZNE I ZAVRŠNE ODREDBE
+# Članak 34.
+(1) Ustanovama za profesionalnu rehabilitaciju, zaštitnim radionicama i radnim jedinicama koje su osnovane sukladno Zakonu o profesionalnoj rehabilitaciji i zapošljavanju osoba s invaliditetom (»Narodne novine«, broj 143/02 i 33/05), priznaju se kao zaštitna radna mjesta u zaštitnoj radionici ona radna mjesta na kojima su zaposlene osobe s invaliditetom na dan 31. prosinca 2014. godine i za koje osobe te ustanove, zaštitne radionice i radne jedinice ostvaruju redovne poticaje Zavoda.
+(2) U slučaju upražnjenja radnog mjesta iskazanog u popisu iz članka 33. stavka 2. Pravilnika o zaštitnim radionicama i integrativnim radionicama za zapošljavanje osoba s invaliditetom (»Narodne novine«, broj 44/14 i 02/15), to radno mjesto gubi status zaštitnog radnog mjesta.

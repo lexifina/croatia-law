@@ -1,0 +1,2 @@
+# Članak 27.
+Integrativne radionice koje su osnovane kao trgovačko društvo dužne su najmanje 75% ostvarenog dobitka postignutog obavljanjem djelatnosti namijeniti za povećanje osnovnog kapitala društva ili ga koristiti za investicije u osnovna sredstva koja su povezana s radom osobe s invaliditetom, poboljšanje radnih uvjeta za zaposlene osobe s invaliditetom, obrazovanje i osposobljavanje zaposlenih te druge razvojne namjene koje osiguravaju veću zapošljivost osoba s invaliditetom.
