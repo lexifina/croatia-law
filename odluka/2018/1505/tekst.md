@@ -1,0 +1,2 @@
+Dr. sc. IVANA ZEREC postavlja se za generalnu konzulicu Republike Hrvatske u Republici Turskoj, sa sjedištem u Istanbulu i konzularnim ovlastima nad konzularnim područjem koje obuhvaća teritorij regija Edirne, Kirklareli, Tekirdag, Istanbul, Yalova, Kocaeli, Sakarya, Duzce, Canakkale, Balikesir, Antalya, Bursa, Bilecik, Kutahya, Manisa, Izmir, Usak, Aydin, Denizli, Mugla i Burdur.
+Ova Odluka stupa na snagu 1. rujna 2018. godine.
