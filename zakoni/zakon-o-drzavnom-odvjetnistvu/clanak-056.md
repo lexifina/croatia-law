@@ -1,0 +1,7 @@
+# Članak 56.
+(1) Godišnju listu istražitelja kojima se u prethodnom postupku može povjeravati provođenje dokaznih radnji određuje županijski državni odvjetnik te državni odvjetnik posebnog državnog odvjetništva za područje nadležnosti tog državnog odvjetništva.
+(2) Prije sastavljanja godišnje liste istražitelja županijski državni odvjetnik te državni odvjetnik posebnog državnog odvjetništva zatražit će od čelnika policije i drugih državnih tijela dostavljanje popisa istražitelja koji su imenovani za obavljanje tih poslova u skladu s posebnim zakonom.
+(3) Državno odvjetništvo Republike Hrvatske dostavlja godišnje liste istražitelja iz stavka 1. ovoga članka županijskim državnim odvjetnicima, državnom odvjetniku posebnog državnog odvjetništva te predsjednicima županijskih sudova.
+(4) Na godišnju listu istražitelja određuju se osobe koje s obzirom na predmete istraživanja i posebne propise koji se primjenjuju imaju odgovarajuće iskustvo i sposobnosti za istraživanje kaznenih djela u svezi kojih se dokazne radnje provode, kao i za suradnju s drugim državnim tijelima koja sudjeluju u provođenju prethodnog postupka.
+(5) Godišnja lista sastavlja se tako da se u njoj određuju istražitelji za postupanje na području određenog županijskog državnog odvjetništva ili posebnog državnog odvjetništva, uz naznaku vrste dokaznih radnji i kaznenih djela za koje je pojedini istražitelj osposobljen.
+3. Dužnosti i ovlasti državnih odvjetnika i zamjenika državnih odvjetnika

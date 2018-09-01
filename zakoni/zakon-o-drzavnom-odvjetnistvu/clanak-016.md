@@ -1,0 +1,6 @@
+## Praćenje europskih propisa i sudske prakse Suda Europske unije i Europskog suda za ljudska prava
+# Članak 16.
+(1) U Državnom odvjetništvu Republike Hrvatske i u županijskim državnim odvjetništvima određuju se osobe za praćenje europskih propisa i sudske prakse Suda Europske unije i Europskog suda za ljudska prava.
+(2) Osobe iz stavka 1. ovoga članka pružaju pomoć u pravilnoj primjeni propisa i sudske prakse Suda Europske unije i Europskog suda za ljudska prava, državnom odvjetniku i zamjenicima državnog odvjetnika u državnom odvjetništvu, kao i državnim odvjetnicima i zamjenicima državnih odvjetnika neposredno nižih državnih odvjetništava.
+(3) Voditelj Odsjeka za međunarodnu pravnu pomoć i suradnju u Državnom odvjetništvu Republike Hrvatske jednom godišnje organizira sastanak svih osoba iz stavka 1. ovoga članka radi razmatranja aktualnih pitanja u vezi s pružanjem pomoći u pravilnoj primjeni propisa i sudske prakse Suda Europske unije i Europskog suda za ljudska prava i unapređenja njihova rada.
+(4) Osobe iz stavka 1. ovoga članka pružaju podršku Pravosudnoj akademiji u provedbi stručnog usavršavanja za pravilnu primjenu propisa i sudske prakse Suda Europske unije i Europskog suda za ljudska prava.

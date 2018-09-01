@@ -1,0 +1,4 @@
+# Članak 32.
+(1) Pred trgovačkim sudom koji je mjesno nadležan za područje za koje su mjesno nadležna dva ili više županijskih državnih odvjetništava postupat će županijsko državno odvjetništvo prema registriranom sjedištu pravne osobe odnosno registriranom sjedištu ili prebivalištu trgovca pojedinca ili obrtnika koji je stranka u postupku odnosno nad kojim se provodi postupak stečaja ili likvidacije.
+(2) Kad u postupku sudjeluje više stranaka iz stavka 1. ovoga članka s područja mjesne nadležnosti više županijskih državnih odvjetništava te strana pravna ili fizička osoba, postupat će županijsko državno odvjetništvo na čijem se području nalazi sjedište trgovačkog suda koji vodi postupak.
+(3) Županijsko državno odvjetništvo koje je započelo zastupanje u postupku pred trgovačkim sudom nastavit će zastupanje do kraja postupka i ako se promijene okolnosti iz stavaka 1. i 2. ovoga članka po kojima je bila određena njegova nadležnost.

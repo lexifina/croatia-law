@@ -1,0 +1,2 @@
+# Članak 6.
+Zabranjen je svaki oblik utjecaja, a posebno svaki oblik prisile prema državnim odvjetnicima i zamjenicima državnih odvjetnika, zlouporaba javnih ovlasti i osobnog utjecaja te korištenje medija i javnih istupanja u predmetima kaznenih djela koja se progone po službenoj dužnosti i u predmetima u kojima državni odvjetnik odnosno zamjenik državnog odvjetnika izvršava svoje ovlasti i dužnosti u zaštiti imovine Republike Hrvatske.

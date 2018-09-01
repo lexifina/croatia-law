@@ -1,0 +1,4 @@
+# Članak 126.
+(1) Državno odvjetništvo može imati službenike sa završenim preddiplomskim i diplomskim sveučilišnim studijem ili integriranim preddiplomskim i diplomskim sveučilišnim studijem ili specijalističkim diplomskim stručnim studijem kriminalističkog, defektološkog, psihološkog, pedagoškog, ekonomskog, knjigovodstveno-financijskog smjera, socijalnog rada i drugog odgovarajućeg smjera i propisanim radnim iskustvom.
+(2) Stručni suradnici iz stavka 1. ovoga članka kao stručni pomoćnici pomažu državnom odvjetniku ili zamjeniku državnog odvjetnika u radu u stvarima u kojima su potrebna posebna stručna znanja, a mogu i samostalno obavljati poslove kad je to određeno zakonom ili drugim propisom.
+(3) Stručni suradnici koji ispunjavaju uvjete propisane posebnim propisom mogu biti određeni za financijske istražitelje.

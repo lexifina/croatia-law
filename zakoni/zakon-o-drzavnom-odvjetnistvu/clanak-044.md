@@ -1,0 +1,4 @@
+# Članak 44.
+(1) U postupcima pred stranim sudovima, međunarodnim i drugim tijelima u kojima Republiku Hrvatsku zastupa odvjetnik uz sudjelovanje Državnog odvjetništva Republike Hrvatske ili u kojima Državno odvjetništvo Republike Hrvatske samostalno zastupa Republiku Hrvatsku, Državno odvjetništvo Republike Hrvatske prikuplja od nadležnih državnih tijela i drugih osoba dokumentaciju i dokaze potrebne za vođenje postupka te koordinira rad tih tijela.
+(2) Državno odvjetništvo Republike Hrvatske u postupcima u kojima odvjetnik zastupa Republiku Hrvatsku daje upute za zastupanje odvjetniku i pruža mu stručnu pravnu pomoć.
+(3) Državna tijela i pravne osobe dužni su dostaviti Državnom odvjetništvu Republike Hrvatske svu dokumentaciju kojom raspolažu, izvijestiti ga o svim saznanjima o predmetu i bez odgode i u najkraćem roku pružiti stručnu pomoć.

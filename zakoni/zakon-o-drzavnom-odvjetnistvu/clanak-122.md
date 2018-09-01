@@ -1,0 +1,8 @@
+# Članak 122.
+(1) Broj službenika i namještenika za obavljanje stručnih uredskih i tehničkih poslova utvrđuje ministar nadležan za poslove pravosuđa u skladu s mjerilima za određivanje broja službenika i namještenika u državnom odvjetništvu.
+(2) Zasnivanje i prestanak radnog odnosa službenika i namještenika, obavljanje vježbeničke prakse, postupak i način te program polaganja državnog stručnog ispita, plaće i ostala prava, obveze i odgovornosti iz rada te odgovornost za povrede službene dužnosti uređuju se propisima koji se primjenjuju na državne službenike i namještenike.
+(3) U postupku prijma službenika i namještenika u državna odvjetništva za najboljeg kandidata državno odvjetništvo nadležnoj sigurnosno-obavještajnoj agenciji podnosi zahtjev za provedbu temeljne sigurnosne provjere. Na temelju izvješća o rezultatu sigurnosne provjere nadležne sigurnosno-obavještajne agencije, državno odvjetništvo kao podnositelj zahtjeva donosi konačnu ocjenu o postojanju sigurnosnih zapreka. Sigurnosna provjera provodi se sukladno zakonu kojim se uređuje provođenje sigurnosnih provjera.
+(4) Državnom službeniku ili namješteniku prestaje državna služba odnosno ugovor o radu u državnom odvjetništvu po sili zakona ako se u tijeku obavljanja službe ili rada utvrdi da postoje sigurnosne zapreke koje su takve naravi da predstavljaju zapreku za prijam sukladno stavku 3. ovoga članka.
+(5) Radna mjesta u državnim odvjetništvima mogu se popunjavati samo uz odobrenje ministarstva nadležnog za poslove pravosuđa.
+(6) Ministar nadležan za poslove pravosuđa pravilnikom propisuje potreban stupanj obrazovanja službenika i namještenika u državnim odvjetništvima.
+2. Ravnatelj državnoodvjetničke uprave
