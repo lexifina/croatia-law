@@ -1,0 +1,5 @@
+# Članak 11.
+(1) Prilikom izdavanja izvoda, prijepisa, potvrda i preslika iz dokumentacije državne izmjere i katastra nekretnina, po pojedinačnim zahtjevima javnopravnih tijela u odnosu na podatke koje javnopravna tijela koriste u svrhu poduzimanja određene upravne radnje, stvarni troškovi uporabe podataka dokumentacije državne izmjere i katastra nekretnina se ne naplaćuju.
+(2) Prilikom izdavanja izvoda, prijepisa, potvrda i preslika iz dokumentacije državne izmjere i katastra nekretnina po pojedinačnim zahtjevima tijela državne uprave i drugih državnih tijela u odnosu na podatke koje ta tijela koriste u postupcima iz svoje nadležnosti, stvarni troškovi se ne naplaćuju.
+(3) Prilikom izdavanja izvoda, prijepisa, potvrda i preslika iz dokumentacije katastra nekretnina, registra prostornih jedinica i katastra infrastrukture po zahtjevima upravnih tijela Grada Zagreba u odnosu na podatke koje ta tijela koriste u postupcima iz svoje nadležnosti, stvarni troškovi se ne naplaćuju.
+(4) Stvarni troškovi uporabe podataka dokumentacije državne izmjere i katastra nekretnina se ne naplaćuju od javnopravnih tijela i kada je to propisano posebnim zakonom.

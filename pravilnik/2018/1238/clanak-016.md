@@ -1,0 +1,5 @@
+# Članak 16.
+(1) Prilikom preuzimanja podataka državne izmjere i katastra nekretnina iz članka 5. stavka 1. točke 2., 3. i 4. ovoga Pravilnika korisnik potpisuje izjavu kojom se obvezuje da će preuzete podatke upotrebljavati isključivo u navedenu svrhu.
+(2) Obrazac izjave iz stavka 1. ovoga članka (Prilog 6.) sastavni je dio ovoga Pravilnika i potpisuje ga isključivo odgovorna osoba pravne ili fizičke osobe korisnika. Obrazac izjave je sastavni dio zahtjeva za izdavanje podataka.
+(3) Prilikom izdavanja korisničkog imena i lozinke, odgovorna osoba fizičke ili pravne osobe kojoj je rješenjem Državne geodetske uprave izdana suglasnost za obavljanje stručnih geodetskih poslova potpisuju izjavu kojom se obvezuje da će preuzete podatke upotrebljavati isključivo za potrebe održavanja katastra nekretnina, katastra zemljišta i katastra infrastrukture. Obrazac izjave nalazi se u Prilogu 8. i sastavni je dio ovoga Pravilnika.
+(4) Prilikom isporuke podataka Državna geodetska uprava dostavlja korisniku potrebne metapodatke o izdanom proizvodu kojima raspolaže.
