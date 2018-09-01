@@ -1,0 +1,10 @@
+# Članak 23.
+U članku 55.a stavci 1. do 8. mijenjaju se i glase:
+»(1) Kada pravosudni dužnosnik podnosi prijavu na oglas o slobodnom mjestu suca Vrhovnog suda Republike Hrvatske, Vijeće će od nadležnog sudačkog vijeća odnosno državnog odvjetnika zatražiti ocjenu obnašanja dužnosti.
+(2) Kandidati za suca Vrhovnog suda Republike Hrvatske koji su podnijeli prijave na oglas, a nisu pravosudni dužnosnici pristupaju provjeri znanja pred Vijećem koja se sastoji od izrade jedne ili više pisanih radnji.
+(3) Ocjenom obnašanja dužnosti odnosno pisanom provjerom znanja može se ostvariti najviše 150 bodova.
+(4) Na temelju ukupnog broja bodova utvrđenog ocjenom obnašanja dužnosti odnosno rezultata pisane provjere znanja Vijeće utvrđuje redoslijed kandidata koji se objavljuje na internetskim stranicama Vijeća.
+(5) Vijeće će na razgovor pozvati kandidate koji su prema utvrđenom redoslijedu ostvarili više od 130 bodova, a iznimno i manje ako je broj kandidata s najmanje 130 bodova manji od broja sudaca koji se imenuju.
+(6) Na razgovoru iz stavka 5. ovoga Zakona kandidatima se postavljaju pitanja koja se odnose na njihov dosadašnji rad i aktivnosti, a na temelju kojih se može utvrditi njihov osjećaj za pravdu, sposobnost primjerenog i odgovornog obnašanja dužnosti te njihova motiviranost za obnašanje dužnosti. Kandidat na razgovoru može ostvariti najviše 15 bodova. Bodovi se dodjeljuju neposredno nakon razgovora sa svakim pojedinim kandidatom.
+(7) Zbrajanjem broja bodova ostvarenog ocjenom obnašanja dužnosti odnosno na pisanoj provjeri znanja i na razgovoru Vijeće utvrđuje redoslijed kandidata i objavljuje ga na svojim internetskim stranicama. Vijeće će imenovati suce između najviše 10 kandidata koji su ostvarili najveći broj bodova, s tim da razlika između izabranog kandidata i kandidata s najvećim brojem bodova ne smije biti veća od deset bodova.
+(8) Vijeće donosi Pravila o načinu provođenja i ocjenjivanju pisanih radnji iz stavka 2. ovoga članka te načinu provođenja i ocjenjivanja razgovora iz stavka 6. ovoga članka.«.
