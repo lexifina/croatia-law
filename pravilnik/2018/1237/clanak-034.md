@@ -1,0 +1,3 @@
+# Članak 34.
+(1) Na području katastarskih općina za koje se vodi katastar zemljišta, a za koje se zemljišne knjige vode prema podacima katastarskog plana koji više nije službeni dio katastarskog operata, geodetskim elaboratom za ispravljanje katastarske izmjere može se predložiti evidentiranje u katastarskome operatu onih katastarskih čestica koje su evidentirane samo u zemljišnoj knjizi pod uvjetom da te čestice stvarno postoje na terenu.
+(2) Geodetski elaborat iz stavka 1. ovoga članka izrađuje se i u katastarskim općinama za koje je donijeta Odluka iz članka 7. stavka 2. ovoga Pravilnika, na način da se geodetskim elaboratom predlaže osnivanje katastarskih čestica katastra nekretnina.

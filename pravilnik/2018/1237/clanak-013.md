@@ -1,0 +1,3 @@
+# Članak 13.
+(1) U elaboratima kojima osnovna svrha nije evidentiranje, brisanje ili promjena podataka o zgradama i drugim građevinama, iskazuju se i podaci o neevidentiranim i promijenjenim zgradama i drugim građevinama koje postoje na katastarskim česticama koje su predmet izrade elaborata prema novom stanju.
+(2) Na elaborate iz članka 12. ovoga Pravilnika i stavka 1. ovoga članka za zgrade i građevine primjenjuju se odredbe članaka 38. i 39. Zakona, osim u dijelu koji propisuju evidentiranje zgrada na posebnom sloju i obavještavanje građevinske inspekcije za one zgrade i druge građevine za koje nije priložen odgovarajući akt koji se izdaje na temelju propisa koji uređuju prostorno uređenje i gradnju.

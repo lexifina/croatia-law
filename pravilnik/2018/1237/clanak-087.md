@@ -1,0 +1,4 @@
+# Članak 87.
+(1) Prethodno potvrđeni elaborati, koji nisu provedeni u katastarskom operatu, za koje je prilikom pregledavanja i potvrđivanja novoga elaborata utvrđeno da se neće provoditi, poništit će se. O poništenom elaboratu obavještava se osoba koja je izradila elaborat i investitor.
+(2) Mogu se poništiti i oni prethodno potvrđeni elaborati za koje se u roku od 18 mjeseci od njihovog potvrđivanja ne steknu uvjeti za njihovu provedbu. O poništenom elaboratu obavještava se osoba koja je izradila elaborat i investitor.
+(3) Ukoliko se u postupku pregledavanja i potvrđivanja elaborata utvrdi da neki prethodno potvrđeni i neprovedeni elaborat treba provesti nakon provedbe elaborata koji se pregledava i potvrđuje, prethodno potvrđeni elaborat će ispravit ovlaštena osoba ili službenik katastarskog ureda koji je izradio elaborat u svrhu omogućavanja njegove provedbe.

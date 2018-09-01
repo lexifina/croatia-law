@@ -1,0 +1,11 @@
+## Geodetski elaborat za evidentiranje izvedenog stanja ceste
+# Članak 37.
+(1) Geodetski elaborat za evidentiranje izvedenog stanja ceste može se izrađivati za sve potrebe navedene u članku 7. stavku 1. ovoga Pravilnika.
+(2) Geodetski elaborat za evidentiranje izvedenog stanja ceste izrađuje se na temelju ogovarajuće odluke o razvrstavanju ceste koja je obavezni sadržaj istog, kao i očitovanja upravitelja javne ceste odnosno nositelja prava na nerazvrstanoj cesti.
+(3) Očitovanje iz stavka 2. ovoga članka obavezno sadrži iskaz:
+- da je predmet geodetskog elaborata iz stavka 1. ovoga članka točno određena cesta
+- da geodetski elaborat iz stavka 1. ovoga članka odgovara izvedenom stanju ceste
+- da je predmetna cesta izgrađena odnosno rekonstruirana do stupanja na snagu propisa kojim je uređeno područje evidentiranja javnih i nerazvrstanih cesta.
+(4) Katastarske čestice koje su prije izrade elaborata graničile s katastarskom česticom koje su u katastarskom operatu evidentirane jednim od načina uporabe (ulica, trg, cesta, put, autocesta i sl.) a čiji dijelovi ne ulaze u sastav katastarske čestice na kojoj je izvedena cesta, te se od ostatka katastarske čestice koja je evidentirana u katastarskom operatu jednim od načina uporabe (ulica, trg, cesta, put, autocesta i sl.) neće formirati zasebna katastarska čestica, prikazuju se na način da i dalje graniče sa cestom i za njih se ne izračunava površina kada udovoljavaju površinskom kriteriju propisanom Zakonom.
+(5) Kada izračun preostale površine katastarske čestice čiji dijelovi ulaze u sastav katastarske čestice na kojoj je izvedena cesta udovoljava površinskom kriteriju, propisanom Zakonom, površina za te katastarske čestice ostaje nepromijenjena (površina upisana u posjedovnom listu) i te katastarske čestice ne iskazuju se u prijavnom listu,
+(6) Iznimno od propisanog stavkom 5. ovoga članka za katastarske čestice čije su koordinate lomnih točaka međa određene u koordinatnom sustavu Republike Hrvatske, a čiji dijelovi ulaze u sastav katastarske čestice na kojoj je izvedena cesta, površina preostalog dijela za te katastarske čestice se izračunava u odnosu na površinu upisanu u posjedovnom listu dopunom i te katastarske čestice iskazuju se u prijavnom listu.

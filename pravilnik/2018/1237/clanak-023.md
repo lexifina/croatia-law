@@ -1,0 +1,3 @@
+# Članak 23.
+(1) Geodetski elaborat iz članka 20. ovoga Pravilnika izrađuje se uz primjenu površinskih kriterija propisanih Zakonom, a koji se odnose na razlike u površini između katastarskih čestica katastra zemljišta i osnovanih čestica katastra nekretnina.
+(2) Površinski kriteriji iz stavka 1. ovoga članka primjenjuju se i kao sumarni kriterij kada je u nekom elaboratu, koji je izrađen za potrebe postupnog osnivanja katastra nekretnina ili za potrebe provođenja promjena u katastru zemljišta obuhvaćeno više katastarskih čestica s time da se površinski kriteriji uvijek odnose i na pojedinačnu katastarsku česticu.

@@ -1,0 +1,4 @@
+# Članak 45.
+(1) Geodetski elaborati se izrađuju tako da se jednim elaboratom obrađuju katastarske čestice unutar jedne katastarske općine.
+(2) Na području katastarskih općina za koje se vodi katastar zemljišta, a za koje se zemljišne knjige vode prema podacima katastarskog plana koji više nije službeni dio katastarskog operata, te ne odgovara granicama katastarskih općina u katastarskom operatu (u zemljišnoj knjizi se vodi više različitih katastarskih općina) geodetski elaborati se mogu izrađivati na način da se izrađuju kao više pojedinačnih međusobno povezanih geodetskih elaborata.
+(3) Kod izrade elaborata iz članka 36. ovoga Pravilnika, stavak 1. ovoga članka primjenjuje se na način da se jednim elaboratom mogu obraditi katastarske čestice koje se pripisuju odnosno otpisuju iz katastarskih općina za koje se geodetski elaborat izrađuje.

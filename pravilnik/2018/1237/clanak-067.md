@@ -1,0 +1,9 @@
+## Izvješća u izrađenom elaboratu
+# Članak 67.
+(1) Izvješće o utvrđivanju međa i drugih granica te o novom razgraničenju obavezno se sastavlja kada će, zbog provedbe elaborata, doći do promjene tijeka međa katastarskih čestica na katastarskom planu ili do ucrtavanja novih međa i drugih granica katastarskih čestica na katastarski plan.
+(2) Izvješće iz stavka 1. ovoga članka obavezno se sastavlja i kada je, ovlaštena osoba, zbog potrebe izrade elaborata, obavila obilježavanje međa i drugih granica katastarskih čestica vidljivim trajnim oznakama.
+(3) Izvješće iz stavka 1. ovoga članka ne sastavlja se u slučajevima kada se izrađuju geodetski elaborati za evidentiranje, brisanje ili promjenu podataka o zgradama ili drugim građevinama kao i geodetski elaborati za evidentiranje ili promjenu načina uporabe zemljišta u okviru kojih se ne predlaže promjena tijeka međa ili drugih granica katastarskih čestica.
+(4) Kada je riječ o evidentiranju zgrada ili drugih građevina smještenih na granicama katastarskih čestica (granica katastarske čestice ide rubom zgrade ili druge građevine) izvješće o utvrđivanju međa potrebno je sastaviti samo za onaj dio međne linije koji je istovremeno rub zgrade ili druge građevine.
+(5) U geodetskom elaboratu izvedenog stanja ceste u izvješću iz stavka 1. ovoga članka opisuje se postupak utvrđivanja granica zemljišta na kojem je izvedena cesta i prilaže mu se preslika javnog poziva i popis nositelja prava koji su zatražili uvid u geodetski elaborat izvedenog stanja ceste.
+(6) Izvješće iz stavka 5. ovoga članka izrađuje se samo za utvrđivanje granica zemljišta na koje je izgrađena cesta i ne izrađuje se za međe i druge granice katastarskih čestica uz cestu.
+(7) Standardni izgled i ostali sadržaj izvješća iz stavka 1. ovoga članka propisa je tehničkim specifikacijama iz članka 39. ovoga Pravilnika.

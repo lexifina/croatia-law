@@ -1,0 +1,2 @@
+# Članak 48.
+Dokumenti i akti prostornog uređenja, akti o određivanju granice pomorskog i vodnog dobra, sudske odluke o uređenju međa, utvrđivanju prava vlasništva zemljišta, rješenja o povratu zemljišta, odluke nadležnih tijela o javnim odnosno nerazvrstanim cestama i očitovanja upravitelja javne ceste odnosno nositelja prava na nerazvrstanoj cesti i dokumentacija o uspostavljenim posebnim pravnim režimima na zemljištu prikupljaju se od naručitelja odnosno investitora izrade elaborata odnosno od nositelja prava na katastarskim česticama koje su predmet elaborata.

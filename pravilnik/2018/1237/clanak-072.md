@@ -1,0 +1,7 @@
+# Članak 72.
+(1) Geodetski elaborat u analognom obliku izrađuje se u dovoljnom broju primjeraka.
+(2) Jedan primjerak elaborata zadržava katastarski ured, jedan primjerak zadržava ovlaštena osoba, a jedan primjerak se izrađuje za investitora elaborata.
+(3) Ostali primjerci elaborata izrađuju se kada je to potrebno i ne mogu sadržavati dodatne dijelove po zahtjevu investitora.
+(4) Izvoditelji za investitore mogu izrađivati različita dodatna izvješća i prikaze koji se temelje na podacima pregledanog i potvrđenog geodetskog elaborata. Ovi se dodaci elaboratu uvezuju u posebnu knjigu i dostavljaju investitoru uz pregledani i potvrđeni primjerak geodetskog elaborata. Naslovna strana i sadržaj dodatka geodetskom elaboratu istovjetna je sa stranicom pripadajućeg geodetskog elaborata, ali uz naznaku » - dodatak elaboratu«.
+(5) Sastavne dijelove elaborata u analognom obliku prema tehničkim specifikacijama iz članka 39. ovoga Pravilnika, potpisom i pečatom ovjerava samo odgovorna osoba za obavljanje stručnih geodetskih poslova (ovlašteni inženjer geodezije ili fizička osoba ovlaštena za obavljanje poslova državne izmjere i katastra nekretnina) ili voditelj ustrojstvene jedinice katastarskog ureda koja je izradila elaborat, osim naslovne stranice koju potpisom i pečatom ovjerava i odgovorna osoba u pravnoj ili fizičkoj osobi odnosno uredu ovlaštenog inženjera geodezije ili zajedničkom geodetskom uredu odnosno voditelj ustrojstvene jedinice katastarskog ureda koja je izradila elaborat.
+(6) Primjerci elaborata koje neće zadržati katastarski ured se uvezuju.

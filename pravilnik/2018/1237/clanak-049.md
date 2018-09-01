@@ -1,0 +1,8 @@
+## Obavljanje terenskih radnji i provedba terenskih mjerenja
+# Članak 49.
+(1) Za potrebe obavljanja terenskih radnji i provedbu terenskih mjerenja ovlaštene osobe imaju pravo ući u prostor katastarske čestice koja je predmetom elaborata i u prostor susjednih katastarskih čestica, u nužnom opsegu odstraniti drveće, grmlje i ostalo raslinje koje ometa poslove na izradi elaborata te postaviti na zemljištu i građevinama potrebne oznake izmjere i međne oznake čije se postavljanje mora iskazati u okviru elaborata.
+(2) O obavljanju poslova iz stavka 1. ovoga članka ovlaštene osobe dužne su putem investitora obavijestiti nositelje prava na katastarskim česticama koje su predmet elaborata, te nositelje prava na susjednim katastarskim česticama.
+(3) O obavljanju poslova iz stavka 1. ovoga članka za potrebe evidentiranja javnih i nerazvrstanih cesta pravna osoba koja upravlja cestom odnosno jedinica lokalne samouprave obavještavaju nositelje prava javnim pozivom u lokalnom glasilu.
+(4) Nositeljem prava u primjeni ovoga Pravilnika smatra se osoba koju je ovlaštena osoba u obavljanju radnji iz članka 46. stavka 1. podstavaka 3. i 7. utvrdila da predmetne odnosno susjedne katastarske čestice drži u stvarnom posjedu, a ako takve osobe nema, osoba koja je upisana u katastarskom operatu i/ili zemljišnoj knjizi.
+(5) O obavljanju poslova iz stavka 1. ovoga članka na zaštićenim i štićenim područjima obavještava se ministarstvo nadležno za zaštitu prirode.
+(6) Na štete koje bi bile načinjene pri obavljanju terenskih radnji i prilikom provedbe terenskih mjerenja primjenjuju se odredbe Zakona vezano uz način postupanja u odnosu na načinjene štete.

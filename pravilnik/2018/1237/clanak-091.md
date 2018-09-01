@@ -1,0 +1,3 @@
+# Članak 91.
+(1) Do donošenja odluke ravnatelja Državne geodetske uprave o obavezi izrade geodetskog elaborata u digitalnom obliku na području svih katastarskih ureda elaborat se može izrađivati i u analognom obliku.
+(2) Kada se geodetski elaborati izrađuju u analognom obliku katastarski i zemljišnoknjižni podaci o katastarskim česticama potrebni za izradu elaborata (izvadak iz katastarskog plana, izvadak ili prijepis posjedovnog lista, zemljišnoknjižni izvadak ili izvadak iz BZP-a), prilažu se elaboratu kao neslužbeni dokumenti, dok se za preuzeti digitalni katastarski plan elaboratu prilaže dokaz o izdanim podacima digitalnog katastarskog plana u katastarskom uredu.

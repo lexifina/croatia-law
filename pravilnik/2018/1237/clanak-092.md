@@ -1,0 +1,2 @@
+# Članak 92.
+Zahtjev za pregledavanje i potvrđivanje elaborata ovlaštena osoba ili službenik katastarskog ureda koji je izradio elaborat, može podnijeti i u analognom obliku do donošenja odluke iz članaka 91. stavka 1. ovoga Pravilnika, a zahtjevu se prilaže elaborat izrađen u analognom obliku uz koji se prilaže digitalni zapis sa izrađenim sastavnim dijelovima geodetskog elaborata sukladno tehničkim specifikacijama iz članka 39. ovoga Pravilnika.
