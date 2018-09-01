@@ -1,0 +1,2 @@
+# Članak 11.
+Tijela državne uprave i pravne osobe s javnim ovlastima iz Priloga II. ove Uredbe osiguravaju podatke o djelatnostima i emisijama po sektorima potrebnim za izradu izračuna emisija i inventara emisija onečišćujućih tvari u zraku iz članka 7. ove Uredbe na području Republike Hrvatske, prema programu iz članka 9. stavka 1. podstavka 1. ove Uredbe i dostavljaju ih Agenciji, do 30. rujna sljedeće kalendarske godine u elektronskom obliku.

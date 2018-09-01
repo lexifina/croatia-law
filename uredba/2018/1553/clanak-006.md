@@ -1,0 +1,10 @@
+# Članak 6.
+(1) Ne dovodeći u pitanje članak 5. stavak 5. ove Uredbe, Programom kontrole onečišćenja zraka iz članka 19. ove Uredbe definiraju se potrebne mjere namijenjene ograničavanju antropogenih emisija određenih onečišćujućih tvari za koje su propisane obveze smanjenja određenih onečišćujućih tvari u zraku prema tablici 5. Priloga I. ove Uredbe za 2025. godinu.
+(2) Okvirne razine emisija iz stavka 1. ovoga članka utvrđuju se linearnom putanjom smanjenja utvrđenom između njihovih razina emisija definiranih obvezama smanjenja emisija za 2020. godinu i razina emisija definiranih obvezama smanjenja emisija za 2030. godinu prema tablici 5. Priloga I. ove Uredbe.
+(3) U slučaju da putanja iz stavka 2. ovoga članka nije linearna, slijedi se nelinearna putanja ako je to ekonomski ili tehnički učinkovitije te pod uvjetom da se ona od 2025. godine postupno približava linearnoj putanji smanjenja te da se njome ne utječe na obvezu smanjenja emisija za 2030. godinu prema tablici 5. Priloga I. ove Uredbe.
+(4) Nelinearna putanja smanjenja iz stavka 3. ovoga članka i razloge zbog kojih se ona slijedi obrazlaže se u Programu kontrole onečišćenja zraka iz članka 19. ove Uredbe.
+(5) Ako se emisije za 2025. godinu ne mogu ograničiti u skladu s utvrđenom putanjom smanjenja za područje Republike Hrvatske, tada će Agencija u naknadnim informativnim izvješćima o inventaru emisija iz članka 7. ove Uredbe navesti razloge za to odstupanje, kao i mjere kojima bi se emisije u zrak na području Republike Hrvatske vratile na svoju putanju.
+(6) Sljedeće emisije ne uzimaju se u obzir u svrhu usklađivanja s člankom 5. stavkom 5. ove Uredbe i stavcima 1. i 2. ovoga članka:
+- emisije zrakoplova koje nisu obuhvaćene ciklusom polijetanja i slijetanja
+- emisije iz međunarodnog pomorskog prometa u skladu s člankom 3. stavkom 3. ove Uredbe
+- emisije dušikovih oksida i nemetanskih hlapivih organskih spojeva nastale aktivnostima obuhvaćenima kategorijama 3B (gospodarenje stajskim gnojivom) i 3D (poljoprivredna tla) nomenklature za izvješćivanje (NFR) iz 2014. godine kako je predviđena LRTAP konvencijom.
