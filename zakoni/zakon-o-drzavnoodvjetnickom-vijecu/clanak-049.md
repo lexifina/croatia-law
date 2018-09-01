@@ -1,0 +1,7 @@
+## Trajni premještaj zamjenika državnih odvjetnika
+# Članak 49.
+(1) Najviše 30% od planom predviđenih mjesta zamjenika državnih odvjetnika može se popuniti trajnim premještajem zamjenika državnih odvjetnika iz državnih odvjetništava istog stupnja i iste vrste.
+(2) Nakon donošenja Plana iz članka 48. stavka 1. ovoga Zakona, a prije objave prvog oglasa za popunjavanje slobodnih mjesta predviđenih Planom, Vijeće u »Narodnim novinama« i na svojim mrežnim stranicama objavljuje poziv zamjenicima državnih odvjetnika da u roku od 30 dana podnesu prijavu za trajni premještaj.
+(3) Zamjenici državnog odvjetnika koji žele biti trajno premješteni u drugo državno odvjetništvo u roku od 30 dana dostavljaju Vijeću pisanu prijavu, a Vijeće će za njih zatražiti ocjenu obnašanja državnoodvjetničke dužnosti te mišljenje državnog odvjetnika u državnom odvjetništvu u koje traže premještaj i iz kojeg se traži premještaj. Negativno mišljenje na premještaj kandidata mora se pisano obrazložiti.
+(4) Nakon isteka roka za dostavu prijava iz stavka 3. ovoga članka Vijeće će utvrditi potrebe i stanje popunjenosti mjesta zamjenika državnih odvjetnika te radnu opterećenost državnih odvjetništava u kojima kandidati obnašaju dužnost. Prijave zamjenika državnih odvjetnika koji dužnost obnašaju u državnim odvjetništvima u kojima bi u slučaju premještaja došlo do većih poteškoća u organizaciji rada neće se razmatrati.
+(5) Na temelju bodova iz ocjene obnašanja dužnosti zamjenika državnih odvjetnika Vijeće utvrđuje redoslijed kandidata i donosi obrazloženu odluku o premještaju.

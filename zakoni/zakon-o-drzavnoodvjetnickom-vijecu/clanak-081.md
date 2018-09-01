@@ -1,0 +1,6 @@
+# Članak 81.
+(1) Glavni državni odvjetnik Republike Hrvatske podnijet će Vijeću prijedlog za razrješenje državnog odvjetnika ako na temelju pisanog izvješća o obavljenom pregledu rada državnog odvjetništva ili na drugi način sazna da postoje razlozi za razrješenje iz članka 79. točke 2. ‒ 9. ovoga Zakona.
+(2) Ako postoji osnova za razrješenje općinskog državnog odvjetnika iz članka 79. točke 2. ‒ 9. ovoga Zakona, nadležni županijski državni odvjetnik može Glavnom državnom odvjetniku Republike Hrvatske predložiti podnošenje prijedloga za razrješenje. U svom prijedlogu županijski državni odvjetnik mora navesti i obrazložiti razloge za razrješenje.
+(3) Ako postoji osnova za razrješenje županijskog odnosno općinskog državnog odvjetnika, prijedlog za razrješenje Vijeću može podnijeti i ministar nadležan za poslove pravosuđa.
+(4) Predsjednik Vijeća pisano će izvijestiti državnog odvjetnika protiv kojeg je pokrenut postupak za razrješenje o osnovama i razlozima za razrješenje te mu dati rok u kojem se pisano može izjasniti o svim odlučnim činjenicama, a koji ne može biti kraći od osam dana od dana primitka obavijesti.
+(5) Nakon primitka pisanog izjašnjenja državnog odvjetnika Vijeće ga može pozvati na dodatna objašnjenja u vezi s razlogom za razrješenje.

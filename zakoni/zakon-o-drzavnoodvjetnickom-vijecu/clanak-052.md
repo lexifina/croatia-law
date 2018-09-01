@@ -1,0 +1,4 @@
+# Članak 52.
+(1) Za zamjenika općinskog državnog odvjetnika može se imenovati osoba koja je završila Državnu školu za pravosudne dužnosnike.
+(2) Za zamjenika županijskog državnog odvjetnika može se imenovati osoba koja je obnašala pravosudnu dužnost najmanje deset godina.
+(3) Za zamjenika Glavnog državnog odvjetnika Republike Hrvatske može se imenovati osoba koja je kao dužnosnik u pravosudnim tijelima obnašala pravosudnu dužnost najmanje 15 godina ili isto toliko godina bila odvjetnik, javni bilježnik, sveučilišni profesor pravnih znanosti koji ima položen pravosudni ispit i najmanje 15 godina radnog iskustva nakon položenog pravosudnog ispita odnosno ugledni pravnik s položenim pravosudnim ispitom i najmanje 20 godina radnog iskustva koji se dokazao svojim stručnim djelovanjem na određenom pravnom području, kao i stručnim i znanstvenim radovima.

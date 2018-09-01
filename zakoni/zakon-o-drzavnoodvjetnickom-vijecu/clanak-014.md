@@ -1,0 +1,7 @@
+## Predlaganje kandidata
+# Članak 14.
+(1) Prijedlog kandidata iz reda zamjenika državnih odvjetnika mora osigurati zastupljenost kandidata iz Državnog odvjetništva Republike Hrvatske, županijskih i općinskih državnih odvjetništava.
+(2) Pravo predlaganja kandidata za članove Vijeća iz reda zamjenika Glavnog državnog odvjetnika Republike Hrvatske ima svaki član kandidacijskog odbora Državnog odvjetništva Republike Hrvatske, a pravo predlaganja kandidata za članove Vijeća iz reda zamjenika županijskih državnih odvjetnika i iz reda zamjenika općinskih državnih odvjetnika ima svaki član kandidacijskih odbora županijskih državnih odvjetništava.
+(3) Na temelju prijedloga iz stavka 2. ovoga članka Kandidacijski odbor Državnog odvjetništva Republike Hrvatske i kandidacijski odbori županijskih državnih odvjetništava glasovanjem određuju po dva kandidata za svakog člana koji se bira iz reda zamjenika Glavnog državnog odvjetnika Republike Hrvatske, iz reda zamjenika županijskih državnih odvjetnika i iz reda zamjenika općinskih državnih odvjetnika.
+(4) Prijedlog kandidata za članove Vijeća Kandidacijski odbor Državnog odvjetništva Republike Hrvatske i kandidacijski odbori županijskih državnih odvjetništava dostavljaju Povjerenstvu najkasnije u roku od 15 dana od dana raspisivanja izbora.
+(5) U prijedlogu kandidata obvezno se navodi državno odvjetništvo u kojem zamjenik državnog odvjetnika obnaša dužnost.

@@ -1,0 +1,6 @@
+# Članak 60.
+(1) Obrazložena odluka Vijeća o imenovanju zamjenika državnog odvjetnika dostavlja se svim kandidatima u roku od 15 dana od donošenja. Ako je prema utvrđenom redoslijedu iz članka 56. stavka 7., članka 57. stavka 5. i članka 58. stavka 4. ovoga Zakona više kandidata ostvarilo isti broj bodova te ako je za zamjenika državnog odvjetnika Vijeće imenovalo kandidata koji nije ostvario najveći broj bodova, Vijeće će u odluci o imenovanju posebno obrazložiti razloge zbog kojih je prednost dalo izabranom kandidatu u odnosu na kandidate s istim odnosno većim brojem bodova.
+(2) Odluka o imenovanju objavljuje se u »Narodnim novinama« i na mrežnim stranicama Vijeća.
+(3) Zamjenik državnog odvjetnika dužan je stupiti na dužnost u roku koji odredi Vijeće, a najkasnije u roku od šest mjeseci od dana imenovanja.
+(4) Ako je protiv odluke o imenovanju zamjenika državnog odvjetnika podnesena ustavna tužba Ustavnom sudu Republike Hrvatske, imenovani zamjenik državnog odvjetnika ne može položiti prisegu niti stupiti na dužnost dok Ustavni sud Republike Hrvatske ne odluči o ustavnoj tužbi.
+(5) Ako zamjenik državnog odvjetnika bez opravdanog razloga ne stupi na dužnost u roku iz stavka 3. ovoga članka, smatrat će se da nije ni imenovan.

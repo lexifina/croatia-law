@@ -1,0 +1,2 @@
+# Članak 108.
+Ocjene obnašanja dužnosti državnih odvjetnika i zamjenika državnih odvjetnika koje su se temeljile na propisima koji su vrijedili do stupanja na snagu ovoga Zakona za potrebe provedbe postupaka sukladno ovom Zakonu uskladit će se s ocjenama obnašanja dužnosti državnih odvjetnika i zamjenika državnih odvjetnika prema zakonu kojim se propisuje djelokrug, ustrojstvo i nadležnost državnog odvjetništva na temelju posebne upute Glavnog državnog odvjetnika Republike Hrvatske.

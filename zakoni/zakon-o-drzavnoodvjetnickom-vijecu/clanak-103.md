@@ -1,0 +1,6 @@
+# Članak 103.
+(1) Vijeće vodi evidenciju izvješća o imovini državnog odvjetnika i zamjenika državnog odvjetnika te kontrolira podatke o njegovoj imovini.
+(2) Nakon prvog primitka izvješća o imovini državnog odvjetnika i zamjenika državnog odvjetnika Vijeće će od Ministarstva financija, Porezne uprave i drugih tijela pribaviti podatke kojima raspolažu o njegovoj imovini i usporediti ih s podacima u izvješću o imovini.
+(3) Ako za imovinu koju je državni odvjetnik i zamjenik državnog odvjetnika naveo u izvješću nije dostavio podatke o načinu stjecanja te imovine, Vijeće će zatražiti od državnog odvjetnika ili zamjenika državnog odvjetnika pisano očitovanje.
+(4) Ako se podaci u izvješću o imovini koje je Vijeće pribavilo na način opisan u stavku 2. ovoga članka razlikuju od podataka koje je državni odvjetnik ili zamjenik državnog odvjetnika naveo u izvješću, Vijeće će o tome obavijestiti državnog odvjetnika u kojem zamjenik državnog odvjetnika obnaša dužnost i državnog odvjetnika neposredno višeg državnog odvjetnika radi podnošenja zahtjeva za pokretanje stegovnog postupka.
+(5) Ako se iz očitovanja državnog odvjetnika ili zamjenika državnog odvjetnika utvrdi nesrazmjer vrijednosti i načina stjecanja imovine državnog odvjetnika ili zamjenika državnog odvjetnika, Vijeće će o tome obavijestiti Poreznu upravu Ministarstva financija.
