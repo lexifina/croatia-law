@@ -1,0 +1,8 @@
+# Članak 3.
+U članku 17. iza stavka 3. dodaje se novi stavak 4. koji glasi:
+»Specijalistička ordinacija u kojoj se obavljaju minimalno invazivni i nekirurški zahvati primjene hijaluronskih punila i botulinum toksina tipa A, mora imati doktora medicine specijalista koji je kompetencije za navedene zahvate stekao u okviru specijalističkog usavršavanja ili ima odgovarajući dokaz o završenoj edukaciji izdan od nadležnog stručnog društva Hrvatskog liječničkog zbora.«.
+Dosadašnji stavak 4. postaje stavak 5.
+U članku 17. stavku 5. iza točke 21) dodaje se točka 22) koja glasi:
+»22) Ordinacija za liječenje boli
+- negatoskop, računalo s mogućnošću pohrane slikovnog materijala, pribor za punkciju i lokalne blokade, pribor za lokalnu analgeziju, jednokratni pribor za akupunkturu, perfuzor i infuzomat za iv i sc primjenu lijeka, pribor za uzimanje materijala za laboratorijske pretrage, prijenosni EKG uređaj s defibrilatorom i pisačem, prijenosni komplet za umjetnu ventilaciju i održavanje prohodnosti dišnih puteva, maske i mjeh za umjetnu ventilaciju, kateter za jednokratnu upotrebu, kirurške rukavice.
+Radnici: 1 doktor medicine specijalist anesteziologije, reanimatologije i intenzivne medicine ili specijalist drugih medicinskih specijalnosti s obvezatnom dodatnom edukacijom za liječenje boli koji je kompetencije stekao i ima dokaz o završenoj edukaciji izdanoj od nadležnog stručnog društva, odnosno sekcije za bol HLZ-a ili ima odgovarajući dokaz nadležnog stručnog društva, odnosno sekcije za bol HLZ-a o međunarodno stečenoj edukaciji, 1 stručna prvostupnica sestrinstva za 8 sati radnog vremena.«

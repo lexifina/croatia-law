@@ -1,0 +1,5 @@
+# Članak 8.
+U članku 45. stavku 3. točki 16) stavak 3. mijenja se i glasi:
+»U bolnici koja postelje za palijativnu skrb ima integrirane na drugim odjelima u okviru drugih djelatnosti, bolesnička soba za palijativnu skrb mora osigurati uvjete iz stavka 1. podstavaka 1. i 2. ove točke.«.
+Iza stavka 3. dodaje se stavak 4. koji glasi:
+»U bolnici koja postelje za palijativnu skrb ima integrirane na drugim odjelima u okviru drugih djelatnosti u pogledu radnika potrebno je osigurati 1 doktora medicine specijalistu s posebnom edukacijom iz palijativne skrbi, 1 medicinsku sestru opće njege s posebnom edukacijom iz palijativne skrbi za 8 sati radnog vremena. Magistar socijalnog rada s posebnom edukacijom za pristup bolesniku na palijativnoj skrbi, doktor medicine specijalist psihijatrije ili magistar psihologije s posebnom edukacijom za pristup bolesniku na palijativnoj skrbi, radni terapeut s posebnom edukacijom za pristup bolesniku na palijativnoj skrbi, stručni prvostupnik fizioterapije s posebnom edukacijom iz palijativne skrbi na raspolaganju.«.

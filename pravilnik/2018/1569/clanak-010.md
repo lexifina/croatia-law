@@ -1,0 +1,4 @@
+## Prijelazne i završne odredbe
+# Članak 10.
+Doktor medicine koji je položio ispit za somnologa pred Europskim istraživačkim društvom za medicinu spavanja (engl. European Sleep Research Society) ili koji do dana stupanja na snagu ovoga Pravilnika najmanje deset godina aktivno radi u području medicine spavanja u zdravstvenim ustanovama Republike Hrvatske može i nadalje provoditi djelatnost medicine spavanja - somnologiju, bez provođenja osposobljavanja propisanog odredbom članka 3. stavka 1. i članka 5. stavka 2. ovoga Pravilnika.
+U specijaliziranom laboratoriju za poremećaje disanja tijekom spavanja može raditi i doktor medicine koji je položio odgovarajući ispit pred Europskim društvom za disanje (European Respiratory Society) ili u okviru Svjetskoga društva za spavanje (World Sleep Society) sukladno smjernicama Hrvatskoga somnološkog društva - Društva za medicinu spavanja Hrvatskoga liječničkog zbora (HSD-DMS HLZ-a).
