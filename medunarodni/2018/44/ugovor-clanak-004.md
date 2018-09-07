@@ -1,0 +1,4 @@
+# Članak 4.
+STATUS PROMATRAČA
+1. Za pitanja od zajedničkog interesa između Agencije i Europske unije te za pitanja vezana uz Plan za europske države sudionice (PECS), Hrvatska je ovlaštena prisustvovati sjednicama Vijeća Agencije i/ili njezinih podređenih tijela i Odbora PECS-a u svojstvu promatrača putem jednog predstavnika, koji može biti u pratnji savjetnika. Hrvatska prima nacrte dnevnih redova i relevantne dokumente dostupne državama članicama i europskim državama sudionicama, kako bi joj se omogućilo sudjelovanje na sastancima Vijeća i/ili podređenih tijela Vijeća te Odbora PECS-a u svojstvu promatrača.
+2. Hrvatska je pozvana prisustvovati sastancima Vijeća Agencije koji se održavaju na ministarskoj razini, u svojstvu promatrača kroz jednog predstavnika koji može biti u pratnji savjetnika. Hrvatska prima nacrte dnevnih redova i relevantne dokumente dostupne državama članicama kako bi joj se omogućilo sudjelovanje u tim sastancima.
