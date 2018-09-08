@@ -1,0 +1,6 @@
+# Članak 8.
+(1) Za vrijeme korištenja prava na državnu stipendiju student ne može primati ni jednu drugu stipendiju koja se financira iz javnih izvora.
+(2) Iznimno od stavka 1. ovoga članka studenti koji studiraju na visokom učilištu u inozemstvu na istoj razini studija mogu primati drugu stipendiju za razdoblje obavljanja stručne prakse i/ili sudjelovanja u programu mobilnosti i međunarodne razmjene studenata.
+(3) U slučaju da se utvrdi da je u vrijeme korištenja prava na državnu stipendiju student korisnik neke druge stipendije koja se financira iz javnih izvora, studentu će se ponuditi mogućnost da uz uvjet obustave druge stipendije dobije državnu stipendiju.
+(4) Ako se utvrdi da student uz državnu stipendiju prima neku drugu stipendiju ili za vrijeme trajanja državne stipendije dobije još neku stipendiju ili upiše mirovanje, a o toj okolnosti ne obavijesti Ministarstvo u roku od 30 dana od dana nastanka navedenih okolnosti, Ministarstvo će poslati studentu obavijest da se obustavlja isplata državne stipendije te da je obvezan vratiti do tada isplaćena sredstva.
+(5) Na obavijest iz stavka 4. ovoga članka student može uputiti prigovor Ministarstvu u roku od osam dana od dana dostave obavijesti.
