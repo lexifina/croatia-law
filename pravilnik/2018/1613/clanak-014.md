@@ -1,0 +1,3 @@
+# Članak 14.
+(1) Osoba iz članka 6. i 8. stavka 2. ovoga Pravilnika, učenik osnovne škole, koji ne priloži račun iz kojeg je vidljiva kupnja udžbenika za osnovne škole, pravo na novčanu naknadu ostvaruje u iznosu od 70% maksimalne cijene kompleta obveznih udžbenika za sve osnovne škole za razred u koji je upisan.
+(2) Osoba iz članka 6. i 8. stavka 2. ovoga Pravilnika, učenik srednje škole, koji ne priloži račun iz kojeg je vidljiva kupnja udžbenika za srednje škole, pravo na novčanu naknadu ostvaruje u iznosu od 70% maksimalne cijene kompleta obveznih udžbenika za sve srednje škole-gimnazijski program ili sve srednje škole - strukovni program za razred i program u koji je upisan.
