@@ -1,0 +1,4 @@
+## Korištenje bolovanja u diplomatskoj misiji, odnosno konzularnom uredu
+# Članak 30.
+(1) Policijski časnik za vezu koji se nalazi na radu u inozemstvu, obvezan je prijaviti bolovanje te dostaviti obavijest o početku i završetku bolovanja ustrojstvenoj jedinici nadležnoj za europske i međunarodne poslove, koja obavijest prosljeđuje ustrojstvenoj jedinici nadležnoj za materijalno-financijske poslove radi obračuna doprinosa i poreza iz plaće i isplate plaće.
+(2) Ako policijski časnik za vezu koji se nalazi na radu u inozemstvu koristi bolovanje dulje od 42 dana neprekidno, ustrojstvena jedinica iz stavka 1. ovoga članka nadležna za europske i međunarodne poslove dužna je o tome izvijestiti Upravu za pravne poslove i ljudske potencijale, radi reguliranja pitanja ostvarivanja prava na zdravstvenu zaštitu u Republici Hrvatskoj.

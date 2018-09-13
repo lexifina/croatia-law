@@ -1,0 +1,3 @@
+## Pravo na zdravstvenu zaštitu na temelju međunarodnih ugovora
+# Članak 26.
+U državi primateljici s kojom Republika Hrvatska ima sklopljen ili sukcesijom preuzet ugovor o socijalnom osiguranju, koji uključuje korištenje zdravstvene zaštite za diplomatsko osoblje u diplomatskoj misiji, odnosno konzularnom uredu, ili s istom primjenjuje poseban dvostrani sporazum o načinu korištenja zdravstvene zaštite, policijski časnik za vezu koji se nalazi na radu u diplomatskoj misiji, odnosno konzularnom uredu, kao i članovi njegove obitelji koji s njim borave u inozemstvu, ostvaruju pravo na zdravstvenu zaštitu na način i u opsegu propisanom odredbama toga međunarodnog ugovora.

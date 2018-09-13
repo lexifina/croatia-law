@@ -1,0 +1,4 @@
+## I. OPĆE ODREDBE
+## Područje primjene
+# Članak 1.
+Ovim Pravilnikom utvrđuju se uvjeti, način izbora, priprema i upućivanje policijskih časnika za vezu na rad u inozemstvo, njihova prava i obveze te nadzor nad njihovim radom.

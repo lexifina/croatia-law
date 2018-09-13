@@ -1,0 +1,6 @@
+## Akreditacijski postupak i dodjela diplomatskog zvanja
+# Članak 22.
+(1) Na temelju Odluke Vlade Republike Hrvatske iz članka 3. stavka 2. ovoga Pravilnika i Odluke o izboru policijskog časnika za vezu iz članka 18. stavka 2. ovoga Pravilnika Ministarstvo će obavijestiti Ministarstvo nadležno za vanjske i europske poslove o osobi koja se upućuje kao policijski časnik za vezu na rad u inozemstvo, s prijedlogom o postavljenju u određeno diplomatsko odnosno konzularno zvanje.
+(2) Policijski časnik za vezu za vrijeme trajanja rada u inozemstvu može imati diplomatsko zvanje: prvi tajnik, savjetnik ili ministar savjetnik odnosno odgovarajuće konzularno zvanje, ovisno o godinama staža i radnom iskustvu na poslovima policijskog službenika, stupnju obrazovanja, osobnom policijskom zvanju, težini poslova koje će obavljati, kao i drugim specifičnostima koje utječu na profesionalno i kvalitetno obavljanje poslova, što je potrebno obrazložiti u prijedlogu iz stavka 1. ovoga članka.
+(3) Na temelju prijedloga iz stavka 1. ovoga članka, ministar nadležan za vanjske i europske poslove donosi odgovarajuću odluku o postavljenju u diplomatsko odnosno konzularno zvanje.
+(4) Ministarstvo nadležno za vanjske i europske poslove notificirat će policijskog časnika za vezu kod nadležnog tijela za vanjske poslove države primateljice.
