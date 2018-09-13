@@ -1,0 +1,1 @@
+Ustavni sud Republike Hrvatske, u Trećem vijeću za odlučivanje o ustavnim tužbama, u sastavu sudac Rajko Mlinarić, predsjednik Vijeća, te suci Ingrid Antičević Marinović, Snježana Bagić, Branko Brkić, Lovorka Kušan i Miroslav Šumanović, članovi Vijeća, u postupku koji je ustavnom tužbom pokrenuo N. N. iz N., na sjednici održanoj 13. rujna 2018. jednoglasno je donio
