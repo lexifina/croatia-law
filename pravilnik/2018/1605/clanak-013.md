@@ -1,0 +1,3 @@
+# Članak 13.
+(1) U slučaju iz članka 12. ovoga Pravilnika, nakon što Ministarstvo zaprimi obavijest međunarodne organizacije, institucije ili tijela Europske unije o izboru policijskog službenika, ministar donosi rješenje o mirovanju prava i obveza iz državne službe za vrijeme trajanja mandata u međunarodnoj organizaciji, instituciji ili tijelu Europske unije.
+(2) U slučaju da međunarodna organizacija, institucija ili tijelo Europske unije prije isteka mandata ponudi policijskom službeniku produljenje mandata, policijski službenik ukoliko namjerava prihvatiti produljene mandata, prethodno mora zatražiti suglasnost iz članka 4. ovoga Pravilnika za produljenje mandata.
