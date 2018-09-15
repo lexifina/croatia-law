@@ -1,0 +1,5 @@
+# Članak 11.
+Članak 45. mijenja se i glasi:
+»U tijelima podzemnih voda u kojima je utvrđen značajan i trajno rastući trend koncentracija onečišćujućih tvari utvrđuju se polazne točke za praćenje i utvrđivanje tog trenda, njegove promjene te polazne točke za preokretanje trenda.
+Polazna točka za promjenu značajnog i trajno rastućeg trenda određuje se kao postotak vrijednosti standarda kakvoće podzemnih voda i/ili graničnih vrijednosti specifičnih onečišćujućih tvari utvrđenih u Prilogu 6. ove Uredbe. Kada je potrebno procijeniti utjecaj postojećih oblaka onečišćenja u tijelima podzemnih voda, koja mogu dovesti u pitanje postizanje ciljeva iz članka 4. ove Uredbe, a osobito oblaka onečišćenja koji potječu iz točkastih i raspršenih izvora, provode se dodatne procjene trendova za utvrđene onečišćujuće tvari kako bi se potvrdilo da se oblaci onečišćenja ne šire, ne pogoršavaju kemijsko stanje tijela podzemnih voda i ne predstavljaju opasnost za zdravlje ljudi i okoliš.
+Rezultati procjena iz stavka 2. ovoga članka se objavljuju u Planu upravljanja vodnim područjima.«.

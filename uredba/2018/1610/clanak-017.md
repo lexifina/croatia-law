@@ -1,0 +1,2 @@
+# Članak 17.
+U Prilogu 2. STANDARDI ZA OCJENU EKOLOŠKOG STANJA POVRŠINSKIH VODA točki 2.C. GRANIČNE VRIJEDNOSTI KATEGORIJA EKOLOŠKOG STANJA podtočki 5. Granične vrijednosti kategorija ekološkog stanja kemijskih elemenata kakvoće za površinske vode - specifične onečišćujuće tvari Tablici 14. GRANIČNE VRIJEDNOSTI KATEGORIJA EKOLOŠKOG STANJA ZA SPECIFIČNE ONEČIŠĆUJUĆE TVARI stupcima 4. i 5. riječ: »kocnentracija« zamjenjuje se riječju: »koncentracija«.
