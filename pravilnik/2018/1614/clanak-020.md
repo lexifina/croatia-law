@@ -1,0 +1,2 @@
+# Članak 20.
+Subjekti u poslovanju s predmetima opće uporabe moraju osigurati da sve faze proizvodnje i stavljanja na tržište predmeta opće uporabe koje su pod njihovom kontrolom, udovoljavaju uvjetima propisanim zakonom kojim se uređuju predmeti opće uporabe, provedbenim propisima donesenim na temelju toga zakona, te propisima kojima je uređeno područje kemikalija, vode za ljudsku potrošnju i zaštite pučanstva od zaraznih bolesti.
