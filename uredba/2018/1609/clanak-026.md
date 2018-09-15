@@ -1,0 +1,8 @@
+# Članak 26.
+Iza članka 48. dodaju se članci 48.a i 48.b s naslovima iznad njih koji glase:
+»6.2.2.1. Odjel za pripremu i provedbu edukacija
+Članak 48.a
+Odjel za pripremu i provedbu edukacija, u dogovoru i suradnji s Koordinacijskim tijelom, obavlja stručne i administrativne poslove organizacije i koordinacije provedbe informativnih i obrazovnih aktivnosti koje se odnose na upravljanje i korištenje ESF-a za tijela državne i javne uprave, lokalne i područne (regionalne) samouprave, potencijalne prijavitelje i korisnike, analizira, priprema te provodi odgovarajuće edukacije za djelatnike sustava upravljanja i kontrola kao i ostale identificirane dionike, te obavlja i druge poslove u okviru svog djelokruga.
+6.2.2.2. Odjel za praćenje i razvoj administrativnih kapaciteta
+Članak 48.b
+Odjel za praćenje i razvoj administrativnih kapaciteta obavlja stručne i administrativne poslove vezane uz razvoj administrativnih kapaciteta sustava upravljanja i kontrole, uključujući: kontinuirano praćenje potreba te pripremu prijedloga mjera jačanja administrativnih kapaciteta u kvantitativnom i kvalitativnom smislu, pripremu i koordinaciju izrade strategije organizacijskog razvoja, analiza radne opterećenosti te drugih analiza kojima se utvrđuju potrebe za ljudskim i materijalnim resursima tijela za provedbu dodijeljenih im funkcija, koordinaciju i praćenje imenovanja na razini Uprave kao i ostalih tijela sustava upravljanja i kontrola, prati stanja administrativnih kapaciteta u sustavu i povezano izvještavanje, na temelju zaprimljenih podataka izrađuje analizu radne opterećenosti, analizira stanje kadrovskih kapaciteta na razni sustava te predlaže načine i mjere za njihovo upravljanje, te obavlja i druge poslove u okviru svog djelokruga.«.

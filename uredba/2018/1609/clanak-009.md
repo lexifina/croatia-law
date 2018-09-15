@@ -1,0 +1,5 @@
+# Članak 9.
+Članak 22. i naslov iznad njega mijenjaju se i glase:
+»3.2.2. Služba za međunarodnu suradnju na području rada
+Članak 22.
+Služba za međunarodnu suradnju na području rada u suradnji sa Samostalnom službom za koordinaciju europskih poslova i međunarodne suradnje, prati propise, konvencije i preporuke Međunarodne organizacije rada, Vijeća Europe, Europske unije i ostale međunarodne ugovore iz područja rada, prati usklađenost radnoga zakonodavstva Republike Hrvatske s višestranim međunarodnim ugovorima, izrađuje stručne analize i prijedloge za potpisivanjem višestranih međunarodnih ugovora na području rada koje usvajaju Međunarodna organizacija rada, Vijeće Europe, i Ujedinjeni narodi, priprema odgovore na pritužbe, vodi aktivnosti i priprema stručne podloge i normativne prijedloge o ratifikaciji potpisanih međunarodnih ugovora na području rada, koordinira i izvještava o primjeni višestranih međunarodnih ugovora na području rada kojih je Republika Hrvatska strankom, sudjeluje u radu odgovarajućih međunarodnih tijela i provedbi projekata iz djelokruga Službe, te obavlja i druge poslove u okviru svog djelokruga rada.«.

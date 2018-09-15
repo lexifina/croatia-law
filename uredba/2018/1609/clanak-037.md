@@ -1,0 +1,9 @@
+# Članak 37.
+Članak 61. i naslov iznad njega mijenjaju se i glase:
+»8. SAMOSTALNI SEKTOR ZA SOCIJALNO PARTNERSTVO
+Članak 61.
+Samostalni sektor za socijalno partnerstvo obavlja organizacijske, administrativno-tehničke i druge poslove za potrebe nacionalnog Gospodarsko-socijalnog vijeća i njegovih stalnih i povremenih radnih tijela, vodi aktivnosti u svezi koordinacije i posredovanja u cilju boljeg razvitka socijalnog dijaloga i partnerstva u Republici Hrvatskoj od lokalne do nacionalne razine, surađuje s koordinatorima za socijalno partnerstvo u drugim ministarstvima, podupire aktivnosti jačanja kapaciteta organizacija socijalnih partnera, prati provođenje nacionalnih strategija i akcijskih planova iz svog djelokruga, koordinira, organizira i vodi poslove vezane uz postupke osiguranja stručne i administrativne pripreme i potpore pregovaračkom odboru Vlade Republike Hrvatske u kolektivnom pregovaranju, obavlja analitičke poslove, koordinira i prati pripremu i tijek pregovora za granske kolektivne ugovore, vodi poslove u svezi analize podataka dobivenih putem centralnog obračuna plaća, pruža administrativnu i stručnu podršku Povjerenstvu za tumačenje Temeljnog kolektivnog ugovora (TKU), pruža administrativnu i stručnu podršku povjerenstvima osnovanim sukladno TKU, prati učinke primjene kolektivnih ugovora javnog sektora, izrađuje godišnje izvješće o učincima sklopljenoga kolektivnoga, dostavlja Vladi Republike Hrvatske objedinjeno izvješće o stanju obveza iz kolektivnih ugovora koji obvezuju Vladu Republike Hrvatske, sudjeluje u planiranju državnog proračuna i u izradi strateškog plana Ministarstva, te obavlja druge poslove u okviru svog djelokruga.
+U Samostalnom sektoru za socijalno partnerstvo ustrojavaju se:
+8.1. Služba za socijalno partnerstvo
+8.2. Služba za kolektivne pregovore u javnom sektoru
+8.3. Služba za analitiku.«.

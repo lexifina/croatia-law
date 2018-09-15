@@ -1,0 +1,5 @@
+# Članak 30.
+Članak 54. i naslov iznad njega mijenjaju se i glase:
+»6.3.1.1. Odjel za projekte u području tržišta rada
+Članak 54.
+Odjel za projekte u području tržišta rada obavlja stručne i administrativne poslove vezane uz koordinaciju, praćenje i planiranje projekata, pripremu za odobrenje projektne dokumentacije, osigurava kvalitetu za odobrenje natječajne dokumentacije te objavljuje otvorene Pozive za dostavu projektnih prijedloga iz područja ulaganja u nadležnosti Ministarstva za projekte iz područja zapošljavanja i tržišta rada u okviru Prioritetne osi 1. i 2., specifičnog cilja 9.i.1 Operativnog programa Učinkoviti ljudski potencijali 2014. - 2020., objavljuje Pozive tijelima koji će se financirati kao izravna dodjela sredstava u okviru Prioritetne osi 1. OPULJP-a i u dijelu nadležnosti za specifični cilj 9.i.1. u okviru Prioritetne osi 2. OPULJP-a, objavljuje Pozive za dostavu projekata u okviru Transnacionalne suradnje u području zapošljavanja i tržišta rada, sudjeluje u odborima za ocjenjivanje te obavlja i druge poslove u okviru svog djelokruga.«.
