@@ -1,0 +1,1 @@
+Na temelju članka 61. stavka 2. Zakona o obrtu (»Narodne novine«, broj 143/2013), nakon prethodno pribavljenog mišljenja ministra nadležnog za obrazovanje, ministar gospodarstva, poduzetništva i obrta donosi
