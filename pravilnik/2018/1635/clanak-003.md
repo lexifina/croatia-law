@@ -1,0 +1,3 @@
+# Članak 3.
+(1) Za izdavanje uvjerenja kojim se uvjerenje iz prethodnog članka mijenja odnosno dopunjava, naknada se utvrđuje u iznosu od 0,5 promila (0,5‰) od procijenjene vrijednosti lokacije u sastavu koje se nalazi nekretnina odnosno knjigovodstvene vrijednosti lokacije u protuvrijednosti koje je određena rezervacija dionica ili poslovnih udjela u sastavu koje se nalazi nekretnina na koju se zahtjev odnosi, ali ne manje od 1.750,00 kuna niti više od 17.500,00 kuna.
+(2) Ukoliko je zahtjev za izmjenama odnosno dopunama uvjerenja podnijet unutar roka od 30 dana od dana dostave uvjerenja stranci na čiji je zahtjev to uvjerenje izdano, ne plaća se naknada iz stavka (1) ovoga članka.
