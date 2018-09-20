@@ -1,0 +1,3 @@
+# Članak 3.
+(1) Očevidnik iz članka 1. ovoga Pravilnika vodi se u elektroničkom obliku (u daljnjem tekstu: e-Očevidnik) i sadrži podatke o godišnjem planu rada državne upravne inspekcije, godišnjem planu rada upravne inspekcije ureda, podatke o predstavkama, podatke o obavljenim inspekcijskim nadzorima i pripadajućim zapisnicima, izrečenim mjerama i poduzetim radnjama u skladu s odredbama Zakona o upravnoj inspekciji, kao i drugim aktima koje upravna inspekcija donosi u okviru svoga djelokruga.
+(2) Dijelovi e-Očevidnika mogu se ispisati i koristiti u tiskanom obliku, sukladno nadležnosti korisnika podataka iz tiskanog oblika e-Očevidnika.
