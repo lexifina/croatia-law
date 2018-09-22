@@ -1,0 +1,2 @@
+# Članak 10.
+Okvirni broj službenika i namještenika Ureda prikazan u tablici koja je sastavni dio Uredbe o Uredu zastupnika Republike Hrvatske pred Europskim sudom za ljudska prava (»Narodne novine«, broj 18/12) zamjenjuje se Okvirnim brojem službenika i namještenika Ureda zastupnika Republike Hrvatske pred Europskim sudom za ljudska prava sadržanim u tablici u prilogu ove Uredbe koja je njen sastavni dio.

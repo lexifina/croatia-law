@@ -1,0 +1,1 @@
+Na temelju članka 27. stavaka 2. i 3. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/11, 119/14 i 93/16), a u vezi s člankom 9. stavkom 4. Zakona o ustrojstvu i djelokrugu ministarstava i drugih središnjih tijela državne uprave (»Narodne novine«, br. 93/16 i 104/16), Vlada Republike Hrvatske je na sjednici održanoj 20. rujna 2018. godine donijela

@@ -1,0 +1,13 @@
+# Članak 3.
+Članak 5. mijenja se i glasi:
+»U vezi sa zastupanjem Republike Hrvatske pred Europskim sudom za ljudska prava i drugim tijelima Vijeća Europe u Uredu se obavljaju sljedeći poslovi:
+- poslovi pripreme svih očitovanja Republike Hrvatske u postupcima pred Europskim sudom za ljudska prava i sudjelovanja na usmenim ročištima pred Europskim sudom za ljudska prava, poslovi razmatranja, pripreme i miješanja u predmete protiv drugih država pred Europskim sudom za ljudska prava, poslovi suradnje s pravosudnim tijelima, Ustavnim sudom Republike Hrvatske, ministarstvima i drugim tijelima državne uprave i drugim tijelima u svrhu zastupanja, te poslovi suradnje s Europskim sudom za ljudska prava
+- poslovi koordiniranja izvršenja presuda i odluka Europskog suda za ljudska prava s tijelima svih grana vlasti, poslovi suradnje s pravosudnim tijelima, ministarstvima i drugim tijelima državne uprave te drugim tijelima, kao i s Tajništvom Odbora ministara Vijeća Europe u svrhu izvršenja presuda i odluka Europskog suda za ljudska prava
+- poslovi pripreme i sudjelovanja na sastancima Odbora ministara Vijeća Europe o izvršenju presuda Europskog suda za ljudska prava, kao i u drugim aktivnostima Vijeća Europe koje se odnose na izvršenje presuda i odluka Europskog suda za ljudska prava
+- poslovi analize sudske prakse Europskog suda za ljudska prava, Suda Europske unije, drugih međunarodnih sudova i tijela u području međunarodne zaštite ljudskih prava, te prakse drugih tijela za potrebe poslova iz nadležnosti Ureda
+- poslovi analize propisa Republike Hrvatske u svrhu davanja mišljenja o usklađenosti istih s Konvencijom za zaštitu ljudskih prava i temeljnih sloboda (»Narodne novine - Međunarodni ugovori«, br. 18/97, 6/99, 14/02, 13/03, 9/05, 1/06, 2/10 i 13/17; u daljnjem tekstu: Konvencija) i sudskom praksom Europskog suda za ljudska prava, te davanje mišljenja o drugim dokumentima na traženje nadležnih tijela
+- poslovi praćenja konvencijskog sustava zaštite ljudskih prava i razvoja ljudskih prava u tom sustavu
+- poslovi suradnje sa zastupnicima drugih država/vlada pred Europskim sudom za ljudska prava
+- poslovi koordinacije prevođenja, jezične i pravne redakture i lekture, te poslovi prevođenja dokumenata na hrvatski i engleski jezik za potrebe Ureda
+- poslovi upoznavanja pravosudnih tijela, tijela državne uprave i drugih tijela, te stručne i opće javnosti s Konvencijom, sudskom praksom Europskog suda za ljudska prava i konvencijskim sustavom zaštite ljudskih prava, te komunikacije s medijima vezano za poslove iz nadležnosti Ureda i
+- poslovi prikupljanja, analize i sistematizacije podataka za izradu statistika, izvješća i drugih dokumenata iz nadležnosti Ureda.«.
