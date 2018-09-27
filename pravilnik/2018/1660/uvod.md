@@ -1,0 +1,1 @@
+Na temelju članka 160. stavka 3. i članka 165. stavka 7. Zakona o tržištu kapitala (»Narodne novine«, broj 65/18; dalje u tekstu: Zakon) Hrvatska agencija za nadzor financijskih usluga (dalje u tekstu: Hanfa), na sjednici Upravnog vijeća održanoj 12. rujna 2018. godine donosi
