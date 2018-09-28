@@ -1,0 +1,4 @@
+# Članak 21.
+PROFESORI I ISTRAŽIVAČI
+1. Fizička osoba koja posjeti državu ugovornicu u svrhu predavanja ili obavljanja istraživanja na sveučilištu, visokoj školi, školi ili drugoj sličnoj obrazovnoj instituciji koja je prepoznata kao takva u toj državi ugovornici, i koja je ili je neposredno prije posjeta bila rezident druge države ugovornice, izuzima se od plaćanja poreza u prvospomenutoj državi ugovornici na naknade za takvo podučavanje i istraživanje, tijekom razdoblja ne duljeg od dvije godine od datuma njezina prvog posjeta u tu svrhu. Fizička osoba ima pravo na pogodnosti iz ovog stavka jedanput u tom razdoblju od dvije godine.
+2. Odredbe stavka 1. ne primjenjuju se na dohodak ostvaren od istraživanja ako takvo istraživanje nije poduzeto u javnom interesu, već prvenstveno za privatnu korist određene osobe ili osoba.

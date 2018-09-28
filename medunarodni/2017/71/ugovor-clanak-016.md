@@ -1,0 +1,8 @@
+# Članak 16.
+NESAMOSTALNI RAD
+1. U skladu s odredbama članaka 17., 19. i 20., plaće, nadnice i druga slična primanja koje rezident države ugovornice ostvari nesamostalnim radom oporezuju se samo u toj državi, osim ako se nesamostalni rad obavlja u drugoj državi ugovornici. Ako se nesamostalni rad obavlja na taj način, primanja koja se od toga ostvaruju mogu se oporezivati u toj drugoj državi.
+2. Neovisno o odredbama stavka 1., primanja koja rezident države ugovornice ostvaruje od nesamostalnog rada obavljenog u drugoj državi ugovornici oporezuju se samo u prvospomenutoj državi ako su svi sljedeći uvjeti ispunjeni:
+a) primatelj boravi u drugoj državi ugovornici u razdoblju ili razdobljima koja ukupno ne traju dulje od 183 dana u bilo kojem dvanaestomjesečnom razdoblju koje počinje ili završava u dotičnoj poreznoj godini, i
+b) primanje isplati poslodavac koji nije rezident druge države ugovornice ili se ono isplati u njegovo ime, i
+c) primanje ne tereti stalnu poslovnu jedinicu ili stalno sjedište koje poslodavac ima u toj drugoj državi ugovornici.
+3. Neovisno o prethodnim odredbama ovog članka, primanja ostvarena od nesamostalnog rada na brodu, zrakoplovu ili vozilu za cestovni prijevoz koji se koriste u međunarodnom prometu oporezuju se samo u državi ugovornici u kojoj se nalazi mjesto stvarne uprave poduzeća.

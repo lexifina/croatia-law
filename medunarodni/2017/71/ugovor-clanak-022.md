@@ -1,0 +1,4 @@
+# Članak 22.
+STUDENTI I PRIPRAVNICI
+1. Plaćanja koja student ili pripravnik, koji jest ili je neposredno prije posjeta državi ugovornici bio rezident druge države ugovornice i koji boravi u prvospomenutoj državi isključivo u svrhu svojeg obrazovanja ili usavršavanja, prima u svrhu svojeg uzdržavanja, obrazovanja ili usavršavanja, ne oporezuju se u toj državi, pod uvjetom da takva plaćanja nastaju iz izvora izvan te države, tijekom razdoblja ne duljeg od pet uzastopnih godina.
+2. U vezi sa stipendijama, školarinama i naknadama od nesamostalnog rada koje nisu navedene u stavku 1., student ili pripravnik iz stavka 1. će osim toga imati i pravo, za vrijeme takvog obrazovanja ili usavršavanja, na ista oslobođenja, olakšice ili ograničenja u odnosu na poreze koji su dostupni rezidentima države ugovornice koju posjećuje.
