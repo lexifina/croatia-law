@@ -1,0 +1,3 @@
+# Članak 1.
+U Uredbi o osnivanju Državne škole za javnu upravu (»Narodne novine«, br. 144/10, 62/12, 112/12 i 72/15) članak 4. mijenja se i glasi:
+»Djelatnost Državne škole je stručno osposobljavanje i usavršavanje državnih dužnosnika, državnih službenika, javnih službenika i zaposlenika u pravnim osobama s javnim ovlastima, izabranih dužnosnika i službenika u tijelima lokalne i područne (regionalne) samouprave te obrazovanje odraslih, s ciljem trajnog podizanja razine i kvalitete njihovog znanja, vještina i sposobnosti, radi oblikovanja profesionalnog, djelotvornog i učinkovitog javnog sektora koji će pružati pravodobne i kvalitetne javne usluge, u skladu s najboljim općeprihvaćenim standardima.«.
