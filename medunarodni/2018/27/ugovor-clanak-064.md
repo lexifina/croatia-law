@@ -1,0 +1,5 @@
+# Članak 64.
+INFORMACIJE
+1. Stranka kojoj je upućen zahtjev će odmah obavijestiti stranku koja je uputila takav zahtjev o konačnom ishodu aktivnosti koja je poduzeta u skladu s ovim poglavljem. Zamoljena stranka također odmah obavješćuje stranku moliteljicu o svim okolnostima koje čine nemogućom provedbu tražene aktivnosti ili ju mogu značajno odgoditi.
+2. Stranka može, u granicama svojeg unutarnjeg prava, bez prethodnog zahtjeva, proslijediti drugoj stranci informacije do kojih je došla u okviru vlastitih istraga kad smatra da objavljivanje takvih informacija može pomoći stranci primateljici u sprečavanju kaznenih djela utvrđenih u skladu s ovom Konvencijom ili u pokretanju ili provođenju istraga ili postupaka koji se odnose na takva kaznena djela ili da mogu dovesti do zahtjeva za suradnjom od strane te stranke u skladu s ovim poglavljem.
+3. Stranka koja primi bilo kakve informacije u skladu sa stavkom 2. proslijedit će te informacije svojim nadležnim tijelima kako bi se mogli pokrenuti postupci, ukoliko se to procijeni primjerenim, ili kako bi se te informacije mogle uzeti u obzir u odgovarajućim građanskim i kaznenim postupcima.

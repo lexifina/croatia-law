@@ -1,0 +1,4 @@
+# Članak 42.
+NEPRIHVATLJIVA OPRAVDANJA ZA KAZNENA DJELA, UKLJUČUJUĆI I KAZNENA DJELA POČINJENA U IME TAKOZVANE »ČASTI«
+1. Stranke će poduzeti potrebne zakonodavne ili druge mjere kako bi osigurale da se, u pokrenutim kaznenim postupcima zbog počinjenja bilo kojeg djela nasilja obuhvaćenog područjem primjene ove Konvencije, kultura, običaji, vjera, tradicija ili takozvana »čast« neće smatrati opravdanjem za takva djela. Ovo osobito obuhvaća tvrdnje da je žrtva prekršila kulturne, vjerske, društvene ili tradicionalne norme ili običaje prikladnog ponašanja.
+2. Stranke će poduzeti potrebne zakonodavne ili druge mjere kako bi osigurale da poticanje djeteta od strane bilo koje osobe na počinjenje bilo kojeg od djela navedenih u stavku 1. neće umanjiti kaznenu odgovornost te osobe za počinjena djela.

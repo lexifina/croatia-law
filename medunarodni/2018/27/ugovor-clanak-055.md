@@ -1,0 +1,4 @@
+# Članak 55.
+POSTUPCI EX PARTE I EX OFFICIO
+1. Stranke će osigurati da istrage ili progon kaznenih djela, utvrđenih u skladu s člancima 35., 36., 37., 38. i 39. ove Konvencije, ne smiju ovisiti u potpunosti o prijavi ili pritužbi koju je podnijela žrtva, ako je kazneno djelo počinjeno u cijelosti ili djelomično na njihovom državnom području, te da se postupak može nastaviti čak i ako žrtva povuče svoju izjavu ili pritužbu.
+2. Stranke će poduzeti potrebne zakonodavne ili druge mjere kako bi osigurale, u skladu s uvjetima predviđenim njihovim unutarnjim pravom, mogućnost da vladine i nevladine organizacije te savjetnici za nasilje u obitelji pomognu i/ili pruže potporu žrtvama, na njihov zahtjev, tijekom istraga i sudskih postupaka vezanih uz kaznena djela utvrđena u skladu s ovom Konvencijom.

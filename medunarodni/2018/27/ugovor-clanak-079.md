@@ -1,0 +1,5 @@
+# Članak 79.
+VAŽENJE I PREGLED REZERVI
+1. Rezerve iz članka 78. stavaka 2. i 3. bit će valjane za razdoblje od pet godina od dana stupanja na snagu ove Konvencije u odnosu na stranku koje se tiču. Međutim, takve se rezerve mogu obnoviti na razdoblja jednakog trajanja.
+2. Osamnaest mjeseci prije datuma isteka rezerve, Glavno tajništvo Vijeća Europe obavijestit će dotičnu stranku o tom isteku. Najkasnije tri mjeseca prije isteka stranka će obavijestiti glavnog tajnika da zadržava, mijenja ili povlači svoju rezervu. U nedostatku obavijesti odnosne stranke, Glavno tajništvo će obavijestiti tu stranku da se njezina rezerva smatra automatski produljenom na razdoblje od šest mjeseci. Propust odnosne stranke da obavijesti o svojoj namjeri da zadrži ili preinači rezervu prije isteka tog razdoblja dovodi do prestanka rezerve.
+3. Ukoliko stranka stavi rezervu u skladu s člankom 78. stavcima 2. i 3., dužna je, prije obnove ili na zahtjev, dostaviti GREVIO-u objašnjenje o osnovama koje opravdavaju njezino produljenje.

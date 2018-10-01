@@ -1,0 +1,5 @@
+# Članak 77.
+TERITORIJALNA PRIMJENA
+1. Svaka država ili Europska unija mogu, u vrijeme potpisivanja ili prilikom polaganja svoje isprave o ratifikaciji, prihvatu, odobrenju ili pristupu, navesti područje ili područja na kojima se primjenjuje ova Konvencija.
+2. Svaka stranka može, u bilo kojem naknadnom trenutku, izjavom upućenom glavnom tajniku Vijeća Europe, proširiti primjenu ove Konvencije na bilo koji drugo područje određeno u izjavi i za čije je međunarodne odnose ona odgovorna ili u čije ime je ovlaštena poduzimati mjere. U pogledu takvog područja, Konvencija stupa na snagu prvog dana mjeseca koji slijedi nakon isteka razdoblja od tri mjeseca nakon datuma na koji glavni tajnik primi takvu izjavu.
+3. Svaka izjava dana u skladu s prethodna dva stavka može se, u pogledu bilo kojeg područja navedenog u takvoj izjavi, povući obaviješću upućenom glavnom tajniku Vijeća Europe. Povlačenje stupa na snagu prvog dana mjeseca koji slijedi nakon isteka razdoblja od tri mjeseca nakon datuma na koji glavni tajnik primi takvu obavijest.
