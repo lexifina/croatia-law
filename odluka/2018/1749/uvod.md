@@ -1,0 +1,1 @@
+Na temelju članka 175. točke 2. Zakona o vodama (»Narodne novine«, br. 153/09, 63/11, 130/11, 56/13 i 14/14), a u vezi s člankom 107. Zakona o izmjenama i dopunama Zakona o vodama (»Narodne novine«, broj 46/18), Vlada Republike Hrvatske je na sjednici održanoj 4. listopada 2018. godine donijela

@@ -1,0 +1,1 @@
+Odluka o davanju koncesije društvu Cedevita d.o.o., za zahvaćanje voda namijenjenih za ljudsku potrošnju, uključujući mineralne vode, radi stavljanja na tržište u izvornom ili prerađenom obliku u bocama ili drugoj ambalaži
