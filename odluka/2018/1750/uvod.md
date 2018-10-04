@@ -1,0 +1,1 @@
+Na temelju članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/11, 119/14 i 93/16) i članka 4. stavka 3. Zakona o Središnjem registru osiguranika (»Narodne novine«, br. 159/13 i 39/18), Vlada Republike Hrvatske je na sjednici održanoj 4. listopada 2018. godine donijela
