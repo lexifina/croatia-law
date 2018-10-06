@@ -1,0 +1,1 @@
+Na temelju članka 32. stavka 4. Zakona o pravu na pristup informacijama (»Narodne novine«, br. 25/13 i 85/15), a u vezi s točkom 1.3.6.6. Nacionalnog programa reformi 2018., Vlada Republike Hrvatske je na sjednici održanoj 27. rujna 2018. godine donijela
