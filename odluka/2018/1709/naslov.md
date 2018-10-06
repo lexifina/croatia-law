@@ -1,0 +1,1 @@
+Odluka o obvezi provedbe prethodne (ex-ante) kontrole javnih nabava u okviru projekata koji se namjeravaju sufinancirati i sufinanciraju iz europskih strukturnih i investicijskih fondova u financijskom razdoblju 2014. - 2020.
