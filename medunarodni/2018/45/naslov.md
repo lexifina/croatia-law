@@ -1,0 +1,1 @@
+Zakon o potvrđivanju Provedbenog protokola između Vlade Republike Hrvatske i Vlade Ruske Federacije o provedbi sporazuma između Europske zajednice i Ruske Federacije o ponovnom prihvatu od 25. svibnja 2006. godine

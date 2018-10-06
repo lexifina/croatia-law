@@ -1,0 +1,8 @@
+# Članak 4.
+RAZGOVOR
+1. Ako stranka moliteljica ne može dostaviti niti jednu od isprava navedenih u Prilozima 2. i 3. Sporazuma, zamoljena stranka obavlja razgovor s osobom koju se treba ponovno prihvatiti na zahtjev stranke moliteljice, a koji se navodi u točki D zahtjeva za ponovni prihvat, s ciljem utvrđivanja njezina državljanstva.
+2. Razgovor s osobom koju se treba ponovno prihvatiti obavlja predstavnik središnjeg nadležnog tijela zamoljene stranke u diplomatskoj misiji ili konzularnom uredu države zamoljene stranke u državi stranke moliteljice.
+3. U odsutnosti predstavnika iz stavka 2. ovoga članka, razgovor obavljaju djelatnici diplomatske misije ili konzularnog ureda države zamoljene stranke u državi stranke moliteljice.
+4. Središnje nadležno tijelo zamoljene stranke obavještava središnje nadležno tijelo stranke moliteljice o rezultatima razgovora čim je prije moguće, a najkasnije 10 kalendarskih dana od datuma primitka zahtjeva za ponovni prihvat koji sadrži zahtjev za obavljanje razgovora.
+5. Rokovi za odgovor na zahtjev za ponovni prihvat iz stavka 4. ovoga članka počinju teći od datuma kad središnje nadležno tijelo zamoljene stranke pošalje informacije o rezultatima razgovora.
+6. Ako se razgovorom nije uspjelo utvrditi da osoba koju se treba ponovno prihvatiti ima državljanstvo države zamoljene stranke ili ako navedena osoba nije bila dovedena na razgovor, središnje nadležno tijelo zamoljene stranke odbit će zahtjev za ponovni prihvat koji sadrži zahtjev za obavljanje razgovora bez razmatranja, u roku od 10 kalendarskih dana od datuma primitka navedenog zahtjeva.
