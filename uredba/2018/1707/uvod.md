@@ -1,0 +1,1 @@
+Na temelju članka 36. stavka 6. Ustavnog zakona o pravima nacionalnih manjina (»Narodne novine«, br. 155/02, 47/10, 80/10 i 93/11), Vlada Republike Hrvatske je na sjednici održanoj 27. rujna 2018. godine donijela
