@@ -1,0 +1,2 @@
+# Članak 2.
+Ovaj Pravilnik sadrži zahtjeve Direktive (EU) 2016/1629 Europskog parlamenta i Vijeća od 14. rujna 2016. godine o utvrđivanju tehničkih zahtjeva za plovila unutarnje plovidbe, izmjeni Direktive 2009/100/EZ i stavljanju izvan snage Direktive 2006/87/EZ i Delegirane Direktive Komisije (EU) 2018/970 оd 18. travnja 2018. o izmjeni priloga II, III i V Direktive (EU) 2016/1629 Europskog parlamenta i Vijeća o utvrđivanju tehničkih zahtjeva za plovila unutarnje plovidbe.
