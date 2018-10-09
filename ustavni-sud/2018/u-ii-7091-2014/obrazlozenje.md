@@ -1,0 +1,17 @@
+O b r a z l o ž e n j e
+1. DIM-MES d.o.o. sa sjedištem u Drnišu i Obiteljsko poljoprivredno gospodarstvo Andreja Dečak Kovač iz Virovitice (u daljnjem tekstu: predlagatelji), koje zastupa Šime Savić, odvjetnik u Zagrebu, podnijeli su Ustavnom sudu prijedlog za pokretanje postupka za ocjenu suglasnosti s Ustavom i zakonom članka 16. Uredbe o izmjenama i dopunama Uredbe o kriterijima, mjerilima i postupku za odgodu plaćanja, obročnu otplatu duga te prodaju, otpis ili djelomičan otpis potraživanja ("Narodne novine" broj 94/14.; u daljnjem tekstu: Uredba1887).
+2. Članak 16. Uredbe1887 glasi:
+"Članak 16.
+Članci 33. do 35. brišu se."
+3. Iz prijedloga predlagatelja razvidno je da se razlozi za podnošenje prijedloga za ocjenu suglasnosti s Ustavom i zakonom osporenog članka 16. Uredbe1887 svode na primjenu odnosno neprimjenu brisanih odredaba Uredbe o kriterijima, mjerilima i postupku za odgodu plaćanja, obročnu otplatu duga te prodaju, otpis ili djelomičan otpis potraživanja ("Narodne novine" broj 52/13.; u daljnjem tekstu: Uredba1056) u pojedinačnim slučajevima predlagatelja. Tako u prijedlogu, između ostaloga, predlagatelji navode:
+"Posebno se napominje kako podnositelji imaju pravni interes za pokretanje ovog postupka ocjene suglasnosti odredaba 'nove' Uredbe o izmjenama i dopunama Uredbe o kriterijima, mjerilima i postupku za odgodu plaćanja, obročnu otplatu duga te prodaju, otpis ili djelomičan otpis potraživanja (NN 94/14) s Ustavom i zakonom iz razloga što su podnositelji sukladno čl. 33., 34. i 35. ranije Uredbe NN 52/13 podnijeli uredne zahtjeve za otpis kredita - potraživanja, i to za vrijeme važenja ranije Uredbe NN 52/13, a nadležno Ministarstvo financija i druga nadležna javnopravna tijela smatraju da se podnijeti zahtjevi imaju rješavati po novoj Uredbi NN 94/14 po kojoj su ukinuta ranija prava, što je potpuno suprotno i Ustavu i zakonima i međunarodnim ugovorima."
+4. Člankom 38. stavkom 1. Ustavnog zakona o Ustavnom sudu Republike Hrvatske ("Narodne novine" broj 99/99., 29/02. i 49/02. - pročišćeni tekst; u daljnjem tekstu: Ustavni zakon) propisano je:
+"Članak 38.
+Svaka fizička i pravna osoba ima pravo predložiti pokretanje postupka za ... ocjenu suglasnosti drugih propisa s Ustavom i zakonom."
+5. Člankom 32. Ustavnog zakona propisano je:
+"Članak 32.
+Ustavni sud će rješenjem odbaciti zahtjev, prijedlog i ustavnu tužbu ... kad ne postoje pretpostavke za odlučivanje o biti stvari."
+6. Nakon razmatranja navoda predlagatelja, Ustavni sud utvrdio je da predlagatelji osporavaju primjenu/neprimjenu brisanih članaka Uredbe1056 u konkretnim pojedinačnim slučajevima koji se vode pred Ministarstvom financija Republike Hrvatske.
+7. Ustavni sud ističe da, prema mjerodavnim odredbama Ustava, u postupku ustavnosudske ocjene suglasnosti drugih propisa s Ustavom i zakonom Ustavni sud nije nadležan ocjenjivati primjenu drugog propisa u postupcima pred sudovima i drugim državnim i inim tijelima koja imaju javne ovlasti. Primjena propisa u pojedinačnim slučajevima predmet je konkretne zaštite ljudskih prava i temeljnih sloboda koja se ostvaruje pred Ustavnim sudom u postupcima pokrenutim ustavnim tužbama.
+Navedeno stajalište Ustavni sud izrazio je u rješenju broj: U-I-1455/2001 od 24. studenoga 2004. ("Narodne novine" broj 175/04.), te u rješenjima broj: U-I-2823/2002 od 28. siječnja 2004. (www.usud.hr), broj: U-I-671/2001 od 24. svibnja 2005. (www.usud.hr) i dr.
+8. Stoga je na temelju članka 32. Ustavnog zakona riješeno kao u izreci.
