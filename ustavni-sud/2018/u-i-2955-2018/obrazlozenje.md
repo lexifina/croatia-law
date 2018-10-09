@@ -1,0 +1,32 @@
+O b r a z l o ž e n j e
+I. POSTUPAK PRED USTAVNIM SUDOM
+1. Ovršni zakon donio je na temelju članka 2. stavka 4. alineje 1. Ustava sedmi (7.) saziv Hrvatskog sabora na sjednici održanoj 21. rujna 2012. Proglasio ga je predsjednik Republike Hrvatske odlukom od 4. listopada 2012. Objavljen je u "Narodnim novinama" broj 112 od 11. listopada 2012., a stupio je na snagu 15. listopada 2012., osim članaka od 356. do 364. koji su stupili na snagu danom prijama Republike Hrvatske u punopravno članstvo Europske unije 1. srpnja 2013.
+1.1. Na dan donošenja ove odluke na snazi je Ovršni zakon s izmjenama i dopunama ("Narodne novine" broj 112/12., 25/13. - članak 101. Zakona o izmjenama i dopunama Zakona o parničnom postupku, 93/14., 55/16. - odluka USRH broj: U-I-2881/2014 i dr. i 73/17.).
+1.2. Prijedlog za pokretanje postupka za ocjenu suglasnosti s Ustavom članka 65. stavka 1. Ovršnog zakona podnijela je Kristina Rakuša, odvjetnica u Zagrebu (u daljnjem tekstu: predlagateljica). Smatra da je navedena odredba u nesuglasnosti s člancima 3. i 14. Ustava.
+1.3. Osporena odredba glasi:
+"Odgoda ovrhe na prijedlog ovršenika
+Članak 65.
+(1) Na prijedlog ovršenika sud može, ako ovršenik učini vjerojatnim da bi provedbom ovrhe trpio nenadoknadivu ili teško nadoknadivu štetu, ili ako učini vjerojatnim da je to potrebno da bi se spriječilo nasilje, u potpunosti ili djelomice odgoditi ovrhu:
+1. ako je protiv odluke na temelju koje je određena ovrha izjavljen pravni lijek, 2. ako je podnesen prijedlog za povrat u prijašnje stanje u postupku u kojemu je donesena odluka na temelju koje je određena ovrha ili prijedlog za ponavljanje postupka,
+3. ako je podnesena tužba za poništaj presude izbranoga suda na temelju koje je određena ovrha,
+4. ako je podnesena tužba za stavljanje izvan snage nagodbe ili javnobilježničke isprave na temelju koje je dopuštena ovrha ili tužba za utvrđenje njezine ništavosti,
+5. ako je ovršenik protiv rješenja o ovrsi izjavio žalbu iz članaka 52. ili 53. ovoga Zakona ili podnio tužbu iz članaka 52. ili 55. ovoga Zakona,
+6. ako je ovršenik izjavio žalbu protiv rješenja kojim je potvrđena ovršnost ovršne isprave, odnosno ako je podnio prijedlog za ponavljanje postupka u kojemu je to rješenje doneseno,
+7. ako ovršenik ili sudionik u postupku zahtijeva otklanjanje nepravilnosti pri provedbi ovrhe,
+8. ako ovrha, prema sadržaju ovršne isprave, ovisi o istodobnom ispunjenju neke obveze ovrhovoditelja, a ovršenik je uskratio ispunjenje svoje obveze zato što ovrhovoditelj nije ispunio svoju obvezu niti je pokazao spremnost da je istodobno ispuni,
+9. ako je Vlada Republike Hrvatske proglasila katastrofu sukladno propisu kojim se uređuje sustav zaštite i spašavanja građana, materijalnih i drugih dobara u katastrofama i velikim nesrećama, a ovršenik je na dan donošenja odluke o proglašenju katastrofe imao prebivalište ili sjedište i obavljao djelatnost na području za koje je proglašena katastrofa,
+10. ako se vodi kazneni postupak po službenoj dužnosti u vezi s tražbinom zbog čijeg se prisilnog ostvarenja vodi ovršni postupak.
+(...)"
+2. Iz prijedloga je razvidno da se razlozi za ocjenu suglasnosti s Ustavom i zakonom osporene odredbe Ovršnog zakona odnose na tumačenje i primjenu te norme u praksi. Predlagateljica tako ističe:
+"Pregledom sudske prakse vidljivo je da se predmetna odredba često tumači na način da ide na štetu osoba sa slabijom imovinskom situacijom (ovrhovoditelja) te se pogoduje osobama koje se nalaze u povoljnijoj imovinskoj situaciji (ovršenika)."
+Predlagateljica opisuje situacije u kojima su ovrhovoditelji banke te sudovi u takvim predmetima često donose rješenja o odgodi ovrhe (radi zaštite ovršenika) iako u prijedlozima nije navedena vjerojatnost postojanja nenadoknadive ili teško naknadive štete (posebno u situaciji kad je podnesena revizija). Posebno upozorava na postupanje Općinskog suda u Karlovcu, Stalne službe u Ogulinu u predmetu broj: Ovr-1303/17 i Županijskog suda u Bjelovaru u predmetu broj: Gž-151/07 te citira dijelove odluka tih sudova, koji su za predlagateljicu neprihvatljivi.
+3. Člankom 38. stavkom 1. Ustavnog zakona o Ustavnom sudu Republike Hrvatske ("Narodne novine" broj 99/99., 29/02. i 49/02. - pročišćeni tekst; u daljnjem tekstu: Ustavni zakon) propisano je:
+"Članak 38.
+Svaka fizička i pravna osoba ima pravo predložiti pokretanje postupka za ... ocjenu suglasnosti drugih propisa s Ustavom i zakonom."
+3.1. Člankom 32. Ustavnog zakona propisano je:
+"Članak 32.
+Ustavni sud će rješenjem odbaciti zahtjev, prijedlog i ustavnu tužbu ... i u drugim slučajevima kad ne postoje pretpostavke za odlučivanje o biti stvari."
+4. Ustavni sud utvrđuje da predlagateljica u prijedlogu nije navela ustavnopravno relevantne razloge zbog kojih bi trebalo pokrenuti postupak za ocjenu suglasnosti s Ustavom osporene odredbe Ovršnog zakona. Nakon razmatranja navoda Ustavni sud utvrdio je da predlagateljica osporava primjenu i tumačenje osporene odredbe u konkretnim ovršnim postupcima, uz davanje prijedloga na koji bi se način osporena odredba trebala tumačiti kako bi takvo tumačenje bilo sukladno s člankom 3. Ustava. Takve tvrdnje ne predstavljaju ustavnopravnu argumentaciju iz koje bi bilo moguće razlučiti na koji to točno način osporavana odredba nije u suglasnosti s odredbama Ustava koje su navedene u prijedlogu. Navodi ove vrste ne sadrže dovoljnu pravnu preciznost koja je pretpostavka učinkovitom ustavnom sudovanju. Kada bi prihvatio postupanje na temelju prijedloga koji počiva na ovoj vrsti navoda Ustavni sud bi de factopreuzeo zadaću predlagateljice. To nije primjereno ulozi Ustavnog suda kada postupa po prijedlogu podnesenom na temelju članka 38. stavka 1. Ustavnog zakona.
+5. U odnosu na navode kojima predlagateljica opisuje konkretan slučaj, Ustavni sud ističe da, prema mjerodavnim odredbama Ustava, u postupku ustavnosudske ocjene suglasnosti drugih propisa s Ustavom i zakonom Ustavni sud nije nadležan ocjenjivati primjenu drugog propisa u postupcima pred sudovima i drugim državnim i inim tijelima koja imaju javne ovlasti. Primjena propisa u pojedinačnim slučajevima predmet je konkretne zaštite ljudskih prava i temeljnih sloboda koja se ostvaruje pred Ustavnim sudom u postupcima pokrenutim ustavnim tužbama.
+Navedeno stajalište Ustavni sud izrazio je u rješenju broj: U-I-1455/2001 od 24. studenoga 2004. ("Narodne novine" broj 175/04.), te u rješenjima broj: U-I-2823/2002 od 28. siječnja 2004., broj: U-I-671/2001 od 24. svibnja 2005. i dr.
+6. Stoga je na temelju članka 32. Ustavnog zakona riješeno kao u izreci.
