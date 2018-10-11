@@ -1,0 +1,1 @@
+Na temelju članka 5., a u vezi s člankom 21. Zakona o slobodnim zonama (»Narodne novine«, br. 44/96, 78/99, 127/00, 92/05, 85/08 i 148/13), Vlada Republike Hrvatske je na sjednici održanoj 11. listopada 2018. godine donijela
