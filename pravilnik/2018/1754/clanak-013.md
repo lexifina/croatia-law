@@ -1,0 +1,6 @@
+## Evidencije o financijskim instrumentima klijenata
+# Članak 13.
+(1) Financijski instrumenti klijenata pohranjeni kod investicijskog društva ili kod treće strane vode se u pravilu u ime društva, a za račun klijenta ili klijenata.
+(2) Iznimno, financijski instrumenti klijenata pohranjenih kod treće strane, mogu se voditi i na ime:
+1. treće strane, ali samo ako se radi o financijskim instrumentima koji su predmet nacionalnog zakonodavstva treće države, a investicijsko društvo je poduzelo sve razumne korake da utvrdi da je takav način registracije financijskih instrumenata u najboljem interesu klijenata ili ako se registracija ne može provesti na drugi način radi nacionalnog zakonodavstva ili priznatih tržišnih praksa, ako su ispunjeni uvjeti iz članka 11. ovoga Pravilnika,
+2. investicijskog društva, ali samo ako se radi o financijskim instrumentima koji su predmet nacionalnog zakonodavstva treće države, a investicijsko društvo je poduzelo sve razumne korake da utvrdi da je takav način registracije financijskih instrumenata u najboljem interesu klijenata ili ako se registracija ne može provesti na drugi način radi nacionalnog zakonodavstva ili priznatih tržišnih praksa, ako su ispunjeni uvjeti iz članka 11. ovoga Pravilnika.

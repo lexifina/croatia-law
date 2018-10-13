@@ -1,0 +1,1 @@
+Na temelju odredbi članaka 34. stavka 9., 54. stavka 7., 56. stavka 4., 73. stavka 2., 76. stavka 6., 81. stavka 5., 91. stavka 6., članka 110. stavka 6., članka 115. i članka 177. stavka 5. Zakona o tržištu kapitala (»Narodne novine« broj 65/2018), Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća 25. rujna 2018. godine donosi
