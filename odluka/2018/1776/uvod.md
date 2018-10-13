@@ -1,0 +1,1 @@
+Na temelju članka 15. stavka 3. Zakona o morskom ribarstvu (»Narodne novine«, broj 62/17) u vezi s člankom 5. stavka 10. Pravilnika o ribolovnim mogućnostima i kriterijima raspodjele državne kvote i trajne individualne kvote u 2018. godini za ribolov plavoperajne tune (Thunnus thynnus) (»Narodne novine«, br. 8/18 i 49/18), ministar poljoprivrede donosi
