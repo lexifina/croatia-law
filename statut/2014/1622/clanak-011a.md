@@ -1,0 +1,3 @@
+# Članak 11.a.
+U Samostalnoj službi informatičko tehničke podrške obavljaju se sljedeći poslovi: upravljanje informacijsko-komunikacijskim sustavom REGOS-a, informatičko-tehnička podrška, projektiranje i informatizacije definiranih poslovnih procesa u suradnji s outsourcing partnerima, upravljanje informatičkim projektima i održavanja pristupne točke za elektroničku razmjenu podataka u sustavu socijalne sigurnosti.
+Odredbom članka 3. Izmjena i dopune Statuta Središnjeg registra osiguranika (»Narodne novine«, broj 91/18) stupile na snagu 13. listopada 2018. godine, iza članka 11. dodan je članak 11.a.

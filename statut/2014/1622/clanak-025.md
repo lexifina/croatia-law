@@ -9,5 +9,6 @@ Ravnatelj REGOS-a obavlja sljedeće poslove:
 - predlaže rješenja i daje mišljenja Upravnom vijeću o pojedinim pitanjima značajnim za organizaciju i poslovanje REGOS-a,
 - predlaže Upravnom vijeću, uz prethodnu suglasnost ministra nadležnog za mirovinski sustav, imenovanje i razrješenje pomoćnika ravnatelja,
 - odlučuje o zasnivanju i prestanku radnog odnosa zaposlenika u skladu sa zakonom,
-- odlučuje o pravima iz radnog odnosa u prvom stupnju te
+- odlučuje o pravima iz radnog odnosa te
+Odredbom članka 6. Izmjena i dopune Statuta Središnjeg registra osiguranika (»Narodne novine«, broj 91/18) stupile na snagu 13. listopada 2018. godine, podstavak 10. članka 25. je izmijenjen.
 - obavlja i druge poslove sukladno posebnom propisu i općim aktima REGOS-a.

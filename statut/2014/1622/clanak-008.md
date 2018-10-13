@@ -20,7 +20,8 @@ Poslovi REGOS-a su:
 18. elektronička razmjena i dostava podataka iz registra institucijama u području socijalne sigurnosti na razini Republike Hrvatske,
 19. elektronička razmjena i dostava podataka prikupljenih od institucija Republike Hrvatske u sustavu socijalne sigurnosti na razini Europske unije, odnosno obavljanje poslova pristupne točke za EESSI (elektroničku razmjenu podataka s institucijama u sustavu socijalne sigurnosti) temeljem uredbi Europske unije o koordinaciji sustava socijalne sigurnosti,
 20. obavljanje poslova nadležne ustanove i tijela za vezu prema uredbama Europske unije o koordinaciji sustava socijalne sigurnosti i odluka donesenih temeljem tih uredbi,
-21. raspored nepovezanih uplata doprinosa za mirovinsko osiguranje temeljem individualne kapitalizirane štednje po osiguranicima u slučaju kada je obveznik podnošenja prestao postojati i nema pravnog sljednika,
+21. raspored nepovezanih uplata doprinosa za mirovinsko osiguranje temeljem individualne kapitalizirane štednje po osiguranicima sukladno posebnom propisu,
+Odredbom članka 1. Izmjena i dopune Statuta Središnjeg registra osiguranika (»Narodne novine«, broj 91/18) stupile na snagu 13. listopada 2018. godine, točka 21. članka 8. je izmijenjena.
 22. međuinstitucionalna suradnja razmjenom i dostavom podataka s javnopravnim tijelima, tijelima sudbene vlasti i drugim korisnicima kada su isti za to ovlašteni propisom ili imaju suglasnost osobe na koju se ti podaci odnose,
 23. propisivanje obrasca i sloga za podnošenje dokumentacije sukladno posebnom propisu
 24. donošenje provedbenih propisa kada je za isto ovlašten zakonom

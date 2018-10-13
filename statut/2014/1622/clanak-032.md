@@ -6,4 +6,4 @@ Upravno vijeće razriješit će pomoćnika ravnatelja prije isteka mandata, na p
 - ako svojim nesavjesnim ili nepravilnim radom prouzroči REGOS-u štetu ili ako zanemaruje ili nesavjesno obavlja svoje dužnosti te su time nastale ili mogu nastati veće smetnje u obavljanju poslova REGOS-a te,
 - ako postoji drugi važan razlog za razrješenje.
 Razriješeni pomoćnik ravnatelja, koji nije ponovno imenovan, a koji je prije imenovanja bio zaposlen u Središnjem registru osiguranika na neodređeno vrijeme, ima pravo povratka na poslove koje je obavljao prije imenovanja ili druge odgovarajuće poslove, bez provedbe javnog natječaja.
-Odredbom članka 2. Dopuna statuta Središnjeg registra osiguranika (»Narodne novine«, broj 62/17) stupile na snagu 1. srpnja 2017., članak 32. je dopunjen.
+Odredbom članka 2. Dopuna statuta Središnjeg registra osiguranika (»Narodne novine«, broj 62/17) stupile na snagu 1. srpnja 2017, članak 32. je dopunjen.
