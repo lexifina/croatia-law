@@ -1,0 +1,1 @@
+Na temelju članka 4. stavka 3. Zakona o Središnjem registru osiguranika (»Narodne novine«, broj 159/13 i 39/18) i članka 54. stavka 1. Zakona o ustanovama (»Narodne novine«, broj 76/93, 29/97, 47/99 i 35/08), Upravno vijeće Središnjeg registra osiguranika, na 157. sjednici održanoj 20. lipnja 2018. godine donijelo je
