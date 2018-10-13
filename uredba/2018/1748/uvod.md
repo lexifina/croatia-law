@@ -1,0 +1,1 @@
+Na temelju članka 15. stavka 2. Zakona o sustavu strateškog planiranja i upravljanja razvojem Republike Hrvatske (»Narodne novine«, broj 123/17), Vlada Republike Hrvatske je na sjednici održanoj 4. listopada 2018. godine donijela

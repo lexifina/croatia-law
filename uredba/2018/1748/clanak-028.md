@@ -1,0 +1,7 @@
+## Postojeći akti strateškog planiranja
+# Članak 28.
+(1) Središnja tijela državne uprave i jedinice lokalne i područne (regionalne) samouprave moraju uskladiti sve akte strateškog planiranja od nacionalnog značaja i od značaja za jedinice lokalne i područne (regionalne) samouprave, a koji su usvojeni i/ili doneseni prije stupanja na snagu Zakona i podrazumijevaju razdoblje provedbe nakon 31. prosinca 2020. godine, s ovom Uredbom i odredbama Zakona ili ih staviti izvan snage do 31. prosinca 2020. godine.
+(2) Koordinacijsko tijelo će surađivati s nadležnim središnjim tijelima državne uprave radi utvrđivanja popisa akata strateškog planiranja od nacionalnog značaja koji će biti predmetom usklađivanja sukladno stavku 1. ovoga članka.
+(3) Akt strateškog planiranja koji se značajno mijenja, sukladno stavku 1. ovoga članka, mora biti ponovno poslan na usvajanje Vladi i/ili jedinicama lokalne i područne (regionalne) samouprave.
+(4) Koordinacijsko tijelo će pripremiti i dostaviti Vladi popis akata strateškog planiranja od nacionalnog značaja koje je potrebno revidirati ili staviti izvan snage do 31. prosinca 2020. godine.
+(5) Regionalni i lokalni koordinatori će pripremiti i dostaviti Koordinacijskom tijelu i izvršnim tijelima jedinica lokalne i područne (regionalne) samouprave popis akata strateškog planiranja od značaja za te jedinice lokalne i područne (regionalne) samouprave koje je potrebno revidirati ili staviti izvan snage do 31. prosinca 2020. godine.
