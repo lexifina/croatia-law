@@ -1,0 +1,2 @@
+# Članak 6.
+Danom stupanja na snagu ovoga Pravilnika prestaje važiti Pravilnik o tehničkim uvjetima i postupku prilagodbe Zakonu o provedbi ovrhe na novčanim sredstvima (»Narodne novine«, br. 96/10, 130/10, 99/11 i 6/13), osim odredbi Priloga 1 koje se odnose na način razmjene poruka, strukturu, format i sadržaj poruka kojima se razmjenjuju nalozi i podaci između Agencije i banke i odredbi Priloga 2, koje ostaju na snazi do stupanja na snagu upute iz članka 2. stavka 2. ovoga Pravilnika.
