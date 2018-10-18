@@ -1,0 +1,4 @@
+# Članak 2.
+U članku 12. stavci 2. i 3. mijenjaju se i glase:
+»Rješenjem iz stavka 1. ovoga članka za nepokretno kulturno dobro obvezno se utvrđuju granice kulturnoga dobra koje se zaštićuje, a dostavlja se nadležnom katastru i općinskom sudu radi zabilježbe u katastru i zemljišnoj knjizi svojstva kulturnoga dobra na katastarskim česticama utvrđenim ovim rješenjem te lučkoj kapetaniji kada se rješenje o utvrđivanju svojstva kulturnoga dobra odnosi na podvodno arheološko nalazište.
+Iznimno od stavka 2. ovoga članka, granice kulturnog krajolika mogu se odrediti opisno (vodotoci, ceste, pruge i drugo) kada je to provedivo u prostornom planu, granice podvodnih arheoloških nalazišta georeferenciranim točkama/koordinatama, a granice podmorskih arheoloških nalazišta georeferentnim točkama u WGS 84 koordinatnom sustavu, o čemu se rješenje dostavlja katastru.«.
