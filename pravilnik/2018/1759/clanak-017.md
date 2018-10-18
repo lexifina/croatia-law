@@ -1,0 +1,6 @@
+# Članak 17.
+(1) Po objavi obavijesti o izlaganju na javni uvid podataka katastarske izmjere, osobama koje su u elaboratu katastarske izmjere, odnosno tehničke reambulacije, iskazane kao nositelji prava na nekretninama dostavlja se obavijest s prikupljenim katastarskim podatcima na predočenje (u daljnjem tekstu: obavijest) čiji je sastavni dio izvod iz Baze podataka izlaganja.
+(2) Obavijest iz stavka 1. ovoga članka dostavlja se nositeljima prava koji su u postupku izrade elaborata katastarske izmjere potpisali Izvješće o međama ili kojima su predočeni podatci elaborata katastarske izmjere odnosno nositeljima prava za koje Povjerenstvo utvrdi da su istovjetni onim upisanim u zemljišnim knjigama.
+(3) Na podatke sadržane u obavijesti iz stavka 1. ovoga članka može se izjaviti prigovor propisan zakonom o državnoj izmjeri i katastru nekretnina.
+(4) Obavijest iz stavka 1. ovoga članka obavezno sadrži ime katastarskoga ureda, klasifikacijsku oznaku, urudžbeni broj, mjesto i datum obavijesti, ime i prezime odnosno naziv osobe kojoj se podatci predočavaju.
+(5) Uz obavijest iz stavka 1. ovoga članka obavezno se dostavlja izvod iz Baze podataka izlaganja (kopija popisnog lista i kopija katastarskoga plana).

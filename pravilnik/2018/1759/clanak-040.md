@@ -1,0 +1,6 @@
+# Članak 40.
+(1) Ukoliko se iskaz promjena temelji na podatcima iz geodetskih elaborata iz članka 9. ovoga Pravilnika, u napomenu će se upisati broj elaborata i godina elaborata te: »Geodetski elaborat katastra zemljišta«.
+(2) Ukoliko se iskaz temelji na tehničkom ispravku iz članka 22. stavka 4. ovoga Pravilnika, u iskaz promjena će se upisati redni broj dopunske skice izmjere/godina promjene, a u napomenu: »Tehnički ispravak katastarskoga plana«.
+(3) Ukoliko se iskaz promjena temelji na tehničkom ispravku iz članka 22. stavka 6. ovoga Pravilnika u napomenu u iskazu promjena će se upisati: »Tehnički ispravak popisnog lista«.
+(4) Ukoliko se iskaz promjena temelji na prigovoru u skladu s člankom 34. stavkom 2. ovoga Pravilnika, u iskaz promjena će se upisati: redni broj prigovora, redni broj dopunske skice izmjere/godina promjene, a u napomenu: »Promjena podataka temeljem prigovora«.
+(5) Ukoliko se iskaz promjena temelji na prigovoru u okviru kojeg je obavljen terenski uviđaj iz članka 34. stavka 4. ovoga Pravilnika, u iskaz promjena će se upisati redni broj prigovora, redni broj dopunske skice izmjere/godina promjene, a u napomenu: »Promjena podataka temeljem izvješća o obavljenom terenskom uviđaju«.

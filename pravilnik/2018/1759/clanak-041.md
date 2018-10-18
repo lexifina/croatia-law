@@ -1,0 +1,5 @@
+# Članak 41.
+(1) Evidentiranje posebnih pravnih režima na katastarskim česticama u Bazi podataka izlaganja provodi se i u postupku izlaganja katastarskih podataka, na temelju službenih dokumenata kojima su ti posebni pravni režimi uspostavljeni kroz iskaz promjena.
+(2) Ukoliko je iskaz promjena iz stavka 1. ovoga članka sastavljen na temelju dokumenta o uspostavljanju posebnog pravnog režima, u iskaz promjena upisuje se redni broj pod kojim je dokument o uspostavljenom pravnom režimu pohranjen u zbirku isprava izlaganja.
+(3) Povjerenstvo putem identifikacija, utvrđuje jesu li svi podatci o posebnim pravnim režimima iskazani u katastarskom operatu katastra zemljišta, pridruženi odgovarajućim katastarskim česticama u Bazi podataka izlaganja i u tom smislu sastavlja iskaze promjena.
+(4) Iskazu promjena iz stavka 3. ovoga članka prilažu se kopije dokumenata o uspostavljenom pravnom režimu preuzete iz katastarskoga operata katastra zemljišta ukoliko iste postoje, te se pohranjuju u zbirku isprava izlaganja.
