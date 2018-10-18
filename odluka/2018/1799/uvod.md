@@ -1,0 +1,1 @@
+Na temelju članka 113. stavka 2. Zakona o obrani (»Narodne novine«, br. 73/13, 75/15, 27/16, 110/17 i 30/18) i uz prethodnu suglasnost ministra financija, te na temelju članka 139.a Zakona o službi u Oružanim snagama Republike Hrvatske (»Narodne novine«, br. 73/13, 75/15, 50/16 i 30/18), donosim
