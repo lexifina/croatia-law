@@ -1,0 +1,3 @@
+# Članak 5.
+U članku 6. mijenja se stavak 5. i sada glasi:
+»5) Središnja druga ugovorna strana iz članka 2. stavka 1. točke 5. ovog Pravilnika dužna je Hanfi platiti naknadu od 0,7‰ (tisućinki) računano od ukupno ostvarenih prihoda iz poslova poravnanja u smislu članka 535. stavka 1. ZTK i ukupno ostvarenih financijskih prihoda iz ulaganja vlastite imovine, osim prihoda ostvarenih od upravljanja kolateralom sudionika u sustavu poravnanja (članova središnje druge ugovorne strane), te 0,5‰ (tisućinki) na iznos vrijednosti kolaterala sudionika u sustavu poravnanja kojim središnja druga ugovorna strana upravlja«.
