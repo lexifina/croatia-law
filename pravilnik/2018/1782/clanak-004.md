@@ -1,0 +1,4 @@
+# Članak 4.
+Dodatno stručno usavršavanje prvostupnika medicinsko-laboratorijske dijagnostike u području citotehnologije je horizontalni oblik organiziranog stjecanja teorijskih i praktičnih stručnih znanja prema programima koji se izvode u zdravstvenim ustanovama i visokim učilištima u najduljem trajanju do godine dana.
+Potrebu za dodatnim stručnim usavršavanjem iz članka 1. ovoga Pravilnika Hrvatska komora zdravstvenih radnika - Strukovni razred za medicinsko-laboratorijsku djelatnost (HKZR - SR MLD) utvrđuje na temelju iskazanih potreba zdravstvenih ustanova ili stručnih udruga medicinsko-laboratorijske djelatnosti.
+Program dodatnog stručnog usavršavanja prvostupnika medicinsko-laboratorijske dijagnostike u području citodijagnostike tiskan je u Prilogu I, II i III ovoga Pravilnika i čini njegov sastavni dio.

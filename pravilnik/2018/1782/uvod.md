@@ -1,0 +1,1 @@
+Na temelju članka 60. stavka 1. Zakona o djelatnostima u zdravstvu (»Narodne novine« 87/09) i članka 21. stavka 1. Statuta Hrvatske komore zdravstvenih radnika, Vijeće Hrvatske komore zdravstvenih radnika donosi

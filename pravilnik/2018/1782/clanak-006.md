@@ -1,0 +1,4 @@
+# Članak 6.
+Program dodatnog usavršavanja prvostupnika medicinsko-laboratorijske dijagnostike u području citodijagnostike napravljen je na inicijativu Hrvatske komore zdravstvenih radnika, Strukovnog razreda za medicinsko-laboratorijsku djelatnost, Hrvatskog društva za kliničku citologiju i Hrvatske udruge citotehnologa.
+Plan provođenja programa dodatnog stručnog usavršavanja prvostupnika medicinsko-laboratorijske dijagnostike u području citotehnologije iz članka 4. ovog Pravilnika izrađuje obrazovna ustanova ili visoko učilište na kojem se provodi program, uz suglasnost Hrvatske komore zdravstvenih radnika - Strukovnog razreda za medicinsko-laboratorijsku djelatnost.
+Plan provođenja programa dodatnog stručnog usavršavanja sadrži obvezne i izborne kolegije i sastoji se od organizirane nastave, vježbi u kabinetu vještina, vježbi u zdravstvenim ustanovama te individualnog rada polaznika uz sudjelovanje predavača na određenom kolegiju.

@@ -1,0 +1,2 @@
+# Članak 8.
+Hrvatska komora zdravstvenih radnika - Strukovni razred za medicinsko-laboratorijsku djelatnost vrednuje dodatno stečene kompetencije, nakon dostavljene javne isprave o uspješnom završetku dodatnog stručnog usavršavanja iz članka 7. ovog Pravilnika, bodovanjem dodatnog stručnog usavršavanja prema Pravilniku o sadržaju, rokovima i postupku provjere stručnosti zdravstvenih radnika medicinsko-laboratorijske djelatnosti.
