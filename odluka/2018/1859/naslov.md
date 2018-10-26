@@ -1,0 +1,1 @@
+Odluka o davanju koncesije za posebnu upotrebu pomorskog dobra radi gradnje i korištenja građevine »Most kopno - otok Čiovo« s pristupnim cestama i TS 10-20/0.4 kV Čiovo-13 (most) s priključnim 20 kV kabelom
