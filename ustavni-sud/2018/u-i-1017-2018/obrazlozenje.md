@@ -1,0 +1,16 @@
+O b r a z l o ž e n j e
+1. Ankica Mrkšić iz Pule (u daljnjem tekstu: predlagateljica) uputila je Ustavnom sudu 13. ožujka 2018. podnesak kojim predlaže pokretanje postupka za ocjenu suglasnosti s Ustavom odredbe članka 63. stavka 1. alineje 3. Zakona o socijalnoj skrbi ("Narodne novine" broj 157/13., 152/14., 99/15., 52/16., 16/17. i 130/17.; u daljnjem tekstu: ZSS), a koja odredba glasi "- ima više vrsta teških oštećenja (tjelesnih, mentalnih, intelektualnih ili osjetilnih), zbog kojih je potpuno ovisno o pomoći i njezi druge osobe pri zadovoljavanju osnovnih životnih potreba". Predlagateljica u podnesku pogrešno navodi da je riječ o članku 64. ZSS-a.
+2. Predlagateljica smatra da je osporena odredba na način na koji glasi diskriminirajuća u odnosu na duševno bolesne osobe "koje imaju jednu vrstu teškog oštećenja", te zaključuje da su osobe s duševnim smetnjama diskriminirane jer "sve osobe duševno oboljele teško, gotovo nikako ne ostvaruju svoja prava, počevši od jednokratne pomoći, do tuđe njege, invalidnine", odnosno smatra da su "za razliku od drugih oboljelih koji imaju više vrsta teškog oštećenja diskriminirani, čak do te mjere da korisnici koji imaju pravo na status roditelj njegovatelj a djeca su im u stanju neke aktivnosti provoditi, (od uzimanja terapije, do bavljenja sportskim aktivnostima, te imaju pravo na asistente i sve ostalo) do druženja u udrugama, općenito više institucionalne brige, za koje su duševne oboljele osobe zakinute i diskriminirane".
+Ne postoje pretpostavke za odlučivanje o biti stvari.
+3. Člankom 38. stavkom 1. Ustavnog zakona o Ustavnom sudu Republike Hrvatske ("Narodne novine" broj 99/99., 29/02. i 49/02. - pročišćeni tekst; u daljnjem tekstu: Ustavni zakon) propisano je:
+"Članak 38.
+(1) Svaka fizička i pravna osoba ima pravo predložiti pokretanje postupka za ocjenu suglasnosti zakona s Ustavom ...
+(...)"
+4. Člankom 32. Ustavnog zakona propisano je:
+"Članak 32.
+Ustavni sud će rješenjem odbaciti zahtjev, prijedlog i ustavnu tužbu ... i u drugim slučajevima kad ne postoje pretpostavke za odlučivanje o biti stvari."
+5. Ustavni sud utvrđuje da predlagateljica u prijedlogu nije navela ustavnopravno relevantne razloge zbog kojih bi trebalo pokrenuti postupak za ocjenu suglasnosti s Ustavom osporenog članka 63. stavka 1. alineje 3. ZSS-a.
+Ustavni sud ističe da razlozi na kojima se temelji prijedlog za pokretanje postupka za ocjenu suglasnosti zakona s Ustavom moraju biti izneseni na precizan i razumljiv način odnosno u prijedlogu moraju biti navedeni konkretni razlozi koji u dovoljnoj mjeri ukazuju na sumnju da osporena odredba nije u suglasnosti s Ustavom, a kako bi Ustavni sud mogao procijeniti hoće li pokrenuti postupak za ocjenu suglasnosti osporene odredbe s Ustavom.
+Iz podnesenog prijedloga proizlazi da u njemu predlagateljica u stvari izražava svoje nezadovoljstvo određenom zakonskom odredbom, pri čemu upire na primjenu osporene odredbe, obrazlažući to tvrdnjom da osobe s duševnim smetnjama u primjeni odredaba ZSS-a teže ostvaruju određena prava.
+6. Polazeći od utvrđenja iznesenih u točki 5. obrazloženja ovog rješenja, Ustavni sud utvrđuje da u konkretnom slučaju ne postoje pretpostavke za odlučivanje o biti stvari.
+Stoga je na temelju članka 32. Ustavnog zakona riješeno kao u izreci.
