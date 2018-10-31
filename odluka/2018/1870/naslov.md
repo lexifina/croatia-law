@@ -1,0 +1,1 @@
+Odluka o davanju odobrenja Međimurskoj županiji, gradovima Prelogu i Ludbregu te Općini Domašinec za sudjelovanje u Europskoj grupaciji za teritorijalnu suradnju pod nazivom »Regija Mura - Europska grupacija za teritorijalnu suradnju s ograničenom odgovornošću« i odobrenju Konvencije
