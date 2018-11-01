@@ -1,0 +1,2 @@
+# Članak 83.
+Stupanjem na snagu ovoga Zakona prestaje važiti Zakon o oružju (»Narodne novine«, br. 63/07., 146/08. i 59/12.), Pravilnik o načinu postupanja policijskih službenika u postupku za izdavanje odobrenja za nabavu oružja fizičkoj osobi (»Narodne novine«, br. 33/08.), Pravilnik o vrstama i dozvoljenim kalibrima oružja za samoobranu (»Narodne novine«, br. 33/08.) i Pravilnik o vrstama i dozvoljenim kalibrima športskog oružja (»Narodne novine«, br. 35/08.).

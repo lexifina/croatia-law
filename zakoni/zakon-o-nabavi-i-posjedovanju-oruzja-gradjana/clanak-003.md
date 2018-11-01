@@ -1,0 +1,3 @@
+# Članak 3.
+(1) Posjedovati oružje prema odredbama ovoga Zakona mogu hrvatski državljani i državljani treće zemlje odnosno državljani države članice Europskoga gospodarskog prostora (u daljnjem tekstu: EGP) ili Švicarske Konfederacije koji u Republici Hrvatskoj borave na temelju odobrenja za privremeni ili stalni boravak i ispunjavaju uvjete iz članka 11. stavaka 2. i 3. ovoga Zakona, ako ovim Zakonom nije drugačije određeno.
+(2) Republika Hrvatska će o osobama koje u Republici Hrvatskoj posjeduju oružje izvijestiti državu članicu EGP-a ili Švicarsku Konfederaciju ako je osoba iz stavka 1. ovoga članka njihov državljanin.

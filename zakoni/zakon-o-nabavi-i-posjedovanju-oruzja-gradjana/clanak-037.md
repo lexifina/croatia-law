@@ -1,0 +1,6 @@
+# Članak 37.
+(1) Oružje se smije posuđivati samo osobama koje imaju oružni list za takvu vrstu oružja ili odobrenje za nabavu takve vrste oružja ili strancu kojem je izdana lovačka iskaznica za stranca, bez obzira na marku, model i kalibar oružja.
+(2) Osobe iz stavka 1. ovoga članka smiju posuđeno oružje nositi, prenositi i za njega nabavljati streljivo uz svoj oružni list i presliku oružnog lista izdanog za posuđeno oružje osobi koja je oružje posudila.
+(3) Iznimno od stavka 1. ovoga članka, sportske streljačke organizacije i sportske streličarske organizacije mogu posuđivati oružje svojim članovima, ali su prije posuđivanja oružja dužne obavijestiti policijsku upravu odnosno policijsku postaju ministarstva nadležnog za unutarnje poslove na čijem području imaju sjedište koja će provjeriti ispunjava li član sportske streljačke organizacije ili član sportske streličarske organizacije uvjete iz članka 11. stavka 2. ovoga Zakona.
+(4) Ako član sportske streljačke organizacije ili član sportske streličarske organizacije ispunjava uvjete iz članka 11. stavka 2. ovoga Zakona, sportska streljačka organizacija ili sportska streličarska organizacija će mu o posuđivanju oružja izdati potvrdu, a ako ne ispunjava uvjete, sportska streljačka organizacija mu ne smije posuđivati oružje.
+4. Gubitak, krađa i pronalaženje oružja, streljiva i isprava o oružju

@@ -1,0 +1,3 @@
+# Članak 49.
+(1) Oružje, streljivo i isprave o oružju nadležno tijelo privremeno će oduzeti odmah, i prije pokretanja upravnog, prekršajnog i kaznenog postupka, ako se radi o okolnostima koje ukazuju da bi oružje moglo biti zlouporabljeno, a osobito češće i prekomjerno uživanje alkohola, konzumacija opojnih droga ili drugih omamljujućih sredstava, poremećeni obiteljski odnosi te poduzimanju hitnih mjera radi zaštite od nasilja u obitelji ili zbog zaštite javnog poretka, koje se ne mogu odgađati, a činjenice na kojima treba biti utemeljeno rješenje utvrđene su ili barem učinjene vjerojatnim.
+(2) Nadležno tijelo izdat će potvrdu o privremeno oduzetom oružju, streljivu, odobrenju za nabavu oružja, oružnom listu i odobrenju za sakupljanje oružja kategorije B i C.

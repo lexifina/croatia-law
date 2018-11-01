@@ -1,0 +1,3 @@
+# Članak 18.
+(1) Policijski službenici ministarstva nadležnog za unutarnje poslove, pripadnici Oružanih snaga Republike Hrvatske i djelatne vojne osobe na službi izvan Oružanih snaga, pravosudne policije i pripadnici drugih državnih tijela koji su prema posebnim propisima ovlašteni držati i nositi oružje, postojanje posebnih uvjeta iz članka 11. stavka 3. ovoga Zakona dokazuju odgovarajućom potvrdom, ispravom ili iskaznicom koju je izdalo nadležno državno tijelo u kojem su zaposleni.
+(2) Zaštitari koji su prema posebnim propisima ovlašteni držati i nositi oružje postojanje posebnih uvjeta iz članka 11. stavka 3. ovoga Zakona dokazuju dopuštenjem za obavljanje poslova privatne zaštite.

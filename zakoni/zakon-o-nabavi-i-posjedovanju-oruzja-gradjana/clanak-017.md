@@ -1,0 +1,5 @@
+# Članak 17.
+Postojanje posebnog uvjeta raspolaganja tehničkim znanjem i vještinom za pravilnu uporabu oružja i poznavanja propisa koji se odnose na posjedovanje oružja iz članka 11. stavka 3. točke 2. ovoga Zakona podnositelj zahtjeva dokazuje:
+– za oružje kategorije B koje nabavlja radi bavljenja lovom – uvjerenjem o položenom lovačkom ispitu ili lovačkom iskaznicom, izdanima sukladno posebnom propisu o lovstvu
+– za oružje kategorije B koje nabavlja radi bavljenja sportskim streljaštvom – potvrdom krovne organizacije koja vodi evidenciju svojih članova izdanom članu sportske streljačke organizacije ili kluba koji se aktivno bavi ili natječe u streljaštvu
+– za oružje kategorije B koje nabavlja radi osobne sigurnosti – potvrdom o osposobljenosti za posjedovanje i pravilnu uporabu oružja koju izdaje nadležna ustrojstvena jedinica ministarstva nadležnog za unutarnje poslove ili ustanova i druga pravna osoba ili obrt koji imaju odobrenje ministarstva nadležnog za unutarnje poslove za obavljanje djelatnosti osposobljavanja građana za pravilnu uporabu vatrenog oružja.

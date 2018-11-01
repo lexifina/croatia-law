@@ -1,0 +1,13 @@
+# Članak 26.
+(1) Nadležno tijelo izdat će odobrenje za sakupljanje oružja kategorije B kolekcionaru koji ispunjava opće uvjete iz članka 11. stavka 2. točaka 2., 3., 4. i 5. ovoga Zakona i posebne uvjete iz članka 11. stavka 3. ovoga Zakona.
+(2) Nadležno tijelo izdat će odobrenje za sakupljanje oružja kategorije C kolekcionaru koji ispunjava opće uvjete iz članka 11. stavka 2. točaka 2., 3., 4. i 5. ovoga Zakona.
+(3) Kolekcionari iz stavaka 1. i 2. ovoga članka moraju svako oružje koje nabave u svrhu sakupljanja prijaviti nadležnom tijelu u roku od osam dana od dana nabave, a nadležno tijelo će im o tome izdati potvrdu.
+(4) Oružje iz stavaka 1. i 2. ovoga članka koje je nabavljeno u svrhu sakupljanja oružja ne smije se nositi, upotrebljavati niti se za njega smije nabavljati i puniti streljivo, a smije se prenositi samo u svrhu popravka, prepravka i izlaganja na izložbama ili sličnim manifestacijama.
+(5) Oružje sakupljeno na temelju odobrenja iz stavka 1. ovoga članka može se prodati ili predati samo osobama kojima je izdano odobrenje za sakupljanje oružja kategorije B ili odobrenje za nabavu oružja kategorije B te ovlaštenim trgovcima oružjem.
+(6) Oružje sakupljeno na temelju odobrenja iz stavka 2. ovoga članka može se prodati ili predati osobama kojima je izdano odobrenje za sakupljanje oružja kategorije C i ovlaštenim trgovcima oružjem, a osobe kojima je prodano ili predano sakupljeno oružje kategorije C, a nemaju odobrenje za sakupljanje oružja kategorije C, dužne su to oružje prijaviti nadležnom tijelu u roku od osam dana od dana stjecanja oružja.
+(7) Nadležno tijelo će o izdanim odobrenjima za sakupljanje oružja kategorije C izvijestiti ministarstvo nadležno za kulturu.
+(8) Za izvoz ili iznošenje iz Republike Hrvatske oružja koje je zaštićeno kao kulturno dobro potrebno je pribaviti dozvolu za izvoz ili iznošenje kulturnoga dobra sukladno zakonu kojim se uređuje zaštita i očuvanje kulturnih dobara.
+(9) Nadležno tijelo ukinut će odobrenje za sakupljanje oružja kategorije B i odobrenje za sakupljanje oružja kategorije C građaninu koji prestane ispunjavati neki od uvjeta potrebnih za izdavanje odobrenja.
+(10) Odredbe članka 24. ovoga Zakona primjenjuju se i na odobrenje za sakupljanje oružja kategorije B i C.
+(11) Protiv rješenja o zahtjevu za izdavanje odobrenja za sakupljanje oružja kategorije B, rješenja za sakupljanje oružja kategorije C i rješenja iz stavka 9. ovoga članka žalba nije dopuštena, ali se može pokrenuti upravni spor.
+(12) Kolekcionar ne smije sakupljati oružje kategorije B bez odobrenja za sakupljanje oružja kategorije B niti oružje kategorije C bez odobrenja za sakupljanje oružja kategorije C koje je izdalo nadležno tijelo.

@@ -1,0 +1,4 @@
+# Članak 53.
+(1) Nositelji europskih oružnih propusnica mogu u svrhu lova, održavanja sportskih natjecanja ili rekonstrukcije povijesnih događaja u Republiku Hrvatsku unositi oružje koje im je upisano u europsku oružnu propusnicu ako se radi o oružju koje se prema ovome Zakonu može nabavljati i posjedovati i ako predoče poziv ili drugi dokaz kojim dokazuju svoj razlog dolaska s oružjem povezan s lovom, sportskim streljaštvom, sportskim streličarstvom ili rekonstrukcijom povijesnih događaja.
+(2) Ministarstvo nadležno za unutarnje poslove izvješćuje Europsku komisiju, države članice EGP-a i Švicarsku Konfederaciju o nadležnim tijelima koja su odgovorna za slanje i primanje informacija o vatrenom oružju te im dostavlja popis vatrenog oružja čiji je prijenos na teritorij Republike Hrvatske dozvoljen bez njezine prethodne suglasnosti.
+2. Nošenje i prenošenje oružja

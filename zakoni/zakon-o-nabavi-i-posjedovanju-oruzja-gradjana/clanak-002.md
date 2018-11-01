@@ -1,0 +1,2 @@
+# Članak 2.
+Ovim Zakonom u hrvatsko zakonodavstvo preuzima se Direktiva Vijeća 91/477/EEZ od 18. lipnja 1991. o nadzoru nabave i posjedovanja oružja (SL L 256, 13. 9. 1991.), kako je posljednji put izmijenjena Direktivom 2017/853 Europskog parlamenta i Vijeća od 17. svibnja 2017. o izmjeni Direktive Vijeća 91/477/EEZ o nadzoru nabave i posjedovanja oružja (Tekst značajan za EGP) (SL L 137, 24. 5. 2017.).

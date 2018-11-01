@@ -1,0 +1,5 @@
+# Članak 61.
+(1) Hrvatski državljanin s boravkom u inozemstvu koji nema odobrenje nadležnog tijela za nabavu oružja može radi lova ili sudjelovanja na sportskim natjecanjima unijeti u Republiku Hrvatsku lovačko ili sportsko oružje i pripadajuće streljivo ako su mu to oružje i streljivo upisani u putnu ispravu države u kojoj je oružje registrirano.
+(2) Upis u putnu ispravu oružja i streljiva iz stavka 1. ovoga članka obavlja diplomatska misija odnosno konzularni ured Republike Hrvatske ako hrvatski državljanin po propisima države u kojoj boravi ima izdano odobrenje za posjedovanje tog oružja.
+(3) Ako oružje i pripadajuće streljivo iz stavka 1. ovoga članka nije upisano u putnoj ispravi, granična policija izdat će odobrenje za unos ako hrvatski državljanin po propisima države u kojoj boravi ima izdano odobrenje za posjedovanje tog oružja te će u putnu ispravu države u kojoj je oružje registrirano unijeti podatke o unosu oružja i streljiva.
+(4) Na izlasku iz zemlje granična policija oduzet će odobrenje za unos iz stavka 3. ovoga članka.

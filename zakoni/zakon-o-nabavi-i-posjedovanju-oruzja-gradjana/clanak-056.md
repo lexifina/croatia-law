@@ -1,0 +1,7 @@
+# Članak 56.
+(1) Hrvatski državljanin može nabaviti u državama članicama EGP-a ili Švicarskoj Konfederaciji vatreno oružje čija je nabava dozvoljena prema odredbama ovoga Zakona samo ako ima odobrenje nadležnog tijela za nabavu vatrenog oružja i prethodnu suglasnost za unos oružja u Republiku Hrvatsku.
+(2) Hrvatski državljanin koji je nabavio oružje u državi članici EGP-a ili Švicarskoj Konfederaciji dužan je u roku od osam dana od unosa oružja u Republiku Hrvatsku kod nadležnog tijela podnijeti zahtjev za registraciju oružja.
+(3) Državljanin države članice EGP-a ili Švicarske Konfederacije može u Republici Hrvatskoj nabaviti vatreno oružje ako predoči odobrenje nadležnog tijela države članice EGP-a ili Švicarske Konfederacije u kojoj ima prebivalište kojim mu dozvoljava nabavu vatrenog oružja.
+(4) U slučaju iz stavka 3. ovoga članka nadležno tijelo elektroničkim putem obavještava nadležno tijelo države članice EGP-a ili Švicarske Konfederacije u kojoj osoba ima prebivalište o nabavi oružja u Republici Hrvatskoj.
+(5) Na oduzimanje oružja i isprava o oružju državljaninu države članice EGP-a ili Švicarske Konfederacije, koji u Republici Hrvatskoj ima odobren privremeni ili stalni boravak, primjenjuju se odredbe ovoga Zakona.
+(6) Državljanin države članice EGP-a ili Švicarske Konfederacije dužan je na zahtjev nadležnih tijela Republike Hrvatske predočiti isprave kojima dokazuje svoje pravo na unošenje, nošenje i iznošenje oružja iz Republike Hrvatske.

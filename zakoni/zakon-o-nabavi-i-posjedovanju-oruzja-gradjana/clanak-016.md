@@ -1,0 +1,6 @@
+# Članak 16.
+(1) Nadležno tijelo uputit će zaključkom na izvanredni zdravstveni pregled vlasnika oružja za kojeg dobije obavijest o promjeni zdravstvenog stanja iz članka 15. stavka 4. ovoga Zakona ili za kojeg opravdano sumnja da više nije zdravstveno sposoban za posjedovanje oružja.
+(2) Zdravstveni pregled iz stavka 1. ovoga članka obavlja se u zdravstvenim ustanovama, trgovačkim društvima koji obavljaju djelatnost medicine rada i kod specijalista medicine rada u privatnoj praksi, koji su ovlašteni za obavljanje takvih zdravstvenih pregleda, uz prilaganje zaključka o upućivanju na izvanredni zdravstveni pregled.
+(3) Vlasnik oružja iz stavka 1. ovoga članka dužan je u roku od 15 dana od dana primitka zaključka o upućivanju na izvanredni zdravstveni pregled dostaviti nadležnom tijelu uvjerenje o zdravstvenoj sposobnosti za posjedovanje oružja.
+(4) Troškove zdravstvenog pregleda vlasnika oružja iz stavka 1. ovoga članka koji je proglašen zdravstveno sposoban za posjedovanje oružja snosi nadležno tijelo koje ga je uputilo na zdravstveni pregled.
+(5) Vlasnik oružja iz stavka 1. ovoga članka za kojeg se na izvanrednom zdravstvenom pregledu utvrdi da nije zdravstveno sposoban za posjedovanje oružja sam snosi troškove izvanrednog zdravstvenog pregleda.

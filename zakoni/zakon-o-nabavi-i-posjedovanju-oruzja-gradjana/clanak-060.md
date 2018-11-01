@@ -1,0 +1,5 @@
+# Članak 60.
+(1) Hrvatski državljani koji iznose oružje i pripadajuće streljivo u treće zemlje i državljani trećih zemalja koji unose oružje i pripadajuće streljivo u Republiku Hrvatsku mogu u svrhu lova preko državne granice prenositi do tri komada lovačkog oružja, 500 komada streljiva za lovačko oružje s glatkim cijevima te 100 komada streljiva za lovačko oružje s užlijebljenim cijevima, bez mogućnosti prodaje oružja i streljiva.
+(2) Oružje i pripadajuće streljivo može se prenositi preko državne granice samo na međunarodnim graničnim prijelazima, osim ako međunarodnim ugovorom nije drugačije određeno.
+(3) Hrvatski državljani i državljani trećih zemalja prilikom prelaska državne granice dužni su oružje i pripadajuće streljivo prijaviti graničnoj policiji.
+(4) Granična policija privremeno će oduzeti oružje i streljivo hrvatskom državljaninu ili državljaninu treće zemlje koji prilikom prelaska državne granice oružje i streljivo ne prijavi na graničnom prijelazu i pohraniti ga do okončanja prekršajnog postupka.

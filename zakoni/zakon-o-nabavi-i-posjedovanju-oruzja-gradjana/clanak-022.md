@@ -1,0 +1,3 @@
+# Članak 22.
+(1) Nakon izdavanja oružnog lista nadležno tijelo svakih pet godina po službenoj dužnosti uvidom u podatke iz službenih evidencija nadležnih pravosudnih tijela provjerava ispunjava li vlasnik oružja i nadalje uvjete iz članka 11. stavka 2. točaka 3. i 4. ovoga Zakona.
+(2) Prilikom provođenja postupka iz stavka 1. ovoga članka nadležno tijelo može pozvati vlasnika oružja da donese na uvid oružje kako bi se provjerilo je li oružje propisno označeno i obilježeno, je li tehnički ispravno odnosno je li dotrajalo ili neuporabljivo, te da dostavi dokaze da i nadalje ispunjava uvjet iz članka 11. stavka 2. točke 1. ovoga Zakona.
