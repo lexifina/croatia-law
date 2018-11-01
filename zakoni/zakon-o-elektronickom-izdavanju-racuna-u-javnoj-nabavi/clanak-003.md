@@ -1,0 +1,17 @@
+## Značenje pojmova
+# Članak 3.
+U smislu ovoga Zakona pojedini pojmovi imaju sljedeće značenje:
+1. elektronički račun ili eRačun je račun koji je izdan, poslan i zaprimljen u strukturiranom elektroničkom obliku, a koji omogućuje njegovu automatsku i elektroničku obradu
+2. europska norma je norma koju je izdao Europski odbor za normizaciju (CEN) 28. lipnja 2017. EN 16931-1:2017, Elektronički račun – 1. dio: Semantički model podataka osnovnih elemenata elektroničkog računa i popis sintaksi CEN/TS 16931-2:2017, Elektronički račun – 2. dio: Lista sintaksi u skladu s EN 16931-1, prema CEN-ovu sustavu razvrstavanja, koju je, sukladno Direktivi 2014/55/EU, ispitala Europska komisija te je nakon ispitivanja objavila upućivanje na tu normu (Provedbena odluka Komisije 2017/1870)
+3. Financijska agencija (FINA) je centralni informacijski posrednik koji obavlja uslugu zaprimanja i slanja elektroničkih računa i pratećih isprava čiji je djelokrug definiran posebnim zakonom, odnosno obavlja elektroničku razmjenu računa između izdavatelja eRačuna i javnih naručitelja, u skladu s europskom normom, te na čiju su se centralnu platformu za razmjenu eRačuna dužni povezati ostali informacijski posrednici iz točke 4. ovoga članka
+4. informacijski posrednik je pravna osoba koja, u skladu s europskom normom, pruža usluge zaprimanja i slanja elektroničkih računa i pratećih isprava, odnosno koja obavlja elektroničku razmjenu računa između izdavatelja eRačuna i primatelja, a koja može obavljati i usluge upravljanja cjelokupnim poslovnim procesom izdavanja, zaprimanja, slanja i arhiviranja eRačuna
+5. izdavatelj eRačuna je subjekt ili tijelo koje izdaje, šalje ili u ime kojeg se šalje elektronički račun i prateće isprave
+6. javni naručitelji i decentralizirani javni naručitelji su javni naručitelji kako su definirani u zakonu kojim se uređuje javna nabava
+7. naručitelji su javni naručitelji iz točke 6. ovoga članka i sektorski naručitelji iz točke 9. ovoga članka
+8. osnovni elementi elektroničkog računa su niz ključnih podatkovnih elemenata koje elektronički račun mora sadržavati kako bi se omogućila prekogranična interoperabilnost, uključujući potrebne informacije kako bi se zajamčila sukladnost sa zakonom
+9. sektorski naručitelji su sektorski naručitelji kako su definirani u zakonu kojim se uređuje javna nabava
+10. semantički podatkovni model je strukturirani i logički uzajamno povezan niz pojmova i njihovih značenja koji definiraju osnovne elemente elektroničkog računa
+11. sintaksa je strojno čitljiv jezik ili narječje koji se upotrebljavaju za prikazivanje podatkovnih elemenata sadržanih u elektroničkom računu
+12. sintaktička pravila su smjernice o tome kako bi semantički podatkovni model za elektronički račun mogao biti zastupljen u različitim sintaksama
+13. središnje tijelo za javnu nabavu je središnje tijelo za nabavu kako je definirano u zakonu kojim se uređuje javna nabava
+14. međunarodna norma je norma kako je definirana u članku 2. stavku 1. točki (a) Uredbe (EU) br. 1025/2012 Europskog parlamenta i Vijeća od 25. listopada 2012. o europskoj normizaciji, o izmjeni direktiva Vijeća 89/686/EEZ i 93/15/EEZ i direktiva 94/9/EZ, 94/25/EZ, 95/16/EZ, 97/23/EZ, 98/34/EZ, 2004/22/EZ, 2007/23/EZ, 2009/23/EZ i 2009/105/EZ Europskog parlamenta i Vijeća te o stavljanju izvan snage Odluke Vijeća 87/95/EEZ i Odluke br. 1673/2006/EZ Europskog parlamenta i Vijeća (SL L 316, 14. 11. 2012).

@@ -1,0 +1,3 @@
+## Pravna stečevina Europske unije
+# Članak 2.
+Ovim se Zakonom u pravni poredak Republike Hrvatske prenosi Direktiva 2014/55/EU Europskog parlamenta i Vijeća od 16. travnja 2014. o elektroničkom izdavanju računa u javnoj nabavi (SL L 133, 6. 5. 2014.); (u daljnjem tekstu: Direktiva 2014/55/EU) te Provedbena odluka Komisije (EU) 2017/1870 od 16. listopada 2017. o objavi upućivanja na europsku normu o elektroničkom izdavanju računa i popisa sintaksi u skladu s Direktivom 2014/55/EU Europskog parlamenta i Vijeća (SL L 266, 17. 10. 2017.); (u daljnjem tekstu: Provedbena odluka Komisije 2017/1870).

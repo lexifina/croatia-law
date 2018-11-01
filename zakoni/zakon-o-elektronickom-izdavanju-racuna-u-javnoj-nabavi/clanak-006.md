@@ -1,0 +1,11 @@
+## III. POSTUPANJE S eRAČUNIMA
+## Zaprimanje i obrada elektroničkih računa
+# Članak 6.
+(1) Naručitelji su obvezni zaprimati i obrađivati te izvršiti plaćanje elektroničkih računa i pratećih isprava izdanih sukladno europskoj normi.
+(2) Javni naručitelji obvezni su usluge informacijskog posredništva zaprimanja i slanja elektroničkih računa povjeriti Financijskoj agenciji (FINA).
+(3) Iznimno od stavka 2. ovoga članka jedinice lokalne i područne (regionalne) samouprave i tijela javnog prava koja u iznosu većem od 50 % financira jedinica lokalne i područne (regionalne) samouprave ili su podložna upravljačkom nadzoru od strane jedinica lokalne i područne (regionalne) samouprave ili je više od polovine članova njihovih upravnih, upravljačkih ili nadzornih tijela imenovala jedinica lokalne i područne (regionalne) samouprave, usluge informacijskog posredništva zaprimanja i slanja elektroničkih računa mogu povjeriti bilo kojem informacijskom posredniku registriranom na području Republike Hrvatske ili druge države članice.
+(4) Sektorski naručitelji usluge informacijskog posredništva zaprimanja i slanja elektroničkih računa mogu povjeriti bilo kojem informacijskom posredniku registriranom na području Republike Hrvatske ili druge države članice.
+(5) Međusobni odnosi naručitelja ili izdavatelja elektroničkog računa s informacijskim posrednicima, koji nastanu pružanjem usluge zaprimanja i slanja elektroničkih računa i pratećih isprava, uređuju se ugovorom.
+(6) Informacijski posrednik ne odgovara za materijalni sadržaj elektroničkih računa i pratećih isprava za koje, po ovlaštenju javnih ili sektorskih naručitelja ili izdavatelja elektroničkih računa, pruža usluge zaprimanja i slanja elektroničkih računa.
+(7) Usluge informacijskog posrednika iz ovoga Zakona ne uključuju usluge sistemske integracije, odnosno međusobnog povezivanja hardverskih komponenata u jednu cjelinu zajedno s implementiranim softverskim komponentama čineći zajedno informacijski sustav.
+(8) Visinu naknade za usluge zaprimanja i slanja elektroničkih računa za javne naručitelje, koji usluge informacijskog posredništva zaprimanja i slanja elektroničkih računa povjeravaju Financijskoj agenciji, pravilnikom propisuje čelnik središnjeg tijela državne uprave nadležnog za poslove gospodarstva.
