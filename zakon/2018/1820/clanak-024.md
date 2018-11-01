@@ -1,0 +1,2 @@
+# Članak 24.
+Do stupanja na snagu uredbe iz članka 23. stavka 1. ovoga Zakona i pravilnika iz članka 23. stavka 2. ovoga Zakona ostaju na snazi Uredba o posebnoj naknadi za okoliš radi nestavljanja biogoriva na tržište (»Narodne novine«, br. 125/10.), Pravilnik o mjerama za poticanje korištenja biogoriva u prijevozu (»Narodne novine«, br. 42/10.) i Pravilnik o načinu i uvjetima primjene zahtjeva održivosti u proizvodnji i korištenju biogoriva (»Narodne novine«, br. 83/13.).
