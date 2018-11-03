@@ -1,0 +1,4 @@
+# Članak 11.
+(1) Ministar nadležan za poslove državne imovine će iz redova državnih službenika Ministarstva imenovati Povjerenstvo za provedbu javnog nadmetanja putem usmene javne dražbe i javnog prikupljanja ponuda, vezano za prodaju nekretnina.
+(2) U Povjerenstvo iz stavka 1. ovog članka, po ocjenjenoj potrebi mogu se imenovati i druge osobe, odnosno predstavnici drugih tijela.
+(3) Povjerenstvo iz stavka 1. ovog članka obavlja poslove javnog nadmetanja putem usmene javne dražbe, poslove prikupljanja i otvaranja ponuda, sastavlja zapisnik o provedenom javnom nadmetanju putem usmene javne dražbe i zapisnik o otvaranju ponuda, te prijedlog odluke o najpovoljnijem ponuditelju dostavlja ministru nadležnom za poslove državne imovine koji će odlučiti o prijedlogu ili će Ministarstvo dostaviti prijedlog i dokumentaciju tijelu nadležnom sukladno odredbama članka 37. stavka 5. Zakona.
