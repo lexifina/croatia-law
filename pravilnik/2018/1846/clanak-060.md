@@ -1,0 +1,7 @@
+## Postupak provjere naftno-rudarskih projekata
+# Članak 60.
+(1) Nakon primitka zahtjeva iz članka 59. ovog Pravilnika, predsjednik ili zamjenik predsjednika povjerenstva, ovisno o vrsti naftno-rudarskih radova, odlukom određuje broj i sastav članova povjerenstva za provjeru svakoga pojedinačnoga naftno-rudarskog projekta iz redova osoba imenovanih rješenjem iz članka 57. stavka 2. ovoga Pravilnika, koji su dužni obaviti provjeru naftno-rudarskog projekta sukladno odredbama Zakona i ovog Pravilnika te predsjedniku ili zamjeniku predsjednika povjerenstva dostaviti pisano izvješće o obavljenoj provjeri naftno-rudarskog projekta u dva primjerka u roku ne dužem od 30 dana od dana primitka naftno-rudarskog projekta.
+(2) Odluka iz stavka 1. ovoga članka dostavlja se podnositelju zahtjeva i članovima povjerenstva.
+(3) U odluci iz stavka 2. ovoga članka određuje se i predujam za troškove postupka provjere naftno-rudarskog projekta, rok u kojem podnositelj zahtjeva mora uplatiti predujam kao i način na koji podnositelj zahtjeva dostavlja dokaze o uplati predujma.
+(4) Rok u kojem podnositelj zahtjeva mora uplatiti predujam za troškove postupka provjere naftno-rudarskog projekta ne može biti duži od 15 dana od dana zaprimanja odluke iz stavka 2. ovoga članka.
+(5) U slučaju da podnositelj zahtjeva u roku određenom u stavku 4. ovoga članka ne uplati predujam za troškove postupka provjere naftno-rudarskog projekta iz stavka 1. ovoga članka, povjerenstvo donosi rješenje kojim se odbacuje zahtjev za provjeru naftno-rudarskog projekta.

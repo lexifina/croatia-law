@@ -1,0 +1,3 @@
+# Članak 58.
+(1) Predsjednik, zamjenik predsjednika i članovi povjerenstva moraju biti stručne osobe s odgovarajućim položenim stručnim ispitom iz naftnog rudarstva i s najmanje pet godina radnog iskustva na poslovima istraživanja i eksploatacije ugljikovodika nakon položenog stručnog ispita iz naftnog rudarstva.
+(2) Iznimno od odredbe stavka 1. ovoga članka, član povjerenstva za provjeru naftno-rudarskih projekata i za provjeru posebnih dijelova naftno-rudarskih projekata iz članka 55. stavka 3. ovoga Pravilnika, mora biti stručna osoba s položenim stručnim ispitom po posebnom propisu i s najmanje pet godina radnog iskustva nakon položenoga ispita.
