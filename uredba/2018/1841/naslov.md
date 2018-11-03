@@ -1,0 +1,1 @@
+Uredba o postupcima koji prethode sklapanju pravnih poslova raspolaganja nekretninama u vlasništvu Republike Hrvatske u svrhu dodjele na uporabu nekretnina za potrebe tijela državne uprave ili drugih tijela korisnika državnog proračuna te drugih osoba

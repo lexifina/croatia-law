@@ -1,0 +1,3 @@
+# Članak 10.
+(1) Odredbama ugovora o zakupu nekretnine za potrebe tijela iz članka 7. ove Uredbe obvezno se utvrđuje da je vlasnik nekretnine koja se uzima u zakup dužan snositi troškove pričuve i investicijskog održavanja nekretnine.
+(2) U slučaju otkazivanja ugovora o najmu ili zakupu iz stavka 1. ovog članka od strane druge ugovorne strane, otkazni rok traje 90 dana od dana pisane dostave otkaza.

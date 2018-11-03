@@ -1,0 +1,2 @@
+# Članak 1.
+Ovom Uredbom uređuju se postupci koji prethode sklapanju pravnih poslova raspolaganja nekretninama u vlasništvu Republike Hrvatske u svrhu dodjele na uporabu nekretnina za potrebe tijela državne uprave ili drugih tijela korisnika državnog proračuna, te drugih osoba iz članka 7. ove Uredbe, a osobito način raspolaganja te mjerila i kriteriji, naknada za uporabu, podmirivanje troškova tekućeg i investicijskog održavanja nekretnina, podmirivanje troškova zakupa nekretnina.
