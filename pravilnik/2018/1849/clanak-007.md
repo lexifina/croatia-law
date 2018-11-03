@@ -1,0 +1,2 @@
+# Članak 7.
+Poslove stručnog nadzora nad izvođenjem naftno-rudarskih radova (nadzorni inženjer) kod izvođenja naftno-rudarskih radova iz članka 2. točke 5. ovog Pravilnika, mogu obavljati radnici koji imaju preddiplomski i diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij kojim se stječe akademski naziv magistar inženjer naftno-rudarske struke i koji imaju položen stručni ispit te dvije godine radnog iskustva nakon stečene stručne spreme.
