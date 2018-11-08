@@ -1,0 +1,1 @@
+Na temelju odredbi članka 181. stavka 3. i članka 191. Zakona o osiguranju (»Narodne novine« broj 30/15) te članka 19. stavka 6. Zakona o računovodstvu (»Narodne novine« broj 78/15, 134/15, 120/16), Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća održanoj 25. listopada 2018. donosi
