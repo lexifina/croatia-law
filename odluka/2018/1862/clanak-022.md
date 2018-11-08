@@ -1,0 +1,4 @@
+## Osobe koje obavljaju poslove kontrolne funkcije
+# Članak 22.
+(1) Za obavljanje unutarnje revizije kreditna institucija dužna je u punom radnom vremenu zaposliti najmanje jednu osobu sa zvanjem revizora ili unutarnjeg revizora koje je stečeno u skladu sa zakonom kojim se uređuje revizija, odnosno stečeno u skladu s pravilima i programom kompetentne strukovne organizacije za stručno obrazovanje unutarnjih revizora.
+(2) Kreditna institucija dužna je osigurati potrebne resurse i financijska sredstva u financijskom planu za izvršenje godišnjeg plana svake kontrolne funkcije te redovitoga stručnog obrazovanja i osposobljavanja osoba koje obavljaju poslove kontrolne funkcije.
