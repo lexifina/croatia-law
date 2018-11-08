@@ -1,0 +1,5 @@
+## IV. ZAHTJEV ZA ODOBRENJE ZA RAD PODRUŽNICI IZ TREĆE ZEMLJE
+# Članak 18.
+(1) Društvo iz treće zemlje na području Republike Hrvatske može osnovati podružnicu ako dobije odobrenje Hanfe za rad podružnice u skladu s odredbama članka 155. Zakona.
+(2) Hanfa će prije odlučivanja o zahtjevu za izdavanje odobrenja za rad podružnice poduzeti sve radnje potrebne za sklapanje sporazuma o suradnji sa nadležnim tijelom treće zemlje u kojoj se nalazi sjedište investicijskog društva, koji sporazum uključuje odredbe o razmjeni podataka za potrebe očuvanja integriteta tržišta i zaštite ulagatelja.
+(3) Hanfa će prije odlučivanja o zahtjevu za izdavanje odobrenja za rad podružnice poduzeti sve radnje potrebne za sklapanje sporazuma sa trećom zemljom u kojoj je sjedište investicijskog društva, koji je u potpunosti usklađen sa standardima utvrđenim u članku 26. Model-konvencije OECD-a o porezu na dohodak i imovinu te koji osigurava djelotvornu razmjenu podataka u poreznim stvarima, uključujući, ako postoje, multilateralne porezne sporazume.

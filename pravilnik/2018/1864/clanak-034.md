@@ -1,0 +1,2 @@
+# Članak 34.
+Na sadržaj zahtjeva za izdavanje odobrenja za provođenje razdvajanja i odvajanja s preuzimanjem te dokumentaciju i podatke koji se dostavljaju uz zahtjev na odgovarajući način se primjenjuju odredbe ovoga Pravilnika o razdvajanju i odvajanju s osnivanjem pri čemu se plan podjele nadomješta ugovorom o podjeli i preuzimanju koji u obliku javnobilježničke isprave sklapaju uprave odnosno izvršni direktori društva koji se dijeli i društva preuzimatelja, a novo se društvo nadomješta društvom preuzimateljem.

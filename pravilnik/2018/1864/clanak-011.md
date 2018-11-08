@@ -1,0 +1,6 @@
+## Proširenje odobrenja za rad i odobrenje za pružanje usluga dostave podataka
+# Članak 11.
+(1) Odredbe ovoga Pravilnika o sadržaju i podnošenju zahtjeva za izdavanja odobrenja za rad na odgovarajući način odnose se na sadržaj i podnošenje zahtjeva za proširenje odobrenja za rad u smislu članka 39. Zakona, primjereno opsegu novih investicijskih usluga, aktivnosti ili dodatnih djelatnosti.
+(2) Kada se zahtjev za proširenjem odobrenja za rad odnosi na obavljanje usluga dostave podataka u skladu sa stavkom 2. člankom 39. Zakona, na sadržaj zahtjeva i dokumentaciju koja se prilaže zahtjevu na odgovarajući način odnose se odredbe Pravilnika o sadržaju zahtjeva za izdavanje odobrenja za obavljanje usluga dostave podataka.
+(3) Zahtjevu za proširenje odobrenja za rad prilažu se oni podaci odnosno promjene podataka iz članaka 5. do 10. ovoga Pravilnika koji se odnose na obavljanje usluge ili aktivnosti za koju se proširenje traži, uz jasnu naznaku izmjena ili dopuna dokumentacije kojom Hanfa već raspolaže.
+(4) Zahtjevu za proširenje odobrenja za rad nije potrebno priložiti one podatke i dokumentaciju propisanu ovim Pravilnikom kojima Hanfa raspolaže, pod uvjetom da su te informacije potpune, istinite, točne i ažurne, što je podnositelj zahtjeva dužan potvrditi pisanom izjavom.
