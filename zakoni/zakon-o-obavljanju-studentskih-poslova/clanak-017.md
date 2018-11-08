@@ -1,0 +1,19 @@
+## Prekršajne odredbe
+# Članak 17.
+(1) Novčanom kaznom u iznosu do 100.000,00 kuna kaznit će se za prekršaj posrednik koji:
+1. na ulazu u prostor u kojem se obavlja djelatnost ne istakne ploču s naznakom da se u tom prostoru obavlja djelatnost posredovanja, sukladno članku 9. stavku 1. ovoga Zakona
+2. svojim općim aktima ne utvrdi opće uvjete poslovanja o kojima je obvezan obavijestiti naručitelje posla i izvođače, a koji su sastavni dio ugovora, sukladno članku 9. stavku 4. ovoga Zakona
+3. svoje opće uvjete poslovanja iz članka 9. stavka 4. ovoga Zakona ne učini javno dostupnima i ne objavi ih na svojim mrežnim stranicama (članak 9. stavak 5.)
+4. po uplati naručitelja odmah, a najkasnije u roku od tri radna dana od dana uplate sredstava na račun posrednika ne doznači sredstva na račun izvođača (članak 9. stavak 9.)
+5. posreduje za studenta upisanog u tekuću akademsku godinu koji u prethodnoj akademskoj godini nije ostvario najmanje 1 ECTS bod (članak 10. stavak 3.)
+6. posreduje za studenta koji je dva puta promijenio studijski program i treći put upisuje studijski program (članak 10. stavak 5.)
+7. ne dostavi u propisanome roku nadležnom inspektoru ugovor u digitalnom obliku (članak 11. stavak 10.).
+(2) Novčanom kaznom u iznosu od 100.000,00 kuna kaznit će se za prekršaj naručitelj posla koji je pravna osoba te novčanom kaznom u iznosu od 50.000,00 kuna naručitelj posla koji je fizička osoba, a koji ne zaštiti dostojanstvo izvođača za vrijeme obavljanja posla od postupanja nadređenih, suradnika i osoba s kojima izvođač redovito dolazi u doticaj u obavljanju svojih poslova, ako je takvo postupanje neželjeno i u suprotnosti s ovim Zakonom i drugim propisima kojima se uređuje zaštita dostojanstva radnika (članak 13. stavak 9.).
+(3) Novčanom kaznom u iznosu od 100.000,00 kuna kaznit će se za prekršaj posrednik koji ne ispuni svoju obvezu iz članka 14. stavka 5. ovoga Zakona, odnosno ako ne objavi kriterije i postupak odabira aktivnosti iz članka 14. stavka 3. ovoga Zakona.
+(4) Novčanom kaznom u iznosu od 100.000,00 kuna kaznit će se za prekršaj posrednik koji ne ispuni svoju obvezu iz članka 14. stavka 7. ovoga Zakona, kao i kada je iz dostavljenog izvješća vidljivo da posrednik postupa protivno odredbama članka 14. stavaka 2. ili 3. ovoga Zakona.
+(5) Novčanom kaznom u iznosu od 100.000,00 kuna kaznit će se za prekršaj naručitelj posla koji je pravna osoba te novčanom kaznom u iznosu od 50.000,00 kuna naručitelj posla koji je fizička osoba, a koji ne izvrši isplatu naknada i doprinosa iz članka 12. stavka 1. ovoga Zakona.
+(6) Novčanom kaznom u iznosu od 100.000,00 kuna kaznit će se za prekršaj naručitelj posla koji je pravna osoba te novčanom kaznom u iznosu od 50.000,00 kuna naručitelj posla koji je fizička osoba, a koji na ugovoru iskazuje neistinite podatke o netocijeni sata posla, količini posla ili neistinito prikazuje podatke o broju sati izvršenoga rada izvođača.
+(7) Novčanom kaznom u iznosu od 100.000,00 kuna kaznit će se za prekršaj naručitelj posla koji je pravna osoba te novčanom kaznom u iznosu od 50.000,00 kuna naručitelj posla koji je fizička osoba, a koji izvođaču ne omogući korištenje plaćenog odmora na način i pod uvjetima propisanim člankom 13. stavkom 12. ovoga Zakona.
+(8) Novčanom kaznom u iznosu od 10.000,00 kuna kaznit će se za prekršaj iz stavaka 1. – 7. ovoga članka i odgovorna osoba u pravnoj osobi.
+(9) Posredniku koji ne ispuni svoju obvezu iz članka 9. stavka 9. ovoga Zakona može se izreći zaštitna mjera zabrane obavljanja djelatnosti posredovanja do jedne godine.
+(10) Izvođaču koji zlouporabi ugovor tako da omogući obavljanje posla osobama koje nisu potpisnici ugovora može se izreći zaštitna mjera zabrane korištenja usluga posredovanja do jedne godine, kao i novčana kazna u iznosu vrijednosti obavljenoga posla definiranoga ugovorom, a koja ne može iznositi više od 50.000,00 kuna.
