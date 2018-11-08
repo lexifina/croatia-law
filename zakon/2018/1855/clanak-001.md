@@ -1,0 +1,3 @@
+# Članak 1.
+U Zakonu o autorskom pravu i srodnim pravima (»Narodne novine«, br. 167/03., 79/07., 80/11., 125/11., 141/13., 127/14. i 62/17.) u članku 1.a iza podstavka 12. točka se zamjenjuje zarezom te se dodaje podstavak 13. koji glasi:
+» - Direktiva (EU) 2017/1564 Europskog parlamenta i Vijeća od 13. rujna 2017. o određenim dopuštenim upotrebama određenih djela i drugih predmeta zaštite koji su zaštićeni autorskim pravom i srodnim pravima u korist osoba koje su slijepe, koje imaju oštećenje vida ili imaju drugih poteškoća u korištenju tiskanim materijalima i o izmjeni Direktive 2001/29/EZ o usklađivanju određenih aspekata autorskog i srodnih prava u informacijskom društvu (SL L 242, 20. 9. 2017.).«.
