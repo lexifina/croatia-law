@@ -1,0 +1,29 @@
+## Ostali prekršaji
+# Članak 34.
+(1) Novčanom kaznom u iznosu od 2000,00 do 500.000,00 kuna kaznit će se za prekršaj pravna osoba ako:
+1. podaci, upute, informacije, dokumentacija i ostali dokumenti te EU izjava o sukladnosti iz članka 11. stavaka 6., 7. i 9., članka 13. stavaka 3., 4. i 9., članka 14. stavka 2. i članka 19. stavka 2. Uredbe (EU) 2016/424 nisu na hrvatskom jeziku, u skladu s člankom 6. stavkom 1. ovoga Zakona
+2. sigurnosna analiza i sigurnosno izvješće iz članka 15. ovoga Zakona nisu na hrvatskom jeziku, u skladu s člankom 6. stavkom 2. ovoga Zakona
+3. kao vlasnik, investitor ili koncesionar žičare nije odredio upravitelja žičare, u skladu s člankom 8. stavkom 1. ovoga Zakona
+4. kao upravitelj žičare nije osigurao da žičara radi i prevozi osobe na temelju odobrenja za rad žičare, u skladu s člankom 8. stavkom 5. ovoga Zakona
+5. kao upravitelj žičare nije imenovao voditelja žičare i njegovog zamjenika, u skladu s člankom 9. stavkom 1. ovoga Zakona
+6. kao upravitelj žičare nije osigurao da tehničko osoblje žičare i osoblje žičare koje pruža podršku putnicima kod ukrcaja i iskrcaja ima završen tečaj prve pomoći u skladu s posebnim propisom kojim je određena zaštita na radu, u skladu s člankom 10. stavkom 3. ovoga Zakona
+7. kao upravitelj žičare nije utvrdio upute za siguran rad žičare u skladu s uputama proizvođača žičare te osigurao njihovu provedbu, u skladu s člankom 13. stavkom 1. točkom 1. ovoga Zakona
+8. kao upravitelj žičare nije donio pravila o radu i postupanju tehničkog osoblja i ostalog osoblja, u skladu s člankom 13. stavkom 1. točkom 2. ovoga Zakona
+9. kao upravitelj žičare nije donio pravila o davanju upozorenja i informiranja javnosti u slučaju izvanrednih situacija i opasnosti koja su usklađena s posebnim propisima, u skladu s člankom 13. stavkom 1. točkom 3. ovoga Zakona
+10. kao upravitelj žičare nije osigurao da je kod rada žičare voditelj žičare ili njegov zamjenik u svakom trenutku dostupan, u skladu s člankom 13. stavkom 1. točkom 4. ovoga Zakona
+11. kao upravitelj žičare nije utvrdio opće uvjete prijevoza, vozni red, radno vrijeme i cjenik te ih javno objavio i postavio na vidljivim mjestima na žičari, u skladu s člankom 13. stavkom 1. točkom 5. ovoga Zakona
+12. kao upravitelj žičare nije na vidljivim mjestima na žičari postavio znakove upozorenja u vezi s ponašanjem i kretanjem putnika, u skladu s člankom 13. stavkom 1. točkom 6. ovoga Zakona
+13. kao voditelj žičare nije vodio evidenciju o radu žičare koja uključuje evidencije o održavanju, prekidima rada žičare i izvanrednim situacijama, u skladu s člankom 13. stavkom 5. točkom 1. ovoga Zakona
+14. kao voditelj žičare nije utvrdio uzroke, posljedice, okolnosti i odgovornosti za nastale izvanredne situacije te sastavio pisano izvješće koje je dostavio upravitelju žičare i inspektoru za žičare, u skladu s člankom 13. stavkom 5. točkom 2. ovoga Zakona
+15. kao upravitelj žičare nije, na prijedlog voditelja žičare, donio plan održavanja žičare za razdoblje od godine dana u skladu s uputama proizvođača, u skladu s člankom 14. stavkom 2. ovoga Zakona
+16. kao upravitelj žičare nije vodio dokumentaciju o održavanju žičare, u skladu s člankom 14. stavkom 4. ovoga Zakona
+17. kao vlasnik, investitor ili koncesionar žičare nije proveo sigurnosnu analizu planirane žičare ili naložio provođenje sigurnosne analize u skladu s člankom 8. Uredbe (EU) 2016/424, u skladu s člankom 15. stavkom 2. ovoga Zakona
+18. kao upravitelj žičare nije postavio oznaku na mjestu vidljivom svim korisnicima žičare u obliku iz kojeg je razvidno da žičara ima odobrenje za rad, sam naziv žičare i datum važenja odobrenja, u skladu s člankom 16. stavkom 7. ovoga Zakona
+19. kao vlasnik žičare ili investitor žičare ne ishodi koncesiju za žičaru kao koncesiju za gospodarsko korištenje općeg ili drugog dobra za koje je zakonom određeno da je dobro od interesa za Republiku Hrvatsku u svrhu korištenja prostora kojim prolazi trasa žičare ili u svrhu korištenja nekretnine na kojoj je izgrađena infrastruktura žičare, a koja je u vlasništvu Republike Hrvatske, jedinice lokalne ili područne (regionalne) samouprave u skladu s člankom 20. stavkom 1. ovoga Zakona
+20. kao pravna osoba koja podliježe inspekcijskom nadzoru nije inspektoru za žičare omogućila obavljanje nadzora i osigurala uvjete za neometan rad, u skladu s člankom 28. stavkom 1. ovoga Zakona
+21. na pisano traženje inspektora za žičare, u primjerenom roku koji odredi inspektor za žičare, nije dostavila ili pripremila točne i potpune podatke, obavijesti i materijale koji su potrebni za obavljanje inspekcijskog nadzora, u skladu s člankom 28. stavkom 2. ovoga Zakona
+22. na opravdani i obrazloženi zahtjev inspektora za žičare nije privremeno obustavila rad žičare za vrijeme inspekcijskog nadzora, u skladu s člankom 28. stavkom 5. ovoga Zakona
+23. na zahtjev inspektora za žičare nije dala podatke o identitetu svakog gospodarskog subjekta koji im je isporučio podsustav ili sigurnosnu komponentu tijekom razdoblja od 30 godina nakon što im je isporučen podsustav ili sigurnosna komponenta, u skladu s člankom 28. stavkom 6. ovoga Zakona
+24. na zahtjev inspektora za žičare nije dala podatke o identitetu svakog gospodarskog subjekta i svakog vlasnika, investitora ili koncesionara kojima su oni isporučili podsustav ili sigurnosnu komponentu tijekom razdoblja od 30 godina nakon što su isporučili podsustav ili sigurnosnu komponentu, u skladu s člankom 28. stavkom 7. ovoga Zakona.
+(2) Za prekršaje iz stavka 1. ovoga članka kaznit će se i odgovorna osoba u pravnoj osobi novčanom kaznom u iznosu od 1000,00 do 50.000,00 kuna.
+(3) Za prekršaje iz stavka 1. ovoga članka, koje je počinila u vezi s obavljanjem svoga obrta ili samostalne djelatnost, kaznit će se i fizička osoba obrtnik i osoba koja obavlja drugu samostalnu djelatnost novčanom kaznom u iznosu od 1000,00 do 500.000,00 kuna.

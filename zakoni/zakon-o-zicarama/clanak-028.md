@@ -1,0 +1,9 @@
+## Obveze nadziranih osoba
+# Članak 28.
+(1) Pravne i fizičke osobe koje podliježu inspekcijskom nadzoru dužne su inspektoru za žičare omogućiti obavljanje nadzora i osigurati uvjete za neometan rad.
+(2) Pravne i fizičke osobe iz stavka 1. ovoga članka dužne su na pisano traženje inspektora za žičare, u primjerenom roku koji odredi inspektor za žičare, dostaviti ili pripremiti točne i potpune podatke, obavijesti i materijale koji su potrebni za obavljanje inspekcijskog nadzora.
+(3) Osoba koja podliježe inspekcijskom nadzoru i osoba zatečena na mjestu nadzora dužna je na zahtjev inspektora za žičare dati na uvid ispravu na temelju koje se može utvrditi identitet osobe.
+(4) Smatra se da pravna ili fizička osoba iz stavka 1. ovoga članka nije omogućila obavljanje inspekcijskog nadzora ako u roku određenom u zapisniku inspektora za žičare ili roku određenom u pozivu za saslušanje stranke ne osigura uvid u nadzirani objekt, traženu poslovnu dokumentaciju i druge isprave potrebne za utvrđivanje činjeničnog stanja u započetom nadzoru.
+(5) Pravne i fizičke osobe iz stavka 1. ovoga članka dužne su na opravdani i obrazloženi zahtjev inspektora za žičare privremeno obustaviti rad žičare za vrijeme inspekcijskog nadzora.
+(6) Na zahtjev inspektora za žičare, pravne i fizičke osobe koje podliježu inspekcijskom nadzoru dužne su dati podatke o identitetu svakoga gospodarskoga subjekta koji im je isporučio podsustav ili sigurnosnu komponentu tijekom razdoblja od 30 godina nakon što im je isporučen podsustav ili sigurnosna komponenta.
+(7) Na zahtjev inspektora za žičare, pravne i fizičke osobe koje podliježu inspekcijskom nadzoru dužne su dati podatke o identitetu svakoga gospodarskoga subjekta i svakog vlasnika, investitora ili koncesionara kojima su oni isporučili podsustav ili sigurnosnu komponentu tijekom razdoblja od 30 godina nakon što su isporučili podsustav ili sigurnosnu komponentu.
