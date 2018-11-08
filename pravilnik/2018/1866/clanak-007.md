@@ -1,0 +1,4 @@
+## Rok za dostavu obavijesti
+# Članak 7.
+(1) Sukladno članku 749. stavku 4. Zakona osobe koje na dan stupanja na snagu Zakona obavljaju djelatnost trgovanja za vlastiti račun u skladu s iznimkom iz članaka 9. stavka 1. točke 9. ili 11. Zakona o tržištu kapitala (»Narodne novine«, br. 88/08., 146/08., 74/09., 54/13., 159/13., 18/15., 110/15., 123/16. i 131/17.), a nastavljaju koristiti iznimku iz članka 4. stavka 1. točke 10. Zakona dužne su u roku od tri mjeseca od stupanja na snagu Zakona Agenciji dostaviti podatke iz članka 5. ovog Pravilnika kojima dokazuju korištenje iznimke.
+(2) Nakon inicijalne dostave obavijesti sukladno stavku 1. ovog članka, osobe iz članka 4. stavka 1. točke 10. Zakona koje nastavljaju koristiti izuzeće dužne su podatke iz članka 5. ovog Pravilnika Hanfi dostavljati na godišnjoj razini, i to najkasnije do 30. travnja u godini za koju te osobe namjeravaju koristiti izuzeće.

@@ -1,0 +1,1 @@
+Na temelju odredbi članka 4. stavka 6. Zakona o tržištu kapitala (»Narodne novine« broj 65/18), Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća održanoj 25. listopada 2018. donosi
