@@ -1,0 +1,8 @@
+## Raznolikost uprave i nadzornog odbora
+# Članak 29.
+(1) Prilikom imenovanja članova uprave i nadzornog odbora investicijsko društvo mora voditi računa da je njihova struktura dovoljno raznolika.
+(2) Investicijsko društvo dužno je donijeti politiku promicanja raznolikosti uprave i nadzornog odbora koja omogućuje da se pri imenovanju članova uprave i nadzornog odbora dobije širi raspon stručnih znanja, sposobnosti i radnog iskustva kandidata radi zastupljenosti različitih stajališta i iskustava s ciljem ostvarivanja višeg stupnja neovisnosti mišljenja koje članovi uprave i nadzornog odbora moraju imati prilikom odlučivanja i nadziranja.
+(3) Politika promicanja raznolikosti treba uzeti u obzir različite aspekte poput obrazovanja i profesionalnog iskustva, spola, dobi i zemljopisnog porijekla.
+(4) Značajno investicijsko društvo dužno je odrediti ciljanu zastupljenost slabije zastupljenog spola u upravi i nadzornom odboru te strategiju i vremenski okvir za postizanje tog cilja. U okviru redovne procjene primjerenosti uprave i nadzornog odbora značajno investicijsko društvo dužno je ocijeniti svoju usklađenost s ciljem koji se odnosi na broj članova slabije zastupljenog spola. Ako navedeni cilj nije ispunjen, značajno investicijsko društvo mora pružiti obrazloženje neispunjavanja cilja, mjere koje će poduzeti i vremenski okvir za njegovo postizanje.
+(5) Investicijsko društvo će pri procjeni odgovarajuće raznolikosti strukture uprave i nadzornog odbora voditi računa o vrsti, opsegu i složenosti poslova koje investicijsko društvo obavlja i rizicima kojima je ili kojima bi mogao biti izloženo.
+(6) Pri procjeni raznolikosti strukture uprave i nadzornog odbora uzima se u obzir raznolikost s obzirom na potrebna znanja, sposobnosti i iskustvo.

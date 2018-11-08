@@ -1,0 +1,5 @@
+## Ugled, stručna znanja, sposobnost i iskustvo uprave, nadzornog odbora i članova višeg rukovodstva
+# Članak 7.
+(1) Ako namjeravani stjecatelj namjerava imenovati nove osobe za člana uprave ili kada je primjenjivo, nadzornog odbora, dužan je dokazati da te osobe imaju dobar ugled, stručna znanja, sposobnost i iskustvo u skladu s uvjetima za člana uprave iz članka 28. Zakona odnosno nadzornog odbora značajnog investicijskog društva iz članka 34. Zakona.
+(2) Ako namjeravani stjecatelj namjerava imenovati nove osobe koje će obavljati izvršne funkcije unutar investicijskog društva odgovorne za svakodnevno vođenje poslovanja, dužan je dokazati da te osobe raspolažu stručnim znanjima, osposobljenostima i iskustvom potrebnim za člana višeg rukovodstva investicijskog društva.
+(3) Na procjenu ispunjavanja uvjeta iz ovog članka na odgovarajući se način primjenjuju odredbe ovoga Pravilnika o procjeni primjerenosti člana uprave i nositelja ključnih funkcija u investicijskom društvu i člana nadzornog odbora značajnog investicijskog društva.
