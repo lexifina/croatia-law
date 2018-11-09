@@ -1,0 +1,5 @@
+# Članak 3.
+Pojedini pojmovi u smislu ovoga Pravilnika imaju sljedeće značenje:
+1. pomoćna tvar u procesu proizvodnje je tvar definirana u članku 3. stavku 2. točki (b) Uredbe (EZ) br. 1333/2008 Europskog parlamenta i Vijeća od 16. prosinca 2008. o prehrambenim aditivima (Tekst značajan za EGP) (SL L 354, 31. 12. 2008.), kako je posljednji put izmijenjena Uredbom Komisije (EU) 2018/682 od 4. svibnja 2018. o izmjeni Priloga II. Uredbi (EZ) br. 1333/2008 Europskog parlamenta i Vijeća u pogledu uporabe poliglicerol poliricinoleata (E 476) u emulgiranim umacima (Tekst značajan za EGP) (SL L 116, 7. 5. 2018.)
+2. otapalo jest svaka tvar za otapanje hrane ili bilo koje njezine komponente, uključujući i sve kontaminante prisutne u ili na toj hrani
+3. ekstrakcijsko otapalo jest otapalo koje se koristi u postupku ekstrakcije tijekom prerade sirovina, hrane, ili komponenti ili sastojaka tih proizvoda i koje se uklanja, ali koje može imati za posljedicu nenamjernu, ali tehnološki neizbježnu prisutnost ostataka ili derivata otapala u hrani ili sastojku hrane.
