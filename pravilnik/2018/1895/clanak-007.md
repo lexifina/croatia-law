@@ -1,0 +1,4 @@
+# Članak 7.
+(1) Podaci iz članka 3. ovoga Pravilnika, dostavljaju se, prikupljaju i obrađuju posebno za svaku kalendarsku godinu.
+(2) Način dostavljanja i prikupljanja podataka u elektroničkom obliku, određen je formom FZP u aplikaciji PZ, koja sadrži polja za unos svakog podatka iz članka 3. ovoga Pravilnika, a način unosa (upisom ili korištenjem izbornika) utvrđuje se Uputom za pristup elektroničkoj usluzi.
+(3) Dostavljanje podataka iz članka 3. ovoga Pravilnika, za određenu kalendarsku godinu može se provoditi jednokratnim ili višekratnim pristupom elektroničkoj usluzi, a dostavljanje tih podataka za sve radnike zaposlene kod agencije u kalendarskoj godini za koju se podaci dostavljaju, mora biti dovršeno najkasnije do roka za dostavu cjelovitih podataka o agenciji, utvrđenog člankom 8. ovoga Pravnika.
