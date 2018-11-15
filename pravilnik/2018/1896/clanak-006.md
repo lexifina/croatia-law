@@ -1,0 +1,3 @@
+# Članak 6.
+(1) Pravna osoba u smislu ovog Pravilnika ima dopuštenje za obavljanje poslova iz članka 2. stavka 1. točaka 1. do 8. ovoga Pravilnika ako za obavljanje registrirane djelatnosti osigura rad fizičke osobe iz članka 4. ovoga Pravilnika odnosno ako za obavljanje restauratorsko-konzervatorskih poslova određene uže specijalnosti iz članka 2. stavka 1. točke 1., 2., 3. i 4. ovoga Pravilnika osigura rad osobe iz članka 5. stavka 1. ovoga Pravilnika.
+(2) Odredba stavka 1. ovoga članka primjenjuje se i na obrtnika koji osigura rad fizičke osobe iz članka 4. i članka 5. stavka 1. ovoga Pravilnika, za slučaj kada obrtnik kao fizička osoba nema za te poslove dopuštenje u smislu ovoga Pravilnika.

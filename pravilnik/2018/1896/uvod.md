@@ -1,0 +1,1 @@
+Na temelju članka 100. stavka 2. Zakona o zaštiti i očuvanju kulturnih dobara (»Narodne novine« broj 69/99, 151/03, 153/03 - Ispravak, 87/09, 88/10, 61/11, 25/12, 136/12, 157/13, 152/14, 44/17 i 90/18), uz prethodnu suglasnost ministra gospodarstva, poduzetništva i obrta, ministrica kulture donosi

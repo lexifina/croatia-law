@@ -1,0 +1,4 @@
+# Članak 12.
+(1) Fizička osoba kojoj je Ministarstvo kulture izdalo dopuštenje, dužna je o svakoj promjeni glede ispunjavanja uvjeta propisanih ovim Pravilnikom i drugih podataka vezanih uz njezino poslovanje, pisano obavijestiti Ministarstvo kulture u roku od osam dana od nastanka promjene radi unošenja izmjena u Upisnik.
+(2) Na temelju obavijesti iz stavka 1. ovoga članka Stručno povjerenstvo će odlučiti o valjanosti dopuštenja, a ako ocijeni da više ne postoje uvjeti propisani ovim Pravilnikom, predložit će Ministarstvu kulture donošenje rješenja kojim će utvrditi nepostojanje uvjeta za obavljanje određenih poslova na zaštiti i očuvanju kulturnih dobara.
+(3) Na temelju izvršnog rješenja iz stavka 2. ovoga članka Ministarstvo kulture izvršit će brisanje fizičke osobe odnosno obavljanje određenih poslova iz Upisnika.
