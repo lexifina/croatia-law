@@ -1,0 +1,3 @@
+# Članak 1.
+U Pravilniku o sadržaju, vremenu i načinu polaganja završnog ispita te sadržaju potvrde o završnom ispitu u Državnoj školi za pravosudne dužnosnike (»Narodne novine« br. 97/16 od 24. listopada 2016.), u članku 3. stavku 1. iza riječi: »akademiji« umjesto zareza stavlja se točka, a riječi: »i to najmanje dva puta godišnje« brišu se. Iza prve rečenice dodaje se druga rečenica koja glasi: »Odluku o provedbi ispita donosi Upravno vijeće Pravosudne akademije na prijedlog ravnatelja vodeći računa o broju prijavljenih kandidata.«
+U stavku 3. iza riječi: »objaviti« dodaju se riječi: »poziv za iskaz interesa za polaganje završnog ispita, poziv za podnošenje prijava za polaganje završnog ispita,«.
