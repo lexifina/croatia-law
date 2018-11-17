@@ -1,0 +1,2 @@
+# Članak 28.
+Ministar će u roku od 30 dana od dana stupanja na snagu ovoga Zakona s odredbama ovoga Zakona uskladiti Pravilnik o razvrstavanju i kategorizaciji objekata u kojima se pružaju ugostiteljske usluge u domaćinstvu (»Narodne novine«, br. 9/16., 54/16., 61/16. i 69/17.) i Pravilnik o razvrstavanju i kategorizaciji objekata u kojima se pružaju ugostiteljske usluge na obiteljskom poljoprivrednom gospodarstvu (»Narodne novine«, br. 54/16. i 69/17.).

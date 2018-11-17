@@ -1,0 +1,11 @@
+## PRIJELAZNE I ZAVRŠNE ODREDBE
+# Članak 25.
+(1) Iznajmljivači koji na dan stupanja na snagu ovoga Zakona pružaju ugostiteljske usluge u domaćinstvu temeljem rješenja o odobrenju izdanih do 1. rujna 2007. godine, odnosno prije stupanja na snagu Pravilnika o razvrstavanju i kategorizaciji objekata u kojima se pružaju ugostiteljske usluge u domaćinstvu (»Narodne novine«, br. 88/07.) ili temeljem rješenja izdanog povodom zahtjeva podnesenog prije 1. rujna 2007. dužni su, radi nastavka pružanja ugostiteljskih usluga s pravom isticanja oznake za kategoriju (zvjezdice) na objektu u kojem pružaju ugostiteljske usluge, podnijeti uredni zahtjev za izdavanje rješenja o odobrenju za pružanje ugostiteljskih usluga u domaćinstvu sukladno odredbama ovoga Zakona i Pravilnika o razvrstavanju i kategorizaciji objekata u kojima se pružaju ugostiteljske usluge u domaćinstvu (»Narodne novine«, br. 9/16., 54/16., 61/16. i 69/17.), u roku od:
+- dvije godine od stupanja na snagu ovoga Zakona, ako su rješenje o odobrenju ishodili do 31. prosinca 2000.
+- tri godine od stupanja na snagu ovoga Zakona, ako su rješenje o odobrenju ishodili u razdoblju od 1. siječnja 2001. do 31. prosinca 2004.
+- četiri godine od stupanja na snagu ovoga Zakona, ako su rješenje o odobrenju ishodili nakon 31. prosinca 2004.
+(2) Nadležni ured, na zahtjev iznajmljivača, izdaje rješenje iz stavka 1. ovoga članka.
+(3) U postupku izdavanja rješenja iz stavka 1. ovoga članka ne utvrđuje se ispunjavanje uvjeta iz članka 34. stavka 2. točaka 1. i 3. Zakona.
+(4) Na rješenje nadležnog ureda iz stavka 1. ovoga članka stranka ima pravo izjaviti žalbu Ministarstvu.
+(5) Primjerak izvršnog rješenja iz stavka 1. ovoga članka dostavlja se mjesno nadležnoj službi turističke inspekcije Ministarstva, nadležnoj ispostavi područnog ureda Ministarstva financija, Porezne uprave i nadležnom područnom uredu Ministarstva financija, Carinske uprave, nadležnoj ispostavi sanitarne inspekcije Ministarstva zdravstva te Državnom zavodu za statistiku.
+(6) Iznajmljivači iz stavka 1. ovoga članka koji ne podnesu zahtjev za izdavanje rješenja iz stavka 1. ovoga članka nastavljaju pružati ugostiteljske usluge, ali gube pravo isticati oznaku za kategoriju (zvjezdice) na objektu u kojem pružaju ugostiteljske usluge i u promidžbenim materijalima.

@@ -1,0 +1,2 @@
+# Članak 4.
+U članku 12. stavku 2. riječi: »uz obvezu isticanja i pridržavanja istaknutih cijena te izdavanja čitljivog i točnog računa za pruženu uslugu« zamjenjuju se riječima: »uz obvezu isticanja tvrtke odnosno naziva, isticanja i pridržavanja istaknutih cijena, izdavanja čitljivog i točnog računa za pruženu uslugu i isticanja na vidljivom mjestu oznake o zabrani usluživanja alkoholnih pića, drugih pića i/ili napitaka koji sadržavaju alkohol osobama mlađim od 18 godina te poštivanja te zabrane«.
