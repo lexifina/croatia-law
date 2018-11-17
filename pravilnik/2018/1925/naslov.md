@@ -1,0 +1,1 @@
+Pravilnik o načinu utvrđivanja tehničkih uvjeta za primjeren smještaj učenika i dokumentaciji koju je potrebno priložiti zahtjevu za odobrenje privremenog boravka u svrhu srednjoškolskog obrazovanja kroz program razmjene učenika
