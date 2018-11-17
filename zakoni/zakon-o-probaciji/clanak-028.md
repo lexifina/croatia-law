@@ -1,0 +1,12 @@
+## Razlozi za odgodu i prekid rada za opće dobro
+# Članak 28.
+(1) Razlozi za odgodu ili prekid rada za opće dobro jesu:
+1. akutna bolest osobe uključene u probaciju, nastanak teškog invaliditeta ili bitno pogoršanje kronične bolesti
+2. smrtni slučaj člana obitelji, teška bolest, teški invaliditet ili obveza izbivanja člana uže obitelji osobe uključene u probaciju, čime ona postaje jedini obvezni osiguravatelj skrbi djece, bračnog ili izvanbračnog druga, životnog partnera, roditelja, posvojitelja ili posvojenika, kojima je potrebna tuđa pomoć i njega
+3. potreba obavljanja ili dovršenja radova izazvanih elementarnom nepogodom ili drugim izvanrednim događajem zbog čijeg bi neobavljanja nastala znatna materijalna šteta, a u užoj obitelji osobe uključene u probaciju nema druge radno sposobne osobe
+4. trudnoća osobe uključene u probaciju ako do poroda ne preostaje više od šest mjeseci, rizična trudnoća osobe uključene u probaciju i roditeljstvo do godine dana života djeteta o kojem se osoba uključena u probaciju skrbi
+5. sezonski rad i povremeni rad nezaposlene osobe uključene u probaciju ako je to nužno za njezino uzdržavanje ili uzdržavanje članova uže obitelji, rad na brodu ili platformi, privremeno povećan opseg poslova kod redovitog rada
+6. oduzimanje slobode i izdržavanje kazne zatvora odnosno odlazak osobe uključene u probaciju u terapijsku zajednicu radi liječenja od ovisnosti.
+(2) Prekid ili odgoda izvršavanja rada za opće dobro zbog razloga označenih u stavku 1. točkama 1. i 4. ovoga članka mogu biti odobreni dok stanje bolesti odnosno rizična trudnoća traje, zbog razloga označenih u stavku 1. točki 2. ovoga članka, najdulje do mjesec dana, zbog razloga označenog u stavku 1. točki 3. ovoga članka do završetka posla, ali ne dulje od mjesec dana, zbog razloga roditeljstva označenog u stavku 1. točki 4. ovoga članka do godine dana djetetova života, zbog razloga označenih u stavku 1. točki 5. ovoga članka dok posao traje, a najdulje do godine dana, te zbog razloga označenih u stavku 1. točki 6. ovoga članka za vrijeme dok je osobi iz stavka 1. točke 6. ovoga članka oduzeta sloboda ili se nalazi u terapijskoj zajednici.
+(3) Ukupno trajanje odgoda i prekida izvršavanja rada za opće dobro ne može biti dulje od 60 dana, osim zbog razloga utvrđenih u stavku 1. točkama 1., 4., 5. i 6. ovoga članka.
+(4) Osoba uključena u probaciju razloge iz stavka 1. ovoga članka dužna je potkrijepiti relevantnom dokumentacijom.

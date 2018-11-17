@@ -1,0 +1,8 @@
+## Odgoda i prekid rada za opće dobro
+# Članak 27.
+(1) Osoba kojoj je odlukom nadležnog tijela iz članka 3. stavka 1. ovoga Zakona određen rad za opće dobro može podnijeti molbu za odgodu započinjanja rada za opće dobro probacijskom uredu prije donošenja rješenja o rasporedu na rad odnosno u roku od osam dana od dana nastanka razloga iz članka 28. ovoga Zakona kada je doneseno rješenje o rasporedu na rad.
+(2) Tijekom rada za opće dobro osoba iz stavka 1. ovoga članka kojoj je određen rad za opće dobro može probacijskom uredu podnijeti molbu za prekid izvršavanja rada u roku od osam dana od dana nastanka razloga iz članka 28. ovoga Zakona.
+(3) Probacijski ured će u roku od tri radna dana od primitka molbe rješenjem odlučiti o odgodi odnosno prekidu izvršavanja rada.
+(4) Probacijski ured će po službenoj dužnosti donijeti rješenje o odgodi odnosno prekidu izvršavanja rada ako se osoba iz stavka 1. ovoga članka uputi na izdržavanje kazne zatvora ili istražnog zatvora odnosno ako zbog teške bolesti ili drugih opravdanih razloga ona to sama nije u stanju zatražiti.
+(5) Protiv odluke probacijskog ureda iz stavaka 3. i 4. ovoga članka osoba kojoj je određen rad za opće dobro može podnijeti prigovor središnjem tijelu državne uprave nadležnom za poslove pravosuđa u roku od tri radna dana od primitka rješenja, koje će o prigovoru odlučiti u roku od 15 dana od dana primitka prigovora.
+(6) U slučaju odgode rada za opće dobro nakon donošenja rješenja o rasporedu na rad ili prekida izvršavanja rada za opće dobro vrijeme odgode odnosno prekida rada ne uračunava se u ukupni rok određen za izvršenje rada za opće dobro.

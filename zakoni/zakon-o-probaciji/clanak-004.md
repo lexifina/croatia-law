@@ -1,0 +1,16 @@
+## Tijela nadležna za izvršavanje probacijskih poslova
+# Članak 4.
+(1) Provođenje probacijskih poslova u nadležnosti je središnjeg tijela državne uprave nadležnog za poslove pravosuđa koje te poslove obavlja putem nadležne unutarnje ustrojstvene jedinice (u daljnjem tekstu: probacijsko tijelo), u čijem su sastavu Središnji ured i probacijski uredi.
+(2) Probacijsko tijelo u izvršavanju probacijskih poslova surađuje s tijelima javne vlasti, znanstvenim i drugim ustanovama, tijelima jedinica lokalne i područne (regionalne) samouprave i drugim institucijama ili pravnim osobama te razmjenjuje relevantne informacije i podatke.
+(3) Za potrebe koordinacije i unaprjeđenja kvalitete obavljanja probacijskih poslova središnje tijelo državne uprave nadležno za poslove pravosuđa može osnovati međuresorni odbor koji čine predstavnici probacijske službe, zatvorskog sustava, policije, sudova, državnog odvjetništva, sustava socijalne skrbi, predstavnici akademske zajednice te po potrebi i drugi relevantni sudionici u izvršavanju probacijskih poslova.
+(4) Središnji ured prati, unapređuje i nadzire zakonitost rada i postupanja u probacijskim uredima te provodi nadzor nad radom probacijskih ureda, prati i proučava primjenu propisa o izvršavanju probacijskih poslova, neposredno poduzima ili nadležnim tijelima predlaže mjere za poboljšanje probacijskog sustava, prikuplja i obrađuje statističke podatke te obavlja i druge poslove propisane ovim Zakonom i drugim propisima.
+(5) Središnje tijelo državne uprave nadležno za poslove pravosuđa, osim ovlasti iz općeg propisa u svezi s obavljanjem nadzora, ovlašteno je poništiti ili ukinuti svaki nepravilan ili nezakonit akt probacijskog ureda te odrediti donošenje novog akta ili samo donijeti akt.
+(6) Za poslove probacije nadležnost probacijskog ureda određuje se prema mjestu prebivališta odnosno boravišta osobe uključene u probaciju.
+(7) Iznimno od stavka 6. ovoga članka, ako iz opravdanih razloga i sukladno načelu efikasnosti proizlazi potreba za nadležnošću nekog drugog probacijskog ureda, mjesno nadležan može biti probacijski ured s obzirom na mjesto gdje se osoba uključena u probaciji nalazi.
+(8) Probacijske poslove obavljaju probacijski službenici koji imaju završen odgovarajući stupanj obrazovanja u području socijalne pedagogije, socijalnog rada, psihologije, pravnih znanosti te drugih društvenih i humanističkih znanosti.
+(9) Izobrazba probacijskih službenika organizira se sukladno Pravilniku o načinu obavljanja probacijskih poslova koji donosi ministar nadležan za poslove pravosuđa.
+(10) Probacijski službenici zadužuju službenu značku i službenu iskaznicu, čiji se izgled i sadržaj propisuju Pravilnikom iz stavka 9. ovoga članka.
+(11) Službenici probacijskih ureda su: probacijski službenici (uključujući rukovodeće probacijske službenike – voditelje probacijskih ureda) i referenti.
+(12) Službenicima probacijskih ureda zbog težine i naravi posla i posebnih uvjeta rada, kao što je povećana opasnost za život i zdravlje, pripada poseban dodatak na plaću.
+(13) Poslove s posebnim uvjetima rada i pravo na posebne dodatke utvrđuje uredbom Vlada Republike Hrvatske.
+(14) O radu probacijske službe Vlada Republike Hrvatske izvješćuje Hrvatski sabor jedanput godišnje, a najkasnije do 31. ožujka za prethodnu godinu.
