@@ -1,0 +1,11 @@
+# Članak 80.
+(1) Za štetu koju prouzroči divljač u lovištu odgovara lovoovlaštenik, ako je oštećenik poduzeo radnje iz članka 79. stavka 1. ovoga Zakona te kao dobar gospodar zaštitio svoju imovinu od nastanka štete navedene u članku 78. ovoga Zakona.
+(2) Lovoovlaštenik ne odgovara za štetu nastalu na dobrima koja nisu uklonjena najkasnije mjesec dana od isteka agrotehničkog roka za berbu ili žetvu uroda.
+(3) Za štetu na divljači koja je prouzročena na način iz članka 78. točke 3. ovoga Zakona odgovara počinitelj tih radnji odnosno vlasnik stvari ili životinje od kojih potječe takva šteta bez obzira na krivnju (objektivna odgovornost) te se ta šteta nadoknađuje lovoovlašteniku, prema Odštetnom cjeniku.
+(4) Za štetu na lovnogospodarskim i lovnotehničkim objektima odgovara počinitelj tih radnji odnosno vlasnik stvari ili životinje od kojih potječe takva šteta bez obzira na krivnju (objektivna odgovornost) te se ta šteta nadoknađuje lovoovlašteniku, prema Odštetnom cjeniku.
+(5) Ako lovoovlaštenik ne pokrene postupak za naknadu štete iz stavaka 3. i 4. ovoga članka, a radi se o šteti većih razmjera, takav će postupak u ime Republike Hrvatske pokrenuti nadležno državno odvjetništvo na zahtjev Ministarstva. Ako predmetne štete počini lovoovlaštenik, postupak za naknadu štete pokrenut će Republika Hrvatska na zahtjev Ministarstva putem nadležnog državnog odvjetništva u roku od 30 dana od dana saznanja za štetu.
+(6) Za štetu nastalu naletom vozila na divljač odgovara se na sljedeći način:
+– vozač ako se utvrdi da je upravljao vozilom protivno odredbama propisa kojima je uređeno područje o sigurnosti prometa na cestama i postojećim prometnim znakovima izričitih naredbi
+– lovoovlaštenik na čijem je lovištu nastala šteta ako se utvrdi da je šteta nastala zbog provođenja lova.
+(7) Lovoovlaštenik je dužan radi smanjenja i otklanjanja mogućnosti nastanka štete nastale naletom vozila na divljač pratiti migraciju divljači te o tome jednom godišnje dostaviti izvješće pravnoj osobi koja upravlja cestama opisanim granicom lovišta.
+(8) Za štetu koju prilikom lova divljači počine lovci i lovački psi koji sudjeluju u lovu odgovoran je lovoovlaštenik, s tim da lovoovlaštenik ima pravo regresa od lovaca koji su prouzročili štetu.

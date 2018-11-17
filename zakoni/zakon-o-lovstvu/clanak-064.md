@@ -1,0 +1,3 @@
+# Članak 64.
+(1) Ministar može donijeti naredbu o smanjenju brojnog stanja pojedine vrste divljači, osim ptica, ako je to u interesu javnog zdravlja i sigurnosti, radi sprječavanja nanošenja ozbiljne štete urodima, stoci te radi zaštite flore i faune, te donijeti naredbu o zabrani lova radi sprječavanja i suzbijanja bolesti životinja i zaštite zdravlja ljudi i stoke.
+(2) Naredba iz stavka 1. ovoga članka koja se odnosi na postupanje s vrstama iz članka 60. stavka 3. ovoga Zakona donosi se na temelju prethodno izdanog dopuštenja ministarstva nadležnog za poslove zaštite prirode donesenog u skladu s posebnim propisom o zaštiti prirode.

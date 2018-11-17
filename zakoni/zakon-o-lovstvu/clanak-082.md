@@ -1,0 +1,4 @@
+# Članak 82.
+(1) Za štete iz članka 78. točaka 1. i 2. ovoga Zakona oštećenici su se dužni u roku od sedam dana od dana nastanka štete pisanim putem obratiti lovoovlašteniku na čijem se području šteta dogodila, s tim da je lovoovlaštenik dužan u daljnjem roku od sedam dana odgovoriti oštećeniku.
+(2) Nakon isteka rokova iz stavka 1. ovoga članka oštećenik je dužan u daljnjem roku od 30 dana predložiti lovoovlašteniku sklapanje sporazuma o naknadi štete, a lovoovlaštenik je dužan na takav prijedlog oštećenika odgovoriti u daljnjem roku od 30 dana te ako dođe do sklapanja sporazuma, taj sporazum predstavlja ovršnu ispravu.
+(3) Nakon isteka rokova iz stavaka 1. i 2. ovoga članka i ako ne dođe do sklapanja sporazuma iz stavka 2. ovoga članka, oštećenik se može obratiti tužbom radi naknade štete nadležnom sudu najkasnije u roku od tri godine od dana nastanka štete. Nadležni sud odbacit će tužbu ako oštećenik nije postupio na način naveden u stavcima 1. i 2. ovoga članka.

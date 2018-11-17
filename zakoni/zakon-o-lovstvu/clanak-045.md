@@ -1,0 +1,9 @@
+# Članak 45.
+(1) Lovnogospodarska osnova donosi se u roku od 120 dana od dana potpisa ugovora i čini sastavni dio ugovora.
+(2) Iznimno od stavka 1. ovoga članka, vlasnik privatnog lovišta donosi Ministarstvu lovnogospodarsku osnovu 120 dana nakon ustanovljenja privatnog lovišta, ako ne da privatno lovište u zakup. Prije donošenja lovnogospodarske osnove, vlasnik privatnog lovišta mora priložiti Ministarstvu isprave kojima dokazuje ispunjavanje uvjeta iz članka 22. stavka 1. podstavka 2. i članka 24. stavka 4. točaka 2. i 3. ovoga Zakona.
+(3) Lovoovlaštenik u zajedničkom lovištu donosi lovnogospodarsku osnovu za lovište na odobrenje nadležnom tijelu, a lovoovlaštenik u državnom i privatnom lovištu Ministarstvu.
+(4) Pod odobrenjem iz stavka 3. ovoga članka podrazumijeva se donošenje rješenja od Ministarstva odnosno nadležnog tijela, uz mišljenje povjerenstva za provedbu ispitnog postupka.
+(5) Protiv rješenja iz stavka 4. ovoga članka koje donese Ministarstvo nije dopuštena žalba, ali se može pokrenuti upravni spor.
+(6) Protiv rješenja iz stavka 4. ovoga članka koje donese nadležno tijelo može se izjaviti žalba Ministarstvu.
+(7) Povjerenstvo iz stavka 4. ovoga članka za državna i privatna lovišta osniva Ministarstvo odnosno za zajednička lovišta nadležno tijelo u koje imenuje najmanje dva člana koji imaju završeni preddiplomski i diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij ili specijalistički diplomski stručni studij šumarske ili agronomske ili veterinarske struke s položenim kolegijem iz lovstva i najmanje jednim članom kojeg je predložilo Ministarstvo.
+(8) U slučaju produljenja prava lova, do odobrenja lovnogospodarske osnove lovištem će se u idućoj godini gospodariti isto kao u zadnjoj godini važenja lovnogospodarske osnove; gospodarenje u toj godini smatra se prvom godinom izvršenja lovnogospodarske osnove za iduće razdoblje.

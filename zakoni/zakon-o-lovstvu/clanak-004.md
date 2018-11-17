@@ -1,0 +1,2 @@
+# Članak 4.
+Cilj je ovoga Zakona osigurati održivo gospodarenje populacijama divljači i njihovim staništima na način i u obujmu kojim se trajno unapređuje vitalnost populacije divljači, proizvodna sposobnost staništa i biološka raznolikost, čime se postiže ispunjavanje gospodarske, turističke i rekreativne funkcije te funkcije zaštite i očuvanja biološke raznolikosti i ekološke ravnoteže prirodnih staništa, divljači i divlje faune i flore.

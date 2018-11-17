@@ -1,0 +1,6 @@
+## VI. LOV I KORIŠTENJE DIVLJAČI I NJEZINIH DIJELOVA
+# Članak 60.
+(1) Lov divljači obuhvaća traženje, dočekivanje, motrenje radi odstrela ili hvatanja divljači, vabljenje, praćenje, odstrel ili hvatanje divljači, skupljanje uginule divljači i njezinih dijelova (rogovlja, koža i dr.) i skupljanje jaja pernate divljači.
+(2) Lov divljači u lovištu obavlja se u skladu s lovnogospodarskom osnovom ili programom uzgoja divljači, a na površinama na kojima je zabranjeno ustanovljivanje lovišta u skladu s programom zaštite divljači i namjenom tih površina, sukladno odredbama ovoga Zakona, poštujući lovačku etiku i običaje.
+(3) Iznimno od stavka 2. ovoga članka, lov smeđeg medvjeda, mačke divlje i dabra obavlja se na temelju dopuštenja ministarstva nadležnog za poslove zaštite prirode donesenog u skladu s posebnim propisom o zaštiti prirode i akcijskog plana gospodarenja pojedinom vrstom divljači za pojedinu godinu, koji donosi i provodi Ministarstvo na prijedlog nacionalnog povjerenstva za gospodarenje pojedinom divljači.
+(4) Nacionalno povjerenstvo iz stavka 3. ovoga članka imenuje Vlada Republike Hrvatske na prijedlog ministra, iz reda stručnih službenika Ministarstva i ministarstva nadležnog za poslove zaštite prirode, znanstvenih i stručnih djelatnika te predstavnika drugih tijela na rok od četiri godine.

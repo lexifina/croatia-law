@@ -1,0 +1,4 @@
+# Članak 85.
+(1) Poslove lovne inspekcije obavljaju: državni lovni inspektor i lovni inspektor u područnoj jedinici Ministarstva (u daljnjem tekstu: lovni inspektor).
+(2) Poslove državnog lovnog inspektora može obavljati državni službenik koji ima završen preddiplomski i diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij ili specijalistički diplomski stručni studij šumarske ili agronomske ili veterinarske struke s položenim kolegijem iz lovstva i pet godina radnog staža u struci.
+(3) Poslove lovnog inspektora u područnoj jedinici može obavljati državni službenik koji ima završen preddiplomski i diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij ili specijalistički diplomski stručni studij šumarske ili agronomske ili veterinarske struke s položenim kolegijem iz lovstva i tri godine radnog iskustva.
