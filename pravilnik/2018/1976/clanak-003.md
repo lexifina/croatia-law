@@ -1,0 +1,3 @@
+# Članak 3.
+(1) Osim ribolova vršama, udičarskim alatima i ostima dozvoljenog na temelju članka 3. stavka 1. Pravilnika o posebnim staništima, u području iz članka 2. ovoga Pravilnika dozvoljava se upotreba jednostrukih mreža stajaćica minimalne veličine oka mrežnog tega 64 mm i maksimalne duljine 800 metara u razdoblju od 15. studenoga 2018. do 15. svibnja 2019. godine i trostrukih mreža stajaćica sipara minimalne veličine oka središnjeg tega od 64 mm i maksimalne duljine 500 metara u razdoblju od 1. veljače do 15. svibnja 2019. godine.
+(2) Mreže stajaćice iz stavka 1. ovoga članka smiju se koristiti isključivo na doček.

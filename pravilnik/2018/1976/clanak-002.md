@@ -1,0 +1,2 @@
+# Članak 2.
+Posebno stanište u dijelu akvatorija ušća rijeke Raše određeno je člankom 2. stavkom 1. točkom 3. Pravilnika o posebnim staništima riba i drugih morskih organizama i regulaciji ribolova u Velebitskom kanalu, Novigradskom i Karinskom moru, Prokljanskom jezeru, Marinskom zaljevu i Neretvanskom kanalu (»Narodne novine«, br. 148/04, 152/04, 55/05, 96/06, 123/09 i 130/09) (u daljnjem tekstu: Pravilnik o posebnim staništima) i omeđeno spojnicama: rt Ubac - rt Mulac i svjetionik Trget - rt Puntal.
