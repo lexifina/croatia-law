@@ -1,0 +1,2 @@
+# Članak 53.
+Članovi Fonda kojima su udjeli dodijeljeni sukladno Zakonu o Fondu hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 163/03., 82/04. i 41/08.) i dalje ostaju vlasnici istog broja udjela sukladno dokumentu o broju udjela u Fondu dobivenih na temelju Zakona o Fondu hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 163/03., 82/04. i 41/08.).

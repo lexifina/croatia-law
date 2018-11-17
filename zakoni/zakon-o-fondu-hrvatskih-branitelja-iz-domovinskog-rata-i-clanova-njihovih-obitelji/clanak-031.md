@@ -1,0 +1,2 @@
+# Članak 31.
+Ako se prenosivi dužnički vrijednosni papiri i instrumenti tržišta novca iz članka 30. stavka 1. podstavaka 3. i 4. ovog Zakona te prenosivi vlasnički vrijednosni papiri iz članka 30. stavka 1. podstavka 5. ovog Zakona u koje je uložena imovina Fonda, a koji nisu uvršteni na uređeno tržište u trenutku njihova stjecanja, ne uvrste u roku propisanom člankom 30. stavkom 2. podstavkom 2. ovog Zakona, Društvo je dužno prodati navedenu imovinu iz Fonda odnosno uskladiti ulaganje imovine Fonda u roku od šest mjeseci po isteku navedenog roka.

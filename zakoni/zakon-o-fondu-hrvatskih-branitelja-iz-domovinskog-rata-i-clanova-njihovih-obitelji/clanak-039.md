@@ -1,0 +1,4 @@
+# Članak 39.
+(1) Društvo prilikom upravljanja imovinom Fonda može koristiti tehnike i instrumente vezane uz prenosive vrijednosne papire i instrumente tržišta novca, ako se takve tehnike i instrumenti koriste u svrhu učinkovitog upravljanja portfeljem.
+(2) Tehnike i instrumenti iz stavka 1. ovog članka koji se koriste u svrhu učinkovitog upravljanja portfeljem uključuju, ali nisu ograničeni na, kolateral (financijsko osiguranje) u smislu propisa kojim se uređuje financijsko osiguranje, repo ugovore, primljene garancije i posuđivanje vrijednosnih papira.
+(3) Kada Društvo koristi tehnike i instrumente iz stavka 1. ovog članka, primljeni kolateral mogu biti samo prenosivi vrijednosni papiri i instrumenti tržišta novca iz članka 30. stavka 1. podstavaka 1. – 5. ovog Zakona te novčana sredstva.
