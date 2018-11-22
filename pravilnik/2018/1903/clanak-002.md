@@ -1,0 +1,2 @@
+# Članak 2.
+U članku 44.a stavak 2. Pravilnika mijenja se i glasi: »Medicinska indikacija za elektromotorna invalidska kolica s posebnim načinima upravljanja utvrđuje se timski i interdisciplinarno (specijalist fizikalne medicine i rehabilitacije i/ili specijalist ortoped/specijalist ortopedije i traumatologije i radni terapeut i fizioterapeut i psiholog) u ugovornoj stacionarnoj rehabilitacijskoj ustanovi.«
