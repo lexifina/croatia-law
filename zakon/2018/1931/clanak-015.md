@@ -1,0 +1,2 @@
+# Članak 15.
+Za lijekove koji imaju odobrenje za stavljanje lijeka u promet u Republici Hrvatskoj i s obzirom na način izdavanja razvrstani su u lijekove koji se izdaju na recept, a nisu stavljeni na liste lijekova Zavoda i nalaze se u prometu u Republici Hrvatskoj na dan stupanja na snagu ovoga Zakona, važit će cijene po kojima su takvi lijekovi stavljeni u promet do dana stupanja na snagu ovoga Zakona sve dok Agencija ne provede postupak godišnjeg izračuna cijena lijekova sukladno ovom Zakonu.
