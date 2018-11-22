@@ -1,0 +1,1 @@
+Na temelju članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine« br. 150/11, 119/14 i 93/16) i članka 2. Uredbe o dopunama Uredbe o utvrđivanju poslova iz članka 4.a i 4.c Zakona o Financijskoj agenciji (»Narodne novine«, broj 71/18), Vlada Republike Hrvatske je na sjednici održanoj 22. studenoga 2018. godine donijela
