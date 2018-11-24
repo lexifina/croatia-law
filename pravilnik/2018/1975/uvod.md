@@ -1,0 +1,1 @@
+Na temelju članka 28 b. stavka 3. Zakona o društveno poticanoj stanogradnji (»Narodne novine« broj 109/01, 82/04, 76/07, 38/09, 86/12, 7/13, 26/15 i 57/18) ministar graditeljstva i prostornoga uređenja donosi

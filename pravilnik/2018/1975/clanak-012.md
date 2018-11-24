@@ -1,0 +1,5 @@
+# Članak 12.
+(1) Ugovor o najmu sklapa se na rok od 60 mjeseci, uz mogućnost naknadnih produljenja.
+(2) Ugovor o najmu sklopljen na određeno vrijeme, smatra se prešutno obnovljenim za sljedeće vremensko razdoblje od 36 mjeseci, ako ni jedna od ugovornih strana ne obavijesti drugu stranu najkasnije 30 dana prije isteka ugovorenog vremena najma da ne namjerava sklopiti ugovor o najmu za navedeno sljedeće vremensko razdoblje.
+(3) Najmodavac je ovlašten najkasnije 30 dana prije isteka ugovorenog vremena najma zatražiti najmoprimca izjavu danu pod kaznenom i materijalnom odgovornošću da najmoprimac i članovi njegovog obiteljskog domaćinstva nemaju u vlasništvu odgovarajuću nekretninu namijenjenu stanovanju na području gdje se nalazi stan koji se daje u najam. Ako su isti za vrijeme trajanja najma stekli odgovarajuću nekretninu namijenjenu stanovanju, postojeći ugovor o najmu neće se naknadno produljiti.
+(4) Ugovor o najmu sklopljen na sljedeće vremensko razdoblje, koji se sklapa nakon isteka roka od 60 mjeseci na koji rok je prvotno sklopljen ugovor o najmu, ne mora biti istovjetan prvotno sklopljenom Ugovoru o najmu.

@@ -1,0 +1,4 @@
+# Članak 22.
+(1) Kupoprodajna cijena stana utvrđuje se imajući u vidu troškove financiranja i izgradnje te tržišnu vrijednost stana, i mogućnost prodaje stana u odnosu na stanje na tržištu nekretnina pri čemu redovito korištenje stana od strane najmoprimca neće utjecati na eventualno smanjenje vrijednosti stana koji je predmet ugovora o najmu.
+(2) Kupoprodajna cijena stana utvrđena prije sklapanja ugovora o najmu, nepromjenjiva je najviše 60 mjeseci od dana sklapanja ugovora o najmu te se istekom navedenog roka ponovno utvrđuje od strane stalnog sudskog vještaka procjenom, koja u svojim elementima sadrži i mogućnost prodaje predmetnog stana u odnosu na stanje na tržištu nekretnina.
+(3) Ako je utvrđena cijena stana, na način određen stavcima 1. i 2. ovoga članka, niža od troškova izgradnje i financiranja predmetnog stana, na predloženu kupoprodajnu cijenu suglasnost daje Upravno vijeće APN-a.
