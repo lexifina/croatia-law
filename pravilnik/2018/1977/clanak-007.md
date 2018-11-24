@@ -1,0 +1,2 @@
+# Članak 7.
+Na zahtjev tijela koje je podnositelj zahtjeva, tijelo kojem se upućuje zahtjev dostavlja sve odgovarajuće podatke koje posjeduje ili koje može pribaviti u skladu s člankom 4. stavkom 2., a posebno u obliku izvješća i drugih isprava ili njihovih preslika ili izvadaka iz takvih izvješća ili isprava o stvarno uočenim radnjama za koje tijelo koje je podnositelj zahtjeva smatra da su u suprotnosti s veterinarskim propisima.
