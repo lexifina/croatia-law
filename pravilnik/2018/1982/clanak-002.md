@@ -1,0 +1,2 @@
+# Članak 2.
+Evidencija državne imovine kojom upravlja Ministarstvo (u daljnjem tekstu: Evidencija), a na koju se odnosi ovaj Pravilnik, sastoji se od popisa dionica ili udjela u trgovačkim društvima čiji je imatelj Republika Hrvatska, Hrvatski zavod za mirovinsko osiguranje te Državna agencija za osiguranje štednih uloga i sanaciju banaka ako ih je stekla u postupku sanacije i privatizacije banaka i osnivačkih prava u pravnim osobama kojima je Republika Hrvatska osnivač te nekretnina, pokretnina, prava i obveza kojima upravlja Ministarstvo.
