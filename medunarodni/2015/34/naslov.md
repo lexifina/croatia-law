@@ -1,0 +1,1 @@
+Zakon o potvrđivanju Sporazuma između Europske unije i njezinih država članica, s jedne strane, i Islanda, s druge strane, o sudjelovanju Islanda u zajedničkom ispunjavanju obveza Europske unije, njezinih država članica i Islanda u drugom obvezujućem razdoblju Kyotskog protokola uz Okvirnu konvenciju Ujedinjenih naroda o promjeni klime
