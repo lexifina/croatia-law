@@ -1,0 +1,6 @@
+# Članak 11.
+(1) Zahtjev za upis standarda zanimanja u Podregistar standarda zanimanja sukladno članku 9. stavku 6. ovoga pravilnika Ministarstvo će podnijeti u roku od šest mjeseci od dana stupanja na snagu ovoga pravilnika.
+(2) Standard kvalifikacija iz članka 9. stavka 7. ovoga pravilnika Ministarstvo će donijeti u roku od tri mjeseca od dana upisa standarda zanimanja u Podregistar standarda zanimanja.
+(3) Program za stjecanje kvalifikacija iz članka 9. stavka 8. ovoga pravilnika Ministarstvo će izraditi u roku od tri mjeseca od dana donošenja standarda kvalifikacija iz članka 9. stavka 7. ovoga pravilnika.
+(4) Osobe koje su u trenutku stupanja na snagu programa za stjecanje kvalifikacija iz stavka 3. ovoga članka zatečene na obavljanju poslova pomoćnika u nastavi i stručnoga komunikacijskog posrednika mogu nastaviti obavljati poslove bez stečene djelomične kvalifikacije iz članka 8. stavka 1. i 2. ovoga pravilnika do kraja nastavne godine.
+(5) Osobe koje su prije stupanja na snagu ovoga pravilnika završile formalni program osposobljavanja za obavljanje poslova pomoćnika u nastavi dužne se u roku od godine od dana stupanja na snagu programa za stjecanje djelomične kvalifikacije iz stavka 3. ovoga članka steći djelomičnu kvalifikaciju iz članka 8. stavka 1. ovoga pravilnika na način utvrđen člankom 9. stavkom 5. ovoga pravilnika.

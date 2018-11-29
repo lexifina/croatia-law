@@ -1,0 +1,8 @@
+## II. STRUČNI KOMUNIKACIJSKI POSREDNIK
+# Članak 4.
+(1) Stručni komunikacijski posrednik je osoba koja daje komunikacijsku potporu gluhim, nagluhim i gluhoslijepim učenicima u onom sustavu komunikacije koji preferira gluhi, nagluhi ili gluhoslijepi učenik: hrvatski znakovni jezik, prilagođeni hrvatski znakovni jezik (taktilni, locirani, vođeni) ili ostale sustave komunikacije koji se temelje na hrvatskome jeziku (simultana znakovno-govorna komunikacija, ručne abecede, titlovanje ili daktilografija, očitavanje govora s lica i usana, pisanje na dlanu i korištenje tehničkih pomagala).
+(2) Stručni komunikacijski posrednik pruža komunikacijsku potporu gluhim, nagluhim i gluhoslijepim učenicima koji imaju rješenje o primjerenome programu obrazovanja Ureda.
+(3) Stručni komunikacijski posrednik posreduje u komunikaciji između učenika i okoline tijekom odgojno-obrazovnoga procesa u svakodnevnim nastavnim, izvannastavnim i izvanučioničkim aktivnostima, prema izrađenome programu rada i uputama učitelja/nastavnika, stručnih suradnika škole odnosno stručnoga tima.
+(4) U jedan razredni odjel/odgojno-obrazovnu skupinu može biti uključen samo jedan stručni komunikacijski posrednik. Iznimno, zbog organizacijskih mogućnosti škole, u isti razredni odjel mogu biti uključena dva stručna komunikacijska posrednika, o čemu odlučuje osnivač uz prethodnu suglasnost Ministarstva.
+(5) Učenici koji imaju osiguranu potporu stručnoga komunikacijskog posrednika ne mogu imati i osiguranu potporu pomoćnika u nastavi.
+(6) Učenici kojima je odobrena provedba nastave u kući, nastave u zdravstvenoj ustanovi ili nastave na daljinu mogu imati osiguranu potporu stručnoga komunikacijskog posrednika i za vrijeme trajanja navedenih oblika nastave.

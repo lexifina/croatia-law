@@ -1,0 +1,16 @@
+## II. POMOĆNIK U NASTAVI
+# Članak 2.
+(1) Pomoćnik u nastavi je osoba koja pruža neposrednu potporu učeniku tijekom odgojno-obrazovnoga procesa u zadacima koji zahtijevaju komunikacijsku, senzornu i motoričku aktivnost učenika, u kretanju, pri uzimanju hrane i pića, u obavljanju higijenskih potreba, u svakodnevnim nastavnim, izvannastavnim i izvanučioničkim aktivnostima, a sve prema izrađenome programu rada prema utvrđenim funkcionalnim sposobnostima i potrebama svakoga pojedinog učenika te uputama učitelja/nastavnika, stručnih suradnika škole, odnosno stručnoga tima. Pomoćnik u nastavi može pružati potporu jednom ili dvoje učenika u istome razrednom odjelu ili različitim razrednim odjelima ili kao pomoćnik u nastavi skupini učenika istoga razrednog odjela/odgojno-obrazovne skupine uzimajući u obzir individualne potrebe svakog učenika.
+(2) U jednome razrednom odjelu/odgojno-obrazovnoj skupini može biti samo jedan pomoćnik u nastavi. Iznimno, zbog organizacijskih mogućnosti škole, u isti razredni odjel mogu biti uključena dva pomoćnika u nastavi, o čemu odlučuje osnivač škole koju učenik pohađa (u daljnjem tekstu: osnivač) uz prethodnu suglasnost Ministarstva.
+(3) Učenik ima osiguranu potporu jednog pomoćnika u nastavi, a iznimno pri premještanju učenika iz kolica u drugi položaj potporu mu može pružiti i pomoćnik u nastavi osiguran drugom učeniku u školi i tijekom izvanučioničkih aktivnosti.
+(4) Cilj potpore pomoćnika u nastavi je izjednačavanje mogućnosti učenika u svrhu osiguravanja njemu primjerenog odgoja i obrazovanja s tendencijom osamostaljivanja učenika u školskoj sredini.
+(5) Pomoćnik u nastavi nije nositelj nastavnoga procesa niti smije izrađivati primjeren program obrazovanja i sredstva za rad s učenikom. Pomoćnik u nastavi nije zamjena za dodatne odgojno-obrazovne i rehabilitacijske programe namijenjene učeniku tijekom odgoja i obrazovanja te ne smije samostalno davati informacije o napredovanju učenika osobama koje nisu radnici škole.
+(6) Pomoćnik u nastavi pruža potporu učenicima koji svladavaju nastavni plan i program škole koju pohađaju, ali imaju veće teškoće koje ih sprečavaju u samostalnom funkcioniranju te trebaju stalnu ili povremenu potporu pomoćnika u nastavi, odnosno imaju veće:
+- teškoće u motoričkom funkcioniranju donjih i/ili gornjih ekstremiteta,
+- teškoće u komunikaciji i socijalnim interakcijama te senzornoj integraciji, a povezane su s poremećajima iz autističnoga spektra,
+- teškoće u intelektualnom funkcioniranju udružene s drugim utjecajnim teškoćama,
+- teškoće proizašle oštećenjem vida,
+- teškoće koje se manifestiraju u ponašanju tako da ih ometaju u funkcioniranju i ugrožavaju njihovu fizičku sigurnost i/ili fizičku sigurnost drugih učenika.
+(7) Pomoćnik u nastavi pruža potporu onim učenicima koji imaju rješenje Ureda o primjerenome programu obrazovanja.
+(8) Učenici kojima je odobrena provedba nastave u kući, nastave u zdravstvenoj ustanovi ili nastave na daljinu ne mogu imati osiguranu potporu pomoćnika u nastavi za vrijeme trajanja navedenih oblika nastave.
+(9) Iznimno, ako učenik ima osiguranog pomoćnika u nastavi, a tijekom školske godine učeniku je privremeno odobrena provedba nastave u kući, odluku o nastavku rada pomoćnika u nastavi na temelju obrazloženja škole donosi osnivač uz prethodnu suglasnost Ministarstva.
