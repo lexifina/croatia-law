@@ -1,0 +1,2 @@
+# Članak 29.
+Danom stupanja na snagu ovoga Pravilnika prestaje važiti Pravilnik o uvjetima i načinu ostvarivanja prava na zdravstvenu zaštitu hrvatskih branitelja iz Domovinskog rata koja nisu utvrđena kao standard iz obveznog zdravstvenog osiguranja (»Narodne novine«, br. 46/15) i Pravilnik o uvjetima i načinu ostvarivanja prava na bolničku medicinsku rehabilitaciju hrvatskog ratnog vojnog invalida iz Domovinskog rata (»Narodne novine«, br. 68/14).

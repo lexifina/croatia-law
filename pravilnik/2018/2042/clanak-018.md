@@ -1,0 +1,3 @@
+# Članak 18.
+(1) Korisnik može ostvariti pravo na bolničku medicinsku rehabilitaciju i fizikalnu terapiju zbog iste bolesti, iste ozljede ili istog ranjavanja prema odredbama ovoga Pravilnika jedanput godišnje.
+(2) Iznimno od stavka 1. ovoga članka, HRVI iz Domovinskog rata I. i II. skupine oštećenja organizma može ostvariti pravo na bolničku medicinsku rehabilitaciju i fizikalnu terapiju zbog iste bolesti, iste ozljede ili istog ranjavanja prema odredbama ovoga Pravilnika dvaput godišnje u slučaju da Povjerenstvo za odobravanje bolničke medicinske rehabilitacije i fizikalne terapije ocijeni da postoji medicinska opravdanost za provođenje bolničke medicinske rehabilitacije i fizikalne terapije.

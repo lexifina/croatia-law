@@ -1,0 +1,6 @@
+# Članak 2.
+Izrazi koji se koriste u ovom Pravilniku, a imaju rodno značenje koriste se neutralno i odnose se jednako na muški i ženski rod.
+DIO DRUGI
+NAČIN OSTVARIVANJA PRAVA
+GLAVA I.
+NAČIN UTVRĐIVANJA ČINJENICE JE LI RANA, OZLJEDA, BOLEST, POGORŠANJE BOLESTI, ODNOSNO POJAVA BOLESTI NEPOSREDNA POSLJEDICA SUDJELOVANJA U OBRANI SUVERENITETA REPUBLIKE HRVATSKE

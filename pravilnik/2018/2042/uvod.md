@@ -1,0 +1,1 @@
+Na temelju članka 25. stavka 6. Zakona o hrvatskim braniteljima iz Domovinskog rata i članovima njihovih obitelji (»Narodne novine«, br. 121/17), uz suglasnost ministra zdravstva, ministar hrvatskih branitelja donosi
