@@ -1,0 +1,9 @@
+## III. VREDNOVANJE STALNOG STRUČNOG USAVRŠAVANJA OVLAŠTENIH REVIZORA
+## Sustav bodovanja
+# Članak 4.
+(1) Stalno stručno usavršavanje ovlaštenih revizora vrednuje se bodovima na način da je ukupno 120 ostvarenih bodova jednako 120 sati stalnog stručnog usavršavanja. Kao mjerna jedinica za jedan sat stručnog usavršavanja uzima se 60 minuta. Bodovi za svaki pojedini oblik aktivnosti stalnog stručnog usavršavanja nalaze se u Prilogu 1. ovoga Pravilnika koji je sastavni dio ovoga Pravilnika.
+(2) Vrednovanje stalnog stručnog usavršavanja ovlaštenih revizora u izvršenju obveze iz stavka 1. ovoga članka provodi se prema sustavu bodovanja iz ovoga Pravilnika, prema kojem ovlašteni revizor ima obvezu:
+1. ostvariti najmanje 120 bodova stalnog stručnog usavršavanja u neprekinutom razdoblju od tri godine u području obavljanja revizorskih usluga, od čega najmanje 60 bodova stalnog stručnog usavršavanja treba biti iz osnovnih aktivnosti, uz uvjet da u svakoj godini ostvari najmanje 35 bodova stalnog stručnog usavršavanja, od kojih je 20 bodova iz osnovnih aktivnosti navedenih u članku 7. stavka 1. ovoga Pravilnika
+2. od 20 bodova ostvarenih iz osnovnih aktivnosti kako je navedeno u stavku 2. točki 1. ovoga članka, najmanje 10 bodova godišnje ostvariti iz područja s oznakom »A« koja označava područje stalnog stručnog usavršavanja u vezi s nezakonitostima i nepravilnostima koje su utvrđene u nadzoru ovlaštenih revizora i revizorskih društava i ostala područja za koja Ministarstvo financija utvrdi da su od značaja za reviziju
+3. odgovarajuće evidentirati aktivnosti stalnog stručnog usavršavanja te putem propisanog obrasca izvijestiti Ministarstvo financija na način i u rokovima određenim ovim Pravilnikom, u svrhu praćenja i evidentiranja te provjere ispunjenja propisanih obveza.
+(3) Ministarstvo financija objavljuje na svojoj internetskoj stranici popis područja s oznakom »A« do 30. rujna tekuće godine za sljedeću godinu.
