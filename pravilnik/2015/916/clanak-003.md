@@ -1,2 +1,0 @@
-# Članak 3.
-Za utvrđivanje činjenice je li rana, ozljeda, bolest, pogoršanje bolesti, odnosno pojava bolesti kod hrvatskog branitelja neposredna posljedica sudjelovanja u Domovinskom ratu, hrvatski branitelj podnosi zahtjev nadležnom uredu državne uprave u jedinici područne (regionalne) samouprave odnosno nadležnom upravnom tijelu Grada Zagreba (u daljnjem tekstu: prvostupanjsko tijelo) prema mjestu prebivališta podnositelja zahtjeva.
