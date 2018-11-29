@@ -1,0 +1,1 @@
+Na temelju članka 100. stavka 3. Zakona o državnim službenicima (»Narodne novine«, br. 92/05, 107/07, 27/08, 34/11 - Zakon o Registru zaposlenih u javnom sektoru, 49/11, 150/11, 34/12, 49/12 - pročišćeni tekst, 37/13, 38/13, 138/15 - Odluka Ustavnog suda Republike Hrvatske i 61/17), Vlada Republike Hrvatske je na sjednici održanoj 16. studenoga 2018. godine donijela
