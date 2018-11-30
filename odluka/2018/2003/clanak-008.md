@@ -1,0 +1,8 @@
+# Članak 8.
+Odgovornost imatelja PM računa
+1. Radi otklanjanja dvojbi pretpostavlja se da su nalozi za plaćanje koje su podnijeli ili plaćanja koja su primili neizravni sudionici u skladu s člankom 7. ove Odluke i podružnice na temelju članka 6. stavka 4. ove Odluke dostavljeni ili primljeni od strane samog imatelja PM računa.
+2. Imatelj PM računa obvezan je tim nalozima za plaćanje neovisno o sadržaju ugovora ili drugih dogovora između tog imatelja PM računa i bilo kojeg subjekta iz stavka 1. ovog članka ili o bilo kakvom nepostupanju u skladu s tim sporazumima.
+3. Imatelj PM računa koji prihvaća da njegov PM račun bude određen kao glavni PM račun dužan je platiti fakture koje se odnose na otvaranje i funkcioniranje svakog T2S DCA-a povezanog s tim PM računom, kako je navedeno u Dodatku VI. ove Odluke, neovisno o sadržaju ili povredi ugovora ili drugih dogovora između tog imatelja PM računa i imatelja T2S DCA-a.
+4. Imatelj glavnog PM računa dužan je platiti svaku fakturu za vezu sa svakim T2S DCA-om s kojim je PM račun povezan, kako je navedeno u Dodatku VI. ove Odluke.
+5. Imatelj PM računa koji prihvaća da njegov PM račun bude određen kao povezani PM račun dužan je platiti fakture koje se odnose na otvaranje i funkcioniranje svakog TIPS DCA-a povezanog s tim PM računom, kako je navedeno u Dodatku VI. ove Odluke, neovisno o sadržaju ili povredi ugovora ili drugih dogovora između tog imatelja PM računa i imatelja TIPS DCA-a. Povezani PM račun može biti povezan s najviše deset TIPS namjenskih novčanih računa.
+6. Imatelj povezanog PM računa ima pregled likvidnosti dostupne na TIPS namjenskim novčanim računima povezanim s tim PM računom i osigurava da su imatelji TIPS DCA-a svjesni svoje odgovornosti za upravljanje tom likvidnošću.

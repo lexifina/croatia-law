@@ -1,0 +1,13 @@
+# Članak 38.
+Povjerljivost
+1. Hrvatska narodna banka čuva kao povjerljive sve osjetljive ili tajne informacije, uključujući one informacije koje se odnose na plaćanje, tehničke ili organizacijske informacije koje pripadaju sudioniku, sudionicima iz iste grupe ili sudionikovim klijentima, osim ako su sudionik ili njegov klijent dali svoj pisani pristanak za razotkrivanje ili je takvo razotkrivanje dopušteno ili obvezno na temelju zakona.
+2. Iznimno od stavka 1., sudionik pristaje da se informacije o radnjama poduzetim na temelju članka 34. ne smatraju povjerljivima.
+3. Iznimno od stavka 1. ovog članka, sudionik pristaje da Hrvatska narodna banka može otkriti platne, tehničke ili organizacijske informacije u vezi sa sudionikom, sudionicima iz iste grupe ili sudionikovim klijentima pribavljene tijekom rada sustava TARGET2-HR:
+(a) drugim središnjim bankama ili trećim stranama uključenima u rad sustava TARGET2-HR u mjeri u kojoj je to potrebno za učinkovito funkcioniranje sustava TARGET2 ili praćenje izloženosti sudionika ili njegove grupe
+(b) drugim središnjim bankama radi provođenja analiza potrebnih za tržišne operacije, funkcije monetarne politike, financijske stabilnosti ili financijske integracije ili
+(c) tijelima za superviziju i nadzor država članica i Europske unije, uključujući središnje banke, u mjeri u kojoj je to potrebno za obavljanje njihovih javnih zadaća,
+sve pod uvjetom da u svim tim slučajevima otkrivanje nije u suprotnosti sa zakonom.
+Hrvatska narodna banka nije odgovorna za financijske i komercijalne posljedice tog otkrivanja.
+4. Iznimno od stavka 1. ovog članka, i pod uvjetom da to ne omogućuje, izravno ili neizravno, identificiranje sudionika ili sudionikovih klijenata, Hrvatska narodna banka može upotrijebiti, otkriti ili objaviti informacije o plaćanju u vezi sa sudionikom ili sudionikovim klijentima za statističke, povijesne, znanstvene ili druge svrhe u izvršenju svojih javnih funkcija ili funkcija drugih osoba javnog prava kojima su informacije otkrivene.
+5. Informacije u vezi s radom sustava TARGET2-HR kojima su sudionici imali pristup mogu se upotrijebiti samo u svrhu utvrđenu ovom Odlukom. Sudionici čuvaju te informacije kao povjerljive, osim ako je Hrvatska narodna banka izričito dala svoj pisani pristanak za razotkrivanje. Sudionici su dužni osigurati da treće osobe, kojima su eksternalizirali, prenijeli ili povjerili kao podugovarateljima zadaće koje imaju ili mogu imati utjecaja na ispunjavanje njihovih obveza prema ovoj Odluci, budu obvezane zahtjevima u vezi s povjerljivošću iz ovog članka.
+6. Hrvatska narodna banka ovlaštena je radi namire naloga za plaćanje obrađivati i prenijeti potrebne podatke TARGET2 pružatelju mrežnih usluga.

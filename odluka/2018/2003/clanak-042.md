@@ -1,0 +1,3 @@
+# Članak 42.
+Postupak izmjene
+Hrvatska narodna banka može u bilo kojem trenutku jednostrano izmijeniti ovu Odluku uključujući dodatke iz članka 2. stavka 1. ove Odluke. Izmjene ove Odluke i dodataka iz članka 2. stavka 1. ove Odluke donose se i objavljuju na isti način kao i njihov osnovni tekst. Uzima se da je sudionik prihvatio takve izmjene ako im nije izričito prigovorio u roku od 14 dana od obavijesti o njima. Ako sudionik uloži prigovor na izmjene, Hrvatska narodna banka ovlaštena je odmah otkazati s trenutačnim učinkom sudjelovanje tog sudionika u sustavu TARGET2-HR i zatvoriti sve njegove PM račune.
