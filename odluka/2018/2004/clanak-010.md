@@ -1,0 +1,13 @@
+# Članak 10.
+Suradnja i razmjena informacija
+1. U ispunjavanju svojih obveza i ostvarivanju svojih prava iz ove Odluke Hrvatska narodna banka i imatelji T2S DCA-a blisko surađuju radi osiguravanja stabilnosti, solidnosti i sigurnosti sustava TARGET2-HR. Hrvatska narodna banka i imatelji T2S DCA-a međusobno razmjenjuju sve informacije i dokumente bitne za ispunjavanje njihovih obveza i ostvarivanje njihovih prava iz ove Odluke ne dovodeći u pitanje obvezu čuvanja bankovne tajne.
+2. Hrvatska narodna banka uspostavlja i održava podršku sustavu radi pomoći imateljima T2S DCA-a u vezi s poteškoćama koje proizlaze iz rada sustava.
+3. Najnovije informacije o operativnom stanju SSP-a i T2S platforme dostupne su u informacijskom sustavu TARGET2 (T2IS) odnosno informacijskom sustavu TARGET2-Securities na namjenskoj mrežnoj stranici na mrežnim stranicama ESB-a. T2IS i informacijski sustav TARGET2-Securities mogu se upotrebljavati za dobivanja informacija o svakom događaju koji utječe na redovan rad odnosne platforme.
+4. Hrvatska narodna banka može dostaviti poruke imateljima T2S DCA-a ili preko poruke dostupne svim sudionicima (engl. broadcast) ili preko bilo kojeg drugoga komunikacijskog sredstva. Imatelji T2S DCA-a mogu prikupljati informacije preko ICM-a, ako imaju i PM račun, a inače preko T2S GUI.
+5. Imatelji T2S DCA-a odgovorni su za pravodobno ažuriranje postojećih obrazaca za prikupljanje statičnih podataka i dostavljanje novih obrazaca za prikupljanje statičnih podataka Hrvatskoj narodnoj banci. Imatelji T2S DCA-a odgovorni su za provjeru točnosti informacija u vezi s njima koje je u sustav TARGET2-HR unijela Hrvatska narodna banka.
+6. Hrvatska narodna banka je ovlaštena dostaviti nacionalnim središnjim bankama pružateljima SSP-a ili četirima središnjim bankama sve informacije u vezi s imateljima T2S DCA-a koje im mogu zatrebati kao administratorima usluga, u skladu s ugovorom sklopljenim s TARGET2 pružateljem mrežnih usluga i/ili T2S pružateljem mrežnih usluga.
+7. Imatelji T2S DCA-a obavješćuju Hrvatsku narodnu banku o svim promjenama svoje sposobnosti i relevantnim zakonodavnim promjenama koje utječu na pitanja obuhvaćena mišljenjem o državi koja se odnose na njih.
+8. Imatelji T2S DCA-a obavješćuju Hrvatsku narodnu banku o:
+(a) svakom novom imatelju računa vrijednosnih papira povezanog s T2S DCA-om iz članka 8. stavka 1. ove Odluke kojeg su prihvatili i
+(b) svakoj promjeni povezanoj s imateljima računa vrijednosnih papira navedenima u točki (a) ovog stavka.
+9. Imatelji T2S DCA-a odmah obavješćuju Hrvatsku narodnu banku ako nastupi slučaj neispunjavanja obveza koji se odnosi na njih.
