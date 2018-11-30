@@ -1,0 +1,7 @@
+# Članak 8.
+Dostupne strane
+1. Imatelji TIPS DCA-a mogu odrediti jednu dostupnu stranu ili više dostupnih strana. Dostupne strane moraju pristupiti SCT Inst shemi i potpisati Sporazum o pristupanju SEPA instant kreditnom transferu.
+2. Imatelji TIPS DCA-a dužni su Hrvatskoj narodnoj banci pružiti dokaz o tome da je svaka određena dostupna strana pristupila SCT Inst shemi.
+3. Imatelj TIPS DCA-a dužan je obavijestiti Hrvatsku narodnu banku ako se bilo koja određena dostupna strana više ne pridržava SCT Inst sheme te, bez nepotrebnog odgađanja, poduzeti korake radi sprječavanja pristupa dostupne strane TIPS DCA-u.
+4. Imatelj TIPS DCA-a može odrediti jednog ili više inicijatora za svoje određene dostupne strane.
+5. Ako imatelj TIPS DCA-a odredi jednu dostupnu stranu ili više dostupnih strana i/ili jednog ili više inicijatora u skladu sa stavkom 1. odnosno 4. ovog članka, uzima se da su poruke koje su primile te dostupne strane ili, ako je primjenjivo, poruke koje su primljene preko tih inicijatora, primljene od imatelja TIPS DCA-a. Slično tome, uzima se da su poruke poslane tim dostupnim stranama ili, ako je primjenjivo, poruke koje su poslane preko tih inicijatora, poslane imatelju TIPS DCA-a. Imatelj TIPS DCA-a obvezan je radnjama tih dostupnih strana i/ili inicijatora, neovisno o sadržaju ili povredi ugovora ili drugih dogovora između imatelja TIPS DCA-a i pojedinog subjekta iz stavaka 1. i 4. ovog članka.

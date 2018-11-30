@@ -1,0 +1,3 @@
+# Članak 32.
+Postupak izmjene
+Hrvatska narodna banka može u bilo kojem trenutku jednostrano izmijeniti ovu Odluku uključujući dodatke iz članka 2. stavka 1. ove Odluke. Izmjene ove Odluke i dodataka iz članka 2. stavka 1. ove Odluke donose se i objavljuju na isti način kao i njihov osnovni tekst. Uzima se da je imatelj TIPS DCA-a prihvatio takve izmjene ako im nije izričito prigovorio u roku od 14 dana od obavijesti o njima. U slučaju da imatelj TIPS DCA-a uloži prigovor na izmjene, Hrvatska narodna banka ovlaštena je odmah trajno isključiti i zatvoriti TIPS namjenske novčane račune tog imatelja TIPS DCA-a u sustavu TARGET2-HR.
