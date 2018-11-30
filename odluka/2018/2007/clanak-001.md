@@ -1,0 +1,7 @@
+## SPOREDNE SUSTAVE
+# Članak 1.
+Pravna podloga i predmet
+1. Hrvatska narodna banka je ugovorna strana u Sporazumu o Transeuropskom automatiziranom sustavu ekspresnih novčanih transakcija u realnom vremenu na bruto načelu (sustav TARGET2) te je prema tom sporazumu prihvatila Smjernicu Europske središnje banke ESB/2012/27 od 5. prosinca 2012. o Transeuropskom automatiziranom sustavu ekspresnih novčanih transakcija u realnom vremenu na bruto načelu (sustav TARGET2) koja je posljednji put izmijenjena Smjernicom Europske središnje banke ESB/2018/20 od 3. kolovoza 2018. (u nastavku teksta: Smjernica ESB-a za sustav TARGET2).
+2. U skladu sa Smjernicom iz stavka 1. ovog članka ovom se Odlukom uređuju postupci namire za sporedne sustave.
+3. Ova Odluka predstavlja opće uvjete za postupke namire za sporedne sustave.
+4. Ova Odluka zajedno s Odlukom o uvjetima za otvaranje i funkcioniranje PM računa u sustavu TARGET2-HR i njezinim dodacima, Odlukom o dodatnim i izmijenjenim uvjetima za otvaranje i funkcioniranje PM računa u sustavu TARGET2-HR upotrebom internetskog pristupa i njezinim dodacima, Odlukom o uvjetima za otvaranje i funkcioniranje T2S namjenskog novčanog računa (T2S DCA) u sustavu TARGET2-HR i njezinim dodacima i Odlukom o uvjetima za otvaranje i funkcioniranje TIPS namjenskog novčanog računa (TIPS DCA) u sustavu TARGET2-HR i njezinim dodacima predstavlja Pravila rada sustava TARGET2-HR.
