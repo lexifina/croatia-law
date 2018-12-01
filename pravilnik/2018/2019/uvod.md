@@ -1,0 +1,1 @@
+Na temelju članka 383. točke 1. Kaznenog zakona (»Narodne novine«, br. 125/11, 144/12, 56/15, 61/15, 101/17) ministar pravosuđa uz suglasnost ministrice demografije, obitelji, mladih i socijalne politike donosi
