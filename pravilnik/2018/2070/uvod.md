@@ -1,0 +1,1 @@
+Na temelju članka 14. stavka 5. Zakona o akvakulturi (»Narodne novine«, br. 130/17) ministar poljoprivrede, uz suglasnost ministra nadležnog za zaštitu okoliša i prirode, ministra nadležnog za graditeljstvo i prostorno uređenje i ministra nadležnog za pomorstvo, donosi
