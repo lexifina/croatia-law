@@ -1,0 +1,3 @@
+# Članak 1.
+U Zakonu o administrativnoj suradnji u području poreza (»Narodne novine«, br. 115/16. i 130/17.) u članku 2. stavak 2. mijenja se i glasi:
+»Ovim se Zakonom osigurava provedba Uredbe Vijeća (EU) br. 904/2010 od 7. listopada 2010. o administrativnoj suradnji i suzbijanju prijevare u području poreza na dodanu vrijednost (preinaka) (SL L 268, 12. 10. 2010.); (u daljnjem tekstu: Uredba Vijeća (EU) br. 904/2010), kako je posljednji put izmijenjena Uredbom Vijeća (EU) 2017/2454 od 5. prosinca 2017. o izmjeni Uredbe (EU) br. 904/2010 o administrativnoj suradnji i suzbijanju prijevare u području poreza na dodanu vrijednost (SL L 348, 29. 12. 2017.); (u daljnjem tekstu: Uredba Vijeća (EU) 2017/2454).«.
