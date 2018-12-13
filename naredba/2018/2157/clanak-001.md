@@ -1,0 +1,14 @@
+## Opće mjere
+# Članak 1.
+Radi sprječavanja pojave i ranog otkrivanja unosa virusa afričke svinjske kuge, na čitavom području Republike Hrvatske naređuju se sljedeće mjere:
+1. Zabranjeno je pašno držanje svinja i ispuštanje svinja na otvoreni prostor, osim ako se svinje drže u prostoru ograđenom dvostrukom ogradom koji je kao takav registriran u Jedinstvenom registru domaćih životinja te ima jedinstveni identifikacijski broj gospodarstva i druge podatke koji se traže sukladno posebnim propisima i uz odobrenje nadležnog veterinarskog inspektora. Dvostruka ograda mora biti postavljena prije ispuštanja svinja na otvoreni prostor.
+2. Svi posjednici svinja, moraju osigurati da se domaće svinje drže na način kojim je u potpunosti onemogućen svaki izravan i neizravan kontakt domaćih svinja s divljim životinjama.
+3. Posjednici svinja moraju osigurati da sve svinje koje se drže na način iz točke 1. ovoga članka budu označene identifikacijskom oznakom u skladu s posebnim propisima, a označavanje mora biti provedeno najkasnije prije njihovog ispuštanja u otvoreni prostor.
+4. Naređuje se bez odgađanja, prijava veterinaru svinja koje pokazuju znakove bolesti, uginuća domaćih svinja i nađenih uginulih svinja divljih te obvezno pretraživanje uzoraka organa uginulih domaćih i svinja divljih, sukladno Pravilniku o dijagnostičkom priručniku za afričku svinjsku kugu (»Narodne novine«, br. 116/08), radi isključivanja afričke svinjske kuge.
+5. Posjednici svinja dužni su osigurati potpunu provedbu biosigurnosnih mjera propisanih godišnjom Naredbom o mjerama zaštite zdravlja životinja od zaraznih i nametničkih bolesti i njihovom financiranju te provedbu preventivnih biosigurnosnih mjera za smanjenje opasnosti od unošenja virusa uzročnika afričke svinjske kuge u uzgoje domaćih svinja.
+6. Posjednici svinja moraju osigurati neškodljivo zbrinjavanje nusproizvoda nastalih tijekom klanja svinja za vlastite potrebe u skladu s posebnim propisima.
+7. Zabranjeno je premještanje živih divljih svinja.
+8. Lovoovlaštenici i šumoposjednici dužni su bez odgađanja prijaviti nadležnoj veterinarskoj inspekciji pojavu domaćih svinja izvan prostora navedenih u točki 1. ovoga članka, u svrhu njihovog uklanjanja.
+9. Lovoovlaštenici i šumoposjednici dužni su bez odgađanja prijaviti nadležnim ovlaštenim veterinarskim organizacijama svako neuobičajeno ponašanje svinja divljih, pojavu znakova bolesti na živim ili odstrijeljenim svinjama divljim te svaku uginulu svinju divlju uključujući i lešine svinja divljih u stanju raspadanja i njihovu lokaciju, u svrhu otpreme lešine na laboratorijsko pretraživanje radi isključivanja afričke svinjske kuge.
+10. Prijava iz stavka 9. ovoga članka i dostava uzoraka podrijetlom od svinje divlje provodi se u skladu s uputom Uprave za veterinarstvo i sigurnost hrane (Klasa: 322-02/18-01/60).
+11. Lovoovlaštenici su dužni osigurati provedbu biosigurnosnih mjera iz Dodatka I. ove Naredbe, prije, tijekom i nakon lova.
