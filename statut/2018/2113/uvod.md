@@ -1,0 +1,1 @@
+Na temelju članka 60. stavka 2. Zakona o obavljanju geodetske djelatnosti (»Narodne novine« br. 25/18.), uz prethodnu suglasnost Državne geodetske uprave klasa: 930-01/18-01/25, urbroj: 541-07/1-18-4, od 30. 10. 2018. godine, Skupština Hrvatske komore ovlaštenih inženjera geodezije, na sjednici održanoj 22. studenoga 2018. godine, donijela je
