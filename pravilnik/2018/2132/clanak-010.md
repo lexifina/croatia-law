@@ -1,0 +1,3 @@
+# Članak 10.
+(1) Doktor medicine specijalist, odnosno terapijski tim iz članka 7. ovoga Pravilnika obvezan je izvijestiti sud o datumu kada se počinitelj nasilja u obitelji javio na liječenje, datumu početka liječenja te mjestu liječenja.
+(2) Ako se počinitelj nasilja u obitelji nije javio u nadležnu zdravstvenu ustanovu iz članaka 3. i 4. ovoga Pravilnika, u roku određenom odlukom suda, radi provođenja zaštitne mjere obveznog liječenja od ovisnosti, doktor medicine specijalist, odnosno terapijski tim obvezan je o tome izvijestiti sud u roku od 14 dana od dana isteka roka koji je odlukom suda određen za javljanje u nadležnu zdravstvenu ustanovu iz članaka 3. i 4. ovoga Pravilnika.

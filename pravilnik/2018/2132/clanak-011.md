@@ -1,0 +1,2 @@
+# Članak 11.
+Ako počinitelj nasilja u obitelji ne dolazi na liječenje sukladno individualnom programu liječenja ili kad doktor medicine specijalist, odnosno terapijski tim koji provodi liječenje procijeni da redovito liječenje neće dovesti do promjene u ponašanju počinitelja doktor medicine specijalist, odnosno terapijski tim iz članka 7. ovoga Pravilnika obvezan je izvijestiti nadležno tijelo sukladno zakonu kojim se uređuje područje zaštite od nasilja u obitelji.
