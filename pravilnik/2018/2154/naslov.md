@@ -1,0 +1,1 @@
+Pravilnik o izmjenama i dopunama Pravilnika o provedbi mjere M04 »Ulaganja u fizičku imovinu«, podmjere 4.3. »Potpora za ulaganja u infrastrukturu vezano uz razvoj, modernizaciju i prilagodbu poljoprivrede i šumarstva«, tip operacije 4.3.1. »Investicije u osnovnu infrastrukturu javnog navodnjavanja« iz programa ruralnog razvoja Republike Hrvatske za razdoblje 2014. - 2020.
