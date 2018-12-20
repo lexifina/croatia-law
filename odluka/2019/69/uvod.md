@@ -1,0 +1,1 @@
+Na temelju članka 19. stavka 4. Zakona o komori arhitekata i komorama inženjera u graditeljstvu i prostornom uređenju (»Narodne novine«, broj 78/15.), Skupština Hrvatske komore inženjera elektrotehnike, na 2. sjednici održanoj 20. prosinca 2018. godine, donijela je
