@@ -1,0 +1,1 @@
+Na temelju članka 21.a Pravilnika o načinima i uvjetima odlaganja otpada, kategorijama i uvjetima rada za odlagališta otpada (»Narodne novine«, broj 114/15, 103/18), ministar zaštite okoliša i energetike donio je
