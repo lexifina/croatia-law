@@ -1,0 +1,5 @@
+## Jezik i objave obavijesti
+# Članak 13.
+(1) Dokument s ključnim informacijama PRIIP-a koji se distribuira u Republici Hrvatskoj mora biti napisan na hrvatskom jeziku ili preveden na hrvatski jezik u skladu s odredbom članka 7. stavka 1. Uredbe (EU) br. 1286/2014.
+(2) Iznimno od stavka 1. ovoga članka, Agencija može dozvoliti uporabu drugog jezika u dokumentu s ključnim informacijama, u slučajevima u kojima je razvidno da to ne utječe negativno na interese malih ulagatelja kojima se proizvod distribuira.
+(3) Na sve obavijesti koje su subjekti nadzora iz članka 5. ovoga Zakona dužni dostavljati Agenciji i javno objavljivati u skladu s odredbama Uredbe (EU) br. 1286/2014 i ovoga Zakona na odgovarajući se način primjenjuju odredbe o jeziku objavljivanja informacija iz zakona kojima je uređeno osnivanje i poslovanje subjekata nadzora iz članka 5. ovoga Zakona, osim ako delegirane uredbe Europske komisije ili drugi provedbeni propisi doneseni na temelju Uredbe (EU) br. 1286/2014 u određenim slučajevima ne propisuju izričitu objavu na određenom jeziku.
