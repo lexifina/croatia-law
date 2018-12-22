@@ -1,0 +1,4 @@
+# Članak 107.
+(1) Iznimno od članka 84. stavka 1. ovoga Zakona, katastarske čestice mogu se osnovati kao katastarske čestice katastra nekretnina i u slučaju iz članka 103. točke 3. ovoga Zakona bez donošenja rješenja.
+(2) Kod katastarskih čestica na kojima postoje odstupanja u odnosu na podatke katastarskog operata i zemljišne knjige, koja odstupanja se odnose na podatak o izgrađenosti, pojedinačno će se prevesti katastarska čestica iz katastarskog operata katastra zemljišta u katastarski operat katastra nekretnina, ako je podatak o broju zgrada u katastarskom operatu katastra zemljišta jednak ili veći u odnosu na podatak o broju zgrada u zemljišnoj knjizi.
+(3) Odredbe propisane člankom 105. stavcima 2., 3. i 4. ovoga Zakona primjenjuju se i na katastarske čestice iz stavka 1. ovoga članka.

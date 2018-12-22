@@ -1,0 +1,2 @@
+# Članak 134.
+Sadržaj, način izradbe, vođenja i održavanja katastra infrastrukture te uspostave jedinstvene baze podataka o infrastrukturi i obavijestima o tekućim ili planiranim građevinskim radovima, dostupnost podataka o infrastrukturi i obavijestima o tekućim ili planiranim građevinskim radovima te vrstu i strukturu podataka iz članka 126., članka 131. stavka 1. i članka 133. ovoga Zakona propisuje ravnatelj pravilnikom.

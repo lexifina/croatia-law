@@ -1,0 +1,3 @@
+# Članak 91.
+(1) Geodetske elaborate na zahtjev nositelja prava na zemljištu odnosno osobe koja ima pravni interes izrađuju osobe koje imaju suglasnost za obavljanje stručnih geodetskih poslova za potrebe održavanja katastra zemljišta sukladno posebnom zakonu.
+(2) Da bi se geodetski elaborat mogao upotrebljavati, nadležni područni ured za katastar odnosno ured Grada Zagreba mora potvrditi da je izrađen u skladu s geodetskim i katastarskim propisima, da odgovara svrsi za koju je izrađen te da se može upotrebljavati za potrebe katastra zemljišta te prevođenja katastarskih čestica u katastar nekretnina.

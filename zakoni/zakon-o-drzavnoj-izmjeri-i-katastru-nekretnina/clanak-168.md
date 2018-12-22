@@ -1,0 +1,7 @@
+# Članak 168.
+(1) Državna geodetska uprava odnosno ured Grada Zagreba ovlašteni su izdavati izvatke, preslike i ispise podataka iz članka 6. stavka 1. ovoga Zakona te dopustiti njihovu uporabu ako posebnim propisom nije drukčije određeno.
+(2) Podaci iz članka 6. stavka 1. ovoga Zakona izdaju se kao službeni dokumenti, službene prostorne podloge ili javne isprave.
+(3) Izvod iz digitalnog katastarskog plana, prijepis posjedovnog lista, izvod iz posjedovnog lista, izvadak iz BZP-a, potvrde koje se izdaju na temelju podataka katastarskog operata, izvod iz registra zgrada, izvod iz katastra infrastrukture i potvrde koje se izdaju na temelju podataka katastra infrastrukture, potvrda o kućnom broju te ostale potvrde na temelju podataka iz službenih evidencija iz članka 6. stavka 1. ovoga Zakona izdaju se kao javne isprave kad su ovjerovljeni pečatom i potpisom službene ili ovlaštene osobe.
+(4) Izvod iz katastarskog plana, prijepis posjedovnog lista, izvod iz posjedovnog lista i izvadak iz BZP-a na zahtjev stranke područni uredi za katastar odnosno ured Grada Zagreba mogu izdavati neovisno o mjesnoj nadležnosti.
+(5) Izvodi i potvrde iz stavka 3. ovoga članka izdani u elektroničkom obliku i potpisani elektroničkim potpisom sukladno posebnom zakonu javne su isprave.
+(6) Državna geodetska uprava odnosno ured Grada Zagreba ovlašteni su izdavati i izvatke i preslike podataka o nekretninama sadržanim u elaboratu katastarske izmjere.

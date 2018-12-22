@@ -1,0 +1,5 @@
+# Članak 56.
+(1) Na temelju podataka elaborata katastarske izmjere ili tehničke reambulacije, podataka prikupljenih tijekom izlaganja na javni uvid elaborata katastarske izmjere ili tehničke reambulacije i podataka preuzetih iz osnovane, obnovljene ili dopunjene zemljišne knjige izrađuje se katastarski operat katastra nekretnina koji se stavlja u službenu uporabu danom otvaranja zemljišne knjige.
+(2) Odluku o stavljanju u službenu uporabu katastarskog operata katastra nekretnina donosi ravnatelj na temelju obavijesti nadležnog suda o danu otvaranja zemljišne knjige za katastarsku općinu ili njezin dio.
+(3) Odluka iz stavka 2. ovoga članka objavljuje se u »Narodnim novinama«, a može se objaviti i u drugim javnim glasilima, na mrežnim stranicama Državne geodetske uprave i e-Oglasnoj ploči nadležnog suda te na drugi odgovarajući način.
+(4) Odlukom iz stavka 2. ovoga članka postojeći katastarski operat katastra zemljišta ili dio toga operata obuhvaćen katastarskom izmjerom ili tehničkom reambulacijom stavlja se izvan službene uporabe te se pohranjuje u nadležnom područnom uredu za katastar odnosno uredu Grada Zagreba.

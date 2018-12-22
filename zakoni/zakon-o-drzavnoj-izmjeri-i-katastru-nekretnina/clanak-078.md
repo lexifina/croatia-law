@@ -1,0 +1,2 @@
+# Članak 78.
+Položaj lomnih točaka međa i drugih granica katastarskih čestica na katastarskim planovima koji su izvorno izrađeni u Koordinatnom sustavu poprečne Mercatorove (Gauss-Krügerove) projekcije (u daljnjem tekstu: HTRS96/TM) u postupcima daljnjeg održavanja katastarskog plana određuju se iz podataka mjerenja u okviru standarda položajne točnosti propisane člankom 26. stavkom 2. ovoga Zakona.

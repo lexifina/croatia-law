@@ -1,0 +1,7 @@
+# Članak 172.
+(1) Tijela državne uprave, lokalne i područne (regionalne) samouprave te druga javnopravna tijela obvezna su Državnoj geodetskoj upravi dostaviti podatke koji utječu na podatke iz članka 6. stavka 1. ovoga Zakona.
+(2) Državna geodetska uprava ima pravo bez naknade pristupati podacima i koristiti podatke koji utječu na podatke iz članka 6. stavka 1. ovoga Zakona iz evidencija sudova, tijela državne uprave, zavoda i pravnih osoba čiji je osnivač Republika Hrvatska, kao i drugih javnih evidencija.
+(3) Pristup podacima iz evidencija uspostavit će se i izravno elektroničkim putem.
+(4) Tijelima državne uprave i drugim državnim tijelima, jedinicama lokalne i područne (regionalne) samouprave te javnopravnim tijelima koja se isključivo financiraju iz sredstava državnog proračuna za izdavanje izvadaka, prijepisa, potvrda i preslika podataka iz članka 6. stavka 1. ovoga Zakona, kada su im oni potrebni za obavljanje poslova iz njihove nadležnosti, stvarni troškovi se ne naplaćuju.
+(5) Tijelima državne uprave i drugim državnim tijelima, jedinicama lokalne i područne (regionalne) samouprave te javnopravnim tijelima koja se isključivo financiraju iz sredstava državnog proračuna za pristup i korištenja podataka iz članka 6. stavka 1. ovoga Zakona, kada te podatke koriste u obavljanju poslova iz svoje nadležnosti, stvarni troškovi se ne naplaćuju.
+(6) Tijelima državne uprave i drugim državnim tijelima stvarni troškovi za pružanje geodetskih usluga iz članka 160. točke 7. ovoga Zakona se ne naplaćuju.

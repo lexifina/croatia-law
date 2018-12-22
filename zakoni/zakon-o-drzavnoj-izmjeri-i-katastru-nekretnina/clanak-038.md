@@ -1,0 +1,9 @@
+# Članak 38.
+(1) Podacima o međama i drugim granicama opisuje se položaj i oblik katastarske čestice. Podaci o granicama katastarskih čestica prikupljaju se u postupku katastarske izmjere i tehničke reambulacije uz sudjelovanje nositelja prava na nekretninama.
+(2) Adresom katastarske čestice iskazuje se položaj katastarske čestice tako da se iskaže njezina pripadnost rudini, ulici, trgu ili drugom geografskom imenu. Podaci o ulicama i trgovima preuzimaju se iz registra prostornih jedinica te iz odluka tijela nadležnih za donošenje odluka o ulicama i trgovima.
+(3) Podaci o načinu uporabe katastarske čestice odnosno njezinih dijelova iskazuju se tako da se katastarskoj čestici odnosno njezinu dijelu pridruži podatak o načinu uporabe određen propisima donesenim na temelju ovoga Zakona.
+(4) Površine katastarskih čestica te površine njihovih dijelova koji se upotrebljavaju na različite načine su površine u službenoj ravninskoj kartografskoj projekciji iz članka 12. stavka 1. ovoga Zakona, a iskazuju se u kvadratnim metrima.
+(5) Podaci o posebnim pravnim režimima koji su uspostavljeni na katastarskoj čestici iskazuju se pridruživanjem podatka o posebnom pravnom režimu katastarskoj čestici.
+(6) Za zgrade se prikupljaju i obrađuju podaci o njihovu položaju, obliku, načinu njihove uporabe i kućnim brojevima. U okviru katastarske izmjere i tehničke reambulacije nositelji prava za zgradu koja se evidentira mogu priložiti odgovarajući akt o uporabi, o čemu se obavještava nadležni sud sukladno posebnom propisu. U okviru katastarske izmjere i tehničke reambulacije prikupljaju se i drugi podaci o zgradama sukladno ovome Zakonu.
+(7) Podaci o drugim građevinama izgrađenim na katastarskoj čestici iskazuju se jednim od načina uporabe zemljišta propisanih pravilnikom iz članka 39. stavka 2. ovoga Zakona.
+(8) Podaci o nositeljima prava na katastarskim česticama su ime i prezime odnosno naziv, adresa i osobni identifikacijski broj (OIB).

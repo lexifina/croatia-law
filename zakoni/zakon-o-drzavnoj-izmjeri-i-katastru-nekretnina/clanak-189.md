@@ -1,0 +1,2 @@
+# Članak 189.
+Obvezuje se ravnatelj da propise iz članka 13. stavka 5., članka 17. stavaka 1. i 2., članka 20. stavka 3., članka 39. stavka 2., članka 41. stavka 2., članka 53., članka 55. stavka 8., članka 62. stavka 2., članka 73., članka 96., članka 113., članka 120. stavka 2., članka 134., članka 142., članka 147., članka 164. stavka 2., članka 171. stavka 4. i 5. i članka 179. stavka 4. ovoga Zakona donese najkasnije u roku od 12 mjeseci od dana stupanja na snagu ovoga Zakona.

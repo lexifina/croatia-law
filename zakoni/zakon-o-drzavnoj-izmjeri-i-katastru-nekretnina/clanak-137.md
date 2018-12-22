@@ -1,0 +1,2 @@
+# Članak 137.
+U registru prostornih jedinica vode se podaci o sljedećim prostornim jedinicama: državi, županiji, Gradu Zagrebu, gradu, općini, naselju, dostavnom području poštanskog ureda, jedinici mjesne samouprave, zaštićenim područjima, katastarskoj općini, statističkome krugu, popisnome krugu, ulici i trgu, zgradi i pripadajućim kućnim brojevima te o drugim prostornim jedinicama za koje je to određeno posebnim propisima.

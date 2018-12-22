@@ -1,0 +1,5 @@
+# Članak 6.
+(1) Podaci državne izmjere, katastra nekretnina, registra zgrada, katastra infrastrukture, registra prostornih jedinica i registra geografskih imena javni su ako ovim Zakonom ili posebnim zakonom nije drukčije određeno.
+(2) Podaci iz stavka 1. ovoga članka daju se na uvid, a isprave, ispisi i drugi dokumenti utemeljeni na tim podacima izdaju se na način određen ovim Zakonom, propisima donesenim na temelju ovoga Zakona te propisima kojima se uređuje pravo na pristup informacijama.
+(3) Podaci državne izmjere, katastra nekretnina, registra zgrada, katastra infrastrukture, registra prostornih jedinica i registra geografskih imena (izvod ili prijepis posjedovnog lista, izvadak iz baze zemljišnih podataka, izvod iz katastarskog plana, izvod iz registra zgrada, izvod iz plana infrastrukture i potvrde) izdani u analognom i digitalnom obliku i koji imaju snagu javne isprave smiju se upotrijebiti samo u svrhu za koju su izdani.
+(4) Podaci iz stavka 1. ovoga članka usklađeni su s propisima kojima je uređena nacionalna infrastruktura prostornih podataka.

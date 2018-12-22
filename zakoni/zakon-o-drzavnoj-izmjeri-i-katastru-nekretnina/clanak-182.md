@@ -1,0 +1,5 @@
+# Članak 182.
+(1) Poslove višega geodetskog inspektora može obavljati službenik koji ima završen preddiplomski i diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij ili preddiplomski stručni studij i specijalistički diplomski stručni studij geodetske struke, najmanje deset godina radnog iskustva na odgovarajućim poslovima i položen državni stručni ispit.
+(2) Poslove geodetskog inspektora može obavljati službenik koji ima završen preddiplomski i diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij ili preddiplomski stručni studij i specijalistički diplomski stručni studij geodetske struke, najmanje pet godina radnog iskustva na odgovarajućim poslovima i položen državni stručni ispit.
+(3) Osim uvjeta iz ovoga članka, viši geodetski inspektor i geodetski inspektor moraju ispunjavati uvjete određene propisima kojima se uređuju prava i obveze državnih službenika.
+(4) Uvjete iz ovoga članka mora ispunjavati i državni službenik iz članka 178. stavka 3. ovoga Zakona.

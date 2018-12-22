@@ -1,0 +1,2 @@
+# Članak 79.
+Položaji lomnih točaka međa i drugih granica katastarskih čestica na katastarskim planovima izvorno izrađenim grafičkom metodom izmjere ili u Hrvatskom državnom koordinatnom sustavu Gauss-Krügerovoj projekciji (u daljnjem tekstu: HDKS/GK) i prevedenim u digitalni oblik određeni su koordinatama dobivenim vektorizacijom odnosno homogenizacijom postojećih katastarskih planova te ih je u postupcima daljnjeg održavanja katastarskog plana potrebno odrediti iz podataka mjerenja u okviru standarda položajne točnosti propisane člankom 26. stavkom 2. ovoga Zakona.
