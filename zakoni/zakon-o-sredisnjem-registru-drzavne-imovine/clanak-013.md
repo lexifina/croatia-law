@@ -1,0 +1,2 @@
+# Članak 13.
+Državni službenici ministarstva nadležnog za upravljanje državnom imovinom koji su u trenutku stupanja na snagu ovoga Zakona zatečeni na obavljanju preuzetih poslova prelaze na rad u Središnji državni ured za razvoj digitalnog društva i zadržavaju plaće prema dosadašnjim rješenjima, do donošenja rješenja o rasporedu na radna mjesta prema novoj uredbi o unutarnjem ustrojstvu Središnjeg državnog ureda za razvoj digitalnog društva i novom pravilniku o unutarnjem redu Središnjeg državnog ureda za razvoj digitalnog društva donesenom na temelju te uredbe.
