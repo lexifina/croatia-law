@@ -1,0 +1,3 @@
+# Članak 13.
+(1) Pravna i fizička osoba, odnosno zdravstvena ustanova koja provodi psihosocijalni tretman vodi evidenciju o osobama koje su joj upućene radi provođenja psihosocijalnog tretmana i o osobama s uspješno provedenim tretmanom, i o tome jedan put godišnje, do 30. siječnja za prethodnu godinu izvješćuju ministra nadležnog za poslove pravosuđa i Stručno povjerenstvo.
+(2) Pravna i fizička osoba, odnosno zdravstvena ustanova koja provodi psihosocijalni tretman pored izvješća iz stavka 1. ovog članka, dostavit će izvješće o provođenju psihosocijalnog tretmana na zahtjev Stručnog povjerenstva.

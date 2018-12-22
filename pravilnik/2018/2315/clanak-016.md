@@ -1,0 +1,2 @@
+# Članak 16.
+Stupanjem na snagu ovog Pravilnika preostaju važiti odredbe Pravilnika o načinu i mjestu provođenja psihosocijalnog tretmana (»Narodne novine«, br. 29/05. i 78/06.), a Standardi za provedbu psihosocijalnog tretmana počinitelja nasilja u obitelji (»Narodne novine«, br. 78/06) ostaju na snazi do donošenja Standarda za provođenje zaštitne mjere obveznog psihosocijalnog tretmana iz članka 15. ovog Pravilnika.
