@@ -1,0 +1,2 @@
+# Članak 5.
+Obvezniku stavljanja biogoriva na tržište iz članka 22. stavka 2. Zakona o izmjenama i dopunama Zakona o biogorivima za prijevoz (»Narodne novine«, broj 94/18), koji je Ministarstvu u pisanom obliku u roku od 15 dana od dana stupanja na snagu istoga Zakona podnio zahtjev za jednokratno plaćanje posebne naknade za okoliš za 2017. godinu, odobrava se popust u iznosu 30%, s krajnjim rokom uplate sukladno stavku 6. istoga članka.
