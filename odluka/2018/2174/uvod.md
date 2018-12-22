@@ -1,0 +1,1 @@
+Na temelju članka 13. stavka 1., a u vezi s člankom 2. stavcima 1. i 2. Zakona o izvlaštenju i određivanju naknade (»Narodne novine«, br. 74/14 i 69/17), Vlada Republike Hrvatske je na sjednici održanoj 13. prosinca 2018. godine donijela
