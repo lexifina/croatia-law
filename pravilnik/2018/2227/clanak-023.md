@@ -1,0 +1,7 @@
+## PRESTANAK VOĐENJA SLUŽBENOG REGISTRA PROPISANIH INFORMACIJA
+# Članak 23.
+(1) Kada voditelj registra prestane obavljati poslove vođenja registra za koji ima odobrenje Hanfe, dužan je bez odgode o istome obavijestiti Hanfu i svoje izdavatelje.
+(2) Voditelj registra iz stavka 1. ovoga članka, dužan je svojim izdavateljima omogućiti dovoljno vremena za uspostavljanje dostavljanja propisanih informacija u drugi registar, a koji rok ne može biti kraći od tri mjeseca od dana obavijesti iz stavka 1. ovoga članka.
+(3) U roku iz stavka 2. ovoga članka, voditelj registra dužan je na zahtjev izdavatelja dostaviti sve propisane informacije tog izdavatelja u drugi registar s kojim je izdavatelj uspostavio dostavljanje propisanih informacija.
+(4) U slučaju nemogućnosti ispunjenja uvjeta iz stavka 3. ovoga članka zbog nepostojanja drugog registra, voditelj registra iz stavka 1. ovoga članka ne smije prestati voditi registar pod uvjetima i na način propisan Zakonom, ovim Pravilnikom i Delegiranom uredbom Komisije (EU) 2016/1437 sve dok Hanfa ne odobri vođenje registra drugoj pravnoj osobi, s tim da vrijeme do odobrenja vođenja registra drugoj pravnoj osobi ne može biti duže od jedne godine od dana obavijesti iz stavka 1. ovoga članka.
+(5) Ako u roku iz stavka 4. ovoga članka Hanfa ne odobri vođenje registra drugoj pravnoj osobi, voditelj registra dužan je svoj registar na vođenje u cijelosti predati Hanfi, uključujući sve podatke pohranjene i obrađene u registru kao i svu popratnu dokumentaciju.
