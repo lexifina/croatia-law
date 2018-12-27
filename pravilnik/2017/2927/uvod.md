@@ -1,1 +1,0 @@
-Na temelju odredbi članka 192. stavka 4., članka 193. stavka 13. točka a), članka 195. stavka 8. i članka 256. stavka 4. Zakona o alternativnim investicijskim fondovima (»Narodne novine«, br. 16/2013 i 143/2014) Hrvatska agencija za nadzor financijskih usluga (dalje: Agencija) na sjednici Upravnog vijeća održanoj 15. prosinca 2017. godine donosi
