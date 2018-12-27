@@ -1,0 +1,1 @@
+Na temelju članka 64. stavka 19. Zakona o strancima (»Narodne novine«, broj: 130/11, 74/13, 69/17, 46/18), ministrica nadležna za znanost, uz suglasnost ministra nadležnog za unutarnje poslove, donosi
