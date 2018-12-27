@@ -1,0 +1,3 @@
+## UGOVOR O RADU NA ODREĐENO VRIJEME
+# Članak 38.
+S osobama izabranim u znanstvena, suradnička i stručna zvanja koje rade na projektu ograničenog trajanja, ugovor o radu zaključuje se na određeno vrijeme, dok traje projekt ili njegova dionica na kojoj je ta osoba angažirana. S osobama koje rade na projektu ograničenog trajanja, moguće je sklapanje uzastopnih ugovora o radu na određeno vrijeme duže od 3 godine, ukoliko je to opravdano objektivnim projektnim razlozima, odnosno razlozima pravovremenog i kvalitetnog provođenja projekta ili dionice projekta na kojoj je ta osoba angažirana, s tim da ukupno trajanje svih uzastopnih ugovora o radu na određeno vrijeme, uključujući i prvi ugovor, ne smije trajati neprekidno dulje od 6 godina.

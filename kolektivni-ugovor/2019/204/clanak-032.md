@@ -1,0 +1,5 @@
+## SISTEMATSKI PREGLEDI
+# Članak 32.
+(1) Svi zaposlenici do 50 godina starosti svake 3 godine, a zaposlenici iznad 50 godina starosti svake 2 godine, imaju pravo na sistematski pregled u vrijednosti od 500 kuna, po cijenama zdravstvenih usluga iz obveznoga zdravstvenog osiguranja, a koje će se obavljati u zdravstvenim ustanovama iz mreže javne zdravstvene službe, u pravilu prema mjestu rada.
+(2) Sistematski pregled iz stavka 1. ovoga članka obuhvaća zdravstvene preglede sadržane u specifikaciji koja se nalazi u prilogu važećeg TKU-a i čini njegov sastavni dio, a ako TKU nije na snazi, za žene obvezan sistematski liječnički pregled, između ostalog uključuje i ginekološki pregled, Papa-test i pregled dojki, a za muškarce pregled prostate, u skladu s liječničkim standardima, odnosno prema popisu sadržaja sistematskog pregleda Hrvatskog zavoda za obvezno zdravstveno osiguranje.
+(3) Dinamiku obveznih sistematskih pregleda planira i kontrolira poslodavac, na način da svake godine, u pravilu prema abecednom redoslijedu, odredi trećinu zaposlenika do 50 godina starosti, odnosno polovinu zaposlenika iznad 50 godina starosti radi odlaska na pregled u toj tekućoj godini.

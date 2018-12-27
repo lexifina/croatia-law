@@ -1,0 +1,5 @@
+# Članak 80.
+Puno nastavno opterećenje
+(1) Puno nastavno opterećenje odnosi se na broj planiranih radnih sati u ukupnoj nastavnoj aktivnosti s kojima se zaposlenik zadužuje na početku akademske godine, uključivo količinu kontakt-sati koji iz tog broja proizlazi.
+(2) Ako nastavnik izvodi samo istovrsnu nastavu (primjerice, samo predavanja za znanstveno-nastavno osoblje ili samo vježbe za asistente), proizlazi da broj potrebnih kontakt-sati za puno nastavno opterećenje u standardnoj podjeli iznosi 150.
+(3) Ako nastavnik izvodi različite oblike nastave prema godišnjem planu, tada će i broj potrebnih kontakt-sati varirati, pri čemu se puno nastavno opterećenje obračunava tako da se broj planiranih kontakt-sati u pojedinom obliku izravne nastave množi s ponderima iz članka 78. ovoga Ugovora. Nastavnik ima puno nastavno opterećenje ako suma svih umnožaka kontakt-sati po pojedinom obliku nastave i pondera za taj oblik nastave iznosi jednako ili više od broja njegovih planiranih sati rada u nastavnom dijelu radnog vremena.
