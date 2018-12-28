@@ -1,0 +1,7 @@
+# Članak 5.
+(1) Poziv na dodjelu bespovratnih sredstava usklađen je s ovim Pravilnikom.
+(2) Nadležno tijelo za Operativni program može u pozivu na dodjelu bespovratnih sredstava utvrditi detaljnije i/ili restriktivnije uvjete prihvatljivosti izdataka nego je to utvrđeno u ovom Pravilniku, ili utvrditi način postupanja, metodu ili oblik. Način postupanja, metoda ili oblik utvrđuju se obvezno, ako to proizlazi iz zahtijeva Uredbe (EU) br. 1303/2013.
+(3) U slučaju iz stavka 2. ovoga članka, ako se pozivom na dodjelu bespovratnih sredstava utvrđuju detaljniji i/ili restriktivniji uvjeti prihvatljivosti izdataka, način postupanja, metoda ili oblik, ili ako iz odredbi ovog Pravilnika proizlazi da će dodatna pravila prihvatljivosti izdataka utvrditi nadležno tijelo u pozivu na dodjelu bespovratnih sredstava, vrijedi ono što je utvrđeno u pozivu na dodjelu bespovratnih sredstava.
+(4) Ako je nadležno tijelo drugačije od Upravljačkog tijela za Operativni program, uvjete prihvatljivosti izdataka u skladu sa stavcima 2. i 3. ovoga članka, prethodno odobrava Upravljačko tijelo za Operativni program.
+(5) Upravljačko tijelo za Operativni program daje mišljenje u vezi primjene ovog Pravilnika.
+(6) Ako pravila utvrđena u članku 1. stavku 5. - 9. ovoga Pravilnika, odnosno njihove naknadne izmjene i dopune utvrđuju obvezne dodatne ili nove uvjete prihvatljivosti, pored uvjeta navedenih u ovom Pravilniku ili pozivu na dodjelu bespovratnih sredstava, primjenjuje se ono što je u njima utvrđeno, na način kako je u njima utvrđeno.
