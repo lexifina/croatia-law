@@ -1,0 +1,3 @@
+## Izvještajna razdoblja
+# Članak 16.
+Trgovačka društva i pravne osobe od posebnog interesa za Republiku Hrvatsku, u kojima Republika Hrvatska ima većinski udio sukladno Odluci o izmjeni Odluke o utvrđivanju popisa trgovačkih društava i drugih pravnih osoba od strateškog i posebnog interesa za Republiku Hrvatsku (»Narodne novine«, br. 2/18.), a koja su stupanjem na snagu Odluke o pravnim osobama od posebnog interesa za Republiku Hrvatsku (»Narodne novine«, br. 71/18.) postale pravne osobe od posebnog interesa za Republiku Hrvatsku, sastavljaju prve godišnje financijske izvještaje kao subjekti od javnog interesa za poslovnu godinu koja počinje 1. siječnja 2019. ili tijekom kalendarske 2019. godine.
