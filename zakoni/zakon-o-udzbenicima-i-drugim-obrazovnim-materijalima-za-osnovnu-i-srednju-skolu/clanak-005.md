@@ -1,0 +1,6 @@
+## Ograničenja za udžbenike
+# Članak 5.
+(1) Dužnosnici i službenici ministarstva nadležnog za obrazovanje te službenici ustanove za vanjsko vrednovanje obrazovanja i ustanova nadležnih za sustav odgoja i obrazovanja ne mogu biti autori, urednici niti recenzenti udžbenika.
+(2) Udžbenici i drugi obrazovni materijali svojim sadržajem ne smiju biti protivni Ustavu Republike Hrvatske i proklamiranim načelima demokratskog poretka koji se posebice odnose na zaštitu ljudskih i manjinskih prava, temeljnih sloboda i prava čovjeka i građanina te ravnopravnost spolova. Sadržaj udžbenika treba štititi temeljne vrijednosti i baštinu Republike Hrvatske, kao i promicati nacionalni identitet.
+(3) Udžbenici i drugi obrazovni materijali ne smiju sadržavati promidžbeni materijal.
+(4) Iznimno od stavka 3. ovoga članka, može se odobriti promidžbeni materijal u udžbenicima za strukovne predmete u kojima se ukratko predstavlja pravna osoba koja je udžbenik izradila ili čiju je izradu sufinancirala, a čija je djelatnost usko povezana sa strukovnim predmetom za koji se udžbenik izrađuje. Promidžbeni materijal može biti samo na zadnjoj stranici tiskanog udžbenika odnosno zasebnom dijelu elektroničkog dijela udžbenika, jasno označen i odvojen od obrazovnog materijala.
