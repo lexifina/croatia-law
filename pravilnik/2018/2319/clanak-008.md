@@ -1,0 +1,3 @@
+# Članak 8.
+(1) Ako se u roku od jedne godine od dana započetog zdravstvenog pregleda kliconoše trbušnog tifusa odnosno paratifusa A i B ne dobiju tri uzastopna negativna laboratorijska nalaza, takva osoba smatra se kroničnim kliconošom i podvrgava se daljnjem zdravstvenom pregledu koji obuhvaća bakteriološki pregled stolice i mokraće svakih šest mjeseci.
+(2) Zdravstveni nadzor kroničnih kliconoša prestaje u slučaju kad se na temelju tri uzastopno dobivena laboratorijska nalaza stolice i mokraće uzetih u razmacima ne kraćim od mjesec dana utvrdi da osoba više ne izlučuje uzročnike trbušnog tifusa ili paratifusa A i B.

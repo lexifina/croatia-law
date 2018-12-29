@@ -1,0 +1,5 @@
+# Članak 11.
+(1) Zdravstveni pregled kliconoša šigela, EHEC ili netifusnih salmoneloza obuhvaća bakteriološki pregled stolice.
+(2) Bakteriološki pregled stolice osoba iz stavka 1. ovoga članka obavlja se na način da se pregledaju dva uzorka stolice u razmaku od najmanje 24 sata, pri čemu se prvi uzorak treba uzeti najmanje 48 sati nakon završetka antibiotskog liječenja, ako je ono provedeno. U slučaju pozitivnog nalaza, ponovno uzimanje uzorka stolice na bakteriološki pregled (dvije stolice u razmaku od najmanje 24 sata) obavlja se nakon četrnaest dana.
+(3) Ako se na temelju dva uzastopno dobivena laboratorijska nalaza utvrdi da osoba izlučuje klice šigele, EHEC odnosno netifusne salmonele, nastavlja se s bakteriološkom kontrolom stolice svaka tri mjeseca po dva uzorka stolice u razmaku od najmanje 24 sata.
+(4) Smatra se da osoba nije više kliconoša kad se na temelju dva uzastopno dobivena negativna laboratorijska nalaza utvrdi da osoba ne izlučuje klice šigele, EHEC odnosno netifusne salmonele.

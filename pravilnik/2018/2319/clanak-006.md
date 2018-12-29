@@ -1,0 +1,4 @@
+# Članak 6.
+(1) Osoba za koju se zdravstvenim pregledom utvrdi da stalno ili povremeno izlučuje klice trbušnog tifusa, paratifusa A i B, šigeloze, bolesti uzrokovane EHEC sojevima ili netifusnih salmoneloza smatra se kliconošom tih zaraznih bolesti i podvrgava se zdravstvenom nadzoru sve dok se na temelju laboratorijskog nalaza ne utvrdi da ne izlučuju klice zaraznih bolesti.
+(2) Kada zdravstvena ustanova na temelju obavljenog zdravstvenog pregleda utvrdi da osoba pod zdravstvenim nadzorom nakon završenog liječenja izlučuje klice zarazne bolesti koju je preboljela ili je kliconoša, obvezna je o tome podnijeti prijavu tijelu državne uprave nadležnom za poslove sanitarne inspekcije prema mjestu prebivališta odnosno boravišta osobe koja izlučuje klice.
+(3) Ustanova iz stavka 2. ovoga članka obvezna je kliconoštvo trbušnog tifusa i paratifusa prijaviti i Hrvatskom zavodu za javno zdravstvo.

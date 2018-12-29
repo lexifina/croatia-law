@@ -1,0 +1,3 @@
+# Članak 9.
+(1) Osobe za koje se prilikom epidemiološke obrade pri pojavi trbušnog tifusa odnosno paratifusa A i B posumnja da nose klice tih bolesti (kontakti oboljelih ili kliconoša), podvrgavaju se zdravstvenom pregledu koji obuhvaća bakteriološki pregled stolice, na način da se pregledaju dva uzastopna uzorka stolice uzeta u razmaku od najmanje 48 sati, a nakon što je osoba već započela s liječenjem.
+(2) Ako se za osobe iz stavka 1. ovoga članka zdravstvenim pregledom utvrdi da nose klice trbušnog tifusa odnosno paratifusa A i B, zdravstveni nadzor tih osoba obavlja se na način propisan člancima 5., 6. i 7. ovoga Pravilnika.
