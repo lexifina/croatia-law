@@ -1,0 +1,3 @@
+# Članak 51.
+(1) Razvrstavanje otoka u skupine iz članka 2. Zakona o otocima (»Narodne novine«, br. 34/99., 149/99., 32/02. i 33/06.) ostaje na snazi do donošenja odluke iz članka 13. stavka 4. ovoga Zakona.
+(2) Zabilježbe zabrane otuđenja na nekretninama u vlasništvu Republike Hrvatske i prava prvokupa u korist Republike Hrvatske, županije, grada i općine na nekretninama u vlasništvu drugih osoba koje su izvršene na temelju članka 35.b stavka 3. Zakona o otocima (»Narodne novine«, br. 34/99., 149/99., 32/02. i 33/06.) primjenjuju se do izvršenja upisa uknjižbe ili predbilježbe prava prvokupa odnosno zabilježbe zabrane otuđenja za korist Republike Hrvatske iz članka 48. stavka 1. ovoga Zakona.
