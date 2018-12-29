@@ -1,0 +1,9 @@
+# Članak 16.
+Članak 21. mijenja se i glasi:
+»(1) Javni sektor provodi obveze u okviru politike sustavnog gospodarenja energijom i vodom sukladno smjernicama Europske unije o decentralizaciji lokalne i područne (regionalne) samouprave te potrebama i usvojenim planovima i programima energetske učinkovitosti i drugih akata kojima se uređuje provedba politike sustavnog gospodarenja energijom i vodom, kao i sukladno održivoj fiskalnoj politici i odgovornosti prema korištenju javnog novca.
+(2) Javni sektor dužan je upravljati potrošnjom energije i vode na energetski učinkovit način, a u ispunjenju te obveze dužan je:
+1. odlukom iz redova vlastitog osoblja ili ugovaranjem prema pravilima o nabavi usluga imenovati osobu odgovornu za energetsku učinkovitost, za dio zgrade na korištenju i/ili u vlasništvu ili za zgradu ili za više zgrada skupno
+2. redovito pratiti i najmanje jednom mjesečno unositi podatke o potrošnji energije i vode u zgradama ili dijelovima zgrada na korištenju i/ili u vlasništvu ili u kojima se energija plaća javnim sredstvima u nacionalni informacijski sustav za gospodarenje energijom i redovito ažurirati podatke o energetskim svojstvima zgrada
+3. analizirati periodički, a najmanje jednom godišnje, potrošnju energije u zgradama ili dijelovima zgrada na korištenju i/ili u vlasništvu ili u kojima se energija plaća javnim sredstvima, o čemu izvještava APN
+4. na svim mjernim mjestima potrošnje energije i vode u zgradi, dijelu zgrade ili skupini zgrada čiji je ukupni godišnji trošak potrošnje energije i vode jednak ili veći od 700.000,00 kuna ugraditi sustav daljinskog očitavanja potrošnje i povezati ga s nacionalnim informacijskim sustavom za gospodarenje energijom (ISGE).
+(3) Način upravljanja potrošnjom energije i vode, analiza potrošnje energije i vode te način izvještavanja propisuju se pravilnikom koji donosi ministar nadležan za poslove graditeljstva.«.
