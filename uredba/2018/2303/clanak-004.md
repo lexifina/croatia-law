@@ -1,0 +1,2 @@
+# Članak 4.
+Ova Uredba objavit će se u »Narodnim novinama«, a stupa na snagu osmoga dana od dana objave, osim članka 5. stavka 3. točke 5. koja je izmijenjena člankom 2. ove Uredbe, za obveznike koji ispuštaju industrijske otpadne vode koje ne potječu iz tehnološkog procesa i sanitarne otpadne vode koje su propisom iz članka 60. stavka 3. Zakona o vodama (»Narodne novine«, br. 153/09, 63/11, 130/11, 56/13, 14/14 i 46/18) isključene iz obveze redovitog ispitivanja njihova sastava, koji stupa na snagu 1. siječnja 2022. godine.

@@ -1,0 +1,1 @@
+Na temelju članka 36. Zakona o financiranju vodnoga gospodarstva (»Narodne novine«, br. 153/09, 90/11, 56/13, 154/14, 119/15, 120/16 i 127/17), Vlada Republike Hrvatske je na sjednici održanoj 20. prosinca 2018. godine donijela
