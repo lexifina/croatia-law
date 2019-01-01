@@ -1,0 +1,4 @@
+# Članak 81.
+(1) Istekom razdoblja sezonskog rada u poljoprivredi, a najkasnije na kraju kalendarske godine, radi utvrđivanja staža osiguranja provedenog na sezonskim poslovima prema posebnom propisu, sezonski radnik u poljoprivredi dužan je tijelu nadležnom za provedbu mirovinskog osiguranja dostaviti podatak o sezonskom radu u poljoprivredi tijekom te kalendarske godine.
+(2) Na temelju podataka iz stavka 1. ovoga članka tijelo nadležno za provedbu mirovinskog osiguranja evidentira svojstvo osiguranika u mirovinskom osiguranju.
+(3) Tijelo nadležno za provedbu mirovinskog osiguranja, radi evidentiranja uplata na osobne račune osiguranika drugog mirovinskog stupa, podatke o utvrđenim osiguranicima, prema posebnom propisu o zaštiti osobnih podataka, dostavljat će tijelu nadležnom za vođenje registra osiguranika drugog mirovinskog stupa.

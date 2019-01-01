@@ -1,0 +1,5 @@
+# Članak 2.
+Ovim Zakonom u hrvatsko zakonodavstvo preuzimaju se sljedeće direktive Europske unije:
+– Direktiva Vijeća 97/81/EZ od 15. prosinca 1997. o Okvirnom sporazumu o radu s nepunim radnim vremenom koji su sklopili UNICE, CEEP i ETUC (SL L 14, 20. 1. 1998.)
+– Direktiva 2006/123/EZ Europskog parlamenta i Vijeća od 12. prosinca 2006. o uslugama na unutarnjem tržištu (SL L 376/36, 12. 12. 2006.) i
+– Direktiva 2014/54/EU Europskog parlamenta i Vijeća od 16. travnja 2014. o mjerama za lakše ostvarivanje prava zajamčenih radnicima u kontekstu slobode kretanja radnika (SL L 128/8, 30. 4. 2014.).

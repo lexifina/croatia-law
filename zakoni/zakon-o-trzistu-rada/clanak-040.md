@@ -1,0 +1,4 @@
+# Članak 40.
+(1) Ugovor o stručnom osposobljavanju za rad bez zasnivanja radnog odnosa mora biti sklopljen u pisanom obliku, a na osobu koja sklopi takav ugovor na odgovarajući se način primjenjuju propisi kojima se uređuje zaštita zdravlja i sigurnost na radu i opći propis kojim se uređuju radni odnosi, osim odredbi o sklapanju ugovora o radu, plaći i naknadi plaće te prestanku ugovora o radu.
+(2) Osobi koja ima sklopljen ugovor o stručnom osposobljavanju za rad bez zasnivanja radnog odnosa ne može se naložiti prekovremeni rad, osim ako poslodavcu dostavi pisanu izjavu o dobrovoljnom pristanku na takav rad.
+(3) Osoba koja se stručno osposobljava za rad bez zasnivanja radnog odnosa ne može obavljati poslove u razdoblju između 22 sata uvečer i 6 sati ujutro te nedjeljom, blagdanom ili nekim drugim danom za koji je zakonom određeno da se ne radi.

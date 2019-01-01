@@ -1,0 +1,3 @@
+# Članak 100.
+(1) U vrijeme obveznog osiguranja po propisima o mirovinskom osiguranju iz članka 46. stavka 2. točke 2. i članka 54. stavka 4. ovoga Zakona uračunava se vrijeme obveznog osiguranja ostvareno nakon stupanja na snagu Zakona o izmjenama i dopunama Zakona o posredovanju pri zapošljavanju i pravima za vrijeme nezaposlenosti (»Narodne novine«, br. 153/13.) za koje je uplaćen doprinos za zapošljavanje.
+(2) U vrijeme obveznog osiguranja iz stavka 1. ovoga članka ne uračunava se vrijeme obveznog osiguranja ostvareno prije stupanja na snagu Zakona o izmjenama i dopunama Zakona o posredovanju pri zapošljavanju i pravima za vrijeme nezaposlenosti (»Narodne novine«, br. 153/13.) za koje su uplaćeni doprinosi za obvezna osiguranja.
