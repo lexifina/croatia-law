@@ -1,0 +1,6 @@
+## IV. ODSTUPANJA OD PRIMJENE FISKALNIH PRAVILA
+# Članak 10.
+(1) Odstupanje od fiskalnog pravila iz članka 6. stavaka 1. i 2. ovoga Zakona je, sukladno pravnim odredbama Europske unije, značajno, ako je odstupanje od srednjoročnog proračunskog cilja odnosno plana prilagodbe za dostizanje srednjoročnog proračunskog cilja najmanje 0,5 % BDP-a u pojedinoj godini ili najmanje prosječno 0,25 % BDP-a godišnje u dvije uzastopne godine.
+(2) Odstupanje od fiskalnog pravila iz članka 7. ovoga Zakona je, sukladno pravnim odredbama Europske unije, značajno, ako rast rashoda općeg proračuna, bez povećanja prihoda zbog promjene zakonodavnog okvira sukladno članku 7. stavku 4. ovoga Zakona, ima učinak na povećanje manjka općeg proračuna od najmanje 0,5 % BDP-a u pojedinoj godini ili kumulativno u dvije uzastopne godine.
+(3) Privremeno odgađanje primjene fiskalnih pravila iz članaka 6., 7. i 8. ovoga Zakona je dozvoljeno u slučaju izvanrednih okolnosti sukladno pravnim odredbama Europske unije, pod uvjetom da se time ne ugrožava fiskalna održivost u srednjem roku.
+(4) O privremenom odgađanju primjene fiskalnih pravila iz članaka 6., 7. i 8. ovoga Zakona, u slučaju izvanrednih okolnosti iz ovoga članka odlučuje Vlada odlukom, na prijedlog Ministarstva financija, uz prethodno mišljenje Povjerenstva za fiskalnu politiku.
