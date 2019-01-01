@@ -1,0 +1,9 @@
+## Specifične tehničke aktivnosti povezane s upravljanjem uzgojnim programom
+# Članak 9.
+(1) Udruženje i organizacija samostalno obavljaju specifične tehničke aktivnosti (vođenje matičnih knjiga i drugih uzgojnih knjiga, vođenje uzgojne dokumentacije, izdavanje zootehničkog certifikata, izdavanje jedinstvenog cjeloživotnog identifikacijskog dokumenta kopitara, uspostava i vođenje baze podataka, DNK verifikacija roditeljstva, i sl.), uključujući testiranje rasta, razvoja, proizvodnih odlika (fenotip) i genetsko vrednovanje uzgojno valjanih životinja, koje su povezane s upravljanjem njihovim uzgojnim programima.
+(2) Udruženje i organizacija mogu drugom udruženju i organizaciji te pravnoj osobi (u daljnjem tekstu: treća strana) prepustiti obavljanje specifičnih tehničkih aktivnosti iz stavka 1. ovoga članka, sukladno članku 8. stavku 4. Uredbe (EU) br. 2016/1012.
+(3) Udruženje i organizacija mogu trećim stranama povjeriti provedbu testiranja rasta, razvoja, proizvodnih odlika (fenotip) i genetskog vrednovanja uzgojno valjanih životinja povezanih s upravljanjem njihovim uzgojnim programima, sukladno članku 27. stavku 1. točki (b) Uredbe (EU) br. 2016/1012.
+(4) Treća strana za provedbu aktivnosti iz stavka 3. ovoga članka mora biti ovlaštena u skladu s odredbom članka 27. stavka 3. Uredbe (EU) br. 2016/1012.
+(5) Na temelju zahtjeva treće strane iz stavka 4. ovoga članka Ministarstvo rješenjem daje ovlaštenje za provedbu testiranja rasta, razvoja, proizvodnih odlika (fenotip) i genetskog vrednovanja uzgojno valjanih životinja u skladu s člankom 25. Uredbe (EU) br. 2016/1012.
+(6) Ako Ministarstvo utvrdi da treća strana iz stavka 4. ovoga članka ne provodi aktivnosti i ne ispunjava uvjete iz članka 27. stavka 3. Uredbe (EU) br. 2016/1012 za koje je ovlaštena, ukinut će rješenje iz stavka 5. ovoga članka.
+(7) Protiv rješenja iz stavaka 5. i 6. ovoga članka nije dopuštena žalba, već se može pokrenuti upravni spor.

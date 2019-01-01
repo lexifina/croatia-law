@@ -1,0 +1,7 @@
+## VI. PRIJELAZNE I ZAVRŠNE ODREDBE
+# Članak 35.
+(1) Pravne osobe koje na dan stupanja na snagu ovoga Zakona imaju suglasnost za bavljenje uzgojem uzgojno valjanih životinja iz članaka 41. i 41.a Zakona o stočarstvu (»Narodne novine«, br. 70/97., 36/98., 151/03., 132/06., 14/14. i 30/15.) dužne su u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona uskladiti svoje poslovanje i ispuniti uvjete propisane u Prilogu I. dijelovima 1., 2. i 3. Uredbe (EU) br. 2016/1012.
+(2) Pravnoj osobi koja ne uskladi svoje poslovanje sukladno stavku 1. ovoga članka Ministarstvo će rješenjem ukinuti priznanje udruženja ili organizacije odnosno poništiti odobreni uzgojni program.
+(3) Iznimno od stavka 1. ovoga članka, udruženja i organizacije koje čine središnje saveze uzgajivača uzgojno valjanih životinja prema odredbama Zakona o stočarstvu (»Narodne novine«, br. 70/97., 36/98., 151/03., 132/06., 14/14. i 30/15.) nisu u obvezi uskladiti svoje poslovanje prema stavku 1. ovoga članka.
+(4) Ergele kojima je na temelju članka 5. stavka 3. Zakona o stočarstvu (»Narodne novine«, br. 70/97., 36/98., 151/03., 132/06., 14/14. i 30/15.) i članka 7. stavka 2. Pravilnika o sadržaju upisnika i prijave za upis uzgajivača uzgojno valjanih životinja (»Narodne novine«, br. 23/98.) Ministarstvo izdalo suglasnost za upis u Upisnik ergela konja, stupanjem na snagu ovoga Zakona, nastavit će se, kao uzgajivači, baviti uzgojem uzgojno valjanih konja
+(5) Protiv rješenja iz stavka 2. ovoga članka nije dopuštena žalba, već se može pokrenuti upravni spor.
