@@ -1,0 +1,2 @@
+# Članak 134.
+Članovi obveznog mirovinskog fonda koji su prije stupanja na snagu ovoga Zakona ostvarili pravo na mirovinu u obveznom mirovinskom osiguranju generacijske solidarnosti, a na dan stupanja na snagu ovoga Zakona još nisu odabrali Društvo za isplatu mirovine, rasporedit će se jednako u sva Društva rasporedom Središnjeg registra osiguranika u roku od tri mjeseca od dana stupanja na snagu ovoga Zakona.

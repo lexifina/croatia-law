@@ -1,0 +1,8 @@
+# Članak 121.
+Članak 199. mijenja se i glasi:
+»(1) Agencija će surađivati s nadležnim tijelima država članica radi razmjene informacija i razvijanja najboljih praksi na području zakonodavstva kojim se uređuje područje rada i socijalne skrbi te uže suradnje koja, ako je to primjenjivo, uključuje socijalne partnere, čime se sprječavaju narušavanja tržišnog natjecanja te stvaraju potrebni uvjeti za nesmetano obavljanje prekograničnih poslova u državama članicama u skladu s odredbama ovoga Zakona.
+(2) Agencija će obavijestiti EIOPA-u o odredbama zakonodavstva bonitetne prirode, koje su relevantne za područje strukovnih mirovinskih programa, a koje nisu obuhvaćene zakonodavstvom navedenim u stavku 1. ovoga članka.
+(3) Informacije iz stavka 2. ovoga članka Agencija će redovito ažurirati, najmanje svake dvije godine te, ako je došlo do izmjena, o istome obavijestiti EIOPA-u koja te informacije objavljuje na svojim internetskim stranicama.
+(4) Agencija će surađivati s EIOPA-om radi provedbe ovoga Zakona u dijelu koji se odnosi na strukovno mirovinsko osiguranje, u skladu s Uredbom Komisije (EU) br. 1094/2010 i bez odgode pružiti EIOPA-i sve informacije koje su joj potrebne za obavljanje njezinih zadaća na temelju navedene Direktive i Uredbe, u skladu s člankom 35. te Uredbe.
+(5) Agencija će surađivati s Europskom komisijom i nadležnim tijelima država članica radi olakšavanja provođenja nadzora nad Društvima.
+(6) Agencija će obavijestiti Europsku komisiju i EIOPA-u o svim većim poteškoćama u vezi s primjenom Direktive (EU) 2016/2341 i u suradnji s Europskom komisijom i EIOPA-om ispitati poteškoće što je prije moguće, radi pronalaženja odgovarajućeg rješenja.«.

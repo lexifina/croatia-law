@@ -1,0 +1,3 @@
+# Članak 130.
+(1) Agencija će u roku od 12 mjeseci od dana stupanja na snagu ovoga Zakona donijeti pravilnik iz članka 49.b stavka 11. koji se dodaje člankom 38. ovoga Zakona, pravilnik iz članka 64. stavka 5. koji se mijenja člankom 51. ovoga Zakona, pravilnik iz članka 81.a stavka 3. koji se dodaje člankom 63. ovoga Zakona, pravilnik iz članka 84. stavka 5. koji se mijenja člankom 65. ovoga Zakona i pravilnik iz članka 131. stavka 4. koji je dodan člankom 95. ovoga Zakona.
+(2) Iznimno od stavka 1. ovoga članka, Agencija će u roku od 30 dana od dana stupanja na snagu ovoga Zakona donijeti pravilnik iz članka 112. stavka 8. koji se dodaje člankom 84. ovoga Zakona.

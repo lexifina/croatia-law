@@ -1,0 +1,3 @@
+# Članak 106.
+Članak 147. mijenja se i glasi:
+»Ako su zapisnikom utvrđene nezakonitosti i/ili nepravilnosti, za koje bi se donosila odgovarajuća nadzorna mjera, djelomično ili u potpunosti otklonjene nakon izrade i dostave zapisnika subjektu nadzora, a prije donošenja rješenja kojim se izriče odgovarajuća nadzorna mjera, Agencija će o tome sastaviti dopunu zapisnika i dostaviti je subjektu nadzora te ako su otklonjene sve utvrđene nezakonitosti i/ili nepravilnosti, po isteku roka za prigovor donijeti rješenje kojim se utvrđuje da su nezakonitosti ili nepravilnosti utvrđene u zapisniku i dopuni zapisnika otklonjene i postupak nadzora okončan.«.

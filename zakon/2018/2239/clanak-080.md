@@ -1,0 +1,3 @@
+# Članak 80.
+Članak 103. mijenja se i glasi:
+»Mirovina koja se isplaćuje na temelju odredaba ovoga Zakona određuje se i isplaćuje na temelju ugovora o mirovini, a prema ukupnim kapitaliziranim uplatama doprinosa člana obveznog fonda ostvarenim u obveznom mirovinskom fondu, odnosno ukupnim kapitaliziranim uplatama doprinosa člana otvorenog dobrovoljnog fonda ostvarenim u otvorenom dobrovoljnom mirovinskom fondu, odnosno ukupnim kapitaliziranim uplatama doprinosa člana zatvorenog dobrovoljnog fonda ostvarenim u zatvorenom dobrovoljnom mirovinskom fondu, do ostvarivanja prava na mirovinu člana fonda, ili na temelju izravnih jednokratnih uplata iz članka 9. stavka 1. točke 4. ovoga Zakona.«.

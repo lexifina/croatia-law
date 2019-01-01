@@ -1,0 +1,8 @@
+# Članak 47.
+Članak 58. mijenja se i glasi:
+»(1) Društvo može ugovorom prenijeti na drugo Društvo (u daljnjem tekstu: Društvo preuzimatelj) sav ili dio portfelja ugovora o mirovini istodobno s prijenosom imovine za pokriće tehničkih pričuva u vrijednosti imovine za pokriće tehničkih pričuva te drugih obveza i prava, kao i pripadajuće imovine ili njezine novčane protuvrijednosti oblikovane za portfelj ugovora koji je predmet prijenosa ako Društvo preuzimatelj za to ishodi prethodno odobrenje Agencije.
+(2) Za prijenos i preuzimanje ugovora o mirovini nije potrebna suglasnost korisnika mirovine, ali je Društvo preuzimatelj dužno, bez odgađanja, nakon preuzetog portfelja, o prijenosu portfelja obavijestiti svakog korisnika mirovine čiji je ugovor preuzet, na način kako je to ugovoreno preuzetim ugovorom te objavom informacije o prijenosu portfelja u »Narodnim novinama« i dva dnevna lista u Republici Hrvatskoj.
+(3) Društvo je dužno portfelj iz stavka 1. ovoga članka prenijeti na Društvo preuzimatelja u roku od tri mjeseca od dana izvršnosti rješenja o odobrenju za prijenos portfelja od Agencije.
+(4) Agencija će ukinuti rješenje o odobrenju za prijenos portfelja ako Društvo ne postupi u skladu sa stavkom 3. ovoga članka.
+(5) Društvo je dužno u roku od 30 dana od dana prijenosa portfelja ugovora Agenciji podnijeti dokaze o prijenosu portfelja na Društvo preuzimatelja te o izvršenju obveze iz stavka 2. ovoga članka.
+(6) Ako Društvo ne postupi sukladno stavku 5. ovoga članka, odnosno ako iz podnesenih dokaza nije vidljivo da je izvršen prijenos portfelja, Agencija će ukinuti rješenje o odobrenju za prijenos portfelja.«.
