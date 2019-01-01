@@ -1,0 +1,3 @@
+# Članak 52.
+(1) Kada u vrijeme primjene ovoga Zakona pojedina općina ili grad izgubi status potpomognutog područja, a ne ulazi u područje posebne državne skrbi, izvršna lista prvenstva za područje toga grada ili općine prestaje postojati po samom zakonu, a pokrenuti upravni postupci za stranke s takve liste prvenstva bit će dovršeni prema odredbama članaka 7., 8., 9., 10., 11., 12., 13., 17., 18., 19., 20., 21., 22., 23., 27., 28., 29., 30., 31., 32., 34., 35., 37. i 38. ovoga Zakona.
+(2) Kada tijekom primjene ovoga Zakona općina ili grad stekne status potpomognutog područja, pristupit će se zaprimanju prijava stranaka i formiranju listi prvenstva sukladno odredbama ovoga Zakona u tekućoj godini, ako je to moguće, odnosno u idućoj godini.

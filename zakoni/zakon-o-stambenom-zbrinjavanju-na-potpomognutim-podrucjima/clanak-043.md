@@ -1,0 +1,4 @@
+# Članak 43.
+(1) Osobe određenih struka i zanimanja za čijim radom postoji potreba u tijelima državne uprave i upravnim tijelima jedinica lokalne samouprave, a koji nemaju riješeno stambeno pitanje na području jedinice lokalne samouprave na kojoj se osigurava stambeno zbrinjavanje mogu ostvariti pravo na stambeno zbrinjavanje kroz program međuresorne suradnje.
+(2) Prijedlog korisnika i članova obitelji za stambeno zbrinjavanje iz stavka 1. ovoga članka daje tijelo državne uprave i jedinica lokalne samouprave koji su sudjelovali u programu za međuresornu suradnju.
+(3) Korisnik stambenog zbrinjavanja iz stavka 1. ovoga članka može ostvariti pravo vlasništva na stambenoj jedinici nakon deset godina boravka i prebivanja u stambenoj jedinici, a uz preporuku tijela koje je sudjelovalo u međuresornoj suradnji. Pravo vlasništva stječe se po uvjetima propisanim ovim Zakonom.
