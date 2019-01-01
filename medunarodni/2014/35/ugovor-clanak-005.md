@@ -1,7 +1,0 @@
-# Članak 5.
-PRIJELAZNE ODREDBE
-1. U prijelaznom razdoblju iz članka 10. Direktive, kada je stvarni korisnik rezident u Republici Hrvatskoj, a isplatitelj kamata rezident u Curaçaou, Curaçao će na isplate kamata primijeniti porez po odbitku po stopi od 35 %. U tom razdoblju Curaçao neće morati primjenjivati odredbe članka 4. Međutim, primat će informacije od Republike Hrvatske u skladu s tim člankom.
-2. Isplatitelj kamata će primijeniti porez po odbitku na način opisan u članku 11. stavcima 2. i 3. Direktive.
-3. Primjena poreza po odbitku u Curaçaou ne sprječava Republiku Hrvatsku u oporezivanju tog dohotka u skladu s njezinim nacionalnim pravom.
-4. U prijelaznom razdoblju Curaçao može propisati da se poslovni subjekt sa sjedištem u Republici Hrvatskoj koji isplaćuje kamate ili osigurava isplatu kamata subjektu iz članka 4. stavka 2. Direktive smatra isplatiteljem kamata umjesto subjekta i primjenjivat će porez po odbitku na takve kamate, osim ako subjekt službeno ne pristane da se podaci o njegovom nazivu, adresi i ukupnom iznosu isplaćenih ili osiguranih kamata tom subjektu mogu prosljeđivati u skladu sa zadnjim podstavkom toga stavka.
-5. Po isteku prijelaznog razdoblja Curaçao je dužan primjenjivati odredbe članka 4. i prestat će primjenjivati porez po odbitku i vršiti raspodjelu prihoda predviđenu člankom 5. i člankom 6. Ako tijekom prijelaznog razdoblja Curaçao odluči primjenjivati odredbe članka 4., prestat će primjenjivati porez po odbitku i vršiti raspodjelu prihoda predviđenu člankom 5. i člankom 6.
