@@ -1,0 +1,4 @@
+# Članak 6.
+UDIO DOPRINOSA SVAKOG KOPRODUCENTA
+1. U slučaju mnogostrane koprodukcije, minimalan doprinos ne može biti manji od 5%, a maksimalan doprinos ne može prelaziti 80% ukupnih troškova produkcije kinematografskog djela. Kad je minimalan doprinos manji od 20% ili je koprodukcija samo financijska, stranka na koju se to odnosi može poduzeti korake kako bi smanjila ili spriječila pristup programima potpore nacionalne produkcije.
+2. Kad ova Konvencija zamjenjuje dvostrani sporazum između dvije stranke prema odredbama članka 2. stavka 4., minimalan doprinos ne može biti manji od 10%, dok najveći doprinos ne smije prelaziti 90% ukupnih troškova produkcije kinematografskog djela. Kad je minimalan doprinos manji od 20% ili je koprodukcija samo financijska, stranka na koju se to odnosi može poduzeti korake kako bi smanjila ili spriječila pristup programima potpore nacionalnoj produkciji.
