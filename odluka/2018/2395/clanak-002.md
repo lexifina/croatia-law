@@ -1,0 +1,11 @@
+# Članak 2.
+Članak 18. mijenja se i glasi:
+»(1) Pripravnost u hitnoj medicini iz članka 17. ove Odluke organizira se u skladu s odredbama zakona kojim se uređuje zdravstvena zaštita, Mrežom hitne medicine i ovom Odlukom.
+(2) Zavod za hitnu medicinu obvezuje se osigurati puni tim za provođenje pripravnosti u skladu s ovom Odlukom i Mrežom hitne medicine.
+(3) Zavod za hitnu medicinu se obvezuje, na osnovi međusobno sklopljenog ugovora s doktorima medicine i medicinskim sestrama/medicinskim tehničarima, isplatiti novčanu naknadu za rad istih u pripravnosti.
+(4) Posebno dežurstvo u djelatnosti opće/obiteljske medicine /zdravstvene zaštite predškolske djece/dentalne zdravstvene zaštite (polivalentne) iz članka 17. ove Odluke provodi se subotom od 15.00 - 20.00 sati te nedjelom, praznikom i blagdanom u vremenu od 8.00 - 20.00 sati.
+(5) Domovi zdravlja obvezni su organizirati posebna dežurstva u djelatnosti opće/obiteljske medicine i/ili zdravstvene zaštite predškolske djece na područjima županija/Grada Zagreba.
+(6) Potreban broj lokacija, broj timova po djelatnostima u posebnom dežurstvu kao i raspored provođenja posebnog dežurstva iz stavka 5. ovoga članka utvrđuju tijela nadležna za zdravstvo jedinice područne (regionalne) samouprave/Grada Zagreba s nadležnim domom zdravlja s time da ukupan broj timova ne može biti veći od broja timova utvrđenih po županijama/Gradu Zagrebu u članku 46.a ove Odluke.
+(7) Tijela nadležna za zdravstvo jedinice područne (regionalne) samouprave odnosno Grada Zagreba utvrđuju potrebu za ustrojavanjem posebnog dežurstva u djelatnosti dentalne zdravstvene zaštite (polivalentne) u skladu s maksimalnim brojem timova utvrđenim u tablici iz članka 17. ove Odluke te određuju lokaciju punkta istog.
+(8) U posebnom dežurstvu iz stavka 5. i 7. ovoga članka obvezni su sudjelovati ugovorne zdravstvene ustanove/ugovorni privatni zdravstveni radnici u djelatnosti opće/obiteljske medicine, zdravstvene zaštite predškolske djece i dentalne zdravstvene zaštite (polivalentne) s područja doma zdravlja koji organizira posebno dežurstvo.
+(9) Dom zdravlja se obvezuje, na osnovi međusobno sklopljenog ugovora, isplatiti novčanu naknadu ugovornoj zdravstvenoj ustanovi/ugovornom privatnom zdravstvenom radniku koji sudjeluju u posebnom dežurstvu.«.
