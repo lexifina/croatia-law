@@ -1,3 +1,0 @@
-# Članak 3.
-IDENTITET I REZIDENTNOST STVARNOG KORISNIKA
-Svaka država ugovornica će, na svojem području, usvojiti i osigurati primjenu postupaka potrebnih kako bi se isplatitelju kamata omogućilo da za potrebe članka 4. utvrdi identitet stvarnih korisnika i njihovu rezidentnost. Takvi postupci udovoljavat će minimalnim standardima utvrđenima u članku 3. stavcima 2. i 3.Direktive, uz uvjet da se u svezi s podstavcima 2.a) i 3.a) istoga članka identitet i rezidentnost stvarnog korisnika utvrđuju temeljem informacija kojima isplatitelj kamata raspolaže slijedom primjene odgovarajućih odredaba zakona i propisa države ugovornice u kojoj isplatitelj kamata ima sjedište.
