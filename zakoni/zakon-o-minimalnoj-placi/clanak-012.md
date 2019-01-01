@@ -1,0 +1,2 @@
+# Članak 12.
+Za radnike za koje je poslodavac do stupanja na snagu ovoga Zakona ostvarivao pravo na umanjenu osnovicu sukladno članku 2. stavku 4. Zakona o minimalnoj plaći (»Narodne novine«, br. 39/13. i 130/17.) mjesečna osnovica za obračun doprinosa na osnovicu prema plaći utvrđena prema propisima kojima su uređeni doprinosi za obvezna osiguranja umanjuje se za razdoblje od 1. siječnja 2019. do 31. prosinca 2019. za 50 % te za razdoblje od 1. siječnja 2020. do 31. prosinca 2020. za 25 %.
