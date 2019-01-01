@@ -1,0 +1,3 @@
+# Članak 14.
+(1) Danom stupanja na snagu ovoga Zakona prestaje dužnost predsjednicima prekršajnih sudova ustanovljenih Zakonom o područjima i sjedištima sudova (»Narodne novine«, br. 128/14.), osim predsjednicima Prekršajnog suda u Zagrebu i Prekršajnog suda u Splitu koji nastavljaju obnašati dužnost predsjednika Općinskog prekršajnog suda u Zagrebu i predsjednika Općinskog prekršajnog suda u Splitu.
+(2) Predsjednici općinskih sudova ustanovljenih Zakonom o područjima i sjedištima sudova (»Narodne novine«, br. 128/14.) nastavljaju obnašati dužnost predsjednika općinskih sudova ustanovljenih ovim Zakonom u istom mjestu sjedišta.
