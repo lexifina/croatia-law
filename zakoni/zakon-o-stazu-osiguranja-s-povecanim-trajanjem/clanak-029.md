@@ -1,0 +1,4 @@
+# Članak 29.
+(1) Evidenciju o radnim mjestima odnosno zanimanjima na kojima se staž osiguranja računa s povećanim trajanjem i evidenciju o osiguranicima kojima se staž osiguranja računa s povećanim trajanjem vodi Zavod, na način i po postupku propisanom općim aktom toga Zavoda.
+(2) Poslodavac je dužan inspektoru ili državnom službeniku nadležnom u skladu s posebnim propisom omogućiti uvid u dokumentaciju radi provjere podataka o osiguranicima i radnim mjestima odnosno zanimanjima na kojima se staž osiguranja računa s povećanim trajanjem te o osiguranicima – osobama s invaliditetom iz članka 26. ovoga Zakona.
+(3) Poslodavac je dužan prijaviti Zavodu početak, promjenu i prestanak rada osiguranika koji rade na radnim mjestima iz članaka 5. – 23. ovoga Zakona i u zanimanjima iz članka 24. ovoga Zakona, kao i osiguranika – osobe s invaliditetom iz članka 26. ovoga Zakona, u rokovima propisanima općim propisom o mirovinskom osiguranju.
