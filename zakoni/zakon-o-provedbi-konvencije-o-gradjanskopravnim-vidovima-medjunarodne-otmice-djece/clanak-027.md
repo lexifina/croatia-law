@@ -1,0 +1,7 @@
+## Postupanje po zahtjevu za povratak djeteta u Republiku Hrvatsku
+# Članak 27.
+(1) Kad je zahtjev po kojem je potrebno postupati u drugoj državi ugovornici podnesen neposredno Središnjem tijelu Republike Hrvatske, ono će zahtjev s dokumentacijom otpremiti središnjem tijelu druge države ugovornice ako utvrdi da su ispunjeni uvjeti za postupanje po Konvenciji.
+(2) Ako Središnje tijelo Republike Hrvatske utvrdi da nisu ispunjeni uvjeti za postupanje prema Konvenciji, bez odgode će o tome izvijestiti podnositelja zahtjeva.
+(3) Zahtjev, uključujući i dokumentaciju, kojim se pokreće postupak u nekoj drugoj državi dostavlja se Središnjem tijelu na hrvatskom jeziku s priloženim prijevodom na jezik države u koju se dostavlja zahtjev ili, gdje to nije moguće, s prijevodom na francuski ili engleski jezik.
+(4) Sud može po zahtjevu stranog suda ili središnjeg tijela države ugovornice, radi zaštite najboljeg interesa i dobrobiti djeteta i roditelja kada se protupravno odvedeno ili zadržano dijete vraća u Republiku Hrvatsku, odrediti jamstva iz članka 21. stavka 1. ovoga Zakona.
+(5) Ako tijelo druge države nadležno za odlučivanje o povratku djeteta zahtijeva određena jamstva za povratak djeteta iz stavka 4. ovoga članka, sud u Republici Hrvatskoj saslušat će podnositelja zahtjeva i uzeti njegovu izjavu o mogućnostima ispunjenja zahtijevanih uvjeta povratka, uz upozorenje o postojanju kaznene odgovornosti u slučaju davanja lažnog iskaza.
