@@ -1,0 +1,1 @@
+Na temelju članka 20. stavak 1. Zakona o lokalnim porezima (»Narodne novine«, br. 115/16 i 101/17) i članka 14. Statuta Općine Dicmo (»Službeni glasnik općine Dicmo«, br. 7/09, 12/09, 2/13, 3/13, 4/13, 1/15, 1/18), Općinsko vijeće Općine Dicmo na 11. sjednici održanoj 20. prosinca 2018. godine, donijelo je
