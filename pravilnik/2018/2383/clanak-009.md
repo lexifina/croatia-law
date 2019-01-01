@@ -1,0 +1,4 @@
+# Članak 9.
+(1) Za časnika i dočasnika koji je proveo najmanje četiri godine u činu i navršio najmanje 25 godina staža osiguranja može se donijeti zaključak o nemogućnosti daljnjega profesionalnog razvoja ako podnese zahtjev za prestanak djelatne vojne službe s pravom na mirovinu zbog profesionalne nesposobnosti za rad uzrokovane ozljedom na radu ili profesionalnom bolešću, u skladu sa zakonom kojim se uređuju prava iz mirovinskog osiguranja djelatnih vojnih osoba, te ako je prestanak službe u skladu s godišnjim planom izdvajanja.
+(2) Zaključak o nemogućnosti daljnjega profesionalnog razvoja iz stavka 1. ovoga članka donosi načelnik Glavnog stožera Oružanih snaga Republike Hrvatske ili osoba koju on ovlasti.
+(3) Odredbe ovoga članka ne odnose se na osobe iz članka 1. stavaka 5. i 6. ovoga Pravilnika.
