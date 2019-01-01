@@ -1,0 +1,24 @@
+# Članak 141.
+Članak 315. mijenja se i glasi:
+»(1) Novčanom kaznom u iznosu od 50.000,00 do 100.000,00 kuna kaznit će se za prekršaj depozitar ako:
+1. ne obavlja sve poslove upravljanja fondom koje u svrhu zaštite interesa članova fonda nije moguće odgađati, u skladu s člankom 93. stavkom 1. ovoga Zakona
+2. od nastupanja razloga za prisilni prijenos ne obustavi uplate članova fonda i zatvaranja osobnih računa, u skladu s člankom 93. stavkom 2. ovoga Zakona
+3. u roku od 60 dana od dana nastupanja razloga za prisilni prijenos poslova upravljanja fondom iz članka 92. ovoga Zakona ne provede odgovarajući postupak prikupljanja ponuda od društava koja ispunjavaju uvjete za upravljanje fondom i zainteresirani su preuzeti upravljanje fondom te postupak izbora novoga mirovinskog društva, u skladu s člankom 94. stavkom 1. ovoga Zakona
+4. protivno odredbama članka 94. stavka 2. ovoga Zakona prilikom izbora mirovinskog društva ne vodi računa isključivo o interesima članova fonda u slučaju da se na poziv iz članka 94. stavka 1. ovoga Zakona depozitaru javi više mirovinskih društava koja ispunjavaju uvjete za preuzimanje poslova upravljanja fondom
+5. ne sklopi ugovor o prijenosu poslova upravljanja s društvom preuzimateljem, u skladu s odredbama članka 94. stavka 3. ovoga Zakona
+6. protivno odredbama članka 94. stavka 6. ovoga Zakona, članove fondova ne izvijesti o potrebi izbora fonda kojim upravlja drugo mirovinsko društvo i ne odredi rok u kojem mogu pristupiti novom fondu, u slučaju da na javni poziv iz stavka 1. ovoga članka ponudu ne podnese niti jedno mirovinsko društvo koje ispunjava uvjete za upravljanje fondom,
+7. članove fonda koji u roku iz članka 94. stavka 6. ovoga članka ne izvrše izbor fonda kojim upravlja drugo mirovinsko društvo po službenoj dužnosti ne rasporedi u druge otvorene fondove po načelu ravnopravnosti, na način da svakom mirovinskom društvu dodijeli jednak broj članova i ne izvrši likvidaciju fonda, sukladno odredbama članka 94. stavka 7. ovoga Zakona
+8. ne osigura da mirovinsko društvo izračunava neto vrijednost imovine fonda te cijenu udjela fonda u skladu s člankom 110. stavkom 3. ovoga Zakona
+9. ne obavijesti mirovinsko društvo o netočnost i/ili nepravilnosti koju je utvrdilo prilikom kontrole izračuna neto vrijednosti imovine fonda na način i u roku iz članka 110. stavka 6. ovoga Zakona
+10. ne imenuje revizorsko društvo u skladu s člankom 253. stavkom 2. ovoga Zakona
+11. ne obavijesti Agenciju o izboru revizorskog društva, u skladu s člankom 253. stavkom 3. ovoga Zakona
+12. ne dostavi Agenciji revizorsko izvješće koje je zaprimio od revizora, u roku iz članka 253. stavka 5. ovoga Zakona
+13. na treću osobu u drugoj državi članici ili trećoj državi koja nije registrirana za poslove skrbništva delegira poslove skrbništva nad imovinom fonda koja je uložena u vrijednosne papire za koje mjesto izdanja nije Republika Hrvatska, protivno članku 257. stavku 2. ovoga Zakona
+14. delegira poslove iz članka 247. stavka 1. točke 1. ovoga Zakona na treću osobu, protivno uvjetima iz članka 257. stavka 3. ovoga Zakona
+15. ne dostavi Agenciji sve ugovore koje je sklopio s trećim osobama i/ili popis tih trećih osoba u rokovima iz članka 258. stavka 1. točke a) odnosno b) ovoga Zakona
+16. u odnosu na poslove iz članka 247. stavka 1. točke 1. ovoga Zakona koje je delegirao na treću osobu, učinkovito, kontinuirano i s dužnom pažnjom ne nadzire obavljanje delegiranih poslova, u skladu s člankom 259. točkom 1. ovoga Zakona
+17. ne obavijesti Agenciju i mirovinsko društvo o neispunjenju i/ili neurednom ispunjenju obveze te propustu treće osobe koji može značajno utjecati na imovinu fonda pohranjenu na skrbništvo, u skladu s člankom 259. točkom 2. ovoga Zakona
+18. o namjeri prestanka obavljanja poslova depozitara fonda ili raskida odnosno otkaza ugovora o obavljanju poslova depozitara pisano ne obavijesti Agenciju i mirovinsko društvo za koje obavlja poslove depozitara fonda, u roku iz članka 261. stavka 1. ovoga Zakona
+19. u slučaju otkaza ili raskida ugovora o obavljanju poslova depozitara ne obavijesti Agenciju o postojanju nerazriješenih povreda ovoga Zakona ili drugih propisa, u skladu s člankom 262. stavkom 3. ovoga Zakona
+20. u slučaju raskida ili otkaza ugovora o obavljanju poslova depozitara, u roku od 30 dana, svu imovinu fonda ne prenese na pohranu i administriranje novom depozitaru s kojim mirovinsko društvo zaključi ugovor o obavljanju poslova depozitara, pri čemu ne preda i knjige računa, evidenciju i sve druge dokumente i materijale bitne za poslovanje fonda za koji je do tada obavljao poslove depozitara, i to u pisanom ili elektroničkom obliku, ovisno o načinu vođenja naznačenih podataka, u skladu s člankom 263. ovoga Zakona.
+(2) Novčanom kaznom u iznosu od 10.000,00 do 30.000,00 kuna kaznit će se za prekršaj iz stavka 1. ovoga članka i odgovorna osoba depozitara.«.

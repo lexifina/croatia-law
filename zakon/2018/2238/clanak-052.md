@@ -1,0 +1,3 @@
+# Članak 52.
+U članku 116. stavku 1. iza točke 2. na kraju rečenice briše se točka i dodaje se točka 3. koja glasi:
+»3. član ili potencijalni član odbije dati mirovinskom društvu informacije relevantne za provedbu Sporazuma FATCA i Direktive Vijeća 2014/107/EU od 9. prosinca 2014. o izmjeni Direktive 2011/16/EU u pogledu obvezne automatske razmjene informacija u području oporezivanja (SL EU, L 359, od 16. prosinca 2014.), koje su mirovinskom društvu potrebne za ispunjavanje obveza propisanih zakonom kojim se uređuje odnos između poreznih obveznika i poreznih tijela koja primjenjuju propise o porezima i drugim javnim davanjima.«.

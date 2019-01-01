@@ -1,0 +1,6 @@
+# Članak 110.
+U članku 276. stavak 1. mijenja se i glasi:
+»(1) Agencija provodi nadzor:
+1. neposrednim nadzorom u prostorijama subjekta nadzora ili pravne osobe s kojom je nadzirana osoba izravno ili neizravno, poslovno, upravljački ili kapitalno povezana, pravnih osoba na koje je društvo za upravljanje delegiralo svoje poslove te osoba na koje je izvršeno daljnje delegiranje, pregledom izvorne dokumentacije, provjerom i procjenom cjelokupnog poslovanja, provođenjem razgovora s članovima uprave, članovima nadzornog odbora i drugim relevantnim osobama te u prostorijama Agencije
+2. posrednim nadzorom u prostorijama Agencije, na temelju analize izvještaja koje su subjekti nadzora dužni u propisanim rokovima dostavljati Agenciji, te prikupljanjem i provjerom dokumentacije, obavijesti i podataka dobivenih na poseban zahtjev Agencije, kao i praćenjem, prikupljanjem i provjerom podataka i saznanja iz drugih izvora te provjerom i procjenom poslovanja na temelju dostavljenih izvještaja i prikupljenih informacija, provođenjem razgovora s članovima uprave, članovima nadzornog odbora i drugim relevantnim osobama ili
+3. davanjem preporuka i mišljenja subjektima nadzora radi poboljšanja njihova poslovanja, financijske stabilnosti i položaja te smanjenja rizika kojima su izloženi ili mogu biti izloženi u svom poslovanju.«.
