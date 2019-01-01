@@ -1,0 +1,3 @@
+# Članak 16.
+(1) Dostupnost zdravstvene zaštite ostvaruje se takvim rasporedom zdravstvenih ustanova, trgovačkih društava koja obavljaju zdravstvenu djelatnost i zdravstvenih radnika na području Republike Hrvatske koji će omogućiti stanovništvu podjednake uvjete zdravstvene zaštite, osobito na primarnoj razini zdravstvene djelatnosti.
+(2) Dostupnost zdravstvene zaštite na svom području jedinica područne (regionalne) samouprave odnosno Grad Zagreb u suradnji s jedinicama lokalne samouprave osigurava koordiniranjem i organiziranjem rada svih pravnih i fizičkih osoba koje na njezinu području obavljaju zdravstvenu djelatnost te sudjelovanjem u osiguravanju sredstava za provođenje zdravstvene zaštite na svom području.

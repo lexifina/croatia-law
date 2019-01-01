@@ -1,0 +1,7 @@
+# Članak 27.
+(1) Svaka osoba dužna je svoja prava na zdravstvenu zaštitu koristiti u skladu s odredbama ovoga Zakona i uputama o liječenju doktora medicine i doktora dentalne medicine i osobno je odgovorna zbog nepridržavanja tih uputa.
+(2) Svaka poslovno sposobna osoba dužna je poduzimati aktivnosti radi očuvanja i unaprjeđenja svoga zdravlja i izbjegavati sve rizične čimbenike koji ugrožavaju život i zdravlje.
+(3) Pri korištenju svojih prava na zdravstvenu zaštitu svaka osoba obvezna je pridržavati se kućnog reda zdravstvene ustanove, trgovačkog društva koje obavlja zdravstvenu djelatnost odnosno privatnoga zdravstvenog radnika.
+(4) Svaka osoba ima pravo neposredno ili pisanim putem zatražiti od ravnatelja zdravstvene ustanove, uprave ili osobe ovlaštene za vođenje poslova trgovačkog društva koje obavlja zdravstvenu djelatnost odnosno privatnoga zdravstvenog radnika zaštitu svojih prava s obzirom na kvalitetu, sadržaj i vrstu zdravstvene usluge koja joj se pruža.
+(5) Ravnatelj, uprava ili osoba ovlaštena za vođenje poslova trgovačkog društva koje obavlja zdravstvenu djelatnost odnosno privatni zdravstveni radnik obvezni su bez odgađanja postupiti po prigovoru i o poduzetim mjerama pisanim putem obavijestiti podnositelja prigovora najkasnije u roku od osam dana od dana zaprimanja prigovora.
+(6) Ako osoba nije zadovoljna poduzetim mjerama, zaštitu svojih prava može zatražiti kod ministra, nadležne komore odnosno kod nadležnog suda.

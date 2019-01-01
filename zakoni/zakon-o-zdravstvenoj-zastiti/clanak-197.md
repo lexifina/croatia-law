@@ -1,0 +1,2 @@
+# Članak 197.
+U slučajevima izvanrednih okolnosti, katastrofa i epidemija većih razmjera ministar je ovlašten poduzimati i one mjere i aktivnosti koje nisu utvrđene ovim Zakonom, uključivši i mjere mobilizacije, organizacije i rasporeda rada i radnog vremena, promjene mjesta i uvjeta rada pojedinih zdravstvenih ustanova i njihovih radnika te privatnih zdravstvenih radnika koji obavljaju zdravstvenu djelatnost u ordinaciji u mreži javne zdravstvene službe, dok te okolnosti traju.

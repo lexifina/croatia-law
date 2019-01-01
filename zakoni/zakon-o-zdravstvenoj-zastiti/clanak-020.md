@@ -1,0 +1,2 @@
+# Članak 20.
+Načelo funkcionalne integracije osigurava suradnju zdravstvenih ustanova na svim razinama zdravstvene djelatnosti, uz restrukturiranje na osnovi zajedničkog razvoja, unaprjeđenja i usklađivanja procesa upravljanja, dijagnostičko-terapijskih postupaka, dobre kliničke prakse, kao i svih drugih oblika operativnih metodologija usmjerenih prema boljoj kvaliteti zdravstvenih usluga, ishoda liječenja te povećanoj djelotvornosti i dugoročnoj racionalizaciji troškova sustava zdravstva.

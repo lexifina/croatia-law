@@ -1,0 +1,4 @@
+# Članak 106.
+(1) Dom zdravlja na temelju odluke upravnog vijeća može dati poslovni prostor u zakup pravnim i fizičkim osobama za obavljanje zdravstvene djelatnosti u mreži javne zdravstvene službe, a na temelju odluke upravnog vijeća, uz suglasnost osnivača, može poslovni prostor dati u zakup pravnim i fizičkim osobama za obavljanje zdravstvene djelatnosti izvan mreže javne zdravstvene službe.
+(2) Dom zdravlja na temelju odluke upravnog vijeća, uz prethodnu suglasnost osnivača i ministra, može poslovni prostor dati u zakup pravnim i fizičkim osobama za obavljanje nezdravstvene djelatnosti.
+(3) Ugovorom o zakupu poslovnog prostora iz stavaka 1. i 2. ovoga članka iznos zakupnine određuje se sukladno odluci predstavničkog tijela jedinice područne (regionalne) samouprave odnosno Grada Zagreba o kriterijima za određivanje zakupnine za poslovni prostor.

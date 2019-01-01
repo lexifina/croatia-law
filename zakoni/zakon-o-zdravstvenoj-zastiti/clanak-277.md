@@ -1,0 +1,8 @@
+# Članak 277.
+(1) Danom stupanja na snagu ovoga Zakona Hrvatski zavod za hitnu medicinu preuzima sve poslove i radnike, pismohranu i drugu dokumentaciju, sredstva za rad, prava i obveze i financijska sredstva Hrvatskog zavoda za telemedicinu.
+(2) Ravnatelj Hrvatskog zavoda za hitnu medicinu obvezan je u roku od osam dana od dana stupanja na snagu ovoga Zakona podnijeti zahtjev za upis brisanja Hrvatskog zavoda za telemedicinu iz sudskog registra.
+(3) Hrvatski zavod za telemedicinu prestaje danom upisa brisanja u sudskom registru.
+(4) Danom upisa brisanja Hrvatskog zavoda za telemedicinu iz sudskog registra prestaje mandat ravnatelja, zamjenika ravnatelja te predsjednika i članova Upravnog vijeća Hrvatskog zavoda za telemedicinu.
+(5) Do sklapanja novih ugovora o radu preuzeti radnici iz stavka 1. ovoga članka nastavljaju obavljati poslove te zadržavaju pravo na plaću, druga prava iz radnog odnosa te obveze i odgovornosti prema dosadašnjim ugovorima o radu.
+(6) U roku od 60 dana od dana stupanja na snagu ovoga Zakona radnicima iz stavka 1. ovoga članka ponudit će se sklapanje novog ugovora o radu.
+(7) Ako radnik iz stavka 1. ovoga članka ne prihvati sklapanje novog ugovora o radu ili se u roku koji odredi Hrvatski zavod za hitnu medicinu ne izjasni o ponudi sklapanja novog ugovora o radu ili se izjasni nakon isteka ostavljenog roka odnosno ako mu sklapanje novog ugovora o radu neće biti ponuđeno u roku iz stavka 6. ovoga članka, primjenjuju se opći propisi o radu.

@@ -1,0 +1,8 @@
+# Članak 178.
+(1) Zdravstvenom radniku državljaninu Republike Hrvatske ili EGP-a koji zakonito obavlja zdravstvenu djelatnost na teritoriju Republike Hrvatske nadležna komora izdaje potvrdu o stvarnom i zakonitom obavljanju te djelatnosti uzastopno najmanje tri godine u posljednjih pet godina.
+(2) Nadležne komore izdaju potvrde za državljane Republike Hrvatske ili EGP-a čiji dokaz o stručnoj kvalifikaciji doktora medicine, doktora medicine specijalista, medicinske sestre u djelatnosti opće njege, doktora dentalne medicine, doktora dentalne medicine specijalista, magistre farmacije i primalje nije sukladan zvanju (tituli) upisanom za Republiku Hrvatsku sukladno zakonu kojim se uređuju regulirane profesije i priznavanje inozemnih stručnih kvalifikacija.
+(3) U potvrdi iz stavka 2. ovoga članka utvrđuje se da je dokaz o stručnoj kvalifikaciji izdan na temelju uspješnog završetka obrazovanja sukladno zakonu kojim se uređuju regulirane profesije i priznavanje inozemnih stručnih kvalifikacija.
+(4) Nadležne komore izdaju potvrde za neometano pružanje usluga na unutarnjem tržištu Europske unije (u daljnjem tekstu: EU potvrda) za državljane Republike Hrvatske ili EGP-a sukladno zakonu kojim se uređuju regulirane profesije i priznavanje inozemnih stručnih kvalifikacija.
+(5) Pravnoj osobi koja obavlja zdravstvenu djelatnost u Republici Hrvatskoj Ministarstvo izdaje EU potvrdu radi pružanja usluga u drugoj državi članici EGP-a.
+(6) Protiv rješenja nadležne komore, kojim je odlučeno o zahtjevu za izdavanje potvrde, stranka može izjaviti žalbu u roku od 15 dana od dana dostave rješenja.
+(7) Žalba iz stavka 6. ovoga članka podnosi se nadležnoj komori, a o žalbi stranke odlučuje Ministarstvo.

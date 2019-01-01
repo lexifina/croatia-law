@@ -1,0 +1,7 @@
+## DIO PETI ZDRAVSTVENI RADNICI
+## GLAVA I. UVJETI ZA OBAVLJANJE ZDRAVSTVENE DJELATNOSTI
+# Članak 155.
+(1) Zdravstveni radnici su osobe koje imaju obrazovanje zdravstvenog usmjerenja i neposredno u vidu zanimanja pružaju zdravstvenu zaštitu stanovništvu.
+(2) Zdravstveni radnici obrazuju se na medicinskom, dentalnom ili farmaceutsko-biokemijskom fakultetu te drugom visokom učilištu koje izvodi studijski program za zdravstveno zanimanje, kao i na učilištu te srednjim strukovnim školama koje imaju rješenje nadležnog Ministarstva o odobrenju za izvođenje pojedinog nastavnog plana i programa obrazovanja/strukovnog kurikuluma koji je razvrstan u obrazovni sektor u području zdravstva. Zdravstvenim radnicima smatraju se i logopedi, medicinski tehnolozi, biotehnolozi i biomedicinski inženjeri, biolozi u zdravstvu, klinički psiholozi, medicinski fizičari, fonetičari i nutricionisti ako obavljaju zdravstvenu djelatnost u procesu dijagnostike i liječenja. Zdravstveni radnici osposobljavaju se školovanjem u punoj nastavnoj satnici teorijske i praktične nastave, kojom se postižu ishodi učenja i stječu kompetencije.
+(3) Obveza je zdravstvenih radnika da pri pružanju zdravstvene zaštite postupaju prema pravilima zdravstvene struke tako da svojim postupcima ne ugroze život i zdravlje ljudi.
+(4) Poslodavac je obvezan sve zdravstvene radnike koji neposredno u vidu zanimanja pružaju zdravstvenu zaštitu stanovništvu osigurati od štete koja bi mogla nastati u provođenju zdravstvene zaštite.

@@ -1,0 +1,3 @@
+# Članak 156.
+(1) Ne može se primiti u radni odnos za obavljanje poslova u zdravstvenoj djelatnosti koja uključuje rad s djecom niti može obavljati poslove u zdravstvenoj djelatnosti koja uključuje rad s djecom zdravstveni radnik koji je pravomoćno osuđen za neko od kaznenih djela iz glave XVI. Kaznenog zakona (»Narodne novine«, br. 125/11., 144/12., 56/15., 61/15. i 101/17.) – Kaznena djela protiv spolne slobode i glave XVII. istoga Zakona – Kaznena djela spolnog zlostavljanja i iskorištavanja djeteta.
+(2) Poslodavac je dužan po službenoj dužnosti pribaviti dokaz da osoba iz stavka 1. ovoga članka nije osuđena za kaznena djela iz stavka 1. ovoga članka.

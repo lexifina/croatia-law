@@ -1,0 +1,2 @@
+# Članak 99.
+Tijela, upravljanje i akti zdravstvenih ustanova čiji je osnivač pravna osoba, osim zdravstvenih ustanova čiji je osnivač jedinica lokalne samouprave i jedinica područne (regionalne) samouprave odnosno Grad Zagreb te zdravstvenih ustanova čiji je osnivač fizička osoba, uređuju se aktom o osnivanju odnosno statutom zdravstvene ustanove, sukladno zakonu kojim se uređuje osnivanje i ustrojstvo ustanova.

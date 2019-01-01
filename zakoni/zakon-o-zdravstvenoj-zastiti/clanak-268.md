@@ -1,0 +1,8 @@
+# Članak 268.
+(1) Zdravstveni radnici koji su u radnom odnosu u domu zdravlja najmanje posljednju godinu dana i koji ispunjavaju uvjete za obavljanje privatne prakse iz članka 47. stavka 1. točaka 1. – 8. ovoga Zakona mogu podnijeti zahtjev Ministarstvu za izdavanje rješenja o obavljanju privatne prakse u ordinaciji sukladno članku 50. stavku 1. ovoga Zakona.
+(2) Uz zahtjev iz stavka 1. ovoga članka zdravstveni radnici obvezni su priložiti ugovor o radu ili izjavu o radu u timu člana/članova tima ovjerenu kod javnog bilježnika i dokaze o ispunjavanju uvjeta iz članka 47. stavka 1. točaka 1. – 8. ovoga Zakona.
+(3) Zdravstveni radnici iz stavka 1. ovoga članka trebaju uvjet iz članka 47. stavka 1. točke 6. ovoga Zakona ispuniti danom početka obavljanja privatne prakse.
+(4) Zdravstveni radnici iz stavka 1. ovoga članka djelatnost u privatnoj praksi u ordinaciji obavljaju u poslovnom prostoru koji im je dan u zakup na temelju odluke Upravnog vijeća doma zdravlja o zakupu tog poslovnog prostora, a u kojem su do tada obavljali zdravstvenu djelatnost u radnom odnosu.
+(5) Ugovorom o zakupu poslovnog prostora sklopljenim na temelju odluke Upravnog vijeća doma zdravlja iz stavka 4. ovoga članka iznos zakupnine određuje se sukladno odluci predstavničkog tijela jedinice područne (regionalne) samouprave odnosno Grada Zagreba o kriterijima za određivanje zakupnine za poslovni prostor.
+(6) Upravno vijeće doma zdravlja obvezno je donijeti odluku iz stavka 4. ovoga članka u roku od 60 dana od dana podnošenja zahtjeva zdravstvenog radnika.
+(7) Na odluku Upravnog vijeća iz stavka 4. ovoga članka suglasnost daje predstavničko tijelo jedinice područne (regionalne) samouprave odnosno Grada Zagreba.

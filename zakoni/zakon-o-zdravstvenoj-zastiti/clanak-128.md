@@ -1,0 +1,10 @@
+## GLAVA X. ZDRAVSTVENI ZAVODI
+# Članak 128.
+(1) Zdravstveni zavodi su državni zdravstveni zavodi, zavodi za javno zdravstvo jedinica područne (regionalne) samouprave odnosno Grada Zagreba i zavodi za hitnu medicinu jedinica područne (regionalne) samouprave odnosno Grada Zagreba.
+(2) Državni zdravstveni zavodi su zdravstvene ustanove za obavljanje stručnih i znanstvenih djelatnosti iz okvira prava i dužnosti Republike Hrvatske na području javnozdravstvene djelatnosti, medicine rada, telemedicine, toksikologije i antidopinga, transfuzijske medicine te hitne medicine.
+(3) Državni zdravstveni zavodi su Hrvatski zavod za javno zdravstvo, Hrvatski zavod za transfuzijsku medicinu te Hrvatski zavod za hitnu medicinu.
+(4) U sklopu djelatnosti iz stavka 2. ovoga članka državni zdravstveni zavodi obvezni su u utvrđenom djelokrugu obavljati i druge poslove na zahtjev Ministarstva.
+(5) Zavodi za javno zdravstvo jedinica područne (regionalne) samouprave odnosno Grada Zagreba su zdravstvene ustanove za obavljanje stručnih i znanstvenih djelatnosti iz okvira prava i dužnosti jedinica područne (regionalne) samouprave odnosno Grada Zagreba na području javnozdravstvene djelatnosti.
+(6) Zavodi za javno zdravstvo jedinica područne (regionalne) samouprave odnosno Grada Zagreba u kojima se obavlja nastava iz područja javnozdravstvenih djelatnosti odnosno koji su nastavna baza visokih učilišta zdravstvenog usmjerenja imaju pravo na dodatak svom nazivu – nastavni zavodi za javno zdravstvo.
+(7) Zavodi za hitnu medicinu jedinica područne (regionalne) samouprave odnosno Grada Zagreba su zdravstvene ustanove za obavljanje poslova iz okvira prava i dužnosti jedinica područne (regionalne) samouprave odnosno Grada Zagreba na području hitne medicine.
+(8) Zavodi za hitnu medicinu jedinica područne (regionalne) samouprave odnosno Grada Zagreba u kojima se obavlja nastava iz područja hitne medicine odnosno koji su nastavna baza visokih učilišta zdravstvenog usmjerenja imaju pravo na dodatak svom nazivu – nastavni zavodi za hitnu medicinu.

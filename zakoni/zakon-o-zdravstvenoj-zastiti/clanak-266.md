@@ -1,0 +1,3 @@
+# Članak 266.
+(1) Zdravstveni radnici koji obavljaju privatnu praksu na osnovi koncesije iz članka 40. Zakona o zdravstvenoj zaštiti (»Narodne novine«, br. 150/08., 71/10., 139/10., 22/11. i 84/11.) mogu zdravstvenu djelatnost nastaviti obavljati u privatnoj praksi ako raspolažu valjanim dokazom o raspolaganju prostorom u kojem su obavljali zdravstvenu djelatnost na dan stupanja na snagu ovoga Zakona.
+(2) Zdravstveni radnici iz stavka 1. ovoga članka mogu nastaviti obavljati zdravstvenu djelatnost u privatnoj praksi u ordinaciji ako u roku od dvije godine od dana stupanja na snagu ovoga Zakona podnesu zahtjev Ministarstvu za izdavanje rješenja o nastavku obavljanja privatne prakse.

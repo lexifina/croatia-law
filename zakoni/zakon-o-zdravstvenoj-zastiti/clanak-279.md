@@ -1,0 +1,2 @@
+# Članak 279.
+Postupci započeti na temelju Zakona o zdravstvenoj zaštiti (»Narodne novine«, br. 150/08., 71/10., 139/10., 22/11., 84/11., 12/12., 35/12. – Odluka Ustavnog suda Republike Hrvatske, 70/12., 82/13., 22/14. – Odluka Ustavnog suda Republike Hrvatske i 131/17.) koji nisu dovršeni do stupanja na snagu ovoga Zakona, dovršit će se prema odredbama toga Zakona.

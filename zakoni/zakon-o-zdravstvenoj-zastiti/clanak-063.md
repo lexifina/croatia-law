@@ -1,0 +1,2 @@
+# Članak 63.
+Zdravstveni radnik privatne prakse koji obavlja djelatnost u ordinaciji u mreži javne zdravstvene službe kao izabrani doktor obvezan je u slučaju odsutnosti ili privremene obustave rada osigurati za opredijeljene osigurane osobe zamjenu ugovorom s drugim zdravstvenim radnikom iste struke i specijalizacije ili sa zdravstvenom ustanovom primarne zdravstvene zaštite odnosno trgovačkim društvom koje obavlja zdravstvenu djelatnost, koji će za to vrijeme umjesto njega pružati zdravstvenu zaštitu tim osobama.

@@ -1,0 +1,3 @@
+# Članak 158.
+(1) Zdravstveni radnik može uz odobrenje poslodavca iz članka 157. stavka 1. ovoga Zakona sklopiti za svoj račun posao za obavljanje zdravstvene djelatnosti samo u zdravstvenoj ustanovi, trgovačkom društvu za obavljanje zdravstvene djelatnosti odnosno kod privatnog zdravstvenog radnika koji nema nepodmirene obveze s osnova poreza, prireza i doprinosa odnosno nema druge dospjele obveze prema Republici Hrvatskoj.
+(2) Odredba stavka 1. ovoga članka ne odnosi se na sklapanje posla za račun zdravstvenog radnika uz odobrenje poslodavca iz članka 157. stavka 1. ovoga Zakona za obavljanje zdravstvene djelatnosti u zdravstvenoj ustanovi čiji je osnivač Republika Hrvatska, jedinica područne (regionalne) samouprave odnosno Grad Zagreb ili jedinica lokalne samouprave.

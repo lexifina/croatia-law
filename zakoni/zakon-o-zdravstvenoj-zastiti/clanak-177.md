@@ -1,0 +1,14 @@
+# Članak 177.
+(1) Postupak priznavanja inozemne stručne kvalifikacije, davanje prava na korištenje profesionalnog naziva u rješenju o priznavanju inozemne stručne kvalifikacije, davanje informacija o postupku i uvjetima za priznavanje inozemne stručne kvalifikacije provodi nadležna komora sukladno zakonu kojim se uređuju regulirane profesije i priznavanje inozemnih stručnih kvalifikacija.
+(2) Nadležna komora provodi postupak priznavanja inozemne stručne kvalifikacije (automatsko priznavanje), koji se odnosi isključivo na državljane država EGP-a s dokazom o stručnoj kvalifikaciji izdanim u državi EGP-a, kojim postupkom se tim dokazima rješenjem priznaje jednaka istovrijednost, kao i dokazima o stručnim kvalifikacijama izdanim u Republici Hrvatskoj.
+(3) Nadležna komora provodi opći sustav priznavanja inozemne stručne kvalifikacije stečene u državi EGP-a sukladno zakonu kojim se uređuju regulirane profesije i priznavanje inozemnih stručnih kvalifikacija.
+(4) Nadležna komora provodi opći sustav priznavanja inozemne stručne kvalifikacije stečene u trećim državama sukladno zakonu kojim se uređuju regulirane profesije i priznavanje inozemnih stručnih kvalifikacija. Nadležna komora rješenjem utvrđuje minimalne uvjete osposobljavanja nakon provedene usporedbe inozemnog školskog strukovnog ili studijskog programa.
+(5) Zahtjev za donošenje rješenja o priznavanju inozemne stručne kvalifikacije podnosi se nadležnoj komori.
+(6) Nadležna komora donosi rješenje o priznavanju inozemne stručne kvalifikacije iz stavaka 1., 2., 3. i 4. ovoga članka u roku propisanom zakonom kojim se uređuju regulirane profesije i priznavanje inozemnih stručnih kvalifikacija.
+(7) Protiv rješenja nadležne komore iz stavka 6. ovoga članka stranka može izjaviti žalbu u roku od 15 dana od dana dostave rješenja.
+(8) Žalba iz stavka 7. ovoga članka predaje se nadležnoj komori, a o žalbi stranke odlučuje Ministarstvo.
+(9) Iznimno od stavka 1. ovoga članka, kada nije osnovana komora za reguliranu profesiju zdravstvenog radnika, priznavanje inozemne stručne kvalifikacije, davanje prava na korištenje profesionalnog naziva u rješenju o priznavanju inozemne stručne kvalifikacije, davanje informacija o postupku i uvjetima za priznavanje inozemne stručne kvalifikacije provodi Ministarstvo.
+(10) Ministarstvo donosi rješenje o priznavanju inozemne stručne kvalifikacije iz stavka 9. ovoga članka sukladno zakonu kojim se uređuju regulirane profesije i priznavanje inozemnih stručnih kvalifikacija.
+(11) Protiv rješenja iz stavka 10. ovoga članka nije dopuštena žalba, ali se može pokrenuti upravni spor.
+(12) Nadležna komora osigurava provođenje dopunske mjere prema zakonu kojim se uređuju regulirane profesije i priznavanje inozemnih stručnih kvalifikacija te prema mjerilima iz pravilnika iz stavka 13. ovoga članka.
+(13) Mjerila i cjenik za priznavanje inozemnih stručnih kvalifikacija pravilnikom propisuje ministar.

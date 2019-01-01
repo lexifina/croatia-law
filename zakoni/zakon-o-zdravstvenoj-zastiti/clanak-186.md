@@ -1,0 +1,3 @@
+# Članak 186.
+(1) Ako je zdravstveni radnik iz članka 182. stavka 1. ovoga Zakona u radnom odnosu u zdravstvenoj ustanovi čiji je osnivač Republika Hrvatska, jedinica područne (regionalne) samouprave odnosno Grad Zagreb ili jedinica lokalne samouprave, zahtjevu za donošenje rješenja o odobrenju specijalizacije obvezan je priložiti ugovor o međusobnim pravima i obvezama vezanim uz specijalističko usavršavanje, sklopljen s poslodavcem.
+(2) Pri sklapanju ugovora iz stavka 1. ovoga članka obveza rada u radnom odnosu na neodređeno vrijeme nakon završetka specijalističkog usavršavanja i položenog specijalističkog ispita ne smije biti ugovorena u trajanju duljem od propisanog vremena trajanja specijalizacije.

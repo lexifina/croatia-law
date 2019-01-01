@@ -1,0 +1,2 @@
+# Članak 129.
+Hrvatski zavod za javno zdravstvo jest zdravstvena ustanova za obavljanje djelatnosti epidemiologije zaraznih bolesti te kroničnih nezaraznih bolesti, javnog zdravstva, promicanja zdravlja, zdravstvene ekologije, mikrobiologije, školske i adolescentne medicine, mentalnog zdravlja i prevencije ovisnosti, za obavljanje djelatnosti medicine rada, praćenje stanja i unaprjeđenje zaštite zdravlja i sigurnosti na radu, kao i stručne i znanstvene djelatnosti na području toksikologije i antidopinga.

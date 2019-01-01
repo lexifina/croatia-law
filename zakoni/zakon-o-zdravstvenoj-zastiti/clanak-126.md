@@ -1,0 +1,4 @@
+# Članak 126.
+(1) Nastavnici i osobe u suradničkim zvanjima – zdravstveni radnici koji izvode nastavu u zdravstvenim ustanovama za potrebe visokih učilišta zdravstvenog usmjerenja mogu zasnovati istodobno radni odnos s jednom zdravstvenom ustanovom i s jednim, samo iznimno s dva visoka učilišta zdravstvenog usmjerenja tako da u zdravstvenoj ustanovi odnosno visokom učilištu obavljaju poslove s nepunim radnim vremenom, tako da njihovo puno radno vrijeme iznosi najviše 48 sati tjedno.
+(2) Iznimno od stavka 1. ovoga članka, nastavnici i osobe u suradničkim zvanjima – privatni zdravstveni radnici koji imaju sklopljen ugovor sa Zavodom mogu sklopiti ugovor o poslovnoj suradnji s visokim učilištem.
+(3) Zdravstvena ustanova i visoko učilište zdravstvenog usmjerenja ugovorom uređuju pitanja iz radnog odnosa u izvođenju nastave.

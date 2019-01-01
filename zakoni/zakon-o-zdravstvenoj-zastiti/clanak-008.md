@@ -1,0 +1,3 @@
+# Članak 8.
+(1) Plan zdravstvene zaštite Republike Hrvatske (u daljnjem tekstu: Plan zdravstvene zaštite), na temelju analize stanja zdravlja stanovništva i zdravstvenih potreba stanovništva te osiguravajući svrsishodnu podjelu rada, a uzimajući u obzir raspoloživa sredstva te kadrovske i druge mogućnosti, uz prethodno pribavljeno mišljenje Hrvatskog zavoda za javno zdravstvo, nadležnih komora te Hrvatskog liječničkog zbora, odlukom donosi ministar.
+(2) Ako tijelo iz stavka 1. ovoga članka u roku od 30 dana od dana kada je zatraženo ministru ne dostavi mišljenje iz stavka 1. ovoga članka, smatra se da je dalo pozitivno mišljenje.

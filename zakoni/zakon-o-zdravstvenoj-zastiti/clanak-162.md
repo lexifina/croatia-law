@@ -1,0 +1,4 @@
+# Članak 162.
+(1) Za natprosječne rezultate u radu radnici koji obavljaju zdravstvenu djelatnost pružanjem zdravstvene zaštite u procesu dijagnostike i liječenja ili sudjelovanjem u dijelu zdravstvene zaštite obavljanjem dijagnostičkih odnosno terapijskih postupaka, mogu ostvariti dodatak uz plaću.
+(2) Odredba stavka 1. ovoga članka primjenjuju se na radnike u djelatnosti zdravstva za koju se sredstva u iznosu većem od pedeset posto troškova za plaće i druga materijalna prava radnika osiguravaju u državnom proračunu Republike Hrvatske odnosno proračunu jedinica područne (regionalne) samouprave odnosno Grada Zagreba ili iz sredstava Zavoda.
+(3) Mjerila utvrđivanja natprosječnih rezultata rada i način isplate dodatka za natprosječne rezultate rada radnika iz stavka 1. ovoga članka uređuje Vlada Republike Hrvatske uredbom.

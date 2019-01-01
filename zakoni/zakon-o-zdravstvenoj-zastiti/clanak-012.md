@@ -1,0 +1,4 @@
+# Članak 12.
+(1) Radi ostvarivanja prava, obveza, zadaća i ciljeva na području zdravstvene zaštite na svom području jedinica područne (regionalne) samouprave odnosno Grad Zagreb osniva Savjet za zdravlje.
+(2) Broj članova Savjeta za zdravlje i druga pitanja od važnosti za rad Savjeta određuju se statutom jedinice područne (regionalne) samouprave odnosno Grada Zagreba, pri čemu treba osigurati sudjelovanje predstavnika jedinica lokalne samouprave, komora u zdravstvu, strukovnih udruženja, udruga za zaštitu prava pacijenata te sindikata i poslodavaca u zdravstvu kao članova Savjeta.
+(3) Radi ostvarivanja zadaća iz stavka 2. ovoga članka Savjet za zdravlje daje mišljenje na prijedlog plana zdravstvene zaštite za područje jedinice područne (regionalne) samouprave odnosno Grada Zagreba te predlaže mjere za ostvarivanje dostupnosti i kvalitete zdravstvene zaštite u jedinici područne (regionalne) samouprave odnosno Gradu Zagrebu.

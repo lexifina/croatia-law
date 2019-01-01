@@ -1,0 +1,2 @@
+# Članak 254.
+Program mjera zaštite zdravlja od štetnih čimbenika okoliša iz članka 7. stavka 3. ovoga Zakona, Plan zdravstvene zaštite Republike Hrvatske iz članka 8. stavka 1. ovoga Zakona, Mrežu telemedicinskih centara iz članka 38. stavka 9. ovoga Zakona, Mrežu javne zdravstvene službe iz članka 45. stavka 2. ovoga Zakona, Mrežu hitne medicine iz članka 138. stavka 4. ovoga Zakona i Nacionalni plan specijalističkog usavršavanja iz članka 181. stavka 2. ovoga Zakona ministar će donijeti u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.

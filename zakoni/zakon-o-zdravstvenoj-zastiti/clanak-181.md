@@ -1,0 +1,6 @@
+# Članak 181.
+(1) Zdravstveni radnici specijaliziraju se u određenoj grani zdravstvene djelatnosti te određenim granama uže specijalizacije.
+(2) Na prijedlog predstavničkih tijela jedinica područne (regionalne) samouprave odnosno Grada Zagreba te pravnih i fizičkih osoba iz članka 182. stavaka 1. i 2. ovoga Zakona, uz prethodno pribavljeno mišljenje Zavoda i nadležnih komora, ministar odlukom donosi Nacionalni plan specijalističkog usavršavanja zdravstvenih radnika za petogodišnje razdoblje (u daljnjem tekstu: Nacionalni plan specijalističkog usavršavanja).
+(3) Nacionalni plan specijalističkog usavršavanja temelji se na potrebi razvoja zdravstvene djelatnosti na primarnoj, sekundarnoj i tercijarnoj razini, kao i potrebi zdravstvenog sustava za odgovarajućim specijalnostima zdravstvenih radnika, njihovim brojem, rasporedom te dobnom strukturom.
+(4) Grane specijalizacije, trajanje i program specijalizacija i užih specijalizacija te akreditacijskih područja utvrđuje pravilnikom ministar uz prethodno pribavljeno mišljenje nadležnih komora.
+(5) Ako tijelo iz stavka 4. ovoga članka u roku od 30 dana od dana kada je zatraženo ministru ne dostavi mišljenje iz stavka 4. ovoga članka, smatra se da je dalo pozitivno mišljenje.

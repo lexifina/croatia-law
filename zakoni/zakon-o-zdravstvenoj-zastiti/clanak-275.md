@@ -1,0 +1,4 @@
+# Članak 275.
+(1) Hrvatski zavod za javno zdravstvo danom stupanja na snagu ovoga Zakona preuzima sve poslove, državne službenike, pismohranu i drugu dokumentaciju, sredstva za rad, imovinu, financijska sredstva te prava i obveze Ureda za suzbijanje zlouporabe droga.
+(2) Preuzeti državni službenici iz stavka 1. ovoga članka danom stupanja na snagu ovoga Zakona smatraju se radnicima Hrvatskog zavoda za javno zdravstvo i do sklapanja ugovora o radu nastavljaju obavljati poslove i zadržavaju pravo na plaću i druga prava iz radnog odnosa te obveze i odgovornosti prema dosadašnjim rješenjima o rasporedu.
+(3) Ako radnik iz stavka 2. ovoga članka u roku od osam dana od dana primitka ponude za sklapanje ugovora o radu ne prihvati sklapanje ugovora o radu s Hrvatskim zavodom za javno zdravstvo, primjenjuju se opći propisi o radu.

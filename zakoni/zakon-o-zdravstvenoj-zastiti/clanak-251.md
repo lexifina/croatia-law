@@ -1,0 +1,3 @@
+# Članak 251.
+(1) Novčanom kaznom u iznosu od 50.000,00 do 100.000,00 kuna kaznit će se za prekršaj zdravstvena ustanova odnosno trgovačko društvo koje obavlja zdravstvenu djelatnost u kojem zdravstveni radnik obavlja poslove za svoj račun na temelju odobrenja iz članka 157. stavka 1. ovoga Zakona, a koje postupi protivno ugovoru iz članka 159. ovoga Zakona.
+(2) Za prekršaj iz stavka 1. ovoga članka kaznit će se novčanom kaznom u iznosu od 10.000,00 do 50.000,00 kuna i privatni zdravstveni radnik te odgovorna osoba u zdravstvenoj ustanovi odnosno trgovačkom društvu koje obavlja zdravstvenu djelatnost.
