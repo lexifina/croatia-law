@@ -1,0 +1,10 @@
+## Primjena
+# Članak 2.
+1. Ovaj Kolektivni ugovor primjenjuju se na sve hrvatske pomorce ili pomorce državljane Republike Hrvatske koji imaju boravište (rezident) ili prebivalište u Republici Hrvatskoj, a koji plove na Brodovima u međunarodnoj plovidbi upisanim u hrvatski ili neki drugi upisnik upisnik Brodova.
+2. Lista Brodova je navedena u Posebnom dodatku (1) ovog Kolektivnog ugovora, a koji su izravno ili putem svojih ovisnih društava u vlasništvu hrvatskih Brodara i u odnosu na koje je zaključen ITF/SPH Posebni ugovor.
+3. Ovaj Kolektivni ugovor se primjenjuje i na pomorce državljane ostalih država članica Europske unije vodeći računa o primjeni odredaba Uredbe (EZ) br. 883/2004 Europskog Parlamenta i Vijeća od 29. travnja 2004. o koordinaciji sustava socijalne sigurnosti.
+4. Ugovorne strane će najmanje jednom godišnje tijekom trajanja Kolektivnog ugovora razmatrati stanje na svjetskom pomorskom tržištu, potrebama hrvatskih Brodara za zapošljavanjem pomoraca, raspoloživost i interes hrvatskih pomoraca za zapošljavanje na Brodovima u međunarodnoj plovidbi u vlasništvu hrvatskih Brodara.
+5. Odredbe Kolektivnog ugovora kojima se uređuju prava Pomoraca primjenjuju se kao opće odredbe i na pojedinačne Ugovore o zaposlenju zaključene između Poslodavca i Pomorca. U slučaju proturječja između općih odredaba i pojedinačnog Ugovora o zaposlenju primjenjuju se opće odredbe, ako su povoljnije za Pomorca. Odredbe Kolektivnog ugovora se primjenjuju i u slučaju kad pojedinačni Ugovor o zaposlenju nije zaključen u pisanom obliku.
+6. Ovaj Kolektivni ugovor usuglašen je s odredbama MLC.
+7. Prigodom produženja Kolektivnog ugovora ili prijedloga za uključenje pojedinog Broda u Kolektivni ugovor, ugovorne stranke su dužne dogovoriti hoće li određeni Brod u preostalom razdoblju trajanja Kolektivnog ugovora biti klasificiran za plovidbu u međunarodnoj plovidbi, u kojem slučaju će se takav Brod uključiti u Kolektivni ugovor.
+8. Kolektivnom ugovoru mogu pristupiti Poslodavci koji nisu članovi Udruge, pod uvjetom da o tome izvijeste stranke ovog Kolektivnog ugovora.

@@ -1,0 +1,30 @@
+## Zaposlenje
+# Članak 3.
+1. Pomorac se zapošljava zaključivanjem Ugovora o zaposlenju koji mora biti u pisanom obliku i u kojem moraju biti utvrđeni zahtjevi i uvjeti zapošljavanja sukladno Pravilu 2.1 - Ugovori o zaposlenju Pomoraca MLC-a. Svaki Pomorac potpisuje Ugovor o zaposlenju koji mora najmanje sadržavati elemente iz Općeg dodatka (4). Ako tijekom ukrcanja Pomorac promijeni svojstvo u odnosu na svojstvo u kojem je bio ukrcan Poslodavac mora sa Pomorcem zaključiti novi ugovor o zaposlenju pri čemu se ne mijenja ugovoreno trajanje ukrcanja osim ako se Poslodavac i Pomorac ne dogovore drugačije.
+2. Odredbe Kolektivnog ugovora koje uređuju prava i obveze Pomorca i Poslodavca predstavljaju sastavni dio Ugovora o zaposlenju. Odredbe Ugovora o zaposlenju koje su protivne odredbama Kolektivnog ugovora nisu valjane.
+3. Ugovor o zaposlenju se zaključuje na:
+a) Neodređeno vrijeme; ili
+b) Određeno vremensko razdoblje koje se utvrđuje u Posebnom dodatku (3), a koje ne može biti duže od 6 mjeseci koje se po izboru Poslodavca može skratiti na 5 mjeseci ili produžiti na 7 mjeseci, ovisno o zahtjevima plovidbe, ekonomičnosti zamjene posade ili drugim opravdanim okolnostima, ako u Posebnom dodatku (3) za pojedine slučajeve nije drukčije ugovoreno; ili
+c) Jedno ili više putovanja koja ne mogu trajati duže od ukupno 7 mjeseci, osim za vježbenike kada se Ugovor o zaposlenju može zaključiti i na rok do 12 mjeseci.
+4. Ugovor o zaposlenju mora sadržavati sljedeće odredbe:
+a) Ime i prezime Pomorca, adresa stalnog prebivališta, mjesto i datum rođenja, broj putovnice, broj pomorske knjižice te mjesto i datum posljednjeg liječničkog pregleda;
+b) Naziv i adresa Poslodavca i Brodara te brojeve njihovih telefona, faksova i elektronske pošte;
+c) Datum i mjesto zaključenja Ugovora o zaposlenju;
+d) Ime Broda na kojem će Pomorac ploviti, Međunarodna pomorska organizacija (IMO) broj Broda, luka upisa i zastava Broda;
+e) Svojstvo u kojem je Pomorac zaposlen;
+f) Iznos plaće i ostalih primanja Pomorca;
+g) Duljina plaćenog godišnjeg odmora;
+h) Trajanje Ugovora o zaposlenju i njegovi uvjeti;
+i) Pravo na prekid Ugovora o zaposlenju;
+j) Pogodnosti zaštite zdravstvene i socijalne sigurnosti koje Brodovlasnik predviđa za Pomorca;
+k) Pravo Pomorca na repatrijaciju;
+l) Poziv na Kolektivni ugovor; i
+m) Potpise Pomorca i Poslodavca.
+5. Ugovor o zaposlenju Pomorca mora biti dostupan radi provjere vlastima, predstavnicima Sindikata i ITF-a u lukama ticanja Broda.
+6. Ako Pomorcu ističe valjanost liječničke svjedodžbe prije ukrcanja na Brod ili bi očekivano mogao isteći za vrijeme trajanja ukrcanja, Pomorac će obaviti liječnički pregled kod ovlaštenog liječnika po izboru Poslodavca, pri čemu će se voditi računa o prebivalištu Pomorca.
+7. Poslodavac ima pravo zahtijevati da svaki Pomorac mora obaviti dodatni liječnički pregled, na trošak Poslodavaca, kod liječnika odabranog od strane Poslodavca i da Pomorac prema potrebi odgovori na bilo kakav upitnik o svom zdravstvenom stanju. Odbijanje istog zahtjeva i davanje neistinitih tvrdnji može utjecati na pravo Pomorca na naknadu koja proizlazi iz članaka 22., 23., 24., 25. i 26. ovog Kolektivnog ugovora. Pomorac ima pravo dobiti kopiju liječničke potvrde izdane nakon obavljenog pregleda.
+8. Brodar koji je izravni Poslodavac ili koji koristi usluge posrednika u zapošljavanju Pomoraca će, koliko je god moguće, osigurati ispunjavanje pravila iz MLC-a. To uključuje zahtjeve da Pomorci ne plaćaju izravno ili neizravno naknade ili troškove za dobivanje viza u cijelosti ili djelomično, naknade prilikom pronalaska zaposlenja, da Pomorac ima pravo uvida u svoje Ugovore o zaposlenju i traženje savjeta prije zaposlenja i upućivanja na ukrcanje.
+9. Ako zbog promjene zastave Broda, Pomorac ima dodatne troškove za izdavanje svjedodžbi o priznavanju svjedodžbi o osposobljenosti, te troškove će snositi Brodar.
+10. Odredbe ovog članka će se jednako primjenjivati i na Pomorce koji su prethodno bili zaposleni kod Brodara i iskrcani zbog zdravstvenih razloga sukladno članku 19., stavku 1., točka b) ako Pomorac nakon oporavka iskaže želju za ponovnim ukrcanjem. Svaki tako oporavljeni Pomorac biti će jednako tretiran kao ostali kandidati koji udovoljavaju uvjetima zdravstvene sposobnosti.
+11. Pomorac koji ima zaključen Ugovor o zaposlenju na neodređeno vrijeme dužan je održavati valjanost svjedodžbi o osposobljenosti, svjedodžbi o dopunskoj osposobljenosti i svih drugih dokumenata sukladno važećem Pravilniku o zvanjima i svjedodžbama pomoraca, a Pomorac s kojim se zaključuje Ugovor o zaposlenju na određeno vrijeme dužan je osigurati valjanost svih svjedodžbi i drugih dokumenata najkasnije u roku od 30 dana od dana posljednjeg iskrcanja osim u slučaju objektivne nemogućnosti ili dogovora sa Poslodavcem.
+12. Ukoliko Pomorac ne ispuni obvezu iz stavka 11. ovog članka, a zbog toga nastane trošak za Brodara, dužan ga je nadoknaditi.
