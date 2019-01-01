@@ -1,0 +1,3 @@
+# Članak 50.
+U članku 150. stavak 1. mijenja se i glasi:
+»(1) Tijela državne uprave, nadležno upravno tijelo u županiji, odnosno u Gradu Zagrebu, pravne osobe s javnim ovlastima i ovlaštenici, koji obavljaju poslove praćenja stanja okoliša u skladu s ovim Zakonom, dužni su sukladno uredbi iz članka 149. stavka 3. ovoga Zakona Ministarstvu za potrebe informacijskog sustava u propisanim rokovima dostavljati propisane podatke i informacije kao i odgovarajuća izvješća, te su obvezni Ministarstvu osigurati nesmetan pristup podacima i korištenje podataka za potrebe informacijskog sustava. Podaci koji se dostavljaju moraju biti točni, potpuni i vjerodostojni.«.
