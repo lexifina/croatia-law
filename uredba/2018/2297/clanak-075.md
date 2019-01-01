@@ -1,0 +1,4 @@
+# Članak 75.
+Služba za vođenje postupaka s nezakonito izgrađenom infrastrukturom obavlja poslove ozakonjenja nezakonito izgrađene infrastrukture, i to provodi postupak i donosi rješenja o izvedenom stanju za komunalne, prometne, energetske, vodne, pomorske, komunikacijske, elektroničke komunikacijske i druge građevine namijenjene gospodarenju s drugim vrstama stvorenih i prirodnih dobara, te druge građevine koje neposredno služe infrastrukturi, priprema rješenja o visini naknade, prati stanje rješavanja te evidentira ozakonjenu infrastrukturu u informacijskom sustavu prostornog uređenja, obavlja i druge poslove određene zakonom.
+Služba obavlja poslove pripreme rješenja o visini naknade, prati stanje rješavanja te evidentira ozakonjenu infrastrukturu u informacijskom sustavu prostornog uređenja, obavlja i druge poslove određene zakonom.
+7.2. Sektor za razvoj informacijskog sustava prostornog uređenja

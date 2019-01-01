@@ -1,0 +1,8 @@
+# Članak 97.
+Područni ured u Zagrebu sa sjedištem u Zagrebu obavlja inspekcijski nadzor građenja, provedbe stručnog nadzora građenja, održavanja i uporabe građevina za koje građevinsku i uporabnu dozvolu izdaju upravna tijela nadležna za upravne poslove graditeljstva na području Grada Zagreba i Zagrebačke županije, te građenja građevina i izvođenja radova kojima se može pristupiti na temelju glavnog projekta i tipskog projekta, poduzima zakonom kojim se uređuje građevinska inspekcija propisane mjere, po prijenosu nadležnosti obavlja inspekcijski nadzor građenja, provedbe stručnog nadzora građenja, održavanja i uporabe građevina za koje građevinsku i uporabnu dozvolu izdaje Ministarstvo, podnosi optužne prijedloge i kaznene prijave, obavlja poslove vezane za provedbu izvršenja inspekcijskih rješenja putem treće osobe, izrađuje očitovanja na navode tužbi protiv inspekcijskih rješenja, daje obavijesti, priprema odgovore na podneske te odgovara na podneske sukladno ovlastima i nadležnosti, predlaže i prati realizaciju plana rada Područnog ureda, izrađuje godišnja i druga izvješća o radu, te obavlja i druge poslove u okviru svoga djelokruga.
+Područni ured može odrediti da, po potrebi, viši građevinski inspektor, građevinski inspektor, odnosno građevinski inspektor II. vrste zvanja iz jedne službe privremeno, provodi nadzor na području druge službe inspekcijskog nadzora gradnje.
+U Područnom uredu u Zagrebu sa sjedištem u Zagrebu ustrojavaju se sljedeće ustrojstvene jedinice:
+11.1.1.1. Služba Zagreb I
+11.1.1.2. Služba Zagreb II
+11.1.1.3. Služba za Zagrebačku županiju.
+11.1.1.1. Služba Zagreb I
