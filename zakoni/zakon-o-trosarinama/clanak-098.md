@@ -1,0 +1,7 @@
+## Plaćanje trošarine
+# Članak 98.
+(1) Na ostale energente čija visina nije određena uredbom iz članka 97. stavka 2. ovoga Zakona te zamjenske energente iz članka 96. stavka 7. ovoga Zakona trošarina se plaća prema namjeni korištenja i u iznosu propisanom za jednakovrijedno pogonsko gorivo odnosno gorivo za grijanje.
+(2) Jednakovrijednim pogonskim gorivom ili gorivom za grijanje u smislu ovoga Zakona smatra se pogonsko gorivo ili gorivo za grijanje iz članka 96. stavka 6. ovoga Zakona s kojim se ostali energenti čija visina nije određena uredbom iz članka 97. stavka 2. ovoga Zakona te zamjenski energenti iz članka 96. stavka 7. ovoga Zakona mogu učinkovito zamijeniti u okviru njihova korištenja ili, ako to nije moguće, ono koje mu je od pogonskih goriva ili goriva za grijanje iz članka 96. stavka 6. ovoga Zakona prema svojim svojstvima i namjeni najbliže.
+(3) Na aditive i punila iz članka 96. stavka 8. ovoga Zakona koji su dodani pogonskom gorivu ili su namijenjeni za uporabu, uporabljeni ili ponuđeni na prodaju kao pogonsko gorivo trošarina se plaća prema iznosu propisanom za jednakovrijedno pogonsko gorivo.
+(4) Na loživo ulje i plavi dizel iz kojeg je uklonjeno sredstvo za označavanje trošarina se plaća prema iznosu propisanom za dizelsko gorivo.
+(5) Iznimno od odredbi ovoga članka, na energente za koje je utvrđeno da su bili predmet nezakonitog postupanja trošarina se plaća prema iznosu propisanom za jednakovrijedno pogonsko gorivo, ovisno o vrsti energenta koji je bio predmet nezakonitog postupanja, osim ako ovim Zakonom nije drukčije propisano.

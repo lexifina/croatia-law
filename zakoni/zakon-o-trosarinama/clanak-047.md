@@ -1,0 +1,9 @@
+## Posebnosti kretanja trošarinskih proizvoda prema oslobođenom korisniku
+# Članak 47.
+(1) Iznimno od članka 45. ovoga Zakona, u slučaju iz članka 41. stavka 1. točke 3. ovoga Zakona kretanje trošarinskih proizvoda u sustavu odgode plaćanja trošarine za namjene iz članka 68. stavka 1. točaka 4. – 12. i članka 105. stavka 1. točaka 4., 5., 6. i 7. ovoga Zakona dozvoljeno je uz elektronički prateći trošarinski dokument u okviru računalne razmjene podataka između ovlaštenog držatelja trošarinskog skladišta i oslobođenog korisnika (u daljnjem tekstu: e-PTD).
+(2) Pošiljatelj – ovlašteni držatelj trošarinskog skladišta podnosi nacrt e-PTD-a Carinskoj upravi koristeći računalni sustav iz stavka 1. ovoga članka najkasnije na dan otpreme. Računalni sustav Carinske uprave vrši elektroničku provjeru podataka u nacrtu e-PTD-a.
+(3) Pošiljatelj – ovlašteni držatelj trošarinskog skladišta može otkazati e-PTD koristeći računalni sustav iz stavka 1. ovoga članka sve dok trošarinski proizvodi nisu napustili trošarinsko skladište otpreme.
+(4) Tiskana inačica e-PTD-a je isprava koja prati pošiljku trošarinskih proizvoda kojom se dokazuje da se navedene vrste i količine trošarinskih proizvoda kreću u sustavu odgode plaćanja trošarine.
+(5) Primatelj – oslobođeni korisnik šalje računalnom sustavu Carinske uprave potvrdu o primitku odmah, a najkasnije petog radnog dana nakon primitka trošarinskih proizvoda u sustavu odgode plaćanja trošarine, osim u posebno opravdanim slučajevima o čijoj opravdanosti odlučuje nadležno tijelo.
+(6) U slučaju iz članka 41. stavka 4. ovoga Zakona kretanje trošarinskih proizvoda dokumentira se drugim ispravama uz prethodno odobrenje nadležnog carinskog ureda.
+(7) Ministar financija pravilnikom propisuje strukturu i sadržaj e-PTD-a i potvrde o primitku, postupanje prilikom računalne razmjene podataka i postupanje u slučaju nedostupnosti sustava.

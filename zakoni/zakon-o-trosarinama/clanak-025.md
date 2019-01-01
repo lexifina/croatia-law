@@ -1,0 +1,15 @@
+## Porezni zastupnik za prodaju na daljinu
+# Članak 25.
+(1) Poreznog zastupnika za prodaju na daljinu može imenovati prodavatelj iz članka 55. stavka 3. ovoga Zakona da u njegovo ime i za njegov račun u Republici Hrvatskoj izvršava obveze i ostvaruje prava sukladno odredbama ovoga Zakona ako za to dobije odobrenje nadležnog carinskog ureda. Porezni zastupnik mora imati prebivalište, sjedište ili podružnicu na teritoriju Republike Hrvatske.
+(2) Odobrenje iz stavka 1. ovoga članka donosi carinski ured temeljem zahtjeva koji mora sadržavati sljedeće podatke: identifikacijske podatke podnositelja zahtjeva, osobni identifikacijski broj (OIB), kategoriju i vrstu trošarinskih proizvoda za koje se traži odobrenje, puno ime odgovorne osobe podnositelja zahtjeva, podatke o prodavatelju iz druge države članice za kojeg podnositelj zahtjeva želi vršiti funkciju poreznog zastupnika, podatke o ispunjavanju uvjeta za provedbu nadzora, dokumentaciju iz koje se mora vidjeti potpuni opis rada računovodstvenog sustava u skladu s odredbama ovoga Zakona i propisa za provedbu ovoga Zakona i druge podatke koji dokazuju utemeljenost zahtjeva. Uz zahtjev se podnosi i izjava da će se prije početka primanja trošarinskih proizvoda položiti instrument osiguranja plaćanja trošarine.
+(3) Odobrenje se izdaje na ime podnositelja zahtjeva bez prava prijenosa na drugu osobu i neće se izdati osobi koja pravodobno i u cijelosti ne podmiruje trošarinske, porezne i carinske obveze, koja je teže kršila ili je ponavljala kršenja odredbi trošarinskih, poreznih ili carinskih propisa.
+(4) Porezni zastupnik za prodaju na daljinu mora:
+1. prije nego što su trošarinski proizvodi iz druge države članice otpremljeni, prijaviti se nadležnom carinskom uredu i jamčiti plaćanje trošarine
+2. platiti trošarinu kod nadležnog carinskog ureda nakon primitka trošarinskih proizvoda
+3. voditi evidencije po kategoriji i vrsti trošarinskog proizvoda, trgovačkom nazivu, količini, mjestu i datumu otpreme, primatelju
+4. obavijestiti carinski ured o svim izmjenama podataka navedenim u odobrenju te osigurati nesmetano obavljanje nadzora.
+(5) Odobrenje iz stavka 1. ovoga članka ukinut će se kada pravna osoba prestane postojati, kada fizička osoba umre ili vraćanjem odobrenja carinskom uredu. O ukidanju odobrenja donosi se rješenje.
+(6) Carinski ured ukida odobrenje osobito:
+1. ako porezni zastupnik za prodaju na daljinu prestane ispunjavati uvjete navedene u odobrenju; ne osigurava odgovarajući sustav nadzora; ne dostavi odgovarajući instrument osiguranja plaćanja trošarine ili ako ga ne dostavi u iznosu koji može osigurati plaćanje trošarinskog duga; ne ukloni nepravilnosti u roku koji mu je odredio carinski ured; sudjeluje u vršenju kažnjivih radnji
+2. ako prestanu postojati razlozi i uvjeti na temelju kojih je odobrenje izdano.
+(7) Ministar financija pravilnikom propisuje sadržaj i priloge koji se podnose uz zahtjev za izdavanje odobrenja, način polaganja i vrstu instrumenta osiguranja plaćanja trošarine te sadržaj i način vođenja evidencija.

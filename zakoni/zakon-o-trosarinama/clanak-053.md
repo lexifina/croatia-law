@@ -1,0 +1,4 @@
+## Drugi dokazi o završetku kretanja
+# Članak 53.
+(1) U posebno opravdanim slučajevima kada ne postoji potvrda o primitku ili potvrda o izvozu zbog razloga koji su različiti od onih iz članaka 51. i 52. ovoga Zakona, Carinska uprava može prihvatiti od primatelja i drugi dokaz o završetku kretanja trošarinskih proizvoda u sustavu odgode plaćanja trošarine pod uvjetom da taj dokument sadrži iste podatke kao i potvrda o primitku ili potvrda o izvozu i ako ga je ovjerilo nadležno tijelo države članice odredišta ili nadležno tijelo države članice izvoza kad su trošarinski proizvodi otpremljeni u drugu državu članicu.
+(2) Kada prihvati dokument iz stavka 1. ovoga članka, Carinska uprava će koristeći računalni sustav potvrditi da je kretanje trošarinskih proizvoda završeno u skladu s člankom 44. stavkom 2. ovoga Zakona.

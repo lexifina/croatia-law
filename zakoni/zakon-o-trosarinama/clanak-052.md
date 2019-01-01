@@ -1,0 +1,6 @@
+## Rezervni postupak u slučaju nedostupnosti računalnog sustava
+# Članak 52.
+(1) Kada računalni sustav iz članka 45. ovoga Zakona nije dostupan te pošiljatelj u Republici Hrvatskoj ne može postupiti u skladu s člankom 48. stavcima 1., 3. i 5. i člankom 49. stavcima 1. i 4. ovoga Zakona odnosno primatelj u Republici Hrvatskoj ne može postupiti u skladu s člankom 48. stavkom 6. i člankom 49. stavkom 5. ovoga Zakona, Carinska uprava može odobriti početak kretanja, promjenu odredišta ili završetak kretanja uz primjenu rezervnog postupka odnosno papirnatog dokumenta kako je definiran člankom 8. Uredbe Komisije br. 684/2009.
+(2) Kada računalni sustav postane dostupan, pošiljatelj odmah postupa u skladu s člankom 48. stavcima 1., 3. i 5. i člankom 49. stavcima 1. i 4. ovoga Zakona odnosno primatelj odmah postupa u skladu s člankom 48. stavkom 6. i člankom 49. stavkom 5. ovoga Zakona.
+(3) Pošiljatelj je dužan čuvati presliku papirnatog dokumenta iz stavka 1. ovoga članka u svojoj evidenciji.
+(4) Ministar financija pravilnikom propisuje provedbu rezervnog postupka, uključujući postupanje Carinske uprave u slučaju nedostupnosti sustava pri završetku izvoza te strukturu i sadržaj obrazaca koji se mogu koristiti kao papirnati dokument.

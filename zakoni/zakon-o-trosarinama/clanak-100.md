@@ -1,0 +1,9 @@
+## ODJELJAK 2. POSEBNOSTI POSTUPANJA S OZNAČENIM DIZELSKIM GORIVOM TE POVRAT TROŠARINE ZA KOMERCIJALNI PRIJEVOZ ROBE
+## Označavanje loživa ulja i plavog dizela
+# Članak 100.
+(1) Loživo ulje i plavi dizel prije isporuke iz trošarinskog skladišta moraju biti označeni propisanim indikatorom i obojeni crvenom odnosno plavom bojom.
+(2) Loživo ulje i plavi dizel koji se uvoze u carinskom postupku puštanja robe u slobodan promet na teritoriju Republike Hrvatske ili druge države članice te se u sustavu odgode otpremaju na teritorij Republike Hrvatske smatrat će se propisno označenima ako ih prati potvrda inozemnog dobavljača o vrsti i količini sredstva za označavanje, ovjerena od nadležnog tijela da su bili označeni u trećoj državi, a kojom se dokazuje da su označeni u skladu sa stavkom 1. ovoga članka. Ako se prilikom uvoza ne priloži potvrda ili na neki drugi način ne dokaže da su loživo ulje i plavi dizel propisno označeni, smatrat će se dizelskim gorivom iz članka 96. stavka 6. točke 4. ovoga Zakona.
+(3) Loživo ulje i plavi dizel moraju biti skladišteni na način kojim se osigurava da drugi proizvodi ne utječu na neutraliziranje sredstava za označavanje.
+(4) Označavanje se obavlja samo u trošarinskom skladištu ovlaštenog držatelja trošarinskog skladišta kojemu je u odobrenju za ovlaštenog držatelja trošarinskog skladišta i za trošarinsko skladište odobreno i označavanje loživa ulja i plavog dizela te koji u svom trošarinskom skladištu ima postrojenja prikladna za doziranje, miješanje ili slična postrojenja uz čiju pomoć se može osigurati propisano označavanje.
+(5) Kada loživo ulje i plavi dizel nisu propisno označeni ili kada postrojenja ne osiguravaju propisano označavanje, nadležni carinski ured ukinut će odobrenu radnju označavanja loživa ulja i plavog dizela.
+(6) Ministar financija pravilnikom propisuje način i postupak označavanja loživa ulja i plavog dizela.

@@ -1,0 +1,15 @@
+## Označavanje, mjerenje i stavljanje u promet alkohola i alkoholnih pića
+# Članak 71.
+(1) Posebnom markicom Ministarstva financija Republike Hrvatske, koja uz tekst »Republika Hrvatska – Ministarstvo financija« mora imati naznačenu količinsku oznaku te slovnu oznaku serije i broj serije, moraju biti označeni proizvodi iz članaka 64., 65. i 66. ovoga Zakona, osim proizvoda obuhvaćenih tarifnom oznakom KN 2207 te proizvoda definiranih zakonom kojim se uređuju proizvodnja i promet vina, koji se:
+1. proizvode ili unose ili uvoze i puštaju u potrošnju u Republici Hrvatskoj
+2. otpremaju do mjesta na kojem napuštaju teritorij Europske unije ili otpremaju u drugu državu članicu.
+(2) Iznimno od stavka 1. ovoga članka, svi proizvodi obuhvaćeni tarifnim oznakama KN 2207 i 2208 s volumnim udjelom alkohola većim od 1,2% vol. koji su sastavni dio nekog proizvoda razvrstanog u drugo poglavlje Kombinirane nomenklature ne moraju biti označeni posebnom markicom Ministarstva financija Republike Hrvatske.
+(3) Proizvodi iz stavka 1. ovoga članka koji se otpremaju do mjesta na kojem alkohol i alkoholna pića napuštaju teritorij Republike Hrvatske ili se otpremaju u drugu državu članicu iznimno mogu biti označeni oznakom koju zahtijeva država uvoznica ili druga država članica odnosno bez oznake, što pošiljatelj mora dokumentirati nadležnom carinskom uredu dokazom o preuzimanju markica ili drugim odgovarajućim dokumentom.
+(4) Proizvodi iz stavka 1. ovoga članka koji nisu proizvedeni u Republici Hrvatskoj, a koje unosi iz druge države članice ili uvozi primatelj iz članka 35. ovoga Zakona, ne moraju biti označeni posebnom markicom Ministarstva financija Republike Hrvatske.
+(5) Proizvodi iz stavka 1. ovoga članka mogu se stavljati u promet samo u bocama ili drugoj prikladnoj ambalaži u skladu s posebnim propisima kojima se regulira njihovo stavljanje u promet.
+(6) Posebna markica mora biti nalijepljena preko čepa na boci tako da se markica pri otvaranju ošteti.
+(7) Neovlaštena izrada markica iz stavka 1. ovoga članka ili markica za alkoholna pića drugih država članica, trećih država ili trećih teritorija ili njihovo neovlašteno tiskanje ili posjedovanje ili stavljanje u promet smatra se protuzakonitim.
+(8) Namjerno oštećivanje markica iz stavka 1. ovoga članka je protuzakonito.
+(9) Osobe koje su preuzele markice iz stavka 1. ovoga članka obvezne su do 20. dana u tekućem mjesecu za protekli mjesec dostaviti nadležnom carinskom uredu mjesečno izvješće o preuzetim, utrošenim i vraćenim markicama za označavanje alkohola i alkoholnih pića.
+(10) Proizvodi iz članka 62. ovoga Zakona moraju odgovarati proizvođačkoj specifikaciji i deklaraciji otisnutoj na etiketi te uvjetima propisanim posebnim propisima o pivu.
+(11) Ministar financija pravilnikom propisuje slovne oznake serije posebne markice kojima se označavaju proizvodi iz ovoga članka, način podnošenja i sadržaj zahtjeva za tiskanje, preuzimanje i izdavanje posebnih markica, postupanje s markicama, izvješćivanje te vođenje evidencija.

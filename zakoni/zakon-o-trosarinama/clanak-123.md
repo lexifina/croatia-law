@@ -1,0 +1,4 @@
+# Članak 123.
+(1) Ako postoji vjerojatnost da će obveznik plaćanja trošarine ili porezni jamac onemogućiti naplatu trošarine, uključujući naplatu još nedospjelog i neutvrđenog iznosa trošarine te ako trošarinski obveznik ne vodi evidencije ili evidencije vodi nepotpuno ili ne dostavlja izvješća propisana ovim Zakonom, mogu se poduzeti mjere osiguranja naplate.
+(2) Mjere osiguranja naplate određuju se rješenjem i sastoje se u zabrani raspolaganja sredstvima na žiroračunu ili drugim računima osoba navedenih u stavku 1. ovoga članka, u popisu pokretnina, tražbina i drugih imovinskih prava, zabrani raspolaganja tražbinama, oduzimanju pokretnina i predbilježbi založnog prava na nekretnini.
+(3) Pljenidba radi osiguranja naplate može se odgoditi ili obustaviti ako osobe iz stavka 1. ovoga članka ili u njihovo ime druge osobe podnesu primjerena sredstva osiguranja.

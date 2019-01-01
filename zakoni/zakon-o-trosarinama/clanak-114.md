@@ -1,0 +1,6 @@
+## Posebne mjere nadzora nad predmetima oporezivanja trošarinom na energente za pogon
+# Članak 114.
+(1) Svaka osoba koja prodaje, isporučuje, nabavlja radi daljnje prodaje ili u smislu članka 124. stavka 3. ovoga Zakona raspolaže predmetima oporezivanja trošarinom na energente za pogon koji su pušteni u potrošnju dužna je ishoditi posebno odobrenje nadležnog carinskog ureda. Posebnim odobrenjem utvrđuje se svako mjesto na kojem se obavljaju takve radnje, a mogu se odrediti i dodatne mjere nadzora, uključujući obvezu podnošenja instrumenta osiguranja plaćanja trošarine.
+(2) Prodaja, isporuka, nabava radi daljnje prodaje ili raspolaganje u smislu članka 124. stavka 3. ovoga Zakona predmetima oporezivanja trošarinom na energente za pogon koji su pušteni u potrošnju vrši se isključivo temeljem posebnog odobrenja iz stavka 1. ovoga članka.
+(3) Svako postupanje protivno odredbama stavka 1. i/ili stavka 2. ovoga članka ili protivno uvjetima iz posebnog odobrenja smatra se nezakonitim postupanjem u smislu ovoga Zakona.
+(4) Ministar financija pravilnikom propisuje sadržaj i priloge koji se podnose uz zahtjev za izdavanje posebnog odobrenja te podatke o kojima korisnik posebnog odobrenja mora voditi evidencije.

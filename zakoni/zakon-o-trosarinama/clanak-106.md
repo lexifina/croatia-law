@@ -1,0 +1,7 @@
+# Članak 106.
+(1) Oslobođenje od plaćanja trošarine na energente koji se koriste kao pogonsko gorivo u zračnom prometu ostvaruje se povratom plaćene trošarine u slučajevima u kojima nije moguće ostvariti isporuku pogonskog goriva iz trošarinskog skladišta tako da se nedvojbeno može utvrditi njegova uporaba.
+(2) Energenti na koje se primjenjuje oslobođenje iz članka 105. stavka 1. točke 1. ovoga Zakona moraju se koristiti samo za pogon zrakoplova i ne mogu se koristiti za druge svrhe, uključujući za pogon motornih vozila, plovnih objekata, plovila ili drugih motora i strojeva. Svako postupanje protivno odredbama ovoga stavka smatra se nezakonitim postupanjem u smislu ovoga Zakona.
+(3) Oslobođenje od trošarina za bezolovni motorni benzin koji se koristi kao pogonsko gorivo u ribolovu i plovidbi, osim uporabe za privatne svrhe, ostvaruje se povratom plaćene trošarine.
+(4) Oslobođenje od plaćanja trošarine na dizelska goriva koja se koriste kao pogonsko gorivo u strojevima za razminiranje minama zagađenih površina ostvaruje se povratom plaćene trošarine.
+(5) Povrat plaćene trošarine iz stavaka 1., 3. i 4. ovoga članka ostvaruje se na temelju zahtjeva koji se podnosi nadležnom carinskom uredu. Zahtjev za povrat trošarine mora biti utemeljen na potpunim i točnim podacima te uz zahtjev moraju biti podnesene vjerodostojne, točne i valjane isprave kojima se dokazuje osnovanost zahtjeva.
+(6) Ministar financija pravilnikom propisuje sadržaj zahtjeva za ostvarivanje prava na povrat plaćene trošarine prema ovome članku.

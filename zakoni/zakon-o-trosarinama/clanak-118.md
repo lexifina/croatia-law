@@ -1,0 +1,5 @@
+## Posebnosti obračuna trošarine u slučajevima nezakonitog postupanja s duhanskom sirovinom
+# Članak 118.
+(1) Ako se utvrdi postupanje protivno odredbama ovoga Zakona ili duhanskim propisima, a koje ima za posljedicu nezakonitu proizvodnju, preradu, posjedovanje, uporabu (korištenje), skladištenje, promet ili na bilo koji drugi način nezakonito činjenično ili pravno raspolaganje s duhanskom sirovinom iz članka 115. stavka 2. ovoga Zakona, smatra se da je duhanska sirovina predmet nezakonitog postupanja te nastaje obveza obračunavanja i plaćanja trošarine.
+(2) Obračun trošarine iz stavka 1. ovoga članka određuje se za svaku količinu duhanske sirovine koja je bila predmet nezakonitog postupanja prema trošarinskoj osnovici i visini trošarine koja je propisana na sitno rezani duhan za savijanje cigareta, neovisno o naknadnim utjecajima koji su zbog bilo kojeg razloga ili osnove doveli do gubitka ili manjka mase duhanske sirovine.
+(3) Obveznik plaćanja trošarine iz stavka 1. ovoga članka je svaka osoba koja je nezakonito postupala s duhanskom sirovinom. Ako je više osoba odgovorno za plaćanje trošarine, za plaćanje odgovaraju solidarno.

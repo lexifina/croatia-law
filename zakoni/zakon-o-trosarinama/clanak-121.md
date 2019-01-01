@@ -1,0 +1,8 @@
+## Izdavanje i ukidanje posebnih odobrenja
+# Članak 121.
+(1) U postupku izdavanja posebnih odobrenja iz članka 111. stavka 1., članka 113. stavka 2., članka 114. stavka 1. i članka 115. stavka 3. ovoga Zakona mora se utvrditi najmanje ispunjavanje uvjeta iz članka 17. stavka 2. ovoga Zakona.
+(2) Posebna odobrenja iz članka 111. stavka 1., članka 113. stavka 2., članka 114. stavka 1. i članka 115. stavka 3. ovoga Zakona izdaju se na određeno vrijeme i mogu se ukinuti prije isteka roka ako Carinska uprava utvrdi da je korisnik posebnog odobrenja postupio protivno odredbama ovoga Zakona ili protivno uvjetima iz posebnog odobrenja. Carinska uprava ukinut će posebno odobrenje osobito:
+1. ako korisnik posebnog odobrenja prestane ispunjavati uvjete navedene u odobrenju; ne osigurava odgovarajući sustav nadzora nad stanjem zaliha i ako ne sastavlja popise u rokovima određenim u odobrenju; ne dostavi odgovarajući instrument osiguranja plaćanja trošarine ili ga ne dostavi u iznosu koji može osigurati plaćanje trošarinskog duga; ne ukloni nepravilnosti u roku koji mu je odredio carinski ured; sudjeluje u vršenju kažnjivih radnji; ne ispunjava dodatne mjere nadzora; utaji trošarinu
+2. ako prestanu postojati razlozi i uvjeti na temelju kojih je posebno odobrenje izdano
+3. ako se utvrdi drugi način nezakonitog postupanja.
+(3) Obveza ishođenja posebnih odobrenja iz članka 111. stavka 1., članka 113. stavka 2., članka 114. stavka 1. i članka 115. stavka 3. ovoga Zakona ne odnosi se na trošarinske obveznike kojima je odobreno trošarinsko postupanje u statusu ovlaštenog držatelja trošarinskog skladišta ili registriranog primatelja.

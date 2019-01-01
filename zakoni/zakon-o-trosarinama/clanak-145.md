@@ -1,0 +1,2 @@
+# Članak 145.
+Odobrenja za poslovanje s označenim plinskim uljem obojanim plavom bojom puštenim u potrošnju koja su izdana prema članku 90. stavku 14. Zakona o trošarinama (»Narodne novine«, br. 22/13., 32/13., 81/13., 100/15., 120/15. i 115/16.) ostaju važeća do 1. siječnja 2020., do kada se mora podnijeti zahtjev za izdavanje posebnog odobrenja za poslovanje s plavim dizelom prema članku 111. stavku 1. ovoga Zakona.

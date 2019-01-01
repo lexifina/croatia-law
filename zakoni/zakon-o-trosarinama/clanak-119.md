@@ -1,0 +1,20 @@
+## Posebnosti obračuna trošarine u slučajevima nezakonitog postupanja s energentima
+# Članak 119.
+(1) Odredbe ovoga članka primjenjuju se na obračun trošarine u slučajevima nezakonitog postupanja s energentima.
+(2) Smatra se da su energenti iz članka 96. stavka 2. ovoga Zakona predmet nezakonitog postupanja ako se u provedbi nadzora ili provjere utvrdi da su korišteni kao pogonsko gorivo ili gorivo za grijanje suprotno odredbama ovoga Zakona.
+(3) Smatra se da su energenti iz članka 96. stavka 2. ovoga Zakona predmet nezakonitog postupanja ako se u provedbi nadzora ili provjere utvrdi da su namijenjeni za uporabu kao pogonsko gorivo suprotno odredbama ovoga Zakona, a osobito ako:
+1. nemaju tarifnu oznaku koja je naznačena u prijevoznim, komercijalnim i/ili drugim ispravama koje prate kretanje pošiljke energenta ili koje se odnose na taj energent
+2. temeljem provedene analize uzoraka energent ne može biti razvrstan u tarifnu oznaku KN
+3. energent ne udovoljava zahtjevima iz posebnih propisa kojima se uređuju uvjeti stavljanja i korištenja energenata na tržištu, osim ako osoba koja posjeduje energente ili na drugi način njima raspolaže ne dokaže da su energenti pušteni u potrošnju u skladu s odredbama ovoga Zakona i da je na njih obračunana i plaćena trošarina
+4. je energent predmet protupravnog otuđenja, obavljanja nezakonite trgovine i/ili neregistrirane djelatnosti
+5. osoba koja postupa s energentima ne može dokazati pravilnost stjecanja, posjedovanja i svakog drugog raspolaganja, a iz okolnosti slučaja proizlazi da je s energentima nezakonito postupano
+6. je s energentima postupano protivno odredbama članka 115. ovoga Zakona ili protivno uvjetima iz posebnog odobrenja iz članka 115. ovoga Zakona
+7. je s energentima postupano protivno odredbama ovoga Zakona o kretanju trošarinskih proizvoda u sustavu odgode plaćanja trošarine
+8. su energenti pušteni u potrošnju protivno odredbama ovoga Zakona
+9. je energent predmet zlouporabe prava u kretanju ili raspolaganju iz članaka 124. i 125. ovoga Zakona.
+(4) Ako se u provedbi nadzora ili provjere, temeljem knjigovodstvenih, prijevoznih, komercijalnih i drugih isprava te evidencija, uzimanjem uzoraka za analizu i ispitivanje ili na drugi način, utvrdi nezakonito postupanje s energentima, nastaje obveza obračuna i plaćanja trošarine na količine za koje se utvrdi da su bile predmet nezakonitog postupanja. Carinska uprava će procjenom utvrditi količinu koja je bila predmet nezakonitog postupanja ako se ta količina ne može utvrditi na temelju knjigovodstvenih, prijevoznih, komercijalnih i drugih isprava te evidencija.
+(5) U slučaju iz stavka 2. ovoga članka trošarina se plaća prema iznosu propisanom za jednakovrijedno pogonsko gorivo, ovisno o vrsti energenta koji je bio predmet nezakonitog postupanja, osim ako osoba koja je nezakonito postupala ne dokaže da su energenti bili korišteni za grijanje.
+(6) U slučaju iz stavka 3. ovoga članka trošarina se plaća prema iznosu propisanom za jednakovrijedno pogonsko gorivo, ovisno o vrsti energenta koji je bio predmet nezakonitog postupanja.
+(7) Obveznik plaćanja trošarine iz stavka 4. ovoga članka je svaka osoba koja je nezakonito postupala s energentima. Ako je više osoba odgovorno za plaćanje trošarine, za plaćanje odgovaraju solidarno.
+(8) Nadležni carinski ured neće donijeti rješenje iz stavka 4. ovoga članka ako bi troškovi utvrđivanja i naplate trošarine bili nerazmjerni naplaćenom iznosu trošarine ili ako osoba koja sukladno stavku 3. točki 4. ovoga članka ne dokaže da energenti i/ili proizvodi nisu bili namijenjeni za uporabu kao pogonsko gorivo.
+(9) Obavljanje neregistrirane djelatnosti s energentima u smislu ovoga članka podrazumijeva, među ostalim, i obavljanje energetske djelatnosti bez rješenja kojim se prema posebnim propisima dozvoljava obavljanje te djelatnosti. Neovisno o odredbama drugih propisa, u svrhu primjene ovoga članka Carinska uprava ovlaštena je utvrđivati obavljanje neregistrirane djelatnosti i nezakonite trgovine s energentima.

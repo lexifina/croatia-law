@@ -1,0 +1,4 @@
+# Članak 149.
+(1) Vlada Republike Hrvatske donijet će uredbu iz članka 67. stavka 4., članka 75. stavka 2., članka 87. stavka 7., članka 88. stavka 3., članka 95. stavka 5. i članka 97. stavka 2. ovoga Zakona najkasnije u roku od dvije godine od dana stupanja na snagu ovoga Zakona.
+(2) Do stupanja na snagu uredbi iz stavka 1. ovoga članka primjenjuju se visine trošarina propisane člankom 60., člankom 66.b, člankom 67.a, člankom 74.a stavcima 3. i 4., člankom 76. stavkom 1. i člankom 84. stavkom 3. točkama 3.2., 4., 5., 6., 7., 8. i 9. i člankom 84. stavkom 9. Zakona o trošarinama (»Narodne novine«, br. 22/13., 32/13., 81/13., 100/15., 120/15.
+(3) Do stupanja na snagu uredbi iz stavka 1. ovoga članka primjenjuju se visine trošarina propisane uredbama donesenim na temelju članka 75. stavaka 6. i 8., članka 76. stavka 4. i članka 84. stavka 13. Zakona o trošarinama (»Narodne novine«, br. 22/13., 32/13., 81/13., 100/15., 120/15. i 115/16.).
