@@ -1,0 +1,2 @@
+# Članak 26.
+U članku 81. stavku 3. riječi: »po osnovi primitka ostvarenog iz inozemstva ili u inozemstvu u tijeku poreznog razdoblja predujam poreza na dohodak, odnosno konačni porez na dohodak, plaća« zamjenjuju se riječima: »ostvaruje primitke iz inozemstva ili u inozemstvu za koje u tijeku poreznog razdoblja postoji obveza plaćanja predujma poreza na dohodak, odnosno konačnog poreza na dohodak,«.

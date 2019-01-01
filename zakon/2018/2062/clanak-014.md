@@ -1,0 +1,4 @@
+# Članak 14.
+U članku 46. stavci 1. i 2. mijenjaju se i glase:
+»(1) Godišnji porez na dohodak utvrđuje se prema poreznoj osnovici iz članka 18. ovoga Zakona te se tako utvrđen godišnji porez umanjuje za 50% razmjernog dijela porezne obveze koja se odnosi na mirovinu ili za 50% razmjernog dijela porezne obveze koja se odnosi na ostali dohodak od nesamostalnog rada ako porezni obveznik ima prebivalište i boravi na području jedinica lokalne samouprave razvrstanih u I. skupinu po stupnju razvijenosti prema posebnom propisu o regionalnom razvoju Republike Hrvatske i/ili na području Grada Vukovara utvrđenog prema posebnom propisu o obnovi i razvoju Grada Vukovara.
+(2) Od utvrđenog i umanjenog godišnjeg poreza na dohodak, sukladno stavku 1. ovoga članka, odbijaju se iznosi plaćenog predujma poreza po svim iskazanim dohocima prema članku 13. ovoga Zakona te se utvrđuje razlika za uplatu ili povrat poreza.«.
