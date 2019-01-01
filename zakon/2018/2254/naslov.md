@@ -1,0 +1,1 @@
+Zakon o izmjenama i dopuni Zakona o provedbi Uredbe (EZ) br. 1272/2008 Europskoga parlamenta i Vijeća od 16. prosinca 2008. o razvrstavanju, označavanju i pakiranju tvari i smjesa, kojom se izmjenjuju, dopunjuju i ukidaju Direktiva 67/548/EEZ i Direktiva 1999/45/EZ i izmjenjuje i dopunjuje Uredba (EZ) br. 1907/2006
