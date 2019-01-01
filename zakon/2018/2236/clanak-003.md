@@ -1,0 +1,5 @@
+## PRIJELAZNA I ZAVRŠNA ODREDBA
+# Članak 3.
+(1) Korisnicima mirovine koji su bili osigurani i u obveznom mirovinskom osiguranju individualne kapitalizirane štednje, a kojima je u obveznom mirovinskom osiguranju generacijske solidarnosti određena osnovna mirovina prema članku 91. stavcima 1. i 2. Zakona o mirovinskom osiguranju ili osnovna invalidska mirovina u razdoblju od 1. siječnja 2014. do stupanja na snagu ovoga Zakona, s danom stupanja na snagu ovoga Zakona određuje se dodatak na osnovnu mirovinu pripadajuću od 1. siječnja 2019., prema članku 1. ovoga Zakona, ako je mirovina u isplati.
+(2) Odredbe članka 2. stavaka 8. do 11. koji su dodani člankom 1. ovoga Zakona odgovarajuće se primjenjuju na korisnike obiteljske mirovine nakon smrti osiguranika koji je bio osiguran i u obveznom mirovinskom osiguranju individualne kapitalizirane štednje, a umrlog u razdoblju iz stavka 1. ovoga članka, a član obitelji u obveznom mirovinskom osiguranju generacijske solidarnosti ostvaruje obiteljsku mirovinu u visini osnovne mirovine.
+(3) Hrvatski zavod za mirovinsko osiguranje korisnicima iz ovoga članka odredit će dodatak, po službenoj dužnosti, bez donošenja rješenja.
