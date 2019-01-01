@@ -1,0 +1,6 @@
+# Članak 53.
+U članku 88. stavci 1., 2., 7. i 8. mijenjaju se i glase:
+»(1) Ako sudac bude imenovan za državnog dužnosnika u Ministarstvu pravosuđa ili izabran za suca Ustavnog suda Republike Hrvatske, sudačka dužnost mu miruje dok obnaša dužnost na koju je imenovan odnosno izabran.
+(2) Sudac uz svoj pristanak može biti raspoređen i na druge poslove u Ministarstvo pravosuđa, Pravosudnu akademiju i Državno sudbeno vijeće na vrijeme do četiri godine, za koje mu vrijeme sudačka dužnost miruje. Sudac može ponovno biti raspoređen na poslove u ovim tijelima nakon što je obnašao sudačku dužnost razmjerno vremenu obavljanja poslova u Ministarstvu pravosuđa, Pravosudnoj akademiji odnosno Državnom sudbenom vijeću. Rješenje o rasporedu suca u Ministarstvo pravosuđa, Pravosudnu akademiju i Državno sudbeno vijeće donosi čelnik ovih tijela uz mišljenje predsjednika suda u kojem je sudac imenovan i prethodnu suglasnost predsjednika Vrhovnog suda Republike Hrvatske.
+(7) Sucu se vrijeme provedeno na poslovima iz stavaka 2., 4. i 6. ovoga članka priznaje kao vrijeme provedeno u obnašanju sudačke dužnosti.
+(8) Ministar pravosuđa pravilnikom će propisati uvjete i postupak predlaganja, razmjene i upućivanja sudaca u institucije, agencije, tijela ili urede Europske unije ili druge međunarodne organizacije, institucije, tijela, misije i projekte.«.
