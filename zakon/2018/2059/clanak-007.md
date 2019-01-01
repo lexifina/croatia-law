@@ -1,0 +1,4 @@
+# Članak 7.
+U članku 61. stavci 2. i 3. mijenjaju se i glase:
+»(2) Porezni obveznik ne može odbiti 50% pretporeza obračunanog za nabavu ili najam osobnih automobila, uključujući nabavu svih dobara i usluga u vezi s tim dobrima. Osobnim automobilima smatraju se motorna vozila namijenjena za prijevoz osoba koja, osim sjedala za vozača, imaju najviše osam sjedala.
+(3) Iznimno, odredbe stavka 2. ovoga članka ne primjenjuju se ako se radi o osobnim automobilima koji se koriste za obuku vozača, testiranje vozila, servisnu službu, djelatnost prijevoza putnika i dobara, prijevoza umrlih, iznajmljivanja ili se nabavljaju za daljnju prodaju te motornim vozilima kategorije N1 koja su razvrstana u tarifnu oznaku 8703 Carinske tarife i nisu predmet oporezivanja prema posebnom propisu o posebnom porezu na motorna vozila.«.
