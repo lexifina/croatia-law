@@ -1,0 +1,11 @@
+## Nadležno tijelo
+# Članak 37.
+(1) Nadležno tijelo za državne potpore je Ministarstvo koje obavlja sljedeće poslove:
+– ispituje, ocjenjuje i daje mišljenja na prijedloge državnih potpora u odnosu na njihovu usklađenost s pravilima Europske unije o državnim potporama iz područja poljoprivrede
+– prijavljuje Europskoj komisiji prijedloge državnih potpora i izvješćuje Europsku komisiju o dodijeljenim državnim potporama u skladu s člankom 6. Uredbe (EU) br. 1408/2013, člankom 13. Uredbe Komisije (EU) br. 702/2014 od 25. lipnja 2014. o proglašenju određenih kategorija potpora u sektoru poljoprivrede i šumarstva te u ruralnim područjima spojivima s unutarnjim tržištem u primjeni članaka 107. i 108. Ugovora o funkcioniranju Europske unije (SL L 193, 1. 7. 2014.) (u daljnjem tekstu: Uredba Komisije (EU) br. 702/2014) i točke 3. dijela III. Smjernica Europske unije o državnim potporama u sektoru poljoprivrede i šumarstva te u ruralnim područjima za razdoblje 2014. – 2020. (SL C 204, 1. 7. 2014.) (u daljnjem tekstu: Smjernice o državnim potporama)
+– daje mišljenja o usklađenosti prijedloga državnih potpora izuzetih od obveze prijave Europskoj komisiji u skladu s odgovarajućim uredbama Europske unije o izuzetim državnim potporama i potporama male vrijednosti
+– prikuplja, obrađuje i prati podatke o državnim potporama i potporama male vrijednosti te vodi Registar državnih potpora u skladu s člankom 6. Uredbe (EU) br. 1408/2013, člankom 13. Uredbe Komisije (EU) br. 702/2014 i točkom 3. dijela III. Smjernica o državnim potporama
+– izrađuje godišnje izvješće o dodijeljenim državnim potporama u skladu s nacionalnim propisima i pravilima Europske unije o državnim potporama
+– pruža stručnu pomoć davateljima i primateljima državnih potpora i
+– posreduje u komunikaciji između davatelja državnih potpora i Europske komisije.
+(2) Sadržaj, oblik i način dostave prijedloga državnih potpora, postupak donošenja mišljenja o usklađenosti s odgovarajućim uredbama Europske unije, način i rokove za prijavu Europskoj komisiji, postupak prijave, način i rokove dostavljanja podataka od davatelja državnih potpora, sadržaj i način vođenja Registra državnih potpora i druga pitanja vezana uz državnu potporu ministar propisuje pravilnikom.

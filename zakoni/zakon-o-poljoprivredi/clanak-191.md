@@ -1,0 +1,3 @@
+## Status fizičke osobe poljoprivrednika u Upisniku poljoprivrednika
+# Članak 191.
+Fizička osoba poljoprivrednik koja je upisana kao obiteljsko poljoprivredno gospodarstvo u Upisnik poljoprivrednika u skladu sa zakonom kojim se određuju ciljevi i mjere poljoprivredne politike koji je važio prije stupanja na snagu ovoga Zakona, zadržava svoj dosadašnji status i svoja prava obavljanja djelatnosti poljoprivrede u okviru korištenja prirodnih bogatstava zemlje i prodajom odnosno zamjenom od tih djelatnosti dobivenih proizvoda u neprerađenom stanju, a u obavljanju djelatnosti mogu mu pomagati članovi njegova obiteljskog kućanstva.

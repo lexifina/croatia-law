@@ -1,0 +1,5 @@
+## Upis fizičke osobe poljoprivrednika u Upisnik poljoprivrednika
+# Članak 119.
+(1) Fizička osoba poljoprivrednik iz članka 3. stavka 1. točke b) ovoga Zakona može se upisati u Upisnik poljoprivrednika radi obavljanja djelatnosti poljoprivrede u okviru korištenja prirodnih bogatstava zemlje i prodajom odnosno zamjenom od tih djelatnosti dobivenih proizvoda u neprerađenom stanju, a u obavljanju djelatnosti mogu mu pomagati članovi njegova obiteljskog kućanstva.
+(2) Fizička osoba poljoprivrednik iz članka 3. stavka 1. točke b) ovoga Zakona obvezna je voditi evidenciju o proizvodnji i prodaji vlastitih poljoprivrednih proizvoda proizvedenih na poljoprivrednom gospodarstvu te o tome izvještavati Agenciju za plaćanja.
+(3) Način i uvjete prodaje vlastitih poljoprivrednih proizvoda, način vođenja evidencije te način i rokove izvještavanja Agencije za plaćanja o proizvodnji i prodaji vlastitih poljoprivrednih proizvoda proizvedenih na poljoprivrednom gospodarstvu te postupak izdavanja poljoprivredne iskaznice ministar propisuje pravilnikom.

@@ -1,0 +1,12 @@
+## Potvrđivanje sukladnosti sa Specifikacijom proizvoda za koju je priznata oznaka iz nacionalnog sustava kvalitete i ovlašćivanje kontrolnih tijela
+# Članak 99.
+(1) Svaki proizvođač koji želi koristiti oznaku iz nacionalnog sustava kvalitete mora proizvoditi proizvod u skladu sa Specifikacijom proizvoda za koju je priznata oznaka i koju Ministarstvo objavljuje na svojim mrežnim stranicama.
+(2) Pravna ili fizička osoba na tržište može staviti proizvod označen oznakom iz nacionalnog sustava kvalitete samo ako je za taj proizvod potvrđena sukladnost sa Specifikacijom proizvoda.
+(3) Sukladnost proizvoda sa Specifikacijom potvrđuje ovlašteno kontrolno tijelo iz članka 94. ovoga Zakona kojem je prošireno ovlaštenje na poslove potvrđivanja sukladnosti sa Specifikacijom proizvoda za koju je priznata oznaka iz nacionalnog sustava kvalitete.
+(4) Po završenom postupku i utvrđenoj sukladnosti sa Specifikacijom ovlašteno kontrolno tijelo proizvođaču iz stavka 1. ovoga članka izdaje Potvrdu o sukladnosti, a presliku Potvrde o sukladnosti ovlašteno kontrolno tijelo dostavlja Ministarstvu u roku od sedam dana od izdavanja.
+(5) Ovlašteno kontrolno tijelo iz članka 94. stavka 1. ovoga Zakona zahtjev za proširenje ovlaštenja na poslove potvrđivanja sukladnosti sa Specifikacijom proizvoda za koju je priznata oznaka iz nacionalnog sustava kvalitete (u daljnjem tekstu: zahtjev za proširenje ovlaštenja) podnosi Ministarstvu na propisanom obrascu.
+(6) Ako zahtjev za proširenje ovlaštenja iz stavka 5. ovoga članka nije uredan, Ministarstvo zaključkom poziva podnositelja zahtjeva da ga dopuni, a ako podnositelj zahtjeva ne dopuni zahtjev u skladu sa zaključkom, a po zahtjevu se ne može postupiti, Ministarstvo donosi rješenje o odbacivanju odnosno odbijanju zahtjeva za proširenje ovlaštenja.
+(7) Kada je zahtjev iz stavka 5. ovoga članka uredan, Povjerenstvo iz članka 94. stavka 5. predlaže Ministarstvu donošenje rješenja o proširenju ovlaštenja kontrolnog tijela na poslove iz stavka 3. ovoga članka.
+(8) Protiv rješenja iz stavaka 6. i 7. ovoga članka nije dopuštena žalba, već se može pokrenuti upravni spor.
+(9) Ministarstvo vodi evidencije korisnika oznake iz nacionalnog sustava kvalitete koje objavljuje na svojim mrežnim stranicama.
+(10) Sadržaj Potvrde o sukladnosti i zahtjeva za proširenje ovlaštenja te način vođenja evidencije korisnika oznake iz nacionalnog sustava kvalitete ministar propisuje pravilnikom.

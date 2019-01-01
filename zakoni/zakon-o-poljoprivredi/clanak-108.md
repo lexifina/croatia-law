@@ -1,0 +1,11 @@
+## Upisnik subjekata u ekološkoj proizvodnji
+# Članak 108.
+(1) Subjekt iz članka 104. stavka 1. ovoga Zakona prilikom podnošenja zahtjeva za upis u Upisnik subjekata mora ispunjavati uvjete propisane Uredbom Vijeća (EZ) br. 834/2007 i ovim Zakonom.
+(2) Upisnik subjekata vodi Agencija za plaćanja kao javnu službenu evidenciju u elektroničkom obliku koja sadržava vjerodostojne i ažurirane podatke o subjektima upisa, pravnim i fizičkim osobama iz stavka 1. ovoga članka.
+(3) Upisnik subjekata namijenjen je ostvarivanju načela pravne sigurnosti između države i pojedinca te pojedinca prema trećim osobama o činjenicama koje su predmetom upisa, a prema načelu javnosti pojedini podaci su javni.
+(4) Agencija za plaćanja unosi i evidentira podatke u Upisnik subjekata, a podaci se objedinjavaju u središnjoj bazi podataka Upisnika poljoprivrednika koja se vodi u skladu s ovim Zakonom te su njezin sastavni dio i mogu se koristiti kao dio provedbe IAKS-a.
+(5) Agencija za plaćanja u okviru prenesenih javnih ovlasti u skladu s ovim Zakonom kao jedinstveno javno tijelo vodi upravni postupak vezan uz upis u Upisnik subjekata te obavlja i druge upravne i administrativne poslove radi evidentiranja podataka o subjektima.
+(6) Agencija za plaćanja rješava u provedbi postupka iz stavka 5. ovoga članka na temelju podnesenog zahtjeva za upis u Upisnik subjekata, koji predstavlja obrazac s propisanim prilozima i dokazima na temelju kojih se provode potrebna evidentiranja podataka o subjektima u skladu s ovim Zakonom.
+(7) Agencija za plaćanja u upravnom postupku iz stavka 5. ovoga članka rješava o upisu, odjavi, promjeni ili brisanju subjekta iz Upisnika subjekata te donosi rješenje kojim se traženi upis u Upisnik subjekata ili pojedina promjena odobrava ako subjekt ispunjava uvjete iz stavka 1. ovoga članka ili donosi rješenje kojim se zahtjev odbija, a na zahtjev subjekta izdaje Izvod o podacima koji se vode u Upisniku subjekata.
+(8) Protiv rješenja Agencije za plaćanja iz stavaka 7. ovoga članka može se izjaviti žalba Ministarstvu.
+(9) Obrazac zahtjeva iz stavka 6. ovoga članka za upis subjekata, dokaze koji se prilažu uz zahtjev te sadržaj, oblik i način vođenja Upisnika subjekata te izuzeća predviđena člankom 28. stavkom 2. Uredbe Vijeća (EZ) br. 834/2007 ministar propisuje pravilnikom.

@@ -1,0 +1,8 @@
+## Prijelazna nacionalna zaštita
+# Članak 88.
+(1) Ministarstvo rješenjem o prijelaznoj nacionalnoj zaštiti naziva poljoprivrednog ili prehrambenog proizvoda kao ZOI, ZOZP ili ZTS, u skladu s člankom 9. Uredbe (EU) br. 1151/2012, odobrava prijelaznu nacionalnu zaštitu naziva ZOI, ZOZP ili ZTS u Republici Hrvatskoj, koja započinje danom kada je zahtjev iz članka 90. stavka 1. ovoga Zakona podnesen Europskoj komisiji.
+(2) Nazivi proizvoda zaštićeni prijelaznom nacionalnom zaštitom kao ZOI, ZOZP ili ZTS imaju jednaku zaštitu onoj koja je propisana u članku 13. stavku 1. i članku 24. stavku 1. Uredbe (EU) br. 1151/2012, ali je važeća samo na području Republike Hrvatske.
+(3) Pravna ili fizička osoba koja proizvodi proizvod čiji je naziv zaštićen prijelaznom nacionalnom zaštitom mora proizvod proizvoditi u skladu sa Specifikacijom proizvoda, a proizvod koji je stavila na tržište i označila zaštićenim nazivom mora udovoljavati zahtjevima iz Specifikacije.
+(4) Za vrijeme trajanja prijelazne nacionalne zaštite pravna i fizička osoba na tržište može staviti proizvod označen sa zaštićenim nazivom samo ako je za taj proizvod izdana Potvrda o sukladnosti proizvoda sa Specifikacijom iz članka 95. stavka 5. ovoga Zakona.
+(5) Prijelazna nacionalna zaštita prestaje danom stupanja na snagu odluke Europske komisije u skladu s člankom 9. Uredbe (EU) br. 1151/2012.
+(6) U slučaju povlačenja zahtjeva iz članka 93. ovoga Zakona od podnositelja zahtjeva ili odbijanja zahtjeva od Europske komisije proizvodi za koje je izdana Potvrda o sukladnosti proizvoda sa Specifikacijom iz članka 95. stavka 5. ovoga Zakona, a koji su označeni nacionalnim znakom iz članka 89. ovoga Zakona, mogu se nalaziti na tržištu do isteka roka trajanja proizvoda.

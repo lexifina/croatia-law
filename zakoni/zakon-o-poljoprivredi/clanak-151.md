@@ -1,0 +1,9 @@
+## Inspekcijski nadzor
+# Članak 151.
+(1) Inspekcijski nadzor nad provedbom ovoga Zakona i propisa donesenih na temelju njega obavljaju poljoprivredni, fitosanitarni i drugi inspektori ovlašteni za inspekcijski nadzor ovim Zakonom i drugim posebnim propisima (u daljnjem tekstu: nadležni inspektori).
+(2) Inspekcijski nadzor nad provedbom odredbi koje se odnose na sustav kontrole transakcija koju provode države članice uređen je člancima 79. – 87. Uredbe (EU) br. 1306/2013 te propisima donesenim na temelju ovoga Zakona, a provode ga nadležni inspektori središnjeg tijela državne uprave nadležnog za inspekcijske poslove u dijelu vezanom za provođenje naknadne kontrole velikih korisnika izvoznih potpora.
+(3) Inspekcijski nadzor pri uvozu nad provedbom odredbi Uredbe (EU) br. 1308/2013, ovoga Zakona i propisa donesenih na temelju njega koje se odnose na tržišne standarde za goveđe meso životinja starosti do 12 mjeseci, jaja i meso peradi, mlijeko i mliječne proizvode provode granični veterinarski inspektori.
+(4) Inspekcijski nadzor pri uvozu nad provedbom odredbi Uredbe (EU) br. 1308/2013, ovoga Zakona i propisa donesenih na temelju njega koje se odnose na tržišne standarde za mazive masti namijenjene prehrani ljudi, maslinovo ulje i stolne masline, prerađenih proizvoda od voća i povrća i jaka alkoholna pića provode poljoprivredni inspektori.
+(5) Inspekcijski nadzor nad provedbom odredaba Uredbe (EU) br. 1308/2013, Provedbene uredbe Komisije (EU) br. 543/2011 i Provedbene uredbe Komisije (EU) br. 1333/2011, ovoga Zakona te propisa donesenih na temelju njega, a koje se odnose na tržišne standarde za voće, povrće i banane koji se uvoze, provode fitosanitarni inspektori.
+(6) Na inspekcijski nadzor iz stavaka 1,. 3., 4., i 5. ovoga članka na odgovarajući se način primjenjuju odredbe članaka 160. – 171. ovoga Zakona.
+(7) Inspekcijski nadzor iz stavka 4. ovoga članka provodi poljoprivredna inspekcija u carinskim skladištima ili na mjestu odredišta.

@@ -1,0 +1,10 @@
+## Službena kontrola proizvoda koji su označeni zaštićenim oznakama zemljopisnog podrijetla jakih alkoholnih pića
+# Članak 73.
+(1) Proizvođači jakih alkoholnih pića koja su zaštićena oznakom zemljopisnog podrijetla moraju se prijaviti Agenciji radi provođenja službene kontrole potvrđivanja sukladnosti proizvodnje.
+(2) Agencija provodi službene kontrole potvrđivanja sukladnosti proizvodnje u skladu s Uredbom (EZ) br. 882/2004.
+(3) Postupak potvrđivanja sukladnosti iz stavka 2. ovoga članka provodi se prema planu kontrole, koji izrađuje Agencija na temelju specifikacije proizvoda za pojedinu zaštićenu oznaku zemljopisnog podrijetla jakog alkoholnog pića.
+(4) Nakon završenog postupka potvrđivanja sukladnosti Agencija podnositelju zahtjeva iz stavka 1. ovoga članka kao korisniku oznake izdaje Potvrdu sukladnosti proizvoda sa Specifikacijom proizvoda (u daljnjem tekstu: Potvrda o sukladnosti) te pripadajuće priloge o količinama proizvoda u skladu s oblicima pakiranja definiranima Specifikacijom proizvoda, a Ministarstvu i nadležnoj inspekciji u roku od sedam dana od dana izdavanja dostavlja kopije izdane potvrde i priloga.
+(5) Nakon završenog postupka potvrđivanja sukladnosti ovlašteno kontrolno tijelo svakom sudioniku u lancu proizvodnje, prerade i distribucije iz Specifikacije proizvoda izdaje Uvjerenje o sukladnosti pojedine faze proizvodnje sa Specifikacijom proizvoda.
+(6) Ministarstvo vodi evidencije izdanih Potvrda o sukladnosti iz stavka 4. ovoga članka te ih javno objavljuje na svojim mrežnim stranicama.
+(7) Troškovi provjera i ispitivanja u postupku službene kontrole potvrđivanja sukladnosti proizvoda sa Specifikacijom proizvoda te izdavanja Potvrde o sukladnosti proizvoda podmiruju se iz državnog proračuna Republike Hrvatske.
+(8) Obrazac zahtjeva za kontrolu potvrđivanja sukladnosti proizvodnje iz stavka 1. ovoga članka, uvjete i način podnošenja zahtjeva za kontrolu, postupak potvrđivanja sukladnosti, rokove, sadržaj Potvrde o sukladnosti i Uvjerenja o sukladnosti pojedine faze proizvodnje sa Specifikacijom proizvoda, sadržaj i način vođenja evidencije iz stavka 6. ovoga članka ministar propisuje pravilnikom.
