@@ -1,0 +1,1 @@
+Na temelju članaka 7. i 12. Zakona o ustanovama (»Narodne novine«, br. 76/93, 29/97 - ispravak, 47/99 - ispravak i 35/08), Vlada Republike Hrvatske je na sjednici održanoj 20. prosinca 2018. godine donijela
