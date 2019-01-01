@@ -1,1 +1,0 @@
-Na temelju članka 12. stavka 9. i članka 13. stavka 3. Zakona o posebnom porezu na motorna vozila (»Narodne novine«, br. 15/13, 108/13, 115/16 i 127/17), Vlada Republike Hrvatske je na sjednici održanoj 11. siječnja 2018. godine donijela
