@@ -1,0 +1,2 @@
+# Članak 18.
+Postupci utvrđivanja i naplate poreza na tvrtku, odnosno naziv započeti do dana stupanja na snagu Zakona o lokalnim porezima, završiti će se prema odredbama Zakona o financiranju jedinica lokalne i područne (regionalne) samouprave (»Narodne novine« broj 117/93, 69/97, 33/00, 73/00, 127/00, 59/01, 107/01, 117/01, 150/02, 147/03, 132/06, 26/07, 73/08, 25/12, 147/14, 100/15) i Odluke o općinskim prirezima i porezima Općine Dubravica (klasa: 021-05/02-01-06, urbroj: 238/40-02-01 od 24. siječnja 2002. godine i »Narodne novine« broj 13/2002).

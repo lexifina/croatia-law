@@ -1,0 +1,1 @@
+Na temelju članka 20. stavka 1. Zakona o lokalnim porezima (»Narodne novine« broj 115/16, 101/17) i članka 21. Statuta Općine Dubravica (»Službeni glasnik Općine Dubravica« br. 1/18), Općinsko vijeće Općine Dubravica na svojoj 9. sjednici održanoj 22. svibnja 2018. godine donosi

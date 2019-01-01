@@ -1,0 +1,2 @@
+# Članak 9.
+U postupku dokazivanja statusa kuće za odmor u smislu odredbe članka 6. stavka 1. ove Odluke, osim osobne iskaznice, uzimati će se u obzir i sljedeća dokumentacija: putovnica, mjesto i visina nastanka troška električne energije, vode, telefona, prijem poštanske pošiljke, potvrda o zasnovanom radnom odnosu, izjava o izabranom liječniku, izjava svjedoka, mjesto podnošenje porezne prijave i svi drugi raspoloživi podaci.
