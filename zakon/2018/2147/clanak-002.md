@@ -1,0 +1,2 @@
+# Članak 2.
+U članku 6. stavcima 1. i 4., članku 15. stavku 1., članku 17. stavku 1., članku 18. stavcima 1. i 2., članku 18.a stavcima 2., 3. i 4., članku 19. stavku 2., članku 20., članku 21. stavku 1., članku 22. stavku 2., članku 23. stavku 1., članku 24., članku 25. stavku 4., članku 27. stavku 1., članku 28. stavku 1. i članku 30. riječ: »Centar« u određenom padežu zamjenjuje se riječju: »Agencija« u odgovarajućem padežu.
