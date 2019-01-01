@@ -1,0 +1,5 @@
+# Članak 6.
+(1) Radi osiguranja učinkovite, djelotvorne, jednako visokokvalitetne i jednako dostupne zdravstvene zaštite u svim zdravstvenim djelatnostima, na svim razinama zdravstvene zaštite te na cijelom području Republike Hrvatske ministar nadležan za zdravstvo (u daljnjem tekstu: ministar), po prethodno pribavljenom mišljenju nadležnih komora, odlukom donosi plan i program mjera za osiguranje, unaprjeđenje, promicanje i praćenje kvalitete zdravstvene zaštite.
+(2) Planom i programom mjera iz stavka 1. ovoga članka utvrđuju se prioriteti za poboljšanje kvalitete zdravstvene zaštite te mjere za uvođenje jedinstvenog sustava standarda kvalitete zdravstvene zaštite, kliničkih pokazatelja kvalitete i pokazatelja sigurnosti pacijenta.
+(3) Mjere iz stavka 2. ovoga članka obvezni su provoditi svi nositelji zdravstvene djelatnosti radi uspostave hrvatskog standarda kvalitete zdravstvene zaštite i procjene sigurnosti pacijenata.
+(4) Radi provedbe plana i programa mjera iz stavka 1. ovoga članka ministar osigurava koordinaciju aktivnosti za postizanje kvalitete zdravstvene zaštite između nositelja obavljanja zdravstvene djelatnosti.

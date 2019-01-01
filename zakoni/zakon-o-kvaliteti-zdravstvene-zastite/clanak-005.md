@@ -1,0 +1,3 @@
+# Članak 5.
+(1) Načelo sigurnosti pacijenata ostvaruje se provedbom mjera kojima se svakom pacijentu osigurava pravo na kvalitetnu zdravstvenu zaštitu sukladno njegovu zdravstvenom stanju i općeprihvaćenim stručnim standardima te sprečavaju štetni neželjeni događaji čija bi posljedica mogla biti smrt ili oštećenje zdravlja pacijenta.
+(2) Provedbom mjera iz stavka 1. ovoga članka treba ostvariti podizanje svjesnosti o sigurnosti pacijenata, razvoj i unaprjeđenje sustava praćenja i mjerenja sigurnosti pacijenata, kao i izvješćivanja na tom području, smanjenju rizika za neželjene događaje te razvoj istraživanja na području sigurnosti pacijenata.

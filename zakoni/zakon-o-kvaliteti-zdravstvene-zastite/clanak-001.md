@@ -1,0 +1,2 @@
+# Članak 1.
+Ovim se Zakonom određuju načela i sustav mjera za ostvarivanje i unaprjeđenje sveobuhvatne kvalitete zdravstvene zaštite u Republici Hrvatskoj te propisuje postupak akreditacije zdravstvenih ustanova, trgovačkih društava koja obavljaju zdravstvenu djelatnost te privatnih zdravstvenih radnika, kao i procjena zdravstvenih tehnologija, a sve radi osiguranja i smanjivanja rizika za život i zdravlje pacijenata.
