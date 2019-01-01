@@ -1,0 +1,4 @@
+# Članak 22.
+(1) Danom stupanja na snagu ovoga Zakona Ministarstvo preuzima poslove, opremu, pismohranu i drugu dokumentaciju, sredstva za rad, imovinu, nekretnine, financijska sredstva, prava i obveze Agencije za vodne putove, koji se odnose na poslove uređene ovim Zakonom.
+(2) Ministarstvo će danom stupanja na snagu ovoga Zakona preuzeti i radnike Agencije za vodne putove. Preuzeti radnici danom preuzimanja postaju državni službenici odnosno namještenici, te do donošenja rješenja o rasporedu prema Pravilniku o unutarnjem redu Ministarstva zadržavaju sva prava iz radnog odnosa koji su stekli do dana preuzimanja.
+(3) Preuzeti radnici koji se neće moći rasporediti, svoja prava će ostvariti u skladu s važećim propisima kojima se uređuju prava državnih službenika i namještenika odnosno u skladu s posebnim zakonom i odgovarajućim kolektivnim ugovorima.
