@@ -1,0 +1,1 @@
+Na temelju članka 20. i članka 42. Zakona o lokalnim porezima (»Narodne novine« broj 115/16) i članka 24. Statuta Grada Ploča (»Službeni glasnik Grada Ploča« broj 14/09, 3/12, 1/13, 3/17 i 1/18), Gradsko vijeće Grada Ploča na 13. sjednici održanoj 30. listopada 2018. godine donijelo je
