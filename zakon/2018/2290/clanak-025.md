@@ -1,0 +1,2 @@
+# Članak 25.
+Ministarstvo financija, Ministarstvo graditeljstva i prostornoga uređenja, Ministarstvo rada i mirovinskoga sustava, Ministarstvo turizma, Ministarstvo poljoprivrede, Ministarstvo zaštite okoliša i energetike, Ministarstvo gospodarstva, poduzetništva i obrta i Ministarstvo zdravstva nastavljaju obavljati inspekcijske poslove do stupanja na snagu posebnog zakona kojim će se urediti rad Državnog inspektorata.

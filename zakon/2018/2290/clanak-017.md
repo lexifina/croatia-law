@@ -1,0 +1,7 @@
+# Članak 17.
+Članak 28. mijenja se i glasi:
+»Središnji državni ured za obnovu i stambeno zbrinjavanje obavlja upravne i druge poslove nositelja mjere stambenog zbrinjavanja na potpomognutim područjima Republike Hrvatske u okviru kojih predlaže, organizira, provodi i nadzire provedbu stambenog zbrinjavanja radi osiguranja uvjeta za povratak, ostanak i naseljavanje stanovništva.
+Središnji državni ured obavlja upravne, stručne, provedbene i druge poslove koji se odnose na planiranje, pripremu, provedbu i nadzor provedbe programa obnove i popravka u Domovinskom ratu oštećenih ili uništenih stambenih jedinica, kao i programe stambenog zbrinjavanja.
+Središnji državni ured obavlja stručne poslove koji se odnose na pripremu, organizaciju i provedbu sanacije ili izgradnje objekata osnovne komunalne i socijalne infrastrukture radi efikasnije prometne povezanosti i dostupnosti potrebne robe i usluga u svrhu demografske revitalizacije te povećanja društvenog standarda hrvatskih građana i doprinosa uravnoteženom razvoju svih područja Republike Hrvatske.
+Središnji državni ured obavlja upravne i druge poslove koji se odnose na planiranje, organiziranje i provođenje aktivnosti efikasnog i učinkovitog upravljanja i gospodarenja stambenim jedinicama u državnom vlasništvu kroz najam, postupke darovanja i prodaje stambenih jedinica.
+Središnji državni ured obavlja i druge poslove koji su mu stavljeni u nadležnost posebnim zakonom.«.

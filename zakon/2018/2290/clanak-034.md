@@ -1,0 +1,2 @@
+# Članak 34.
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2019., osim članaka 1. i 18. u dijelu kojim se ustrojava Državni inspektorat i članka 24., članka 30. u dijelu koji se odnosi na Državni inspektorat i članka 32., koji stupaju na snagu 1. travnja 2019., te članaka 1. i 18. u dijelu kojim se ustrojava Hrvatska vatrogasna zajednica i članka 30. u dijelu koji se odnosi na Hrvatsku vatrogasnu zajednicu, koji stupaju na snagu 1. siječnja 2020.

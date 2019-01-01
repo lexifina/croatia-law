@@ -1,0 +1,3 @@
+# Članak 31.
+Vlada Republike Hrvatske će u roku od 60 dana od dana stupanja na snagu ovoga Zakona uskladiti uredbe o unutarnjem ustrojstvu Ministarstva unutarnjih poslova, Ministarstva znanosti i obrazovanja, Ministarstva regionalnoga razvoja i fondova Europske unije, Ministarstva državne imovine, Središnjeg državnog ureda za razvoj digitalnog društva, Središnjeg državnog ureda za obnovu i stambeno zbrinjavanje te Državnog zavoda za mjeriteljstvo s odredbama ovoga Zakona.
+Čelnici tijela iz stavka 1. ovoga članka dužni su uskladiti pravilnike o unutarnjem redu u roku od 30 dana od dana stupanja na snagu uredbi iz stavka 1. ovoga članka.
