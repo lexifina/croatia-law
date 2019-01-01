@@ -1,0 +1,5 @@
+## Suradnja i razmjena informacija između nadležnih tijela
+# Članak 16.
+(1) Hrvatska narodna banka može na temelju članaka 208. i 212. Zakona o kreditnim institucijama u postupku odlučivanja o zahtjevu za izdavanje prethodne suglasnosti za obavljanje funkcije predsjednika uprave, člana uprave odnosno člana nadzornog odbora od nadležnog tijela zatražiti bilo koju informaciju koja je potrebna radi provedbe procjene primjerenosti kandidata.
+(2) Informacije iz stavka 1. ovog članka koje Hrvatska narodna banka može zatražiti od drugoga nadležnog tijela mogu uključivati rezultat procjene primjerenosti i obrazloženje odluke, nedostatke u primjerenosti ako su utvrđeni, korektivne mjere koje su poduzete, poziciju za koju je kandidat bio procjenjivan te informacije o veličini, opsegu i složenosti poslovanja institucije u kojoj je obnašao tu funkciju.
+(3) Ako Hrvatska narodna banka donese odluku o procjeni primjerenosti kandidata različitu od procjene nadležnog tijela iz stavka 1. ovog članka, o tome će obavijestiti to nadležno tijelo.
