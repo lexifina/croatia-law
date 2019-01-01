@@ -1,0 +1,4 @@
+# Članak 61.
+(1) Službenik Uprave ili lučke kapetanije može se ukrcati na javni brod lučke kapetanije kao vježbenik palube ili vježbenik stroja radi stjecanja časničkog zvanja u službi palube odnosno časničkog zvanja u službi stroja, neovisno o broju izvršitelja utvrđenih u uredbi o unutarnjem ustrojstvu i pravilniku o unutarnjem redu Ministarstva koji se odnose na javni brod na koji se vježbenik ukrcava.
+(2) Izobrazba vježbenika iz stavka 1. ovoga članka obavlja se na način i prema programu sukladno posebnom propisu kojim je uređeno stjecanje svjedodžbi o osposobljenosti pomoraca i brodaraca.
+(3) Na prava i obveze službenika iz stavka 1. ovoga članka primjenjuju se odredbe o privremenom premještaju po potrebi službe sukladno odredbama propisa o državnim službenicima, kao i odredbe dijela četvrtog, glave II. ovoga Zakona o pravima i obvezama člana posade broda.

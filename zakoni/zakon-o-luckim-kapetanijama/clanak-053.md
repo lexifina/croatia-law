@@ -1,0 +1,7 @@
+# Članak 53.
+(1) Ovlašteni službenik kada obavlja poslove propisane ovim Zakonom i drugim pomorskim i plovidbenim propisima, dužan je poštivati dostojanstvo, ugled i čast svake osobe na koju se radnja odnosi, vodeći računa o zaštiti Ustavom Republike Hrvatske i zakonom zajamčenih ljudskih prava i temeljnih sloboda te poštivati odredbe propisa koji uređuje pravila ponašanja državnih službenika i etička načela na temelju kojih postupaju državni službenici prilikom obavljanja službene dužnosti.
+(2) Primjena ovlasti mora biti razmjerna potrebi zbog kojih se poduzimaju.
+(3) Primjena ovlasti ne smije izazvati veće štetne posljedice od onih koje bi nastupile da ovlasti nisu primijenjene.
+(4) Između više ovlasti ovlašteni službenik primijenit će onu kojom se s najmanje štetnih posljedica i u najkraćem vremenu postiže njezin cilj.
+(5) Odredbe ovoga članka odgovarajuće se primjenjuju i na slučajeve kada ovlašteni službenik primjenjuje ovlasti prema pravnim osobama i drugim osobama koje obavljaju gospodarsku djelatnost, a u tim slučajevima dužan je voditi računa da kod provođenja službenih radnji u što manjoj mjeri remeti redovito poslovanje pravne ili druge osobe na koju se radnja odnosi.
+(6) Zabranjeno je nepristojno ili uvredljivo obraćanje, otežavanje, onemogućavanje ili sprječavanje ovlaštenog službenika tijekom obavljanja njegovih propisanih poslova i primjene inspekcijskih ovlasti.

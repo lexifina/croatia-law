@@ -1,0 +1,3 @@
+# Članak 47.
+(1) Kad ovlašteni službenik uporabom tehničkih sredstava za nadzor pomorskog prometa ili unutarnje plovidbe utvrdi da je počinjen pomorski ili plovidbeni prekršaj propisan zakonom, vlasnik odnosno brodar plovnog objekta ili plovila dužan je u roku od 15 dana, na zahtjev ovlaštenog službenika, dati vjerodostojan podatak o identitetu osobe koja je upravljala plovnim objektom ili plovilom u trenutku počinjenja prekršaja odnosno njezino ime i prezime, osobni identifikacijski broj te adresu prebivališta ili boravišta.
+(2) Kad je pravna osoba vlasnik odnosno brodar plovnog objekta ili plovila kojim je počinjen pomorski ili plovidbeni prekršaj, podatke iz stavka 1. ovoga članka dužna je dati odgovorna osoba u toj pravnoj osobi.

@@ -1,0 +1,4 @@
+# Članak 17.
+(1) Nacionalna središnjica za usklađivanje traganja i spašavanja na moru, kao unutarnja ustrojstvena jedinica Ministarstva koja djeluje u sastavu Nacionalnog centra sigurnosti plovidbe, obavlja poslove službe traganja i spašavanja na moru, poslove obalne postaje kao dojavni centar za pomorske nezgode i onečišćenja okoliša s pomorskih objekata, sigurnosnu zaštitu pomorskih brodova i luka i obvezni sustav obavješćivanja s brodova hrvatske državne pripadnosti koje je odobrio IMO, kao i druge poslove, a sve u skladu s pomorskim propisima.
+(2) Sjedište Nacionalne središnjice za usklađivanje traganja i spašavanja na moru je u Rijeci.
+(3) Nacionalna središnjica za usklađivanje traganja i spašavanja na moru u međunarodnoj komunikaciji koristi naziv »Maritime Rescue and Coordination Centre Rijeka – MRCC Rijeka«.

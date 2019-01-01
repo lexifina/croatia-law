@@ -1,0 +1,3 @@
+# Članak 25.
+(1) U svrhu osiguravanja ujednačene, pravilne, pravodobne i učinkovite primjene pomorskih i plovidbenih propisa Uprava i lučke kapetanije dužne su uspostaviti, primjenjivati i stalno unaprjeđivati sustav upravljanja kvalitetom za poslove sigurnosti plovidbe u skladu sa zahtjevima odgovarajućih međunarodnih normi.
+(2) Neovisna prosudba sustava upravljanja kvalitetom iz stavka 1. ovoga članka obavlja se od strane tijela akreditiranog u Republici Hrvatskoj sukladno posebnim propisima kojima se uređuje akreditiranje pravnih i fizičkih osoba za potvrđivanje sustava upravljanja kvalitetom u vremenskim razmacima, kako je to utvrđeno primjenjivim međunarodnim normama odnosno pomorskim i plovidbenim propisima.

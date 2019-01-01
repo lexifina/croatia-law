@@ -1,0 +1,3 @@
+# Članak 52.
+(1) Zapisnici o činjenicama utvrđenim pregledom pomorskih objekata i objekata unutarnje plovidbe, pomorskog dobra i njegovih pripadnosti te svega onog što je postavljeno na pomorsko dobro, luka, lučkih područja i lučkih uređaja, poslovnih i drugih prostora odnosno pregledom isprava i dokumenata, kao i predmeti oduzeti tijekom provođenja inspekcijskog nadzora, mogu se koristiti kao dokazno sredstvo u prekršajnom i kaznenom postupku.
+(2) Službene evidencije, tonski i drugi elektronički zapisi na tehničkim sustavima odnosno uređajima i opremi mogu služiti kao dokazno sredstvo u prekršajnom i kaznenom postupku.

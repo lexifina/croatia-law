@@ -1,0 +1,4 @@
+# Članak 85.
+(1) Službenik koji je na dan stupanja na snagu ovoga Zakona zatečen na radnom mjestu lučkog kapetana nastavlja raditi na svom dotadašnjem radnom mjestu te zadržava plaću i druga prava prema dotadašnjem rješenju, do imenovanja lučkog kapetana u skladu s odredbama ovoga Zakona.
+(2) Ministarstvo će interni oglas iz članka 21. stavka 2. ovoga Zakona objaviti u roku od mjesec dana od dana stupanja na snagu pravilnika iz članka 82. stavka 2. ovoga Zakona.
+(3) Službenik koji je na dan stupanja na snagu ovoga Zakona zatečen na radnom mjestu kapetana ispostave može ostati raspoređen na radnom mjestu kapetana iste ispostave najviše pet godina nakon dana stupanja na snagu uredbe iz članka 82. stavka 1. podstavka 1. ovoga Zakona kojom se ispostave razvrstavaju u kategorije sukladno odredbama članka 15. ovoga Zakona, bez obzira na stručne uvjete koji će biti propisani pravilnikom iz članka 82. stavka 2. ovoga Zakona.

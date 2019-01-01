@@ -1,0 +1,2 @@
+# Članak 59.
+Iznimno od odredbi propisa kojima se uređuje izvanredno napredovanje državnih službenika, službenik koji stekne viši stupanj stručne spreme temeljem završenog školovanja može se rasporediti na slobodno rukovodeće radno mjesto na kojem se obavljaju poslovi iz članka 5. ovoga Zakona za koje ispunjava uvjete, pri čemu mu se u radno iskustvo na odgovarajućim poslovima uračunava ukupni radni staž ostvaren u Upravi ili lučkim kapetanijama.

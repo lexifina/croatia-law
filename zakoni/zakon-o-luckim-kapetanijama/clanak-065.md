@@ -1,0 +1,5 @@
+# Članak 65.
+(1) Na temelju sporazuma između ministra i čelnika drugog tijela državne uprave, Ministarstvo može službenika uputiti na obrazovanje ili usavršavanje u drugo tijelo državne uprave ili ustanovu u Republici Hrvatskoj ili u inozemstvo sukladno potrebama službe.
+(2) Na temelju sporazuma između ministra i čelnika drugog tijela državne uprave, službenici i zaposlenici iz drugog tijela državne uprave ili ustanove mogu se obrazovati i stručno usavršavati u Upravi i lučkim kapetanijama, a radi stjecanja znanja u obavljanju pojedinih poslova sigurnosti plovidbe.
+(3) Službenici i zaposlenici iz drugog tijela državne uprave koji dobivaju ovlasti za obavljanje poslova inspekcijskog nadzora sigurnosti plovidbe moraju se obrazovati i stručno usavršavati u Upravi ili lučkim kapetanijama.
+(4) Plaću, troškove obrazovanja i stručnog usavršavanja, kao i troškove smještaja, materijalne i druge troškove službenika i zaposlenika iz stavka 3. ovoga članka snosi nadležno tijelo državne uprave u kojem rade službenici i drugi zaposlenici koji su upućeni na obrazovanje i stručno usavršavanje.
