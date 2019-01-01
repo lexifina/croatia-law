@@ -1,0 +1,7 @@
+# Članak 16.
+Iza članka 63. dodaje se članak 63.a koji glasi:
+»Članak 63.a
+(1) Mirovinsko društvo ima pravo na iznos naknade za upravljanje koji čini 20% ukupno naplaćenog iznosa naknade za upravljanje od strane svih mirovinskih društava u Republici Hrvatskoj u promatranom obračunskom razdoblju od jedne kalendarske godine.
+(2) Ako mirovinsko društvo tijekom godišnjeg obračunskog razdoblja obračuna i naplati naknadu za upravljanje koja čini više od 20% ukupno naplaćenog iznosa naknade za upravljanje od strane svih mirovinskih društava u Republici Hrvatskoj u istom obračunskom razdoblju, dužno je najkasnije do 30. travnja iduće kalendarske godine 55% tako više naplaćenog iznosa naknade za upravljanje uplatiti na odgovarajući uplatni račun Središnjem registru osiguranika kako bi se izvršio raspored tih sredstava mirovinskim fondovima.
+(3) Središnji registar osiguranika će zaprimljeni iznos naplaćene naknade iz stavka 2. ovoga članka rasporediti na sve mirovinske fondove u Republici Hrvatskoj razmjerno njihovoj veličini, promatrano prema neto vrijednosti imovine pojedinog mirovinskog fonda na dan raspodjele sredstava.
+(4) Agencija pravilnikom utvrđuje način izračuna osnovice utvrđivanja visine sredstava koja se prenose Središnjem registru osiguranika, uplatni račun na koji će se izvršiti uplate mirovinskih društava, način dostave podataka od mirovinskih društava Središnjem registru osiguranika potrebnih za raspored sredstava, rokove zaprimanja i raspoređivanja sredstava te druge podatke potrebne za provedbu odredbi stavka 2. i 3. ovoga članka.«.
