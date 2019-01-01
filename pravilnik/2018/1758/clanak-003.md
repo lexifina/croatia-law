@@ -1,0 +1,4 @@
+# Članak 3.
+(1) Evidencija se vodi u elektroničkom obliku putem e-aplikacije koja je dostupna na mrežnim stranicama Državne geodetske uprave.
+(2) Fizičke i pravne osobe koje imaju suglasnost za obavljanje stručnih geodetskih poslova sukladno Zakonu, a koriste sustav Državne geodetske uprave za izradu geodetskog elaborata, podaci iz članka 2. ovoga Pravilnika, upisuju se u Evidenciju automatski prilikom predaje na pregled i potvrđivanje elaborata u digitalnom obliku.
+(3) Pristup e-aplikaciji iz stavka 1. ovoga članka imaju fizičke i pravne osobe koje su ishodile korisničko ime i lozinku za dohvat podataka i korištenje sustava Državne geodetske uprave za izradu geodetskog elaborata, sukladno pravilniku kojim se uređuje određivanje visine stvarnih troškova uporabe podataka dokumentacije državne izmjere i katastra nekretnina.
