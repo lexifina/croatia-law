@@ -1,0 +1,2 @@
+# Članak 4.
+Energetski subjekti dužni su u svome računovodstvu voditi poslovne knjige i sastavljati financijske izvještaje prema načelima nediskriminacije korisnika sustava, izbjegavanja narušavanja tržišnog natjecanja, izbjegavanja pristranosti te izbjegavanja međusobnog subvencioniranja između energetskih djelatnosti koje se obavljaju kao javna usluga, tržišnih energetskih djelatnosti i drugih djelatnosti.
