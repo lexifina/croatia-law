@@ -1,0 +1,5 @@
+# Članak 39.
+Članak 61. mijenja se i glasi:
+»Ovlaštena fizička osoba iz države ugovornice EGP-a ima pravo u Republici Hrvatskoj povremeno ili privremeno obavljati poslove prostornoga uređenja, projektiranja i/ili stručnog nadzora građenja, odnosno poslove vođenja građenja pod strukovnim nazivom koji ovlaštene osobe za obavljanje tih poslova imaju u Republici Hrvatskoj, ako prije početka prvog posla izjavom u pisanom ili elektroničkom obliku izvijesti o tome odgovarajuću komoru, uz uvjet da:
+- ima stručne kvalifikacije potrebne za obavljanje poslova prostornog uređenja, projektiranja i/ili stručnog nadzora građenja, odnosno vođenja građenja u skladu s posebnim zakonom kojim se uređuje priznavanje inozemnih stručnih kvalifikacija i drugim posebnim propisima
+- je osigurana od profesionalne odgovornosti za štetu koju bi obavljanjem poslova prostornog uređenja, projektiranja i/ili stručnog nadzora građenja, odnosno vođenja građenja u svojstvu odgovorne osobe mogla učiniti investitoru ili drugim osobama.«.
