@@ -1,0 +1,32 @@
+## V. PREKRŠAJNE ODREDBE
+# Članak 9.
+(1) Novčanom kaznom od 50.000,00 do 100.000,00 kuna kaznit će se za prekršaj pravna osoba ako:
+– izvozi živu (članak 3. stavak 1. Uredbe (EU) 2017/852)
+– nakon datuma navedenih na popisu u Prilogu I. Uredbe (EU) 2017/852 izvozi živine spojeve i smjese žive (članak 3. stavak 2. Uredbe (EU) 2017/852)
+– nakon datuma navedenih na popisu u Prilogu I. Uredbe (EU) 2017/852 izvozi živine spojeve, u svrhu drukčiju od laboratorijskih istraživanja ili laboratorijske analize (članak 3. stavak 3. Uredbe (EU) 2017/852)
+– u svrhu obnavljanja žive, izvozi živine spojeve i smjese žive koji ne podliježu zabrani utvrđenoj u članku 3. stavku 2. Uredbe (EU) 2017/852 (članak 3. stavak 4. Uredbe (EU) 2017/852)
+– uvozi živu i smjese žive navedene u Prilogu I. Uredbe (EU) 2017/852, uključujući otpadnu živu iz bilo kojeg od velikih izvora iz članka 11. točaka (a) – (d) Uredbe (EU) 2017/852, u svrhe koje nisu zbrinjavanje kao otpad (članak 4. stavak 1. podstavak 1. Uredbe (EU) 2017/852)
+– uvozi, u svrhu obnavljanja žive, smjese žive koje nisu obuhvaćene člankom 4. stavkom 1. Uredbe (EU) 2017/852) i živine spojeve (članak 4. stavak 2. Uredbe (EU) 2017/852)
+– uvozi živu namijenjenu tradicionalnom rudarenju i obradi zlata te rudarenju i obradi zlata u malom opsegu (članak 4. stavak 3. Uredbe (EU) 2017/852)
+– nakon datuma koji su navedeni u Prilogu II. Uredbe (EU) 2017/852 izvozi, uvozi i proizvodi proizvode kojima je dodana živa (članak 5. stavak 1. Uredbe (EU) 2017/852)
+– nakon datuma navedenih u dijelu I. Priloga III. Uredbe (EU) 2017/852 upotrebljava živu i živine spojeve u proizvodnim procesima (članak 7. stavak 1. Uredbe (EU) 2017/852)
+– upotrebljava živu i živine spojeve u proizvodnim procesima protivno uvjetima koji su navedeni u dijelu II. Priloga III. Uredbe (EU) 2017/852 (članak 7. stavak 2. Uredbe (EU) 2017/852)
+– provodi međuskladištenje žive i živinih spojeva te smjesa žive navedenih u Prilogu I. Uredbe (EU) 2017/852 na način koji nije prihvatljiv za okoliš i nije u skladu s pragovima i zahtjevima utvrđenima u Direktivi 2012/18/EU Europskog parlamenta i Vijeća (1) i Direktivi 2010/75/EU (članak 7. stavak 3. Uredbe (EU) 2017/852)
+– proizvodi ili stavlja na tržište proizvode kojima je dodana živa, a koji se nisu proizvodili prije 1. siječnja 2018. (»novi proizvodi kojima je dodana živa«), osim ako joj to nije dopušteno odlukom donesenom u skladu s člankom 8. stavkom 6. Uredbe (EU) 2017/852 (članak 8. stavak 1. podstavak 1. Uredbe (EU) 2017/852)
+– upotrebljava proizvodne procese koji uključuju uporabu žive ili živinih spojeva, a koji se nisu upotrebljavali prije 1. siječnja 2018. (»novi proizvodni procesi«), osim ako joj to nije dopušteno odlukom donesenom u skladu s člankom 8. stavkom 6. Uredbe (EU) 2017/852 (članak 8. stavak 2. podstavak 1. Uredbe (EU) 2017/852)
+– tradicionalno rudari i obrađuje zlato te rudari i obrađuje zlato u malom opsegu kod kojih se amalgam žive upotrebljava za izdvajanje zlata iz rude (članak 9. stavak 1. Uredbe (EU) 2017/852)
+– od 1. siječnja 2019. zubni amalgam ne upotrebljava samo u obliku unaprijed doziranih kapsula odnosno rabi živu u rasutom obliku (članak 10. stavak 1. Uredbe (EU) 2017/852)
+– od 1. srpnja 2018. zubni amalgam upotrebljava kod stomatološkog liječenja mliječnih zuba, djece mlađe od 15 godina te trudnica ili dojilja, osim ako stomatolog na temelju posebnih zdravstvenih potreba pacijenta smatra da je to nužno (članak 10. stavak 2. Uredbe (EU) 2017/852)
+– od 1. siječnja 2019. vlasnici stomatoloških ustanova u kojima se upotrebljava zubni amalgam ili u kojima se uklanjaju ispune zubnim amalgamom ili zubi koji sadržavaju takve ispune ne osiguraju da njihove ustanove budu opremljene separatorima amalgama za zadržavanje i prikupljanje čestica amalgama, uključujući čestice koje se nalaze u iskorištenoj vodi (članak 10. stavak 4. podstavak 1. Uredbe (EU) 2017/852)
+– stomatološke ustanove ne osiguraju da separatori amalgama koji su stavljeni u uporabu od 1. siječnja 2018. pružaju razinu zadržavanja od barem 95 % čestica amalgama odnosno od 1. siječnja 2021. svi separatori amalgama u uporabi pružaju razinu zadržavanja od barem 95 % čestica amalgama odnosno separatore amalgama ne održavaju u skladu s uputama proizvođača kako bi se osigurala najviša izvediva razina zadržavanja (članak 10. stavak 4. podstavak 2. točke (a) i (b) Uredbe (EU) 2017/852)
+– stomatolozi ne osiguraju da njihovim amalgamskim otpadom, uključujući amalgamske ostatke, čestice te ispune i zube, ili njihove dijelove, koji su kontaminirani zubnim amalgamom, gospodari te da ga sakupljaju ustanove ili poduzeća ovlašteni za gospodarenje otpadom (članak 10. stavak 6. podstavak 1. Uredbe (EU) 2017/852)
+– stomatolozi amalgamski otpad izravno ili neizravno ispuštaju u okoliš (članak 10. stavak 6. podstavak 2. Uredbe (EU) 2017/852)
+– živu i živine spojeve, u čistom obliku ili u smjesama, iz bilo kojeg velikog izvora (industrija klornih lužina, pročišćavanje prirodnog plina, rudarenje i taljenje neželjeznih kovina, otkopavanje iz živine rude (cinabarita) u Europskoj uniji) koja predstavlja otpad i otpadnu živu zbrinjava na okolišno neprihvatljiv način ili ako zbrinjavanjem dovodi do kakvog oblika obnavljanja žive (članak 11. Uredbe (EU) 2017/852)
+– nadležnim tijelima ne dostavi izvješće o velikim izvorima u roku i na način propisan člankom 12. stavkom 1. točkama (a) – (f) Uredbe (EU) 2017/852
+– skladišti otpadnu živu protivno članku 13. stavcima 1. i 3. Uredbe (EU) 2017/852
+– ne uspostavi registar sljedivosti za objekte koji provode privremeno skladištenje otpadne žive u skladu s člankom 14. stavkom 1. Uredbe (EU) 2017/852
+– ne uspostavi registar sljedivosti za objekte koji provode pretvorbu i, ako je primjenjivo, solidifikaciju otpadne žive u skladu s člankom 14. stavkom 2. Uredbe (EU) 2017/852
+– ne dostavi podatke o lokaciji na kojoj se nalaze zalihe od više od 50 metričkih tona žive koja nije otpadna živa u skladu s člankom 18. stavkom 1. točkom (d) i. Uredbe 2017/852
+– ne dostavi podatke o lokaciji na kojoj je prikupljeno više od 50 metričkih tona opadne žive u skladu s člankom 18. stavkom 1. točkom (d) ii. Uredbe 2017/852.
+(2) Novčanom kaznom od 5000,00 do 10.000,00 kuna za prekršaj iz stavka 1. ovoga članka kaznit će se i odgovorna osoba u pravnoj osobi koja obavlja registriranu djelatnost.
+(3) Novčanom kaznom od 5000,00 do 10.000,00 kuna za prekršaj iz stavka 1. ovoga članka kaznit će se i fizička osoba koja obavlja registriranu djelatnost.
