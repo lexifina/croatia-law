@@ -1,0 +1,3 @@
+# Članak 17.
+U članku 79. stavak 9. mijenja se i glasi:
+»(9) Porezni obveznici upisani u registar obveznika poreza na dodanu vrijednost koji imaju u svojim poslovnim knjigama evidentirane dospjele, a nenaplaćene tražbine, koje su dospjele sukladno rokovima ispunjenja novčanih obveza propisanim posebnim propisom, dužni su sastaviti statističko izvješće o dospjelim, a nenaplaćenim tražbinama u rokovima za podnošenje poreznih prijava poreza na dohodak ili poreza na dobit sukladno posebnom propisu u tekućoj godini za sve dospjele, a neplaćene račune sa stanjem na dan 31. prosinca prethodne godine.«.

@@ -1,0 +1,6 @@
+# Članak 2.
+U članku 8. stavku 5. točki 3. iza riječi: »prekršajnog« stavlja se zarez i dodaje riječ: »kaznenog«.
+U stavku 9. iza riječi: »roditelja fizičke osobe.« dodaje se rečenica koja glasi: »Pregled poreznih obveznika za koje je utvrđeno da nisu porezni obveznici koji se nalaze na popisu objavljuje se na mrežnim stranicama Porezne uprave.«.
+Iza stavka 11. dodaju se stavci 12. i 13. koji glase:
+»(12) U izračun visine duga iz stavka 7. ovoga članka uzima se stanje duga po osnovama za koje je propisana objava dospjelih i neplaćenih dugova na zadnji dan u mjesecu koji prethodi mjesecu objave popisa dospjelih i neplaćenih dugova, umanjen za uplate do dana obrade podataka. Ako zadnji dan u mjesecu koji prethodi mjesecu objave popisa dospjelih i neplaćenih dugova pada na neradni dan ili dane blagdana, u izračun se uzima stanje duga na prvi sljedeći radni dan.
+(13) Porezni obveznici koji nakon objave popisa u cijelosti podmire dugovanja s osnova dugova iz stavka 7. ovoga članka brišu se s popisa. Na popisu dospjelih i neplaćenih dugova posebnim oznakama i porukama obilježavaju se porezni obveznici koji nakon objave popisa ne podmire dugovanja iz stavka 7. ovoga članka u cijelosti, već je nakon podmirenja dijela dugovanja njegov nepodmireni iznos manji od iznosa koji je kriterij za objavu popisa.«.
