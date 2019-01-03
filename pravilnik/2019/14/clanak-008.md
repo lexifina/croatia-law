@@ -1,0 +1,3 @@
+# Članak 8.
+U članku 83. stavku 2. dodaje se točka 4. koja glasi:
+»4. Izvještajne financijske institucije obvezne su uzeti u obzir indicije iz članka 63. ovoga Pravilnika radi utvrđivanja je li osoba koja ima kontrolu nad pasivnim subjektom koji nije financijska institucija osoba o kojoj se izvješćuje, ako izjava o rezidentnosti iz točke 3. podtočke b. ovoga stavka nije pribavljena. Ako izvještajna financijska institucija nije utvrdila niti jednu indiciju iz članka 63. ovoga Pravilnika nije potrebno poduzimati daljnje provjere osim u slučaju promjene okolnosti kada se jedna ili više indicija može povezati s osobom koja ima kontrolu.«.

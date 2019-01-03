@@ -1,0 +1,3 @@
+# Članak 3.
+U članku 37. točka 1. mijenja se i glasi:
+»1. manje od 50% bruto prihoda subjekta koji nije financijska institucija ostvarenog u prethodnoj kalendarskoj godini su pasivni prihodi te je manje od 50% imovine subjekta koji nije financijska institucija u prethodnoj kalendarskoj godini imovina koja se ostvaruje ili drži radi ostvarenja pasivnih prihoda. Za potrebe ove točke pasivnim prihodom smatraju se dividende, kamate ili drugi prihod koji se smatra kamatom te najam i naknade za autorska prava, renta, prihod od raspolaganja financijskom imovinom, trgovanje stranim valutama, neto prihod od ugovora o razmjeni ili iznos isplaćen na temelju ugovora o osiguranju uz mogućnost isplate otkupne vrijednosti police«.
