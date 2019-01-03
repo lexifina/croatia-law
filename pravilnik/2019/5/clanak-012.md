@@ -1,0 +1,3 @@
+## III. ZAVRŠNE ODREDBE
+# Članak 12.
+Ovaj Pravilnik stupa na snagu prvoga dana od dana objave u »Narodnim novinama«.

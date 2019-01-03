@@ -1,0 +1,6 @@
+# Članak 7.
+(1) Videoelektronička identifikacija obavlja se korištenjem sredstava videoelektroničke identifikacije koja omogućavaju elektronički prijenos slike i zvuka u realnom vremenu (engl. streaming) i bez prekida.
+(2) Obveznik je dužan osigurati zvučno i vizualno snimanje i pohranu cjelokupnog razgovora zaposlenika s osobom, ili dijela razgovora s osobom u kojem se obavlja videoelektronička identifikacija.
+(3) Videoelektronička identifikacija obavlja se korištenjem odgovarajuće tehničke opreme koja osigurava zaštićeni elektronički prijenos slike i zvuka kriptiranjem cjelokupnog komunikacijskog kanala između krajnjih točaka (engl. end to end) na način da nije moguće presresti podatke koji se prenose. Za kriptiranje potrebno je koristiti općepriznate kriptografske algoritme i postupke upravljanja kriptografskim ključevima, s time da kriptografski ključevi moraju biti odgovarajuće duljine kako bi se osigurala adekvatna razina sigurnosti.
+(4) Svi podatci prikupljeni videoelektroničkom identifikacijom moraju biti na odgovarajući način zaštićeni od neovlaštenog pristupa i zlouporabe.
+(5) Obveznik je dužan osigurati da su elektronički prijenos slike i zvuka odgovarajuće kvalitete na način da nedvojbeno omogućavaju utvrđivanje i provjeru identiteta osobe.
