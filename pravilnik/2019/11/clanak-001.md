@@ -1,0 +1,3 @@
+## I. UVODNE ODREDBE
+# Članak 1.
+Ovim se Pravilnikom propisuje način i rokovi dostavljanja podataka o osobama protiv kojih su Ravnateljstvo policije, uključujući i Policijski nacionalni ured za suzbijanje korupcije i organiziranoga kriminaliteta, nadzorne službe ministarstva nadležnog za financije - Porezna uprava, Financijski inspektorat, Carinska uprava i druge službe ministarstva nadležnog za financije, Hrvatska narodna banka i/ili Hrvatska agencija za nadzor financijskih usluga (dalje u tekstu: nadležna tijela), podnijeli kaznenu ili drugu prijavu za kaznena djela pranje novca ili financiranja terorizma, a koje su podatke nadležna tijela dužna dostavljati Uredu za sprječavanje pranja novca (dalje u tekstu: Ured).
