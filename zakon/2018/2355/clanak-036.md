@@ -1,0 +1,25 @@
+# Članak 36.
+Članak 386. mijenja se i glasi:
+»Ovaj Zakon sadrži odredbe koje su u skladu sa sljedećim aktima Europske unije:
+1. Direktiva Vijeća 2002/90/EZ od 28. studenoga 2002. o definiranju olakšavanja neovlaštenog ulaska, tranzita i boravka (SL L 328, 5. 12. 2002.),
+2. Direktiva 2005/35/EZ Europskog parlamenta i Vijeća od 7. rujna 2005. o onečišćenju mora s brodova i uvođenju sankcija za kršenja (SL L 255, 30. 9. 2005.), kako je posljednji put izmijenjena Direktivom 2009/123/EZ Europskog parlamenta i Vijeća od 21. listopada 2009. o izmjeni Direktive 2005/35/EZ o onečišćenju s brodova i uvođenju sankcija za kršenja (SL L 280, 27. 10. 2009.),
+3. Direktiva 2008/98 Europskog parlamenta i Vijeća od 19. studenoga 2008. o otpadu i stavljanju izvan snage određenih direktiva (SL L 312, 22. 11. 2008.),
+4. Direktiva 2008/99/EZ Europskog parlamenta i Vijeća od 19. studenoga 2008. o zaštiti okoliša putem kaznenog prava (SL L 328, 6. 12. 2008.),
+5. Direktiva 2009/52/EZ Europskog parlamenta i Vijeća od 18. lipnja 2009. o minimalnim standardima za sankcije i mjere za poslodavce državljana trećih zemalja s nezakonitim boravkom (SL L 168, 30. 6. 2009.),
+6. Direktiva 2010/53/EZ Europskog parlamenta i Vijeća od 7. srpnja 2010. o standardima kvalitete i sigurnosti ljudskih organa namijenjenih transplantaciji (SL L 207, 6. 8. 2010.),
+7. Direktiva 2011/36/EU Europskog parlamenta i Vijeća od 5. travnja 2011. o sprječavanju i suzbijanju trgovanja ljudima i zaštiti njegovih žrtava te o zamijeni Okvirne odluke Vijeća 2002/629/PUP (SL L 101, 15. 4. 2011.),
+8. Direktiva 2011/93/EU Europskog parlamenta i Vijeća od 13. prosinca 2011. o suzbijanju seksualnog zlostavljanja i seksualnog iskorištavanja djece i dječje pornografije, te o zamjeni Okvirne odluke Vijeća 2004/68/PUP (SL L 335, 17. 12. 2011.),
+9. Direktiva 2013/40/EU Europskog parlamenta i Vijeća od 12. kolovoza 2013. o napadima na informacijske sustave i o zamjeni Okvirne odluke Vijeća 2005/222/PUP (SL L 218, 14. 8. 2013.),
+10. Direktiva 2014/62/EU Europskog parlamenta i Vijeća od 15. svibnja 2014. o kaznenopravnoj zaštiti eura i drugih valuta od krivotvorenja, kojom se zamjenjuje Okvirnu odluku Vijeća 2000/383/PUP (SL L 151, 21. 5. 2014.),
+11. Direktiva 2014/57/EU Europskog parlamenta i Vijeća od 16. travnja 2014. o kaznenopravnim sankcijama za zlouporabu tržišta (SL L 173, 12. 6. 2014.),
+12. Direktiva (EU) 2017/541 Europskog parlamenta i Vijeća od 15. ožujka 2017. o suzbijanju terorizma i zamjeni Okvirne odluke Vijeća 2002/475/PUP i o izmjeni Odluke Vijeća 2005/671/PUP (SL L 88, 31. 3. 2017.),
+13. Direktiva (EU) 2017/1371 Europskog parlamenta i Vijeća od 5. srpnja 2017. o suzbijanju prijevara počinjenih protiv financijskih interesa Unije kaznenopravnim sredstvima (SL L 198, 28. 7. 2017.),
+14. Okvirna odluka Vijeća 2001/500/PUP od 26. lipnja 2001. o pranju novca, identifikaciji, praćenju, zamrzavanju, pljenidbi i oduzimanju imovine i imovinske koristi ostvarene kaznenim djelima (SL L 182, 5. 7. 2001.),
+15. Okvirna odluka Vijeća 2002/946/PUP od 28. studenoga 2002. o jačanju kaznenopravnog okvira za sprečavanje pomaganja neovlaštenog ulaska, tranzita i boravka (SL L 328, 5. 12. 2002.),
+16. Okvirna odluka Vijeća 2004/757/PUP od 25. listopada 2004. o utvrđivanju minimalnih odredaba vezanih za elemente kaznenih djela i sankcija u području nezakonite trgovine drogom (SL L 335, 11. 11. 2004.),
+17. Okvirna odluka Vijeća 2005/212/PUP od 24. veljače 2005. o oduzimanju imovinske koristi, sredstava i imovine pribavljene kaznenim djelom (SL L 68, 15. 3. 2005.),
+18. Okvirna odluka Vijeća 2008/913/PUP od 28. studenoga 2008. o suzbijanju određenih oblika i načina izražavanja rasizma i ksenofobije kaznenopravnim sredstvima (SL L 328, 6. 12. 2008.),
+19. Konvencija o provedbi Sporazuma iz Schengena (SL L 239, 22. 9. 2000.),
+20. Konvencija od 26. srpnja 1995. godine, koja se donosi na temelju članka K.3 Ugovora o EU, o zaštiti financijskih interesa Europskih zajednica (SL C 316, 27. 11. 1995., str. 49),
+21. Protokol od 27. rujna 1996. godine, koji se donosi na temelju članka K.3 Ugovora o EU, uz Konvenciju o zaštiti financijskih interesa Europskih zajednica (SL C 313, 23. 10. 1996., str. 2),
+22. Drugi Protokol od 19. lipnja 1997. godine, koji se donosi na temelju članka K.3 Ugovora o EU, uz Konvenciju o zaštiti financijskih interesa Europskih zajednica (SL C 221, 19. 7. 1997., str. 12).«.
