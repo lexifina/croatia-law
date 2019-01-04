@@ -1,0 +1,2 @@
+# Članak 10.
+Regionalne razvojne agencije osnovane sukladno odredbama zakona kojim se uređuje regionalni razvoj Republike Hrvatske (regionalni koordinatori) dužne su, bez prava na posebnu naknadu, sudjelovati u pripremi i provedbi mjera vezanih za jačanje kapaciteta jedinica lokalne i područne (regionalne) samouprave na potpomognutim područjima, kao i u pripremi projektne i druge dokumentacije za učinkovitije korištenje europskih fondova i drugih izvora sredstava za te jedinice lokalne i područne (regionalne) samouprave.

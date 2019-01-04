@@ -1,0 +1,2 @@
+# Članak 12.
+Središnja tijela državne uprave dužna su prilikom planiranja mjera i programa za razvoj upravnog područja iz svoje nadležnosti, ovisno o prirodi mjere i raspoloživim financijskim sredstvima, posebno voditi računa o učinku pojedine mjere na razvoj potpomognutih područja, uzimajući u obzir stupanj razvijenosti tih područja u skladu sa zakonom kojim se uređuje regionalni razvoj Republike Hrvatske.
