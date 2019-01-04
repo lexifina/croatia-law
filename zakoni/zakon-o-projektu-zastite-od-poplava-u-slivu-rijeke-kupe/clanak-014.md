@@ -1,0 +1,3 @@
+# Članak 14.
+(1) Kao dokaz iz članka 13. podstavka 1. ovoga Zakona smatrat će se dokaz o objavi ponude vlasnicima nekretnina na način opisan u stavku 2. ovoga članka.
+(2) Ponuda se objavljuje u dnevnom tisku ili na lokalno uobičajen način javnog priopćavanja (radio, televizija, društvene mreže i slično) te sadrži naznaku objekta koji se planira graditi, naznaku katastarskih čestica i katastarskih općina koje su obuhvaćene planom izvlaštenja te visinu tržišne naknade koja se nudi za stjecanje prava vlasništva, ustanovljenja služnosti ili ustanovljenja zakupa na tim nekretninama s rokovima isplate.

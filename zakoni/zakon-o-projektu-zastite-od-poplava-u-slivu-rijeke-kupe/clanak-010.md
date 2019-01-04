@@ -1,0 +1,3 @@
+## Osiguranje dokaza o stanju i vrijednosti nekretnine
+# Članak 10.
+U postupku osiguranja dokaza o stanju i vrijednosti nekretnine, koji prethodi postupku izvlaštenja, uz prijedlog za osiguranje dokaza o stanju i vrijednosti nekretnine korisnik izvlaštenja mora podnijeti izvršnu lokacijsku dozvolu ili idejni projekt odnosno glavni projekt, izrađen u skladu s propisima o prostornom uređenju odnosno propisima o gradnji, i predložiti tri stalna sudska vještaka za procjenu nekretnina ili tri stalna sudska procjenitelja odgovarajuće struke, a s obzirom na karakteristike nekretnine za koju se procjena obavlja.

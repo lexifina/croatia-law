@@ -1,0 +1,2 @@
+# Članak 12.
+U postupku osiguranja dokaza o stanju i vrijednosti nekretnine, koji prethodi postupku izvlaštenja, nadležno tijelo iz članka 9. stavka 3. ovoga Zakona bez odgode će osiguranje dokaza o stanju i vrijednosti nekretnine povjeriti jednom od predloženih procjenitelja iz svakog stručnog područja za koje se obavlja procjena vrijednosti nekretnina, bez obavljanja očevida i obavještavanja o tome vlasnika odnosno posjednika nekretnine i korisnika izvlaštenja.

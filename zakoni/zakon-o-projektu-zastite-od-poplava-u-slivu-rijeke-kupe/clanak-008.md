@@ -1,0 +1,3 @@
+# Članak 8.
+(1) Sastavni dio idejnog projekta odnosno glavnog projekta iz odredbi ovoga Zakona, umjesto geodetskog projekta iz propisa o prostornom uređenju i propisa o gradnji, je elaborat iz članka 6. stavka 1. točke 8. ovoga Zakona, na temelju kojeg se usklađuje stanje u katastru, zemljišnoj knjizi i naravi, ako je to potrebno, provodi formiranje građevne čestice u katastru te evidentiranje načina uporabe u katastru.
+(2) Elaboratom iz članka 6. stavka 1. točke 8. ovoga Zakona prikazuje se smještaj jedne ili više građevina na građevnoj čestici te oblik i veličina građevne čestice koja se formira.
