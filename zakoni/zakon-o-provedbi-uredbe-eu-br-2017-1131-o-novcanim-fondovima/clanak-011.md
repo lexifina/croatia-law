@@ -1,0 +1,6 @@
+## Nadzorne mjere Agencije
+# Članak 11.
+(1) Kada Agencija utvrdi povrede odredbi Uredbe (EU) 2017/1131 i/ili ovoga Zakona, ovlaštena je izreći nadzorne mjere propisane zakonima kojima je uređeno osnivanje i poslovanje otvorenih investicijskih fondova s javnom ponudom i alternativnih investicijskih fondova, ovisno o tome koji je zakon primjenjiv.
+(2) Osim nadzornih mjera iz stavka 1. ovoga članka, Agencija je ovlaštena izreći i posebnu nadzornu mjeru, i to zabraniti da se za fond upotrebljava naziv »novčani fond« ili bilo koji drugi naziv na osnovi kojeg se može zaključiti da je UCITS ili AIF novčani fond.
+(3) Agencija će rješenjem ukinuti rješenje kojim je, sukladno odredbama ovoga Zakona i člankom 4. ili 5. Uredbe (EU) 2017/1131, izdano odobrenje za osnivanje i upravljanje novčanim fondom ako se u slučaju provedene obnove postupka utvrdi da je rješenje kojim se izdaje odobrenje za osnivanje i upravljanje tim novčanim fondom doneseno na temelju neistinitih ili netočnih podataka ili izjava bitnih za donošenje tog rješenja.
+(4) Agencija može rješenjem ukinuti rješenje kojim je, sukladno odredbama ovoga Zakona i člankom 4. ili 5. Uredbe (EU) 2017/1131, izdano odobrenje za osnivanje i upravljanje novčanim fondom ako je društvo za upravljanje teško, sustavno ili često kršilo odredbe članaka 9. – 21., članaka 23. – 34. ili članka 36. Uredbe (EU) 2017/1131.

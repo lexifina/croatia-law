@@ -1,0 +1,20 @@
+## Lakši prekršaji društva za upravljanje
+# Članak 15.
+(1) Novčanom kaznom u iznosu od 50.000,00 do 100.000,00 kuna kaznit će se za prekršaj društvo za upravljanje ako:
+1. odmah ne izvijesti Agenciju o svakoj bitnoj promjeni dokumentacije iz članka 5. stavka 2. Uredbe (EU) 2017/1131 koja dokumentacija je dostavljena Agenciji kod podnošenja zahtjeva za upravljanje MMF-om koji je AIF, u skladu s odredbama članka 5. stavka 3. Uredbe (EU) 2017/1131
+2. informaciju o imovini primljenoj u sklopu obrnutog repo ugovora u skladu s člankom 15. stavkom 6. Uredbe (EU) 2017/1131 ne objavi ulagateljima u MMF kojim upravlja u skladu s člankom 13. Uredbe (EU) 2015/2365 Europskog parlamenta i Vijeća od 25. studenoga 2015. o transparentnosti transakcija financiranja vrijednosnih papira i ponovne uporabe te o izmjeni Uredbe (EU) br. 648/2012, u skladu s člankom 15. stavkom 6. podstavkom 2. Uredbe (EU) 2017/1131
+3. obrnuti repo ugovor iz članka 15. stavka 6. Uredbe (EU) 2017/1131 ne zadovoljava utvrđene tržišne standarde i uvjete iz članka 2. stavka 1. Delegirane Uredbe Komisije
+4. na imovinu primljenu u sklopu obrnutog repo ugovora u skladu s člankom 15. stavkom 6. Uredbe (EU) 2017/1131 ne primjeni korektivne faktore iz članka 224. stavka 1. tablica 1. i 2. Uredbe (EU) 575/2013 za preostali rok dospijeća, u skladu s člankom 2. stavkom 2. Delegirane Uredbe Komisije
+5. ne napravi procjenu potrebitosti primjene dodatnog korektivnog faktora na imovinu primljenu u sklopu obrnutog repo ugovora u skladu s člankom 15. stavkom 6. Uredbe (EU) 2017/1131, u skladu s člankom 2. stavkom 3. Delegirane Uredbe Komisije
+6. ne usvoji jasnu politiku u pogledu dodatnih korektivnih faktora prilagođenu svakoj imovini iz članka 15. stavka 6. Uredbe (EU) 2017/1131 koja je primljena kao kolateral, u skladu s člankom 2. stavkom 4. Delegirane Uredbe Komisije
+7. svaku odluku o primjeni određenog korektivnog faktora na vrijednost imovine ne utemelji na usvojenoj politici u pogledu dodatnih korektivnih faktora prilagođenu svakoj imovini iz članka 15. stavka 6. Uredbe (EU) 2017/1131 koja je primljena kao kolateral iz članka 2. stavka 4. Delegirane Uredbe Komisije, u skladu s člankom 2. stavkom 4. Delegirane Uredbe Komisije
+8. ne dokumentira jasnu politiku u pogledu dodatnih korektivnih faktora prilagođenu svakoj imovini iz članka 15. stavka 6. Uredbe (EU) 2017/1131 koja je primljena kao kolateral, u skladu s člankom 2. stavkom 4. Delegirane Uredbe Komisije
+9. redovito ne revidira korektivni faktor iz članka 2. stavka 2. Delegirane Uredbe Komisije, u skladu s člankom 2. stavkom 5. Delegirane Uredbe Komisije
+10. redovito ne revidira dodatni korektivni faktor iz članka 2. stavka 3. Delegirane Uredbe Komisije, u skladu s člankom 2. stavkom 5. Delegirane Uredbe Komisije
+11. nije osiguralo da je unutarnji postupak procjene kreditne kvalitete u skladu s bilo kojim od općih načela iz članka 19. stavka 4. Uredbe (EU) 2017/1131
+12. ne čuva svu dokumentaciju iz članka 21. stavka 1. Uredbe (EU) 2017/1131 tijekom najmanje tri puna godišnja obračunska razdoblja, u skladu s člankom 21. stavkom 2. Uredbe (EU) 2017/1131
+13. ne osigura da unutarnje procjene kreditne kvalitete i njihova periodička preispitivanja ne provode osobe koje upravljaju imovinom MMF-a ili su za to upravljanje odgovorne, u skladu s člankom 23. stavkom 4. Uredbe (EU) 2017/1131
+14. u prospektu MMF-a i u svakoj komunikaciji s ulagateljima u kojoj se spominje vanjski kreditni rejting ne naznače da su taj rejting zatražili ili financirali MMF ili društvo za upravljanje MMF-om, u skladu s člankom 26. Uredbe (EU) 2017/1131
+15. ne obavijesti ulagatelje u MMF o metodi ili metodama koje koristi za vrednovanje imovine MMF-a i izračun NAV-a MMF-a, u skladu s člankom 36. stavkom 5. Uredbe (EU) 2017/1131
+16. ne objasne ulagateljima i/Ili potencijalnim ulagateljima u LVNAV MMF-ove i/ili CNAV MMF-ove kojima upravlja, korištenje metode amortiziranog troška ili zaokruživanja ili oboje, u skladu s člankom 36. stavkom 5. Uredbe (EU) 2017/1131.
+(2) Novčanom kaznom u iznosu od 10.000,00 do 30.000,00 kuna kaznit će se za prekršaj iz stavka 1. ovoga članka i odgovorna osoba društva za upravljanje.
