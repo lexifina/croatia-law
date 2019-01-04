@@ -1,0 +1,7 @@
+# Članak 26.
+(1) Gorska iskaznica je javna isprava čije se izdavanje uređuje posebnim propisom, a koristi se kao sredstvo autentifikacije za pristup sustavu prava i povlastica stanovnika s brdsko-planinskog područja koje se provode temeljem ovoga Zakona ili drugih propisa.
+(2) Imatelji gorske iskaznice ostvaruju prava i povlastice ovisno o prirodnim ograničenjima i razvojnim potrebama pojedinog brdsko-planinskog područja.
+(3) Prava i povlastice koje pripadaju imateljima gorske iskaznice su: povlašteni javni prijevoz za fizičke osobe koje imaju prebivalište na brdsko-planinskom području unutar županijskog linijskog prometa; povlašteno korištenje sirovina i prirodnih bogatstava lokalnog područja.
+(4) Oblik i sadržaj gorske iskaznice, njene imatelje te način praćenja i ostvarivanja prava iz stavka 3. ovoga članka ministar nadležan za regionalni razvoj, uz prethodnu suglasnost ministra za promet, propisat će pravilnikom ovisno o specifičnim potrebama brdsko-planinskog područja.
+(5) Ministarstvu se omogućava evidencija i praćenje korištenja prava i povlastica iz stavka 3. ovoga članka te nadzor nad korištenjem financijskih sredstava namijenjenih ostvarivanju prava i povlastica koje se provode temeljem ovoga Zakona.
+(6) Ako je to predviđeno Programom iz članka 12. ovoga Zakona, pojedina prava imatelja gorske iskaznice uredit će se i drugim propisima čije su odredbe usmjerene na poticanje razvoja brdsko-planinskih područja.
