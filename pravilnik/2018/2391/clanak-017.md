@@ -1,0 +1,2 @@
+# Članak 17.
+Građevinski objekt u kojemu Ustanova pruža usluge iz članka 4. ovog Pravilnika mora ispunjavati urbanističke uvjete iz važeće prostorno-planske dokumentacije te građevinske, sanitarno-tehničke i higijenske uvjete, uvjete mehaničke otpornosti i stabilnosti, požarno-preventivne uvjete, sigurnosti u korištenju, zaštitu od buke i uštede energije i toplinske zaštite i održivu uporabu prirodnih izvora utvrđene posebnim propisima.
