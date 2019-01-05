@@ -1,0 +1,4 @@
+# Članak 8.
+(1) Ako jedinice lokalne i područne (regionalne) samouprave koje financiraju decentralizirane funkcije ostvare više sredstava iz dodatnog udjela iz članka 3. stavka 2. ove Uredbe nego je to utvrđeno minimalnim financijskim standardima utvrđenima u Pregledu iznosa bilančnih prava, višak sredstava mogu koristiti za financiranje decentraliziranih funkcija koje su preuzele.
+(2) Ako jedinice lokalne i područne (regionalne) samouprave koje financiraju decentralizirane funkcije ostvare više sredstava iz pomoći izravnanja iz članka 3. stavka 3. ove Uredbe nego je to utvrđeno minimalnim financijskim standardima utvrđenima u Pregledu iznosa bilančnih prava, višak sredstava dužni su najkasnije do 15. veljače 2020. godine uplatiti na račun državnog proračuna Republike Hrvatske.
+(3) Višak sredstava iz stavka 2. ovoga članka prihod je državnog proračuna Republike Hrvatske.
