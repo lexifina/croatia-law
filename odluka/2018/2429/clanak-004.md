@@ -1,0 +1,2 @@
+# Članak 4.
+U Uputi o tehničkim rješenjima za dostavu izvještaja, koja je sastavni dio Odluke o informatičkim rješenjima za dostavu izvještaja kreditnih institucija u skladu s propisima Europske unije, u točki 3. riječi »u prilogu XIV. Provedbene uredbe Komisije (EU) br. 680/2014« zamjenjuju se riječima »u prilogu XIV. Provedbene uredbe Komisije (EU) br. 680/2014 i prilogu III. Provedbene uredbe Komisije (EU) 2018/1624«.
