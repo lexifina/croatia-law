@@ -1,0 +1,1 @@
+Na temelju članka 56. stavak 5. a u vezi s člankom 105. Zakona o obavljanju geodetske djelatnosti (»Narodne novine« broj 25/18) Skupština Hrvatske komore ovlaštenih inženjera geodezije, na prijedlog Upravnog odbora, na 5. redovitoj sjednici održanoj 11. prosinca 2018. godine donijela je
