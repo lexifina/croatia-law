@@ -1,0 +1,6 @@
+# Članak 7.
+(1) Podaci iz Registra vidljivi su na mrežnim stranicama ministarstva nadležnog za poslove pravosuđa:
+- 15 mjeseci od isteka mjeseca u kojem je rješenje o oslobađanju od preostalih obveza za potrošača, odnosno dužnika pojedinca steklo svojstvo pravomoćnosti
+- pet godina od isteka mjeseca u kojem je rješenje o oslobađanju potrošača od preostalih obveza u jednostavnom postupku stečaja potrošača steklo svojstvo pravomoćnosti.
+(2) Podaci iz Registra o otvorenim predstečajnim postupcima, otvorenim stečajnim postupcima i otvorenim postupcima izvanredne uprave na mrežnim stranicama ministarstva nadležnog za poslove pravosuđa vidljivi su u Registru dva mjeseca od isteka mjeseca u kojem je steklo svojstvo pravomoćnosti rješenje kojim se uskraćuje potvrda predstečajnoga sporazuma ili obustavlja taj postupak, odnosno zaključuje stečajni postupak ili uskraćuje potvrda nagodbe u postupku izvanredne uprave ili se taj postupak obustavlja.
+(3) Podaci iz Registra o otvorenim predstečajnim postupcima, otvorenim stečajnim postupcima i otvorenim postupcima izvanredne uprave na mrežnim stranicama ministarstva nadležnog za poslove pravosuđa vidljivi su u Registru tri godine od isteka mjeseca u kojem je steklo svojstvo pravomoćnosti rješenje kojim se potvrđuje predstečajni sporazum, odnosno stečajni plan ili nagodba u postupku izvanredne uprave.
