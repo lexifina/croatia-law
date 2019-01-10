@@ -1,0 +1,3 @@
+# Članak 14.
+U članku 24. iza stavka 5. dodaje se novi stavak 6. koji glasi:
+»(6) U slučaju da prikupljanje ponuda iz članka 17. stavka 2. ovoga Pravilnika traje dulje od 48 sati od očekivanog datuma i vremena završetka prikupljanja ponuda navedenog u pozivu na sudjelovanje Agencija će o tome obavijestiti nadležno tijelo koje će donijeti odluku o daljnjem tijeku postupka. Ako Agencija ne zaprimi odluku nadležnog tijela o daljnjem tijeku postupka u roku od osam dana od zaprimanja obavijesti Agencije, Agencija će prekinuti postupak i dostaviti nadležnom tijelu Izvještaj o provedenoj elektroničkoj javnoj dražbi.«.

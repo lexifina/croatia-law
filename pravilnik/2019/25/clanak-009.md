@@ -1,0 +1,4 @@
+# Članak 9.
+U članku 14. stavku 2. brišu se riječi: »ponude te osobe« i dodaju riječi: »u sustavu elektroničke javne dražbe. Potpisom prijave za sudjelovanje u elektroničkoj javnoj dražbi naprednim elektroničkim potpisom sve ponude u nadmetanju za koje je potpisana prijava smatraju se potpisane«.
+Iza stavka 3. dodaje se stavak 4. koji glasi:
+»(4) Agencija će na pisani zahtjev nadležnog tijela koje je odredilo postupak prodaje elektroničkom javnom dražbom dostaviti nadležnom tijelu podatke iz sustava elektroničke javne dražbe vezane uz određenu prodaju. Razmjena pismena u tu svrhu između suda i Agencije može se obaviti i elektroničkom poštom ako je pismeno potpisano naprednim elektroničkim potpisom temeljenom na kvalificiranom certifikatu suca ili ovlaštenog službenika suda i ovlaštenog radnike Agencije. Potrebni podaci za dostavu pismena na opisani način bit će objavljeni na mrežnim stranicama Agencije.«
