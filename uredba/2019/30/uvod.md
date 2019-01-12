@@ -1,0 +1,1 @@
+Na temelju članka 17. stavka 8. Zakona o poticanju ulaganja (»Narodne novine«, br. 102/15 i 25/18), a u vezi s člankom 12. Zakona o izmjenama i dopunama Zakona o poticanju ulaganja (»Narodne novine«, broj 25/18), Vlada Republike Hrvatske je na sjednici održanoj 3. siječnja 2019. godine donijela
