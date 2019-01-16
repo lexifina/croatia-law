@@ -1,0 +1,2 @@
+# Članak 1.
+Potvrđuje se Konvencija o centraliziranom carinjenju u vezi s dodjelom nacionalnih troškova naplate zadržanih kad se tradicionalna vlastita sredstva osiguraju za proračun EU-a, sastavljena u Bruxellesu 10. ožujka 2009. u izvorniku na bugarskom, češkom, danskom, engleskom, estonskom, finskom, francuskom, grčkom, irskom, latvijskom, litavskom, mađarskom, malteškom, nizozemskom, njemačkom, poljskom, portugalskom, rumunjskom, slovačkom, slovenskom, španjolskom, švedskom i talijanskom jeziku.

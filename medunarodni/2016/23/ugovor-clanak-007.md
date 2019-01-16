@@ -1,0 +1,5 @@
+# Članak 7.
+1. Glavni tajnik Vijeća Europske unije je depozitar ove Konvencije.
+2. Države članice Europske unije mogu postati ugovorne stranke ove Konvencije polaganjem kod glavnog tajnika Vijeća Europske unije isprave o ratifikaciji, prihvatu, odobrenju ili pristupanju, nakon što se dovrše unutarnji postupci potrebni za usvajanje ove Konvencije.
+3. Ova Konvencija stupa na snagu devedeset dana nakon što posljednja država članica potpisnica izjavi da je završila sve unutarnje postupke potrebne za njezino donošenje. U međuvremenu, međutim, bilo koja država članica koja završi taj postupak može izjaviti da će primjenjivati Konvenciju u odnosima s onim državama članicama koje su dale istu izjavu, s obzirom na odredbe iz ove Konvencije.
+4. Svi administrativni dogovori između država članica koji se odnose na redistribuciju iznosa troškova naplate u situacijama iz djelokruga ove Konvencije ukidaju se u skladu s odredbama ove Konvencije od dana podnošenja zahtjeva između dotičnih država članica.
