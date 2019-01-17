@@ -1,0 +1,1 @@
+Ustavni sud Republike Hrvatske, u Drugom vijeću za odlučivanje o ustavnim tužbama, u sastavu sutkinja Ingrid Antičević Marinović, predsjednica Vijeća, te suci Mato Arlović, Snježana Bagić, Branko Brkić, Mario Jelušić i Rajko Mlinarić, članovi Vijeća, u postupku koji je ustavnom tužbom pokrenuo N. N. iz N., na sjednici održanoj 17. siječnja 2019. jednoglasno je donio
