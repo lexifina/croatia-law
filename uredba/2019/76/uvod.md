@@ -1,0 +1,1 @@
+Na temelju članka 14. stavka 4. Zakona o odnosima Republike Hrvatske s Hrvatima izvan Republike Hrvatske (»Narodne novine«, br. 124/11 i 16/12) i članka 63. stavka 2. Zakona o sustavu državne uprave (»Narodne novine«, br. 150/11, 12/13 - Odluka Ustavnog suda Republike Hrvatske, 93/16 i 104/16), Vlada Republike Hrvatske je na sjednici održanoj 10. siječnja 2019. godine donijela

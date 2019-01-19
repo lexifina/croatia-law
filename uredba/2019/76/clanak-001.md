@@ -1,0 +1,2 @@
+# Članak 1.
+U Uredbi o unutarnjem ustrojstvu Središnjeg državnog ureda za Hrvate izvan Republike Hrvatske (»Narodne novine«, broj 2/17) u članku 12. iza riječi: »Glavno tajništvo obavlja pravne, poslove upravljanja ljudskim resursima, financijsko-planske, računovodstvene, organizacijske, te opće, pomoćne i tehničke poslove za potrebe Središnjeg državnog ureda;« dodaju se riječi: »obavlja poslove koordinatora za strateško planiranje sukladno propisu kojim se uređuje sustav strateškog planiranja i upravljanja razvojem Republike Hrvatske;«.
