@@ -1,0 +1,2 @@
+# Članak 4.
+Dopunska nacionalna izravna plaćanja u 2018. godini utvrđuju se sukladno Prilogu VI. Uredbe (EU) br. 1307/2013 i osiguranim sredstvima u Državnom proračunu Republike Hrvatske za 2018. godinu i projekcijama za 2019. i 2020. godinu (»Narodne novine«, br. 124/17 i 108/18) i Državnom proračunu Republike Hrvatske za 2019. godinu i projekcijama za 2020. i 2021. godinu (»Narodne novine«, broj 113/18) na razdjelu 060 Ministarstvo poljoprivrede za 2018. i 2019. godinu, na poziciji A819058 - ZPP Izravna plaćanja poljoprivrednim proizvođačima.
