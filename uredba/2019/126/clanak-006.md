@@ -1,0 +1,39 @@
+# Članak 6.
+Služba za prava nacionalnih manjina obavlja sljedeće poslove:
+- prati provedbu Ustavnog zakona o pravima nacionalnih manjina i koordinira izradu izvješća o njegovoj provedbi
+- prati provedbu Okvirne konvencije za zaštitu nacionalnih manjina i koordinira izradu izvješća o njenoj provedbi
+- sudjeluje u izradi, prati provedbu i izvješćuje o provedbi aktivnosti Operativnih programa za nacionalne manjine
+- koordinira izradu, prati i izvješćuje o provedbi Nacionalne strategije za uključivanje Roma i pripadajućeg Akcijskog plana, sudjeluje u predlaganju izmjena i dopuna navedenih dokumenata, odnosno u skladu sa smjernicama Europske unije, strateškim i programskim dokumentima, posebno osmišljava dugoročnu politiku ostvarivanja i unaprjeđivanja prava romske nacionalne manjine
+- koordinira radom i organizira sjednice Povjerenstva i Radne skupine Povjerenstva za praćenje Nacionalne strategije za uključivanje Roma
+- koordinira izradom i izvještava o provedbi Europskog okvira za Nacionalne strategije za uključivanje Roma;
+- programira, provodi i izvješćuje o financijskoj i sadržajnoj provedbi projekata financiranih iz fondova Europske unije (IPA program, Europski socijalni fond, Programi Unije) i drugih tuzemnih i međunarodnih donatora u području zaštite i promicanja prava pripadnika nacionalnih manjina;
+- sudjeluje u odborima i pratećim tijelima odbora za praćenje provedbe Partnerskog sporazuma između Republike Hrvatske i Europske unije, Europskog socijalnog fonda, Europskog fonda za regionalni razvoj, Europskog fonda za pomorstvo i ribarstvo i Programa unije
+- sudjeluje u procesima izrade višegodišnjih programskih i financijskih okvira Europske unije i Republike Hrvatske i pratećih razvojnih politika
+- provodi aktivnosti vezane uz održivost projekata provedenih u okviru programa CARDS, PHARE 2005, PHARE 2006, IPA 2008 i IPA 2012.
+- surađuje s tijelima Ujedinjenih naroda, Vijeća Europe, Organizacije za europsku sigurnost i suradnju i Europske unije u osnaživanju prava pripadnika romske nacionalne manjine i provedbi međunarodnih ugovora kao i europskog pravnog okvira te pratećih političkih okvira i inicijativa te u aktivnostima unapređenja međunarodnih i europskih standarda zaštite prava pripadnika romske nacionalne manjine
+- objedinjuje preporuke, očitovanja mišljenja, izvješća i drugih pismena tijela državne uprave sukladno traženju Agencije Europske unije za temeljna prava
+- sudjeluje u radu Međuvladinih mješovitih odbora za zaštitu nacionalnih manjina temeljem potpisanih bilateralnih sporazuma Republike Hrvatske s Mađarskom, Talijanskom Republikom, Republikom Srbijom, Crnom Gorom i Makedonijom
+- provodi unutarnje evaluacijske postupke te pruža administrativnu, stručnu i tehničku podršku unutarnjim i vanjskim revizorima u području iz djelokruga Službe
+- izrađuje i provodi interne procedure postupanja s ciljem unapređenja provedbe aktivnosti i projekata iz djelokruga Službe
+- surađuje s nadležnim tijelima na nacionalnoj, lokalnoj i područnoj (regionalnoj) razini u pitanjima ostvarivanja i osnaživanja prava pripadnika nacionalnih manjina te u svrhu unapređenja nacionalnih standarda njihove zaštite
+- surađuje s organizacijama civilnog društva i mrežama organizacija civilnog društva na međunarodnoj, europskoj, nacionalnoj i lokalnoj razini u pitanjima integracije i zaštite prava nacionalnih manjina
+- organizira i provodi edukacije stručnih djelatnika (zaposlenih u sustavima zaštite i podrške - poput socijalne skrbi, zdravstva, unutarnjih poslova, rada i zapošljavanja, obrazovanja, pravosuđa i sl.), djelatnika jedinica lokalne i područne (regionalne samouprave) kao i civilnog sektora s ciljem zaštite i promocije prava nacionalnih manjina
+- osmišljava preventivne aktivnosti uključujući i javne kampanje s ciljem podizanja svijesti pripadnika nacionalnih manjina o svojim pravima, senzibiliziranja javnosti i smanjivanja društvenih predrasuda kao i edukativne aktivnosti i aktivnosti jačanja kapaciteta pripadnika nacionalnih manjina s posebnim naglaskom na djecu i mlade
+- organizira i provodi edukativne i druge aktivnosti za vijeća i predstavnike nacionalnih manjina i predstavnike tijela jedinica lokalne i područne (regionalne) samouprave s ciljem podizanja učinkovitosti njihova rada
+- prati ostvarivanje prava vijeća i predstavnika nacionalnih manjina te suradnju udruga i ustanova nacionalnih manjina s institucijama u njihovim matičnim državama
+- pruža financijsku podršku, u okviru raspoloživih sredstava, djelovanju udruga nacionalnih manjina s ciljem daljnjeg unaprjeđenja njihovih prava te zaštite i promicanja kulturnog, nacionalnog, jezičnog i vjerskog identiteta
+- analizira izvješća o radu i utrošku sredstava, doznačenih iz državnog proračuna s pozicije Ureda za različite aktivnosti udruga nacionalnih manjina koje se bave očuvanjem kulturne baštine, jezika i identiteta; obavlja terenske izvide s ciljem utvrđivanja činjeničnog stanja u vezi s radom udruga i namjenskim korištenjem doznačenih sredstava
+- sudjeluje u izradi izvješća o provedbi međunarodnih i europskih ugovora i konvencija u nadležnosti drugih tijela državne uprave u području iz djelokruga Službe
+- daje stručna mišljenja i objašnjenja, izrađuje stručne podloge i analize u vezi s provedbom Ustavnog zakona o pravima nacionalnih manjina, Nacionalne strategije za uključivanje Roma i pripadajućeg Akcijskog plana
+- prati propise u Republici Hrvatskoj te međunarodne dokumente, daje stručna mišljenja, primjedbe i prijedloge na nacrte prijedloga zakona i drugih propisa u područjima iz djelokruga Službe
+- sudjeluje u izradi Strateškog plana Ureda, izvješća o provedbi Strateškog plana Ureda te u izradi proračuna i izvješća o izvršenju proračuna, u dijelu iz djelokruga Službe; koordinira izradom i izrađuje objedinjena izvješća Ureda
+- izrađuje nacrte podzakonskih propisa i opisa poslova radnih mjesta za Ured
+- izrađuje i ažurira plan klasifikacijskih oznaka i brojčanih oznaka stvaratelja i primatelja pismena te posebni popis gradiva s medijima i rokovima čuvanja za Ured, sukladno važećim propisima o uredskom poslovanju i arhivskoj djelatnosti
+- obavlja pravne, stručne i savjetodavne poslove u vezi s provedbom zakona i drugih propisa iz područja radnopravnih i službeničkih odnosa te poslove planiranja i upravljanja ljudskim potencijalima u Uredu
+- organizira provedbu javnih natječaja, oglasa i internih oglasa za prijam državnih službenika te provodi postupak prijma osoba na stručno osposobljavanje bez zasnivanja radnog odnosa
+- daje stručna mišljenja, primjedbe i prijedloge na nacrte prijedloga zakona i drugih propisa iz djelokruga drugih tijela državne uprave
+- obavlja poslove koji se odnose na rješavanje u upravnim stvarima iz područja pristupa informacijama, koordinira izradu odgovora na upite u svrhu osiguravanja prava na pristup informacijama
+- organizira i koordinira postupke savjetovanja sa zainteresiranom javnošću u postupcima donošenja dokumenata iz djelokruga Službe
+- zaprima predstavke i pritužbe građana u području prava nacionalnih manjina te postupa po istima; daje stručna mišljenja i odgovara na upite institucija, medija i građana u područjima iz djelokruga Službe
+- sadržajno priprema, izrađuje i ažurira mrežne stranice Ureda iz djelokruga Službe te
+- obavlja i druge poslove koje Službi povjeri ravnatelj Ureda.

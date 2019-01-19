@@ -1,0 +1,28 @@
+# Članak 5.
+Služba za ljudska prava obavlja sljedeće poslove:
+- koordinira izradu, prati i izvješćuje o provedbi Nacionalnog programa zaštite i promicanja ljudskih prava, Nacionalnog plana za borbu protiv diskriminacije i pratećih akcijskih planova, Nacionalnog plana za suzbijanje trgovanja ljudima, Akcijskog plana za integraciju osoba kojima je odobrena međunarodna zaštita
+- koordinira radom i organizira sjednice Operativnog tima i Nacionalnog odbora za suzbijanje trgovanja ljudima
+- koordinira radom i organizira sastanke i sjednice Stalnog povjerenstva za provedbu integracije stranaca u hrvatsko društvo i Radne skupine za provedbu zadaća Stalnog povjerenstva za provedbu integracije stranaca u hrvatsko društvo, u okviru kojih se izrađuju prijedlozi nacionalnih strateških dokumenata te o radu Stalnog povjerenstva podnosi izvješće Vladi Republike Hrvatske
+- predlaže Vladi Republike Hrvatske donošenje Plana razmještaja jednom godišnje sukladno utvrđenim potrebama za osobe kojima je odobrena međunarodna zaštita
+- koordinira radom i organizira sjednice Povjerenstva za ljudska prava Vlade Republike Hrvatske
+- koordinira radom Radne skupine za praćenje zločina iz mržnje; prikuplja i objavljuje podatke o zločinima iz mržnje te surađuje s organizacijama civilnoga društva, Organizacijom za europsku sigurnost i suradnju i drugim međunarodnim organizacijama vezano uz pitanja zločina iz mržnje
+- u suradnji s Ministarstvom unutarnjih poslova vodi objedinjenu bazu podataka identificiranih žrtava trgovanja ljudima u Republici Hrvatskoj
+- financira projekte i programe organizacija civilnoga društva u području zaštite i promicanja ljudskih prava te prati njihovu provedbu
+- prati preporuke pučkog pravobranitelja i koordinira izradu izvješća o njihovoj provedbi
+- prati rad županijskih koordinacija za ljudska prava
+- koordinira aktivnosti tijela državne uprave i organizacija civilnog društva na području suzbijanja trgovanja ljudima te provodi mjere za suzbijanje trgovanja ljudima iz nadležnosti Ureda
+- koordinira rad ministarstava, nevladinih organizacija i drugih tijela koja sudjeluju u postupku uključivanja u društvo osoba kojima je odobrena međunarodna zaštita (azilanti i stranci pod supsidijarnom zaštitom), surađuje s jedinicama lokalne i područne (regionalne) samouprave vezano za uključivanje osoba kojim je odobrena međunarodna zaštita u lokalnu zajednicu
+- djeluje u sklopu Europske mreže nacionalnih izvjestitelja i ekvivalentnih mehanizama (NREM) pri Europskoj komisiji i surađuje s međunarodnim institucijama na području suzbijanja trgovanja ljudima, izrađuje izvješća o provedbi međunarodnih instrumenata za suzbijanje trgovanja ljudima koje je Republika Hrvatska ratificirala
+- surađuje s međunarodnim institucijama na području integracije migranata i sudjeluje u radu Europske integracijske mreže (European Integration Network - EIN)
+- organizira i provodi edukacije stručnih djelatnika uključenih u direktan rad s ranjivim skupinama odnosno stručnih djelatnika zaposlenih u sustavima zaštite i podrške, poput socijalne skrbi, zdravstva, unutarnjih poslova, rada i zapošljavanja, obrazovanja, pravosuđa i dr. te djelatnika civilnog sektora koji su direktno uključeni u rad s ranjivim skupinama
+- sudjeluje u izradi izvješća o provedbi međunarodnih i europskih ugovora i konvencija u nadležnosti drugih tijela državne uprave u području iz djelokruga Službe
+- prati propise u Republici Hrvatskoj te međunarodne dokumente, daje stručna mišljenja, primjedbe i prijedloge na nacrte prijedloga zakona i drugih propisa u područjima iz djelokruga Službe
+- programira, provodi i izvješćuje o financijskoj i sadržajnoj provedbi projekata financiranih iz fondova Europske unije (Europski socijalni fond; Fond za azil, migracije i integraciju; Programi Unije i dr.) i drugih tuzemnih i međunarodnih donatora u području zaštite i promicanja ljudskih prava, sudjeluje u odborima i pratećim tijelima odbora za praćenje provedbe Fonda za azil, migracije i integraciju
+- provodi aktivnosti vezane uz održivost projekata provedenih u okviru programa IPA 2009, IPA 2010 FFRAC, IPA 2012 FFRAC i AMIF: jačanje sustava integracije putem podizanja svijesti o integracijskim izazovima, jačanje kapaciteta dionika te jačanja koordinativnih aktivnosti
+- provodi unutarnje evaluacijske postupke te pruža administrativnu, stručnu i tehničku podršku unutarnjim i vanjskim revizorima u području iz djelokruga Službe
+- izrađuje i provodi interne procedure postupanja s ciljem unapređenja provedbe aktivnosti i projekata iz djelokruga Službe
+- sudjeluje u izradi Strateškog plana Ureda, izvješća o provedbi Strateškog plana Ureda te u izradi proračuna i izvješća o izvršenju proračuna, u dijelu iz djelokruga Službe
+- organizira i koordinira postupke savjetovanja sa zainteresiranom javnošću u postupcima donošenja dokumenata iz djelokruga Službe
+- zaprima predstavke i pritužbe građana u području ljudskih prava te postupa po istima, daje stručna mišljenja i odgovara na upite institucija, medija i građana u područjima iz djelokruga Službe
+- sadržajno priprema, izrađuje i ažurira mrežne stranice Ureda iz djelokruga Službe te
+- obavlja i druge poslove koje Službi povjeri ravnatelj Ureda.
