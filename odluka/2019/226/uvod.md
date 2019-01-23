@@ -1,0 +1,1 @@
+Na temelju članka 15. Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 2019. godinu (»Narodne novine«, broj 113/18), a u vezi s člankom 58. Zakona o proračunu (»Narodne novine«, br. 87/08, 136/12 i 15/15), Vlada Republike Hrvatske je na sjednici održanoj 23. siječnja 2019. godine donijela
