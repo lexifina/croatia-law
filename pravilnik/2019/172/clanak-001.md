@@ -1,0 +1,2 @@
+# Članak 1.
+Ovim Pravilnikom propisuju se uvjeti i postupak za stjecanje prava na korištenje kopnenih voda radi obavljanja djelatnosti akvakulture u ribnjacima i drugim uzgajalištima vodenih organizama koji su u vlasništvu ili posjedu fizičkih ili pravnih osoba koje su registrirane za obavljanje djelatnosti akvakulture ili obavljaju djelatnost akvakulture u skladu s propisom o obiteljskom poljoprivrednom gospodarstvu.
