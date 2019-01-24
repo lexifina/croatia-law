@@ -1,0 +1,5 @@
+## IV. PRIJELAZNE I ZAVRŠNE ODREDBE
+# Članak 11.
+(1) Registri osnovani na temelju Odluke o registru institucija za platni promet i registrima institucija za elektronički novac (»Narodne novine«, br. 15/2011.) u skladu sa Zakonom o platnom prometu (»Narodne novine«, br. 133/2009. i 136/2012.) i Zakonom o elektroničkom novcu (»Narodne novine«, br. 139/2010.), spajaju se i nastavljaju voditi kao upisi u registar pružatelja platnih usluga i izdavatelja elektroničkog novca u skladu s ovom Odlukom.
+(2) Za subjekte upisa koji su dobili odobrenje za pružanje platnih usluga na temelju Zakona o platnom prometu (»Narodne novine«, br. 133/2009. i 136/2012.) i koji su se uskladili s odredbama Zakona o platnom prometu (»Narodne novine«, br. 66/2018.) u registar se upisuje da je usklađivanje provedeno.
+(3) Za subjekte upisa koji su dobili odobrenje za izdavanje elektroničkog novca na temelju Zakona o elektroničkom novcu (»Narodne novine«, br. 139/2010.) i koji su se uskladili s odredbama Zakona o elektroničkom novcu (»Narodne novine«, br. 64/2018.) u registar se upisuje da je usklađivanje provedeno.

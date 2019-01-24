@@ -1,0 +1,1 @@
+Na temelju članka 93. stavka 10. i članka 191. stavka 7. Zakona o platnom prometu (»Narodne novine«, br. 66/2018.), članka 28. stavka 9. i članka 110. stavka 7. Zakona o elektroničkom novcu (»Narodne novine«, br. 64/2018.) i članka 43. stavka 2. točke 9. Zakona o Hrvatskoj narodnoj banci (»Narodne novine«, br. 75/2008. i 54/2013.) guverner Hrvatske narodne banke donosi
