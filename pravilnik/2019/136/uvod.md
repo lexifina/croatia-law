@@ -1,0 +1,1 @@
+Na temelju članka 15. stavka 3. i članka 51. stavka 2. Zakona o sustavu strateškog planiranja i upravljanja razvojem Republike Hrvatske (»Narodne novine«, br. 123/17), ministrica regionalnoga razvoja i fondova Europske unije donosi

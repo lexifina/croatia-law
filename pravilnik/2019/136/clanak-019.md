@@ -1,0 +1,3 @@
+## Institucionalni okvir za praćenje i izvještavanje
+# Članak 19.
+Institucionalni okvir za praćenje i izvještavanje o provedbi akata strateškog planiranja od nacionalnog značaja i značaja za jedinice lokalne i područne (regionalne) samouprave čine javna tijela određena člankom 32. Zakona: Hrvatski Sabor, Vlada Republike Hrvatske, središnja tijela državne uprave, jedinice lokalne i područne (regionalne) samouprave, Koordinacijsko tijelo, koordinatori za strateško planiranje središnjih tijela državne uprave, regionalni i lokalni koordinatori te druga javna tijela koja imaju obveze i odgovornosti praćenja i izvještavanja o provedbi akata strateškog planiranja sukladno Zakonu.

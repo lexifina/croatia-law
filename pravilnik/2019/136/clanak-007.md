@@ -1,0 +1,3 @@
+# Članak 7.
+(1) Godišnje izvješće o napretku u provedbi nacionalne razvojne strategije je izvješće o provedbi strateških ciljeva i ostvarivanju pokazatelja uspješnosti iz nacionalne razvojne strategije koje Koordinacijsko tijelo jednom godišnje podnosi Vladi Republike Hrvatske na temelju podataka o provedbi koje mu dostavljaju središnja tijela državne uprave te, prema potrebi, jedinice lokalne i područne (regionalne) samouprave.
+(2) Sadržaj godišnjeg izvješća o napretku u provedbi nacionalne razvojne strategije te detaljne tehničke i metodološke upute za njegovo popunjavanje bit će utvrđeni Priručnikom o strateškom planiranju.
