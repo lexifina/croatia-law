@@ -1,0 +1,1 @@
+Na temelju članka 15. stavka 3. Zakona o profesionalnoj rehabilitaciji i zapošljavanju osoba s invaliditetom (»Narodne novine«, br. 157/13, 152/14 i 39/18), Vlada Republike Hrvatske je na sjednici održanoj 23. siječnja 2019. godine donijela
