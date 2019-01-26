@@ -1,0 +1,1 @@
+Na temelju članka 3. stavka 6., članka 4. stavka 2., članka 7. stavka 5. i članka 16. stavka 13. Zakona o udžbenicima i drugim obrazovnim materijalima za osnovnu i srednju školu (»Narodne novine«, broj 116/2018), ministrica znanosti i obrazovanja donosi

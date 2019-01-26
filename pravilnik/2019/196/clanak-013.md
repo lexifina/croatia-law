@@ -1,0 +1,9 @@
+## Način rada stručnog povjerenstva
+# Članak 13.
+(1) Zadaće stručnog povjerenstva su utvrđivanje usklađenosti udžbenika za osnovnu i srednju školu s odredbama Zakona o udžbenicima i drugim obrazovnim materijalima za osnovnu i srednju školu, predmetnim kurikulumom, pripadajućim kurikulumskim dokumentima te standardima i zahtjevima propisanim ovim pravilnikom.
+(2) Članovi stručnog povjerenstva donose pojedinačno stručno mišljenje te ga u roku od 15 dana od dana zaprimanja prijave za procjenu udžbenika dostavljaju ministarstvu nadležnom za obrazovanje (u daljnjem tekstu: ministarstvo) elektroničkim putem.
+(3) Pojedinačno stručno mišljenje iz stavka 2. ovoga članka sadrži informacije namijenjene podnositelju prijave za procjenu udžbenika (u daljnjem tekstu: podnositelj), kao i informacije namijenjene ministarstvu.
+(4) Informacije iz stavka 3. ovoga članaka namijenjene podnositelju stručno povjerenstvo putem ministarstva prosljeđuje podnositelju koji je dužan u roku od 15 dana od primitka posljednjeg pojedinačnog stručnog mišljenja ispraviti nedostatke i dostaviti udžbenik ministarstvu, s odgovorom na sve komentare svakog člana stručnog povjerenstva.
+(5) Dorađeni udžbenik s jasno navedenim izmjenama i komentare stručno povjerenstvo zajednički analizira te u roku od sedam dana od dana zaprimanja dorađenog udžbenika donosi konačno stručno mišljenje o udžbeniku s obrazloženjem koje sadrži jasne razloge donošenja takvog stručnog mišljenja.
+(6) Stručno povjerenstvo konačno stručno mišljenje donosi većinom glasova ukupnog broja članova stručnog povjerenstva.
+(7) Ako član stručnog povjerenstva iz bilo kojeg razloga ne može izvršiti stručnu procjenu udžbenika u predviđenom roku ili se utvrdi da je u sukobu interesa, ministar ga može razriješiti i u stručno povjerenstvo imenovati zamjenskog člana.

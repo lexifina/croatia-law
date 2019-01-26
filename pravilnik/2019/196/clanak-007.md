@@ -1,0 +1,9 @@
+## Likovno-grafički zahtjevi
+# Članak 7.
+(1) Elementi vizualnog dizajna potiču učenika na daljnje korištenje i učenje, pazeći pritom da količina i vrsta primijenjenih statičnih i multimedijalnih elemenata pridonosi razumijevanju sadržaja i ne ometa pažnju korisnika te su izrađeni prema standardima struke i primjereni razvojnoj dobi učenika kojemu su namijenjeni.
+(2) Statični (slike, grafike, ilustracije, fotografije i sl.) i dinamični elementi (multimedija, animacije, simulacije, audio i video zapisi, interaktivni elementi i sl.) kvalitetni su, jasni, sadržajno povezani, opisani nazivom i, prema potrebi, popratnim tekstom. Zvuk koji prati sadržaj je jasan, a odgovarajući zvučni zapisi kvalitetni, jezično i pravogovorno pravilni.
+(3) Multimedijski sadržaj je optimiziran za uporabu na webu (omogućavati što kraće vrijeme učitavanja), odnosno na uređaju korisnika (biti što veće kvalitete, uz najmanje moguće zauzeće diskovnog prostora).
+(4) Vizualno sučelje je strukturalno konzistentno, daje poticajni spoznajni sadržaj i pridonosi kvalitetnom korisničkom iskustvu. Korisnik se intuitivno i s lakoćom služi i ulazi u interakciju sa sadržajem, bez suvišnog proučavanja uputa ili pokušaja i pogrešaka pri izvršavanju jednostavnih akcija.
+(5) U elektroničkom dijelu udžbenika u pravilu je osiguran opis slike (alternativni tekst u kodu dostupan čitaču ekrana ili zvučni opis) kako bi se olakšalo praćenje sadržaja učenicima oštećenog vida.
+(6) Oblikovanje teksta i tablica u elektroničkom dijelu udžbenika u pravilu je prilagodljivo učenicima s disleksijom i drugim teškoćama - izbor fonta, slobodne desne margine, razmak između redaka, kontrasta i sl., kao i formatiranje teksta u kraćim odlomcima kako bi se održala pažnja čitatelja.
+(7) Kako bi se učenicima s teškoćama olakšala uporaba sadržaj audiozapisa, u pravilu je vidljiv i u tekstualnom obliku (transkript), odnosno na videomaterijalu dostupni su titlovi.
