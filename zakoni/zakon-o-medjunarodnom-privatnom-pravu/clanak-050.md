@@ -1,0 +1,5 @@
+## Odnosi roditelja i djece
+# Članak 50.
+(1) Nadležnost suda Republike Hrvatske u stvarima roditeljske skrbi određuje se prema poglavlju II. Uredbe Vijeća (EZ) br. 2201/2003 od 27. studenoga 2003. o nadležnosti, priznavanju i izvršenju sudskih odluka u bračnim sporovima i u stvarima povezanim s roditeljskom odgovornošću kojom se stavlja izvan snage Uredba (EZ) br. 1347/2000 (SL L 338, 23. 12. 2003.) i Haškoj konvenciji o nadležnosti, mjerodavnom pravu, priznanju, ovrsi i suradnji u odnosu na roditeljsku odgovornost i o mjerama za zaštitu djece iz 1996. (»Narodne novine – Međunarodni ugovori«, br. 5/09.).
+(2) Odredbe Uredbe iz stavka 1. ovoga članka primjenjuju se i u stvarima roditeljske skrbi kada dijete ima, u smislu te Uredbe, uobičajeno boravište u državi koja nije članica Europske unije, pod pretpostavkom da se u tom predmetu ne primjenjuje Konvencija iz stavka 1. ovoga članka.
+(3) U stvarima roditeljske skrbi sud Republike Hrvatske nadležan je supsidijarno, u smislu članka 14. Uredbe iz stavka 1. ovoga članka, i kada je dijete državljanin Republike Hrvatske.
