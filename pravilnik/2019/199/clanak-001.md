@@ -1,0 +1,2 @@
+# Članak 1.
+Ovim Pravilnikom propisuje se postupak po kojemu postupa mirovinsko osiguravajuće društvo (dalje u tekstu: Društvo), kada namjerava s korisnikom starosne ili prijevremene starosne osnovne mirovine, ostvarene prema Zakonu o mirovinskom osiguranju (»Narodne novine«, br. 157/13, 151/14, 33/15, 93/15, 120/16, 18/18, 62/18 i 115/18), ugovoriti isplatu mirovine i djelomičnu jednokratnu isplatu u visini 15% od ukupno primljene doznake iz obveznog mirovinskog fonda za isplatu mirovine, prije njezina umanjenja za naknadu Društvu.
