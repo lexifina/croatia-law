@@ -1,0 +1,7 @@
+## Lakše povrede narušavanja načela i pravila utvrđenih Kodeksom agronomske etike i Kodeksom dobre agronomske prakse
+# Članak 38.
+(1) Lakšom povredom narušavanja načela i pravila utvrđenih Kodeksom agronomske etike i Kodeksom dobre agronomske prakse smatra se osobito:
+- neizvršavanje ili nesavjesno izvršavanje projektiranja, izrade, procjene preuzetih obveza, savjetovanja iz područja poljoprivrede, krajobrazne arhitekture i ruralnog razvoja uz prekoračenja načela dobre agronomske prakse, koje s obzirom na važnost ugrožena dobra, prirodu povrijeđene dužnosti, ima posljedice u manjoj materijalnoj šteti ili druge posljedice s obzirom na okolnosti pod kojima je radnja učinjena,
+- propuštanje poduzimanja mjera i radnji ili nesavjesno, nepravodobno ili nemarno izvršavanje kontrola pri izvođenju i praćenju preuzetih obveza savjetovanja te radova iz područja poljoprivrede, krajobrazne arhitekture i ruralnog razvoja uz prekoračenja načela dobre agronomske prakse, koje s obzirom na važnost ugrožena dobra, prirodu povrijeđene dužnosti, ima posljedice u manjoj materijalnoj šteti ili druge posljedice s obzirom na okolnosti pod kojima je radnja učinjena
+- druge lakše povrede narušavanja načela i pravila utvrđenim Kodeksom agronomske etike i Kodeksom dobre agronomske prakse koje se pobliže utvrđuju aktima Komore.
+(2) Za lakše povrede iz stavka 2. ovoga članka Časni sud može izreći opomenu ili novčanu kaznu u visini od 500,00 kn do 5.000,00 kn.

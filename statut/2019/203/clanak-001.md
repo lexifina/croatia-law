@@ -1,0 +1,6 @@
+## HRVATSKE AGRONOMSKE KOMORE
+## I. OPĆE ODREDBE
+## Sadržaj statuta
+# Članak 1.
+(1) Ovim Statutom pobliže se uređuju ustrojstvo, upravljanje i zadaće, te rad Hrvatske agronomske komore (dalje u tekstu: Komora), način odlučivanja, biranja i trajanja, odnosno opoziva mandata članova u tijelima Komore, sazivanje i održavanje sjednica tijela Komore, strukovni razredi i smjerovi unutar strukovnog razreda, djelovanje i odgovornost tijela, zastupanje i predstavljanje Komore, postupak upisa u Popis ovlaštenih agronoma, način vođenja Popisa ovlaštenih agronoma, strukovni zadaci, područje rada i ovlaštenja agronoma, prava i dužnosti ovlaštenih agronoma, lakše i teže povrede dužnosti i ugleda ovlaštenih agronoma i kazne za te povrede, stegovni postupak za utvrđivanje povrede dužnosti i ugleda ovlaštenih agronoma, tijela za pokretanje i vođenje stegovnog postupka, ustrojstvo i djelokrug Stručne službe, ustrojstvo, djelokrug i način rada Odbora za upis, financiranje rada i upravljanje sredstvima, javnost rada Komore te druga pitanja značajna za njezine članove i rad Komore u skladu sa Zakonom o Hrvatskoj agronomskoj komori (dalje u tekstu: Zakon).
+(2) Riječi i pojmovni sklopovi koji imaju rodno značenje, bez obzira na to jesu li korišteni u muškom ili ženskom rodu, odnose se na jednak način na muški i ženski rod.
