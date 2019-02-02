@@ -1,0 +1,3 @@
+# Članak 1.
+Ovim Pravilnikom uređuje se sadržaj i oblik informacija koje su vjerovnik i kreditni posrednik dužni pravodobno pružiti potrošaču prije prihvaćanja ponude ili sklapanja ugovora o kreditu.
+Odredbe ovog Pravilnika ne primjenjuju se na kreditnu instituciju i kreditnu uniju kojima odobrenje za odobravanje kredita izdaje Hrvatska narodna banka na temelju zakona kojima se uređuje poslovanje tih institucija, kao ni na kreditnog posrednika koji na temelju zakona kojim se uređuje stambeno potrošačko kreditiranje pruža ili namjerava pružati usluge kreditnog posredovanja i /ili savjetodavne usluge.

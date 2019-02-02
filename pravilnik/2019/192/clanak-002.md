@@ -1,0 +1,3 @@
+# Članak 2.
+Sadržaj i oblik informacija iz članka 5. stavka 1. Zakona o potrošačkom kreditiranju (»Narodne novine«, br. 75/09, 112/12, 143/13, 147/13, 09/15, 78/15, 102/15 i 52/16; dalje u tekstu: Zakon) vezane za nužne informacije prije sklapanja ugovora o kreditu uređeni su Obrascem o informacijama prije sklapanja ugovora o kreditu koji se nalazi u Prilogu I. ovoga Pravilnika.
+Sadržaj i oblik informacija iz članka 6. stavka 1. Zakona vezane za nužne informacije prije sklapanja određenih posebnih ugovora o kreditu uređeni su Obrascem o informacijama prije sklapanja određenih posebnih ugovora o kreditu koji se nalazi u Prilogu II. ovoga Pravilnika.

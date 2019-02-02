@@ -1,0 +1,2 @@
+# Članak 3.
+Informacije iz članka 2. ovoga Pravilnika pružaju se potrošaču na obrascima propisanima ovim Pravilnikom u pisanom obliku ili nekom drugom trajnom mediju prema članku 2. točki 13. Zakona, koji potrošaču omogućuje pohranu isključivo njemu upućenih informacija na način da ih može koristiti u razdoblju relevantnom za te informacije u skladu s odredbama Zakona, te koji omogućuje reprodukciju pohranjenih informacija bez ikakve promjene u skladu s posebnim propisima, uključujući propise koji uređuju elektroničke isprave i elektronički potpis.
