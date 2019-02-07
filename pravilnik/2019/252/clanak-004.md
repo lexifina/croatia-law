@@ -1,0 +1,5 @@
+## PRILOV
+# Članak 4.
+(1) Plovila autorizirana za ribolov plivaricom srdelarom smiju zadržati, iskrcati i staviti na tržište tunu ulovljenu kao prilov. U ribolovu plivaricom srdelarom prilov tune smije biti naviše do 5% mase ukupnog ulova na iskrcaju.
+(2) Po iskorištenju kvote za prilov, Ministarstvo će na svojoj internetskoj stranici https://ribarstvo.mps.hr/ objaviti obavijest o iskorištenju kvote raspoređene za prilov sukladno tablici iz Priloga 1. ovoga Pravilnika, nakon čega plovilima iz stavka 1. ovoga članka nije dozvoljeno zadržati, iskrcati i staviti na tržište tunu ulovljenu kao prilov.
+(3) Na plovila iz stavka 1. ovog članka primjenjuju se odredbe o iskrcaju, prekrcaju, prometu i uzorkovanju iz Pravilnika o ulovu, uzgoju i prometu tune (Thunnus thynnus) (»Narodne novine« broj 4/17. i 15/17.) i odredbe Pravilnika o Programu dokumentacije koja prati plavoperajnu tunu (Thunnus thynnus), igluna (Xiphias gladius) i velikooku tunu (Thunnus obesus) na tržištu (»Narodne novine«, br. 13/15.) kao i odredbe Pravilnika kojim se regulira sljedivost plavoperajne tune i igluna.

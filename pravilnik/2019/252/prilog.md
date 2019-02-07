@@ -1,0 +1,10 @@
+PRILOG 1.
+Raspodjela Državne kvote na gospodarski ribolov i negospodarski ribolov kao i na potkategorije gospodarskog i negospodarskog ribolova u 2019. godini
+KATEGORIJA RIBOLOVA | POTKATEGORIJA | UKUPNO (t)
+GOSPODARSKI RIBOLOV | PLIVARICE TUNOLOVKE | 750
+UDIČARSKI ALATI | 80
+PRILOV | 12,29
+NEGOSPODARSKI RIBOLOV | ŠPORTSKI RIBOLOV | 5
+REKREACIJSKI RIBOLOV ZA TROFEJNE PRIMJERKE | 12,5
+RIBOLOV U ZNANSTVENE SVRHE | 3
+UKUPNO | 862,79
