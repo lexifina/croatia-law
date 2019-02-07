@@ -1,0 +1,4 @@
+# Članak 24.
+(1) Kliničko ispitivanje za koje je zahtjev za odobrenje podnesen prije početka primjene Uredbe (EU) br. 536/2014 nastavlja se provoditi prema odredbama Zakona o lijekovima (»Narodne novine«, br. 76/13. i 90/14.), a najduže tri godine od početka primjene Uredbe (EU) br. 536/2014.
+(2) Kliničko ispitivanje za koje je zahtjev za odobrenje podnesen nakon početka primjene Uredbe (EU) br. 536/2014, u razdoblju do godinu dana od početka primjene Uredbe (EU) br. 536/2014, može započeti prema zahtjevu naručitelja ispitivanja sukladno odredbama Zakona o lijekovima (»Narodne novine«, br. 76/13. i 90/14.).
+(3) Kliničko ispitivanje za koje je zahtjev podnesen sukladno stavku 2. ovoga članka nastavlja se provoditi prema odredbama Zakona o lijekovima (»Narodne novine«, br. 76/13. i 90/14.) najduže tri godine od početka primjene Uredbe (EU) br. 536/2014.

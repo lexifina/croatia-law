@@ -1,0 +1,2 @@
+# Članak 18.
+Inspekcijski nadzor provode ovlašteni farmaceutski inspektori Ministarstva na svim mjestima povezanim s provedbom kliničkih ispitivanja, a koja uključuju: mjesta na kojima se provodi kliničko ispitivanje, laboratorije koji se koriste za analize u kliničkom ispitivanju, ustanove sponzora i/ili ugovornih istraživačkih organizacija ili tvrtki uključenih u ugovore o provedbi kliničkog ispitivanja te Središnjeg etičkog povjerenstva.

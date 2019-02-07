@@ -1,0 +1,6 @@
+# Članak 14.
+(1) Kliničko ispitivanje može se provoditi samo uz prethodno ishođenje informiranog pristanka ispitanika.
+(2) Osoba koja obavlja razgovor sukladno članku 29. stavku 2. točki (c) Uredbe (EU) br. 536/2014 i sudjeluje u postupku dobivanja informiranog pristanka ispitanika može biti isključivo doktor medicine ili doktor dentalne medicine (glavni ispitivač ili ispitivač kojem je glavni ispitivač delegirao navedenu aktivnost).
+(3) Maloljetnik koji je sposoban stvoriti vlastito mišljenje i procijeniti informacije koje su mu dane tijekom razgovora iz stavka 2. ovoga članka, uz zakonskog zastupnika i sam potpisuje informirani pristanak.
+(4) Iznimno od stavka 1. ovoga članka i članka 29. Uredbe (EU) br. 536/2014, ispitanik se može uključiti u kliničko ispitivanje bez prethodnog ishođenja informiranog pristanka u hitnoj situaciji samo ako su zadovoljeni uvjeti iz članka 35. Uredbe (EU) br. 536/2014.
+(5) Kada se u kliničkom ispitivanju predviđa skupljanje bioloških uzoraka, potencijalni sudionik mora biti obaviješten o budućoj uporabi uzoraka, osobi odgovornoj za prikupljanje, kao i mjestu gdje će se uzorci čuvati te kako će se postupati s uzorcima nakon završetka kliničkog ispitivanja.
