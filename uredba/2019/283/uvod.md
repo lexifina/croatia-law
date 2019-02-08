@@ -1,0 +1,1 @@
+Na temelju članka 16. stavka 10. Zakona o stambenom zbrinjavanju na potpomognutim područjima (»Narodne novine«, broj 106/18), Vlada Republike Hrvatske je na sjednici održanoj 7. veljače 2019. godine donijela
