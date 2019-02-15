@@ -1,0 +1,3 @@
+## Neuporaba kao način obrane u postupcima zbog povrede
+# Članak 21.
+Nositelj žiga ima pravo zahtijevati zabranu uporabe znaka samo u opsegu u kojem prava nositelja u vrijeme podnošenja tužbe zbog povrede ne podliježu mogućnosti opoziva u skladu s člankom 61. ovoga Zakona. Ako tuženik to zatraži, nositelj žiga mora dokazati da je tijekom razdoblja od pet godina prije datuma podnošenja tužbe žig bio u stvarnoj uporabi kako je predviđeno člankom 19. ovoga Zakona u vezi s proizvodima ili uslugama za koje je registriran i koji se navode kao opravdanje za tužbu, ili da postoje opravdani razlozi za neuporabu, pod uvjetom da je postupak registracije žiga bio dovršen najmanje pet godina prije datuma podnošenja tužbe.

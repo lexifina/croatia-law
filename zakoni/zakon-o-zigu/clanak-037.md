@@ -1,0 +1,5 @@
+## Međunarodno pravo prvenstva
+# Članak 37.
+(1) Podnositelj prijave za nacionalnu registraciju žiga ili njegov pravni sljednik koji je prvi put podnio prijavu u bilo kojoj ili za bilo koju državu ugovornicu Pariške unije ili državu članicu Sporazuma o osnivanju Svjetske trgovinske organizacije, može se pozvati na datum prvog podnošenja za potrebe podnošenja prijave za nacionalnu registraciju žiga za isti žig u odnosu na proizvode ili usluge koji su istovjetni s onima ili sadržani u onima za koje je prijava podnesena, pod uvjetom da prijavu u Republici Hrvatskoj podnese u roku od šest mjeseci od datuma prvoga podnošenja.
+(2) Ako se zahtijeva međunarodno pravo prvenstva, mora se u prijavi navesti datum, broj i država prethodne prijave i proizvode ili usluge u odnosu na koje se zahtijeva pravo prvenstva.
+(3) Podnositelj prijave, uz zahtjev za priznanje prava prvenstva, mora podnijeti presliku prve prijave i njezin prijevod na hrvatski jezik najkasnije u roku od tri mjeseca od dana podnošenja zahtjeva za priznanje prava prvenstva.

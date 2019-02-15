@@ -1,0 +1,4 @@
+## Senioritet
+# Članak 110.
+(1) Ako se za žig Europske unije u skladu s člankom 39. ili, kada je to primjereno, člankom 40. Uredbe o žigu Europske unije zahtijeva senioritet nacionalne registracije žiga ili međunarodne registracije žiga koje imaju učinak u Republici Hrvatskoj, a kojega se nositelj odrekao ili je dopustio da istekne, ništavost ili opoziv žiga koji je temelj zahtjeva za senioritet može se u skladu s odredbama ovoga Zakona utvrditi naknadno pod uvjetom da su se ništavost ili opoziv mogli proglasiti u trenutku kad je došlo do odricanja žiga ili njegova isteka. U tom slučaju senioritet prestaje proizvoditi svoje učinke.
+(2) U registar žigova upisuje se podatak da je u odnosu na nacionalno registrirani žig zatražen senioritet žiga Europske unije, kao i podatak da je senioritet prestao proizvoditi učinke.

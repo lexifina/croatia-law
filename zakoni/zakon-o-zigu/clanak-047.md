@@ -1,0 +1,8 @@
+## Neuporaba kao način obrane u postupcima povodom prigovora
+# Članak 47.
+(1) Ako podnositelj prijave za registraciju žiga na koju je podnesen prigovor to izričito zatraži, nositelj ranijega žiga koji je podnio prigovor mora dokazati da je tijekom petogodišnjeg razdoblja koje je prethodilo datumu podnošenja ili datumu prvenstva prijave žiga raniji žig bio u stvarnoj uporabi kako je predviđeno člankom 19. ovoga Zakona u odnosu na proizvode ili usluge za koje je registriran i koje navodi kao razlog za svoj prigovor, ili da postoje opravdani razlozi za neuporabu, pod uvjetom da je raniji žig na taj datum bio registriran najmanje pet godina.
+(2) Zavod nositelja ranijeg žiga zaključkom poziva da se očituje na zahtjev iz stavka 1. ovoga članka u roku od 60 dana od dana primitka zaključka.
+(3) Ako se nositelj ranijeg žiga ne očituje na zahtjev za dokaz uporabe ili ne dokaže uporabu ili opravdane razloge neuporabe ranijeg žiga, prigovor se odbija rješenjem i postupak povodom prijave za registraciju žiga nastavlja se nakon pravomoćnosti toga rješenja.
+(4) Ako se nositelj ranijeg žiga očituje na zahtjev za dokaz uporabe toga žiga u propisanom roku, Zavod će proslijediti podnositelju prijave za registraciju žiga primjerak očitovanja i pozvati ga da se očituje u roku od 60 dana od dana primitka poziva.
+(5) Nakon proteka roka iz stavka 4. ovoga članka Zavod odlučuje o osnovanosti prigovora na temelju raspoloživih činjenica i dokaza iz prethodno dostavljene dokumentacije i očitovanja.
+(6) Ako je raniji žig rabljen u odnosu samo na dio proizvoda ili usluga za koje je registriran, za potrebe ispitivanja osnovanosti prigovora smatra se da je registriran samo za taj dio proizvoda ili usluga.

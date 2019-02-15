@@ -1,0 +1,8 @@
+## Proglašenje međunarodne registracije žiga ništavom i opoziv međunarodne registracije žiga
+# Članak 104.
+(1) U postupcima povodom prijedloga za proglašavanje međunarodne registracije žiga ništavom i zahtjeva za opoziv međunarodne registracije žiga Zavod obavješćuje nositelja međunarodne registracije žiga o podnesenom prijedlogu ili zahtjevu i zaključkom mu nalaže da odredi opunomoćenika koji u roku od 60 dana od dana primitka zaključka mora Zavodu dostaviti punomoć o zastupanju.
+(2) Rok iz stavka 1. ovoga članka ne može se produžavati.
+(3) Ako je udovoljeno uvjetima iz stavka 1. ovoga članka, Zavod putem ovlaštenog opunomoćenika dostavlja nositelju međunarodne registracije žiga primjerak prijedloga ili zahtjeva i poziva ga na očitovanje u roku od 60 dana od dana primitka takvoga primjerka.
+(4) Rok iz stavka 3. ovoga članka može se na zahtjev produžiti najviše za 60 dana.
+(5) Ako nositelj međunarodne registracije ne poduzme radnje iz stavaka 1. ili 3. ovoga članka u propisanim rokovima, Zavod rješenjem usvaja prijedlog za proglašavanje žiga ništavim ili zahtjev za opoziv međunarodne registracije žiga u granicama podnesenog prijedloga ili zahtjeva.
+(6) Ako je u postupku povodom prijedloga za proglašavanje međunarodne registracije žiga ništavom ili u postupku povodom zahtjeva za opoziv međunarodne registracije žiga doneseno rješenje o proglašenju takvog žiga ništavim ili rješenje o opozivu žiga za sve ili dio proizvoda ili usluga, Zavod dostavlja Međunarodnom uredu izjavu o proglašenju međunarodne registracije ništavom ili izjavu o opozivu međunarodne registracije žiga u Republici Hrvatskoj u odnosu na sve ili dio proizvoda i usluga nakon pravomoćnosti takvoga rješenja.

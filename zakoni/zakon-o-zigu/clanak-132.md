@@ -1,0 +1,13 @@
+## Privremene mjere zbog povrede žiga
+# Članak 132.
+(1) Na zahtjev nositelja žiga koji učini vjerojatnim da mu je žig povrijeđen ili da prijeti opasnost od povrede žiga, sud može odrediti bilo koju privremenu mjeru koja je usmjerena na prestanak ili sprječavanje povrede, među ostalim:
+– naložiti protivniku osiguranja da prestane odnosno odustane od radnji kojima se povređuje žig; ovaj nalog sud može izreći i protiv posrednika čije usluge koriste treće osobe da bi povrijedile žig
+– odrediti oduzimanje ili predaju robe za koju se sumnja da je protupravno obilježena žigom kako bi se spriječilo njezino stavljanje u promet ili njezin promet na tržištu.
+(2) Na zahtjev nositelja žiga koji učini vjerojatnim da mu je žig povrijeđen u obavljanju djelatnosti radi pribavljanja gospodarske ili ekonomske koristi, te da mu zbog takve povrede prijeti nenadoknadiva šteta, osim privremenih mjera iz stavka 1. ovoga članka sud može odrediti i zapljenu pokretnina ili nekretnina u vlasništvu protivnika osiguranja koje nisu u neposrednoj vezi s povredom, kao i zabranu raspolaganja sredstvima na računu kod financijskih institucija i zabranu raspolaganja drugom imovinom.
+(3) Radi određivanja i provedbe privremene mjere iz stavka 2. ovoga članka sud može zahtijevati od protivnika osiguranja ili drugih osoba koje time raspolažu dostavu bankovnih, financijskih i drugih ekonomskih podataka, ili pristup drugim potrebnim podacima i dokumentima. Sud je dužan osigurati čuvanje tajnosti te zabraniti svaku zlouporabu ovih podataka.
+(4) Privremena mjera iz stavka 1. ovoga članka može se izreći i bez obavješćivanja protivnika osiguranja ako predlagatelj osiguranja učini vjerojatnim da u protivnom privremena mjera neće biti učinkovita, ili da prijeti opasnost od nastanka nenadoknadive štete.
+(5) Privremena mjera iz stavka 2. ovoga članka može se izreći i bez obavješćivanja protivnika osiguranja ako predlagatelj osiguranja učini vjerojatnim da u protivnom privremena mjera neće biti učinkovita ili da je s obzirom na osobito teške okolnosti povrede to potrebno.
+(6) Ako je privremena mjera izrečena bez obavješćivanja protivnika osiguranja, sud će rješenje o privremenoj mjeri, odmah po njezinoj provedbi, dostaviti protivniku osiguranja.
+(7) U rješenju kojim se određuje privremena mjera sud će odrediti i trajanje te mjere, a ako je mjera određena prije podnošenja tužbe, i rok u kojemu predlagatelj osiguranja mora podnijeti tužbu radi opravdanja mjere.
+(8) Sud će odrediti rok iz stavka 7. ovoga članka tako da iznosi najviše 31 kalendarski dan od dana dostave rješenja predlagatelju osiguranja.
+(9) Odredbe ovoga članka ne utječu na mogućnost određivanja privremenih mjera prema drugim odredbama ovoga Zakona i općeg propisa kojim se uređuje postupak osiguranja.

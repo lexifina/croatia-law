@@ -1,0 +1,7 @@
+## Zahtjev za naknadu štete, za uobičajenu naknadu i za koristi stečene bez osnove
+# Članak 128.
+(1) Protiv osobe koja je neovlaštenim poduzimanjem neke od radnji iz članka 11. ovoga Zakona nositelju žiga prouzročila štetu, nositelj žiga može tužbom zahtijevati naknadu štete prema općim pravilima o naknadi štete i pravilima o naknadi štete prema ovome Zakonu.
+(2) Protiv osobe koja je bez osnove u pravnom poslu, odluci suda ili zakonu, neovlaštenim poduzimanjem neke od radnji iz članka 11. ovoga Zakona povrijedila žig te time stekla neku korist, nositelj žiga može tužbom zahtijevati vraćanje ili naknađivanje tih koristi prema općim pravilima o stjecanju bez osnove.
+(3) Zahtjevi iz stavaka 1. i 2. ovoga članka međusobno se ne isključuju.
+(4) Prilikom određivanja visine naknade štete sud će uzeti u obzir sve odgovarajuće čimbenike, kao što su negativne gospodarske posljedice, uključujući izmaklu korist, koje je pretrpio oštećenik, svaku nepoštenu dobit koju je ostvario počinitelj povrede i, kada to smatra primjerenim, elemente koji nisu gospodarski čimbenici, kao što je neimovinska šteta koja je nositelju žiga nanesena neovlaštenim poduzimanjem neke od radnji iz članka 11. ovoga Zakona kojom se povređuje žig.
+(5) Umjesto određivanja visine naknade štete prema stavku 4. ovoga članka sud može, kada to smatra primjerenim, odrediti visinu naknade štete protiv počinitelja povrede u visini iznosa naknade koja bi se u tim okolnostima mogla zahtijevati da je počinitelj povrede zatražio odobrenje za korištenje žiga.

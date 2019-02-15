@@ -1,0 +1,6 @@
+## Ispitivanje u odnosu na apsolutne razloge odbijanja
+# Članak 42.
+(1) Ako se utvrdi da postoji neki od apsolutnih razloga za odbijanje registracije žiga prema članku 9. stavku 1. ovoga Zakona, Zavod pisanim putem obavještava podnositelja prijave za registraciju žiga o razlozima odbijanja i poziva ga da se očituje u roku od 60 dana od dana primitka takve obavijesti i podnese dokaze o mogućim novim činjenicama koje bi mogle utjecati na konačnu odluku.
+(2) Na zahtjev podnositelja prijave, rok iz stavka 1. ovoga članka može se produžiti najviše za 60 dana.
+(3) Ako se podnositelj prijave za registraciju žiga ne očituje u propisanom roku na obavijest o odbijanju u odnosu na sve proizvode ili usluge za koje je zatražena registracija ili u svom očitovanju ne ospori razloge takva odbijanja, donosi se rješenje o odbijanju registracije u cijelosti.
+(4) Ako se podnositelj prijave za registraciju žiga ne očituje u propisanom roku na obavijest o odbijanju registracije žiga u odnosu na dio proizvoda ili usluga ili ako se u postupku povodom očitovanja na obavijest o odbijanju u odnosu na sve proizvode ili usluge za koje je zatražena registracija utvrdi da znak ne udovoljava uvjetima za registraciju u odnosu na samo dio proizvoda ili usluga za koje je zatražena registracija, donosi se djelomično rješenje o odbijanju registracije.

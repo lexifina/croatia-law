@@ -1,0 +1,6 @@
+## Zahtjevi zbog povrede žiga
+# Članak 126.
+(1) Protiv osobe koja je neovlaštenim poduzimanjem neke od radnji iz članka 11. ovoga Zakona povrijedila žig, nositelj žiga može tužbom zahtijevati utvrđenje povrede, prestanak povrede odnosno zabranu takve i slične povrede ubuduće.
+(2) Protiv osobe koja je neovlaštenim poduzimanjem radnje prouzročila ozbiljnu prijetnju da će žig povrijediti, nositelj žiga može tužbom zahtijevati prestanak poduzimanja te radnje i zabranu povrede žiga.
+(3) Zahtjevi iz stavaka 1. i 2. ovoga članka mogu se postaviti i protiv posrednika koji pruža usluge koje treća osoba koristi u radnjama kojima se povređuje žig odnosno od kojih prijeti povreda žiga.
+(4) Ako pri uvozu proizvoda kojima se vrijeđa žig pošiljatelj djeluje u trgovačkom prometu, bez obzira na to radi li se o robi namijenjenoj za komercijalne svrhe ili za osobnu uporabu primatelja, nositelj žiga ima pravo tužbom protiv deklaranta i/ili primatelja robe zahtijevati utvrđenje povrede žiga kako bi se proizvodi mogli uništiti pod carinskim nadzorom u skladu s propisima Europske unije o carinskoj provedbi prava intelektualnog vlasništva. Utvrđenje povrede žiga u skladu s ovim člankom ne utječe na odgovornost deklaranta ili posjednika robe za povredu žiga.

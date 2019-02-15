@@ -1,0 +1,5 @@
+## Pravo zabrane pripremnih radnji povezanih s korištenjem pakiranja ili drugih sredstava
+# Članak 12.
+Kada postoji rizik da bi se pakiranje, naljepnice, etikete, sigurnosna obilježja ili oznake ili obilježja ili oznake autentičnosti, ili bilo koja druga sredstva na kojima je žig istaknut moglo upotrebljavati u vezi s proizvodima ili uslugama te da bi se takvom uporabom počinila povreda prava nositelja žiga u skladu s člankom 11. stavcima 2. i 3. ovoga Zakona, nositelj toga žiga ima pravo zahtijevati da se zabrane sljedeće radnje poduzete tijekom poslovanja u trgovačkom prometu:
+1. isticanje znaka istovjetnog ili sličnog žigu na pakiranju, naljepnicama, etiketama, sigurnosnim obilježjima ili oznakama ili obilježjima ili oznakama autentičnosti, ili na bilo kojim drugim sredstvima na kojima žig može biti istaknut
+2. nuđenje ili stavljanje na tržište, ili skladištenje u te svrhe, ili uvoz ili izvoz, pakiranja, naljepnica, etiketa, sigurnosnih obilježja ili oznaka ili obilježja ili oznaka autentičnosti, ili bilo kojih drugih sredstava na kojima je žig istaknut.

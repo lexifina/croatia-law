@@ -1,0 +1,5 @@
+## Pravo nositelja kasnije registriranog žiga da se radi obrane uključi u postupak zbog povrede prava
+# Članak 18.
+(1) U postupcima zbog povrede prava nositelj žiga nije ovlašten zahtijevati zabranu uporabe kasnije registriranog žiga ako se taj kasniji žig ne bi proglasio ništavim u skladu s člankom 66. stavkom 3., člankom 67., ili člankom 68. stavcima 1. i 2. ovoga Zakona.
+(2) U postupcima zbog povrede prava nositelj žiga nije ovlašten zahtijevati zabranu uporabe kasnije registriranog žiga Europske unije ako kasniji žig ne bi bio proglašen ništavim u skladu s člankom 60. stavcima 1., 3. ili 4., člankom 61. stavcima 1. ili 2. ili člankom 64. stavkom 2. Uredbe o žigu Europske unije.
+(3) Ako nositelj žiga nije ovlašten zahtijevati zabranu uporabe kasnije registriranog žiga u skladu sa stavcima 1. i 2. ovoga članka, nositelj kasnije registriranog žiga nema pravo zahtijevati zabranu uporabe ranijeg žiga u postupcima zbog povrede, iako se na to ranije pravo više nije moguće pozivati protiv kasnijeg žiga.
