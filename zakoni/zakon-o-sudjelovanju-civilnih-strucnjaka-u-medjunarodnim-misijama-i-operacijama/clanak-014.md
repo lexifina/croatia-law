@@ -1,0 +1,3 @@
+# Članak 14.
+(1) Civilni stručnjaci u međunarodnoj misiji ili operaciji, ovisno o stanju na području djelovanja i u skladu s mandatom međunarodne misije ili operacije, usklađuju aktivnosti s Oružanim snagama Republike Hrvatske i s drugim ovlaštenim predstavnicima Republike Hrvatske u području svoga djelovanja.
+(2) Oružane snage Republike Hrvatske angažirane u međunarodnoj misiji ili operaciji, ovisno o situaciji na području djelovanja i u skladu s mandatom međunarodne misije ili operacije u kojoj djeluju, mogu civilnim stručnjacima pružiti logističku i drugu pomoć, posebno u izvanrednim situacijama, u kojima je ugrožena njihova sigurnost te pri izvođenju razvojnih i humanitarnih aktivnosti od interesa za Republiku Hrvatsku.

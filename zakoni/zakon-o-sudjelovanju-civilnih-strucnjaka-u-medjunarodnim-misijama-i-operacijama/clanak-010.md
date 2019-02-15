@@ -1,0 +1,3 @@
+# Članak 10.
+(1) Prava i obveze civilnih stručnjaka uređuju se odredbama ovoga Zakona, propisa donesenih na temelju ovoga Zakona, ugovorom iz članka 8. ovoga Zakona, pravila institucija i/ili tijela Europske unije ili međunarodne organizacije koja provodi međunarodnu misiju ili operaciju te posebnim zakonima i drugim propisima.
+(2) Civilni stručnjak koji je državni službenik ili namještenik državnih tijela odnosno službenik ili namještenik javnih službi nakon povratka iz međunarodne misije ili operacije ima pravo rasporeda na odgovarajuće poslove sukladno stečenom zvanju, radnom iskustvu i poslovima na kojima je prethodno radio.

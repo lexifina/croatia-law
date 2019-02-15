@@ -1,0 +1,8 @@
+# Članak 5.
+(1) Na temelju odluke iz članka 4. stavka 1. ovoga Zakona nadležna tijela provode izbor civilnih stručnjaka za sudjelovanje u međunarodnim misijama ili operacijama raspisivanjem javnog ili internog poziva za izbor civilnih stručnjaka za sudjelovanje u međunarodnim misijama ili operacijama.
+(2) Stupanj obrazovanja, odgovarajuće stručno znanje i radno iskustvo, razina zdravstvene sposobnosti i posebni uvjeti koje civilni stručnjaci moraju ispunjavati za sudjelovanje u pojedinoj međunarodnoj misiji ili operaciji propisuju se pozivom iz stavka 1. ovoga članka.
+(3) Prilikom raspisivanja poziva iz stavka 1. ovoga članka nadležna tijela dužna su primjenjivati odredbe zakona kojima se uređuje ravnopravnost spolova, kao i odgovarajuće mjere u svezi s provedbom rezolucija Vijeća sigurnosti Ujedinjenih naroda o ženama, miru i sigurnosti.
+(4) Nakon provedbe javnog ili internog poziva iz stavka 1. ovoga članka odluku o upućivanju civilnih stručnjaka u međunarodnu misiju ili operaciju donosi čelnik nadležnog tijela koje ih upućuje uz prethodnu suglasnost ministra nadležnog za vanjske poslove.
+(5) Čelnik nadležnog tijela može za obavljanje poslova iz stavka 4. ovoga članka ovlastiti druge osobe posebnom odlukom u skladu s aktima o unutarnjem ustrojstvu.
+(6) Prenošenjem ovlasti iz stavka 5. ovoga članka prenosi se i odgovornost, čime se ne isključuje odgovornost čelnika.
+(7) Postupak raspisa poziva iz stavka 1. ovoga članka, postupak i upućivanje civilnog stručnjaka, vrijeme sudjelovanja u međunarodnoj misiji ili operaciji i sadržaj ugovora iz članka 8. stavka 1. ovoga Zakona detaljnije se uređuje uredbom Vlade Republike Hrvatske.
