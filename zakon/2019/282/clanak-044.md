@@ -1,0 +1,3 @@
+## PRIJELAZNA I ZAVRŠNA ODREDBA
+# Članak 44.
+Obvezuje se ministar da u roku od dvije godine od stupanja na snagu ovoga Zakona donese provedbene propise iz članka 14. stavka 6. koji je dodan člankom 9. ovoga Zakona, članka 18. stavka 14. koji je izmijenjen člankom 11. ovoga Zakona, članka 21. stavka 4. koji je izmijenjen člankom 14. ovoga Zakona, članka 25. stavka 9. koji je dodan člankom 18. ovoga Zakona, članka 33. stavka 6. koji je izmijenjen člankom 21. ovoga Zakona, članka 43. stavka 12. koji je dodan člankom 25. ovoga Zakona, članka 56. stavka 6. koji je izmijenjen člankom 28. ovoga Zakona i članka 56.a stavka 4. koji je dodan člankom 29. ovoga Zakona.
