@@ -1,0 +1,1 @@
+Zakon o izmjenama i dopuni Zakona o provedbi Uredbe (EU) br. 511/2014 o mjerama usklađivanja za korisnike Protokola iz Nagoye o pristupu genetskim resursima te poštenoj i pravičnoj podjeli dobiti koja proizlazi iz njihova korištenja u Uniji
