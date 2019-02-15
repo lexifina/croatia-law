@@ -1,0 +1,3 @@
+## II. TEMELJNA NAČELA PRIKUPLJANJA, KORIŠTENJA I OBRADE ZDRAVSTVENIH PODATAKA I INFORMACIJA
+# Članak 4.
+Prikupljanje, korištenje i obrada zdravstvenih podataka i informacija mora se provoditi po načelima zakonitosti prikupljanja i obrade zdravstvenih podataka i informacija, izvornosti i neposrednosti, vjerodostojnosti, istinitosti i pouzdanosti zdravstvenih podataka i informacija, standardizacije obrade i interoperabilnosti zdravstvenih podataka, sljedivosti i ažurnosti zdravstvenih podataka, dostupnosti i zaštite zdravstvenih podataka i informacija te učinkovitosti, smanjenja količine i ograničenja pohrane zdravstvenih i drugih osobnih podataka.

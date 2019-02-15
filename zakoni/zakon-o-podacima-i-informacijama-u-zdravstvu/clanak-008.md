@@ -1,0 +1,5 @@
+# Članak 8.
+(1) Standardizacija obrade zdravstvenih podataka ostvaruje se na način da je standardiziran svaki postupak vezan uz nastanak, prikupljanje, bilježenje, preuzimanje, korištenje, prosljeđivanje, pohranu i arhiviranje zdravstvenih podataka u njihovu ukupnom ciklusu na razini zdravstvenog sustava.
+(2) Pravne i fizičke osobe i/ili sustavi u zdravstvu moraju ostvarivati zajedničke standarde kao jedinstven sustav neovisno o razini integracije.
+(3) Međusobno djelovanje osoba i sustava iz stavka 2. ovoga članka u odnosu na prikupljanje i obradu zdravstvenih podataka i informacija mora biti pravno, organizacijski, procesno, semantički i tehnički usklađeno i standardizirano, uz primjenu jedinstvenih metodoloških principa i statističkih te drugih standarda.
+(4) Interoperabilnost zdravstvenih podataka ostvaruje se njihovom razmjenom elektroničkim putem, korištenjem unaprijed dogovorenih strukturiranih poruka kao standardnog načina razmjene zdravstvenih podataka, osim u iznimnim slučajevima kada elektronička razmjena podataka iz opravdanih razloga nije moguća.

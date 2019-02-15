@@ -1,0 +1,3 @@
+## I. OPĆE ODREDBE
+# Članak 1.
+Ovim Zakonom utvrđuju se prava, obveze i odgovornosti pravnih i fizičkih osoba zdravstvenog sustava Republike Hrvatske u području upravljanja podacima i informacijama u zdravstvu, definiraju se pojmovi i temeljna načela prikupljanja, korištenja i obrade zdravstvenih podataka i informacija, nadležna tijela, kvaliteta i obrada zdravstvenih podataka, njihova zaštita te inspekcijski i stručni nadzor, radi sveobuhvatnog i djelotvornog korištenja zdravstvenih podataka i informacija u zdravstvenoj zaštiti radi unaprjeđenja i očuvanja zdravlja stanovništva u Republici Hrvatskoj.

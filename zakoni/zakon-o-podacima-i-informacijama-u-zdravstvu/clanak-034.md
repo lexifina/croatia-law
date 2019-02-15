@@ -1,0 +1,5 @@
+# Članak 34.
+(1) Stručni nadzor nad radom pružatelja zdravstvene zaštite i drugih ovlaštenih pravnih i fizičkih osoba u područjima informacijske sigurnosti, upravljanja zdravstvenom informacijskom infrastrukturom i primjene obvezujućih procesnih, tehničkih, organizacijskih i semantičkih standarda obrade podataka za stručna i poslovna područja u zdravstvu provode državni službenici ministarstva nadležnog za zdravstvo ustrojstvene jedinice u čijem je djelokrugu e-Zdravstvo.
+(2) Poslove stručnog nadzora iz stavka 1. ovoga članka može obavljati osoba koja je završila preddiplomski i diplomski sveučilišni studij ili integrirani preddiplomski i diplomski stručni studij ili specijalistički diplomski stručni studij tehničke, zdravstvene, pravne ili druge društvene struke s najmanje tri godine radnog iskustva u struci i položenim državnim stručnim ispitom.
+(3) Službenici koji provode stručni nadzor obvezni su se kontinuirano educirati u području rada.
+(4) Način provođenja stručnog nadzora iz stavka 1. ovoga članka pravilnikom propisuje ministar nadležan za zdravstvo.

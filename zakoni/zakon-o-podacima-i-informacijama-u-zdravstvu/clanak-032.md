@@ -1,0 +1,5 @@
+# Članak 32.
+(1) Odgovorne osobe voditelja obrade i izvršitelja obrade zdravstvenih i drugih osobnih podataka te osobe koje oni ovlaste obvezni su čuvati povjerljivost podataka iz zdravstvene dokumentacije pacijenata u CEZIH-u i NAJS-u sukladno posebnim propisima koji uređuju zaštitu osobnih podataka i tajnost podataka, a isto je obveza i svih drugih osoba koje podatke iz zdravstvene dokumentacije pacijenta saznaju u obavljanju dužnosti ili poslova u CEZIH-u i NAJS-u te u zdravstvenom sustavu Republike Hrvatske.
+(2) U skladu sa stavkom 1. ovoga članka obvezni su postupati i ovlašteni proizvođači odnosno pružatelji programske podrške CEZIH-a i NAJS-a te sve druge osobe s ovlastima pristupa sustavu ili zdravstvenim podacima.
+(3) Osobe iz stavka 1. ovoga članka obvezne su čuvati povjerljivost podataka iz zdravstvene dokumentacije pacijenta i nakon prestanka dužnosti ili radnog odnosa temeljem kojega su imali pravo pristupa tim podacima i informacijama.
+(4) Osobe iz stavka 1. ovoga članka obvezne su potpisati izjavu o povjerljivosti prije dodjele ovlaštenja za obradu podataka.

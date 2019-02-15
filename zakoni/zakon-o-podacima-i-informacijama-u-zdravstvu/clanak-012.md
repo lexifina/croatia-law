@@ -1,0 +1,3 @@
+# Članak 12.
+(1) Načelo ograničenja pohrane zdravstvenih i drugih osobnih podataka ostvaruje se na način da zdravstveni i drugi osobni podaci moraju biti čuvani u obliku koji omogućava identifikaciju ispitanika samo onoliko dugo koliko je potrebno u svrhe radi kojih se ti podaci obrađuju.
+(2) Podaci iz stavka 1. ovoga članka mogu se pohraniti na dulja razdoblja ako će se obrađivati isključivo u svrhe arhiviranja u javnom interesu, u svrhe znanstvenog ili povijesnog istraživanja ili u statističke svrhe, što podliježe provedbi propisanih tehničkih i organizacijskih mjera radi zaštite prava i sloboda ispitanika.
