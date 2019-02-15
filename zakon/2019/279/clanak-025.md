@@ -1,0 +1,2 @@
+# Članak 25.
+Danom stupanja na snagu zakona kojim će se urediti provedba Uredbe (EU) 2017/2394 Europskog parlamenta i Vijeća od 12. prosinca 2017. o suradnji između nacionalnih tijela odgovornih za izvršavanje propisâ o zaštiti potrošača i o stavljanju izvan snage Uredbe (EZ) br. 2006/2004 prestaju važiti odredbe članka 123. i 136. Zakona o zaštiti potrošača (»Narodne novine«, br. 41/14. i 110/15.).

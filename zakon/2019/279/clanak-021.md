@@ -1,0 +1,5 @@
+# Članak 21.
+Članak 139. mijenja se i glasi:
+»Novčanom kaznom u iznosu od 10.000,00 do 15.000,00 kuna kaznit će se za prekršaj odgovorna osoba u pravnoj osobi s javnom ovlasti ili jedinici lokalne samouprave ako:
+1. pravna osoba s javnom ovlasti koja obavlja regulatorne poslove u pogledu javnih usluga iz članka 24. stavka 1. ovoga Zakona ne osnuje savjetodavno tijelo u čijem sastavu mora biti i predstavnik udruge za zaštitu potrošača i ako donosi odluke bez mišljenja savjetodavnog tijela ili ih donosi na netransparentan, neobjektivan i diskriminirajući način (članak 25. stavak 1.)
+2. jedinica lokalne samouprave koja odlučuje o pravima i obvezama potrošača korisnika - javnih usluga iz članka 24. stavka 1. ovoga Zakona ne osnuje savjetodavno tijelo u čijem sastavu mora biti i predstavnik udruge za zaštitu potrošača, ako djeluje i ima sjedište na području jedinice područne (regionalne) samouprave na čijem se području nalazi jedinica lokalne samouprave iz članka 25. stavka 2. ovoga Zakona i ako donosi odluke bez mišljenja savjetodavnog tijela ili ih donosi na netransparentan, neobjektivan i diskriminirajući način (članak 25. stavci 2. i 3.).«.
