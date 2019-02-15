@@ -1,0 +1,5 @@
+# Članak 60.
+Članak 117. mijenja se i glasi:
+»(1) Osoba upisana u očevidnik iz članaka 14., 15., 109. i 121. ovoga Zakona mora potvrditi namjeru obavljanja djelatnosti u narednom razdoblju Obrascem o statusu obavljanja odgovarajuće djelatnosti ili postupka tijelu iz članaka 109. i 121. ovoga Zakona u roku od godinu dana od dana prvog upisa, odnosno u roku od godinu dana od dana dostave zadnjeg obrasca o statusu obavljanja djelatnosti.
+(2) Pravna ili fizička osoba - obrtnik je dužna dostavom obrasca iz stavka 1. ovoga članka obavijestiti tijelo iz članaka 109. i 121. ovoga Zakona o svakoj promjeni podataka temeljem kojih je izvršen upis u očevidnik iz članaka 14., 15., 109. i 121. ovoga Zakona u roku od 15 dana od nastale promjene.
+(3) Obrazac zahtjeva, sadržaj rješenja o upisu, način vođenja očevidnika iz članaka 14., 15., 110., 111., 112., 113., 115. i 121. ovoga Zakona te izgled obrasca o statusu obavljanja djelatnosti propisuje ministar pravilnikom iz članka 86. stavka 4. ovoga Zakona.«.

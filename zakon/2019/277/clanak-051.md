@@ -1,0 +1,5 @@
+# Članak 51.
+Iza članka 105. dodaje se članak 105.a s naslovom iznad njega koji glase:
+»Otpad iz rudarske industrije
+Članak 105.a
+Klasifikacija postrojenja za gospodarenje otpadom iz rudarske industrije, opći uvjeti gospodarenja otpadom iz rudarske industrije, sprječavanje velikih nesreća i informiranje javnosti, obrazac zahtjeva i dozvole za gospodarenje otpadom iz rudarske industrije, način vraćanja otpada iz rudarske industrije u rudarskim radovima otkopane prostore, način gradnje i upravljanja postrojenjem za gospodarenje otpadom iz rudarske industrije, postupak zatvaranja postrojenja za gospodarenje otpadom iz rudarske industrije i postupanje u fazi nakon zatvaranja postrojenja, mjere sprečavanja onečišćenja vode, zraka i tla od posljedica rada postrojenja za gospodarenje otpadom iz rudarske industrije, uvjeti za odgovornu osobu za gospodarenje otpadom iz rudarske industrije, inspekcijski nadzor, karakterizaciju otpada, način i oblik vođenja evidencija i izvještavanja propisuje ministar pravilnikom.«.

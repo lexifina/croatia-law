@@ -1,0 +1,4 @@
+# Članak 3.
+U članku 12. stavci 5. i 6. mijenjaju se i glase:
+»(5) Otpad koji u Katalogu nije određen kao opasni otpad smatra se opasnim otpadom ako se ispitivanjem utvrdi da posjeduje jedno ili više opasnih svojstava iz Priloga Uredbe (EU) br. 1357/2014 i Priloga Uredbe (EU) br. 2017/997.
+(6) Katalog otpada na način propisan Odlukom Komisije 2000/532/EZ koja zamjenjuje Odluku 94/3/EZ koja donosi popis otpada u skladu s člankom 1. točkom (a) Direktive Vijeća 75/442/EEZ o otpadu i Odluku Vijeća 94/904/EZ koja donosi popis opasnog otpada u skladu s člankom 1. stavkom 4. Direktive Vijeća 91/689/EEZ o opasnom otpadu, kategorizaciju za prekogranični promet otpadom, popis i određivanje opasnih svojstava otpada i količinu određenog otpada koja se smatra neznatnom propisuje ministar pravilnikom.«.

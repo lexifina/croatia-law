@@ -1,0 +1,16 @@
+# Članak 23.
+Članak 44. mijenja se i glasi:
+»(1) Proizvođač otpada i drugi posjednik otpada dužan je predati otpad osobi koja je ovlaštena za preuzimanje otpada sukladno članku 84. stavku 7. ovoga Zakona ili ga isporučiti izvan Republike Hrvatske.
+(2) Iznimno od stavka 1. ovoga članka, proizvođač otpada i drugi posjednik otpada nije dužan predati otpad osobi koja je ovlaštena za preuzimanje otpada sukladno članku 84. stavku 7. ovoga Zakona ili ga isporučiti izvan Republike Hrvatske u slučaju kada:
+1. obrađuje vlastiti otpad u okviru obavljanja djelatnosti oporabe, zbrinjavanja ili druge obrade otpada u skladu s člankom 84. stavcima 1., 2. i 4. ovoga Zakona,
+2. je proizvođač otpada fizička osoba koja obrađuje vlastiti biootpad biološkom aerobnom obradom (kućno kompostiranje) u skladu s člankom 9. stavkom 1. ovoga Zakona,
+3. je proizvođač otpadnog mulja nastalog radom uređaja za pročišćavanje otpadne vode koji vlastiti otpadni mulj predaje fizičkoj ili pravnoj osobi koja taj mulj koristi u poljoprivredi sukladno posebnom propisu koji uređuje korištenje mulja u poljoprivredi,
+4. je proizvođač patološkog otpada koji vlastiti patološki otpad predaje na zbrinjavanje osobi koja upravlja grobljem ili krematorijem sukladno posebnom propisu koji uređuje gospodarenje medicinskim otpadom,
+5. je proizvođač otpada pravna osoba ili fizička osoba - obrtnik čijim obavljanjem djelatnosti nastaje biološki razgradivi otpad i koji vlastiti biološki razgradivi otpad obrađuje biološkom aerobnom obradom (kompostiranjem) može to činiti bez ishođenja dozvole za gospodarenje otpadom u količini do 10.000 kg godišnje ako obradu vlastitog biološki razgradivog otpada obavlja na mjestu nastanka tog otpada i nastali kompost ne stavlja na tržište, već ga koristi na mjestu nastanka toga otpada.
+(3) Posjednik otpada koji predaje pošiljku otpada dužan je osobi koja preuzima tu pošiljku otpada, a koja je ovlaštena za preuzimanje otpada sukladno članku 84. stavku 6. ovoga Zakona, uz pošiljku otpada predati prateći list koji sadrži informacije o vrsti i količini otpada koji čini pošiljku, o osobama koje imaju pošiljku u posjedu, o vlasništvu nad pošiljkom i druge potrebne informacije o pošiljci.
+(4) Posjednik otpada koji je preuzeo pošiljku otpada u posjed dužan je prilikom preuzimanja pošiljke otpada potvrditi preuzimanje pošiljke ovjerom pratećeg lista.
+(5) Osoba koja ispunjava prateći list odgovorna je za točnost podataka koje navodi u pratećem listu.
+(6) Posjednik otpada je odgovoran za otpad koji ima u posjedu, a odgovornost posjednika otpada za predanu pošiljku otpada prestaje nakon što osoba koja je ovlaštena za preuzimanje otpada sukladno članku 84. stavku 7. ovoga Zakona na propisani način preuzme pošiljku otpada i to potvrdi ovjerom pratećeg lista ili dokumenta o prometu ako je otpad isporučen izvan Republike Hrvatske.
+(7) Posjednik otpada je dužan čuvati podatke o gospodarenju s otpadom najmanje tri godine od dana poduzimanja radnje s otpadom, odnosno 12 mjeseci ako se radi o prijevozu opasnog otpada.
+(8) Posjednik otpada je dužan dokaze i ostale relevantne podatke o poduzetim radnjama u gospodarenju otpadom učiniti dostupnim na uvid na zahtjev nadležnih tijela ili prethodnog posjednika otpada.
+(9) Obrazac pratećeg lista i iznimke od obveze predaje pratećeg lista propisuje ministar pravilnikom iz članka 86. stavka 4. ovoga Zakona.«.

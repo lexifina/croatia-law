@@ -1,0 +1,4 @@
+# Članak 11.
+Naslov iznad članka 25. briše se.
+Članak 25. mijenja se i glasi:
+»Odlagalište mora ispunjavati zahtjeve utvrđene zakonom kojim se uređuje potvrđivanje Ugovora između Kraljevine Belgije, Republike Bugarske, Češke Republike, Kraljevine Danske, Savezne Republike Njemačke, Republike Estonije, Irske, Grčke Republike, Kraljevine Španjolske, Francuske Republike, Talijanske Republike, Republike Cipra, Republike Latvije, Republike Litve, Velikog Vojvodstva Luksemburga, Republike Mađarske, Republike Malte, Kraljevine Nizozemske, Republike Austrije, Republike Poljske, Portugalske Republike, Rumunjske, Republike Slovenije, Slovačke Republike, Republike Finske, Kraljevine Švedske, Ujedinjene Kraljevine Velike Britanije i Sjeverne Irske (države članice Europske unije) i Republike Hrvatske o pristupanju Republike Hrvatske Europskoj uniji.«.

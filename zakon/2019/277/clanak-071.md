@@ -1,0 +1,8 @@
+# Članak 71.
+Članak 142. mijenja se i glasi:
+»(1) Nadzor nad primjenom ovoga Zakona i propisa donesenih na temelju ovoga Zakona u dijelu koji se odnosi na obveze proizvođača proizvoda, prekogranični promet otpadom te postupak posredovanja i trgovanja otpadom svaki u okviru svojih nadležnosti provode inspektori zaštite okoliša, ovlašteni službenici ministarstva nadležnog za carinsku upravu i ministarstva nadležnog za unutarnje poslove, ako ovim Zakonom nije određeno drukčije.
+(2) Nadzor nad primjenom ovoga Zakona i propisa donesenih na temelju ovoga Zakona u dijelu koji se odnosi na prijevoz otpada provode inspektori zaštite okoliša i ovlašteni službenici ministarstva nadležnog za unutarnje poslove svaki u okviru svoje nadležnosti.
+(3) Nadzor nad primjenom ovoga Zakona i propisa donesenih na temelju ovoga zakona u dijelu koji se odnosi na udovoljavanje propisanim uvjetima i označavanje proizvoda i ambalaže provode inspektori zaštite okoliša i tržišni inspektori svaki u okviru svoje nadležnosti.
+(4) Nadzor nad primjenom ovoga Zakona i propisa donesenih na temelju ovoga Zakona u dijelu koji se odnosi na gospodarenje komunalnim otpadom provodi komunalno redarstvo, ako ovim Zakonom nije određeno drukčije.
+(5) Prekršajni postupak koji ministarstvo nadležno za carinsku upravu provodi radi utvrđenih povreda odredbi ovoga Zakona i propisa donesenih temeljem ovoga Zakona smatraju se prekršajnim postupcima iz nadležnosti Carinske uprave sukladno propisu kojim se uređuje carinska služba.
+(6) Nadzor nad primjenom ovoga Zakona i propisa donesenih na temelju ovoga Zakona u dijelu koji se odnosi na gospodarenje otpadom iz rudarske industrije provode rudarski inspektori i inspektori zaštite okoliša svaki u okviru svoje nadležnosti.«.
