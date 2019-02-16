@@ -1,0 +1,1 @@
+Odluka o obustavi, nepokretanju postupaka naknade štete i o otpisu tražbina na ime naknade štete po osnovi nepripadno ostvarenih prava na rodiljne i roditeljske potpore te o podmirenju naknade štete iz obveznog zdravstvenog osiguranja
