@@ -1,0 +1,2 @@
+# Članak 2.
+Obujam i površina građevina u svrhu obračuna komunalnog doprinosa izračunavaju se prema podacima iz glavnog projekta koji je sastavni dio građevinske dozvole dobivenim od javnopravnog tijela koje je izdalo građevinsku dozvolu, glavnog projekta za građevinu koja se prema propisima o gradnji gradi bez građevinske dozvole na temelju glavnog projekta, odnosno prema podacima utvrđenim u postupku donošenja rješenja o komunalnom doprinosu za građevinu koja se prema propisima o gradnji gradi bez građevinske dozvole i bez glavnog projekta.
