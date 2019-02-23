@@ -1,0 +1,5 @@
+# Članak 36.
+(1) Statut Komore temeljni je opći akt Komore, a donosi ga Skupština Komore, uz prethodnu suglasnost ministra.
+(2) Statutom Komore uređuje se organizacija i ustrojstvo, zadaće, nadležnost, sastav, način izbora i odlučivanja tijela Komore, prava i obveze njezinih članova te sva druga pitanja važna za dostojanstvo struke i zaštitu članstva.
+(3) Statut Komore obvezno sadrži odredbe o: nazivu i sjedištu Komore, mjesnoj nadležnosti Komore, unutarnjem ustrojstvu, tijelima Komore, njihovu sastavu, ovlastima, načinu odlučivanja, uvjetima i načinu izbora i opoziva, trajanju mandata te odgovornosti članova, imovini i raspolaganju mogućom dobiti, načinu stjecanja imovine, ostvarivanju javnosti rada Komore, članstvu i članarini, pravima, obvezama članova, prestanku rada Komore te postupku s imovinom u slučaju prestanka rada Komore te odredbe kojima se pobliže propisuju i druga pitanja važna za rad Komore.
+(4) Etičkim kodeksom djelatnosti socijalnog rada utvrđuju se pravila ponašanja ovlaštenih socijalnih radnika i etička načela na temelju kojih postupaju ovlašteni socijalni radnici prilikom obavljanja djelatnosti socijalnog rada.

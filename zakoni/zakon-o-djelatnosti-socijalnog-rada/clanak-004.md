@@ -1,0 +1,2 @@
+# Članak 4.
+Cilj je obavljanja djelatnosti socijalnog rada osnaživanje pojedinaca, obitelji, grupa i zajednice te razvoj njihovih sposobnosti za samopomoć, poticanje socijalnih promjena, razvoj kvalitetnih i dostupnih socijalnih usluga, promicanje socijalne kohezije, zastupanje osjetljivih i obesnaženih društvenih skupina te otklanjanje zapreka s kojima se ljudi susreću u ostvarivanju svoje socijalne sigurnosti, postizanje socijalno pravednog društva koje je zasnovano na humanizmu i ljudskim pravima koje svim svojim članovima omogućava dostojanstven život.
