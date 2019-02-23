@@ -1,1 +1,0 @@
-Na temelju članka 110. stavka 7. Zakona o otvorenim investicijskim fondovima s javnom ponudom (»Narodne novine« broj 44/16, dalje: Zakon), Hrvatska agencija za nadzor financijskih usluga (dalje: Agencija) na sjednici Upravnog vijeća održanoj 13. travnja 2017. godine donijela je
