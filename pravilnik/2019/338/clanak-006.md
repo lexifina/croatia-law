@@ -1,0 +1,5 @@
+# Članak 6.
+Stručni nadzor nad muzejima, kao i nad zaštitom muzejske građe i dokumentacije, obavljaju matični muzeji ili drugi muzej koji Ministarstvo kulture ovlasti, a stručni nadzor nad radom matičnih muzeja i zaštitom njihove muzejske građe i muzejske dokumentacije provodi Ministarstvo kulture.
+Stručni nadzor redovito se obavlja sukladno godišnjem planu rada Vijeća Sustava muzeja, a može se provesti i na zahtjev Ministarstva kulture, Hrvatskog muzejskog vijeća i osnivača muzeja.
+O stručnom nadzoru sastavlja se pisano izvješće koje se sastoji od nalaza i mišljenja s prijedlogom mjera za otklanjanje uočenih nedostataka ili poboljšanja rada muzeja, a izvješće o stručnom nadzoru dostavlja se nadziranom muzeju i njegovom osnivaču, Ministarstvu kulture za muzeje kojima je osnivač Republika Hrvatska, Hrvatskom muzejskom vijeću, Muzejsko-dokumentacijskom centru u Zagrebu, te po potrebi i drugom nadležnom tijelu.
+Nadzirani muzej obvezan je postupiti sukladno izvješću o stručnom nadzoru i o tome obavijestiti nadležni matični muzej.
