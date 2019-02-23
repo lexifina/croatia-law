@@ -1,0 +1,6 @@
+## Izračun niže cijene udjela
+# Članak 5.
+(1) Izračun niže cijene udjela postoji kada je prvotno izračunata cijena udjela niža od naknadno točno utvrđene cijene udjela za isti dan.
+(2) U slučaju izračuna niže cijene udjela, UAIF je dužan nadoknaditi time nastalu štetu ulagateljima kojima je otkupio udjele u razdoblju pogrešnog izračuna, isplatom novčanih sredstava ili dodjelom udjela, neovisno o tome jesu li u trenutku isplate štete i dalje ulagatelji AIF-a ili ne. Društvo za upravljanje dužno je u pravilima AIF-a definirati situacije u kojima se naknada štete obavlja isplatom novčanih sredstava, a u kojima dodjelom udjela. Visina štete koju je UAIF dužan nadoknaditi jednaka je razlici između prvotno izračunate cijene udjela i naknadno točno utvrđene cijene udjela pomnoženoj s brojem otkupljenih udjela u razdoblju pogrešnog izračuna.
+(3) U slučaju izračuna niže cijene udjela, UAIF je dužan provesti ispravak broja dodijeljenih udjela ulagateljima koji su u razdoblju pogrešnog izračuna stjecali udjele u AIF-u.
+(4) Naknada štete iz stavka 2. ovoga članka neće se provoditi za one ulagatelje za koje je utvrđena visina nastale štete u razdoblju pogrešnog izračuna manja od 10 kuna kad je u pitanju AIF s javnom ponudom, 100 kn kad je u pitanju AIF s privatnom ponudom, odnosno 1.000 kn kad je u pitanju AIF rizičnog kapitala (s privatnom ponudom).

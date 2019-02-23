@@ -1,0 +1,2 @@
+# Članak 15.
+Odredbe ovoga Pravilnika koje se odnose na prekoračenje ograničenja ulaganja iz članka 217. stavka 6. Zakona primjenjuju se i za slučaj prekoračenja ograničenja ulaganja iz članka 217. stavka 3. Zakona koje traje dulje od isteka razdoblja predviđenih člankom 217. stavcima 3. i 4. Zakona. Danom nastupa prekoračenja ograničenja ulaganja smatra se prvi dan nakon isteka roka određenog člankom 217. stavcima 3. i 4. Zakona.

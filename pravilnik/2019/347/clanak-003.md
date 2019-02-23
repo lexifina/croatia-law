@@ -1,0 +1,5 @@
+## Bitna pogreška pri izračunu cijene udjela
+# Članak 3.
+(1) Postupak naknade štete kod pogrešnog izračuna cijene udjela koji je propisan ovim Pravilnikom provodi se kada razlika između prvotno izračunate i naknadno točno utvrđene cijene udjela za isti dan prelazi 1% vrijednosti prvotno izračunate cijene udjela (bitna pogreška pri izračunu cijene udjela).
+(2) Iznimno od stavka 1. ovoga članka, kod novčanih fondova koji posluju u skladu s Uredbom (EU) 2017/1131 Europskog parlamenta i Vijeća od 14. lipnja 2017. o novčanim fondovima, UAIF je dužan provesti postupak naknade štete kada razlika između prvotno izračunate i naknadno točno utvrđene cijene udjela za isti dan prelazi 0,3% vrijednosti prvotno izračunate cijene udjela, a kod obvezničkih fondova kada ta razlika prelazi 0,7%.
+(3) Postupak naknade štete kod bitne pogreške pri izračunu cijene udjela se sastoji od izrade plana naknade štete iz članka 7. ovoga Pravilnika, dostavljanja obavijesti iz članka 8. ovoga Pravilnika ulagateljima i naknade štete oštećenim ulagateljima i/ili AIF-u.
