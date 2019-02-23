@@ -1,0 +1,10 @@
+## GLAVA VII. IZVJEŠĆA, REGISTAR ŠTETA I NADZOR
+## Izvješća Državnog povjerenstva, općinskih, gradskih i županijskih povjerenstava te Gradskog povjerenstva Grada Zagreba
+# Članak 39.
+(1) Gradsko ili općinsko povjerenstvo putem Registra šteta podnosi županijskom povjerenstvu izvješće o utrošku sredstava za ublažavanje i djelomično uklanjanje posljedica prirodnih nepogoda dodijeljenih iz državnog proračuna Republike Hrvatske.
+(2) Osim izvješća iz stavka 1. ovoga članka, gradsko ili općinsko povjerenstvo županijskom povjerenstvu dostavlja i druge podatke u pisanom i/ili elektroničkom obliku koji osobito uključuju obrazloženja koja se odnose na utrošak i namjensko korištenje novčanih sredstava dodijeljenih iz državnog proračuna Republike Hrvatske, uključujući i izvore sredstava iz fondova Europske unije.
+(3) Županijsko povjerenstvo na temelju prikupljenih podataka i izvješća iz ovoga članka podnosi Državnom povjerenstvu izvješće o utrošku dodijeljenih sredstava za ublažavanje i djelomično uklanjanje posljedica prirodnih nepogoda sa stavke za prirodne nepogode u državnom proračunu Republike Hrvatske, putem Registra šteta i pisanim putem.
+(4) U izvješću županijskog povjerenstva iz stavka 3. ovoga članka navode se sredstva koja se za tu štetu dodjeljuju na razini županije, grada ili općine, kao i sredstva za naknadu štete iz drugih izvora.
+(5) Izvješća županijskih povjerenstava i Gradskog povjerenstva Grada Zagreba objedinjuje Državno povjerenstvo te izrađuje skupno izvješće o utrošku dodijeljenih sredstava sa stavke za prirodne nepogode u državnom proračunu Republike Hrvatske, koji dostavlja Vladi Republike Hrvatske.
+(6) Gradsko povjerenstvo Grada Zagreba podnosi Državnom povjerenstvu izvješće o utrošku dodijeljenih sredstava za ublažavanje i djelomično uklanjanje posljedica prirodnih nepogoda sa stavke za prirodne nepogode u državnom proračunu Republike Hrvatske, putem Registra šteta i pisanim putem.
+(7) Oblik i način dostave izvješća iz stavaka 1., 3. i 6. ovoga članka ministar financija propisuje pravilnikom.
