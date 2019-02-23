@@ -1,0 +1,6 @@
+## Izračun niže cijene udjela
+# Članak 5.
+(1) Izračun niže cijene udjela postoji kada je prvotno izračunata cijena udjela niža od naknadno točno utvrđene cijene udjela za isti dan.
+(2) U slučaju izračuna niže cijene udjela, Društvo je dužno naknaditi time nastalu štetu ulagateljima kojima je otkupilo udjele u razdoblju pogrešnog izračuna, isplatom novčanih sredstava ili dodjelom udjela, neovisno o tome jesu li u trenutku isplate štete i dalje ulagatelji UCITS fonda ili ne. Društvo je dužno u pravilima UCITS fonda definirati situacije u kojima se naknada štete obavlja isplatom novčanih sredstava, a u kojima dodjelom udjela. Visina štete koju je Društvo dužno naknaditi jednaka je razlici između prvotno izračunate cijene udjela i naknadno točno utvrđene cijene udjela pomnoženoj s brojem otkupljenih udjela u razdoblju pogrešnog izračuna.
+(3) U slučaju izračuna niže cijene udjela, društvo za upravljanje je dužno provesti ispravak broja dodijeljenih udjela ulagateljima koji su u razdoblju pogrešnog izračuna stjecali udjele u UCITS fondu.
+(4) Naknada štete iz stavka 2. ovoga članka neće se provoditi za one ulagatelje za koje je utvrđena visina nastale štete u razdoblju pogrešnog izračuna manja od 10 kuna.

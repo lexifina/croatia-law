@@ -1,0 +1,2 @@
+# Članak 15.
+Odredbe ovoga Pravilnika koje se odnose na prekoračenje ograničenja ulaganja iz članka 259. stavka 4. Zakona primjenjuju se i za slučaj prekoračenja ograničenja ulaganja iz članka 259. stavka 2. Zakona koje traje dulje od isteka razdoblja predviđenih člankom 259. stavcima 2. i 3. Zakona. Danom nastupa prekoračenja ograničenja ulaganja smatra se prvi dan nakon isteka roka određenog člankom 259. stavcima 2. i 3. Zakona.

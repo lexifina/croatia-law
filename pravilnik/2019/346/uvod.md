@@ -1,0 +1,1 @@
+Na temelju članka 110. stavka 7. Zakona o otvorenim investicijskim fondovima s javnom ponudom (»Narodne novine« broj 44/16, dalje: Zakon), Hrvatska agencija za nadzor financijskih usluga (dalje: Hanfa) na sjednici Upravnog vijeća održanoj 7. veljače 2019. godine donijela je
