@@ -1,0 +1,1 @@
+Na temelju članka 99. stavka 3. Zakona o carinskoj službi (»Narodne novine«, broj 68/13, 30/14 i 115/16), članka 41. stavka 2. i članka 42. stavka 4. Zakona o izvršenju Državnog proračuna Republike Hrvatske za 2018. godinu (»Narodne novine«, broj 124/17 i 108/18) ministar financija donosi
