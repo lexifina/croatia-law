@@ -1,0 +1,1 @@
+Na temelju članka 36. Zakona o stambenom zbrinjavanju na potpomognutim područjima (»Narodne novine«, broj 106/2018; u daljnjem tekstu: Zakon), državni tajnik Središnjeg državnog ureda za obnovu i stambeno zbrinjavanje donosi
