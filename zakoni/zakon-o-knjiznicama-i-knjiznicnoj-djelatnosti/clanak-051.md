@@ -1,0 +1,3 @@
+# Članak 51.
+(1) Zbirka obveznog primjerka službenih publikacija nastala na temelju članka 39. stavka 1. Zakona o knjižnicama (»Narodne novine«, br. 105/97., 5/98. – ispravak, 104/00., 87/08. i 69/09.), a koja se vodi u Središnjem državnom uredu za razvoj digitalnog društva, pripaja se zbirci Središnjega kataloga službenih dokumenata Republike Hrvatske u svrhu pohrane i zaštite građe te njezine trajne dostupnosti korisnicima.
+(2) Središnji državni ured za razvoj digitalnog društva obvezuje se digitalizirati fizički dio građe iz stavka 1. ovoga članka te predati građu nakon obavljene digitalizacije Nacionalnoj i sveučilišnoj knjižnici u Zagrebu (Zbirka službenih publikacija) na daljnje postupanje.

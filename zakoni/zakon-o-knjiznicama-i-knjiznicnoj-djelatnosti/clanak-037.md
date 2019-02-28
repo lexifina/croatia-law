@@ -1,0 +1,3 @@
+## X. OBVEZNI PRIMJERAK
+# Članak 37.
+Pod obveznim primjerkom, bez obzira na medij, podrazumijevaju se sljedeće vrste publikacija: knjige, serijske publikacije (novine, časopisi, zbornici radova, godišnjaci i slično), službene publikacije, glazbene zvučne snimke, neglazbene zvučne snimke, glazbene note, zemljopisne i druge karte, slikovna djela (reprodukcije slikovnih umjetničkih djela, plakati, razglednice i slično), multimedija, kompleti, mikrooblici, sitni tisak (brošure, letci, tiskanice, prospekti, katalozi, programi, kalendari i slično), online publikacije (e-knjige, e-serijske publikacije, mrežne stranice i dr.).

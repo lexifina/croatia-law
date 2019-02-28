@@ -1,0 +1,3 @@
+# Članak 22.
+(1) Voditelj javne knjižnice u sastavu pravne osobe kojoj je osnivač ili suosnivač Republika Hrvatska ili pravna osoba u njezinu pretežitom vlasništvu mora ispunjavati iste uvjete kao ravnatelj javne knjižnice, a voditelj javne knjižnice u sastavu pravne osobe kojoj je osnivač jedinica lokalne i područne (regionalne) samouprave ili pravna osoba u njezinu pretežitom vlasništvu može biti osoba koja ima obrazovanje propisano člankom 20. stavkom 10. ovoga Zakona te ispunjava druge uvjete propisane statutom, osim ako drugim zakonom nije drukčije određeno.
+(2) Odluku o izboru i razrješenju voditelja javne knjižnice u sastavu iz stavka 1. ovoga članka donosi tijelo upravljanja pravne osobe u sastavu koje je knjižnica.

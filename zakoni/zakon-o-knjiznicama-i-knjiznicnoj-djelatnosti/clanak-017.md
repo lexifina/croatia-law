@@ -1,0 +1,6 @@
+# Članak 17.
+(1) Javna knjižnica s više od deset zaposlenih ima upravno vijeće.
+(2) Upravno vijeće ima pet ili sedam članova, od kojih većinu imenuje osnivač iz redova istaknutih kulturnih, javnih, znanstvenih djelatnika, pravnih, ekonomskih i financijskih stručnjaka, jednoga bira stručno vijeće, a ako ono nije osnovano, stručno knjižničarsko osoblje iz svojih redova, te jednoga člana biraju svi radnici sukladno zakonu kojim se uređuju radni odnosi.
+(3) Za člana upravnog vijeća iz stavka 2. ovoga članka osnivač može imenovati osobu koja ima završen diplomski sveučilišni ili integrirani preddiplomski i diplomski sveučilišni studij ili specijalistički diplomski stručni studij ili s njim izjednačen studij, osim ako posebnim zakonom nije drukčije određeno.
+(4) Kada je osnivač ili suosnivač javne knjižnice Republika Hrvatska, članove upravnog vijeća iz stavka 2. ovoga članka u ime osnivača imenuje i razrješuje nadležno ministarstvo u čijem je djelokrugu rad knjižnice, sukladno aktu o osnivanju, a kada je osnivač ili suosnivač javne knjižnice jedinica lokalne i područne (regionalne) samouprave, članove upravnog vijeća iz stavka 2. ovoga članka u ime osnivača imenuje i razrješuje predstavničko tijelo.
+(5) Način izbora članova upravnog vijeća, trajanje mandata, donošenje odluka i druga pitanja u vezi s radom upravnog vijeća uređuju se statutom javne knjižnice.

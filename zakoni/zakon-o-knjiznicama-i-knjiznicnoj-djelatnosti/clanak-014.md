@@ -1,0 +1,4 @@
+# Članak 14.
+(1) Knjižnica prestaje s radom sukladno odredbama ovoga Zakona i zakona na temelju kojega je osnovana.
+(2) Odluku o prestanku i statusnim promjenama javnih knjižnica i javnih knjižnica u sastavu pravnih osoba u pretežitom vlasništvu Republike Hrvatske ili jedinica lokalne i područne (regionalne) samouprave osnivači mogu donijeti samo uz prethodnu suglasnost ministra nadležnog za kulturu za narodne i specijalne knjižnice odnosno ministra nadležnog za znanost i obrazovanje za školske, visokoškolske, znanstvene i sveučilišne knjižnice, ako posebnim zakonom nije drukčije određeno.
+(3) Odluka o prestanku i statusnim promjenama knjižnice iz stavka 2. ovoga članka te privatnih knjižnica mora sadržavati odredbe o zaštiti i smještaju knjižnične građe i knjižnične dokumentacije odnosno o pohrani digitalne knjižnične građe i digitalne knjižnične dokumentacije na temelju prethodnog mišljenja Hrvatskoga knjižničnog vijeća.
