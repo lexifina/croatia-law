@@ -1,0 +1,5 @@
+# Članak 1.
+(1) U Pravilniku o obavljanju gospodarskog ribolova na moru okružujućom mrežom plivaricom - srdelarom (»Narodne novine«, br. 105/17 i 37/18) u članku 9. stavku 3. iza broja »1.« dodaju se riječi »točaka 1. i 2.«.
+(2) Iza stavka 4. dodaju se stavci 5. i 6. koji glase:
+»(5) Prijenos Odobrenja iz stavka 1. točke 3. ovog članka može se izvršiti i u slučaju kada jedan ili više vlasnika plovila na koja su izdana Odobrenja zatraži/e prijenos tih Odobrenja na jedno plovilo pod uvjetom da njegov kapacitet izražen u GT i kW nije veći od zbroja kapaciteta plovila sa kojih se prenose Odobrenja.
+(6) Prijenos Odobrenja iz stavka 1. točke 3. i stavka 5. ovoga članka izvršit će se ukidanjem svih Odobrenja izdanih na plovila s kojih se vrši prijenos i izdavanjem Odobrenja na plovilo na koje se vrši prijenos s pravima na isti ribolovni alat i ribolovne zone upisane u povlastici plovila na koje se vrši prijenos, a rok valjanosti novog Odobrenja će biti jednak najdužem roku valjanosti iz ukinutih Odobrenja.«
