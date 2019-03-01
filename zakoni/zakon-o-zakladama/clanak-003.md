@@ -1,0 +1,5 @@
+## Svrha zaklade
+# Članak 3.
+(1) Općekorisna svrha, u smislu ovoga Zakona, je ona svrha ispunjavanjem koje se unapređuju građanska i ljudska prava i slobode, demokratske institucije društva, razvoj društva i lokalnih zajednica, zaštita okoliša i prirode i održivi razvoj, međunarodna razvojna pomoć i suradnja te kulturna, prosvjetna, znanstvena, duhovna, športska, zdravstvena, humanitarna, socijalna ili koja druga društvena djelatnost kojom se promiče opća korist i djelovanje za opće dobro i pridonosi ostvarivanju najviših vrednota ustavnog poretka Republike Hrvatske.
+(2) Dobrotvorna svrha, u smislu ovoga Zakona, je takva svrha ispunjenjem koje se pruža potpora osobama kojima je potrebna pomoć.
+(3) Svrha je zaklade općekorisna odnosno dobrotvorna i ako se tiče samo osoba koje pripadaju određenom pozivu, nacionalnoj, društvenoj, jezičnoj, kulturnoj, znanstvenoj i vjerskoj grupi ili slično, osoba koje povezuju iste zdravstvene, socijalne, kulturne i slične potrebe i interesi odnosno osoba koje žive na određenom području ili su obuhvaćene djelatnošću određene udruge, ustanove ili druge pravne osobe.

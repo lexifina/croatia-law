@@ -1,0 +1,10 @@
+## Likvidacijski postupak
+# Članak 43.
+(1) Likvidacijski postupak nad zakladom provodi se u slučajevima iz članka 42. stavka 1. točaka 1., 3., 5. i 6. ovoga Zakona.
+(2) Nadležni ured donosi rješenje o pokretanju likvidacijskog postupka, koje sadrži razloge za pokretanje postupka, određenje likvidatora između upravitelja, člana tijela zaklade ili druge fizičke ili pravne osobe koju imenuje zakladnik ili nadležno tijelo zaklade, način provođenja likvidacijskog postupka te podatke o promjeni naziva zaklade, tako da se uz naziv zaklade dodaje oznaka »u likvidaciji«, a što mora biti upisano u registar zaklada.
+(3) Pokretanjem likvidacijskog postupka prestaju ovlaštenja tijela i osoba ovlaštenih za zastupanje zaklade.
+(4) Likvidator je dužan provesti likvidacijski postupak u roku od 60 dana od dana primitka rješenja nadležnog ureda o otvaranju likvidacijskog postupka.
+(5) U likvidacijskom postupku likvidator je dužan utvrditi stanje na poslovnom računu zaklade, knjigovodstveno stanje dugovanja i potraživanja, utvrditi ostalu imovinu zaklade te pribaviti iz službene evidencije Ministarstva financija, Porezne uprave potvrdu o stanju duga s osnove javnih davanja. Ako utvrdi da zaklada ima dugovanja, likvidator je dužan objaviti poziv vjerovnicima da prijave svoje tražbine prema zakladi u roku od 30 dana od dana objave poziva, a za eventualna potraživanja dužan je pozvati dužnike na plaćanje dugova u roku od 30 dana. Preostalu imovinu zaklade likvidator će raspodijeliti na način određen aktom o osnivanju ili statutom.
+(6) Nakon raspodjele preostale imovine u skladu sa stavkom 5. ovoga članka likvidator je dužan u roku od osam dana od dana okončanja likvidacijskog postupka podnijeti nadležnom uredu izvješće o provedenom likvidacijskom postupku.
+(7) Ako likvidator utvrdi da imovina zaklade nije dovoljna za namirenje obveza, dužan je u roku iz stavka 6. ovoga članka o tome obavijestiti nadležni sud prema sjedištu zaklade radi pokretanja stečajnog postupka.
+(8) Temeljem zaprimljenog izvješća o provedenom likvidacijskom postupku nadležni ured donosi rješenje o brisanju zaklade iz registra zaklada, osim ako su utvrđeni dugovi zaklade.
