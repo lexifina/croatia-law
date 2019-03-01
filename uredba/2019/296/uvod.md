@@ -1,0 +1,1 @@
+Na temelju članka 50. stavka 1., a u vezi s člankom 64. stavkom 1. Zakona o vanjskim poslovima (»Narodne novine«, br. 48/96, 72/13, 127/13 i 39/18), na prijedlog ministrice vanjskih i europskih poslova, Vlada Republike Hrvatske je na sjednici održanoj 7. veljače 2019. godine donijela
