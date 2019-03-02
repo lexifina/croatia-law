@@ -1,0 +1,1 @@
+Na temelju odredbi članka 638. stavka 3. Zakona o tržištu kapitala (»Narodne novine«« br. 65/18), Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća 14. veljače 2019. godine donosi
