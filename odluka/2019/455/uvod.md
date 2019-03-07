@@ -1,0 +1,1 @@
+Na temelju članka 15. stavka 3. Zakona o morskom ribarstvu (»Narodne novine«, br. 62/17., 130/17. i 14/19.) i na temelju članka 4. i članka 5. Pravilnika o ribolovu plavoperajne tune (Thunnus thynnus) udičarskim alatima i uvjetima i kriterijima za ostvarivanje prava na dodjelu individualne udičarske kvote (»Narodne novine«, broj 20/19.), ministar poljoprivrede donosi
