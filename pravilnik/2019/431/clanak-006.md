@@ -1,0 +1,3 @@
+## Promjene dokumenata otvorenog AIF-a s javnom ponudom i zatvorenog AIF-a bez pravne osobnosti s javnom ponudom
+# Članak 6.
+Na bitne promjene pravila i prospekta otvorenog AIF-a s javnom ponudom i zatvorenog AIF-a bez pravne osobnosti s javnom ponudom, kao i bitne promjene ugovora s depozitarom te podnošenje zahtjeva za izdavanje suglasnosti na promjene tih dokumenata, odlučivanje Hanfe povodom navedenog zahtjeva i obavještavanje ulagatelja u tim slučajevima, na odgovarajući se način primjenjuju odredbe zakona kojim se uređuje osnivanje i rad otvorenih investicijskih fondova s javnom ponudom i podzakonskih propisa donesenih na temelju istog.
