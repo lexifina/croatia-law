@@ -1,0 +1,6 @@
+## III. DOSTAVA PODATAKA
+# Članak 4.
+(1) UAIF i zatvoreni AIF s unutarnjim upravljanjem dužni su u roku od 15 dana od dana upisa osnivanja u sudski registar Hanfi dostaviti podatke iz članka 2. odnosno članka 3. ovoga Pravilnika, koje Hanfa ne upisuje po službenoj dužnosti.
+(2) U slučaju iz stavka 1. ovoga članka točne i ažurne podatke iz članka 2. odnosno članka 3. ovoga Pravilnika UAIF i zatvoreni AIF s unutarnjim upravljanjem popunjava elektroničkim putem i dostavlja na propisanim obrascima iz Priloga 1. odnosno Priloga 2. ovoga Pravilnika, a posljednja stranica obrazaca treba biti potpisana od osoba koje su ovlaštene za zastupanje UAIF-a odnosno zatvorenog AIF-a s unutarnjim upravljanjem.
+(3) UAIF je dužan za zatvoreni AIF s vanjskim upravljanjem u roku od 15 dana od dana upisa osnivanja u sudski registar Hanfi dostaviti podatke iz članka 3. ovoga Pravilnika, koje Hanfa ne upisuje po službenoj dužnosti, na način propisan člankom 7. ovoga Pravilnika.
+(4) UAIF je dužan u roku od 30 dana od dana izdavanja odobrenja za osnivanje i rad otvorenim AIF-om podatke iz članka 3. ovoga Pravilnika, koje Hanfa ne upisuje po službenoj dužnosti, dostaviti Hanfi na način propisan člankom 7. ovoga Pravilnika.
