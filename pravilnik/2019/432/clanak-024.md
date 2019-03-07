@@ -1,0 +1,9 @@
+## VII. PROMJENA RAZLIKOVNOSTI i OBLIKA AIF-a
+## Promjena razlikovnosti AIF-a bez pravne osobnosti
+# Članak 24.
+(1) U slučaju kada AIF-a bez pravne osobnosti s privatnom ponudom postaje isti takav AIF s javnom ponudom, obavijest iz članka 219. stavka 2. Zakona dostavlja se ulagateljima u pisanom obliku (poštom ili kurirskom dostavom) ili putem elektroničke pošte, a ako je propisano pravilima AIF-a, može i jasno vidljivo objavom na internetskim stranicama UAIF-a ili na neki drugi način propisan pravilima AIF-a.
+(2) Suglasnost ulagatelja iz članka 219. stavka 1. točke b) Zakona dostavlja se UAIF-u u pisanom obliku ili elektroničkom poštom, ako nije drugačije propisano pravilima AIF-a. Suglasnost je moguće dati i putem punomoćnika, uz prilaganje pisane punomoći. Suglasnost važi 3 mjeseca od dana njenog izdavanja.
+(3) U slučaju kada AIF-a bez pravne osobnosti s javnom ponudom postaje isti takav AIF s privatnom ponudom, obavijest iz članka 219. stavka 4. Zakona dostavlja se ulagateljima u pisanom obliku (poštom ili kurirskom dostavom) ili putem elektroničke pošte, te je uz to UAIF dužan predmetnu obavijest učiniti jasno vidljivom na svojim internetskim stranicama.
+(4) Suglasnost ulagatelja iz članka 219. stavka 3. točke b) Zakona dostavlja se UAIF-u u pisanom obliku ili elektroničkom poštom. Suglasnost je moguće dati i putem punomoćnika, uz prilaganje pisane punomoći. Suglasnost važi 3 mjeseca od dana njenog izdavanja.
+(5) Uz svaki zahtjev za odobrenje promjene razlikovnosti UAIF je dužan dostaviti tekst obavijesti iz članka 219. stavak 2. i stavak 4. Zakona te od uprave potpisanu izjavu o valjano prikupljenim suglasnostima 3/4 ulagatelja.
+(6) Uz zahtjev za odobrenje promjene razlikovnosti gdje AIF-a bez pravne osobnosti s privatnom ponudom postaje isti takav AIF s javnom ponudom, UAIF je dužan dostaviti odgovarajuću dokumentaciju iz članka 164. stavak 1. točka 2. Zakona.
