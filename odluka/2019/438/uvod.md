@@ -1,0 +1,1 @@
+Na temelju članka 10. stavka 1. Zakona o strateškim investicijskim projektima Republike Hrvatske (»Narodne novine«, br. 29/18 i 114/18), Vlada Republike Hrvatske je na sjednici održanoj 28. veljače 2019. godine donijela
