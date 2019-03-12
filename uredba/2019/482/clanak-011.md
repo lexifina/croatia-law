@@ -1,0 +1,3 @@
+# Članak 11.
+Članak 196. mijenja se i glasi:
+»POSTAJA GRANIČNE POLICIJE DONJI LAPAC je specijalizirana policijska postaja III. kategorije sa sjedištem u Donjem Lapcu, a obuhvaća Općinu Donji Lapac. Nadležna je za nadzor državne granice, odnosno kontrolu prelaska državne granice na pripadajućim graničnim prijelazima i zaštitu dijela državne granice s Bosnom i Hercegovinom u dužini od 54 km. Nadležna je i za obavljanje drugih policijskih poslova i poslova u vezi izravnog ostvarivanja prava, obveza i pravnih interesa građana, pravnih osoba, državnih i drugih tijela u području unutarnjih poslova te poslova sigurnosti cestovnog prometa.«.

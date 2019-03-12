@@ -1,0 +1,3 @@
+# Članak 1.
+U Uredbi o područjima, sjedištima, vrstama i kategorijama policijskih uprava i policijskih postaja (»Narodne novine«, br. 117/11, 50/14, 32/15, 11/17 i 66/18) članak 48. mijenja se i glasi:
+»U Policijskoj upravi primorsko-goranskoj osnivaju se I. policijska postaja Rijeka, II. policijska postaja Rijeka, Policijska postaja Mali Lošinj sa Policijskom ispostavom Cres, Policijska postaja Crikvenica, Policijska postaja Čabar, Policijska postaja Delnice, Policijska postaja Krk, Policijska postaja Opatija, Policijska postaja Rab, Policijska postaja Vrbovsko, Postaja prometne policije Rijeka, Postaja granične policije Rupa i Postaja pomorske i aerodromske policije Rijeka.«.
