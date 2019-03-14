@@ -1,0 +1,3 @@
+# Članak 21.
+(1) Promijenjene okolnosti sukladno kojim će mjesno nadležno upravno tijelo izmijeniti pravo dodijeljeno dozvolom za gospodarenje otpadom uključuju sljedeće: značajne promjene u svezi rada postrojenja ili vrste otpada, rezultate praćenja i mjerenja koji potvrđuju usklađenost s uvjetima dozvole za gospodarenje otpadom iz rudarske industrije, rezultate inspekcijskog nadzora i značajne promjene u najbolje raspoloživim tehnikama koje se primjenjuju dozvolom.
+(2) Mjesno nadležno upravno tijelo rješenjem će izmijeniti iznos financijskog jamstva određenog dozvolom, ovisno o radovima nužnim za sanaciju zemljišta onečišćenog radom postrojenja za gospodarenje otpadom sukladno Planu gospodarenja otpadom.
