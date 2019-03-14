@@ -1,0 +1,6 @@
+## Javna objava osobnih podataka
+# Članak 92.
+(1) U svrhu imenovanja članova izbornih tijela, na mrežnim stranicama Državnog izbornog povjerenstva i na mrežnim stranicama jedinica objavljuju se imena i prezimena članova izbornih tijela.
+(2) U svrhu kandidiranja na izborima te objave rezultata izbora, na oglasnoj ploči jedinice, mrežnim stranicama jedinice i mrežnim stranicama Državnog izbornog povjerenstva javno se objavljuju osobni podaci iz članka 89. stavka 2. ovoga Zakona, osim osobnog identifikacijskog broja (OIB) kandidata, koji su, u skladu s odredbama ovoga Zakona, sadržani na pravovaljanim listama kandidata odnosno kandidaturama te osobni podaci kandidata sadržani na zbirnoj listi kandidata i zbirnoj listi kandidatura i rezultatima izbora.
+(3) Ako su predlagatelji liste kandidata odnosno kandidature pripadnici nacionalne manjine – birači, tada se na pravovaljanim listama kandidata odnosno kandidaturama javno objavljuju ime i prezime podnositelja liste kandidata odnosno kandidature iz članka 10. stavka 3. ovoga Zakona.
+(4) Osobni podaci koji su, u skladu s odredbama ovoga članka, javno objavljeni na oglasnoj ploči jedinice, mrežnim stranicama jedinice i mrežnim stranicama Državnog izbornog povjerenstva, osim imena i prezimena izabranih kandidata, uklonit će se s mrežnih stranica nakon isteka roka iz članka 91. stavka 2. ovoga Zakona.

@@ -1,0 +1,7 @@
+## POGLAVLJE VI. SMRT KANDIDATA
+## Postupak u slučaju smrti kandidata za člana vijeća nacionalne manjine
+# Članak 25.
+(1) Ako neki od pravovaljano predloženih kandidata za člana vijeća nacionalne manjine umre u razdoblju nakon isteka roka za kandidiranje, a najkasnije 15 dana prije dana održavanja izbora, udruge nacionalnih manjina odnosno podnositelji liste kandidata iz članka 10. stavka 3. ovoga Zakona mogu u roku od 48 sati od smrti kandidata umjesto njega predložiti novog kandidata, u skladu s odredbama ovoga Zakona.
+(2) Nadležno izborno povjerenstvo, neovisno o tome je li ovlašteni predlagatelj predložio novog kandidata, u roku od 24 sata od isteka roka iz stavka 1. ovoga članka donijet će i objaviti odluku o izmjeni pravovaljane liste kandidata i izmijenjenu zbirnu listu kandidata.
+(3) Ako neki od kandidata za člana vijeća nacionalne manjine umre u razdoblju kraćem od 15 dana prije dana održavanja izbora, zamjena kandidata obavit će se u skladu sa stavcima 1. i 2. ovoga članka, a nadležno izborno povjerenstvo odredit će pomicanje održavanja izbora za članove vijeća te nacionalne manjine u toj jedinici za sedam dana.
+(4) Ako u slučaju iz stavka 1. odnosno stavka 3. ovoga Zakona ovlašteni predlagatelj ne predloži novog kandidata za člana vijeća nacionalne manjine u jedinici, zbog čega bi ukupan broj pravovaljano predloženih kandidata bio manji od najmanjeg broja kandidata propisanog člankom 14. stavkom 4. ovoga Zakona, nadležno izborno povjerenstvo postupit će u skladu s člankom 14. stavkom 6. ovoga Zakona.

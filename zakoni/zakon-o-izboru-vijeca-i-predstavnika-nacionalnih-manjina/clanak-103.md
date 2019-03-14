@@ -1,0 +1,7 @@
+## Zamjenjivanje člana vijeća i predstavnika nacionalne manjine
+# Članak 103.
+(1) Izabranog člana vijeća nacionalne manjine kojem prestane mandat prije njegova redovita isteka zamjenjuje prvi sljedeći neizabrani kandidat s najviše dobivenih glasova, danom prestanka mandata.
+(2) Ako u slučaju iz stavka 1. ovoga članka ima više neizabranih kandidata s jednakim brojem glasova, zbog čega se ne može utvrditi koji bi od neizabranih kandidata trebao zamijeniti izabranog člana vijeća, vijeće nastavlja s radom bez zamjene izabranog člana vijeća, osim ako broj članova vijeća nakon prestanka mandata izabranog člana vijeća nije manji od broja iz članka 53. stavka 5. ovoga Zakona, kada vijeće prestaje s radom.
+(3) Ako u slučaju iz stavka 1. ovoga članka ima više neizabranih kandidata s jednakim brojem glasova, izabranog člana vijeća mogu zamijeniti svi neizabrani kandidati s jednakim brojem dobivenih glasova, ali samo ako broj članova vijeća nakon takve zamjene ne prelazi broj iz članka 53. stavka 2. ovoga Zakona.
+(4) Izabranog predstavnika nacionalne manjine kojemu prestane mandat zamjenjuje zamjenik predstavnika nacionalne manjine koji je izabran istodobno s njim.
+(5) Ako predstavniku nacionalne manjine prestane mandat sukladno članku 102. ovoga Zakona, njegov zamjenik postaje predstavnik nacionalne manjine, sa svim pravima i dužnostima predstavnika nacionalne manjine, a koja započinju danom prestanka mandata predstavnika nacionalne manjine.

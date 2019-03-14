@@ -1,0 +1,4 @@
+## Biračko pravo
+# Članak 4.
+(1) Pravo birati članove vijeća odnosno predstavnike nacionalnih manjina imaju hrvatski državljani s navršenih 18 godina života koji su u registru birača upisani kao pripadnici nacionalne manjine koja ima pravo na vijeće odnosno na predstavnika u jedinici te koji imaju prijavljeno prebivalište na području jedinice u kojoj se izbori provode (u daljnjem tekstu: birači).
+(2) Pravo biti biran za člana vijeća odnosno za predstavnika nacionalne manjine ima hrvatski državljanin koji na dan podnošenja prijedloga liste kandidata odnosno kandidature nadležnom izbornom povjerenstvu ima navršenih 18 godina života te je upisan u registar birača kao pripadnik nacionalne manjine koja ima pravo na vijeće odnosno na predstavnika u jedinici i ima prijavljeno prebivalište na području jedinice u kojoj se izbori provode.
