@@ -1,0 +1,1 @@
+Odluka o postavljanju izvanredne i opunomoćene veleposlanice Republike Hrvatske u u Kraljevini Španjolskoj, sa sjedištem u Madridu i za izvanrednu i opunomoćenu veleposlanicu Republike Hrvatske u Kneževini Andori, sa sjedištem u Madridu
