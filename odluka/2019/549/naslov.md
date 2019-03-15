@@ -1,0 +1,1 @@
+Odluka o donošenju Programa zbrinjavanja stanovnika zgrada i uklanjanja ostataka porušenih obiteljskih kuća i drugih stambenih zgrada koje su uništene ili oštećene zbog klizanja tla na području Hrvatske Kostajnice
