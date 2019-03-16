@@ -1,0 +1,1 @@
+Na temelju članka 161. stavka 1. Zakona o kreditnim institucijama (»Narodne novine«, br. 159/2013., 19/2015., 102/2015. i 15/2018.) i članka 43. stavka 2. točke 9. Zakona o Hrvatskoj narodnoj banci (»Narodne novine«, br. 75/2008. i 54/2013.) guverner Hrvatske narodne banke donosi
