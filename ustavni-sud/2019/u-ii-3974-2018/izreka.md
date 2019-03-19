@@ -1,0 +1,2 @@
+R J E Š E N J E
+Odbacuje se prijedlog za pokretanje postupka za ocjenu suglasnosti s Ustavom i zakonom članaka 1., 4. i 8. Pravilnika Filozofskog fakulteta Sveučilišta u Zagrebu o postupku i uvjetima produljenja radnog odnosa zaposlenika na znanstveno-nastavnim radnim mjestima nakon ispunjenih uvjeta za odlazak u mirovinu, objavljenog na mrežnim stranicama Filozofskog fakulteta Sveučilišta u Zagrebu.
