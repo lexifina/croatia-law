@@ -1,0 +1,1 @@
+Na temelju članka 30. stavka 4. Zakona o stambenom zbrinjavanju na potpomognutim područjima (»Narodne novine«, broj 106/18), Vlada Republike Hrvatske je na sjednici održanoj 8. ožujka 2019. godine donijela
