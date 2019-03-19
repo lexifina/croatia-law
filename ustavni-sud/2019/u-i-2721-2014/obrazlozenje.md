@@ -1,0 +1,49 @@
+O b r a z l o ž e n j e
+I. POSTUPAK PRED USTAVNIM SUDOM
+1. Zakon o državnim maticama donio je na temelju članka 2. stavka 4. alineje 1. Ustava drugi (2.) saziv Hrvatskog sabora na sjednici održanoj 6. listopada 1993. Proglasio ga je predsjednik Republike Hrvatske odlukom od 18. listopada 1993. Objavljen je u "Narodnim novinama" broj 96 od 25. listopada 1993., stupio je na snagu 2. studenoga 1993., a primjenjuje se od 1. siječnja 1994.
+Na dan donošenja ovog rješenja na snazi je Zakon o državnim maticama s izmjenama i dopunama ("Narodne novine" broj 96/93. i 76/13.; u daljnjem tekstu: ZoDM).
+2. Prijedlog za pokretanje postupka za ocjenu suglasnosti s Ustavom ZoDM-a podnio je Tomislav Gojmerac iz Zagreba.
+3. Na temelju članka 27. stavka 6. Ustavnog zakona o Ustavnom sudu Republike Hrvatske ("Narodne novine" broj 99/99., 29/02. i 42/02. - pročišćeni tekst; u daljnjem tekstu: Ustavni zakon) od raspravljanja i glasovanja u ovom postupku izuzeo se sudac Davorin Mlakar.
+II. OSPORENI ČLANAK
+4. Članak 42. stavak 4. ZoDM-a glasi:
+"3) Izvaci iz državnih matica i potvrde
+Članak 42.
+(...)
+Za osobe za koje je u državnim maticama upisana promjena spola, na izvatku se ne iskazuju podaci o promjeni spola i promjeni osobnog imena, odnosno za osobe koje su promijenile osobno ime prije promjene spola ne iskazuje se podatak o promjeni osobnog imena.
+(...)"
+III. PRIGOVORI PREDLAGATELJA
+5. Predlagatelj smatra da je članak 42. stavak 4. u nesuglasnosti s člancima 3., 14. stavkom 2., 16., 22., 58. i 64. stavkom 1. Ustava. Ističe da podaci o promjeni spola i osobnog imena moraju biti vidljivi na izvatku iz državnih matica jer se u protivnom ne može utvrditi identitet osobe koja je promijenila spol, a treće osobe mogu biti dovedene u zabludu. U odnosu na navedeno predlagatelj navodi:
+"... Tako bi osoba koja se 'skriva od zakona' mogla tzv. 'promjenom spola' zauvijek 'nestati', barem s pravno-formalnoga aspekta. Pravnom 'promjenom spola' i osobnoga imena, nitko ne bi bilo kakvom javnom, vjerodostojnom ispravom mogao dokazati promijenjeni identitet te osobe jer je slijed prikriven ...
+Stoga su mogućnosti zlouporabe toga instituta, ovako zamišljenoga, velike i ozbiljno ugrožavaju ljudska prava, vladavinu prava, pravni poredak i zakonita očekivanja drugih osoba i zajednice. Također, osoba koja je 'promijenila spol' može sklopiti brak s osobom istoga biološkoga spola i istoga gonosomskoga zapisa.
+Izvadak iz matice rođenih je isprava koja uživa predmnjevu istinitosti i cjelovitosti onih podataka koje sadržava. Neiskazivanjem određenih podataka koji se u njoj nalaze, ne samo kao aktualno stanje nego i kao povijesni izvadak promjena stanovite osobe, obezvrjeđuje se sam institut izvatka iz matice rođenih i vjerodostojnost svih ostalih podataka koje sadržava. Mjerodavne institucije i osobe s pravnim interesom (primjerice: sud, matičar, liječnik, centar za socijalnu skrb, policija, uprava zatvora, bračni drug, član uže obitelji, posvojitelj, skrbnik, športski trener i drugi) mogu biti dovedeni u tešku i nepopravljivu zabludu ako im se u kritičnom trenutku uskrati bitan podatak o biološkom spolu ili ranijem osobnom imenu, imenu ili prezimenu osobe koja je 'promijenila spol'."
+Predlagatelj također smatra da su osobe koje su promijenile spol i osobno ime, odnosno koje su promijenile ime prije promjene spola dovedene u povoljniji položaj u odnosu na sve ostale osobe kod kojih se činjenice nastale nakon temeljnog upisa upisuju u državne matice kao naknadni upisi i bilješke te se iskazuju na izvatku iz državnih matica.
+Predlagatelj ističe:
+"Osobi koja je nakon promjene osobnoga imena 'promijenila spol' omogućeno je prikrivanje prethodnoga identiteta. Nijednoj drugoj osobi koja nije 'promijenila spol' nije omogućeno korištenje takve povlastice. Time su osobe koje su 'promijenile spol' stavljene u osobno povoljniji položaj od svih ostalih osoba, a pri tom ne postoji nijedan legitimni cilj koji bi opravdavao takvo postupanje, jer odredba članka 42. stavka 4. Zakona o državnim maticama namjesto da štiti, upravo šteti zdravlju, javnomu moralu, pravnomu poretku i slobodama i pravima drugih ljudi. Dapače, ta mjera je upravo na štetu prava i sloboda svih drugih osoba te ih diskriminira."
+Predlagatelj, nadalje, iznosi navode koji se odnose na opravdanost promjene spola te moguće posljedice takvog postupka.
+IV. OČITOVANJE MINISTARSTVA UPRAVE
+6. U očitovanju Ministarstva uprave klasa: 223-01/17-01/3, ur. broj: 515-03-01/1-17-2 od 27. veljače 2017. navedeno je:
+"Promjenom spola i/ili osobnog imena ne prestaju prava i obveze konkretne osobe. Pravni poredak ne poznaje prekid pravnog identiteta bilo koje osobe kao što to sugerira Podnositelj tvrdeći da će takva osoba 'nestati barem s pravno-formalnog aspekta'. U tom smislu, tvrdnja da treće osobe neće biti u dovoljnoj mjeri pravno zaštićene od 'nestanka' konkretne osobe koja je promijenila spol stoga jer ta izmjena nije izričito navedena u ispravi jednako je (ne)uvjerljiva kao i tvrdnja da treće osobe nisu u dovoljnoj mjeri pravno zaštićene od osoba koje su, primjerice promijenile adresu stanovanja, a možda napustile državu, a da je to ostalo nezabilježeno u njihovim osobnim ispravama. Treće osobe u svrhu zaštite svojih interesa uvijek na raspolaganju imaju mehanizme sudske zaštite putem kojih ujedno mogu utvrditi i promjenu osobnih podataka konkretne osobe ako je do promjene došlo. U tom smislu njihovi interesi nisu niti na koji način ugroženi.
+Štoviše, sam Podnositelj priznaje da nadležna tijela državne vlasti pred kojima treće osobe mogu tražiti zaštitu svojih interesa od postupanja osoba koje su promijenile oznaku spola ili osobno ime uvijek imaju nadzor nad relevantnim promjenama u osobnim podacima putem instituta Osobnog identifikacijskog broja građana (OIB) ...
+(...)
+Način izdavanja izvatka iz matice rođenih i upis bilješki o promjeni spola nikako ne ugrožavaju prava trećih osoba. Na ovaj način prvenstveno se štite prava osoba koje su promijenile spol i sprječava se pojava bilo kojeg oblika diskriminacije u odnosu na te osobe ..."
+V. OCJENA USTAVNOG SUDA
+7. Pri razmatranju osnovanosti prijedloga predlagatelja Ustavni sud ocijenio je mjerodavnim članke 3., 14. stavak 2., 22. i 35. Ustava, koji glase:
+"Članak 3.
+... jednakost, ... vladavina prava ... najviše su vrednote ustavnog poretka Republike Hrvatske i temelj za tumačenje Ustava."
+"Članak 14.
+(...)
+Svi su pred zakonom jednaki."
+"Članak 22.
+Čovjekova je sloboda i osobnost nepovrediva.
+Nikomu se ne smije oduzeti ili ograničiti sloboda, osim kada je to određeno zakonom, o čemu odlučuje sud."
+"Članak 35.
+Svakomu se jamči štovanje i pravna zaštita njegova osobnog i obiteljskog života, dostojanstva, ugleda i časti."
+8. Osporavajući navedeni članak ZoDM-a predlagatelj u biti osporava učinke koje ima neiskazivanje podataka o promjeni spola i osobnog imena, odnosno promjene osobnog imena prije promjene spola u izvatku iz državnih matica prema tijelima javne uprave i trećim osobama. Drugim riječima, predlagatelj smatra da podaci navedeni u izvatku moraju biti identični podacima iz temeljnog upisa u državne matice.
+Razmatrajući članak 42. ZoDM-a u cijelosti razvidno je da se njime propisuje sadržaj izvatka iz državnih matica odnosno potvrda koje se izdaju na temelju državnih matica. Osporeni stavak 4. navedenog članka propisuje da se za osobe za koje je u državnim maticama upisana promjena spola na izvatku ne iskazuju podaci o promjeni spola i osobnog imena odnosno za osobe koje su promijenile osobno ime prije promjene spola ne iskazuje se podatak o promjeni osobnog imena.
+Imajući u vidu navedeno, razvidno je da je svrha članka 42. stavka 4. ZoDM-a osigurati zaštitu i poštovanje privatnosti osobnog života osoba koje su promijenile spol i/ili osobno ime prije promjene spola. Na taj način nastoje se zaštititi njihova prava s ciljem sprječavanja bilo kojeg oblika diskriminacije. Pritom se ni na koji način ne ograničavaju ili umanjuju prava trećih osoba.
+Ustavni sud posebno napominje da je odredbama ZoDM-a utvrđen sustav državnih matica kao evidencija o osobnim stanjima građana u koje se upisuju činjenice rođenja, zaključenja braka i smrti te drugi podaci o tim činjenicama utvrđeni zakonom. Članak 9.a ZoDM-a propisuje da se na temelju rješenja nadležnog ureda državne uprave promjena spola upisuje u maticu rođenih kao izmjena podataka u temeljnom upisu.
+Nadalje, članak 44. stavak 1. ZoDM-a propisuje da će se pravo uvida u državne matice, u nazočnosti matičara, dopustiti osobi na koju se ti podaci odnose ili članovima uže obitelji ili posvojitelju odnosno skrbniku, te drugoj osobi kada za to ima na zakonu zasnovan pravni interes. Stavak 2. tog članka propisuje da će se uvid u spise i rješenja na temelju kojih je izvršen upis u državne matice dopustiti onim osobama koje za to imaju neposredan i na zakonu zasnovan pravni interes.
+Također, Zakon o osobnom identifikacijskom broju ("Narodne novine" broj 60/08.) propisuje korištenje osobnog identifikacijskog broja (u daljnjem tekstu: OIB) kao stalne identifikacijske oznake svake osobe koju tijela javne vlasti koriste u službenim evidencijama te je tako ustojen pravni sustav koji se temelji na jednoznačnom upisu osoba. To znači da se OIB ne mijenja bez obzira na promjene koje prate osobu kojoj je taj broj dodijeljen (na primjer promjena osobnog imena, spola, državljanstva).
+Iz navedenog proizlazi da je sadržaj podataka upisanih u državne matice u svakom trenutku poznat tijelima javne vlasti, a pod određenim uvjetima pravo uvida u državne matice može se dopustiti i osobama koje imaju na zakonu zasnovan pravni interes.
+9. Slijedom svega navedenog, razmatrajući članak 42. stavak 4. ZoDM-a u svjetlu poštovanja i zaštite svih pojedinaca i društvenih skupina, ocjena je Ustavnog suda da ne postoje razlozi za pokretanje ustavnosudskog postupka i ukidanje osporenog članka.
+10. Stoga je na temelju članka 43. stavka 1. Ustavnog zakona riješeno kao u izreci.
