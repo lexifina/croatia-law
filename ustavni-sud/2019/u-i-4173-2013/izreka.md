@@ -1,0 +1,5 @@
+R J E Š E N J E
+I. Odbacuje se prijedlog za pokretanje postupka za ocjenu suglasnosti s Ustavom članaka 1. - 8., 65. i 67. Zakona o izmjenama i dopunama Zakona o znanstvenoj djelatnosti i visokom obrazovanju ("Narodne novine" broj 94/13.), te zakona u cjelini.
+II. Odbacuje se prijedlog za pokretanje postupka za ocjenu suglasnosti s Ustavom članaka 32. stavaka 7. i 8., 42., 91. stavka 3., 95., 98. stavaka 8., 9. i 10., 101. stavka 1., 102. stavaka 7., 8. i 9., 108., 109. stavka 6. i 112. stavka 13. Zakona o znanstvenoj djelatnosti i visokom obrazovanju ("Narodne novine" broj 123/03., 105/04., 174/04., 2/07., 46/07., 45/09., 63/11., 94/13., 139/13., 101/14., 60/15. i 131/17.).
+III. Obustavlja se postupak u povodu prijedloga za pokretanje postupka za ocjenu suglasnosti s Ustavom članka 98. stavka 10. Zakona o znanstvenoj djelatnosti i visokom obrazovanju ("Narodne novine" broj 123/03., 105/04., 174/04., 2/07., 46/07., 45/09., 63/11. i 94/13.).
+IV. Obustavlja se postupak u povodu prijedloga za ocjenu suglasnosti s Ustavom članka 25. Zakona o izmjenama i dopunama Zakona o znanstvenoj djelatnosti i visokom obrazovanju ("Narodne novine" broj 94/13.).
