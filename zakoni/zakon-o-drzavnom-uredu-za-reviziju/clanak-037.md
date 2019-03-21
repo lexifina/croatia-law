@@ -1,0 +1,3 @@
+# Članak 37.
+(1) Pomoćni revizori koji na dan stupanja na snagu ovoga Zakona nisu položili ispit za stjecanje zvanja ovlaštenoga državnog revizora, a raspoređeni su u Državnom uredu za reviziju na radno mjesto pomoćnog revizora duže od pet godina, dužni su ispit položiti u roku od 12 mjeseci od dana stupanja na snagu ovoga Zakona.
+(2) Pomoćnom revizoru koji u roku iz stavka 1. ovoga članka ne položi ispit za stjecanje zvanja ovlaštenoga državnog revizora prestaje državna služba u Državnom uredu za reviziju istekom posljednjeg dana roka za polaganje ispita za stjecanje zvanja ovlaštenoga državnog revizora.

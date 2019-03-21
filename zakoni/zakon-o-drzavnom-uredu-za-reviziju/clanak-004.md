@@ -1,0 +1,8 @@
+# Članak 4.
+(1) Sredstva za rad Državnog ureda za reviziju osiguravaju se u državnom proračunu Republike Hrvatske.
+(2) Državni ured za reviziju, u skladu s odredbama zakona kojim se uređuju proračunski procesi, do 1. lipnja tekuće godine izrađuje prijedlog financijskog plana za iduću godinu i projekcija za sljedeće dvije godine i dostavlja ga odboru Hrvatskoga sabora nadležnom za financije i državni proračun i Ministarstvu financija.
+(3) Vlada Republike Hrvatske, na prijedlog Ministarstva financija, dostavlja odboru Hrvatskoga sabora nadležnom za financije i državni proračun mišljenje o prijedlogu financijskog plana iz stavka 2. ovoga članka za iduću godinu i projekcija za sljedeće dvije godine.
+(4) Odbor Hrvatskoga sabora nadležan za financije i državni proračun odobrava prijedlog financijskog plana za iduću godinu i projekcija za sljedeće dvije godine do kraja lipnja tekuće godine i upućuje ga Ministarstvu financija radi uvrštavanja u prijedlog državnog proračuna Republike Hrvatske za iduću godinu i projekcija za sljedeće dvije godine te ga dostavlja Državnom uredu za reviziju.
+(5) Na postupak donošenja izmjena i dopuna financijskog plana Državnog ureda za reviziju na odgovarajući se način primjenjuju odredbe ovoga članka za postupak donošenja financijskog plana Državnog ureda za reviziju.
+(6) Državni ured za reviziju samostalno raspoređuje i upravlja sredstvima za rad osiguranim u državnom proračunu Republike Hrvatske.
+(7) Državni ured za reviziju može ostvarivati vlastite prihode koje može koristiti za unaprjeđenje rada Državnog ureda za reviziju u skladu s unutarnjim normativnim aktom Državnog ureda za reviziju.

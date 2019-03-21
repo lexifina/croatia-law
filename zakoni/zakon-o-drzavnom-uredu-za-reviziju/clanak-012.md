@@ -1,0 +1,4 @@
+# Članak 12.
+(1) Ovlasti Državnog ureda za reviziju koje su propisane člankom 11. ovoga Zakona ne smiju dovesti u pitanje ciljeve i zadatke Hrvatske narodne banke koji se odnose na Ugovor o funkcioniranju Europske unije, Statut ESSB-a i ESB-a, zakon kojim je uređeno funkcioniranje i rad Hrvatske narodne banke i važeće propise Republike Hrvatske.
+(2) Reviziji koju obavlja Državni ured za reviziju u skladu s odredbama ovoga Zakona ne podliježu aktivnosti koje su predmet revizije poslovanja Hrvatske narodne banke od strane neovisnog vanjskog revizora.
+(3) Državni ured za reviziju nije ovlašten provjeravati niti davati ocjene ostvarivanja ciljeva i zadataka Hrvatske narodne banke propisanih zakonom kojim se uređuje poslovanje Hrvatske narodne banke, kao niti zadataka propisanih drugim zakonima i zadataka koje Hrvatska narodna banka obavlja u skladu s Ugovorom o funkcioniranju Europske unije i Statutom ESSB-a i ESB-a.
