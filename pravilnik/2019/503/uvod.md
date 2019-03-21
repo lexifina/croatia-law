@@ -1,0 +1,1 @@
+Na temelju članaka 188. stavka 3., članka 200. stavka 5., članka 201. stavka 8. i članka 207. stavka 6. Zakona o alternativnim investicijskom fondovima (»Narodne novine«, broj 21/2018, dalje: Zakon) Hrvatska agencija za nadzor financijskih usluga (dalje: Hanfa) je na sjednici Upravnog vijeća održanoj 1. ožujka 2019. donijela
