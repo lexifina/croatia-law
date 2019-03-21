@@ -1,0 +1,3 @@
+## VI. ZAHTJEV ZA IZDAVANJE ODOBRENJA ZA PROVOĐENJE RAZDVAJANJA I ODVAJANJA S PREUZIMANJEM
+# Članak 7.
+Na sadržaj zahtjeva za izdavanje odobrenja za provođenje razdvajanja i odvajanja s preuzimanjem te dokumentaciju i podatke koji se dostavljaju uz taj zahtjev na odgovarajući se način primjenjuje članak 5. ovoga Pravilnika, pri čemu se plan podjele nadomješta ugovorom o podjeli i preuzimanju koji u obliku javnobilježničke isprave sklapaju uprave, odnosno izvršni direktori UAIF-ova koji su uključeni u navedene statusne promjene, a novi UAIF nadomješta UAIF-om na koji se prenosi imovina kao društvom preuzimateljem.

@@ -1,0 +1,1 @@
+Na temelju članka 39. stavka 4. Zakona o alternativnim investicijskim fondovima (»Narodne novine« broj 21/2018, dalje: Zakon), Hrvatska agencija za nadzor financijskih usluga (dalje: Hanfa) na sjednici Upravnog vijeća održanoj 1. ožujka 2019. godine donosi
