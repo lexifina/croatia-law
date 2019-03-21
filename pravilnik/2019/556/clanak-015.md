@@ -1,0 +1,10 @@
+## Godišnje izvješće o radu FLAG-a
+# Članak 15.
+(1) FLAG je dužan dostaviti Godišnje izvješće o radu FLAG-a (u daljnjem tekstu: Godišnje izvješće) koje se odnosi na provedene aktivnosti od 01. siječnja do 31. prosinca godine »n-1«.
+(2) Godišnje izvješće podnosi se preporučenom pošiljkom i na CD-u/DVD-u/USB-u, ili osobno, na adresu Upravljačkog tijela, uz naznaku: »Godišnje izvješće o provedbi LRSR za _____ godinu« najkasnije do 15. veljače godine »n« na propisanome obrascu koji se objavljuje na službenoj mrežnoj stranici Upravljačkog tijela.
+(3) U slučaju nedostavljanja izvješća iz stavka 1. ovoga članka, Upravljačko tijelo će donijeti Zaključak o neispunjavanju obveze dostavljanja Godišnjeg izvješća te izmjenom Odluke o odobrenju LRSR iz članka 13. stavka 1. točke a) ovoga Pravilnika iznos potpore dodijeljene za tekuće troškove i vođenje LRSR umanjiti za 25 posto.
+(4) U slučaju dostavljanja nepotpunog Godišnjeg izvješća, Upravljačko tijelo će od FLAG-a zatražiti obrazloženje i/ili dopunu Godišnjeg izvješća.
+(5) FLAG je dužan dostaviti obrazloženje i/ili dopunu u roku od 15 dana od dana zaprimanja zahtjeva za obrazloženje i/ili dopunu Godišnjeg izvješća iz stavka 4. ovoga članka.
+(6) Ako FLAG nije preuzeo zahtjev za obrazloženje i/ili dopunu prilikom prve dostave, dostava će biti ponovljena još jednom. Ako FLAG ne preuzme Zahtjev za obrazloženje i/ili dopunu niti nakon ponovljene dostave, isti će se objaviti na oglasnoj ploči Ministarstva poljoprivrede, Uprave ribarstva te će se dostava smatrati obavljenom istekom osmoga dana od dana objave zahtjeva za obrazloženje i/ili dopunu na oglasnoj ploči.
+(7) U slučaju nedostavljanja obrazloženja i/ili nadopune Godišnjeg izvješća, Upravljačko tijelo će donijeti Zaključak o neispunjavanju obveze dostavljanja Godišnjeg izvješća, te postupiti sukladno stavku 3. ovoga članka.
+(8) Za sva pravovremena i potpuna izvješća iz stavka 1. ovoga članka, Upravljačko tijelo donijeti će Zaključak o ispunjavanju obveze dostavljanja Godišnjeg izvješća.

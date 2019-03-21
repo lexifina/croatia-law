@@ -1,0 +1,18 @@
+## Promjene u operacijama u okviru provedbe LRSR
+# Članak 37.
+(1) Promjene u operacijama u okviru provedbe LRSR podrazumijevaju promjenu podataka koji se odnose na podneseni Zahtjev za potporu, a uključuju:
+a) promjenu podataka o nositelju projekta (npr. promjene njegova naziva, osobe ovlaštene za zastupanje, adrese sjedišta, imena banke i/ili broja žiro-računa banke/IBAN, model i/ili poziv na broj primatelja na koji će mu biti isplaćena sredstva);
+b) promjenu podataka koji su temelj za provjeru udovoljavanja uvjetima i kriterijima prihvatljivosti sukladno ovom Pravilniku i/ili dokumentu kojim FLAG utvrđuje uvjete, kriterije i način dodjele potpore;
+c) ostale promjene u operaciji bez kojih se operacija ne može provesti ili koje imaju utjecaj na poboljšanje provedbe operacija, koje su nastale do podnošenja Zahtjeva za isplatu.
+(2) U slučaju promjena iz stavka 1. točke a) ovoga članka, nositelj projekta je dužan, od dana podnošenja Zahtjeva za potporu do isteka razdoblja od 5 godina od zadnje primljene uplate financijskih sredstava na temelju ovoga Pravilnika, podnijeti Zahtjev za odobrenje promjena, u roku od 15 radnih dana od njihova nastanka.
+(3) U slučaju promjena iz stavka 1. točke b) ovoga članka, nositelj projekta je dužan, od dana stupanja na snagu Odluke o dodjeli sredstava prema Zahtjevu za potporu do isteka razdoblja od 5 godina od zadnje primljene uplate financijskih sredstava na temelju ovoga Pravilnika, podnijeti Zahtjev za odobrenje promjena, u roku od 15 radnih dana od njihova nastanka.
+(4) U slučaju promjena iz stavka 1. točke c) ovoga članka, nositelj projekta je dužan od dana stupanja na snagu Odluke o dodjeli sredstava iz članka 35. stavka 1. točke a) ovoga Pravilnika do isteka razdoblja od 5 godina od zadnje primljene uplate financijskih sredstava na temelju ovoga Pravilnika, podnijeti Zahtjev za odobrenje promjena, u roku od 15 radnih dana od njihova nastanka, ali ne kasnije od podnošenja Zahtjeva za isplatu.
+(5) Uz Zahtjev za odobrenje promjena iz stavaka 2., 3. i 4. ovoga članka, nositelj projekta je dužan priložiti odgovarajuću dokumentaciju kojom se predmetna promjena potkrepljuje.
+(6) Upravljačko tijelo provodi provjere iz stavka 7. ovoga članka prema redoslijedu zaprimanja Zahtjeva za odobrenje promjena u Upravljačkom tijelu.
+(7) Upravljačko tijelo će, za zaprimljene Zahtjeve za odobrenje promjena iz stavaka 2., 3. i 4. ovoga članka, provjeriti uvjete i kriterije prihvatljivosti sukladno ovom Pravilniku i dokumentu kojim FLAG definira uvjete, kriterije i način dodjele potpore za operacije u okviru LRSR-a te donijeti
+a) Odluku o odobrenju promjena ili
+b) Odluku o odbijanju promjena.
+(8) Rok za donošenje odluka iz stavka 7. ovoga članka je 30 dana od dana zaprimanja Zahtjeva za odobrenje promjena iz stavaka 2., 3. i 4. ovoga članka. Upravljačko tijelo o donesenim odlukama, uz nositelja projekta, izvješćuje i FLAG.
+(9) Rok iz stavka 8. ovoga članka se prekida u slučaju upućivanja nositelju projekta zahtjeva za dopunu/obrazloženje/ispravak Zahtjeva za odobrenje promjena od strane Upravljačkog tijela te se nastavlja računati danom zaprimanja tražene dopune/obrazloženja/ispravka u Upravljačkom tijelu.
+(10) Odlukom o odobrenju promjena iz stavka 7. ovoga članka ne može se dodijeliti iznos potpore veći od iznosa potpore koji je već određen Odlukom o dodjeli sredstava iz članka 35. stavka 1. točke a) ovoga Pravilnika.
+(11) Zahtjev za odobrenje promjena iz stavaka 2., 3. i 4 ovoga članka dostavlja se Upravljačkom tijelu preporučenom poštom s povratnicom na adresu Upravljačkog tijela, uz naznaku: »Zahtjev za odobrenje promjena u okviru provedbe LRSR«. Zahtjev za odobrenje promjena dostavlja se na propisanome obrascu koji se objavljuje na mrežnoj stranici Upravljačkog tijela.

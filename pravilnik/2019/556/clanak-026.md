@@ -1,0 +1,10 @@
+## Nepristranost i transparentnost prilikom odabira projekata
+# Članak 26.
+(1) Odabir projekata mora biti nepristran i transparentan što se osigurava sprječavanjem sukoba interesa, na način opisan ovim Pravilnikom, pozitivnim propisima u Republici Hrvatskoj te Uredbom (EU) br. 2018/1046 Europskog parlamenta i Vijeća od 18. srpnja 2018. o financijskim pravilima koja se primjenjuju na opći proračun Unije, o izmjeni uredaba (EU) br. 1296/2013, (EU) br. 1301/2013, (EU) br. 1303/2013, (EU) br. 1304/2013, (EU) br. 1309/2013, (EU) br. 1316/2013, (EU) br. 223/2014, (EU) br. 283/2014 i Odluke br. 541/2014/EU te o stavljanju izvan snage Uredbe (EU, Euratom) br. 966/2012.
+(2) Sukob interesa ne postoji ako osoba koja sudjeluje u postupku odabira projekata nije osobno, kao niti članovi njegove obitelji (bračni ili izvanbračni drug, dijete ili roditelj) sljedeće:
+- zaposlenik, član, član upravnog ili bilo kojeg drugog tijela ili čelnik upravnog tijela nositelja projekta niti bilo koje druge fizičke/pravne osobe povezane na bilo koji način s nositeljem projekta (partnerski odnos u provedbi projekta i sl.) i
+- u odnosu na nositelja projekta ima bilo kakav materijalni ili nematerijalni interes, nauštrb javnog interesa i to u slučajevima obiteljske povezanosti, ekonomskih interesa ili drugog zajedničkog interesa.
+(3) Osobe koje sudjeluju u postupku odabira projekata moraju biti upoznate s popisom nositelja projekata koji su se prijavili na FLAG natječaj.
+(4) U slučaju saznanja da se nalazi u sukobu interesa, osoba koja sudjeluje u postupku odabira projekata obvezna je o tome odmah izvijestiti ostale sudionike i nadležno tijelo FLAG-a te pisanim putem zatražiti izuzimanje iz daljnjeg postupka u vezi s projektom na koji se odnosi utvrđeni sukob interesa. U toj situaciji FLAG izuzima takvu osobu iz daljnjeg postupanja kod predmetnog projekta.
+(5) FLAG je dužan voditi registar evidencije potencijalnog sukoba interesa. Procedure FLAG-a moraju uključivati sprječavanje sukoba interesa, posebice u situacijama kada je nositelj projekta FLAG.
+(6) Pitanje sukoba interesa mora biti uključeno u dnevni red sjednica/sastanaka/povjerenstava FLAG-a.
