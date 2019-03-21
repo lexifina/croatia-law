@@ -1,0 +1,1 @@
+Na temelju članka 306. stavka 15. Zakona o tržištu kapitala (»Narodne novine« broj 65/18, dalje: Zakon o tržištu kapitala), Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća održanoj 1. ožujka 2019. godine donosi
