@@ -1,0 +1,5 @@
+# Članak 3.
+(1) U svrhu stambenog zbrinjavanja kadrova Središnji državni ured će s jedinicom lokalne samouprave ili tijelima državne uprave na čijem području se osigurava stambeno zbrinjavanje sklopiti sporazum kojim se jedinici lokalne samouprave ili tijelu državne uprave ustupa stambena jedinica na korištenje i upravljanje te kojim se propisuju obveze koje proizlaze s osnova preuzete stambene jedinice u državnom vlasništvu.
+(2) U svrhu stambenog zbrinjavanja kadrova Središnji državni ured će osigurati stambene jedinice u državnom vlasništvu na područjima primjene Zakona sukladno raspoloživom stambenom fondu.
+(3) Jedinica lokalne samouprave ili tijelo državne uprave dužno je Središnjem državnom uredu pravovremeno dostaviti popis korisnika iz članka 2. stavka 3. ovoga Pravilnika koji će koristiti stambenu jedinicu radi sklapanja ugovora o najmu kao i sve promjene nastale za vrijeme trajanja ugovora o najmu.
+(4) Obveze s osnova najma za dodijeljenu stambenu jedinicu za koju nisu pravovremeno dostavljeni podaci o korisniku iz članka 2. stavka 3. ovoga Pravilnika, snosi jedinica lokalne samouprave ili tijelo državne uprave.

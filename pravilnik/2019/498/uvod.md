@@ -1,0 +1,1 @@
+Na temelju članka 24. stavka 7. Zakona o stambenom zbrinjavanju na potpomognutim područjima (»Narodne novine«, br. 106/2018), državni tajnik Središnjeg državnog ureda za obnovu i stambeno zbrinjavanje donosi

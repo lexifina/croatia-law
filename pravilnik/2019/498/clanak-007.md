@@ -1,0 +1,11 @@
+## III. VISINA NAJAMNINE
+# Članak 7.
+(1) Najmoprimac iz članka 2. ovoga Pravilnika plaća zaštićenu najamninu koja se izračunava sukladno članku 10. Uredbe o uvjetima i mjerilima za utvrđivanje zaštićene najamnine (»Narodne novine«, br. 40/1997 i 117/2005) na stambenu površinu obračunatu za plaćanje obveza s osnova najma utvrđenu sukladno odredbama članka 17. Zakona.
+(2) Iznimno od stavka 1. ovoga članka, visina najamnine za stanove na području prve skupine potpomognutih područja iznosi 20% od visine propisane zaštićene najamnine.
+(3) Iznimno od stavka 1. ovoga članka, visina najamnine za obiteljske kuće na području prve i druge skupine potpomognutih područja iznosi 1 kunu mjesečno.
+(4) Korisnicima kojima je rješenjem nadležnog centra za socijalnu skrb utvrđeno pravo na zajamčenu minimalnu naknadu visina najma obiteljske kuće ili stana u državnom vlasništvu iznosi 1 kunu mjesečno za stambenu jedinicu dok traje utvrđeno pravo na zajamčenu minimalnu naknadu.
+(5) Visina najamnine iz stavka 1. i 2. ovoga članka utvrđuje se po m² stambene jedinice odnosno stambenog prostora za utvrđenu stambenu površinu.
+(6) U slučaju promjene uvjeta pod kojima je predmet najma dan u najam, kao i u slučajevima promjene načina plaćanja ugovorene najamnine za korištenje predmeta najma, najmodavac zadržava pravo na izmjenu ugovora o najmu sukladno važećim propisima. O promjeni visine iznosa najamnine sukladno važećim propisima, ugovor se neće mijenjati nego će najmoprimac dobiti pisanu obavijest o visini najamnine.
+(7) Utvrđenom stambenom površinom smatra se ona površina koja je upisana u vlasničkom listu odnosno utvrđena izmjerom.
+(8) U stambenu površinu obiteljske kuće ne ulaze: unutarnja stubišta, neuređeni dijelovi obiteljske kuće, neuređeno potkrovlje, podrum, garaža, parkirališno mjesto, kotlovnica, terase, balkoni, pomoćne građevine i dijelovi koji se smatraju zajedničkim dijelovima i uređajima zgrade.
+(9) Za korištenje stambene jedinice ugovoreni iznos najamnine iz stavka 1., 2., 3. i 4. ovoga članka, najmoprimac se obvezuje uplaćivati mjesečno, i to najkasnije do 15-og u mjesecu za protekli mjesec, u korist državnog proračuna putem dostavljene uplatnice ili uplatom na račun u slučaju ako ne zaprimi uplatnicu za tekući mjesec.

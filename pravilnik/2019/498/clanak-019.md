@@ -1,0 +1,7 @@
+## X. RASKID UGOVORA O NAJMU
+# Članak 19.
+Ukoliko najmoprimac obvezu iz članka 7. ovoga Pravilnika ne ispuni sukladno članku 22. stavku 4. podstavku 5. Zakona, najmodavac će jednostrano raskinuti ugovor o najmu, s rokom iseljenja koji ne može biti kraći od 15 dana te će protiv najmoprimca pokrenuti postupak prisilne naplate duga.
+(2) Ukoliko najmoprimac ne ispunjava obveze iz članka 10. ovoga Pravilnika, kao i u slučajevima iz članka 20. Zakona o najmu stanova (»Narodne novine«, br. 91/1996, 48/1998, 66/1998, 22/2006, 68/2018), najmodavac će jednostrano raskinuti ugovor o najmu, s rokom iseljenja koji ne može biti kraći od 15 dana.
+(3) Odjava prebivališta najmoprimca i članova kućanstva s adrese predmeta najma smatrat će se nekorištenjem stambene jedinice u smislu članka 22. stavka 4. podstavka 1. Zakona.
+(4) Iznimno, korisnik ne gubi pravo na stambeno zbrinjavanje u stambenoj jedinici koja mu je dana u najam i ugovor o najmu se neće raskidati ukoliko svi članovi kućanstva nadležnoj policijskoj upravi uredno prijave privremeni odlazak ili u slučaju drugih opravdanih razloga nekorištenja stambene jedinice pod uvjetom da istovremeno podmiruju obveze s osnova troškova nastalih pri korištenju stambene jedinice i obveze s osnova najma za stambenu jedinicu koja im je dodijeljena na korištenje.
+(5) Ukoliko jedan ili više članova kućanstva trajno odseli iz stambene jedinice, a nisu odjavili prebivalište s te stambene jedinice, Središnji državni ured će o toj činjenici obavijestiti nadležnu policijsku upravu.
