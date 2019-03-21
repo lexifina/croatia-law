@@ -1,0 +1,16 @@
+## Upis djelatnosti obavljanja revizorskih usluga u sudski, odnosno odgovarajući poslovni registar
+# Članak 9.
+(1) Radi upisa djelatnosti obavljanja revizorskih usluga u sudski, odnosno odgovarajući poslovni registar, Ministarstvo financija izdat će privremeno rješenje trgovačkom društvu koje ispunjava uvjete iz članka 17. stavka 2. Zakona.
+(2) Ispunjavanje uvjeta iz članka 17. stavka 2. točaka 1. i 2. Zakona u vezi glasačkih prava i članstva u upravi odnosno upravnom odboru društva dokazuje se izjavom o osnivanju trgovačkog društva ili društvenim ugovorom ili statutom.
+(3) Odredbe stavka 2. ovoga članka odgovarajuće se primjenjuju na društva iz druge države članice, koja ispunjavanje uvjeta iz članka 17. stavka 2. točaka 1. i 2. Zakona u vezi glasačkih prava i članstva u upravi odnosno upravnom odboru društva dokazuju odgovarajućim aktom društva propisanim pravom matične države članice.
+(4) Radi provjere ispunjavaju li trgovačko društvo, njegov stvarni vlasnik, članovi uprave, odnosno upravnog odbora trgovačkog društva uvjete iz članka 10. Zakona, Ministarstvo financija ovlašteno je podatke o pravomoćnoj osuđivanosti za kaznena djela i prekršaje u Republici Hrvatskoj pribaviti iz kaznene odnosno prekršajne evidencije na temelju obrazloženog zahtjeva i za djela koja po svom opisu odgovaraju djelima iz članka 10. stavaka 1. do 4. Zakona pribaviti iz Europskog sustava kaznenih evidencija u skladu sa zakonom kojim se uređuju pravne posljedice osude, kaznena evidencija i rehabilitacija ili na drugi odgovarajući način.
+(5) Ministarstvo financija ovlašteno je pribaviti podatke o tome je li nad trgovačkim društvom pokrenut ili proveden stečajni postupak.
+(6) Ministarstvo financija ovlašteno je pribaviti podatke o tome je li nad stvarnim vlasnikom, članom uprave, odnosno upravnog odbora trgovačkog društva pokrenut ili proveden izvansudski postupak ili postupak stečaja potrošača koji su uređeni zakonom kojim se uređuje stečaj potrošača.
+(7) Ministarstvo financija ovlašteno je provjeriti u Informacijskom sustavu Porezne uprave imaju li trgovačko društvo, njegov stvarni vlasnik, članovi uprave, odnosno upravnog odbora dospjeli dug po osnovi javnih davanja kako su određena poreznim propisima.
+(8) Uz zahtjev za izdavanje privremenog rješenja trgovačko društvo prilaže sljedeću dokumentaciju:
+1. izjavu o osnivanju trgovačkog društva ili društveni ugovor ili statut
+2. dokaz o ispunjenju uvjeta iz članka 17. stavka 2. točaka 1. i 2. Zakona prema stavku 3. ovoga članka, u slučaju ovlaštenog revizora ili revizorskog društva iz druge države članice
+3. potvrdu o plaćenoj naknadi.
+(9) Zahtjev za izdavanje privremenog rješenja podnosi se na Obrascu II. koji se nalazi u prilogu ovoga Pravilnika i njegov je sastavni dio.
+(10) Sve okolnosti koje bi mogle utjecati na dobar ugled, trgovačko društvo i njegov stvarni vlasnik, članovi uprave, odnosno upravnog odbora obavezno navode u upitnicima iz Priloga I., Priloga II. i Priloga III. koji su priloženi ovom Pravilniku i njegov su sastavni dio, a prilažu se uz zahtjev za izdavanje privremenog rješenja.
+(11) Naknada za izdavanje privremenog rješenja trgovačkom društvu iznosi četiri tisuće (4.000,00) kuna i plaća se u korist državnog proračuna.
