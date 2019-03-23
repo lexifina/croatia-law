@@ -1,0 +1,10 @@
+## IV. OBJAVA INFORMACIJA I OBAVJEŠTAVANJE ULAGATELJA O PRISILNOM PRIJENOSU UPRAVLJANJA
+# Članak 4.
+(1) Depozitar i UAIF preuzimatelj dužni su sljedeći radni dan od dana objave rješenja kojim Hanfa izdaje odobrenje za preuzimanje upravljanja AIF-om, a obavezno prije samog prijenosa upravljanja, objaviti na svojim internetskim stranicama na vidljivom mjestu informaciju o namjeravanom prijenosu poslova upravljanja, koja informacija će sadržavati:
+a) kratko obrazloženje razloga za prisilni prijenos upravljanja
+b) osnovne podatke o izabranom UAIF-u preuzimatelju te kriterijima kojima se depozitar vodio prilikom takvog izbora
+c) informaciju o svim postupcima i radnjama koje će se poduzeti u vezi s prijenosom upravljanja, uz naznaku datuma kada će se upravljanje prenijeti na UAIF preuzimatelj i
+d) podatak o pravu ulagatelja AIF-a koji se prenosi, u skladu s člankom 4. stavkom 8. ovoga Pravilnika (uz naznaku datuma do kojeg mogu podnijeti zahtjeve za otkup udjela bez plaćanja izlazne naknade).
+(2) Depozitar je dužan u roku od 8 dana od objave rješenja Hanfe kojim se izdaje odobrenje za preuzimanje upravljanja AIF-om, a obavezno prije samog prijenosa upravljanja, obavijestiti u pisanom obliku putem pošte ili na drugom odgovarajućem trajnom mediju (članak 96. Zakona), ulagatelje AIF-a koji se prenosi o svima podacima iz stavka 1. ovoga članka.
+(3) Depozitar je dužan bez odgode obavijestiti Hanfu o ispunjenju dužnosti iz stavka 2. ovoga članka te uz tu obavijest dostaviti tekst obavijesti upućene ulagateljima.
+(4) Od nastupanja razloga za prisilni prijenos upravljanja do nastupanja pravnih posljedica prijenosa upravljanja AIF-om, depozitar ima pravo na naknadu koja u skladu s pravilima AIF-a ili prospektom AIF-a kada je to primjenjivo, pripada UAIF-u. Depozitar ima pravo i na pokriće opravdanih troškova koje je imao u svrhu provedbe postupka izbora UAIF-a preuzimatelja (troškovi objave u dnevnim novinama i troškovi obavještavanja ulagatelja puštem pošte), koji će se namiriti iz imovine AIF-a.
