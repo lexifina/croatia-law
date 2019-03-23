@@ -1,0 +1,2 @@
+# Članak 10.
+Nakon završetka postupka likvidacije AIF-a, odnosno nakon što Hanfa zaprimi zaključna likvidacijska izvješća i izvješće o provedenoj likvidaciji AIF-a iz članka 7. stavka 5. ovoga Pravilnika, odnosno početne i završne likvidacijske financijske izvještaje iz članka 7. stavka 6. ovoga Pravilnika, u registru UAIF-a i AIF-ova upisuje se završetak postupka likvidacije AIF-a i brisanje AIF-a.

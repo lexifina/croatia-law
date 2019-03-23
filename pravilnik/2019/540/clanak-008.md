@@ -1,0 +1,5 @@
+## Rok za provođenje likvidacije AIF-a s privatnom ponudom
+# Članak 8.
+(1) Provedba likvidacije AIF-a s privatnom ponudom mora se u pravilu provesti šest mjeseci od dana donošenja odluke o likvidaciji, što je likvidator dužan navesti u planu likvidacijskog postupka.
+(2) Rok iz stavka 1. ovoga članka može se produžiti za najviše daljnjih 6 mjeseci, ako likvidator ocijeni da je produljenje roka iz stavka 1. ovoga članka u interesu ulagatelja u AIF-u, ili iz objektivnih i dokazivih razloga taj rok nije moguće održati. Likvidator je dužan produljenje roka i obrazloženje produljenja roka unijeti u izmjene i dopune plana likvidacijskog postupka koji dostavlja Hanfi prije isteka roka iz stavka 1. ovoga članka.
+(3) Ako niti produljenje roka u skladu sa stavkom 2. ovoga članka nije dovoljno da se zaštite interesi ulagatelja u AIF-u, odnosno iz objektivnih i dokazivih razloga taj rok nije moguće održati, likvidator može, uz izmjenu plana likvidacijskog postupka na način propisan stavkom 2. ovoga članka produljiti, i tako sve dok je neophodno radi zaštite interesa ulagatelja odnosno dok traju objektivni razlozi radi kojih se postupak produljuje.
