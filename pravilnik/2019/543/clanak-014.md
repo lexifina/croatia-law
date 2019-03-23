@@ -1,0 +1,4 @@
+# Članak 14.
+(1) Središnje klirinško depozitarno društvo je dužno kontinuirano pratiti i procjenjivati ispunjavanje uvjeta članova uprave sukladno članku 18. Pravilnika te Hanfu obavještavati o promjenama informacija na temelju kojih je nadzorni odbor izdao suglasnost iz članka 8. stavka 2. Pravilnika.
+(2) Član uprave središnjeg klirinškog depozitarnog društva kojemu je Hanfa izdala suglasnost sukladno odredbama ovog Pravilnika i Zakona dužan je Hanfu obavještavati o promjenama informacija koje su dostavljene uz zahtjev, a na temelju kojih je Hanfa izdala suglasnost za imenovanje člana uprave središnjeg klirinškog depozitarnog društva.
+(3) Obavijest iz stavka 1. i 2. ovog članka središnje klirinško depozitarno društvo odnosno član uprave središnjeg klirinškog depozitarnog društva dužni su dostaviti Hanfi po svakoj promjeni bez odgode, a najkasnije osam (8) dana nakon utvrđivanja promjene.

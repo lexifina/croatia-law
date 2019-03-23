@@ -1,0 +1,1 @@
+Na temelju članka 632. stavka 9. Zakona o tržištu kapitala (»Narodne novine« broj 65/18) Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća održanoj 7. ožujka 2019. godine donosi
