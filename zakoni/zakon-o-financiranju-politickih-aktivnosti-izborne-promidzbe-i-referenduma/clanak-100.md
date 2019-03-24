@@ -1,0 +1,2 @@
+# Članak 100.
+Jedinice samouprave koje su u proračunu jedinice samouprave za 2019. godinu osigurale sredstva za redovito godišnje financiranje političkih stranaka i nezavisnih vijećnika u manjem iznosu po članu predstavničkog tijela od iznosa utvrđenog u članku 5. ovoga Zakona dužne su do 31. prosinca 2019. u proračunu jedinice samouprave osigurati i isplatiti političkim strankama i nezavisnim vijećnicima razliku sredstava do iznosa utvrđenog u članku 5. ovoga Zakona.

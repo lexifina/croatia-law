@@ -1,0 +1,6 @@
+## Zatvaranje posebnog računa za financiranje referendumske aktivnosti
+# Članak 74.
+(1) Predstavnik organizacijskog odbora dužan je dovršiti sve transakcije na posebnom računu i zatvoriti ga najkasnije u roku od 30 dana nakon održanog referenduma odnosno, ako referendum nije raspisan, najkasnije u roku od šest mjeseci od isteka roka za prikupljanje potpisa birača za izjašnjavanje o potrebi da se zatraži raspisivanje referenduma.
+(2) Ako na posebnom računu za financiranje referendumske aktivnosti nakon završetka svih transakcija sukladno ovom Zakonu preostanu neutrošena sredstva do dana zatvaranja računa, predstavnik organizacijskog odbora može neutrošena financijska sredstva donirati za opće društvene potrebe, a ako sredstva nisu donirana, vraćaju se uplatiocima razmjerno uplaćenom iznosu.
+(3) Predstavnik organizacijskog odbora dužan je najkasnije u roku od osam dana od dana zatvaranja posebnog računa za financiranje referendumske aktivnosti dostaviti Državnom izbornom povjerenstvu potvrdu banke o zatvaranju računa.
+(4) Podatke o zatvaranju posebnog računa predstavnik organizacijskog odbora dužan je u roku iz stavka 3. ovoga članka unijeti u informacijski sustav za nadzor financiranja.

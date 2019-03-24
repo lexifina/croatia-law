@@ -1,0 +1,5 @@
+## Financijski izvještaj o financiranju izborne promidžbe
+# Članak 58.
+(1) Političke stranke te osobe ovlaštene za zastupanje neovisnih lista odnosno nositelji lista grupe birača i kandidati dužni su sastaviti i dostaviti Državnom izbornom povjerenstvu, unosom u informacijski sustav za nadzor financiranja, financijski izvještaj o financiranju izborne promidžbe s podacima o ostvarenim primicima za financiranje izborne promidžbe, izvorima financiranja te o troškovima za financiranje izborne promidžbe te s propisanim sastavnim dijelovima iz stavka 2. ovoga članka, u roku od 30 dana nakon održanih izbora.
+(2) Sastavni dio financijskog izvještaja iz stavka 1. ovoga članka je izvješće o primljenim donacijama i troškovima izborne promidžbe te izvješće o iznosu cijene i iznosu ostvarenog popusta u cijeni za medijsko oglašavanje izborne promidžbe.
+(3) Obrazac i način unosa financijskog izvještaja o financiranju izborne promidžbe, s propisanim sastavnim dijelovima iz stavka 2. ovoga članka, u informacijski sustav za nadzor financiranja, uz prethodnu suglasnost Državnog izbornog povjerenstva, propisuje ministar financija pravilnikom.

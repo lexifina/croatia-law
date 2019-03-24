@@ -1,0 +1,9 @@
+## Polugodišnje izvješće o donacijama
+# Članak 21.
+(1) Političke stranke, nezavisni zastupnici i nezavisni vijećnici koji su u prvih šest mjeseci tekuće godine primili donacije dužni su najkasnije do 15. srpnja tekuće godine dostaviti Državnom izbornom povjerenstvu, unosom u informacijski sustav za nadzor financiranja, izvješće o donacijama koje su, za potporu svoga političkog djelovanja, primili u prvih šest mjeseci tekuće godine (polugodišnje izvješće).
+(2) Izvješće o donacijama treba sadržavati specificirane podatke o donatoru (osobno ime odnosno naziv i adresa te osobni identifikacijski broj), datumu uplate donacije odnosno davanja proizvoda ili pružanja usluga bez naplate, o uplaćenom iznosu donacije odnosno o tržišnoj vrijednosti darovanog proizvoda ili usluge naznačenoj na potvrdi te o vrsti svake pojedine donacije.
+(3) Političke stranke, nezavisni zastupnici i nezavisni vijećnici koji u prvih šest mjeseci tekuće godine nisu primili donacije dužni su u roku iz stavka 1. ovoga članka dostaviti Državnom izbornom povjerenstvu, unosom u informacijski sustav za nadzor financiranja, obavijest da u navedenom razdoblju nisu primili donacije.
+(4) Državno izborno povjerenstvo dužno je objaviti na svojim mrežnim stranicama izvješće iz stavka 1. ovoga članka i obavijesti iz stavka 3. ovoga članka prvog radnog dana nakon njihove dostave. Podaci o adresi donatora fizičke osobe ne objavljuju se.
+(5) Objava iz stavka 4. ovoga članka traje do objave godišnjeg financijskog izvještaja za kalendarsku godinu na koju se odnosi polugodišnje izvješće o donacijama.
+(6) Obrazac izvješća iz stavka 1. ovoga članka i obavijesti iz stavka 3. ovoga članka te način unosa u informacijski sustav za nadzor financiranja, uz prethodnu suglasnost Državnog izbornog povjerenstva, propisuje ministar financija pravilnikom.
+POGLAVLJE IV.

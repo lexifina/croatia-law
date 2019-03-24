@@ -1,0 +1,9 @@
+## POGLAVLJE IV. IZVJEŠĆE O DONACIJAMA, TROŠKOVIMA I MEDIJSKOM OGLAŠAVANJU IZBORNE PROMIDŽBE
+## Izvješće o donacijama i troškovima izborne promidžbe
+# Članak 39.
+(1) Političke stranke te osobe ovlaštene za zastupanje neovisnih lista odnosno nositelji lista grupe birača i kandidati kojima se sredstva za financiranje izborne promidžbe uplaćuju na njihov poseban račun dužni su u roku od sedam dana prije održavanja izbora dostaviti Državnom izbornom povjerenstvu, unosom u informacijski sustav za nadzor financiranja, izvješće o primljenim donacijama za financiranje izborne promidžbe i izvješće o troškovima (rashodima) izborne promidžbe, s ažuriranim podacima do dana podnošenja izvješća.
+(2) Izvješće o donacijama treba sadržavati specificirane podatke o donatoru (osobno ime odnosno naziv i adresa te osobni identifikacijski broj), datumu uplate donacije odnosno davanja proizvoda ili pružanja usluga bez naplate, o uplaćenom iznosu donacije odnosno o tržišnoj vrijednosti darovanog proizvoda ili usluge naznačenoj na potvrdi te o vrsti svake pojedine donacije.
+(3) Izvješće o troškovima (rashodima) izborne promidžbe treba sadržavati specificirane podatke o svrsi troška, nazivu i adresi primatelja, datumu isplate te o isplaćenom iznosu odnosno iznosu tržišne vrijednosti proizvoda ili usluga navedenom na potvrdi, ako se radi o donacijama u obliku proizvoda ili usluga.
+(4) Državno izborno povjerenstvo dužno je objaviti na svojim mrežnim stranicama izvješća iz stavaka 2. i 3. ovoga članka, prvoga radnog dana od dana njihove dostave. Podatak o adresi fizičke osobe donatora i primatelja iz stavaka 2. i 3. ovoga članka ne objavljuje se.
+(5) Objava iz stavka 4. ovoga članka traje do objave financijskog izvještaja o financiranju izborne promidžbe.
+(6) Obrazac izvješća iz stavka 1. ovoga članka i način unosa u informacijski sustav za nadzor financiranja, uz prethodnu suglasnost Državnog izbornog povjerenstva, propisuje ministar financija pravilnikom.

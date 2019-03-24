@@ -1,0 +1,4 @@
+## Rok prikupljanja donacija za financiranje referendumske aktivnosti
+# Članak 71.
+(1) Donacije za financiranje referendumske aktivnosti mogu se prikupljati od dana otvaranja posebnog računa za financiranje referendumske aktivnosti do isteka roka za prikupljanje potpisa birača za izjašnjavanje o potrebi da se zatraži raspisivanje referenduma te u slučaju raspisivanja referenduma od dana objave odluke o raspisivanju referenduma u službenom glasilu do dana održavanja referenduma.
+(2) Eventualne donacije primljene izvan rokova utvrđenih u stavku 1. ovoga članka predstavnik organizacijskog odbora dužan je odmah prijaviti Državnom izbornom povjerenstvu, a donaciju vratiti donatoru najkasnije u roku od 15 dana od dana primitka donacije, a ako povrat nije moguć ili je donacija iz nedopuštenog izvora, dužan je u istom roku uplatiti iznos vrijednosti takve donacije u državni proračun.

@@ -1,0 +1,6 @@
+## Uplata i korištenje sredstava s posebnog računa za redovito godišnje financiranje
+# Članak 14.
+(1) Nezavisni zastupnici i nezavisni vijećnici dužni su sve transakcije koje se odnose na redovito godišnje financiranje njihove političke aktivnosti obavljati putem posebnog računa za redovito godišnje financiranje svoje djelatnosti.
+(2) Na poseban račun za redovito godišnje financiranje primaju se uplate donacija za potporu političkog djelovanja nezavisnog zastupnika odnosno nezavisnog vijećnika tijekom godine (osim donacija za financiranje izborne promidžbe) i uplate sredstava iz proračuna za redovito godišnje financiranje te se na taj račun ne smiju ujedno primati i druge uplate koje vlasnik računa ostvaruje po drugim osnovama (npr. primici od samostalne djelatnosti ili nesamostalnog rada i dr.).
+(3) Sredstva s posebnog računa za redovito godišnje financiranje mogu se koristiti isključivo u skladu s financijskim planom i programom rada te se ne mogu koristiti za otplatu osobnih dugovanja ili u druge privatne svrhe nezavisnog zastupnika odnosno nezavisnog vijećnika.
+(4) Sredstva s posebnog računa za redovito godišnje financiranje izuzeta su od ovrhe, osim ovrhe u svezi s obvezom iz obavljanja političke djelatnosti.

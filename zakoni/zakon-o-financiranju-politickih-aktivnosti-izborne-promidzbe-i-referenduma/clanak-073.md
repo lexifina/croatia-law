@@ -1,0 +1,7 @@
+## Otvaranje posebnog računa za financiranje referendumske aktivnosti
+# Članak 73.
+(1) Poseban račun za financiranje referendumskih aktivnosti dužan je otvoriti predstavnik organizacijskog odbora.
+(2) Predstavnik organizacijskog odbora dužan je otvoriti poseban račun za financiranje referendumske aktivnosti najkasnije do početka roka za prikupljanje potpisa birača određenog odlukom da se pristupi izjašnjavanju birača o potrebi da se zatraži raspisivanje referenduma, a najranije ga može otvoriti šest mjeseci prije roka određenog za prikupljanje potpisa birača, nakon objave navedene odluke.
+(3) Predstavnik organizacijskog odbora dužan je u roku od tri dana od dana otvaranja posebnog računa za financiranje referendumskih aktivnosti dostaviti Državnom izbornom povjerenstvu pisanu obavijest o otvaranju tog računa s podacima o tom računu i podacima o datumu objave i nazivu dnevnog tiska ili drugih sredstava javnog priopćavanja u kojima je objavljena odluka organizacijskog odbora da se pristupi izjašnjavanju birača o potrebi da se zatraži raspisivanje referenduma, zajedno s preslikom te odluke, a Državno izborno povjerenstvo mu po primitku obavijesti izdaje lozinku za ulaz u informacijski sustav za nadzor financiranja.
+(4) Pisana obavijest iz stavka 3. ovoga članka mora sadržavati i podatak o adresi elektroničke pošte za zaprimanje pismena u postupku nadzora financiranja.
+(5) Pismena koja su Državno izborno povjerenstvo i druga nadležna tijela poslali na adresu elektroničke pošte iz stavka 4. ovoga članka smatrat će se uredno zaprimljenim.

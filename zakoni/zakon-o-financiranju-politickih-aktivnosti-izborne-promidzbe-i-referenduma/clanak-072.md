@@ -1,0 +1,4 @@
+## Poseban račun za financiranje referendumske aktivnosti
+# Članak 72.
+(1) Poseban račun za financiranje referendumske aktivnosti je račun građana za posebne namjene (za financiranje referendumske aktivnosti) u izabranoj banci koji se otvara na način i u postupku prema općim pravilima bankarskog poslovanja, a na koji se primaju uplate donacija i vlastitih sredstava članova organizacijskog odbora za financiranje referendumske aktivnosti i obavljaju sve transakcije koje se odnose na financiranje referendumske aktivnosti te se na taj račun ne smiju ujedno primati i druge uplate koje vlasnik računa ostvaruje po drugim osnovama (npr. primici od samostalne djelatnosti ili nesamostalnog rada i dr.) niti se sredstva s tog računa smiju koristiti za bilo koju drugu svrhu, osim podmirenja troškova referendumskih aktivnosti.
+(2) Sredstva s posebnog računa iz stavka 1. ovoga članka izuzeta su od ovrhe, osim ovrhe za naplatu troškova referendumske aktivnosti.

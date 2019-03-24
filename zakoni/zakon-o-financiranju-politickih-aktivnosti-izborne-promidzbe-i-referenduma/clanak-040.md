@@ -1,0 +1,5 @@
+## Izvješće o medijskom oglašavanju izborne promidžbe
+# Članak 40.
+(1) Političke stranke, osobe ovlaštene za zastupanje neovisnih lista odnosno nositelji lista grupe birača i kandidati dužni su u roku od sedam dana prije održavanja izbora dostaviti Državnom izbornom povjerenstvu, unosom u informacijski sustav za nadzor financiranja, izvješće o iznosu cijene i iznosu ostvarenog popusta u cijeni za medijsko oglašavanje izborne promidžbe sa specificiranim podacima o nazivu pružatelja medijskih usluga, broju i datumu računa za izvršene medijske usluge, broju ugovorenih i izvršenih medijskih usluga, iznosu cijene bez popusta, popustu izraženom u postotku i plaćenom iznosu s popustom.
+(2) Državno izborno povjerenstvo dužno je objaviti na svojim mrežnim stranicama izvješće iz stavka 1. ovoga članka, prvoga radnog dana od dana njegove dostave.
+(3) Obrazac izvješća iz stavka 1. ovoga članka i način unosa u informacijski sustav za nadzor financiranja, uz prethodnu suglasnost Državnog izbornog povjerenstva, propisuje ministar financija pravilnikom.

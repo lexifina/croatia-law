@@ -1,0 +1,3 @@
+# Članak 92.
+(1) Novčanom kaznom za prekršaj u iznosu od 2000,00 do 20.000,00 kuna kaznit će se osoba ovlaštena za zastupanje i predstavljanje jedinice samouprave odnosno odgovorna osoba u Hrvatskome saboru koja odobri isplatu naknade troškova izborne promidžbe iz državnog proračuna odnosno iz proračuna jedinice samouprave, suprotno zabrani iz članka 63. stavka 10. ovoga Zakona.
+(2) Novčanom kaznom za prekršaj u iznosu od 2000,00 do 20.000,00 kuna kaznit će se osoba ovlaštena za zastupanje i predstavljanje jedinice samouprave odnosno odgovorna osoba u Hrvatskome saboru koja odobri isplatu sredstava za redovito godišnje financiranje iz državnog proračuna odnosno iz proračuna jedinice samouprave, suprotno zabrani iz članka 64. stavka 7. ovoga Zakona.

@@ -1,0 +1,9 @@
+## Otvaranje posebnog računa za redovito godišnje financiranje
+# Članak 13.
+(1) Nezavisni zastupnici i nezavisni vijećnici dužni su najkasnije u roku od 60 dana od početka mandata otvoriti poseban račun za redovito godišnje financiranje svoje djelatnosti.
+(2) Pisanu obavijest o otvaranju posebnog računa iz stavka 1. ovoga članka, s podacima o tom računu, nezavisni zastupnici odnosno nezavisni vijećnici dužni su najkasnije u roku od osam dana od dana njegova otvaranja dostaviti Odboru za Ustav, Poslovnik i politički sustav Hrvatskoga sabora odnosno predstavničkom tijelu jedinice samouprave te Državnom izbornom povjerenstvu.
+(3) Pisana obavijest iz stavka 2. ovoga članka mora sadržavati i podatak o adresi elektroničke pošte za zaprimanje pismena u postupku nadzora financiranja.
+(4) Pismena koja su uputili Državno izborno povjerenstvo i druga nadležna tijela na adresu elektroničke pošte iz stavka 3. ovoga članka smatrat će se uredno zaprimljenim, osim pismena za koja je ovim Zakonom propisano da se smatraju zaprimljenim putem javne objave na mrežnim stranicama Državnog izbornog povjerenstva.
+(5) Nakon primitka pisane obavijesti iz stavka 2. ovoga članka Državno izborno povjerenstvo izdaje nezavisnim zastupnicima i nezavisnim vijećnicima lozinku za ulaz u informacijski sustav za nadzor financiranja.
+(6) Poseban račun iz stavka 1. ovoga članka nisu dužni otvoriti nezavisni zastupnici i nezavisni vijećnici koji su se, sukladno članku 8. stavku 1. ovoga Zakona, odrekli prava na redovito godišnje financiranje iz proračuna te svoju političku aktivnost ne financiraju ni iz drugih zakonom dopuštenih izvora.
+(7) Nezavisni zastupnici i nezavisni vijećnici koji su nakon isteka mandata ponovno izabrani za nezavisnog zastupnika odnosno nezavisnog vijećnika nisu dužni otvoriti novi poseban račun za redovito godišnje financiranje u novom mandatu, već u novom mandatu koriste isti poseban račun koji su koristili u prethodnom mandatu.

@@ -1,0 +1,3 @@
+# Članak 97.
+(1) Godišnji financijski izvještaji političkih stranaka, nezavisnih zastupnika i nezavisnih vijećnika za 2018. godinu, zajedno s prilozima, sastavljaju se i dostavljaju Državnom uredu za reviziju i Državnom izbornom povjerenstvu i objavljuju u skladu s odredbama Zakona o financiranju političkih aktivnosti i izborne promidžbe (»Narodne novine«, br. 24/11., 61/11., 27/13., 48/13. – pročišćeni tekst, 2/14. – Odluka Ustavnog suda Republike Hrvatske, 96/16. i 70/17.).
+(2) Prvi godišnji financijski izvještaji, zajedno s prilozima, koji se sastavljaju i dostavljaju Državnom uredu za reviziju i Državnom izbornom povjerenstvu u skladu s odredbama ovoga Zakona, odnose se na izvještajno razdoblje od 1. siječnja 2019.
