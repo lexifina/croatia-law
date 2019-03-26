@@ -1,0 +1,1 @@
+Na temelju odredbe članka 94. Ustava Republike Hrvatske (»Narodne novine«, broj 56/90, 135/97, 113/00, 28/01, 76/10 i 5/14 - Odluka Ustavnog suda Republike Hrvatske) i članaka 7. i 8. Zakona o izboru članova u Europski parlament iz Republike Hrvatske (»Narodne novine«, broj 92/10, 23/13 i 143/13), donosim
