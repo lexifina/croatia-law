@@ -1,0 +1,2 @@
+# Članak 2.
+Hrvatskom branitelju iz Domovinskog rata, korisniku prijevremene starosne mirovine, starosne mirovine za dugogodišnjeg osiguranika, starosne ili invalidske mirovine, kao i korisniku obiteljske mirovine nakon smrti hrvatskog branitelja iz Domovinskog rata koji ispunjava uvjete za ostvarivanje prava na mirovinu prema ZOHBDR-u ili Zakonu o mirovinskom osiguranju, a mirovina mu je manja od najniže mirovine, određuje se najniža mirovina u svoti od 2558,25 kn i povećava prema članku 4. ove Odluke ako ispunjava uvjet iz članka 49. stavka 4. ZOHBDR.

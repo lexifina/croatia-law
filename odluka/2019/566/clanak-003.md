@@ -1,0 +1,2 @@
+# Članak 3.
+Hrvatskom branitelju iz Domovinskog rata, koji je navršio životnu dob iz članka 26. ZOHBDR-a, a ne ispunjava uvjete mirovinskog staža za starosnu mirovinu prema ZOHBDR-u ni prema Zakonu o mirovinskom osiguranju te nije stekao uvjete za neku drugu mirovinu u sustavu obveznog mirovinskog osiguranja generacijske solidarnosti, pripada pravo na mirovinu u visini najniže mirovine, koja od 1. siječnja 2019. iznosi 2.558,25 kn mjesečno, ako ispunjava uvjet iz članka 49. stavka 4. ZOHBDR-a.

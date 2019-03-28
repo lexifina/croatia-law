@@ -1,0 +1,2 @@
+# Članak 4.
+Najniža mirovina iz članka 1. ove Odluke korisnicima iz članka 1. do 3. povećava se za 0,015% od utvrđene proračunske osnovice predviđene propisom kojim se uređuje izvršavanje državnog proračuna Republike Hrvatske odnosno za 0,4989 kn za svaki dan sudjelovanja u obrani suvereniteta Republike Hrvatske u borbenom sektoru, uz primjenu odgovarajućeg mirovinskog i polaznog faktora prema kojemu je mirovina određena, odnosno mirovinskog i polaznog faktora iz članka 50. i 51. ZOHBDR-a.
