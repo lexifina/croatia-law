@@ -1,0 +1,4 @@
+# Članak 13.
+(1) Voditelj mjere dužan je tijekom provedbe zaštitne mjere u kontaktu s počiniteljem, po potrebi, a najmanje jedanput mjesečno, provjeriti postupa li počinitelj u skladu s izrečenom zaštitnom mjerom te ga upozoriti na posljedice u slučaju kršenja izrečene mjere.
+(2) Ovisno o okolnostima i ponašanju počinitelja u odnosu na izrečenu zaštitnu mjeru, kontakt iz stavka 1. ovoga članka ostvaruje se neposredno, dolaskom počinitelja u policijsku postaju, putem drugih policijskih službenika ili putem komunikacijskih sredstava.
+(3) U slučaju odlaska počinitelja u inozemstvo, tijekom trajanja zaštitne mjere, koje je trajnijeg karaktera policija će izvršiti unos u odgovarajuću evidenciju nadzora državne granice kako bi se u slučaju njegova povratka u Republiku Hrvatsku izvijestio voditelj mjere.

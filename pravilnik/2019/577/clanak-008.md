@@ -1,0 +1,7 @@
+## Pripreme u odnosu na počinitelja
+# Članak 8.
+(1) Radi provedbe izrečene zaštitne mjere voditelj mjere će u službene prostorije policije, bez odgode, pozvati počinitelja te će ga, na jasan način, upoznati sa zaštitnom mjerom koja mu je izrečena, kao i sa svim obvezama i dužnostima koje proizlaze iz sudske odluke kojom je ta mjera izrečena, uz upozorenje da kršenje izrečene zaštitne mjere podliježe kažnjivoj odgovornosti.
+(2) Iznimno, ako je počinitelj osoba s većim stupnjem invaliditeta uslijed kojeg ne može pristupiti u policijsku postaju, voditelj mjere može počinitelja sa postupanjima iz stavka 1. ovoga članka upoznati u njegovu domu.
+(3) Odredbe o pružanju odgovarajuće podrške sukladno stupnju i vrsti invaliditeta opisane u članku 6. ovoga Pravilnika, primjenjuju se i na počinitelja s invaliditetom.
+(4) Iznimno, ako je to zbog udaljenosti mjesta počiniteljeva boravka svrhovito, postupanje iz stavka 1. ovoga članka žurno će poduzeti policijski službenici ustrojstvene jedinice policije u mjestu boravka počinitelja na obrazloženi zahtjev nadležnog rukovoditelja voditelja mjere.
+(5) O postupanju ustrojstvene jedinice iz stavka 2. ovoga članka žurno će se, putem nadležnog rukovoditelja, obavijestiti voditelja mjere koji će sukladno sigurnosnoj prosudbi u potrebnoj mjeri zatražiti i eventualno dodatna postupanja ustrojstvene jedinice na čijem području boravi počinitelj kojem je izrečena zaštitna mjera.
