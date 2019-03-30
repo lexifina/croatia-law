@@ -1,0 +1,3 @@
+# Članak 4.
+(1) Nezaposlena osoba koja zasnuje radni odnos na godinu dana ili duže na području države Europske unije, Europskog gospodarskog prostora ili Švicarske Konfederacije može ostvariti prava iz članka 2. i članka 3. stavka 1. ovoga Pravilnika ako se trajno nastani u toj državi i zbog toga promijeni mjesto prebivališta.
+(2) Nezaposlena osoba koja zasnuje radni odnos na području države Europske unije, Europskog gospodarskog prostora ili Švicarske Konfederacije neovisno o trajanju radnog odnosa, a ne nastani se trajno u toj državi i zbog toga ne promijeni mjesto prebivališta, ima pravo na naknadu putnog troška od mjesta prebivališta ili boravišta do mjesta zaposlenja samo za sebe.

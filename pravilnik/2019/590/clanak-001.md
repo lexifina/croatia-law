@@ -1,0 +1,4 @@
+# Članak 1.
+(1) Ovim Pravilnikom uređuju se uvjeti za korištenje prava na jednokratnu novčanu pomoć i na naknadu putnih i selidbenih troškova, kao i visina naknade koju ima nezaposlena osoba koja se vodi u evidenciji Hrvatskoga zavoda za zapošljavanje (u daljnjem tekstu: Zavod), a kojoj Zavod nije u mogućnosti osigurati zaposlenje u mjestu prebivališta ili boravišta te koja sama ili posredovanjem Zavoda nađe zaposlenje u drugom mjestu.
+(2) Pod drugim mjestom zaposlenja smatra se mjesto rada na području Republike Hrvatske, države Europske unije, Europskog gospodarskog prostora ili Švicarske Konfederacije navedeno u ugovoru o radu udaljeno više od 80 km od mjesta prebivališta ili boravišta.
+(3) Izrazi koji se koriste u ovom Pravilniku, a imaju rodno značenje, koriste se neutralno i odnose se jednako na muški i ženski rod.
