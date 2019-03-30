@@ -1,0 +1,1 @@
+Pravilnik o izmjenama i dopunama Pravilnika o strukturi i sadržaju financijskog i statističkog izvješća društava za zastupanje u osiguranju, odnosno društava za posredovanje u osiguranju i reosiguranju

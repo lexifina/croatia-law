@@ -1,0 +1,3 @@
+# Članak 1.
+(1) Naslov Pravilnika o strukturi i sadržaju financijskog i statističkog izvješća društava za zastupanje u osiguranju, odnosno društava za posredovanje u osiguranju i reosiguranju (»Narodne novine« broj 37/16), (dalje u tekstu: Pravilnik) mijenja se i glasi: »Pravilnik o obliku i sadržaju financijskog i statističkog izvještaja osoba koje imaju dozvolu za obavljanje poslova distribucije osiguranja i/ili distribucije reosiguranja«.
+(2) U tekstu Pravilnika riječi »društvo za posredovanje u osiguranju i reosiguranju« mijenjaju se u odgovarajućem padežu u riječi »društvo za brokerske poslove u osiguranju i/ili u reosiguranju«.

@@ -1,0 +1,1 @@
+Na temelju članka 428. točke 3. i članka 429. stavak 2. i 4. Zakona o osiguranju (»Narodne novine« broj 30/15 i 112/18), Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća održanoj 14. ožujka 2019. donijela je
