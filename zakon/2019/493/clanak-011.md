@@ -1,0 +1,3 @@
+# Članak 11.
+U članku 38. stavak 2. mijenja se i glasi:
+»(2) Primjerak rješenja iz stavka 1. ovoga članka dostavlja se nadležnoj ispostavi područnog ureda središnjeg tijela državne uprave nadležnog za porezni sustav, mjesno nadležnom uredu turističke inspekcije središnjeg tijela državne uprave nadležnog za inspekcijske poslove u području ugostiteljstva i nadležnom uredu sanitarne inspekcije središnjeg tijela državne uprave nadležnog za poslove sanitarne inspekcije te središnjem tijelu državne uprave nadležnom za poslove statistike, a za objekte u kojima se pruža usluga smještaja i turističkoj zajednici toga područja.«.

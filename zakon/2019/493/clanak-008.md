@@ -1,0 +1,3 @@
+# Članak 8.
+U članku 34. stavak 8. mijenja se i glasi:
+»(8) Primjerak izvršnog rješenja o odobrenju dostavlja se nadležnoj ispostavi područnog ureda središnjeg tijela državne uprave nadležnog za porezni sustav, mjesno nadležnom uredu turističke inspekcije središnjeg tijela državne uprave nadležnog za inspekcijske poslove u području ugostiteljstva i nadležnom uredu sanitarne inspekcije središnjeg tijela državne uprave nadležnog za poslove sanitarne inspekcije te središnjem tijelu državne uprave nadležnom za poslove statistike, a za objekte u kojima se pruža usluga smještaja i turističkoj zajednici toga područja.«.

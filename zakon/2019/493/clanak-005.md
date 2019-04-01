@@ -1,0 +1,3 @@
+# Članak 5.
+U članku 25. stavak 4. mijenja se i glasi:
+»(4) Primjerak izvršnog privremenog rješenja iz stavka 1. ovoga članka dostavlja se mjesno nadležnom uredu turističke inspekcije središnjeg tijela državne uprave nadležnog za inspekcijske poslove u području ugostiteljstva i nadležnom uredu sanitarne inspekcije središnjeg tijela državne uprave nadležnog za poslove sanitarne inspekcije, nadležnoj ispostavi područnog ureda središnjeg tijela državne uprave nadležnog za porezni sustav te središnjem tijelu državne uprave nadležnom za poslove statistike, a za ugostiteljske objekte u kojima se pruža usluga smještaja i turističkoj zajednici toga područja.«.
