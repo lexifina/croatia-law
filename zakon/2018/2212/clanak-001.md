@@ -1,0 +1,3 @@
+# Članak 1.
+U Zakonu o provedbi Uredbe (EZ) br. 1829/2003 Europskoga parlamenta i Vijeća od 22. rujna 2003. godine o genetski modificiranoj hrani i hrani za životinje i Uredbe (EZ) br. 1830/2003 Europskoga parlamenta i Vijeća od 22. rujna 2003. godine o sljedivosti i označavanju genetski modificiranih organizama i sljedivosti hrane i hrane za životinje proizvedenih od genetski modificiranih organizama kojom se izmjenjuje i dopunjuje Direktiva 2001/18/EZ (»Narodne novine«, br. 18/13. i 47/14.) u članku 3. stavku 1. riječi: »ministarstvo nadležno za zdravlje« zamjenjuju se riječima: »ministarstvo nadležno za zdravstvo«.
+U stavku 2. riječi: »ministar nadležan za zdravlje« zamjenjuju se riječima: »ministar nadležan za zdravstvo«.
