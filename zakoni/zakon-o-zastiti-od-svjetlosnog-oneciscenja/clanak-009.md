@@ -1,0 +1,2 @@
+# Članak 9.
+Obvezni način i uvjete upravljanja rasvjetljavanjem, zone rasvijetljenosti i zaštite, najviše dopuštene vrijednosti rasvjetljavanja, uvjete za odabir i postavljanje svjetiljki, kriterije energetske učinkovitosti, uvjete i najviše dopuštene vrijednosti korelirane temperature boje izvora svjetlosti vezano za rasvjetu propisuju se pravilnikom koji donosi ministar, uz prethodno mišljenje ministra nadležnog za poslove prostornog uređenja i gradnje i ministra nadležnog za poslove zdravstva.

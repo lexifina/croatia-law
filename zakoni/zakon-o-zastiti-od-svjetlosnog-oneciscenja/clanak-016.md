@@ -1,0 +1,9 @@
+## Inspekcijski nadzor
+# Članak 16.
+(1) Inspekcijski nadzor nad provedbom ovoga Zakona i podzakonskih akata donesenih na temelju ovoga Zakona obavlja inspekcija nadležna za područje zaštite okoliša u području nadzora ispunjavanja propisanih obveza jedinica lokalne samouprave i Grada Zagreba te operatora vanjske rasvjete i onečišćivača kao nositelja zahvata u okolišu.
+(2) Ovlasti inspektora iz stavka 1. ovoga članka, način i postupak inspekcijskog nadzora propisani su ovim Zakonom, zakonom kojim se uređuje zaštita okoliša i zakonom kojim se uređuje Državni inspektorat.
+(3) Inspekcijski nadzor nad provedbom ovoga Zakona i podzakonskih akata donesenih na temelju ovoga Zakona obavlja inspekcija nadležna za područje elektroenergetike u području nadzora osoba ovlaštenih za mjerenja rasvijetljenosti i izrade izvješća o provedenom mjerenju.
+(4) Ovlasti inspektora iz stavka 3. ovoga članka, način i postupak inspekcijskog nadzora propisani su ovim Zakonom, zakonom kojim se uređuje Državni inspektorat i propisima iz područja elektroenergetike.
+(5) Ako inspektor iz stavaka 1. i 3. ovoga članka u provođenju inspekcijskog nadzora utvrdi ili posumnja u povredu propisa iz područja gradnje, uporabe i održavanja građevina, nadzora javnih cesta i sigurnosti prometa na cestama, dužan je o sumnji obavijestiti nadležnu inspekciju odnosno komunalnog redara.
+(6) Inspekcijski nadzor nad provedbom ovoga Zakona i propisa donesenih na temelju njega kojima se propisuju granične vrijednosti i/ili značajke kvalitete proizvoda svjetiljka, način utvrđivanja kvalitete svjetiljka, dokazivanje sukladnosti i/ili drugih značajki kakvoće takvih proizvoda te stavljanje svjetiljki na tržište provodi tržišna inspekcija na način propisan posebnim zakonom.
+(7) Protiv rješenja inspektora može se izjaviti žalba u roku od 15 dana od dana dostave rješenja. Žalba ne odgađa izvršenje rješenja.

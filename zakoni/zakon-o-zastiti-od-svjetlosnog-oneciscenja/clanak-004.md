@@ -1,0 +1,3 @@
+## Primjena propisa
+# Članak 4.
+Na pitanja koja nisu uređena ovim Zakonom primjenjuju se propisi kojima se uređuje područje zaštite okoliša i prirode, elektroenergetike, prostornog uređenja, gradnje, uporabe i održavanja građevine, pravnog statusa javnih cesta i sigurnosti prometa na cestama, učinkovitog korištenja energije, komunalnog gospodarstva, jedinica lokalne samouprave i područne (regionalne) samouprave, tehničkih zahtjeva za proizvode i ocjenjivanje sukladnosti te posebni zakoni kojima se ustrojava građevinska inspekcija, inspekcija cestovnog prometa i cesta, tržišna inspekcija, sanitarna inspekcija, inspekcija sigurnosti plovidbe, inspekcija zaštite okoliša, inspekcija u području zaštite na radu te inspekcija u području elektroenergetike.
