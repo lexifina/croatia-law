@@ -1,0 +1,9 @@
+## Prijelazna nacionalna zaštita
+# Članak 73.
+(1) Ministarstvo rješenjem o prijelaznoj nacionalnoj zaštiti naziva aromatiziranog proizvoda od vina kao ZOZP, u skladu s člankom 13. stavkom 7. Uredbe (EU) br. 251/2014, odobrava prijelaznu nacionalnu zaštitu naziva ZOZP u Republici Hrvatskoj, koja započinje danom kada je zahtjev iz članka 74. stavka 1. ovoga Zakona podnesen Europskoj komisiji.
+(2) Nazivi aromatiziranog proizvoda od vina zaštićeni prijelaznom nacionalnom zaštitom kao ZOZP imaju jednaku zaštitu onoj koja je propisana u članku 20. Uredbe (EU) br. 251/2014, ali je važeća samo na području Republike Hrvatske.
+(3) Pravna ili fizička osoba koja proizvodi aromatizirani proizvod od vina čiji je naziv zaštićen prijelaznom nacionalnom zaštitom mora aromatizirani proizvod od vina proizvoditi u skladu sa Specifikacijom proizvoda, a proizvod koji je stavila na tržište i označila zaštićenim nazivom mora udovoljavati zahtjevima iz Specifikacije.
+(4) Za vrijeme trajanja prijelazne nacionalne zaštite pravna i fizička osoba na tržište može staviti aromatizirani proizvod od vina označen sa zaštićenim nazivom samo ako je za taj aromatizirani proizvod od vina izdana Potvrda o sukladnosti.
+(5) Prijelazna nacionalna zaštita prestaje danom stupanja na snagu odluke Europske komisije u skladu s člankom 13. stavkom 7. Uredbe (EU) br. 251/2014.
+(6) U slučaju povlačenja zahtjeva iz članka 78. ovoga Zakona od podnositelja zahtjeva ili odbijanja zahtjeva od Europske komisije aromatizirani proizvod od vina za koji je prethodno izdana Potvrda o sukladnosti može se nalaziti na tržištu do isteka roka trajanja proizvoda.
+(7) Evidenciju naziva aromatiziranog proizvoda od vina čiji je naziv zaštićen prijelaznom nacionalnom zaštitom kao ZOZP s informacijom o datumu početka prijelazne nacionalne zaštite i važećom Specifikacijom proizvoda Ministarstvo uspostavlja i objavljuje na svojim mrežnim stranicama.

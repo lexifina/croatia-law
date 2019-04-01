@@ -1,0 +1,9 @@
+## Prijelazna nacionalna zaštita
+# Članak 36.
+(1) Ministarstvo rješenjem o prijelaznoj nacionalnoj zaštiti naziva vina kao ZOI ili ZOZP, u skladu s člankom 8. Delegirane uredbe Komisije (EU) br. 2019/33, odobrava prijelaznu nacionalnu zaštitu naziva ZOI ili ZOZP u Republici Hrvatskoj, koja započinje danom kada je zahtjev iz članka 38. stavka 1. ovoga Zakona podnesen Europskoj komisiji.
+(2) Nazivi vina zaštićeni prijelaznom nacionalnom zaštitom kao ZOI ili ZOZP imaju jednaku zaštitu onoj koja je propisana u članku 103. Uredbe (EU) br. 1308/2013, ali je važeća samo na području Republike Hrvatske.
+(3) Pravna ili fizička osoba koja proizvodi vino čiji je naziv zaštićen prijelaznom nacionalnom zaštitom mora vino proizvoditi u skladu sa Specifikacijom proizvoda, a proizvod koji je stavila na tržište i označila zaštićenim nazivom mora udovoljavati zahtjevima iz Specifikacije.
+(4) Za vrijeme trajanja prijelazne nacionalne zaštite pravna i fizička osoba na tržište može staviti vino označeno sa zaštićenim nazivom samo ako je za to vino izdano rješenje u skladu s člankom 56. stavkom 2. ovoga Zakona.
+(5) Prijelazna nacionalna zaštita prestaje danom stupanja na snagu odluke Europske komisije u skladu s člankom 99. Uredbe (EU) br. 1308/2013 ili na dan povlačenja zahtjeva iz članka 43. ovoga Zakona.
+(6) U slučaju povlačenja zahtjeva iz članka 43. ovoga Zakona od podnositelja zahtjeva ili odbijanja zahtjeva od Europske komisije, vino za koje je prethodno izvršena provjera sukladnosti sa Specifikacijom proizvoda i izdano je rješenje iz članka 56. stavka 2. ovoga Zakona, a koji su označeni nacionalnom oznakom iz članka 37. ovoga Zakona, mogu se nalaziti na tržištu do isteka roka trajanja proizvoda.
+(7) Evidenciju naziva vina čiji je naziv zaštićen prijelaznom nacionalnom zaštitom kao ZOI ili ZOZP s informacijom o datumu početka prijelazne nacionalne zaštite i važećom Specifikacijom proizvoda Ministarstvo uspostavlja i objavljuje na svojim mrežnim stranicama.

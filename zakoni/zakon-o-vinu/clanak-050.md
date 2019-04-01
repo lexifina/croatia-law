@@ -1,0 +1,4 @@
+## Označavanje zaštićenim oznakama i izrazima
+# Članak 50.
+(1) Zaštićenom oznakom i izrazom može biti označeno hrvatsko vino koje udovoljava uvjetima utvrđenim za označavanje zaštićenim oznakama i izrazima odnosno zahtjevima utvrđenim u Specifikacijama proizvoda, kojima se detaljnije opisuju i određuju uvjeti koje moraju ispunjavati proizvodi da bi nosili zaštićene oznake iz članka 30. stavka 1. i izraze iz članka 44. ovoga Zakona.
+(2) Fizičke ili pravne osobe koje namjeravaju prilikom stavljanja na tržište hrvatsko vino označavati zaštićenim oznakama i izrazima dužne su o tome obavijestiti Agenciju prije početka njegove proizvodnje, a u skladu sa zahtjevima utvrđenim u Specifikacijama proizvoda, kojima se detaljnije opisuju i određuju uvjeti koje moraju ispunjavati proizvodi da bi nosili zaštićene oznake iz članka 30. stavka 1. i izraze iz članka 44. ovoga Zakona.

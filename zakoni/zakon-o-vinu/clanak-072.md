@@ -1,0 +1,6 @@
+## Postupak postizanja sporazuma
+# Članak 72.
+(1) Postupak postizanja sporazuma započinje danom zaprimanja dokumentacije i poziva iz članka 71. stavka 6. ovoga Zakona i može trajati najviše dva mjeseca, no tijekom postupka sporazumijevanja Ministarstvo može na zahtjev podnositelja zahtjeva produljiti rok za najviše 30 dana te je podnositelj zahtjeva po završetku postupka postizanja sporazuma obvezan Ministarstvu u roku od 15 dana dostaviti obavijest o ishodu na propisanom obrascu, uz obrazloženje i pripadajuću dokumentaciju.
+(2) Po zaprimljenoj obavijesti o ishodu postupka postizanja sporazuma iz stavka 1. ovoga članka, ako je sporazum postignut, Ministarstvo objavljuje izmijenjenu Specifikaciju s popisom priloga na mrežnim stranicama Ministarstva, a u »Narodnim novinama« obavijest o izmijenjenoj Specifikaciji te se ponovno provodi postupak prigovora kako je propisano člankom 71. ovoga Zakona.
+(3) Po zaprimljenoj obavijesti o ishodu postupka postizanja sporazuma iz stavka 1. ovoga članka, ako sporazum nije postignut, Ministarstvo donosi rješenje o obustavi postupka iz članka 68. stavka 1. ovoga Zakona.
+(4) Protiv rješenja donesenog na temelju stavka 3. ovoga članka nije dopuštena žalba, već se može pokrenuti upravni spor.
