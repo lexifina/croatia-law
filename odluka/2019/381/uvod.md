@@ -1,0 +1,1 @@
+Na temelju članka 42. Zakona o lokalnim porezima (»Narodne novine« broj 115/16, 101/17 ) i članka 31. Statuta Općine Veliki Bukovec (»Službeni vjesnik Varaždinske županije« broj 18/13 i 6/18), Općinsko vijeće Općine Veliki Bukovec na 18. sjednici održanoj 25. siječnja 2019. godine donijelo je
