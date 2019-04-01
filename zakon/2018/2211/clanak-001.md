@@ -1,0 +1,4 @@
+# Članak 1.
+U Zakonu o provedbi Uredbe (EU) br. 609/2013 Europskog parlamenta i Vijeća od 12. lipnja 2013. o hrani za dojenčad i malu djecu, hrani za posebne medicinske potrebe i zamjeni za cjelodnevnu prehranu pri redukcijskoj dijeti (»Narodne novine«, br. 69/17.) članak 5. mijenja se i glasi:
+»(1) Nadležno tijelo za vođenje politike za hranu za dojenčad i malu djecu, hranu za posebne medicinske potrebe i zamjenu za cjelodnevnu prehranu pri redukcijskoj dijeti te provedbu upravnih i stručnih poslova prema odredbama ovoga Zakona i uredbe iz članka 2. ovoga Zakona je ministarstvo nadležno za zdravstvo (u daljnjem tekstu: Ministarstvo).
+(2) Nadležno tijelo za provedbu inspekcijskog nadzora, odnosno službenih kontrola prema odredbama ovoga Zakona i uredbe iz članka 2. ovoga Zakona je Državni inspektorat.«.
