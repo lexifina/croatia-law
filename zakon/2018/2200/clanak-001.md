@@ -1,0 +1,3 @@
+# Članak 1.
+U Zakonu o ograničavanju uporabe duhanskih i srodnih proizvoda (»Narodne novine«, br. 45/17.) u članku 19. stavak 15. mijenja se i glasi:
+»U slučaju elektroničkih cigareta i spremnika za ponovno punjenje koji su usklađeni sa zahtjevima iz ovoga članka, ako nadležni inspektori iz članka 38. ovoga Zakona utvrde ili imaju razloga vjerovati da bi određene elektroničke cigarete ili spremnici za ponovno punjenje ili vrsta elektroničke cigarete ili spremnika za ponovno punjenje mogli predstavljati ozbiljnu opasnost za zdravlje ljudi, poduzet će mjere iz članka 39. ovoga Zakona i o tome obavijestiti Ministarstvo. Ministarstvo odmah obavješćuje Komisiju i nadležna tijela drugih država članica o poduzetim mjerama i priopćuje sve popratne podatke.«.
