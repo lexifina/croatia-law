@@ -1,0 +1,1 @@
+Na temelju članka 5. stavka 3. Zakona o elektroničkom izdavanju računa u javnoj nabavi (»Narodne novine«, broj 94/18) ministar nadležan za poslove gospodarstva, uz suglasnost ministra nadležnog za poslove financija, donosi
