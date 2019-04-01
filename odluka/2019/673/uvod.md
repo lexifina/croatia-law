@@ -1,0 +1,1 @@
+Na temelju članka 20. stavka 1. Zakona o vanjskim poslovima (»Narodne novine«, broj 48/96, 72/2013, 127/13, 104/2016 i 39/18), i članka 3. stavka 2. Uredbe o plaćama, dodacima i naknadama u službi vanjskih poslova (»Narodne novine«, broj 22/03, 48/03, 39/06, 36/07, 25/13, 48/18 i 15/19), ministrica vanjskih i europskih poslova donosi:
