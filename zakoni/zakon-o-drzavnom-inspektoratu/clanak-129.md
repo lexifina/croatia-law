@@ -1,0 +1,2 @@
+# Članak 129.
+Novčanom kaznom od 3000,00 do 5000,00 kuna kaznit će se za prekršaj fizička osoba koja podliježe nadzoru, sudionik zatečen u nadzoru i druga fizička osoba zatečena na mjestu nadzoru koja na traženje inspektora neopravdano odbije dati izjavu s podacima i pojedinostima važnim za utvrđivanje činjenica u započetom nadzoru ili ako u toj izjavi iznese netočne podatke i pojedinosti (članak 61. stavak 4.).

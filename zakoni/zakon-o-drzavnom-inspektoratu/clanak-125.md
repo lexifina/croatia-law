@@ -1,0 +1,6 @@
+## ODJELJAK X. POSEBNE ODREDBE O INSPEKCIJSKOM NADZORU ENERGETSKOG INSPEKTORA
+## Zajednički inspekcijski nadzor u području energetike
+# Članak 125.
+(1) Zajednički inspekcijski nadzor energetske inspekcije kao samostalnog nositelja nadzora ili zajedničkog nositelja nadzora s drugim tijelima, inspekcija nadležnih prema posebnim propisima, drugih inspekcija Državnog inspektorata te vanjskih suradnika tijela/osoba, u skladu s posebnim propisom kojim se uređuje istraživanje i eksploatacija ugljikovodika, organizira se pri nadzoru kopnenih i odobalnih objekata, objekata za skladištenje prirodnog plina i objekata za trajno zbrinjavanje ugljikova dioksida.
+(2) Zajednički inspekcijski nadzor energetske inspekcije kao samostalnog nositelja nadzora, inspekcija nadležnih prema posebnim propisima, drugih inspekcija Državnog inspektorata te vanjskih suradničkih tijela/osoba, u skladu s posebnim propisom iz područja energetike, organizira se pri nadzoru energetskih objekata, posebice elektrana, dalekovoda, cjevovoda i sl.
+(3) Svrha zajedničkog inspekcijskog nadzora je kontrola rizika od velikih nesreća za zdravlje ljudi, okoliš i prirodu te periodični nadzor tehničke ispravnosti i održavanja objekata i postrojenja.

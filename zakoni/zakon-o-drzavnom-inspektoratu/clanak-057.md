@@ -1,0 +1,9 @@
+## Tajnost podataka
+# Članak 57.
+(1) Inspektor ne smije u neslužbene svrhe koristiti informacije, podatke ili saznanja koja ima ili su mu dostupna prilikom obavljanja poslova inspekcijskog nadzora niti smije koristiti i davati obavijesti, podatke ili saznanja za ostvarivanje bilo kakve imovinske ili druge koristi za sebe ili za drugu osobu.
+(2) Inspektor je dužan u obavljanju inspekcijskih poslova čuvati identitet podnositelja predstavke.
+(3) Iznimno od stavka 2. ovoga članka, inspektor odnosno drugi državni službenik nije dužan čuvati identitet podnositelja predstavke koji sudjeluje u postupku kao zainteresirana osoba radi zaštite svojih prava i pravnih interesa ako to po prirodi stvari nije moguće ili je tako propisano posebnim zakonom.
+(4) Inspektor i drugi službenik dužni su kao inspekcijsku tajnu odnosno kao drugu odgovarajuću vrstu tajne čuvati sve osobne i druge povjerljive podatke koje saznaju u obavljanju svojih dužnosti u skladu s propisima kojima se uređuje zaštita podataka i tajnost podataka.
+(5) Osobe iz stavka 4. ovoga članka dužne su čuvati tajnost i povjerljivost podataka i nakon prestanka obavljanja poslova u Državnom inspektoratu.
+(6) Državni inspektorat dužan je kao inspekcijsku tajnu čuvati svu dokumentaciju (zabilješku, zapisnik, nacrt rješenja, rješenje, zaključak, prekršajni akt, kaznenu prijavu, uputu za rad, izjavu stranke, predstavku, pritužbu) te sve druge podatke i dokaze utvrđene odnosno nastale u vezi s inspekcijskim postupkom.
+(7) Dokumentaciju i podatke iz stavka 6. ovoga članka, prikupljene ili utvrđene u inspekcijskom nadzoru, te identitet podnositelja predstavke u skladu sa stavkom 2. ovoga članka Državni inspektorat može dati samo sudovima, tijelima državne uprave i drugim državnim tijelima, na njihov obrazloženi pisani zahtjev u postupcima iz njihove nadležnosti.
