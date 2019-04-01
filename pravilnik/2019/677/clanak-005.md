@@ -1,0 +1,45 @@
+# Članak 5.
+Naknada za uslugu korištenja centralne platforme od strane javnih naručitelja propisanih Zakonom sadrži naknadu FINE za:
+- pristup i korištenje web aplikacije centralne platforme za pojedinačno slanje i zaprimanje eRačuna;
+- mogućnost ovjere zaprimljenih računa putem web aplikacije centralne platforme;
+- spajanje putem SOAP web servisa na centralnu platformu, integracija informatičko-tehnološkog sustava izdavatelja eRačuna s centralnom platformom;
+- spajanje putem SOAP web servisa na centralnu platformu, integracija informatičko-tehnološkog sustava naručitelja s centralnom platformom;
+- registraciju javnih naručitelja na centralnu platformu;
+- registraciju organizacijskih jedinica javnog naručitelja na centralnu platformu;
+- registraciju certifikata i djelatnika javnog naručitelja koji je nositelj certifikata za pristup centralnoj platformi;
+- dodjela prava certifikatu javnog naručitelja za pristup i rad u centralnoj platformi;
+- promjena podataka o javnom naručitelju u centralnoj platformi;
+- promjena podataka o organizacijskim jedinicama javnog naručitelja u centralnoj platformi;
+- promjena podataka o djelatniku javnog naručitelja koji je nositelj certifikata u centralnoj platformi;
+- promjene prava za pristup i rad registriranim certifikatima javnog naručitelja u centralnoj platformi;
+- automatska dodjela prava obnovljenom certifikatu javnog naručitelja a za pristup i rad u centralnoj platformi;
+- ukidanje prava registriranim certifikatima javnog naručitelja za rad u centralnoj platformi na zahtjev javnog naručitelja;
+- deaktivacija organizacijskih jedinica javnog naručitelja u centralnoj platformi na zahtjev javnog naručitelja;
+- deaktivacija javnog naručitelja u centralnoj platformi na zahtjev javnog naručitelja;
+- provjera prava pristupa certifikata javnog naručitelja centralnoj platformi;
+- provjera prava pristupa certifikata javnog naručitelja centralnoj platformi za organizacijsku jedinicu;
+- provjera prava rada certifikata javnog naručitelja za zaprimanje eRačuna i pratećih isprava u centralnoj platformi;
+- provjera prava rada certifikata javnog naručitelja za zaprimanje eRačuna i pratećih isprava u centralnoj platformi za organizacijsku jedinicu;
+- provjera prava rada certifikata javnog naručitelja za potvrdu zaprimanja eRačuna i pratećih isprava u centralnoj platformi;
+- provjera prava rada certifikata javnog naručitelja za potvrdu zaprimanja eRačuna i pratećih isprava u centralnoj platformi za organizacijsku jedinicu;
+- provjera prava rada certifikata javnog naručitelja za prihvaćanje eRačuna i pratećih isprava u centralnoj platformi;
+- provjera prava rada certifikata javnog naručitelja za prihvaćanje eRačuna i pratećih isprava u centralnoj platformi za organizacijsku jedinicu;
+- provjera prava rada certifikata javnog naručitelja za odbijanje eRačuna i pratećih isprava u centralnoj platformi;
+- provjera prava rada certifikata javnog naručitelja za odbijanje eRačuna i pratećih isprava u centralnoj platformi za organizacijsku jedinicu;
+- provjera prava rada certifikata javnog naručitelja za dostavu razloga odbijanja eRačuna i pratećih isprava u centralnoj platformi;
+- provjera prava rada certifikata javnog naručitelja za dostavu razloga odbijanja eRačuna i pratećih isprava u centralnoj platformi za organizacijsku jedinicu;
+- provjera prava rada certifikata javnog naručitelja u centralnoj platformi za slanje poruke o plaćenom eRačunu;
+- provjera prava rada certifikata javnog naručitelja u centralnoj platformi za slanje poruke o plaćenom eRačunu za organizacijsku jedinicu;
+- provjera prava rada certifikata javnog naručitelja za kreiranje eRačuna u centralnoj platformi;
+- provjera prava rada certifikata javnog naručitelja za kreiranje eRačuna u centralnoj platformi za organizacijsku jedinicu;
+- provjera prava rada certifikata javnog naručitelja za slanje eRačuna i pratećih isprava u centralnoj platformi;
+- provjera prava rada certifikata javnog naručitelja za slanje eRačuna i pratećih isprava u centralnoj platformi za organizacijsku jedinicu;
+- dodjela prava certifikatu javnog naručitelja za pristup i rad u centralnoj platformi za jednu ili više organizacijskih jedinica;
+- mogućnost dodjele različitih prava certifikatu javnog naručitelja za rad u centralnoj platformi za javnog naručitelja i za svaku pojedinu organizacijsku jedinicu;
+- zaprimanje eRačuna i pratećih isprava od izdavatelja eRačuna putem centralne platforme;
+- slanje poruke izdavatelju eRačuna o potvrdi zaprimanja eRačunu od strane javnog naručitelja;
+- slanje poruke izdavatelju eRačuna i pratećih isprava o odbijanju eRačuna od strane javnog naručitelja;
+- slanje poruke izdavatelju eRačuna i pratećih isprava o razlogu odbijanja eRačuna od strane javnog naručitelja;
+- slanje poruke izdavatelju eRačuna o plaćenom eRačunu od strane javnog naručitelja;
+- kratkoročna pohrana i dohvat zaprimljenih i poslanih eRačuna i pratećih isprava javnog naručitelja tokom cijele poslovne godine zaključno s 30. 4. iduće kalendarske godine u centralnoj platformi;
+- dugoročna pohrana zaprimljenih i poslanih eRačuna i pratećih isprava javnog naručitelja u roku utvrđenom sukladno propisima iz područja računovodstva i poreza, koji uređuju knjigovodstveno-računovodstveno poslovanje. Dohvat dugoročno pohranjenih zaprimljenih i poslanih eRačuna i pratećih isprava nije sastavni dio navedene naknade.

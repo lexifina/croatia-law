@@ -1,0 +1,26 @@
+# Članak 4.
+Naknada za obavljanje usluge informacijskog posredništva slanja eRačuna i pratećih isprava za javne naručitelje propisanih Zakonom sadrži naknadu FINE za:
+- provjeru prava pristupa javnog naručitelja centralnoj platformi;
+- provjeru naručitelja u evidenciji naručitelja;
+- provjeru mogućnosti isporuke eRačuna do naručitelja (dostupnost naručitelja);
+- potpisivanje eRačuna od strane javnog naručitelja putem portalske aplikacije centralne platforme;
+- potpisno rješenje za elektroničko potpisivanje podataka od strane javnog naručitelja pri razmjeni SOAP web servisom;
+- integracijski modul za kreiranje i potpisivanje SOAP poruka te autentikaciju i slanje SOAP poruka javnog naručitelja na centralnu platformu;
+- slanje eRačuna i pratećih isprava javnog naručitelja prema naručitelju;
+- provjera usklađenosti elemenata eRačuna s europskom normom i njezinim ispravcima, izmjenama i dopunama;
+- slanje poruke javnom naručitelju o uspješnosti zaprimanja eRačuna i pratećih isprava na centralnu platformu;
+- slanje poruke javnom naručitelju o potrebnim ispravcima elemenata eRačuna;
+- slanje poruke javnom naručitelju o nemogućnosti isporuke eRačuna i pratećih isprava naručitelju;
+- slanje poruke javnom naručitelju o neevidentiranom naručitelju kojem javni naručitelj šalje eRačun i prateće isprave;
+- potpisivanje eRačuna javnog naručitelja certifikatom centralne platforme pri zaprimanju eRačuna u centralnu platformu;
+- ovjera eRačuna javnog naručitelja vremenskim žigom pri zaprimanju eRačuna u centralnu platformu;
+- razmjena eRačuna i pratećih isprava javnog naručitelja prema naručitelju unutar centralne platforme;
+- razmjena eRačuna i pratećih isprava javnog naručitelja prema informacijskom posredniku naručitelja;
+- slanje poruke javnom naručitelju o uspješnosti slanja eRačuna i pratećih isprava naručitelju putem centralne platforme;
+- slanje poruke javnom naručitelju o uspješnosti slanja eRačuna i pratećih isprava informacijskom posredniku naručitelja putem centralne platforme;
+- slanje poruke javnom naručitelju o potvrdi zaprimanja eRačuna i pratećih isprava od strane naručitelja putem centralne platforme;
+- slanje poruke javnom naručitelju o korištenoj metodi izdavatelja eRačuna pri izdavanju eRačuna u svrhu osiguranja vjerodostojnosti podrijetla, cjelovitosti sadržaja i čitljivosti eRačuna putem centralne platforme;
+- slanje poruke javnom naručitelju o prihvaćanju eRačuna od strane naručitelja putem centralne platforme;
+- slanje poruke javnom naručitelju o odbijanju eRačuna od strane naručitelja putem centralne platforme;
+- slanje poruke javnom naručitelju o razlogu odbijanja eRačuna od strane naručitelja putem centralne platforme;
+- slanje poruke javnom naručitelju o plaćanju eRačuna od strane naručitelja putem centralne platforme.
