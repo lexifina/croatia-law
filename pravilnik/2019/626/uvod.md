@@ -1,0 +1,1 @@
+Na temelju članka 4. stavka 4. Zakona o službenim kontrolama koje se provode sukladno propisima o hrani, hrani za životinje, o zdravlju i dobrobiti životinja (»Narodne novine«, broj 81/13, 14/14 i 56/15), ministar zdravstva donosi

@@ -1,0 +1,10 @@
+## III. SLUŽBENO CERTIFICIRANJE HRANE/POŠILJAKA HRANE
+# Članak 5.
+(1) Službeno certificiranje hrane/pošiljaka hrane u svrhu izvoza u treće zemlje provodi se kada to zahtjeva treća zemlja u koju se uvozi i/ili na temelju zahtjeva izvoznika.
+(2) U svrhu službenog certificiranja izvoznik podnosi tijelu nadležnom za poslove sanitarne inspekcije pojedinačan zahtjev za izdavanje zdravstveno-sanitarnog certifikata/certifikata o slobodnoj prodaji, za svaki proizvod ili jedan zahtjev za cijelu pošiljku hrane, najkasnije osam radnih dana prije očekivanog datuma izvoza.
+(3) Zahtjev iz stavka 2. ovoga članka podnosi se na obrascu iz Priloga II. ovoga Pravilnika koji čini njegov sastavni dio.
+(4) Uz zahtjev iz stavka 2. ovoga članka izvoznik dostavlja i ažurirani tekst označavanja proizvoda i specifikaciju na hrvatskom ili engleskom jeziku za svaki proizvod naveden u zahtjevu sukladno uputama koje se objavljuju na mrežnim stranicama tijela nadležnog za poslove sanitarne inspekcije.
+(5) Tijelo nadležno za poslove sanitarne inspekcije izdaje jednokratni zdravstveno-sanitarni certifikat/certifikat o slobodnoj prodaji ili višekratni zdravstveno-sanitarni certifikat/certifikat o slobodnoj prodaji za svaki proizvod pojedinačno ili za cijelu pošiljku hrane izvozniku koji je u skladu s odredbama ovoga Pravilnika ishodio potvrdu o notifikaciji izvoznika iz članka 3. stavka 2. ovoga Pravilnika i upisan je u registar.
+(6) Jednokratni zdravstveno-sanitarni certifikat/certifikat o slobodnoj prodaji iz stavka 5. ovoga članka izdaje se na obrascu iz Priloga III. ovoga Pravilnika koji čini njegov sastavni dio. Višekratni zdravstveno-sanitarni certifikat/certifikat o slobodnoj prodaji iz stavka 5. ovoga Pravilnika izdaje se na obrascu iz Priloga IV. ovoga Pravilnika koji čini njegov sastavni dio.
+(7) Certifikati iz stavka 5. ovoga članka izdaju se dvojezično na hrvatskom i engleskom jeziku.
+(8) Za hranu koja prema posebnim propisima podliježe postupku notifikacije certifikati iz stavka 5. ovog članka mogu se izdati samo za one proizvode za koje je prethodno proveden postupak notifikacije.

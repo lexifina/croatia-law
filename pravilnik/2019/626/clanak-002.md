@@ -1,0 +1,3 @@
+# Članak 2.
+(1) Pojmovi u smislu ovoga Pravilnika imaju jednako značenje kao pojmovi definirani zakonom kojim se uređuje područje higijene hrane i mikrobioloških kriterija za hranu, zakonom kojim se uređuje područje hrane te zakonom kojim se uređuju službene kontrole koje se provode sukladno propisima o hrani, hrani za životinje, o zdravlju i dobrobiti životinja.
+(2) Izvoznik u smislu ovoga Pravilnika je subjekt u poslovanju s hranom koji je upisan u registar izvoznih subjekata za treće zemlje sukladno ovom Pravilniku i izvozi na tržište trećih zemalja hranu koju proizvodi i/ili stavlja na tržište Republike Hrvatske.
