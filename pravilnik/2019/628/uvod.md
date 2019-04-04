@@ -1,0 +1,1 @@
+Na temelju članka 6. Zakona o nacionalnom preventivnom mehanizmu za sprečavanje mučenja i drugih okrutnih, neljudskih ili ponižavajućih postupaka ili kažnjavanja (»Narodne novine«, broj 18/11. i 33/15.), pučki pravobranitelj donosi

@@ -1,0 +1,2 @@
+# Članak 7.
+Na temelju uvida u zaprimljenu dokumentaciju iz članka 6. ovoga Pravilnika i obavljenog razgovora s neovisnim stručnjakom o tome na koji će se način, sukladno svojim stručnim kompetencijama, uključiti u obavljanje poslova iz članka 5. stavka 2. alineje 1. ovoga Pravilnika, pučki pravobranitelj donijet će odluku o izboru neovisnog stručnjaka za obavljanje poslova Nacionalnog preventivnog mehanizma.
