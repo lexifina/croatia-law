@@ -1,0 +1,3 @@
+## Poravnavanje računa upravitelja infrastrukture
+# Članak 21.
+Vlasnik željezničke infrastrukture osigurava da su, u uobičajenim poslovnim uvjetima i u razdoblju od pet godina, u računu dobiti i gubitka upravitelja infrastrukture barem uravnoteženi, s jedne strane, prihodi od naknada za minimalni pristupni paket i pristup kolosijekom do uslužnih objekata, viškovi od drugih poslovnih djelatnosti, nepovratna sredstva iz privatnih izvora i javna sredstva koja, gdje je primjenjivo, uključuju predujmove doznačene od strane države te, s druge strane, rashodi upravitelja infrastrukture koji uključuju rashode za održavanje željezničke infrastrukture te rashode upravljanja, organizacije i regulacije željezničkog prometa.

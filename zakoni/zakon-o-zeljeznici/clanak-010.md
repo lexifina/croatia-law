@@ -1,0 +1,13 @@
+## Neovisnost upravitelja infrastrukture
+# Članak 10.
+(1) Upravitelj infrastrukture odgovoran je za upravljanje mrežom, njezino održavanje i obnovu te mu se povjerava razvoj željezničke infrastrukture na toj mreži u skladu s općom politikom razvoja i financiranja željezničke infrastrukture Republike Hrvatske.
+(2) U vertikalno integriranom trgovačkom društvu nijedna od pravnih osoba odnosno organizacijskih jedinica ne smije imati odlučujući utjecaj na odluke upravitelja infrastrukture u pogledu osnovnih funkcija.
+(3) Članovi nadzornog odbora i uprave upravitelja infrastrukture te nadređene osobe koje izravno odgovaraju nadzornom odboru odnosno upravi dužni su djelovati na nediskriminirajući način i na njihovu nepristranost ne smije utjecati sukob interesa.
+(4) Upravitelj infrastrukture mora biti organiziran kao pravna osoba koja je pravno odvojena od bilo kojeg željezničkog prijevoznika, a u vertikalno integriranim trgovačkim društvima mora biti organiziran kao pravna osoba odnosno organizacijska jedinica odvojena od bilo koje druge pravne osobe odnosno organizacijske jedinice, unutar vertikalno integriranog trgovačkog društva.
+(5) Istodobno osobe ne smiju biti zaposlene ili imenovane:
+1. kao članovi uprave upravitelja infrastrukture i kao članovi uprave željezničkog prijevoznika
+2. kao osobe zadužene za donošenje odluka o osnovnim funkcijama i kao članovi uprave željezničkog prijevoznika
+3. ako postoji nadzorni odbor, kao članovi nadzornog odbora upravitelja infrastrukture i kao članovi nadzornog odbora željezničkog prijevoznika i
+4. kao članovi nadzornog odbora trgovačkog društva koje je dio vertikalno integriranog trgovačkog društva, a koje nadzire željezničkog prijevoznika i upravitelja infrastrukture i kao članovi uprave tog upravitelja infrastrukture.
+(6) U vertikalno integriranim trgovačkim društvima, članovi uprave upravitelja infrastrukture i osobe zadužene za donošenje odluka o osnovnim funkcijama ne smiju primati nikakvu naknadu utemeljenu na postignutim rezultatima od bilo koje druge pravne osobe unutar vertikalno integriranog trgovačkog društva niti smiju primati bilo kakve nagrade koje su ponajprije povezane s financijskim rezultatima određenih željezničkih prijevoznika, ali im se mogu nuditi poticaji u pogledu sveukupne učinkovitosti željezničkog sustava.
+(7) Ako se različite pravne osobe unutar vertikalno integriranog trgovačkog društva koriste zajedničkim informacijskim sustavima, pristup povjerljivim informacijama u vezi s osnovnim funkcijama smiju imati samo ovlaštene osobe upravitelja infrastrukture, a povjerljive informacije se ne smiju prosljeđivati drugim pravnim osobama unutar vertikalno integriranog trgovačkog društva.

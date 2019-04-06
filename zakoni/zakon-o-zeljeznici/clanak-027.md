@@ -1,0 +1,4 @@
+## Zajednički informacijski sustav i sustav za izdavanje jedinstvenih prijevoznih karata
+# Članak 27.
+(1) Ne dovodeći u pitanje Uredbu (EZ) br. 1371/2007 Europskog parlamenta i Vijeća od 23. listopada 2007. o pravima i obvezama putnika u željezničkom prometu (SL L 315, 3. 12. 2007.) i propis kojim se uređuje prijevoz u cestovnom prometu, željeznički prijevoznik koji pruža usluge domaćeg prijevoza putnika dužan je sudjelovati u zajedničkom informacijskom sustavu i integriranom sustavu za izdavanje karata, jedinstvenih prijevoznih karata i rezervacija koji uspostavlja nadležno tijelo.
+(2) Ako je sustav iz stavka 1. ovoga članka uspostavljen, on ne smije uzrokovati narušavanje tržišta ili diskriminaciju među željezničkim prijevoznicima te njime upravlja javno tijelo ili druga pravna osoba ili udruženje svih željezničkih prijevoznika koji obavljaju usluge prijevoza putnika.

@@ -1,0 +1,14 @@
+## Ovlasti i obveze inspektora
+# Članak 78.
+(1) Ovlasti i obveze inspektora te obveze nadziranih i drugih osoba koje sudjeluju u inspekcijskom nadzoru određene su zakonom kojim se određuje regulacija tržišta željezničkih usluga.
+(2) Pored ovlasti koje su određene zakonom kojim se određuje regulacija tržišta željezničkih usluga inspektor je ovlašten:
+1. narediti pravnoj osobi koja pruža usluge željezničkog prijevoza i upravlja željezničkom infrastrukturom da se računi dobiti i gubitka te bilance koje se odnose na poslovanje u vezi s obavljanjem usluga željezničkog prijevoza i one koje se odnose poslovanje u vezi s upravljanjem željezničkom infrastrukturom zasebno vode i objavljuju
+2. narediti upravitelju infrastrukture da željezničkom prijevozniku kod većih poremećaja odvijanja prometa koji utječu na pružanje njegovih usluga omogući sveobuhvatan i pravodoban pristup relevantnim informacijama
+3. narediti upravitelju infrastrukture, operatoru uslužnog objekta odnosno vlasniku kolosijeka odobravanje pristupa željezničkoj infrastrukturi, kolosijecima koji povezuju morske luke i luke unutarnjih voda i ostale uslužne objekte iz Priloga 2. točke 2. ovoga Zakona i kolosijecima koje koristi ili bi moglo koristiti više krajnjih korisnika u svrhu pružanja usluga željezničkog prijevoza
+4. narediti operatoru uslužnog objekta da na nediskriminirajući način pruži svim željezničkim prijevoznicima pristup uslužnim objektima iz Priloga 2. točke 2. ovoga Zakona, uključujući pristup kolosijekom do uslužnih objekata, kao i pristup uslugama koje se pružaju u tim objektima
+5. narediti operatoru uslužnog objekta iz Priloga 2. točke 2. ovoga Zakona vođenje odvojenih računa, uključujući zasebne bilance i račune dobiti i gubitka, za sve uslužne objekte kojima upravlja
+6. narediti operatoru uslužnog objekta iz Priloga 2. točke 2. ovoga Zakona objavljivanje podataka o uvjetima pružanja željezničkih usluga, naknadama i načinu pristupa uslužnom objektu i uslugama u skladu s Uredbom (EU) 2017/2177
+7. narediti upravitelju infrastrukture ažuriranje i mijenjanje izvješća o mreži te objavu izmjena i dopuna na službenim mrežnim stranicama upravitelja infrastrukture
+8. narediti upravitelju infrastrukture, prema potrebi, provođenje procjene potrebe za rezervnim kapacitetom koji će ostati na raspolaganju u okviru konačnog voznog reda, kako bi mogao na vrijeme odgovoriti na predvidljive ad hoc zahtjeve za dodjelu kapaciteta
+9. narediti uklanjanje drugih utvrđenih nepravilnosti, nedostataka ili propusta u primjeni ovoga Zakona, propisa donesenih na temelju ovoga Zakona i drugih propisa za nadzor kojih je ovlašten i
+10. predlagati Regulatornom tijelu podnošenje optužnog prijedloga radi pokretanja prekršajnog postupka u skladu s odredbama Prekršajnog zakona, kojim može izreći novčane kazne propisane odredbama članka 80. ovoga Zakona.

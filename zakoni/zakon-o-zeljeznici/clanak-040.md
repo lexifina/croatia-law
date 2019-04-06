@@ -1,0 +1,12 @@
+## Privremeno oduzimanje i ukidanje dozvole
+# Članak 40.
+(1) Ako postoji opravdana sumnja da željeznički prijevoznik kojemu je Ministarstvo izdalo dozvolu ne ispunjava uvjete za njezino izdavanje, Ministarstvo može u bilo kojem trenutku provjeriti ispunjava li željeznički prijevoznik te uvjete.
+(2) Kada utvrdi da željeznički prijevoznik više ne ispunjava uvjete za izdavanje dozvole, Ministarstvo mora dozvolu privremeno oduzeti ili ukinuti.
+(3) Ako postoji opravdana sumnja da željeznički prijevoznik kojem je dozvolu izdalo tijelo druge države članice ne ispunjava uvjete za njezino izdavanje, Ministarstvo će bez odgađanja o tome obavijestiti tijelo države članice koje je izdalo dozvolu.
+(4) Ako Ministarstvo privremeno oduzme ili ukine dozvolu zbog neispunjenja uvjeta o financijskoj sposobnosti, Ministarstvo može izdati privremenu dozvolu na razdoblje od najdulje šest mjeseci do preustroja željezničkog prijevoznika, uz uvjet da nije ugrožena sigurnost.
+(5) Kada željeznički prijevoznik prestane s obavljanjem djelatnosti u razdoblju od šest mjeseci ili ne započne s obavljanjem djelatnosti u roku od šest mjeseci od izdavanja dozvole, Ministarstvo može odrediti novi rok za nastavak odnosno početak obavljanja djelatnosti ili donijeti odluku o ukidanju dozvole.
+(6) U odnosu na početak obavljanja djelatnosti željeznički prijevoznik može zatražiti određivanje duljeg razdoblja, uzimajući u obzir specifičnu prirodu usluga koje se trebaju pružati.
+(7) U slučaju promjene koja utječe na pravni status željezničkog prijevoznika, a posebice u slučaju spajanja ili preuzimanja, željeznički prijevoznik dužan je o tome obavijestiti Ministarstvo u roku od 30 dana od nastale statusne promjene, koje ovisno o opsegu statusne promjene može donijeti odluku o nastavku važenja dozvole, a željeznički prijevoznik može nastaviti poslovati, osim ako Ministarstvo odluči da je ugrožena sigurnost.
+(8) Kada željeznički prijevoznik namjerava značajno izmijeniti ili proširiti svoju djelatnost, dužan je o tome obavijestiti Ministarstvo, koje ovisno o opsegu izmijene ili proširenja može donijeti odluku o izmjeni, proširenju ili ukidanju dozvole.
+(9) Ako željeznički prijevoznik protiv kojeg je pokrenut stečajni postupak ne može dokazati da u razumnom roku postoji mogućnost za zadovoljavajuće financijsko restrukturiranje, Ministarstvo će dozvolu ukinuti.
+(10) Kada Ministarstvo izda ili privremeno oduzme ili ukine dozvolu, dužno je o tome na odgovarajući način obavijestiti Agenciju Europske unije za željeznice.

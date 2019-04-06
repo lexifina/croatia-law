@@ -1,0 +1,13 @@
+## Povjeravanje funkcija upravitelja infrastrukture vanjskim izvršiteljima
+# Članak 13.
+(1) Upravitelj infrastrukture može, pod uvjetom da ne nastane sukob interesa i da je zajamčena povjerljivost poslovnih podataka:
+1. povjeriti funkcije drugoj pravnoj osobi, pod uvjetom da ona nije željeznički prijevoznik, da ne nadzire željezničkog prijevoznika niti je pod nadzorom željezničkog prijevoznika i
+2. povjeriti željezničkom prijevozniku ili trgovačkom društvu koje nadzire željezničkog prijevoznika ili koje je pod nadzorom željezničkog prijevoznika izvođenje radova i s njima povezanih zadataka razvoja, održavanja i obnove željezničke infrastrukture.
+(2) Unutar vertikalno integriranog trgovačkog društva osnovne funkcije ne smiju se povjeriti niti jednoj pravnoj osobi vertikalno integriranog trgovačkog društva, osim ako je ta pravna osoba nadležna isključivo za osnovne funkcije.
+(3) Upravitelj infrastrukture zadržava nadzor i snosi punu odgovornost za izvršavanje funkcija određenih u članku 10. stavku 1. ovoga Zakona.
+(4) Svaka pravna osoba koja izvršava osnovne funkcije mora ispunjavati uvjete iz članaka 10., 11., 12. i 14. ovoga Zakona.
+(5) Iznimno od odredbi članka 10. stavaka 1. do 3. ovoga Zakona, funkcije upravitelja infrastrukture mogu obavljati različiti upravitelji infrastrukture, među ostalim i stranke u okviru javno-privatnog partnerstva, pod uvjetom da ispunjavaju uvjete iz članka 10. stavaka 4. do 7. i članaka 11., 12. i 14. ovoga Zakona te da preuzimaju punu odgovornost za izvršavanje tih funkcija.
+(6) Kada osnovne funkcije upravitelja infrastrukture nisu dodijeljene operatoru opskrbe električnom energijom, na njega se ne primjenjuju pravila koja se primjenjuju na upravitelje infrastrukture, pod uvjetom da je osigurana usklađenost s odgovarajućim odredbama o razvoju mreže, posebno s odredbama vezanim uz poboljšanje financijske situacije u skladu s člancima 17. do 20. ovoga Zakona.
+(7) Upravitelj infrastrukture može sklopiti sporazume o suradnji s jednim ili više željezničkih prijevoznika na nediskriminirajući način u svrhu osiguravanja pogodnosti za korisnike željezničkog prijevoza kao što su smanjeni troškovi ili poboljšanje učinkovitosti dijela mreže koji je obuhvaćen sporazumom.
+(8) Regulatorno tijelo ovlašteno je za nadzor sklapanja i provedbe sporazuma iz stavka 7. ovoga članka te može savjetovati otkazivanje sporazuma u opravdanim situacijama.
+(9) Kada funkciju upravitelja infrastrukture obavljaju stranke u okviru javno-privatnog partnerstva u skladu sa stavkom 5. ovoga članka, uzimaju u obzir propise kojima se uređuje javno-privatno partnerstvo.

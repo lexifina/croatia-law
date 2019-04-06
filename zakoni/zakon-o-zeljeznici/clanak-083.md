@@ -1,0 +1,7 @@
+## Obveze vlasnika i upravitelja infrastrukture
+# Članak 83.
+(1) Upravitelj infrastrukture dužan je izraditi model naplate električne energije za vuču vlakova u skladu s člankom 26. stavkom 8. ovoga Zakona u roku od četiri godine od dana stupanja na snagu ovoga Zakona.
+(2) Vlasnik željezničke infrastrukture i upravitelj infrastrukture dužni su sklopiti ugovor o upravljanju željezničkom infrastrukturom iz članka 46. ovoga Zakona koji je usklađen s odredbama ovoga Zakona u roku od tri mjeseca od dana stupanja na snagu odluke iz članka 71. stavka 3. ovoga Zakona.
+(3) Vlasnik željezničke infrastrukture i upravitelj željezničke infrastrukture iz članka 82. stavka 10. ovoga Zakona dužni su sklopiti ugovor o upravljanju željezničkom infrastrukturom koji će vrijediti do ispunjavanja svih uvjeta za sklapanje ugovora o upravljanju željezničkom infrastrukturom iz članka 46. ovoga Zakona.
+(4) Upravitelj infrastrukture dužan je izraditi alat za informativni izračun naknade za minimalni pristupni paket iz članka 48. stavka 7. ovoga Zakona te ga objaviti na mrežnoj stranici u roku od dvanaest mjeseci od dana stupanja na snagu ovoga Zakona.
+(5) Upravitelj infrastrukture dužan je izraditi informacijski sustav za praćenje provedbe projekata i realizacije investicija u željezničku infrastrukturu iz članka 17. stavka 16. ovoga Zakona, koji je usklađen s odredbama ovoga Zakona, u roku od dvije godine od dana stupanja na snagu ovoga Zakona.

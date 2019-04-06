@@ -1,0 +1,11 @@
+## Pravni status željezničke infrastrukture i upis u zemljišne knjige
+# Članak 71.
+(1) Željeznička infrastruktura, kojoj pripadaju željezničke pruge razvrstane na temelju uredbe o razvrstavanju željezničkih pruga iz članka 70. ovoga Zakona s pripadajućim elementima, u vlasništvu je Republike Hrvatske i javno je dobro u općoj uporabi.
+(2) Željeznička infrastruktura iz stavka 1. ovoga članka ne može se otuđiti iz vlasništva Republike Hrvatske.
+(3) Vlada Republike Hrvatske, na prijedlog Ministarstva, odlukom određuje upravitelja željezničke infrastrukture iz stavka 1. ovoga članka.
+(4) Odlukom iz stavka 3. ovoga članka odredit će se i glavni upravitelj infrastrukture, uzimajući u obzir veličinu mreže, obujam prometa i udio međunarodnih koridora na mreži kojima upravlja pojedini upravitelj infrastrukture.
+(5) Željeznička infrastruktura iz stavka 1. ovoga članka upisuje se u zemljišne knjige kao javno dobro u općoj uporabi u vlasništvu Republike Hrvatske uz upis upravitelja infrastrukture kao pravne osobe ovlaštene za upravljanje željezničkom infrastrukturom.
+(6) Na željezničkoj infrastrukturi iz stavka 1. ovoga članka iznimno se mogu stjecati stvarna prava, i to pravo građenja i pravo služnosti pod uvjetom da se ne ometa odvijanje željezničkog prometa i održavanje željezničke infrastrukture te da ova prava nisu u suprotnosti s razvojnim planovima željezničke infrastrukture.
+(7) Za potrebe građenja ili unaprjeđenja drugog infrastrukturnog sustava na dijelu željezničke infrastrukture, a kada se ne gubi funkcionalnost željezničke infrastrukture, željezničkoj infrastrukturi se neće ukinuti status javnog dobra u općoj uporabi, već će se osnovati pravo služnosti odnosno pravo građenja.
+(8) Upis željezničke infrastrukture iz stavka 1. ovoga članka izgrađene nakon stupanja na snagu ovoga Zakona u zemljišne knjige provest će nadležni općinski sud na temelju prijavnog lista s kopijom katastarskog plana i obavijesti tijela nadležnog za katastar o postojanju akta za uporabu građevine, a koje pribavlja upravitelj željezničke infrastrukture.
+(9) Nadležni općinski sud provodi upis iz stavka 8. ovoga članka nakon što mu tijelo nadležno za katastar dostavi isprave iz stavka 8. ovoga članka odnosno po prijedlogu nadležnog državnog odvjetništva.

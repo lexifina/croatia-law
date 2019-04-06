@@ -1,0 +1,12 @@
+## Izuzeća od primjene
+# Članak 4.
+(1) Poglavlje II. ovoga Zakona ne primjenjuje se na željezničkog prijevoznika koji pruža isključivo usluge gradskog, prigradskog i/ili regionalnog prijevoza na lokalnim i regionalnim samostalnim mrežama ili na mrežama koje su isključivo namijenjene za pružanje usluga gradskog i/ili prigradskog prijevoza.
+(2) Iznimno od stavka 1. ovoga članka, kada je željeznički prijevoznik pod izravnom ili neizravnom kontrolom trgovačkog društva ili druge pravne osobe koja obavlja ili čija djelatnost, osim usluga gradskog, prigradskog ili regionalnog prijevoza, uključuje i obavljanje ostalih usluga željezničkog prijevoza, primjenjuju se članci 6. i 7. ovoga Zakona.
+(3) Na željezničkog prijevoznika iz stavka 2. ovoga članka primjenjuje se članak 8. ovoga Zakona u odnosu na vezu između željezničkog prijevoznika i trgovačkog društva ili pravne osobe koja ga izravno ili neizravno kontrolira.
+(4) Odredbe poglavlja III. ovoga Zakona ne primjenjuju se na pravnu osobu koja pruža isključivo usluge prijevoza tereta na privatnoj željezničkoj infrastrukturi koju isključivo koristi njezin vlasnik za vlastiti prijevoz tereta.
+(5) Odredbe članaka 10. do 14., članaka 17. do 21. i članka 24. te poglavlja IV. ovoga Zakona ne primjenjuju se na privatnu željezničku infrastrukturu koju isključivo koristi njezin vlasnik za vlastiti prijevoz tereta.
+(6) Odredbe stavka 5. ovoga članka primjenjuju se na lokalnu i regionalnu željezničku infrastrukturu koja nema stratešku važnost za funkcioniranje tržišta željezničkih usluga.
+(7) Odredbe članka 20. ovoga Zakona ne primjenjuju se na lokalnu i regionalnu željezničku infrastrukturu koja nema stratešku važnost za funkcioniranje tržišta željezničkih usluga.
+(8) Odredbe članaka 10., 11. i 13. te poglavlja IV. ovoga Zakona ne primjenjuju se na lokalnu željezničku infrastrukturu koja nema stratešku važnost za funkcioniranje tržišta željezničkih usluga.
+(9) Ministarstvo obavješćuje Europsku komisiju u vezi sa stavcima 6. i 7. ovoga članka o namjeri neprimjene određenih odredbi ovoga Zakona na lokalnu i regionalnu željezničku infrastrukturu koja nema stratešku važnost za funkcioniranje tržišta željezničkih usluga.
+(10) Odredbe članka 49. stavaka 10. i 11. ovoga Zakona ne primjenjuju se na vlakove koji nisu opremljeni Europskim sustavom za upravljanje i nadzor vlakova (ETCS) i koji se koriste za usluge regionalnog prijevoza putnika, a koji su prvi put pušteni u uporabu prije 1985. godine.
