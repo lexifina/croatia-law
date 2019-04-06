@@ -1,0 +1,3 @@
+# Članak 64.
+Odjel za pripremu i provedbu postupaka javne nabave sukladno proračunu i planu nabave Ministarstva za proračunsku godinu te na temelju zahtjeva i uputa ustrojstvenih jedinica Ministarstva koje pokreću nabavu, definira vrste postupaka nabave, izrađuje cjelokupnu dokumentaciju za provedbu postupaka jednostavne i javne nabave koji se financiraju iz Državnog proračuna i iz sredstava tehničke pomoći operativnih programa EU, provodi postupke javnog oglašavanja sukladno zakonskim propisima; izrađuje očitovanja na žalbe u postupcima javne nabave te obavlja druge poslove iz svoga djelokruga.
+6.2.2.2. Odjel za ugovaranje i kontrolu praćenja i izvršenja ugovora

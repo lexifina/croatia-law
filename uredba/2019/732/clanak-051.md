@@ -1,0 +1,3 @@
+# Članak 51.
+Odjel za izvršenje plana proračuna izrađuje izvješća o realizaciji financijskog plana; vrši kontrolu ispravnosti dokumentacije za unos u sustav Državne riznice; kontrolira, evidentira i usklađuje obveze s poslovnim partnerima; vrši rezervaciju sredstava u propisanim i ugovorenim rokovima i iznosima usklađenim s dodijeljenim sredstvima i dospjelim obvezama; ispostavlja zahtjeve za plaćanje unosom podataka iz naloga za plaćanje i dostavljene dokumentacije u sustav Državne riznice; prati i primjenjuje promjene u području proračunskog računovodstva i računskom planu proračuna, te obavlja i druge poslove iz svoga djelokruga.
+6.1.1.3. Odjel za strateško planiranje, upravljanje rizicima i izvještavanje o fiskalnoj odgovornosti

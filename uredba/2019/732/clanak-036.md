@@ -1,0 +1,3 @@
+# Članak 36.
+Odjel za tehničku potporu informacijskim sustavima osigurava kontinuirani i pouzdan rad fizičkog dijela informacijskog sustava Ministarstva; upravlja problemima tehničke naravi (hardverskim, mrežnim i problemima sistemskog softvera); izvršava operativne tehničke rutine i naredbe radi osiguranja ispravnosti podatkovnog centra te ostale računalne i mrežne opreme; pruža tehničku potporu u postupcima nabave i organizira i provodi raspodjelu računalne i programske opreme; obavlja poslove trajne potpore, obuke i pružanja pomoći (tehničke i savjetodavne) svim korisnicima u primjeni programa, aplikacija i ostalih informatičkih tehnologija, te obavlja i druge poslove iz svoga djelokruga.
+5.3.2. Služba za upravljanje imovinom

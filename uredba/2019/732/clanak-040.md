@@ -1,0 +1,6 @@
+# Članak 40.
+Sektor za rješavanje prigovora obavlja poslove postupanja po prigovorima korisnika u provedbi mjera iz Programa ruralnog razvoja, izravnih plaćanja, IAKS mjera ruralnog razvoja, mjera uređenja ili organizacije tržišta poljoprivrednih proizvoda te ribarstva; izrađuje prijedloge akata u vezi s prigovorima i tužbama koje se odnose na odabir ili provedbu operacija sufinanciranih iz EPFRR, EPJF; prati relevantni zakonski okvir i obavlja pregled popratne dokumentacije vezano uz predmet prigovora; komunicira i razmjenjuje informacije s tijelima u sustavu vezano uz postupanje po prigovorima; priprema prijedloge izvješća i odgovora EK; doprinosi aktivnostima vezanima uz pripremu i primjenu regulatornog i provedbenog okvira za upravljanje Europskim strukturnim i investicijskim fondovima u Republici Hrvatskoj u financijskom razdoblju 2014. - 2020. (u daljnjem tekstu: ESI fondovi) i ostalim fondovima te obavlja druge poslove iz svoga djelokruga.
+Za obavljanje poslova Sektora za rješavanje prigovora, ustrojavaju se:
+5.4.1. Služba za rješavanje prigovora iz Programa ruralnog razvoja
+5.4.2. Služba za rješavanje prigovora iz ostalih fondova namijenjenih poljoprivredi i ribarstvu.
+5.4.1. Služba za rješavanje prigovora iz Programa ruralnog razvoja

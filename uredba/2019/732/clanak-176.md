@@ -1,0 +1,9 @@
+## 11. UPRAVA ŠUMARSTVA, LOVSTVA I DRVNE INDUSTRIJE
+# Članak 176.
+Uprava šumarstva, lovstva i drvne industrije obavlja upravne i druge stručne poslove koji se odnose na šumarstvo općenito, gospodarenje, uređivanje te zaštitu šuma i genetskih resursa, uređivanje imovinsko-pravnih odnosa na šumama i šumskom zemljištu u vlasništvu RH; lovstvo; preradu drva i proizvoda od drva i pluta, osim namještaja; proizvodnju proizvoda od slame i pleterskih materijala i proizvodnju namještaja; obavlja upravne i stručne poslove koji se odnose na naplatu i ostvarivanje prava na sredstva naknade za korištenje općekorisnih funkcija šuma (OKFŠ); koordinira nacionalnu inventarizaciju šumskih resursa; obavlja upravne i stručne poslove vezano uz planiranje i unaprjeđenje šuma privatnih šumoposjednika; brine o izvršavanju zakona, propisa i drugih općih akata; prati stanje i inicira rješavanje pojedinih pitanja; predlaže i izrađuje strateške dokumente, propise i druge akte iz svoga djelokruga; sudjeluje u pripremi i provedi strateških, operativnih i provedbenih dokumenata iz područja ruralnog razvoja; daje stručna mišljenja, tumačenja i upute o načinu provedbe propisa; sudjeluje u međunarodnoj suradnji u području šumarstva, lovstva i drvne industrije; sudjeluje u provedbi obveza preuzetih iz međunarodnih sporazuma i konvencija te provedbi ukupne pravne stečevine EU; vezano uz djelokrug predstavlja RH u radnim tijelima EK i Vijeća EU, kao i u radu institucija na paneuropskom ili svjetskom nivou; podnosi potrebna izvješća međunarodnim tijelima i organizacijama; vodi propisane evidencije i upisnike; prati stanje te pruža stručnu pomoć i savjete; obavlja upravni nadzor, te obavlja i druge poslove iz svoga djelokruga.
+Za obavljanje poslova u Upravi šumarstva, lovstva i drvne industrije, ustrojavaju se:
+11.1. Sektor šumarstva
+11.2. Sektor lovstva
+11.3. Sektor za preradu drva i proizvodnju namještaja
+11.4. Sektor za šume privatnih šumoposjednika.
+11.1. Sektor šumarstva
