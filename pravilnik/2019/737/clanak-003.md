@@ -1,0 +1,5 @@
+# Članak 3.
+Članak 9. mijenja se i glasi:
+»(1) Plovilima koja obavljaju ribolov okružujućom mrežom plivaricom i stajaćim parangalom, dozvoljen je iskrcaj najviše jednog primjerka igluna po plovilu dnevno, pri čemu masa igluna ne smije predstavljati više od 20 % mase ukupnog iskrcaja, a svaki takav ulov se mora prijaviti na obrascu u Prilogu 8. ovoga Pravilnika i oduzet će se od kvote raspoređene za prilov. Kopiju obrasca prijave prilova ovlaštenik povlastice dužan je dostaviti Ribarskom monitoring centru (rmc@mps.hr) u roku 24 sata od iskrcaja.
+(2) Iznimno od stavka 1. ovoga članka, u slučaju ribolova stajaćim parangalom u neprekidnom trajanju duljem od 24 sata od polaska do povratka plovila u iskrcajnu luku dozvoljen je iskrcaj najviše dva primjerka igluna, pod uvjetom da masa igluna ne premašuje 20 % mase ukupnog iskrcaja.
+(3) Plovilima koja ostvare prilov igluna sukladno stavku 1. ovog članka, a navedena su u Odluci iz članka 5. stavka 1. ovoga Pravilnika, ulov se oduzima od kvote dodijeljene plovilu.«
