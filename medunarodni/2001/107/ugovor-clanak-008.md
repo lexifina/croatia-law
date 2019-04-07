@@ -1,5 +1,0 @@
-# Članak 8.
-(1) Ugovorne stranke osiguravaju jedna drugoj oslobađanje od carine, poreza, pristojbi i carinskog jamstva za materijale i proizvode, koji su usko vezani uz sve vrste potrebnih radova obnove i održavanja, koji su dokazano ugrađeni ili upotrijebljeni, te za korištena sredstva, opremu, strojeve i uređaje kod izvođenja radova koja se nakon završetka radova dokazano vrate na područje one ugovorne stranke, odakle su uvezeni.
-(2) Materijale, predmete i druga sredstva za rad navedena u stavku (1) kontroliraju carinske vlasti ugovornih stranki.
-(3) Ukoliko se izvezeni materijali, predmeti i druga sredstva za rad, na koje se odnosi obveza za popravak ne vrate u područnu državu, iste tereti obveza plaćanja carine prema važećim pravnim propisima one države, na čijem su području isti ostali.
-(4) Obračun za obavljene radove održavanja i korištenja vrši se u neto cijeni, razmjerno udjelu u vlasništvu, nakon završetka radova. U obračunu ni jedna od ugovornih stranaka ne smije ostvariti carinski ili porezni trošak, odnosno bilo kakvu pristojbu u vezi s istima.

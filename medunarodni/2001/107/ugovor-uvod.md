@@ -1,2 +1,0 @@
-SPORAZUM IZMEĐU VLADE REPUBLIKE HRVATSKE I VLADE REPUBLIKE MAĐARSKE O KORIŠTENJU I ODRŽAVANJU CESTOVNIH GRANIČNIH MOSTOVA NA ZAJEDNIČKOJ DRŽAVNOJ GRANICI DVIJU DRŽAVA
-Vlada Republike Hrvatske i Vlada Republike Mađarske (u daljnjem tekstu: ugovorne stranke), u vezi korištenja i održavanja cestovnih graničnih mostova, na zajedničkoj hrvatsko-mađarskoj državnoj granici, sporazumjele su se kako slijedi:
