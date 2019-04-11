@@ -1,0 +1,5 @@
+# Članak 39.
+(1) Na temelju utvrđenih referentnih skupina i podskupina iz članka 38. ovoga Pravilnika, radi usklađivanja cijena lijekova koji se propisuju na recept Zavoda utvrđuje se razina cijene koju će plaćati Zavod za određeni oblik, jačinu i pakiranje lijeka, a koja predstavlja referentnu cijenu u tom postupku.
+(2) Referentne cijene lijekova iz stavka 1. ovoga članka određuju se po jediničnom obliku lijeka za isti ili srodan farmaceutski oblik, posebno za svaku jačinu djelatne tvari i posebno za isto ili približno pakiranje, uzimajući u obzir mjerila iz članka 8. ovoga Pravilnika.
+(3) Referentne cijene lijekova pod nezaštićenim imenom za različite jačine i pakiranja moraju biti logički usklađene.
+(4) Referentna cijena iz stavka 1. ovoga članka određuje se na temelju najniže cijene lijeka originalnog pakiranja koju plaća Zavod, a koji je ostvario najmanje 5% volumnog udjela unutar referentne skupine ili 10% volumnog udjela unutar podskupine u vremenskom razdoblju od šest mjeseci, za koje postoje cjeloviti podaci, a koji prethode danu dostavljanja obavijesti iz članka 40. stavka 1. ovoga Pravilnika.

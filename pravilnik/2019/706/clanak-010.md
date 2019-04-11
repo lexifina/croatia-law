@@ -1,0 +1,3 @@
+# Članak 10.
+(1) Prilikom procjene mjerila iz članka 3. točke 7. ovoga Pravilnika u obzir se uzima je li odobrenje za stavljanje lijeka u promet dano bez ograničenja ili lijek ima uvjetno odobrenje za stavljanje u promet i/ili je pod posebnim praćenjem.
+(2) Prilikom procjene mjerila iz članka 3. točke 8. ovoga Pravilnika, ako se radi o lijeku s novom djelatnom tvari koji se predlaže za stavljanje na listu lijekova, a odobren je za stavljanje u promet centraliziranim postupkom i nema kliničke paralele na listi lijekova, u obzir se uzima broj država članica Europske unije u kojima je lijek stavljen u promet i broj država članica Europske unije u kojima se lijek financira iz sredstava nacionalnog osiguravatelja zdravstvenog osiguranja.

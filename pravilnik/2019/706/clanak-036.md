@@ -1,0 +1,6 @@
+# Članak 36.
+(1) Usklađivanje cijena lijekova provodi se na način da se usklađuju cijene svih lijekova s liste lijekova s cijenama lijekova izračunatih u postupku godišnjeg izračuna, pri čemu se cijena originalnog pakiranja lijeka s liste lijekova usklađuje sa cijenom originalnog pakiranja lijeka izračunatom sukladno pravilniku kojim se utvrđuju mjerila za određivanje najviše dozvoljene cijene lijeka.
+(2) Cijena lijeka s liste lijekova koja je na razini ili ispod razine izračunate cijene lijeka u postupku godišnjeg izračuna cijena lijekova se ne usklađuje.
+(3) Cijena lijeka s liste lijekova koja je iznad razine izračunate cijene lijeka u postupku godišnjeg izračuna cijena lijekova se usklađuje na tu izračunatu razinu cijene sukladno stavku 1. ovoga članka.
+(4) Ako se usklađuje cijena lijeka kojemu je na listi lijekova utvrđen iznos koji za lijek plaća Zavod i iznos sudjelovanja, u prvom se koraku usklađivanje odnosi na iznos sudjelovanja, a ovisno o izračunatoj cijeni lijeka u postupku godišnjeg izračuna cijena lijekova, u drugom koraku se cijena lijeka usklađuje i na razini cijene koju plaća Zavod.
+(5) Iznimno, na zahtjev nositelja odobrenja, cijena lijeka koji ima utvrđenu razinu cijene koju plaća Zavod ispod razine 30% najviše dozvoljene cijene može se uskladiti najviše do razine 30% najviše dozvoljene cijene.

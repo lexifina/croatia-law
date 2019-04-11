@@ -1,0 +1,3 @@
+# Članak 34.
+(1) U slučaju da nositelj odobrenja dostavlja zahtjev za stavljanje nove indikacije za lijek koji se već nalazi na listi lijekova, Zavod može reevaluirati cijenu lijeka koja je bila utvrđena pri stavljanju lijeka na listu lijekova.
+(2) Ako se tijekom reevaluacije utvrdi da je cijena lijeka iz stavka 1. ovoga članka viša za novo predloženu indikaciju, a uzimajući u obzir cijene lijekova koje Zavod plaća za istu indikaciju kod usporednih lijekova s istim ili sličnim farmakološko-terapijskim svojstvima koji se nalaze u listi lijekova, Zavod može od nositelja odobrenja zatražiti korekciju predložene cijene odnosno usklađivanje cijene prije donošenja konačnog mišljenja o stavljanju lijeka na listu lijekova.

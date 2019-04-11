@@ -1,0 +1,2 @@
+# Članak 48.
+Postupci koji su započeti do dana stupanja na snagu Zakona o izmjenama i dopunama Zakona o lijekovima (»Narodne novine«, broj 100/18) završit će se po Zakonu o lijekovima (»Narodne novine«, br. 76/13 i 90/14), Pravilniku o mjerilima za stavljanje lijekova na Osnovnu i Dopunsku listu lijekova Hrvatskog zavoda za zdravstveno osiguranje (»Narodne novine«, br. 83/13 i 12/14) i Pravilniku o mjerilima i načinu za određivanje cijena lijekova na veliko i o načinu izvješćivanja o cijenama na veliko (»Narodne novine«, br. 83/13, 12/14, 69/14, 22/15 i 84/15).

@@ -1,0 +1,2 @@
+# Članak 47.
+Do utvrđivanja cijena lijekova koje će plaćati Zavod u skladu s odredbama ovoga Pravilnika primjenjuju se cijene lijekova koje plaća Zavod, a utvrđene su Odlukom o utvrđivanju Osnovne liste lijekova Hrvatskog zavoda za zdravstveno osiguranje (»Narodne novine« br. 63/18, 71/18 - ispravak, 98/18, 102/18 - ispravak, 106/18, 119/18 - ispravak, 15/19 i 26/19) te Odlukom o utvrđivanju Dopunske liste lijekova Hrvatskog zavoda za zdravstveno osiguranje (»Narodne novine«, br. 63/18, 71/18 - ispravak, 98/18, 102/18 - ispravak, 106/18, 15/19 i 26/19).
