@@ -1,0 +1,2 @@
+# Članak 1.
+Predmet ove Odluke je određivanje kriterija i relativnih pondera za odabir ekonomski najpovoljnije ponude u postupcima javne nabave u kojima su predmet nabave poljoprivredno-prehrambeni proizvodi i hrana sukladno članku 284. stavku 8. Zakona o javnoj nabavi (»Narodne novine«, broj 120/16) (u daljnjem tekstu Zakon) prema kojem čelnik središnjeg tijela državne uprave može javnim naručiteljima iz svog djelokruga odlukom odrediti relativne pondere za pojedine vrste predmeta nabave, a koje u postupcima javne nabave mogu koristiti i drugi obveznici javne nabave.
