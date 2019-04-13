@@ -1,0 +1,13 @@
+# Članak 18.
+(1) U trenutku podnošenja Zahtjeva za isplatu zamjena motora mora biti fizički završena te moraju biti ispunjeni uvjeti iz članka 5. stavka 1. te članka 6. stavka 2. odnosno stavka 3. ovoga Pravilnika.
+(2) Zahtjev za isplatu treba sadržavati sve plaćene račune sukladno prihvatljivim troškovima za koje je odobrena potpora, a svi priloženi računi moraju biti u cijelosti plaćeni u trenutku podnošenja Zahtjeva za isplatu.
+(3) Za plaćanja izvršena u stranoj valuti obračunat će se:
+a) protuvrijednost u kunama po tečaju Europske komisije (ECB), u mjesecu podnošenja Zahtjeva za isplatu iskazanom na šest decimala;
+b) u slučaju da je korisnik kupio strana sredstva plaćanja po nižem tečaju od ECB u mjesecu podnošenja Zahtjeva za isplatu iskazanom na šest decimala, isplata potpore temeljit će se na ostvarenom tečaju.
+(4) Korisniku se ne može isplatiti potpora u iznosu višem od iznosa navedenoga u Odluci o dodjeli sredstava.
+(5) Za nepotpun Zahtjev za isplatu Upravljačko tijelo će izdati Zahtjev za dopunu/obrazloženje/ispravak kojim će od korisnika tražiti dostavljanje dokumentacije koja nedostaje. Korisnik je dužan dostaviti traženu dokumentaciju preporučenom pošiljkom u roku od deset radnih dana od dana zaprimanja Zahtjeva za dopunu/obrazloženje/ispravak. Ako tražena dokumentacija ne bude poslana u zadanom roku, smatrat će se da je korisnik odustao od cijeloga ili od dijela iznosa potpore za koji dokumentacija nije dostavljena.
+(6) Vremenom zaprimanja Zahtjeva za dopunu/obrazloženje/ispravak smatra se datum kada korisnik zaprimi preporučenu pošiljku.
+(7) Ako korisnik nije preuzeo Zahtjev za dopunu prilikom prve dostave, dostava preporučene pošiljke bit će ponovljena još jednom. Ako korisnik ne preuzme Zahtjev za dopunu niti nakon ponovljene dostave, Zahtjev za dopunu će se objaviti na oglasnoj ploči Ministarstva poljoprivrede, Uprave ribarstva u Zagrebu, te će se dostava smatrati obavljenom istekom osmoga dana od dana objave Zahtjeva za dopunu na oglasnoj ploči.
+(8) Datumom podnošenja Zahtjeva za isplatu smatra se datum dostave tražene dokumentacije i/ili tražene dopune/obrazloženja/ispravka iz stavka 5. ovoga članka.
+(9) Za nepravovremeno podnesene i/ili nepotpuno dopunjene Zahtjeve za isplatu Upravljačko tijelo će korisniku izdati Odluku o odbijanju.
+(10) Ako se tijekom obrade Zahtjeva za isplatu utvrdi nepravilnost, a za koju odlukom o utvrđenoj nepravilnosti nije određeno odbijanje zahtjeva za isplatu u cijelosti, Upravljačko tijelo će odbiti iznos nepravilnog troška od Zahtjeva za isplatu i izdati Odluku o isplati u kojoj će ukupan iznos biti umanjen za iznos nepravilnog troška.
