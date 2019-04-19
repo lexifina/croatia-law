@@ -1,0 +1,1 @@
+Na temelju članka 105., stavka 1., podstavka 7. Poslovnika Hrvatskoga sabora (»Narodne novine«, br. 81/13., 113/16., 69/17. i 29/18. - u daljnjem tekstu: Poslovnik), Odbor za izbor, imenovanja i upravne poslove Hrvatskoga sabora je na 37. sjednici održanoj 5. travnja 2019. donio
