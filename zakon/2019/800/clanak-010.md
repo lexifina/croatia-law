@@ -1,0 +1,3 @@
+# Članak 10.
+U članku 16. stavak 6. mijenja se i glasi:
+»(6) Obveznici su dužni primijeniti mjere dubinske analize ne samo na nove stranke, već i pravodobno na postojeće stranke na temelju procjene rizika, posebno kod stranaka kod kojih se promijene okolnosti koje su relevantne za primjenu ovoga Zakona, ili kada je obveznik na temelju bilo kakve pravne obveze dužan tijekom kalendarske godine kontaktirati sa strankom u svrhu provjere svih relevantnih informacija povezanih sa stvarnim vlasnikom odnosno sa stvarnim vlasnicima, ili ako je obveznik to bio dužan učiniti u skladu s propisima koji uređuju administrativnu suradnju u području poreza.«.

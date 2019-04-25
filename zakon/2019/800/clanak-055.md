@@ -1,0 +1,10 @@
+# Članak 55.
+Članak 90. mijenja se i glasi:
+»(1) Nadzorna tijela iz članka 81. ovoga Zakona surađuju i razmjenjuju informacije s nadležnim tijelima koja nadziru kreditne i financijske institucije u drugim državama članicama u skladu s propisima koji uređuju sprječavanje pranja novca i financiranja terorizma ili drugim zakonodavnim aktima koji se odnose na nadzor kreditnih i financijskih institucija, bez obzira na prirodu i status tih nadležnih tijela, uključujući Europsku središnju banku kada djeluje u skladu s Uredbom Vijeća (EU) br. 1024/2013, te s drugim tijelima drugih država članica nadležnima za provedbu nadzora u području sprječavanja pranja novca i financiranja terorizma.
+(2) Suradnja iz stavka 1. ovoga članka obuhvaća i prikupljanje informacija u ime nadležnog tijela koje je pomoć zatražilo te razmjenu prikupljenih informacija.
+(3) Nadzorno tijelo iz članka 81. ovoga Zakona dužno je surađivati i razmjenjivati informacije s nadležnim tijelima iz stavka 1. ovoga članka i u sljedećim slučajevima:
+a) zahtjev za razmjenom informacija uključuje i porezna pitanja
+b) u svezi s traženim informacijama provodi se istraživanje, istraga ili postupak, osim ako bi razmjena traženih informacija omela to istraživanje, tu istragu ili taj postupak
+c) priroda ili status ekvivalentnog nadležnog tijela koje podnosi zahtjev za razmjenom informacija razlikuje se od prirode ili statusa nadzornog tijela kojem se podnosi zahtjev
+d) od obveznika se zakonom zahtijeva tajnost ili povjerljivost informacija, osim u onim slučajevima u kojima su relevantne informacije koje se traže zaštićene pravnom obvezom čuvanja povjerljivosti ili u kojima se primjenjuje pravna obveza čuvanja povjerljivosti informacija kako je opisano u članku 58. stavku 1. ovoga Zakona.
+(4) Nadzorna tijela iz članka 81. ovoga Zakona koja nadziru kreditne i financijske institucije sklapaju s Europskom središnjom bankom, kada djeluje na temelju članka 27. stavka 2. Uredbe (EU) br. 1024/2013 i ostalih odredaba koje uređuju razmjenu informacija između nadležnih tijela, uz potporu europskih nadzornih tijela, sporazum o načinu razmjene informacija sukladno odredbama ovoga članka.«.

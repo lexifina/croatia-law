@@ -1,0 +1,3 @@
+# Članak 30.
+U članku 41. stavak 2. mijenja se i glasi:
+»(2) Obveznik je dužan uspostaviti odgovarajuće procedure kako bi osigurao da od treće osobe pravodobno dobije preslike ili izravan pristup preslikama identifikacijskih isprava i druge dokumentacije na osnovi kojih je treća osoba provela dubinsku analizu stranke, uključujući, kada su dostupni, i podatke prikupljene na temelju kvalificiranoga certifikata za elektronički potpis ili elektronički pečat ili bilo kojim drugim sigurnim, daljinskim ili elektroničkim postupkom identifikacije koji su regulirala, priznala, odobrila ili prihvatila relevantna nacionalna tijela, kao i podatke o utvrđivanju i provjeri identiteta stranke i stvarnoga vlasnika stranke.«.

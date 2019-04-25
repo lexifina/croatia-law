@@ -1,0 +1,24 @@
+# Članak 52.
+U članku 82. stavak 5. mijenja se i glasi:
+»(5) Hrvatska agencija za nadzor financijskih usluga provodi nadzor primjene ovoga Zakona kod obveznika iz članka 9. stavka 2. točaka 6. do 13. i točke17. podtočaka k) i l) ovoga Zakona i podružnice istovrsnih obveznika iz druge države članice i trećih država, a koje su osnovane u Republici Hrvatskoj u skladu sa zakonom koji uređuje njihov rad. U svrhu nadzora prema članku 9. stavku 2. točki 17. podtočkama k) i l) ovoga Zakona te ovlasti za nadzor Hrvatske agencije za nadzor financijskih usluga u tom pogledu na odgovarajući se način primjenjuju odredbe zakona kojima se uređuje tržište kapitala i Zakona o Hrvatskoj agenciji za nadzor financijskih usluga.«.
+Stavak 8. mijenja se i glasi:
+»(8) Nadzor provedbe Uredbe (EU) 2015/847 i Delegirane uredbe Komisije (EU) 2018/1108 obavljaju u okviru svoje nadležnosti Hrvatska narodna banka i Financijski inspektorat Republike Hrvatske.«.
+Stavak 9. mijenja se i glasi:
+»(9) Zaposlenici nadležnih nadzornih tijela iz članka 81. ovoga Zakona, kao i revizori ili stručnjaci koji djeluju u ime tih nadzornih tijela dužni su čuvati povjerljive podatke pribavljene u obavljanju poslova propisanih ovim Zakonom te na odgovarajući način primjenjivati standarde sprječavanja sukoba interesa. Obveza čuvanja tajnosti podataka pribavljenih u obavljanju poslova propisanih ovim Zakonom traje i nakon prestanka rada zaposlenika u nadležnim nadzornim tijelima iz članka 81. ovoga Zakona.«.
+Iza stavka 9. dodaju se stavci 10. do 14. koji glase:
+»(10) Nadležna nadzorna tijela iz članka 81. ovoga Zakona podatke pribavljene sukladno ovom Zakonu smiju koristiti samo:
+a) pri obavljanju svojih dužnosti u skladu s ovim Zakonom ili drugim zakonodavnim aktima u području sprječavanja pranja novca i financiranja terorizma, bonitetnih propisa te nadzora kreditnih i financijskih institucija, uključujući postupanje po zahtjevima obveznika iz članka 9. ovoga Zakona koje nadziru, za izdavanje odobrenja, suglasnosti i licencija za rad obveznika iz članka 9. ovoga Zakona koje nadziru i postupanje po zahtjevima osoba kojima izdaju odobrenja za obavljanje određenih funkcija te za postupanje po zahtjevima za izdavanje odobrenja za stjecanje kvalificiranih udjela u financijskim institucijama i pravnim osobama koje podnose obveznici iz članka 9. ovoga Zakona te za postupanje po zahtjevima i obavijestima trećih osoba, koje nisu obveznici iz članka 9. ovoga Zakona, a koji se podnose nadležnim nadzornim tijelima iz članka 81. ovoga Zakona za izdavanje odobrenja, suglasnosti i licencija za rad, te uključujući i pokretanje prekršajnog postupka
+b) u slučaju žalbe protiv odluke nadležnog tijela koje nadzire kreditne i financijske institucije, uključujući sudske postupke
+c) u sudskim postupcima pokrenutima na temelju posebnih odredaba koje su predviđene u pravu Europske unije koje je doneseno u području primjene ovoga Zakona ili u području bonitetnih propisa te nadzora kreditnih i financijskih institucija
+d) u slučajevima suradnje s nadležnim nadzornim tijelima iz članka 81. ovoga Zakona pri obavljanju svojih dužnosti u skladu s ovim Zakonom ili drugim zakonodavnim aktima koji se odnose na nadzor kreditnih i financijskih institucija
+e) u slučajevima suradnje s:
+1. tijelima drugih država članica nadležnima za provedbu nadzora u području sprječavanja pranja novca i financiranja terorizma
+2. tijelima drugih država članica nadležnima za provedbu nadzora u skladu s drugim zakonodavnim aktima koji se odnose na nadzor kreditnih i financijskih institucija
+3. europskim nadzornim tijelima
+4. Europskom središnjom bankom (ESB) kada djeluje u skladu s Uredbom Vijeća (EU) br. 1024/2013 te
+5. nadležnim tijelima trećih država u skladu s člankom 92. ovoga Zakona
+f) u slučajevima suradnje s državnim tijelima nadležnim za sprječavanje ili istraživanje pranja novca, povezanih predikatnih kaznenih djela ili financiranja terorizma.
+(11) Osobe iz stavka 9. ovoga članka povjerljive informacije smiju otkriti samo u sažetom ili općenitom obliku, na način da nije moguće identificirati pojedinačne kreditne i financijske institucije.
+(12) Nadzorna tijela iz članka 81. ovoga Zakona dužna su dostaviti podatke i informacije državnim tijelima nadležnim za sprječavanje ili istraživanje pranja novca, povezanih predikatnih kaznenih djela ili financiranja terorizma.
+(13) Nadležna nadzorna tijela iz članka 81. ovoga Zakona dužna su dostaviti podatke na zahtjev istražnog povjerenstva Hrvatskoga sabora, kada su te informacije nužne za ispunjavanja mandata toga tijela, u skladu sa zakonom koji uređuje osnivanje, sastav, djelokrug, ovlasti, načela djelovanja i način rada istražnih povjerenstava Hrvatskoga sabora.
+(14) Nadležna nadzorna tijela iz članka 81. ovoga Zakona podatke iz članka 74. stavka 1. ovoga Zakona ne smiju proslijediti ili učiniti dostupnima drugim tijelima ili trećim osobama bez prethodne pisane suglasnosti Ureda.«.

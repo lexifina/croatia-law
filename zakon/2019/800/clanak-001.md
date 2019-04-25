@@ -1,0 +1,7 @@
+# Članak 1.
+U Zakonu o sprječavanju pranja novca i financiranja terorizma (»Narodne novine«, br. 108/17.) u članku 2. stavak 1. mijenja se i glasi:
+»(1) Ovim Zakonom u hrvatsko zakonodavstvo preuzimaju se sljedeći akti Europske unije:
+1. Direktiva (EU) 2015/849 Europskoga parlamenta i Vijeća od 20. svibnja 2015. o sprječavanju korištenja financijskoga sustava u svrhu pranja novca i financiranja terorizma, o izmjeni Uredbe (EU) 648/2012 Europskoga parlamenta i Vijeća te o stavljanju izvan snage Direktive 2005/60/EZ Europskoga parlamenta i Vijeća i Direktive Komisije 2006/70/EZ (Tekst značajan za EGP) (SL L 141, 5. 6. 2015.) (u daljnjem tekstu: Direktiva (EU) 2015/849)
+2. Direktiva (EU) 2018/843 Europskoga parlamenta i Vijeća od 30. svibnja 2018. o izmjeni Direktive (EU) 2015/849 o sprječavanju korištenja financijskog sustava u svrhu pranja novca ili financiranja terorizma i o izmjeni direktiva 2009/138/EZ i 2013/36/EU (Tekst značajan za EGP) (SL L 156, 19. 6. 2018.) (u daljnjem tekstu: Direktiva (EU) 2018/843).«.
+U stavku 2. na kraju točke 2. briše se točka i dodaje se točka 3. koja glasi:
+»3. Delegirana uredba Komisije (EU) 2018/1108 оd 7. svibnja 2018. o dopuni Direktive (EU) 2015/849 Europskog parlamenta i Vijeća regulatornim tehničkim standardima o kriterijima za imenovanje središnjih kontaktnih točaka za izdavatelje elektroničkog novca i pružatelje platnih usluga i pravilima o njihovim funkcijama (Tekst značajan za EGP) (u daljnjem tekstu: Delegirana uredba Komisije (EU) 2018/1108).«.

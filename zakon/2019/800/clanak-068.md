@@ -1,0 +1,6 @@
+# Članak 68.
+U članku 152. stavku 1. iza riječi: »platiteljev pružatelj platnih usluga« dodaju se riječi: »i zastupnik platiteljevog pružatelja platnih usluga«.
+U stavku 2. iza riječi: »primateljev pružatelj platnih usluga« dodaju se riječi: »i zastupnik primateljevog pružatelja platnih usluga«.
+Iza točke 6. dodaje se točka 7. koja glasi:
+»7. ako ne uvede djelotvorne postupke, uključujući, gdje je primjereno, ex post praćenje ili praćenje u stvarnom vremenu, za otkrivanje nedostaju li o platitelju i primatelju informacije iz članka 5. Uredbe (EU) 2015/847 za prijenose novčanih sredstava pri kojima platiteljev pružatelj platnih usluga ima poslovni nastan u Europskoj uniji, informacije iz članka 4. stavaka 1. i 2. Uredbe (EU) 2015/847 za prijenose novčanih sredstava pri kojima platiteljev pružatelj platnih usluga ima poslovni nastan izvan Europske unije odnosno informacije iz članka 4. stavaka 1. i 2. Uredbe (EU) 2015/847 u odnosu na prijenos putem skupne datoteke za prijenose putem skupnih datoteka pri kojima platiteljev pružatelj platnih usluga ima poslovni nastan izvan Europske unije (članak 7. stavak 2. Uredbe (EU) 2015/847).«.
+U stavku 6. riječ: »direktivama« zamjenjuje se s riječi: »propisima«.

@@ -1,0 +1,3 @@
+# Članak 75.
+(1) Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«, osim članaka 4., 5., 6., 10. i 12., članaka 22. do 27., članaka 37., 51., 54. i 64. ovoga Zakona, te osim članka 82. stavka 5. koji je izmijenjen člankom 52. ovoga Zakona, članka 150. stavka 1. točaka 13.b), 15.b), 16., 36.b) i 65. koji je izmijenjen člankom 66. ovoga Zakona, te članka 153. stavka 23. koji je izmijenjen člankom 69. ovoga Zakona, koji stupaju na snagu 1. siječnja 2020.
+(2) Dana 1. siječnja 2020. u članku 150. stavku 1. izmijenjenim člankom 66. ovoga Zakona točke 13.a), 15.a) i 36.a) prestaju važiti.

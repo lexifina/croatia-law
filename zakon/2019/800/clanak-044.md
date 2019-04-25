@@ -1,0 +1,5 @@
+# Članak 44.
+U članku 64. stavak 4. mijenja se i glasi:
+»(4) Ako zakoni treće države ne dopuštaju provođenje politika i postupaka iz stavaka 1. i 2. ovoga članka, nadležno nadzorno tijelo iz članka 82. ovoga Zakona će o tome obavijestiti europska nadzorna tijela radi usklađivanja aktivnosti i postizanja odgovarajućih rješenja. Prilikom procjenjivanja koje treće države ne dopuštaju provedbu politika i postupaka iz stavaka 1. i 2. ovoga članka, nadležno nadzorno tijelo uzima u obzir sva pravna ograničenja koja bi mogla ometati pravilnu provedbu tih politika i postupaka, uključujući tajnost, zaštitu podataka i druga ograničenja kojima se ograničava razmjena informacija koje bi u tu svrhu mogle biti relevantne.«.
+Iza stavka 6. dodaje se stavak 7. koji glasi:
+»(7) Ako su u trećoj državi ili državi članici minimalni standardi za provedbu mjera sprječavanja pranja novca i financiranja terorizma viši od mjera propisanih ovim Zakonom, obveznik je dužan osigurati da njegove podružnice i društva kćeri usvoje i provode odgovarajuće mjere u skladu s pravom treće države ili države članice, uključujući i mjere zaštite podataka.«.
