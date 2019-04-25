@@ -1,0 +1,26 @@
+# Članak 2.
+U članku 4. stavak 3. mijenja se i glasi:
+»(3) Poslovi carinske službe su osobito:
+1. utvrđivanje, naplata i nadzor carinskih davanja, trošarina, posebnih poreza, poreza na dodanu vrijednost, drugih javnih davanja te javnopravnih naknada (u daljnjem tekstu: javna davanja),
+2. osiguravanje pravilne primjene carinskog zakonodavstva koje se odnosi na unos, iznos, provoz, prijenos, skladištenje i drugo raspolaganje robom koja podliježe mjerama nadzora,
+3. provedba carinsko-sigurnosnih mjera,
+4. sudjelovanje u provođenju mjera zajedničke poljoprivredne, ribarske i trgovinske politike,
+5. utvrđivanje, stavljanje na raspolaganje i nadzor tradicionalnih vlastitih sredstava Europske unije iz carinskih davanja,
+6. otkrivanje, sprječavanje i suzbijanje prekršaja i kaznenih djela, njihovo otkrivanje i prikupljanje podataka o tim djelima i počiniteljima te provedba dokaznih radnji u prekršajnom i kaznenom postupku sukladno odredbama Zakona o kaznenom postupku, Prekršajnog zakona i ovoga Zakona,
+7. nadzor nad provedbom propisa kojima se uređuje fiskalizacija u prometu gotovinom i propisa kojim se uređuje porezni postupak,
+8. nadzor nad unosom, iznosom, prekograničnim prometom te drugim kretanjem i gospodarenjem otpadom sukladno propisima kojima se uređuje gospodarenje otpadom,
+9. nadzor provedbe obveza proizvođača proizvoda u smislu propisa kojima se uređuje gospodarenje otpadom te naplata naknada za gospodarenje posebnim kategorijama otpada koje se obračunavaju i plaćaju te postupka posredovanja i trgovanja otpadom sukladno propisima kojima se uređuje gospodarenje otpadom,
+10. nadzor uvoza i izvoza tvari koje oštećuju ozonski sloj, fluoriranih stakleničkih plinova, uređaja i opreme koji sadrže ove tvari ili o njima ovise i ostalih kemijskih tvari sukladno propisima o zaštiti zraka,
+11. nadzor u skladu s posebnim propisima ispunjavanja uvjeta za ostvarivanje prava na korištenje novčanih sredstava koja se isplaćuju iz državnog proračuna Republike Hrvatske, kao i novčanih sredstava koja korisnici izravno ili posredno ostvaruju primjenom oslobođenja ili izuzeća od plaćanja javnih davanja te sniženih visina i diferenciranih stopa javnih davanja,
+12. nadzor obračuna, plaćanja i naplate naknade za koncesiju te nadzor nad obavljanjem djelatnosti za koju je propisana koncesija, a obavlja se bez dodijeljene koncesije,
+13. nadzor u području prava intelektualnog vlasništva,
+14. nadzor nad provedbom propisa o morskom i slatkovodnom ribarstvu na području ribolovnog mora i voda te u dijelu koji se odnosi na kretanje i promet ribe i drugih morskih i vodenih organizama,
+15. provedba carinskih mjera provjere značajki proizvoda sukladno propisima o tehničkim zahtjevima za proizvode i ocjenjivanju sukladnosti i drugim propisima kojima se uređuju tehnički zahtjevi za proizvode,
+16. nadzor unosa i iznosa gotovine preko državne granice sukladno propisima o sprječavanju pranja novca i financiranju terorizma,
+17. nadzor nad primjenom propisa kojima se uređuje izvoz, uvoz, iznos i unos kulturnih dobara,
+18. nadzor nad provedbom propisa kojima se uređuje prekogranični promet i trgovina divljim vrstama,
+19. provedba upravnih i nadzornih poslova u vezi s uvjetima pružanja usluga carinskog zastupanja,
+20. nadzor na graničnom prijelazu, odnosno na drugom mjestu gdje se obavlja carinski nadzor dozvola i drugih isprava, sukladno propisima o prijevozu u cestovnom prometu te osovinskog opterećenja, ukupne mase i dimenzije vozila u prometu na cestama sukladno propisima o sigurnosti prometa na cestama,
+21. nadzor sustava sljedivosti i praćenja duhanskih proizvoda te uporabe sigurnosnog obilježja sukladno propisima o ograničavanju uporabe duhanskih i srodnih proizvoda,
+22. administrativna suradnja i međunarodna razmjena informacija s državama članicama Europske unije ili s trećim državama u području primjene propisa iz nadležnosti Carinske uprave,
+23. svi drugi poslovi koji su Carinskoj upravi stavljeni u nadležnost posebnim propisima.«.
