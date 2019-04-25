@@ -1,0 +1,1 @@
+Na temelju članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/11, 119/14, 93/16 i 116/18), a u vezi s člankom 213. stavkom 2. Zakona o lijekovima (»Narodne novine«, br. 76/13, 90/14 i 100/18), Vlada Republike Hrvatske je na sjednici održanoj 25. travnja 2019. godine donijela
