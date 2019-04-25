@@ -1,0 +1,18 @@
+## Značenje pojmova
+# Članak 2.
+U smislu ovoga Zakona pojedini pojmovi imaju sljedeće značenje:
+1. korisnik psa pomagača je:
+– odrasla poslovno sposobna osoba s invaliditetom ili osoba s kroničnom bolesti čija je funkcionalna sposobnost u obavljanju svakodnevnih životnih aktivnosti smanjena, a osposobljena je za korištenje psa pomagača
+– dijete s teškoćama u razvoju te odrasla osoba s invaliditetom ili osoba s kroničnom bolesti lišena poslovne sposobnosti u dijelu sklapanja pravnih poslova čija je funkcionalna sposobnost u obavljanju svakodnevnih životnih aktivnosti smanjena, a koja aktivnosti sa psom pomagačem ili terapijskim psom provodi isključivo s voditeljem psa pomagača
+2. korisnik terapijskog psa je dijete s teškoćama u razvoju ili odrasla osoba s invaliditetom i/ili kroničnom bolesti uključena u individualne ili grupne terapijske i/ili rehabilitacijske postupke s terapijskim psom
+3. pas pomagač je pas koji je školovan za pomoć u zadovoljenju svakodnevnih individualnih potreba korisnika, čije potrebe proizlaze iz smanjenja funkcionalne sposobnosti u obavljanju svakodnevnih životnih aktivnosti kao i situacija opasnih za život
+4. terapijski pas je školovani pas koji je uključen u individualni ili grupni rad s korisnikom terapijskog psa u svrhu postizanja unaprijed definiranih ciljeva terapijskog i/ili rehabilitacijskog postupka
+5. voditelj psa pomagača je punoljetna osoba osposobljena za korištenje psa pomagača koja je uz suglasnost korisnika ili njegova zakonskog zastupnika preuzela ulogu voditelja psa pomagača i koja provodi aktivnosti s korisnikom psa pomagača i psom pomagačem sukladno potrebama korisnika psa pomagača
+6. stručni voditelj terapijskog psa je stručna osoba osposobljena za rad s terapijskim psom koja provodi terapijski i/ili rehabilitacijski postupak s korisnikom terapijskog psa i terapijskim psom u okviru djelokruga svoje struke radi postizanja unaprijed definiranih ciljeva terapijskog i/ili rehabilitacijskog postupka
+7. voditelj terapijskog psa je osoba osposobljena za rad s terapijskim psom koja isključivo u suradnji sa stručnom osobom provodi aktivnosti s korisnikom terapijskog psa u skladu s njegovim potrebama
+8. stručna osoba je osoba koja procjenjuje potrebe korisnika terapijskog psa, planira i provodi terapijski i/ili rehabilitacijski postupak s korisnikom terapijskog psa u okviru djelokruga svoje struke u suradnji s voditeljem terapijskog psa
+9. trener psa pomagača ili terapijskog psa je osoba koja provodi školovanje psa za psa pomagača i terapijskog psa
+10. radni instruktor psa pomagača i terapijskog psa je osoba koja provodi školovanje psa za psa pomagača i terapijskog psa, osposobljavanje kandidata za korisnika psa pomagača i kandidata za voditelja psa pomagača i terapijskog psa
+11. socijalizator psa pomagača ili terapijskog psa je poslovno sposobna osoba koja provodi aktivnosti sa psom radi njegove prilagodbe uvjetima u kojima živi čovjek
+12. javni prostor je zatvoreni prostor namijenjen skupnom boravku ljudi, a obuhvaća prostore u građevinama u kojima se obavljaju djelatnosti iz područja zdravstva, zaštite djece, socijalne skrbi, odgoja i obrazovanja, trgovine, sporta i rekreacije, ugostiteljstva i turizma, kulture i umjetnosti, prometa, uključujući čekaonice, prostorije za sastanke, sve dvorane za okupljanje ljudi, gledališta, javna prometna sredstva, dizala, kabine žičara, javne zahode te otvorene prostore namijenjene održavanju kazališnih predstava i kinopredstava
+13. javni prijevoz je prijevoz koji je pod istim uvjetima dostupan svim korisnicima prijevoznih usluga te uključuje prijevoz vlakom, tramvajem, uspinjačom, žičarom, autobusom, taksijem, brodom, avionom i drugim prometnim sredstvima.

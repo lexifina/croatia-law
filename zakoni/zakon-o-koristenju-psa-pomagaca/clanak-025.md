@@ -1,0 +1,3 @@
+## Evidencije
+# Članak 25.
+Pravna ili fizička osoba koja obavlja djelatnost iz članka 4. ovoga Zakona dužna je voditi evidenciju o kandidatima za korisnika psa pomagača, osposobljenim korisnicima psa pomagača, korisnicima terapijskog psa, kandidatima za voditelja psa pomagača, osposobljenim voditeljima psa pomagača, voditeljima terapijskog psa i stručnim voditeljima terapijskog psa, psima na školovanju za psa pomagača i terapijskog psa, školovanim psima pomagačima i terapijskim psima, kandidatima za trenera i radnog instruktora psa pomagača i terapijskog psa i educiranim trenerima i radnim instruktorima psa pomagača i terapijskog psa.
