@@ -1,0 +1,4 @@
+# Članak 24.
+Članak 51. mijenja se i glasi:
+»(1) Droga, biljka i dijelovi biljke, tvari koje se mogu uporabiti za izradu droge, nove psihoaktivne tvari i sredstva iz članka 2. stavka 1. točaka 1. do 5. i točke 8. ovoga Zakona te tvari zabranjene u sportu, oduzeti na temelju odredbi ovoga Zakona ili drugog propisa, uništit će se po pravomoćnosti presude ili rješenja ili po isteku roka od jedne godine od dana podnošenja kaznene prijave ili posebnog izvješća nadležnom državnom odvjetništvu ili podnošenja optužnog prijedloga ili izdavanja prekršajnog naloga.
+(2) Droga, biljka i dijelovi biljke, tvari koje se mogu uporabiti za izradu droge, nove psihoaktivne tvari i sredstva iz članka 2. stavka 1. ovoga Zakona te tvari zabranjene u sportu čije bi čuvanje bilo opasno ili povezano s nerazmjernim teškoćama mogu se uništiti temeljem odluke nadležnog državnog odvjetništva ili suda.«.
