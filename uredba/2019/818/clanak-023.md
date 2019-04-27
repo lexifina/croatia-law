@@ -1,0 +1,3 @@
+# Članak 23.
+Odjel za plemenite kovine i kemijska mjerenja izvan sjedišta Zavoda obavlja upravne i stručne poslove ispitivanja, označivanja i žigosanja predmeta od plemenitih kovina, provodi postupak za dodjelu znaka proizvođača odnosno znaka dobavljača predmeta od plemenitih kovina, vodi propisane evidencije o znakovima proizvođača i znakovima dobavljača, ispitanim i žigosanim predmetima od plemenitih kovina i obavljenim kemijskim mjerenjima te obavlja i druge poslove iz svoga djelokruga.
+Za obavljanje poslova iz djelokruga Odjela osnivaju se područne jedinice sa samostalnim izvršiteljima u Rijeci, Splitu i Osijeku.

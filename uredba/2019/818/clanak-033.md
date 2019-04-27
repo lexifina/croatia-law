@@ -1,0 +1,3 @@
+# Članak 33.
+Odjel za razvoj, koordinaciju i međunarodne poslove obavlja poslove koji se odnose na sudjelovanje u radu međunarodnih mjeriteljskih organizacija iz područja temeljnog mjeriteljstva, koordinaciju i suradnju s drugim nacionalnim umjernim laboratorijima, vođenje sustava kvalitete prema međunarodnim mjeriteljskim organizacijama u području temeljnog mjeriteljstva, razvoj i pripremu stručnih podloga za proglašavanje državnih etalona, suradnju na međunarodnim projektima i organizaciji seminara iz područja temeljnog mjeriteljstva, suradnju na organizaciji međunarodnih međulaboratorijskih usporedbi te obavlja i druge poslove iz svoga djelokruga.
+4.2. Odjel za nacionalni laboratorij za masu i gustoću
