@@ -1,0 +1,1 @@
+Na temelju članka 11. Zakona o financiranju vodnoga gospodarstva (»Narodne novine«, br. 153/09, 56/13, 120/16 i 127/17), Vlada Republike Hrvatske je na sjednici održanoj 25. travnja 2019. godine donijela
