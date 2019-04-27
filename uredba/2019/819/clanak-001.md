@@ -1,0 +1,2 @@
+# Članak 1.
+U Uredbi o unutarnjem ustrojstvu Središnjeg državnog ureda za šport (»Narodne novine«, br. 118/16 i 58/18), u članku 3. iza riječi: »obavlja poslove u vezi s provedbom zakona kojim se uređuje pravo na pristup informacijama«, dodaju se riječi: »te obavlja i koordinira poslove strateškog planiranja sukladno propisu kojim se uređuje sustav strateškog planiranja i upravljanja razvojem Republike Hrvatske«.
