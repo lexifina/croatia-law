@@ -1,0 +1,12 @@
+# Članak 5.
+(1) Topli obrok je obrok pripremljen za osiguranje jednoga dijela dnevnih nutritivnih i energetskih potreba pripadnika Oružanih snaga u kojem je barem jedan dio termički obrađen i tako topao poslužen u roku od najviše dva sata.
+(2) Topli obroci su: doručak, kadetski doručak, ručak, kadetski ručak, večera, letački obrok prije letenja, letački obrok nakon letenja, roniteljski obrok prije ronjenja i roniteljski obrok nakon ronjenja.
+(3) Doručak je dnevni obrok koji se sastoji od napitka, glavne komponente i kruha, a čija je ukupna energetska vrijednost u rasponu od 800 kcal do 1000 kcal.
+(4) Kadetski doručak je dnevni obrok za kadete koji se sastoji od napitka, glavne komponente i kruha, a čija je ukupna energetska vrijednost u rasponu od 1000 kcal do 1200 kcal.
+(5) Ručak je glavni dnevni obrok, služi se sredinom dana i sastoji se od juhe, glavne komponente, salate, deserta i kruha, a čija je ukupna energetska vrijednost u rasponu od 1260 kcal do 1440 kcal odnosno u rasponu od 1100 kcal do 1400 kcal kada desert nije sastavni dio ručka.
+(6) Kadetski ručak je glavni dnevni obrok za kadete i sastoji se od juhe, glavne komponente, salate, deserta i kruha, a čija je ukupna energetska vrijednost u rasponu od 1200 kcal do 1500 kcal.
+(7) Večera je dnevni obrok koji se sastoji od glavne komponente, salate, deserta i kruha, a čija je ukupna energetska vrijednost u rasponu od 900 kcal do 1080 kcal.
+(8) Letački obrok prije letenja je obrok za vojne pilote i ostalo letačko osoblje koji zamjenjuje doručak, ručak ili večeru ovisno o planiranom vremenu provedbe letačkih zadaća i sastoji se od juhe, glavne komponente, salate, deserta ili voća, meda, napitaka, čokolade i kruha, a čija je ukupna energetska vrijednost u rasponu od 1900 kcal do 2200 kcal.
+(9) Letački obrok nakon letenja je obrok za vojne pilote nadzvučnih zrakoplova i sastoji se od mliječnoga napitka, glavne komponente, voća i kruha, a čija je ukupna energetska vrijednost u rasponu od 1020 kcal do 1170 kcal.
+(10) Roniteljski obrok prije ronjenja je obrok za vojne ronitelje koji zamjenjuje doručak, ručak ili večeru ovisno o planiranom vremenu provedbe roniteljskih zadaća i sastoji se od glavne komponente, salate, deserta, voća, napitaka i kruha, a čija je ukupna energetska vrijednost u rasponu od 1200 kcal do 1400 kcal.
+(11) Roniteljski obrok nakon ronjenja je obrok za vojne ronitelje i sastoji se od glavne komponente, salate, deserta, voća, napitaka i kruha, a čija je ukupna energetska vrijednost u rasponu od 1200 kcal do 1400 kcal.
