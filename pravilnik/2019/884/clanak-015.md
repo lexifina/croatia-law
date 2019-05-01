@@ -1,0 +1,6 @@
+## IV. PROMJENA PODATAKA U REGISTRU
+## Zahtjev za upis promjene podataka
+# Članak 15.
+(1) Osobe iz članka 2. stavka 1. ovoga Pravilnika koje su upisane u odgovarajuće registre dužne su pisanim putem obavijestiti Ministarstvo financija o svakoj promjeni podataka sadržanih u registrima u roku od osam dana od dana nastale promjene, te zahtjevu za upis promjene podataka priložiti odgovarajuću i vjerodostojnu dokumentaciju kojom dokazuje nastalu promjenu, odnosno potvrđuje istinitost podataka iz članaka 5. do 12. ovoga Pravilnika čiji se upis ili promjena traži. Dokumentacija se dostavlja u neovjerenoj preslici, a može se dostaviti i elektroničkim putem. Na zahtjev Ministarstva financija, osoba je dužna predočiti izvornu dokumentaciju na uvid.
+(2) Obavijest sa zahtjevom za promjenu podataka u registru za revizorskog vježbenika potpisuje zastupnik revizorskog društva, odnosno samostalni revizor kod kojeg je revizorski vježbenik u radnom odnosu ili je na stručnom osposobljavanju bez zasnivanja radnog odnosa.
+(3) Obrazac zahtjeva za upis promjene podataka u odgovarajućem registru iz stavka 1. i stavka 2. ovoga članka nalazi se u Prilogu I. ovoga Pravilnika i njegov je sastavni dio. Obrazac zahtjeva se objavljuje na internetskoj stranici Ministarstva financija i dostupan je putem Jedinstvene kontaktne točke za usluge.
