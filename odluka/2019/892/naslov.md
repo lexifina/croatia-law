@@ -1,0 +1,1 @@
+Odluka o davanju suglasnosti na prijenos Ugovora o koncesiji za crpljenje termalne vode za tehnološke potrebe i za prodaju na tržištu s društva Jamnica d.d., Zagreb na društvo Jamnica plus d.o.o., Zagreb
