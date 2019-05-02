@@ -1,0 +1,5 @@
+## Obveze i prava povezanih osoba
+# Članak 8.
+(1) Svojstvo povezanih osoba odlučno je za početak i postojanje obveze, ako povezane osobe kao cjelina ispunjavaju kriterije za nastup obveze u razdoblju za koje se obveza određuje rješenjem Ministarstva, bez obzira na količinu godišnje prodaje energije krajnjim kupcima koju je svaka pojedina članica povezanih osoba pojedinačno isporučila u promatranoj godini krajnjim kupcima ili do distribucijskih stanica koje prodaju energiju krajnjim kupcima.
+(2) Ministarstvo rješenjem određuje izračun obveze zasebno za svaku od osoba koje čine povezane osobe, bez utjecaja godišnje prodaje energije krajnjim kupcima u pretprošloj godini koje od njezinih povezanih osoba.
+(3) Povezane osobe mogu odrediti nositelja objedinjenog izvješća koji će za povezane osobe koje su donijele takvu odluku predati jedinstveno izvješće o ostvarenim uštedama, a nositelj je dužan izvješću priložiti takve odluke stranaka obveznica iz kojih je vidljivo davanje suglasnosti za podnošenje takvog izvješća.
