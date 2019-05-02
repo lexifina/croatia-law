@@ -1,0 +1,7 @@
+O DAVANJU SUGLASNOSTI NA PRIJENOS UGOVORA O KONCESIJI ZA CRPLJENJE MINERALNIH VODA S DRUŠTVA JAMNICA d.d., ZAGREB NA DRUŠTVO JAMNICA PLUS d.o.o., ZAGREB
+I.
+Vlada Republike Hrvatske daje suglasnost na prijenos Ugovora o koncesiji za crpljenje mineralnih voda, klase: 034-02/08-01/0029, urbroja: 538-10/1-2-67-09/29, od 7. prosinca 2009. godine, s društva Jamnica d.d., Zagreb na društvo Jamnica plus d.o.o., Zagreb (u daljnjem tekstu: Koncesionar) sklopljenog na temelju Odluke o dodjeli koncesije za crpljenje mineralnih voda društvu Jamnica d.d., Zagreb (»Narodne novine«, broj 139/09), iz bunara: B-6 (k.č.br. 1159/1, k.o. Pisarovina; novi premjer: k.č.br. 1697, k.o. Pisarovina I), G-4 (k.č.br. 1172/2, k.o. Pisarovina; novi premjer: k.č.br. 1698, k.o. Pisarovina I), G-9 (k.č.br. 1160/1, k.o. Pisarovina; novi premjer: k.č.br. 1813/2, k.o. Pisarovina I), G-10 (k.č.br. 1158/1, k.o. Pisarovina; novi premjer: k.č.br. 1697, k.o. Pisarovina I), G-11 (k.č.br. 1158/1, k.o. Pisarovina; novi premjer: k.č.br. 1697, k.o. Pisarovina I) i JZ-2 (k.č.br. 1211/21, k.o. Pisarovina; novi premjer: k.č.br. 1863/6, k.o. Pisarovina I).
+II.
+Na temelju ove Odluke, sukladno članku 176. stavku 1. Zakona o vodama, ministar nadležan za vodno gospodarstvo potpisat će s Koncesionarom dodatak Ugovoru o koncesiji iz točke I. ove Odluke, u roku od 60 dana od dana donošenja ove Odluke.
+III.
+Ova Odluka stupa na snagu danom donošenja, a objavit će se u »Narodnim novinama«.
