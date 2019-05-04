@@ -1,0 +1,1 @@
+Na temelju odredbe članka 7. stavka 4. Zakona o osiguranju (»Narodne novine« broj 30/15 i 112/18) Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća održanoj 18. travnja 2019. donijela je
