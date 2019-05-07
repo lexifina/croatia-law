@@ -1,0 +1,3 @@
+R J E Š E N J E
+I. Odbacuje se prijedlog za pokretanje postupka za ocjenu suglasnosti s Ustavom članka 15. Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji ("Narodne novine" broj 174/04., 92/05., 2/07., 107/07., 65/09., 137/09., 146/10., 55/11., 140/12., 19/13., 33/13., 148/13. i 92/14.).
+II. Obustavlja se postupak u povodu prijedloga za pokretanje postupka za ocjenu suglasnosti s Ustavom članka 16. Zakona o izmjenama i dopuni Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji ("Narodne novine" broj 137/09.) i članka 31. Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji ("Narodne novine" broj 55/11.).
