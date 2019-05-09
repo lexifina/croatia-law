@@ -1,0 +1,9 @@
+## Obnavljanje udžbenika
+# Članak 1.
+(1) Sve osnovne škole u Republici Hrvatskoj dužne su prije početka svake školske godine napraviti analizu raspoloživosti udžbenika obveznih predmeta te o potrebama dokupa izvijestiti Ministarstvo nadležno za obrazovanje (u daljnjem tekstu: Ministarstvo). Dokupljuju se udžbenici koji se ne mijenjaju u Katalogu odobrenih udžbenika te školske godine.
+(2) Za udžbenike koji se tek uvrštavaju u Katalog odobrenih udžbenika te se odabiru u školi sukladno odredbama Zakona o udžbenicima i drugim obrazovnim materijalima za osnovnu i srednju školu potrebno je nabaviti broj primjeraka koji odgovara broju učenika u toj generaciji. Isto vrijedi za udžbenike radnog karaktera koji su namijenjeni jednogodišnjem korištenju.
+(3) Škola je dužna sredstva doznačena za nabavu udžbenika koristiti isključivo u svrhu obnavljanja zbirke udžbenika koja osigurava dostupnost udžbenika svim učenicima škole, prema postupku propisanim aktom škole o javnoj nabavi.
+(4) Prilikom sklapanja ugovora o nabavi udžbenika treba voditi računa o roku isporuke (početak nastavne godine), uz preporuku ugovaranja adekvatnih mehanizama osiguranja i penalizacije u slučaju kašnjenja.
+(5) Ako se naknadno pojavi potreba za dodatnim udžbenicima, primjerice zbog premještaja učenika u školu, škola će obavijestiti Ministarstvo o potrebi nabave dodatnih udžbenika.
+(6) Udžbenici su vlasništvo škola i one ih daju na uporabu učenicima sve dok su u uporabnom, odnosno primjerenom stanju tako da se svake godine nabavljaju samo oni udžbenici koji za sljedeću školsku godinu nedostaju - ako su promijenjeni, oštećeni ili je povećan broj učenika.
+(7) Vijek uporabe pojedinog udžbenik je četiri godine, a smatra se da je udžbenik u uporabnom, odnosno primjerenom stanju ako je cjelovit, konzistentan i čitljiv.
