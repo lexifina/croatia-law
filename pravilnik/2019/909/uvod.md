@@ -1,0 +1,1 @@
+Na temelju članka 73. stavka 2. Zakona o morskom ribarstvu (»Narodne novine«, broj 62/2017 130/2017 i 14/2019) i članka 38. Zakona o akvakulturi (»Narodne novine«, broj 130/2017 i 111/2018) ministar poljoprivrede donosi
