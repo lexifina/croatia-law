@@ -1,0 +1,2 @@
+# Članak 1.
+Potvrđuje se Sporazum o osnivanju Međunarodne zaklade EU - LAC, otvoren za potpisivanje 25. listopada 2016., a koji je Republika Hrvatska potpisala u Bruxellesu 30. studenoga 2016. u izvorniku na bugarskom, češkom, danskom, engleskom, estonskom, finskom, francuskom, grčkom, hrvatskom, latvijskom, litavskom, mađarskom, malteškom, nizozemskom, njemačkom, poljskom, portugalskom, rumunjskom, slovačkom, slovenskom, španjolskom, švedskom i talijanskom jeziku.
