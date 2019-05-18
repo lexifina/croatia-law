@@ -1,0 +1,4 @@
+# Članak 6.
+(1) Kod utvrđivanja kriterija iz članka 36. stavka 1. točke b) Zakona mirni posjed se priznaje ponuditelju kojemu je istekao ugovor ili je istekla nagodba za višegodišnje nasade sklopljena na određeno vrijeme, u posjedu su tog zemljišta, a koji je od isteka ugovora/nagodbe do raspisivanja javnog natječaja podmirio sve obveze s osnove korištenja tog poljoprivrednog zemljišta.
+(2) Kod utvrđivanja kriterija iz članka 36. stavka 1. točke c) i d) Zakona ponuditelj mora biti u Upisniku poljoprivrednika upisan najmanje tri godine do objave natječaja i nositelj tog OPG-a u trenutku raspisivanja natječaja.
+(3) Ukoliko je jedan ponuditelj na javnom natječaju izabran na više proizvodno tehnoloških cjelina kao najpovoljniji ponuditelj pa ukupna površina prelazi maksimalnu površinu koju može dobiti u zakup, u odnosu na definirani maksimum, ponuditelj pisanom izjavom odlučuje od kojih površina preko maksimuma odustaje a koje prihvaća.
