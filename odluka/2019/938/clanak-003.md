@@ -1,0 +1,3 @@
+# Članak 3.
+(1) Nastava se organizira i izvodi najmanje u 175 nastavnih dana, a za učenike završnih razreda srednje škole najmanje u 160 nastavnih dana.
+(2) Ako škola ne ostvari propisani nastavni plan i program/kurikulum, nastavna godina može se produljiti odlukom Županijskoga upravnoga odjela nadležnog za poslove obrazovanja, odnosno Ureda Grada Zagreba nadležnog za poslove obrazovanja (u daljnjem tekstu: Upravni odjel) uz prethodnu suglasnost Ministarstva nadležnog za obrazovanje (u daljnjem tekstu: Ministarstvo) i nakon 17. lipnja 2020. godine, odnosno nakon 22. svibnja 2020. godine, za završne razrede srednje škole.
