@@ -1,0 +1,2 @@
+# Članak 1.
+Ovim se Pravilnikom utvrđuje postupak i način izdavanja, te sadržaj i oblik dopuštenja za obavljanje podvodnih aktivnosti (u daljnjem tekstu: ronjenja) u dijelovima unutarnjih morskih voda i teritorijalnog mora Republike Hrvatske gdje se nalaze podvodna arheološka nalazišta i zone koje imaju svojstvo nepokretnog kulturnog dobra prema Zakonu o zaštiti i očuvanju kulturnih dobara (u daljnjem tekstu: zaštićena područja - zone).
