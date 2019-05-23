@@ -1,0 +1,3 @@
+## Odluke predstavničkog tijela
+# Članak 32.
+Iznimno od članka 15. stavka 3. ovoga Zakona, odluku o visini turističke pristojbe iz članka 15. stavka 1. ovoga Zakona za 2020. godinu županijska skupština za općine i gradove na svom području, uz mišljenje lokalnih turističkih zajednica, odnosno Gradska skupština Grada Zagreba, uz mišljenje Turističke zajednice Grada Zagreba za područje Grada Zagreba, donijet će u roku od 30 dana od dana stupanja na snagu pravilnika iz članka 15. stavka 7. ovoga Zakona, a najkasnije do 15. rujna 2019. i u tom roku odluku o visini turističke pristojbe objaviti na mrežnim stranicama županije odnosno Grada Zagreba.

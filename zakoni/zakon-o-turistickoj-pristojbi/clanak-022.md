@@ -1,0 +1,13 @@
+## DIO PETI PRIJAVA I ODJAVA TURISTA
+## Način prijave i odjave turista
+# Članak 22.
+(1) Pravna osoba i fizička osoba obrtnik koje pružaju uslugu noćenja u smještajnom objektu ili uslugu noćenja na plovnom objektu nautičkog turizma i osoba koja pruža ugostiteljsku uslugu smještaja u domaćinstvu ili na obiteljskom poljoprivrednom gospodarstvu obvezne su u roku od 24 sata od dolaska prijaviti u sustav eVisitor sve osobe kojima pružaju uslugu noćenja te u roku od 24 sata od odlaska odjaviti njihov boravak.
+(2) Vlasnik kuće, apartmana ili stana za odmor obvezan je u roku od 24 sata od dolaska prijaviti u sustav eVisitor sve osobe koje borave u toj kući apartmanu ili stanu te zadnjeg dana boravka odjaviti njihov boravak.
+(3) Iznimno od stavka 2. ovoga članka, vlasnik kuće, apartmana ili stana za odmor za sebe i članove svoje uže obitelji, koji turističku pristojbu plaća u godišnjem paušalnom iznosu, prijavu i odjavu turističkoj zajednici obavlja prvi put prilikom plaćanja paušalnog iznosa turističke pristojbe.
+(4) Osoba koja ima prebivalište na području općine ili grada za koje je osnovana lokalna turistička zajednica obvezna je u roku od 24 sata od dolaska prijaviti u sustav eVisitor sve osobe koje borave u toj kući apartmanu ili stanu, osim članova uže obitelji, te zadnjeg dana boravka odjaviti njihov boravak.
+(5) Kad nije osnovana lokalna turistička zajednica, za prijavu/odjavu turista nadležna je regionalna turistička zajednica.
+(6) Pravna i fizička osoba koje pružaju uslugu noćenja na plovnom objektu prijavu i odjavu turista u sustavu eVisitor obavljaju putem informacijskog sustava evidencije prijava popisa posade i putnika na plovnim objektima za iznajmljivanje odnosno drugim odgovarajućim elektroničkim sustavom koji vodi ministarstvo nadležno za pomorstvo.
+(7) Popis turista vodi se, a prijava i odjava turista obavljaju se putem sustava eVisitor kao središnjeg elektroničkog sustava prijave i odjave turista u Republici Hrvatskoj.
+(8) Podatke iz stavka 10. ovoga članka koriste turističke zajednice za potrebe praćenja turističkog prometa, istraživanja i turističkih analiza, razvoja turističke ponude, planiranja marketinških aktivnosti i upravljanja posjetiteljima i tijela državne uprave radi obavljanja poslova iz svoga djelokruga.
+(9) Iznimno, pravne i fizičke osobe iz stavaka 1., 2. i 3. ovoga članka nisu obvezne prijaviti putem sustava eVisitor osobe iz članka 5. stavka 1. točaka 3., 4., 6. i 7. ovoga Zakona.
+(10) Način prijave i odjave turista putem sustava eVisitor, podatke potrebne za prijavu/odjavu te način njihova utvrđivanja, prikupljanja i čuvanja ministar propisuje pravilnikom.
