@@ -1,0 +1,4 @@
+# Članak 22.
+NASTAVNICI, PROFESORI I ISTRAŽIVAČI
+1. Fizička osoba koja jest, ili je neposredno prije posjeta državi ugovornici, bila rezident druge države ugovornice te je prisutna u prvospomenutoj državi ugovornici prvenstveno zbog predavanja, izvođenja nastave i istraživanja na sveučilištu, fakultetu, školi ili obrazovnoj instituciji ili instituciji za znanstveno istraživanje priznatoj od strane Vlade prvospomenute države ugovornice izuzeta je od oporezivanja u prvospomenutoj državi ugovornici, za razdoblje od dvije godine od datuma prvog dolaska u prvospomenutu državu ugovornicu, za naknade za takvo predavanje, izvođenje nastave ili istraživanje.
+2. Ovaj članak primjenjuje se samo na dohodak od istraživanja ako je takvo istraživanje fizička osoba poduzela u javnom interesu, a ne prvenstveno u korist neke druge privatne osobe ili osoba.
