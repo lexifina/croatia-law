@@ -1,0 +1,16 @@
+## Ostale obveze subjekata nadzora u vezi dostave obavijesti, podataka i dokumentacije
+# Članak 5.
+(1) Neovisno od podataka iskazanih u godišnjem upitniku iz članka 3. ovoga Pravilnika, revizorska društva i samostalni revizori obvezni su dostaviti Ministarstvu financija obavijesti, podatke i dokumentaciju na način i u rokovima u skladu sa Zakonom i ako je to primjenjivo Uredbom.
+(2) Revizorska društva i samostalni revizori dostavljaju Ministarstvu financija sljedeće obavijesti i dokumentaciju:
+1. sukladno članku 40. stavka 2. Zakona - obavijest o prvom sklapanju ugovora o reviziji sa subjektom od javnog interesa u tekućoj poslovnoj godini, najkasnije do 31. listopada tekuće godine
+2. sukladno članku 40. stavka 6. Zakona - obavijest o raskidu ugovora iz točke 1. ovoga stavka, u roku od 15 dana od datuma raskida, uz detaljno obrazloženje razloga koji su doveli do raskida ugovora
+3. sukladno članku 45. stavka 4. Zakona - obavijest ako revidirani subjekt ne omogući obavljanje zakonske revizije u skladu s odredbama članka 45. stavaka 1. - 3. Zakona, bez odgode po nastupu otežavajućih okolnosti
+4. sukladno članku 56. stavka 5. Zakona - obavijest o nemogućnosti revizora grupe da pregleda i ocijeni zakonsku reviziju koju je proveo revizor u trećoj zemlji ili ovlašteni revizor i subjekt za obavljanje revizije u trećoj zemlji ili revizorsko društvo za potrebe revizije grupe, bez odgode
+5. sukladno članku 58. stavka 7. Zakona - obavijest Ministarstvu financija prije izdavanja revizorskog izvješća o imenu i prezimenu ovlaštenog revizora potpisnika revizorskog izvješća koji obavlja zakonsku reviziju, a koje u skladu sa zakonom kojim se uređuje pravo na pristup informacijama ne mora biti otkriveno javnosti ako bi takvo otkrivanje moglo prouzročiti neposrednu i značajnu prijetnju osobnoj sigurnosti ovlaštenog revizora, s razlozima neotkrivanja javnosti njegova potpisa, s priloženim predmetnim revizorskim izvješćem koje je potpisao isti ovlašteni revizor, bez odgode
+6. sukladno članku 59. Zakona i članku 13. Uredbe - obavijest o objavi godišnjeg izvješća o transparentnosti na svojoj internetskoj stranici ili obavijest o objavi ažuriranog izvješća, s navedenim datumom objave izvješća, bez odgode
+7. sukladno članku 60. stavka 3. Zakona - presliku police osiguranja od odgovornosti te obavijest o svakoj promjeni koja nastane tijekom osiguranja, u roku od osam dana od dana sklapanja police osiguranja ili nastale promjene tijekom osiguranja
+8. sukladno članku 14. Uredbe - popis subjekata od javnog interesa koji su bili predmet revizije, prema prihodu koji su stekli od njih, a koji moraju biti podijeljeni u:
+- prihode od zakonske revizije
+- prihode od nerevizorskih usluga koje nisu usluge iz članka 5. stavka 1. Uredbe koje zahtijeva zakonodavstvo Europske unije ili Zakon
+- prihode od nerevizorskih usluga koje nisu usluge iz članka 5. stavka 1. Uredbe koje ne zahtijeva zakonodavstvo Europske unije ili Zakon, najkasnije do 15. svibnja tekuće godine za zadnje razdoblje za koje se sastavljaju godišnji financijski izvještaji sukladno propisima.
+(3) Subjekti nadzora dostavljaju obavijesti, podatke i dokumentaciju iz stavka 2. ovoga članka poštom na adresu Ministarstva financija, neposrednim uručenjem ili putem elektroničke komunikacije.
