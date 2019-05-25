@@ -1,0 +1,3 @@
+# Članak 5.
+(1) Poslodavcu fizičkoj ili pravnoj osobi se može izdati ovlaštenje za obavljanje poslova iz članka 2. stavka 1. točke 4. ovoga Pravilnika, ako ima zaposlena najmanje tri stručnjaka zaštite na radu u punom radnom vremenu iz različitih područja tehničkih, biotehničkih ili prirodnih znanosti od kojih najmanje jedan mora imati završen studij u polju strojarstva i jedan u polju elektrotehnike.
+(2) Poslodavcu koji će za svoje potrebe obavljati poslove iz članka 2. stavka 1. točke 4. ovoga Pravilnika se može izdati ovlaštenje ako ima zaposlena najmanje dva stručnjaka zaštite na radu od kojih jedan mora imati završen studij u polju strojarstva i jedan u polju elektrotehnike.
