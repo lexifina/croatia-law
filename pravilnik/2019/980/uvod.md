@@ -1,0 +1,1 @@
+Na temelju članka 109. stavaka 2. i 3. Zakona o plovidbi i lukama unutarnjih voda (»Narodne novine« broj 109/2007, 132/2007, 51/2013, 152/2014 i 118/18) ministar mora, prometa i infrastrukture, uz prethodnu suglasnost ministra nadležnog za vodno gospodarstvo, donosi
