@@ -1,0 +1,1 @@
+Na temelju članka 30. stavka 1. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/11, 119/14, 93/16 i 116/18) i članka 14. stavka 3. Zakona o upravnim pristojbama (»Narodne novine«, broj 115/16), Vlada Republike Hrvatske je na sjednici održanoj 16. svibnja 2019. godine donijela
