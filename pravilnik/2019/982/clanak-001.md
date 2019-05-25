@@ -1,0 +1,2 @@
+# Članak 1.
+U naslovu Pravilnika o obliku i sadržaju financijskih i dodatnih izvještaja društva za osiguranje odnosno društva za reosiguranje (»Narodne novine« broj 37/16 i 96/18, dalje u tekstu: Pravilnik), u članku 1. alineje 1. i 2., u naslovu Glave II., u članku 3. stavak 2. i u članku 4. stavak 3. Pravilnika, riječ »oblik« u odgovarajućem rodu i padežu se zamjenjuje riječju »struktura« u odgovarajućem rodu i padežu.
