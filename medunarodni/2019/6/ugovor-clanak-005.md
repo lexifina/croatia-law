@@ -1,0 +1,10 @@
+# Članak 5.
+OPSEG RAZMJENE INFORMACIJA
+(1) Tijekom suradnje, s ciljem sprječavanja, otkrivanja i istraživanja kaznenih djela, osobito organiziranog kriminala, tijela za provedbu zakona ugovornih stranaka, na zahtjev razmjenjuju sljedeće informacije:
+a) o podacima o osobama uključenima u organizirani kriminal, obavještajne podatke o vezama između osumnjičenika i osoba za koje se sumnja da su povezane s počinjenjem kaznenih djela, svojim saznanjima o strukturi zločinačkih organizacija i skupina, te o tipičnim obrascima ponašanja osumnjičenika odnosno osoba pod sumnjom ili osumnjičenih skupina odnosno skupina pod sumnjom, informacije o kaznenim djelima koja su se pripremala, pokušala izvršiti ili su izvršena, osobito, o vremenu, mjestu i vrsti kaznenog djela, podacima o žrtvama ili imovini na kojoj je počinjeno kazneno djelo, obavještajnim podacima o konkretnim okolnostima i relevantnim zakonskim odredbama, ako je to potrebno s ciljem sprječavanja, otkrivanja i istraživanja kaznenih djela,
+b) o metodama i novim oblicima prekograničnog kriminala,
+c) o kriminološkim i drugim rezultatima istraživanja povezanim s kriminalom, pojedinostima o praksi provođenja istraživanja, sredstvima i metodama rada s ciljem njihova daljnjeg razvoja,
+d) o obavještajnim podacima i/ili uzorcima stvari ili imovine koji su oštećeni tijekom počinjenja kaznenog djela ili koji su bili korišteni ili su se namjeravali koristiti za počinjenje kaznenog djela ili koji su bili rezultat počinjenja kaznenog djela,
+e) o važećem zakonodavstvu vezanom uz kaznena djela koja su predmet ove Konvencije,
+f) o dobiti i imovini stečenoj počinjenjem kaznenih djela ili sudjelovanjem u počinjenju kaznenog djela.
+(2) Kad se informacije dobivaju posebnim metodama, tijela ugovornih stranaka surađuju u skladu sa svojim nacionalnim zakonodavstvom. Ugovorne stranke obvezuju se osigurati najmanje isti standard zaštite podataka koji se šalju tijekom takve razmjene informacija, kakav je propisan odgovarajućim nacionalnim zakonskim odredbama.

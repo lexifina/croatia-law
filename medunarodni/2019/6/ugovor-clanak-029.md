@@ -1,0 +1,7 @@
+# Članak 29.
+SURADNJA U ZAJEDNIČKIM CENTRIMA
+(1) Zajednički centri mogu se osnivati s ciljem olakšavanja razmjene informacija i suradnje između tijela za provedbu zakona ugovornih stranaka u okviru ove Konvencije.
+(2) U zajedničkim centrima, službenici ugovornih stranaka zajednički surađuju u okviru svojih nadležnosti s ciljem razmjene analize i prenošenja informacija kao i pružanje potpore u koordinaciji ili prekograničnoj suradnji sukladno ovoj Konvenciji, neovisno o službenim kontaktima, korespondenciji i razmjeni obavještajnih podataka putem nacionalnih i središnjih jedinica. Na prijenos osobnih podataka između službenika na odgovarajući način primjenjuju se članci 3. i 4. Konvencije, kao i odredbe članka 30. ove Konvencije.
+(3) Aktivnosti potpore mogu također uključivati pripremu i pomoć u predaji osoba u okviru međunarodnih ugovora sklopljenih između ugovornih stranaka.
+(4) Službenici koji surađuju u zajedničkim centrima isključivo djeluju po uputi svojih nacionalnih tijela i na njih se primjenjuju disciplinske ovlasti tih tijela. Službenici u zajedničkim centrima operativno ne djeluju samostalno. Zajedničke operacije mogu se provoditi samo na temelju sporazuma između nadležnih tijela za provedbu zakona ugovornih stranaka i na načine koji su mogući sukladno ovoj Konvenciji.
+(5) Osnivanje zajedničkih centara i način suradnje pa čak i raspodjela troškova uređuju se provedbenim sporazumima predviđenim u članku 34. stavku 1.

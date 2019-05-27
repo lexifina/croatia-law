@@ -1,0 +1,11 @@
+# Članak 32.
+POVJERLJIVOST INFORMACIJA I KLASIFICIRANE INFORMACIJE
+(1) Ugovorne stranke u načelu osiguravaju osnovnu zaštitu za sve informacije primljene od druge ugovorne stranke svim neophodnim mjerama uključujući obvezu diskrecije i povjerljivosti, ograničavanje pristupa informacijama samo na ovlašteno osoblje, zaštitu osobnih podataka i opće tehničke i postupovne mjere za zaštitu sigurnosti informacija.
+(2) Informacijama koje su predmet službene klasifikacije ugovorne stranke koja ih dostavlja, što je naznačeno posebnom oznakom, primatelj informacija daje jednakovrijednu zaštitu u skladu s tablicom istoznačnih stupnjeva tajnosti ugovornih stranaka u popisima iz priloga.
+(3) Pri izboru razine klasifikacije, svaka ugovorna stranka pridržava se klasifikacije informacija u skladu sa svojim nacionalnim pravom ili važećim propisima te uzima u obzir potrebu za fleksibilnošću i uvjet da klasifikacija informacija tijela za provedbu zakona bude izuzetak i, ako se takve informacije moraju klasificirati, da im se dodijeli najniža moguća razina.
+(4) Tijelo koje dostavlja informacije bez odgode obavještava primatelja u pisanom obliku o promjeni razine klasifikacije ili odustajanju od klasifikacije. Primatelj se obvezuje prilagoditi razinu klasifikacije u skladu s tom porukom ili odustati od klasifikacije.
+(5) Dostavljene klasificirane informacije koriste se isključivo u svrhu za koju su dostavljene te se otkrivaju samo onim osobama kojima su te informacije potrebne za djelovanje ili koje su u skladu s nacionalnim pravom ovlaštene imati saznanje o takvim klasificiranim informacijama.
+(6) O svim povredama pravnih odredbi ugovorne stranke koja prima informacije vezano uz zaštitu dostavljenih klasificiranih informacija upoznaje se bez odgode tijelo koje dostavlja informacije. Navedeno priopćenje sadržava okolnosti i posljedice takvih povreda te mjere koje su poduzete kako bi se ograničile posljedice i spriječile buduće povrede takve prirode.
+(7) Klasificirane informacije dostavljaju se drugoj ugovornoj stranci dostavnom službom ili na bilo koji drugi dogovoren način koji je dopušten prema odgovarajućem nacionalnom zakonodavstvu ugovornih stranaka.
+POGLAVLJE III.
+ZAVRŠNE ODREDBE

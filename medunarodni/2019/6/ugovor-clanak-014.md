@@ -1,0 +1,17 @@
+# Članak 14.
+PREKOGRANIČNI NADZOR
+(1) Službenici jedne od ugovornih stranaka koji, u okviru kaznenog istraživanja, u svojoj zemlji nadziru osobu za koju se pretpostavlja da je sudjelovala u kaznenom djelu za koje je moguće izručenje, prema dvostranim provedbenim sporazumima sklopljenima u skladu s člankom 34. stavkom 1. ove Konvencije, ovlašteni su nastaviti nadzor na državnom području druge ugovorne stranke ako je druga ugovorna stranka odobrila prekogranični nadzor kao odgovor prethodno upućen zahtjev za pomoć. Uz odobrenje mogu postojati određeni uvjeti. Nadzor se na zahtjev povjerava službenicima ugovorne stranke na čijem se državnom području nadzor provodi. Zahtjev za pomoć iz prvog podstavka mora se poslati tijelu koje svaka od ugovornih stranaka odredi te koje ima ovlasti odobriti traženo odobrenje ili ga proslijediti.
+(2) Ako, zbog posebne žurnosti, ugovorna stranka koja upućuje zahtjev ne može unaprijed podnijeti zahtjev za odobrenje, službenicima koji provode nadzor, prema dvostranim provedbenim sporazumima navedenima u stavku 1. ovoga članka, dopušteno je preko granice nastaviti nadzor osobe za koju se pretpostavlja da je počinila kazneno djelo iz stavka 3. U tim slučajevima, tijelo ugovorne stranke na čijem se državnom području nastavlja nadzor, mora odmah biti obaviješteno da je granica prijeđena, te se zahtjev za pomoć u kojemu se navode razlozi prelaska granice bez prethodnog odobrenja podnosi bez odgode.
+(3) Kaznena djela spomenuta u stavku 2. određuju se u dvostranim provedbenim sporazumima navedenim u stavcima 1. i 2. ovoga članka iscrpnim popisom ili njegovim proširenjem na kaznena djela za koja je moguće izručenje.
+(4) Nadzor se prekida čim ugovorna stranka na čijem državnom području se nadzor odvija to zatraži, nastavno na obavijest ili zahtjev iz prethodnih stavaka, ako odobrenje nije dobiveno u roku od pet sati nakon prelaska granice.
+(5) Nadzor iz stavaka 1. i 2. provodi se samo u sljedećim općim uvjetima:
+a) Službenici koji provode nadzor moraju poštovati odredbe ovoga članka te pravo ugovorne stranke na čijem državnom području djeluju; oni su dužni se pridržavati uputa nadležnih lokalnih tijela.
+b) Osim u slučajevima opisanima u stavku 2., službenici su tijekom nadzora dužni imati kod sebe imati dokument kojim se potvrđuje da posjeduju odobrenje.
+c) Službenici koji provode nadzor moraju u svakom trenutku moći dokazati da obnašaju službene dužnosti.
+d) Službenici koji provode nadzor mogu nositi službeno oružje tijekom nadzora osim ako ugovorna stranka kojoj je upućen zahtjev nije izričito odlučila drugačije; upotreba službenog oružja zabranjena je, osim u slučajevima opravdane samoobrane.
+e) Zabranjen je ulazak u privatne domove i mjesta zatvorena za javnost.
+f) Službenici koji provode nadzor ne smiju provjeriti identitet ni uhititi osobu koju nadziru.
+g) Sve operacije podliježu obvezi izvještavanja tijelima ugovorne stranke na čijem državnom području se provode; od službenika koji provode nadzor može se zatražiti osobni dolazak.
+h) Tijela ugovorne stranke iz kojeg su službenici koji provode nadzor, na zahtjev tijela ugovorne stranke na čijem državnom području se provodi nadzor, pomažu u istrazi koja slijedi nakon operacije u kojoj su sudjelovali, uključujući sudski postupak, pod uvjetom da je identitet dotičnog službenika zaštićen.
+(6) Službenici iz prethodnih stavaka pobliže se određuju u dvostranim provedbenim sporazumima.
+(7) Ugovorne stranke mogu, u okviru dvostranog provedbenog sporazuma, proširiti opseg ovoga članka i usvojiti dodatne mjere za njegovu primjenu.

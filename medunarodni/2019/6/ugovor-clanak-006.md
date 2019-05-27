@@ -1,0 +1,3 @@
+# Članak 6.
+RAZMJENA INFORMACIJA BEZ ZAHTJEVA
+U određenim slučajevima, tijela za provedbu zakona ugovornih stranaka pružaju informacije jedna drugima bez upućivanja zahtjeva ako se, na temelju dokazanih činjenica, može s razlogom pretpostaviti da su takve informacije potrebne u borbi protiv konkretnih prijetnji javnom redu i/ili sigurnosti, ili za sprječavanje, otkrivanje i istraživanje kaznenih djela. U pogledu razmjene informacija, članak 4. stavak 3. (nacionalne središnje jedinice), stavak 4. (zahtjevi i odgovori na te zahtjeve), i stavak 6. (zahtjevi upućeni u pisanom obliku (telefaksom ili elektroničkom poštom) primjenjuju se na odgovarajući način.
