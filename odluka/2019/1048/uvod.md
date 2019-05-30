@@ -1,0 +1,1 @@
+Na temelju članka 8. i članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/11, 119/14, 93/16 i 116/18) i članka 68. Zakona o proračunu (»Narodne novine«, br. 87/08, 136/12 i 15/15), Vlada Republike Hrvatske je na sjednici održanoj 30. svibnja 2019. godine donijela
