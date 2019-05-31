@@ -1,0 +1,5 @@
+## IV. ZAŠTITA PODATAKA
+# Članak 4.
+(1) Ministarstvo financija, Porezna uprava osigurava korisnicima sustava, na njihov zahtjev, dostupnost podataka o dohocima i primicima iz sustava EDIP, primjenom informacijskih tehnologija, poštujući propise o zaštiti osobnih podataka.
+(2) Korisnici sustava su dužni osigurati opravdanost dohvata i korištenja podataka, poduzeti tehničke, kadrovske i organizacijske mjere zaštite osobnih podataka kod pristupa podacima iz sustava EDIP, voditi posebnu evidenciju o službenicima koji imaju pravo pristupa podacima iz sustava EDIP. Osobni podaci mogu se prikupljati samo u svrhu za koju je korisnik sustava dobio ovlaštenje. Nedopušteno objavljivanje, neovlašteno korištenje i svaka druga zlouporaba biti će sankcionirana kaznenim odredbama sukladno propisima o zaštiti osobnih podataka.
+(3) Ministarstvo financija, Porezna uprava vodi evidenciju o pristupu sustavu EDIP te bilježi podatke o osobama koje su vršile dohvat podataka, vremenu dohvata podataka i u koju svrhu je dohvat podataka izvršen.
