@@ -1,0 +1,1 @@
+Na temelju članka 10. stavka 1. Zakona o turističkom i ostalom građevinskom zemljištu neprocijenjenom u postupku pretvorbe i privatizacije (»Narodne novine«, broj 92/10), Vlada Republike Hrvatske je na sjednici održanoj 30. svibnja 2019. godine donijela
