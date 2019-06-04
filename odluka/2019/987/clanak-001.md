@@ -1,0 +1,23 @@
+## HRVATSKOG ZAVODA ZA ZDRAVSTVENO OSIGURANJE
+# Članak 1.
+U Odluci o utvrđivanju Dopunske liste lijekova Hrvatskog zavoda za zdravstveno osiguranje (»Narodne novine«, broj 63/18., 71/18. - ispravak, 98/18., 102/18. - ispravak, 106/18., 15/19. i 26/19.) u Dopunskoj listi lijekova:
+- pod šiframa anatomsko-terapijsko-kemijske (ATK) klasifikacije lijekova Svjetske zdravstvene organizacije mijenjaju se sljedeći podaci:
+»
+Šifra ATK | Oznaka | Nezaštićeno ime lijeka | DDD i jed. mj. | Cijena za DDD | DDD i jed. mj. (s PDV-om) | Način primjene | Nositelj odobrenja | Proizvođač | Zaštićeno ime lijeka | Oblik, jačina i pakiranje lijeka | Cijena jed. oblika | Cijena jed. oblika (s PDV-om) | Cijena orig. pakiranja | Cijena orig. pakiranja (s PDV-om) | R/RS | Iznos koji Zavod plaća za jed. oblik | Iznos koji Zavod plaća za jed. oblik (s PDV-om) | Iznos koji Zavod plaća za orig. pakiranje | Iznos koji Zavod plaća za orig. pakiranje (s PDV-om) | Doplata za jed. oblik | Doplata za jed. oblik (s PDV-om) | Doplata za orig. pakiranje | Doplata za orig. pakiranje (s PDV-om)
+1. | 2. | 3. | 4. | 5. | 6. | 7. | 8. | 9. | 10. | 11. | 12. | 13. | 14. | 15. | 16. | 17. | 18. | 19. | 20. | 21. | 22. | 23. | 24.
+A10AE04 961 |  | inzulin glargin | 40 U | 9,30 | 9,76 | P | Sanofi-Aventis Deutschland GmbH | Sanofi-Aventis GmbH | Lantus | otop. za inj., uložak stakl. 5x3 ml (100 U/ml) | 69,74 | 73,23 | 348,70 | 366,14 | Rpa20 | 51,60 | 54,18 | 258,00 | 270,90 | 18,14 | 19,05 | 90,70 | 95,24
+A10AE04 962 |  | inzulin glargin | 40 U | 9,30 | 9,76 | P | Sanofi-Aventis Deutschland GmbH | Sanofi-Aventis GmbH | Lantus | otop. za inj., brizg. napunj. SoloStar 5x3 ml (100 U/ml) | 69,74 | 73,23 | 348,70 | 366,14 | Rpa20 | 51,60 | 54,18 | 258,00 | 270,90 | 18,14 | 19,05 | 90,70 | 95,24
+C09BA02 131 |  | enalapril + hidroklorotiazid |  |  |  | O | KRKA-FARMA d.o.o. | Krka d.d. | Enap HL | tbl. 20x(10 mg +12,5 mg) | 0,67 | 0,71 | 13,47 | 14,14 | R | 0,65 | 0,68 | 13,00 | 13,65 | 0,02 | 0,02 | 0,47 | 0,49
+C09BA02 133 |  | enalapril + hidroklorotiazid |  |  |  | O | KRKA-FARMA d.o.o. | Krka d.d. | Enap HL 20 | tbl. 20x(20 mg +12,5 mg) | 1,09 | 1,15 | 21,83 | 22,92 | R | 0,93 | 0,97 | 18,53 | 19,46 | 0,17 | 0,17 | 3,30 | 3,47
+C09BA02 134 |  | enalapril + hidroklorotiazid |  |  |  | O | KRKA-FARMA d.o.o. | Krka d.d. | Enap HL 20 | tbl. 30x(20 mg +12,5 mg) | 1,09 | 1,15 | 32,75 | 34,39 | R | 0,93 | 0,97 | 27,80 | 29,19 | 0,17 | 0,17 | 4,95 | 5,20
+C09BA02 135 |  | enalapril + hidroklorotiazid |  | 0,53 | 0,55 | O | KRKA-FARMA d.o.o. | Krka d.d. | Enap HL 20 | tbl. 60x(20 mg +12,5 mg) | 1,05 | 1,10 | 63,00 | 66,15 | R | 0,87 | 0,91 | 52,00 | 54,60 | 0,18 | 0,19 | 11,00 | 11,55
+S01CA01 462 |  | deksametazon + neomicin + polimiksin B |  |  |  | L | Novartis Hrvatska d.o.o. | Alcon | Maxitrol | mast za oči 3,5 g (1 mg +3.500 i.j. +6.000 i.j./ml) | 10,98 | 11,53 | 10,98 | 11,53 | R | 9,64 | 10,12 | 9,64 | 10,12 | 1,34 | 1,41 | 1,34 | 1,41
+S01CA01 761 |  | deksametazon + neomicin + polimiksin B |  |  |  | L | Novartis Hrvatska d.o.o. | Alcon | Maxitrol | kapi za oči 1x5 ml (1 mg +3.500 i.j. +6.000 i.j./ml) | 14,94 | 15,69 | 14,94 | 15,69 | R | 10,19 | 10,70 | 10,19 | 10,70 | 4,75 | 4,99 | 4,75 | 4,99
+«
+- dodaju se nove šifre anatomsko-terapijsko-kemijske (ATK) klasifikacije lijekova Svjetske zdravstvene organizacije, sa sljedećim podacima:
+»
+Šifra ATK | Oznaka | Nezaštićeno ime lijeka | DDD i jed. mj. | Cijena za DDD | DDD i jed. mj. (s PDV-om) | Način primjene | Nositelj odobrenja | Proizvođač | Zaštićeno ime lijeka | Oblik, jačina i pakiranje lijeka | Cijena jed. oblika | Cijena jed. oblika (s PDV-om) | Cijena orig. pakiranja | Cijena orig. pakiranja (s PDV-om) | R/RS | Iznos koji Zavod plaća za jed. oblik | Iznos koji Zavod plaća za jed. oblik (s PDV-om) | Iznos koji Zavod plaća za orig. pakiranje | Iznos koji Zavod plaća za orig. pakiranje (s PDV-om) | Doplata za jed. oblik | Doplata za jed. oblik (s PDV-om) | Doplata za orig. pakiranje | Doplata za orig. pakiranje (s PDV-om)
+1. | 2. | 3. | 4. | 5. | 6. | 7. | 8. | 9. | 10. | 11. | 12. | 13. | 14. | 15. | 16. | 17. | 18. | 19. | 20. | 21. | 22. | 23. | 24.
+S01XA18 771 |  | ciklosporin |  |  |  | L | Santen Oy | SANTEN Oy, EXCELVISION | Ikervis | kapi za oči, otop. u jednodoznom spremniku 30x0,3 ml (1 mg/ml) | 22,67 | 23,80 | 680,00 | 714,00 | RSps02 | 18,59 | 19,52 | 557,60 | 585,48 | 4,08 | 4,28 | 122,40 | 128,52
+Legenda smjernica:
+ps02: Za pacijente sa stupnjem 4 bolesti suhog oka, određenim prema DEWS smjernicama iz 2007. koje uključuje određivanje stupnja bolesti pomoću TBUT (Tear break up test), Schimmerovog testa i bojanja površine oka flouresceinom (CFS). Odobrava se primjena terapije za 6 mjeseci, po preporuci oftalmologa.«’
