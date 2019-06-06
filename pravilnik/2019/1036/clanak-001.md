@@ -1,0 +1,3 @@
+## I. TEMELJNE ODREDBE
+# Članak 1.
+Ovim Pravilnikom utvrđuje se nadležno tijelo i zadaće nadležnoga tijela za provedbu Uredbe Komisije (EZ) br. 1737/2006 od 7. studenoga 2006. o utvrđivanju detaljnih pravila za provedbu Uredbe (EZ) br. 2152/2003 Europskoga parlamenta i Vijeća o motrenju šuma i okolišnih interakcija u Zajednici (SL L 334, 30. 11. 2006.) (u daljnjem tekstu: Uredba (EZ) br. 1737/2006) u dijelu koji se odnosi na motrenje oštećenosti šumskih ekosustava, propisuje se način prikupljanja podataka, sadržaj i vođenje Registra šumskogospodarskog područja Republike Hrvatske u dijelu upisnika oštećenosti šumskih ekosustava te uvjeti korištenja podataka.
