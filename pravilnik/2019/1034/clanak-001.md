@@ -1,0 +1,6 @@
+## I. OPĆE ODREDBE
+# Članak 1.
+(1) Ovim se Pravilnikom propisuje detaljna provedba mjera Nacionalnog programa poticanja provedbe uzgojnih programa za toplokrvne pasmine i uzgojne tipove konja u Republici Hrvatskoj za razdoblje od 2015. do 2020. godine donesenog Odlukom Vlade Republike Hrvatske, klasa: 022-03/15-04/323, urbroj: 50301-05/25-15-2, od 30. srpnja 2015. godine i Izmjenama i dopunom Nacionalnog programa poticanja provedbe uzgojnih programa za toplokrvne pasmine i uzgojne tipove konja u Republici Hrvatskoj za razdoblje od 2015. do 2020. godine donesenog Odlukom Vlade Republike Hrvatske, klasa: 022-03/17-04/486, urbroj: 50301-25/05-18-2, od 11. siječnja 2018. godine (u daljnjem tekstu: Program).
+(2) Ovaj Pravilnik provodi se sukladno sljedećim Uredbama:
+- Uredba Komisije (EU) br. 1407/2013 оd 18. prosinca 2013. o primjeni članaka 107. i 108. ugovora o funkcioniranju Europske unije na de minimis potpore (SL L 352, 24. 12. 2013.) (u daljnjem tekstu: Uredba Komisije (EU) br. 1407/2013) i
+- Uredba Komisije (EU) br. 1408/2013 оd 18. prosinca 2013. o primjeni članaka 107. i 108. ugovora o funkcioniranju Europske unije na potpore de minimis u poljoprivrednom sektoru (SL L 352, 24. 12. 2013.) (u daljnjem tekstu: Uredba Komisije (EU) br. 1408/2013).
