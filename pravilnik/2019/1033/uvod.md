@@ -1,0 +1,1 @@
+Na temelju članka 42. stavka 4. Zakona o izvršenju državnog proračuna Republike Hrvatske za 2019. godinu (»Narodne novine«, broj 113/2018), ministrica kulture, uz suglasnost ministra financija, donosi
