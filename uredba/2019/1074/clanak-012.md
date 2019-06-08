@@ -1,0 +1,2 @@
+# Članak 12.
+Odjel za rukovanje imovinom obavlja poslove evidentiranja pokretnina i građevina u očevidnik imovine temeljem propisa kojim se uređuje prikupljanje podataka za Središnji registar državne imovine; poslove knjiženja te popisa opreme i inventara; poslove premještanja inventara i opreme; poslove namještenja radnih prostorija te sudjelovanja u pripremi protokolarnih događaja; obavlja ostale poslove iz svog djelokruga.

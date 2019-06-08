@@ -1,0 +1,2 @@
+# Članak 30.
+Temeljem članka 3. stavka 1. Odluke o Uredu predsjednice Republike Hrvatske (»Narodne novine«, br. 20/15, 20/16 i 116/16), Ured će za potrebe Ureda predsjednice Republike Hrvatske, obavljati dio poslova iz članka 3. stavka 1. točke d) ove Uredbe, a koji se odnose na poslove svih vrsta javne nabave te poslove voznog parka do 31. prosinca 2020. godine, a poslove iz članka 3. stavka 1. točaka b) i c) ove Uredbe do 31. prosinca 2023. godine.
