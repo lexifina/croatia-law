@@ -1,0 +1,2 @@
+# Članak 1.
+U Pravilniku o posebnim uvjetima za vozila kojima se obavlja javni cestovni prijevoz i prijevoz za vlastite potrebe (»Narodne novine«, br. 50/18.) u članku 3. stavku 1. podstavku 1. zarez i riječi »što znači da modelska godina sadržana u VIN oznaci ne smije biti manja od godine u kojoj se obavlja prijevoz umanjeno za šest godina, a od 1. siječnja 2021. godine umanjeno za četiri godine« brišu se.
