@@ -1,0 +1,1 @@
+Na temelju članka 145. Zakona o zračnom prometu (»Narodne novine«, broj 69/09, 84/11, 54/13, 127/13 i 92/14), ministar mora, prometa i infrastrukture uz suglasnost ministra obrane i ministra unutarnjih poslova donosi
