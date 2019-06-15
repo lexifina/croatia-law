@@ -1,0 +1,3 @@
+# Članak 1.
+U Pravilniku o boravku u prihvatnom centru za strance (»Narodne novine« broj 101/18) u članku 26. stavak 3. mijenja se i glasi:
+»(3) Državljaninu treće zemlje omogućuje se komunikacija s odvjetnikom te nadležnim nacionalnim ili međunarodnim institucijama ili organizacijama iz područja zaštite ljudskih prava i temeljnih sloboda s kojima Ministarstvo ima sklopljen sporazum o suradnji. U cilju ostvarivanja navedene komunikacije, odvjetniku i predstavnicima humanitarnih i drugih organizacija za zaštitu ljudskih prava omogućuje se pristup u centar, sukladno članku 22. ovoga Pravilnika.«.
