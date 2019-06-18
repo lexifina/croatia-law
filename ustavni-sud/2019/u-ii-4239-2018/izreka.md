@@ -1,0 +1,2 @@
+R J E Š E N J E
+Odbacuje se prijedlog za pokretanje postupka za ocjenu suglasnosti s Ustavom i zakonom članaka 3. stavka 1. i 16. Pravilnika o sadržaju, načinu provedbe i ocjenjivanju na pisanoj provjeri znanja i sposobnosti te na razgovoru u postupku upisa u državnu školu za pravosudne dužnosnike, objavljenog na mrežnim stranicama Pravosudne akademije od 29. studenoga 2016. u "Narodnim novinama" broj 113/16 od 7. prosinca 2016.
