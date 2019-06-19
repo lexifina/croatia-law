@@ -1,0 +1,7 @@
+# Članak 11.
+NESREĆE U KOJE SU UKLJUČENI VOJNI ZRAKOPLOVI ILI MORNARIČKA PLOVILA
+1. Kada upravlja vojnim zrakoplovom ili mornaričkim plovilom tijekom djelovanja poduzetih u skladu s ovim Okvirnim sporazumom, stranka šiljateljica preuzima punu odgovornost za tehničko stanje tog vojnog zrakoplova ili mornaričkog plovila, njihovog naoružanja i instrumenata.
+2. U slučaju nesreće u koju je uključen vojni zrakoplov ili mornaričko plovilo, tehnička istraga provodi se na mjestu nesreće u skladu s nacionalnim pravom stranke primateljice, zajedno s nadležnim tijelima stranke šiljateljice. Stranci šiljateljici odmah se dostavljaju svi podaci i odgovarajuće informacije o toj nesreći.
+3. Stručnjaci koje je imenovala stranka šiljateljica imaju pravo sudjelovati u tehničkoj istrazi kao i pristupiti mjestu nesreće. Na zahtjev stranke šiljateljice sačinjen u pisanom obliku, stranka primateljica može ju ovlastiti za djelomično provođenje tehničke istrage.
+4. Stranka šiljateljica ima pravo provesti svoju nacionalnu tehničku istragu nesreće koja uključuje njezin vojni zrakoplov ili mornaričko plovilo, ako se dogodila na državnom području stranke primateljice.
+5. U slučaju nesreće u koju je uključen vojni zrakoplov ili mornaričko plovilo i prijetnje okolišu i prirodi, bilo koju ekološku štetu nanesenu stranci primateljici nadoknadit će stranka šiljateljica u skladu s odredbama nacionalnih zakona stranke primateljice koji se odnose na zaštitu okoliša i prirode.
