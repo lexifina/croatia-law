@@ -1,0 +1,3 @@
+## I. OPĆE ODREDBE
+# Članak 1.
+Ovim Pravilnikom utvrđuju se mjere, postupci i oblici zaštite elektroničkih usluga povjerenja, druge metode identifikacije koje po pitanju pouzdanosti pružaju sigurnost jednaku fizičkoj prisutnosti, a kojima kvalificirani pružatelj usluga povjerenja provjerava identitet potpisnika, preduvjeti i pravila za automatizirano udaljeno elektroničko potpisivanje i pečatiranje, opći i posebni uvjeti poslovanja za pružatelje usluga povjerenja, pravila o privremenoj suspenziji certifikata za elektroničke potpise i certifikata za elektroničke pečate u slučajevima kada certifikat privremeno izgubi svoju valjanost, obvezno osiguranje pružatelja usluga povjerenja.

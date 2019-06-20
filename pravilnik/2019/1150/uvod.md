@@ -1,0 +1,1 @@
+Na temelju članka. 4., stavka 3. i članka 14. stavka 4. Zakona o provedbi Uredbe (EU) br. 910/2014 Europskog parlamenta i Vijeća od 23. srpnja 2014. o elektroničkoj identifikaciji i uslugama povjerenja za elektroničke transakcije na unutarnjem tržištu i stavljanju izvan snage Direktive 1999/93/EZ (»Narodne novine«, broj 62/17), ministar gospodarstva, poduzetništva i obrta donosi
