@@ -1,0 +1,5 @@
+# Članak 7.
+Naslov iznad članka 19. i članak 19. mijenjaju se i glase:
+»3.1.2. Služba za unaprjeđenje i razvoj radnog zakonodavstva
+Članak 19.
+Služba za unaprjeđenje i razvoj radnog zakonodavstva obavlja pravno analitičke poslove vezane uz primjenu radnog zakonodavstva, izrađuje izvješća, studije i analize iz područja radnog prava, primjene propisa i položaja radnika te na temelju istih daje prijedloge vezane uz razvoj radnog zakonodavstva, vodi evidenciju i analizira podatke o privremenom zapošljavanju, o radničkim vijećima i europskim radničkim vijećima, prati konvencije i preporuke Međunarodne organizacije rada, Vijeća Europe i Europske unije te međunarodne ugovore iz djelokruga Službe, prati nacionalnu i međunarodnu sudsku praksu vezanu uz primjenu propisa iz područja rada, priprema stručne podloge za izradu izvješća o provedbi konvencija Međunarodne organizacije rada na području radnog zakonodavstva, sudjeluje u projektima i provodi kampanje sprječavanja rada na crno. Pruža tehničku potporu Stručnom povjerenstvu za praćenje i analizu kretanja minimalne plaće, te obavlja i druge poslove u okviru svog djelokruga.«.

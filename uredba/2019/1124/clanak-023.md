@@ -1,0 +1,2 @@
+# Članak 23.
+Okvirni broj potrebnih državnih službenika i namještenika Ministarstva rada i mirovinskoga sustava prikazan u tablici koja je sastavni dio Uredbe o izmjenama i dopuni Uredbe o unutarnjem ustrojstvu Ministarstva rada i mirovinskoga sustava (»Narodne novine«, broj 116/18) zamjenjuje se Okvirnim broj potrebnih državnih službenika i namještenika Ministarstva rada i mirovinskoga sustava koji je prikazan u tablici u prilogu ove Uredbe i njezin je sastavni dio.
