@@ -1,0 +1,5 @@
+# Članak 1.
+U Uredbi o nazivima radnih mjesta i koeficijentima složenosti poslova u javnim službama (»Narodne novine«, br. 25/13, 72/13, 151/13, 9/14, 40/14, 51/14, 77/14, 83/14 - ispravak, 87/14, 120/14, 147/14, 151/14, 11/15, 32/15, 38/15, 60/15, 83/15, 112/15, 122/15, 10/17, 39/17, 40/17 - ispravak, 74/17, 122/17, 9/18 i 57/18), u članku 7. podstavku b) Radna mjesta I. vrste, iza točke 15. dodaju se točke 16., 17. i 18. koje glase:
+»16. učitelj - stručnjak edukacijsko-rehabilitacijskog profila, učitelj, nastavnik, stručni suradnik u školi/ustanovi u kojoj se izvode samo programi za djecu s teškoćama u razvoju - savjetnik 1,676
+17. učitelj - stručnjak edukacijsko-rehabilitacijskog profila, učitelj, nastavnik, stručni suradnik u školi/ustanovi u kojoj se izvode samo programi za djecu s teškoćama u razvoju - mentor 1,532
+18. učitelj - stručnjak edukacijsko-rehabilitacijskog profila, učitelj, nastavnik, stručni suradnik u školi/ustanovi u kojoj se izvode samo programi za djecu s teškoćama u razvoju 1,400«.
