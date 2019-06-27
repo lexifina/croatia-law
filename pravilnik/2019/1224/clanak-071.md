@@ -1,0 +1,2 @@
+# Članak 71.
+Osigurana osoba koja je nezadovoljna nalazom, mišljenjem i ocjenom liječničkog povjerenstva Zavoda odnosno liječničkog povjerenstva za pomagala Direkcije Zavoda iz članaka 68., 69. i 70. ovoga Pravilnika ima pravo sukladno zakonu kojim se uređuje obvezno zdravstveno osiguranje podnijeti pisani zahtjev regionalnom uredu odnosno područnoj službi Zavoda nadležnima prema mjestu svog prebivališta odnosno boravišta za donošenje pisanog rješenja u upravnom postupku.

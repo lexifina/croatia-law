@@ -1,0 +1,8 @@
+# Članak 42.
+(1) Osiguranoj osobi s najvećim stupnjem onesposobljenosti sustava za kretanje mogu se propisati elektromotorna invalidska kolica, kada zbog kljenuti ili deformacije ruku i nogu ne može aktivno pokretati kolica na ručni pogon, ali pokretom prstiju može sigurno i samostalno upravljati elektromotornim invalidskim kolicima.
+(2) Medicinska indikacija za elektromotorna invalidska kolica utvrđuje se timski i interdisciplinarno (specijalist fizikalne medicine i rehabilitacije i/ili specijalist ortoped/specijalist ortopedije i traumatologije i radni terapeut i fizioterapeut i psiholog).
+(3) Prva primjena elektromotornih invalidskih kolica obavlja se stacionarno, timski u ugovornoj rehabilitacijskoj ustanovi uz obvezno testiranje probne vožnje.
+(4) Svaki sljedeći prijedlog za propisivanje elektromotornih invalidskih kolica može se obavljati i u ugovornoj specijalističkoj ordinaciji.
+(5) Uz Potvrdu o pomagalima kod prve i svake sljedeće primjene Zavodu se za osiguranu osobu dostavlja: medicinska dokumentacija, nalaz i mišljenje psihologa o sposobnosti sigurnog i samostalnog upravljanja kolicima te kod neuromuskularnih bolesti nalaz neurologa.
+(6) Uz medicinsku dokumentaciju potrebno je priložiti tehničko-mjerni list u kojem se navodi širina sjedala kolica, dubina i visina naslona te visina potkoljenica.
+(7) Invalidska kolica iz stavka 1. ovoga članka mogu se propisati osiguranoj osobi najranije od navršene 12. godine života, s time da je za samostalno korištenje elektromotornih kolica osigurane osobe od navršene 12. do navršene 18. godine života potrebna prethodna pisana suglasnost roditelja, skrbnika ili osobe kojoj je dijete povjereno na čuvanje i odgoj.

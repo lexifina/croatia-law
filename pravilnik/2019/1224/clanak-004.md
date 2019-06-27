@@ -1,0 +1,2 @@
+# Članak 4.
+Osigurana osoba u skladu sa zakonom kojim se uređuje obvezno zdravstveno osiguranje ostvaruje pravo na pomagalo, rezervni dio i potrošni materijal za pomagalo te popravak pomagala kod pravnih i fizičkih osoba s kojima je Zavod sklopio ugovor o isporuci pomagala, a koje imaju odobrenje za proizvodnju odnosno promet pomagalima na malo sukladno posebnom zakonu te u ljekarnama (u daljnjem tekstu: isporučitelj pomagala).

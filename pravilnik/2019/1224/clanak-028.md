@@ -1,0 +1,3 @@
+# Članak 28.
+(1) U slučaju pisanog prigovora osigurane osobe na isporučeno pomagalo ili na nemogućnost njegovog korištenja, voditelj regionalnog ureda odnosno područne službe Zavoda osniva povjerenstvo od tri člana u sastavu: izabrani doktor kao nadležni doktor ili nadležni doktor specijalist odgovarajuće specijalnosti, isporučitelj pomagala i radnik Zavoda, koje u izvan upravnom postupku u prisutnosti osigurane osobe donosi konačnu ocjenu o ispravnosti odnosno funkcionalnosti pomagala.
+(2) Ako povjerenstvo iz stavka 1. ovoga članka utvrdi osnovanost prigovora, isporučitelj pomagala obvezan je otkloniti utvrđene nedostatke, a troškovi otklanjanja tih nedostataka terete onoga za koga povjerenstvo utvrdi da je odgovoran za nastali nedostatak.

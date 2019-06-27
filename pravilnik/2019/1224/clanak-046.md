@@ -1,0 +1,5 @@
+# Članak 46.
+(1) Osigurana osoba ima pravo na pomagala za probavni sustav i stoma pomagala utvrđena u listama pomagala, a prema indikacijama iz lista pomagala.
+(2) Osigurana osoba koja koristi stoma pomagala, ako postoji medicinska indikacija, može ostvariti pravo na dodatni broj baznih pločica i vrećica kada joj ponestane jedan od dijelova navedenog pomagala uz odobrenje liječničkog povjerenstva za pomagala Direkcije Zavoda, a osigurana osoba koja ima dvije stome ostvaruje pravo na dvostruku količinu pomagala.
+(3) Prvo propisivanje vrste pomagala iz stavka 1. ovoga članka obavlja izabrani doktor kao nadležni doktor prema prijedlogu nadležnog doktora specijaliste odgovarajuće specijalnosti, dok tromjesečne količine propisuje izabrani doktor na temelju praćenja potreba svojeg pacijenta (stanju trbušne stjenke, izvedbi stome, razini aktivnosti i životnoj dobi pacijenta, načinu prehrane i drugim pratećim zdravstvenim stanjima), uz obvezu osigurane osobe da prema potrebi, izabranom doktoru dostavi nalaz nadležnog doktora specijaliste odgovarajuće specijalnosti o provođenju terapije.
+8. Pomagala za urogenitalni sustav

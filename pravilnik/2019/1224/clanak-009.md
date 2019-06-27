@@ -1,0 +1,3 @@
+# Članak 9.
+(1) Osigurana osoba koja pod uvjetima utvrđenim ovim Pravilnikom i listama pomagala ostvari pravo na novo istovrsno pomagalo obvezna je ranije odobreno pomagalo, koje podliježe obvezi vraćanja, vratiti Zavodu u roku od 15 dana od dana preuzimanja novog istovrsnog pomagala, osim pomagalo za koje je utvrđena uvjetna obveza vraćanja iz članka 8. stavka 3. ovoga Pravilnika.
+(2) Osigurana osoba koja ne vrati Zavodu pomagalo za koje je na listama pomagala utvrđena obveza vraćanja, obvezna je Zavodu naknaditi štetu u visini od 20% cijene novog istovrsnog pomagala utvrđene listama pomagala.

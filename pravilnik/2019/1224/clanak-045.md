@@ -1,0 +1,8 @@
+# Članak 45.
+(1) Osigurane osobe koje boluju od šećerne bolesti ostvaruju pravo na pomagala kod šećerne bolesti u količini i prema indikacijama iz lista pomagala.
+(2) Kod prvog propisivanja pomagala kod šećerne bolesti izabrani doktor kao nadležni doktor na Potvrdi može naznačiti da zamjena propisanog pomagala nije dozvoljena.
+(3) U slučaju kada osigurana osoba koja prema nalazu nadležnog doktora medicine, specijaliste interniste endokrinologa ili pedijatra endokrinologa prima više puta dnevno inzulin različitih formulacija, mogu joj se odobriti dva uređaja za davanje inzulina različitih formulacija, a uz odgovarajući broj igala prema listama pomagala.
+(4) U slučaju kada osigurana osoba u sklopu liječenja koristi inzulinsku pumpu ima pravo na potrošni materijal iz lista pomagala.
+(5) Prvo propisivanje pomagala iz stavka 4. ovoga članka obavlja izabrani doktor kao nadležni doktor, prema prijedlogu nadležnog doktora specijaliste odgovarajuće specijalnosti, a svako slijedeće propisivanje tromjesečne količine propisuje izabrani doktor na temelju praćenja potreba svojeg pacijenta uz obvezu osigurane osobe da prema potrebi izabranom doktoru dostavi nalaz nadležnog doktora specijaliste odgovarajuće specijalnosti o provođenju terapije.
+(6) Nova količina dijagnostičkih trakica za mjerenje šećera u krvi uređajem i lanceta za vađenje krvi iz prsta odobrava se isključivo uz predočenje dnevnika samokontrole ili ispisa iz evidencije uređaja za kontrolu šećera u krvi u količini usklađenoj s brojem samokontrola, a najviše do količine utvrđene u listama pomagala.
+7. Pomagala za probavni sustav i stoma pomagala

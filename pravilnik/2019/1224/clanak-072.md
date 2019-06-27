@@ -1,0 +1,4 @@
+## VI. UGOVARANJE ISPORUKE POMAGALA
+# Članak 72.
+(1) Zavod, u skladu s ovim Pravilnikom, ugovara isporuku pomagala osiguranim osobama s pravnim i fizičkim osobama koji ispunjavaju uvjete te imaju odobrenje za proizvodnju odnosno promet na malo pomagalima sukladno posebnom zakonu.
+(2) Osim sa pravnim i fizičkim osobama iz stavka 1. ovoga članka Zavod ugovora isporuku pomagala sa ljekarnama koje ljekarničku djelatnost obavljaju na temelju posebnog zakona i koje imaju ugovor sa Zavodom za provođenje ljekarničke djelatnosti, a isporuku pomagala obavljaju pod uvjetima i na način utvrđen općim aktima Zavoda kojima se uređuje ugovaranje zdravstvene zaštite iz obveznog zdravstvenog osiguranja sa zdravstvenim ustanovama te privatnim zdravstvenim radnicima sukladno zakonu kojim se uređuje obvezno zdravstveno osiguranje.

@@ -1,0 +1,5 @@
+# Članak 15.
+(1) Osiguranoj osobi Zavod osigurava pomagalo odgovarajućeg standarda i kvalitete u skladu s člankom 3. ovoga Pravilnika prema cijenama propisanim listama pomagala.
+(2) Ako osigurana osoba kod ugovornog isporučitelja nabavi pomagalo veće vrijednosti od vrijednosti pomagala utvrđene u skladu sa stavkom 1. ovoga članka, razliku u cijeni pomagala kao i cijeni popravka tog pomagala snosi osobno.
+(3) Za popravak pomagala iz stavka 2. ovoga članka uključujući i rezervne dijelove za to pomagalo Zavod snosi troškove u visini troškova popravka standardnog pomagala iz stavka 1. ovoga članka, a troškove rezervnog dijela za pomagalo veće vrijednosti odnosno za pomagala sa dodatne liste pomagala koje ne sadržava pomagalo utvrđeno u stavku 1. ovoga članka, kao i troškove zamjene tog dijela, snosi osigurana osoba u cijelosti.
+(4) Odredba stavka 2. ovoga članka primjenjuje se samo na individualno proizvedena pomagala te serijski proizvedena pomagala koja je potrebno prilagoditi osiguranoj osobi, dok se na serijska pomagala primjenjuju odredbe stavka 1. ovoga članka.
