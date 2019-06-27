@@ -1,0 +1,1 @@
+Na temelju članka 38. Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 2019. godinu (»Narodne novine«, broj 113/18), Vlada Republike Hrvatske je na sjednici održanoj 27. lipnja 2019. godine donijela
