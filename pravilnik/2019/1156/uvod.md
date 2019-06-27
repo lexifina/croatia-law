@@ -1,0 +1,1 @@
+Na temelju članka 199. stavka 9. i članka 200. stavka 7. Zakona o osiguranju (»Narodne novine« broj 30/15 i 112/18), Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća održanoj 13. lipnja 2019. donosi

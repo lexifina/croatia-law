@@ -1,0 +1,3 @@
+# Članak 3.
+Članak 4. stavak 2. peta alineja Pravilnika mijenja se i glasi:
+» - ocjenu o stanju i strukturi ulaganja imovine za pokriće tehničkih pričuva prema računovodstvenim propisima te o usklađenosti navedenog ulaganja s odredbama Zakona o osiguranju, s odredbama Delegirane uredbe Komisije (EU) 2015/35, uključujući i Delegirane uredbe Komisije (EU) o izmjeni navedene Uredbe, donesene na temelju odredaba Direktive 2009/138/EZ Europskog parlamenta i Vijeća o osnivanju i obavljanju djelatnosti osiguranja i reosiguranja (Solventnost II) i kojom se ta Direktiva dopunjuje i s odredbama Smjernica EIOPA-e koje uređuju sustav upravljanja u skladu s člankom 2. stavkom 5. ovoga Pravilnika«.
