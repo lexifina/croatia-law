@@ -1,0 +1,7 @@
+# Članak 1.
+(1) U Pravilniku o statističkim standardima osiguranja (»Narodne novine« broj 23/16 i 27/16, dalje u tekstu: Pravilnik) članak 2. stavak 1. mijenja se i glasi:
+»(1) Društvo za osiguranje, odnosno društvo za reosiguranje dostavlja Hanfi statističke izvještaje, i to mjesečni izvještaj koristeći obrazac SP_1_O/R_rizici, tromjesečne izvještaje koristeći obrasce SP_1_O/R_rizici, SP_1_O/R vrste, SP_41_O, SP_5_O/R, SP_7_O/R, SP_8_O/R, SP_10_O/R, SP_13_O, SP_15_O/R i SP_16_O/R, i godišnje izvještaje koristeći obrasce od rednog broja 1. do rednog broja 44. iz priloga ovog Pravilnika.«
+(2) Članak 2. stavak 3. Pravilnika mijenja se i glasi:
+»(3) Društvo za osiguranje, koje obavlja poslove osiguranja u državi članici, dužno je dostaviti statističke izvještaje o poslovima osiguranja u pojedinoj državi članici, i to odvojeno za poslove osiguranja koje obavlja preko podružnice i poslove osiguranja koje neposredno obavlja. Društvo za osiguranje dužno je dostaviti tromjesečne izvještaje koristeći obrazac SP_1_O_rizici_EU i godišnje izvještaje koristeći obrasce SP_1_O_rizici_EU i SP_16_O_EU iz priloga ovog Pravilnika.«
+(3) Članak 2. stavak 4. Pravilnika mijenja se i glasi:
+»(4) Podatke iz statističkih izvještaja SP_7_O/R, SP_8_O/R, SP_9_O/R, SP_10_O/R, SP_11_O/R, SP_12_O/R, SP_13_O, SP_21.1_O, SP_21.2_O, SP_25.1_O i SP_25.2_O iz priloga ovog Pravilnika potvrđuje imenovani ovlašteni aktuar.«
