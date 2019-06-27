@@ -1,0 +1,4 @@
+# Članak 7.
+(1) Uz mjerila propisana odredbama članka 5. i 6.. ove Odluke, učenički dom može, na prijedlog županijskoga upravnog odjela nadležnog za obrazovanje, ureda državne uprave u županiji odnosno Gradskoga ureda za obrazovanje Grada Zagreba, utvrditi i posebne prednosti za prijam po vrstama programa obrazovanja za potrebna zanimanja u županiji te druge uvjete prijma od općeg interesa u regiji.
+(2) Natječaj za prijam učenika u učenički dom u kojem se oglašavaju broj slobodnih mjesta i uvjeti za prijam u školskoj godini 2019./2020., javno objavljuju učenički domovi, istodobno s objavom natječaja za upis učenika u I. razred srednje škole.
+(3) Sadržaj natječaja iz stavka 2. ovog članka, učenički domovi dogovaraju s uredom državne uprave odnosno Gradskim uredom za obrazovanje Grada Zagreba, i zajednički objavljuju u organizaciji županijskoga upravnog odjela.

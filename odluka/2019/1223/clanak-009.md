@@ -1,0 +1,3 @@
+# Članak 9.
+(1) Pisano izvješće o prijmu učenika u učeničke domove za školsku godinu 2019./2020. učenički domovi dostavljaju uredu državne uprave u županiji odnosno Gradskome uredu za obrazovanje Grada Zagreba te upravnome odjelu nadležnom za obrazovanje u županiji u srijedu, 4. rujna 2019. godine, a uredi državne uprave odnosno Gradski ured za obrazovanje Grada Zagreba dostavljaju Ministarstvu znanosti i obrazovanja, Upravi za odgoj i obrazovanje (elektronički) u četvrtak, 5. rujna 2019. godine.
+(2) Obrazac za izvješće o prijmu učenika u učenički dom utvrđuje Ministarstvo znanosti i obrazovanja.
