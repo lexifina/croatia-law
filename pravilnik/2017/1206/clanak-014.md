@@ -1,4 +1,0 @@
-## DISCIPLINSKI PREKRŠAJ, ODUZIMANJE BODOVA I ZLOUPORABA OSTVARENOG PRAVA NA SUBVENCIONIRANO STANOVANJE
-# Članak 14.
-(1) Studentima kojima je izrečena disciplinska mjera opomene, sukladno općim aktima studentskoga centra, pred gubitak prava na subvencionirano stanovanje oduzima se 200 bodova od ukupnoga broja bodova, odnosno gube pravo na izravan smještaj u studentski dom pri prijavi na sljedeći natječaj.
-(2) Studenti koji počine teški prekršaj (uništavanje inventara doma, tučnjava, konzumacija alkohola i droga i ostala neprimjerena ponašanja studenata navedena u kućnome redu studentskoga doma) zlouporabe dodijeljenoga prava na subvencionirano stanovanje, sukladno općim aktima studentskoga centra, u studentskome domu bit će sankcionirani oduzimanjem prava na subvencionirano stanovanje tijekom studiranja.

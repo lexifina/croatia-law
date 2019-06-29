@@ -1,1 +1,0 @@
-Na temelju članka 88. stavka 4. Zakona o znanstvenoj djelatnosti i visokom obrazovanju (»Narodne novine«, broj: 123/03, 198/03, 105/04, 174/04, 2/07 - Odluka USRH, 46/07, 45/09, 63/11, 94/13 i 139/13, 101/14 - Odluka i Rješenje USRH i 60/15 - Odluka USRH), ministar znanosti i obrazovanja donosi
