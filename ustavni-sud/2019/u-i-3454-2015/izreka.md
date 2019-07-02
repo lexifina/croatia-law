@@ -1,0 +1,2 @@
+R J E Š E N J E
+Ne prihvaća se prijedlog za pokretanje postupka za ocjenu suglasnosti s Ustavom članka 64. stavka 1. točke 5., članka 65. stavka 2., članka 110. stavka 1., članka 110. stavka 2. alineje 5., članka 110. stavka 5., članka 110. stavka 6., članka 112., članka 114. stavka 6., članka 116. alineje 1., članka 116. alineje 2., članka 158. stavka 2. i članka 158. stavka 3. Stečajnog zakona ("Narodne novine" broj 71/15. i 104/17.).
