@@ -1,0 +1,2 @@
+R J E Š E N J E
+Odbacuje se prijedlog za pokretanje postupka za ocjenu suglasnosti s Ustavom dijela članka 176. stavka 2. Stečajnog zakona ("Narodne novine" broj 44/96., 161/98., 29/99., 129/00., 123/03., 197/03., 187/04., 82/06., 116/10., 25/12., 133/12. i 45/13.) koji glasi: "Tražbine prijavljene nakon isteka roka za prijavljivanje koje nisu ispitane na ispitnom ročištu te tražbine prijavljene najkasnije u roku od tri mjeseca nakon prvoga ispitnog ročišta".
