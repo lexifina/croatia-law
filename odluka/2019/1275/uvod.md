@@ -1,0 +1,1 @@
+Na temelju članka 20. stavka 1. i članka 42. stavka 1. Zakona o lokalnim porezima (»Narodne novine« broj 115/16 i 101/17) i članka 30. Statuta Općine Breznica (»Službeni vjesnik Varaždinske županije« broj 15/18), Općinsko vijeće Općine Breznica na sjednici održanoj 19. 6. 2019. godine donosi
