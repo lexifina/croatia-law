@@ -1,0 +1,5 @@
+# Članak 15.
+(1) U liječničkim ordinacijama, punktovima dežurstva primarne zdravstvene zaštite, domovima zdravlja te zavodima za hitnu medicinu sve promjene unutar POCT sustava moraju biti jasno dokumentirane i lako dostupne.
+(2) Sva dokumentacija vezana uz opis promjena mora biti pohranjena kako je definirano u sustavu upravljanja kvalitetom i sukladno nacionalnim propisima, a zdravstveni radnici uključeni u provođenje POCT pretraga moraju biti o tome jasno informirani.
+(3) Liječnik u ordinaciji te odgovorna osoba doma zdravlja i zavoda za hitnu medicinu obvezni su obavijestiti Tim o namjeri promjene tipa POCT uređaja, o povlačenju uređaja iz upotrebe i drugim značajnim promjenama (npr. promjena zdravstvenog radnika koji radi na POCT uređaju).
+(4) Tim je obvezan obavijestiti Komoru o promjeni nadležnog medicinsko-biokemijskog laboratorija odnosno magistra medicinske biokemije i laboratorijske medicine/specijalista te o izmjeni i/ili povlačenju POCT uređaja sukladno članku 8. putem e-obrasca prijave uvođenja pretraga uz pacijenta u liječničkim ordinacijama.

@@ -1,0 +1,1 @@
+Na temelju članka 4. stavka 2. Zakona o medicinsko-biokemijskoj djelatnosti (»Narodne novine«, broj 121/03, 117/08) na prijedlog Hrvatske komore medicinskih biokemičara i uz prethodno pribavljeno mišljenje Hrvatske liječničke komore, ministar zdravstva donosi

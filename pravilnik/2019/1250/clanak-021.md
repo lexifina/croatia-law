@@ -1,0 +1,2 @@
+# Članak 21.
+Odnosi između nadležnog ugovornog medicinsko-biokemijskog laboratorija, odnosno magistra medicinske biokemije i laboratorijske medicine/specijalista i liječničke ordinacije, punktova dežurstva primarne zdravstvene zaštite, domova zdravlja te zavoda za hitnu medicinu, sukladno odredbama ovoga Pravilnika, uređuju se ugovorom o međusobnim pravima i obvezama kojim se definiraju naknade za obavljanje poslova iz ovoga Pravilnika.
