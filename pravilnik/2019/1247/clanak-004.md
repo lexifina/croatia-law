@@ -1,0 +1,3 @@
+# Članak 4.
+(1) Dodatno osposobljavanje podnositelja zahtjeva koji su iskazali interes za privremeni smještaj djeteta i mlađe punoljetne osobe s problemima u ponašanju ili smještaj djeteta stranog državljanina koje se zatekne na teritoriju Republike Hrvatske bez nadzora roditelja ili druge odrasle osobe koja je odgovorna skrbiti se o njemu (u daljnjem tekstu: dodatno osposobljavanje) se provodi u postupku za donošenje rješenja o dozvoli za obavljanje udomiteljstva, a provodi ga centar udomitelja.
+(2) Dodatno osposobljavanje iz stavka 1. ovoga članka provodi se u trajanju od 6 do 12 sati i sastoji se od predavanja i radionica te primjera iz prakse.
