@@ -1,0 +1,7 @@
+# Članak 233.
+(1) Poslovi osnivanja, obnove i dopune zemljišne knjige, kao i poslovi pojedinačnog preoblikovanja zemljišne knjige u BZP poslovi su od interesa za Republiku Hrvatsku i financiraju se iz sredstava proračuna i (ili) drugih izvora, a sve na temelju odluke o osnivanju ili obnovi zemljišne knjige odnosno odluke o pojedinačnom preoblikovanju za određenu katastarsku općinu.
+(2) U osiguranju sredstava iz stavka 1. ovoga članka mogu sudjelovati jedinice lokalne i područne (regionalne) samouprave, pravne osobe koje upravljaju javnim dobrom u općoj uporabi, kao i pravne osobe koje obavljaju djelatnosti određene posebnim zakonima kao javne usluge.
+(3) Financijska sredstva iz stavka 2. ovoga članka osiguravaju se sporazumom sklopljenim između ministarstva nadležnog za poslove pravosuđa i jedinice lokalne, područne (regionalne) samouprave, pravne osobe koje upravljaju javnim dobrom u općoj uporabi ili pravne osobe koje obavljaju djelatnosti određene posebnim zakonima kao javne usluge.
+(4) Sporazumom iz stavka 3. ovoga članka osiguravaju se sredstva za financiranje svih troškova osnivanja ili obnove zemljišnih knjiga te pojedinačnog preoblikovanja, u dogovorenim omjerima ili u cijelosti.
+(5) Sredstva se uplaćuju na račun suda koji provodi postupak osnivanja ili obnove zemljišne knjige odnosno pojedinačnog preoblikovanja i mogu se koristiti samo za tu namjenu.
+(6) Prijedlog sporazuma pripremaju tijela iz stavka 2. ovoga članka.

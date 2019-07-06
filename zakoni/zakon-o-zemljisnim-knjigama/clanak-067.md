@@ -1,0 +1,4 @@
+# Članak 67.
+(1) Tužbu radi opravdanja predbilježbe osoba u čiju je korist predbilježba dopuštena može podnijeti u roku od 15 dana od dana dostave rješenja kojim je predbilježba dopuštena. Zemljišnoknjižni sud će na zahtjev svojim rješenjem produžiti taj rok ako postoji opravdani razlog, s tim da će se u rješenju točno naznačiti za koliko se rok produljuje.
+(2) U parnici radi opravdanja predbilježbe na tužitelju leži teret dokaza pravnoga temelja stjecanja knjižnoga prava, a glede predbilježenoga založnog prava teret dokaza da postoji valjana tražbina u određenom opsegu te pravni temelj stjecanja založnoga prava.
+(3) Tuženik može tužitelju staviti sve svoje prigovore protiv postojanja knjižnoga prava, pa i ako protiv rješenja kojim je predbilježba bila dopuštena nije podnio žalbu ili ju je podnio bez uspjeha.

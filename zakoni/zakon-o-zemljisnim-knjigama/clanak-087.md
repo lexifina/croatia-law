@@ -1,0 +1,4 @@
+# Članak 87.
+(1) Zabilježbu spora može zahtijevati svaka stranka u postupku iz članka 86. stavka 1. ovoga Zakona, kao i svaka druga osoba koja je sudionik postupka, a ima pravni interes, ako dokaže da se taj postupak vodi. Zabilježbu spora može rješenjem dopustiti sud koji provodi upis, kao i drugi sud pred kojim se vodi postupak čija se zabilježba zahtijeva.
+(2) Zabilježbu spora kojom se čini vidljivim da se pred drugim nadležnim tijelom vodi postupak iz članka 86. stavka 1. ovoga Zakona može zahtijevati svaki sudionik postupka koji ima pravni interes, ako dokaže da se taj postupak vodi. Zabilježbu može na prijedlog rješenjem dopustiti zemljišnoknjižni sud, a po službenoj je dužnosti može rješenjem narediti i tijelo pred kojim se vodi postupak.
+(3) Zabilježba spora dopustit će se ako se dokaže da se vodi postupak iz članka 86. stavka 1. ovoga Zakona, osim ako je zakonom predviđena mogućnost zabilježbe spora i prije pokretanja takva postupka.

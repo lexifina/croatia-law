@@ -1,0 +1,3 @@
+# Članak 191.
+(1) Kada se u postupku obnove otvara samo dio zemljišne knjige, a prilikom sastavljanja zemljišnoknjižnog uloška u nacrt uloška upiše čestica koja odgovara dijelu jedne ili više čestica upisanih u zemljišnoj knjizi koja će se zatvoriti, u uložak zemljišne knjige koja se zatvara upisat će se po službenoj dužnosti zabilježba o tome da je za dio čestice otvorena nova zemljišna knjiga zemljišnoknjižnog uloška te da je u tijeku postupak obnove zemljišne knjige.
+(2) Zabilježba iz ovoga članka bez odgađanja brisat će se po službenoj dužnosti kad se otvori nova zemljišna knjiga za cijelu česticu, koja je raspravljana u dijelovima.

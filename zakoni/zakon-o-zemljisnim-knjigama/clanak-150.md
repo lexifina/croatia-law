@@ -1,0 +1,7 @@
+## GLAVA VII. BRISOVNA TUŽBA
+# Članak 150.
+(1) Nositelj knjižnoga prava koje je povrijeđeno uknjižbom u korist neke osobe ovlašten je radi zaštite toga svoga prava zahtijevati brisanje svake uknjižbe koja ga vrijeđa i uspostavu prijašnjega zemljišnoknjižnog stanja (u daljnjem tekstu: brisovna tužba) sve dok ne nastupe činjenice na temelju kojih bi mu povrijeđeno knjižno pravo i tako trebalo prestati, ako zakonom nije drukčije određeno.
+(2) Brisovnoj tužbi ne može se udovoljiti protiv osobe koja je, postupajući s povjerenjem u istinitost zemljišnih knjiga, a u dobroj vjeri, uknjižila svoje pravo izvodeći ga iz uknjiženoga, ali neistinitoga (nevaljanoga) prava prednika, osim:
+– ako je nositelj knjižnoga prava iz stavka 1. ovoga članka kojemu je bilo dostavljeno rješenje o uknjižbi u korist prednika te osobe u roku za žalbu na taj upis zatražio zabilježbu da je sporan te podnio brisovnu tužbu u roku od šezdeset dana od isteka roka za tu žalbu odnosno
+– ako je nositelj knjižnoga prava iz stavka 1. ovoga članka kojemu nije bilo dostavljeno rješenje o uknjižbi u korist prednika te osobe podnio brisovnu tužbu u roku od tri godine otkad je ta uknjižba bila zatražena.
+(3) Na zabilježbu brisovne tužbe primjenjuju se pravila o zabilježbi spora, s time da tko ishodi zabilježbu brisovne tužbe, a bez opravdanoga razloga propusti podnijeti tu tužbu, odgovara za štetu koju je zbog toga pretrpjela osoba u čiju je korist provedena uknjižba.

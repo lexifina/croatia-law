@@ -1,0 +1,3 @@
+# Članak 166.
+(1) Otpis sastavnoga dijela zemljišnoknjižnoga tijela i njegov pripis drugom zemljišnoknjižnom tijelu ili otvaranje novoga uloška za otpisani sastavni dio dopušteni su samo ako isprava na kojoj se prijedlog temelji zadovoljava pretpostavke za uknjižbu prava vlasništva, a dio koji se otpisuje određen je točno, po potrebi i grafičkim prikazom.
+(2) Prijedlog za otpis i pripis zemljišnoknjižnom tijelu koje pripada istom vlasniku, kao i prijedlog za otvaranje novoga zemljišnoknjižnog uloška za upis otpisanih katastarskih čestica na ime istoga vlasnika ujedno su isprave kojima vlasnik raspolaže svojim pravom. Ovjera vlasnikova potpisa nije potrebna.

@@ -1,0 +1,4 @@
+# Članak 179.
+(1) Besteretnim otpisom provedenim na osnovi odredbi članka 177. ovoga Zakona prestaju knjižna prava koja nisu prenesena, ali njihovim ovlaštenicima pripada pravo na naknadu za ono što su zbog toga izgubili, s time da novčana naknada ne može biti manja od one na koju bi imali pravo da se na odgovarajući način primjenjuju pravila o naknadi u slučaju izvlaštenja.
+(2) Za naknadu iz stavka 1. ovoga članka solidarno odgovaraju osobe u čiju je korist proveden besteretni otpis i Republika Hrvatska odnosno jedinica lokalne ili područne (regionalne) samouprave čije je tijelo donijelo odluku na osnovi koje je dopušten besteretni otpis.
+(3) Pravo na naknadu iz stavka 1. ovoga članka prestaje istekom roka od tri godine od saznanja za posljedice besteretnoga otpisa, a najkasnije u roku od dvadeset godina od objave rješenja o dopuštenju besteretnoga otpisa na e-Oglasnoj ploči i oglasnoj ploči suda ili na drugi prikladan način.

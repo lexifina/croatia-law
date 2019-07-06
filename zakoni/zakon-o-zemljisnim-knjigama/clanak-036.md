@@ -1,0 +1,10 @@
+# Članak 36.
+(1) Suvlasništvo se upisuje po udjelima koji se određuju s obzirom na cjelinu, a izražavaju se razlomkom.
+(2) Vlasništvo određenoga posebnog dijela nekretnine (dalje u tekstu: etažno vlasništvo) upisuje se u vlasničkom listu na suvlasničkom dijelu onoga suvlasnika za kojega je osnovano vlasništvo posebnoga dijela, uz naznaku posebnoga dijela nekretnine i sporednih dijelova na koje se proteže.
+(3) Zajedničko (skupno) vlasništvo upisuje se u korist i na ime svih zajedničkih vlasnika, s naznakom da se radi o zajedničkom vlasništvu.
+(4) Vlasništvo ograničeno rokom čijim će istekom vlasništvo prijeći na stjecatelja odnosno uvjetom čijim bi se ispunjenjem trebalo to dogoditi upisuje se u korist stjecatelja koji će, nakon što istekne rok ili se ispuni uvjet, postati vlasnik, s time da će se pri upisu točno navesti rok ili uvjet te naznačiti stjecateljevo vlasništvo kao potonje. Upis potonjega vlasništva djeluje kao predbilježba vlasništva, s time da će se taj upis moći opravdati ako istekne rok ili se ispuni uvjet stjecanja.
+(5) Ako se pravo vlasništva otuđuje tako da ga stjecatelj stekne uz ograničenje rokom zbog čijega bi isteka ono trebalo prijeći natrag otuđivatelju ili uz ograničenje uvjetom čijim bi se ispunjenjem trebalo to dogoditi, na upis se u svemu primjenjuje odredba stavka 4. ovoga članka, s time da se istodobno s upisom stjecateljeva vlasništva kao prethodnoga upisuje i otuđivateljevo vlasništvo kao potonje.
+(6) Ako je utvrđeno da je predmet upisa od posebnog interesa za Republiku Hrvatsku i pod posebnim vlasničkim režimom koji se utvrđuje na zakonom propisan način, upis se provodi na temelju odredbi posebnog zakona.
+(7) Ako je jedna osoba upisana u više suvlasničkih udjela na jednoj nekretnini, ti će se udjeli na prijedlog spojiti u jedan udio koji je jednak zbroju svih udjela.
+(8) Spajanje suvlasničkih udjela iz stavka 7. ovoga članka neće se dopustiti ako je uspostavljeno etažno vlasništvo, osim ako se radi o spajanju suvlasničkih udjela na istom posebnom dijelu.
+(9) Spajanje suvlasničkih udjela iz stavaka 7. i 8. ovoga članka nije dopušteno ako su udjeli različito opterećeni.

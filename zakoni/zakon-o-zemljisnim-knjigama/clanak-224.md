@@ -1,0 +1,3 @@
+# Članak 224.
+(1) Kada postoje odstupanja u podacima o upisanim nositeljima prava u zemljišnoj knjizi i katastarskom operatu, a u zemljišnoj knjizi je upisano etažno vlasništvo (etažni uložak), pojedinačno preoblikovanje će se izvršiti, bez obzira na postojeće upise o nositeljima prava u katastarskom operatu.
+(2) Kada se prijavni list, koji je pregledalo i potvrdilo tijelo nadležno za katastar, provede u zemljišnoj knjizi, katastarske čestice osnovane tim prijavnim listom prenijet će se u BZP, ako su podaci o upisanim nositeljima knjižnih prava u zemljišnoj knjizi identični s podacima u katastarskom operatu.

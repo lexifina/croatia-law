@@ -1,0 +1,6 @@
+# Članak 8.
+(1) Izvaci, ispisi i prijepisi iz zemljišne knjige javne su isprave.
+(2) Smatra se da zemljišna knjiga istinito i potpuno odražava činjenično i pravno stanje zemljišta.
+(3) Stjecatelj koji je u dobroj vjeri postupao s povjerenjem u zemljišne knjige pravno je zaštićen ako nije znao niti je s obzirom na okolnosti imao dovoljno razloga posumnjati da ono što je upisano nije potpuno ili da je različito od izvanknjižnoga stanja. Nedostatak dobre vjere ne može se prigovoriti nikome samo zato što nije istraživao izvanknjižno stanje.
+(4) Osoba koja je u dobroj vjeri upisala knjižno pravo, postupajući s povjerenjem u potpunost zemljišne knjige, stekla ga je neopterećeno teretima koji nisu bili upisani u trenutku kad je zatražen upis niti je tada iz zemljišnih knjiga bilo vidljivo da je zatražen njihov upis, osim ako je zakonom drukčije određeno.
+(5) Osoba koja je u dobroj vjeri upisala knjižno pravo, postupajući s povjerenjem u istinitost zemljišne knjige, uživa zaštitu svoga povjerenja, osobito što joj nitko neće moći osporavati valjanost njezina stjecanja zbog nevaljanosti prednikova upisa nakon što isteknu rokovi u kojima bi se prema ovom Zakonu mogla podnijeti tužba radi brisanja uknjižbe njezina prednika.

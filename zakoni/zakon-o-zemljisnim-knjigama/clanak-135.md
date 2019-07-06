@@ -1,0 +1,6 @@
+# Članak 135.
+(1) Pogreška u upisu koja se opazi nakon provedenoga upisa, a čiji bi ispravak dovodio u pitanje već stečena prava i dovodio u opasnost osobe koje postupaju s povjerenjem u zemljišne knjige može se ispraviti na temelju rješenja o ispravku pogrešnoga upisa, donesenoga na temelju sporazuma svih zainteresiranih osoba u postupku pred zemljišnoknjižnim sudom za ispravak pogrešnoga upisa.
+(2) U postupku za ispravak pogrešnoga upisa sud će saslušati sve zainteresirane osobe kako bi utvrdio postoji li mogućnost sporazumnoga ispravka.
+(3) Postigne li se sporazum o ispravku pogrešnoga upisa, zemljišnoknjižni sud će donijeti rješenje o ispravku pogrešnoga upisa, uz nalog da se ispravak provede u zemljišnoj knjizi s učinkom od časa kad je bio zahtijevan upis koji je ispravljen.
+(4) Ne dođe li do sporazuma o ispravku pogrešnog upisa, zemljišnoknjižni sud će odbiti prijedlog za ispravak pogrešnog upisa, a stranke koje zahtijevaju ispravak uputit će na parnicu te će im se odrediti rok od 30 dana za podnošenje tužbe za ispravak, koji teče od dana pravomoćnosti rješenja kojim se odbija ispravak pogrešnog upisa.
+(5) Ako se u roku od osam dana od isteka roka iz stavka 4. ovoga članka dostavi zemljišnoknjižnom sudu dokaz da je podnesena tužba za ispravak, zabilježba pokrenutog postupka za ispravak pogrešnog upis zamijenit će se zabilježbom spora.

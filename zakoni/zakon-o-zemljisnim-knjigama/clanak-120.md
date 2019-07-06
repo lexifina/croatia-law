@@ -1,0 +1,5 @@
+# Članak 120.
+(1) Ako se prijedlog za upis odbije ili odbaci, odbijeni ili odbačeni prijedlog će se zabilježiti. Zabilježba se neće provesti ako se iz prijedloga za upis ili njegovih priloga ne može utvrditi na koju se nekretninu ili pravo odnosi, ako nekretnina ili pravo nisu upisani u zemljišne knjige tog suda, ili su upisani u korist druge osobe, a ne one protiv koje bi se s obzirom na sadržaj isprave trebao provesti upis.
+(2) Ako je prijedlog za upis odbio ili odbacio neki drugi sud, a ne zemljišnoknjižni sud, taj će drugi sud po službenoj dužnosti zatražiti od zemljišnoknjižnoga suda da provede zabilježbu odbijenoga ili odbačenoga prijedloga za upis.
+(3) Kad rješenje o odbijanju ili odbacivanju prijedloga za upis iz stavka 1. ovoga članka postane pravomoćno, zemljišnoknjižni sud će po službenoj dužnosti izbrisati zabilježbu odbijenog ili odbačenog prijedloga.
+(4) Kad odluka o odbijanju ili odbacivanju prijedloga za upis iz stavka 2. ovoga članka postane pravomoćna, sud koji je zatražio provedbu zabilježbe odbijenog ili odbačenog prijedloga po službenoj će dužnosti zatražiti brisanje te zabilježbe.

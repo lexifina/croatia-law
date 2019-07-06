@@ -1,0 +1,3 @@
+# Članak 238.
+(1) Ministar nadležan za poslove pravosuđa donijet će pravilnik o unutarnjem ustroju zemljišnoknjižnih sudova, vođenju zemljišnih knjiga i obavljanju drugih poslova u zemljišnoknjižnim sudovima, sukladno odredbama ovoga Zakona (Zemljišnoknjižni poslovnik), u roku od 12 mjeseci od stupanja na snagu ovoga Zakona.
+(2) Pravilnike iz članka 20. stavka 4., članka 27. stavka 2., članka 28. stavka 4., članka 33. stavka 2., članka 105. stavaka 3., 4. i 8., članka 124. stavaka 1. i 2., članka 125. stavka 5., članka 126. stavka 1., članka 139. stavka 6. i članka 232. ovoga Zakona ministar nadležan za poslove pravosuđa donijet će u roku od 12 mjeseci od stupanja na snagu ovoga Zakona.

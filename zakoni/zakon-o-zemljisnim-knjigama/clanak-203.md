@@ -1,0 +1,7 @@
+# Članak 203.
+(1) Ustanovi li sud da bi za postupanje po prijavi ili prigovoru bilo nužno izmijeniti upis u posjedovnici o površini, obliku, adresi, načinu uporabe ili izgrađenosti katastarske čestice, on toj prijavi ili prigovoru neće udovoljiti, već će je odbaciti bez provođenja rasprave, a zabilježbu prigovora brisat će po službenoj dužnosti kada rješenje o odbacivanju postane pravomoćno.
+(2) O prijavama i prigovorima glede upisa u vlastovnicu i teretovnicu o kojima su svi nazočni postigli sporazum sud će odlučiti u skladu s tim sporazumom, ako je on dopušten i moguće ga je provesti.
+(3) O prijavama i prigovorima glede upisa u vlastovnicu i teretovnicu o kojima nazočni nisu postigli sporazum sud će odlučiti po pravičnoj ocjeni.
+(4) Prijave i prigovore koji su podneseni nakon isteka roka za ispravak, a o njima nije postignuta suglasnost da se s njima postupa kao da su pravodobni, sud će odbaciti.
+(5) Sud će uputiti osobe čije prijave ili prigovore nije usvojio u cijelosti ili djelomično, kao i one čiji je upis ili prvenstveni red upisa svojom odlukom odredio izmijeniti, nadopuniti ili izbrisati da svoje navodno pravo ostvaruju u parnici tužbom za ispravak.
+(6) Ako se tužba za ispravak podnese u roku od 30 dana od dana dostave rješenja donesenog u ispravnom postupku, sud će, kad mu bude dokazano da je tužba podnesena, zabilježbu prijave ili prigovora zamijeniti zabilježbom spora.

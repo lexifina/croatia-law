@@ -1,0 +1,6 @@
+# Članak 216.
+(1) Ako su zaprimljene prijave i prigovori ili sud smatra da je potrebno održati raspravu, rasprava za ispravak mora se održati u roku od 60 dana od dana isteka zadnjeg dana roka za podnošenje prijava i prigovora.
+(2) Uz poziv za raspravu sud može pozvati stranke da najkasnije na raspravu dostave isprave za koje sud smatra da su bitne za donošenje odluke o prijavi odnosno prigovoru.
+(3) Na raspravu za ispravak sud može pozvati i ovlaštenog inženjera geodezije koji je izradio prijavni list za provedbu u zemljišnoj knjizi u svojstvu stručnog pomagača.
+(4) Rješenje u pojedinačnom ispravnom postupku sud će u pravilu donijeti na raspravi za ispravak, a najkasnije u roku od osam dana od dana održavanja rasprave za ispravak.
+(5) Na raspravu za ispravak na odgovarajući se način primjenjuju odredbe članaka 199. do 201. ovoga Zakona, na prijave i prigovore na odgovarajući se način primjenjuju odredbe članaka 196. do 198. ovoga Zakona, na odlučivanje o prijavama i prigovorima na odgovarajući se način primjenjuju odredbe članaka 202. i 203. ovoga Zakona, na provedbu upisa u pojedinačnom ispravnom postupku na odgovarajući se način primjenjuju odredbe članka 204. ovoga Zakona te na tužbu za ispravak na odgovarajući se način primjenjuju odredbe članka 205. ovoga Zakona.

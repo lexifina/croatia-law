@@ -1,0 +1,7 @@
+# Članak 211.
+(1) Rješenje iz članka 210. stavka 1. ovoga Zakona sadrži oglas kojim će sud po službenoj dužnosti, bez odgađanja, objaviti:
+– da je glede te određene nekretnine na prijedlog (podaci o predlagatelju) otvoren pojedinačni ispravni postupak kojim predlagatelj zahtijeva da se u navedenom ulošku na navedenoj nekretnini provedu i isprave upisi s točnim navođenjem upisa iz prijedloga koji se zahtijevaju u vezi sa zemljišnoknjižnim uloškom, a po potrebi se može navesti i nacrt ispravljenog zemljišnoknjižnog uloška
+– da se sve osobe koje se protive da se zemljišnoknjižni uložak na predloženi način ispravi, koje smatraju da bi u zemljišnoknjižni uložak trebalo upisati nešto što nije predloženo ili da bi trebalo izmijeniti ili ispraviti neki upis pozivaju da stave zemljišnoknjižnom sudu svoje prijave prijedloga za upis odnosno svoje prigovore u određenom roku (rok za ispravak), čiji početak i kraj moraju u oglasu biti izričito navedeni određivanjem kalendarskog dana
+– da, ako nisu zaprimljene prijave i prigovori, a stanje spisa i zemljišne knjige upućuje na opravdanost prijedloga, sud može donijeti odluku bez održavanja rasprave.
+(2) Prigovori ili prijave mogu se podnijeti u roku od 30 dana računajući od dana objave oglasa na e-Oglasnoj ploči.
+(3) Oglas će se objaviti na trošak predlagatelja na e-Oglasnoj ploči, oglasnoj ploči suda, nadležnog ureda za katastar, jedinice lokalne samouprave ili na drugi odgovarajući način.

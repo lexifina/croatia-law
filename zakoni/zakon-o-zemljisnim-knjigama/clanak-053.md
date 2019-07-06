@@ -1,0 +1,4 @@
+# Članak 53.
+(1) Ako je među pravima koja ne dolaze neposredno jedno iza drugoga došlo do ustupa prvenstva bez pristanka ovlaštenika čija su prava upisana između njih, pravo koje stupa naprijed stječe u prvenstvenom redu mjesto prava koje stupa natrag samo u granicama opsega i kakvoće potonjeg.
+(2) Ako je pravo koje stupa natrag uvjetno ili s određenim rokom, moći će se tražbina koja stupa naprijed namiriti iz opterećene nekretnine prije ispunjenja uvjeta ili isteka roka samo u onom iznosu koji otpada na nju po njezinu prvobitnom prvenstvenom redu.
+(3) Ako kupac na javnoj prodaji bez uračunavanja u kupovninu (najveću ponudu) preuzima pravo koje stupa natrag s njegovim prijašnjim prvenstvenim redom, onda će se pri podjeli kupovnine pravo koje stupa naprijed uzimati u obzir prema svom prvobitnom mjestu u prvenstvenom redu.

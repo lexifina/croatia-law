@@ -1,0 +1,6 @@
+# Članak 11.
+(1) Oznake katastarskih čestica u zemljišnoj knjizi moraju biti sukladne s njihovim oznakama u katastarskom operatu, a osobito moraju biti navedeni katastarski brojevi čestica, njihova površina prema katastru, adresa katastarske čestice, način uporabe, kao i zgrade koje trajno leže na zemljištu ili su ispod njegove površine (izgrađenost zemljišta).
+(2) Ako se razlikuju podaci o broju čestice u zemljišnoj knjizi i katastru, zemljišnoknjižni sud upisat će novi broj katastarske čestice na temelju podataka prijavnog lista koji je pregledalo i potvrdilo tijelo nadležno za katastar.
+(3) Odluke sudova i drugih vlasti o knjižnim pravima moraju sadržavati oznake i podatke o broju i površini katastarske čestice, kao i o katastarskoj općini u kojoj leže, onako kako su ti podaci označeni u zemljišnoj knjizi.
+(4) Do uspostave BZP-a promjena broja katastarske čestice, oblika, površine, načina uporabe ili izgrađenosti zemljišta provodi se u zemljišnoj knjizi na temelju rješenja koje sud donosi po službenoj dužnosti, nakon što mu tijelo nadležno za katastar dostavi prijavni list o toj promjeni u katastru zemljišta.
+(5) Ako se razlikuju podaci u zemljišnoj knjizi i katastru, mjerodavni su za knjižna prava podaci u zemljišnoj knjizi, dok ne budu promijenjeni prema odredbi stavka 4. ovoga članka.

@@ -1,0 +1,4 @@
+# Članak 204.
+(1) Na osnovi odluke suda donesene na raspravi za ispravak kojom je sud prihvatio prijavu za upis ili usvojio prigovor o upisu ili njegovu prvenstvenom redu provest će se njime naređeni upisi u zemljišnoj knjizi.
+(2) Ako je na raspravi postignut sporazum o prijavama ili prigovorima, zabilježba prijave i prigovora izbrisat će se zajedno s provođenjem upisa. Sud će po službenoj dužnosti izbrisati sve zabilježbe prijava i prigovora o kojima nije postignut sporazum nakon isteka roka od 30 dana od dana dostave rješenja o njihovoj osnovanosti, a i prije ako su zamijenjene zabilježbom spora.
+(3) Ako u otvorenom roku za ispravak nisu podnesene prijave ili prigovori, sud će brisati zabilježbu tijeka roka za ispravak iz članka 195. ovoga Zakona bez provođenja rasprave po službenoj dužnosti.

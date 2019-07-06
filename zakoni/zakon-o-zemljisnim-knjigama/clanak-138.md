@@ -1,0 +1,6 @@
+# Članak 138.
+(1) Kad se pismeno dostavlja fizičkoj osobi, a pismeno je vraćeno s naznakom »nepoznat« ili »odselio«, sud će iz evidencije Ministarstva unutarnjih poslova (u daljnjem tekstu: MUP) pribaviti podatak o adresi prebivališta odnosno boravišta primatelja.
+(2) Ako je adresa iz evidencije MUP-a različita od one na kojoj je dostava prethodno ostala bezuspješna, sud će odmah ponoviti dostavu na tu adresu. Ako se radi o istoj adresi na kojoj je dostava prethodno ostala bezuspješna, sud će istekom roka od 30 dana od prethodne neuspjele dostave ponovno pribaviti podatak iz evidencije MUP-a o adresi prebivališta odnosno boravišta primatelja te mu pismeno dostaviti na tu adresu. Ako se ponovna dostava na adresu iz evidencije MUP-a ne uspije obaviti, pismeno će se objaviti na oglasnoj ploči suda.
+(3) Ako MUP obavijesti sud da nema podataka o adresi primatelja, pismeno će se objaviti na oglasnoj ploči suda.
+(4) Ako se pismeno vrati s naznakom da je primatelj pismena umro, a zemljišnoknjižni sud u roku od 60 dana od takvog saznanja nije primio obavijest o nasljednicima, pismeno će se objaviti na oglasnoj ploči suda.
+(5) Smatrat će se da je dostava obavljena istekom 30 dana od dana stavljanja pismena na oglasnu ploču suda.

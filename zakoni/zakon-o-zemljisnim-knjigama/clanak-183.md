@@ -1,0 +1,4 @@
+# Članak 183.
+(1) Postupak osnivanja i obnove može se provesti za zemljišnu knjigu ili neki njezin dio i onda kada je u katastru u službenoj uporabi katastarski operat čije stanje ne zahtijeva ponovnu katastarsku izmjeru i izlaganje na javni uvid podataka postojećeg katastarskog operata (osnivanje ili obnova na temelju podataka postojećeg katastarskog operata).
+(2) Tijelo nadležno za katastar dostavit će nadležnom sudu na njegov zahtjev podatke postojećeg katastarskog operata u roku od 90 dana od dana zaprimanja zahtjeva, na temelju kojih će sud provesti postupak osnivanja ili obnove zemljišne knjige.
+(3) Iznimno od članka 182. stavka 5. ovoga Zakona, postupak iz stavka 1. ovoga članka može se provoditi i bez istodobnog izlaganja na javni uvid postojećeg katastarskog operata. Ako sud ocijeni da je potrebno, na raspravu za sastavljanje uložaka može pozvati službenika nadležnog tijela za katastar u svojstvu stručne osobe za katastarske podatke.
