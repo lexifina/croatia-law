@@ -1,0 +1,1 @@
+Na temelju članka 47. stavka 2. Zakona o izmjenama i dopunama Zakona o sigurnosti prometa na cestama (»Narodne novine«, broj: 108/17.), ministar unutarnjih poslova, uz prethodnu suglasnost ministra nadležnog za poslove prometa, donosi
