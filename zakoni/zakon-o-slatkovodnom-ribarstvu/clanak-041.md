@@ -1,0 +1,16 @@
+## VIII. ZNANSTVENO-NASTAVNI RIBOLOV I RIBOLOV ZA POTREBE AKVARIJA OTVORENIH ZA JAVNOST
+## Uvjeti za obavljanje znanstveno-nastavnog ribolova i ribolova za potrebe akvarija otvorenih za javnost
+# Članak 41.
+(1) Ribolov radi znanstvenog ili stručnog istraživanja, izrade planova upravljanja, provođenja programa praćenja stanja ribljeg fonda te provođenja nastavnih programa obavljaju ustanove iz članka 9. ovoga Zakona.
+(2) Ribolov radi potreba akvarija otvorenih za javnost obavlja ustanova ili ustanova koja je registrirana kao slatkovodni akvarij otvoren za javnost.
+(3) Ribolov iz stavaka 1. i 2. ovoga članka obavlja se na temelju rješenja kojim Ministarstvo može ustanovi dopustiti ribolov, na temelju zahtjeva i predočenoga istraživačkog i/ili nastavnog programa, uz uvjet da se takvim ribolovom ne nanosi šteta ribljem fondu.
+(4) Ribolov iz stavka 2. ovoga članka obavlja se na temelju rješenja kojim Ministarstvo može dopustiti ribolov, na temelju zahtjeva ustanove koja je registrirana kao akvarij otvoren za javnost i predočen plan potreba za ribljim vrstama, uz uvjet da se takvim ribolovom ne nanosi šteta ribljem fondu.
+(5) Ustanova koja je registrirana kao slatkovodni akvarij otvoren za javnost obvezna je imati stalno zaposlena barem dva stručna suradnika koji imaju završen diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij ili specijalistički diplomski stručni studij ili doktorski studij ribarske, veterinarske, biološke ili poljoprivredne struke te najmanje tri godine radnog iskustva u struci i koji posjeduju uvjerenje da su educirani o metodama znanstveno-nastavnog ribolova.
+(6) Rješenja iz stavaka 3. i 4. ovoga članka izdaju se na rok od jedne godine za tekuću kalendarsku godinu i vrijede za sva istraživanja i nastavne programe, osim za potrebe akvarija otvorenih za javnost, gdje vrijedi za točno ciljane vrste navedene u godišnjem planu potreba za ribljim vrstama.
+(7) U rješenju iz stavaka 3. i 4. ovoga članka odredit će se ribolovne vode, ribolovni alati, oprema, vrijeme i način obavljanja ribolova iz stavaka 1. i 2. ovoga članka.
+(8) Zabranjeno je obavljati znanstveno-nastavni ribolov i ribolov za potrebe akvarija otvorenih za javnost bez rješenja iz stavaka 3. i 4. ovoga članka.
+(9) Zabranjeno je obavljati znanstveno-nastavni ribolov i ribolov za potrebe akvarija otvorenih za javnost protivno rješenjima iz stavaka 3. i 4. ovoga članka.
+(10) Ustanove iz stavka 1. te ustanove koje su registrirane kao slatkovodni akvariji otvoreni za javnost iz stavka 2. ovoga članka obvezne su najmanje dva dana prije početka ribolova obavijestiti o mjestu i vremenu obavljanja ribolova ovlaštenika ribolovnog prava, ribarskog inspektora te postaju granične policije ako se ribolov obavlja na ribolovnim vodama koje ujedno predstavljaju i državnu granicu.
+(11) Ovlaštenik ribolovnog prava, kao i ovlaštenik povlastice za gospodarski ribolov obvezan je omogućiti rad ovlašteniku rješenja iz stavaka 3. i 4. ovoga članka.
+(12) Zabranjeno je neovlašteno i neopravdano sprječavati, ometati ili zabranjivati ribolov ovlaštenicima iz stavaka 3. i 4. ovoga Zakona.
+(13) Protiv rješenja iz stavaka 3. i 4. ovoga članka nije dopuštena žalba, ali se može pokrenuti upravni spor.

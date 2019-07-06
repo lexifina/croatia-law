@@ -1,0 +1,3 @@
+## Zaštitne mjere
+# Članak 81.
+Za prekršaje navedene u članku 71. stavku 1., članku 72. stavku 1. točkama 1., 2., 3., 4., 6. i 7., članku 73. stavku 6. točkama 1., 2., 3. i 5., članku 74. stavku 1. točkama 11., 12. i 16., članku 75. stavku 1. točki 4., članku 76. stavku 1. točkama 1., 3., 4., 8., 10., 11. i 12., članku 77. stavku 1. točkama 1., 2. i 3., članku 78. stavku 1. točkama 1. do 5., članku 79. stavku 1. točkama 9. i 10. te članku 80. stavku 1. točkama 6. i 7. ovoga Zakona osim novčane kazne obvezno se izriču i zaštitne mjere privremenog oduzimanja ulova i proizvoda ribarstva, plovila, ribolovnih alata, pribora i opreme te drugih predmeta kojima je počinjen prekršaj.

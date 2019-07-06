@@ -1,0 +1,3 @@
+## Prijelazno razdoblje za postupak raspodjele sredstava uplaćenih na ime naknade za gospodarski i sportski ribolov
+# Članak 85.
+Do stupanja na snagu članka 44. ovoga Zakona sredstva uplaćena na ime naknade za gospodarski ribolov prihod su ovlaštenika ribolovnog prava, sredstva uplaćena na ime naknade za dozvole za sportski ribolov prihod su ovlaštenika ribolovnog prava u omjeru od 80 %, a koriste se sukladno gospodarskoj osnovi i godišnjem planu, Saveza u omjeru od 10 %, a koriste se za unaprjeđivanje sportskog ribolova, edukaciju članstva te za obavljanje poslova iz nadležnosti Saveza te državnog proračuna Republike Hrvatske u omjeru od 10 %, a koriste se za financiranje monitoringa ribljeg fonda.

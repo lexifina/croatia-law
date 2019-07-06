@@ -1,0 +1,3 @@
+## Prijelazno razdoblje za postupak dostavljanja popisa ulova u gospodarskom i sportskom ribolovu
+# Članak 87.
+Do stupanja na snagu članka 47. ovoga Zakona ovlaštenici povlastice za gospodarski ribolov obvezni su jedanput mjesečno na propisanom obrascu dostavljati Ministarstvu podatke o gospodarskom ribolovu u roku od 30 dana od isteka razdoblja za koje se podaci dostavljaju, ribiči su obvezni na propisanom obrascu dostavljati podatke o količini i vrstama riba zadržanim u sportskom ribolovu ovlašteniku ribolovnog prava te su ih ovlaštenici ribolovnog prava obvezni dostaviti Savezu na propisanom obrascu do kraja travnja za prethodnu godinu, a Savez ih je obvezan dostaviti Ministarstvu na propisanom obrascu do kraja svibnja za prethodnu godinu.

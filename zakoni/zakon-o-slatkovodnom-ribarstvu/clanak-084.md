@@ -1,0 +1,3 @@
+## Prijelazno razdoblje za postupak izdavanja dozvola za sportski ribolov
+# Članak 84.
+Do stupanja na snagu članka 21. ovoga Zakona dozvole za sportski ribolov izdaje Ministarstvo ovlašteniku ribolovnog prava uz posredovanje Saveza te ih on smije prodavati samo za ribolovnu zonu za koju je dobio ribolovno pravo ili ribolovnu zonu drugog ovlaštenika ribolovnog prava s kojim je ovlaštenik zaključio ugovor o recipročnom pravu, s iznimkom za ribičke dozvole za invalide Domovinskog rata Republike Hrvatske koje vrijede na svim tekućicama koje su ribolovne vode na području Republike Hrvatske, uz obvezno poštivanje organizacijske strukture i odluka ovlaštenika ribolovnog prava.

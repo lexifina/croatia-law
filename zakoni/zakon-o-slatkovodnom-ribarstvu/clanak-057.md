@@ -1,0 +1,4 @@
+## Uvjeti za inspektora
+# Članak 57.
+(1) Poslove višeg inspektora može obavljati osoba koja ima završen preddiplomski i diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij ili specijalistički diplomski stručni studij iz područja prirodnih, tehničkih, biomedicinskih i zdravstvenih, biotehničkih ili društvenih znanosti, najmanje četiri godine radnog iskustva u struci i položen državni stručni ispit za ribarskog inspektora.
+(2) Poslove inspektora može obavljati osoba koja ima završen preddiplomski i diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij ili specijalistički diplomski stručni studij iz područja prirodnih, tehničkih, biomedicinskih i zdravstvenih, biotehničkih ili društvenih znanosti, najmanje dvije godine radnog iskustva u struci i položen državni stručni ispit za ribarskog inspektora.

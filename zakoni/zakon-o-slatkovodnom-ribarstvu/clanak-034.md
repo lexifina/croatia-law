@@ -1,0 +1,8 @@
+## Postupanja ribočuvara
+# Članak 34.
+(1) Ako ribočuvar zatekne u ribolovnoj zoni na kojoj obavlja ribočuvarsku službu osobu koja obavlja ribolov ili druge radnje protivno ovom Zakonu i propisima donesenim na temelju njega, dužan je sastaviti zapisnik te ga dostaviti ribarskom inspektoru u roku od najviše 48 sati te poduzeti druge radnje sukladno svojim ovlastima.
+(2) Ako ribočuvar osobi iz stavka 1. ovoga članka privremeno oduzme ribolovni alat i/ili opremu za ribolov i/ili ulov, obvezan je odmah ga predati ovlašteniku ribolovnog prava na čuvanje do njegove predaje nadležnom sudu i/ili ribarskom inspektoru, uz zapisnik i potvrdu o privremenom oduzimanju.
+(3) Osobi od koje se oduzima ribolovni alat i/ili oprema za ribolov i/ili ulov ribočuvar izdaje zapisnik i potvrdu s navedenim ribolovnim alatima i/ili opremom za ribolov i/ili ulovom po vrsti i količini.
+(4) Ovlaštenik ribolovnog prava obvezan je osigurati čuvanje i održavanje privremeno oduzetoga ribolovnog alata i/ili opreme za ribolov i/ili ulova do njegove predaje nadležnom sudu i/ili ribarskom inspektoru, a na osnovi rješenja ribarskog inspektora i/ili pravomoćne odluke suda.
+(5) S privremeno oduzetim ribolovnim alatom i/ili opremom za ribolov i/ili ulovom, do predaje nadležnom sudu i/ili inspektoru, ovlaštenik ribolovnog prava ne može raspolagati (uništiti ih, prodati, predati, darovati, zamijeniti i sl.), osim ako posebnim zakonom ili drugim propisom nije drugačije određeno.
+(6) Obrazac zapisnika ribočuvara i potvrde o privremenom oduzimanju ribolovnih alata i/ili opreme za ribolov i/ili ulova pravilnikom propisuje ministar.
