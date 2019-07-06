@@ -1,0 +1,2 @@
+# Članak 14.
+Doktor medicine koji radi pod nadzorom obvezan je do donošenja mišljenja iz članka 9. stavka 3. ovoga Pravilnika završiti edukacijske programe u izvanbolničkoj hitnoj medicini koje provode zavodi za hitnu medicinu jedinice područne (regionalne) samouprave odnosno Grada Zagreba, a na koje ga upućuje zdravstvena ustanova, trgovačko društvo koje obavlja zdravstvenu djelatnost, odnosno privatni zdravstveni radnik iz članka 5. ovoga Pravilnika.
