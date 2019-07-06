@@ -1,0 +1,4 @@
+## Sadržaj Popisa poljoprivrede
+# Članak 13.
+(1) Za potrebe europske statistike Popisom poljoprivrede prikupljaju se osnovni strukturni podaci navedeni u Prilogu III. i podaci o modulima navedenim u Prilogu IV. Uredbe (EU) br. 2018/1091 za modul radne snage i drugih dohodovnih djelatnosti, modul ruralnog razvoja i modul držanja životinja i gospodarenja stajskim gnojem koji su utvrđeni opisom varijabli u Prilogu I., II. i III. Provedbene uredbe Komisije (EU) br. 2018/1874 оd 29. studenoga 2018. o podacima koje treba dostaviti za 2020. u skladu s Uredbom (EU) br. 2018/1091 Europskog parlamenta i Vijeća o integriranoj statistici na razini poljoprivrednih gospodarstava i stavljanju izvan snage uredaba (EZ) br. 1166/2008 i (EU) br. 1337/2011 u pogledu popisa varijabli i njihova opisa (SL L 306 od 30. studenoga 2018.).
+(2) Za nacionalne potrebe prikupljaju se podaci o očekivanim prirodima važnijih usjeva i voća te potrošnji goriva na poljoprivrednom gospodarstvu.
