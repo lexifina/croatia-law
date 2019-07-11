@@ -1,0 +1,3 @@
+# Članak 1.
+U Pravilniku o plaćanju naknada za pravo uporabe adresa, brojeva i radiofrekvencijskog spektra (»Narodne novine«, br. 154/08., 28/09., 97/10., 92/12., 62/14., 147/14., 138/15., 77/16., 126/17., 55/18. i 99/18.), u članku 6. stavak 4. mijenja se i glasi:
+»(4) Ako podnositelj zahtjeva ili nositelj dozvole na jednoj mikrovalnoj vezi upotrebljava ukupno 82,5 MHz ili više kontinuiranog radiofrekvencijskog spektra u istom radiofrekvencijskom potpojasu, uz uporabu horizontalne i vertikalne polarizacije u svakom pojedinačnom radiofrekvencijskom kanalu, plaća 50% visine naknade utvrđene stavcima 2. i 3. ovoga članka.«.
