@@ -1,0 +1,1 @@
+Na temelju članka 397.a Zakona o trgovačkim društvima (»Narodne novine«, broj 111/93., 34/99., 121/99., 52/00., 118/03., 107/07., 146/08., 137/09., 125/11., 152/11., 111/12., 68/13., 110/15. i 40/19.), ministar pravosuđa donosi
