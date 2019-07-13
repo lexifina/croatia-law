@@ -1,0 +1,1 @@
+Na temelju članka 12. stavka 3., članka 13. stavka 3, članka 14. stavka 3., članka 25. stavka 3., članka 28. stavka 7., članka 39. stavka 7. i članka 41. stavka 7. Zakona o ublažavanju i uklanjanju posljedica prirodnih nepogoda ( »Narodne novine«, broj 16/19), ministar financija donosi
