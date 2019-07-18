@@ -1,0 +1,4 @@
+# Članak 54.
+(1) Unutarnje ustrojstvo, nazive unutarnjih ustrojstvenih jedinica i njihov djelokrug, način upravljanja i okvirni broj državnih službenika i namještenika u pojedinim ustrojstvenim jedinicama, način planiranja poslova, radno i uredovno vrijeme, uredovne dane i druga pitanja od osobite važnosti za rad tijela državne uprave uređuje Vlada uredbom.
+(2) Pojedine ustrojstvene jedinice i ispostave tijela državne uprave mogu se uredbom iz stavka 1. ovoga članka odrediti kao jedinstveno upravno mjesto.
+(3) Na temelju uredbe iz stavka 1. ovoga članka čelnik tijela državne uprave pravilnikom o unutarnjem redu utvrđuje broj potrebnih državnih službenika i namještenika s naznakom njihovih osnovnih poslova i zadaća i stručnih uvjeta potrebnih za njihovo obavljanje, njihove ovlasti i odgovornosti te druga pitanja važna za rad tijela državne uprave koja nisu uređena uredbom.
