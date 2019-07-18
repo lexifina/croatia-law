@@ -1,0 +1,18 @@
+# Članak 4.
+(1) Društvo za zastupanje u osiguranju, obrtnik zastupnik u osiguranju, obrtnik broker u osiguranju i/ili reosiguranju, društvo za brokerske poslove u osiguranju i/ili reosiguranju i sporedni posrednici u osiguranju dužni su Agenciju izvještavati o:
+1. upisu promjene podataka u sudskom registru odnosno obrtnom registru, dostavljanjem rješenja o upisu u sudski registar odnosno obrtni registar najkasnije u roku od 8 radnih dana od njegova primitka,
+2. promjeni dioničara odnosno imatelja poslovnog udjela društva većeg od 10%, vlasnika ili suvlasnika obrta dostavljanjem preslika dokumenta o stjecanju dionica odnosno poslovnog udjela, podataka o imenu i prezimenu te adresi, odnosno tvrtki i sjedištu dioničara ili vlasnika poslovnog udjela, uz izjavu da takva promjena nije prepreka učinkovitom izvršavanju nadzornih ovlasti Agencije, u roku od 8 radnih dana od nastale promjene,
+3. promjeni člana uprave odnosno poslovođe obrta odgovornim za obavljanje poslova distribucije osiguranja/reosiguranja, u roku od 8 radnih dana od nastale promjene,
+4. ugovor o osiguranju od profesionalne odgovornosti ili dokaza o odgovarajućem jamstvu, u roku od 8 dana od dana sklapanja ugovora, odnosno dobivanja jamstva.
+5. promjeni podataka osoba koje su uskoj povezanosti uz izjavu da takva promjena nije prepreka učinkovitom izvršavanju nadzornih ovlasti Agencije, u roku od 8 radnih dana od promjene.
+(2) Iznimno od odredbe stavka 1. točke 1. ovoga članka, društvo za zastupanje u osiguranju i društvo za brokerske poslove u osiguranju i/ili reosiguranju dužno je prije pripajanja obavijestiti Agenciju o namjeri pripajanja, u roku od 30 dana prije prijave pripajanja sudskom registru.
+(3) Odredbe stavka 1. točaka 3. i 4. ovoga članka na odgovarajući način primjenjuju se na kreditne institucije i druge pravne osobe koje na temelju dozvole obavljaju poslove distribucije osiguranja.
+(4) Društvo za zastupanje u osiguranju, obrtnik zastupnik u osiguranju, društvo za brokerske poslove u osiguranju, obrtnik broker u osiguranju, kreditne institucije i druge pravne osobe koje na temelju suglasnosti, odnosno dozvole za obavljanje poslova distribucije osiguranja obavljaju tu djelatnost dužni su na zahtjev Agencije dostaviti podatke o pritužbama ugovaratelja osiguranja, osiguranika ili korisnika iz ugovora o osiguranju, u skladu sa Smjernicama EIOPA-e koje uređuju postupanje s pritužbama od strane posrednika u osiguranju.
+(5) Podaci koji se Agenciji dostavljaju u skladu sa stavkom 4. ovoga članka su:
+1. razlozi pritužbe,
+2. pritužbe razvrstane po vrstama rizika osiguranja kako je definirano pravilnikom Agencije kojim se propisuje raspored vrsta rizika po skupinama i vrstama osiguranja odnosno reosiguranja i
+3. ime i prezime te e-mail adresa osobe ovlaštene za rješavanje pritužbi.
+(6) Razlozi pritužbe iz stavka 5. točke 1. ovoga članka se odnose na pritužbe s obzirom na:
+- djelatnost distribucije proizvoda osiguranja uz naznaku u vezi koje djelatnosti distribucije osiguranja iz članka 399. stavka 1. točke 1. Zakona o osiguranju podnositelj pritužbe podnosi pritužbu,
+- ostale razloge koji se ne mogu svrstati u prethodno navedenu kategoriju razloga pritužbi uz naznaku razloga takve pritužbe.
+(7) Obrtnik zastupnik u osiguranju, društvo za zastupanje u osiguranju, obrtnik broker u osiguranju te društvo za brokerske poslove u osiguranju koji namjeravaju obavljati poslove distribucije osiguranja u stanici za tehnički pregled vozila, dužni su 15 dana prije dana početka obavljanja poslova distribucije osiguranja na stanici za tehnički pregled vozila pisanim putem obavijestiti Agenciju o nazivu i adresi stanice za tehnički pregled vozila s naznakom vrste neživotnog osiguranja koju namjerava pružati na toj stanici.

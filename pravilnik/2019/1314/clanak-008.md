@@ -1,0 +1,4 @@
+# Članak 8.
+(1) Društvo za zastupanje u osiguranju, obrtnik zastupnik u osiguranju, obrtnik broker u osiguranju i/ili reosiguranju, društvo za brokerske poslove u osiguranju i/ili reosiguranju, sporedni posrednici i kreditne institucije i druge pravne osobe koje na temelju suglasnosti, odnosno dozvole za obavljanje poslova distribucije osiguranja obavljaju tu djelatnost i podružnica iz članka 6. ovog Pravilnika dostavljaju Agenciji dokumentaciju propisanu ovim Pravilnikom u izvorniku ili u preslici.
+(2) Adresati ovoga Pravilnika dužni su Agenciju, bez odgađanja, pisano obavijestiti o prestanku postojanja uvjeta na temelju kojih im je Agencija u skladu sa Zakonom o osiguranju izdala dozvolu ili ovlaštenje za rad.
+(3) Osim dokumentacije propisane ovim Pravilnikom, adresati ovoga Pravilnika dužni su dostaviti na zahtjev Agencije i drugu dokumentaciju za potrebe postupanja Agencije u skladu s njezinim ovlastima.

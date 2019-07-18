@@ -1,0 +1,4 @@
+# Članak 3.
+(1) Ako osoba koja je dobila odobrenje Agencije za stjecanje kvalificiranog udjela u Društvu namjerava otpustiti svoje dionice tako da bi se zbog toga njen udjel smanjio ispod granice za koju je dobila odobrenje, mora obavijestiti Agenciju, o načinu otpuštanja i namjeravanom stjecatelju tih dionica, najmanje 8 radnih dana prije namjeravanog otpuštanja.
+(2) Imatelj kvalificiranog udjela u Društvu dužan je bez odlaganja pisano obavijestiti Agenciju o prestanku ispunjenja uvjeta za imatelja kvalificiranog udjela i njegove suradnike iz članka 36. stavka 8. i 9. Zakona o osiguranju ili o postojanju drugih okolnosti koje utječu ili bi mogle utjecati na procjenu primjerenosti imatelja kvalificiranog udjela u smislu odredbi Zakona o osiguranju.
+(3) Društvo je dužno do 30. travnja tekuće godine dostaviti obavijest Agenciji o izvršenoj provjeri ispunjavanja uvjeta imatelja kvalificiranog udjela i njegovih suradnika iz stavka 2. ovoga članka.
