@@ -1,0 +1,9 @@
+# Članak 4.
+Članak 33. mijenja se i glasi:
+»Hrvatske vode obračunavaju i naplaćuju naknadu za zaštitu voda osobama koje ispuštaju otpadne vode u prirodni prijamnik ili sustav javne odvodnje, ako su u obvezi imati okolišnu dozvolu u skladu s propisima o zaštiti okoliša, odnosno vodopravnu dozvolu za ispuštanje otpadnih voda i ako imaju obvezu redovitog uzorkovanja i ispitivanja sastava otpadnih voda.
+Isporučitelji vodnih usluga obračunavaju i naplaćuju naknadu za zaštitu voda osobama:
+- koje ispuštaju otpadne vode u sustav javne odvodnje, osim osoba iz stavka 1. ovoga članka, uz cijenu vodne usluge javne odvodnje i
+- koje ispuštaju otpadne vode u prirodni prijamnik putem individualnog sustava javne odvodnje koji je priključen na sustav javne vodoopskrbe, osim osoba iz stavka 1. ovoga članka, uz cijenu vodne usluge javne vodoopskrbe.
+Naplaćene iznose naknade isporučitelji vodne usluge doznačuju Hrvatskim vodama u rokovima i na način određen propisom iz članka 76. ovoga Zakona kojim se uređuje obračunavanje i plaćanje naknade za zaštitu voda.
+Naknada za zaštitu voda iz stavka 1. ovoga članka obračunava se prema stvarnim podacima o osnovici i pokazateljima onečišćenja voda (konačni obračun), a može se obračunavati i po procijenjenim podacima o osnovici i pokazateljima onečišćenja voda (privremeni obračun) za razdoblje kraće od kalendarske godine. Naknada za zaštitu voda iz stavka 1. ovoga članka obračunava se rješenjem Hrvatskih voda po konačnom obračunu ili putem obračunskog lista koji sadržava obračunske elemente i uplatnicu, po privremenom obračunu.
+Naknada za zaštitu voda iz stavka 2. ovoga članka obračunava se putem računa isporučitelja vodne usluge i zasebno se iskazuje na računu. Za poslove iz stavka 2. ovoga članka isporučitelju vodne usluge pripada naknada u visini 5% naplaćene naknade za zaštitu voda.«.

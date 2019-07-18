@@ -1,0 +1,2 @@
+# Članak 15.
+U cijelom tekstu Zakona o financiranju vodnoga gospodarstva (»Narodne novine«, br. 153/09., 90/11., 56/13., 120/16. i 127/17.) riječi: »državni vodopravni inspektor« u određenom broju i padežu zamjenjuju se riječima: »vodopravni inspektor« u odgovarajućem broju i padežu, a riječi: »Državna vodopravna inspekcija« u određenom broju i padežu zamjenjuju se riječima: »središnje tijelo državne uprave nadležno za poslove vodopravne inspekcije« u odgovarajućem broju i padežu.

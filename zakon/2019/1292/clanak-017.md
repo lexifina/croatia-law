@@ -1,0 +1,2 @@
+# Članak 17.
+U roku od 30 mjeseci nakon stupanja na snagu ovoga Zakona javni isporučitelj vodnih usluga može koristiti do 20 % prikupljenih sredstava naknade za razvoj za pokriće troškova održavanja i pogona građevina za javnu odvodnju izgrađenih radi zaštite površinskih i podzemnih voda u zonama sanitarne zaštite, što uključuje i druge troškove koji se prema odredbama zakona kojim se uređuju vode podmiruju iz cijene vodne usluge.
