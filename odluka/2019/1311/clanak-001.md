@@ -1,0 +1,3 @@
+# Članak 1.
+U Odluci o uzajamnom priznavanju mjere makrobonitetne politike iz Preporuke Europskog odbora za sistemske rizike od 24. lipnja 2016. o izmjeni Preporuke ESRB/2015/2 o procjeni prekograničnih učinaka mjera makrobonitetne politike i o dobrovoljnoj uzajamnosti za mjere makrobonitetne politike (ESRB/2016/4) (u nastavku teksta: Odluka), u članku 2. stavak 2. mijenja se i glasi:
+»Iznimno od stavka 1. ovog članka, na kreditne institucije primjenjuje se izuzeće (de minimis) ako su njihove izloženosti smještene u Estoniji ispod praga značajnosti od 250.000.000,00 EUR (slovima: dvjestopedesetmilijunaeurainulacenti).«

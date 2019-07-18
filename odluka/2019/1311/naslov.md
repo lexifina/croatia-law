@@ -1,0 +1,1 @@
+Odluka o izmjeni Odluke o uzajamnom priznavanju mjere makrobonitetne politike iz Preporuke Europskog odbora za sistemske rizike od 24. lipnja 2016. o izmjeni Preporuke ESRB/2015/2 o procjeni prekograničnih učinaka mjera makrobonitetne politike i o dobrovoljnoj uzajamnosti za mjere makrobonitetne politike (ESRB/2016/4)
