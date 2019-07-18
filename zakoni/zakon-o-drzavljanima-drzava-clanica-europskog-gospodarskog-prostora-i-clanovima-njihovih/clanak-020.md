@@ -1,0 +1,7 @@
+## Potvrda o prijavi privremenog boravka državljanina države članice EGP-a u svrhu spajanja obitelji
+# Članak 20.
+(1) Članu obitelji državljanina države članice EGP-a koji ima državljanstvo države članice EGP-a izdat će se potvrda o prijavi privremenog boravka u svrhu spajanja obitelji ako ima valjanu osobnu iskaznicu ili putnu ispravu i:
+1. isprave kojima dokazuje da je član obitelji iz članka 4. stavka 1. ovoga Zakona ili
+2. odgovarajuće isprave kojima dokazuje da je zbog svoje materijalne i socijalne situacije u državi iz koje dolazi u osiguranju osnovnih potreba ovisan o državljaninu države članice EGP-a ili da je član njegova kućanstva ili da mu je zbog ozbiljnih zdravstvenih razloga potrebna osobna skrb državljanina države članice EGP-a ako je član obitelji iz članka 4. stavka 2. ovoga Zakona.
+(2) Potvrda o prijavi privremenog boravka u svrhu spajanja obitelji s državljaninom EGP-a koji ima prijavljen privremeni boravak u svrhu studiranja izdat će se članu obitelji iz članka 4. stavka 1. točaka 1., 2., 3. i 4. ovoga Zakona i životnom ili neformalnom životnom partneru.
+(3) Srodniku po krvi u uspravnoj liniji ushodno državljanina države članice EGP-a ili njegova bračnog ili izvanbračnog druga ili životnog ili neformalnog životnog partnera može se izdati potvrda o prijavi privremenog boravka u svrhu spajanja obitelji s državljaninom EGP-a koji ima prijavljen privremeni boravak u svrhu studiranja ako su ispunjeni uvjeti iz članka 4. stavka 2. točaka 1., 2. ili 3. ovoga Zakona.

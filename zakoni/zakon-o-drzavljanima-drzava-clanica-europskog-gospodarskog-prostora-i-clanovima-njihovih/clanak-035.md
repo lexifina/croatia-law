@@ -1,0 +1,4 @@
+## Obveze državljanina države članice EGP-a i člana njegove obitelji vezane uz isprave
+# Članak 35.
+(1) Punoljetni državljanin države članice EGP-a i punoljetni član njegove obitelji koji nije državljanin države članice EGP-a dužni su imati kod sebe valjanu stranu osobnu iskaznicu ili stranu putnu ispravu, drugu javnu ispravu koja sadrži fotografiju ili boravišnu iskaznicu ako su je dužni imati sukladno odredbama ovoga Zakona i dati je na uvid osobama koje su na temelju posebnih propisa u obavljanju poslova iz svoje nadležnosti ovlaštene obaviti uvid u putnu ispravu ili osobnu iskaznicu.
+(2) Punoljetni državljanin države članice EGP-a i punoljetni član njegove obitelji koji nije državljanin države članice EGP-a ne smije svoju ispravu dati drugome da se njome služi kao svojom, niti se služiti tuđom ispravom kao svojom.

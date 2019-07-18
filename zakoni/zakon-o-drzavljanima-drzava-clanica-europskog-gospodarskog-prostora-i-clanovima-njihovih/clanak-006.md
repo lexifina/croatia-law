@@ -1,0 +1,6 @@
+## Prava državljanina države članice EGP-a i člana njegove obitelji
+# Članak 6.
+(1) Državljanin države članice EGP-a i član njegove obitelji, bez obzira na to je li član obitelji državljanin države članice EGP-a ili ne, a imaju pravo boravka u Republici Hrvatskoj, izjednačeni su u pravima s državljanima Republike Hrvatske u okviru odredbi Ugovora o funkcioniranju Europske unije.
+(2) Državljanin države članice EGP-a i član njegove obitelji mogu u Republici Hrvatskoj raditi bez dozvole za boravak i rad odnosno bez potvrde o prijavi rada koje se izdaju sukladno propisu kojim se uređuje boravak državljana trećih zemalja.
+(3) Republika Hrvatska dopušta ulazak u Republiku Hrvatsku bez ikakvih formalnosti hrvatskim državljanima koji su protjerani iz druge države članice EGP-a jer predstavljaju opasnost za javni poredak, javnu sigurnost ili javno zdravlje, čak i ako putovnica ili osobna iskaznica više nije važeća ili je državljanstvo imatelja isprave sporno.
+(4) Državljanin države članice EGP-a i član njegove obitelji, bez obzira na državljanstvo, po reguliranju privremenog ili stalnog boravka odnosno ishođenju boravišne iskaznice za člana obitelji državljanina Unije, dužni su regulirati zdravstveno osiguranje sukladno propisu kojim se uređuje zdravstveno osiguranje stranih državljana.
