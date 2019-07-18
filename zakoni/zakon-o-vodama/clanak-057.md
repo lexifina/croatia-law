@@ -1,0 +1,6 @@
+## Utvrđivanje ranjivih područja
+# Članak 57.
+(1) Ranjiva područja su područja na kojima je potrebno provesti pojačane mjere zaštite voda od onečišćenja nitratima poljoprivrednog porijekla.
+(2) Radi postizanja opće razine zaštite od onečišćenja nitratima svih tijela površinskih, uključujući i priobalnih te podzemnih voda, primjenjuju se načela dobre poljoprivredne prakse u skladu s propisima o poljoprivredi za čiju primjenu se mogu donijeti odgovarajuće poticajne mjere.
+(3) Za ranjiva područja ministar nadležan za poljoprivredu donosi akcijske programe s obveznim mjerama za razdoblje od četiri godine. Detaljan sadržaj akcijskog programa kojim se predviđa poduzimanje obveznih mjera propisuje ministar nadležan za poljoprivredu pravilnikom. Akcijskim programom određuju se i obveznici primjene mjera. Obveznici primjene mjera dužni su primjenjivati mjere iz akcijskog programa.
+(4) Uredbu o određivanju ranjivih područja iz stavka 1. ovoga članka donosi Vlada Republike Hrvatske sukladno kriterijima propisa iz članka 47. stavka 1. ovoga Zakona i na temelju provedenoga monitoringa. Uredbom se propisuje i obveza monitoringa koncentracija nitrata poljoprivrednog podrijetla u površinskim i podzemnim vodama u ranjivim područjima. Ova uredba se preispituje najmanje svake četiri godine te po potrebi mijenja i/ili dopunjuje.

@@ -1,0 +1,3 @@
+## Rok za postizanje ciljeva zaštite voda
+# Članak 243.
+Ciljevi dobrog stanja površinskih voda, dobrog ekološkog potencijala i dobrog kemijskog stanja površinskih voda, dobrog stanja podzemnih voda te suglasnost sa svim standardima i ciljevima primjenjivim na zaštićena područja postižu se do roka iz članka 4. stavka 1. točaka (a) (ii) i (iii), (b) (ii) i (c) Direktive 2000/60/EZ Europskog parlamenta i Vijeća od 23. listopada 2000. o uspostavi okvira za djelovanje Zajednice u području vodne politike (SL L 327, 22. 12. 2000.), sukladno pretpostavkama iz tih odredbi, osim ako su rokovi za postizanje ciljeva zaštite voda produženi sukladno odredbi propisa iz članka 47. stavka 1. ovoga Zakona.

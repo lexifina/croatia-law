@@ -1,0 +1,8 @@
+## Eksploatacija šljunka i pijeska
+# Članak 110.
+(1) Eksploatacija šljunka i pijeska vađenjem iz obnovljivih ležišta u vodotocima i drugim tijelima površinskih voda može se dopustiti putem ugovora o koncesiji iz članka 177. stavka 1. točke 5. ovoga Zakona ako pridonosi održavanju voda ili vodnih putova na unutarnjim vodama.
+(2) Za provedbu zahvata u prostoru iz stavka 1. ovoga članka provodi se odgovarajuća procjena utjecaja na okoliš odnosno ocjena prihvatljivosti za ekološku mrežu prema posebnim propisima, osim čišćenja korita rijeka radi povećanja kapaciteta apsorpcije oborinskih voda u daljem slijedu sprečavanja poplava i održavanja njihova plovnog puta, te u slučajevima zaštite i spašavanja ljudi, životinja, materijalnih i kulturnih dobara i okoliša u poplavama te prilikom otklanjanja posljedica poplava, u slučajevima žurne i neodgodive provedbe mjera obrane od poplava prema posebnim propisima. U tom postupku u svojstvu stranke mogu nastupiti Hrvatske vode ili središnje tijelo državne uprave nadležno za plovidbu unutarnjim vodama ovisno o nadležnosti s obzirom na područje zahvata.
+(3) Zabranjena je eksploatacija šljunka i pijeska u uređenom inundacijskom području.
+(4) Ako je propisima o rudarstvu dopuštena eksploatacija šljunka i pijeska u neuređenom inundacijskom području, za nju je potrebna prethodna suglasnost Ministarstva.
+(5) Šljunak, pijesak, kamen i zemlja, uključujući glinu mogu se koristiti iz područja značajnih za vodni režim radi građenja građevina iz članka 30. stavaka 1. i 2. ovoga Zakona, bez ishođenja akata prema propisima o rudarstvu, sukladno vodopravnim uvjetima.
+(6) Odredbe ovoga Zakona koje se odnose na šljunak i pijesak odnose se i na kamen te zemlju, uključujući glinu.

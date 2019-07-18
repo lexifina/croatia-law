@@ -1,0 +1,4 @@
+## Pojas za održavanje
+# Članak 139.
+(1) Uz građevine detaljne melioracijske odvodnje i građevine za navodnjavanje uspostavlja se pojas u širini od tri metra od vanjskoga ruba te građevine koji služi održavanju građevine (u daljnjem tekstu: pojas za održavanje). U pojasu za održavanje poljoprivredna proizvodnja se obavlja na rizik vlasnika odnosno zakonitoga posjednika zemljišta.
+(2) Izvođač usluga održavanja u obvezi je dogovoriti vrijeme održavanja i mjesta pristupa građevinama iz stavka 1. ovoga članka s vlasnikom odnosno zakonitim posjednikom susjednoga zemljišta, koji je dužan omogućiti pristup u dobroj vjeri i u razumnom roku. Ako se dogovor ne postigne, izvođač je ovlašten pristupiti građevinama iz stavka 1. ovoga članka i izvesti održavanje, na način kojim se čini najmanja šteta vlasniku odnosno zakonitom posjedniku susjednoga zemljišta.

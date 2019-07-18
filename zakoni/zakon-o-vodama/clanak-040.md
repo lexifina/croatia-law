@@ -1,0 +1,3 @@
+## Propis o sadržaju Plana upravljanja vodnim područjima
+# Članak 40.
+Ministar donosi pravilnik o sadržaju Plana upravljanja vodnim područjima kojim uređuje detaljniji sadržaj Plana upravljanja vodnim područjima, metodologiju za analizu značajki vodnoga područja iz članka 51. ovoga Zakona, uključujući i sadržaj ekonomske analize korištenja voda, sadržaj programa mjera, uključujući osnovne i dopunske mjere iz članka 53. ovoga Zakona, sadržaj podataka o nadležnim tijelima za provedbu ovoga Zakona i o nadležnim tijelima svih međunarodnih tijela u kojima sudjeluje Republika Hrvatska u provedbi odredbi ovoga Zakona, kao i obvezu izrade izvještaja o planiranim radnjama za provedbu načela povrata troškova od vodnih usluga.

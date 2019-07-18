@@ -1,0 +1,3 @@
+## Mandat članova Nacionalnoga vijeća za vode
+# Članak 242.
+U roku od šest mjeseci od dana stupanja na snagu ovoga Zakona Hrvatski sabor će razriješiti predsjednika i članove Nacionalnog vijeća za vode koji su imenovani na temelju Zakona o vodama (»Narodne novine«, br. 153/09., 63/11., 130/11., 56/13. i 14/14.) te imenovati predsjednika i članove Nacionalnog vijeća za vode u skladu s ovim Zakonom. Predsjedniku i članovima Nacionalnog vijeća za vode koji su imenovani na temelju Zakona o vodama (»Narodne novine«, br. 153/09., 63/11., 130/11., 56/13. i 14/14.) nastavlja teći mandat do razrješenja.

@@ -1,0 +1,14 @@
+## Javno vodno dobro
+# Članak 12.
+(1) Javno vodno dobro čine katastarske čestice iz članka 9. ovoga Zakona koje su do dana stupanja na snagu Zakona o vodama (»Narodne novine«, br. 107/95.) bile temeljem zakona ili temeljem bilo koje druge pravne osnove: opće dobro, javno dobro, javno vodno dobro, vodno dobro, javno dobro – vode, općenarodna imovina, opće dobro i sl., državno vlasništvo, vlasništvo jedinice lokalne samouprave, društveno vlasništvo bez obzira tko je bio nositelj prava korištenja, upravljanja ili raspolaganja odnosno koje su u zemljišnoj knjizi bile upisane kao: javno dobro, javno vodno dobro, vodno dobro, javno dobro – vode, općenarodna imovina, opće dobro i sl., državno vlasništvo, vlasništvo jedinice lokalne samouprave, društveno vlasništvo s naznakom ili bez naznake nositelja prava korištenja, upravljanja ili raspolaganja.
+(2) Korita prirodnih površinskih voda su javno vodno dobro neovisno o tom tko je u zemljišnoj knjizi upisan kao njihov vlasnik.
+(3) Javnim vodnim dobrom smatraju se sve do dokaza suprotnog i one katastarske čestice iz članka 9. ovoga Zakona koje do dana stupanja na snagu ovoga Zakona nisu bile upisane u zemljišnoj knjizi odnosno koje su bile upisane u zemljišnu knjigu, ali nitko nije naznačen kao njihov vlasnik.
+(4) Javnim vodnim dobrom postaju i one katastarske čestice iz članka 9. ovoga Zakona koje se izvlaste ili otkupe u korist Republike Hrvatske.
+(5) Javnim vodnim dobrom postaju i katastarske čestice iz članka 9. ovoga Zakona za koje nisu ispunjene ostale pretpostavke iz stavaka 1. i 3. ovoga članka, na kojima se planiraju graditi vodne građevine za proizvodnju električne energije.
+(6) Prostor javnog vodnog dobra se proširuje na zemljište na kojem se planiraju graditi odvodni i dovodni kanali te odvodni i dovodni tuneli, koji zajedno s vodnom građevinom za proizvodnju električne energije koja se gradi na zemljištu iz stavaka 1., 3. i 5. ovoga članka čine jedinstven sustav.
+(7) Investitor vodnih građevina za proizvodnju električne energije dužan je otkupiti i izvlastiti katastarske čestice iz stavaka 5. i 6. ovoga članka u ime i za račun Republike Hrvatske na teret vlastitih sredstava. Katastarske čestice iz stavaka 5. i 6. ovoga članka postaju javno vodno dobro u trenutku izvršnosti rješenja iz članka 11. stavka 2. ovoga Zakona.
+(8) Javno vodno dobro je javno dobro u općoj uporabi odnosno u javnoj uporabi sukladno članku 15. stavku 2. ovoga Zakona i u vlasništvu je Republike Hrvatske.
+(9) Javno vodno dobro je neotuđivo.
+(10) Na javnom vodnom dobru druga osoba ne može steći pravo vlasništva niti drugo stvarno pravo, osim prava služnosti i prava građenja u skladu s ovim Zakonom.
+(11) Pravni poslovi sklopljeni protivno stavku 10. ovoga članka su ništetni.
+(12) Osoba koja neovlašteno koristi javno vodno dobro ne može ostvariti posjedovnu zaštitu.

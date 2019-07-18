@@ -1,0 +1,4 @@
+# Članak 175.
+(1) Jedinica lokalne samouprave izdaje posebne uvjete priključenja na građevine urbane oborinske odvodnje sukladno odluci o odvodnji otpadnih voda u postupcima ishođenja lokacijske dozvole ili građevinske dozvole koja se izdaje bez lokacijske dozvole koji se vode prema propisima o prostornom uređenju i gradnji.
+(2) Javni isporučitelj vodnih usluga na kojeg je jedinica lokalne samouprave sukladno zakonu kojim se uređuju vodne usluge prenijela nadležnost upravljanja projektom gradnje građevina urbane oborinske odvodnje, obavlja i poslove izdavanja posebnih uvjeta iz stavka 1. ovoga članka.
+(3) Izdavatelj posebnih uvjeta priključenja na građevine urbane oborinske odvodnje izdaje i potvrdu o sukladnosti s posebnim uvjetima priključenja. Na izdavanje potvrde primjenjuju se odredbe članka 174. stavka 3. ovoga Zakona.

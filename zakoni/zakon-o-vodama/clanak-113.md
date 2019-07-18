@@ -1,0 +1,10 @@
+## Očevidnik vađenja šljunka i pijeska
+# Članak 113.
+(1) Izvođač iz članka 112. stavka 1. ovoga Zakona dužan je dnevno voditi očevidnik vađenja šljunka i pijeska, na propisanom obrascu.
+(2) Sastavni dio očevidnika su potvrđene geodetske snimke, analiza granulometrijskog sastava nanosa i elaborat iz članka 112. stavaka 4., 5. i 6. ovoga Zakona.
+(3) Obveza vođenja očevidnika nastupa u trenutku kad se šljunak i pijesak izvade na plovilo, a prestaje primopredajom naručitelju iz članka 112. stavka 1. ovoga Zakona ili primopredajom na deponij iz članka 114. ovoga Zakona.
+(4) Izvođač iz članka 112. stavka 1. ovoga Zakona dužan je jednom dnevno, na propisanom obrascu, prijaviti podatke iz stavka 1. ovoga članka Hrvatskim vodama, drugom naručitelju radova iz članka 112. stavka 1. ovoga Zakona i središnjem tijelu državne uprave nadležnom za inspekcijske poslove u području vodnoga gospodarstva.
+(5) Prijava se podnosi elektroničkom poštom ili putem telefaksa.
+(6) Hrvatske vode u elektroničkom obliku vode registar dostavljenih prijava iz stavka 4. ovoga Zakona.
+(7) Na koncesionara koncesije iz članka 177. stavka 1. točke 5. ovoga Zakona primjenjuju se, na odgovarajući način, odredbe stavaka 1. i 2. i stavaka 4., 5. i 7. ovoga članka. Obveza koncesionara na vođenje očevidnika nastupa u trenutku kad se šljunak i pijesak izvade na plovilo, a prestaje odlaganjem na deponij ili na drugo mjesto izvan vodotoka.
+(8) Pravilnik o obliku i sadržaju očevidnika, načinu vođenja očevidnika, rokovima čuvanja očevidnika, obliku i sadržaju obrasca iz stavka 4. ovoga članka te metodologiji izrade geodetskih snimki, analize granulometrijskog sastava odnosno elaborata iz članka 112. stavaka 4., 5. i 6. ovoga Zakona donosi ministar. Sadržaj očevidnika obvezatno uključuje: datume vađenja, mjesta vađenja, izvađene količine, razmještene količine i mjesta razmještanja, deponirane količine i mjesta deponiranja. Ako se šljunak i pijesak koriste za namjene iz članka 115. stavka 1. podstavka 2. ovoga Zakona, neposredno nakon njihova vađenja, sadržaj očevidnika obvezatno uključuje količine i namjene za koje je iskorišten.

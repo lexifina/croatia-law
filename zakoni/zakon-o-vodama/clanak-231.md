@@ -1,0 +1,4 @@
+## Upis vodnih građevina i korita prirodnih površinskih voda koja su upisana u katastru, ali nisu upisana u zemljišnoj knjizi
+# Članak 231.
+(1) Regulacijske i zaštitne vodne građevine izgrađene do stupanja na snagu ovoga Zakona i građevine za osnovnu melioracijsku odvodnju, izgrađene do stupanja na snagu ovoga Zakona, koje su upisane u katastru, a nisu upisane u zemljišnoj knjizi, kao i korita prirodnih površinskih voda, koja su upisana u katastru, a nisu upisana u zemljišnoj knjizi, upisuju se u zemljišne knjige kao javno vodno dobro u vlasništvu Republike Hrvatske, sukladno članku 12. ovoga Zakona, neovisno o tome tko je upisan kao njihov vlasnik.
+(2) Upis iz stavka 1. ovoga članka provest će općinski sud, i to: za građevine iz stavka 1. ovoga članka na temelju potvrde iz članka 29. ovoga Zakona i odgovarajućeg geodetskog elaborata, a za korita prirodnih površinskih voda na temelju odgovarajućeg geodetskog elaborata.
