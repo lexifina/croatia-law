@@ -1,0 +1,1 @@
+Na temelju članka 257. stavka 3., članka 265. stavka 4. i članka 275. stavka 3. Zakona o tržištu kapitala (»Narodne novine« broj 65/18), Hrvatska agencija za nadzor financijskih usluga je, na sjednici Upravnog vijeća održanoj 28. lipnja 2019., donijela
