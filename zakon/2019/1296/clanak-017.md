@@ -1,0 +1,5 @@
+# Članak 17.
+Članak 72. mijenja se i glasi:
+»Policijskog službenika može se po potrebi službe premjestiti na slobodno radno mjesto iste ili više složenosti poslova za koje ispunjava uvjete, vodeći računa o njegovu stručnom znanju, vještinama i sposobnostima, u istoj ili drugoj ustrojstvenoj jedinici, u istom ili drugom mjestu rada.
+Policijskog službenika može se po potrebi službe premjestiti na slobodno radno mjesto niže složenosti poslova u okviru istog stupnja obrazovanja ako je za prethodnu kalendarsku godinu ocijenjen ocjenom »zadovoljava«, vodeći računa o njegovu stručnom znanju, vještinama i sposobnostima, u istoj ili drugoj ustrojstvenoj jedinici, u istom ili drugom mjestu rada.
+Premještaj po potrebi službe temelji se na slobodnoj ocjeni o potrebi da se policijskog službenika premjesti na drugo radno mjesto zbog potrebe popunjavanja radnog mjesta na kojem se poslovi moraju obavljati u kontinuitetu ili zbog povećanja broja izvršitelja zbog povećanog opsega posla, zbog bolje organizacije rada ili potrebe za angažiranjem drugog policijskog službenika na određenom radnom mjestu radi pravodobnog ili efikasnijeg obavljanja određenih poslova i zadataka.«.
