@@ -1,0 +1,6 @@
+## Prihvat komunalnih otpadnih voda i otpadnog mulja na uređaj za pročišćavanje industrijskih otpadnih voda
+# Članak 53.
+(1) Isporučitelj vodnih usluga može isporučiti komunalne otpadne vode i/ili otpadni mulj osobi koja pročišćava vlastite industrijske otpadne vode radi daljnje odvodnje, pročišćavanja i ispuštanja odnosno daljnje oporabe i zbrinjavanja otpadnog mulja.
+(2) O prihvatu vode i/ili otpadnog mulja iz stavka 1. ovoga članka sklapa se ugovor kojim se uređuje i cijena te isporuke.
+(3) Cijena prihvata komunalnih otpadnih voda radi daljnje odvodnje, pročišćavanja i ispuštanja ne može biti veća od razumnog troška provoda voda kroz građevine za odvodnju otpadnih voda i troška pročišćavanja i ispuštanja pročišćenih otpadnih voda, a cijena daljnje oporabe i zbrinjavanja otpadnog mulja ne može biti veća od razumnog troška daljnje oporabe i zbrinjavanja otpadnog mulja. U oba slučaja cijena može sadržavati i razumnu maržu sukladnu načelima iz članka 5. stavka 5. ovoga Zakona.
+(4) Nezadovoljna strana ugovora iz stavka 2. ovoga članka ima pravo tražiti da sud u parničnom postupku izmijeni ugovorenu cijenu prihvata otpadne vode i/ili otpadnog mulja. Do odluke suda nezadovoljna strana može tražiti da Vijeće za vodne usluge privremenom mjerom odredi cijenu prihvata otpadne vode odnosno otpadnog mulja.

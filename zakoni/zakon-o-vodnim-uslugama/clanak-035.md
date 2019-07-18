@@ -1,0 +1,5 @@
+## Vrednovanje učinkovitosti poslovanja
+# Članak 35.
+(1) Isporučitelji vodnih usluga dužni su prikupljati podatke o učinkovitost svog poslovanja, dostavljati Vijeću za vodne usluge podatke o učinkovitosti svog poslovanja i o tome izvještavati sukladno propisu iz stavka 3. ovoga članka.
+(2) Vijeće za vodne usluge vodi zbirku podataka o mjerilima i pokazateljima učinkovitosti poslovanja isporučitelja vodnih usluga te ih objavljuje, ako je to propisano. Ministarstvo ima stalan i neograničen pristup zbirci podataka o učinkovitosti poslovanja isporučitelja vodnih usluga.
+(3) Vlada Republike Hrvatske donosi uredbu o vrednovanju učinkovitosti poslovanja isporučitelja vodnih usluga. Uredbom se propisuju mjerila i pokazatelji učinkovitosti poslovanja, način prikupljanja i dostave podataka za izračun pokazatelja, način mjerenja, vrednovanja i izvještavanja o učinkovitosti poslovanja te vođenje zbirke podataka. Uredbom se može odrediti i obveza objave podataka o učinkovitosti poslovanja isporučitelja vodnih usluga.

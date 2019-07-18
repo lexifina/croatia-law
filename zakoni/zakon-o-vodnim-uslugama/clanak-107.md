@@ -1,0 +1,4 @@
+## Obveza revizije u prijelaznom razdoblju
+# Članak 107.
+(1) Revizija iz članka 36. ovoga Zakona obuhvaća i poslovnu godinu koja prethodi stupanju na snagu ovoga Zakona.
+(2) Do stupanja na snagu uredbe iz članka 43. stavka 5. ovoga Zakona isporučitelji vodnih usluga dužni su sukladno pravilima o reviziji financijskih izvještaja, putem ovlaštenog revizora, jednom godišnje, revidirati svoje financijske izvještaje prema mjerilima propisanim Uredbom o mjerilima ekonomičnog poslovanja isporučitelja vodnih usluga (»Narodne novine«, br. 112/10.) i Uredbom o najnižoj osnovnoj cijeni vodnih usluga i vrsti troškova koja cijena vodnih usluga pokriva (»Narodne novine«, br. 112/10.). Isporučitelj je dužan dostaviti Vijeću za vodne usluge svoje financijske izvještaje te nalaz i mišljenje ovlaštenog revizora iz ovoga stavka do 30. travnja tekuće godine za prethodnu godinu.

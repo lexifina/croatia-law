@@ -1,0 +1,7 @@
+## Uvjeti imenovanja člana Vijeća za vodne usluge
+# Članak 69.
+(1) Članom Vijeća za vodne usluge može biti imenovan poslovno sposoban državljanin Republike Hrvatske s prebivalištem u Republici Hrvatskoj, koji ima najmanje završen preddiplomski i diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij u području prirodnih, tehničkih, biotehničkih i društvenih znanosti, u poljima ekonomije i prava te najmanje pet godina rada u struci od čega najmanje tri godine u djelatnosti vodnih usluga, upravljanja vodama, uključujući rad u državnoj upravi na poslovima vodnoga gospodarstva ili rad u jedinicama lokalne samouprave na poslovima komunalnih djelatnosti te gospodarstva i javnih financija i dostojan je biti članom Vijeća za vodne usluge.
+(2) Najmanje tri člana Vijeća za vodne usluge moraju imati najmanje pet godina rada u djelatnosti vodnih usluga, djelatnosti upravljanja vodama, uključujući rad u državnoj upravi na poslovima vodnoga gospodarstva ili rad u jedinicama lokalne samouprave na poslovima komunalnih djelatnosti te položen ili zakonski priznat državni stručni ispit ili pravosudni ispit.
+(3) Predsjednik, potpredsjednik i tajnik Vijeća za vodne usluge imenuju se iz reda članova iz stavka 2. ovoga članka.
+(4) Dužnost predsjednika, potpredsjednika i tajnika Vijeća za vodne usluge obavlja se kao jedino zanimanje.
+(5) Članovi Vijeća za vodne usluge imenuju se temeljem javnog poziva. Postupak javnog poziva i utvrđenja postojanja uvjeta imenovanja provodi Ministarstvo.

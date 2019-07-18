@@ -1,0 +1,5 @@
+## Protupravno priključenje
+# Članak 62.
+(1) Javni isporučitelj dužan je isključiti protupravnog korisnika ili ozakoniti protupravno priključenje na komunalne vodne građevine te odrediti naknadu za protupravno priključenje, sve u skladu s općim uvjetima isporuke vodnih usluga u roku ne duljem od tri godine od stupanja na snagu općih uvjeta isporuke vodnih usluga.
+(2) Javni isporučitelj će naplatiti protupravnom korisniku naknadu za protupravno priključenje, počevši od trenutka protupravnog priključenja odnosno ako trenutak protupravnog priključenja nije odrediv, od trenutka saznanja za protupravno priključenje, ali najviše za pet godina protupravnog priključenja koje je prethodilo saznanju za protupravno priključenje.
+(3) Naknada za protupravno priključenje ne može biti veća od one obračunane primjenom tarife vodne usluge važeće u vrijeme obračuna naknade, a prema procijenjenoj potrošnji vode usporedive kategorije korisnika uvećanoj za koeficijent 1,5. Naknada za protupravno priključenje prihod je javnog isporučitelja vodnih usluga, a za istu se ispostavlja zaseban račun.

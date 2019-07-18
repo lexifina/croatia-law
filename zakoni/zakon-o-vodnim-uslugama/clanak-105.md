@@ -1,0 +1,5 @@
+## Određivanje cijene vodne usluge javne vodoopskrbe drugim isporučiteljima
+# Članak 105.
+(1) Javni isporučitelj vodnih usluga koji, u trenutku ili nakon stupanja na snagu ovoga Zakona, pruža vodnu uslugu javne vodoopskrbe drugom isporučitelju, neovisno o tom kojim je aktom ta isporuka uređena, dužan je u roku do 90 dana od dana stupanja na snagu uredbe iz članka 74. stavka 3.ovoga Zakona zatražiti suglasnost od Vijeća za vodne usluge na zasebnu odluku o cijeni vodnih usluga iz članka 47. stavka 4. ovoga Zakona.
+(2) Stupanjem na snagu zasebne odluke o cijeni vodnih usluga iz članka 47. stavka 4. ovoga Zakona cijena vodne usluge javne vodoopskrbe drugim isporučiteljima može se za buduća obračunska razdoblja obračunavati i naplaćivati isključivo na temelju odluke iz članka 47. stavka 4.ovoga Zakona.
+(3) Dok se cijena vodne usluge posebne isporuke vode ne odredi sukladno članku 47. stavku 4. ovoga Zakona, bilo koja strana u odnosu međusobne isporuke vode za ljudsku potrošnju može zatražiti da Vijeće za vodne usluge privremenom odlukom o cijeni vodne usluge odredi cijenu vodne usluge javne vodoopskrbe drugim isporučiteljima.

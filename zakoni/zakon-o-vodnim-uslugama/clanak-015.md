@@ -1,0 +1,7 @@
+## Upravljanje u djelatnosti navodnjavanja
+# Članak 15.
+(1) Jedinica područne (regionalne) samouprave ovlaštena je izravno prenijeti poslove upravljanja projektom gradnje građevina za navodnjavanje i na javnog isporučitelja vodnih usluga i uz njegov pristanak ako on ispunjava posebne uvjete propisane propisima o poslovima i djelatnostima u prostornom uređenju i gradnji.
+(2) Prijenos iz stavka 1. ovoga članka može obuhvatiti i poslove upravljanja izgrađenim građevinama za navodnjavanje ili samo poslove neposrednog održavanja građevina za navodnjavanje. Ako se prenose poslovi upravljanja izgrađenim građevinama za navodnjavanje ili poslovi neposrednog održavanja građevine, javni isporučitelj vodnih usluga mora ispunjavati i posebne uvjete iz zakona kojim se uređuju vode.
+(3) Javni isporučitelj vodnih usluga ne može prihvatiti prijenos iz stavaka 1. i 2. ovoga članka ako za te poslove nisu osigurana sredstva u proračunu jedinice područne (regionalne) samouprave.
+(4) O prijenosu iz stavka 1. ovoga članka sklapa se ugovor, najkraće na četiri godine, koji sadržava i plan građenja i održavanja tih građevina te sredstva za financiranje radova.
+(5) Javni isporučitelj vodnih usluga odgovara za štetu trećim osobama ako ugovoreni radovi za koje su osigurana sredstva u proračunu jedinice područne (regionalne) samouprave nisu izvedeni ili ako postoje bitni nedostatci u izvedenim radovima. U svim drugim slučajevima odgovornost ima jedinica područne (regionalne) samouprave.

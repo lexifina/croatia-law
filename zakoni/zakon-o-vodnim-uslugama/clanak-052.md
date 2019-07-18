@@ -1,0 +1,9 @@
+## Prihvat komunalnih otpadnih voda i otpadnog mulja od drugog isporučitelja vodnih usluga
+# Članak 52.
+(1) Isporučitelj vodnih usluga može prihvatiti komunalne otpadne vode od drugog isporučitelja vodnih usluga radi daljnje odvodnje, pročišćavanja i ispuštanja ili procjedne vode od isporučitelja javne usluge gospodarenja otpadom pod uvjetom da te vode po sastavu odgovaraju komunalnim otpadnim vodama.
+(2) Isporučitelj vodnih usluga dužan je prihvatiti komunalne otpadne vode od drugog isporučitelja vodnih usluga radi daljnje odvodnje, pročišćavanja i ispuštanja ako drugi isporučitelj nema mogućnost pročišćavanja komunalnih otpadnih voda, a prvi isporučitelj raspolaže odgovarajućim resursima za to. U slučaju odbijanja prihvata Ministarstvo će, prema načelu svrsishodnosti, odrediti isporučitelja vodnih usluga koji će prihvatiti komunalne otpadne vode drugog isporučitelja vodnih usluga.
+(3) Cijena prihvata komunalnih otpadnih voda radi daljnje odvodnje, pročišćavanja i ispuštanja ne može biti veća od razumnog troška provoda voda kroz građevine za odvodnju otpadnih voda i troška pročišćavanja i ispuštanja pročišćenih otpadnih voda.
+(4) Cijenu iz stavka 3. ovoga članka određuje isporučitelj koji prihvaća komunalne otpadne vode odlukom zasebnom od odluke o cijeni vodnih usluga, uz prethodnu suglasnost Vijeća za vodne usluge.
+(5) Isporučitelj vodnih usluga dužan je prihvatiti otpadni mulj od drugog isporučitelja vodnih usluga radi daljnje oporabe i zbrinjavanja ako raspolaže odgovarajućim resursima za to.
+(6) Cijena daljnje oporabe i zbrinjavanja otpadnog mulja ne može biti veća od razumnog troška daljnje oporabe i zbrinjavanja otpadnog mulja. Na određivanje ove cijene primjenjuje se odredba stavka 4. ovoga članka.
+(7) Cijena prekograničnog prihvata komunalnih otpadnih voda radi daljnje odvodnje, pročišćavanja i ispuštanja uređuje se ugovorom po tržišnim načelima.

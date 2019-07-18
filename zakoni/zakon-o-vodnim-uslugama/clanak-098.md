@@ -1,0 +1,4 @@
+## Cijena vodne usluge pročišćavanja otpadnih voda
+# Članak 98.
+(1) Koncesionar donosi odluku o cijeni vodne usluge pročišćavanja otpadnih voda, koja stupa na snagu uz suglasnost gradonačelnika odnosno općinskog načelnika jedinice lokalne samouprave – davatelja koncesije. Gradonačelnik odnosno općinski načelnik dužan je izdati suglasnost, obrazloženo odbiti izdavanje ili zatražiti izmjene i dopune u roku od 40 dana od podnošenja obrazloženog zahtjeva koncesionara. Na odluku o cijeni vodne usluge iz ovoga stavka primjenjuju se članak 68. stavak 1. točka 4. i stavak 3. ovoga Zakona.
+(2) Iz cijene vodne usluge i naknade za razvoj može se financirati cijena usluge koncesionara koja uključuje najviše 15 % dobiti nakon oporezivanja. Iz cijene vodne usluge i naknade za razvoj ne mogu se financirati troškovi gradnje i održavanja građevine koja nije komunalna vodna građevina. Provedba ove odredbe uređuje se propisom iz članka 43. stavka 5. ovoga Zakona.

@@ -1,0 +1,5 @@
+## Financiranje gradnje komunalnih vodnih građevina od strane budućih korisnika
+# Članak 61.
+(1) Kada gradnja određene komunalne vodne građevine nije predviđena godišnjim planom gradnje komunalnih vodnih građevina, ali je predviđena višegodišnjim programom gradnje komunalnih vodnih građevina unutar iduće četiri godine, budući korisnici vodnih usluga koji bi se priključili na te građevine mogu sudjelovati u financiranju njihove gradnje, uz povrat uloženih sredstava u određenom roku, pod uvjetima utvrđenim ugovorom s isporučiteljem vodne usluge.
+(2) Sredstva iz stavka 1. ovoga članka uplaćuju se na račun isporučitelja vodnih usluga, a rok povrata sredstava ne može biti dulji od pet godina od dana sklapanja ugovora.
+(3) Budući korisnici vodnih usluga koji bi se priključili na komunalne vodne građevine, za koje nisu ispunjene pretpostavke iz stavka 1. ovoga članka, mogu sudjelovati u financiranju njihove gradnje, pod uvjetima utvrđenim ugovorom s isporučiteljem vodne usluge, bez prava na povrat sredstava.
