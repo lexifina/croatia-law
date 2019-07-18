@@ -1,0 +1,3 @@
+# Članak 23.
+(1) Inspekcijski nadzor nad primjenom ovoga Zakona i propisa donesenih na temelju ovoga Zakona, kao i u dijelu koji se odnosi na uklanjanje prepreka, emisijskih uređaja, građevina, dalekovoda ili drugih objekata ili uređaja koji su postavljeni ili je započeto njihovo postavljanje u zaštitnom pojasu postaje državne ili druge mreže iz Kataloga, provode inspektori zaštite okoliša i vodopravni inspektori.
+(2) U provedbi inspekcijskog nadzora inspektori iz stavka 1. ovoga članka provode izravni uvid u opće i pojedinačne akte, nadziru uvjete i način rada subjekta nadzora sukladno propisu o Državnom inspektoratu.

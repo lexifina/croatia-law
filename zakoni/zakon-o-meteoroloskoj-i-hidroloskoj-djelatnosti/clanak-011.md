@@ -1,0 +1,2 @@
+# Članak 11.
+Državni zavod održava mjernu spremnost meteoroloških i hidroloških instrumenata na motriteljskim postajama iz članka 8. ovoga Zakona u skladu s propisom kojim se uređuje područje mjeriteljstva, pravilnikom iz članka 7. stavka 5. ovoga Zakona i programom rada iz članka 9. ovoga Zakona i drugim primjenjivim propisima te tehničkom regulativom i smjernicama Svjetske meteorološke organizacije.
