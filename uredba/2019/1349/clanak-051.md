@@ -1,0 +1,2 @@
+# Članak 51.
+Okvirni broj državnih službenika i namještenika Ministarstva zaštite okoliša i energetike prikazan u tablici koja je sastavni dio Uredbe o unutarnjem ustrojstvu Ministarstva zaštite okoliša i energetike (»Narodne novine«, broj 9/18), zamjenjuje se Okvirnim brojem državnih službenika i namještenika Ministarstva zaštite okoliša i energetike, koji je prikazan u tablici u prilogu ove Uredbe i njezin je sastavni dio.
