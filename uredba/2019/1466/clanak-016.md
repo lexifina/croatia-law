@@ -1,0 +1,5 @@
+## Samostalna ustrojstvena jedinica za drugostupanjski postupak
+# Članak 16.
+(1) Samostalna ustrojstvena jedinica za drugostupanjski postupak ustrojava se za rješavanje u upravnim stvarima u drugom stupnju u jednom ili više upravnih područja kad je to propisano zakonom ili ako je to opravdano većim opsegom poslova neposredne provedbe zakona koji su u prvom stupnju povjereni jedinicama lokalne ili područne (regionalne) samouprave ili pravnim osobama s javnim ovlastima, s većim stupnjem samostalnosti u radu uz odgovarajuću primjenu odredbi ove Uredbe o ustrojavanju službe.
+(2) Iznimno, ustrojstvena jedinica iz stavka 1. ovoga članka može se ustrojiti uz odgovarajuću primjenu odredbi ove Uredbe o ustrojavanju sektora, ako je to nužno zbog osobite složenosti i opsega poslova iz stavka 1. ovoga članka i odgovarajuće obrazloženo.
+(3) Rukovoditelj ustrojstvene jedinice iz stavka 1. ovoga članka za svoj rad odgovara čelniku tijela državne uprave i službenoj osobi koja ga zamjenjuje sukladno zakonu.
