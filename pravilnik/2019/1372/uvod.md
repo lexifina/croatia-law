@@ -1,0 +1,1 @@
+Na temelju članka 116. stavka 3. Zakona o odgoju i obrazovanju u osnovnoj i srednjoj školi (»Narodne novine«, broj 87/08, 86/09, 92/10, 105/10, 90/11, 5/12, 16/12, 86/12, 126/12, 94/13, 152/14, 7/17 i 68/18) ministrica znanosti i obrazovanja donosi

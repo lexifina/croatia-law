@@ -1,0 +1,2 @@
+# Članak 25.
+Postupci radi napredovanja u zvanje osoba koje obavljaju dužnost ravnatelja školskih ustanova kao i postupci za napredovanje učitelja, nastavnika i stručnih suradnika u zvanje izvrsni savjetnik, započeti će nakon stupanja na snagu Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u javnim službama kojom se propisuju koeficijenti složenosti poslova za navedena radna mjesta.

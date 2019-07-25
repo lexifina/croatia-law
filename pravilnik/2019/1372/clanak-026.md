@@ -1,0 +1,2 @@
+# Članak 26.
+Iznimno od članka 9. stavka 3. i članka 13. stavka 2. ovoga Pravilnika, ako iz redova ravnatelja nije moguće odabrati dovoljan broj osoba koje imaju najmanje zvanje savjetnika, odabrat će se osobe koje imaju najmanje 15 godina radnog iskustva na poslovima ravnatelja školskih ustanova te tijekom posljednjih pet godina imaju ostvarenih najmanje 20 bodova sukladno članku 8. ovoga Pravilnika.
