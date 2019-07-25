@@ -1,0 +1,3 @@
+# Članak 6.
+(1) Cijena vode koju plaća otočanin, stanovnik otočnog naselja ili dijela naselja koje nije priključeno na sustav javne vodoopskrbe, a opskrbljuje se vodom za ljudsku potrošnju vodonoscem ili autocisternom, za količinu do najviše 45 m3 godišnje, jednaka je cijeni vode koju plaća ista kategorija korisnika u mjestu iz kojeg se voda isporučuje.
+(2) Troškove koji nastaju isporukom vode za ljudsku potrošnju vodonoscem ili autocisternom iz stavka 1. ovog članka Pravilnika sufinancirat će Ministarstvo, ovisno o mogućnostima i u skladu s osiguranim sredstvima u državnom proračunu na proračunskoj stavci Ministarstva, a dodjeljuju se Isporučitelju iz članka 3. stavka 2. ovog Pravilnika.

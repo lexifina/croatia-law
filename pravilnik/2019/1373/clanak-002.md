@@ -1,0 +1,12 @@
+# Članak 2.
+(1) Pojedini pojmovi u smislu ovog Pravilnika imaju sljedeće značenje:
+1. isporučitelj vodne usluge - je isporučitelj vodne usluge kako je definirano zakonom koji uređuje javnu vodoopskrbu
+2. jedinica lokalne samouprave na otoku je jedinica lokalne samouprave čije se sjedište nalazi na otoku
+3. otoci sa specifičnim položajem - su otoci i dijelovi otoka kojima se sjedište jedinice lokalne samouprave nalazi na kopnu ili na drugom otoku
+4. otočani su hrvatski i strani državljani koji imaju prebivalište na otocima ili na poluotoku Pelješcu, te državljani država članica Europskog gospodarskog prostora i članovi njihove obitelji s prijavljenim privremenim boravkom u Republici Hrvatskoj i koji najmanje 183 dana u jednoj godini borave na otocima ili poluotoku Pelješcu
+5. otočna iskaznica - je javna isprava čije je izdavanje propisano posebnim zakonom i propisima kojima se uređuje javni prijevoz u obalnom linijskom pomorskom prometu, a koristi se kao sredstvo elektroničke autentifikacije za pristup sustavu otočnih prava, povlastica i mjera koje se provode na temelju Zakona
+6. otočno kućanstvo - je kućanstvo na otoku koje nije priključeno na sustav javne vodoopskrbe, a ima pravo koristiti uslugu javne vodoopskrbe u skladu s propisima koji uređuju vodne usluge, s tim da pravo na subvencioniranu cijenu vode imaju oni članovi toga kućanstva koji su otočani u smislu Zakona o otocima (»Narodne novine«, broj 116/18; u daljnjem tekstu: Zakon) i ovog Pravilnika
+7. stvarna cijena vode - je cijena isporuke vode za ljudsku potrošnju otočanima i fizičkim i pravnim osobama koje obavljaju gospodarsku djelatnost u otočnim naseljima ili dijelovima naselja koja nisu priključena na sustav javne vodoopskrbe i isporuka se obavlja vodonoscem i/ili autocisternom, a sastoji se od cijene prijevoza (bez PDV-a), osnovne cijene vode koju određuje Isporučitelj vodne usluge (bez PDV-a) te pripadajućih naknada za korištenje voda i zaštitu voda, u skladu s važećim propisima kojima se uređuje javna vodoopskrba
+8. voda za ljudsku potrošnju - je voda za ljudsku potrošnju kako je definirano zakonom i propisima koji reguliraju područje vode za ljudsku potrošnju (u daljnjem tekstu: voda)
+9. uslužno područje - je uslužno područje prema zakonu i propisima koji uređuju javnu vodoopskrbu.
+(2) Izrazi koji se koriste u ovom Pravilniku, a imaju rodno značenje, odnose se jednako na muški i ženski rod.
