@@ -1,0 +1,10 @@
+# Članak 5.
+(1) Fizička osoba (namjeravani stjecatelj) uz zahtjev iz članka 2. ovog Pravilnika prilaže najmanje sljedeću dokumentaciju i podatke:
+1. presliku osobne iskaznice ili putovnice, a namjeravani stjecatelj iz druge države članice ili treće države presliku osobne iskaznice ili putne isprave,
+2. životopis namjeravanog stjecatelja koji uključuje osobne podatke (ime i prezime, adresu prebivališta odnosno trajnog boravišta i druge identifikacijske podatke stjecatelja), popis svih pravnih osoba u kojima je bio ili je još uvijek zaposlen i popis pravnih osoba u kojima je imao ili još uvijek ima kvalificirani udjel,
+3. popis osoba koje su u smislu članka 3. stavka 1. točke 26. Zakona povezane osobe s namjeravanim stjecateljem i opis načina povezanosti,
+4. dokaz o osiguranim sredstvima za stjecanje kvalificiranog udjela te opis načina, odnosno izvora financiranja i dokumente koji potvrđuju pravni status i porijeklo financijskih sredstava namjeravanog stjecatelja za uplatu temeljnog kapitala Društva,
+5. ispunjeni Upitnik iz Priloga 1. ovoga Pravilnika, s potpisom namjeravanog stjecatelja, ovjerenim od javnog bilježnika, ne stariji od mjesec dana od dana podnošenja zahtjeva za izdavanje odobrenja za stjecanje kvalificiranog udjela,
+6. popis suradnika namjeravanog stjecatelja u smislu članka 3. točke 30.a Zakona koji sadrži podatke o imenu i prezimenu suradnika, OIB, rođenom prezimenu, spolu, državljanstvu, imenu i prezimenu oca i majke, datumu rođenja, mjestu i državi rođenja, adresi prebivališta i presliku osobne iskaznice ili putovnice za svakog suradnika i dokaz za svakog suradnika da nije pravomoćno osuđen za kaznena djela iz članka 36. stavka 8. Zakona,
+7. popis osoba koje će nakon stjecanja voditi poslove ili nadzirati vođenje poslova Društva koji sadrži podatke o imenu i prezimenu, OIB, državljanstvu, datumu rođenja, mjestu i državi rođenja, adresi prebivališta, presliku osobne iskaznice ili putovnice, životopis tih osoba i dokaz da nisu pravomoćno osuđeni za kaznena djela iz članka 36. stavka 8. Zakona,
+8. dokaz o plaćenoj naknadi propisanim pravilnikom o vrsti i visini naknada Hanfe.

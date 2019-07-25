@@ -1,0 +1,1 @@
+Na temelju članka 36. stavka 19. Zakona o osiguranju (»Narodne novine«, broj 30/15 i 112/18), Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća održanoj 9. srpnja 2019. donosi

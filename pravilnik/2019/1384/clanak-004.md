@@ -1,0 +1,14 @@
+# Članak 4.
+(1) Namjeravani stjecatelj pravna osoba uz zahtjev iz članka 2. ovoga Pravilnika prilaže najmanje sljedeću dokumentaciju i podatke:
+1. za stranu pravnu osobu, izvadak iz sudskog registra ili drugog odgovarajućeg registra u koji je upisan namjeravani stjecatelj, ne stariji od tri mjeseca,
+2. popis osoba koje su u smislu članka 3. stavka 1. točke 26. Zakona povezane osobe s namjeravanim stjecateljem te opis načina povezanosti i popis stvarnih i zakonskih vlasnika namjeravanog stjecatelja s naznakom visine sudjelovanja u vlasništvu namjeravanog stjecatelja,
+3. revidirane financijske izvještaje za posljednje dvije godine prije dana podnošenja zahtjeva, odnosno ako je namjeravani stjecatelj osnovan unutar protekle dvije godine, financijske izvještaje od osnivanja, a kada navedeni financijski izvještaji podliježu obvezi revizije, dostavljaju se revidirani financijski izvještaji, a ako je namjeravani stjecatelj matično društvo odnosno nadređena osoba u grupi, navedena dokumentacija dostavlja se na konsolidiranoj osnovi,
+4. ako je od zadnjeg godišnjeg izvještaja prošlo više od 9 mjeseci, financijske izvještaje za tekuću godinu,
+5. potvrdu nadležne porezne uprave odnosno drugog nadležnog tijela da nema zaostalih poreznih obveza i neplaćenih doprinosa,
+6. dokaz o osiguranim sredstvima za stjecanje kvalificiranog udjela te opis načina, odnosno izvora financiranja,
+7. ispunjeni Upitnik iz Priloga 1. ovoga Pravilnika, s potpisom odgovornih osoba namjeravanog stjecatelja, ovjerenim od javnog bilježnika, ne stariji od mjesec dana od dana podnošenja zahtjeva za izdavanje odobrenja za stjecanje kvalificiranog udjela,
+8. kada je to primjenjivo, mišljenje ili suglasnost nadležnog nadzornog tijela namjeravanog stjecatelja iz države članice ili treće države o namjeravanom stjecatelju i namjeravanom stjecanju,
+9. popis suradnika namjeravanog stjecatelja u smislu članka 3. točke 30.a Zakona koji sadrži podatke o imenu i prezimenu suradnika, OIB, rođenom prezimenu, spolu, državljanstvu, imenu i prezimenu oca i majke, datumu rođenja, mjestu i državi rođenja, adresi prebivališta i presliku osobne iskaznice ili putovnice za svakog suradnika i dokaz za svakog suradnika da nije pravomoćno osuđen za kaznena djela iz članka 36. stavka 8. Zakona,
+10. popis osoba koje će nakon stjecanja voditi poslove ili nadzirati vođenje poslova Društva koji sadrži podatke o imenu i prezimenu, OIB, državljanstvu, datumu rođenja, mjestu i državi rođenja, adresi prebivališta, presliku osobne iskaznice ili putovnice, životopis tih osoba i dokaz da nisu pravomoćno osuđeni za kaznena djela iz članka 36. stavka 8. Zakona,
+11. dokaz o plaćenoj naknadi propisanoj pravilnikom o vrsti i visini naknada Hanfe,
+(2) Drugi subjekt iz članka 36. stavka 1. Zakona dužan je uz zahtjev iz članka 2. ovoga Pravilnika dostaviti dokumentaciju iz stavka 1. točke 1., 2., 5., 6., 7., 8., 10. i 11. ovoga članka.

@@ -1,0 +1,4 @@
+## Republika Hrvatska kao stjecatelj kvalificiranog udjela
+# Članak 7.
+(1) Iznimno od članka 36. stavka 1. i 2. Zakona, nadležno tijelo ovlašteno da zastupa Republiku Hrvatsku dužno je u roku od 8 dana od dana stjecanja ili povećanja kvalificiranog udjela u Društvu dostaviti Hanfi obavijest koja sadrži podatke iz članka 2. stavak 1. točke 1. do 3. ovoga Pravilnika i očitovanje o tome sudjeluje li nadležno tijelo ovlašteno zastupati Republiku Hrvatsku odnosno Republika Hrvatska u financiranju kupnje dionica Društva i hoće li nadležno tijelo ovlašteno zastupati Republiku Hrvatsku ili Republika Hrvatska neposredno utjecati na poslovnu strategiju Društva te ako hoće, opisati na koji način.
+(2) Nadležno tijelo ovlašteno zastupati Republiku Hrvatsku dužno je u roku od 8 radnih dana od dana smanjenja kvalificiranog udjela u Društvu dostaviti Hanfi obavijest o načinu smanjenja kvalificiranog udjela u Društvu.
