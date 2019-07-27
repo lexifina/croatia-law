@@ -1,0 +1,9 @@
+I.
+Ovom Odlukom mijenja se Odluka o donošenju kurikuluma za nastavni predmet Glazbene kulture za osnovne škole i Glazbene umjetnosti za gimnazije u Republici Hrvatskoj (»Narodne novine«, broj: 7/19), čiji sastavni dio je kurikulum nastavnog predmeta Glazbena kultura za osnovne škole i Glazbena umjetnost za gimnazije, na način da se mijenja predmetni kurikulum.
+II.
+U Kurikulumu nastavnog predmeta Glazbena kultura za osnovne škole i Glazbena umjetnost za gimnazije, u glavi F. UČENJE I POUČAVANJE PREDMETA, poglavlju Uloga učitelja, brišu se riječi:
+»U prvom i drugom razredu osnovne škole nastavu Glazbene kulture izvodi učitelj primarnog obrazovanja. Nastavu Glazbene kulture u trećem razredu, ovisno o organizacijskim mogućnostima škole, izvodi učitelj primarnog obrazovanja ili predmetni učitelj glazbe. Nastavu Glazbene kulture od četvrtog razreda osnovne škole i u srednjoj školi izvodi predmetni učitelj/nastavnik glazbe. Svakom učitelju Glazbene kulture/Glazbene umjetnosti treba omogućiti da sukladno sklonostima i preferencijama učenika organizira i oblikuje redovnu, izbornu i fakultativnu nastavu glazbe te izvannastavne glazbene aktivnosti.«
+te se dodaju riječi:
+»Nastavu Glazbene kulture u četvrtom razredu osnovne škole, ovisno o organizacijskim mogućnostima škole, može izvoditi predmetni učitelj Glazbene kulture. Učitelji Glazbene kulture / Glazbene umjetnosti sukladno sklonostima i preferencijama učenika osmišljavaju i provode izvannastavne glazbene aktivnosti.«
+III.
+Ova Odluka stupa na snagu osmoga dana od dana objave u »Narodnim novinama«, a primjenjuje se za učenike 1. i 5. razreda osnovne škole i 1. razreda gimnazije od školske godine 2019./2020., za učenike 2., 3., 6., i 7. razreda osnovne škole, 2. i 3. razreda gimnazije od školske godine 2020./2021., za učenike 4. i 8. razreda osnovne škole i 4. razreda gimnazije od školske godine 2021./2022.
