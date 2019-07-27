@@ -1,0 +1,8 @@
+## II. PODNOŠENJE PRIJEDLOGA ZAVODU
+# Članak 2.
+(1) Prijedlog za stavljanje pomagala na liste pomagala Zavoda, podnosi proizvođač u Republici Hrvatskoj ili predstavnik i/ili distributer za Republiku Hrvatsku koji ima ovlaštenje proizvođača (u daljnjem tekstu: podnositelj prijedloga).
+(2) Prijedlog za izmjenu ili dopunu medicinske indikacije odnosno smjernice iz lista pomagala Zavoda mogu, uz podnositelje prijedloga iz stavka 1. ovoga članka, podnijeti i stručna društva Hrvatskog liječničkog zbora, druga odgovarajuća stručna društva te referentni centri ministarstva nadležnog za zdravstvo.
+(3) Prijedlog za promjenu podataka o ortopedskom i drugom pomagalu (u daljnjem tekstu: pomagalo) koje se nalazi na listama pomagala Zavoda podnosi podnositelj prijedloga.
+(4) Prijedlog za brisanje pomagala s lista pomagala Zavoda podnose podnositelji prijedloga, ministarstvo nadležno za zdravstvo, Agencija za lijekove i medicinske proizvode, stručna društva Hrvatskog liječničkog zbora ili druga odgovarajuća stručna društva, referentni centri ministarstva nadležnog za zdravstvo i stručna povjerenstva Zavoda.
+(5) Zavod može po službenoj dužnosti pokrenuti postupak brisanja pomagala sa lista pomagala Zavoda u slučajevima predviđenim člankom 11. stavkom 1. točkama 5. i 7. Pravilnika o mjerilima za stavljanje medicinskih proizvoda na osnovnu i dodatnu listu medicinskih proizvoda Hrvatskog zavoda za zdravstveno osiguranje te mjerilima za određivanje cijena medicinskih proizvoda (u daljnjem tekstu: Pravilnik).
+(6) Prijedlog za administrativnim ispravkom podataka uz pomagalo na listama pomagala Zavoda podnosi podnositelj prijedloga i stručna povjerenstva Zavoda.

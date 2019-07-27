@@ -1,0 +1,3 @@
+# Članak 20.
+(1) Prilikom zaprimanja prijedloga za stavljanje istovrsnog pomagala odnosno nove generacije istovrsnog pomagala na osnovnu listu pomagala Zavoda, Zavod je obvezan utvrditi usklađenost predložene cijene obzirom na članak 15. stavak 1. Pravilnika odnosno članak 16. stavak 1. Pravilnika.
+(2) Ako se utvrdi da predložena cijena nije u skladu s člankom 15. stavkom 1. Pravilnika odnosno člankom 16. stavkom 1. Pravilnika, Zavod će zatraži od podnositelja prijedloga korekciju predložene cijene prije donošenja mišljenja Povjerenstava o stavljanju pomagala na osnovnu listu pomagala Zavoda, osim ako je ponuđena cijena sukladna članku 18. stavku 1. Pravilnika.
