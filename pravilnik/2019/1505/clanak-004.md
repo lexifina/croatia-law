@@ -1,0 +1,3 @@
+# Članak 4.
+(1) Ako županijska skupština, odnosno Gradska skupština Grada Zagreba ne donese odluku o visini turističke pristojbe po osobi i noćenju i/ili o visini godišnjeg paušalnog iznosa turističke pristojbe primjenjuje se najniži iznos turističke pristojbe, odnosno najniži paušalni iznos turističke pristojbe utvrđen ovim Pravilnikom.
+(2) Za područja općina i gradova koji se smatraju potpomognutim područjima (I - IV razvojna skupina jedinice lokalne samouprave) sukladno odluci kojom se uređuje razvrstavanje jedinica lokalne samouprave prema stupnju razvijenosti, turistička pristojba može se odrediti u iznosu umanjenom do 30% u odnosu na visinu turističke pristojbe koja je određena sukladno članku 2. ovoga Pravilnika.
