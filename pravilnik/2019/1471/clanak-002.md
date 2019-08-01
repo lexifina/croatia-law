@@ -1,0 +1,7 @@
+## Program državne potpore za poticanje ulaganja u proizvodnju audiovizualnih djela
+# Članak 2.
+(1) Davatelj državne potpore temeljem odredbi ovog Pravilnika je Hrvatski audiovizualni centar (u daljnjem tekstu: Centar).
+(2) Program potpora sukladno propisima o državnim potporama te odredbama ovoga Pravilnika donosi Centar uz prethodno mišljenje nadležnog tijela.
+(3) Mjere financijskog poticaja iz ovoga Pravilnika predstavljaju državnu potporu sukladno propisima o državnim potporama Republike Hrvatske.
+(4) Mjere financijskog poticaja iz ovog Pravilnika dodjeljuju se sukladno odredbama Uredbe Komisije (EU) br. 651/2014 od 17. lipnja 2014. o ocjenjivanju određenih kategorija potpora spojivima s unutarnjim tržištima u primjeni članaka 107. i 108. Ugovora (SL L 187, 26. 6. 2014.) i Uredbi Komisije (EU) od 14. lipnja 2017. br. 2017/1084 o izmjeni uredbe (EU) br. 651/2014 u vezi s potporama za kulturu i očuvanje baštine i za potpore za sportsku i višenamjensku rekreativnu infrastrukturu te regionalnih i operativnih programa potpore za najudaljenije regije i o izmjeni Uredbe (EU) br. 702/2014 u vezi s izračunavanjem prihvatljivih troškova (SL L 156, 20. 6. 2017.) i na temelju kriterija i uvjeta propisanih ovim Pravilnikom.
+(5) Sredstva za financijski poticaj osiguravaju se u državnom proračunu Republike Hrvatske na razdjelu ministarstva nadležnog za poslove kulture u okviru aktivnosti i pozicija namijenjenih za mjere poticaja te iz drugih izvora.

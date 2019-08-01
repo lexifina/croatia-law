@@ -1,0 +1,7 @@
+## Ostvarivanje prava na financijski poticaj
+# Članak 9.
+(1) Centar na prijedlog Povjerenstva donosi Rješenje o jamstvu kojim jamči podnositelju Zahtjeva ostvarivanje prava na financijski poticaj u određenom novčanom iznosu temeljem planiranog proračuna proizvodnje djela i dokumentacije određene ovim Pravilnikom.
+(2) U slučaju udovoljavanja uvjetima za izdavanje Rješenja o jamstvu inozemnom trgovačkom društvu koje nije dostavilo dokaz o osnivanju podružnice sukladno važećim propisima u Republici Hrvatskoj te sukladno odredbama ovog Pravilnika Centar će podnositelju zaključkom dati primjeren rok za ispunjenje navedenog uvjeta, koji rok ne smije biti kraći od 15 (petnaest) dana. Protekom danog roka, bez dostave dokaza o ispunjenju danog uvjeta zahtjev podnositelja bit će odbačen kao nepotpun.
+(3) Rješenja o jamstvu iz stavka 1. ovoga članka donose se po sustavu prednosti prijave.
+(4) Nakon završetka proizvodnje audiovizualnog djela u Republici Hrvatskoj, a temeljem izračuna stvarno učinjenih troškova proizvodnje djela u Republici Hrvatskoj i dokumentacije određene ovim Pravilnikom, Centar na prijedlog Povjerenstva donosi Rješenje o isplati kojim se utvrđuje konačni iznos financijskog poticaja koji će biti isplaćen podnositelju Zahtjeva u okviru osiguranih sredstava namijenjenih za mjere poticaja.
+(5) Tražbine iz Rješenja o jamstvu te Rješenja o isplati iz stavaka 1. i 4. ovoga članka ne mogu se ustupiti trećoj osobi, a svaki takav ustup ne proizvodi pravne učinke.

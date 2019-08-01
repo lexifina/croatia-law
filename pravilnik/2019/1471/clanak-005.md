@@ -1,0 +1,26 @@
+## Kriteriji koje mora ispuniti audiovizualno djelo za koje se može tražiti financijski poticaj
+# Članak 5.
+(1) Audiovizualno djelo za koje podnositelj Zahtjeva može tražiti financijski poticaj je:
+- igrani film, dokumentarni film, animirani film, televizijski film ili televizijska serija
+- koje se proizvodi u cijelosti ili djelomično u Republici Hrvatskoj
+- koje je namijenjeno javnom prikazivanju, te
+- ostvaruje minimalan broj bodova u Kvalifikacijskom testu iz Dodatka 1, odnosno 1a, ovoga Pravilnika.
+(2) Financijski poticaj koji se dodjeljuje temeljem ovog Pravilnika može se tražiti za:
+- inozemno djelo iz stavka 1. ovoga članka, za čiji scenarij je autorska prava stekla inozemna pravna osoba registrirana za proizvodnju audiovizualnih djela izvan Republike Hrvatske ili država članica Europskog gospodarskog prostora
+međunarodne ili prekogranične koprodukcije, u kojoj je jedan od koproducenata pravna osoba registrirana u Republici Hrvatskoj za proizvodnju audiovizualnih djela, s većinskim ili manjinskim financijskim udjelom.
+(3) Financijski poticaj koji se dodjeljuje temeljem ovog Pravilnika može se zbrajati s drugom državnom potporom, pod uvjetom da se odnose na različite prihvatljive troškove.
+(4) Ako se Zahtjev za financijski poticaj odnosi na audiovizualno djelo koje se financira iz javnih izvora Republike Hrvatske te iz sredstava državnih potpora iznos financijskog poticaja temeljem ovog Pravilnika obračunava se samo na iznos troškova učinjenih za proizvodnju audiovizualnog djela u Republici Hrvatskoj koji premašuje visinu dodijeljenih sredstava iz javnih izvora i sredstava državne potpore u iznosima sukladno stavku 7. podstavku 1. ovoga članka.
+(5) Ako je podnositelj Zahtjeva korisnik potpore Centra i po drugoj pravnoj osnovi, i/ili koristi financiranje iz javnih izvora te iz sredstava državne potpore za isto audiovizualno djelo dužan je po završetku snimanja audiovizualnog djela u Republici Hrvatskoj dostaviti Centru objedinjeno revizijsko izvješće, s točnom naznakom koje prihvatljive troškove koristi po kojoj osnovi.
+(6) Kvalifikacijski test iz stavka 1. alineja 4. ovoga članka je test koji ispunjava podnositelj Zahtjeva čija je svrha kroz sustav bodova vrednovati kulturni sadržaj audiovizualnog djela za koje se traži financijski poticaj, doprinos ljudskih potencijala i korištenje produkcijskih potencijala Republike Hrvatske i drugih zemalja članica Europskog gospodarskog prostora. Podnositelj Zahtjeva čije djelo u Kvalifikacijskom testu ostvari veći broj bodova od djela nekog drugog podnositelja, ne ostvaruje nikakve pogodnosti prilikom redoslijeda obrade Zahtjeva niti rezervacije sredstava.
+(7) Osim uvjeta iz stavka 1. ovoga članka, za dobivanje financijskog poticaja audiovizualno djelo mora, zadovoljiti i sljedeće uvjete:
+1. najmanji iznos ukupnih troškova učinjenih u Republici Hrvatskoj u okviru proizvodnje djela iz stavka 1. ovoga članka mora, bez uračunatog poreza na dodanu vrijednost, iznositi 2.000.000,00 kuna za igrani film, 300.000,00 kuna za dokumentarni film, 500.000,00 kuna za animirani film, 1.000.000,00 kuna za televizijski film i najmanje 750.000,00 kuna po epizodi televizijske serije, odnosno 450.000,00 kuna po epizodi dokumentarne televizijske serije te 500.000,00 kuna za animiranu televizijsku seriju minimalnog ukupnog trajanja 24 minute, s tim da navedeni najmanji iznos ne smije biti veći od 50 % cjelokupnog proračuna proizvodnje audiovizualnog djela
+2. najmanje 50 % članova ekipe angažirane u Republici Hrvatskoj za proizvodnju djela iz stavka 1. ovoga članka moraju biti hrvatski državljani ili državljani članica Europskog gospodarskog prostora, u slučaju kada se djelo u cijelosti proizvodi u Republici Hrvatskoj, a u slučaju koprodukcije hrvatski državljani ili porezni rezidenti Republike Hrvatske ili
+3. najmanje 30 % članova ekipe angažirane u Republici Hrvatskoj za proizvodnju djela iz stavka 1. ovoga članka moraju biti hrvatski državljani ili državljani članica Europskog gospodarskog prostora, u slučaju kada se djelo djelomično proizvodi u Republici Hrvatskoj, a djelomično u drugoj/drugim državama, a u slučaju koprodukcije hrvatski državljani ili porezni rezidenti Republike Hrvatske te
+4. u slučaju dodjele financijskog poticaja u iznosu većem od 5.000.000,00 kn osim udovoljenja prethodno navedenim uvjetima podnositelj Zahtjeva mora zaposliti i najmanje jednog praktikanta hrvatskog državljanstva ili poreznog rezidenta u Republici Hrvatskoj, u svakom od glavnih sektora produkcije zastupljenih u proizvodnji predmetnog audiovizualnog djela (scenografija, produkcija, kamera, kostimografija, režija, maska, kaskaderi, VFX/SFX)
+(8) Djelo za koje podnositelj Zahtjeva ne može steći pravo na financijski poticaj je:
+- promidžbeno audiovizualno djelo i/ili audiovizualna komercijalna komunikacija
+- djelo koje promiče nasilje, rasizam, govor mržnje i/ili ima pornografski sadržaj i sl.
+- djelo koje promiče ponašanja u suprotnosti s interesima javnog zdravlja, zaštite ljudskih prava, javne sigurnosti i sl.
+- dnevna drama (»sapunica«)
+- situacijska komedija (»sitcom«).
+(9) Podnositelj Zahtjeva stječe pravo na financijski poticaj za djelo iz stavaka 1. i 2. ovoga članka pod uvjetom da je na dan predaje Zahtjeva, uz ostale uvjete osigurao i 70 % sredstava predviđenih za pokrivanje troškova proizvodnje audiovizualnog djela u Republici Hrvatskoj.
