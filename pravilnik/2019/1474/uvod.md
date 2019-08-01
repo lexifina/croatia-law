@@ -1,0 +1,1 @@
+Na temelju članka 236. stavka 2. Zakona o sigurnosti prometa na cestama (»Narodne novine«, br. 67/08, 48/10, 74/11, 80/13, 158/13, 92/14, 64/15 i 108/17), ministar mora, prometa i infrastrukture uz suglasnost ministra unutarnjih poslova donosi
