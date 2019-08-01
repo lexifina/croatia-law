@@ -1,0 +1,2 @@
+# Članak 2.
+Osobe nestale u Domovinskom ratu i smrtno stradale osobe u Domovinskom ratu za koje nije poznato mjesto ukopa te članovi njihovih obitelji, u smislu ovoga Zakona, imaju jednaka prava bez ikakve razlike prema tome jesu li bili pripadnici oružanih snaga ili civili, prema rasi, spolu, jeziku, vjeroispovijesti, političkom mišljenju, nacionalnom ili socijalnom podrijetlu, imovinskom stanju ili bilo kojem drugom osobnom statusu.

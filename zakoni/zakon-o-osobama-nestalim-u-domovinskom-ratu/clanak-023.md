@@ -1,0 +1,4 @@
+# Članak 23.
+(1) Temeljem nalaza ustanove iz članka 21. stavka 2. ovoga Zakona o utvrđenom identitetu ekshumiranih posmrtnih ostataka, završnu identifikaciju posmrtnih ostataka organizira i koordinira Ministarstvo u suradnji s drugim nadležnim tijelima, ustanovama i organizacijama koje provode poslove iz svoje nadležnosti i/ili temeljem potpisanih sporazuma o obavljanju poslova za potrebe Ministarstva.
+(2) Identificiranom osobom se smatra ona osoba za koju se pouzdano utvrdi da joj pronađeni posmrtni ostaci odgovaraju u fizičkim, naslijeđenim ili biološkim karakteristikama, a na temelju postupka koji je provela ustanova iz članka 21. stavka 2. ovoga Zakona.
+(3) Ministarstvo će o provedenom postupku identifikacije obavijestiti nadležna pravosudna tijela u slučaju iz članka 18. stavka 2. i članka 20. stavka 1. ovoga Zakona te druga nadležna državna tijela, ustanove i organizacije.

@@ -1,0 +1,4 @@
+## DIO PRVI OSNOVNE ODREDBE
+# Članak 1.
+(1) Ovim Zakonom uređuje se zaštita, unaprjeđenje i promicanje prava i interesa osoba nestalih u Domovinskom ratu i smrtno stradalih osoba u Domovinskom ratu za koje nije poznato mjesto ukopa i članova njihovih obitelji te se uređuje postupak, nadležnost, vođenje evidencija i ostalo u vezi s traženjem, ekshumacijom i identifikacijom osoba nestalih u Domovinskom ratu i smrtno stradalih osoba u Domovinskom ratu za koje nije poznato mjesto ukopa.
+(2) Domovinski rat, sukladno Ustavu Republike Hrvatske i Deklaraciji o Domovinskom ratu, je pravedan, legitiman, obrambeni i oslobodilački rat u razdoblju od 1991. do 1995. godine kojim je hrvatski narod iskazao svoju odlučnost i spremnost za uspostavu i očuvanje Republike Hrvatske kao samostalne i nezavisne, suverene i demokratske države.

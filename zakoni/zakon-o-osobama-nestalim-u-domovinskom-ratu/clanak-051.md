@@ -1,0 +1,3 @@
+# Članak 51.
+(1) Nadležna tijela iz članka 50. ovoga Zakona surađuju s međunarodnim organizacijama osobito u: prikupljanju podataka za vođenje Evidencije osoba nestalih u Domovinskom ratu i Evidencije smrtno stradalih osoba u Domovinskom ratu za koje nije poznato mjesto ukopa, traženju osoba nestalih u Domovinskom ratu i smrtno stradalih osoba u Domovinskom ratu za koje nije poznato mjesto ukopa, prikupljanju saznanja o pojedinačnim i masovnim grobnicama, provedbi terenskih izvida i istraživanja, ekshumaciji i identifikaciji posmrtnih ostataka.
+(2) Nadležna tijela iz članka 50. ovoga Zakona surađuju s međunarodnim organizacijama u prijenosu znanja i iskustava u traženju nestalih osoba.
