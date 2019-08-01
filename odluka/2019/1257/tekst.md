@@ -1,0 +1,2 @@
+Mr. sc. NIKICA KOPAČEVIĆ postavlja se za generalnog konzula Republike Hrvatske u Sjedinjenim Američkim Državama, sa sjedištem u New Yorku i konzularnim ovlastima nad konzularnim područjem koje obuhvaća sljedeće savezne države: Connecticut, Delaware, Florida, Georgia, Maine, Massachusetts, New Hampshire, New York, New Jersey, North Carolina, Puerto Rico, Rhode Island, South Carolina, Vermont i Virgin Islands.
+Ova Odluka stupa na snagu 1. kolovoza 2019. godine.
