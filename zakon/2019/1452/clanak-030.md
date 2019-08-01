@@ -1,0 +1,10 @@
+# Članak 30.
+Članak 84. mijenja se i glasi:
+»(1) Na postupak priznavanja inozemnih stručnih kvalifikacija stečenih u trećim zemljama na odgovarajući način primjenjuju se odredbe glave III. ovoga Zakona, osim članka 19. stavka 7. ovoga Zakona.
+(2) Iznimno od stavka 1. ovoga članka, nadležno tijelo može zatražiti provjeru kompetentnosti, i to bez:
+a) prethodne usporedbe programa obrazovanja ustanove na kojoj je kandidat stekao svoje obrazovne kvalifikacije u trećoj zemlji i programa obrazovanja koje se pohađa za istu profesiju na istoj razini obrazovanja u Republici Hrvatskoj i
+b) utvrđivanja dopunskih mjera iz članka 18. ovoga Zakona.
+(3) Na priznavanje inozemnih stručnih kvalifikacija stečenih u trećim zemljama ne primjenjuju se odredbe glava IV. i V. ovoga Zakona.
+(4) Iznimno od odredbe stavka 3. ovoga članka, za profesije stečene u trećim zemljama za koje se provodi automatsko priznavanje inozemnih stručnih kvalifikacija za obavljanje reguliranih profesija na temelju usklađivanja minimalnih uvjeta osposobljavanja iz poglavlja I. glave IV. ovoga Zakona nadležno tijelo dužno je utvrditi minimalne uvjete osposobljavanja iz odjeljaka 1.2., 1.3. i 1.4. ovoga Zakona.
+(5) Dodatni i posebni uvjeti za priznavanje inozemnih stručnih kvalifikacija stečenih u trećim zemljama te način ispunjavanja tih uvjeta, kao i detaljniji postupak priznavanja inozemnih stručnih kvalifikacija stečenih u trećim zemljama mogu se regulirati posebnim zakonom ili pravilnikom iz djelokruga nadležnih središnjih tijela državne uprave, odnosno općim aktima nadležnih tijela iz članka 5. stavka 1. podstavka 15. ovoga Zakona koje ona donose na temelju zakonskog ovlaštenja.
+(6) Priznavanje inozemne stručne kvalifikacije može zatražiti azilant i stranac pod supsidijarnom zaštitom u Republici Hrvatskoj koji su u pravima i dužnostima izjednačeni s hrvatskim državljanima, a u postupku priznavanja inozemnih stručnih kvalifikacija primjenjuju se odredbe glave III. ovoga Zakona, osim članka 19. stavka 7. ovoga Zakona.«.
