@@ -1,0 +1,4 @@
+# Članak 1.
+U Zakonu o kreditnim institucijama (»Narodne novine«, br. 159/13., 19/15., 102/15. i 15/18.) u članku 2. iza stavka 3. dodaju se stavci 4. i 5. koji glase:
+»(4) Ovim se Zakonom detaljnije uređuje provođenje Uredbe Vijeća (EU) br. 1024/2013 od 15. listopada 2013. o dodjeli određenih zadaća Europskoj središnjoj banci u vezi s politikama bonitetnog nadzora kreditnih institucija (SL L 287, 29. 10. 2013.; u daljnjem tekstu: Uredba (EU) br. 1024/2013).
+(5) Ovim se Zakonom detaljnije uređuje provođenje Uredbe (EU) br. 468/2014 Europske središnje banke od 16. travnja 2014. o uspostavljanju okvira za suradnju unutar Jedinstvenog nadzornog mehanizma između Europske središnje banke i nacionalnih nadležnih tijela te s nacionalnim imenovanim tijelima (Okvirna uredba o SSM-u) (SL L 141/1, 14. 5. 2014.; u daljnjem tekstu: Uredba (EU) br. 468/2014.).«.
