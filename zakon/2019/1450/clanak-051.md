@@ -1,0 +1,11 @@
+# Članak 51.
+Članak 296. mijenja se i glasi:
+»(1) O izrečenim zaštitnim mjerama, negativnim prekršajnim bodovima, mjerama upozorenja, prometnim nesrećama i njihovim posljedicama te o vozačima vozila i vozilima ministarstvo nadležno za unutarnje poslove vodi evidenciju.
+(2) Podaci o prekršajima i njihovim počiniteljima vode se na Informacijskom sustavu ministarstva nadležnog za unutarnje poslove i čuvaju se deset godina.
+(3) Podaci o prometnim nesrećama i drugim događajima u prometu na cestama vode se na Informacijskom sustavu ministarstva nadležnog za unutarnje poslove i čuvaju se 15 godina.
+(4) O podacima o prometnim nesrećama i drugim događajima u prometu na cestama, na zahtjev stranke, izdaje se potvrda.
+(5) Ministarstvo nadležno za unutarnje poslove omogućit će na svojim mrežnim stranicama provjeru statusa vozačke dozvole, postojanje izrečene zaštitne mjere zabrane upravljanja motornim vozilom, postojanje izrečene sigurnosne mjere zabrane upravljanja motornim vozilom i stanje negativnih prekršajnih bodova, elektroničkim putem temeljem serijskog broja vozačke dozvole.
+(6) Podacima iz evidencija iz stavka 1. do 3. ovoga članka mogu se koristiti pravosudna tijela, upravna tijela koja vode prekršajni postupak te ministarstvo nadležno za unutarnje poslove, a podacima o vozilima mogu se koristiti stručna organizacija iz članka 273. ovoga Zakona i stanice za tehnički pregled vozila ovlaštene za poslove registracije vozila.
+(7) Statističkim evidencijama o prometnim nesrećama te o vozačima i vozilima mogu se osim tijela iz stavka 6. ovoga članka koristiti i zdravstvene i druge institucije, organizacije i tijela koja se bave pitanjima sigurnosti prometa te pravne i fizičke osobe koje obavljaju javni prijevoz i prijevoz za vlastite potrebe te provode javne ovlasti na temelju ovoga Zakona.
+(8) Ministarstvo nadležno za unutarnje poslove dostavlja podatke o vozilima i vlasnicima vozila odnosno korisnicima vozila na temelju ugovora o leasingu nacionalnim kontakt-točkama drugih država članica Europske unije u svrhu istraživanja prometnih prekršaja vezanih uz sigurnost prometa na cestama.
+(9) Ministar nadležan za unutarnje poslove propisuje pravilnikom vrstu i način dostave podatka iz stavka 8. ovoga članka.«.

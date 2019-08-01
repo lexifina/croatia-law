@@ -1,0 +1,7 @@
+# Članak 42.
+Članak 247. mijenja se i glasi:
+»(1) Motorna i priključna vozila registrirana izvan teritorija Republike Hrvatske mogu sudjelovati u prometu na teritoriju Republike Hrvatske samo ako imaju: važeću prometnu dozvolu, dokaz o tehničkoj ispravnosti, registarske pločice koje je izdalo nadležno tijelo zemlje u kojoj je vozilo registrirano, međunarodnu oznaku zemlje registracije ili registarsku pločicu koju je izdalo nadležno tijelo države na kojoj su oznake i broj utvrđeni propisima Europske unije.
+(2) Za motorna i priključna vozila registrirana u državama članicama Europskog gospodarskog prostora, u svrhu slobodnog kretanja vozila u prometu na cestama, priznaje se dokaz o tehničkoj ispravnosti vozila izdan u državi registracije vozila.
+(3) Priključno vozilo koje nije registrirano mora na stražnjoj strani imati registarsku pločicu s ponovljenim registarskim brojem vučnog vozila.
+(4) Novčanom kaznom u iznosu od 2.000,00 kuna kaznit će se za prekršaj vozač motornog i priključnog vozila registriranog izvan Republike Hrvatske ako nema važeću prometnu dozvolu i dokaz o tehničkoj ispravnosti vozila.
+(5) Novčanom kaznom u iznosu od 300,00 kuna kaznit će se za prekršaj vozač vozila registriranog izvan teritorija Republike Hrvatske ako nema registarske pločice ili međunarodnu oznaku zemlje registracije ili ako vuče neregistrirano priključno vozilo koje nije označeno s ponovljenim brojem vučnog vozila.«.
