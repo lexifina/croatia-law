@@ -1,0 +1,1 @@
+Odluka o postavljanju izvanredne i opunomoćene veleposlanice Republike Hrvatske u svojstvu stalne predstavnice Republike Hrvatske pri Europskoj uniji i pri Europskoj zajednici za atomsku energiju, sa sjedištem u Bruxellesu
