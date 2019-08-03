@@ -1,0 +1,6 @@
+# Članak 8.
+(1) Članovi Vijeća koji su predstavnici otočnih razvojnih dionika imenuju se iz otočnog poslovnog i/ili znanstvenog sektora koji djeluje na otocima te iz zadruga i/ili organizacija civilnog društva koje imaju sjedište na otocima i svoju djelatnost obavljaju na otocima.
+(2) Zadruge i organizacije civilnog društva iz stavka 1. ovog članka moraju biti registrirane najmanje dvije godine prije imenovanja njihovih predstavnika u Vijeće i svoju djelatnost moraju temeljiti na otočnom razvoju.
+(3) Uvjet koji moraju zadovoljiti članovi Vijeća iz članka 7. ovog Pravilnika je radno iskustvo od najmanje pet godina u poslovima koji su odgovarajući djelokrugu Vijeća, osim za predstavnike zadruga ili organizacija civilnog društva iz stavka 1. ovog članka.
+(4) Članovi Vijeća iz članka 7. ovog Pravilnika, prije imenovanja u Vijeće, trebaju Ministarstvu obavezno dostaviti uvjerenje nadležnog suda da se protiv njih ne vodi kazneni postupak, životopis, stručne reference i drugu dokumentaciju koju od njih zatraži Ministarstvo, a kojom se dokazuju uvjeti za imenovanje određeni ovim Pravilnikom.
+(5) Pri imenovanju članova Vijeća iz članka 7. ovog Pravilnika vodit će se računa o zastupljenosti više stručnih područja koja se odnose na otočni razvoj, a za članove iz stavka 1. ovog članka vodit će se računa i o uravnoteženoj geografskoj zastupljenosti članova u Vijeću.
