@@ -1,0 +1,1 @@
+Na temelju točke VI.a Odluke o utvrđivanju godišnje kvote dozvola za zapošljavanje stranaca za kalendarsku godinu 2019. (»Narodne novine« broj 116/18 i 60/19), ministar rada i mirovinskoga sustava donosi
