@@ -1,0 +1,16 @@
+# Članak 93.
+Služba za statistiku za južnu Hrvatsku obavlja sljedeće stručne poslove: sudjeluje u provedbi statističkih istraživanja izvještajnim metodama (papirnatih i web upitnika), pri čemu sudjeluje u definiranju obuhvata (dopuna i ažuriranje adresara), obavlja distribuciju papirnatih upitnika i prikupljanje podataka, daje upute i objašnjenja izvještajnim jedinicama kako popuniti upitnike, provodi kontrolu obuhvata, popunjenosti i smislenosti prikupljenih izvještaja, požuruje dostavu podataka za izvještajne jedinice koje na upitnike nisu odgovorile, dostavlja upitnike nadležnim ustrojstvenim jedinicama, sudjeluje u predlaganju izmjena sadržaja upitnika i u dopuni provedbenih uputa u pilot-fazi testiranja upitnika. Sudjeluje u organizaciji velikih popisa i posebnih istraživanja u kojima obavlja i provedbu na terenu. Organizira anketna istraživanja i provodi anketiranje u kućanstvima, vrši izbor i obuku anketara, radi podjelu poslova među anketarima, kontrolira rad anketara, obavlja administrativne poslove vezane uz anketare, nadzire i kontrolira proces prikupljanja podataka, kontinuirano surađuje s ustrojstvenim jedinicama zaduženim za metodologije anketnih istraživanja i sudjeluje u svim oblicima edukacija koje se odnose na unaprjeđenja u provedbi anketa. Organizira i provodi snimanje cijena. Koordinira rad područnih jedinica pri provedbi statističkih istraživanja izvještajnim metodama, to jest prikupljanje i kontrolu izvještaja poslovnih subjekata, pri provedbi anketnih istraživanja i snimanju cijena te pri provedbi velikih istraživanja koja se provode metodom potpunog obuhvata, odnosno popisa. Sudjeluje u kompiliranju područnih, urbanih i lokalnih statistika. Daje na uvid strankama službeno objavljene podatke Zavoda. Sudjeluje u strateškom planiranju na način da predlaže ciljeve iz djelokruga Službe, prati postizanje postavljenih ciljeva Službe i izvještava nadređenog o njihovoj realizaciji. Predlaže mjere za unaprjeđenje poslovanja, sudjeluje u pripremi strateških dokumenata, programa, planova i izvješća iz svoga djelokruga. Sudjeluje u procesima i aktivnostima sustava upravljanja rizicima iz djelokruga Službe, utvrđuje rizike vezane uz ciljeve iz djelokruga Službe te izvješćuje nadređenog o rizicima. Sudjeluje u provedbi EU projekata. Brine o tome da je svaki rashod opravdan stvarnom potrebom i potvrđen prethodnom kontrolom te obavlja i druge poslove u okviru svoga djelokruga.
+U Službi za statistiku za južnu Hrvatsku ustrojavaju se:
+13.3.1. Odjel za statistiku, PJ za područje Istarske županije
+Sjedište je Odjela u Puli.
+13.3.2. Odjel za statistiku, PJ za područje Primorsko-goranske županije
+Sjedište je Odjela u Rijeci.
+13.3.3. Odjel za statistiku, PJ za područje Karlovačke i Ličko-
+-senjske županije
+Sjedište je Odjela u Karlovcu. Odjel ima ispostave u Ogulinu i Senju. U ispostavama Odjela predviđaju se samostalni izvršitelji.
+13.3.4. Odjel za statistiku, PJ za područje Šibensko-kninske i Zadarske županije.
+Sjedište je Odjela u Šibeniku. Odjel ima ispostavu u Zadru. U ispostavi Odjela predviđa se samostalni izvršitelj.
+13.3.5. Odjel za statistiku, PJ za područje Splitsko-dalmatinske županije
+Sjedište je Odjela u Splitu.
+13.3.6. Odjel za statistiku, PJ za područje Dubrovačko-neretvanske županije
+Sjedište je Odjela u Dubrovniku.

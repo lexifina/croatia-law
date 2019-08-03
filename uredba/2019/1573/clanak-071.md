@@ -1,0 +1,6 @@
+# Članak 71.
+Služba izrade programske podrške za obradu podataka i proizvodnju rezultata obavlja sljedeće poslove: sudjeluje u izradi programa koji se koriste u okviru programske podrške obrade podataka statističkih istraživanja i održavanju tih programa. U suradnji s drugim unutarnjim ustrojstvenim jedinicama Zavoda radi na analizi i obradi korisničkih zahtjeva te generiranju rezultata. Koordinira primjenu novih standarda. Radi na unaprjeđenju sustava za analizu podataka i proizvodnju rezultata. Osigurava da se dosegne potrebna razina kvalitete rezultata statističkih istraživanja. U suradnji s unutarnjim ustrojstvenim jedinicima Zavoda prati i uvodi suvremene informatičke metode i alate za analizu i zaštitu podataka i metapodataka. Sudjeluje u izradi strateških dokumenata te procjeni rizika iz svog područja. Brine o tome da je svaki rashod opravdan stvarnom potrebom i potvrđen prethodnom kontrolom te obavlja i druge poslove u okviru svoga djelokruga.
+U Službi izrade programske podrške za obradu podataka i proizvodnju rezultata ustrojavaju se:
+11.3.1. Odjel izrade programske podrške za obradu podataka
+11.3.2. Odjel izrade programske podrške za proizvodnju rezultata.
+11.3.1. Odjel izrade programske podrške za obradu podataka

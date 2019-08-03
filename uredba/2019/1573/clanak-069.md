@@ -1,0 +1,3 @@
+# Članak 69.
+Odjel organizacije i održavanja sustava obrade podataka obavlja sljedeće stručne poslove: uvođenje, primjenu i održavanje standardnih alata i metoda obrade podataka statističkih istraživanja te izradu dokumentacije i uputa za korisnike sustava obrade podataka. Odjel pruža stručnu pomoć korisnicima pri definiranju funkcija sustava obrade podataka te predlaže promjene i dopune u sustavu. Brine o tome da je svaki rashod opravdan stvarnom potrebom i potvrđen prethodnom kontrolom te obavlja i druge poslove u okviru svoga djelokruga.
+11.2.2. Odjel testiranja i nadogradnje obrade podataka
