@@ -1,0 +1,5 @@
+# Članak 10.
+(1) Katastarske čestice koje udovoljavaju kriterijima iz članka 5. ovoga Pravilnika, a za koje je doneseno pravomoćno rješenje iz članka 84. stavka 1. Zakona, razvrstati će se u grupu iz članka 8. točke 1. ovoga Pravilnika.
+(2) Katastarske čestice koje udovoljavaju kriterijima iz članaka 5. i 9. ovoga Pravilnika, a izgrađenost katastarske čestice (broj zgrada) u popisno-knjižnom dijelu operata katastra zemljišta jednaka je izgrađenosti u zemljišnoj knjizi, razvrstati će se u grupu iz članka 8. točke 2. ovoga Pravilnika.
+(3) Katastarske čestice koje udovoljavaju kriterijima iz članka 5. i 9. ovoga Pravilnika, a izgrađenost katastarske čestice (broj zgrada) u popisno-knjižnom dijelu operata katastra zemljišta odstupa od izgrađenosti u zemljišnoj knjizi, razvrstati će se u grupu iz članka 8. točke 3. ovoga Pravilnika.
+(4) Katastarske čestice koje ne zadovoljavaju neki od kriterija iz članka 5. ili 9. ovoga Pravilnika, razvrstati će se u grupu iz članka 8. točke 4. ovoga Pravilnika.

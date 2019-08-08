@@ -1,0 +1,3 @@
+# Članak 19.
+(1) Ako se katastarske čestice katastra zemljišta pojedinačno prevode u katastarske čestice katastra nekretnina, a za osnivanje nekretnina potrebno je provesti odgovarajući postupak pred nadležnim sudom, katastarske čestice katastra nekretnina osnivaju se na temelju odgovarajućeg potvrđenoga geodetskog elaborata i odgovarajućeg rješenja nadležnog suda, nakon što katastarske čestice koje su predmet izrade elaborata budu upisane u odgovarajući zemljišnoknjižni uložak.
+(2) U slučaju iz stavka 1. ovoga članka katastarske čestice katastra nekretnina upisuju se u odgovarajući posjedovni list na temelju rješenja zemljišnoknjižnog odjela općinskog suda, po službenoj dužnosti i bez donošenja upravnog rješenja.
