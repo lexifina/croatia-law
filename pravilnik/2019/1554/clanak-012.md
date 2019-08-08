@@ -1,0 +1,3 @@
+# Članak 12.
+(1) Putni nalozi se moraju dostaviti odnosno biti zaprimljeni u Prijavno-dojavnoj jedinici sanitetskog prijevoza najmanje 24 sata prije vožnje pacijenta za destinacije na koje se prevoze pacijenti ili s kojih se pacijenti prevoze, koje su udaljene do 150 km, a najmanje 48 sati prije vožnje za destinacije koje su udaljene preko 150 km.
+(2) Pravo na nemedicinsku pratnju imaju djeca do 18. godine i punoljetne osobe s invaliditetom kojima je zbog stupnja i vrste invaliditeta potrebna podrška u vidu imenovanog skrbnika, osobnog asistenta ili druge osobe po njenom izboru, a u cilju pružanja potrebne podrške prilikom prijevoza.
