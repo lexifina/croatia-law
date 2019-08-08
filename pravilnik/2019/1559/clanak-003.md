@@ -1,0 +1,36 @@
+## Primjerenost
+# Članak 3.
+(1) Dobar ugled i integritet propisan člankom 51. stavkom 1. točkama 1. i 3. do 8. Zakona ima kandidat u odnosu na kojeg ne postoje okolnosti koje dovode u sumnju dobar ugled kandidata te koji nije pravomoćno osuđen za kazneno djelo iz članka 36. stavak 8. Zakona, kazneno djelo propisano Zakonom o tržištu vrijednosnih papira (»Narodne novine« broj 84/02 i 138/06), Zakonom o kaznenim djelima protiv tržišta kapitala (»Narodne novine« broj 152/08) ili Zakonom o trgovačkim društvima (»Narodne novine« broj 111/93, 34/99, 121/99, 52/00, 118/03, 107/07, 146/08, 137/09, 152/11, 111/12, 144/12, 68/13, 110/15 i 40/19).
+(2) Prilikom ocjenjivanja ugleda i integriteta iz članka 51. stavka 1. točke 1. Hanfa će osobito uzeti u obzir sljedeće okolnosti koje mogu dovesti u sumnju dobar ugled kandidata:
+1. je li kandidatu zbog nepoštivanja propisa ukinuta ili odbijena odgovarajuća suglasnost odnosno odobrenje za obavljanje poslova sukladno propisima u nadležnosti Hanfe ili drugog nadležnog tijela
+2. je li protiv kandidata pokrenuta istraga odnosno vodi li se protiv kandidata kazneni postupak za kaznena djela iz stavka 1. ovoga članka
+3. je li kandidatu izrečena mjera ili protiv kandidata nadležni sudovi ili tijela vode postupke zbog nepravilnosti ili nepridržavanja bilo kojih propisa kojima se uređuje bankovna, financijska ili djelatnost osiguranja. tržište kapitala, pružanje financijskih usluga, investicijski i mirovinski fondovi, a posebno propisa kojima se uređuje sprječavanje pranja novca i financiranja terorizma, korupcija, zlouporabi tržišta kapitala, zlouporaba povlaštenih informacija, lihvarstvo ili bilo kojih drugih propisa koji uređuju poslovanje financijskih institucija,
+4. je li kandidat pravomoćno osuđen za prekršaj koji predstavlja grubo kontinuirano ili učestalo kršenje propisa iz nadležnosti Hanfe, Hrvatske narodne banke ili drugih nadzornih tijela Republike Hrvatske, država članica i trećih država,
+5. rukovodi li ili je u vrijeme počinjenja djela rukovodio društvom koje je pravomoćno osuđeno za neko od kaznenih djela iz ovoga članka, protiv kojeg su izrečene mjere ili protiv kojeg se vode postupci iz točke 3. ovoga stavka
+6. za kojega postoje podaci u središnjoj bazi podataka o administrativnim kaznama Europskih nadzornih tijela, uključujući sve trajne zabrane koje su izrečene za kršenje zahtjeva koji se odnose na odobrenja za rad i zahtjeva za suglasnost za stjecanje kvalificiranog udjela, te podaci o podnesenim pravnim lijekovima u vezi s tim mjerama i ishodima tih pravnih lijekova, ako to može dovesti u sumnju dobar ugled kandidata,
+7. dosadašnji profesionalni rad i osobni integritet kandidata,
+8. ugrožavaju li poslovni rezultati i/ili financijska stabilnost ugled osobe,
+9. postoje li drugi razlozi za sumnju u dobar ugled kandidata.
+(3) Utvrđivanje postojanja okolnosti iz stavka 1. ovoga članka ne dovodi u pitanje primjenu načela presumpcije nedužnosti iz propisa kojima se uređuje kazneni postupak.
+(4) Prilikom utvrđivanja utječu li okolnosti iz stavka 2. točaka 2. do 6. ovoga članka na dobar ugled i integritet kandidata Hanfa uzima u obzir sve dostupne podatke vezane uz vrstu kaznenopravnih sankcija, stupanj u kojemu se postupak nalazi, uložene pravne lijekove, izrečenu kaznu ili drugu kaznenopravnu sankciju, učinke rehabilitacijskih mjera, postojeće otegotne i olakotne okolnosti, značaj kaznenog djela ili prekršaja, razdoblje koje je proteklo od vremena počinjenja djela i ponašanje osobe u tom vremenu. Hanfa će voditi računa i o većem broju lakših djela koja pojedinačno ne narušavaju, ali zajedno mogu narušiti dobar ugled i integritet osobe.
+(5) Dodatno, prilikom utvrđivanja okolnosti iz stavka 2. točaka 2. do 6. ovoga članka Hanfa uzima u obzir sve podatke o svim relevantnim dosadašnjim mjerama, osudama i postupcima u vezi s kandidatom ili društvom kojim kandidat rukovodi ili je rukovodio, a koje je provela ili provodi Hanfa ili drugo nadležno tijelo.
+(6) Prilikom utvrđivanja utječu li okolnosti iz stavka 2. točke 7. ovoga članka na dobar ugled i integritet kandidata Hanfa će analizirati podatke koje upućuju na nekorektno ponašanje osobe u dosadašnjem profesionalnom radu, poput netransparentnog postupanja kao što je na primjer neuredno ili nepotpuno izvještavanje nadležnih tijela o bitnim informacijama, nesuradnje s nadležnim tijelima, uskraćivanja ili ukidanja odnosno oduzimanja odobrenja ili licence za obavljanje rukovodećih funkcija ili obavljanja stručnih zanimanja ili djelatnosti te, ako je dostupno, analizirat će i razloge otkaza ugovora o radu, kao i razloge za smjene s ključne ili slične funkcije i zabrane vođenja poslova ili zastupanja pravne osobe izrečene od nadležnog tijela ili nepostupanja po izrečenim mjerama Hanfe ili drugog nadležnog tijela kao i sve druge podatke ili dokaze koje upućuju na to da postupci kandidata nisu u skladu s visokim standardima profesionalnog ponašanja.
+(7) Prilikom utvrđivanja okolnosti iz stavka 2. točaka 8. i 9. ovoga članka Hanfa će uzeti u obzir financijske i poslovne rezultate trgovačkog društva u kojem kandidat ima ili je imao značajni udio i/ili rukovodeću funkciju, a pogotovo u trgovačkom društvu u kojem kandidat ima ili je imao značajni udio i/ili rukovodeću funkciju, a prije nego što je nad društvom provedena predstečajna nagodba, otvoren stečajni postupak, donesena odluka o prisilnoj likvidaciji ili je oduzeto odnosno ukinuto odobrenje za rad, a koji bi mogli utjecati na dobar ugled i integritet kandidata. Hanfa će pritom procijeniti je li postupanje kandidata utjecalo na nastanak ovih događaja.
+(8) Prilikom utvrđivanja okolnosti iz stavka 2. točaka 8. i 9. ovoga članka Hanfa će uzeti u obzir financijsku stabilnost osobe i njezin moguć utjecaj na dobar ugled i integritet. Pritom će se analizirati:
+1. dovodi li imovina kandidata u pitanje ispunjenje njegovih financijskih obveza u budućnosti,
+2. nalazi li se kandidat na popisu neurednih dužnika (npr. HROK, lista poreznih dužnika Ministarstva financija, kreditni registri i sl.),
+3. je li nad imovinom kandidata proveden ili se provodi postupak stečaja potrošača,
+4. je li kandidat pravomoćno osuđen i vodi li se protiv kandidata kazneni postupak za bilo koje od kaznenih djela koja nisu navedena u stavku 1. ovoga članka,
+5. podatke o prekršajnoj neosuđivanosti kandidata i vodi li se protiv kandidata prekršajni postupak,
+6. ulaganja koja predstavljaju materijalni udio u imovini kandidata, izloženost i zaduženost kandidata.
+(9) Član uprave Društva ne može biti osoba:
+1. koja je istovremeno član uprave, odnosno prokurist trgovačkog društva sa sjedištem u Republici Hrvatskoj, ili član nadzornog odbora u sljedećim pravnim osobama (osim iznimke propisane člankom 58. stavkom 3. Zakona):
+- drugog društva za osiguranje, odnosno društva za reosiguranje ili
+- mirovinskog osiguravajućeg društva ili
+- mirovinskog društva ili
+- depozitara ili
+- investicijskog društva ili
+- društva za upravljanje UCITS fondovima ili alternativnim investicijskim fondovima ili
+- kreditne institucije ili
+- drugih pravnih osoba koje posluju na temelju odobrenja ili dozvole Agencije,
+2. koja je istovremeno ovlašteni zastupnik podružnice Društva iz Republike Hrvatske, druge države članice ili treće države.

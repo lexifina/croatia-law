@@ -1,0 +1,5 @@
+## Dostava dokumentacije
+# Članak 12.
+(1) Dokumentacija propisana ovim Pravilnikom dostavlja se u izvorniku ili u preslici. U slučaju da se dostavlja preslika isprava i izjava iz ovog Pravilnika, ista se dostavlja ovjerena ili u obliku elektroničkog zapisa izdanog putem sustava e-Građani. Strane isprave i izjave iz ovog Pravilnika dostavljaju se prevedene na hrvatski jezik od strane ovlaštenog sudskog tumača a strane isprave dostavljaju se i ovjerene u skladu sa zakonom i međunarodnim propisima (Apostille - Haška Konvencija o ukidanju potrebe legalizacije stranih javnih isprava, od 5. listopada 1961. godine).
+(2) Osim dokumentacije propisane ovim Pravilnikom zahtjevu odnosno obavijesti mogu se priložiti i drugi dokumenti kojima se mogu potvrditi stručne kvalifikacije, sposobnost, radno iskustvo i dobar poslovni ugled i integritet kandidata.
+(3) Hanfa može od podnositelja zahtjeva odnosno obavijesti zatražiti i druge dokumente, podatke i informacije kojima se dokazuje da kandidat ispunjava uvjete propisane Zakonom i ovim Pravilnikom za obavljanje funkcije na koju se imenuje.
