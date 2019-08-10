@@ -1,0 +1,8 @@
+## Pretvorba knjigovodstvene isprave iz pisanog oblika u elektronički oblik
+# Članak 4.
+(1) Pretvorbu knjigovodstvene isprave izvorno nastale kao izvorni pisani dokument u elektronički oblik obavlja poduzetnik ili osoba koja za poduzetnika vodi poslovne knjige pomoću informacijskog sustava koji omogućuje da se pretvorba iz pisanog u elektronički oblik obavi na uređen i provjerljiv način. Poduzetnik ili osoba koja za poduzetnika vodi poslovne knjige mora unutarnjim pravilima utvrditi način pretvorbe knjigovodstvene isprave iz pisanog u elektronički oblik.
+(2) Informacijski sustav koji se koristi za pretvorbu knjigovodstvenih isprava iz pisanog u elektronički oblik treba generirati i pohraniti informacije o samoj pretvorbi u opsegu koji omogućuje da se utvrdi:
+- tko je i kada obavio pretvorbu isprave
+- kojim softverom je pretvorba obavljena.
+(3) Podaci iz stavka 2. ovog članka trebaju biti jednoznačno logički povezani s elektroničkim zapisom isprave ili ugrađeni u njega te zaštićeni od izmjena i dostupni radi provjere podrijetla elektroničkog zapisa isprave.
+(4) Iznimno od stavaka 1. do. 3. ovog članka, pretvorba knjigovodstvene isprave izvorno kreirane u pisanom obliku može obaviti i poduzetnik koji ima potvrdu o sukladnosti za pretvorbu dokumentacije iz papirnatog u elektronički oblik, primjenom tog informacijskog sustava koji ima potvrdu o sukladnosti za pretvorbu dokumentacije iz papirnatog u elektronički oblik ili ako je za poduzetnika obavi pravna ili fizička osoba primjenom informacijskog sustava za koji ima potvrdu o sukladnosti za pretvorbu dokumentacije iz papirnatog u elektronički oblik, sukladno propisima kojima se uređuju arhivsko gradivo i arhivi.
