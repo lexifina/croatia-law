@@ -1,0 +1,11 @@
+# Članak 7.
+(1) Uvjeti za podnošenje prijave na Natječaj za kategoriju 3 - studenti kategorizirani sportaši s valjanom kategorizacijom:
+a) Sportaš Hrvatske I., II. ili III. kategorije, što se dokazuje rješenjem Hrvatskoga olimpijskog odbora, Hrvatskoga paraolimpijskog odbora i Hrvatskoga sportskog saveza gluhih o kategorizaciji sportaša;
+b) prosječni mjesečni prihodi po članu obitelji ne prelaze 100% proračunske osnovice koja se utvrđuje svake godine odgovarajućim propisom;
+c) Izjava o članovima obitelji - pod obitelj podrazumijeva se zajednica koju čine bračni ili izvanbračni drugovi, djeca i drugi srodnici koji zajedno žive na istom prebivalištu, privređuju, ostvaruju prihod na drugi način i troše ga zajedno. Članom obitelji smatra se i dijete koje ne živi na istom prebivalištu s obitelji, a nalazi se na školovanju, do završetka redovitog školovanja, a najkasnije do navršene 26. godine života. U izračun prihoda po članu obitelji ulaze ukupni dohodak i neoporezivi primici koji se nalaze na popisu u Prilogu 1 koji je sastavni dio ovoga pravilnika.
+(2) Kriteriji za raspodjelu državnih stipendija za kategoriju 3:
+a) rang-liste za studente prve godine preddiplomskih sveučilišnih studija, integriranih preddiplomskih i diplomskih sveučilišnih studija te kratkoga stručnog studija i preddiplomskoga stručnog studija utvrđuju se na način da se broj bodova izračunava na temelju broja bodova ostvarenih na ispitu državne mature iz obveznih predmeta (Hrvatski jezik, Matematika i strani jezik);
+b) rang-liste za studente viših godina (na razini studija na kojoj su upisani) utvrđuju se na način da se broj bodova izračunava na temelju umnoška prosjeka ocjena prethodnih akademskih godina i prosječnoga broja ECTS bodova ostvarenog tijekom studija (koji može biti najviše 60 po godini studiranja);
+c) rang-liste za studente prve godine diplomskih sveučilišnih studija i specijalističkih diplomskih stručnih studija utvrđuju se na način da se broj bodova izračunava na temelju umnoška prosjeka ocjena prethodno završene razine studija i prosječnoga broja ECTS bodova ostvarenog tijekom studija na nižoj razini (koji može biti najviše 60 po godini studiranja).
+(3) U slučaju istoga mjesta na rang-listi, prednost za dodjelu državne stipendije za kategoriju 3 ostvaruju studenti:
+a) koji imaju niži prihod po članu obitelji.

@@ -1,0 +1,10 @@
+# Članak 10.
+(1) Uvjeti za podnošenje prijave na Natječaj za kategoriju 6 - studenti bez oba roditelja:
+a) student čija su oba roditelja umrla, nestala ili nepoznata, što se dokazuje dostavom OIB-a ili JMBG-a roditelja, a podaci se preuzimaju iz Državne matice. U slučaju da nije riječ o državljanima RH, student to dokazuje preslikom potvrde/rješenja nadležnog tijela izvan RH.
+(2) Kriteriji za raspodjelu državnih stipendija za kategoriju 6:
+a) rang-liste za studente prve godine preddiplomskih sveučilišnih studija, integriranih preddiplomskih i diplomskih sveučilišnih studija te kratkoga stručnog studija i preddiplomskoga stručnog studija utvrđuju se na način da se broj bodova izračunava na temelju broja bodova ostvarenih na ispitu državne mature iz obveznih predmeta (Hrvatski jezik, Matematika i strani jezik);
+b) rang-liste za studente viših godina (na razini studija na kojoj su upisani) utvrđuju se na način da se broj bodova izračunava na temelju umnoška prosjeka ocjena prethodnih akademskih godina i prosječnoga broja ECTS bodova ostvarenog tijekom studija (koji može biti najviše 60 po godini studiranja);
+c) rang-liste za studente prve godine diplomskih sveučilišnih studija i specijalističkih diplomskih stručnih studija utvrđuju se na način da se broj bodova izračunava na temelju umnoška prosjeka ocjena prethodno završene razine studija i prosječnoga broja ECTS bodova ostvarenog tijekom studija na nižoj razini (koji može biti najviše 60 po godini studiranja).
+(3) U slučaju istoga mjesta na rang-listi, prednosti za dodjelu državne stipendije za kategoriju 6 ostvaruju studenti:
+a) za studente prve godine preddiplomskih sveučilišnih studija, integriranih preddiplomskih i diplomskih sveučilišnih studija te kratkoga stručnog studija i preddiplomskoga stručnog studija uspjeh u srednjoškolskom obrazovanju;
+b) za studente viših godina studija dodatna postignuća (rektorova nagrada, dekanova/pročelnikova nagrada te druge nagrade i priznanja tijekom studija, objavljeni radovi /znanstveni ili stručni/, kao i uspjesi na natjecanjima državne ili međunarodne razine).
