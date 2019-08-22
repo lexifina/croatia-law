@@ -1,0 +1,1 @@
+Pravilnik o planu oporavka, kriterijima značajnosti i pokazateljima trenda koji ukazuju na nemogućnost kontinuiranog ispunjavanja uvjeta za rad i izdvajanju značajnih aktivnosti i procesa središnje druge ugovorne strane

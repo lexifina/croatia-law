@@ -1,0 +1,1 @@
+Na temelju članaka 549. stavka 3., 554. stavka 10. i 555. stavka 6. Zakona o tržištu kapitala (»Narodne novine« br. 65/18) Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća održanoj 8. kolovoza 2019. godine donosi

@@ -1,0 +1,11 @@
+## DIO III
+## ZAHTJEV SREDIŠNJE DRUGE UGOVORNE STRANE ZA ODOBRENJE IZDVAJANJA ZNAČAJNIH AKTIVNOSTI I PROCESA
+## Izdvajanje značajnih aktivnosti i procesa
+# Članak 9.
+(1) Sukladno članku 549 stavku 3. Zakona, izdvajanjem značajnih aktivnosti i procesa središnje druge ugovorne strane smatra se izdvajanjem glavnih aktivnosti povezanih s upravljanjem rizicima.
+(2) Sukladno članku 35. stavku 1. Uredbe (EU) 648/2012, ako središnja druga ugovorna strana planira izdvojiti glavne aktivnosti povezane s upravljanjem rizicima, dužna je prethodno Hanfi podnijeti zahtjev za odobrenjem takvog izdvajanja. Za ostala izdvajanja aktivnosti i procesa središnje druga ugovorna strana dužna je prije takvog izdvajanja obavijestiti Hanfu.
+(3) Središnja druga ugovorna strana je dužna na temelju analize rizika odrediti koje su aktivnosti iz stavka 2. ovoga članka predstavljaju izdvajanje glavnih aktivnosti povezane s upravljanjem rizicima (odnosno materijalno izdvajanje). Odgovarajuće poslovne jedinice središnje druge govorne strane trebaju biti uključene u pripremu ove analize rizika, a prvenstveno funkcija upravljanja rizikom, kao i funkcija interne revizije. Ova analiza rizika se mora revidirati kada dođe do značajnih promjena u poslovanju ili okruženju središnje druge ugovorne strane.
+(4) Prije izdvajanja glavnih aktivnosti povezanih s upravljanjem rizicima središnja druga ugovorna strana dužna je identificirati, analizirati i procijeniti rizike povezane sa takvim izdvajanjem, te njima na odgovarajući način upravljati.
+(5) Središnja druga ugovorna strana dužna je kontinuirano pratiti učinkovitost izdvojenih aktivnosti, što uključuje redovite procjene kvalitete usluge od strane osobe na koju je aktivnost izdvojena, u skladu s ugovorno utvrđenim kriterijima. Središnja druga ugovorna dužna je utvrditi jasne odgovornosti za praćenje i upravljanje izdvojenim aktivnostima. Ako središnja druga ugovorna strana namjerava raskinuti ugovor o izdvajanu, dužna je poduzeti mjere kako bi se osigurao kontinuitet i kvaliteta aktivnosti i procesa izdvojenih na vanjskih pružatelje usluga nakon raskida ugovora.
+(6) Analiza rizika iz stavaka 3. i 4. ovoga članka dostavlja se uz zahtjev iz stavka 2. ovoga članka.
+(7) Zahtjev iz stavka 2. ovoga članka minimalno obuhvaća sadržaj propisan u članku 10. ovoga pravilnika, a dostavlja se u obrascu iz Priloga I. ovoga pravilnika.
