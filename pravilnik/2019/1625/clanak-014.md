@@ -1,0 +1,5 @@
+# Članak 14.
+(1) Središnja druga ugovorna strana dužna je dostaviti Hanfi izvještaje zajedno s izvješćima iz članka 13. stavka 5. ovoga pravilnika u elektroničkom obliku potpisane naprednim elektroničkim potpisom na način propisan u tehničkoj uputi Hanfe.
+(2) Smatra se da je središnja druga ugovorna strana dostavila izvještaje iz stavka 1. ovoga članka u trenutku kada je izvještaj prihvaćen na poslužitelju Hanfe za zaprimanje izvještaja.
+(3) U opravdanim slučajevima nemogućnosti dostave izvještaja na način propisan stavkom 2. ovoga članka, središnja druga ugovorna strana dužna je u propisanom roku dostaviti iste u pisanom obliku, neposredno ili poštom u svrhu pravodobnog izvješćivanja. Središnja druga ugovorna strana dužna je dostaviti izvještaje na način propisan stavkom 1. ovoga članka čim prestanu razlozi nemogućnosti dostave, a najkasnije u roku od osam dana od isteka roka za dostavu izvještaja.
+(4) Središnja druga ugovorna strana dužna je izvještaje iz stavka 1. dostaviti Hanfi i u pisanom obliku poštom.
