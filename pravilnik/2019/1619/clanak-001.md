@@ -1,0 +1,2 @@
+# Članak 1.
+U Pravilniku o unutarnjoj reviziji u javnom sektoru (»Narodne novine«, broj 42/16) u članku 5. stavku 1. riječi »Državni ured za obnovu i stambeno zbrinjavanje« zamjenjuju se riječima »Središnji državni ured za obnovu i stambeno zbrinjavanje«, a ispred riječi »Državni zavod za statistiku« briše se veznik »i« i dodaje se zarez, a iza riječi »statistiku« dodaju se riječi »i Državni inspektorat«.
