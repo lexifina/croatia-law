@@ -1,0 +1,3 @@
+## Svrha Pravilnika
+# Članak 1.
+Ovim Pravilnikom propisuje se sadržaj zahtjeva za izdavanje odobrenja za rad središnjoj drugoj ugovornoj strani, kao i proširenje odobrenja za rad, potrebna dokumentacija koja se prilaže zahtjevu, format i sadržaj dokumentacije te način dostave zahtjeva, sve kako je propisano Zakonom o tržištu kapitala (»Narodne novine« br. 65/18), Uredbom (EU) br. 648/2012 Europskog Parlamenta i Vijeća od 4. srpnja 2012. o OTC izvedenicama, središnjoj drugoj ugovornoj strani i trgovinskom repozitoriju, pripadajućim tehničkim standardima i Zakonom o provedbi Uredbe (EU) br. 648/2012 Europskog Parlamenta i Vijeća od 4. srpnja 2012. o OTC izvedenicama, središnjoj drugoj ugovornoj strani i trgovinskom repozitoriju (»Narodne novine« br. 54/2013).
