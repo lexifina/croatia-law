@@ -1,0 +1,2 @@
+# Članak 7.
+Okvirni broj državnih službenika i namještenika u Ministarstvu gospodarstva, poduzetništva i obrta, prikazan u tablici koja je sastavni dio Uredbe o unutarnjem ustrojstvu Ministarstva gospodarstva, poduzetništva i obrta (»Narodne novine«, br. 14/17 i 90/17), zamjenjuje se Okvirnim brojem državnih službenika i namještenika u Ministarstvu gospodarstva, poduzetništva i obrta koji je sadržan u prilogu ove Uredbe i čini sastavni dio Uredbe o unutarnjem ustrojstvu Ministarstva gospodarstva, poduzetništva i obrta.
