@@ -1,0 +1,2 @@
+# Članak 4.
+Okvirni broj državnih službenika i namještenika u Ministarstvu državne imovine prikazan u tablici koja je sastavni dio Uredbe o unutarnjem ustrojstvu Ministarstva državne imovine (»Narodne novine«, broj 8/17) zamjenjuje se Okvirnim brojem državnih službenika i namještenika u Ministarstvu državne imovine koji je sadržan u tablici u prilogu ove Uredbe i koja čini sastavni dio Uredbe o unutarnjem ustrojstvu Ministarstva državne imovine.
