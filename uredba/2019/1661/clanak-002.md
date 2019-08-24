@@ -1,0 +1,2 @@
+# Članak 2.
+Tablica okvirnog broja državnih službenika i namještenika potrebnih za obavljanje poslova iz djelokruga Državnog zavoda za intelektualno vlasništvo koja je sastavni dio Uredbe o unutarnjem ustrojstvu Državnog zavoda za intelektualno vlasništvo (»Narodne novine«, broj 37/17), zamjenjuje se Tablicom okvirnog broja državnih službenika i namještenika potrebnih za obavljanje poslova iz djelokruga Državnog zavoda za intelektualno vlasništvo, koja je sastavni dio ove Uredbe.
