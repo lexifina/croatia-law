@@ -1,0 +1,2 @@
+# Članak 3.
+Okvirni broj potrebnih državnih službenika i namještenika Ministarstva regionalnoga razvoja i fondova Europske unije prikazan u tablici koja je sastavni dio Uredbe o unutarnjem ustrojstvu Ministarstva regionalnoga razvoja i fondova Europske unije (»Narodne novine«, broj 45/17) zamjenjuje se Okvirnim brojem državnih službenika i namještenika Ministarstva regionalnoga razvoja i fondova Europske unije koji je sadržan u prilogu ove Uredbe i čini sastavni dio Uredbe o unutarnjem ustrojstvu Ministarstva regionalnoga razvoja i fondova Europske unije.
