@@ -1,0 +1,8 @@
+# Članak 9.
+Iza članka 57. dodaje se članak 57.a koji glasi:
+»Članak 57.a
+U Ispostavi za nerezidente Područnog ureda Zagreb, ustrojavaju se:
+2.20.1. Odjel za nerezidente - pravne osobe
+Odjel za nerezidente - pravne osobe u Područnom uredu Zagreb, obavlja upravne i druge stručne poslove koji se odnose na registraciju i utvrđivanje obveza stranim pravnim osobama; poslove registracije i utvrđivanja prava na povrat PDV-a inozemnim poduzetnicima; poslove utvrđivanja prava na povrat poreza diplomatskim i konzularnim predstavništvima, institucijama i tijelima Europske unije te međunarodnim organizacijama; informiranje i pružanje stručne pomoći te odgovaranje na upite stranih poreznih obveznika; vođenje poreznih evidencija i izdavanje potvrda o činjenicama o kojima vodi službenu evidenciju. Obavlja i druge poslove u okviru svoga djelokruga.
+2.20.2. Odjel za nerezidente - fizičke osobe
+Odjel za nerezidente - fizičke osobe u Područnom uredu Zagreb, obavlja upravne i druge stručne poslove koji se odnose na registraciju i utvrđivanje obveza stranim fizičkim osobama; poslove registracije i utvrđivanja prava na povrat PDV-a inozemnim poduzetnicima - fizičkim osobama; utvrđivanje prava na povrat poreza diplomatskim i konzularnim predstavnicima, predstavnicima institucija i predstavnicima u tijelima Europske unije te međunarodnim organizacijama; informiranje i pružanje stručne pomoći te odgovaranje na upite stranih poreznih obveznika-fizičkih osoba; poslove utvrđivanja prava na povrat više plaćenog poreza na dohodak sukladno međunarodnim ugovorima o izbjegavanju dvostrukog oporezivanja; vođenje poreznih evidencija i izdavanje potvrda o činjenicama o kojima vodi službenu evidenciju. Obavlja i druge poslove u okviru svoga djelokruga.«.
