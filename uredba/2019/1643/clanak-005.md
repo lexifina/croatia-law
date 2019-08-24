@@ -1,0 +1,2 @@
+# Članak 5.
+Okvirni broj državnih službenika i namještenika u Ministarstvu pravosuđa, prikazan u tablici 1. koja je sastavni dio Uredbe o unutarnjem ustrojstvu Ministarstva pravosuđa (»Narodne novine«, broj 98/17) zamjenjuje se Okvirnim brojem državnih službenika i namještenika u Ministarstvu pravosuđa koji je sadržan u prilogu ove Uredbe i čini sastavni dio Uredbe o unutarnjem ustrojstvu Ministarstva pravosuđa.
