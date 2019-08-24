@@ -1,0 +1,2 @@
+# Članak 4.
+Okvirni broj državnih službenika i namještenika Ministarstva kulture prikazan u tablici koja je sastavni dio Uredbe o unutarnjem ustrojstvu Ministarstva kulture (»Narodne novine«, broj 17/17), zamjenjuje se Okvirnim brojem državnih službenika i namještenika Ministarstva kulture koji je prikazan u tablici u prilogu ove Uredbe i čini sastavni dio Uredbe o unutarnjem ustrojstvu Ministarstva kulture.
