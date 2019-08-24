@@ -1,0 +1,2 @@
+# Članak 7.
+Okvirni broj državnih službenika i namještenika u Državnom hidrometeorološkom zavoda prikazan u tablici koja je sastavni dio Uredbe o unutarnjem ustrojstvu Državnog hidrometeorološkog zavoda (»Narodne novine«, broj 132/17) zamjenjuje se Okvirnim brojem državnih službenika i namještenika u Državnom hidrometeorološkom zavodu koji je sadržan u prilogu ove Uredbe i čini sastavni dio Uredbe o unutarnjem ustrojstvu Državnog hidrometeorološkog zavoda.
