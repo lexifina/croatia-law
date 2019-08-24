@@ -1,0 +1,2 @@
+# Članak 2.
+Okvirni broj državnih službenika i namještenika Ministarstva graditeljstva i prostornoga uređenja prikazan u tablici koja je sastavni dio Uredbe o unutarnjem ustrojstvu Ministarstva graditeljstva i prostornoga uređenja (»Narodne novine«, broj 116/18), zamjenjuje se Okvirnim brojem državnih službenika i namještenika Ministarstva graditeljstva i prostornoga uređenja, koji je prikazan u tablici u prilogu ove Uredbe i čini sastavni dio Uredbe o unutarnjem ustrojstvu Ministarstva graditeljstva i prostornoga uređenja.
