@@ -1,0 +1,2 @@
+# Članak 3.
+Okvirni broj državnih službenika i namještenika Ministarstva rada i mirovinskoga sustava prikazan u tablici koja je sastavni dio Uredbe o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva rada i mirovinskoga sustava (»Narodne novine«, broj 59/19) zamjenjuje se Okvirnim broj državnih službenika i namještenika Ministarstva rada i mirovinskoga sustava koji je prikazan u prilogu ove Uredbe i čini sastavni dio Uredbe o unutarnjem ustrojstvu Ministarstva rada i mirovinskoga sustava.
