@@ -1,0 +1,2 @@
+# Članak 3.
+Okvirni broj državnih službenika i namještenika Ministarstva za demografiju, obitelj, mlade i socijalnu politiku prikazan u tablici koja je sastavni dio Uredbe o unutarnjem ustrojstvu Ministarstva za demografiju, obitelj, mlade i socijalnu politiku (»Narodne novine«, broj 43/17) zamjenjuje se Okvirnim brojem državnih službenika i namještenika Ministarstva za demografiju, obitelj, mlade i socijalnu politiku koji je sadržan u prilogu ove Uredbe i čini sastavni dio Uredbe o unutarnjem ustrojstvu Ministarstva za demografiju, obitelj, mlade i socijalnu politiku.
