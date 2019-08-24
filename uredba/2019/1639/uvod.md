@@ -1,0 +1,1 @@
+Na temelju članka 54. stavka 1., a u vezi s člankom 65. stavkom 3. Zakona o sustavu državne uprave (»Narodne novine«, broj 66/19) i članka 65. Zakona o vanjskim poslovima (»Narodne novine«, br. 48/96, 72/13, 127/13 i 39/18), Vlada Republike Hrvatske je na sjednici održanoj 22. kolovoza 2019. godine donijela
