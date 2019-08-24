@@ -1,0 +1,2 @@
+# Članak 3.
+Okvirni broj državnih službenika i namještenika Ministarstva mora, prometa i infrastrukture, prikazan u tablici koja je sastavni dio Uredbe o unutarnjem ustrojstvu Ministarstva mora, prometa i infrastrukture (»Narodne novine«, br. 76/17 i 116/17), zamjenjuje se Okvirnim brojem državnih službenika i namještenika Ministarstva mora, prometa i infrastrukture koji je prikazan u tablici u prilogu ove Uredbe i čini sastavni dio Uredbe o unutarnjem ustrojstvu Ministarstva mora, prometa i infrastrukture.
