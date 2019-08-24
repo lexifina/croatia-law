@@ -1,0 +1,2 @@
+# Članak 2.
+Okvirni broj državnih službenika, namještenika i djelatnih vojnih osoba u Ministarstvu obrane prikazan u tablici koja je sastavni dio Uredbe o unutarnjem ustrojstvu Ministarstva obrane (»Narodne novine«, broj 2/17), zamjenjuje se Okvirnim brojem državnih službenika, namještenika i djelatnih vojnih osoba u Ministarstvu obrane koji je sadržan u tablici u prilogu ove Uredbe i čini sastavni dio Uredbe o unutarnjem ustrojstvu Ministarstva obrane.
