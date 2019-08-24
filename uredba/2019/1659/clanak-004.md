@@ -1,0 +1,2 @@
+# Članak 4.
+Tablica okvirnog broja državnih službenika i namještenika potrebnih za obavljanje poslova iz djelokruga Državne geodetske uprave koja je sastavni dio Uredbe o unutarnjem ustrojstvu Državne geodetske uprave (»Narodne novine«, broj 33/17), zamjenjuje se Tablicom okvirnog broja državnih službenika i namještenika potrebnih za obavljanje poslova iz djelokruga Državne geodetske uprave, koja je sastavni dio ove Uredbe.
