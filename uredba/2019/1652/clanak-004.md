@@ -1,0 +1,2 @@
+# Članak 4.
+Okvirni broj državnih službenika i namještenika Ministarstva zaštite okoliša i energetike prikazan u tablici koja je sastavni dio Uredbe o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva zaštite okoliša i energetike (»Narodne novine«, broj 67/19), zamjenjuje se Okvirnim brojem državnih službenika i namještenika Ministarstva zaštite okoliša i energetike koji je sadržan u prilogu ove Uredbe i čini sastavni dio Uredbe o unutarnjem ustrojstvu Ministarstva zaštite okoliša i energetike.
