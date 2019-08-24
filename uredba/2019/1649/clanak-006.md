@@ -1,0 +1,2 @@
+# Članak 6.
+Okvirni broj državnih službenika i namještenika u Ministarstvu turizma prikazan u tablici koja je sastavni dio Uredbe o unutarnjem ustrojstvu Ministarstva turizma (»Narodne novine«, broj 96/17), zamjenjuje se Okvirnim brojem državnih službenika i namještenika u Ministarstvu turizma koji je prikazan u tablici u prilogu ove Uredbe i čini sastavni dio Uredbe o unutarnjem ustrojstvu Ministarstva turizma.
