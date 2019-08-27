@@ -1,0 +1,1 @@
+Na temelju članka 15. točke 1. Zakona o Fondu hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 99/18), Upravni odbor Fonda hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji, uz suglasnost Vlade Republike Hrvatske, na sjednici održanoj 27. kolovoza 2019. godine, donio je
