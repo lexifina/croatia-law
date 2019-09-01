@@ -1,0 +1,2 @@
+ZORAN PILIČIĆ postavlja se za generalnog konzula Republike Hrvatske u Bosni i Hercegovini, sa sjedištem u Banja Luci i konzularnim ovlastima nad konzularnim područjem koje obuhvaća sljedeće općine: Banja Luku, Bihać, Kozarsku Dubicu, Gradišku, Krupu, Brod, Novi Grad, Bosanski Petrovac, Bužim, Cazin, Čelinac, Derventu, Doboj, Ključ, Kotor Varoš, Laktaše, Mrkonjić Grad, Prijedor, Prnjavor, Sanski Most, Kneževo, Srbac, Šipovo, Teslić i Veliku Kladušu.
+Ova Odluka stupa na snagu 1. rujna 2019. godine.
