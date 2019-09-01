@@ -1,0 +1,5 @@
+# Članak 29.
+TERITORIJALNA PRIMJENA
+1. Bilo koja država ili Europska unija može, u trenutku potpisivanja ili polaganja svoje isprave o ratifikaciji, prihvatu ili odobrenju, odrediti područje ili područja na koja se primjenjuje ova Konvencija.
+2. Bilo koja stranka može, na bilo koji kasniji datum, izjavom upućenom glavnom tajniku Vijeća Europe, proširiti primjenu ove Konvencije na bilo koje drugo područje navedeno u izjavi, a za čije je međunarodne odnose ona odgovorna ili u čije je ime ovlaštena poduzimati aktivnosti. U odnosu na takvo područje, Konvencija stupa na snagu prvoga dana mjeseca koji slijedi nakon isteka razdoblja od tri mjeseca nakon datuma na koji glavni tajnik primi takvu izjavu.
+3. Bilo koja izjava dana u skladu s prethodna dva stavka može se, u odnosu na bilo koje područje navedeno u takvoj izjavi, povući obaviješću upućenom glavnom tajniku Vijeća Europe. Povlačenje proizvodi učinak prvog dana mjeseca koji slijedi nakon isteka razdoblja od tri mjeseca nakon datuma primitka takve obavijesti od strane glavnog tajnika.

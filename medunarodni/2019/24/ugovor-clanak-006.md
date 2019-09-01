@@ -1,0 +1,3 @@
+# Članak 6.
+USAĐIVANJE ORGANA IZVAN DOMAĆEG SUSTAVA PRESAĐIVANJA ILI KRŠENJEM OSNOVNIH NAČELA DOMAĆEG PRAVA O PRESAĐIVANJU
+Svaka stranka razmatra poduzimanje potrebnih zakonodavnih i drugih mjera kako bi u svom domaćem pravu utvrdila kao kazneno djelo, kada je počinjeno s namjerom, usađivanje ljudskih organa od živih ili s preminulih darivatelja u slučajevima kada se usađivanje provodi izvan okvira njenog domaćeg sustava presađivanja ili kada se usađivanje provodi kršenjem osnovnih načela domaćih zakona ili pravila o presađivanju. Ako stranka utvrdi kaznena djela u skladu s ovom odredbom, nastoji na takva djela primjenjivati i članke od 9. do 22.
