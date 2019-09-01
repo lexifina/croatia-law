@@ -1,0 +1,7 @@
+# Članak 81.
+Članak 394. mijenja se i glasi:
+»Ako u povodu revizije iz članka 382. ovoga Zakona utvrdi da je u postupku pred prvostupanjskim ili drugostupanjskim sudom počinjena bitna povreda odredaba parničnog postupka na koju se odnosi postupovnopravno pitanje zbog kojega je dopuštena, revizijski sud će, ovisno o vrsti te bitne povrede, odgovarajućom primjenom odredaba članka 369. ovoga Zakona, rješenjem:
+- ukinuti u cijelosti ili djelomično odluku drugostupanjskog i prvostupanjskog suda ili samo odluku drugostupanjskog suda i predmet vratiti na ponovno suđenje istom ili drugom vijeću ili sucu pojedincu prvostupanjskog ili drugostupanjskog suda,
+- ukinuti rješenjem donesene odluke i odbaciti tužbu,
+- ukinuti odluku drugostupanjskog suda, odnosno i odluku prvostupanjskog suda u dijelu u kojem je tužbeni zahtjev prekoračen tako da je dosuđeno više od onog što je traženo, a ako je tužbeni zahtjev prekoračen tako da je odlučeno o nečem drugom, a ne o onome što je traženo, ukinut će samo odluku drugostupanjskog suda ili i odluku prvostupanjskog suda i predmet vratiti drugostupanjskom, odnosno prvostupanjskom sudu na ponovno odlučivanje.
+Ako revizijski sud utvrdi da je počinjena bitna povreda odredaba parničnog postupka zbog koje se revizija iz članka 382.a ovoga Zakona može podnijeti, revizijski će sud, ovisno o vrsti te bitne povrede, odlučiti primjenjujući na odgovarajući način odredbe stavka 1. ovoga članka.«.

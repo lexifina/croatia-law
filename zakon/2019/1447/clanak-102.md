@@ -1,0 +1,5 @@
+# Članak 102.
+Članak 495. mijenja se i glasi:
+»U hitnim slučajevima ročište se može zakazati telefonom, brzojavom, elektroničkim putem u skladu s posebnim zakonom ili na drugi odgovarajući način. O tome će se sastaviti službena bilješka, ako o zakazivanju ročišta, s obzirom na to kako je obavljeno, nema drugog pisanog dokaza.
+U pozivu za pripremno ročište stranka će se poučiti i da će na tom ročištu, ako se na njemu glavna rasprava ne zaključi, biti određeno novo ročište, o kojemu, kao i o drugim ročištima koja će biti određena na prethodno održanim ročištima, neće biti posebno obaviještena, već da će podatke o tom ročištu i o drugim naknadno određenim ročištima moći saznati na mrežnoj stranici e-predmet. Smatrat će se da je stranka obaviještena o novom, odnosno novim ročištima istekom osmoga dana od dana kada je datum novog ročišta objavljen na mrežnoj stranici e-predmet.
+Odluke iz članaka 212. i 215. te članka 215.b stavka 2. ovoga Zakona sudski savjetnici su ovlašteni donijeti tijekom cijelog postupka.«.

@@ -1,0 +1,7 @@
+# Članak 69.
+Članak 385. mijenja se i glasi:
+»Prijedlog za dopuštenje revizije može se podnijeti zbog pravnog pitanja koje je važno za odluku u sporu i za osiguranje jedinstvene primjene prava i ravnopravnosti svih u njegovoj primjeni ili za razvoj prava kroz sudsku praksu.
+Prijedlog za dopuštenje revizije može se podnijeti protiv drugostupanjske presude kojom se potvrđuje prvostupanjska presuda zbog postupovnopravnog pitanja koje se odnosi na bitne povrede odredaba parničnog postupka iz članka 354. stavka 2. točaka 6., 7., 8., 10., 11. i 12. ovoga Zakona samo ako je podnositelj zbog tih povreda žalbom pobijao prvostupanjsku presudu, ili ako su te povrede učinjene tek u drugostupanjskom postupku.
+Prijedlog za dopuštenje revizije ne može se podnijeti zbog postupovnopravnog pitanja koje se odnosi na bitne povrede odredaba parničnog postupka iz članka 354. stavka 2. točke 3. ovoga Zakona i ako je odlučeno o zahtjevu o kojemu već teče parnica.
+U prijedlogu za dopuštenje revizije stranke mogu iznijeti nove činjenice i predlagati nove dokaze samo ako se oni odnose na bitne povrede odredaba parničnog postupka i ako je zbog tih povreda postavljeno postupovnopravno pitanje koje je važno za odluku u sporu.
+Prijedlog za dopuštenje revizije može se podnijeti protiv drugostupanjske presude kojom se potvrđuje prvostupanjska presuda zbog materijalnopravnog pitanja koje se odnosi na pogrešnu primjenu materijalnog prava na koju drugostupanjski sud ne pazi po službenoj dužnosti, samo ako je podnositelj zbog tog razloga žalbom pobijao prvostupanjsku presudu.«.

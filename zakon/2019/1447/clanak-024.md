@@ -1,0 +1,4 @@
+# Članak 24.
+U članku 143. iza stavka 4. dodaju se stavci 5. i 6. koji glase:
+»Ako je ponovljena dostava prema odredbi stavka 2. ovoga članka obavljena stavljanjem pismena na mrežnoj stranici e-oglasna ploča sudova, sve daljnje dostave u postupku obavit će se stavljanjem pismena na mrežnoj stranici e-oglasna ploča sudova, uz (istodobni) pokušaj dostave na adresu prebivališta iz stavka 1. ovoga članka, dok stranka ne obavijesti sud o adresi svog prebivališta ili boravišta. Smatrat će se da je dostava obavljena istekom osmoga dana od dana stavljanja pismena na mrežnoj stranici e-oglasna ploča sudova, neovisno o tome je li i kada je uspjela dostava na adresu prebivališta iz stavka 1. ovoga članka.
+Ako primatelj ne podigne pismeno ili ako se dostava ne uspije obaviti iz bilo kojeg drugog razloga, smatrat će se da dostava nije uspjela te će se pokušati još jednom ili će se obaviti stavljanjem pismena na oglasnu ploču suda, u skladu s odredbama ovoga članka.«.

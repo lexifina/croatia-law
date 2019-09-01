@@ -1,0 +1,4 @@
+# Članak 94.
+Članak 465. mijenja se i glasi:
+»Ako tužitelj ne dođe na pripremno ročište, a uredno je pozvan, smatrat će se da je povukao tužbu, osim ako se tuženik na tom ročištu ne upusti u raspravljanje.
+Sud će u pozivu za pripremno ročište, među ostalim, upozoriti stranke da će se smatrati da je tužitelj povukao tužbu ako ne dođe na pripremno ročište, da na pripremnom ročištu ne mogu iznositi nove činjenice i predlagati nove dokaze, osim u slučaju iz članka 461.a stavka 6. ovoga Zakona, da će na pripremnom ročištu zaključiti prethodni postupak i na istom ročištu održati glavnu raspravu, osim ako zbog okolnosti slučaja iz članka 461.a stavka 6. ovoga Zakona to ne bude moguće, te da se odluka može pobijati samo zbog pogrešne primjene materijalnog prava i zbog bitnih povreda odredaba parničnog postupka iz članka 354. stavka 2. ovoga Zakona, osim zbog povrede iz članka 354. stavka 2. točke 3. ovoga Zakona.«.
