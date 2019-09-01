@@ -1,0 +1,5 @@
+# Članak 12.
+U Prilogu 5., Popisu V., dijelu A, odjeljku I., točka 1.7.(a) mijenja se i glasi:
+»(a) u cijelosti ili dijelom dobiveno od Juglans L., Platanus L. i Pterocarya L., uključujući i drvo koje nije zadržalo svoju prirodnu oblu površinu«.
+U istom odjeljku, točka 2.1. mijenja se i glasi:
+»2.1. Bilje namijenjeno sadnji, osim sjemena, iz rodova Abies Mill., Apium graveolens L., Argyranthemum spp., Asparagus officinalis L., Aster spp., Brassica spp., Castanea Mill., Cucumis spp., Dendranthema (DC.) Des Moul., Dianthus L. i križanci, Exacum spp., Fragaria L., Gerbera Cass., Gypsophila L., sve sorte novogvinejskih križanaca Impatiens L., Juglans L., Lactuca spp., Larix Mill., Leucanthemum L., Lupinus L., Pelargonium l’Hérit. ex Ait., Picea A. Dietr., Pinus L., Platanus L., Populus L., Prunus laurocerasus L., Prunus lusitanica L., Pseudotsuga Carr., Pterocarya L., Quercus L., Rubus L., Spinacia L., Tanacetum L., Tsuga Carr., Ulmus L., Verbena L. i drugo bilje zeljastih vrsta, isključujući bilje iz porodice Gramineae, namijenjeno sadnji te isključujući lukovice, podanake, rizome, sjeme i gomolje«.

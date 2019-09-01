@@ -1,0 +1,1 @@
+Na temelju članka 7. stavka 3., članka 8. stavka 2., članka 10. stavka 4., članka 11. stavka 5., članka 34. stavka 9. i 10., članka 38. stavka 3., članka 39. stavka 3., 7. i 8., članka 41. stavka 3., članka 45. stavka 2., članka 46. stavka 4. i članka 47. stavka 5. Zakona o biljnom zdravstvu (»Narodne novine«, br. 75/05, 25/09, 55/11 i 115/18) ministrica poljoprivrede donosi

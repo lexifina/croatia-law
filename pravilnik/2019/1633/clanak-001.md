@@ -1,0 +1,4 @@
+# Članak 1.
+U Pravilniku o mjerama za sprječavanje unošenja i širenja organizama štetnih za bilje, biljne proizvode i druge nadzirane predmete i mjerama suzbijanja tih organizama (»Narodne novine« br. 74/06, 84/10, 120/11, 46/14, 119/14, 24/17 i 1/18) dodaje se članak 1.a. koji glasi:
+»Članak 1.a.
+Ovim se Pravilnikom u hrvatsko zakonodavstvo preuzima Direktiva Vijeća 2000/29/EZ od 8. svibnja 2000. o zaštitnim mjerama protiv unošenja u Zajednicu organizama štetnih za bilje ili biljne proizvode i protiv njihovog širenja unutar Zajednice (SL L 169, 10.7.2000.) kako je posljednji put izmijenjena Provedbenom direktivom Komisije (EU) 2019/523 оd 21. ožujka 2019. o izmjeni priloga I. do V. Direktivi Vijeća 2000/29/EZ o zaštitnim mjerama protiv unošenja u Zajednicu organizama štetnih za bilje ili biljne proizvode i protiv njihova širenja unutar Zajednice (SL L 86, 28. 3. 2019.).«
