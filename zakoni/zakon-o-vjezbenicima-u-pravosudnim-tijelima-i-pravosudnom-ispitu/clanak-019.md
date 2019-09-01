@@ -1,0 +1,6 @@
+# Članak 19.
+(1) Osobe sa završenim studijem prava koje obavljaju pravne poslove, osim vježbenika i osoba na stručnom osposobljavanju u pravosudnim tijelima, odvjetničkih i javnobilježničkih vježbenika, koje su manje od tri godine radile na pravnim poslovima dužne su radi stručnog obrazovanja za polaganje pravosudnog ispita obaviti praksu u sudu u trajanju od najmanje 12 mjeseci.
+(2) Osobe sa završenim studijem prava zaposlene u znanstveno-nastavnim, nastavnim i suradničkim zvanjima pravnih znanosti, sukladno propisima o znanstvenoj djelatnosti i visokom obrazovanju, koje su manje od tri godine radile na tim poslovima dužne su radi stručnog obrazovanja za polaganje pravosudnog ispita obaviti praksu u sudu u trajanju od najmanje 12 mjeseci.
+(3) Praksa u sudu iz stavaka 1. i 2. ovoga članka provodi se prema rasporedu koji odredi predsjednik suda, a koji mora biti usklađen s rasporedom stručne prakse sudačkih vježbenika.
+(4) Osobe iz stavaka 1. i 2. ovoga članka mogu podnijeti zahtjev predsjedniku općinskog suda radi obavljanja prakse nakon najmanje jedne godine rada na tim poslovima. Zahtjevu se prilaže suglasnost poslodavca i ugovor o radu ili rješenje o prijmu u službu.
+(5) Osobe iz stavaka 1. i 2. ovoga članka primaju se na praksu u sud rješenjem suda.

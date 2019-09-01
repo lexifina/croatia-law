@@ -1,0 +1,6 @@
+# Članak 7.
+(1) Na slobodno vježbeničko mjesto primit će se oni kandidati koji u postupku odabira ostvare ukupno najveći broj bodova.
+(2) Ukupan broj bodova određuje se na osnovi rezultata ocjena završenog studija prava, kao i na osnovi pisane provjere znanja te provedenog strukturiranog razgovora, na kojem se utvrđuju profesionalni ciljevi i motivacija kandidata za rad u pravosudnim tijelima.
+(3) Broj bodova ostvaren na temelju završenog studija prava može iznositi najviše 50% bodova, broj bodova ostvaren na temelju pisane provjere znanja iznosi najviše 40%, dok se na temelju rezultata provedenog strukturiranog razgovora može ostvariti najviše 10% bodova.
+(4) Ako ima više kandidata s istim ukupnim brojem bodova nego što ima slobodnih vježbeničkih mjesta, odabiru se oni kandidati koji pravo prednosti ostvaruju prema posebnom zakonu. Ako ima više kandidata s istim ukupnim brojem bodova nego što ima slobodnih vježbeničkih mjesta koji ne ostvaruju prednost prema posebnom zakonu, odabiru se oni kandidati koji su ostvarili veći broj bodova na temelju pisane provjere znanja.
+(5) Način utvrđivanja broja bodova iz stavka 2. ovoga članka, sadržaj pisane provjere znanja i strukturiranog razgovora pravilnikom propisuje ministar nadležan za poslove pravosuđa.
