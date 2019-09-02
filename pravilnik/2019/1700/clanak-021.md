@@ -1,0 +1,4 @@
+# Članak 21.
+(1) Nadzor nad tijekom pisanog dijela pravosudnog ispita provode tajnik Ispitnog povjerenstva ili njegov zamjenik odnosno drugi službenici ministarstva nadležnog za poslove pravosuđa. Provedbu pisanog dijela pravosudnog ispita istodobno nadziru najmanje dvije osobe.
+(2) Osobe zadužene za nadzor prije početka pisanog dijela ispita kandidatima daju upute za provedbu ispita te ih upozoravaju na posljedice uporabe nedopuštenih pomagala, prekoračenja vremena predviđenog za izradu pisane radnje, propuštanja predaje radnje, remećenja urednog tijeka ispita i neopravdanog napuštanja prostorije u kojoj se izrađuje pisana radnja.
+(3) Osobe zadužene za nadzor iz stavka 1. ovog članka kandidatima uručuju zapečaćene omotnice s pripremljenim predlošcima za izradu pisane radnje odnosno omogućuju pristup predlošku u elektroničkom obliku.
