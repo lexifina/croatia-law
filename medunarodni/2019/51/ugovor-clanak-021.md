@@ -1,0 +1,5 @@
+# Članak 21.
+OSTALI DOHODAK
+1. Dijelovi dohotka čiji je stvarni korisnik rezident države ugovornice, bez obzira gdje su nastali, a koji nisu navedeni u prethodnim člancima ovog Ugovora, oporezuju se samo u toj državi ugovornici.
+2. Odredbe stavka 1. ne primjenjuju se na dohodak, osim na dohodak od nekretnina kako su definirane u stavku 2. članka 6., ako stvarni korisnik takvog dohotka, koji je rezident države ugovornice, posluje u drugoj državi ugovornici putem stalne poslovne jedinice koja se u njoj nalazi, a pravo ili imovina na temelju kojih se dohodak isplaćuje stvarno su povezani s takvom stalnom poslovnom jedinicom. U tom se slučaju primjenjuju odredbe članka 7.
+3. Ako, zbog posebnog odnosa između isplatitelja i stvarnog korisnika ili između njih oboje i neke treće osobe, iznos dohotka naveden u stavku 1. premašuje iznos koji bi bio ugovoren između isplatitelja i stvarnog korisnika da nema takvog odnosa, odredbe ovog članka primjenjuju se samo na zadnje spomenuti iznos. U tom slučaju višak plaćenog dohotka ostaje oporeziv sukladno propisima svake države ugovornice, uzimajući u obzir druge odredbe ovog Ugovora.
