@@ -1,0 +1,2 @@
+# Članak 1.
+U Pravilniku o načinima, postupcima i elementima vrednovanja učenika u osnovnoj i srednjoj školi (»Narodne novine«, broj: 112/10) u članku 1. stavku 1., iza riječi: »utvrđuju se« dodaje se riječ: »metode«, a riječi: »odgojno-obrazovnih postignuća učenika u osnovnoj i srednjoj školi« zamjenjuju se riječima: »postignute razine ostvarenosti odgojno-obrazovnih ishoda, postignuća za učenike u osnovnim i srednjim školama«.
