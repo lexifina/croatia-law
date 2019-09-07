@@ -1,0 +1,7 @@
+# Članak 12.
+(1) Prijavljeni kandidat može odustati od pristupa polaganju ispita u neposredno predstojećem ispitnome roku ili odgoditi njegovo polaganje za naredni ispitni rok podnošenjem pisanoga zahtjeva ispitnoj komisiji putem Ministarstva najkasnije pet dana prije dana određenog za polaganje ispita.
+(2) Polaganje stručnog ispita može se odgoditi najviše dva puta.
+(3) Na pisani i obrazloženi zahtjev kandidata, predsjednik ispitne komisije može u opravdanim slučajevima (bolest kandidata, neodgodivo izvršenje profesionalnih obveza i slično) bilješkom na zahtjevu odobriti odgodu polaganja stručnog ispita za naredni ispitni rok. Uz zahtjev se prilažu odgovarajuće isprave kojima se dokazuje opravdanost odgode.
+(4) Odobrenja iz stavka 3. ovoga članka evidentiraju se u zapisniku o polaganju ispita u ispitnome roku za koji je kandidat bio prijavljen.
+(5) Kandidat koji nije pristupio polaganju stručnog ispita niti je stručni ispit odgodio sukladno odredbama stavaka 1. i 3. ovoga članka, kao i kandidat koji je pristupio polaganju stručnog ispita i tijekom njegovog trajanja odustao od polaganja bez opravdanih razloga, smatrat će se da stručni ispit nije položio.
+(6) Kandidat koji stručnom ispitu nije pristupio, a prethodno nije postupio sukladno odredbama stavaka 1. i 3. ovoga članka, može ponovno prijaviti polaganje ispita podnošenjem nove prijave iz članka 9. ovoga Pravilnika te dokaza o izvršenoj uplati naknade troškova u iznosu propisanom odlukom iz članka 8. stavka 1. ovoga Pravilnika.
