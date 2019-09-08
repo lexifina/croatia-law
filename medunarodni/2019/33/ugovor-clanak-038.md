@@ -1,0 +1,7 @@
+# Članak 38.
+Izmjene ovoga Protokola
+1. Svaka stranka može predložiti izmjene ovoga Protokola.
+2. Izmjene ovoga Protokola razmatra i donosi Skupština stranaka. Tajništvo Konvencije dostavlja strankama tekst svake predložene izmjene ovoga Protokola najmanje šest mjeseci prije sjednice na kojoj će biti predloženo donošenje izmjene. Tajništvo Konvencije također dostavlja predložene izmjene potpisnicima ovoga Protokola te depozitaru u informativne svrhe.
+3. Stranke poduzimaju sve napore koji su u njihovoj moći kako bi konsenzusom postigle dogovor o svakoj predloženu izmjeni ovoga Protokola. Ako se iscrpe svi napori za postizanje konsenzusa, a sporazum nije postignut, krajnje rješenje jest donošenje izmjene tročetvrtinskom većinom glasova stranaka koje su prisutne i glasaju na toj sjednici. Za potrebe ovoga članka, »stranke koje su prisutne i glasaju« znači stranke koje su prisutne i daju pozitivan ili negativan glas. Svaku donesenu izmjenu Tajništvo Konvencije dostavlja depozitaru koji je prosljeđuje svim strankama na prihvaćanje.
+4. Isprave o prihvatu u pogledu izmjena polažu se kod depozitara. Svaka izmjena donesena u skladu sa stavkom 3. za one stranke koje su je prihvatile stupa na snagu devedesetog dana od datuma kada je depozitar primio ispravu o prihvatu najmanje dvije trećine stranaka.
+5. Sa svaku drugu stranku izmjena stupa na snagu devedesetog dana od datuma kada je ta stranka kod depozitara položila svoju ispravu o prihvatu navedene izmjene.

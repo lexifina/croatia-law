@@ -1,0 +1,4 @@
+# Članak 24.
+Pomoć i suradnja: istraga i progon kažnjivih djela
+1. U skladu sa svojim domaćim pravom, stranke poduzimaju sve potrebne mjere, prema potrebi, za jačanje suradnje multilateralnim, regionalnim ili bilateralnim dogovorima za sprječavanje, otkrivanje, istraživanje, progon i kažnjavanje fizičkih ili pravnih osoba uključenih u nezakonitu trgovinu duhanom, duhanskim proizvodima ili opremom za proizvodnju.
+2. Svaka stranka osigurava da administrativna tijela, regulatorna tijela, tijela za izvršavanje zakonodavstva i druga tijela zadužena za borbu protiv nezakonite trgovine duhanom, duhanskim proizvodima ili opremom za proizvodnju (uključujući, ako je to dopušteno prema domaćem pravu, pravosudna tijela) surađuju i razmjenjuju relevantne informacije na nacionalnoj i međunarodnoj razini u skladu s uvjetima propisanima njezinim domaćim pravom.

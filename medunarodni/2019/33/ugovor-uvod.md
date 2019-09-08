@@ -1,0 +1,30 @@
+O UKLANJANJU NEZAKONITE TRGOVINE DUHANSKIM PROIZVODIMA
+PREAMBULA
+Stranke ovoga Protokola,
+Uzimajući u obzir da je 21. svibnja 2003., pedeset i šesta Svjetska zdravstvena skupština konsenzusom donijela Okvirnu konvenciju Svjetske zdravstvene organizacije o nadzoru nad duhanom koja je stupila na snagu 27. veljače 2005.;
+Prepoznajući da je Okvirna konvencija Svjetske zdravstvene organizacije o nadzoru nad duhanom jedan od najbrže ratificiranih ugovora Ujedinjenih naroda i temeljni alat za postizanje ciljeva Svjetske zdravstvene organizacije;
+Podsjećajući na preambulu Ustava Svjetske zdravstvene organizacije, u kojoj stoji da je pravo na uživanje najviše moguće razine zdravlja temeljno pravo svakog čovjeka bez obzira na rasu, vjeroispovijed, politička uvjerenja, ekonomsko ili socijalno stanje;
+Odlučne također dati prednost svojem pravu na zaštitu javnog zdravlja;
+Duboko zabrinute da se nezakonitom trgovinom duhanskim proizvodima doprinosi širenju duhanske epidemije, što je globalni problem s teškim posljedicama za javno zdravlje koji zahtijeva učinkovite, primjerene i sveobuhvatne domaće i međunarodne odgovore;
+Prepoznajući nadalje da se nezakonitom trgovinom duhanskim proizvodima potkopavaju cjenovne i porezne mjere osmišljene radi jačanja nadzora nad duhanom te time povećava dostupnost i pristupačnost duhanskih proizvoda;
+Ozbiljno zabrinute zbog štetnih učinaka koje povećanje dostupnosti i pristupačnosti duhanskih proizvoda kojima se nezakonito trguje ima na javno zdravlje i dobrobit, a posebno mladih ljudi, siromašnih i drugih ugroženih skupina;
+Ozbiljno zabrinute zbog nerazmjernih gospodarskih i društvenih posljedica nezakonite trgovine duhanskim proizvodima na zemlje u razvoju i zemlje s gospodarstvima u tranziciji;
+Svjesne potrebe za razvojem znanstvenih, tehničkih i institucionalnih kapaciteta za planiranje i provedbu primjerenih nacionalnih, regionalnih i međunarodnih mjera za uklanjanje svih oblika nezakonite trgovine duhanskim proizvodima;
+Priznajući da je pristup resursima i relevantnim tehnologijama od velike važnosti za unaprjeđenje sposobnosti stranaka, posebice u zemljama u razvoju i zemljama s gospodarstvom u tranziciji, kako bi se uklonili svi oblici nezakonite trgovine duhanskim proizvodima;
+Priznajući također da su slobodne zone, iako uspostavljene radi olakšavanja zakonite trgovine, upotrebljavane za olakšavanje globalizacije nezakonite trgovine duhanskim proizvodima, kako u vezi s nezakonitim provozom krijumčarenih proizvoda tako i za proizvodnju nezakonitih duhanskih proizvoda;
+Prepoznajući također da nezakonita trgovina duhanskim proizvodima potkopava gospodarstva stranaka i nepovoljno utječe na njihovu stabilnost i sigurnost;
+Također svjesne da nezakonita trgovina duhanskim proizvodima stvara financijsku dobit koja se upotrebljava za financiranje transnacionalnih kriminalnih aktivnosti koje ometaju ciljeve vlada;
+Prepoznajući da nezakonita trgovina duhanskim proizvodima potkopava ciljeve zdravstva, stavlja dodatni pritisak na zdravstvene sustave i uzrokuje gubitke prihoda gospodarstvima stranaka;
+Imajući na umu članak 5. stavak 3. Okvirne konvencije Svjetske zdravstvene organizacije o nadzoru nad duhanom u kojem su se stranke dogovorile da pri uspostavi i provedbi svojih politika javnog zdravlja u pogledu nadzora nad duhanom, stranke djeluju kako bi zaštitile te politike od komercijalnih i drugih vlastitih interesa duhanske industrije u skladu s nacionalnim pravom;
+Naglašavajući potrebu za oprezom prema bilo kakvim naporima duhanske industrije kojima se žele potkopati ili narušiti strategije borbe protiv nezakonite trgovine duhanskim proizvodima te potrebu za informiranošću o aktivnostima duhanske industrije koje imaju negativan utjecaj na strategije za borbu protiv nezakonite trgovine duhanskim proizvodima;
+Imajući na umu članak 6. stavak 2. Okvirne konvencije Svjetske zdravstvene organizacije o nadzoru nad duhanom kojim se stranke potiče na zabranu ili ograničavanje, prema potrebi, prodaje međunarodnim putnicima i/ili uvoza koji obavljaju međunarodni putnici neoporezivih i bescarinskih duhanskih proizvoda;
+Prepoznajući uz to da duhan i duhanski proizvodi u međunarodnom provozu i prekrcaju pronalaze kanal za nezakonitu trgovinu;
+Uzimajući u obzir da učinkovito djelovanje radi sprječavanja nezakonite trgovine duhanskim proizvodima i borbe protiv nje zahtijeva sveobuhvatni međunarodni pristup i blisku suradnju u svim aspektima nezakonite trgovine, uključujući, prema potrebi, nezakonitu trgovinu duhanom, duhanskim proizvodima i opremom za proizvodnju;
+Podsjećajući na i naglašavajući važnost ostalih relevantnih međunarodnih sporazuma kao što su Konvencija Ujedinjenih naroda protiv transnacionalnoga organiziranog kriminaliteta, Konvencija Ujedinjenih naroda protiv korupcije i Konvencija Ujedinjenih naroda protiv nezakonite trgovine opojnim drogama i psihotropnim tvarima te obvezu stranaka tih konvencija da primjenjuju, prema potrebi, odgovarajuće odredbe tih konvencija na nezakonitu trgovinu duhanom, duhanskim proizvodima i opremom za proizvodnju i potičući one stranke koje još nisu postale stranke tih sporazuma da razmotre taj korak;
+Prepoznajući potrebu za izgradnjom pojačane suradnje između Tajništva Okvirne konvencije Svjetske zdravstvene organizacije o nadzoru nad duhanom i Ureda Ujedinjenih naroda za droge i kriminal, Svjetske carinske organizacije te drugih tijela, prema potrebi;
+Podsjećajući na članak 15. Okvirne konvencije Svjetske zdravstvene organizacije o nadzoru nad duhanom, u kojem stranke prepoznaju, među ostalim, da je uklanjanje svih oblika nezakonite trgovine duhanskim proizvodima, uključujući krijumčarenje i nezakonitu proizvodnju, temeljna sastavnica nadzora nad duhanom;
+Uzimajući u obzir da se ovim Protokolom ne teži obrađivanju pitanja intelektualnog vlasništva i
+Uvjerene da će nadopunjavanje Okvirne konvencije Svjetske zdravstvene organizacije o nadzoru nad duhanom sveobuhvatnim protokolom biti snažno i učinkovito sredstvo suprotstavljanja nezakonitoj trgovini duhanskim proizvodima i njezinim teškim posljedicama,
+Sporazumjele su se kako slijedi:
+DIO I.
+UVOD
