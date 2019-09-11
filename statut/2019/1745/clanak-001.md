@@ -1,0 +1,6 @@
+## HRVATSKE KOMORE ARHITEKATA
+# Članak 1.
+U Statutu Hrvatske komore arhitekata (»Narodne novine« broj 140/15, 43/17) članak 2. stavak (1) mijenja se i glasi:
+»(1) Komora je samostalna i neovisna strukovna organizacija koja čuva ugled, čast i prava ovlaštenih arhitekata, ovlaštenih arhitekata urbanista, ovlaštenih voditelja građenja i ovlaštenih voditelja radova te stranih osoba koji obavljaju poslove regulirane profesije arhitektonske struke u svojstvu odgovorne osobe i krajobraznih arhitekata koji obavljaju poslove krajobrazne arhitekture, u skladu s posebnim propisima koji uređuju obavljanje djelatnosti u području prostornog uređenja i gradnje, i priznavanja inozemnih stručnih kvalifikacija, te postupaju samostalno i odgovorno«.
+Članak 2. stavak (2) mijenja se i glasi:
+»(2) Komora zastupa i usklađuje zajedničke interese ovlaštenih arhitekata, ovlaštenih arhitekata urbanista, ovlaštenih voditelja građenja, ovlaštenih voditelja radova, krajobraznih arhitekata te stranih osoba, pred državnim i drugim tijelima u zemlji i inozemstvu, te se skrbi o tome da oni savjesno, u skladu sa zakonima i propisima, poštujući javni interes obavljaju svoje poslove i pri tome štite i unaprjeđuju hrvatsku graditeljsku baštinu i vrsnoću izgrađenog okoliša«.

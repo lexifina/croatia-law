@@ -1,0 +1,2 @@
+# Članak 32.
+Ova izmjena i dopuna Statuta, donesena uz prethodne suglasnosti Ministarstva graditeljstva i prostornoga uređenja Republike Hrvatske, klasa: 011-01/19-01/26, urbroj: 531-01-19-2 od 13. veljače 2019. godine, klasa: 360-01/19-02/153, urbroj: 531-04-19-5 od 16. svibnja 2019. godine i klasa: 360-01/19-02/355, urbroj: 531-04-2-19-4 od 13. kolovoza 2019. godine, stupa na snagu danom objave u »Narodnim novinama«.
