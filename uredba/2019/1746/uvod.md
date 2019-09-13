@@ -1,0 +1,1 @@
+Na temelju članka 1. Zakona o ovlasti Vlade Republike Hrvatske da uredbama uređuje pojedina pitanja iz djelokruga Hrvatskoga sabora (»Narodne novine«, broj 96/18), Vlada Republike Hrvatske je na sjednici održanoj 12. rujna 2019. godine donijela
