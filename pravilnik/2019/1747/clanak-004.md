@@ -1,0 +1,9 @@
+## II. PRIHVATLJIVI I NEPRIHVATLJIVI TROŠKOVI
+## Prihvatljive aktivnosti i troškovi
+# Članak 4.
+(1) Prihvatljive aktivnosti iz članka 3. stavka 1. ovoga Pravilnika obuhvaćaju:
+a) utvrđivanje i kartiranje najpovoljnijih područja za razvoj akvakulture i, prema potrebi, uzimajući u obzir postupke prostornog planiranja te utvrđivanje i kartiranje područja gdje bi akvakulturu trebalo isključiti kako bi se zadržala uloga takvih područja u funkcioniranju ekosustava
+b) poboljšanje i razvoj pomoćnih objekata i infrastruktura potrebnih za povećanje potencijala akvakulturnih lokaliteta i za smanjenje negativnog utjecaja akvakulture na okoliš, uključujući ulaganja u konsolidaciju zemljišta, opskrbu energijom ili upravljanje vodama
+c) aktivnosti koje poduzimaju i provode nadležna tijela u okviru programa nadziranja zdravlja životinja, a nakon otkrivanja povećanog uginuća ili bolesti, kako je definirano u članku 10. Direktive Vijeća 2006/88/EZ od 24. listopada 2006. o zahtjevima zdravlja životinja koji se primjenjuju na životinje akvakulture i njihove proizvode te o sprečavanju i kontroli određenih bolesti akvatičnih životinja uključujući aktivnosti donošenja akcijskih planova za školjkaše s ciljem zaštite, obnove i upravljanja, uključujući podršku proizvođačima školjkaša za održavanje prirodnih ležišta školjkaša i slivnih područja.
+(2) Prihvatljivi troškovi su troškovi izravno vezani i nastali u provedbi aktivnosti iz stavka 1. ovoga članka, uključujući troškove izrade studije utjecaja na okoliš, troškovi izrade procjene o potrebi izrade studije, trošak izrade elaborata zaštite okoliša, troškovi nadzornog inženjera i troškovi pripreme projektne tehničke dokumentacije.
+(3) Prihvatljivi troškovi su troškovi nastali u razdoblju prihvatljivosti koje se definira Natječajem, izuzev troškova koji se ne mogu potvrditi kontrolom na terenu u skladu s člankom 19. ovoga Pravilnika.
