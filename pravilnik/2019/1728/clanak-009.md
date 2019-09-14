@@ -1,0 +1,9 @@
+# Članak 9.
+(1) Iznimno od odredbi članka 7. ovog Pravilnika pravo služnosti u svrhu istraživanja i eksploatacije ugljikovodika i geotermalnih voda kada se koriste u energetske svrhe te u svrhu skladištenja prirodnog plina i trajno zbrinjavanje ugljikova dioksida osniva se na prijedlog ovlaštenika eksploatacijskog polja ugljikovodika ili ovlaštenika dozvole za istraživanje i eksploataciju ugljikovodika.
+(2) Prijedlog iz stavka 1. ovoga članka podnosi se na Obrascu za osnivanje prava služnosti u svrhu istraživanja i eksploatacije ugljikovodika koji je dostupan na mrežnim stranicama Ministarstva.
+(3) Nakon što Ministarstvo utvrdi da se na predmetnom poljoprivrednom zemljištu može osnovati pravo služnosti u svrhu istraživanja i eksploatacije ugljikovodika, predlagatelj služnosti dužan je priložiti:
+- odluku o izdavanju dozvole za istraživanje odnosno dozvole za eksploataciju ili rješenje o odobrenju/utvrđivanju eksploatacijskog polja ugljikovodika dobivenu u skladu s posebnim propisima
+- lokacijsku dozvolu za zahvate u prostoru za koje se izdaje sukladno propisu iz područja prostornog uređenja ili akte za gradnju za zahvate u prostoru koji se izdaju sukladno posebnom propisu ili očitovanje nadležnog tijela da lokacijska dozvola nije potrebna
+- geodetski elaborat za osnivanje prava služnosti ovjeren od strane ovlaštenog inženjera geodezije koji sadrži kopiju katastarskog plana s ucrtanom trasom služnosti i iskazanim površinama za izvršavanje prava služnosti na svakoj pojedinoj zemljišnoj čestici
+- dokumentaciju koja sadrži osnovne podatke o predlagatelju uz dostavu odgovarajućih dokaza (OIB, dokaz o prebivalištu, odnosno sjedištu predlagatelja, dokaz o državljanstvu, odnosno podatke iz sudskog registra za pravne osobe i dr.).
+(4) Geodetski elaborat iz stavka 3. podstavka 3. ovoga članka sastavni je dio Ugovora o osnivanju prava služnosti na poljoprivrednom zemljištu u vlasništvu države.
