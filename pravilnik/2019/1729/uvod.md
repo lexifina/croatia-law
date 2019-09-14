@@ -1,0 +1,1 @@
+Na temelju članka 56. stavka 2. podstavka 1. Zakona o morskom ribarstvu (»Narodne novine«, broj 62/2017, 130/2017 i 14/2019) i članka 27. stavka 2. Zakona o akvakulturi (»Narodne novine«, broj 130/2017) ministrica poljoprivrede donosi
