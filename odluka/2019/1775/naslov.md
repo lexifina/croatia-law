@@ -1,0 +1,1 @@
+Odluka o određivanju središnjeg tijela u skladu s Delegiranom uredbom Komisije (EU) 2019/686 za slanje i primanje informacija povezanih s prijenosom vatrenog oružja unutar Unije elektroničkim sredstvima
