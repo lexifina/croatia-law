@@ -1,0 +1,2 @@
+# Članak 28.
+Subjekti u poslovanju s hranom koji obavljaju djelatnost punjenja prirodne izvorske vode u ambalažu koja se stavlja na tržište, obvezni su izraditi i provoditi plan uzorkovanja sukladno posebnom propisu o parametrima sukladnosti te uspostaviti, provoditi i održavati sustave i postupke temeljene na načelima HACCP sustava iz članka 5. stavka 2. Uredbe (EZ) br. 852/2004 Europskog parlamenta i Vijeća od 29. travnja 2004. o higijeni hrane (SL L 139, 30. 4. 2004.).

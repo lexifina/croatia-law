@@ -1,0 +1,5 @@
+# Članak 2.
+(1) Ovim se Pravilnikom u pravni poredak Republike Hrvatske prenose:
+- Direktiva 2009/54/EZ Europskoga parlamenta i Vijeća od 18. lipnja 2009. o iskorištavanju i stavljanju na tržište prirodnih mineralnih voda (preinačena) (Tekst značajan za EGP) (SL L 164, 26. 6. 2009.) i
+- Direktiva Komisije 2003/40/EZ od 16. svibnja 2003. o određivanju popisa, dopuštenih količina i zahtjeva za deklariranje sastojaka prirodnih mineralnih voda i uvjeta za korištenje zraka obogaćenog ozonom u obradi prirodnih mineralnih voda i izvorskih voda (SL L 126, 22. 5. 2003.).
+(2) Odredbe članaka 12., 16. stavka 1., 19., 20., 21., 22., 25. stavka 2., 28., 30., 31., 32., 33., 37., 38., 39. i 40. ovoga Pravilnika ne primjenjuju se na prirodne mineralne, prirodne izvorske i stolne vode koje su zakonito proizvedene i/ili stavljene na tržište u drugoj državi članici Europske unije ili Turskoj ili koje su zakonito proizvedene i/ili stavljene na tržište u državi koja pripada Europskom udruženju slobodne trgovine koja je potpisnica Sporazuma o Europskom gospodarskom prostoru.

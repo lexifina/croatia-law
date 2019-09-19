@@ -1,0 +1,3 @@
+# Članak 26.
+(1) Prirodna mineralna voda s koncentracijom fluorida većom od 1,5 mg/l mora biti označena navodom »sadrži više od 1,5 mg/l fluorida: nije pogodna za uobičajenu prehranu dojenčadi i djece ispod 7 godina starosti« u neposrednoj blizini trgovačkog naziva i uočljivim slovima.
+(2) Na temelju uvjeta iz stavka 1. ovoga članka na ambalaži mora biti navedena i stvarna količina fluorida u odnosu na fizikalno-kemijski sastav karakterističnih aniona i kationa prirodne mineralne vode, a mora se nalaziti u navodu analitičkog sastava karakterističnih aniona i kationa prirodne mineralne vode iz članka 23. stavka 3. podstavka 2. ovoga Pravilnika.

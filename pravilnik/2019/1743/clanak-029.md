@@ -1,0 +1,5 @@
+## Službena kontrola prirodne izvorske vode
+# Članak 29.
+(1) Službena kontrola provodi se periodično kako bi se utvrdilo udovoljava li prirodna izvorska voda odredbama članka 27. stavka 2. podstavaka 1., 2. i 4. ovoga Pravilnika.
+(2) Fizikalna, kemijska i fizikalno-kemijska ispitivanja kemijskih i indikatorskih parametara definiranih posebnim propisom o parametrima sukladnosti te mikrobiološka ispitivanja sukladno člancima 13., 14. i 15. ovoga Pravilnika provode službeni laboratoriji.
+(3) U slučaju da postoji opravdana sumnja ili se dokaže da prirodna izvorska voda koja je stavljena na tržište država članica Europske unije i država Europskog gospodarskog prostora predstavlja opasnost za zdravlje potrošača, odnosno da nije u skladu s odredbama ovoga Pravilnika, nadležno tijelo koje provodi službenu kontrolu će privremeno ograničiti ili zabraniti stavljanje iste na tržište Republike Hrvatske te odmah o tome i o razlozima svoje odluke obavijestiti Ministarstvo koje obavještava Europsku komisiju i ostale države članice Europske unije.

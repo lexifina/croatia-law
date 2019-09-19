@@ -1,0 +1,11 @@
+## Zajedničke odredbe označavanja prirodne mineralne i prirodne izvorske vode
+# Članak 35.
+(1) Zabranjeno je stavljati na tržište prirodnu mineralnu i prirodnu izvorsku vodu iz jednog izvora pod više od jednog trgovačkog naziva.
+(2) Trgovački naziv prirodne mineralne i prirodne izvorske vode može sadržavati naziv lokaliteta, sela ili mjesta pod uvjetom da se taj naziv odnosi na prirodnu mineralnu i prirodnu izvorsku vodu koja se crpi iz izvora u navedenom mjestu i pod uvjetom da ne stvara zabunu s obzirom na mjesto korištenja vode iz izvora.
+(3) Ako se prirodne mineralne i prirodne izvorske vode stavljaju na tržište pod trgovačkim nazivom koji se razlikuje od naziva izvora, lokaliteta ili mjesta u kojem se izvor nalazi, tada naziv lokaliteta, mjesta ili naziv izvora mora biti naveden slovima koja su najmanje jedan i pol puta viša i šira od najvećih slova korištenih za taj trgovački naziv.
+(4) Stavak 2. ovoga članka primjenjuje se i na trgovački naziv upotrijebljen u svrhu reklamiranja.
+(5) Prirodna mineralna i prirodna izvorska voda koja je bila podvrgnuta obradi zrakom obogaćenim ozonom mora biti označena navodom »voda podvrgnuta odobrenom postupku oksidacije zrakom obogaćenim ozonom« u neposrednoj blizini analitičkog sastava karakterističnih aniona i kationa.
+(6) Prirodna mineralna i prirodna izvorska voda koja je bila podvrgnuta postupku uklanjanja fluorida aktivnim aluminijevim oksidom, mora biti označena sukladno odredbama Uredbe Komisije (EU) br. 115/2010.
+(7) Kod naziva proizvoda, naziv kemijskog spoja »ugljikov dioksid« može biti zamijenjen kemijskom formulom »CO2«.
+(8) Zabranjeno je označavati prirodnu mineralnu i prirodnu izvorsku vodu na način koji vodi pripisuje svojstva vezana uz prevenciju ili liječenje bolesti.
+(9) U slučaju vode koja ne udovoljava zahtjevima za prirodnu mineralnu i prirodnu izvorsku vodu propisanim ovim Pravilnikom, zabranjeno je pri označavanju, reklamiranju i prezentiranju korištenje trgovačkih naziva, žigova, naziva marki proizvoda, slikovnih prikaza ili drugih navoda koji bi mogli dovesti do zamjene s prirodnom mineralnom i prirodnom izvorskom vodom, a posebno navoda poput »izvorska voda«, »izvor«, »vrelo« ili bilo kojih izvedenica tih riječi.
