@@ -1,0 +1,10 @@
+# Članak 10.
+(1) Tijekom jednoga radnog dana ovlašteni mjenjač može na jednome mjenjačkom mjestu primjenjivati najviše dvije tečajne liste.
+(2) Ako se ovlašteni mjenjač bavi otkupom strane gotovine i čekova koji glase na stranu valutu i prodajom strane gotovine, za svaku stranu valutu kojom trguje mora na tečajnoj listi istaknuti njezin temeljni kupovni i temeljni prodajni tečaj.
+(3) Na tečajnoj listi ovlašteni mjenjač može istaknuti povoljne kupovne odnosno povoljne prodajne tečajeve. Uz povoljne tečajeve moraju biti navedeni minimalni iznosi u kunama ili u stranoj valuti za koje vrijede ti povoljni tečajevi.
+(4) Ovlašteni mjenjač dužan je identificirati stranku pri svakoj transakciji otkupa i prodaje po povoljnom tečaju, a podatke o transakcijama voditi i čuvati u izdvojenim evidencijama.
+(5) Na tečajnoj listi najpovoljniji prodajni tečaj ovlaštenog mjenjača za stranu valutu ne smije biti jednak ili niži od njegova najpovoljnijega kupovnog tečaja za istu valutu. Po prodajnom tečaju za stranu valutu koji je manji od njegova temeljnoga kupovnog tečaja za tu stranu valutu, ovlašteni mjenjač može prodavati stranu gotovinu i čekove koji glase na stranu valutu samo banci.
+(6) U svakome radnom danu najpovoljniji prodajni tečaj ovlaštenog mjenjača za stranu valutu ne smije biti niži od kupovnog tečaja ugovorne banke za gotovinu i čekove koji glase na stranu valutu.
+(7) Mjenjačku proviziju smije naplatiti od stranke iz članka 6. stavka 1. ove Odluke ovlašteni mjenjač koji samo otkupljuje stranu gotovinu i čekove koji glase na stranu valutu te ovlašteni mjenjač koji i otkupljuje i prodaje stranu gotovinu, ali samo pri otkupu stranih kovanica.
+(8) Ovlašteni mjenjač iz stavka 7. ovog članka dužan je na tečajnoj listi navesti iznos postotka mjenjačke provizije.
+(9) Ako se ovlašteni mjenjač iz stavka 7. ovog članka na mjenjačkom mjestu bavi i otkupom i prodajom strane gotovine, dužan je staviti na mjestu i na način vidljiv strankama obavijest da mjenjačku proviziju naplaćuje isključivo pri otkupu stranih kovanica.

@@ -1,0 +1,9 @@
+## Ugovor o obavljanju mjenjačkih poslova
+# Članak 3.
+(1) Ugovorna banka može s jednim podnositeljem zahtjeva, odnosno ovlaštenim mjenjačem, sklopiti samo jedan ugovor o obavljanju mjenjačkih poslova.
+(2) Podnositelj zahtjeva, odnosno ovlašteni mjenjač, za jedno mjenjačko mjesto može sklopiti ugovor o obavljanju mjenjačkih poslova samo s jednom bankom. Ako ovlašteni mjenjač ima više mjenjačkih mjesta, može sklopiti više ugovora o obavljanju mjenjačkih poslova, s različitim bankama.
+(3) Ovlašteni mjenjač mora sklopiti ugovor o obavljanju mjenjačkih poslova za sva svoja mjenjačka mjesta.
+(4) Ugovor o obavljanju mjenjačkih poslova mora sadržavati popis mjenjačkih mjesta za koje ugovorna banka i podnositelj zahtjeva, odnosno ovlašteni mjenjač, sklapaju ugovor o obavljanju mjenjačkih poslova.
+(5) Ugovorna banka i ovlašteni mjenjač ugovaraju hoće li ovlašteni mjenjač pri obavljanju mjenjačkih poslova primjenjivati tečajeve s tečajne liste koju primjenjuje ugovorna banka ili tečajeve koje ovlašteni mjenjač sam određuje. Ako ovlašteni mjenjač i ugovorna banka ugovore da će ovlašteni mjenjač primjenjivati pri obavljanju mjenjačkih poslova tečajeve s tečajne liste ugovorne banke, a ovlašteni mjenjač kupuje stranu gotovinu i čekove koji glase na stranu valutu odnosno prodaje stranu gotovinu za koju se tečajevi ne nalaze na tečajnoj listi ugovorne banke, za tu stranu gotovinu i čekove ugovorna banka i ovlašteni mjenjač ugovaraju primjenu tečajeva koje ovlašteni mjenjač sam određuje.
+(6) Ako ugovorom o obavljanju mjenjačkih poslova nije drugačije uređeno, ovlašteni mjenjač može, osim ugovornoj banci, stranu gotovinu i čekove koji glase na stranu valutu, a koji proizlaze iz obavljanja mjenjačkih poslova, prodavati i drugoj banci.
+(7) Ovlašteni mjenjač ne može prava i/ili obveze iz ugovora o obavljanju mjenjačkih poslova prenositi na treću osobu.
