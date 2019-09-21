@@ -1,0 +1,4 @@
+# Članak 16.
+Zahtjevu za osnivanje prava služnosti na nekretnini u svrhu istraživanja i eksploatacije ugljikovodika, geotermalnih voda u energetske svrhe, skladištenja prirodnog plina, trajnog zbrinjavanja ugljikovog dioksida, osim u slučaju iz članka 2. stavka 4. ove Uredbe, uz dokumentaciju navedenu u članku 13. stavku 2. ove Uredbe obavezno se prilaže i:
+1. dozvola za istraživanje i eksploataciju ugljikovodika i sklopljeni ugovor o istraživanju i eksploataciji ugljikovodika ili dozvola za istraživanje i pridobivanje geotermalnih voda ili dozvola za istraživanje u svrhu skladištenja prirodnog plina ili dozvola za istraživanje u svrhu trajnog zbrinjavanja ugljikova dioksida
+2. lokacijska dozvola za zahvat u prostoru u skladu s propisom iz područja prostornog uređenja ili očitovanje tijela da za zahvat u prostoru nije potrebno ishoditi lokacijsku dozvolu.

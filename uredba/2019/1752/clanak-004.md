@@ -1,0 +1,3 @@
+# Članak 4.
+(1) Pravo građenja na nekretnini osniva se dvostrukim upisom toga prava u zemljišnu knjigu i to njegovim upisom kao tereta na zemljištu koje opterećuje te njegovim upisom kao posebnoga zemljišnoknjižnoga tijela u za to novoosnovanom zemljišnoknjižnom ulošku, a na temelju ugovora o osnivanju prava građenja.
+(2) Pravo građenja u svrhu izgradnje i održavanja infrastrukture (vodovoda, odvodnje otpadnih voda - kanalizacije, plinovoda, električnih i ostalih vodova kao i u svrhu druge vrste infrastrukture - komunalne, prometne, energetske, meteorološke i slične infrastrukture) osniva se neposrednom pogodbom.
