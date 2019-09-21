@@ -1,1 +1,0 @@
-Na temelju članka 57.a stavka 5. Zakona o šumama (»Narodne novine«, br. 140/05, 82/06, 129/08, 80/10, 124/10, 25/12, 68/12, 148/13 i 94/14), Vlada Republike Hrvatske je na sjednici održanoj 8. lipnja 2016. godine donijela
