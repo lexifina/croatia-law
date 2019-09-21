@@ -1,0 +1,7 @@
+# Članak 11.
+(1) Obveznici unosa podataka dužna su, po službenoj dužnosti u Registar OIEKPP upisivati pohranjivati i objavljivati podatke sukladno odredbama članaka od 19. do 22. ovoga Pravilnika.
+(2) Osim podataka iz stavka 1. ovoga članka obveznici unosa podataka dužni su, po službenoj dužnosti u Registar OIEKPP upisivati podatke o ispravama i pohranjivati isprave drugih javnih tijela, a na temelju kojih obveznici unosa podataka izdaju akte ili isprave, odnosno sklapaju ugovor.
+(3) Obveza iz stavka 2. ovoga članka ne odnosi se na isprave drugih javnih tijela koje su obveznici unosa podataka i ne odnosi se na isprave koje se pohranjuju u drugim registrima tijela javne vlasti.
+(4) Obveznici unosa podataka dužni su upisati podatke, promjene podataka te pohraniti i objaviti isprave koje izdaju, odnosno donose, u roku od 7 dana od dana izdavanja, odnosno donošenja ili po dostavi isprava od strane drugog nadležnog tijela, odnosno u roku od 7 dana od dana izvršnosti upravnih akata na temelju kojih se upis vrši.
+(5) U Registar OIEKPP se također upisuju i podaci o isteku važenja akata na temelju kojih su podaci upisani u Registar OIEKPP.
+(6) Podaci se u Registar OIEKPP upisuju i temeljem zahtjeva elektroenergetskog subjekta ili druge fizičke ili pravne osobe uz koji je priložena odgovarajuća isprava temeljem koje se upis može izvršiti sukladno zakonu kojim se uređuju obnovljivi izvori energije i visokoučinkovite kogeneracije i odredbama ovoga Pravilnika.
