@@ -1,0 +1,6 @@
+## Pretpostavke sukladnosti sa zahtjevima pristupačnosti
+# Članak 7.
+(1) Sadržaj mrežnih stranica i programskih rješenja za pokretne uređaje koji zadovoljava usklađene norme ili njihov dio, a Europska komisija je upućivanja na te norme objavila u Službenom listu Europske unije u skladu s Uredbom 1025/2012, smatra se sukladnim sa zahtjevima pristupačnosti utvrđenim u članku 6. ovoga Zakona.
+(2) Kada upućivanja na usklađenu normu iz stavka 1. ovoga članka nisu objavljena, sadržaj mrežnih stranica koji ispunjava relevantne zahtjeve ili dijelove zahtjeva europske norme EN 301 549 V1.1.2 (2015-04) smatra se sukladnim sa zahtjevima pristupačnosti utvrđenima u članku 6. ovoga Zakona.
+(3) Kada nisu objavljena upućivanja na usklađene norme iz stavka 1. ovoga članka, sadržaj programskih rješenja za pokretne uređaje koji zadovoljava tehničke specifikacije ili dijelove specifikacija smatra se sukladnim sa zahtjevima pristupačnosti utvrđenima u članku 6. ovoga Zakona.
+(4) Kada upućivanja na usklađenu normu iz stavka 1. ovoga članka nisu objavljena te nema tehničkih specifikacija iz stavka 3. ovoga članka, sadržaj programskih rješenja za pokretne uređaje koji ispunjava relevantne zahtjeve ili dijelove zahtjeva europske norme EN 301 549 V1.1.2 (2015-04) smatra se sukladnim sa zahtjevima pristupačnosti utvrđenima u članku 6. ovoga Zakona.

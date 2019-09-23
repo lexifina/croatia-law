@@ -1,0 +1,5 @@
+## Poduzimanje mjera i aktivnosti osposobljavanja i promicanja
+# Članak 10.
+(1) Središnje tijelo državne uprave nadležno za razvoj digitalnog društva poduzima mjere kako bi se olakšala primjena zahtjeva pristupačnosti i na druge vrste mrežnih stranica i programskih rješenja za pokretne uređaje osim onih iz članka 1. ovoga Zakona.
+(2) Tijelo iz stavka 1. ovoga članka, u suradnji s Državnom školom za javnu upravu, Povjerenikom za informiranje i krovnom nacionalnom organizacijom osoba s invaliditetom, organizira i provodi programe osposobljavanja djelatnika tijela javnog sektora i drugih relevantnih dionika za izradu, vođenje i održavanje sadržaja mrežnih stranica i programskih rješenja za pokretne uređaje u skladu s ovim Zakonom.
+(3) Tijelo iz stavka 1. ovoga članka u suradnji s Povjerenikom za informiranje poduzima potrebne mjere radi podizanja svijesti o zahtjevima pristupačnosti, njihovim koristima za korisnike i vlasnike mrežnih stranica i programskih rješenja za pokretne uređaje te o mogućnostima davanja povratnih informacija u slučajevima neispunjavanja zahtjeva propisanih ovim Zakonom.

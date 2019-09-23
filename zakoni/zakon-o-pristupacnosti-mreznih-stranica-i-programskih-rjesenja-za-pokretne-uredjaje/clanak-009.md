@@ -1,0 +1,11 @@
+## Izjava o pristupačnosti i povratne informacije
+# Članak 9.
+(1) Tijelo javnog sektora dužno je objaviti i redovito ažurirati detaljnu, sveobuhvatnu i jasnu izjavu o pristupačnosti u pogledu usklađenosti svojih mrežnih stranica i programskih rješenja za pokretne uređaje s odredbama ovoga Zakona.
+(2) Tijelo javnog sektora obvezno je Izjavu o pristupačnosti sastaviti na način da sadrži:
+– objašnjenje o dijelovima sadržaja koji nisu pristupačni, razloge za tu nepristupačnost te mogućnosti pružanja pristupačnih alternativa
+– opis mehanizma za davanje povratnih informacija i poveznicu na njega kako bi se svim osobama omogućilo da tijelo javnog sektora obavijeste o svim slučajevima u kojima njegove mrežne stranice ili programska rješenja za pokretne uređaje ne ispunjavaju zahtjeve pristupačnosti ili da zatraže informacije iz članka 3. stavka 2. ovoga Zakona, kao i informacije koje su zbog razloga nerazmjernog opterećenja temeljem članka 8. ovoga Zakona izuzete od usklađenosti sa zahtjevima pristupačnosti i
+– poveznicu na mrežnu stranicu tijela koje provodi inspekcijski nadzor koji bi se mogao pokrenuti u slučaju nezadovoljavajućeg odgovora na obavijest ili zahtjev.
+(3) Izjava o pristupačnosti za mrežne stranice objavljuje se na mrežnoj stranici tijela javnog sektora u pristupačnom obliku.
+(4) Izjava o pristupačnosti za programska rješenja za pokretne uređaje objavljuje se na mrežnoj stranici tijela javnog sektora koje je razvilo programsko rješenje ili se preuzima prilikom preuzimanja programskog rješenja uz ostale dostupne informacije.
+(5) Predložak Izjave o pristupačnosti iz stavaka 3. i 4. ovoga članka propisan je Provedbenom odlukom Komisije (EU) 2018/1523 od 11. listopada 2018. o utvrđivanju predloška izjave o pristupačnosti u skladu s Direktivom (EU) 2016/2102 Europskog parlamenta i Vijeća o pristupačnosti internetskih stranica i mobilnih aplikacija tijela javnog sektora (Tekst značajan za EGP) (SL L 256, 12. 10. 2018.)
+(6) Tijelo javnog sektora dužno je na obavijest ili zahtjev korisnika iz stavka 2. podstavka 2. ovoga članka odgovoriti u roku od 15 dana od dana primitka obavijesti odnosno zahtjeva ili ga u istom roku, uz detaljno obrazloženje razloga koji zahtijevaju odgodu, obavijestiti o naknadnom roku u kojem će odgovoriti na korisnikovu obavijest ili zahtjev.
