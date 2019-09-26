@@ -1,0 +1,1 @@
+Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Republici Indoneziji i za izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Republici Singapuru, sa sjedištem u Jakarti
