@@ -1,0 +1,1 @@
+Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske - šefa Stalne misije Republike Hrvatske pri Organizaciji za europsku sigurnost i suradnju (OESS), Ujedinjenim narodima i međunarodnim organizacijama, sa sjedištem u Beču
