@@ -1,0 +1,1 @@
+Odluka o postavljanju izvanredne i opunomoćene veleposlanice Republike Hrvatske u Kraljevini Nizozemskoj i za stalnu predstavnicu Republike Hrvatske pri Organizaciji za zabranu kemijskog oružja (OPCW), sa sjedištem u Den Haagu
