@@ -1,0 +1,1 @@
+Na temelju članka 275. stavak 3. Zakona o sigurnosti prometa na cestama (»Narodne novine«, broj 67/08, 48/10, 74/11, 80/13, 158/13, 92/14, 64/15, 108/17 i 70/19) glavna ravnateljica Državnog zavoda za mjeriteljstvo donosi
