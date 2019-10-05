@@ -1,0 +1,15 @@
+# Članak 2.
+(1) Pojmovi u smislu ovoga Pravilnika imaju jednako značenje kao pojmovi u:
+- Uredbi (EZ) br. 178/2002 Europskog parlamenta i Vijeća od 28. siječnja 2002. o utvrđivanju općih načela i uvjeta zakona o hrani, osnivanju Europske agencije za sigurnost hrane te utvrđivanju postupaka u područjima sigurnosti hrane (SL L 31, 1. 2. 2002.) (u daljnjem tekstu: Uredba (EZ) br. 178/2002)
+- Uredbi (EZ) br. 852/2004 Europskog parlamenta i Vijeća od 29. travnja 2004. o higijeni hrane (SL L 139, 30. 4. 2004.)
+- Uredbi (EU) br. 1169/2011 Europskog parlamenta i Vijeća od 25. listopada 2011. o informiranju potrošača o hrani, izmjeni Uredbi (EZ) br. 1924/2006 i (EZ) br. 1925/2006 Europskog parlamenta i Vijeća te o stavljanju izvan snage Direktive Komisije 87/250/EEZ, Direktive Vijeća 90/496/EEZ, Direktive Komisije 1999/10/EZ, Direktive 2000/13/EZ Europskog parlamenta i Vijeća, direktiva Komisije 2002/67/EZ i 2008/5/EZ i Uredbe Komisije (EZ) br. 608/2004 (SL L 304, 22. 11. 2011.)
+- Uredbi (EZ) br. 183/2005 Europskog parlamenta i Vijeća od 12. siječnja 2005. o utvrđivanju zahtjeva u pogledu higijene hrane za životinje (SL L 35, 8. 2. 2005.) (u daljnjem tekstu: Uredba (EZ) br. 183/2005.)
+- Uredbi (EZ) br. 1831/2003 Europskog parlamenta i Vijeća od 22. rujna 2003. o dodacima hrani za životinje (SL L 268, 18. 10. 2003.)
+- Uredbi (EZ) br. 767/2009 Europskog parlamenta i Vijeća od 13. srpnja 2009. o stavljanju na tržište i korištenju hrane za životinje, izmjeni Uredbe (EZ) br. 1831/2003 Europskog parlamenta i Vijeća i stavljanju izvan snage Direktive Vijeća 79/373/EEZ, Direktive Komisije 80/511/EEZ, direktiva Vijeća 82/471/EEZ, 83/228/EEZ, 93/74/EEZ, 93/113/EZ i 96/25/EZ te Odluke Komisije 2004/217/EZ (SL L 229, 1. 9. 2009.)
+- Uredbi (EZ) br. 1069/2009 Europskog parlamenta i Vijeća od 21. listopada 2009. o utvrđivanju zdravstvenih pravila za nusproizvode životinjskog podrijetla i od njih dobivenih proizvoda koji nisu namijenjeni prehrani ljudi te o stavljanju izvan snage Uredbe (EZ) br. 1774/2002 (SL L 300, 14. 11. 2009.)
+- Uredbi Komisije (EU) br. 142/2011 od 25. veljače 2011. o provedbi Uredbe (EZ) br. 1069/2009 Europskog parlamenta i Vijeća o utvrđivanju zdravstvenih pravila za nusproizvode životinjskog podrijetla i od njih dobivenih proizvoda koji nisu namijenjeni prehrani ljudi i o provedbi Direktive Vijeća 97/78/EZ u pogledu određenih uzoraka i predmeta koji su oslobođeni veterinarskih pregleda na granici na temelju te Direktive (SL L 54, 26. 2. 2011.)
+- Zakonu o poljoprivredi (»Narodne novine«, broj 118/18).
+(2) U smislu ovoga Pravilnika, hrana za životinje uključuje i »bivšu hranu« (hrana, osim ugostiteljskog otpada, koja je proizvedena za prehranu ljudi u cijelosti u skladu s propisima o hrani EU-a, ali koja nije više namijenjena prehrani ljudi zbog praktičnih ili logističkih razloga ili problema u proizvodnji ili pogrešaka u pakiranju ili drugih pogrešaka i nije opasna za zdravlje kada se upotrebljava kao hrana za životinje, a može biti životinjskog i neživotinjskog podrijetla).
+POGLAVLJE I.
+DONIRANJE HRANE
+1. Općenito
