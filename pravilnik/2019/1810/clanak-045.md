@@ -1,0 +1,8 @@
+## Kontrola ulaganja na terenu
+# Članak 45.
+(1) Agencija za plaćanja provodi kontrolu ulaganja na terenu kroz redovne kontrole: kontrolu prije isplate i ex-post kontrolu tijekom petogodišnjeg razdoblja nakon izvršenog konačnog plaćanja.
+(2) Osim redovnih kontrola, navedenih u stavku 1. ovoga članka kontrole na terenu mogu se provoditi u bilo kojem trenutku tijekom postupka dodjele potpore, ako je to potrebno.
+(3) Redovnom kontrolom na terenu utvrđuje se najmanje je li ulaganje stvarno provedeno, jesu li prijavljeni izdaci stvarno nastali, jesu li radovi izvršeni, jesu li materijali utrošeni, jesu li obavljene usluge i nabavljena oprema u skladu s odlukom/ugovorom o financiranju, je li zahtjev za isplatu u skladu s pravilima Europske unije i nacionalnim pravilima, je li ulaganje u uporabi ili spremno za uporabu (prije plaćanja), je li korisnik/ulaganje u skladu s ugovorenim obvezama i tijekom petogodišnjeg razdoblja nakon izvršenog konačnog plaćanja, je li došlo do sufinanciranja izdataka iz drugih izvora javne pomoći, a sve u skladu s Provedbenom uredbom Komisije (EU) br. 809/2014.
+(4) Kontrolu ulaganja može obavljati Upravljačko tijelo, Agencija za reviziju sustava provedbe programa Europske unije, Europska komisija, Europski revizorski sud, predstavnici Europskog ureda za borbu protiv prijevara (OLAF) te druge institucije koje za to imaju ovlasti po posebnim propisima.
+(5) Svi rokovi, prava i obveze korisnika po pitanju redovnih kontrola na terenu bit će propisani ugovorom o financiranju.
+Praćenje trajnosti projekta i ispunjenja obaveza iz ugovora o financiranju u petogodišnjem razdoblju nakon konačne isplate

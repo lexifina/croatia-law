@@ -1,0 +1,5 @@
+## Preračun eura
+# Članak 17.
+(1) Kada su natječajem propisani iznosi iskazani u eurima i/ili kada je dokumentacija dostavljena od korisnika koja služi za izračun iznosa potpore iskazana u eurima, preračun eura u kune obavljat će se prema zadnjem tečaju koji je Europska središnja banka odredila prije 1. siječnja godine u kojoj je Agencija za plaćanja donijela akt kojim se korisniku dodjeljuje potpora.
+(2) Kad su natječajem propisani iznosi iskazani u eurima raspoređeni na plaćanje na više godišnjih rata, preračun eura u kune za svaku godišnju ratu obavljat će se prema zadnjem tečaju koji je Europska središnja banka odredila prije 1. siječnja godine za koju se plaća predmetna rata.
+(3) Za plaćanja izvršena u stranoj valuti, u svrhu odobrenja zahtjeva za isplatu, obračun potpore temeljit će se na zadnjem tečaju koji je Europska središnja banka odredila prije 1. siječnja godine u kojoj je donesen akt kojim se korisniku dodjeljuje potpora, osim u slučaju kad korisnik kupi strana sredstva plaćanja po nižem tečaju od tečaja koji je Europska središnja banka odredila prije 1. siječnja godine u kojoj je donesen akt kojim se korisniku dodjeljuje potpora.
