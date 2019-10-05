@@ -1,0 +1,4 @@
+# Članak 1.
+U Pravilniku o Hrvatskom upisniku oporuka (»Narodne novine«, br. 135/03. i 164/04.) u članku 3. iza stavka 2. dodaju se stavci 3. i 4. koji glase:
+»Nakon oporučiteljeve smrti podatke evidentirane u HUO mogu tražiti osobe ili tijela iz drugih država članica Europske unije koja, na temelju nacionalnog propisa, provode ostavinski postupak za koji je potrebno pribaviti podatke iz HUO.
+Za primjenu stavka 3. ovoga članka ostavinski postupak je postupak koji se provodi radi utvrđivanja tko su ostaviteljevi nasljednici, što čini ostaviteljevu ostavinu, koja prava iz ostavine pripadaju nasljednicima, zapisovnicima i drugim osobama ili radi ostvarivanja prava nasljednika, zapisovnika ili drugih osoba u vezi s ostavinom odnosno poduzimanje odgovarajućih radnji radi ostvarivanja prava nasljednika, zapisovnika ili drugih osoba u vezi s ostavinom.«
