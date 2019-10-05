@@ -1,0 +1,1 @@
+Pravilnik o strukturi, sadržaju, načinu i rokovima dostave godišnjih financijskih izvještaja i revizorskog izvješća, financijskih izvještaja za razdoblja tijekom godine te primjeni kontnog plana za središnji depozitorij vrijednosnih papira

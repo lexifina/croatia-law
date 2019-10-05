@@ -1,0 +1,9 @@
+# Članak 2.
+Pojmovi koji se koriste u ovom Pravilniku imaju sljedeće značenje:
+1. Hanfa je Hrvatska agencija za nadzor financijskih usluga,
+2. Zakon je Zakon o tržištu kapitala (NN br. 65/18),
+3. Uredba (EU) br. 909/2014 je Uredba (EU) br. 909/2014 Europskog parlamenta i Vijeća od 23. srpnja 2014. o poboljšanju namire vrijednosnih papira u Europskoj uniji i o središnjim depozitorijima vrijednosnih papira te izmjeni direktiva 98/26/EZ i 2014/65/EU te Uredbe (EU) br. 236/2012.
+4. Delegirana uredba (EU) 2017/392 je Delegirana uredba Komisije (EU) 2017/392 оd 11. studenoga 2016. o dopuni Uredbe (EU) br. 909/2014 Europskog parlamenta i Vijeća u pogledu regulatornih tehničkih standarda povezanih sa zahtjevima za odobrenje za rad te nadzornim i operativnim zahtjevima za središnje depozitorije vrijednosnih papira.
+5. Provedbena uredba (EU) 2017/394 je Provedbena uredba Komisije (EU) 2017/394 оd 11. studenoga 2016. o utvrđivanju provedbenih tehničkih standarda u vezi sa standardnim obrascima, predlošcima i postupcima za izdavanje odobrenja za rad, preispitivanje i ocjenu središnjih depozitorija vrijednosnih papira, za suradnju između tijela matičnih država članica i država članica domaćina, za savjetovanje s tijelima uključenima u izdavanje odobrenja za pružanje pomoćnih usluga bankovnog tipa, za pristup koji uključuje središnje depozitorije vrijednosnih papira, te u vezi s formatom evidencije koju moraju voditi središnji depozitoriji vrijednosnih papira u skladu s Uredbom (EU) br. 909/2014 Europskog parlamenta i Vijeća.
+6. Središnji depozitorij vrijednosnih papira je središnji depozitorij vrijednosnih papira sa sjedištem u Republici Hrvatskoj kako je definiran Zakonom.
+(2) Ostali pojmovi u smislu ovog Pravilnika imaju istovjetno značenje kao pojmovi upotrijebljeni u Zakonu ili Uredbi (EU) br. 909/2014.

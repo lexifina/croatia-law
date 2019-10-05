@@ -1,0 +1,1 @@
+Na temelju članka 581. stavka 7. i 8. Zakona o tržištu kapitala (»Narodne novine« broj 65/18) te članka 19. stavka 6. Zakona o računovodstvu (»Narodne novine« broj 78/15, 134/15, 120/16 i 116/18), Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća održanoj 26. rujna 2019. donosi

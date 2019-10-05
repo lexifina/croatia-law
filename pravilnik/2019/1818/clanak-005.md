@@ -1,0 +1,9 @@
+# Članak 5.
+(1) Godišnje financijske izvještaje revidirane od strane revizora i financijske izvještaje za razdoblja tijekom godine središnji depozitorij vrijednosnih papira dužan je sastavljati sukladno strukturi i sadržaju koji su definirani na obrascima u Prilogu I ovog Pravilnika.
+(2) Bilješke uz godišnje financijske izvještaje iz članka 4. stavka 1. točke 5. ovoga Pravilnika sastavljaju se u skladu s odredbama standarda financijskog izvještavanja na način da pružaju:
+1. dodatne i dopunske informacije koje nisu prezentirane u izvještaju o financijskom položaju, izvještaju o sveobuhvatnoj dobiti, izvještaju o novčanim tokovima i izvještaju o promjenama kapitala te
+2. informacije o dodatnim podacima koji nisu prezentirani drugdje u financijskim izvještajima, ali su potrebni za razumijevanje bilo kojeg sastavnog dijela financijskih izvještaja.
+(3) Bilješke uz financijske izvještaje za tromjesečna izvještajna razdoblja sastavljaju se u skladu s odredbama standarda financijskog izvještavanja na način da uključuju:
+a) objašnjenje poslovnih događaja koji su značajni za razumijevanje promjena u izvještaju o financijskog položaju i poslovnim rezultatima za tromjesečno izvještajno razdoblje izdavatelja u odnosu na zadnju poslovnu godinu, odnosno objavljuju se informacije vezane uz te događaje i ažuriraju odgovarajuće informacije objavljene u posljednjem godišnjem financijskom izvještaju,
+b) izjavu da se iste računovodstvene politike primjenjuju prilikom sastavljanja financijskih izvještaja za tromjesečno izvještajno razdoblje kao i u posljednjim godišnjim financijskim izvještajima ili, ako su te računovodstvene politike mijenjale, opis prirode i učinka promjene,
+(4) Središnji depozitorij vrijednosnih papira koji je matično društvo dužan je sastavljati konsolidirane financijske izvještaje navedene u članku 4. stavku 1. ovoga Pravilnika u skladu s obrascima iz Priloga I ovoga Pravilnika.
