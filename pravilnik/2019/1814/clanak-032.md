@@ -1,0 +1,7 @@
+# Članak 32.
+(1) Sve pritužbe i druge informacije, uključujući ozbiljne štetne reakcije i ozbiljne štetne događaje, koje ukazuju na sumnju u izdavanje nesukladnih krvnih pripravaka moraju se dokumentirati i detaljno istražiti u odnosu na uzročne čimbenike nesukladnosti.
+(2) U slučaju potrebe, moraju se povući iz uporabe svi krvni pripravci proizvedeni iz donacije za koju se zna ili sumnja da je nesukladna, te se moraju poduzeti korektivne mjere kako bi se spriječilo pojavljivanje istog tipa nesukladnosti.
+(3) Ovlaštena zdravstvena ustanova obvezna je o ozbiljnim štetnim reakcijama i ozbiljnim štetnim događajima obavijestiti nadležna tijela na prikladan način i sukladno propisanim zahtjevima.
+(4) Ovlaštene zdravstvene ustanove moraju propisati način zaprimanja, obrade i rješavanja reklamacija.
+(5) Svaka zaposlena osoba obvezna je nakon primitka usmene ili pisane reklamacije na krvni pripravak ili uslugu ispuniti obrazac u kojem su navedene sve informacije o podnositelju reklamacije, predmetu reklamacije, tijeku rješavanja, rezultatima obrade i provedenim aktivnostima.
+(6) Voditelj osiguranja kvalitete raspodjeljuje reklamaciju prema kritičnosti u opasne ili bezopasne, samostalno ili u suradnji s drugim osobama provodi mjere istraživanja, procjenjuje opravdanost reklamacije, po potrebi pokreće poduzimanje korektivne/preventivne mjere i prati njihovu provedbu i učinkovitost te izvještava o provedenim aktivnostima.
