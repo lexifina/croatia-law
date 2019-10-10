@@ -1,0 +1,19 @@
+## Uvjeti za stjecanje ovlaštenja za tip
+# Članak 10.
+(1) Agencija će u nacionalnu dozvolu na zahtjev kandidata upisati pripadajuće ovlaštenje za tip ako kandidat dostavi dokaz o obavljenom osposobljavanju u skladu sa zahtjevima ovoga Pravilnika.
+(2) Prije početka osposobljavanja iz stavka 1. ovoga članka instruktor s privilegijom za obavljanje osposobljavanja mora izraditi i dostaviti Agenciji program osposobljavanja na odobrenje. Instruktor mora dostaviti i dokaze iz kojih je razvidno kako instruktor i kandidat ispunjavaju zahtjeve za provođenje osposobljavanja utvrđene ovim Pravilnikom. Agencija će izdati odobrenje samo ukoliko program osposobljavanja smatra prihvatljivim.
+(3) Prije početka osposobljavanja za prvo stjecanje ovlaštenja za tip jednopilotnog Aneks I aviona kandidat mora imati najmanje 70 sati naleta u ulozi zapovjednika aviona
+(4) Prije početka osposobljavanja za prvo stjecanje ovlaštenja za tip jednopilotnog Aneks I aviona visokih performansi ili višepilotnog Aneks I aviona kandidat mora imati najmanje 200 sati naleta na avionu, od čega 70 sati u ulozi zapovjednika aviona.
+(5) Prije početka osposobljavanja za prvo stjecanje ovlaštenja za tip Aneks I višemotornog helikoptera kandidat mora imati najmanje 70 sati naleta u ulozi zapovjednika helikoptera.
+(6) Prije početka osposobljavanja kandidat mora položiti teorijske ispite za stjecanje dozvole prometnog pilota aviona ili helikoptera (ATPL theory) u skladu s odredbama Part-FCL-a.
+(7) Iznimno od stavka 6. ovoga članka u slučaju osposobljavanja za tip jednopilotnog aviona ili helikoptera kandidat može završiti tečaj dodatnog teorijskog znanja odobrenog od strane Agencije u organizaciji za osposobljavanje pilota odobrenoj u skladu s Uredbom Komisije (EU) 1178/2011.
+(8) Nakon obavljenog teorijskog i praktičnog osposobljavanja instruktor mora utvrditi sposobnost kandidata za samostalno upravljanje tipom Aneks I aviona ili helikoptera, na način da kandidat položi ispit iz teorijskog znanja koji sadrži sve elemente teorijskog osposobljavanja i položi provjeru u letu u prisutnosti inspektora Agencije.
+(9) Nakon obavljenog osposobljavanja, položenog teorijskog ispita i provjere u letu, instruktor mora provedeno osposobljavanje upisati i ovjeriti svojim potpisom u knjižicu letenja te potvrditi da je kandidat sposoban sigurno upravljati Aneks I zrakoplovom.
+(10) Provedeno osposobljavanje, ispiti i provjere prihvatit će se u svrhu upisa ovlaštenja za tip u dozvolu ukoliko su završeni u roku od 12 mjeseci od datuma odobrenja programa osposobljavanja. U protivnom kandidat mora obaviti novo osposobljavanje za koje se prethodno mora ishoditi odobrenje u skladu s odredbama stavka 2. ovoga članka.
+(11) Iznimno od stavka 1. ovoga članka, osobi koja posjeduje ovlaštenje za upravljanje tipom Aneks I aviona ili helikoptera izdano od strane ministarstva nadležnog za poslove obrane Agencija će u nacionalnu dozvolu upisati ovlaštenje za tip ukoliko:
+(a) ministarstvo nadležno za poslove obrane potvrdi kako je ovlaštenje valjano u trenutku izdavanja nacionalne dozvole, ili
+(b) osoba dokaže da udovoljava zahtjevima za održavanje valjanosti ovlaštenja za tip.
+(12) Agencija će na zahtjev imatelja valjane dozvole izdane od strane druge zemlje članice Europske unije s ovlaštenjem za tip Aneks I aviona ili helikoptera izdati nacionalnu dozvolu ukoliko su uvjeti za izdavanje te dozvole najmanje na razini zahtjeva odredbi ovoga Pravilnika.
+(13) Agencija može na zahtjev imatelja valjane dozvole izdane od zemlje koja nije članica Europske Unije s ovlaštenjem za tip Aneks I aviona ili helikoptera izdati nacionalnu dozvolu uzimajući u obzir načelo uzajamnosti te ukoliko su uvjeti za izdavanje te dozvole najmanje na razini zahtjeva ovoga Pravilnika.
+Uvjeti za odobrenje programa osposobljavanja
+za ovlaštenje za tip
