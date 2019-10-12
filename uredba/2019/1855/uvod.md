@@ -1,0 +1,1 @@
+Na temelju članka 30. stavka 1. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/11, 119/14, 93/16 i 116/18), a u vezi s člankom 8. Zakona o trgovini (»Narodne novine«, br. 87/08, 116/08, 76/09 - Odluka Ustavnog suda Republike Hrvatske, 114/11, 68/13, 30/14 i 32/19), Vlada Republike Hrvatske je na sjednici održanoj 3. listopada 2019. godine donijela
