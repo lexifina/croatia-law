@@ -1,0 +1,5 @@
+## Sastavljanje Izjave o fiskalnoj odgovornosti prilikom primopredaje
+# Članak 15.
+(1) Iznimno od članka 14. ove Uredbe, prilikom postupka primopredaje čelnici sastavljaju Izjavu za razdoblje od 1. siječnja tekuće godine do datuma prestanka obnašanja dužnosti, koja se zajedno s pratećom dokumentacijom iz članka 6. stavka 1. ove Uredbe predaje čelniku, koji preuzima dužnost, i ulaže u Predmet.
+(2) Ako je datum primopredaje raniji od 1. rujna uz Izjavu sastavljenu za razdoblje od 1. siječnja tekuće godine do datuma prestanka obnašanja dužnosti, predaje se i Izvješće o otklonjenim slabostima i nepravilnostima utvrđenima prethodne godine za one slabosti i nepravilnosti koje su prema Planu otklanjanja slabosti i nepravilnosti trebale biti otklonjene u razdoblju do datuma prestanka obnašanja dužnosti te prateća dokumentacija iz članka 6. stavka 1. ove Uredbe sastavljeni za razdoblje 1. siječnja do 31. prosinca prethodne godine.
+(3) Odredbe ovoga članka se na odgovarajući način mogu primijeniti na odgovorne osobe unutarnjih ustrojstvenih jedinica obveznika.

@@ -1,0 +1,10 @@
+## Izvještavanje o primjeni fiskalnih pravila
+## Izvještaj o primjeni fiskalnih pravila uz program konvergencije
+# Članak 22.
+(1) Ministarstvo financija uz program konvergencije Vladi Republike Hrvatske (u daljnjem tekstu: Vlada) dostavlja Izvještaj o primjeni fiskalnih pravila i to za razdoblje za koje se donosi program konvergencije.
+(2) Vlada dostavlja Izvještaj iz stavka 1. ovoga članka Povjerenstvu za fiskalnu politiku.
+(3) Pri izračunu pravila strukturnog salda iskazuje se ukupni projicirani manjak/višak općeg proračuna, procjena učinka jednokratnih ili privremenih mjera koje imaju utjecaj na projicirane prihode odnosno projicirane rashode općeg proračuna te izračun jaza bruto domaćeg proizvoda, sukladno pravnim odredbama Europske unije.
+(4) Pri izračunu pravila rashoda iskazuje se referentna potencijalna stopa rasta bruto domaćeg proizvoda, koju utvrđuje Europska komisija sukladno pravnim odredbama Europske unije, ukupni projicirani rashodi općeg proračuna te projicirani učinci diskrecijskih mjera koji povećavaju odnosno smanjuju prihode općeg proračuna.
+(5) Ukupni rashodi općeg proračuna iz stavka 4. ovoga članka ne uključuju projicirane rashode za kamate, projicirane rashode za provođenje programa Europske unije bez nacionalnog sufinanciranja, godišnju promjenu u ciklički osjetljivim rashodima dok se projicirani rashodi za investicije, bez onih financiranih iz programa Europske unije, uključuju u prosječnom iznosu temeljem dinamike njihova kretanja u prethodne četiri godine.
+(6) Ako udio javnog duga prelazi referentnu vrijednost od 60 % BDP-a, u izračunu pravila javnog duga utvrđuje se smanjuje li se razlika između projiciranog udjela javnog duga u BDP-u i referentne vrijednosti od 60 % po prosječnoj stopi od jedne dvadesetine godišnje za prethodne tri godine u odnosu na promatranu godinu, uzimajući u obzir cikličke ekonomske učinke ili će biti zadovoljena u naredne dvije godine, sukladno pravnim odredbama Europske unije.
+Izvještaj o primjeni fiskalnih pravila uz prijedlog državnog proračuna i financijskih planova izvanproračunskih korisnika

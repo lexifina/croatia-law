@@ -1,0 +1,4 @@
+## Obvezni obrasci
+# Članak 13.
+(1) Obrasci: Izjava o fiskalnoj odgovornosti koja se daje ako nisu uočene slabosti i nepravilnosti (prilog 1.a), Izjava o fiskalnoj odgovornosti koja se daje ako su uočene slabosti i nepravilnosti (prilog 1.b), Upitnik o fiskalnoj odgovornosti (prilozi 2.a i 2.b), Plan otklanjanja slabosti i nepravilnosti (prilog 3.), Izvješće o otklonjenim slabostima i nepravilnostima utvrđenima prethodne godine (prilog 4.), Mišljenje unutarnje revizije o sustavu unutarnjih kontrola za područja koja su bila revidirana (prilog 5.), Zahtjev za upis podataka u Registar trgovačkih društava i drugih pravnih osoba obveznika davanja Izjave (prilog 6.a) i Zahtjev za izmjenu podataka u Registar trgovačkih društava i drugih pravnih osoba obveznika davanja Izjave (prilog 6.b) tiskani su uz ovu Uredbu i sastavni su dio ove Uredbe.
+(2) Obrasci iz stavka 1. ovoga članka dostupni su i na mrežnoj stranici Ministarstva financija.
