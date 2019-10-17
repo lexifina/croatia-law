@@ -1,0 +1,12 @@
+## Praćenje, ocjenjivanje i obavještavanje
+# Članak 14.
+(1) U skladu s člankom 9. stavcima 1. i 2. Delegirane uredbe Komisije (EU) 2017/40 nadležna tijela iz članka 4. ovoga Pravilnika odgovorna su za organiziranje, praćenje te ocjenu provedbe Školske sheme.
+(2) U skladu s člankom 9. stavkom 3. Delegirane uredbe Komisije (EU) 2017/40 ministarstvo nadležno za poljoprivredu prati provedbu Školske sheme na godišnjoj razini, ocjenjuje njezinu učinkovitost u odnosu na ciljeve i izrađuje Godišnje izvješće o praćenju provedbe Školske sheme.
+(3) U svrhu izrade Godišnjeg izvješća iz stavka 2. ovoga članka:
+- tijelo odobreno za prateće obrazovne mjere dostavlja ministarstvu nadležnom za poljoprivredu godišnje izvješće o provedbi pratećih obrazovnih mjera u okviru Školske sheme kako je propisano u članku 13. stavku 5. i 6. ovoga Pravilnika,
+- tijelo odobreno za promociju u okviru Školske sheme dostavlja ministarstvu nadležnom za poljoprivredu godišnje izvješće o promotivnim aktivnostima povezanim s člankom 23.a točke 8. Uredbe (EU) 2016/791 do datuma navedenog u članku 13. stavku 6. ovoga Pravilnika,
+- u slučaju da su tijelo odobreno za promociju i tijelo odobreno za prateće obrazovne mjere jedno tijelo (isto), dostavljaju objedinjeno godišnje izvješće u skladu s člankom 13. stavkom 6. ovoga Pravilnika,
+- tijelo odobreno za praćenje i ocjenjivanje dostavlja ministarstvu nadležnom za poljoprivredu godišnje izvješće o praćenju utjecaja Školske sheme na prehrambene navike i zdravlje školske djece do 1. prosinca za prethodnu školsku godinu,
+- Agencija za plaćanja dostavlja ministarstvu nadležnom za poljoprivredu podatke koje prikuplja i obrađuje u skladu sa zadaćama navedenima u članku 4. ovoga Pravilnika te zahtjevima navedenima u članku 9. stavku 3. Delegirane uredbe Komisije (EU) 2017/40 najkasnije do 10. siječnja za prethodnu školsku godinu.
+(4) Ministarstvo nadležno za poljoprivredu dostavlja Europskoj komisiji rezultate godišnjeg praćenja provedbe i izvješća o evaluaciji u skladu s člankom 8. Provedbene uredbe Komisije (EU) 2017/39.
+(5) Agencija za plaćanja u okviru provedbe Školske sheme provodi kontrole na terenu te prikuplja podatke o kontrolama sa svrhom izrade Godišnjeg izvješća o kontroli u skladu s člankom 9. stavkom 4. Delegirane uredbe Komisije (EU) 2017/40 te dostavlja Europskoj komisiji Godišnje izvješće o kontrolama i zaključcima koji se na njih odnose u skladu s člankom 10. stavkom 7. Delegirane uredbe Komisije (EU) 2017/39.
