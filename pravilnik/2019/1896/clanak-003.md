@@ -1,0 +1,2 @@
+# Članak 3.
+Izrazi koji se koriste u ovom Pravilniku, a imaju rodno značenje koriste se neutralno i odnose se jednako na muški i ženski rod.
