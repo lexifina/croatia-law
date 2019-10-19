@@ -1,0 +1,1 @@
+Na temelju članka 68.a stavka 3. Zakona o obrani (»Narodne novine«, br. 73/13, 75/15, 27/16, 110/17 - Odluka Ustavnog suda Republike Hrvatske, 30/18 i 70/19), Vlada Republike Hrvatske je na sjednici održanoj 10. listopada 2019. godine donijela
