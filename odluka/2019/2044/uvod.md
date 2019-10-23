@@ -1,0 +1,1 @@
+Na temelju članka 82. stavka 6. Zakona o sigurnosti i interoperabilnosti željezničkog sustava (»Narodne novine«, broj 82/13, 18/15, 110/15 i 70/17), a u svezi s člankom 22. Pravilnika o uvjetima za određivanje križanja željezničke pruge i drugih prometnica (»Narodne novine«, broj 111/15) ravnatelj Agencije za sigurnost željezničkog prometa donosi
