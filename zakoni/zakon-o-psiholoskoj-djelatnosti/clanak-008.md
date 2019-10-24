@@ -1,0 +1,16 @@
+# Članak 8.
+(1) Psihologu će se priznati pravo na obavljanje psihološke djelatnosti ako:
+1. je poslovno sposoban
+2. ima završen dodiplomski ili preddiplomski i diplomski studij psihologije u Republici Hrvatskoj ili kojem je priznata inozemna stručna kvalifikacija za obavljanje regulirane profesije – psihologa, sukladno ovom Zakonu i posebnim propisima
+3. ima položen psihološki stručni ispit
+4. je član Hrvatske psihološke komore (u daljnjem tekstu: Komora)
+5. nije pravomoćno osuđen za neko od kaznenih djela:
+a) kaznenih djela protiv života i tijela (glava X.), kaznenih djela protiv slobode i prava čovjeka i građanina (glava XI.), kaznenih djela protiv Republike Hrvatske (glava XII.), kaznenih djela protiv vrijednosti zaštićenih međunarodnim pravom (glava XIII.), kaznenih djela protiv spolne slobode i spolnog ćudoređa (glava XIV.), kaznenih djela protiv časti i ugleda (glava XV.), kaznenih djela protiv braka, obitelji i mladeži (glava XVI.), kaznenih djela protiv imovine (glava XVII.), kaznenih djela protiv zdravlja ljudi (glava XVIII.), kaznenih djela protiv sigurnosti platnog prometa i poslovanja (glava XXI.), kaznenih djela protiv vjerodostojnosti isprava (glava XXIII.), kaznenih djela protiv javnog reda (glava XXIV.), kaznenih djela protiv službene dužnosti (glava XXV.) (»Narodne novine«, br. 110/97., 27/98., 50/00. – Odluka USRH, 129/00., 51/01., 111/03., 190/03. – Odluka USRH, 105/04., 84/05., 71/06., 110/07., 152/08. i 57/11.)
+b) protiv čovječnosti i ljudskog dostojanstva (glava IX.), kaznenih djela protiv života i tijela (glava X.), kaznenih djela protiv ljudskih prava i temeljnih sloboda (glava XI.), kaznenih djela protiv radnih odnosa i socijalnog osiguranja (glava XII.), kaznenih djela protiv osobne slobode (glava XIII.), kaznenih djela protiv časti i ugleda (glava XV.), kaznenih djela protiv spolne slobode (glava XVI.), kaznenih djela spolnog zlostavljanja i iskorištavanja djeteta (glava XVII.), kaznenih djela protiv braka, obitelji i djece (glava XVIII.), kaznenih djela protiv zdravlja ljudi (glava XIX.), kaznenih djela protiv imovine (glava XXIII.), kaznenih djela protiv gospodarstva (glava XXIV.), kaznenih djela krivotvorenja (glava XXVI.), kaznenih djela protiv službene dužnosti (glava XXVIII.), kaznenih djela protiv javnog reda (glava XXX.) odnosno kaznenih djela protiv Republike Hrvatske (glava XXXII.) (»Narodne novine«, br. 125/11., 144/12., 56/15., 61/15. i 101/17.)
+6. mu nije pravomoćno izrečena prekršajna pravna sankcija za nasilje u obitelji
+7. se protiv njega ne vodi postupak pred nadležnim sudom za kazneno djelo spolnog zlostavljanja i iskorištavanja djeteta.
+(2) Ako osoba iz stavka 1. ovoga članka nema hrvatsko državljanstvo, mora znati hrvatski jezik najmanje na razini koja je potrebna za nesmetanu i nužnu komunikaciju s korisnikom psihološke djelatnosti.
+(3) Pravo na obavljanje psihološke djelatnosti priznaje se na zahtjev psihologa nakon završenog jednogodišnjeg vježbeničkog staža i položenog psihološkog stručnog ispita.
+(4) O zahtjevu iz stavka 3. ovoga članka odlučuje Komora rješenjem protiv kojeg nije dopuštena žalba.
+(5) Protiv rješenja iz stavka 4. ovoga članka može se pokrenuti upravni spor.
+(6) Komora na temelju rješenja iz stavka 4. ovoga članka upisuje psihologa u Imenik psihologa.
