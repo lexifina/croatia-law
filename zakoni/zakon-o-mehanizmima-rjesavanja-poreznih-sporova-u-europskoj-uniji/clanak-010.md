@@ -1,0 +1,16 @@
+## Savjetodavno povjerenstvo
+# Članak 10.
+(1) Sastav savjetodavnog povjerenstva iz članka 8. ovoga Zakona mora biti sljedeći:
+1. jedan predsjednik
+2. po jedan predstavnik svakog nadležnog tijela odnosnih država članica. Ako su nadležna tijela suglasna, broj predstavnika može se povećati na dvoje za svako nadležno tijelo
+3. jedna neovisna ugledna osoba koju imenuje svako nadležno tijelo odnosnih država članica s popisa iz članka 11. ovoga Zakona. Ako su nadležna tijela suglasna, broj osoba može se povećati na dvije za svako nadležno tijelo.
+(2) Nadležna tijela odnosnih država članica dogovaraju pravila za imenovanje neovisnih uglednih osoba. Nakon imenovanja neovisnih uglednih osoba, u skladu s pravilima za imenovanje neovisnih uglednih osoba, za svaku od njih imenuje se zamjenik za slučajeve kada su neovisne osobe spriječene u obavljanju svojih dužnosti.
+(3) Ako pravila za imenovanje neovisnih uglednih osoba nisu usuglašena u skladu sa stavkom 2. ovoga članka, te se osobe biraju metodom slučajnog odabira.
+(4) Osim ako je neovisne ugledne osobe imenovao nadležni sud ili nacionalno tijelo za imenovanje, u skladu s člankom 9. stavcima 2. i 3. ovoga Zakona, nadležno tijelo bilo koje odnosne države članice može uložiti prigovor na imenovanje bilo koje pojedine neovisne ugledne osobe zbog bilo kojeg razloga koji je unaprijed dogovoren među odnosnim nadležnim tijelima ili zbog bilo kojeg od sljedećih razloga:
+1. ta osoba pripada jednoj od odnosnih poreznih uprava ili radi u njezino ime, ili je bila u situaciji u bilo kojem trenutku tijekom prethodne tri godine
+2. ta osoba ima ili je imala znatan udio ili glasačko pravo u bilo kojem odnosnom poreznom obvezniku ili jest ili je bila zaposlenik ili savjetnik odnosnog poreznog obveznika u bilo kojem trenutku tijekom posljednjih pet godina prije dana njezina imenovanja
+3. ta osoba ne pruža dovoljno jamstvo nepristranosti u rješavanju spora ili sporova o kojima treba odlučivati
+4. ta osoba je zaposlenik u društvu koje pruža porezne savjete ili se na drugi način profesionalno bavi pružanjem poreznih savjeta, ili je u situaciji bila u bilo kojem trenutku tijekom razdoblja od najmanje tri godine prije dana njezina imenovanja.
+(5) Bilo koje nadležno tijelo odnosne države članice može zatražiti da neovisna ugledna osoba koja je imenovana u skladu sa stavkom 2. ili 3. ovoga članka ili njezin zamjenik otkriju svaki interes, odnos ili bilo koju drugu informaciju koja može utjecati na neovisnost ili nepristranost te osobe ili koja bi s razlogom mogla stvoriti dojam pristranosti u postupku.
+(6) U razdoblju od 12 mjeseci nakon dostavljanja mišljenja savjetodavnog povjerenstva, neovisna ugledna osoba koja je dio savjetodavnog povjerenstva ne smije biti u situaciji zbog koje bi, da je bila u toj situaciji u trenutku imenovanja u to isto savjetodavno povjerenstvo, nadležno tijelo moglo uložiti prigovor na njezino imenovanje, kako je predviđeno u ovom članku.
+(7) Predstavnici nadležnih tijela i neovisne ugledne osobe imenovani u skladu sa stavkom 1. ovoga članka biraju predsjednika s popisa osoba iz članka 11. stavka 1. ovoga Zakona. Ako navedeni predstavnici svakog nadležnog tijela i neovisna ugledna osoba dogovore drukčije, predsjednik je osoba koja obavlja dužnost sudca bilo kojeg suda države članice Europske unije.
