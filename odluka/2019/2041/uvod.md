@@ -1,0 +1,1 @@
+Na temelju članka 22. i članka 43. stavka 2. točke 9. Zakona o Hrvatskoj narodnoj banci (»Narodne novine«, br. 75/2008. i 54/2013.) te na temelju Plana izdavanja gotovog novca i numizmatičkih kompleta u 2019. godini, koji je donio guverner Hrvatske narodne banke 7. prosinca 2018., pod O. br.: 386-020/12-8/BV, guverner Hrvatske narodne banke donio je
