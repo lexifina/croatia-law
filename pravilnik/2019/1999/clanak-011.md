@@ -1,0 +1,2 @@
+# Članak 11.
+Stupanjem na snagu ovoga Pravilnika prestaje važiti Pravilnik o obrazovnom programu i ispitu za stjecanje zvanja ovlaštenog upravitelja mirovinskih fondova, ovlaštenog upravitelja mirovinskog osiguravajućeg društva, brokera i investicijskog savjetnika (»Narodne novine«, broj 133/2015), u dijelu u kojem uređuje obrazovni program i ispite za brokera i investicijskog savjetnika.
