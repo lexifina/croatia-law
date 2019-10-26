@@ -1,0 +1,1 @@
+Na temelju članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/11, 119/14, 93/16 i 116/18), a u vezi s aktivnosti 1.3.1.3. Nacionalnog programa reformi 2019., Vlada Republike Hrvatske je na sjednici održanoj 17. listopada 2019. godine donijela
