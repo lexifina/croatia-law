@@ -1,0 +1,4 @@
+# Članak 3.
+(1) Ako osoba koja je dobila odobrenje Hanfe za stjecanje kvalificiranog udjela u Društvu namjerava otpustiti svoje dionice tako da bi se zbog toga njen udjel smanjio ispod granice za koju je dobila odobrenje, mora obavijestiti Hanfu, o načinu otpuštanja i namjeravanom stjecatelju tih dionica, najmanje 8 dana prije namjeravanog otpuštanja.
+(2) Imatelj kvalificiranog udjela u Društvu dužan je bez odgađanja pisano obavijestiti Hanfu ako više ne ispunjava uvjete propisane člankom 24. Zakona o mirovinskim osiguravajućim društvima ili o postojanju drugih okolnosti koje utječu ili bi mogle utjecati na procjenu primjerenosti imatelja kvalificiranog udjela u smislu odredbi tog Zakona.
+(3) Društvo je dužno do 30. travnja tekuće godine dostaviti obavijest Hanfi o izvršenoj provjeri ispunjavanja uvjeta imatelja kvalificiranog udjela i njegovih suradnika iz članka 24. Zakona.
