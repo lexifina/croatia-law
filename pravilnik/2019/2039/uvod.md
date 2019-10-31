@@ -1,0 +1,1 @@
+Na temelju članka 124. stavka 4. Zakona o hrvatskim braniteljima iz Domovinskog rata i članovima njihovih obitelji (»Narodne novine«, br. 121/17), uz suglasnost ministrice znanosti i obrazovanja, ministar hrvatskih branitelja donosi
