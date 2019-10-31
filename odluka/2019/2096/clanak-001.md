@@ -1,0 +1,2 @@
+# Članak 1.
+Ovom se odlukom utvrđuje obveza plaćanja naknade za razvoj sustava javne odvodnje (u daljnjem tekstu: naknada za razvoj) na području Grada Pazina, Općine Lupoglav, Općine Tinjan, Općine Gračišće, Općine Cerovlje, Općine Motovun, Općine Karojba, Općine Sveti Petar u Šumi, Općine Žminj, namjena za koju se koristi, obveznici plaćanja, osnovica za obračun, način određivanja visine i obračuna, način i rokovi plaćanja te nadzor nad obračunom i naplatom.
