@@ -1,0 +1,4 @@
+# Članak 4.
+JEDNAKOST POSTUPANJA
+1. Ako nije drukčije određeno u ovom Ugovoru, na sve osobe navedene u članku 3. koje imaju prebivalište na državnom području bilo koje ugovorne stranke, kod primjene zakonodavstva ugovorne stranke u vezi s pravom na davanja i isplatom davanja, primjenjuje se načelo jednakog postupanja kao da se radi o državljanima te ugovorne stranke. Ovo se odnosi i na uzdržavane i nadživjele osobe koje prebivaju na području bilo koje ugovorne stranke u pogledu prava koja proizlaze od osoba navedenih u ovom članku.
+2. Ako nije drukčije određeno u ovom Ugovoru, svaka odredba zakonodavstva jedne ugovorne stranke koja zahtijeva da pravo na davanja ili isplata davanja ovise o prebivalištu na državnom području te ugovorne strane ne primjenjuje se na osobe koje prebivaju na državnom području druge ugovorne stranke.

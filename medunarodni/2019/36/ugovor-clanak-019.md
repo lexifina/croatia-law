@@ -1,0 +1,4 @@
+# Članak 19.
+ZAŠTITA PODATAKA
+1. Osobni podaci koje nadležno tijelo, nadležna ustanova ili tijelo za vezu jedne ugovorne stranke dostavlja prema ovom Ugovoru nadležnom tijelu, nadležnoj ustanovi ili tijelu za vezu druge ugovorne stranke, smatraju se povjerljivima i mogu se koristiti isključivo u svrhu provedbe ovog Ugovora i zakonodavstva koje se primjenjuje na temelju ovog Ugovora. U odnosu na takve podatke koje zaprimi nadležno tijelo, nadležna ustanova ili tijelo za vezu jedne ugovorne stranke primjenjuje se zakonodavstvo te ugovorne stranke.
+2. Bez obzira na zakonodavstvo ili upravnu praksu jedne ugovorne stranke, ni jedan podatak kojeg je ta ugovorna stranka primila od druge ugovorne stranke ne smije se dostaviti ili objelodaniti trećoj državi ili bilo kojoj drugoj organizaciji na državnom području jedne ugovorne stranke, bez prethodne pisane suglasnosti druge ugovorne stranke.

@@ -1,0 +1,5 @@
+# Članak 20.
+IZUZEĆE OD PLAĆANJA PRISTOJBI I OVJERA DOKUMENATA
+1. Ako zakonodavstvo jedne ugovorne stranke predviđa da su bilo koji dokumenti ili potvrde koji se podnose nadležnom tijelu ili nadležnoj ustanovi te ugovorne stranke u cijelosti ili djelomično izuzeti od plaćanja pristojbi ili troškova, uključujući konzularne pristojbe i administrativne troškove, navedeno izuzeće također se primjenjuje na odgovarajuće dokumente ili potvrde koji se podnose nadležnom tijelu ili nadležnoj ustanovi druge ugovorne stranke radi primjene ovog Ugovora ili zakonodavstva druge ugovorne stranke.
+2. Dokumenti i potvrde koje izdaju nadležno tijelo ili nadležna ustanova bilo koje ugovorne stranke radi primjene ovog Ugovora ili zakonodavstva druge ugovorne stranke, izuzimaju se od obveze ishođenja ovjere od strane diplomatskih ili konzularnih tijela ili od bilo kakvih drugih sličnih formalnosti.
+3. Preslike dokumenata ili potvrda koje je nadležno tijelo ili nadležna ustanova jedne ugovorne strane ovjerila kao istinite i točne preslike, prihvaćaju se kao istinite i točne preslike nadležnog tijela ili nadležne ustanove druge ugovorne stranke, bez potrebe daljnjeg ovjeravanja.
