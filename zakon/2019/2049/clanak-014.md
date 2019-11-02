@@ -1,0 +1,5 @@
+# Članak 14.
+Članak 49. mijenja se i glasi:
+»(1) Osoba raspoređena na radno mjesto unutarnjeg revizora dužna je u roku od godine dana od dana početka izobrazbe za stjecanje zvanja ovlaštenoga unutarnjeg revizora za javni sektor odnosno stjecanja uvjeta za certificiranje prema uvjetima strukovnih organizacija steći stručno ovlaštenje, odnosno certifikat iz članka 26. stavka 1. ovoga Zakona, a najkasnije u roku od dvije godine od dana rasporeda na radno mjesto.
+(2) Ako osoba iz stavka 1. ovoga članka nije zbog opravdanih razloga u mogućnosti steći stručno ovlaštenje ili certifikat u roku iz stavka ovoga članka, rok prestaje teći i nastavlja se od dana prestanka opravdanog razloga.
+(3) Ako osoba iz stavka 1. ovoga članka u propisanom roku ne stekne stručno ovlaštenje ili certifikat, rasporedit će se na druge poslove primjerene njezinoj obrazovnoj kvalifikaciji i sposobnostima ili ako nema odgovarajućeg radnog mjesta na koje se osoba može rasporediti, status osobe uređuje se u svemu prema važećim pozitivnim propisima.«.

@@ -1,0 +1,3 @@
+# Članak 1.
+U Zakonu o sustavu unutarnjih kontrola u javnom sektoru (»Narodne novine«, br. 78/15.) u članku 3. stavak 2. mijenja se i glasi:
+»(2) Odredbe ovoga Zakona odnose se i na trgovačka društva u vlasništvu Republike Hrvatske i/ili jedne ili više jedinica lokalne i područne (regionalne) samouprave te na druge pravne osobe kojima je osnivač Republika Hrvatska i/ili jedna ili više jedinica lokalne i područne (regionalne) samouprave (u daljnjem tekstu: trgovačka društva i druge pravne osobe) koje su utvrđene u Registru trgovačkih društava i drugih pravnih osoba obveznika davanja Izjave o fiskalnoj odgovornosti koji vodi Ministarstvo financija.«.
