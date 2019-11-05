@@ -1,0 +1,6 @@
+# Članak 9.
+(1) Ukupno prikupljena, a neutrošena sredstva naknade za razvoj za izgradnju komunalnih vodnih građevina do dana stupanja na snagu ove Odluke, koristit će se za izgradnju komunalnih vodnih građevina.
+(2) Ukupna prikupljena, a neutrošena sredstva naknade za razvoj za rješavanje imovinsko-pravnih odnosa na trasama kanalizacijskih kolektora i crpnih stanica na području Grada Trogira u okviru aglomeracija Split-Solin i Kaštela-Trogir do dana stupanja ove Odluke, koristit će se za rješavanje imovinsko-pravnih odnosa na trasama kanalizacijskih kolektora i crpnih stanica na području Grada Trogira u okviru aglomeracije Kaštela-Trogir.
+(3) Ukupno prikupljena, a ne neutrošena sredstva naknade za razvoj za realizaciju Projekta EKO-Kaštelanskog zaljeva do dana stupanja ove odluke, koristit će se - za realizaciju Projekata aglomeracija Split-Solin i Kaštela-Trogir te dovršetak realizacije Projekta EKO-Kaštelanski zaljev.
+(4) Ukupno prikupljena, a ne neutrošena sredstva naknade za razvoj za rješavanje imovinsko-pravnih odnosa, nakon što se riješe svi imovinsko pravni odnosi na trasama kanalizacijskih i crpnih stanica na području Grada Trogira u okviru aglomeracija Kaštela-Trogir prenamijenit će se za realizaciju Projekata aglomeracija Split-Solin i Kaštela-Trogir te dovršetak realizacije Projekta EKO-
+-Kaštelanski zaljev.
