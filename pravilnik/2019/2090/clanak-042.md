@@ -1,0 +1,4 @@
+# Članak 42.
+(1) Stručno povjerenstvo razmatra radove i druge dokaze o ispunjavanju stručnih uvjeta za stjecanje traženoga zvanja te ih vrednuje određenim brojem bodova sukladno odredbama ovoga Pravilnika.
+(2) Broj bodova za pojedini rad ili drugi dokaz o ispunjavanju stručnih uvjeta Stručno povjerenstvo utvrđuje imajući u vidu doprinos stručnomu radu, složenost i zahtjevnost teme ili posla na koji se odnose, kvalitetu predočenoga rezultata stručnoga rada te doprinos stvaranju ili širenju novih spoznaja i metodologija u arhivistici i razvoju arhivske teorije i prakse. Radovi i drugi priloženi dokazi koji nisu iz arhivske struke, odnosno ne pokazuju odgovarajuću stručnu razinu ili sadrže znatnije nedostatke, neće se bodovati.
+(3) Stručno povjerenstvo dužno je obrazložiti svoju ocjenu o svakome radu i drugome dokazu o ispunjavanju stručnih uvjeta koji su mu dostavljeni na prosudbu.

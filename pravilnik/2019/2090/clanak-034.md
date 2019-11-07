@@ -1,0 +1,8 @@
+## IV. POLAGANJE DOPUNSKOGA STRUČNOG ISPITA I PRIZNAVANJE INOZEMNE STRUČNE KVALIFIKACIJE
+# Članak 34.
+(1) Zaposlenicima u državnim arhivima, arhivima jedinica lokalne i područne (regionalne) samouprave, specijaliziranim arhivima, privatnim arhivima i u drugim pravnim osobama u kojima se obavljaju stručni poslovi iz arhivske ili srodnih struka, koji su položili stručni ispit u srodnim strukama, priznaje se stručni ispit sukladno ovomu Pravilniku te oni imaju pravo polagati dopunski stručni ispit iz arhivske struke.
+(2) Dopunski stručni ispit može polagati i osoba koja je položila stručni ispit za jedno od temeljnih stručnih zvanja, a želi steći drugo temeljno stručno zvanje, za koje je ostvarila druge potrebne uvjete ili drugu specijalnost.
+(3) Dopunski stručni ispit obuhvaća predmete u okviru ispita za stručno zvanje ili specijalnost koja se želi steći, a koje pristupnik nije položio u okviru ranije položenoga stručnog ispita.
+(4) Na traženje pristupnika iz stavaka 1. i 2. ovoga članka Povjerenstvo za stručne ispite određuje koja će ispitna područja pristupnik polagati u dopunskome stručnom ispitu, kao i ispitno gradivo u okviru ispitnoga programa za odgovarajuće zvanje, imajući u vidu program po kojem je pristupnik polagao stručni ispit u arhivskoj ili srodnoj struci.
+(5) Ako ispitni program prema kojem je pristupnik položio stručni ispit u srodnoj struci u potpunosti obuhvaća odgovarajući ispitni program iz ovoga Pravilnika, pristupnik ne polaže dopunski stručni ispit.
+(6) Rješenje o priznanju stručnoga ispita u srodnoj struci, na prijedlog Povjerenstva za stručne ispite, donosi ministarstvo nadležno za poslove kulture.
