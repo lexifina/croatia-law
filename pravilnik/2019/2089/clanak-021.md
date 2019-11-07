@@ -1,0 +1,5 @@
+## IV. POLAGANJE DOPUNSKOGA STRUČNOG ISPITA I PRIZNAVANJE INOZEMNE STRUČNE KVALIFIKACIJE
+# Članak 21.
+(1) Zaposlenicima u muzejima, galerijama, muzejima zajednice, ekomuzejima i samostalnim zbirkama u Republici Hrvatskoj koji su položili stručni ispit u srodnim strukama priznaje se stručni ispit sukladno ovomu Pravilniku te oni imaju pravo polagati dopunski stručni ispit iz muzejske struke.
+(2) Na traženje pristupnika iz stavka 1. ovoga članka Povjerenstvo određuje koja će ispitna područja pristupnik polagati u dopunskome stručnom ispitu, kao i ispitno gradivo u okviru ispitnoga programa za odgovarajuće stručno muzejsko zvanje, imajući u vidu program po kojem je pristupnik polagao stručni ispit u srodnoj struci.
+(3) Ako ispitni program prema kojem je pristupnik položio stručni ispit u srodnoj struci u potpunosti obuhvaća odgovarajući ispitni program iz ovoga Pravilnika, pristupnik ne polaže dopunski stručni ispit, a rješenje o priznavanju stručnoga ispita u srodnoj struci na prijedlog Povjerenstva donosi ministarstvo nadležno za poslove kulture.

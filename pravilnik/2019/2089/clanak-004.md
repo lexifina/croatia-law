@@ -1,0 +1,4 @@
+# Članak 4.
+(1) Stručna muzejska zvanja su i konzervator-restaurator, restaurator tehničar i viši restaurator tehničar te odgovarajuća viša zvanja iz područja konzervatorsko-restauratorske djelatnosti koja se stječu u skladu s propisima kojima se uređuje zaštita i očuvanje kulturnih dobara.
+(2) Drugim zvanjima u muzejskoj djelatnosti u smislu ovoga Pravilnika smatraju se i stručna zvanja iz područja knjižnične i arhivske djelatnosti koja zaposlenici u muzejima stječu u skladu s propisima koji uređuju knjižničnu i arhivsku djelatnost.
+(3) Druga zvanja u muzejskoj djelatnosti, informatičar, viši informatičar, informatičar savjetnik, voditelj marketinga, viši voditelj marketinga, savjetnik za marketing, voditelj odnosa s javnošću, viši voditelj odnosa s javnošću i savjetnik za odnose s javnošću, fotograf i viši fotograf stječu se rasporedom na radno mjesto prema općem aktu muzeja kojim se propisuju uvjeti i način stjecanja ovih zvanja.

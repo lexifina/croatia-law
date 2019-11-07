@@ -1,0 +1,7 @@
+# Članak 8.
+(1) Prijava za polaganje stručnoga ispita podnosi se Povjerenstvu za polaganje stručnih ispita u muzejskoj struci (u daljnjem tekstu: Povjerenstvo) na propisanome obrascu objavljenome na mrežnoj stranici Muzejskoga dokumentacijskog centra, koji organizira postupak polaganja stručnih ispita.
+(2) Osoba iz članka 7. stavka 2. ovoga Pravilnika prijavi za polaganje stručnoga ispita prilaže i Obrazac za bodovanje koji je sastavni dio ovoga Pravilnika, a koji se objavljuje na mrežnim stranicama Muzejskoga dokumentacijskog centra.
+(3) Prijava za ispit podnosi se Povjerenstvu u pravilu tri mjeseca prije najavljenoga ispitnog roka.
+(4) Za izradu pisanoga rada pristupnik predlaže temu i mentora s liste mentora koju je utvrdilo Hrvatsko muzejsko vijeće, a Povjerenstvo potvrđuje temu i mentora.
+(5) Pisani rad za osobe kojima je uvjet završen preddiplomski i diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij ili specijalistički diplomski stručni studij ili s njim izjednačen studij definira se u opsegu od najmanje 12 kartica teksta (najmanje 18 000 znakova s dvostrukim proredom). Pisani rad za osobe kojima je uvjet završeno srednje obrazovanje definira se u opsegu od najmanje 6 kartica teksta (najmanje 9000 znakova s dvostrukim proredom).
+(6) Pristupnik predaje Povjerenstvu jedan primjerak svoga pisanog rada koji je odobrio mentor, najkasnije 15 dana prije polaganja ispita.
