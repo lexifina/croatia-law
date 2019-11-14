@@ -1,0 +1,1 @@
+Na temelju članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/11, 119/14, 93/16 i 116/18), a u vezi s člankom 48. stavkom 2. Zakona o arhivskom gradivu i arhivima (»Narodne novine«, broj 61/18), Vlada Republike Hrvatske je na sjednici održanoj 14. studenoga 2019. godine donijela
