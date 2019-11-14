@@ -1,0 +1,7 @@
+# Članak 4.
+Zahtjev brodara za izdavanje potvrde iz članka 3. ovog Pravilnika podnosi se za svaki brod zasebno u pisanoj formi koji mora sadržavati osnovne podatke o brodaru (naziv, sjedište i porezni broj), osnovne podatke o svakom pojedinom brodu za koji se traži izdavanje potvrde (ime broda, IMO broj, zastava broda i luka upisa broda), podatke o planiranim lukama ticanja i vremenu obavljanja kabotaže te sljedeće isprave i dokumente (uz popis svih dostavljenih isprava i dokumenata):
+a) potvrdu izdanu od pomorske uprave države zastave broda da je brod ovlašten obavljati kabotažu u državi čiju zastavu vije,
+b) statutarne brodske svjedodžbe sa svim pripadnim prilozima i dodatne informacije o mogućim dospjelim ili budućim statutarnim primjedbama, potvrde, isprave i dokumente u svezi udovoljavanja statutarnim zahtjevima glede sigurnosti, zaštite okoliša, smještaja putnika, prijevoza tereta te zaštite pri radu i smještaju posade, izdane od države zastave ili organizacije priznate sukladno Uredbi 391/2009/EZ u ime države zastave, kako je, u ovisnosti o vrsti broda navedeno u Prilogu ovog Pravilnika,
+c) svjedodžbu o klasi sa svim pripadajućim prilozima uz dodatne informacije o dospjelim ili budućim uvjetima klase koja mora biti izdana od organizacije priznate u skladu s Uredbom 391/2009/EZ,
+d) informacije o možebitnim oslobađanjima (izuzećima), jednakovrijednim tehničkim rješenjima ili bilo kakvim ograničenjima izdanim ili odobrenim od pomorske uprave države zastave,
+e) dokaz o osiguranju odnosno financijskom jamstvu sukladno odredbama Pomorskog zakonika.

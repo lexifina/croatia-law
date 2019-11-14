@@ -1,0 +1,4 @@
+# Članak 7.
+(1) Brodar iz članka 3. ovog Pravilnika dužan je dostaviti dodatne informacije odnosno dopuniti nepotpuni zahtjev potrebnim ispravama i dokumentima odnosno informacijama u roku ne dužem od 15 (petnaest) dana od kada to zatraži Ministarstvo.
+(2) Ako brodar koji podnese zahtjev za izdavanje potvrde iz članka 3. ovog Pravilnika ne dopuni zahtjev u skladu sa stavkom 1. ovoga članka, kao i ako Ministarstvo po potpunom zahtjevu utvrdi da brod nije tehnički podoban za obavljanje kabotaže, obavijestit će stranku da nije moguće izdati potvrdu.
+(3) U slučaju da u trenutku podnošenja zahtjeva brodar nije u mogućnosti dostaviti dokaze o udovoljavanju odredbama članaka 10., 11.,12.,13. i 14. ovog Pravilnika vezano uz članove posade isto se može dostaviti prilikom pregleda broda od strane inspektora sigurnosti plovidbe iz stavka 1. ovoga članka, u kojem slučaju je brodar u trenutku podnošenja zahtjeva o navedenom dužan priložiti pisanu izjavu.

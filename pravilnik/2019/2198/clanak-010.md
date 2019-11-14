@@ -1,0 +1,3 @@
+# Članak 10.
+(1) Svi članovi posade zaduženi za poslove sigurnosti putnika (muster lista) i svi članovi posade zaduženi za održavanje straže na brodovima do 650 BT koji obavljaju obalnu kabotažu, brodovima za kružna putovanja do 650 BT te na svim brodovima koji obavljaju otočnu kabotažu u Republici Hrvatskoj moraju razumjeti i u skladu sa svojim dužnostima davati naredbe, upute i izvješća na hrvatskom jeziku što se dokazuje certifikatom izdanim u skladu sa Zajedničkim europskim referentnim okvirom za jezike (CEFRL), standardom razine B1.
+(2) Odredbe stavka 1. ovog članka ne odnosi se na teretne brodove veće od 650 BT u kabotaži kada predmetno putovanje slijedi nakon putovanja ili prethodi putovanju prema nekoj drugoj državi ili iz nje.

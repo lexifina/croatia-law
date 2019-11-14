@@ -1,0 +1,2 @@
+# Članak 13.
+Svi članovi posade broda na brodovima koji obavljaju otočnu kabotažu u Republici Hrvatskoj na linijama u javnom prijevozu moraju biti državljani Republike Hrvatske ili druge države članice Europskog gospodarskog prostora (EGP) te moraju imati sklopljen ugovor o radu s brodarom, a koji se temelji na radnim i socijalnim standardima utvrđenim u nacionalnom zakonodavstvu Republike Hrvatske odnosno u Nacionalnom kolektivnom ugovoru.
