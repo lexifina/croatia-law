@@ -1,0 +1,1 @@
+Na temelju članka 30.a stavka 3. Zakona o sudovima (»Narodne novine«, broj 28/13, 33/15, 82/15 i 67/18) i članka 55. stavka 3. Zakona o državnom odvjetništvu (»Narodne novine«, broj 67/18), ministar pravosuđa donosi
