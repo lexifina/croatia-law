@@ -1,0 +1,2 @@
+# Članak 6.
+Postupci prijma vježbenika u pravosudna tijela koji nisu dovršeni do stupanja na snagu ovog Pravilnika nastavit će se i dovršiti prema Zakonu o vježbenicima u pravosudnim tijelima i pravosudnom ispitu (»Narodne novine«, broj 84/08 i 75/09) te odredbama Pravilnika o teorijskom i praktičnom stručnom obrazovanju vježbenika u pravosudnim tijelima (»Narodne novine«, broj 96/09, 4/10 i 20/19) koje se odnose na vrednovanje kandidata za vježbenike u pravosudnim tijelima.
