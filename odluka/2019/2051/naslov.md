@@ -1,0 +1,1 @@
+Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Kanadi, sa sjedištem u Ottawi i za stalnog predstavnika Republike Hrvatske pri Međunarodnoj organizaciji za civilno zrakoplovstvo (ICAO), sa sjedištem u Montrealu
