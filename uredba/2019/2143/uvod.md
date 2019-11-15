@@ -1,0 +1,1 @@
+Na temelju članka 61. stavaka 6. i 7. Zakona o zaštiti okoliša (»Narodne novine«, br. 80/13, 153/13, 78/15, 12/18 i 118/18), Vlada Republike Hrvatske je na sjednici održanoj 7. studenoga 2019. godine donijela
