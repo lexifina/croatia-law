@@ -1,0 +1,3 @@
+## PRAVNA OSNOVA
+# Članak 2.
+Na temelju članka 568. stavka 6. Zakona o tržištu kapitala (»Narodne novine« 65/2018; dalje: Zakon), Hanfa ima pravo uvida u podatke iz članka 563. stavka 1., kao i u sve ostale podatke i dokumentaciju koja se vodi u središnjem depozitoriju. Hanfa podatke prikupljene na način iz članka 3. ovog Pravilnika također može dati na uvid pravosudnim i upravnim tijelima, kao i tijelima određenima člankom 29. stavkom 2. Uredbe (EU) br. 909/2014 Europskog parlamenta i Vijeća od 23. srpnja 2014. o poboljšanju namire vrijednosnih papira u Europskoj uniji i o središnjim depozitorijima vrijednosnih papira te izmjeni direktiva 98/26/EZ i 2014/65/EU te Uredbe (EU) br. 236/2012, a pod uvjetima iz članka 568. stavka 7. Zakona.

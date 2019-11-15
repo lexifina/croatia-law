@@ -1,0 +1,1 @@
+Na temelju članka 568. stavak 10. Zakona o tržištu kapitala (»Narodne novine« broj 65/2018), Hrvatska agencija za nadzor financijskih usluga, na sjednici Upravnog vijeća održanoj 31. listopada 2019. donosi
