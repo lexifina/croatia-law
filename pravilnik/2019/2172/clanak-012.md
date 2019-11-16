@@ -1,0 +1,5 @@
+# Članak 12.
+(1) Prijedlozi iz članka 11. ovog Pravilnika moraju se potpisati kvalificiranim elektroničkim potpisom koji ima jednak pravni učinak kao vlastoručni potpis i otisak pečata, izdan od kvalificiranog pružatelja usluga. Uz prijedlog i dopunu se u elektroničkom obliku prilažu svi prilozi koji su u istima naznačeni. Ako se prijedlog za upis i dopuna prijedloga podnose putem mrežnog servisa, isti se može elektronički potpisati valjanim certifikatom administratora sustava ovlaštenog korisnika.
+(2) Pisane priloge dostavljene u izvorniku ili ovjerenom prijepisu (presliku), ovlašteni korisnik prenijet će u elektronički oblik te će svaki priloženi dokument potpisati kvalificiranim elektroničkim potpisom.
+(3) Pisani prilozi nakon što se prenesu u elektronički oblik vraćaju se predlagatelju, a isprave prenesene u elektronički oblik ovlašteni korisnici čuvat će prema posebnim propisima o odlaganju i čuvanju.
+(4) Kada se uz prijedlog i dopunu prilažu javnobilježničke isprave, ili druge javne isprave koje već postoje u elektroničkom obliku, one se prilikom dostave elektroničkog prijedloga i dopune prijedloga samo potpisuju kvalificiranim elektroničkim potpisom.
