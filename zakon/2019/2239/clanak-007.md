@@ -1,0 +1,3 @@
+# Članak 7.
+U članku 41. iza stavka 6. dodaje se stavak 7. koji glasi:
+»(7) Sredstva uplaćena u državni proračun do 31. prosinca 2018. ostvarena iz udjela poreza na dohodak u iznosu od 1,5 % temeljem članka 45. Zakona o financiranju jedinica lokalne i područne (regionalne) samouprave (»Narodne novine«, br. 117/93., 69/97., 33/00., 73/00., 127/00., 59/01., 107/01., 117/01., 150/02., 147/03., 132/06., 26/07., 73/08., 25/12., 147/14., 100/15. i 115/16.), a koja su na dan 31. prosinca 2018. ostala neutrošena, mogu se u 2019. godini koristiti za projekte održivog razvoja jedinica lokalne i područne (regionalne) samouprave, kao i za projekte kojima se potiče korištenje sredstava iz fondova Europske unije te za razvoj potpomognutih područja.«.
