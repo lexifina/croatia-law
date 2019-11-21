@@ -1,0 +1,8 @@
+# Članak 1.
+U Pravilniku o radnom vremenu, odmorima i dopustima radnika na pomorskim ribarskim plovilima (»Narodne novine«, broj 3/16), članak 1. mijenja se i glasi:
+»Članak 1.
+(1) Ovim se Pravilnikom propisuje radno vrijeme te vrijeme odmora i dopusta radnika na pomorskim ribarskim plovilima pod zastavom Republike Hrvatske, upisanima u Registar ribarske flote Republike Hrvatske u skladu s posebnim propisom o morskom ribarstvu.
+(2) Radnik na pomorskim ribarskim plovilima u smislu stavka 1. ovoga članka, je fizička osoba koja u radnom odnosu, za poslodavca obavlja posao na pomorskom ribarskom plovilu koje sudjeluje u komercijalnom ribolovu, osim peljara u lukama i osoba na kopnu koje obavljaju posao na pomorskom ribarskom plovilu u pristaništu.
+(3) Ovaj se Pravilnik ne primjenjuje na radnika koji je s pomorskom knjižicom ukrcan na pomorsko ribarsko plovilo koje se u smislu Pomorskog zakonika, odnosno posebnog propisa kojim se uređuje morsko ribarstvo, smatra ribarskim brodom, a na kojega se kao na člana posade broda, odnosno pomorca, primjenjuju posebni propisi.
+(4) Ovim se Pravilnikom u pravni poredak Republike Hrvatske prenosi Direktiva Vijeća (EU) 2017/159 od 19. prosinca 2016. o provedbi Sporazuma o provedbi Konvencije o radu u ribolovu iz 2007. Međunarodne organizacije rada sklopljenog 21. svibnja 2012. između Općeg udruženja poljoprivrednih zadruga u Europskoj uniji (COGECA), Europskog saveza transportnih radnika (ETF) i Udruženja nacionalnih organizacija ribolovnih poduzeća u Europskoj uniji (Europêche) (Tekst značajan za EGP.) (SL L 25, 31. 1. 2017.).
+(5) Izrazi koji se koriste u ovom Pravilniku, a imaju rodno značenje, koriste se neutralno i odnose se jednako na muški i ženski rod.«.
