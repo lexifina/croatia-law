@@ -1,0 +1,1 @@
+Na temelju članka 14. stavka 7. Zakona o radu (»Narodne novine«, broj 93/14, 127/17 i 98/19), ministar rada i mirovinskoga sustava, uz prethodnu suglasnost ministra nadležnog za europske poslove sukladno članku 38. stavku 3. Zakona o sustavu državne uprave (»Narodne novine«, broj 66/19), donosi
