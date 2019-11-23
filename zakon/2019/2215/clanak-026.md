@@ -1,0 +1,7 @@
+# Članak 26.
+Članak 69. mijenja se i glasi:
+»(1) Strana pravna osoba sa sjedištem u drugoj državi koja obavlja djelatnost prostornog uređenja, projektiranja i/ili stručnog nadzora građenja, odnosno kontrole projekta te strana pravna ili strana fizička osoba obrtnik koja obavlja djelatnost građenja može u Republici Hrvatskoj, pod pretpostavkom uzajamnosti, na privremenoj i povremenoj osnovi, obavljati one poslove koje je prema propisima države u kojoj ima sjedište ovlaštena obavljati ako prije početka prvog posla izjavom u pisanom ili elektroničkom obliku izvijesti o tome Ministarstvo, uz uvjet da dostavi isprave kojima se dokazuje:
+- pravo obavljanja djelatnosti u državi sjedišta strane osobe
+- da je pokrivena jamstvom, odnosno osiguranjem od odgovornosti za štetu koju bi obavljanjem djelatnosti mogla učiniti investitoru ili drugim osobama, pri čemu se priznaje jednakovrijedno jamstvo, odnosno osiguranje sklopljeno u državi sjedišta strane osobe.
+(2) Pretpostavka uzajamnosti iz stavka 1. ovoga članka ne primjenjuje se na stranu pravnu osobu sa sjedištem u drugoj državi koja obavlja djelatnost prostornog uređenja, projektiranja i/ili stručnog nadzora građenja, odnosno kontrole projekta te stranu pravnu ili stranu fizičku osobu obrtnika koji obavlja djelatnost građenja sa sjedištem u drugoj državi EGP-a, odnosno državi članici Svjetske trgovinske organizacije.
+(3) Ministarstvo provodi postupak provjere podataka iz stavaka 1. i 2. ovoga članka i o tome izdaje potvrdu.«.

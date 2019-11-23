@@ -1,0 +1,4 @@
+# Članak 6.
+Članak 14. mijenja se i glasi:
+»(1) Pravna osoba registrirana za obavljanje stručnih poslova prostornog uređenja mora u obavljanju poslova izrade nacrta prijedloga urbanističkih planova uređenja i u obavljanju poslova u vezi s pripremom i donošenjem urbanističkih planova uređenja imati zaposlenu osobu ovlaštenog arhitekta urbanista prema zakonu kojim se uređuje udruživanje u Komoru.
+(2) Pravna osoba registrirana za obavljanje stručnih poslova prostornog uređenja mora u obavljanju poslova izrade nacrta prijedloga prostornih planova i izvješća o stanju u prostoru te obavljanju poslova u vezi s pripremom i donošenjem prostornih planova i izvješća o stanju u prostoru, osim ispunjavanja uvjeta iz stavka 1. ovoga članka, osigurati sudjelovanje još jednog ovlaštenog arhitekta urbanista ili osigurati sudjelovanje najmanje tri stručnjaka različitih struka iz članka 15. stavka 1. ovoga Zakona.«.

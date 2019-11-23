@@ -1,0 +1,2 @@
+# Članak 36.
+U članku 96. iza riječi: »Hrvatskoj« stavlja se zarez, a riječi: »bez sklopljenog ugovora o profesionalnom osiguranju« zamjenjuju se riječima: »a nije pokrivena osiguranjem profesionalne odgovornosti ili drugim jamstvom koje je jednakovrijedno ili bitno usporedivo s obzirom na namjenu ili pokriće koje se osigurava, odnosno ako se u slučaju djelomične jednakovrijednosti nije dodatno osigurala za pokriće nepokrivenih aspekata: osiguranog rizika, osigurane gornje granice jamstva ili mogućeg isključenja iz pokrića,«.

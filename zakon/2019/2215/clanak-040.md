@@ -1,0 +1,2 @@
+# Članak 40.
+Pravne osobe registrirane za obavljanje stručnih poslova prostornog uređenja kojima su suglasnosti za obavljanje stručnih poslova prostornog uređenja izdane prema odredbama Zakona o poslovima i djelatnostima prostornog uređenja i gradnje (»Narodne novine«, br. 78/15. i 118/18.) i Pravilnika o izdavanju suglasnosti za obavljanje stručnih poslova prostornog uređenja (»Narodne novine«, br. 136/15.) mogu nastaviti obavljati poslove prostornog uređenja.

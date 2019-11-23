@@ -1,0 +1,6 @@
+# Članak 12.
+Članak 25.b mijenja se i glasi:
+»(1) Ako se na građevini izvode manje složeni radovi različitih struka, za vođenje tih radova može se imenovati voditelj radova.
+(2) Ako se na zgradi stambene namjene s najviše dvije stambene jedinice čija građevinska (bruto) površina ne prelazi 400 m² ili zgradi poljoprivredne namjene čija građevinska (bruto) površina ne prelazi 600 m², za koje se ne utvrđuju posebni uvjeti, izvode manje složeni radovi različitih struka, za vođenje tih radova može se imenovati osoba koja je završila srednju školu po programu za tehničara te ima najmanje pet godina radnog iskustva u struci i položen stručni ispit.
+(3) Izvođač iz članka 29. stavka 1. ovoga Zakona koji za pojedini rad nema zaposlenu osobu s odgovarajućim stručnim kvalifikacijama sudjelovanje te osobe u građenju građevine koju gradi može osigurati sklapanjem ugovora o poslovnoj suradnji s drugim izvođačem koji izvodi radove na istoj građevini i ima zaposlenu takvu osobu.
+(4) U slučaju iz stavka 3. ovoga članka inženjer gradilišta i/ili voditelj radova, koji je zaposlenik glavnog izvođača, mora osigurati cjelovitost i međusobnu usklađenost radova koje izvode izvođači iz stavka 3. ovoga članka.«.
