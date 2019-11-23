@@ -1,0 +1,5 @@
+## Integrirani pristup mogućnostima u vezi s potražnjom i ponudom za grijanjem i hlađenjem
+# Članak 7.
+(1) Pri gospodarskoj analizi troškova i koristi iz članka 4. ovoga Pravilnika uzimaju se u obzir, i to na temelju raspoloživih podataka, svi relevantni izvori opskrbe energijom dostupni unutar granica energetskog sustava i definiranog zemljopisnog područja, uključujući otpadnu toplinu iz proizvodnje električne energije i industrijskih postrojenja i obnovljivu energiju, te svojstva i kretanja u vezi s potražnjom za grijanjem i hlađenjem.
+(2) Procjene potreba za grijanjem i hlađenjem se rade za razdoblje od 30 godina u GWh, uzimajući detaljnu projekciju za narednih 10 godina koja obuhvaća promjene potražnje u građevinama i različitim sektorima industrije te utjecaj politika i strategija vezanih za upravljanjem potrošnjom poput dugoročne strategije obnove građevina.
+(3) Pri gospodarskoj analizi uzima se u obzir nacionalni doprinos ciljevima energetske politike koji se predviđaju realizirati kroz učinkovitost u grijanju i hlađenju te se isti uspoređuju s podacima iz integralnog nacionalnog energetsko klimatskog plana.
