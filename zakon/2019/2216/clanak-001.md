@@ -1,0 +1,3 @@
+# Članak 1.
+U Zakonu o komori arhitekata i komorama inženjera u graditeljstvu i prostornom uređenju (»Narodne novine«, br. 78/15. i 114/18.) u članku 1. stavak 2. mijenja se i glasi:
+»(2) Ovim se Zakonom uređuje javnost rada Komore, tijela Komore, opći akti koje donosi Komora, upisi u imenike Komore, mirovanje i prestanak članstva u Komori, kvaliteta pružene usluge u poslovima prostornog uređenja, projektiranja i/ili stručnog nadzora građenja, stručni nadzor nad radom članova Komore, stegovna odgovornost članova Komore, profesionalno osiguranje i osiguranje od odgovornosti, pracekršajne odredbe i nadzor nad provođenjem Zakona.«.

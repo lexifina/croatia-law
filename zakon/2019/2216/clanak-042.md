@@ -1,0 +1,4 @@
+# Članak 42.
+(1) Hrvatska komora inženjera građevinarstva će u roku od 90 dana od dana stupanja na snagu ovoga Zakona po službenoj dužnosti upisati revidente, koji su ovlaštenje za obavljanje kontrole projekata dobili na temelju odredbi propisa koje su važile do stupanja na snagu ovoga Zakona, u razred revidenata unutar imenika ovlaštenih inženjera građevinarstva.
+(2) Hrvatska komora inženjera građevinarstva će u roku od 90 dana od dana stupanja na snagu ovoga Zakona po službenoj dužnosti upisati strane revidente iz država ugovornica EGP-a, koji poslove kontrole projekata u Republici Hrvatskoj obavljaju do isteka ovlaštenja na temelju odredbi propisa koje su važile do stupanja na snagu ovoga Zakona, u evidenciju stranih ovlaštenih osoba koje povremeno ili privremeno obavljaju poslove kontrole projekata u svojstvu odgovorne osobe.
+(3) Revidentima iz stavaka 1. i 2. ovoga članka Hrvatska komora inženjera građevinarstva izdaje rješenje, odnosno potvrdu.
