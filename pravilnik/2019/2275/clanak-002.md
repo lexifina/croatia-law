@@ -1,0 +1,3 @@
+# Članak 2.
+(1) Ovim se Pravilnikom u pravni poredak Republike Hrvatske prenosi Direktiva Vijeća (EU) 2017/159 od 19. prosinca 2016. o provedbi Sporazuma o provedbi Konvencije o radu u ribolovu iz 2007. Međunarodne organizacije rada sklopljenog 21. svibnja 2012. između Općeg udruženja poljoprivrednih zadruga u Europskoj uniji (COGECA), Europskog saveza transportnih radnika (ETF) i Udruženja nacionalnih organizacija ribolovnih poduzeća u Europskoj uniji (Europêche) (Tekst značajan za EGP) (SL L 206, 29. 7. 1991.).
+(2) Izrazi koji se koriste u ovom Pravilniku, a imaju rodno značenje, koriste se neutralno i odnose se jednako na muški i ženski rod.
