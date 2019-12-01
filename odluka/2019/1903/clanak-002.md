@@ -1,0 +1,4 @@
+# Članak 2.
+(1) Hrvatski zavod za zdravstveno osiguranje na teret sredstava obveznoga zdravstvenog osiguranja osigurava pokriće troškova u visini cijene ekvivalentnog pomagala s Osnovne liste pomagala, umanjene za iznos sudjelovanja u cijeni pomagala s Osnovne liste pomagala.
+(2) Iznos sudjelovanja u cijeni pomagala iz stavka 1. ovoga članka plaća osobno osigurana osoba prilikom preuzimanja pomagala ili putem dopunskoga zdravstvenog osiguranja sukladno Zakonu o dobrovoljnom zdravstvenom osiguranju (»Narodne novine«, broj 85/06., 150/08. i 71/10. - u daljnjem tekstu: Zakon).
+(3) Iznos razlike u cijeni pomagala u odnosu na cijenu ekvivalentnog pomagala s Osnovne liste pomagala plaća osobno osigurana osoba prilikom preuzimanja pomagala ili putem dodatnoga zdravstvenog osiguranja sukladno Zakonu.
