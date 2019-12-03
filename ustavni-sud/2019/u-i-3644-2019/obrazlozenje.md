@@ -1,0 +1,13 @@
+O b r a z l o ž e n j e
+1. Zlatko Zlatović s otoka Brača (u daljnjem tekstu: predlagatelj) podnio je Ustavnom sudu 30. kolovoza 2019. podnesak u kojem predlaže pokretanje postupka za ocjenu suglasnosti Zakona o vodama ("Narodne novine" broj 153/09., 63/11., 130/11., 56/13., 14/14. i 46/18.) s Ustavom.
+2. Nakon izvršenog pregleda podneska utvrđeno je da on nije sastavljen na način propisan člankom 19. stavkom 1. u vezi s člancima 39. i 40. Ustavnog zakona o Ustavnom sudu Republike Hrvatske ("Narodne novine" broj 99/99., 29/02. i 49/02. - pročišćeni tekst; u daljnjem tekstu: Ustavni zakon).
+Dopisom Ustavnog suda od 11. rujna 2019. predlagatelj je pozvan da u roku od osam (8) dana dopuni svoj prijedlog na način koji omogućava odlučivanje o biti stvari. Ujedno, predlagatelj je upozoren na posljedice propuštanja postupanja po nalogu Ustavnog suda sadržane u članku 19. stavku 4. Ustavnog zakona.
+3. U konkretnom slučaju, predlagatelj je unutar zadanog roka dostavio Ustavnom sudu podnesak u kojem između ostalog navodi da je "trenutno ... bez vode ... usprkos trostruko apsolutnoj zastari duga", te da predlaže "osnutak tima koji će pročešljati sve interne zakone RH te ukinuti sve što nije sukladno Ustavu i bez da mi građani moramo decidirati što sve nije u redu!!"
+Ne postoje pretpostavke za odlučivanje o biti stvari.
+4. Sukladno članku 19. stavku 1. Ustavnog zakona podnesci upućeni Ustavnom sudu moraju biti razumljivi i moraju sadržavati sve što je potrebno da bi se po njima moglo postupiti. Sukladno članku 19. stavku 2. Ustavnog zakona, kada je podnesak nerazumljiv ili ne sadržava sve što je potrebno da bi se po njemu moglo postupiti, Ustavni sud će vratiti podnesak podnositelju radi ispravka, odnosno dopune, uz određivanje roka za ponovno podnošenje podneska.
+Na temelju članka 19. stavka 4. Ustavnog zakona smatrat će se da je podnesak povučen ako ne bude vraćen Ustavnom sudu u određenome roku, a ako bude vraćen bez ispravka, odnosno dopune, odbacit će se.
+5. Člankom 32. Ustavnog zakona propisano je:
+"Članak 32.
+Ustavni sud će rješenjem odbaciti zahtjev, prijedlog i ustavnu tužbu ... i u drugim slučajevima kad ne postoje pretpostavke za odlučivanje o biti stvari."
+U konkretnom slučaju predlagatelj, iako upozoren na posljedice svog propusta, nije ispravio odnosno dopunio podneseni podnesak sukladno nalogu Ustavnog suda.
+6. S obzirom na činjenicu da prijedlog predlagatelja sadržajno nije sastavljen na način koji bi omogućavao odlučivanje o biti stvari, a da je vraćen Ustavnom sudu bez ispravka odnosno dopune, na temelju članka 32. u vezi s člankom 19. stavkom 4. Ustavnog zakona, riješeno je kao u izreci.
