@@ -1,0 +1,5 @@
+# Članak 18.
+STUPANJE NA SNAGU
+1. Ovaj Dopunski protokol stupa na snagu devedesetog dana od dana polaganja četrdesetog instrumenta ratifikacije, prihvaćanja, odobrenja ili pristupanja države ili organizacije regionalne ekonomske integracije koja je stranka Protokola.
+2. Ovaj Dopunski protokol stupa na snagu za državu ili organizaciju regionalne ekonomske integracije koja ga ratificira, prihvati ili odobri ili mu pristupi nakon polaganja četrdesetog instrumenta kao što je navedeno u stavku 1., devedesetog dana nakon datuma na koji je ta država ili organizacija regionalne ekonomske integracije položila svoj instrument ratifikacije, prihvaćanja, odobrenja ili pristupanja, ili na datum kada Protokol stupa na snagu za tu državu ili organizaciju regionalne ekonomske integracije, ovisno o tome koji od tih datuma nastupa kasnije.
+3. Za potrebe stavaka 1. i 2., bilo koji instrument koji položi organizacija regionalne ekonomske integracije ne broji se kao dodatan u odnosu na one koje su položile države članice takve organizacije.
