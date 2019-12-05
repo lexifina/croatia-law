@@ -1,0 +1,3 @@
+# Članak 23.
+(1) Znanstveno-istraživačke institucije čiji je projekt odabran na Javnom natječaju iz članka 22. stavka 1. ovoga Pravilnika podnose zahtjev za isplatu sredstava Agenciji za plaćanja na Obrascu 6. »Primijenjena istraživanja« u roku propisanom Javnim natječajem preporučeno s povratnicom, a najkasnije do 31. srpnja tekuće pčelarske godine, a za višegodišnje projekte za svaku godinu provedbe projekta do 31. srpnja tekuće pčelarske godine.
+(2) Zahtjev za isplatu mora sadržavati preslike originalnih računa izdanih i plaćenih od datuma izdavanja Odluke o odabiru projekta do trenutka podnošenja zahtjeva u skladu s odabranom ponudom i Odlukom o odabiru kao i dodatnu dokumentaciju u skladu s obrascima te dokaze iz članka 5. stavka 5. ovoga Pravilnika.

@@ -1,0 +1,10 @@
+# Članak 21.
+(1) Zahtjev za mjeru iz članka 20. stavka 1.ovoga Pravilnika podnosi se Agenciji za plaćanja do 31. srpnja tekuće pčelarske godine na Obrascu 5. »Obnavljanje pčelinjeg fonda« uz koji se prilažu:
+a) za podstavak a) stavka 1 članka 20.:
+- preslika originala računa iz članka 5. stavak 4. i dokaz iz članka 5. stavak 5. ovoga Pravilnika ili u slučaju da korisnik nije u sustavu poreza na dohodak preslike otkupnih blokova. Otkupni blokovi i računi moraju biti na ime, prezime i OIB korisnika, ovjereni pečatom i potpisom prodavatelja te potpisom i OIB-om kupca, izdani u razdoblju od 1. kolovoza do 15. srpnja tekuće pčelarske godine te moraju sadržavati podatke o broju prodanih selekcioniranih matica pčela. Računi prodavatelja izdani i poslani u elektroničkom obliku prihvatljivi su isključivo pod uvjetom da kupac svojim potpisom iskaže suglasnost za prihvat takvog računa. Na računima koji su plaćeni gotovinski kao dokaz preuzimanja mora biti potpis kupca. U slučaju slanja matica poštom, a za koje su računi plaćeni transakcijski potrebno je dostaviti dokaz preuzimanja pošiljke od strane kupca (preslika povratnice ili drugi pravovaljan dokaz o preuzimanju pošiljke). U slučaju slanja matica poštom, a koje su plaćene otkupninom potrebno je priložiti originalnu poštansku potvrdu kao dokaz preuzimanja/plaćanja.
+- presliku važeće licence za tekuću pčelarsku godinu
+- uzgojnu knjigu potpisanu od strane uzgajivača
+- potvrdu odobrene uzgojne organizacije da uzgajivač ispunjava sve uvjete propisane odobrenim Uzgojnim programom
+b) za podstavak b) stavka 1 članka 20.:
+- preslike originalnih računa izdanih i plaćenih u razdoblju od 1. kolovoza tekuće pčelarske godine do trenutka podnošenja zahtjeva za sufinanciranje iz kojeg je vidljiv broj ispitanih uzoraka s analiziranim parametrima, presliku rezultata analize te dokazi iz članka 5. stavka 5. ovoga Pravilnika.
+6. Suradnja sa specijaliziranim tijelima za provedbu programa primijenjenih istraživanja u području pčelarstva i pčelinjih proizvoda

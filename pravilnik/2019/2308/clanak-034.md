@@ -1,0 +1,3 @@
+# Članak 34.
+(1) Prilozi I. Tehnička pomoć i II. Oprema za seleće pčelarenje sastavni su dio Pravilnika.
+(2) Obrasce za podnošenje zahtjeva 1. Tehnička pomoć, dio A, dio B, dio C, dio D, dio E, 2. Suzbijanje štetnika i bolesti, naročito varooze, 3. Racionalizacija troškova selećeg pčelarenja, dio A, dio B, 4. Potpore za analize proizvoda, dio A, dio B, 5. Obnavljanje pčelinjeg fonda, 6. Primijenjena istraživanja, 7. Praćenje tržišta, 8. Poboljšanje kvalitete proizvoda i 9. Slučaj više sile i izvanredne okolnosti Agencija za plaćanja objavljuje na svojim službenim mrežnim stranicama (www.apprrr.hr).
