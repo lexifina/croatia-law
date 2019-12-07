@@ -1,0 +1,2 @@
+# Članak 3.
+Ako osoba odgovorna za pošiljku pravovremeno ne pripremi pošiljku, prijevozno sredstvo, opremu ili druge predmete za obavljanje službene kontrole, a pozove graničnoga veterinarskog inspektora, službenika Carinske uprave ili veterinarskog inspektora da obavi službenu kontrolu te inspektor, odnosno službenik izađe na mjesto pregleda u određeno vrijeme, osoba odgovorna za pošiljku obvezna je za njegov izlazak platiti pristojbu za izgubljeno vrijeme u iznosu od 250,00 kuna po satu čekanja.
