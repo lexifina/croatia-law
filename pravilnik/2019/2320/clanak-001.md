@@ -1,0 +1,3 @@
+# Članak 1.
+U Pravilniku o zaštiti životinja koje se koriste u znanstvene svrhe (»Narodne novine«, br. 55/13 i 39/17) u članku 1. dodaje se stavak 9. koji glasi:
+»(9) Ovim Pravilnikom osigurava se provedba Uredbe (EU) 2019/1010 Europskog parlamenta i Vijeća od 5. lipnja 2019. o usklađivanju obveza izvješćivanja u području zakonodavstva povezanoga s okolišem te o izmjeni uredaba (EZ) br. 166/2006 i (EU) br. 995/2010 Europskog parlamenta i Vijeća, direktiva 2002/49/EZ, 2004/35/EZ, 2007/2/EZ, 2009/147/EZ i 2010/63/EU Europskog parlamenta i Vijeća, uredaba Vijeća (EZ) br. 338/97 i (EZ) br. 2173/2005 te Direktive Vijeća 86/278/EEZ (SL L 170, 25. 6. 2019.).«
