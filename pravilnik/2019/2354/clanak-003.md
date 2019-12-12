@@ -1,0 +1,5 @@
+# Članak 3.
+(1) Ovisno o vrsti građevine, a s obzirom na zadaće struka propisane posebnim zakonom, tehnička rješenja mogu biti sadržana u arhitektonskom, građevinskom, elektrotehničkom i strojarskom projektu (u daljnjem tekstu: odgovarajući projekti pojedinih struka).
+(2) Pojedinačna tehnička rješenja odgovarajućih projekata pojedinih struka mogu biti izrađena u jednoj i/ili više mapa.
+(3) Pojedinačna tehnička rješenja kojima se osigurava usklađenost građevine s propisima, uvjetima gradnje na određenoj lokaciji te kojima se osigurava da građevina ispunjava propisane zahtjeve moraju biti međusobno usklađena i uključena u cjelokupno tehničko rješenje građevine, a ista se obvezno prikazuju kao sastavni dijelovi odgovarajućih projekata pojedinih struka u skladu s odredbama ovoga Pravilnika.
+(4) Svi odgovarajući projekti pojedinih struka koji čine projekt građevine moraju biti međusobno usklađeni i tako usklađeni moraju prikazivati cjelovitu građevinu u tehničko-tehnološkom i funkcionalnom smislu.

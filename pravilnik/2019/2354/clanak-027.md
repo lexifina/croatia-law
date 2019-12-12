@@ -1,0 +1,11 @@
+## Dokazi o ispunjavanju temeljnih i drugih zahtjeva
+# Članak 27.
+(1) Proračunima i drugim prikladnim metodama se, u skladu s posebnim propisom ili, za pitanja koja nisu uređena propisom, prema pravilima struke, dokazuje da će projektirana građevina s ugrađenim građevnim proizvodima, instalacijama i ugrađenom opremom ispunjavati temeljne zahtjeve: mehaničke otpornosti i stabilnosti, sigurnosti u slučaju požara, higijene, zdravlja i okoliša, sigurnosti i pristupačnosti tijekom uporabe, zaštite od buke, gospodarenja energijom i očuvanja topline, održive uporabe prirodnih izvora, a što ovisi o vrsti građevine.
+(2) Dokazi o ispunjavanju temeljnih zahtjeva u odgovarajućem projektu pojedine struke sadrže:
+- podatke o tehničkim propisima i drugim propisima (pobliže upućivanje na dijelove koji se odnose na proračune i druge prikladne metode)
+- podatke o predviđenim djelovanjima i utjecajima na građevinu koji su relevantni za ispunjavanje temeljnih zahtjeva za građevinu
+- proračune i druge dokaze o ispunjavanju temeljnih zahtjeva za projektirani dio građevine i
+- po potrebi, od projektanta vrednovane rezultate ispitivanja dijela građevine za sva predvidiva djelovanja i utjecaje na građevinu.
+(3) Proračuni te rezultati i od projektanta vrednovani rezultati ispitivanja iz stavka 2. ovoga članka, ako se izrađuju na proračunskim i drugim modelima, moraju biti takvi da, uzimajući u obzir pouzdanost ulaznih podataka i točnost izvedbe, odgovaraju ponašanju projektiranog dijela građevine te građevine u cjelini, tijekom građenja i u uporabi.
+(4) Podaci, proračuni, ispitivanja i vrednovanje ispitivanja iz stavka 2. ovoga članka uzimaju se, odnosno provode u skladu s tehničkim propisima, drugim propisima donesenim u skladu s odredbama Zakona, normama na čiju primjenu ti propisi upućuju, drugim propisima ili na drugi propisani način.
+(5) Iznimno od stavka 4. ovoga članka, kada je posebnim propisima odobrena primjena podataka, proračuna, ispitivanja i/ili vrednovanja ispitivanja koji nisu u skladu s normama na koje ti propisi upućuju, proračuni trebaju sadržavati sve podatke koji su pri dokazivanju ispunjavanja temeljnih i drugih zahtjeva primijenjeni, te od projektanta izvedene dokaze da su postignuti rezultati minimalno na razini koju uređuju norme na koje propisi upućuju.

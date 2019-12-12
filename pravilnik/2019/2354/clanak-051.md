@@ -1,0 +1,2 @@
+# Članak 51.
+Do donošenja posebnog propisa iz članka 28. stavka 4. ovoga Pravilnika detaljan sadržaj Prikaza svih primijenjenih mjera zaštite od požara određuje nadležno javnopravno tijelo u postupcima izdavanja posebnih uvjeta iz područja zaštite od požara, a stručnom osobom koja izrađuje i supotpisuje taj Prikaz smatra se osoba ovlaštena za izradu elaborata zaštite od požara temeljem posebnog propisa.

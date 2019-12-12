@@ -1,0 +1,2 @@
+# Članak 53.
+Ovlašteni inženjeri odnosno arhitekti mogu potpisivati projekte predane uz zahtjev za izdavanje građevinske dozvole, rješenja o tipskom projektu i prijavi početka građenja, kvalificiranim elektroničkim potpisom osobne iskaznice do početka uporabe elektroničke identifikacijske kartice odgovarajuće komore inženjera odnosno arhitekta (poslovne kartice komore), a najkasnije do 31. ožujka 2020.

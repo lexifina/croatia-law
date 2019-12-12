@@ -1,0 +1,4 @@
+# Članak 52.
+(1) Do stjecanja uvjeta u elektroničkom programu eDozvola, tipski projekt se uz zahtjev za izdavanje rješenja o tipskom projektu može predati kao ispis elektroničkog projekta iz članka 13. ovog Pravilnika u 3 primjerka.
+(2) Za potrebe izdavanja potvrda tipskog projekta putem elektroničkog programa eDozvola, tipski projekt se predaje na nosaču podataka kao elektronički zapis izrađen sukladno odredbama ovoga Pravilnika i potpisan kvalificiranim elektroničkim potpisom.
+(3) Do stjecanja uvjeta u elektroničkom programu eDozvola važeći tipski projekt za koje je Ministarstvo izdalo rješenje o tipskom projektu prije stupanja na snagu ovog Pravilnika, može se priložiti uz zahtjev za izdavanje građevinske dozvole sa skeniranim primjerkom toga tipskog projekta za kojeg projektant i/ili glavni projektant svojim kvalificiranim elektroničkim potpisom preuzimaju odgovornost za njihovu međusobnu istovjetnost.

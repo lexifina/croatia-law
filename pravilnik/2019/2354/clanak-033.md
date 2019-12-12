@@ -1,0 +1,18 @@
+## Grafički prikazi
+# Članak 33.
+(1) Grafički se prikazuje oblik i veličina građevine ili njezinog dijela, te instalacija i opreme kada je projektirana, kao i njihov međusobni položaj te položaj u prostoru.
+(2) Grafički prikazi za projektirani dio građevine sadrže:
+- situaciju kojom se prikazuje položaj projektiranog dijela građevine u prostoru te njegov položaj i povezanost s drugim dijelovima građevine i drugim građevinama mjerodavnim za njegovo tehničko rješenje, izrađenu u skladu s člancima 34. do 39. ovoga Pravilnika, ako ovim Pravilnikom nije propisano drukčije
+- nacrte (tlocrte, presjeke, poglede odnosno druge nacrte prikladne vrsti građevine) projektiranog dijela građevine, s ucrtanim dužinskim i visinskim kotama, te ovisno o vrsti građevine, s iskazanim namjenama prostora i iskazom površina
+- nacrte kojima se, ovisno o vrsti i namjeni građevine, daje rješenje uređenja građevne čestice (namjenu i obradu površina, ograde, ogradne i druge zidove te druge elemente projektirane u cilju uređenja terena), ako je potrebno
+- sheme, izometrije ili druge prikladne prikaze projektiranog dijela građevine, dijelova građevine i tehničkih i/ili funkcionalnih sklopova koji čine građevine ili njihove dijelove, te prikaze koji služe za bolje razumijevanje dokaza o ispunjavanju temeljnih zahtjeva (plan pozicija, shema ispitnog modela i sl.), ako je potrebno i
+- 3D i druge grafičke prikaze koji na primjeren način prikazuju tehničko rješenje građevine.
+(3) Sadržaj i broj grafičkih prikaza mora biti takav da osigurava da nijedan dio tehničkog rješenja za kojeg je potrebno grafičko prikazivanje ne ostane neprikazan.
+(4) U svim nacrtima u kojima se upisuju relativne visinske kote građevine, obvezno se upisuje i podatak koja apsolutna visinska kota odgovara relativnoj nultoj koti građevine.
+(5) U svim nacrtima koji su prikazi građevine u horizontalnim projekcijama (tlocrti svih razina ili druge vrste horizontalnih presjeka ili projekcija), obvezno se ucrtava grafička oznaka orijentacije prema sjeveru neposredno uz pojedini prikaz građevine ili sastavnicu.
+(6) Nacrti horizontalnih projekcija u pravilu moraju biti postavljeni s orijentacijom grafičkog prikaza tako da je sjeverna orijentacija prema gore ili približno prema gore na listu s grafičkim prikazom. Iznimno, kod neracionalnosti pozicioniranja grafičkih prikaza građevine sa sjeverom prema gore radi formata građevine u odnosu na format lista s grafičkim prikazom za primjereno mjerilo, dopuštaju se i drugačije orijentacije prikaza na listu.
+(7) Nacrti i drugi grafički prikazi moraju biti izrađeni u primjerenom mjerilu koje osigurava preglednost i detaljnost podataka danih nacrtom ili drugim grafičkim prikazom primjerenu razini razrade glavnog projekta.
+(8) U prvoj mapi mora biti situacija kojom se prikazuje položaj cjelokupne građevine u prostoru te njezin položaj i povezanost s drugim građevinama mjerodavnim za njezino tehničko rješenje, izrađenu u skladu s člancima 34. do 39. ovoga Pravilnika, ako ovim Pravilnikom nije propisano drukčije.
+(9) Situaciju građevne čestice i/ili obuhvata zahvata u prostoru te smještaj jedne ili više građevina na toj čestici i/ili u tom obuhvatu izrađuju ovlašteni inženjer geodezije i glavni projektant.
+(10) Primjereno mjerilo iz stavaka 6. i 7. ovoga članka ne može se razlikovati od mjerila previđenih normom HRN EN ISO 5455.
+(11) Obveze iz stavaka 1. do 10. ovoga članka na odgovarajući način se primjenjuju na izradu grafičkih prikaza, ako se glavni projekt sastoji od samo jedne mape.

@@ -1,0 +1,7 @@
+## VI. TIPSKI PROJEKT
+# Članak 46.
+(1) Tipski projekt za potrebe upravnog postupka izrađuje se kao elektronički zapis sukladno odredbama ovoga Pravilnika i potpisuje kvalificiranim elektroničkim potpisom.
+(2) Tipski projekt sadrži sve elemente propisane za sadržaj glavnog projekta ovog Pravilnika osim dijela sadržaja koji je vezan za građenje na određenoj lokaciji i podatke o investitoru.
+(3) U tehničkom opisu, dokazima o ispunjavanju temeljnih i drugih zahtjeva, programu kontrole i osiguranja kvalitete, posebnim tehničkim uvjetima građenja, iskazu procijenjenih troškova građenja, posebnim tehničkim uvjetima gospodarenja otpadom i grafičkim prikazima posebno moraju biti obrađeni oni aspekti izvođenja dijela građevine koji su bitni za tipizaciju građevine ili njezinog dijela na koji se tipski projekt odnosi.
+(4) Naslovnica tipskog projekta osim naziva građevine ili njezinog dijela iz članka 17. stavka 1. podstavka 3. ovoga Pravilnika mora sadržavati podrobniji opis koji je bitan za tipizaciju građevine ili njezinog dijela na koji se tipski projekt odnosi (npr. KIOSK tlocrtnih dimenzija axb m, za projektirano opterećenje vjetar vb,0=1397518451 m/s, snijeg sk=1397518451 kN/m²).
+(5) Pri izdavanju građevinske dozvole, tipski projekt za kojeg je izdano rješenje o tipskom projektu i na kojeg upućuje glavni projekt građevine za koju se građevinska dozvola izdaje, predstavlja dio glavnog projekta i prilaže se u elektronskom zapisu i navodi se u popisu svih mapa projekta iz članka 16. stavka 1. podstavka 4. ovoga Pravilnika.

@@ -1,0 +1,3 @@
+PRILOG 1
+POPIS NORMA:
+1. HRN EN ISO 5455 Tehnički crteži - Mjerila (ISO 5455; EN ISO 5455)

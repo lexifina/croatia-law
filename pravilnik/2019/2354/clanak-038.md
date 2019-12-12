@@ -1,0 +1,13 @@
+## Situacije građevina i zahvata u prostoru za koje je izdana lokacijska dozvola
+# Članak 38.
+(1) Geodetska situacija građevne čestice te smještaj jedne ili više građevina na toj čestici u položajnom smislu za građevine za koje je lokacijskom dozvolom određeno formiranje građevne čestice, prikazuje se na podlozi geodetske situacije građevne čestice iz lokacijske dozvole i izrađuje se u skladu s člankom 36. stavcima 3. i 4. ovoga Pravilnika.
+(2) Za građevine za koje je lokacijskom dozvolom određen obuhvat zahvata u prostoru unutar kojeg se parcelacijskim elaboratom formira građevna čestica, situacija građevne čestice te smještaj jedne ili više građevina na toj čestici u položajnom smislu prikazuje se na podlozi parcelacijskog elaborata koji je ovjerilo tijelo nadležno za državnu izmjeru i katastar nekretnina i potvrdilo Ministarstvo, odnosno upravno tijelo koje je izdalo lokacijsku dozvolu, sadrži:
+- oblik, veličinu i površinu građevne čestice čije se formiranje određuje lokacijskom dozvolom s ucrtanom građevinom na građevnoj čestici koji sadrži lomne točke i popis koordinata lomnih točaka koje određuju granicu građevne čestice i granice građevina na građevnoj čestici
+- broj građevne čestice, ime i matični broj katastarske općine,
+- susjedne katastarske čestice koje neposredno graniče s građevnom česticom čije se formiranje određuje građevinskom dozvolom i
+- oznaku mjerila u kojem je izrađena, datum njene izrade, ime i broj ovlaštenja ovlaštenog inženjera geodezije i glavnog projektanta.
+(3) Oblik i veličinu građevne čestice prikazuje se crvenom linijom.
+(4) Situacija obuhvata zahvata u prostoru koji se u lokacijskoj dozvoli određuje kao trasa, koridor, odnosno površina katastarskih čestica i/ili njezinih dijelova u prostoru, te smještaj jedne ili više građevina u tom obuhvatu zahvata u položajnom smislu prikazuje se na službenom digitalnom ortofotu (DOF) s preklopljenim/uklopljenim službenim katastarskim planom u skladu s člankom 37. stavka 2. ovoga Pravilnika.
+(5) Oblik i veličina obuhvata zahvata prikazuje se isprekidanom crvenom linijom.
+(6) U slučaju iz stavka 4. ovoga članka, kada se u lokacijskoj dozvoli određuje obuhvat zahvata u prostoru, a unutar tog obuhvata određuju se građevne čestice za pojedinačne zgrade, a po potrebi i za druge građevine, situacija se prikazuje na geodetskoj situaciji iz stavka 1. odnosno 2. ovoga članka.
+(7) Za građevine za koje je lokacijskom dozvolom određeno fazno ili etapno građenje, prva mapa sadrži i grafički prikaz pregledne situacije, kojom se prikazuje položaj dijela građevine u prostoru te njezin položaj i povezanost s drugim dijelovima građevine.
