@@ -1,0 +1,1 @@
+Na temelju odredbe članka 106. stavka 4. podstavka 1. Zakona o znanstvenoj djelatnosti i visokom obrazovanju (»Narodne novine«, broj 123/03, 105/04, 174/04, 02/07 - Odluka USRH, 46/07, 45/09, 63/11, 94/13, 139/13, 101/14 O i R USRH, 60/15 OUSRH i 131/17) Vijeće veleučilišta i visokih škola na sjednici održanoj 21. studenoga 2019. godine donosi

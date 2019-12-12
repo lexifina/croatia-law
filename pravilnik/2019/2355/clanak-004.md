@@ -1,0 +1,7 @@
+# Članak 4.
+(1) Članove matičnih povjerenstava iz čl. 3. ovog Pravilnika bira Vijeće tajnim glasovanjem na vrijeme od četiri godine.
+(2) Za predsjednika matičnog povjerenstva izabrana je osoba koja je prilikom glasovanja za članove matičnih povjerenstava dobila najveći broj glasova od svih izabranih kandidata, a za zamjenika predsjednika izabrana je osoba koja je dobila drugi najveći broj glasova. U slučaju jednakog broja glasova dva ili više kandidata, predsjednik ili zamjenik predsjednika bira se ždrijebom.
+(3) Članovi matičnog povjerenstva za interdisciplinarno područje su članovi Odbora za koordinaciju rada matičnih povjerenstava.
+(4) Članovi matičnih povjerenstava biraju se iz redova nastavnika u nastavnom zvanju profesora visoke škole ili u znanstveno-nastavnom zvanju, u odgovarajućem području iz članka 3. ovog Pravilnika i u radnom su odnosu s visokim učilištem iz redova članica Vijeća.
+(5) Iznimno od stavka 4. ovog članka, član matičnog povjerenstva iz umjetničkog područja može se izabrati iz redova nastavnika u nastavnom zvanju profesora visoke škole ili u znanstveno-nastavnom zvanju izvan umjetničkog područja, ukoliko je istovremeno izabran u umjetničko-nastavno zvanje ili nastavno zvanje u umjetničkom području.
+(6) Vijeće može, na temelju Izvješća o radu matičnih povjerenstava Odbora za koordinaciju rada matičnih povjerenstava te broju predmeta u pojedinom znanstvenom i umjetničkom području i polju, odlukom propisati najmanji broj članova matičnog povjerenstva s izborom u pojedinom znanstvenom ili umjetničkom polju.
