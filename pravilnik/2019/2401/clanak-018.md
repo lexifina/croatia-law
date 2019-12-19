@@ -1,0 +1,3 @@
+# Članak 18.
+(1) Javno arhivsko gradivo može se, sukladno članku 21. Zakona izvesti ili iznijeti izvan Republike Hrvatske u svrhu izlaganja, ekspertize ili provođenja mjera zaštite, uz odobrenje koje rješenjem daje ministar nadležan za kulturu. Prije izvoza ili iznošenja potrebno je izraditi zaštitne snimke gradiva, ako to već nije učinjeno, te sklopiti ugovor o posudbi i pribaviti policu osiguranja.
+(2) Za izvoz i iznošenje iz Republike Hrvatske arhivskog gradiva koje ima svojstvo kulturnog dobra potrebno je pribaviti i dozvolu za izvoz i iznošenje sukladno propisima kojima se uređuje zaštita i očuvanje kulturnih dobara.

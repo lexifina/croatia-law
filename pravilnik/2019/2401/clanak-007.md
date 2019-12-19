@@ -1,0 +1,5 @@
+# Članak 7.
+(1) Javno arhivsko gradivo koje je nastalo do 30. svibnja 1990. dostupno je za korištenje bez ograničenja, osim gradiva iz članka 5. stavka 4. ovog Pravilnika i gradiva propisanog člankom 6. ovog Pravilnika.
+(2) Osobni podaci osobe koja je do 30. svibnja 1990. obnašala javne dužnosti ili bila pripadnik ili suradnik službe sigurnosti dostupni su bez ograničenja iz stavka 1. ovog članka u dijelu koji se odnosi na obavljanje te javne dužnosti, odnosno službe.
+(3) Svaka osoba čiji se osobni podaci nalaze u javnom arhivskom gradivu iz stavka 1. ovog članka ima pravo o gradivu koje se na nju odnosi dati pisanu izjavu kojom osporava istinitost ili potpunost svojih osobnih podataka uz navođenje arhivskog fonda i arhivskog gradiva na koje se izjava odnosi.
+(4) Nadležni državni arhiv mora dati na uvid izjavu iz stavka 3. ovog članka svakom korisniku javnog arhivskog gradiva na koje se izjava odnosi, i to zajedno s tim javnim arhivskim gradivom, a što su djelatnik korisničke službe nadležnog državnog arhiva i korisnik obvezni potvrditi na presliku izjave upisivanjem nadnevka davanja izjave na uvid i potpisom.

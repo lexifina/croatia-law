@@ -1,0 +1,3 @@
+# Članak 13.
+(1) Naknade iz članka 12. stavka 2. ovog Pravilnika naknade su za: izradu preslika na papiru, preslika na mikrofilmu, presnimavanje, skeniranje, snimanje digitalnom kamerom, kopiranje i isporuku digitalnih zapisa, umnažanje, raspačavanje, objavljivanje i javno prikazivanje gradiva i njegovih preslika, stručnu arhivističku pomoć, istraživanje i savjetovanje pri korištenju gradiva.
+(2) Visina naknada iz članka 12. stavaka 2. i 3. ovog Pravilnika utvrđuje se cjenikom koji donosi ministarstvo nadležno za poslove kulture na prijedlog Hrvatskog državnog arhiva, a objavljuje se na mrežnim stranicama ministarstva nadležnog za poslove kulture i Hrvatskog državnog arhiva.
