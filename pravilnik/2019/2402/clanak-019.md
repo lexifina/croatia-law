@@ -1,0 +1,4 @@
+# Članak 19.
+(1) Arhivi koji samostalno obavljaju zaštitno snimanje gradiva trebaju osigurati rad dvaju stručnih djelatnika za obavljanje odgovarajućih poslova. Arhivi koji ove poslove obavljaju u suradnji s drugom pravnom osobom trebaju osigurati rad jednog odgovarajuće osposobljenog stručnog djelatnika.
+(2) Arhivi koji samostalno obavljaju konzerviranje i restauriranje gradiva trebaju osigurati rad dvaju stručnih djelatnika za obavljanje odgovarajućih poslova, od kojih najmanje jedan mora biti konzervator restaurator. Arhivi koji ove poslove obavljaju u suradnji s drugom pravnom osobom trebaju osigurati jednog odgovarajuće osposobljenog stručnog djelatnika.
+(3) Arhivi koji imaju knjigovežnicu ili radionicu za izradu zaštitne ambalaže trebaju osigurati jednog djelatnika osposobljenog za ove poslove.
