@@ -1,0 +1,3 @@
+# Članak 1.
+U Statutu Hrvatske komore inženjera građevinarstva (»Narodne novine«, broj 132/15) u članku 2. stavak 1. mijenja se i glasi:
+Komora je samostalna i neovisna strukovna organizacija ovlaštenih inženjera građevinarstva, inženjera gradilišta, voditelja radova, te stranih ovlaštenih osoba građevinske struke upisanih u imenik stranih ovlaštenih inženjera građevinarstva, koji obavljaju poslove regulirane profesije građevinske struke u svojstvu odgovorne osobe, u skladu s posebnim propisima koji uređuju obavljanje djelatnosti u području prostornoga uređenja i gradnje, i posebnim zakonom kojim se uređuje priznavanje inozemnih stručnih kvalifikacija.
