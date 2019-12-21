@@ -1,0 +1,3 @@
+# Članak 65.
+(1) Djelatna vojna osoba zatečena u službi na dan stupanja na snagu ovoga Zakona koja nije raspoređena na dužnost na kojoj se staž osiguranja računa s povećanim trajanjem, a koja će do 31. prosinca 2022. navršiti godine života iz članka 55. ovoga Zakona i pri tome imati više od 12, a manje od 15 godina mirovinskog staža na dužnostima odnosno na poslovima na kojima se staž osiguranja računa s povećanim trajanjem ispunjava uvjete za prestanak službe zbog potreba službe u skladu s odredbama zakona kojima se uređuje služba u Oružanim snagama Republike Hrvatske i prava iz mirovinskog osiguranja djelatnih vojnih osoba.
+(2) Osobe iz stavka 1. ovoga članka izdvajaju se u skladu s godišnjim planom izdvajanja osoblja.
