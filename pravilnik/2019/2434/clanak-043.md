@@ -1,0 +1,4 @@
+# Članak 43.
+(1) Na temelju podnesenog zahtjeva u skladu s člankom 42. stavak 4. ovoga Pravilnika Ministarstvo zdravstva upisuje subjekt odnosno objekt u poslovanju s hranom u Upisnik registriranih subjekata i objekata koji vodi ministarstvo nadležno za zdravstvo i subjektu u poslovanju s hranom izdaje rješenje o upisu te izvod iz Upisnika registriranih subjekata i objekata.
+(2) Upisnik registriranih subjekata i objekata koji vodi ministarstvo nadležno za zdravstvo sastavni je dio središnjega informacijskog sustava sanitarne inspekcije (SISSI).
+(3) Ministarstvo zdravstva na zahtjev subjekta u poslovanju s hranom može omogućiti podnošenje zahtjeva za registraciju putem javnog portala središnjega informacijskog sustava sanitarne inspekcije (SISSI) kao i pristup vlastitim podacima u Upisniku registriranih subjekata i objekata.

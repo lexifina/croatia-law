@@ -1,0 +1,3 @@
+# Članak 17.
+(1) U objektu koji se primarno koristi kao privatni stambeni prostor, dozvoljeno je pripremati svježi sir i vrhnje radi stavljanja na tržište, od najviše 50 litara mlijeka dnevno, od životinja s vlastitog gospodarstva. Potrebno je osigurati udovoljavanje odgovarajućim zahtjevima propisanim Prilogom II. Poglavljem III. Uredbe (EZ) br. 852/2004 te propisu o kontroli sirovog mlijeka namijenjenog za javnu potrošnju.
+(2) U objektu iz stavka 1. ovoga članka sirovo mlijeko mora potjecati od životinja s vlastitog gospodarstva koje ima status stada krava, ovaca i koza službeno slobodnog od bruceloze i tuberkuloze ili za druge vrste životinja izvršene mjere vezane za brucelozu i tuberkulozu sukladno posebnim propisima.
