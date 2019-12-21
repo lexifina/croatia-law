@@ -1,0 +1,1 @@
+Na temelju članka 100. stavka 3. Zakona o državnim službenicima (»Narodne novine«, br. 92/05, 107/07, 27/08, 34/11, 49/11, 150/11, 34/12, 37/13, 38/13, 1/15, 138/15 - Odluka Ustavnog suda Republike Hrvatske, 61/17, 70/19 i 98/19), Vlada Republike Hrvatske je na sjednici održanoj 11. prosinca 2019. godine donijela
