@@ -1,0 +1,4 @@
+# Članak 16.
+(1) Vlasnikom kuće za odmor smatrat će se ona osoba, odnosno osobe (suvlasnici) koje su uknjižene u zemljišnim knjigama kao vlasnici, odnosno suvlasnici.
+(2) Vlasnikom, odnosno suvlasnikom smatrat će se i osoba koja je vanknjižni vlasnik, odnosno suvlasnik ukoliko se to može utvrditi drugim dokazima kojima se može dokazati da je netko stekao nekretninu pravnim poslom, odlukom suda, nasljeđivanjem i na temelju zakona, a nije uknjižen u zemljišnim knjigama.
+(3) Suvlasnici kuće za odmor su obveznici poreza na kuće za odmor u razmjeru koji odgovara njihovim suvlasničkim dijelovima, odnosno u onom dijelu koji je fizičkom razdiobom pripao pojedinom suvlasniku, te svaki od njih posebno dobiva rješenje o razrezu poreza, osim ako se izjavom ne usuglase da će porez objediniti i rješenje glasiti samo na jednoga od suvlasnika nekretnine.
