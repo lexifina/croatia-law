@@ -1,0 +1,3 @@
+# Članak 1.
+U Pravilniku o postupku naknadne uplate doprinosa otpisanih zbog zastare ili nenaplativosti za osiguranike koji su sami za sebe obveznici doprinosa i obveznici plaćanja doprinosa (»Narodne novine« broj 50/14) članak 3. stavak 2. mijenja se i glasi:
+»Zahtjev za naknadnu uplatu doprinosa otpisanih zbog zastare prava na naplatu, odnosno otpisanih zbog nenaplativosti, podnosi se mjesno nadležnoj ispostavi Porezne uprave do isteka pet godina od dana kada je rješenje o utvrđivanju zastare prava na naplatu postalo pravomoćno, odnosno do isteka pet godina od dana kada je utvrđena nenaplativost doprinosa«.
