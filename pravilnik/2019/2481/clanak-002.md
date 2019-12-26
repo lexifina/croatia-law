@@ -1,0 +1,3 @@
+# Članak 2.
+U članku 6. iza stavka 3. dodaje se stavak 3.a. koji glasi:
+(3a) Iznimno od stavka 1. ovoga članka, a pod uvjetima iz stavka 2. ovoga članka, dužnički vrijednosni papiri i instrumenti tržišta novca kojima se trguje u drugoj državi članici ili trećoj državi te za koje se ne može utvrditi radi li se o aktivnom tržištu mogu se vrednovati primjenom cijene objavljene na službenom financijsko-informacijskom servisu, za dan za koji se vrednuje imovina i obveze, dobivene algoritmima koji izračunavaju (generiraju) kompozitnu cijenu dosljedno koristeći dostupne tržišne podatke o trgovanju, indikativne ili obvezujuće kotacije.
