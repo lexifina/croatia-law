@@ -1,0 +1,1 @@
+Na temelju članka 20. i članka 42. stavka 3. Zakona o lokalnim porezima (»Narodne novine« broj 115/16 i 101/17), te članka 33. Statuta Grada Gospića (»Službeni vjesnik Grada Gospića« br. 7/09, 5/10, 7/10, 1/12, 2/13, 3/13 - p.t., 7/15, 1/18), Gradsko vijeće Grada Gospića, na sjednici održanoj 22. studenoga 2019. godine, donosi
