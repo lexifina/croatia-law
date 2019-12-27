@@ -1,0 +1,1 @@
+Odluka o davanju suglasnosti na Odluku Županijske skupštine Dubrovačko-neretvanske županije o izmjenama i dopunama Odluke o osnivanju Županijske lučke uprave Vela Luka za luke županijskog i lokalnog značaja
