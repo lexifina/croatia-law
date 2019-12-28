@@ -1,0 +1,2 @@
+# Članak 37.
+Osobe koje su ovlaštene za provedbu energetskog pregleda zgrade i energetsko certificiranje zgrade te osobe ovlaštene za provedbu kontrole energetskog certifikata i izvješća o redovitom pregledu sustava grijanja i sustava hlađenja ili klimatizacije u zgradi na temelju Zakona o gradnji (»Narodne novine«, br. 153/13., 20/17. i 39/19.) nastavljaju s obavljanjem poslova za koje su ovlaštene do isteka važenja ovlaštenja.
