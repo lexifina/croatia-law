@@ -1,0 +1,6 @@
+# Članak 54.
+(1) Progon stranoga plovnog objekta može se započeti ako postoji osnovana sumnja da je strani plovni objekt ili njegov pripadak povrijedio propise Republike Hrvatske ili općeprihvaćena pravila međunarodnoga prava.
+(2) Progon stranoga plovnog objekta može se započeti jedino ako se sumnjivi plovni objekt ili njegov pripadak nalazi u unutarnjim morskim vodama, teritorijalnome moru, zaštićenom ekološko-ribolovnom pojasu ili nad epikontinentalnim pojasom Republike Hrvatske i ako se ne zaustavi nakon vidljivog svjetlosnog ili zvučnog signala za zaustavljanje koji mu je upućen s broda ili zrakoplova Obalne straže s udaljenosti koja omogućuje da se signal za zaustavljanje može vidjeti odnosno čuti.
+(3) U zaštićenom ekološko-ribolovnom pojasu ili nad epikontinentalnim pojasom Republike Hrvatske progon može započeti jedino ako su povrijeđeni propisi koji se primjenjuju u tim pojasevima.
+(4) Progon stranoga plovnog objekta može se nastaviti u otvorenom moru, u gospodarskom ili u vanjskom pojasu strane države dok se ne prekine ili dok progonjeni plovni objekt ne uplovi u teritorijalno more svoje ili neke druge države.
+(5) Odredbe ovoga članka ne odnose se na strane ratne i strane javne brodove koji uživaju imunitet.

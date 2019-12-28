@@ -1,0 +1,3 @@
+# Članak 74.
+(1) Ovlaštena osoba koja je uporabila sredstvo prisile, kao i zapovjednik broda Obalne straže koji je zapovjedio uporabu sredstava prisile dužni su o tome izvijestiti nadležnu službu dežurstva Obalne straže i podnijeti pisano izvješće nadređenom zapovjedniku.
+(2) Pisano izvješće o uporabi sredstava prisile mora sadržavati: vrijeme i mjesto uporabe, ime, prezime i osobne podatke osobe protiv koje je pojedino sredstvo prisile uporabljeno, vrstu uporabljenog sredstva prisile, opće i posebne uvjete pod kojima je sredstvo prisile uporabljeno, eventualno nastale posljedice te ime i prezime ovlaštene osobe koja je sredstva prisile uporabila ili zapovjedila njihovu uporabu.
