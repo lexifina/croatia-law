@@ -1,0 +1,3 @@
+# Članak 11.
+(1) U slučaju blokade ili suspenzije računa sudionika ili u slučaju isključenja sudionika iz HSVP-a prema članku 10. ove Odluke HNB upravitelju instant-platnog sustava odmah dostavlja obavijest o blokadi, suspenziji ili isključenju ili, ovisno o slučaju, nalog za prijenos novčanih sredstava sudionika s tehničkog računa na račun tog sudionika u HSVP-u.
+(2) Odmah po primitku i u skladu sa sadržajem obavijesti ili naloga iz stavka 1. ovog članka upravitelj instant-platnog sustava zadaje platnu transakciju na teret tehničkog računa u korist računa tog sudionika prema evidenciji iz članka 7. stavka 5. ove Odluke.
