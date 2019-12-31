@@ -1,0 +1,1 @@
+Na temelju članka 34. stavka 12. i članka 41. stavka 3. Zakona o elektroničkom novcu (»Narodne novine«, br. 64/2018.) i članka 43. stavka 2. točke 9. Zakona o Hrvatskoj narodnoj banci (»Narodne novine«, br. 75/2008. i 54/2013.) guverner Hrvatske narodne banke donosi
