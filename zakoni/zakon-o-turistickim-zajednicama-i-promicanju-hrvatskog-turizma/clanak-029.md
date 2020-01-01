@@ -1,0 +1,8 @@
+## Obvezatni članovi lokalne turističke zajednice
+# Članak 29.
+(1) Obvezatni članovi lokalne turističke zajednice su sve pravne i fizičke osobe koje na području za koje se osniva lokalna turistička zajednica imaju sjedište ili podružnicu, pogon, objekt u kojem se pružaju usluge i slično (u daljnjem tekstu: poslovna jedinica) ili prebivalište i koje trajno ili sezonski ostvaruju prihod pružanjem ugostiteljskih usluga i usluga u turizmu ili obavljaju djelatnost koja ima korist od turizma odnosno na čije prihode turizam ima utjecaj.
+(2) Djelatnosti iz stavka 1. ovoga članka utvrđuju se posebnim propisom kojim se uređuje članarina u turističkim zajednicama.
+(3) Obvezatno članstvo u lokalnoj turističkoj zajednici počinje danom osnivanja turističke zajednice ili danom početka obavljanja djelatnosti pravne i fizičke osobe na području za koje se osniva lokalna turistička zajednica.
+(4) Na prestanak obvezatnog članstva u lokalnoj turističkoj zajednici ne utječe privremena obustava djelatnosti kao ni sezonsko obavljanje djelatnosti.
+(5) Obvezatno članstvo u lokalnoj turističkoj zajednici prestaje: prestankom rada turističke zajednice, prestankom pravne ili smrću fizičke osobe te djelomičnim ili potpunim gubitkom poslovne sposobnosti fizičke osobe, prestankom poslovne jedinice, promjenom sjedišta pravne osobe ili promjenom prebivališta fizičke osobe izvan područja lokalne turističke zajednice, prestankom ostvarivanja prihoda pružanjem ugostiteljskih usluga ili usluga u turizmu ili obavljanja djelatnosti koja ima korist od turizma odnosno na čije prihode turizam ima utjecaj.
+(6) Obvezatni članovi lokalne turističke zajednice odnosno njihovi predstavnici mogu birati i biti birani u tijela turističke zajednice.

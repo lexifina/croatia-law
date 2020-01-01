@@ -1,0 +1,2 @@
+# Članak 72.
+Na postojeće turističke zajednice iz članka 60. Zakona o turističkim zajednicama i promicanju hrvatskog turizma (»Narodne novine«, br. 152/08.) odgovarajuće se primjenjuju odredbe ovoga Zakona i drugih propisa kojima se uređuje lokalna turistička zajednica koja se osniva za područje više jedinica lokalne samouprave, osim na sastav tijela na koji se primjenjuju odredbe kojima se uređuju regionalne turističke zajednice.
