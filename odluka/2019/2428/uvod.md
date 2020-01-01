@@ -1,0 +1,1 @@
+Na temelju članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/11, 119/14, 93/16 i 116/18), a u vezi s člankom 3. stavkom 1. podstavcima 1. i 2. Zakona o Financijskoj agenciji (»Narodne novine«, br. 117/01, 60/04 i 42/05), Vlada Republike Hrvatske je na sjednici održanoj 11. prosinca 2019. godine donijela
