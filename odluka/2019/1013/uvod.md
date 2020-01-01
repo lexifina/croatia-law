@@ -1,0 +1,1 @@
+Na temelju članka 20. stavka 1. i članka 42. stavak 1. Zakona o lokalnim porezima (»Narodne novine« broj 115/16 i 101/17) i članka 30. Statuta Općine Štefanje (»Službeni vjesnik Općine Štefanje« broj 01/18) Općinsko vijeće Općine Štefanje, na sjednici održanoj 9. svibnja 2019. godine, donosi

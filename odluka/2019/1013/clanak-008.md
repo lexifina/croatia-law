@@ -1,0 +1,3 @@
+# Članak 8.
+Porez na kuće za odmor dužni su plaćati i oni vlasnici, suvlasnici, posjednici kuća za odmor koji imaju uredno prijavljeno prebivalište i privremeno boravište na području Općine Štefanje, ali koriste kuću na način opisan u članku 10. ove Odluke.
+U postupku dokazivanja statusa kuće za odmor u smislu stavka 1. ovog članka, tijelo koje vrši razrez poreza može tražiti i dostavu druge dodatne dokumentacije u kojoj se utvrđuje: potvrda o prebivalištu odnosno boravištu, mjesto i visina nastanka troškova električne energije, vode, telefona, RTV pristojbe, izjave svjedoka, obilazak nekretnine, potvrde i svi drugi raspoloživi podaci kako bi se utvrdili da li se radi o kući za odmor.
