@@ -1,0 +1,1 @@
+Na temelju članka 20. stavak 1., članka 42. stavak 1. i članka 67. stavak 1. Zakona o lokalnim porezima (»Narodne novine« br. 115/16 i 101/17), te članka 23. Statuta Općine Brckovljani (»Službeni glasnik Općine Brckovljani« broj 01/18) Općinsko vijeće Općine Brckovljani na 21. sjednici održanoj 26. studenoga 2019. donosi
