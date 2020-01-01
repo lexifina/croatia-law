@@ -1,0 +1,1 @@
+Na temelju članka 7. stavka 3. podstavka 2. Pravilnika o uvjetima i načinu ostvarivanja prava na pokriće troškova prehrane studenata (»Narodne novine«, broj 120/13 i 8/14), ministrica znanosti i obrazovanja donosi
