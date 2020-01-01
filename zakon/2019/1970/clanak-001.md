@@ -1,0 +1,2 @@
+# Članak 1.
+U Zakonu o pravima žrtava seksualnog nasilja za vrijeme oružane agresije na Republiku Hrvatsku u Domovinskom ratu (»Narodne novine«, br. 64/15.) u članku 18. stavku 2. riječi: »uredi državne uprave u jedinici područne (regionalne) samouprave, odnosno nadležno upravno tijelo Grada Zagreba« zamjenjuju se riječima: »nadležna upravna tijela u županijama, odnosno Gradu Zagrebu kao povjereni posao državne uprave«.
