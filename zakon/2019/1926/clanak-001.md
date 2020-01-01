@@ -1,0 +1,2 @@
+# Članak 1.
+U Zakonu o izborima zastupnika u Hrvatski sabor (»Narodne novine«, br. 116/99., 109/00., 53/03., 69/03., 44/06., 19/07., 20/09., 145/10., 24/11., 93/11., 120/11., 19/15. i 104/15.) u članku 9. stavku 1. riječi: »ili drugi član Vlade Republike Hrvatske, zamjenik ministra, pomoćnik ministra, ravnatelj državne upravne organizacije, zamjenik ravnatelja državne upravne organizacije« zamjenjuju se riječima: »državni tajnik, čelnik državne upravne organizacije, zamjenik čelnika državne upravne organizacije, rukovoditelj upravne organizacije u sastavu ministarstva«.
