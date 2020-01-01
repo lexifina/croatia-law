@@ -1,0 +1,3 @@
+# Članak 14.
+Služba za opće i pomoćno-tehničke poslove obavlja poslove koji se odnose na pravilno korištenje imovine i sredstava za rad te o tome vodi odgovarajuće evidencije; obavlja stručne poslove prevođenja, obavlja poslove u vezi korištenja i održavanja vozila, organizira prijevoz dužnosnika i službenika Ministarstva, obavlja poslove vezane uz rad čajne kuhinje, organizira poslove zaštite i obavlja poslove tekućeg održavanja zgrade, kotlovnice, instalacija, i uređaja; obavlja poslove dostave, čišćenja i održavanja radnih prostorija i okoliša te poslove zaštite od požara, te obavlja i druge poslove iz svoga djelokruga.
+2.2.3. Služba za informiranje
