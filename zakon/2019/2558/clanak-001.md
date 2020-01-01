@@ -1,0 +1,3 @@
+# Članak 1.
+U Zakonu o provedbi Uredbe (EZ) br. 1272/2008 Europskoga parlamenta i Vijeća od 16. prosinca 2008. o razvrstavanju, označavanju i pakiranju tvari i smjesa, kojom se izmjenjuju, dopunjuju i ukidaju Direktiva 67/548/EEZ i Direktiva 1999/45/EZ i izmjenjuje i dopunjuje Uredba (EZ) br. 1907/2006 (»Narodne novine«, br. 50/12., 18/13. i 115/18.), naziv Zakona mijenja se i glasi:
+»Zakon o provedbi Uredbe (EZ) br. 1272/2008 Europskog parlamenta i Vijeća od 16. prosinca 2008. o razvrstavanju, označivanju i pakiranju tvari i smjesa, o izmjeni i stavljanju izvan snage Direktive 67/548/EEZ i Direktive 1999/45/EZ i o izmjeni Uredbe (EZ) br. 1907/2006«.
