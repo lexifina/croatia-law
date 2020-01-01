@@ -1,0 +1,3 @@
+# Članak 1.
+U Pravilniku o proračunskom računovodstvu i računskom planu (»Narodne novine«, broj 124/14, 115/15, 87/16 i 3/18) u članku 2. iza stavka 3. dodaje se novi stavak 4. koji glasi:
+»Iznimno od odredbi pravilnika kojim se utvrđuju proračunski i izvanproračunski korisnici državnog proračuna i proračuna jedinica lokalne i područne (regionalne) samouprave, sukladno pravilima statističke metodologije Europske unije (ESA 2010, propisana Uredbom (EU) 549/2013 Europskog parlamenta i Vijeća), za potrebe računovodstvenih i drugih proračunskih evidencija i izvještaja Hrvatski zavod za zapošljavanje smatra se izvanproračunskim korisnikom.«.
