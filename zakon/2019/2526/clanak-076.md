@@ -1,0 +1,18 @@
+# Članak 76.
+Članak 363. mijenja se i glasi:
+»(1) Agencija društvu za upravljanje, pod uvjetima propisanim ovim Zakonom, može odrediti sljedeće nadzorne mjere:
+1. opomenu
+2. otklanjanje nezakonitosti i nepravilnosti
+3. posebne nadzorne mjere i
+4. ukidanje odobrenja za rad za sve ili za pojedine djelatnosti te za upravljanje svim ili pojedinim UCITS fondovima.
+(2) Agencija bez nepotrebnog odgađanja, a nakon što je subjekt nadzora ili druga osoba kojoj je izrečena nadzorna mjera obaviještena o toj mjeri, na svojoj mrežnoj stranici javno objavljuje podatke o svakoj nadzornoj mjeri koja je izrečena u vezi s ponašanjem za koje su propisani prekršaji iz ovoga Zakona, uključujući i izvršna rješenja o izricanju nadzornih mjera, a koje su donesene u postupcima nadzora koje provodi Agencija, uz naznaku da se radi o nepravomoćnim rješenjima.
+(3) Objava iz stavka 2. ovoga članka sadrži najmanje informacije o vrsti i karakteru kršenja odredbi ovoga Zakona ili relevantnih osoba i identitetu osobe kojoj je izrečena nadzorna mjera.
+(4) Iznimno od stavaka 2. i 3. ovoga članka, ako Agencija smatra da bi objavljivanje identiteta pravnih osoba ili osobnih podataka fizičkih osoba bilo nerazmjerno ili ako bi objavljivanje ugrozilo stabilnost financijskih tržišta ili istragu u tijeku, ovisno o okolnostima pojedinačnih slučajeva, Agencija može:
+1. odgoditi objavu nadzorne mjere do trenutka kada razlozi neobjavljivanja prestanu postojati
+2. nadzornu mjeru objaviti na anonimnoj osnovi, ako takvo anonimno objavljivanje osigurava učinkovitu zaštitu dotičnih osobnih podataka ili
+3. ne objaviti nadzornu mjeru ako smatra da mogućnosti u točkama 1. i 2. ovoga stavka nisu dostatne za osiguravanje neugrožavanja stabilnosti financijskih tržišta ili razmjernost objave takvih odluka u odnosu na mjere koje se smatraju mjerama blaže naravi.
+U slučaju odluke o anonimnoj objavi nadzorne mjere, Agencija može objavu relevantnih podataka odgoditi na razuman rok, ako je predviđeno da će razlozi za anonimnu objavu prestati postojati tijekom toga roka.
+(5) Kada Agencija utvrdi da bi javna objava mogla prouzročiti nerazmjernu i/ili ozbiljnu štetu pravnim ili fizičkim osobama koje su predmet objave, može u odnosu na nadzorne mjere izrečene u vezi s ponašanjem za koje su propisani prekršaji iz dijela trećega glave I. ovoga Zakona postupiti na način predviđen stavkom 3. točkom 3. ovoga članka.
+(6) Ako je protiv nadzorne mjere podnesen pravni lijek odnosno pokrenut upravni spor, Agencija tu informaciju uključuje u objavu ili izmjenjuje prethodnu objavu ako je pravni lijek podnesen odnosno upravni spor pokrenut nakon prvobitne objave. Agencija objavljuje podatak o ishodu postupka pokrenutog po podnesenom pravnom lijeku odnosno pokrenutom upravnom sporu, kao i svaku odluku kojom se poništava prethodna izrečena nadzorna mjera odnosno usvaja tužbeni zahtjev u upravnom sporu.
+(7) Agencija drži objavljene nadzorne mjere na svojoj mrežnoj stranici najmanje pet godina od trenutka njihove objave. Osobni podaci sadržani u objavi nalaze se na službenoj mrežnoj stranici nadležnog tijela samo u trajanju koje je potrebno u skladu s važećim pravilima o zaštiti podataka.
+(8) Agencija obavještava ESMA-u o svakoj izrečenoj nadzornoj mjeri koja nije objavljena u skladu sa stavkom 4. ovoga članka. Ova obavijest uključuje informaciju o svakom izjavljenom pravnom lijeku odnosno upravnom sporu protiv nadzorne mjere i o ishodu postupka po pravnom lijeku odnosno pokrenutom upravnom sporu, ako se radi o mjerama izrečenima radi kršenja ovoga Zakona koje predstavljaju teži prekršaj prema odredbama ovoga Zakona.«.

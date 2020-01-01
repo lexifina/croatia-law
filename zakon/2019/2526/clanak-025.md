@@ -1,0 +1,2 @@
+# Članak 25.
+U članku 59. stavku 3. iza riječi: »poslove« dodaju se riječi: »upravljanja imovinom i/ili upravljanja rizicima«.

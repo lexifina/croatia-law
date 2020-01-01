@@ -1,0 +1,4 @@
+# Članak 1.
+U Zakonu o otvorenim investicijskim fondovima s javnom ponudom (»Narodne novine«, br. 44/16.) u članku 2. stavku 1. točka 1. mijenja se i glasi:
+»1. Direktiva 2009/65/EZ Europskog parlamenta i Vijeća od 13. srpnja 2009. o usklađivanju zakona i drugih propisa koji se odnose na subjekte za zajednička ulaganja u prenosive vrijednosne papire (UCITS), kako je posljednji put izmijenjena Uredbom (EU) 2017/2402 Europskog parlamenta i Vijeća od 12. prosinca 2017. o utvrđivanju općeg okvira za sekuritizaciju i o uspostavi specifičnog okvira za jednostavnu, transparentnu i standardiziranu sekuritizaciju te o izmjeni direktiva 2009/65/EZ, 2009/138/EZ i 2011/61/EU te uredaba (EZ) br. 1060/2009 i (EU) br. 648/2012 SL L 347, 28. 12. 2017.) (u daljnjem tekstu: Direktiva 2009/65/EZ)«.
+U točki 2. riječi: »članci 3. do 7. te članci 20. do 23.« zamjenjuju se riječima: »članci 2. do 7., članci 20. do 23. te članci 26. do 29.«.

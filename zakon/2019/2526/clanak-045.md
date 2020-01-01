@@ -1,0 +1,3 @@
+# Članak 45.
+U članku 110. stavak 2. mijenja se i glasi:
+»(2) U slučaju da društvo za upravljanje ne obavi ili propusti obaviti, u cijelosti ili djelomično, odnosno ako nepropisno obavi bilo koji posao ili dužnost predviđenu ovim Zakonom, prospektom ili pravilima UCITS fonda, društvo za upravljanje odgovara za štetu koja je nanesena zasebnoj imovini UCITS fonda, a koja je nastala kao posljedica propusta društva za upravljanje u obavljanju i izvršavanju njegovih dužnosti. Ništetna je odredba prospekta ili pravila UCITS fonda kojom se otklanja pravo ulagatelja na zateznu kamatu za slučaj zakašnjenja s ispunjenjem novčane obveze.«.
