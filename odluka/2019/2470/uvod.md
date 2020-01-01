@@ -1,0 +1,1 @@
+Na temelju članka 42. Zakona o lokalnim porezima (»Narodne novine«, broj 115/16, 101/17) te članka 28. Statuta Općine Ernestinovo (Službeni glasnik Općine Ernestinovo broj 1/13, 4/13, 3/18, 4/18, 4/19 - pročišćeni tekst), Općinsko vijeće Općine Ernestinovo na 24. sjednici održanoj 26. studenoga 2019. donosi
