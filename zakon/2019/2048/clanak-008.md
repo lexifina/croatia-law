@@ -1,0 +1,2 @@
+# Članak 8.
+Korisnicima prijevremene starosne mirovine ostvarene u razdoblju od 1. siječnja do 31. prosinca 2019., sukladno odredbama Zakona o mirovinskom osiguranju (»Narodne novine«, br. 157/13., 151/14., 33/15., 93/15.,120/16., 18/18. - Odluka Ustavnog suda Republike Hrvatske, 62/18. i 115/18.), Hrvatski zavod za mirovinsko osiguranje po službenoj će dužnosti od dana stupanja na snagu ovoga Zakona ponovno odrediti prijevremenu starosnu mirovinu prema ovome Zakonu, bez donošenja rješenja.
