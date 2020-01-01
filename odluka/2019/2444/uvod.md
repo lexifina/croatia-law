@@ -1,0 +1,1 @@
+Na temelju članaka 20. i 42. stavka 1. Zakona o lokalnim porezima (»Narodne novine«, br. 115/16 i 101/17) i članka 32. Statuta Općine Civljane (»Službeni vjesnik Šibensko-kninske županije«, broj 9/09, 4/13, 5/13, 9/17 i 2/18), Općinsko vijeće Općine Civljane, na svojoj 18. sjednici, od 29. studenog 2019 godine, donosi
