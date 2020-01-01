@@ -1,0 +1,2 @@
+# Članak 2.
+U Zakonu o stambenom zbrinjavanju na potpomognutim područjima (»Narodne novine«, br. 106/18.) u cijelom tekstu Zakona riječi: »ured državne uprave u županiji odnosno nadležno upravno tijelo Grada Zagreba« u određenom padežu zamjenjuju se riječima: »upravno tijelo županije odnosno Grada Zagreba u čijem je djelokrugu obavljanje povjerenih poslova državne uprave koji se odnose na stambeno zbrinjavanje« u odgovarajućem padežu.
