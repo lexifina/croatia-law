@@ -1,0 +1,1 @@
+Na temelju članka 20. stavak 1. i članka 42. stavka 1. Zakona o lokalnim porezima (»Narodne novine« br. 115/16, 101/17) i članka 32. Statuta Općine Jakšić (»Službeni glasnik Općine Jakšić« broj 116/18), Općinsko vijeće Općine Jakšić na 16. sjednici održanoj 28. studenoga 2019. godine, a na prijedlog općinskog načelnika, donosi
