@@ -1,0 +1,1 @@
+Na temelju članka 20. i 42. Zakona o lokalnim porezima (»Narodne novine«, broj 115/16, 101/17) i članka 32. Statuta Općine Velika Kopanica (»Službeni vjesnik Brodsko-posavske županije« br. 9/09, 5/13, 3/18 i 11/18), Općinsko vijeće Općine Velika Kopanica na svojoj 23. sjednici održanoj 13. prosinca 2019. godine, donosi
