@@ -1,0 +1,4 @@
+# Članak 11.
+Obveznik poreza na kuće za odmor koja se nalazi na području Grada Zadra, dužan je Gradu Zadru - Upravnom odjelu za financije dostaviti podatke koji se odnose na mjesto gdje se nalazi objekt, korisnu površinu, podatke o poreznom obvezniku te druge podatke.
+Podatke iz stavka 1. ovog članka treba dostaviti do 31. ožujka godine za koju se utvrđuje porez na kuće za odmor.
+U postupku dokazivanja statusa kuće za odmor u smislu odredbe članka 10. stavka 1. ove Odluke, osim osobne iskaznice, OIB vlasnika kuće i vlasničkog lista uzimat će se u obzir i sljedeća dokumentacija: uvjerenje o prebivalištu, računi za potrošak vode i električne energije, putovnica, potvrda o radnom odnosu, izjava o izabranom liječniku, mjesto podnošenja porezne prijave, mjesto školovanja djece, kao i ostali relevantni dokazi.
