@@ -1,0 +1,1 @@
+Na temelju članka 24. Statuta Hrvatske obrtničke komore (»Narodne novine« broj 106/2014, 84/2016, 21/2018), Skupština Hrvatske obrtničke komore na 4. sjednici održanoj 10. prosinca 2019. godine donosi
