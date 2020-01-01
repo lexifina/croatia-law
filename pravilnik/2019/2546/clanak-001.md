@@ -1,0 +1,3 @@
+# Članak 1.
+U Pravilniku o bitnim zahtjevima, razvrstavanju, upisu proizvođača u očevidnik proizvođača, upisu medicinskih proizvoda u očevidnik medicinskih proizvoda te ocjenjivanju sukladnosti medicinskih proizvoda (»Narodne novine«, broj 84/13) članak 11. stavak 1. mijenja se i glasi:
+»(1) Postupak upisa u očevidnik proizvođača pokreće se pisanim zahtjevom pravne osobe koja je upisana u sudski registar nadležnog trgovačkog suda ili fizičke osobe - obrtnika koja je upisana u obrtni registar za obavljanje odgovarajuće djelatnosti, a koji se podnosi Agenciji sukladno odredbama Zakona o medicinskim proizvodima, »Narodne novine«, broj 76/13 (u daljnjem tekstu: Zakon) i odredbama ovoga Pravilnika.«.

@@ -1,0 +1,1 @@
+Na temelju članka 9. stavka 6., članka 13. stavka 2., članka 30. stavka 5., članka 35. i članka 41. stavka 6. Zakona o medicinskim proizvodima (»Narodne novine«, broj 76/13), uz prethodno pribavljeno mišljenje ministra nadležnog za gospodarstvo, ministar zdravstva donosi
