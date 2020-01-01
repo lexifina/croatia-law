@@ -1,0 +1,1 @@
+Na temelju članka 2. i članka 42. Zakona o lokalnim porezima (»Narodne novine« broj 115/16 i 101/17) i članka 31. Statuta Općine Škabrnja (»Službeni glasnik Općine Škabrnja« broj 02/13 i 01/18), Općinsko vijeće Općine Škabrnja na svojoj 13. sjednici 23. prosinca 2019. god., donijelo je
