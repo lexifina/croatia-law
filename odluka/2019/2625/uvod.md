@@ -1,0 +1,1 @@
+Na temelju članka 20. stavka 1. i članka 42. Zakona o lokalnim porezima (»Narodne novine« broj 115/16. i 101/17.), te članka 21. Statuta Općine Hrašćina (»Službeni glasnik Krapinsko-zagorske županije« broj 18/09. 5/12., 11/13., 10/18.) Općinsko vijeće Općine Hrašćina na 16. sjednici održanoj 15. prosinca 2019. godine, donosi
