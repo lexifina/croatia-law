@@ -1,0 +1,1 @@
+Na temelju članka 20. i članka 42. Zakona o lokalnim porezima (»Narodne novine« broj 115/16 i 101/17) i članka 31. Statuta Općine Lišane Ostrovičke (»Službeni glasnik Općine Lišane Ostrovičke« broj 1/13, 2/13, 1/18 i 6/18), Općinsko vijeće Općine Lišane Ostrovičke na svojoj 16. sjednici održanoj 11. prosinca 2019. godine donosi
