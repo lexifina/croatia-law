@@ -1,0 +1,1 @@
+Na temelju članka 96. stavka 7., članka 97. stavka 12. i članka 98. stavka 7. Zakona o sigurnosti i interoperabilnosti željezničkog sustava (»Narodne novine«, br. 82/13., 18/15., 110/15. i 70/17.), ministar mora, prometa i infrastrukture donosi
