@@ -1,0 +1,3 @@
+# Članak 1.
+Ovom Odlukom utvrđuju se pojedini oblici zdravstvene zaštite iz obveznoga zdravstvenog osiguranja koje osigurane osobe Hrvatskog zavoda za zdravstveno osiguranje (u daljnjem tekstu: Zavod) mogu ostvariti na osnovi tiskanice uputnice čiji je oblik i sadržaj utvrđen općim aktom Zavoda o uvjetima i načinu ostvarivanja prava iz obveznoga zdravstvenog osiguranja, obuhvat zdravstvene zaštite te rokovi važenja uputnice ovisno o pojedinom obliku tražene zdravstvene zaštite.
+Oblici zdravstvene zaštite iz stavka 1. ovoga članka i rokovi važenja uputnica utvrđeni su u tablici koja je otisnuta uz ovu Odluku i čini njezin sastavi dio.
