@@ -1,0 +1,1 @@
+Na temelju članka 20. i članka 42. stavak 1. Zakona o lokalnim porezima (»Narodne novine« br. 115/16 i 101/17) i članka 50. Statuta Grada Buja (»Službene novine« br. 11/09, 5/11, 11/11, 3/13 i 05/18), Gradsko vijeće Grada Buja - Buie na sjednici održanoj 12. prosinca 2019. godine, donijelo je
