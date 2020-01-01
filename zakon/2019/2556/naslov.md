@@ -1,0 +1,1 @@
+Zakon o prestanku važenja Zakona o provedbi Uredbe (EU) 2015/757 Europskog parlamenta i Vijeća od 29. travnja 2015. o praćenju emisija ugljikova dioksida iz pomorskog prometa, izvješćivanju o njima i njihovoj verifikaciji te o izmjeni Direktive 2009/16/EZ
