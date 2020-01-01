@@ -1,0 +1,2 @@
+# Članak 1.
+U Zakonu o naknadi za imovinu oduzetu za vrijeme jugoslavenske komunističke vladavine (»Narodne novine«, br. 92/96., 39/99., 42/99., 92/99., 43/00., 131/00., 27/01., 34/01., 65/01., 118/01., 80/02. i 81/02.) u članku 18. stavku 2. riječi: »uredima državne uprave u županijama« zamjenjuju se riječima: »upravnom tijelu županije odnosno Grada Zagreba u čijem je djelokrugu obavljanje povjerenih poslova državne uprave koji se odnose na imovinskopravne poslove«, a riječi u zagradama: »ureda državne uprave« brišu se.
