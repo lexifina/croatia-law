@@ -1,0 +1,1 @@
+Na temelju članka 17. Statuta Grada Popovače (»Službene novine Grada Popovače« br. 6/15 - pročišćeni tekst, 1/18), članka 20. stavka 1. Zakona o lokalnim porezima (»Narodne novine« broj 115/16, 101/17), Gradsko vijeće Grada Popovače na 32. sjednici, održanoj 12. prosinca 2019. godine, donijelo je
