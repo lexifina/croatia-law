@@ -1,0 +1,2 @@
+# Članak 1.
+U Zakonu o radu (»Narodne novine«, br. 93/14. i 127/17.) u članku 14. stavku 6. riječi: »uredu državne uprave u županiji, odnosno uredu Grada Zagreba nadležnom za poslove rada« zamjenjuju se riječima: »upravnom tijelu županije, odnosno Grada Zagreba u čijem je djelokrugu obavljanje povjerenih poslova državne uprave koji se odnose na poslove rada (u daljnjem tekstu: nadležno upravno tijelo)«.
