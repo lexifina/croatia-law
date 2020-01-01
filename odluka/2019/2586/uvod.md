@@ -1,0 +1,1 @@
+Na temelju članka 20. stavka 1. i članka 42. Zakona o lokalnim porezima (»Narodne novine« broj 115/16. i 101/17) i članka 18. Statuta Općine Vrhovine (»Županijski glasnik« Ličko-senjske županije broj 5/18, 12/18 i 20/18), Općinsko vijeće Općine Vrhovine na 19. redovnoj sjednici održanoj 12. prosinca 2019. godine donijelo je
