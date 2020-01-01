@@ -1,0 +1,1 @@
+Na temelju članka 20. i članka 42. Zakona o lokalnim porezima (»Narodne novine« broj 115/16, 101/17) i članka 35. Statuta Grada Sinja (»Službeni glasnik Grada Sinja« broj 10/09, 02/13, 02/18) Gradsko vijeće Grada Sinja na 27. sjednici održanoj 12. prosinca 2019. godine, donosi
