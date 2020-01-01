@@ -1,0 +1,2 @@
+# Članak 1.
+U Zakonu o poljoprivrednom zemljištu (»Narodne novine«, br. 20/18. i 115/18.) u članku 20. stavku 1. riječi: »nadležni ured državne uprave u županiji odnosno upravno tijelo Grada Zagreba nadležno za poljoprivredu« zamjenjuju se riječima: »nadležno upravno tijelo županije odnosno Grada Zagreba u čijem je djelokrugu obavljanje povjerenih poslova državne uprave koji se odnose na poljoprivredu (u daljnjem tekstu: nadležno upravno tijelo)«.
