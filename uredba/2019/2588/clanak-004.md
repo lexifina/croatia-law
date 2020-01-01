@@ -1,0 +1,3 @@
+# Članak 4.
+(1) Ministarstvo znanosti i obrazovanja, Ministarstvo za demografiju, obitelj, mlade i socijalnu politiku, Ministarstvo zdravstva, Ministarstvo kulture, Ministarstvo vanjskih i europskih poslova, Ministarstvo hrvatskih branitelja, Ministarstvo pravosuđa, Ministarstvo gospodarstva, poduzetništva i obrta, Središnji državni ured za Hrvate izvan Republike Hrvatske, Središnji državni ured za šport i Ured za udruge izvještaj o utrošku sredstava raspoređenih prema članku 3. ove Uredbe, za razdoblje od 1. siječnja do 31. prosinca 2020. godine, dostavljaju Ministarstvu financija do 31. ožujka 2021. godine.
+(2) Izvještaj iz stavka 1. ovoga članka dostavlja se na obrascu koji se nalazi u prilogu i sastavni je dio ove Uredbe.
