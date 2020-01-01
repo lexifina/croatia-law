@@ -1,0 +1,6 @@
+## Obveze u slučaju kada nije moguće provjeriti autentičnost jedinstvenog identifikatora i povući ga iz uporabe
+# Članak 11.
+(1) Kada su proizvođač, veleprodaja ili osoba ovlaštena izdavati lijekove stanovništvu zbog tehničkih problema spriječeni provjeriti autentičnost jedinstvenog identifikatora i povući ga iz uporabe, evidentiraju taj jedinstveni identifikator te provjeravaju njegovu autentičnost i povlače ga iz uporabe čim se riješe tehnički problemi u roku ne dužem od 48 sati od trenutka nastanka tehničkih problema.
+(2) Evidencije o tehničkim problemima iz stavka 1. ovoga članka čuvaju se barem godinu dana nakon isteka roka valjanosti lijeka ili pet godina nakon što je lijek stavljen u prodaju i vode se na mjestu gdje se provjerava autentičnost jedinstvenog identifikatora i povlači iz uporabe.
+(3) HOPAL osigurava tehničke i programske preduvjete za kontinuiran rad sustava, cjelovitost, zaštitu i tajnost podataka koje korisnici generiraju prilikom njihove interakcije s repozitorijskim sustavom.
+(4) Radi osiguranja opskrbe stanovništva lijekovima, u slučaju sustavne nedostupnosti repozitorijskog sustava na području Republike Hrvatske, HOPAL je dužan bez odgode poduzeti mjere radi otklanjanja nedostupnosti u najkraćem mogućem roku, a najduže 24 sata od nastanka nedostupnosti repozitorijskog sustava.
