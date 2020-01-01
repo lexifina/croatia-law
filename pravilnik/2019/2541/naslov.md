@@ -1,0 +1,1 @@
+Pravilnik o izmjenama i dopunama Pravilnika o postupku ostvarivanja oslobođenja od plaćanja poreza za diplomatska i konzularna predstavništva, institucije i tijela Europske unije te međunarodne organizacije

@@ -1,0 +1,3 @@
+# Članak 4.
+Članak 16. stavak 3. mijenja se i glasi:
+»(3) Iznimno od stavka 1. ovoga članka, porezi se ne plaćaju ako je otuđenje posljedica smrti osobe koja je imala pravo na oslobođenje u skladu s ovim Pravilnikom ili ako dobro otuđi član obitelji osobe koja ima pravo na oslobođenje, a koji prestaje boraviti u Republici Hrvatskoj zbog smrti osobe koja je imala pravo na oslobođenje. Porez se ne plaća ni u slučaju uništenja motornog vozila ili prodaje uništenog motornog vozila, koje je bilo oslobođeno, a vrijednost na dan nezgode mu je umanjena najmanje 70% ili ako je ukradeno i nije pronađeno u roku od 6 mjeseci od prijave krađe, o čemu postoji očevidnik nadležnog tijela.«.
