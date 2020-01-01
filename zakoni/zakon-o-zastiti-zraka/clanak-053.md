@@ -1,0 +1,5 @@
+# Članak 53.
+(1) Za zone i aglomeracije u kojima su granične vrijednosti za PM10 u zraku prekoračene zbog resuspendiranja lebdećih čestica nakon zimskog posipavanja cesta pijeskom ili solju Ministarstvo vodi evidenciju o tim područjima, zajedno s podacima o koncentracijama i izvorima PM10 koji se u njima nalaze.
+(2) Ministarstvo u suradnji s drugim tijelima državne uprave, jedinicama područne (regionalne) samouprave, Gradom Zagrebom i jedinicama lokalne samouprave osigurava pribavljanje potrebnih dokaza da su prekoračenja uzrokovana resuspendiranim štetnim česticama i da su poduzete razumne mjere za snižavanje koncentracije PM10.
+(3) Ministarstvo dostavlja Europskoj komisiji podatke iz stavka 2. ovoga članka.
+(4) Ne dovodeći u pitanje onečišćenja iz članka 51. ovoga Zakona, u slučaju zona i aglomeracija iz stavka 1. ovoga članka predstavničko tijelo jedinice lokalne samouprave odnosno Grada Zagreba nadležno za tu zonu ili aglomeraciju dužno je donijeti akcijski plan iz članka 54. stavka 1. ovoga Zakona samo ako se prekoračenje može pripisati izvorima PM10 koji nisu posljedica zimskog posipavanja cesta pijeskom ili solju.

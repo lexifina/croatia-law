@@ -1,0 +1,3 @@
+# Članak 83.
+(1) Stranke u inspekcijskom postupku nad primjenom ovoga Zakona i propisa donesenih na temelju njega mogu biti onečišćivač, operater, dobavljač, distributer, isporučitelj, trgovac, pravna osoba koja obavlja djelatnost praćenja kvalitete zraka, praćenje emisija onečišćujućih tvari iz nepokretnih izvora i provjeru ispravnosti mjernog sustava za kontinuirano mjerenje emisija onečišćujućih tvari iz nepokretnih izvora, pravna osoba koja obavlja djelatnost osiguranja kvalitete mjerenja i podataka kvalitete zraka te jedinica lokalne i područne (regionalne) samouprave (u daljnjem tekstu: nadzirana osoba).
+(2) Podnositelj prijave nije stranka u inspekcijskom postupku nad primjenom ovoga Zakona i propisa donesenih na temelju ovoga Zakona.

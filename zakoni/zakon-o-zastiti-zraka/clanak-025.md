@@ -1,0 +1,7 @@
+# Članak 25.
+(1) Procjenjivanje razine onečišćenosti zraka s obzirom na onečišćujuće tvari: sumporov dioksid, dušikov dioksid i dušikove okside, lebdeće čestice (PM10, PM2,5), benzen, ugljikov monoksid i olovo provodi se:
+– mjerenjem na stalnim mjernim mjestima u zonama i aglomeracijama u kojima razina onečišćenja prekoračuje gornji prag procjene. Ova mjerenja nadopunjuju se tehnikama modeliranja i/ili indikativnim mjerenjima, kako bi se dobili odgovarajući podaci o prostornoj raspodjeli kvalitete zraka
+– primjenom kombinacije mjerenja na stalnim mjernim mjestima i metoda matematičkog modeliranja i/ili indikativnih mjerenja u zonama i aglomeracijama u kojima razina onečišćenja ne prekoračuje gornji prag procjene i
+– primjenom metoda matematičkog modeliranja i/ili drugih metoda procjene u skladu s općeprihvaćenom praksom u državama članicama Europske unije u zonama i aglomeracijama u kojima razina onečišćenja ne prekoračuje donji prag procjene.
+(2) Na ruralnim pozadinskim postajama, udaljenim od značajnih izvora emisije onečišćenja zraka, obavljaju se, kao minimum, i mjerenja ukupne masene koncentracije lebdećih čestica PM2,5 i određuju se godišnji prosjeci masenih koncentracija kemijskog sastava lebdećih čestica PM2,5 za elemente i spojeve propisane pravilnikom iz članka 23. ovoga Zakona.
+(3) Mjerila procjenjivanja, mjerna mjesta, program mjerenja, ciljevi kvalitete i referentne metode mjerenja za onečišćujuće tvari iz stavaka 1. i 2. ovoga članka primjenjuju se sukladno pravilniku iz članka 23. ovoga Zakona.

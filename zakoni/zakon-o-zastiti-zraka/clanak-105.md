@@ -1,0 +1,3 @@
+# Članak 105.
+(1) Dozvole za obavljanje djelatnosti praćenja kvalitete zraka, djelatnosti praćenja emisija onečišćujućih tvari u zrak iz nepokretnih izvora i/ili djelatnosti provjere ispravnosti mjernog sustava za kontinuirano mjerenje emisija onečišćujućih tvari u zrak iz nepokretnih izvora izdane na temelju odredbi Zakona o zaštiti zraka (»Narodne novine«, br. 130/11., 47/14., 61/17. i 118/18.) vrijede do isteka.
+(2) Dozvole za obavljanje djelatnosti osiguranja kvalitete mjerenja i podataka kvalitete zraka na području Republike Hrvatske izdane na temelju odredbi Zakona o zaštiti zraka (»Narodne novine«, br. 130/11., 47/14., 61/17. i 118/18.) vrijede do isteka.

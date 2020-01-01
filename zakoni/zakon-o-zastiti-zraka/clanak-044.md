@@ -1,0 +1,3 @@
+# Članak 44.
+(1) U zonama i aglomeracijama za koje je utvrđeno da su razine onečišćujućih tvari iz članka 24. stavka 1. ovoga Zakona niže od propisanih graničnih vrijednosti (GV) i ciljnih vrijednosti djeluje se preventivno kako bi se razine tih onečišćujućih tvari zadržale ispod propisanih i očuvala najbolja kvaliteta zraka spojiva s održivim razvojem.
+(2) U zonama i aglomeracijama za koje je utvrđeno da su razine dugoročnih ciljeva za prizemni ozon niže od propisanih, u mjeri u kojoj to faktori, uključujući prekogranični utjecaj onečišćenja ozonom i meteorološke prilike dozvoljavaju, djeluje se preventivno kako bi se razine zadržale ispod propisanih i očuvala najbolja kvaliteta zraka spojiva s održivim razvojem i visokom razinom zaštite okoliša i zdravlja ljudi.

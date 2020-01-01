@@ -1,0 +1,3 @@
+# Članak 47.
+(1) Granične vrijednosti emisija onečišćujućih tvari u zrak iz nepokretnih izvora iz članka 10. stavka 2. ovoga Zakona, praćenje i vrednovanje emisija, upis podataka o nepokretnim izvorima u kojima se koriste organska otapala ili proizvodi koji sadrže hlapljive organske spojeve u registar, način smanjivanja emisija onečišćujućih tvari u zrak, način i rok dostave izvješća o emisijama Ministarstvu, način obavješćivanja javnosti i način dostave podataka nadležnim tijelima Europske unije propisuje Vlada uredbom.
+(2) Uredbom iz stavka 1. ovoga članka Vlada može odrediti za postojeće izvore razinu dopuštenog prekoračenja propisanih graničnih vrijednosti emisija za određeno razdoblje.

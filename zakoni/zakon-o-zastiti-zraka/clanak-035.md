@@ -1,0 +1,4 @@
+# Članak 35.
+(1) Onečišćivač je dužan osigurati praćenje kvalitete zraka prema rješenju o prihvatljivosti zahvata za okoliš i/ili rješenju o objedinjenim uvjetima zaštite okoliša odnosno okolišnom dozvolom sukladno zakonu kojim se uređuje zaštita okoliša.
+(2) Pravna osoba – ispitni laboratorij koji obavlja mjerenja za onečišćivača iz stavka 1. ovoga članka dužan je izvorne i validirane podatke i izvješće o razinama onečišćenosti i ocjeni kvalitete zraka dostaviti nadležnom upravnom tijelu županije, Grada Zagreba i jedinice lokalne samouprave do 31. ožujka tekuće godine za proteklu kalendarsku godinu.
+(3) Nadležno upravno tijelo jedinice iz stavka 2. ovoga članka dužno je dostaviti Ministarstvu izvorne i validirane podatke i izvješće iz stavka 2. ovoga članka do 30. travnja tekuće godine za proteklu kalendarsku godinu.

@@ -1,0 +1,5 @@
+# Članak 30.
+(1) Državna mreža iz članka 29. ovoga Zakona sastoji se od mjernih mjesta za praćenje koncentracija sumporovog dioksida, dušikovog dioksida i dušikovih oksida, lebdećih čestica (PM10 i PM2,5), olova, benzena, ugljikovog monoksida, prizemnog ozona i prekursora ozona, arsena, kadmija, žive, nikla, benzo(a)pirena i drugih policikličkih aromatskih ugljikovodika u zraku te mjernih mjesta za praćenje kvalitete zraka sukladno međunarodnim ugovorima iz područja onečišćenja zraka.
+(2) Na mjernim mjestima uzorkovanja za benzo(a)piren uzorkuju se i drugi policiklički aromatski ugljikovodici, a na najmanje jednom mjernom mjestu gdje se mjeri prizemni ozon mjere se i prekursori ozona.
+(3) Popis i lokacije mjernih mjesta iz stavka 1. ovoga članka, na prijedlog Ministarstva, određuje Vlada Uredbom.
+(4) Minimalni broj i lokacije mjernih mjesta za praćenje koncentracija onečišćujućih tvari iz stavka 1. ovoga članka u zraku određuju se prema mjerilima određenim pravilnikom iz članka 23. ovoga Zakona.

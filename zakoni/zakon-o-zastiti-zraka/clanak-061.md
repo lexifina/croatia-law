@@ -1,0 +1,3 @@
+# Članak 61.
+(1) Godišnje izvješće o praćenju kvalitete zraka na teritoriju Republike Hrvatske iz članka 21. stavka 4. ovoga Zakona izrađuje Ministarstvo do 30. rujna tekuće godine za proteklu kalendarsku godinu.
+(2) Izvješće iz stavka 1. ovoga članka izrađuje se na način propisan pravilnikom iz članka 23. ovoga Zakona i sadrži: pregled razina onečišćenosti koje prekoračuju granične vrijednosti, ciljne vrijednosti, dugoročne ciljeve, pragove obavješćivanja i pragove upozorenja, za odgovarajuće vrijeme usrednjavanja i sve potrebne podatke određene člankom 59. stavcima 3. i 4. ovoga Zakona. Ti se podaci povezuju sa sažetom ocjenom učinaka tih prekoračenja na zdravlje ljudi i vegetaciju.

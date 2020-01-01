@@ -1,0 +1,3 @@
+# Članak 51.
+(1) Za smanjenje izloženosti i za postizanje ciljanog smanjenja izloženosti lebdećim česticama PM2,5, prema razinama onečišćenosti i rokovima određenim u uredbi iz članka 20. stavka 1. ovoga Zakona, Ministarstvo u suradnji s drugim tijelima državne uprave, jedinicama područne (regionalne) samouprave, Gradom Zagrebom i jedinicama lokalne samouprave osigurava poduzimanje svih potrebnih mjera, koje ne zahtijevaju nerazmjerne troškove.
+(2) Pokazatelj prosječne izloženosti za PM2,5, raspodjela i broj mjernih mjesta na kojima se temelji pokazatelj prosječne izloženosti za PM2,5 i koji na odgovarajući način odražava opću izloženost stanovništva određuje se uredbom iz članka 20. stavka 1. ovoga Zakona.

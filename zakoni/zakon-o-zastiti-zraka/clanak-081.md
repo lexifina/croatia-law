@@ -1,0 +1,4 @@
+# Članak 81.
+(1) U provedbi inspekcijskog nadzora inspektor sigurnosti plovidbe će rješenjem narediti otklanjanje nepravilnosti i odrediti primjereni rok u kojem nepravilnosti treba otkloniti ako utvrdi nepravilnosti propisane uredbom iz članka 48. stavka 1. ovoga Zakona.
+(2) U slučaju sumnje i/ili prijave da brodsko gorivo ne odgovara odredbama uredbe iz članka 48. stavka 1. ovoga Zakona, inspektor sigurnosti plovidbe može rješenjem privremeno zabraniti korištenje brodskog goriva u vremenu potrebnom za dodatne preglede i analize.
+(3) Inspektor sigurnosti plovidbe će rješenjem zabraniti uporabu brodskog goriva na plovilu koje ne odgovara odredbama uredbe iz članka 48. stavka 1. ovoga Zakona i koje u svom sastavu sadrži nedopuštene tvari i/ili onečišćujuće tvari iznad propisanih graničnih vrijednosti.

@@ -1,0 +1,3 @@
+# Članak 40.
+(1) Emisijske kvote odnosno nacionalne obveze smanjenja određenih onečišćujućih tvari u zraku koje uzrokuju nepovoljne učinke zakiseljavanja, eutrofikacije i fotokemijskog onečišćenja za određeno razdoblje u Republici Hrvatskoj, način izračuna emisija i izrade inventara emisija, sadržaj i način izrade Programa kontrole onečišćenja zraka iz članka 16. ovoga Zakona, praćenje negativnih učinaka onečišćenja zraka na ekosustave te način dostave podataka nadležnim međunarodnim tijelima i tijelima Europske unije propisuje Vlada uredbom.
+(2) Uredbom iz stavka 1. ovoga članka Vlada može propisati i mjere za smanjenje emisija određenih onečišćujućih tvari.
