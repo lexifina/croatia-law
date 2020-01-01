@@ -1,0 +1,4 @@
+# Članak 7.
+Poslove utvrđivanja, evidentiranja, nadzora, naplate i ovrhe radi naplate poreza na temelju ove Odluke obavljat će Ministarstvo financija, Porezna uprava, Područni ured Rijeka, Ispostava Delnice, uz prethodnu suglasnost ministra financija.
+Za obavljanje poslova iz stavka 1. ovog članka Ministarstvu financija, Poreznoj upravi, Područnom uredu Rijeka, Ispostava Delnice, pripada naknada u visini od 5% od ukupno naplaćenih prihoda.
+Ovlašćuje se nadležna organizacija za platni promet zadužena za naplatu javnih prihoda (FINA) da naknade predviđene ovom Odlukom Poreznoj upravi obračuna i uplati u Državni proračun do zadnjeg dana u mjesecu za prethodni mjesec sukladno Suglasnosti ministra financija da Porezna uprava može obavljati poslove utvrđivanja, evidentiranja, nadzora, naplate i ovrhe radi naplate poreza jedinica lokalne i područne (regionalne) samouprave (»Narodne novine« br. 1/17).

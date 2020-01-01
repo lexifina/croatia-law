@@ -1,0 +1,1 @@
+Na temelju članka 20. stavka 1. Zakona o lokalnim porezima (»Narodne novine« broj 115/16, 101/17) i članka 29. Statuta Općine Mrkopalj (Službene novine Primorsko-goranske županije br. 24/09, 34/09 - ispr., 13/13, 19/13, 8/18), Općinsko vijeće Općine Mrkopalj na sjednici održanoj 10. prosinca 2019. godine donosi
