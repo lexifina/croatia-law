@@ -1,0 +1,4 @@
+# Članak 35.
+(1) Tijelo državne uprave nadležno za poslove zaštite okoliša i prirode dostavlja sažetak prijave iz članka 34. ovoga Zakona Europskoj komisiji u roku od 30 dana od dana primitka radi prosljeđivanja nadležnim tijelima država članica Europske unije koje se o prijavi mogu očitovati. Cjelovitu prijavu tijelo državne uprave nadležno za poslove zaštite okoliša i prirode dostavlja nadležnom tijelu države članice Europske unije na njegov zahtjev.
+(2) Dostavljene primjedbe nadležnih tijela država članica Europske unije tijelo državne uprave nadležno za poslove zaštite okoliša i prirode obvezno je uzeti u obzir prilikom odlučivanja o prijavi za izdavanje odobrenja za namjerno uvođenje GMO-a u okoliš.
+(3) Tijelo državne uprave nadležno za poslove zaštite okoliša i prirode obavještava Europsku komisiju o izdanim odobrenjima za namjerno uvođenje GMO-a u okoliš, o razlozima odbijanja izdavanja odobrenja te rezultatima namjernog uvođenja GMO-a u okoliš.

@@ -1,0 +1,2 @@
+# Članak 58.
+Nadležna tijela prema podjeli nadležnosti iz članka 4. stavka 1. podstavka 4. i stavka 3. ovoga Zakona, na temelju novih ili dodatnih znanstvenih spoznaja stavljenih na raspolaganje od datuma izdavanja Provedbene odluke o stavljanju na tržište GMO-a, mogu privremeno ograničiti ili zabraniti uporabu i/ili prodaju toga GMO-a kao proizvoda ili sastojka proizvoda, ako proizvod ili sastojak proizvoda predstavlja rizik za zdravlje ljudi, životinja ili okoliš.

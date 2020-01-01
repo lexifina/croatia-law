@@ -1,0 +1,9 @@
+# Članak 26.
+(1) Korisnik je obvezan ograničenu uporabu GMO-a uvrštenu u drugu razinu opasnosti, koja će se obavljati u zatvorenom sustavu za koji je izdana potvrda sukladno članku 20. ovoga Zakona, prijaviti tijelu državne uprave nadležnom za poslove znanosti.
+(2) Detaljan sadržaj prijave iz stavka 1. ovoga članka pravilnikom propisuje čelnik tijela državne uprave nadležnog za poslove znanosti.
+(3) Podnositelj prijave može započeti s uporabom GMO-a 45 dana od dana podnošenja uredne prijave ili prije toga roka, samo uz odobrenje tijela državne uprave nadležnog za poslove znanosti. Odobrenje se izdaje rješenjem.
+(4) Tijelo državne uprave nadležno za poslove znanosti može u roku iz stavka 3. ovoga članka, a nakon što je pribavilo mišljenje Odbora za ograničenu uporabu GMO-a iz članka 70. ovoga Zakona, zabraniti ograničenu uporabu i o tome izdati rješenje.
+(5) Podnositelj prijave može odmah nakon podnošenja prijave započeti s uporabom GMO-a iz stavka 1. ovoga članka ako je prije toga u istom zatvorenom sustavu koristio GMO iz druge ili više razine opasnosti i ako su bili ispunjeni propisani uvjeti.
+(6) Podnositelj prijave mora u slučaju iz stavka 5. ovoga članka zatražiti od tijela državne uprave nadležnog za poslove znanosti izdavanje odobrenja za namjeravanu ograničenu uporabu.
+(7) Tijelo državne uprave nadležno za poslove znanosti obvezno je o prijavi iz stavka 6. ovoga članka odlučiti, nakon pribavljenog mišljenja Odbora za ograničenu uporabu GMO-a iz članka 70. ovoga Zakona, najkasnije u roku od 45 dana od dana podnošenja uredne prijave.
+(8) Odbor za ograničenu uporabu GMO-a iz članka 70. ovoga Zakona obvezan je svoje pisano mišljenje iz stavaka 4. i 7. ovoga članka dati tijelu državne uprave nadležnom za poslove znanosti u roku od 30 dana od dana kada mu je dostavljena preslika prijave.

@@ -1,0 +1,5 @@
+# Članak 39.
+(1) Tijelo državne uprave nadležno za poslove zaštite okoliša i prirode obvezno je u postupku izdavanja odobrenja za namjerno uvođenje GMO-a u okoliš javnosti dati na uvid sadržaj prijave, sadržaj tehničke dokumentacije, procjenu rizika i mišljenje Odbora za procjenu učinaka uvođenja GMO-a u okoliš iz članka 70. ovoga Zakona.
+(2) Javni poziv u kojem se navodi mjesto i vrijeme za uvid iz stavka 1. ovoga članka te način davanja mišljenja i primjedbi objavljuje se u sredstvima javnog priopćavanja i na mrežnim stranicama tijela državne uprave nadležnog za poslove zaštite okoliša i prirode.
+(3) Rok u kojem tijelo državne uprave nadležno za poslove zaštite okoliša i prirode omogućava uvid te davanje mišljenja i primjedbi ne može biti kraći od 30 dana od dana objave tih akata, i ne računa se u rok za izdavanje odobrenja.
+(4) Tijelo državne uprave nadležno za poslove zaštite okoliša i prirode obvezno je u obrazloženju rješenja o izdavanju odobrenja očitovati se i o mišljenju javnosti i iznesenim primjedbama.

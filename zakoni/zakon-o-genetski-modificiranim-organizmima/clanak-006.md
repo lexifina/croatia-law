@@ -1,0 +1,12 @@
+# Članak 6.
+(1) Odredbe ovoga Zakona ne primjenjuju se na uporabu GMM-a u zatvorenom sustavu u slučajevima kad se genetska modifikacija postiže primjenom sljedećih tehnika/metoda:
+1. mutageneze
+2. fuzije stanica (uključujući fuziju protoplasta) prokariotskih vrsta koje razmjenjuju genetski materijal poznatim fiziološkim procesima
+3. fuzije stanica (uključujući fuziju protoplasta) stanica eukariotskih vrsta, uključujući proizvodnju hibridoma i fuziju biljnih stanica
+4. samokloniranja koje se sastoji od izoliranja sekvencija nukleinske kiseline iz stanica organizma, iza čega može i ne mora slijediti ponovno umetanje cijele te nukleinske kiseline, ili njezina dijela (ili sintetičkoga ekvivalenta), koji je ili nije enzimski ili mehanički promijenjen u stanice iste vrste ili u stanice filogenetski blisko srodnih vrsta koje mogu izmjenjivati genetski materijal prirodnim fiziološkim procesima, gdje ne postoji vjerojatnost da će dobiveni mikroorganizam izazvati bolest kod ljudi, životinja ili biljaka. Samokloniranje može uključivati upotrebu prijenosnika rekombinantnog vektora čija je sigurna uporaba u određenom mikroorganizmu već dugo poznata.
+(2) Odredbe ovoga Zakona ne primjenjuje se na namjerno uvođenje GMO-a u okoliš i stavljanje na tržište GMO-a kad se genetska modifikacija postiže primjenom sljedećih tehnika/metoda:
+1. mutageneze
+2. fuzije stanica (uključujući fuziju protoplasta) biljnih stanica organizama koji mogu razmjenjivati genetički materijal tradicionalnim uzgojnim metodama, pod uvjetom da ove tehnike/metode genetske modifikacije ne obuhvaćaju korištenje rekombinantnih molekula nukleinske kiseline ili GMO-a različitih od onih proizvedenih jednom ili više tehnika/metoda na koje se ovaj Zakon ne primjenjuje.
+(3) Odredbe ovoga Zakona ne primjenjuju se na uvjete i način prijevoza GMO-a željeznicom, cestom, unutrašnjim vodenim putovima, morem ili zrakom, osim odredbi ovoga Zakona koje se odnose na procjenu rizika i na prijedlog mjera te poduzimanje mjera u slučaju nesreće pri uporabi GMO-a u zatvorenom sustavu.
+(4) Na uvoz, provoz, stavljanje na tržište, uporabu i proizvodnju hrane i hrane za životinje koja sadrži GMO-e, sastoji se od njih ili je od njih proizvedena, primjenjuju se posebni propisi kojima je uređeno područje hrane.
+(5) Na uvoz, provoz, stavljanje na tržište, uporabu i proizvodnju lijekova (medicinskih proizvoda) koji se sastoje od ili sadrže GMO ili kombinaciju GMO-a, primjenjuju se odredbe ovoga Zakona samo kada je to izričito propisano.

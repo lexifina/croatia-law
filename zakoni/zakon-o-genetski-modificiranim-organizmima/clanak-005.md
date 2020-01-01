@@ -1,0 +1,5 @@
+# Članak 5.
+(1) Pri namjernom uvođenju GMO-a u okoliš nadležno tijelo državne uprave nadležno za poslove zaštite okoliša i prirode obvezno je pribaviti mišljenje tijela državne uprave nadležnog za poslove poljoprivrede, šumarstva i ribarstva.
+(2) Pri namjernom uvođenju u živi organizam lijeka (medicinskog proizvoda) koji se sastoji od ili sadrži GMO ili kombinaciju GMO-a u svrhu provođenja kliničkih ispitivanja, genskih terapija, prevencija i liječenja, podnositelj prijave obvezan je pribaviti suglasnost tijela državne uprave nadležnog za poslove zdravstva.
+(3) Pri stavljanju na tržište hrane i/ili hrane za životinje koja sadrži GMO-e, sastoji se od njih ili je od njih proizvedena, primjenjuje se zakon kojim se uređuje područje hrane i posebni propisi kojima se regulira stavljanje na tržište genetski modificirane hrane i genetski modificirane hrane za životinje.
+(4) Za pružanje stručne pomoći nadležnim tijelima iz članka 4. ovoga Zakona za provedbu ovoga Zakona mjerodavna su znanstveno-stručna tijela osnovana ovim Zakonom, a središnje i koordinativno tijelo za obavljanje stručnih poslova u vezi s GMO-om je tijelo državne uprave nadležno za poslove zdravstva.

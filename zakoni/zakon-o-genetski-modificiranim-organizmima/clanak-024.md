@@ -1,0 +1,5 @@
+# Članak 24.
+(1) Tijelo državne uprave nadležno za poslove znanosti je obvezno u postupku za izdavanje odobrenja za ograničenu uporabu GMO-a uvrštenu u treću i četvrtu razinu opasnosti omogućiti javnosti uvid u sadržaj prijave, procjenu rizika i sadržaj mišljenja Odbora za ograničenu uporabu GMO-a iz članka 70. ovoga Zakona.
+(2) Javno priopćenje s naznakom trajanja i vremena za uvid u akte iz stavka 1. ovoga članka, te o načinu davanja mišljenja i primjedbi, objavit će se putem sredstava javnog priopćavanja i na mrežnim stranicama tijela državne uprave nadležnog za poslove znanosti.
+(3) Rok u kojem tijelo državne uprave nadležno za poslove znanosti daje na uvid i omogućava davanje mišljenja i primjedbi na akte iz stavka 1. ovoga članka ne može biti kraći od 15 dana niti dulji od 30 dana od dana objave tih akata. Taj rok se ne računa u rok za izdavanje odobrenja iz članka 27. stavaka 3. i 4. ovoga Zakona.
+(4) Tijelo državne uprave nadležno za poslove znanosti obvezno je u obrazloženje rješenja o odobrenju unijeti i svoje očitovanje o primjedbama i mišljenju javnosti.

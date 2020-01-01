@@ -1,0 +1,7 @@
+# Članak 60.
+(1) Korisnik odnosno osoba koja stavlja na tržište GMO ili proizvode koji se sastoje od ili sadrže GMO ili kombinaciju GMO-a obvezna je osigurati da se osobi koja prihvaća proizvod dostavi dokumentacija iz koje je:
+– vidljivo da se radi o GMO-u ili proizvodu koji se sastoji od ili sadrži GMO ili kombinaciju GMO-a i
+– vidljiv odgovarajući jedinstveni kod (brojčani i abecedni) dodijeljen tom GMO-u u skladu s Uredbom Komisije (EZ) br. 65/2004.
+(2) Kod stavljanja na tržište GMO-a ili proizvoda koji se sastoje od ili sadrže GMO ili kombinaciju GMO-a prodavatelj je obvezan korisniku dostaviti dokumentaciju s podacima navedenim u stavku 1. ovoga članka.
+(3) Osoba iz stavka 1. ovoga članka koja stavlja na tržište GMO ili proizvode koji se sastoje od ili sadrže GMO ili kombinaciju GMO-a obvezna je voditi bazu podataka i osigurati postupak koji će omogućiti sljedivost GMO-a ili proizvoda koji se sastoje od ili sadrže GMO ili kombinaciju GMO-a sukladno europskom zakonodavstvu kojima je uređena sljedivost GMO-a ili proizvoda koji se sastoje od ili sadrže GMO ili kombinaciju GMO-a.
+(4) Kod stavljanja na tržište GMO-a ili proizvoda koji se sastoje od ili sadrže GMO ili kombinaciju GMO-a za potrebe ograničene uporabe GMO-a u zatvorenim sustavima ili za namjerno uvođenje u okoliš prodavatelj je obvezan korisniku dostaviti dokumentaciju ili oznaku iz koje je vidljivo da taj proizvod sadrži GMO.

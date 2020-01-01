@@ -1,0 +1,7 @@
+# Članak 8.
+(1) Ograničena uporaba, namjerno uvođenje u okoliš, namjerno uvođenje u živi organizam lijeka (medicinskog proizvoda) koji se sastoji od ili sadrži GMO ili kombinaciju GMO-a u svrhu provođenja kliničkih ispitivanja, genskih terapija, prevencija i liječenja te stavljanje na tržište GMO-a i proizvoda koji se sastoje od ili sadrže GMO ili kombinaciju GMO-a (u daljnjem tekstu: uporaba GMO-a) dopuštena je uz uvjete i na način propisan ovim Zakonom i posebnim propisima.
+(2) Odobrenje za ograničenu uporabu GMO-a izdaje rješenjem tijelo državne uprave nadležno za poslove znanosti.
+(3) Odobrenje za namjerno uvođenje GMO-a u okoliš u svrhu različitu od stavljanja na tržište izdaje rješenjem tijelo državne uprave nadležno za poslove zaštite okoliša i prirode.
+(4) Odobrenje za namjerno uvođenje u živi organizam lijeka (medicinskog proizvoda) koji se sastoji od ili sadrži GMO ili kombinaciju GMO-a u svrhu provođenja kliničkih ispitivanja, genskih terapija, prevencija i liječenja izdaje rješenjem tijelo državne uprave nadležno za poslove zdravstva.
+(5) Odobrenje za stavljanje na tržište GMO-a u svrhu uzgoja izdaje rješenjem tijelo državne uprave nadležno za poslove poljoprivrede.
+(6) Detaljan sadržaj i način podnošenja prijave za ishođenje odobrenja te način zaštite tajnosti podataka navedenih u prijavi za dobivanje odobrenja iz stavaka 2., 3., 4. i 5. ovoga članka propisat će se pravilnicima iz članka 20. stavka 3., članka 26. stavka 2., članka 27. stavka 2., članka 34. stavka 5. i članka 49. stavka 5. ovoga Zakona.

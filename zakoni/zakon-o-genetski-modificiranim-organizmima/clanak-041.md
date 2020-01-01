@@ -1,0 +1,3 @@
+# Članak 41.
+(1) Korisnik je obvezan, najkasnije u roku od 60 dana od dana isteka roka za koje je tijelo državne uprave nadležno za poslove zaštite okoliša i prirode izdalo odobrenje za namjerno uvođenje GMO-a u okoliš, ili u roku koji je određen u odobrenju iz članaka 36. i 37. ovoga Zakona, dostaviti tijelu državne uprave nadležnom za poslove zaštite okoliša i prirode izvješće o rezultatima namjernog uvođenja GMO-a u okoliš.
+(2) Ako podnositelj odnosno korisnik namjerava bilo koji materijal dobiven od GMO-a koji je bio predmetom namjernog uvođenja u okoliš staviti na tržište kao proizvod, obvezan je u izvješće iz stavka 1. ovoga članka uključiti i podatke o tome.

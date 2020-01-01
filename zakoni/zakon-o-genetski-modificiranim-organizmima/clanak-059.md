@@ -1,0 +1,5 @@
+# Članak 59.
+(1) Podnositelj prijave odnosno korisnik prilikom stavljanja na tržište obvezan je označiti vidnom oznakom na ambalaži i na popratnoj dokumentaciji da je taj proizvod odobreni GMO ili da se sastoji od ili sadrži GMO ili kombinaciju GMO-a, kao i druge propisane podatke vezane za proizvod ili njegovu uporabu.
+(2) Oznaka mora jasno navoditi: »genetski modificiran organizam« ili sadržavati rečenicu: »ovaj proizvod sadrži genetski modificirane organizme« odnosno: »ovaj proizvod potječe od genetski modificiranih organizama«.
+(3) Korisnik odnosno osoba koja stavlja na tržište GMO ili proizvode koji se sastoje od ili sadrže GMO ili kombinaciju GMO-a obvezna je dokazati nadležnom tijelu prema podjeli nadležnosti iz članka 4. stavka 1. podstavka 4. i stavka 3. ovoga Zakona da je poduzela sve mjere potrebne za izbjegavanje slučajnog ili tehnološki neizbježnog onečišćenja dopuštenim GMO-om.
+(4) GMO koji se stavlja na tržište odnosno koji se namjerno uvodi u okoliš ne smije sadržavati gene koji izražavaju otpornost na antibiotike, koji se koriste u medicini i veterinarskoj medicini.

@@ -1,0 +1,4 @@
+# Članak 32.
+(1) Nije dopušteno uvođenje GMO-a u okoliš u zaštićenim područjima i u područjima ekološke mreže utvrđenih sukladno posebnom propisu kojim se uređuje područje zaštite prirode, područjima koja predstavljaju zaštitne zone utjecaja te područjima namijenjenim ekološkoj proizvodnji poljoprivrednih proizvoda utvrđenih sukladno posebnim propisima iz područja poljoprivrede.
+(2) Zaštitne zone utjecaja iz stavka 1. ovoga članka obuhvaćaju prostore koji sprječavaju širenje GMO-a na područja na kojima nije dopušteno namjerno uvođenje GMO-a u okoliš, koje se utvrđuju uvjetima zaštite prirode koji su sastavni dio odobrenja o namjernom uvođenju GMO-a u okoliš.
+(3) Genetski modificiran reprodukcijski biljni materijal je dopušteno uvoditi u okoliš u svrhu različitu od stavljanja na tržište samo na površinama koje će na prijedlog tijela državne uprave nadležnog za poslove poljoprivrede, šumarstva i ribarstva uredbom utvrditi Vlada Republike Hrvatske.
