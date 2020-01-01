@@ -1,0 +1,2 @@
+# Članak 19.
+Porezni obveznici sa sjedištem, stalnom poslovnom jedinicom, prebivalištem ili uobičajenim boravištem u tuzemstvu čija vrijednost isporuka dobara i usluga u 2019. godini nije bila veća od 7.500.000,00 kuna bez PDV-a, koji žele početi primjenjivati postupak oporezivanja prema naplaćenim naknadama od 1. siječnja 2020., moraju o tome najkasnije do 20. siječnja 2020. dostaviti pisanu izjavu nadležnoj ispostavi Porezne uprave.
