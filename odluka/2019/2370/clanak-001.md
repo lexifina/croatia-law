@@ -1,0 +1,2 @@
+# Članak 1.
+Ovom se Odlukom određuje obveza plaćanja naknade za razvoj na području nadležnosti javnog isporučitelja vodne usluge Komunalnog društva Vodovod i kanalizacija društvo s ograničenom odgovornošću za vodoopskrbu i odvodnju, Rijeka, Dolac 14 (u daljnjem tekstu: Isporučitelj), obveznik plaćanja naknade za razvoj, osnovica, način i rokovi uplate naknade za razvoj, namjene kojima služi prihod od naknade za razvoj, visina, izuzeća od plaćanja te nadzor nad obračunom i naplatom naknade za razvoj.
