@@ -1,0 +1,3 @@
+1. Prigodni optjecajni kovani novac od 25 kuna u povodu predsjedanja Republike Hrvatske Vijećem Europske unije 2020., izdan u skladu s Odlukom o izdavanju novčanica i kovanog novca koji glase na novčanu jedinicu Republike Hrvatske (»Narodne novine«, br. 37/1994., 44/1994. i 68/1994.), s osnovnim obilježjima utvrđenima u Odluci o osnovnim obilježjima prigodnoga optjecajnoga kovanog novca od 25 kuna u povodu predsjedanja Republike Hrvatske Vijećem Europske unije 2020. (»Narodne novine«, br. 125 od 20. prosinca 2019.), pušta se u optjecaj 15. siječnja 2020.
+2. Ova Odluka stupa na snagu prvoga dana od dana objave u »Narodnim novinama«.
+O. br. 2390/2019.
