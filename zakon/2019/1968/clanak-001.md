@@ -1,0 +1,2 @@
+# Članak 1.
+U Zakonu o hrvatskim braniteljima iz Domovinskog rata i članovima njihovih obitelji (»Narodne novine«, br. 121/17.) u cijelom tekstu Zakona riječi: »uredi državne uprave u županijama« u određenom padežu zamjenjuju se riječima: »nadležno upravno tijelo županije odnosno Grada Zagreba u čijem je djelokrugu obavljanje povjerenih poslova državne uprave koji se odnose na ostvarivanje prava hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji« u odgovarajućem padežu.
