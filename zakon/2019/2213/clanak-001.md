@@ -1,0 +1,3 @@
+# Članak 1.
+U Zakonu o cestama (»Narodne novine«, br. 84/11., 22/13., 54/13., 148/13. i 92/14.) u članku 24. stavak 2. mijenja se i glasi:
+»(2) U postupku izdavanja lokacijske dozvole za građenje i rekonstrukciju županijskih i lokalnih cesta i građevine iz članka 4. stavka 1. podstavka 6. ovoga Zakona posebne uvjete izdaje nadležno upravno tijelo županije odnosno Grada Zagreba u čijem je djelokrugu obavljanje povjerenih poslova državne uprave koji se odnose na prostorno uređenje. Posebni uvjeti izdaju se prije izdavanja lokacijske dozvole odnosno drugog akta kojim se provode dokumenti prostornog uređenja sukladno posebnom propisu.«.

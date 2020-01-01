@@ -1,0 +1,3 @@
+# Članak 4.
+U članku 97. stavak 1. mijenja se i glasi:
+»(1) Kada se javna cesta razvrstana u jednu od četiriju skupina iz članka 6. stavka 1. ovoga Zakona razvrstava u drugu skupinu ili prestaje biti javna cesta te kada je za javnu cestu ili njezin dio proveden postupak ukidanja statusa javnog dobra u općoj uporabi iz članka 5. ovoga Zakona, pravna osoba koja upravlja javnom cestom i koja je vodila javnu cestu u svojim poslovnim knjigama dužna je istu prenijeti pravnoj osobi koja je prema odredbama ovoga Zakona postala nadležna za upravljanje tom cestom, odnosno tijelu državne uprave ovlaštenom za upravljanje imovinom Republike Hrvatske.«.
