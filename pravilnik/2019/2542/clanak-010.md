@@ -1,0 +1,2 @@
+# Članak 10.
+Osoba koju je poslodavac odredio za obavljanje poslova zaštite na radu (stručnjak zaštite na radu, ovlaštenik odnosno poslodavac), radi provedbe stalnog stručnog usavršavanja, obavještavanja i razmjene informacija u području zaštite na radu, upisuje se u Informacijski sustav zaštite na radu prema Uputama za pristup elektroničkoj usluzi koje se objavljuju na mrežnim stranicama ministarstva nadležnog za rad.
