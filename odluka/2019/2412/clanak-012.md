@@ -1,0 +1,2 @@
+# Članak 12.
+Postupci u svezi s utvrđivanjem i naplatom poreza na tvrtku ili naziv, poreza na kuće za odmor i poreza na korištenje javnih površina započeti do dana stupanja na snagu ove Odluke, dovršit će se prema odredbama: Odluka o porezima Općine Petrijevci (»Službeni glasnik Općine Petrijevci« broj 4/17) i Odluka o izmjenama Odluke o porezima Općine Petrijevci (»Službeni glasnik Općine Petrijevci« broj 7/17).
