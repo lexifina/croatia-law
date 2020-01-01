@@ -1,0 +1,3 @@
+# Članak 14.
+U članku 63. iza stavka 7. dodaje se stavak 8. koji glasi:
+»(8) Tijelo koje provodi radnju ili vodi postupak dužno je uhićenom maloljetniku bez odgađanja osigurati liječnički pregled kad posebne okolnosti vezane uz zdravstveno stanje maloljetnika opravdavaju takav pregled ili na zahtjev maloljetnika, branitelja ili roditelja, skrbnika i druge odgovarajuće odrasle osobe koju je maloljetnik izabrao i koju je kao takvu prihvatilo tijelo koje vodi postupak ili provodi radnju ili posebnog skrbnika. Rezultati i zaključak liječničkog pregleda daju se u pisanom obliku te se uzimaju u obzir prilikom utvrđivanja sposobnosti maloljetnika da bude ispitan i da sudjeluje u drugim dokaznim radnjama.«.
