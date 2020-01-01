@@ -1,0 +1,1 @@
+Na temelju članka 46. stavka 3. Zakona o morskom ribarstvu (»Narodne novine«, br. 62/17., 130/17. i 14/19.), a u vezi s člankom 4. stavkom 3. podstavkom 7. Zakona o hrani (»Narodne novine«, broj 81/13., 14/14. i 30/15. i 115/18.), ministrica poljoprivrede donosi
