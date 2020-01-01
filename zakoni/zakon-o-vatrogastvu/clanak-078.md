@@ -1,0 +1,2 @@
+# Članak 78.
+Na temelju rješenja glavnog vatrogasnog zapovjednika, o prestanku vatrogasne službe zbog potreba službe profesionalni vatrogasac može ostvariti pravo na starosnu mirovinu, bez obzira na godine života, kada navrši mirovinski staž od najmanje 30 godina, od toga najmanje 20 godina mirovinskog staža na dužnostima odnosno na poslovima na kojima se staž osiguranja računa s povećanim trajanjem prema odredbama ovoga Zakona.

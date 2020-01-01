@@ -1,0 +1,3 @@
+# Članak 125.
+(1) Danom stupanja na snagu ovoga Zakona Hrvatska vatrogasna zajednica, osnovana Zakonom o vatrogastvu (»Narodne novine«, br. 58/93. i 87/96.), koja je nastavila s radom sukladno Zakonu o vatrogastvu (»Narodne novine«, br. 106/99., 117/01., 36/02., 96/03., 174/04., 38/09. i 80/10.), prestaje s radom te se po službenoj dužnosti briše iz Registra udruga Republike Hrvatske.
+(2) Osoba koja je obavljala dužnost predsjednika Hrvatske vatrogasne zajednice nastavlja obavljati poslove potrebne za redovito i nesmetano djelovanje vatrogasnog sustava do imenovanja glavnog vatrogasnog zapovjednika sukladno odredbama ovoga Zakona.

@@ -1,0 +1,7 @@
+## Povreda službene dužnosti odnosno radnog odnosa
+# Članak 71.
+(1) Profesionalni vatrogasac odgovara za povredu službene dužnosti odnosno povredu obveza iz radnog odnosa kada šteti ugledu vatrogastva, ako povjerene poslove i zadatke ne obavlja savjesno, stručno i u predviđenim rokovima, ako se ne pridržava Ustava, zakona, drugih propisa i pravila vatrogasne službe o ponašanju za vrijeme službe ili izvan službe.
+(2) Profesionalni vatrogasac odgovara za povredu službene dužnosti odnosno povredu obveza iz radnog odnosa ako je povredu učinio namjerno ili iz krajnje nepažnje.
+(3) Kaznena odnosno prekršajna odgovornost ne isključuje odgovornost za povredu službene dužnosti odnosno povredu obveza iz radnog odnosa ako djelo koje je predmet kaznenog ili prekršajnog postupka ujedno predstavlja i povredu službene dužnosti odnosno povredu obveza iz radnog odnosa.
+(4) Oslobođenje od kaznene odnosno prekršajne odgovornosti ne pretpostavlja oslobađanje od odgovornosti i za povredu službene dužnosti odnosno povredu obveze iz radnog odnosa ako je počinjeno djelo propisano kao povreda službene dužnosti odnosno povreda obveze iz radnog odnosa.
+(5) Kriteriji i uvjeti pod kojima je vatrogasac počinio povredu službene dužnosti odnosno povredu obveza iz radnog odnosa uređuju se opći aktom vatrogasne organizacije koji mora biti u sladu s ovim Zakonom, propisima donesenim na temelju njega i pravilima vatrogasne službe.

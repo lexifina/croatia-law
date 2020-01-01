@@ -1,0 +1,8 @@
+# Članak 93.
+(1) Na osnovi procjene opasnosti od nastanka požara ili nekog drugog događaja zapovjednik vatrogasne zajednice jedinice lokalne samouprave ili područne vatrogasne zajednice na temelju pisane zapovijedi može proglasiti pripravnost vatrogasaca na području jedinice lokalne samouprave odnosno vatrogasne zajednice područja.
+(2) Županijski vatrogasni zapovjednik na osnovi procjene opasnosti od nastanka požara ili nekog drugog događaja, na temelju pisane zapovijedi, može proglasiti pripravnost na području cijele županije ili samo na području jedne ili više jedinica lokalne samouprave.
+(3) Glavni vatrogasni zapovjednik na osnovi procjene opasnosti od nastanka požara ili nekog drugog događaja na temelju zapovijedi može proglasiti pripravnost vatrogasnih snaga na području jedne ili više županija.
+(4) Profesionalni vatrogasac izvan radnog vremena u vatrogasnoj postrojbi i dobrovoljni vatrogasac dužni su odazvati se zapovijedi nadređenog vatrogasnog zapovjednika za pripravnost i/ili se u najkraćem mogućem vremenu staviti na raspolaganje matičnoj vatrogasnoj postrojbi za obavljanje vatrogasne intervencije.
+(5) U slučaju spriječenosti iz stavka 4. ovoga članka, profesionalni i dobrovoljni vatrogasca dužan je opravdati svoj izostanak u roku od 24 sata od primitka poziva za pripravnost ili na vatrogasnu intervenciju.
+(6) Profesionalni vatrogasac izvan radnog vremena u matičnoj vatrogasnoj postrojbi ima pravo na naknadu za vrijeme pripravnosti za vatrogasnu intervenciju, sukladno odredbama ovoga Zakona i propisa donesenih za njegovu provedbu.
+7. Troškovi vatrogasne intervencije

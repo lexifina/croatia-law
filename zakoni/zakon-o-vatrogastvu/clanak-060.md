@@ -1,0 +1,4 @@
+## Prava u slučaju ozljede
+# Članak 60.
+(1) Profesionalnom i dobrovoljnom vatrogascu kod kojeg se, zbog ozljede koja je nastupila u obavljanju vatrogasne djelatnosti ili prilikom obavljanja vatrogasne djelatnosti, u postupku ocjene radne sposobnosti odnosno u postupku po zahtjevu za priznavanje prava na naknadu zbog tjelesnog oštećenja, utvrdi tjelesno oštećenje od najmanje 80 % i koji ostvari pravo na invalidsku mirovinu, ima pravo na jednokratnu novčanu pomoć u visini posljednje isplaćene netoplaće uvećane 24 puta.
+(2) Djeci vatrogasca iz stavka 1. ovoga članka Hrvatska vatrogasna zajednica odnosno jedinica lokalne i područne (regionalne) samouprave osigurat će potporu za redovito školovanje, ovisno tko je naredio izlazak na intervenciju, u najvišem neoporezivom iznosu potpore utvrđene propisima o porezu na dohodak.

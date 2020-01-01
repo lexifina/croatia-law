@@ -1,0 +1,7 @@
+# Članak 86.
+(1) Vatrogasna vozila, uređaji, oprema, sredstva za gašenje, alat te zaštitna i druga osobna oprema i sredstva koje vatrogasci koriste na vatrogasnim intervencijama (u daljnjem tekstu: vatrogasna tehnika) moraju se održavati u ispravnom i funkcionalnom stanju sukladno propisima, tehničkim normativima, normama i uputama proizvođača, o čemu vlasnik ili korisnik mora imati dokumentaciju.
+(2) Vlasnik ili korisnik vatrogasne tehnike koju koriste vatrogasne postrojbe odgovoran je za redovito ispitivanje ispravnosti vatrogasne tehnike te je dužan na propisan način provjeriti ispravnost vatrogasne tehnike prije stavljanja u uporabu, a nakon toga u propisanim intervalima.
+(3) Korisnik vatrogasne tehnike u smislu ovoga članka je vatrogasna organizacija utvrđena ovim Zakonom koja je dobila na korištenje vatrogasnu tehniku od državnih tijela, jedinica lokalne i područne (regionalne) samouprave ili drugih pravnih osoba.
+(4) Glavni vatrogasni zapovjednik pravilnikom propisuje popis vatrogasne tehnike (vozila, tipizacija vozila, uređaji, alati i sredstva) koja podliježe ispitivanju, rokove i postupak ispitivanja, sadržaj, oblik i način izdavanja isprava o ispravnosti vatrogasne tehnike te uvjetima pod kojima ispitivanje može obavljati ovlaštena vatrogasna organizacija ili druga pravna osoba.
+IX. VATROGASNE INTERVENCIJE
+1. Vatrogasna intervencija lokalne odnosno područne (regionalne) razine
