@@ -1,0 +1,1 @@
+Na temelju članka 42. stavka 1. Zakona o lokalnim porezima (»Narodne novine«, broj 115/16, 101/17) i članka 32. Statuta Grada Dubrovnika (»Službeni glasnik Grada Dubrovnika«, broj 4/09, 6/10, 3/11, 14/12, 5/13, 6/13 - pročišćeni tekst, 9/15 i 5/18 Gradsko vijeće Grada Dubrovnika na 26. sjednici, održanoj 10. prosinca 2019., donijelo je
