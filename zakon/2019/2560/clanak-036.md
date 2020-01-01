@@ -1,0 +1,5 @@
+# Članak 36.
+(1) U cijelom tekstu Zakona riječi: »mjesno nadležni ured državne uprave u županiji, odnosno nadležni ured Grada Zagreba« odnosno riječi: »nadležni ured državne uprave u županiji odnosno nadležni ured Grada Zagreba« u određenom padežu zamjenjuju se riječima: »nadležno upravno tijelo« u odgovarajućem padežu, riječi: »nadležnoga županijskog ureda, odnosno ureda Grada Zagreba« zamjenjuju se riječima: »nadležnog upravnog tijela«, a riječi: »nadležnih ureda državne uprave u županijama, odnosno nadležnog ureda Grada Zagreba« zamjenjuju se riječima: »nadležnih upravnih tijela«.
+(2) U cijelom tekstu Zakona riječi: »praktična nastava i vježbe naukovanja« u određenom padežu zamjenjuju se riječju: »naukovanje« u odgovarajućem padežu.
+(3) U cijelom tekstu Zakona riječi: »srednja škola« u određenom padežu zamjenjuju se riječima: »ustanova za strukovno obrazovanje« u odgovarajućem padežu.
+(4) U cijelom tekstu Zakona riječi: »pomoćnički ispit« u određenom padežu zamjenjuju se riječima: »naučnički ispit« u odgovarajućem padežu.

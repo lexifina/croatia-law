@@ -1,0 +1,9 @@
+# Članak 19.
+Članak 58. mijenja se i glasi:
+»(1) Obrtnik, kao i pravna osoba iz članka 2. stavka 2. ovoga Zakona ne mogu primiti učenike na naukovanje:
+- ako su pravomoćno osuđeni za kazneno djelo vezano za obavljanje djelatnosti (glava XXIV. Kaznena djela protiv gospodarstva, članci 247., 252., 253,. 254., 256., 258. i 265. iz Kaznenog zakona (»Narodne novine«, br. 125/11., 79/12., 144/12., 56/15., 61/15., 101/17. i 118/18.)
+- ako ne posjeduju odgovarajuće prostorne i materijalne uvjete te ne ispunjavaju zahtjeve sigurnosti i zaštite zdravlja
+- ako im je oduzeto pravo na primanje učenika na naukovanje.
+(2) Mentor iz članka 56.a ovoga Zakona putem kojeg obrtnik i pravna osoba iz članka 2. stavka 2. ovoga Zakona izvode naukovanje ne može biti osoba:
+- koja je pravomoćno osuđena za neko od kaznenih djela protiv života i tijela, protiv spolne slobode i spolnog zlostavljanja i iskorištavanja djeteta te protiv braka, obitelji i djece (glava X. Kaznena djela protiv života i tijela, članci 111., 112., 116., 118., 119. i 120.; glava XIII. Kaznena djela protiv osobne slobode, članci 138. i 140.; glava XVI. Kaznena djela protiv spolne slobode, članci 152., 153., 154., 155., 156. i 157.; glava XVII. Kaznena djela protiv spolnog zlostavljanja i iskorištavanja djeteta, članci 158., 159., 160., 161., 162., 163. i 166.; glava XVIII. Kaznena djela protiv braka, obitelji i djece, članak 179. iz Kaznenog zakona (»Narodne novine«, br. 125/11., 79/12., 144/12., 56/15., 61/15., 101/17. i 118/18., kao i glava X. Kaznena djela protiv života i tijela, članci 91., 99. i 103.; glava XIV. Kaznena djela protiv spolne slobode i spolnog ćudoređa, članci 188., 190., 191., 192., 193., 194., 195. i 196. Kaznenog zakona (»Narodne novine«, br. 110/97., 27/98., 50/00., 129/00., 51/01., 11/03., 190/03., 105/04., 84/05., 71/06., 110/07. i 152/08.)
+- kojoj je oduzeto pravo na primanje učenika na naukovanje.«.
