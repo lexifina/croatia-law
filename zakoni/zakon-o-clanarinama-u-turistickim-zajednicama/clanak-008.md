@@ -1,0 +1,8 @@
+## DIO TREĆI PLAĆANJE ČLANARINE
+## Visina članarine
+# Članak 8.
+(1) Visina članarine koju plaća pravna i fizička osoba ovisi o skupini u koju je razvrstana djelatnost kojom se pravna ili fizička osoba bavi te o pripadajućoj stopi za obračun i plaćanje članarine iz članka 6. ovoga Zakona.
+(2) Pravna i fizička osoba iz stavka 1. ovoga članka može članarinu platiti i primjenom stope propisane za djelatnost koju pravna ili fizička osoba obavlja pretežito u odnosu na ostale djelatnosti za koje je upisana u registar trgovačkog suda, obrtni registar ili drugi odgovarajući registar, na ukupno ostvareni prihod ili primitak, ako je za nju to povoljnije.
+(3) Iznimno od stavka 1. ovoga članka, visina članarine koju plaća osoba koja pruža ugostiteljske usluge u domaćinstvu ili na obiteljskom poljoprivrednom gospodarstvu ovisi o broju kreveta u sobi, apartmanu ili kući za odmor i broju smještajnih jedinica u kampu i kamp-odmorištu odnosno prema kapacitetu u objektu za robinzonski smještaj, a sukladno propisu kojim se uređuje obavljanje ugostiteljske djelatnosti.
+(4) Pravne i fizičke osobe iz članka 4. stavka 1. ovoga Zakona koje obavljaju djelatnost na područjima općina i gradova koja se smatraju potpomognutim područjima (I. – IV. razvojna skupina jedinice lokalne samouprave) sukladno odluci kojom se uređuje razvrstavanje jedinica lokalne samouprave prema stupnju razvijenosti, plaćaju članarinu umanjenu za 20 %.
+(5) Dragovoljni članovi turističke zajednice koji se određuju sukladno zakonu kojim se uređuje sustav turističkih zajednica članarinu plaćaju lokalnoj turističkoj zajednici u visini i na način propisan tim zakonom.

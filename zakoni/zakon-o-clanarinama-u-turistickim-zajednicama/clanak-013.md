@@ -1,0 +1,6 @@
+## Dostava podataka o osnovici za obračun članarine
+# Članak 13.
+(1) Osobe iz članka 10. ovoga Zakona dostavljaju nadležnoj ispostavi Porezne uprave prema sjedištu pravne osobe odnosno prebivalištu fizičke osobe zbirni podatak o osnovici za obračun članarine sukladno odredbama članka 7. ovoga Zakona, objedinjeno za sjedište pravne osobe odnosno prebivalište fizičke osobe i za poslovne jedinice.
+(2) Podatak iz stavka 1. ovoga članka dostavlja se nadležnoj ispostavi Porezne uprave na posebnom obrascu za prijavu podataka za obračun članarine u turističkoj zajednici (Obrazac TZ-a) ili putem sustava ePorezna, s time da se u prilogu zbirnog obrasca na razini obveznika dostavlja razrada po poslovnim jedinicama odnosno djelatnostima.
+(3) Oblik i sadržaj obrasca iz stavka 2. ovoga članka te način dostave podatka iz stavka 1. ovoga članka putem sustava ePorezna ministar uz prethodnu suglasnost ministra nadležnog za financije propisuje pravilnikom.
+(4) Osoba iz članka 11. stavka 1. ovoga Zakona podnosi nadležnoj ispostavi Porezne uprave, do 15. siječnja tekuće godine za prethodnu godinu u kojoj je u obvezi obračunati i uplatiti članarinu turističkoj zajednici, posebni Obrazac TZ-a čiji oblik i sadržaj ministar uz prethodnu suglasnost ministra nadležnog za financije propisuje pravilnikom.

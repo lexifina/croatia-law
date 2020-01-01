@@ -1,0 +1,4 @@
+# Članak 17.
+(1) Novčanom kaznom u iznosu od 2000,00 do 7000,00 kuna kaznit će se za prekršaj pravna osoba koja nadležnoj ispostavi Porezne uprave ne dostavi podatak iz članka 13. stavka 1. ovoga Zakona na posebnom obrascu za prijavu podataka za obračun članarine u turističkoj zajednici (Obrazac TZ-a) ili putem sustava ePorezna (članak 13. stavak 2.).
+(2) Novčanom kaznom u iznosu od 500,00 do 2000,00 kuna za prekršaj iz stavka 1. ovoga članka kaznit će se i odgovorna osoba u pravnoj osobi.
+(3) Novčanom kaznom u iznosu od 1000,00 do 5000,00 kuna kaznit će se za prekršaj fizička osoba obrtnik koja nadležnoj ispostavi Porezne uprave ne dostavi podatak iz članka 13. stavka 1. ovoga Zakona na posebnom obrascu za prijavu podataka za obračun članarine u turističkoj zajednici (Obrazac TZ-a) ili putem sustava ePorezna (članak 13. stavak 2.).
