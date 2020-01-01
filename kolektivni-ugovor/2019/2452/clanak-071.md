@@ -1,0 +1,10 @@
+## Dodatak na plaću za rad u posebnim okolnostima
+# Članak 71.
+Osnovna plaća radnika povećava se za rad u sljedećim posebnim okolnostima:
+• za noćni rad - za 50%
+• za prekovremeni rad - za 50%
+• za rad subotom i nedjeljom - za 35%
+• za rad u drugoj smjeni u slučaju stalnog smjenskog rada - za 20%.
+Pravo na povećanje plaće iz prethodnog stavka radnik ostvaruje samo za sate rada odrađene u posebnim okolnostima.
+Kada radnik radi na dane blagdana utvrđene zakonom ima pravo na naknadu plaće i plaću uvećanu za 50%.
+Ukoliko se rad radnika obavlja uz istodobno prisustvo više posebnih okolnosti, dodaci se kumuliraju najviše do 300%, osim što rad na dane blagdana utvrđene zakonom isključuje rad subotom i nedjeljom.
