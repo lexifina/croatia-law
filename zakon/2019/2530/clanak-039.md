@@ -1,0 +1,3 @@
+# Članak 39.
+U članku 371. stavak 2. mijenja se i glasi:
+»(2) Pripremno ročište se ne provodi u postupku za kazneno djelo za koje je propisana kazna zatvora do petnaest godina. Ako u postupku za kazneno djelo za koje je propisana kazna zatvora više od petnaest godina predsjednik vijeća, s obzirom na navode u optužnici i prirodu predloženih dokaza, smatra da nije potrebno održavanje pripremnog ročišta, donosi nalog kojim određuje raspravu. Ako predsjednik vijeća zaprimi izjavu za donošenje presude na temelju sporazuma stranaka iz članka 360. stavka 3. ovoga Zakona, postupit će na način propisan člancima 361. do 363. ovoga Zakona.«.

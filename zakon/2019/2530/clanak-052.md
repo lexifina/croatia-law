@@ -1,0 +1,2 @@
+# Članak 52.
+Kazneni postupak za kaznena djela iz članka 19.a stavka 1. točke 1. Zakona o kaznenom postupku (»Narodne novine«, br. 152/08., 76/09., 80/11., 121/11., 91/12., 143/12., 56/13., 145/13., 152/14. i 70/17.) u odnosu na koja je ovim Zakonom izmijenjena nadležnost suda dovršit će sud koji je bio nadležan po Zakonu o kaznenom postupku (»Narodne novine«, br. 152/08., 76/09., 80/11., 121/11., 91/12., 143/12., 56/13., 145/13., 152/14. i 70/17.).

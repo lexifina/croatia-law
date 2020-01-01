@@ -1,0 +1,15 @@
+# Članak 15.
+Iza članka 72. dodaju se članci 72.a i 72.b koji glase:
+»Članak 72.a
+(1) Pravo na privremenu pravnu pomoć branitelja na teret proračunskih sredstava ima uhićenik iz članka 107. točaka 2. i 3. ovoga Zakona od trenutka uhićenja pa sve dok uhićenje traje ako izjavi da prema svom imovinskom stanju ne može podmiriti troškove obrane bez ugrožavanja vlastitog uzdržavanja i uzdržavanja svoje obitelji ili osoba koje je po zakonu dužan uzdržavati.
+(2) Pravo na privremenu pravnu pomoć branitelja na teret proračunskih sredstava za pojedine radnje, u postupku koji se vodi za kaznena djela za koja je propisana kazna zatvora teža od pet godina, kada obrana nije obvezna, ako izjavi da prema svom imovinskom stanju ne može podmiriti troškove obrane bez ugrožavanja vlastitog uzdržavanja i uzdržavanja svoje obitelji ili osoba koje je po zakonu dužan uzdržavati, prilikom poduzimanja radnje u kojoj sudjeluju, imaju i:
+1) osumnjičenik iz članka 208.a ovoga Zakona, koji to pravo stječe prije ispitivanja od strane policije
+2) osumnjičenik koji je status stekao u skladu s člankom 208. stavkom 5. ovoga Zakona, koji to pravo stječe prije ispitivanja od strane policije
+3) osumnjičenik koji sudjeluje u dokaznim radnjama prepoznavanja, suočenja, rekonstrukcije događaja, koji to pravo stječe prije poduzimanja navedenih radnji
+4) osumnjičenik kojeg je potrebno ispitati prije podizanja optužnice u skladu s člankom 341. stavkom 3. ovoga Zakona, koji to pravo stječe prije ispitivanja od strane državnog odvjetnika ili istražitelja
+5) osumnjičenik protiv kojeg je predloženo određivanje istražnog zatvora, koji to pravo stječe prije održavanja ročišta za određivanje istražnog zatvora.
+(3) Uhićenik mora biti upoznat s pravom na privremenu pravnu pomoć branitelja na teret proračunskih sredstava prilikom uhićenja, odnosno što je prije moguće nakon uhićenja, a osumnjičenik iz stavka 2. ovoga članka prilikom poduzimanja radnje iz stavka 2. ovoga članka. Prilikom obavještavanja o tom pravu uhićenik ili osumnjičenik bit će upozoren da će ga se naknadno, u potpunosti ili djelomično, obvezati na snošenje troškova privremene pravne pomoći ako se u kasnijem tijeku postupka ustanovi da, s obzirom na njegovo imovinsko stanje, može podmiriti troškove obrane.
+(4) Ako uhićenik ili osumnjičenik iz stavka 2. ovoga članka pred tijelom koje je poduzelo mjeru uhićenja ili onim koje će poduzeti radnju iz stavka 2. ovoga članka izjavi da s obzirom na svoje imovinsko stanje ne može podmiriti troškove obrane te da želi ostvariti pravo na privremenu pravnu pomoć branitelja na teret proračunskih sredstava, to će tijelo odmah obavijestiti suca istrage radi donošenja odluke o postavljanju branitelja.
+(5) Branitelja postavlja rješenjem sudac istrage. Protiv tog rješenja žalba nije dopuštena.
+Članak 72.b
+Ako tijekom postupka branitelj postavljen sukladno članku 66. i članku 72. ovoga Zakona bude razriješen zbog prestanka postojanja razloga obvezne obrane ili zbog okrivljenikova odricanja od prava na branitelja na teret proračunskih sredstava, sud će u slučaju potrebe ponovnog postavljanja branitelja, u pravilu, postaviti istog branitelja.«.

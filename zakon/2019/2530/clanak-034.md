@@ -1,0 +1,4 @@
+# Članak 34.
+U članku 327. stavku 2. točki 4. iza riječi: »druge osobe« stavlja se točka, a riječi: »pod uvjetom da se ne radi o biološkom uzorku te osobe, osim ako drukčije nije propisano ovim Zakonom.« brišu se.
+Stavak 6. mijenja se i glasi:
+»(6) Uzimanje uzoraka biološkog materijala od osoba iz stavka 2. točke 3. i 4. ovoga članka uz njihovu pisanu suglasnost može odrediti tijelo koje provodi izvide ili postupak, dok molekularno-genetsku analizu tih uzoraka uzetih od tih osoba nalaže državni odvjetnik. Te osobe će se prije potpisivanja suglasnosti poučiti o svrsi uzimanja uzorka te njegovu korištenju u svrhu molekularno-genetske analize. Ako suglasnost nisu u mogućnosti dati ili je odbiju dati, uzimanje biološkog materijala od tih osoba te molekularno-genetsku analizu tih uzoraka na prijedlog državnog odvjetnika može naložiti sud.«.
