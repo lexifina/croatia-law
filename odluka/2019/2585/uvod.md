@@ -1,0 +1,1 @@
+Na temelju članka 42. stavka 1. točke 1. Zakona o lokalnim porezima (»Narodne novine« broj 115/16, 101/17) i članka 34. Statuta Općine Okučani (»Službeni vjesnik Brodsko-posavske županije« br. 10/09, 4/13, 3/18 i 7/18) Općinsko vijeće Općine Okučani na 20. sjednici održanoj 12. prosinca 2019. godine, donijelo je
