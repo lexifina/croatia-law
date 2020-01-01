@@ -1,0 +1,9 @@
+# Članak 4.
+U članku 11. stavak 8. mijenja se i glasi:
+»(8) Ako se porezni obveznik zbog osobnih razloga odrekne tražbine po osnovi prodane robe ili obavljenih usluga koja bi u poreznomu razdoblju u kojemu se odrekao tražbine ili kasnijim poreznim razdobljima dovela do primitaka, tada se iznos tražbine utvrđuje kao primitak u godini u kojoj je donesena odluka o odricanju od tražbine.«.
+Iza stavka 8. dodaje se novi stavak 9. i stavci 10.,11. i 12. koji glase:
+»(9) Primitak se ne utvrđuje po osnovi tražbina od nepovezane osobe koje su se pokazale nenaplativima nakon provedenoga sudskog postupka ili drugog postupka sukladno posebnim propisima.
+(10) Primitak se ne utvrđuje po osnovi otpisanih tražbina koje su potvrđene u skladu s posebnim propisom o stečaju potrošača i propisom o postupku izvanredne uprave u trgovačkim društvima od sistemskog značaja.
+(11) Primitak se ne utvrđuje po osnovi otpisanih tražbina od nepovezane osobe ako porezni obveznik dokaže da troškovi pokretanja određenih postupaka (tražbine koje su utužene ili se zbog njih vodi ovršni postupak, ako su prijavljene u stečajnom postupku nad dužnikom ili drugom postupku u skladu s posebnim propisima) premašuju iznos tražbine, ili ako dokaže da je pokrenuo određene radnje radi naplate tražbine pri čemu je utvrdio konačnu nemogućnost naplate otpisanog iznosa tražbine.
+(12) Primicima se ne smatraju otpisi tražbina od nepovezanih osoba, koje su zastarjele i koje u svakom pojedinom poreznom razdoblju ne prelaze 5000,00 kuna po pojedinom dužniku koji je obveznik poreza na dobit ili obveznik poreza na dohodak po osnovi samostalne djelatnosti. Primicima se ne smatraju otpisi tražbina do 200,00 kuna od nepovezanih fizičkih osoba čiji dug nije nastao po osnovi obavljanja samostalne djelatnosti, ako ukupno utvrđena tražbina po pojedinoj osobi na zadnji dan poreznog razdoblja ne prelazi taj iznos.«.
+Dosadašnji stavak 9. postaje stavak 13.

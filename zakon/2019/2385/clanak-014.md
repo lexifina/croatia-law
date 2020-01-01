@@ -1,0 +1,3 @@
+# Članak 14.
+U članku 53. stavak 4. mijenja se i glasi:
+»(4) Na porezne obveznike koji su ostvarili dohodak u inozemstvu ili iz inozemstva, u posebnom postupku iz članka 51. ovoga Zakona, uzet će se u obzir podaci iz izvješća propisanog člankom 81. stavkom 4. ovoga Zakona. Ako porezni obveznici ne dostave izvješće iz članka 81. stavka 4. ovoga Zakona do roka propisanog za dostavu, a žele da im se uplaćeni porez u inozemstvu uračuna u tuzemnu obvezu poreza na dohodak, dužni su o tome izvijestiti Poreznu upravu na podnesenom obrascu za priznavanjem prava u posebnom postupku u roku iz stavka 1. ovoga članka.«.

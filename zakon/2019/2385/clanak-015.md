@@ -1,0 +1,9 @@
+# Članak 15.
+U članku 82. stavak 5. mijenja se i glasi:
+»(5) Poreznim obveznicima iz stavaka 2. i 3. ovoga članka godišnji porez u paušalnom iznosu po stopi od 12% utvrđuje Porezna uprava rješenjem.«.
+Iza stavka 5. dodaju se novi stavci 6. i 7. koji glase:
+»(6) Porezni obveznici iz stavka 1. ovoga članka godišnji porez u paušalnom iznosu po stopi od 12% utvrđuju na temelju izvješća iz stavka 10. ovoga članka. Razlika godišnjeg paušalnog poreza za uplatu ili za povrat utvrđuje se na temelju izvješća iz stavka 10. ovoga članka, koje porezni obveznik podnosi Poreznoj upravi najkasnije u roku od 15 dana od dana isteka godine za koju se izvješće podnosi. Porezni obveznik obvezan je razliku godišnjeg paušalnog poreza uplatiti s danom podnošenja izvješća.
+(7) Poreznim obveznicima iz stavka 6. ovoga članka koji ne podnesu izvješće iz stavka 10. ovoga članka ili su podaci u navedenom izvješću netočni ili nepotpuni, porez na dohodak utvrđuje se procjenom.«.
+Dosadašnji stavak 6., koji postaje stavak 8., mijenja se i glasi:
+»(8) Porezna uprava može na temelju obavljenog nadzora i prikupljenih podataka o ostvarenom prometu donijeti rješenje o obvezi plaćanja predujma poreza na dohodak, u skladu s člankom 37. stavkom 1. ovoga Zakona, ako utvrdi da je porezni obveznik ostvario primitke po toj osnovi iznad iznosa propisanog za obvezni ulazak u sustav poreza na dodanu vrijednost.«.
+Dosadašnji stavci od 7. do 9. postaju stavci od 9. do 11.
