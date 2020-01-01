@@ -1,0 +1,2 @@
+# Članak 1.
+U Zakonu o zaštiti vojnih i civilnih invalida rata (»Narodne novine«, br. 33/92., 57/92., 77/92., 27/93., 58/93., 2/94., 76/94., 108/95., 108/96., 82/01., 103/03. i 148/13.) u članku 48.a stavku 7. riječi: »Nadležni ured državne uprave u jedinici područne (regionalne) samouprave odnosno nadležno upravno tijelo Grada Zagreba« zamjenjuju se riječima: »Nadležno upravno tijelo u županiji odnosno Gradu Zagrebu«.
