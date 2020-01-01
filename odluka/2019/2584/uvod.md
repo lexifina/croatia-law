@@ -1,0 +1,1 @@
+Na temelju članka 20. stavka 1. Zakona o lokalnim porezima (»Narodne novine« broj 115/16 i 101/17) i članka 33. Statuta Općine Kanfanar (»Službeni glasnik Općine Kanfanar« 02/09 i 03/13), Općinsko vijeće Općine Kanfanar na sjednici održanoj 16. prosinca 2019. godine, donijelo je
