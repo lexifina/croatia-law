@@ -1,0 +1,3 @@
+# Članak 1.
+U Zakonu o ugostiteljskoj djelatnosti (»Narodne novine«, br. 85/15., 121/16., 99/18. i 25/19.) u članku 10. stavku 1. točki 1. riječi: »ureda državne uprave u županiji, odnosno upravnog tijela Grada Zagreba nadležnog za poslove ugostiteljstva prema mjestu sjedišta objekta (u daljnjem tekstu: nadležni ured)« zamjenjuju se riječima: »nadležnog upravnog tijela županije, odnosno Grada Zagreba prema mjestu sjedišta objekta, u čijem je djelokrugu obavljanje povjerenih poslova državne uprave koji se odnose na ugostiteljstvo (u daljnjem tekstu: nadležno upravno tijelo)«.
+U točkama 12. i 14. riječi: »nadležni ured« u određenom padežu zamjenjuju se riječima: »nadležno upravno tijelo« u odgovarajućem padežu.

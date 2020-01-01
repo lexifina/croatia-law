@@ -1,0 +1,2 @@
+# Članak 2.
+U članku 6. stavku 1. točki 5., članku 20. stavku 6., članku 21. stavcima 6. i 7., članku 22. stavku 7., članku 25. stavku 4., članku 26. stavku 6., članku 27. stavku 4., članku 34. stavku 8., članku 34.a stavku 5., članku 35. stavku 6., članku 38. stavku 2., članku 39. stavku 3., članku 40.a stavku 4., članku 46. stavku 3. i članku 50. stavku 1. točki 2. riječ: »središnje« u određenom padežu briše se.
