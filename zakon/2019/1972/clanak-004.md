@@ -1,0 +1,2 @@
+# Članak 4.
+U članku 6. stavku 6., članku 16. stavku 3., članku 18. stavku 3., članku 24. stavku 2., članku 40. stavku 4., članku 45., članku 56. stavku 2., članku 57. stavcima 3. i 4., članku 63. stavku 3., članku 66. stavku 5., članku 68. stavku 1., članku 75. stavcima 4. do 10. i stavku 12., članku 77. stavcima 1. i 3., članku 81.a stavcima 3., 4., 6., 7., 8. i 9. i članku 84. riječ: »ministarstvo« u određenom padežu zamjenjuje se riječima: »tijelo državne uprave nadležno za sport« u odgovarajućem padežu.

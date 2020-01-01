@@ -1,0 +1,2 @@
+# Članak 6.
+U članku 17. stavku 4., članku 24. stavcima 4. i 5., članku 26. stavcima 2. i 6., članku 39. stavku 3., članku 41. stavcima 2. i 5., članku 55. stavku 5., članku 60. stavku 5., članku 75. stavcima 11. i 13., članku 77. stavku 2., članku 80. stavcima 3. i 6. i članku 81. stavku 2. riječ: »ministar« u određenom padežu zamjenjuje se riječima: »čelnik tijela državne uprave nadležnog za sport« u odgovarajućem padežu.
