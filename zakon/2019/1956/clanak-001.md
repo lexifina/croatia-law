@@ -1,0 +1,4 @@
+# Članak 1.
+U Zakonu o odgoju i obrazovanju u osnovnoj i srednjoj školi (»Narodne novine«, br. 87/08., 86/09., 92/10., 105/10. - ispravak, 90/11., 16/12., 86/12., 94/13., 152/14., 7/17. i 68/18.) članak 17. mijenja se i glasi:
+»(1) Poslove u vezi s obavljanjem djelatnosti osnovnog i srednjeg odgoja i obrazovanja u skladu s odredbama ovoga Zakona obavlja upravno tijelo županije, odnosno Grada Zagreba, u čijem je djelokrugu obavljanje povjerenih poslova državne uprave koji se odnose na te djelatnosti.
+(2) Upis djece u osnovnu školu provodi se prema planu upisa koji donosi upravno tijelo županije nadležno za poslove obrazovanja (u daljnjem tekstu: nadležno upravno tijelo županije), odnosno Gradski ured Grada Zagreba nadležan za poslove obrazovanja (u daljnjem tekstu: Gradski ured), na temelju upisnih područja utvrđenih u skladu s odredbama članka 16. ovoga Zakona.«.
