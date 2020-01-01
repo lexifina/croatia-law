@@ -1,0 +1,1 @@
+Na temelju članka 20. i članka 42. Zakona o lokalnim porezima (»Narodne novine«, broj 115/16 i 101/17, dalje: Zakon) i članka 37. Statuta Grada Grubišnoga Polja (»Službeni glasnik« Grada Grubišnoga Polja, broj 1/13, 4/13 i 1/18) Gradsko vijeće Grada Grubišnoga Polja na 35. sjednici održanoj 4. prosinca 2019. godine donijelo je
