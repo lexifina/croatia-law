@@ -1,0 +1,4 @@
+# Članak 9.
+U članku 139. stavci 3. i 4. mijenjaju se i glase:
+»(3) Ako je kazneno djelo iz stavka 1. i 2. ovoga članka počinjeno prema službenoj ili odgovornoj osobi u obavljanju javne ovlasti ili u vezi s njezinim radom ili položajem, ili prema novinaru u vezi s njegovim poslom, ili prema odvjetniku u obavljanju njegove djelatnosti, ili iz mržnje, prema bliskoj osobi ili prema osobi posebno ranjivoj zbog njezine dobi, teže tjelesne ili duševne smetnje ili trudnoće, ili prema većem broju ljudi, ili ako je prouzročilo veću uznemirenost stanovništva, ili ako je osoba kojoj se prijeti dulje vrijeme stavljena u težak položaj, počinitelj će se kazniti kaznom zatvora od šest mjeseci do pet godina.
+(4) Kazneno djelo iz stavka 1. ovoga članka progoni se po privatnoj tužbi, a kazneno djelo iz stavka 2. ovoga članka progoni se po prijedlogu.«.

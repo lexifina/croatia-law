@@ -1,0 +1,3 @@
+# Članak 19.
+U članku 163. stavak 6. mijenja se i glasi:
+»(6) Dječja pornografija je materijal koji vizualno ili na drugi način prikazuje pravo dijete ili realno prikazano nepostojeće dijete ili osobu koja izgleda kao dijete u pravom ili simuliranom spolno eksplicitnom ponašanju ili koji prikazuje spolne organe pravog djeteta ili realno prikazanog nepostojećeg djeteta ili osobe koja izgleda kao dijete u spolne svrhe. Materijali koji prikazuju spolne organe pravog djeteta ili realno prikazanog nepostojećeg djeteta ili osobe koja izgleda kao dijete, a koji imaju umjetnički, medicinski ili znanstveni značaj ne smatraju se pornografijom u smislu ovoga članka.«.
