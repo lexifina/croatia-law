@@ -1,0 +1,3 @@
+# Članak 30.
+Naziv DIJELA ŠESTOG mijenja se i glasi: »EVIDENCIJE ULAGATELJA U AIF I RASPOLAGAJE UDJELOM«.
+Naziv POGLAVLJA I. mijenja se i glasi: »EVIDENCIJE ULAGATELJA«.
