@@ -1,0 +1,6 @@
+# Članak 5.
+Članak 140.a mijenja se i glasi:
+»(1) Nadzor zakonitosti Odluke o načinu pružanja javne usluge prikupljanja miješanog komunalnog otpada i prikupljanja biorazgradivog komunalnog otpada iz članka 30. stavka 7. ovoga Zakona obavlja nadležno upravno tijelo županije, odnosno Grada Zagreba, u čijem je djelokrugu obavljanje povjerenih poslova državne uprave koji se odnose na gospodarenje otpadom (u daljnjem tekstu: nadležno upravno tijelo), osim u dijelu koji uređuje cijenu obvezne minimalne javne usluge i ugovornu kaznu za što nadzor zakonitosti obavlja Ministarstvo.
+(2) Iznimno od stavka 1. ovoga članka, nadzor zakonitosti Odluke o načinu pružanja javne usluge prikupljanja miješanog komunalnog otpada i prikupljanja biorazgradivog komunalnog otpada iz članka 30. stavka 7. ovoga Zakona Grada Zagreba obavlja Ministarstvo.
+(3) Nadzor zakonitosti Odluke o obvezi plaćanja namjenske naknade iz članka 33. stavka 13. ovoga Zakona i Odluke o provedbi posebnih mjera sprječavanja odbacivanja otpada iz članka 36. stavka 10. ovoga Zakona obavlja nadležno upravno tijelo.
+(4) Iznimno od stavka 3. ovoga članka, nadzor zakonitosti Odluke o obvezi plaćanja namjenske naknade iz članka 33. stavka 13. ovoga Zakona i Odluke o provedbi posebnih mjera sprječavanja odbacivanja otpada iz članka 36. stavka 10. ovoga Zakona Grada Zagreba obavlja Ministarstvo.«.
