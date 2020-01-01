@@ -1,0 +1,2 @@
+# Članak 95.
+Program, uvjete i način polaganja stručnog ispita, obveze nositelja programa izobrazbe, sadržaj potvrde o pohađanju programa izobrazbe, nadzor nad radom nositelja programa izobrazbe, ustroj i način rada ispitnoga ocjenjivačkog tijela koje provodi stručni ispit, način i uvjete za odabir članova ispitnoga ocjenjivačkog tijela, način plaćanja naknade troškova za polaganje stručnog ispita i izdavanje uvjerenja o položenom stručnom ispitu, način vođenja Registra ovlaštenih osoba kojima je izdano uvjerenje o položenom stručnom ispitu propisuje ministar pravilnikom.

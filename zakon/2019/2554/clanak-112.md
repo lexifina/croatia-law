@@ -1,0 +1,5 @@
+# Članak 112.
+(1) Nadzor nad provedbom Uredbe (EZ) br. 1005/2009 provode i tržišni inspektori i ovlašteni carinski službenici Carinske uprave.
+(2) Inspekcijski nadzor koji se odnosi na provedbu Uredbe (EZ) br. 1005/2009 i ovoga Zakona kojima se propisuje označavanje proizvoda koji sadrže kontrolirane tvari ili o njima ovise provodi tržišni inspektor.
+(3) Ako u carinskom postupku puštanja robe u slobodni promet ovlašteni carinski službenici Carinske uprave utvrde da postoji osnovana sumnja da deklarirana roba nije u skladu s odredbama Uredbe (EU) br. 1005/2009, zaustavit će spornu pošiljku i odmah obavijestiti tijelo državne uprave nadležno za inspekcijske poslove u području zaštite okoliša, koje će izvršiti inspekcijski nadzor sporne pošiljke.
+(4) Carinska uprava i tijelo državne uprave nadležno za inspekcijske poslove u području zaštite okoliša najkasnije do 30. travnja tekuće godine za prethodnu kalendarsku godinu podnose izvješće tijelu državne uprave nadležnom za zaštitu okoliša o primjerima nezakonite trgovine do kojih su došli na temelju nadzora.

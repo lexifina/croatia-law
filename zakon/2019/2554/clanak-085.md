@@ -1,0 +1,2 @@
+# Članak 85.
+Tijelo državne uprave nadležno za zaštitu okoliša rješenjem izdaje dozvole za obavljanje djelatnosti prikupljanja, provjere propuštanja, ugradnje i servisiranja rashladnih i klimatizacijskih uređaja i opreme te dizalica topline i nepokretnih protupožarnih sustava i aparata za gašenje požara koji sadržavaju kontrolirane tvari ili fluorirane stakleničke plinove ili o njima ovise i dozvole centrima za obavljanje djelatnosti prikupljanja, obnavljanja i oporabe kontroliranih tvari i fluoriranih stakleničkih plinova.

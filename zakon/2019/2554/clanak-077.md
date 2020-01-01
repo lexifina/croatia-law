@@ -1,0 +1,4 @@
+## X. TVARI KOJE OŠTEĆUJU OZONSKI SLOJ I FLUORIRANI STAKLENIČKI PLINOVI
+# Članak 77.
+(1) Postupno smanjivanje i ukidanje potrošnje tvari koje oštećuju ozonski sloj (kontrolirane i nove tvari) u Republici Hrvatskoj provodi se nadzorom potrošnje tih tvari, zabranom korištenja proizvoda i opreme koji te tvari sadrže ili o njima ovise, smanjivanjem propuštanja iz proizvoda, prikupljanjem i uništavanjem tih tvari te drugim mjerama koje na troškovno učinkovit način pridonose zaštiti ozonskog sloja, u skladu s odredbama Uredbe (EZ) br. 1005/2009, ovoga Zakona i provedbenih propisa donesenih na temelju ovoga Zakona.
+(2) Fluorirani staklenički plinovi koriste se kao zamjena za tvari koje oštećuju ozonski sloj, a zbog njihova potencijala globalnog zatopljenja provode se mjere kako bi se smanjile emisije tih plinova i na taj način ublažile klimatske promjene, u skladu s odredbama Uredbe (EU) br. 517/2014, ovoga Zakona i provedbenih propisa donesenih na temelju ovoga Zakona.

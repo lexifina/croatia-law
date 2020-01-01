@@ -1,0 +1,3 @@
+## I. OPĆE ODREDBE
+# Članak 1.
+Ovim se Zakonom određuju nadležnost i odgovornost za ublažavanje klimatskih promjena, prilagodbu klimatskim promjenama i zaštitu ozonskog sloja, dokumenti o klimatskim promjenama i zaštiti ozonskog sloja, praćenje i izvješćivanje o emisijama stakleničkih plinova, sustav trgovanja emisijama stakleničkih plinova, zrakoplovna djelatnost, sektori izvan sustava trgovanja emisijama stakleničkih plinova, Registar Unije, tvari koje oštećuju ozonski sloj i fluorirani staklenički plinovi, financiranje ublažavanja klimatskih promjena, prilagodbe klimatskim promjenama i zaštite ozonskog sloja, informacijski sustav za klimatske promjene i zaštitu ozonskog sloja, upravni i inspekcijski nadzor.

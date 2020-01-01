@@ -1,0 +1,5 @@
+# Članak 121.
+(1) Ako nadzirana osoba ne izvrši rješenjem naređenu mjeru iz članka 119. i članka 120. stavaka 1. do 3. ovoga Zakona, inspektor zaštite okoliša će izvršenika prisiliti na izvršenje novčanom kaznom, u skladu s posebnim propisom kojim se uređuje opći upravni postupak.
+(2) Ako nadzirana osoba nakon jednom izrečene novčane kazne ne postupi po rješenju iz članka 120. stavka 1. točke 1. i stavka 2. točke 1. ovoga članka, inspektor zaštite okoliša može zapečatiti radne prostorije, prostore i uređaje ili na drugi način onemogućiti daljnje nezakonito obavljanje djelatnosti.
+(3) Novčanu kaznu iz stavka 1. ovoga članka izvršenik uplaćuje u korist državnog proračuna Republike Hrvatske u roku od 30 dana od dana primitka rješenja o izvršenju.
+(4) Ako izvršenik istekom roka od 30 dana ne dostavi inspektoru zaštite okoliša dokaz o uplati novčane kazne iz stavka 1. ovoga članka, naplati će se pristupiti prisilnim putem u skladu s odredbama o izvršenju novčanih obveza propisanim posebnim propisom kojim se uređuje opći upravni postupak.

@@ -1,0 +1,3 @@
+# Članak 109.
+(1) U provedbi inspekcijskog nadzora tržišni inspektor će rješenjem narediti otklanjanje nepravilnosti i odrediti primjereni rok u kojem nepravilnosti treba otkloniti ako utvrdi da proizvodi i oprema koji sadrže fluorirane stakleničke plinove nisu označeni u skladu s člankom 2. Uredbe (EU) br. 2015/2068.
+(2) U provedbi inspekcijskog nadzora tržišni inspektor će rješenjem narediti otklanjanje nepravilnosti i odrediti primjereni rok u kojem nepravilnosti treba otkloniti ako utvrdi da proizvodi i oprema koji sadrže kontrolirane tvari nisu označeni na način propisan uredbom iz članka 78. ovoga Zakona.

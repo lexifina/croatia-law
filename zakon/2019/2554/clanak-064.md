@@ -1,0 +1,8 @@
+# Članak 64.
+(1) Za provedbu Uredbe (EU) br. 2018/841 nadležni su tijelo državne uprave nadležno za zaštitu okoliša i tijela državne uprave nadležna za poljoprivredu i šumarstvo, svaki u svom djelokrugu.
+(2) Za razdoblje od 2021. do 2025. godine i od 2026. do 2030. godine Republika Hrvatska mora osigurati da emisije ne premašuju uklanjanja u obračunskim kategorijama svih zemljišta zajedno u skladu s člankom 4. Uredbe (EU) 2018/841.
+(3) Tijelo državne uprave nadležno za zaštitu okoliša u suradnji s tijelima državne uprave nadležnim za poljoprivredu i šumarstvo izrađuje obračun emisija i uklanjanja iz obračunskih kategorija zemljišta iz stavka 2. ovoga članka u skladu s člancima 5., 6., 7., 8., 9. i 10. Uredbe (EU) 2018/841.
+(4) Tijelo državne uprave nadležno za zaštitu okoliša u suradnji s tijelima državne uprave nadležnim za poljoprivredu i šumarstvo izrađuje i dostavlja Komisiji nacionalni računski plan za šumarstvo, uključujući predloženu referentnu razinu za šume, u skladu s člankom 8. Uredbe (EU) 2018/841.
+(5) Republika Hrvatska za ispunjenje cilja smanjenja emisija stakleničkih plinova može, prema potrebi, koristiti fleksibilne mogućnosti utvrđene člancima 11., 12. i 13. Uredbe (EU) br. 2018/841.
+(6) Tijelo državne uprave nadležno za zaštitu okoliša u suradnji s tijelima državne uprave nadležnim za poljoprivredu i šumarstvo podnosi Komisiji izvješće o usklađenosti u obliku i rokovima utvrđenim člankom 14. Uredbe (EU) br. 2018/841.
+(7) Tijela državne uprave nadležna za poljoprivredu i šumarstvo imenuju stručnjake s kojima se Komisija savjetuje prije donošenja delegiranih akata u skladu s člankom 16. stavkom 4. Uredbe (EU) br. 2018/841.

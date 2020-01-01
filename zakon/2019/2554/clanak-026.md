@@ -1,0 +1,9 @@
+# Članak 26.
+(1) Za potrebe praćenja izrade izvješća iz članka 21. stavka 3. točke 2. i članka 22. stavka 1. točke 8. ovoga Zakona i davanja mišljenja na ta izvješća te sudjelovanja u pregledu tih izvješća osniva se Povjerenstvo za međusektorsku koordinaciju za nacionalni sustav za praćenje emisija stakleničkih plinova.
+(2) Za praćenje i ocjenu provedbe i planiranja politike i mjera za ublažavanje i prilagodbu klimatskim promjenama u Republici Hrvatskoj, davanja mišljenja na izvješća iz članka 21. stavka 3. točaka 1., 4., 5., 6. i 9. i članka 22. stavka 1. točaka 2. do 5. i 8. ovoga Zakona i sudjelovanja u pregledu tih izvješća osniva se Povjerenstvo za međusektorsku koordinaciju za politiku i mjere za ublažavanje i prilagodbu klimatskim promjenama.
+(3) Povjerenstvo iz stavka 2. ovoga Zakona čine Koordinacijska skupina i dvije tehničke radne skupine: tehničke radne skupine za ublažavanje i tehničke radne skupine za prilagodbu klimatskim promjenama.
+(4) Povjerenstva iz stavaka 1. i 2. ovoga članka, na prijedlog tijela državne uprave nadležnog za zaštitu okoliša, osniva Vlada Republike Hrvatske odlukama.
+(5) Predsjednike i članove povjerenstava iz stavaka 1. i 2. ovoga članka Vlada Republike Hrvatske imenuje iz redova znanstvenih, stručnih, javnih i drugih djelatnika te predstavnika središnjih tijela državne uprave nadležnih za pojedine sektore, predstavnika udruga civilnog društva koje djeluju u području klimatskih promjena te poslovnog svijeta.
+(6) Članovima povjerenstava i tehničkih radnih skupina koji nisu predstavnici tijela državne uprave pripada naknada za rad.
+(7) Sredstva za rad članova iz stavka 6. ovoga članka osiguravaju se u državnom proračunu Republike Hrvatske, a iznos naknade utvrđuje se odlukom iz stavka 4. ovoga članka.
+(8) Administrativne i tehničke poslove za povjerenstva iz stavaka 1. i 2. ovoga članka te tehničke radne skupine iz stavka 3. ovoga članka obavlja tijelo državne uprave nadležno za zaštitu okoliša.

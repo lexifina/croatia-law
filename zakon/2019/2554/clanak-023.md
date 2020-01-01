@@ -1,0 +1,11 @@
+# Članak 23.
+(1) Za provedbu Uredbe (EU) br. 525/2013, Uredbe (EU) br. 662/2014, Delegirane uredbe (EU) br. 666/2014 i Provedbene uredbe (EU) br. 749/2014 nadležno je tijelo državne uprave nadležno za zaštitu okoliša.
+(2) U svrhu provedbe propisa navedenih u stavku 1. ovoga članka, tijelo državne uprave nadležno za zaštitu okoliša obavlja sljedeće poslove:
+1. nositelj je izrade izvješća iz članka 21. stavka 3. ovoga Zakona koja objavljuje na mrežnim stranicama
+2. izvješće o korištenju sredstava iz članka 21. stavka 3. točke 8. ovoga Zakona priprema na temelju podataka koje mu Fond za zaštitu okoliša i energetsku učinkovitost dostavlja do 31. svibnja tekuće godine za prethodnu kalendarsku godinu na obrascima u skladu s člankom 17. Uredbe (EU) br. 525/2013 i člankom 24. Provedbene uredbe (EU) br. 749/2014
+3. dostavlja izvješća iz članka 21. stavka 3. točaka 1., 2., 6. i 7. ovoga Zakona Komisiji i Tajništvu Konvencije u skladu s člancima 4., 7., 15. i 16. Uredbe (EU) br. 525/2013, Uredbom (EU) br. 662/2014, Provedbenom uredbom (EU) br. 749/2014 i Delegiranom uredbom (EU) br. 666/2014
+4. dostavlja izvješća iz članka 21. stavka 3. točaka 2. do 5., 8. i 9. ovoga Zakona Europskoj agenciji za okoliš u skladu s člancima 7., 8., 13., 14., 17. i 18. Uredbe (EU) br. 525/2013, Uredbom (EU) br. 662/2014, Provedbenom uredbom (EU) br. 749/2014 i Delegiranom uredbom (EU) br. 666/2014
+5. dostavlja informacije i surađuje s Komisijom vezano za odgovore u okviru procesa revizije u skladu s člankom 9. Uredbe (EU) br. 525/2013, Uredbom (EU) br. 662/2014, Provedbenom uredbom (EU) br. 749/2014 i Delegiranom uredbom (EU) br. 666/2014
+6. dostavlja informacije i surađuje s Komisijom vezano za odgovore u okviru procesa revizije u skladu s člankom 9. Uredbe (EU) br. 525/2013
+7. dostavlja informacije i surađuje s Komisijom u skladu s odredbama Uredbe (EU) br. 525/2013 i pravno obvezujućih propisa Europske unije donesenih na temelju Uredbe (EU) br. 525/2013.
+(3) U svrhu provedbe Uredbe (EU) br. 525/2013 i pravno obvezujućih akata Europske unije donesenih na temelju Uredbe (EU) br. 525/2013 tijelo državne uprave nadležno za zaštitu okoliša surađuje s tijelima i osobama iz članka 26. ovoga Zakona, Fondom za zaštitu okoliša i energetsku učinkovitost i drugim tijelima.

@@ -1,0 +1,6 @@
+# Članak 65.
+(1) Dobavljač goriva i energije, koji se upotrebljavaju za pogon vozila, strojeva i plovila, a koji je obveznik praćenja i izvješćivanja o emisijama stakleničkih plinova, dužan je za goriva i energiju koje je stavio na tržište Republike Hrvatske osigurati praćenje emisija stakleničkih plinova u njihovu životnom vijeku po energetskoj jedinici u skladu s pravilnikom iz članka 68. ovoga Zakona.
+(2) Dobavljač iz stavka 1. ovoga članka dužan je dostaviti tijelu državne uprave nadležnom za zaštitu okoliša za proteklu kalendarsku godinu verificirano godišnje izvješće o emisijama stakleničkih plinova u životnom vijeku goriva i energije stavljene na tržište Republike Hrvatske u roku i na način propisan pravilnikom iz članka 68. ovoga Zakona.
+(3) Izvješće iz stavka 2. ovoga članka mora sadržavati podatke propisane pravilnikom iz članka 68. ovoga Zakona.
+(4) Dobavljač iz stavka 1. ovoga članka dužan je praćenje i izvješćivanje iz stavaka 1. i 2. ovoga članka provoditi na način propisan pravilnikom iz članka 68. ovoga Zakona.
+(5) Tijelo državne uprave nadležno za zaštitu okoliša dostavlja Europskoj komisiji zajedničko godišnje izvješće s podacima iz stavka 2. ovoga članka do 31. prosinca tekuće godine za prethodnu kalendarsku godinu na način propisan pravilnikom iz članka 68. ovoga Zakona.

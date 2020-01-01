@@ -1,0 +1,14 @@
+# Članak 91.
+(1) Osoba koja obavlja djelatnost prikupljanja, provjere propuštanja, ugradnje i održavanja ili servisiranja rashladnih i klimatizacijskih uređaja i protupožarnih uređaja i aparata za gašenje požara dužna je završiti program osposobljavanja i položiti stručni ispit za obavljanje navedenih djelatnosti te upotpunjavati i usavršavati svoje znanje.
+(2) Iznimno od stavka 1. ovoga članka, djelatnost prikupljanja, provjere propuštanja, ugradnje i održavanja ili servisiranja opreme i uređaja koji sadrže kontrolirane tvari ili fluorirane stakleničke plinove može obavljati i osoba:
+1. koja je završila srednje strukovno obrazovanje i stekla odgovarajuću kvalifikaciju iz sektora strojarstva te ima najmanje pet godina radnog iskustva u struci i položen stručni ispit za obavljanje navedene djelatnosti
+2. koja ima položen majstorski ispit ili priznati majstorski status iz područja ugradnje i održavanja ili servisiranja rashladnih i klimatizacijskih uređaja i položen stručni ispit za obavljanje navedene djelatnosti
+3. koja je završila odgovarajući preddiplomski i diplomski studij iz područja strojarstva i položila stručni ispit za obavljanje navedene djelatnosti
+4. koja je registrirana za obavljanje ove djelatnosti u drugoj državi Europskoga gospodarskog prostora, kojoj se daje pravo poslovnog nastana na teritoriju Republike Hrvatske, kao i sloboda pružanja usluga na privremenoj i povremenoj osnovi, bez obveze registracije sjedišta i bez obveze ponovnog polaganja stručnog ispita.
+(3) Osoba koja prikuplja određene fluorirane stakleničke plinove iz visokonaponskih sklopnih aparata kod njihovih vlasnika i/ili korisnika dužna je završiti program osposobljavanja i položiti stručni ispit za obavljanje navedenih poslova te upotpunjavati i usavršavati svoje znanje.
+(4) Osoba koja prikuplja otapala na bazi fluoriranih stakleničkih plinova kod vlasnika i/ili korisnika tih otapala dužna je završiti program osposobljavanja i položiti stručni ispit za obavljanje navedenih poslova te upotpunjavati i usavršavati svoje znanje.
+(5) Osoba koja prikuplja kontrolirane tvari ili fluorirane stakleničke plinove iz klimatizacijskih sustava u motornim vozilima kod pravnih osoba ili obrtnika koji se bave djelatnošću servisiranja motornih vozila dužna je završiti program osposobljavanja i položiti stručni ispit za obavljanje navedenih poslova te upotpunjavati i usavršavati svoje znanje.
+(6) Osobi koja je položila stručni ispit iz stavaka 1. do 5. ovoga članka tijelo državne uprave nadležno za zaštitu okoliša izdaje uvjerenje o položenom stručnom ispitu.
+(7) Uvjerenje iz stavka 6. ovoga članka vrijedi neograničeno.
+(8) Tijelo državne uprave nadležno za zaštitu okoliša vodi Registar ovlaštenih osoba kojima je izdano uvjerenje iz stavka 6. ovoga članka.
+(9) Osoba kojoj je izdano uvjerenje iz stavka 6. ovoga članka dužna je pohađati program usavršavanja jedanput u pet godina.

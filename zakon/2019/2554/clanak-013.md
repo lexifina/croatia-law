@@ -1,0 +1,4 @@
+# Članak 13.
+(1) Prilagodba klimatskim promjenama podrazumijeva procjenu štetnih utjecaja klimatskih promjena i poduzimanje primjerenih mjera radi jačanja otpornosti na klimatske promjene i sprječavanja ili smanjenja potencijalne štete koje one mogu uzrokovati, kao i iskorištavanje mogućih pozitivnih učinaka klimatskih promjena.
+(2) Prilagodba klimatskim promjenama obavlja se provedbom mjera prilagodbe u sektorima koji su ranjivi na utjecaje klimatskih promjena.
+(3) Mjere prilagodbe provode tijela državne uprave i druge pravne osobe koje imaju javne vlasti nadležne za poslove meteorologije, zaštite okoliša, poljoprivrede, ribarstva, šumarstva, vodnoga gospodarstva, energetike, industrije, prometa, infrastrukture, prostornog uređenja, zaštite prirode, mora, turizma i zaštitu ljudskog zdravlja.

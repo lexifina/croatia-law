@@ -1,0 +1,5 @@
+# Članak 96.
+(1) Tijelo državne uprave nadležno za zaštitu okoliša će po prijedlogu inspektora zaštite okoliša iz članka 121. stavka 4. ovoga Zakona rješenjem ukinuti dozvolu iz članka 86. stavka 1. i članka 87. stavka 2. te suglasnost iz članka 92. stavka 4. ovoga Zakona.
+(2) Ako osoba koja je ishodila dozvolu iz članka 86. stavka 1. i članka 87. stavka 2. ovoga Zakona obavijesti tijelo državne uprave nadležno za zaštitu okoliša o prestanku obavljanja djelatnosti za koje je izdana dozvola, tijelo državne uprave nadležno za zaštitu okoliša rješenjem će ukinuti dozvolu.
+(3) Ako osoba koja je ishodila suglasnost iz članka 92. stavka 4. ovoga Zakona obavijesti tijelo državne uprave nadležno za zaštitu okoliša o prestanku obavljanja djelatnosti za koje je izdana suglasnost tijela državne uprave nadležnog za zaštitu okoliša, tijelo državne uprave nadležno za zaštitu okoliša donijet će rješenje o ukidanju suglasnosti.
+(4) Operater opreme koja sadrži kontrolirane tvari ili fluorirane stakleničke plinove mora nadležnom inspektoru na njegov zahtjev dostaviti podatke o pravnim osobama i obrtnicima koji su obavili djelatnost servisiranja i prikupljanja.

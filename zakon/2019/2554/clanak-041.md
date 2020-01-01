@@ -1,0 +1,6 @@
+# Članak 41.
+(1) Ako bilo koje postrojenje iz članka 39. stavka 1. ovoga Zakona u bilo kojoj kalendarskoj godini emitira 25.000 tona ili više ekvivalenta ugljikova dioksida ili ako postrojenje ne provodi mjere za postizanje ekvivalentnog doprinosa smanjenju emisija, to postrojenje ponovo će biti uključeno u sustav trgovanja emisijama.
+(2) Ako bilo koje postrojenje iz članka 40. stavka 1. ovoga Zakona u bilo kojoj kalendarskoj godini emitira 2500 tona ili više ekvivalenata ugljikova dioksida, ne uzimajući u obzir emisije iz biomase, tijelo državne uprave nadležno za zaštitu okoliša ponovno će uključiti to postrojenje u sustav trgovanja emisijama.
+(3) Tijelo državne uprave nadležno za zaštitu okoliša donosi rješenje o ponovnom uključivanju postrojenja iz stavaka 1. i 2. ovoga članka u sustav trgovanja emisijama.
+(4) Ako se postrojenje u skladu sa stavcima 1. i 2. ovoga članka ponovo uključi u sustav trgovanja, emisijske jedinice izdane tim postrojenjima odbijaju se od količine koju će Republika Hrvatska prodati na dražbi.
+(5) Operater postrojenja iz stavaka 1. i 2. ovoga članka ne može podnijeti zahtjev iz članka 39. stavka 1. i članka 40. stavka 1. ovoga Zakona u tom razdoblju trgovanja.
