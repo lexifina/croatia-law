@@ -1,0 +1,2 @@
+# Članak 9.
+Rješenjem o porezu na korištenje javne površine za postavu privremenih objekata i naprava (kiosci, štandovi i drugi objekti i naprave gotove konstrukcije, za koje nije potrebno pribaviti građevinsku ili lokacijsku dozvolu), određuje se da se porez za korištenje iste plati u dvije rate, s time da se prva rata uplaćuje u roku od 8 dana od dana izvršnosti rješenja, a druga do 1. kolovoza, uz obvezu davanja jamstva u obliku solemnizirane bjanko zadužnice koja mora glasiti na iznos najmanje 10% veći od iznosa utvrđenog poreza.
