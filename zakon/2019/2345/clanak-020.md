@@ -1,0 +1,4 @@
+# Članak 20.
+(1) Radi pravodobnog obračunavanja i doznačivanja proračunskih sredstava u 2020. godini za plaće i druge rashode, korisnici koji se financiraju iz Proračuna obvezni su nadležnom ministarstvu dostaviti rješenje o zasnivanju i o prestanku radnog odnosa radnika odnosno ugovor o radu i prestanku ugovora o radu radnika.
+(2) Rješenje odnosno ugovor o radu iz stavka 1. ovoga članka korisnici su obvezni dostaviti u roku od osam dana od dana zasnivanja ili prestanka radnog odnosa.
+(3) Izvanproračunski korisnici državnog proračuna kojima se iz Proračuna dodjeljuju subvencije i/ili pomoći iz razdjela nadležnih ministarstava dužni su prije sklapanja kolektivnih ugovora i/ili donošenja propisa i drugih akata kojima se uređuju materijalna prava zaposlenika dobiti prethodnu suglasnost nadležnog ministarstva o tim aktima.
