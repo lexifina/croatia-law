@@ -1,0 +1,2 @@
+# Članak 1.
+U Pravilniku o paušalnom oporezivanju djelatnosti iznajmljivanja i organiziranja smještaja u turizmu (»Narodne novine«, br. 1/19), u članku 7. riječi: »odnosno nositelj ili član obiteljskog poljoprivrednog gospodarstva« te riječi: »ili na temelju rješenja o ispunjavanju uvjeta za posebni standard nadležnog ureda odobreno pružanje ugostiteljskih usluga na obiteljskom poljoprivrednom gospodarstvu« brišu se.
