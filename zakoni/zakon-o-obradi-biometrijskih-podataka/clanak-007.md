@@ -1,0 +1,4 @@
+# Članak 7.
+(1) Biometrijski podaci iz članka 6. stavka 2. točke 1. ovoga Zakona obrađuju se u svrhu sprječavanja zlouporabe identiteta tako da se uspoređuju s biometrijskim podacima iz članka 6. stavka 2. točke 1. ovoga Zakona.
+(2) Ako se usporedbom podataka iz stavka 1. ovoga članka utvrdi da podatak nije istovjetan s prije prikupljenim biometrijskim podatkom te osobe ili je istovjetan s nekim drugim prije prikupljenim podatkom druge osobe u zbirkama podataka izdanih osobnih isprava, sporni biometrijski podaci uspoređuju se s biometrijskim podacima iz članka 6. stavka 2. ovoga Zakona.
+(3) Biometrijski podaci iz stavka 1. ovoga članka prikupljeni od stranaca ili osoba bez državljanstva obrađuju se i u svrhu provjere postojanja prijašnje registracije tako da se uspoređuju s biometrijskim podacima iz članka 6. stavka 2. točaka 8., 9., 10., 11. i 12. ovoga Zakona.
