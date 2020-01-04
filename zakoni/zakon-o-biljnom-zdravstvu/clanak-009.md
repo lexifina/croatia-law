@@ -1,0 +1,3 @@
+## Šumarski inspektor
+# Članak 9.
+Za potrebe provedbe uredbi iz članka 2. ovoga Zakona te odredaba ovoga Zakona i propisa donesenih na temelju njega, šumarski inspektor obavlja poslove i zadaće iz članka 8. ovoga Zakona, i to samo u dijelu koji se odnosi na šumsko bilje, šumske rasadnike i šumski reprodukcijski materijal, a isključujući poslove koji se odnose na unos bilja, biljnih proizvoda i drugih predmeta na područje Unije, provoz bilja, biljnih proizvoda i drugih predmeta preko državnog područja Republike Hrvatske, izvoz i ponovni izvoz bilja, biljnih proizvoda i drugih predmeta iz područja Unije te na drveni materijal za pakiranje.
