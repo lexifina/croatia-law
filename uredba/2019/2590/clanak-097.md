@@ -1,0 +1,6 @@
+# Članak 97.
+Sektor za pripremu i provedbu projekata u područjima energetike, klimatskih promjena, zaštite okoliša te prometne infrastrukture i mobilnosti obavlja poslove vezane za pripremu strateških i ostalih projekata, pripremu dokumentacije te provedbu postupaka dodjele sredstava (uključujući sklapanje ugovora o dodjeli sredstava te izmjena i dopuna istih tijekom provedbe) za područja ulaganja Operativnog programa »Konkurentnost i kohezija« u nadležnosti Ministarstva, odnosno poslove odobrenja dokumentacije za postupke dodjele sredstava u nadležnosti drugih tijela sustava, poslove vezane za pružanje podrške korisnicima strateških projekata i drugim tijelima tijekom provedbe istih, te obavlja druge poslove iz svoga djelokruga.
+Za obavljanje poslova iz djelokruga Sektora za pripremu i provedbu projekata u područjima energetike, klimatskih promjena, zaštite okoliša te prometne infrastrukture i mobilnosti, ustrojavaju se sljedeće ustrojstvene jedinice:
+5.6.1. Služba za pripremu i provedbu projekata u područjima energetike te prometne infrastrukture i mobilnosti
+5.6.2. Služba za pripremu i provedbu projekata u područjima klimatskih promjena i zaštite okoliša.
+5.6.1. Služba za pripremu i provedbu projekata u područjima energetike te prometne infrastrukture i mobilnosti

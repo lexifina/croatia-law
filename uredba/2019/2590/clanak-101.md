@@ -1,0 +1,6 @@
+# Članak 101.
+Služba za pripremu i provedbu projekata u područjima klimatskih promjena i zaštite okoliša obavlja poslove vezane za pripremu strateških i ostalih projekata, pripremu dokumentacije te provedbu postupaka dodjele sredstava (uključujući sklapanje ugovora o dodjeli sredstava te izmjena i dopuna istih tijekom provedbe) u područjima zaštite okoliša u nadležnosti Ministarstva, odnosno poslove odobrenja dokumentacije za postupke dodjele sredstava u područjima klimatskih promjena i zaštite okoliša u nadležnosti drugih tijela sustava, poslove vezane za pružanje podrške korisnicima strateških projekata i drugim tijelima tijekom provedbe istih, te obavlja druge poslove iz svoga djelokruga.
+Za obavljanje poslova iz djelokruga Službe za pripremu i provedbu projekata u područjima klimatskih promjena i zaštite okoliša, ustrojavaju se sljedeće ustrojstvene jedinice:
+5.6.2.1. Odjel za pripremu i provedbu projekata u područjima klimatskih promjena, kulturne i prirodne baštine te bioraznolikosti
+5.6.2.2. Odjel za pripremu i provedbu projekata u područjima upravljanja vodama, gospodarenja otpadom te upravljanja rizicima.
+5.6.2.1. Odjel za pripremu i provedbu projekata u područjima klimatskih promjena, kulturne i prirodne baštine te bioraznolikosti

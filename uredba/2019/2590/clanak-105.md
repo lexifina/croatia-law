@@ -1,0 +1,6 @@
+# Članak 105.
+Služba za koordinaciju u pripremi i provedbi projekata obavlja poslove koordinacije korištenja vanjske stručne pomoći u pripremi projekata i jačanju kapaciteta tijela u sustavu upravljanja i kontrole Operativnog programa »Konkurentnost i kohezija«, koordinacije postupaka neovisne kontrole kvalitete velikih projekata te suradnje s međunarodnim financijskim institucijama vezano uz sufinanciranje projekata u okviru Operativnog programa »Konkurentnost i kohezija«, u okviru pripreme i provedbe projekata koji se provode u okviru navedenog programa koordinira primjenu horizontalnih načela nediskriminacije, ravnopravnosti spolova, prava osoba s invaliditetom i održivog razvoja, izradu programskih dodataka, provodi promotivne i informativne aktivnosti u nadležnosti Uprave, te obavlja druge poslove iz svoga djelokruga.
+Za obavljanje poslova iz djelokruga Službe za koordinaciju u pripremi i provedbi projekata, ustrojavaju se sljedeće ustrojstvene jedinice:
+5.7.1.1. Odjel za koordinaciju vanjske stručne pomoći tijelima u sustavu
+5.7.1.2. Odjel za suradnju s međunarodnim financijskim institucijama i primjenu horizontalnih načela.
+5.7.1.1. Odjel za koordinaciju vanjske stručne pomoći tijelima u sustavu

@@ -1,0 +1,7 @@
+# Članak 126.
+Sektor za prvostupanjsku kontrolu obavlja poslove koji se odnose na upravljanje radom Tijela za kontrolu za programe Europske teritorijalne suradnje u Republici Hrvatskoj, priprema interne procedure i metodologije za administriranje i upravljanje sustavom prvostupanjske kontrole na programima i projektima financiranim iz sredstava Europske unije, izrađuje planove, izvješća i akte na engleskom i hrvatskom jeziku, odgovara za primjenu propisanih procedura za utvrđivanje prihvatljivosti troškova hrvatskih projektnih partnera, kao i za ažuriranje i nadogradnju relevantnih priručnika programa, priprema upute za projektne partnere i plan terenskih kontrola projekata s ciljem kvalitetnog izvršenja poslova prvostupanjske kontrole, surađuje s ostalim tijelima programa kao što su Upravljačko tijelo, Tehničko tajništvo, Nacionalno tijelo, Tijelo zaduženo za reviziju i radnim skupinama za prvostupanjsku kontrolu, surađuje s predstavnicima tijela uključenih u strukturu upravljanja fondovima Europske unije i po potrebi s predstavnicima tijela Europske komisije, te obavlja druge poslove iz svoga djelokruga.
+Za obavljanje poslova iz djelokruga Sektora za prvostupanjsku kontrolu ustrojavaju se sljedeće ustrojstvene jedinice:
+6.4.1. Služba za prvostupanjsku kontrolu programa prekogranične suradnje
+6.4.2. Služba za prvostupanjsku kontrolu transnacionalnih i međuregionalnih programa suradnje
+6.4.3. Služba za nepravilnosti, kontrolu kvalitete i tehničku pomoć.
+6.4.1. Služba za prvostupanjsku kontrolu programa prekogranične suradnje

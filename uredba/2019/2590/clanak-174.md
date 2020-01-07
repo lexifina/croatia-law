@@ -1,0 +1,3 @@
+# Članak 174.
+Odjel za koordinaciju centraliziranih instrumenata EU obavlja stručne poslove koordinacije, praćenja, izvještavanja i unaprjeđenja korištenja centraliziranih EU instrumenata i programa u Republici Hrvatskoj, koordinira i nadzire Plan ulaganja za Europu u Republici Hrvatskoj i prijavu projekata za EFSU, organizira rad Pod-odbora za koordinaciju investicija i praćenje provedbe centraliziranih instrumenata i programa u Republici Hrvatskoj i Radne skupine za Programe Unije, surađuje sa institucijama Europske unije koje su zadužene za provedbu centraliziranih EU instrumenata i programa te obavlja druge poslove iz svoga djelokruga.
+10.3.2. Odjel za podršku pripremi razvojnih projekata na nacionalnoj i regionalnoj razini
