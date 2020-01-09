@@ -1,0 +1,1 @@
+Na temelju članka 60. stavka 4. Zakona o lovstvu (»Narodne novine«, br. 99/18 i 32/19) i članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/11, 119/14, 93/16 i 116/18), Vlada Republike Hrvatske je na sjednici održanoj 9. siječnja 2020. godine donijela
