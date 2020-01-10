@@ -1,0 +1,6 @@
+# Članak 2.
+Članak 7. mijenja se i glasi:
+»(1) Izvještaj o zaduživanju na domaćem i stranom tržištu novca i kapitala daje pregled zaduživanja koje je u ime Republike Hrvatske ugovorilo ili preuzelo Ministarstvo financija odnosno koje je ugovorila ili preuzela jedinica lokalne i područne (regionalne) samouprave u izvještajnom razdoblju po vrsti instrumenata, valutnoj, kamatnoj i ročnoj strukturi.
+(2) Izvještaj iz stavka 1. ovoga članka za proračunsku godinu sadrži i stanje obveza za vrijednosne papire, kredite i zajmove koje je u ime Republike Hrvatske ugovorilo ili preuzelo Ministarstvo financija odnosno koje je ugovorila ili preuzela jedinica lokalne i područne (regionalne) samouprave na početku i na kraju proračunske godine, kao i iznose otplata navedenih obveza raspoređene prema dospijeću u narednim godinama.
+(3) Sastavni dio izvještaja o zaduživanju iz stavka 1. ovoga članka je izvještaj o zajmovima i potraživanjima za dane zajmove koje je u ime Republike Hrvatske ugovorilo Ministarstvo financija odnosno koje je ugovorila jedinica lokalne i područne (regionalne) samouprave koji sadrži pregled danih zajmova i potraživanja za dane zajmove u izvještajnom razdoblju.
+(4) Izvještaj iz stavka 1. ovoga članka daje se u obliku obrazloženja koje je opisno, brojčano, s grafičkim prikazima ili kombinacija navedenog.«
