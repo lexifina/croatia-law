@@ -1,0 +1,1 @@
+Na temelju članka 92. stavka 5., članka 93. stavka 6. i članka 98. stavka 4. točke 2. Zakona o mirovinskim osiguravajućim društvima (»Narodne novine« broj 22/14, 29/18 i 115/18; dalje u tekstu: Zakon) Hrvatska agencija za nadzor financijskih usluga (dalje u tekstu: Hanfa) na sjednici Upravnog vijeća održanoj 23. prosinca 2019. godine donosi
