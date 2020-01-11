@@ -1,0 +1,1 @@
+Na temelju članka 74. stavka 1. Zakona o mirovinskim osiguravajućim društvima (»Narodne novine« broj 22/14, 29/2018 i 115/2018), Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća održanoj 23. prosinca 2019. godine donosi
