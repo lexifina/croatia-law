@@ -1,0 +1,1 @@
+Na temelju odredbi članaka 63. stavak 1. točke 2., članka 108. stavka 4., članka 111. stavaka 11., 12. i 13. Zakona o obveznim mirovinskim fondovima (»Narodne novine«, broj 19/2014, 93/2015, 64/2018 i 115/2018) Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća održanoj 23. prosinca 2019. godine donosi
