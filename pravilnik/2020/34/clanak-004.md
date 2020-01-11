@@ -1,0 +1,3 @@
+# Članak 4.
+Članak 11. stavak 3. mijenja se i glasi:
+(3) Devizne terminske transakcije dnevno se vrednuju po fer vrijednosti, primjenom referentnih kamatnih stopa (close-out metoda) za određenu valutu, koje su dostupne na službenom financijsko-informacijskom servisu te se pritom kao referentni tečaj uzima srednji tečaj Hrvatske narodne banke ili, ako isto nije dostupno, na način da se za svaki dan vrednovanja koristi krivulja prinosa izvedena iz kamatnih stopa primarne emisije (on-the-run) trezorskih zapisa Ministarstva financija s time da se kao početna točka uzima prekonoćna kamatna stopa HNB-a ostvarena u trgovini depozitima na međubankovnom tržištu.
