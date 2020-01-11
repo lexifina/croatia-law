@@ -1,0 +1,15 @@
+# Članak 3.
+U članku 4. Pravilnika stavak 1. mijenja se i glasi:
+»(1) Pravna osoba može obavljati poslove ponude mirovinskih programa dobrovoljnog mirovinskog osiguranja pod uvjetom da ona i odgovorne osobe u toj pravnoj osobi:
+1. nije pravomoćno osuđivana niti je pokrenuta istraga ili kazneni postupak za kaznena djela protiv imovine, kaznena djela protiv gospodarstva i kaznena djela protiv krivotvorenja ili je nastupila rehabilitacija te, za odgovornu osobu u pravnoj osobi, nad kojom nije otvoren postupak stečaja potrošača u skladu sa zakonom kojim se uređuje stečaj potrošača.
+2. ne postoje zakonski razlozi zbog kojih ne smije obavljati ponudu mirovinskih programa dobrovoljnog mirovinskog osiguranja,
+3. ima sklopljen pisani ugovor s mirovinskim društvom o obavljanju poslova ponude mirovinskih programa dobrovoljnog mirovinskog osiguranja,
+4. fizičke osobe koje na temelju ugovora o radu rade za tu pravnu osobu ispunjavaju uvjete iz stavka 2. ovoga članka.«
+U članku 4. Pravilnika, iza stavka 1. dodaju se novi stavci 2. i 3. koji glase:
+»(2) Fizička osoba može obavljati poslove ponude mirovinskih programa dobrovoljnog mirovinskog osiguranja pod uvjetom da:
+1. zna hrvatski jezik,
+2. ima najmanje srednju stručnu spremu (dokazuje se ovjerenom preslikom svjedodžbe o završenoj srednjoj školi, odnosno svjedodžbom o položenoj maturi ili završnom ispitu ili drugim odgovarajućim ispravama, a strani državljani odgovarajućom ispravom kojom se dokazuje potreban stupanj obrazovanja, koja mora biti prevedena i potpisana od ovlaštenog sudskog tumača za hrvatski jezik i dokumentom o priznavanju inozemne srednjoškolske kvalifikacije u svrhu zapošljavanja ili nastavka obrazovanja izdanom od nadležnog tijela u Republici Hrvatskoj),
+3. nije pravomoćno osuđivana za kaznena djela protiv imovine, kaznena djela protiv gospodarstva i kaznena djela protiv krivotvorenja ili je nastupila rehabilitacija, nad tom osobom nije otvoren postupak stečaja potrošača u skladu sa zakonom kojim se uređuje stečaj potrošača te ne postoje drugi zakonski razlozi zbog kojih ne smije obavljati ponudu mirovinskih programa,
+4. ima sklopljen ugovor s mirovinskim društvom o obavljanju poslova ponude mirovinskih programa dobrovoljnog mirovinskog osiguranja.
+(3) Ispunjavanje uvjeta iz stavka 1. točke 1. i stavka 2. točke 3. ovoga članka dokazuje se potvrdom nadležnog tijela Republike Hrvatske odnosno države sjedišta/prebivališta, koje nije starije od tri mjeseca, a ako to nije primjenjivo, pisanom izjavom odgovorne osobe u pravnoj osobi odnosno fizičke osobe, na kojoj je potpis izdavatelja ovjeren kod javnog bilježnika, da ispunjava navedene uvjete.«
+U članku 4. Pravilnika, dosadašnji stavak 2. postaje stavak 4.

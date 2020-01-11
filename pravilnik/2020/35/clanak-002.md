@@ -1,0 +1,3 @@
+# Članak 2.
+U članku 3. Pravilnika o uvjetima za nuđenje mirovinskih programa dobrovoljnog mirovinskog osiguranja na temelju individualne kapitalizirane štednje (»Narodne novine« broj 101/14 i 41/17, dalje: Pravilnik). iza stavka 5. dodaje se stavak 6. koji glasi:
+»(6) Ako osoba koja obavlja poslove nuđenja mirovinskih programa dobrovoljnog mirovinskog osiguranja ujedno obavlja poslove ponude mirovinskih programa za mirovinsko osiguravajuće društvo sukladno zakonu kojim su uređena mirovinska osiguravajuća društva, ili za više mirovinskih društava istovremeno, ta je osoba dužna učinkovito upravljati sukobima interesa koji proizlaze iz obavljanja tih poslova i o tome prethodno obavijestiti potencijalnog korisnika mirovine.«

@@ -1,0 +1,1 @@
+Na temelju članka 150. stavka 3. i članka 151. stavka 3. Zakona o dobrovoljnim mirovinskim fondovima (»Narodne novine« broj 19/14, 29/18 i 115/18, dalje u tekstu: Zakon) Hrvatska agencija za nadzor financijskih usluga (dalje u tekstu: Hanfa) na sjednici Upravnog vijeća održanoj 23. prosinca 2019. godine donosi
