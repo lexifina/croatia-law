@@ -1,0 +1,6 @@
+## Promidžba kroz prikaz poslovanja mirovinskog osiguravajućeg društva
+# Članak 3.
+(1) Rezultatom poslovanja mirovinskog osiguravajućeg društva smatraju se informacije o vrijednosti tehničkih pričuva, prinosu ulaganja, strukturi tehničkih pričuva i ukupnim troškovima, odnosno sve informacije kojima je cilj prikazati poslovanje mirovinskog osiguravajućeg društva.
+(2) Rezultati iz stavka 1. ovoga članka objavljuju se uz napomenu da ne predstavljaju indikaciju i nemaju nikakav utjecaj na buduće rezultate poslovanja mirovinskog osiguravajućeg društva.
+(3) Promidžbene informacije koje sadržavaju podatke o financijskom stanju, položaju na tržištu i rezultatima poslovanja, mirovinsko osiguravajuće društvo je dužno dostaviti Hanfi najkasnije 15 (petnaest) dana prije njihovog korištenja ili objave, zajedno s mišljenjima iz članka članka 6. stavka 3_ovoga Pravilnika i ne smiju se objaviti sve dok Hanfa ne potvrdi mirovinskom osiguravajućem društvu da je korištenje predmetnih informacija dopušteno.
+(4) Informacije iz ovoga članka prikazuju se na jednom mjestu na internetskoj stranici mirovinskog osiguravajućeg društva ili u promidžbenom materijalu i moraju sadržavati vremensko razdoblje koje obuhvaćaju.

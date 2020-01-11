@@ -1,0 +1,8 @@
+## Dostavljanje obavijesti Hanfi
+# Članak 7.
+(1) Mirovinsko osiguravajuće društvo dostavlja Hanfi dokumentaciju iz članka 5. ovog Pravilnika na način i u skladu s Tehničkom uputom za korištenje servisa unosa WEB obrazaca i dostavu dokumentacije u elektroničkom obliku i Uputom za popunjavanje WEB obrazaca za mirovinsko osiguravajuće društvo.
+(2) Smatra se da je mirovinsko osiguravajuće društvo dostavilo dokumentaciju iz članka 2. ovoga Pravilnika u trenutku kada je dokumentacija zabilježena na poslužitelju za slanje takve dokumentacije.
+(3) U opravdanim slučajevima tehničke nemogućnosti dostave ili dostave koja nije pravilno izvršena (pr. kvar na sustavu, nemogućnost čitanja zaprimljene dokumentacije i sl.) na način propisan stavkom 1. ovoga članka, mirovinsko osiguravajuće društvo dokumentaciju dostavlja u pisanom obliku, neposredno ili poštom u svrhu pravodobnog izvješćivanja, a na način propisan stavkom 1. ovoga članka u roku od 8 dana od prestanka razloga za nemogućnost takve dostave.
+(4) Osim dokumentacije propisane člankom 5. ovoga Pravilnika, mirovinskog osiguravajućeg društva je dužno dostaviti na zahtjev Hanfe i drugu dokumentaciju ili podatke za potrebe nadzora ili za obavljanje drugih poslova iz nadležnosti i djelokruga Agencije u vezi s poslovanjem Društva, na način kako je propisano odredbama ovoga članka i u roku određenom u zahtjevu.
+(5) Mirovinsko osiguravajuće društvo može zatražiti mišljenje Hanfe o ispravnosti pojedine promidžbene aktivnosti ili materijala prije njenog korištenja.
+(6) Hanfa može, kad to ocijeni potrebnim, zatražiti od mirovinskog osiguravajućeg društva dostavu određene dokumentacije propisane ovim Pravilnikom i u izvorniku ili ovjerenoj preslici, neovisno o izvršenoj dostavi u elektroničkom obliku.
