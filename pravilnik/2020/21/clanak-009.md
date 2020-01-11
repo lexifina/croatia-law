@@ -1,0 +1,6 @@
+## Dostava obavijesti
+# Članak 9.
+(1) Mirovinsko društvo dužno je dostaviti Hanfi obavijest iz članka 7. stavka 2. ovoga Pravilnika na način i u skladu s Tehničkom uputom za korištenje servisa unosa WEB obrazaca i dostavu dokumentacije u elektroničkom obliku i Uputom za popunjavanje WEB obrazaca za mirovinska društva.
+(2) Smatra se da je mirovinsko društvo dostavilo obavijest iz članka 7. stavka 2. ovoga Pravilnika u trenutku kada su zabilježeni na poslužitelju za slanje takve dokumentacije.
+(3) U opravdanim slučajevima tehničke nemogućnosti dostave ili dostave koja nije pravilno izvršena (npr. kvar na sustavu, nemogućnost čitanja zaprimljene dokumentacije i sl.) na način propisan stavkom 1. ovoga članka, mirovinsko društvo dužno je dokumentaciju iz stavka 1. ovoga članka dostaviti u pisanom obliku, neposredno ili poštom u svrhu pravodobnog izvješćivanja. Mirovinsko društvo dužno je dostaviti dokumentaciju iz stavka 1. ovoga članka na način propisan stavkom 1. ovoga članka čim prestanu razlozi nemogućnosti takve dostave, a najkasnije u roku od 8 dana od prestanka okolnosti koje su prouzročile tehničku nemogućnost takve dostave.
+(4) Hanfa može, u slučaju potrebe, zatražiti od mirovinskog društva dostavu dokumentacije propisane člankom 7. stavkom 2. ovoga Pravilnika i u izvorniku ili ovjerenoj preslici, neovisno o izvršenoj dostavi u elektroničkom obliku.
