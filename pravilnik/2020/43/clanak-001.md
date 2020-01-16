@@ -1,0 +1,3 @@
+## I. PREDMET PROPISIVANJA
+# Članak 1.
+Ovim Pravilnikom se propisuju posebni uvjeti za obavljanje djelatnosti uzimanja uzoraka i ispitivanja voda, osim vode za ljudsku potrošnju prema posebnim propisima, a osobito tehnička opremljenost, brojnost i stručnost zaposlenika, tehničke specifikacije za ispitivanja i praćenja stanja voda, sedimenta i biote te emisija onečišćujućih tvari u otpadnim vodama, minimalni izvedbeni zahtjevi za metode analiza koje se primjenjuju pri ispitivanju i praćenju stanja voda, sedimenta i biote te emisija onečišćujućih tvari u otpadnim vodama i pravila za dokazivanje kvalitete analitičkih rezultata.

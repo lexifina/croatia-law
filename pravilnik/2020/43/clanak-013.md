@@ -1,0 +1,9 @@
+## VI. OBVEZE LABORATORIJA
+## Obveze glede stjecanja osposobljenosti
+# Članak 13.
+(1) Ukoliko laboratorij namjerava primjenjivati dokumentirane i validirane metode iz članka 11. točke 3. ovoga Pravilnika, obvezan je redovito uspješno sudjelovati u dostupnim međulaboratorijskim programima ispitivanja sposobnosti iz stavka 2. i 3. ovoga članka koje organiziraju akreditirane, međunarodno ili nacionalno priznate organizacije koje ispunjavaju zahtjeve propisane HRN EN ISO/IEC 17043 ili drugom jednakovrijednom međunarodno priznatom normom.
+(2) Laboratorij je dužan odabrati dostupne međulaboratorijske programe ispitivanja sposobnosti za analiziranje relevantnih fizikalno-kemijskih, kemijskih, mikrobioloških i ekotoksikoloških pokazatelja u koncentracijskim područjima sukladno propisima o standardu kakvoće voda, o graničnim vrijednostima emisija otpadnih voda i/ili o kakvoći vode za kupanje.
+(3) Laboratorij je dužan odabrati dostupne međulaboratorijske programe ispitivanja sposobnosti analiziranja strukture i brojnosti zajednica relevantnih bioloških elemenata kakvoće iz propisa o standardu kakvoće voda.
+(4) Laboratorij je dužan obavljati provjeru s raspoloživim referentnim materijalima koji su reprezentativni za uzorke koji se ispituju, odnosno u koncentracijskom području sukladno propisima o standardu kakvoće voda, o graničnim vrijednostima emisija otpadnih voda i o kakvoći vode za kupanje.
+(5) Rezultati međulaboratorijskih programa ispitivanja sposobnosti vrednuju se na način na koji upućuje norma HRN EN ISO/IEC 17043 ili norma HRN ISO 13528 ili neka druga jednakovrijedna međunarodno priznata norma.
+(6) Obvezu iz stavka 1. ovoga članka ovlašteni laboratorij mora izvršiti najmanje jednom u pet godina za svaki pokazatelj, a rezultate sudjelovanja u međulaboratorijskim programima ispitivanja sposobnosti dostaviti Ministarstvu jednom godišnje, a najkasnije do 1. ožujka tekuće godine za prethodnu godinu.
