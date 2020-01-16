@@ -1,0 +1,2 @@
+# Članak 1.
+Ovim Pravilnikom propisuju se minimalne količine brašna koje se mogu dobiti meljavom pšenice standardne kakvoće, raži i kukuruza, najviše količine brašna utrošene za proizvodnju pojedinih pekarskih i drugih proizvoda, osim proizvoda od tijesta, finih pekarskih i srodnih proizvoda, način dokumentiranja sljedivosti proizvoda, način i uvjeti vođenja knjige evidencije utroška brašna, način i uvjeti vođenja evidencije o proizvodnji i prometu brašna te način izvještavanja Ministarstvu poljoprivrede (u daljnjem tekstu: Ministarstvo).

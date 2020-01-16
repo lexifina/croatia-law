@@ -1,0 +1,4 @@
+# Članak 4.
+(1) Proizvođač brašna dužan je voditi evidenciju o ukupno samljevenim količinama pšenice, raži i kukuruza za svaki mjesec proizvodnje te evidentirati proizvedene količine brašna iz vlastite proizvodnje i količine brašna stavljenog u promet, a posebno količine proizvedene iz uslužne meljave ili iz zamjenskih poslova.
+(2) Evidencija proizvodnje i prometa brašna iz stavka 1. ovoga članka mora se nalaziti u svakom proizvodnom objektu, a vodi se na Obrascu evidencije proizvodnje i prometa brašna iz Priloga I. koji je tiskan uz ovaj Pravilnik i čini njegov sastavni dio (Obrazac EPB).
+(3) Proizvođači brašna dužni su popunjeni izvještaj o sveukupnoj proizvodnji i prometu brašna (Obrazac EPB) za razdoblje od 1. siječnja do 31. prosinca prethodne godine, dostaviti Ministarstvu zaključno 31. siječnja svake godine.

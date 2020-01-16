@@ -1,0 +1,2 @@
+# Članak 5.
+Najviša količina brašna utrošena za proizvodnju pojedinih pekarskih proizvoda (u daljnjem tekstu: utrošak brašna) u smislu ovoga Pravilnika podrazumijeva najvišu količinu brašna koju pravne i fizičke osobe koje se bave proizvodnjom pekarskih proizvoda (u daljnjem tekstu: proizvođači pekarskih proizvoda) mogu utrošiti za proizvodnju proizvoda iz članka 6. ovoga Pravilnika, uključujući za zamjes i posip.
