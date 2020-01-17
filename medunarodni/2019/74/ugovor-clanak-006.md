@@ -1,0 +1,5 @@
+# Članak 6.
+DOSTAVA KLASIFICIRANIH PODATAKA
+1. Podaci označeni do stupnja »TAJNO/SEGRETO/SECRET« dostavljaju se diplomatskim putem ili vojnim i drugim kurirskim službama koje su odobrila nadležna sigurnosna tijela stranaka. Stranka primateljica pisano potvrđuje primitak klasificiranih podataka od stupnja »POVJERLJIVO/RISERVATISSIMO/CONFIDENTIAL« naviše. Klasificirani podaci stupnja »VRLO TAJNO/SEGRETISSIMO/TOP SECRET« šalju se samo certificiranim vojnim ili diplomatskim putem. U izvanrednim situacijama stranke mogu, na temelju procjene u svakom pojedinom slučaju, dogovoriti drugačije načine dostave klasificiranih podataka.
+2. Ako se treba dostaviti velika pošiljka koja sadrži klasificirane podatke, nadležna sigurnosna tijela međusobno pisano dogovaraju i odobravaju prijevozno sredstvo, rutu i sigurnosne mjere, posebno za svaki slučaj.
+3. Stranke dostavljaju klasificirane podatke drugim odobrenim načinima dostave u skladu sa sigurnosnim postupcima koje su dogovorila nadležna sigurnosna tijela.
