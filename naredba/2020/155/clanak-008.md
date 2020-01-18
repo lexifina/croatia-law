@@ -1,0 +1,7 @@
+## Enzootska leukoza goveda
+# Članak 8.
+(1) Na svim gospodarstvima koja nemaju status stada službeno slobodnog od enzootske leukoze goveda, na području cijele Republike Hrvatske, potrebno je sva rasplodna goveda starija od 24 mjeseca, najkasnije do 31. ožujka 2020. godine, pretražiti u skladu s Dodatkom D Poglavljem II Pravilnika o veterinarskim uvjetima za stavljanje u promet goveda i svinja (»Narodne novine«, broj 5/16), kako bi ostvarila uvjete za dodjelu statusa.
+(2) Na svim gospodarstvima koja imaju status stada službeno slobodnog od enzootske leukoze goveda na području sljedećih županija: Karlovačke, Koprivničko-križevačke, Krapinsko-zagorske, Varaždinske, Međimurske, Istarske, Primorsko-goranske i Grada Zagreba, mora se provesti pretraživanje s ciljem održavanja statusa u skladu s Dodatkom D Poglavljem II Pravilnika o veterinarskim uvjetima za stavljanje u promet goveda i svinja (»Narodne novine«, broj 5/16).
+(3) Uzorci se uzimaju istovremeno s uzorcima krvi u sklopu Programa nadziranja bruceloze goveda iz članka 6., stavka 1. ove Naredbe.
+(4) Goveda iz stada koje nema status u odnosu na enzootsku leukozu goveda ne mogu se premještati dok ne ostvare zdravstveni status, osim u okolnostima koje su navedene u Pravilniku o mjerama za suzbijanje i iskorjenjivanje enzootske leukoze goveda (»Narodne novine« 30/12).
+(5) Troškovi provođenja mjera iz ovoga članka podmiruju se iz državnog proračuna.
