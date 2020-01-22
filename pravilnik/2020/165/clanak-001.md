@@ -1,0 +1,3 @@
+# Članak 1.
+U Pravilniku o brodicama i jahtama (»Narodne novine« broj 27/05, 57/06, 80/07, 3/08, 18/09, 56/10, 97/12, 137/13, 18/16 i 72/17) u članku 1.a stavku 1. iza podstavka 2. dodaje se podstavka 3. koji glasi:
+» - Direktiva Vijeća (EU) 2017/159 od 19. prosinca 2016. o provedbi Sporazuma o provedbi Konvencije o radu u ribolovu iz 2007. Međunarodne organizacije rada sklopljenog 21. svibnja 2012. između Općeg udruženja poljoprivrednih zadruga u Europskoj uniji (COGECA), Europskog saveza transportnih radnika (ETF) i Udruženja nacionalnih organizacija ribolovnih poduzeća u Europskoj uniji (Europêche) (Tekst značajan za EGP) (SL L 25, 31. 1. 2017.).«.
