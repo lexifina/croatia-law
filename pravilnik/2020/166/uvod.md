@@ -1,0 +1,1 @@
+Na temelju članka 429.b stavka 5. Pomorskog zakonika (»Narodne novine« 181/04, 76/07, 146/08, 61/11, 56/13, 26/15 i 17/19), ministar mora, prometa i infrastrukture uz suglasnost ministra financija donosi
