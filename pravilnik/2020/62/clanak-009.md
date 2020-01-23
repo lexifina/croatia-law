@@ -1,0 +1,3 @@
+# Članak 9.
+(1) U postupku odlučivanja o zahtjevu za izdavanje energetskog odobrenja za postrojenja obnovljivih izvora i visokoučinkovite kogeneracije Ministarstvo provjerava u Registru OIEKPP zahvaća li traženi prostor razvoja projekta već odobreni prostor nekog drugog projekta i/ili proizvodnog postrojenja.
+(2) U slučaju da zatraženi prostor razvoja projekta zahvaća već odobreni prostor razvoja projekta drugog nositelja projekta i/ili izgrađenog postrojenja taj se prostor može odobriti ukoliko postoje mogućnosti u okviru prostornih i tehno-ekonomskih kriterija te uz suglasnost nositelja projekta i/ili povlaštenog proizvođača.
