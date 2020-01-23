@@ -1,0 +1,1 @@
+Na temelju odredbi članka 375. stavka 9., članka 381. stavka 8. i članka 383. stavka 5. Zakona o tržištu kapitala (»Narodne novine« broj 65/2018), Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća održanoj 23. prosinca 2019. donosi
