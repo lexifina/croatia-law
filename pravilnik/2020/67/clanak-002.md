@@ -1,0 +1,4 @@
+# Članak 2.
+(1) Državni zavod za mjeriteljstvo (dalje u tekstu: Zavod) rješenjem proglašava državni etalon koji se uspostavlja u Republici Hrvatskoj kao temelj za dodjelu vrijednosti veličine drugim mjernim etalonima za određenu vrstu fizikalne veličine.
+(2) Državni etalon se uspostavlja za područja izabranih osnovnih i izvedenih jedinica Međunarodnog sustava mjernih jedinica (SI) u skladu s potrebama gospodarstva i za područje za koje postoji tehnički odbor ili pododbor unutar Europskog udruženja nacionalnih mjeriteljskih instituta (EURAMET).
+(3) Za državni etalon iz stavaka 1. i 2. ovoga članka može se proglasiti etalon s najboljim mjeriteljskim značajkama u Republici Hrvatskoj, koji je sljediv na Međunarodni sustav mjernih jedinica (SI) i koji je, u skladu s odredbama ovoga Pravilnika, ostvario umjerni laboratorij.
