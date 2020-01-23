@@ -1,0 +1,4 @@
+# Članak 4.
+(1) Podnositelj zahtjeva za pregled plovidbenosti zrakoplova osigurava sredstva na ime dnevnica i troškova putovanja osobama ovlaštenim za pregled plovidbenosti zrakoplova.
+(2) Iznimno od stavka 1. ovog članka, u slučaju organiziranog pregleda plovidbenosti većeg broja zrakoplova koji se koriste za nekomercijalne operacije, a u svrhu redovnog produženja Svjedodžbe o plovidbenosti ili jednakovrijednog dokumenta, podnositelji zahtjeva za pregled plovidbenosti zrakoplova oslobođeni su plaćanja troškova na ime dnevnica i troškova putovanja ovlaštenim osobama ako najkasnije 15 dana prije početka organiziranog pregleda plovidbenosti zrakoplova dostave zahtjev za pregled plovidbenosti zrakoplova Agenciji.
+(3) Agencija objavljuje točnu lokaciju pregleda na svojoj internetskoj stranici 60 dana prije organiziranog pregleda plovidbenosti zrakoplova iz stavka 2. ovoga članka.
