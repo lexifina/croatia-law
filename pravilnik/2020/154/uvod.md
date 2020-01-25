@@ -1,0 +1,1 @@
+Na temelju članka 25. stavka 6. Zakona o službenim kontrolama koje se provode sukladno propisima o hrani, hrani za životinje, o zdravlju i dobrobiti životinja (»Narodne novine«, br. 81/13, 14/14, 56/15 i 32/19) te članka 62. stavka 8. i članka 132. stavka 4. Zakona o veterinarstvu (»Narodne novine«, br. 82/13, 148/13 i 115/18), ministrica poljoprivrede donosi
