@@ -1,0 +1,1 @@
+Na temelju članka 53. stavka 4. Zakona o održivom gospodarenju otpadom (»Narodne novine«, br. 94/13, 73/17, 14/19 i 98/19), Vlada Republike Hrvatske je na sjednici održanoj 16. siječnja 2020. godine donijela
