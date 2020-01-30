@@ -1,0 +1,4 @@
+## Dostava vodopravnih akata
+# Članak 52.
+(1) Primjerak vodopravnih uvjeta kada se izdaju kao posebni uvjeti, vodopravne potvrde, posebnih uvjeta priključenja kada se izdaju kao posebni uvjeti i potvrde o posebnim uvjetima priključenja dostavljaju se nadležnom javnopravnom tijelu po čijem zahtjevu se vodi ili se vodio postupak izdavanja navedenih vodopravnih akata elektroničkim putem u skladu s propisima o prostornom uređenju i gradnji.
+(2) Primjerak vodopravne dozvole, njezinih izmjena kao i ukidanja vodopravne dozvole dostavljaju se elektroničkom poštom vodopravnoj inspekciji i tijelu iz članka 213. Zakona, najkasnije u roku od sedam dana od dana donošenja akta. Vodopravne dozvole kojima se regulira ispuštanje otpadnih voda u sustav javne odvodnje, dostavljaju se i javnom isporučitelju vodne usluge.

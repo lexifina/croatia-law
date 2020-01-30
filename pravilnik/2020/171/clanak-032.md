@@ -1,0 +1,7 @@
+## Ukidanje i izmjena vodopravne dozvole
+# Članak 32.
+(1) Vodopravna dozvola za korištenje voda ukinut će se, u skladu s člankom 172. stavkom 1. podstavkom 3. Zakona o vodama, po osnovi djelomičnog nekorištenja prava iz vodopravne dozvole u velikoj mjeri:
+- ako korisnik koristi vodu, osim za navodnjavanje, u količini od 1/4 ili manjoj u odnosu na vodopravnom dozvolom dozvoljene godišnje količine vode unutar jedne godine ili u količini od 1/3 ili manjoj u odnosu na vodopravnom dozvolom dozvoljene godišnje količine vode unutar dvije godine, ovisno što je povoljnije za korisnika i
+- ako korisnik koristi vodu za navodnjavanje, u količini od 1/3 ili manjoj odnosu na vodopravnom dozvolom dozvoljene godišnje količine vode unutar četiri godine.
+(2) Vodopravna dozvola za korištenje voda izmijenit će se, u skladu s člankom 172. stavkom 2. podstavkom 2. Zakona o vodama, po osnovi djelomičnog nekorištenja prava iz vodopravne dozvole u manjoj mjeri, ako korisnik koristi vodu u količini većoj od propisanih u stavku 1. ovoga članka, a u količini do najviše 3/4 vodopravnom dozvolom dozvoljene godišnje količine vode unutar jedne godine, odnosno za navodnjavanje dozvoljene godišnje količine vode unutar četiri godine.
+(3) Vodopravna dozvola za korištenje voda može se izmijeniti na zahtjev korisnika u slučaju da postojeći korisnik dokaže potrebu zahvaćanja većih količina vode u odnosu na količine dane važećom vodopravnom dozvolom.

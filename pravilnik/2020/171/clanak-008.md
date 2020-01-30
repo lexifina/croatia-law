@@ -1,0 +1,3 @@
+# Članak 8.
+Uz zahtjev za izdavanje vodopravnih uvjeta za istraživanje u svrhu eksploatacije šljunka i pijeska u neuređenom inundacijskom području ili u zonama sanitarne zaštite izvorišta izvan područja značajnog za vodni režim, uz dokaze iz članka 6. ovoga Pravilnika, stranka dostavlja i podatke o obuhvatu planiranog istražnog prostora (HTRS96/TM koordinate ili označeno na katastarskoj ili drugoj podlozi).
+Posebni dokazi za izdavanje vodopravnih uvjeta za eksploataciju mineralnih sirovina iz neobnovljivih ležišta iz članaka 110. stavak 4. i članka 111. Zakona o vodama prije izdavanja rješenja o odobrenju za istraživanje mineralnih sirovina prema propisima o rudarstvu
