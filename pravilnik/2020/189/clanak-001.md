@@ -1,0 +1,5 @@
+# Članak 1.
+U Pravilniku o zdravstvenim pregledima vozača i kandidata za vozače (»Narodne novine«, br.: 137/15 i 132/17) članak 10. mijenja se i glasi:
+»Članak 10.
+(1) Doktor medicine koji sukladno odredbama zakona kojima je regulirana sigurnost prometa na cestama utvrdi na liječničkom pregledu ili u tijeku liječenja da vozač boluje od bolesti ili ima invalidnost radi koje više nije sposoban sigurno upravljati vozilom, obvezan je odmah po saznanju o tim promjenama obavijestiti policijsku upravu ili postaju u kojoj vozač ima prijavljeno prebivalište (u daljnjem tekstu: nadležno tijelo), putem Centralnog zdravstvenog informacijskog sustava Republike Hrvatske (u daljnjem tekstu: CEZIH).
+(2) Iznimno, ako doktor medicine iz stavka 1. ovoga članka nema mogućnost dostave obavijesti putem CEZIH-a, obvezan je odmah po saznanju da vozač boluje od bolesti ili ima invalidnost radi koje više nije sposoban sigurno upravljati vozilom, izvijestiti nadležno tijelo na obrascu Izvješća o promjeni zdravstvenog stanja ili tijeku liječenja vozača (u daljnjem tekstu: Obrazac) koji se nalazi u Prilogu II. koji je otisnut uz ovaj Pravilnik i čini njegov sastavni dio.«
