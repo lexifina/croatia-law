@@ -1,0 +1,6 @@
+# Članak 58.
+(1) Razmatranje i vrednovanje natječajnih prijava u kategoriji poticanja razvoja projekata videoigara te proizvodnje videoigara obavlja/ju umjetnički savjetnik/ci za razvoj projekata i proizvodnju videoigara kojeg/koje imenuje AV Vijeće na prijedlog ravnatelja poglavito iz reda uglednih proizvođača i autora videoigara s potvrđenim znanjem i iskustvom u području dizajna videoigara i proizvodnje.
+(2) Pri razmatranju i vrednovanju projekata u obje potkategorije ocjenjuje se:
+- kvalitetna i profesionalno pripremljena prijava (kvaliteta koncepcije igre ili skraćenog dokumenta dizajna videoigre u kategoriji razvoja projekta / dokument dizajna videoigre u kategoriji proizvodnje videoigre; igrivost, inovativnost, izvedivost projekta, suvremenost i/ili relevantnost teme za hrvatsku audiovizualnu umjetnost)
+- uspjesi posljednje videoigre glavnog autora, kao i njegov cjelokupan opus, uvjerljivost i originalnost njegove koncepcije te stručne procjene da će autor biti sposoban umjetnički i operativno uspješno realizirati prijavljeni projekt
+- uspjesi producentovih recentnih projekata, cjelokupni opus producenta, pridržavanje ugovornih obveza potpisanih s Centrom, sudionicima u projektima te relevantnim međunarodnim institucijama i organizacijama; procjena da će producent i producentska tvrtka biti sposobni realizirati predloženi projekt.

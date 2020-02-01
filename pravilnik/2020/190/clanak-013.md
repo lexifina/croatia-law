@@ -1,0 +1,4 @@
+# Članak 13.
+(1) Potpora koja se dodjeljuje temeljem ovog Pravilnika je bespovratna i zbraja se s bilo kojom drugom državnom potporom dodijeljenoj korisniku za isti projekt. Pri izračunu intenziteta potpore audiovizualnog djela uzimaju se u obzir potpore dodijeljene audiovizualnom djelu u svim natječajnim kategorijama.
+(2) U slučaju dodjele de minimis potpore, ukupna de minimis potpora koja se dodjeljuje ne smije premašivati iznos od 200.000,00 EUR u kunskoj protuvrijednosti tijekom razdoblja od tri fiskalne godine, uzimajući u obzir sve dodijeljene potpore male vrijednosti koje je podnositelj ostvario u tom razdoblju od ostalih davatelja državne potpore, neovisno o njihovoj razini.
+(3) Centar će sredstva osigurana za financiranje odobrenih projekata doznačiti na bankovni račun nositelja projekta ili namjenski depozitni račun otvoren u poslovnoj banci u Republici Hrvatskoj dinamikom isplate definiranom po pojedinim natječajnim kategorijama.

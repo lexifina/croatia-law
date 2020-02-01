@@ -1,0 +1,8 @@
+## Kriteriji za dodjelu potpore
+# Članak 45.
+Pri razmatranju i vrednovanju prijavljenih projekata ocjenjuje se potencijal ideje, ostvarivost projekta i umjetnička relevantnost. Projekti se vrednuju prema sljedećim kriterijima, ovim redoslijedom važnosti:
+1. A. U grupi dugometražnih igranih filmova: Kvalitetan i profesionalno napisan scenarij (kvaliteta dijaloga, uvjerljivi likovi i vještina pričanja priče, suvremenost i/ili relevantnost teme za hrvatsku audiovizualnu umjetnost);
+B. U grupi dugometražnih dokumentarnih filmova: Kvalitetan i profesionalno napisan scenarij (iscrpan istraživački rad, kreativan i odgovoran pristup temi i protagonistima dokumentarnog filma, suvremenost i/ili relevantnost teme za hrvatsku audiovizualnu umjetnost);
+C. U grupi animiranih filmova: Kvalitetan i profesionalno napisan scenarij (uvjerljivi likovi, vještina pripovijedanja odnosno vizualizacije ideja, sinergija slike, pokreta i priče, razrađeni dijalozi i pozadinska naracija ondje gdje se koriste, suvremenost i/ili relevantnost teme za hrvatsku audiovizualnu umjetnost);
+2. uvjerljivost i originalnost redateljske koncepcije te stručne procjene da će redatelj biti sposoban umjetnički i operativno uspješno realizirati prijavljeni razvoj projekta te kvaliteta redateljevog cjelokupnog opusa;
+3. Uspjesi producentovih recentnih projekata, cjelokupan opus producenta i producentske kuće koja prijavljuje projekt, pridržavanje ugovornih obveza potpisanih s Centrom, sudionicima u projektima te relevantnim međunarodnim institucijama i organizacijama, procjena da će producent i njihova producentska tvrtka biti sposobni realizirati predloženi razvoj projekta.

@@ -1,0 +1,1 @@
+Na temelju članka 8. stavka 6. Zakona o audiovizualnim djelatnostima (»Narodne novine«, broj 61/18) ravnatelj Hrvatskog audiovizualnog centra uz prethodnu suglasnost Hrvatskog audiovizualnog vijeća i ministrice kulture, donosi
