@@ -1,0 +1,17 @@
+## Pojmovi
+# Članak 3.
+Pojmovi koji se koriste u ovom Pravilniku imaju sljedeće značenje:
+1) Bunker svjedodžba je svjedodžba o osiguranju ili drugom financijskom jamstvu o građanskoj odgovornosti za štetu zbog onečišćenja pogonskim uljem koja se izdaje sukladno odredbama članka 7. Međunarodne konvencije o građanskoj odgovornosti za štetu zbog onečišćenja pogonskim uljem iz 2001. godine i odredbama Pomorskog zakonika
+2) CFR broj je jedinstveni identifikacijski broj koji se dodjeljuje svakom plovnom objektu koje je upisan u Registar ribarske flote Republike Hrvatske koji se vodi pri ministarstvu nadležnom za ribarstvo
+3) CLC svjedodžba je svjedodžba o osiguranju ili drugom financijskom jamstvu o građanskoj odgovornosti za štetu zbog onečišćenja uljem koja se izdaje sukladno odredbama članka VII Međunarodne konvencije o građanskoj odgovornosti za štetu zbog onečišćenja uljem iz 1992. godine i odredbama Pomorskog zakonika
+4) elektronička oglasna ploča upisnika brodova je mjesto na internetskim stranicama Ministarstva na kojem se objavljuju rješenja o upisu sukladno Pomorskom zakoniku, ovom Pravilniku i zakonu kojim se određuju pravila općeg upravnog postupka, a po potrebi se mogu objaviti i druge obavijesti i isprave
+5) IMO broj je identifikacijski broj koji u skladu s Međunarodnom konvencijom o sigurnosti na moru, 1974. (SOLAS 74) s dopunama, mora biti dodijeljen brodu, vlasniku broda, brodaru ili kompaniji
+6) JOP je jedinstvena oznaka pismena u centralnom informacijskom sustavu za elektroničko uredsko poslovanje Ministarstva
+7) konvencije su: Međunarodna konvencija o zaštiti ljudskog života na moru iz 1974. (SOLAS 1974), Međunarodna konvencija o teretnim linijama iz 1966. (LL 66), Međunarodna konvencija o baždarenju brodova iz 1969. i Međunarodna konvencija o sprečavanju onečišćenja s brodova iz 1973. kako je izmijenjena pripadajućim Protokolom iz 1978. (MARPOL 73/78), kako su izmijenjene i dopunjene te odgovarajući kodeksi obvezujućeg statusa usvojeni unutar Međunarodne pomorske organizacije zajedno s protokolima i njihovim izmjenama, kako su izmijenjeni i dopunjeni
+8) Ministarstvo je ministarstvo nadležno za pomorstvo
+9) MMSI (Maritime Mobile Service Identity) je identifikacijski broj pomorske mobilne postaje
+10) NIB (Nacionalni identifikacijski broj) je jedinstveni identifikacijski broj koji se dodjeljuje brodu, odnosno brodu u gradnji u trenutku upisa u upisnik brodova
+11) novi brod jeste brod koji nije bio upisana u hrvatski ili strani upisnik brodova ili se nije koristio u zemlji u kojoj nije podlijegao obvezi upisa u upisnik
+12) PLR (Athens) svjedodžba je svjedodžba o osiguranju ili drugom financijskom jamstvu u pogledu odgovornosti za smrt i tjelesnu ozljedu putnika koja se izdaje sukladno odredbama Uredbe (EZ) br. 392/2009 Europskog parlamenta i Vijeća od 23. travnja 2009. o odgovornosti prijevoznika u prijevozu putnika morem u slučaju nesreća, članka 4.a Atenske konvencije o prijevozu putnika i njihove prtljage morem iz 1974. godine i Protokola iz 2002. godine uz Konvenciju i odredbama Pomorskog zakonika
+13) postojeći brod jeste brod koji je upisan ili je bio upisan u hrvatski ili strani upisnik brodova ili se koristio u zemlji u kojoj nije podlijegao obvezi upisa u upisnik
+14) Wreck svjedodžba je svjedodžba o osiguranju ili drugom financijskom jamstvu u vezi s odgovornošću za uklanjanje podrtina koja se izdaje sukladno odredbama članka 12. Međunarodne konvencije o uklanjanju podrtina iz Nairobija iz 2007. godine i odredbama Pomorskog zakonika.

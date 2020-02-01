@@ -1,0 +1,1 @@
+Na temelju članka 186. stavka 4., članka 191. stavka 3. i članka 195. stavka 6. Pomorskog zakonika (»Narodne novine«, broj 181/04, 76/07, 146/08, 61/11, 56/13, 26/15 i 17/19), ministar mora, prometa i infrastrukture donosi

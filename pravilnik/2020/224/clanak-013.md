@@ -1,0 +1,9 @@
+## Vlasništvo porivnog uređaja
+# Članak 13.
+(1) Porivni uređaj iz članka 12. stavka 3. točka 1. broda i broda u gradnji smatra se njegovim pripatkom. Ostali porivni uređaji se ne smatraju pripatkom broda i broda u gradnji.
+(2) Prijenos ili otuđenje broda i broda u gradnji uvijek obuhvaća i porivni uređaj iz članka 12. stavka 3. točka 1., a ostale porivne uređaje istog objekta samo ukoliko su ugovorne strane tako ugovorile ili tako proizlazi iz druge isprave na temelju koje se mijenja vlasništvo.
+(3) Prijenos ili otuđenje broda i broda u gradnji ne obuhvaća i porivni uređaj različit od onog iz članka 12. stavka 3. točka 1., osim ukoliko ugovorne strane nisu drugačije ugovorile ili tako proizlazi iz druge isprave na temelju koje se mijenja vlasništvo. U tom slučaju, nadležna lučka kapetanija će, istim rješenjem kojim dopušta upis promjene vlasništva, po službenoj dužnosti najprije obrisati porivni uređaj koji nije predmet pravnog posla iz uloška u kojem je upisan predmetni brod odnosno brod u gradnji, a potom dopustiti upis promjene vlasništva na brodu odnosno brodu u gradnji.
+(4) Nije dopuštena zabilježba u upisniku brodova da porivni uređaj broda odnosno broda u gradnji pripada drugoj fizičkoj ili pravnoj osobi.
+(5) Svaki porivni uređaj može biti upisan samo u jedan uložak upisnika brodova.
+(6) Ukoliko se vlasništvo porivnog uređaja upisanog u upisnik brodova stječe na temelju pravnog posla, pravni posao mora biti sklopljen u pisanoj formi sa ovjerenim potpisom osobe čije se pravo prenosi.
+(7) Opterećenje, ovršni postupak i privremene mjere na brodu i brodu u gradnji uvijek obuhvaćaju porivni uređaj iz članka 12. stavka 2. točka 1. ako je upisan, a pomoćne i rezervne porivne uređaje samo ukoliko su ugovorne strane tako ugovorile ili je odlukom o sudskoj prisilnoj hipoteci, odlukom o ovrsi odnosno odlukom o privremenoj mjeri tako određeno.

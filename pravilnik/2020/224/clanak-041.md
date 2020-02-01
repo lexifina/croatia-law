@@ -1,0 +1,4 @@
+## Prvi upis plutajućeg i nepomičnog odobalnog objekta
+# Članak 41.
+(1) Zahtjevu za prvi upis novog, odnosno postojećeg plutajućeg objekta ili nepomičnog odobalnog objekta, osim isprava i dokumenta iz članka 37., odnosno članka 38. ovog Pravilnika, potrebno je priložiti ugovor o koncesiji na pomorskom dobru s preslikom lokacijske dozvole ili preslikom izvatka iz detaljnog plana uređenja (tekstualni dio odredbi za provođenje i grafički prikaz), kada je podnositelj zahtjeva ovlaštenik koncesije na pomorskom dobru.
+(2) Iz priloženih isprava iz stavka 1. ovog članka mora biti vidljivo da podnositelj zahtjeva upravlja područjem na kojem se plutajući objekt ili nepomični odobalni objekt postavlja te da je postavljanje plutajućeg objekta ili nepomičnog odobalnog objekta planirano lokacijskom dozvolom ili detaljnim planom uređenja.

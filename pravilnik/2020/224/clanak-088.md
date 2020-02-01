@@ -1,0 +1,3 @@
+## Postojeće oznake pomorskih objekata
+# Članak 88.
+Oznaka broda, plutajućeg objekta i nepomičnog odobalnog objekta dodijeljena sukladno Pravilniku o načinu, uvjetima i postupku određivanja, označavanja i vođenja evidencije imena i oznaka pomorskih objekata (»Narodne novine«, broj 124/15) kao i oznaka brodice dodijeljena sukladno Pravilniku o brodicama i jahtama (»Narodne novine« br. 27/05, 57/06, 80/07, 3/08, 18/09, 56/10, 97/12, 137/13, 18/16, 72/17 i 8/20) može se koristiti i dalje, a promijenit će se sukladno odredbama ovog Pravilnika u slučaju promjene luke upisa, namjene ili vrste pomorskog objekta.

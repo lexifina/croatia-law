@@ -1,0 +1,4 @@
+## Opunomoćenici stranih vlasnika
+# Članak 93.
+(1) Opunomoćenici stranih fizičkih i pravnih osoba, vlasnika brodica ili jahti koji su upisani u upisnike jahti i očevidnike brodica koji su se sukladno odredbama Pomorskog zakonika vodili do 31. prosinca 2019. godine, stupanjem na snagu ovog Pravilnika, upisat će se po službenoj dužnosti u pomoćni popis upisnika brodova: Imenik opunomoćenika.
+(2) Prilikom podnošenja zahtjeva za upis bilo koje vrste u upisnik brodova, nakon stupanja na snagu ovog Pravilnika, osim zahtjeva za brisanje iz upisnika, strane fizičke i pravne osobe vlasnici brodica ili jahti dužni su uz zahtjev za upis dostaviti i punomoć iz članka 26. ovog Pravilnika, kada nemaju upisanog opunomoćenika ili imaju upisanog opunomoćenika na temelju punomoći za primanje pismena odnosno na temelju neke druge punomoći koja ne obuhvaća opseg punomoći iz članka 26. ovog Pravilnika.
