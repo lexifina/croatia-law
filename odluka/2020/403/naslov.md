@@ -1,0 +1,1 @@
+Odluka o postavljanju izvanredne i opunomoćene veleposlanice Republike Hrvatske u Rumunjskoj i za izvanrednu i opunomoćenu veleposlanicu Republike Hrvatske u Republici Moldovi, sa sjedištem u Bukureštu
