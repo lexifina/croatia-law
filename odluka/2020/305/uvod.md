@@ -1,0 +1,1 @@
+Na temelju članka 12. stavka 2. Zakona o sustavu strateškog planiranja i upravljanja razvojem Republike Hrvatske (»Narodne novine«, broj 123/17) i članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/11, 119/14, 93/16 i 116/18), Vlada Republike Hrvatske je na sjednici održanoj 6. veljače 2020. godine donijela
