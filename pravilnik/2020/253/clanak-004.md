@@ -1,0 +1,6 @@
+# Članak 4.
+U članku 20. stavak 3. mijenja se i glasi:
+»(3) Ako u Republici Hrvatskoj ne postoji kapacitet za obradu pojedinog otpadnog ambalažnog materijala ili ostataka nakon obrade otpadne ambalaže, obrađivač je dužan ostatke od obrade otpadne ambalaže izvoziti iz Republike Hrvatske o vlastitom trošku, a sakupljač je dužan takvu otpadnu ambalažu izvoziti iz Republike Hrvatske na oporabu postupkom iz članka 20. stavka 2. ovoga Pravilnika, pri čemu će Fond snositi troškove sakupljača za izvoz takve otpadne ambalažu ako je izvoz obavljen u skladu s prethodnom suglasnosti koju je sakupljaču obvezan izdati Fond. Fond je dužan izvijestiti Ministarstvo o izdanim suglasnostima i razlozima izvoza.«
+Iza stavka 4. dodaju se stavci 5. i 6. koji glase:
+»(5) Fond obavlja izračun ukupne vrijednosti otpadne ambalaže, odnosno ukupnog troška obrade otpadne ambalaže po vrsti materijala na temelju podataka iz Obrasca AO5 iz Priloga IX., Obrasca AO6 iz Priloga X. i Obrasca AO7 iz Priloga XI. ovoga Pravilnika te naplaćuje obrađivaču preuzetu otpadnu ambalažu, odnosno plaća obrađivaču za pokriće troškova obrade.
+(6) Cijenu za preuzetu otpadnu ambalažu i iznos koji Fond plaća obrađivaču utvrđuje i ugovara Fond u posebnom postupku, za razdoblje od jedne godine ili kraće razdoblje, uzimajući u obzir tržišne cijene kao i troškove oporabe i zbrinjavanja otpadne ambalaže.«
