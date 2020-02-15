@@ -1,2 +1,0 @@
-# Članak 77.
-Točke osnovne GNSS mreže (državna mreža referentnih GNSS stanica CROPOS, referentna mreža 0. i 1. reda) moraju se s obzirom na promjene do kojih dolazi uslijed pomaka Zemljine kore, drugih geodinamičkih pojava i promjena referentnih GNSS koordinatnih sustava, kao i u svrhu provjere državnog referentnog koordinatnog sustava u pravilnim vremenskim intervalima kontrolirati ponovljenim mjerenjima svakih nekoliko godina.
