@@ -1,0 +1,5 @@
+# Članak 6.
+(1) Postavljanje posebnih obavijesnih ploča i signalizacija u blizini granične crte, na prometnicama i drugim komunikacijama, kojima se upozorava na približavanje graničnoj crti, propisano je posebnim zakonom kojim se uređuje nadzor državne granice.
+(2) Postavljanje posebnih obavijesnih ploča i signalizacija u blizini granične crte iz stavka 1. ovoga članka, obavlja Državna geodetska uprava na prijedlog ministarstva nadležnog za unutarnje poslove (granična policija).
+(3) Oblik, dimenzije, vizualni identitet, sadržaj znakovlja i teksta na posebnim obavijesnim pločama uređen je posebnim propisom kojim se uređuje oblik, sadržaj i način postavljanja propisanih oznaka i signalizacije na graničnom prijelazu kojeg donosi ministar nadležan za unutarnje poslove.
+(4) Ministarstvo nadležno za unutarnje poslove i Državna geodetska uprava usuglašavaju jedinstvene identifikacijske oznake posebnih obavijesnih ploča na način da sadrže akronim policijske uprave, redni broj posebne obavijesne ploče i akronim granične postaje.
