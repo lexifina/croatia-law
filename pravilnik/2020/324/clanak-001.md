@@ -1,0 +1,2 @@
+# Članak 1.
+U Pravilniku o uvjetima za obavljanje funkcije člana uprave i člana nadzornog odbora društva za osiguranje odnosno društva za reosiguranje, prokurista društva za osiguranje odnosno društva za reosiguranje i ovlaštenog zastupnika podružnice društva za osiguranje odnosno društva za reosiguranje (»Narodne novine« br. 72/19) u članku 9. stavku 1. i 2. riječi »članka 2. stavka 2. točke 1« zamjenjuju se riječima »članka 2. stavka 1. točke 1«.

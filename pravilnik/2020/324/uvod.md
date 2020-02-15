@@ -1,0 +1,1 @@
+Na temelju članka 51. stavka 7., članka 52. stavka 7., članka 59. stavka 5. i članka 62. stavka 9. Zakona o osiguranju (»Narodne novine«, broj 30/15 i 112/18) Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća 16. siječnja 2020. donijela je
