@@ -1,0 +1,2 @@
+# Članak 17.
+Za čuvanje digitalne i analogne dokumentacije i podataka iz članka 1. stavka 1. ovoga Pravilnika potrebno je, radi njihove trajne zaštite, u prostorijama Državne geodetske uprave, područnih ureda za katastar, odjela izvan sjedišta područnog ureda i ispostavama, ureda Grada Zagreba i središnje pismohrane ili regionalnim pismohranama za pohranu arhivskog gradiva (depo), osigurati primjeren prostor, uvjete i opremu za smještaj.
