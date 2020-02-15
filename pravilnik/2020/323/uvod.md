@@ -1,0 +1,1 @@
+Na temelju članka 221. stavka 3. Zakona o alternativnim investicijskim fondovima (»Narodne novine« broj 21/2018 i 126/2019, dalje: Zakon), na sjednici Upravnog vijeća održanoj 16. siječnja 2020. godine donijela je
