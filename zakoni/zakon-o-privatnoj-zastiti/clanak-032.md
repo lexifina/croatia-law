@@ -1,0 +1,2 @@
+# Članak 32.
+Osobe koje su završile srednjoškolsko obrazovanje za zanimanje zaštitar osoba i imovine, osobe koje su stekle zanimanje policajac ili pravosudni policajac, osobe koje su stekle stručni naziv stručni pristupnik kriminalistike, stručni prvostupnik kriminalistike ili stručni specijalist kriminalistike, djelatne vojne osobe i policijski službenici ne moraju polaziti izobrazbu za čuvare i zaštitare, ali su dužne položiti stručni ispit.

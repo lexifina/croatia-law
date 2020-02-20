@@ -1,0 +1,4 @@
+# Članak 33.
+(1) Poslodavac je dužan zaštitarima specijalistima koji su dobili dopuštenje za obavljanje poslova privatne zaštite, radi provjere osposobljenosti, osigurati provjeru ocjenskog gađanja najmanje dva puta godišnje, a zaštitarima najmanje jednom godišnje, prema programu koji je propisan pravilnikom o izobrazbi osoba za obavljanje poslova tjelesne zaštite te programu i načinu polaganja ispita.
+(2) Poslodavac je dužan zaštitaru i zaštitaru specijalistu koji ne zadovolje na provjeri ocjenskog gađanja osigurati ponovnu provjeru u roku od mjesec dana od dana zadnje provjere.
+(3) Pravna osoba, unutarnja služba zaštite i obrtnik dužni su izvijestiti Ministarstvo u roku od osam dana od dana provedene periodičke provjere ocjenskog gađanja te o tome dostaviti dokaz, sukladno odredbama pravilnika iz stavka 1. ovoga članka.

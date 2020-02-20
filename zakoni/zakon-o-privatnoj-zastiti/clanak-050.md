@@ -1,0 +1,8 @@
+# Članak 50.
+(1) Kada se unutar štićene zone počini kazneno djelo i prekršaj ili nastupi drugi događaj povodom kojega je potrebno izravnim opažanjem utvrditi ili razjasniti činjenice, čuvar, zaštitar i zaštitar specijalist dužni su osigurati mjesto događaja do dolaska policije.
+(2) Zaštitar i zaštitar specijalist mogu, u slučaju iz stavka 1. ovoga članka, privremeno ograničiti slobodu kretanja osobi za koju procijene da može dati obavijesti važne za razjašnjavanje događaja.
+(3) Čuvar može, u slučaju iz stavka 1. ovoga članka, osobi za koju procijeni da može dati obavijesti važne za razjašnjavanje događaja narediti da ne napušta mjesto događaja do dolaska policije, a ako osoba ne postupi sukladno naredbi, čuvar će o tome odmah obavijestiti zaštitara, zaštitara specijalista ili dojavni centar.
+(4) O primjeni ovlasti iz stavka 1. ovoga članka i razlozima za to čuvar, zaštitar i zaštitar specijalist bez odgode će na pogodan način izvijestiti policiju, nakon čega će postupiti po zapovijedi policije.
+(5) Čuvar, zaštitar i zaštitar specijalist dužni su pri osiguranju mjesta događaja postupati tako da zaštite i sačuvaju tragove izvršenja kaznenog djela ili prekršaja, osigurati da ne nastupe promjene zatečenog stanja i o tome moraju odmah izvijestiti policiju.
+(6) Čuvar, zaštitar i zaštitar specijalist dužni su nakon dolaska policije podnijeti usmeno izvješće o zatečenom stanju i činjenicama na mjestu događaja, poduzetim radnjama, promjenama na mjestu događaja, privremeno zadržanim ili preuzetim predmetima i podacima o osobama koje su zatečene ili osobama kojima je privremeno ograničena sloboda kretanja.
+(7) Privremeno zadržane ili preuzete predmete čuvar, zaštitar i zaštitar specijalist dužni su odmah predati policiji.

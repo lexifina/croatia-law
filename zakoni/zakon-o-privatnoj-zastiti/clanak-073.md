@@ -1,0 +1,3 @@
+# Članak 73.
+(1) Prilikom ugradnje elemenata, uređaja i sustava tehničke zaštite moraju se primijeniti odredbe propisa kojima se uređuje područje zahtjeva za proizvode i ocjenu sukladnosti, kao i tehnička dopuštenja za građevne i druge proizvode, što podrazumijeva obvezu izdavanja certifikata o sukladnosti, uvjerenja o kakvoći i tehničkih dopuštenja za proizvode stavljene na tržište Republike Hrvatske.
+(2) Pravne osobe i obrtnici koji izvode tehničku zaštitu te vlasnici ili korisnici ugrađenih uređaja ili sustava tehničke zaštite dužni su čuvati sve dokumente tehničke zaštite i voditi evidenciju o svim izrađenim kopijama na način propisan pravilnikom o provedbi tehničke zaštite.

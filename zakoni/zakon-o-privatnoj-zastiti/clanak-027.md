@@ -1,0 +1,3 @@
+# Članak 27.
+(1) Ministar nadležan za poslove zdravstva, uz prethodnu suglasnost ministra, donosi pravilnik o mjerilima i načinu utvrđivanja opće i posebne zdravstvene sposobnosti za čuvare, zaštitare, zaštitare specijaliste, zaštitare tehničare i zaštitare IPU-e te načinu osnivanja, sastavu i načinu rada drugostupanjskog zdravstvenog povjerenstva.
+(2) Ministar nadležan za poslove zdravstva rješenjem određuje zdravstvene ustanove, trgovačka društva koja obavljaju djelatnost medicine rada i ordinacije medicine rada / medicine rada i sporta u privatnoj praksi za utvrđivanje zdravstvene sposobnosti osoba iz stavka 1. ovoga članka, o čemu obvezno izvješćuje Ministarstvo.

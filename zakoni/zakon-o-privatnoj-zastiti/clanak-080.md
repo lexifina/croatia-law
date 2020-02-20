@@ -1,0 +1,6 @@
+## ODJELJAK 8. DOJAVNI CENTAR
+# Članak 80.
+(1) Ako pravna osoba ili obrtnik koji ima odobrenje za obavljanje djelatnosti privatne zaštite zaprima signale sa sustava tehničke zaštite i dojave putem sredstava komunikacije u svrhu pružanja intervencija po dojavnom signalu, dužan je ustrojiti jedan ili više dojavnih centara.
+(2) Signali s javljača mogu biti proslijeđeni i u dojavni centar pravne osobe ili obrtnika izvan Republike Hrvatske, koji o zaprimljenu signalu mora izvijestiti pravnu osobu u Republici Hrvatskoj s kojom ima sklopljen ugovor o pružanju intervencije, na način da o dojavi za intervenciju postoji autentičan audiozapis te ostali podaci provjerljivi u pravnoj osobi koja pruža intervenciju (datum i vrijeme zaprimanja signala, vrijeme reakcije, vrijeme izlaska interventnog tima, vrijeme dolaska na objekt, izvješće o intervenciji i dr.).
+(3) Dojavni centar mogu ustrojiti i pravna osoba i obrtnik koji imaju ustrojenu unutarnju službu zaštite za pružanje intervencije na objektima i površinama koje štite.
+(4) Uređaji i sustavi tehničke zaštite mogu biti spojeni i na dojavni centar trgovačkog društva za tehničku zaštitu ili obrta tehničke zaštite radi uspostave centralnog tehničkog nadzora (CTN) odnosno intervencije u slučajevima tehničkih kvarova.

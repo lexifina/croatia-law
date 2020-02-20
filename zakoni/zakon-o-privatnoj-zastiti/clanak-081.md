@@ -1,0 +1,5 @@
+# Članak 81.
+(1) Dojavni centar mora zadovoljavati prostorno-tehničke i druge uvjete propisane pravilnikom kojim se uređuju uvjeti koje moraju ispunjavati prostori u kojima se obavlja djelatnost privatne zaštite.
+(2) U dojavnom centru CDS-a rukovanje sustavima dojave mora obavljati osoba operater koji ima dopuštenje Ministarstva za obavljanje poslova privatne zaštite. U operativnom centru CTN-a rukovanje sustavima dojave može obavljati osoba koja je zadužena i osposobljena za rad sukladno radnim procedurama pravne osobe i obrtnika.
+(3) Prilikom zaprimanja dojave sa štićenog objekta, prostora ili štićene površine operater je dužan odmah izvijestiti policiju o svim saznanjima koja upućuju na kazneno djelo ili na počinitelja kaznenog djela i dati druge informacije korisne za postupanje policije. Po izvješćivanju policije operater je dužan uputiti interventni tim te izvijestiti službenu osobu poslodavca.
+(4) Operativni postupci pružanja intervencije, kao i uvjeti za rad nadzornih i alarmnodojavnih centara i procedure rada nakon primanja alarmne dojave propisuju se pravilnikom o provedbi tjelesne zaštite.

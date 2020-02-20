@@ -1,0 +1,6 @@
+# Članak 39.
+(1) Pravne osobe i obrtnici smiju koristiti samo oružje koje je u njihovu vlasništvu, a unutarnje službe zaštite oružje koje je u vlasništvu pravne osobe ili obrta u kojima su ustrojeni.
+(2) Oružje i streljivo moraju se čuvati čisto i u ispravnom stanju u priručnom skladištu oružja, uređenom sukladno pravilniku kojim se uređuju prostorni i tehnički uvjeti koje mora ispunjavati poslovni prostor u kojem se obavlja djelatnost privatne zaštite.
+(3) Nedostupnost neovlaštenim osobama mora se osigurati tako da se oružje i streljivo čuvaju u zaključanom ormaru ili sefu, kao i primjenom drugih mjera zaštite.
+(4) Ormar ili sef u kojem se smješta oružje i streljivo, ako svojom težinom ne ostvaruje uvjet neotuđivosti, mora se mehanički pričvrstiti za podlogu ili smjestiti u posebnu prostoriju ili spremište s mehaničkim zaključavanjem.
+(5) Pravna osoba, unutarnja služba zaštite i obrtnik koji pri obavljanju poslova tjelesne zaštite koriste vatreno oružje izvan područja registriranog sjedišta i poslovnog prostora u kojem se obavlja djelatnost privatne zaštite moraju osigurati prostorno-tehničke uvjete za siguran smještaj oružja i streljiva, sukladno pravilniku kojim se uređuju prostorni i tehnički uvjeti koje mora ispunjavati poslovni prostor u kojem se obavlja djelatnost privatne zaštite.

@@ -1,0 +1,4 @@
+# Članak 41.
+(1) Ako više ne pružaju zaštitu osoba i imovine oružjem odnosno ako više ne posjeduju vatreno oružje, pravna osoba, unutarnja služba zaštite i obrtnik moraju o tome izvijestiti Ministarstvo u roku od 24 sata.
+(2) Ako pravna osoba, unutarnja služba zaštite i obrtnik više ne pružaju zaštitu osoba i imovine oružjem ili prestanu obavljati djelatnost tjelesne zaštite, a posjeduju vatreno oružje, moraju postupiti sukladno posebnom propisu kojim se uređuje držanje, nošenje i korištenje vatrenog oružja te obavijestiti nadležno tijelo radi daljnjeg postupka u rokovima propisanim posebnim propisom.
+(3) Pravna osoba, unutarnja služba zaštite i obrtnik dužni su izvijestiti Ministarstvo u roku od tri dana u slučaju promjene uvjeta za čuvanje oružja izvan poslovnog prostora u kojem se obavlja djelatnost privatne zaštite.

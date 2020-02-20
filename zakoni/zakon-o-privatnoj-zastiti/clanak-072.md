@@ -1,0 +1,3 @@
+# Članak 72.
+(1) Tehnički prijam štićenih objekata obavlja ovlašteni predstavnik vlasnika ili korisnika objekta odnosno javne i druge površine i izvođača, a za objekte iz I. i II. kategorije i javne površine I. kategorije i uz nadzor nadzornog inženjera.
+(2) Pri ugradnji ili zamjeni pojedinačnih elemenata sustava ili pojedinačnih uređaja u objekte ili na javne površine i njihovu servisiranju ne provodi se postupak tehničkog prijma, nego izvođač korisniku izdaje presliku radnoga naloga koji sadrži opis izvedenih poslova i zaključak kojim se potvrđuje ispravnost i funkcionalnost ugrađenih elemenata ili uređaja.
