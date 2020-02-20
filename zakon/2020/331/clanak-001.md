@@ -1,0 +1,3 @@
+# Članak 1.
+U Zakonu o provedbi uredbi Europske unije o prometu drva i proizvoda od drva (»Narodne novine«, br. 25/18.) u članku 2. iza podstavka 4. briše se točka i dodaje se podstavak 5. koji glasi:
+» - Uredbe (EU) 2019/1010 Europskog parlamenta i Vijeća od 5. lipnja 2019. o usklađivanju obveza izvješćivanja u području zakonodavstva povezanoga s okolišem te o izmjeni uredaba (EZ) br. 166/2006 i (EU) br. 995/2010 Europskog parlamenta i Vijeća, direktiva 2002/49/EZ, 2004/35/EZ, 2007/2/EZ, 2009/147/EZ i 2010/63/EU Europskog parlamenta i Vijeća, uredaba Vijeća (EZ) br. 338/97 i (EZ) br. 2173/2005 te Direktive Vijeća 86/278/EEZ (SL L 170/115, 25. 6. 2019.); (u daljnjem tekstu: Uredba (EU) 2019/1010).«.
