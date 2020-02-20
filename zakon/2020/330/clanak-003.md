@@ -1,0 +1,12 @@
+# Članak 3.
+U članku 4. stavci 1., 2. i 3. mijenjaju se i glase:
+»(1) Hrvatska narodna banka nadležno je tijelo za nadzor nad primjenom Uredbe (EZ) br. 924/2009, Uredbe (EU) br. 260/2012, Uredbe (EU) 2015/751 i odredaba članaka 5., 6. i 7. ovoga Zakona od strane kreditnih institucija, institucija za elektronički novac, malih institucija za elektronički novac, institucija za platni promet i malih institucija za platni promet osnovanih u Republici Hrvatskoj, podružnica koje su kreditne institucije i institucije za elektronički novac iz trećih država osnovale u Republici Hrvatskoj i upravitelja platnih sustava sa sjedištem u Republici Hrvatskoj.
+(2) Ako kreditne institucije, institucije za elektronički novac i institucije za platni promet iz druge države članice pružaju platne usluge na području Republike Hrvatske preko podružnice ili zastupnika postavljenog u Republici Hrvatskoj na temelju prava na poslovni nastan, nadležno tijelo za nadzor nad primjenom Uredbe (EZ) br. 924/2009, Uredbe (EU) br. 260/2012, Uredbe (EU) 2015/751 i odredaba članaka 5. i 6. ovoga Zakona od strane podružnice odnosno zastupnika jest Hrvatska narodna banka.
+(3) Nadzor iz stavaka 1. i 2. ovoga članka provodi se u skladu s odredbama zakona kojima je uređeno poslovanje kreditnih institucija, institucija za elektronički novac, institucija za platni promet i upravitelja platnih sustava.«.
+U stavku 5. riječi: »osoba koje nisu pružatelji platnih usluga« zamjenjuju se riječima: »svih drugih obveznika njezine primjene«.
+Iza stavka 5. dodaje se novi stavak 6. koji glasi:
+»(6) Tržišna inspekcija Državnog inspektorata provodi nadzor nad primjenom Uredbe (EZ) br. 924/2009 od strane obveznika njezine primjene koji nisu institucije iz stavka 1. ovoga članka, a koji u okviru svoje djelatnosti pružaju uslugu preračunavanja valuta na bankomatu ili na prodajnom mjestu.«.
+U dosadašnjem stavku 6., koji postaje stavak 7., riječi: »Hrvatska narodna banka i Financijski inspektorat Republike Hrvatske« zamjenjuju se riječima: »Hrvatska narodna banka, Financijski inspektorat Republike Hrvatske i Državni inspektorat«.
+U dosadašnjem stavku 7., koji postaje stavak 8., u uvodnoj rečenici riječi: »iz stavka 6.« zamjenjuju se riječima: »iz stavka 7.«.
+U točki 3. riječ: »zakonima« zamjenjuje se riječju: »propisima«.
+U dosadašnjim stavcima 8. i 9., koji postaju stavci 9. i 10., riječi: »iz stavka 7.« zamjenjuju se riječima: »iz stavka 8.«.

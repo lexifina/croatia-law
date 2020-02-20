@@ -1,0 +1,3 @@
+# Članak 1.
+U Zakonu o provedbi uredbi Europske unije iz područja platnog prometa (»Narodne novine«, br. 50/16.) u članku 2. točka 1. mijenja se i glasi:
+»1. Uredbe (EZ) br. 924/2009 Europskog parlamenta i Vijeća od 16. rujna 2009. o prekograničnim plaćanjima u Zajednici i stavljanju izvan snage Uredbe (EZ) br. 2560/2001 (tekst značajan za EGP) kako je posljednji put izmijenjena Uredbom (EU) 2019/518 Europskog parlamenta i Vijeća od 19. ožujka 2019. o izmjeni Uredbe (EZ) br. 924/2009 u pogledu određenih naknada za prekogranična plaćanja u Uniji i naknada za preračunavanje valuta (tekst značajan za EGP) (u daljnjem tekstu: Uredba (EZ) br. 924/2009)«.
