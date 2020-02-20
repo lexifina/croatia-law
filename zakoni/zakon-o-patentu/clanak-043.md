@@ -1,0 +1,6 @@
+## Međunarodno pravo prvenstva
+# Članak 43.
+(1) Osoba koja je podnijela urednu prijavu za bilo koji oblik zaštite izuma u nekoj ili za neku državu članicu Pariške unije ili državu članicu Svjetske trgovinske organizacije (u daljnjem tekstu: WTO), ili njezin pravni sljednik, uživa prilikom podnošenja prijave za zaštitu istog izuma u Republici Hrvatskoj pravo prvenstva tijekom razdoblja od 12 mjeseci od dana podnošenja prve prijave.
+(2) Urednom prijavom iz stavka 1. ovoga članka smatra se prijava čiji je dan podnošenja priznat u skladu s nacionalnim zakonodavstvom države članice Pariške unije ili članice WTO-a u kojoj je podnesena ili u skladu s međunarodnim ugovorom zaključenim između država članica, bez obzira na njezinu kasniju pravnu sudbinu.
+(3) Kasnija prijava čiji je predmet isti kao i predmet prve prijave koja je podnesena u istoj državi ili za istu državu smatra se prvom prijavom za potrebe utvrđivanja prava prvenstva, pod uvjetom da je na dan podnošenja kasnije prijave prva prijava odbijena, odbačena ili se od nje odustalo prije nego što je postala dostupna javnosti, da nije proizvela nikakve pravne učinke te da nije služila kao osnova za zahtijevanje prava prvenstva.
+(4) U slučaju iz stavka 3. ovoga članka prva prijava ne može više služiti kao osnova za zahtijevanje prava prvenstva.

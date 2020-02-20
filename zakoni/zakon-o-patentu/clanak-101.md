@@ -1,0 +1,4 @@
+## Ograničenje prava radi nesmetanog obavljanja međunarodnog prometa
+# Članak 101.
+(1) Uporaba predmeta proizvedenih prema zaštićenom izumu na plovilu neke od država članica Pariške unije ili članica WTO-a, u trupu plovila, strojevima, opremi, uređajima i drugim priborima ne smatra se povredom patenta kada se to plovilo privremeno ili slučajno nađe u vodama Republike Hrvatske, pod uvjetom da ugrađeni predmet služi isključivo za potrebe toga plovila.
+(2) Uporaba predmeta proizvedenih prema zaštićenom izumu u konstrukciji ili radu zrakoplova, kopnenoga vozila ili drugog prijevoznog sredstva koje pripada nekoj od država članica Pariške unije ili članica WTO-a ne smatra se povredom patenta kada se to prijevozno sredstvo privremeno ili slučajno nađe na teritoriju Republike Hrvatske, pod uvjetom da ugrađeni predmet služi isključivo za potrebe toga prijevoznog sredstva.

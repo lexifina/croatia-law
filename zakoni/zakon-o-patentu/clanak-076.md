@@ -1,0 +1,10 @@
+## Rješenje o registraciji uporabnog modela
+# Članak 76.
+(1) Ako Zavod utvrdi da prijava uporabnog modela ispunjava sve uvjete iz članka 74. stavka 1. ovoga Zakona, obavijestit će podnositelja prijave o pravnim posljedicama registracije uporabnog modela i dostaviti mu prijedlog konačnog sadržaja prijave za koju namjerava priznati uporabni model te ga pozvati da u roku od jednog mjeseca od dana primitka poziva podnese pisanu suglasnost na dostavljeni tekst ili zatraži pretvorbu prijave uporabnog modela u prijavu patenta.
+(2) Zavod prije donošenja rješenja o registraciji uporabnog modela poziva podnositelja prijave da u roku od jednog mjeseca od dana primitka poziva plati naknadu troškova za tiskanje objave podatka o registraciji uporabnog modela te izdavanje isprave o uporabnom modelu i spisa uporabnog modela.
+(3) Ako podnositelj prijave u roku plati troškove iz stavka 2. ovoga članka, smatrat će se da je suglasan s predloženim tekstom te Zavod donosi rješenje o registraciji uporabnog modela prema konačnom sadržaju prijave uporabnog modela koji je podnositelju dostavljen u smislu stavka 1. ovoga članka.
+(4) Ako podnositelj prijave uporabnog modela pravodobno dostavi Zavodu pisanu izjavu da nije suglasan s prijedlogom iz stavka 2. ovoga članka, obvezan je navesti razloge i Zavodu dostaviti izmijenjeni tekst patentnih zahtjeva.
+(5) Ako Zavod prihvati podnositeljeve razloge i izmijenjeni tekst patentnih zahtjeva iz stavka 4. ovoga članka, donosi rješenje o registraciji uporabnog modela prema tekstu patentnih zahtjeva koje je predložio podnositelj prijave.
+(6) Ako se razlozi koje podnositelj navodi ne mogu prihvatiti, Zavod u pisanom obliku o tome detaljno izvještava podnositelja i donosi rješenje o registraciji uporabnog modela prema konačnom tekstu patentnih zahtjeva kakav je dostavljen na suglasnost.
+(7) Ako podnositelj prijave u propisanom roku ne plati naknadu troškova iz stavka 2. ovoga članka, Zavod donosi rješenje o odbacivanju prijave uporabnog modela.
+(8) Podaci o registraciji uporabnog modela upisuju se u registar iz članka 22. ovoga Zakona.

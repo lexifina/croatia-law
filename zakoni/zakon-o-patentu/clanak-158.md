@@ -1,0 +1,3 @@
+# Članak 158.
+(1) Postupci pokrenuti do dana stupanja na snagu ovoga Zakona dovršit će se prema odredbama Zakona o patentu (»Narodne novine«, br. 173/03., 54/05., 87/05., 76/07., 30/09., 128/10., 49/11., 76/13. i 46/18.).
+(2) Podnositelji koji su Zavodu podnijeli prijavu patenta na temelju Zakona o patentu (»Narodne novine«, br. 173/03., 54/05., 87/05., 76/07., 30/09., 128/10., 49/11., 76/13. i 46/18.) mogu u roku od tri mjeseca od dana stupanja na snagu ovoga Zakona podnijeti zahtjev za pretvorbu prijave patenta u prijavu uporabnog modela iz članka 73. ovoga Zakona, pod uvjetom da prijava patenta na dan podnošenja zahtjeva za pretvorbu nije objavljena.

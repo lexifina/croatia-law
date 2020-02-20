@@ -1,0 +1,8 @@
+## Izvještaj o pretraživanju stanja tehnike
+# Članak 57.
+(1) Zavod izrađuje izvještaj o pretraživanju stanja tehnike za izum čija se zaštita zahtijeva na temelju patentnih zahtjeva, uzimajući u obzir opis izuma i crteže koji su uz njih podneseni u mjeri kojoj je potrebno te ga odmah prosljeđuje podnositelju prijave uz primjerke svih dokumenata koji se u izvještaju navode.
+(2) Ako tijekom izrade izvještaja iz stavka 1. ovoga članka utvrdi da nije moguće provesti pretraživanje stanja tehnike u odnosu na sve ili pojedine patentne zahtjeve jer prijava patenta ne ispunjava uvjete iz ovoga Zakona, Zavod će ili navesti u izjavi da nije u mogućnosti izvršiti pretraživanje ili će izraditi djelomični izvještaj o pretraživanju stanja tehnike u mjeri u kojoj je to moguće.
+(3) Ako tijekom izrade izvještaja iz stavka 1. ovoga članka utvrdi da prijava patenta ne ispunjava uvjete jedinstva izuma, Zavod će izraditi djelomični izvještaj o pretraživanju stanja tehnike koji se odnosi na izum ili na skupinu izuma u smislu članka 32. ovoga Zakona koji su prvi navedeni u patentnim zahtjevima.
+(4) Zavod će nakon izrade djelomičnog izvještaja iz stavka 3. ovoga članka obavijestiti podnositelja prijave da će izvještajem o pretraživanju biti obuhvaćeni i ostali izumi, pod uvjetom plaćanja dodatne pristojbe za pretraživanje za svaki obuhvaćeni izum u roku od dva mjeseca od dana primitka obavijesti.
+(5) Izjava ili djelomični izvještaj iz stavka 2. ovoga članka, kao i izvještaj izrađen na temelju stavka 3. ovoga članka smatrat će se izvještajem o pretraživanju tijekom daljnjeg postupka.
+(6) Čelnik Zavoda pravilnikom utvrđuje način izrade i sadržaj izvještaja o pretraživanju stanja tehnike.

@@ -1,0 +1,3 @@
+## Istodobna zaštita
+# Članak 127.
+Ako su europski patent u kojem je naznačena Republika Hrvatska i nacionalni patent koji imaju isti dan podnošenja ili isti dan prvenstva, ako je ono zahtijevano, priznati istoj osobi ili njezinu pravnom sljedniku, nacionalni patent nema učinak u opsegu u kojem pokriva isti izum kao i europski patent u kojem je naznačena Republika Hrvatska, od dana na koji je istekao rok za podnošenje prigovora protiv europskog patenta, a prigovor nije podnesen, ili od dana na koji je u postupku po prigovoru protiv europskog patenta donesena konačna odluka da europski patent ostaje na snazi.

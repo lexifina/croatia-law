@@ -1,0 +1,7 @@
+## Zahtijevanje prava prvenstva
+# Članak 44.
+(1) Podnositelj prijave za zaštitu izuma koji zahtijeva pravo prvenstva iz članka 43. ovoga Zakona mora Zavodu podnijeti izjavu o pravu prvenstva u kojoj se navode broj i dan podnošenja prve prijave i država odnosno međunarodna ili međuvladina organizacija u kojoj je ili za koju je prijava podnesena.
+(2) Izjava iz stavka 1. ovoga članka podnosi se Zavodu prilikom podnošenja prijave za zaštitu izuma, a najkasnije do isteka roka od dva mjeseca od dana podnošenja prijave.
+(3) Podnositelj prijave patenta može zahtijevati priznanje višestrukog prava prvenstva na temelju većega broja ranije podnesenih prijava bez obzira na to što one potječu iz različitih država članica Pariške unije ili članice WTO-a, pri čemu se rokovi koji prema ovom Zakonu počinju teći od dana priznatoga prava prvenstva računaju od najranijeg dana višestrukog prava prvenstva.
+(4) Podnositelj prijave koji zahtijeva pravo prvenstva Zavodu mora dostaviti prijepis prve prijave s ovjerom nadležnoga tijela države članice Pariške unije ili članice WTO-a u kojoj je ili za koju je prijava podnesena u roku od 16 mjeseci od najranijeg zahtijevanog dana prvenstva.
+(5) Ako prijava čije se prvenstvo zahtijeva nije na hrvatskom jeziku, a osnovanost zahtjeva za priznavanje prava prvenstva relevantna je za utvrđivanje patentibilnosti odnosnog izuma, Zavod može pozvati podnositelja prijave da dostavi prijevod te prijave na hrvatski jezik u roku od dva mjeseca od dana primitka poziva.
