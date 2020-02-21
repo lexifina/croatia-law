@@ -1,0 +1,2 @@
+# Članak 5.
+Ured za opće poslove Hrvatskoga sabora i Vlade Republike Hrvatske obavlja za potrebe Ureda pravne poslove, poslove upravljanja ljudskim potencijalima, poslove uredskog poslovanja, financijsko-računovodstvene poslove i poslove rukovanja imovinom, poslove koordiniranja financijskog planiranja, pripreme, kontrole i izvršenja proračuna te poslove strateškog planiranja, poslove javne nabave te poslove voznog parka, poslove izgradnje, implementacije i tehničkog održavanja telekomunikacijskog sustava, opreme i uređaja i djelomično informatičkih tehnologija.
