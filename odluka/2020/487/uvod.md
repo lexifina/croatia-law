@@ -1,0 +1,1 @@
+Na temelju članka 2. Uredbe o Uredu predsjednika Republike Hrvatske po prestanku obnašanja dužnosti (»Narodne novine«, broj 19/20) i članka 32. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/11, 119/14, 93/16 i 116/18), Vlada Republike Hrvatske je na sjednici održanoj 21. veljače 2020. godine donijela
