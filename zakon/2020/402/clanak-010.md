@@ -1,0 +1,3 @@
+# Članak 10.
+U članku 75. stavak 1. mijenja se i glasi:
+»(1) Investicijsko društvo dužno je voditi i čuvati evidencije i poslovnu dokumentaciju o svim uslugama, aktivnostima i transakcijama koje poduzima, pod uvjetima, na način i u opsegu propisanim ovim člankom, člancima 72. do 76. Uredbe (EU) br. 565/2017 i Prilozima IV. Uredbe EU br. 2017/565 i pravilnikom Agencije iz članka 76. stavka 7. ovoga Zakona, a koji način Agenciji omogućuje obavljanje nadzornih ovlasti i poduzimanje primjerenih mjera propisanih ovim Zakonom, Uredbom (EU) br. 600/2014 i Uredbom (EU) br. 596/2014 i pravilnicima donesenim na temelju njih.«.

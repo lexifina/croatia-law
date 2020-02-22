@@ -1,0 +1,3 @@
+# Članak 7.
+U članku 17. stavak 1. mijenja se i glasi:
+»(1) Za potrebe odlučivanja o izdavanju suglasnosti podnositelj zahtjeva dužan je dostaviti Agenciji podatke propisane Delegiranom uredbom Komisije (EU) 2017/1946 od 11. srpnja 2017. o dopuni direktiva 2004/39/EZ i 2014/65/EU Europskog parlamenta i Vijeća u pogledu regulatornih tehničkih standarda za iscrpan popis informacija koje namjeravani stjecatelji moraju uključiti u obavijest o namjeravanom stjecanju kvalificiranog udjela u investicijskom društvu (Tekst značajan za EGP) (SL L 276, 26. 10. 2017.) i pravilnikom iz stavka 4. ovoga članka.«.

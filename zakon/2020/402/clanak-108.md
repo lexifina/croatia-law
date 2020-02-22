@@ -1,0 +1,6 @@
+## Prijelazne i završne odredbe
+# Članak 108.
+(1) Postupci započeti po odredbama Zakona o tržištu kapitala (»Narodne novine«, br. 65/18.) dovršit će se po odredbama toga Zakona.
+(2) Imatelji kvalificiranog udjela u investicijskom društvu ili burzi koji u trenutku stupanja na snagu ovoga Zakona imaju manje od 20 % udjela u kapitalu ili glasačkim pravima investicijskog društva odnosno burze, za svako daljnje stjecanje dužni su podnijeti Agenciji zahtjev za stjecanje kvalificiranog udjela sukladno odredbama ovoga Zakona.
+(3) Agencija će u roku od 12 mjeseci od stupanja na snagu ovoga Zakona s odredbama ovoga Zakona uskladiti Pravilnik o izdavanju suglasnosti i kriterijima za procjenu primjerenosti članova uprave, nositelja ključnih funkcija i imatelja kvalificiranog udjela u investicijskom društvu (»Narodne novine«, br. 96/18.) i Pravilnik o izdavanju odobrenja za rad investicijskom društvu, tržišnom posredniku, podružnici iz treće zemlje, registru osoba ovlaštenih obavljati usluge i aktivnosti iz Zakona o tržištu kapitala te statusnim promjenama investicijskog društva (»Narodne novine«, br. 96/18.).
+(4) Agencija će u roku od 12 mjeseci od dana stupanja na snagu ovoga Zakona donijeti pravilnike iz članka 28., članka 30., članka 42. i članka 57. ovoga Zakona.
