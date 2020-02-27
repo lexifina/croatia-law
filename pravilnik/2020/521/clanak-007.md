@@ -1,0 +1,5 @@
+# Članak 7.
+U članku 13. stavci 1., 2. i 3. mijenjaju se i glase:
+»(1) Ukoliko je prijava nepotpuna, Agencija za plaćanja će pisanim putem zatražiti dopunu one dokumentacije koja nije obuhvaćena člankom 10. stavkom 5. ovog Pravilnika, a podnositelj je dužan dostaviti traženu dokumentaciju u roku od osam dana od dana zaprimanja pismena Agencije.
+(2) Agencija za plaćanja će, ukoliko je potrebno, tražiti ispravke ili dodatna obrazloženja vezana uz dostavljenu dokumentaciju iz prijave, a koja moraju biti dostavljena preporučeno poštom ili osobno na adresu Agencije za plaćanja u roku od osam dana od zaprimanja pismena.
+(3) Agencija za plaćanja će dopune, ispravke ili dodatna obrazloženja iz stavka 1. i 2. ovoga članka od podnositelja tražiti dostavom pismena preporučenom poštom, a ukoliko podnositelj nije preuzeo pošiljku prilikom prve dostave, dostava preporučene pošiljke biti će ponovljena samo još jednom uz objavu obavijesti na mrežnim stranicama Agencije za plaćanja te će se time smatrati da je podnositelj obaviješten o roku za dopunu.«

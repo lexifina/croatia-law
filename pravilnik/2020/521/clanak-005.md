@@ -1,0 +1,10 @@
+# Članak 5.
+Iza članka 9. dodaje se članak 9a s naslovom iznad njega koji glasi:
+»Sukob interesa
+Članak 9.a
+(1) Sukobom interesa smatra se:
+- kad predstavnici korisnika ili podnositelja koji obavljaju upravljačke poslove i druge osobe koje imaju utjecaj na odlučivanje pri odabiru ponuditelja roba i usluga u okviru projekta, obavljaju upravljačke poslove kod ponuditelja te da s njima povezane osobe (bračni ili izvanbračni drug, srodnici po krvi u uspravnoj lozi, braća i sestre te posvojitelj, odnosno posvojenik) obavljaju upravljačke poslove kod ponuditelja
+- ukoliko osoba koja obavlja upravljačke poslove kod korisnika ili podnositelja i druge osobe koje imaju utjecaj na odlučivanje pri odabiru ponuditelja su vlasnici poslovnog udjela, dionica odnosno drugih prava na temelju kojih bi sudjelovao u upravljanju odnosno kapitalu gospodarskih subjekata s više od 0,5% kod ponuditelja te da s njim povezane osobe (bračni ili izvanbračni drug, srodnici po krvi u uspravnoj lozi, braća i sestre te posvojitelj, odnosno posvojenik) kao privatne osobe su vlasnici poslovnog udjela, dionica odnosno drugih prava na temelju kojih bi sudjelovali u upravljanju odnosno kapitalu gospodarskih subjekata s više od 0,5% kod ponuditelja i
+- kad su predstavnici korisnika ili podnositelja povezane osobe s ponuditeljevim podizvođačima za robe i usluge koje on koristi u okviru projekta, a na jednak način povezane kao i u podstavku 1. i 2. ovoga stavka.
+(2) Uz prijavu na Natječaj podnositelj je obvezan podnijeti Izjavu o nepostojanju sukoba interesa iz stavka 1. ovoga članka koju u sklopu natječaja formira Agencija.
+(3) Ako se u bilo kojem trenutku, u razdoblju nakon podnošenja prijave na Natječaj do isteka roka od pet godina nakon dana konačne isplate sredstava navedenog u Potvrdi o završenom ulaganju, utvrdi postojanje sukoba interesa iz stavka 1. ovoga članka Agencija će u skladu s tijekom projekta donijeti Odluku o odbijanju zahtjeva za odobrenje, isplatu ili poništenje projekta, a u slučaju isplaćene potpore donosi Odluku o povratu financijskih sredstva potpore.«

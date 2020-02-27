@@ -1,0 +1,3 @@
+# Članak 14.
+U članku 36. stavak 5. mijenja se i glasi:
+»(5) Ukoliko je u trenutku podnošenja Prijave u tijeku postupak izdavanja dokumenta kojim se odobrava građenje ili drugi odgovarajući dokument koji dokazuje da se gradnja/rekonstrukcija građevine može provesti bez izdavanja dokumenta kojim se odobrava građenje, izdan od Upravnog odjela za lokalnu i područnu (regionalnu) samoupravu prema posebnim propisima koji uređuju područje gradnje, podnositelj mora uz prijavu dostaviti dokaz da je predao nadležnom tijelu zahtjev za izdavanje navedenog dokumenta, a izdani dokument i Uporabnu dozvolu za objekt koji je predmet projekta priložiti najkasnije uz Zahtjev za isplatu po završetku svih aktivnosti ulaganja.«
