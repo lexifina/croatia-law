@@ -1,0 +1,1 @@
+Na temelju članka 31. stavka 2., a u vezi s člankom 31. stavkom 1. točkom 5. i člankom 80. stavkom 4. točkom 2. Zakona o pomorskom dobru i morskim lukama (»Narodne novine«, br. 158/03, 100/04, 141/06, 38/09, 123/11 - Odluka Ustavnog suda Republike Hrvatske, 56/16 i 98/19), Vlada Republike Hrvatske je na sjednici održanoj 27. veljače 2020. godine donijela
