@@ -1,0 +1,1 @@
+Na temelju članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/11, 119/14, 93/16 i 116/18), a u vezi s aktivnošću 1.3.1.2. Nacionalnog programa reformi 2019. i Strategijom upravljanja državnom imovinom za razdoblje 2019. - 2025. (»Narodne novine«, broj 96/19), Vlada Republike Hrvatske je na sjednici održanoj 27. veljače 2020. godine donijela
