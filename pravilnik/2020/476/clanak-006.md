@@ -1,0 +1,7 @@
+# Članak 6.
+Objedinjeni prijedlog plana prijma, zajedno s preslikama svih pojedinačnih prijedloga plana prijma, tijelo državne uprave nadležno za službeničke odnose dostavlja ministarstvu nadležnom za financije radi davanja prethodne suglasnosti do 15. siječnja godine za koju se plan prijma donosi, osim u slučaju iz članka 4. stavka 3. ovoga Pravilnika.
+Ministarstvo nadležno za financije će u roku od 15 dana od zaprimanja objedinjenog prijedloga plana prijma dostaviti prethodnu suglasnost za donošenje plana prijma ili obavijestiti tijelo državne uprave nadležno za službeničke odnose o potrebi dodatnog usklađivanja ili izmjene plana prijma.
+Po zaprimanju odgovora od ministarstva nadležnog za financije, tijelo državne uprave nadležno za službeničke odnose zatražit će po potrebi od jedinica za službeničke odnose usklađivanje podataka s mišljenjem ministarstva nadležnog za financije.
+Jedinice za službeničke odnose dužne su podatke dostaviti tijelu državne uprave nadležnom za službeničke odnose u roku osam dana od zaprimanja zahtjeva za dostavom.
+Tijelo državne uprave nadležno za službeničke odnose usklađuje prijedlog plana prijma u skladu sa zahtjevom iz stavka 2. ovoga članka te dostavlja prijedlog plana prijma ministarstvu nadležnom za financije radi davanja prethodne suglasnosti.
+Tijelo državne uprave nadležno za službeničke odnose utvrđuje plan prijma u državnu službu, a uz prethodnu suglasnost ministarstva nadležnog za financije i objavljuje u »Narodnim novinama« i na web-stranici tijela državne uprave nadležnog za službeničke odnose.

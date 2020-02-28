@@ -1,0 +1,1 @@
+Na temelju članka 43. stavka 5. Zakona o državnim službenicima (»Narodne novine«, broj: 92/05, 142/06, 77/07, 107/07, 27/08, 34/11, 49/11, 150/11, 34/12, 49/12, 37/13, 38/13, 138/15, 61/17, 70/19 i 98/19), ministar uprave donosi

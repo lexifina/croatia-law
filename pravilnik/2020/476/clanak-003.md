@@ -1,0 +1,3 @@
+# Članak 3.
+Tijelo državne uprave nadležno za službeničke odnose utvrđuje kriterije za planiranje prijma u državnu službu u skladu s utvrđenom politikom Vlade Republike Hrvatske te izrađuje zahtjev za izradu plana prijma za iduću kalendarsku godinu u vrijeme kada se priprema nacrt državnog proračuna za tu godinu.
+Jedinice za službeničke odnose tijela državne uprave i stručnih službi i ureda Vlade Republike Hrvatske (u daljnjem tekstu: jedinice za službeničke odnose) pripremaju prijedloge planova prijma u državnu službu u vrijeme kada se priprema nacrt državnog proračuna za sljedeću kalendarsku godinu i to tako da s njima budu usklađeni.
