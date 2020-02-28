@@ -1,0 +1,2 @@
+# Članak 6.
+Ako se stranke pismeno ne dogovore drukčije, u sklopu provedbenih sporazuma iz članka 3., znanstvene i tehnološke informacije koje nisu pravno zaštićene, a stečene su tijekom suradnje prema ovom Ugovoru, bit će dostupne svjetskoj znanstvenoj zajednici uz pomoć uobičajenih kanala i u skladu s člankom 5. te uobičajenom praksom i propisima i Republike Hrvatske i Sjedinjenih Država kao i predmetnih međunarodnih ugovora.
