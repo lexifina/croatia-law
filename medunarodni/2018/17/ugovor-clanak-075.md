@@ -1,0 +1,3 @@
+# Članak 75.
+PRAVO SLIJEĐENJA
+Svaka stranka u korist autora izvornog umjetničkog djela koji je državljanin druge stranke i u korist njegova pravnog sljednika predviđa pravo slijeđenja, koje je definirano kao neotuđivo pravo, kojeg se nije moguće odreći, čak niti unaprijed, na prihod od autorskog prava koji se temelji na prodajnoj cijeni i koji ostvaren preprodajom tog djela nakon što ga je autor prvi put otuđio. Pragovi i stope za ubiranje prihodâ od autorskog prava utvrđuju se u skladu s domaćim zakonodavstvom stranke na čijem se području preprodaja obavlja[19](Stranka može u skladu s domaćim zakonodavstvom ograničiti pravo slijeđenja na radnje preprodaje u koje su uključeni trgovci umjetninama.).

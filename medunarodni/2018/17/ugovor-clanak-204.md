@@ -1,0 +1,2 @@
+# Članak 204.
+Stranke nastavljaju i inteziviraju svoju postojeću suradnju u pitanjima iz područja energetike s ciljem jačanja energetske sigurnosti, učinkovitosti, održivosti i konkurentnosti. Suradnja se temelji na sveobuhvatnom partnerstvu i vodi se načelima obostranog interesa, reciprociteta, transparentnosti i predvidljivosti u skladu s načelima tržišne ekonomije kao i postojećim povezanim multilateralnim i bilateralnim sporazumima.

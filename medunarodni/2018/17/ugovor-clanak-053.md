@@ -1,0 +1,15 @@
+# Članak 53.
+IZDAVANJE DOZVOLA I KVALIFIKACIJA
+1. Svaka stranka osigurava da postupci izdavanja dozvola i kvalifikacija u svrhu dobivanja odobrenja za pružanje usluge ili reguliranja poslovnog nastana budu primjereni, jasni i relevantni u pogledu ciljeva politike na kojima se temelje, uzimajući u obzir vrstu zahtjeva koje treba ispuniti i kriterije koje treba procijeniti, te da oni sami po sebi ne predstavljaju ograničavanje pružanja usluga ili poslovnog nastana.
+2. Ako su za zahtjeve predviđeni određeni rokovi, podnositelju zahtjeva osigurava se razumno dugo razdoblje za podnošenje zahtjeva. Nadležno tijelo pokreće obradu zahtjeva bez nepotrebnog odgađanja. Ako je to moguće, zahtjeve bi trebalo prihvaćati u elektroničkom obliku pod istim uvjetima u odnosu na vjerodostojnost kao i zahtjeve podnesene u papirnatom obliku.
+3. Ovjerene preslike trebalo bi prihvaćati, ako je to moguće, umjesto originalnih dokumenata.
+4. Svaka stranka osigurava dovršetak obrade zahtjeva, uključujući donošenje konačne odluke, u razumnom roku određenom u njezinom zakonodavstvom ili, u svakom slučaju, bez nepotrebnog odgađanja. Svaka stranka nastoji odrediti uobičajeni rok za obradu zahtjeva. Svaka stranka osigurava da dozvola ili odobrenje, nakon dodjele, počne proizvoditi učinke bez nepotrebnog odgađanja u skladu s uvjetima koji su u njima određeni.
+5. Svaka stranka osigurava da naknade za izdavanje dozovla[14](Naknade za izdavanje dozvola ne uključuju naknade za korištenje prirodnih resursa, plaćanja za dražbu, javni natječaj ili druga nediskriminirajuća sredstva za dodjelu koncesija niti obvezne doprinose za pružanje univerzalne usluge.) budu razumne u odnosu na troškove koji nastaju nadležnim tijelima te da one same po sebi ne ograničavaju pružanje usluga ili poslovni nastan.
+6. Kada nadležno tijelo smatra da je zahtjev nepotpun ili utvrdi da su potrebne dodatne informacije ono u razumnom roku:
+(a) o tome obavješćuje podnositelja zahtjeva;
+(b) u najvećoj mogućoj mjeri navodi potrebne informacije; i
+(c) u najvećoj mogućoj mjeri pruža priliku za ispravljanje nedostataka.
+7. Ako nadležno tijelo odbije zahtjev, ono o tome obavješćuje podnositelja zahtjeva, bez nepotrebnog odgađanja i ako je moguće u pisanom obliku. Nadležno tijelo trebalo bi podnositelja zahtjeva, na njegov zahtjev, obavijestiti o razlozima odbijanja zahtjeva i, kada je to moguće, o svim nedostacima koji su utvrđeni. Ono bi trebalo podnositelja zahtjeva obavijestiti o postupcima žalbe protiv odluke u skladu s relevantnim zakonodavstvom. Nadležno tijelo trebalo bi podnositelju zahtjeva dozvoliti da podnese novi zahtjev u skladu s utvrđenim postupcima relevantnog tijela, osim ako relevantno tijelo ograničava broj dozvola ili potvrda o kvalifikacijama.
+8. Svaka stranka osigurava da odluke i postupci nadležnih tijela u postupku izdavanja dozvola ili kvalifikacija budu nepristrani u odnosu na sve podnositelje zahtjeva. Nadležno tijelo svoju odluku trebalo bi donijeti na nepristran način i ne bi trebalo odgovarati pružatelju usluga ili ulagaču za kojeg se traži dozvola ili odobrenje.
+Odjeljak 5.
+ODREDBE ZA POJEDINE SEKTORE

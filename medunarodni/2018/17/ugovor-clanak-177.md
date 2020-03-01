@@ -1,0 +1,10 @@
+# Članak 177.
+OSNIVANJE ARBITRAŽNOG VIJEĆA
+1. Arbitražno vijeće sastoji se od tri arbitra.
+2. U roku od 10 dana od dana dostave pisanog zahtjeva za osnivanje arbitražnog vijeća stranci protiv koje je podnesen prigovor, stranke se savjetuju kako bi postigle dogovor o sastavu arbitražnog vijeća.
+3. Ako se stranke ne mogu dogovoriti o sastavu arbitražnog vijeća u roku utvrđenom u stavku 2. ovog članka, svaka stranka može, u roku od pet dana od isteka roka utvrđenog u stavku 2. ovog članka, imenovati arbitra s potpopisa te stranke sadržanog na popisu utvrđenom prema članku 196. Ako bilo koja stranka ne imenuje arbitra, arbitra na zahtjev druge stranke, s potpopisa te stranke sadržanog na popisu utvrđenom prema članku 196. ždrijebom odabire predsjednik Odbora za suradnju ili osoba koju on ovlasti.
+4. Osim ako stranke postignu dogovor u vezi s predsjednikom arbitražnog vijeća u roku utvrđenom u stavku 2. ovog članka, predsjednik Odbora za suradnju ili osoba koju on ovlasti, na zahtjev bilo koje stranke, ždrijebom odabire predsjednika arbitražnog vijeća s popisa osoba koje mogu obavljati dužnost predsjednika sadržanog na popisu utvrđenom prema članku 196.
+5. Predsjednik Odbora za suradnju ili osoba koju on ovlasti odabire arbitre u roku od pet dana od zahtjeva bilo koje stranke iz stavka 3. ili stavka 4.
+6. Datum osnivanja arbitražnog vijeća jest posljednji datum na koji su sva tri odabrana arbitra prihvatila svoje imenovanje u skladu s Poslovnikom navedenim u Prilogu V.
+7. Ako u trenutku podnošenja zahtjeva na temelju stavka 3. ili stavka 4. ovog članka bilo koji od popisa predviđenih u članku 196. ne bude sastavljen ili ne bude sadržavao dostatna imena, arbitri se biraju ždrijebom među osobama koje su jedna ili obje stranke službeno predložile.
+8. Osim ako se stranke dogovore drukčije, u slučaju spora o kriznim situacijama između stranaka kako je definirano u članku 138. točki (h), druga rečenica stavka 3. i stavak 4. ovog članka primjenjuju se bez pribjegavanja primjeni stavka 2. ovog članka, a rok iz stavka 5. ovog članka iznosi dva dana.

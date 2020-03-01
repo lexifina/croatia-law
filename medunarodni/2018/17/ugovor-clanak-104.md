@@ -1,0 +1,3 @@
+# Članak 104.
+SUDSKE ZABRANE
+Svaka stranka osigurava da, u slučaju donošenja sudske odluke kojom je utvrđena povreda prava intelektualnog vlasništva, pravosudna tijela mogu protiv počinitelja povrede odrediti sudsku zabranu s ciljem zabranjivanja nastavljanja povrede. Ako je to predviđeno domaćim zakonodavstvom, nepoštovanje sudske zabrane podliježe, prema potrebi, plaćanju novčane kazne, s ciljem osiguravanja poštovanja zabrane. Svaka stranka također osigurava da nositelji prava mogu zatražiti sudsku zabranu protiv posrednikâ čijim se uslugama treća osoba koristi radi povrede prava intelektualnoga vlasništva.

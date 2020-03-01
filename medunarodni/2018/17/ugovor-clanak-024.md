@@ -1,0 +1,7 @@
+# Članak 24.
+IZNIMKE
+1. Stranke potvrđuju da se njihova postojeća prava i obveze u skladu s člankom XX. GATT-a 1994. i njegovim napomenama za tumačenje primjenjuju, mutatis mutandis, na trgovinu robom koja je obuhvaćena ovim Sporazumom. U tu su svrhu članak XX. GATT-a 1994. i njegove napomene za tumačenje obuhvaćeni ovim Sporazumom i čine njegov sastavni dio mutatis mutandis.
+2. Stranke razumiju da prije poduzimanja bilo kakvih mjera predviđenih u članku XX. podstavcima (i) i (j) GATT-a 1994., stranka koja namjerava poduzeti mjere dostavlja drugoj stranci sve relevantne informacije s ciljem traženja rješenja prihvatljivog objema strankama. Stranke se mogu usuglasiti o bilo kojim sredstvima potrebnima radi okončanja teškoća. Ako se dogovor ne postigne u roku od 30 dana od dostave takvih informacija, stranka može na predmetnu robu primijeniti mjere na temelju ovog članka. Ako iznimne i kritične okolnosti zahtijevaju hitno djelovanje te zbog tih okolnosti nisu mogući prethodno obavješćivanje i ispitivanje, stranka koja namjerava poduzeti mjere može odmah primijeniti mjere opreza koje su potrebne za rješavanje situacije i o tome odmah obavješćuje drugu stranku.
+3. Republika Kazahstan može održati određene mjere koje nisu u skladu s člancima 14., 15. i 17. ovog Sporazuma, koje treba utvrditi u Protokolu o pristupanju Republike Kazahstana WTO-u, do isteka prijelaznih razdoblja predviđenih za te mjere u navedenom Protokolu.
+POGLAVLJE 2.
+CARINE

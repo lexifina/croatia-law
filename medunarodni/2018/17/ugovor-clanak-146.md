@@ -1,0 +1,5 @@
+# Članak 146.
+REGULATORNA TIJELA ZA ELEKTRIČNU ENERGIJU I PLIN
+1. Svaka stranka određuje regulatorna tijela radi reguliranja tržišta električne energije i plina na svojem području i ovlašćuje ta tijela. Navedena regulatorna tijela pravno su odvojena od svih drugih javnih tijela ili sudionika na tržištu i funkcionalno su neovisna o njima.
+2. Odluke i postupci regulatornog tijela nepristrani su u odnosu na sve sudionike na tržištu.
+3. Sudionik na tržištu na kojeg utječe bilo koja odluka regulatornog tijela ima pravo podnijeti žalbu protiv te odluke žalbenom tijelu. Ako žalbeno tijelo nije neovisno o uključenim strankama ili nije pravosudno tijelo, njegove odluke podliježu preispitivanju od strane nepristranog i neovisnog pravosudnog tijela. U odlukama žalbenog tijela i pravosudnog tijela moraju biti navedena obrazloženja tih odluka i one moraju biti u pisanom obliku. Stranke osiguravaju da se konačna odluka žalbenog tijela ili pravosudnog tijela, ovisno o tome tko odlučuje u zadnjem stupnju, izvršava na djelotvoran način.

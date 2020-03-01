@@ -1,0 +1,3 @@
+# Članak 105.
+ALTERNATIVNE MJERE
+Svaka stranka, u skladu s domaćim zakonodavstvom, može predvidjeti da u odgovarajućim slučajevima i na zahtjev osobe protiv koje se mogu odrediti mjere predviđene u članku 103. i/ili članku 104., nadležna pravosudna tijela mogu umjesto primjene mjera predviđenih u članku 103. i/ili članku 104. naložiti plaćanje novčane naknade oštećenoj stranci ako ta osoba nije postupala niti s namjerom niti s nehajem, ako bi izvršenje predmetnih mjera toj osobi prouzročilo nesrazmjernu štetu i ako se čini da plaćanje novčane naknade oštećenoj stran predstavlja primjerenu naknadu.

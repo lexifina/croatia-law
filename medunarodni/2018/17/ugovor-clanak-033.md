@@ -1,0 +1,4 @@
+# Članak 33.
+ZAHTJEVI U POGLEDU UVOZA
+1. Zahtjevi u pogledu uvoza stranke uvoznice primjenjuju se na čitavom području stranke izvoznice podložno članku 35. ovog poglavlja. Zahtjevi u pogledu uvoza navedeni u certifikatima temelje se na načelima Codexa Alimentariusa Komisije (»Codex«), načelima Svjetske organizacije za zdravlje životinja (OIE) i Međunarodne konvencije o zaštiti bilja (IPPC), osim ako su zahtjevi u pogledu uvoza poduprti znanstveno utemeljenom procjenom rizika koja je provedena u skladu s primjenjivim međunarodnim pravilima, kako je predviđeno u Sporazumu WTO-a o primjeni sanitarnih i fitosanitarnih mjera (»Sporazum o SFS-u«).
+2. Zahtjevi navedeni u uvoznim dozvolama ne sadržavaju strože sanitarne i veterinarske uvjete od uvjeta utvrđenih u certifikatima iz stavka 1. ovog članka.

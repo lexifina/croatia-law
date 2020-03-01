@@ -1,0 +1,3 @@
+# Članak 193.
+INFORMACIJE I TEHNIČKI SAVJETI
+Na zahtjev stranke, ili na vlastitu inicijativu, arbitražno vijeće može od bilo kojeg izvora, uključujući stranke uključene u spor, zatražiti informacije koje smatra prikladnima za postupak arbitražnog vijeća. Arbitražno vijeće isto tako ima pravo zatražiti mišljenje stručnjaka kada to smatra prikladnim. Arbitražno vijeće savjetuje se sa strankama prije odabira takvih stručnjaka. Fizičke ili pravne osobe s poslovnim nastanom na području stranke mogu arbitražnom vijeću podnositi podneske amicus curiae u skladu s Poslovnikom navedenim u Prilogu V. Sve informacije pribavljene u skladu s ovim člankom otkrivaju se strankama i podnose im se radi iznošenja njihovih primjedbi.

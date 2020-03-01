@@ -1,0 +1,4 @@
+# Članak 63.
+PRIJENOS TEHNOLOGIJE
+1. Stranke su suglasne razmjenjivati stajališta i informacije o svojem zakonodavstvu i međunarodnoj praksi u području zaštite i izvršavanja prava intelektualnog vlasništva kojima se utječe na prijenos tehnologije. Time su posebno obuhvaćene razmjene o mjerama kojima se olakašavaju tokovi informacija, poslovna partnerstva i sklapanje sporazuma o licenciranju i podugovaranju na dobrovoljnoj osnovi. Posebna pozornost posvećuje se uvjetima koji su potrebni za stvaranje odgovarajućeg povoljnog okruženja za prijenos tehnologije u zemljama domaćinima, uključujući pitanja poput domaćeg pravnog okvira i razvoja ljudskog kapitala.
+2. Kada se mjere poduzimaju s obzirom na prijenos tehnologije, potrebno je zaštititi legitimne interese nositelja prava intelektualnog vlasništva.

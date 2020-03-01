@@ -1,0 +1,29 @@
+# Članak 54.
+MEĐUNARODNI POMORSKI PROMET
+1. U ovom se članku utvrđuju načela za liberalizaciju usluga u međunarodnom pomorskom prometu. Ovim se člankom ne dovode u pitanje prava i obveze koje proizlaze iz obveza svake stranke u okviru GATS-a.
+2. Za potrebe ovog članka »međunarodni pomorski promet« uključuje operacije prijevoza od vrata do vrata i multimodalne operacije prijevoza, koje predstavljaju prijevoz robe uz korištenje više od jednog načina prijevoza i uključuju pomorsku dionicu, koje se obavljaju na temelju jedinstvene prijevozne isprave i u tu svrhu uključuje pravo pružateljâ usluga međunarodnog pomorskog prijevoza na neposredno sklapanje ugovora s pružateljima drugih načina prijevoza.
+3. S obzirom na djelatnosti iz stavka 4. koje pomorska agencija obavlja pri pružanju usluga u vezi s međunarodnim pomorskim prometom, svaka stranka dozvoljava pravnim osobama druge stranke da osnuju društva kćeri ili podružnice na njezinu području, pod uvjetima za osnivanje poslovnog nastana i poslovanja koji nisu nepovoljniji od onih koje je odobrila svojim društvima kćerima ili podružnicama ili društvima kćerima ili podružnicama bilo koje treće zemlje, ovisno o tome koji su povoljniji.
+Ovaj se stavak ne primjenjuje na poslovni nastan čija je svrha upravljanje flotom pod nacionalnom zastavom države članice Europske unije ili Republike Kazahstana.
+4. Takve djelatnosti među ostalim obuhvaćaju:
+(a) stavljanje na tržište i prodaju usluga pomorskog prijevoza i povezanih usluga izravnim kontaktom s potrošačima, od davanja ponuda do izdavanja računa, bez obzira na to pruža li ili nudi te usluge sam pružatelj usluga ili pružatelji usluga s kojima prodavatelj usluga ima uspostavljene stalne sporazume o poslovanju;
+(b) kupnju i korištenje, za vlastiti račun ili za račun klijenata (i preprodaju vlastitim klijentima) svih prijevoznih i povezanih usluga, uključujući usluge bilo kojeg načina kopnenog prijevoza koje su potrebne za pružanje intermodalne usluge;
+(c) pripremu dokumentacije o prijevoznim ispravama, carinskim ispravama ili drugim ispravama u vezi s podrijetlom i prirodom robe koja se prevozi;
+(d) pružanje poslovnih informacija s pomoću svih sredstava, uključujući računalne informacijske sustave i elektroničku razmjenu podataka (podložno svim nediskriminirajućim ograničenjima u području telekomunikacija);
+(e) uspostavu poslovnih aranžmana s drugim pomorskim agencijama, uključujući sudjelovanje u kapitalu trgovačkog društva i zapošljavanje lokalno angažiranog osoblja (ili, kada se radi o inozemnom osoblju, podložno relevantnim odredbama ovog Sporazuma) u bilo kojoj lokalno osnovanoj pomorskoj agenciji;
+(f) djelovanje u ime pravnih osoba, među ostalim, prilikom organiziranja pristajanja plovila ili preuzimanja teretâ kada je to potrebno.
+5. S obzirom na postojeću razinu liberalizacije u pogledu prekograničnog pružanja usluga između stranaka u međunarodnom pomorskom prometu:
+(a) stranke djelotvorno primjenjuju načelo neograničenog pristupa međunarodnim tržištima i trgovini na komercijalnoj i nediskriminirajućoj osnovi;
+(b) svaka stranka brodovima kojima upravljaju pružatelji usluga druge stranke odobrava tretman koji nije nepovoljniji od onog koji odobrava vlastitim brodovima ili brodovima bilo koje treće zemlje, ovisno o tome koji je tretman povoljniji, u odnosu na, među ostalim, pristup lukama, korištenje infrastrukture i lučkih usluga te pomoćnih pomorskih usluga kao i s time povezane naknade i davanja, carinske objekte i određivanje pristaništa i uređaja za utovar i istovar.
+6. Primjenjujući načela navedena u stavku 5. stranke:
+(a) od stupanja na snagu ovog Sporazuma ne primjenjuju odredbe o podjeli tereta iz bilateralnih sporazuma između bilo koje države članice Europske unije i Republike Kazahstana;
+(b) ne uvode klauzule o podjeli tereta u buduće bilateralne sporazume s trećim zemljama, osim u onim iznimnim okolnostima kada linijski brodari iz jedne ili druge stranke ovog Sporazuma u protivnom ne bi imali stvarnu mogućnost prometovati u dotičnu treću zemlju ili iz nje radi obavljanja trgovine;
+(c) zabranjuju sporazume o podjeli tereta u budućim bilateralnim sporazumima koji se odnose na prijevoz suhog i tekućeg rasutog tereta;
+(d) nakon stupanja na snagu ovog Sporazuma, ukidaju sve jednostrane mjere i upravne, tehničke i druge prepreke koje bi mogle predstavljati prikriveno ograničenje ili imati diskriminirajuće učinke na slobodno pružanje usluga u međunarodnom pomorskom prometu te se od njih suzdržavaju.
+7. Fizičke i pravne osobe Europske unije koje pružaju usluge međunarodnog pomorskog prometa slobodne su pružati međunarodne pomorsko-riječne usluge na unutarnjim plovnim putovima Republike Kazahstana i obratno.
+8. Stranke pružateljima usluga međunarodnog pomorskog prometa druge stranke, uz razumne i nediskriminirajuće uvjete, osiguravaju sljedeće usluge u luci: peljarenje, tegljenje i pomoć pri tegljenju, opskrbu hranom, gorivom i vodom, prikupljanje otpada i zbrinjavanje balastnih voda, usluge lučke kapetanije, pomoć pri navigaciji, operativne obalne usluge nužne za operativnost broda, uključujući komunikacije, opskrbu vodom i električnom energijom, usluge hitnih popravaka, sidrenje, privez i privezivačke usluge.
+9. Ako Republika Kazahstan odobri povoljniji tretman u pogledu pomorskog prometa bilo kojoj drugoj članici WTO-a, osim obalnih država Kaspijskog mora i zemalja ZND-a, ti se uvjeti primjenjuju na fizičke i pravne osobe Europske unije.
+Članak 54.a
+CESTOVNI PROMET, ŽELJEZNIČKI PROMET, PROMET UNUTARNJIM PLOVNIM PUTOVIMA I ZRAČNI PROMET
+S ciljem osiguranja usklađenog razvoja prometa između stranaka koji je prilagođen njihovim komercijalnim potrebama, uvjeti obostranog pristupa tržištu u cestovnom, željezničkom prometu i prometu unutarnjim plovnim putovima te, ako je to primjenjivo, u zračnom prometu mogu se urediti potencijalnim posebnim sporazumima koje stranke, nakon stupanja na snagu ovog Sporazuma, dogovore u pregovorima.
+Odjeljak 6.
+IZNIMKE

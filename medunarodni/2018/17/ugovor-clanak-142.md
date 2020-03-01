@@ -1,0 +1,5 @@
+# Članak 142.
+UVJETI ZA ULAGANJE U SIROVINE I ENERGETSKU ROBU
+Radi poticanja ulaganja u djelatnosti traženja, istraživanja, vađenja i rudarenja sirovina i energetske robe, nijedna stranka ne:
+(a) održava niti donosi mjere kojima se predviđaju zahtjevi o lokalnom sadržaju koji utječu na proizvode, pružatelje usluga, ulagače i ulaganja druge stranke osim ako je drukčije predviđeno u Protokolu o pristupanju Republike Kazahstana WTO-u i Obvezujućem rasporedu obveza Europske unije i njezinih država članica u okviru GATS-a;
+(b) održava niti donosi mjere kojima se poduzeće druge stranke obvezuje prenijeti ili podijeliti prava intelektualnog vlasništva da bi smjelo prodavati proizvode ili usluge ili ulagati na području te stranke. Stranke se ne sprečava da s ulagačima, koji žele steći prava na traženje, istraživanje, vađenje i rudarenje sirovina i energetske robe, u pregovorima dogovore ugovore o prijenosu takvih prava na dobrovoljnoj osnovi, pod uvjetom da su oni sklopljeni po tržišnim uvjetima i uz tržišnu cijenu.

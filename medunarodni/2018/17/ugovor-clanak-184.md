@@ -1,0 +1,6 @@
+# Članak 184.
+RAZUMNI ROK ZA POSTUPANJE U SKLADU S KONAČNIM IZVJEŠĆEM
+1. Ako postupanje u skladu s konačnim izvješćem nije moguće odmah, stranke se nastoje dogovoriti o roku za postupanje u skladu s konačnim izvješćem. U takvom slučaju, stranka protiv koje je uložen prigovor najkasnije 30 dana nakon primitka završnog izvješća arbitražnog vijeća dostavlja obavijest stranci koja je uložila prigovor i Odboru za suradnju o vremenu koje će joj biti potrebno za usklađivanje (»razumni rok«).
+2. U slučaju neslaganja između stranaka u vezi s trajanjem razumnog roka, stranka koja je uložila prigovor može, u roku od 20 dana od primitka obavijesti iz stavka 1., u pisanom obliku dostaviti zahtjev da arbitražno vijeće izvorno osnovano na temelju članka 177. (»izvorno arbitražno vijeće«) odredi trajanje razumnog roka. Takav se zahtjev istovremeno dostavlja drugoj stranci i Odboru za suradnju. Arbitražno vijeće svoje izvješće podnosi strankama i Odboru za suradnju u roku od 20 dana od dana primitka zahtjeva.
+3. Stranka protiv koje je uložen prigovor u pisanom obliku obavješćuje stranku koja je uložila prigovor o napretku koji je postigla u vezi s postupanjem u skladu s konačnim izvješćem arbitražnog vijeća. Ta obavijest dostavlja se u pisanom obliku i najkasnije mjesec dana prije isteka razumnog roka.
+4. Stranke mogu sporazumno produljiti razumni rok.

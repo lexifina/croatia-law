@@ -1,0 +1,11 @@
+# Članak 171.
+1. Svaka stranka odmah odgovara na sve zahtjeve druge stranke za određenim informacijama o svim svojim mjerama opće primjene ili međunarodnim sporazumima koji se odnose ili utječu na ovu glavu. Svaka stranka uspostavlja najmanje jednu točku za upite radi pružanja, na zahtjev, određenih informacija o svim takvim pitanjima zainteresiranim osobama druge stranke[25](Točka za upite za Republiku Kazahstan jest točka za upite osnovana na temelju Sporazuma o GATS-u.). Stranke obavješćuju jedna drugu o točkama za upite u roku od 3 mjeseca od dana primjene ove glave. Točke za upite ne moraju biti depozitari zakona i propisa.
+2. Svi zakoni, propisi, ukazi, odluke i upravne odluke opće primjene stranaka koji se odnose ili utječu na bilo koje pitanje uređeno ovom glavom objavljuju se odmah na način koji ispunjava primjenjive zahtjeve Sporazuma WTO-a, uključujući one iz članka X. GATT-a 1994., članka III. GATS-a i članka 63. Sporazuma o TRIPS-u. Stranke redovito ažuriraju objavljene resurse koji sadrže takve mjere, uključujući internetske stranice, i stavljaju ih na raspolaganje zainteresiranim osobama. Takve mjere moraju biti dostupne dok su na snazi i tijekom razumno dugog razdoblja nakon što više nisu na snazi.
+3. Stranke objavljuju sve zakone, propise, ukaze, odluke i upravne odluke opće primjene koji se odnose ili utječu na bilo koje pitanje uređeno ovom glavom, prije njihova donošenja. Stranke osiguravaju razuman rok, a obično najmanje 30 kalendarskih dana, unutar kojeg zainteresirane osobe mogu nadležnim tijelima iznijeti primjedbe prije nego što je dotična mjera do kraja izrađena ili podnesena tijelima odgovornima za njezino donošenje. Sve primjedbe zaprimljene tijekom razdoblja za primjedbe uzet će se u obzir.
+4. Zakoni, propisi, ukazi, odluke ili upravne odluke opće primjene stranaka koji se odnose ili utječu na bilo koje pitanje uređeno ovom glavom ne smiju stupiti na snagu prije objave.
+5. Ničim u ovom Sporazumu ne zahtijeva se od stranke da dostavi povjerljive informacije čije bi otkrivanje ometalo izvršavanje zakonodavstva ili bi na drugi način bilo protivno javnom interesu ili koje bi moglo ugroziti legitimne komercijalne interese određenih poduzeća, bilo javnih ili privatnih.
+6. Članak 55. primjenjuje se u odnosu na ovo poglavlje.
+POGLAVLJE 14.
+RJEŠAVANJE SPOROVA
+Odjeljak 1.
+CILJ I PODRUČJE PRIMJENE

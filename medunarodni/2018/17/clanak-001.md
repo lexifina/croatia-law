@@ -1,0 +1,2 @@
+# Članak 1.
+Potvrđuje se Sporazum o pojačanom partnerstvu i suradnji između Europske unije i njezinih država članica, s jedne strane i Republike Kazahstana, s druge strane, sastavljen u Astani 21. prosinca 2015. u izvorniku na bugarskom, češkom, danskom, engleskom, estonskom, finskom, francuskom, grčkom, hrvatskom, latvijskom, litavskom, mađarskom, malteškom, nizozemskom, njemačkom, poljskom, portugalskom, rumunjskom, slovačkom, slovenskom, španjolskom, švedskom, talijanskom, kazaškom i ruskom jeziku.
