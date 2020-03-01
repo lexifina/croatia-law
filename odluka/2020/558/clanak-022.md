@@ -1,0 +1,2 @@
+# Članak 22.
+Sanitetski prijevoz ugovoren prema kadrovskim normativima utvrđenim Odlukom o osnovama za sklapanje ugovora o provođenju zdravstvene zaštite iz obveznog zdravstvenog osiguranja (»Narodne novine«, broj 56/17., 73/17. - ispravak, 30/18., 35/18. - ispravak 119/18., 32/19., 62/19., 94/19. i 104/19.) nastavlja se provoditi i financirati u skladu sa sklopljenim ugovorima do organiziranja sanitetskog prijevoza u skladu s odredbama članka 2. i 15. ove Odluke.

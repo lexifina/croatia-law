@@ -1,0 +1,4 @@
+# Članak 1.
+U Odluci o osnovama za sklapanje ugovora o provođenju zdravstvene zaštite iz obveznog zdravstvenog osiguranja (»Narodne novine«, broj 56/17., 73/17. - ispravak, 30/18., 35/18. - ispravak 119/18., 32/19., 62/19., 94/19. i 104/19.) u članku 3.a iza stavka 2. dodaje se novi stavak 3. koji glasi:
+»(3) U slučaju prestanka rada zdravstvenih radnika u jedinici zakupa doma zdravlja uključenih u mreži javne zdravstvene službe kada u skladu s odredbama zakona kojim se uređuje zdravstvena zaštita nisu ispunjeni uvjeti da zdravstveni radnik nastavi ugovorni odnos sa Zavodom, Zavod u slučaju ispunjavanja uvjeta iz ove Odluke sklapa ugovor s domom zdravlja za navedeni tim.«.
+U dosadašnjem stavku 3. koji postaje stavak 4. riječi: »stavka 1. i 2.« zamjenjuju se riječima: »stavaka 1., 2. i 3.«.
