@@ -1,0 +1,2 @@
+# Članak 12.
+Danom stupanja na snagu ovoga Naputka prestaju važiti Naputak o načinu pečaćenja kada se rješenje inspektora u gospodarstvu izvršava pečaćenjem (»Narodne novine« broj 36/14), Naputak o načinu pečaćenja kada se rješenje turističkog inspektora izvršava pečaćenjem (»Narodne novine« broj 45/14), Naputak o načinu pečaćenja kada se rješenje inspektora rada izvršava pečaćenjem (»Narodne novine« broj 59/14) i Pravilnik o načinu pečaćenja radnih prostorija, prostora i sredstava za rad nadziranih osoba prema propisima o zaštiti okoliša (»Narodne novine« broj 156/14).

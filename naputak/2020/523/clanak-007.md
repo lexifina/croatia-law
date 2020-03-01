@@ -1,0 +1,3 @@
+# Članak 7.
+Za pečaćenje sredstava rada mogu se koristiti sredstva pečaćenja iz članka 6. ovoga Naputka ili žica s olovnom plombom i kliještima ili lokot, ovisno o ocjeni inspektora kojim sredstvima pečaćenja je tu radnju pogodnije izvršiti.
+Za pečaćenje hrane ili drugih proizvoda čiji promet više nije dozvoljen ili nije dozvoljeno njegovo korištenje u proizvodnji, mogu se koristiti sredstva pečaćenja iz članka 5. ovoga Naputka ili žica s olovnom plombom i kliještima ili lokot, ili samoljepljiva traka s oznakom i nazivom Državnog inspektorata, ovisno o ocjeni inspektora kojim sredstvima pečaćenja je tu radnju pogodnije izvršiti.
