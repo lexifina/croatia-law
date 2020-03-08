@@ -1,0 +1,5 @@
+# Članak 3.
+1. Mjere o kojima su se sve države ugovornice ili neke od njih usuglasile, ili će se u budućnosti usuglasiti, da će ih početi primjenjivati s ciljem olakšavanja međunarodnog cestovnog prometa pojednostavljivanjem carina, policijskih, zdravstvenih ili drugih zahtjeva, smatrat će se usklađenima s predmetom ove Konvencije.
+2. (a) Svaka država ugovornica može zahtijevati obveznicu ili drugi oblik jamstva plaćanja bilo kakvih uvoznih carina i poreza na uvoz koji bi se u nedostatku takvog jamstva naplatili pri uvozu bilo kojeg motornog vozila koje sudjeluje u međunarodnom prometu.
+(b) Država ugovornica u svrhu ovog članka prihvaća jamstvo organizacije osnovane na njezinom državnom području i povezanom s međunarodnim udruženjem koje je izdalo valjanu međunarodnu carinsku ispravu za motorno vozilo (kao što je carnet de passages en douane).
+3. Za ispunjavanje zahtjeva predviđenih ovom Konvencijom države ugovornice će se pobrinuti za to da carinski uredi i carinske postaje koji se nalaze jedan pored drugog na istoj međunarodnoj cesti budu otvoreni u isto vrijeme.
