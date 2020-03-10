@@ -1,0 +1,14 @@
+O b r a z l o ž e n j e
+1. Prijedlog za pokretanje postupka za ocjenu suglasnosti s Ustavom članka 74. Zakona o parničnom postupku ("Narodne novine" broj 53/91., 91/92., 112/99., 88/01. - članak 50. Zakona o arbitraži, 117/03., 88/05. - članak 129. Zakona o izmjenama i dopunama Ovršnog zakona, 2/07. - odluka USRH broj: U-I-1569/2004 i dr., 84/08., 96/08. - odluka USRH broj: U-I-1569/2004 i dr., 123/08. - ispravak, 57/11., 148/11. - pročišćeni tekst, 25/13., 28/13. - članak 145. Zakona o sudovima i 89/14. - odluka USRH broj: U-I-885/2013; u daljnjem tekstu: ZPP:53/91-89/14) podnio je 28. listopada 2016. Saša Čajić, osobno i kao zakonski zastupnik mldb. Sare Čajić i mldb. Viktora Čajića iz Zagreba.
+2. Iz prijedloga je razvidno da se razlozi za pokretanje postupka za ocjenu suglasnosti s Ustavom osporenog članka ZPP-a:53/91-89/14 odnose na njegovu primjenu u postupku koji se vodi pred Općinskim građanskim sudom u Zagrebu u kojem je predlagatelj stranka.
+Predlagatelj u prijedlogu, između ostalog, navodi da mu je u predmetu Općinskog građanskog suda u Zagrebu broj: P2-1901/11 odbijen njegov zahtjev za izuzeće suca koji je vodio postupak te da su na taj način on i njegova maloljetna djeca "ostavljeni na milost i nemilost istome sucu protiv kojega su tražili izuzeće jer nema druge pravne zaštite kako propisuje Ustav, a posebna žalba nije dopuštena".
+Osporeni članak predlagatelj smatra suprotnim člancima 4., 5. i 18. Ustava.
+Ustavni sud nije nadležan za odlučivanje.
+3. Ustavni sud utvrđuje da predlagatelj osporava primjenu članka 74. ZPP-a:53/91-89/14 na konkretan slučaj.
+Prema mjerodavnim odredbama Ustava i Ustavnog zakona o Ustavnom sudu Republike Hrvatske ("Narodne novine" broj 99/99., 29/02. i 49/02. - pročišćeni tekst; u daljnjem tekstu: Ustavni zakon) Ustavni sud u postupku apstraktne kontrole ustavnosti zakona nije nadležan ocjenjivati njegovu primjenu u postupcima pred sudovima i drugim državnim tijelima koja imaju javne ovlasti. Primjena zakona u pojedinačnim slučajevima predmet je konkretne zaštite ljudskih prava i temeljnih sloboda koju Ustavni sud pruža u postupcima pokrenutim ustavnim tužbama.
+Navedeno stajalište Ustavni sud izrazio je u rješenju broj: U-I-1455/2001 od 24. studenoga 2004. ("Narodne novine" broj 175/04.), te u rješenjima broj: U-I-2823/2002 od 28. siječnja 2004. (www.usud.hr), U-I-671/2001 od 24. svibnja 2005. (www.usud.hr) i dr.
+4. Člankom 32. Ustavnog zakona propisano je:
+"Članak 32.
+Ustavni sud će rješenjem odbaciti ... prijedlog ... ako nije nadležan za odlučivanje (...)"
+Polazeći od utvrđenja i stajališta iznesenih u točkama 2. i 3. obrazloženja ovog rješenja, Ustavni sud utvrđuje da nije nadležan za odlučivanje u predmetu predlagatelja u postupku apstraktne kontrole suglasnosti zakona s Ustavom.
+5. Stoga je na temelju članka 32. Ustavnog zakona riješeno kao u izreci.
