@@ -1,0 +1,13 @@
+# Odluka Ustavnog suda Republike Hrvatske broj: U-III-1310/2018 od 10. ožujka 2020.
+
+- Case: `U-III-1310/2018`
+- Proceeding: Ustavna tužba
+- Decision: odluka
+- Decision date: `2020-03-10`
+- Outcome: usvajanje
+- Official database page: <https://sljeme.usud.hr/usud/praksaw.nsf/fOdluka.xsp?action=openDocument&documentId=C12570D30061CE54C125852800451435>
+- Official DOCX: <https://sljeme.usud.hr/Usud/Praksaw.nsf/C12570D30061CE54C125852800451435/%24FILE/U-III-1310-2018.docx>
+- Official PDF: <https://sljeme.usud.hr/Usud/Praksaw.nsf/C12570D30061CE54C125852800451435/%24FILE/U-III-1310-2018.pdf>
+- Official database page SHA-256: `9362e8a5ff9c1a47ce024a618c714abab35980c7ba6c5f7e04025142a7ddd6d9`
+
+Metadata-only record: the decision concerns a named person (constitutional complaint and similar proceedings are listed as metadata only in this repository); use the official links above.
