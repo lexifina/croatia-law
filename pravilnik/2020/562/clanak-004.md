@@ -1,0 +1,21 @@
+# Članak 4.
+Članak 2. ovoga Pravilnika mijenja se i glasi:
+»1. Opasne tvari su tereti koji, ako se s njima ne postupa pravilno ili nisu u pakiranom stanju,mogu predstavljati rizik za zdravlje, sigurnost, a klasificirani su sukladno IMDG kodeksu, te opasne kemikalije nabrojene u Poglavlju 17 IBC Kodeksa, ukapljeni plinovi nabrojeni u Poglavlju 19 IGC Kodeksa, krute rasute tvari Grupe »B« i »A i B« koje se odnose na Dodatak I IMSBC Kodeksa, krute tvari koje se odnose na Dodatak I IMSB Kodeksa, one tvari za čiji prijevoz su odgovarajući preduvjeti navedeni u skladu s člankom 1.1.3 IBC Kodeksa ili člankom 1.1.6 IGC Kodeksa,
+2. onečišćujuće tvari su ulja kako su definirana u Aneksu I MARPOL (73/78) konvencije, štetne tekuće tvari kako je definirano u Aneksu II MARPOL(73/78) konvencije, štetne tvari kako je definirano u Aneksu III MARPOL (73/78) konvencije,
+3. stručna osoba je svaka osoba koja je stručno osposobljena za rukovanje određenim opasnim tvarima i koja je kao takva određena od tijela koje upravlja lukom odnosno od pravne osobe koja je registrirana za djelatnost rukovanja opasnim tvarima,
+4. rukovanje opasnim tvarima obuhvaća: ukrcaj, iskrcaj i prekrcaj iz broda ili vozila, uskladištenje, podizanje iz skladišta i prijevoz i ostale aktivnosti vezane za rukovanje i zbrinjavanje opasnih tvari na području luke,
+5. vozilo je svako kopneno prijevozno sredstvo,
+6. opasne kemikalije su tekućine s tlakom para koji ne prelazi 0,28 MPa pri temperaturi od 37,8 °C, koje su opasne zbog zapaljivosti ili eksplozije, te su biološki opasne zbog svoje reaktivnosti,
+7. lučka uprava jest pravna osoba koja upravlja lukom otvorenom za javni promet, odnosno ovlaštenik koncesije za luke posebne namjene,
+8. Ministarstvo je ministarstvo nadležno za pomorstvo,
+9. ministar je ministar u ministarstvu nadležnom za pomorstvo,
+10. Ovlaštenik koncesije je prava ili fizička osoba koje temeljem ugovora o koncesiji ovlaštena obavljati gospodarsku djelatnost rukovanja opasnih tvari u luci,
+11. Krcatelj je naručitelj ili od njega određena osoba koja na temelju ugovora o prijevozu stvari predaje stvari prijevozniku radi prijevoza,
+12. Manifest / Lista tereta je brodski dokument koji mora sadržavati popis i smještaj opasnih tereta na brodu,
+13. Kapetanija je lučka kapetanija,
+14. Benzinska postaja je mjesto na kopnenom dijelu morske luke ili na plutajućem objektu u morskoj luci koje je namijenjeno za rukovanje opasnim tvarima i opskrbu plovila ili vozila gorivom na način kako je određeno posebnim propisima,
+15. Kodeks BLU je Kodeks prakse za siguran ukrcaj i iskrcaj brodova za prijevoz rasutog tereta sadržan u Prilogu Rezolucije Skupštine IMO-a A.862(20) od 27. studenog 1991., kako je važila 04. prosinca 2001,
+16. Terminal znači svako čvrsto, plutajuće ili pokretno sredstvo, koje je opremljeno i koristi se za ukrcaj ili iskrcaj suhog tereta u rasutom stanju na brodove za rasuti teret i iz njih,
+17. Predstavnik terminala je svaka stručna, odnosno odgovorna osoba na terminalu koju imenuje ovlaštenik koncesije za ukrcaj i/ili iskrcaj krutog rasutog tereta i koja ima punu odgovornost i ovlaštenje za nadzor nad pripremom, izvođenjem i dovršetkom postupaka ukrcaja ili iskrcaja određenog broda za prijevoz krutog rasutog tereta koji se izvodi na luci, odnosno terminalu na kojem se obavlja ukrcaj i iskrcaj brodova za prijevoz rasutog tereta,
+18. MSC/ Circular 1160 jesu IMO smjernice za siguran ukrcaj ili iskrcaj krutih rasutih tereta za potporu osoblju terminala,
+19. MSC.1/Circular 1230 je amandman na IMO smjernice MSC/Circular 1160 za siguran ukrcaj ili iskrcaj krutih rasutih tereta za potporu osoblju terminala.«
