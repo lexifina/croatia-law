@@ -1,0 +1,2 @@
+# Članak 1.
+U Pravilniku o sadržaju i načinu vođenja evidencije i dokumentacije te načinu i rokovima dostave izvješća jedinica lokalne i područne (regionalne) samouprave (»Narodne novine«, broj 35/19) u članku 2. točki 1. riječi i brojevi: »(»Narodne novine«, br.: 157/13, 152/14, 99/15, 52/16, 16/17 i 130/17)« zamjenjuju se riječima i brojevima: »(»Narodne novine«, br.: 157/13, 152/14, 99/15, 52/16, 16/17, 130/17 i 98/19)«.

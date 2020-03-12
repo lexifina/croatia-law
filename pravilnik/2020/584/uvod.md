@@ -1,0 +1,1 @@
+Na temelju članka 44. stavka 4. Zakona o socijalnoj skrbi (»Narodne novine«, br.: 157/13, 152/14, 99/15, 52/16, 16/17, 130/17 i 98/19), ministrica za demografiju, obitelj, mlade i socijalnu politiku donijela je
