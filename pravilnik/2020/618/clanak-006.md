@@ -1,0 +1,6 @@
+# Članak 6.
+(1) Predsjednik suda, Glavni državni odvjetnik RH obavještava pisanim ili elektroničkim putem Pravosudnu akademiju o polaznicima koji su odabrani sa za sudjelovanje u pojedinoj aktivnosti stručnog usavršavanja, a vodeći računa o ravnomjernom sudjelovanju polaznika.
+(2) U slučajevima u kojima se polaznik može sam izravno prijaviti za sudjelovanje u pojedinoj aktivnosti stručnog usavršavanja potrebno je uz prijavu dostaviti i pisanu suglasnost čelnika pravosudnog tijela u kojemu je zaposlen.
+(3) Pri odabiru polaznika iz članka 6. stavka 2. koji će sudjelovati u pojedinoj aktivnosti stručnog usavršavanja, Pravosudna akademija će voditi računa o ravnomjernom prisustvovanju polaznika, o području kojim se polaznik bavi, kao i o ciljnoj skupini kojoj je pojedina aktivnost stručnog usavršavanja namijenjena.
+(4) Prednost pri odabiru imaju oni polaznici koji uopće nisu sudjelovali ili su sudjelovali u manjem broju aktivnosti stručnog usavršavanja, odnosno oni stečajni upravitelji ili drugi sudionici u postupcima pred pravosudnim tijelima kojima je pohađanje određene aktivnosti stručnog usavršavanja nužno za zadržavanje prava na obavljanje svoje dužnosti.
+(5) Naknadne prijave, u smislu odredbe stavka 1. i 2. ovoga članka, uzimaju se u obzir samo ako ima slobodnih mjesta.

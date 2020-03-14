@@ -1,0 +1,7 @@
+## III. PRAVILA PRIJAVLJIVANJA I ODABIRA POLAZNIKA ZA SUDJELOVANJE U STRUČNOM USAVRŠAVANJU
+# Članak 5.
+(1) Pravosudna akademija dostavlja poziv za sudjelovanje u pojedinoj vrsti stručnog usavršavanja predsjedniku suda odnosno Glavnom državnom odvjetniku RH ili čelniku pravosudnog tijela u kojem je pravosudni službenik zaposlen, najkasnije šezdeset dana prije održavanja aktivnosti stručnog usavršavanja. U pozivu se određuje broj polaznika koji mogu sudjelovati u aktivnosti stručnog usavršavanja.
+(2) Poziv za sudjelovanje može se uputiti pisanim putem, elektroničkom poštom te objavom na mrežnim stranicama Pravosudne akademije.
+(3) Drugim sudionicima u postupcima pred pravosudnim tijelima (stalnim sudskim vještacima, stalnim sudskim procjeniteljima, stalnim sudskim tumačima, stečajnim upraviteljima, povjerenicima u postupcima stečaja potrošača, kandidatima za polaganje stručnih ispita i dr.), Pravosudna akademija poziv sudjelovanje u pojedinoj vrsti stručnog usavršavanja dostavlja objavom na svojim mrežnim stranicama.
+(4) Poziv za sudjelovanje u pojedinoj aktivnosti stručnog usavršavanja sadrži osnovne podatke o vrsti, datumu, mjestu, trajanju, temi i ciljnoj skupini, rok prijave za sudjelovanje te ukoliko se plaća naknada za sudjelovanje, podatak o visini naknade i načinu i roku uplate.
+(5) Iznimno od stavka 1. i 3. ovog članka poziv za sudjelovanje u određenim aktivnostima stručnog usavršavanja se može uputiti izravno polazniku čijim osobnim podacima Pravosudna akademija raspolaže u evidenciji iz čl. 7. ovog Pravilnika.

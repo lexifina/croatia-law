@@ -1,0 +1,1 @@
+Na temelju članka 12. podstavka 5. Zakona o Pravosudnoj akademiji (»Narodne novine«, broj 52/19) u vezi s člankom 4. Zakona o Pravosudnoj akademiji, Upravno vijeće Pravosudne akademije na sjednici održanoj 2. ožujka 2020. godine donijelo je
