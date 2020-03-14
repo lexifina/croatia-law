@@ -1,0 +1,1 @@
+Na temelju članka 12. stavka 1. točaka 1., 7. i 8. Zakona o morskom ribarstvu (»Narodne novine«, br. 62/17, 130/17 i 14/19), a u skladu s Uredbom Vijeća (EU) 2019/2236 od 16. prosinca 2019. o utvrđivanju ribolovnih mogućnosti za 2020. za određene riblje stokove i skupine ribljih stokova koje se primjenjuju u Sredozemnom i Crnome moru, ministrica poljoprivrede donosi
