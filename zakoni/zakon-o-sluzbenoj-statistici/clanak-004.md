@@ -1,0 +1,5 @@
+## Pojam i svrha službene statistike
+# Članak 4.
+(1) Službena statistika označuje kvantitativne i kvalitativne, agregirane i reprezentativne podatke i informacije koje opisuju pojave u promatranoj populaciji u skladu s pozitivnim propisima koji uređuju službenu statistiku u Republici Hrvatskoj.
+(2) Službena statistika pruža, na nepristranoj osnovi, državi, gospodarstvu i javnosti pouzdane statističke podatke o gospodarskom, demografskom, društvenom, zdravstvenom i ekološkom stanju, djelatnostima, događajima ili pojavama koje se mogu mjeriti statističkim metodama te osigurava ispunjavanje međunarodnih obveza Republike Hrvatske koje se odnose na proizvodnju, korištenje i diseminaciju službene statistike.
+(3) Svrha službene statistike jest kontinuirana proizvodnja i diseminacija kvalitetnih statističkih podataka i razvoj sustava službene statistike u skladu s temeljnim načelima službene statistike utvrđenim propisima iz područja statistike, Temeljnim načelima službene statistike Ujedinjenih naroda i Kodeksom prakse europske statistike.

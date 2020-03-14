@@ -1,0 +1,6 @@
+## Obveze posjednika administrativnih izvora podataka i podataka prikupljenih metodom promatranja i praćenja
+# Članak 49.
+(1) Posjednici administrativnih izvora podataka i podataka prikupljenih metodom promatranja i praćenja, bez obzira na svoj pravno ustrojstveni oblik, dužni su dati na korištenje podatke u skladu sa zahtjevom tijela iz članka 47. stavka 1. ovoga Zakona bez naknade.
+(2) Posjednici administrativnih izvora podataka pri prijenosu osobnih podataka nositeljima službene statistike, a koje su prikupili izravno od ispitanika, nisu dužni obavještavati ispitanike o prijenosu osobnih podataka za statističke svrhe.
+(3) Posjednici administrativnih izvora podataka i podataka prikupljenih metodom promatranja i praćenja dužni su, radi učinkovitog pristupa podacima, Državnom zavodu za statistiku na njegov poseban zahtjev omogućiti procjenu sadržaja i potencijalnih mogućnosti navedenih izvora podataka.
+(4) Uvjeti i način provedbe aktivnosti za postizanje učinkovitog pristupa podacima iz stavka 3. ovoga članka mogu se urediti pisanim sporazumom između Državnog zavoda za statistiku i posjednika administrativnih izvora podataka odnosno posjednika podataka prikupljenih metodom promatranja i praćenja.

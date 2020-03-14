@@ -1,0 +1,6 @@
+## Obveze izvještajnih jedinica
+# Članak 45.
+(1) Za potrebe provedbe aktivnosti službene statistike koje su utvrđene Godišnjim provedbenim planom ili Programom te za potrebe provedbe statističkih aktivnosti na temelju odredbe članka 39. stavka 1. ovoga Zakona izvještajne jedinice obvezne su davati podatke prema zahtjevu nositelja službene statistike.
+(2) Izvještajne jedinice dužne su za potrebe provedbe aktivnosti iz stavka 1. ovoga članka davati točne, potpune i ažurne podatke bez naknade, u sadržaju i obliku koji određuje nositelj službene statistike i u rokovima utvrđenima Godišnjim provedbenim planom ili zahtjevom nositelja službene statistike iz članka 39. stavka 1. ovoga Zakona.
+(3) Za potrebe statističkog istraživanja Intrastat izvještajne jedinice dužne su Ministarstvu financija, Carinskoj upravi dostavljati podatke o robnoj razmjeni u Europskoj uniji, u skladu s uvjetima utvrđenima u stavcima 1. i 2. ovoga članka, a iznimno, u slučaju uključivanja nove izvještajne jedinice, rok za dostavu podataka određuje nadležni nositelj službene statistike.
+(4) Kada izvještajne jedinice dobrovoljno daju podatke za potrebe provedbe pilot-istraživanja koja nisu utvrđena Godišnjim provedbenim planom, dužne su davati točne, potpune i ažurne podatke bez naknade u sadržaju, obliku i u rokovima koje određuje nositelj službene statistike.

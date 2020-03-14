@@ -1,0 +1,3 @@
+## Usklađenost s propisima Europske unije
+# Članak 2.
+Ovim Zakonom osigurava se provedba Uredbe (EZ) br. 223/2009 Europskog parlamenta i Vijeća od 11. ožujka 2009. o europskoj statistici i stavljanju izvan snage Uredbe (EZ, Euratom) br. 1101/2008 Europskog parlamenta i Vijeća o dostavi povjerljivih statističkih podataka Statističkom uredu Europskih zajednica, Uredbe Vijeća (EZ) br. 322/97 o statistici Zajednice i Odluke Vijeća 89/382/EEZ, Euratom, o osnivanju Odbora za statistički program Europskih zajednica (SL L 87, 31. 3. 2009.), kako je izmijenjena Uredbom (EU) br. 2015/759 Europskog parlamenta i Vijeća od 29. travnja 2015. o izmjeni Uredbe (EZ) br. 223/2009 o europskoj statistici (SL L 123, 19. 5. 2015. − u daljnjem tekstu: Uredba (EZ) br. 223/2009).
