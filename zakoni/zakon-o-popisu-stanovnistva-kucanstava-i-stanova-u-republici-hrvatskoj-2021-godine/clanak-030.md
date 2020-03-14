@@ -1,0 +1,3 @@
+## Sadržaj tehničke dokumentacije
+# Članak 30.
+Tehnička dokumentacija sastoji se od popisa prostornih jedinica, preglednih kartografskih prikaza, skica statističkih i popisnih krugova te obrazaca PK − Podaci o popisnom krugu za sve prostorne jedinice relevantne za provođenje Popisa (država − ujedno i statistička prostorna jedinica 1. razine, statističke prostorne jedinice 2. razine, županije i Grad Zagreb − statističke prostorne jedinice 3. razine, gradovi i općine, jedinice mjesne samouprave – gradski kotari, gradske četvrti i područja mjesnih odbora, naselje, statistički krug, popisni krug, ulica i trg te zgrada s pripadajućim kućnim brojevima).
