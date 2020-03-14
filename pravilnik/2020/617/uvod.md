@@ -1,0 +1,1 @@
+Na temelju članka 55. stavka 5. Zakona o zaštiti prirode (»Narodne novine«, br. 80/13, 15/18, 14/19, 127/19), ministar zaštite okoliša i energetike, uz prethodno mišljenje tijela državne uprave nadležnog za poslove poljoprivrede, šumarstva, lovstva, ribarstva i akvakulture, donosi
