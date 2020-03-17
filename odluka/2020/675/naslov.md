@@ -1,0 +1,1 @@
+Odluka o odgodi plaćanja zakupnine, naknade za dugogodišnji zakup, naknade za dugogodišnji zakup za ribnjake, naknade za koncesiju i naknada za privremeno korištenje za poljoprivredno zemljište u vlasništvu Republike Hrvatske
