@@ -1,0 +1,8 @@
+## Posebni uvjeti za obavljanje geofizičkih istraživanja
+# Članak 5.
+Poslove geofizičkih istraživanja može obavljati pravna osoba ili fizička osoba obrtnik koja ispunjava niže posebne uvjete:
+1. da ima najmanje jednog diplomiranog inženjera geologije odnosno magistra geologije ili rudarstva, odnosno magistra inženjera rudarstva s položenim stručnim ispitom ili jednog diplomiranog inženjera fizike, odnosno magistra fizike zaposlenog na neodređeno vrijeme i puno radno vrijeme, s najmanje 5 godina radnog iskustva na poslovima geofizičkih istraživanja
+2. da ima u vlasništvu ili leasingu opremu za geofizička istraživanja za dvije ili više metoda: metoda geoelektričnih istraživanja ili seizmičkih istraživanja ili elektromagnetskih istraživanja ili metoda georadara ili metoda karotažnih mjerenja u bušotinama, i to, ovisno o metodi, najmanje: 1 instrument za geoelektrična istraživanja s pripadajućom opremom i licenciranim programom za interpretaciju mjerenja ili 1 instrument za istraživanje metodom refrakcijske seizmike ili plitke reflektivne seizmike sa pripadajućom opremom i licenciranim programom za interpretaciju mjerenja ili 1 instrument za elektromagnetska istraživanja sa pripadajućom opremom i licenciranim programom za interpretaciju mjerenja ili 1 georadar sa pripadajućom opremom i licenciranim programom za interpretaciju mjerenja ili 1 instrument za karotažna mjerenja u bušotinama sa pripadajućom opremom i licenciranim programom za interpretaciju mjerenja i
+3. da ima pravo korištenja najmanje jednog licenciranog informatičkog programa za obradu podataka geofizičkih mjerenja.
+Posebni uvjeti za obavljanje bušenja istražnih
+bušotina i zdenaca

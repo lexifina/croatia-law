@@ -1,0 +1,1 @@
+Pravilnik o posebnim uvjetima za obavljanje djelatnosti vodoistražnih radova i drugih hidrogeoloških usluga, poslova preventivne obrane od poplava te poslova i mjera redovite i izvanredne obrane od poplava te održavanja detaljnih građevina za melioracijsku odvodnju i građevina za navodnjavanje
