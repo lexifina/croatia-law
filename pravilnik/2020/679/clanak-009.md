@@ -1,0 +1,2 @@
+# Članak 9.
+U Prilogu III. iza grafičkog prikaza dodaje se rečenica: »Napomena: označavanje ulaganja provodi se prije svega na mjestima na kojima je isticanje znaka uočljivo, odnosno primjereno je koristiti oznaku na mjestu gdje se odvija informiranje, na tiskanom promotivnom materijalu, web stranicama, promotivnim filmovima, pri oglašavanju u tisku, TV-u i radiju, te internetu odnosno u vanjskom oglašavanju na reklamnim panoima.«
