@@ -1,0 +1,3 @@
+# Članak 1.
+U Zakonu o lovstvu (»Narodne novine«, br. 99/18. i 32/19.) u članku 31. iza stavka 10. dodaje se stavak 11. koji glasi:
+»(11) Iznimno od stavaka 4., 5. i 6. ovoga članka, sredstva iz stavka 1. točaka 1., 3. i 4. ovoga članka mogu se koristiti za otklanjanje ili ublažavanje posljedica nastalih uslijed posebnih okolnosti odnosno događaja ili određenog stanja koje se nije moglo predvidjeti i na koje se nije moglo utjecati, a koje ugrožava život i zdravlje građana, imovinu veće vrijednosti, znatno narušava okoliš, narušava gospodarsku aktivnost ili uzrokuje znatnu gospodarsku štetu, o čemu odlučuje ministar.«.
