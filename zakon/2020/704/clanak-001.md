@@ -1,0 +1,3 @@
+# Članak 1.
+U Zakonu o održivoj uporabi pesticida (»Narodne novine«, br. 14/14. i 115/18.) u članku 26. stavku 1. iza točke 4. dodaje se točka 5. koja glasi:
+»5. Uslijed posebnih okolnosti odnosno događaja ili određenog stanja koje se nije moglo predvidjeti i na koje se nije moglo utjecati, a koje ugrožava život i zdravlje građana, imovinu veće vrijednosti, znatno narušava okoliš, narušava gospodarsku aktivnost ili uzrokuje znatnu gospodarsku štetu, moguće je da ovlaštene pravne i fizičke osobe za provedbu izobrazbe na zahtjev obveznika izobrazbe administrativno produže valjanost iskaznice na dodatnih šest mjeseci, bez pohađanja dopunske izobrazbe.«.
