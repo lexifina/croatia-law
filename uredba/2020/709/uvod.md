@@ -1,0 +1,1 @@
+Na temelju članka 27. stavka 1. Zakona o financiranju vodnoga gospodarstva (»Narodne novine«, br. 153/09, 90/11, 56/13, 120/16, 127/17 i 66/19), Vlada Republike Hrvatske je na sjednici održanoj 19. ožujka 2020. godine donijela
