@@ -1,0 +1,2 @@
+# Članak 4.
+Sredstva koja su ostvarena s osnove novčane naknade na temelju Zakona o profesionalnoj rehabilitaciji i zapošljavanju osoba s invaliditetom (»Narodne novine«, br. 157/13., 152/14. i 39/18.), a koja su na dan stupanja na snagu ovoga Zakona ostala neutrošena mogu se koristiti i za druge namjene u svrhu očuvanja radnih mjesta i zadržavanja u zaposlenosti, sukladno odluci ministra nadležnog za rad iz članka 2. ovoga Zakona.
