@@ -1,0 +1,4 @@
+# Članak 8.
+U članku 65. stavku 1. točke a) i b) mijenjaju se i glase:
+a) plovi pod zastavom države uvrštene zbog broja zabrana plovidbe na crnu listu, usvojenu u skladu s Pariškim memorandumom na temelju podataka iz baze podataka inspekcijskih nadzora koje Komisija objavljuje svake godine, i kojem je izdana zabrana plovidbe više od dva puta tijekom prethodnih 36 mjeseci u luci ili na sidrištu Republike Hrvatske ili države potpisnice Pariškog memoranduma, ili
+b) plovi pod zastavom države uvrštene zbog broja zabrana plovidbe na sivu listu, usvojenu u skladu s Pariškim memorandumom na temelju podataka iz baze podataka inspekcijskih nadzora koje Komisija objavljuje svake godine, i kojem je izdana zabrana plovidbe više od dva puta tijekom prethodna 24 mjeseca u luci ili na sidrištu Republike Hrvatske ili države potpisnice Pariškog memoranduma.«

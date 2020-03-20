@@ -1,0 +1,1 @@
+Na temelju članka 166. stavka 3. Pomorskog zakonika (»Narodne novine«, br. 181/04, 76/07, 146/08, 61/11, 56/13, 26/15, 17/19) u svezi s člankom 31. stavka 6. Zakona o sigurnosnoj zaštiti pomorskih brodova i luka (»Narodne novine« br. 108/17) ministar mora, prometa i infrastrukture, donosi
