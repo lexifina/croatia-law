@@ -1,0 +1,3 @@
+# Članak 1.
+U Zakonu o sjemenu, sadnom materijalu i priznavanju sorti poljoprivrednog bilja (»Narodne novine«, br. 140/05., 35/08., 25/09., 124/10., 55/11., 14/14. i 115/18.) u članku 74. iza stavka 3. dodaje se stavak 4. koji glasi:
+»(4) Iznimno od stavka 1. ovoga članka, neutrošeni namjenski prihodi mogu se koristiti za rashode nastale uslijed posebnih okolnosti odnosno događaja ili određenog stanja koje se nije moglo predvidjeti i na koje se nije moglo utjecati, a koje ugrožava život i zdravlje građana, imovinu veće vrijednosti, znatno narušava okoliš, narušava gospodarsku aktivnost ili uzrokuje znatnu gospodarsku štetu, o čemu odlučuje ministar.«.
