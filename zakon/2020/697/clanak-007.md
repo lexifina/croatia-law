@@ -1,0 +1,3 @@
+# Članak 7.
+U članku 15. stavak 1. mijenja se i glasi:
+»(1) Neaktivnu imovinu u smislu ovoga Zakona čini zemljište i/ili građevine u vlasništvu Republike Hrvatske kojima upravlja ministarstvo nadležno za upravljanje državnom imovinom, a koja nije u funkciji i na kojoj se ne obavljaju nikakve gospodarske aktivnosti. Neaktivnom imovinom u vlasništvu Republike Hrvatske za koju proizlazi namjera korištenja potpore za projekte ulaganja kroz gospodarsko aktiviranje neaktivne imovine u vlasništvu Republike Hrvatske neće se smatrati ona neaktivna imovina u vlasništvu Republike Hrvatske koja ima neriješene imovinskopravne odnose, imovina na kojoj postoji bilo koja vrsta upisanog tereta te imovina koja u naravi ima status poljoprivrednog, šumskog ili turističkog zemljišta.«.

@@ -1,0 +1,3 @@
+# Članak 4.
+U članku 9. stavak 7. mijenja se i glasi:
+»(7) Ako korisnik potpore smanji broj novih radnih mjesta utvrđenih odredbama stavka 1. ovoga članka prije isteka propisanog minimalnog razdoblja očuvanja predmetnog ulaganja iz članka 6. stavka 1. točke 7. ovoga Zakona i/ili ako ne poštuje minimalno razdoblje očuvanja predmetnog ulaganja iz članka 6. stavka 1. točke 7. ovoga Zakona, prestaje mu pravo korištenja poreznih povlastica za čitavo razdoblje za koje su odobrene, uz obvezu povrata sredstava ostvarenih korištenjem odobrenih povlastica uvećanih za iznos osnovne referentne stope, koja se određuje i objavljuje na temelju pravila o državnim potporama, uvećane za 100 baznih bodova.«.
