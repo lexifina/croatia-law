@@ -1,0 +1,1 @@
+Na temelju članka 70. stavka 5. Zakona o pružanju usluga u turizmu (»Narodne novine«, br. 130/17, 25/19 i 98/19), a u vezi s člankom 16. stavkom 3. Zakona o reguliranim profesijama i priznavanju inozemnih stručnih kvalifikacija (»Narodne novine«, br. 82/15 i 70/19) ministar turizma, donosi
