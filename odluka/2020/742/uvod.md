@@ -1,0 +1,1 @@
+Na temelju članka 22.a Zakona o sustavu civilne zaštite (»Narodne novine« br. 82/15, 118/18 i 31/20) i članka 57.a Zakona o trgovini (»Narodne novine« br. 87/08, 116/08, 76/09, 114/11, 68/13, 30/14, 32/19, 98/19 i 32/20) Stožer civilne zaštite Republike Hrvatske, 21. ožujka 2020. godine, donosi
