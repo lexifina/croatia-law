@@ -1,1 +1,0 @@
-Na temelju članka 26. Odluke o Uredu predsjednice Republike Hrvatske (»Narodne novine«, broj 20/15, 81/16 i 116/16), a u vezi s člankom 10. Zakona o tajnosti podataka (»Narodne novine«, broj 79/07 i 86/12), predstojnica Ureda predsjednice Republike Hrvatske donosi
