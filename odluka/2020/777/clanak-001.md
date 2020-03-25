@@ -1,0 +1,2 @@
+# Članak 1.
+Ovom se Odlukom, uslijed epidemije bolesti COVID-19 uzrokovane SARS-CoV-2 virusom, temeljem Odluke Stožera civilne zaštite Republike Hrvatske o mjerama ograničavanja društvenih okupljanja, rada u trgovini, uslužnih djelatnosti i održavanja sportskih i kulturnih događaja, od 19. ožujka 2020. godine, privremeno ukida obveza plaćanja članarine za djelatnosti iz Priloga I., koji čini sastavni dio ove Odluke.
