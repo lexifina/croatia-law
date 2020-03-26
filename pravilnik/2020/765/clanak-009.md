@@ -1,0 +1,5 @@
+# Članak 9.
+(1) Obveznici iz članka 2. točaka 3., 4., 5., 6., 7., 8. i 9. ovog Pravilnika plaćaju naknadu na temelju rješenja Hrvatskih voda u mjesečnim, tromjesečnim i godišnjim obračunskim razdobljima po zaprimanju prijave koja je uređena propisom iz članka 92. stavka 2. Zakona o vodama.
+(2) Obveznici iz članka 2. točke 2. ovog Pravilnika samostalno obračunavaju naknadu za korištenje voda prema članku 25. stavku 3. Zakona o financiranju vodnog gospodarstva (»Narodne novine«, broj 153/09, 90/11, 56/13, 120/16, 127/17 i 66/19) na temelju ostvarene prosječne ponderirane cijene električne energije u prethodnoj godini i ukupne količine proizvedene električne energije u tijeku prethodnog mjeseca, a plaćaju je do kraja tekućeg mjeseca za prethodni mjesec.
+(3) Istekom kalendarske godine, obveznici iz članka 2. točke 2. ovoga Pravilnika plaćaju naknadu na temelju rješenja Hrvatskih voda po konačnom obračunu za prethodnu godinu.
+(4) Obveznici iz članka 2. točaka 10. i 11. ovog Pravilnika plaćaju naknadu na temelju rješenja Hrvatskih voda, koje se izdaje jednom godišnje za tekuću godinu, s rokom plaćanja prije početka korištenja voda.
