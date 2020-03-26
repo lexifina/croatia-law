@@ -1,0 +1,1 @@
+Na temelju članka 170. stavka 3., članka 171. stavaka 5., 6., 8. i 9. Zakona o alternativnim investicijskim fondovima (»Narodne novine«, broj 21/18 i 126/19) te članka 19. stavka 6. Zakona o računovodstvu (»Narodne novine« broj 78/15, 134/15, 120/16 i 116/18), Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća održanoj 12. ožujka 2020. godine donosi
