@@ -1,0 +1,2 @@
+# Članak 7.
+Zahtjevi za izdavanje prethodnog mišljenja iz članka 8. stavka 1. Pravilnika i zahtjevi za odobravanje početka priređivanja igara na sreću u casinima, na automatima i igara klađenja, podnijeti do stupanja na snagu ovoga Pravilnika dovršit će se sukladno odredbama Pravilnika o prostornim i tehničkim uvjetima za priređivanje igara na sreću u casinima, na automatima i uplatnim mjestima kladionica (»Narodne novine«, br. 38/10, 130/10, 69/11, 15/12 i 151/14).
