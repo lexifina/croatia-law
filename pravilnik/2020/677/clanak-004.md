@@ -1,0 +1,8 @@
+# Članak 4.
+Članak 6. mijenja se i glasi:
+»(1) Za gradnju građevina i izvođenje radova iz članaka 2., 3., 3.a, članka 4. točke 1. podtočke c) i d), točke 2., točke 3., točke 4., točke 5., točke 6., točke 7., točke 8. podtočke a), c) i d), točke 10., točke 11., točke 12. podtočke a), točke 13., točke 14., točke 17., točke 20., točke 23., članka 5. točke 2., točke 3., točke 4., točke. 5., točke 9., točke 10., točke 11., točke 12., točke 13., točke 14., točke 15., točke 16., točke 18., točke 20., točke 21. i članka 5.a ovoga Pravilnika ne izdaje se uporabna dozvola.
+(2) Glavni projekti iz članaka 4. i 5. ovoga Pravilnika za građenje građevina i izvođenje radova za koje se prema ovom Pravilniku izdaje uporabna dozvola, osim projekta iz članka 5. točaka 6. i 7. ovoga Pravilnika, moraju sadržavati potvrde javnopravnih tijela propisane posebnim propisima.
+(3) Na izdavanje potvrda iz stavka 2. ovoga članka i na utvrđivanje posebnih uvjeta koje prethodi izdavanju tih potvrda, na odgovarajući se način primjenjuju odredbe Zakona o gradnji kojima je uređeno utvrđivanje posebnih uvjeta i izdavanje potvrda glavnog projekta za građenje građevine za koju se ne izdaje lokacijska dozvola.
+(4) Investitor je dužan prijaviti početak građenja građevina iz članaka 4. i 5.a stavka 2. ovoga Pravilnika i izvođenja radova iz članka 5. ovoga Pravilnika sukladno Zakonu o gradnji.
+(5) Stručni nadzor građenja provodi se nad građenjem građevina iz članaka 4. i 5.a stavka 2. ovoga Pravilnika i nad izvođenjem radova iz članka 5. ovoga Pravilnika.
+(6) Stavak 1. ovoga članka primjenjuje se od 24. listopada 2019.«.
