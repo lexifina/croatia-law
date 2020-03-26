@@ -1,0 +1,3 @@
+# Članak 2.
+(1) Zbog posebnih okolnosti, osobe koje pružaju ugostiteljske usluge u domaćinstvu i na obiteljskom poljoprivrednom gospodarstvu oslobađaju se plaćanja pola iznosa godišnjeg paušalnog iznosa turističke pristojbe za glavni krevet i smještajnu jedinicu u kampu i kamp-odmorištu odnosno prema kapacitetu u objektu za robinzonski smještaj koji se koriste za pružanje usluga smještaja sukladno posebnom propisu kojim se uređuje obavljanje ugostiteljske djelatnosti za 2020. godinu.
+(2) Osobe iz stavka 1. ovoga članka oslobađaju se plaćanja godišnjeg paušalnog iznosa turističke pristojbe za pomoćne krevete za 2020. godinu u cijelosti.
