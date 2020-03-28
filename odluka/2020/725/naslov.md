@@ -1,0 +1,1 @@
+Odluka o utvrđivanju ovlaštenih zdravstvenih ustanova u kojima se obavlja stručna procjena radi ostvarivanja statusa hrvatskog ratnog vojnog invalida po osnovi bolesti, pogoršanja bolesti odnosno pojave bolesti kao posljedice sudjelovanja u obrani suvereniteta Republike Hrvatske, za 2020. godinu
