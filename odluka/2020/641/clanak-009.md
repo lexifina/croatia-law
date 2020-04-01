@@ -1,0 +1,2 @@
+# Članak 9.
+Postupci u svezi s utvrđivanjem i naplatom poreza na kuće za odmor započeti prema odredbama Odluka o općinskim porezima Općine Gornji Kneginec (»Narodne novine« broj 74/17 i 117/17 i »Službeni vjesnik Općine Gornji Kneginec« broj 7/2017, 11/2017), a koji nisu dovršeni do stupanja na snagu ove Odluke, dovršit će se prema odredbama Odluke o općinskim porezima Općine Gornji Kneginec (»Narodne novine« broj 74/17 i 117/17 i »Službeni vjesnik Općine Gornji Kneginec« broj 7/2017, 11/2017).
