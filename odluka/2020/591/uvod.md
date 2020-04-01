@@ -1,0 +1,1 @@
+Na temelju članka 20. stavak 1. i članka 42. stavak 1. Zakona o lokalnim porezima (»Narodne novine«, br. 115/16 i 101/17), te članka 22. Statuta Općine Rugvica (»Službeni glasnik Općine Rugvica« broj 3/18) Općinsko vijeće Općine Rugvica na 24. sjednici održanoj 20. veljače 2020. g. donosi
