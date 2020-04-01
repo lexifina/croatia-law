@@ -1,0 +1,3 @@
+# Članak 6.
+(1) Posebni porez na predmete oporezivanja iz članka 4. stavka 3. točaka 1. i 3. Zakona koji sadrže metil-ksantine, a ne sadrže taurin plaća se prema sadržaju metil-ksantina i iznosi 80,00 kuna/hl bezalkoholnog pića. Na predmete oporezivanja čiji je sadržaj metil-ksantina manji od 15 mg/100 ml proizvoda posebni porez se plaća prema sadržaju šećera.
+(2) Posebni porez na predmete oporezivanja iz članka 4. stavka 3. točke 2. Zakona koji sadrže metil-ksantine, a ne sadrže taurin plaća se prema sadržaju metil-ksantina i iznosi 560,00 kuna/hl sirupa ili koncentrata. Na predmete oporezivanja čiji je sadržaj metil-ksantina manji od 15 mg/100 ml proizvoda u odgovarajućem omjeru razrijeđenog bezalkoholnog pića posebni porez plaća se prema sadržaju šećera.
