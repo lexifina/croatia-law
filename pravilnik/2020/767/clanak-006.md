@@ -1,0 +1,4 @@
+# Članak 6.
+(1) Drugostupanjskom zdravstvenom povjerenstvu u drugostupanjskom postupku mora biti dostupna medicinska dokumentacija o prethodnim zdravstvenim pregledima osobe čija se ocjena zdravstvene sposobnosti preispituju, a po potrebi i sva ostala medicinska dokumentacija.
+(2) Ako je nužno u svrhu utvrđivanja dijagnostičkih i diferencijalno-dijagnostičkih odrednica, osoba čija se ocjena zdravstvene sposobnosti preispituje može biti upućena na proširenu medicinsku obradu, preglede i pretrage u zdravstvene ustanove ili trgovačka društva ili na pregled kod određenog doktora medicine, specijaliste.
+(3) Medicinsku i svu ostalu dokumentaciju, na temelju koje je dana ocjena zdravstvene sposobnosti iz članka 2. ovoga Pravilnika, drugostupanjsko zdravstveno povjerenstvo obvezno je čuvati sukladno odredbama posebnoga zakona kojim se propisuje čuvanje arhivskog i registraturnog gradiva.
