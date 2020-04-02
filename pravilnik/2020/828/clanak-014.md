@@ -1,0 +1,2 @@
+# Članak 14.
+Reprodukcijski sadni materijal i sadnice kategorije CAC na koje je pričvršćen Certifikat proizvođača u boji koja nije žuta a stavljen je na tržište Republike Hrvatske prije stupanja na snagu ovoga Pravilnika smije se nalaziti na tržištu do 30. lipnja 2021. godine i na njega će se primjenjivat uvjeti u skladu s odredbama Pravilnika o stavljanju na tržište reprodukcijskog sadnog materijala i sadnica namijenjenih za proizvodnju voća (»Narodne novine« broj 9/17).«.
