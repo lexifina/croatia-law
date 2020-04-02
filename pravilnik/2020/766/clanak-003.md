@@ -1,0 +1,6 @@
+# Članak 3.
+(1) Prije početka zdravstvenog pregleda iz članka 2. stavka 1. ovoga Pravilnika, osoba koja će pristupiti zdravstvenom pregledu, a koja se liječi, mora prethodno pribaviti mišljenje svoga izabranog liječnika obiteljske/opće medicine (u daljnjem tekstu: izabrani liječnik) i mišljenje izabranog doktora medicine specijalista psihijatrije s popisom verificiranih bolesti i stanja i popisom terapije koju osoba uzima te koje na dan početka zdravstvenog pregleda nije starije od 30 dana.
+(2) Mišljenja iz stavka 1. ovoga članka izabrani liječnici izdaju na obrascu čiji su izgled i sadržaj utvrđeni u Prilogu I. i Prilogu II. koji su tiskani uz ovaj Pravilnik i čine njegov sastavni dio.
+(3) Prilikom zdravstvenih pregleda iz članka 2. stavka 1. ovoga Pravilnika, specijalist medicine rada mora zatražiti uvid u zdravstvenu dokumentaciju osobe na pregledu, a koja je pohranjena kod njegovog izabranog liječnika, drugih doktora medicine ili u drugim zdravstvenim ustanovama ili trgovačkim društvima.
+(4) Izjavu o pristanku pristupu medicinskoj dokumentaciji kao i o pristanku na obavljanje probirnog testa na droge i testa na alkohol, osoba na pregledu potpisuje u karton zdravstvenog pregleda.
+(5) Osoba koja nije potpisala izjavu iz stavka 4. ovoga članka ne može pristupiti zdravstvenom pregledu za držanje i nošenje oružja.

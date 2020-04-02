@@ -1,0 +1,1 @@
+Na temelju članka 11. stavka 5. Zakona o nabavi i posjedovanju oružja građana (»Narodne novine«, broj 94/2018), uz prethodnu suglasnost ministra nadležnog za poslove hrvatskih branitelja, ministar zdravstva donosi
