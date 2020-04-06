@@ -1,0 +1,4 @@
+# Članak 2.
+(1) Hrvatski zavod za zdravstveno osiguranje na teret sredstava obveznoga zdravstvenog osiguranja osigurava pokriće troškova u visini cijene ekvivalentnog pomagala s Osnovne liste pomagala, umanjene za iznos sudjelovanja u cijeni pomagala s Osnovne liste pomagala koju osigurava osigurana osoba neposredno ili putem dopunskoga zdravstvenog osiguranja sukladno Zakonu o dobrovoljnom zdravstvenom osiguranju (»Narodne novine«, broj 85/06., 150/08. i 71/10. - u daljnjem tekstu: Zakon).
+(2) Dodatna lista pomagala sadrži i razliku u cijeni pomagala u odnosu na cijenu ekvivalentnog pomagala s Osnovne liste pomagala za koju se osigurana osoba može dodatno zdravstveno osigurati sukladno Zakonu.
+(3) Pomagala s Dodatne liste pomagala mogu se propisati samo uz suglasnost osigurane osobe.
