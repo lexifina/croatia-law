@@ -1,0 +1,5 @@
+# Članak 7.
+(1) Uz obavijest o izmjenama koje se odnose na dokumentaciju te dokumente i podatke na temelju kojih je dano odobrenje za paralelni uvoz lijeka, podnositelj je obvezan dostaviti Agenciji popunjeni Obrazac za izmjenu odobrenja za paralelni uvoz lijeka, koji je tiskan u Prilogu 2. ovoga Pravilnika i čini njegov sastavni dio.
+(2) U slučaju izmjene odobrenja za stavljanje lijeka u promet u zemlji iznošenja i/ili u Republici Hrvatskoj koje utječu na izmjenu podataka u sažetku opisa svojstava lijeka i/ili upute o lijeku i/ili označavanja lijeka, nositelj odobrenja za paralelni uvoz lijeka obvezan je dostaviti Agenciji novi prijedlog sažetka opisa svojstava lijeka i/ili upute o lijeku i/ili označavanja lijeka na hrvatskom jeziku s naznačenom izmjenom te isti prijedlog u čistopisu.
+(3) Nositelj odobrenja za paralelni uvoz lijeka ne smije izmijeniti dokumentaciju i podatke iz stavka 1. ovoga članka prije odobrenja Agencije.
+(4) Podnositelj zahtjeva obvezan je uz Obrazac iz Priloga II. ovoga Pravilnika priložiti dokumentaciju navedenu u tom Obrascu.

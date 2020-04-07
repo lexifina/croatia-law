@@ -1,0 +1,5 @@
+# Članak 5.
+(1) Lijek za koji se podnosi zahtjev za paralelni uvoz treba nositi naziv lijeka koji u Republici Hrvatskoj ima odobrenje za stavljanje u promet i prema kojem se utvrđuje sličnost s lijekom za koji je podnesen zahtjev za davanje odobrenja za paralelni uvoz.
+(2) Iznimno od stavka 1. ovoga članka, ako podnositelj zahtjeva iz opravdanih razloga predlaže promjenu naziva lijeka za koji se traži paralelni uvoz, obvezan je Agenciji dostaviti obrazloženje potrebe promjene naziva lijeka.
+(3) Ako podnositelj zahtjeva nije u mogućnosti dostaviti kvantitativni sastav pomoćnih tvari lijeka za koji je podnesen zahtjev za davanje odobrenja za paralelni uvoz, Agencija će podatak o potpunom sastavu lijeka zatražiti od nadležnog tijela države članice Europske unije u kojoj lijek ima odobrenje za stavljanje u promet.
+(4) Agencija na svojoj mrežnoj stranici objavljuje dodatne upute vezane uz podatke koji se navode u sažetku opisa svojstava lijeka, uputi o lijeku i označivanju paralelno uvezenog lijeka.

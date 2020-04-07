@@ -1,0 +1,5 @@
+# Članak 2.
+(1) Zahtjev za davanje odobrenja za paralelni uvoz lijeka (u daljnjem tekstu: zahtjev) može podnijeti veleprodaja koja ima dozvolu za promet lijekovima na veliko Agencije za lijekove i medicinske proizvode (u daljnjem tekstu: Agencija) ili nadležnog tijela druge države članice Europske unije, a koja nije u poslovnom odnosu s nositeljem odobrenja za stavljanje lijeka u promet za lijek za koji se zahtjev podnosi.
+(2) Paralelni promet lijekova u Republici Hrvatskoj mogu obavljati fizičke ili pravne osobe iz stavka 1. ovoga članka koje su o tome obavijestile Europsku agenciju za lijekove i dobile odobrenje Europske agencije za lijekove o paralelnom prometu lijekom.
+(3) Pravne ili fizičke osobe iz stavka 2. ovoga članka obvezne su pisano obavijestiti Agenciju o namjeri paralelnog prometa lijekom na području Republike Hrvatske, najkasnije 15 dana prije dana unošenja lijeka u Republiku Hrvatsku.
+(4) U prilogu obavijesti iz stavka 3. ovoga članka dostavlja se odobrenje za paralelni promet lijeka koje je dala Europska agencija za lijekove te nacrt vanjskog i unutarnjeg pakiranja i presliku upute o lijeku na hrvatskom jeziku.
