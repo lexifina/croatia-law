@@ -1,0 +1,11 @@
+# Članak 18.
+Nadležnosti Skupštine Zajednice su:
+1. donosi Statut Zajednice,
+2. donosi Poslovnik o radu Skupštine Zajednice,
+3. odlučuje o izboru i razrješenju članova Turističkog vijeća,
+4. donosi godišnji program rada Zajednice,
+5. donosi izvješće o izvršenju programa rada Zajednice
+6. donosi odluku o izvješćima koje podnosi Turističko vijeće,
+7. nadzire poslovanje Zajednice,
+8. bira predstavnike Zajednice u Skupštinu Hrvatske turističke zajednice,
+9. odlučuje o drugim pitanjima kada je to predviđeno Zakonom, drugim propisima i ovim Statutom.

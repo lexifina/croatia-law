@@ -1,0 +1,1 @@
+Na temelju članka 12. i članka 15. Zakona o turističkim zajednicama i promicanju hrvatskog turizma (»Narodne novine« broj 52/19) Skupština Turističke zajednice Dubrovačko-neretvanske županije, uz prethodnu suglasnost Ministarstva turizma, na sjednici održanoj 12. ožujka 2020. godine donijela je
