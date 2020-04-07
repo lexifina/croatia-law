@@ -1,0 +1,1 @@
+Na temelju članka 140. stavka 4. Zakona o odgoju i obrazovanju u osnovnoj i srednjoj školi (»Narodne novine«, broj 87/08, 86/09, 92/10, 105/10 - ispr., 90/11, 5/12, 16/12, 86/12, 126/12, 94/13, 152/14, 07/17, 68/18 i 98/19), ministrica znanosti i obrazovanja donosi
