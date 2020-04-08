@@ -1,0 +1,5 @@
+# Članak 1.
+U Zakonu o izvršavanju Državnog proračuna Republike Hrvatske za 2020. godinu (»Narodne novine«, br. 117/19. i 32/20.) članak 24.a mijenja se i glasi:
+»(1) Ako se povratom, oslobođenjem od plaćanja odnosno odgodom plaćanja i/ili obročnom otplatom poreza na dohodak, prireza porezu na dohodak i doprinosa sukladno posebnom propisu kojim se uređuje opći porezni postupak smanje prihodi jedinica lokalne i područne (regionalne) samouprave odnosno Hrvatskog zavoda za zdravstveno osiguranje i Hrvatskog zavoda za mirovinsko osiguranje, Republika Hrvatska će osigurati sredstva beskamatnog zajma za premošćivanje situacije nastale zbog različite dinamike priljeva sredstava i dospijeća obveza.
+(2) Beskamatni zajam iz stavka 1. ovoga članka može se isplatiti do visine poreza na dohodak, prireza porezu na dohodak i doprinosa čije je plaćanje oslobođeno, odgođeno i/ili je odobrena obročna otplata odnosno do visine izvršenog povrata i prema raspoloživim sredstvima državnog proračuna.
+(3) Ministar financija može za provedbu ovoga članka donijeti poseban naputak.«.
