@@ -1,0 +1,2 @@
+# Članak 10.
+Ugostitelji koji su ishodili rješenje o privremenom obavljanju ugostiteljske djelatnosti temeljem članka 21. stavka 3. Zakona o ugostiteljskoj djelatnosti (»Narodne novine«, br. 85/15., 121/16., 99/18., 25/19., 98/19. i 32/20.), mogu nastaviti obavljati djelatnost temeljem ishođenog rješenja do isteka roka godinu dana nakon prestanka posebnih okolnosti iz članka 9.a stavka 2. ovoga Zakona.
