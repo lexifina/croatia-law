@@ -1,0 +1,6 @@
+# Članak 1.
+U Zakonu o sigurnosti prometa na cestama (»Narodne novine«, br. 67/08., 48/10. - Odluka Ustavnog suda Republike Hrvatske, 74/11., 80/13., 158/13. - Odluka i Rješenje Ustavnog suda Republike Hrvatske, 92/14., 64/15., 108/17. i 70/19.) iza članka 222. dodaje se članak 222.a koji glasi:
+»Članak 222.a
+(1) Osoba iz članka 222. ovoga Zakona, za vrijeme trajanja epidemije bolesti COVID-19 uzrokovane virusom SARS-CoV-2, ne mora podnijeti zahtjev za produljenje roka važenja vozačke dozvole, a najdulje 30 dana od dana proglašenja prestanka epidemije.
+(2) Vozačka dozvola koja je izdana osobi iz stavka 1. ovoga članka smatra se valjanom do isteka roka iz stavka 1. ovoga članka.
+(3) Radnje u upravnom postupku koje su vozači dužni poduzeti u rokovima propisanim odredbama Zakona o sigurnosti prometa na cestama (»Narodne novine«, br. 67/08., 48/10. - Odluka Ustavnog suda Republike Hrvatske, 74/11., 80/13., 158/13. - Odluka i Rješenje Ustavnog suda Republike Hrvatske, 92/14., 64/15., 108/17. i 70/19.) i Pravilnika o vozačkim dozvolama (»Narodne novine«, br. 2/19.), a čiji krajnji rok poduzimanja je bio počevši od 11. ožujka 2020. ili će biti za vrijeme trajanja epidemije bolesti COVID-19 uzrokovane virusom SARS-CoV-2, stranke mogu poduzeti najdulje 30 dana od dana proglašenja prestanka epidemije.«.
