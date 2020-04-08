@@ -1,0 +1,2 @@
+# Članak 12.
+Osobe koje su do stupanja na snagu ovoga Zakona ishodile rješenje o odobrenju za pružanje usluga turističkog vodiča nastavljaju obavljati usluge turističkog vodiča sukladno tom rješenju te su dužne pružati uslugu kroz neki od oblika poslovanja sukladno posebnim propisima ili kao zaposlenik putem ugovora o radu ili putem ugovora o djelu ili ugovora o obavljanju studentskih poslova i slično.
