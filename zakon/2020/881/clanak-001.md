@@ -1,0 +1,4 @@
+# Članak 1.
+U Zakonu o lokalnim izborima (»Narodne novine«, br. 144/12., 121/16. i 98/19.) u članku 6. iza stavka 2. dodaje se novi stavak 3. koji glasi:
+»(3) U slučaju nastupanja posebnih okolnosti koje podrazumijevaju događaj ili određeno stanje koje se nije moglo predvidjeti i na koje se nije moglo utjecati, a koje trenutačno ugrožava pravni poredak, život, zdravlje ili sigurnost stanovništva te imovinu veće vrijednosti, Vlada Republike Hrvatske može odgoditi raspisivanje prijevremenih izbora, odnosno staviti izvan snage odluku kojom su raspisani prijevremeni izbori do prestanka posebnih okolnosti.«.
+U dosadašnjem stavku 3., koji postaje stavak 4., iza riječi: »izbora« dodaju se riječi: »i odluka o stavljanju izvan snage odluke o raspisivanju prijevremenih izbora«, riječi: »dostavlja se« zamjenjuju se riječima: »dostavljaju se« te riječi: »je donesena« zamjenjuju se riječima: »su donesene«.
