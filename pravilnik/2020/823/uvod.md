@@ -1,0 +1,1 @@
+Na temelju članka 10. stavka 3. Zakona o vježbenicima u pravosudnim tijelima i pravosudnom ispitu (»Narodne novine«, broj 14/19), uz prethodno mišljenje Pravosudne akademije, ministar pravosuđa donosi
