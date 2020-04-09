@@ -1,0 +1,4 @@
+## Javna objava
+# Članak 6.
+(1) Poduzetnici iz članka 30. stavka 1. Zakona dužni su, iznimno od članka 30. stavka 5. Zakona, u posebnim okolnostima godišnje izvješće iz članka 30. stavka 2. točke 1. Zakona s pripadajućim revizorskim izvješćem, odnosno godišnje financijske izvještaje iz članka 30. stavka 3. točke 1. Zakona s pripadajućim revizorskim izvješćem dostaviti Financijskoj agenciji radi javne objave najkasnije u roku od osam mjeseci od zadnjeg dana poslovne godine.
+(2) Poduzetnici iz članka 30. stavka 1. Zakona dužni su, iznimno od članka 30. stavka 5. Zakona, u posebnim okolnostima konsolidirano godišnje izvješće iz članka 30. stavka 2. točke 2. Zakona, odnosno godišnje konsolidirane financijske izvještaje iz članka 30. stavka 3. točke 2. Zakona zajedno s pripadajućim revizorskim izvješćem dostaviti Financijskoj agenciji radi javne objave najkasnije u roku od deset mjeseci od zadnjeg dana poslovne godine.

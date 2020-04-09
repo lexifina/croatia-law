@@ -1,0 +1,4 @@
+## Financijski podaci za statističke i druge potrebe
+# Članak 8.
+(1) Poduzetnici i pravne i fizičke osobe iz članka 4. stavka 3. Zakona, iznimno od članka 32. stavka 1. Zakona, u posebnim okolnostima dužni su za statističke i druge potrebe Financijskoj agenciji do 30. lipnja tekuće godine dostaviti bilancu, račun dobiti i gubitka i dodatne podatke za prethodnu kalendarsku godinu.
+(2) Iznimno od članka 32. stavka 2. Zakona, u posebnim okolnostima poduzetnik koji sukladno stavku 1. ovoga članka do 30. lipnja tekuće godine za prethodnu kalendarsku godinu Financijskoj agenciji dostavi izvještaje iz članka 30. Zakona radi javne objave, pod uvjetom da mu je poslovna godina jednaka kalendarskoj godini, može istodobnom dostavom dodatnih podataka ispuniti i obvezu predaje propisanu člankom 30. stavkom 1. Zakona.
