@@ -1,0 +1,1 @@
+Na temelju članka 4.a stavka 1. Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 2020. godinu (»Narodne novine«, br. 117/19, 32/20 i 42/20), a u vezi s člankom 46. Zakona o proračunu (»Narodne novine«, br. 87/08, 136/12 i 15/15) Vlada Republike Hrvatske je na sjednici održanoj 9. travnja 2020. godine donijela
