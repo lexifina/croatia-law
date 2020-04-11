@@ -1,0 +1,5 @@
+# Članak 2.
+U članku 4. stavci 5., 6. i 7. brišu se.
+Dosadašnji stavak 8. postaje stavak 5.
+Iza dosadašnjeg stavka 8. koji postaje stavak 5. dodaje se novi stavak 6. koji glasi:
+»(6) Detaljne odredbe za primjenu uvjeta prihvatljivosti iz stavaka 4. i 5. ovoga članka propisane su Pravilima prihvatljivosti i sukladnosti zahtjeva za potporu u okviru Europskog fonda za pomorstvo i ribarstvo, u skladu s Delegiranom uredbom Komisije (EU) 2015/288 оd 17. prosinca 2014. o dopuni Uredbe (EU) br. 508/2014 Europskog parlamenta i Vijeća o Europskom fondu za pomorstvo i ribarstvo u pogledu vremenskog razdoblja i datuma za neprihvatljivost zahtjeva (SL L 51, 24. 2. 2015.) te Delegiranom uredbom Komisije (EU) 2015/2252 оd 30. rujna 2015. o izmjeni Delegirane uredbe (EU) 2015/288 u pogledu razdoblja neprihvatljivosti zahtjeva za potporu iz Europskog fonda za pomorstvo i ribarstvo (SL L 321, 5. 12. 2015.). Pravila prihvatljivosti i sukladnosti zahtjeva za potporu u okviru Europskog fonda za pomorstvo i ribarstvo dostupna su na mrežnim stranicama Upravljačkog tijela (https://euribarstvo.hr/propisi-smjernice/).«.
