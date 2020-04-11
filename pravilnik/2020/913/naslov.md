@@ -1,0 +1,1 @@
+Pravilnik o izmjenama i dopunama Pravilnika o uvjetima, kriterijima i načinu dodjele državne potpore male vrijednosti u segmentu toplovodnog uzgoja slatkovodnih riba, prerade proizvoda ribarstva i lokalnih akcijskih skupina u ribarstvu
