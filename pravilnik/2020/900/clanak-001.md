@@ -1,0 +1,3 @@
+## I. OPĆE ODREDBE
+# Članak 1.
+Ovim Pravilnikom propisuje se obvezni sadržaj, elementi i način opremanja rudarskih projekata za izvođenje rudarskih radova iz članka 9. Zakona o rudarstvu i za gradnju rudarskih objekata i postrojenja iz članka 13. Zakona o rudarstvu, uvjeti koje moraju ispunjavati pravne osobe koje izrađuju rudarske projekte, Stručno povjerenstvo za provjeru rudarskih projekata, zahtjev za provjeru rudarskih projekata, postupak provjere rudarskih projekata, sadržaj i oblik izjave o obavljenoj provjeri rudarskih projekata, sadržaj i oblik rješenja o provedenom postupku provjere rudarskih projekata.

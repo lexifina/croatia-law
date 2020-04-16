@@ -1,0 +1,4 @@
+# Članak 43.
+(1) Izjava o obavljenoj provjeri rudarskog projekta, stavlja se na najmanje tri primjerka provjerenog rudarskog projekta, od kojih se jedan primjerak pohranjuje u zbirci projekata ministarstva nadležnog za rudarstvo, dok se najmanje dva primjerka dostavljaju rudarskom gospodarskom subjektu u prilogu rješenja o obavljenoj provjeri rudarskog projekta.
+(2) Prije dostave rješenja o obavljenoj provjeri rudarskog projekta rudarski gospodarski subjekt dužan je dostaviti cjeloviti rudarski projekt sa svim sastavnicama istog kao informatički zapis u PDF formatu, te zasebno grafičku dokumentaciju iz članka 10. stavka 3. ovoga Pravilnika kao georeferencirane slike (GeoTIFF format u razlučivosti 300 dpi).
+(3) Dokumentacija dostavljena sukladno stavku 2. ovoga članka mora biti identična primjerku provjerenog rudarskog projekta iz stavka 1. ovoga članka, a ista se pohranjuje u Jedinstveni informacijski sustav mineralnih sirovina.

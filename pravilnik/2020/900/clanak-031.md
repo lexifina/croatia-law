@@ -1,0 +1,3 @@
+# Članak 31.
+(1) Predsjednik, zamjenik predsjednika, članovi i tajnik Stručnog povjerenstva za provjeru rudarskih projekata ministarstva nadležnog za rudarstvo mora biti osoba koja udovoljava uvjetima propisanim odredbama pravilnika iz članka 149. Zakona o rudarstvu i s najmanje pet godina radnog iskustva na poslovima istraživanja i eksploatacije mineralnih sirovina nakon položenog stručnog ispita iz rudarstva.
+(2) Iznimno od odredbe stavka 1. ovoga članka, član Stručnog povjerenstva za provjeru rudarskih projekata ministarstva nadležnog za rudarstvo, za provjeru posebnih dijelova rudarskih projekata mora biti osoba koja nosi strukovni naziv ovlašteni inženjer odgovarajuće struke prema posebnom propisu i s najmanje pet godina radnog iskustva.

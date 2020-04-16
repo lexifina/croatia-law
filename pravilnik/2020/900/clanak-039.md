@@ -1,0 +1,4 @@
+## XII. SADRŽAJ I OBLIK IZJAVE I RJEŠENJA O OBAVLJENOJ PROVJERI RUDARSKIH PROJEKTA
+# Članak 39.
+(1) Temeljem zaključka Stručnog povjerenstva iz članka 38. stavka 4. ovoga Pravilnika, o prihvaćanju projektnih rješenja predviđenih rudarskim projektom glede primjene odredbi Zakona o rudarstvu, kao i odredbi drugih zakona i propisa za njihovo provođenje, a u svezi racionalnog iskorištavanja mineralnih sirovina, mjera i normativa zaštite na radu, sigurnosti pogona i ljudi, podzemnih, površinskih i susjednih objekata, te mjera zaštite okoliša i prirode, na rudarski projekt se stavlja izjava o obavljenoj provjeri rudarskog projekta, koju potpisuju svi članovi Stručnog povjerenstva.
+(2) Izjava iz stavka 1. ovoga članka stavlja se na naslovnu stranicu provjerenoga rudarskog projekta, ispod popisa grafičkih priloga i ispod zaključka.

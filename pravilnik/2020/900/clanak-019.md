@@ -1,0 +1,5 @@
+# Članak 19.
+(1) Uređenje rudarskim radovima zahvaćenog prostora tijekom i nakon završetka izvođenja rudarskih radova, mora biti izrađeno u suglasju s lokacijskom dozvolom ili aktom iz članka 6. stavka 2. ovoga Pravilnika.
+(2) Uređenje rudarskim radovima zahvaćenog prostora iz stavka 1. ovoga članka prikazuje se planom i programom uređenja rudarskim radovima zahvaćenog prostora.
+(3) Uređenje rudarskim radovima zahvaćenog prostora obvezno sadrži kartografski prikaz istražnog prostora ili eksploatacijskog polja s tumačem i s prikazom završnog stanja istražnog prostora ili eksploatacijskog polja nakon završetka izvođenja rudarskih radova u istom mjerilu u kojem je izrađena situacijska karta iz članka 9. stavka 1. točke 2. ovoga Pravilnika.
+(4) Kartografski prikaz iz stavka 3. ovoga članka sadrži i karakteristične presjeke istražnog prostora ili eksploatacijskog polja, a koji se prikazuju kao zasebna grafička dokumentacija u istom mjerilu u kojem je izrađena situacijska karta iz članka 9. stavka 1. točke 2. ovoga Pravilnika.

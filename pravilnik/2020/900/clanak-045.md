@@ -1,0 +1,4 @@
+# Članak 45.
+(1) U odluci iz članka 33. stavka 1. ovoga Pravilnika određuje se i troškove postupka provjere rudarskog projekta, rok u kojem rudarski gospodarski subjekt mora uplatiti troškove postupka kao i način na koji rudarski gospodarski subjekt dostavlja dokaze o uplati troškova postupka.
+(2) Rok u kojem rudarski gospodarski subjekt mora uplatiti troškove postupka provjere rudarskog projekta ne može biti duži od 10 dana od dana zaprimanja odluke iz članka 33. stavka 1. ovoga Pravilnika.
+(3) U slučaju da rudarski gospodarski subjekt u roku određenom u stavku 2. ovoga članka ne uplati troškove postupka provjere rudarskog projekta iz stavka 1. ovoga članka Stručno povjerenstvo za provjeru rudarskih projekata ministarstva nadležnog za rudarstvo donosi rješenje kojim se odbacuje zahtjev za provjeru rudarskog projekta.
