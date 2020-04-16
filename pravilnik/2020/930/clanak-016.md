@@ -1,0 +1,7 @@
+# Članak 16.
+(1) Zahtjev za isplatu se popunjava i podnosi u elektroničkom obliku kroz modul Sustav za prijavu potpora iz članka 7. stavka 2. ovoga Pravilnika.
+(2) Prilikom popunjavanja Zahtjeva za isplatu korisnik popunjava tražene podatke i učitava dokumentaciju koja će korisniku biti propisana u Odluci o dodjeli sredstava.
+(3) Detaljne upute za podnošenje zahtjeva za isplatu kroz Sustav za prijavu potpora nalaze se u Priručniku za korisnike Portala gospodarskog ribarstva koji je dostupan na mrežnim stranicama Upravljačkog tijela (https://euribarstvo.hr/propisi-smjernice/).
+(4) Za nepotpun Zahtjev za isplatu Upravljačko tijelo će izdati Zahtjev za dopunu/obrazloženje/ispravak kojim će od korisnika tražiti dostavljanje dokumentacije koja nedostaje. Korisnik je dužan dostaviti traženu dokumentaciju preporučenom pošiljkom u roku od deset radnih dana od prvoga sljedećeg dana nakon dana zaprimanja Zahtjeva za dopunu/obrazloženje/ispravak. Ako tražena dokumentacija ne bude poslana u zadanom roku smatrat će se da je korisnik odustao od cijeloga ili od dijela iznosa potpore za koji dokumentacija nije dostavljena.
+(5) Vremenom zaprimanja Zahtjeva za dopunu/obrazloženje/ispravak smatra se datum kada korisnik zaprimi preporučenu pošiljku.
+(6) Ako se tijekom obrade Zahtjeva za isplatu utvrdi nepravilnost, Upravljačko tijelo će iznos koji je sukladno odluci o utvrđenoj nepravilnosti određen kao nepravilan odbiti od Zahtjeva za isplatu i izdati Odluku o isplati u kojoj će ukupan iznos biti umanjen za nepravilan iznos.

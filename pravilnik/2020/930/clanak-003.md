@@ -1,0 +1,7 @@
+## Predmet i korisnik potpore
+# Članak 3.
+(1) Predmet potpore su aktivnosti s ciljem razvoja akvakulture koja osigurava usluge zaštite okoliša.
+(2) Prihvatljive aktivnosti iz stavka 1. ovoga članka odnose se na primjenu akvakulturnih metoda koje su u skladu sa specifičnim potrebama okoliša i podložne su posebnim upravljačkim zahtjevima koji proizlaze iz označavanja područja mreže NATURA 2000 u skladu s Direktivom Vijeća 92/43/EEZ od 21. svibnja 1992. o očuvanju prirodnih staništa i divlje faune i flore (SL L 206, 22. 7. 1992.) i Direktivom 2009/147/EZ Europskog parlamenta i Vijeća od 30. studenoga 2009. o očuvanju divljih ptica (SL L 20, 26. 1. 2010.).
+(3) Upravljački zahtjevi iz stavka 2. ovoga članka propisani su Pravilnikom o ciljevima očuvanja i mjerama očuvanja ciljnih vrsta ptica u područjima ekološke mreže (»Narodne novine«, broj 25/20 i 38/20) te su sastavni dio Ugovora o zakupu poljoprivrednog zemljišta ili Ugovora o privremenom korištenju poljoprivrednog zemljišta.
+(4) Iznimno od stavka 3. ovoga članka u slučaju kada se radi o uzgajalištima koji su u cijelosti ili djelomično u privatnom vlasništvu, za dio uzgajališta koji je u privatnom vlasništvu, upravljački zahtjevi iz stavka 2. ovoga članka mogu biti samo sastavni dio Ugovora koji definira pravo korištenje voda za obavljanje akvakulture.
+(5) Korisnik potpore iz stavka 1. ovoga članka je ovlaštenik povlastice/nositelj dozvole za akvakulturu u dijelu uzgoja toplovodnih vrsta slatkovodnih riba.
