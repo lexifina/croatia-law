@@ -1,0 +1,1 @@
+Na temelju članka 46. stavka 6. Zakona o genetski modificiranim organizmima (»Narodne novine«, broj 126/19) ministar zdravstva uz prethodnu suglasnost ministrice poljoprivrede, ministra zaštite okoliša i energetike i ministrice znanosti i obrazovanja donosi

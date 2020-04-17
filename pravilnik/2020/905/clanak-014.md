@@ -1,0 +1,9 @@
+## UVJETI KOJE MORA ISPUNJAVATI PRAVNA OSOBA ZA IZRADU PROCJENE RIZIKA
+# Članak 14.
+(1) Procjenu rizika za stavljanje na tržište GMO-a ili proizvoda koji se sastoje od ili sadrže GMO ili kombinaciju GMO-a izrađuje pravna osoba koja ima ovlaštenje ministra zdravstva (u daljnjem tekstu: ministar zdravstva).
+(2) Pravna osoba iz stavka 1. ovoga članka mora ispunjavati sljedeće uvjete:
+a) imati registriranu djelatnost za izradu procjene rizika, te znanstveno-stručne analize i/ili analize za tehničko ispitivanje i analiziranje koji se koriste u izradi procjene rizika za stavljanje na tržište GMO-a
+b) i imati najmanje tri osobe sa završenim specijalističkim diplomskim stručnim studijem ili sveučilišnim diplomskim studijem te integriranim preddiplomskim i diplomskim sveučilišnim studijem iz područja prirodnih i/ili biotehničkih i/ili biomedicinskih i/ili medicinskih znanosti, zaposlene u stalnom radnom odnosu, od kojih najmanje jedna osoba ima kvalifikacije stečene završetkom poslijediplomskih sveučilišnih (doktorskih) studija iz navedenih područja
+c) imati odgovarajući radni prostor, bilo u vlasništvu ili u zakupu u trajanju propisanom za važenje ovlaštenja za obavljanje djelatnosti procjene rizika, u kojemu će obavljati sve potrebne radnje u postupku izrade procjene rizika, osim one koje se po prirodi stvari obavljaju u otvorenom prostoru.
+(3) Pravna osoba iz stavka 1. ovoga članka može po potrebi odgovarajućim ugovorom angažirati vanjske stručnjake specijalizirane za pojedina područja neophodna za izradu procjene rizika, uz obveznu prethodnu prijavu tijelu državne uprave nadležnog za poslove zdravstva (u daljnjem tekstu: tijelo državne uprave).
+(4) Procjenu rizika sa svim sastavnim dijelovima obavezno svojim potpisom potvrđuje odgovorna osoba unutar pravne osobe za Procjenu rizika ovlaštene od strane tijela državne uprave.

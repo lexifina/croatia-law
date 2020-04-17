@@ -1,0 +1,1 @@
+Pravilnik o sadržaju i opsegu procjene rizika za stavljanje na tržište genetski modificiranih organizama ili proizvoda koji se sastoje od ili sadrže GMO ili kombinaciju GMO-a, metodologiju za izradu procjene i uvjete koje mora ispunjavati pravna osoba za izradu procjene rizika
