@@ -1,0 +1,4 @@
+# Članak 8.
+U članku 21. iza stavka 1. dodaje se novi stavak 2. koji glasi:
+»Iznimno od stavka 1. ovoga članka, prema epidemiološkoj ocjeni Hrvatskog zavoda za javno zdravstvo, odnosno zavoda za javno zdravstvo županije, odnosno Grada Zagreba ili prema procjeni doktora medicine specijalista epidemiologije, odnosno drugog nadležnog doktora medicine određene specijalnosti, osobama za koje se utvrdi da su oboljele, za koje se posumnja da boluju od bolesti COVID-19 uzrokovane virusom SARS-CoV-2 ili zdravim osobama koje su bile u kontaktu s oboljelim osobama od te bolesti, odnosno dolaze iz područja zahvaćenog bolesti COVID-19 uzrokovane virusom SARS-CoV-2 može se odrediti izolacija u vlastitom domu, odnosno u drugom odgovarajućem prostoru - samoizolacija, ako za to postoje odgovarajući uvjeti.«.
+U dosadašnjem stavku 2., koji postaje stavak 3., riječi: »u stanu« zamjenjuju se riječima: »u vlastitom domu, odnosno u drugom odgovarajućem prostoru - samoizolacija«.

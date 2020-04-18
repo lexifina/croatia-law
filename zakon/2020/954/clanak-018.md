@@ -1,0 +1,3 @@
+## PRIJELAZNE I ZAVRŠNE ODREDBE
+# Članak 18.
+Odluke Stožera civilne zaštite Republike Hrvatske donesene radi trenutačne zaštite života i zdravlja pučanstva u Republici Hrvatskoj, a u povodu Odluke o proglašenju epidemije bolesti COVID-19 uzrokovane virusom SARS-CoV-2 u Republici Hrvatskoj, klase: 011-02/20-01/143, urbroja: 534-02-01-2/6-20-01, od 11. ožujka 2020., koju je ministar zdravstva donio na prijedlog Hrvatskog zavoda za javno zdravstvo u skladu s člankom 2. stavkom 4. Zakona o zaštiti pučanstva od zaraznih bolesti (»Narodne novine«, br. 79/07., 113/08., 43/09., 130/17. i 114/18.), te proglašenja pandemije bolesti COVID-19 od strane Svjetske zdravstvene organizacije 11. ožujka 2020., smatraju se mjerama iz članka 10. stavka 3. ovoga Zakona.
