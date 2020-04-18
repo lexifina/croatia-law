@@ -1,0 +1,7 @@
+## Predmet potpore
+# Članak 3.
+(1) Predmet potpore je naknada ovlaštenicima povlastica i članovima posade ribarskog plovila za kojeg je ta povlastica izdana za privremeni prestanak ribolovnih aktivnosti (u daljnjem tekstu: privremena obustava) u segmentu ribolova pridnenim povlačnim mrežama - koćama (u daljnjem tekstu: koćarski ribolov) radi pandemije virusa COVID-19.
+(2) Privremena obustava u smislu ovoga Pravilnika je privremena obustava u trajanju od 30 dana koja se provodi u razdoblju od 15. travnja 2020. godine u 00:00 sati do 16. svibnja 2020. godine u 00:00 sati na području cijelog ribolovnog mora Republike Hrvatske.
+(3) Privremena obustava iz stavaka 1. i 2. ovoga članka ne predstavlja prostorno-vremensko ograničenje obavljanja gospodarskog ribolova proglašeno na temelju Zakona o morskom ribarstvu te nije obavezna za korisnike koji neće sudjelovati u provedbi ovoga Pravilnika.
+(4) Za potrebe stavka 3. ovoga članka, obveze korisnika koji će sudjelovati u privremenoj obustavi u smislu ovoga Pravilnika su propisane člankom 5. ovoga Pravilnika.
+(5) Odredbe ovoga Pravilnika ne dovode u pitanje odredbe zakonskih i podzakonskih propisa iz područja radnih odnosa.
