@@ -1,0 +1,9 @@
+## I. OPĆE ODREDBE
+# Članak 1.
+U Zakonu o sportu (»Narodne novine«, br. 71/06., 150/08., 124/10., 124/11., 86/12., 94/13., 85/15., 19/16. - ispravak i 98/19.) u članku 61. stavku 1. iza riječi: »odbor« dodaju se zarez i riječi: »Hrvatski paraolimpijski odbor odnosno Hrvatski sportski savez gluhih«.
+U stavku 2. iza riječi: »odbor,« dodaju se riječi: »Hrvatski paraolimpijski odbor odnosno Hrvatski sportski savez gluhih,«.
+Iza stavka 2. dodaju se novi stavci 3., 4. i 5. koji glase:
+»(3) U slučaju nastupanja posebnih okolnosti koje podrazumijevaju događaj ili određeno stanje koje se nije moglo predvidjeti i na koje se nije moglo utjecati, a koje ugrožava život i zdravlje građana, imovinu veće vrijednosti, znatno narušava okoliš, gospodarsku aktivnost ili uzrokuje znatnu gospodarsku štetu, nacionalni sportski savezi uz suglasnost tijela državne uprave nadležnog za šport mogu donijeti sustav natjecanja. Tijelo državne uprave nadležno za šport može dati suglasnost na sustav natjecanja na temelju mišljenja Hrvatskog olimpijskog odbora, Hrvatskog paraolimpijskog odbora odnosno Hrvatskog sportskog saveza gluhih.
+(4) U slučaju iz stavka 3. ovoga članka novi sustav natjecanja može biti u primjeni i ako od dana donošenja do početka primjene sustava natjecanja nije prošlo više od godine dana, a za što nacionalni sportski savez mora zatražiti suglasnost tijela državne uprave nadležnog za šport.
+(5) Odluku o novom sustavu natjecanja iz stavka 3. ovoga članka, kao i odluku o promjeni u sustavu natjecanja, kao i za završetak iste donosi tijelo upravljanja nacionalnog sportskog saveza sukladno statutu nacionalnog sportskog saveza, a iznimno ako se nadležno tijelo upravljanja nacionalnog sportskog saveza ne može sastati, zbog okolnosti iz stavka 3. ovoga članka, navedenu odluku donosi izvršno tijelo nacionalnog sportskog saveza.«.
+Dosadašnji stavci 3. do 6. postaju stavci 6. do 9.
