@@ -1,0 +1,2 @@
+# Članak 11.
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«, osim članka 1.a stavka 2. koji je dodan člankom 1. ovoga Zakona, članka 2. ovoga Zakona i članka 22. stavka 3. točaka 6. i 7. koji je dodan člankom 4. ovoga Zakona, koji stupaju na snagu danom primjene bliske suradnje Europske središnje banke s Hrvatskom narodnom bankom sukladno odluci Europske središnje banke o uspostavi bliske suradnje iz članka 7. stavka 2. Uredbe Vijeća (EU) br. 1024/2013, a koja će biti objavljena u Službenom listu Europske unije.
