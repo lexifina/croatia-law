@@ -1,0 +1,3 @@
+# Članak 1.
+U Zakonu o kreditnim institucijama (»Narodne novine«, br. 159/13., 19/15., 102/15., 15/18. i 70/19.) u članku 2. iza stavka 5. dodaje se stavak 6. koji glasi:
+»(6) Ovim se Zakonom detaljnije uređuje provođenje Uredbe (EU) 806/2014 Europskog parlamenta i Vijeća od 15. srpnja 2014. o utvrđivanju jedinstvenih pravila i jedinstvenog postupka za sanaciju kreditnih institucija i određenih investicijskih društava u okviru jedinstvenog sanacijskog mehanizma i jedinstvenog fonda za sanaciju te o izmjeni Uredbe (EU) br. 1093/2010 (SL L 225, 30. 7. 2014.; u daljnjem tekstu: Uredba (EU) br. 806/2014).«.

@@ -1,0 +1,3 @@
+# Članak 36.
+U članku 129. stavak 3. mijenja se i glasi:
+»(3) Hrvatska narodna banka je imenovano tijelo za određivanje zaštitnog sloja za strukturni sistemski rizik za kreditne institucije prema članku 133. stavku 2. Direktive 2013/36/EU i priznavanje zaštitnog sloja za sistemski rizik za kreditne institucije prema članku 134. stavku 1. Direktive 2013/36/EU. U slučaju iz članka 11.a ovoga Zakona Hrvatska narodna banka će s Europskom središnjom bankom izvršavati makrobonitetne zadatke. U tom će slučaju Hrvatska narodna banka postupiti u skladu s uputom Europske središnje banke u odnosu na određivanje stope zaštitnog sloja za strukturni sistemski rizik.«.

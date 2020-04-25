@@ -1,0 +1,3 @@
+# Članak 37.
+U članku 137. stavak 4. mijenja se i glasi:
+»(4) Hrvatska narodna banka odredit će stopu zaštitnog sloja za OSV kreditnu instituciju u visini od 0% do 2% ukupnog iznosa izloženosti riziku, na konsolidiranoj, potkonsolidiranoj ili pojedinačnoj osnovi, uzimajući u obzir uvjete za utvrđivanje OSV kreditne institucije. Taj zaštitni sloj sastoji se od redovnog osnovnog kapitala. U slučaju iz članka 11.a ovoga Zakona Hrvatska narodna banka će s Europskom središnjom bankom izvršavati makrobonitetne zadatke. U tom će slučaju Hrvatska narodna banka postupiti u skladu s uputom Europske središnje banke u odnosu na određivanje stope zaštitnog sloja za OSV kreditne institucije.«.

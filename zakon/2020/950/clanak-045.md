@@ -1,0 +1,3 @@
+# Članak 45.
+U članku 183. stavak 2. mijenja se i glasi:
+»(2) Superviziju iz članka 175. stavka 1. točke 2. ovoga Zakona obavljaju radnici Hrvatske narodne banke na temelju ovlaštenja guvernera Hrvatske narodne banke (u daljnjem tekstu: ovlaštene osobe). U slučaju iz članka 11.a ovoga Zakona, kada Europska središnja banka izvršava svoje supervizorske ovlasti i zadatke, a Hrvatska narodna banka surađuje s Europskom središnjom bankom, zaposlenici Europske središnje banke koje odredi Europska središnja banka mogu kao promatrači sudjelovati u bilo kojem neposrednom nadzoru značajnog nadziranog subjekta.«.
