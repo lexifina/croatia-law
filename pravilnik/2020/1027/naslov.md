@@ -1,0 +1,1 @@
+Pravilnik o dopuni Pravilnika o uvjetima i načinu obavljanja opremanja, prijenosa, prijevoza, kremiranja, pogreba i iskopavanja umrlih osoba te o uvjetima glede prostora i opreme pravnih i fizičkih osoba za obavljanje opremanja, prijenosa, prijevoza, kremiranja, pogreba i iskopavanja umrlih osoba
