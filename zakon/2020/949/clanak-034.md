@@ -1,0 +1,3 @@
+# Članak 34.
+Članak 118. mijenja se i glasi:
+»Na dan uvođenja eura kao službene novčane jedinice Republike Hrvatske prestaju važiti sljedeće odredbe ovoga Zakona: članak 1. stavak 1. podstavak 4., članak 4., članak 6. stavak 2., članak 7., članci 9. do 27., članci 33. do 35., članci 38. i 39., članak 42. stavci 3., 4. i 5., članak 43. stavak 3., članak 54. stavak 1., članak 61., članak 64., članak 71. stavak 4., članak 71.b, članak 74., članak 76., članak 77. stavak 2., članak 87., članak 87.a, članak 111. stavak 1. točke 1., 2., 3., 4., i 6., članak 111. stavci 2., 4. i 5., članak 112. stavak 1. točke 2. i 4., članak 112. stavak 2. točke 2. i 3. i članak 112. stavak 5. točke 1. i 2. ovoga Zakona.«.

@@ -1,0 +1,13 @@
+# Članak 31.
+Članak 111. mijenja se i glasi:
+»(1) Novčanom kaznom u iznosu od 50.000,00 kuna do 500.000,00 kuna kaznit će se za prekršaj kreditna institucija:
+1) ako protivno podzakonskom propisu Hrvatske narodne banke donesenom na temelju članka 14. stavka 1. ovoga Zakona izdvoji ili održava obveznu pričuvu na računu za namiru i u blagajni ili na izdvojenom računu u Hrvatskoj narodnoj banci,
+2) ako se ne pridržava mjera i instrumenata određenih podzakonskim propisima Hrvatske narodne banke donesenima na temelju članka 16. stavka 2. ovoga Zakona radi provođenja utvrđene monetarne i devizne politike,
+3) ako protivno članku 16. stavku 3. ovoga Zakona nije na vrijeme i/ili u cijelosti platila Hrvatskoj narodnoj banci naknadu utvrđenu podzakonskim propisom Hrvatske narodne banke donesenim na temelju članka 16. stavka 2. ovoga Zakona,
+4) ako suprotno članku 24. ovoga Zakona, bez prethodnog pristanka Hrvatske narodne banke, reproducira novčanice ili optjecajni kovani novac koji glase na kune i lipe ili na drugi način povrijedi autorska prava Hrvatske narodne banke na novčanicama i optjecajnome kovanom novcu koji glase na kune i lipe,
+5) ako Hrvatskoj narodnoj banci ne dostavi podatke i izvješća odnosno druge podatke potrebne za izvršavanje funkcija Hrvatske narodne banke u skladu s podzakonskim propisom Hrvatske narodne banke donesenim na temelju članka 30. stavka 1. ovoga Zakona ili
+6) ako ne otvori račun u Hrvatskoj narodnoj banci u skladu s člankom 34. ovoga Zakona.
+(2) Novčanom kaznom u iznosu od 50.000,00 kuna do 500.000,00 kuna kaznit će se za prekršaj pravna osoba ako suprotno članku 24. ovoga Zakona, bez prethodnog pristanka Hrvatske narodne banke, reproducira novčanice ili optjecajni kovani novac koji glase na kune i lipe ili na drugi način povrijedi autorska prava Hrvatske narodne banke na novčanicama i optjecajnome kovanom novcu koji glase na kune i lipe.
+(3) Novčanom kaznom u iznosu od 5.000,00 kuna do 50.000,00 kuna kaznit će se za prekršaje iz stavka 1. ovoga članka i odgovorna osoba iz uprave kreditne institucije odnosno odgovorna osoba iz rukovodstva podružnice kreditne institucije.
+(4) Novčanom kaznom u iznosu od 5.000,00 kuna do 50.000,00 kuna kaznit će se za prekršaj iz stavka 2. ovoga članka i odgovorna osoba u pravnoj osobi.
+(5) Novčanom kaznom u iznosu od 5.000,00 kuna do 50.000,00 kuna kaznit će se za prekršaj fizička osoba ako suprotno članku 24. ovoga Zakona, bez prethodnog pristanka Hrvatske narodne banke, reproducira novčanice ili optjecajni kovani novac koji glase na kune i lipe ili na drugi način povrijedi autorska prava Hrvatske narodne banke na novčanicama i optjecajnome kovanom novcu koji glase na kune i lipe.«.
