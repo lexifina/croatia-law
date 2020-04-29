@@ -1,0 +1,7 @@
+## Okončanje djelovanja i raspolaganje imovinom u slučaju prestanka turističke zajednice
+# Članak 51.
+(1) Regionalna turistička zajednica čiji je član lokalna turistička zajednica osnovana za područje jedne jedinice lokalne samouprave koja prestaje postojati dužna je okončati poslove turističke zajednice koji su u tijeku, naplatiti potraživanja i podmiriti vjerovnike.
+(2) Imovinu preostalu nakon namirenja vjerovnika, u slučaju prestanka turističke zajednice iz stavka 1. ovoga članka, stječe regionalna turistička zajednica, sukladno statutu.
+(3) Ako prestaje postojati regionalna turistička zajednica koja teritorijalno obuhvaća područje više jedinica područne (regionalne) samouprave, za svaku jedinicu područne (regionalne) samouprave osnivaju se nove regionalne turističke zajednice koje su pravni slijednik regionalne turističke zajednice koja prestaje postojati i koje će na temelju sporazuma, a sukladno statutu regionalne turističke zajednice koja prestaje postojati, ovisno o području za koje su osnovane, nastaviti obavljati poslove te naplaćivati potraživanja i podmiriti vjerovnike regionalne turističke zajednice koja prestaje postojati.
+(4) Imovinu preostalu nakon namirenja vjerovnika, u slučaju iz stavaka 3. i 4. ovoga članka, stječu novoosnovane lokalne i regionalne turističke zajednice, sukladno statutu i međusobnom sporazumu.
+(5) Odredbe ovoga članka se ne primjenjuju u slučaju prestanka lokalne turističke zajednice na temelju članka 25. stavka 3. Zakona i u slučaju prestanka regionalne turističke zajednice na temelju članka 37. stavka 3. Zakona.

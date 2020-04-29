@@ -1,0 +1,1 @@
+Na temelju članka 15. Zakona o turističkim zajednicama i promicanju hrvatskog turizma (»Narodne novine«, broj 52/19), Skupština Turističke zajednice Brodsko-posavske županije na sjednici održanoj 30. ožujka 2020. godine, uz prethodnu suglasnost Ministarstva turizma Republike Hrvatske donijela je
