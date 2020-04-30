@@ -1,0 +1,1 @@
+Na temelju članka 132. stavka 4., a u vezi s člankom 131. i stavkom 1., člankom 132. stavkom 4. i člankom 133. stavkom 14. Zakona o službi u Oružanim snagama Republike Hrvatske (»Narodne novine«, br. 73/13, 75/15, 50/16, 30/18 i 125/19), donosim

@@ -1,0 +1,2 @@
+# Članak 30.
+Postupci za stambeno zbrinjavanje osoba iz članka 21. ovoga Pravilnika koji su na dan stupanja na snagu ovoga Pravilnika započeti a nisu dovršeni, dovršit će se tako da se tim osobama osigura pravo na stambeno zbrinjavanje na način propisan člankom 22. ovoga Pravilnika, a iznimno se može osigurati pravo na financijsku potporu u smislu isplate financijskih sredstava za potporu podmirenja financijskih obveza radi stambenog zbrinjavanja tih osoba, o čemu odluku donosi ministar obrane.
