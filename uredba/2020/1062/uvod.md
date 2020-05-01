@@ -1,0 +1,1 @@
+Na temelju članka 10. stavka 6. Zakona o Hrvatskoj banci za obnovu i razvitak (»Narodne novine«, br. 138/06 i 25/13), Vlada Republike Hrvatske je na sjednici održanoj 30. travnja 2020. godine donijela

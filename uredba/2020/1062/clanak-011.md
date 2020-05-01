@@ -1,0 +1,4 @@
+## Načela srednjoročno-dugoročnog osiguranja izvoznih kredita
+# Članak 11.
+(1) Načela srednjoročno-dugoročnog osiguranja izvoznih kredita, utvrđena u ovom dijelu Uredbe, primjenjuju se na pokriće kreditnih poslova hrvatskog dobavljača s inozemnim kupcima iz javnog ili privatnog sektora (kredit dobavljača) i za pokriće kreditnih poslova inozemnih kupaca sa zajmoprimcima iz javnog ili privatnog sektora (kredit kupcu) te se primjenjuju na pokriće svih rizika, kako je utvrđeno u članku 13. ove Uredbe. Unatoč tome, osiguratelj može u svakom pojedinačnom slučaju odlučiti ograničiti pokriće samo na pojedine rizike.
+(2) Kada subjekt koji se, u smislu srednjoročno-dugoročnog osiguranja izvoznih kredita, smatra javnopravnim dužnikom, jamči za sve obveze privatnog dužnika u cijelosti i bezuvjetno, primjenjuju se načela za javnopravne dužnike.

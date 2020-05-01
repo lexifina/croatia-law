@@ -1,0 +1,4 @@
+## Isplata odštete
+# Članak 21.
+(1) Osiguratelj se mora osiguraniku očitovati o odštetnom zahtjevu u roku od mjesec dana od isteka razdoblja čekanja na podnošenje odštetnog zahtjeva iz članka 17. stavaka 1. i 2. ove Uredbe, uz uvjet da je odštetni zahtjev bio pravodobno podnesen te da je osiguratelj pravodobno zaprimio sve potrebne informacije, dokumente i dokaze radi utvrđivanja utemeljenosti odštetnog zahtjeva.
+(2) U slučaju pokrića rizika proizvodnje, osiguratelj se mora osiguraniku očitovati o odštetnom zahtjevu u roku od mjesec dana od isteka razdoblja čekanja na podnošenje odštetnog zahtjeva iz članka 17. stavaka 1. i 2. ove Uredbe ili od dana primitka stručnog izvješća kada je isto potrebno ili od datuma sporazuma osiguranika i osiguratelja o iznosu odštete, ovisno o tome što je kasnije.

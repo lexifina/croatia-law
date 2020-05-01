@@ -1,0 +1,7 @@
+# Članak 38.
+(1) Ako osiguratelj odluči odobriti povoljnije uvjete pokrića za pojedini posao ili skup poslova, za pojedini sektor ili sektore, za pojedinu državu ili države ili za cjelokupni sustav, odnosno ako namjerava odstupiti od odredbi iz dijela VI. ove Uredbe, dužan je o svojoj namjeri i premiji koju će naplaćivati izvijestiti ostale osiguratelje i Europsku komisiju najmanje sedam radnih dana prije stupanja takve odluke na snagu, uz navođenje razloga za odstupanje.
+(2) Ako osiguratelj odluči naplatiti premiju nižu od one iskazane u njegovom godišnjem izvješću iz članka 36. stavka 2. ove Uredbe, dužan je o svojoj namjeri izvijestiti ostale osiguratelje i Europsku komisiju najmanje sedam radnih dana prije stupanja takve odluke na snagu.
+(3) Ako osiguratelj temeljem izvješća nekog od ostalih osiguratelja podnesenog sukladno stavcima 1. i 2. ovoga članka namjerava odobriti povoljnije uvjete, dužan je o svojoj namjeri i premiji koju namjerava naplaćivati izvijestiti ostale osiguratelje i Europsku komisiju najmanje sedam radnih dana prije stupanja takve odluke na snagu.
+(4) Ako osiguratelj na temelju odredbi iz članka 27. stavka 2. ove Uredbe namjerava osigurati poslove s dužnicima iz država za koje obično ne nudi pokriće, dužan je izvijestiti ostale osiguratelje i Europsku komisiju o svojoj namjeri i premiji koju namjerava naplaćivati, najmanje sedam radnih dana prije stupanja takve odluke na snagu.
+Naknadno izvješćivanje radi informiranja po
+srednjoročno-dugoročnom osiguranju izvoznih kredita

@@ -1,0 +1,5 @@
+# Članak 39.
+(1) Ako osiguratelj odluči odstupiti od odredaba iz dijela VI. ove Uredbe odobravanjem manje povoljnih uvjeta pokrića za pojedini posao ili skup poslova, za pojedini sektor ili sektore, za pojedinu državu ili države ili cjelokupni sustav, dužan je najkasnije do 31. siječnja o tome izvijestiti ostale osiguratelje i Europsku komisiju za prethodnu kalendarsku godinu.
+(2) Ako osiguratelj odluči prilagoditi jedan ili više elemenata politike pokrića države utvrđenih njegovim godišnjim izvješćem iz članka 36. stavka 2. ove Uredbe, dužan je o tome bez odgode izvijestiti ostale osiguratelje i Europsku komisiju.
+(3) Ako osiguratelj slijedom izvješća nekog od ostalih osiguratelja iz članka 38. stavka 1. i/ili stavka 2. ove Uredbe, podnesenog sukladno stavcima 1. i 2. ovoga članka, odluči odobriti jednake uvjete kao netko od ostalih osiguratelj, dužan je o tome bez odgode izvijestiti ostale osiguratelje i Europsku komisiju.
+(4) Osiguratelj je dužan bez odgode odgovoriti na svaki zahtjev za pojašnjenjem ili dostavom podataka o svojim aktivnostima postavljen od strane nekog od ostalih osiguratelja ili Europske komisije.
