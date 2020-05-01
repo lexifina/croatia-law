@@ -1,0 +1,2 @@
+# Članak 2.
+Radnje u upravnom postupku koje su državljani država članica EGP-a i članovi njihovih obitelji dužni poduzeti u rokovima propisanim odredbama Zakona o državljanima država članica Europskog gospodarskog prostora i članovima njihovih obitelji, a čiji je krajnji rok poduzimanja počeo teći od 11. ožujka 2020. ili će biti za vrijeme trajanja epidemije bolesti COVID-19 uzrokovane virusom SARS-CoV-2, mogu poduzeti najkasnije u roku od 30 dana od dana proglašenja prestanka epidemije.
