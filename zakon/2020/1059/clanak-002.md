@@ -1,0 +1,2 @@
+# Članak 2.
+Radnje u upravnom postupku koje su državljani trećih zemalja dužni poduzeti u rokovima propisanim odredbama Zakona o strancima (»Narodne novine«, br. 130/11., 74/13., 69/17. i 46/18.), a čiji je krajnji rok poduzimanja počeo teći 11. ožujka 2020. ili će biti za vrijeme trajanja epidemije bolesti COVID-19 uzrokovane virusom SARS-CoV-2, državljani trećih zemalja mogu poduzeti najkasnije u roku od 30 dana od dana proglašenja prestanka epidemije.
