@@ -1,0 +1,2 @@
+# Članak 2.
+Ovim Pravilnikom u zakonodavstvo Republike Hrvatske prenose se odredbe Direktive 2001/18/EZ Europskog parlamenta i Vijeća od 12. ožujka 2001. o namjernom uvođenju u okoliš genetski modificiranih organizama i o stavljanju izvan snage Direktive Vijeća 90/220/EEZ (SL L 106, 17. 4. 2001.) kako je posljednji put izmijenjena i dopunjena Direktivom Komisije (EU) 2018/350 od 8. ožujka 2018. o izmjeni Direktive 2001/18/EZ Europskog parlamenta i Vijeća o procjeni rizika genetski modificiranih organizama za okoliš (SL L67, 9. 3. 2018.).
