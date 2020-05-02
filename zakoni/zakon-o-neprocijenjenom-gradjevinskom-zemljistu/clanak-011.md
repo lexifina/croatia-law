@@ -1,0 +1,4 @@
+# Članak 11.
+(1) Trgovačko društvo u svako doba može jedinici lokalne samouprave podnijeti zahtjev za kupnju turističkog zemljišta iz članka 4. stavka 3. ovoga Zakon bez provođenja postupka javnog natječaja po procijenjenoj tržišnoj vrijednosti utvrđenoj od ovlaštenog procjenitelja izabranog od jedinice lokalne samouprave sukladno propisima kojima se uređuje područje procjene vrijednosti nekretnina.
+(2) U vrijednost predmeta prodaje neće se procijeniti građevine koje je trgovačko društvo izgradilo nakon završenog postupka pretvorbe i privatizacije temeljem akta za provedbu prostornih planova i/ili ozakonilo temeljem propisa o postupanju s nezakonito izgrađenim zgradama.
+(3) Jedinica lokalne samouprave obavještava trgovačko društvo o svojoj odluci po zahtjevu iz stavka 1. ovoga članka u roku od 90 dana od dana podnošenja zahtjeva iz stavka 1. ovoga članka.

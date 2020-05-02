@@ -1,0 +1,3 @@
+## Izuzimanje turističkog zemljišta na kojemu su izgrađeni hoteli i turistička naselja od prava na povrat
+# Članak 5.
+Zemljište iz članka 4. stavka 3. ovoga Zakona smatra se izgrađenim građevinskim zemljištem u smislu Zakona o naknadi za imovinu oduzetu za vrijeme jugoslavenske komunističke vladavine (»Narodne novine«, br. 92/96., 39/99., 42/99., 92/99., 43/00., 131/00., 27/01., 65/01., 118/01., 80/02., 81/02., 98/19. i 98/19.), koje s građevinom čini jedinstvenu poslovno-funkcionalnu-tehnološku cjelinu u smislu članka 55. stavka 4. navedenog Zakona i ne vraća se u vlasništvo ovlaštenicima naknade.

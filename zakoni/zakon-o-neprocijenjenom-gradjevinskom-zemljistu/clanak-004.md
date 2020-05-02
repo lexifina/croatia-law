@@ -1,0 +1,6 @@
+## Vlasništvo na turističkom zemljištu na kojemu su izgrađeni hoteli i turistička naselja
+# Članak 4.
+(1) Kada je u postupku pretvorbe odnosno privatizacije u vrijednost društvenog kapitala društvenog poduzeća procijenjena vrijednost građevine bez zemljišta, trgovačko društvo vlasnik je građevine i zemljišta tlocrtne površine ispod građevine.
+(2) Kada je u postupku pretvorbe odnosno privatizacije u vrijednosti društvenoga kapitala društvenog poduzeća procijenjena vrijednost građevine i dio katastarske čestice na kojoj je izgrađena građevina, a u postupku pretvorbe nije formirana posebna katastarska čestica procijenjenog zemljišta, trgovačko društvo vlasnik je građevine, zemljišta tlocrtne površine ispod građevine i procijenjenog zemljišta koje se dodaje zemljištu tlocrtne površine ispod građevine, pri čemu se položaj procijenjenog zemljišta utvrđuje tako da s građevinom i zemljištem tlocrtne površine ispod građevine čini tehnološku i funkcionalnu cjelinu.
+(3) Turističko zemljište na kojemu su izgrađeni hoteli i turistička naselja, a nije procijenjeno i uneseno u temeljni kapital trgovačkog društva te koje, pored zemljišta tlocrtne površine ispod građevine i procijenjenog zemljišta, služi za redovitu uporabu tih građevina, vlasništvo je jedinice lokalne samouprave.
+(4) Preostalo turističko zemljište vlasništvo je Republike Hrvatske.

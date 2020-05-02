@@ -1,0 +1,6 @@
+## Upravnopravno uređenje turističkog zemljišta na kojemu je izgrađen kamp
+# Članak 15.
+(1) U smislu ovoga Zakona za kampove koji su izgrađeni do dana stupanja na snagu Zakona o pretvorbi društvenih poduzeća (»Narodne novine«, br. 19/91., 83/92., 84/92., 94/93., 2/94., 9/95., 21/96. i 118/99.) i koji su predmet ovoga Zakona, smatra se da su izgrađeni temeljem pravomoćnog akta za provedbu prostornih planova te da je izdana uporabna dozvola.
+(2) Stupanjem na snagu ovoga Zakona za sva zemljišta i građevine u kampu koja su predmet ovoga Zakona, a koja nisu planirana važećim prostornim planom, smatra se da je u postupcima izmjena i dopuna ili izrade novih prostornih planova prema posebnom zakonu iz područja prostornog uređenja podnesen zahtjev u svrhu provedbe postupka izrade i donošenja tog plana radi zadržavanja i planiranja njihove osnovne namjene.
+(3) U smislu ovoga Zakona pod prostorom kampa smatra se sve zemljište koje se na dan stupanja na snagu Zakona o turističkom i ostalom građevinskom zemljištu neprocijenjenom u postupku pretvorbe i privatizacije (»Narodne novine«, br. 92/10.) nalazilo u granicama kampa.
+(4) Svi akti za provedbu prostornih planova kojima se određuje obuhvat zahvata u prostoru kampa i/ili se utvrđuje građevna čestica građevine u kampu izdat će se pozivom na ovaj Zakon.

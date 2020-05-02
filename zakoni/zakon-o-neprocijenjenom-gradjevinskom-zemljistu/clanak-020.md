@@ -1,0 +1,8 @@
+## Donošenje rješenja o identifikaciji kampa i utvrđivanju prava vlasništva u kampu
+# Članak 20.
+(1) Rješenjem iz članka 17. ovoga Zakona utvrđuju se katastarske čestice koje su formirane na procijenjenim dijelovima kampa kao predmet prava vlasništva trgovačkog društva, katastarske čestice koje su formirane na neprocijenjenim dijelovima kampa kao predmet prava vlasništva Republike Hrvatske, potvrđuje se da su trgovačko društvo i Republika Hrvatska stvarni vlasnici tih katastarskih čestica i daje nalog općinskom sudu nadležnom za postupanje u zemljišnoknjižnim predmetima za provedbu rješenja u zemljišnoj knjizi.
+(2) Ako je na dan stupanja na snagu ovoga Zakona na pojedinim katastarskim česticama u obuhvatu granica kampa kao vlasnik upisana treća osoba, Ministarstvo u ovom postupku utvrđuje činjenice, rješava sva druga prethodna pitanja bez čijeg rješavanja nije moguće riješiti predmetnu stvar, osim utvrđivanja granice pomorskog dobra, te utvrđuje stvarnog vlasnika tih katastarskih čestica.
+(3) U slučaju iz stavka 2. ovoga članka isprave i dokaze u svrhu rješavanja prethodnih pitanja pribavlja Ministarstvo po službenoj dužnosti, a stranke u postupku su svi uknjiženi vlasnici u zemljišnoj knjizi i svi posjednici upisani u katastru zemljišta-nekretnina.
+(4) Općinski sud iz stavka 1. ovoga članka na temelju rješenja iz članka 17. ovoga Zakona provodi uknjižbu prava vlasništva u korist osoba određenih rješenjem bez obzira na postojeće upise u zemljišnoj knjizi, a eventualno upisane treće osobe dužne su to trpjeti.
+(5) Protiv rješenja iz članka 17. ovoga članka nije dopuštena žalba, ali se može pokrenuti upravni spor.
+(6) Upravni spor iz stavka 5. ovoga članka je spor pune jurisdikcije.

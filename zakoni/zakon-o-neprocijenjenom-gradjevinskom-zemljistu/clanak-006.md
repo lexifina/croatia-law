@@ -1,0 +1,9 @@
+## Identifikacija turističkog zemljišta na kojemu su izgrađeni hoteli i turistička naselja
+# Članak 6.
+(1) U smislu ovoga Zakona zemljište nužno za redovitu uporabu hotela čini zemljište na kojemu su, pored hotela, izgrađene i građevine u funkciji hotela ili su na njemu smješteni ili osmišljeni trajni sadržaji kojima se upotpunjuje ponuda ili je u funkciji potreba gostiju hotela.
+(2) U smislu ovoga Zakona zemljište nužno za redovitu uporabu turističkog naselja čini zemljište na kojemu su izgrađene sve sastavnice turističkog naselja kao složene građevine, uključujući i zemljište na kojemu su izgrađeni i/ili na kojemu su smješteni ili trajno osmišljeni sadržaji kojima se upotpunjuje ponuda ili je u funkciji potreba gostiju turističkog naselja.
+(3) Oblik i površina zemljišta iz stavaka 1. i 2. ovoga članka kao građevna čestica utvrđuje se rješenjem upravnog tijela nadležnog za prostorno uređenje temeljem zakona kojim se uređuju pitanja prostornog uređenja, a prema prijedlogu građevne čestice izrađenog na geodetskoj situaciji stvarnog stanja terena u položajnom i visinskom smislu na kojoj se određuje oblik i veličina građevne čestice u skladu s ovim Zakonom.
+(4) Temeljem rješenja iz stavka 3. ovoga članka izrađuje se geodetski elaborat radi njegove provedbe u katastru i zemljišnoj knjizi.
+(5) Zahtjev za donošenje rješenja iz stavka 3. ovoga članka podnosi trgovačko društvo u roku od 180 dana od dana ishođenja potvrde o usklađenosti iz članka 7. stavka 3. ovoga Zakona.
+(6) Ako trgovačko društvo ne podnese zahtjev za donošenje rješenja iz stavka 3. ovoga članka, dužno je o tome bez odgađanja obavijestiti jedinicu lokalne samouprave.
+(7) U slučaju iz stavka 6. ovoga članka zahtjev za donošenje rješenja iz stavka 3. ovoga članka podnosi jedinica lokalne samouprave o trošku trgovačkog društva u idućem roku od 180 dana.
