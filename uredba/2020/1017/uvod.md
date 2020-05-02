@@ -1,0 +1,1 @@
+Na temelju članka 173. stavka 3. i članka 194. stavka 2. Zakona o zaštiti okoliša (»Narodne novine«, br. 80/13, 153/13, 78/15, 12/18 i 118/18), Vlada Republike Hrvatske je na sjednici održanoj 23. travnja 2020. godine donijela
