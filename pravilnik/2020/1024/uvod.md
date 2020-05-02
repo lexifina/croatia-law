@@ -1,0 +1,1 @@
+Na temelju članka 34. stavka 5., a u svezi sa člankom 8. stavkom 6. i člankom 37. stavkom 6. Zakona o genetski modificiranim organizmima (»Narodne novine« broj 126/19), ministar zaštite okoliša i energetike uz suglasnost ministrice nadležne za poljoprivredu, šumarstvo, veterinarstvo i ribarstvo te ministra nadležnog za zdravstvo, donosi
