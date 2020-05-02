@@ -1,0 +1,6 @@
+# Članak 23.
+Članak 23. mijenja se i glasi:
+»(1) Operator ili vlasnik dužni su postupati u skladu s mjerama koje su utvrđene u dokumentima koji se dostavljaju u skladu s odredbama članka 13. stavka 1. ovoga Zakona.
+(2) Operator ili vlasnik dužni su Koordinaciji ili javnopravnim tijelima koja djeluju u skladu s uputama Koordinacije omogućiti i osigurati prijevoz do ili s odobalnog objekta, što uključuje prijevoz njihove opreme, u bilo koje razumno vrijeme, te im osigurati smještaj, obroke, putne troškove, kao i druge potrebe povezane s obilascima odobalnih objekata, kako bi se Koordinaciji ili javnopravnim tijelima koja djeluju u skladu s uputama Koordinacije omogućio nadzor, uključujući inspekcije, istrage i provedbu odredbi ovoga Zakona.
+(3) Koordinacija je dužna izraditi godišnje planove učinkovitog nadzora rizika koji se temelje na upravljanju rizicima i u kojima se posebno vodi računa o sukladnosti s izvješćem o velikim opasnostima i drugim dokumentima koji se dostavljaju u skladu s odredbama članka 13. ovoga Zakona. Učinkovitost planova redovito se preispituje, a Koordinacija je dužna poduzeti sve potrebne mjere za njihovo poboljšavanje.
+(4) Koordinacija je dužna godišnje planove učinkovitog nadzora rizika iz stavka 3. ovoga članka objaviti na mrežnim stranicama Agencije.«.
