@@ -1,0 +1,1 @@
+Na temelju članka 27.a stavka 4. Zakona o komori arhitekata i komorama inženjera u graditeljstvu i prostornom uređenju (»Narodne novine«, broj 78/15, 114/18 i 110/19) ministar graditeljstva i prostornoga uređenja donosi
