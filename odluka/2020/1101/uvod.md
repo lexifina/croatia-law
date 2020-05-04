@@ -1,0 +1,1 @@
+Na temelju članka 10. stavka 8. Zakona o profesionalnoj rehabilitaciji i zapošljavanju osoba s invaliditetom (»Narodne novine«, broj 157/13, 152/14, 39/18 i 32/20), ministar rada i mirovinskoga sustava donosi
