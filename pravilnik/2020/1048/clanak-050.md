@@ -1,0 +1,5 @@
+# Članak 50.
+(1) Odjeli specijalističkih djelatnosti operacijskih grana medicine: kirurgije, ginekologije i opstetricije, otorinolaringologije, oftalmologije, ortopedije/traumatologije, urologije i njima srodnih djelatnosti u svrhu racionalnog iskorištavanja prostorija mogu imati zajedničke prostorije operacijskog bloka i dijela centralne djelatnosti anesteziologije, reanimatologije i intenzivnog liječenja/anesteziologije, reanimatologije i intenzivne medicine ako to dozvoljavaju građevinsko-tehnički i prostorno-komunikacijski uvjeti građevina u kojima su smješteni.
+(2) Zajednički operacijski blok iz stavka 1. ovoga članka mora imati najmanje tri operacijske dvorane na 100 bolesničkih postelja operacijskih grana medicine te na svakih daljnjih 50 bolesničkih postelja jednu operacijsku dvoranu više kao i sve ostale (prateće) prostorije operacijske dvorane u operacijskom bloku.
+(3) Iznimno od stavka 3. ovoga članka djelatnosti oftalmologije/optometrije, opstetricije i ortopedije moraju imati zasebne operacijske dvorane.
+(4) Oprema operacijskih dvorana mora biti u skladu sa zahtjevima svake od specijalističkih djelatnosti.

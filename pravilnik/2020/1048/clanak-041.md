@@ -1,0 +1,2 @@
+# Članak 41.
+Minimalne tehničke mogućnosti uređaja za standardnu polisomnografiju u medicini spavanja čine: 3 EEG odvoda (frontalni, centralni i okcipitalni), 2 EOG odvoda, 1 EMG odvod (mentalis, submentalis), SaO2 (pulsna oksimetrija), signal za hrkanje (mikrofon), senzor položaja tijela, signali za nazalni tlak i protok zraka kroz usta i nos, senzori za respiracijska nastojanja grudne/trbušne muskulature, 2 EMG odvoda za noge (prednji tibijalni mišić), EKG (jedan odvod) te video nadzor.

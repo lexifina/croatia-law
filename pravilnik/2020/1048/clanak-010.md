@@ -1,0 +1,3 @@
+# Članak 10.
+(1) Na građevini u kojoj se obavlja zdravstvena djelatnost potrebno je, u roku od 8 dana od dana zaprimanja rješenja o početku rada, na vidljivom mjestu istaknuti ploču s nazivom zdravstvene ustanove, trgovačkog društva za obavljanje zdravstvene djelatnosti ili privatne prakse sukladno rješenju ministarstva nadležnog za zdravstvo (u daljnjem tekstu: Ministarstvo) i radno vrijeme.
+(2) Ljekarničke zdravstvene ustanove i ljekarne privatne prakse obvezne su uz isticanje ploče s nazivom zdravstvene ustanove ili privatne prakse te radnog vremena iz stavka 1. ovog članka, istaknuti i zeleni križ kao obavijest da se na ovom mjestu obavlja ljekarnička djelatnost.

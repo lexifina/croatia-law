@@ -1,0 +1,5 @@
+## IV. PRIJELAZNE I ZAVRŠNE ODREDBE
+# Članak 67.
+(1) Zdravstvene ustanove, zdravstveni radnici koji obavljaju zdravstvenu djelatnost u privatnoj praksi te trgovačka društva koja obavljaju zdravstvenu djelatnost, a koja su započela s radom prije stupanja na snagu ovoga Pravilnika, moraju uskladiti svoj rad u pogledu radnika s odredbama ovoga Pravilnika u roku od jedne godine od dana stupanja na snagu ovoga Pravilnika.
+(2) Zdravstvene ustanove, zdravstveni radnici koji obavljaju zdravstvenu djelatnost u privatnoj praksi te trgovačka društva koja obavljaju zdravstvenu djelatnost, a koja su započela s radom prije stupanja na snagu ovoga Pravilnika moraju uskladiti svoj rad u pogledu medicinsko-tehničke opreme s odredbama ovoga Pravilnika u roku od tri godine od dana stupanja na snagu ovoga Pravilnika.
+(3) Zdravstveni radnici koji danom stupanja na snagu ovoga Pravilnika rade najmanje 3 godine u djelatnosti dentalne medicine u timu s doktorom dentalne medicine, nastavljaju obavljati poslove dentalnog asistenta.
