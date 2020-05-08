@@ -1,0 +1,1 @@
+Na temelju članka 12. i članka 15. stavak 1. Zakona o turističkim zajednicama i promicanju hrvatskog turizma (»Narodne novine«, broj 52/2019) Skupština Turističke zajednice Splitsko-dalmatinske županije, uz prethodnu suglasnost ministra turizma, na IV. sjednici održanoj 17. travnja 2020. godine, donijela je

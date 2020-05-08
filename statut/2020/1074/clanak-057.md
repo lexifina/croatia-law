@@ -1,0 +1,3 @@
+# Članak 57.
+(1) Zajednica se obvezuje izraditi izvješće o izvršenju programa rada po jedinstvenoj metodologiji i obveznim uputama koje donosi nadležno Ministarstvo na prijedlog HTZ-a.
+(2) Izvješće o izvršenju programa rada obvezno sadržava podatke o izvršenju programom rada pojedinačno utvrđenih zadataka, izdacima njihovog izvršenja, izdacima za poslovanje turističkog ureda i rad tijela Zajednice, ostvarenju prihoda po izvorima, financijskom rezultatu poslovanja, usporedbu financijskog plana i njegovog ostvarenja s obrazloženjem odstupanja, analizu i ocjenu izvršenja programa, te procjenu učinka poduzetih aktivnosti na razvoj turizma.
