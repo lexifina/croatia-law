@@ -1,0 +1,3 @@
+# Članak 1.
+U Pravilniku o polaganju državne mature (»Narodne novine«, broj: 1/13, 41/19 i 127/19) u članku 17. iza stavka 6. dodaje se stavak 7. koji glasi:
+»(7) Iznimno od rokova utvrđenih stavkom 1. i 2. ovog članka, za vrijeme važenja Odluke o proglašenju epidemije bolesti COVID-19 uzrokovane virusom SARS-CoV-2 u Republici Hrvatskoj, u odnosu na koju je i Svjetska zdravstvena organizacija proglasila pandemiju, u slučaju promjene Kalendara ispita prijavljeni ispiti mogu se promijeniti, odnosno ispiti koji nisu prijavljeni mogu se prijaviti, najkasnije u roku od 8 dana od dana promjene Kalendara ispita.«
