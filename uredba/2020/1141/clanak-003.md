@@ -1,0 +1,2 @@
+# Članak 3.
+Kvote određene ovom Uredbom određene su uzimajući u obzir Strategiju energetskog razvoja Republike Hrvatske do 2030. s pogledom na 2050. godinu (»Narodne novine«, broj 25/20) i Integrirani nacionalni energetski i klimatski plan za Republiku Hrvatsku za razdoblje od 2021. do 2030. godine, a u svrhu ispunjavanja ciljeva u području obnovljivih izvora energije i visokoučinkovitih kogeneracija, na koje se Republika Hrvatska obvezala u provođenju okolišno održive energetske politike.
