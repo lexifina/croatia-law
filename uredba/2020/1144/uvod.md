@@ -1,0 +1,1 @@
+Na temelju članka 77. stavaka 2. i 6. Zakona o rudarstvu (»Narodne novine«, broj 56/13, 14/14, 52/18, 115/18 i 98/19), Vlada Republike Hrvatske je na sjednici održanoj 14. svibnja 2020. godine donijela
