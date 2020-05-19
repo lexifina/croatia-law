@@ -1,0 +1,2 @@
+R J E Š E N J E
+Ne prihvaća se prijedlog za pokretanje postupka za ocjenu suglasnosti s Ustavom i zakonom članka 2. točke 3. alineje 2. Pravilnika o uvjetima i načinu stjecanja stručnih zvanja u knjižničarskoj struci ("Narodne novine" broj 28/11., 16/14., 60/14. i 47/17.) i članka 12. Pravilnika o izmjenama Pravilnika o uvjetima i načinu stjecanja stručnih zvanja u knjižničarskoj struci ("Narodne novine" broj 16/14.).
