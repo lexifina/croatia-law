@@ -1,0 +1,4 @@
+# Članak 3.
+U članku 135. iza stavka 6. dodaju se stavci 7. i 8. koji glase:
+»(7) U slučaju nastanka posebnih okolnosti koje podrazumijevaju događaj ili određeno stanje koje se nije moglo predvidjeti i na koje se nije moglo utjecati, a koje ugrožava život i zdravlje građana, imovinu veće vrijednosti, znatno narušava okoliš, narušava gospodarsku aktivnost ili uzrokuje znatnu gospodarsku štetu, Agencija može donijeti odluku kojom privremeno dozvoljava prekoračenje ograničenja ulaganja iz članaka 125. do 134. ovoga Zakona.
+(8) Odluka iz stavka 7. ovoga članka može se donijeti na razdoblje od najviše godinu dana, osim ako Agencija procijeni da još uvijek traju posljedice posebnih okolnosti ili nije došlo do okončanja posebnih okolnosti kojim je izazvano donošenje odluke te će vodeći računa o zaštiti javnog interesa i/ili interesa članova mirovinskih fondova odlučiti o daljnjem trajanju odluke iz stavka 7. ovoga članka.«.
