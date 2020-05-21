@@ -1,0 +1,1 @@
+Odluka o provedbi privremene izvanredne mjere pomoći za proizvođače tovne junadi, tovnih svinja i janjadi za klanje s problemima u poslovanju uzrokovanih epidemijom COVID-19 te za subjekte koji posluju u odobrenim objektima za klanje papkara
