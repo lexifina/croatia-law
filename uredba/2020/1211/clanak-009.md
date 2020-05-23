@@ -1,0 +1,3 @@
+## PRIJELAZNA I ZAVRŠNA ODREDBA
+# Članak 9.
+Prethodna rješenja o stjecanju statusa povlaštenog proizvođača električne energije koja su izdana i/ili produžena u skladu s odredbama Pravilnika o stjecanju statusa povlaštenog proizvođača električne energije (»Narodne novine«, br. 132/13, 81/14, 93/14, 24/15, 99/15 i 110/15), a čije bi važenje trebalo isteći nakon nastupanja okolnosti prouzrokovanih pandemijom virusa COVID-19, zbog čega projekti nisu mogli biti realizirani u rokovima važenja prethodnog rješenja, produžit će se na zahtjev nositelja projekta, na razdoblje ne dulje od šest mjeseci od dana isteka važenja prethodnog rješenja, uz dostavu dokumentacije kojom se dokazuje nemogućnost završetka proizvodnog postrojenja u rokovima iz prethodnog rješenja.
