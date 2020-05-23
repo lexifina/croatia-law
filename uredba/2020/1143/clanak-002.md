@@ -1,0 +1,14 @@
+# Članak 2.
+U Prilogu 1. Sadržaj podataka u Registru zaposlenih u javnom sektoru, u točki 3. PODACI O RADNIM MJESTIMA, iza podtočke 3.24. dodaju se podtočke 3.24.1. i 3.24.2. koje glase:
+»3.24.1. OBVEZA POLAGANJA DRŽAVNOG ISPITA
+3.24.2. RAZINA DRŽAVNOG ISPITA«.
+U točki 4. PODACI O ZAPOSLENIMA, iza podtočke 4.2.33. dodaje se nova podtočka 4.2.34. koja glasi:
+»4.2.34. DRŽAVNI ISPIT
+4.2.34.1. POLOŽEN DRŽAVNI ISPIT
+4.2.34.1.1. RAZINA DRŽAVNOG ISPITA ZA KOJU SE PRIZNAJE POLOŽEN DRŽAVNI STRUČNI ISPIT
+4.2.34.2. OBVEZA POLAGANJA DRŽAVNOG ISPITA
+4.2.34.2.1. RAZINA DRŽAVNOG ISPITA
+4.2.34.2.2. ROK ZA POLAGANJE DRŽAVNOG ISPITA
+4.2.34.2.3. DATUM POLAGANJA DRŽAVNOG ISPITA
+4.2.34.2.4. POLOŽEN/NIJE POLOŽEN DRŽAVNI ISPIT«.
+Dosadašnje podtočke 4.2.34. - 4.2.50. postaju podtočke 4.2.35. - 4.2.51.
