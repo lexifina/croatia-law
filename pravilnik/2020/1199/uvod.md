@@ -1,0 +1,1 @@
+Na temelju članka 478. stavka 6. Zakona o tržištu kapitala (»Narodne novine« br. 65/18 i 17/20), Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća održanoj 14. svibnja 2020. donosi

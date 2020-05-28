@@ -1,0 +1,5 @@
+## Način dostave podataka
+# Članak 9.
+(1) Izdavatelj je obvezan podatke iz članaka 4., 5. i 6. ovoga Pravilnika (upitnike) dostaviti u izvještajni sustav Hanfe korištenjem odgovarajućeg sučelja na internetskoj stranici Hanfe (https://reports.hanfa.hr/), a sve u skladu s pravilnikom Hanfe kojim se uređuje sadržaj, oblik i način dostavljanja propisanih informacija Hanfi i u službeni registar propisanih informacija (SRPI) te pripadajućom tehničkom uputom Hanfe za obveznike dostave propisanih informacija u SRPI i Hanfi koju Hanfa objavljuje na svojoj internetskoj stranici.
+(2) Potpisivanje podataka iz članaka 4., 5. i 6. ovoga Pravilnika (upitnici) naprednim elektroničkim potpisom obavlja se u skladu s pravilnikom Hanfe kojim se uređuje sadržaj, oblik i način dostavljanja propisanih informacija Hanfi i u SRPI te pripadajućom tehničkom uputom Hanfe za obveznike dostave propisanih informacija u SRPI i Hanfi koju Hanfa objavljuje na svojoj internetskoj stranici.
+(3) Za dostavu podataka iz članaka 4., 5. i 6. ovoga Pravilnika (upitnika) i njihovo potpisivanje naprednim elektroničkim potpisom izdavatelj koristi ovlasti koje su mu dodijeljene za dostavu podataka u SRPI.
