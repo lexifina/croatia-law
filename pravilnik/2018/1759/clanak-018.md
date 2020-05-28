@@ -1,5 +1,0 @@
-# Članak 18.
-(1) Nositelji prava koji nisu u postupku izrade elaborata katastarske izmjere potpisali izvješće o međama ili kojima nisu predočeni podatci katastarske izmjere odnosno nositeljima prava za koje Povjerenstvo nije utvrdilo da su istovjetni onim upisanim u zemljišnim knjigama pozivaju se na izlaganje na javni uvid podataka prikupljenih u katastarskoj izmjeri ili tehničkoj reambulaciji.
-(2) Na izlaganje na javni uvid pozivaju se i osobe upisane u katastarski operat katastra zemljišta kada se izlaganje provodi u svrhu osnivanja odnosno obnavljanja zemljišne knjige.
-(3) U pozivu iz stavka 1. ovoga članka obavezno se naznačuje ime katastarskoga ureda, klasifikacijska oznaka, urudžbeni broj, mjesto i datum poziva, ime i prezime odnosno naziv osobe koja se poziva, mjesto na kojem će se izlaganje obaviti, datum i sat izlaganja, te dokumentacija koju pozvana stranka treba donijeti na izlaganje.
-(4) Uz poziv iz stavka 1. ovoga članka obavezno se dostavlja izvod iz Baze podataka izlaganja (kopija popisnog lista i kopija katastarskoga plana).
