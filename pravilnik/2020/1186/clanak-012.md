@@ -1,0 +1,8 @@
+## III. POSEBNI HIGIJENSKI UVJETI ZA BAZENSKE VODE U KONVENCIONALNIM BAZENIMA
+# Članak 12.
+(1) Prilikom pripreme bazenske vode potrebno je obaviti najmanje dezinfekciju s rezidualnim učinkom i korekcijom koncentracije vodikovih iona (pH vrijednosti).
+(2) Pri provođenju dezinfekcije s rezidualnim učinkom i korekcijom koncentracije vodikovih iona (pH vrijednosti), dodana sredstva za dezinfekciju moraju se ravnomjerno raspodijeliti u bazenu, tako da bazenska voda u cijelom bazenu zadovoljava propisane vrijednosti zdravstvene ispravnosti.
+(3) Tvari koje se koriste za pripremu bazenske vode i nečistoće sadržane u tim tvarima i njihovim nusproduktima ne smiju se nalaziti u bazenskoj vodi u koncentraciji većoj od one utvrđene ovim Pravilnikom te ne smiju izravno ili neizravno utjecati na ljudsko zdravlje.
+(4) U bazensku vodu ne smiju se dodavati druge tvari, osim tvari potrebnih za njezinu pripremu.
+(5) Odgovorna osoba u konvencionalnom bazenu mora osigurati kontinuirano i automatsko mjerenje temperature i slobodnog klora, a ako se kao dezinfekcijsko sredstvo upotrebljava klorno sredstvo, osigurat će i mjerenje redoks potencijala i koncentracije vodikovih iona (pH vrijednosti) bazenske vode u skladu s Tablicom 1. Priloga IIIA. koji se nalazi u privitku ovoga Pravilnika i čini njegov sastavni dio te automatsku korekciju vrijednosti parametara pomoću uređaja za doziranje.
+(6) Ako bazensko kupalište nije opremljeno uređajima iz članka 7. stavka 1., odgovorna osoba mora osigurati ručna mjerenja u skladu s odredbama iz članka 7. stavaka 2. i 3. i Tablicom 2. Priloga IIIA. ovoga Pravilnika.

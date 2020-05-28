@@ -1,0 +1,2 @@
+# Članak 22.
+Uprava biološkog bazena obvezna je kontinuiranim i automatskim mjernim uređajima omogućiti mjerenje temperature vode, temperature zraka, zasićenost kisikom, koncentraciju vodikovih iona (pH vrijednost) i električnu vodljivost u skladu s Tablicom 1. Priloga IIIB. koji se nalazi u privitku ovoga Pravilnika i čini njegov sastavni dio, odnosno ako bazen nije opremljen uređajima za kontinuirano mjerenje u skladu s Tablicom 2. Priloga IIIB. ovoga Pravilnika.
