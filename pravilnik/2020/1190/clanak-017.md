@@ -1,0 +1,6 @@
+# Članak 17.
+(1) Nositelji prava koji u postupku predočavanja nisu bili suglasni s predočenim podacima te su odbili potpisati izjavu, kao i nositelji prava koji se nisu odazvali na predočavanje elaborata katastarske izmjere, pozivaju se na izlaganje na javni uvid katastarskih podataka.
+(2) U pozivu iz stavka 1. ovoga članka obvezno se naznačuje naziv katastarskog ureda, oznaka nadležnog općinskog suda, klasifikacijska oznaka, urudžbeni broj, mjesto i datum obavijesti, ime i prezime odnosno naziv osobe kojoj se podaci dostavljaju i potpis službene osobe, mjesto na kojem će se izlaganje na javni uvid katastarskih podataka obaviti, datum i sat izlaganja na javni uvid katastarskih podataka te dokumentacija koju pozvana stranka treba donijeti na izlaganje na javni uvid katastarskih podataka.
+(3) Uz poziv iz stavka 1. ovoga članka obvezno se dostavlja popisni list i kopija katastarskoga plana.
+(4) Poziv iz stavka 1. ovoga članka obvezno sadrži i sljedeću rečenicu: »U slučaju da se pozvana osoba ne odazove pozivu, a niti opravda svoj nedolazak, smatrat će se da je suglasna sa stanjem podataka koji su joj dostavljeni«.
+(5) Poziv iz stavka 1. ovoga članka dostavlja se uz pisani dokaz o primitku.

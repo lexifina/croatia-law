@@ -1,0 +1,3 @@
+# Članak 35.
+(1) Ukoliko je prigovor na podatke o katastarskim česticama u popisnim listovima rješenjem odbijen, a na rješenje o odbijanju nije uložena žalba ili je žalba odbijena ili odbačena, podaci o katastarskim česticama u popisnim listovima ne izlažu se ponovno na javni uvid i temelj su za obnovu, osnivanje ili dopunu zemljišne knjige.
+(2) Ukoliko u tijeku postupka po prigovoru podnositelj odustane od prigovora, po izvršnosti rješenja kojim je odlučeno o odustanku, podaci o katastarskim česticama u popisnim listovima ne izlažu se ponovno na javni uvid i temelj su za obnovu, osnivanje ili dopunu zemljišne knjige.
