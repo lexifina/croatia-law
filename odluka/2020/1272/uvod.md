@@ -1,0 +1,1 @@
+Na temelju članka 43. stavka 1. Zakona o financiranju političkih aktivnosti, izborne promidžbe i referenduma (»Narodne novine«, br. 29/19 i 98/19), Vlada Republike Hrvatske je na sjednici održanoj 28. svibnja 2020. donijela
