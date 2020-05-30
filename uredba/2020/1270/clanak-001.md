@@ -1,0 +1,3 @@
+# Članak 1.
+U Zakonu o odgoju i obrazovanju u osnovnoj i srednjoj školi (»Narodne novine«, br. 87/08, 86/09, 92/10, 105/10 - ispravak, 90/11, 16/12, 86/12, 94/13, 152/14, 7/17, 68/18 i 98/19), u članku 74. iza stavka 5. dodaje se stavak 6. koji glasi:
+»(6) Iznimno od stavka 4. ovoga članka, zbog Odluke o proglašenju epidemije bolesti COVID-19 uzrokovane virusom SARS-CoV-2 u Republici Hrvatskoj, u odnosu na koju je i Svjetska zdravstvena organizacija proglasila pandemiju, u školskoj godini 2019./2020. učeniku se utvrđuje opći uspjeh nedovoljan (1) ako mu je na kraju nastavne godine zaključena ocjena nedovoljan (1) iz najmanje pet nastavnih predmeta, odnosno ako nije položio popravni ispit u propisanim rokovima.«.

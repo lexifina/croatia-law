@@ -1,0 +1,2 @@
+# Članak 5.
+Učenici završnih razreda srednje škole, koji na dan stupanja na snagu ove Uredbe imaju utvrđen opći uspjeh nedovoljan (1), odnosno koji su na kraju nastavne godine imali više od dvije ocjene nedovoljan (1), te nisu uključeni u dopunski nastavni rad, ukoliko imaju ocjenu nedovoljan (1) iz najviše četiri nastavna predmeta, stupanjem na snagu ove Uredbe, stječu pravo na pomoć u učenju i nadoknađivanju znanja kroz dopunski nastavni rad koji su dužni pohađati, kao i na polaganje popravnih ispita.
