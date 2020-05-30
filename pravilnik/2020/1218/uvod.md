@@ -1,0 +1,1 @@
+Na temelju članka 6. stavka 4. Zakona o korištenju psa pomagača (»Narodne novine«, broj 39/19.), ministrica za demografiju, obitelj, mlade i socijalnu politiku uz prethodnu suglasnost ministrice poljoprivrede donijela je
