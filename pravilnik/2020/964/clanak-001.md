@@ -1,0 +1,5 @@
+# Članak 1.
+U Pravilniku o stavljanju na tržište sjemena krmnog bilja (»Narodne novine« broj 129/07, 78/10, 31/13, 23/17, 112/18) članak 1.a mijenja se i glasi:
+»Ovim se Pravilnikom u pravni poredak Republike Hrvatske prenose sljedeće direktive Europske unije:
+- Direktiva Vijeća 66/401/EEZ od 14. lipnja 1966. o stavljanju na tržište sjemena krmnog bilja (SL L 125, 11. 7. 1966.) kako je posljednji put izmijenjena Provedbenom direktivom Komisije (EU) 2020/177 оd 11. veljače 2020. o izmjeni direktiva Vijeća 66/401/EEZ, 66/402/EEZ, 68/193/EEZ, 2002/55/EZ, 2002/56/EZ i 2002/57/EZ, direktiva Komisije 93/49/EEZ i 93/61/EEZ te provedbenih direktiva 2014/21/EU i 2014/98/EU u pogledu organizama štetnih za bilje na sjemenu i drugom reprodukcijskom materijalu bilja (SL L 41, 13.2.2020.);
+- Direktiva Komisije 2008/124/EZ od 18. prosinca 2008. o ograničavanju stavljanja na tržište sjemena određenih vrsta krmnog bilja te uljarica i predivog bilja na sjeme koje je službeno certificirano kao »osnovno sjeme« ili »certificirano sjeme« (kodificirana verzija) (SL L 340, 19. 12. 2008.).«.
