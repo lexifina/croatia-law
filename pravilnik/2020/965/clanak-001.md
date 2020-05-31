@@ -1,0 +1,3 @@
+# Članak 1.
+U Pravilniku o stavljanju na tržište sjemena žitarica (»Narodne novine« br. 83/09, 31/13, 61/16 i 111/18) članak 1.a mijenja se i glasi:
+»Ovim se Pravilnikom u pravni poredak Republike Hrvatske prenosi Direktiva Vijeća 66/402/EEZ od 14. lipnja 1966. o stavljanju na tržište sjemena žitarica (SL L 125, 11. 7. 1966.) kako je posljednji put izmijenjena Provedbenom direktivom Komisije (EU) 2020/177 od 11. veljače 2020. o izmjeni direktiva Vijeća 66/401/EEZ, 66/402/EEZ, 68/193/EZ, 2002/55/EZ, 2002/56/EZ i 2002/57/EZ, direktiva Komisije 93/49/EEZ i 93/61/EEZ te provedbenih direktiva 2014/21/EU i 2014/98/EU u pogledu organizama štetnih za bilje na sjemenu i drugom reprodukcijskom materijalu bilja (SL L 41, 13. 2. 2020.).«.
