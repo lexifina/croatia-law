@@ -1,0 +1,5 @@
+# Članak 1.
+U Pravilniku o stavljanju na tržište sjemena uljarica i predivog bilja (»Narodne novine« br. 126/07, 20/13 i 121/16) članak 1a. mijenja se i glasi:
+»Ovim se Pravilnikom u pravni poredak Republike Hrvatske prenose sljedeće direktive Europske unije:
+- Direktiva Vijeća 2002/57/EZ od 13. lipnja 2002. o stavljanju na tržište sjemena uljarica i predivog bilja (SL L 193, 20. 7. 2002.) kako je posljednji put izmijenjena Provedbenom direktivom Komisije (EU) 2020/177 od 11. veljače 2020. o izmjeni direktiva Vijeća 66/401/EEZ, 66/402/EEZ, 68/193/EZ, 2002/55/EZ, 2002/56/EZ i 2002/57/EZ, direktiva Komisije 93/49/EEZ i 93/61/EEZ te provedbenih direktiva 2014/21/EU i 2014/98/EU u pogledu organizama štetnih za bilje na sjemenu i drugom reprodukcijskom materijalu bilja (SL L 41, 13. 2. 2020.)
+- Direktiva Komisije 2008/124/EZ od 18. prosinca 2008. o ograničavanju stavljanja na tržište sjemena određenih vrsta krmnog bilja te uljarica i predivog bilja na sjeme koje je službeno certificirano kao »osnovno sjeme« ili »certificirano sjeme« (kodificirana verzija) (SL L 340, 19. 12. 2008.)«.
