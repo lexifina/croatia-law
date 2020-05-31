@@ -1,0 +1,7 @@
+# Članak 1.
+U Pravilniku o stavljanju na tržište poljoprivrednog reprodukcijskog materijala ukrasnog bilja (»Narodne novine« broj 129/07, 2/09, 135/09, 82/18) članak 1.a mijenja se i glasi:
+»Ovim se Pravilnikom u pravni poredak Republike Hrvatske prenose sljedeće direktive Europske unije:
+- Direktiva Komisije 93/49/EEZ od 23. lipnja 1993. o uvjetima koje mora ispuniti poljoprivredni reprodukcijski materijal ukrasnog bilja i ukrasno bilje u skladu s Direktivom Vijeća 91/682/EEZ (SL L 250, 7. 10. 1993.), kako je posljednji put izmijenjena Provedbenom direktivom Komisije (EU) 2020/177 оd 11. veljače 2020. o izmjeni direktiva Vijeća 66/401/EEZ, 66/402/EEZ, 68/193/EEZ, 2002/55/EZ, 2002/56/EZ i 2002/57/EZ, direktiva Komisije 93/49/EEZ i 93/61/EEZ te provedbenih direktiva 2014/21/EU i 2014/98/EU u pogledu organizama štetnih za bilje na sjemenu i drugom reprodukcijskom materijalu bilja (SL L41, 13. 2. 2020.);
+- Direktiva Vijeća 98/56/EZ od 20. srpnja 1998. o stavljanju poljoprivrednog reprodukcijskog materijala ukrasnog bilja na tržište (SL L 226, 13. 8. 1998.);
+- Direktiva Komisije 1999/66/EZ od 28. lipnja 1999. o utvrđivanju zahtjeva za oznaku ili za drugi dokument koji sastavlja dobavljač sukladno Direktivi Vijeća 98/56/EZ (SL L 164, 30. 6. 1999.);
+- Direktiva Komisije 1999/68/EZ od 28. lipnja 1999. o utvrđivanju dodatnih odredbi za popise sorti ukrasnog bilja koje drže dobavljači sukladno Direktivi Vijeća 98/56/EZ (SL L 172, 8. 7. 1999.).«.
