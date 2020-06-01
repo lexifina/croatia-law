@@ -1,0 +1,4 @@
+# Članak 2.
+(1) Postupci za priznavanje prava na status roditelja njegovatelja odnosno njegovatelja koji nisu dovršeni do dana stupanja na snagu ove Uredbe, dovršit će se prema odredbama ove Uredbe.
+(2) Roditelj njegovatelj odnosno njegovatelj kojemu je na dan stupanja na snagu ove Uredbe priznato pravo na status roditelja njegovatelja ili njegovatelja u visini utvrđenoj člankom 67. stavkom 1. Zakona o socijalnoj skrbi (»Narodne novine«, br. 157/13, 152/14, 99/15, 52/16, 16/17, 130/17 i 98/19) od dana stupanja na snagu ove Uredbe naknadu ostvaruje u visini utvrđenoj ovom Uredbom.
+(3) Centar za socijalnu skrb će roditelju njegovatelju odnosno njegovatelju iz stavka 2. ovoga članka od dana stupanja na snagu ove Uredbe po službenoj dužnosti obračunavati naknadu u visini utvrđenoj ovom Uredbom.
