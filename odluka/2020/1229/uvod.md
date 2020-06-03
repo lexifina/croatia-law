@@ -1,0 +1,1 @@
+Na temelju članka 181. stavka 4. Zakona o zdravstvenoj zaštiti (»Narodne novine«, br. 100/18 i 125/19) i članka 9. stavka 6. Pravilnika o specijalističkom usavršavanju magistara medicinske biokemije (»Narodne novine«, broj 73/08), ministar zdravstva donosi
