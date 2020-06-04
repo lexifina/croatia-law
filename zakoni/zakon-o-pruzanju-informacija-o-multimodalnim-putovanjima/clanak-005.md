@@ -1,0 +1,3 @@
+# Članak 5.
+(1) Ministarstvo mora, prometa i infrastrukture (u daljnjem tekstu: Ministarstvo) uspostavlja NPT, koji predstavlja jedinstveni informacijski i komunikacijski sustav za korisnike o statičnim podacima o putovanjima i prometu te povijesnim podacima o prometu za različite načine prijevoza, uključujući ažuriranje podataka, kako je utvrđeno u Prilogu Uredbe (EU) 2017/1926, a koje pružaju tijela nadležna za promet, prijevoznici, upravitelji infrastrukture ili pružatelji usluga prijevoza na zahtjev na području Republike Hrvatske.
+(2) Društvo Hrvatske ceste d. o. o. obavlja stručno-tehničke poslove izrade informatičkog sustava NPT-a, poslove prikupljanja, obrade i ažuriranja podataka iz stavka 1. ovoga članka.
