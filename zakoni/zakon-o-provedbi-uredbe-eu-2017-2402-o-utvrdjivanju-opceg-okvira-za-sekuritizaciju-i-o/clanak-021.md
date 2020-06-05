@@ -1,0 +1,18 @@
+## Teži prekršaji
+# Članak 21.
+(1) Novčanom kaznom u iznosu koji ne može biti manji od 375.000,00 kuna ni veći od 10 % ukupnog netoprihoda ostvarenog i utvrđenog u godišnjim financijskim izvještajima za tu poslovnu godinu kaznit će se pravna osoba ako:
+1. kao inicijator, sponzor ili izvorni zajmodavac, nije ispunila zahtjeve o zadržavanju rizika sukladno uvjetima propisanim člankom 6. stavcima 1. i 2. Uredbe (EU) 2017/2402 odnosno kontinuirano ne zadržava znatan neto ekonomski udjel u sekuritizaciji od najmanje 5 % sukladno kriterijima iz članka 6. stavka 3. Uredbe (EU) 2017/2402
+2. kao inicijator, sponzor ili SSPN, nije ispunila zahtjeve za transparentnost za inicijatore, sponzore i SSPN-ove propisane člankom 7. stavcima 1. i 2. Uredbe (EU) 2017/2402
+3. kao inicijator, sponzor, izvorni zajmodavac ili SSPN, provede resekuritizaciju bez odobrenja nadležnog tijela sukladno članku 8. stavku 2. Uredbe (EU) 2017/2402
+4. kao inicijator, sponzor ili izvorni zajmodavac, nije na izloženosti koje se sekuritiziraju primijenila kriterije u skladu s člankom 9. Uredbe (EU) 2017/2402
+5. kao inicijator, sponzor ili SSPN, nije ispunila zahtjeve za upotrebu oznake »jednostavna, transparentna i standardizirana sekuritizacija (STS)« u skladu s člankom 18. Uredbe (EU) 2017/2402
+6. kao inicijator, sponzor ili SSPN, kod sekuritizacije koja ima oznaku STS nije ispunila zahtjeve povezane s jednostavnošću, standardizacijom i transparentnošću u skladu s člancima 19. do 22. Uredbe (EU) 2017/2402
+7. kao inicijator, sponzor ili SSPN, kod sekuritizacije koja ima oznaku STS nije ispunila zahtjeve na razini transakcije, sponzora programa i zahtjeve na razini programa za jednostavnu, transparentnu i standardiziranu ABCP sekuritizaciju sukladno člancima od 23. do 26. Uredbe (EU) 2017/2402
+8. kao sponzor programa ABCP, nadležnom tijelu ne dokaže ispunjavanje zahtjeva iz članka 25. stavaka 2. i 3. Uredbe (EU) 2017/2402
+9. kao inicijator ili sponzor, izda STS obavijest koja nije u skladu sa zahtjevima iz članka 27. Uredbe (EU) 2017/2402
+10. kao inicijator ili sponzor, nije ispunila zahtjeve u vezi sa STS obavijesti sukladno članku 27. stavku 4. Uredbe (EU) 2017/2402 odnosno kao inicijator ili sponzor nije odmah obavijestila ESMA-u i informirala svoje nadležno tijelo da sekuritizacija više ne ispunjava zahtjeve iz članaka od 19. do 22. ili članaka od 23. do 26. Uredbe (EU) 2017/2402
+11. kao treća strana koja provjerava STS usklađenost prema člancima 27. i 28. Uredbe (EU) 2017/2402, nije obavijestila nadležno tijelo o značajnim promjenama informacija koje su dostavljene u skladu s člankom 28. stavcima 1. i 2. Uredbe (EU) 2017/2402 ili bilo kojim drugim promjenama za koje bi se moglo razumno smatrati da utječu na procjenu nadležnog tijela
+12. ne postupi u skladu s rješenjem o nadzornim mjerama nadležnog tijela izrečenim sukladno odredbama članaka 11., 12. i 14. ovoga Zakona.
+(2) Iznimno od stavka 1. ovoga članka, u slučaju da je prekršajem iz stavka 1. ovoga članka ostvarena korist, a iznos tako ostvarene koristi moguće je utvrditi, pravna osoba kaznit će se novčanom kaznom u iznosu dvostruko utvrđenog iznosa tako ostvarene koristi, ako je taj iznos veći od propisanog najvećeg iznosa novčane kazne iz stavka 1. ovoga članka.
+(3) Za prekršaje iz stavka 1. ovoga članka kaznit će se i odgovorna osoba pravne osobe novčanom kaznom u iznosu od 50.000,00 kuna do 37.200.000,00 kuna.
+(4) Za prekršaje iz stavka 1. ovoga članka, ako je počinitelj prekršaja fizička osoba, kaznit će se počinitelj prekršaja novčanom kaznom u iznosu koji ne može biti manji od 50.000,00 kuna ni veći od 37.200.000,00 kuna.
