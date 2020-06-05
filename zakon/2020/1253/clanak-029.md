@@ -1,0 +1,6 @@
+# Članak 29.
+U članku 424. stavku 1. riječi: »9.750.000,00 kuna« zamjenjuju se riječima: »1. 250.000,00 eura u kunskoj protuvrijednosti, prema srednjem tečaju Hrvatske narodne banke koji se primjenjuje zadnjeg dana listopada prethodne godine«, a riječi: »14.430.000,00 kuna« zamjenjuju se riječima: »1.850.000,00 eura u kunskoj protuvrijednosti, prema srednjem tečaju Hrvatske narodne banke koji se primjenjuje zadnjeg dana listopada prethodne godine«.
+U stavku 3. iza riječi: »reosiguranju« dodaju se riječi: » i sporedni posrednik u osiguranju«, a riječi: »150.000,00 kuna« zamjenjuju se riječima: »18.750,00 eura u kunskoj protuvrijednosti, prema srednjem tečaju Hrvatske narodne banke koji se primjenjuje zadnjeg dana listopada prethodne godine«.
+U stavku 4. iza riječi: »posrednik« dodaju se riječi: »i sporedni posrednik u osiguranju«.
+Stavak 6. mijenja se i glasi:
+»(6) Novčani iznos u svrhu uplate premije osiguranja koji stranka uplaćuje posredniku i sporednom posredniku u osiguranju smatra se da je plaćen društvu za osiguranje, dok se novčani iznos koji društvo za osiguranje uplaćuje posredniku i sporednom posredniku u osiguranje ne smatra isplaćenim stranki sve dok ga stranka zaista i ne primi.«.

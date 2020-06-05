@@ -1,0 +1,4 @@
+# Članak 31.
+U članku 429. stavci 3. i 4. mijenjaju se i glase:
+»(3) Društvo za zastupanje u osiguranju, društvo za brokerske poslove u osiguranju i/ili reosiguranju dužno je Agenciji dostaviti godišnje financijsko izvješće nakon isteka kalendarske godine, a polugodišnje financijsko izvješće nakon isteka polugodišta za koje se izvješće sastavlja.
+(4) Sporedni posrednik u osiguranju, obrtnik zastupnik u osiguranju, društvo za zastupanje u osiguranju, društvo za brokerske poslove u osiguranju i/ili reosiguranju, obrtnik broker u osiguranju i/ili reosiguranju, kreditna institucija, Financijska agencija, HP ‒ Hrvatska pošta d.d., leasing-društvo i investicijsko društvo dužni su Agenciji dostaviti polugodišnje statističko izvješće protekom polugodišta za koje se izvješće sastavlja. Godišnje statističko izvješće dostavlja se nakon isteka kalendarske godine.«.
