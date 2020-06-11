@@ -1,0 +1,5 @@
+## Predmet Pravilnika
+# Članak 1.
+(1) Ovim se Pravilnikom propisuje način praćenja, prijava i izvješćivanje o pojavi bolesti životinja iz Priloga I. ovoga Pravilnika, obveze posjednika životinja, veterinara, ovlaštenih veterinara, veterinarskih inspektora, službenih i referentnih laboratorija prilikom prijave odnosno odjave bolesti životinja i obveze Uprave za prijavu bolesti Europskoj komisiji.
+(2) Ovim se Pravilnikom u pravni poredak Republike Hrvatske prenosi Direktiva Vijeća 82/894/EEZ od 21. prosinca 1982. godine o načinu prijave bolesti životinja unutar Zajednice (SL L 378, 31. 12. 1982.) kako je posljednji put izmijenjena i dopunjena Provedbenom Odlukom Komisije br. 2012/737/EU od 27. studenoga 2012. godine o izmjeni priloga I. i II. Direktivi Vijeća 82/894/EEZ o načinu prijave bolesti životinja unutar Zajednice (SL L 329, 29. 11. 2012.).
+(3) Ovaj se Pravilnik primjenjuje ne dovodeći u pitanje odredbe posebnih propisa koji se odnose na dostavljanje informacija o ujednačenoj provedbi mjera nadziranja, kontrole, praćenja i iskorjenjivanja bolesti životinja.
