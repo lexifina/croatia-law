@@ -1,0 +1,18 @@
+## III. RAZVOJ I UPRAVLJANJE SIGURNOŠĆU
+## Održavanje i unaprjeđenje sigurnosti željezničkog sustava
+# Članak 21.
+(1) Upravitelji infrastrukture i željeznički prijevoznici, u okviru svoje djelatnosti, odgovorni su za sigurnost željezničkog sustava Europske unije i za upravljanje povezanim rizicima.
+(2) Upravitelji infrastrukture i željeznički prijevoznici dužni su provoditi mjere potrebne za upravljanje rizicima, primjenjivati pravila Europske unije i nacionalna pravila te uspostaviti sustav upravljanja sigurnošću u skladu s ovim Zakonom.
+(3) Uz građanskopravnu odgovornost, upravitelji infrastrukture i željeznički prijevoznici odgovorni su korisnicima, putnicima, radnicima i ostalim strankama za dio sustava u okviru svoje djelatnosti i za njegov siguran rad, uključujući nabavu materijala i ugovaranje usluga.
+(4) Željeznički prijevoznici i upravitelji infrastrukture:
+a) u svojim sustavima upravljanja sigurnošću uzimaju u obzir rizike povezane s aktivnostima drugih sudionika i trećih osoba
+b) prema potrebi, ugovorno obvezuju druge sudionike iz stavka 5. ovoga članka koji imaju mogući utjecaj na siguran rad željezničkog sustava Europske unije da provode mjere za upravljanje rizicima i
+c) osiguravaju da njihovi izvođači provode mjere za upravljanje rizicima putem primjene zajedničkih sigurnosnih metoda za postupke nadgledanja koji su utvrđeni u zajedničkim sigurnosnim metodama o nadgledanju te da je to propisano u odgovarajućim aktima koje treba predočiti na zahtjev Agencije Europske unije za željeznice ili Agencije.
+(5) Uz odgovornosti željezničkih prijevoznika i upravitelja infrastrukture iz stavka 4. ovoga članka, subjekti nadležni za održavanje i svi ostali sudionici koji imaju potencijalni utjecaj na siguran rad željezničkog sustava Europske unije, uključujući proizvođače, pružatelje usluga održavanja, posjednike, pružatelje usluga, naručitelje, prijevoznike, pošiljatelje, primatelje, punitelje, praznitelje, utovaritelje, iskrcatelje:
+a) provode potrebne mjere za upravljanje rizicima, prema potrebi u suradnji s drugim sudionicima i
+b) osiguravaju da podsustavi, pribor i oprema koje dostavljaju te usluge koje pružaju ispunjavaju navedene zahtjeve i uvjete korištenja kako bi ih željeznički prijevoznik i/ili upravitelj infrastrukture mogao koristiti na siguran način.
+(6) U cilju razvoja i unaprjeđenja sigurnosti na mreži Europske unije razvijaju se zajednički sigurnosni ciljevi i zajedničke sigurnosne metode te se razvijaju i objavljuju godišnji sigurnosni planovi u kojima se navode mjere planirane za ostvarivanje zajedničkih sigurnosnih ciljeva.
+(7) Željeznički prijevoznici, upravitelji infrastrukture i svi sudionici iz stavka 5. ovoga članka koji otkriju sigurnosni rizik povezan s nedostacima i nesukladnostima u konstrukciji ili kvarovima tehničke opreme, uključujući one na opremi strukturnih podsustava ili su obaviješteni o njima, u granicama svojih nadležnosti:
+a) moraju poduzeti potrebne korektivne mjere kako bi se otklonio utvrđeni sigurnosni rizik i
+b) moraju obavijestiti uključene stranke o rizicima kako bi im omogućili poduzimanje svakog daljnjeg potrebnog korektivnog djelovanja radi osiguranja neprekinute izvedbe željezničkog sustava Europske unije u pogledu sigurnosti.
+(8) U slučaju razmjene vozila između željezničkih prijevoznika, svaki sudionik koji je uključen u razmjenu odgovoran je za potpuno i istinito prenošenje svih potrebnih informacija kako bi se provjerilo jesu li vozila ispravna za korištenje, a osobito za informacije vezane uz stanje i povijest vozila, dokumentaciju o održavanju, sljedivost utovarnih djelatnosti i teretnih listova.

@@ -1,0 +1,17 @@
+## Odobrenje za puštanje u uporabu infrastrukturnih podsustava
+# Članak 56.
+(1) Upravitelj infrastrukture u okviru sustava upravljanja sigurnošću uspostavlja pravila o puštanju u uporabu infrastrukturnih podsustava u skladu s odgovornošću za nadzor rizika te u skladu sa zajedničkim sigurnosnim metodama za vrednovanje i procjenu rizika i za ocjenjivanje sukladnosti sa zahtjevima iz uvjerenja o sigurnosti.
+(2) Upravitelj infrastrukture mora za svaki infrastrukturni podsustav koji se nalazi ili se koristi na teritoriju Republike Hrvatske prije puštanja u uporabu imati odobrenje za puštanje u uporabu koje izdaje Agencija.
+(3) Odredbe o izdavanju odobrenja za puštanje u uporabu podsustava odnose se i na dijelove podsustava.
+(4) Infrastrukturni podsustavi puštaju se u uporabu samo ako su projektirani, izgrađeni i ugrađeni tako da pri uključivanju u željeznički sustav ispunjavaju osnovne zahtjeve i ako je za te podsustave izdano odgovarajuće odobrenje u skladu s ovim člankom.
+(5) Agencija je dužna na svojoj mrežnoj stranici javno objaviti smjernice za podnošenje zahtjeva za izdavanje odobrenja iz ovoga članka u kojem će opisati postupak izdavanja, navesti zahtjeve koje je potrebno ispuniti za izdavanje i navesti dokumentaciju koju je potrebno priložiti zahtjevu.
+(6) Smjernice iz stavka 5. ovoga članka stavljaju se na raspolaganje podnositeljima zahtjeva bez naknade.
+(7) Podnositelj zahtjeva podnosi Agenciji zahtjev za odobrenje za puštanje u uporabu infrastrukturnih podsustava, uz koji prilaže dokaze o:
+a) »EZ« izjavama o provjeri
+b) tehničkoj kompatibilnosti podsustava sa sustavom u koji se integriraju, utvrđenoj na temelju odgovarajućih TSI-a, nacionalnih pravila i registara
+c) sigurnoj integraciji podsustava, utvrđenoj na temelju odgovarajućih TSI-a, nacionalnih pravila te zajedničkih sigurnosnih metoda i
+d) pozitivnoj odluci Agencije Europske unije za željeznice izdanoj u skladu s člankom 59. ovoga Zakona u slučaju prometno-upravljačkih i signalno-sigurnosnih podsustava na pruzi koji obuhvaćaju opremu Europskog sustava upravljanja i nadzora vlakova (ETCS) i/ili Globalnog sustava pokretnih komunikacija za željeznički promet (GSM-R) te usklađenosti s rezultatima postupka u smislu članka 30. stavka 2. Uredbe (EU) 2016/796, a u slučaju promjene nacrta specifikacija natječaja ili opisa predviđenih tehničkih rješenja koja su izrađena nakon te pozitivne odluke.
+(8) U roku od 30 dana od primitka zahtjeva podnositelja Agencija obavješćuje podnositelja zahtjeva da je dokumentacija potpuna ili traži potrebne dodatne informacije, za čije pružanje određuje razuman rok.
+(9) Agencija provjerava i potvrđuje potpunost, ispravnost i dosljednost dokumentacije i, u slučaju pružne opreme ERTMS-a, usklađenost s pozitivnom odlukom Agencije Europske unije za željeznicu, izdanom u skladu s člankom 59. ovoga Zakona i, prema potrebi, usklađenost s rezultatom postupka u smislu članka 30. stavka 2. Uredbe (EU) 2016/796.
+(10) Nakon potvrde iz stavka 9. ovoga članka Agencija izdaje rješenje o odobrenju za puštanje u uporabu infrastrukturnih podsustava ili obavješćuje podnositelja zahtjeva o svojoj negativnoj odluci u unaprijed utvrđenom, razumnom roku, a u svakom slučaju u roku od najduže 60 dana od primitka svih potrebnih informacija.
+(11) Postupak za izdavanje odobrenja za puštanje u uporabu infrastrukturnog podsustava može se voditi prije, nakon ili usporedno s postupcima koji se vode u skladu s propisom kojim se uređuje područje gradnje.

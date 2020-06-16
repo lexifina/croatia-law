@@ -1,0 +1,22 @@
+## VI. OCJENJIVANJE SUKLADNOSTI
+## Tijela za ocjenjivanje sukladnosti
+# Članak 39.
+(1) Tijela za ocjenjivanje sukladnosti su prijavljena tijela (engl. Notified Body – NoBo) i imenovana tijela (engl. Designated Body – DeBo).
+(2) Prijavljeno tijelo je pravna osoba koja obavlja zadaće ocjenjivanja sukladnosti u skladu s odabranim TSI-em za koje je prijavljeno, bez obzira na to obavlja li ih tijelo za ocjenjivanje sukladnosti ili se one obavljaju u njegovo ime i pod njegovom odgovornošću.
+(3) Imenovano tijelo je pravna osoba koja obavlja zadaće ocjenjivanja sukladnosti za koje je imenovano, a u skladu s nacionalnim pravom pod vlastitom odgovornošću.
+(4) U svakom trenutku, za svaki posebni postupak ocjenjivanja sukladnosti i svaku vrstu i/ili kategoriju proizvoda za koje je prijavljeno, tijelo za ocjenjivanje sukladnosti dužno je imati na raspolaganju:
+a) potrebno osoblje s tehničkim znanjem i dostatnim i prikladnim iskustvom za obavljanje zadaća ocjenjivanja sukladnosti
+b) odgovarajuće opise postupaka u skladu s kojima se ocjenjivanje sukladnosti treba provoditi, a kojima se osigurava transparentnost i sposobnost primjene tih postupaka te uspostavljenu prikladnu politiku i postupke za razlikovanje između zadaća koje obavlja kao prijavljeno tijelo za ocjenjivanje sukladnosti i drugih aktivnosti
+c) odgovarajuće postupke za obavljanje aktivnosti kojima se vodi računa o veličini trgovačkog društva, sektoru u kojem djeluje, njegovoj strukturi, stupnju složenosti tehnologije proizvoda te masovnoj ili serijskoj prirodi proizvodnog procesa i
+d) sredstva potrebna za obavljanje tehničkih i administrativnih zadaća povezanih s aktivnostima ocjenjivanja sukladnosti na odgovarajući način te pristup svoj potrebnoj opremi ili postrojenjima.
+(5) Tijelo za ocjenjivanje sukladnosti dužno je imati osiguranje od odgovornosti, osim u slučaju ako je odgovornost preuzela država ili je država izravno odgovorna za ocjenjivanje sukladnosti.
+(6) Podaci koji se dobiju tijekom postupka provjere su poslovna tajna, a osoblje koje provodi postupak provjere dužno je čuvati tajnost podataka koje sazna tijekom obavljanja postupka provjere, osim u odnosu na državna tijela i Istražno tijelo, ne dirajući time u prava vlasništva.
+(7) Prijavljeno tijelo dužno je sudjelovati u aktivnostima normizacije i aktivnostima koordinacijske grupe prijavljenih tijela za ocjenjivanje sukladnosti osnovane u skladu s mjerodavnim pravom Europske unije ili osigurati da je njegovo osoblje koje provodi ocjenjivanje obaviješteno o tim aktivnostima te da kao opće smjernice primjenjuje administrativne odluke i dokumente nastale radom te grupe.
+(8) Prijavljeno tijelo, koje je prijavljeno za pružne prometno-upravljačke i signalno-sigurnosne podsustave i/ili one ugrađene u vozilo, sudjeluje u aktivnostima grupe za ERTMS iz članka 29. Uredbe (EU) 2016/796 ili osigurava da je njegovo osoblje koje provodi ocjenjivanje obaviješteno o tim aktivnostima, pri čemu slijedi smjernice koje su rezultat rada te grupe.
+(9) Ako prijavljeno tijelo smatra da je primjena smjernica iz stavka 7. ovoga članka neprikladna ili nemoguća, ono podnosi primjedbe na raspravi grupe za ERTMS radi kontinuiranog poboljšavanja smjernica.
+(10) Ako tijelo za ocjenjivanje sukladnosti iz stavka 1. ovoga članka dokaže da ispunjava kriterije utvrđene u odgovarajućim usklađenim normama ili njihovim dijelovima, a na koje su upućivanja objavljena u Službenom listu Europske unije, predmnijeva se da ono ispunjava zahtjeve utvrđene u člancima od 39. do 41. ovoga Zakona, ako su ti zahtjevi obuhvaćeni primjenjivim usklađenim normama.
+(11) Prijavljena tijela osnovana u Republici Hrvatskoj ispunjavanje zahtjeva iz članaka od 39. do 41. ovoga Zakona dokazuju potvrdom o akreditaciji izdanom od hrvatskog akreditacijskog tijela u smislu i u skladu s Uredbom (EZ) br. 765/2008.
+(12) Za imenovana tijela postupke ocjenjivanja i redovitog nadzora ispunjavanja zahtjeva iz članka 45. ovoga Zakona provodi Ministarstvo.
+(13) Odobrenje tijela za ocjenjivanje sukladnosti iz stavka 1. ovoga članka koje je osnovano u Republici Hrvatskoj izdaje Ministarstvo.
+(14) Tijelu za ocjenjivanje sukladnosti koje više ne ispunjava zahtjeve iz članaka od 39. do 41. ovoga Zakona ukinut će se odobrenje iz stavka 13. ovoga članka.
+(15) Iznimno od ovoga članka, prijavljeno tijelo može se odrediti kao imenovano tijelo te u tom slučaju jedinstveno tijelo za ocjenjivanje sukladnosti može provesti cijeli postupak »EZ« provjere podsustava iz članka 60. ovoga Zakona.

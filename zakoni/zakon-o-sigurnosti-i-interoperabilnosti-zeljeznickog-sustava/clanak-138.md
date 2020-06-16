@@ -1,0 +1,7 @@
+## Zaštita željezničke infrastrukture i vozila
+# Članak 138.
+(1) Zabranjeno je fizičkoj osobi oštećivati željezničku infrastrukturu i vozila, bacati ili stavljati na željezničku prugu bilo kakve predmete i tvari, bacati predmete na vozila ili iz tih vozila, ometati rad radnika upravitelja infrastrukture i željezničkog prijevoznika, ili na koji drugi način ugrožavati ili ometati odvijanje željezničkog prometa.
+(2) Uz željezničku prugu, a posebno u blizini željezničkih signala, pravna ili fizička osoba ne smije saditi visoko drveće i nasade, postavljati znakove, oznake, izvore obojene ili zasljepljujuće svjetlosti ili druge predmete i naprave koje bojom, oblikom ili svjetlošću mogu dovesti u zabunu izvršne radnike u vezi sa značenjem signalnih znakova.
+(3) Na željezničkoj infrastrukturi, u pružnom pojasu i zaštitnom pružnom pojasu, bez prethodne suglasnosti upravitelja infrastrukture, nije dozvoljeno obavljanje bilo kakvih radova.
+(4) Upravitelj infrastrukture ovlašten je zahtijevati od vlasnika odnosno posjednika zemljišta u primjerenom roku uklanjanje drveća, nasada, naprava ili predmeta iz stavka 2. ovoga članka.
+(5) Ako vlasnik odnosno posjednik zemljišta ne postupi u primjerenom roku po zahtjevu upravitelja infrastrukture u slučajevima iz stavka 4. ovoga članka, upravitelj infrastrukture poduzet će potrebne mjere, a vlasnik odnosno posjednik morat će nastale troškove nadoknaditi upravitelju infrastrukture.

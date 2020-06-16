@@ -1,0 +1,13 @@
+## Nadzor nad sustavom za upravljanje sigurnošću
+# Članak 9.
+(1) Agencija obavlja poslove nadzora nad uspostavom i održavanjem sustava upravljanja sigurnošću željezničkog prijevoznika i upravitelja infrastrukture iz članaka 24. i 25. ovoga Zakona.
+(2) U skladu sa stavkom 1. ovoga članka Agencija je dužna primijeniti načela utvrđena u odgovarajućim zajedničkim sigurnosnim metodama u smislu odredaba Delegirane uredbe Komisije (EU) 2018/762 оd 8. ožujka 2018. o utvrđivanju zajedničkih sigurnosnih metoda u vezi sa zahtjevima za sustav upravljanja sigurnošću na temelju Direktive (EU) 2016/798 Europskog parlamenta i Vijeća te stavljanju izvan snage uredaba Komisije (EU) br. 1158/2010 i (EU) br. 1169/2010 (Tekst značajan za EGP) (SL L 129, 25. 5. 2018.), pri čemu osigurava da aktivnosti nadzora obuhvaćaju provjeru da željeznički prijevoznik i upravitelj infrastrukture primjenjuje:
+a) sustav upravljanja sigurnošću kako bi se nadgledala njihova djelotvornost
+b) pojedinačne ili djelomične dijelove sustava upravljanja sigurnošću, uključujući operativne aktivnosti, pružanje usluga održavanja i opskrbu materijalima te ugovaranje vanjskih usluga kako bi se nadgledala njihova djelotvornost i
+c) odgovarajuće zajedničke sigurnosne metode pri čemu se aktivnosti nadzora, prema potrebi, odnose i na subjekte nadležne za održavanje.
+(3) Željeznički prijevoznici dužni su najkasnije dva mjeseca prije početka obavljanja svakog novog željezničkog prijevoza obavijestiti Agenciju zbog planiranja aktivnosti nadzora, pri čemu željeznički prijevoznici dostavljaju i podjelu kategorija radnika i vrsta vozila.
+(4) Imatelj jedinstvene potvrde o sigurnosti bez odgode obavješćuje Agenciju o svim bitnim promjenama informacija iz stavka 3. ovoga članka.
+(5) Agencija prilikom nadzora sustava upravljanja sigurnošću upravitelja infrastrukture i željezničkog prijevoznika, uz odgovornost željezničkih prijevoznika i upravitelja infrastrukture, može uzeti u obzir odredbe članka 21. stavka 5. i članka 36. ovoga Zakona ako utječu na sigurnost željezničkog sustava.
+(6) Agencija je dužna osigurati nadgledanje usklađenosti s primjenjivim pravilima o radnom vremenu, vremenu vožnje i razdobljima odmora za strojovođe.
+(7) U postupku nadzora sustava upravljanja sigurnošću Agencija je ovlaštena izricati upozorenja, naredbe i druge primjerene mjere po kojima je upravitelj infrastrukture i željeznički prijevoznik dužan postupiti.
+(8) Ako u postupku nadzora sustava upravljanja sigurnošću posumnja u povrede ovoga Zakona i izravno primjenjivih propisa Europske unije, Agencija bez odgode provodi inspekcijski nadzor.

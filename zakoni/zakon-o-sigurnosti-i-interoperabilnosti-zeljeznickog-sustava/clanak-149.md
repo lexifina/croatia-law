@@ -1,0 +1,7 @@
+## XX. PRIJELAZNE I ZAVRŠNE ODREDBE
+## Važeća i nova rješenja i odobrenja
+# Članak 149.
+(1) Potvrde i uvjerenja o sigurnosti, dozvole za strojovođe, ECM ovlaštenja i odobrenja za puštanje u uporabu strukturnih podsustava (infrastrukturnih podsustava i vozila), izdani od Agencije prema odredbama Zakona o sigurnosti i interoperabilnosti željezničkog sustava (»Narodne novine«, br. 82/13., 18/15., 110/15. i 70/17.) ostaju na snazi do njihova isteka.
+(2) Odobrenja za tijela za ocjenjivanje sukladnosti izdana od Ministarstva prema odredbama Zakona o sigurnosti i interoperabilnosti željezničkog sustava (»Narodne novine«, br. 82/13., 18/15., 110/15. i 70/17.) ostaju na snazi do njihova isteka.
+(3) Odobrenja za održavanje željezničkih vozila izdana od Ministarstva prema odredbama Pravilnika o uvjetima kojima moraju udovoljavati pravne i fizičke osobe ovlaštene za održavanje željezničkih vozila (»Narodne novine«, br. 99/11. i 122/12.) ostaju na snazi do njihova isteka.
+(4) Važeća odobrenja za početak rada infrastrukturnih podsustava i odobrenja za uporabu vozila, dodijeljena prije 15. lipnja 2016., uključujući odobrenja izdana u skladu s međunarodnim sporazumima, posebno u skladu s odredbama Međunarodnih propisa o putničkim vagonima (Regolamento Internazionale Carrozze – RIC) i Međunarodnih propisa o teretnim vagonima (Regolamento Internazionale Veicoli – RIV), izdana u skladu s propisima koji su važili prije stupanja na snagu ovoga Zakona, ostaju na snazi.

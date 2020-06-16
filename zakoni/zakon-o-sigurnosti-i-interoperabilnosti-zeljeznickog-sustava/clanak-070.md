@@ -1,0 +1,23 @@
+## Postupak izdavanja odobrenja za stavljanje vozila na tržište
+# Članak 70.
+(1) Agencija Europske unije za željeznice ili Agencija, kada je područje uporabe vozila ograničeno na mrežu Republike Hrvatske, po izboru i na zahtjev podnositelja zahtjeva izdaje odobrenje za stavljanje vozila na tržište ili obavještava podnositelja zahtjeva o negativnoj odluci unutar unaprijed određenog razumnog roka te, u svakom slučaju, najkasnije u roku od četiri mjeseca, odnosno Agencija u roku od najduže 60 dana nakon primitka svih potrebnih informacija od podnositelja zahtjeva.
+(2) Agencija Europske unije za željeznice ili Agencija provodi postupak izdavanja odobrenja kako je određeno u Provedbenoj uredbi Komisije (EU) 2018/545 оd 4. travnja 2018. o utvrđivanju praktičnih aranžmana za postupak odobravanja željezničkih vozila i postupak odobravanja tipa željezničkih vozila u skladu s Direktivom (EU) 2016/797 Europskog parlamenta i Vijeća (Tekst značajan za EGP) (SL L 90, 6. 4. 2018.).
+(3) Odobrenja iz stavka 1. ovoga članka omogućuju stavljanje vozila na tržište Europske unije.
+(4) Agencija Europske unije za željeznice izdaje odobrenje za stavljanje vozila na tržište za vozila koja imaju područje uporabe u jednoj ili više država članica.
+(5) U svrhu izdavanja odobrenja iz stavka 4. ovoga članka, Agencija Europske unije za željeznice:
+a) ocjenjuje dokumentaciju navedenu u članku 69. stavku 4. točkama b), c) i d) ovoga Zakona kako bi provjerila potpunost, ispravnost i dosljednost dokumentacije u odnosu na odgovarajuće TSI-e i
+b) upućuje dokumentaciju podnositelja zahtjeva Agenciji za traženo područje uporabe radi ocjenjivanja dokumentacije kako bi se provjerila njezina potpunost, ispravnost i dosljednost u odnosu na članak 69. stavak 4. točku d) ovoga Zakona i u odnosu na članak 69. stavak 4. točke a), b) i c) ovoga Zakona u odnosu na važeća nacionalna pravila.
+(6) U okviru ocjena iz stavka 5. ovoga članka i u slučaju opravdane sumnje Agencija Europske unije za željeznice ili Agencija mogu zatražiti provedbu ispitivanja na mreži.
+(7) U svrhu olakšavanja i provedbe ispitivanja na mreži iz stavka 6. ovoga članka Agencija može izdati privremena odobrenja za stavljanje vozila na tržište.
+(8) Upravitelj infrastrukture dužan je osigurati provedbu svih ispitivanja u roku od tri mjeseca od zahtjeva Agencije Europske unije za željeznice ili Agencije.
+(9) Ako Agencija Europske unije za željeznice nije suglasna s negativnom ocjenom Agencije u skladu sa stavkom 5. točkom b) ovoga članka, o tome obavještava Agenciju i navodi razloge za svoje neslaganje.
+(10) Agencija Europske unije za željeznice i Agencija surađuju radi postizanja dogovora o uzajamno prihvatljivoj ocjeni, a prema potrebi mogu u taj postupak uključiti i podnositelja zahtjeva.
+(11) Ako u roku od 30 dana nakon što je Agencija Europske unije za željeznice o svojem neslaganju obavijestila Agenciju nije bilo moguće postići dogovor o uzajamno prihvatljivoj ocjeni, Agencija Europske unije za željeznice donosi konačnu odluku, osim ako je Agencija predmet uputila na arbitražu pred odbor za žalbe koji je uspostavljen u skladu s člankom 55. Uredbe (EU) 2016/796.
+(12) Ako se Agencija Europske unije za željeznice ne složi s pozitivnom ocjenom Agencije u skladu sa stavkom 5. točkom b) ovoga članka, o tome obavještava Agenciju i navodi razloge za svoje neslaganje.
+(13) Agencija Europske unije za željeznice i Agencija surađuju radi postizanja dogovora o uzajamno prihvatljivoj ocjeni iz stavka 10. ovoga članka, a prema potrebi mogu u taj postupak uključiti i podnositelja zahtjeva.
+(14) Ako u roku od 30 dana nakon što je Agencija Europske unije za željeznice o svom neslaganju iz stavka 12. ovoga članka obavijestila Agenciju nije bilo moguće postići dogovor o uzajamno prihvatljivoj ocjeni, Agencija Europske unije za željeznice donosi konačnu odluku.
+(15) Svaka odluka kojom se odbija odobrenje za stavljanje vozila na tržište ili kojom se isključuju dijelovi mreže u skladu s negativnom ocjenom kako je navedeno u ovome članku mora biti obrazložena.
+(16) U roku od 30 dana od primitka negativne odluke podnositelj zahtjeva može prema nadležnosti od Agencije Europske unije za željeznice ili Agencije zatražiti preispitivanje odluke.
+(17) Agencija Europske unije za željeznice ili Agencija imaju dva mjeseca od dana primitka zahtjeva za preispitivanje da potvrde ili opozovu svoju odluku.
+(18) Ako negativna ocjena Agencije Europske unije za željeznice bude potvrđena, podnositelj zahtjeva može podnijeti žalbu odboru za žalbe određenom u skladu s člankom 55. Uredbe (EU) 2016/796.
+(19) Ako negativna odluka Agencije bude potvrđena, podnositelj zahtjeva može pokrenuti upravni spor.
