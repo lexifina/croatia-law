@@ -1,0 +1,6 @@
+## Završne odredbe
+# Članak 13.
+(1) Dodatne ispite iz članka 2. stavka 1. točke 2. ovoga Pravilnika za potrebe dokazivanja uvjeta stručnosti iz članka 186. stavka 2. točke 2. Zakona o osiguranju odnosno članka 55. stavka 2. točke 2. Zakona o mirovinskim osiguravajućim društvima u postupku po zahtjevu za izdavanje ovlaštenja za obavljanje poslova ovlaštenog aktuara ne mora polagati osoba koja zahtjevu priloži dokaze o tome da je položila sve sljedeće ispite u organizaciji Hrvatskog aktuarskog društva: Pravo osiguranja i mirovinskog osiguranja u Republici Hrvatskoj, Računovodstvo osiguranja i mirovinskog osiguranja u Republici Hrvatskoj, Praksa osiguranja i mirovinskog osiguranja u Republici Hrvatskoj i Profesionalizam a u odnosu na koji su ispunjeni uvjeti iz članka 5. stavka 1. točke 2. i 4. ovoga Pravilnika, pod uvjetom da dostavi dokaze da je:
+1. položila sve Obvezne ispite iz članka 2. stavka 1. točke 1. ovoga Pravilnika i
+2. stekla odgovarajuće radno iskustvo iz članka 186. stavka 2. točke 3. Zakona o osiguranju.
+(2) Za potrebe dokazivanja uvjeta radnog iskustva u postupku izdavanja ovlaštenja za obavljanje poslova ovlaštenog aktuara potrebno je priložiti potvrdu poslodavca o ispunjenju uvjeta radnog iskustva iz koje je vidljivo da je osoba sudjelovala u obavljanju aktuarskih poslova najmanje tri godine.

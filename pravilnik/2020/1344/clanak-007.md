@@ -1,0 +1,7 @@
+## Podnošenje zahtjeva za polaganje ispita
+# Članak 7.
+(1) Zahtjev za polaganje ispita podnosi se Hanfi na Obrascu AKTUAR - 2 koji je sastavni dio ovoga Pravilnika.
+(2) Uz zahtjev za polaganje ispita kandidati obvezno prilažu i dokaze o ispunjavanju uvjeta iz članka 6. stavka 1. ovoga Pravilnika, a kandidati koji pristupaju drugom ispitnom roku dostavljaju izjavu iz članka 6. stavka 1. točke 4. ovoga Pravilnika, ako je prethodno dostavljena izjava starija od tri mjeseca.
+(3) Hanfa prema pravovremeno zaprimljenim prijavama utvrđuje listu kandidata koji zadovoljavaju uvjete iz ovoga članka i objavljuje je na svojoj internetskoj stranici objavom šifre kandidata navedene u prijavi za pristupanje ispitu.
+(4) Kandidat je prilikom pristupanja ispitu dužan predočiti važeći identifikacijski dokument s fotografijom. Važećim identifikacijskim dokumentom za državljane Republike Hrvatske smatraju se važeća osobna iskaznica, putovnica ili vozačka dozvola izdana od Ministarstva unutarnjih poslova Republike Hrvatske, a za strance putna isprava ili drugi dokument koji su važeći u skladu s propisima iz nadležnosti Ministarstva unutarnjih poslova Republike Hrvatske.
+(5) Ispitno razdoblje sastoji se od dva ispitna roka. Kandidat može podnijeti prijavu za pristupanje ispitu u prvom ili drugom ispitnom roku, a drugom ispitnom roku mogu pristupiti i kandidati koji nisu položili ispit na prvom ispitnom roku.
