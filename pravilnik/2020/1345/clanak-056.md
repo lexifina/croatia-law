@@ -1,0 +1,5 @@
+# Članak 56.
+(1) Kada u postupku pred Sudom sudjeluju prijavitelj koji ima sjedište odnosno prebivalište ili prijavljeno boravište, a prijavljenik sjedište na području županije na kojem djeluje županijska komora, tajnik Suda će radi ekonomičnosti postupka odrediti da se postupak mirenja provede u sjedištu županijske komore.
+(2) U slučajevima iz stavka 1. ovoga članka postupak mirenja provodi stručni radnik kojeg je pojedina županijska komora imenovala za voditelja postupka Suda časti. Lista voditelja postupka Suda časti u županijskim komorama objavljuje se na internetskoj stranici Suda.
+(3) Voditelj postupka pri pojedinoj županijskoj komori provest će postupak mirenja u roku od 30 dana od dana dostave spisa županijskoj komori i o tome obavijestiti tajništvo Suda.
+(4) Ako postupak mirenja ne uspije, a ispunjeni su uvjeti iz članka 38. stavka 3. ovog pravilnika, voditelj postupka obavit će sve potrebne organizacijske i administrativne poslove radi provedbe rasprava u određenoj pravnoj stvari u sjedištu županijske komore i strankama dati sve potrebne obavijesti o tijeku postupka.

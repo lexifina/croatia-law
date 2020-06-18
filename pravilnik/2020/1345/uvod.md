@@ -1,0 +1,1 @@
+Na temelju članka 18. stavka 2. Zakona o Hrvatskoj gospodarskoj komori (»Narodne novine«, broj 66/91, 73/91) i članka 21. točke 1. alineje 3. Statuta Hrvatske gospodarske komore (»Narodne novine«, broj 39/16), Skupština Hrvatske gospodarske komore na 3. sjednici održanoj 11. prosinca 2019. donosi

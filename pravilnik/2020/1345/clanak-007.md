@@ -1,0 +1,2 @@
+# Članak 7.
+Predsjedništvo Suda obavlja opći nadzor nad radom Suda, brine se o pravilnoj primjeni ovog pravilnika i drugih općih akata Suda, donosi godišnji Program rada Suda, razmatra i prihvaća Izvješće o radu Suda za proteklu godinu, utvrđuje visinu nagrade predsjedniku Suda i članovima Predsjedništva za obavljanje poslova u Sudu za tekuću odnosno prethodnu godinu, razmatra prijedloge općih akata Suda te obavlja druge poslove određene ovim pravilnikom i drugim aktima Suda.

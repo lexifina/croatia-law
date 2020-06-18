@@ -1,0 +1,10 @@
+# Članak 70.
+(1) Presuda se donosi po zaključenju glavne rasprave. Presudu donosi prvostupanjsko vijeće. Presuda se ne objavljuje.
+(2) Predsjednik vijeća izrađuje pisani otpravak presude. U slučaju iznenadne duže bolesti ili drugih iznimnih okolnosti zbog kojih predsjednik vijeća nije u mogućnosti izraditi ili potpisati presudu (dalje: neizrađena presuda), presudu po nalogu predsjednika Suda sastavlja i potpisuje drugi sudac.
+(3) Neizrađena presuda sastavlja se prema zapisniku o vijećanju i glasovanju i prema podacima iz spisa, a ako podaci u spisu nisu dovoljni da bi drugi sudac mogao donijeti presudu, glavna rasprava može se ponovo otvoriti.
+(4) Presudu je predsjednik vijeća dužan izraditi u roku od 30 dana od dana zaključenja glavne rasprave.
+(5) Presuda mora sadržavati uvod, izreku, obrazloženje i pouku o pravnom lijeku.
+(6) Uvod mora sadržavati naziv i sjedište Suda, ime i prezime predsjednika vijeća i članova vijeća, ime i prezime ili naziv te prebivalište ili boravište, odnosno sjedište stranaka, njihova zastupnika ili punomoćnika, kratko navođenje predmeta spora, dan zaključenja glavne rasprave, naznaku stranaka, njihovih zastupnika i punomoćnika koji su na toj raspravi prisustvovali te dan kada je presuda donesena.
+(7) U izreci se navodi odluka Suda o tome je li prijavljenik odgovoran ili se oslobađa odgovornosti. Ako je utvrđena odgovornost prijavljenika, u izreci se navodi činjenični opis povrede, vrijeme i način kako je povreda učinjena te koja mu se mjera izriče.
+(8) U obrazloženju Sud navodi zahtjeve stranaka, činjenice koje su iznijele i dokaze koje su predložile, koje je od tih činjenica utvrđivao, zašto i kako ih je utvrdio, a ako ih je utvrdio dokazivanjem, koje je dokaze izvodio i zašto te kako ih je ocijenio; sud će posebno navesti koje je odredbe materijalnog prava primijenio odlučujući o zahtjevima stranaka, a izjasnit će se, ako je to potrebno, i o stavovima stranaka o pravnoj osnovi spora te o njihovim prijedlozima i prigovorima o kojima nije dao svoje razloge u odlukama koje je već donio tijekom postupka.
+(9) Presudu potpisuje predsjednik vijeća.

@@ -1,0 +1,2 @@
+# Članak 91.
+Visina nagrade koja se isplaćuje sucu pojedincu, predsjedniku i članovima prvostupanjskih vijeća, predsjedniku i članovima drugostupanjskih vijeća, sucima izvjestiteljima i sucu koji je proveo mirenje, naknada troškova službenog putovanja sucima koji imaju prebivalište izvan mjesta održavanja rasprave te visina nagrade za rad predsjednika Suda i članova Predsjedništva određuju se odlukom koju donosi Upravni odbor Hrvatske gospodarske komore.

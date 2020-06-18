@@ -1,0 +1,5 @@
+## UVJETI ZA IMENOVANJE PREDSJEDNIKA SUDA, NJEGOVIH ZAMJENIKA I SUDACA SUDA ČASTI
+# Članak 12.
+(1) Predsjednika i dva zamjenika predsjednika Suda imenuje Upravni odbor Hrvatske gospodarske komore na mandat od četiri godine, s tim da ista osoba može biti imenovana samo dva puta uzastopce.
+(2) Za predsjednika Suda i zamjenika predsjednika mogu biti imenovani suci redovnih i specijaliziranih sudova, znanstveni radnici i drugi istaknuti stručnjaci koji imaju završen diplomski sveučilišni studij ili integrirani diplomski sveučilišni studij ili specijalistički diplomski stručni studij, odnosno studij kojim je stečena visoka stručna sprema u skladu s propisima koji su bili na snazi prije stupanja na snagu Zakona o znanstvenoj djelatnosti i visokom obrazovanju (»Narodne novine«, broj 123/03, 105/04, 46/07, 45/09, 63/11, 96/13, 139/13, 101/14 - odluka i rješenje USRH, 60/15 - odluka USRH) i odgovarajuće stručno iskustvo i stručnu kvalifikaciju, sposobnost i iskustvo potrebno za upravljanje Sudom.
+(3) Odluka o imenovanju predsjednika Suda i njegovih zamjenika objavljuje se u »Narodnim novinama«.

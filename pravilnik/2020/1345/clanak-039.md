@@ -1,0 +1,3 @@
+# Članak 39.
+(1) Na pitanja procesnopravne naravi koja nisu uređena ovim pravilnikom primjenjuju se na odgovarajući način važeće odredbe Zakona o parničnom postupku, osim odredbi o mirnom rješenju spora, presudi na temelju priznanja, presudi na temelju odricanja, presudi zbog ogluhe, presudi zbog izostanka, povratu u prijašnje stanje, ponavljanju postupka i reviziji.
+(2) Primjenjujući Zakon o parničnom postupku na odgovarajući način, Sud se rukovodi načelima ekonomičnosti, transparentnosti i učinkovitosti postupanja, istodobno uvažavajući da se radi o postupku različitom od postupka koji provode redovni sudovi.

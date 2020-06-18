@@ -1,0 +1,5 @@
+# Članak 13.
+(1) Za suce prvostupanjskih i drugostupanjskih vijeća mogu biti imenovani suci i savjetnici redovnih i specijaliziranih sudova, znanstveni radnici, predstavnici trgovaca i potrošača, javni bilježnici i druge osobe koje imaju završen diplomski sveučilišni studij ili integrirani diplomski sveučilišni studij ili specijalistički diplomski stručni studij, odnosno studij kojim je stečena visoka stručna sprema u skladu s propisima koji su bili na snazi prije stupanja na snagu Zakona o znanstvenoj djelatnosti i visokom obrazovanju (»Narodne novine«, broj 123/03, 105/04, 46/07, 45/09, 63/11, 96/13, 139/13, 101/14 - odluka i rješenje USRH, 60/15 - odluka USRH) i odgovarajuće stručno iskustvo.
+(2) Suce prvostupanjskih i drugostupanjskih vijeća imenuje Upravni odbor Hrvatske gospodarske komore na mandat od četiri godine. Iste osobe po isteku mandata mogu biti ponovno imenovane.
+(3) Odluka o imenovanju sudaca objavljuje se u »Narodnim novinama«, a na internetskoj stranici Suda objavljuje se lista sudaca imenovanih odlukom o imenovanju.
+(4) Sud je ovlašten na listi sudaca objavljenoj na internetskoj stranici ažurirati podatke.
