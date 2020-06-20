@@ -1,0 +1,4 @@
+# Članak 1.
+U Pravilniku o prihvatljivosti izdataka (»Narodne novine«, broj 115/18, 6/20, 20/20 - ispravak), u članku 1. stavku 5. dodaju se točke 9. i 10. koje glase:
+»9. Uredbu (EU) 2020/460 Europskog parlamenta i Vijeća od 30. ožujka 2020. o izmjeni uredaba (EU) br. 1301/2013, (EU) br. 1303/2013 i (EU) br. 508/2014 s obzirom na posebne mjere za mobilizaciju ulaganja u zdravstvene sustave država članica i u druge sektore njihovih gospodarstava u odgovoru na izbijanje bolesti COVID-19 (Investicijska inicijativa kao odgovor na koronavirus) (SL L 99, 31. 3. 2020.) (Uredba br. (EU) br. 2020/460).
+10. Uredbu (EU) 2020/558 Europskog parlamenta i Vijeća od 23. travnja 2020. o izmjeni uredbi (EU) br. 1301/2013 i (EU) br. 1303/2013 u pogledu posebnih mjera radi pružanja iznimne fleksibilnosti za korištenje europskih strukturnih i investicijskih fondova u odgovoru na izbijanje bolesti COVID-19 (SL L 130, 24. 4. 2020.) (Uredba (EU) br. 2020/558)«.
