@@ -1,0 +1,28 @@
+O b r a z l o ž e n j e
+1. Zakon o radu ("Narodne novine" broj 93/14.) donio je sedmi saziv Hrvatskog sabora na sjednici održanoj 15. srpnja 2014., proglasio ga je predsjednik Republike Hrvatske 18. srpnja 2014., a stupio je na snagu 7. kolovoza 2014.
+Zakon o radu je potom mijenjan dva puta: Zakonom o izmjenama Zakona o radu ("Narodne novine" broj 127/17.) i Zakonom o izmjenama Zakona o radu ("Narodne novine" broj 98/19.).
+Kada se Ustavni sud u ovom rješenju referira na Zakon o radu koji je danas na snazi koristi se pokratom ZoR/14.
+2. Prijedlog za pokretanje postupka za ocjenu suglasnosti s Ustavom članka 112. stavka 4. Zakona o radu ("Narodne novine" broj 93/14.) podnio je 1. rujna 2014. Predrag Peršić iz Zagreba (u daljnjem tekstu: predlagatelj). Predlagatelj smatra da članak 112. stavak 4. Zakona o radu nije suglasan članku 14. Ustava, "jer se njime uvodi diskriminacija po godinama života, a slijedom toga se za određenu dobnu skupinu objektivno ukida pravo na rad iz članka 54. Ustava."
+Izmjenama Zakona o radu iz 2017. i 2019. godine osporeni članak 112. stavak 4. nije mijenjan.
+Ne postoje pretpostavke za odlučivanje o biti stvari.
+3. Osporena odredba ZoR-a/14 glasi:
+"Članak 112.
+Ugovor o radu prestaje:
+(...)
+4) kada radnik navrši šezdeset pet godina života i petnaest godina mirovinskog staža, osim ako se poslodavac i radnik drukčije ne dogovore
+(...)"
+4. Predlagatelj nesuglasnost naznačene odredbe s Ustavom obrazlaže u prijedlogu sljedećim tvrdnjama:
+"Sporni stavak iz Članka 112 Zakona o radu do sada nije doživljavan kao diskriminirajući zbog općih društvenih okolnosti koje su stimulirale što raniji odlazak u mirovinu. Dokaz tome je velik broj umirovljenika od kojih mnogi ne ispunjavaju uvjete za starosnu mirovinu. Dakako da za neke od njih rečeni stavak nije sporan jer su sami željeli otići u mirovinu što ranije, međutim, za jedan dio radno aktivnog stanovništva ovaj stavak je nedvojbeno negativno diskriminirajući jer podrazumijeva automatski prestanak ugovora o radu. Doduše, istim stavkom je predviđeno da se poslodavac i radnik mogu drukčije dogovoriti, dakle obnoviti ugovor o radu, no znamo da u praksi do toga rijetko dolazi. Napokon, sama činjenica da u ovom slučaju poslodavac nije dužan obrazlagati razloge prestanka ugovora o radu 'ipso facto' ukazuje na diskriminirajući karakter rečenog stavka.
+Zakon o radu je u rečenom stavku povezan sa Zakonom o mirovinskom osiguranju, pa se i kroz tu činjenicu vidi njegov diskriminirajući karakter. Naime, odlazak u mirovinu bi trebao biti pravo, a ne zakonom uvjetovana prisila. Uostalom, Članak 54 Ustava kaže da svako ima pravo na rad, dakle ne govori ništa o godinama života.
+Sporni stavak Članka 112 Zakona o radu postaje sve više aktualan zbog općih društvenih i ekonomskih okolnosti koje se prelamaju upravo na Zakonu o mirovinskom osiguranju, te nastojanjima da se radni vijek produži. Već i ta činjenica govori o tome da povezivanje prestanka ugovora o radu sa godinama života (65 godina) nije u skladu sa Ustavom. Drugim riječima, godine života mogu biti kriterij za odlazak u mirovinu, ali ne i za prestanak ugovora o radu.
+Slijedom prethodno navedenog, predlažem da se stavak 4 iz Članka 112 Zakona o radu ukine, odnosno da se formulacija '... kada radnik navrši šezdeset pet godina života i petnaest godina mirovinskog staža, osim ako se poslodavac i radnik drukčije ne dogovore' zamijeni sa '... odlaskom radnika u mirovinu', te da se predmetna materija prepusti Zakonu o mirovinskom osiguranju."
+5. Člankom 38. stavkom 1. Ustavnog zakona o Ustavnom sudu Republike Hrvatske ("Narodne novine" broj 99/99., 29/02. i 49/02. - pročišćeni tekst; u daljnjem tekstu: Ustavni zakon) propisano je:
+"Članak 38.
+Svaka fizička i pravna osoba ima pravo predložiti pokretanje postupka za ... ocjenu suglasnosti drugih propisa s Ustavom i zakonom."
+5.1. Člankom 32. Ustavnog zakona propisano je:
+"Članak 32.
+Ustavni sud će rješenjem odbaciti zahtjev, prijedlog i ustavnu tužbu ... i u drugim slučajevima kad ne postoje pretpostavke za odlučivanje o biti stvari."
+6. Ustavni sud utvrđuje da predlagatelj u prijedlogu nije naveo ustavnopravno relevantne razloge zbog kojih bi trebalo pokrenuti postupak za ocjenu suglasnosti osporene odredbe s Ustavom. Navođenje tvrdnji da osporena zakonska odredba nije u suglasnosti s člancima 14. i 54. Ustava nije dovoljno kako bi Ustavni sud mogao ocijeniti postoje li razlozi za pokretanje postupka za ocjenu suglasnosti osporene odredbe s Ustavom odnosno za odlučivanje o biti stvari. Ustavni sud ne može nagađati o razlozima zbog kojih predlagatelj smatra da osporena odredba nije suglasna s Ustavom i zbog kojih predlaže Ustavnom sudu da pokrene postupak za ocjenu suglasnosti osporene odredbe s Ustavom. Ti razlozi moraju biti izneseni na precizan i razumljiv način odnosno moraju biti navedeni konkretni razlozi koji u dovoljnoj mjeri ukazuju na sumnju da osporena odredba nije u suglasnosti s Ustavom kako bi Ustavni sud mogao procijeniti hoće li pokrenuti postupak za ocjenu suglasnosti osporene odredbe s Ustavom.
+7. Polazeći od sadržaja prijedloga, Ustavni sud ocjenjuje da razlozi koje je naveo predlagatelj u svom prijedlogu, u biti, sadržajno odgovaraju prijedlogu za izmjenu i dopunu ZoR-a/14, a što nije u nadležnosti Ustavnog suda.
+8. Slijedom prethodnih utvrđenja, Ustavni sud ocjenjuje da u prijedlogu nisu navedeni ustavnopravno relevantni razlozi zbog kojih bi trebalo pokrenuti postupak za ocjenu suglasnosti s Ustavom članka 112. stavka 4. ZoR-a/14, odnosno da ne postoje pretpostavke za odlučivanje o biti stvari.
+9. Stoga je na temelju članka 32. Ustavnog zakona riješeno kao u izreci.
