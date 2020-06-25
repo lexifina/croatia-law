@@ -1,0 +1,1 @@
+Ustavni sud Republike Hrvatske, u Drugom vijeću za odlučivanje o ustavnim tužbama, u sastavu sutkinja Ingrid Antičević Marinović, predsjednica Vijeća, te suci Andrej Abramović, Mato Arlović, Snježana Bagić, Davorin Mlakar i Rajko Mlinarić, članovi Vijeća, u postupku koji je ustavnom tužbom pokrenula G. G. iz Z., na sjednici održanoj 25. lipnja 2020. jednoglasno je donio
