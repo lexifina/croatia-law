@@ -1,0 +1,3 @@
+# Članak 87.
+Odjel telefonskog anketiranja obavlja sljedeće poslove: implementira metodu računalno podržanog telefonskog anketiranja. U godišnjoj dinamici izrađuje Terminski plan provedbe anketnih istraživanja te u cijelosti organizira i provodi sva anketna istraživanja iz Terminskog plana. Organizira, priprema i provodi edukaciju telefonskih anketara u suradnji s nadležnim unutarnjim ustrojstvenim jedinicama Zavoda. Nadzire i kontrolira proces prikupljanja podataka te osigurava stručnu pomoć pri provedbi anketnih istraživanja. Sudjeluje u edukacijama koje se odnose na unaprjeđenja u provedbi anketa. Obavlja i druge poslove u okviru svoga djelokruga.
+10.1.3. Odjel statističke obrade

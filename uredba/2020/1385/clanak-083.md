@@ -1,0 +1,2 @@
+# Članak 83.
+Odjel za održavanje i sigurnost operacijskih sustava obavlja sljedeće stručne poslove: projektira i planira uvođenje, održavanje i upravljanje operativnih, nadzornih, zaštitnih, upravljačkih sustava, instalira i održava nadzorne operativne sustave, testira, prati rad i podešava parametre za bolje, sigurno i pouzdano funkcioniranje operacijskih sustava, planira i provodi procedure za privremeno i trajno čuvanje podataka na magnetskim medijima. Obavlja i druge poslove u okviru svoga djelokruga.

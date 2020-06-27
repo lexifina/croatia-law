@@ -1,0 +1,11 @@
+## 5. SEKTOR POSLOVNIH STATISTIKA
+# Članak 26.
+Sektor poslovnih statistika obavlja poslove vezane uz definiranje potrebe za podacima, priprema i izrađuje statističke metodologije, prikuplja podatke, obrađuje, analizira, diseminira i vrednuje podatke u području poslovnih statistika. Priprema i provodi statistička istraživanja u mjesečnoj, tromjesečnoj, polugodišnjoj, godišnjoj ili višegodišnjoj periodici, koja obuhvaćaju poslovne statistike - strukturne poslovne statistike, statistike inovacija, znanosti i tehnologija, investicija, statistike industrije, statistike građevinarstva, statistike usluga, statistike robne razmjene s inozemstvom te brine o razvoju i ažuriranju statističkog poslovnog registra. Obrađuje i prezentira dobivene podatke. Razvija i primjenjuje nomenklature, klasifikacije i statističke standarde kojima se osigurava usporedivost podataka i pokazatelja na nacionalnoj i međunarodnoj razini te priprema stručno-metodološke publikacije. Priprema agregate za potrebe nacionalnih računa prema Europskom sustavu nacionalnih računa (ESA 2010). Primjenjuje statističke i tehničke standarde za razmjenu podataka i metapodataka (SDMX). Surađuje s nadležnim stručnim tijelima na nacionalnoj i međunarodnoj razini te koordinira rad na daljnjem razvoju poslovnih statistika. Osigurava podatke i statističke pokazatelje iz djelokruga Sektora za potrebe korisnika te razmjene statističkih podataka. Sudjeluje u pripremanju i objavljivanju podataka i publikacija iz svoga djelokruga. Sudjeluje u planiranju i provedbi projekata iz svoga djelokruga financiranih iz sredstava EU, uključujući darovnice. Sudjeluje u izradi strateških dokumenata, programa, planova i izvješća iz svoga djelokruga. Provodi aktivnosti vezane uz razvoj sustava unutarnjih kontrola u svom djelokrugu te obavlja i druge poslove u okviru svoga djelokruga.
+U Sektoru poslovnih statistika ustrojavaju se:
+5.1. Služba strukturnih poslovnih statistika, inovacija, znanosti, tehnologija i investicija
+5.2. Služba statistika industrije
+5.3. Služba statistike građevinarstva
+5.4. Služba statistike usluga
+5.5. Služba statistike robne razmjene s inozemstvom
+5.6. Služba statističkog poslovnog registra.
+5.1. Služba strukturnih poslovnih statistika, inovacija, znanosti, tehnologija i investicija
