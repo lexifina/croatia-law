@@ -1,0 +1,1 @@
+Na temelju članka 60. stavka 1. Zakona o radiološkoj i nuklearnoj sigurnosti (»Narodne novine«, br. 141/13, 39/15, 130/17 i 118/18) i članka 30. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/11, 119/14, 93/16 i 116/18), Vlada Republike Hrvatske je na sjednici održanoj 18. lipnja 2020. donijela
