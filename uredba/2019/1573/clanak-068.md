@@ -1,6 +1,0 @@
-# Članak 68.
-Služba za organizaciju, održavanje, testiranje i nadogradnju sustava obrade podataka obavlja sljedeće poslove: testira, uvodi, održava i nadograđuje standardne alate i metode za obradu podataka statističkih istraživanja informatičkog sustava Zavoda, u svrhu kvalitetne, brže i jednostavnije proizvodnje statističkih informacija. Služba obavlja stručne poslove koji se odnose na aktivnosti davanja stručne pomoći korisnicima pri definiciji funkcija obrade podataka statističkih istraživanja i dopuni projektnih zahtjeva te provođenju promjena na osnovi iskazanih projektnih zahteva, odabiru programa i alata iz paketa standardnih alata, nadogradnju programske podrške ukoliko standardni alati nisu primjenjivi, izradu dokumentacije o sustavu i uputa za korisnike, te održavanje sustava. Sudjeluje u izradi strateških dokumenata te procjeni rizika iz svog područja. Brine o tome da je svaki rashod opravdan stvarnom potrebom i potvrđen prethodnom kontrolom te obavlja i druge poslove u okviru svoga djelokruga.
-U Službi za organizaciju, održavanje, testiranje i nadogradnju sustava obrade podataka ustrojavaju se:
-11.2.1. Odjel organizacije i održavanja sustava obrade podataka
-11.2.2. Odjel testiranja i nadogradnje obrade podataka.
-11.2.1. Odjel organizacije i održavanja sustava obrade podataka

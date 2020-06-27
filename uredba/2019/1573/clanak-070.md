@@ -1,3 +1,0 @@
-# Članak 70.
-Odjel testiranja i nadogradnje obrade podataka obavlja sljedeće stručne poslove: testiranje i analizu aplikacija na testnim podacima, testiranje obrade i nadogradnju sustava obrade podataka. Ukazuje na moguće probleme pri radu s razvijenim alatima te sugerira moguća unaprijeđenja postojećih alata te nadopune i nadogradnje aplikacija. Ukazuje na moguće probleme pri radu s razvijenim alatima te sugerira moguća unaprjeđenja postojećih alata. Brine o tome da je svaki rashod opravdan stvarnom potrebom i potvrđen prethodnom kontrolom te obavlja i druge poslove u okviru svoga djelokruga.
-11.3. Služba izrade programske podrške za obradu podataka i proizvodnju rezultata

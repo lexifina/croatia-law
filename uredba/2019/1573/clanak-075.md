@@ -1,3 +1,0 @@
-# Članak 75.
-Odjel upravljanja mrežnim resursima obavlja sljedeće stručne poslove: projektira komunikacijsku infrastrukturu, planira uvođenje, održavanje i upravljanje komunikacijskom i računalnom infrastrukturom, instalira i održava nadzorne i upravljačke komunikacijske programe, testira, prati rad i podešava parametre za bolje funkcioniranje komunikacijske i računalne opreme, surađuje s drugim unutarnjim ustrojstvenim jedinicama Zavoda na poboljšanju korištenja komunikacijskih sustava. Brine o tome da je svaki rashod opravdan stvarnom potrebom i potvrđen prethodnom kontrolom te obavlja i druge poslove u okviru svoga djelokruga.
-11.4.2. Odjel za održavanje i sigurnost operacijskih sustava
