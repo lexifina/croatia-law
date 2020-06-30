@@ -1,0 +1,3 @@
+# Članak 2.
+U Prilogu 1. Upute u točki 256. iza podtočke 3. dodaje se podtočka 4., koja glasi:
+»4) Kod instrumenata »R1032« (Troškovi premija za osiguranje štednih uloga) i »R1045« (Troškovi doprinosa u sanacijski fond) potrebno je razlikovati troškove na osnovi gotovinskih uplata i troškove na osnovi obveza plaćanja (engl. payment commitment). Na vrsti iznosa »50« prijavljuje se iznos troškova na osnovi gotovinskih uplata u sustav osiguranja depozita odnosno u sanacijski fond. Na vrsti iznosa »58« prijavljuje se iznos na osnovi obveza plaćanja u sustav osiguranja depozita odnosno u sanacijski fond.«
