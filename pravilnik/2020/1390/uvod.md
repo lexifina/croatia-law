@@ -1,0 +1,1 @@
+Na temelju članka 17. Zakona o izmjenama i dopunama Zakona o fiskalizaciji u prometu gotovinom (»Narodne novine«, broj 106/18) i članka 11. Zakona o izmjenama i dopunama Zakona o fiskalizaciji u prometu gotovinom (»Narodne novine«, broj 121/19) ministar financija donosi

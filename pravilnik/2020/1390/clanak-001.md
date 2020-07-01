@@ -1,0 +1,2 @@
+# Članak 1.
+U Pravilniku o fiskalizaciji u prometu gotovinom (»Narodne novine«, broj 146/12 i 46/17) u članku 1. iza riječi: »zaštitni kod izdavatelja računa,« dodaju se riječi: »način generiranja i obvezne podatke koje sadrži QR kod,«, iza riječi: »poslovnih prostora,« dodaju se riječi: »dostava podataka o prodaji,«, iza riječi: »izdani račun,« dodaju se riječi: »izgled i sadržaj obavijesti o fiskalizaciji prodaje putem samoposlužnih uređaja,« i iza riječi: »Porezne uprave« dodaje se zarez i riječi: »dostava podataka o pratećem dokumentu«.
