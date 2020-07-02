@@ -1,0 +1,9 @@
+# Članak 17.
+(1) Za ispitne laboratorije, na njihov zahtjev, referentni laboratoriji u vlastitom laboratoriju dužni su:
+- za automatske mjerne uređaje za mjerenje onečišćujućih tvari iz Priloga 7., Dio I., točke A. tablice 1. (osim za onečišćujuće tvari PM10, PM2,5 i ukupnu plinovitu živu) i točke E. tablice 4. ovog Pravilnika najmanje jedanput godišnje u vlastitom laboratoriju obaviti poslove osiguravanja mjerne sljedivosti sukladno usklađenoj normi za ispitne i umjerne laboratorije te obaviti provođenje testova kontrole kvalitete rada mjerne opreme
+- jednom u pet godina provesti ispitivanje ekvivalencije nereferentnih sakupljača PM10 i PM2,5 frakcija lebdećih čestica s referentnim sakupljačima u skladu s normom HRN EN 12341
+- jednom u pet godina provesti ispitivanje ekvivalencije automatskih mjernih uređaja za mjerenje PM10 i PM2,5 frakcija lebdećih čestica s referentnim sakupljačima uključujući određivanje mjerne nesigurnosti i korekcijskih pravaca na svakom mjernom mjestu po sezonama.
+(2) Poslovi iz stavka 1. podstavka 1. ovoga članka obuhvaćaju:
+- osiguranje mjerne sljedivosti etalonima sljedivim do SI jedinica
+- aktivnosti tijekom kontrole kvalitete rada mjerne opreme, a koje su propisane i definirane u referentnim metodama mjerenja iz Priloga 7., Dio I., točke A. tablice 1. ovoga Pravilnika za pojedinu onečišćujuću tvar.
+(3) U svrhu ispitivanja sposobnosti ispitnih laboratorija i usporedivosti podataka, referentni laboratoriji koji posjeduju dozvolu Ministarstva za ispitivanje sposobnosti sukladno zakonu kojim se uređuje zaštita zraka mogu organizirati ispitivanja sposobnosti ispitnih laboratorija za praćenje kvalitete zraka međulaboratorijskim usporedbama na nacionalnoj razini. Ispitivanje sposobnosti obavlja se prema mjerodavnoj usklađenoj normi za ispitivanje sposobnosti.

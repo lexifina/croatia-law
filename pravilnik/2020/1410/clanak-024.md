@@ -1,0 +1,9 @@
+# Članak 24.
+(1) Na temelju izvješća iz članka 23. stavka 1. ovoga Pravilnika, Ministarstvo izrađuje godišnje izvješće o stanju kvalitete zraka u Republici Hrvatskoj najmanje za mjerna mjesta za praćenje koncentracija sumporovog dioksida, dušikovog dioksida i dušikovih oksida, lebdećih čestica (PM10 i PM2,5), olova, benzena, ugljikovog monoksida, prizemnog ozona i prekursora ozona, arsena, kadmija, žive, nikla, benzo(a)pirena i drugih policikličkih aromatskih ugljikovodika u zraku, a koja se koriste i za uzajamnu razmjenu informacija i izvješćivanja o kvaliteti zraka s Europskom komisijom.
+(2) Izvješće iz stavka 1. ovoga članka može se po potrebi izrađivati i za ostala mjerna mjesta te sadržavati i druge podatke.
+(3) Izvješće iz stavka 1. ovoga članka sadrži:
+- ocjenu onečišćenosti zraka po onečišćujućim tvarima za svaku zonu i aglomeraciju
+- sažetak razina koje prekoračuju granične vrijednosti, ciljne vrijednosti, dugoročne ciljeve, pragove obavješćivanja i pragove upozorenja, za relevantna vremena usrednjavanja. Taj podatak se kombinira sa sažetom procjenom učinaka tih prekoračenja
+- dodatne podatke i procjene o zaštiti šuma, kada su podaci raspoloživi, kao i podatke o ostalim onečišćujućim tvarima za koje su odredbe o praćenju navedene u ovom Pravilniku, kao što su, između ostalog, neki prekursori prizemnog ozona kojima nisu propisane vrijednosti veličina u posebnom propisu kojim se uređuju razine onečišćujućih tvari u zraku.
+(4) Podaci sa mjernih mjesta koja se koriste za uzajamnu razmjenu informacija i izvješćivanja o kvaliteti zraka sa Europskom komisijom iz stavka 1. ovoga članka smatraju se valjanim, osim podataka koji su označeni kao privremeni.
+(5) Godišnju ocjenu onečišćenosti zraka po onečišćujućim tvarima za svaku zonu i aglomeraciju osigurava Ministarstvo sukladno zakonu kojim se uređuje zaštita zraka.

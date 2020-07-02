@@ -1,0 +1,5 @@
+## VI. NAČIN DOSTAVLJANJA PODATAKA ZA POTREBE INFORMACIJSKOG SUSTAVA ZAŠTITE ZRAKA I GODIŠNJE IZVJEŠĆE
+# Članak 22.
+(1) Informacijski sustav zaštite zraka vodi Ministarstvo sukladno zakonu kojim se uređuje zaštita zraka.
+(2) Vlasnik i/ili korisnik postaje za praćenje kvalitete zraka uspostavljene u državnoj mreži te na području županija, grada Zagreba i gradova i prema rješenju o prihvatljivosti zahvata za okoliš ili rješenju o objedinjenim uvjetima zaštite okoliša, dužan je osigurati kontinuirani prijenos izvornih i validiranih podataka za onečišćujuće tvari čija se koncentracija u zraku utvrđuje mjernim uređajima za automatsko mjerenje u informacijski sustav kvalitete zraka koristeći protokole i formate koje definira Ministarstvo.
+(3) Podaci iz stavka 2. ovoga članka moraju biti dostupni u skladu sa zahtjevima za broj znamenki i zaokruživanje koji su propisani Provedbenom odlukom Komisije od 12. prosinca 2011. o utvrđivanju pravila za Direktive 2004/107/EZ i 2008/50/EZ Europskog parlamenta i Vijeća u pogledu uzajamne razmjene informacija i izvješćivanja o kvaliteti zraka (SL L 335, 17. 12. 2011.).
