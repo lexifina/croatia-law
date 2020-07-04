@@ -1,0 +1,6 @@
+# Članak 7.
+U članku 19. stavku 1. riječi: »a sukladno« brišu se, a riječi: »zahtjev za potporu« zamjenjuju se riječima: »prijavu«.
+Iza stavka 1. dodaje se novi stavak 2. koji glasi:
+»(2) Detaljne odredbe za primjenu uvjeta prihvatljivosti iz stavka 1. ovoga članka propisane su Pravilima prihvatljivosti i sukladnosti zahtjeva za potporu u okviru Europskog fonda za pomorstvo i ribarstvo, u skladu sa Delegiranom uredbom Komisije (EU) 2015/288 оd 17. prosinca 2014. o dopuni Uredbe (EU) br. 508/2014 Europskog parlamenta i Vijeća o Europskom fondu za pomorstvo i ribarstvo u pogledu vremenskog razdoblja i datuma za neprihvatljivost zahtjeva (SL L 51, 24.2.2015.) te Delegiranom uredbom Komisije (EU) 2015/2252 оd 30. rujna 2015. o izmjeni Delegirane uredbe (EU) 2015/288 u pogledu razdoblja neprihvatljivosti zahtjeva za potporu iz Europskog fonda za pomorstvo i ribarstvo (SL L 321, 5. 12. 2015.). Pravila prihvatljivosti i sukladnosti zahtjeva za potporu u okviru Europskog fonda za pomorstvo i ribarstvo dostupna su na mrežnim stranicama Upravljačkog tijela (https://euribarstvo.hr/propisi-smjernice/).«.
+Dosadašnji stavci 2., 3., 4. i 8. brišu se.
+Dosadašnji stavci 5., 6., 7. i 9. postaju stavci 3., 4., 5. i 6.
