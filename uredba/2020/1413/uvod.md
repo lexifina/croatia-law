@@ -1,0 +1,1 @@
+Na temelju članka 2. Zakona o ovlasti Vlade Republike Hrvatske da uredbama uređuje pojedina pitanja iz djelokruga Hrvatskoga sabora (»Narodne novine«, broj 118/19), Vlada Republike Hrvatske je na sjednici održanoj 25. lipnja 2020. donijela
