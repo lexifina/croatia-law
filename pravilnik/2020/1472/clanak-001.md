@@ -1,0 +1,6 @@
+# Članak 1.
+U Pravilniku o provedbi Programa potpore primarnim poljoprivrednim proizvođačima u sektoru biljne proizvodnje i sektoru stočarstva u 2020. godini (»Narodne novine«, broj 53/20) (u daljnjem tekstu: Program) članak 7. mijenja se i glasi:
+»(1) Iznos potpore iz Programa utvrđuje se razmjerno površinama pod vrstama voća i povrća, vrstama cvijeća evidentiranima u ARKOD sustav Agencije za plaćanja u poljoprivredi ribarstvu i ruralnom razvoju (u daljnjem tekstu: Agencija za plaćanja) na temelju kojih je podnesen Jedinstveni zahtjev za 2019. godini.
+(2) Potpora za poljoprivredni reprodukcijski materijal dodjeljuje se za sjeme, lozne cjepove i sadnice voćaka.
+(3) Iznos potpore iz stavka 2. ovoga članka utvrđuje se razmjerno površinama upisanima u ARKOD sustav Agencije za plaćanja temeljem kojih je podnesen Jedinstveni zahtjev za 2019. godini i podataka iz registra o potvrdama Hrvatske agencije za poljoprivredu i hranu da je za sjemenski usjev izdano uvjerenje o priznavanju usjeva sjemenskim ili uvjerenje izdano po OECD shemi o sortnosti sjemena za promet na tržištu trećih zemalja.
+(4) Pri izračunu iznosa potpore iz stavka 1. ovoga članka u obzir se uzimaju one površine na temelju kojih je podnesen Jedinstveni zahtjev i ostvarena potpora za 2019. godinu.«
