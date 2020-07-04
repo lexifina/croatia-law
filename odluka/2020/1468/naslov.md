@@ -1,0 +1,1 @@
+Odluka o otpisu potraživanja po računima za stanove i poslovne prostore u vlasništvu Republike Hrvatske zbog epidemije bolesti COVID-19 uzrokovane virusom SARS-CoV-2 i potresa koji je pogodio područje Grada Zagreba, Zagrebačke županije i Krapinsko-zagorske županije
