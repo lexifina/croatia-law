@@ -1,0 +1,24 @@
+O b r a z l o ž e n j e
+I. POSTUPAK PRED USTAVNIM SUDOM
+1. Zakon o izmjenama i dopunama Zakona o obrani donio je 9. saziv Hrvatskog sabora na sjednici održanoj 23. ožujka 2018. Proglasila ga je predsjednica Republike Hrvatske odlukom od 27. ožujka 2018., objavljen je u "Narodnim novinama" broj 30 od 30. ožujka 2018., a stupio je na snagu 7. travnja 2018.
+2. Prijedlog za pokretanje postupka za ocjenu suglasnosti s Ustavom članka 29. stavka 2. Zakona o izmjenama i dopunama Zakona o obrani podnijela je 13. prosinca 2018. A. B. iz Zagreba (u daljnjem tekstu: predlagateljica).
+2.1. Dopisom Ustavnog suda broj: RA-20/2018 od 18. prosinca 2018. predlagateljica je pozvana razdvojiti prvotni podnesak kojim je osporila ustavnost Zakona o izmjenama i dopunama Zakona o obrani ("Narodne novine" broj 30/18.) i Zakona o izmjenama i dopunama Zakona o službi u Oružanim snagama Republike Hrvatske ("Narodne novine" broj 75/15.), te ustavnost i zakonitost Odluke o dodacima na osnovnu plaću u Ministarstvu obrane i Oružanim snagama Republike Hrvatske ("Narodne novine" broj 92/18.).
+2.2. Predlagateljica je potom 28. prosinca 2018. dostavila Ustavnom sudu tri odvojena prijedloga, kojima je osporila suglasnost s Ustavom Zakona o izmjenama i dopunama Zakona o obrani ("Narodne novine" broj 30/18.) i Zakona o izmjenama i dopunama Zakona o službi u Oružanim snagama Republike Hrvatske ("Narodne novine" broj 75/15.), te suglasnost s Ustavom i zakonom Odluke o dodacima na osnovnu plaću u Ministarstvu obrane i Oružanim snagama Republike Hrvatske ("Narodne novine" broj 92/18.), na temelju kojih su formirani ustavnosudski spisi broj: U-I-255/2019, broj: U-I-257/2019 i broj: U-II-256/2019.
+3. Članak 29. stavak 2. Zakona o izmjenama i dopunama Zakona o obrani u mjerodavnom dijelu glasi:
+"Članak 29.
+(...)
+U članku 113. iza stavka 1. dodaju se novi stavci 2. i 3. koji glase:
+'(2) Državnim službenicima i namještenicima raspoređenima u službu u Ministarstvo obrane ministar obrane može odlukom, uz prethodnu suglasnost ministra financija, utvrditi dodatak na osnovnu plaću zbog posebnih uvjeta rada, težine i naravi poslova i odgovornosti.
+(...)"
+4. Predlagateljica smatra da je članak 29. stavak 2. Zakona o izmjenama i dopunama Zakona o obrani u nesuglasnosti s "- Uredbom o poslovima i posebnim uvjetima rada u državnoj službi (NN074/2002,058/2008, 119/2011, 033/2013, 065/2015, 002/2017), - člankom 112. Zakona o državnim službenicima i namještenicima (NN 021/2001), - članka 144. stavkom 2. točkom b) Zakona o državnim službenicima (NN 92/05, 107/07, 27/08, 34/11, 49/11, 150/11, 34/12, 49/12 - pročišćeni tekst, 37/13, 38/13 i 138/15 - Odluka Ustavnog suda Republike Hrvatske, - člankom 39. točkom 2. Zakona o sustavu državne uprave (NN 150/2011, 12/2013, 93/2016, 104/2016), - člankom 5. Ustava RH (NN 56/90., 135/97., 113/00., 28/01., 76/10. i 5/14.), - člankom 19. Ustava RH (NN 56/90., 135/97., 113/00., 28/01., 76/10. i 5/14.)."
+Predlagateljica navodi sljedeće:
+"Molim pokretanje postupka za ocjenu suglasnosti, te molim pokretanje temeljem članka 125.a Ustava RH (NN 56/90., ... 5/14.) postupka donošenja zakona kojim bi se uredile plaće državnih službenika, kako je to propisano člankom 10. stavkom 3. i člankom 91. stavkom 2. Zakona o državnim službenicima (NN 92/05, ... 61/17)."
+5. Člankom 38. stavkom 1. Ustavnog zakona o Ustavnom sudu Republike Hrvatske ("Narodne novine" broj 99/99., 29/02. i 49/02. - pročišćeni tekst; u daljnjem tekstu: Ustavni zakon) propisano je:
+"Članak 38.
+Svaka fizička ... osoba ima pravo predložiti pokretanje postupka za ocjenu suglasnosti zakona s Ustavom ...
+(...)"
+5.1. Člankom 32. Ustavnog zakona propisano je:
+"Članak 32.
+Ustavni sud će rješenjem odbaciti ... prijedlog ... kad ne postoje pretpostavke za odlučivanje o biti stvari."
+6. Ustavni sud utvrđuje da predlagateljica u prijedlogu nije navela ustavnopravno relevantne razloge zbog kojih bi trebalo pokrenuti postupak za ocjenu suglasnosti s Ustavom članka 29. stavka 2. Zakona o izmjenama i dopunama Zakona o obrani. Predlagateljičine tvrdnje ne predstavljaju ustavnopravnu argumentaciju iz koje bi bilo moguće razlučiti na koji to točno način osporavana zakonska odredba nije u suglasnosti s Ustavom. Navodi ove vrste ne sadrže dovoljnu pravnu preciznost koja je pretpostavka učinkovitom ustavnom sudovanju. Kada bi prihvatio postupanje na temelju prijedloga koji počiva na ovoj vrsti navoda Ustavni sud bi de facto preuzeo zadaću predlagateljice. To nije primjereno ulozi Ustavnog suda kada postupa po prijedlogu podnesenom na temelju članka 38. stavka 1. Ustavnog zakona. Ustavni sud također napominje da nije nadležan za pokretanje postupka donošenja zakona.
+7. Stoga je na temelju članka 32. Ustavnog zakona riješeno kao u izreci.
