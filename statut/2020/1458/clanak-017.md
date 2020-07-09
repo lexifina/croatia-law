@@ -1,0 +1,3 @@
+# Članak 17.
+(1) Svaki član Zajednice ima najmanje jednog predstavnika u Skupštini Zajednice. Veći broj predstavnika pojedinačne lokalne turističke zajednice ovisi o turističkom značenju područja za koje je osnovana, a određuje se razmjerno udjelu te turističke zajednice u prihodima Zajednice i to tako da članovi Zajednice koji u ukupnom prihodu sudjeluju s više od 20% biraju još po jednog predstavnika.
+(2) Udio u prihodu iz stavka 1. ovoga članka utvrđuje se prema prihodu po osnovi turističke pristojbe i članarine u godini koja prethodi godini u kojoj se provode izbori za Skupštinu Zajednice.
