@@ -1,0 +1,6 @@
+# Članak 1.
+U Pravilniku o odgovarajućoj vrsti obrazovanja učitelja i stručnih suradnika u osnovnoj školi (»Narodne novine«, broj: 6/19.) u članku 3. stavak 4. mijenja se i glasi:
+»(4) Osobe koje su završile drugi studijski program s najmanje 55 ECTS iz čl. 15. točke b), čl. 16. točke b), čl. 18. točke b), čl. 19. točke b) i čl. 22. točke b), odgovarajuću vrstu obrazovanja, uz isprave iz stavka 3. ovoga članka, dokazuju potvrdom o ispunjenosti propisanih uvjeta koju izdaje visoko učilište na kojem se izvodi odgovarajući studijski program nastavničkog smjera.«
+Iza stavka 4. dodaju se stavci 5. i 6. koji glase:
+»(5) Potvrda iz stavka 4. ovoga članka izdaje se na zahtjev osobe koja je završila drugi studijski program s najmanje 55 ECTS bodova, uz koji je ista dužna priložiti mišljenje visokog učilišta na kojem je završen studij o utvrđenom broju bodova s preddiplomskog i diplomskog sveučilišnog studija, specijalističkog diplomskog stručnog studija ili dodiplomskog sveučilišnog studija.
+(6) Osobe koje su završile studijski program odgovarajućeg nastavničkog smjera, a kojima su izdane diplome iz kojih nije razvidno da su magistri edukacije, mogu se zaposliti sukladno odredbama članka 105. stavka 6. točke a) Zakona, odnosno sukladno odredbama točke a) članaka od 5. do 25. ovoga pravilnika.«
