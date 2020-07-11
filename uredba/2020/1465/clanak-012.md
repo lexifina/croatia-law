@@ -1,0 +1,5 @@
+# Članak 12.
+(1) Podaci o koncentracijama onečišćujućih tvari iz članka 3. ove Uredbe dobiveni na stalnim mjernim mjestima definiranim odredbama zakona kojim se uređuje zaštita zraka su javni i objavljuju se na mrežnim stranicama Ministarstva, odnosno u službenom glasilu i na mrežnim stranicama jedinice lokalne i područne (regionalne) samouprave.
+(2) Koncentracije iz stavka 1. ovoga članka su izražene kao prosječne vrijednosti s obzirom na odgovarajuće vrijeme usrednjavanja, odnosno u skladu s propisanim u Prilogu 1. točkama A., B. i C. i Prilogu 3. točkama A. i B, Prilogu 5., Prilogu 7. i Prilogu 8. ove Uredbe te kriterijima provjere njihove valjanosti definiranim posebnim propisom kojim se uređuje praćenje kvalitete zraka.
+(3) Podaci o koncentracijama iz stavka 1. ovoga članka uključuju sve razine koje prekoračuju ciljeve kvalitete zraka, uključujući i GV, CV, pragove upozorenja, pragove obavješćivanja ili dugoročne ciljeve. Također uključuju i kratku procjenu ciljeva kvalitete zraka i odgovarajuće informacije o učincima na zdravlje ili, gdje je prikladno, vegetaciju.
+(4) Podaci koji se daju na raspolaganje javnosti moraju biti jasni, razumljivi i dostupni.
