@@ -1,0 +1,3 @@
+# Članak 2.
+(1) Ova Uredba ne primjenjuje se na snimanja iz zraka koja provode Ministarstvo obrane i Ministarstvo unutarnjih poslova prilikom obavljanja redovitih poslova, Ministarstvo mora, prometa i infrastrukture prilikom obavljanja poslova sigurnosti plovidbe, Ministarstvo hrvatskih branitelja prilikom obavljanja poslova traganja za nestalim osobama te druga tijela državne uprave i tijela jedinica lokalne i područne (regionalne) samouprave prilikom obavljanja poslova u cilju prevencije i za vrijeme kriza, katastrofa i velikih nesreća.
+(2) Operacije snimanja iz zraka iz stavka 1. ovoga članka moraju se obavljati u skladu s propisima koji uređuju zračni promet.
