@@ -1,3 +1,0 @@
-# Članak 5.
-Građevinski inspektor postupak iz članka 31. stavka 3. Zakona kojim prisiljava izvršenika na izvršenje rješenja o uklanjanju započinje donošenjem 1. Rješenja o novčanoj kazni, i to u roku od 8 dana od izvršnosti rješenja o uklanjanju. Sljedeća Rješenja o novčanoj kazni donose se u roku od dva mjeseca od izvršnosti prethodnog rješenja, sve dok izvršenik ne dostavi dokaz da je izvršio uklanjanje građevine. U slučaju nastavka građenja poslije obustave građenja, rok od dva mjeseca može biti i kraći.
-Ako iznos iz Rješenja o novčanoj kazni nije uplaćen, građevinski inspektor rješenje (izvornik ili otpravak) s potvrdom izvršnosti odmah dostavlja nadležnoj službi radi postupka ovrhe.
