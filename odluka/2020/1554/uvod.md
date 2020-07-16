@@ -1,0 +1,1 @@
+Na temelju članka 30. Zakona o obnovi i razvoju Grada Vukovara (»Narodne novine«, br. 44/01, 90/05, 80/08, 38/09 i 148/13) i Odluke o općim uvjetima i mjerilima za davanje koncesije za osnivanje slobodnih zona na području Grada Vukovara (»Narodne novine«, broj 138/02), Vlada Republike Hrvatske je na sjednici održanoj 16. srpnja 2020. donijela
