@@ -1,0 +1,1 @@
+Na temelju odredbe članka 98. stavka 1. podstavka 3., a u svezi s odredbom članka 109. Ustava Republike Hrvatske (»Narodne novine«, broj 56/90, 135/97, 113/00, 28/01, 76/10 i 5/14 - Odluka Ustavnog suda Republike Hrvatske), donosim
