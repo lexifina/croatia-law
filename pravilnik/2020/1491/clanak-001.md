@@ -1,0 +1,4 @@
+# Članak 1.
+U Pravilniku o postupku i načinu izdavanja dopuštenja za obavljanje podvodnih aktivnosti u unutarnjim morskim vodama i teritorijalnom moru Republike Hrvatske u područjima gdje se nalaze kulturna dobra (»Narodne novine«, broj 49/19. i 55/19. - Ispravak) u članku 3. iza stavka 4. dodaju se stavci 5. i 6. koji glase:
+»(5) Plaćanje minimalne godišnje naknade iz stavka 2. ovoga članka može se privremeno obustaviti kada nastupe posebne okolnosti koje podrazumijevaju događaj ili određeno stanje koje se nije moglo predvidjeti i na koje se nije moglo utjecati, a koje ugrožava život i zdravlje građana, imovinu veće vrijednosti, znatno narušava okoliš, narušava gospodarsku aktivnost ili uzrokuje znatnu gospodarsku štetu.
+(6) Odluku kojom utvrđuje obustavu plaćanja minimalne godišnje naknade iz stavka 2. ovoga članka u određenom razdoblju donosi ministar kulture.«
