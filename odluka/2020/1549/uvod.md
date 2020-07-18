@@ -1,0 +1,1 @@
+Na temelju članka 2. stavka 2. Zakona o dopuni Zakona o provedbi ovrhe na novčanim sredstvima (»Narodne novine«, broj 47/20) i članka 8. stavka 2. Zakona o interventnim mjerama u ovršnim i stečajnim postupcima za vrijeme trajanja posebnih okolnosti (»Narodne novine«, broj 53/20), Vlada Republike Hrvatske je na sjednici održanoj 16. srpnja 2020. donijela
