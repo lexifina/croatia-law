@@ -1,0 +1,3 @@
+# Članak 1.
+U Pravilniku o gospodarenju otpadnim vozilima (»Narodne novine«, br. 125/15, 90/16, 60/18 i 72/18) u članku 2. stavak 1. mijenja se i glasi:
+»(1) Ovim se Pravilnikom u pravni poredak Republike Hrvatske prenosi Direktiva 2000/53/EZ Europskog parlamenta i Vijeća od 18. rujna 2000. o otpadnim vozilima (SL L 269, 21. 10. 2000.) kako je posljednji puta izmijenjena Delegiranom direktivom Komisije (EU) 2020/363 оd 17. prosinca 2019. o izmjeni Priloga II. Direktivi 2000/53/EZ Europskog parlamenta i Vijeća o otpadnim vozilima u pogledu određenih izuzeća za olovo i spojeve olova u komponentama (Tekst značajan za EGP) (SL L 67/119, 5. 3. 2020.), (u daljnjem tekstu: Direktiva 2000/53/EZ).«
