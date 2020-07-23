@@ -1,0 +1,4 @@
+## III. SUSTAV SIGNALIZACIJE I INTERPRETACIJE
+# Članak 7.
+(1) Javne ustanove koje upravljaju zaštićenim područjima i/ili drugim zaštićenim dijelovima prirode pri izradi i postavljanju novih elemenata signalizacije i interpretacije zaštićenog područja kojim upravljaju koriste sustav propisan Knjigom standarda za korištenje sustava signalizacije i interpretacije zaštićenih područja u Republici Hrvatskoj (u daljnjem tekstu: Knjiga standarda signalizacije i interpretacije), prema vlastitoj procjeni uklapanja u krajobraz i kada to tehničke mogućnosti dopuštaju.
+(2) Javne ustanove za upravljanje nacionalnim parkovima i parkovima prirode mogu izraditi i postaviti nove elemente signalizacije i interpretacije koji nisu propisani Knjigom standarda signalizacije i interpretacije uz dopuštenje Ministarstva.
