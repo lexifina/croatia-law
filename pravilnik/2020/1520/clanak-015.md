@@ -1,0 +1,4 @@
+# Članak 15.
+(1) Nacionalni referentni laboratoriji za GMO provode postupke analize službenih i referentnih uzoraka uzetih u provedbi službenih kontrola, koordiniraju aktivnosti službenih laboratorija za GMO za svoje područje nadležnosti, prema potrebi provode usporedne testove između službenih laboratorija za GMO i druge potrebne daljnje aktivnosti poslije takvih testova uspoređivanja te obavljaju i druge poslove propisane Uredbom (EZ) br. 2017/625.
+(2) O provedenim analizama kontrole službenih uzoraka iz svoga djelokruga Nacionalni referentni laboratorij za GMO najkasnije do 31. ožujka tekuće godine za prethodnu godinu podnosi Ministarstvu izvješće o svome radu.
+(3) Na temelju izvješća iz stavka 2. ovoga članka i članka 12. stavak 3. ovog Pravilnika izrađuje se zajednički godišnji plan službenih kontrola u svrhu ispitivanja GMO-a na području Republike Hrvatske.
