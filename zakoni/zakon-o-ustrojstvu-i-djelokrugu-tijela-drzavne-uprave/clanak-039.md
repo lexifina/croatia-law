@@ -1,0 +1,4 @@
+# Članak 39.
+Stupanjem na snagu ovoga Zakona prestaje mandat glavnim tajnicima tijela državne uprave koja, sukladno ovome Zakonu, prestaju s radom ili mijenjaju djelokrug zbog preuzimanja poslova iz djelokruga drugog tijela državne uprave koje prestaje s radom.
+Glavni tajnici iz stavka 1. ovoga članka obavljat će poslove po nalogu čelnika tijela, a pravo na plaću i ostala prava iz službe ostvarivat će prema dosadašnjim rješenjima do rasporeda na radna mjesta sukladno pravilniku iz članka 37. stavka 2. ovoga Zakona.
+Vlada će na prijedlog čelnika tijela državne uprave, koje mijenja djelokrug zbog preuzimanja poslova tijela državne uprave koje prestaje s radom i/ili se ustrojava sukladno odredbama ovoga Zakona kao novo tijelo, za obavljanje poslova glavnog tajnika tog tijela ovlastiti državnog službenika zatečenog u državnoj službi do imenovanja glavnog tajnika na temelju javnog natječaja, a najduže do šest mjeseci.
