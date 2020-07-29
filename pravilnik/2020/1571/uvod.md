@@ -1,0 +1,1 @@
+Na temelju odredbi članaka 360. stavka 6., 365. stavka 3., 366. stavka 11., 367. stavka 9., 368. stavka 14., 369. stavka 6. i 370. Zakona o tržištu kapitala (»Narodne novine« br. 65/18 i 17/20), Hrvatska agencija za nadzor financijskih usluga (dalje: Hanfa) na sjednici Upravnog vijeća održanoj 16. srpnja 2020. godine donosi
