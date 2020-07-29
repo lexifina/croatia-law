@@ -1,0 +1,1 @@
+Na temelju odredbi članaka 16. stavka 4. Zakona o provedbi Uredbe (EU) 2015/2365 o transparentnosti transakcija financiranja vrijednosnih papira i ponovne uporabe (»Narodne novine« br. 12/18), Hrvatska agencija za nadzor financijskih usluga (dalje: Hanfa) na sjednici Upravnog vijeća održanoj 16. srpnja 2020. godine donosi

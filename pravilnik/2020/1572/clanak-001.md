@@ -1,0 +1,5 @@
+## Svrha i opseg primjene
+# Članak 1.
+(1) Ovim se Pravilnikom uređuju postupci iz članka 16. Zakona o provedbi Uredbe (EU) 2015/2365 o transparentnosti transakcija financiranja vrijednosnih papira i ponovne uporabe, koji obuhvaćaju postupke u vezi s dostavljenom obavijesti o kršenju Uredbe (EU) 2015/2365, s pravilima o povjerljivosti podataka o osobi koja je obavijest dostavila i osobi koja je navodno, u skladu s obavijesti, odgovorna za nezakonitost.
+(2) Ovim Pravilnikom i internim aktom Hanfa osigurava odgovarajuću zaštitu podnositelja prijave, u svrhu njegove zaštite od moguće diskriminacije ili drugih oblika dovođenja u nepovoljniji položaj, odnosno pozivanja na odgovornost zbog otkrivanja dostavljanih podataka.
+(3) Ovaj Pravilnik odnosi se na moguća ili stvarna kršenja Uredbe (EU) 2015/2365 vezano za poslovanje subjekata nadzora Hanfe kako su oni definirani u članku 5. stavcima 1. i 3. Zakona o provedbi Uredbe (EU) 2015/2365 o transparentnosti transakcija financiranja vrijednosnih papira i ponovne uporabe.

@@ -1,0 +1,8 @@
+## Postupak prijave kršenja
+# Članak 5.
+(1) Prijava kršenja dostavljena Hanfi podnosi se na obrascu iz Priloga ovoga Pravilnika.
+(2) Prijava kršenja dostavljena putem pošte mora sadržavati i potpis fizičke osobe podnositelja prijave.
+(3) Hanfa je dužna zaprimiti i prijavu kršenja podnesenu od strane anonimnog podnositelja, u kojem slučaju će se zaštitne mjere navedene u člancima 8., 9. i 10. ovog Pravilnika primjenjivati ako anonimni podnositelj naknadno otkrije svoj identitet.
+(4) Hanfa može od podnositelja prijave zatražiti pojašnjenje informacija iz prijave ili dostavljanje dodatnih informacija koje su mu na raspolaganju. Ovisno o okolnostima slučaja vodeći se pritom načelom efikasnosti i zaštite podataka o podnositelju prijave, ovlašteni zaposlenik Hanfe će kontaktirati podnositelja prijave pisanim putem ili telefonom osim ako podnositelj ne zatraži drugačije.
+(5) Odgovor na prijavu kršenja, osim ako se radi o prijavi anonimnog podnositelja, dostavlja se podnositelju prijave u pisanom obliku na poštansku ili elektroničku adresu podnositelja prijave, u roku od 30 dana od dana podnošenja prijave kršenja. Ako je pri rješavanju prijave kršenja razvidno kako se konačan odgovor na prijavu neće moći dostaviti u navedenom roku, ovlašteni zaposlenik Hanfe će prije isteka roka za konačan odgovor podnositelju prijave dostaviti navedenu obavijest da je prijava kršenja zaprimljena, da se ista obrađuje te da će se odgovor dostaviti naknadno, odnosno nakon što Hanfa izvrši sve potrebne radnje na temelju kojih može odgovoriti na prijavu kršenja.
+(6) U slučaju da Hanfa zaprimi prijavu za čije rješavanje nije nadležna, proslijedit će tu prijavu nadležnom tijelu i o tome obavijestiti osobu koja je podnijela prijavu.
