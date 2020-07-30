@@ -1,0 +1,3 @@
+# Članak 2.
+U članku 18. iza stavka 2. dodaje se stavak 3. koji glasi:
+»(3) Zavod će s podnositeljem prijedloga, u slučaju obrade osobnih podataka osigurane osobe koja se provodi izvan informacijskog sustava Zavoda pomoću pomagala i naprava koje podržavaju rad tih pomagala, sklopiti sporazum kojim se određuje odgovornost podnositelja prijedloga, proizvođača pomagala koji nije obuhvaćen člankom 2. stavkom 1. ovoga Pravilnika odnosno pravne i fizičke osobe koja ima odobrenje za proizvodnju odnosno promet na malo pomagalima sukladno posebnom zakonu te ljekarnama s ugovorenom isporukom pomagala sa Zavodom, za zakonitu i sigurnu obradu osobnih podataka.«.
