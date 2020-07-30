@@ -1,0 +1,1 @@
+Na temelju članka 44. Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 2020. godinu (»Narodne novine«, br. 117/19, 32/20, 42/20 i 58/20), Vlada Republike Hrvatske je na sjednici održanoj 30. srpnja 2020. donijela
