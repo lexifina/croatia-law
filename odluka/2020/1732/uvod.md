@@ -1,0 +1,1 @@
+Na temelju članka 96. Zakona o financiranju političkih aktivnosti, izborne promidžbe i referenduma (»Narodne novine«, br. 29/19. i 98/19.) i članka 60. Poslovnika Hrvatskoga sabora (»Narodne novine« br. 81/13., 113/16., 69/17., 29/18. i 53/20.) Odbor za Ustav, Poslovnik i politički sustav Hrvatskoga sabora na sjednici održanoj 31. srpnja 2020. godine donio je
