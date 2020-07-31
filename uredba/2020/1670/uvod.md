@@ -1,0 +1,1 @@
+Na temelju članka 22. i članka 30. stavka 1. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/11, 119/14, 93/16 i 116/18), a u vezi s člankom 54. stavkom 1. Zakona o sustavu državne uprave (»Narodne novine«, broj 66/19), Vlada Republike Hrvatske je na sjednici održanoj 30. srpnja 2020. donijela
