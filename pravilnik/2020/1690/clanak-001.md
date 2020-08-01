@@ -1,0 +1,3 @@
+# Članak 1.
+U Pravilniku o načinu propisivanja i izdavanja lijekova na recept (»Narodne novine«; broj 17/09., 46/09., 4/10., 110/10., 131/10., 1/11., 16/11., 52/11., 129/13., 146/13., 45/14., 81/14., 17/15., 113/16. i 129/17.) u članku 12. stavak 2. mijenja se i glasi:
+»Iznimno, lijekovi koji se na Osnovnoj listi lijekova nalaze pod ATK šiframa B02B - Vitamin K i drugi hemostatici, H01A - Hormoni prednjeg režnja hipofize i analozi, J06B - imunoglobulini i L04A - imunosupresivi, mogu se propisivati u količini dostatnoj za liječenje kroz 30 dana, s time da se na jedan recept može propisati više od 2 pakiranja lijeka.«.
