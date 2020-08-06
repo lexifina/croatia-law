@@ -1,0 +1,2 @@
+# Članak 1.
+Ovim Pravilnikom propisuje se oblik, sadržaj, rokovi i način dostavljanja izvještaja iz članka 295. stavka 8. Zakona o tržištu kapitala Hrvatskoj agenciji za nadzor financijskih usluga (dalje: Hanfa), koji sadrže podatke o transakcijama s financijskim instrumentima izvršenim na uređenom tržištu kojim burza upravlja, uključujući i ponude izložene u sustavu uređenog tržišta kojim upravlja burza, a bez obzira na obveze burze sukladno odredbama Uredbe (EU) br. 600/2014.

@@ -1,0 +1,1 @@
+Na temelju članka 295. stavka 8. Zakona o tržištu kapitala (»Narodne novine« broj 65/18 i 17/20 dalje: Zakon o tržištu kapitala) Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća održanoj 23. srpnja 2020. godine donosi

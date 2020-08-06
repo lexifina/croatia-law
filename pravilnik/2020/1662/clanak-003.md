@@ -1,0 +1,3 @@
+# Članak 3.
+(1) Smatra se da je burza dostavila izvještaje iz članka 2. ovog Pravilnika u trenutku kada je izvještaj prihvaćen na poslužitelju Hanfe za zaprimanje izvještaja.
+(2) U opravdanim slučajevima nemogućnosti dostave izvještaja na način propisan stavkom 1. ovog članka, burza je dužna u svrhu pravodobnog izvještavanja dostaviti izvještaje neposredno u elektronskom obliku na CD-u ili nekom drugom mediju, potpisane elektroničkim potpisom sukladno Tehničkoj uputi. Kada burza nije u mogućnosti dostaviti izvještaje na način propisan stavkom 1. ovog članka, dužna je o tome bez odgode obavijestiti Hanfu. Burza je dužna dostaviti izvještaje za koje je postojala nemogućnost dostave na način propisan stavkom 1. ovog članka, čim prestanu razlozi nemogućnosti dostave.
