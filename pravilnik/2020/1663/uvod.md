@@ -1,0 +1,1 @@
+Na temelju članka 15. stavka 2. Zakona o provedbi Uredbe (EU) 2016/1011 o indeksima koji se upotrebljavaju kao referentne vrijednosti (»Narodne novine« br. 57/18), Hrvatska agencija za nadzor financijskih usluga (dalje: Hanfa) na sjednici Upravnog vijeća održanoj 23. srpnja 2020. godine donijela je
