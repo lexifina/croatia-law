@@ -1,0 +1,1 @@
+Na temelju članka 409. stavka 5. Zakona o tržištu kapitala (»Narodne novine« br. 65/18 i 17/2020), Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća održanoj 23. srpnja 2020. donosi
