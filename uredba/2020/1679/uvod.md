@@ -1,0 +1,1 @@
+Na temelju članka 9. Zakona o upravnim pristojbama u području prava intelektualnog vlasništva (»Narodne novine«, br. 64/00, 160/04, 62/08, 30/09 i 49/11), Vlada Republike Hrvatske je na sjednici održanoj 30. srpnja 2020. donijela
