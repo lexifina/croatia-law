@@ -1,0 +1,3 @@
+# Članak 5.
+(1) Ministarstvo putem Povjerenstva razmatra prilagodbu razine emisijskih jedinica koje se besplatno dodjeljuju za razdoblje od 2021. do 2030. godine postrojenjima čije su se aktivnosti prema ocjeni na temelju pomičnog prosjeka dviju godina povećale ili smanjile za više od 15% u odnosu na razinu početno upotrijebljenu za određivanje besplatne dodjele emisijskih jedinica za relevantno razdoblje na odgovarajući način. Takve se prilagodbe provode emisijskim jedinicama iz količine emisijskih jedinica koje nisu besplatno dodijeljene do 2020. godine ili dodavanjem emisijskih jedinica toj količini.
+(2) Primjena prilagodbe iz stavka 1. ovoga članka provodi se i odobrava sukladno Provedbenoj uredbi Komisije (EU) 2019/1842 оd 31. listopada 2019.

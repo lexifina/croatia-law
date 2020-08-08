@@ -1,0 +1,2 @@
+# Članak 13.
+Povjerenstvo obavlja poslove iz članaka 5., do 10., članaka 17. do 21., članka 23. i članka 24. Odluke Komisije 2011/278/EU, iz članaka 6., 15., 17., 18., 20. do 22., 26., 28., 31. do 35., 37. do 39., 41., 45., 48., 51., 52., 54., 65. i 68. do 70. Uredbe (EU) br. 601/2012, članaka 6., 9. i 25. Uredbe Komisije 2019/331/EU, članaka 6., 15., 17. do 19. do 22., 24., 26., 28., 31., 33. do 39., 41., 47., 54., 66., 69. i 70. Uredbe Komisije (EU) 2018/2066 i članka 31. Uredbe Komisije (EU) 2018/2067.
