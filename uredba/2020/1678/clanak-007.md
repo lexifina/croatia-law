@@ -1,0 +1,2 @@
+# Članak 7.
+Operater postrojenja i operator zrakoplova prati emisije stakleničkih plinova i dostavlja izvješće o emisijama i izvješće o verifikaciji (u daljnjem tekstu: verificirano izvješće) Ministarstvu do 1. ožujka tekuće godine za proteklu kalendarsku godinu u skladu s odredbama Uredbe Komisije (EU) br. 601/2012, Uredbe Komisije (EU) 2018/2066, važećim uputama Europske komisije donesenim na temelju Uredbe Komisije (EU) br. 601/2012, Uredbe Komisije (EU) 2018/2066, Uredbe Komisije (EU) br. 2018/2067 i Zakonom.

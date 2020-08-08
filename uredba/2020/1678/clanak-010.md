@@ -1,0 +1,3 @@
+# Članak 10.
+(1) Ukupan broj emisijskih jedinica koje se operatoru zrakoplova dodjeljuju iz posebne rezerve predstavlja umnožak referentne vrijednosti iz članka 47. stavka 1. Zakona i broja tonskih kilometara iz zahtjeva podnesenog na temelju članka 46. stavka 1. podstavka 1. Zakona, odnosno umnožak referentne vrijednosti i apsolutnog povećanja tonskih kilometra iz zahtjeva podnesenog na temelju članka 46. stavka 1. podstavka 2. Zakona.
+(2) Broj emisijskih jedinica dodijeljenih iz posebne rezerve za svaku godinu iz članka 47. stavka 1. podstavka 2. Zakona, računa se na način da se ukupan broj emisijskih jedinica iz stavka 1. ovoga članka podijeli s preostalim brojem godina razdoblja trgovanja u kojem će obavljati zrakoplovne djelatnosti.
