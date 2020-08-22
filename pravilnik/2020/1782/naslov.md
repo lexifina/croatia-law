@@ -1,0 +1,1 @@
+Pravilnik o izmjeni Pravilnika o ribolovu plavoperajne tune (Thunnus thynnus) plivaricom tunolovkom, njenom uzgoju te uvjetima i kriterijima za ostvarivanje prava na dodjelu individualne plivaričarske kvote
