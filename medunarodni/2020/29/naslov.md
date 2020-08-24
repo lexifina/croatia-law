@@ -1,0 +1,1 @@
+Zakon o potvrđivanju Okvirnog ugovora o zajmu između Republike Hrvatske i Razvojne banke Vijeća Europe za Projekt LD 2056 (2020) - Podrška mjerama u Republici Hrvatskoj, povezanih s pandemijom bolesti COVID-19 - instrument financiranja javnog sektora
