@@ -1,0 +1,2 @@
+# Članak 1.
+Ovom se odlukom utvrđuje obveza plaćanja naknade za razvoj sustava javne vodoopskrbe i odvodnje (u daljnjem tekstu: naknada za razvoj) na području nadležnosti (Grad Biograd na Moru, Općina Sv. Filip i Jakov, Općina Pakoštane, Općina Pašman, Općina Tkon) javnog isporučitelja vodnih usluga Komunalac d.o.o. Biograd na Moru, namjena za koju se koristi, obveznici plaćanja, osnovica za obračun, način određivanja visine i obračuna, način i rokovi plaćanja te nadzor nad obračunom i naplatom.
