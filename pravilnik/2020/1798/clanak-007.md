@@ -1,0 +1,6 @@
+# Članak 7.
+Članak 12. mijenja se i glasi:
+»Osobni podaci, sadržani u operativnim zbirkama iz članka 2. ovoga Pravilnika, nakon isteka rokova iz članka 11. ovoga Pravilnika depersonaliziraju se na pet godina, na način da se za korisnike čine nevidljivim u svrhu onemogućavanja izravne identifikacije osobe na koju se podatak odnosi.
+Pristup depersonaliziranim podacima iz stavka 1. ovoga članka dopušten je samo državnim tijelima u svrhu kriminalističkog istraživanja.
+Ponovno otkrivanje podataka iz stavka 1. ovoga članka odobrava rukovoditelj uprave u Ravnateljstvu policije koja je vlasnik podataka ili osoba koju on za to ovlasti te o tome obavještava službenika za zaštitu osobnih podataka, koji obavlja naknadnu provjeru opravdanosti otkrivanja podataka te postupa sukladno posebnim propisima koji uređuju zaštitu pojedinaca u vezi s obradom osobnih podataka od strane nadležnih tijela u svrhe sprječavanja, istraživanja, otkrivanja ili progona kaznenih djela ili izvršavanja kaznenih sankcija, uključujući i zaštitu od prijetnji javnoj sigurnosti i sprječavanje takvih prijetnji.
+Po isteku razdoblja od pet godina od dana depersonalizacije, osobni podaci iz stavka 1. ovoga članka trajno se brišu.«.
