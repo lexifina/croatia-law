@@ -1,0 +1,10 @@
+# Članak 4.
+U članku 8. stavak 6. mijenja se i glasi:
+»(6) Potpora se dodjeljuje po korisniku po godišnjem planu proizvodnje i stavljanja na tržište.«.
+Stavak 7. mijenja se i glasi:
+»(7) U skladu sa člankom 66. stavkom 3. Uredbe (EU) br. 508/2014, ukupan iznos potpore dodijeljene Odlukom o dodjeli sredstava iz članka 11. stavka 1. točke a) ovoga Pravilnika na godišnjoj razini, ne smije prijeći 12 posto prosječne godišnje vrijednosti proizvodnje koju je korisnik stavio na tržište tijekom zadnje tri kalendarske godine koje prethode godini na koju se Zahtjev za potporu/plan proizvodnje i stavljanja na tržište iz članka 9. stavka 1. ovoga Pravilnika odnosi, a za svaku novopriznatu organizaciju proizvođača ta potpora ne smije prijeći 12 posto prosječne godišnje vrijednosti proizvodnje koju su članovi te organizacije stavili na tržište tijekom zadnje tri kalendarske godine koje prethode godini na koju se Zahtjev za potporu/plan proizvodnje i stavljanja na tržište iz članka 9. stavka 1. ovoga Pravilnika odnosi.«.
+Iza stavka 7. dodaje se novi stavak 8. koji glasi:
+»(8) Najviši iznos potpore koji se može ostvariti na godišnjoj razini po pojedinoj aktivnosti iz članka 6. stavka 1. ovoga Pravilnika, utvrđuje se primjenom najviših udjela potpore za pojedinu aktivnost u odnosi na najviši ukupni iznos potpore iz stavka 7. ovoga članka, a u skladu sa Prilogom I. ovoga Pravilnika koji je njegov sastavni dio.«.
+Dosadašnji stavak 8. postaje stavak 9., a dosadašnji stavak 9. briše se.
+U dosadašnjem stavku 8. koji postaje stavak 9. riječi: »ali ne kasnije od 31. prosinca 2023. godine.« zamjenjuju se riječima: »ali uzimajući u obzir razdoblje prihvatljivosti troškova iz članka 6. stavka 4. ovoga Pravilnika.«.
+U stavku 10. riječi: »Odluci o dodjeli potpore« zamjenjuju se riječima: »Odluci o dodjeli sredstava«, a riječi: »ne dovodeći u pitanje članak 14. stavak 7. ovoga Pravilnika« zamjenjuju se riječima: »uzimajući u obzir članak 14. stavak 8. te članak 16. stavke 4. i 5. ovoga Pravilnika«.
