@@ -1,0 +1,3 @@
+# Članak 111.
+Odjel za pripremu i provedbu projekata u području energetike obavlja poslove vezane za pripremu strateških i ostalih projekata, poslove odobrenja dokumentacije za postupke dodjele sredstava u području energetike Operativnog programa »Konkurentnost i kohezija« u nadležnosti drugih tijela sustava, poslove vezane za pružanje podrške korisnicima strateških projekata i drugim tijelima tijekom provedbe istih, u slučaju kada je primjenjivo poslove vezane uz energetiku u sklopu tematskog cilja zelenija Europa operativnih programa u razdoblju nakon 2020. te obavlja druge poslove iz svoga djelokruga.
+5.6.1.2. Odjel za pripremu i provedbu projekata u područjima prometne infrastrukture i mobilnosti

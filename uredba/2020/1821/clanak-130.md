@@ -1,0 +1,6 @@
+# Članak 130.
+Sektor za programe urbanoga razvoja obavlja poslove vezano za sudjelovanje u procesu programiranja vezano za korištenje ESI fondova namijenjenih urbanom razvoju, koordinaciju tijela u sustavu koja su uključena u pripremu i provedbu ITU mehanizma u sklopu Operativnog programa »Konkurentnost i kohezija« i Operativnog programa »Učinkoviti ljudski potencijali«, uspostavu i unaprjeđenje načina provedbe ITU mehanizma, predlaganje kriterija odabira urbanih područja za provedbu ITU mehanizma u okviru programskih dokumenta za korištenje ESI fondova, suradnju s koordinacijskim tijelom i posredničkim tijelima tijekom izrade, provedbe, praćenja i vrednovanja Partnerskog sporazuma i operativnih programa vezanim uz ITU mehanizam, koordinaciju izrade provedbenih planova u okviru ITU mehanizma, provedbu ITU mehanizma, financijsko upravljanje i izvještavanje za ITU mehanizam te obavljanje poslova vezanih uz korištenje tehničke pomoći. Sektor sudjeluje u izradi nacionalne razvojne strategije i akata strateškog planiranja u području urbanog razvoja, te obavlja druge poslove iz svoga djelokruga.
+U Sektoru za programe urbanoga razvoja, ustrojavaju se:
+6.3.1. Služba za pripremu i koordinaciju programa urbanoga razvoja
+6.3.2. Služba za provedbu programa urbanoga razvoja.
+6.3.1. Služba za pripremu i koordinaciju programa urbanoga razvoja

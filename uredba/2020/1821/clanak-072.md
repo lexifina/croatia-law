@@ -1,0 +1,6 @@
+# Članak 72.
+Služba za provedbu provjera na razini sustava obavlja poslove s ciljem provjere funkcioniranja sustava, uključujući planiranje i provedbu redovnih provjera na razini sustava i provjera na razini sustava prije slanja Zahtjeva za plaćanje prema Europskoj komisiji te ponovnih provjera u skladu s revizijskim zahtjevima i traženjima Europske komisije, obavlja poslove praćenja postupanja tijela sustava upravljanja i kontrole po preporukama i nalazima s provjere na razini sustava, pruža potporu Sektoru za uspostavu i unaprjeđenje sustava u aktivnostima vezanima uz akreditaciju sustava, surađuje sa Sektorom za uspostavu i unaprjeđenje rada sustava i ostalim dijelovima Upravljačkog tijela u definiranju i provedbi aktivnosti za unaprjeđenje rada sustava, provodi provjere slijedom upita Europske komisije vezane za rad sustava i sudjeluje u pripremi odgovora te obavlja druge poslove iz svoga djelokruga.
+U Službi za provedbu provjera na razini sustava, ustrojavaju se:
+5.2.1.1. Odjel za provedbu planiranih provjera na razini sustava
+5.2.1.2. Odjel za osiguranje pravilnosti i zakonitosti izdataka i provedbu ostalih provjera na razini sustava.
+5.2.1.1. Odjel za provedbu planiranih provjera na razini sustava

@@ -1,0 +1,6 @@
+# Članak 68.
+Služba za potporu poslovnim procesima obavlja poslove vezane uz uspostavu, unaprjeđenje i osiguranje redovitog rada informatičkih sustava za podršku poslovnim procesima u dijelu koji se odnosi na upravljanje i provedbu programa sufinanciranih sredstvima fondova EU (MIS sustavi - Management Information System te SFC sustavi Europske komisije), osigurava usklađenost informatičkih sustava s institucionalnim okvirom, poslovnim procesima te relevantnim regulatornim okvirom Europske unije, izvršava analize postojećih poslovnih procesa koji se odnose na upravljanje i provedbu programa sufinanciranih sredstvima fondova EU te daje prijedloge za njihovo poboljšanje kroz korištenje funkcionalnosti informatičkih sustava, sudjeluje u pripremi prijedloga akata kojima se utvrđuju poslovni procesi za tijela u sustavu upravljanja i kontrole programa sufinanciranih sredstvima fondova EU, sukladno potrebama osigurava i upravlja vanjskom podrškom za uspostavu, nadogradnje i redoviti rad informatičkih sustava te obavlja druge poslove iz svoga djelokruga.
+U Službi za potporu poslovnim procesima ustrojavaju se:
+5.1.2.1. Odjel za razvoj informatičkih sustava za fondove EU
+5.1.2.2. Odjel za osiguranje rada informatičkih sustava i podršku korisnicima.
+5.1.2.1. Odjel za razvoj informatičkih sustava za fondove EU

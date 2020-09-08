@@ -1,0 +1,6 @@
+# Članak 131.
+Služba za pripremu i koordinaciju programa urbanoga razvoja obavlja poslove vezano za sudjelovanje u procesu programiranja vezano za korištenje ESI fondova namijenjenih urbanom razvoju, sudjeluje u izradi nacionalne razvojne strategije i akata strateškog planiranja u području urbanog razvoja, sudjeluje u izradi Partnerskog sporazuma i Operativnih programa (u daljnjem tekstu: OP) te Strategija koje proizlaze iz njega, a vezane su uz urbani razvoj, obavlja poslove koordinacije tijela u sustavu koja su uključena u pripremu i provedbu ITU mehanizma, predlaže kriterije odabira urbanih područja za provedbu programa urbanoga razvoja, obavlja poslove praćenja, vrednovanja i izvještavanja izrađuje izvješća o provedbi, obavlja poslove vezane uz korištenje tehničke pomoći, sudjeluje u aktivnostima vezanim uz zatvaranje OP-a, obavlja poslove informiranja i komunikacije te obavlja druge poslove iz svoga djelokruga.
+U Službi za pripremu i koordinaciju programa urbanoga razvoja, ustrojavaju se:
+6.3.1.1. Odjel za pripremu i praćenje programa urbanoga razvoja
+6.3.1.2. Odjel za horizontalne poslove programa urbanoga razvoja.
+6.3.1.1. Odjel za pripremu i praćenje programa urbanoga razvoja

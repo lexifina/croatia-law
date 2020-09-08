@@ -1,0 +1,6 @@
+# Članak 113.
+Služba za pripremu i provedbu projekata u područjima klimatskih promjena i zaštite okoliša obavlja poslove vezane za pripremu strateških i ostalih projekata, poslove odobrenja dokumentacije za postupke dodjele sredstava u područjima klimatskih promjena i zaštite okoliša Operativnog programa »Konkurentnost i kohezija« u nadležnosti drugih tijela sustava, poslove vezane za pružanje podrške korisnicima strateških projekata i drugim tijelima tijekom provedbe istih, u slučaju kada je primjenjivo poslove vezane uz klimatske promjene i zaštitu okoliša u sklopu tematskih ciljeva zelenija Europa i Europa bliža građanima operativnih programa u razdoblju nakon 2020. te obavlja druge poslove iz svoga djelokruga.
+U Službi za pripremu i provedbu projekata u područjima klimatskih promjena i zaštite okoliša, ustrojavaju se:
+5.6.2.1. Odjel za pripremu i provedbu projekata u područjima klimatskih promjena, kulturne i prirodne baštine te bioraznolikosti
+5.6.2.2. Odjel za pripremu i provedbu projekata u područjima upravljanja vodama, gospodarenja otpadom te upravljanja rizicima.
+5.6.2.1. Odjel za pripremu i provedbu projekata u područjima klimatskih promjena, kulturne i prirodne baštine te bioraznolikosti
