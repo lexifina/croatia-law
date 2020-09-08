@@ -1,0 +1,3 @@
+# Članak 27.
+Služba za strateško planiranje koordinira poslove strateškog planiranja sukladno propisima koji reguliraju strateško planiranje i upravljanje razvojem Republike Hrvatske, obavlja poslove vezane za pripremu, izradu, provedbu, praćenje, izvješćivanje i vrednovanje akata strateškog planiranja iz djelokruga Ministarstva, surađuje u izradi nacrta prijedloga akata strateškog planiranja na središnjoj razini, po potrebi sudjeluje u izradi akata procjene učinaka propisa, obavlja poslove vezane za prikupljanje i pravodobni unos podataka o aktima strateškog planiranja u informacijski sustav za strateško planiranje i upravljanje razvojem te podnosi odgovarajuća izvješća.
+3.2.2. Služba za analitiku

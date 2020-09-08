@@ -1,0 +1,3 @@
+# Članak 9.
+Služba za informatizaciju obavlja stručne i tehničke poslove održavanja osobnih računala i računalne mreže Ministarstva, predlaže nabavu potrebne opreme (hardver i softver) te mjere i organizaciju informatizacije, pruža pomoć i potporu korisnicima informatičkih resursa, primjenjuje sigurnosna pravila sukladno zakonskim propisima, obavlja poslove vezane za provedbu Zakona o informacijskoj sigurnosti, izrađuje izvješća i priprema mišljenja o dostavljenim materijalima u okviru djelokruga, te osigurava sistemske funkcije informatičke infrastrukture za informatizaciju poslovnih funkcija.
+2.2.2. Služba za tehničke poslove

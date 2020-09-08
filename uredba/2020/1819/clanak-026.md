@@ -1,0 +1,6 @@
+# Članak 26.
+Sektor za strateško planiranje i analitiku koordinira poslove strateškog planiranja sukladno propisima koji reguliraju strateško planiranje i upravljanje razvojem Republike Hrvatske, obavlja poslove vezane za pripremu, izradu, provedbu, praćenje, izvješćivanje i vrednovanje akata strateškog planiranja iz djelokruga Ministarstva, surađuje u izradi nacrta prijedloga akata strateškog planiranja na središnjoj razini, po potrebi sudjeluje u izradi akata procjene učinaka propisa, obavlja poslove vezane za prikupljanje i pravodobni unos podataka o aktima strateškog planiranja u informacijski sustav za strateško planiranje i upravljanje razvojem te podnosi odgovarajuća izvješća. U Sektoru se obavljaju dokumentacijsko-analitički poslovi za područje kulture, održavaju aktualne baze podataka o kulturnom razvitku i kulturnoj politici; na temelju statističkih i dokumentacijskih istraživanja prate se razvojna kretanja i analiziraju strateški ciljevi kao i akti strateškog planiranja od značaja za jedinice lokalne i područne (regionalne) samouprave.
+U Sektoru za strateško planiranje i analitiku ustrojavaju se:
+3.2.1. Služba za strateško planiranje
+3.2.2. Služba za analitiku.
+3.2.1. Služba za strateško planiranje

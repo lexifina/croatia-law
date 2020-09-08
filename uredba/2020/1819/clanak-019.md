@@ -1,0 +1,7 @@
+## 3. UPRAVA ZA RAZVOJ KULTURE I UMJETNOSTI
+# Članak 19.
+Uprava za razvoj kulture i umjetnosti obavlja stručne i upravne poslove vezane uz razvoj i promicanje dramskog, glazbenog i vizualnog stvaralaštva kao i suvremenog plesa i pokreta te praćenje stanja u tim područjima i poduzimanja mjera za unaprjeđivanje tih umjetničkih područja i kulturnih djelatnosti, njihove infrastrukture i programske djelatnosti. U Upravi se obavljaju upravni i stručni poslovi vezani i uz razvoj i promicanje knjige i čitanja, nakladničke djelatnosti te promišljaju načini sudjelovanja u kulturi što brojnije publike, potiče razvoj digitalne kulture kao i drugi poslovi u okviru djelokruga. Uprava koordinira poslove strateškog planiranja te analizira mjere strateškog plana, kao i strateške planove tijela jedinica lokalne i područne (regionalne) samouprave te surađuje na izradi izvješća o realizaciji strateških ciljeva. Uprava sudjeluje u utvrđivanju Godišnjeg plana rada koji sadrži opći prikaz zadaća i poslova Ministarstva u određenoj godini te sukladno djelokrugu obavlja poslove analitike vezane za definiranje strateških ciljeva, pokazatelja uspješnosti, utvrđivanja rizika, nadziranja provedbe i izvješćivanja o realizaciji postavljenih ciljeva.
+U Upravi za razvoj kulture i umjetnosti ustrojavaju se:
+3.1. Sektor za razvoj kulture i umjetnosti
+3.2. Sektor za strateško planiranje i analitiku.
+3.1. Sektor za razvoj kulture i umjetnosti

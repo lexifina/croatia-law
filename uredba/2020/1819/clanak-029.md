@@ -1,0 +1,7 @@
+## 4. UPRAVA ZA MEĐUNARODNU KULTURNU SURADNJU I EUROPSKE POSLOVE
+# Članak 29.
+Uprava za međunarodnu kulturnu suradnju i europske poslove koordinira stručne, administrativne i upravno-pravne poslove koji se odnose na pripremu, provedbu, praćenje, vrednovanje, razvoj i koordinaciju programa i projekata financiranih sredstvima Europske unije. Uprava obavlja poslove vezane uz bilateralnu i multilateralnu međunarodnu kulturnu suradnju s europskim i izvaneuropskim državama, poslove vezane uz suradnju s europskim i izvaneuropskim međunarodnim organizacijama i asocijacijama, skrbi o ostvarivanju kulturnih veza s Europskom unijom, Vijećem Europe i drugim vladinim i nevladinim međunarodnim organizacijama, te ostvaruje kontinuiranu suradnju s međunarodnim kulturnim institucijama Obavljaju se poslovi koji se odnose na analizu i provedbu europske politike te koordinira suradnja Ministarstva i institucija Europske unije; obavljaju se poslovi vezani za UNESCO i program Europske unije za kulturu - Kreativna Europa. Uprava sudjeluje u utvrđivanju Godišnjeg plana rada koji sadrži opći prikaz zadaća i poslova Ministarstva u određenoj godini te obavlja i druge poslove u okviru djelokruga.
+U Upravi za međunarodnu kulturnu suradnju i europske poslove ustrojavaju se:
+4.1. Sektor za programe i projekte Europske unije
+4.2. Sektor za međunarodnu kulturnu suradnju i europske poslove.
+4.1. Sektor za programe i projekte Europske unije

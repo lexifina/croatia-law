@@ -1,0 +1,3 @@
+# Članak 64.
+Služba za audiovizualne djelatnosti obavlja stručne i upravne poslove vezane za praćenje stanja u području audiovizualnih djelatnosti; praćenje i evaluaciju audiovizualne regulative; izradu analiza i izvješća o stanju audiovizualne regulative te izrade smjernica; izradu stručnih podloga u svrhu pripreme izrade zakonskih i drugih propisa u domeni audiovizualne politike; praćenje provođenja Nacionalnog programa promicanja audiovizualnog stvaralaštva. Služba obavlja stručne poslove analize i pripreme stajališta Republike Hrvatske pri Europskoj uniji u koordinaciji s drugim nadležnim tijelima kao i druge poslove u okviru djelokruga.
+7.2.2. Služba za poticanje poduzetništva u kulturnim i kreativnim industrijama

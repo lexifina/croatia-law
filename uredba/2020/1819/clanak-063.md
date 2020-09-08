@@ -1,0 +1,6 @@
+# Članak 63.
+Sektor za audiovizualne djelatnosti i poticanje poduzetništva u kulturnim i kreativnim industrijama obavlja sljedeće poslove: praćenje stanja u području audiovizualnih djelatnosti i kulturnih i kreativnih industrija te obavljanje stručnih i upravnih poslova u tim područjima; praćenje primjene i evaluacija regulative audiovizualnih djelatnosti i područja kulturnih i kreativnih industrija; analize i izvješća o stanju regulative audiovizualnih djelatnosti i kulturnih i kreativnih industrija; izrade strategija razvoja audiovizualnih djelatnosti te kulturnih i kreativnih industrija; sudjelovanje u radnim tijelima Vijeća Europe i Europske unije; izrada smjernica u području regulative audiovizualnih djelatnosti i kulturnih i kreativnih industrija; praćenje provođenja Nacionalnog programa promicanja audiovizualnog stvaralaštva. Također se obavljaju poslovi koji se odnose na provedbu sektorske politike Vijeća Europe za ovo područje.
+U Sektoru za audiovizualne djelatnosti i poticanje poduzetništva u kulturnim i kreativnim industrijama ustrojavaju se:
+7.2.1. Služba za audiovizualne djelatnosti
+7.2.2. Služba za poticanje poduzetništva u kulturnim i kreativnim industrijama.
+7.2.1. Služba za audiovizualne djelatnosti

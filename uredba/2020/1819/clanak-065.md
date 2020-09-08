@@ -1,0 +1,2 @@
+# Članak 65.
+Služba za poticanje poduzetništva u kulturnim i kreativnim industrijama obavlja stručne i upravne poslove vezane za praćenje stanja u području kulturnih i kreativnih industrija; praćenje i evaluaciju regulative područja kulturnih i kreativnih industrija; izradu analiza i izvješća te izradu smjernica razvoja i jačanja kapaciteta i konkurentnosti kulturnih i kreativnih industrija; izradu stručnih podloga u svrhu pripreme izrade zakonskih i drugih propisa, kao i druge poslove u okviru djelokruga.
