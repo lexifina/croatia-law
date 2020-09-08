@@ -1,0 +1,3 @@
+# Članak 40.
+Služba za stambeno zbrinjavanje obavlja poslove koji se odnose na stambeno zbrinjavanje djelatnika Ministarstva i pripadnika Oružanih snaga. Predlaže mjere i programe stambene politike radi potpore djelatnicima Ministarstva i pripadnicima Oružanih snaga. Utvrđuje potrebe stambenog smještaja, priprema i provodi akte u vezi s korištenjem službenih stanova te postupke njihova ukidanja. Izrađuje propise i provedbene akte iz stambenog zbrinjavanja i vodi evidenciju korisnika službenih stanova te obavlja i druge poslove u okviru svojega djelokruga.
+6.2. Služba za prodaju, postupke i evidenciju stanova

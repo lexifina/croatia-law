@@ -1,0 +1,6 @@
+# Članak 172.
+(1) Služba inspekcije obrane provodi inspekcijski nadzor radi utvrđivanja zakonitosti postupanja u primjeni propisa u upravljanju obrambenim sustavom i u području obrane, obučenosti za združene i multinacionalne oblike vojnog sudjelovanja za međunarodne operacije u kojima sudjeluju Oružane snage, obučenosti grana Oružanih snaga, uporabe i stanja zapovjedno-informacijsko-komunikacijskih sustava, primjeni propisa koji reguliraju ocjenjivanje spremnosti stožera, zapovjedništava, postrojbi i ustanova Oružanih snaga te u implementaciji Ciljeva sposobnosti, primjeni usvojenih hrvatskih vojnih normi (HRVN) i ratificiranih NATO dokumenata te izrađuje i podnosi zapisnike, prijedloge mjera i preporuke za otklanjanje nedostataka. Nadzire provedbu dokumenata iz područja obrambene politike i planiranja, međunarodne obrambene suradnje i sigurnosti, civilnih nositelja obrambenih priprema, planova zaštite civilnih i vojnih lokacija i građevina posebno važnih za obranu, dužnosti i prava državljana Republike Hrvatske u obrani te civilno-vojnog kriznog upravljanja.
+(2) U Službi inspekcije obrane ustrojavaju se:
+12.1.1. Odjel za potporu i koordinaciju
+12.1.2. Odjel za inspekciju obrane i obrambenih priprema.
+12.1.1. Odjel za potporu i koordinaciju

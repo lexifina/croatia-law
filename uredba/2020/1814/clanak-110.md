@@ -1,0 +1,3 @@
+# Članak 110.
+Odjel ubojnih i radiološko-biološko-kemijskih sredstava obavlja stručne i upravne poslove vezane za materijalno zbrinjavanje Ministarstva i Oružanih snaga kroz djelatnosti opremanja svim vrstama ubojnih sredstava (UbS) i radiološki-biološko-kemijskih sredstava (RBK) za potrebe Oružanih snaga. Odjel usklađuje prijedloge planova opremanja i provodi opremanje Ministarstva i Oružanih snaga u skladu s planovima opremanja, organizira razvoj i usvajanje materijalnih sredstava te prati iz svoje nadležnosti razvojne i proizvodne mogućnosti domaćega i inozemnoga gospodarstva.
+10.1.2. Služba za potporu opremanju i modernizaciji

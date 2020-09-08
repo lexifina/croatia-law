@@ -1,0 +1,7 @@
+# Članak 141.
+(1) Služba za proračun obavlja stručne i upravne poslove vezane za izradu financijskog plana Ministarstva, izradu projekcija financijskog plana Ministarstva, izradu izmjena i dopuna financijskog plana Ministarstva, raspoređivanje utvrđenih proračunskih sredstava po proračunskim klasifikacijama u sustavu državnog proračuna, rezerviranje odobrenih sredstava i praćenje rezervacija u financijskom planu Ministarstva, praćenje realizacije financijskog plana i pripremu izvješća, analiziranje realiziranih proračunskih sredstava, izradu analiza i izvješća prema drugim tijelima državne uprave i međunarodnim organizacijama i kontrolu izvršenja financijskog plana u skladu s propisima iz područja upravljanja proračunskim sredstvima. Sudjeluje u izradi propisa o materijalno-financijskom poslovanju, upravljanju proračunskim sredstvima, unaprjeđenju proračunskih procesa u dijelu izrade i izvršenja proračuna, dogradnji i unaprjeđivanju informacijskog sustava za izradu prijedloga financijskog plana i projekcija za sljedeća razdoblja. Prati izvršenje financijskog plana, razmjenu proračunskih informacija s drugim ustrojstvenim jedinicama te obavlja stručne analize na zahtjev unutarnjih i vanjskih subjekata. Služba obavlja i druge poslove iz svojega djelokruga.
+(2) U Službi za proračun ustrojavaju se:
+11.1.1.1. Odjel za pripremu i izradu proračuna
+11.1.1.2. Odjel za izvješćivanje i analize
+11.1.1.3. Odjel za praćenje i unaprjeđenje proračunskih procesa.
+11.1.1.1. Odjel za pripremu i izradu proračuna
