@@ -1,0 +1,3 @@
+# Članak 38.
+Pravilnikom o unutarnjem redu Hrvatske vatrogasne zajednice utvrđuje se broj potrebnih državnih službenika i namještenika s naznakom njihovih osnovnih poslova i zadaća i stručnih uvjeta potrebnih za njihovo obavljanje, uključujući i radna mjesta službenika s posebnim ovlastima i odgovornostima te druga pitanja od značaja za rad Hrvatske vatrogasne zajednice koja nisu uređena uredbom kojom se uređuju opća pravila za unutarnje ustrojstvo tijela državne uprave i ovom Uredbom.
+Pravilnik o unutarnjem redu Hrvatske vatrogasne zajednice donosi glavni vatrogasni zapovjednik, uz prethodno pribavljenu suglasnost tijela državne uprave nadležnog za službeničke odnose.
