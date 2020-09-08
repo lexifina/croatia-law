@@ -1,0 +1,6 @@
+# Članak 99.
+Služba za pripremu poziva iz područja socijalne uključenosti i FEAD obavlja poslove pripreme dokumenata u vezi s korištenjem sredstava OP ULJP-a i Operativnog programa za hranu i/ili osnovnu materijalnu pomoć; surađuje s drugim ustrojstvenim jedinicama Ministarstva; utvrđuje prioritete za izradu Godišnjeg plana objave poziva; priprema kriterije za odabir operacija/projekata; priprema bazu projekata u području socijalne uključenosti; koordinira pripremu i provjerava kvalitetu natječajne dokumentacije za otvorene Pozive na dostavu projektnih prijedloga iz područja ulaganja u nadležnosti Ministarstva u okviru Prioritetne osi 2. OPULJP-a; objavljuje otvorene pozive u okviru Prioritetne osi 2. (izuzev SC-ova 9.i.1. i 9.v.1) i FEAD-a kao i Pozive tijelima koji će se financirati kao izravna dodjela sredstava u okviru Prioritetne osi 2. OPULJP-a; sudjeluje u planiranju državnog proračuna; izrađuje načine postupanja u različitim procesima rada; izrađuje izvješća iz područja rada, te obavlja i druge poslove u okviru svog djelokruga.
+U Službi za pripremu poziva iz područja socijalne uključenosti i FEAD ustrojavaju se:
+7.1.2.1. Odjel za pripremu poziva iz područja socijalne uključenosti
+7.1.2.2. Odjel za pripremu FEAD poziva.
+7.1.2.1. Odjel za pripremu poziva iz područja socijalne uključenosti

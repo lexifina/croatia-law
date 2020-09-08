@@ -1,0 +1,3 @@
+# Članak 81.
+Odjel za prigovore u postupcima odabira operacija obavlja stručne i administrativne poslove izrade prijedloga akata vezano uz prigovore, žalbe i tužbe koje se odnose na odabir operacija sufinanciranih iz operativnih programa iz nadležnosti Uprave, prati relevantni zakonski okvir i obavlja pregled popratne dokumentacije vezano za predmet prigovora, komunicira i razmjenjuje informacije s tijelima u sustavu vezano za prigovore, priprema prijedloge izvješća vezano za prigovore u postupcima odabira operacija, osigurava koordinaciju i razmjenu informacija s drugim unutarnjim ustrojstvenim jedinicama Upravljačkog tijela, te obavlja i druge poslove u okviru svog djelokruga.
+6.3.3.2. Odjel za prigovore u provedbi operacije

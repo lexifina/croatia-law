@@ -1,0 +1,6 @@
+# Članak 77.
+Služba za reviziju i kontrole obavlja stručne i administrativne poslove s ciljem koordiniranja provjere funkcioniranja i učinkovitog rada sustava, koordinacije kontrole i provjere delegiranih funkcija tijela u sustavu upravljanja i kontrola, provjere prethodno odobrenih troškova u cilju njihova ovjeravanja od strane Europske komisije, uključujući: koordinaciju planiranja i provedbe provjera na razini sustava upravljanja i kontrola, izrade registra nalaza i preporuka provjera na razini sustava, praćenje postupanja po preporukama i nalazima provjera na razini sustava te koordinaciju provedbe aktivnosti tijela sustava upravljanja i kontrole vezano uz revizije operacija i revizije sustava upravljanja i kontrole, priprema i praćenje relevantne dokumentacije i registara vezanih uz revizije, analizu slabosti sustava koja iz predmetnog proizlaze i suradnju s ostalim ustrojstvenim jedinicama Uprave u osiguravanju poboljšanja rada sustava, te obavlja i druge poslove u okviru svog djelokruga.
+U Službi za reviziju i kontrole ustrojavaju se:
+6.3.2.1. Odjel za koordinaciju revizija na razini sustava
+6.3.2.2. Odjel za kontrolu i provjere na razini sustava.
+6.3.2.1. Odjel za koordinaciju revizija na razini sustava

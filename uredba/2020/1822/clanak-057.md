@@ -1,0 +1,6 @@
+# Članak 57.
+Služba za financijsko upravljanje programima upravlja i kontrolira poslovne procese u Službi vezane uz financijsku provedbu operativnih programa iz nadležnosti Uprave, uključujući planiranje korištenja sredstava na programskoj razini, pripremu prijedloga korektivnih mjera, osigurava korištenja sredstava operativnih programa u skladu s godišnjim i višegodišnjim ciljnim vrijednostima u svrhu izbjegavanja automatskog opoziva sredstava (N+3 pravilo) i usklađenosti provedbe s utvrđenim okvirom uspješnosti, koordinira praćenje i izvještavanje o ostvarenju financijskih pokazatelja u skladu s kriterijima uspješnosti, upravlja sustavom za financijsko praćenje provedbe i tijeka financijskih sredstava, koordinira izvještavanje o odobrenim troškovima i postupcima prema Tijelu za ovjeravanje, kao i pripremu dokumenata kojima se iskazuju nastali izdaci u cilju njihova ovjeravanja i refundacije od strane Europske komisije, priprema analitičke podloge vezane za financijske aspekte provedbe operativnih programa, te obavlja i druge poslove u okviru svog djelokruga.
+U Službi za financijsko planiranje i upravljanje operativnim programima ustrojavaju se:
+6.1.2.1. Odjel za financijsko planiranje i upravljanje
+6.1.2.2. Odjel za financijsko praćenje i izvještavanje.
+6.1.2.1. Odjel za financijsko planiranje i upravljanje

@@ -1,0 +1,3 @@
+# Članak 101.
+Odjel za pripremu FEAD poziva obavlja stručne i administrativne poslove vezane uz koordinaciju i planiranje projekata, pripremu za odobrenje projektne dokumentacije, osigurava kvalitetu za odobrenje natječajne dokumentacije te objavljuje otvorene Pozive za dostavu projektnih prijedloga u okviru Operativnog programa za hranu i/ili osnovnu materijalnu pomoć, sudjeluje u odborima za ocjenjivanje, čuva dokumente i evidencije o provedbi funkcija radi osiguravanja odgovarajućeg revizijskog traga, te obavlja i druge poslove u okviru svog djelokruga.
+7.2. Sektor za vrednovanje, ugovaranje i financijsko upravljanje EU projekata
