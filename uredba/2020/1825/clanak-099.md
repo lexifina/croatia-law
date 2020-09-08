@@ -1,0 +1,3 @@
+# Članak 99.
+Služba za stanove upravlja i raspolaže stanovima koji su na upravljanju Ministarstva na način da provodi postupke prodaje stanova u postupku javnog natječaja i neposredno, razvrgava suvlasničke zajednice na stanovima, provodi postupak zamjene stanova, surađuje s društvom Državne nekretnine d.o.o. u poslovima upravljanja stanovima i poslovima davanja stanova u najam, dodjeljuje stanove za službene potrebe, odlučuje o korištenju pravom prvokupa, izdaje brisovna očitovanja. Služba provodi postupak upisa stanova i drugih podataka o stanovima u bazu podataka nekretnina te surađuje s drugim ustrojstvenim jedinicama Ministarstva i obavlja druge poslove iz svog djelokruga.
+9.1.2. Služba za poslovne prostore

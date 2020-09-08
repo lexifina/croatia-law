@@ -1,0 +1,3 @@
+# Članak 112.
+Služba za investicijske projekte obavlja poslove vezane uz rješavanje imovinskopravnih odnosa na nekretninama potrebnima za realizaciju investicijskih projekata, surađuje s tijelima državne uprave, jedinicama lokalne i područne (regionalne) samouprave i drugim tijelima u pripremi projekata od strateškog interesa za Republiku Hrvatsku, prije raspolaganja unosi podatke o nekretninama u bazu podataka nekretnina koju vodi Ministarstvo te surađuje s drugim ustrojstvenim jedinicama Ministarstva i obavlja druge poslove iz svog djelokruga.
+9.2.3. Služba za jedinice lokalne i područne (regionalne) samouprave

@@ -1,0 +1,3 @@
+# Članak 28.
+Odjel za analizu procjena vrijednosti nekretnina prati i analizira stanje u području procjene vrijednosti nekretnina, prikuplja podatke, analizira, utvrđuje metode i procedure, prezentira rezultate te izrađuje izvješća i dokumentaciju potrebnu za rad Službe. Odjel prati funkcionalnost i održavanje informacijskog sustava eNekretnine; pregledava dokumentaciju i daje mišljenja na procjembene elaborate, prostorno-plansku dokumentaciju, zakonske i podzakonske propise iz područja procjene vrijednosti nekretnina; sudjeluje u radu radnih skupina i povjerenstava; sudjeluje u pripremi i radu visokog procjeniteljskog povjerenstva te obavlja i druge poslove u okviru svoga djelokruga.
+4.1.2. Odjel za regulativu procjena vrijednosti nekretnina

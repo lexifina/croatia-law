@@ -1,0 +1,2 @@
+# Članak 116.
+Služba za sukcesiju i oduzetu imovinu obavlja poslove upravljanja i raspolaganja imovinom koja je u postupku sukcesije, te oduzetom imovinom prema posebnim propisima, daje u višegodišnji zakup sukcesijsku imovinu putem javnog natječaja i provodi postupke raspolaganja nekretninama u svrhu naknade za oduzetu crkvenu imovinu. Služba unosi podatke o nekretninama u bazu podataka nekretnina, obavlja poslove vezano uz kontrolu ispunjenja sklopljenih ugovora te surađuje s drugim ustrojstvenim jedinicama Ministarstva te obavlja druge poslove iz svog djelokruga.
