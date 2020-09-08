@@ -1,0 +1,6 @@
+# Članak 21.
+Služba za plemenite kovine obavlja upravne i stručne poslove koji se odnose na ispitivanje, označivanje i žigosanje predmeta od plemenitih kovina, priprema i sudjeluje u izradi nacrta prijedloga zakona, pravilnika, naredbi, naputaka i drugih akata iz svoga djelokruga, provodi postupak za dodjelu znaka proizvođača odnosno znaka dobavljača predmeta od plemenitih kovina, vodi propisane evidencije o znakovima proizvođača i znakovima dobavljača, ispitanim i žigosanim predmetima od plemenitih kovina i obavljenim kemijskim mjerenjima, obavlja poslove podrške sustavu kvalitete. U Službi se obavljaju poslovi suradnje s međunarodnim organizacijama iz područja plemenitih kovina, tuzemna i međunarodna usporedbena ispitivanja, provjeravanje i vrednovanje te potvrđivanje rezultata ispitivanja uzoraka predmeta od plemenitih kovina; obavljaju se analize potreba i stanja, planiranje i razvoj djelatnosti ispitivanja i žigosanja predmeta od plemenitih kovina u Republici Hrvatskoj te planira i osigurava sljedivost referencijskih materijala za potrebe ispitivanja predmeta od plemenitih kovina, te obavljaju i drugi poslovi iz djelokruga Službe.
+U Službi za plemenite kovine ustrojavaju se:
+3.2.1. Odjel za plemenite kovine i kemijska mjerenja I
+3.2.2. Odjel za plemenite kovine i kemijska mjerenja II.
+3.2.1. Odjel za plemenite kovine i kemijska mjerenja I

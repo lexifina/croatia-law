@@ -1,0 +1,3 @@
+## IV. USTROJSTVO I DJELOKRUG PODRUČNIH MJERITELJSKIH SLUŽBI
+# Članak 31.
+Područne mjeriteljske službe obavljaju poslove koji se odnose na ovjeravanje mjerila, ispitivanje pretpakovina i boca kao mjernih spremnika, službena mjerenja, izvanredna ispitivanja zakonitih mjerila u uporabi; pružaju pomoć građanima i pravnim osobama u provođenju propisa i mjera iz mjeriteljske djelatnosti, vode propisane evidencije, provode analize i sudjeluju u pripremi propisa iz područja mjeriteljstva te po potrebi sudjeluju u postupcima radi izdavanja odobrenja za obavljanje poslova ovjeravanja zakonitih mjerila i/ili poslova pripreme zakonitih mjerila za ovjeravanje i postupcima radi odobrenja tipa mjerila te obavljaju i druge poslove iz svoga djelokruga.
