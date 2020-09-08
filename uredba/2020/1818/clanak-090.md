@@ -1,0 +1,3 @@
+# Članak 90.
+Služba za europske poslove obavlja stručne poslove vezane za koordinaciju sudjelovanja Ministarstva i javnih ustanova u djelokrugu Ministarstva u radu tijela Europske unije, vodi evidenciju i ažurira bilješke, koordinira izradu stručnih priprema te prijedloga stajališta iz nadležnosti Ministarstva s ostalim nadležnim tijelima državne uprave, drugim unutarnjim ustrojstvenim jedinicama Ministarstva i javnim ustanovama u nadležnosti Ministarstva iz njihovog djelokruga koji je povezan s Europskom unijom, prati rad Međuresorne radne skupine za europske poslove i EU koordinaciju pri Ministarstvu vanjskih i europskih poslova. Služba obavlja i druge poslove iz svoga djelokruga.
+10.2. Služba za međunarodne poslove
