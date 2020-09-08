@@ -1,0 +1,6 @@
+# Članak 29.
+Služba za automatska i posebna meteorološka mjerenja planira, uspostavlja i provodi sve vrste automatskih meteoroloških mjerenja; obavlja nadzor, prati kakvoću i održava rad postaja u skladu s preporukama i zahtjevima Svjetske meteorološke organizacije i nacionalnog zakonodavstva s područja normizacije i mjeriteljstva; izrađuje studije i elaborate, stručne planove i izvješća iz djelokruga Službe; razrađuje, uspostavlja, obavlja i koordinira metodologiju posebnih mjerenja te prati i primjenjuje svjetska dostignuća na području meteorološke mjerne tehnike; sudjeluje u izradi naputaka i pravilnika iz područja rada mreže automatskih meteoroloških postaja; prati i primjenjuje nove spoznaje i metode iz područja automatskih meteoroloških mjerenja te sudjeluje u izradi odgovarajuće baze podataka; sudjeluje u provedbi domaćih i međunarodnih projekata te predstavlja rezultate rada na domaćim i međunarodnim znanstvenim i stručnim skupovima i u publikacijama; obavlja i druge poslove iz svoga djelokruga.
+U Službi za automatska i posebna meteorološka mjerenja ustrojavaju se:
+5.2.1. Odjel za uspostavu i održavanje automatskih meteoroloških sustava
+5.2.2. Odjel za nadzor rada automatskih meteoroloških sustava.
+5.2.1. Odjel za uspostavu i održavanje automatskih meteoroloških sustava

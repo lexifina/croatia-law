@@ -1,0 +1,6 @@
+# Članak 103.
+Služba Pomorski meteorološki centar operativno prati, analizira i prognozira stanje mora i vremenska stanja na moru i priobalju, te na cijelom Jadranu i u Sredozemlju; u suradnji sa Sektorom za vremenske i pomorske analize i prognoze te s Područnom meteorološkom službom Rijeka, izdaje vremenske prognoze i upozorenja o izvanrednim i opasnim vremenskim stanjima na moru i priobalju; zajedno s Područnom meteorološkom službom Rijeka obavlja poslove pomorske meteorološke službe; u suradnji sa Sektorom za vremenske i pomorske analize i prognoze i s Područnom meteorološkom službom Rijeka, prati, razvija i primjenjuje nove metode za analizu i postprocesnu obradu podataka prognostičkih modela te projektira i predlaže daljnje unapređenje prognostičkog sustava; pohranjuje meteorološku dokumentaciju i podatke iz svoje nadležnosti; sudjeluje u razmjeni izvješća na domaćoj i međunarodnoj razini; prati nova dostignuća, međunarodne propise i stručne standarde; razvija i primjenjuje nove metode iz područja pomorske vremenske analize i prognoze; obavlja i druge poslove iz svoga djelokruga.
+U Službi Pomorski meteorološki centar ustrojavaju se:
+13.1.1. Odjel za upozorenja i pomorsku vremensku prognozu
+13.1.2. Odjel za operativne podloge.
+13.1.1. Odjel za upozorenja i pomorsku vremensku prognozu

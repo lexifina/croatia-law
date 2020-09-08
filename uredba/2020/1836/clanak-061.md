@@ -1,0 +1,7 @@
+# Članak 61.
+Služba za mjerenja i opažanja površinskih i podzemnih voda uspostavlja i održava mreže hidroloških postaja na površinskim i podzemnim vodama Republike Hrvatske, organizira redovna i posebna opažanja, mjerenja i prikupljanja podataka iz mreže tih postaja, obavlja kontrolu i obradu podataka, te pohranu podataka u baze hidroloških podataka; provodi mjerenja i opažanja pronosa vučenog, suspendiranog i pridnenog riječnog nanosa na vodotocima; poslove provodi u skladu s preporukama Svjetske meteorološke organizacije te nacionalnog zakonodavstva s područja normizacije i mjeriteljstva; prati razvoj suvremenih trendova razvoja mjerne tehnike i mjernih postupaka koje implementira na svoje područje rada; aktivno surađuje sa srodnim organizacijama u zemlji i inozemstvu u smislu realizacije zajedničkih mjerenja i razmjene podataka; izrađuje hidrološke biltene za međunarodnu razmjenu te izrađuje upute i planove za operativan rad; sudjeluje u pripremi hidroloških prognoza i upozorenja, studija, elaborata, prikaza i biltena; surađuje i koordinira svoje aktivnosti s drugim službama unutar Sektora; obavlja i druge poslove iz svoga djelokruga.
+U Službi za mjerenja i opažanja površinskih i podzemnih voda ustrojavaju se:
+8.1.1. Odjel za mjerenja i opažanja površinskih voda
+8.1.2. Odjel za mjerenja i opažanja podzemnih voda
+8.1.3. Odjel za nanos i morfologiju riječnih korita.
+8.1.1. Odjel za mjerenja i opažanja površinskih voda

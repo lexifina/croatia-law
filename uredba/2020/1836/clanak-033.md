@@ -1,0 +1,6 @@
+# Članak 33.
+Odjel za održavanje i tehničku podršku sustavima daljinskih mjerenja u okviru poslova za održavanje uređaja za daljinska i visinska mjerenja nadzire rad, organizira i provodi održavanje meteoroloških radara te pripadajućih instalacija, uređaja za radio-sondažu te ostalih uređaja za obavljanje daljinskih mjerenja s njihovim pripadajućim pratećim tehničkim sustavima; prati rad sustava, primjenjuje nove tehnologije i unaprjeđuje metode i postupke mjerenja na području radarske meteorologije i ostalih daljinskih mjerenja; sudjeluje u operativnoj provedbi projekata proširenja i modernizacije radarske mreže na području Republike Hrvatske, napose projekta instalacije meteoroloških radara u Primorju; koordinira prikupljanje podataka s radarskih centara Sjeverne Hrvatske (radarskih mjerenja, podataka o nepogodama i pojavama s mreže postaja obrane od tuče); sudjeluje u provedbi projekata verifikacije mjerenja oborina radarom; obavlja i druge poslove iz svoga djelokruga.
+U Odjelu za održavanje i tehničku podršku sustavima daljinskih mjerenja ustrojavaju se:
+5.3.1.1. Pododsjek podrške radarskih centara u Primorskoj Hrvatskoj
+5.3.1.2. Pododsjek podrške radarskih centara u Sjevernoj Hrvatskoj.
+5.3.1.1. Pododsjek podrške radarskih centara u Primorskoj Hrvatskoj

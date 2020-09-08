@@ -1,0 +1,6 @@
+# Članak 57.
+Služba za vremensku analizu, verifikaciju i prognostički sustav razvija i primjenjuje nove metode za analizu i postprocesnu obradu podataka prognostičkih modela; razvija i koordinira operacionalizaciju prognostičkog sustava na razini Sektora za vremenske i pomorske analize i prognoze; sudjeluje u operativnoj izradi vremenske prognoze; obavlja pohranu meteorološke dokumentacije i podataka iz svoga djelokruga; prati i nadzire kakvoću izdanih općih i posebnih vremenskih prognoza i upozorenja te izrađuje redovita izvješća o njihovoj kakvoći; prati nova dostignuća, međunarodne propise i stručne standarde te razvija i primjenjuje nove metode iz područja analize i verifikacije vremenske prognoze; u suradnji s Područnim meteorološkim uredom Split i Područnom meteorološkom službom Rijeka, prati, razvija i primjenjuje nove metode za analizu i postprocesnu obradu podataka prognostičkih modela te projektira, predlaže i koordinira daljnje unaprjeđenje prognostičkog sustava; obavlja i druge poslove iz svoga djelokruga.
+U službi za vremensku analizu, verifikaciju i prognostički sustav ustrojavaju se:
+7.2.1. Odjel za operativne podloge
+7.2.2. Odjel za vremensku analizu i verifikaciju.
+7.2.1. Odjel za operativne podloge

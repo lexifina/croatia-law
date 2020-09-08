@@ -1,0 +1,6 @@
+# Članak 41.
+Služba za razvoj operativnih prognostičkih modela istražuje specifičnosti lokalnih i regionalnih atmosferskih procesa u svrhu unaprjeđenja metoda njihovog modeliranja; primjenjuje postojeće i razvija nove metode numeričke analize i prognoze s posebnim naglaskom na ekstremne i opasne vremenske pojave; prati i održava rad operativnog prognostičkog modela; istražuje, razvija i primjenjuje metode asimilacije podataka i objektivnih metoda analize podataka mjerenja i rezultata modela; razvija i primjenjuje metode i modele za vrlo kratkoročnu prognozu vremena; razvija operativni prognostički model i sustav, kako lokalno, tako i u okviru dogovorene međunarodne suradnje; slijedi suvremena postignuća u domeni numeričkog modeliranja i asimilacije podataka, te ih implementira u operativni prognostički sustav; sudjeluje u domaćim i međunarodnim projektima iz djelokruga rada Službe; surađuje sa znanstveno-nastavnim, državnim i međunarodnim ustanovama iz djelokruga Službe; obavlja i druge poslove iz svoga djelokruga.
+U Službi za razvoj operativnih prognostičkih modela ustrojavaju se:
+6.1.1. Odjel za operativnu numeričku prognozu vremena
+6.1.2. Odjel za asimilaciju podataka i vrlo kratkoročnu prognozu vremena.
+6.1.1. Odjel za operativnu numeričku prognozu vremena

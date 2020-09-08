@@ -1,0 +1,3 @@
+# Članak 35.
+Pododsjek podrške radarskih centara u Sjevernoj Hrvatskoj prikuplja podatke radarskih mjerenja s radarskih centara sjeverne Hrvatske, podatke o nepogodama i pojavama s mreže postaja obrane od tuče te koordinira rad radarskih centara s Hrvatskom kontrolom zračne plovidbe; brine o održavanju poligona tučomjera i obradi podataka tučomjera u suradnji s Odjelom za analizu podataka i unaprjeđenje sustava daljinskih mjerenja; kontrolira, pohranjuje i obrađuje podatke s radarskih centara Sjeverne Hrvatske te popunjava bazu podataka sustava obrane od tuče i daljinskih mjerenja; obavlja i druge poslove iz svoga djelokruga.
+5.3.2. Odjel za analizu podataka i unaprjeđenje sustava daljinskih mjerenja

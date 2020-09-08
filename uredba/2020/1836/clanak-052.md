@@ -1,0 +1,2 @@
+# Članak 52.
+Odjel za agrometeorološke informacije izrađuje klimatske analize i preglede vremena s posebnim osvrtom za potrebe poljodjelstva, šumarstva, ribarstva i fenologije; izrađuje agrometeorološke prognoze i biltene s ciljem informiranja javnosti o stanju vremena i upozoravanja javnosti o izvanrednim agrometeorološkim prilikama; izrađuje agroklimatske i fenološke atlase, kalendare i priopćenja za javnost; obavlja i druge poslove iz svoga djelokruga.

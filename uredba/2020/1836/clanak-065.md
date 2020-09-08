@@ -1,0 +1,6 @@
+# Članak 65.
+Služba za hidrološke studije, analize i prognoze vrši analizu i obradu opaženih, izmjerenih i prikupljenih hidroloških podataka s mreže hidroloških postaja površinskih voda; na temelju izvršene analize i verifikacije vrši ažuriranje hidrološke baze podataka, izrađuje hidrološke podloge, studije, elaborate, prikaze, biltene i hidrološke prognoze; utvrđuje promjene u hidrološkom režimu na osnovi dugogodišnjih nizova podataka, definira vodne bilance te izrađuje i dostavlja hidrološke prognoze dobivene primjenom hidroloških prognostičkih modela; sudjeluje u radu međudržavnih tijela i komisija u skladu s preuzetim obvezama vezanim za razmjenu hidroloških podataka i rezultata hidroloških modela; sudjeluje u provođenju domaćih i međunarodnih projekata iz područja hidrologije, prati nove spoznaje, predstavlja rezultate rada korisnicima te sudjeluje na domaćim i međunarodnim stručnim i znanstvenim skupovima; surađuje i koordinira svoje aktivnosti s drugim službama unutar Sektora; obavlja i druge poslove iz svoga djelokruga.
+U Službi za hidrološke studije, analize i prognoze ustrojavaju se:
+8.2.1. Odjel za hidrološke studije i analize
+8.2.2. Odjel za hidrološke prognoze.
+8.2.1. Odjel za hidrološke studije i analize
