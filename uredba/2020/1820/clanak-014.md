@@ -1,0 +1,8 @@
+# Članak 14.
+Služba za strateško planiranje i programiranje odgovorna je za izradu, izmjene te koordinaciju i sudjelovanje u pripremi i planiranju godišnjih i višegodišnjih strateških, planskih i programskih dokumenata te akcijskih planova i drugih provedbenih dokumenata za razvoj turizma i sporta, prati njihovu provedbu te analizira njihove učinke; obavlja stručne i administrativne poslove koji se odnose na pripremu sjednica stručnih vijeća i skupina; obavlja stručne i administrativne poslove koordinatora strateškog planiranja te je nadležan za poslove strateškog planiranja u Ministarstvu; pruža podršku i drugim tijelima državne uprave u pripremi specifičnih dijelova godišnjih i višegodišnjih strateških, planskih i programskih dokumenata te operativnih programa namijenjenih razvoju turizma i sporta. Služba djeluje u provedbi vrednovanja u skladu s planovima vrednovanja, zakonodavstvom, zahtjevima i propisima na nacionalnoj i EU razini; sudjeluje u radu evaluacijskih upravljačkih skupina; prati provođenje evaluacijskih preporuka; obavlja poslove izvještavanja o ostvarenju provedbe operativnih programa u svom djelokrugu; pruža podršku poslovnima koordinatora strateškog planiranja kroz izradu potrebnih analitičkih podloga za razvoj turizma i sporta.
+U Službi za strateško planiranje i programiranje ustrojavaju se:
+3.1.1.1. Odjel za programiranje, strateško planiranje i vrednovanje programa
+3.1.1.2. Odjel za financijsko planiranje i upravljanje rizicima
+3.1.1.3. Odjel za analitičke poslove i procjenu učinka.
+3.1.1.1. Odjel za programiranje, strateško
+planiranje i vrednovanje programa
