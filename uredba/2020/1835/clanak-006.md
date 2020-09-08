@@ -1,0 +1,7 @@
+## 2. SEKTOR ZA DRŽAVNU IZMJERU
+# Članak 6.
+Sektor za državnu izmjeru obavlja poslove osnovnih geodetskih radova, topografske izmjere i izrade državnih karata. Poslovi osnovnih geodetskih radova obuhvaćaju poslove uspostave, održavanja i kontrole polja stalnih točaka geodetske osnove, praćenja i nadzora procesa uvođenja geodetskih datuma na području državne izmjere, obavljanje poslova uspostavljanja i održavanja stalne Global Navigation Satellite System (u daljnjem tekstu: GNSS) - referentne mreže Republike Hrvatske (u daljnjem tekstu: CROPOS), vođenje i održavanje baze podataka stalnih točaka geodetske osnove. Poslovi topografske izmjere i izrade državnih karata obuhvaćaju poslove vezane uz obavljanje topografske izmjere, praćenje i usmjeravanje obavljanja geodetskih radova za posebne potrebe, obavljanje poslova vezanih uz izradu državnih karata te vođenje i održavanje topografskih baza podataka, obavljanje poslova za provedbu fotogrametrijskih snimanja i uporabu fotogrametrijskog materijala. Sektor sudjeluje u pripremi nacrta prijedloga zakona i prijedloga drugih propisa te u davanju stručnih mišljenja o načinu njihove provedbe, priprema odgovore na predstavke i pritužbe građana, te odgovore na upite građana.
+U Sektoru za državnu izmjeru, ustrojavaju se:
+2.1. Služba osnovnih geodetskih radova
+2.2. Služba za topografsku izmjeru i državne karte.
+2.1. Služba osnovnih geodetskih radova
