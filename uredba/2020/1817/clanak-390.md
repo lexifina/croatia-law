@@ -1,0 +1,3 @@
+# Članak 390.
+Odsjek obrazovanja maloljetnika obavlja stručne poslove koji se odnose na osnovno i srednje strukovno obrazovanje maloljetnika, donošenje programa obrazovanja, provođenje nastave, nadzor maloljetnika u pohađanju nastave, individualni rad s maloljetnikom, organizaciju i provođenje slobodnog vremena, provođenje edukativnih programa, programe dodatne nastave i pojedinačnog programa izvršavanja odgojne mjere, vođenje propisane evidencije, matične knjige i školske dokumentacije te sudjelovanje u izradi planova, statističkih i drugih izvješća, kao i suradnju s drugim obrazovnim institucijama.
+10.7.2.2. Odjel za rad i strukovnu izobrazbu maloljetnika

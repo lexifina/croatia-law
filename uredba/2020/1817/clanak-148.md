@@ -1,0 +1,3 @@
+# Članak 148.
+Služba za unutarnju kontrolu prati i nadzire svrhovitost, učinkovitost, pravilnost i zakonitost rada i postupanja kaznenih tijela i Centra za izobrazbu; obavlja nadzor nad pravilnosti i zakonitosti rada i postupanja kaznenih tijela i Centra za izobrazbu; postupa povodom predstavki i pritužbi zatvorenika te državnih službenika i namještenika kaznenih tijela i Centra za izobrazbu; izrađuje prijedloge odgovora i očitovanja na upite novinara i građana iz djelokruga Uprave te obavlja i druge poslove iz svoga djelokruga.
+10.2.2. Sektor za financije, gospodarske aktivnosti i rad zatvorenika

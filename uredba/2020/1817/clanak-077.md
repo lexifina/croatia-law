@@ -1,0 +1,3 @@
+# Članak 77.
+Odjel za kazneno procesno pravo obavlja upravne i stručne poslove vezane za izradu nacrta prijedloga zakona i prijedloga drugih propisa iz područja kaznenog procesnog prava, analizira i prati primjenu navedenih propisa, u okviru svoga djelokruga sudjeluje u radu institucija i drugih tijela Europske unije i Vijeća Europe, analizira prijedloge pravnih akata Europske unije i Vijeća Europe iz svoga djelokruga, analizira i daje prijedloge za usklađenje propisa iz svoga djelokruga s pravom Europske unije i Vijeća Europe, izrađuje stručna mišljenja u vezi nacrta prijedloga propisa iz drugih područja prava u odnosu na kazneno procesno pravo te obavlja i druge poslove iz svoga djelokruga.
+5.1.2.2. Odjel za maloljetničko pravo i pravo osoba s duševnim smetnjama

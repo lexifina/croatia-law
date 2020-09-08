@@ -1,0 +1,3 @@
+# Članak 297.
+Pododsjek financijsko-knjigovodstvenih poslova obavlja financijsko-planske poslove, poslove knjigovodstva, materijalnog poslovanja i nabave, prodavaonice za zatvorenike, pologa, obračuna i isplata naknada za rad osobama lišenih slobode, procjene i prodaje predmeta nastalih radom zatvorenika, informatike, osposobljavanja za obavljanje poslova i korištenje sredstava zaštite na radu osoba lišenih slobode, strukovnu izobrazbu i rad zatvorenika iz poslova pripreme i podjele hrane, vođenje evidencija o osobama lišenih slobode te druge stručne poslove iz svoga djelokruga.
+10.6.4.2. Odjel tretmana

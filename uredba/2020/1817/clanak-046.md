@@ -1,0 +1,3 @@
+# Članak 46.
+Odjel za stalne sudske tumače obavlja upravne i stručne poslove u postupcima odlučivanja o imenovanju i razrješenju te odlučivanja o drugim statusnim pitanjima stalnih sudskih tumača, daje odobrenja stranim stalnim sudskim tumačima za pružanje usluga na privremenoj i povremenoj osnovi u Republici Hrvatskoj, vodi i ažurira evidencije stalnih sudskih tumača, dostavlja podatke i daje očitovanja u vezi s isplatom nagrada i naknada troškova stalnim sudskim tumačima, sudjeluje u izradi nacrta i prijedloga propisa koji se odnose na stalne sudske tumače, daje mišljenja o načinu provedbe ovih propisa te osigurava njihovu primjenu. Odjel obavlja i druge poslove u okviru svoga djelokruga.
+3.3. Sektor osiguranja pravosudnih tijela

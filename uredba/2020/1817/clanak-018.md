@@ -1,0 +1,3 @@
+# Članak 18.
+Odjel za pravne poslove izrađuje nacrte općih akata Ministarstva, daje očitovanja na pravna pitanja koja nisu u djelokrugu ostalih ustrojstvenih jedinica Ministarstva, obavlja poslove vezane uz isplatu naknada troškova radi povrede prava na suđenje u razumnom roku, troškova delegacija, plaćanja predujmova te povrata više plaćenih javnih davanja iz nadležnosti Ministarstva. Vodi evidenciju i postupak naplate dospjelih potraživanja po ugovorima o otkupu stanova na kojima postoji stanarsko pravo, izdaje suglasnosti i zaključuje anekse osnovnom ugovoru, brine o pečatima i žigovima s grbom Republike Hrvatske i natpisnim pločama Ministarstva.
+2.3.1.2. Odjel za pisarnicu

@@ -1,0 +1,3 @@
+# Članak 28.
+Služba za informatičku potporu organizira neposrednu informatičku potporu korisnicima u svakodnevnom radu (prva linija podrške), surađuje s pružateljima usluga za pomoć korisnicima kod kvarova i zastoja u radu i koordinira servisiranje informatičke opreme, pruža administrativnu potporu drugim službama Sektora, organizira vođenje evidencija informatičke opreme, organizira raspodjelu informatičke opreme u Ministarstvu i prema pravosudnim i kaznenim tijelima. Organizira i koordinira informatičku edukaciju korisnika informacijskog sustava pravosuđa. Sudjeluje u pripremama specifikacija za nabavu informatičke opreme i usluga te obavlja i druge poslove iz svoga djelokruga.
+2.5. Sektor za pravosudnu infrastrukturu

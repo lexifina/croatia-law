@@ -1,0 +1,7 @@
+# Članak 16.
+Sektor za pravne, opće i tehničke poslove izrađuje nacrte općih akata Ministarstva, daje očitovanja na pravna pitanja koja nisu u djelokrugu ostalih ustrojstvenih jedinica Ministarstva, obavlja poslove vezane uz isplatu naknada troškova radi povrede prava na suđenje u razumnom roku, troškova delegacija, plaćanja predujmova te povrata više plaćenih javnih davanja iz nadležnosti Ministarstva. Vodi evidenciju i postupak naplate dospjelih potraživanja po ugovorima o otkupu stanova na kojima postoji stanarsko pravo, izdaje suglasnosti i zaključuje anekse osnovnom ugovoru. Služba organizira poslove pisarnice, pismohrane, sudjeluje u izradi nacrta općih akata Ministarstva iz područja uredskog poslovanja, obavlja poslove zaštite na radu, protupožarne zaštite i obrambeno-sigurnosne poslove, poslove telefonske centrale, vodi evidenciju ugovora iz svoga djelokruga te brine o pečatima i žigovima s grbom Republike Hrvatske i natpisnim pločama Ministarstva, obavlja stručne i tehničke poslove vezane za organizaciju i koordinaciju prijevoza dužnosnika i službenika Ministarstva, druge upravno-stručne poslove, poslove redovitog tekućeg održavanja, poslove čišćenja poslovnih prostora Ministarstva, poslove vezane uz čajnu kuhinju Ministarstva te druge poslove iz svoga djelokruga.
+U Sektoru za pravne, opće i tehničke poslove ustrojavaju se:
+2.3.1. Služba za pravne poslove i uredsko poslovanje
+2.3.2. Služba za opće i tehničke poslove
+2.3.3. Služba za odnose s javnošću.
+2.3.1. Služba za pravne poslove i uredsko poslovanje

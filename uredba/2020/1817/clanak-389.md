@@ -1,0 +1,3 @@
+# Članak 389.
+Odsjek tretmana obavlja stručne poslove koji se odnose na predlaganje, provedbu i praćenje pojedinačnih programa izvršavanja odgojne mjere i sigurnosnih mjera izrečenih uz odgojnu mjeru, dijagnostiku maloljetnika, razvoj i provođenje rehabilitacijskih programa za maloljetnike, psihološko savjetovanje i tretmane maloljetnika, suradnju s drugim institucijama, organiziranje slobodnog vremena maloljetnika, izradu stručnog mišljenja u vezi s tijekom izvršavanja odgojne mjere i sigurnosne mjere, vođenje propisanih evidencija i druge stručne poslove.
+10.7.2.1.2. Odsjek obrazovanja maloljetnika

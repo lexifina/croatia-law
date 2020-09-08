@@ -1,0 +1,6 @@
+# Članak 131.
+Služba za upravljanje ljudskim potencijalima obavlja upravne i stručne poslove koji se odnose na statusna i radno-pravna pitanja službenika i namještenika Ministarstva, u suradnji s drugim unutarnjim ustrojstvenim jedinicama obavlja poslove planiranja, upravljanja i razvoja ljudskih potencijala Ministarstva i Odbora za državnu službu, kao i unosa podataka u Registar zaposlenih u javnom sektoru; vodi osobne očevidnike državnih službenika i namještenika Ministarstva te Odbora za državnu službu; koordinira poslove izbora kandidata u postupcima javnih natječaja i oglasa, pripremu prijedloga rješenja o prijmu i rasporedu službenika i namještenika u skladu s propisima te pripremu ostalih rješenja iz područja službeničkih i radno-pravnih odnosa; prati statusna stanja dužnosnika, državnih službenika i namještenika; obavlja poslove u vezi premještaja državnih službenika i namještenika, surađuje s drugim unutarnjim ustrojstvenim jedinicama Ministarstva te obavlja i druge poslove iz svoga djelokruga.
+U Službi za upravljanje ljudskim potencijalima u Ministarstvu ustrojavaju se:
+8.3.1.1. Odjel za ljudske potencijale u Ministarstvu;
+8.3.1.2. Odjel za službene evidencije.
+8.3.1.1 Odjel za ljudske potencijale u Ministarstvu

@@ -1,0 +1,3 @@
+# Članak 169.
+Odjel za strateško planiranje, razvoj i analitiku administrira i unapređuje probacijski informacijski sustav i druge informatičke sustave kojima se koristi probacija. Evidentira, obrađuje i analizira podatke vezano uz rad probacijskih ureda; izrađuje izvješća za potrebe Sektora za probaciju. Proučava i prati najnovija dostignuća vezana uz elektroničke alate koji se primjenjuju na osobe uključene u probaciju. Izrađuje prijedloge programa izobrazbe probacijskih službenika i vanjskih suradnika iz djelokruga Odjela; organizira izradu i vodi evidenciju službenih iskaznica probacijskih službenika, te obavlja i druge poslove iz svoga djelokruga.
+10.3.1.2. Služba za elektronički nadzor

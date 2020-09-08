@@ -1,0 +1,3 @@
+# Članak 425.
+Odjel za provedbu postupaka javne nabave financiranih iz EU i ostalih izvora nabavlja robu, radove i usluge vezano za sve EU projekte i projekte financirane iz ostalih izvora. Odjel u suradnji s nadležnim ustrojstvenim jedinicama Ministarstva priprema natječajnu dokumentaciju za postupke javne nabave, prikuplja i obrađuje pristigle ponude te priprema ugovore na temelju provedenih postupaka javne nabave. Odjel prikuplja i obrađuje dokumentaciju i obavlja sve poslove vezane za njeno upućivanje prema Državnoj komisiji za kontrolu postupaka javne nabave te obavlja i druge poslove iz svoga djelokruga.
+14.2. Služba za praćenje izvršavanja postupaka javne nabave

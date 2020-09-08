@@ -1,0 +1,3 @@
+# Članak 43.
+Odjel za stečajne upravitelje i povjerenike obavlja upravne i stručne poslove koji se odnose na prvostupanjske postupke utvrđivanja uvjeta za upis na liste stečajnih upravitelja i povjerenika, provedbu postupaka za upis na liste i brisanje s lista, unos i ažuriranje podataka koji se upisuju na liste, vođenje i objavu evidencija stečajnih upravitelja, sudjeluje u izradi prijedloga propisa koji se odnose na statusna pitanja stečajnih upravitelja i povjerenika, daje mišljenja o načinu provedbe ovih propisa te sudjeluje u osiguranju njihove primjene. Odjel obavlja i druge poslove iz svoga djelokruga.
+3.2.3. Služba za stalne sudske vještake, stalne sudske procjenitelje i stalne sudske tumače

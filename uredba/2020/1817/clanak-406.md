@@ -1,0 +1,3 @@
+# Članak 406.
+Služba za nadzor nad radom javnobilježničke službe zaprima i analizira izvješća o radu javnobilježničkih ureda. Predlaže godišnji plan nadzora nad obavljanjem javnobilježničke službe, provodi nadzor te izrađuje zapisnike nakon provedenog nadzora. Izrađuje godišnja izvješća o nadzorima provedenim tijekom godine. Izrađuje prijedloge odluka kojima se javnobilježničkoj službi daju mišljenja o načinu provedbe propisa za zakonito i pravilno obavljanje poslova javnobilježništva. Ispituje predstavke građana na rad javnobilježničke službe. Obavlja i druge poslove u okviru svoga djelokruga.
+11.2. Sektor upravne inspekcije

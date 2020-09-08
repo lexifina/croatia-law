@@ -1,0 +1,3 @@
+# Članak 19.
+Odjel za pisarnicu za potrebe Ministarstva prima, otvara, otprema i dostavlja poštu, urudžbira spise i akte te ih dostavlja u unutarnje ustrojstvene jedinice, vodi urudžbeni zapisnik, vodi upisnik predmeta upravnog postupka, arhivira i čuva podatke sukladno propisima i općim aktima o uredskom poslovanju i informacijskoj sigurnosti, administrira program elektroničkog uredskog poslovanja, vodi elektroničku kontaktnu točku, arhivira, čuva i izlučuje registraturnu građu, po potrebi vraća u rad ili na uvid arhivirane predmete, prati propise iz područja zaštite i čuvanja registraturne i arhivske građe, surađuje s Hrvatskim državnim arhivom, obavlja i druge poslove iz svoga djelokruga.
+2.3.2. Služba za opće i tehničke poslove

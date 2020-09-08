@@ -1,0 +1,3 @@
+# Članak 259.
+Odjel zdravstvene zaštite zatvorenika pruža zdravstvenu zaštitu i liječenje zatvorenicima i maloljetnicima, nadzire higijenu i čistoću u prostorijama za smještaj zatvorenika i maloljetnika, kuhinji i pomoćnim prostorijama kuhinje, sudjeluje u sastavljanju jelovnika za zatvorenike i maloljetnike, sudjeluje u provedbi pojedinačnog programa izvršavanja kazne zatvora, vodi evidencije o zatvorenicima i maloljetnicima, obavlja i druge poslove iz svoga djelokruga. Odjel zdravstvene zaštite zatvorenika po potrebi obavlja poslove iz svoje nadležnosti i za Zatvor u Puli-Pola.
+10.5.6.6. Pododsjek dežurstva
