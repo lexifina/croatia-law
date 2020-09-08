@@ -1,0 +1,7 @@
+## 2. GLAVNO TAJNIŠTVO
+# Članak 4.
+Glavno tajništvo poduzima mjere za osiguranje učinkovitosti u radu i tehnički usklađuje rad unutarnjih ustrojstvenih jedinica; izrađuje godišnji plan rada i prati njegovo ostvarivanje; koordinira predlaganje planova zapošljavanja, osposobljavanja i stručnog usavršavanja državnih službenika, provodi postupke zapošljavanja, prati provedbu mjera planiranja i upravljanja ljudskim potencijalima Ministarstva te napredovanja i nagrađivanja; izvršava poslove zaštite na radu, protupožarne zaštite i pripreme zdravstvenih pregleda državnih službenika i namještenika Ministarstva; koordinira poslove vezane uz sustav upravljanja kvalitetom sukladno važećoj normi; opće, tehničke i druge pomoćne poslove; nadzire rad državnih službenika i namještenika; skrbi o urednom i pravilnom korištenju imovine, sredstava za rad, opremanju prostora Ministarstva, voznom parku i korištenju automobila, njihovoj tehničkoj ispravnosti, načinu održavanja sredstava i opreme; organizira prijevoz dužnosnika i službenika Ministarstva; postupa po predstavkama i pritužbama građana iz djelokruga; brine da svaki rashod bude opravdan stvarnom potrebom i potvrđen prethodnom kontrolom; obavlja i druge poslove u okviru djelokruga.
+U Glavnom tajništvu ustrojavaju se:
+2.1. Sektor za ljudske potencijale i stručne poslove
+2.2. Sektor za uredsko poslovanje i tehničke poslove.
+2.1. Sektor za ljudske potencijale i stručne poslove

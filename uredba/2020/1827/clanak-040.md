@@ -1,0 +1,3 @@
+# Članak 40.
+Služba za katalogizaciju, standardizaciju i certifikaciju obavlja upravne i stručne poslove vezane uz katalogizaciju standarda, standardizaciju i certifikaciju programskih rješenja; upravlja i uređuje Katalog informacijskih standarda u zdravstvu Republike Hrvatske; provodi provjeru programskih rješenja koja se koriste u zdravstvenoj informacijskoj infrastrukturi Republike Hrvatske u smislu kontrole usklađenosti s propisanim standardima i specifikacijama na temelju postavljenih mjerila uspješnosti; podnosi izvješća o učinjenom u kvantitativnom i kvalitativnom smislu; sudjeluje u planiranju državnog proračuna; obavlja i druge poslove iz djelokruga.
+6.2.2. Služba za implementaciju i sigurnost
