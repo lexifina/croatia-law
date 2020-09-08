@@ -1,0 +1,1 @@
+Na temelju članka 54. stavka 1. Zakona o sustavu državne uprave (»Narodne novine«, broj 66/19), članka 37. stavka 1. Zakona o ustrojstvu i djelokrugu tijela državne uprave (»Narodne novine«, broj 85/20) i članka 65. Zakona o vanjskim poslovima (»Narodne novine«, br. 48/96, 72/13, 127/13, 39/18 i 98/19), Vlada Republike Hrvatske je na sjednici održanoj 27. kolovoza 2020. donijela
