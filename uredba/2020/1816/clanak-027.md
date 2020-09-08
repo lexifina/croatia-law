@@ -1,0 +1,3 @@
+# Članak 27.
+Odjel za upravljanje voznim parkom obavlja stručne i tehničke poslove koji se odnose na održavanje službenih automobila, obavlja prijevoz državnih dužnosnika i službenika Ministarstva, vodi evidenciju o korištenju i održavanju službenih automobila, sudjeluje u pripremi općih i pojedinačnih akata iz svoga djelokruga, predlaže mjere za ujednačavanje i standardiziranje procesa rada iz svoga djelokruga, priprema podatke iz svoga djelokruga za stručne podloge za donošenje poslovnih odluka Ministarstva, izrađuje izvješća iz područja rada, te obavlja i druge poslove iz svoga djelokruga.
+2.3.4. Služba za odnose s javnošću i protokol
