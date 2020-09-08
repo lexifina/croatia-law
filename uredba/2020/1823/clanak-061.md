@@ -1,0 +1,3 @@
+# Članak 61.
+Odjel za planiranje i izradu plana nabave obavlja stručne poslove vezane uz aktivnosti za izradu godišnjeg plana nabave na temelju potreba unutarnjih ustrojstvenih jedinica Ministarstva; izrađuje plan nabave sukladno potrebama i proračunu Ministarstva; izrađuje izmjene i dopune plana nabave; objavljuje plan nabave te izmjene i dopune plana nabave u Elektroničkom oglasniku javne nabave koordinira suradnju sa središnjim tijelom državne uprave nadležnim za poslove središnje javne nabave; u suradnji s drugim unutarnjim ustrojstvenim jedinicama utvrđuje i analizira potrebe Ministarstva po svim nabavnim kategorijama središnje javne nabave te obavlja i druge poslove iz svoga djelokruga.
+5.2.1.2. Odjel za praćenje i analizu izvršenja plana nabave

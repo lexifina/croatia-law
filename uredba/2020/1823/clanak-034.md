@@ -1,0 +1,6 @@
+# Članak 34.
+Služba za upravljanje imovinom obavlja poslove upravljanja uredskim i poslovnim prostorima Ministarstva koji se odnose na odabir, pripremu ugovora o kupnji ili zakupu, preuzimanje i održavanje poslovnih prostora; brine o infrastrukturi (telefonskoj, komunikacijskoj, električnoj, grijanju i hlađenju i ostalim infrastrukturnim potrebama), opremanju namještajem i ostalom uredskom opremom, vodi obvezne očevidnike (bazu) poslovnih prostora u vlasništvu/najmu Ministarstva te očevidnike o obavljenim poslovima i utrošenim sredstvima za poslovne prostore; upravlja voznim parkom i pomoćno-tehničkim poslovima vezanim uz vozni park, a naročito o održavanju, raspoređivanju i servisiranju službenih automobila; prati njihovo korištenje i vodi odgovarajuće evidencije; vodi materijalnu evidenciju o nabavi i raspodjeli uredskog materijala i sitnog inventara; pruža ugostiteljske usluge dužnosnicima, službenicima i namještenicima Ministarstva te sudionicima stručnih i radnih skupova koji se održavaju u prostorijama Ministarstva, te obavlja i druge poslove iz svoga djelokruga.
+Za obavljanje poslova Službe za upravljanje imovinom, ustrojavaju se:
+4.3.2.1. Odjel za poslovne prostore, tehničke i pomoćne poslove
+4.3.2.2. Odjel za vozni park.
+4.3.2.1. Odjel za poslovne prostore, tehničke i pomoćne poslove

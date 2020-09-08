@@ -1,0 +1,3 @@
+# Članak 14.
+Odjel za službeničke odnose obavlja poslove u vezi s pravima, obvezama i odgovornostima državnih službenika i namještenika i izrađuje odgovarajuća rješenja i druge akte u svim područjima službenih i radnih odnosa osim prijma u državnu službu, raspoređivanja, premještaja i prestanka državne službe; obavlja pripremne radnje potrebne za pokretanje postupka zbog povrede službene dužnosti; obavlja poslove koji se odnose na ocjenjivanje i sustav napredovanja; priprema plan godišnjih odmora; prati statusna stanja dužnosnika, državnih službenika i namještenika, priprema odgovore i dokumentaciju vezano uz žalbene postupke i sporove iz svoga djelokruga, te obavlja druge poslove iz svoga djelokruga.
+4.1.1.2. Odjel za planiranje i zapošljavanje

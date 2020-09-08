@@ -1,0 +1,3 @@
+# Članak 62.
+Odjel za praćenje i analizu izvršenja plana nabave provjerava usklađenost zahtjeva za javnu nabavu s donesenim planom nabave i proračunom Ministarstva; prati i analizira izvršenja plana nabave; prati i analizira izvršenje izmjene i dopune plana nabave; izrađuje godišnje izvješće o javnoj nabavi putem Elektroničkog oglasnika javne nabave; sudjeluje u izradi izjave o fiskalnoj odgovornosti; surađuje s unutarnjim ustrojstvenim jedinicama Ministarstva u svrhu pravovremenog izvršenja plana nabave i izmjena i dopuna plana nabave; koordinira suradnju sa središnjim tijelom državne uprave nadležnim za poslove središnje javne nabave po svim nabavnim kategorijama te obavlja i druge poslove iz svoga djelokruga.
+5.2.2. Služba za provedbu postupaka javne nabave

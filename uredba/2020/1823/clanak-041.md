@@ -1,0 +1,6 @@
+# Članak 41.
+Služba za rješavanje prigovora iz ostalih fondova namijenjenih poljoprivredi i ribarstvu obavlja poslove postupanja po prigovorima korisnika u području izravnih plaćanja, IAKS mjera ruralnog razvoja, mjera uređenja ili organizacije tržišta poljoprivrednih proizvoda te ribarstva; izrađuje prijedloge akata u vezi s prigovorima i tužbama koje se odnose na odabir ili provedbu operacija sufinanciranih iz EPFRR, EPJF i Europskog fonda za pomorstvo i ribarstvo; prati relevantni zakonski okvir i obavlja pregled popratne dokumentacije vezano uz predmet prigovora; komunicira i razmjenjuje informacije s tijelima u sustavu vezano uz postupanje po prigovorima; priprema prijedloge izvješća i odgovora EK; doprinosi aktivnostima vezanima uz pripremu i primjenu regulatornog i provedbenog okvira za upravljanje ESI i ostalim fondovima te obavlja druge poslove iz svoga djelokruga.
+Za obavljanje poslova Službe za rješavanje prigovora iz ostalih fondova namijenjenih poljoprivredi i ribarstvu, ustrojavaju se:
+4.4.2.1. Odjel za rješavanje prigovora u području izravnih plaćanja, IAKS mjera te mjera uređenja tržišta
+4.4.2.2. Odjel za rješavanje prigovora u području ribarstva.
+4.4.2.1. Odjel za rješavanje prigovora u području izravnih plaćanja, IAKS mjera te mjera uređenja tržišta

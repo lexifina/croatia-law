@@ -1,0 +1,7 @@
+# Članak 244.
+Služba za akvakulturu - Područna jedinica Zadar obavlja upravne i druge stručne poslove koji se odnose na uzgoj riba i drugih vodenih organizama; organizira i provodi ispite za stjecanje stručne osposobljenosti za uzgoj, te vodi upisnik o izdanim uvjerenjima; izdaje i vodi upisnik o izdanim povlasticama za uzgoj ribe i drugih vodenih organizama; prikuplja, pohranjuje i analizira podatke o uzgoju; vodi brigu o ukupnoj statistici u akvakulturi i surađuje s nacionalnim i međunarodnim organizacijama koje se bave statistikom u akvakulturi; predlaže mjere za racionalno, odgovorno i održivo gospodarenje u akvakulturi; predlaže normativna rješenja za poticanje uzgoja, prometa i prerade uzgojene ribe i drugih vodenih organizama; sudjeluje u provedbi strukturnih i tržišnih mjera iz svoga djelokruga; sudjeluje u izradi programa razvojne strategije akvakulture i prati njegovu provedbu iz svoga djelokruga; vodi brigu o prilagodbi propisa i općih akata iz svoga djelokruga; daje inicijativu za rješavanje pojedinih pitanja razvoja akvakulture; koordinira poslove međunarodne suradnje iz djelokruga rada Službe; surađuje sa stručnim i znanstvenim ustanovama iz područja akvakulture, sudjeluje u radu tijela EK i regionalnih tijela (GFCM, ICCAT), te obavlja i druge poslove iz svoga djelokruga.
+U Službi za akvakulturu - Područna jedinica Zadar, ustrojavaju se sljedeće ispostave sa samostalnim izvršiteljima:
+Ispostava Split
+Ispostava Zadar
+Ispostava Zagreb.
+12.4. Sektor za nadzor i kontrolu u ribarstvu
