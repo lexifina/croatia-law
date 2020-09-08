@@ -1,0 +1,3 @@
+# Članak 143.
+9.1.1.2. Odjel za pripremu projekata
+Predlaže i prati međunarodne projekte i projekte iz Europskih strukturnih i investicijskih fondova (ESI) te projekte na području razminiranja; prati i usmjerava proces pripreme i provedbe projekata; predlaže izradu projekata; podnosi izvješće o napretku u provedbi projekata; uspostavlja kontakt i surađuje s drugim tijelima državne uprave na poslovima pripreme i provedbe projekta; uspostavlja i održava kontakt s međunarodnim partnerima; predstavlja projekte u tuzemnim i inozemnim okruženjima te obavlja druge poslove iz svoje nadležnosti u suradnji s nadležnim ustrojstvenim jedinicama Ministarstva.

@@ -1,0 +1,8 @@
+# Članak 813.
+17.7. Služba zajedničkih i upravnih poslova
+Obavlja poslove u svezi rješavanja imovinsko-pravnih odnosa Policijske uprave; obrađuje predmete u sudskim postupcima koji se vode pred nadležnim sudovima; izrađuje upravne akte u svezi radnih odnosa djelatnika Policijske uprave; izravno se uključuje u rješavanje egzistencijalnih problema djelatnika Policijske uprave stradalih u službi ili povodom obavljanja službe; obavlja računovodstvene poslove, organizira godišnji popis sredstava Policijske uprave; razrađuje financijski plan Policijske uprave i izrađuje izvješća o financijskom poslovanju za potrebe ustrojstvenih jedinica Ministarstva; obavlja poslove ekonomata, nabave i uskladištenja određenih roba; skrbi o tekućem održavanju objekata i opreme; razvija, usklađuje, izrađuje, nadzire, planira i održava tehnički sustav za potrebe Policijske uprave; surađuje s drugim ustrojstvenim jedinicama Policijskih uprava; obavlja poslove prijavništvo, osobnih i prometnih isprava, odobrenja za nabavu i registraciju oružja te izdavanja isprava u svezi oružja građana, vodi upravni postupak u svezi utvrđivanja, stjecanja i prestanka hrvatskog državljanstva, kretanja, boravka i rada stranaca; predlaže poduzimanje odgovarajućih mjera za otklanjanje uočenih nedostataka u provedbi propisa; obavlja uredske poslove za potrebe Policijske uprave; obavlja i druge poslove iz svoje nadležnosti.
+Za obavljanje poslova iz djelokruga Službe zajedničkih i upravnih poslova ustrojavaju se:
+17.7.1. Odjel za pravne poslove i ljudske potencijale
+17.7.2. Odjel materijalno-financijskih poslova
+17.7.3. Odjel za tehniku
+17.7.4. Odjel za upravne poslove.

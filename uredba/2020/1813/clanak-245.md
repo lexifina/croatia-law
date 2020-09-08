@@ -1,0 +1,6 @@
+# Članak 245.
+12.1. Sektor za razvoj i upravljanje ljudskim potencijalima
+Obavlja stručne i upravne poslove vezane za razvoj i upravljanje ljudskim potencijalima; obavlja poslove planiranja i zapošljavanja novih zaposlenika, praćenja karijera, razvija, predlaže i osigurava provedbu procesa zapošljavanja, izradu planova prijma i praćenje njihova ostvarenja, razvija i provodi organizacijsko-metodološke postupke u procesima planiranja, razvoja i upravljanja zaposlenih, obavlja stručne i upravne poslove u svezi pitanja iz radnih odnosa zaposlenika Ministarstva. Kreira metodologiju procesa upravljanja karijerom, napredovanja, promicanja u službi, vrednovanja rada. Planira i analizira potrebe obrazovanja policijskih službenika i drugih zaposlenih, stručnog usavršavanja, osposobljavanja i cjeloživotnog procesa učenja. Nadzire rad policijskih uprava i pruža im stručnu pomoć u obavljanju poslova iz djelokruga rada Sektora, koordinira radom službi unutar Sektora, surađuje s drugim ustrojstvenim jedinicama u sjedištu vezano uz područje ljudskih potencijala.
+Za obavljanje poslova iz djelokruga rada Sektora za upravljanje ljudskim potencijalima ustrojavaju se sljedeće službe:
+12.1.1. Služba za planiranje i razvoj ljudskih potencijala
+12.1.2. Služba za upravljanje ljudskim potencijalima.

@@ -1,0 +1,3 @@
+# Članak 193.
+9.10.2.3. Odjel elektroenergetike
+Obavlja poslove tehničkog nadgledanja elektroenergetskih uređaja i instalacija; obavlja tehničko nadgledanje održavanosti postrojenja kao i opasnosti od ostalih uzročnika paljenja; obavlja tehničko nadgledanje nad dokumentacijom iz područja elektroenergetskih uređaja i instalacija, te ostalih uzročnika paljenja; sudjeluje u tehničkom nadgledanju aktivnosti IN/OD/PO; izrađuje stručna mišljenja o primjeni propisa na postrojenja; sudjeluje u provedbi edukacijskih programa; sudjeluje u izradi akata koji se odnose na obavljanje poslova Odjela; sudjeluje u radu nacionalnih i međunarodnih tehničkih odbora; obavlja i druge poslove iz svojeg djelokruga.

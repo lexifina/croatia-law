@@ -1,0 +1,3 @@
+# Članak 225.
+10.5. Služba za digitalnu forenziku
+Obavlja poslove vještačenja digitalnih zapisa na računalima, telefonima i svim medijima za pohranu digitalnih podataka, poslove vezane uz sustav upravljanja kvalitetom te uvođenje novih i unaprjeđenje i razvoj postojećih metoda vještačenja; poslove vezane uz izradu zakonskih i podzakonskih propisa iz djelokruga rada Službe; poslove vezane uz izradu i provedbu programa stručne osposobljenosti djelatnika Centra; poslove pružanja stručne pomoći ustrojstvenim jedinicama Ministarstva u obavljanju poslova iz njihovog djelokruga te sudjeluje u procesu unaprjeđenja rada.

@@ -1,0 +1,6 @@
+# Članak 323.
+14.2.3. Služba za prihvat i smještaj tražitelja međunarodne zaštite
+Organizira, usmjerava i koordinira rad na području prihvata i smještaja tražitelja međunarodne zaštite te uzimanje zahtjeva za međunarodnu zaštitu, provodi upravni postupak iz ovog područja, sudjeluje u izradi propisa iz navedenog područja i usklađivanju tih propisa s pravnom stečevinom Europske unije; sudjeluje u radu radnih i stručnih skupina Europske unije iz područja svoje nadležnosti; sudjeluje u izradi prijedloga nacionalnih stajališta o zajedničkim politikama Europske unije iz područja svoje nadležnosti; sudjeluje u pripremama predsjedanja Republike Hrvatske Vijećem Europske unije iz područja svoje nadležnosti; sudjeluje u radu Europskog potpornog ureda za azil, sudjeluje u izradi projekata za korištenje sredstava Europske unije iz navedenog područja i provedbi projekata; surađuje s ostalim ustrojstvenim jedinicama ovog Ministarstva, tijelima državne vlasti, međunarodnim i nevladinim organizacijama u području prihvata i smještaja tražitelja međunarodne zaštite.
+Za obavljanje poslova iz djelokruga rada Službe za prihvat i smještaj tražitelja međunarodne zaštite ustrojavaju se sljedeći odjeli:
+14.2.3.1. Prihvatilište za tražitelje međunarodne zaštite u Zagrebu
+14.2.3.2. Prihvatilište za tražitelje međunarodne zaštite u Kutini.

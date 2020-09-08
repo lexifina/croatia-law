@@ -1,0 +1,6 @@
+# Članak 186.
+9.10. Sektor za eksplozivne atmosfere
+Provodi tehničko nadgledanje postrojenja koje obuhvaća klasifikaciju prostora, instalacije i uređaje namijenjene za rad u prostorima ugroženima eksplozivnom atmosferom, održavanost postrojenja kao i opasnost od ostalih uzročnika paljenja; provodi tehničko nadgledanje aktivnosti koje obuhvaća popravak, instaliranje i održavanje uređaja i instalacija namijenjenih za rad u prostorima ugroženima eksplozivnom atmosferom; provodi tehničko nadgledanje nad dokumentacijom za postrojenja i uređaje namijenjene za rad u prostorima ugroženima eksplozivnom atmosferom; priprema stručna mišljenja o primjeni propisa na postrojenja i o potvrđivanju uređaja i proizvoda namijenjenih za rad u prostorima ugroženima eksplozivnom atmosferom; obavlja ispitivanja, ocjenjivanja i potvrđivanja sukladnosti (certifikaciju) uređaja i opreme, zaštitnih sustava i komponenata namijenjenih eksplozivnoj atmosferi, plinova, para, maglica i prašine; obavlja certifikaciju eksplozivnih tvari; obavlja edukaciju stručnog osoblja; rukovodi i koordinira radom službi; obavlja i druge poslove iz svojeg djelokruga.
+Za obavljanje poslova iz djelokruga rada Sektora za eksplozivne atmosfere ustrojavaju se sljedeće službe:
+9.10.1. Služba za certifikaciju i ispitivanje
+9.10.2. Služba za tehničko nadgledanje.

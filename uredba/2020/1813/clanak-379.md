@@ -1,0 +1,3 @@
+# Članak 379.
+1.7.2.1. Odjel financijskih poslova
+Uvodi račune u pomoćne knjige, kontrolira ispravnost i ovjeru dokumenata, svrstava ih prema pozicijama financijskog plana i kontira te kompletira dokumentaciju uz njih; fakturira usluge osiguranja pratnje i slično; obavlja isplatu naknada djelatnicima, isplatu kod sitnih nabava i drugo; raspoređuje već zadužena osnovna sredstva i sitni inventar na mjesto troška; evidentira, obrađuje i kontrolira poslovanje s plativim tiskanicama, mandatnim kaznama, usluge kantina; unose sve podatke potrebne za obračun i isplatu plaća; razrađuje financijski plan i prati njegovo izvršenje; izrađuje izvješća i analize za potrebe Policijske uprave, ustrojstvenih jedinica Ministarstva i drugih tijela.

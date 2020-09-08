@@ -1,0 +1,3 @@
+# Članak 499.
+4.5.2.2. Odjel ratnih zločina
+Analizira stanje i pojavne oblike kaznenih djela protiv čovječnosti i međunarodnog prava na području policijske uprave; utvrđuje najpogodnije oblike rada na sprječavanju počinjenja i otkrivanju ovih kaznenih djela; izravno organizira i provodi kriminalističke obrade; poduzima mjere i radnje u pronalaženju tragova i dokaza te hvatanja počinitelja ovih kaznenih djela; surađuje s drugim ustrojstvenim jedinicama policijske uprave; obavlja nadzor nad radom policijskih postaja iz svoje nadležnosti i pruža im stručnu pomoć u izvršenju njihovih zadaća; obavlja i druge poslove iz svoga područja rada.

@@ -1,0 +1,3 @@
+# Članak 124.
+8.6.1. Odsjek za kriptološku sigurnost i zaštitu podataka
+Provodi izravno 24-satno kriptološko osiguranje i zaštitu sveukupnog brzojavnog prometa za potrebe svih ustrojstvenih jedinica Ministarstva u sjedištu putem stalnih brzojavnih službi; sigurnosno uništavanje kriptološke osnovice i materijala nastalih u radu; evidentira dojave Help Deska te na osnovu njih intervenira; vodi propisane evidencije na temelju zakonskih i podzakonskih akata iz svog djelokruga rada; koordinira i usmjerava rad službenika kriptološke sigurnosti u policijskim upravama i po potrebi obavlja poslove operativnog dežurstva.

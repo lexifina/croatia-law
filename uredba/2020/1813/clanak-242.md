@@ -1,0 +1,3 @@
+# Članak 242.
+11.2.3. Služba za projekte i programe Europske unije te druge inozemne izvore financiranja
+Pruža stručnu pomoć kod izrade projektne dokumentacije za projekte koji se financiraju iz sredstava Europske unije te drugih inozemnih izvora za područje unutarnjih poslova; prati provedbu projekata i pruža podršku u njihovoj provedbi; prati natječaje za projekte i druge instrumente financiranja Europske unije te o njima obavještava nadležne ustrojstvene jedinice; koordinira i ostvaruje suradnju s institucijama Europske unije, hrvatskim, međunarodnim i stranim institucijama i organizacijama; planira i organizira edukacije za korištenje sredstava iz projekata i programa Europske unije; izrađuje izvješća za programe i projekte iz područja unutarnjih poslova.

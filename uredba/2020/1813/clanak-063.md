@@ -1,0 +1,8 @@
+# Članak 63.
+8.3.2. Sektor općeg kriminaliteta i međunarodne policijske suradnje
+Prati i izučava te analizira stanje, kretanje i pojavne oblike općeg kriminaliteta, maloljetničke delinkvencije i kazneno pravne zaštite djece i maloljetnika, kao i ratnih zločina te utvrđuje najpogodnije oblike prevencije, nadzora i represivnih mjera; pruža stručnu pomoć i nadzire provođenje složenijih kriminalističkih istraživanja u policijskim upravama te prema procjeni neposredno sudjeluje u rješavanju najsloženijih kriminalističkih istraživanja za kaznena djela iz djelokruga rada općeg kriminaliteta i ratnih zločina; kriminalističkim istraživanjima u kojima je potrebna zajednička međunarodna policijska istraga i koja se provode na području više zemalja; obavlja poslove vezane za razvoj te osiguravanja uvjeta rada kriminalističke tehnike kao i osiguranje uvjeta u provedbi međunarodne policijske suradnje; izravno surađuje s drugim tijelima koja se bave istraživanjem ratnih zločina počinjenih na teritoriju Republike Hrvatske; sudjeluje u međunarodnim aktivnostima i u provođenju međunarodnih projekata iz djelokruga rada Sektora; surađuje s drugim ustrojstvenim jedinicama Uprave kriminalističke policije i Ministarstva te s drugim tijelima državne vlasti; utvrđuje metode i načine rada na otkrivanju i suzbijanju pojavnih oblika kriminaliteta iz svoje nadležnosti te sudjeluje u predlaganju i izradi normativnih akata i pojedinih izvješća.
+Za obavljanje poslova iz djelokruga rada Sektora općeg kriminaliteta i međunarodne policijske suradnje ustrojavaju se sljedeće službe:
+8.3.2.1. Služba općeg kriminaliteta
+8.3.2.2. Služba ratnih zločina
+8.3.2.3. Služba kriminalističke tehnike
+8.3.2.4. Služba za međunarodnu policijsku suradnju.

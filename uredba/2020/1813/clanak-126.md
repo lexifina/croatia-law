@@ -1,0 +1,3 @@
+# Članak 126.
+8.7.1. Antiteroristička jedinica Lučko
+Antiteroristička jedinica Lučko djeluje na cijelom području Republike Hrvatske, a nadležna je za: suzbijanje terorizma, rješavanje najsloženijih otmica i talačkih situacija, otmice zrakoplova i drugih prijevoznih sredstava, posebna osiguranja visokih državnih dužnosnika, suzbijanje najtežih oblika kriminaliteta, uhićenje počinitelja najtežih kaznenih djela, zaštitu određenih osoba, helikopterske operacije, zadaće potraga i spašavanja, snajperske operacije, pronalaženje, deaktiviranje i uništavanje formacijskih i improviziranih eksplozivnih naprava na zemlji i pod vodom, ronilačke intervencije te obavlja i druge poslove sukladno Zakonu o policiji.

@@ -1,0 +1,7 @@
+# Članak 257.
+12.2.2. Služba za imovinsko-pravne postupke i radno pravne sporove
+Obavlja stručne poslove u svezi rješavanja imovinsko-pravnih postupaka i radno pravnih sporova Ministarstva na način da priprema očitovanja i upute za zastupanje nadležnim državnim odvjetništvima povodom odštetnih zahtjeva i u sudskim sporovima u kojima je stranka Republika Hrvatska, Ministarstvo unutarnjih poslova te s tim u svezi i predlaganja utuženja i pokretanja ovršnih postupaka; prati i analizira sudsku praksu vezano za djelokrug rada Službe; izrađuje prijedloge za zaključivanje izvansudskih nagodbi; priprema dokumentaciju po žalbama i izvanrednim pravnim lijekovima protiv rješenja o statusnim pravima zaposlenika; izrađuje drugostupanjska rješenja, pruža pravnu pomoć ustrojstvenim jedinicama Ministarstva iz djelokruga rada; izrađuje plan rada Službe i izvješća o realizaciji plana rada; daje mišljenja iz djelokruga Službe; daje mišljenja na ugovore u kojima je Ministarstvo ugovorna strana; Služba izravno dostavlja odgovore na tužbe nadležnom upravnom sudu vezano za pokrenute upravne sporove od strane zaposlenika Ministarstva; koordinira radom Odjela u sastavu Službe, obavlja poslove kancela.
+Za obavljanje poslova iz djelokruga rada Službe za imovinsko-pravne postupke i radno pravne sporove ustrojavaju se sljedeće ustrojstvene jedinice:
+12.2.2.1. Odjel za imovinsko-pravne postupke
+12.2.2.2. Odjel za radne pravne sporove
+12.2.2.3. Odjeljak kancela.

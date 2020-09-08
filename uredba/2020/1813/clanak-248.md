@@ -1,0 +1,3 @@
+# Članak 248.
+12.1.1.2. Odjel za podršku i razvoj
+Razvija i predlaže kriterije za analizu ljudskih potencijala, provodi periodične analize prema utvrđenim kriterijima za potrebe razvoja ljudskih potencijala. Kreira proces upravljanja podacima te izrađuje analize ljudskih potencijala. Kreira, razvija i implementira informatičke alate te predlaže mjere za njihovo unapređenje i efikasnije korištenje. Analizira potrebe ustroja Ministarstva, u suradnji s drugim ustrojstvenim jedincima predlaže prijedloge za izmjenu i dopunu ustroja Ministarstva te implementira izmjene i dopune ustroja, kreira i razvija informatičke alate za potrebe procese upravljanja ljudskih potencijala te potrebe Sektora. Izrađuje godišnja, mjesečna, tjedna i dnevna izvješća iz djelokruga rada Sektora.

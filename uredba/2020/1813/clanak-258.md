@@ -1,0 +1,3 @@
+# Članak 258.
+12.2.2.1. Odjel za imovinsko-pravne postupke
+Radi na najsloženijim poslovima iz područja imovinsko-pravnih postupaka na način da priprema očitovanja i upute za zastupanje nadležnim državnim odvjetništvima povodom odštetnih zahtjeva i u sudskim sporovima; predlaže utuženja i pokretanje ovršnih postupaka; izrađuje prijedloge za zaključivanje izvansudskih nagodbi; pruža pravnu pomoć ustrojstvenim jedinicama Ministarstva u svezi imovinsko-pravnih odnosa; daje pravna mišljenja na ugovore u kojima je Ministarstvo ugovorna strana; izrađuje plan rada Odjela i izvješća o realizaciji plana rada; daje pravna mišljenja iz djelokruga rada Odjela.

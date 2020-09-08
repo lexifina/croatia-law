@@ -1,0 +1,3 @@
+# Članak 520.
+4.8.1.2. Odjel za prometne isprave i oružje
+Obavlja poslove vezane uz registracije vozila, izdavanje vozačkih dozvola, vodi propisane evidencije o vozačima, odnosno vozačkim dozvolama, izdaje uvjerenja o podacima iz evidencije, obavlja poslove u svezi izdavanja odobrenja za nabavu i registraciju oružja, izdavanja oružnih listova za držanje, držanje i nošenje oružja građana, donošenja rješenja o odbijanju zahtjeva za nabavu i registraciju oružja građana, oduzimanju oružja i druge upravne poslove; obavlja provjere na zahtjev drugih ustrojstvenih jedinica Ministarstva i sudova; ažurira podatke u informacijskom sustavu.

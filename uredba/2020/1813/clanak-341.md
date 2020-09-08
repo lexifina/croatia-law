@@ -1,0 +1,3 @@
+# Članak 341.
+1.3.5. Interventna jedinica policije
+Provodi osiguranje javnih okupljanja, prijevoza novčanih sredstava, vrijednosnih pošiljki i prijevoza opasnih tvari; uspostavlja javni red narušen u većem opsegu; pruža pomoć policijskim postajama prilikom složenijih intervencija, racija, zasjeda, blokada, asistencija, privođenja, lišenja slobode i drugo, obavljanja poslova u cestovnom i željezničkom prometu, na granici, pronalaženja predmeta u svezi počinjenih kaznenih djela, vađenja utopljenika, pronalaska nestalih osoba i drugo; provodi obuku zaštitno-tragačkih pasa i usavršavanje vodiča; obavlja poslove počasnog postroja; surađuje s nadležnim ustrojstvenim jedinicama Ministarstva; skrbi o zdravstvenoj zaštiti, njezi, prehrani i higijeni pasa.

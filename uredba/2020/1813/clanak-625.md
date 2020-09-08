@@ -1,0 +1,3 @@
+# Članak 625.
+8.5.1. Odjel općeg kriminaliteta
+Analizira slanje i pojave kaznenih djela općeg kriminaliteta i maloljetničke delinkvencije; organizira potražnu djelatnost za osobama i predmetima; utvrđuje najpogodnije oblike rada kriminalističke policije na sprečavanju počinjenja kaznenih djela i pronalaženja i hvatanja počinitelja; organizira i provodi kontrolu zakonitosti rada kriminalističke policije; obavlja nadzor nad radom policijskih postaja iz svoje nadležnosti i pruža im stručnu pomoć u izvršenju njihovih zadaća; izravno se uključuje i rukovodi kriminalističkom obradom u složenijim slučajevima kaznenih djela; surađuje s drugim ustrojstvenim jedinicama u Policijskoj upravi; obavlja i druge poslove iz područja suzbijanja općeg kriminaliteta.

@@ -1,0 +1,3 @@
+# Članak 807.
+17.3.3. Interventna jedinica policije
+Provodi osiguranje javnih okupljanja, prijevoza novčanih sredstava, vrijednosnih pošiljki i prijevoza opasnih tvari; uspostavlja javni red narušen u većem opsegu; pruža pomoć policijskim postajama prilikom složenijih intervencija, racija, zasjeda, blokada, asistencija, privođenja, lišenja slobode i drugo, obavljanja poslova u cestovnom i željezničkom prometu, na granici, pronalaženja predmeta u svezi počinjenih kaznenih djela, vađenja utopljenika, pronalaska nestalih osoba i drugo; provodi obuku zaštitno-tragačkih pasa i usavršavanje vodiča, surađuje s nadležnim ustrojstvenim jedinicama Ministarstva; metodološki unaprjeđuje primjenu službenih pasa; skrbi o zdravstvenoj zaštiti, njezi, prehrani i higijeni pasa.

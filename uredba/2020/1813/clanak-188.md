@@ -1,0 +1,3 @@
+# Članak 188.
+9.10.1.1. Odjel certifikacije
+Obavlja poslove ocjenjivanja i potvrđivanja sukladnosti (certifikacije) uređaja i opreme, zaštitnih sustava i komponenata namijenjenih eksplozivnoj atmosferi, plinova, para, maglica i prašine; provodi poslove certifikacije eksplozivnih tvari; izrađuje stručna mišljenja o potvrđivanju uređaja i proizvoda namijenjenih za rad u prostorima ugroženima eksplozivnom atmosferom; sudjeluje u provedbi edukacijskih programa; sudjeluje u izradi akata koji se odnose na obavljanje poslova Odjela; sudjeluje u radu nacionalnih i međunarodnih tehničkih odbora; obavlja i druge poslove iz svojeg djelokruga.

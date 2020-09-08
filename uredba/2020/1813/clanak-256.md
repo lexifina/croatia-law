@@ -1,0 +1,3 @@
+# Članak 256.
+12.2.1.2. Odjel za opće poslove
+Izrađuje rješenja o dodjeli Spomen značke i kratkog vatrenog oružja, te vodi evidenciju o istima, obavlja poslove prijave na zdravstveno i mirovinsko osiguranje i izdavanja zdravstvenih iskaznica; izrađuje službene dokumente - službene iskaznice i propusnice, dopusnice za ulazak osobnim vozilima u objekte Ministarstva, obavlja poslove izdavanja policijskih značaka, značaka inspektorata i kožnih etuija, vodi i ažurira evidencije o izdanim dokumentima; obavlja poslove zaštite na radu, predlaže mjere vezane za unapređivanje zaštite na radu, predlaže propise iz svoje nadležnosti, provodi procjenu opasnosti radnih mjesta.

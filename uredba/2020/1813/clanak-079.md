@@ -1,0 +1,3 @@
+# Članak 79.
+8.3.3.1.2. Odjel za ciljane potrage i precizno lociranje
+Neposredno preuzima planiranje, organizaciju i rukovođenje u provedbi potražne djelatnosti za određenim traženim osobama i počiniteljima najtežih kaznenih djela, provodi precizno lociranje položaja i identificiranje telekomunikacijskih uređaja, pruža stručnu pomoć i educira djelatnike u potražnim djelatnostima; surađuje s ostalim ustrojstvenim jedinicama Ministarstva u provedbi zadaća iz svoje nadležnosti te u tu svrhu neposredno ostvaruje međunarodnu suradnju; sudjeluje u izradi normativnih akata, izvješća i stručnih materijala; obavlja i druge poslove iz svog djelokruga.

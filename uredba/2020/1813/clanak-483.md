@@ -1,0 +1,3 @@
+# Članak 483.
+4.1.1. Odjel za izvještajnu analitiku i odnose s javnošću
+Prikuplja podatke o svim događajima od sigurnosnog značaja iz djelokruga rada Ministarstva te aktivnostima ustrojstvenih jedinica Policijske uprave u cilju prosuđivanja stanja sigurnosti na području Policijske uprave i analitičke procjene učinkovitosti ustrojstvenih jedinica; izrađuje izvješća i prosudbe te surađuje s nadležnom ustrojstvenom jedinicom Ministarstva u sjedištu; analizira medijsku prezentaciju svih događaja i aktivnosti iz djelokruga rada Policijske uprave te pruža odgovore javnosti u dogovoru s načelnikom Policijske uprave.

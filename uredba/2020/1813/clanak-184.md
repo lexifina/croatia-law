@@ -1,0 +1,8 @@
+# Članak 184.
+9.9. Državna intervencijska postrojba civilne zaštite
+Državna intervencijska postrojba civilne zaštite (u daljnjem tekstu: DIP CZ) obavlja specijalističke poslove traganja i spašavanja iz ruševina, traganja i spašavanja u poplavama, KBRN zaštitu, zbrinjavanje stanovništva i tehničko-taktičku potporu; obavlja stručne poslove vezane za ustrojavanje državnih intervencijskih postrojbi civilne zaštite; izrađuje prijedloge razvojnih planova i planova uporabe DIP CZ, popune ljudstvom i materijalno-tehničkim sredstvima; planira pripreme i provedbe programa osposobljavanja i uvježbavanja; sudjeluje u planiranju, organizaciji i provedbi vježbi državnog i međunarodnog značaja; prati razvoj novih tehnologija, opreme i sredstava, metoda i postupaka u civilnoj zaštiti te predlaže njihovo praktično uvođenje u operativnu uporabu; u obavljanju poslova iz svog djelokruga rada DIP CZ usko surađuje sa Sektorom za pripravnost i koordinaciju, te drugim nadležnim ustrojstvenim jedinicama Ravnateljstva civilne zaštite; u cilju osiguravanja operativnosti u svim svojim ustrojstvenim jedinicama razvija sve operativne komponente za traganja i spašavanja iz ruševina, traganja i spašavanja u poplavama, KBRN zaštitu, zbrinjavanje stanovništva i tehničko-taktičku potporu.
+Za obavljanje poslova iz djelokruga rada Državne intervencijske postrojbe civilne zaštite ustrojavaju se sljedeće ustrojstvene jedinice:
+9.9.1. Državna intervencijska postrojba civilne zaštite Zagreb, sa sjedištem u Zagrebu
+9.9.2. Državna intervencijska postrojba civilne zaštite Split, sa sjedištem u Splitu
+9.9.3. Državna intervencijska postrojba civilne zaštite Rijeka, sa sjedištem u Rijeci
+9.9.4. Državna intervencijska postrojba civilne zaštite Osijek, sa sjedištem u Osijeku.
