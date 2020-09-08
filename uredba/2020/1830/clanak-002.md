@@ -1,0 +1,3 @@
+## II. UNUTARNJE USTROJSTVO I DJELOKRUG
+# Članak 2.
+Središnji državni ured uspostavlja učinkovit sustav središnje javne nabave uz odgovornost prema poreznim obveznicima, državnom proračunu, obveznicima/korisnicima središnje nabave, te svim gospodarskim subjektima uključenim u javnonabavno okruženje u cilju ostvarivanja ušteda u javnoj potrošnji, vodeći računa o optimalnom odnosu između kvalitete i cijene nabavljenih roba, radova i usluga, uvažavanju ekoloških i socijalno prihvatljivih načela, održive i inovativne nabave, te poticanju malog i srednjeg poduzetništva. Središnji državni ured uspostavlja i učinkovit sustav pomoćnih aktivnosti nabave te povremene zajedničke nabave.

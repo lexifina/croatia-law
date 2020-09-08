@@ -1,0 +1,4 @@
+# Članak 17.
+Korisnici središnje javne nabave mogu samostalno provoditi postupke javne nabave za nabavne kategorije stavljene u nadležnost Središnjeg državnog ureda, te u pravilu sklopiti ugovor/okvirni sporazum s rokom trajanja do zaključenja okvirnog sporazuma, odnosno ugovora od strane Središnjeg državnog ureda u postupcima središnje javne nabave.
+U slučaju kad Središnji državni ured sklopi okvirni sporazum koji ne obvezuje na sklapanje pojedinačnih ugovora, korisnici središnje javne nabave su se prilikom odluke da li će ugovore sklapati na temelju okvirnog sporazuma ili će samostalno provoditi postupke nabave dužni voditi načelom ekonomičnog trošenja proračunskih sredstava, a u cilju postizanja ekonomične javne nabave.
+Kada korisnik središnje javne nabave samostalno provodi postupak javne nabave za nabavne kategorije iz nadležnosti Središnjeg državnog ureda, o istome je dužan prije pokretanja postupka obavijestiti Središnji državni ured.
