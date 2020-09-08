@@ -1,0 +1,4 @@
+# Članak 124.
+Služba nadzora neregistriranog obavljanja ugostiteljske djelatnosti, pružanja ugostiteljskih usluga i usluga u turizmu obavlja inspekcijske i druge stručne poslove koji se odnose na primjenu i provođenje zakona i drugih propisa u svezi neregistriranog obavljanja ugostiteljske djelatnosti, neregistriranog pružanja ugostiteljskih usluga i usluga u turizmu, prema potrebi obavlja poslove zastupanja u prekršajnim postupcima i pred upravnim sudovima povodom tužbi u upravnim sporovima te obavlja zajedničke poslove koji se obavljaju u suradnji s drugim inspekcijama i druge poslove u okviru svoga djelokruga.
+Za obavljanje poslova Službe nadzora neregistriranog obavljanja ugostiteljske djelatnosti, pružanja ugostiteljskih usluga i usluga u turizmu u Područnom uredu Rijeka određuju se samostalni izvršitelji u: Delnicama, Malom Lošinju i Crikvenici.
+2.1.9., 2.2.9., 2.3.9., 2.4.9. i 2.5.9. Služba za nadzor zaštite na radu

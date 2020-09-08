@@ -1,0 +1,6 @@
+# Članak 6.
+Služba za ljudske potencijale predlaže, prati i provodi mjere politike razvoja i upravljanja ljudskim potencijalima Inspektorata, provodi postupak prijma u državnu službu u suradnji sa tijelom državne uprave nadležnim za službeničke odnose, priprema prijedloge planova prijma u državnu službu, vodi prvostupanjski upravni postupak i rješava u upravnim stvari iz područja službeničkih odnosa, priprema i donosi pojedinačne akte o ostvarivanju prava i obveza državnih službenika i namještenika, priprema i predlaže plan izobrazbe državnih službenika Inspektorata, obavlja poslove vezane za provedbu i uspješnost provedbe procesa izobrazbe i usavršavanja službenika Inspektorata, praćenja rada službenika na probnom radu, vodi registar zaposlenih u Inspektoratu, vodi evidenciju izdanih službenih značaka i iskaznica i druge evidencije iz područja službeničkih odnosa i izdaje potvrda iz službenih evidencija koje se vode u Službi, daje mišljenja o pitanjima koja se odnose na državnu službu u odnosu na državne službenike i namještenike Inspektorata, priprema izvješća iz svoga djelokruga, te obavlja i druge poslove u okviru svoga djelokruga.
+U Službi za ljudske potencijale ustrojavaju se:
+1.2.1.1. Odjel za službeničke odnose
+1.2.1.2. Odjel za planiranje i razvoj ljudskih potencijala.
+1.2.1.1. Odjel za službeničke odnose

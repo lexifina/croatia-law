@@ -1,0 +1,8 @@
+## 1.2. SEKTOR ZA LJUDSKE POTENCIJALE, PRAVNE POSLOVE I UREDSKO POSLOVANJE
+# Članak 5.
+Sektor za ljudske potencijale, pravne poslove i uredsko poslovanje obavlja upravne i stručne poslove u vezi s upravljanjem i razvojem ljudskih potencijala Inspektorata, priprema prijedloge planova prijma, provodi postupak prijma u državnu službu, vodi prvostupanjski upravni postupak i rješava u upravnim stvari iz područja službeničkih odnosa, priprema i donosi pojedinačne akte o ostvarivanju prava i obveza državnih službenika i namještenika, priprema i prati planove izobrazbe državnih službenika, daje mišljenja o pitanjima koja se odnose na državnu službu, vodi registar zaposlenih u Inspektoratu kao i druge evidencije o radno pravnom statusu zaposlenih, obavlja druge poslove vezane se radno pravni status zaposlenih u Inspektoratu. Obavlja upravne i stručne poslove koji se odnose na davanje mišljenja na nacrte prijedloga zakona i drugih propisa iz djelokruga drugih tijela državne uprave. Prati i osigurava primjenu propisa iz uredskog poslovanja, zaštite i čuvanja arhivskog i javnog dokumentarnog gradiva i uporabe pečata i žigova, vodi evidenciju pečata i žigova Inspektorata, sudjeluje u postupku procjene učinaka propisa, izrađuje propisane izvještaje o spisima i pismenima Inspektorata. Priprema prijedloge općih akata iz djelokruga Sektora, izrađuje potvrde i uvjerenja o činjenicama o kojima vodi službenu evidenciju, te obavlja i druge poslove u okviru svoga djelokruga.
+U Sektoru za ljudske potencijale, pravne poslove i uredsko poslovanje ustrojavaju se:
+1.2.1. Služba za ljudske potencijale
+1.2.2. Služba za pravne poslove
+1.2.3. Služba za uredsko poslovanje.
+1.2.1. Služba za ljudske potencijale

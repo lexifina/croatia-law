@@ -1,0 +1,8 @@
+# Članak 121.
+Služba poljoprivredne inspekcije obavlja inspekcijske i druge stručne poslove i službene kontrole, koji se odnose na primjenu i provođenje zakona i drugih propisa u području poljoprivrede iz nadležnosti poljoprivredne inspekcije kao i inspekcijski nadzor i drugih područja sukladno posebnom zakonu; obavljaju izravan uvid u ispunjavanje uvjeta i obavljanje djelatnosti nadziranih pravnih i fizičkih osoba, vode prvostupanjske postupke i rješavaju o upravnim stvarima prvog stupnja iz svoga djelokruga; poduzimaju mjere određene zakonima i propisima donesenim na temelju njih; prema potrebi obavlja poslove zastupanja u prekršajnim postupcima i pred upravnim sudovima povodom tužbi u upravnim sporovima te obavlja zajedničke poslove koji se obavljaju u suradnji s drugim inspekcijama i druge poslove u okviru svoga djelokruga.
+Za obavljanje poslova Službe poljoprivredne inspekcije u Područnom uredu Osijek određuju se samostalni izvršitelji u: Belom Manastiru, Donjem Miholjcu, Slatini i Valpovu.
+Za obavljanje poslova Službe poljoprivredne inspekcije u Područnom uredu Rijeka određuju se samostalni izvršitelji u: Delnicama, Umagu i Crikvenici.
+Za obavljanje poslova Službe poljoprivredne inspekcije u Područnom uredu Split određuju se samostalni izvršitelji u Sinju.
+Za obavljanje poslova Službe poljoprivredne inspekcije u Područnom uredu Varaždin određuju se samostalni izvršitelji u: Đurđevcu i Ludbregu.
+Za obavljanje poslova Službe poljoprivredne inspekcije u Područnom uredu Zagreb određuju se samostalni izvršitelji u: Čazmi, Garešnici, Grubišnom Polju, Ivanić-Gradu, Jastrebarskom, Novskoj, Petrinji, Svetom Ivanu Zelini i Velikoj Gorici.
+2.1.6., 2.2.6., 2.3.6., 2.4.6. i 2.5.6. Služba šumarske i lovne inspekcije

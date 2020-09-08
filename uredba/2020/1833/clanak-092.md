@@ -1,0 +1,10 @@
+## 1.15. SEKTOR ZA NADZOR GRAĐENJA
+# Članak 92.
+Sektor za nadzor građenja usklađuje postupanje građevinskih inspektora u Područnim uredima Inspektorata; obavlja inspekcijske i druge stručne poslove koji se odnose na područje građenja, provedbe stručnog nadzora građenja, održavanja i uporabe građevina za koje građevinsku i uporabnu dozvolu izdaje nadležno Ministarstvo, te upravna tijela nadležna za upravne poslove graditeljstva na području Republike Hrvatske; priprema i organizira izvršenja inspekcijskih rješenja o uklanjanju građevina putem treće osobe; obavlja poslove unaprjeđenja i praćenja rada građevinske inspekcije; priprema odgovore i odgovara na podneske sukladno ovlastima i nadležnostima; pruža podršku građevinskim inspektorima; izrađuje smjernice i priprema naputke za postupanje građevinske inspekcije; provodi potrebne analize i vodi evidencije vezano za postupanje građevinske inspekcije; priprema i organizira radionice i seminare stručnog osposobljavanja i usavršavanja građevinske inspekcije; predlaže provedbu sustavnih, tematskih i koordiniranih inspekcijskih nadzora građevinske inspekcije; predlaže plan rada Sektora i prati realizaciju plana rada; priprema podatke za izradu godišnjih i drugih izvješća o radu Sektora; sudjeluje u izradi godišnjih planova i strateških dokumenata Inspektorata, surađuje s drugim ustrojstvenim jedinicama Inspektorata, tijelima državne uprave, znanstvenim i obrazovnim ustanovama, jedinicama lokalne i područne (regionalne) samouprave; prema potrebi sudjeluje u obavljanju kontrolno-instruktivnih nadzora te obavlja zajedničke poslove koji se obavljaju u suradnji s drugim inspekcijama i druge poslove u okviru svoga djelokruga.
+U Sektoru za nadzor građenja ustrojavaju se:
+1.15.1. Služba inspekcijskog nadzora državnog značaja
+1.15.2. Služba izvršenja inspekcijskih rješenja
+1.15.3. Služba koordinacije nadzora građenja
+1.15.4. Služba podrške radu građevinske inspekcije
+1.15.5. Služba za analize i evidencije.
+1.15.1. Služba inspekcijskog nadzora državnog značaja
