@@ -1,0 +1,3 @@
+# Članak 73.
+Odjel za projektiranje i razvoj informatičkih sustava obavlja sljedeće poslove: prati i bira nove informatičke tehnologije, projektira, dizajnira i razvija nove informatičke sustave za statistička istraživanja, realizira pilot-projekte uz korištenje novih informatičkih tehnologija te izrađuje projekte za velika i nestandardna statistička istraživanja, kao što su popis stanovništva ili popis poljoprivrede; kod novih projekata definira platformu, standarde, metapodatke i druge informacije neophodne za razvoj novih informatičkih sustava kako bi se uspješno integriralo u postojeći sustav Zavoda. Obavlja i druge poslove u okviru svoga djelokruga.
+9.1.2. Odjel za integraciju informatičkih sustava
