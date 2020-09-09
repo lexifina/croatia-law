@@ -1,0 +1,1 @@
+Ustavni sud Republike Hrvatske, u Prvom vijeću za odlučivanje o ustavnim tužbama, u sastavu sudac Branko Brkić, predsjednik Vijeća, te suci Andrej Abramović, Mario Jelušić, Lovorka Kušan, Josip Leko i Goran Selanec, članovi Vijeća, u postupku koji je ustavnom tužbom pokrenula X. Y. iz S., na sjednici održanoj 9. rujna 2020. jednoglasno je donio
