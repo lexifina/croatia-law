@@ -1,0 +1,1 @@
+Na temelju odredbe članka 192. stavka 8. Zakona o osiguranju (»Narodne novine« broj 30/15, 112/18 i 63/20) Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća održanoj 27. kolovoza 2020. donosi
