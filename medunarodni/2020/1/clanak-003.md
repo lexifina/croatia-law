@@ -1,0 +1,2 @@
+# Članak 3.
+Državna agencija za osiguranje štednih uloga i sanaciju banaka ovlaštena je prenijeti novčana sredstava sanacijskog fonda u jedinstveni sanacijski fond na ime doprinosa koji je Republika Hrvatska dužna prenijeti u iznosu koji je Jedinstveni sanacijski odbor utvrdio odlukom u suradnji s Državnom agencijom za osiguranje štednih uloga i sanaciju banaka, na temelju kriterija utvrđenih u članku 8. stavcima 1. i 2. Sporazuma iz članka 1. ovoga Zakona.

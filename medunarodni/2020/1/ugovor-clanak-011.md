@@ -1,0 +1,4 @@
+# Članak 11.
+Ratifikacija, odobrenje ili prihvat i stupanje na snagu
+1. Ovaj Sporazum podliježe ratifikaciji, odobrenju ili prihvatu od strane njegovih potpisnika u skladu s njihovim odgovarajućim ustavnim zahtjevima. Isprave o ratifikaciji, odobrenju ili prihvatu polažu se kod Glavnog tajništva Vijeća Europske unije (»depozitar«). Depozitar obavješćuje ostale potpisnike o svakom polaganju i datumu polaganja.
+2. Ovaj Sporazum stupa na snagu prvog dana drugog mjeseca koji slijedi nakon dana polaganja isprava o ratifikaciji, odobrenju ili prihvatu od strane potpisnika koji sudjeluju u jedinstvenom nadzornom mehanizmu i jedinstvenom sanacijskom mehanizmu, koji predstavljaju najmanje 90 % od zbroja ponderiranih glasova svih država članica koje sudjeluju u jedinstvenom nadzornom mehanizmu i jedinstvenom sanacijskom mehanizmu, kako je utvrđeno Protokolom (br. 36) o prijelaznim odredbama priloženom UEU-u i UFEU-u.

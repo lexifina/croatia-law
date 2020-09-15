@@ -1,0 +1,6 @@
+# Članak 14.
+Rješavanje sporova
+1. Ako između ugovornih stranaka dođe do neslaganja o tumačenju bilo koje odredbe ovog Sporazuma ili ako jedna ugovorna stranka smatra da druga ugovorna stranka nije ispunila svoje obveze prema ovom Sporazumu, ona može uputiti stvar Sudu. Presuda Suda obvezujuća je za stranke u postupku.
+Ako Sud utvrdi da je ugovorna stranka propustila ispuniti svoje obveze prema ovom Sporazumu, dotična ugovorna stranka u roku koji odredi Sud poduzima potrebne mjere u skladu s presudom. U slučaju da dotična ugovorna stranka u roku koji odredi Sud ne poduzme potrebne mjere kako bi otklonila kršenje, institucije s odobrenjem za rad u dotičnoj ugovornoj stranci isključuju se iz korištenja odjeljaka svih ugovornih stranaka kako je utvrđeno u članku 5. stavku 1. točki (b).
+2. Ovaj članak predstavlja poseban sporazum između ugovornih stranaka u smislu članka 273. UFEU-a.
+3. Države članice čija valuta nije euro koje nisu ratificirale ovaj Sporazum mogu obavijestiti depozitara o svojoj namjeri da, u svrhu upućivanja Sudu svakog spora o tumačenju i provedbi članka 15., postanu stranke posebnog sporazuma iz stavka 2. ovog članka. Depozitar obavijest dotične države članice priopćava ugovornim strankama te, nakon te obavijesti, dotična država članica postaje stranka posebnog sporazuma iz stavka 2. ovog članka u svrhu navedenu u ovom stavku.

@@ -1,0 +1,2 @@
+# Članak 1.
+Potvrđuje se Sporazum o prijenosu i objedinjavanju doprinosa u jedinstveni sanacijski fond, sastavljen u Bruxellesu 21. svibnja 2014. u izvorniku na bugarskom, češkom, danskom, engleskom, estonskom, finskom, francuskom, grčkom, hrvatskom, irskom, latvijskom, litavskom, mađarskom, malteškom, nizozemskom, njemačkom, poljskom, portugalskom, rumunjskom, slovačkom, slovenskom, španjolskom, švedskom i talijanskom jeziku.
