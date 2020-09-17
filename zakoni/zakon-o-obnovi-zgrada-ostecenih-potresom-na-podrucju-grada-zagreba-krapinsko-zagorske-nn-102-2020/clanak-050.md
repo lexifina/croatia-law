@@ -1,0 +1,4 @@
+## Davanje stanova u vlasništvu Republike Hrvatske na uporabu Gradu Zagrebu, Krapinsko-zagorskoj županiji i Zagrebačkoj županiji
+# Članak 50.
+(1) Ako Grad Zagreb nema dovoljan broj stanova za davanje u najam osobama iz članka 45. stavaka 1. do 5. ovoga Zakona, Republika Hrvatska dat će na uporabu Gradu Zagrebu stanove u vlasništvu Republike Hrvatske na području Grada Zagreba za davanje u najam osobama iz članka 45. stavaka 1. do 5. ovoga Zakona.
+(2) Ako Krapinsko-zagorska županija ili Zagrebačka županija nema dovoljan broj stanova za davanje u najam osobama iz članka 46. stavaka 1. do 5. ovoga Zakona, Republika Hrvatska dat će na uporabu Krapinsko-zagorskoj županiji odnosno Zagrebačkoj županiji stanove u vlasništvu Republike Hrvatske na području Krapinsko-zagorske županije odnosno Zagrebačke županije za davanje u najam osobama iz članka 46. stavaka 1. do 5. ovoga Zakona.

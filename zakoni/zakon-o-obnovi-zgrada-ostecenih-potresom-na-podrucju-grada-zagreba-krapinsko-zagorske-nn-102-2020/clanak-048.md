@@ -1,0 +1,3 @@
+## Privremeni smještaj
+# Članak 48.
+Grad Zagreb, Krapinsko-zagorska županija odnosno Zagrebačka županija dužni su o svom trošku vlasniku stana i zaštićenom najmoprimcu iz članaka 45. i 46. ovoga Zakona do davanja u najam stana osigurati privremeni smještaj ako on, njegov bračni drug, izvanbračni drug, životni partner odnosno neformalni životni partner na području Grada Zagreba odnosno županije na kojoj se nalazi oštećena odnosno uništena zgrada nije vlasnik druge useljive kuće ili stana, a o čemu se uz zahtjev predaje pisana izjava pod materijalnom i kaznenom odgovornošću na kojoj je potpis ovjeren kod javnog bilježnika.

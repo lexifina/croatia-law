@@ -1,0 +1,13 @@
+## DIO PRVI OPĆE I ZAJEDNIČKE ODREDBE
+## Predmet i cilj Zakona
+# Članak 1.
+(1) Ovim se Zakonom uređuje način i postupak obnove odnosno uklanjanja zgrada oštećenih odnosno uništenih u prirodnoj nepogodi proglašenoj na području Grada Zagreba, Krapinsko-zagorske županije i Zagrebačke županije koje je pogođeno potresom 22. ožujka 2020., gradnja zamjenskih obiteljskih kuća i stambeno zbrinjavanje osoba pogođenih tom nepogodom, određuju se nadležna tijela, rokovi za postupanje i druga pitanja s tim u vezi, a radi zaštite života i zdravlja ljudi, zaštite životinja, zaštite imovine, zaštite okoliša, prirode i kulturne baštine te stvaranja uvjeta za uspostavu normalnoga života na pogođenom području.
+(2) U svrhu postizanja cilja iz stavka 1. ovoga članka i pomoći vlasnicima odnosno suvlasnicima oštećenih i uništenih višestambenih zgrada, stambeno-poslovnih zgrada, poslovnih zgrada i obiteljskih kuća, koji su to bili na dan 22. ožujka 2020., ovim se Zakonom propisuje:
+– smanjenje i pojednostavnjenje dokumentacije potrebne za obnovu, smanjenje troškova i skraćivanje vremena njihove izrade, uz sufinanciranje Republike Hrvatske i Grada Zagreba odnosno Krapinsko-zagorske županije i Zagrebačke županije
+– osnivanje Fonda za obnovu Grada Zagreba, Krapinsko-zagorske županije i Zagrebačke županije (u daljnjem tekstu: Fond za obnovu)
+– organizacija i provedba obnove oštećenih zgrada popravkom konstrukcije, pojačanjem konstrukcije, cjelovitom obnovom konstrukcije, cjelovitom obnovom zgrade i/ili popravkom nekonstrukcijskih elemenata odnosno uklanjanje uništenih zgrada, uz sufinanciranje Republike Hrvatske i Grada Zagreba odnosno Krapinsko-zagorske županije i Zagrebačke županije
+– gradnja zamjenskih obiteljskih kuća sredstvima Republike Hrvatske, Grada Zagreba, Krapinsko-zagorske županije i Zagrebačke županije odnosno novčana pomoć za njihovu gradnju
+– novčana pomoć za nužnu privremenu zaštitu zgrada od utjecaja atmosferilija te uklanjanja i pridržanja opasnih dijelova zgrada koji su mogli odnosno koji mogu ugroziti život ili zdravlje ljudi, za popravak ili zamjenu dimnjaka i zabatnog zida te popravak stubišta i dizala
+– novčana pomoć za izvođenje radova na obnovi oštećenih zgrada za vlasnike i suvlasnike koji sami obnavljaju zgrade
+– mogućnost za vlasnike i suvlasnike da o svom trošku izvode pojačanje konstrukcije iznad razine obnove iz Tehničkog propisa za građevinske konstrukcije (»Narodne novine«, br. 17/17. i 75/20.) (u daljnjem tekstu: Tehnički propis), kao i da provedu cjelovitu obnovu zgrade, uz plaćanje razlike troškova
+– privremeno i trajno stambeno zbrinjavanje osoba pogođenih tom nepogodom davanjem stanova u najam odnosno u vlasništvo.

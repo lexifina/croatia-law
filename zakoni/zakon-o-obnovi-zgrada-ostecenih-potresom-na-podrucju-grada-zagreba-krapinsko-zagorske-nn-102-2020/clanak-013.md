@@ -1,0 +1,7 @@
+## Stručni savjet za obnovu
+# Članak 13.
+(1) Stručni savjet za obnovu (u daljnjem tekstu: Stručni savjet) osniva Vlada.
+(2) Stručni savjet ima predsjednika, dva zamjenika predsjednika te 20 članova i 20 zamjenika.
+(3) Predsjednika i njegove zamjenike te članove Stručnog savjeta imenuje i razrješava Vlada. Predsjednik se imenuje iz reda državnih dužnosnika. Jedan zamjenik imenuje se iz Ureda predsjednika Vlade Republike Hrvatske, a drugi iz reda dužnosnika ili službenika Grada Zagreba. Po jedan član i njegov zamjenik imenuju se iz reda stručnjaka Ministarstva, ministarstva nadležnog za kulturu, stručnjaka zaposlenika Građevinskog fakulteta Sveučilišta u Zagrebu, Arhitektonskog fakulteta Sveučilišta u Zagrebu, članova Hrvatske komore inženjera građevinarstva, Hrvatske komore arhitekata, Hrvatske komore inženjera strojarstva, Hrvatske komore inženjera elektrotehnike, Hrvatske gospodarske komore, Hrvatske obrtničke komore, Hrvatske udruge poslodavaca, Hrvatskog saveza građevinskih inženjera, Društva arhitekata Zagreba, Hrvatskog inženjerskog saveza, Instituta za povijest umjetnosti, Gradskog zavoda za zaštitu spomenika kulture i prirode Grada Zagreba, Geofizičkog odsjeka Prirodoslovno-matematičkog fakulteta Sveučilišta u Zagrebu, Ekonomskog instituta, Pravnog fakulteta Sveučilišta u Zagrebu i Fonda za obnovu.
+(4) Članovi Stručnog savjeta moraju biti istaknuti stručnjaci u svojoj struci.
+(5) Stručni savjet obavlja savjetodavne i po potrebi druge poslove vezane uz stručna pitanja u provedbi ovoga Zakona.

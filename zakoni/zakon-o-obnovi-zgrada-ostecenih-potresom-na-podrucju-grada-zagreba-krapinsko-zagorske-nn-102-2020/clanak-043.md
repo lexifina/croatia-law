@@ -1,0 +1,5 @@
+## Dužnosti i prava izvođača
+# Članak 43.
+(1) Izvođač je dužan graditi odnosno izvoditi radove u skladu s odlukom o obnovi, odlukom o uklanjanju zgrade odnosno odlukom o izgradnji zamjenske obiteljske kuće i projektom te u skladu s propisima kojima se uređuje gradnja.
+(2) Na odgovornost izvođača za radove na obnovi, izgradnji zamjenskih obiteljskih kuća ili uklanjanju zgrade koji se provode na temelju ovoga Zakona na odgovarajući se način primjenjuju odredbe o odgovornosti izvođača propisane propisima kojima se uređuje gradnja i inspekcijski nadzor građenja te propisima kojima se uređuje obavljanje poslova i djelatnosti prostornog uređenja i gradnje.
+(3) Izvođač odnosno druga osoba koju odredi izvođač ili Ministarstvo na temelju odluke o obnovi ima pravo privremeno i bez naknade zauzeti javnu površinu ili drugo zemljište nužno za organizaciju gradilišta, postav skele i/ili koristiti je za pristup gradilištu i dovoz i odvoz građevnih proizvoda odnosno građevinskog otpada, a što se u odluci navodi.

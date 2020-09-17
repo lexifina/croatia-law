@@ -1,0 +1,6 @@
+## Novčana pomoć za obnovu zgrade
+# Članak 36.
+(1) Vlasnik odnosno suvlasnici oštećene višestambene zgrade, stambeno-poslovne zgrade, poslovne zgrade i obiteljske kuće koji na temelju odluke o obnovi donesene na temelju ovoga Zakona sami obnavljaju zgradu imaju pravo na novčanu pomoć za opravdane troškove konstrukcijske obnove.
+(2) Pomoć iz stavka 1. ovoga članka ne može biti veća od vrijednosti projekta obnove, stručnog nadzora građenja i građevinskih radova na obnovi na koje vlasnik odnosno suvlasnici imaju pravo prema ovom Zakonu, a koja se vrijednost procjenjuje u skladu s ovim Zakonom i programom mjera, i ne može biti veća od udjela Republike Hrvatske, Grada Zagreba, Krapinsko-zagorske i Zagrebačke županije iz članka 5. stavaka 2. i 3. ovoga Zakona.
+(3) Iznos novčane pomoći iz stavka 1. ovoga članka nakon završene obnove na temelju odluke o obnovi određuje Ministarstvo odlukom o isplati novčane pomoći u skladu s programom mjera.
+(4) U slučaju iz stavka 1. ovoga članka vlasnik odnosno suvlasnici oštećene višestambene zgrade, stambeno-poslovne zgrade, poslovne zgrade i obiteljske kuće oslobođeni su osiguranja odnosno uplate sredstava za obnovu iz članka 5. stavaka 2. i 3. ovoga Zakona.

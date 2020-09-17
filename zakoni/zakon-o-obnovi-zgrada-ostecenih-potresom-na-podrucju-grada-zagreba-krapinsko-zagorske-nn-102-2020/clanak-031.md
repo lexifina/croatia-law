@@ -1,0 +1,5 @@
+## Odgovornost glavnog projektanta, projektanta i revidenta
+# Članak 31.
+(1) Na odgovornost glavnog projektanta projekta za građenje zamjenske obiteljske kuće na odgovarajući se način primjenjuju odredbe o odgovornosti glavnog projektanta za cjelovitost i međusobnu usklađenost projekata glavnog projekta propisane propisima kojima se uređuje gradnja te propisima kojima se uređuje obavljanje poslova i djelatnosti prostornog uređenja i gradnje.
+(2) Na odgovornost projektanta za izrađeni projekt za građenje zamjenske obiteljske kuće na odgovarajući se način primjenjuju odredbe o odgovornosti projektanta za glavni projekt propisane propisima kojima se uređuje gradnja te propisima kojima se uređuje obavljanje poslova i djelatnosti prostornog uređenja i gradnje.
+(3) Na odgovornost revidenta za izrađeno izvješće o kontroli projekta za građenje zamjenske obiteljske kuće na odgovarajući se način primjenjuju odredbe o odgovornosti revidenta za kontrolu glavnog projekta propisane propisima kojima se uređuje gradnja te propisima kojima se uređuje obavljanje poslova i djelatnosti prostornog uređenja i gradnje.

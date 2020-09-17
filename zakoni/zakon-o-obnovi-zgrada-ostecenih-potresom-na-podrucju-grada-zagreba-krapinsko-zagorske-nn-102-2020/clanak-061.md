@@ -1,0 +1,2 @@
+# Članak 61.
+Odluka o osiguranju novčane pomoći za privremenu i nužnu zaštitu i popravak zgrada oštećenih potresom na području Grada Zagreba i okolice (»Narodne novine«, br. 55/20.) i Odluka o financiranju najamnine za stambeno zbrinjavanje osoba čije su nekretnine stradale u potresu na području Grada Zagreba, Zagrebačke županije i Krapinsko-zagorske županije (»Narodne novine«, br. 57/20.) ostaju na snazi.

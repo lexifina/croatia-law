@@ -1,0 +1,7 @@
+## Mjesto gradnje zamjenske obiteljske kuće
+# Članak 28.
+(1) Zamjenska obiteljska kuća gradi se na mjestu uklonjene kuće, osim u slučaju klizišta, u kojem se slučaju gradi na novoj lokaciji na području Grada Zagreba, Krapinsko-zagorske županije i Zagrebačke županije na kojem se nalazila uklonjena kuća, a na kojoj lokaciji je prostornim planom planirana gradnja zgrada stambene namjene.
+(2) Zamjenska obiteljska kuća na novoj lokaciji gradi se na zemljištu u vlasništvu vlasnika uklonjene kuće odnosno na zemljištu Grada Zagreba, Krapinsko-zagorske županije i Zagrebačke županije ako vlasnik uklonjene kuće ili njegov bračni drug nema u vlasništvu odgovarajuće zemljište.
+(3) Ako se zamjenska obiteljska kuća na novoj lokaciji gradi na zemljištu u vlasništvu Grada Zagreba, Krapinsko-zagorske županije i Zagrebačke županije, vlasnik uklonjene kuće dužan je zemljište na kojemu je bila uklonjena kuća darovati Gradu Zagrebu odnosno županiji najkasnije do preuzimanja zamjenske kuće, a koji su njemu dužni darovati zemljište na kojemu je izgrađena zamjenska obiteljska kuća.
+(4) Ako vlasnik uklonjene kuće ne želi darovati zemljište iz stavka 3. ovoga članka, dužan je prije preuzimanja zamjenske kuće Gradu Zagrebu odnosno Krapinsko-zagorskoj županiji odnosno Zagrebačkoj županiji platiti zemljište na kojemu je izgrađena zamjenska kuća po tržišnoj cijeni zemljišta.
+(5) Na darovanje iz stavka 3. ovoga članka ne plaća se porez na promet nekretnina.
