@@ -1,0 +1,1 @@
+Na temelju članka 51. stavka 7., članka 52. stavka 7., članka 59. stavka 5. i članka 62. stavka 9. Zakona o osiguranju (»Narodne novine«, broj 30/15, 112/18 i 63/20), Hrvatska agencija za nadzor financijskih usluga (dalje u tekstu: Hanfa), na sjednici Upravnog vijeća održanoj 10. rujna 2020. godine donijela je
