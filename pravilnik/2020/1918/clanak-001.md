@@ -1,0 +1,2 @@
+# Članak 1.
+U Pravilniku o osposobljavanju kandidata za vozače (»Narodne novine«, broj 132/17 i 6/18 - ispravak) u članku 3. stavku 2. iza riječi: »uvjeta« umjesto zareza stavlja se točka, a riječi: »a ovlaštena stručna organizacija dužna je izmijenjeni Pravilnik o organizaciji i uvjetima rada autoškole proslijediti Ministarstvu unutarnjih poslova (u daljnjem tekstu: Ministarstvo) u roku osam dana od dana njegova primitka.« brišu se.

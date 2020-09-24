@@ -1,0 +1,2 @@
+# Članak 6.
+U Prilogu 1. Plan i okvirni program osposobljavanja kandidata za vozače tablica »Pregled minimalnog broja nastavnih sati osposobljavanja kandidata za vozače vozila«, koja je tiskana uz Pravilnik o osposobljavanju kandidata za vozače (»Narodne novine«, br. 32/17 i 6/18 - ispravak), zamjenjuje se tablicom »Pregled minimalnog broja nastavnih sati osposobljavanja kandidata za vozače vozila« koja je tiskana uz ovaj Pravilnik i čini njegov sastavni dio.

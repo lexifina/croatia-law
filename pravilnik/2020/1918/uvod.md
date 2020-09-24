@@ -1,0 +1,1 @@
+Na temelju članka 200. stavka 4. i članka 213. stavka 7. Zakona o sigurnosti prometa na cestama (»Narodne novine« br. 67/08, 48/10, 74/11, 80/13, 158/13, 92/14, 64/15, 108/17 i 70/19), ministar unutarnjih poslova, u suglasnosti s ministrom nadležnim za poslove prometa, donosi
