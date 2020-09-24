@@ -1,0 +1,7 @@
+# Članak 7.
+Članak 19. mijenja se i glasi:
+»Ispit iz nastavnog predmeta Upravljanje vozilom u pravilu se polaže na vozilu na kojem se kandidat osposobljavao, a iznimno kandidat može polagati ispit koristeći vozilo ovlaštene stručne organizacije ili vozilo iste ili druge autoškole.
+Vozilo na kojem se polaže ispit iz nastavnog predmeta Upravljanje vozilom mora udovoljavati uvjetima propisanim ovim Pravilnikom, Programom vozačkog ispita i opremljeno u skladu s Pravilnikom o osposobljavanju kandidata za vozače, odnosno u skladu s Pravilnikom o minimalnim standardima za rad autoškola.
+Ispit iz nastavnog predmeta Upravljanje vozilom provodi se na vozilu iz stavka 1. ovog članka na kojem nema krovne ploče za označavanje vozila autoškole.
+Ovlašteni ispitivač tijekom provedbe ispita iz nastavnog predmeta Upravljanje vozilom za AM, A1, A2, A, B, BE, C1, C1E, C, CE, D1, D1E, D i DE kategorije obvezan je koristiti sustav audio-video snimanja tijeka provedbe ispita koji je povezan s odgovarajućim tehničko-tehnološkim rješenjem satelitskog praćenja vozila (GPS) te pohranjuje sve podatke na posebnu memoriju (server), a koja mora biti stalno dostupna i nadležnom Ministarstvu.
+Način postupanja ovlaštenih ispitivača iz stavka 4. ovog članka, način rada, način zaduživanja i razduživanja sustava audio-video snimanja, tehničko-tehnološkog rješenja za praćenje i unos podataka, način dostave, način pohranjivanja te način i rok čuvanja, pravo uvida u podatke te kome će se moći davati ti podaci, propisuje se općim aktom ovlaštene stručne organizacije.«.
