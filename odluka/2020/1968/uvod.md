@@ -1,0 +1,1 @@
+Na temelju članka 18. stavka 1. točke 1. Zakona o računovodstvu (»Narodne novine«, br. 78/15, 120/16, 116/18, 42/20 i 47/20 ) Odbor za standarde financijskog izvještavanja na sjednici održanoj 15. rujna 2020. godine, donio je
