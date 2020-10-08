@@ -1,0 +1,1 @@
+Na temelju članka 525. stavka 10. Zakona o tržištu kapitala (»Narodne novine« br. 65/18 i 17/2020), Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća održanoj 24. rujna 2020. donosi

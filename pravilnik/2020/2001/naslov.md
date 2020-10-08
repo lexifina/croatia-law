@@ -1,0 +1,1 @@
+Pravilnik o strukturi, sadržaju, načinu i rokovima dostave izvještaja kod iznimke od obveze upisa nematerijaliziranih vrijednosnih papira kod središnjeg depozitorija ili drugog registra propisanog posebnim zakonom
