@@ -1,0 +1,1 @@
+Na temelju članka 10. stavka 7., a u vezi s člankom 128. stavkom 1. Zakona o vatrogastvu (»Narodne novine«, broj 125/19) i članka 12. stavka 2. Zakona o ustanovama (»Narodne novine«, br. 76/93, 29/97, 47/99, 35/08 i 127/19), Vlada Republike Hrvatske je na sjednici održanoj 30. rujna 2020. donijela

@@ -1,0 +1,2 @@
+# Članak 9.
+Upravno vijeće donosi program rada i razvoja Vatrogasne škole, nadzire njegovo izvršavanje, odlučuje o financijskom planu i godišnjem obračunu, predlaže Vladi Republike Hrvatske promjenu i proširenje djelatnosti, donosi Statut i druge opće akte, daje Vladi Republike Hrvatske i ravnatelju Vatrogasne škole prijedloge i mišljenja o pojedinim pitanjima te donosi odluke i obavlja druge poslove određene ovom Uredbom i Statutom Vatrogasne škole.
