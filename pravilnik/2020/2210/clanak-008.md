@@ -1,0 +1,2 @@
+# Članak 8.
+Na kraju Priloga III. dodaju se riječi: »Napomena: označavanje ulaganja provodi se prije svega na mjestima na kojima je isticanje znaka uočljivo, odnosno primjereno je koristiti oznaku na mjestu gdje se odvija promidžba, na tiskanom promotivnom materijalu web stranicama, promotivnim spotovima/filmovima, pri oglašavanju u tisku, TV-u i radiju, te internetu odnosno u vanjskom oglašavanju na reklamnim panoima.«
