@@ -1,0 +1,2 @@
+# Članak 5.
+U slučaju proglašenja opasnosti od epidemije ili epidemije sukladno posebnom propisu, doktor medicine koji na dan stupanja na snagu ovoga Pravilnika radi pod nadzorom može se odlukom ministra uputiti na obavljanje poslova epidemiologije zaraznih i drugih karantenskih bolesti u Hrvatski zavod za javno zdravstvo ili zavod za javno zdravstvo jedinice područne (regionalne) samouprave odnosno Grada Zagreba sukladno odredbama ovoga Pravilnika.

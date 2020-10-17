@@ -1,0 +1,2 @@
+# Članak 1.
+U Pravilniku o načinu provođenja rada pod nadzorom doktora medicine bez specijalizacije (»Narodne novine«, broj 63/19) u članku 3. stavku 1. briše se točka i dodaju se riječi: »te u djelatnosti epidemiologije zaraznih bolesti te kroničnih nezaraznih bolesti koju obavlja Hrvatski zavod za javno zdravstvo i zavod za javno zdravstvo jedinice područne (regionalne) samouprave odnosno Grada Zagreba.«.
