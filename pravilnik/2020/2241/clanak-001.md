@@ -1,0 +1,4 @@
+# Članak 1.
+U Pravilniku o provedbi Općeg poreznog zakona (»Narodne novine«, broj 45/19, 35/20, 43/20, 50/20, 70/20, 74/20 i 103/20) u članku 71.zc iza stavka 1. dodaju se stavci 2. i 3. koji glase:
+»(2) U uvjetima posebnih okolnosti iz članka 107.a Zakona, iznimno od posebnih propisa o oporezivanju dohotka, trošak cijepljenja protiv zaraznih bolesti što ga poslodavac i isplatitelj primitka odnosno plaće na svoj teret omogućuje radnicima i fizičkim osobama koje ostvaruju primitke iz članka 21. stavka 1. Zakona o porezu na dohodak u interesu obavljanja djelatnosti poslodavca i isplatitelja primitka odnosno plaće ne smatra se primitkom po osnovi nesamostalnog rada neovisno o načinu podmirenja troška cijepljenja.«.
+»(3) Odredba stavka 2. ovoga članka primjenjuje se do 31. prosinca 2020. godine.«
