@@ -1,0 +1,2 @@
+R J E Š E N J E
+Ne prihvaćaju se prijedlozi za pokretanje postupka za ocjenu suglasnosti s Ustavom članka 26. stavka 2. Zakona o hrvatskom državljanstvu ("Narodne novine" broj 53/91., 70/91., 28/92., 113/93., 4/94., 130/11., 110/15. i 102/19.), članka 41. Zakona o sigurnosnim provjerama ("Narodne novine" broj 85/08. i 86/12.) i članka 42. Zakona o sigurnosno-obavještajnom sustavu Republike Hrvatske ("Narodne novine" broj 79/06. i 105/06.).
