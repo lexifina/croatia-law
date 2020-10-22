@@ -1,0 +1,7 @@
+DOPUNE PROGRAMA DODJELE DRŽAVNIH POTPORA SEKTORU MORA, PROMETA, PROMETNE INFRASTRUKTURE I POVEZANIM DJELATNOSTIMA U AKTUALNOJ PANDEMIJI COVID-a 19
+I.
+U Programu dodjele državnih potpora sektoru mora, prometa, prometne infrastrukture i povezanim djelatnostima u aktualnoj pandemiji COVID-a 19 (»Narodne novine«, broj 77/20), u točki III. stavku 1. iza riječi: »49.39 Ostali kopneni prijevoz (ne obuhvaća taksi službu)«, dodaju se riječi: »49.41. Cestovni prijevoz robe«.
+Iza stavka 3. dodaje se novi stavak 4. koji glasi: »Prihvatljivim korisnicima smatraju se i oni poduzetnici koji imaju potpisane Ugovore o pružanju javnih usluga, a koji u svim ostalim odredbama zadovoljavaju uvjete propisane Programom. Davatelj potpore dužan je osigurati da navedeni korisnici potpora ovog Programa neće zaprimati prekomjernu naknadu uzimajući u obzir sve javne mjere koje koriste.«.
+Dosadašnji stavci 4. i 5. postaju stavci 5. i 6.
+II.
+U točki IV. stavku 1. iza riječi: »godine« briše se točka, dodaje zarez i riječi: »a izuzev mikro i malih poduzetnika koji su točkom 15. Trećih izmjena Privremenog okvira za mjere državne potpore u svrhu podrške gospodarstvu u aktualnoj pandemiji COVID-a 19 Europske komisije od 29. lipnja 2020. definirani kao prihvatljivi korisnici (SL C 218, 2. 7. 2020. str. 3.). Sukladno Odluci Europske komisije (S.A. 58128 od 30. 7. 2020.) navedeni poduzetnici mogu biti korisnici potpora pod uvjetom da se nad njima ne provodi cjelokupni stečajni postupak u skladu s nacionalnim pravom i da nisu primili potporu za sanaciju ili potporu za restrukturiranje.«.
