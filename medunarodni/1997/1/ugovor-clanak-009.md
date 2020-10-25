@@ -1,9 +1,0 @@
-# Članak 9.
-RJEŠAVANJE SPOROVA IZMEĐU UGOVORNIH STRANAKA
-1. Sporovi između ugovornih stranaka koji se tiču tumačenja ili primjene ovog ugovora rješavat će se, ako je to moguće, konzultacijama ili pregovorima kroz diplomatske kanale.
-2. Ako se spor ne može riješiti na taj način u roku od šest mjeseci, on će se na zahtjev jedne od ugovornih stranaka, podnijeti na rješavanje arbitražnom sudu u skladu s odredbama ovog članka.
-3. Arbitražni sud osniva se za svaki pojedini slučaj na sljedeći način: u roku od dva mjeseca po primitku zahtjeva za arbitiranjem, svaka ugovorna stranka imenovat će jednog člana arbitražnog suda. Ta dva člana će tada izabrati državljana treće države koja održava diplomatske odnose s obje ugovorne stranke, koji će, nakon odobrenja obiju ugovornih stranaka, biti imenovan predsjedavajućim arbitražnog suda (u daljnjem tekstu: »predsjedavajući«). Predsjedavajući mora biti imenovan u roku od tri mjeseca od datuma imenovanja druga dva člana.
-4. Ukoliko u rokovima navedenim u stavku 3. ovog članka potrebna imenovanja ne budu obavljena, može se podnijeti zahtjev predsjedniku Međunarodnog suda pravde da on izvrši imenovanja. Ako je on slučajno državljanin jedne od ugovornih stranaka, ili ako je na drugi način spriječen u obavljanju navedene funkcije, pozvat će se potpredsjednik da on izvrši imenovanja. Ako je i potpredsjednik državljanin jedne od ugovornih stranaka ili je spriječen u obavljanju navedene funkcije, pozvat će se član Međunarodnog suda pravde sljedeći po starješinstvu da izvrši imenovanja.
-5. Arbitražni sud donijet će svoju odluku većinom glasova. Odluka arbitražnog suda je konačna i obvezujuća za obje ugovorne stranke.
-6. Svaka ugovorna stranka snosit će troškove svog arbitra i svog zastupanja u arbiražnom postupku; troškove predsjedavajućeg i preostale troškove snosit će jednako obje ugovorne stranke.
-7. Arbiražni sud će utvrditi vlastiti postupak.
