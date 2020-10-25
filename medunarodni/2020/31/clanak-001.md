@@ -1,0 +1,2 @@
+# Članak 1.
+Objavljuje se Sporazum o prestanku bilateralnih ugovora o ulaganjima između država članica Europske unije, sklopljen u Bruxellesu 5. svibnja 2020., u izvorniku na bugarskom, češkom, danskom, engleskom, estonskom, francuskom, grčkom, hrvatskom, latvijskom, litavskom, mađarskom, malteškom, nizozemskom, njemačkom, poljskom, portugalskom rumunjskom, slovačkom, slovenskom, španjolskom i talijanskom jeziku.
