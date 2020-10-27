@@ -1,0 +1,5 @@
+# Članak 3.
+1. Ugovore o besplatnom korištenju nekretnina iz članaka 1. i 2. ovog Sporazuma sklapaju nadležna tijela stranaka u skladu sa zakonodavstvom države u kojoj se nekretnine nalaze.
+2. Ugovori o besplatnom korištenju nekretnina sklapaju se za početno razdoblje od 10 godina. Ako se ugovori o besplatnom korištenju nekretnina sklapaju prije datuma stupanja na snagu ovog Sporazuma, moraju sadržavati odredbu kojom se utvrđuje da stupaju na snagu datumom stupanja na snagu ovog Sporazuma.
+3. Po isteku početnog 10-godišnjeg razdoblja trajanja ovog Sporazuma, novi ugovori o besplatnom korištenju nekretnina iz članaka 1. i 2. ovog Sporazuma sklapaju se pod istim uvjetima za daljnja 5-godišnja razdoblja, najkasnije 30 dana prije isteka ovog Sporazuma.
+U tom slučaju, ugovori o besplatnom korištenju nekretnina moraju sadržavati odredbu kojom se utvrđuje da stupaju na snagu na dan koji slijedi nakon datuma isteka tekućih ugovora o besplatnom korištenju nekretnina iz članaka 1. i 2. ovog Sporazuma.

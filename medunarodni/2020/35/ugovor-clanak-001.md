@@ -1,0 +1,3 @@
+# Članak 1.
+1. Vlada Republike Hrvatske daje na besplatno korištenje Ruskoj Federaciji zemljište i zgradu u Zagrebu koji su upisani u zemljišno knjižni uložak 1392 k.o. Grad Zagreb kao zemljišno knjižna čestica 919 - Kuća popisni broj 4191, dvorište i vrt u Bosanskoj ulici broj 51, površine zemljišta 1651 m2, površine zgrade 548 m2 i površine pomoćnog objekta 47 m2, na adresi Bosanska ulica 51 (u daljnjem tekstu »nekretnine«), u svrhu smještaja Konzularnog odjela Veleposlanstva Ruske Federacije u Republici Hrvatskoj.
+2. Podaci o smještaju i granicama zemljišta i na njemu razmještenih nekretnina iz stavka 1. ovog članka, označeni su na planu priloženom ovom Sporazumu kao Prilog br. 1, koji je sastavni dio ovog Sporazuma.
