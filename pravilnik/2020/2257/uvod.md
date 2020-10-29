@@ -1,0 +1,1 @@
+Na temelju odredbi članka 387. stavka 8., članka 390. stavka 5. i članka 390. stavka 5. Zakona o tržištu kapitala (»Narodne novine« broj 65/18 i 17/2020), Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća održanoj 15. listopada 2020. donosi

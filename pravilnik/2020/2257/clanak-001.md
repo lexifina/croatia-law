@@ -1,0 +1,13 @@
+## Područje primjene
+# Članak 1.
+Ovim Pravilnikom pobliže se uređuje:
+1. sadržaj, format, rokovi i način dostave godišnjeg izvješća iz članka 387. stavka 2. Zakona o usklađenosti s odredbama Uredbe (EU) br. 648/2012 Europskog parlamenta i Vijeća od 4. srpnja 2012. o OTC izvedenicama, središnjoj drugoj ugovornoj strani i trgovinskom repozitoriju, od strane:
+- financijskih ugovornih strana za čiji nadzor je Hanfa ovlaštena, a koje u odnosu na svoju ukupnu imovinu imaju značajne pozicije u OTC izvedenicama
+- nefinancijskih ugovornih strana koje prelaze prag poravnanja
+- nefinancijskih ugovornih strana koje bi prešle bar jedan od pragova poravnanja (po klasama OTC izvedenica), ako bi se u izračun uključile transakcije koje su izuzete jer objektivno mjerljivo smanjuju rizike koji se izravno odnose na komercijalnu aktivnost ili aktivnost financiranja poslovanja te nefinancijske druge ugovorne strane ili njene grupe
+- nefinancijskih ugovornih strana koje imaju značajne pozicije u OTC izvedenicama
+2. sadržaj, format, rokovi i način dostave godišnjeg izvješća iz članka 390. stavka 2. Zakona o izračunu i praćenju pragova propisanima Delegiranom uredbom (EU) br. 2017/592 (utvrđivanje kada se aktivnost treba smatrati pomoćnom uz redovnu djelatnost u smislu članka 4. stavka 1. točke 10. ZTK), od strane nefinancijskih drugih ugovornih strana koje:
+- prelaze prag poravnanja za robne izvedenice, što obuhvaća i izvedenice na emisijske jedinice
+- bi prešle pragove poravnanja za robne izvedenice, što obuhvaća i izvedenice na emisijske jedinice, ako bi se u izračun uključile transakcije koje su izuzete jer objektivno mjerljivo smanjuju rizike koji se izravno odnose na komercijalnu aktivnost ili aktivnost financiranja poslovanja te nefinancijske ugovorne strane ili njene grupe
+- koje imaju značajne pozicije u OTC robnim izvedenicama, ETD-ovima koji se odnose na robu, kao i u emisijskim jedinicama, pri čemu se »značajnim pozicijama« imaju smatrati one pozicije koje prelaze pragove iz članka 387. stavka 4. Zakona
+3. sadržaj, format, rokovi i način dostave izvješća godišnjeg izvješća iz članka 391. stavka 3. Zakona o primjeni izuzeća iz članka 391. stavka 1. Zakona od strane nefinancijskih drugih ugovornih strana (izuzeće od primjene ograničenja pozicija u robnim izvedenicama i ekonomski jednakovrijednim OTC ugovorima iz članka 375. Zakona i izuzeće od primjene odredbi o transparentnosti prije trgovanja iz članka 8. Uredbe (EU) br. 600/2014), te primjeni izuzeća iz članka 391. stavka 2. Zakona od strane financijskih i nefinancijskih drugih ugovornih strana (izuzeće od primjene odredbi o obvezi trgovanja na mjestu trgovanja za izvedenice iz članka 28. Uredbe (EU) br. 600/2014).
