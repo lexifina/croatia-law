@@ -1,0 +1,2 @@
+# Članak 1.
+U Uredbi o unutarnjem ustrojstvu Državnog inspektorata (»Narodne novine«, broj 97/20), u tablici Okvirni broj potrebnih državnih službenika i namještenika u Državnom inspektoratu, koja je sastavni dio Uredbe, u točkama 2.1.13., 2.2.13, 2.3.13. i 2.4.13. naziv službe: »Služba inspekcije zaštite okoliša i vodopravne inspekcije« zamjenjuje se nazivom službe: »Služba za nadzor zaštite okoliša i vodopravne inspekcije«.
