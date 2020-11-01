@@ -1,0 +1,1 @@
+Odluka o proširenju primjene Kolektivnoga ugovora o izmjenama i dopunama Kolektivnog ugovora za graditeljstvo (od 25. rujna 2015.) - druge izmjene i dopune i Kolektivnoga ugovora o izmjenama i dopunama Kolektivnog ugovora za graditeljstvo (od 25. rujna 2015.) - treće izmjene i dopune
