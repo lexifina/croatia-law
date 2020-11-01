@@ -1,0 +1,1 @@
+Odluka o iznosu tarifnih stavki za javnu uslugu opskrbe plinom za razdoblje od 1. studenoga do 31. prosinca 2020. te za razdoblje od 1. siječnja do 31. ožujka 2021. za energetski subjekt DARKOM DISTRIBUCIJA PLINA d.o.o., Josipa Kozarca 19, Daruvar
