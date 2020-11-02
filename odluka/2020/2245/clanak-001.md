@@ -1,0 +1,2 @@
+# Članak 1.
+Ovom Odlukom uređuje se određivanje i objava prodajnih cijena prigodnoga zlatnoga i srebrnoga kovanog novca i numizmatičkih kompleta koje se primjenjuju pri neposrednoj prodaji od strane Hrvatske narodne banke te određivanje prodajnih cijena prigodnoga zlatnoga i srebrnoga kovanog novca i numizmatičkih kompleta koje se primjenjuju pri neposrednoj prodaji od strane ovlaštenog prodavatelja.
