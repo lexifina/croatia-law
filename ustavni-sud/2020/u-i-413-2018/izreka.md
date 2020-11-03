@@ -1,0 +1,2 @@
+R J E Š E N J E
+Ne prihvaća se prijedlog za pokretanje postupka za ocjenu suglasnosti s Ustavom članka 8. stavka 1. točke 1. Zakona o plaćama sudaca i drugih pravosudnih dužnosnika ("Narodne novine" broj 10/99., 25/00., 1/01., 30/01., 59/01., 114/01., 116/01., 64/02., 153/02., 154/02., 17/04., 8/06., 142/06., 34/07., 134/07., 146/08., 155/08., 39/09., 155/09., 14/11., 154/11., 12/12., 143/12., 100/14., 147/14., 120/16. i 16/19.).
