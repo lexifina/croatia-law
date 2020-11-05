@@ -1,0 +1,3 @@
+# Članak 1.
+U Zakonu o građevnim proizvodima (»Narodne novine«, br. 76/13., 30/14., 130/17. i 39/19.) članak 1. mijenja se i glasi:
+»Ovim se Zakonom uređuju sustavi ocjenjivanja i provjere stalnosti svojstava građevnih proizvoda, radnje koje u okviru ocjenjivanja i provjere stalnosti svojstava građevnih proizvoda provode proizvođači građevnih proizvoda te prijavljena i odobrena tijela, dokumenti ocjenjivanja i provjere stalnosti svojstava građevnih proizvoda, zahtjevi za prijavljena i odobrena tijela, postupak prijave, obveze prijavljenih i odobrenih tijela, obveze i zahtjevi za imenovanje tijela za tehničko ocjenjivanje i druga pitanja bitna za stavljanje na tržište ili stavljanje na raspolaganje na tržište građevnih proizvoda.«.

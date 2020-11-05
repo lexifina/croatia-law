@@ -1,0 +1,9 @@
+# Članak 2.
+Članak 2. mijenja se i glasi:
+»Ovim Zakonom osigurava se provedba sljedećih akata Europske unije:
+- Uredbe (EZ) br. 765/2008 Europskog parlamenta i Vijeća od 9. srpnja 2008. o utvrđivanju zahtjeva za akreditaciju i za nadzor tržišta u odnosu na stavljanje proizvoda na tržište i o stavljanju izvan snage Uredbe (EEZ) br. 339/93 (Tekst značajan za EGP) (SL L 218, 13. 8. 2008.) (u daljnjem tekstu: Uredba (EZ) br. 765/2008),
+- Uredbe (EU) br. 305/2011 Europskog parlamenta i Vijeća od 9. ožujka 2011. o utvrđivanju usklađenih uvjeta za stavljanje na tržište građevnih proizvoda i stavljanju izvan snage Direktive Vijeća 89/106/EEZ (Tekst značajan za EGP) (SL L 88, 4. 4. 2011.) (u daljnjem tekstu: Uredba (EU) br. 305/2011),
+- Delegirane uredbe Komisije (EU) br. 568/2014 оd 18. veljače 2014. o izmjeni Priloga V. Uredbi (EU) br. 305/2011 Europskog parlamenta i Vijeća u pogledu ocjenjivanja i provjere stalnosti svojstava građevnih proizvoda (SL L 157, 27. 5. 2014.),
+- Delegirane uredbe Komisije (EU) br. 574/2014 оd 21. veljače 2014. o izmjeni Priloga III. Uredbi (EU) br. 305/2011 Europskog parlamenta i Vijeća o predlošku za sastavljanje izjave o svojstvima građevnih proizvoda (SL L 159, 28. 5. 2014.),
+- Uredbe (EU) 2019/515 Europskog parlamenta i Vijeća od 19. ožujka 2019. o uzajamnom priznavanju robe koja se zakonito stavlja na tržište u drugoj državi članici i stavljanju izvan snage Uredbe (EZ) br. 764/2008 (Tekst značajan za EGP) (SL L 91/1, 29. 3. 2019.) (u daljnjem tekstu: Uredba (EU) 2019/515),
+- Uredbe (EU) 2019/1020 Europskog parlamenta i Vijeća od 20. lipnja 2019. o nadzoru tržišta i sukladnosti proizvoda i o izmjeni Direktive 2004/42/EZ i uredbi (EZ) br. 765/2008 i (EU) br. 305/2011 (Tekst značajan za EGP) (SL L 169/1, 25. 6. 2019.) (u daljnjem tekstu: Uredba (EU) 2019/1020).«.
