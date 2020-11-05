@@ -1,0 +1,1 @@
+Na temelju članka 12. i 15. Zakona o turističkim zajednicama i promicanju hrvatskog turizma (»Narodne novine«, broj 52/2019 - u daljnjem tekstu: Zakon), Skupština Turističke zajednice Zadarske županije uz prethodnu suglasnost Ministarstva turizma i sporta, na sjednici održanoj 31. kolovoza 2020. godine donijela je
