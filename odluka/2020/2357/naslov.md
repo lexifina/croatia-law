@@ -1,0 +1,1 @@
+Odluka o uvođenju nužne epidemiološke mjere zabrane posjeta korisnicima domova za starije i nemoćne osobe te korisnicima drugih ustanova koje pružaju uslugu smještaja u sustavu socijalne skrbi na području Zadarske županije
