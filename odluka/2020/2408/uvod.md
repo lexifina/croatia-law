@@ -1,0 +1,1 @@
+Na temelju članka 47. stavka 2. točke 9. Zakona o zaštiti pučanstva od zaraznih bolesti (»Narodne novine«, broj 79/07, 113/08, 43/09, 130/17, 114/18 i 47/20), na prijedlog Hrvatskog zavoda za javno zdravstvo (klasa: 501-05/20-15/2, urbroj: 381-15-150-20-414) od 30. listopada 2020., ministar zdravstva donosi
