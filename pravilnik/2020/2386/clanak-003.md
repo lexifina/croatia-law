@@ -1,0 +1,10 @@
+## Predmet potpore
+# Članak 3.
+(1) Predmet potpore je naknada ovlaštenicima povlastica i članovima posade ribarskog plovila za kojeg je ta povlastica izdana za privremeni prestanak ribolovnih aktivnosti (u daljnjem tekstu: privremena obustava) iz stavka 2. ovoga članka, u segmentu ribolova okružujućim mrežama plivaricama - srdelarama (u daljnjem tekstu: plivaričarski ribolov).
+(2) Privremena obustava u smislu ovoga Pravilnika je privremena obustava na području cijelog ribolovnog mora Republike Hrvatske u razdoblju tijekom kojega je za najmanje 30 posto članova posade iz članka 2. stavka 1. točke b) određena mjera izolacije i/ili samoizolacije iz članka 2. stavka 1. točke e) odnosno točke n) ovoga Pravilnika uslijed pandemije virusa COVID-19.
+(3) Razdoblje privremene obustave iz stavka 2. ovoga članka započinje onoga dana kojega je započela izolacija ili samoizolacija onoga člana posade čijom izolacijom ili samoizolacijom broj članova posade sa određenom mjerom izolacije ili samoizolacije čini najmanje 30 posto ukupnog broja članova posade ribarskog plovila.
+(4) Razdoblje privremene obustave iz stavka 2. ovoga članka završava onoga dana kojega je završila izolacija ili samoizolacija onoga člana posade čijim završetkom izolacije ili samoizolacije broj članova posade sa određenom mjerom izolacije ili samoizolacije čini manje od 30 posto ukupnog broja članova posade ribarskog plovila,
+(5) Iznimno od stavka 4. ovoga članka, razdoblje privremene obustave može trajati zaključno do 31. prosinca 2020. godine.
+(6) Privremena obustava iz stavaka 1. i 2. ovoga članka ne predstavlja prostorno-vremensko ograničenje obavljanja gospodarskog ribolova proglašeno na temelju Zakona o morskom ribarstvu te nije obavezna za korisnike koji neće sudjelovati u provedbi ovoga Pravilnika.
+(7) Za potrebe stavka 6. ovoga članka, obveze korisnika koji će sudjelovati u privremenoj obustavi u smislu ovoga Pravilnika su propisane člankom 5. ovoga Pravilnika.
+(8) Odredbe ovoga Pravilnika ne dovode u pitanje odredbe zakonskih i podzakonskih propisa iz područja radnih odnosa.
