@@ -1,0 +1,2 @@
+# Članak 3.
+Nedovršeni postupci obračuna naknade za šumsko zemljište u svrhu osnivanja prava služnosti radi istraživanja u svrhu eksploatacije mineralnih sirovina te radi izgradnje i održavanja infrastrukture, koja se osniva na vrijeme dok postoji razumna svrha radi koje je osnovano pravo služnosti, započeti na temelju akata o osnivanju prava služnosti donesenih do dana stupanja na snagu ovoga pravilnika, dovršit će se sukladno odredbama ovoga Pravilnika.
