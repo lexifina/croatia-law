@@ -1,0 +1,2 @@
+# Članak 3.
+Na licu prigodnoga srebrnoga kovanog novca u središnjem je dijelu prikaz kompleksa Arheološkog muzeja u Splitu. Muzejski kompleks čini muzejska zgrada s prostranim trijemom, čija je vanjska strana zatvorena visokim masivnim zidom. Trijem kosoga krova okružuje veliki vrt zasađen uglavnom mediteranskom crnogoricom. Kružno, uz rub kovanog novca, ispisan je natpis »200. OBLJETNICA OSNIVANJA ARHEOLOŠKOG MUZEJA U SPLITU«. Ispod prikaza muzejskoga kompleksa nalazi se natpis »1820. - 2020.«.
