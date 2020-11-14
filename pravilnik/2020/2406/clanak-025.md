@@ -1,0 +1,3 @@
+## ZAVRŠNE ODREDBE
+# Članak 25.
+Stupanjem na snagu ovoga Pravilnika prestaje važiti Pravilnik o posebnim staništima riba i drugih morskih organizama i regulaciji ribolova u Velebitskom kanalu, Novigradskom i Karinskom moru, Prokljanskom jezeru, Marinskom zaljevu i Neretvanskom kanalu (»Narodne novine«, br. 148/04, 152/04, 55/05, 96/06, 123/09 i 130/09 - ispravak) i članak 14. stavak 5. točke 13. - 15. Pravilnika o obavljanju gospodarskog ribolova na moru mrežama stajaćicama, klopkastim, udičarskim i probodnim ribolovnim alatima te posebnim načinima ribolova (»Narodne novine«, br. 84/15, 94/15, 107/15, 62/17 i 64/17.).

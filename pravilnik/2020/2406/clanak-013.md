@@ -1,0 +1,2 @@
+# Članak 13.
+Ovlaštenici povlastice za gospodarski ribolov na moru odnosno povlastice za mali obalni ribolov dužni su prilikom ispunjavanja očevidnika o ulovu u gospodarskom ribolovu na moru, odnosno izvješća o ulovu propisanih posebnim propisom o obliku, sadržaju i načinu vođenja i dostave podataka o ulovu u gospodarskom ribolovu na moru, evidentirati ribolovnu aktivnost u Parku prirode Lastovsko otočje na način da se u rubriku »podzona« upiše »C5-PPLO« ili »D1-PPLO« ili »G7-PPLO«, ovisno o tome u kojoj se podzoni u parku obavljala ribolovna aktivnost.

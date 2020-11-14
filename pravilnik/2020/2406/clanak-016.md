@@ -1,0 +1,4 @@
+## Velebitski kanal
+# Članak 16.
+(1) Velebitski kanal obuhvaća područje omeđeno spojnicama svjetionik Ertak na kopnu - rt Bajevec na otoku Krku - rt Solinji - rt Glavati - rt Škuljica na otoku Krku - rt Stražica na otoku Prvić - rt Šilo na otoku Prvić - rt Markonj na otoku Goli - hrid Mali Goli - rt Krklant na otoku Rabu - rt Gabar - Gornji rt na otoku Dolin - Zali rt otoku Pagu - Ljubačka vrata - Rt Korotanja na kopnu - Rt Baljenica na kopnu.
+(2) U akvatoriju Velebitskog kanala dozvoljeno je obavljanje ribolova plivaricom srdelarom, plivaricom lokardarom, plivaricom ciplaricom, potegačom migavicom i giraricom. potegačom šabakunom, mrežama stajaćicama, vršama za lov ribe i škampa, udičarskim ribolovnim alatima, ostima s i bez uporabe osvjetljenja, sakupljanje školjaka te upotreba podvodne puške u športskom ribolovu.

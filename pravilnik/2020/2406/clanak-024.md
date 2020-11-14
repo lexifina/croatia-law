@@ -1,0 +1,2 @@
+# Članak 24.
+Prikaz područja iz članka 2. stavka 5., članaka 3., 4. i 6., članka 7. stavka 2., članka 11. stavka 1., članka 14. stavka 2., članka 14. stavka 4. točke 5., članka 16. stavka 1., članka 17. stavka 1., članka 18. stavka 1., članka 19. stavka 1., članka 20. stavka 1., članka 21. stavka 1. i članka 22. stavka 1. ovog Pravilnika objavljen je na službenim web stranicama Uprave ribarstva www.ribarstvo.hr.

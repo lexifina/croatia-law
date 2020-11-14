@@ -1,0 +1,1 @@
+Na temelju članka 7. stavka 2. i članka 12. stavka 1. točke 12., a u svezi s člankom 14. stavkom 4. te uzimajući u obzir članak 7. stavak 3. Zakona o morskom ribarstvu (»Narodne novine«, br. 62/17, 130/17 i 14/19), ministrica poljoprivrede donosi

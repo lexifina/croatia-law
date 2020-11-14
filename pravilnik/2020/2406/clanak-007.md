@@ -1,0 +1,3 @@
+# Članak 7.
+(1) Ribolov u Parku prirode Telašćica dozvoljen je u području Podzone očuvanja biološkog bogatstva mora iz članka 6. stavka 5. i Podzoni regulacije gospodarskih aktivnosti iz članka 6. stavka 6. ovoga Pravilnika, u skladu s odredbama članaka 8., 9. i 10. ovoga Pravilnika.
+(2) Iznimno od stavka 1. ovoga članka u razdoblju od 1. svibnja do 1. listopada zabranjen je ribolov u području koje obuhvaća obalno područje, 50 metara od linije obale otoka Garmenjak Mali, Korotan, Mala Sestrica i središnji dio obalnog područja između uvale Ćuška Dumboka i Suhog rta na Dugom otoku (tzv. Ronilačka zona).

@@ -1,0 +1,9 @@
+## Zajedničke odredbe za ribolov u PP Telašćica
+# Članak 10.
+(1) Ovlaštenici povlastice za gospodarski ribolov na moru odnosno povlastice za mali obalni ribolov dužni su prilikom ispunjavanja očevidnika o ulovu u gospodarskom ribolovu na moru, odnosno izvješća o ulovu propisanih posebnim propisom o obliku, sadržaju i načinu vođenja i dostave podataka o ulovu u gospodarskom ribolovu na moru, evidentirati ribolovnu aktivnost u Parku prirode Telašćica na način da se u rubriku »podzona« upiše »F1-PPT« ili »B3 - PPT«, ovisno o tome u kojoj se podzoni u parku obavljala ribolovna aktivnost.
+(2) Mreže stajaćice smiju se polagati u more najmanje 2 sata prije zalaska sunca te se u gospodarskom ribolovu moraju dignuti iz mora najkasnije do 9 sati ujutro sljedećeg dana, a u malom obalnom ribolovu najkasnije 2 sata nakon izlaska sunca.
+(3) Zabranjeno je korištenje trostrukih mreža stajaćica u razdoblju od 15. svibnja do 10. rujna.
+(4) Iznimno od stavka 3. ovoga članka u razdoblju od 15. svibnja do 10. rujna dozvoljeno je koristiti mrežu listaricu u dijelu Podzone regulacije gospodarskih aktivnosti koji se preklapa sa ribolovnom zonom B.
+(5) Za vrijeme obavljanja ribolova ostima zabranjeno je koristiti plovilo koje se pokreće uz pomoć porivnog stroja te plovila s ugrađenim staklom na dnu plovila ili druge naprave pomoću kojih je moguće gledati pod morem.
+(6) U obavljanju ribolova ostima i povrazima s kukom za lov glavonožaca smije se koristiti umjetna rasvjeta po plovilu snage do 40 W za žarulju sa žarnom niti, 30 W za halogenu žarulju i 10 W za LED žarulju, odnosno kod plinskih ferala do 400 kandela.
+(7) Članci od 7. do 10. ovog Pravilnika primjenjuju se i na obavljanje malog obalnog ribolova, uzimajući u obzir ograničenja propisana posebnim propisom koji regulira mali obalni ribolov.
