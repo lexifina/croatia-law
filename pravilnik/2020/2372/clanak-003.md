@@ -1,0 +1,4 @@
+# Članak 3.
+(1) Automatizirani postupak uspoređivanja biometrijskih podataka je informacijski postupak koji bez ljudske intervencije provodi Informacijski sustav za automatiziranu obradu biometrijskih podataka Ministarstva unutarnjih poslova - Automatizirani sustav za biometrijsku identifikaciju (u daljnjem tekstu: ABIS).
+(2) U automatiziranom postupku iz stavka 1. ovog članka osobni podaci kao ni rezultati uspoređivanja se ne pohranjuju.
+(3) Iznimno od odredbe stavka 2. ovog članka, u slučaju pokretanja postupka iz članka 6. stavka 2. ovog Pravilnika, podaci o konačnom rezultatu uspoređivanja biometrijskih podataka pohranit će se u odgovarajućim zbirkama koje nadležna tijela vode na temelju posebnih propisa i/ili u informacijskim sustavima Europske unije iz članka 5. ovog Pravilnika, ovisno o kategoriji biometrijskih podataka.

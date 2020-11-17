@@ -1,0 +1,4 @@
+# Članak 19.
+(1) Postupak automatiziranog uspoređivanja biometrijskih podataka prikupljenih prilikom odbijanja ulaska u Republiku Hrvatsku državljanima trećih zemalja ili osobama bez državljanstva pokreće se prilikom evidentiranja odbijanja ulaska u Nacionalni informacijski sustav za upravljanje državnom granicom, na način da se biometrijski podaci osobe učitaju u sustav putem odgovarajućeg čitača.
+(2) Ako rezultat automatiziranog postupka uspoređivanja biometrijskih podataka upućuje na mogućnost da je podatak istovjetan s nekim drugim prije prikupljenim podatkom druge osobe u odgovarajućoj zbirci, ovlašteni korisnik sustava postupa sukladno članku 6. stavku 2. ovog Pravilnika.
+(3) Ako potvrđeni rezultat usporedbe biometrijskih podataka upućuje na sumnju u identitet osobe, ovlašteni korisnik provodi u suradnji s osobom osposobljenom za potvrđivanje biometrijskih podataka dodatne provjere s ciljem identifikacije osobe.

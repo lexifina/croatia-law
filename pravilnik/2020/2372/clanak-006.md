@@ -1,0 +1,7 @@
+# Članak 6.
+(1) Automatizirani postupak uspoređivanja biometrijskih podataka ovlaštenom korisniku sustava daje povratni rezultat o mogućem podudaranju ili nepodudaranju u određenoj zbirci, bez uvida u cjelovite podatke sadržane u odgovarajućoj zbirci ili sustavu.
+(2) Ako rezultat automatiziranog postupka uspoređivanja biometrijskih podataka upućuje na mogućnost da je podatak istovjetan s nekim drugim prije prikupljenim podatkom druge osobe u odgovarajućoj zbirci, ovlašteni korisnik o tome obavještava osobu osposobljenu za potvrđivanje biometrijskih podataka putem automatizirane obavijesti ugrađene u sustav.
+(3) Osoba osposobljena za potvrđivanje biometrijskih podataka provjerava točnost rezultata automatiziranog postupka uspoređivanja biometrijskih podataka te o potvrđenom rezultatu usporedbe biometrijskih podataka bez odlaganja obavještava ovlaštenog korisnika sustava koji je inicirao usporedbu putem automatizirane obavijesti ugrađene u sustav.
+(4) Automatizirana obavijest iz stavka 3. ovog članka sadrži samo povratni rezultat o potvrđenom podudaranju ili nepodudaranju u određenoj zbirci, bez uvida u cjelovite podatke sadržane u odgovarajućoj zbirci ili sustavu.
+(5) Ako potvrđeni rezultat usporedbe biometrijskih podataka upućuje na sumnju u identitet osobe ili zlouporabu identiteta, provode se dodatne usporedbe propisane člancima 7. do 19. ovog Pravilnika.
+Obrada biometrijskih podataka prikupljenih prilikom postupka izdavanja osobnih identifikacijskih isprava, bez obzira na državljanstvo

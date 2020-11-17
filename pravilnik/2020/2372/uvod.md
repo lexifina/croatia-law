@@ -1,0 +1,1 @@
+Na temelju članka 19. stavka 7. Zakona o obradi biometrijskih podataka (»Narodne novine«, br. 127/19) ministar nadležan za unutarnje poslove, uz prethodnu suglasnost ministra nadležnog za poslove pravosuđa i ministra nadležnog za vanjske poslove, donosi

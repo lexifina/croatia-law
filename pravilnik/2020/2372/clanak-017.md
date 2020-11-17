@@ -1,0 +1,6 @@
+# Članak 17.
+(1) Postupak automatiziranog uspoređivanja biometrijskih podataka državljana trećih zemalja ili osoba bez državljanstva koji podnose zahtjev za izdavanje vize pokreće se prilikom unosa podataka u Hrvatski vizni informacijski sustav na način da se biometrijski podaci osobe učitaju u sustav putem odgovarajućeg čitača.
+(2) Ako rezultat automatiziranog postupka uspoređivanja biometrijskih podataka upućuje na mogućnost da je podatak istovjetan s nekim drugim prije prikupljenim podatkom druge osobe u odgovarajućoj zbirci, ovlašteni korisnik sustava postupa sukladno članku 6. stavku 2. ovog Pravilnika.
+(3) Ako potvrđeni rezultat usporedbe biometrijskih podataka upućuje na sumnju u identitet osobe, ovlašteni korisnik obavještava nadležnu ustrojstvenu jedinicu policije.
+(4) U slučaju iz stavka 3. ovog članka, nadležna ustrojstvena jedinica kriminalističke policije, u suradnji s osobom osposobljenom za potvrđivanje biometrijskih podataka, provodi dodatne provjere s ciljem identifikacije osobe te bez odlaganja obavještava ovlaštenog korisnika sustava iz stavka 2. ovog članka o rezultatu dodatnih provjera.
+Obrada biometrijskih podataka prikupljenih od državljana trećih zemalja ili osoba bez državljanstva koji prelaze državnu granicu prilikom registracije podataka o ulasku i izlasku

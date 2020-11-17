@@ -1,0 +1,7 @@
+# Članak 11.
+(1) Postupak automatiziranog uspoređivanja biometrijskih podataka počinitelja kaznenih djela za kojima se traga pokreće se prilikom raspisivanja potrage u Potražnim evidencijama Informacijskog sustava Ministarstva unutarnjih poslova, kada se identifikacijskim podacima tražene osobe pridružuju nedvojbeno potvrđeni biometrijski podaci te osobe.
+(2) Postupak iz stavka 1. ovog članka može se ostvariti povlačenjem biometrijskih podataka iz odgovarajuće zbirke ili učitavanjem s odgovarajućeg elektroničkog medija.
+(3) Ako rezultat automatiziranog postupka uspoređivanja biometrijskih podataka upućuje na mogućnost da je podatak istovjetan s nekim drugim prije prikupljenim podatkom druge osobe u odgovarajućoj zbirci, ovlašteni korisnik sustava postupa sukladno članku 6. stavku 2. ovog Pravilnika.
+(4) Ako konačni rezultat automatskog uspoređivanja biometrijskih podataka potvrđuje identitet tražene osobe, ovlašteni korisnik nastavlja s postupkom raspisivanja potrage.
+(5) Ako potvrđeni rezultat usporedbe biometrijskih podataka upućuje na sumnju u identitet osobe, ovlašteni korisnik zastaje s raspisivanjem potrage i u suradnji s osobom osposobljenom za potvrđivanje biometrijskih podataka provodi dodatne provjere s ciljem identifikacije osobe.
+(6) Kod potraga koje se raspisivanjem u Potražnim evidencijama Informacijskog sustava Ministarstva unutarnjih poslova automatski prenose u Schengenski informacijski sustav, automatizirano će se prenijeti i pridruženi biometrijski podaci.

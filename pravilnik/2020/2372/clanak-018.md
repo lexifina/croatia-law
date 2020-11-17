@@ -1,0 +1,5 @@
+# Članak 18.
+(1) Postupak automatiziranog uspoređivanja biometrijskih podataka državljana trećih zemalja ili osoba bez državljanstva koji prelaze državnu granicu pokreće se prilikom registracije podataka o ulasku i izlasku u Republiku Hrvatsku odnosno na Schengensko područje, na način da se biometrijski podaci osobe učitaju u sustav putem odgovarajućeg čitača.
+(2) Ako rezultat automatiziranog postupka uspoređivanja biometrijskih podataka upućuje na mogućnost da je podatak istovjetan s nekim drugim prije prikupljenim podatkom druge osobe u odgovarajućoj zbirci, ovlašteni korisnik sustava postupa sukladno članku 6. stavku 2. ovog Pravilnika.
+(3) Ako potvrđeni rezultat usporedbe biometrijskih podataka upućuje na sumnju u identitet osobe, ovlašteni korisnik, u suradnji s osobom osposobljenom za potvrđivanje biometrijskih podataka, provodi dodatne provjere s ciljem identifikacije osobe.
+Obrada biometrijskih podataka prikupljenih prilikom odbijanja ulaska u Republiku Hrvatsku državljanima trećih zemalja ili osobama bez državljanstva

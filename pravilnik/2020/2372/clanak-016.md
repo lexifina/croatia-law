@@ -1,0 +1,6 @@
+# Članak 16.
+(1) Postupak automatiziranog uspoređivanja biometrijskih podataka državljana trećih zemalja ili osoba bez državljanstva koji su izrazili namjeru za podnošenje zahtjeva za međunarodnu zaštitu pokreće se korištenjem funkcionalnosti Jedinstvena provjera biometrijskih podataka na Informacijskom sustavu Ministarstva unutarnjih poslova na način da se biometrijski podaci osobe učitaju u sustav putem odgovarajućeg čitača.
+(2) Postupak iz stavka 1. ovog članka provodi se prije uvođenja osobe u Evidenciju tražitelja međunarodne zaštite i prije uvođenja u EURODAC sustav.
+(3) Ako rezultat automatskog uspoređivanja biometrijskih podataka upućuje na mogućnost da je podatak istovjetan s nekim drugim prije prikupljenim podatkom druge osobe u toj zbirci, ovlašteni korisnik sustava postupa sukladno članku 6. stavku 2. ovog Pravilnika.
+(4) Ako potvrđeni rezultat usporedbe biometrijskih podataka upućuje na sumnju u identitet osobe, ovlašteni korisnik u suradnji s osobom osposobljenom za potvrđivanje biometrijskih podataka provodi dodatne provjere s ciljem identifikacije osobe.
+Obrada biometrijskih podataka prikupljenih od državljana trećih zemalja ili osoba bez državljanstva koji podnose zahtjev za izdavanje vize
