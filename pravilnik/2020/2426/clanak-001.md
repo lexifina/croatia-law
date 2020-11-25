@@ -1,0 +1,3 @@
+# Članak 1.
+U Pravilniku o načinu obavljanja i organiziranja vozačkih ispita te načinu izdavanja i oduzimanju dopuštenja ovlaštenom ispitivaču (»Narodne novine«, broj 141/2011., 151/2013. i 102/2020) članak 2. mijenja se i glasi:
+»Ovim Pravilnikom u hrvatsko zakonodavstvo preuzima se Direktiva 2006/126/EZ Europskog parlamenta i Vijeća od 20. prosinca 2006. o vozačkim dozvolama (preinačena) (Tekst značajan za EGP) (SL L 403, 30. 12. 2006.), kako je posljednji put izmijenjena Direktivom Komisije (EU) 2020/612 od 4. svibnja 2020. o izmjeni Direktive 2006/126/EZ Europskog parlamenta i Vijeća o vozačkim dozvolama (Tekst značajan za EGP) (SL L 141, 5. 5. 2020.).«.
