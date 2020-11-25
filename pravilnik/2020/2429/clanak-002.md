@@ -1,0 +1,4 @@
+# Članak 2.
+(1) Projektna dokumentacija obnove u smislu ovoga Pravilnika je elaborat ocjene postojećeg stanja građevinske konstrukcije, projekt obnove konstrukcije zgrade i projekt obnove zgrade za cjelovitu obnovu zgrade, a sastoji se od jedne ili više mapa.
+(2) Elaborat ocjene postojećeg stanja građevinske konstrukcije i projekt obnove konstrukcije zgrade odnosno projekt obnove zgrade za cjelovitu obnovu zgrade, za potrebu obnove potresom oštećenih zgrada javne namjene, višestambenih, poslovnih i stambeno-poslovnih zgrada te obiteljskih kuća, smatraju se cjelinom te se njihova izrada za svaku pojedinu zgradu povjerava jednoj osobi.
+(3) Na izradu projektne dokumentacije obnove prema potrebi primjenjuju se i odredbe posebnih propisa donesenih u skladu sa zakonom kojim se uređuje gradnja u slučaju kada pojedini zahtjevi u pogledu izrade projektne dokumentacije nisu uređeni ovim Pravilnikom.

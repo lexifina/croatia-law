@@ -1,0 +1,6 @@
+## IV. ELABORAT OCJENE POSTOJEĆEG STANJA GRAĐEVINSKE KONSTRUKCIJE
+## Opći zahtjevi za elaborat ocjene postojećeg stanja građevinske konstrukcije
+# Članak 12.
+(1) Elaboratom ocjene postojećeg stanja građevinske konstrukcije utvrđuje se zatečeno stvarno stanje građevinske konstrukcije postojeće zgrade, na način da se ocjenjuje je li oštećena zgrada uopće pogodna za obnovu te je li obnova građevinske konstrukcije dovoljna ili su nužni i zahvati na unaprjeđenju i drugih temeljnih zahtjeva za građevinu, i to očevidom na zgradi kojim se provodi detaljni pregled zgrade, vizualnim pregledom, uvidom u dokumentaciju zgrade, po potrebi provedbom istražnih radova te se procjenjuju troškovi za obnovu zgrade za ocijenjenu razinu i potencijalne više razine obnove zgrade odnosno način obnove zgrade (u daljnjem tekstu: procjena troškova).
+(2) Iznimno od stavka 1. ovoga članka elaborat ocjene postojećeg stanja građevinske konstrukcije može se za teško dostupne ili nedostupne dijelove postojeće zgrade temeljiti samo na podacima iz dokumentacije zgrade.
+(3) U slučaju iz stavka 2. ovoga članka projektnim rješenjem se određuje koliko i kako stvarno postojeće stanje smije odstupati od ocjene postojećeg stanja građevinske konstrukcije iz stavka 2. ovoga članka, a da bi tehničko rješenje obnove još uvijek bilo primjenjivo.

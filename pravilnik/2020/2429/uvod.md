@@ -1,0 +1,1 @@
+Na temelju članka 3. stavka 4. Zakona o obnovi zgrada oštećenih potresom na području Grada Zagreba, Krapinsko-zagorske županije i Zagrebačke županije (»Narodne novine«, broj 102/20) ministar prostornoga uređenja, graditeljstva i državne imovine donosi
