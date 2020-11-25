@@ -1,0 +1,22 @@
+# Članak 14.
+Članovi zajednice (obvezatni i dragovoljni) imaju prava, obveze i odgovornosti:
+- birati i biti birani u tijela Zajednice,
+- upravljati poslovima Zajednice i sudjelovati u radu Zajednice,
+- davati inicijative koje imaju za svrhu jačanje i promicanje turizma na području Zajednice,
+- davati prijedloge i primjedbe na rad tijela Zajednice,
+- predlagati razmatranje pitanja iz djelokruga Zajednice radi zauzimanja stavova te davati prijedloge za njihovo rješavanje,
+- usmjeravati i usklađivati svoje međusobne odnose i zajedničke interese radi postizanja ciljeva Zajednice u skladu sa Zakonom i ovim Statutom,
+- predlagati sudjelovanje Zajednice u raznim akcijama u svrhu očuvanja turističkog prostora, unapređivanja turističkog okružja i zaštite čovjekova okoliša na području Zajednice,
+- predlagati pomaganje razvoja turizma u mjestima na području Zajednice koja nisu turistički razvijena,
+- razmjenjivati u Zajednici informacije, obavljati konzultacije i organizirati sastanke,
+- putem Zajednice ostvarivati suradnju s nadležnim tijelima lokalne samouprave i uprave na pitanjima rješavanja poremećaja u turizmu i većih problema u ostvarivanju gospodarskih interesa u djelatnostima ugostiteljstva i turizma, i s tim djelatnostima neposredno povezanih djelatnosti,
+- davati inicijative za donošenje mjera i propisa iz područja turizma,
+- koristiti se stručnom pomoći Zajednice u pitanjima iz djelokruga Zajednice,
+- predlagati izmjene i dopune Statuta i drugih općih akata,
+- biti obaviješteni o radu Zajednice i njezinih tijela te o materijalno-financijskom poslovanju,
+- sudjelovati u radu Zajednice i u manifestacijama koje ona organizira,
+- provoditi odluke i zaključke što ih donesu tijela Zajednice,
+- zastupati dogovorene stavove Zajednice u Hrvatskoj turističkoj zajednici,
+- razvijati međusobnu odgovornost za provođenje zadataka Zajednice,
+- davati podatke i izvješća potrebna za izvršavanje zadaća Zajednice,
+- pridržavati se odredbi Statuta, odluka, zaključaka i drugih akata tijela Zajednice.

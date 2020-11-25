@@ -1,0 +1,1 @@
+Na temelju članaka 12. i 15. Zakona o turističkim zajednicama i promicanju hrvatskog turizma (»Narodne novine«, broj 52/19 i 42/20), u daljnjem tekstu: Zakon, Skupština Turističke zajednice grada Zagreba uz prethodnu suglasnost Ministarstva turizma i sporta RH, na sjednici održanoj 16. studenoga 2020. godine donijela je ovaj
