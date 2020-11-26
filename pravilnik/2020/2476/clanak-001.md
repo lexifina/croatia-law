@@ -1,0 +1,7 @@
+# Članak 1.
+U Pravilniku o Školskoj shemi voća i povrća te mlijeka i mliječnih proizvoda (»Narodne novine«, br. 98/19 i 99/20) članak 12.a mijenja se i glasi:
+(1) U skladu s člankom 2. stavkom 1. točkom i. Uredbe (EU) br. 39/2017, za potrebe standardiziranja veličina jediničnih troškova i ocjene opravdanosti troškova koje su dostavili podnositelji zahtjeva za potporu za voće i povrće te mlijeko i mliječne proizvode utvrđuje se najviša prihvatljiva nabavna cijena proizvoda iz članka 6. ovoga Pravilnika.
+(2) Cijena iz stavka 1. ovoga članka, za sve prihvatljive proizvode iz članka 6. ovoga Pravilnika, određuje se na temelju petogodišnjeg prosjeka ponderiranih maloprodajnih cijena (bez PDV-a) koje, u okviru aktualnih trendova vodi, ažurira i utvrđuje Tržišni cjenovni informacijski sustav u poljoprivredi Ministarstva poljoprivrede (TISUP).
+(3) Najviša prihvatljiva nabavna cijena iz stavka 1. ovoga članka izračunava se za jedno godišnje razdoblje provedbe Školske sheme, prije njegovog početka, a objavljuje se na mrežnim stranicama Agencije za plaćanja.
+(4) Ako je cijena isporučenog proizvoda, navedena na Zahtjevu za potporu, viša od utvrđene najviše prihvatljive nabavne cijene iz stavka 1. ovoga članka, razlika u cijeni nije prihvatljiva za isplatu.
+(5) Ako je cijena isporučenog proizvoda, navedena na Zahtjevu za potporu, niža od utvrđene najviše prihvatljive nabavne cijene iz stavka 1. ovoga članka, za isplatu je prihvatljiva cijena navedena na Zahtjevu za potporu.«
