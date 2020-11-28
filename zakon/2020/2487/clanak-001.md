@@ -1,0 +1,6 @@
+# Članak 1.
+U Ovršnom zakonu (»Narodne novine«, br. 112/12., 25/13., 93/14., 55/16. - Odluka Ustavnog suda Republike Hrvatske i 73/17.) u članku 8. iza stavka 6. dodaju se novi stavci 7., 8. i 9. koji glase:
+»(7) Kada se dostava obavlja isticanjem pismena na mrežnoj stranici e-oglasna ploča sudova, na adresu iz stavaka 4. do 6. ovoga članka dostavit će se obavijest o danu isticanja pismena na mrežnoj stranici e-oglasna ploča sudova ubacivanjem u poštanski sandučić.
+(8) Kada je to moguće, obavijest iz stavka 7. ovoga članka dostavlja se i u osobni korisnički pretinac fizičke osobe kojemu se pristupa putem središnjeg internetskog mjesta za jednostavan pristup svim informacijama iz javne uprave Republike Hrvatske (Središnji državni portal).
+(9) Iznimno od odredbi ovoga članka, kada sud ili javni bilježnik obavlja dostavu državnim tijelima, državnom odvjetništvu, odvjetnicima, javnim bilježnicima, sudskim vještacima, sudskim procjeniteljima, sudskim tumačima, stečajnim upraviteljima, povjerenicima, pravnim osobama i drugim sudionicima elektroničke komunikacije, ona se obavlja u elektroničkom obliku putem informacijskog sustava ili na drugi odgovarajući način, primjenom pravila o dostavi u parničnom postupku.«.
+Dosadašnji stavci 7., 8., 9., 10. i 11. postaju stavci 10., 11., 12., 13. i 14.
