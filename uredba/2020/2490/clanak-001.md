@@ -1,0 +1,4 @@
+# Članak 1.
+U Uredbi o određivanju štićenih osoba, objekata i prostora te provođenju njihove zaštite i osiguranja (»Narodne novine«, br. 46/13, 103/14 - Odluka Ustavnog suda Republike Hrvatske, 151/14, 10/16 i 99/16) u članku 15. stavku 2. iza podstavka 3. dodaje se novi podstavak 4. koji glasi:
+» - prostor u neposrednom okruženju sjedišta Hrvatskoga sabora i Vlade Republike Hrvatske, i to: 1,2 metra od vanjskog ruba objekta Hrvatskoga sabora sa sjeverne, istočne i južne strane; 1,2 metra od vanjskog ruba objekta Vlade Republike Hrvatske sa sjeverne i zapadne strane; prostor Trga sv. Marka između istočne strane objekta Vlade Republike Hrvatske, zapadne strane objekta Hrvatskoga sabora te sjevernog i južnog kolnika na Trgu sv. Marka; Freudenreichova ulica i dio južnog kolnika Trga sv. Marka od Freudenreichove ulice do Ćirilometodske ulice«.
+Dosadašnji podstavci 4. do 6. postaju podstavci 5. do 7.
