@@ -1,0 +1,1 @@
+Na temelju članka 20. stavka 2. Zakona o Hrvatskoj gospodarskoj komori (»Narodne novine« broj 66/91 i 73/91) i članka 21. Statuta Hrvatske gospodarske komore (»Narodne novine« broj 39/16), Skupština Hrvatske gospodarske komore na izvanrednoj sjednici dana 27. studenoga 2020. donosi
