@@ -1,0 +1,1 @@
+Na temelju članka 14. stavka 3. Zakona o sprječavanju sukoba interesa (»Narodne novine«, br. 26/11., 12/12., 126/12. - Odluka Ustavnog suda Republike Hrvatske, 48/13. - pročišćeni tekst, 57/15. i 98/19.) Hrvatski sabor na sjednici 4. prosinca 2020. donio je
