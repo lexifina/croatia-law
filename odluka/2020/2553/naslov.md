@@ -1,0 +1,1 @@
+Odluka o oslobađanju obveze plaćanja zakupnine i naknade za korištenje poslovnih prostora u vlasništvu Republike Hrvatske za zakupnike i korisnike kojima je obustavljen rad temeljem odluka Stožera civilne zaštite Republike Hrvatske
