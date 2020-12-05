@@ -1,0 +1,150 @@
+# Članak 1.
+U Uredbi o osnivanju Lučke uprave Šibenik (»Narodne novine«, broj 174/04), članak 4. mijenja se i glasi:
+»1. Lučko područje luke Šibenik određen je koordinatnim točkama izraženim u HTRS96/TM projekciji, kako slijedi:
+BR. TOČKE | E | N
+B | 451112.94 | 4843697.35
+1 | 451116.23 | 4843694.93
+2 | 451120.51 | 4843699.92
+3 | 451132.36 | 4843689.45
+4 | 451142.04 | 4843700.74
+5 | 451146.62 | 4843704.73
+6 | 451150.74 | 4843701.82
+7 | 451173.28 | 4843704.97
+8 | 451185.40 | 4843705.38
+9 | 451191.51 | 4843701.41
+10 | 451194.85 | 4843692.31
+11 | 451192.12 | 4843687.23
+12 | 451237.12 | 4843660.66
+13 | 451252.53 | 4843651.11
+14 | 451261.95 | 4843644.67
+15 | 451277.12 | 4843632.92
+16 | 451291.91 | 4843621.44
+17 | 451310.18 | 4843604.89
+18 | 451344.64 | 4843578.77
+19 | 451365.61 | 4843562.37
+20 | 451370.19 | 4843558.69
+21 | 451377.15 | 4843552.62
+22 | 451398.87 | 4843532.25
+23 | 451430.88 | 4843512.33
+24 | 451459.90 | 4843494.27
+25 | 451461.52 | 4843487.75
+26 | 451477.04 | 4843479.92
+27 | 451499.86 | 4843469.12
+28 | 451501.99 | 4843466.49
+29 | 451538.26 | 4843449.01
+30 | 451541.07 | 4843448.97
+31 | 451630.20 | 4843408.97
+32 | 451651.67 | 4843405.78
+33 | 451710.86 | 4843383.66
+34 | 451711.83 | 4843377.45
+35 | 451726.07 | 4843369.89
+36 | 451760.75 | 4843351.74
+37 | 451765.03 | 4843309.46
+38 | 451761.00 | 4843305.83
+39 | 451758.40 | 4843306.23
+40 | 451749.80 | 4843299.29
+41 | 451753.30 | 4843295.39
+42 | 451765.21 | 4843286.74
+43 | 451771.85 | 4843259.55
+44 | 451756.56 | 4843250.83
+45 | 451756.80 | 4843240.76
+46 | 451759.26 | 4843237.86
+47 | 451763.00 | 4843221.54
+48 | 451761.92 | 4843209.62
+49 | 451783.97 | 4843212.55
+50 | 451781.52 | 4843198.39
+51 | 451785.99 | 4843193.61
+52 | 451799.11 | 4843175.96
+53 | 451816.51 | 4843152.25
+54 | 451835.70 | 4843126.79
+55 | 451858.03 | 4843096.28
+56 | 451872.56 | 4843076.98
+57 | 451873.05 | 4843067.78
+58 | 451907.14 | 4843052.93
+59 | 451908.41 | 4843052.68
+60 | 451911.59 | 4843046.73
+61 | 451912.36 | 4843043.21
+62 | 451902.29 | 4843037.39
+63 | 451897.26 | 4843030.50
+64 | 451894.74 | 4843017.01
+65 | 451897.30 | 4843004.45
+66 | 451908.96 | 4842981.31
+67 | 451909.66 | 4842981.80
+68 | 451913.54 | 4842980.52
+69 | 451912.55 | 4842979.27
+70 | 451912.79 | 4842966.57
+71 | 451918.81 | 4842953.62
+72 | 451917.24 | 4842946.90
+73 | 451918.77 | 4842939.06
+74 | 451923.87 | 4842933.83
+75 | 451931.51 | 4842929.00
+76 | 451936.14 | 4842926.57
+77 | 451943.67 | 4842923.58
+78 | 451932.45 | 4842908.76
+79 | 451943.22 | 4842882.66
+80 | 451943.22 | 4842872.10
+81 | 451958.28 | 4842817.47
+82 | 451975.57 | 4842783.89
+83 | 451980.32 | 4842774.50
+84 | 451965.05 | 4842770.40
+85 | 451958.91 | 4842766.31
+86 | 451955.24 | 4842758.77
+87 | 451968.12 | 4842750.77
+88 | 451970.44 | 4842743.29
+89 | 451981.02 | 4842714.50
+90 | 451993.27 | 4842681.22
+91 | 452007.38 | 4842645.68
+92 | 452013.41 | 4842623.13
+93 | 452017.30 | 4842617.31
+94 | 452022.12 | 4842619.94
+95 | 452041.22 | 4842585.12
+96 | 452055.32 | 4842559.43
+97 | 452057.40 | 4842555.63
+98 | 452065.55 | 4842547.75
+99 | 452074.88 | 4842536.23
+100 | 452086.48 | 4842523.88
+101 | 452126.49 | 4842482.31
+102 | 452121.00 | 4842480.21
+103 | 452110.23 | 4842490.62
+104 | 452090.03 | 4842511.78
+105 | 452072.25 | 4842530.13
+106 | 452052.92 | 4842548.44
+107 | 452051.38 | 4842550.28
+108 | 452024.80 | 4842568.08
+109 | 452002.61 | 4842576.78
+110 | 451983.39 | 4842586.27
+111 | 451963.68 | 4842593.70
+112 | 451948.08 | 4842599.15
+113 | 451943.93 | 4842600.48
+114 | 451936.70 | 4842603.66
+115 | 451926.52 | 4842609.13
+116 | 451895.90 | 4842624.93
+117 | 451869.77 | 4842639.45
+118 | 451853.41 | 4842649.38
+119 | 451838.53 | 4842659.66
+120 | 451833.69 | 4842663.14
+C | 451825.12 | 4842654.33
+D | 451777.19 | 4842603.19
+E | 450932.95 | 4843533.59
+Ukupna površina kopnenog dijela iznosi 222.753 m2, dok ukupna površina morskog dijela iznosi 261.495 m2, sve kako je prikazano na grafičkoj podlozi, Geodetskom situacijskom nacrtu lučkog područja trgovačkog društva GEO FORMA d.o.o. pod nazivom: Geodetski situacijski nacrt lučkog područja, koja čini Prilog ovoj Uredbi i ne objavljuje se u »Narodnim novinama«.
+2. Sidrište Grebaštica - Oštrica određeno je poligonom koordinatnih točaka izraženim u HTRS96/TM projekciji, kako slijedi:
+BR. TOČKE | E | N
+A | 451365,07 | 4834060,80
+B | 452826,41 | 4833445,97
+C | 452761,29 | 4832791,60
+D | 451369,63 | 4832836,44
+Ukupna površina sidrišta Grebaštica - Oštrica iznosi 1.349.983 m2, a sve kako je prikazano na grafičkoj podlozi, Geodetskoj situaciji sidrišta Ureda ovlaštenog inženjera geodezije Dunko Klarić pod nazivom: Geodetska situacija sidrišta lokacija Grebaštica-Oštrica, koja čini Prilog ovoj Uredbi i ne objavljuje se u »Narodnim novinama«.
+3. Sidrište Šibenik - Martinska određeno je poligonom koordinatnih točaka izraženim u HTRS96/TM projekciji, kako slijedi:
+BR. TOČKE | E | N
+A | 450171,74 | 4844255,37
+B | 450396,05 | 4843725,96
+C | 450079,43 | 4843617,55
+D | 449826,79 | 4844089,74
+Ukupna površina sidrišta Šibenik - Martinska iznosi 198.332 m2, a sve kako je prikazano na grafičkoj podlozi, Geodetskoj situaciji sidrišta Ureda ovlaštenog inženjera geodezije Dunko Klarić pod nazivom: Geodetska situacija sidrišta lokacija Šibenik-Martinska, koja čini Prilog ovoj Uredbi i ne objavljuje se u »Narodnim novinama«.
+4. Sidrište Zablaće određeno je poligonom koordinatnih točaka izraženim u HTRS96/TM projekciji, kako slijedi:
+BR. TOČKE | E | N
+A | 448511,64 | 4840340,82
+B | 448811,09 | 4839797,86
+C | 448409,40 | 4839630,56
+D | 448089,76 | 4840168,21
+Ukupna površina sidrišta Zablaće iznosi 275.100 m2, a sve kako je prikazano na grafičkoj podlozi, Geodetskoj situaciji sidrišta Ureda ovlaštenog inženjera geodezije Dunko Klarić pod nazivom: Geodetska situacija sidrišta lokacija Zablaće, koja čini Prilog ovoj Uredbi i ne objavljuje se u »Narodnim novinama«.«.
