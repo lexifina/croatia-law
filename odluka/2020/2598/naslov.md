@@ -1,0 +1,1 @@
+Odluka o izmjeni Odluke o koncesiji na pomorskom dobru u svrhu izgradnje i gospodarskog korištenja plaže Kostabela u Rijeci te zahvata morske vode za potrebe bazena i za potrebe termotehničkih uređaja
