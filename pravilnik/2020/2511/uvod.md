@@ -1,0 +1,1 @@
+Na temelju odredbi članka 14. stavka 3. Zakona o provedbi Uredbe (EU) br. 1286/2014 o dokumentima s ključnim informacijama za upakirane investicijske proizvode (»Narodne novine« br. 112/18, dalje: Zakon) Hrvatska agencija za nadzor financijskih usluga (dalje: Hanfa) na sjednici Upravnog vijeća održanoj 26. studenoga 2020. godine donosi
