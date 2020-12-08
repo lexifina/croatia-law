@@ -1,0 +1,1 @@
+Na temelju odredbe članka 132. stavka 5. Zakona o tržištu kapitala (»Narodne novine« broj 65/2018 i 17/2020), Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća održanoj 26. studenoga 2020. godine donosi

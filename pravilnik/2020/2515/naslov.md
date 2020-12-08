@@ -1,0 +1,1 @@
+Pravilnik o izmjenama i dopunama Pravilnika o izdavanju odobrenja za rad investicijskom društvu, tržišnom posredniku, podružnici iz treće zemlje, registru osoba ovlaštenih obavljati usluge i aktivnosti iz Zakona o tržištu kapitala te statusnim promjenama investicijskog društva
