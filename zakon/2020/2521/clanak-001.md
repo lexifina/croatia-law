@@ -1,0 +1,3 @@
+# Članak 1.
+U Zakonu o osiguranju (»Narodne novine«, br. 30/15., 112/18. i 63/20.) u članku 2. stavku 1. točka 5. mijenja se i glasi:
+»5. Direktiva 2009/138/EZ Europskog parlamenta i Vijeća od 25. studenoga 2009. o osnivanju i obavljanju djelatnosti osiguranja i reosiguranja (Solventnost II), (SL L 335, 17. 12. 2009.) kako je posljednji put izmijenjena Direktivom (EU) 2019/2177 Europskog parlamenta i Vijeća od 18. prosinca 2019. o izmjeni Direktive 2009/138/EZ o osnivanju i obavljanju djelatnosti osiguranja i reosiguranja (Solventnost II), Direktive 2014/65/EU o tržištu financijskih instrumenata i Direktive (EU) 2015/849 o sprečavanju korištenja financijskog sustava u svrhu pranja novca ili financiranja terorizma (SL L 334, 27. 12. 2019.).«.
