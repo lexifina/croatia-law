@@ -1,0 +1,1 @@
+Na temelju članka 6. stavka 1. podstavka 2. i 3. Zakona o obnovi zgrada oštećenih potresom na području Grada Zagreba, Krapinsko‑zagorske županije i Zagrebačke županije (»Narodne novine«, broj 102/20), ministar rada, mirovinskoga sustava, obitelji i socijalne politike donosi
