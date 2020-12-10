@@ -1,0 +1,1 @@
+Odluka o posebnoj nagradi radnicima u sustavu socijalne skrbi koji obavljaju poslove vezane za brigu o zdravlju i njegu korisnika usluge smještaja ili organiziranog stanovanja oboljelima od bolesti COVID-19
