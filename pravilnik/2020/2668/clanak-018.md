@@ -1,0 +1,27 @@
+# Članak 18.
+Iza glave X. dodaje se glava X. a, naslov glave i članci 59.a - 59.c koji glase:
+»X. a OSNIVANJE I DODJELA SPISA NA VISOKOM PREKRŠAJNOM SUDU REPUBLIKE HRVATSKE
+1. Osnivanje spisa
+Članak 59.a
+(1) Po zaprimanju papirnatog spisa Visoki prekršajni sud Republike Hrvatske osniva spis u sustavu eSpis te se automatski generira datum osnivanja i datum dodjele spisa u rad, a određenom rješavatelju povećava se opterećenje u dodjeli.
+(2) Iznimno od stavka 1. ovog članka, kod remisorno vraćenih spisa, spis ne dobiva novi poslovni broj, već se isti dodjeljuje u rad istom rješavatelju. Ako se spis ne može dodijeliti istom rješavatelju, predsjednik suda će pisanom obrazloženom naredbom odrediti ponovljenu automatsku dodjelu.
+(3) Ako je povodom žalbe odluka ukinuta, u slučaju ponovne žalbe u istom predmetu spis će se dodijeliti rješavatelju koji ga je već rješavao.
+(4) U slučaju izuzeća ili druge opravdane spriječenosti rješavatelja kojemu je spis dodijeljen u rad, predsjednik suda će pisanom obrazloženom naredbom odrediti ponovljenu automatsku dodjelu. U tom slučaju spis će se dodijeliti drugom rješavatelju unutar suda.
+(5) U slučaju da je opravdano očekivati izbivanje rješavatelja u trajanju dužem od dva mjeseca, predsjednik suda će pisanom obrazloženom naredbom, u odnosu na tog rješavatelja, odrediti gašenje automatske dodjele te u odnosu na sve ili dio predmeta dodijeljen tom rješavatelju, ovisno o vremenu njegovog povratka na rad i hitnosti predmeta, odrediti ponovljenu automatsku dodjelu. U slučaju da je opravdano očekivati neprekidno izbivanje rješavatelja šest mjeseci ili dulje predsjednik suda može pisanom obrazloženom naredbom u odnosu na tog rješavatelja odrediti gašenje automatske dodjele četiri mjeseca prije očekivanog početka izbivanja.
+(6) U slučaju da je opravdano očekivati da rješavatelj prestane s radom u sudu zbog odlaska u mirovinu predsjednik suda može pisanom obrazloženom naredbom u odnosu na tog rješavatelja odrediti gašenje automatske dodjele šest mjeseci prije očekivanog odlaska u mirovinu.
+(7) Nakon što rješavatelj prestane s radom u sudu, po izmjeni godišnjeg rasporeda poslova predsjednik suda će pisanom obrazloženom naredbom u odnosu na tog rješavatelja odrediti gašenje automatske dodjele te u odnosu na sve predmete dodijeljene tom rješavatelju odrediti ponovljenu automatsku dodjelu.
+(8) Predsjednik Visokog prekršajnog suda Republike Hrvatske dužan je svaka tri mjeseca provjeriti ravnomjernu radnu opterećenost rješavatelja.
+(9) Administrator sustava eSpis u sudu dostavit će predsjedniku suda izvješće o opterećenosti rješavatelja s dodijeljenim predmetima u radu najkasnije do 15. travnja s podacima na dan 31. ožujka, 15. srpnja s podacima na dan 30. lipnja, 15. listopada s podacima na dan 30. rujna i 15. siječnja s podacima na dan 31. prosinca prethodne godine, a sve radi utvrđivanja ravnomjernosti radne opterećenosti rješavatelja.
+(10) U cilju utvrđivanja ravnomjerne radne opterećenosti, predsjednik suda će izmijeniti godišnji raspored poslova ili donijeti pisanu obrazloženu naredbu kojom za pojedine predmete određuje ponovljenu automatsku dodjelu, ako neravnomjerna radna opterećenost pojedinih rješavatelja nije posljedica nepostizanja očekivanih prosječnih rezultata rada. Nakon provedene preraspodjele, opterećenost rješavatelja dodijeljenim predmetima će se ujednačiti s opterećenošću dodijeljenim predmetima ostalih rješavatelja koji rješavaju slične vrste predmeta.
+(11) Rješavatelju koji prvi put stupa na dužnost na pojedini sud, rješavatelju koji se vraća na rad u pojedini sud, kao i rješavatelju koji je raspoređen u drugi sudski odjel, pisanom obrazloženom naredbom predsjednika suda u rad će se dodijeliti predmeti drugih sudaca vodeći računa o starosti, složenosti i broju predmeta do prosječne radne opterećenosti rješavatelja u sudu, odnosno odjelu. Nakon provedene dodjele, opterećenost rješavatelja dodijeljenim predmetima će se ujednačiti s opterećenošću dodijeljenim predmetima ostalih rješavatelja koji rješavaju slične vrste predmeta.
+(12) Ujednačavanje opterećenosti iz stavaka 10. i 11. ovog članka provest će administrator središnjeg sustava eSpis na zahtjev administratora sustava eSpis u sudu.
+(13) Izvješća sudskog administratora sustava eSpis u sudu iz stavka 9. ovog članka i pisane naredbe predsjednika suda iz stavaka 4., 5., 6., 7., 10. i 11. ovog članka ulažu se kronološkim redom u za to posebno osnovani predmet sudske uprave, time da je obrazloženu pisanu naredbu predsjednik suda dužan unijeti i u sustav eSpis u spis na koji se naredba odnosi.«.
+2. Dodjela spisa
+Članak 59.b
+(1) Prilikom automatskog određivanja rješavatelja, algoritam automatski odabire sve rješavatelje u sudu koji su godišnjim rasporedom poslova određeni za rješavanje određene vrste predmeta, koji ovisno o opterećenju dodijeljenim predmetima i broju primljenih predmeta rješavatelja unutar tekuće godine, dobiva po jedan predmet u rad.
+(2) Ako je u istom predmetu izjavljeno više žalbi, o svim žalbama odlučuje isti rješavatelj.
+2.1. Automatska kružna dodjela
+Članak 59.c
+(1) Automatskom kružnom dodjelom dodjeljuju se u rad rješavateljima predmete izvršenja i procesne predmete koji se sukladno Sudskom poslovniku, upisuju u upisnike pod oznakama SZž, IU, IR, IR-eu i R.
+(2) U slučaju rješavanja povodom zahtjeva za obnovom postupka predmet se ne može dodijeliti u rad rješavatelju koji je donio prijašnju odluku.
+(3) Predmeti upisani u R upisnik dodijelit će se rješavatelju koji je donio prijašnju odluku.«.
