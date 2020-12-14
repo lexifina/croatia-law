@@ -1,0 +1,7 @@
+# Članak 8.
+(1) Članicom Komore postaje se samim ispunjavanjem pretpostavki iz članka 2. Zakona o Hrvatskoj gospodarskoj komori.
+(2) Članstvo u Komori i obveza plaćanja članarine prestaje brisanjem subjekta upisa iz sudskog registra nadležnog trgovačkog suda.
+(3) Članice Komore nad kojima je otvoren stečajni postupak oslobodit će se obveze plaćanja članarine, uz uvjet dostave Odluke o obustavi poslovanja stečajnog dužnika i pisanoga zahtjeva za oslobađanje od plaćanja članarine, potpisanoga od osobe ovlaštene za zastupanje (stečajnog upravitelja).
+(4) Članice Komore za koje je pokrenut postupak likvidacije oslobodit će se plaćanja članarine, uz uvjet dostave Rješenja o upisu Odluke o likvidaciji u sudski registar nadležnog trgovačkog suda i pisanog zahtjeva za oslobođenja od plaćanja članarine potpisanog od osobe ovlaštene za zastupanje (likvidatora).
+(5) Iznimno, članice Komore osnovane i upisane u Sudski registar nakon 1. siječnja 2021. godine, oslobođene su plaćanja članarine u razdoblju od dvije godine od dana osnivanja.
+(6) Iznimno, članicama Komore osnovanima i upisanima u Sudski registar nakon 1. siječnja 2020. godine, koje su na temelju članka 8. stavka 5. Odluke o financiranju od 11. prosinca 2019. (»Narodne novine« broj 4/2020) bile oslobođene plaćanja članarine u razdoblju od godine dana od dana osnivanja, produljuje se oslobođenje plaćanja članarine za narednih godinu dana.
