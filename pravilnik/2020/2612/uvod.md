@@ -1,0 +1,1 @@
+Na temelju članka 23. stavka 10., članka 24. stavka 4. i članka79. stavka 4. Zakona o otvorenim investicijskim fondovima s javnom ponudom (»Narodne novine« broj 44/2016 i 126/2019, dalje u tekstu: Zakon), Hrvatska agencija za nadzor financijskih usluga (dalje: Hanfa) na sjednici Upravnog vijeća održanoj 3. prosinca 2020. godine donijela je
