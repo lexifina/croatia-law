@@ -1,0 +1,1 @@
+Na temelju odredbe članka 36. stavka 20. Zakona o osiguranju (»Narodne novine« broj 30/15, 112/18 i 63/20), Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća 3. prosinca 2020. godine donijela je
