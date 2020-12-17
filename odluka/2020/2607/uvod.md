@@ -1,0 +1,1 @@
+Na temelju članka 20. stavak 1. i 42. Zakona o lokalnim porezima (»Narodne novine« broj 115/16, 101/17) i članka 34. Statuta Grada Pleternice (»Službeno glasilo« Grada Pleternice broj 04/09., 02/13., 08/13., 07/14., 03/18., 05/19. i 02/20), Gradsko vijeće Grada Pleternice je na 18. sjednici održanoj 27. studenoga 2020. godine donijelo

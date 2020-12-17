@@ -1,0 +1,4 @@
+## III. PROVEDBENE ODREDBE
+# Članak 21.
+Pod poreznim tijelom u smislu ove Odluke smatra se Porezna uprava, Područni ured Požega, koji obavlja poslove u vezi s utvrđivanjem, evidentiranjem, nadzorom i ovrhom poreza propisanim ovom Odlukom, odnosno člankom 2. stavak 1. točka 1. Odluke, a temeljem suglasnosti ministra financija da Porezna uprava može obavljati poslove utvrđivanja, evidentiranja, nadzora, naplate i ovrhe radi naplate županijskih, općinskih ili gradskih poreza sukladno Pravilniku o uvjetima, opsegu i naknadi za obavljanje poslova utvrđivanja, evidentiranja, nadzora, naplate i ovrhe radi naplate poreza jedinica lokalne i područne (regionalne) samouprave (»Narodne novine« broj: 1/17. - u daljnjem tekstu: Pravilnik).
+Nadležno porezno tijelo za utvrđivanje i naplatu lokalnih poreza propisanih člankom 2. stavak 1. točka 2. je upravno tijelo Grada.
