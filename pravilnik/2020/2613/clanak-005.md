@@ -1,0 +1,10 @@
+## Dokumentacija koja se prilaže zahtjevu za izdavanje odobrenja za rad srednjeg ili malog UAIF-a
+# Članak 5.
+(1) Uz zahtjev za izdavanje odobrenja za rad srednjeg ili malog UAIF-a podnositelj zahtjeva dužan je priložiti dokumentaciju iz članka 4. stavka 1. ovoga Pravilnika, osim dokumentacije navedene u točkama 10., 11. i 12. toga članka te kada je primjenjivo i dokumentaciju iz članka 4. stavka 5. ovoga Pravilnika.
+(2) Uz zahtjev iz stavka 1. ovog članka, podnositelj je dužan, pored dokumentacije iz stavka 1. ovoga članka, priložiti i:
+a) dokaz o određenju UAIF-a i AIF-ova kojima upravlja,
+b) informacije o investicijskim strategijama AIF-ova kojima upravlja,
+c) izjavu da se udjeli AIF-ova kojima upravlja neće nuditi malim ulagateljima.
+(3) Prilikom podnošenja zahtjeva iz stavka 1. ovoga članka, kod zatvorenog AIF-a s pravnom osobnošću s unutarnjim upravljanjem, uprava zatvorenog AIF-a s pravnom osobnošću kao podnositelj zahtjeva je dužna postupati i u skladu s odredbama članka 108. Zakona.
+(4) Iznimno od stavka 1. ovoga članka, ako zahtjev za izdavanje odobrenje za rad srednjeg UAIF-a podnosi UAIF koji već ima odobrenje za rad UAIF-a izdano od strane Hanfe, uz zahtjev prilaže samo dokumentaciju iz stavka 2. ovoga članka te dokumentaciju iz članka 4. stavka 1. točaka 13. i 14. ovoga Pravilnika.
+(5) Ako zahtjev za izdavanje odobrenja za rad srednjeg ili malog UAIF-a podnosi već osnovano društvo koje nije UAIF, uprava tog društva uz zahtjev i dokumentaciju iz stavka 1. i 2. ovoga članka prilaže i financijske izvještaje za tri prethodne poslovne godine, a ako je društvo osnovano unutar protekle tri godine, financijske izvještaje za svaku godinu od osnivanja. Ako pak društvo podliježe obvezi sastavljanja konsolidiranih i/ili revidiranih financijskih izvještaja, uz zahtjev uprava dostavlja konsolidirane i/ili revidirane financijske izvještaje društva za tri prethodne poslovne godine, a ako je društvo osnovano unutar protekle tri godine, konsolidirane i/ili revidirane financijske izvještaje za svaku godinu od osnivanja.
