@@ -1,0 +1,7 @@
+## IV. OSTALI UVJETI ZA ČLANOVE UPRAVE I NADZORNOG ODBORA UAIF-a
+# Članak 13.
+(1) Ako se zahtjev za izdavanje odobrenja za obavljanje funkcije člana uprave UAIF-a odnosi na kandidata za člana uprave UAIF-a čije su djelatnosti iz članka 11. stavka 2. Zakona (upravljanje UCITS fondovima), zahtjev za izdavanje odobrenja za obavljanje funkcije člana uprave UAIF-a podnosi se u skladu s odredbama Zakona i ovoga Pravilnika, i u skladu s odredbama zakona kojim se uređuje osnivanje i upravljanje otvorenim investicijskim fondovima s javnom ponudom te propisa donesenih na temelju tog zakona.
+(2) Ako UAIF ima odobrenje za obavljanje djelatnosti iz članka 11. stavka 2. Zakona (upravljanje UCITS fondovima), prilikom imenovanja odnosno izbora članova nadzornog odbora UAIF-a potrebno je pridržavati se odredbi Zakona i ovog Pravilnika i zakona kojim se uređuje osnivanje i upravljanje otvorenim investicijskim fondovima s javnom ponudom te propisa donesenih na temelju tog zakona.
+V. ČLANOVI NADZORNOG ODBORA ZATVORENOG AIF-a S PRAVNOM OSOBNOŠĆU KOJIM UPRAVLJA VANJSKI UAIF
+Stručne kvalifikacije i dobar ugled članova
+nadzornog odbora
