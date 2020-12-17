@@ -1,2 +1,0 @@
-# Članak 7.
-Strane isprave iz članka 5., odnosno članka 6. ovoga Pravilnika, dostavljaju se prevedene na hrvatski jezik od strane ovlaštenog sudskog tumača, a strane isprave iz članka 5. točke a) i f) ovoga Pravilnika i iz članka 6. točke c) ovoga Pravilnika dostavljaju se i ovjerene u skladu sa zakonom i međunarodnim propisima (Apostille - Haška Konvencija o ukidanju potrebe legalizacije stranih javnih isprava, od 5. listopada 1961. godine).
