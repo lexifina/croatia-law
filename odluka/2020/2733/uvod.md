@@ -1,0 +1,1 @@
+Na temelju članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/11, 119/14, 93/16 i 116/18), a u vezi s člankom 34. stavkom 1. Zakona o istraživanju i eksploataciji ugljikovodika (»Narodne novine«, br. 52/18 i 52/19), Vlada Republike Hrvatske je na sjednici održanoj 17. prosinca 2020. donijela
