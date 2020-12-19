@@ -1,0 +1,1 @@
+Na temelju članka 155. stavka 3. Zakona o mirovinskom osiguranju (»Narodne novine«, broj 157/13, 33/15, 120/16, 18/18 - Odluka Ustavnog suda Republike Hrvatske, 62/18, 115/18 i 102/19) ministar rada, mirovinskoga sustava, obitelji i socijalne politike uz prethodnu suglasnost ministra financija donosi
