@@ -1,0 +1,1 @@
+Pravilnik o opsegu i sadržaju izvješća o procjeni prikladnosti stavljanja na tržište genetski modificiranih organizama i proizvoda koji se sastoji od ili sadrži genetski modificirani organizam ili kombinaciju genetski modificiranih organizama
