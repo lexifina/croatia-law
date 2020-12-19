@@ -1,0 +1,5 @@
+# Članak 5.
+(1) Podnositelj prijave, odnosno korisnik odobrenja za stavljanje na tržište GMO-a i proizvoda koji se sastoje od ili sadrže GMO-a ili kombinaciju GMO-a obvezan je nakon stavljanja na tržište započeti s praćenjem stanja (monitoringom) istih i njihove uporabe.
+(2) Prilikom tumačenja podataka prikupljenih monitoringom potrebno je uzeti u obzir i druge postojeće uvjete u okolišu i druge aktivnosti vezane uz stavljanje na tržište GMO-a ili proizvoda koji sadrže i/ili se sastoje ili potječu od GMO-a.
+(3) Ako se u tijeku praćenja stanja utvrde promjene u okolišu, potrebno je provesti daljnju procjenu da bi se utvrdilo jesu li promjene posljedica utjecaja GMO-a ili njegove uporabe, ili su promjene posljedica drugih činitelja u okolišu različitih od stavljanja na tržište GMO-a i proizvoda koji se sastoje od ili sadrže GMO ili kombinaciju GMO-a.
+(4) Pri izradi plana monitoringa nakon stavljanja na tržište GMO-a i proizvoda koji se sastoje od ili sadrže GMO ili kombinaciju GMO-a mogu se koristiti iskustva i podaci dobiveni praćenjem pokusnih namjerno uvođenih GMO-a u okoliš.

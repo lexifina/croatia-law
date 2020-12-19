@@ -1,0 +1,1 @@
+Na temelju članka 49. stavak 6. Zakona o genetski modificiranim organizmima (»Narodne novine«, broj 126/19) te članka 38. stavka 3. Zakona o sustavu državne uprave (»Narodne novine«, broj 66/19) ministar zdravstva uz prethodnu suglasnost ministra nadležnog za poslove zaštite okoliša i prirode i ministra nadležnog za europske poslove donosi

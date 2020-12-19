@@ -1,0 +1,2 @@
+# Članak 7.
+Prilikom izrade plana monitoringa potrebno je uzeti u obzir ciljeve, opća načela i osnove za opći okvir razvoja prikladnih planova monitoringa nakon stavljanja na tržište GMO-a ili proizvoda koji se sastoje od ili sadrže GMO ili kombinaciju GMO-a, utvrđene Odlukom Komisije 2002/811/EZ od 3. listopada 2002. o utvrđivanju smjernica koje dopunjuju Prilog VII. Direktivi 2001/18/EZ Europskog parlamenta i Vijeća o namjernom uvođenju u okoliš genetski modificiranih organizama i o stavljanju izvan snage Direktive Vijeća 90/220/EEZ) (SL L 280, 18. 10. 2002.).

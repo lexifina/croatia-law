@@ -1,0 +1,1 @@
+Pravilnik o uvjetima monitoringa, označavanja i pakiranja genetski modificiranih organizama i proizvoda koji se sastoje od ili sadrže genetski modificirani organizam ili kombinaciju genetski modificiranih organizama

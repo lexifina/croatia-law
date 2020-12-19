@@ -1,0 +1,5 @@
+# Članak 3.
+Pojedini pojmovi u smislu ovoga Pravilnika imaju sljedeće značenje:
+(1) Praćenje stanja (monitoring) je osmišljeno sustavno praćenje i nadziranje GMO-a i ili proizvoda koji se sastoje od ili sadrže GMO ili kombinaciju GMO-a i prijamnog okoliša u određenom vremenskom periodu, kako bi se dobio opći pregled stanja poštivanja propisa o genetski modificiranim organizmima s ciljem postizanja visoke razine zaštite zdravlja ljudi i okoliša od mogućih izravnih, neizravnih, trenutačnih, odgođenih i nepredviđenih učinaka GMO-a, kao proizvoda ili sastojka proizvoda nakon stavljanja na tržište.
+(2) Proizvod od GMO-a je pripravak koji se sastoji od ili sadrži GMO ili kombinaciju GMO-a, bez obzira na njegov stupanj obrade, koji je namijenjen za stavljanje na tržište.
+(3) Jedinstvena identifikacijska oznaka je jednostavna numerička ili alfanumerička šifra koja služi za identifikaciju genetski modificiranog organizma na osnovi odobrene transformacije iz koje je razvijen i koja osigurava sredstvo za pronalaženje specifičnih informacija koje se odnose na taj genetski modificirani organizam.
