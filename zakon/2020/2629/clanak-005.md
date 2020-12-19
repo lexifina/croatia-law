@@ -1,0 +1,2 @@
+# Članak 5.
+Odluka o udjelu sredstava fiskalnog izravnanja za pojedinu općinu, grad i županiju u ukupnim sredstvima fiskalnog izravnanja za 2021. godinu koju je ministar financija donio na temelju članka 9. stavka 6. Zakona o financiranju jedinica lokalne i područne (regionalne) samouprave (»Narodne novine«, br. 127/17.) uskladit će se s odredbama ovoga Zakona u roku od 15 dana od dana stupanja na snagu ovoga Zakona.
