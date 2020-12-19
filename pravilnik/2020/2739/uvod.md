@@ -1,0 +1,1 @@
+Na temelju članka 25. stavka 3., članka 27. stavka 4., članka 30. stavka 5. i članka 31. stavka 5. Zakona o vježbenicima u pravosudnim tijelima i pravosudnom ispitu (»Narodne novine« broj 14/19), ministar pravosuđa i uprave donosi
