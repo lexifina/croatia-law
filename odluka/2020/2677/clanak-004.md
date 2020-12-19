@@ -1,0 +1,8 @@
+# Članak 4.
+(1) Hrvatska narodna banka provodi provjeru autentičnosti svakog primjerka gotovog novca koji zaprimi te provodi tehničku analizu svakog primjerka sumnjivoga gotovog novca.
+(2) Provjera autentičnosti novčanica i kovanog novca eura, u smislu ove Odluke, obuhvaća postupak provjere novčanica i kovanog novca eura u svrhu izdvajanja primjeraka za koje postoji sumnja da su krivotvoreni.
+(3) Tehnička analiza zaprimljenih novčanica eura obavlja se u Nacionalnom centru za analizu novčanica (u daljnjem tekstu: NCAN), a tehnička analiza zaprimljenoga kovanog novca eura u Nacionalnom centru za analizu kovanog novca (u daljnjem tekstu: NCAK).
+(4) Nacionalni centri iz stavka 3. ovoga članka sastavljaju Izvještaj o tehničkoj analizi sumnjivih novčanica ili kovanog novca eura koji se dostavlja podnositelju zahtjeva odmah po završetku tehničke analize i izrade izvještaja.
+(5) Hrvatska narodna banka obvezna je pohranjeni krivotvoreni gotov novac na pisani zahtjev, za potrebe kaznenog postupka ili postupka koji mu prethodi, dostaviti tijelima pravosuđa i Ministarstvu unutarnjih poslova Republike Hrvatske (u daljnjem tekstu: MUP RH).
+(6) Nacionalni centar za borbu protiv krivotvorenja (u daljnjem tekstu: NCBK) organizira i provodi obuku za provjeru autentičnosti novčanica i kovanog novca eura za obveznike primjene ove Odluke u sklopu Nacionalnog programa za obuku zaposlenika banaka i financijskih institucija za postupak provjere autentičnosti novčanica i kovanog novca.
+(7) NCBK ovlaštenim predstavnicima obveznika primjene ove Odluke i ovlaštenim predstavnicima MUP-a RH stavlja na raspolaganje informacije o pojavi i obilježjima krivotvorenih novčanica i krivotvorenoga kovanog novca eura.

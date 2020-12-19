@@ -1,0 +1,5 @@
+## Predmet Odluke
+# Članak 1.
+Ovom Odlukom osigurava se provedba sljedećih akata Europske unije:
+- Uredbe Vijeća (EZ) br. 1338/2001 od 28. lipnja 2001. o utvrđivanju mjera potrebnih za zaštitu eura od krivotvorenja (SL L 181, 4. 7. 2001.) kako je posljednji put izmijenjena Uredbom Vijeća (EZ) br. 44/2009 od 18. prosinca 2008. o izmjeni Uredbe (EZ) br. 1338/2001 o utvrđivanju mjera potrebnih za zaštitu eura od krivotvorenja (SL L 17, 22. 1. 2009.) u nastavku teksta: Uredba Vijeća (EZ) br. 1338/2001 i
+- Uredbe Vijeća (EZ) br. 1339/2001 od 28. lipnja 2001. o proširenju učinaka Uredbe (EZ) br. 1338/2001 o propisivanju mjera potrebnih za zaštitu eura od krivotvorenja na one države članice koje nisu prihvatile euro kao svoju jedinstvenu valutu (SL L 181, 4. 7. 2001.) kako je posljednji put izmijenjena Uredbom Vijeća (EZ) br. 45/2009 od 18. prosinca 2008. o izmjeni Uredbe (EZ) br. 1339/2001 o proširenju učinaka Uredbe (EZ) br. 1338/2001 o propisivanju mjera potrebnih za zaštitu eura od krivotvorenja na one države članice koje nisu prihvatile euro kao svoju jedinstvenu valutu (SL L 17, 22. 1. 2009.) u nastavku teksta: Uredba Vijeća (EZ) br. 1339/2001.
