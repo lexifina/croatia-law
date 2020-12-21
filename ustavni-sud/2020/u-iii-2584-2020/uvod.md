@@ -1,0 +1,1 @@
+Ustavni sud Republike Hrvatske, u Drugom vijeću za rješavanje pretpostavki za odlučivanje o ustavnim tužbama, u sastavu sudac Mato Arlović, predsjednik Vijeća, te suci Branko Brkić i Rajko Mlinarić članovi Vijeća, u postupku koji je ustavnom tužbom pokrenula X. Y. iz Z., na sjednici održanoj 21. prosinca 2020. jednoglasno je donio
