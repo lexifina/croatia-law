@@ -1,0 +1,1 @@
+Na temelju članka 12. i članka 15. stavka 1. Zakona o turističkim zajednicama i promicanju hrvatskog turizma (»Narodne novine«, broj 52/19, 42/20) Skupština Turističke zajednice Osječko-baranjske županije, uz prethodnu suglasnost Ministarstva turizma i sporta, na 5. sjednici održanoj 7. prosinca 2020. godine, donijela je
