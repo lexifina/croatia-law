@@ -1,0 +1,6 @@
+## PRIJELAZNE I ZAVRŠNE ODREDBE
+# Članak 69.
+Zajednica je dužna uskladiti svoj ustroj i druge opće akte s odredbama Zakona i Statuta u roku od 30 dana od dana stupanja na snagu Statuta.
+Do usklađenja općih akata s odredbama Statuta primjenjuju se postojeći opći akti.
+Do konstituiranja novih tijela turističke zajednice županije u skladu s ovim Statutom, dosadašnja tijela nastavljaju s radom.
+Do usklađenja općih akata s odredbama Statuta primjenjuju se postojeći opći akti.
