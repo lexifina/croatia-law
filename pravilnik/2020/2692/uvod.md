@@ -1,0 +1,1 @@
+Na temelju članka 207. stavka 7. Zakona o alternativnim investicijskim fondovima (»Narodne novine« broj 21/2018, 126/2019, dalje: Zakon), Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća održanoj 11. prosinca 2020. godine donosi
