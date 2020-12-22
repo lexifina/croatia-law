@@ -1,0 +1,5 @@
+## III. STRUKTURA KODIFIKACIJSKIH BROJEVA NA UPORABI U MINISTARSTVU I ORUŽANIM SNAGAMA
+# Članak 6.
+(1) NATO kodifikacijska oznaka sastoji se od trinaestoznamenkastog broja gdje prve četiri znamenke označavaju skupinu i podskupinu klasifikacije u skladu s podjelom definiranom u NATO katalogu skupina i podskupina materijalnih sredstava u NATO kodifikacijskom sustavu.
+(2) Znamenka na petom i šestom mjestu NATO kodifikacijske oznake predstavlja brojčanu oznaku zemlje koja je provela kodifikaciju i dodijelila NATO kodifikacijsku oznaku. Pregled brojčanih oznaka država u NATO kodifikacijskom sustavu nalazi se u Prilogu ovoga Pravilnika i njegov je sastavni dio.
+(3) Znamenke od sedmog do trinestog mjesta generiraju se računalnom aplikacijom za kodifikaciju u NATO kodifikacijskom sustavu gdje se taj dio NATO kodifikacijske oznake slijedno-rastuće povećava bez obzira na skupinu i podskupinu u kojoj je sredstvo klasificirano, čime se osigurava jednoznačnost identifikacije bez ponavljanja nacionalnoga identifikacijskog broja materijalnog sredstva unutar različitih skupina i podskupina.

@@ -1,0 +1,7 @@
+## IX. PRIJELAZNE I ZAVRŠNE ODREDBE
+# Članak 14.
+(1) Za dodjeljivanje kodifikacijskih oznaka za materijalna sredstva u skladu s NATO kodifikacijskim sustavom i nacionalnim sustavom kodifikacije u Ministarstvu i Oružanim snagama nadležna je ustrojstvena jedinica Ministarstva nadležna za identifikaciju i kodifikaciju materijalnih sredstava.
+(2) Dodjeljivanje drukčijih oznaka za materijalna sredstva ili uporaba drukčijeg načina označavanja materijalnih sredstava drugih korisnika u Ministarstvu i Oružanim snagama je zabranjeno.
+(3) Uporaba drukčijih oznaka za materijalna sredstva koja se vode u materijalnim ispravama u Ministarstvu i Oružanim snagama ili uporaba drukčijeg načina označavanja materijalnih sredstava drugih korisnika u Ministarstvu i Oružanim snagama je zabranjena.
+(4) Ustrojstvene jedinice Ministarstva i Oružanih snaga osim ustrojstvene jedinice iz stavka 1. ovoga članka imaju pravo i dužnost dodavanja isključivo atributa u nacionalnom sustavu označavanja za materijalna sredstva iz svoje nadležnosti.
+(5) Za dodjeljivanje kodifikacijskih oznaka i ostalih kodifikacijskih podataka u skladu s NATO kodifikacijskim sustavom kao i razmjene kodifikacijskih podataka između države članice NATO-a i sponzoriranih članica u statusu Tier 2 kako je definirano u Priručniku za NATO kodifikaciju, u Ministarstvu i Oružanim snagama nadležna je ustrojstvena jedinica Ministarstva nadležna za identifikaciju i kodifikaciju materijalnih sredstava.

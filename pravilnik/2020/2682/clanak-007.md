@@ -1,0 +1,4 @@
+# Članak 7.
+(1) Nacionalni kodifikacijski broj sastoji se od trinaest brojčanih i slovnih oznaka gdje prve četiri znamenke nacionalnoga kodifikacijskog broja označavaju skupinu i podskupinu klasifikacije u skladu s podjelom definiranom u NATO katalogu skupina i podskupina materijalnih sredstava u NATO kodifikacijskom sustavu.
+(2) Na petom i šestom mjestu nalazi se slovna oznaka »HR« koja upućuje na to da je riječ o hrvatskome nacionalnom kodifikacijskom broju.
+(3) Znamenke od sedmoga do trinestog mjesta generiraju se računalnom aplikacijom za kodifikaciju u nacionalnom kodifikacijskom sustavu gdje se taj dio nacionalnog kodifikacijskog broja slijedno-rastuće povećava bez obzira na skupinu i podskupinu u kojoj je sredstvo klasificirano, čime se osigurava jednoznačnost identifikacije bez ponavljanja nacionalnoga identifikacijskog broja materijalnog sredstva unutar različitih skupina i podskupina.

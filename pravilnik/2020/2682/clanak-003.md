@@ -1,0 +1,8 @@
+# Članak 3.
+(1) Cilj provođenja identifikacije i kodifikacije materijalnih sredstava u Ministarstvu i Oružanim snagama je osiguravanje podataka o materijalnim sredstvima od dobavljača koji obrambenom sustavu pružaju potrebne informacije za upravljanje životnim ciklusom materijalnoga sredstva radi omogućavanja usklađenosti logističke komunikacije, razmjene podataka i interoperabilnosti cilj kojega je povećanje učinkovitosti sustava upravljanja logistikom i lancem opskrbe.
+(2) Identifikacija u smislu ovoga Pravilnika je postupak u provođenju procesa kodifikacije kojim se definiraju karakteristike potrebne za identificiranje materijalnog sredstva i predstavlja minimalnu količinu potrebnih podataka kojima se utvrđuju njegove temeljne karakteristike, odnosno one karakteristike koje sredstvu daju njegov jedinstven karakter i čine ga različitim od bilo kojega drugog materijalnog sredstva.
+(3) Kodifikacija u smislu ovoga Pravilnika je postupak dodjeljivanja kodifikacijske oznake u NATO kodifikacijskom sustavu i nacionalnom sustavu kodifikacije tako da označavanje, klasifikacija, imenovanje i opisivanje materijalnog sredstva osigurava jednoznačnost. Kodifikacijska oznaka sastoji se od brojčanog dijela oznake, opisa materijalnog sredstva i jedinice mjere.
+(4) Temeljno načelo kodifikacije je da se materijalnim sredstvima, u skladu s normama HRVN STANAG 3151 i HRVN STANAG 3150, dodjeljuje jedna kodifikacijska oznaka ako zadovoljavaju sljedeće kriterije:
+- imaju identičan ili gotovo identičan oblik
+- imaju istovjetan način korištenja ili mjesta ugradnje
+- imaju istovjetnu funkcionalnost.
