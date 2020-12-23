@@ -1,0 +1,1 @@
+Na temelju članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/11, 119/14, 93/16 i 116/18), a u vezi s Odlukom o donošenju Strategije za uvođenje eura kao službene valute u Republici Hrvatskoj (»Narodne novine«, broj 43/18), Vlada Republike Hrvatske je na sjednici održanoj 23. prosinca 2020. donijela
