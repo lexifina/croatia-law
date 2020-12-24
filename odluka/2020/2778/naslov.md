@@ -1,0 +1,1 @@
+Odluka o posebnoj sigurnosnoj mjeri određivanja Klinike za plućne bolesti Jordanovac, Kliničkog bolničkog centra Zagreb za zbrinjavanje pacijenata s teškim kompleksnim patološkim stanjem kao posljedicom preboljele bolesti COVID-19 uzrokovane virusom SARS-CoV-2
