@@ -1,0 +1,2 @@
+# Članak 39.
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«, osim članka 62. stavaka 3. i 6. koji je izmijenjen člankom 25. ovoga Zakona u dijelu u kojem je zabranjena prodaja petardi i redenika kategorije F2 građanima za osobne potrebe te u dijelu u kojem građanima nije dozvoljena nabava, posjedovanje niti uporaba petardi i redenika kategorije F2 za osobne potrebe, a koje odredbe stupaju na snagu 2. siječnja 2021.
