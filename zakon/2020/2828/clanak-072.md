@@ -1,0 +1,11 @@
+# Članak 72.
+U članku 180. stavku 1. u uvodnoj rečenici riječi: »zakonitost poslovanja kreditne institucije uključujući« brišu se.
+Točka b) briše se.
+Dosadašnja točka c) postaje točka b).
+U stavku 3. iza riječi: »načelom razmjernosti« stavlja se zarez i dodaju riječi: »a u skladu s kriterijima objavljenima na temelju članka 215. stavka 1. točke 3. ovoga Zakona«.
+Iza stavka 5. dodaju se stavci 6. do 10. koji glase:
+»(6) Hrvatska narodna banka može prilagoditi način provođenja supervizije za kreditne institucije sličnih profila rizičnosti (npr. slični modeli poslovanja ili geografski položaj izloženosti) kreditnim institucijama koje jesu ili bi mogle biti izložene sličnim rizicima ili predstavljaju slične rizike za financijski sustav, pri čemu Hrvatska narodna banka može pri provedbi supervizije takvih kreditnih institucija uzeti u obzir i specifične rizike pojedine kreditne institucije.
+(7) Prilagodba načina provođenja supervizije iz stavka 6. ovoga članka ne onemogućava nalaganje supervizorskih mjera iz članka 224. ovoga Zakona svakoj pojedinoj kreditnoj instituciji obuhvaćenoj tom metodologijom, a koje odgovaraju rizicima kojima je ta kreditna institucija izložena ili bi mogla biti izložena.
+(8) Ako Hrvatska narodna banka pri provođenju supervizije, a posebno prilikom ocjenjivanja sustava upravljanja, poslovnog modela ili poslovanja kreditne institucije utvrdi okolnosti koje upućuju na postojanje opravdanih razloga za sumnju da se pranje novca ili financiranje terorizma obavlja ili da je obavljeno ili da je bilo takvih pokušaja u kreditnoj instituciji, odnosno ako u kreditnoj instituciji postoji povećani rizik od pranja novca ili financiranja terorizma, o tome će obavijestiti Europsko nadzorno tijelo za bankarstvo i nadležno nadzorno tijelo za provedbu nadzora u području sprječavanja pranja novca i financiranja terorizma te o zajedničkim rezultatima obavijestiti Europsko nadzorno tijelo za bankarstvo.
+(9) U slučaju iz stavka 8. ovoga članka Hrvatska narodna banka naložit će, ako ocijeni potrebnim, kreditnoj instituciji odgovarajuće supervizorske mjere.
+(10) U slučaju iz stavka 6. ovoga članka Hrvatska narodna banka će podzakonskim propisom propisati dodatne bonitetne zahtjeve i druga ograničenja kojima se određuju posebni uvjeti poslovanja kreditnih institucija.«.

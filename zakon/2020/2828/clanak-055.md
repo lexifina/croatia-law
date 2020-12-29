@@ -1,0 +1,7 @@
+# Članak 55.
+Naslov iznad članka 139. mijenja se i glasi: »Međuodnos zaštitnih slojeva za strukturni sistemski rizik GSV i OSV kreditne institucije«.
+Članak 139. mijenja se i glasi:
+»(1) Kada grupa kreditnih institucija u RH, na konsolidiranoj osnovi, podliježe zaštitnom sloju za GSV kreditnu instituciju i zaštitnom sloju za OSV kreditnu instituciju, na tu grupu kreditnih institucija na konsolidiranoj osnovi primjenjuje se viši zaštitni sloj.
+(2) Kada kreditna institucija podliježe zaštitnom sloju za strukturni sistemski rizik utvrđenom u skladu s glavom VII.3 ovoga Zakona, taj se zaštitni sloj dodaje zaštitnom sloju za OSV kreditnu instituciju ili zaštitnom sloju za GSV kreditnu instituciju koji se primjenjuje u skladu s glavom VII.4 ovoga Zakona.
+(3) U slučaju iz stavka 2. ovoga članka, ako je zbroj stope zaštitnog sloja za strukturni sistemski rizik određene u skladu s člankom 131. ovoga Zakona i stope zaštitnog sloja za OSV kreditnu instituciju određene u skladu s člankom 137. ovoga Zakona ili stope zaštitnog sloja za GSV kreditnu instituciju određene u skladu s člankom 136. ovoga Zakona kojoj ta kreditna institucija podliježe bio viši od 5%, Hrvatska narodna banka zatražit će odobrenje od Europske komisije u skladu s postupkom iz članka 137. ovoga Zakona.
+(4) Hrvatska narodna banka može odrediti stope zaštitnih slojeva iz stavka 3. ovoga članka čiji bi zbroj bio viši od 5% ukupnog iznosa izloženosti riziku, samo ako je za to od Europske komisije dobila odobrenje.«.

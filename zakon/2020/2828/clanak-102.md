@@ -1,0 +1,8 @@
+# Članak 102.
+U članku 277. stavak 2. mijenja se i glasi:
+»(2) Iznimno od stavka 1. ovoga članka, kada je Europska središnja banka konsolidirajuće nadzorno tijelo, Hrvatska narodna banka može u superviziji na konsolidiranoj osnovi odnosno kolegiju supervizora sudjelovati kao promatrač, pri čemu će Hrvatska narodna banka postupiti u skladu s uputom Europske središnje banke.
+Iza stavka 3. dodaje se stavak 4. koji glasi:
+(4) Kako bi se osiguralo da se zahtjevi ili supervizorske ovlasti primjenjuju na konsolidiranoj ili potkonsolidiranoj osnovi za potrebe članaka 97. i 97.a ovoga Zakona i ove glave, pojmovima »institucija«, »matična institucija u državi članici«, »matična institucija u RH«, »matična institucija iz EU-a«, »matična institucija iz EU-a sa sjedištem u RH« i »matično društvo« obuhvaćeni su i:
+a) financijski holdinzi i mješoviti financijski holdinzi koji su dobili odobrenje u skladu s ovim Zakonom ili u skladu s odgovarajućim odredbama propisa na snazi u drugoj državi članici
+b) imenovane institucije koje su pod kontrolom matičnog financijskog holdinga iz EU-a, matičnog mješovitog financijskog holdinga iz EU-a, matičnog financijskog holdinga u državi članici ili matičnog mješovitog financijskog holdinga u državi članici u kojoj relevantno matično društvo ne podliježe odobrenju u skladu s člankom 73.a stavkom 6. ovoga Zakona ili u skladu s odgovarajućim odredbama propisa na snazi u drugoj državi članici i
+c) financijski holdinzi, mješoviti financijski holdinzi ili institucije imenovane na temelju članka 73.a ovoga Zakona ili u skladu s odgovarajućim odredbama propisa na snazi u drugoj državi članici.«.

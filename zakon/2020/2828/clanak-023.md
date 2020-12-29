@@ -1,0 +1,8 @@
+# Članak 23.
+U članku 60. stavak 1. mijenja se i glasi:
+»(1) Hrvatska narodna banka izdaje kreditnoj instituciji odobrenje za rad kao banka, štedna banka, stambena štedionica ili kreditna institucija iz članka 4. stavka 1. točke 1. podtočke (b) Uredbe (EU) br. 575/2013 (u daljnjem tekstu: odobrenje za rad).«.
+Iza stavka 6. dodaju se stavci 7. i 8. koji glase:
+»(7) Društvo iz članka 4. stavka 1. točke 1. podtočke (b) Uredbe (EU) br. 575/2013, koje ima odobrenje za rad na temelju propisa kojima se uređuje tržište kapitala, dužno je Hrvatskoj narodnoj banci podnijeti zahtjev za izdavanje odobrenja za rad iz stavka 1. ovoga članka najkasnije na dan kada nastupi nešto od sljedećeg:
+− kada prosjek mjesečne ukupne imovine, izračunan u razdoblju od 12 uzastopnih mjeseci, iznosi ili prelazi iznos u protuvrijednosti 30 milijardi eura ili
+− kada je prosjek mjesečne ukupne imovine izračunan u razdoblju od 12 uzastopnih mjeseci manji od iznosa protuvrijednosti 30 milijardi eura i društvo je dio grupe u kojoj ukupna vrijednost konsolidirane imovine svih društava u grupi koja pojedinačno imaju ukupnu imovinu manju od iznosa u protuvrijednosti 30 milijardi eura i obavljaju bilo koju od djelatnosti iz članka 5. stavka 1. točaka 3. i 6. Zakona o tržištu kapitala (»Narodne novine«, br. 65/18. i 17/20.) iznosi ili prelazi iznos u protuvrijednosti 30 milijardi eura, oboje izračunano kao prosjek u razdoblju od 12 uzastopnih mjeseci.
+(8) Društvo iz članka 4. stavka 1. točke 1. podtočke (b) Uredbe (EU) br. 575/2013, koje ima odobrenje za rad na temelju propisa kojima se uređuje tržište kapitala, dok ne dobije odobrenje za rad iz stavka 1. ovoga članka može nastaviti pružati usluge za koje je dobilo odobrenje prema propisima kojima se uređuje tržište kapitala.«.
