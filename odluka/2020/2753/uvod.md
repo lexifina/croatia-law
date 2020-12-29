@@ -1,0 +1,1 @@
+Na temelju članka 22. stavka 1. Zakona o zdravstvenoj zaštiti (»Narodne novine«, br. 100/18 i 125/19), na prijedlog državnih zdravstvenih zavoda, po prethodno pribavljenom mišljenju nadležnih komora i Hrvatskog liječničkog zbora, ministar zdravstva donosi
