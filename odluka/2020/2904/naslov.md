@@ -1,0 +1,1 @@
+Odluka o davanju suglasnosti na Odluku Županijskog poglavarstva Šibensko-kninske županije o izmjenama i dopunama Odluke o koncesiji na pomorskom dobru u svrhu završetka gradnje i gospodarskog korištenja luke posebne namjene - luke nautičkog turizma na dijelu k.o. Donje Polje - Zablaće
