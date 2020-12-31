@@ -1,0 +1,6 @@
+# Članak 4.
+Članak 4. mijenja se i glasi:
+(1) Bilješke uz financijske izvještaje sadrže dodatne i dopunske informacije koje nisu prezentirane u bilanci, računu dobiti i gubitka, izvještaju o ostaloj sveobuhvatnoj dobiti, izvještaju o novčanim tokovima i izvještaju o promjenama kapitala, a koje zahtijevaju Zakon o računovodstvu, ovaj Pravilnik te primjenjivi standard financijskog izvještavanja. Bilješke uz financijske izvještaje podrazumijevaju bilješke uz godišnje financijske izvještaje i/ili godišnje konsolidirane financijske izvještaje.
+(2) Kada se uz bilancu i račun dobiti i gubitka u skladu s računovodstvenim propisima prikazuju bilješke, te se bilješke prikazuju redoslijedom kojim su stavke prikazane u bilanci i računu dobiti i gubitka.
+(3) Odredbe ovoga Pravilnika koje uređuju obvezu objavljivanja informacija u bilješkama uz financijske izvještaje bez utjecaja su na odredbe primjenjivih standarda financijskog izvještavanja koje uređuju priznavanje i vrednovanje/mjerenje nastalih poslovnih događaja u poslovnim knjigama odnosno financijskim izvještajima.
+(4) Ako se imovina ili obveza odnosi na više od jedne pozicije u obrascu bilance, njihov odnos objavljuje se u bilješkama uz financijske izvještaje.«.
