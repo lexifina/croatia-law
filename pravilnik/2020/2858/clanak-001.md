@@ -1,0 +1,4 @@
+# Članak 1.
+(1) U Pravilniku o polugodišnjem i godišnjem izvještaju o izvršenju proračuna (»Narodne novine«, broj 24/13, 102/17 i 01/20) u članku 7. stavku 1. iza riječi »jedinica lokalne i područne (regionalne) samouprave« dodaju se riječi »te pregled zaduživanja koje su ugovorili ili preuzeli proračunski korisnici državnog proračuna odnosno proračunski korisnici jedinica lokalne i područne (regionalne) samouprave«.
+(2) U stavku 2. iza riječi »jedinica lokalne i područne (regionalne) samouprave« dodaju se riječi »te stanje kredita i zajmova koje su ugovorili proračunski korisnici državnog proračuna odnosno proračunski korisnici jedinica lokalne i područne (regionalne) samouprave«.
+(3) U stavku 3. iza riječi »Ministarstvo financija« dodaju se riječi »i proračunski korisnici državnog proračuna«, a iza riječi »jedinica lokalne i područne (regionalne) samouprave« dodaju se riječi »i proračunski korisnici jedinica lokalne i područne (regionalne) samouprave«.
