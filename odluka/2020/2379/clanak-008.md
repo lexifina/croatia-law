@@ -1,0 +1,4 @@
+# Članak 8.
+Iza točke 95. Upute dodaju se točke 95.a i 95.b, koje glase:
+»95.a Poček je razdoblje od datuma puštanja kredita u tečaj do prijenosa kredita u otplatu i ne obuhvaća razdoblje za koje se obračunavaju interkalarne kamate. Poček se može pojaviti samo na početku trajanja ugovora o kreditu i unaprijed je ugovoren. Kod kredita s jednokratnim dospijećem poček je uvijek nula. Ako je u trenutku sklapanja ugovora o kreditu bio ugovoren poček, a u međuvremenu je dogovoren moratorij i/ili prolongat, informacija o počeku u obilježju »Izvorno dospijeće« ostaje nepromijenjena tijekom cijeloga životnog vijeka kredita.
+95.b Moratorij (odgoda otplate) jest razdoblje ugovoreno između obveznika izvješćivanja i korisnika kredita, a uključuje odgodu plaćanja anuiteta/rate i/ili kamata koje dospijevaju u tom razdoblju. Moratorij može i ne mora utjecati na izvorno dospijeće kredita.«

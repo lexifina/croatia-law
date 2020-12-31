@@ -1,0 +1,3 @@
+# Članak 13.
+U Prilogu 5. Upute, iza točke 263. dodaje se točka 263.a, koja glasi:
+»263.a Ako je postupkom restrukturiranja obuhvaćena samo jedna vrsta kredita, restrukturirani se kredit iskazuje na istoj vrsti instrumenta kao i prvotno odobreni kredit. Primjerice, ako se restrukturira kredit za investicije (ili tri kredita za investicije), kredit nastao restrukturiranjem također se prijavljuje kao kredit za investicije. No, ako su restrukturiranjem obuhvaćene različite vrste kredita, restrukturirani se kredit iskazuje upotrebom modaliteta koji najbolje odražava ekonomsku suštinu novoga kredita.«
