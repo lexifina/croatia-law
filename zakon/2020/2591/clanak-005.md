@@ -1,0 +1,5 @@
+# Članak 5.
+(1) Sredstva na ime neprihvatljivih troškova u projektima koji su financirani sredstvima Europske unije, a koja su korisnici dužni uplatiti u proračun Europske unije na temelju zahtjeva nadležnih tijela Europske unije, izvršavaju se na teret posebne aktivnosti unutar financijskog plana korisnika.
+(2) Za sredstva iz stavka 1. ovoga članka korisnik može naknadno utvrditi aktivnosti i stavke unutar svog financijskog plana, uz prethodnu suglasnost Ministarstva.
+(3) Sredstva iz stavka 1. ovoga članka korisnik osigurava iz izvora financiranja Vlastiti prihodi.
+(4) Iznimno od stavka 3. ovoga članka, ako korisnik nema vlastitih prihoda ili su mu vlastiti prihodi nedostatni za podmirenje neprihvatljivih troškova, sredstva iz stavka 1. ovoga članka će se tijekom proračunske godine osiguravati preraspodjelom bez ograničenja iz izvora financiranja Opći prihodi i primici unutar financijskog plana istog razdjela organizacijske klasifikacije, na temelju odluke Vlade koju predlaže nadležni čelnik razdjela organizacijske klasifikacije uz suglasnost ministra financija.

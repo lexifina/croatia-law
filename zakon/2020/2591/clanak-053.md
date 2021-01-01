@@ -1,0 +1,5 @@
+# Članak 53.
+(1) Korisnici koji su zaduženi za provedbu programa državnih potpora odobrenih od strane Europske komisije obvezni su procijeniti moguće rizike koji mogu nastati ako korisnici zajmova, za koje će biti izdana državna jamstva, neće biti u mogućnosti izvršavati svoje obveze, te na temelju toga, a radi osiguranja plaćanja potencijalnih obveza koje mogu nastati temeljem izdanih jamstava, planirati sredstva u okviru svog financijskog plana.
+(2) Sredstva iz stavka 1. ovoga članka mogu se, ako za to postoji mogućnost i sukladno potrebi, tijekom godine osiguravati preraspodjelom bez ograničenja unutar pojedine aktivnosti, a do visine planiranih sredstava.
+(3) Ako sredstva iz stavka 1. ovoga članka nisu planirana u potrebnom iznosu na razini aktivnosti i ne mogu se osigurati preraspodjelom sukladno Zakonu o proračunu, mogu se izvršavati iznad planiranih sredstava, uz prethodnu suglasnost Ministarstva.
+(4) Državna jamstva iz stavka 1. ovoga članka ne ulaze u ukupnu godišnju vrijednost novih jamstava utvrđenu u članku 48. ovoga Zakona.
