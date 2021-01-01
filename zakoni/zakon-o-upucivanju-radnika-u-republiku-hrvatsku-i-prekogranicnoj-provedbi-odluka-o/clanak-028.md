@@ -1,0 +1,4 @@
+## Nacionalna suradnja radi sprječavanja nezakonitih djelatnosti i prijevara
+# Članak 28.
+Ministarstvo nadležno za poslove rada, državna upravna organizacija koja prema posebnom propisu obavlja inspekcijske poslove u području rada i zaštite na radu, druga tijela državne uprave u čijem je djelokrugu obavljanje inspekcijskoga nadzora nad provedbom posebnih propisa kojima se uređuju radni odnosi odnosno uvjeti rada, tijela nadležna za provedbu uredbi Europske unije o koordinaciji sustava socijalne sigurnosti, ministarstvo nadležno za unutarnje poslove i ministarstvo nadležno za porezni sustav u okviru svojih nadležnosti dužni su međusobno surađivati i pružati potrebne informacije radi sprječavanja nezakonitih djelatnosti i prijevara u području upućivanja radnika.
+3. PROCJENA ČINJENICA SVOJSTVENIH UPUĆIVANJU

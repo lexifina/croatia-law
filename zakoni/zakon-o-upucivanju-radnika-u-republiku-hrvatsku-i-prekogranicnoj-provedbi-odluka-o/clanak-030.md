@@ -1,0 +1,4 @@
+## Prava radnika kad se ne radi o upućivanju
+# Članak 30.
+(1) Ako nadležno tijelo iz članka 45. ovoga Zakona, nakon utvrđivanja činjeničnoga stanja, utvrdi da se ne radi o upućivanju, odnosno upućenom radniku, pravo mjerodavno za ugovor o radu određuje se u skladu s Uredbom (EZ) br. 593/2008 Europskog parlamenta i Vijeća od 17. lipnja 2008. o pravu koje se primjenjuje na ugovorne obveze (Rim I), (SL L L 177, 4. 7. 2008.).
+(2) Ako se nakon opće procjene iz članka 29. ovoga Zakona utvrdi da je pružatelj usluga nepravilno ili u namjeri prijevare prikazao da je riječ o situaciji upućivanja, odnosno upućenom radniku, a zbog primjene pravila iz odredbe stavka 1. ovoga članka postoji sukob prava koje se primjenjuje na ugovor o radu i hrvatskoga nacionalnog zakonodavstva, primjena mjerodavnoga prava ne može dovesti do umanjenja prava radnika odnosno primjene uvjeta rada nepovoljnijih od onih koja se ovim Zakonom jamče upućenom radniku.

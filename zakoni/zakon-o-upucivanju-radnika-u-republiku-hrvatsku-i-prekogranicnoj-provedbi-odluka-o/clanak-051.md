@@ -1,0 +1,3 @@
+# Članak 51.
+(1) Stranom poslodavcu koji na dan stupanja na snagu ovoga Zakona ima u Republici Hrvatskoj upućenoga radnika u trajanju kraćem od 18 mjeseci od dana početka upućivanja produžuje se razdoblje upućivanja na 18 mjeseci bez obveze podnošenja obavijesti o potrebi produženja iz članka 18. ovoga Zakona, a prethodna razdoblja upućivanja radnika na istom zadatku uračunavaju se u ukupno trajanje upućivanja.
+(2) Strani poslodavac koji na dan stupanja na snagu ovoga Zakona ima u Republici Hrvatskoj upućenoga radnika na istom zadatku u trajanju dužem od 18 mjeseci od dana početka upućivanja dužan je od dana stupanja na snagu ovoga Zakona primjenjivati odredbe ovoga Zakona o dugotrajnom upućivanju.

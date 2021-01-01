@@ -1,0 +1,7 @@
+## Radnici – državljani trećih zemalja
+# Članak 20.
+(1) Državljanin treće zemlje zakonito zaposlen kod stranoga poslodavca sa sjedištem u državi članici Europske unije, drugoj državi ugovornici EGP-a ili Švicarskoj Konfederaciji, a koji je upućen na rad u Republiku Hrvatsku na razdoblje dulje od 90 dana dužan je regulirati privremeni boravak u svrhu rada upućenoga radnika u skladu s posebnim propisom kojim se uređuje ulazak, boravak i rad stranaca u Republici Hrvatskoj.
+(2) Radnik državljanin treće zemlje koji kao izvršitelj usluga u ime ili za svog poslodavca koji nema pravo poslovnog nastana u državi ugovornici EGP-a obavlja uslugu na temelju ugovora o pružanju usluga koji je sklopio njegov poslodavac dužan je regulirati dozvolu za boravak i rad u skladu s posebnim propisom kojim se uređuje ulazak, boravak i rad stranaca u Republici Hrvatskoj.
+(3) Za radnika državljanina treće zemlje strani je poslodavac dužan u izjavi o upućivanju iz članka 19. ovoga Zakona potvrditi da je upućeni radnik zakonito zaposlen prema propisima države u kojoj strani poslodavac ima sjedište.
+(4) Korisnik u Republici Hrvatskoj kojem je usluga namijenjena ne smije dozvoliti obavljanje usluge odnosno koristiti rad upućenoga radnika ako zna ili je mogao znati da upućeni radnik nije zakonito zaposlen kod stranoga poslodavca.
+(5) Pružatelj usluga poslodavac sa sjedištem u trećoj zemlji ne smije biti stavljen u povoljniji položaj od pružatelja usluga koji ima sjedište u državi članici Europske unije, drugoj državi ugovornici EGP-a ili u Švicarskoj Konfederaciji.

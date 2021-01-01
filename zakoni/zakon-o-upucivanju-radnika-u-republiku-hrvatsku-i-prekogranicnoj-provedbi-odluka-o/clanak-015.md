@@ -1,0 +1,5 @@
+## Prava radnika u slučaju dugotrajnoga upućivanja
+# Članak 15.
+(1) U slučaju dugotrajnoga upućivanja strani poslodavac dužan je, od prvoga dana nakon isteka roka iz članka 14. ovoga Zakona, na dugotrajno upućenoga radnika primijeniti, uz zajamčene uvjete rada i prava iz članka 6. ovoga Zakona, i sve druge uvjete rada koji se prema propisu odnosno proširenom kolektivnom ugovoru obvezno primjenjuju na domaće radnike.
+(2) Iznimno od stavka 1. ovoga članka, u slučaju dugotrajnoga upućivanja strani poslodavac nije dužan primjenjivati odredbe propisa ili proširenoga kolektivnog ugovora kojima se uređuje postupak, uvjeti i administrativne obveze prilikom sklapanja i prestanka ugovora o radu, zabrana tržišnoga natjecanja te sustav dobrovoljnoga mirovinskog osiguranja na temelju individualne kapitalizirane štednje.
+(3) Strani poslodavac dužan je upućenom radniku osigurati uvjete rada iz stavka 1. ovoga članka ako su povoljnije uređeni propisima odnosno proširenim kolektivnim ugovorom u Republici Hrvatskoj nego zakonodavstvom države sjedišta stranoga poslodavca i koje se primjenjuje na radni odnos.

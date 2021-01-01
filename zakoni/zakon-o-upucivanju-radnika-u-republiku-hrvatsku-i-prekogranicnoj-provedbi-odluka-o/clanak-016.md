@@ -1,0 +1,4 @@
+## Računanje razdoblja upućivanja
+# Članak 16.
+(1) Početak i kraj razdoblja upućivanja računa se od dana navedenoga u izjavi o upućivanju, a po potrebi ili u slučaju sumnje u obzir mogu biti uzeti i datum početka i kraja upućivanja iz potvrde nadležnoga tijela o obuhvaćenosti radnika inozemnim sustavom socijalnog osiguranja za vrijeme upućivanja odnosno podatak o državi ili državama u kojima treba obavljati rad u inozemstvu te podatak o početku i trajanju rada u drugoj državi iz ugovora o radu ili drugoga akta kojim je zasnovan radni odnos, osim ako posebnim propisom nije određeno drugačije.
+(2) Ako se zbog neslaganja podataka iz stavka 1. ovoga članka ne može sa sigurnošću utvrditi početak razdoblja upućivanja, početkom razdoblja upućivanja smatrat će se podatak o najranijem početku upućivanja.
