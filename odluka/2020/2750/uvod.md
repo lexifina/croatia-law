@@ -1,0 +1,1 @@
+Na temelju članka 42. stavka 1. Zakona o lokalnim porezima (»Narodne novine« broj 115/16. i 101/17.) i članka 35. Statuta Općine Fužine (»Službene novine Općine Fužine«, broj 07/18 i 01/20), Općinsko vijeće Općine Fužine, na sjednici održanoj 14. prosinca 2020. godine, donijelo je
