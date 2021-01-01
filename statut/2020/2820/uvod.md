@@ -1,0 +1,1 @@
+Na temelju članaka 12. i 15. Zakona o turističkim zajednicama i promicanju hrvatskog turizma (»Narodne novine«, broj 52/2019 - u daljnjem tekstu: Zakon), Skupština Turističke zajednice Karlovačke županije uz prethodnu suglasnost Ministarstva turizma i sporta, na sjednici održanoj 27. listopada 2020. godine donijela je
