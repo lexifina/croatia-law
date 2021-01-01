@@ -1,0 +1,7 @@
+## Opća načela
+# Članak 5.
+(1) Sanacijska i nadležna tijela pri utvrđivanju i primjeni ovlasti propisanih ovim Zakonom i pri upotrebi različitih instrumenata kojima raspolažu u odnosu na subjekte iz članka 3. ovoga Zakona, u skladu s posebnim odredbama, uzimaju u obzir vrstu, opseg i složenost poslova koje subjekt obavlja, njegovu dioničarsku strukturu, pravni oblik, profil rizičnosti, veličinu i pravni status, povezanost s drugim institucijama i financijskim sustavom u cjelini, te podatak o tome obavlja li subjekt investicijske usluge ili aktivnosti kako je uređeno propisom kojim se uređuje tržište kapitala.
+(2) Na kreditne institucije nad kojima Hrvatska narodna banka izvršava sanacijske ovlasti primjenjuju se propisi kojima se uređuje poslovanje kreditnih institucija, osim ako ovim Zakonom nije drukčije propisano.
+(3) Na investicijska društva nad kojima Hrvatska agencija za nadzor financijskih usluga izvršava sanacijske ovlasti primjenjuju se propisi kojima se uređuje tržište kapitala, osim ako ovim Zakonom nije drukčije propisano.
+(4) Na institucije nad kojima Hrvatska narodna banka odnosno Hrvatska agencija za nadzor financijskih usluga izvršava sanacijske ovlasti primjenjuju se odredbe propisa kojima se uređuje osnivanje i ustroj trgovačkih društava, osim ako ovim Zakonom nije drukčije propisano.
+(5) Na subjekte na koje se primjenjuje Uredba (EU) br. 806/2014 odredbe ovoga Zakona primjenjuju se u mjeri u kojoj pojedina pitanja nisu uređena Uredbom (EU) br. 806/2014 te u mjeri potrebnoj za provedbu odredbi Uredbe (EU) br. 806/2014.

@@ -1,0 +1,6 @@
+## Stopa pretvaranja
+# Članak 58.
+(1) Pri izvršenju ovlasti iz članka 52. stavka 1. ovoga Zakona ili ovlasti iz članka 97. stavka 1. točke 6. ovoga Zakona Hrvatska narodna banka odnosno Hrvatska agencija za nadzor financijskih usluga može primijeniti različitu stopu pretvaranja na različite kategorije relevantnih instrumenata kapitala i obveza u skladu s jednim ili oba načela iz stavaka 2. i 3. ovoga članka.
+(2) Stopa pretvaranja mora odražavati odgovarajuću naknadu pogođenom vjerovniku za svaki gubitak koji je pretrpio zbog smanjenja vrijednosti ili pretvaranja iz stavka 1. ovoga članka.
+(3) Ako Hrvatska narodna banka odnosno Hrvatska agencija za nadzor financijskih usluga primjenjuje različite stope pretvaranja u skladu sa stavkom 1. ovoga članka, stopa pretvaranja koja se primjenjuje na obveze koje u redovnom postupku zbog insolventnosti ulaze u više isplatne redove i imaju pravo prvenstva pri namirenju, bit će više od stopa pretvaranja za obveze koje ulaze u niže isplatne redove.
+(4) Hrvatska narodna banka donijet će podzakonski propis kojim će pobliže urediti uvjete za određivanje stope pretvaranja, a Upravno vijeće Hrvatske agencije za nadzor financijskih usluga donijet će pravilnik kojim će pobliže urediti uvjete za određivanje stope pretvaranja.

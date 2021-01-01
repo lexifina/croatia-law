@@ -1,0 +1,3 @@
+## Odgovornost za štetu
+# Članak 11.
+Hrvatska narodna banka, Hrvatska agencija za nadzor financijskih usluga, Hrvatska agencija za osiguranje depozita i Ministarstvo financija, njihovi radnici ili bilo koja osoba koju oni ovlaste ne odgovaraju za štetu koja nastane tijekom obavljanja dužnosti u okviru ovoga Zakona i propisa kojima se uređuje oporavak i sanacija kreditnih institucija i investicijskih društava te u okviru Uredbe (EU) br. 806/2014 i propisa donesenih u skladu s Uredbom (EU) br. 806/2014, osim ako se dokaže da su određenu radnju učinili ili propustili učiniti namjerno ili krajnjom nepažnjom.

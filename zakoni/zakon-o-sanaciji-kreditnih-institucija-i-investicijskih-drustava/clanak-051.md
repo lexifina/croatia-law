@@ -1,0 +1,10 @@
+## Naknadna procjena vrijednosti
+# Članak 51.
+(1) U slučaju iz članka 50. stavka 10. ili 11. ovoga Zakona, Hrvatska narodna banka odnosno Hrvatska agencija za nadzor financijskih usluga osigurava da, kada to bude moguće, neovisni procjenitelj izvrši naknadnu neovisnu procjenu koja u cijelosti udovoljava uvjetima iz članka 50. ovoga Zakona, a koja se može izraditi ili odvojeno od procjene iz članka 123. ovoga Zakona ili istodobno s tom procjenom, a može biti izvršena i od strane istog neovisnog procjenitelja, s time da u tom slučaju mora biti jasno naznačeno da su to dvije različite procjene.
+(2) Naknadna procjena vrijednosti iz stavka 1. ovoga članka mora:
+1. osigurati da su procjenom utvrđeni svi gubici za koje je potrebno umanjiti imovinu institucije ili subjekta iz članka 3. točke 2., 3. ili 4. ovoga Zakona te da su oni u potpunosti evidentirani u njihovim poslovnim knjigama i
+2. pribaviti informacije za donošenje odluke iz stavka 3. ovoga članka o povećanju vrijednosti tražbina vjerovnika čija je vrijednost smanjena ili povećanju naknade.
+(3) Ako naknadna procjena vrijednosti iz stavka 1. ovoga članka iskaže neto vrijednost imovine institucije ili subjekta iz članka 3. točke 2., 3. ili 4. ovoga Zakona u višem iznosu od neto vrijednosti imovine koja je iskazana u privremenoj procjeni vrijednosti provedenoj na temelju članka 50. stavka 10. ili 11. ovoga Zakona, Hrvatska narodna banka odnosno Hrvatska agencija za nadzor financijskih usluga može:
+1. povećati vrijednost tražbine vjerovnika ili vlasnika relevantnih instrumenata kapitala kojima je vrijednost smanjena primjenom instrumenta unutarnje sanacije odnosno primjenom ovlasti iz glave VII. ovoga Zakona ili
+2. naložiti prijelaznoj instituciji ili nositelju upravljanja imovinom isplatu dodatne naknade za imovinu, prava i obveza instituciji u sanaciji ili ovisno o slučaju za dionice ili druge vlasničke instrumente, dioničarima.
+(4) Kada Jedinstveni sanacijski odbor izvršava svoje ovlasti u skladu s člankom 20. stavkom 12. Uredbe (EU) br. 806/2014, Hrvatska narodna banka postupa u skladu s uputom Jedinstvenog sanacijskog odbora.

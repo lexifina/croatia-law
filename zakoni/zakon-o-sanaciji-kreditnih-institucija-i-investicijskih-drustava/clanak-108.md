@@ -1,0 +1,21 @@
+## Ovlast privremene odgode prava na otkaz ugovora
+# Članak 108.
+(1) Hrvatska narodna banka odnosno Hrvatska agencija za nadzor financijskih usluga može donijeti odluku o privremenoj odgodi prava druge ugovorne strane na otkazivanje ugovornog odnosa s institucijom ili subjektom iz članka 3. točke 2., 3. ili 4. ovoga Zakona u sanaciji pod uvjetom da se i nadalje izvršavaju obveze plaćanja i isporuke odnosno stjecanja instrumenta financijskog osiguranja i odmah je objaviti na način iz članka 48. ovoga Zakona.
+(2) Hrvatska narodna banka odnosno Hrvatska agencija za nadzor financijskih usluga u izreci odluke iz stavka 1. ovoga članka, kao i u objavi iz članka 48. ovoga Zakona, navodi dan, sat i minutu nastupanja odgode iz stavka 1. ovoga članka.
+(3) Odluka o odgodi iz stavka 1. ovoga članka može biti sastavni dio odluke o otvaranju postupka sanacije iz članka 46. ili 47. ovoga Zakona.
+(4) Odgoda iz stavka 1. ovoga članka primjenjuje se od trenutka navedenog u izrijeci odluke o odgodi i traje do ponoći sljedećeg radnog dana računajući od dana navedenog u izrijeci odluke o odgodi.
+(5) Ovlast iz stavka 1. ovoga članka može se odnositi i na ugovorne odnose koje je druga ugovorna strana zaključila s društvom kćeri institucije ili subjekta iz članka 3. točke 2., 3. ili 4. ovoga Zakona u sanaciji ako:
+1. za te ugovorne obveze jamči ili ih na drugi način osigurava institucija u sanaciji
+2. je pravo na otkaz ugovora temeljeno isključivo na nesolventnosti odnosno financijskom stanju institucije u sanaciji i
+3. se na instituciju ili subjekt iz članka 3. točke 2., 3. ili 4. ovoga Zakona u sanaciji primjenjuje ili se može primijeniti ovlast prijenosa na način da se prenese ili se može prenijeti sva imovina ili obveze društva kćeri povezane s tim ugovorom primatelju koji ih je ili ih može preuzeti, ili ako Hrvatska narodna banka odnosno Hrvatska agencija za nadzor financijskih usluga na bilo koji drugi način osigurava adekvatnu zaštitu za te obveze.
+(6) Odgoda iz stavka 5. ovoga članka primjenjuje se od trenutka navedenog u izreci odluke o odgodi i traje do ponoći sljedećeg radnog dana računajući od dana navedenog u izreci odluke o odgodi.
+(7) Iznimno od stavaka 1. i 5. ovoga članka, odluka o odgodi se ne primjenjuje na:
+1. sustave i upravitelje sustava iz propisa kojima se uređuje konačnost namire
+2. središnje druge ugovorne strane koje imaju odobrenje za rad u Europskoj uniji na temelju članka 14. Uredbe (EU) br. 648/2012 i središnje druge ugovorne strane trećih zemalja koje je Europsko nadzorno tijelo za vrijednosne papire i tržište kapitala priznalo na temelju članka 25. Uredbe (EU) br. 648/2012 i
+3. središnje banke.
+(8) Iznimno od stavaka 1. do 7. ovoga članka, ugovorna strana može otkazati ugovor prije isteka odgode iz stavka 1. ili 5. ovoga članka ako primi obavijest Hrvatske narodne banke odnosno Hrvatske agencije za nadzor financijskih usluga da se prava i obveze obuhvaćene ugovorom ne prenose na primatelja ili neće biti smanjene ili pretvorene pri primjeni instrumenta unutarnje sanacije u skladu s člankom 79. stavkom 1. točkom 1. ovoga Zakona.
+(9) Pravo na otkaz ugovora iz stavaka 1. i 5. ovoga članka može se izvršiti po isteku roka odgode na sljedeći način:
+1. ako su prava ili obveze obuhvaćene ugovorom prenesene na primatelja, druga ugovorna strana može otkazati ugovor samo ako nakon trenutka prijenosa nastupe uvjeti za otkaz ugovora u odnosu na primatelja
+2. ako prava ili obveze obuhvaćene ugovorom ostaju u instituciji u sanaciji, a na taj ugovor Hrvatska narodna banka odnosno Hrvatska agencija za nadzor financijskih usluga nije primijenila instrument unutarnje sanacije u skladu s člankom 79. stavkom 1. točkom 1. ovoga Zakona, druga ugovorna strana može otkazati ugovor ako nakon isteka roka odgode nastupe uvjeti za otkaz ugovora.
+(10) Hrvatska narodna banka odnosno Hrvatska agencija za nadzor financijskih usluga pri donošenju odluke iz stavaka 1. i 5. ovoga članka uzima u obzir učinak koji bi izvršavanje te ovlasti moglo imati na uredno funkcioniranje financijskih tržišta.
+(11) Trgovinski repozitorij dužan je na zahtjev Hrvatske narodne banke odnosno Hrvatske agencije za nadzor financijskih usluga u skladu s člankom 81. Uredbe br. 648/2012 učiniti dostupnim potrebne informacije kako bi joj omogućio ispunjavanje njezinih ovlasti.

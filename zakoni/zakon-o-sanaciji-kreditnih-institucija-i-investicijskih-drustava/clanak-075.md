@@ -1,0 +1,6 @@
+## Poslovanje prijelazne institucije
+# Članak 75.
+(1) Prijelazna institucija mora ispunjavati zahtjeve iz Uredbe (EU) br. 575/2013 i propisa kojima se uređuje poslovanje kreditnih institucija odnosno propisa kojima se uređuje tržište kapitala i podložna je superviziji odnosno nadzoru u skladu s tim propisima.
+(2) Iznimno od stavka 1. ovoga članka, nadležno tijelo može na zahtjev Hrvatske narodne banke odnosno Hrvatske agencije za nadzor financijskih usluga dopustiti da prijelazna institucija neki od zahtjeva iz stavka 1. ovoga članka ispuni u određenom roku.
+(3) Prijelazna institucija dužna je poslovati u skladu s pravnim okvirom Europske unije za državne potpore, a Hrvatska narodna banka odnosno Hrvatska agencija za nadzor financijskih usluga može u tom cilju ograničiti postupanje prijelazne institucije.
+(4) Sanacijska uprava dužna je upravljati prijelaznom institucijom na način da osigura kontinuitet obavljanja ključnih funkcija te poduzimati postupke s ciljem prodaje institucije ili subjekta iz članka 3. točke 2., 3. ili 4. ovoga Zakona, njihove imovine, prava ili obveza, u skladu s rokovima iz članka 77. stavaka 3. i 4. ovoga Zakona i uvažavajući pravni okvir Europske unije i propise kojima se uređuje zaštita tržišnog natjecanja.

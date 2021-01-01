@@ -1,0 +1,5 @@
+## Provedba uputa Jedinstvenog sanacijskog odbora za primjenu ovlasti rješavanja ili uklanjanja prepreka mogućnosti sanacije
+# Članak 24.
+(1) Kada Jedinstveni sanacijski odbor izvršava svoje ovlasti iz članka 10. stavka 10. ili 11. Uredbe (EU) br. 806/2014 vezano uz rješavanje ili uklanjanje prepreka mogućnosti sanacije, Hrvatska narodna banka postupa samo u skladu s uputom Jedinstvenog sanacijskog odbora, a na način utvrđen člankom 22. stavcima 5. i 7. i stavcima 10. do 13. ovoga Zakona.
+(2) Subjekt za koji je izravno odgovoran Jedinstveni sanacijski odbor dužan je izvršiti mjere za rješavanje ili uklanjanje prepreka mogućnosti sanacije u rokovima kako je naloženo rješenjem Hrvatske narodne banke donesenom na temelju stavka 1. ovoga članka.
+(3) Subjekt za koji je Jedinstveni sanacijski odbor izravno odgovoran dužan je u roku od mjesec dana od dana dostave rješenja kojim se nalažu mjere temeljem stavka 1. ovoga članka Hrvatskoj narodnoj banci dostaviti plan za usklađenje s naloženim mjerama.

@@ -1,0 +1,28 @@
+## Procjena mogućnosti sanacije institucije
+# Članak 15.
+(1) Hrvatska narodna banka odnosno Hrvatska agencija za nadzor financijskih usluga za potrebe izrade i ažuriranja individualnog sanacijskog plana iz članka 17. ovoga Zakona procjenjuje je li moguće nad institucijom koja nije dio grupe i za koju Jedinstveni sanacijski odbor nije izravno odgovoran provesti redovni postupak zbog insolventnosti odnosno sanaciju, a da se pri tom ne koristi:
+1. izvanredna javna financijska potpora, osim sredstava sanacijskog fonda ili Jedinstvenog sanacijskog fonda
+2. likvidnosna pomoć središnje banke u izvanrednim situacijama ili
+3. likvidnosna pomoć središnje banke koja nije osigurana uobičajenim sredstvima osiguranja, nema uobičajeni rok dospijeća ili uobičajene kamatne uvjete.
+(2) Smatra se da je sanacija odnosno redovni postupak zbog insolventnosti institucije koja nije dio grupe i za koju Jedinstveni sanacijski odbor nije izravno odgovoran moguć, ako je redovni postupak zbog insolventnosti provediv i opravdan odnosno ako je provediva i opravdana sanacija koju bi radi izbjegavanja štetnih posljedica na financijski sustav Republike Hrvatske, druge države članice ili Europske unije u cjelini i radi osiguranja kontinuiteta ključnih funkcija te institucije provela Hrvatska narodna banka odnosno Hrvatska agencija za nadzor financijskih usluga primjenom nekog od sanacijskih instrumenata i ovlasti uređenih ovim Zakonom.
+(3) Prije provođenja procjene iz stavka 1. ovoga članka Hrvatska narodna banka odnosno Hrvatska agencija za nadzor financijskih usluga savjetovat će se sa sanacijskim tijelom druge države članice u kojoj institucija iz stavka 1. ovoga članka ima značajnu podružnicu, u mjeri u kojoj je to važno za tu podružnicu.
+(4) Procjena iz stavka 1. ovoga članka mora obuhvatiti najmanje sljedeće:
+1. u kojoj mjeri je moguće temeljne poslovne linije i ključne funkcije institucije rasporediti po pravnim osobama
+2. u kojoj mjeri pravna i korporativna struktura prati temeljne poslovne linije i ključne funkcije
+3. u kojoj mjeri je osiguran nužan broj radnika, infrastruktura, financiranje, likvidnost i kapital za potporu temeljnih poslovnih linija i ključnih funkcija te njihovo održavanje
+4. ima li institucija sklopljene ugovore s pružateljima usluga o povjeravanju obavljanja procesa, usluga ili aktivnosti, jesu li održivi te u kojoj mjeri su isti provedivi u slučaju sanacije te institucije
+5. u kojoj je mjeri upravljačka struktura institucije prikladna za upravljanje i osiguravanje usklađenosti ugovora o povjeravanju obavljanja procesa, usluga ili aktivnosti s politikama institucije
+6. u kojoj mjeri institucija, u slučaju odvajanja temeljnih poslovnih linija ili ključnih funkcija i prijenosa istih na treće osobe, ima utvrđen postupak prijenosa procesa, usluga ili aktivnosti koje su predmet ugovora s pružateljima usluga
+7. u kojoj mjeri postoje planovi kontinuiteta poslovanja i mjere za postupanje u kriznim situacijama, a kojima se osigurava kontinuitet pristupa platnim sustavima i sustavima za namiru financijskih instrumenata
+8. omogućava li upravljački informacijski sustav institucije pristup točnim i potpunim informacijama u vezi s temeljnim poslovnim linijama i ključnim funkcijama, a radi olakšavanja brzog donošenja odluka u vezi sa sanacijom
+9. omogućava li upravljački informacijski sustav institucije pružanje informacija nužnih za djelotvornu sanaciju te institucije u svakom trenutku, uključujući i slučajeve kada se okolnosti brzo mijenjaju
+10. je li institucija testirala otpornost upravljačkih informacijskih sustava na stres kako je to definirala Hrvatska narodna banka odnosno Hrvatska agencija za nadzor financijskih usluga, i koji su rezultati tih testiranja
+11. u kojoj mjeri institucija može osigurati kontinuitet svojih upravljačkih informacijskih sustava u njoj samoj ili u novoj pravnoj osobi ako se temeljne poslovne linije i ključne funkcije odvoje od ostalih linija poslovanja i funkcija
+12. je li institucija uspostavila odgovarajući postupak kako bi osigurala pružanje ažurne i potpune informacije potrebne za utvrđivanje vjerovnika, uključujući i informacije za utvrđivanje osiguranih deponenata i iznosa osiguranih depozita sukladno propisu kojim se uređuje osiguranje depozita, kao i informacije o tražbinama koje su zaštićene sustavom zaštite ulagatelja sukladno propisu kojim se uređuje tržište kapitala
+13. iznos i vrstu obveza institucije podložnih za unutarnju sanaciju
+14. je li moguće, s obzirom na instrumente sanacije te strukturu institucije, primijeniti ih na način kojim se postižu ciljevi sanacije
+15. opravdanost primjene sanacijskih instrumenata na način kojim se ispunjavaju ciljevi sanacije, uzimajući u obzir mogući učinak tih instrumenata na vjerovnike, ugovorne strane, klijente i radnike te moguće mjere nadležnog tijela treće zemlje
+16. u kojoj mjeri bi sanacija institucije mogla imati značajan izravan ili neizravan negativan učinak na financijski sustav, povjerenje tržišta ili gospodarstva, te može li se taj učinak vrednovati
+17. u kojoj mjeri bi primjena sanacijskih instrumenata i ovlasti za sanaciju mogla spriječiti širenje negativnih učinaka na druge institucije ili na financijska tržišta i
+18. u kojoj mjeri bi sanacija institucije mogla imati značajan utjecaj na funkcioniranje platnih sustava i sustava za namiru financijskih instrumenata.
+(5) Hrvatska narodna banka odnosno Hrvatska agencija za nadzor financijskih usluga bez odgađanja obavještava Europsko nadzorno tijelo za bankarstvo ako procijeni da nad institucijom iz stavka 1. ovoga članka nije moguće provesti niti redovni postupak zbog insolventnosti niti sanaciju.

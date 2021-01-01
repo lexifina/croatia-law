@@ -1,0 +1,5 @@
+## Ugovorno priznavanje ovlasti odgode i ograničenja u financijskim ugovorima koji su uređeni pravom treće zemlje
+# Članak 109.
+(1) Institucija odnosno subjekt iz članka 3. točke 2., 3. ili 4. ovoga Zakona dužan je osigurati da financijski ugovor koji je uređen pravom treće zemlje sadrži odredbu da prava i obveze koje proizlaze iz tog ugovornog odnosa mogu biti predmet odgode ili ograničenja u skladu s člancima 105. do 108. ovoga Zakona te da se na njih primjenjuju odredbe članka 104. ovoga Zakona.
+(2) Odredba stavka 1. ovoga članka primjenjuje se na financijski ugovor sukladno kojem je moguće izvršiti pravo na otkaz ili ovrhu, a na koje pravo bi se mogli primijeniti članci 104. do 108. ovoga Zakona da je za financijski ugovor mjerodavno pravo Republike Hrvatske.
+(3) Neovisno o tome sadrži li financijski ugovor odredbu u skladu sa stavkom 1. ovoga članka ili ne, Hrvatska narodna banka odnosno Hrvatska agencija za nadzor financijskih usluga može primijeniti ovlast iz članaka 104. do 108. ovoga Zakona u odnosu na taj financijski ugovor.

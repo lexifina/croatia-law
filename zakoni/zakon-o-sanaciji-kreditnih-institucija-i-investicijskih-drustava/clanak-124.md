@@ -1,0 +1,3 @@
+## Zaštitne mjere za dioničare i vjerovnike
+# Članak 124.
+Ako je procjenom iz članka 123. ovoga Zakona utvrđeno da je bilo koji dioničar ili vjerovnik iz članka 122. ovoga Zakona ili sustav osiguranja depozita u skladu s člankom 139. stavkom 1. ovoga Zakona snosio veći gubitak od gubitka koji bi snosio da je u vrijeme kad je donesena odluka o sanaciji nad institucijom u sanaciji proveden redovni postupak zbog insolventnosti, dioničar, vjerovnik ili sustav osiguranja depozita ima pravo na naknadu razlike iz Jedinstvenog sanacijskog fonda u skladu s odredbama Uredbe (EU) br. 806/2014 odnosno iz sanacijskog fonda kada se navedeno pravo ne ostvaruje u skladu s Uredbom (EU) br. 806/2014.

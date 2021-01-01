@@ -1,0 +1,5 @@
+## XII. ZAŠTITNE MJERE
+## Postupanje prema dioničarima i vjerovnicima u slučaju djelomičnih prijenosa i primjene instrumenta unutarnje sanacije
+# Članak 122.
+(1) Ako Hrvatska narodna banka odnosno Hrvatska agencija za nadzor financijskih usluga, primjenjujući jedan ili više sanacijskih instrumenata, prenosi samo dio prava, imovine i obveza institucije u sanaciji, osigurava da dioničari i oni vjerovnici čije tražbine nisu prenesene dobiju kao namirenje svojih tražbina najmanje onaj iznos u kojem bi bili namireni da je u vrijeme kad je donesena odluka iz članka 46. odnosno članka 47. ovoga Zakona nad institucijom u sanaciji proveden redovni postupak zbog insolventnosti.
+(2) Ako Hrvatska narodna banka odnosno Hrvatska agencija za nadzor financijskih usluga primjenjuje instrument unutarnje sanacije, osigurava da dioničari i vjerovnici čijim tražbinama se vrijednost smanjuje ili pretvara u instrument redovnog osnovnog kapitala ne snose gubitak veći od gubitka koji bi snosili da je nad institucijom u sanaciji u vrijeme kad je donesena odluka iz članka 46. odnosno 47. ovoga Zakona proveden redovni postupak zbog insolventnosti.
