@@ -1,0 +1,1 @@
+Na temelju članka 10. stavka 5. Zakona o financiranju jedinica lokalne i područne (regionalne) samouprave (»Narodne novine«, br. 127/17 i 138/20), Vlada Republike Hrvatske je na sjednici održanoj 30. prosinca 2020. donijela
