@@ -1,0 +1,1 @@
+Pravilnik o izmjenama Pravilnika o uvjetima i načinu polaganja ispita za ovlaštenog mjeritelja i ovlaštenog servisera te obliku i sadržaju službene iskaznice ovlaštenog mjeritelja i ovlaštenog servisera
