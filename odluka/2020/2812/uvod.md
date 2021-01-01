@@ -1,0 +1,1 @@
+Na temelju članka 20. i 42. Zakona o lokalnim porezima (»Narodne novine« br. 115/16 i 101/17) i članka 22. Statuta Grada Zaprešića (Službene novine Grada Zaprešića br. 04/09, 02/13, 06/13 - pročišćeni tekst i 07/14), Gradsko vijeće Grada Zaprešića na svojoj 28. sjednici održanoj 22. prosinca 2020.godine donijelo je
