@@ -1,0 +1,5 @@
+# Članak 2.
+Članak 2. mijenja se i glasi:
+»Članak 2.
+(1) Ovim se Zakonom u hrvatsko zakonodavstvo preuzima Direktiva 2004/38/EZ Europskog parlamenta i Vijeća od 29. travnja 2004. o pravu građana Unije i članova njihovih obitelji slobodno se kretati i boraviti na državnom području država članica, o izmjeni Uredbe (EEZ) br. 1612/68 i stavljaju izvan snage direktiva 64/221/EEZ, 68/360/EEZ, 72/194/EEZ, 73/148/EEZ, 75/34/EEZ, 75/35/EEZ, 90/364/EEZ, 90/365/EEZ i 93/96/EEZ (Tekst značajan za EGP) (SL L 158, 30. 4. 2004.), kako je posljednji put izmijenjena Uredbom (EU) br. 492/2011 Europskog parlamenta i Vijeća od 5. travnja 2011. o slobodi kretanja radnika u Uniji (kodifikacija) (Tekst značajan za EGP) (SL L 141, 27. 5. 2011.).
+(2) Ovim se Zakonom propisuje provedba Sporazuma u dijelu koji se odnosi na dio drugi »Prava građana«, poglavlje 1., osim članka 18. stavaka 1. do 3. Sporazuma, te poglavlje 2. Sporazuma u dijelu koji se odnosi na pravo ulaska i izdavanje isprave kojim se utvrđuju prava pograničnih radnika.«.
