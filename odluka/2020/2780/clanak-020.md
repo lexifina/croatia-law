@@ -1,0 +1,2 @@
+# Članak 20.
+Danom stupanja na snagu ove Odluke prestaju važiti članak 9. stavak 2 i članak 18. Odluke o davanju na privremenu uporabu javnih površina (»Službene novine Primorsko-goranske županije« broj 25/03 i »Službene novine grada Čabra 9/19« te članak 7. Odluke o obavljanju trgovine na malo izvan prodavaonica na području Grada Čabra (»Služene novine Primorsko goranske županije« broj 27/12 i 14/13).

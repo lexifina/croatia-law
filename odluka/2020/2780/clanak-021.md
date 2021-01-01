@@ -1,0 +1,2 @@
+# Članak 21.
+Postupci u svezi s utvrđivanjem i naplatom poreza na tvrtku ili naziv i poreza na kuće za odmor započeti prema odredbama Odluke o porezima Grada Čabra (»Narodne novine« broj 126/09 i 36/10, 123/16 i »Službene novine Primorsko-goranske županije« broj 39/15), a koji nisu dovršeni do stupanja na snagu ove Odluke, dovršit će se prema odredbama Odluke o porezima Grada Čabra (»Narodne novine« broj 126/09 i 36/10, 123/16 i »Službene novine Primorsko-goranske županije« broj 39/15).
