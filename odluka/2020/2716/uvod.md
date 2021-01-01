@@ -1,0 +1,1 @@
+Na temelju članaka 42. stavka 1. Zakona o lokalnim porezima (»Narodne novine« 115/16 i 101/17) i članka 41. točke 2. Statuta Grada Zagreba (Službeni glasnik Grada Zagreba 23/16, 2/18, 23/18 i 3/20), Gradska skupština Grada Zagreba, na 38. sjednici, 9. prosinca 2020., donijela je
