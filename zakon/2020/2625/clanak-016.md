@@ -1,0 +1,2 @@
+# Članak 16.
+U cijelom tekstu Zakona o porezu na dohodak (»Narodne novine«, br. 115/16., 106/18., 121/19. i 32/20.) riječi: »stope od 24%« u određenom broju i padežu zamjenjuju se riječima: »stope od 20%« u odgovarajućem broju i padežu, riječi: »stope od 36%« u određenom broju i padežu zamjenjuju se riječima: »stope od 30%« u odgovarajućem broju i padežu, riječi: »stope od 12%« u određenom broju i padežu zamjenjuju se riječima: »stope od 10%« u odgovarajućem broju i padežu.
