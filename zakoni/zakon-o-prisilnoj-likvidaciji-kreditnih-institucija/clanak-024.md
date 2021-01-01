@@ -1,0 +1,24 @@
+## Dužnosti i ovlasti likvidatora
+# Članak 24.
+(1) Imenovani likvidator preuzima ovlasti uprave kreditne institucije u prisilnoj likvidaciji i dužan ih je izvršavati sukladno potrebama postupka prisilne likvidacije, u skladu s odredbama ovoga Zakona.
+(2) Imenovanje likvidatora upisuje se u sudski registar.
+(3) Likvidator zastupa kreditnu instituciju u postupku prisilne likvidacije samostalno i pojedinačno.
+(4) Na nagradu za rad i naknadu troškova likvidatora odgovarajuće se primjenjuju odredbe zakona kojim se uređuje stečaj koje uređuju nagradu za rad i naknadu troškova stečajnog upravitelja.
+(5) Likvidator je dužan postupati s pozornošću urednog i savjesnog gospodarstvenika, a osobito:
+1. osiguravati imovinu kreditne institucije u postupku prisilne likvidacije
+2. ažurirati poslovne knjige, knjigovodstvenu i drugu dokumentaciju kreditne institucije u postupku prisilne likvidacije do dana otvaranja postupka prisilne likvidacije
+3. odrediti povjerenstvo za popis imovine i sastaviti popis imovine kreditne institucije u postupku prisilne likvidacije
+4. sastaviti početnu bilancu odnosno izvještaj o početnom financijskom stanju kreditne institucije u postupku prisilne likvidacije na dan otvaranja prisilne likvidacije
+5. izraditi plan prisilne likvidacije u skladu s člankom 35. ovoga Zakona na koji nadzorno likvidacijsko tijelo daje suglasnost i koji odobrava skupština vjerovnika
+6. pažnjom dobrog gospodarstvenika brinuti o završetku započetih, a neobavljenih poslova kreditne institucije u prisilnoj likvidaciji i poslova potrebnih da bi se spriječilo nastupanje štete nad sredstvima dužnika
+7. brinuti se o naplati tražbina kreditne institucije u postupku prisilne likvidacije
+8. sastaviti predračun troškova likvidacijskog postupka i dostaviti ga na prethodno odobrenje nadzornom likvidacijskom tijelu
+9. očitovati se o prijavljenim tražbinama vjerovnika, uključujući i potraživanje Hrvatske agencije za osiguranje depozita po osnovi isplate osiguranih depozita.
+(6) Likvidator je dužan sastaviti popis svih tražbina kreditne institucije u postupku prisilne likvidacije u skladu s člankom 28. ovoga Zakona razvrstanih u isplatne redove sukladno članku 33. ovoga Zakona i do ispitnog ročišta očitovati se priznaje li ili osporava svaku prijavljenu tražbinu, kako bi sud mogao donijeti rješenje kojim odlučuje u kojem iznosu i kojem isplatnom redu su utvrđene odnosno osporene pojedine tražbine.
+(7) Od trenutka imenovanja pa do završetka postupka prisilne likvidacije u postupku prisilne likvidacije likvidator može, nakon odobrenja nadzornog likvidacijskog tijela i odobrenja suda, u ime kreditne institucije u postupku prisilne likvidacije pobijati pravne radnje dužnika poduzete na štetu vjerovnika ako smatra da su potrebne radi ispunjavanja ciljeva postupka.
+(8) Na pobijanje pravnih radnji kreditne institucije u postupku prisilne likvidacije na odgovarajući način primjenjuju se pravila zakona kojim se uređuje stečaj, osim u slučaju iz članka 30. stavka 8. ovoga Zakona.
+(9) Likvidator je dužan podnositi nadzornom likvidacijskom tijelu pisana izvješća o tijeku postupka prisilne likvidacije, redovito izvještavati o izvršenju naloga i uputa, a posebice o ekonomskom i financijskom stanju kreditne institucije u postupku prisilne likvidacije i mjerama koje je proveo pri izvršavanju svojih dužnosti i to najmanje tromjesečno.
+(10) Likvidator će po otvaranju postupka prisilne likvidacije bez odgode zatvoriti sve račune kreditne institucije i otvoriti novi račun kreditne institucije u prisilnoj likvidaciji ili više računa ako za to ima potrebe te odrediti osobe ovlaštene za raspolaganje sredstvima na tim računima. Sredstva sa zatvorenih računa prenijet će na nove račune i o tome će se bez odgađanja obavijestiti Hrvatsku narodnu banku, nadzorno likvidacijsko tijelo i dužnike kreditne institucije u postupku prisilne likvidacije.
+(11) Kreditna institucija kod koje kreditna institucija u postupku prisilne likvidacije zatraži otvaranje računa iz stavka 10. ovoga članka, otvara taj račun na temelju rješenja suda o otvaranju postupka prisilne likvidacije.
+(12) Likvidator je dužan nakon donošenja rješenja o otvaranju postupka prisilne likvidacije, a najkasnije do dana održavanja izvještajnog ročišta iz članka 18. stavka 1. ovoga Zakona izraditi početnu likvidacijsku bilancu i plan prisilne likvidacije iz stavka 5. točke 5. ovoga članka te ih bez odgađanja dostaviti na prethodnu suglasnost nadzornom likvidacijskom tijelu. Na izradu početnih likvidacijskih financijskih izvješća odgovarajuće se primjenjuju propisi kojima se uređuje računovodstvo.
+(13) Ako nadzorno likvidacijsko tijelo uskrati suglasnost na predloženi plan prisilne likvidacije, likvidator je dužan izmijeniti i dopuniti predloženi plan prisilne likvidacije u dodatnom roku koji će odrediti nadzorno likvidacijsko tijelo.

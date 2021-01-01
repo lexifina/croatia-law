@@ -1,0 +1,7 @@
+## Zaštita vjerovnika i podjela imovine
+# Članak 41.
+(1) Postoje li tražbine vjerovnika koje su sporne, likvidator je dužan prilikom diobe sredstava vjerovnicima isplatnog reda u kojem bi bila razvrstana osporena tražbina, a prije diobe vjerovnicima sljedećeg isplatnog reda, rezervirati sredstva za isplatu osporenih tražbina do okončanja postupka radi utvrđenja tražbine.
+(2) Sve tražbine koje dioničar ima prema kreditnoj instituciji, bez obzira na to po kojoj osnovi, namiruju se s osnove njegova položaja kao dioničara odnosno tek nakon namirenja svih ostalih tražbina vjerovnika kreditne institucije u postupku prisilne likvidacije i namirenja svih troškova postupka prisilne likvidacije.
+(3) Ako ne postoje dionice koje daju različita prava pri podjeli imovine kreditne institucije u postupku prisilne likvidacije, imovina se dijeli razmjerno sudjelovanju dionica u temeljnom kapitalu te kreditne institucije.
+(4) Ako ulozi u temeljni kapital kreditne institucije u postupku prisilne likvidacije nisu za sve dionice uneseni u istome omjeru, nadoknađuje se ono što je uloženo, a ostalo se dijeli razmjerno sudjelovanju dionica u temeljnom kapitalu te kreditne institucije.
+(5) Ako imovina kreditne institucije u postupku prisilne likvidacije nije dostatna za to da se nadoknadi ono što je uloženo, dioničari snose gubitke razmjerno sudjelovanju dionica u temeljnom kapitalu te kreditne institucije.

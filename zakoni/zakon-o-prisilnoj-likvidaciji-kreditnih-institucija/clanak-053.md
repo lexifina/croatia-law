@@ -1,0 +1,7 @@
+## Javno obavještavanje
+# Članak 53.
+(1) Ako bi provođenje reorganizacijskih mjera u Republici Hrvatskoj kao matičnoj državi članici nad kreditnom institucijom koja ima podružnicu u drugoj državi članici moglo utjecati na prava trećih u državi članici domaćinu i ako je protiv odluke o uvođenju reorganizacijskih mjera u Republici Hrvatskoj moguća žalba ili drugi pravni lijek, Hrvatska narodna banka objavit će obavijest o odluci o uvođenju reorganizacijske mjere u Službenom listu Europske unije i u dva dnevna lista svake države članice domaćina kako bi se olakšalo korištenje prava na žalbu ili drugog pravnog lijeka.
+(2) Obavijest iz stavka 1. ovoga članka Hrvatska narodna banka u najkraćem će roku dostaviti Uredu za publikacije Europske unije kao i u dva nacionalna dnevna lista svake države članice domaćina.
+(3) Obavijest iz stavka 1. ovoga članka objavit će se na službenom jeziku odnosno službenim jezicima relevantne države članice, pri čemu se u toj obavijesti navodi koja je svrha i pravna osnova za donošenje reorganizacijske mjere, rokovi za podnošenje žalbe ili drugog pravnog lijeka, jasno naznačen datum kada ti rokovi istječu te potpuna adresa tijela ili suda nadležnog za odlučivanje o žalbi ili drugom pravnom lijeku.
+(4) Reorganizacijska mjera iz stavka 1. ovoga članka izvršna je bez obzira na aktivnosti i ima pravni učinak u odnosu na vjerovnike, osim ako je drukčije propisano.
+3. LIKVIDACIJSKI I STEČAJNI POSTUPCI
